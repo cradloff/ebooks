@@ -41,7 +41,7 @@ Tullia: Dies, mein Herzchen, wird das Vorspiel zum Kampf sein, die Einleitung zu
 
 Octavia: Hör' auf! Deine Hand gleitet über meinen ganzen Leib hin; und jetzt geht sie gar noch tiefer hinunter! Was betastest du meine Schenkel? Ah, ah, ah! Tullia – was kitzelst du mich da unten? Du wendest ja deine Augen nicht mehr davon ab.
 
-Tullia: Mit wollüstiger Neugier betrachte ich mir diesen Tummelplatz der Frau Venus; er ist nicht groß, er ist nicht geräumig, und doch ist er voll köstlichster Wonnen; deine unersättliche Venus wird dar auf die Kräfte deines Mars bis aufs letzte erschöpfen.
+Tullia: Mit wollüstiger Neugier betrachte ich mir diesen Tummelplatz der Frau Venus; er ist nicht groß, er ist nicht geräumig, und doch ist er voll köstlichster Wonnen; deine unersättliche Venus wird darauf die Kräfte deines Mars bis aufs letzte erschöpfen.
 
 Octavia: Du bist von Sinnen, Tullia; wenn du Caviceus wärest, ich wäre nicht in Sicherheit! Was hast du dich jetzt aufrecht gesetzt und verschlingst mit deinen Augen alle meine hingestreckten Glieder von vorne und hinten? An mir ist doch nichts, was deine eignen Reize überträfe. Sieh nur dich selber an, wenn du etwas sehen willst, was deiner Liebe und deines Lobes würdig ist.
 
@@ -83,11 +83,11 @@ Octavia: Ich gebe dir das Gärtlein ganz und gar zu eigen, denn ich selber bin j
 
 Tullia: Weiche doch nicht zurück, Liebling! Öffne die Beine!
 
-Octavia: Du siehst, ich hab's getan. Und nun hast du mich ja ganz und gar: dein Mund ist auf meinen Mund gepresst, deine Brust auf meine Brust, dein Schoss auf meinen Schoss: darum will auch ich dich umklammern, wie du mich umklammert hast.
+Octavia: Du siehst, ich hab's getan. Und nun hast du mich ja ganz und gar: dein Mund ist auf meinen Mund gepresst, deine Brust auf meine Brust, dein Schoß auf meinen Schoß: darum will auch ich dich umklammern, wie du mich umklammert hast.
 
 Tullia: Hebe die Unterschenkel noch höher! Schließe deine Lenden über meinen Lenden zusammen. Ich lehre dich in deiner holden Unerfahrenheit jetzt eine neue Venus kennen. Wie eifrig du mir gehorchst! Schade, dass ich nicht so gut kommandieren kann, wie du exerzierst!
 
-Octavia: Ach! ach! meine liebe Tullia, meine Herrin, meine Königin! Wie du mich stößest, wie du dich hin- und herbewegst! Ich wollte, diese Lichter würden ausgelöscht; ich schäme mich, dass das Licht es mit ansehen soll, wie ich dir unter liege.
+Octavia: Ach! ach! meine liebe Tullia, meine Herrin, meine Königin! Wie du mich stößest, wie du dich hin- und herbewegst! Ich wollte, diese Lichter würden ausgelöscht; ich schäme mich, dass das Licht es mit ansehen soll, wie ich dir unterliege.
 
 Tullia: Gib doch acht, was du zu tun hast! Wenn ich stoße, so musst du gegenstoßen; rüttle, bewege deine Hinterbacken, wie ich die meinen bewege; hebe sie so hoch, wie du nur kannst! Fürchtest du, die Luft könnte dir ausgehen?
 
@@ -99,7 +99,7 @@ Octavia: Dein Gärtchen setzt das meinige in Brand. Hör doch auf!
 
 Tullia: Endlich, meine Göttin, bin ich dir Mann gewesen ... meine Braut! meine Gattin!
 
-Octavia: Oh, wollte der Himmel, du wärest mein Gemahl! Welch eine liebende Gattin würdest du an mir haben! welchen angebeteten Gatten würde ich besitzen! Aber du hast mein Gärtchen mit einem Regen überschwemmt; ich fühle mich ganz und gar nass! Mit was für Gräueln hast du mich überströmt, Tullia?
+Octavia: Oh, wollte der Himmel, du wärest mein Gemahl! Welch eine liebende Gattin würdest du an mir haben! Welchen angebeteten Gatten würde ich besitzen! Aber du hast mein Gärtchen mit einem Regen überschwemmt; ich fühle mich ganz und gar nass! Mit was für Gräueln hast du mich überströmt, Tullia?
 
 Tullia: Ja, freilich – ich bin fertig geworden. Aus dem untersten Kielraum meines Schiffchens hat in blinder Trunkenheit die Liebe ihren Venussaft in deinen jungfräulichen Kahn geschleudert. Aber, sage mir: hat in deinem Innersten jemals eine größere Wollust alle deine Sinne in Aufregung gebracht?
 
