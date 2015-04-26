@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Properties für eBook</comment>
+<!-- eindeutige ID des Buchs -->
+<entry key="UUID"></entry>
+<!-- Buch-Titel -->
+<entry key="title">Die Gespräche der Aloisia Sigaea</entry>
+<!-- Beschreibung -->
+<entry key="description">Aloisia Sigaea Toletana (französische Übersetzung unter dem Titel: L'Académie des dames; deutsche Übersetzung: Die Gespräche der Aloisia Sigaea)</entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Nicolas Chorier</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Chorier, Nicolas</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate"/>
+</properties>
