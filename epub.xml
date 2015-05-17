@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-<comment>Properties für eBook</comment>
-<!-- eindeutige ID des Buchs -->
-<entry key="UUID"></entry>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">9b31e080-fca8-11e4-b939-0800200c9a66</entry>
 <!-- Buch-Titel -->
 <entry key="title">Die Gespräche der Aloisia Sigaea</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">Aloisia Sigaea Toletana (französische Übersetzung unter dem Titel: L'Académie des dames; deutsche Übersetzung: Die Gespräche der Aloisia Sigaea)</entry>
+<entry key="description">Aloisia Sigaea Toletanae satira sotadica de arcanis Amoris et Veneris (französische Übersetzung unter dem Titel: L'Académie des dames; deutsche Übersetzung: Die Gespräche der Aloisia Sigaea)
+
+Deutsche Übertragung von Dr. H. Conradt, Leipzig: Insel, 1903</entry>
 <!-- Author (Anzeige) -->
 <entry key="author">Nicolas Chorier</entry>
 <!-- Author (für Sortierung) -->
