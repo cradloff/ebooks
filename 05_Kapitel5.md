@@ -1,0 +1,155 @@
+Fünftes Kapitel
+===============
+Das ist die Frage!
+------------------
+
+Es war teilweise den körperlichen Erschütterungen bei meinem ersten Besuch, teilweise den seelischen Erregungen, die den zweiten begleiteten, zuzuschreiben, dass ich mich wie ein etwas heruntergekommener Journalist fühlte, als ich wieder auf der Straße stand. Mein schmerzender Schädel hatte nur einen Gedanken, und zwar den, dass es tatsächlich etwas Wahres in der Erzählung dieses Mannes gab, dessen Konsequenzen ungeheuerlich waren, und dass sich darüber ein unfassbar schöner Artikel für die Zeitung machen lassen würde, sobald ich nur die Erlaubnis bekäme, das Material zu benutzen. Ich warf mich in einen am Ende der Straße stehenden Taxameter und fuhr zur Redaktion. McArdle saß wie gewöhnlich an seinem Schreibtisch.
+
+»Nun,« rief er erwartungsvoll, »wie ist die Sache ausgelaufen? Sie sehen aus, als ob Sie im Kriege gewesen sind, junger Mann, Sie brauchen mir nicht erst zu erzählen, dass er Sie angegriffen hat.«
+
+»Wir hatten zuerst eine kleine Differenz.«
+
+»Was ist das bloß für ein Mensch! Und was taten Sie dann?«
+
+»Nun, er wurde dann etwas vernünftiger, und wir kamen in ein Gespräch. Aber ich habe nichts aus ihm herausholen können – nichts, was für eine Veröffentlichung in Frage käme.«
+
+»Das ist mir noch gar nicht so ganz sicher. Sie haben jedenfalls ein blaues Auge mitgebracht, und das lässt sich doch veröffentlichen. Wir können diese Schreckensregierung nicht mehr dulden, Herr Malone. Wir müssen diesem Menschen einmal Anstand beibringen. Ich möchte morgen einen kleinen Leitartikel bringen, der Blasen ziehen wird. Geben Sie mir also gleich das Material, und ich mache mich anheischig, den Burschen für immer zu brandmarken. Professor Münchhausen. Wie wäre das als fette Überschrift? Sir John Mandeville redivivus – Cagliostro – alle diese Betrüger und Scharlatane in der Geschichte. Ich werde ihn als Schwindler, der er ist, entlarven.«
+
+»Ich würde das nicht tun, Herr McArdle.
+
+»Warum nicht?«
+
+»Weil er gar kein Schwindler ist.«
+
+»Was?« brüllte McArdle. »Sie wollen doch wohl nicht sagen, dass Sie tatsächlich an seinen Unsinn über Mammuts und Mastodons und große Seeschlangen glauben?«
+
+»Nein, davon weiß ich gar nichts. Ich wüsste auch nicht dass er derartige Ansprüche erhebt, aber ich glaube, er hat wirklich etwas Neues gefunden.«
+
+»Dann, um des Himmels willen, Mann, schreiben Sie das nieder.«
+
+»Ich möchte das wohl gern, aber alles, was ich weiß, hat er mir im Vertrauen mitgeteilt und unter der Bedingung, dass ich nicht darüber schreibe.« Ich fasste des Professors Mitteilungen in einige wenige Sätze zusammen. »So steht die Sache.«
+
+McArdle machte ein sehr ungläubiges Gesicht.
+
+»Gut, Herr Malone«, sagte er schließlich. »Diese wissenschaftliche Versammlung heute abend berührt in keiner Weise Ihr privates Versprechen. Ich nehme nicht an, dass irgendeine Zeitung darüber berichten wird, denn über Waldron ist schon ein dutzendmal etwas gebracht worden, und niemand weiß, dass Challenger sprechen wird. Das wird einen Schlager geben, wenn wir Glück haben. Sie werden auf jeden Fall hingehen und uns einen ziemlich vollständigen Bericht bringen. Ich werde bis Mitternacht einen entsprechenden Raum frei lassen.«
+
+Da ich noch viel zu tun hatte an diesem Tage, aß ich früh zu mittag im Savage-Club mit Tarp Henry, dem ich einen kurzen Bericht über meine Erlebnisse gab. Er hörte mir mit einem skeptischen Lächeln auf seinem dürren Gesicht zu und brach in ein schallendes Gelächter aus, als ich ihm sagte, dass der Professor mich überzeugt habe.
+
+»Mein lieber Junge, so etwas gibt es im wirklichen Leben nicht. Man macht nicht zufälligerweise eine riesige Entdeckung und verliert dann das Beweismaterial. Überlassen Sie das den Romanschreibern. Der Bursche ist so voll von Tricks wie ein Affenhaus im Zoo. Das ist alles absoluter Schwindel.«
+
+»Aber der amerikanische Poet?«
+
+»Hat niemals existiert.«
+
+»Ich habe sein Skizzenbuch gesehen.«
+
+»Challengers Skizzenbuch.«
+
+»Sie glauben, dass er das Tier gezeichnet hat?«
+
+»Aber natürlich, wer denn sonst?«
+
+»Und die Photographien?«
+
+»Die Photographien enthalten ja nichts. Sie geben doch selber zu, dass Sie nur einen Vogel gesehen haben.«
+
+»Einen Pterodactylus.«
+
+»So sagt er. Den Pterodactylus hat er Ihnen in den Kopf gesetzt.«
+
+»Gut, aber wie steht's mit den Knochen?«
+
+»Der erste davon stammt aus einem Irish stew und der zweite ist eigens zum Zwecke der Beweisführung hergerichtet. Wenn Sie geschickt sind und Ihr Geschäft verstehen, können Sie mit einem Knochen ebensogut schwindeln wie mit einer Photographie.«
+
+Ich fing an, mich etwas unbehaglich zu fühlen. Vielleicht hatte ich mich doch etwas vorschnell einfangen lassen. Dann kam mir plötzlich ein glücklicher Gedanke.
+
+»Wollen Sie zum Vortrag gehen?«
+
+Tarp Henry blickte gedankenvoll vor sich hin.
+
+»Er erfreut sich nicht gerade allgemeiner Beliebtheit, dieser geniale Challenger«, sagte er. »Es gibt eine Reihe von Leuten, die mit ihm abzurechnen haben. Ich kann wohl sagen, er ist einer der bestgehassten Menschen in London. Wenn die Studenten der Medizin auf der Bildfläche erscheinen, gibt es einen heillosen Krach. Ich habe keine Lust, einen Bierabend mitzumachen.«
+
+»Aber Sie könnten ihm schließlich soviel Gerechtigkeit erweisen, die Darlegung seines Falles anzuhören.«
+
+»Ja, das könnte ich wohl. Das wäre nicht mehr wie anständig. Schön, ich werde also mitgehen.«
+
+Als wir beim Institut ankamen, bemerkten wir, dass der Andrang noch größer war, als wir erwartet hatten. Eine Reihe von Autos, denen weißbärtige Professoren entstiegen, hielten vor dem Portal, während ein dunkler Strom von bescheidenen Fußgängern, der sich durch den überwölbten Torweg wälzte, bewies, dass die Zuhörerschaft sich nicht nur aus Wissenschaftlern, sondern auch aus dem allgemeinen Publikum rekrutierte. Und tatsächlich wurde uns, sobald wir Platz genommen hatten, klar, dass ein jugendlicher und sogar knabenhafter Geist sich auf der Galerie und im Hintergrund des Saales bemerkbar machte. Hinter mir erblickte ich eine Reihe von Gesichtern des bekannten Typus der Medizinstudenten. Offenbar hatte jedes große Krankenhaus eine Gruppe von ihnen hergesandt. Das Benehmen der Zuhörerschaft war zunächst noch etwas mutwillig. Man sang Strophen von Gassenhauern im Chor, und zwar mit einer Begeisterung, die eine etwas seltsame Einleitung zu einer wissenschaftlichen Vorlesung bildete, und schon machte sich eine Neigung zu persönlichen Neckereien geltend, die für viele die Aussicht auf einen fidelen Abend eröffnete, wenn sie auch die Empfänger dieser zweifelhaften Ehrungen etwas in Verlegenheit setzen mochten. So zum Beispiel erhob sich, als der alte Dr. Meldrum mit seinem wohlbekannten lockenverbrämten Opernhut auf der Rednerbühne erschien, die allgemeine Frage: »Wo haben Sie diesen Zylinderhut her?«, so dass er ihn schnell abnahm und ihn verstohlen unter seinem Stuhl verbarg. Als der rheumatische Professor Wadley zu seinem Sitzplatz humpelte, hagelte es allseits herzliche Erkundigungen nach dem Befinden seiner großen Zehe, was ihn begreiflicherweise in Verlegenheit setzte. Die stärkste Demonstration fand jedoch statt, als mein neuer Bekannter, Professor Challenger, eintrat und sich zu seinem Platz am äußersten Ende in der ersten Reihe auf der Rednertribüne begab. Es brach ein derartiges Willkommsgeheul aus, sobald nur sein schwarzer Bart sich um die Ecke schob, dass das Gefühl in mir aufstieg, Tarp Henry könnte mit seinem Argwohn recht haben, wenn er meinte, dass sich die Leute hier nicht nur wegen des Vortrages, sondern vor allem deswegen versammelt hätten, weil sich das Gerücht verbreitet hatte, dass der berühmte Professor an der Diskussion teilnehmen würde. Auf den vordersten Bänken, auf denen die gutangezogenen Leute saßen, entstand ein allgemeines Gelächter bei seinem Eintritt, das den Eindruck machte, als ob ihnen die soeben stattfindende Demonstration der Studenten nicht unwillkommen war. Die Begrüßung bestand tatsächlich in einem furchtbaren Gebrüll, das dem Aufruhr in einem Raubtierkäfig zu vergleichen war, wenn der Schritt des futterbringenden Wärters hörbar wird. Es schwang vielleicht ein beleidigender Ton darin mit, doch hatte ich in der Hauptsache das Gefühl, dass die lauten Zurufe mehr der lärmende Empfang eines Menschen waren, der einen amüsiert und interessiert, als von jemand, der einem unangenehm oder lächerlich ist. Challenger lächelte mit dem Ausdruck milder und duldsamer Geringschätzung, etwa wie ein freundlicher Mann dem Geschrei einer Schar von Kindern begegnet. Er nahm ruhig Platz, stieß einen heftigen Atemzug aus, ließ die Hand zärtlich über seinen Bart gleiten und blickte mit halbgesenkten Lidern und hochmutigen Augen auf die vor ihm sitzende Menge. Kaum hatte der bei seinem Eintritt entstandene Aufruhr sich gelegt, als Professor Ronald Murray, der Vorsitzende, und Professor Waldron, der Redner, vorn auf der Bühne erschienen und die Versammlung ihren Anfang nahm.
+
+Professor Murray wird, woran ich nicht zweifle, entschuldigen, wenn ich sage, dass er den gewöhnlichen Fehler der meisten Engländer hat, dass man ihn beim Reden nicht versteht. Warum Leute, die etwas zu sagen haben, was wert ist, angehört zu werden, sich nicht die Mühe geben, verständlich sprechen zu lernen, ist eines der Geheimnisse des modernen Lebens. Ihre Methode ist genau so vernünftig, als wenn man versuchen wollte, eine kostbare Flüssigkeit von der Quelle in ein Reservoir zu leiten durch eine geschlossene Röhre, die zu öffnen so leicht wäre. Professor Murray richtete, nicht ohne ein humorvolles Zwinkern zu dem rechts von ihm stehenden silbernen Leuchter, einige tiefsinnige Bemerkungen an seine weiße Halsbinde und an die auf dem Tisch stehende Wasserkaraffe. Darauf setzte er sich, und Professor Waldron, der berühmte und angesehene Gelehrte, erhob sich unter allgemeinem Beifallsgemurmel.
+
+Er war ein langer und hagerer Mann mit einer harten Stimme und einer aggressiven Art zu sprechen, aber er beherrschte die Kunst, seinen Gedanken eine den Hörern angemessene Form zu geben und sich so auszudrücken, dass er das Verständnis und sogar das Interesse eines Laienpublikums fand. Und dabei behandelte er die schwierigsten Dinge mit einem Schuss von Humor, so dass das Vorrücken der Tag- und Nachtgleiche oder der Bau eines Wirbeltieres in seinem Vortrag sich in eine sehr vergnügliche Angelegenheit verwandelte.
+
+Es war ein Überblick über die Schöpfungsgeschichte, gesehen aus der Vogelperspektive und unter wissenschaftlicher Beleuchtung, die er uns in einer immer klaren und zum Teil malerischen Sprache darbot. Er erzählte uns von der Erdkugel, jener riesigen Masse von feurigem Gas, die durch den Himmelsraum leuchtete. Dann schilderte er die Abkühlung und Festwerdung, das Schrumpfen als Ursache der Gebirgsbildung, die Verwandlung des Dampfes in Wasser und die langsame Entstehung des Schauplatzes, auf dem sich das unerklärliche Drama des Lebens abspielen sollte. Über den Ursprung des Lebens selbst sprach er in etwas unbestimmten Ausdrücken. Dass die Keime kaum den ursprünglichen Glutzustand überlebt haben könnten, erklärte er als ziemlich sicher. Sie wären infolgedessen erst später gekommen. Sind sie von selbst aus den abgekühlten, unorganischen Elementen des Erdballs entstanden? Sehr wahrscheinlich. Sind sie durch einen Meteor von außen her gekommen? Das war kaum denkbar. Im ganzen sprach der kluge Gelehrte sehr wenig dogmatisch über diese Dinge. Wir wären nicht imstande – oder wenigstens wir hätten es bis heute noch nicht erreicht, organisches Leben aus unorganischen Substanzen in unseren Laboratorien zu erzeugen. Die Kluft zwischen Totem und Lebendigem hätte bisher von unserer Chemie noch nicht überbrückt werden können. Aber es gäbe eine höhere und feinere Chemie der Natur, die mit Hilfe großer Kräfte und während langer Perioden wohl Resultate erzielen könne, die uns unmöglich wären. Hierbei müsse man es bewenden lassen.
+
+Dies führte den Vortragenden hin bis zu der großen Stufenleiter animalischen Lebens, die, tief unten mit Mollusken und kleinen Wassertieren beginnend, Sprosse für Sprosse über Reptilien und Fische zuletzt hinaufführt bis zur Känguruhratte, die lebendige Junge zur Welt bringt und als direkte Vorgängerin aller Säugetiere und daher vermutlich auch aller im Saal Anwesenden zu betrachten sei. (»Nein, nein!« rief ein skeptischer Student im Hintergrund.) »Wenn der junge Gentleman mit dem roten Schlips, der gerufen habe: Nein! nein!' und der vermutlich annehme, aus einem Ei ausgebrütet zu sein, ihn nach dem Vortrag erwarten wolle, so würde er sich freuen, das seltsame Wesen kennenzulernen.« (Gelächter.) »Der Gedanke, dass die Erschaffung dieses Gentlemans mit dem roten Schlips im Laufe dieses unendlich langen Naturprozesses den Höhepunkt bilden würde, wäre seltsam. Sollte der Entwicklungsprozess damit aufgehört haben? Hätten wir diesen Gentleman als den endgültigen Typus, als den Sinn und das Wesen der Entwicklung anzusehen? Er hoffe, dass er die Empfindungen des Gentlemans mit dem roten Schlips nicht verletzen würde, wenn er behaupte, dass, welche Tugenden der Gentleman in seinem Privatleben auch immer haben möge, die weitgreifenden Vorgänge im Universum keinen rechten Sinn hätten, wenn sie bereits jetzt am Ende ihrer Leistungen wären. Evolution bedeute nicht eine verschwendete Kraft, sondern sie wirke dauernd in der Richtung immer größerer Vollendung weiter.«
+
+Nachdem der Vortragende den Zwischenrufer so unter allgemeinem Gekicher mit rednerischer Anmut abgeführt hatte, wendete er sich wieder der Schilderung der Vergangenheit zu. Der Austrocknung der Meere, dem Auftauchen von Sandbänken, dem trägen, schleimigen Leben an ihren Ufern, den überfüllten Lagunen, der Neigung der Seetiere, sich auf die Schlammbänke zurückzuziehen, dem Überfluss der Nahrung, der ihrer dort wartete, und ihrer daraus resultierenden riesenhaften Größe. »Hier, meine Damen und Herren«, fügte er hinzu, »liegt der Ursprung jener furchtbaren Rasse von Sauriern, die uns noch heute erschrecken, wenn wir sie in Wealden [Geologisch interessantes, sich durch Kent, Sussex, Surrey und Hampshire hinziehendes Gebiet.] oder in den Schieferplatten bei Solnhofen erblicken, die aber glücklicherweise längst vor dem ersten Auftreten des Menschengeschlechts auf unserem Planeten ausgestorben sind.«
+
+»Das ist die Frage!« ertönte eine dumpfe Stimme auf der Rednerbühne.
+
+Professor Waldron war ein absolut disziplinierter Mann mit der Gabe kaustischen Humors, die es so gefährlich machte, ihn zu unterbrechen, wie das Beispiel des Gentlemans mit dem roten Schlips bewies.
+
+Aber dieser Einwurf erschien ihm so lächerlich, dass er nicht wusste, was er damit anfangen sollte. So sieht ein Vertreter der Shakespeare-Partei aus, wenn er einem unangenehmen Verfechter der Bacon-Theorie gegenübergestellt wird, oder ein Astronom, der von jemand angegriffen wird, der die Erde fanatisch für eine flache Scheibe erklärt. Er machte eine kurze Pause und wiederholte dann mit erhobener Stimme die Worte: »Die ausgestorben waren, bevor der Mensch auf der Erde erschien.«
+
+»Das ist die Frage!« erdröhnte die Stimme von neuem.
+
+Waldrons erstaunter Blick lief die Reihe von Professoren auf der Rednerbühne entlang, bis seine Augen die Gestalt Challengers erfasst hatten, der sich mit geschlossenen Augen und amüsiertem Gesichtsausdruck in seinem Stuhl zurücklegte, als wenn er im Schlaf lächelte.
+
+»Ich sehe,« sagte Waldron achselzuckend, »es ist mein Freund Professor Challenger.« Und er nahm, als ob diese Worte zur Erklärung ausreichten und nichts weiter dazu gesagt zu werden brauchte, unter allgemeinem Gelächter den Faden seines Vortrages wieder auf.
+
+Aber der Vorfall war damit durchaus nicht erledigt. Welche Wege durch die Wildnis vergangener Zeiten der Vortragende auch beschritt, alle schienen sie immer zu der Behauptung, dass das prähistorische Leben erloschen sei, hinzuführen, worauf jedesmal sofort das Gebrumm des Professors Challenger ertönte. Die Zuhörerschaft begann diese Einwürfe schon jedesmal vorauszuahnen und brüllte vor Entzücken, wenn sie fielen. Die überladenen Bänke der Studenten stimmten mit ein, und jedesmal, wenn Challengers Bart sich öffnete, ertönte aus hundert Kehlen, bevor er noch ein Wort gesagt hatte, der allgemeine Ruf: »Das ist die Frage!«, während eine Gegenpartei »Pfui« und »Zur Ordnung!« schrie. Waldron, obwohl ein erfahrener Redner und kräftiger Mann, wurde nervös. Er zögerte, stammelte, wiederholte sich, verfing sich in einem langen Satz und drehte sich schließlich wütend nach dem Urheber dieser Störungen um.
+
+»Das ist in der Tat unerträglich«, rief er, mit funkelnden Augen zum Gegner hinüberblickend. »Ich muss Sie bitten, Professor Challenger, diese dummen und unmanierlichen Unterbrechungen zu unterlassen.«
+
+Da wurde es still im Saal. Die Studenten waren starr vor Entzücken, als sie sahen, dass die hohen Götter im Olymp selbst miteinander in Fehde gerieten. Challengers schwere Gestalt erhob sich langsam vom Stuhl.
+
+»Ich muss im Gegenteil Sie bitten, Professor Waldron, keine Behauptungen mehr aufzustellen, die nicht im absoluten Einklang mit den wissenschaftlichen Tatsachen stehen.«
+
+Diese Worte lösten einen Sturm aus. »Pfui, Pfui!« »Lasst ihn doch sprechen!« »Schmeißt ihn raus!« »Stoßt ihn von der Rednerbühne!« »Ehrliches Spiel!« ertönte es aus dem allgemeinen Aufruhr, in dem sich Vergnügen und Verachtung mischten. Der Vorsitzende war aufgesprungen, winkte mit beiden Händen und blökte aufgeregt. »Professor Challenger – persönliche Ansichten – später –«, das waren die einzigen Worte, die man in diesem undeutlichen Gemurmel unterscheiden konnte. Der Störenfried verneigte sich, lächelte, strich seinen Bart und ließ sich wieder in seinen Stuhl fallen. Waldron, hochrot und in kriegerischer Stimmung, setzte seine Ausführungen fort. Hin und wieder, wenn er eine Behauptung aufstellte, warf er einen giftigen Blick zu seinem Gegner hinüber, der, anscheinend im tiefen Schlummer, mit einem breiten, glücklichen Lächeln auf dem Antlitz dasaß.
+
+Schließlich war der Vortrag zu Ende – ich neige zu der Annahme, dass es ein vorzeitiges Ende war; denn der Schluss war übereilt und ohne Zusammenhang. Der Faden der Beweisführung war roh zerrissen und die Zuhörerschaft aufgeregt und erwartungsvoll. Waldron setzte sich, und nach einer Aufforderung des Vorsitzenden erhob sich Professor Challenger und trat an den vorderen Rand der Rednerbühne. Im Interesse meiner Zeitung habe ich seine Rede wörtlich stenographiert:
+
+»Meine Damen und Herren«, begann er inmitten einer andauernden Unterbrechung aus dem Hintergrund. »Verzeihung – meine Damen, Herren und Kinder – ich muss um Entschuldigung bitten, dass ich versehentlich eine beträchtliche Gruppe meiner Zuhörerschaft ausgelassen habe.« (Tumult, während dessen der Professor dastand, eine Hand erhob und liebenswürdig mit seinem riesigen Kopf nickte, als wäre er der Papst, der der Menge seinen Segen erteilt.) »Ich bin bestimmt worden, Professor Waldron den Dank der Versammlung auszusprechen für den sehr anschaulichen und gedankenreichen Vortrag, den wir soeben gehört haben. Er enthält einige Punkte, mit denen ich nicht übereinstimme, und es war meine Pflicht, auf sie hinzuweisen, sobald sie auftraten. Nichtsdestoweniger hat Professor Waldron seine Aufgabe gut gelöst, die darin bestand, einen allgemeinverständlichen und interessanten Bericht darüber zu geben, was er als die Geschichte unseres Planeten ansieht. Volkstümliche Vorträge hören sich ja ganz gut an. Aber Professor Waldron (er blinzelte mit liebenswürdigem Lächeln zu dem Vortragenden hinüber) wird entschuldigen, wenn ich sage, dass sie notwendigerweise sowohl oberflächlich als auch irreführend sind, sobald sie dem Verständnis einer ungebildeten Zuhörerschaft angepasst werden müssen. (Ironischer Beifall.) Volkstümliche Redner sind ihrer Natur nach Schmarotzer. (Professor Waldron protestierte ärgerlich gestikulierend.) Sie sind auf Ruhm aus oder machen die Arbeit, die durch ihre bescheidenen und unbekannten Kollegen geleistet worden ist, zu Gelde. Die geringste neue Tatsache, die in einem Laboratorium erarbeitet ist, ein Stein, der zum Tempel der Wissenschaft herzugetragen wird, ist weit wertvoller als eine populäre Arbeit aus zweiter Hand, die einem eine müßige Stunde vertreibt, aber keine nützlichen Resultate hervorbringen kann. Ich spreche diese einleuchtenden Gedanken nicht aus, um Professor Waldron persönlich herabzusetzen, sondern damit Sie nicht den Sinn für die wahren Verhältnisse verlieren und nicht einen Messgehilfen mit dem Hohenpriester verwechseln.« (In diesem Augenblick sah man Waldron mit dem Vorsitzenden flüstern, der sich halb erhob und irgend etwas Ernstes zu seiner Wasserkaraffe sagte.) »Aber genug davon.« (Lauter und andauernder Beifall.) »Lassen Sie mich jetzt übergehen zu einem Gegenstand von allgemeinerem Interesse. Worin besteht der besondere Grund, aus dem ich, ein echter Forscher, Einwendungen gegen die wissenschaftliche Sorgfalt des Vortragenden erhoben habe? Sie beziehen sich auf die Beständigkeit gewisser Typen des animalischen Lebens auf der Erde. Ich spreche von diesen Dingen nicht als Dilettant oder, wie ich hinzufügen darf, als volkstümlicher Redner, sondern ich spreche als einer, dessen wissenschaftliches Gewissen ihn zwingt, sich stets eng an die Tatsachen zu halten, und daher sage ich, dass Professor Waldron sehr im Unrecht ist mit der Annahme, dass die sogenannten prähistorischen Tiere nicht mehr existieren, weil er selbst sie niemals gesehen hat. Sie sind in der Tat, wie er gesagt hat, unsere Vorfahren. Aber sie sind, wenn ich den Ausdruck gebrauchen darf, unsere gegenwärtigen Vorfahren, die noch mit all ihren scheußlichen und furchtbaren Eigenschaften gefunden werden können, wenn jemand den Mut, die Energie und die Kühnheit hat, sie in ihren Aufenthaltsorten aufzusuchen. Geschöpfe, von denen wir annehmen, dass sie der Juraperiode angehörten, Ungetüme, die unsere größten und wildesten Säugetiere verschlingen können, existieren noch heute. (Unsinn! Beweisen! Woher wissen Sie das? Das ist die Frage!) Woher ich das weiß, fragen Sie mich? Ich weiß es, weil ich ihre geheimen Schlupfwinkel besucht habe. Ich weiß es, weil ich einige von ihnen gesehen habe. (Beifall! Lärm und eine Stimme: »Lügner!«) Ich bin ein Lügner? (Starke und lärmende Zustimmung.) Habe ich jemand sagen hören, dass ich ein Lügner wäre? Will der Mensch, der mich einen Lügner nannte, freundlichst aufstehen, damit ich ihn kennenlernen kann. (Eine Stimme: »Hier ist er, Herr!« und ein harmloser, kleiner Mensch mit einer Brille, heftig um sich schlagend, wurde inmitten einer Gruppe von Studenten hochgehoben.) Sie haben es gewagt, mich einen Lügner zu nennen? (»Nein! Nein!« schrie der Angeklagte und verschwand wieder wie der Teufel in der Schachtel.) Sollte irgendeine Person in diesem Saal es wagen, meine Glaubwürdigkeit anzuzweifeln, so würde ich mich freuen, nach dem Vortrag einige Worte mit ihr wechseln zu können. (»Lügner!«) Wer hat das gesagt? (Wieder wurde ein harmloser, sich heftig sträubender Mensch in die Höhe gehoben.) Wenn ich zu Ihnen herunterkomme – – – (Allgemeiner Chorgesang: »Komm, Herzchen, komm,« unterbrach die Verhandlungen für einige Augenblicke, während der Vorsitzende, der aufgestanden war und die Hände rang, die Musik zu dirigieren schien. Der Professor mit seinem flammenden Gesicht, den geblähten Nüstern und dem gesträubten Bart geriet jetzt in eine wahre Berserkerwut.) Jeder große Entdecker hat der gleichen Ungläubigkeit gegenübergestanden – das ist das wahre Zeichen einer Generation von Narren. Wenn ihnen große Tatsachen vorgelegt werden, so haben sie nicht die Intuition, die Vorstellungskraft, die ihnen erlaubt, sie zu verstehen. Sie können nur die Männer, die ihr Leben in die Schanze geschlagen haben, um der Wissenschaft neue Gebiete zu erobern, mit Schmutz bewerfen. Die Propheten verfolgen sie! Galilei, Darwin und ich –« (anhaltender Beifall und vollständige Unterbrechung).
+
+Alle diese eiligst hingeschriebenen Notizen geben kaum einen Begriff von dem furchtbaren Chaos, zu dem die Versammlung sich bis zu diesem Zeitpunkt entwickelt hatte. Die Aufregung war so entsetzlich, dass verschiedene Damen sich bereits eiligst zurückzogen. Ernste und würdige alte Herren schienen von der allgemein herrschenden Stimmung ebenso erfasst zu sein, wie die Studenten, und ich sah, wie weißbärtige Männer aufstanden und ihre Fäuste drohend gegen den halsstarrigen Professor schüttelten. Die riesige Zuhörerschaft siedete und schäumte wie ein Kochtopf. Der Professor trat einen Schritt vor und erhob die Hände. Es war etwas so Stolzes, Fesselndes und Männliches in seiner Erscheinung, dass das Klatschen und Schreien unter dem Eindruck seiner imponierenden Gestalt und seiner herrischen Augen langsam aufhörte. Er schien eine letzte Mitteilung machen zu wollen. Alles schwieg, um sie zu hören.
+
+»Ich will Sie nicht aufhalten,« sagte er, »es ist nicht der Mühe wert. Wahrheit ist Wahrheit, und der Lärm einer Anzahl alberner junger Leute – und ich fürchte hinzufügen zu müssen, auch der gleichfalls albernen alten Leute – kann daran nichts ändern. Ich erhebe den Anspruch, der Wissenschaft neue Wege gewiesen zu haben. Sie bestreiten das! (Beifall.) Dann werde ich Sie auf die Probe stellen. Wollen Sie einen oder mehrere von Ihnen als Vertreter bestimmen, die in Ihrem Namen meine Darlegungen prüfen?«
+
+Summerlee, der alte Professor der vergleichenden Anatomie, ein großer, dürrer und unfreundlicher Mensch mit dem vertrockneten Aussehen eines Theologen, erhob sich inmitten der Zuhörerschaft. Er wünsche, sagte er, dem Professor Challenger die Frage vorzulegen, ob die Resultate, auf die er in seinen Ausführungen angespielt habe, die Früchte seiner vor zwei Jahren ausgeführten Reise zu den Quellgebieten des Amazonenstroms seien.
+
+Professor Challenger bejahte das.
+
+Summerlee wünschte zu wissen, wie es möglich sei, dass Professor Challenger behaupten könne, Entdeckungen in diesen Gebieten gemacht zu haben, die von Wallace, Bates und anderen früheren Forschern von anerkanntem wissenschaftlichen Ruf übersehen worden wären.
+
+Professor Challenger antwortete, dass Summerlee anscheinend den Amazonenstrom mit der Themse verwechsle, der erstere wäre tatsächlich ein etwas größerer Strom. Es würde Herrn Summerlee wohl interessieren zu hören, dass mit dem Stromgebiet des Orinoco, der ja mit dem Amazonenstrom zusammenhänge, einige 50 000 Quadratmeilen Land neu erforscht seien, und dass in einem so weiten Raum es durchaus nicht unmöglich für einen Menschen sei, etwas zu finden, was ein anderer nicht gesehen habe.
+
+Summerlee erklärte mit einem sauren Lächeln, dass er den Unterschied zwischen der Themse und dem Amazonenstrom, der auf der Tatsache beruhe, dass irgendeine Behauptung bezüglich der ersteren nachgeprüft werden könne, während das bei dem letzteren nicht der Fall sei, wohl zu würdigen wisse. Er würde sich dem Professor Challenger verpflichtet fühlen, wenn er die geographische Länge und Breite der Gegend, in der sich prähistorische Tiere vorfinden sollten, angeben würde.
+
+Professor Challenger erwiderte, dass er mit derartigen Informationen aus guten Gründen zurückhalte. Er wäre aber bereit, sie mit gehöriger Vorsicht einem von der Zuhörerschaft gewählten Ausschuss zu geben. Ob Herr Summerlee geneigt wäre, einem solchen Ausschuss beizutreten und seine Behauptungen selbst nachzuprüfen?
+
+Professor Summerlee: »Ja, das will ich.«
+
+Professor Challenger: »Dann gebe ich Ihnen die Versicherung, dass ich Ihnen ein Material übergeben will, das Sie in den Stand setzt, die richtige Stelle zu finden. Es ist allerdings, da Herr Summerlee meine Behauptungen kontrollieren will, nur gerecht, wenn ich wünsche, dass noch einer oder mehrere mit ihm gehen, die ihn kontrollieren. Ich will Ihnen nicht verhehlen, dass es Schwierigkeiten und Gefahren zu bestehen gibt. Herr Summerlee wird einen jüngeren Kollegen brauchen können. Darf ich bitten um freiwillige Meldungen?«
+
+So tritt die große Krisis in eines Mannes Leben an ihn heran. Hätte ich mir vorstellen können, als ich diesen Saal betrat, dass ich im Begriff war, mich selbst für ein wilderes Abenteuer, als ich mir je hätte träumen lassen, zu verpflichten? Aber Gladys – war dies nicht die richtige Gelegenheit, von der sie sprach? Gladys hätte gewünscht, dass ich mich meldete. Ich sprang auf und begann zu sprechen, und doch wusste ich noch gar nicht, was ich sagen wollte. Tarp Henry, mein Begleiter, zupfte an meinen Rockschößen, und ich hörte ihn flüstern: »Setzen Sie sich doch, Malone. Machen Sie sich doch nicht selbst zum öffentlichen Esel.« Im selben Augenblick bemerkte ich, dass ein großer, schlanker Mann mit dunkelbraunem Haar, einige Sitzplätze vor mir, auch aufgesprungen war. Er starrte mit ärgerlichen Augen zu mir herüber, aber ich lehnte es ab, zurückzutreten.
+
+»Ich werde mitgehen, Herr Vorsitzender«, rief ich immer von neuem zur Rednerbühne hinüber.
+
+»Namen! Namen!« rief die Zuhörerschaft.
+
+»Mein Name ist Edward Dunn Malone. Ich bin Berichterstatter von der Daily Gazette. Ich erhebe den Anspruch, ein unbedingt unvoreingenommener Zeuge zu sein.«
+
+»Und wie ist Ihr Name, mein Herr?« fragte der Vorsitzende meinen langen Rivalen.
+
+»Ich bin Lord John Roxton. Ich bin bereits am Amazonenstrom gewesen, kenne das ganze Gebiet und habe besondere Eignung für diese Untersuchung.«
+
+»Lord John Roxtons Ruf als Sportsmann und Reisender ist ja weltbekannt«, sagte der Vorsitzende. »Es würde aber sicherlich gut sein, wenn wir auch ein Mitglied der Presse auf einer solchen Expedition hätten.«
+
+Dann rege ich an,« sagte Professor Challenger, »dass diese beiden Herren als Vertreter der Versammlung gewählt werden, Professor Summerlee auf seiner Reise zur Nachprüfung und Berichterstattung über die Wahrheit meiner Behauptungen zu begleiten.«
+
+So entschied sich inmitten von Lärm und Beifall unser Schicksal. Und bald ging ich unter in dem Menschenstrom, der sich dem Ausgang zuwälzte, noch halb betäubt von dem großen, neuen Projekt, das sich so urplötzlich vor mir erhoben hatte. Als ich aus dem Saal heraustrat, bemerkte ich für einen Augenblick den Ansturm lachender Studenten auf dem Bürgersteig und einen Arm, der mitten unter ihnen einen auf- und abtanzenden Regenschirm schwang. Und dann glitt, umgeben von Lärm und Beifall, Professor Challengers kleines Auto davon. Und ich schritt im silbernen Lichte die Regentstreet hinunter, voll von Gedanken an Gladys und das, was die Zukunft mir bringen sollte.
+
+Plötzlich fühlte ich eine Berührung am Ellenbogen. Ich drehte mich um und blickte in die humorvollen und zugleich herrischen Augen des großen, schlanken Mannes, der sich gleichfalls als Freiwilliger zu unserem seltsamen Unternehmen gemeldet hatte.
+
+»Herr Malone, wenn ich recht verstanden habe«, sagte er. »Wir werden beide von der Partie sein, – wie? Meine Wohnung ist hier gerade gegenüber im Albanygebäude. Vielleicht haben Sie die Freundlichkeit, ein halbes Stündchen bei mir zuzubringen; denn es gibt noch einige Dinge, die ich dringend mit Ihnen besprechen möchte.«
+

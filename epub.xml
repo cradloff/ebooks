@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">1b4a5430-e936-11e5-a837-0800200c9a66</entry>
+<!-- Buch-Titel -->
+<entry key="title">Die Verlorene Welt</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die vergessene Welt (im Original: The Lost World) ist ein 1912 erschienener Roman des britischen Schriftstellers Sir Arthur Conan Doyle. Im Zentrum der Erzählung steht die Erkundung eines geheimnisvollen südamerikanischen Plateaus im Dschungel, das von Urtieren bewohnt sein soll.</entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Arthur Conan Doyle</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Doyle, Arthur Conan</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate"/>
+</properties>
