@@ -10,8 +10,15 @@ h2 {
 	font-weight: normal;
 }
 
+p {
+	text-indent: 1em;
+}
+
 blockquote p {
 	white-space: pre-wrap;
+	text-indent: 0em;
+	padding-left: 0.5em;
+	font-family: cursive;
 }
 
 /* Cover */
