@@ -93,7 +93,7 @@ Ich betrat den Klub. Es war kurz nach 11 Uhr, und der große Raum war ziemlich v
 
 »Wissen Sie sonst noch etwas von Challenger?«
 
-»Nun, ich bin Bakteriologe, wie Sie wissen. Ich lebe in einem 90O-Diameter-Mikroskop. Ich kann kaum den Anspruch erheben, ein ernsthafter Kenner von irgendeiner Sache zu sein, die ich mit bloßen Augen sehen kann. Ich bin ein Pionier vom äußersten Rande des Wissens, und ich fühle mich gar nicht auf meinem richtigen Platze, wenn ich mein Studierzimmer verlasse und in Berührung mit euch allen, euch großen, rohen und plumpen Geschöpfen, trete. Ich bin zu isoliert, um mich für Skandalgeschichten zu interessieren. Aber ich habe doch bei wissenschaftlichen Unterhaltungen einiges über Challenger gehört; denn er ist einer von diesen Menschen, an denen man nicht vorbeigehen kann. Er ist tatsächlich so verwegen, wie sie ihn schildern. Er gleicht einer scharf geladenen Batterie von Kraft und Lebensenergie, aber er ist ein streitsüchtiger, boshafter, skrupelloser Sonderling mit seltsamen Liebhabereien. Er ist so weit gegangen, einige schwindelhafte Photographien von der südamerikanischen Expedition vorzulegen.«
+»Nun, ich bin Bakteriologe, wie Sie wissen. Ich lebe in einem 900-Diameter-Mikroskop. Ich kann kaum den Anspruch erheben, ein ernsthafter Kenner von irgendeiner Sache zu sein, die ich mit bloßen Augen sehen kann. Ich bin ein Pionier vom äußersten Rande des Wissens, und ich fühle mich gar nicht auf meinem richtigen Platze, wenn ich mein Studierzimmer verlasse und in Berührung mit euch allen, euch großen, rohen und plumpen Geschöpfen, trete. Ich bin zu isoliert, um mich für Skandalgeschichten zu interessieren. Aber ich habe doch bei wissenschaftlichen Unterhaltungen einiges über Challenger gehört; denn er ist einer von diesen Menschen, an denen man nicht vorbeigehen kann. Er ist tatsächlich so verwegen, wie sie ihn schildern. Er gleicht einer scharf geladenen Batterie von Kraft und Lebensenergie, aber er ist ein streitsüchtiger, boshafter, skrupelloser Sonderling mit seltsamen Liebhabereien. Er ist so weit gegangen, einige schwindelhafte Photographien von der südamerikanischen Expedition vorzulegen.«
 
 »Sie sagen, er hat Liebhabereien. Was ist denn sein besonderes Steckenpferd?«
 
@@ -103,7 +103,7 @@ Ich betrat den Klub. Es war kurz nach 11 Uhr, und der große Raum war ziemlich v
 
 »Im Augenblick nicht. Aber es existiert eine Übersetzung dieser Verhandlungen. Wir haben sie in unserem Archiv. Würden Sie sich die Mühe machen, mitzukommen?«
 
-»Das ist gerade das, was ich brauche. Ich soll den Burschen nämlich interviewen, und ich, brauche irgend etwas zur Anknüpfung. Es ist wirklich riesig nett von Ihnen, dass Sie mir helfen wollen. Ich würde gern jetzt mitgehen, wenn es noch nicht zu spät ist.«
+»Das ist gerade das, was ich brauche. Ich soll den Burschen nämlich interviewen, und ich brauche irgend etwas zur Anknüpfung. Es ist wirklich riesig nett von Ihnen, dass Sie mir helfen wollen. Ich würde gern jetzt mitgehen, wenn es noch nicht zu spät ist.«
 
 Eine halbe Stunde später saß ich in seinem Redaktionszimmer mit einer mächtigen Aktenmappe vor mir, die bei dem Artikel »Weismann gegen Darwin« aufgeschlagen war. Der Artikel trug die Überschrift: »Lebhafter Protest in Wien. Temperamentvolle Verhandlungen.« Da ich meine wissenschaftliche Ausbildung etwas vernachlässigt hatte, war es mir nicht möglich, der ganzen Beweisführung zu folgen, aber es war klar, dass der englische Professor seinen Gegenstand in einer sehr aggressiven Form behandelt und seine Kollegen vom Kontinent vollständig verärgert hatte. »Protest«, »Lärm«, »Anrufung des Vorsitzenden« waren drei der ersten eingeklammerten Ausdrücke, die mir ins Auge fielen. Vom Inhalt des Artikels verstand ich gerade soviel, als ob er chinesisch geschrieben wäre.
 
@@ -139,7 +139,7 @@ Die Arbeit machte mir einige Mühe. Als der Brief fertig war, schmeichelte ich m
 
 > Ich bin mit der Versicherung allergrößter Hochachtung
 > Ihr ganz ergebener
-> Eduard M. Malone.
+> Edward M. Malone.
 
 »Nun, was sagen Sie dazu?« fragte ich triumphierend.
 
@@ -151,5 +151,9 @@ Die Arbeit machte mir einige Mühe. Als der Brief fertig war, schmeichelte ich m
 
 »Hinzugehen. Wenn ich erst in seinem Zimmer sitze, werde ich schon irgendwie weiterkommen. Unter Umständen werde ich ihm ein offenes Bekenntnis machen. Wenn er Sportsmann ist, wird ihn das kitzeln.«
 
-»Kitzeln ist gut. Er scheint mir der Mann zu sein, Sie zu kitzeln! Ein Panzerhemd oder eine amerikanische Fußballerausrüstung ist das, was Sie jetzt gebrauchen.« »Auf Wiedersehen also!« »Ich werde die Antwort am Freitag morgen hier für Sie bereit halten – wenn er überhaupt geruht, Ihnen zu antworten. Er ist ein gewalttätiger, gefährlicher und streitsüchtiger Charakter. Gehasst von jedem, der ihm in die Quere kommt, und die Zielscheibe des Spotts für die Studenten, soweit sie es überhaupt wagen, sich ihm gegenüber eine Freiheit herauszunehmen. Es wäre vielleicht das beste für Sie, wenn Sie überhaupt nichts mehr von dem Burschen hörten.«
+»Kitzeln ist gut. Er scheint mir der Mann zu sein, Sie zu kitzeln! Ein Panzerhemd oder eine amerikanische Fußballerausrüstung ist das, was Sie jetzt gebrauchen.«
+
+»Auf Wiedersehen also!«
+
+»Ich werde die Antwort am Freitag morgen hier für Sie bereit halten – wenn er überhaupt geruht, Ihnen zu antworten. Er ist ein gewalttätiger, gefährlicher und streitsüchtiger Charakter. Gehasst von jedem, der ihm in die Quere kommt, und die Zielscheibe des Spotts für die Studenten, soweit sie es überhaupt wagen, sich ihm gegenüber eine Freiheit herauszunehmen. Es wäre vielleicht das beste für Sie, wenn Sie überhaupt nichts mehr von dem Burschen hörten.«
 

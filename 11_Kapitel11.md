@@ -113,7 +113,7 @@ Es war Summerlee, der die Debatte eröffnete. Den ganzen Tag lang war er schon i
 
 Ich muss gestehen, dass diese Darlegungen Summerlees Eindruck auf mich machten und mir als ganz vernünftig vorkamen. Sogar Challenger wurde betroffen bei dem Gedanken, dass seine Feinde niemals widerlegt werden würden, wenn die Bestätigung seiner Behauptungen diejenigen nicht erreichte, die sie bezweifelt hatten.
 
-»Das Problem des Abstieges erscheint im ersten Moment ungeheuerlich,« sagte er, »und doch zweifle ich nicht daran, dass es sich mit dem Verstände lösen lässt. Ich bin geneigt, unserem Kollegen darin zuzustimmen, dass ein verlängerter Aufenthalt im Maple-White-Land gegenwärtig nicht ratsam ist und dass wir die Frage unserer Rückkehr bald ins Auge fassen müssen. Ich widersetze mich indessen durchaus, dies Land zu verlassen, bevor wir eine wenn auch nur oberflächliche Prüfung desselben angestellt haben und in der Lage sind, etwas, was nach einer Karte aussehen könnte, mitzunehmen.«
+»Das Problem des Abstieges erscheint im ersten Moment ungeheuerlich,« sagte er, »und doch zweifle ich nicht daran, dass es sich mit dem Verstande lösen lässt. Ich bin geneigt, unserem Kollegen darin zuzustimmen, dass ein verlängerter Aufenthalt im Maple-White-Land gegenwärtig nicht ratsam ist und dass wir die Frage unserer Rückkehr bald ins Auge fassen müssen. Ich widersetze mich indessen durchaus, dies Land zu verlassen, bevor wir eine wenn auch nur oberflächliche Prüfung desselben angestellt haben und in der Lage sind, etwas, was nach einer Karte aussehen könnte, mitzunehmen.«
 
 Professor Summerlee knurrte vor Ungeduld.
 

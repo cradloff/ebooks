@@ -215,7 +215,7 @@ Die Photographie war sicherlich sehr undeutlich. Ein unfreundlicher Kritiker hä
 
 »Ich glaube, das ist dieselbe Gegend wie auf der Tuschzeichnung«, sagte ich.
 
-»Es ist dieselbe Gegend«, antwortete der Professor. »Ich habe Spuren von dem Lager des Amerikaners gesunden. Jetzt sehen Sie dies hier!«
+»Es ist dieselbe Gegend«, antwortete der Professor. »Ich habe Spuren von dem Lager des Amerikaners gefunden. Jetzt sehen Sie dies hier!«
 
 Es war dieselbe Szene, aus größerer Nähe gesehen, obgleich die Photographie außerordentlich mangelhaft war. Ich konnte deutlich die isolierte, von einem Baum gekrönte Felsspitze, die abseits der Felswände stand, erkennen.
 
@@ -261,7 +261,7 @@ Der Professor schnurrte wie eine Katze vor Befriedigung.
 
 »Und was taten Sie darauf, Herr Professor?«
 
-»Die Regenzeit trat ein, Herr Malone, und meine Vorräte waren erschöpft. Ich erforschte einen Teil dieser riesigen Felswände, aber es war mir nicht möglich, irgendeinen nach oben führenden Pfad ausfindig zu machen. Der pyramidenförmige Fels, auf dem ich den Pterodactylus sah und schoss, bot die Möglichkeit eines Aufstiegs, und da ich mich etwas aufs Kraxeln verstehe, gelang es mir, bis zur halben Höhe desselben emporzuklimmen. Von hier aus konnte ich mir eine bessere Vorstellung von dem Felsplateau machen. Es kam mir sehr ausgedehnt vor. Weder nach Osten noch nach Westen vermochte ich das Ende der grün bewachsenen Höhe zu erblicken. Unten breitete sich «in sumpfiges, dschungelartiges Gebiet aus voll von Schlangen, Insekten und Fieber. Es bildet einen natürlichen Schutz des seltsamen Plateaus.«
+»Die Regenzeit trat ein, Herr Malone, und meine Vorräte waren erschöpft. Ich erforschte einen Teil dieser riesigen Felswände, aber es war mir nicht möglich, irgendeinen nach oben führenden Pfad ausfindig zu machen. Der pyramidenförmige Fels, auf dem ich den Pterodactylus sah und schoss, bot die Möglichkeit eines Aufstiegs, und da ich mich etwas aufs Kraxeln verstehe, gelang es mir, bis zur halben Höhe desselben emporzuklimmen. Von hier aus konnte ich mir eine bessere Vorstellung von dem Felsplateau machen. Es kam mir sehr ausgedehnt vor. Weder nach Osten noch nach Westen vermochte ich das Ende der grün bewachsenen Höhe zu erblicken. Unten breitete sich ein sumpfiges, dschungelartiges Gebiet aus voll von Schlangen, Insekten und Fieber. Es bildet einen natürlichen Schutz des seltsamen Plateaus.«
 
 »Bemerkten Sie irgendwelche weiteren Anzeichen von Leben?«
 

@@ -119,7 +119,7 @@ Summerlee wischte sich das Blut von der Stirn, während ich eine unangenehme Sti
 
 »Es verdient festgestellt zu werden,« fuhr Challenger fort, »dass unser junger Freund eine unbezweifelbare Wunde erhalten hat, während in Lord Johns Rock durch den Biss nur ein Loch gerissen wurde. Ich für meinen Teil habe nur einen Flügelschlag an den Kopf bekommen, so dass wir eine Reihe von guten Beispielen ihrer Angriffsmethoden haben.«
 
-»Wir sind noch gerade so eben davon gekommen,« sagt« Lord John ernst, »und ich könnte mir keine üblere Todesart vorstellen, als durch solch ein schmutziges Viehzeug erledigt zu werden. Es tut mir leid, dass ich einen Schuss abgegeben habe, aber es blieb mir tatsächlich keine andere Wahl.«
+»Wir sind noch gerade so eben davon gekommen,« sagte Lord John ernst, »und ich könnte mir keine üblere Todesart vorstellen, als durch solch ein schmutziges Viehzeug erledigt zu werden. Es tut mir leid, dass ich einen Schuss abgegeben habe, aber es blieb mir tatsächlich keine andere Wahl.«
 
 »Wir wären nicht bis hierher gelangt, wenn Sie nicht geschossen hätten«, sagte ich mit Überzeugung.
 
