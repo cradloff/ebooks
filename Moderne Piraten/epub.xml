@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">17876c70-ee9f-11e5-a837-0800200c9a66</entry>
+<!-- Buch-Titel -->
+<entry key="title">Moderne Piraten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Hier schildert der Meistererzähler technischer Zukunftsromane die weltweiten Abenteuer eines jungen Deutschen im Kampf gegen eine internationale Rauschgifthändlerbande.</entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Hans Dominik</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Dominik, Hans</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate">1929</entry>
+</properties>
