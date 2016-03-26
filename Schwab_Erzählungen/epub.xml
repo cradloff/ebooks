@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">702d4840-b7a9-11e5-a837-0800200c9a66</entry>
+<!-- Buch-Titel -->
+<entry key="title">Erzählungen aus den alten Volksbüchern</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der gehörnte Siegfried und weitere Erzählungen aus den alten Volksbüchern. Büchergilde Gutenberg, 1955</entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Gustav Schwab</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Schwab, Gustav</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate">1955</entry>
+</properties>
+
