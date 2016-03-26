@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:227b85fa-1caf-41f2-8f47-ba119c649c25</dc:identifier>
+        <dc:title>Die tanzenden Männchen und andere Detektivgeschichten</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:language>de</dc:language>
+        <dc:date opf:event="modification">2012-12-19</dc:date>
+        <dc:source>Projekt Gutenberg-DE - SPIEGEL ONLINE</dc:source>
+        <meta content="0.6.1" name="Sigil version"/>
+    </metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/titel.gif" id="titel.gif" media-type="image/gif"/>
+        <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/0014.gif" id="x0014.gif" media-type="image/gif"/>
+        <item href="Images/0022a.gif" id="x0022a.gif" media-type="image/gif"/>
+        <item href="Images/0022b.gif" id="x0022b.gif" media-type="image/gif"/>
+        <item href="Images/0023.jpg" id="x0023.jpg" media-type="image/jpeg"/>
+        <item href="Images/0025.gif" id="x0025.gif" media-type="image/gif"/>
+        <item href="Images/0028.gif" id="x0028.gif" media-type="image/gif"/>
+        <item href="Images/0036.jpg" id="x0036.jpg" media-type="image/jpeg"/>
+        <item href="Images/45a.gif" id="x45a.gif" media-type="image/gif"/>
+        <item href="Images/45b.gif" id="x45b.gif" media-type="image/gif"/>
+        <item href="Images/0046.gif" id="x0046.gif" media-type="image/gif"/>
+        <item href="Images/0052.jpg" id="x0052.jpg" media-type="image/jpeg"/>
+        <item href="Images/0058.gif" id="x0058.gif" media-type="image/gif"/>
+        <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/0076.jpg" id="x0076.jpg" media-type="image/jpeg"/>
+        <item href="Images/0091.jpg" id="x0091.jpg" media-type="image/jpeg"/>
+        <item href="Images/0120.jpg" id="x0120.jpg" media-type="image/jpeg"/>
+        <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/0127.jpg" id="x0127.jpg" media-type="image/jpeg"/>
+        <item href="Images/0145.jpg" id="x0145.jpg" media-type="image/jpeg"/>
+        <item href="Images/0157.jpg" id="x0157.jpg" media-type="image/jpeg"/>
+        <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/0178.jpg" id="x0178.jpg" media-type="image/jpeg"/>
+        <item href="Images/0197.jpg" id="x0197.jpg" media-type="image/jpeg"/>
+        <item href="Images/0204.jpg" id="x0204.jpg" media-type="image/jpeg"/>
+        <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/0218.jpg" id="x0218.jpg" media-type="image/jpeg"/>
+        <item href="Images/0231.jpg" id="x0231.jpg" media-type="image/jpeg"/>
+        <item href="Images/0250.jpg" id="x0250.jpg" media-type="image/jpeg"/>
+        <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml"/>
+        <item href="Images/0270.jpg" id="x0270.jpg" media-type="image/jpeg"/>
+        <item href="Images/0280.jpg" id="x0280.jpg" media-type="image/jpeg"/>
+        <item href="Images/0302.jpg" id="x0302.jpg" media-type="image/jpeg"/>
+        <item href="Images/cover.gif" id="cover.gif" media-type="image/gif"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover.xhtml"/>
+        <itemref idref="title.xhtml"/>
+        <itemref idref="Section0001.xhtml"/>
+        <itemref idref="Section0002.xhtml"/>
+        <itemref idref="Section0003.xhtml"/>
+        <itemref idref="Section0004.xhtml"/>
+        <itemref idref="Section0005.xhtml"/>
+        <itemref idref="Section0006.xhtml"/>
+    </spine>
+</package>
