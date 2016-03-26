@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">da62c470-69d3-11e5-a837-0800200c9a66</entry>
+<!-- Buch-Titel -->
+<entry key="title">Andrea Delfin</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Andrea Delfin hat sich selbst zum Rächer aus Gerechtigkeit ernannt und ermordet zwei Inquisitoren. Durch eine unglückliche Verkettung von Umständen tötet er auch einen Freund und erkennt, daß er vom Richter und Rächer zum Mörder geworden ist.</entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Paul Heyse</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Heyse, Paul</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate">1862</entry>
+</properties>
