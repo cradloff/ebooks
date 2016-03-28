@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">227b85fa-1caf-41f2-8f47-ba119c649c25</entry>
+<!-- Buch-Titel -->
+<entry key="title">Die tanzenden Männchen und andere Detektivgeschichten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Gesammelte Detektivgeschichten von Arthur Conan Doyle</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Gesammelte Detektivgeschichten von Arthur Conan Doyle</entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Arthur Conan Doyle</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Doyle, Arthur Conan</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate"></entry>
+</properties>
