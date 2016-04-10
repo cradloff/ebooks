@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">49176620-f505-11e5-a837-0800200c9a66</entry>
+<!-- Buch-Titel -->
+<entry key="title">Die Entführung aus dem Serail</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description"></entry>
+<!-- Author (Anzeige) -->
+<entry key="author">Wilhelm Busch</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Busch, Wilhelm</entry>
+<!-- Datum der Veröffentlichung -->
+<entry key="pubDate"></entry>
+<!-- Cover-Bild -->
+<entry key="cover">Bilderbogen.jpg</entry>
+<!-- Inhaltsverzeichnis generieren? -->
+<entry key="toc">false</entry>
+</properties>
