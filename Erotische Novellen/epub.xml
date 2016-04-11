@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Erotische Novellen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description"></entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Elisabeth Dauthendey</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Dauthendey, Elisabeth</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+</properties>
