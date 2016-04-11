@@ -19,7 +19,7 @@
 <!-- Datum der Veröffentlichung -->
 <entry key="pubDate"></entry>
 <!-- Cover-Bild -->
-<entry key="cover">Bilderbogen.jpg</entry>
+<entry key="cover"></entry>
 <!-- Inhaltsverzeichnis generieren? -->
 <entry key="toc">false</entry>
 </properties>
