@@ -139,7 +139,7 @@ Die Arbeit machte mir einige Mühe. Als der Brief fertig war, schmeichelte ich m
 
 > Ich bin mit der Versicherung allergrößter Hochachtung
 > Ihr ganz ergebener
-> Edward M. Malone.
+> Edward D. Malone.
 
 »Nun, was sagen Sie dazu?« fragte ich triumphierend.
 
