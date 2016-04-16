@@ -19,7 +19,7 @@
 <!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
 <entry key="pubDate"></entry>
 <!-- Cover-Bild (default cover.*) -->
-<entry key="cover"></entry>
+<entry key="cover">cover.gif</entry>
 <!-- Inhaltsverzeichnis generieren? (true/false) -->
 <entry key="toc">true</entry>
 </properties>
