@@ -12,7 +12,7 @@
       line.border { stroke: wheat; }
       text {
         fill: wheat;
-        font-family: 'Times New Roman';
+        font-family: 'Times New Roman', serif;
         font-weight: bold;
         text-anchor: middle; }
       .author { font-size: 22pt; }
