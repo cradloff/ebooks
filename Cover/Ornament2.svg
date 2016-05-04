@@ -43,9 +43,9 @@
          transform="translate(20, 20)" />
       <use id="path1" xlink:href="#path0" transform="rotate(90) translate(100, -100) scale(1, -1) translate(-103, -97)"/>
     </g>
-    <use id="lowerRight" xlink:href="#upperLeft"  transform="rotate(180, 267, 350)"/>
-    <use id="lowerLeft"  xlink:href="#lowerRight" transform="scale(-1, 1) translate(-534, 0)"/>
     <use id="upperRight" xlink:href="#upperLeft"  transform="scale(-1, 1) translate(-534, 0)"/>
+    <use id="lowerRight" xlink:href="#upperLeft"  transform="scale(1, -1) translate(0, -700)"/>
+    <use id="lowerLeft"  xlink:href="#lowerRight" transform="scale(-1, 1) translate(-534, 0)"/>
     <!-- Verbindungen außen -->
     <line x1="210"   y1="53.3"  x2="320"   y2="53.3"  class="border" style="stroke-width: 2.7;"/>
     <line x1="210"   y1="646.8" x2="320"   y2="646.8" class="border" style="stroke-width: 2.7;"/>

@@ -37,17 +37,17 @@
        id="path0" />
     <use id="path1" xlink:href="#path0" transform="rotate(90) translate(100, -100) scale(1, -1) translate(-103, -97)"/>
   </g>
-  <use id="lowerRight" xlink:href="#upperLeft"  transform="rotate(180, 200, 250)"/>
-  <use id="lowerLeft"  xlink:href="#lowerRight" transform="scale(-1, 1) translate(-400, 0)"/>
   <use id="upperRight" xlink:href="#upperLeft"  transform="scale(-1, 1) translate(-400, 0)"/>
+  <use id="lowerRight" xlink:href="#upperLeft"  transform="scale(1, -1) translate(0, -500)"/>
+  <use id="lowerLeft"  xlink:href="#lowerRight" transform="scale(-1, 1) translate(-400, 0)"/>
   <!-- Verbindungen außen -->
   <line x1="160"   y1="23.4"  x2="240"   y2="23.4"  class="border" style="stroke-width: 1.8;"/>
   <line x1="160"   y1="476.7" x2="240"   y2="476.7" class="border" style="stroke-width: 1.8;"/>
   <line x1="26.3"  y1="155"   x2="26.3"  y2="345"   class="border" style="stroke-width: 1.8;"/>
   <line x1="373.7" y1="155"   x2="373.7" y2="345"   class="border" style="stroke-width: 1.8;"/>
   <!-- Verbindungen innen -->
-  <line x1="160"   y1="28.4"  x2="240"   y2="28.4"  class="border" style="stroke-width: 1.2;"/>
-  <line x1="160"   y1="471.7" x2="240"   y2="471.7" class="border" style="stroke-width: 1.2;"/>
-  <line x1="31.3"  y1="155"   x2="31.3"  y2="345"   class="border" style="stroke-width: 1.2;"/>
-  <line x1="368.7" y1="155"   x2="368.7" y2="345"   class="border" style="stroke-width: 1.2;"/>
+  <line x1="160"   y1="28.4"  x2="240"   y2="28.4"  class="border" style="stroke-width: 1.0;"/>
+  <line x1="160"   y1="471.7" x2="240"   y2="471.7" class="border" style="stroke-width: 1.0;"/>
+  <line x1="31.3"  y1="155"   x2="31.3"  y2="345"   class="border" style="stroke-width: 1.0;"/>
+  <line x1="368.7" y1="155"   x2="368.7" y2="345"   class="border" style="stroke-width: 1.0;"/>
 </svg>
