@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	font-size: x-large;
+	font-weight: normal;
+}
+
+h2 {
+	text-align: center;
+	font-size: large;
+	font-weight: normal;
+}
+
+p {
+	white-space: pre-wrap;
+	page-break-inside: avoid;
+}
+
+/* cover */
+#cover {
+	width: 100%;
+	height: 100%;
+}
+

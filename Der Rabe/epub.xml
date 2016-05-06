@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">ceece080-13ce-11e6-a837-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Rabe</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Gedicht von Edgar Allan Poe
+aus dem Englischen von Carl Theodor Eben
+Illustration von David Scattergood
+Titelbild von John Tenniel</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Edgar Allan Poe</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Poe, Edgar Allan</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) https://www.bisg.org/bisac/complete-bisac-subject-headings-2015-edition -->
+<entry key="subject">Poetry / Subjects &amp; Themes / Death, Grief, Loss</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Ebenen (1-3) -->
+<entry key="toc-level">1</entry>
+</properties>
