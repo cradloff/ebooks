@@ -16,7 +16,7 @@ ihm Henden auf der Londoner Brücke gekauft hatte.
 
 Der Ritter wollte den Knaben nicht überanstrengen. Er war
 der Meinung, scharfe Tagesritte, unregelmäßige Mahlzeiten und
-ungenügender Schlaf müßten für seinen kranken Geist unzuträglich
+ungenügender Schlaf müssten für seinen kranken Geist unzuträglich
 sein. Er gedachte also, nur kurze Stationen zu machen, so sehr er
 sich auch sehnte, sein väterliches Heim baldmöglichst zu erreichen.
 
@@ -33,7 +33,7 @@ gegenseitigen Abenteuern und ergötzten sich daran. Henden erzählte
 von den Kreuz- und Querritten, die er unternommen hatte, um den
 König wieder zu finden. Er berichtete auch, wie ihn der Erzengel
 über Stock und Stein durch den ganzen Wald und schließlich wieder
-nach der Hütte zurückgeführt habe, als er sah, daß er den Ritter
+nach der Hütte zurückgeführt habe, als er sah, dass er den Ritter
 anders nicht los werden könne. »Darauf«, erzählte er, »ging der
 alte Mann ins Schlafzimmer. Gleich nachher kam er aber wankend
 und mit verstörtem Gesicht zurück und sagte, er habe geglaubt, der
@@ -50,7 +50,7 @@ der Einsiedler mit ihm vorgehabt habe. Henden wunderte sich nicht
 
 <div align="center"><img alt="Eduard reitet neben Hendon" src="img10.png"/></div>
 
-übel und bedauerte nur, daß er es nicht gewußt habe, sonst wäre
+übel und bedauerte nur, dass er es nicht gewusst habe, sonst wäre
 er dem Erzengel zu leibe gegangen.
 
 Der letzte Tag ihrer Reise kam heran. Henden war in allen Himmeln.
@@ -77,7 +77,7 @@ von hier aus sehen. Und jener Wald dort drüben, schaut, ist
 unser Park. O nun werdet Ihr bald sehen, was Glanz und Pracht
 ist. Ein Haus mit siebzig Zimmern, denkt Euch nur! Und dazu
 siebenundzwanzig Bedienstete! Eine hübsche Wohnung für Leute,
-wie wir sind, nicht wahr? Kommt, laßt uns eilen! Meine Ungeduld
+wie wir sind, nicht wahr? Kommt, lasst uns eilen! Meine Ungeduld
 will sich nicht mehr zügeln lassen.«
 
 Sie beschleunigten denn auch tunlichst ihren Ritt, und kurz nach
@@ -105,7 +105,7 @@ und hielten vor einem altertümlichen, aber prächtigen Herrenhaus.
 »Willkommen in Hendenhall, mein König!« rief Michael. »Ah,
 das ist ein herrlicher Tag! Mein Vater und mein Bruder und Fräulein
 Edith werden vor Freude närrisch sein und nur Augen für mich 
-haben, so daß Ihr Euch vielleicht vernachlässigt fühlen werdet. Aber
+haben, so dass Ihr Euch vielleicht vernachlässigt fühlen werdet. Aber
 beachtet es nicht; bald wird es anders kommen. Wenn ich sage,
 Ihr seiet mein Schützling, und wie ich Euch lieb gewonnen habe,
 dann werden sie Euch um meinetwillen nicht minder herzlich willkommen
@@ -120,7 +120,7 @@ Henden bat seinen Schützling Platz zu nehmen. Dann eilte er auf
 einen jungen Mann zu, welcher an einem Schreibtisch saß, vor dem
 ein mächtiges Kaminfeuer brannte.
 
-»Umarme mich, Hugo!« rief er, »und sage, daß du dich über
+»Umarme mich, Hugo!« rief er, »und sage, dass du dich über
 meine Rückkehr freuest. Und rufe auch unseren Vater, denn noch
 bin ich nicht zu Hause, solange ich nicht seine Hand geschüttelt, sein
 Gesicht gesehen und seine Stimme gehört habe!«
@@ -135,7 +135,7 @@ an. Mit sanfter Stimme erwiderte er:
 »Euer Verstand scheint gelitten zu haben, armer Fremdling.
 Sonder Zweifel habt Ihr harte Entbehrungen erlitten und seid in
 der Welt roh herumgestoßen worden. Nach Aussehen und Kleidung
-muß ich es wohl schließen. Für wen haltet Ihr mich?«
+muss ich es wohl schließen. Für wen haltet Ihr mich?«
 
 »Für wen? Ei, doch für das, was du bist. Ich halte dich für
 Hugo Henden«, sagte Michael scharf.
@@ -156,7 +156,7 @@ armer verlorener Junge sollte nach all den grausamen Jahren der
 Trennung wieder in unsere Arme zurückkehren? Ach, es scheint zu
 schön, um wahr zu sein; es ist zu schön, um wahr zu sein! Ich bitte 
 Euch, habt Mitleid, spottet meiner nicht! Rasch, kommt ans Licht,
-laßt mich Euch näher ansehen!«
+lasst mich Euch näher ansehen!«
 
 Er ergriff Michael am Arme und zog ihn ans Fenster. Dann
 begann er ihn von Kopf bis zu Füßen zu mustern und beinahe mit
@@ -166,11 +166,11 @@ indes mit dem ganzen Gesicht, nickte fortwährend mit dem Kopfe
 und sagte:
 
 »Nur weiter, weiter, Bruder, und fürchte dich nicht. Jedes
-Glied und jeder Zug wird dir bezeugen, daß ich Michael Henden
+Glied und jeder Zug wird dir bezeugen, dass ich Michael Henden
 bin. Untersuche und prüfe, solange du willst, mein lieber alter Hugo.
 Ich bin doch kein anderer, als dein Michael, der nämliche alte
 Michael, dein verlorener Bruder, nicht wahr? Ah, das ist ein schöner
-Tag! Sagte ich es doch! Gib mir endlich deine Hand, laß mich deine
+Tag! Sagte ich es doch! Gib mir endlich deine Hand, lass mich deine
 Wange küssen! Wahrhaftig, ich möchte sterben vor lauter Freude!«
 
 Er wollte sich seinem Bruder in die Arme werfen. Aber Hugo
@@ -186,7 +186,7 @@ er aus:
 »Welche Enttäuschung? Bin ich etwa nicht dein Bruder?«
 
 Traurig schüttelte Hugo den Kopf und sagte: »Gebe der Himmel,
-daß dem so sei! Vielleicht können andere Augen besser sehen und
+dass dem so sei! Vielleicht können andere Augen besser sehen und
 eine Ähnlichkeit herausfinden, die mir entgangen ist. Ach, ich fürchte,
 der Brief hat nur zu wahr gesprochen!«
 
@@ -204,7 +204,11 @@ Lippen. »Mein Vater tot! O das ist ein schwerer Schlag! Nun
 ist meine Freude schon halb dahin. Aber, bitte, führe mich zu meinem
 Bruder Arthur. Er wird mich auch erkennen, mich kennen und
 trösten.«
- 
+
+[???]
+Seite 129 und 130 fehlt!
+[???]
+
 *rischen Kerl zu greifen und zu binden. Sie zögerten, und einer von
 ihnen sagte:
 
@@ -216,7 +220,7 @@ auf ihn, hört ihr's?«
 Michael aber warnte sie, auf der Hut zu sein, und fügte hinzu:
 
 »Ihr kennt mich alle, von früher her. Ich bin nicht anders geworden.
-Ihr wißt, daß ich keinen Spaß verstehe. Kommt nur
+Ihr wisst, dass ich keinen Spaß verstehe. Kommt nur
 heran, wenn Ihr Lust verspürt!«
 
 Diese Mahnung ermutigte die Diener noch weniger. Sie hielten
@@ -231,6 +235,6 @@ zu machen. Es würde Euere Sache nur verschlimmern.«
 
 »Fliehen, ich? Diese Sorge kannst du dir ersparen, wenn das
 dein ganzer Kummer ist. Michael Henden ist doch Herr von Hendenhall
-und allem, was dazu gehört. Hier wird er bleiben. Das laß
+und allem, was dazu gehört. Hier wird er bleiben. Das lass
 dir gesagt sein!«
 

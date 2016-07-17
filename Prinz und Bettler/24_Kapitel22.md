@@ -3,7 +3,7 @@
 
 <h1>Wie Eduard zum König der Kampfhähne ernannt wird.</h1>
 
-Noch einmal mußte König »Fufu der Erste« mit den Geächteten
+Noch einmal musste König »Fufu der Erste« mit den Geächteten
 und Stromern herumziehen. Er war das Ziel ihrer rohen, stumpfsinnigen
 Witze und gelegentlich auch das Opfer der Bosheit Cantys
 und Hugos, wenn der Hauptmann gerade nicht zugegen war. Nur
@@ -25,7 +25,7 @@ Lehrlingspfuscherei gegenüber einem Arm, den die ersten Meister
 Europas im Fechten geübt hatten!
 
 Ruhig und in anmutiger Haltung stand der kleine König da,
-parierte gewandt den Hagel von Schlägen, so leicht und genau, daß
+parierte gewandt den Hagel von Schlägen, so leicht und genau, dass
 die Augen der Zuschauer bewundernd an ihm hingen. Dann und
 wann, wenn sein geübtes Auge eine Blöße des Gegners erspähte,
 hatte Hugo blitzschnell auch schon einen derben Hieb weg, und stürmisches
@@ -40,14 +40,14 @@ sein früherer Titel feierlich als nichtig erklärt ward.
 Alle Versuche der Bande, den kleinen König sich und ihren Zwecken
 dienstbar zu machen, hatten fehlgeschlagen. Hartnäckig hatte er sich
 dessen geweigert, ja sogar wiederholt Fluchtversuche unternommen.
-Am ersten Tage seiner Wiederankunft hatte man ihn in eine unbe-* 
-*wachte Küche hineingestoßen. Aber nicht nur kehrte er mit leeren
+Am ersten Tage seiner Wiederankunft hatte man ihn in eine unbewachte
+Küche hineingestoßen. Aber nicht nur kehrte er mit leeren
 Händen zurück, sondern versuchte auch, die Hausbewohner aufzurütteln.
 Dann gab man ihn einem Kesselflicker als Gehilfen mit; er
 wollte nicht arbeiten. Mehr noch; er drohte dem Kesselflicker mit
 dessen eigenem Lötrohr. Hugo und der Kesselflicker hatten Mühe
 genug, ihn nur an der Flucht zu hindern. Sein königlicher Zorn
-ergoß sich wie Lava auf die Häupter derer, die seine Freiheit antasteten
+ergoss sich wie Lava auf die Häupter derer, die seine Freiheit antasteten
 oder suchten, ihn zu Diensten willfährig zu machen.
 
 Einmal schickte man ihn und Hugo mit einer schlampigen Frau
@@ -57,7 +57,7 @@ betteln und wollte überhaupt nichts von dem Treiben wissen.
 
 So vergingen mehrere Tage. Dieses elende Herumstrolchen, das
 ganze Leben bei dieser gemeinen, schmutzigen Bande ward ihm zum
-Ekel und bald so unerträglich, daß er beinahe wünschte, er wäre vom
+Ekel und bald so unerträglich, dass er beinahe wünschte, er wäre vom
 Erzengel abgeschlachtet worden.
 
 Des Nachts aber, in seinen Träumen, vergaß er alles wieder.
@@ -76,19 +76,19 @@ Zunächst nahm er sich vor, den siegreichen Gegner körperlich zu
 verunstalten. Zu diesem Zwecke wollte er ihm ein Pflaster um die
 Beine legen. Diesen Umschlag setzte er zusammen aus einem Kleister
 von ungelöschtem Kalk, Seife und Rost von altem Eisen. Das ganze
-wurde auf ein Stück Leder gestrichen und mußte sodann dicht um
+wurde auf ein Stück Leder gestrichen und musste sodann dicht um
 das Bein gewickelt werden. Die Haut würde sich an dieser Stelle
 bald ablösen und das Fleisch sich entzünden, brennen und schmerzen.
 Dann sollte das Bein mit Blut eingerieben werden. Wenn dieses
 trocknete, so nahm das wunde Bein eine dunkle, abstoßende Färbung
 an. Sodann wollte er es mit schmutzigen Lumpen in absichtlich
-sorgloser Weise umhüllen, so daß das Geschwür leicht zu sehen war,
+sorgloser Weise umhüllen, so dass das Geschwür leicht zu sehen war,
 um das Mitleid der Vorübergehenden zu erregen. Mit diesem Bein 
 sollte »Hans« auf der Landstraße sich Zeigen und so zur Bettelei gezwungen
 werden.
 
 Zu diesem Vorhaben sicherte er sich die Hilfe des Kesselflickers,
-der also »Hans« als Gehilfen mitnehmen mußte. Das geschah.
+der also »Hans« als Gehilfen mitnehmen musste. Das geschah.
 Sowie sie außer Sicht des Lagers waren, warfen die ruchlosen Gesellen
 den kleinen König zur Erde. Der Kesselflicker hielt ihn fest,
 und Hugo legte ihm den Verband an.
@@ -101,7 +101,7 @@ wirken und hätte bald seine volle Schuldigkeit getan, wäre nicht ein
 störender Zufall eingetreten. Diesen führte der Leibeigene herbei,
 welcher jene famose Rede gegen die englischen Gesetze gehalten hatte.
 Er erschien plötzlich auf der Bildfläche und machte der Sache rasch
-ein Ende, indem er das Pflaster einfach wegriß und fortschleuderte.
+ein Ende, indem er das Pflaster einfach wegriss und fortschleuderte.
 
 Der König wollte sich den Stock seines Befreiers borgen und den
 beiden Schurken den Rücken verbleuen. Aber der Leibeigene wollte
@@ -114,13 +114,13 @@ erhob er ihn aus dem Bettlerstand und beförderte ihn in den
 Rang der Diebe.
 
 Hugo freute sich über die Maßen. Er hatte ja schon den König
-zum Diebstahl verleiten wollen, ohne daß es ihm gelungen war.
+zum Diebstahl verleiten wollen, ohne dass es ihm gelungen war.
 Jetzt aber, nach dem Ausspruch des Hauptmanns, würde es »Hans«
 wohl nicht mehr im Traume einfallen, dem so deutlich ausgesprochenen
 Befehle zu trotzen. Schon für den nämlichen Tag plante er einen
 Streifzug, mit dem Vorhaben, den König dabei der Obrigkeit zu
-verraten. Das mußte natürlich so schlau ins Werk gesetzt werden,
-daß sein schmähliches Vorgehen nicht an den Tag kam. Die ganze
+verraten. Das musste natürlich so schlau ins Werk gesetzt werden,
+dass sein schmähliches Vorgehen nicht an den Tag kam. Die ganze
 Bande hatte ja den kleinen König der Kampfhähne lieb gewonnen
 und würde also mit seinem Verräter nicht sehr glimpflich umgehen.
 
@@ -157,7 +157,7 @@ fiel aus einander und brachte das Pack zum Vorschein,
 gerade als die Frau bei ihm ankam. Im Handumdrehen stand eine
 ganze Menge von Leuten um den kleinen König. Die Frau ergriff
 ihn beim Handgelenk und hob mit der Linken ihr Pack auf. Eine
-wahre Flut von Schimpfworten ergoß sich über den armen Eduard,
+wahre Flut von Schimpfworten ergoss sich über den armen Eduard,
 während er sich vergeblich mühte, die Hand frei zu bekommen.
 
 Hugo hatte genug gesehen. Seines Feindes hatte er sich entledigt,
@@ -169,7 +169,7 @@ Indessen fuhr der König fort, sich der Frau zu erwehren und
 rief zornig: »Gib mir die Hand frei, du törichtes Weib; nicht ich habe
 deine Habseligkeiten geraubt.«
 
-Dichter nur umschloß ihn die Menge und stieß Drohungen und
+Dichter nur umschloss ihn die Menge und stieß Drohungen und
 Verwünschungen gegen den armen Knaben aus. Ein sonngebräunter
 Grobschmied in Lederschürze und aufgekrempelten Ärmeln
 trat auf ihn zu und wollte ihn durchdreschen, wie er sagte. Aber
@@ -177,9 +177,9 @@ gerade, als er sich anschickte, seine Drohung wahr zu machen, blitzte
 ein langes Schwert durch die Luft und fiel, die flache Seite nach 
 unten, mit überzeugender Gewalt auf seinen bloßen Arm. Zugleich
 ließ sich der wehrhafte Eigentümer der blanken Klinge also
-vernehmen: »Ei, ihr lieben Leute, laßt uns in Güte vorgehen, nicht
+vernehmen: »Ei, ihr lieben Leute, lasst uns in Güte vorgehen, nicht
 mit bösem Blut und unchristlichen Worten. Das Gesetz hat hier
-einzig dreinzureden, ihr aber laßt die Hände davon, wenn ich euch
+einzig dreinzureden, ihr aber lasst die Hände davon, wenn ich euch
 raten darf. Ihr da, gute Frau, gebt den Knaben frei!«
 
 Der Grobschmied musterte den kecken Krieger mit einem raschen

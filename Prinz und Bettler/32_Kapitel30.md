@@ -11,8 +11,8 @@ wurde, verbrachte Tom Canty als Scheinkönig eine ganz andere Zeit.
 Als wir ihn zuletzt sahen, hatte er schon angefangen, an seiner
 Würde Geschmack zu finden. Das Königsein gefiel ihm von Tag zu
 Tag besser; er lebte bald in eitel Freude und Sonnenschein. Seine
-Furcht verlor sich ganz. Selten nur kam es noch vor, daß er Irr-* 
-*tümer beging und in Verlegenheit geriet. Bald machte sich eine
+Furcht verlor sich ganz. Selten nur kam es noch vor, dass er Irrtümer
+beging und in Verlegenheit geriet. Bald machte sich eine
 ruhige Sicherheit bei ihm bemerkbar, welche wohltuend auf seine
 ganze Umgebung wirkte.
 
@@ -20,10 +20,10 @@ Wenn er zu spielen oder zu plaudern wünschte, ließ er Fräulein
 Elisabeth oder Fräulein Johanna Erey zu sich bitten. Wenn er müde
 war, so entließ er sie wieder mit natürlicher Anmut und Vertraulichkeit.
 Es störte ihn auch nicht mehr, wenn die beiden jungen Damen
-ihm beim Abschied die Hand küßten.
+ihm beim Abschied die Hand küssten.
 
 Selbst das zeremonielle Ausziehen und Ankleiden hatte nichts Belästigendes
-mehr für ihn. Es war vielmehr geeignet, ihn in dem Bewußtsein
+mehr für ihn. Es war vielmehr geeignet, ihn in dem Bewusstsein
 seiner erhabenen Stellung zu stärken und mit Vertrauen
 zu erfüllen. Er vermehrte sogar seine Leibwachen auf die doppelte
 Zahl.
@@ -42,13 +42,13 @@ Gesetze und willkürliche Beamte. Dabei beachtete er keinen
 Widerstand. Manch einem Grafen oder Herzog, der es wagte, Einwendungen
 zu erheben, warf er einen Blick zu, der ihn erbeben ließ.
 Seine königliche »Schwester«, das grimme, fromme Fräulein Maria,
-machte ihm einst Vorwürfe, daß er so viele Leute begnadige, welche
+machte ihm einst Vorwürfe, dass er so viele Leute begnadige, welche
 eingekerkert, verbrannt oder gehängt werden sollten. Sie wies darauf
-hin, daß die Gefängnisse zur Zeit ihres erlauchten Vaters bis zu
+hin, dass die Gefängnisse zur Zeit ihres erlauchten Vaters bis zu
 60&nbsp;000 Insassen zu gleicher Zeit zählten und während dessen Regierung
 72&nbsp;000 Diebe und Räuber hingerichtet worden seien. Da
 geriet Tom in gerechte Entrüstung. Er befahl ihr, sich in ihre Gemächer
-zu verfügen und Gott zu bitten, daß er ihr ein menschliches
+zu verfügen und Gott zu bitten, dass er ihr ein menschliches
 Herz geben möge.
 
 Beunruhigte sich denn aber Tom Canty gar nicht über den verlorenen
@@ -58,7 +58,7 @@ und Nächten quälte ihn der Gedanke an seinen kleinen Gönner beinahe
 unaufhörlich, und er sehnte sich auch jetzt noch, den wirklichen 
 Prinzen auf den Thron zu setzen. Aber die Zeit schwand dahin und
 Eduard kam nicht. Toms Gedanken wurden mehr und mehr anderweitig
-in Anspruch genommen und schließlich vergaß er beinahe, daß
+in Anspruch genommen und schließlich vergaß er beinahe, dass
 er wider Willen zum Thronräuber geworden war. Kam ihm einmal
 dieser Gedanke, so erschien er ihm wie ein unwillkommenes Gespenst,
 dem er tunlichst aus dem Wege ging.

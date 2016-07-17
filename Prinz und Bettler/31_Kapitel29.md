@@ -11,7 +11,7 @@ Er stieg auf und ritt mit dem König davon, während die
 Menge ihnen schweigend und achtungsvoll Platz machte.
 
 Henden war in Gedanken versunken. Wohin sollte er sich wenden?
-Was war zu tun? Er mußte irgend einen mächtigen Helfer finden;
+Was war zu tun? Er musste irgend einen mächtigen Helfer finden;
 soviel stand fest. Andernfalls war's um sein Hab und Gut geschehen
 und er blieb lebenslang ein Betrüger. Aber wo diese Hilfe finden:
 Das war eine verzwickte Frage. Einen schwachen Anhaltspunkt
@@ -22,7 +22,7 @@ anflehen? Die Schwierigkeit war nur die: wie sollte ein
 so phantastisch gekleideter, herabgekommener Kriegsmann Zutritt in
 den Königspalast erhalten?
 
-»Ach, was!« dachte er, »man muß erst über die Brücke, wenn man
+»Ach, was!« dachte er, »man muss erst über die Brücke, wenn man
 sie erreicht hat.« Er war ein alter Haudegen und oft genug in der
 Klemme gewesen. Ein Ausweg hatte sich aber doch immer wieder
 gefunden. Ja, er wollte vor allem nach der Hauptstadt. Vielleicht
@@ -35,7 +35,7 @@ Wie weit sie gekommen waren! Das Dorf lag schon ganz in der
 Ferne. Der König trottete gemächlich hinter seinem Beschützer drein;
 auch er schien eifrig nachzudenken. Würde aber auch der Knabe gewillt
 sein, in die Stadt zurückzukehren, wo er offenbar soviel erduldet
-hatte? Er mußte sich auf alle Fälle Gewißheit darüber verschaffen.
+hatte? Er musste sich auf alle Fälle Gewissheit darüber verschaffen.
 Der Ritter hielt also sein Tier an und rief:
  
 
@@ -67,7 +67,7 @@ kam. Dieser wandte sich um und schlug den ersten besten nieder, der
 ihm griffbereit war. Aber ein guter Bekannter von diesem wollte
 ihn rächen, und so war im Handumdrehen eine richtige Prügelei im
 Gange. Das hätte nun weiter nichts geschadet, denn der morgige
-Krönungstag mußte doch feierlich eingeleitet werden. Für Henden
-und den König aber hatte es die mißliche Folge, daß beide in dem
+Krönungstag musste doch feierlich eingeleitet werden. Für Henden
+und den König aber hatte es die missliche Folge, dass beide in dem
 Wirrwar hoffnungslos voneinander getrennt wurden.
 

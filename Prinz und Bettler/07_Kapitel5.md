@@ -19,20 +19,20 @@ auch nur für einen Augenblick, genießen durfte. Wahrscheinlich aber
 würden sie die Köpfe schütteln und glauben, er sei übergeschnappt.
 
 So verging eine halbe Stunde. Da fiel ihm auf einmal ein,
-daß der Prinz doch eigentlich etwas lange ausbleibe. Ein Gefühl
+dass der Prinz doch eigentlich etwas lange ausbleibe. Ein Gefühl
 der Verlassenheit überkam ihn allgemach. Er fing an zu lauschen,
 und eine sonderbare Bangigkeit beschlich ihn. Alle die schönen Sachen
 um ihn herum verloren von ihrem Interesse; er wurde unruhig,
 aufgeregt und bekümmert. Wenn jemand käme und ihn in den
 Kleidern des Prinzen fände! Vielleicht würden sie ihn hängen, bevor
 der Prinz zurückkäme und das Rätsel löste. Hatte er doch gehört,
-daß die Großen in solchen Sachen gewöhnlich kurzen Prozeß machten.
+dass die Großen in solchen Sachen gewöhnlich kurzen Prozess machten.
 Immer ängstlicher wurde ihm zu Mute. Sachte und zitternd öffnete
 er die Türe zum Vorzimmer mit dem Entschlusse, zu fliehen und
 nach dem Prinzen zu forschen, um bei ihm Schutz und Rettung zu
 suchen. Sechs prächtige Diener und zwei junge Edelknaben, wie
 Schmetterlinge gekleidet, sprangen auf und verbeugten sich tief vor
-ihm. Da trat er rasch wieder zurück und schloß die Tür.
+ihm. Da trat er rasch wieder zurück und schloss die Tür.
 
 »Sie spotten meiner«, sagte er sich; »sie werden hingehen und
 erzählen, was sie gesehen haben. O warum kam ich hierher, um
@@ -43,24 +43,24 @@ horchte angestrengt und fuhr beim geringsten Tone zusammen.
 Plötzlich flog die Tür auf und ein Edelknabe, in Seide gehüllt,
 meldete: »Fräulein Johanna Grey!«
 
-Die Tür schloß sich wieder hinter einem lieben jungen Mädchen
+Die Tür schloss sich wieder hinter einem lieben jungen Mädchen
 in reicher Kleidung, welches auf Tom zutrat. Bei seinem Anblicke
 aber blieb sie plötzlich stehen und sprach in betrübtem Tone: »O was
 fehlt dir, mein Lord?«
 
-Tom ging beinahe der Atem aus; aber er faßte sich noch und
+Tom ging beinahe der Atem aus; aber er fasste sich noch und
 stammelte: »Ach, sei gnädig. Ich bin ja kein Lord, sondern nur der 
 arme Tom Canty vom Unrathof in der Altstadt. Bitte, führe mich
 zum Prinzen, damit er mir meine Lumpen zurückgibt und mich in
 Gnaden entlässt. O sei barmherzig und rette mich!«
 
-Der Knabe war auf seine Kniee niedergefallen und schaute mit
+Der Knabe war auf seine Knie niedergefallen und schaute mit
 bittenden Augen und ausgehobenen Händen zu dem schönen Mädchen
 empor. Sie aber schien vor Schrecken versteinert. Endlich
 rief sie: »Wie, mein Lord, Ihr kniet? ... und gar noch vor mir?«
 
 Rasch wandte sie sich um und eilte hinweg. Tom aber sank,
-von Verzweiflung erfaßt, in sich zusammen und murmelte: »Keine
+von Verzweiflung erfasst, in sich zusammen und murmelte: »Keine
 Hoffnung, keine. Nun werden sie kommen und mich abführen.«
 
 Während er so, vor Schrecken gelähmt, dalag, verbreitete sich
@@ -92,7 +92,7 @@ gingen Edelleute von hohem Stande, die ihm den Arm zur Stütze
 boten. Hinter ihm aber folgten die Hofärzte und einige Diener.
 
 Mit einem Male sah sich Tom in einem herrlichen Saale und
-hörte, wie die Tür sich hinter ihm schloß. Um ihn herum standen
+hörte, wie die Tür sich hinter ihm schloss. Um ihn herum standen
 die, mit denen er gekommen war. Nur wenige Schritte vor ihm
 aber ruhte ein sehr großer und sehr starker Mann mit breitem, fleischigem
 Gesicht und ernster Miene.
@@ -110,8 +110,8 @@ leidigem Scherz betrüben, der dich so lieb hat und so gut zu dir ist?«
 
 Der arme Tom mühte sich, soweit seine Verwirrung es zuließ,
 die mit sanftem Vorwurf gesprochene Rede zu erfassen. Als aber
-die Worte »mich, den guten König« sein Ohr berührten, da erblaßte
-er und fiel, wie vom Blitz getroffen, auf die Kniee. Dann hob er
+die Worte »mich, den guten König« sein Ohr berührten, da erblasste
+er und fiel, wie vom Blitz getroffen, auf die Knie. Dann hob er
 die Hände empor und rief: »Du der König? Dann ist es mit mir
 zu Ende!«
 
@@ -127,10 +127,10 @@ zu deinem Vater, Kind, du bist nicht wohl.«
 Man richtete Tom auf, und er trat zitternd und demütig näher.
 Der König nahm das angstvoll blickende Gesicht des Knaben zwischen
 die Hände und betrachtete ihn mit liebevollem Ernst, als suche er
-nach einem Zeichen der wiederkehrenden Vernunft. Dann preßte
+nach einem Zeichen der wiederkehrenden Vernunft. Dann presste
 er den Lockenkopf an seine Brust und streichelte ihn zärtlich. Plötzlich
 sagte er: »Kennst du deinen Vater nicht, Kind? Brich nicht mein
-altes Herz; sage, daß du mich kennst. Du erkennst mich, nicht wahr?«
+altes Herz; sage, dass du mich kennst. Du erkennst mich, nicht wahr?«
 
 »Du bist mein gefürchteter Herr, der König, den Gott erhalte!«
 
@@ -151,7 +151,7 @@ retten mit einem einzigen kleinen Wort. O sprich es aus, Herr!«
 »Sterben? Sprich doch nicht so, mein lieber Prinz. Still, still,
 beruhige dein verwirrtes Herz, du sollst nicht sterben!«
 
-Mit einem freudigen Ausruf fiel Tom wieder auf die Kniee:
+Mit einem freudigen Ausruf fiel Tom wieder auf die Knie:
 »Gott danke dir deine Gnade, o mein König und erhalte dich noch
 lange zum Segen deines Landes!« Dann sprang er auf, wandte
 sich an die beiden Lords, die ihn hergeführt hatten, und rief: »Ihr
@@ -163,7 +163,7 @@ Stumm verbeugten sich die Angesprochenen; aber keiner ergriff
 das Wort. Verwirrt zögerte Tom einen Augenblick, blickte furchtsam
 nach dem König und sprach: »Darf ich jetzt gehen?«
 
-»Gehen? Gewiß, wenn du wünschest. Aber magst du nicht
+»Gehen? Gewiss, wenn du wünschest. Aber magst du nicht
 einen Augenblick länger verweilen? Wohin willst du gehen?«
 
 Tom senkte die Blicke und erwiderte unterwürfig: »Vielleicht
@@ -171,25 +171,25 @@ habe ich falsch verstanden. Ich dachte, ich wäre nun frei und wollte
 wieder zurück in die Dachkammer, wo ich geboren und im Elend
 erzogen wurde. Da meine Mutter und Schwestern dort wohnen,
 gehöre ich auch dahin. Dieser Pomp und Glanz aber, an den ich
-nicht gewöhnt bin ... o bitte, Herr, laß mich gehen!«
+nicht gewöhnt bin ... o bitte, Herr, lass mich gehen!«
  
 
 Der König schwieg und dachte einen Augenblick nach, während
 sein Gesicht wachsende Sorge und Unruhe ausdrückte. Dann aber
 sagte er, und ein wenig Hoffnung lag in seiner Stimme: »Vielleicht
 erstreckt sich sein Irrsinn nur auf diese eine fixe Idee und hat seine
-übrige Geisteskraft unberührt gelassen. Gebe, daß dem so sei! Wir
+übrige Geisteskraft unberührt gelassen. Gebe, dass dem so sei! Wir
 werden es gleich sehen.«
 
 Darauf stellte er an Tom eine Frage in lateinischer Sprache und
 Tom antwortete, wenn auch zögernd, in derselben Sprache. Der
 König war entzückt und seine Miene heiterte sich auf. Auch die
-Lords und Arzte zeigten ihre Befriedigung. Der König wandte
-sich zu den Herren und sprach: »Das zeigt doch wohl, daß sein Geist
+Lords und Ärzte zeigten ihre Befriedigung. Der König wandte
+sich zu den Herren und sprach: »Das zeigt doch wohl, dass sein Geist
 nur krank, nicht gänzlich zerstört ist. Was sagen Sie dazu, meine
 Herren?«
 
-Die Arzte verbeugten sich tief, und einer erwiderre: »Das ist
+Die Ärzte verbeugten sich tief, und einer erwiderte: »Das ist
 auch unsere Überzeugung, Majestät.«
 
 Der König freute sich über diese Bestätigung, die von einer einwandfreien
@@ -203,7 +203,7 @@ König.«
 
 Der Fürst fiel in seine Kissen zurück. Die Umstehenden eilten
 zu seinem Beistande herbei. Der König aber wies sie zurück und
-sagte: »Laßt mich, es ist nur ein leichter Schwächeanfall. Hebt mich
+sagte: »Lasst mich, es ist nur ein leichter Schwächeanfall. Hebt mich
 empor. So, das genügt. Komm hierher, Kind; lehne deinen armen,
 verwirrten Kopf an deines Vaters Herz und ruhe aus. Du wirst
 bald wieder wohl sein; es ist nur vorübergehend. Fürchte dich nicht.«
@@ -214,7 +214,7 @@ sprach: »Höret ihr alle! Dieser mein Sohn ist irrsinnig; aber er ist
 es nicht dauernd. Die geistige Überanstrengung hat es bewirkt und
 eine zu große Abgeschlossenheit. Weg für jetzt mit Büchern und
 Lehrern! Man sorge dafür! Vergnügt ihn mit Spielen, gebt ihm
-gesunde Unterhaltung, auf daß sein Geist wiederkehre!«
+gesunde Unterhaltung, auf dass sein Geist wiederkehre!«
 
 Dann erhob er sich noch höher und fuhr in strengem Tone fort:
 »Er ist irrsinnig; aber er ist mein Sohn und Englands Erbe und gesund
@@ -230,12 +230,12 @@ er in gehöriger, althergebrachter Form zum Thronerben erklärt werden!
 Trefft sogleich die nötigen Anordnungen, mein Lord Hertford.«
 
 Einer von den Edlen kniete vor dem Lager des Königs nieder
-und sagte: »Majestät wird sich erinnern, daß der Erbmarschall von
-England gefesselt im Turm liegt. Es wäre nicht geziemend, daß
+und sagte: »Majestät wird sich erinnern, dass der Erbmarschall von
+England gefesselt im Turm liegt. Es wäre nicht geziemend, dass
 ein Gefangener ...«
 
-»Still! Beleidiget nicht mein Ohr mit seinem verhaßten Namen!
-Muß denn dieser Mann ewig leben? Wird mein Wille nicht mehr
+»Still! Beleidiget nicht mein Ohr mit seinem verhassten Namen!
+Muss denn dieser Mann ewig leben? Wird mein Wille nicht mehr
 geachtet? Soll der Prinz warten, weil zu seiner feierlichen Einsetzung
 England keinen Marschall hat, der frei ist vom Verbrechen
 des Hochverrats? Nein, bei Gottes Herrlichkeit! Mein Parlament
@@ -260,7 +260,7 @@ und deiner Standeserhöhung. Ich will einen andern an seiner Stelle
 haben, der makellos dasteht. Tröste dich, mein Prinz, verwirre deinen
 armen Kopf nicht noch mehr durch solche Gedanken.«
 
-»Aber <div class="g">ich</div> bin es doch, der seinen Tod wider Willen beschleunigt,
+»Aber <span class="g">ich</span> bin es doch, der seinen Tod wider Willen beschleunigt,
 mein König. Wie lange dürfte er sonst noch leben?«
 
 »Denke nicht an ihn, mein Prinz; er ist es nicht wert. Küsse
@@ -269,14 +269,14 @@ Ich bin müde und möchte ruhen. Gehe mit deinem Onkel Hertford
 und deinen Leuten, und komme wieder, wenn mein Körper erfrischt
 ist.«
 
-Schweren Herzens mußte sich Tom hinwegführen lassen. Vernichteten
+Schweren Herzens musste sich Tom hinwegführen lassen. Vernichteten
 doch diese letzten Worte die Hoffnung freizukommen, die
 er immer noch gehegt hatte. Wieder hörte er in den Gängen leise
 Stimmen flüstern: »Der Prinz, der Prinz kommt!«
 
 Er wurde immer mutloser, wie er so zwischen den Reihen sich
-verbeugender Höflinge hindurchschritt. Es kam ihm zum Bewußtsein,
-daß er jetzt ein Gefangener sei und vielleicht für immer in diesem
+verbeugender Höflinge hindurchschritt. Es kam ihm zum Bewusstsein,
+dass er jetzt ein Gefangener sei und vielleicht für immer in diesem
 vergoldeten Käfig verweilen müsse, ein verlorener, freundloser Prinz.
 O möchte doch der Himmel sich seiner erbarmen und ihn freilassen!
 

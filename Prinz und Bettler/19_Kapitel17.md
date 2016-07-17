@@ -7,17 +7,17 @@ Michael Henden suchte indessen eifrig nach seinem Schützling.
 Mittels der Erkundigungen, die er auf der Brücke einzog, konnte er
 dessen Spur eine Strecke weit verfolgen, dann aber hörte sie plötzlich
 auf. Dennoch setzte Henden seine Bemühungen bis in die Nacht
-hinein fort. Wegmüde und halb verhungert mußte er schließlich
+hinein fort. Wegmüde und halb verhungert musste er schließlich
 umkehren und seine Herberge wieder aufsuchen. Er nahm ein Abendessen
 zu sich und legte sich dann zur Ruhe mit dem Vorsatze, früh am
 nächsten Morgen in der Stadt weiter zu forschen.
 
 Während er aber schlaflos dalag, kam ihm ein anderer Gedanke.
 Der Knabe, rechnete er, wird den Schurken sicher zu entrinnen suchen.
-Wollte er dann in die Stadt zurück, so müßte er Gefahr laufen,
+Wollte er dann in die Stadt zurück, so müsste er Gefahr laufen,
 wieder erwischt zu werden. Da er nun keinen anderen Freund und
 Beschützer in der Welt hat, als Michael Henden, so wird er sich Mühe
-geben, diesen Freund wieder zu finden. Nun weiß er aber, daß ich
+geben, diesen Freund wieder zu finden. Nun weiß er aber, dass ich
 sogleich nach Hendenhall aufbrechen wollte. Daher wird er sich
 sagen, das sei folglich auch der richtige Weg für ihn. Ja, so würde
 es wohl kommen. Daher nahm sich Henden vor, keine Zeit mehr
@@ -70,7 +70,7 @@ eiligen Ganges. Der König wandte sich um und sagte zornig: »Wer
 bist du? Was hast du hier zu tun?«
 
 »Nun höre endlich auf mit deinen Dummheiten«, sagte der Mann.
-»So gut ist doch meine Verkleidung nicht, daß du nicht deinen Vater
+»So gut ist doch meine Verkleidung nicht, dass du nicht deinen Vater
 darin erkennen könntest.«
 
 »Du bist nicht mein Vater. Ich kenne dich nicht. Ich bin der
@@ -78,7 +78,7 @@ König. Du hast meinen Diener versteckt. Schaffe ihn mir her,
 oder es soll dir schlecht ergehen.«
 
 Johann Canty erwiderte in ernstem, abgemessenem Tone: »Es
-ist klipp und klar, daß du verrückt bist und ich strafe dich also nicht
+ist klipp und klar, dass du verrückt bist und ich strafe dich also nicht
 gerne. Aber wenn du mich noch länger reizest, so zwingst du mich
 dazu. Dein Schwatzen kann hier freilich kein Unheil anrichten, wo
 dich niemand weiter hört. Aber du tätest doch besser daran, deine
@@ -115,7 +115,7 @@ von dem aufrichtigen, tiefen Schmerz über dessen Tod.
  
 
 Lange gab er sich seiner qualvollen Grübelei hin. Als er endlich
-wieder zum Bewußtsein seiner jetzigen Lage kam, hörte er zu
+wieder zum Bewusstsein seiner jetzigen Lage kam, hörte er zu
 Häupten den Regen plätschernd auf das Dach niederstürzen. Er
 hüllte sich fester in sein Stroh, und ein Gefühl behaglicher Wärme
 durchströmte seinen Körper. Im nächsten Augenblick aber vernahm
@@ -145,7 +145,7 @@ rohe Gassenhauer und Räuberlieder, erst einzeln, dann alle zusammen.
 Schließlich begann ein allgemeines Gespräch, aber nicht in der
 damals üblichen Gaunersprache. Diese wandten sie nur an, wenn sie
 belauscht zu werden fürchteten. Aus dieser Unterhaltung entnahm
-der König, daß Hobbs oder Canty kein neues Mitglied dieser Landstreicher
+der König, dass Hobbs oder Canty kein neues Mitglied dieser Landstreicher
 war, sondern der Bande schon früher angehört hatte. Man
 fragte ihn nach seinen seitherigen Erlebnissen. Er gab kurzen Bericht
 über das, was ihm widerfahren sei, und erklärte, von nun an
@@ -181,7 +181,7 @@ so ängstlich und eigen, eine störrische, übellaunige Dame, aber mit
 einem ungewöhnlichen Mutterwitz behaftet.«
 
 »Das war auch ihr Verderben. Sie war eine so schlaue Wahrsagerin
-und Wetterprophetin, daß sie schließlich in den Ruf einer
+und Wetterprophetin, dass sie schließlich in den Ruf einer
 Hexe kam. Das Gesetz röstete sie also über einem langsamen Feuer
 zu Tode. Es rührt mich jetzt noch, wenn ich daran denke, wie tapfer
 sie ihr Schicksal ertrug. Sie schmähte und verwünschte noch die sie
@@ -217,7 +217,7 @@ auf die Lenden entblößt und ausgepeitscht. Dann legte man sie
 in den Stock, oder sie kamen in die Tretmühle. Nachher ließ man sie
 wieder gehen. Sie bettelten wieder, wurden wieder ausgepeitscht
 und eines Ohres beraubt. Sie bettelten nochmals. Was sollten
-die armen Teufel auch anderes tun? sie mußten doch leben. Jetzt
+die armen Teufel auch anderes tun? sie mussten doch leben. Jetzt
 wurden ihre Wangen mit einem rotglühenden Eisen gezeichnet, und
 sie selbst als Leibeigene verkauft. Liefen sie davon, so wurden sie
 mit Bluthunden gehetzt, niedergeworfen und gehängt. Das ist ganz
@@ -234,7 +234,7 @@ hatte ein liebes Weib und brave Kinder. Weib und Kinder sind
 dahin, vielleicht im Himmel, vielleicht anderswo, aber, Gott sei Dank!
 wenigstens nicht mehr in England. Meine gute alte makellose Mutter
 verdiente sich ihr Brot als Krankenpflegerin. Einer von ihren Kranken
-starb, die Arzte wußten nicht woran. Daher wurde meine Mutter
+starb, die Ärzte wussten nicht woran. Daher wurde meine Mutter
 als Hexe verbrannt, während meine Kinder wehklagend zuschauten.
 
 »Ihr alle, die ihr da seid, stoßt an und trinkt auf das barmherzige
@@ -245,8 +245,8 @@ in England befreite! Dank euch, Kameraden!«
 Mutter gewesen! Arm und elend jagte man uns alle vom Hof.
 Ich bettelte von Haus zu Haus um Arbeit. Aber niemand wollte
 uns aufnehmen. Da bettelte ich um ein Stück Brot für meine Frau
-und mich und die hungrigen Kleinen auf dem Arm. Aber in Eng-* 
-*land ist es ein Verbrechen, hungrig zu sein, und so peitschten sie uns
+und mich und die hungrigen Kleinen auf dem Arm. Aber in England
+ist es ein Verbrechen, hungrig zu sein, und so peitschten sie uns
 aus und trieben uns von Dorf zu Dorf.
 
 »Stoßt wieder an,Kameraden,und trinkt auf das barmherzige englische
@@ -267,7 +267,7 @@ könnt ihr den Stumpf sehen. Ich bettelte noch einmal. Hier, dieser
 andere Stummel zeugt davon. Und als ich zum letztenmal bettelte,
 ward ich als Sklave verkauft. Hier auf meiner Wange unter diesem
 Pflaster könnt ihr das rote »S« noch sehen. Ein Sklave, ein Leibeigener!
-Wißt ihr, was das heißen will? Doch ich will euch nicht
+Wisst ihr, was das heißen will? Doch ich will euch nicht
 ermüden. Ich entrann meinem Herrn. Wenn man mich findet,
 dann verurteilt mich das Gesetz zum Galgen.«
 
@@ -314,8 +314,8 @@ am nächsten Baume auf.«
 Dann wandte er sich an den kleinen König: »Du darfst nicht
 Drohungen gegen deine Kameraden ausstoßen, Bursche, und auch
 nicht anderswo böse von ihnen reden. Sei, was du willst, wenn es
-dir Spaß macht, aber laß dich dadurch nicht zu Ausschreitungen hinreißen.
-Auch den »König« laß beiseite, wenn ich dir gut zu rate bin.
+dir Spaß macht, aber lass dich dadurch nicht zu Ausschreitungen hinreißen.
+Auch den »König« lass beiseite, wenn ich dir gut zu rate bin.
 Es ist Hochverrat. Wenn wir auch in einigen Kleinigkeiten im
 Widerspruch mit dem Gesetz stehen, so ist doch keiner unter uns, der
 so gemein wäre, den Verräter am König zu spielen. Wir sind
@@ -332,7 +332,7 @@ und sagte ernst und einfach: »Ich danke euch, meine guten Leute!«
 Diese unerwartete Antwort rief eine unbändige Heiterkeit hervor.
 Alle wälzten sich oder hielten sich den Bauch vor Lachen.
 Als wieder ein wenig Stille eingetreten war, sagte der Hauptmann
-fest, aber doch gutmütig: »Laß das sein, Junge, es ist weder klug
+fest, aber doch gutmütig: »Lass das sein, Junge, es ist weder klug
 noch gut. Bilde dir meinetwegen ein, was du willst, aber wähle
 dir einen anderen Titel.«
 
@@ -357,7 +357,7 @@ Diese und zwanzig andere Rufe mischten sich durcheinander. Bevor
 das arme kleine Opfer sich auch nur sträuben konnte, hatte er als
 Krone ein Zinnbecken auf dem Kopf, war in eine zerlumpte Decke
 gehüllt, auf eine Tonne gesetzt und erhielt als Zepter das Lötrohr
-des Kesselflickers. Dann warfen sich alle um ihn herum auf die Kniee,
+des Kesselflickers. Dann warfen sich alle um ihn herum auf die Knie,
 brachten jammervolle Klagen und Bitten vor, während sie sich mit
 ihren schmutzigen, zerlumpten Ärmeln und zerfetzten Schürzen die
 Augen wischten: »O sei uns gnädig, du lieber König!«
@@ -371,26 +371,26 @@ Fußtritt!«
 »Freue und erwärme uns mit den Strahlen deiner Gnade, o
 flammende Sonne des Herrschertums!«
 
-»Heilige den Boden durch eine Berührung deines Fußes, auf daß
+»Heilige den Boden durch eine Berührung deines Fußes, auf dass
 wir den Staub essen mögen und dadurch geadelt werden!«
 
 »Geruhe, o Majestät, auf uns zu speien, damit noch unsere Kindeskinder
 von deiner fürstlichen Herablassung erzählen, sich deiner Gnade
 rühmen und für immer glücklich sein können!«
 
-Der lustige Kesselflicker aber schoß doch den Vogel ab und trug
+Der lustige Kesselflicker aber schoss doch den Vogel ab und trug
 den Preis davon. Er kniete vor dem König nieder und tat, als
 wollte er ihm den Fuß küssen. Als Antwort erhielt er darauf, wie
 erwartet, einen derben Tritt von Eduard. Der Kesselflicker stand auf
 und erbat sich von den Umstehenden einen Lumpen. Damit bedeckte
 er das Gesicht an der Stelle, wo ihn der Fuß des Königs berührt
-hatte. »Diese Stelle«, sagte er, »muß sorgfältig vor der Berührung
+hatte. »Diese Stelle«, sagte er, »muss sorgfältig vor der Berührung
 mit der gemeinen Luft bewahrt werden, denn sie verhilft
 mir zu einem Vermögen. Ich will damit hingehen in die Städte
 und auf die Landstraßen und jedermann soll die Wunde gegen ein
 Schaugeld von fünfzig Kronen sehen können.«
 
-Er machte seine Sache so gut, daß er den Neid und die Bewunderung
+Er machte seine Sache so gut, dass er den Neid und die Bewunderung
 der ganzen Bande erregte.
 
 Tränen der Scham und der Entrüstung standen in den Augen des

@@ -6,17 +6,17 @@
 Am nächsten Tage empfing Tom, auf dem Throne sitzend, die
 fremden Gesandten in feierlicher Audienz. Erst war er entzückt über
 die Prachtentfaltung<a href="99_Footnotes.xhtml#rn8" id="rn8">*</a>, aber die Audienz zog sich in die Länge und
-wirkte ermüdend, so daß er sich bald gelangweilt fühlte. Er wiederholte
+wirkte ermüdend, so dass er sich bald gelangweilt fühlte. Er wiederholte
 mechanisch, was Lord Hertford ihm auf die Zunge legte, und
 mühte sich, seine Sache möglichst gut zu machen. Aber die Aufgabe
-war doch etwas zu schwer für ihn. Er war froh, daß er so leidlich
+war doch etwas zu schwer für ihn. Er war froh, dass er so leidlich
 davonkam und atmete auf, als die Zeremonien zu Ende waren.
 
-Die Staatsgeschäfte nahmen den grössten Teil des Tages in Anspruch.
+Die Staatsgeschäfte nahmen den größten Teil des Tages in Anspruch.
 Dann durfte er sich zwei Stunden lang der Erholung und
 dem Zeitvertreib widmen, aber auch das brachte ihm keinen rechten
-Genuß, da er auch hier sich allerlei höfischen Zwang auferlegen
-mußte. Dagegen hatte er auch wieder eine lehrreiche Privatstunde
+Genuss, da er auch hier sich allerlei höfischen Zwang auferlegen
+musste. Dagegen hatte er auch wieder eine lehrreiche Privatstunde
 mit seinem Prügeljungen, die er reichlich ausnutzte.
 
 Allmählich bewegte er sich doch freier, wenn er auch noch oft
@@ -24,7 +24,7 @@ anstieß. Er gewöhnte sich immer mehr an seine Umgebung und
 empfand seine Ketten weniger schwer.
 
 Aber er hatte noch nicht alles durchgemacht; viele neue und
-schwierige Aufgaben erwarteten ihn noch. Er mußte den Vorsitz
+schwierige Aufgaben erwarteten ihn noch. Er musste den Vorsitz
 im Staatsrat führen, wo er seine Ansichten über die Politik klarlegen
 sollte, die England den verschiedenen Nationen gegenüber
 einzuschlagen hatte, wie auch viele andere, nicht weniger heikle
@@ -34,7 +34,7 @@ folgen würden.
 
 Aber Tom konnte diesem Tage nicht Einhalt gebieten, und so
 kam er heran. Der Pseudokönig war zerstreut und niedergedrückt
-und vermochte nicht, seiner Mißstimmung Herr zu werden. Alles
+und vermochte nicht, seiner Missstimmung Herr zu werden. Alles
 kam ihm heute doppelt langweilig vor, und ein Gefühl der Verlassenheit
 wollte sich wiederum seiner bemächtigen.
 
@@ -58,13 +58,13 @@ Neugier.
 »Ihr seid der König«, erwiderte der Graf, sich verbeugend. »Erlaubt
 Ihr mir, Erkundigungen einzuziehen?«
 
-»Ach ja, gewiß, gerne!« rief Tom lebhaft. Und befriedigt sprach
+»Ach ja, gewiss, gerne!« rief Tom lebhaft. Und befriedigt sprach
 er für sich: »Wenn es auch langweilig ist, König zu sein, seine angenehmen
 Seiten hat es doch.«
 
 Der Graf winkte einem Edelknaben und schickte ihn zum Hauptmann
 der Wache mit dem Befehl, der Pöbel solle angehalten werden
-und Aufschluß über die Zusammenrottung geben.
+und Aufschluss über die Zusammenrottung geben.
 
 Wenige Sekunden später marschierte eine lange Rotte der königlichen
 Wache in blitzender Stahlrüstung zu den Toren hinaus und
@@ -73,16 +73,16 @@ Meldung zurück, der Pöbel laufe hinter einem Mann, einer Frau und
 einem jungen Mädchen her, die alle zur Richtstätte geführt würden.
 
 Zur Richtstätte! Dieses düstere Wort drang Tom zu Herzen. Das
-Mitleid überwog alle Bedenken. Er dachte nicht daran, daß diese
+Mitleid überwog alle Bedenken. Er dachte nicht daran, dass diese
 Menschen dem Gesetze zuwider gehandelt und ihren Mitmenschen
 Schaden zugefügt hatten. Der Gedanke an das Schafott und das
 traurige Verhängnis, dem die Verurteilten entgegengingen, verdrängte
 alle übrigen Empfindungen. Dieses Bedauern ließ ihn
-sogar für den Augenblick vergessen, daß er nur ein Schattenkönig
-war, und beinahe unbewußt stieß er hervor: »Bringt sie hierher!«
+sogar für den Augenblick vergessen, dass er nur ein Schattenkönig
+war, und beinahe unbewusst stieß er hervor: »Bringt sie hierher!«
 
 Dann wurde er purpurrot und war daran, eine Entschuldigung
-zu stammeln. Noch rechtzeitig bemerkte er aber, daß weder die
+zu stammeln. Noch rechtzeitig bemerkte er aber, dass weder die
 Mienen des Grafen, noch die des Edelknaben Überraschung zeigten,
 und er beruhigte sich. Der Edelknabe machte eine tiefe Verbeugung
 und verließ den Saal, um den Befehl zu überbringen.
@@ -91,7 +91,7 @@ Wieder beschlich stolze Freude Toms Herz. »Wahrhaftig«, sagte
 er sich, »genau dasselbe Gefühl überkam mich, wenn ich den Märchen
 des alten Priesters lauschte und mir vorstellte, wenn ich auch ein
 solcher König wäre, Gesetze geben und das und jenes befehlen könnte,
-ohne daß jemand sich meinem Befehle widersehen dürfte.«
+ohne dass jemand sich meinem Befehle widersehen dürfte.«
  
 
 Die Stunde der Audienz war gekommen. Die Flügeltüren
@@ -119,10 +119,10 @@ geblendet von der Majestät des Königs. Aber dieser eine Augenblick
 hatte Tom genügt. Er sagte sich: »Nun ist die Sache klar. Das
 ist ja der Fremde, der den Julius Witt aus der Themse zog und ihm
 so das Leben rettete an jenem bitterkalten, stürmischen Neujahrstag.
-Es war eine brave, schöne Tat; schade um den Mann, daß er sich
+Es war eine brave, schöne Tat; schade um den Mann, dass er sich
 jetzt in so schlimme Händel verwickelte. Ich habe weder den Tag,
 noch die Stunde vergessen, weil ich eine Stunde später von Großmutter
-eine solche gewaltige Tracht Prügel bekam, daß alle vorherigen
+eine solche gewaltige Tracht Prügel bekam, dass alle vorherigen
 und nachherigen Prügel nur Liebkosungen dagegen waren.«
 
 Tom befahl, die Frau und das Mädchen einstweilen wegzuführen.
@@ -153,10 +153,10 @@ und kann wohl nicht mehr geändert werden. Aber in meiner äußersten
 Not bitte ich um eine andere Gnade. Denn wie ich sterben soll,
 ist mehr, als ich ertragen kann. Gnade, Gnade, erhabene Majestät!
 In fürstlichem Mitleid gewährt mir meine Bitte: gebt Befehl,
-daß ich gehängt werde!«
+dass ich gehängt werde!«
 
 Tom war verblüfft. Auf eine solche Art Bitte war er nicht
-gefaßt.
+gefasst.
 
 »Meiner Treu, eine sonderbare Bitte! Was für ein Schicksal
 war dir denn bestimmt?«
@@ -170,8 +170,8 @@ Sprache wieder erlangte, rief er: »Dein Wunsch soll dir erfüllt sein.
 Und hättest du hundert Menschen vergiftet, eines solch elenden
 Todes sollst du nicht sterben!«
 
-Der Gefangene verbeugte sich bis auf die Erde und floß über von
-heißen Dankesworten. Er schloß mit den Worten: »Und solltet Ihr
+Der Gefangene verbeugte sich bis auf die Erde und floss über von
+heißen Dankesworten. Er schloss mit den Worten: »Und solltet Ihr
 je Ungemach kennen lernen, was Gott verhüte! so möge Euere Gutherzigkeit
 gegen mich in jener Stunde belohnt und vergolten werden.«
 
@@ -187,7 +187,7 @@ dann ...«
 »O bitte, nicht weiter, mein Lord. Das kann ich nicht hören!«
 rief Tom und bedeckte die Augen mit seinen Händen, wie um das
 schreckliche Bild nicht sehen zu müssen. »Ich bitte Euere Lordschaft,
-zu veranlassen, daß dieses Gesetz geändert wird.«
+zu veranlassen, dass dieses Gesetz geändert wird.«
  
 
 Die Miene des Grafen drückte hohe Befriedigung aus, denn er
@@ -216,19 +216,19 @@ Gift gefunden?«
 
 »Nein, mein Fürst.«
 
-»Wie konnte man denn wissen, daß der Kranke an Gift starb?«
+»Wie konnte man denn wissen, dass der Kranke an Gift starb?«
 
-»Ew. Majestät zu dienen, die Ärzte bezeugen, daß ein Tod unter
+»Ew. Majestät zu dienen, die Ärzte bezeugen, dass ein Tod unter
 solchen Erscheinungen nur unter der Einwirkung von Gift erfolgen
 könne.«
 
 Das war nun allerdings ein gewichtiges Zeugnis für jene Zeit.
-Tom mußte sich das auch sagen und fuhr daher fort: »Die Ärzte
+Tom musste sich das auch sagen und fuhr daher fort: »Die Ärzte
 müssen das wissen. Die Sache steht freilich schlimm für den Angeklagten.«
 
 »Das war noch nicht alles, Majestät. Schwerwiegender und
 gewichtiger war noch folgende Tatsache. Viele Leute bezeugen,
-daß eine Hexe, die am Tatorte wohnte, aber seither fortzog, niemand
+dass eine Hexe, die am Tatorte wohnte, aber seither fortzog, niemand
 weiß wohin, ihnen voraussagte, der kranke Mann werde an Gift
 sterben. Mehr noch; ein Fremder werde es ihm reichen, ein Fremder
 mit braunem Haar und ärmlicher, gewöhnlicher Kleidung. Den
@@ -242,7 +242,7 @@ sagen hast, dann sprich!«
 
 »Das wird wohl nichts helfen, mein gnädigster König. Ich bin
 unschuldig, aber beweisen kann ich es nicht. Ich habe keine Freunde,
-sonst könnte ich vielleicht nachweisen, daß ich an jenem Tage gar
+sonst könnte ich vielleicht nachweisen, dass ich an jenem Tage gar
 nicht am Tatorte mich aufhielt. Ich befand mich mehr als eine
 Meile davon entfernt, am Themseufer bei der alten Stiege. Noch
 mehr, mein König: während sie behaupten, ich habe einem Menschen
@@ -259,7 +259,7 @@ Neujahrstage, Erlauchtester ...«
 
 Wieder errötete der König und begründete die überraschende
 Entscheidung mit den Worten: »Es ist meinem ganzen Denken zuwider,
-daß ein Mann gehängt werden sollte auf Grund solcher an
+dass ein Mann gehängt werden sollte auf Grund solcher an
 den Haaren herbeigezogener Beweise.«
 
 Ein unterdrücktes bewunderndes Gemurmel machte sich im ganzen
@@ -317,13 +317,13 @@ Tom schauderte wieder
 »Gewisse Zeugen sahen, wie die Angeklagten sich dorthin begaben.
 Sie verdächtigten sich und schreckliche Wirkungen haben diesen Verdacht
 seither genährt und bestätigt. So ist unter anderem erwiesen,
-daß sie durch die verruchte Macht, die sie dadurch gewannen, ein
+dass sie durch die verruchte Macht, die sie dadurch gewannen, ein
 Unwetter heraufbeschworen, welches die ganze Gegend ringsum
 verheerte. Über vierzig Zeugen haben dieses Ereignis bestätigt.
 Man hätte auch leicht tausend Zeugen dafür aufbringen können,
 denn alle haben darunter gelitten.«
 
-»Gewiß, das ist eine ernste Sache«, sagte Tom und fuhr fort:
+»Gewiss, das ist eine ernste Sache«, sagte Tom und fuhr fort:
 »Litt die Frau auch durch das Unwetter?«
 
 Mehrere graue Häupter in der Versammlung nickten Beifall zu
@@ -334,14 +334,14 @@ weggeschwemmt und sie selbst und ihr Kind wurden obdachlos.«
 
 »Mir scheint, dann war die Macht, soviel Unheil anzurichten,
 teuer erkauft. Hätte sie auch nur einen Heller für diese Gewalt bezahlt,
-so wäre sie schon genug dafür bestraft worden. Daß sie aber ihre
-Seele und die ihres Kindes dafür hingab, beweist mir, daß sie irrsinnig
+so wäre sie schon genug dafür bestraft worden. Dass sie aber ihre
+Seele und die ihres Kindes dafür hingab, beweist mir, dass sie irrsinnig
 ist. Wenn sie aber irrsinnig ist, weiß sie doch nicht, was sie tut,
 und daher kann auch von Sünde oder Verbrechen keine Rede sein.«
 
 Wiederum zollten die grauen Häupter Toms Weisheit ihre Anerkennung
-und einer murmelte: »Und wenn der König selbst irr-* 
-*sinnig ist, wenn man dem Gerüchte Glauben schenken will, dann ist
+und einer murmelte: »Und wenn der König selbst irrsinnig
+ist, wenn man dem Gerüchte Glauben schenken will, dann ist
 das ein Irrsinn, welcher den Verstand anderer Leute heller machen
 würde, wenn sie es nur einsehen könnten.«
 
@@ -361,7 +361,7 @@ Der Böse mag ein anderes Kind kaufen, wenn er Lust hat
 und das Kind einwilligt, nicht aber ein englisches Kind, denn in
 diesem Falle wäre der Vertrag null und nichtig.«
 
-»Mir scheint es unbillig und ungerecht, daß das englische Gesetz
+»Mir scheint es unbillig und ungerecht, dass das englische Gesetz
 seinen kleinen Untertanen ein Vorrecht versagt, das andere Kinder
 besitzen«, bemerkte Tom.
 
@@ -370,11 +370,11 @@ hervor und fand als Originalität Anerkennung.
 
 Die Mutter hatte aufgehört zu schluchzen und hing an Toms
 Lippen mit lebhaftem Interesse und wachsender Hoffnung. Tom
-bemerkte es und faßte Mitleid mit ihrer freundlosen und hilflosen
+bemerkte es und fasste Mitleid mit ihrer freundlosen und hilflosen
 Lage. Er fragte weiter: »Wie machte sie es denn, um den Sturm
 heraufzubeschwören?«
 
-»Dadurch, daß beide ihre Strümpfe<a href="99_Footnotes.xhtml#rn10" id="rn10">*</a> auszogen, Majestät.«
+»Dadurch, dass beide ihre Strümpfe<a href="99_Footnotes.xhtml#rn10" id="rn10">*</a> auszogen, Majestät.«
 
 Das verblüffte Tom und steigerte seine Neugier. Eifrig rief er:
 »Das ist doch wunderbar! Hat diese Manipulation immer solch
@@ -385,7 +385,7 @@ die nötigen Worte dazu murmelt oder auch nur denkt.«
 
 Tom wandte sich an die Frau und sagte mit ungestümem Eifer:
 »Übe doch mal deine Kraft aus. Ich möchte einen Sturm sehen.«
-Viele Wangen wurden blaß in der abergläubischen Versammlung,
+Viele Wangen wurden blass in der abergläubischen Versammlung,
 und ein allgemeiner, wiewohl stummer Wunsch, aus dem Saale fortzukommen,
 machte sich bemerkbar. Tom kehrte sich aber nicht daran,
 er schien es auch nicht einmal zu beachten, so sehr war er auf das
@@ -415,23 +415,23 @@ abzulocken. Endlich sagte er: »Ich glaube, die Frau hat die
 Wahrheit gesprochen. Wenn meine Mutter an ihrer Stelle wäre
 und die fragliche Zauberkraft hätte, sie würde nicht einen Augenblick
 geschwankt haben. Sie hätte einen Sturm heraufbeschworen,
-daß das ganze Land verwüstet worden wäre, nur um damit mein
-Leben zu retten. Es ist anzunehmen, daß andere Mütter es auch
+dass das ganze Land verwüstet worden wäre, nur um damit mein
+Leben zu retten. Es ist anzunehmen, dass andere Mütter es auch
 täten. Du bist frei, gute Frau, du und dein Kind, denn ich halte
-dich für unschuldig. Nun aber, da du siehst, daß dir keine Gefahr
+dich für unschuldig. Nun aber, da du siehst, dass dir keine Gefahr
 mehr droht, ziehe deine Strümpfe aus und wenn du einen Sturm
 herzaubern kannst, sollst du reich werden.«
 
 Mit überquellendem Herzen dankte die arme Mutter und schickte
 sich an, dem Befehle nachzukommen, während Tom erwartungsvoll
 nicht ganz ohne Bangen hinsah. Die Höflinge aber zeigten ausgesprochenes
-Mißbehagen und Unruhe. Die Frau streifte ihre Strümpfe
+Missbehagen und Unruhe. Die Frau streifte ihre Strümpfe
 und die ihres Kindes ab und tat augenscheinlich, was in ihren Kräften
 lag, um den König für seine Großmut mit einem Erdbeben zu belohnen.
 Aber es war alles nichts und wieder nichts. Tom ergab
 sich seufzend und sagte: »Höre auf, gute Seele und mühe dich nicht
 länger; der Böse hat, scheint es, den Vertrag wieder zerrissen. Gehe
 im Frieden deiner Wege. Für deinen Unterhalt werde ich sorgen.
-Kommt dir aber einmal deine Zauberkraft wieder, dann vergiß mich
+Kommt dir aber einmal deine Zauberkraft wieder, dann vergiss mich
 nicht und mache mir den schuldigen Sturm vor.«
 

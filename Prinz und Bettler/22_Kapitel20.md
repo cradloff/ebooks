@@ -15,7 +15,7 @@ schwacher Ton bis zu ihm, der so hohl und geheimnisvoll klang, wie
 das leise Klagen einer abgeschiedenen Seele.
 
 Erst wollte er für den Rest des Tages sich hier verborgen halten;
-aber es fröstelte ihn, und er mußte weiter, um sich warm zu halten.
+aber es fröstelte ihn, und er musste weiter, um sich warm zu halten.
 Er schritt jetzt immer gerade aus, um so eher an eine begangene
 Straße zu kommen. Aber der Wald schien kein Ende zu nehmen.
 Schneller eilte er vorwärts, nur um nicht an diesem unheimlichen
@@ -27,7 +27,7 @@ den Bäumen hindurch bemerkte. Behutsam trat er vorwärts und
 lauschte. Das Licht drang aus dem ungeglasten Fenster einer armseligen
 kleinen Hütte. Jetzt wurde auch eine Stimme hörbar, bei
 deren Ton Eduard wegrennen und sich verbergen wollte. Als er
-aber vernahm, daß die Stimme betete, faßte er wieder Mut. Er
+aber vernahm, dass die Stimme betete, fasste er wieder Mut. Er
 schlich an das eine Fenster und lauschte. Dann erhob er sich auf
 die Fußspitzen und warf einen verstohlenen Blick hinein.
 
@@ -46,8 +46,8 @@ reichte ihm vom Halse bis auf die Fersen.
 »Ein frommer Einsiedler!« dachte sich der König; »das habe ich
 gut getroffen.«
 
-Der Klausner erhob sich von den Knieen, und der König pochte
-an die Tür. Eine tiefe Stimme antwortete: »Tritt ein, aber laß
+Der Klausner erhob sich von den Knien, und der König pochte
+an die Tür. Eine tiefe Stimme antwortete: »Tritt ein, aber lass
 die Sünde hinter dir, denn der Boden, auf dem du stehen wirst, ist
 heilig.«
 
@@ -144,7 +144,7 @@ sein sollen!«
 So ging es fort, wohl eine Stunde lang, während der arme
 kleine König angstvoll dasaß. Auf einmal aber wurde der Einsiedler
 ruhig und sanft. Er fiel herab aus seinem Himmel und wurde wieder
-Mensch. So einfach und gemütlich plauderte er jetzt, daß Eduard
+Mensch. So einfach und gemütlich plauderte er jetzt, dass Eduard
 alle Furcht verlor und ihm sein ganzes Herz zuwandte. Der alte
 Mönch brachte den Knaben näher ans Feuer und machte es ihm
 möglichst bequem. Er verband ihm seine Schrammen und Schrunden
@@ -155,7 +155,7 @@ Ganz vertraut und vergnügt nahmen sie zusammen ihr Mahl ein.
 Hierauf betete der Eremit vor seinem kleinen Altar und brachte dann
 den Knaben in einem anstoßenden kleinen Zimmerchen zu Bette.
 So sorgsam und liebevoll deckte er ihn zu, wie es eine Mutter kaum
-besser gemacht hätte. Schließlich küßte er ihn auf die Stirn und
+besser gemacht hätte. Schließlich küsste er ihn auf die Stirn und
 verließ ihn. Draußen setzte er sich am Feuer nieder und stocherte 
 wie geistesabwesend in der Glut herum. Plötzlich hielt er inne,
 tippte sich mehrmals mit dem Finger an die Stirn, als suche er
@@ -175,7 +175,7 @@ seines kleinen Gastes und fragte: »Du bist also König?«
 
 Finster runzelte der Einsiedler die Stirn. Er stand eine Weile
 da, atmete hastig und schluckte, als könne er die Worte nicht herausbringen.
-Endlich sagte er mit heiserer Stimme: »Weißt du, daß
+Endlich sagte er mit heiserer Stimme: »Weißt du, dass
 er es war, der uns aus dem Kloster ins Elend der Welt hinausjagte?«
 
 Es erfolgte keine Antwort. Der alte Mann beugte sich über den
@@ -210,18 +210,18 @@ Feuer der Hölle, das in Ewigkeit fortdauert.«
 
 Und weiter arbeitete und murmelte er. Dann sprach er wieder
 vernehmbar: »Ja, sein Vater war es, der das verbrach. Und ich
-bin nur ein Erzengel! Seine Schuld ist es, daß ich nicht Papst geworden
+bin nur ein Erzengel! Seine Schuld ist es, dass ich nicht Papst geworden
 bin.«
 
 Der König rührte sich. Behutsam eilte der Eremit an das Bett
-des kleinen Fremdlings, ließ sich auf die Kniee nieder und beugte
+des kleinen Fremdlings, ließ sich auf die Knie nieder und beugte
 sich mit aufgehobenem Messer über den Daliegenden. Der Knabe
 
 <div align="center"><img alt="Der Eremit nähert sich dem schlafenden Eduard mit einem Messer in der Hand" src="img09.png"/></div>
 
 regte sich wieder. Seine Augen öffneten sich einen Augenblick lang,
 aber es war kein Leben in ihnen. Sie konnten nichts sehen. Gleich
-darauf kündete ein ruhiges Atmen, daß der König wieder eingeschlummert
+darauf kündete ein ruhiges Atmen, dass der König wieder eingeschlummert
 war.
 
 Eine Weile blieb der Einsiedler noch da und lauschte und wagte
@@ -241,6 +241,6 @@ eine oder andere Hand zurück. Der Erzengel wollte schon verzweifeln,
 als plötzlich der Knabe selbst die Hände faltete, die im nächsten Augenblick
 gebunden waren. Nun legte der Einsiedler eine Binde unter
 das Kinn des Schläfers, zog sie über den Kopf herauf und band sie
-fest. Auch das nahm er so sanft und geschickt vor, daß der Knabe
+fest. Auch das nahm er so sanft und geschickt vor, dass der Knabe
 ungestört weiter schlief.
 

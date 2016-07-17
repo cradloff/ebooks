@@ -1,19 +1,19 @@
 
 <h2>Achtes Kapitel.</h2>
 
-<h1>Das große Kronsiegel wird vermißt.</h1>
+<h1>Das große Kronsiegel wird vermisst.</h1>
 
 Gegen 5 Uhr abends erwachte Heinrich der Achte aus einem unerquicklichen
 Schlafe und murmelte vor sich hin: »Verworrene, schreckliche
 Träume! Mein Ende sei nahe, sagen sie, und meine schwachen
 Pulse bestätigen es.« Plötzlich aber zuckte ein böses Licht aus seinen
-Augen, und er sagte halblaut: »Und doch muß er noch vor mir
+Augen, und er sagte halblaut: »Und doch muss er noch vor mir
 sterben!«
 
-Die umstehenden Diener bemerkten, daß er wach sei, und einer
+Die umstehenden Diener bemerkten, dass er wach sei, und einer
 von ihnen trat näher und meldete, der Lordkanzler warte draußen.
 
-»Laßt ihn herein, nur herein!« rief der König eifrig.
+»Lasst ihn herein, nur herein!« rief der König eifrig.
 
 Der Lordkanzler trat ein, kniete vor dem Lager des Königs nieder
 und sprach: »Gemäß dem Befehl Euerer Majestät habe ich die Pairs
@@ -23,7 +23,7 @@ Wünsche Euerer Majestät in dieser Angelegenheit.«
 
 Des Königs Augen leuchteten in wildem Triumph. »Hebt mich
 empor! In eigener Person will ich in mein Parlament gehen und
-mit eigener Hand will ich den Erlaß unterzeichnen, der mich befreit
+mit eigener Hand will ich den Erlass unterzeichnen, der mich befreit
 von ...«
 
 Er brach plötzlich ab. Sein Gesicht wurde auf einmal aschfahl.
@@ -31,11 +31,11 @@ Die Diener legten ihn sanft in die Kissen zurück und reichten ihm
 Stärkungsmittel. Als er sich wieder erholt hätte, fuhr er fort: »O
 wie habe ich mich gesehnt nach diesem köstlichen Augenblick und ach!
 jetzt kommt er zu spät; ich kann nicht mehr. Doch zögert nicht, säumet
-nicht; laßt einen anderen diesen wonnigen Akt verrichten, dessen
+nicht; lasst einen anderen diesen wonnigen Akt verrichten, dessen
 Ausführung mir versagt ist. Ich habe mein großes Siegel in Verwahr
 gegeben. Lordkanzler, ernennet einen Bevollmächtigten, der
 das Dekret besiegeln soll. Aber Eile tut not! Beschleuniget Euch!
-Ehe morgen die Sonne untergeht, bringet mir seinen Kopf, daß ich
+Ehe morgen die Sonne untergeht, bringet mir seinen Kopf, dass ich
 den Befehl ausgeführt sehe.«
 
 »Es geschehe nach des Königs Befehl. Beliebt es Euerer Majestät,
@@ -48,15 +48,15 @@ Es sollte, wie Ihr dabei sagtet, erst wieder zur Besiegelung des
 Todesurteils über den Herzog von Norfolk zur Verwendung gelangen.«
 
 »In der Tat, so sagte ich. Aber was fing ich denn mit dem Siegel
-an? ... Mein Gedächtnis beginnt schwach zu werden ... Daß es
-aber auch gerade jetzt schwach sein muß ... es ist sonderbar, ganz
+an? ... Mein Gedächtnis beginnt schwach zu werden ... Dass es
+aber auch gerade jetzt schwach sein muss ... es ist sonderbar, ganz
 sonderbar ...«
 
 Der König versank in unverständliches Murmeln. Hin und wieder
 schüttelte er schwach seinen grauen Kopf. Endlich wagte Lord Hertford
 ihn in seinem Brüten zu unterbrechen und sagte: »Majestät,
-darf ich mir erlauben, Euch darauf hinzuweisen, daß hier mehrere
-Herren sind, die sich mit mir erinnern, daß Ihr das große Kronsiegel
+darf ich mir erlauben, Euch darauf hinzuweisen, dass hier mehrere
+Herren sind, die sich mit mir erinnern, dass Ihr das große Kronsiegel
 in die Hände seiner Hoheit, des Kronprinzen, legtet, der es bis zu
 dem erwähnten Tage aufbewahren sollte.«
 
@@ -67,7 +67,7 @@ Lord Hertford eilte zu Tom, kehrte aber bald darauf mit leeren
 Händen zurück. Mit verstörter Miene berichtete er: »Es schmerzt
 mich, Euerer Majestät eine so unwillkommene Nachricht bringen zu
 müssen. Aber es ist der Wille Gottes, den Prinzen immer noch
-heimzusuchen. Seine Hoheit vermag sich nicht zu entsinnen, daß er
+heimzusuchen. Seine Hoheit vermag sich nicht zu entsinnen, dass er
 das Siegel empfangen hat. Ich kam daher gleich wieder zurück, in
 der Meinung, es sei nur Zeitverschwendung und von geringem Belang,
 in der langen Flucht von Zimmern und Sälen seiner Königlichen
@@ -80,13 +80,13 @@ verzehrt sich in Mitleid und Sorge um ihn. O könnte ich doch seine
 Bürde auf meine eigenen alten, lastgewohnten Schultern nehmen
 und seinem gequälten Geiste Frieden bringen.«
 
-Er schloß die Augen, begann wieder zu murmeln und schwieg
+Er schloss die Augen, begann wieder zu murmeln und schwieg
 dann ganz. Nach einer Weile öffnete er die Augen wieder und
-schaute wie irre umher. Endlich blieb sein Blick auf dem knieenden
+schaute wie irre umher. Endlich blieb sein Blick auf dem knienden
 Lordkanzler haften. Seine Augen sprühten in plötzlicher Wut.
 
 »Was! Ihr seid noch hier? Bei der Herrlichkeit Gottes, wenn
-Ihr jetzt nicht sofort die Angelegenheit mit dem Verräter zum Abschluß
+Ihr jetzt nicht sofort die Angelegenheit mit dem Verräter zum Abschluss
 bringet, so soll Eure Kopfbedeckung morgen feiern, weil sie
 keinen Kopf mehr zu schmücken hat.«
 

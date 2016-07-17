@@ -5,7 +5,7 @@
 
 Inzwischen fuhr die königliche Barke in Begleitung der ansehnlichen
 Flottille zwischen den zahllosen beleuchteten Booten die Themse
-hinunter. Musik erfüllte die Luft, Feuer umsäumten den Fluß zu
+hinunter. Musik erfüllte die Luft, Feuer umsäumten den Fluss zu
 beiden Seiten. Aber die Altstadt erglühte die Luft von unzähligen
 unsichtbaren Freudenfeuern. Manch ein schlanker Turm, der hoch
 gen Himmel ragte, war ganz mit funkelnden Lichtern besetzt, was
@@ -15,7 +15,7 @@ ein andauerndes stürmisches Hurra, das sich zwischen dem Kanonendonner
 hindurch wie Salvenfeuer der Infanterie anhörte.
 
 Für Tom Canty, der in seidenen Kissen halb begraben lag, war
-dieses ganze Schauspiel ein unsäglicher Genuß. Seine kleinen Freundinnen
+dieses ganze Schauspiel ein unsäglicher Genuss. Seine kleinen Freundinnen
 dagegen, Prinzessin Elisabeth und Fräulein Johanna Grey,
 waren an derartige Aufzüge gewöhnt. Das Schiff fuhr weiter durch
 die märchenschöne Nacht bis mitten in die Altstadt hinein. Da
@@ -74,7 +74,7 @@ Während Tom auf seinem erhöhten Sitz auf dieses bunte Treiben
 hinsah und das farbenprächtige Schauspiel der herumwirbelnden
 fröhlichen Gestalten bewunderte, wollte der zerlumpte wirkliche
 Prinz seine Rechte geltend machen und den Betrüger entlarven. Ungestüm
-forderte er Einlaß an den Toren des Rathauses. Die Menge 
+forderte er Einlass an den Toren des Rathauses. Die Menge 
 freute sich höchlich über diesen Auftritt, drängte vorwärts und reckte
 die Hälse, um den kleinen Streithahn zu sehen. Man fing an, ihn zu
 höhnen und zu necken, um sich an seinem gesteigerten Zorn noch mehr
@@ -84,12 +84,12 @@ die Spöttereien immer ärger wurden, rief er aus:
 
 »Und ich sage es euch wieder, ihr sittenloses Pack, ich bin der
 Kronprinz. So verlassen und freundlos ich auch bin, wenn auch keiner
-mir nur ein gutes Wort, geschweige denn Hilfe zuteil werden läßt,
+mir nur ein gutes Wort, geschweige denn Hilfe zuteil werden lässt,
 so will ich dennoch nicht von meinem guten Rechte weichen!«
 
 »Ob du nun ein Prinz oder kein Prinz bist, das ist ganz gleich.
 Jedenfalls bist du ein tapferer Junge, und einen Freund hast du
-auch. Hier stelle ich mich an deine Seite und will dir beweisen, daß
+auch. Hier stelle ich mich an deine Seite und will dir beweisen, dass
 Michael Henden nicht der schlechteste Freund ist, den du finden kannst.
 Gib dich nicht mehr mit diesen Leuten ab, mein Kind. Ich weiß besser,
 wie man mit diesem Gelichter umzugehen hat.«
@@ -113,8 +113,8 @@ mit dem Burschen!«
 
 Zugleich griff einer nach dem Prinzen. Aber im nämlichen Augenblick
 fuhr auch schon das lange Schwert des Fremden aus der Scheide
-und sauste auf den vorwitzigen Angreifer nieder, daß er dröhnend
-zur Erde stürzte. Jetzt aber schrieen zwanzig Stimmen: »Tötet den
+und sauste auf den vorwitzigen Angreifer nieder, dass er dröhnend
+zur Erde stürzte. Jetzt aber schrien zwanzig Stimmen: »Tötet den
 Hund! Tötet ihn!«
 
 Stürmisch umdrängte die Menge den Haudegen, der rasch für
@@ -137,13 +137,13 @@ Lärm des Festes schmetterte plötzlich eine Fanfare. Augenblicklich
 trat tiefstes Schweigen ein. Dann erhob sich eine einzelne Stimme,
 die des Königsboten, und begann weithin tönend eine Proklamation
 zu verlesen, der die ganze Versammlung stehend lauschte. Die feierlich
-gesprochenen Schlußworte lauteten:
+gesprochenen Schlussworte lauteten:
 
 »Der König ist tot!«
 
 Wie von einem Gedanken durchzittert, beugten alle Anwesenden
 ihr Haupt und verharrten so eine Weile in andächtigem Schweigen.
-Dann aber sanken alle auf die Kniee, erhoben ihre Hände zu Tom, und
+Dann aber sanken alle auf die Knie, erhoben ihre Hände zu Tom, und
 mächtig erscholl aus aller Brust ein Ruf, der das gewaltige Gebäude
 zu erschüttern schien:
 
@@ -151,7 +151,7 @@ zu erschüttern schien:
 
 Verwundert und beinahe erschrocken ließ Tom seine Augen auf
 diesem feierlichen Schauspiel ruhen. Dann blickte er wie in Träumen
-auf die ebenfalls knieenden Prinzessinnen neben ihm und weiter, wie
+auf die ebenfalls knienden Prinzessinnen neben ihm und weiter, wie
 fragend auf den Grafen Hertford. Jetzt erhellte plötzlich ein Gedanke
 seine Mienen. Hastig flüsterte er Lord Hertford ins Ohr:
 

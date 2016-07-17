@@ -54,7 +54,7 @@ Alter; sanfte, liebenswürdige Mädchen mit glänzenden Augen und
 frischer Gesichtsfarbe, die kaum die glückliche Stunde erwarten können,
 da sie zum erstenmal ihr Krönchen sich aufsetzen dürfen. Das Haar
 aller dieser Damen hat die künstlerische Hand der Zofe so geordnet,
-daß es bequem die kleine Krone tragen kann.
+dass es bequem die kleine Krone tragen kann.
 
 Aber die Juwelenpracht kommt erst recht zur Geltung, als um
 9 Uhr die letzten leichten Wölkchen am Himmel sich zerstreuen und ein
@@ -72,14 +72,14 @@ tanzendes Flirren und Funkeln hervor.
 
 Wieder vergehen ein, zwei Stunden, dann dröhnt es gewaltig
 von Kanonendonner und verkündet das Nahen des Königs und seines
-Gefolges. Nicht lange währt es, und eine neue Flut von herrlich ge-* 
-*kleideten Edelleuten strömt herein. Es sind die Großen des Reiches
+Gefolges. Nicht lange währt es, und eine neue Flut von herrlich gekleideten
+Edelleuten strömt herein. Es sind die Großen des Reiches
 in ihren Prunkgewändern.
 
 Auf den Galerien wird es lebendig. Aller Augen richten sich auf
 die Herzoge, Grafen und Barone da unten, von denen viele geschichtliche
 Bedeutung erlangt haben. Der König selbst erscheint noch nicht,
-da er vorerst umgekleidet werden muß. Alle übrigen haben unterdessen
+da er vorerst umgekleidet werden muss. Alle übrigen haben unterdessen
 Platz genommen. Fürwahr! ein herrlicher Anblick ist es, die
 ganze große Versammlung vollständig zu sehen!
 
@@ -97,10 +97,10 @@ sich von ihren Sitzen, und die Krönungsfeierlichkeiten begannen.
 Ein Chorgesang ward angestimmt und Tom langsam zum Throne
 geleitet. Unter lautloser Stille der Zuschauer wickelten sich die
 Zeremonien ab. Tom aber wurde blasser und bleicher, je näher der
-Krönungsakt heranrückte. Ein tiefes Weh preßte ihm das reuevolle
+Krönungsakt heranrückte. Ein tiefes Weh presste ihm das reuevolle
 Herz zusammen.
 
-Die Schlußhandlung kam. Der Erzbischof von Canterbury hob
+Die Schlusshandlung kam. Der Erzbischof von Canterbury hob
 die Königskrone vom Kissen auf und hielt sie über das Haupt des
 zitternden Thronräubers. Im nämlichen Augenblick durchfuhr ein
 buntschillernder Blitz das geräumige Transept. Der ganze Hochadel
@@ -113,7 +113,7 @@ Kirche und eilte durch das Mittelschiff dem Chore zu. Es war ein
 Knabe, barhäuptig, schlecht beschuht und in grobe Lumpen gekleidet,
 die in Fetzen herabhingen. Vor dem Chor angelangt, hob er seine
 Hand empor mit einer Feierlichkeit, welche zu seinem beschmutzten,
-elenden Äußeren nicht recht paßte, und rief warnend:
+elenden Äußeren nicht recht passte, und rief warnend:
 
 »Ich verbiete euch, die Krone Englands auf das Haupt eines
 Thronräubers zu setzen. Ich bin der König!«
@@ -126,9 +126,9 @@ rief:
 »Lasset ihn los und waget nicht, ihn zu berühren. Er ist der König!«
 
 Erstaunen und Entsetzen ergriffen die Menge. Alles erhob sich und
-starrte verblüfft nach dem Chore. Niemand wußte, ob er seinen
+starrte verblüfft nach dem Chore. Niemand wusste, ob er seinen
 Sinnen trauen könne, ob er wache oder träume. Der Lord Protektor
-war ebenso überrascht wie alle anderen. Aber er faßte sich schnell und
+war ebenso überrascht wie alle anderen. Aber er fasste sich schnell und
 rief mit befehlender Stimme:
 
 »Achtet nicht auf Se. Majestät! Seine Krankheit ist wieder über
@@ -141,16 +141,16 @@ Tom stampfte mit seinem Fuß und drohte:
 
 Die ausgestreckten Hände zogen sich zurück. Eine Art Lähmung
 befiel die Anwesenden. Niemand bewegte sich, niemand äußerte
-ein Wort. Keiner wußte, was er sagen, was er tun sollte. Ein solcher
+ein Wort. Keiner wusste, was er sagen, was er tun sollte. Ein solcher
 Fall war noch nicht dagewesen. Während alle sich mühten, die Sachlage
 richtig zu erfassen, schritt der Bettlerjunge ruhig und in stolzer
-Haltung vorwärts und betrat den Chor, ohne daß ihn jemand zu
+Haltung vorwärts und betrat den Chor, ohne dass ihn jemand zu
 hindern wagte.
 
 Mit glückstrahlender Miene eilte Tom auf ihn zu, fiel vor ihm auf
-die Kniee und sprach:
+die Knie und sprach:
 
-»O mein König, laßt den armen Tom Canty den ersten sein, der
+»O mein König, lasst den armen Tom Canty den ersten sein, der
 Euch Treue schwört und bittet: setzet Euch Euere Krone auf und tretet
 wieder ein in Euere Rechte!«
 
@@ -158,7 +158,7 @@ Der Lord Protektor schaute stirnrunzelnd auf den frechen Eindringling.
 Aber rasch wichen die Falten von seiner Stirn und machten
 einem Ausdruck höchsten Staunens Platz. Dasselbe ging bei den
 übrigen hohen Beamten vor. Sie blickten einander in stummer Verblüffung
-an und traten beinahe unbewußt einen Schritt zurück. Der
+an und traten beinahe unbewusst einen Schritt zurück. Der
 Gedanke aller war der nämliche: »Was für eine ganz auffallende
 Ähnlichkeit!«
 
@@ -204,10 +204,10 @@ beantworten.«
 Das war ein glücklicher Einfall. Ja, niemand als der wahre Thronbewerber
 konnte dies schwierige Rätsel lösen. Wenn auch der freche
 kleine Eindringling seine Lektion gut eingelernt hatte, an dieser
-Frage mußte er scheitern, denn sein Lehrer selbst könnte sie nicht
+Frage musste er scheitern, denn sein Lehrer selbst könnte sie nicht
 beantworten. Neugierige, spöttische und selbst boshafte Blicke richteten
 sich auf den zerlumpten Kleinen, der nun wohl in Verlegenheit geraten
-mußte. Aber nein, der Knabe schaute so vertrauensvoll drein
+musste. Aber nein, der Knabe schaute so vertrauensvoll drein
 wie immer, von Anfang an, und erwiderte:
 
 »Das Rätsel ist gar nicht schwer zu lösen.«
@@ -219,8 +219,8 @@ Ruhe eines, der zu befehlen gewöhnt ist:
 Palast. Niemand kennt sich ja dort so gut aus, wie Ihr. In der
 linken Zimmerecke gegenüber der Tür, die sich nach dem Vorzimmer
 öffnet, werdet Ihr an der Mauer einen goldenen Nagelkopf finden.
-Drückt darauf und der Deckel eines kleinen Geheimfaches wird auf-* 
-*springen. Niemand weiß etwas davon, außer mir und dem verschwiegenen
+Drückt darauf und der Deckel eines kleinen Geheimfaches wird aufspringen.
+Niemand weiß etwas davon, außer mir und dem verschwiegenen
 Handwerker, der mir das Fach machte. Das erste, was
 Euch darin vor die Augen kommt, wird das große Siegel sein. Bringt
 es hieher.«
@@ -229,7 +229,7 @@ Alle verwunderten sich über die Rede und mehr noch darüber,
 wie der kleine Bettler ohne jedes Zögern mit sicherem Blick diesen
 Hofbeamten herausfand. Dazu hatte er ihn mit einem so überzeugend
 ruhigen Ton angeredet, als wäre ihm der Lord Zeit seines Lebens
-bekannt gewesen. Der Reichsbaron war so verdutzt, daß er beinahe
+bekannt gewesen. Der Reichsbaron war so verdutzt, dass er beinahe
 gehorcht hätte. Er machte sogar schon eine Bewegung, als wollte er
 gehen. Aber er besann sich noch rechtzeitig und nahm wieder seine
 ruhige Haltung an, als wäre er gar nicht angesprochen worden. Tom
@@ -241,18 +241,18 @@ Geht!«
 Lord St. John entfernte sich mit einer tiefen, aber doch zurückhaltenden
 Verbeugung. Er machte sie auch nicht direkt vor Tom,
 sondern verteilte sie zwischen beiden Thronbewerbern. Es schien klar,
-daß er eine neutrale Haltung einzunehmen begann.
+dass er eine neutrale Haltung einzunehmen begann.
 
 Nun machte sich unter den zurückgebliebenen Höflingen eine leise,
 kaum bemerkbare Bewegung geltend. Ganz langsam löste sich die
 glänzende Gruppe, die um Tom geschart war und zog sich in die Nähe
-des neuen Thronkandidaten, so daß Tom allmählich fast ganz allein
+des neuen Thronkandidaten, so dass Tom allmählich fast ganz allein
 dastand. Auch die wenigen, die noch zauderten, verzogen sich endlich
 und traten zur Mehrheit über. Schließlich stand Tom in all seinem
 Glanz und seinen Juwelen ganz verlassen da.
 
 Lord St. John kehrte zurück. So groß war die allgemeine Spannung,
-daß selbst das leise Gemurmel verstummte, als man ihn das
+dass selbst das leise Gemurmel verstummte, als man ihn das
 Mittelschiff heraufkommen sah. Atemlose Stille herrschte. Man
 hörte nichts als seinen hallenden Tritt. Er betrat den Chor, hielt
 einen Augenblick inne, schritt dann auf Tom zu und sagte mit tiefer
@@ -261,7 +261,7 @@ Verbeugung:
 »Majestät, das Siegel ist nicht dort.«
 
 Nicht schneller weicht der Pöbel einem Pestkranken aus, als die
-Höflinge blaß und erschreckt von dem kleinen Bettler wichen. Im
+Höflinge blass und erschreckt von dem kleinen Bettler wichen. Im
 nächsten Augenblick stand er wieder allein da, eine Zielscheibe argwöhnischer,
 zorniger Blicke.
 
@@ -295,7 +295,7 @@ dahin.«
 
 »Dieser hier, der da steht, der rechtmäßige König von England.
 Und er soll es Euch selbst sagen, wo es liegt. Dann werdet Ihr glauben,
-daß er dessen Versteck kennt. Besinnt Euch, mein König, strengt Euer
+dass er dessen Versteck kennt. Besinnt Euch, mein König, strengt Euer
 Gedächtnis an. Es war das letzte, das allerletzte, was Ihr tatet, bevor
 Ihr in meinen Lumpen aus dem Palast forteiltet, um die Wache zu
 bestrafen, die mich gezüchtigt hatte.«
@@ -327,23 +327,23 @@ es soll auch nichts verloren sein! Hört auf das, was ich Euch
 sage; folgt jedem meiner Worte. Ich will Euch jenen Morgen wieder
 ins Gedächtnis zurückrufen, jede Kleinigkeit Euch in Erinnerung
 bringen. Also hört: wir plauderten zusammen. Ich erzählte Euch
-von meinen Schwestern Netty und Betty. Schön, das wißt Ihr also
+von meinen Schwestern Netty und Betty. Schön, das wisst Ihr also
 noch. Dann sprach ich von meiner alten Großmutter und den rohen
 Spielen der Burschen vom Unrathof. Nicht wahr, Ihr erinnert Euch?
 Gut; folget nur weiter. Ihr gabt mir zu essen und zu trinken und
-sandtet mit fürstlichem Takt die Diener weg, auf daß ich mich vor ihnen
-nicht zu schämen brauchte. Ah, auch das wißt Ihr noch.«
+sandtet mit fürstlichem Takt die Diener weg, auf dass ich mich vor ihnen
+nicht zu schämen brauchte. Ah, auch das wisst Ihr noch.«
 
 Und so fuhr Tom fort, alle Einzelheiten aufzuzählen. Der kleine
 Bettler nickte zu allem und die anderen Zuhörer starrten sich verwundert
 an. Die Erzählung klang so natürlich. Aber wie die beiden
 zusammen gekommen und wie sie die Rollen wechselten, schien allen
-unfaßbar. Mit gespanntem Interesse lauschte man dem Zwiegespräch.
+unfassbar. Mit gespanntem Interesse lauschte man dem Zwiegespräch.
 
 »Zum Scherz tauschten wir die Kleider. Dann stellten wir uns
-vor einen Spiegel und bemerkten, daß wir uns beide so ähnlich sahen,
+vor einen Spiegel und bemerkten, dass wir uns beide so ähnlich sahen,
 als hätten wir gar keinen Wechsel vorgenommen. Nicht wahr, Ihr
-besinnt Euch? Schön; dann wurdet Ihr gewahr, daß die Wache mich
+besinnt Euch? Schön; dann wurdet Ihr gewahr, dass die Wache mich
 an der Hand verletzt hatte. Seht hier! Ich kann immer noch nicht
 recht schreiben. Die Finger sind ganz steif davon geworden. Darauf
 sprang Euere Hoheit auf und wollte mich an dem Soldat rächen. Ihr
@@ -365,8 +365,8 @@ St. John und beflügelt Euere Schritte!«
 
 Eine große Bewegung ging durch die erlauchte Versammlung.
 Unbehagen, Furcht und verzehrende Aufregung ergriffen alle. Durch
-die weiten Hallen der Kirche, wie auf dem Chor, begann ein be-* 
-*täubendes Stimmengewirr, so daß man sein eigenes Wort nicht verstehen
+die weiten Hallen der Kirche, wie auf dem Chor, begann ein betäubendes
+Stimmengewirr, so dass man sein eigenes Wort nicht verstehen
 konnte.
 
 Unbemerkt und rasch verflog die Zeit. Plötzlich trat wieder Totenstille
@@ -400,7 +400,7 @@ Aber der neue, wahre König hob abwehrend die Hand und sagte:
 »Nicht also! Ohne seine Hilfe hätte ich meine Krone nicht wieder
 erlangt. Niemand wage es, Hand an ihn zu legen! Und Ihr, mein
 lieber Oheim, mein Lord Protektor, Euch steht es schlecht an, so undankbar
-gegen den armen Knaben zu sein. Hat doch <g>er</g> Euch zum
+gegen den armen Knaben zu sein. Hat doch <span class="g">er</span> Euch zum
 Herzog ernannt!«
 
 Der Protektor errötete, und der König fuhr fort:
@@ -415,7 +415,7 @@ Lord Hertford senkte sein Haupt und zog sich ein wenig in den
 Hintergrund zurück. Jetzt wandte sich der König an Tom und sagte
 gütig:
 
-»Aber höre einmal, mein armer Knabe, wie kam es doch nur, daß
+»Aber höre einmal, mein armer Knabe, wie kam es doch nur, dass
 du dich erinnern konntest, wo das Siegel lag, während es mir selbst
 gänzlich entfallen war?«
 
@@ -424,12 +424,12 @@ gänzlich entfallen war?«
 
 »Wie? Und doch konntest du nicht gleich sagen, wo es war?«
 
-»Ich wußte nur nicht, daß es das Siegel war. Sie beschrieben es
+»Ich wusste nur nicht, dass es das Siegel war. Sie beschrieben es
 mir ja nicht, Majestät.«
 
 »Wozu hast du es denn benutzt?«
 
-Alles Blut schoß Tom in die Wangen. Er senkte die Augen und
+Alles Blut schoss Tom in die Wangen. Er senkte die Augen und
 schwieg.
 
 »Sprich nur offen, mein guter Knabe und fürchte dich nicht«,
@@ -440,13 +440,13 @@ komischer Verwirrung hervor:
 
 »Um Nüsse damit aufzuknacken!«
 
-Armer Knabe! Er fiel beinahe in die Kniee bei dem stürmischen Gelächter,
+Armer Knabe! Er fiel beinahe in die Knie bei dem stürmischen Gelächter,
 das seine Antwort hervorrief. Wenn noch ein Zweifel über
 den wahren König vorhanden gewesen wäre, diese Antwort hätte ihn
 vollends gehoben.
 
 Das herrliche Krönungsgewand wurde von Toms Schultern
-abgenommen und um die des Königs gelegt, so daß dessen Lumpen
+abgenommen und um die des Königs gelegt, so dass dessen Lumpen
 vollständig verhüllt wurden. Dann nahm man die unterbrochenen
 Krönungsfeierlichkeiten wieder auf. Der wahre König ward auf den
 Thron gesetzt, gesalbt und gekrönt. Unaufhörliche Kanonensalven

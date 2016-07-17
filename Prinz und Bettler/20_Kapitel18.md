@@ -12,7 +12,7 @@ guter Laune war niemand, aber durstig waren alle.
 
 Der Hauptmann stellte den jungen König oder »Hans«, wie er
 jetzt hieß, unter Hugos Obhut. Johann Hobbs oder Canty befahl
-er, den Knaben in Ruhe zu lassen, und ermähnte auch Hugo, freundlich
+er, den Knaben in Ruhe zu lassen, und ermahnte auch Hugo, freundlich
 mit ihm zu sein.
 
 Das Wetter wurde allmählich milder und die Wolken lichteten
@@ -27,7 +27,7 @@ so billig davon zu kommen.
 
 Einmal drangen sie in ein Bauernhaus ein und machten es sich
 da bequem, während der Bauer und die Seinen ihnen auftischen
-mußten, was Küche und Keller zu bieten vermochten. Dazu begingen
+mussten, was Küche und Keller zu bieten vermochten. Dazu begingen
 sie allerlei Unfug, warfen Knochen und anderes nach den
 sie bedienenden Leuten und lachten unbändig, wenn sie gut trafen.
 Einer Magd bestrichen sie den Kopf dick mit Butter und freuten sich
@@ -40,14 +40,14 @@ Nach einem langen, ermüdenden Marsch machte die Bande hinter
 einer Hecke in der Nähe eines größeren Dorfes Halt. Ein Stündchen
 wollten sie hier ausruhen. Dann zerstreuten sie sich und betraten
 das Dorf von verschiedenen Seiten, um bei den Bewohnern
-ihre mannigfaltigen Gewerbe auszuüben. Hans mußte wieder mit
+ihre mannigfaltigen Gewerbe auszuüben. Hans musste wieder mit
 Hugo zusammengehen. Eine Weile streiften sie umher, um eine
 günstige Gelegenheit zu einem »Geschäft« zu erspähen. Sie fanden aber 
 keine, und Hugo meinte schließlich: »Ich sehe nichts, das man stehlen
 könnte. Es ist ein armseliges Nest. Wir wollen also betteln.«
 
-»Wir? Behüte! Bettle du nur allein, es paßt zu dir. Aber
-mich laß dabei aus dem Spiel.«
+»Wir? Behüte! Bettle du nur allein, es passt zu dir. Aber
+mich lass dabei aus dem Spiel.«
 
 »Du willst nicht betteln!« rief Hugo und machte große Augen.
 »Sag doch, seit wann hast du dich bekehrt?«
@@ -72,12 +72,12 @@ wird er dich schön durchwalken.«
 
 »Diese.Mühe kannst du dir ersparen. Ich sage es ihm selbst.«
 
-»Dein Mut gefällt mir; ich muß es zugeben. Mit deiner Klugheit
+»Dein Mut gefällt mir; ich muss es zugeben. Mit deiner Klugheit
 ist es aber nicht weit her. An Knochen nagen und Prügel kriegen
-kannst du im Leben noch genug, so daß es ganz überflüssig ist, sich
-ertra darum zu bemühen. Aber das nebenbei. Daß Hobbs dein
-Vater ist, steht bei mir fest. Ich will nicht bestreiten, daß er nach
-Bedürfnis lügt, denn das tut jeder von uns. Aber daß er sich wider
+kannst du im Leben noch genug, so dass es ganz überflüssig ist, sich
+extra darum zu bemühen. Aber das nebenbei. Dass Hobbs dein
+Vater ist, steht bei mir fest. Ich will nicht bestreiten, dass er nach
+Bedürfnis lügt, denn das tut jeder von uns. Aber dass er sich wider
 besseres Wissen zu deinem Vater aufstellen sollte, will mir nicht
 einleuchten. Um nichts und wieder nichts lügt doch kein vernünftiger
 Mensch. Aber da du nun einmal nicht betteln willst, was sollen
@@ -95,14 +95,14 @@ Der König machte eine wegwerfende, verächtliche Gebärde. Hugo
 aber ließ ihn nicht zu Worte kommen, sondern fuhr fort: »Still!
 Da kommt ein Herr. Er sieht gutmütig aus. Nun will ich niederfallen,
 als bekäme ich Krämpfe. Eilt dann der Fremde herzu, so
-fängst du an zu wehklagen, fällst auf die Kniee und beginnst zu 
+fängst du an zu wehklagen, fällst auf die Knie und beginnst zu 
 schluchzen. Dann schreist du plötzlich auf, als wärest du das elendeste
 Geschöpf auf Gottes Erdboden und rufst: ach, Herr, hier liegt mein
 armer schwer heim gesuchter Bruder und hat niemand, der sich seiner
 erbarmt, als mich, der ich selbst elend bin. Um des barmherzigen
 Gottes willen, blickt mitleidig auf einen kranken, von Himmel und
 Erde verlassenen Unglücklichen! O gebt einen Heller von Euerem
-Reichtum, und der Herr wird es Euch vergelten! So mußt du
+Reichtum, und der Herr wird es Euch vergelten! So musst du
 sprechen und nicht aufhören zu jammern, bis er uns sein Geld in
 den Schoß wirft, sonst wirst du es bereuen.«
 
@@ -111,13 +111,13 @@ und zu taumeln und herumzuschwanken. Sowie der Fremde
 ganz nahe war, fiel Hugo mit einem Schrei um und wälzte sich im
 Staube umher, als liege er in heftigen Krämpfen.
 
-»Ach, du arme Seele«, rief der gutmütige Fremde, »was mußt
+»Ach, du arme Seele«, rief der gutmütige Fremde, »was musst
 du leiden! So, ich will dir aufhelfen.«
 
 »Ach nein, edler Herr, lasst mich. Ihr tut mir grausam weh,
-wenn Ihr mich nur anfaßt. Mein Bruder dort wird Euch erzählen,
+wenn Ihr mich nur anfasst. Mein Bruder dort wird Euch erzählen,
 wie elend ich daran bin. Nur einen Pfennig, Herr, gebt mir, einen
-Pfennig, um ein wenig Brot zu kaufen. Dann überlaßt mich meinen
+Pfennig, um ein wenig Brot zu kaufen. Dann überlasst mich meinen
 Qualen.«
 
 »Einen Pfennig! Du sollst drei haben, du armes, hilfloses Geschöpf.«
@@ -140,7 +140,7 @@ Wenn er nicht dein Bruder ist, was ist er denn sonst?«
 »Ein Bettler und ein Dieb! Er hat dein Geld erhalten und dazu
 noch, während du ihm aufhelfen wolltest, deine Taschen geplündert.
 Wenn du ihn heilen willst, so bleue ihn tüchtig durch und
-überlaß alles andere Gott.«
+überlass alles andere Gott.«
 
 Aber Hugo wartete die Heilung nicht ab. Er sprang plötzlich
 auf und floh wie ein Wiesel davon. Der Fremde folgte ihm mit
@@ -163,7 +163,7 @@ Staube mache.
 
 Die Nacht brach herein. Die Luft war frostig und der Himmel
 bewölkt, aber noch immer mühte sich der wegmüde Monarch vorwärts.
-Er mußte seine Glieder in Bewegung erhalten, denn jedesmal,
+Er musste seine Glieder in Bewegung erhalten, denn jedesmal,
 wenn er sich niedersetzte, um zu rasten, durchschauerte ihn die
 Kälte bis in die Knochen. Manchmal hörte er Stimmen durch die
 schweigende Nacht, die sich bald wieder verloren. Da er aber bei
@@ -173,9 +173,9 @@ aber immer weitab, beinahe in einer anderen Welt schien
 es ihm. Oder ein Herdenglöckchen wurde vernehmbar, undeutlich
 und fern, wie im Traum. Ein langgezogenes Muh! erscholl schwach
 und unbestimmt, wie verhallend, dazwischen. Auch das klagende
-Geheul eines Hundes schien nicht näher zu sein, so daß den König
-allmälich das Gefühl beschlich, er sei fernab vom Leben und Treiben
-der Erde, einsam und verlassen, inmitten einer unermeßlichen, unwirtlichen
+Geheul eines Hundes schien nicht näher zu sein, so dass den König
+allmählich das Gefühl beschlich, er sei fernab vom Leben und Treiben
+der Erde, einsam und verlassen, inmitten einer unermesslichen, unwirtlichen
 Einöde.
 
 So schleppte er sich durch die Nacht dahin. Zuweilen fuhr er
@@ -186,9 +186,9 @@ Schatten zurück und lauschte in banger Erwartung. Aber die Laterne
 bewegte sich nicht; sie stand vor dem offenen Tor einer Scheune.
 Der König wartete noch eine Zeitlang; nichts rührte sich. Der
 scharfe Nachtwind fuhr durch seine Kleiderfetzen, und die gastliche
-Scheune war so einladend nahe. Er faßte sich ein Herz und trat
+Scheune war so einladend nahe. Er fasste sich ein Herz und trat
 ein. Kaum hatte er die Schwelle überschritten, als er Stimmen
-hinter sich hörte. Er duckte sich hinter ein Faß. Zwei Landarbeiter 
+hinter sich hörte. Er duckte sich hinter ein Fass. Zwei Landarbeiter 
 traten herein, brachten die Laterne mit und begannen plaudernd
 ihre Arbeit. Während sie mit der Laterne hin und her liefen, guckte
 der kleine König hinter einer Ecke hervor und bemerkte einen geräumigen
@@ -208,7 +208,7 @@ freute sich Eduard königlich.
 
 Müdigkeit, Hunger, Durst und Kälte traten in den Hintergrund
 gegenüber dem allgewaltigen Bedürfnis nach Ruhe. Kaum
-lag der König da, so fiel er auch schon in einen Zustand halber Bewußtlosigkeit.
+lag der König da, so fiel er auch schon in einen Zustand halber Bewusstlosigkeit.
 Doch, gerade, als er daran war, gänzlich einzuschlafen,
 war es ihm, als berühre ihn etwas. Er wurde sofort wach. Ein
 kalter Schauder überlief sein Herz, und er wagte kaum zu atmen.
@@ -220,7 +220,7 @@ hinauswandern? Aber er konnte ja nicht mehr zur Scheune hinaus;
 sie war doch verriegelt. Sollte er in der Scheune herumrennen,
 dahin und dorthin, während vielleicht das Gespenst hinter ihm herkam
 und alle Augenblicke wieder seine Wangen berührte? Nein,
-dieser Gedanke war unausstehlich. Aber dann mußte er bleiben, wo
+dieser Gedanke war unausstehlich. Aber dann musste er bleiben, wo
 er lag und vor namenloser Angst vergehen. Nein, das ging auch
 nicht. Es blieb also weiter nichts übrig, als mit den Händen herumzutasten
 und das rätselhafte Ding aufzuspüren.
@@ -244,13 +244,13 @@ und fand ein unschuldiges ... Kalb. Der Strick war kein Strick,
 sondern der Schwanz des Kalbes gewesen.
 
 Der König war halb ärgerlich über sich selbst und halb belustigt.
-Es wurde ihm aber doch leichter zumute, daß er wenigstens in Gesellschaft
+Es wurde ihm aber doch leichter zumute, dass er wenigstens in Gesellschaft
 eines harmlosen lebenden Geschöpfes war. Er hatte sich
-so verlassen und vereinsamt gefühlt, daß ihm selbst die Nähe eines
+so verlassen und vereinsamt gefühlt, dass ihm selbst die Nähe eines
 Tieres wohltat. Und er war von Mitmenschen so herumgestoßen,
-so roh und übel behandelt worden, daß er einen wirklichen Trost
+so roh und übel behandelt worden, dass er einen wirklichen Trost
 darin fand, ein Geschöpf neben sich zu wissen, das mindestens gutmütig
-war. Er beschloß also, mit seinem neuen Freunde näher bekannt
+war. Er beschloss also, mit seinem neuen Freunde näher bekannt
 zu werden.
 
 Während er aber den warmen Rücken des Kalbes streichelte,

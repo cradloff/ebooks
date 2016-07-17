@@ -13,7 +13,7 @@ ungeheuren Spinne, die nach einem unglücklichen Opfer glotzt, das
 sich rettungslos in ihr Netz verstrickt hat.
 
 Als der Alte wieder einmal von seiner Arbeit aufsah, bemerkte
-er plötzlich, daß der Knabe die Augen weit offen hatte und in tödlichem
+er plötzlich, dass der Knabe die Augen weit offen hatte und in tödlichem
 Schrecken nach dem Messer hinstarrte. Ein höllisches Lächeln
 glitt über das Gesicht des Einsiedlers. Ohne seine Haltung zu ändern
 oder von seiner Beschäftigung abzulassen, sprach er: »Sohn Heinrichs
@@ -21,7 +21,7 @@ des Achten, hast du gebetet?«
 
 Hilflos rang der Knabe in seinen Banden, und ein erstickter Laut
 drängte sich zwischen den zusammen gebundenen Kinnladen hervor.
-Der Eremit faßte es als Bejahung seiner Frage auf.
+Der Eremit fasste es als Bejahung seiner Frage auf.
 
 »Dann bete noch einmal. Verrichte dein Sterbegebet.« Verzweifelnd
 stöhnte der Knabe und gab endlich keuchend seine Anstrengungen
@@ -37,7 +37,7 @@ dieses Gefühl der göttlichen Vergeltung, mit der mich der Himmel
 beauftragt hat! Aber nun rüste dich, du Abkömmling des Kirchenverfolgers,
 schließe deine Augen, wenn du fürchtest, mit offenen
 Augen ...« Was er sonst noch sagen wollte, verlor sich in ein
-dumpfes Gemurmel. Der alte Klausner sank aus die Kniee, das
+dumpfes Gemurmel. Der alte Klausner sank auf die Knie, das
 Messer in der Hand und beugte sich über den leise stöhnenden
 Knaben ...
 
@@ -54,7 +54,7 @@ Ah, das war der seligste Ton, der seit langem dem König ans Ohr
 gedrungen war! O es war ja Hendens Stimme!
 
 Der Eremit knirschte in ohnmächtiger Wut, entfernte sich rasch
-aus dem kleinen Schlafzimmer und schloß die Tür sorgfältig hinter
+aus dem kleinen Schlafzimmer und schloss die Tür sorgfältig hinter
 sich zu. Bald darauf hörte der König rufen: »Ich grüße Euch, ehrwürdiger
 Vater! Wo ist der Junge, mein Junge?«
 
@@ -71,7 +71,7 @@ mir herbei, sonst soll Euch der und jener ... Wo ist der Knabe?«
 
 »Aha, Ihr meint wohl den zerlumpten königlichen Vaganten,
 lieber Herr, der in dieser Nacht hier war. Wenn Ihr Euch für ein
-solches Bürschchen interessiert, dann wißt, daß ich ihn mit einem
+solches Bürschchen interessiert, dann wisst, dass ich ihn mit einem
 Auftrag fortgeschickt habe. Er wird gleich wieder hier sein.«
 
 »Wie lange mag das dauern? Ich will keine Zeit verlieren.
@@ -81,9 +81,9 @@ Kann ich ihn nicht einholen? Oder wann kommt er wieder?«
 wieder hier sein.«
  
 
-»Meinetwegen denn. Ich will ein bißchen warten. Aber halt!
+»Meinetwegen denn. Ich will ein bisschen warten. Aber halt!
 Ihr sandtet ihn mit einem Auftrage fort? Und dazu noch in stockdunkler
-Nacht? Das ist gewiß und wahrhaftig eine Lüge! Dazu
+Nacht? Das ist gewiss und wahrhaftig eine Lüge! Dazu
 würde er sich nicht hergeben. Er würde Euch an Euerem alten Bart
 zupfen, wenn Ihr eine solche Zumutung an ihn stelltet. Ihr habt
 gelogen, Freund, besinnt Euch! Er würde keinem Menschen einen
@@ -98,9 +98,9 @@ ein Erzengel.«
 
 Henden stieß einen Ruf des Entsetzens aus und meinte sodann:
 »Freilich, wenn er Euch für einen Erzengel hielt, so ist es wohl
-möglich, daß er sich bereit fand. Sonst hätte er sicher weder Hand
-noch Fuß gerührt. Aber ja, wenn ein Erzengel einmal befiehlt, muß
-selbst ein König gehorchen. Laßt mich... St! was war das eben
+möglich, dass er sich bereit fand. Sonst hätte er sicher weder Hand
+noch Fuß gerührt. Aber ja, wenn ein Erzengel einmal befiehlt, muss
+selbst ein König gehorchen. Lasst mich... St! was war das eben
 für ein Geräusch?«
 
 Während dieses Gespräches lag der junge König in einem
@@ -114,7 +114,7 @@ war.
 
 »Das mag sein. Ja, das wird wohl so sein. Es war nur ganz
 schwach ... Halt! da ist es wieder! Das ist nicht der Wind! Das
-tönt so sonderbar! Ei, das wollen wir doch ein bißchen näher untersuchen!«
+tönt so sonderbar! Ei, das wollen wir doch ein bisschen näher untersuchen!«
 
 Das Herz hüpfte dem jungen König vor Freude. Er strengte
 seine müden Lungen aufs äußerste an, aber die versiegelten Lippen
@@ -124,9 +124,9 @@ als er den Einsiedler sagen hörte: »Ja, jetzt höre ich auch so was.
 Es kommt von draußen. Ich glaube, dort hinter jenem Hügel hervor.
 Kommt einmal; ich will vorangehen.«
 
-Der König hörte, wie die Tür sich aufschloß, wie beide hinaustraten
+Der König hörte, wie die Tür sich aufschloss, wie beide hinaustraten
 und fortgingen. Er war wieder allein in dumpfem Brüten
-und schrecklicher Ungewißheit.
+und schrecklicher Ungewissheit.
 
 Nach einer ganzen Ewigkeit, wie ihm schien, näherten sich die 
 Schritte wieder, Stimmen ertönten und das Trampeln von Hufen.
@@ -137,7 +137,7 @@ welcher Richtung ging er? Rasch, weiset mich zurecht.«
 »Er ging ... aber wartet. Ich komme mit Euch.«
 
 »Schön, schön. Ihr seid wirklich besser, als Ihr ausseht. Meiner
-Treu, ich glaube nicht, daß ein anderer Erzengel das Herz so auf dem
+Treu, ich glaube nicht, dass ein anderer Erzengel das Herz so auf dem
 richtigen Fleck hat, wie Ihr. Wollt Ihr reiten? Wollt Ihr den
 kleinen Maulesel nehmen, den ich da für meinen Jungen mithabe, oder
 spreizt Ihr lieber Euere heiligen Gebeine über diesen elenden Racker,
@@ -162,10 +162,10 @@ Freund geht fort, der Eremit wird allein zurückkehren, und dann ...«
 
 Er wagte den Gedanken nicht weiter auszudenken. Aber noch
 einmal sträubte er sich krampfhaft mit aller Macht gegen seine Bande,
-so daß es ihm wenigstens gelang, das Schaffell abzuwerfen. Plötzlich
+so dass es ihm wenigstens gelang, das Schaffell abzuwerfen. Plötzlich
 hörte er, wie die Tür sich öffnete. Das Geknarr drang ihm ins
 Mark. Schon glaubte er das Messer an der Kehle zu spüren. Schreckensbleich
-schloß er die Augen. Als nichts erfolgte, öffnete er sie
+schloss er die Augen. Als nichts erfolgte, öffnete er sie
 wieder und sah ... Johann Canty und Hugo vor sich stehen.
 
 Wären seine Kinnladen frei gewesen, er würde »Gott sei Dank!«

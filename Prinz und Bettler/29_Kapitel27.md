@@ -16,7 +16,7 @@ Henden war übler Laune und schweigsam. Er konnte sich noch immer
 nicht fassen. Zuviel war in den letzten Minuten auf ihn eingestürmt.
 Er war heimgekehrt wie ein verlorener Sohn, mit Jubel im Herzen
 und in froher Erwartung. Die Enttäuschung war auch gar zu arg.
-Er wußte kaum, sollte er das Ganze tragisch auffassen oder ins
+Er wusste kaum, sollte er das Ganze tragisch auffassen oder ins
 Lächerliche ziehen. Er kam sich vor wie ein Mann, der freudig hinausgegangen
 war, um sich einen Regenbogen anzuschauen, und dabei
 vom Blitze getroffen wurde.
@@ -25,10 +25,10 @@ Nach und nach ordneten sich seine verworrenen Gedanken wieder.
 Nur Ediths Benehmen blieb ihm unklar. Er konnte die Sache drehen
 und wenden, wie er wollte, etwas, das ihn befriedigt hätte, kam
 nicht heraus. Hatte sie ihn erkannt oder nicht? Wie lange er auch
-an dieser Nuß herumknackte, es gelang ihm nicht, sie zu öffnen.
+an dieser Nuss herumknackte, es gelang ihm nicht, sie zu öffnen.
 Schließlich machte er es ähnlich, wie der Fuchs mit den Trauben,
-und sagte sich, es sei eine faule Nuß. Denn immer mehr gelangte
-er zur Überzeugung, daß sie ihn erkannt haben müsse und nun aus 
+und sagte sich, es sei eine faule Nuss. Denn immer mehr gelangte
+er zur Überzeugung, dass sie ihn erkannt haben müsse und nun aus 
 selbstsüchtigen Gründen von ihm nichts habe wissen wollen. Er war
 drauf und dran, ihren Namen, der ihm so lange heilig und köstlich
 erschienen war, zu verwünschen. Aber er konnte es nicht über sich
@@ -37,15 +37,15 @@ bringen.
 Henden und sein Schützling verbrachten in ihren schmutzigen
 Gefängnisdecken eine unruhige Nacht. Für ein Trinkgeld hatte der
 Gefängniswärter einigen Gefangenen Branntwein verschafft. Bald
-waren sie denn auch betrunken, johlten und schrieen, sangen wüste
+waren sie denn auch betrunken, johlten und schrien, sangen wüste
 Lieder und prügelten einander. Kurz, es war ein solcher Krakehl,
-daß von Schlaf nicht viel die Rede sein konnte. Nach Mitternacht
+dass von Schlaf nicht viel die Rede sein konnte. Nach Mitternacht
 fing ein Mann mit einer Frau Händel an, schlug sie mit seinen
 Handschellen auf den Kopf und hätte sie beinahe getötet, bevor der
 Wärter dazwischen treten konnte.
 
 Der Mann erhielt eine tüchtige Tracht Prügel, worauf der Friede
-wieder hergestellt war. Auch das Gelärm und Gezeche mußte aufhören,
+wieder hergestellt war. Auch das Gelärm und Gezeche musste aufhören,
 und so wurde es bald stille. Nur das Stöhnen und Ächzen
 der beiden Verwundeten war noch hörbar, störte aber die Schläfer
 nicht weiter.
@@ -102,16 +102,16 @@ Spaß absetzen. Er wird dir's sicherlich danken.«
 
 Dann eilte der Wärter in ein anderes Gemach und ließ den
 alten Mann mit den Gefangenen allein. Da fiel der alte Diener
-vor Henden plötzlich auf die Kniee und flüsterte:
+vor Henden plötzlich auf die Knie und flüsterte:
 
-»Dem Himmel sei Dank, daß Ihr wieder gekommen seid, gnädigster
+»Dem Himmel sei Dank, dass Ihr wieder gekommen seid, gnädigster
 Herr! Ich glaubte, Ihr wäret schon seit sieben Jahren tot, 
 und wahrhaftig! da seid Ihr ja noch am Leben. Ich erkannte Euch
 beim ersten Anblick. Die Verstellung kam mich schwer an. Ich
 konnte mich kaum der Tränen erwehren, als ich Euch mitten unter
 diesem Gelichter sah. Ich bin alt und arm, Herr Michael. Aber
 befehlet, und ich werde hingehen und laut die Wahrheit verkünden,
-und müßte ich deshalb an den Galgen.«
+und müsste ich deshalb an den Galgen.«
 
 »Nein«, entgegnete Henden; »das befehle ich nicht und wünsche
 es auch nicht. Du würdest dich zu grunde richten und mir doch schwerlich
@@ -124,7 +124,7 @@ zu ärgern, kam er oft mehrmals des Tages ins Gefängnis,
 wobei er immer ein paar Leckerbissen hereinschmuggelte und die
 neuesten Nachrichten brachte. Die guten Bissen behielt Henden für
 den König zurück, denn ohne diese wäre der arme Junge bei der
-elenden, rauhen Kost schwerlich durchgekommen. Indes durfte sich
+elenden, rauen Kost schwerlich durchgekommen. Indes durfte sich
 der alte Andreas nie lange aufhalten, um nicht Verdacht zu erregen.
 Aber die Zeit genügte ihm doch, seinem früheren jungen Herrn
 alles für ihn Wissenswerte mitzuteilen. Natürlich dämpfte er dabei
@@ -135,7 +135,7 @@ den andern Insassen.
 So erfuhr Henden auch Näheres über das, was in seiner Abwesenheit
 in Hendenhall sich ereignet hatte. Arthur war seit sechs
 Jahren tot. Dieser Verlust und der Mangel jeglicher Nachricht über
-Michael zehrte an seines Vaters Gesundheit. Als er fühlte, daß es
+Michael zehrte an seines Vaters Gesundheit. Als er fühlte, dass es
 mit ihm bergab ging, wünschte er Hugo und Edith vor seinem Hinscheiden
 noch vereinigt zu sehen. Aber Edith bat um Aufschub und
 hoffte immer noch auf die Rückkehr Michaels. Dann kam der Brief,
@@ -212,9 +212,9 @@ Eduard fuhr heftig auf:
 »Welches Königs? Ist das eine Frage! Da wir nur einen haben,
 so ist es doch klar: Sr. Majestät, des Königs Eduard des Sechsten,
 den Gott erhalte! Er ist ein lieber und gnädiger kleiner Herrscher.
-Das muß man sagen. Ob er nun irrsinnig ist oder nicht -- und man
+Das muss man sagen. Ob er nun irrsinnig ist oder nicht -- und man
 sagt, er bessere sich täglich -- sein Lob ist jedenfalls auf aller Lippen.
-Alle segnen ihn und beten, daß er recht lange über England herrschen
+Alle segnen ihn und beten, dass er recht lange über England herrschen
 möge. Schon gleich zu Anfang zeigte er seine Herzensgüte, indem
 er den Herzog von Norfolk begnadigte. Jetzt ist er beständig daran,
 die Härten und Grausamkeiten der Gesetze zu mildern, welche das
@@ -224,11 +224,11 @@ Eduard war stumm vor Überraschung und versank dann in tiefes
 Nachdenken. Er wunderte sich, ob der kleine »irrsinnige« König
 jener Bettlerjunge sei, den er damals mit sich in den Palast genommen
 habe. Es kam ihm aber nicht wahrscheinlich vor. Sicherlich
-mußten doch seine Unwissenheit und sein ganzes Benehmen ihn
-verraten haben. Oder sollte der Hof irgend einen Sprößling des
+mussten doch seine Unwissenheit und sein ganzes Benehmen ihn
+verraten haben. Oder sollte der Hof irgend einen Sprössling des
 Adels auf den Thron gesetzt haben? Nein, das würde sein Onkel
 nicht zugeben. Ein solches Beginnen hätte er im Keime zu ersticken
-gewußt. Je mehr der Knabe nachdachte, desto geheimnisvoller erschien
+gewusst. Je mehr der Knabe nachdachte, desto geheimnisvoller erschien
 ihm die Sache. O könnte er wieder nach London zurück und
 mit einem Schlage das ganze Wirrnis zu glücklichem Ende führen!
 
@@ -242,7 +242,7 @@ dafür und empfand ihre Gegenwart immer wohltuender. Er fragte
 sie, warum sie eingekerkert wären. Als sie erklärten, sie seien Baptisten<a href="99_Footnotes.xhtml#rn11" id="rn11">*</a>,
 lächelte er nur und meinte:
 
-»Ist denn das ein solches Vergehen? Schade nur, daß ich nicht
+»Ist denn das ein solches Vergehen? Schade nur, dass ich nicht
 frei bin. Ich würde euch bald erlösen.«
 
 Sie gaben keine Antwort. Ein gewisses Etwas in ihren Mienen
@@ -263,18 +263,18 @@ Die Frauen wurden verwirrt und bekümmert. Offenbar waren
 sie um eine Antwort verlegen. Endlich sprach eine gerührt:
 
 »O du brichst uns noch das Herz, guter Knabe. Gott wird uns
-beistehen, daß wir unser Schicksal als Christen ertragen.«
+beistehen, dass wir unser Schicksal als Christen ertragen.«
 
 »Also doch«, unterbrach sie der König, »sie wollen euch doch
-peitschen, diese hartherzigen Seelen! Aber ach, ihr müßt nicht weinen;
+peitschen, diese hartherzigen Seelen! Aber ach, ihr müsst nicht weinen;
 ich kann es nicht ertragen. Haltet euch aufrecht. Wenn meine Zeit
 gekommen ist, werde ich euch vor dieser Grausamkeit schützen. Ja,
-das werde ich ganz gewiß!«
+das werde ich ganz gewiss!«
 
 Als der König am nächsten Morgen erwachte, waren die beiden
 Frauen fort.
 
-»Ah, man hat sie befreit!« rief er fröhlich. »Schade nur, daß
+»Ah, man hat sie befreit!« rief er fröhlich. »Schade nur, dass
 sie mich nicht mehr trösten können.«
 
 Jede von den beiden Frauen hatte ein Stück Band als Andenken
@@ -284,7 +284,7 @@ sorgen sich vornahm.
 
 Eben kam der Wärter mit Gehilfen herein und ließ die Gefangenen
 in den Gefängnishof führen. Der König war überglücklich.
-Ach, wie herrlich mußte es sein, wieder einmal den blauen Himmel
+Ach, wie herrlich musste es sein, wieder einmal den blauen Himmel
 zu sehen und die frische Luft zu atmen!
 
 Der Hof bildete ein Viereck und war mit Steinen gepflastert.
@@ -297,12 +297,12 @@ weiße Decke gehüllt. Ein Winterwind wirbelte noch einzelne Flocken
 umher.
 
 Mitten im Hofe standen zwei Frauen an Pfähle gebunden. Mit
-einem Blick ersah der König, daß es seine beiden guten Freundinnen
+einem Blick ersah der König, dass es seine beiden guten Freundinnen
 waren. Ihm schauderte, und er sagte sich: »Ach, sie sind also doch nicht
-frei, wie ich dachte. Sollte man es wohl glauben, daß solche brave
+frei, wie ich dachte. Sollte man es wohl glauben, dass solche brave
 Leute in England gepeitscht werden! Es wäre eine Schande selbst
 für ein Land der Heiden! Sie werden gezüchtigt, und ich, den sie
-getröstet und so freundlich behandelt haben, muß ihrer Schmach
+getröstet und so freundlich behandelt haben, muss ihrer Schmach
 zusehen. Ich, der Höchste in England, der oberste Gesetzgeber, 
 stehe ohnmächtig da. Aber es kommt ein Tag, wo alles das gesühnt
 werden soll.«
@@ -317,7 +317,7 @@ Vorbereitungen, denn Leute liefen hin und her. Aber allmählich
 trat tiefe Stille ein.
 
 Auf einen Befehl hin traten jetzt die Zuschauer auseinander,
-so daß die Mitte frei blieb. Nun erblickte der König ein Schauspiel,
+so dass die Mitte frei blieb. Nun erblickte der König ein Schauspiel,
 das ihm das Mark in den Knochen erstarren ließ. Reisigbündel waren
 um die beiden Frauen herum aufgehäuft. Ein Mann kniete davor
 und legte Feuer an das Holz.
@@ -355,7 +355,7 @@ Henden beobachtete den König. »Ich glaube, er fängt an zu gesunden.
 Er hat sich verändert und wird sanfter. Wäre er noch, wie
 er früher war, so würde er wahrscheinlich auf die Henkersknechte
 losgestürzt sein und befohlen haben, die Frauen sofort zu entfesseln.
-Ich will nur hoffen, daß seine Besserung fortschreitet und er bald
+Ich will nur hoffen, dass seine Besserung fortschreitet und er bald
 wieder ganz gesund wird. Gott gebe es!«
 
 Am selben Tage wurden mehrere neue Gefangene eingebracht,
@@ -365,7 +365,7 @@ ihnen, und was sie erzählten, drang ihm tief zu Herzen. Eine arme,
 halb närrische Frau war darunter, welche einem Weber ein oder
 zwei Ellen Tuch entwendet hatte, und dafür gehängt werden sollte.
 Ein Mann hatte in einem königlichen Park einen Rehbock erlegt und
-mußte dafür ebenfalls in den Tod gehen. Ein Kaufmannslehrling
+musste dafür ebenfalls in den Tod gehen. Ein Kaufmannslehrling
 hatte eines Abends eine Hacke auf der Straße gefunden und mit
 heim genommen, in der Meinung, es sei sein gutes Recht. Aber
 der Gerichtshof war anderer Ansicht gewesen und wollte auch ihn
@@ -382,7 +382,7 @@ Darin hatte er ihn der Ungerechtigkeit beschuldigt. Hierfür
 wurde er mit dem Verlust eines Ohres und 3000 Pfund Strafe
 gebüßt und aus der Liste der Anwälte gestrichen. Später wiederholte
 er seine Anklage. Jetzt verlor er, was er noch an Ohren übrig
-hatte, und mußte weitere 5000 Pfund bezahlen. Überdies erhielt
+hatte, und musste weitere 5000 Pfund bezahlen. Überdies erhielt
 er Zuchthaus auf Lebenszeit und wurde auf beiden Wangen gebrandmarkt.
 
 »Das sind meine Ehrenzeichen«, sagte er, schüttelte sein graues

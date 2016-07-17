@@ -5,13 +5,13 @@
 
 Als Eduard in der Morgenfrühe erwachte, fand er eine nasse
 Ratte, die sich an seiner Brust ein behagliches Nestchen gemacht
-hatte. Sie riß aber aus, sowie sie sich entdeckt sah. Der König
+hatte. Sie riss aber aus, sowie sie sich entdeckt sah. Der König
 lächelte und sprach: »Was fürchtest du dich, du arme Närrin? Ich
-bin doch ebenso ein Eindringling wie du. Ich müßte mich doch
+bin doch ebenso ein Eindringling wie du. Ich müsste mich doch
 schämen, wollte ich dir ein Leides tun, da ich selbst so hilflos bin.
 Überdies nehme ich dich als gutes Zeichen. Wenn ein König so
-weit herabgekommen ist, daß die Ratten sich ihn zum Lager machen,
-so muß sich doch das Schicksal bald wenden, denn schlimmer kann
+weit herabgekommen ist, dass die Ratten sich ihn zum Lager machen,
+so muss sich doch das Schicksal bald wenden, denn schlimmer kann
 es wohl nicht mehr werden.«
 
 Er stand auf und ging aus dem Stall. Das Scheunentor war
@@ -19,7 +19,7 @@ offen, und ein paar kleine Mädchen standen am Eingang. Als sie
 ihn erblickten, hörten sie auf zu schwatzen und zu lachen, und blickten
 ihn neugierig an. Dann flüsterten sie leise miteinander, kamen
 näher, guckten ihn schärfer an und raunten sich wieder etwas zu.
-Endlich faßten sie Vertrauen und begannen laut über ihn zu plaudern.
+Endlich fassten sie Vertrauen und begannen laut über ihn zu plaudern.
 Eine sagte: »Er hat ein hübsches Gesicht.«
 
 Die andere fügte hinzu: »Und schönes Haar.«
@@ -52,7 +52,7 @@ Kann das richtig sein?«
 
 »Natürlich! Wie könnte es auch anders sein, Magda? Wird er
 denn etwas sagen, was nicht wahr ist? Denn siehst du, Magda,
-wenn es nicht wahr wäre, so wäre es eine Lüge. Ja, ganz gewiß.
+wenn es nicht wahr wäre, so wäre es eine Lüge. Ja, ganz gewiss.
 Alles, was nicht wahr ist, ist Lüge. Was sollte es denn sonst
 sein?«
 
@@ -67,7 +67,7 @@ wirklich der König bist, dann glaube ich es.«
 Damit war die Sache abgemacht. Für die beiden Mädchen war
 er nun endgültig König. Sie fragten ihn also weiter, wie er hierher
 komme, warum er so unköniglich gekleidet sei, wohin er gehe und
-allerlei anderes. Ihm war es eine große Erleichterung, daß er
+allerlei anderes. Ihm war es eine große Erleichterung, dass er
 einmal frei von Herzen sich aussprechen konnte, ohne verspottet und
 verlacht zu werden.
 
@@ -98,7 +98,7 @@ König, als seinem Vater. Kam sie auf andere Verhältnisse,
 so zeigte er sich vollkommen teilnahmslos.
  
 
-Die Frau wußte gar nicht, woran sie eigentlich mit ihm sei, aber
+Die Frau wusste gar nicht, woran sie eigentlich mit ihm sei, aber
 sie wollte es noch ergründen. Während sie fortfuhr zu kochen, sann
 sie auf Mittel, hinter das Geheimnis des Knaben zu kommen. Sie
 plauderte von Rindvieh; es ließ ihn kalt. Dann sprach sie von
@@ -119,12 +119,12 @@ recht stolz darauf, wie sie es so klug angefangen hatte, das herauszufinden.
 Nun konnte sie ihrer müden Zunge Ruhe gönnen. Vom nagenden
 Hunger getrieben und angeregt durch den Wohlgeruch, der den
 Töpfen und Pfannen entströmte, wurde der König jetzt selbst gesprächig.
-Er beschrieb mehrere auserlesene, köstliche Gerichte, so daß
+Er beschrieb mehrere auserlesene, köstliche Gerichte, so dass
 sich die Frau dachte: »Wahrhaftig, es ist kein Irrtum. Er hat in
 einer großen Küche geholfen. Weiß Gott! wo der die vielen kostspieligen
 Gerichte her hat! Solche kommen doch nur auf die Tische
 der Reichen und Vornehmen. Ah, nun wird's Tag! So zerlumpt
-er aussieht, er muß in der Küche des Königspalastes gedient haben,
+er aussieht, er muss in der Küche des Königspalastes gedient haben,
 bevor er irrsinnig wurde. Ich werde es gleich heraus haben.«
 
 Sie forderte also den König auf, ein wenig auf das Kochen acht
@@ -148,22 +148,22 @@ alle Güte und Liebe zu ihm.
 
 Eduard aß mit köstlichem Appetit und wurde sichtlich heiterer
 und aufgeräumter. Dazu waren die Leute so freundlich und zutraulich,
-daß er alles andere darüber vergaß. Erst hatte die Frau
+dass er alles andere darüber vergaß. Erst hatte die Frau
 beabsichtigt, ihn abseits speisen zu lassen, wie jeden anderen Landläufer.
 Da sie ihn aber so tüchtig ausgescholten hatte, wollte sie es
 wieder gut machen und hieß ihn mit zu Tische sitzen. Wenn er mit
 besseren Leuten zusammen essen dürfe, dachte die gute Frau, so
 würde es ihn versöhnen und heiter stimmen. Der König aber bedauerte
-so sehr, das Vertrauen der Frau getäuscht zu haben, daß er
+so sehr, das Vertrauen der Frau getäuscht zu haben, dass er
 es über sich gewann, an demselben Tische mit der Familie zu essen
 und sich auf gleichen Fuß mit ihr zu stellen, um sein Unrecht vergessen
 zu machen. Erst hatte er sich vorgenommen, allein zu speisen,
 während die Witwe und ihre Kinder dabeistehen und ihn bedienen
 sollen. Es schadet uns allen nichts, wenn wir uns zuweilen ein
 wenig »vergeben« und demütigen. Die gute Frau fühlte sich den
-ganzen Tag über glücklich, daß sie sich soweit »vergeben« hatte, mit
+ganzen Tag über glücklich, dass sie sich soweit »vergeben« hatte, mit
 einem Landstreicher am selben Tisch zu essen. Der König hinwieder
-empfand gleichfalls eine innere Befriedigung, daß er sich so sehr gegenüber
+empfand gleichfalls eine innere Befriedigung, dass er sich so sehr gegenüber
 einer armen Bauernfrau herabgelassen hatte.
 
 Als das Frühstück vorbei war, forderte die Frau den König auf,
@@ -176,18 +176,18 @@ Es gelang ihm nicht so ganz besonders, worüber er selbst erstaunt
 war, denn die Aufgabe war ihm leicht genug erschienen. Eigentlich
 wäre er jetzt am liebsten wieder fortgegangen, aber so leicht ward
 es ihm nicht gemacht. Die Witwe hatte noch allerhand Beschäftigung
-für ihn, die er gutwillig übernahm. Er mußte mit den Kindern
-Äpfel schälen. Dabei benahm er sich indes so ungeschickt, daß ihm
+für ihn, die er gutwillig übernahm. Er musste mit den Kindern
+Äpfel schälen. Dabei benahm er sich indes so ungeschickt, dass ihm
 die Frau die Arbeit wieder abnahm und ein Messer zu schleifen befahl.
-Dann mußte er Wolle krempeln, bis er dachte, er habe den guten
-König Alfred nun weit in den Schatten gestellt, was gewiß in späteren 
+Dann musste er Wolle krempeln, bis er dachte, er habe den guten
+König Alfred nun weit in den Schatten gestellt, was gewiss in späteren 
 Schulbüchern sehr anschaulich geschildert würde. Da er aber diese
-Lesebücher nicht überlasten wollte, beschloß er, tunlichst bald der
+Lesebücher nicht überlasten wollte, beschloss er, tunlichst bald der
 Sache ein Ende zu wachen.
 
 Nach dem Mittagessen, das er wieder gemeinsam mit der Familie
 einnahm, gab ihm die Frau ein Körbchen voll kleine Kätzchen, die
-er ertränken sollte. Das war der gegebene Anlaß. Er nahm sich vor,
+er ertränken sollte. Das war der gegebene Anlass. Er nahm sich vor,
 diesen Gang zur Flucht zu benutzen. Eine unerwartete Überraschung
 nötigte ihn dazu. Wie er zufällig hinausschaute, sah er nämlich
 Johann Hobbs mit einem Hausiererpack auf dem Rücken daherkommen,
