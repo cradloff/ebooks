@@ -1,7 +1,7 @@
 
 <h2>Neunzehntes Kapitel.</h2>
 
-<h1>Wie Eduard es Alfred dem Großen nachmacht.</h1>
+<h3>Wie Eduard es Alfred dem Großen nachmacht.</h3>
 
 Als Eduard in der Morgenfrühe erwachte, fand er eine nasse
 Ratte, die sich an seiner Brust ein behagliches Nestchen gemacht
@@ -183,7 +183,7 @@ Dann musste er Wolle krempeln, bis er dachte, er habe den guten
 König Alfred nun weit in den Schatten gestellt, was gewiss in späteren 
 Schulbüchern sehr anschaulich geschildert würde. Da er aber diese
 Lesebücher nicht überlasten wollte, beschloss er, tunlichst bald der
-Sache ein Ende zu wachen.
+Sache ein Ende zu machen.
 
 Nach dem Mittagessen, das er wieder gemeinsam mit der Familie
 einnahm, gab ihm die Frau ein Körbchen voll kleine Kätzchen, die

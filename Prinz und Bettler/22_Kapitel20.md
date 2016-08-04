@@ -1,7 +1,7 @@
 
 <h2>Zwanzigstes Kapitel.</h2>
 
-<h1>Wie Eduard einem Erzengel in die Hände fällt.</h1>
+<h3>Wie Eduard einem Erzengel in die Hände fällt.</h3>
 
 Ein hoher Hag machte ihn vom Hause aus unsichtbar. Spornstreichs
 jagte er dahin, einem nahen Walde zu. Er schaute sich nicht
@@ -217,7 +217,7 @@ Der König rührte sich. Behutsam eilte der Eremit an das Bett
 des kleinen Fremdlings, ließ sich auf die Knie nieder und beugte
 sich mit aufgehobenem Messer über den Daliegenden. Der Knabe
 
-<div align="center"><img alt="Der Eremit nähert sich dem schlafenden Eduard mit einem Messer in der Hand" src="img09.png"/></div>
+<div align="center"><img alt="Der Eremit nähert sich dem schlafenden Eduard mit einem Messer in der Hand" src="img09.png" width="100%" height="auto"/></div>
 
 regte sich wieder. Seine Augen öffneten sich einen Augenblick lang,
 aber es war kein Leben in ihnen. Sie konnten nichts sehen. Gleich

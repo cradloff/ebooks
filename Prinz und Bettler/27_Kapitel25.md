@@ -1,7 +1,7 @@
 
 <h2>Fünfundzwanzigstes Kapitel.</h2>
 
-<h1>Wie Henden in Hendenhall aufgenommen wird.</h1>
+<h3>Wie Henden in Hendenhall aufgenommen wird.</h3>
 
 Sobald Henden und der König dem Schutzmann aus den Augen
 gekommen waren, eilten sie aus der Stadt. Dort wies der Ritter
@@ -48,7 +48,7 @@ Ihr hättet nur sehen sollen, wie dieses alte Sanctum Sanctorum
 »Das will ich wohl glauben«, sagte der König und erzählte, was
 der Einsiedler mit ihm vorgehabt habe. Henden wunderte sich nicht
 
-<div align="center"><img alt="Eduard reitet neben Hendon" src="img10.png"/></div>
+<div align="center"><img alt="Eduard reitet neben Hendon" src="img10.png" width="100%" height="auto"/></div>
 
 übel und bedauerte nur, dass er es nicht gewusst habe, sonst wäre
 er dem Erzengel zu leibe gegangen.

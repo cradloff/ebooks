@@ -1,4 +1,4 @@
-<h1>Anmerkungen.</h1>
+<h3>Anmerkungen.</h3>
 
 <em>Auf diese Anmerkungen ist im Texte durch ein beigefügtes * verwiesen.</em>
 
@@ -75,7 +75,7 @@ seine Thronfolgerin zu erklären. Dieses Testament wurde jedoch in der Folge von
 Maria umgestoßen, und Johanna Grey verblutete auf dem Schafotte. Endlich gelang
 es den Gegnern des Protektors, ihn im Jahre 1549 zu stürzen. Zwei Jahre
 später ward er auf Veranlassung seines Hauptgegners, des mit ihm verschwägerten
-Grafen von Marwick wegen angeblicher Felonie (er soll Warwick nach dem Leben
+Grafen von Warwick wegen angeblicher Felonie (er soll Warwick nach dem Leben
 getrachtet haben) und Hochverrat (man beschuldigte ihn, er strebe nach dem Throne)
 von einem Gericht von 27 Reichsbaronen (Peers) zum Tode verurteilt und am
 22\. Januar 1552 hingerichtet. An seiner Stelle ward König Eduard der genannte

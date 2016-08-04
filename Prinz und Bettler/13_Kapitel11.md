@@ -1,7 +1,7 @@
 
 <h2>Elftes Kapitel.</h2>
 
-<h1>Was in und außer dem Rathause vorging.</h1>
+<h3>Was in und außer dem Rathause vorging.</h3>
 
 Inzwischen fuhr die königliche Barke in Begleitung der ansehnlichen
 Flottille zwischen den zahllosen beleuchteten Booten die Themse
@@ -139,7 +139,7 @@ die des Königsboten, und begann weithin tönend eine Proklamation
 zu verlesen, der die ganze Versammlung stehend lauschte. Die feierlich
 gesprochenen Schlussworte lauteten:
 
-»Der König ist tot!«
+> »Der König ist tot!«
 
 Wie von einem Gedanken durchzittert, beugten alle Anwesenden
 ihr Haupt und verharrten so eine Weile in andächtigem Schweigen.

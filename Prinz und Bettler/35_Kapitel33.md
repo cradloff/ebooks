@@ -1,7 +1,7 @@
 
 <h2>Dreiunddreißigstes Kapitel.</h2>
 
-<h1>Wie Eduard sein Herrscheramt beginnt.</h1>
+<h3>Wie Eduard sein Herrscheramt beginnt.</h3>
 
 Michael Henden sah schon malerisch genug aus, bevor er wider
 Willen in den Tumult auf der Londoner Brücke geriet. Noch weit
@@ -264,7 +264,7 @@ Haus mit seinen 70 Zimmern und 27 Bediensteten! Er ist es, der
 niemals anderes als Lumpen zur Kleidung, Püffe zur Abwechselung
 und alte Brotkrumen zur Nahrung hatte! Er ist es, den ich adoptieren
 
-<div align="center"><img alt="Henden ergreift die Hand des Königs" src="img13.png"/></div>
+<div align="center"><img alt="Henden ergreift die Hand des Königs" src="img13.png" width="100%" height="auto"/></div>
 
 und zu einem geachteten Manne heranbilden wollte! Hätte ich doch
 einen Sack, um meinen Kopf darin zu verhüllen!«

@@ -1,7 +1,7 @@
 
 <h2>Sechzehntes Kapitel.</h2>
 
-<h1>Wie Tom vor dem Volke speist.</h1>
+<h3>Wie Tom vor dem Volke speist.</h3>
 
 Die Stunde des öffentlichen Mahles kam näher. Sonderbarerweise
 empfand Tom fast gar kein Unbehagen mehr, wenn er daran

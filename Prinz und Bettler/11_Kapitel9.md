@@ -1,7 +1,7 @@
 
 <h2>Neuntes Kapitel.</h2>
 
-<h1>Wie Tom die Themse hinunterfährt.</h1>
+<h3>Wie Tom die Themse hinunterfährt.</h3>
 
 Um 9 Uhr abends erstrahlte die ganze Front des Palastes nach
 dem Flusse hin in blendendem Licht. Der Fluss selbst war, soweit das

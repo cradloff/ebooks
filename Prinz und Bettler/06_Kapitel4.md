@@ -1,6 +1,6 @@
 <h2>Viertes Kapitel.</h2>
 
-<h1>Die Irrsale des Prinzen beginnen.</h1>
+<h3>Die Irrsale des Prinzen beginnen.</h3>
 
 Stundenlang verfolgte die hartnäckige Menge den kleinen Prinzen.
 Solange er sich wehrte und raste und drohte und in herrischem Tone

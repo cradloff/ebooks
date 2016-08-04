@@ -1,7 +1,7 @@
 
-<h2>Siebenundzwanzigsies Kapitel.</h2>
+<h2>Siebenundzwanzigstes Kapitel.</h2>
 
-<h1>Was der König und sein Ritter im Gefängnis erleben.</h1>
+<h3>Was der König und sein Ritter im Gefängnis erleben.</h3>
 
 Die Gefängniszellen waren überfüllt. Unsere Freunde wurden
 daher in einen großen Raum gebracht, wo man gewöhnlich ungefährliche
@@ -88,7 +88,7 @@ forschend. Dann schüttelte er den Kopf und erwiderte:
 Hugo, ich würde diesen schäbigen Lumpen packen und ihn einfach
 am nächsten Aste baumeln lassen.«
 
-<div align="center"><img alt="Der Diener betrachtet Henden" src="img11.png"/></div>
+<div align="center"><img alt="Der Diener betrachtet Henden" src="img11.png" width="100%" height="auto"/></div>
 
 Der alte Mann meinte dagegen:
 

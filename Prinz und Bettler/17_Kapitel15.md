@@ -1,7 +1,7 @@
 
 <h2>Fünfzehntes Kapitel.</h2>
 
-<h1>Wie Tom des Richteramtes waltet.</h1>
+<h3>Wie Tom des Richteramtes waltet.</h3>
 
 Am nächsten Tage empfing Tom, auf dem Throne sitzend, die
 fremden Gesandten in feierlicher Audienz. Erst war er entzückt über
@@ -91,7 +91,7 @@ Wieder beschlich stolze Freude Toms Herz. »Wahrhaftig«, sagte
 er sich, »genau dasselbe Gefühl überkam mich, wenn ich den Märchen
 des alten Priesters lauschte und mir vorstellte, wenn ich auch ein
 solcher König wäre, Gesetze geben und das und jenes befehlen könnte,
-ohne dass jemand sich meinem Befehle widersehen dürfte.«
+ohne dass jemand sich meinem Befehle widersetzen dürfte.«
  
 
 Die Stunde der Audienz war gekommen. Die Flügeltüren
@@ -302,7 +302,7 @@ geschah das und wann?«
 »Um Mitternacht, im Dezember, in einer verfallenen Kirche,
 Ew. Majestät.«
 
-Tom schauderte wieder
+Tom schauderte wieder.
 
 »Wer war zugegen?«
 
@@ -391,7 +391,7 @@ machte sich bemerkbar. Tom kehrte sich aber nicht daran,
 er schien es auch nicht einmal zu beachten, so sehr war er auf das
 kommende Ereignis gespannt. Da er einen verwunderten, entsetzten
 Blick von der Frau auffing, fügte er beruhigend hinzu: »Fürchte 
-dich nicht, du sollst dafür nicht, büßen. Noch mehr: du sollst ganz
+dich nicht, du sollst dafür nicht büßen. Noch mehr: du sollst ganz
 straflos ausgehen; niemand soll dir was zuleide tun. Beweise deine
 Kraft.«
 

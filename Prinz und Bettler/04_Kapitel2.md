@@ -1,6 +1,6 @@
 <h2>Zweites Kapitel.</h2>
 
-<h1>Wie Tom seine Kindesjahre verlebte.</h1>
+<h3>Wie Tom seine Kindesjahre verlebte.</h3>
 
 Eine Reihe von Jahren ist seither vergangen. London war fünfzehnhundert
 Jahre alt und nach damaligen Begriffen eine große

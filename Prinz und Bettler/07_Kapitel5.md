@@ -1,7 +1,7 @@
 
-<h>Fünftes Kapitel.</h>
+<h2>Fünftes Kapitel.</h2>
 
-<h>Wie es Tom inzwischen erging.</h>
+<h3>Wie es Tom inzwischen erging.</h3>
 
 Tom Canty benutzte den Weggang des Prinzen, um sich ausgiebig
 vor dem großen Spiegel zu bewundern. Er nahm die vornehme
@@ -55,7 +55,7 @@ zum Prinzen, damit er mir meine Lumpen zurückgibt und mich in
 Gnaden entlässt. O sei barmherzig und rette mich!«
 
 Der Knabe war auf seine Knie niedergefallen und schaute mit
-bittenden Augen und ausgehobenen Händen zu dem schönen Mädchen
+bittenden Augen und aufgehobenen Händen zu dem schönen Mädchen
 empor. Sie aber schien vor Schrecken versteinert. Endlich
 rief sie: »Wie, mein Lord, Ihr kniet? ... und gar noch vor mir?«
 
@@ -157,7 +157,7 @@ lange zum Segen deines Landes!« Dann sprang er auf, wandte
 sich an die beiden Lords, die ihn hergeführt hatten, und rief: »Ihr
 hört es! Ich soll nicht sterben. Der König hat es gesagt!«
 
-<div align="center"><img alt="Tom kniet vor dem König" src="img04.png"/></div>
+<div align="center"><img alt="Tom kniet vor dem König" src="img04.png" width="100%" height="auto"/></div>
 
 Stumm verbeugten sich die Angesprochenen; aber keiner ergriff
 das Wort. Verwirrt zögerte Tom einen Augenblick, blickte furchtsam

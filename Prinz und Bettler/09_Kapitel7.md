@@ -1,7 +1,7 @@
 
 <h2>Siebentes Kapitel.</h2>
 
-<h1>Wie Tom sein Mittagessen einnimmt.</h1>
+<h3>Wie Tom sein Mittagessen einnimmt.</h3>
 
 Kurz nach ein Uhr nachmittags ließ Tom die Zeremonien des
 Umziehens noch einmal über sich ergehen. Die Gewänder, die man

@@ -26,6 +26,8 @@
 <entry key="cover"></entry>
 <!-- Inhaltsverzeichnis generieren? (true/false) -->
 <entry key="toc">true</entry>
-<!-- Verzeichnis-Ebenen (1-3) -->
-<entry key="toc-level">1</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h3</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media">hr.png</entry>
 </properties>

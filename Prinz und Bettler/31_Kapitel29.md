@@ -1,7 +1,7 @@
 
 <h2>Neunundzwanzigstes Kapitel.</h2>
 
-<h1>Wie die beiden Freunde sich nochmals verlieren.</h1>
+<h3>Wie die beiden Freunde sich nochmals verlieren.</h3>
 
 Als Henden seine zwei Stunden abgebüßt hatte, wurde er freigelassen
 und erhielt die Weisung, aus der Gegend sofort zu verschwinden

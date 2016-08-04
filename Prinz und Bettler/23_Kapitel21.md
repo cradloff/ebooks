@@ -1,7 +1,7 @@
 
 <h2>Einundzwanzigstes Kapitel.</h2>
 
-<h1>Wie Henden vom Erzengel hinter's Licht geführt wird.</h1>
+<h3>Wie Henden vom Erzengel hinter's Licht geführt wird.</h3>
 
 Unhörbar wie eine Katze schlich der alte Mann davon und kehrte
 bald wieder mit der Bank zurück. Er setzte sich darauf nieder, halb

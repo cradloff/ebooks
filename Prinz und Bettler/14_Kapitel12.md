@@ -1,7 +1,7 @@
 
 <h2>Zwölftes Kapitel.</h2>
 
-<h1>Wie der König seinen Retter erzieht.</h1>
+<h3>Wie der König seinen Retter erzieht.</h3>
 
 Michael Henden und der kleine Prinz wanderten inzwischen durch
 Seitengässchen und wenig begangene Wege dem Flusse zu. Sie
@@ -103,7 +103,7 @@ um an den Knaben zu gelangen. »Nun soll er erst recht ...«
 ich dich auf wie eine Gans!« rief Henden, versperrte ihm den Weg
 und legte die Hand an seinen Degen. Canty zog sich zurück.
 
-»Merke es dir ein für alle mal«,fuhr Henden fort, »diesen Jungen
+»Merke es dir ein für alle mal«, fuhr Henden fort, »diesen Jungen
 habe ich unter meinen Schutz genommen, als ein unflätiger Pöbel
 ihn misshandeln oder gar töten wollte. Bildest du dir nun ein, ich
 werde ihn dir zu einem vielleicht noch schlimmeren Schicksal überlassen?
@@ -137,7 +137,7 @@ unter fortgesetzter Misshandlung gelitten. Nun, von jetzt an will ich
 sein Freund sein. Ich habe ihn gerettet und will meine Sache nicht
 halb machen. Überdies fühle ich mich zu diesem kleinen Knirps mit
 
-<div align="center"><img alt="Henden nimmt den Prinz vor Johann Canty in Schutz" src="img06.png"/></div>
+<div align="center"><img alt="Henden nimmt den Prinz vor Johann Canty in Schutz" src="img06.png" width="100%" height="auto"/></div>
 
 der kecken Zunge hingezogen. Wie tapfer trotzte er dem frechen Janhagel
 und wie kühn forderte er ihn heraus! Und welch hübsches,
@@ -416,7 +416,7 @@ dich und setze dich. Deine Bitte ist gewährt. Solange England
 und die Krone bestehen, soll dieses dein Vorrecht nicht dahinfallen.«
 
 Nachdenklich ging der kleine König im Zimmer auf und ab. Henden
-aber lieh sich selbstzufrieden in seinen Stuhl fallen und dachte:
+aber ließ sich selbstzufrieden in seinen Stuhl fallen und dachte:
 
 »Das war ein köstlicher Einfall, der mir eine große Erleichterung
 brachte. Meine Beine konnten mich kaum mehr tragen. Dazu bin

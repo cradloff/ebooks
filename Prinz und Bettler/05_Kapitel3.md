@@ -1,7 +1,7 @@
 
 <h2>Drittes Kapitel.</h2>
 
-<h1>Wie Tom mit dem Prinzen zusammenkam.</h1>
+<h3>Wie Tom mit dem Prinzen zusammenkam.</h3>
 
 Tom erhob sich hungernd und hungrig schlenderte er hinweg.
 Seine Gedanken beschäftigten sich immer noch mit dem goldenen
@@ -153,7 +153,7 @@ Dienerinnen?«
 Der Prinz betrachtete den kleinen Armen einen Augenblick ernst
 und sagte dann:
  
-<div align="center"><img alt="Tom lugt in den Schlosshof" src="img03.png"/></div>
+<div align="center"><img alt="Tom lugt in den Schlosshof" src="img03.png" width="100%" height="auto"/></div>
 
 »Aber warum denn nicht? Wer hilft ihnen denn nachts sich auszuziehen?
 Wer zieht sie denn morgens an, wenn sie sich erheben?«

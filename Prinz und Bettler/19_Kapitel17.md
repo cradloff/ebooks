@@ -1,7 +1,7 @@
 
 <h2>Siebzehntes Kapitel.</h2>
 
-<h1>Wie Eduard von den Vaganten gekrönt wird.</h1>
+<h3>Wie Eduard von den Vaganten gekrönt wird.</h3>
 
 Michael Henden suchte indessen eifrig nach seinem Schützling.
 Mittels der Erkundigungen, die er auf der Brücke einzog, konnte er
@@ -97,7 +97,7 @@ Der junge Mann, der daneben stand, lachte laut auf. Der König
 wollte ihn züchtigen, aber Hobbs vertrat ihm den Weg und sagte:
 »Ruhig, Hugo, ärgere ihn nicht. Er ist nicht bei Verstand, und du
 
-<div align="center"><img alt="Eduard beobachtet die Bande die um das Lagerfeuer sitzt" src="img08.png"/></div>
+<div align="center"><img alt="Eduard beobachtet die Bande die um das Lagerfeuer sitzt" src="img08.png" width="100%" height="auto"/></div>
 
 reizest ihn nur unnötig. Setze dich, Hans, und sei still. Du sollst
 auch einen Bissen zu essen bekommen.«
@@ -249,7 +249,7 @@ und mich und die hungrigen Kleinen auf dem Arm. Aber in England
 ist es ein Verbrechen, hungrig zu sein, und so peitschten sie uns
 aus und trieben uns von Dorf zu Dorf.
 
-»Stoßt wieder an,Kameraden,und trinkt auf das barmherzige englische
+»Stoßt wieder an, Kameraden, und trinkt auf das barmherzige englische
 Gesetz! Denn die Peitschenhiebe befreiten bald meine arme
 Marie von aller irdischen Drangsal. Dort liegt sie auf dem Töpferfelde
 drüben, aller Leiden ledig.«

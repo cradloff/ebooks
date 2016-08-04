@@ -1,7 +1,7 @@
 
 <h2>Dreizehntes Kapitel.</h2>
 
-<h1>Wie der König entführt wird.</h1>
+<h3>Wie der König entführt wird.</h3>
 
 Eine müde Schläfrigkeit befiel jetzt die beiden Kameraden. Der
 König deutete auf seine Kleider und sprach:
@@ -151,7 +151,7 @@ Auch wurde ich gerade zu meinem Meister gerufen. Man hatte nämlich
 vergessen, einem Schreiber eine bestellte Hammelkeule zu bringen. 
 Mein Meister rempelte mich deswegen an, obwohl ich alle Heiligen
 zu Zeugen nehme, dass ich so unschuldig daran war, wie ein neugeborenes
-Kind...«
+Kind ...«
 
 »Mir aus den Augen, du Schafsgesicht! Dein Geschwätz bringt
 mich noch um. Halt! Wohin willst du? Kannst du nicht einen Augenblick

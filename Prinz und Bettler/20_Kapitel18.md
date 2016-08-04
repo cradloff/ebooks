@@ -1,7 +1,7 @@
 
 <h2>Achtzehntes Kapitel</h2>
 
-<h1>Wie der König mit den Vaganten herumzieht.</h1>
+<h3>Wie der König mit den Vaganten herumzieht.</h3>
 
 Früh am nächsten Morgen, als kaum der Tag dämmerte, brachen
 die Stromer auf und machten sich auf den Marsch. Der Himmel
@@ -70,7 +70,7 @@ Hugo.
 spielen; aber alles hat seine Grenzen. Wenn ich ihm das sage,
 wird er dich schön durchwalken.«
 
-»Diese.Mühe kannst du dir ersparen. Ich sage es ihm selbst.«
+»Diese Mühe kannst du dir ersparen. Ich sage es ihm selbst.«
 
 »Dein Mut gefällt mir; ich muss es zugeben. Mit deiner Klugheit
 ist es aber nicht weit her. An Knochen nagen und Prügel kriegen

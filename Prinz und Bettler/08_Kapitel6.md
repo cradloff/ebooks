@@ -1,7 +1,7 @@
 
 <h2>Sechstes Kapitel.</h2>
 
-<h1>Wie Tom in seine neue Würde eingeführt wird.</h1>
+<h3>Wie Tom in seine neue Würde eingeführt wird.</h3>
 
 Tom wurde durch eine Flucht von schönen Gemächern in das
 größte derselben geführt, wo man ihn bat, sich zu setzen. Er traute
@@ -272,6 +272,6 @@ wäre dieser ein Betrüger und würde sich Prinz nennen, so wäre
 das natürlich und begreiflich. Aber wo in aller Welt gab es je einen
 Betrüger, welcher vom König, vom ganzen Hofe Prinz genannt wurde
 und trotzdem leugnete, dass er der Prinz sei und gegen seine Standeserhöhung
-protestierte? Nein, bei allem, was lebt, das ist undenkbar!
+protestierte? Nein, bei allem was lebt, das ist undenkbar!
 Das ist der wahre Prinz!«
 

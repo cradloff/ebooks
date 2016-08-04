@@ -1,7 +1,7 @@
 
 <h2>Einunddreißigstes Kapitel.</h2>
 
-<h1>Wie Tom von seiner Mutter erkannt wird.</h1>
+<h3>Wie Tom von seiner Mutter erkannt wird.</h3>
 
 Als Tom Canty am nächsten Morgen erwachte, drangen vieltausendstimmige
 Hochrufe an sein Ohr. Schwarz wimmelte es vor
@@ -106,7 +106,7 @@ Ausdruck. Von allen Häusern herab hingen Flaggen und Fahnen,
 herrliche Teppiche, kostbare Stoffe und golddurchwirkte Tuche.
  
 
-<div align="center"><img alt="Tom reitet durch die Menge" src="img12.png"/></div>
+<div align="center"><img alt="Tom reitet durch die Menge" src="img12.png" width="100%" height="auto"/></div>
  
 
 »Und all diese wunderbaren Sachen sind für mich, für mich allein
@@ -175,7 +175,7 @@ die Scharen des Volkes und brachten Tom neue Huldigungen
 dar. Aber er beachtete es nicht und wenn er es einmal bemerkte,
 so ward es ihm nur zu erneuter Qual.
 
-Angesichts dieser Haltung des Königs ernüchterte sich das Voll
+Angesichts dieser Haltung des Königs ernüchterte sich das Volk
 allmählich. Etwas wie Besorgnis und Angst machte sich in den Mienen
 der Zuschauer bemerkbar, und der Jubel begann zu erlahmen. Rasch
 wurde der Lord Protektor der veränderten Stimmung des Volkes
@@ -183,7 +183,7 @@ gewahr, und ebenso rasch entdeckte er auch die Ursache. Er ritt vor
 an die Seite des Königs, verbeugte sich entblößten Hauptes und flüsterte
 Tom zu:
 
-»Mein Fürst, ermuntert Euch. Das Voll stößt sich an Euerer
+»Mein Fürst, ermuntert Euch. Das Volk stößt sich an Euerer
 gebeugten Haltung und Euerer bewölkten Miene und nimmt es als
 schlimme Vorbedeutung. Lasst Euch raten: verbannt diesen düsteren
 Traum und zeigt Euer strahlendes Lächeln wieder!«

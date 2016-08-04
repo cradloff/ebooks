@@ -1,7 +1,7 @@
 
 <h2>Vierundzwanzigstes Kapitel.</h2>
 
-<h1>Wie Henden den Schutzmann zu nehmen weiß.</h1>
+<h3>Wie Henden den Schutzmann zu nehmen weiß.</h3>
 
 Der kurze Wintertag ging zu Ende. Die Straßen auf dem Weg
 zum Gefängnis waren öde. Nur hin und wieder eilte jemand

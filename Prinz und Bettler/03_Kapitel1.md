@@ -1,9 +1,9 @@
 
-<div align="center"><img alt="Der Unrathof" src="img02.png"/></div>
+<div align="center"><img alt="Der Unrathof" src="img02.png" width="100%" height="auto"/></div>
 
 <h2>Erstes Kapitel.</h2>
 
-<h1>Wie beide geboren und von der Welt aufgenommen werden.</h1>
+<h3>Wie beide geboren und von der Welt aufgenommen werden.</h3>
 
 An einem Herbsttage im zweiten Viertel des 16. Jahrhunderts
 wurde in London einer armen Familie, namens Canty, ein Knabe

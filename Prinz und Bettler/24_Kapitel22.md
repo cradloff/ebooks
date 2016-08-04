@@ -1,7 +1,7 @@
 
 <h2>Zweiundzwanzigstes Kapitel.</h2>
 
-<h1>Wie Eduard zum König der Kampfhähne ernannt wird.</h1>
+<h3>Wie Eduard zum König der Kampfhähne ernannt wird.</h3>
 
 Noch einmal musste König »Fufu der Erste« mit den Geächteten
 und Stromern herumziehen. Er war das Ziel ihrer rohen, stumpfsinnigen

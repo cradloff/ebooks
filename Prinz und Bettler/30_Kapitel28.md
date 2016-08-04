@@ -1,7 +1,7 @@
 
 <h2>Achtundzwanzigstes Kapitel.</h2>
 
-<h1>Wie sich Henden für den König opfert.</h1>
+<h3>Wie sich Henden für den König opfert.</h3>
 
 Henden war indessen seiner erzwungenen Untätigkeit überdrüssig
 geworden. Er vernahm daher mit großer Befriedigung, dass der

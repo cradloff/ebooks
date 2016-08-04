@@ -1,7 +1,7 @@
 
 <h2>Zweiunddreißigstes Kapitel.</h2>
 
-<h1>Wie Eduard zum dritten Male gekrönt wird.</h1>
+<h3>Wie Eduard zum dritten Male gekrönt wird.</h3>
 
 Versetzen wir uns um einige Stunden zurück und treten wir um
 4 Uhr des Morgens in die Westminster-Abtei. Wir sind nicht einsam,

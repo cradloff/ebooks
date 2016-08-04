@@ -1,7 +1,7 @@
 
 <h2>Achtes Kapitel.</h2>
 
-<h1>Das große Kronsiegel wird vermisst.</h1>
+<h3>Das große Kronsiegel wird vermisst.</h3>
 
 Gegen 5 Uhr abends erwachte Heinrich der Achte aus einem unerquicklichen
 Schlafe und murmelte vor sich hin: »Verworrene, schreckliche
@@ -28,7 +28,7 @@ von ...«
 
 Er brach plötzlich ab. Sein Gesicht wurde auf einmal aschfahl.
 Die Diener legten ihn sanft in die Kissen zurück und reichten ihm 
-Stärkungsmittel. Als er sich wieder erholt hätte, fuhr er fort: »O
+Stärkungsmittel. Als er sich wieder erholt hatte, fuhr er fort: »O
 wie habe ich mich gesehnt nach diesem köstlichen Augenblick und ach!
 jetzt kommt er zu spät; ich kann nicht mehr. Doch zögert nicht, säumet
 nicht; lasst einen anderen diesen wonnigen Akt verrichten, dessen

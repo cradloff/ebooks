@@ -1,7 +1,7 @@
 
 <h2>Schluss.</h2>
 
-<h1>Wie alles gesühnt und vergolten wird.</h1>
+<h3>Wie alles gesühnt und vergolten wird.</h3>
 
 Bei der vorgenommenen Untersuchung stellte es sich heraus, dass
 Hugo Henden seine Frau gezwungen hatte, Michael zu verleugnen.

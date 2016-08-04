@@ -1,7 +1,7 @@
 
 <h2>Sechsundzwanzigstss Kapitel.</h2>
 
-<h1>Wie Michael Henden seine schwerste Stunde verlebt.</h1>
+<h3>Wie Michael Henden seine schwerste Stunde verlebt.</h3>
 
 Nachdenklich saß der König da. Dann schaute er auf und äußerte:
 

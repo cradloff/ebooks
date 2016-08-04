@@ -1,4 +1,4 @@
-<h1>Vorwort.</h1>
+<h3>Vorwort.</h3>
 
 Mit vorliegendem Buche hat Mark Twain (Samuel Langhorne
 Clemens, geb. 1835) seinen Kindern das Beste und Anmutigste gewidmet,

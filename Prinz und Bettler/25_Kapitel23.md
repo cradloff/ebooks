@@ -1,7 +1,7 @@
 
 <h2>Dreiundzwanzigstes Kapitel.</h2>
 
-<h1>Warum der König gehängt werden sollte.</h1>
+<h3>Warum der König gehängt werden sollte.</h3>
 
 Henden unterdrückte ein Lächeln, das sich ihm auf die Lippen
 drängen wollte. Er beugte sich nieder und flüsterte dem König zu:
@@ -26,7 +26,7 @@ neugierigen Menge. Der König wollte sich zwar sträuben, aber
 Henden raunte ihm zu: »Bedenket, Majestät, Euere Gesetze bilden
 die gesunde Luft im Königreich. Wie sollen aber die Untertanen 
 ihnen folgen, wenn das Oberhaupt sich weigert, ihnen zu gehorchen?
-Wenn Ihr wieder aus dem Throne seid, wird es Euch gewiss Befriedigung
+Wenn Ihr wieder auf dem Throne seid, wird es Euch gewiss Befriedigung
 gewähren, dass Ihr Euch so loyal und bescheiden Eueren
 eigenen Gesetzen unterwarfet.«
 

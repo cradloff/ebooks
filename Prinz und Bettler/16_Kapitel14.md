@@ -1,7 +1,7 @@
 
 <h2>Vierzehntes Kapitel.</h2>
 
-<h1>Wie Tom sich weiter belehren lässt.</h1>
+<h3>Wie Tom sich weiter belehren lässt.</h3>
 
 Gegen Anbruch des nämlichen Tages erwachte Tom aus einem
 schweren Schlaf und blickte umher. Es war noch dunkel ringsum.
@@ -78,7 +78,7 @@ dem zeremoniellen Frühstück wurde Tom in den Thronsaal geleitet,
 wo er die laufenden Staatsgeschäfte vornehmen sollte. Sein »Onkel«,
 Graf Hertford, stand neben dem Thron, um den König mit weisem
 
-<div align="center"><img alt="Tom sitzt auf dem Thron umgeben von Höflingen" src="img07.png"/></div>
+<div align="center"><img alt="Tom sitzt auf dem Thron umgeben von Höflingen" src="img07.png" width="100%" height="auto"/></div>
 
 Rat zu unterstützen, so dass sich für Tom alles ohne leidigen Zwischenfall
 glatt abwickelte.

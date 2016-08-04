@@ -1,7 +1,7 @@
 
 <h2>Dreißigstes Kapitel.</h2>
 
-<h1>Wie Tom Fortschritte macht.</h1>
+<h3>Wie Tom Fortschritte macht.</h3>
 
 Indes der wahre König, in Lumpen gekleidet und kläglich ernährt,
 mit den Stromern herumwanderte, mit Dieben und Mördern
@@ -17,7 +17,7 @@ ruhige Sicherheit bei ihm bemerkbar, welche wohltuend auf seine
 ganze Umgebung wirkte.
 
 Wenn er zu spielen oder zu plaudern wünschte, ließ er Fräulein
-Elisabeth oder Fräulein Johanna Erey zu sich bitten. Wenn er müde
+Elisabeth oder Fräulein Johanna Grey zu sich bitten. Wenn er müde
 war, so entließ er sie wieder mit natürlicher Anmut und Vertraulichkeit.
 Es störte ihn auch nicht mehr, wenn die beiden jungen Damen
 ihm beim Abschied die Hand küssten.
