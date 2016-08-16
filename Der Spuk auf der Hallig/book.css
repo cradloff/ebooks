@@ -1,0 +1,81 @@
+h1 {
+	text-align: center;
+	font-size: x-large;
+	font-weight: normal;
+}
+
+h2 {
+	text-align: center;
+	font-size: large;
+	font-weight: normal;
+}
+
+p {
+	text-indent: 1em;
+}
+
+blockquote p {
+	white-space: pre-wrap;
+	text-indent: 0em;
+	padding-left: 0.5em;
+	font-family: cursive;
+}
+
+/* cover */
+#cover {
+	width: 100%;
+	height: 100%;
+}
+
+/* table of contents */
+.toc #author {
+	color: dimgray;
+	font-size: 1.25em;
+	text-align: center;
+}
+.toc #title {
+	font-size: 1.8em;
+	text-align: center;
+}
+.toc #subtitle {
+	color: dimgray;
+	font-size: 1.25em;
+	text-align: center;
+}
+
+/* Kapitel-Unterschriften */
+div.subtitle {
+	font-size: small;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* Link zu Fußnote */
+a.refnote {
+	font-size: small;
+	vertical-align: super;
+}
+
+/* Fußnote */
+.footnote {
+	font-size: small;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+a.footnote {
+	font-size: x-small;
+	vertical-align: super;
+}
+
+/* replace horizontal row with three asterisk */
+hr {
+	border: none;
+	margin: 2.0rem auto;
+	text-align:center;
+}
+    
+hr:before {
+	content: "***";
+	letter-spacing: 1rem;
+}
