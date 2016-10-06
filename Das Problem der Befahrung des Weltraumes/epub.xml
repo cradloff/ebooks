@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">37cbc730-8bd7-11e6-bdf4-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Problem der Befahrung des Weltraumes</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Der Raketenmotor</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Herrmann Potočnik erläutert unter dem Pseudonym Hermann Noordung die Schwierigkeiten und mögliche Lösungen für die Reise in den Weltraum und den Aufbau einer Weltraumstation.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Herrmann Noordung</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Noordung, Herrmann</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) https://www.bisg.org/bisac/complete-bisac-subject-headings-2015-edition -->
+<entry key="subject">Astronomy</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1929</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h1</entry>
+</properties>
