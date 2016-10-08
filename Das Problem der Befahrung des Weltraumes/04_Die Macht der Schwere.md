@@ -66,7 +66,7 @@ Wie früher erwähnt, erstreckt sich die Wirkung der Erdschwerkraft,
 immer schwächer werdend, bis in unendliche Entfernung.
 Wir können demnach den Anziehungsbereich
 <div align="center" float="right"><img alt="Veranschaulichung der Fliehkraft" src="abb03.png"/>
-\3. Abb.</bu>
+\3. Abb.</div>
 (das Schwerefeld) der Erde niemals völlig
 verlassen, nie die wirkliche Schwere grenze der Erde erreichen.
 Wohl aber läßt sich errechnen, welche Arbeitsleistung theoretisch
