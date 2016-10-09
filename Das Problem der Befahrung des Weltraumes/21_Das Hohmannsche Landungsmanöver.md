@@ -1,98 +1,56 @@
 Das Hohmannsche Landungsmanöver.
+================================
 
 Es ist ein Verdienst des deutschen Ingenieurs Dr. Hohmann,
 aus dieser Schwierigkeit einen Ausweg gezeigt zu haben. Nach
 seinem Vorschlage wird das Raumschiff für die Landung
-mit Tragflächen ähnlich wie
-ein Flugzeug ausgerüstet.
-Weiterhin wird schon zu Beginn
-der Rückkehr dem Fahrzeug mit-
-tels Rückstoßes eine solche tan-
-gentiale (wagerechte) Ge-
-schwindigkeit erteilt, daß es
-bei seinem Fall zur Erde gar nicht:
-auf ihrer Oberfläche auftrifft,
-sondern die Erde in einer freien
-Umlaufbahn derart umfährt, daß
-es sich ihrer Oberfläche im Schei—
-tel der Bahn auf 75 km nähert
+mit Tragflächen ähnlich wie ein Flugzeug ausgerüstet.
+Weiterhin wird schon zu Beginn der Rückkehr dem Fahrzeug mittels
+Rückstoßes eine solche tangentiale (wagerechte) Geschwindigkeit erteilt, daß es
+bei seinem Fall zur Erde gar nicht: auf ihrer Oberfläche auftrifft,
+sondern die Erde in einer freien Umlaufbahn derart umfährt, daß
+es sich ihrer Oberfläche im Scheitel der Bahn auf 75 km nähert
 (Abb. 39).
 
-<bild>
-<bu>Abb.39. BeimHohmannschenLan-
-dun gsvorgang wird die Rückkehr—
-b a h n derart künstlich beeinﬂußt, daß
-das Raumschiﬂ gar nicht auf die Erde
-auftrifft, sondern dieselbe in 7 5 km
-Höhe umfährt.</bu>
+<div align="center" float="right"><img alt="Veranschaulichung des Hohmannschen Landungsmanövers" src="abb39.png"/>Abb.39.
+Beim Hohmannschen Landungsvorgang wird die Rückkehrbahn derart künstlich beeinflußt,
+daß das Raumschiff gar nicht auf die Erde auftrifft, sondern dieselbe in 75 km
+Höhe umfährt.</div>
 
-
-Es sei versucht, diesen Vorgang
-in einfacher Weise vielleicht fol— .
-gend zu erläutern: Wenn man ‘
-einen Stein wirft, statt ihn nur
-fallen zu lassen, dann trifft er
-erst in einer gewissen Entfer—
-nung auf den Boden, und zwar
-in umso weiterer, —mit je größerer
-Geschwindigkeit er fortgeschleu-
-dert wurde. Könnte man nun diese Wurfgeschwindigkeit beliebig
+Es sei versucht, diesen Vorgang in einfacher Weise vielleicht folgend
+zu erläutern: Wenn man einen Stein wirft, statt ihn nur
+fallen zu lassen, dann trifft er erst in einer gewissen Entfernung
+auf den Boden, und zwar in umso weiterer, mit je größerer
+Geschwindigkeit er fortgeschleudert wurde. Könnte man nun diese Wurfgeschwindigkeit beliebig
 steigern, so daß der Stein nicht schon in einer Entfernung von
-10 oder 100 Meter, ja mich noch nicht in einer solchen von 100
+10 oder 100 Meter, ja auch noch nicht in einer solchen von 100
 oder 1000 km niederfällt, sondern erst in einer Weite von
-
 40000 km zu Boden gelangte, dann würde er in Wirklichkeit
-überhaupt gar nicht mehr niederfallen, da ja der ganze Erd-
+überhaupt gar nicht mehr niederfallen, da ja der ganze Erdumfang nur 40000 km
+mißt. Er würde dann die Erde wie ein winziger Mond in einer
+freien Umlaufbahn umkreisen. Allerdings müßte man, um dies
+von einem Standpunkte der Erdoberfläche aus zu erreichen, dem Steine die
+gewaltige Geschwindigkeit von etwa 8000 Meter je Sekunde erteilen.
 
-umfang nur 40000 km
-mißt. Er würde dann
-die Erde wie ‚ein Win—
-ziger Mond in einer
-freien Umlaufbahn um—
-kreisen. Allerdings
-müßte man, um dies
-von einem Standpunkte
-derErdoberfläche aus zu
-erreichen, dem Steine die
-gewaltige Geschwindig—
-keit von etwa 8000 Me-
-ter je Sekunde erteilen.
+<div align="center" float="left"><img alt="Veranschaulichung der Fliehkraft an einem Wagen" src="abb40.png"/>Abb. 40.
+Wenn die Fliehkraft infolge zu rascher Fahrt zu groß wird, schleudert sie den Wagen
+aus der Bahn.</div>
 
-<bild>
-<bu>Abb. 40. Wenn die Fliehkraft infolge zu rascher
-Fahrt zu groß wird-, schleudert sie den Wagen
-aus der Bahn.</bu>
-
-Letztere wird jedoch umso gerin—
-ger, je weiter die Stelle von der
-Erde entfernt liegt, von welcher aus
-der Körper zum Umlauf um die—
-selbe veranlaßt werden soll. In einem
-Abstande von etlichen 100 000 km be—
-trägt sie nur mehr rund {00 Meter je
-Sekunde (Abb. 39). Dies ist auch ein—
-zusehen, wenn man bedenkt, daß
-das Fahrzeug ohnehin — allein schon
-infolge seines Falles zur Erde —
-immer mehr an Geschwindigkeit ge-
-winnt. Erreicht doch die *—Einfallge—
-schwindigkeit laut Früherem schließ—
-lich sogar dcn Wert von 1 1 000 Meter
-je Sekunde, ist also bereits um mehr
-als 3000 Meter je Sekunde größer,
-als jene Geschwindigkeit von genau
-7850 Meter je Sekunde, die das Fahr—
-zeug haben müßte, damit es die Erde
-<bild>
-<bu>Abb. 41. Infolge der um rund
-3000 m/sec zu großen Fahrge—
-schwindigkeit: (IIOOO Statt 7850
-m/sec!) ist die Fliehkraft größer
-als die Schwere, weshalb das Raum-
-schiff aus der freien Kreisbahn nach
-außen gedrängt wird.</bu>
-
-ähnlich wie früher der Stein) in freier Kreisbahn in einer Höhe
+Letztere wird jedoch umso geringer, je weiter die Stelle von der
+Erde entfernt liegt, von welcher aus der Körper zum Umlauf um dieselbe
+veranlaßt werden soll. In einem Abstande von etlichen 100 000 km beträgt
+sie nur mehr rund 100 Meter je Sekunde (Abb. 39). Dies ist auch einzusehen,
+wenn man bedenkt, daß das Fahrzeug ohnehin — allein schon
+infolge seines Falles zur Erde — immer mehr an Geschwindigkeit gewinnt.
+Erreicht doch die Einfallgeschwindigkeit laut Früherem schließlich
+sogar den Wert von 11 000 Meter je Sekunde, ist also bereits um mehr
+als 3000 Meter je Sekunde größer, als jene Geschwindigkeit von genau
+7850 Meter je Sekunde, die das Fahrzeug haben müßte, damit es die Erde
+<div align="center" float="left"><img alt="Veranschaulichung der Einfallbahn eines Raumschiffs um die Erde" src="abb41.png"/>Abb. 41.
+Infolge der um rund 3000 m/sec zu großen Fahrgeschwindigkeit: (11000 Statt 7850 m/sec!)
+ist die Fliehkraft größer als die Schwere, weshalb das Raumschiff
+aus der freien Kreisbahn nach außen gedrängt wird.</div>
+(ähnlich wie früher der Stein) in freier Kreisbahn in einer Höhe
 von 75 km umlaufe.
 
 Infolge dieses Überschusses an Geschwindigkeit wird nun das
@@ -103,7 +61,7 @@ Kurve mit zu großer Geschwindigkeit (zu „scharf”) durchfährt
 (Abb. 40). Ebenso ‚wie dieser nach außen geschleudert wird, weil
 die Fliehkraft, welche ihn aus der Bahn zu drängen sucht, größer
 ist als die Bodenreibung der Räder, die ihn in derselben erhalten
-sollte, so wird — in sinngemäßer Weise — auch unser Raum—
-schiff bestrebt sein, die freie Kreisbahn nach außen zu verlassen
+sollte, so wird — in sinngemäßer Weise — auch unser Raumschiff
+bestrebt sein, die freie Kreisbahn nach außen zu verlassen
 und sich damit von der Erde wieder zu entfernen (Abb. 41).
 
