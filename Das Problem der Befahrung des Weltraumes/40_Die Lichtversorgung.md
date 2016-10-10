@@ -7,8 +7,8 @@ sondern kann größtenteils unmittelbar durch die Sonne erfolgen‚
 welche dort ja unentwegt scheint — abgesehen von eventuellen,
 jedenfalls aber nur kurzen Durchgängen der Raumwarte durch den Erdschatten.
 
-<div align="center" float="right"><img alt="Beleuchtungsluke" src="abb78.png"/>
-Abb. 78. Beleuchtungsluke.</div>
+<div class="image" float="right"><img alt="Beleuchtungsluke" src="abb78.png"/>
+<p>Abb. 78. Beleuchtungsluke.</p></div>
 
 Zu diesem Zwecke weisen die Wände runde, den Luken eines Schiffes
 ähnliche Öffnungen auf, welche mit starken, linsenartig geformten
@@ -19,8 +19,8 @@ Strahlenbeimengungen befreit, in gleicher Weise wie durch die Lufthülle
 gefiltert und ferner in zerstreutem Zustand in die Warte einfällt,
 deren Inneres somit von normalem Tageslicht erhellt wird.
 
-<div align="center" float="right"><img alt="Der Spiegel lenkt eigens Sonnenstrahlen auf die Luke hin" src="abb79.png"/>
-Abb. 79. Der Spiegel lenkt eigens Sonnenstrahlen auf die Luke hin.</div>
+<div class="image" float="right"><img alt="Der Spiegel lenkt eigens Sonnenstrahlen auf die Luke hin" src="abb79.png"/>
+<p>Abb. 79. Der Spiegel lenkt eigens Sonnenstrahlen auf die Luke hin.</p></div>
 
 Manche der Luken sind mit besonderen Spiegeln ausgestattet, durch welche Sonnenstrahlen nach
 Bedarf auch eigens auf die betreffenden Luken hingelenkt werden

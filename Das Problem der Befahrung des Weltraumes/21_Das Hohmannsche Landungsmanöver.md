@@ -12,10 +12,10 @@ sondern die Erde in einer freien Umlaufbahn derart umfährt, daß
 es sich ihrer Oberfläche im Scheitel der Bahn auf 75 km nähert
 (Abb. 39).
 
-<div align="center" float="right"><img alt="Veranschaulichung des Hohmannschen Landungsmanövers" src="abb39.png"/>Abb.39.
-Beim Hohmannschen Landungsvorgang wird die Rückkehrbahn derart künstlich beeinflußt,
+<div class="image" float="right"><img alt="Veranschaulichung des Hohmannschen Landungsmanövers" src="abb39.png"/>
+<p>Abb. 39. Beim Hohmannschen Landungsvorgang wird die Rückkehrbahn derart künstlich beeinflußt,
 daß das Raumschiff gar nicht auf die Erde auftrifft, sondern dieselbe in 75 km
-Höhe umfährt.</div>
+Höhe umfährt.</p></div>
 
 Es sei versucht, diesen Vorgang in einfacher Weise vielleicht folgend
 zu erläutern: Wenn man einen Stein wirft, statt ihn nur
@@ -32,9 +32,9 @@ freien Umlaufbahn umkreisen. Allerdings müßte man, um dies
 von einem Standpunkte der Erdoberfläche aus zu erreichen, dem Steine die
 gewaltige Geschwindigkeit von etwa 8000 Meter je Sekunde erteilen.
 
-<div align="center" float="left"><img alt="Veranschaulichung der Fliehkraft an einem Wagen" src="abb40.png"/>Abb. 40.
-Wenn die Fliehkraft infolge zu rascher Fahrt zu groß wird, schleudert sie den Wagen
-aus der Bahn.</div>
+<div class="image" float="left"><img alt="Veranschaulichung der Fliehkraft an einem Wagen" src="abb40.png"/>
+<p>Abb. 40. Wenn die Fliehkraft infolge zu rascher Fahrt zu groß wird, schleudert sie den Wagen
+aus der Bahn.</p></div>
 
 Letztere wird jedoch umso geringer, je weiter die Stelle von der
 Erde entfernt liegt, von welcher aus der Körper zum Umlauf um dieselbe
@@ -46,10 +46,10 @@ Erreicht doch die Einfallgeschwindigkeit laut Früherem schließlich
 sogar den Wert von 11 000 Meter je Sekunde, ist also bereits um mehr
 als 3000 Meter je Sekunde größer, als jene Geschwindigkeit von genau
 7850 Meter je Sekunde, die das Fahrzeug haben müßte, damit es die Erde
-<div align="center" float="left"><img alt="Veranschaulichung der Einfallbahn eines Raumschiffs um die Erde" src="abb41.png"/>Abb. 41.
-Infolge der um rund 3000 m/sec zu großen Fahrgeschwindigkeit: (11000 Statt 7850 m/sec!)
+<div class="image" float="left"><img alt="Veranschaulichung der Einfallbahn eines Raumschiffs um die Erde" src="abb41.png"/>
+<p>Abb. 41. Infolge der um rund 3000 m/sec zu großen Fahrgeschwindigkeit: (11000 Statt 7850 m/sec!)
 ist die Fliehkraft größer als die Schwere, weshalb das Raumschiff
-aus der freien Kreisbahn nach außen gedrängt wird.</div>
+aus der freien Kreisbahn nach außen gedrängt wird.</p></div>
 (ähnlich wie früher der Stein) in freier Kreisbahn in einer Höhe
 von 75 km umlaufe.
 

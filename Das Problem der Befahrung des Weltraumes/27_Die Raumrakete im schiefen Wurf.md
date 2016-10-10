@@ -17,8 +17,8 @@ Abgangsgeschwindigkeiten zu erreichen, daß es für die Wurf-(Schuß-)Weite
 der Raumrakete theoretisch eigentlich überhaupt
 keine irdische Grenze gäbe.
 
-<div align="center" float="left"><img alt="Wurfparabel beim schiefen Wurf" src="abb46.png"/>
-Abb. 46. Schiefer Wurf.</div>
+<div class="image" float="left"><img alt="Wurfparabel beim schiefen Wurf" src="abb46.png"/>
+<p>Abb. 46. Schiefer Wurf.</p></div>
 
 Man könnte demnach so in äußerst kurzer Zeit eine Last über
 sehr große Distanzen fortbringen, weshalb mitunter die Meinung
@@ -36,9 +36,9 @@ den Luftwiderstand. Da ersteres wegen des enormen damit verbundenen
 Betriebsstoffverbrauches, wo immer möglich, unbedingt
 vermieden werden muß, kommt praktisch also nur die Anwendung des Luftwiderstandes in Frage.
 
-<div align="center"><img alt="Wurfweite beim schiefen Wurf" src="abb47.png"/>Abb. 47.
-Mit einer gegebenen Abgangsgeschwindigkeit wird dann die größte
-Wurfweite erzielt, wenn der Abgangswinkel 45° beträgt.</div>
+<div class="image"><img alt="Wurfweite beim schiefen Wurf" src="abb47.png"/>
+<p>Abb. 47. Mit einer gegebenen Abgangsgeschwindigkeit wird dann die größte
+Wurfweite erzielt, wenn der Abgangswinkel 45° beträgt.</p></div>
 
 Nun würde aber mit einfacher Fallschirmlandung die Abbremsung
 gewiß nicht zu erreichen sein; denn bei der Größe der
@@ -105,10 +105,10 @@ Rakete, auf das Ziel einfällt und dabei die dichtesten, erdnahen
 Luftschichten durchdringenmuß (Abb. 48). Ist nun die Wurfweite
 und damit auch die Einfallgeschwindigkeit zu groß, dann wird
 sich die Rakete durch die Luftreibung derart erhitzen, daß sie
-<div align="center" float="right"><img alt="Einfallgeschwindigkeiten bei verschiedenen Ausgangsgeschwindigkeiten" src="abb48.png"/>
-Abb. 48. Je größer die Wurfweite ist, desto größer
+<div class="image" float="right"><img alt="Einfallgeschwindigkeiten bei verschiedenen Ausgangsgeschwindigkeiten" src="abb48.png"/>
+<p>Abb. 48. Je größer die Wurfweite ist, desto größer
 wird auch die Einfallgeschwindigkeit sein (entsprechend
-der größeren hierzu notwendigen Abgangsgeschwindigkeit und Steighöhe).</div>
+der größeren hierzu notwendigen Abgangsgeschwindigkeit und Steighöhe).</p></div>
 vernichtet wird (zerschmilzt, krepiert), noch ehe sie überhaupt
 ans Ziel gelangt; ähnlich so wie auf die Erde zufallende Meteore
 auch nur selten den Erdboden erreichen, weil sie bereits vorher

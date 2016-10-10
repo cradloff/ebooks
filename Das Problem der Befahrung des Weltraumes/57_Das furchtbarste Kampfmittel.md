@@ -29,8 +29,8 @@ einen riesigen, auch die kleinsten Einzelheiten zeigenden Plan, dann kann
 man sich davon ein Bild machen, was solch ein Raumspiegel, von seiner
 Hand geleitet, als Kampfmittel bedeuten würde!
 
-<div align="center"><img alt="Entzünden eines Holzspanes mittels eines Sammelspiegels" src="abb95.png"/>
-Abb. 95. Entzünden eines Holzspanes mittels eines Sammelspiegels.</div>
+<div class="image"><img alt="Entzünden eines Holzspanes mittels eines Sammelspiegels" src="abb95.png"/>
+<p>Abb. 95. Entzünden eines Holzspanes mittels eines Sammelspiegels.</p></div>
 
 Ein leichtes wäre es: damit die Munitionslager des Feindes in
 die Luft zu sprengen, die Stapelplätze seines Kriegsgerätes zu entzünden,

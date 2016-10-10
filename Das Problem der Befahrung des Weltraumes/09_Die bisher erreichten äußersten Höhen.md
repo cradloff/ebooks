@@ -3,10 +3,10 @@ Die bisher erreichten äußersten Höhen.
 
 Es hat nicht an Versuchen gefehlt, in höchste Höhen vorzudringen.
 Durch Menschen konnten bisher im Flugzeug 11 800,
-<div align="center"><img alt="Veranschaulichung der bisher erreichten Höhen" src="abb09.png"/>Abb. 9. 
-Mit zunehmender Höhe vermindert sich die Luftdichte außerordentlich
+<div class="image"><img alt="Veranschaulichung der bisher erreichten Höhen" src="abb09.png"/>
+<p>Abb. 9. Mit zunehmender Höhe vermindert sich die Luftdichte außerordentlich
 rasch, wie aus der rechts gezeichneten Kurve und aus der Stärke der Schattierung
-zu ersehen ist.</div>
+zu ersehen ist.</p></div>
 im Freiballon 12000, und alpinistiseh (am Mount Everest) 8600
 Meter Höhe erreicht werden (Abb. 9). Noch weiter gelangten
 sogenannte Ballonsonden. Es sind dies unbemannte Gummiballone,

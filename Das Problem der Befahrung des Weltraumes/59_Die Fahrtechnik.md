@@ -46,12 +46,12 @@ Lufthülle, dann ist die Landung nur durch Rückstoßbremsung
 möglich, indem man während des Niedergehens den Antrieb entgegengesetzt
 der Fallrichtung wirken läßt<a class="refnote" id="rn3" href="#fn3">3</a> (Abb. 37).
 
-<div align="center" float="right"><img alt="" src="abb98.png"/>
-Abb. 98. Wird die Bewegung eines frei umlaufenden
+<div class="image" float="right"><img alt="" src="abb98.png"/>
+<p>Abb. 98. Wird die Bewegung eines frei umlaufenden
 Körpers beschleunigt, dann vergrößert er seine ursprüngliche
 Umlaufbahn und entfernt sich damit
 vom Anziehungszentrum; wird sie verzögert, dann
-nähert er sich demselben, indem er seine Umlaufbahn verengt.</div>
+nähert er sich demselben, indem er seine Umlaufbahn verengt.</p></div>
 
 Man müßte also, um innerhalb des Sonnensystems zu einem
 andern Himmelskörper zu reisen, nach erfolgter Loslösung von
@@ -85,14 +85,14 @@ wird (Abb. 99). Immerhin sind auch dann die erforderlichen
 Betriebsstoffmengen nicht unbeträchlich.
 
 
-<div align="center" float="right"><img alt="Tangierende / Schneidende Verbindungs-Umlaufbahn" src="abb99.png"/>
-Abb. 99. Tangierende / Schneidende Verbindungs-Umlaufbahn, in welcher sich das
+<div class="image" float="right"><img alt="Tangierende / Schneidende Verbindungs-Umlaufbahn" src="abb99.png"/>
+<p>Abb. 99. Tangierende / Schneidende Verbindungs-Umlaufbahn, in welcher sich das
 Raumfahrzeug selbständig bewegen muß, um innerhalb des Sonnensystems zu einem
 fremden Himmelskörper zu gelangen.
 Es bedeutet im Bilde: 1 die Umlaufbahn des ursprünglichen, 2 die des zu be-
 suchenden Himmelskörpers. Die stark ausgezogene Strecke &rarr; der
 Verbindungs—Umlaufbahn ist jener Teil derselben, den das Raumfahrzeug tatsächlich
-durchläuft.</div>
+durchläuft.</p></div>
 
 Zu diesen kommen aber noch weitere hinzu, wenn der zu besuchende
 Weltkörper nicht zu umfahren wäre, sondern auf

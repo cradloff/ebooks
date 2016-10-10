@@ -20,13 +20,13 @@ in ebenfalls entgegengesetzter Richtung rotieren lassen u. a.m.
 
 Folgendes wären die Vorteile daraus:
 
-\1. Der Verkehr innerhalb der Raumwarte wird vereinfacht.
+1. Der Verkehr innerhalb der Raumwarte wird vereinfacht.
 
-\2. Die bei getrennter Anordnung notwendigen Maßnahmen
+2. Die bei getrennter Anordnung notwendigen Maßnahmen
 zum Ausgleich der gegenseitigen Massenanziehung der Objekte
 fallen zwischen Wohnrad und Maschinenbaus fort.
 
-\3. Die Drehbewegung des Wohnrades kann jetzt durch Motorkraft
+3. Die Drehbewegung des Wohnrades kann jetzt durch Motorkraft
 statt wie sonst mittels Rückstoßantriebes — also ohne Betriebsstoffaufwand
 — erzeugt, geändert und stillgesetzt werden;
 denn es steht für diesen Zweck nun das ganze Maschinenhaus

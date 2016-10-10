@@ -22,8 +22,8 @@ Methoden zu bewirken? (Fußbewegung bei Tier und Mensch, Flügelschlag
 der Vögel, angetriebene Räder bei rollenden Kraftfahrzeugen,
 Schiffsschraube, Luftschraube usw.).
 
-<div align="center" float="left"><img alt="Veranschaulichung des Rückstoß" src="abb11.png"/>Abb. 11. Der „Rückstoß” beim Abfeuern eines
-Gewehrs.</div>
+<div class="image" float="left"><img alt="Veranschaulichung des Rückstoß" src="abb11.png"/>
+<p>Abb. 11. Der „Rückstoß” beim Abfeuern eines Gewehrs.</p></div>
 
 Das Mittel hierzu bietet eine allgemein bekannte physikalische
 Erscheinung. Wer einmal einen scharfen Schuß abgab (und an solchen
@@ -36,10 +36,10 @@ Kraft, mit welcher sie das Geschoß nach vorwärts treiben, auch zurück
 auf das Gewehr drücken und es somit nach rückwärts zu bewegen
 suchen (Abb. 11).
 
-<div align="center" float="left"><img alt="Veranschaulichung des Rückstoß" src="abb12.png"/>Abb. 12. 
-Auch wenn man mit der Hand einen leichtbeweglichen, massigeren
+<div class="image" float="left"><img alt="Veranschaulichung des Rückstoß" src="abb12.png"/>
+<p>Abb. 12. Auch wenn man mit der Hand einen leichtbeweglichen, massigeren
 Gegenstand (z. B. eine frei hängende Eisenkugel) rasch von sich
-wegstößt, erhält man selbst dabei einen merklichen „Rückstoß”.</div>
+wegstößt, erhält man selbst dabei einen merklichen „Rückstoß”.</p></div>
 
 Aber auch im alltäglichen Leben
 kann man den Rückstoßvorgang, wenn auch zumeist nicht in so
@@ -59,12 +59,12 @@ kleinere Masse er besitzt. Und ebenso wird man
 auch selbst hierbei umso mehr zurückweichen je
 leichter (und um so weniger je schwerer) man ist.
 
-<div align="center" float="left"><img alt="Veranschaulichung des Rückstoß" src="abb13.png"/>Abb. 13. 
-Wird der „Rückstoß“ des Gewehres nicht
+<div class="image" float="left"><img alt="Veranschaulichung des Rückstoß" src="abb13.png"/>
+<p>Abb. 13. Wird der „Rückstoß“ des Gewehres nicht
 aufgefangen, dann bewegt sich das letztere (nach
 dem Abschuß) nach rückwärts fort, und zwar so
 daß der gemeinsame Schwerpunkt von Gewehr
-und Geschoß in Ruhe verbleibt.</div>
+und Geschoß in Ruhe verbleibt.</p></div>
 
 Das physikalische Gesetz, welches diese Erscheinung erfaßt,
 heißt der „Satz von der Erhaltung des Schwerpunktes”.

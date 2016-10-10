@@ -37,10 +37,10 @@ Saturn, der Uranus und am entferntesten der Neptun. Es sind
 also Venus und Mars nebst dem Mond die der Erde unmittelbar
 benachbarten Gestirne.
 
-<div align="center"><img alt="Skizze der Bahnen der 8 Planeten unseres Sonnensystems in ihrem
+<div class="image"><img alt="Skizze der Bahnen der 8 Planeten unseres Sonnensystems in ihrem
 gegenseitigen Größenverhältnis" src="abb96.png"/>
-Abb. 96. Skizze der Bahnen der 8 Planeten unseres Sonnensystems in ihrem
-gegenseitigen Größenverhältnis.</div>
+<p>Abb. 96. Skizze der Bahnen der 8 Planeten unseres Sonnensystems in ihrem
+gegenseitigen Größenverhältnis.</p></div>
 
 Alle diese Himmelskörper sind durch die Wirkung der
 Massenanziehung dauernd an die Sonne gefesselt, gezwungen, sie
@@ -56,10 +56,10 @@ Licht mehr als 8 Stunden, um es quer zu durchmessen, und es
 durcheilt den Raum mit: der Geschwindigkeit von 300000 km
 je Sekunde!
 
-<div align="center" float="right"><img alt="Vergrößerte Darstellung der Bahnen der Planeten
+<div class="image" float="right"><img alt="Vergrößerte Darstellung der Bahnen der Planeten
 Mars, Erde, Venus und Merkur" src="abb97.png"/>
-Abb. 97. Vergrößerte Darstellung der Bahnen der Planeten Mars, Erde, Venus
-und Merkur aus Abb. 96.</div>
+<p>Abb. 97. Vergrößerte Darstellung der Bahnen der Planeten Mars, Erde, Venus
+und Merkur aus Abb. 96.</p></div>
 
 Und doch, wie winzig klein ist diese Welt verglichen mit den
 unfaßbaren Weiten des Alls, aus welchen jene vielen glutflüssigen

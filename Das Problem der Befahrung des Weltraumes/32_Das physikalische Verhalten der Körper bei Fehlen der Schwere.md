@@ -40,11 +40,11 @@ Deshalb müßten in allen von Menschen benutzten Räumen die
 Wände und insbesondere sämtliche Ecken und Kanten sehr gut
 gepolstert sein (Abb. 60).
 
-<div align="center" float="right"><img alt="Ein Zimmer der Raumwarte, in welchem gewichtsloser Zustand herrscht" src="abb60.png"/>
-Abb. 60. Ein Zimmer der Raumwarte, in welchem gewichtsloser Zustand
+<div class="image" float="right"><img alt="Ein Zimmer der Raumwarte, in welchem gewichtsloser Zustand herrscht" src="abb60.png"/>
+<p>Abb. 60. Ein Zimmer der Raumwarte, in welchem gewichtsloser Zustand
 herrscht und das demgemäß ausgestattet ist: Die Wände sind durchweg gepolstert
-und mit Greifschlingen versehen. Kein loser Gegenstand ist vorhanden.
-<dl>
+und mit Greifschlingen versehen. Kein loser Gegenstand ist vorhanden.</p>
+<dl style="text-align: left;">
 <dt>K</dt><dd>Verschließbare Kästen zum Aufbewahren von Gebrauchsgegenständen u. dgl.</dd>
 <dt>L</dt><dd>Luken für den Lichteinlaß (siehe folgende Seite 129).</dd>
 <dt>O</dt><dd>Öffnungen der Belüftungsleitmg (siehe folgende Seite 130).</dd>
@@ -59,7 +59,7 @@ Freien erfolgt, also z.B. bei Aufenthalt (im Raumanzug, siehe
 Folgendes) außerhalb der Raumwarte; denn hat man es versäumt,
 hierbei entsprechende Vorsichtsmaßregeln zu treffen und
 beim Abstoßen sein Ziel verfehlt, dann schwebt man fortgesetzt
-weiter: ohne Ende indie totbringende Leere des Weltenraums.
+weiter: ohne Ende in die totbringende Leere des Weltenraums.
 So droht nun, als Gegenstück zur irdischen Gefahr des „Stürzens
 in die Tiefe”, die nicht minder erschreckende Möglichkeit
 des „Entschwebens in den Raum”. Der Ruf: „Mann über
@@ -101,14 +101,14 @@ Kleinheit der Gesamtmasse — mit so äußerst geringer Beschleunigung, daß
 die Zurücklegung von nur einem Meter Weges Stunden dauert. Aber
 schließlich werden die nicht festgehaltenen Körper, entweder infolge dieser
 oder ihrer sonstigen
-<div align="center" float="left"><img alt="Verrichtung von Schreibarbeiten im schwerelosen Zustand" src="abb61.png"/>
-Abb. 61. Verrichtung von Schreibarbeiten im
+<div class="image" float="left"><img alt="Verrichtung von Schreibarbeiten im schwerelosen Zustand" src="abb61.png"/>
+<p>Abb. 61. Verrichtung von Schreibarbeiten im
 schwerelosen Zustand: Man muß sich hierzu an der Tischplatte
 z.B. mittels Ledergurten (G) festmachen, um
 (ohne sich anzuhalten) an derselben überhaupt verbleiben
 zu können. — Durch die (hier runde) Türöffnung
 (T) schwebt eben ein Mann aus dem Nebenraum
-herein, einen Gegenstand bringend.</div>
+herein, einen Gegenstand bringend.</p></div>
 zufälligen Bewegung, doch auf eine der Zimmerwände treffen und
 entweder gleich an derselben angelegt bleiben oder, wenn ihre Geschwindigkeit
 genügend groß war, je nach dem Grade der Elastizität
@@ -153,8 +153,8 @@ der Flüssigkeiten. Diese sind unter normalen Verhältnissen
 bekanntlich bestrebt, der Schwere folgend, nach möglichst tief
 gelegenen Stellen zu gelangen und schmiegen sich demnach stets
 vollkommen der jeweiligen Unterlage (dem Gefäße, dem Erdboden
-usw.) an. Fehlt jedoch die Schwere, dann können die ein-
-zelnen Massenteilchen ungehindert ihren Molekularkräften
+usw.) an. Fehlt jedoch die Schwere, dann können die einzelnen
+Massenteilchen ungehindert ihren Molekularkräften
 folgen und sich nach deren Wirkungsweise ordnen.
 
 Flüssigkeiten nehmen daher im gewichtslosen Zustand eine
@@ -168,12 +168,12 @@ Fallen gerade zu Tropfen formt: denn in diesem Zustande ist es
 laut Früherem ja gewichtslos, nimmt daher also Kugelgestalt an,
 die durch den Luftwiderstand aber zur Tropfenform verzerrt wird.
 
-<div align="center" float="left"><img alt="Verteilung des Wassers in einer nur teilweise gefüllten Flasche bei Fehlen der Schwere" src="abb62.png"/>
-Abb. 62. Verteilung des Wassers in einer nur teilweise gefüllten Flasche bei
-Fehlen der Schwere.</div>
-<div align="center" float="left"><img alt="Verhalten des Quecksilbers in einer Flasche bei Fehlen der Schwere" src="abb63.png"/>
-Abb. 63. Verhalten des Quecksilbers in einer Flasche bei
-Fehlen der Schwere.</div>
+<div class="image" float="left"><img alt="Verteilung des Wassers in einer nur teilweise gefüllten Flasche bei Fehlen der Schwere" src="abb62.png"/>
+<p>Abb. 62. Verteilung des Wassers in einer nur teilweise gefüllten Flasche bei
+Fehlen der Schwere.</p></div>
+<div class="image" float="left"><img alt="Verhalten des Quecksilbers in einer Flasche bei Fehlen der Schwere" src="abb63.png"/>
+<p>Abb. 63. Verhalten des Quecksilbers in einer Flasche bei
+Fehlen der Schwere.</p></div>
 
 Befindet sich die Flüssigkeit jedoch mit einem Körper in
 Berührung, dem gegenüber sie benetzend Wirkt, dann kommen
@@ -201,8 +201,8 @@ bzw. in schon bestehender Vorwärtsbewegung plötzlich
 anhalten (also in einer Vorbewegung verzögern, auch wie Abb. 64),
 oder endlich man muß sie im Kreise schwingen (Abb. 65).
 
-<div align="center" float="right"><img alt="Entleeren einer Flasche in gewichtslosem Zustand durch Zurückziehen derselben" src="abb64.png"/>
-Abb. 64. Entleeren einer Flasche in gewichtslosem Zustand durch Zurückziehen derselben.</div>
+<div class="image" float="right"><img alt="Entleeren einer Flasche in gewichtslosem Zustand durch Zurückziehen derselben" src="abb64.png"/>
+<p>Abb. 64. Entleeren einer Flasche in gewichtslosem Zustand durch Zurückziehen derselben.</p></div>
 
 Die Flüssigkeit wird dann infolge ihres Beharrungsvermögens
 (das sich in letzterem Falle als Fliehkraft äußert) aus der Flasche
@@ -212,17 +212,17 @@ ausreichend weit ist, bzw. die Bewegung mit genügender Kraft
 ausgeführt wird, damit dieser Lufteinlauf entgegen dem gleichzeitig
 ausströmenden Wasser auch tatsächlich stattfinden kann.
 
-<div align="center"><img alt="Im Kreise Schwingen einer Wasserflasche zwecks Entleerung derselben" src="abb65.png"/>
-Abb. 65. Im Kreise Schwingen einer Wasserflasche zwecks Entleerung derselben
+<div class="image"><img alt="Im Kreise Schwingen einer Wasserflasche zwecks Entleerung derselben" src="abb65.png"/>
+<p>Abb. 65. Im Kreise Schwingen einer Wasserflasche zwecks Entleerung derselben
 bei Fehlen der Schwere. (In Wirklichkeit wird sich die ausgetretene Flüssigkeit
-auf der angedeuteten Ausflußkurve wahrscheinlich nicht so regelmäßig verteilen.)</div>
+auf der angedeuteten Ausflußkurve wahrscheinlich nicht so regelmäßig verteilen.)</p></div>
 
-<div align="center" float="left"><img alt="Ausbreitung von Wasser in verschiedenen Räumen" src="abb66.png"/>
-Abb. 66. Bei Fehlen der Schwere würde sich
+<div class="image" float="left"><img alt="Ausbreitung von Wasser in verschiedenen Räumen" src="abb66.png"/>
+<p>Abb. 66. Bei Fehlen der Schwere würde sich
 ausgeﬂossenes Wasser in einem Raum mit gut benetzbaren
 (also z. B. etwas feuchten) Wänden über dieselben ausbreiten
 (linkes Bild), in einem Raum mit nicht benetzbaren
-(z. B. fettigen) Wänden in Kugeln zusammengeballt an die Wände legen (rechtes Bild).</div>
+(z. B. fettigen) Wänden in Kugeln zusammengeballt an die Wände legen (rechtes Bild).</p></div>
 
 [Es ist interessant zu beachten, daß die beschriebene Art der
 Entleerung einer Flasche durch Zurückziehen oder Anhalten derselben
@@ -232,7 +232,7 @@ Schwerezustand durch verkehrtes Halten ausgegossen wird.
 Ja, daß diese Vorgänge physikalisch sogar vollkommen geichartig
 sind, wenn man die Bewegung des Zurückziehens bzw. Anhaltens
 genau mit der Beschleunigung der Schwere (bei uns
-9,81 m/sec2) ausführt; denn nach der allgemeinen Relativitätstheorie ist
+9,81 m/sec²) ausführt; denn nach der allgemeinen Relativitätstheorie ist
 bekanntlich ein in beschleunigter oder verzögerter Bewegung begriffenes
 System einem Schwerefeld von derselben Beschleunigung
 vollkommen gleichwertig. Man kann also sagen, daß bei
@@ -260,11 +260,11 @@ dann zu einer oder mehreren an die Wände angelegten
 Kugeln vereinigt (Abb. 66 rechts) zur Ruhe kommt. (Man vergleiche
 hierzu das früher über die Vorgänge in einer Flasche Gesagte, Abb. 62 und 63.)
 
-<div align="center" float="right"><img alt="Verschiedene Gefäße für die Aufbewahrung von Flüssigkeiten" src="abb67.png"/>
-Abb. 67. Bei Fehlen der Schwere müßten die sonst
+<div class="image" float="right"><img alt="Verschiedene Gefäße für die Aufbewahrung von Flüssigkeiten" src="abb67.png"/>
+<p>Abb. 67. Bei Fehlen der Schwere müßten die sonst
 üblichen Flüssigkeitsgefäße durch verschließbar ausgeführte
 Schläuche (links), Gummiballons (Mitte)
-oder handspritzenartige Gefäße (rechts) ersetzt werden.</div>
+oder handspritzenartige Gefäße (rechts) ersetzt werden.</p></div>
 
 Mit Rücksicht auf dieses ungewöhnliche Verhalten der Flüssigkeiten würde keines
 der üblichen Gefäße wie Flaschen, Trinkgläser, Kochtöpfe, Krüge, Waschbecken usw.
@@ -291,8 +291,8 @@ Mundstück ausgestattet) nun auch zum Trinken
 benützt werden, an Stelle der jetzt unbrauchbar gewordenen
 sonst üblichen Trinkgefäße.
 
-<div align="center" float="left"><img alt="Füllen eines Wassergefäßes im schwerelosen Zustand" src="abb68.png"/>
-Abb. 68. Füllen eines Wassergefäßes im schwerelosen Zustand.</div>
+<div class="image" float="left"><img alt="Füllen eines Wassergefäßes im schwerelosen Zustand" src="abb68.png"/>
+<p>Abb. 68. Füllen eines Wassergefäßes im schwerelosen Zustand.</p></div>
 
 Aber auch die verschiedenen Eßgeräte wie Teller, Schüsseln,
 Löffel usw. ließen sich nicht mehr verwenden. Eine unvorsichtige
@@ -320,14 +320,14 @@ nur mehr durch Abreiben mittels feuchter, nach Bedarf auch
 eingeseifter Tücher, Schwämme oder dgl. bewerkstelligt werden,
 so gut oder schlecht es auf diese Art eben ginge.
 
-<div align="center" float="left"><img alt="Entleeren eines Flüssigkeitsgefäßes bei Fehlen der Schwere" src="abb69.png"/>
-Abb. 69. Das Entleeren eines Flüssigkeitsgefäßes kann bei Fehlen der Schwere in
+<div class="image" float="left"><img alt="Entleeren eines Flüssigkeitsgefäßes bei Fehlen der Schwere" src="abb69.png"/>
+<p>Abb. 69. Das Entleeren eines Flüssigkeitsgefäßes kann bei Fehlen der Schwere in
 zweckdienlicher Weise nur durch Herausschieben (-pressen) des Inhaltes
-bewerkstelligt werden.</div>
+bewerkstelligt werden.</p></div>
 
-<div align="center" float="right"><img alt="Austritt des Inhalts eines Gummiballons" src="abb70.png"/>
-Abb. 70. Bei elastischen, unter Drück gefüllten Gummiballonen fließt der
-Inhalt bei Öffnen des Hahnes von selbst aus.</div>
+<div class="image" float="right"><img alt="Austritt des Inhalts eines Gummiballons" src="abb70.png"/>
+<p>Abb. 70. Bei elastischen, unter Drück gefüllten Gummiballonen fließt der
+Inhalt bei Öffnen des Hahnes von selbst aus.</p></div>
 
 Je näher wir also die Sache betrachten, desto mehr müssen wir
 erkennen, daß es in Wirklichkeit keineswegs ein ganz ungetrübtes

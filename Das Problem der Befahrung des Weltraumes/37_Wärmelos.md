@@ -53,35 +53,35 @@ Dieser Umstand würde es ermöglichen, die Temperatur von Körpern im
 leeren Weltraum auf einfache Weise und in weitgehendem Maße
 willkürlich zu beeinflussen.
 
-<div align="center" float="right"><img alt="Erwärmung eines Körpers im leeren
+<div class="image" float="right"><img alt="Erwärmung eines Körpers im leeren
 Weltraum mittels Sonnenstrahlung" src="abb71.png"/>
-Abb. 71. Erwärmung eines Körpers im leeren
+<p>Abb. 71. Erwärmung eines Körpers im leeren
 Weltraum mittels Sonnenstrahlung, durch entsprechende
-Wahl seiner Oberflächenbeschaffenheit.</div>
+Wahl seiner Oberflächenbeschaffenheit.</p></div>
 
 Soll sich ein Gegenstand im Weltraum erwärmen, so wird man
 demnach seine der Sonne zugekehrte Seite mattschwarz und die
 Schattenseite hellspiegelnd machen (Abb. 71); oder man schirmt die
 Schattenseite mittels eines Spiegels gegen den Weltraum ab (Abb. 72).
 
-<div align="center" float="left"><img alt="Erwärmung eines Körpers durch Abschirmung seiner Schattenseite
+<div class="image" float="left"><img alt="Erwärmung eines Körpers durch Abschirmung seiner Schattenseite
 gegen den leeren Weltraum mittels eines Spiegels" src="abb72.png"/>
-Abb. 72. Erwärmung eines Körpers durch Abschirmung seiner Schattenseite
-gegen den leeren Weltraum mittels eines Spiegels.</div>
+<p>Abb. 72. Erwärmung eines Körpers durch Abschirmung seiner Schattenseite
+gegen den leeren Weltraum mittels eines Spiegels.</p></div>
 
-<div align="center" float="right"><img alt="Erhitzung eines Körpers durch Konzentration von
+<div class="image" float="right"><img alt="Erhitzung eines Körpers durch Konzentration von
 Sonnenstrahlen auf denselben mittels eines Hohlspiegels" src="abb73.png"/>
-Abb. 73. Starke Erhitzung eines Körpers durch Konzentration von
-Sonnenstrahlen auf denselben mittels eines Hohlspiegels.</div>
+<p>Abb. 73. Starke Erhitzung eines Körpers durch Konzentration von
+Sonnenstrahlen auf denselben mittels eines Hohlspiegels.</p></div>
 
 Benutzt man hierzu einen Sammelspiegel, der außerdem noch
 Sonnenstrahlen in entsprechender Stärke auf den Körper hinlenkt,
 dann könnte dessen Temperatur auch sehr hoch gebracht werden
 (Abb. 73).
 
-<div align="center" float="left"><img alt="Abkühlung eines Körpers im leeren Weltraum" src="abb74.png"/>
-Abb. 74. Abkühlung eines Körpers im leeren
-Weltraum durch entsprechende Wahl seiner Oberflächenbeschaffenheit.</div>
+<div class="image" float="left"><img alt="Abkühlung eines Körpers im leeren Weltraum" src="abb74.png"/>
+<p>Abb. 74. Abkühlung eines Körpers im leeren
+Weltraum durch entsprechende Wahl seiner Oberflächenbeschaffenheit.</p></div>
 
 Soll sich hingegen ein Körper im Weltraum abkühlen, dann muß seine
 Sonnenseite spiegelnd gemacht und seine Schattenseite mattschwarz
@@ -89,10 +89,10 @@ gelassen werden (Abb. 74); oder man schirmt ihn mittels eines
 Spiegels gegen die Sonne ab (Abb. 75). Er wird dann durch Ausstrahlung
 in den Weltraum immer mehr von seiner Wärme verlieren;
 denn diese könnte sich nun nicht mehr durch Leitung aus der
-<div align="center" float="left"><img alt="Abkühlung eines Körpers
+<div class="image" float="left"><img alt="Abkühlung eines Körpers
 durch Abschirmung desselben gegen die Sonnenstrahlung mittels eines Spiegels" src="abb75.png"/>
-Abb. 75. Abkühlung eines Körpers durch Abschirmung desselben gegen die
-Sonnenstrahlung mittels eines Spiegels.</div>
+<p>Abb. 75. Abkühlung eines Körpers durch Abschirmung desselben gegen die
+Sonnenstrahlung mittels eines Spiegels.</p></div>
 Umgebung beständig ersetzen, wie dies auf der Erde infolge
 Berührung mit der umgebenden Luft geschieht, während die Ergänzung
 seiner Wärme durch Zustrahlung eben durch die erwähnte

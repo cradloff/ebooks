@@ -11,10 +11,10 @@ richtiger Wahl des Anstellwinkels den Überschuß an Fliehkraft gerade aufhebt,
 und auf diese Weise das Fahrzeug zwingt, in der Kreisbahn zu
 Verbleiben (Abb. 44).
 
-<div align="center" float="right"><img alt="Wirkungsweise der Tragflächen" src="abb42.png"/>Abb. 42.
-Die grundsätzliche Wirkungsweise der Tragﬂächen beim normalen Drachenflug:
+<div class="image" float="right"><img alt="Wirkungsweise der Tragflächen" src="abb42.png"/>
+<p>Abb. 42. Die grundsätzliche Wirkungsweise der Tragflächen beim normalen Drachenflug:
 Der durch den Luftwiderstand bedingte „Auftrieb“ ist nach ob e n gerichtet und
-trägt so das Flugzeug.</div>
+trägt so das Flugzeug.</p></div>
 
 Für die Ausführung dieses Manövers wurde absichtlich die Höhe
 von 75 km über der Erdoberfläche gewählt; denn dort ist die
@@ -33,10 +33,10 @@ aufgehört hat zu bestehen. Das Raumschiff kreist dann
 in einer freien Umlaufbahn schwebend um die Erde
 („Freie Kreisbewegung”, Abb. 44).
 
-<div align="center" float="left"><img alt="Wirkungsweise der Tragflächen während der erzwungenen Kreisbewegung" src="abb43.png"/>
-Abb. 43. Wirkungsweise der Tragﬂächen Während der „erzwungenen Kreisbewegung“
+<div class="image" float="left"><img alt="Wirkungsweise der Tragflächen während der erzwungenen Kreisbewegung" src="abb43.png"/>
+<p>Abb. 43. Wirkungsweise der Tragﬂächen Während der „erzwungenen Kreisbewegung“
 eines landenden Raumschiffes. Hier erzeugt der Luftwiderstand einen zur
-Erde (nach abwärts) gerichteten „Abtrieb“, der den Überschuß an Fliehkraft aufhebt.</div>
+Erde (nach abwärts) gerichteten „Abtrieb“, der den Überschuß an Fliehkraft aufhebt.</p></div>
 
 Da sich aber infolge des Luftwiderstandes die Fahrgeschwindigkeit
 andauernd weiter vermindert, nimmt auch die Fliehkraft
@@ -53,11 +53,11 @@ Tragflächen getragen, bis es schließlich im Gleitflug niedergeht.
 
 Auf diese Weise wäre es möglich, den Weg durch die Lufthülle
 dermaßen auszudehnen, daß dabei sogar die ganze Erde
-<div align="center" float="left"><img alt="Landung in erzwungener Kreisbewegung" src="abb44.png"/>Abb. 44.
-Landung in „erzwungener Kreisbewegung“. (Die Lufthülle
-und die Landungsspirale ist in der Abbildung —— der besseren Übersichtlichkeit
+<div class="image" float="left"><img alt="Landung in erzwungener Kreisbewegung" src="abb44.png"/>
+<p>Abb. 44. Landung in „erzwungener Kreisbewegung“. (Die Lufthülle
+und die Landungsspirale ist in der Abbildung — der besseren Übersichtlichkeit
 wegen — gegenüber der Erde höher, als es der Wirklichkeit entspricht, gezeichnet.
-Würde maßstabrichtig den Verhältnissen der Abb. 8 gemäß aussehen müssen).</div>
+Würde maßstabrichtig den Verhältnissen der Abb. 8 gemäß aussehen müssen).</p></div>
 einige Male umfahren würde. Im Verlaufe dessen könnte aber
 durch Anwendung von Fallschirmen, die hinterher nachgezogen
 werden, zum Teil durch die Wirkung des eigenen Luftwiderstandes

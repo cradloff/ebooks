@@ -63,21 +63,15 @@ deren Halbmesser (Abstand vom Erdmittelpunkt) 42 300 km beträgt
 Umlaufgeschwindigkeit von 3080 Meter je Sekunde, eine Umlauf—
 Winkelgeschwindigkeit, welche ebenso groß ist, wie jene der
 Erdrotation. D. h. aber nichts anderes, als daß ein Körper in einer
+dieser freien Umlaufbahnen die Erde ebenso schnell
+umkreist, als sie sich selber dreht: nämlich einmal in
+einem Tage („Stationärer Umlauf“)
 
-dieser freien Um—
-laufbahnen die Er-
-de ebenso schnell
-umkreist, als sie
-sich selber dreht :.
-nämlich einmal in
-einem Tage („Sta-
-tionärerUmlauf“)_
-
-<div align="center" float="left"><img alt="Veranschaulichung einer freischwebenden Umlaufbahn um die Erde" src="abb54.png"/>
-Abb. 54. Jeder Körper, der die Erde in der Ebene des
+<div class="image" float="left"><img alt="Veranschaulichung einer freischwebenden Umlaufbahn um die Erde" src="abb54.png"/>
+<p>Abb. 54. Jeder Körper, der die Erde in der Ebene des
 Äquators, 42 300 km entfernt vom Erdmittelpunkte, in
 kreisförmiger Bahn umläuft, verharrt freischwebend beständig
-über demselben Punkte der Erdoberfläche.</div>
+über demselben Punkte der Erdoberfläche.</p></div>
 
 Richten wir es nun außerdem noch so ein, daß die
 Umlaufbahn genau in der Äquatorebene liegt,
@@ -90,8 +84,8 @@ selbst jedoch gar nicht vorhanden, dessen Tragkraft aber
 ersetzt wäre durch die Wirkung der Fliehkraft (Abb. 55).
 
 Diese schwebende „Turmspitze” könnte nun bis zu jeder Größe
-ausgebaut und zweckentsprechend eingerichtet werden. Es ent—
-stünde so ein Bauwerk, das fest zur Erde gehört, ja sogar
+ausgebaut und zweckentsprechend eingerichtet werden. Es entstünde
+so ein Bauwerk, das fest zur Erde gehört, ja sogar
 dauernd in unveränderlicher Stellung zu ihr verharrt und sich
 doch weit über der Lufthülle bereits im leeren Weltraum befindet:
 eine Warte mit der „Seehöhe 35900000 Meter über
@@ -100,10 +94,10 @@ im Meridian von Berlin errichtet haben, dann wäre sie von dort
 ständig an jener Himmelsstelle zu erblicken, an welcher sich die
 Sonne in der Zeit um Mitte Oktober zur Mittagsstunde befindet.
 
-<div align="center" float="right"><img alt="Veranschaulichung eines gedachten Riesenturmes" src="abb55.png"/>
-Abb. 55. Ein Körper, der die Erde wie in Abb. 54 umläuft, verhält sich so, als ob er
+<div class="image" float="right"><img alt="Veranschaulichung eines gedachten Riesenturmes" src="abb55.png"/>
+<p>Abb. 55. Ein Körper, der die Erde wie in Abb. 54 umläuft, verhält sich so, als ob er
 die Spitze eines riesigen (natürlich nur gedachten), 35900000 Meter hohen
-Turmes bilden würde.</div>
+Turmes bilden würde.</p></div>
 
 Wollte man die Warte jedoch statt über einem Punkte des Äquators über einer
 anderen Stelle der Erde haben, dann müßte man allerdings darauf verzichten, sie in

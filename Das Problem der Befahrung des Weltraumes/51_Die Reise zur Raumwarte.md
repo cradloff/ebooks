@@ -114,11 +114,11 @@ Doch immer langsamer wird die Fahrt und näher kommen
 wir dem Erdboden, bis wir schließlich in der Nähe eines Hafens
 auf dem Meere niedergehen.
 
-<div align="center"><img alt="Die gesamte Raumwarte mit ihren 3 Objekten" src="abb94.png"/>
-Abb. 94. Die gesamte Raumwarte mit ihren 3 Objekten, gesehen durch die
+<div class="image"><img alt="Die gesamte Raumwarte mit ihren 3 Objekten" src="abb94.png"/>
+<p>Abb. 94. Die gesamte Raumwarte mit ihren 3 Objekten, gesehen durch die
 Türöffnung eines Raumschiffes. Im Hintergrunde — 35 900 km entfernt — die
 Erde. Der Mittelpunkt ihres Umfangskreises ist jene auf dem Äquator gelegene
 Stelle der Erdoberfläche, über welcher die Raumwarte ständig schwebend verharrt
 (Siehe Seite 98, 99). Dieselbe liegt, so wie die Annahme hier getroffen
-wurde, im Meridian von Berlin, und zwar etwa in der Südspitze von Kamerun.</div>
+wurde, im Meridian von Berlin, und zwar etwa in der Südspitze von Kamerun.</p></div>
 

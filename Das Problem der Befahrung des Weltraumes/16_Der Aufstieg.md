@@ -4,8 +4,8 @@ Der Aufstieg.
 Von den wesentlichsten Teilen, aus welchen eine Raumfahrt
 sich zusammensetzt: dem Aufstieg, der Fernfahrt durch den Weltraum
 und der Rückkehr zur Erde (der Landung), wollen wir
-<div align="center"><img alt="Veranschaulichung der Steiggeschwindigkeit beim Steilaufstieg" src="abb19.png"/>Abb. 19. 
-Lotrechter Aufstieg — „Steilaufstieg” — einer Raumrakete.</div>
+<div class="image"><img alt="Veranschaulichung der Steiggeschwindigkeit beim Steilaufstieg" src="abb19.png"/>
+<p>Abb. 19. Lotrechter Aufstieg — „Steilaufstieg” — einer Raumrakete.</p></div>
 hier nur den vorerst wichtigsten Teil: den Aufstieg behandeln,
 denn dieser stellt an die Leistungsfähigkeit des Antriebes
 weitaus die größten Anforderungen und ist deshalb auch für den
@@ -26,9 +26,9 @@ Aufstieg bis zur gewünschten Höhe nur mehr unter
 Wirkung der unterdessen im Fahrzeug aufgespeicherten
 lebendigen Kraft als „Wurf nach aufwärts” vor sich gehen kann.
 
-<div align="center"><img alt="Veranschaulichung des Flachaufstieges" src="abb20.png"/>Abb. 20.
-„Flachaufstieg“ einer Raumrakete.
-Der Energieaufwand für den Aufstieg ist hierbei am geringsten.</div>
+<div class="image"><img alt="Veranschaulichung des Flachaufstieges" src="abb20.png"/>
+<p>Abb. 20. „Flachaufstieg“ einer Raumrakete.
+Der Energieaufwand für den Aufstieg ist hierbei am geringsten.</p></div>
 
 Beim Flachaufstieg hingegen erhebt sich das
 Fahrzeug nicht lotrecht, sondern in schiefer (geneigter) Richtung, und es
@@ -119,10 +119,10 @@ der dabei auftretenden Schwankungen im Verhältnisse der Fahr-
 und Abstoßungsgeschwindigkeit v/c der Wirkungsgrad noch immer
 im allgemeinen nicht ungünstig ist;
 
-<div align="center" float="left"><img alt="Veranschaulichung des Rückstoßes beim Aufstieg" src="abb21.png"/>Abb. 21.
-Solange das Fahrzeug Während des Aufstieges durch den Antrieb unterstützt
+<div class="image" float="left"><img alt="Veranschaulichung des Rückstoßes beim Aufstieg" src="abb21.png"/>
+<p>Abb. 21. Solange das Fahrzeug Während des Aufstieges durch den Antrieb unterstützt
 (getragen) werden muß, vermindert sich die vortreibende Kraft desselben
-um das Gewicht des Fahrzeuges.</div>
+um das Gewicht des Fahrzeuges.</p></div>
 
 Doch nebst dem in allen Fällen interessanten Problem des Wirkungsgrades
 besteht speziell für den Aufstieg noch eine zweite Frage von hervorragerider
@@ -143,11 +143,11 @@ desto geringer wird dann aber auch der Betriebsstoffverbrauch
 sein, 'der damit verbunden ist. Wir sehen also, daß man beim
 Aufstieg trachten muß, möglichst rasch hohe Geschwindigkeit zu erlangen.
 
-<div align="center" float="left"><img alt="Veranschaulichung der Kräfte beim Aufstieg" src="abb22.png"/>Abb. 22.
-Während der Dauer des Antriebes werden — infolge der dadurch hervorgerufenen
+<div class="image" float="left"><img alt="Veranschaulichung der Kräfte beim Aufstieg" src="abb22.png"/>
+<p>Abb. 22. Während der Dauer des Antriebes werden — infolge der dadurch hervorgerufenen
 Beschleunigung (Geschwindigkeits-Zunahme) des Fahrzeuges — in demselben
 Trägheitskräfte erweckt, die sich für das Fahrzeug wie eine Erhöhung der Schwere
-äußern.</div>
+äußern.</p></div>
 
 Allerdings ist bei Raumschiffen, welche für Menschenbeförderung geeignet sein sollen,
 darin bald eine Grenze gesetzt. Denn bei einer (wie hier durch den Antrieb) erzwungenen,
@@ -208,13 +208,13 @@ gesundheitliche Zuträglichkeit begrenzt ist — eine größere wirkliche
 Beschleunigung ergibt. Letzteres hat aber zur Folge, daß
 die für den Aufstieg notwendige Höchstgeschwindigkeit früher erreicht wird.
 
-<div align="center" float="left"><img alt="Beschleunigungspolygon für verschiedene Aufstiege" src="abb23.png"/>Abb. 23.
-Beschleunigungspolygon für:
-1.) lotrechten‚ 2.) schiefen, 3.) wagerechten Aufstieg.
+<div class="image" float="left"><img alt="Beschleunigungspolygon für verschiedene Aufstiege" src="abb23.png"/>
+<p>Abb. 23. Beschleunigungspolygon für:<br/>
+1.) lotrechten‚ 2.) schiefen, 3.) wagerechten Aufstieg.</p>
 
-Man erkennt deutlich, daß trotz gleichbleibender ideeller Beschleunigung (Stärke
+<p>Man erkennt deutlich, daß trotz gleichbleibender ideeller Beschleunigung (Stärke
 des Antriebes) die wirkliche Beschleunigung von 1.) nach 3.) immer größer wird. (Das
-Beschleunigungspolygon für 2.) ist durch Schraffur hervorgehoben.)</div>
+Beschleunigungspolygon für 2.) ist durch Schraffur hervorgehoben.)</p></div>
 
 Der möglichst baldige Übergang in die freie Umlaufbewegung aber verursacht,
 daß das Fahrzeug an und für sich rascher als sonst (und zwar durch das

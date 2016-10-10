@@ -72,3 +72,10 @@ a.footnote {
 	vertical-align: sub;
 }
 
+/* Bilder mit Bildunterschriften */
+.image {
+	text-align: center;
+	font-size: x-small;
+}
+
+

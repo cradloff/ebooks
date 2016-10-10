@@ -2,17 +2,17 @@ Der Panzer der Erdlufthülle.
 ============================
 
 Außer der Schwerkraft spielt auch die Lufthülle, welche
-manche Himmelskörper besitzen — ganz besonders aber natür—
-lich jene der Erde — für die Raumfahrt eine äußerst wichtige
+manche Himmelskörper besitzen — ganz besonders aber natürlich
+jene der Erde — für die Raumfahrt eine äußerst wichtige
 Rolle. Während dieselbe für die Landung sehr wertvoll ist,
 bildet sie hingegen für den Aufstieg ein recht bedeutendes
 Hindernis.
 
 Die Höhe der gesamten Erdlufthülle wird nach Beobachtungen
 an Meteorfällen und Nordlichterscheinungen auf einige 100 (vielleicht
-<div align="center" float="right"><img alt="Lufthülle der Erde" src="abb07.png"/>Abb. 8. 
-Das Bild zeigt die Lufthülle, unter der Voraussetzung,
-daß sie etwa 400 km hoch ist, im richtigen Verhältnis zur Erdkugel.</div>
+<div class="image" float="right"><img alt="Lufthülle der Erde" src="abb07.png"/>
+<p>Abb. 8. Das Bild zeigt die Lufthülle, unter der Voraussetzung,
+daß sie etwa 400 km hoch ist, im richtigen Verhältnis zur Erdkugel.</p></div>
 400) Kilometer geschätzt (Abb. 8). Doch nur in ihren tiefsten, einige
 Kilometer hoch über der Erde lagernden Schichten, sozusagen nur am
 „Grunde des Luftmeeres” ist auch jene Luftdichte vorhanden, die für

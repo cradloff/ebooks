@@ -114,9 +114,9 @@ gesorgt werden, daß fortgesetzt frischer Betriebsstoff in den Ofen
 nachströmt. Hierzu ist aber, wie früher bereits erwähnt, notwendig,
 daß die Betriebsstoffe gegen den Ofen einen gewissen
 Überdruck aufweisen. Soll letzterer schon in den Behältern vorhanden
-<div align="center"><img alt="Schematische Darstellung des Raketenmotors" src="abb24.png"/>
-Abb. 24. Der Verbrennungsraum oder „Ofen“ und die „Düse“, die Hauptbestandteile
-des Gleichdruck-Raketen-Motors.</div>
+<div class="image"><img alt="Schematische Darstellung des Raketenmotors" src="abb24.png"/>
+<p>Abb. 24. Der Verbrennungsraum oder „Ofen“ und die „Düse“, die Hauptbestandteile
+des Gleichdruck-Raketen-Motors.</p></div>
 sein, dann müßten dieselben auch dementsprechende Wandstärke
 besitzen, was bei größeren Behältern jedoch Schwierigkeiten
 bereiten dürfte. Andernfalls wieder müssen Pumpen mitgeführt
@@ -174,7 +174,7 @@ Form von Betriebsstoffen in den Weltraum mitnehmen zu können
 und damit stehen wir vor der entscheidend wichtigen Frage:
 der Bauweise der Behälter für die Betriebsstoffe.
 
-<div align="center" float="right"><img alt="Darstellung der Rakete in verschiedenen Bewegungszuständen" src="abb26.png"/>Abb. 26.</div>
+<div class="image" float="right"><img alt="Darstellung der Rakete in verschiedenen Bewegungszuständen" src="abb26.png"/><p>Abb. 26.</p></div>
 
 Wie groß ist nun eigentlich die Menge der mitzunehmenden
 Betriebsstoffe? Wir wissen, daß der Antrieb des

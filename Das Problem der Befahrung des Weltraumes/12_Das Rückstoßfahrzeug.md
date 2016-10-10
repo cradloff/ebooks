@@ -22,10 +22,10 @@ vorhanden ist, an dem eine Abstoßung möglich wäre. Ja der
 Antrieb wird sogar gerade dann erst seine größte Wirksam—
 keit entfalten können, weil alle äußeren Widerstände entfallen.
 
-<div align="center" float="right"><img alt="Fahrzeug mit Rückstoßantrieb" src="abb14.png"/>Abb. 14. 
-Ein primitives Fahrzeug mit Rückstoßantrieb: Der Wagen wird
+<div class="image" float="right"><img alt="Fahrzeug mit Rückstoßantrieb" src="abb14.png"/>
+<p>Abb. 14. Ein primitives Fahrzeug mit Rückstoßantrieb: Der Wagen wird
 durch andauerndes Abschießen eines Gewehres, vermöge des dabei erzeugten
-„Rückstoßes“, fortbewegt.</div>
+„Rückstoßes“, fortbewegt.</p></div>
 
 Bei der technischen Ausgestaltung eines derartigen Fahrzeuges
 wird man nun anstreben müssen, daß zur Erzeugung einer bestimmten

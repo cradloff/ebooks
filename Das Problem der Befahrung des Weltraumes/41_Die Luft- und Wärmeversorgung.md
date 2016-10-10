@@ -5,9 +5,9 @@ Auch die Beheizung der Raumwarte erfolgt durch unmittelbare
 Ausnutzung der Sonnenstrahlung, und zwar nach dem Prinzip der Luftheizung
 gleichzeitig mit der Belüftung.
 
-<div align="center" float="left"><img alt="Schematische Darstellung der Belüftungsanlage" src="abb80.png"/>
-Abb. 80. Schematische Darstellung der Belüftungsanlage. Das gekühlte und das beheizte
-Rohr könnte z. B. ähnlich wie in Abb. 77‚ D bzw. K ausgeführt sein.</div>
+<div class="image" float="left"><img alt="Schematische Darstellung der Belüftungsanlage" src="abb80.png"/>
+<p>Abb. 80. Schematische Darstellung der Belüftungsanlage. Das gekühlte und das beheizte
+Rohr könnte z. B. ähnlich wie in Abb. 77‚ D bzw. K ausgeführt sein.</p></div>
 
 Zu diesem Zwecke befindet sich die ganze Luft der Raumwarte in ständigem
 Kreislauf: zwischen den Räumen, in denen sie benötigt wird, und einer

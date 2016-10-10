@@ -37,10 +37,10 @@ aus einer kleinen Kammer, die zwei luftdicht abschließende
 Türen besitzt, von denen die eine in das Innere des Gebäudes
 und die andere nach außen führt (Abb. 76).
 
-<div align="center" float="left"><img alt="Grundsätzliche Anordnung einer Luftschleuse" src="abb76.png"/>
-Abb. 76. Grundsätzliche Anordnung einer Luftschleuse,
+<div class="image" float="left"><img alt="Grundsätzliche Anordnung einer Luftschleuse" src="abb76.png"/>
+<p>Abb. 76. Grundsätzliche Anordnung einer Luftschleuse,
 für den Verkehr zwischen einem lufterfüllten Raum (z.B.
-das Innere der Raumwarte) und dem leeren Weltraum<a class="refnote" id="rn1" href="#fn1">1</a></div>
+das Innere der Raumwarte) und dem leeren Weltraum<a class="refnote" id="rn1" href="#fn1">1</a></p></div>
 
 Will man beispielsweise die Warte verlassen („Ausschleusen”),
 dann begibt man sich im Raumanzug durch die Innentür in die Schleuse,

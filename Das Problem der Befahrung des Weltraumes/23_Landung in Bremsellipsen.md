@@ -13,9 +13,9 @@ ist, mittels eines nachgezogenen Fallschirmes
 so kräftig zu bremsen, wie die schon erwähnte Gefahr zu starker
 Erwärmung es noch gestattet.
 
-<div align="center" float="left"><img alt="Landung in Bremsellipsen" src="abb45.png"/>Abb. 45.
-Landung in „Bremsellipsen“. (Die Lufthülle und die Landungsbahn sind hier, ebenso
-wie in Abb. 44, höher als der Wirklichkeit entsprechend gezeichnet. Vergl. Abb. 8.)</div>
+<div class="image" float="left"><img alt="Landung in Bremsellipsen" src="abb45.png"/>
+<p>Abb. 45. Landung in „Bremsellipsen“. (Die Lufthülle und die Landungsbahn sind hier, ebenso
+wie in Abb. 44, höher als der Wirklichkeit entsprechend gezeichnet. Vergl. Abb. 8.)</p></div>
 
 Allerdings kann dadurch die Fahrgeschwindigkeit noch nicht derart
 vermindert werden, wie dies notwendig wäre, um damit das

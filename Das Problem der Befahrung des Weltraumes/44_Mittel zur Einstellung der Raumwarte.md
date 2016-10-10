@@ -16,9 +16,9 @@ immer wieder erteilt werden, fortwährend
 auszugleichen, sondern es muß auch dem Einfluß der Erdbewegung
 um die Sonne andauernd Rechnung getragen werden.
 
-<div align="center" float="right"><img alt="Wirkungsweise eines Schwenkmotors" src="abb81.png"/>
-Abb. 81. Wirkungsweise eines Schwenkmotors
-(siehe Buchtext Seite 133 unten).</div>
+<div class="image" float="right"><img alt="Wirkungsweise eines Schwenkmotors" src="abb81.png"/>
+<p>Abb. 81. Wirkungsweise eines Schwenkmotors
+(siehe Buchtext Seite 133 unten).</p></div>
 
 Andererseits aber ist dies auch aus dem Grunde notwendig,
 um die Warte zur Erfüllung ihrer besonderen, später noch zu
@@ -33,9 +33,9 @@ es, ihren Lauf beliebig rasch zu vermindern oder stillzusetzen.
 Sie sind so eingebaut, daß ihre verlängerte theoretische Drehachse durch
 den Schwerpunkt des Gebäudes geht.
 
-<div align="center" float="right"><img alt="Anordnung der Schwenkmotoren" src="abb82.png"/>
-Abb. 82. Anordnung der Schwenkmotoren. Die 3 Achsen stehen aufeinander senkrecht und
-gehen durch den Schwerpunkt des Gebäudes.</div>
+<div class="image" float="right"><img alt="Anordnung der Schwenkmotoren" src="abb82.png"/>
+<p>Abb. 82. Anordnung der Schwenkmotoren. Die 3 Achsen stehen aufeinander senkrecht und
+gehen durch den Schwerpunkt des Gebäudes.</p></div>
 
 Wird nun ein solcher Schwenkmotor angelassen (Abb. 81), dann dreht sich
 gleichzeitig mit seinem Rotor (Anker) auch sein Stator (der sonst feststehende Teil
@@ -63,6 +63,4 @@ ihrer Hilfe dem Gebäude in jeder beliebigen Richtung eine Beschleunigung
 erteilen kann.
 
 <div class="footnote" id="fn1"><a href="#rn1">1</a>Siehe Seite 46, 47.</div>
-
-
 

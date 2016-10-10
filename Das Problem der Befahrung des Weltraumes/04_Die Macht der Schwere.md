@@ -36,23 +36,24 @@ erst in unendlicher Entfernung zu Null. Ebenso wie die Erde
 übt natürlich auch die Sonne, der Mond und überhaupt jeder
 Himmelskörper eine seiner Größe entsprechende Schwerkraft aus.
 
-<div align="center"><img alt="Der Verlauf der Massenanziehungskraft (Schwerkraft) der
+<div class="image"><img alt="Der Verlauf der Massenanziehungskraft (Schwerkraft) der
 Erde" src="abb01.png"/>
-Abb. I. Der Verlauf der Massenanziehungskraft (Schwerkraft) der
+<p>Abb. 1. Der Verlauf der Massenanziehungskraft (Schwerkraft) der
 Erde. Die mit zunehmender Entfernung quadratisch abnehmende Stärke der
 Anziehung ist durch den Abstand der Schwerkraftkurve von der wagerechten
-Achse dargestellt.</div>
+Achse dargestellt.</p></div>
 
 Die zweite grundlegende Eigenschaft der Masse besteht darin,
 daß jede Masse stets bestrebt ist, in dem Bewegungszustand,
 in welchem sie sich eben befindet, auch weiter
 zu verharren (Trägheitsgesetz). Demzufolge wird jede Masse,
-<div align="center" float="left"><img alt="Veranschaulichung der Massenträgheitskräfte" src="abb02.png"/>
-Abb. 2.</div>
 deren Bewegung man beschleunigen, verzögern oder der Richtung 
 nach ändern will, diesem Bestreben Widerstand entgegensetzen,
 indem sie durch Entwicklung entgegenwirkender, sogenannter 
 „Massenträgheitskräfte” antwortet (Abb. 2).
+
+<div class="image"><img alt="Veranschaulichung der Massenträgheitskräfte" src="abb02.png"/>
+<p>Abb. 2.</p></div>
 
 Man bezeichnet dieselben im allgemeinen als Trägheitswiderstand,
 oder in besonderem Falle auch als Fliehkraft. Letzteres
@@ -65,8 +66,6 @@ und die Fliehkraft sind Massenkräfte.
 Wie früher erwähnt, erstreckt sich die Wirkung der Erdschwerkraft,
 immer schwächer werdend, bis in unendliche Entfernung.
 Wir können demnach den Anziehungsbereich
-<div align="center" float="right"><img alt="Veranschaulichung der Fliehkraft" src="abb03.png"/>
-\3. Abb.</div>
 (das Schwerefeld) der Erde niemals völlig
 verlassen, nie die wirkliche Schwere grenze der Erde erreichen.
 Wohl aber läßt sich errechnen, welche Arbeitsleistung theoretisch
@@ -83,6 +82,8 @@ eines Kilogrammes diese Geschwindigkeit zu erteilen, ist eben
 dieselbe Arbeit von 6 380 Metertonnen erforderlich, die zur 
 Überwindung des ganzen Erdschwerefeldes je Kilogramm der Last laut
 Früherem aufgewendet werden müßte.
+
+<div class="image"><img alt="Veranschaulichung der Fliehkraft" src="abb03.png"/><p>3. Abb.</p></div>
 
 Doch wenn auch der Anziehungsbereich der Erde nie tatsächlich
 verlassen werden könnte, so gäbe es trotzdem Möglichkeiten,

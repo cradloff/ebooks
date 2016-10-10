@@ -22,8 +22,8 @@ stetig gekrümmt sind, damit die inneren Rohrwände auch in gewichtslosem
 Zustande von der durchströmenden Treibflüssigkeit
 genügend stark und andauernd berührt werden (Siehe Abb. 77).
 
-<div align="center" float="left"><img alt="Schema des Sonnenkraftwerkes der Raumwarte" src="abb77.png"/>
-Abb. 77. Schema des Sonnenkraftwerkes der Raumwarte.</div>
+<div class="image" float="left"><img alt="Schema des Sonnenkraftwerkes der Raumwarte" src="abb77.png"/>
+<p>Abb. 77. Schema des Sonnenkraftwerkes der Raumwarte.</p></div>
 
 Letztere befindet sich in ständigem, verlustlosem Kreislauf.
 Abweichend vom Gebräuchlichen, ist hier als Treibflüssigkeit

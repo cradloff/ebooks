@@ -53,8 +53,8 @@ hoher Drehzahl wäre auf diese Weise
 eine auch sehr bedeutende Vervielfachung der Schwerewirkung
 erzielbar.
 
-<div align="center" float="left"><img alt="Riesenzentrifuge in Betrieb" src="abb58.png"/>
-Abb. 58. Die Riesenzentrifuge in Betrieb.</div>
+<div class="image" float="left"><img alt="Riesenzentrifuge in Betrieb" src="abb58.png"/>
+<p>Abb. 58. Die Riesenzentrifuge in Betrieb.</p></div>
 
 Hingegen ist eine länger andauernde Verminderung oder
 Aufhebung der Schwere, also die Erzeugung eines dauernden
@@ -76,8 +76,8 @@ Fliehkräfte in einem Körper auf solche Art erweckt werden,
 daß er durch deren Wirkung in einen beobachtbaren schwerelosen
 Zustand versetzt wird.
 
-<div align="center" float="right"><img alt="Kräftespiel an einem frei fallenden Körper" src="abb59.png"/>
-Abb. 59. Kräftespiel an einem frei fallenden Körper.</div>
+<div class="image" float="right"><img alt="Kräftespiel an einem frei fallenden Körper" src="abb59.png"/>
+<p>Abb. 59. Kräftespiel an einem frei fallenden Körper.</p></div>
 
 Wohl aber ist es auch auf der Erde — allerdings nur für kurze
 Dauer — möglich, die Schwerkraft durch die dritte Massenkraft

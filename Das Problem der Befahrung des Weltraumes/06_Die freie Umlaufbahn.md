@@ -1,10 +1,12 @@
 Die freie Umlaufbahn.
+=====================
 
-<div align="center" float="right"><img alt="Kreisförmiger freier Umlauf
-eines Körpers um die Erde" src="abb05.png"/>Abb. 5. Kreisförmiger freier Umlauf
+<div class="image" float="right"><img alt="Kreisförmiger freier Umlauf
+eines Körpers um die Erde" src="abb05.png"/>
+<p>Abb. 5. Kreisförmiger freier Umlauf
 eines Körpers um die Erde. Das Gewicht desselben wird durch die dabei
 erzeugte Fliehkraft aufgehoben. Er befindet sich daher gegenüber der
-Erde in einem stabilen Zustand freien Schwebens.</div>
+Erde in einem stabilen Zustand freien Schwebens.</p></div>
 
 Um einen sicheren, stabilen Zustand der Schwerelosigkeit zu erlangen, müßten wir
 uns der Schwerkraftwirkung auf die zweite Art, nämlich durch Zuhilfenahme von
@@ -18,12 +20,13 @@ mit noch weiteren hierbei auftretenden Trägheitskräften, wenn
 die Umlaufbahn eine andere Form besitzt (Ellipse, Hyperbel, Parabel,
 Abb. 6).
 
-<div align="center" float="left"><img alt="Verschiedene freie 
-Umlaufbahnen um einen Himmelskörper" src="abb06.png"/>Abb. 6. Verschiedene freie 
+<div class="image" float="left"><img alt="Verschiedene freie 
+Umlaufbahnen um einen Himmelskörper" src="abb06.png"/>
+<p>Abb. 6. Verschiedene freie 
 Umlaufbahnen um einen Himmelskörper. Nach den Gesetzen der Gravitationsbewegung 
 muß stets ein Brennpunkt der Bahn (beim Kreis der Mittelpunkt)
 mit dem Massenmittelpunkt (Schwerpunkt) des umlaufenen Himmelskörpers
-zusammenfallen.</div>
+zusammenfallen.</p></div>
 
 Auf ähnliche Weise erfolgen alle Mond— und Planetenbewegungen.
 Da beispielsweise unser Mond die Erde mit einer mittleren Geschwindigkeit
@@ -45,8 +48,9 @@ der Anziehungskraft. Desto größer muß daher auch die
 entgegenwirkende Fliehkraft und demzufolge die Umlaufgeschwindigkeit
 sein (denn die Fliehkraft nimmt zu mit dem Quadrate
 der Umlaufgeschwindigkeit). Während
-<div align="center" float="right"><img alt="Verschiedene Umlaufgeschwindigkeiten je Entfernung zur Erde" src="abb07.png"/>Abb. 7. Die Umlaufgeschwindigkeit
-ist um so größer, je näher zum Anziehungszentrum die freie Umlaufbewegung erfolgt.</div>
+<div class="image" float="right"><img alt="Verschiedene Umlaufgeschwindigkeiten je Entfernung zur Erde" src="abb07.png"/>
+<p>Abb. 7. Die Umlaufgeschwindigkeit
+ist um so größer, je näher zum Anziehungszentrum die freie Umlaufbewegung erfolgt.</p></div>
 beispielsweise in der Entfernung des Mondes von der Erde eine Umlaufgeschwindigkeit
 von nur etwa 1000 Meter je Sekunde genügt, müßte diese für
 einen Körper, der die Erde nahe der Oberfläche schwebend umlaufen

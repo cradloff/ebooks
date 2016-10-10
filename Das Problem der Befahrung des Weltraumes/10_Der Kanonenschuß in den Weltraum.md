@@ -27,10 +27,10 @@ Mehr ließe sich dabei kaum je gewinnen, weil alles, was man
 diesem „Geschoßfahrzeug” auf die Reise mitgäbe, an Fracht,
 Meßgeräten oder gar an Fahrgästen, sich schon in der ersten Sekunde
 der Reise zu Brei verwandelt haben Würde; denn wohl
-<div align="center" float="left"><img alt="Die Jules Vernesche Riesenkanone" src="abb10.png"/>Abb. 10. 
-Die Jules Vernesche Riesenkanone zur Beschießung des Mondes. Das Geschoß ist
+<div class="image" float="left"><img alt="Die Jules Vernesche Riesenkanone" src="abb10.png"/>
+<p>Abb. 10. Die Jules Vernesche Riesenkanone zur Beschießung des Mondes. Das Geschoß ist
 hohl und zur Beförderung von Menschen bestimmt. Das Rohr
-ist als Schacht in den Erdboden eingelassen.</div>
+ist als Schacht in den Erdboden eingelassen.</p></div>
 nur massiver Stahl könnte dem ungeheueren Trägheitsdruck widerstehen,
 der auf alle Teile des Geschosses während der Zeit des Abschusses einwirken
 würde, während welcher es aus der Ruhelage auf die Geschwindigkeit

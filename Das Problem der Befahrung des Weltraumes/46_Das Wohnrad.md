@@ -9,8 +9,8 @@ von der Achse entfernt liegt und umso kleiner, je näher
 er sich zu ihr befindet; in der theoretischen Drehachse selbst
 ist sie gleich Null.
 
-<div align="center" float="left"><img alt="Drehgeschwindigkeit und Fliehkraft an einem rotierenden Körper" src="abb83.png"/>
-Abb. 83. Drehgeschwindigkeit und Fliehkraft an einem rotierenden Körper.</div>
+<div class="image" float="left"><img alt="Drehgeschwindigkeit und Fliehkraft an einem rotierenden Körper" src="abb83.png"/>
+<p>Abb. 83. Drehgeschwindigkeit und Fliehkraft an einem rotierenden Körper.</p></div>
 
 Demgemäß muß der rotierende Teil der Raumwarte so gestaltet sein, daß dessen
 Luftschleuse und die Kabelanschlüsse in der Mitte des Ganzen: in der Drehachse liegen,
@@ -19,13 +19,13 @@ denen man durch Fliehkraft Schwerewirkung erzeugen will, sich
 von der Achse entfernt: am Umfang befinden, weil dort die
 Fliehkraft am stärksten ist.
 
-<div align="center"><img alt="Das Wohnrad" src="abb84.png"/>
-Abb. 84. Das Wohnrad. Links: Axialer Schnitt.
+<div class="image"><img alt="Das Wohnrad" src="abb84.png"/>
+<p>Abb. 84. Das Wohnrad. Links: Axialer Schnitt.
 Rechts: Ansicht der der Sonne ständig zugekehrten
-Seite, ohne Sammelspiegel, teilweise im Schnitt.</div>
+Seite, ohne Sammelspiegel, teilweise im Schnitt.</p></div>
 
-<div align="center" float="left"><img alt="Richtungsverhältnisse im Wohnrad" src="abb85.png"/>
-Abb. 85. Richtungsverhältnisse im Wohnrad.</div>
+<div class="image" float="left"><img alt="Richtungsverhältnisse im Wohnrad" src="abb85.png"/>
+<p>Abb. 85. Richtungsverhältnisse im Wohnrad.</p></div>
 
 Diesen Bedingungen wird aber am besten entsprochen, wenn
 man das Bauwerk in der schon angedeuteten Form eines großen
@@ -63,12 +63,12 @@ schief statt parallel zueinander steht und alles „Wagerechte” (also
 z. B. die Wasserfläche der Badewanne) gekrümmt statt eben
 erscheint (Siehe Abb. 85).
 
-<div align="center"><img alt="Schematische Darstellung der Dreh-Luftschleuse des Wohnrades" src="abb86.png"/>
+<div class="image"><img alt="Schematische Darstellung der Dreh-Luftschleuse des Wohnrades" src="abb86.png"/>
 <table>
 <tr><td colspan="2">Abb. 86.</td></tr>
 <tr><td>Draufsicht auf die Außentür der</td><td>Axialer Schnitt durch die</td></tr>
-<tr><td colspan="2">Dreh-Luftschleuse des Wohnrades.
-(Siehe Abb. 84 und Buchtext Seite 141 oben.)
+<tr><td colspan="2">Dreh-Luftschleuse des Wohnrades.<br/>
+(Siehe Abb. 84 und Buchtext Seite 141 oben.)<br/>
 Die Kugellager sind so ausgeführt, daß sie in der Achsrichtung Spiel erlauben,
 wodurch das Schließen bzw. Lösen der äußeren Luftdichtung, welche die
 Schleuse bei offener Innentür mit dem Innern des Wohnrades luftdicht verbindet,
@@ -90,11 +90,11 @@ Alle diese Erscheinungen machen sich indessen um so weniger
 geltend, je größer der Raddurchmesser ist. Bei dem vorhin gewählten
 Fall (Durchmesser 30 Meter) wäre hiervon nur mehr Geringes fühlbar.
 
-<div align="center"><img alt="Schematische Darstellung des Kabelanschluß des Wohnrades" src="abb87.png"/>
+<div class="image"><img alt="Schematische Darstellung des Kabelanschluß des Wohnrades" src="abb87.png"/>
 <table>
 <tr><td colspan="2">Abb. 87.</td></tr>
 <tr><td>Draufsicht auf den</td><td>Axialer Schnitt durch den</td></tr>
-<tr><td colspan="2">Kabelanschluß des Wohnrades.
+<tr><td colspan="2">Kabelanschluß des Wohnrades.<br/>
 (Siehe Abb. 84, K und Buchtext Seite 141 unten.)</td></tr>
 </table></div>
 
@@ -120,8 +120,8 @@ gegenüber dem Weltraum in Ruhezustand und kann nun ebenso verlassen
 werden, als wenn das Wohnrad sich gar nicht drehen würde.
 Für das „Einschleusen” ist der Vorgang umgekehrt.
 
-<div align="center" float="right"><img alt="Treppenschacht des Wohnrades" src="abb88.png"/>
-Abb. 88. Treppenschacht des Wohnrades.</div>
+<div class="image" float="right"><img alt="Treppenschacht des Wohnrades" src="abb88.png"/>
+<p>Abb. 88. Treppenschacht des Wohnrades.</p></div>
 
 Bei einiger Übung kann auf das Andrehen der Schleuse aber auch
 verzichtetwerd‘en, da das Wohnrad ohnehin nur verhältnismäßig lang-
@@ -155,13 +155,13 @@ kann der Übergang zwischen dem im Radkranz herrschenden
 Zustand der Schwere und der Schwerefreiheit des Weltraums
 beliebig allmählich vollzogen werden.
 
-<div align="center"><img alt="Gesamtansicht der Sonnenseite des Wohnrades" src="abb89.png"/>
-Abb. 89. Gesamtansicht der Sonnenseite des Wohnrades. Der mittlere
+<div class="image"><img alt="Gesamtansicht der Sonnenseite des Wohnrades" src="abb89.png"/>
+<p>Abb. 89. Gesamtansicht der Sonnenseite des Wohnrades. Der mittlere
 Sammelspiegel könnte auch weggelassen und durch entsprechende Vergrößerung
-des äußeren Spiegels ersetzt werden.</div>
+des äußeren Spiegels ersetzt werden.</p></div>
 
-<div align="center"><img alt="Gesamtansicht der Schattenseite des Wohnrades" src="abb90.png"/>
-Abb. 90. Gesamtansicht der Schattenseite des Wohnrades.</div>
+<div class="image"><img alt="Gesamtansicht der Schattenseite des Wohnrades" src="abb90.png"/>
+<p>Abb. 90. Gesamtansicht der Schattenseite des Wohnrades.</p></div>
 
 Die Versorgung des Wohnrades mit Licht, Wärme, Luft und
 Wasser erfolgt in der schon früher für die Raumwarte allgemein

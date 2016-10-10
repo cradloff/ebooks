@@ -24,12 +24,12 @@ unter Zuhilfenahme von Reinigungspatronen in ähnlicher
 Weise vorgenommen werden kann, wie dies bei den modernen
 Taucheranzügen üblich ist.
 
-<div align="center"><img alt="Beispiel für die Ausführung des Observatoriums" src="abb91.png"/>
-Abb. 91. Beispiel für die Ausführung des Observatoriums.
+<div class="image"><img alt="Beispiel für die Ausführung des Observatoriums" src="abb91.png"/>
+<p>Abb. 91. Beispiel für die Ausführung des Observatoriums.
 Es hat annähernd die Form eines Kessels mit Rücksicht auf den
 darin herrschenden Überdruck von 1 Atm. Die Luftschleuse, zwei
 elektrische Kabel (links). das biegsame Luftrohr (rechts) und die
-Beleuchtungsluken sind erkennbar.</div>
+Beleuchtungsluken sind erkennbar.</p></div>
 
 Im Observatorium sind vorhanden: vor allem, seiner Bestimmung
 gemäß, die Fernbeobachtungs—Einrichtungen und
@@ -47,10 +47,10 @@ ist darin die ganze Apparatur der Großfunkstation untergebracht
 und schließlich noch eine Belüftungsanlage vorhanden, die gleichzeitig auch für
 das Observatorium arbeitet.
 
-<div align="center" float="left"><img alt="Die biegsame Rohrleitung zur Verbindung des Observatoriums mit
+<div class="image" float="left"><img alt="Die biegsame Rohrleitung zur Verbindung des Observatoriums mit
 der Belüftungsanlage des Maschinenhauses" src="abb92.png"/>
-Abb. 92. Die biegsame Rohrleitung zur Verbindung des Observatoriums mit
-der Belüftungsanlage des Maschinenhauses.</div>
+<p>Abb. 92. Die biegsame Rohrleitung zur Verbindung des Observatoriums mit
+der Belüftungsanlage des Maschinenhauses.</p></div>
 
 Die Zufuhr der Sonnenenergie erfolgt durch einen mächtigen,
 mit dem Gebäude fest verbundenen Sammelspiegel (Abb. 93), in dessen Brennpunktgebiet
@@ -76,7 +76,7 @@ Was im Observatorium und Maschinenhaus an Speise und Trank
 benötigt wird, muß jeder Mann selbst, bereits in der für den
 gewichtslosen Zustand geeigneten Art zubereitet, aus dem Wohnrad dorthin mitnehmen.
 
-<div align="center"><img alt="Beispiel für die Anordnung des Maschinenhauses" src="abb93.png"/>
-Abb. 93. Beispiel für die Anordnung des Maschinenhauses, im Achsschnitt
-andeutungsweise dargestellt.</div>
+<div class="image"><img alt="Beispiel für die Anordnung des Maschinenhauses" src="abb93.png"/>
+<p>Abb. 93. Beispiel für die Anordnung des Maschinenhauses, im Achsschnitt
+andeutungsweise dargestellt.</p></div>
 

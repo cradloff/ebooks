@@ -63,11 +63,11 @@ Wirkungsgrad ausgenützt werden.
 Unter dieser Voraussetzung würde beispielsweise eine Raumrakete,
 welche die Endgeschwindigkeit 4000 Meter je Sekunde erreichen
 soll, dann wenn sie mit Benzol und flüssigem Sauerstoff
-<div align="center" float="left"><img alt="Gegenüberstellung des Volumens von Wasserstoffrakete und Benzolrakete" src="abb35.png"/>Abb. 35.
-Größenverhälmis zwischen einer Wasserstoffrakete und einer
+<div class="image" float="left"><img alt="Gegenüberstellung des Volumens von Wasserstoffrakete und Benzolrakete" src="abb35.png"/>
+<p>Abb. 35. Größenverhältnis zwischen einer Wasserstoffrakete und einer
 Benzolrakete. von gleicher Leistungsfähigkeit, wenn jede imstande sein
 soll, sich eine Geschwindigkeit von 4000 Metern je Sekunde erteilen
-zu können.</div>
+zu können.</p></div>
 betrieben wird, rund um die Hälfte kleiner ausfallen und eine um
 1/3 geringere Behälteroberfläche aufweisen als bei Antrieb durch
 flüssigen Wasser— und Sauerstoff (Abb. 35).
@@ -90,11 +90,11 @@ und Anwendungsweise desselben, die alle beim Benzol fortfallen.
 
 Allerdings tritt diese Überlegenheit der flüssigen Kohlenwasserstoffe
 bei höheren Endgeschwindigkeiten gegenüber dem reinen
-<div align="center" float="right"><img alt="Gegenüberstellung des Volumens von Wasserstoffrakete und Benzolrakete" src="abb36.png"/>Abb. 36.
-Größenverhältnis zwischen einer Wasserstoffrakete und einer
+<div class="image" float="right"><img alt="Gegenüberstellung des Volumens von Wasserstoffrakete und Benzolrakete" src="abb36.png"/>
+<p>Abb. 36. Größenverhältnis zwischen einer Wasserstoffrakete und einer
 Benzolrakete von gleicher Leistungsfähigkeit, wenn jede imstande sein
 soll, sich eine Geschwindigkeit von 12 500 Metern je Sekunde (gänzliche
-Loslösung von der Erde!) zu erteilen.</div>
+Loslösung von der Erde!) zu erteilen.</p></div>
 Wasserstoff immer mehr zurück. Trotzdem aber würde, selbst für
 die Erreichung einer Geschwindigkeit von 12 500 Meter je Sekunde (wie
 sie zur gänzlichen Loslösung von der Erde ideell notwendig ist), eine

@@ -27,7 +27,7 @@ Aufschlüssen über den Aufbau der Materie sowie über die Natur
 der Elektrizität und der Wärme führen dürfte, wie die in unseren
 Kältelaboratorien bisher vorgenommenen derartigen Versuche
 erwarten lassen. Daraus aber würde sich in weiterer Folge
-wahrscheinlich auch praktischer Nutzen —— vielleicht sogar in großartigstem
+wahrscheinlich auch praktischer Nutzen — vielleicht sogar in großartigstem
 Ausmaß — ergeben. Hängt damit doch z. B. auch das
 Problem zusammen, ein Verfahren zur Auswertung der in der
 Materie gebundenen, ungeheuren Energiemengen zu finden.

@@ -59,12 +59,12 @@ Vermehrung der Steiglast bedeutet. Dadurch wird aber nun die
 für den Aufstieg insgesamt erforderliche Betriebsstoffmenge dermaßen
 groß, daß diese Bremsart jedenfalls äußerst unwirtschaftlich,
 ja bei der Leistungsfähigkeit der bis heute zur Verfügung
-<div align="center" float="right"><img alt="Veranschaulichung der Landung mit Rückstoßbremsung" src="abb37.png"/>
-Abb. 37. Landung mit Rückstoßbremsung.
+<div class="image" float="right"><img alt="Veranschaulichung der Landung mit Rückstoßbremsung" src="abb37.png"/>
+<p>Abb. 37. Landung mit Rückstoßbremsung.
 Das einfallende Fahrzeug soll durch den Antrieb
 „aufgefangen“ werden, indem derselbe entgegen
 der Fahrtrichtung, also ebenso wie beim
-Aufstieg „von der Erde weg“ arbeitet.</div>
+Aufstieg „von der Erde weg“ arbeitet.</p></div>
 stehenden Betriebsstoffe, sogar überhaupt undurchführbar erscheint. Aber
 auch eine nur teilweise Heranziehung des Rückstoßes zur Bremsung muß
 aus denselben Gründen wo nur möglich vermieden werden.
@@ -90,8 +90,8 @@ die entstehende Bremswärme nicht in genügendem Maße durch
 Leitung und Strahlung an die Umgebung übergehen, und es muß
 daher die Temperatur der Bremsmittel- (Fallschirm usw.) fortgesetzt steigen.
 
-<div align="center"><img alt="Veranschaulichung der Landung mit Luftwiderstandsbremsung" src="abb38.png"/>Abb. 38.
-Landung mit Luftwiderstandsbremsung bei lotrechtem Einfall des Fahrzeuges.</div>
+<div class="image"><img alt="Veranschaulichung der Landung mit Luftwiderstandsbremsung" src="abb38.png"/>
+<p>Abb. 38. Landung mit Luftwiderstandsbremsung bei lotrechtem Einfall des Fahrzeuges.</p></div>
 
 Nun besitzt aber in unserem Falle das Fahrzeug bei seinem
 Eintritt in die Lufthülle eine Geschwindigkeit von rund 11000 Meter

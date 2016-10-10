@@ -31,23 +31,23 @@ wagrechte Höchstgeschwindigkeit von 7850 Meter je Sekunde
 in der Richtung auf ein irdisches Reiseziel erteilt (Abb. 49),
 so könnte es den Weg bis dorthin ohne jeden weiteren Kraftaufwand
 zurücklegen: anfangs in annähernd kreisförmiger freier Umlaufbahn,
-<div align="center"><img alt="Schematische Darstellung eines Eilfluges mit kosmischer Geschwindigkeit" src="abb49.png"/>
-Abb. 49. Schematische Darstellung eines „Eilfluges mit kosmischer Geschwindigkeit“
+<div class="image"><img alt="Schematische Darstellung eines Eilfluges mit kosmischer Geschwindigkeit" src="abb49.png"/>
+<p>Abb. 49. Schematische Darstellung eines „Eilfluges mit kosmischer Geschwindigkeit“
 bei welchem die wagrechte Höchstgeschwindigkeit so groß ist (hier gleich der
 Geschwindigkeit der freien Umlaufbewegung angenommen), daß die ganze Fernfahrt
 im Gleitflug zurückgelegt werden kann und vor der Landung noch
-künstlich gebremst werden muß.</div>
+künstlich gebremst werden muß.</p></div>
 später dann immer mehr und zum Schlusse gänzlich
 im Gleitflug, nur mehr getragen vom Auftrieb der Luft. Rechtzeitig
 vor der Landung müßte schließlich die Geschwindigkeit
 durch künstliche Luftw'iderstandsbremsung z. B. mittels eines
 nachgezogenen Fallschirmes entsprechend herabgemindert werden.
 
-<div align="center"><img alt="Schematische Darstellung eines Eilfluges mit kosmischer Geschwindigkeit" src="abb50.png"/>
-Abb. 50. Schematische Darstellung eines „Eilfluges mit kosmischer Geschwindigkeit“,
+<div class="image"><img alt="Schematische Darstellung eines Eilfluges mit kosmischer Geschwindigkeit" src="abb50.png"/>
+<p>Abb. 50. Schematische Darstellung eines „Eilfluges mit kosmischer Geschwindigkeit“,
 bei welchem die wagrechte Höchstgeschwindigkeit gerade noch ausreicht, die
 ganze Fernfahrt im Gleitflug zurücklegen zu können, wenn dabei jede künstliche
-Bremsung vermieden wird.</div>
+Bremsung vermieden wird.</p></div>
 
 Mag letzteres bei derart hohen Geschwindigkeiten noch einige
 Schwierigkeiten bieten, so würde es hingegen ohne weiteres gelingen,
@@ -101,11 +101,11 @@ gering, daß die Tragflächen schon nahezu mit dem vollen Fahrzeuggewicht
 belastet wären, es sich hierbei also fast nur mehr
 um reine Drachenflug- statt um Himmelskörperbewegung handeln würde.
 
-<div align="center"><img alt="Schematische Darstellung eines Eilfluges mit kosmischer Geschwindigkeit" src="abb51.png"/>
-Abb. 51. Schematische Darstellung eines „Eilfluges mit kosmischer Geschwindigkeit“,
+<div class="image"><img alt="Schematische Darstellung eines Eilfluges mit kosmischer Geschwindigkeit" src="abb51.png"/>
+<p>Abb. 51. Schematische Darstellung eines „Eilfluges mit kosmischer Geschwindigkeit“,
 bei welchem die wagrechte Höchstgeschwindigkeit zur Zurücklegung der ganzen
 Fernfahrt im Gleitflug nicht ausreicht, so daß ein Teil derselben mit Antrieb
-zurückgelegt werden muß.</div>
+zurückgelegt werden muß.</p></div>
 
 Über die konstruktive Ausführung eines solchen durch
 Rückstoß (Raketenwirkung) angetriebenen Eilflugzeuges nähere
@@ -170,13 +170,13 @@ Gleitfluglandung, die jedoch in unserem Fall, und
 zwar mit der wagrechten Höchstgeschwindigkeit, erst neu begonnen wird,
 vor sich geht<a class="refnote" id="rn4" href="#fn4">4</a>.
 
-<div align="center"><img alt="Schematische Darstellung eines Eilfluges mit größter mittlerer Geschwindigkeit" src="abb52.png"/>
-Abb. 52. Die größte mittlere Reisegeschwindigkeit wird dann erreicht,
+<div class="image"><img alt="Schematische Darstellung eines Eilfluges mit größter mittlerer Geschwindigkeit" src="abb52.png"/>
+<p>Abb. 52. Die größte mittlere Reisegeschwindigkeit wird dann erreicht,
 wenn man die wagrechte Höchstgeschwindigkeit so groß wählt, daß sie gerade
 noch abgebremst werden kann, wenn gleich nach ihrer Erlangung mit der künstlichen
 Bremsung begonnen wird. (In den schematischen Abb. 49 bis 52 würde bei
 naturgetreuer Darstellung die Erdoberfläche ebenso wie in Abb. 53 gekrümmt
-erscheinen.)</div>
+erscheinen.)</p></div>
 
 Die größte mittlere Reisegeschwindigkeit, mit welcher
 bei einem solchen Eilflug eine bestimmte Reisestrecke überhaupt
@@ -205,16 +205,16 @@ Fahrbahn nun in dementsprechend höhere, dünnere Luftschichten
 mit kleinerem Widerstand — also auch geringerer natürlicher
 Bremswirkung — verlegt werden kann.
 
-<div align="center" float="left"><img alt="Vorteilhafteste Art der Ausführung
+<div class="image" float="left"><img alt="Vorteilhafteste Art der Ausführung
 eines Eilfluges mit kosmischer Geschwindigkeit" src="abb53.png"/>
-Abb. 53. Vorteilhafteste Art der Ausführung
+<p>Abb. 53. Vorteilhafteste Art der Ausführung
 eines „Eilfluges mit kosmischer Geschwindigkeit“:
 Die wagrechte Höchstgeschwindigkeit wird —
 entsprechend der Entfernung — so groß gewählt
 („günstigste wagrechte Höchstgesehwindigkeit“),
 daß die ganze Fernfahrt im Gleitﬂug ohne
 Antrieb und ohne künstliche Bremsung zurückgelegt
-werden kann (Schema siehe Abb. 50).</div>
+werden kann (Schema siehe Abb. 50).</p></div>
 
 Die Größe der günstigsten wagrechten Höchstgeschwindigkeit
 hängt allein nur von der Länge des zurückzulegenden Weges ab,

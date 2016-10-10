@@ -60,7 +60,7 @@ welchem Verfahren eine bestimmte Entfernung, bei vorgegebener,
 höchstzulässiger Beschleunigung bzw. Verzögerung, in der kürzesten
 überhaupt erreichbaren Zeit durcheilt wird.
 
-<div align="center" float="right"><img alt="Veranschaulichung der Geschwindigkeit bei ständiger Beschleunigung" src="abb100.png"/>
+<div class="image" float="right"><img alt="Veranschaulichung der Geschwindigkeit bei ständiger Beschleunigung" src="abb100.png"/>
 Abb. 100. Zurücklegung einer Entfernung, wenn auf
 der ganzen ersten Hälfte des Weges gleichförmig
 beschleunigt und auf der zweiten ebenso verzögert

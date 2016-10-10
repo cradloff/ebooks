@@ -10,10 +10,10 @@ kleinsten Teilchen (Moleküle der Verbrennungsgase) zur Abstoßung
 und die bei der Verbrennung freiwerdende und sich in Gasdruck
 umsetzende Energie liefert die hierzu notwendige „innere Kraft”.
 
-<div align="center" float="right"><img alt="Längsschnitt durch eine Feuerwerksrakete" src="abb15.png"/>Abb. 15. 
-Feuerwerkrakete im Längsschnitt. Der daran
+<div class="image" float="right"><img alt="Längsschnitt durch eine Feuerwerksrakete" src="abb15.png"/>
+<p>Abb. 15. Feuerwerkrakete im Längsschnitt. Der daran
 befestigte Stab dient dazu, das Sichüberschlagen der Rakete zu
-verhindern.</div>
+verhindern.</p></div>
 
 Ein Fahrzeug solcher Art in einfachster Ausführung stellt die bekannte
 Feuerwerkrakete dar (Abb. 15). Ihr Zweck ist der, einen sogenannten

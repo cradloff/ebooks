@@ -10,12 +10,12 @@ seiner eigenen Masse von sich abstößt, muß dieser Vorgang so
 eingerichtet werden, daß alle Massen nach erfolgter Abstoßung
 womöglich ihre gesamte Energie an das Fahrzeug ‘abgegeben haben;
 denn was sie davon mit sich nehmen, ist unwiederbringlich verloren. 
-<div align="center" float="right"><img alt="Fahrzeug mit Rückstoßantrieb" src="abb16.png"/>Abb. 16. 
-Die Fahrgeschwindigkeit ist gleich der
+<div class="image" float="right"><img alt="Fahrzeug mit Rückstoßantrieb" src="abb16.png"/>
+<p>Abb. 16. Die Fahrgeschwindigkeit ist gleich der
 Abstoßungsgeschwindigkeit. Infolgedessen ist nach
 der Abstoßung die Geschwindigkeit der abgestoßenen
 Massen gleich Null, was man in der Abb. daraus
-ersicht, daß sie lotrecht herunterfallen.</div>
+ersicht, daß sie lotrecht herunterfallen.</p></div>
 Eine derartige Energie bildet unter anderem die lebendige
 Kraft, welche bekanntlich jedem Körper innewohnt, der sich
 in Bewegung befindet. Soll nun davon in den
@@ -41,15 +41,15 @@ als die Abstoßungsgeschwindigkeit, dann wäre auch dieser
 ist gänzlich Null, sobald das Fahrzeug bei arbeitendem Antrieb
 stillsteht.
 
-<div align="center" float="left"><img alt="Fahrzeuge mit Rückstoßantrieb und unterschiedlichen Geschwindigkeiten" src="abb17.png"/>Abb. 17.
-Die Fahrgeschwindigkeit ist kleiner (oberes
+<div class="image" float="left"><img alt="Fahrzeuge mit Rückstoßantrieb und unterschiedlichen Geschwindigkeiten" src="abb17.png"/>
+<p>Abb. 17. Die Fahrgeschwindigkeit ist kleiner (oberes
 Bild) oder größer (unteres Bild) als die Abstoßungsgeschwindigkeit.
 Die abgestoßenen Massen besitzen
 daher nach erfolgter Abstoßung noch immer einen
 Teil ihrer Abstoßungsgeschwindigkeit (oberes Bild)
 oder ihrer Fahrgeschwindigkeit (unteres Bild), was
 man in der Abbildung daraus erkennt, daß sie schief
-zu Boden fallen.</div>
+zu Boden fallen.</p></div>
 
 Dies läßt sich in einfacher Weise rechnerisch verfolgen, was wir
 hier auch tun wollen mit Rücksicht auf die entscheidende Bedeutung,
@@ -135,10 +135,10 @@ bzw. v = 1,5 c) immerhin noch nicht so sehr ins Gewicht fallen,
 weil die Schwankungen des Wirkungsgrades in der Nähe seines
 Maximums ziemlich gering sind. Man kann demnach sagen, daß
 die wirtschaftliche Fahrgeschwindigkeit eines Raketen—Fahrzeuges
-<div align="center"><img alt="Wagen mit Raketenantrieb" src="abb18.png"/>Abb. 18. 
-Bei einem Raketenfahrzeug muß die Fahrgeschwindigkeit
-möglichst gleich der Auspuffgeschwindigkeit sein.</div>
-so ungefähr zwischen dem 1/2 und 1 1/2fachen Wert seiner
+<div class="image"><img alt="Wagen mit Raketenantrieb" src="abb18.png"/>
+<p>Abb. 18. Bei einem Raketenfahrzeug muß die Fahrgeschwindigkeit
+möglichst gleich der Auspuffgeschwindigkeit sein.</p></div>
+so ungefähr zwischen dem ½ und 1½fachen Wert seiner
 Abstoßungsgeschwindigkeit liegt.
 
 Wenn nun wie hier das Rückstoßfahrzeug ein Raketen-Fahrzeug

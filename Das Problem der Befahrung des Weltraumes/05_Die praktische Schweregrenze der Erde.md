@@ -7,12 +7,13 @@ ein Schwerefeld besitzt, das sich, an Stärke immer mehr abnehmend,
 bis in unendliche Entfernung erstreckt, so stehen wir —
 wenigstens theoretisch — eigentlich stets unter der gleichzeitigen
 Schwerewirkung aller Gestirne. Hiervon ist für uns jedoch nur
-<div align="center"><img alt="Verlauf der Schwerefelder zweier Gestirne" src="abb04.png"/>Abb. 4. Der Verlauf der Schwerefelder der beiden benachbarten Gestirne G1 und
+<div class="image"><img alt="Verlauf der Schwerefelder zweier Gestirne" src="abb04.png"/>
+<p>Abb. 4. Der Verlauf der Schwerefelder der beiden benachbarten Gestirne G1 und
 G2 ist wie in Abb. 1 dargestellt, nur daß die Schwerekurve des kleineren Himmelskörpers
 G2 nach abwärts gezeichnet wurde, weil seine Anziehungskraft der des
 größeren Gestirns G1 entgegen wirkt. Dort, wo die beiden Schwerefelder einander
 entgegengesetzt gleich sind und sich daher in ihrer Wirkung aufheben, befindet
-sich der schwerefreie Punkt.</div>
+sich der schwerefreie Punkt.</p></div>
 die Schwerewirkung der Erde und zum Teil auch die unseres Mondes
 wahrnehmbar. Denn im Bereiche der Erdoberfläche, in dem
 unser Leben sich abspielt, ist die Kraft der Erdanziehung. so überwiegend

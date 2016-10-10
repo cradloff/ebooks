@@ -124,11 +124,11 @@ zusammengesetzt, die also entweder mit Wasserstoff und
 Sauerstoff (Wasserstoffrakete) oder mit
 Alkohol und Sauerstoff (Alkoholrakete) betrieben werden.
 
-<div align="center" float="left"><img alt="Schematische Darstellung der Rakete" src="abb27.png"/>Abb. 27.
-Längsschnitt durch die Hauptrakete des kleinen
+<div class="image" float="left"><img alt="Schematische Darstellung der Rakete" src="abb27.png"/>
+<p>Abb. 27. Längsschnitt durch die Hauptrakete des kleinen
 Oberthschen Raketenmodells, schematisch dargestellt. Die 
 Wasserstoffrakete (grau angelegt) steckt im
-vorderen Teil der Alkoholrakete.</div>
+vorderen Teil der Alkoholrakete.</p></div>
 
 Zwei Ausführungsbeispiele seines Raumfahrzeuges hat Oberth auch näher
 beschrieben. Davon ist das eine ein kleineres Modell, das unbemannt, aber
@@ -165,8 +165,8 @@ Erde erfolgt mittels eines sich selbsttätig entfalten-
 den Fallschirmes, welcher in der Spitze der Wasser—
 stoffrakete untergebracht ist.
 
-<div align="center" float="right"><img alt="Darstellung der Hilfsrakete" src="abb28.png"/>Abb. 28.
-Die Hilfsrakete des kleinen Oberthschen Raketenmodells.</div>
+<div class="image" float="right"><img alt="Darstellung der Hilfsrakete" src="abb28.png"/>
+<p>Abb. 28. Die Hilfsrakete des kleinen Oberthschen Raketenmodells.</p></div>
 
 Beim zweiten Modell, dem für Menschenbeförderung bestimmten, großen Raketen—Raumschiff
 (Abb. 31), besteht der ganze vordere Teil des Fahrzeuges aus
@@ -176,8 +176,8 @@ Menschen, die Fracht usw. bestimmt, mit allen Steuerungsbehelfen
 ausgerüstet, befindet sich im vorderen Teil der Wasserstoffrakete.
 Darüber ist der Fallschirm untergebracht. Nach vorn ist das Fahrzeug durch
 eine metallene, der äußeren Geschoßform angepaßte Kappe
-<div align="center" float="right"><img alt="Rakete wird von zwei Zeppelinen gehalten" src="abb29.png"/>Abb. 29.
-Start der Rakete nach Oberth von Luftschiffen aus.</div>
+<div class="image" float="right"><img alt="Rakete wird von zwei Zeppelinen gehalten" src="abb29.png"/>
+<p>Abb. 29. Start der Rakete nach Oberth von Luftschiffen aus.</p></div>
 abgeschlossen, welche später, gleichzeitig mit der Alkoholrakete, als
 überflüssiger Ballast abgeworfen wird (Abb. 32); denn zu diesem
 Zeitpunkte ist die Erdlufthülle bereits verlassen, also kein Luftwiderstand
@@ -187,22 +187,21 @@ Drosselung der äußeren Düsen.
 
 Bei diesem Modell wird der Start vom Meere aus vorgenommen.
 Hierbei tritt wieder zuerst die Alkoholrakete in Wirksamkeit.
-<div align="center"><img alt="Start der Rakete und Abwurf der Raketenstufen" src="abb30.png"/>Abb. 30.
-Der Aufstieg des kleinen (unbemannten) Raketenmodells von Oberth.</div>
+<div class="image"><img alt="Start der Rakete und Abwurf der Raketenstufen" src="abb30.png"/>
+<p>Abb. 30. Der Aufstieg des kleinen (unbemannten) Raketenmodells von Oberth.</p></div>
 Sie bringt das Fahrzeug bis auf eine Steiggeschwindigkeit
 von 3000—4000 Meter je Sekunde, worauf sie abgekoppelt und
-zurückgelassen wird (Abb. 32) und die Wasserstoffrakete zu ar—
-beiten beginnt, um dem Fahrzeug die notwendige Steig—Höchst—
+zurückgelassen wird (Abb. 32) und die Wasserstoffrakete zu arbeiten
+beginnt, um dem Fahrzeug die notwendige Steig—Höchstgeschwindigkeit
+oder, wenn erforderlich, auch noch eine wagrechte
+Umlaufgeschwindigkeit zu erteilen. Ein solches Raumschiff,
+geeignet zur Beförderung eines Beobachters, würde nach Oberths
+Angaben im startbereiten Zustand 300 t wiegen.
 
-geschwindigkeit oder, wenn erforderlich, auch noch eine wag-
-rechte Umlaufgeschwindigkeit zu erteilen. Ein solches Raumschiff,
-geeignet zur Beförderung eines Beobachte rs, würde nach Oberths
-Angaben im startbereiten Zustand 300 !: Wiegen.
-
-<div align="center" float="right"><img alt="Längsschnitt einer großen Oberthschen Rakete" src="abb31.png"/>Abb. 31.
-Längsschnitt einer großen Oberthschen Rakete für Menschenbeförderung, schematisch 
+<div class="image" float="right"><img alt="Längsschnitt einer großen Oberthschen Rakete" src="abb31.png"/>
+<p>Abb. 31. Längsschnitt einer großen Oberthschen Rakete für Menschenbeförderung, schematisch 
 dargestellt. Die Wasserstoffrakete (grau angelegt) ist auf die Alkoholrakete
-gestellt.</div>
+gestellt.</p></div>
 
 Bei beiden Modellen ist jede der Teilraketen für sich selbständig,
 besitzt daher sowohl eigene Treibvorrichtung als auch eigene Behälter.
@@ -229,8 +228,8 @@ Kühlung des Ofens, der Düsen usw. sind Vorkehrungen getroffen.
 Es muß auffallen, wie klein der für die Nutzlast bestimmte
 Fahrraum im Vergleich zum gesamten Fahrzeug ist, das eigent—
 lich der Hauptsache nach nur aus Behältern besteht. Dies wird
-<div align="center"><img alt="Der Aufstieg des größeren Raketenmodells" src="abb32.png"/>Abb. 32.
-Der Aufstieg des größeren (bemannten) Raketenmodells von Oberth.</div>
+<div class="image"><img alt="Der Aufstieg des größeren Raketenmodells" src="abb32.png"/>
+<p>Abb. 32. Der Aufstieg des größeren (bemannten) Raketenmodells von Oberth.</p></div>
 jedoch verständlich, wenn man bedenkt, daß die früher mittels
 der Raketengleichung errechneten<a class="refnote" id="rn3" href="#fn3">3</a>,
 für den Aufstieg notwendigen Betriebsstoffmengen etwa das 20—8ofache der Gesamtlast
@@ -243,11 +242,11 @@ wird. Wohl geht beim Aufstieg, wie wir schon früher
 feststellten<a class="refnote" id="rn4" href="#fn4">4</a>,
 infolge des Umstandes daß die Fahrgeschwindigkeit während der
 Dauer des Antriebes nur allmählich zunimmt und daher nicht
-<div align="center" float="right"><img alt="Treibvorrichtung der Oberthschen Rakete" src="abb33.png"/>Abb. 33.
-Die Treibvorrichtung der Oberthschen Rakete:
+<div class="image" float="right"><img alt="Treibvorrichtung der Oberthschen Rakete" src="abb33.png"/>
+<p>Abb. 33. Die Treibvorrichtung der Oberthschen Rakete:
 rechts: des kleinen Modells. Der Ofen mündet in nur eine Düse.
 links: des großen Modells. Ein gemeinsamer Ofen
-mündet in viele, bienenwabenartig verteilte Düsen.</div>
+mündet in viele, bienenwabenartig verteilte Düsen.</p></div>
 gleich groß (nämlich anfangs kleiner, später größer) wie die
 Auspuff—(Abstoßungs-) Geschwindigkeit ist, Energie verloren (Abb. 17).
 Trotzdem aber ergäbe sich, wenn z.B. das Fahrzeug auf die zur 
@@ -303,8 +302,8 @@ bringt auch sehr wertvolle diesbezügliche Vorschläge. Sofern dieselben
 sich auf den Landungsvorgang und auf die Fernfahrt durch
 den Weltraum beziehen, werden sie später behandelt.
 
-<div align="center" float="right"><img alt="Die Raumrakete nach Hohmann" src="abb34.png"/>Abb. 34.
-Die Raumrakete nach Hohmann.</div>
+<div class="image" float="right"><img alt="Die Raumrakete nach Hohmann" src="abb34.png"/>
+<p>Abb. 34. Die Raumrakete nach Hohmann.</p></div>
 
 Was an dieser Stelle interessiert, ist die Berechnung eines Raumfahrzeuges
 zur Beförderung von zwei Menschen einschließlich

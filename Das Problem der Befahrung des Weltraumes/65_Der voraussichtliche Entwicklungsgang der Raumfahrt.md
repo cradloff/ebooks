@@ -98,14 +98,14 @@ Sobald man dann das Manövrieren mit Raketenflugzeugen
 in den höheren dünnen Luftschichten notwendige Flugtechnik
 beherrscht, ist damit zugleich und von selbst auch schon:
 
-\1. der eingangs geschilderte irdische „Eilflugverkehr mit
+1. der eingangs geschilderte irdische „Eilflugverkehr mit
 kosmischen Geschwindigkeiten” geschaffen, also der erste
 praktische Erfolg der Raumfahrt erreicht (denn jeder über die
 Lufthülle nicht hinausführende derartige Aufstieg mit Gleitfluglandung
 ist ja im Grunde genommen nichts anderes als ein
 solcher Eilflug);
 
-\2. wird dadurch ermöglicht, daß zurückkehrende Raumschiffe
+2. wird dadurch ermöglicht, daß zurückkehrende Raumschiffe
 nun auch mit Gleitfluglandung (statt mit einfacher Fallschirmlandung)
 niedergehen können, d. h. es wird dadurch die wohlbehaltene
 Rückkehr Zur Erde aus jeder beliebigen Steighöhe
