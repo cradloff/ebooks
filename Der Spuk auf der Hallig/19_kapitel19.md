@@ -72,8 +72,7 @@ Schatten der drei hin und her Wandelnden zeichneten sich dunkel und
 scharf umrissen auf den Decksplanken ab. Heik brachte das Gespräch auf
 die Heimreise.
 
-»Uns hat es bisher an Herz für die Arbeit gefehlt,« sagte der 
-<!--bild-->
+»Uns hat es bisher an Herz für die Arbeit gefehlt,« sagte der
 Schiffer, »wenn das so fortgeht, kommen wir niemals nach Hause. Wir
 müssen uns zusammenraffen und das Werk wieder tapfer angreifen. Das
 soll gleich morgen geschehen. Seit wir unsere Freunde verloren haben,
@@ -430,8 +429,6 @@ liegende Bark unter dem ersten Anlauf weit nach der Backbordseite überholte.
 Möchtest du jetzt doch nicht lieber wieder an Bord von de ohle Hallig
 sein, mang dine gooden Schippsmaaten?«
 
-<!--bild-->
-
 Da kam der Schiffer eilig von achtern her.
 
 »Macht das Floß klar!« rief er. »Zwei Mann gehen mit mir an
@@ -461,7 +458,7 @@ tief unten in Gottes Keller den langen letzten Schlaf.«
 »Dat is noch nich so ganz gewiss, Kaptein,« entgegnete Towe.
 »Gazzi was man en leegen Keerl, aber en Boot kunn he regieren so good
 as de beste von us. Ick will nich seggen, dat he in düssen Wind veel
-Utsicht hemmen doon deit, ick weet aberst, dat uns' lütt Boot sick ok bi
+Utsicht hewwen doon deit, ick weet aberst, dat uns' lütt Boot sick ok bi
 slecht Weder fein holln deit un licht to handhaben is.«
 
 »Dorüm büst du ok mit dat lütt Boot kentert,« brummte Heik Weers
@@ -596,8 +593,7 @@ Die Felsen standen schwarz und still, und schwarz und still breitete sich
 auch der Wasserspiegel des Hafenbeckens aus. Wieviel Erinnerungen
 knüpften sich an diesen Ort!
 
-Und setzt sollte es nach Hause gehen, nach Hause! Auf seinen
-<!--bild-->
+Und jetzt sollte es nach Hause gehen, nach Hause! Auf seinen
 früheren Seereisen hatte er sich nie so nach der Heimat gesehnt, wie jetzt.
 Die frische, fröhliche Seefahrt hatte einen solchen Wunsch kaum aufkommen
 lassen. Diesmal aber war es nur zum kleinsten Teil eine Seefahrt,

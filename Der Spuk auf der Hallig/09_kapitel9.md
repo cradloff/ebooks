@@ -17,8 +17,7 @@ vielleicht reich an Erfolgen, vielleicht arm, enttäuscht und mit geknickten
 Hoffnungen, zaubert der Ruf das Bild der lieben trauten Heimat vor
 die hungernde Seele, wo sie einst Vater und Mutter, Brüder und
 Schwestern, und manchen teuren Freund zurückließen, um in der Ferne
-das Glück zu suchen. Und bange Zweifel steigen in ihnen auf: wer von 
-<!--bild-->
+das Glück zu suchen. Und bange Zweifel steigen in ihnen auf: wer von
 den Geliebten lebt noch? Wer schläft schon den langen Schlaf draußen
 auf dem stillen Friedhofe?
 
@@ -184,7 +183,6 @@ wohl einen Hafen oder eine Bucht, wo wir landen können.«
 
 »So war's richtig, Keppen Jaspersen,« sagte Towe beifällig. »Ich
 wollte nämlich ganz denselbigen Vorschlag machen. Katje hat mich erzählt,
- 
 dat damals, als uns' ›Hammonia‹ auf den Muschelsand aufgelaufen
 war, der Herr Pastor und all die andern Leute achter den Bootsschuppen
 gegangen sind, um für uns zu beten, un dat dat geholfen hat, dat wissen
@@ -288,7 +286,6 @@ diesem Kap entfernt auf die Felsen rennen. Nur noch wenige Minuten,
 dann war's zu Ende.
 
 »Gott befohlen, Paul!« sagte der Schiffer und fasste des Jünglings Hand.
-<!--bild-->
 Da stieß Towe ein brüllendes Geschrei aus. Wollte er damit der
 Welt ade sagen? Nein! Die Hallig raste nicht mehr auf das Land zu,
 sie wurde von der abschwenkenden Strömung längs desselben dahingerissen,

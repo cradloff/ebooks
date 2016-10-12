@@ -1,12 +1,9 @@
-
-<!--bild-->
-
 <h1>1. Kapitel.</h1>
 
 <div class="subtitle">Das Pfarrhaus zu Westerstrand. &mdash; Im Rettungsboot. &mdash; Die Schiffbrüchigen.</div>
 
 »Hast du soeben den Kanonenschuss gehört, Vater? Horch! Noch
-einer! Und noch einer! Da ist ein Schiff ausgelaufen! Bei diesem Nordweststurm
+einer! Und noch einer! Da ist ein Schiff aufgelaufen! Bei diesem Nordweststurm
 kann es nur auf den Muschelsand geraten sein, und wenn es
 da sitzt, dann ist es verloren. Adieu, liebste Mutter, ich muss mit in das
 Rettungsboot! Halte alles bereit für die Schiffbrüchigen, die wir an
@@ -169,9 +166,6 @@ zugesprungen und fasste seine Hand.
 du, wen wir geborgen haben? Keppen Jaspersen, mit dem ich die letzte
 Reise gemacht habe. Ein glücklicher Zufall bei all dem Unglück, nicht wahr?«
  
-
-<!--bild-->
-
 »Ist sonst niemand gerettet?« forschte der Pastor bestürzt.
 
 »Ja, noch ein Matrose, Keppen Jaspersen ist bedenklich verletzt,

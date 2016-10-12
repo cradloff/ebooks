@@ -5,7 +5,7 @@ wollten. &mdash; »Da vorn ist jemand!« &mdash; Warum Paul in Angst nach Towe r
 
 Paul hatte den ersten Rudertörn. Die andern schauten dem Boote
 so lange nach, bis es bei dem Senator langseit war und binnenbords
-geheißt wurde. &mdash; »Na denn ok adjüs, ohl Senater,« sagte Heik Weers,  
+geheißt wurde. &mdash; »Na denn ok adjüs, ohl Senater,« sagte Heik Weers, 
 indem er die rote Flagge mit den drei Türmen &mdash; auch die Hallig Hooge
 war ein Hamburger Schiff &mdash; zum dritten Male dippte, »adjüs ok. Wi
 ward uns woll nich weddersehn. Aber de Kaptein ward sick woll melln,
@@ -252,7 +252,6 @@ einem leichten Schleier verhängt erschien. Bei der Stille, die ringsum
 herrschte, war es Paul, als wäre er der einzige Mensch an Bord;
 und doch lag Towe Tjarks nur wenig Schritte entfernt von ihm
 an Deck, bereit, bei dem geringsten
-<!--bild-->
 Anlass aufzuspringen. »Ich wollte, ich hörte einen schnarchen,« sagte
 er zu sich selber, »dann wäre doch nicht alles so tot.« Plötzlich vernahm
 er vorn ein Geräusch, ein Klappern, als ob eine Leine von einem der
@@ -301,7 +300,6 @@ untersuchen sollen. Wir wollen die Raa wieder heißen, Towe.«
 
 Das Stück Arbeit wurde besorgt, und das kräftige Aussingen Towes,
 als er mit dem Schiffer im Takt an dem Fall riss, stärkte unserem Paul
- 
 Herz und Nieren. Es war ihm, als nähmen ihm die fröhlichen, männlichen
 Töne eine Last von der Seele.
 

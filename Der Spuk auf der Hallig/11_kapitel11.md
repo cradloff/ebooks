@@ -69,7 +69,7 @@ fandet ihr keine Zeit.«
 du, Heik?«
 
 »Nee, Towe, mit keen Gedanken nich,« antwortete der Invalide.
-»Nee, Kaptein, ganz gewiss nich. Harr ick müsst, dat auf die ›Hallig  
+»Nee, Kaptein, ganz gewiss nich. Harr ick wüsst, dat auf die ›Hallig 
 Hooge‹ ein Frauenzimmer verstaut gewesen war, ich wär' um keine düsend
 Mark hier an Bord gekommen. Schiff und Mannschaft haben immer
 Unglück, wenn ein Frauenzimmer mit auf See geht. Nu is mich auch
@@ -87,7 +87,7 @@ ihn angegriffen, und so war es kein Wunder, dass der Schlaf ihn endlich
 übermannte. &mdash; Draußen war es bereits heller Tag, als er mit einem
 Ruck emporfuhr. Towe stand vor ihm, einen Pott Kaffee in der Hand.
 
-»Da, Sohn, drink,« sagte er. »Wo geiht dat mit bin Gespenst?«
+»Da, Sohn, drink,« sagte er. »Wo geiht dat mit din Gespenst?«
 
 »Das Fräulein schläft noch, soviel ich weiß,« antwortete Paul. Er
 stand auf, ging auf den Fußspitzen zur Kammertüre, schob diese leise zurück
@@ -116,7 +116,7 @@ beschlossen; der Schiffer hielt es für ratsam, dass alle Mann die Insel so
 genau als möglich kennen lernten. Paul sollte als Wächter und Koch an
 Bord bleiben.
 
-Nach dem Frühstück wurde Proviant für einen Tag ins Boot  
+Nach dem Frühstück wurde Proviant für einen Tag ins Boot
 geschafft; Gazzi betätigte sich bei den Vorbereitungen am eifrigsten; er
 war überhaupt, nachdem der Spuk gebannt war, der Munterste und
 Heiterste von allen.
@@ -162,12 +162,12 @@ sich, so hoffte er inständig, sehr bald selber damit beschäftigen würde.
 Die zweite Kiste enthielt nichts als Damengarderobe.
 
 »Nun ist für sie gesorgt,« dachte er erfreut. Und was für feine
-Kleider! Jetzt wollen wir sehen, was die dritte Kiste enthält. Aha,  
+Kleider! Jetzt wollen wir sehen, was die dritte Kiste enthält. Aha,
 Bücher. Er wählte drei davon aus, klappte die Kisten wieder zu und
 kehrte zu Heik zurück.
 
 »Hier ist etwas gegen die Langeweile,« sagte er. »Erstens ein
-Band Seegeschichten. Was sagst du dazu?	Das wäre gleich etwas,nicht?«
+Band Seegeschichten. Was sagst du dazu?	Das wäre gleich etwas, nicht?«
 
 »Seegeschichten?« entgegnete Heik verächtlich. »Bleib mich mit dat
 Zeug vom Leibe. Ick heww von de See all überleidig genug, von de
@@ -186,7 +186,7 @@ Christoph Kolumbus. Wie ist's damit?«
 
 »De Robinson? Dat wer jowoll de Raubmörder, den se in Hamburg
 up den Stintfang hinricht hewwen? He harr ok mal de ganze
-Stadt in Brand steken. Heft nich von de grote Hamburger Brand hört?
+Stadt in Brand steken. Hest nich von de grote Hamburger Brand hört?
 Gib mich das Buch, Paul, das will ich lesen.«
 
 »Da, Heik,« sagte Paul und lachte. »Du irrst dich zwar gewaltig
@@ -213,8 +213,8 @@ schon nach dem ersten Löffel schmatzte der alte Matrose vor Vergnügen.
 
 »Aber dat Buch, Paul! Zwei Seiten hab' ich nu all gelesen, dat
 war aber ein Stück Arbeit von anderthalb Stunden. Vielleicht kannst
-du mich daraus wat vorlesen, wenn du mal Zeit hast. Nee, Jung', wat  
-is de Supp' aber schön! Loop, purr bin Gespenst ut un giww ehr ok
+du mich daraus wat vorlesen, wenn du mal Zeit hast. Nee, Jung', wat 
+is de Supp' aber schön! Loop, purr din Gespenst ut un giww ehr ok
 mal dorvon.«
 
 »Nein,« entgegnete Paul, »sie soll schlafen so lange sie mag, das
@@ -319,7 +319,7 @@ Ihren Namen bitten?«
 
 »Ich heiße Dora Ulferts,« sagte das Mädchen.
 
-»Sie sind die Tochter des verstorbenen Kapitäns dieses Schiffes,  
+»Sie sind die Tochter des verstorbenen Kapitäns dieses Schiffes,
 nicht wahr?« &mdash; »Ja,« antwortete sie, und brach in Tränen aus. &mdash;
 Paul suchte sie zu trösten so gut er konnte, und hatte auch endlich die
 Genugtuung, sie wieder gefasst zu sehen. Er erbot sich, ihr noch eine
@@ -343,7 +343,7 @@ nicht weinen! Fassen Sie Mut; der liebe Gott wird schon weiter
 helfen. Ihnen und auch uns.«
 
 Damit verließ er sie. Eine halbe Stunde später erschien das junge
-Mädchen an  Deck; sie hatte sich umgekleidet, das vorher so wirre Haar 
+Mädchen an Deck; sie hatte sich umgekleidet, das vorher so wirre Haar 
 geordnet, trug einen warmen Mantel und ein Schaltuch um den Kopf.
 Sie sah jetzt so fein und vornehm aus, dass der herbeieilende Paul unwillkürlich
 tief die Mütze vor ihr zog. Er führte sie über das Deck,
@@ -383,15 +383,16 @@ Das Essen war fertig, die Forschungsreisenden konnten nun kommen. Dora erbot sic
 bist du bald wieder auf den Beinen. Ich habe nämlich eine geprüfte
 Samariterin für dich engagiert, die soll von jetzt an nach dir sehen.«
 
-»Wat Heft du ankaschiert?« entgegnete der alte Matrose mürrisch
+»Wat Hest du ankaschiert?« entgegnete der alte Matrose mürrisch
 und argwöhnisch. &mdash; »Eine geprüfte Samariterin.«
 
 »So? Wo hest du denn die up eenmal herkregen? Ick kann mi
 denken, wat du vörhest, aber bleib mich mit diu Gespenst von Halse,
-hörst? Ick will von den Wiwerkram nix werten.«
+hörst? Ick will von den Wiwerkram nix weeten.«
 
 »Sei vernünftig, Heik, ohl Jung'. Das arme Mädchen hat niemand
-mehr auf der Welt, als uns, sie ist die Tochter des verstorbenen Schiffers der ›Hallig Hoog‹, wir müssen daher sehr gut zu ihr sein, du auch, Heik, hast du verstanden?«
+mehr auf der Welt, als uns, sie ist die Tochter des verstorbenen Schiffers
+der ›Hallig Hooge‹, wir müssen daher sehr gut zu ihr sein, du auch, Heik, hast du verstanden?«
 
 »Meinswegens,« brummte dieser. »Kannst ehr jo herbringen.«
 
@@ -412,7 +413,7 @@ ihre Weisungen genau befolgen würde.
 Als sie ihn verlassen hatte, brüllte er nach Paul.
 
 »Dat Fräulein is 'n Engel!« rief er begeistert, als dieser kaum die
-Kampanjetreppe herunter war. »En Engel, segg ick di. Jung'! Wo tut
+Kampanjetreppe herunter war. »En Engel, segg ick di, Jung'! Wo tut
 mich dat leid, dat ick dacht harr, se wer keen Engel! In acht Tagen
 schall ick all wedder upstahn, säd se. Junge, Junge, wenn doch alle
 Frugenslüd so wern, as düsse leewe goode Fräulein!«

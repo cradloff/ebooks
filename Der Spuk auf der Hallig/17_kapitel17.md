@@ -112,7 +112,6 @@ Sie.«
 Und Jaspersen erzählte ihr von dem Schiffbruch und von der liebevollen
 Pflege, die er im Pfarrhause zu Westerstrand gefunden hatte. Er
 redete mit Wärme und Eifer und großer Ausführlichkeit, um sie nicht
-<!--bild-->
 zu der Frage kommen zu lassen, die er im Grunde seines Herzens so
 sehr fürchtete, zu der Frage, ob er die Vermissten noch am Leben glaube.
 Scheute er sich doch, sich selber diese Frage zu beantworten, denn er
@@ -282,7 +281,6 @@ Wat hest du dor?«
 Paul führte den wiedergefundenen Gefährten zu dem Frischwasserbecken,
 wo dieser einen tiefen Trunk tat und sich das Salz vom Gesicht und aus dem
 struppigen Barte spülte. Dann gingen sie strandwärts, das
-<!--bild-->
 Boot zu suchen. Beiden war's hohl im Magen; sie schauten mit begehrlichen
 Blicken nach den Vögeln, und warfen auch mit Steinen nach denen,
 die auf den Felsen saßen, ohne jedoch einen zu treffen. Pinguine, die sie
@@ -324,7 +322,7 @@ nicht wieder ausflicken und seetüchtig machen könnten.«
 
 »Hast recht, Sohn,« sagte Towe. »Wi ward de Sak woll bestroppen.
 Wi hewwt zwar keen Holz un ok keen Werkzeug nich, aber wat makt
-warn kann, ward makt. Dat Boot is de Hauptsak, heft recht. Eenige
+warn kann, ward makt. Dat Boot is de Hauptsak, hest recht. Eenige
 Tid ward dat aber woll duern. Lat us dat Boot nu noch en beten
 wider rupholen; Vörsicht is beter as Nahsicht; un dunn gahn wi nah
 din Höhl'.«
@@ -435,8 +433,6 @@ die Eier, die sie den Nestern entnahmen.
 
 Towe war der erste, der zu murren begann und sich mit dieser Kost
 unzufrieden zeigte.
-
-<!--bild-->
 
 »Dat is nix nich für christliche Seefahrer,« sagte er verdrossen.
 »Wir müssen das Boot seeklar kriegen, oder wir gehen hier an Skorbut

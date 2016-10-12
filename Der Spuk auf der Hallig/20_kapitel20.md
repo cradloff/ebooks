@@ -162,7 +162,6 @@ an der Boje vorbeilief, bemerkten sowohl
 die Halligleute, als auch die über die Reling
 guckenden Franzosen, dass sie beschädigt war.
 Eine Armeslänge über der Wasserlinie befand
-<!--bild-->
 sich ein Loch von etwa zwei Fuß im Durchmesser. &mdash; Fräulein Ulferts und
 Kapitän Jaspersen und auch der am Ruder stehende Paul beschauten sich das
 Ding. Plötzlich hörten sie einen dumpfen Schrei aus dem Loche hervordringen.
@@ -294,5 +293,5 @@ von einer dieser Behausungen zur andern der dröhnende Anruf:
 
 <em><div class="g">»Hallig ahoi!«</div></em>
 
-<div class="footnote" id="fn1"><a href="#rn1">&uarr;</a>Gleichbedeutend mit: »Yes, yes!« Sprich: Ai, ai (deutsch).</div>
+<div class="footnote" id="fn1"><a href="#rn1">1</a>Gleichbedeutend mit: »Yes, yes!« Sprich: Ai, ai (deutsch).</div>
 

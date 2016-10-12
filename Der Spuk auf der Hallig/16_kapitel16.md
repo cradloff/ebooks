@@ -40,7 +40,6 @@ gute Gelegenheit bietet.«
 
 Towe äußerte zwar noch einige Bedenken wegen der Stetigkeit der
 Brise, war dann aber einverstanden, und so jagten sie in brausender
-<!--bild-->
 Fahrt immer weiter hinaus über die schimmernde, jetzt mit unzähligen
 kleinen, schneeweißen Schaumkämmen bedeckte See, der sonnigen Ferne
 zu. Sie hatten ihre innige Freude an dem Gebaren des Bootes, an dem
@@ -81,7 +80,7 @@ Ende bis zum anderen sehen konnte.
 
 »Just so en Daak, as in de engelsche Kanal,« brummte Towe, indem
 er das Segel wegnahm. »Nu hewwt wi dat Vergnügen, torügg
-to rojen. Schöne Aussicht! Wer wert, ob wi hüt abend noch to Hus
+to rojen. Schöne Aussicht! Wer weet, ob wi hüt abend noch to Hus
 kamt. Hoffentlich fangt dat nich ook noch an to weihen.«
 
 Sie legten die Remen aus. Der Nebel war nass und kalt, so dass

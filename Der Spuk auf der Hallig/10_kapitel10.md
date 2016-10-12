@@ -343,8 +343,6 @@ her, da habe ich etwas erlebt, was ich mein Lebtag nicht vergessen werde.«
 »Ach bitte, erzählen Sie, Keppen Jaspersen,« drängte Paul. »Wir
 sitzen hier so traulich beisammen &mdash; ach bitte!«
 
-<!--bild-->
- 
 »Ein andermal, Jungchen,« sagte der Schiffer, »wir werden noch
 oft genug hier beisammen sitzen.«
 
@@ -391,7 +389,7 @@ Jaspersen betrachtete die Pflanze, beroch sie, kostete davon und
 erklärte dann, seiner Meinung nach wäre das Kerguelenkohl, eine Pflanze,
 die zuerst auf den Kerguelen gefunden worden sei, einer Inselgruppe, die
 ungefähr in derselben Breite wie die Crozets, aber weiter östlich liege.
-Er habe von den guten Eigenschaften dieses Kohls manches gehört und  
+Er habe von den guten Eigenschaften dieses Kohls manches gehört und
 gelesen, und wenn dies die richtige Art wäre, dann müsse man Towes
 Entdeckung mit Freude begrüßen. Gleich morgen solle eine Probe davon
 gekocht werden, und habe diese einen Kohlrabigeschmack, dann wär's der
@@ -439,7 +437,7 @@ gemacht werden solle, so wollte ich damit keineswegs gesagt haben,
 dass deutsche Seeleute von dieser Torheit ganz frei seien. Im Gegenteil,
 unsere Janmaaten haben durchaus kein Recht, sich in dieser Hinsicht über
 die Griechen und andere Ausländer erhaben zu dünken. Die meisten
-halten es heutigestags noch für unglückverheißend, wenn eine Frau sich  
+halten es heutigestags noch für unglückverheißend, wenn eine Frau sich
 an Bord befindet, Kinder dagegen sollen guten Wind bringen. Die Torheit
 geht noch weiter. Noch vor dreißig Jahren lebte an der Schlei,
 im Schleswigschen, eine alte Frau, die an die Seefahrer Wind verkaufte
@@ -531,7 +529,7 @@ Stüermann erzählt.‹
 »›So,‹ sagte ich. ›Na, dann wollen wir mal vorausgehen und hören,
 wie die Sache sich verhält.‹
 
-»Ich setzte die Mütze auf und machte mich mit dem Zweiten auf den  
+»Ich setzte die Mütze auf und machte mich mit dem Zweiten auf den
 Weg nach dem Mannschaftslogis. Als wir so unerwartet die Treppe
 herunterkamen, da mochte die farbige Gesellschaft wohl meinen, dass sich
 jetzt auf einmal zwei Spukgeister statt des einen zeigten, denn einige der
@@ -625,7 +623,7 @@ Matrosen wie durch Zauberei plötzlich von einem Schiffe verschwanden
 und an Bord eines andern wieder auftauchten, wenn es sich so fügte,
 dass das letztere in der nächsten Morgenfrühe in See zu gehen hatte. Die
 Kapitäne und Steuerleute plagten sich da draußen wenig mit Skrupeln
-über die Art und Weise, wie sie die Lücken ihrer Mannschaft ergänzten.  
+über die Art und Weise, wie sie die Lücken ihrer Mannschaft ergänzten.
 »Meine Darkis dachten zu einfältig und kindlich, um sich diese Umstände
 zunutze zu machen und einfach vom Schiff abzulaufen; trotzdem
 aber beschloss ich, einen besonders scharfen Ausguck zu halten, sobald ich
@@ -705,7 +703,7 @@ gehen, da wollen wir sehen, ob wir den Spuk nicht finden.‹
 
 »›Sie kommen mit, Zimmermann! Seien Sie doch kein Kind!‹ rief
 ich ungeduldig. ›Ick bün all eben dal west, aber wi möte twei Mann
-sin, dormit dat wi de Matrosen, de fick dor neeren den Spaß maken
+sin, dormit dat wi de Matrosen, de sick dor neeren den Spaß maken
 doon, beluern un ehr den Weg afsniden könt, wenn se utneihen wüllt.‹
 
 »Das leuchtete dem Zimmermann ein; er folgte mir zur Großluk und
@@ -722,7 +720,7 @@ lang gelauscht hatten, kehrten wir zusammen in die Kajüte zurück. Der
 Zimmermann wollte nicht eher wieder in seine Koje gehen, bis der zweite
 Steuermann wieder an Bord war, der die Kammer mit ihm teilte.
 
-»Als die Beurlaubtgewesenen endlich anlangten, gingen wir alle noch  
+»Als die Beurlaubtgewesenen endlich anlangten, gingen wir alle noch
 einmal hinab in den Ballastraum und hörten den Schreckenstönen zu, die
 in dem Plankenwerk hin und her zu wandern schienen. Ihre Ursache blieb
 uns verborgen, wir mussten zugestehen, dass die armen Teufel im Logis
@@ -783,7 +781,7 @@ doppelte Holzbeplankung so deutlich hören konnte. Ich dachte immer, im
 Wasser müsste jeder Ton ersticken.«
 
 »Da warst du im dicken Irrtum, mein Junge,« entgegnete der
-Schiffer. »Das Wasser ist der allerbeste Schalleiter, das wissen die
+Schiffer. »Das Wasser ist der allerbeste Schallleiter, das wissen die
 Fischer schon längst. Wenn sie das Ohr an einen ins Wasser getauchten
 Remen halten, dann können sie genau hören, wenn in der Ferne ein
 Dampfer vorbeifährt. Zu demselben Zweck legen Lotsen das Ohr auf
@@ -795,7 +793,7 @@ der Ton unter Wasser viermal so laut gehört wird, als in der
 Luft.« &mdash; »Das habe ich noch nicht gewusst,« erwiderte Paul. »Bei
 Gelegenheit muss ich das einmal probieren.«
 
-»Ick heww dat all lang müsst,« sagte Towe, »dat Hören mit en
+»Ick heww dat all lang wüsst,« sagte Towe, »dat Hören mit en
 Remen, meen' ick, un heww mi ok ümmer doräwer wunnert, wo dat möglich
 wesen kunn. Aber nu, wo Keppen Jaspersen uns dat so fein verklort
 het, nu weet ick Bescheed. Up de Schallwellen kümmt dat an, wenn
@@ -812,7 +810,7 @@ lugte er scheu und angstvoll zum Scheinlicht hinauf.
 
 Paul folgte seinem Blicke. Die Presenning, die man über das zerschmetterte
 Fenster gedeckt hatte, war an einer Ecke aufgehoben, und durch
-die Lücke schaute ein geisterbleiches Antlitz hernieder, dasselbe von wirrem  
+die Lücke schaute ein geisterbleiches Antlitz hernieder, dasselbe von wirrem
 Haar umgebene Mädchenantlitz, das er in jener Nacht in der Kombüse
 gesehen hatte. Kalt wehte die Brise durch die Öffnung herein, die Lampe
 flackerte auf und erlosch, und alle saßen im Dunklen.
@@ -861,15 +859,13 @@ gewesen war.
 eher je besser.«
 
 Entschlossen sprang er aus der Koje, kleidete sich schnell und geräuschlos
-an und ging an Deck. Das hohe, bergige Land ringsumher ließ  
+an und ging an Deck. Das hohe, bergige Land ringsumher ließ
 die Nacht noch dunkler erscheinen. Als er an der Treppe stand, die zum
 Hauptdeck hinabführte, war ihm so unheimlich zumute, dass er schon
 daran dachte, lieber wieder umzukehren. Misstrauisch schaute er zur Kombüse
 hinüber. Dort drinnen musste es längst wieder kalt sein, da über
 zwei Stunden vergangen waren, seit Towe zuletzt mit dem Feuer zu tun
 gehabt hatte.
-
-<!--bild-->
 
 Aber was war das?
 
@@ -916,5 +912,4 @@ Vater!«
 
 Dann sank sie ohnmächtig zusammen und Paul hatte alle Mühe, sie
 vor einem schweren Falle zu bewahren und auf die Bank niederzulassen.
-
 

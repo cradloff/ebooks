@@ -152,7 +152,6 @@ in der frostklaren Atmosphäre scharf abgezeichnet auf dem Hintergrunde
 der hellen Luft. Die Passagiere eines vorbeikommenden großen Ozeandampfers
 hatten Verständnis dafür, sie standen in langen Reihen an der
 Reling und folgten dem Schiffe mit bewundernden Blicken, solange es deutlich
-<!--bild-->
 in Sicht war. &mdash; Der »Senator Merk« hatte einen Rauminhalt von tausendsechshundert
 Registertonnen<a href="#fn1" class="refnote" id="rn1">1</a> und führte eine Besatzung von achtzehn Vollmatrosen,
 zwei Leichtmatrosen und zwei Jungen. Einer der Leichtmatrosen
@@ -166,7 +165,7 @@ bald aus dem rauen nordischen Klima in eine wärmere Gegend. Hier
 schralte der Wind jedoch nach Süden herum; man musste die Raaen
 scharf anbrassen, die Bulinen ausholen und »bei dem Winde« segeln.
 
-Die Mannschaft bestand fast gänzlich ans Seeleuten von unserer
+Die Mannschaft bestand fast gänzlich aus Seeleuten von unserer
 nordischen Wasserkante, Hamburgern, Schleswig-Holsteinern, Friesen und
 Pommern; nur zwei Ausländer befanden sich darunter, ein Norweger
 und ein Grieche. Solange nicht zu viel fremde Elemente im Logis sind,

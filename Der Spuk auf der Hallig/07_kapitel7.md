@@ -121,8 +121,6 @@ schlanke Rumpf hoch aus dem schaumigen Bade, und dann glich das
 schöne Schiff einem Seevogel, der auf dem Gipfel einer Woge die Schwingen
 ausbreitet und schüttelt, ehe er von neuem in die Tiefe taucht.
  
-<!--bild-->
-
 Der Orkan wurde stärker. Dem Schiffer stiegen Bedenken auf, ob die
 Untermarssegel, obgleich aus gutem, neuem Segeltuch, dem ungeheuren Drucke
 noch viel länger würden Widerstand leisten können. Er hätte gern das Schiff
@@ -276,7 +274,7 @@ Segelkammer liegen Reserveleinen.«
 
 Towe holte die Leinen, rief Paul, und beide machten sich ans Werk.
 Es war ein gefährliches Stück Arbeit, da die Preventerbrassen neben den
-Blöcken der eigentlichen Brassen draußen an den Rocken der Raaen befestigt
+Blöcken der eigentlichen Brassen draußen an den Nocken der Raaen befestigt
 werden mussten und das Schiff gewaltig schlengerte. Tüchtige Seeleute
 aber bringen so ziemlich alles fertig, und so langten auch unsere
 beiden Freunde wohlbehalten wieder an Deck an.
@@ -376,8 +374,6 @@ Sogleich wusste er, was mit ihm vorgegangen war.
 »Heww ick veel afkregen?« &mdash; »Das rechte Bein ist gebrochen, just über dem
 Knie. Wenn Sie sich recht still verhalten, wird es bald wieder in Ordnung
 sein. Zwei Rippen sind auch eingeknickt, das ist aber nicht schlimm.«
-
-<!--bild-->
 
 »Junge, Junge, dor is soveel Arbeit an Deck und ick möt nu hier
 liggen as en unnützes Stück Holt! Mein Gott! Man noch veer Mann,

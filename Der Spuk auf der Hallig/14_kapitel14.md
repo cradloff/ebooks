@@ -158,8 +158,7 @@ empor. Der Stiefel blieb zurück, der Fuß aber wurde frei, wenn auch
 mit einer blutenden Wunde auf seinem oberen Teile, wie der Jüngling
 gewahrte, als er triefend neben seinem Retter stand.
 
-»Dank', Towe, alter Freund,« sagte er. »Hättest du mir nicht geholfen, 
-<!--bild-->
+»Dank', Towe, alter Freund,« sagte er. »Hättest du mir nicht geholfen,
 dann wäre ich vor Kälte umgekommen. Zieh' dich
 schnell wieder an, du klapperst noch mehr als ich.«
 

@@ -63,7 +63,6 @@ ick heww dat jo all lang wusst! Du schast sehn, ob ick nich recht heww.«
 »Ach wat, Snack! Du mit din Hochdütsch! Weetst du nich ebenso
 good as ick, dat so lang as wie nu all in See sünd, binah jeden Dag
 een von uns wat verloren un nich wedderkregen het, hüt de un morgen
-
 de? Weetst nich, wo oft dor Zank un Strid nah kamen is? Toerst wer
 den Sleswiger sin gollen Ring weg; dünn verlör de Flensburger sin
 engelsches Taschenmetz; nahsten wer den annern sin fine nickelsche Tobaksbüß
@@ -120,7 +119,7 @@ Jaspersen stand bei der Besanswant und schaute in Gedanken versunken
 als Paul in zwei Sprüngen die Achterdeckstreppe heraufkam. Dann
 hörte er ruhig an, was dieser ihm zu berichten hatte.
 
-»Hm,« sagte er, »Towe Tjarks müsste eigentlich wissen, was da zu  
+»Hm,« sagte er, »Towe Tjarks müsste eigentlich wissen, was da zu
 tun ist. Er kennt doch das Verfahren, das in solchen Fällen zur Anwendung
 kommt. Durch solch ein Volksgericht an Bord wird dem Kerl
 viel wirksamer Ehrlichkeit beigebracht, als durch ein Jahr Gefängnis an
@@ -185,7 +184,7 @@ min goode sülwerne Uhr stahlen het?« entgegnete Lassen giftig.
 een von ju Stüerbordwach' west sin? Dor is de Griek, den hewwen se
 hüt nacht en Pund Tobak stohlen, as he seggen ded. Dat kann doch
 man een von ju dahn hewwen, in de Tid, wo he sin Roortörn wohrnehmen
-ded. He seggt ok, he müsst de Mann, de't dahn het.«
+ded. He seggt ok, he wüsst de Mann, de't dahn het.«
 
 »Denn büst du woll so good, Gazzi, un nennst uns düssen Mann,«
 wendete Lassen sich jetzt an den Griechen. »Meine Frau hat mich die
@@ -210,7 +209,7 @@ Man band dem tückisch die Zähne fletschenden Menschen die Hände
 zusammen und stieß ihn die Treppe hinauf an Deck, wo sich inzwischen
 die gesamte Mannschaft versammelt hatte.
 
-Eine umgekehrte Waschbalje diente als Richterstuhl, aus dem Julius
+Eine umgekehrte Waschbalje diente als Richterstuhl, auf dem Julius
 Lassen, als der am meisten Geschädigte, Platz nahm.
 
 »Man führe den Gefangenen vor!« befahl er ernst und streng.
@@ -249,12 +248,11 @@ em äwer dat Spill! Wi wüllt em sin Lex gewen, he schall sick nich
 wedder an uns' Eigendum vergriepen!«
 
 Der Grieche wurde von vier Matrosen gepackt, über das Ankerspill
-gezogen und darauf festgebunden. Jetzt ergriff ihn die Angst, er flehte 
-<!--bild-->
+gezogen und darauf festgebunden. Jetzt ergriff ihn die Angst, er flehte
 laut jammernd um Gnade, er wolle auch in seinem ganzen Leben nicht
 wieder stehlen.
 
-»Aha,« sagte Lassen, »ick heww dat jo musst, dat de Vogel noch ganz
+»Aha,« sagte Lassen, »ick heww dat jo wusst, dat de Vogel noch ganz
 fein singen kunn. Also weil er bekannt hat und auch nie nich wieder
 stehlen will, so soll ihm ein Dutzend erlassen werden. Wat seggt ji, Maaten?«
 

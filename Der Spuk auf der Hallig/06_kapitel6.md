@@ -116,7 +116,7 @@ Weers. »Nee, nich för'ne ganze Welt vull Bergelohn!«
 »Dat werd't Ji Jug woll noch en beten äwerlegen, Maat,« entgegnete
 Keppen Jaspersen. »Dat de Dör tofeel, was'n Tofall, wider nix.«
 
-»En schönen Tofall!« entgegnete Weers. »Slengert dat Schipp  
+»En schönen Tofall!« entgegnete Weers. »Slengert dat Schipp 
 verlich so bannig? Nee, Kaptein, de ohle Hallig staht so ruhig un fest,
 as 'ne Kirch' an Land; Se könt en Ei up de Nock von den Klüverbohm
 balangseeren laten. Nee, Kaptein, düsse Dör is nich von Menschenhänden
@@ -165,15 +165,13 @@ du, Towe?« &mdash; »Ich ok nich,« antwortete Towe.
 
 Kaum hatte er dies gesagt, da erhob sich ein trappelndes und krabbelndes
 Geräusch in einer der Kojen, eine große Ratte sprang heraus und
-lief über die Planken des Fußbodens einem entfernten Winkel zu. Towe  
+lief über die Planken des Fußbodens einem entfernten Winkel zu. Towe 
 hob eine vor ihm liegende Holzleiste auf und warf damit nach dem widerwärtigen
 Tier. Ein kreischendes Gequietsch' folgte.
 
 »De heww ick!« rief Towe, bückte sich und nahm die erschlagene
 Ratte beim Schwanze vom Boden auf. »Junge, Junge, dat Beest is so
 grot as ne Katt!«
-
-<!--bild-->
 
 Die Ratte musste sehr alt gewesen sein; ihr Fell war fast haarlos,
 sie hatte nur noch zwei Zähne, die unverhältnismäßig lang waren und

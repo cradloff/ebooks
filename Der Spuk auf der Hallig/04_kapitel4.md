@@ -18,7 +18,7 @@ mit Unrecht auch das Kap der Stürme genannt wird.
 
 Seit der Bestrafung des Griechen war das Leben im Mannschaftslogis
 ruhig und friedlich; mit dem Verbannten verkehrte man nur, wenn
-der Dienst dies erforderte. Bei mildem Wetter konnte dieser über sein  
+der Dienst dies erforderte. Bei mildem Wetter konnte dieser über sein 
 Quartier im Großboot nicht klagen, die Aussicht aber, auch beim Passieren
 des Kaps darin zubringen zu müssen, war keine angenehme. Die Mannschaft
 war jedoch fest entschlossen, ihn nicht wieder im Logis aufzunehmen.
@@ -118,8 +118,7 @@ schickte er Weers und Tjarks nach vorn mit der Weisung, das Logis zu
 untersuchen. »Paul und ich gehen achteraus in die Kajüte,« sagte er.
 
 Die Matrosen machten sich zögernden Schrittes auf den Weg. Sie
-trauten der Sache nicht und fürchteten, unter Deck auf einen schrecklichen  
-<!--bild-->
+trauten der Sache nicht und fürchteten, unter Deck auf einen schrecklichen
 Anblick zu stoßen. Nicht umsonst erzählen sich die Seeleute während
 ihrer Freiwachen allerlei Geschichten von grausigen Begebenheiten auf der
 weiten, einsamen See, unter denen die eine oder die andere wohl auch
@@ -182,13 +181,10 @@ Lüd sick erst noch mal lustig makt hewwen, ehr se von Bord gahn deden.
 Woans wer dat in de Kajüt', Stüermann?«
 
  
-Jaspersen erzähle, was wir bereits wissen und schloss dann: »Wie
+Jaspersen erzählte, was wir bereits wissen und schloss dann: »Wie
 der letzte Mann über Bord gelangt sein mag, das ist mir ein Rätsel.
 Vielleicht ist er gar nicht krank gewesen; vielleicht konnte er bloß die schreckliche
 Einsamkeit nicht ertragen und ist einfach ins Wasser gesprungen.
-
-<!--bild-->
-
 Es scheint der Steward gewesen zu sein, weil er vorher noch so sorgsam
 den Tisch deckte. Ja, aber für wen?« setzte er hinzu.
 
@@ -252,8 +248,7 @@ sein, wieder in einer Koje schlafen und mit seinen Schiffsmaaten auf
 gleichem Fuße verkehren zu dürfen.
 
 Als alles an Deck der Hallig geschafft war, ließ Jaspersen die Segel
-trimmen und schickte Paul ans Ruder. Bei der noch immer schwachen  
-<!--bild-->
+trimmen und schickte Paul ans Ruder. Bei der noch immer schwachen
 Brise begann die Bark langsam ihre Fahrt nach
 dem Kap der Guten Hoffnung. &mdash; »Die Senatorleute
 ins Boot!« rief der Steuermann, dem wir jetzt

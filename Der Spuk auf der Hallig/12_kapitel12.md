@@ -264,7 +264,6 @@ Fräulein,‹ rief der eine, ›du schast de Vörtopp labsalben. Hest hört?‹
 »Da schrien sie mir auf englisch zu &mdash; wie sie überhaupt stets lieber
 Englisch als Deutsch geredet hatten, weswegen sie von meinem Vater oft
 genug zur Rede gestellt worden waren &mdash; da schrien sie mir also zu,
-<!--bild-->
 sie ließen mir noch fünf Minuten Zeit, meine Zunge zu finden; machte
 ich dann nicht auf, dann würden sie die Tür einschlagen. Und weil ich
 so unhöflich gewesen wäre, Gentlemen keine Antwort zu erteilen, so würde
@@ -368,7 +367,7 @@ Crozets auf der Karte den Namen ›Eberinsel‹. Ist das nicht so?«
 liegt ein gutes Stück östlich von der unsrigen. Soviel ich habe feststellen
 können, befinden wir uns hier so ziemlich auf der westlichsten Insel der
 ganzen Gruppe. Vielleicht unternehmen wir eines Tages, wenn das
-Wetter beständig sein wird, eine Entdeckungsreise im Boote. Jetzt ist  
+Wetter beständig sein wird, eine Entdeckungsreise im Boote. Jetzt ist
 noch keine Zeit dazu, da vor allen Dingen die Bark wieder eine Takelung
 erhalten muss. Bis jetzt ist die Luft immer so dick und so wenig
 sichtig gewesen, dass ich selbst mit dem Kieker kein anderes Eiland wahrnehmen

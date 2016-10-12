@@ -114,7 +114,7 @@ ehe ich es noch recht wahrgenommen hatte, ich wusste aber, dass die Empfindung
 nicht nur Einbildung bei mir gewesen war. Ich trat an den
 Rudersmann heran und fragte ihn, ob er nicht auch etwas gespürt hätte.
 
-»›Jowoll, Stüermann,‹ sagte der Mann.  ›Dat Schipp het bewert.‹
+»›Jowoll, Stüermann,‹ sagte der Mann. ›Dat Schipp het bewert.‹
 
 »Kaum hatte er dies gesagt, da erbebte die Bark von neuem und
 stärker. Diesmal schien es, als striche sie mit dem Boden über eine Bank
@@ -124,7 +124,7 @@ Deck herumgesessen hatten, ließen Rufe des Erstaunens und Schreckens
 hören. Der Schiffer kam in Unterkleidern die Kampanjetreppe herauf.
 
 »›Was ist Stüermann?‹ fragte er in Hast. &mdash; ›Wahrscheinlich ein
-unterseeisches Erdbeben,‹ antwortete ich,  ›oder der Kiel ist auf einer Korallenklippe entlang gescheuert.‹ &mdash; ›Wollen loten, Stüermann,‹ rief er.
+unterseeisches Erdbeben,‹ antwortete ich, ›oder der Kiel ist auf einer Korallenklippe entlang gescheuert.‹ &mdash; ›Wollen loten, Stüermann,‹ rief er.
 
 »Da die Bark nur ganz geringe Fahrt lief, warf ich das Handlot
 gleich achtern über Bord und ließ die ganze Leine auslaufen, ohne jedoch
@@ -446,7 +446,7 @@ größeren Schluck.‹
 »Der Trunk belebte mich außerordentlich; es dauerte aber noch eine
 Weile, ehe ich reden konnte.
 
-»›Waren Sie allein dort drüben?› ‹ fragte er.
+»›Waren Sie allein dort drüben?‹ fragte er.
 
 ›Ja,‹ antwortete ich.
 
