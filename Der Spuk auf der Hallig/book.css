@@ -68,14 +68,6 @@ a.footnote {
 	vertical-align: super;
 }
 
-/* replace horizontal row with three asterisk */
-hr {
-	border: none;
-	margin: 2.0rem auto;
-	text-align:center;
-}
-    
-hr:before {
-	content: "***";
-	letter-spacing: 1rem;
+.g {
+	letter-spacing: 0.25em;
 }
