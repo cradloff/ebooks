@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>9. Kapitel.</h1>
 
 <div class="subtitle">Warum der Ruf den Halligleuten wie Rabengekrächze erschien. &mdash; Towe wird
@@ -18,7 +19,7 @@ Hoffnungen, zaubert der Ruf das Bild der lieben trauten Heimat vor
 die hungernde Seele, wo sie einst Vater und Mutter, Brüder und
 Schwestern, und manchen teuren Freund zurückließen, um in der Ferne
 das Glück zu suchen. Und bange Zweifel steigen in ihnen auf: wer von
-den Geliebten lebt noch? Wer schläft schon den langen Schlaf draußen
+\<@pagebreak 51/> den Geliebten lebt noch? Wer schläft schon den langen Schlaf draußen
 auf dem stillen Friedhofe?
 
 Der Mannschaft der »Hallig Hooge« erschien der Ruf wie das Gekrächze
@@ -48,9 +49,8 @@ hatte er so etwas doch bereits seit vierundzwanzig Stunden gefürchtet.
 
 »Das kann ich nicht sagen, einige Meilen aber sind es immerhin
 gewesen.«
- 
 
-»So! Nun guck' scharf aus und rufe, wenn es wieder in Sicht
+\<@pagebreak /> »So! Nun guck' scharf aus und rufe, wenn es wieder in Sicht
 kommt.«
 
 »Jawoll, Kaptein.«
@@ -100,7 +100,7 @@ gewaltige Last, wie der Anker war, über die Bugreling zu wuchten, was
 bei dem Rollen und Stampfen des Fahrzeugs ohnehin eine Riesenarbeit
 war.
 
-Bei dieser Beschäftigung kam ihnen mehrmals, wenn der Nebel verwehte,
+\<@pagebreak /> Bei dieser Beschäftigung kam ihnen mehrmals, wenn der Nebel verwehte,
 das Land wieder in Sicht &mdash; eine zackige, schroffe, anscheinend
 ganz unnahbare Küste. Wind und Wogen brachten die Hallig derselben
 näher und näher, und unsere Freunde sahen sich außerstande, die Katastrophe,
@@ -145,7 +145,7 @@ sehen, wie's im Notfall mit dem Ankergrund bestellt ist.«
 Paul eilte achteraus, die beiden andern folgten ihm. Ersterer brachte
 zunächst die Lotleine an Deck, dann holte er eine Balje herbei und legte
 die Leine hinein; dies ist nötig, um das Unklarwerden der Leine zu verhindern. 
-Darauf brachte er das Lot<a href="#fn1" class="refnote" id="rn1">1</a> herauf. Towe befestigte es an
+\<@pagebreak /> Darauf brachte er das Lot<a href="#fn1" class="refnote" id="rn1">1</a> herauf. Towe befestigte es an
 der Leine und ging dann damit nach vorn, dafür Sorge tragend, dass die
 Leine frei außenbords blieb. Das war nicht schwer, da ja Wanten und
 Pardunen nicht mehr vorhanden waren. Paul hielt die Leine mittschiffs
@@ -183,7 +183,7 @@ wohl einen Hafen oder eine Bucht, wo wir landen können.«
 
 »So war's richtig, Keppen Jaspersen,« sagte Towe beifällig. »Ich
 wollte nämlich ganz denselbigen Vorschlag machen. Katje hat mich erzählt,
-dat damals, als uns' ›Hammonia‹ auf den Muschelsand aufgelaufen
+\<@pagebreak /> dat damals, als uns' ›Hammonia‹ auf den Muschelsand aufgelaufen
 war, der Herr Pastor und all die andern Leute achter den Bootsschuppen
 gegangen sind, um für uns zu beten, un dat dat geholfen hat, dat wissen
 wir beide, un Paul weet dat ok. Ich hab' aber Heik Weers versprochen,
@@ -232,7 +232,7 @@ Herr, hilf mir! Nu haben wir ihm auch gebeten, un ick weet, he ward
 uns ok helpen.«
 
 »Süso, Heik, dat geföllt mi von di,« sagte Towe. »Wat sollten 
-wir woll anfangen, wenn wi uns' ohlen Heik Weers nich hätten, wat,
+\<@pagebreak /> wir woll anfangen, wenn wi uns' ohlen Heik Weers nich hätten, wat,
 Maaten? Dat is en Mann, de het den richtigen Katarakt.«
 
 »Wat het he?« fragte Paul, dem trotz des ernsten Augenblicks die
@@ -280,7 +280,7 @@ Das Gebrüll der Brandung wurde betäubend. Die Strömung führte die
 Hallig in schräger Richtung der klippenumstarrten Küste zu. Alle Hoffnung
 entschwand wieder aus den Herzen. Kurz zuvor noch waren sie zum Sterben
 bereit gewesen, jetzt wollten sie wieder leben. Zur Rechten endete die 
-Insel in einem schroffen, von turmhoher Brandung umtosten Kap. Nach
+\<@pagebreak /> Insel in einem schroffen, von turmhoher Brandung umtosten Kap. Nach
 Jaspersens Berechnung musste die Bark etwa zweihundert Meter von
 diesem Kap entfernt auf die Felsen rennen. Nur noch wenige Minuten,
 dann war's zu Ende.
@@ -297,7 +297,7 @@ Schnelligkeit zueilte. Wenn es nur zehn Meter weiter nach Steuerbord
 trieb, dann kam es vorbei. Aber es blieb auf dem verderbenbringenden
 Kurse. Jetzt &mdash; jetzt musste es aufrennen.
  
-Unwillkürlich schloss jeder die Augen, und aus jeder angstumschnürten
+\<@pagebreak /> Unwillkürlich schloss jeder die Augen, und aus jeder angstumschnürten
 Brust rang sich ein Stoßgebet empor, denn die menschliche Natur ist schwach.
 
 Die »Hallig Hooge« aber trieb an dem Felsen vorbei, dicht außerhalb

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>7. Kapitel.</h1>
 
 <div class="subtitle">Sturm. &mdash; »Loggen!« &mdash; Warum dem Schiffer unheimlich zumute wurde. &mdash;
@@ -25,8 +26,7 @@ wurde sie noch durch den Schiffer verstärkt.
 Vor- und Großbramsegel und hol' nieder Außenklüver und die
 Bram- und Stengenstagsegel!«
  
-
-Alle Mann sprangen an die Geitaue und Niederholer, der Schiffer
+\<@pagebreak 37/> Alle Mann sprangen an die Geitaue und Niederholer, der Schiffer
 voran; Towes schallendes »Holioho!« ertönte, und bald waren die Kommandos
 ausgeführt.
 
@@ -75,7 +75,7 @@ schwieg aber als der Schiffer ihn scharf und vorwurfsvoll ansah.
 Im Laufe des Nachmittags sammelten sich im Nordwesten schwere
 dunkle Wolkenmassen. Jaspersen sah nach dem Barometer; es fiel schnell.
 Die Wache wurde ausgepurrt, und die kleine Mannschaft arbeitete mit 
-Aufbietung aller Kraft auf den Raaen, um die Obermarssegel wegzunehmen,
+\<@pagebreak /> Aufbietung aller Kraft auf den Raaen, um die Obermarssegel wegzunehmen,
 die Fock-, das Großsegel und den Besan zu reffen. Nachdem
 noch der Klüver geborgen war, blieb den Leuten nichts mehr übrig, als
 zu warten, bis der Sturm losbrechen würde.
@@ -121,7 +121,7 @@ schlanke Rumpf hoch aus dem schaumigen Bade, und dann glich das
 schöne Schiff einem Seevogel, der auf dem Gipfel einer Woge die Schwingen
 ausbreitet und schüttelt, ehe er von neuem in die Tiefe taucht.
  
-Der Orkan wurde stärker. Dem Schiffer stiegen Bedenken auf, ob die
+\<@pagebreak /> Der Orkan wurde stärker. Dem Schiffer stiegen Bedenken auf, ob die
 Untermarssegel, obgleich aus gutem, neuem Segeltuch, dem ungeheuren Drucke
 noch viel länger würden Widerstand leisten können. Er hätte gern das Schiff
 beigedreht; es lag auf südöstlichem Kurse, und wenn der von achtern
@@ -136,7 +136,7 @@ Rades Heik Weers allein überlassen.
 
 »Loggen!« brüllte jetzt der Schiffer durch das Getöse des Sturmes
 vom Kampanjedeck herab, unter dessen überragender Brüstung Paul, 
-Gazzi und zuletzt auch Towe Schutz gegen den peitschenden Regen gesucht
+\<@pagebreak /> Gazzi und zuletzt auch Towe Schutz gegen den peitschenden Regen gesucht
 hatten. Er wollte die Fahrgeschwindigkeit der Hallig feststellen.
 
 Dies geschieht durch das Log, das aus einer auf eine Haspel (Logrolle)
@@ -184,7 +184,7 @@ zwei von euch und macht ihn wieder fest. Nehmt ein paar Nockbändsel
 als Extrazeisinge mit.«
 
 Towe und Paul machten sich unverzüglich auf den Weg zur Großwant. 
-Der Aufstieg ging nur langsam vor sich, da der Wind sie so
+\<@pagebreak /> Der Aufstieg ging nur langsam vor sich, da der Wind sie so
 fest gegen die Want drückte, dass sie sich zeitweise nicht zu rühren vermochten.
 Sie mussten dann warten, bis das Schiff nach Steuerbord
 überholte, wodurch sie wieder etwas loskamen. Die Wanten waren abwechselnd
@@ -233,7 +233,7 @@ dass auch das Herz eines Schiffers, der über eine vollzählige Besatzung
 verfügte, dadurch schwer bedrückt werden konnte.
 
 Obgleich die Bark unter die größten Fahrzeuge ihrer Klasse zu zählen 
-war, so war sie doch gegenüber den an Größe und Gewalt immer
+\<@pagebreak /> war, so war sie doch gegenüber den an Größe und Gewalt immer
 noch wachsenden Wogen ziemlich wehrlos. Sie rollte und stampfte und
 arbeitete fürchterlich; bald fuhr sie vorn in die Höhe, bis ein dreißig
 Fuß langes Stück ihres Kiels frei emporragte, dann wieder fiel sie auf
@@ -279,7 +279,7 @@ werden mussten und das Schiff gewaltig schlengerte. Tüchtige Seeleute
 aber bringen so ziemlich alles fertig, und so langten auch unsere
 beiden Freunde wohlbehalten wieder an Deck an.
 
-Hol' an Steuerbord-Großbraß!« grölte der Schiffer durch den
+\<@pagebreak /> Hol' an Steuerbord-Großbraß!« grölte der Schiffer durch den
 Sturm. »Wenn ich die Hand aufhebe, dann luv', Heik!«
 
 »Jowoll, Kaptein!«
@@ -327,7 +327,7 @@ wild hin und her wirbelnde Rad des Steuers. Es war ein Glück, dass
 er es festzuhalten und zu bändigen vermochte, sonst wäre das Schiff
 quer in den Trog der Seen geraten und verloren gewesen. Schon hatten
 die Segel mit schmetterndem Geknatter zu schlagen begonnen, da gelang 
-es ihm, das Fahrzeug wieder vor den Wind zu bringen; die Segel füllten
+\<@pagebreak /> es ihm, das Fahrzeug wieder vor den Wind zu bringen; die Segel füllten
 sich aufs neue, und weiter jagte die Hallig auf ihrer tollen Fahrt.
 
 Towe und Paul hoben Heik Weers auf, trugen ihn ins Logis und
@@ -370,7 +370,8 @@ mit geschickter Hand das gebrochene Bein sachgemäß eingerichtet und verbunden.
 Jetzt erst kam Heik wieder zum Bewusstsein. Er öffnete die
 Augen und sah dem noch immer um ihn beschäftigten Schiffer ins Gesicht.
 Sogleich wusste er, was mit ihm vorgegangen war.
-»Se hewwen mi doktert, Kaptein,« sagte er mit schwacher Stimme.
+
+\<@pagebreak /> »Se hewwen mi doktert, Kaptein,« sagte er mit schwacher Stimme.
 »Heww ick veel afkregen?« &mdash; »Das rechte Bein ist gebrochen, just über dem
 Knie. Wenn Sie sich recht still verhalten, wird es bald wieder in Ordnung
 sein. Zwei Rippen sind auch eingeknickt, das ist aber nicht schlimm.«
@@ -385,9 +386,8 @@ können. Der alte Kasten schmeißt sich noch immer wie unklug umher.«
 Im Hinausgehen hörte er den alten Matrosen noch murmeln: »In
 so'ne Not möt ick hier liggen as 'n fulen Landlubber, un kann mine
 Maaten nich bistahn! Ick wull, ick wer glicks dodblewen!«
- 
 
-Dem wilden Tage folgte eine wilde Nacht. Der Sturm tobte mit
+\<@pagebreak /> Dem wilden Tage folgte eine wilde Nacht. Der Sturm tobte mit
 ungeschwächter Kraft. Die Hallig jagte vor ihm her und schien mit jeder
 Stunde in kälteres Wetter zu geraten. Regen und Schlossen prasselten
 fast unaufhörlich hernieder und trafen die Gesichter und Hände unserer

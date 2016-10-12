@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>5. Kapitel.</h1>
 
 <div class="subtitle">An Bord der Hallig. &mdash; Warum Towe und Heik nicht an der Kapitänstafel speisen
@@ -6,7 +7,7 @@ wollten. &mdash; »Da vorn ist jemand!« &mdash; Warum Paul in Angst nach Towe r
 Paul hatte den ersten Rudertörn. Die andern schauten dem Boote
 so lange nach, bis es bei dem Senator langseit war und binnenbords
 geheißt wurde. &mdash; »Na denn ok adjüs, ohl Senater,« sagte Heik Weers, 
-indem er die rote Flagge mit den drei Türmen &mdash; auch die Hallig Hooge
+\<@pagebreak 24/> indem er die rote Flagge mit den drei Türmen &mdash; auch die Hallig Hooge
 war ein Hamburger Schiff &mdash; zum dritten Male dippte, »adjüs ok. Wi
 ward uns woll nich weddersehn. Aber de Kaptein ward sick woll melln,
 wenn dat Bergegeld klimpern doon deit.«
@@ -53,7 +54,7 @@ dat Wichtigst von de ganze Sak vergeten hadden. Nahsten kam ick bi
 Se achterut un hal wat för de Pött.«
 
 Bald war das Feuer im Gang und ein dicker Qualm stieg aus dem
-Schornstein auf. &mdash; »Junge, Junge,« grinste Weers, »de Senator denkt
+\<@pagebreak /> Schornstein auf. &mdash; »Junge, Junge,« grinste Weers, »de Senator denkt
 nu, de Hallig wer en Stiemboot. Süso, Griek, dat Füer brennt un de
 Pött stahn up de Maschin'; un lat uns de Bedden öwer Bord smiten,
 dormit dat keen von uns dat Fieber kriegt.«
@@ -97,7 +98,7 @@ un Rosinen; Weers het mi seggt, dat he ganz uterwählt feinen Pudding
 maken kann.«
 
 »Dat kann he,« sagte Towe. »Un nu, wo Se von Pudding reden
-doon, is mi de Grugel ok mit eins wedder ut de Mag rut. Wenn't nu
+\<@pagebreak /> doon, is mi de Grugel ok mit eins wedder ut de Mag rut. Wenn't nu
 man erst acht Glasen un Middagstid wer.«
 
 Den ganzen Tag über arbeitete die kleine Mannschaft unermüdlich,
@@ -149,7 +150,7 @@ so besser für uns.«
 wo sie hingehört; jetzt aber ziehen wir hier alle den gleichen Strang und
 können uns auf Zeremonien nicht einlassen. Also kommt dal, Lüd.«
 
-Den alten Gesellen blieb nun nichts übrig, als zu gehorchen. Sie
+\<@pagebreak /> Den alten Gesellen blieb nun nichts übrig, als zu gehorchen. Sie
 gingen hinab, nahmen linkisch auf den Sesseln Platz und speisten zum
 erstenmal in ihrem Leben an einer Kajütstafel. Gazzi versah inzwischen
 an Deck die Posten eines Rudersmannes, Ausgucks, Wachhabenden, kurz
@@ -198,7 +199,7 @@ Esels.« &mdash; Er machte kehrt und ging eilfertiger zurück, als er gekommen
 war, wobei er einigemal ganz unwillkürlich hinter sich sah. Als er das
 Kampanjedeck wieder erreicht hatte, atmete er erleichtert auf.
 
-»Nichts zu sehen und zu hören,« sagte er zu Gazzi. »Also keine
+\<@pagebreak /> »Nichts zu sehen und zu hören,« sagte er zu Gazzi. »Also keine
 Gespensterseherei mehr, das bitte ich mir aus. Jetzt gehen Sie schaffen;
 ich nehme das Ruder.«
 
@@ -237,7 +238,7 @@ außer uns noch jemand an Bord wäre, dann hätte der uns längst mit
 Freuden willkommen geheißen. Jetzt will ich ein wenig schlafen. Ruft
 mich, wenn der Wind herumgehen sollte.«
  
-Als er in der Kajütskappe hinabgetaucht war, rollte Towe sich achter
+\<@pagebreak /> Als er in der Kajütskappe hinabgetaucht war, rollte Towe sich achter
 dem Scheilicht<a href="#fn4" class="refnote" id="rn4">4</a> wie ein großer Hund zusammen und war im Nu eingeschlafen.
 Jetzt war Paul der allein noch Wachende an Bord.
 
@@ -252,7 +253,7 @@ einem leichten Schleier verhängt erschien. Bei der Stille, die ringsum
 herrschte, war es Paul, als wäre er der einzige Mensch an Bord;
 und doch lag Towe Tjarks nur wenig Schritte entfernt von ihm
 an Deck, bereit, bei dem geringsten
-Anlass aufzuspringen. »Ich wollte, ich hörte einen schnarchen,« sagte
+\<@pagebreak /> Anlass aufzuspringen. »Ich wollte, ich hörte einen schnarchen,« sagte
 er zu sich selber, »dann wäre doch nicht alles so tot.« Plötzlich vernahm
 er vorn ein Geräusch, ein Klappern, als ob eine Leine von einem der
 Koffeenägel<a href="#fn5" class="refnote" id="rn5">5</a> herabgeworfen worden wäre; dem folgte das Rasseln eines
@@ -300,7 +301,7 @@ untersuchen sollen. Wir wollen die Raa wieder heißen, Towe.«
 
 Das Stück Arbeit wurde besorgt, und das kräftige Aussingen Towes,
 als er mit dem Schiffer im Takt an dem Fall riss, stärkte unserem Paul
-Herz und Nieren. Es war ihm, als nähmen ihm die fröhlichen, männlichen
+\<@pagebreak /> Herz und Nieren. Es war ihm, als nähmen ihm die fröhlichen, männlichen
 Töne eine Last von der Seele.
 
 Die Nacht verging ohne weitere Aufregung. Sobald es Tag war,

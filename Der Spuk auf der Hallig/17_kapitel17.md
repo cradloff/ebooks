@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>17. Kapitel.</h1>
 
 <div class="subtitle">»Es ist nicht unmöglich, dass ihnen etwas zugestoßen ist«. &mdash; Heiks Klipper.
@@ -15,7 +16,7 @@ er wäre überzeugt, dass sie nicht daran dächten, unter solchen Umständen
 das Einlaufen in den Hafen zu versuchen und wohl längst irgendwo auf
 der Insel Zuflucht gefunden hätten. An Proviant fehle es ihnen nicht,
 das Segel gebe ein treffliches Zelt ab, und so würden sie aller Wahrscheinlichkeit
-nach am nächsten Vormittag wohlbehalten wieder an Bord
+\<@pagebreak 131/> nach am nächsten Vormittag wohlbehalten wieder an Bord
 der Hallig erscheinen.
 
 Diese in zuversichtlichem Tone gesprochenen Worte verfehlten ihre
@@ -62,7 +63,7 @@ Auch Jaspersen war es schwer ums Herz, als er in den grauenden
 Tag hinausstarrte.
 
 »Kann ich Paul nicht mit mir heimbringen,« sagte er zu sich selber, 
-»dann mag auch ich Westerstrand nicht wiedersehen. Der Schmerz würde
+\<@pagebreak /> »dann mag auch ich Westerstrand nicht wiedersehen. Der Schmerz würde
 seinem alten Vater das Herz brechen. Und die arme Mutter! Möge
 Gott noch alles zum guten wenden!«
 
@@ -106,7 +107,7 @@ des Rettungsbootes gewesen ist, das Towe Tjarks und mich dem Tode
 entriss, als mein Schiff, die ›Hammonia‹, bei Westerstrand aufgelaufen
 und in Stücke gegangen war?«
 
-»Nein. Wieviel Unglück Sie doch schon gehabt haben! Bitte erzählen
+\<@pagebreak /> »Nein. Wieviel Unglück Sie doch schon gehabt haben! Bitte erzählen
 Sie.«
 
 Und Jaspersen erzählte ihr von dem Schiffbruch und von der liebevollen
@@ -121,7 +122,7 @@ entronnen sein konnten.
 
 Sie stellte diese Frage nicht, wohl aber wollte sie wissen, ob Menschen
 auf den andern Inseln auch Mittel und Wege finden würden, ihr 
-Leben zu fristen. Das wollte der Schiffer nicht in Abrede stellen. Wenn
+\<@pagebreak /> Leben zu fristen. Das wollte der Schiffer nicht in Abrede stellen. Wenn
 sie dort gelandet wären, so zweifle er keinen Augenblick daran, dass sie
 auch ihr Leben fristen und eines Tages zurückkehren würden. Janmaat
 wüsste sich immer zu helfen und in allen Lebenslagen, zu Wasser wie zu
@@ -167,7 +168,7 @@ jeder anrollenden und wieder abrollenden Woge!
 
 Die Stätte, die ihm so unerwartet Schutz geboten hatte, war eine
 Höhle, oder vielmehr ein tiefes Loch, von einem Felsendache weit überragt 
-und auf dem Boden hoch mit Seetang bedeckt, den die Flut bei schweren
+\<@pagebreak /> und auf dem Boden hoch mit Seetang bedeckt, den die Flut bei schweren
 Stürmen hineingespült haben musste. Es war jedoch ersichtlich, dass die
 Roller nur selten diese hochgelegene Vertiefung erreichten, denn der Tang
 war so trocken wie Zunder. Dazu hielt das Felsendach sowohl den Nebel,
@@ -213,7 +214,7 @@ wird der arme Towe liegen!«
 Unter Furcht und Zittern ging er zögernd näher. Die Vögel
 schienen durch einen Tanghaufen angezogen zu werden. Er blieb stehen,
 um sich innerlich zu festigen und auf den schrecklichen Anblick vorzubereiten, 
-denn er war fest überzeugt, demnächst vor seines Gefährten Leiche zu
+\<@pagebreak /> denn er war fest überzeugt, demnächst vor seines Gefährten Leiche zu
 stehen.
 
 Langsam, Schritt für Schritt, ging er weiter. Jetzt hatte er den
@@ -266,7 +267,7 @@ groten Smerz bün ick inslapen.«
 geschworen, dass du ertrunken seist, und da habe ich mich auch schlafen
 gelegt.«
  
-»Un nu lewt wi alle beid' noch, un ausgeruht haben wir uns auch.
+\<@pagebreak /> »Un nu lewt wi alle beid' noch, un ausgeruht haben wir uns auch.
 Ob dat woll Water auf düsse Insel geben tut? Ick bün mächtig drög,
 wenn ich auch von buten nass aussehen tu'.«
 
@@ -281,7 +282,7 @@ Wat hest du dor?«
 Paul führte den wiedergefundenen Gefährten zu dem Frischwasserbecken,
 wo dieser einen tiefen Trunk tat und sich das Salz vom Gesicht und aus dem
 struppigen Barte spülte. Dann gingen sie strandwärts, das
-Boot zu suchen. Beiden war's hohl im Magen; sie schauten mit begehrlichen
+\<@pagebreak /> Boot zu suchen. Beiden war's hohl im Magen; sie schauten mit begehrlichen
 Blicken nach den Vögeln, und warfen auch mit Steinen nach denen,
 die auf den Felsen saßen, ohne jedoch einen zu treffen. Pinguine, die sie
 leicht hätten erlegen können, waren nicht sichtbar. &mdash; Da gelang es Paul,
@@ -327,7 +328,7 @@ Tid ward dat aber woll duern. Lat us dat Boot nu noch en beten
 wider rupholen; Vörsicht is beter as Nahsicht; un dunn gahn wi nah
 din Höhl'.«
  
-Sie richteten das Fahrzeug auf und zogen es eine Strecke höher
+\<@pagebreak /> Sie richteten das Fahrzeug auf und zogen es eine Strecke höher
 aufs Land, so dass selbst die höchste Flut und die stärksten Roller es
 nicht mehr zu erreichen vermochten; darauf schritten sie der Höhle zu,
 wobei sie nicht vergaßen, den erlegten Albatros mitzunehmen.
@@ -376,7 +377,7 @@ des Tages auf ihren Leibern getrocknet, an die Kälte hatten sie sich so
 ziemlich gewöhnt, hier in dem Loche spürten sie sie kaum, und als sie sich
 in den Tang eingewühlt hatten, war ihnen bald ganz behaglich und warm. 
 
-Paul schlief einige Stunden tief und fest, dann weckte ihn das
+\<@pagebreak /> Paul schlief einige Stunden tief und fest, dann weckte ihn das
 laute Schnarchen seines Genossen. Aufblickend gewahrte er einen schwachroten
 Feuerschein an der Decke der Höhle, und zugleich verspürte er einen
 beißenden, unangenehm riechenden Qualm. Er sprang auf, kletterte aus
@@ -422,9 +423,8 @@ weder Holz noch Werkzeug hatten. Dazu war das Wetter fast unaufhörlich
 rau und stürmisch, die Regengüsse löschten mehrmals das Feuer
 aus, und der Vorrat an trockenem Tang verminderte sich in bedenklicher
 Weise. Bald musste es mit diesem Brennmaterial zu Ende sein.
- 
 
-Um so lange als möglich damit zu reichen, erlegten sie eine große Anzahl
+\<@pagebreak /> Um so lange als möglich damit zu reichen, erlegten sie eine große Anzahl
 von Pinguinen, deren Nistplätze sie inzwischen entdeckt hatten, und rösteten
 alle auf einmal. In dem kalten Klima hielt das Fleisch sich lange, ohne
 zu verderben; sie brauchten nun das Feuer nicht immerwährend in Brand
@@ -451,7 +451,7 @@ Rojen und Ösen<a href="#fn3" class="refnote" id="rn3">3</a>.«
 nich, un wi könt ok dat Boot nich dicht maken, un stoppten wi ok all
 uns' Tüg rin. Nee, min Jung', wi möt wat anners utdenken.«
 
-»Wie du meinst. Jedenfalls aber müssen wir nach den Remen
+\<@pagebreak /> »Wie du meinst. Jedenfalls aber müssen wir nach den Remen
 suchen. Wir sind noch gar nicht auf der anderen Seite der Insel gewesen;
 vielleicht liegen sie da schon längst und warten auf uns.«
 

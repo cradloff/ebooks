@@ -13,7 +13,7 @@ rikarera«, »Schiff ahoi!«, »In Seegang und Brise«,
 <div style="font-size: large; text-align: center; margin-top: 1em;">Mit 25 Textillustrationen von</div>
 <div style="font-size: x-large; text-align: center;">Willy Planck</div>
 
-<div style="font-size: normal; text-align: center; margin-top: 1em;">Volksausgabe</div>
+<div style="font-size: medium; text-align: center; margin-top: 1em;">Volksausgabe</div>
 
 <div style="font-size: large; text-align: center; margin-top: 1em;">Loewes Verlag Ferdinand Carl</div>
 <div style="font-size: large; text-align: center;">Stuttgart</div>

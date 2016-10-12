@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>11. Kapitel.</h1>
 
 <div class="subtitle">Was die andern dazu sagten. &mdash; Wie Heik Weers den Robinson für einen Raubmörder und Brandstifter hält. &mdash; Paul und Dora. &mdash; «Dat Fräulein is 'n Engel!«</div>
@@ -19,7 +20,7 @@ lütte Deern.«
 »Wollen sie achteraus bringen, ehe sie wieder zu sich kommt,« sagte
 der Schiffer kurz entschlossen; »hier können wir nichts mit ihr beginnen.«
  
-Er nahm die Leblose auf und trug sie unter Pauls Beistand in die
+\<@pagebreak 79/> Er nahm die Leblose auf und trug sie unter Pauls Beistand in die
 Kajüte, wo sie in des Jünglings Koje niedergelegt wurde, bis eine andere
 für sie hergerichtet sein würde.
 
@@ -70,7 +71,7 @@ du, Heik?«
 
 »Nee, Towe, mit keen Gedanken nich,« antwortete der Invalide.
 »Nee, Kaptein, ganz gewiss nich. Harr ick wüsst, dat auf die ›Hallig 
-Hooge‹ ein Frauenzimmer verstaut gewesen war, ich wär' um keine düsend
+\<@pagebreak /> Hooge‹ ein Frauenzimmer verstaut gewesen war, ich wär' um keine düsend
 Mark hier an Bord gekommen. Schiff und Mannschaft haben immer
 Unglück, wenn ein Frauenzimmer mit auf See geht. Nu is mich auch
 klar, warum ich mich das Bein un die Rippen hab' brechen müssen, un
@@ -117,7 +118,7 @@ genau als möglich kennen lernten. Paul sollte als Wächter und Koch an
 Bord bleiben.
 
 Nach dem Frühstück wurde Proviant für einen Tag ins Boot
-geschafft; Gazzi betätigte sich bei den Vorbereitungen am eifrigsten; er
+\<@pagebreak /> geschafft; Gazzi betätigte sich bei den Vorbereitungen am eifrigsten; er
 war überhaupt, nachdem der Spuk gebannt war, der Munterste und
 Heiterste von allen.
 
@@ -163,7 +164,7 @@ Die zweite Kiste enthielt nichts als Damengarderobe.
 
 »Nun ist für sie gesorgt,« dachte er erfreut. Und was für feine
 Kleider! Jetzt wollen wir sehen, was die dritte Kiste enthält. Aha,
-Bücher. Er wählte drei davon aus, klappte die Kisten wieder zu und
+\<@pagebreak /> Bücher. Er wählte drei davon aus, klappte die Kisten wieder zu und
 kehrte zu Heik zurück.
 
 »Hier ist etwas gegen die Langeweile,« sagte er. »Erstens ein
@@ -214,7 +215,7 @@ schon nach dem ersten Löffel schmatzte der alte Matrose vor Vergnügen.
 »Aber dat Buch, Paul! Zwei Seiten hab' ich nu all gelesen, dat
 war aber ein Stück Arbeit von anderthalb Stunden. Vielleicht kannst
 du mich daraus wat vorlesen, wenn du mal Zeit hast. Nee, Jung', wat 
-is de Supp' aber schön! Loop, purr din Gespenst ut un giww ehr ok
+\<@pagebreak /> is de Supp' aber schön! Loop, purr din Gespenst ut un giww ehr ok
 mal dorvon.«
 
 »Nein,« entgegnete Paul, »sie soll schlafen so lange sie mag, das
@@ -265,7 +266,7 @@ behüten und beschützen und glücklich heimbringen werden. Warten Sie,
 bitte, einen Augenblick, ich laufe und bringe Ihnen sogleich etwas zu
 essen, denn Sie werden sicherlich hungrig sein.«
  
-Sie streckte den Arm aus, als wolle sie ihn zurückhalten.
+\<@pagebreak /> Sie streckte den Arm aus, als wolle sie ihn zurückhalten.
 
 »Sind alle tot? Alle?« fragte sie, ihn in banger Erwartung anblickend.
 &mdash; »Ja Fräulein; außer Ihnen fanden wir niemand mehr an
@@ -320,7 +321,7 @@ Ihren Namen bitten?«
 »Ich heiße Dora Ulferts,« sagte das Mädchen.
 
 »Sie sind die Tochter des verstorbenen Kapitäns dieses Schiffes,
-nicht wahr?« &mdash; »Ja,« antwortete sie, und brach in Tränen aus. &mdash;
+\<@pagebreak /> nicht wahr?« &mdash; »Ja,« antwortete sie, und brach in Tränen aus. &mdash;
 Paul suchte sie zu trösten so gut er konnte, und hatte auch endlich die
 Genugtuung, sie wieder gefasst zu sehen. Er erbot sich, ihr noch eine
 Kumme von seiner guten Suppe zu bringen; sie dankte jedoch und sprach
@@ -367,9 +368,8 @@ sich seiner anzunehmen. Aber er ist ein alter Brummbär, das sage ich
 Ihnen gleich.« &mdash; Sie lächelte. »O, ich weiß mit Seeleuten umzugehen,
 habe ich doch drei lange Reisen mit meinem guten Vater gemacht.
 Wann erwarten Sie die andern an Bord zurück?«
- 
 
-»Nach Sonnenuntergang. Sie erforschen die Insel. Dort drüben
+\<@pagebreak /> »Nach Sonnenuntergang. Sie erforschen die Insel. Dort drüben
 am Strande liegt das Boot, das einzige, das uns geblieben ist.«
 
 Als Paul später in der Kombüse das Mahl bereitete, leistete das
@@ -407,7 +407,7 @@ ich kann nich anners. Sie werden woll schon gehört haben. Ihr Unglück tut mich
 »Nee, Heik, ohl Fründ, dor kannst du nich für.«
 
 Dora verweilte etwa eine Viertelstunde bei dem Patienten, dem sie 
-versprach, dass er schon nach acht Tagen wieder aufstehen solle, wenn er
+\<@pagebreak /> versprach, dass er schon nach acht Tagen wieder aufstehen solle, wenn er
 ihre Weisungen genau befolgen würde.
 
 Als sie ihn verlassen hatte, brüllte er nach Paul.

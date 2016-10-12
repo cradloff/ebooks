@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>18. Kapitel.</h1>
 
 <div class="subtitle">Ein günstiges Vorzeichen. &mdash; Der Remen im Tang. &mdash; Das Wrack in der Felsspalte. &mdash;
@@ -32,7 +33,7 @@ erblickten beide in dem Fund ein günstiges Vorzeichen und machten sich
 guten Mutes auf den Weg. Bei Menschen in ihrer Lage reicht eine
 Kleinigkeit hin, das Herz mit den kühnsten Hoffnungen zu erfüllen, aber
 eine Kleinigkeit genügt auch oft, es in düsterer Verzweiflung verzagen zu 
-lassen. Sie wanderten längs des Südstrandes dahin und verzehrten
+\<@pagebreak 143/> lassen. Sie wanderten längs des Südstrandes dahin und verzehrten
 unterwegs ihr Frühstück, das wie immer aus geröstetem Pinguinenfleisch
 bestand.
 
@@ -80,7 +81,7 @@ Als er den Felsensporn erreichte, hinter dem der Matrose ihm aus
 Sicht gekommen war, da ward ihm ein Anblick, der ihm den Atem
 stocken ließ.
 
-Vor ihm dehnte sich eine Strecke wild zerklüfteten Strandes aus.
+\<@pagebreak /> Vor ihm dehnte sich eine Strecke wild zerklüfteten Strandes aus.
 Eingekeilt in eine der Felsenspalten saß ein Wrack, behangen mit Tang
 und hie und da mit Muscheln bewachsen. Es ragte hoch aus dem
 Wasser. In seiner Nähe stand Towe Tjarks mit untergeschlagenen Armen,
@@ -128,7 +129,7 @@ Weile verschwunden war.
 »Noch nix nich,« lautete die Antwort. »Dat is nämlich bannig
 duster hier neeren. Töw man noch en beten.«
 
-Paul hörte den Gefährten in der Tiefe umhertappen und stolpern,
+\<@pagebreak /> Paul hörte den Gefährten in der Tiefe umhertappen und stolpern,
 konnte ihn jedoch nicht erspähen. Endlich kam der Anruf:
 
 »An Deck dor!«
@@ -186,7 +187,7 @@ heraufzufördern wären, wenn man die richtigen Anstalten dazu träfe.
 Sie beschlossen, morgen mit Leinen wiederzukommen, und kletterten aus
 dem nassen und dunklen Verliese ans Licht zurück.
 
-Oben angelangt, brachen sie einige der morschen Plankenstücke los,
+\<@pagebreak /> Oben angelangt, brachen sie einige der morschen Plankenstücke los,
 um sie als Feuerungsmaterial zu verwenden. Sie luden sich soviel davon
 auf, als sie tragen konnten, und traten den Rückweg an. Der
 Remen stak noch immer im Tange, und Towe hatte eine große Freude,
@@ -229,9 +230,8 @@ an Bord der Hallig vorgesetzt hatte.
 Als das Morgenmahl verzehrt war, lösten sie das Fall und die
 Schot von dem Segel, und wanderten mit diesen Leinen abermals zum
 Wracke, um dort die Schätze zu heben.
- 
 
-Die Kisten erwiesen sich als außerordentlich schwer für ihre Größe.
+\<@pagebreak /> Die Kisten erwiesen sich als außerordentlich schwer für ihre Größe.
 Doch hatten sie bald das Fall um die eine geschlungen, die dann nach
 einiger Mühe zuerst oben an Deck und dann unten auf den Felsen gelandet
 wurde.
@@ -283,7 +283,7 @@ Walze verwendeten. Bei diesem Werke zeigte sich wieder, was Seeleute
 selbst unter den ungünstigsten Verhältnissen zu leisten vermögen. Unsere
 beiden Unglücksgefährten besaßen außer ihren Messern kein Stück Werkzeug,
 und doch brachten sie es fertig, die Nägel aus einem der Bodenbretter
-zu ziehen, und einige Stücke dieses Brettes so herzurichten, dass
+\<@pagebreak /> zu ziehen, und einige Stücke dieses Brettes so herzurichten, dass
 das große Loch in den Bugplanken damit übernagelt werden konnte. Zur
 weiteren Abdichtung wurde Segeltuch verwendet. Als Hammer musste ein
 Stein dienen.
@@ -334,7 +334,7 @@ weddertosehn, un ohl Heik Weers, un Gazzi.«
 »Ick heww ehr nich genannt, wil dat jo selbstverständlich is.«
 
 Sie plauderten bis tief in die Nacht hinein, vom Feuer erwärmt 
-und angestrahlt, und auch als sie längst schon im Tange lagen, war Paul
+\<@pagebreak /> und angestrahlt, und auch als sie längst schon im Tange lagen, war Paul
 noch eine Zeitlang wach und lauschte dem Rauschen der Brandung und
 dachte an alle, die seinem Herzen teuer waren.
 

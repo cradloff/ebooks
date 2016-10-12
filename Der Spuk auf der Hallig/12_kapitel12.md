@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>12. Kapitel.</h1>
 
 <div class="subtitle">Im Hellegatt. &mdash; Dora erzählt ihre Geschichte.</div>
@@ -32,7 +33,7 @@ ihr natürlich die Spuk- und Geistergeschichten verschwieg, zu denen sie
 die Veranlassung gegeben hatte. Es war neun Uhr geworden, als er
 mit seiner Erzählung zu Ende war; unsere Freunde mussten die Begierde,
 von Fräulein Ulferts eine Schilderung der Vorgänge an Bord der Hallig 
-zu vernehmen, bis zum folgenden Abend zügeln, da bei den drei Forschungsreisenden 
+\<@pagebreak 88/> zu vernehmen, bis zum folgenden Abend zügeln, da bei den drei Forschungsreisenden 
 sich infolge ihrer anstrengenden Märsche durch das Inselgebirge sich eine 
 starke Müdigkeit einzustellen begann.
 
@@ -79,7 +80,7 @@ hinunter, der Schiffer folgte, und Towe und Gazzi blieben im Logis,
 um die heraufzureichenden Gegenstände in Empfang zu nehmen.
 
 Es fanden sich da unten zwei eiserne Wassertanks, einer ganz, der 
-andere halb voll. Dazu sechs Fässer mit gesalzenem Schweinefleisch und
+\<@pagebreak /> andere halb voll. Dazu sechs Fässer mit gesalzenem Schweinefleisch und
 sieben mit Rindfleisch. Weiter entdeckte man einen großen Blechkasten
 voll Hartbrot, einen großen Vorrat von Kohlen, eine Menge Tauwerk
 aller Art, alt und neu, und viele Blöcke und sonstiges Gerät.
@@ -129,9 +130,8 @@ Nach dem Abendessen erzählte Dora ihre Geschichte.
 ist,« begann sie. »Er besaß einen Anteil an dem Schiff und führte es
 schon seit einer Reihe von Jahren. Die letzte Reise ging von Hamburg
 mit Stückgut nach Schanghai, wo wir Tee als Rückfracht einnahmen.
- 
 
-»Ich hatte schon mehrere Reisen mit dem Vater gemacht. Im Anfang
+\<@pagebreak /> »Ich hatte schon mehrere Reisen mit dem Vater gemacht. Im Anfang
 sträubte er sich dagegen; als aber meine Mutter gestorben war, und
 deren Schwester, bei der ich während seiner Abwesenheit wohnen sollte,
 ihr bald ins Grab nachfolgte und wir sonst keine Angehörige mehr hatten,
@@ -176,7 +176,7 @@ und dem Koche, die im Deckhause wohnten, in der Kajüte Quartier und
 ließ die Kranken ins Deckhaus schaffen. Aber auch sie starben bereits in
 der Nacht darauf.
 
-»Wir gerieten alle in große Besorgnis, wie man sich wohl denken
+\<@pagebreak /> »Wir gerieten alle in große Besorgnis, wie man sich wohl denken
 kann; als aber am folgenden Tage keine weitere Erkrankung erfolgte, da
 schöpften wir wieder Hoffnung. Dem Kapitän des englischen Fahrzeugs
 wurden die schwersten Vorwürfe gemacht, weil er unserem Steuermann
@@ -222,7 +222,7 @@ stand. Aber ich blieb gesund. Der Obersteuermann, der die Kranken
 mit größter Treue und Aufopferung gepflegt hatte, fiel endlich dem
 schrecklichen Fieber auch zum Opfer, und nun war ich mit den beiden
 bösen Menschen allein an Bord. Kaum hatten die den Steuermann ins 
-Wasser gesenkt, da kamen sie eilig achteraus, stiegen in den Vorratsraum
+\<@pagebreak /> Wasser gesenkt, da kamen sie eilig achteraus, stiegen in den Vorratsraum
 hinunter, und holten eine Kiste mit Genever an Deck. Ich flehte sie an,
 von dem Schnaps nichts zu trinken, aber sie verlachten mich, und bald
 hatten sie drei von den zwölf vierkantigen Flaschen, die die Kiste enthielt,
@@ -264,7 +264,7 @@ Fräulein,‹ rief der eine, ›du schast de Vörtopp labsalben. Hest hört?‹
 »Da schrien sie mir auf englisch zu &mdash; wie sie überhaupt stets lieber
 Englisch als Deutsch geredet hatten, weswegen sie von meinem Vater oft
 genug zur Rede gestellt worden waren &mdash; da schrien sie mir also zu,
-sie ließen mir noch fünf Minuten Zeit, meine Zunge zu finden; machte
+\<@pagebreak /> sie ließen mir noch fünf Minuten Zeit, meine Zunge zu finden; machte
 ich dann nicht auf, dann würden sie die Tür einschlagen. Und weil ich
 so unhöflich gewesen wäre, Gentlemen keine Antwort zu erteilen, so würde
 man mir ein Dutzend mit dem Tamp aufzählen, ehe man mich mit der
@@ -275,7 +275,7 @@ und fiel auf die Knie, aber beten konnte ich nicht. Kein Wort wollte
 mir über die Lippen. Jeden Augenblick meinte ich, sie wieder herabkommen
 zu hören. Fürchterliche Minuten vergingen. Aber sie kamen nicht. 
 
-»Ich überlegte in wahnwitziger Angst. Wenn es mir gelänge, unbemerkt
+\<@pagebreak /> »Ich überlegte in wahnwitziger Angst. Wenn es mir gelänge, unbemerkt
 in einen anderen Schlupfwinkel zu fliehen, dann wäre ich fürs
 erste vor ihnen sicher, denn sie waren zu betrunken, um genau nach mir
 suchen zu können. Ich lauschte. Sie schrien, sangen und tobten an
@@ -324,7 +324,7 @@ den Ort.«
 »Im Hellegatt; das ist ein dunkles Loch, wo die Trunkenbolde Sie
 schwerlich gefunden hätten.«
  
-»Ich kann mich nicht darauf besinnen, denke aber, dass mir mit der
+\<@pagebreak /> »Ich kann mich nicht darauf besinnen, denke aber, dass mir mit der
 Zeit alles wieder ins Gedächtnis kommen wird.«
 
 Die Erzählung und die damit verbundenen Aufregungen hatten das
@@ -368,7 +368,7 @@ liegt ein gutes Stück östlich von der unsrigen. Soviel ich habe feststellen
 können, befinden wir uns hier so ziemlich auf der westlichsten Insel der
 ganzen Gruppe. Vielleicht unternehmen wir eines Tages, wenn das
 Wetter beständig sein wird, eine Entdeckungsreise im Boote. Jetzt ist
-noch keine Zeit dazu, da vor allen Dingen die Bark wieder eine Takelung
+\<@pagebreak /> noch keine Zeit dazu, da vor allen Dingen die Bark wieder eine Takelung
 erhalten muss. Bis jetzt ist die Luft immer so dick und so wenig
 sichtig gewesen, dass ich selbst mit dem Kieker kein anderes Eiland wahrnehmen
 konnte, obgleich einige ganz in der Nähe liegen müssen.«

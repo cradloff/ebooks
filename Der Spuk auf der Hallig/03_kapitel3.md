@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>3. Kapitel.</h1>
 
 <div class="subtitle">Vom Glasenschlagen. &mdash; Ein Dieb im Logis. &mdash; Vor Gericht. &mdash; Das Urteil.</div>
@@ -18,8 +19,7 @@ So saßen sie auch in einer sternklaren Nacht auf dem vorderen
 Ende der Spieren auf der Steuerbordseite. Es war in der ersten Wache,
 von acht bis zwölf, und soeben hatte es drei Glasen geschlagen.
  
-
-Zur Aufklärung für diejenigen meiner jungen Leser, die den Ausdruck
+\<@pagebreak 11/> Zur Aufklärung für diejenigen meiner jungen Leser, die den Ausdruck
 Glasen nicht verstehen, sei hier folgendes eingeschoben: Glas ist ein
 Schlag an die Schiffsglocke, der den Ablauf einer halben Stunde seit
 Beginn der Wache bedeutet und für den Dienst an Bord maßgebend ist;
@@ -63,7 +63,7 @@ ick heww dat jo all lang wusst! Du schast sehn, ob ick nich recht heww.«
 »Ach wat, Snack! Du mit din Hochdütsch! Weetst du nich ebenso
 good as ick, dat so lang as wie nu all in See sünd, binah jeden Dag
 een von uns wat verloren un nich wedderkregen het, hüt de un morgen
-de? Weetst nich, wo oft dor Zank un Strid nah kamen is? Toerst wer
+\<@pagebreak /> de? Weetst nich, wo oft dor Zank un Strid nah kamen is? Toerst wer
 den Sleswiger sin gollen Ring weg; dünn verlör de Flensburger sin
 engelsches Taschenmetz; nahsten wer den annern sin fine nickelsche Tobaksbüß
 tom Düwel. Dunn säd ick to mi, dat is een von de Utlandschen,
@@ -120,7 +120,7 @@ als Paul in zwei Sprüngen die Achterdeckstreppe heraufkam. Dann
 hörte er ruhig an, was dieser ihm zu berichten hatte.
 
 »Hm,« sagte er, »Towe Tjarks müsste eigentlich wissen, was da zu
-tun ist. Er kennt doch das Verfahren, das in solchen Fällen zur Anwendung
+\<@pagebreak /> tun ist. Er kennt doch das Verfahren, das in solchen Fällen zur Anwendung
 kommt. Durch solch ein Volksgericht an Bord wird dem Kerl
 viel wirksamer Ehrlichkeit beigebracht, als durch ein Jahr Gefängnis an
 Land. Ein Dutzend oder zwei mit	dem Tamp und dann für den Rest
@@ -170,7 +170,7 @@ denken!«
 Towe. »Jetzt wüllt wi slapen.«
 
 Gleich darauf schnarchten alle Mann der Backbordwache in schönster 
-Harmonie. &mdash; Kurz vor sieben Glasen wurden sie durch Julius Lassens
+\<@pagebreak /> Harmonie. &mdash; Kurz vor sieben Glasen wurden sie durch Julius Lassens
 grimmige Stimme, der wie ein wütender Löwe im Logis herumrumorte,
 aus dem Schlafe geweckt.
 
@@ -226,9 +226,8 @@ lösen. Towe Tjarks, mach' deine Aussage.«
 Towe berichtete, was er in der vergangenen Nacht beobachtet hatte;
 darauf wurde der Ausguckmann vernommen und zum Schluss musste auch
 Paul sein Zeugnis abgeben.
-
  
-»Ihr habt alles gehört, Maaten,« wendete der Richter sich jetzt an
+\<@pagebreak /> »Ihr habt alles gehört, Maaten,« wendete der Richter sich jetzt an
 die Geschworenen, die im Halbkreise herumstanden; »wat seggt ji? Is
 der Angeklagte schüllig, ore is he nicht schüllig?«
 
@@ -249,7 +248,7 @@ wedder an uns' Eigendum vergriepen!«
 
 Der Grieche wurde von vier Matrosen gepackt, über das Ankerspill
 gezogen und darauf festgebunden. Jetzt ergriff ihn die Angst, er flehte
-laut jammernd um Gnade, er wolle auch in seinem ganzen Leben nicht
+\<@pagebreak /> laut jammernd um Gnade, er wolle auch in seinem ganzen Leben nicht
 wieder stehlen.
 
 »Aha,« sagte Lassen, »ick heww dat jo wusst, dat de Vogel noch ganz

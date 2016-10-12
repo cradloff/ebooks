@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>20. Kapitel.</h1>
 
 <div class="subtitle">Die brennende Brigg. &mdash; Der Mann in der Boje. &mdash; In Kapstadt. &mdash; Zwei Kabeltelegramme.
@@ -15,7 +16,7 @@ und rief dann plötzlich: »Allmächtiger, ich glaube, da ist Feuer an Bord!«
 
 Er reichte Heik das Glas.
 
-»Ja, Kaptein,« sagte dieser, »dor is Füer an Bord.«
+\<@pagebreak 166/> »Ja, Kaptein,« sagte dieser, »dor is Füer an Bord.«
 
 Es fragte sich nun, ob die Hallig der Brigg auflaufen sollte, oder
 ob diese auf die Hallig abhalten würde. Es wurde sehr schnell dunkel,
@@ -62,7 +63,7 @@ verstehen, man hörte nur schreien und sah ein verzweifeltes Winken.
 Boote waren nirgends zu sehen; der Ort mitschiffs, wo die Boote zu
 stehen pflegen, war ein Flammenmeer; auch in den Davits zeigte sich nichts. 
 
-Kurz entschlossen ließ der Schiffer das einzige Boot, das der Hallig
+\<@pagebreak /> Kurz entschlossen ließ der Schiffer das einzige Boot, das der Hallig
 zur Verfügung stand, zu Wasser bringen, und dann das Schiff unter
 verkleinerten Segeln bis dicht an das Heck der Brigg laufen. Jetzt
 sprangen Towe und Paul ins Boot, rojten an das brennende Fahrzeug
@@ -108,7 +109,7 @@ soveel ick man ut ehr Gesnack vernehmen kann.«
 
 Er irrte nicht, die geretteten Seefahrer waren Franzosen. Ihr Kapitän
 hatte sogleich nach seiner Ankunft an Bord Keppen Jaspersen mitgeteilt, 
-dass die Brigg zu zwei Drittel mit Sprengpulver beladen sei, das in
+\<@pagebreak /> dass die Brigg zu zwei Drittel mit Sprengpulver beladen sei, das in
 den Goldminen von Südafrika verwendet werden und in Port Elisabeth
 gelandet werden sollte; und diese gefährliche Ladung müsse nun jeden
 Augenblick Feuer fangen. Dies war die Erklärung für die ungewöhnliche
@@ -154,7 +155,7 @@ Noch eine andere Lebensrettung war ihnen auf der kurzen Strecke
 bis ans Ziel der Fahrt vorbehalten.
 
 Am Tage darauf kam ihnen eine große eiserne Boje in Sicht, die 
-von ihrer Verankerung in irgend einem Hafen losgerissen sein musste.
+\<@pagebreak /> von ihrer Verankerung in irgend einem Hafen losgerissen sein musste.
 Vielleicht hatte sie auch ein Fahrzeug aus dem Schlepp verloren. Der
 Wind war wieder so flau, dass das Schiff
 nur soeben durchs Wasser ging. Als es dicht
@@ -176,7 +177,7 @@ französischen Matrosen an die Boje heranrojte.
 »Ay, ay!«<a href="#fn1" class="refnote" id="rn1">1</a>antwortete eine hohle Stimme auf englisch. »Helft
 mir heraus, ehe ich hier ertrinke!«
 
-Es war in der Boje so dunkel, wie in einem Teerfass, so dass man
+\<@pagebreak /> Es war in der Boje so dunkel, wie in einem Teerfass, so dass man
 nichts erkennen konnte. Towe ließ zurückrojen, um eine Leine zu holen;
 er machte einen Paalsteek (feste Schleife) hinein, ließ die Leine in die
 Boje hinab und rief: <i>»Look out!«</i>
@@ -224,7 +225,7 @@ manches bewundernde Wort.
 
 Hohes Lob ward ihnen auch von den Kapitänen und den anderen
 Fachleuten zuteil, die das Schiff im Dock aufsuchten, um es zu besichtigen 
-und sich seine Schicksale erzählen zu lassen. Die meisten hätten es nicht
+\<@pagebreak /> und sich seine Schicksale erzählen zu lassen. Die meisten hätten es nicht
 für möglich gehalten, dass eine Besatzung von fünf Mann, von denen der
 eine während der Zeit, wo die Hauptarbeit, die Herstellung und Aufrichtung
 der Masten, verrichtet wurde, mit gebrochenem Bein in der Koje
@@ -273,7 +274,7 @@ verschenk' ick de düsend Mark an de erste beste fromme Stiftung.«
 Worauf Heik sich brummend einverstanden erklärte.
 
 Dora fand im Pastorhause liebevolle Aufnahme und ein dauerndes 
-Heim. Der Anteil, den ihr Vater an der »Hallig Hooge« besessen hatte,
+\<@pagebreak /> Heim. Der Anteil, den ihr Vater an der »Hallig Hooge« besessen hatte,
 war auf sie übergegangen, sie konnte daher als eine nicht unbemittelte
 junge Dame gelten.
 
@@ -291,7 +292,7 @@ Häuschen ganz in der Nähe von Towes Gehöft, und wie einst auf der
 öden Insel im südlichen Indischen Ozean, so erschallt auch heute noch oft
 von einer dieser Behausungen zur andern der dröhnende Anruf:
 
-<em><div class="g">»Hallig ahoi!«</div></em>
+<em><div class="g" align="center">»Hallig ahoi!«</div></em>
 
 <div class="footnote" id="fn1"><a href="#rn1">1</a>Gleichbedeutend mit: »Yes, yes!« Sprich: Ai, ai (deutsch).</div>
 

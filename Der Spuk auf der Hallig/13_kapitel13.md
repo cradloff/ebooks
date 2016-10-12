@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h1>13. Kapitel.</h1>
 
 <div class="subtitle">Auftakelungspläne. &mdash; Das Abenteuer mit der vulkanischen Insel.</div>
@@ -13,7 +14,7 @@ Towe und Paul hatten bald einen einwandsfreien Untermast zurechtgezimmert,
 nun aber entstand die große Frage, wie die vier Mann diesen
 gewaltigen Baum aufrichten und an seinen Ort pflanzen sollten.
 
-»Wat makt warn kann, ward makt, un dütt kann makt warn,«
+\<@pagebreak 97/> »Wat makt warn kann, ward makt, un dütt kann makt warn,«
 sagte Towe zuversichtlich; und es wurde gemacht.
 
 Gleich zu Anfang, als man die erste Bootsfahrt im Hafen machte,
@@ -55,7 +56,7 @@ afbreken deit, wi hewwt jo noch den tweeten, un de ward woll holln.«
 »Obelisk wolltest du sagen,« verbesserte Paul den ehrlichen Janmaat
 lachend.
 
-»So, du Kiekindewelt,« knurrte dieser gutmütig. »Du büst en
+\<@pagebreak /> »So, du Kiekindewelt,« knurrte dieser gutmütig. »Du büst en
 Deutschverderber, dat weet wi all lang, aber ick dank' di ok för gütige
 Belehrung. Aber wo wer dat nu, Keppen Jaspersen, wenn Sie uns
 hüt abend de Geschicht' von de Rupptatschon verzählen täten; wir sitzen
@@ -103,7 +104,7 @@ den Schiffer lächelnd an. Der nickte ihr freundlich zu.
 »Ich lebe noch,« sagte er, »obgleich mein Tod hier gedruckt steht. So
 etwas ist bei uns Seeleuten nichts Seltenes. Und nun will ich erzählen. 
 
-»Wir schrieben also den 23. März 1884. Den ganzen Tag war
+\<@pagebreak /> »Wir schrieben also den 23. März 1884. Den ganzen Tag war
 es windstill gewesen, zur Nacht aber kam eine leichte Brise durch und ich
 rief die Leute meiner Wache an die Brassen. Als alle Enden wieder belegt
 waren, spazierte ich auf dem Kampanjedeck auf und ab und dachte an
@@ -147,9 +148,8 @@ eine schwarze Masse zu sehen. Ich hatte eine Pardune erfasst und lehnte
 mich weit nach außen, um deutlicher zu sehen. Meine Aufregung war
 groß, das Grausen, von dem die ganze Mannschaft befallen war, hatte
 sich auch meiner bemächtigt.
- 
 
-»Während ich so auf der Reling stand, rollte eine schwere, durch
+\<@pagebreak /> »Während ich so auf der Reling stand, rollte eine schwere, durch
 den vulkanischen Ausbruch veranlasste Dünung heran; das Fahrzeug
 legte sich auf die Seite, aber kein Laut ließ sich vernehmen; schweigend
 wälzte sich der ungeheure Wasserberg durch die Finsternis, und da er auch
@@ -193,7 +193,7 @@ sich vielmehr. Die Leute irrten sich in der Richtung. Ich befand mich,
 meiner Meinung nach, südwestlich von der Bark; sie suchten mich in südlicher
 Richtung. Immer schwächer wurde das Geräusch der Remen.
  
-Hätte ich ordentlich rufen können, dann wäre ich gerettet gewesen. Ich
+\<@pagebreak /> Hätte ich ordentlich rufen können, dann wäre ich gerettet gewesen. Ich
 hörte noch die Stimme des Kapitäns, der das Boot anrief. Dann hörte
 und sah ich nichts mehr; das Schiff war verschwunden. Wo vorher seine
 schattenhafte Gestalt noch gewesen, da flimmerten jetzt die Sterne.
@@ -238,7 +238,7 @@ Blitzschlag, und jäh fuhr ich empor.
 
 »Ich kann es nicht anders beschreiben, als eine gewaltige Masse von
 Bimsstein, oben abgeflacht und auf allen Seiten sanft nach dem Wasser 
-zu abfallend. Der Boden hatte durchweg die helle Farbe des genannten
+\<@pagebreak /> zu abfallend. Der Boden hatte durchweg die helle Farbe des genannten
 vulkanischen Erzeugnisses, er war so sauber und klar wie die Schale eines
 frischgelegten Hühnereies und zeigte nirgends die geringste Spur einer
 Verunreinigung. Allenthalben aber waren Löcher und Risse darin, ähnlich
@@ -281,7 +281,7 @@ an das Licht der Sonne befördert.
 
 »Meine Lage gestattete mir jedoch nicht, hier lange zu staunen und
 zu bewundern. In dem Moment, wo ich meine Augen von dem alten 
-Schiffe ab- und wieder der unermesslichen Weite der See zuwendete, packten
+\<@pagebreak /> Schiffe ab- und wieder der unermesslichen Weite der See zuwendete, packten
 mich Angst und Mutlosigkeit.
 
 »Was sollte hier aus mir werden? Ich hatte kein Boot, nichts,
@@ -325,7 +325,7 @@ und herankommen würde, um die neue, auf keiner Karte verzeichnte
 Insel näher in Augenschein zu nehmen. Das war ein Hoffnungsfünkchen,
 aber nur ein schwaches, wenn ich dagegen in Betracht zog, dass ich nichts
 zu trinken hatte und sehr bald auch ohne Nahrung sein würde; dass ein 
-Schiff sehr nahe vorüberkommen musste, um ein so flaches und kleines
+\<@pagebreak /> Schiff sehr nahe vorüberkommen musste, um ein so flaches und kleines
 Stückchen Land bemerken zu können, und dass ich es auf dem sonndurchglühten
 Bimssteinriffe schwerlich länger als vierundzwanzig Stunden
 aushalten würde.
@@ -370,7 +370,7 @@ schaffen hatten.«
 
 »Junge, Junge,« sagte der in seiner Koje aufmerksam lauschende
 Heik, »un so 'ne ohle Karamelle, bet ünner Deck vull von Gold un Diamanten, 
-leg' nu dorup de Bimssteinplatte as up'n Präsentierteller &mdash;
+\<@pagebreak /> leg' nu dorup de Bimssteinplatte as up'n Präsentierteller &mdash;
 Bitte mein Herr, bedienen Sie sich! Un nu keen Kohfot<a href="#fn2" class="refnote" id="rn2">2</a> un keen Pickaxt
 bi de Hand! Wat Se sick dor woll ärgert hewwen, Kaptein.«
 
@@ -414,7 +414,7 @@ Ende; ich wusste, dass ich weder die körperliche noch die geistige Kraft
 mehr besaß, nochmals einen Tag ohne einen Trunk Wasser und ohne
 Hoffnung auf dem Eilande zuzubringen.
 
-»Plötzlich holte die Brigg die Leeschot ihres Großsegels auf. Die
+\<@pagebreak /> »Plötzlich holte die Brigg die Leeschot ihres Großsegels auf. Die
 Leesegel wurden weggenommen, und dann hielt sie auf das Eiland ab.
 Nun erkannte ich, dass ich gerettet war.
 
@@ -472,7 +472,7 @@ wollen machen, dass wir hier fortkommen. Es ist hier nicht geheuer.
 Sie aber kommen mit mir in die Kajüte, da können Sie sich stärken
 und mir Ihr Abenteuer ausführlich erzählen.‹
 
-»Eine tüchtige Mahlzeit und eine Flasche Wein dazu, machten einen
+\<@pagebreak /> »Eine tüchtige Mahlzeit und eine Flasche Wein dazu, machten einen
 neuen Menschen aus mir. Wir saßen dann eine lange Zeit beieinander;
 ich erzählte mein Erlebnis und der Schiffer machte seine Notizen und
 plauderte von dem Aufsehen, das es geben würde, wenn er daheim über
