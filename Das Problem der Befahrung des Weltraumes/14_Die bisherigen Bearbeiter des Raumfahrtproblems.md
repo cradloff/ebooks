@@ -3,7 +3,7 @@ Die bisherigen Bearbeiter des Raumfahrtproblems.
 
 Der Gedanke, daß das Rückstoßprinzip für den Antrieb von
 Weltraumfahrzeugen geeignet sei, ist nicht neu. Schon um das
-Jahr 1660 erzählt, allerdings ”in recht phantastischer Aufmachung,
+Jahr 1660 erzählt, allerdings in recht phantastischer Aufmachung,
 der Franzose Cyrano de Bergerac in seinen Romanen von
 Weltraumreisen auf Fahrzeugen, die durch Raketen gehoben
 werden. Nicht viel später weist der berühmte englische Gelehrte

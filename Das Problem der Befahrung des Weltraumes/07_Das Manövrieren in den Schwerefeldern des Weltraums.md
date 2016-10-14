@@ -27,7 +27,7 @@ Umlaufbahn mit entsprechender Geschwindigkeit ständig umfahren
 und somit also in stabilem Schwebezustand über ihm verharren.
 
 Beim Aufstieg von der Erde oder von einem anderen Gestirn
-endlich wird man trachten müssen, entweder "die praktische
+endlich wird man trachten müssen, entweder die praktische
 Schweregrenze und damit die „gänzliche Loslösung“ (bei Verzicht
 auf stabilen Schwebezustand) oder den Übergang in eine freie
 Umlaufbahn und damit den „stabilen Schwebezustand“ (unter Verzicht
@@ -46,7 +46,7 @@ eine bedeutende Energieaufwendung erfordern, welche — im Falle
 der aufsteigenden Körper auch der Schwerewirkung entzogen
 werden soll — für die Erde den gewaltigen Wert von rund
 3200 bis 6400 Metertonnen je Kilogramm der zu hebenden Last
-erreicht, oder —— was das gleiche ist — die Erteilung der riesigen,
+erreicht, oder — was das gleiche ist — die Erteilung der riesigen,
 bereits kosmischen Geschwindigkeit von ungefähr 8000 bis 11 200 Meter
 je Sekunde, d. i. die annähernd 12fache Geschwindigkeit eines
 Artilleriegeschosses, erfordert!

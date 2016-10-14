@@ -54,7 +54,7 @@ ist dann aber auch die „Abstoßungsgeschwindigkeit”, welche
 der betreffende fortgestoßene Körper hierbei erlangt. Anderseits
 wird man mit ein und derselben Kraft dem fortgestoßenen
 Gegenstand eine umso größere Geschwindigkeit
-erteilen können, je geringeres Gewicht (d. h. je
+erteilen können, je geringeres Gewicht d. h. je
 kleinere Masse er besitzt. Und ebenso wird man
 auch selbst hierbei umso mehr zurückweichen je
 leichter (und um so weniger je schwerer) man ist.

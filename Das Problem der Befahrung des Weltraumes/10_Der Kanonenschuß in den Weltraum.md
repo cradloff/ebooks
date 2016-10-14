@@ -26,7 +26,7 @@ oder vielleicht auch den Mond beschossen zu haben.
 Mehr ließe sich dabei kaum je gewinnen, weil alles, was man
 diesem „Geschoßfahrzeug” auf die Reise mitgäbe, an Fracht,
 Meßgeräten oder gar an Fahrgästen, sich schon in der ersten Sekunde
-der Reise zu Brei verwandelt haben Würde; denn wohl
+der Reise zu Brei verwandelt haben würde; denn wohl
 <div class="image" float="left"><img alt="Die Jules Vernesche Riesenkanone" src="abb10.png"/>
 <p>Abb. 10. Die Jules Vernesche Riesenkanone zur Beschießung des Mondes. Das Geschoß ist
 hohl und zur Beförderung von Menschen bestimmt. Das Rohr

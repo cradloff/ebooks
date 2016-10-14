@@ -10,7 +10,7 @@ Hindernis.
 
 Die Höhe der gesamten Erdlufthülle wird nach Beobachtungen
 an Meteorfällen und Nordlichterscheinungen auf einige 100 (vielleicht
-<div class="image" float="right"><img alt="Lufthülle der Erde" src="abb07.png"/>
+<div class="image" float="right"><img alt="Lufthülle der Erde" src="abb08.png"/>
 <p>Abb. 8. Das Bild zeigt die Lufthülle, unter der Voraussetzung,
 daß sie etwa 400 km hoch ist, im richtigen Verhältnis zur Erdkugel.</p></div>
 400) Kilometer geschätzt (Abb. 8). Doch nur in ihren tiefsten, einige
@@ -28,7 +28,7 @@ entgegen. Letzterer steigt aber bei Vergrößerung der
 Bewegungsgeschwindigkeit sehr rasch und zwar in quadratischem Verhältnis.
 Er erreicht bei den für die Raumfahrt in Betracht kommenden
 außerordentlichen Geschwindigkeiten innerhalb der dichten erdnahen
-Luftschichten bereits so hohe. Werte, daß hierdurch die
+Luftschichten bereits so hohe Werte, daß hierdurch die
 Arbeit, welche beim Aufstieg zur Überwindung des Schwerefeldes
 nach Früherem notwendig ist, noch um ein beträchtliches
 vermehrt wird und auch beim Bau des Fahrzeuges in weitgehendem

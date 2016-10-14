@@ -10,7 +10,7 @@ Erde in einem stabilen Zustand freien Schwebens.</p></div>
 
 Um einen sicheren, stabilen Zustand der Schwerelosigkeit zu erlangen, müßten wir
 uns der Schwerkraftwirkung auf die zweite Art, nämlich durch Zuhilfenahme von
-Trägheitskräften entziehen. Dies wird erreicht, wenn der anziehende Himmelskörper)
+Trägheitskräften entziehen. Dies wird erreicht, wenn der anziehende Himmelskörper
 also z. B. die Erde, mit entsprechender Geschwindigkeit in einer
 freien Umlaufbahn umfahren wird (Gravitationsbewegung).
 Die dabei entstehende, stets nach außen gerichtete Fliehkraft, hält
@@ -28,7 +28,7 @@ muß stets ein Brennpunkt der Bahn (beim Kreis der Mittelpunkt)
 mit dem Massenmittelpunkt (Schwerpunkt) des umlaufenen Himmelskörpers
 zusammenfallen.</p></div>
 
-Auf ähnliche Weise erfolgen alle Mond— und Planetenbewegungen.
+Auf ähnliche Weise erfolgen alle Mond- und Planetenbewegungen.
 Da beispielsweise unser Mond die Erde mit einer mittleren Geschwindigkeit
 von etwa 1000 Meter je Sekunde ständig umläuft, fällt er
 nicht auf sie herunter, obwohl er sich in ihrem Anziehungsbereich

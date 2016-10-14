@@ -7,7 +7,7 @@ als Schwere jederzeit empfinden. Denn ein Fahrzeug, welches
 den Weltraum befahren soll, muß nicht nur sich fortbewegen
 können. Es muß vor allem und zuerst sich von der Erde entfernen,
 d.h. es muß sich selbst und seine Nutzlast entgegen der
-Schwerkraft.viele Tausende, ja Hunderttausende von Kilometern
+Schwerkraft viele Tausende, ja Hunderttausende von Kilometern
 hoch emporheben können!
 
 Da die Schwerkraft eine Massenkraft ist, müssen wir uns vorerst
@@ -28,7 +28,7 @@ der Erde befindlichen Körper eben „schwer” sind, also mehr oder
 weniger „Gewicht” haben, je nach dem, ob sie selbst eine größere
 oder kleinere Masse besitzen. Denn die Massenanziehungskraft
 (Schwerkraft) ist umso bedeutender, je größer die Masse der Körper
-ist, zwischen welchen sie Wirkt. Hingegen aber nimmt ihre
+ist, zwischen welchen sie wirkt. Hingegen aber nimmt ihre
 Stärke ab mit zunehmender Entfernung (und zwar mit dem Quadrate
 der letzteren), doch ohne daß ihr Wirkungsbereich eine
 ausgesprochene Grenze hätte (Abb. 1). Sie wird also theoretisch
@@ -67,7 +67,7 @@ Wie früher erwähnt, erstreckt sich die Wirkung der Erdschwerkraft,
 immer schwächer werdend, bis in unendliche Entfernung.
 Wir können demnach den Anziehungsbereich
 (das Schwerefeld) der Erde niemals völlig
-verlassen, nie die wirkliche Schwere grenze der Erde erreichen.
+verlassen, nie die wirkliche Schweregrenze der Erde erreichen.
 Wohl aber läßt sich errechnen, welche Arbeitsleistung theoretisch
 notwendig wäre, um das ganze Schwerefeld der Erde zu überwinden.
 Es müßte hierzu eine Energie von nicht weniger als
@@ -89,8 +89,8 @@ Doch wenn auch der Anziehungsbereich der Erde nie tatsächlich
 verlassen werden könnte, so gäbe es trotzdem Möglichkeiten,
 einen Körper der Schwerewirkung der Erde zu entziehen,
 und zwar dadurch, daß man ihn auch der Einwirkung anderer
-Massenkräfte unterwirft, welche der Erdschwerkraft entgegen-
-wirken. Als solche kommen, gemäß unseren früheren Betrachtungen
+Massenkräfte unterwirft, welche der Erdschwerkraft entgegenwirken.
+Als solche kommen, gemäß unseren früheren Betrachtungen
 über die Grundeigenschaften der Masse, nur in Frage: entweder
 die Massenanziehungskräfte benachbarter Gestirne oder in dem
 betreffenden Körper selbst erweckte Massenträgheitskräfte.

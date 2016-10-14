@@ -9,7 +9,7 @@ wurde daher der Begriff des Übersinnlichen stets verbunden mit
 dem Gedanken der Schwerelosigkeit, der Macht „sich frei in den
 Himmel erheben zu können”. Und auch heute noch gilt es für
 die meisten Menschen sozusagen als Dogma, daß es für irdische
-Wesen wohl undenkbar sei, die Erde jemals verlassen Zu können.
+Wesen wohl undenkbar sei, die Erde jemals verlassen zu können.
 Ist diese Ansicht auch wirklich berechtigt?
 
 Erinnern wir uns nur: noch vor wenigen Jahrzehnten war der

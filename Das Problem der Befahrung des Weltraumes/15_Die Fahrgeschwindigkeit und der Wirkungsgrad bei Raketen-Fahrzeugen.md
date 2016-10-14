@@ -8,14 +8,14 @@ im allgemeinen schon gegeben ist. Da nämlich die Fortbewegung
 eines solchen Fahrzeuges dadurch erfolgt, daß es Teile
 seiner eigenen Masse von sich abstößt, muß dieser Vorgang so
 eingerichtet werden, daß alle Massen nach erfolgter Abstoßung
-womöglich ihre gesamte Energie an das Fahrzeug ‘abgegeben haben;
+womöglich ihre gesamte Energie an das Fahrzeug abgegeben haben;
 denn was sie davon mit sich nehmen, ist unwiederbringlich verloren. 
 <div class="image" float="right"><img alt="Fahrzeug mit Rückstoßantrieb" src="abb16.png"/>
 <p>Abb. 16. Die Fahrgeschwindigkeit ist gleich der
 Abstoßungsgeschwindigkeit. Infolgedessen ist nach
 der Abstoßung die Geschwindigkeit der abgestoßenen
 Massen gleich Null, was man in der Abb. daraus
-ersicht, daß sie lotrecht herunterfallen.</p></div>
+ersieht, daß sie lotrecht herunterfallen.</p></div>
 Eine derartige Energie bildet unter anderem die lebendige
 Kraft, welche bekanntlich jedem Körper innewohnt, der sich
 in Bewegung befindet. Soll nun davon in den
@@ -101,7 +101,7 @@ Formel errechnet. Wäre also z. B. das Verhältnis v/c = 0,1 (d. h.
 v = 0,1 c, somit die Fahrgeschwindigkeit nur 1/10 so groß wie die
 Abstoßungsgeschwindigkeit), dann würde der Wirkungsgrad des
 Rückstoßes nur 19 Prozent betragen; bei v/c = 0,5 (also wenn die
-Fahrgeschwindigkeit 1/2 so groß wie die Abstoßgeschwindigkeit ist)
+Fahrgeschwindigkeit ½ so groß wie die Abstoßgeschwindigkeit ist)
 wäre derselben aber schon 75, und bei v/c = 1 (gleich große Fahr-
 und Abstoßungsgeschwindigkeit) — in Übereinstimmung mit unserer
 früheren Überlegung — sogar 100 Prozent. Wird das Verhältnis v/c
@@ -130,11 +130,11 @@ Sehr klar und deutlich erkennt man jedoch aus der Tabelle,
 wie sehr es von Vorteil und daher wichtig ist, daß die Größe der
 Fahrgeschwindigkeit sich möglichst jener der Abstoßungsgeschwindigkeit
 nähere, um einen guten Wirkungsgrad des Rückstoßes zu
-erzielen, wobei jedoch gewisse Unterschiede (selbst bis zu v = o,5 c
+erzielen, wobei jedoch gewisse Unterschiede (selbst bis zu v = 0,5 c
 bzw. v = 1,5 c) immerhin noch nicht so sehr ins Gewicht fallen,
 weil die Schwankungen des Wirkungsgrades in der Nähe seines
 Maximums ziemlich gering sind. Man kann demnach sagen, daß
-die wirtschaftliche Fahrgeschwindigkeit eines Raketen—Fahrzeuges
+die wirtschaftliche Fahrgeschwindigkeit eines Raketen-Fahrzeuges
 <div class="image"><img alt="Wagen mit Raketenantrieb" src="abb18.png"/>
 <p>Abb. 18. Bei einem Raketenfahrzeug muß die Fahrgeschwindigkeit
 möglichst gleich der Auspuffgeschwindigkeit sein.</p></div>
@@ -163,8 +163,8 @@ Wirkungsgrad eine für praktische Anwendung noch brauchbare
 Höhe haben soll.
 
 Deutlich ist dies aus der Tabelle 2 zu erkennen, in welcher zu
-einzelnen wichtigen Fahrgeschwindigkeiten (angeführt in der Hauptkolonne
-I) die denselben bei verschiedenen Abstoßungsgeschwindigkeiten
+einzelnen wichtigen Fahrgeschwindigkeiten (angeführt in der Hauptkolonne 1)
+die denselben bei verschiedenen Abstoßungsgeschwindigkeiten
 entsprechenden Wirkungsgrade ermittelt sind.
 
 Schon aus der Hauptkolonne 2 der Tabelle, welche den
@@ -201,7 +201,7 @@ den entsprechenden Werten der Hauptkolonne 2 beträgt).
 </tr>
 <tr>
   <td colspan="2" rowspan="2">Fahrgeschwindigkeit v in</td>
-  <td colspan="7">Wirkungsgrad des Rückstoßes η<span class="sub">r</span> = (1 - v/c) v/c</td>
+  <td colspan="7">Wirkungsgrad des Rückstoßes η<span class="sub">r</span> = (2 - v/c) v/c</td>
   <td colspan="2">Gesamtwirkungsgrad des Fahrzeugantriebes η = η<span class="sub">r</span> η<span class="sub">i</span></td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ Kilometern je Stunde — noch so gering, daß, abgesehen von gewissen
 Sonderzwecken, bei welchen die Frage der Wirtschaftlichkeit
 nicht ins Gewicht fällt, eine weitgehende praktische Anwendung
 des Raketenantriebes für irgendeines unserer gebräuchlichen
-Boden—Verkehrsmittel wohl kaum jemals in Frage kommen kann.
+Boden-Verkehrsmittel wohl kaum jemals in Frage kommen kann.
 
 Doch ganz anders wird hingegen die Sache, wenn man sehr
 hohe Fahrgeschwindigkeiten in Betracht zieht. Selbst schon bei
@@ -317,18 +317,18 @@ Meter oder Kilometer je Sekunde) einigermaßen erschwert
 wird — ist vorstehend die Tabelle 3 gebracht.
 
 <div class="footnote" id="fn1"><a href="#rn1">1</a>
- η<span class="sub">r</span> = Gewonnene Energie / Aufgewendete Energie
- = (Aufgewendete Energie - Verlorene Energie) / Aufgewendete Energie
- Aufgewendete Energie = m c² / 2,
- Verlorene Energie = m (c - v)² / 2,
+<div style="white-space: pre-wrap;">η<span class="sub">r</span> = Gewonnene Energie / Aufgewendete Energie
+= (Aufgewendete Energie - Verlorene Energie) / Aufgewendete Energie
+Aufgewendete Energie = m c² / 2,
+Verlorene Energie = m (c - v)² / 2,</div>
 
-wobei m die betrachtete Abstoßungsmasse und (c— v) deren nach der Abstoßung
+wobei m die betrachtete Abstoßungsmasse und (c - v) deren nach der Abstoßung
 noch verbliebene Bewegungsgeschwindigkeit darstellt (diese bedeutet ja nach
 Früherem für das Fahrzeug verlorene lebendige Kraft).
-
+<div style="white-space: pre-wrap;">
 Daraus folgt
- η<span class="sub">r</span> = ((m c² / 2) - (m (c - v)² / 2)) / (m c² / 2)
- = (2 - v / c) v / c
+η<span class="sub">r</span> = ((m c² / 2) - (m (c - v)² / 2)) / (m c² / 2)
+= (2 - v / c) v / c</div>
 </div>
 
 <div class="footnote" id="fn2"><a href="#rn2">2</a>
