@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Start von der Erdoberfläche aus.
 ================================
 
@@ -12,11 +13,11 @@ Menge der letzteren einen so hohen Anteil vom
 Gesamtgewicht des Fahrzeuges ausmachen, daß dessen bauliche
 Ausführung kaum möglich wäre.
 
-Der_einzige Himmelskörperbesuch, welcher sich mit den bis-
+Der einzige Himmelskörperbesuch, welcher sich mit den bis-
 her bekannten Betriebsstoffen wohl auch» unmittelbar von der
 Erdoberfläche aus vornehmen ließe, wäre eine Umfahrung des
 Mondes, zwecks näherer Erforschung seiner Oberflächenbeschaffenheit,
-insbesondere auf der von der Erde ständig abgekehrten
+\<@pagebreak 170/> insbesondere auf der von der Erde ständig abgekehrten
 Seite desselben. Hierbei könnte man sich von ihm auch „ein-
 fangen” lassen, um ihn als Mond des Mondes in einer freien Umlaufbahn
 beliebig oft zu umkreisen. Die für dieses Unternehmen

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Das Wohnrad.
 ============
 
@@ -19,11 +20,13 @@ denen man durch Fliehkraft Schwerewirkung erzeugen will, sich
 von der Achse entfernt: am Umfang befinden, weil dort die
 Fliehkraft am stärksten ist.
 
+\<@pagebreak 137/>
 <div class="image"><img alt="Das Wohnrad" src="abb84.png"/>
 <p>Abb. 84. Das Wohnrad. Links: Axialer Schnitt.
 Rechts: Ansicht der der Sonne ständig zugekehrten
 Seite, ohne Sammelspiegel, teilweise im Schnitt.</p></div>
 
+\<@pagebreak />
 <div class="image" float="left"><img alt="Richtungsverhältnisse im Wohnrad" src="abb85.png"/>
 <p>Abb. 85. Richtungsverhältnisse im Wohnrad.</p></div>
 
@@ -47,9 +50,10 @@ den Fall eines Durchmessers von z. B. 30 Meter derart rotieren,
 daß es eine volle Umdrehung in rund 8 Sekunden vollführt;
 denn dann ergibt sich im Radkranz eine Fliehkraft, welche
 ebenso groß ist, wie die Schwerkraft auf der Erdoberfläche.
+
 Während letztere aber zur Mitte hinwirkt, ist dagegen die
 Fliehkraft von der Mitte weg gerichtet. Daher bedeutet beim
-Wohnrad „lotrecht” (umgekehrt wie bei der Erde): die radiale
+\<@pagebreak /> Wohnrad „lotrecht” (umgekehrt wie bei der Erde): die radiale
 Richtung von der Mitte (also der Drehachse) nach auswärts
 (Abb. 85); Demgemäß weist „unten” nun gegen den Umfang
 und zugleich „tiefsten” Teil und „oben” gegen die Achse und
@@ -76,7 +80,7 @@ möglich ist.</td></tr>
 </table></div>
 
 Eine weitere Eigentümlichkeit besteht darin, daß sowohl die
-Umfangsgeschwindigkeit als auch die Fliehkraft, infolge ihrer Abnahme
+\<@pagebreak /> Umfangsgeschwindigkeit als auch die Fliehkraft, infolge ihrer Abnahme
 gegen die Drehmitte zu (Abb. 83), für den Kopf eines
 im Wohnrad stehenden Menschen etwas kleiner als für seine
 Füße ist (bei einem Raddurchmesser von 30 Meter etwa um 1/9).
@@ -108,7 +112,7 @@ Luftschleuse und auf der anderen der Kabelanschluß angeordnet
 (Abb. 84,S und K).
 
 Die Luftschleuse ist hier drehbar gemacht, um den Übergang
-zwischen der Rotationsbewegung des Wohnrades und dem
+\<@pagebreak /> zwischen der Rotationsbewegung des Wohnrades und dem
 Ruhezustande des Weltraums zu erleichtern (Abb. 86). Beim
 „Ausschleusen” steht sie gegenüber dem Wohnrad still (dreht sich
 also gegenüber dem Weltraum). Man kann sich somit aus dem
@@ -141,13 +145,19 @@ andauernd in Ruhe. Das von ihr austretende Kabel kann also
 durch die Rotation des Wohnrades tatsächlich nicht in Mitleidenschaft
 gezogen werden.
 
+\<@pagebreak />
+<div class="image"><img alt="Gesamtansicht der Sonnenseite des Wohnrades" src="abb89.png"/>
+<p>Abb. 89. Gesamtansicht der Sonnenseite des Wohnrades. Der mittlere
+Sammelspiegel könnte auch weggelassen und durch entsprechende Vergrößerung
+des äußeren Spiegels ersetzt werden.</p></div>
+
 Zur Verbindung zwischen Achskörper und Radkranz dienen
 Treppen und elektrische Aufzüge, welche in eigenen Röhrenschächten
 untergebracht sind. Letztere verlaufen für die Aufzüge
 „lotrecht”, also radial (Abb. 84, A). Bei den Treppen hingegen,
 die ja geneigt sein müssen, sind sie — mit Rücksicht auf das
 Divergieren der Lotrichtung — nach logarithmischen Spiralen
-gekrümmt, die aber nach „oben“ (der Mitte) zu allmählich steiler
+\<@pagebreak /> gekrümmt, die aber nach „oben“ (der Mitte) zu allmählich steiler
 werden (Abb. 88 und 84, T), gemäß der nach dort mehr
 und mehr abnehmenden Schwerewirkung (Fliehkraft). Durch entsprechend
 langsames Benützen der Treppen bzw. der Aufzüge
@@ -155,15 +165,10 @@ kann der Übergang zwischen dem im Radkranz herrschenden
 Zustand der Schwere und der Schwerefreiheit des Weltraums
 beliebig allmählich vollzogen werden.
 
-<div class="image"><img alt="Gesamtansicht der Sonnenseite des Wohnrades" src="abb89.png"/>
-<p>Abb. 89. Gesamtansicht der Sonnenseite des Wohnrades. Der mittlere
-Sammelspiegel könnte auch weggelassen und durch entsprechende Vergrößerung
-des äußeren Spiegels ersetzt werden.</p></div>
-
 <div class="image"><img alt="Gesamtansicht der Schattenseite des Wohnrades" src="abb90.png"/>
 <p>Abb. 90. Gesamtansicht der Schattenseite des Wohnrades.</p></div>
 
-Die Versorgung des Wohnrades mit Licht, Wärme, Luft und
+\<@pagebreak /> Die Versorgung des Wohnrades mit Licht, Wärme, Luft und
 Wasser erfolgt in der schon früher für die Raumwarte allgemein
 angegebenen Weise, unter Verwendung der dort beschriebenen
 technischen Einrichtungen. Nur mit dem Unterschiede, daß an

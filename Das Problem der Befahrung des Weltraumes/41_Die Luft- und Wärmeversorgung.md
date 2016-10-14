@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Die Luft- und Wärmeversorgung.
 ==============================
 
@@ -20,7 +21,7 @@ sind auch vorhanden. Sie münden durch kleine vergitterte Öffnungen (Abb. 60 un
 Die Belüftungsanlage (Abb. 80) ist ähnlich dem
 von Oberth angedeuteten Lufterneuerungsapparat eingerichtet. Erst
 durchströmt die Luft einen Staubfilter. Sodann gelangt sie in
-ein durch Ausstrahlung in den Weltraum gekühltes Rohr, in
+\<@pagebreak 131/> ein durch Ausstrahlung in den Weltraum gekühltes Rohr, in
 welchem ihre Temperatur allmählich bis unter —78° Celsius erniedrigt
 wird, wodurch sich die gasförmigen Beimengungen, und
 zwar zuerst der Wasserdunst und später die Kohlensäure abscheiden.

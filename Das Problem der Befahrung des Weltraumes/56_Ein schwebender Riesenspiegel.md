@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 160/>
 Ein schwebender Riesenspiegel.
 ==============================
 
@@ -37,7 +39,7 @@ und zu seiner Fertigstellung etwa 15 Jahre erfordern.
 Nebst dieser gäbe es aber wohl auch noch andere Möglichkeiten,
 einen solchen schwebenden Riesenspiegel aufzubauen. Bei kleineren
 Durchmessern von vielleicht nur einigen 100 Meter würde es gewiß
-gelingen, dem Ganzen ein so starres Gefüge zu verleihen,
+\<@pagebreak /> gelingen, dem Ganzen ein so starres Gefüge zu verleihen,
 daß man den Spiegel auch in seiner Gesamtheit mittels Schwenkmotoren
 beliebig um seinen Schwerpunkt wenden und mit ihm
 willkürliche Ortswechsel vornehmen könnte.

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Das Manövrieren in den Schwerefeldern des Weltraums.
 ====================================================
 
@@ -12,7 +13,7 @@ So würde es z. B. bei einer Fernfahrt durch den Weltraum,
 im allgemeinen darauf ankommen, derart zu manövrieren, daß
 jene Himmelskörper, in deren Anziehungsbereich (Schwerefeld)
 die Reise gerade vor sich geht, in einer freien Umlaufbahn
-schwebend (also ohne Antrieb durch künstliche Kraft, nur im
+\<@pagebreak 16/> schwebend (also ohne Antrieb durch künstliche Kraft, nur im
 Schwung) umfahren werden, wenn man nicht beabsichtigt, auf
 ihnen zu landen. Eine längere Reisestrecke würde sich somit
 aus Teilen solcher Umlaufbahnen (Schwebestrecken) zusammensetzen,

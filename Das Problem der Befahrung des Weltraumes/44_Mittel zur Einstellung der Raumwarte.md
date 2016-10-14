@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Mittel zur Einstellung der Raumwarte.
 =====================================
 
@@ -20,7 +21,7 @@ um die Sonne andauernd Rechnung getragen werden.
 <p>Abb. 81. Wirkungsweise eines Schwenkmotors
 (siehe Buchtext Seite 133 unten).</p></div>
 
-Andererseits aber ist dies auch aus dem Grunde notwendig,
+\<@pagebreak 133/> Andererseits aber ist dies auch aus dem Grunde notwendig,
 um die Warte zur Erfüllung ihrer besonderen, später noch zu
 besprechenden Aufgaben zu befähigen, da für manche derselben
 beliebige Änderungen ihrer Lage im Raume möglich sein müssen, und
@@ -42,7 +43,7 @@ gleichzeitig mit seinem Rotor (Anker) auch sein Stator (der sonst feststehende T
 eines Elektromotors) und sonach auch das ganze, mit
 letzterem fest verbundene Gebäude um die Motorachse — jedoch
 in entgegengesetzter Richtung und, entsprechend der größeren
-Masse, viel langsamer als der Rotor — und zwar solange, bis der
+\<@pagebreak /> Masse, viel langsamer als der Rotor — und zwar solange, bis der
 Motor wieder stillgesetzt wird und verschieden rasch je nach der
 ihm erteilten Drehzahl. (Denn es handelt sich in vorliegendem
 Fall um ein „freies System”, in welchem nur innere Kräfte wirken.)

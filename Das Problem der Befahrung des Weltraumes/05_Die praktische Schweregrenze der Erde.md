@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 12/>
 Die praktische Schweregrenze der Erde.
 ======================================
 
@@ -22,7 +24,7 @@ Himmelskörper dortselbst ausüben, praktisch verschwindet.
 
 Anders aber, sobald wir uns von der Erde entfernen. Deren
 Anziehungskraft nimmt in ihrer Wirkung dann fortwährend ab,
-die der benachbarten Gestirne hingegen beständig zu. Da letztere
+\<@pagebreak /> die der benachbarten Gestirne hingegen beständig zu. Da letztere
 der Erdschwerkraft entgegen wirkt, muß sich von der Erde aus
 in jeder Richtung schließlich eine Stelle ergeben, an welcher sich
 diese Anziehungskräfte der Stärke nach das Gleichgewicht halten.

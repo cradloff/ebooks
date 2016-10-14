@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Landung in erzwungener Kreisbewegung.
 =====================================
 
@@ -16,7 +17,7 @@ Verbleiben (Abb. 44).
 Der durch den Luftwiderstand bedingte „Auftrieb“ ist nach ob e n gerichtet und
 trägt so das Flugzeug.</p></div>
 
-Für die Ausführung dieses Manövers wurde absichtlich die Höhe
+\<@pagebreak 78/> Für die Ausführung dieses Manövers wurde absichtlich die Höhe
 von 75 km über der Erdoberfläche gewählt; denn dort ist die
 Luftdichte bereits so gering, daß das Raumschiff trotz seiner
 hohen Geschwindigkeit annähernd denselben Luftwiderstand erleidet,
@@ -51,7 +52,7 @@ zunehmender Annäherung an die Erde die Fliehkraft praktisch
 überhaupt zu Null: das Fahrzeug wird dann nur mehr von den
 Tragflächen getragen, bis es schließlich im Gleitflug niedergeht.
 
-Auf diese Weise wäre es möglich, den Weg durch die Lufthülle
+\<@pagebreak /> Auf diese Weise wäre es möglich, den Weg durch die Lufthülle
 dermaßen auszudehnen, daß dabei sogar die ganze Erde
 <div class="image" float="left"><img alt="Landung in erzwungener Kreisbewegung" src="abb44.png"/>
 <p>Abb. 44. Landung in „erzwungener Kreisbewegung“. (Die Lufthülle
@@ -62,7 +63,7 @@ einige Male umfahren würde. Im Verlaufe dessen könnte aber
 durch Anwendung von Fallschirmen, die hinterher nachgezogen
 werden, zum Teil durch die Wirkung des eigenen Luftwiderstandes
 des Fahrzeuges und seiner Tragflächen, die Geschwindigkeit
-desselben sicherlich auch von 11000 Meter je Sekunde bis auf
+\<@pagebreak /> desselben sicherlich auch von 11000 Meter je Sekunde bis auf
 Null abgebremst werden, ohne daß ein „Heißlaufen” zu befürchten
 wäre. Die Dauer dieses Landungsmanövers Würde sich auf einige Stunden erstrecken.
 

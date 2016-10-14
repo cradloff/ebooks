@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 7/>
 Einleitung.
 ===========
 
@@ -13,7 +15,7 @@ Wesen wohl undenkbar sei, die Erde jemals verlassen zu können.
 Ist diese Ansicht auch wirklich berechtigt?
 
 Erinnern wir uns nur: noch vor wenigen Jahrzehnten war der
-<em>ebenfalls</em> wie unauslöschlich eingeprägte Glaube verbreitet, es sei
+*ebenfalls* wie unauslöschlich eingeprägte Glaube verbreitet, es sei
 Vermessenheit zu hoffen, daß wir jemals den Vögeln gleich die
 Luft durcheilen könnten. Und heute! Sollte die Menschheit angesichts
 dieses und ähnlicher glänzender Beweise der Leistungsfähigkeit

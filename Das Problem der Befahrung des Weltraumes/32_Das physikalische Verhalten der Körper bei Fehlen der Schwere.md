@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 107/>
 Das physikalische Verhalten der Körper bei Fehlen der Schwere.
 ==============================================================
 
@@ -35,7 +37,7 @@ Es mag dabei dem Neuling schwerfallen, mit seinen Kräften
 entsprechend Maß zu halten. Dies aber ist notwendig; denn da
 man ja mit der vollen Kraft der Abstoßung auch auf der gegenüberliegenden
 Wand des Zimmers auftrifft, kann allzu großer
-Eifer in diesem Fall sehr leicht zu schmerzlichen Beulen führen.
+\<@pagebreak /> Eifer in diesem Fall sehr leicht zu schmerzlichen Beulen führen.
 Deshalb müßten in allen von Menschen benutzten Räumen die
 Wände und insbesondere sämtliche Ecken und Kanten sehr gut
 gepolstert sein (Abb. 60).
@@ -53,7 +55,7 @@ und mit Greifschlingen versehen. Kein loser Gegenstand ist vorhanden.</p>
 </dl>
 </div>
 
-Die Abstoßung kann aber auch lebensgefährlich werden, und
+\<@pagebreak /> Die Abstoßung kann aber auch lebensgefährlich werden, und
 zwar wenn sie nicht in einem geschlossenen Raum sondern im
 Freien erfolgt, also z.B. bei Aufenthalt (im Raumanzug, siehe
 Folgendes) außerhalb der Raumwarte; denn hat man es versäumt,
@@ -90,7 +92,7 @@ wollte (Abb. 61). Um zu schlafen, muß man jedoch nicht
 erst sich niederlegen: in jeder Körperlage, an jeder Stelle des
 Raumes kann man der Ruhe pflegen.
 
-Aber trotz dieser durch das Fehlen der Schwere bedingten
+\<@pagebreak /> Aber trotz dieser durch das Fehlen der Schwere bedingten
 Regellosigkeit im physikalischen Verhalten der frei beweglichen
 Körper, ist die Art, wie dieselben nunmehr zur Ruhe kommen,
 doch nicht vollkommen willkürlich; denn das allgemeine Gesetz
@@ -116,8 +118,7 @@ immer wieder zurückgestoßen zwischen den Wänden des Raumes
 solange hin und her schweben, bis ihre Bewegungsenergie sich allmählich
 verbraucht hat und sie an einer der Wände ebenfalls zur
 Ruhe kommen. Es werden sich somit sämtliche im Bereiche
-
-der Raumwarte freischwebenden Körper im Laufe der
+\<@pagebreak /> der Raumwarte freischwebenden Körper im Laufe der
 Zeit an die Wandungen anlegen, und zwar vornehmlich so,
 daß sie dem gemeinsamen Gebäudeschwerpunkt dabei möglichst
 nahekommen.
@@ -157,7 +158,7 @@ usw.) an. Fehlt jedoch die Schwere, dann können die einzelnen
 Massenteilchen ungehindert ihren Molekularkräften
 folgen und sich nach deren Wirkungsweise ordnen.
 
-Flüssigkeiten nehmen daher im gewichtslosen Zustand eine
+\<@pagebreak /> Flüssigkeiten nehmen daher im gewichtslosen Zustand eine
 selbständige, und zwar die einfachste geometrische Körperform,
 nämlich Kugelgestalt an. Voraussetzung hierfür ist allerdings,
 daß sie nur ihren Kohäsionskräften unterliegen, also mit keinem
@@ -195,7 +196,7 @@ man dabei die Flasche hält. Daher kann dieselbe auch nicht,
 wie sonst, durch einfaches Neigen entleert werden. Man muß
 sie zu diesem Zwecke nun:
 
-entweder rasch zurückziehen (also nach rückwärts beschleunigen, Abb. 64)
+\<@pagebreak /> entweder rasch zurückziehen (also nach rückwärts beschleunigen, Abb. 64)
 oder in der Richtung der Ausflußöffnung verstoßen und daraufhin
 bzw. in schon bestehender Vorwärtsbewegung plötzlich
 anhalten (also in einer Vorbewegung verzögern, auch wie Abb. 64),
@@ -209,7 +210,7 @@ Die Flüssigkeit wird dann infolge ihres Beharrungsvermögens
 austreten, unter gleichzeitigem Einsaugen von Luft (wie das Glucksen beim normalen Ausgießen
 einer Flasche). Voraussetzung hierfür ist allerdings, daß der Flaschenhals
 ausreichend weit ist, bzw. die Bewegung mit genügender Kraft
-ausgeführt wird, damit dieser Lufteinlauf entgegen dem gleichzeitig
+\<@pagebreak /> ausgeführt wird, damit dieser Lufteinlauf entgegen dem gleichzeitig
 ausströmenden Wasser auch tatsächlich stattfinden kann.
 
 <div class="image"><img alt="Im Kreise Schwingen einer Wasserflasche zwecks Entleerung derselben" src="abb65.png"/>
@@ -250,7 +251,7 @@ Flüssigkeitskugel auf eine der Zimmerwände stoßen.
 Kann sie dieselbe benetzen, dann wird sie sich darüber auszubreiten
 suchen (Abb. 66 links).
 
-Andernfalls aber wird sie durch den Stoß, ähnlich etwa wie
+\<@pagebreak /> Andernfalls aber wird sie durch den Stoß, ähnlich etwa wie
 ein auffallender Quecksilbertropfen, in zahlreiche kleinere Kügelchen
 zerbröseln, die längs der Wände oder mitunter vielleicht
 auch frei durch den Raum entschweben, wobei sie sich zum Teil
@@ -280,7 +281,7 @@ verschiebbaren Böden, ähnlich Handspritzen, geeignet
 (Abb. 67); denn nur solche ließen sich in einfacher Weise füllen
 (Abb. 68) sowie bequem entleeren. Letzteres, indem man durch
 Zusammendrücken derselben bzw. durch Vorschieben des Kolbens
-den Inhalt aus ihnen herauspreßt (Abb. 69). Bei elastischen
+\<@pagebreak /> den Inhalt aus ihnen herauspreßt (Abb. 69). Bei elastischen
 Gummiballons, die unter Dehnung der Hülle gefüllt werden,
 genügte auch schon die Spannung der letzteren allein, um die
 Flüssigkeit bei Öffnen des Hahnes zum Ausfließen zu bringen
@@ -311,7 +312,7 @@ elektrische Kochgeräte gebrauchen, die während der Benützung
 in ständiger Rotation erhalten werden, so daß (an Stelle
 der nun fehlenden Schwere) die dabei erzeugte Fliehkraft den Inhalt
 an die Gefäßwände andrückt und ähnliches mehr. Jedenfalls
-aber wäre das Kochen recht unbequem, trotzdem jedoch ebenso
+\<@pagebreak /> aber wäre das Kochen recht unbequem, trotzdem jedoch ebenso
 wie das Essen und Trinken in irgendeiner Weise möglich.
 
 Gänzlich verzichten müßte man aber darauf, sich in gewohnter
@@ -336,7 +337,7 @@ schweben zu können; ja sogar auch dann nicht, wenn wir
 selbst diesen Zustand angenehm empfinden würden. Denn die
 Schwere hält nicht nur uns in ihrem Bann: auch alle anderen
 Körper zwingt sie zu Boden und hindert sie so, ganz ohne Gesetzmäßigkeit,
-dem Zufall frei überlassen, sich wirr durcheinander
+\<@pagebreak /> dem Zufall frei überlassen, sich wirr durcheinander
 zu bewegen. Sie ist vielleicht die wichtigste ordnunggebietende
 Macht unseres Daseins. Wo sie fehlt, ist alles im wahrsten Sinne
 „auf den Kopf gestellt”, es hat seinen Halt verloren.

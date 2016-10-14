@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Die Fahrtechnik.
 ================
 
@@ -5,8 +6,7 @@ In welcher Weise die Fernfahrt durch den Weltraum zu er—
 folgen hätte, wurde schon am Beginn angedeutet<a class="refnote" id="rn1" href="#fn1">1</a>
 im allgemeinen in freien Umlaufbahnen um jene Himmelskörper, in deren
 überwiegendem Anziehungsfeld die Reise gerade vor sich geht.
-
-Innerhalb des Reichs der Sonne also muß letztere demnach stets in
+\<@pagebreak /> Innerhalb des Reichs der Sonne also muß letztere demnach stets in
 irgendeiner freien Umlaufbahn umfahren werden, will man verhindern,
 ihrer Schwerkraft zu verfallen und in ihr Glutmeer abzustürzen.
 
@@ -42,7 +42,7 @@ auf ihn niederzugehen. Letzteres kann, im Falle er eine der irdischen
 ähnliche Lufthülle besitzt, in gleicher Weise geschehen,
 wie früher schon für die Erde besprochen<a class="refnote" id="rn2" href="#fn2">2</a>
 (Hohmannsches Landungsmanöver, Abb.44 und 45). Fehlt jedoch eine entsprechende
-Lufthülle, dann ist die Landung nur durch Rückstoßbremsung
+\<@pagebreak /> Lufthülle, dann ist die Landung nur durch Rückstoßbremsung
 möglich, indem man während des Niedergehens den Antrieb entgegengesetzt
 der Fallrichtung wirken läßt<a class="refnote" id="rn3" href="#fn3">3</a> (Abb. 37).
 
@@ -73,7 +73,7 @@ Landungsmanövers einhalten muß. In gleicher Weise hätte auch
 die Rückreise Zu erfolgen.
 
 Man sieht also, daß im Verlaufe einer solchen Fernfahrt durch
-den Planetenraum wiederholte Änderungen des Bewegungszustandes
+\<@pagebreak /> den Planetenraum wiederholte Änderungen des Bewegungszustandes
 notwendig sind, die jedesmal durch Antrieb mit künstlicher
 Kraft bewirkt werden müßten und daher Betriebsstoffaufwand
 erforderten, worauf ja auch schon einleitend<a class="refnote" id="rn4" href="#fn4">4</a>
@@ -94,7 +94,7 @@ suchenden Himmelskörpers. Die stark ausgezogene Strecke &rarr; der
 Verbindungs—Umlaufbahn ist jener Teil derselben, den das Raumfahrzeug tatsächlich
 durchläuft.</p></div>
 
-Zu diesen kommen aber noch weitere hinzu, wenn der zu besuchende
+\<@pagebreak /> Zu diesen kommen aber noch weitere hinzu, wenn der zu besuchende
 Weltkörper nicht zu umfahren wäre, sondern auf
 ihn niedergegangen werden soll, und zwar umsomehr, je größer
 seine Masse und damit auch seine Anziehungskraft ist; denn

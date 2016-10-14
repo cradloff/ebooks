@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 156/>
 Besondere physikalische Untersuchungen.
 =======================================
 
@@ -14,7 +16,7 @@ Ferner wäre es möglich, extrem niedere Temperaturen nicht
 nur in einfacherer Weise als auf der Erde zu erzeugen, sondern
 auch dem absoluten Nullpunkt dabei viel näher zu
 kommen, als; dies in unseren Kältelaboratorien gelingt (bisher
-erreichte man daselbst etwa 1° absolut, d. i. —272° Celsius);
+erreichte man daselbst etwa 1° absolut, d. i. -272° Celsius);
 denn in der Raumwarte würde ja außer dem für diesen
 Zweck bereits gebräuchlichen Verfahren der Heliumverflüssigung
 auch noch die Möglichkeit weitgehendster Abkühlung durch

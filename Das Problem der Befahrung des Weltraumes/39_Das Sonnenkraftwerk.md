@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Das Sonnenkraftwerk.
 ====================
 
@@ -18,7 +19,7 @@ Dies bedingt, gemäß unseren früheren Ausführungen, daß sowohl
 der Dampferzeuger wie auch der Kondensator außen
 mattschwarz gefärbt ist. Beide bestehen der Hauptsache
 nach eigentlich nur aus entsprechend langen Metallrohren, welche
-stetig gekrümmt sind, damit die inneren Rohrwände auch in gewichtslosem
+\<@pagebreak 128/> stetig gekrümmt sind, damit die inneren Rohrwände auch in gewichtslosem
 Zustande von der durchströmenden Treibflüssigkeit
 genügend stark und andauernd berührt werden (Siehe Abb. 77).
 

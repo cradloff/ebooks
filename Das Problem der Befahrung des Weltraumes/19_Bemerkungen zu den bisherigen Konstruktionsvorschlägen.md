@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Bemerkungen zu den bisherigen Konstruktionsvorschlägen.
 =======================================================
 
@@ -16,7 +17,7 @@ Zerstörung von Ofen und Düse durch die Verbrennungshitze.
 Es wurde aus diesem Grund auch absichtlich vermieden, hier
 selbst Konstruktionsvorschläge zu bringen. Wohl aber erachten
 wir es zweifellos auch gegenwärtig schon als angezeigt und notwendig,
-wenigstens soweit es mit den zur Zeit vorhandenen Erfahrungen
+\<@pagebreak 69/> wenigstens soweit es mit den zur Zeit vorhandenen Erfahrungen
 eben möglich ist, das "Grundsätzliche des Fahrzeugaufbaues
 zu klären, und dazu gehört vor allem auch die Frage
 des Antriebsstoffes. Als solcher wurde, laut Früherem, bisher
@@ -53,7 +54,7 @@ Benzol, Heptan u. a.) mit feinverteiltem, möglichst reinen
 Kohlenstoff (wie etwa Ruß, feinstes Kohlenmehl o. dgl.) der
 Energiegehalt je Liter noch weiter gesteigert und dadurch ein
 besonders hochwertiger, ja vielleicht der nach unserer heutigen
-Kenntnis der Stoffe überhaupt bestmögliche Raketenbetriebsstoff
+\<@pagebreak /> Kenntnis der Stoffe überhaupt bestmögliche Raketenbetriebsstoff
 gewonnen werden könnte.
 
 Selbstverständliche Bedingung für die Gültigkeit vorstehender
@@ -88,7 +89,7 @@ von den vielen anderen durch diese niedere Temperatur des flüssigen
 Wasserstoffes bedingten Schwierigkeiten in der Handhabung
 und Anwendungsweise desselben, die alle beim Benzol fortfallen.
 
-Allerdings tritt diese Überlegenheit der flüssigen Kohlenwasserstoffe
+\<@pagebreak /> Allerdings tritt diese Überlegenheit der flüssigen Kohlenwasserstoffe
 bei höheren Endgeschwindigkeiten gegenüber dem reinen
 <div class="image" float="right"><img alt="Gegenüberstellung des Volumens von Wasserstoffrakete und Benzolrakete" src="abb36.png"/>
 <p>Abb. 36. Größenverhältnis zwischen einer Wasserstoffrakete und einer

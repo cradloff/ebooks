@@ -1,9 +1,10 @@
+<#include "pagebreak.ftl">
 Die Fernverständigung.
 ======================
 
 Sehr wichtig sind ferner die Einrichtungen für die Fernverständigung.
 Diese erfolgt entweder durch Lichttelegraphie
-mittels Blinkspiegel, elektrischer Lampen, Scheinwerfer, farbiger
+\<@pagebreak 132/> mittels Blinkspiegel, elektrischer Lampen, Scheinwerfer, farbiger
 Scheiben usw., oder sie wird auf elektrischem Wege durch
 Funk, innerhalb des engsten Bereiches der Raumwarte auch drahtlich, bewerkstelligt.
 

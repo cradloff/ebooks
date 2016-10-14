@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Landung in Bremsellipsen.
 =========================
 
@@ -17,7 +18,7 @@ Erwärmung es noch gestattet.
 <p>Abb. 45. Landung in „Bremsellipsen“. (Die Lufthülle und die Landungsbahn sind hier, ebenso
 wie in Abb. 44, höher als der Wirklichkeit entsprechend gezeichnet. Vergl. Abb. 8.)</p></div>
 
-Allerdings kann dadurch die Fahrgeschwindigkeit noch nicht derart
+\<@pagebreak 81/> Allerdings kann dadurch die Fahrgeschwindigkeit noch nicht derart
 vermindert werden, wie dies notwendig wäre, um damit das
 Raumschiff in die freie Kreisbewegung überzuleiten. Es verbleibt
 daher noch ein Überschuß an Geschwindigkeit und somit auch an

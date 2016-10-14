@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Wärmelos.
 =========
 
@@ -9,7 +10,7 @@ denen sich die Körperstoffe aufbauen, ist ihr Auftreten stets an
 die Voraussetzung geknüpft, daß überhaupt Stoffe vorhanden sind.
 Wo letztere fehlen, kann es somit keine Wärme geben: der leere
 Weltraum ist also praktisch „wärmelos”. Ob dies auch theoretisch
-vollkommen richtig ist, hängt davon ab, inwieweit die mancherseits
+\<@pagebreak 122/> vollkommen richtig ist, hängt davon ab, inwieweit die mancherseits
 vertretene Ansicht, daß der Weltraum doch mit einem
 wenn auch außerordentlich fein verteilten wirklichen Stoff erfüllt
 sei, tatsächlich zutrifft. Herrscht völlige materielle Leere, dann
@@ -47,7 +48,7 @@ geringer ist auch sein Ausstrahlungsvermögen, desto länger behält
 er demgemäß seine Wärme, während er sich hingegen bei
 dunkler, rauher Oberfläche sehr rasch durch Ausstrahlung abkühlen kann.
 
-Den Wärmestrahlungsvorgängen der verschiedenen Art unterliegen
+\<@pagebreak /> Den Wärmestrahlungsvorgängen der verschiedenen Art unterliegen
 also am meisten mattschwarze und am wenigsten hellspiegelnde Flächen.
 Dieser Umstand würde es ermöglichen, die Temperatur von Körpern im
 leeren Weltraum auf einfache Weise und in weitgehendem Maße
@@ -75,7 +76,7 @@ Sonnenstrahlen auf denselben mittels eines Hohlspiegels" src="abb73.png"/>
 Sonnenstrahlen auf denselben mittels eines Hohlspiegels.</p></div>
 
 Benutzt man hierzu einen Sammelspiegel, der außerdem noch
-Sonnenstrahlen in entsprechender Stärke auf den Körper hinlenkt,
+\<@pagebreak /> Sonnenstrahlen in entsprechender Stärke auf den Körper hinlenkt,
 dann könnte dessen Temperatur auch sehr hoch gebracht werden
 (Abb. 73).
 
@@ -103,7 +104,7 @@ denselben dabei allerdings auch nicht, weil auf der Schattenseite dem
 Körper durch die Fixsterne doch ein gewisses Maß von Wärme zugestrahlt wird, und auch die
 Spiegel nie vollkommen gegen die Sonne abschirmen könnten.
 
-Es wäre somit in der Raumwarte möglich, durch die geschilderte
+\<@pagebreak /> Es wäre somit in der Raumwarte möglich, durch die geschilderte
 Ausnützung der Strahlungserscheinungen nicht nur die normale,
 zum Leben notwendige Wärme andauernd zu halten, sondern
 auch äußerst hohe und niedere Temperaturen und demnach

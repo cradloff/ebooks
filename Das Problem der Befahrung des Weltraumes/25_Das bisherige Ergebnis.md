@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Das bisherige Ergebnis.
 =======================
 
@@ -15,7 +16,7 @@ Jahre und Jahrzehnte bis dahin vergehen; denn daß die noch
 zu überwindenden technischen Schwierigkeiten sehr bedeutend sind,
 darüber wird kein ernst Denkender sich täuschen dürfen. In vieler
 Hinsicht wird es sich bei der praktischen Ausführung wahrscheinlich
-als notwendig erweisen, die bisher ohne genügende Versuchsgrundlagen
+\<@pagebreak 83/> als notwendig erweisen, die bisher ohne genügende Versuchsgrundlagen
 gemachten Vorschläge wohl auch weitgehend abzuändern.
 Es wird Opfer koste'n an Geld und Mühe und vielleicht
 auch an Menschenleben; haben wir ja alles dies schon in den

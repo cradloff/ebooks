@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Die Ausgestaltung der Raumwarte.
 ================================
 
@@ -31,7 +32,7 @@ Da alle Räume untereinander in Verbindung stehen und lufterfüllt
 sind, ist der Verkehr im Innern überallhin ohne weiteres
 möglich. Nach außen, in den leeren Weltraum, kann man
 jedoch nur mittels sogenannter Luftschleusen gelangen. Diese
-aus dem Unterwasserbau bekannte (bei den Caissons, den Taucherglocken
+\<@pagebreak 126/> aus dem Unterwasserbau bekannte (bei den Caissons, den Taucherglocken
 usw. angewendete) Vorrichtung, besteht im wesentlichen
 aus einer kleinen Kammer, die zwei luftdicht abschließende
 Türen besitzt, von denen die eine in das Innere des Gebäudes
@@ -53,7 +54,7 @@ umgekehrte Vorgang eingehalten werden.
 Für den Betrieb und die demgemäße Einrichtung der
 Raumwarte maßgebend ist der Umstand, daß an Ort und Stelle
 garnichts zur Verfügung steht als nur die Strahlen der Gestirne,
-vor allem jene der Sonne — diese allerdings fast zu jeder
+\<@pagebreak /> vor allem jene der Sonne — diese allerdings fast zu jeder
 Zeit und auch in unbeschränkter Menge. Sämtliche, insbesondere
 auch die zum Leben notwendigen Stoffe, wie beispielsweise Luft
 und Wasser, müssen also von der Erde ständig zugeführt werden.

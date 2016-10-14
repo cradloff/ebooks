@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Das Hohmannsche Landungsmanöver.
 ================================
 
@@ -25,7 +26,7 @@ Geschwindigkeit er fortgeschleudert wurde. Könnte man nun diese Wurfgeschwindig
 steigern, so daß der Stein nicht schon in einer Entfernung von
 10 oder 100 Meter, ja auch noch nicht in einer solchen von 100
 oder 1000 km niederfällt, sondern erst in einer Weite von
-40000 km zu Boden gelangte, dann würde er in Wirklichkeit
+\<@pagebreak /> 40000 km zu Boden gelangte, dann würde er in Wirklichkeit
 überhaupt gar nicht mehr niederfallen, da ja der ganze Erdumfang nur 40000 km
 mißt. Er würde dann die Erde wie ein winziger Mond in einer
 freien Umlaufbahn umkreisen. Allerdings müßte man, um dies
@@ -50,7 +51,7 @@ als 3000 Meter je Sekunde größer, als jene Geschwindigkeit von genau
 <p>Abb. 41. Infolge der um rund 3000 m/sec zu großen Fahrgeschwindigkeit: (11000 Statt 7850 m/sec!)
 ist die Fliehkraft größer als die Schwere, weshalb das Raumschiff
 aus der freien Kreisbahn nach außen gedrängt wird.</p></div>
-(ähnlich wie früher der Stein) in freier Kreisbahn in einer Höhe
+\<@pagebreak /> (ähnlich wie früher der Stein) in freier Kreisbahn in einer Höhe
 von 75 km umlaufe.
 
 Infolge dieses Überschusses an Geschwindigkeit wird nun das

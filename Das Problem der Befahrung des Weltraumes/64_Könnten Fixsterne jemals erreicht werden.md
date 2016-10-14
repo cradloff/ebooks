@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Könnten Fixsterne jemals erreicht werden?
 =========================================
 
@@ -16,7 +17,7 @@ Planeten gleichen? Wohl wäre es viel zu weit bis hin, um sie
 auch wahrzunehmen; aber die Wahrscheinlichkeit spricht sehr
 für ihr Vorhandensein: Hat doch die neuere Wissenschaft — als
 eines ihrer wunderbarsten Ergebnisse — zeigen können, daß das
-ganze Universum, selbst in seinen fernsten Teilen, sowohl von
+\<@pagebreak 180/> ganze Universum, selbst in seinen fernsten Teilen, sowohl von
 denselben Naturgesetzen beherrscht, als auch aus den gleichen
 Stoffen aufgebaut ist wie die Erde und unser Sonnensystem!
 Müßte unter diesen Umständen (also aus der gleichen Materie
@@ -44,7 +45,7 @@ zeitlichen Ausdehnung einer Reise durch die mittlere Lebensdauer
 des Menschen gesetzt ist, ganz abgesehen von der dazu
 notwendigen technischen Leistungsfähigkeit des Fahrzeuges.
 
-Nehmen wir' zuvor erst an, es sei das für unsere heutigen
+Nehmen wir zuvor erst an, es sei das für unsere heutigen
 Begriffe allerdings noch ungeheuerlich Erscheinende bereits gelungen:
 den Rückstoßantrieb so zu vervollkommnen, daß man
 dem Raumschiff während sehr langer Zeit, selbst Jahre
@@ -53,7 +54,7 @@ könne, welche der Mensch bei allmählicher Gewöhnung wahrscheinlich
 auch auf die Dauer vertragen würde. Es wäre dann
 möglich, um eine bestimmte Weltraumstrecke zurückzulegen, das
 Fahrzeug auf der ganzen ersten Hälfte seines Weges fortgesetzt
-gleichförmig zu beschleunigen, also immer mehr in Fahrt zu
+\<@pagebreak /> gleichförmig zu beschleunigen, also immer mehr in Fahrt zu
 bringen, und es auf der zweiten Hälfte ebenso zu verzögern
 und dadurch wieder allmählich abzubremsen (Abb. 100), nach
 welchem Verfahren eine bestimmte Entfernung, bei vorgegebener,
@@ -87,7 +88,7 @@ vielleicht in der Natur des Weltäthers gelegenes) Hindernis
 ergeben würde, um Fahrgeschwindigkeiten zu erreichen, die sich
 der Größenordnung der Lichtgeschwindigkeit nähern: dann könnte
 man immerhin noch mit einer Gesamtreisezeit, einschließlich Hin—
-und Rückfahrt, von rund 10 Jahren den Fixstern Alpha-Centauri,
+\<@pagebreak /> und Rückfahrt, von rund 10 Jahren den Fixstern Alpha-Centauri,
 von 20 Jahren die vier weiteren‚und von 30 Jahren
 bereits eine beträchtliche Zahl der uns bisher bekannten, benachbarten
 Fixsterne erreichen.
@@ -127,7 +128,7 @@ Denken nun einmal vertraut geworden ist, nur einige
 Jahrzehnte; und was sind 100, ja selbst 1000 Jahre in der nach
 allem noch vor uns liegenden Zeitspanne menschlicher Entwicklung.
 
-Die Besiegung des Raums! Es wäre die grandioseste aller nur
+\<@pagebreak /> Die Besiegung des Raums! Es wäre die grandioseste aller nur
 erträumbaren Leistungen, Erfüllung höchsten Zwecks: der Menschheit
 geistige Errungenschaften vor ihrem endlichen Untergang in
 die Ewigkeit zu retten; denn erst wenn es gelänge, unsere Kultur

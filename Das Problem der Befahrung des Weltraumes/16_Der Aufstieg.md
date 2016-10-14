@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Der Aufstieg.
 =============
 
@@ -10,7 +11,7 @@ hier nur den vorerst wichtigsten Teil: den Aufstieg behandeln,
 denn dieser stellt an die Leistungsfähigkeit des Antriebes
 weitaus die größten Anforderungen und ist deshalb auch für den
 Aufbau des ganzen Fahrzeuges von entscheidender Bedeutung.
-Für die Durchführung desselben ergeben sich im Sinne des auch
+\<@pagebreak 37/> Für die Durchführung desselben ergeben sich im Sinne des auch
 schon zu Anfang über die Bewegungsweise in den Schwerefeldern
 des Weltraums Angedeuteten<a class="refnote" id="rn1" href="#fn1">1</a>
 2 grundsätzliche Möglichkeiten: der „Steilaufstieg” und der „Flachaufstieg”.
@@ -38,13 +39,13 @@ diese so lange zu steigern, bis die für die freie Umlaufbewegung
 notwendige Umlaufgeschwindigkeit und damit der „stabile
 Schwebezustand” erreicht ist (Abb. 5 und 20). Wir werden uns
 mit dieser Aufstiegart später noch eingehender befassen.
+
 Zunächst aber wollen wir noch einiges andere untersuchen,
 darunter die Frage: wie es sich während des Aufstieges mit dem
 Wirkungsgrad verhält; denn wie immer der Aufstieg erfolgen
 mag, kann jedenfalls die erforderliche Endgeschwindigkeit nur
 nach und nach erlangt werden, was zur Folge hat, daß die
-
-Fahr-(Steig-)Geschwindigkeit der Raumrakete anfangs kleiner und
+\<@pagebreak /> Fahr-(Steig-)Geschwindigkeit der Raumrakete anfangs kleiner und
 später (je nach der Höhe der Endgeschwindigkeit) größer als die
 Abstoßungsgeschwindigkeit sein wird. Demgemäß muß aber auch
 der Wirkungsgrad des Rückstoßes während des Aufstieges mit
@@ -69,7 +70,7 @@ Aufschluß hierüber gibt die Formel<a class="refnote" id="rn2" href="#fn2">2</a
 
 η<span class="sub">rm</span> = (v' / c)² / (e<span>v'/c</span>- 1)
 
-<table>
+\<@pagebreak /> <table>
 <caption>Tabelle 4</caption>
 <tr>
   <td rowspan="2">Verhältnis der Endgeschwindigkeit v' zur Abstoßungsgeschwindigkeit c:
@@ -108,7 +109,7 @@ ergäbe sich beispielsweise — bei einer Abstoßungsgeschwindigkeit
 c = 3000 Meter je Sekunde — für eine Antriebsperiode, an deren
 Ende die Endgeschwindigkeit v = 3000 Meter je Sekunde erlangt
 wird (also für v'/c = 1), der mittlere Wirkungsgrad des Rückstoßes mit
-58 Prozent, für die Endgeschwindigkeit v = 12000 Meter je Sekunde
+\<@pagebreak /> 58 Prozent, für die Endgeschwindigkeit v = 12000 Meter je Sekunde
 (also v'/c = 4) mit 30 Prozent usw. Er würde günstigenfalls, d. i.
 für v'/c = 1,59, in unserem Beispiel also für eine Antriebsperiode
 mit der Endgeschwindigkeit v' = 4770 Meter je Sekunde, sogar
@@ -136,7 +137,7 @@ erforderlich ist, um einen weiteren, nicht unbedeutenden Betrag
 vermehrt. Dieser Zustand dauert so lange an, bis — je nachdem
 ob es sich um einen Steil- oder Flachaufstieg handelt — entweder
 die notwendige Steig-Höchstgeschwindigkeit oder die erforderliche
-wagrechte Umlaufgeschwindigkeit erreicht wird. Je früher dies
+\<@pagebreak /> wagrechte Umlaufgeschwindigkeit erreicht wird. Je früher dies
 nun gelingt, desto kürzer ist auch die Zeitdauer, während welcher
 das Fahrzeug durch den Antrieb unterstützt werden muß;
 desto geringer wird dann aber auch der Betriebsstoffverbrauch
@@ -162,7 +163,7 @@ des Flugwesens (z. B. bei Schraubenflügen) lassen vermuten, daß
 bei lotrechtem Aufstieg eine wirkliche Steigbeschleunigung
 bis zu 30 m/sec² noch zulässig sein mag. In diesem Falle stünde
 das Fahrzeug und sein Inhalt während der Dauer des Antriebes,
-wie unter der Einwirkung einer Schwerkraft von der vierfachen
+\<@pagebreak /> wie unter der Einwirkung einer Schwerkraft von der vierfachen
 Stärke der normalen Erdschwere. Man unterschätze nicht, was das
 bedeutet! Denn dies heißt nicht weniger, als daß die Füße nahezu
 das Vierfache des gewöhnlichen Körpergewichtes zu tragen hätten.
@@ -200,7 +201,7 @@ und erst dann —— und zwar durch weitere Steigerung der Umlaufgeschwindigkeit
 Höhe oder zur gänzlichen Loslösung von der Erde notwendige
 Höchstgeschwindigkeit hingearbeitet wird („Flachaufstieg”, Abb. 20).
 
-Die schiefe Aufstiegrichtung hat nämlich den Vorteil, daß
+\<@pagebreak /> Die schiefe Aufstiegrichtung hat nämlich den Vorteil, daß
 die Erdschwere dem Antrieb nicht in voller Stärke entgegenwirkt
 (Abb. 23) und sich daher bei gleicher ideeller Beschleunigung
 (gleichem Antrieb) — welche laut Früherem ja mit Rücksicht auf
@@ -232,7 +233,7 @@ dürfte man nach Meinung des Verfassers dem hierbei praktisch
 wirklich Erreichbaren am nächsten kommen.
 
 Doch wie immer der Aufstieg auch vor sich gehen mag, er
-erfordert jedenfalls sehr bedeutende Beschleunigungen, so daß
+\<@pagebreak /> erfordert jedenfalls sehr bedeutende Beschleunigungen, so daß
 das Fahrzeug schon in der Höhe von einigen Kilometern bereits
 Geschoßgeschwindigkeit erlangen wird. Dieser Umstand hat aber —
 bei der großen Dichte der tiefsten, erdnahen Luftschichten —

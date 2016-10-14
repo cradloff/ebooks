@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Ferne Welten.
 =============
 
@@ -18,7 +19,7 @@ mit der Zeit tatsächlich gelingt, jene ungeheuren in der Materie
 gebundenen Energiemengen, von deren Vorhandensein man heute
 bereits weiß, auch technisch auswertbar zu machen und für den
 Antrieb von Raumfahrzeugen heranzuziehen. Vielleicht, daß man
-einmal auch ein Verfahren finden wird, die elektrische Erscheinung
+\<@pagebreak 175/> einmal auch ein Verfahren finden wird, die elektrische Erscheinung
 der Kathodenstrahlung hierfür auszunützen, oder sonst auf
 eine Weise durch elektrische Beeinflussung eine vielfache Erhöhung
 der Abstoßungsgeschwindigkeit zu erreichen. Auch eine diesem
@@ -56,9 +57,9 @@ sind beide wesentlich kleiner als jene der Erde. Er besitzt zwar
 eine Lufthülle, aber von viel geringerer Dichte als die irdische
 (an seiner Oberfläche ist der Luftdruck gewiß noch bedeutend
 niederer als selbst auf dem höchsten Bergesgipfel der Erde). Auch
-Wasser findet sich-auf ihm wahrscheinlich vor. Es dürfte aber
+Wasser findet sich auf ihm wahrscheinlich vor. Es dürfte aber
 ein ziemlich großer Teil desselben vereist sein; denn seine mittlere
-Temperatur scheint wesentlich unter der der Erde zu liegen,
+\<@pagebreak /> Temperatur scheint wesentlich unter der der Erde zu liegen,
 wenn auch stellenweise, wie in der Marsäquatorgegend, schon
 verhältnismäßig bedeutende Wärmegrade festgestellt wurden. Die
 Temperaturunterschiede zwischen Tag und Nacht sind wegen der
@@ -96,7 +97,7 @@ dieselbe annähernd so wie bei der Erde, also etwa in 24 Stunden
 verlaufen, was von manchen Seiten angenommen wird, dann bestünde
 zwischen Venus und Erde äußerst weitgehende Ähnlichkeit.
 
-Man kann daher bei diesem Planeten noch am ehesten damit
+\<@pagebreak /> Man kann daher bei diesem Planeten noch am ehesten damit
 rechnen, auf ihm den irdischen ähnliche Lebensbedingungen vorzufinden,
 selbst wenn die Vermutung, daß er andauernd von einer
 Wolkenhülle umschlossen sei, wirklich zutreffen sollte; denn auch
@@ -133,7 +134,7 @@ Frage der Oberflächenbeschaffenheit dieser Himmelskörper ist
 jedoch noch gänzlich ungeklärt; bei Jupiter und Saturn deshalb,
 weil dieselben von Kondensationsprodukten (Wolken irgendwelcher
 Art) so dicht umhüllt sind, daß wir ihre eigentliche Oberfläche
-vermutlich gar nicht sehen, bei Uranus und Neptun, weil
+\<@pagebreak /> vermutlich gar nicht sehen, bei Uranus und Neptun, weil
 ihre große Entfernung sie einer genaueren Beobachtung entzieht.
 
 Über ihren Wert als Raumfahrtziele kann daher schwer etwas
@@ -175,7 +176,7 @@ oder solchen ähnliche Wesen anträfen, vielleicht sogar mit
 Kulturen, die sehr viel anders oder auch älter als die unseres
 Heimatplaneten sind.
 
-Es ist ja höchstwahrscheinlich, daß sich das Leben auf den
+\<@pagebreak /> Es ist ja höchstwahrscheinlich, daß sich das Leben auf den
 fremden Gestirnen — falls solches dort vorhanden ist — auf
 einer anderen Stufe befindet, als jenes der Erde. Wir könnten
 dann das Wunderbare erleben, aus der Entwicklung unseres irdischen

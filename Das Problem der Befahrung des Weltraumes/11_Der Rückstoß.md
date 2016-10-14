@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Der Rückstoß.
 =============
 
@@ -13,7 +14,7 @@ langsam, ohne Gefährdung von Fahrgästen und Fracht auf jene
 hohen, bereits kosmischen Geschwindigkeiten hinaufzuarbeiten, die
 für die Raumfahrt nötig sind.
 
-Aber wie dies alles? Wie soll die Fortbewegung denn überhaupt
+\<@pagebreak 21/> Aber wie dies alles? Wie soll die Fortbewegung denn überhaupt
 ermöglicht werden, da im leeren Weltraum weder Luft
 noch sonstige Körper zur Verfügung stehen, an welchen sich das
 Fahrzeug fortarbeiten, gewissermaßen abstoßen könnte,
@@ -42,7 +43,7 @@ Gegenstand (z. B. eine frei hängende Eisenkugel) rasch von sich
 wegstößt, erhält man selbst dabei einen merklichen „Rückstoß”.</p></div>
 
 Aber auch im alltäglichen Leben
-kann man den Rückstoßvorgang, wenn auch zumeist nicht in so
+\<@pagebreak /> kann man den Rückstoßvorgang, wenn auch zumeist nicht in so
 vollkommener Weise, immer wieder beobachten: so z. B. wenn
 man einen beweglichen Gegenstand mit der Hand von sich wegstößt
 (Abb. 12); denn genau denselben Stoß, welchen man dabei
@@ -79,7 +80,7 @@ Geschoß eine Geschwindigkeit von etlichen hundert Metern je
 Sekunde annimmt, ist dagegen die Geschwindigkeit, welche das
 viel schwerere Gewehr in entgegengesetzter Richtung erlangt so
 gering, daß der hierdurch verursachte Rückstoß vom Schützen mit
-der Schulter aufgefangen werden kann. Würde man letzteres unterlassen
+\<@pagebreak /> der Schulter aufgefangen werden kann. Würde man letzteres unterlassen
 und dem Gewehr gestatten, sich ungehemmt nach rückwärts
 zu bewegen (Abb. 13), dann bliebe der gemeinsame Schwerpunkt
 von Geschoß und Gewehr tatsächlich in Ruhe (dort wo

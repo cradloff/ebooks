@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Eine Warte im leeren Weltraum.
 ==============================
 
@@ -18,7 +19,7 @@ der Raumfahrt ließe sich auf diese Weise doch nicht erzielen.
 Schon aus dem Grunde nicht, weil die hierzu nötigen
 Einrichtungen wegen ihres Umfanges nicht auf einmal in die Höhe
 mitgenommen, sondern nur nacheinander, bestandteilweise hinaufgebracht
-und erst oben zusammengesetzt werden könnten.
+\<@pagebreak 97/> und erst oben zusammengesetzt werden könnten.
 
 Letzteres setzt aber die Fähigkeit voraus, in der erreichten
 Höhe auch beliebig lang verweilen zu können; ähnlich etwa
@@ -54,7 +55,7 @@ je Sekunde betragen müßte, würde keine Schwierigkeiten bereiten,
 sobald wir in der Vollendung des Raumfahrzeuges einmal soweit
 sind, auch derart hoch aufsteigen zu können.
 
-Unter den unzählig vielen, überhaupt möglichen freien Umlaufbahnen
+\<@pagebreak /> Unter den unzählig vielen, überhaupt möglichen freien Umlaufbahnen
 um die Erde haben für unseren vorliegenden Zweck
 nur die wenigstens annähernd kreisförmig verlaufenden Bedeutung
 und hiervon wieder sind jene besonders interessant,
@@ -88,7 +89,7 @@ ausgebaut und zweckentsprechend eingerichtet werden. Es entstünde
 so ein Bauwerk, das fest zur Erde gehört, ja sogar
 dauernd in unveränderlicher Stellung zu ihr verharrt und sich
 doch weit über der Lufthülle bereits im leeren Weltraum befindet:
-eine Warte mit der „Seehöhe 35900000 Meter über
+\<@pagebreak /> eine Warte mit der „Seehöhe 35900000 Meter über
 dem Meeresspiegel”. Würde man diese „Weltraumwarte” z.B.
 im Meridian von Berlin errichtet haben, dann wäre sie von dort
 ständig an jener Himmelsstelle zu erblicken, an welcher sich die
@@ -110,11 +111,12 @@ ausgleichen, wenn man für einen bestimmten Ort nicht nur eine sondern mehrere
 Raumwarten errichtet; bei entsprechender Wahl der Bahnneigung wäre
 es dann möglich zu erreichen, daß stets eine der Raumwarten
 sich nahe dem Zenite des betreffenden Ortes befindet.
+
 Schließlich käme auch der besondere Fall in Frage, die Umlaufbahn
 so einzustellen, daß ihre Ebene entweder zur Ebene der Erdbahn,
 wie Oberth es vorschlägt, oder zu jener des Äquators senkrecht steht.
 
-Desgleichen könnte natürlich auch die Größe (der Durchmesser)
+\<@pagebreak /> Desgleichen könnte natürlich auch die Größe (der Durchmesser)
 der Umlaufbahn anders gewählt werden, als dies in vorliegendem
 Fall zwecks Erreichung des stationären Umlaufes geschehen ist;
 so z. B., wenn der Umlauf aus energiewirtschaftlichen

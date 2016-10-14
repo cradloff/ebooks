@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Der Einfluß der Schwerefreiheit auf den menschlichen Organismus.
 ================================================================
 
@@ -13,7 +14,7 @@ Funktionen erfolgen durch muskuläre oder osmotische
 Kräfte, benötigen also nicht die Mithilfe der Schwere.
 Tatsächlich erweisen sich auch alle lebenswichtigen Vorgänge von
 der Körperlage als vollkommen unabhängig und vollziehen sich
-ebensogut wie in aufrechter auch in liegender oder jeder anderen
+\<@pagebreak 105/> ebensogut wie in aufrechter auch in liegender oder jeder anderen
 Körperstellung.
 
 Nur bei sehr langem Verbleiben in gewichtslosem Zustand
@@ -50,7 +51,7 @@ gewisse Veränderungen der Muskel— und Gelenkempfindungen.
 Nun ist uns dieser Gefühlskomplex bisher aber nur aus dem
 Zustande des freien Fallens bekannt, da wir, wie schon erwähnt,
 unter irdischen Verhältnissen Schwerefreiheit nur im Fallen erleben
-können; unwillkürlich werden wir daher das mit dem Fallen
+\<@pagebreak /> können; unwillkürlich werden wir daher das mit dem Fallen
 an und für sich verbundene Angstgefühl, sowie alle sonstigen
 durch diese außergewöhnliche Situation erweckten Seelenzustände,
 bei Aufhören des Schweregefühls auch dann empfinden, wenn

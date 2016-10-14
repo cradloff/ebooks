@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 17/>
 Der Panzer der Erdlufthülle.
 ============================
 
@@ -32,7 +34,7 @@ Luftschichten bereits so hohe Werte, daß hierdurch die
 Arbeit, welche beim Aufstieg zur Überwindung des Schwerefeldes
 nach Früherem notwendig ist, noch um ein beträchtliches
 vermehrt wird und auch beim Bau des Fahrzeuges in weitgehendem
-Maße darauf Rücksicht genommen werden muß. Da
+\<@pagebreak /> Maße darauf Rücksicht genommen werden muß. Da
 jedoch zum Glück die Dichte der Luft mit zunehmender Höhe
 rasch abnimmt, wird auch ihr Widerstand sehr bald kleiner und
 kann dadurch in erträglichen Grenzen gehalten werden. Trotzdem

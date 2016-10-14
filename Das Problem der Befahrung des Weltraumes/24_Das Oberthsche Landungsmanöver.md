@@ -1,9 +1,10 @@
+<#include "pagebreak.ftl">
 Das Oberthsche Landungsmanöver.
 ===============================
 
 Anders aber, wenn Tragflächen überhaupt vermieden werden
 sollen, wie Oberth es vorschlägt, der sich in der zweiten Auflage
-seines Buches mit dem Landungsproblem nun ebenfalls näher befaßt.
+\<@pagebreak 82/> seines Buches mit dem Landungsproblem nun ebenfalls näher befaßt.
 Danach wird der erste Teil der Landung ähnlich wie früher
 geschildert mittels Bremsellipsen vorgenommen (Abb. 45), wozu
 Tragflächen ja nicht notwendig sind. Der weitere Landungsvorgang

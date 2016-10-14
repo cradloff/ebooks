@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 120/>
 Sonnenschein bei nächtlichem Dunkel.
 ====================================
 

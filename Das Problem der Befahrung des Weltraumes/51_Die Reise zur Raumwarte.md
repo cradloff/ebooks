@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Die Reise zur Raumwarte.
 ========================
 
@@ -35,7 +36,7 @@ der Antrieb jetzt in wagerechter Richtung arbeitet, um uns
 noch auf die notwendige Umlaufgeschwindigkeit zu bringen.
 
 Schon haben wir auch diese erreicht. Erst einige Minuten sind
-seit dem Start verflossen, aber endlos deucht uns, daß wir den
+\<@pagebreak 153/> seit dem Start verflossen, aber endlos deucht uns, daß wir den
 anstrengenden Zustand erhöhter Schwere bereits ertragen müssen.
 Allmählich verringert sich nun der auf uns lastende Druck. Erst
 fühlen wir wohltuende Erleichterung, dann aber — beklemmende
@@ -74,8 +75,8 @@ Wieder begeben wir uns in die Fahrzelle des Raumschiffes;
 die Tür wird geschlossen, Luft eingelassen. Vorerst ganz schwach
 beginnt der Antrieb zu arbeiten: ein leichtes Schweregefühl stellt
 sich ein. Abermals müssen wir uns in die Hängematten legen.
-Dann, nach und nach, schaltet der Führer weitere Düsen ein, sodaß
-sich das Schweregefühl zu immer größerer Stärke vermehrt.
+Dann, nach und nach, schaltet der Führer weitere Düsen ein, so
+\<@pagebreak /> daß sich das Schweregefühl zu immer größerer Stärke vermehrt.
 Noch viel drückender als früher empfinden wir es diesmal, nachdem
 wir nun durch längere Zeit der Schwere entwöhnt waren.
 Mit voller Kraft arbeitet jetzt der Antrieb, und zwar in wagrechter
@@ -114,6 +115,7 @@ Doch immer langsamer wird die Fahrt und näher kommen
 wir dem Erdboden, bis wir schließlich in der Nähe eines Hafens
 auf dem Meere niedergehen.
 
+\<@pagebreak />
 <div class="image"><img alt="Die gesamte Raumwarte mit ihren 3 Objekten" src="abb94.png"/>
 <p>Abb. 94. Die gesamte Raumwarte mit ihren 3 Objekten, gesehen durch die
 Türöffnung eines Raumschiffes. Im Hintergrunde — 35 900 km entfernt — die

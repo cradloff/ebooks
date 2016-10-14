@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Die freie Umlaufbahn.
 =====================
 
@@ -10,7 +11,7 @@ Erde in einem stabilen Zustand freien Schwebens.</p></div>
 
 Um einen sicheren, stabilen Zustand der Schwerelosigkeit zu erlangen, müßten wir
 uns der Schwerkraftwirkung auf die zweite Art, nämlich durch Zuhilfenahme von
-Trägheitskräften entziehen. Dies wird erreicht, wenn der anziehende Himmelskörper
+\<@pagebreak 14/> Trägheitskräften entziehen. Dies wird erreicht, wenn der anziehende Himmelskörper
 also z. B. die Erde, mit entsprechender Geschwindigkeit in einer
 freien Umlaufbahn umfahren wird (Gravitationsbewegung).
 Die dabei entstehende, stets nach außen gerichtete Fliehkraft, hält
@@ -45,7 +46,7 @@ praktisch genommen „ihrer Schwerkraftwirkung entzogen“.
 In je geringerer Entfernung vom anziehenden Himmelskörper
 dieser Umlauf erfolgt, desto stärker ist dortselbst auch die Wirkung
 der Anziehungskraft. Desto größer muß daher auch die
-entgegenwirkende Fliehkraft und demzufolge die Umlaufgeschwindigkeit
+\<@pagebreak /> entgegenwirkende Fliehkraft und demzufolge die Umlaufgeschwindigkeit
 sein (denn die Fliehkraft nimmt zu mit dem Quadrate
 der Umlaufgeschwindigkeit). Während
 <div class="image" float="right"><img alt="Verschiedene Umlaufgeschwindigkeiten je Entfernung zur Erde" src="abb07.png"/>

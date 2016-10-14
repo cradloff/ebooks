@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 129/>
 Die Lichtversorgung.
 ====================
 
@@ -26,6 +28,6 @@ Manche der Luken sind mit besonderen Spiegeln ausgestattet, durch welche Sonnens
 Bedarf auch eigens auf die betreffenden Luken hingelenkt werden
 können (Abb. 79).
 
-Außerdem ist noch für künstliche, nämlich elektrische Beleuchtung
+\<@pagebreak /> Außerdem ist noch für künstliche, nämlich elektrische Beleuchtung
 gesorgt, wozu der Strom dem Sonnenkraftwerk entnommen wird.
 

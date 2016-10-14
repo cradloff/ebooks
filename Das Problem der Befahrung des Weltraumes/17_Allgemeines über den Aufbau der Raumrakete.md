@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Allgemeines über den Aufbau der Raumrakete.
 ===========================================
 
@@ -18,25 +19,25 @@ welche es noch innerhalb der Erdlufthülle erreicht
 (Geschoßgeschwindigkeit nach Früherem!), ist die Geschoßform zur
 Überwindung des Luftwiderstandes am besten geeignet.
 
-Grundlegend für den inneren Aufbau eines Raketenfahrzeuges
+\<@pagebreak 45/> Grundlegend für den inneren Aufbau eines Raketenfahrzeuges
 ist die Art des verwendeten Betriebsstoffes. Von diesem
 ist zu fordern:
 
-\1. Daß sich mit ihm eine möglichst hohe Auspuffgeschwindigkeit
+1. Daß sich mit ihm eine möglichst hohe Auspuffgeschwindigkeit
 erzielen lasse, denn wir haben schon früher eine möglichst
 hohe Abstoßungsgeschwindigkeit der fortgeschleuderten
 Massen als notwendig erkannt.
 
-\2. Daß er möglichst große Dichte besitze (hohes spezifisches
+2. Daß er möglichst große Dichte besitze (hohes spezifisches
 Gewicht), damit zur Unterbringung der notwendigen Gewichtsmenge
 ein tunlichst kleiner Behälter genüge. Denn dann vermindert
 sich einerseits das Behältergewicht und werden anderseits
 auch die Verluste infolge des Luftwiderstandes geringer.
 
-\3. Daß seine Verbrennung in ungefährlicher und für die Erzeugung
+3. Daß seine Verbrennung in ungefährlicher und für die Erzeugung
 einer stetigen Vortriebskraft geeigneten Weise durchführbar sei.
 
-\4. Daß seine Handhabung möglichst geringe Schwierigkeiten
+4. Daß seine Handhabung möglichst geringe Schwierigkeiten
 verursache.
 
 Am naheliegendsten wäre es, ähnlich wie bei Feuerwerkraketen,
@@ -60,7 +61,7 @@ Die wichtigsten Teile eines Raumschiffes für flüssigen
 Betriebsstoff sind: Die Treibvorrichtung, die Behälter für die
 Betriebsstoffe, der Fahrraum und die Landungsmittel.
 
-Die Treibvorrichtung ist der Antriebsmotor des Raumschiffes.
+\<@pagebreak /> Die Treibvorrichtung ist der Antriebsmotor des Raumschiffes.
 In ihr soll der Rückstoß erzeugt und dadurch die mitgeführte,
 in den Betriebsstoffen aufgespeicherte Energie in Vortriebsarbeit
 umgewandelt werden. Hierzu aber ist vor allem
@@ -69,13 +70,13 @@ um ihn dort verbrennen und sodann nach rückwärts
 ausströmen (auspuffen) lassen zu können. Dafür bestehen nun
 zwei grundsätzliche Möglichkeiten, und zwar:
 
-\1. Im Verbrennungsraum herrscht ständig die gleiche Druckspannung.
+1. Im Verbrennungsraum herrscht ständig die gleiche Druckspannung.
 Man muß daher den Betriebsstoff, um ihn einzuführen,
 in den Verbrennungsraum unter Überwindung dieses Druckes
 einpressen. Wir wollen die so arbeitenden als 
 „Gleichdruck-Raketen-Motore” bezeichnen.
 
-\2. Die Verbrennung geschieht so, daß der Verbrennungsraum
+2. Die Verbrennung geschieht so, daß der Verbrennungsraum
 in rascher Aufeinanderfolge stets von neuem mit Betriebsstoff
 geladen, letzterer sodann immer wieder‚zur Explosion (Verpuffung)
 gebracht und jedesmal vollständig ausströmen gelassen
@@ -99,8 +100,7 @@ dieses Druckes strömen nun die Verbrennungsgase durch die Düse
 aus und erlangen dadurch jene Geschwindigkeit, die wir schon
 früher als „Auspuffgeschwindigkeit” bezeichnet haben. Die mit
 dieser Geschwindigkeitserteilung verbundene Beschleunigung der
-
-Gasmoleküle hat aber das Auftreten von Massenträgheits-Gegenkräften
+\<@pagebreak /> Gasmoleküle hat aber das Auftreten von Massenträgheits-Gegenkräften
 zur Folge (Gegendruck, ähnlich wie beim Fortstoßen
 eines Gegenstandes<a class="refnote" id="rn1" href="#fn1">1</a>!)‚ deren Summe nun jene Kraft des „Rückstoßes”
 ergibt (Abb. 24), welche das Fahrzeug vortreiben soll,
@@ -129,7 +129,7 @@ Betriebsstoffe auch in den zur Verbrennung geeigneten Zustand
 umgewandelt werden können. Endlich muß auch für hinreichende
 Kühlung von Ofen und Düse, für Regulierung usw. vorgesorgt sein.
 
-Die ganze Einrichtung hat manche Ähnlichkeit mit einer
+\<@pagebreak /> Die ganze Einrichtung hat manche Ähnlichkeit mit einer
 Gleichdruck-Gasturbine. Und ebenso wie dort besteht auch hier die
 nicht einfache Frage nach einem geeigneten, den hohen Temperaturen
 standhaltenden Material und nach entsprechender Kühlungsmöglichkeit
@@ -167,7 +167,7 @@ erst die zukünftige Entwicklung des Raketen-Motors zeigen. Es
 wird dies zum Teil vielleicht auch von dem jeweiligen besonderen
 Verwendungszweck desselben abhängen.
 
-Doch es würde nicht allein genügen, nur über einen auch im
+\<@pagebreak /> Doch es würde nicht allein genügen, nur über einen auch im
 völlig leeren Raum wirksamen Motor zu verfügen. Wir müssen
 noch die Möglichkeit haben, die notwendigen Energiemengen in
 Form von Betriebsstoffen in den Weltraum mitnehmen zu können
@@ -209,10 +209,11 @@ erwähnte<a class="refnote" id="rn3" href="#fn3">3</a> ideelle
 Steig-Höchstgeschwindigkeit von 12500 Meter je
 Sekunde zu erteilen, wie folgt:
 
-  M<span class="sub">0</span> = 520 M, für c = 2000 Meter je Sekunde,
-  M<span class="sub">0</span> =  64 M, für c = 3000 Meter je Sekunde,
-  M<span class="sub">0</span> =  23 M, für c = 4000 Meter je Sekunde,
-  M<span class="sub">0</span> =  12 M, für c = 5000 Meter je Sekunde.
+\<@pagebreak /> 
+	M<span class="sub">0</span> = 520 M, für c = 2000 Meter je Sekunde,
+	M<span class="sub">0</span> =  64 M, für c = 3000 Meter je Sekunde,
+	M<span class="sub">0</span> =  23 M, für c = 4000 Meter je Sekunde,
+	M<span class="sub">0</span> =  12 M, für c = 5000 Meter je Sekunde.
 
 Dies sagt also: Für den Fall, daß die Auspuffgeschwindigkeit c
 beispielsweise 3000 Meter je Sekunde beträgt, muß das Fahrzeug zu
@@ -246,7 +247,7 @@ bei denen auch schon kleinere Höchstgeschwindigkeiten
 genügen, das „Massenverhältnis” (Verhältnis der Anfangs- zur
 Endmasse der Rakete: M<span class="sub">0</span>/M) wesentlich günstiger.
 
-In letzteren Fällen würde es keine grundsätzlichen Schwierigkeiten
+\<@pagebreak /> In letzteren Fällen würde es keine grundsätzlichen Schwierigkeiten
 bereiten, den Anforderungen hinsichtlich des
 Betriebsstoff-Fassungsvermögens des Fahrzeuges bzw. der Behälter
 bautechnisch zu entsprechen. Beispielsweise müßte eine Raumrakete,
@@ -280,7 +281,7 @@ die Last der Teilrakete 1. Beim Aufstieg nun arbeitet zuerst die
 Teilrakete 1. Sobald dieselbe aufgebraucht ist, wird ihr Leerkörper
 abgekoppelt, und es beginnt die Teilrakete 2 zu wirken. Ist auch
 diese verbraucht, bleibt auch sie zurück, und es arbeitet nun bis
-zur Erreichung der gewünschten Endgeschwindigkeit die Teilrakete 3.
+\<@pagebreak /> zur Erreichung der gewünschten Endgeschwindigkeit die Teilrakete 3.
 Nur letztere kommt mit der Nutzlast bis an das Ziel.
 
 Da sich bei diesem Vorgang die Endgeschwindigkeiten der drei
@@ -314,7 +315,7 @@ in Tonnen wie folgt:
 <tr><td>1 + 2 + 3</td><td>640</td><td>640</td><td>640 + 640 = 1280</td><td>4 x 1280 = <b>5120</b></td></tr>
 </table>
 
-Das Anfangsgewicht der gesamten, aus 3 Stufen bestehenden
+\<@pagebreak /> Das Anfangsgewicht der gesamten, aus 3 Stufen bestehenden
 Raumrakete würde also 5120 Tonnen betragen, welche Zahl einer
 Technik, die u. a. beispielsweise Ozeandampfer von 50000 Tonnen
 zu schaffen imstande ist, wohl nicht sonderlich imponieren kann.
@@ -352,7 +353,7 @@ der Betriebsstoffbehälter einer Raumrakete bautechnisch gerecht
 zu werden. Es wird hierzu teilweise notwendig sein, vom
 bisher Üblichen grundsätzlich abweichende Konstruktionsmethoden
 anzuwenden; denn es müssen alle Teile des Fahrzeuges, insbesondere
-die Behälter, so leicht als nur irgend möglich ausgeführt
+\<@pagebreak /> die Behälter, so leicht als nur irgend möglich ausgeführt
 werden. Trotzdem aber müssen letztere genügend Festigkeit und
 Steifheit besitzen, um beim Aufstieg sowohl dem Massendruck als
 auch dem Luftdruck widerstehen zu können, wobei man noch zu

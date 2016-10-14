@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Das Rückstoßfahrzeug.
 =====================
 
@@ -29,7 +30,7 @@ durch andauerndes Abschießen eines Gewehres, vermöge des dabei erzeugten
 
 Bei der technischen Ausgestaltung eines derartigen Fahrzeuges
 wird man nun anstreben müssen, daß zur Erzeugung einer bestimmten
-Antriebsleistung einerseits nur möglichst wenig Massen
+\<@pagebreak 24/> Antriebsleistung einerseits nur möglichst wenig Massen
 abgestoßen werden müssen und anderseits, daß ihre Abstoßung
 in tunlichst einfacher und betriebssicherer Weise vor sich
 gehe. 

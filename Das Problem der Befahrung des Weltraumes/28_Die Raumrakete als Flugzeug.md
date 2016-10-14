@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 Die Raumrakete als Flugzeug.
 ============================
 
@@ -27,7 +28,7 @@ und zwar kosmischen Geschwindigkeiten zu schaffen:
 Ließe man nämlich ein mit Tragflächen ausgerüstetes, entsprechend
 gebautes Raumschiff nur bis auf eine Höhe von etwa 75 km
 aufsteigen und sorgte gleichzeitig, daß es sich dabei auch eine
-wagrechte Höchstgeschwindigkeit von 7850 Meter je Sekunde
+\<@pagebreak 89/> wagrechte Höchstgeschwindigkeit von 7850 Meter je Sekunde
 in der Richtung auf ein irdisches Reiseziel erteilt (Abb. 49),
 so könnte es den Weg bis dorthin ohne jeden weiteren Kraftaufwand
 zurücklegen: anfangs in annähernd kreisförmiger freier Umlaufbahn,
@@ -52,8 +53,8 @@ Bremsung vermieden wird.</p></div>
 Mag letzteres bei derart hohen Geschwindigkeiten noch einige
 Schwierigkeiten bieten, so würde es hingegen ohne weiteres gelingen,
 wenn man die wagrechte Höchstgeschwindigkeit kleiner
-Wählt, weil dann auch dementsprechend weniger künstliche Bremsung
-notwendig wäre. Bei einer bestimmten wagrechten Höchstgeschwindigkeit
+wählt, weil dann auch dementsprechend weniger künstliche Bremsung
+\<@pagebreak /> notwendig wäre. Bei einer bestimmten wagrechten Höchstgeschwindigkeit
 würde sogar schon die natürliche Bremsung
 durch den unvermeidlichen Fahrwiderstand der Luft hierfür
 allein genügen (Abb. 50).
@@ -89,9 +90,9 @@ verwendet und damit eine Auspuffgeschwindigkeit von
 2500 Meter je Sekunde erreicht wird: dann müßte nach den früher
 erläuterten Grundgesetzen der Raketenfahrtechnik<a class="refnote" id="rn2" href="#fn2">2</a>,
 zwecks Erreichung günstigsten Wirkungsgrades, auch die Fahrgeschwindigkeit
-während der Dauer des Antriebes (und demgemäß auch
+\<@pagebreak /> während der Dauer des Antriebes (und demgemäß auch
 die wagrechte Höchstgeschwindigkeit) ebenso groß sein, also
-zgoo Meter je Sekunde betragen. Die hierfür voraussichtlich am
+2500 Meter je Sekunde betragen. Die hierfür voraussichtlich am
 besten entsprechende Flughöhe würde sich im Sinne der Überlegungen
 des Hohmannschen Landungsvorganges mit rund 60 km
 ergeben. Bei dieser Geschwindigkeit, besonders wenn die Fahrt
@@ -117,7 +118,7 @@ wirklich möglich sein, wenn einmal die grundlegende Frage des
 Raketen-Motors in befriedigender Weise praktisch gelöst ist.
 
 Hingegen ist die Fahrweise, welche hierbei zur Anwendung
-kommen müßte, der Hauptsache nach bereits heute zu erkennen.
+\<@pagebreak /> kommen müßte, der Hauptsache nach bereits heute zu erkennen.
 Zu dem, was darüber ohnehin schon erwähnt wurde, sei noch gesagt:
 
 Da beim Aufstieg die Emporhebung des Fahrzeuges auf so
@@ -155,7 +156,7 @@ Autoren befürworten. Denn in diesem Fall ist beim Niedergehen
 des Fahrzeuges nebst der wagrechten auch eine lotrechte
 Fahrgeschwindigkeits-Komponente abzubremsen, die jedoch, wegen zu
 geringer Länge eines in der Erdlufthülle bestenfalls möglichen lotrechten
-Bremsweges, nicht mittels Luftwiderstandes sondern nur
+\<@pagebreak /> Bremsweges, nicht mittels Luftwiderstandes sondern nur
 durch Rückstoßbremsung vernichtet werden kann. Letztere
 ist aber mit Rücksicht auf den damit verbundenen großen
 Betriebsstoffverbrauch, wo immer möglich, zu vermeiden.
@@ -187,7 +188,7 @@ noch gelingen muß, wenn damit sobald als möglich, d. h. also
 gleich nach Erlangung der wagrechten Höchstgeschwindigkeit,
 begonnen wird (Abb. 52).
 
-Die „günstigste wagrechte Höchstgeschwindigkeit”
+\<@pagebreak /> Die „günstigste wagrechte Höchstgeschwindigkeit”
 für eine bestimmte Reisestrecke dürfte jene sein, welche für die
 Zurücklegung der ganzen Fahrt bis an das Ziel im Gleitflug,
 ohne wesentliche künstliche Bremsung gerade ausreicht
@@ -225,7 +226,7 @@ und kosmischen Geschwindigkeiten erforscht sind.
 Aber auch kleinere wagrechte Höchstgeschwindigkeiten, bei
 denen ein Teil der Fahrt mit Antrieb zurückgelegt werden
 müßte (früher für Benzolantrieb untersucht), könnten mitunter
-in Betracht kommen. Wesentlich größere hingegen kaum; denn
+\<@pagebreak /> in Betracht kommen. Wesentlich größere hingegen kaum; denn
 dieselben würden den Betrieb sehr unwirtschaftlich gestalten,
 wegen der Notwendigkeit, einen bedeutenden Teil der aufgewendeten
 Energie durch Fallschirmbremsung künstlich vernichten zu
@@ -263,7 +264,7 @@ Antrieb noch künstliche Bremsung notwendig ist, sind auch die
 „inneren”, d.h. in der Funktion des Fahrzeuges selbst gelegenen
 Gefahren auf ein Minimum reduziert. Solche können sich dann,
 ebenso wie äußere Gefahren, überhaupt nur während des Aufstieg-
-und des Landungsvorganges ergeben. Sobald man die
+\<@pagebreak /> und des Landungsvorganges ergeben. Sobald man die
 letzteren einmal wenigstens mit jener Sicherheit beherrscht, welche
 bei den anderen Verkehrsmittel üblich ist, dann werden durch
 Rückstoß angetriebene Eilflugzeuge nicht nur die für unsere Erde
