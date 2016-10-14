@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 9/>
 Die Macht der Schwere.
 ======================
 
@@ -31,7 +33,7 @@ oder kleinere Masse besitzen. Denn die Massenanziehungskraft
 ist, zwischen welchen sie wirkt. Hingegen aber nimmt ihre
 Stärke ab mit zunehmender Entfernung (und zwar mit dem Quadrate
 der letzteren), doch ohne daß ihr Wirkungsbereich eine
-ausgesprochene Grenze hätte (Abb. 1). Sie wird also theoretisch
+\<@pagebreak /> ausgesprochene Grenze hätte (Abb. 1). Sie wird also theoretisch
 erst in unendlicher Entfernung zu Null. Ebenso wie die Erde
 übt natürlich auch die Sonne, der Mond und überhaupt jeder
 Himmelskörper eine seiner Größe entsprechende Schwerkraft aus.
@@ -60,7 +62,7 @@ oder in besonderem Falle auch als Fliehkraft. Letzteres
 dann, wenn sie dadurch entstehen, daß eine Masse gezwungen wird,
 sich in gekrümmter Bahn zu bewegen. Die Fliehkraft ist bekanntlich
 stets von der Bewegungskurve senkrecht nach auswärts gerichtet
-(Abb. 3). Alle diese Kräfte: die Schwerkraft, der Trägheitswiderstand
+\<@pagebreak /> (Abb. 3). Alle diese Kräfte: die Schwerkraft, der Trägheitswiderstand
 und die Fliehkraft sind Massenkräfte.
 
 Wie früher erwähnt, erstreckt sich die Wirkung der Erdschwerkraft,
@@ -71,7 +73,8 @@ verlassen, nie die wirkliche Schweregrenze der Erde erreichen.
 Wohl aber läßt sich errechnen, welche Arbeitsleistung theoretisch
 notwendig wäre, um das ganze Schwerefeld der Erde zu überwinden.
 Es müßte hierzu eine Energie von nicht weniger als
-6 380 Metertonnen für jedes Kilogramm der Last aufgewendet
+6 380 Metertonnen<a class="refnote" id="rn1" href="#fn1">1</a>
+für jedes Kilogramm der Last aufgewendet
 werden. Weiterhin läßt sich ermitteln, mit welcher Geschwindigkeit
 ein Körper von der Erde fortgeschleudert werden müßte, damit
 er nicht mehr zu ihr zurückkehre. Sie beträgt 11 180 Meter je
@@ -95,3 +98,9 @@ Als solche kommen, gemäß unseren früheren Betrachtungen
 die Massenanziehungskräfte benachbarter Gestirne oder in dem
 betreffenden Körper selbst erweckte Massenträgheitskräfte.
 
+<div class="footnote" id="fn1"><a href="#rn1">1</a> Anmerkung des Bearbeiters:
+<p>Die Metertonne (Abkürzung mt) ist eine nicht SI-konforme Einheit, die je nach Kontext unterschiedliche physikalische Größen bezeichnen kann.</p>
+
+<p>Als Einheit der Energie bezeichnet sie die Energiemenge, die notwendig ist, um einen Körper mit einer Masse von einer Tonne einen Meter hoch zu heben. Sie ist ebenso veraltet wie etwa das Kilopondmeter und durch das Joule ersetzt worden. 1 mt entspricht 9,81 kJ.</p>
+Quelle: Wikipedia
+</div>
