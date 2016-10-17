@@ -4,12 +4,12 @@ Das Manövrieren in den Schwerefeldern des Weltraums.
 
 Es bestehen also zwei grundsätzliche Möglichkeiten, um sich
 der Schwerewirkung der Erde oder eines anderen Gestirnes zu
-entziehen: Erreichung der praktischen Schweregrenze oder
-Übergang in eine freie Umlaufbahn. Wovon man fallweise
+entziehen: Erreichung der *praktischen Schweregrenze* oder
+Übergang in eine *freie Umlaufbahn*. Wovon man fallweise
 Gebrauch machen wird, hängt von dem jeweils beabsichtigten
 Zwecke ab.
 
-So würde es z. B. bei einer Fernfahrt durch den Weltraum,
+So würde es z. B. bei einer *Fernfahrt* durch den Weltraum,
 im allgemeinen darauf ankommen, derart zu manövrieren, daß
 jene Himmelskörper, in deren Anziehungsbereich (Schwerefeld)
 die Reise gerade vor sich geht, in einer freien Umlaufbahn
@@ -22,12 +22,12 @@ in das eines benachbarten im allgemeinen mit Antrieb durch
 künstliche Kraft bewirkt werden müßte.
 
 Wollte man sich längere Zeit in irgendeiner gewünschten Höhe
-über einem Himmelskörper (z. B. der Erde) aufhalten,
+*über einem Himmelskörper* (z. B. der Erde) *aufhalten*,
 dann wird man ihn in einer freien, womöglich kreisförmigen
 Umlaufbahn mit entsprechender Geschwindigkeit ständig umfahren
 und somit also in stabilem Schwebezustand über ihm verharren.
 
-Beim Aufstieg von der Erde oder von einem anderen Gestirn
+Beim *Aufstieg* von der Erde oder von einem anderen Gestirn
 endlich wird man trachten müssen, entweder die praktische
 Schweregrenze und damit die „gänzliche Loslösung“ (bei Verzicht
 auf stabilen Schwebezustand) oder den Übergang in eine freie
@@ -48,7 +48,7 @@ der aufsteigenden Körper auch der Schwerewirkung entzogen
 werden soll — für die Erde den gewaltigen Wert von rund
 3200 bis 6400 Metertonnen je Kilogramm der zu hebenden Last
 erreicht, oder — was das gleiche ist — die Erteilung der riesigen,
-bereits kosmischen Geschwindigkeit von ungefähr 8000 bis 11 200 Meter
+bereits kosmischen Geschwindigkeit von ungefähr 8000 bis 11200 Meter
 je Sekunde, d. i. die annähernd 12fache Geschwindigkeit eines
 Artilleriegeschosses, erfordert!
 

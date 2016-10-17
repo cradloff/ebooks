@@ -66,10 +66,12 @@ a.footnote {
 
 .super {
 	vertical-align: super;
+	font-size: small;
 }
 
 .sub {
 	vertical-align: sub;
+	font-size: small;
 }
 
 /* Bilder mit Bildunterschriften */
@@ -78,4 +80,139 @@ a.footnote {
 	font-size: x-small;
 }
 
+/* TODO Bild am linken Rand */
+.image.left {
+}
+
+/* TODO Bild am rechten Rand */
+.image.right {
+}
+
+/* einfache Hervorhebung durch g e s p e r r t e n Text */
+em {
+	font-style: normal;
+	letter-spacing: 0.15em;
+}
+
+/* starke Hervorhebung (analog entsprechendem Tag) */
+.strong {
+	font-weight: bold;
+}
+
+/* Tabellen */
+table {
+	border-collapse: collapse;
+}
+/* Überschrift */
+caption {
+	font-size: 1.25em;
+	letter-spacing: 0.25em;
+}
+
+/* Tabelle 1 */
+#tabelle1 {
+	border-top: medium solid;
+	text-align: right;
+}
+#tabelle1 tr:nth-child(2) td:nth-child(2) {
+	border-bottom: thin solid;
+}
+#tabelle1 tr:nth-child(3) td {
+	border-bottom: medium double;
+}
+#tabelle1 td:nth-child(1) {
+	border-right: medium solid;
+}
+#tabelle1 tr:nth-child(n+3) td:nth-child(2) {
+	border-right: thin solid;
+}
+
+/* Tabelle 2 */
+#tabelle2 {
+	border-top: medium solid;
+	text-align: right;
+}
+td.ms {
+	border-right: medium solid;
+}
+#tabelle2 tr:nth-child(2) td {
+	border-bottom: thin solid;
+}
+#tabelle2 tr:nth-child(3) td {
+	border-bottom: thin solid;
+}
+/* vertikale Rahmen */
+#tabelle2 tr:nth-child(n+5) td:nth-child(1) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(2) {
+	border-right: medium solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(3) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(4) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(5) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(6) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(7) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(8) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(9) {
+	border-right: thin solid;
+}
+#tabelle2 tr:nth-child(n+5) td:nth-child(10) {
+	border-right: thin solid;
+}
+
+/* Tabelle 3 */
+#tabelle3 {
+	border-top: medium solid;
+	text-align: right;
+}
+/* vertikale Rahmen */
+#tabelle3 td:nth-child(1) {
+	border-right: thin solid;
+}
+#tabelle3 td:nth-child(2) {
+	border-right: thin solid;
+}
+
+/* Tabelle 4 */
+#tabelle4 {
+	border-top: medium solid;
+}
+/* vertikale Rahmen */
+#tabelle4 tr:nth-child(n+4) td:nth-child(1) {
+	border-right: medium solid;
+}
+#tabelle4 tr:nth-child(n+4)  td:nth-child(2) {
+	border-right: thin solid;
+}
+
+/* Tabelle 5 */
+#tabelle5 {
+	border-top: medium solid;
+}
+/* vertikale Rahmen */
+#tabelle5 td:nth-child(1) {
+	border-right: thin solid;
+}
+#tabelle5 td:nth-child(2) {
+	border-right: thin solid;
+}
+#tabelle5 td:nth-child(3) {
+	border-right: thin solid;
+}
+#tabelle5 td:nth-child(4) {
+	border-right: thin solid;
+}
 

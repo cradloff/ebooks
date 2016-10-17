@@ -2,18 +2,18 @@
 Die freie Umlaufbahn.
 =====================
 
-<div class="image" float="right"><img alt="Kreisförmiger freier Umlauf
+<div class="image right"><img alt="Kreisförmiger freier Umlauf
 eines Körpers um die Erde" src="abb05.png"/>
-<p>Abb. 5. Kreisförmiger freier Umlauf
+<p>Abb. 5. <em>Kreisförmiger freier Umlauf</em>
 eines Körpers um die Erde. Das Gewicht desselben wird durch die dabei
-erzeugte Fliehkraft aufgehoben. Er befindet sich daher gegenüber der
-Erde in einem stabilen Zustand freien Schwebens.</p></div>
+erzeugte Fliehkraft <em>aufgehoben</em>. Er befindet sich daher gegenüber der
+Erde in einem <em>stabilen Zustand freien Schwebens</em>.</p></div>
 
-Um einen sicheren, stabilen Zustand der Schwerelosigkeit zu erlangen, müßten wir
+Um einen sicheren, *stabilen* Zustand der Schwerelosigkeit zu erlangen, müßten wir
 uns der Schwerkraftwirkung auf die zweite Art, nämlich durch Zuhilfenahme von
-\<@pagebreak 14/> Trägheitskräften entziehen. Dies wird erreicht, wenn der anziehende Himmelskörper
+*Trägheitskräften* entziehen. \<@pagebreak 14/> Dies wird erreicht, wenn der anziehende Himmelskörper
 also z. B. die Erde, mit entsprechender Geschwindigkeit in einer
-freien Umlaufbahn umfahren wird (Gravitationsbewegung).
+*freien Umlaufbahn umfahren* wird (Gravitationsbewegung).
 Die dabei entstehende, stets nach außen gerichtete Fliehkraft, hält
 dann der Anziehungskraft das Gleichgewicht, und zwar nur sie
 allein, wenn die Bewegung kreisförmig ist (Abb. 5), oder gleichzeitig
@@ -21,10 +21,10 @@ mit noch weiteren hierbei auftretenden Trägheitskräften, wenn
 die Umlaufbahn eine andere Form besitzt (Ellipse, Hyperbel, Parabel,
 Abb. 6).
 
-<div class="image" float="left"><img alt="Verschiedene freie 
+<div class="image left"><img alt="Verschiedene freie 
 Umlaufbahnen um einen Himmelskörper" src="abb06.png"/>
-<p>Abb. 6. Verschiedene freie 
-Umlaufbahnen um einen Himmelskörper. Nach den Gesetzen der Gravitationsbewegung 
+<p>Abb. 6. Verschiedene <em>freie 
+Umlaufbahnen</em> um einen Himmelskörper. Nach den Gesetzen der Gravitationsbewegung 
 muß stets ein Brennpunkt der Bahn (beim Kreis der Mittelpunkt)
 mit dem Massenmittelpunkt (Schwerpunkt) des umlaufenen Himmelskörpers
 zusammenfallen.</p></div>
@@ -49,7 +49,7 @@ der Anziehungskraft. Desto größer muß daher auch die
 \<@pagebreak /> entgegenwirkende Fliehkraft und demzufolge die Umlaufgeschwindigkeit
 sein (denn die Fliehkraft nimmt zu mit dem Quadrate
 der Umlaufgeschwindigkeit). Während
-<div class="image" float="right"><img alt="Verschiedene Umlaufgeschwindigkeiten je Entfernung zur Erde" src="abb07.png"/>
+<div class="image right"><img alt="Verschiedene Umlaufgeschwindigkeiten je Entfernung zur Erde" src="abb07.png"/>
 <p>Abb. 7. Die Umlaufgeschwindigkeit
 ist um so größer, je näher zum Anziehungszentrum die freie Umlaufbewegung erfolgt.</p></div>
 beispielsweise in der Entfernung des Mondes von der Erde eine Umlaufgeschwindigkeit

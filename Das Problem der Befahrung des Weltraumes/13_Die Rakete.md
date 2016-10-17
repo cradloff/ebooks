@@ -13,12 +13,12 @@ umsetzende Energie liefert die hierzu notwendige „innere Kraft”.
 
 \<@pagebreak 25/>
 <div class="image" float="right"><img alt="Längsschnitt durch eine Feuerwerksrakete" src="abb15.png"/>
-<p>Abb. 15. Feuerwerkrakete im Längsschnitt. Der daran
+<p>Abb. 15. <em>Feuerwerkrakete</em> im Längsschnitt. Der daran
 befestigte Stab dient dazu, das Sichüberschlagen der Rakete zu
 verhindern.</p></div>
 
 Ein Fahrzeug solcher Art in einfachster Ausführung stellt die bekannte
-Feuerwerkrakete dar (Abb. 15). Ihr Zweck ist der, einen sogenannten
+*Feuerwerkrakete* dar (Abb. 15). Ihr Zweck ist der, einen sogenannten
 „Kunstsatz” emporzutragen: das sind allerlei Feuerwerkkörper, welche
 nach erreichter Steighöhe dann zur Entzündung
 gelangen, um entweder in prächtigem Feuerspiel das Auge zu erfreuen, oder
