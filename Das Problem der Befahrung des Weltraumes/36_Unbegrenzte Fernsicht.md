@@ -28,7 +28,7 @@ Alle diese nachteiligen Umstände fallen im leeren Ätherraum
 des Weltalls fort: nichts schwächt nun die Leuchtkraft der Gestirne,
 die Fixsterne flimmern nicht mehr, kein Himmelsblau stört
 die Beobachtung. Jederzeit bieten sich hierfür gleich günstige, nahezu
-unbegrenzte Möglichkeiten; denn da jetzt kein optisches Hindernis
+unbegrenzte Möglichkeiten; denn da jetzt *kein optisches Hindernis*
 vorhanden ist, könnten nun Teleskope von jeder beliebigen
 auch noch so gewaltigen Größe Verwendung finden.
 

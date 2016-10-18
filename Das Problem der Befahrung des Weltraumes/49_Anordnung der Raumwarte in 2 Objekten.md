@@ -13,7 +13,7 @@ Will man dabei vermeiden, daß der Spiegel des Maschinenhauses
 die für seine Größe verhältnismäßig rasche Drehung des
 Wohnrades voll mitmacht, dann könnte man beispielsweise das
 Wohnrad und das Maschinenhaus (samt seinem Spiegel) beide
-um eine gemeinsame Drehachse — aber in verkehrtem Sinne
+um eine gemeinsame Drehachse — aber in *verkehrtem* Sinne
 \<@pagebreak 149/> — rotieren lassen. Oder man könnte das Wohnrad und das
 Maschinenhaus völlig zu einem Gebäude verschmelzen und um
 dessen Drehachse den großen Spiegel des Maschinenbauses allein
@@ -28,13 +28,13 @@ zum Ausgleich der gegenseitigen Massenanziehung der Objekte
 fallen zwischen Wohnrad und Maschinenbaus fort.
 
 3. Die Drehbewegung des Wohnrades kann jetzt durch Motorkraft
-statt wie sonst mittels Rückstoßantriebes — also ohne Betriebsstoffaufwand
+statt wie sonst mittels Rückstoßantriebes — also *ohne Betriebsstoffaufwand*
 — erzeugt, geändert und stillgesetzt werden;
 denn es steht für diesen Zweck nun das ganze Maschinenhaus
 bzw. der große Spiegel desselben als „Gegenmasse” zur
-Verfügung (daher die verkehrte Rotationsrichtung desselben).
+Verfügung (daher die *verkehrte* Rotationsrichtung desselben).
 
-Diesen Vorteilen steht aber der Nachteil gegenüber, daß
+Diesen Vorteilen steht aber der *Nachteil* gegenüber, daß
 sich dabei nicht unwesentliche, wenn auch lösbare, konstruktive
 Schwierigkeiten ergeben. Wir wollen es hier unterlassen, auf
 diese Anordnungsweise der Raumwarte noch weiter einzugehen,

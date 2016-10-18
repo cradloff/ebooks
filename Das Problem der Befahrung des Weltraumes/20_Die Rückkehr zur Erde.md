@@ -28,7 +28,7 @@ fällt ein Körper stets mit der Geschwindigkeit von etwa
 11000 Meter je Sekunde auf die Erde ein, sobald er aus dem Weltraum
 durch ihre Schwerkraft an sie herangezogen wird; er besitzt
 hierbei also eine lebendige Kraft von rund 6000 Metertonnen
-je Kilogramm seines Gewichtes. Diese ungeheure Energiemenge'
+je Kilogramm seines Gewichtes. Diese ungeheure Energiemenge
 muß nun dem Fahrzeug während der Abbremsung in der
 Gänze entzogen werden.
 
@@ -90,7 +90,7 @@ umwandelt. Wenn nun der Bremsweg nicht genügend lang und
 daher die Bremszeit zu kurz ist, dann kann während derselben
 die entstehende Bremswärme nicht in genügendem Maße durch
 Leitung und Strahlung an die Umgebung übergehen, und es muß
-daher die Temperatur der Bremsmittel- (Fallschirm usw.) fortgesetzt steigen.
+daher die Temperatur der Bremsmittel (Fallschirm usw.) fortgesetzt steigen.
 
 <div class="image"><img alt="Veranschaulichung der Landung mit Luftwiderstandsbremsung" src="abb38.png"/>
 <p>Abb. 38. <em>Landung mit Luftwiderstandsbremsung</em> bei lotrechtem Einfall des Fahrzeuges.</p></div>

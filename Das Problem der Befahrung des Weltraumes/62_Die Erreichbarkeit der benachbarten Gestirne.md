@@ -15,13 +15,13 @@ derselben würden, einschließlich eines dortigen Aufenthaltes von
 notwendig sein.
 
 Setzen wir nun voraus: die Reise werde im Sinne unserer
-früheren Betrachtungen von der Raumwarte aus angetreten,
+früheren Betrachtungen von der Raumwarte aus *angetreten*,
 so daß für die gänzliche Loslösung vom Schwerefeld der Erde
 nur mehr geringe Arbeitsleistung notwendig wäre, und es erfolge
-die Rückkehr unmittelbar zur Erdoberfläche, so daß hierfür
+die *Rückkehr* unmittelbar zur Erdoberfläche, so daß hierfür
 überhaupt gar keinerlei Energie aufgewendet werden müßte,
 weil in diesem Falle die Möglichkeit bestünde, nur mittels
-Luftwiderstandsbremsung niederzugehen. Die zu befördernde Last
+Luftwiderstandsbremsung niederzugehen. Die zu befördernde *Last*
 sei: 2 Menschen samt den für die ganze Reise notwendigen Vorräten
 und allen für die Beobachtung und die sonstigen Zwecke
 erforderlichen Geräten.
@@ -32,8 +32,8 @@ für die Hin- und Rückreise erforderlichen Betriebsstoff, ungefähr
 wiegen müßte: zur Ausführung der vorerwähnten Rundreise mit
 Vorbeifahrt bei Venus und Mars 144 t, wovon 88% auf die
 Betriebsstoffe entfallen würden; für eine erstmalige Landung auf
-dem Mond 12 t, auf der Venus 1350 t und auf dem Mars
-624 t, wobei in ersterem Falle 79% in den beiden letzteren
+dem Mond 12 t, auf der *Venus* 1350 t und auf dem *Mars*
+624 t, wobei in ersterem Falle 79%, in den beiden letzteren
 aber ungefähr 99% dieses gesamten Fahrzeuggewichtes nur aus
 den mitgeführten Betriebsstoffen bestehen müßte. Hierbei wurde die
 Auspuffgeschwindigkeit mit 4000 Meter je Sekunde angenommen.
@@ -58,11 +58,11 @@ Damit sind aber wohl alle Möglichkeiten erschöpft, die sich
 bei dem gegenwärtigen Stande der Wissenschaft im besten Falle
 für die Raumschiffahrt zu bieten scheinen. Denn noch viel
 größer wären die Schwierigkeiten, die sich einem Besuche der
-entfernteren Gestirne des Sonnenreichs entgegenstellen. Nicht
+*entfernteren* Gestirne des Sonnenreichs entgegenstellen. Nicht
 nur, daß die bis dahin zurückzulegenden Wege um ein Vielfaches
 länger sind als die bisher betrachteten. Da alle diese Himmelskörper
 von der Sonne sehr viel anders abstehen als die Erde,
-spielt bei ihrer Erreichbarkeit auch das Schwerefeld der Sonne
+spielt bei ihrer Erreichbarkeit auch das *Schwerefeld der Sonne*
 \<@pagebreak /> bereits eine bedeutende Rolle; denn dieses muß ja, wenn man
 sich beispielsweise von der Sonne entfernt (d. h. von ihr „aufsteigt”),
 in ganz gleicher Weise, wie es in solchem Fall auch für
@@ -72,7 +72,7 @@ bei Fernfahrten durch den Planetenraum erforderlichen Änderung der
 Umlaufgeschwindigkeit um die Sonne zum Ausdruck kommt.
 
 Wollte man aber auf einem dieser Himmelskörper gar auch
-niedergehen, dann würden sich dafür ganz ungeheuer große Betriebsstoffmengen
+*niedergehen*, dann würden sich dafür ganz ungeheuer große Betriebsstoffmengen
 als notwendig ergeben, insbesondere bei Jupiter
 und Saturn, da dieselben infolge ihrer gewaltigen Massen sehr
 starke Schwerefelder besitzen.

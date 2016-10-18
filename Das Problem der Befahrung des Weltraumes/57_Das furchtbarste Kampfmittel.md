@@ -8,7 +8,7 @@ dazu — sie gäbe ein Kampfmittel ab, das alles bisher Dagewesene
 an Furchtbarkeit weit überträfe.
 
 Es ist bekannt, daß durch die Konzentration von Sonnenstrahlen
-mittels eines Sammelspiegels (in ähnlicher Weise wie
+mittels eines *Sammelspiegels* (in ähnlicher Weise wie
 mit Hilfe eines sogenannten „Brennglases”) recht bedeutende Temperaturen
 erzeugt werden können. Auch wenn derselbe nur die
 Größe einer Hand besitzt, ist es möglich, in seinen Brennpunkt

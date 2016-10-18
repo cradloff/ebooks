@@ -5,8 +5,8 @@ Die Raumwarte als Basis für den Weltraum-Fernverkehr.
 Wesentlich günstiger lägen die Verhältnisse jedoch, wenn man,
 wie Oberth es vorschlägt, ein entsprechend hoch über der Erde
 schwebendes, dieselbe in einer freien Umlaufbahn ständig umkreisendes
-Betriebsstoffdepot errichten und die Reise von
-dort statt von der Erdoberfläche aus antreten würde; denn dann
+*Betriebsstoffdepot* errichten und die Reise von
+*dort* statt von der Erdoberfläche aus antreten würde; denn dann
 wäre zur gänzlichen Loslösung von der Erde nur mehr geringer
 Arbeitsaufwand notwendig und das Fahrzeug brauchte daher
 nicht mit dem für den Aufstieg von der Erde erforderlichen
@@ -16,11 +16,11 @@ mehr als das für die Fernfahrt selbst Notwendige mitnehmen.
 Da sich das Depot infolge seiner freien Umlaufbewegung in
 gewichtslosem Zustand befände, könnten die Betriebsstoffe dortselbst
 in jeder Menge einfach an irgendeiner Stelle des Raums
-freischwebend gelagert werden. Gegen die Sonnenstrahlen
+*freischwebend* gelagert werden. Gegen die Sonnenstrahlen
 geschützt, würde sich so auch Sauerstoff und Wasserstoff beliebig
-lange Zeit in festem Zustande halten.
+lange Zeit in *festem* Zustande halten.
 
-Ihre Zufuhr müßte durch einen ständigen Raumschiffpendelverkehr
+Ihre *Zufuhr* müßte durch einen ständigen Raumschiffpendelverkehr
 bewerkstelligt werden, und zwar:
 
 entweder von der Erde aus, woselbst man die Betriebsstoffe
@@ -28,14 +28,14 @@ entweder von der Erde aus, woselbst man die Betriebsstoffe
 bestehen) beispielsweise in großen, durch die Wärme der tropischen
 Meere betriebenen Kraftwerken erzeugen könnte;
 
-oder vom Monde her, wie Max Valier vorschlägt. Letzteres
+oder vom *Monde* her, wie Max Valier vorschlägt. Letzteres
 wäre besonders vorteilhaft; denn da die Masse und infolgedessen
 \<@pagebreak 171/> auch die Anziehungskraft des Mondes viel kleiner ist als jene
 der Erde, würde der für den Aufstieg und damit für die Betriebsstoffzufuhr
 von demselben aus notwendige Arbeitsaufwand
 bedeutend geringer sein. Allerdings setzt dies voraus, daß
 die hierzu erforderlichen Rohstoffe sich auf dem Mond auch wirklich
-vorfänden, dort also zumindest Wasser (etwa in eisförmigem
+*vorfänden*, dort also zumindest Wasser (etwa in eisförmigem
 Zustand) vorhanden wäre; denn letzteres ließe sich dann
 auf elektrolytischem Weg in Sauerstoff und Wasserstoff zerlegen,
 wozu Sonnenkraftwerke die Energie liefern könnten. Leider ist
@@ -47,7 +47,7 @@ den Weltenraum-Fernverkehr benutzen, also auf ihm selbst das
 Betriebsstoffdepot errichten.
 
 Trotz mancher damit verbundener Vorteile erscheint aber der
-Oberthsche Vorschlag eines freischwebenden Depots doch
+Oberthsche Vorschlag eines *freischwebenden* Depots doch
 günstiger, weil von einem solchen aus die gänzliche Loslösung
 vom Anziehungsfeld des Erdenreichs (einschließlich des Mondes)
 erheblich geringeren Arbeitsaufwand erforderte; und zwar wäre
@@ -58,10 +58,10 @@ Betriebsstoffe von der Erde aus zugeführt werden müssen.
 
 Wir wollen es jedoch zu unserer Raumwarte verlegen und
 diese dadurch zum Verkehrsstützpunkt machen, weil sie mit allen
-jenen Einrichtungen, welche hierfür noch erforderlich sind,
+jenen *Einrichtungen*, welche hierfür noch erforderlich sind,
 ohnehin schon ausgestattet ist.
 
-Davon besonders wertvoll wären unter anderem die Riesenteleskope;
+Davon besonders wertvoll wären unter anderem die *Riesenteleskope*;
 denn sie würden es, dank ihrer nahezu unbeschränkten
 Wirkungsfähigkeit, nicht nur ermöglichen, die zu bereisenden
 Gebiete der Sternenwelt erst aus der Ferne gründlich zu erforschen,
@@ -74,8 +74,8 @@ mit ihm in wenigstens einseitiger Verbindung bleiben.
 
 So würde also die Raumwarte außer den vielen schon besprochenen
 Aufgaben noch jene erfüllen können, die eigentliche Bereisung
-des Alls nicht nur vorbereiten zu helfen, sondern
-schließlich auch als Basis für den ganzen Weltraum—Fernverkehr zu dienen.
+des Alls nicht nur *vorbereiten* zu helfen, sondern
+schließlich auch als Basis für den ganzen Weltraum-Fernverkehr zu dienen.
 
 <div class="footnote" id="fn1"><a href="#rn1">1</a>Siehe Seite 159.</div>
 

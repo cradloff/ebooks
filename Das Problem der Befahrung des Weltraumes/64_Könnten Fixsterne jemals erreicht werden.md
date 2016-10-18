@@ -3,11 +3,11 @@ Könnten Fixsterne jemals erreicht werden?
 =========================================
 
 Viel günstiger wäre es in dieser Hinsicht jedoch, wenn auch
-die außerhalb unseres Sonnensystems liegende Sternenwelt hierfür
+die *außerhalb* unseres Sonnensystems liegende Sternenwelt hierfür
 in Betracht gezogen werden könnte; denn ungeheuer ist die
 Zahl nur jener Himmelskörper, welche, weil sie sich in glühendem
 Zustande befinden, uns sichtbar und daher als Fixsterne
-bekannt sind. Viele von diesen sind unserer Sonne ähnlich
+*bekannt* sind. Viele von diesen sind unserer Sonne ähnlich
 und, als gewaltige Massenanziehungszentren, vermutlich ebenso
 wie diese von einer Menge kleiner und großer Weltkörper
 verschiedenster Art umlaufen.
@@ -26,11 +26,11 @@ an anderen Stellen des Alls Ähnliches, ja vielfach nahezu Gleiches,
 hervorgegangen sein wie bei uns?
 
 Es ist also gewiß nicht unberechtigt zu vermuten, daß es im
-Weltall auch noch andere dem unseren mehr oder weniger ähnliche
+Weltall auch noch *andere* dem unseren mehr oder weniger ähnliche
 Sonnensysteme gäbe, und unter deren zahlreichen Planeten
 sich wohl auch solche vorfinden dürften, die der Erde in ihren
 physikalischen wie sonstigen Bedingungen nahezu gleichen und
-daher durch Erdenmenschen bewohnt, besiedelt werden könnten,
+daher durch Erdenmenschen bewohnt, *besiedelt* werden könnten,
 ja voraussichtlich von irgendwelchen, vielleicht sogar von
 intelligenten Lebewesen überhaupt schon bevölkert sein mögen.
 Mindestens ist die Wahrscheinlichkeit, daß dies so sei, in vorliegendem
@@ -41,17 +41,17 @@ Doch Wäre es denn überhaupt denkbar, daß jene unermeßlichen
 Entfernungen, die uns selbst von den nächsten dieser
 Fixsterne noch trennen, von Menschen je zurückgelegt werden
 könnten, allein nur mit Rücksicht auf die Grenze, welche der
-zeitlichen Ausdehnung einer Reise durch die mittlere Lebensdauer
-des Menschen gesetzt ist, ganz abgesehen von der dazu
+zeitlichen Ausdehnung einer Reise durch die mittlere *Lebensdauer
+des Menschen* gesetzt ist, ganz abgesehen von der dazu
 notwendigen technischen Leistungsfähigkeit des Fahrzeuges.
 
 Nehmen wir zuvor erst an, es sei das für unsere heutigen
 Begriffe allerdings noch ungeheuerlich Erscheinende bereits gelungen:
 den Rückstoßantrieb so zu vervollkommnen, daß man
-dem Raumschiff während sehr langer Zeit, selbst Jahre
-hindurch, ständig eine Beschleunigung von etwa 15m/sec² erteilen
+dem Raumschiff während sehr langer Zeit, selbst *Jahre
+hindurch*, ständig eine Beschleunigung von etwa 15m/sec² erteilen
 könne, welche der Mensch bei allmählicher Gewöhnung wahrscheinlich
-auch auf die Dauer vertragen würde. Es wäre dann
+auch auf *die Dauer* vertragen würde. Es wäre dann
 möglich, um eine bestimmte Weltraumstrecke zurückzulegen, das
 Fahrzeug auf der ganzen ersten Hälfte seines Weges fortgesetzt
 \<@pagebreak /> gleichförmig zu beschleunigen, also immer mehr in Fahrt zu
@@ -61,15 +61,15 @@ welchem Verfahren eine bestimmte Entfernung, bei vorgegebener,
 höchstzulässiger Beschleunigung bzw. Verzögerung, in der kürzesten
 überhaupt erreichbaren Zeit durcheilt wird.
 
-<div class="image" float="right"><img alt="Veranschaulichung der Geschwindigkeit bei ständiger Beschleunigung" src="abb100.png"/>
+<div class="image right"><img alt="Veranschaulichung der Geschwindigkeit bei ständiger Beschleunigung" src="abb100.png"/>
 Abb. 100. Zurücklegung einer Entfernung, wenn auf
 der ganzen ersten Hälfte des Weges gleichförmig
-beschleunigt und auf der zweiten ebenso verzögert
+<em>beschleunigt</em> und auf der zweiten ebenso <em>verzögert</em>
 wird. Die höchste Bewegungsgeschwindigkeit ergibt sich dabei in der Wegmitte.</div>
 
 Erfolgte nun die Fahrt zu den benachbarten Fixsternen auf
-diese Weise, dann würden sich für die gesamte Reise hin und.
-zurück (wie sie bei erstmaligem Besuch in Einem ausgeführt werden
+*diese* Weise, dann würden sich für die gesamte Reise *hin und
+zurück* (wie sie bei erstmaligem Besuch in Einem ausgeführt werden
 müßte) rechnungsmäßig folgende Zeiten ergeben: 7 Jahre zum
 Alpha-Centauri, dem nächsten uns bekannten Fixstern; 10 Jahre
 zu den vier in der Entfernung dann folgenden Fixsternen; mit
@@ -87,13 +87,13 @@ daß sich sonst kein (uns heute noch nicht erkennbares,
 vielleicht in der Natur des Weltäthers gelegenes) Hindernis
 ergeben würde, um Fahrgeschwindigkeiten zu erreichen, die sich
 der Größenordnung der Lichtgeschwindigkeit nähern: dann könnte
-man immerhin noch mit einer Gesamtreisezeit, einschließlich Hin—
-\<@pagebreak /> und Rückfahrt, von rund 10 Jahren den Fixstern Alpha-Centauri,
+man immerhin noch mit einer Gesamtreisezeit, einschließlich *Hin-
+\<@pagebreak /> und Rückfahrt*, von rund 10 Jahren den Fixstern Alpha-Centauri,
 von 20 Jahren die vier weiteren‚und von 30 Jahren
 bereits eine beträchtliche Zahl der uns bisher bekannten, benachbarten
 Fixsterne erreichen.
 
-Für die einfache Fahrt, wie sie bei einem ständigen Verkehr
+Für die *einfache Fahrt*, wie sie bei einem ständigen Verkehr
 in Frage käme, würden die halben Zeiten genügen.
 
 Wohl lägen Reisen von solcher Dauer schon ziemlich hart an
@@ -125,7 +125,7 @@ wissenschaftlichen Triumphen und technischen Möglichkeiten noch
 bringen werden — wer kann es sagen! Welch großartigen Fortschritt
 bedeuten heute, da die Menschheit mit dem naturwissenschaftlichen
 Denken nun einmal vertraut geworden ist, nur einige
-Jahrzehnte; und was sind 100, ja selbst 1000 Jahre in der nach
+*Jahrzehnte*; und was sind 100, ja selbst 1000 Jahre in der nach
 allem noch vor uns liegenden Zeitspanne menschlicher Entwicklung.
 
 \<@pagebreak /> Die Besiegung des Raums! Es wäre die grandioseste aller nur

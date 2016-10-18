@@ -4,7 +4,7 @@ Landung in Bremsellipsen.
 
 Bei dem soeben beschriebenen Verfahren wurde der Übergang aus
 der Einfallbahn in die freie Kreisbahn und die hierzu erforderliche
-Geschwindigkeitsverminderung von 11 000 auf 7850 Meter je Sekunde im Verlaufe
+Geschwindigkeitsverminderung von 11000 auf 7850 Meter je Sekunde im Verlaufe
 der „erzwungenen Kreisbewegung” bewerkstelligt. Nach einem anderen Vorschlage Hohmanns
 kann dies aber auch im Wege der Durchfahrung sogenannter „Bremsellipsen“
 erreicht werden (Abb. 45). Bei diesem Landungsvorgang kommen die Tragflächen
@@ -14,8 +14,8 @@ ist, mittels eines nachgezogenen Fallschirmes
 so kräftig zu bremsen, wie die schon erwähnte Gefahr zu starker
 Erwärmung es noch gestattet.
 
-<div class="image" float="left"><img alt="Landung in Bremsellipsen" src="abb45.png"/>
-<p>Abb. 45. Landung in „Bremsellipsen“. (Die Lufthülle und die Landungsbahn sind hier, ebenso
+<div class="image left"><img alt="Landung in Bremsellipsen" src="abb45.png"/>
+<p>Abb. 45. <em>Landung in „Bremsellipsen“</em>. (Die Lufthülle und die Landungsbahn sind hier, ebenso
 wie in Abb. 44, höher als der Wirklichkeit entsprechend gezeichnet. Vergl. Abb. 8.)</p></div>
 
 \<@pagebreak 81/> Allerdings kann dadurch die Fahrgeschwindigkeit noch nicht derart
@@ -39,7 +39,7 @@ neuem zurückkehren usw.
 Es werden somit, entsprechend der fortschreitenden Geschwindigkeitsabnahme,
 nacheinander immer engere sogenannte „Bremsellipsen”
 durchlaufen, bis schließlich die Geschwindigkeit auf
-7850 Meter je Sekunde gesunken und damit die freie Kreisbewegung
+7850 Meter je Sekunde gesunken und damit die *freie Kreisbewegung*
 eingetreten ist. Der weitere Verlauf der Landung erfolgt
 dann unter Zuhilfenahme der Tragflächen im Gleitflug
 ebenso wie bei dem früher geschilderten Vorgang. Die gesamte

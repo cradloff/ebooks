@@ -18,10 +18,10 @@ Damit allein aber wäre schon ein Erfolg errungen, der alles
 auf technischem Gebiete bisher Dagewesene weit in den Schatten
 stellen würde. Und daß dieses, bei zielbewußter Vervollkommnung
 der bereits vorhandenen technischen Möglichkeiten, auch
-heute schon mindestens erreichbar wäre, kann garnicht mehr
+heute schon *mindestens* erreichbar wäre, kann garnicht mehr
 \<@pagebreak 188/> bezweifelt werden. Es wird um so eher gelingen, je früher und
 in je großzügigerer und ernster, wissenschaftlicher Weise an die
-praktische Bearbeitung des Problems geschritten wird, wenn
+*praktische* Bearbeitung des Problems geschritten wird, wenn
 man sich auch keiner Täuschung hingehen darf über die Größe
 der dabei noch zu bewältigenden Schwierigkeiten.
 

@@ -3,7 +3,7 @@
 Besondere physikalische Untersuchungen.
 =======================================
 
-Und nun zur wichtigen Frage, welchen Nutzen die besprochene
+Und nun zur wichtigen Frage, welchen *Nutzen* die besprochene
 Weltraumwarte uns bringen könnte! Oberth hat diesbezüglich
 mancherlei interessante Anregungen gegeben, auf welche
 im Folgenden vielfach Bezug genommen wird.
@@ -12,15 +12,16 @@ Beispielsweise könnte man besondere physikalische und chemische
 Versuche anstellen, die große, vollkommen luftleere Räume
 benötigen oder das Fehlen der Schwere bedingen und deshalb
 unter irdischen Verhältnissen nicht durchführbar sind.
+
 Ferner wäre es möglich, extrem niedere Temperaturen nicht
-nur in einfacherer Weise als auf der Erde zu erzeugen, sondern
-auch dem absoluten Nullpunkt dabei viel näher zu
+nur in *einfacherer* Weise als auf der Erde zu erzeugen, sondern
+auch dem *absoluten Nullpunkt dabei viel näher* zu
 kommen, als; dies in unseren Kältelaboratorien gelingt (bisher
 erreichte man daselbst etwa 1° absolut, d. i. -272° Celsius);
 denn in der Raumwarte würde ja außer dem für diesen
-Zweck bereits gebräuchlichen Verfahren der Heliumverflüssigung
+Zweck bereits gebräuchlichen Verfahren der *Heliumverflüssigung*
 auch noch die Möglichkeit weitgehendster Abkühlung durch
-Ausstrahlung in den leeren Weltraum zur Verfügung
+*Ausstrahlung in den leeren Weltraum* zur Verfügung
 stehen.
 
 Man könnte so das Verhalten von Körpern im Zustande fast

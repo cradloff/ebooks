@@ -2,7 +2,7 @@
 Ferne Welten.
 =============
 
-Doch dies will nicht besagen, daß wir für alle Zeiten nur
+Doch dies will nicht besagen, daß wir für *alle Zeiten* nur
 an das Erdenreich und die ihm nächsten Himmelskörper gewiesen
 bleiben müssen; denn würde es gelingen, bei der Rückstoßerzeugung
 die Abstoßungsgeschwindigkeit über jenes Maß von etwa
@@ -31,15 +31,15 @@ und Erfinder der Zukunft in dieser Hinsicht noch vielfach vorhanden.
 Sollte sich daraus Erfolg ergeben, dann würden wohl
 auch manche andere jener fremden Welten, die wir bisher nur
 unermeßlich fern am Sternenhimmel sahen, von uns besucht,
-betreten werden können.
+*betreten* werden können.
 
 Ein uralter Menschheitstraum! Ob seine Erfüllung uns auch
-Nutzen brächte? Der Wissenschaft gewiß, sie würde außerordentlich
-gewinnen. Über den praktischen Wert aber ist heute
+Nutzen brächte? Der *Wissenschaft* gewiß, sie würde außerordentlich
+gewinnen. Über den *praktischen* Wert aber ist heute
 noch kein eindeutige‘s Urteil möglich. Wie wenig wissen wir
 doch selbst von unseren nächsten Nachbarn unter den Gestirnen!
 
-Der Mond, noch ein Teil des Erdenreichs, unserer „engeren
+Der *Mond*, noch ein Teil des Erdenreichs, unserer „engeren
 Heimat” im Weltall, ist uns von allen fremden Himmelskörpern
 am meisten bekannt. Er ist erkaltet, besitzt keine Lufthülle, ist ohne
 jedes höheres Leben: ein riesiger, im Raume schwebender Felsenkörper,
@@ -47,7 +47,7 @@ zerklüftet, unwirtlich, totstarr — eine vergangene Welt.
 
 Aber schon bedeutend weniger Klarheit haben wir über den
 nach dem Mond noch am besten beobachteten Himmelskörper,
-über den uns benachbarten Planeten Mars, obwohl wir von ihm
+über den uns benachbarten Planeten *Mars*, obwohl wir von ihm
 in Vergleich zu anderen Gestirnen doch noch verhältnismäßig
 Vieles wissen.
 
@@ -77,13 +77,13 @@ bilden zu können, ob dieser Himmelskörper von irgendwelchen
 oder gar von intelligenten Lebewesen bevölkert ist; für Erdenmenschen
 würde er, vor allem wegen der Dünnheit seiner Atmosphäre,
 wohl kaum bewohnbar sein. Er böte also der Raumschiffahrt
-in wissenschaftlicher Hinsicht gewiß ein außerordentlich
+in *wissenschaftlicher* Hinsicht gewiß ein außerordentlich
 interessantes Forschungsziel; ob ein Betreten desselben
-aber auch praktischen Wert hätte, läßt sich heute zwar mit
+aber auch *praktischen* Wert hätte, läßt sich heute zwar mit
 Sicherheit noch nicht erkennen, scheint jedoch wenig wahrscheinlich zu sein.
 
 Anders verhält es sich mit dem zweiten uns unmittelbar benachbarten
-Planeten, der Venus, dem uns als „Morgen- und
+Planeten, der *Venus*, dem uns als „Morgen- und
 Abendstern” bekannten, prächtig leuchtenden Gestirn. Ihre
 Größe sowie ihre Masse und demgemäß auch die auf ihrer Oberfläche
 herrschende Schwerewirkung ist nur unwesentlich kleiner
@@ -115,7 +115,7 @@ befindet, dürfte sie für die Raumschiffahrt wohl das verlockendste
 Reiseziel bedeuten.
 
 Noch ungünstigere Beobachtungsbedingungen als die Venus
-bietet der Merkur, da er der Sonne noch näher steht. Er ist
+bietet der *Merkur*, da er der Sonne noch näher steht. Er ist
 unter allen Planeten der kleinste, besitzt eine Lufthülle, die wahrscheinlich
 aber nur äußerst dünn ist und eine Oberflächenbeschaffenheit,
 die vermutlich jener des Mondes ähnlich sein dürfte.
@@ -127,7 +127,7 @@ Reiseziel dürfte der Merkur demnach sehr wenig einladend sein.
 War es bei der Beurteilung vorstehend besprochener Gestirne
 doch immerhin noch möglich, zu einem einigermaßen wahrscheinlichen
 Ergebnis zu gelangen, so reicht das über die entfernteren
-Planeten: jupiter, Saturn, Uranus und Neptun bisher Bekannte
+Planeten: *Jupiter*, *Saturn*, *Uranus* und *Neptun* bisher Bekannte
 hierzu schon kaum mehr aus. Wohl hat man feststellen
 können, daß alle von ihnen dichte Lufthüllen besitzen. Die
 Frage der Oberflächenbeschaffenheit dieser Himmelskörper ist
@@ -144,7 +144,7 @@ festgestellt hat (1/4 bis 1/5 von jener der Erde), was auf eine von
 der Erde stark verschiedene physikalische Beschaffenheit schließen
 läßt, muß unsere Erwartungen in dieser Hinsicht gewaltig dämpfen.
 
-Eher noch wäre es vielleicht möglich, daß einige der Monde
+Eher noch wäre es vielleicht möglich, daß einige der *Monde*
 dieser Himmelskörper (am meisten kämen dafür die des Jupiter
 in Betracht) verhältnismäßig günstigere Voraussetzungen bieten.
 
@@ -178,7 +178,7 @@ Heimatplaneten sind.
 
 \<@pagebreak /> Es ist ja höchstwahrscheinlich, daß sich das Leben auf den
 fremden Gestirnen — falls solches dort vorhanden ist — auf
-einer anderen Stufe befindet, als jenes der Erde. Wir könnten
+einer *anderen* Stufe befindet, als jenes der Erde. Wir könnten
 dann das Wunderbare erleben, aus der Entwicklung unseres irdischen
 Seins Bilder zu erschauen: gegenwärtig, wirklich, lebendig
 und doch — Bilder aus undenklicher, millionenjähriger Vergangenheit
@@ -188,7 +188,7 @@ Oder, daß wir besonders wertvolle, auf der Erde sehr seltene
 Stoffe wie z. B. Radium in großen, leicht gewinnbaren Vorkommen anträfen?
 
 Und, wenn die vorgefundenen Lebensbedingungen uns auch für
-dauernden Aufenthalt entsprächen, vielleicht werden dann —
+*dauernden* Aufenthalt entsprächen, vielleicht werden dann —
 so unglaublich dies heute wohl noch klingen mag — mit der
 Zeit einmal dennoch fremde Himmelskörper sogar als Auswanderungsziele in Frage kommen.
 

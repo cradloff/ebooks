@@ -298,7 +298,7 @@ zur Beförderung von einem Beobachter, würden über
 1 Million Mark betragen. Unter günstigen Bedingungen wäre
 dasselbe befähigt, etwa 100 Fahrten auszuführen. Bei einem
 größeren Raumschiff, das außer dem Führer samt Zubehör noch
-2 t Fracht befördert, würde fein Aufstieg bis in den stabilen
+2 t Fracht befördert, würde sein Aufstieg bis in den stabilen
 Schwebezustand (Übergang in eine freie Umlaufbahn) etwa
 50-60000 Mark erfordern.
 

@@ -5,7 +5,7 @@ Sonnenschein bei nächtlichem Dunkel.
 
 Aber auch die Lichtverhältnisse sind nun wesentlich verändert.
 Bekanntlich ist der Begriff des Tages an die Vorstellung blauen
-Himmels oder erleuchteter Wölken und allseits zerstreuten Lichtes
+Himmels oder erleuchteter Wolken und allseits zerstreuten Lichtes
 geknüpft, ohne daß hierzu direkter Sonnenschein notwendig
 wäre. Alle diese Erscheinungen sind aber nur eine Folge des
 Vorhandenseins der Erdlufthülle; denn in ihr wird ein Teil der einfallenden
@@ -18,7 +18,7 @@ und der Dunkelheit.
 Im leeren Weltraum ist alles dies nicht möglich, weil dort die
 Luft fehlt. Damit hört aber strenggenommen auch der Begriff
 des Tages eigentlich auf. Unentwegt erscheint der Himmelsgrund
-in tiefstem Schwarz, aus welchem, außergewöhnlich grell, mit
+in tiefstem *Schwarz*, aus welchem, außergewöhnlich grell, mit
 gleichmäßig ruhigem Licht die zahllosen Gestirne leuchten und, alles
 überbietend, mit unvorstellbar blendender Kraft die Sonne strahlt.
 
