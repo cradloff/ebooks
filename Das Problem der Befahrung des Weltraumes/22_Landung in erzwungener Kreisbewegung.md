@@ -35,7 +35,7 @@ in einer freien Umlaufbahn schwebend um die Erde
 („*Freie Kreisbewegung*”, Abb. 44).
 
 <div class="image left"><img alt="Wirkungsweise der Tragflächen während der erzwungenen Kreisbewegung" src="abb43.png"/>
-<p>Abb. 43. Wirkungsweise der Tragﬂächen während der „<em>erzwungenen Kreisbewegung</em>“
+<p>Abb. 43. Wirkungsweise der Tragflächen während der „<em>erzwungenen Kreisbewegung</em>“
 eines landenden Raumschiffes. Hier erzeugt der Luftwiderstand einen <em>zur</em>
 Erde (nach <em>ab</em>wärts) gerichteten „Abtrieb“, der den Überschuß an Fliehkraft aufhebt.</p></div>
 

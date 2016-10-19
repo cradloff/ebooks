@@ -22,7 +22,7 @@ Welch schwieriges Problem diese Forderung jedoch in sich schließt,
 erkennt man, wenn man sich vergegenwärtigt, daß *jedem einzelnen*
 Kilogramm des Raumschiffes bei seinem Eintreffen auf
 der Erde eine lebendige Kraft innewohnt, welche beinahe jener
-eines ganzen D—Zuges gleichkommt, der sich mit 70 km Stundengeschwindigkeit
+eines ganzen D-Zuges gleichkommt, der sich mit 70 km Stundengeschwindigkeit
 in Fahrt befindet! Denn, wie schon anfangs erwähnt,
 fällt ein Körper stets mit der Geschwindigkeit von etwa
 11000 Meter je Sekunde auf die Erde ein, sobald er aus dem Weltraum

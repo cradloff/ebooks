@@ -138,9 +138,9 @@ Raum gelangten. Sind dieselben staubförmig, so können sie noch
 in verhältnismäßig einfacher Weise, und zwar durch Filtrieren der
 Luft mittels Staubsaugapparaten oder ähnlichen Vorrichtungen gesammelt
 und entfernt werden. Sind sie aber etwas größer, würde
-man z.B. so unvorsichtig' sein, einen Sack Äpfel in einem Zimmer
+man z.B. so unvorsichtig sein, einen Sack Äpfel in einem Zimmer
 auszuleeren, dann bliebe nichts anderes übrig, als dieselben mittels
-Netzen einzufangen. Es müssen eben alle_Körper sehr gut verwahrt
+Netzen einzufangen. Es müssen eben alle Körper sehr gut verwahrt
 werden; denn die ordnende Macht der Schwere hat aufgehört
 zu herrschen: die Materie ist „entfesselt”.
 
@@ -223,7 +223,7 @@ auf der angedeuteten Ausflußkurve wahrscheinlich nicht so regelmäßig verteile
 
 <div class="image left"><img alt="Ausbreitung von Wasser in verschiedenen Räumen" src="abb66.png"/>
 <p>Abb. 66. Bei Fehlen der Schwere würde sich
-ausgeﬂossenes Wasser in einem Raum mit gut benetzbaren
+ausgeflossenes Wasser in einem Raum mit gut benetzbaren
 (also z. B. etwas feuchten) Wänden über dieselben ausbreiten
 (linkes Bild), in einem Raum mit nicht benetzbaren
 (z. B. fettigen) Wänden in Kugeln zusammengeballt an die Wände legen (rechtes Bild).</p></div>

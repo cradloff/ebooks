@@ -70,7 +70,7 @@ einem Tage („Stationärer Umlauf“)
 
 <div class="image left"><img alt="Veranschaulichung einer freischwebenden Umlaufbahn um die Erde" src="abb54.png"/>
 <p>Abb. 54. Jeder Körper, der die Erde in der Ebene des
-Äquators, 42 300 km entfernt vom Erdmittelpunkte, in
+Äquators, 42300 km entfernt vom Erdmittelpunkte, in
 kreisförmiger Bahn umläuft, verharrt freischwebend <em>beständig
 über demselben Punkte</em> der Erdoberfläche.</p></div>
 
@@ -89,7 +89,7 @@ ausgebaut und zweckentsprechend eingerichtet werden. Es entstünde
 so ein Bauwerk, das fest zur Erde gehört, ja sogar
 dauernd in unveränderlicher Stellung zu ihr verharrt und sich
 doch weit über der Lufthülle bereits im leeren Weltraum befindet:
-\<@pagebreak /> eine Warte mit der „ÜSeehöhe 35900000 Meter über
+\<@pagebreak /> eine Warte mit der „Seehöhe 35900000 Meter über
 dem Meeresspiegel*”. Würde man diese „*Weltraumwarte*” z.B.
 im Meridian von *Berlin* errichtet haben, dann wäre sie von dort
 ständig an jener Himmelsstelle zu erblicken, an welcher sich die

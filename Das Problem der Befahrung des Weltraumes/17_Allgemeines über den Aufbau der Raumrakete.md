@@ -84,7 +84,7 @@ wird. In diesem Fall kann das Einbringen des Betriebsstoffes auch
 ohne Überdruck erfolgen. Solche wollen wir „*Verpuffungs*-
 (oder *Explosions*-)Raketen-Motore” nennen.
 
-Die Hauptbestandteile des *Gleichdruck—Raketen—Motors*
+Die Hauptbestandteile des *Gleichdruck-Raketen-Motors*
 sind: der *Verbrennungsraum*, auch „*Ofen*” genannt, und die
 daran anschließende „*Düse*” (Abb. 24), welche Teile je nach Bedarf
 in verschiedener Anzahl vorgesehen sein können.
@@ -159,7 +159,7 @@ für Verbrennungsraum und Düse. Hingegen
 	<tr><td></td><td>Abb. 25.</td><td></td></tr>
 </table>
 
-Desgleichen weist auch der *Verpuffungs-Raketen—Motor*
+Desgleichen weist auch der *Verpuffungs-Raketen-Motor*
 mit der ihm verwandten Turbinenart, der Verpuffungs-(Explosions-)Gasturbine,
 viele Ähnlichkeiten auf. Wie bei dieser muß
 auch hier der Vorteil leichterer Einbringungsmöglichkeit des Betriebsstoffes
@@ -182,7 +182,7 @@ der *Bauweise der Behälter* für die Betriebsstoffe.
 
 Wie groß ist nun eigentlich die Menge der mitzunehmenden
 Betriebsstoffe? Wir wissen, daß der Antrieb des
-Raketen—Fahrzeuges dadurch erfolgt, daß es fortgesetzt
+Raketen-Fahrzeuges dadurch erfolgt, daß es fortgesetzt
 Teile seiner eigenen Masse (in unserem
 Falle eben die Betriebsstoffe in vergastem Zustande)
 nach rückwärts abstößt. Es wird sich also
@@ -239,14 +239,14 @@ Es entfielen dann auf den Betriebsstoffanteil: 96 bzw. 92 Prozent
 vom Gesamtgewicht des startbereiten Fahrzeuges.
 
 Man erkennt aus diesen Zahlen deutlich die schon so oft betonte,
-außerordentliche Wichtigkeit möglichst hoher Abstoßungs—(Auspuff-)
+außerordentliche Wichtigkeit möglichst hoher Abstoßungs-(Auspuff-)
 Geschwindigkeit. (Dieselbe ist ja der Ausdruck des
 praktischen Energiewertes des verwendeten Betriebsstoffes!)
 
-Ein derartig großes wie das oben errechnete Betriebsstoff—Fassungsvermögen
+Ein derartig großes wie das oben errechnete Betriebsstoff-Fassungsvermögen
 müssen jedoch nur solche Raumraketen aufweisen,
 welche befähigt sein sollen, sich die zur *gänzlichen Loslösung*
-von der Erde erforderliche Steig—Höchstgeschwindigkeit zu erteilen.
+von der Erde erforderliche Steig-Höchstgeschwindigkeit zu erteilen.
 Hingegen ergibt sich bei verschiedenen (später erläuterten) Anwendungsarten,
 bei denen auch schon *kleinere* Höchstgeschwindigkeiten
 genügen, das „Massenverhältnis” (Verhältnis der Anfangs- zur

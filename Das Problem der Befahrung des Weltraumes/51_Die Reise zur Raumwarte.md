@@ -49,13 +49,13 @@ an das wir uns nun wohl oder übel gewöhnen müssen. Leichter
 gesagt, als getan; doch da keine andere Möglichkeit besteht,
 gelingt schließlich auch dieses.
 
-Indessen hat. der Führer mit seinen Instrumenten scharf beobachtet,
+Indessen hat der Führer mit seinen Instrumenten scharf beobachtet,
 seine Tabellen und Fahrkurven zu Rate gezogen; einige
 Male wurde auf kurze Zeit der Antrieb wieder angelassen: es
 mußten kleine Bahnfehler korrigiert werden.
 
 Nun aber ist das Ziel erreicht. Wir haben die Raumanzüge
-angelegt, die Luft wird aus der [Fahrzelle abgelassen, die Tür
+angelegt, die Luft wird aus der Fahrzelle abgelassen, die Tür
 geöffnet und vor uns, in einiger Entfernung erblicken wir etwas
 gar Seltsames, das sich vom tiefschwarzen, sternübersäten Himmel
 abhebt, metallen glitzernd in hellstem Sonnenschein: die

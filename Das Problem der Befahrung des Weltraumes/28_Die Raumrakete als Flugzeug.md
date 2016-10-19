@@ -214,7 +214,7 @@ eines „Eilfluges mit kosmischer Geschwindigkeit“</em>:
 Die wagrechte Höchstgeschwindigkeit wird —
 entsprechend der Entfernung — so groß gewählt
 („<em>günstigste wagrechte Höchstgesehwindigkeit</em>“),
-daß die ganze Fernfahrt im Gleitﬂug ohne
+daß die ganze Fernfahrt im Gleitflug ohne
 Antrieb und ohne künstliche Bremsung zurückgelegt
 werden kann (Schema siehe Abb. 50).</p></div>
 

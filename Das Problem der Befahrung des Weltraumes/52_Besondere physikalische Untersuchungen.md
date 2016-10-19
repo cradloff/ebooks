@@ -16,7 +16,7 @@ unter irdischen Verhältnissen nicht durchführbar sind.
 Ferner wäre es möglich, extrem niedere Temperaturen nicht
 nur in *einfacherer* Weise als auf der Erde zu erzeugen, sondern
 auch dem *absoluten Nullpunkt dabei viel näher* zu
-kommen, als; dies in unseren Kältelaboratorien gelingt (bisher
+kommen, als dies in unseren Kältelaboratorien gelingt (bisher
 erreichte man daselbst etwa 1° absolut, d. i. -272° Celsius);
 denn in der Raumwarte würde ja außer dem für diesen
 Zweck bereits gebräuchlichen Verfahren der *Heliumverflüssigung*
@@ -36,7 +36,7 @@ Problem zusammen, ein Verfahren zur Auswertung der in der
 Materie gebundenen, ungeheuren Energiemengen zu finden.
 
 Schließlich könnte, mit Rücksicht auf die besonderen Möglichkeiten,
-welche eine Raumwarte bieten Würde, vermutlich auch
+welche eine Raumwarte bieten würde, vermutlich auch
 die Frage des Polarlichtes, dann gewisser kosmischer Strahlen und
 mancher anderer noch nicht Völlig aufgeklärter Naturerscheinungen
 einer endgültigen Lösung zugeführt werden.

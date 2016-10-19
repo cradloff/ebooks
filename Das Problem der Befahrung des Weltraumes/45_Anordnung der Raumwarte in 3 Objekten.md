@@ -35,7 +35,7 @@ und damit Schwerezustand erzeugt werden soll, um ihren
 Massenmittelpunkt (Schwerpunkt) entsprechend rasch rotieren
 lassen. Schwieriger ist es jedoch, dabei auch gleichzeitig noch die
 Forderung zu erfüllen: daß man bei diesen rotierenden Gebäudeteilen
-einfach und ungefährlich *aus- und eingefangen, Kabelleitungen*
+einfach und ungefährlich *aus- und eingelangen, Kabelleitungen*
 anschließen und große *Sammelspiegel* anbringen
 kann und ferner daß es auch möglich ist, die Lage des Ganzen
 nicht nur mit Rücksicht auf die Sonnenstrahlen sondern auch

@@ -73,6 +73,6 @@ der *Licht-* und *Wärmewirkung* der Sonne, oder aber
 
 <div class="footnote" id="fn1"><a href="#rn1">1</a>Das Luftleermachen der Schleuse beim
 „Ausschleusen“ geschieht aus Sparsamkeitsgründen größtenteils durch <em>Absaugen</em> der
-Luft in das Innere des (Gebäudes; nur der letzte Rest des Luftinhaltes der Schleuse
+Luft in das Innere des Gebäudes; nur der letzte Rest des Luftinhaltes der Schleuse
 wird durch Ausströmen in den Weltraum abgelassen.</div>
 

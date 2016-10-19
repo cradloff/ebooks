@@ -25,7 +25,7 @@ um die Sonne andauernd Rechnung getragen werden.
 um die Warte zur Erfüllung ihrer besonderen, später noch zu
 besprechenden Aufgaben zu befähigen, da für manche derselben
 beliebige *Änderungen ihrer Lage im Raume* möglich sein müssen, und
-endlich Weil sich gelegentlich auch die Notwendigkeit
+endlich weil sich gelegentlich auch die Notwendigkeit
 zur Durchführung von *Ortsverschiebungen* gegenüber der Erdoberfläche ergeben kann.
 
 Die *Schwenkmotoren* sind normale Gleichstrom-Elektromotoren,

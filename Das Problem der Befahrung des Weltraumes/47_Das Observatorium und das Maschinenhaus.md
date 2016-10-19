@@ -15,7 +15,7 @@ daß man ihm jede beliebige, durch die vorzunehmenden Beobachtungen
 Es muß daher von der Stellung der Sonne vollkommen unabhängig
 sein, darf also keine der früher beschriebenen, durch
 Sonnenstrahlen betriebenen Einrichtungen aufweisen. Aus diesem
-Grund erfolgt die Belüftung und damit gleidmeitig auch die Beheizung
+Grund erfolgt die Belüftung und damit gleichzeitig auch die Beheizung
 des Observatoriums ebenso wie seine Elektrizitätsversorgung
 vom Maschinenhause aus, zu welchem Zweck beide Objekte
 außer mittels eines Kabels noch durch eine biegsame Rohrleitung
@@ -39,9 +39,9 @@ ferner sämtliche, in Abhängigkeit von der Fernbeobachtung zu
 (siehe Folgendes). Endlich befindet sich dortselbst auch noch ein
 *Laboratorium* für Untersuchungen im schwerelosen Zustand.
 
-Das Maschinenbaus ist dazu bestimmt, die wichtigeren, für
+Das Maschinenhaus ist dazu bestimmt, die wichtigeren, für
 die ganze Raumwarte gemeinsamen maschinellen Anlagen aufzunehmen,
-insbesondere jene, Welche zur großzügigen Auswertung
+insbesondere jene, welche zur großzügigen Auswertung
 der Sonnenstrahlen dienen. Es enthält daher vor allem das
 *Haupt-Sonnen-Kraftwerk* samt *Speicherbatterie*. Ferner
 ist darin die ganze Apparatur der *Großfunkstation* untergebracht

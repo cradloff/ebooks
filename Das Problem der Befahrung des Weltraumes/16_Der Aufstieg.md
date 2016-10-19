@@ -178,7 +178,7 @@ Stellung verbracht werden, wozu Oberth Hängematten vorsieht.
 
 Mit Rücksicht auf diese Einschränkung in der Größe der Beschleunigung,
 kann mit bemannten Raumschiffen bei *lotrechtem*
-Aufstieg jene Steig—Höchstgeschwindigkeit, welche hierbei
+Aufstieg jene Steig-Höchstgeschwindigkeit, welche hierbei
 zur gänzlichen Loslösung von der Erde erforderlich wäre, erst
 in einer Höhe von etwa 1600 km erlangt werden. Sie beträgt
 dann rund 10000 Meter je Sekunde und wird nach etwas mehr als
@@ -199,9 +199,9 @@ Etwas günstiger ist es, wenn der Aufstieg nicht in der Lotrechten,
 sondern in einer *schiefen* Kurve erfolgt; insbesondere
 wenn dabei außerdem noch getrachtet wird, so nahe über der
 Erdoberfläche, als dies mit Rücksicht auf den Luftwiderstand gerade
-noch tunlich erscheint (vielleicht in etwa 60—100 km Seehöhe),
+noch tunlich erscheint (vielleicht in etwa 60-100 km Seehöhe),
 die *freie Umlaufbewegung* um die Erde zu erreichen,
-und erst dann —— und zwar durch weitere Steigerung der Umlaufgeschwindigkeit
+und erst dann — und zwar durch weitere Steigerung der Umlaufgeschwindigkeit
 — auf die zur Erlangung der gewünschten
 Höhe oder zur gänzlichen Loslösung von der Erde notwendige
 Höchstgeschwindigkeit hingearbeitet wird („Flachaufstieg”, Abb. 20).

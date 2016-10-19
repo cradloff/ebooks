@@ -16,7 +16,7 @@ Wohnrad und das Maschinenhaus (samt seinem Spiegel) beide
 um eine gemeinsame Drehachse — aber in *verkehrtem* Sinne
 \<@pagebreak 149/> — rotieren lassen. Oder man könnte das Wohnrad und das
 Maschinenhaus völlig zu einem Gebäude verschmelzen und um
-dessen Drehachse den großen Spiegel des Maschinenbauses allein
+dessen Drehachse den großen Spiegel des Maschinenhauses allein
 in ebenfalls entgegengesetzter Richtung rotieren lassen u. a.m.
 
 Folgendes wären die Vorteile daraus:
@@ -25,7 +25,7 @@ Folgendes wären die Vorteile daraus:
 
 2. Die bei getrennter Anordnung notwendigen Maßnahmen
 zum Ausgleich der gegenseitigen Massenanziehung der Objekte
-fallen zwischen Wohnrad und Maschinenbaus fort.
+fallen zwischen Wohnrad und Maschinenhaus fort.
 
 3. Die Drehbewegung des Wohnrades kann jetzt durch Motorkraft
 statt wie sonst mittels Rückstoßantriebes — also *ohne Betriebsstoffaufwand*

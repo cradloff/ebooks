@@ -17,7 +17,7 @@ möglich gemacht werden soll.
 Um dies zu bewerkstelligen, müssen die im leeren Weltraum
 befindlichen Menschen stets von allseits geschlossenen, vollkommen
 luftdichten *Einhüllungen* umgeben sein, da nur innerhalb solcher
-die Luft künstlich, und zwar mit Hilfe 'selbsttätiger Vorrichtungen,
+die Luft künstlich, und zwar mit Hilfe selbsttätiger Vorrichtungen,
 auf entsprechendem Druck und in richtiger Zusammensetzung
 erhalten werden kann.
 
@@ -32,7 +32,7 @@ nicht nur entsprechende *Stärke*, sondern auch womöglich *nur
 gekrümmte* Flächen aufweisen, da *ebene* mit Rücksicht auf
 den Überdruck einer besonderen Verspannung oder Abstützung
 bedürfen. Der für die künstliche Luftbereitung notwendige Stickstoff
-\<@pagebreak /> und besonders der Sauerstoff wäre in eigenen Tanks in verflüssigtem
+\<@pagebreak 119/> und besonders der Sauerstoff wäre in eigenen Tanks in verflüssigtem
 Zustand stets reichlich vorrätig zu halten und durch
 Nachschub von der Erde fortgesetzt zu ergänzen.
 
@@ -41,7 +41,7 @@ leeren Weltraum aufhalten zu können, müßte man luftdichte Anzüge
 benützen, deren Inneres durch mitgenommene Apparate
 ebenfalls selbsttätig mit Luft versorgt wird: also Vorrichtungen,
 ziemlich ähnlich den bekannten Unterwasser-*Taucheranzügen*.
-Wir wollen sie „Raumanzüge” nennen.“ Es soll später noch näher
+Wir wollen sie „Raumanzüge” nennen. Es soll später noch näher
 darauf eingegangen werden.
 
 Man sieht, daß es sich im Vorliegenden um Ähnliches handelt

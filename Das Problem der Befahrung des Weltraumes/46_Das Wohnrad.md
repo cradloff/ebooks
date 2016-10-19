@@ -32,13 +32,13 @@ Seite, ohne Sammelspiegel, teilweise im Schnitt.</p></div>
 
 Diesen Bedingungen wird aber am besten entsprochen, wenn
 man das Bauwerk in der schon angedeuteten Form eines *großen
-Rades* anordnet (Abb. 84, 89 und 90): Der Radkranz des-
-selben ist aus Zellen zusammengefügt und hat die Form eines
+Rades* anordnet (Abb. 84, 89 und 90): Der Radkranz desselben
+ist aus Zellen zusammengefügt und hat die Form eines
 durch Drahtspeichen gegen die Achse verspannten Ringes. Sein
 Inneres wird durch Zwischenwände in einzelne Räume unterteilt,
 die alle von einem breiten Gang aus zugänglich sind, der rundum
 führt und in sich geschlossen ist. Es gibt da: Einzelzimmer, größere
-Schlafräume , Arbeits- und Studierzimmer, Speisesaal, Laboratorium,
+Schlafräume, Arbeits- und Studierzimmer, Speisesaal, Laboratorium,
 Werkstatt, Dunkelkammer usw., sowie die üblichen Nebenräume
 wie Küche, Badezimmer, Waschküche und dgl. Alles ist mit modernem
 Komfort ausgestattet; auch Kalt- und Warmwasserleitung fehlen

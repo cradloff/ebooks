@@ -12,7 +12,7 @@ Rohr könnte z. B. ähnlich wie in Abb. 77‚ D bzw. K ausgeführt sein.</p></di
 
 Zu diesem Zwecke befindet sich die ganze Luft der Raumwarte in ständigem
 Kreislauf: zwischen den Räumen, in denen sie benötigt wird, und einer
-*Belüftungsanlage*, in welcher ihre Reinigung; Auffrischung und Erwärmung
+*Belüftungsanlage*, in welcher ihre Reinigung, Auffrischung und Erwärmung
 erfolgt. Ein großer, elektrisch angetriebener *Ventilator* sorgt
 für die Aufrechterhaltung dieser Bewegung. Hierfür notwendige *Rohrleitungen*
 sind auch vorhanden. Sie münden durch kleine vergitterte Öffnungen (Abb. 60 und

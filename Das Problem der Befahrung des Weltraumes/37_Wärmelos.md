@@ -4,7 +4,7 @@ Wärmelos.
 
 Besonders bedeutungsvoll ist der Einfluß, den das Fehlen der
 Luft auf die *Wärmeverhältnisse* des Weltraums ausübt. Da
-die Wärme, wie man heute weiß, nichts anderes‘ist als ein bestimmter
+die Wärme, wie man heute weiß, nichts anderes ist als ein bestimmter
 *Bewegungszustand* der kleinsten materiellen Teilchen, aus
 denen sich die Körperstoffe aufbauen, ist ihr Auftreten stets an
 die Voraussetzung geknüpft, daß überhaupt Stoffe vorhanden sind.

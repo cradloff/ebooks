@@ -42,5 +42,5 @@ besonders jene von *Otto Willi Gail* hervorzuheben wären.
 Bevor wir uns nun der Erörterung der verschiedenen, bisher
 bekannt gewordenen Vorschläge zuwenden, muß erst noch Einiges
 über das *Grundsätzliche der Fahrtechnik* und des *Aufbaues*
-von Raketen—Raumfahrzeugen gesagt werden.
+von Raketen-Raumfahrzeugen gesagt werden.
 
