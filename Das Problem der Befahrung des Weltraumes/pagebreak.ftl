@@ -5,6 +5,6 @@
 <#else>
 	<#assign page++ />
 </#if>
-<span epub:type="pagebreak" id="page${page}" title="${page}"/>
+<span epub:type="pagebreak" id="page${page}" title="${page}" xmlns:epub="http://www.idpf.org/2007/ops"/>
 </#macro>
 
