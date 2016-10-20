@@ -10,89 +10,34 @@
    id="svg2"
    width="537"
    height="804">
-  <defs
-     id="defs4">
+  <defs>
+    <style type="text/css">
+    <![CDATA[
+      text {
+        fill: white;
+        font-family: 'Georgia', serif;
+        text-anchor: middle; }
+      .author   { font-size: 16pt; }
+      .title    { font-size: 24pt; }
+      .subtitle { font-size: 20pt; }
+      .verlag   { font-size: 16pt; }
+    ]]>
+    </style>
   </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     style="fill:#40727d;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
   <rect
      style="fill:#40727d;fill-opacity:1;stroke:#000000;stroke-width:0.7885918;stroke-opacity:1;"
-     id="rect4740"
+     id="background"
      width="537"
      height="804"
      x="0"
      y="0" />
-  <g
-     id="layer2" />
-  <text
-     xml:space="preserve"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:100%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="67.54303"
-     y="740.03571"
-     id="text4751-1"><tspan
-       id="tspan4753-3"
-       x="67.54303"
-       y="740.03571"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">RICHARD CARL SCHMIDT &amp; CO. / BERLIN</tspan></text>
-  <g
-     transform="translate(10.776398,43.114203)"
-     id="g5150">
-    <text
-       id="text4751"
-       y="96.329399"
-       x="113.43044"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:100%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         y="96.329399"
-         x="113.43044"
-         id="tspan4753">HERMANN NOORDUNG</tspan></text>
-    <text
-       id="text4759"
-       y="157.85143"
-       x="257.15237"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         y="157.85143"
-         x="257.15237"
-         id="tspan4761">DAS</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="tspan4763"
-         y="187.85143"
-         x="257.15237">PROBLEM DER BEFAHRUNG</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="tspan4765"
-         y="217.85143"
-         x="257.15237">DES WELTRAUMS</tspan><tspan
-         id="tspan4771"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         y="247.85143"
-         x="257.15237">*</tspan></text>
-    <text
-       id="text4751-6"
-       y="265.43719"
-       x="116.59817"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:100%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
-         y="265.43719"
-         x="116.59817"
-         id="tspan4753-4">DER RAKETEN-MOTOR</tspan></text>
-  </g>
+  <text x="270" y="140" class="author">HERMANN NOORDUNG</text>
+  <text x="270" y="200" class="title">DAS</text>
+  <text x="270" y="230" class="title">PROBLEM DER BEFAHRUNG</text>
+  <text x="270" y="260" class="title">DES WELTRAUMS</text>
+  <text x="270" y="290" class="title">*</text>
+  <text x="270" y="310" class="subtitle">DER RAKETEN-MOTOR</text>
+  <text x="270" y="740" class="verlag">RICHARD CARL SCHMIDT &amp; CO. / BERLIN</text>
   <image
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAABiCAYAAAC8h5bHAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
 WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4AoFFBcDIFuHMQAAGl1JREFUeNrtXWmYVcW1Xca8IXmP
