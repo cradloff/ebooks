@@ -22,7 +22,7 @@ Im Zusammenhange damit müssen (wenigstens soweit es sich um
 \<@pagebreak 184/> Raumraketen für flüssigen Betriebsstoff handelt) Erfahrungen gesammelt
 werden in der hierzu notwendigen Anwendungsweise
 verflüssigter Gase, wie insbesondere des flüssigen Sauerstoffes,
-dann des flüssigen Wasserstoffs u. a. Weiterhin Wäre durch
+dann des flüssigen Wasserstoffs u. a. Weiterhin wäre durch
 Laboratoriumsversuche das Verhalten der Metalle bei extrem niederen
 Temperaturen zu prüfen, um das als Baustoff für Raumschiffe
 am besten geeignete Material zu ermitteln. Schließlich

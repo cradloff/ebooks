@@ -5,8 +5,8 @@ Die Erreichbarkeit der benachbarten Gestirne.
 Hohmann hat das Problem der Fahrt zu fremden Himmelskörpern
 eingehend untersucht. Nach seinen Ergebnissen würde,
 in irdischem Zeitmaß ausgedrückt, die Fernfahrt von der Erde zur
-Venus 146 und jene zum Mars 235 Tage dauern. Eine Rund-
-reise mit Vorbeifahrt sowohl bei der Venus als auch beim Mars
+Venus 146 und jene zum Mars 235 Tage dauern. Eine Rundreise
+mit Vorbeifahrt sowohl bei der Venus als auch beim Mars
 in dem verhältnismäßig geringen Abstand von etwa 8 Millionen
 Kilometer könnte in der Zeit von ungefähr 1½ Jahren durchgeführt
 werden. Für den Besuch der Venus mit Landung auf

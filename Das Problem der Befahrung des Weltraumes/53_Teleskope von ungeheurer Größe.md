@@ -11,7 +11,7 @@ infolge der herrschenden Schwerelosigkeit sehr günstig. Die für
 das Fernbewegen der Geräte bzw. ihrer Bestandteile notwendige
 elektrische Energie ist in der Raumwarte ebenfalls vorhanden.
 
-50 wäre es z.B. möglich, selbst kilometerlange Spiegelteleskope
+So wäre es z.B. möglich, selbst kilometerlange Spiegelteleskope
 in einfacher Weise dadurch zu erhalten, daß man elektrisch einstellbare,
 parabolische Spiegel entsprechend weit vom Beobachter
 im leeren Weltraum *schwebend* postiert. Derartige und ähnliche

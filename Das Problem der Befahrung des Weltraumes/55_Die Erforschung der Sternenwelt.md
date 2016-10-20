@@ -41,7 +41,7 @@ Sonnensystems und der Erde schließen zu können.
 All diese Forschungsergebnisse hätten aber außer ihrem sonstigen
 Wert auch für die weitere *Ausgestaltung der Raumschiffahrt*
 selbst die größte Bedeutung; denn sind uns die Verhältnisse in
-jenen Gebieten des Weltraums und auf den. Himmelskörpern,
+jenen Gebieten des Weltraums und auf den Himmelskörpern,
 welchen unsere Reise gilt, einmal genau bekannt, dann würde
 eine Weltraumfahrt nicht mehr ins Ungewisse gehen und dürfte
 so auch manches an Gefährlichkeit verlieren.

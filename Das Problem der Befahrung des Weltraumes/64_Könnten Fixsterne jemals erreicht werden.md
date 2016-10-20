@@ -37,7 +37,7 @@ Mindestens ist die Wahrscheinlichkeit, daß dies so sei, in vorliegendem
 Fall bedeutend größer, als wenn wir nur die verhältnismäßig
 wenigen Gestirne unseres Sonnenreiches hierfür in Betracht ziehen.
 
-Doch Wäre es denn überhaupt denkbar, daß jene unermeßlichen
+Doch wäre es denn überhaupt denkbar, daß jene unermeßlichen
 Entfernungen, die uns selbst von den nächsten dieser
 Fixsterne noch trennen, von Menschen je zurückgelegt werden
 könnten, allein nur mit Rücksicht auf die Grenze, welche der
@@ -62,10 +62,10 @@ höchstzulässiger Beschleunigung bzw. Verzögerung, in der kürzesten
 überhaupt erreichbaren Zeit durcheilt wird.
 
 <div class="image right"><img alt="Veranschaulichung der Geschwindigkeit bei ständiger Beschleunigung" src="abb100.png"/>
-Abb. 100. Zurücklegung einer Entfernung, wenn auf
+<p>Abb. 100. Zurücklegung einer Entfernung, wenn auf
 der ganzen ersten Hälfte des Weges gleichförmig
 <em>beschleunigt</em> und auf der zweiten ebenso <em>verzögert</em>
-wird. Die höchste Bewegungsgeschwindigkeit ergibt sich dabei in der Wegmitte.</div>
+wird. Die höchste Bewegungsgeschwindigkeit ergibt sich dabei in der Wegmitte.</p></div>
 
 Erfolgte nun die Fahrt zu den benachbarten Fixsternen auf
 *diese* Weise, dann würden sich für die gesamte Reise *hin und
@@ -73,7 +73,7 @@ zurück* (wie sie bei erstmaligem Besuch in Einem ausgeführt werden
 müßte) rechnungsmäßig folgende Zeiten ergeben: 7 Jahre zum
 Alpha-Centauri, dem nächsten uns bekannten Fixstern; 10 Jahre
 zu den vier in der Entfernung dann folgenden Fixsternen; mit
-12jähriger Gesamtreisezeit Wären schon
+12jähriger Gesamtreisezeit wären schon
 zahlreiche Fixsterne erreichbar.
 
 Hierbei wurde allerdings stillschweigend vorausgesetzt, daß im
@@ -89,7 +89,7 @@ ergeben würde, um Fahrgeschwindigkeiten zu erreichen, die sich
 der Größenordnung der Lichtgeschwindigkeit nähern: dann könnte
 man immerhin noch mit einer Gesamtreisezeit, einschließlich *Hin-
 \<@pagebreak /> und Rückfahrt*, von rund 10 Jahren den Fixstern Alpha-Centauri,
-von 20 Jahren die vier weiteren‚und von 30 Jahren
+von 20 Jahren die vier weiteren und von 30 Jahren
 bereits eine beträchtliche Zahl der uns bisher bekannten, benachbarten
 Fixsterne erreichen.
 
@@ -113,7 +113,7 @@ bewirkte Nutzbarmachung der in der Materie gebundenen
 Energie, oder die Auswertung des Radiumzerfalles,
 der Kathodenstrahlung usw.
 Allerdings, wie weit sind wir bis heute noch davon entfernt,
-solche Naturvorgänge derartig-vollkommen zu beherrschen, daß
+solche Naturvorgänge derartig vollkommen zu beherrschen, daß
 man dieselben für vorliegende Raumfahrtzwecke technisch nutzen
 könnte! Und ob dies überhaupt gelingen wird?
 

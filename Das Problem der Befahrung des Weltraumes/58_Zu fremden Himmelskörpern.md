@@ -9,15 +9,15 @@ es sich nun aber mit dem eigentlichen Zweck der Raumfahrt:
 sich von der Erde gänzlich loszulösen und fremde Himmelskörper
 zu erreichen?
 
-Zuvor noch kurz ein Bild der Sternenwelt, wenn sie vom Stand-
-punkte der Raumschiffahrt, also als zukünftiges Bereisungsgebiet
+Zuvor noch kurz ein Bild der Sternenwelt, wenn sie vom Standpunkte
+der Raumschiffahrt, also als zukünftiges Bereisungsgebiet
 angesehen wird. Vor allem heißt es da: den Rahmen der gewohnten
 Vorstellung erweitern; denn wollen wir als unsere Welt
 das ganze All betrachten, dann wird, was uns bisher als Welt
 erschien, die Erde, nur mehr — zu unserer „*engeren Heimat*”.
 Nicht sie allein! Auch alles, was sie durch ihre Schwerkraft an
 sich gefesselt hält, wie die zukünftige Weltraumwarte, ja selbst
-der Mond muß noch Zu unserer engeren Heimat im Weltenall:
+der Mond muß noch zu unserer engeren Heimat im Weltenall:
 zum „*Reich der Erde*" gerechnet werden; denn wie gering ist
 der rund 380000 km messende Abstand des Mondes von der Erde,
 im Vergleiche zu den anderen Weltraumweiten! Beträgt er doch

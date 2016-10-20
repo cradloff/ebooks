@@ -19,8 +19,8 @@ her bekannten Betriebsstoffen wohl auch *unmittelbar* von der
 Erdoberfläche aus vornehmen ließe, wäre eine *Umfahrung des
 Mondes*, zwecks näherer Erforschung seiner Oberflächenbeschaffenheit,
 \<@pagebreak 170/> insbesondere auf der von der Erde ständig abgekehrten
-Seite desselben. Hierbei könnte man sich von ihm auch „ein-
-fangen” lassen, um ihn als Mond des Mondes in einer freien Umlaufbahn
+Seite desselben. Hierbei könnte man sich von ihm auch „einfangen”
+lassen, um ihn als Mond des Mondes in einer freien Umlaufbahn
 beliebig oft zu umkreisen. Die für dieses Unternehmen
 erforderliche Betriebsstoffmenge wäre nicht viel größer als für
 einen normalen Aufstieg von der Erde bis zur Erreichung der

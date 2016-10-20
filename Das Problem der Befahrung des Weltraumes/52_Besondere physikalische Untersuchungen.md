@@ -38,6 +38,6 @@ Materie gebundenen, ungeheuren Energiemengen zu finden.
 Schließlich könnte, mit Rücksicht auf die besonderen Möglichkeiten,
 welche eine Raumwarte bieten würde, vermutlich auch
 die Frage des Polarlichtes, dann gewisser kosmischer Strahlen und
-mancher anderer noch nicht Völlig aufgeklärter Naturerscheinungen
+mancher anderer noch nicht völlig aufgeklärter Naturerscheinungen
 einer endgültigen Lösung zugeführt werden.
 

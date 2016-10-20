@@ -22,7 +22,7 @@ heute schon *mindestens* erreichbar wäre, kann garnicht mehr
 \<@pagebreak 188/> bezweifelt werden. Es wird um so eher gelingen, je früher und
 in je großzügigerer und ernster, wissenschaftlicher Weise an die
 *praktische* Bearbeitung des Problems geschritten wird, wenn
-man sich auch keiner Täuschung hingehen darf über die Größe
+man sich auch keiner Täuschung hingeben darf über die Größe
 der dabei noch zu bewältigenden Schwierigkeiten.
 
 Doch der Zweck der vorliegenden Betrachtungen ist auch nicht

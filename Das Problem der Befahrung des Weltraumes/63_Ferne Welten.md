@@ -36,7 +36,7 @@ unermeßlich fern am Sternenhimmel sahen, von uns besucht,
 Ein uralter Menschheitstraum! Ob seine Erfüllung uns auch
 Nutzen brächte? Der *Wissenschaft* gewiß, sie würde außerordentlich
 gewinnen. Über den *praktischen* Wert aber ist heute
-noch kein eindeutige‘s Urteil möglich. Wie wenig wissen wir
+noch kein eindeutiges Urteil möglich. Wie wenig wissen wir
 doch selbst von unseren nächsten Nachbarn unter den Gestirnen!
 
 Der *Mond*, noch ein Teil des Erdenreichs, unserer „engeren
