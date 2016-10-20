@@ -48,7 +48,7 @@ blockquote p {
 
 /* Link zu Fußnote */
 a.refnote {
-	font-size: small;
+	font-size: x-small;
 	vertical-align: super;
 }
 
@@ -89,10 +89,12 @@ a.footnote {
 }
 
 /* einfache Hervorhebung durch g e s p e r r t e n Text */
+/*
 em {
 	font-style: normal;
 	letter-spacing: 0.15em;
 }
+*/
 
 /* starke Hervorhebung (analog entsprechendem Tag) */
 .strong {
