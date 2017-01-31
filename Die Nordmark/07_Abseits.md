@@ -1,6 +1,6 @@
-<h>Abseits.</h>
+<h2>Abseits.</h2>
 
-<em>Von Theodor Storm.</em>
+<h3>Von Theodor Storm.</h3>
 
 <pre>Es ist so still; die Heide liegt
 im warmen Mittagssonnenstrahle,
@@ -21,13 +21,14 @@ steht einsam hier und sonnbeschienen,
 der Kätner lehnt zur Tür hinaus,
 behaglich blinzelnd nach den Bienen;
 sein Junge aus dem Stein davor
-schnitzt Pfeifen sich aus Kälberrohr.</pre> 
-<pre>Kaum zittert durch die Mittagsruh'
+schnitzt Pfeifen sich aus Kälberrohr.
+
+Kaum zittert durch die Mittagsruh'
 ein Schlag der Dorfuhr, der entfernten;
 dem Alten fällt die Wimper zu,
 er träumt von seinen Honigernten.
 -- Kein Klang der aufgeregten Zeit
 drang noch in diese Einsamkeit.</pre>
 
-<em>Aus: Theodor Storm, Gedichte. (Berlin, Gebr. Partei.)</em>
+<div class="source">Aus: Theodor Storm, Gedichte. (Berlin, Gebr. Partei.)</div>
 

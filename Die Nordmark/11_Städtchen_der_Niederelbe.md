@@ -1,6 +1,6 @@
-<h>Städtchen der Niederelbe.</h>
+<h2>Städtchen der Niederelbe.</h2>
 
-<pre><h>Von Jean Paul d'Ardeschah.</h></pre>
+<h3>Von Jean Paul d'Ardeschah.</h3>
 
 Die mächtige Niederelbe, die Hamburg reich und groß gemacht hat,
 hat sonst keine andere Stadt annähernd so begünstigt. Es mögen
@@ -11,9 +11,8 @@ Da gibt es Städtchen, die so stolz auf ihrer Geesthöhe liegen wie
 Lauenburg; der Strom zieht tief unten vorüber; jeglicher Zutritt
 ins Innere der Stadt ist ihm verwehrt. Schmal nur drückt sich ein 
 
-<bild/>
+<div align="center" float="left"><img alt="Windmühle am Seestrand" src="0033.jpg"/>Vom Seestrand bei Husum.</div>
 
-<bu>Vom Seestrand bei Husum.</bu> 
 Häuserstreifen zwischen das Wasser und die aufsteigenden steinumsäumten
 Terrassen der Anhöhen; keine stille Bucht breitet sich
 aus zum freundlichen Willkomm der nahenden Schiffe, kein Hafen
@@ -78,7 +77,7 @@ einen Augenblick lang halten können. So pflegt sich der Schein
 an dem zu rächen, der vom Scheine lebt, doch die meisten wissen
 nichts davon. Sie verschlafen die Stunden solcher Offenbarungen.
 
-Ein anderer Typus ist das <g>versandete</g> Städtchen der Niederelbe.
+Ein anderer Typus ist das <span class="g">versandete</span> Städtchen der Niederelbe.
 Hier ist nicht das Städtchen sondern umgekehrt die Elbe das abwehrende
 Element. Das Städtchen lugt auf bläulich hügeligem
 Geesthintergrund mit spitzen roten Dächern und ältlichen, meistens
@@ -133,7 +132,7 @@ zusammenfügt und durch das Rosseelement des benachbarten Kehdinger
 Landes etwas Überzeugend-Körperhaftes gewinnt, kommt das
 Dunkle stärker zum Ausdruck.
  
-Auch <g>werdende</g> Städtchen an der Niederelbe bilden einen besonderen
+Auch <span class="g">werdende</span> Städtchen an der Niederelbe bilden einen besonderen
 Typus. Ihre Zahl ist nicht groß. Eher modernen Hilfsmitteln
 als einer Naturnotwendigkeit verdanken sie ihr Wachstum,
 und es bleibt abzuwarten, wie sich die Elbe mit ihnen auseinandersetzen
@@ -183,7 +182,7 @@ die Kirchturmspitzen grün malt und die Straßen und Fleete mit
 bläulichem Dunst füllt -- und Glückstadt, wo der letzte verschlickte
 Kanal am Marktplatz im Mittelpunkte der Stadt zugeschüttet wurde,
 angeblich wegen seines Gestankes, wo der Schlickfall im Hafen täglich
-fast 1œ Zoll erreicht, -- das sind zwei recht verschiedene
+fast 1½ Zoll erreicht, -- das sind zwei recht verschiedene
 Welten. Nur noch nachts bei spärlichem Laternenscheine erwacht
 in den schnurgeraden Straßen Glückstadts ein seltsam gespenstiges
 Leben. Dann sehen die langen Häuserreihen, aus denen die Dunkelheit

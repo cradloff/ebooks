@@ -1,19 +1,19 @@
 h1 {
 	text-align: center;
-	font-size: x-large;
+	font-size: xx-large;
 	font-weight: normal;
 }
 
 h2 {
 	text-align: center;
-	font-size: normal;
-	font-weight: bold;
+	font-size: x-large;
+	font-weight: normal;
 }
 
 h3 {
 	text-align: center;
-	font-size: large;
-	font-weight: bold;
+	font-size: normal;
+	font-weight: normal;
 }
 
 p {
@@ -24,7 +24,43 @@ blockquote p {
 	white-space: pre-wrap;
 	text-indent: 0em;
 	padding-left: 0.5em;
-	font-family: cursive;
+	font-family: serif;
+}
+
+/* Gedichte sind mit <pre> formatiert */
+pre {
+	white-space: pre-wrap;
+	padding-left: 1em;
+	font-family: serif;
+}
+
+/* Zitat */
+.quote {
+	white-space: pre-wrap;
+	text-align: right;
+}
+
+/* Quellen-Angabe (i.d.R. am Ende) */
+.source {
+	white-space: pre-wrap;
+	text-align: center;
+	font-size: small;
+}
+
+/* zentriert */
+.center {
+	text-align: center;
+}
+
+/* rechtsbündig */
+.right {
+	text-align: right;
+}
+
+/* statt italic wird eine serifenlose Schrift verwendet */
+i {
+	font-style: normal;
+	font-family: sans-serif;
 }
 
 /* cover */

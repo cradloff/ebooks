@@ -1,6 +1,6 @@
-<h>Heidebilder.</h>
+<h2>Heidebilder.</h2>
 
-<em>Von Detlev v. Liliencron.</em>
+<h3>Von Detlev v. Liliencron.</h3>
 
 <pre>Tiefeinsamkeit spannt weit' die schönen Flügel,
 weit über stille Felder aus.
@@ -10,9 +10,9 @@ sie schützen vor dem Menschengraus.
 Im Frühling rauscht in mitternächt'ger Stunde
 die Wildgans hoch in raschem Flug.
 Das alte Gaukelspiel: in weiter Runde
-hör' ich Gesang im Wolkenzug.</pre>
+hör' ich Gesang im Wolkenzug.
  
-<pre>Verschlafen sinkt der Mond in schwarze Gründe,
+Verschlafen sinkt der Mond in schwarze Gründe,
 beglänzt noch einmal Schilf und Rohr.
 Gelangweilt ob so mancher holden Sünde
 verläßt er Garten, Wald und Moor.</pre>
@@ -56,9 +56,9 @@ der alte Schimmel ihn ins Dorf.</pre>
 <pre>Die Sonne leiht dem Schnee das Prachtgeschmeide;
 doch ach! wie kurz ist Schein und Licht.
 Ein Nebel tropft, und traurig zieht im Leide
-die Landschaft ihren Schleier dicht.</pre>
+die Landschaft ihren Schleier dicht.
  
-<pre>Ein Häslein nur fühlt noch des Lebens Wärme;
+Ein Häslein nur fühlt noch des Lebens Wärme;
 am Weidenstumpfe hockt es bang.
 Doch kreischen hungrig schon die Rabenschwärme
 und hacken auf den sichern Fang.
@@ -73,6 +73,6 @@ die Erika das rote Band.
 Von Menschen leer, was braucht es noch der Worte,
 sei mir gegrüßt, du stilles Land!</pre>
 
-<em>Aus: Detlev v. Lillencron, Sämtliche Werke.
-(Berlin, Schuster & Loeffler.)</em>
+<div class="source">Aus: Detlev v. Lillencron, Sämtliche Werke.
+(Berlin, Schuster &amp; Loeffler.)</div>
 

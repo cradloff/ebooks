@@ -1,16 +1,12 @@
-<bild/>
+<h1>II. Gedenkblätter aus der Landesgeschichte.</h1>
 
-<bu>Aus dem Sachsenwald</bu> 
+<h2>a. Aus grauer Vorzeit.</h2>
 
-<h>II. Gedenkblätter aus der Landesgeschichte.</h>
+<h2>Runensteine.</h2>
 
-<h>a. Aus grauer Vorzeit.</h>
+<h3>Von Johannes Dose.</h3>
 
-<h>Runensteine.</h>
-
-<h>Von Johannes Dose.</h>
-
-<em>A</em>lle wirklichen Erholungsreisen, die Körper und Geist wie ein
+Alle wirklichen Erholungsreisen, die Körper und Geist wie ein
 frisches Naturbad stärken und erquicken sollen, dürfen beileibe
 nicht auf zwei oder mehr Rädern sondern müssen zu Fuß und
 mit dem Stabe in der Hand gemacht werden. Insonderheit die
@@ -218,7 +214,7 @@ wild und schauerlich gen Gottes Himmel empor. Kein Feld noch
 Fleck des Landes ist mit so viel Menschenblut gedüngt worden.
 Nirgends hat der Männermord so heftig und anhaltend getobt wie
 auf dieser Walstatt der deutschen und dänischen Stämme, die doch
-die <g>eine</g> urgermanische Mutter haben.
+die <span class="g">eine</span> urgermanische Mutter haben.
 
 Darum ist auch hier im Gebiete des Dannevirke von jeher der
 große Fundort für die Heldendenkmäler der Vorzeit, für die Runensteine
@@ -228,7 +224,7 @@ Wedelspang, gefunden und nach Luisenlund, dem nahe gelegenen
 Schlosse der herzoglichen Linie von Schleswig-Holstein-Glücksburg,
 überführt. Noch heute kann der Besucher des Schloßparks den
 3œ Ellen hohen, rötlichen Granitstein sinnend betrachten und, wenn
-er runenkundig ist, seine Inschrift lesen[RN].
+er runenkundig ist, seine Inschrift lesen<a class="refnote" id="rn1" href="#fn1">*)</a>.
 
 Sie lautet: »Thorolf ritzte diesen Stein über Erik, seinen Genossen,
 der fiel, da Helden saßen um (d. i. belagerten) Hethaby,
@@ -258,10 +254,6 @@ hohe Steinmal setzte?
 
 Ein glücklicher Umstand führte im Jahre 1888 zur Entdeckung
 eines zweiten Runensteins, den eben diese Asfride zum Gedächtnis
-
-[FN]In letzter Zeit, nach der Niederschrift, sind die Luisenlunder Runensteine 
-ins Kieler Museum überführt worden.]
- 
 ihres Sohnes hat ritzen lassen. Bei den Kasernenbauten, die
 man damals im Gottorper Schlosse und seiner nächsten Umgebung
 vornahm, wurden auch die Fundamente der alten Bastionen ausgehoben,
@@ -324,7 +316,7 @@ unmöglichen Kampfes sich getraute. Aber der, welcher nichts als
 die Eisenrüstung des Glaubens trug, siegte nach langem und hartem
 Strauße und behielt das Feld.
 
-Auch hier hat es sich bewahrheitet: <em>Tandem vicisti, Galilaee!</em>
+Auch hier hat es sich bewahrheitet: <i>Tandem vicisti, Galilaee!</i>
 Der arme Galiläer hat alle die starken Asengötter, Odin, den großen
 Heer- und Siegesvater, und Thor, den Hammerschleuderer und
 gigantischen Donnergott, in den Staub geworfen und in die Erdtiefe
@@ -336,8 +328,7 @@ das auf diesem Boden durch viele Säkula thronte und Opfer
 und Anbetung erfuhr, und dem deutschen Christentum, das Ansgars
 Jünger verkündeten, und dem um das Jahr 970 endlich die
 deutschen Kaiser im ganzen Norden zur Herrschaft verhalfen, indem
-sie es auf ihren Schwertspitzen siegreich über das Dannevirke hinaustrugen.
---
+sie es auf ihren Schwertspitzen siegreich über das Dannevirke hinaustrugen. --
 
 Tausend Jahre gehen vor Gott wie ein Tag aber vor dem
 kleinlichen Geiste der staubgebornen Eintagsfliege, die sich Mensch
@@ -408,6 +399,9 @@ jenem frühen Jahrhundert die Heimat, in der sie geboren waren,
 lebten und sterben wollten, und darum das vielteuerste und vielschönste
 Land der Erde gewesen.
 
-<em>Aus: Johannes Dose, Des Kreuzes Kampf ums Dannevirke.
-(Schwerin, Friedr. Bahn.)</em>
+<div class="source">Aus: Johannes Dose, Des Kreuzes Kampf ums Dannevirke.
+(Schwerin, Friedr. Bahn.)</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> In letzter Zeit, nach der Niederschrift, sind die Luisenlunder Runensteine 
+ins Kieler Museum überführt worden.</div>
 

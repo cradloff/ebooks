@@ -1,15 +1,13 @@
-Am Rande der Welt.
-==================
+<h2>Am Rande der Welt.</h2>
 
-Skizze von Thusnelda Kühl.
---------------------------
+<h3>Skizze von Thusnelda Kühl.</h3>
 
 Julinacht liegt über dem Stranddorf, milchweiße Mondstrahlen
 gleiten durch die alten Eschenkronen, die ruhelos im Winde beben.
 Dieser Wind ist sanft und singend und weckt die arbeitsmüden
 Menschen nicht, die in den niedrigen Häusern auf hoher Werft
 schlafen. Manche haben im Außendeich 
-»geschwehlt«<a class="refnote" id="rn1" href="#fn1">1</a>, und ihre
+»geschwehlt«<a class="refnote" id="rn1" href="#fn1">*)</a>, und ihre
 Kleider sind voll vom süßen Duft des Heus, in dem Strandastern
 und Thymian geblüht haben -- andere haben mit Spaten und
 Schaufel auf dem Damm gestanden, der zwischen dem Festlande
@@ -102,8 +100,8 @@ einem Rettungswerk ist's geschehen, daß sich der Starke den Keim
 zu frühem Sterben geholt hat. Auf seinem verwitterten Denkstein
 steht, kaum leserlich noch:
 
-<pre>Wir vergessen dich nimmer!
-Die Wattenfischer.</pre>
+<div class="center">Wir vergessen dich nimmer!</div>
+<div class="right">Die Wattenfischer.</div>
 
 Drüben, im Schatten des Holunders liegt das alte wetterschiefe
 Haus, in dem einst »der starke Schmied« gewohnt hat, der Hufeisen
@@ -153,7 +151,11 @@ der Welt. Manch Tüchtiger ist noch von seinen Werften hinausgewandert und hat K
 Noch ist es ein altes, ein stilles Erdenfleckchen, die Wellen
 hinter dem Deich singen und rauschen von der Welt, die unter
 ihren Füßen ruht; die Winde streichen um die alten Häuserlein, in
-denen noch Genügsamkeit und Frohsinn am Herd sitzen mit der Sage, die,[*] nimmermüde, von vergangenen Tagen spricht -- aber schon steigt auch hier wie ein Riese die neue Zeit empor und überschattet Küste, Flut und Eiland. Nicht lange mehr wird man reden dürfen von dem Dörflein »am Rande der Welt«.
+denen noch Genügsamkeit und Frohsinn am Herd sitzen mit der Sage,
+die, nimmermüde, von vergangenen Tagen spricht -- aber schon
+steigt auch hier wie ein Riese die neue Zeit empor und überschattet
+Küste, Flut und Eiland. Nicht lange mehr wird man reden dürfen
+von dem Dörflein »am Rande der Welt«.
 
-<div class="footnote" id="fn1"><a href="#rn1">1</a>Heu gewendet (friesisch).</div>
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Heu gewendet (friesisch).</div>
 

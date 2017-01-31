@@ -1,18 +1,18 @@
-<h>Das Dannevirke</h>.
+<h2>Das Dannevirke.</h2>
 
-<h>Von Friedrich Quehl.</h>
+<h3>Von Friedrich Quehl.</h3>
 
-<em>W</em>ohl das interessanteste Befestigungswerk und gleichzeitig das 
+Wohl das interessanteste Befestigungswerk und gleichzeitig das 
 erhabenste Denkmal nordalbingischer Vergangenheit, das in seiner
-Eigenart dem <em>limes romanus</em> in nichts nachsteht und auf einen mehr 
+Eigenart dem <i>limes romanus</i> in nichts nachsteht und auf einen mehr 
 als tausendjährigen Ursprung zurückblicken kann, ist das Dannevirke,
 die gewaltige Schutzwehr der Dänen nach Deutschland zu,
 die dem Vordringen der südlich der Schlei wohnhaften germanischen
 Völkerstämme geraume Zeit lang trotzigen Widerstand zu leisten
 vermochte. Die ganze bedeutungsvolle Anlage, nicht von gestern
 auf heute entstanden, ist noch in unseren Tagen eine imposante
-Schöpfung und das Ziel der kleinen Menschenflutwelle, die all-* 
-*jährlich auch über diese Gegend sich ergießt, deren Mittelpunkt die
+Schöpfung und das Ziel der kleinen Menschenflutwelle, die alljährlich
+auch über diese Gegend sich ergießt, deren Mittelpunkt die
 mythenhafte Handelsstadt Hithabu ist. Ein Sagenkranz von Immortellen
 umflicht diesen Erdwall, wuchernd und tausendfältige
 Blüten treibend, wo an grauen Herbstabenden verheißend, sinnend
@@ -202,19 +202,21 @@ dieser Steine heißen im Volksmunde die Sigtryggsteine, während
 der dritte der Erik- und der vierte der Skarthestein genannt werden.
 Ihre Inschriften sind:
 
-a)	Asfrid machte dies Grabdenkmal, die Tochter Odinkars nach
-Sigtrygg den König, ihren und Gnupas Sohn.
+<ol type="a">
+<li>Asfrid machte dies Grabdenkmal, die Tochter Odinkars nach
+Sigtrygg den König, ihren und Gnupas Sohn.</li>
 
-b)	Asfrid machte dies Grabdenkmal nach Sigtrygg, ihrem auch
-Gnupas Sohn.
+<li>Asfrid machte dies Grabdenkmal nach Sigtrygg, ihrem auch
+Gnupas Sohn.</li>
 
-c)    Thorulf, der Gefolgsmann Svens, setzte diesen Stein dem
+<li>Thorulf, der Gefolgsmann Svens, setzte diesen Stein dem
 Erik, seinem Waffenbruder, der den Tod fand, als die Männer saßen
-um Haithabu, aber er war Schiffsführer, ein gar guter Mann.
+um Haithabu, aber er war Schiffsführer, ein gar guter Mann.</li>
 
-d)    König Sven setzte Stein nach Skarthe, seinem Heimdegen,
+<li>König Sven setzte Stein nach Skarthe, seinem Heimdegen,
 welcher war gefahren westwärts (d. h. nach England) und nun ward
-tot bei Hithabu.
+tot bei Hithabu.</li>
+</ol>
 
 Von Mutterliebe, Freundestreue und Heldenmut reden diese
 lapidaren Runenschriften, die das Eine gemeinsam haben, daß sie
@@ -233,9 +235,7 @@ mit allerlei fremdländischen Waren betrieben wurde. Auf der Suche
 nach Bernstein kamen Araber und Phönizier bis Hedeby; Bulgaren
 brachten Silber, das sog. Hacksilber, aus dem die Münzen damaliger
 
-<bild/>
-
-<bu>Inschrift des Skarthesteins.</bu>
+<div align="center" float="left"><img alt="mehrere Zeilen in Runen-Schrift" src="0071.gif"/>Inschrift des Skarthesteins.</div>
 
 Zeit geprägt wurden. Auch mit England, Holland und der Normandie
 wurden einträgliche Handelsbeziehungen gepflogen; die
@@ -250,7 +250,6 @@ sie in gleicher Art nur in der Gegend von Schleswig -- aus dem
 daß trotz der Mühsale der Landreisen mit den Thüringern Handelsbeziehungen
 bestanden.
 
- 
 Interessant ist, was der arabische Kosmograph Qazwînî im
 13\. Jahrhundert über Schleswig, die damals mächtigste Stadt in
 der Nähe des Dannewerks schreibt: Nach ihm ist Schleswig eine
@@ -298,11 +297,7 @@ neben bearbeiteten Geweihsprossen bezeugen die Herstellung von
 Beingegenständen. Auch das Schmiedehandwerk war nicht unbekannt,
 davon reden eiserne Nieten, Nägel und Äxte. Silber wurde zu
 
-<bu>phot. von Auqustiny-Kassel.</bu>
-
-<bild/>
-
-<bu>Der Runenstein bei Busdorf (Skarthestein).</bu>
+<div align="center">phot. von Auqustiny-Kassel.<img alt="Der Runenstein" src="0073.jpg"/>Der Runenstein bei Busdorf (Skarthestein).</div>
 
 Münzen, Spangen und Fibeln geformt und verarbeitet; selbst Goldsachen
 hat man in dem Schoße der Erde gefunden, die von Haddebys
@@ -332,15 +327,20 @@ einer der Sigtrygg- (Sigurd) Steine stand, zur Erinnerung an
 die Schlacht zwischen Oberselk, Wedelspang und Jagel am 3. Feb.
 1864 ein Stein mit der Inschrift auf die gefallenen Österreicher:
 
-<pre>»Den tapferen Gefährten                           Den braven Kameraden
-sei dieser Kranz gewunden,                       voll hohem Heldenmut,
-die hier in fremder Erde                             die unsern Sieg erkauften
-ihr kaltes Grab gefunden. --                        mit ihrem Herzensblut. --
+<pre style="float: left;">»Den tapferen Gefährten
+sei dieser Kranz gewunden,
+die hier in fremder Erde
+ihr kaltes Grab gefunden. --</pre>
 
-                           Heimwärts nach Östreichs Auen
-                           schwebt auf des Ruhmes Flügel
-                           der Name aller Helden
-                           vom Grab am Königshügel.«</pre>
+<pre style="float: right;">Den braven Kameraden
+voll hohem Heldenmut,
+die unsern Sieg erkauften
+mit ihrem Herzensblut. --</pre>
+
+<pre style="text-align: center;">Heimwärts nach Östreichs Auen
+schwebt auf des Ruhmes Flügel
+der Name aller Helden
+vom Grab am Königshügel.«</pre>
 
 Ein Denkmal, das wie die alten Runensteine noch nach einem
 Jahrtausend der Nachwelt die deutsche Waffenbrüderschaft verkünden

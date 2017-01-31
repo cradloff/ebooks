@@ -1,8 +1,8 @@
-<bild/>
+<div align="center" float="left"><img alt="Bauernhof umgeben von Bäumen und Feldern" src="0046.gif"/></div>
 
-<h>Zwischen den Knicks.</h>
+<h2>Zwischen den Knicks.</h2>
 
-<h>Von Georg Asmussen.</h>
+<h3>Von Georg Asmussen.</h3>
 
 Der Frühling hat in Angeln seinen Einzug gehalten. In den
 Gärten stecken die Kartoffeln ihre ersten grünen Blätter aus der
@@ -135,5 +135,5 @@ hervorlugen, sie gaukeln und schweben so leicht und lustig
 in den Lüften! -- Unsere Blicke und Wünsche und Gedanken folgen
 ihnen ins Weite, ins Blaue, in die Unendlichkeit.
 
-<em>Aus: Georg Asmussen, Stürme. (Dresden, Carl Reißner.)</em>
+<div class="source">Aus: Georg Asmussen, Stürme. (Dresden, Carl Reißner.)</div>
 

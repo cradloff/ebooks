@@ -1,6 +1,6 @@
-<h>Septemberfahrt.</h>
+<h2>Septemberfahrt.</h2>
 
-<pre><h>Von Adolf Köster.</h></pre>
+<h3>Von Adolf Köster.</h3>
 
 Wir haben eine Septemberfahrt gemacht. Nach Schleswig zu.
 Aber vom Meer her. Es war keine Herbstfahrt. Nimmermehr.

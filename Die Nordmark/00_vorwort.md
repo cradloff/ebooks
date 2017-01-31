@@ -15,7 +15,7 @@ Nun ist aber ihre Erhaltung und Pflege eine der vornehmsten
 Aufgaben der Volkserziehung. Denn in der Heimat wurzelt unsere
 Volkskraft. Die Heimat gleicht der Mutter: sie trägt, nährt, bildet
 und formt ihre Kinder an Leib und Seele; sie verleiht ihnen eigenartiges
-Gepräge, so daß sie in <g>ihrer</g> Art sich gebärden, in <g>ihrer</g>
+Gepräge, so daß sie in <div class="g">ihrer</div> Art sich gebärden, in <div class="g">ihrer</div>
 Art denken und reden, schaffen und wirken. Und selbst auf den Gebieten
 des freien Schaffens -- der Kunst --, die sich in den Dienst
 der ganzen Menschheit stellt, verleugnet das Meisterwerk heimatliche
@@ -82,5 +82,5 @@ haben.
 
 Altona, im August 1910.
 
-> Die Herausgeber.
+<div style="font-weight: bold; text-align: right;">Die Herausgeber.</div>
 

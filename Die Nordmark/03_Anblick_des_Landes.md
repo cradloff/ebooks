@@ -1,16 +1,16 @@
-<bild/>
+<div align="center" float="left"><img alt="Blick auf eine Allee" src="0009.gif"/></div>
 
-<h>I. Blick in das Land.</h>
+<h1>I. Blick in das Land.</h1>
 
-<h>Anblick des Landes.</h>[RN]
+<h2>Anblick des Landes.<a class="refnote" id="rn1" href="#fn1">*)</a></h2>
 
-<h>Von Dr. Ludwig Meyn.</h>
+<h3>Von Dr. Ludwig Meyn.</h3>
 
-<pre>
+<div class="quote">
 »Sollte man es denken, daß diese Seen, diese
 herrlichen Buchen, diese Hügel und Büsche Schweizer
-Täler zurückrufen!« Leop. v. Bach.
-</pre>
+Täler zurückrufen!«                  Leop. v. Bach.
+</div>
 
 Für Fremde und Einheimische hat ein Blick über die Naturbeschaffenheit
 und namentlich über die Naturschönheiten und Eigentümlichkeiten
@@ -29,11 +29,8 @@ ist eine andere geworden, dem Forscher und Künstler gegenüber,
 mehr aber noch für den Freund der nährenden Mutter Natur.
 
 Zwar nicht die schroffen Gegensätze zeigt unser Land, die das
-Gebirgsland bezeichnen; nicht sind die Klimate eines halben Erd-*
-
-[FN] Geschrieben vor 50 Jahren.]
- 
-*balles übereinander geschichtet, einfach wie der Charakter des Bewohners
+Gebirgsland bezeichnen; nicht sind die Klimate eines halben Erdballes
+übereinander geschichtet, einfach wie der Charakter des Bewohners
 ist die klimatische Natur; aber die Größe der Gletscher
 brauchen wir nicht anzustaunen, wenn die halbe Ostsee mit Eis bedeckt
 ist, oder wenn der Elbstrom die ungeheuren Schollen rauschend
@@ -156,4 +153,6 @@ Gesang und Geschrei ohne Ende erfüllt sie zur Sommerzeit. All
 dieser Schmuck aber tritt bis an den Spiegel der Ostsee; dort kommt
 hinzu die unendliche Fläche des Meeres, dort die leuchtenden Segel
 der Schiffe, dort die von Masten umgebenen blühenden Handelsstädte. 
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a>Geschrieben vor 50 Jahren.</div>
 

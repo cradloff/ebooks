@@ -1,10 +1,10 @@
-<bild/>
+<div align="center" float="left"><img alt="Herrenhaus an einem See eingerahmt von Bäumen" src="0050.gif"/></div>
 
-<h>Der Sachsenwald.</h>
+<h2>Der Sachsenwald.</h2>
 
-<h>Von Johannes Schmarje.</h>
+<h3>Von Johannes Schmarje.</h3>
 
-<em>D</em>as größte Waldgebiet der Nordmark ist der Sachsenwald. Dieser
+Das größte Waldgebiet der Nordmark ist der Sachsenwald. Dieser
 uralte, schöne Wald, in dem Fürst Otto v. Bismarck seinen
 Lebensabend zubrachte, und dessen Wipfel nun über seiner Grabstätte
 rauschen, bildete einst das umstrittene Grenzgebiet zwischen dem
@@ -83,7 +83,7 @@ Schwarzenbek, deren Hauptbestandteil eben der Sachsenwald ist, dem
 Fürsten Bismarck »in Anerkennung seiner großen Verdienste um
 das Vaterland als eine Dotation zum Eigentum«. Im Jahre 1763
 ließ ein Graf Friedrich zur Lippe, der die Jagd des Sachsenwaldes
-gepachtet hatte, ein Jagdhaus an der Au erbauen, das er <g>Friedrichsruh</g>
+gepachtet hatte, ein Jagdhaus an der Au erbauen, das er <span class="g">Friedrichsruh</span>
 nannte. Nach dem Abbruch dieses Hauses wurden dort
 drei Wirtshäuser erbaut; das schönste derselben hieß Fraskati, im
 Volksmund: Freßkate. Dieses ließ Fürst Bismarck zu einem Herrenhause
@@ -95,6 +95,6 @@ Verehrung und Dankbarkeit zu bezeugen. An der Südseite der
 Bahn, dem Herrenhause schräg gegenüber liegt das Mausoleum,
 in dem er mit seiner Gattin beigesetzt ist.
 
-<em>Aus: Johannes Schmarje, Die Provinz Schleswig-Holstein.
-»Landeskunde Preußens« Heft 5. (Stuttgart, W. Spemann.)</em>
+<div class="source">Aus: Johannes Schmarje, Die Provinz Schleswig-Holstein.
+»Landeskunde Preußens« Heft 5. (Stuttgart, W. Spemann.)</div>
 

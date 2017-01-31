@@ -1,6 +1,6 @@
-<h>Thingstätten.</h>
+<h2>Thingstätten.</h2>
 
-<em>D</em>as Volk der Nordmark übte sein Recht in Versammlungen aus,
+Das Volk der Nordmark übte sein Recht in Versammlungen aus,
 die unter freiem Himmel auf einem Platze gehalten wurden,
 der mit einer Reihe von Steinen eingehegt oder mit heiligen Eschen
 umgeben war und Thing (Dingstätte) hieß, mit welchem Worte auch
@@ -80,7 +80,7 @@ gemeine und schwere Verbrechen, die nicht mit Geld gesühnt werden
 konnten, wie Verräterei gegen das Vaterland, hinterlistigen Überfall
 und Meuchelmord, Dieberei, Bruch des Thingfriedens usw.,
 die mit Tod, Friedlosigkeit oder mit Sklaverei bestraft wurden.
-Holsteins Thingstätte war in der Umgegend von <g>Bornhöved</g> im
+Holsteins Thingstätte war in der Umgegend von <span class="g">Bornhöved</span> im
 östlichen Holstein, jetzt ein Kirchdorf, um 1300 eine Stadt. Als
 Schleswigs Thingstätte zur Zeit der Einführung des Christentums
 finden wir Urnehöved genannt, im Kirchspiel Bjolderup, Amts Apenrade.
@@ -88,5 +88,5 @@ Urnehöved hörte zuerst auf, Versammlungsplatz zu sein, als
 der Rathaussaal in Flensburg zum Sitzungssaals des Herrentages
 bestimmt wurde.
 
-<em>Aus: P. C. Grün, Das Vaterland. (Lesebuch.)</em>
+<div class="source">Aus: P. C. Grün, Das Vaterland. (Lesebuch.)</div>
 

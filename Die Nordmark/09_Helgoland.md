@@ -1,13 +1,13 @@
-<h>Helgoland.</h>
+<h2>Helgoland.</h2>
 
-<pre>Von M. J. Schleiden.</pre>
+<h3>Von M. J. Schleiden.</h3>
 
-<pre>Grün ist das Land, rot ist der Strand,
-weiß ist der Sand; das sind die Farben von Helgoland.</pre>
+<div class="qoute">Grün ist das Land, rot ist der Strand,
+weiß ist der Sand; das sind die Farben von Helgoland.</div>
 
 So lautet der Spruch, der die Farben der Helgoländer Flagge erklärt.
 Der Fremde, der im schaukelnden Nachen vom Dampfschiffe,
-das ihn von Hamburg hergebracht, zum schmalen <g>Vorlande</g>
+das ihn von Hamburg hergebracht, zum schmalen <span class="g">Vorlande</span>
 am Fuße des Felsens fährt, liest diesen Spruch an dem Spiegel
 mancher vor Anker liegenden Boote, zwischen denen sein Fahrzeug
 hindurchgleitet.
@@ -163,5 +163,6 @@ ins Angesicht zu sehen!«
 Wir schwiegen lange, dann schüttelten wir dem Alten still die
 Hand, und bald empfing uns alle die bunt gemalte Täfelung in dem
 reinlichen und behaglichen Zimmer unserer biedern Wirte.
-<pre><em>(Geschrieben vor reichlich 50 Jahren.)</em></pre>
+
+<div class="source">(Geschrieben vor reichlich 50 Jahren.)</div>
 

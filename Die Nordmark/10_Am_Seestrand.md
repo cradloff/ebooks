@@ -1,9 +1,8 @@
+<h2>Am Seestrand.</h2>
 
-<h>Am Seestrand.</h>
+<h3>Von Felix Schmeißer.</h3>
 
-<pre><h>Von Felix Schmeißer.</h></pre>
-
-Hier staht keen Büsch, hier staht keen Böm,
+<pre>Hier staht keen Büsch, hier staht keen Böm,
 blots gele Gras un Glockenblöm
 waßt vune rode Heidekant
 op Feld un Wall dal nah de Strand.
@@ -22,4 +21,5 @@ Wo still, wo eensam is dat Haff!
 Günt spegelt sick de Insel aff;
 de Mæl steiht still, as wenn se sleep,
 un Möven fleegen äwert Deep. --
+</pre>
 

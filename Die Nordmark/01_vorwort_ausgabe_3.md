@@ -24,5 +24,5 @@ schützen, auf daß Schleswig-Holstein bleibe »up ewig ungedeelt«.
 
 Altona, im Februar 1919.
 
-Die Herausgeber.
+<div style="font-weight: bold; text-align: right;">Die Herausgeber.</div>
 

@@ -1,4 +1,4 @@
-<bild/>
+<div align="center" float="left"><img alt="Der Donn" src="0044.gif"/></div>
 
 <h>Der Donn.</h>
 
@@ -55,7 +55,6 @@ auf welchen, unter welchen, zwischen welchen man so schön
 spielen konnte. Und dann die Marsch dicht daran, wo man sich im
 Springen über die Gräben ergötzen und üben konnte!
 
-<em>Aus: Klaus Harms, Lebensbeschreibung.</em>
-
-<em>»Bibliothek theologischer Klassiker« Bd. 7. (Gotha. F. A. Perthes.)</em>
+<div class="source">Aus: Klaus Harms, Lebensbeschreibung.
+»Bibliothek theologischer Klassiker« Bd. 7. (Gotha. F. A. Perthes.)</div>
 

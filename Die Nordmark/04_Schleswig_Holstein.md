@@ -1,10 +1,8 @@
-<bild/>
+<div align="center" float="left"><img alt="Blick auf Bauernhof und Windmühle an einem Bach" src="0013.gif"/></div>
 
-Schleswig-Holstein vor 300 Jahren.
-==================================
+<h2>Schleswig-Holstein vor 300 Jahren.</h2>
 
-Von H. Biernatzki.
-------------------
+<h3>Von H. Biernatzki.</h3>
 
 Die Halbinsel, auf der unser Vaterland liegt, erstreckt sich 12 Tagereisen 
 nach Norden, in der Breite 6 Tagereisen, nämlich zwischen
@@ -180,7 +178,7 @@ Waldmast; um Rendsburg ist der Boden sandig, aber jetzt durch
 den Fleiß der Landleute doch schon sehr angebaut und selbst mit
 Wiesen versehen worden. Holstein hat 4 Städte: Kiel, Rendsburg,
 Wilster und Neumünster, 35 landesherrliche und adlige Schlösser,
-60 Kirchen und <g>ein</g> Stift, nämlich Bordesholm. Kiel ist ausgezeichnet
+60 Kirchen und <span class="g">ein</span> Stift, nämlich Bordesholm. Kiel ist ausgezeichnet
 durch seinen bequemen Hafen, beträchtliche Fischerei, den
 besuchten Umschlag und als Sitz des Appellationsgerichts für die
 Städte. Die Einwohner treiben auch Handel und haben 20 Schiffe,
@@ -243,7 +241,7 @@ Stadt kommen. Schwabstedt ist ein schön gelegenes Schloß und
 ein Flecken, zum Bistum Schleswig gehörig; es sind hier im Osten
 und Westen nur Waldungen voll von Hirschen, Rehen, Ebern und
 Hasen, so daß hier die beste Jagd in beiden Herzogtümern ist.
-Herzog Adolf von Gottorf erlegte hier 1579 an <g>einem</g> Tage
+Herzog Adolf von Gottorf erlegte hier 1579 an <span class="g">einem</span> Tage
 80 Hirsche. Noch jetzt kommen sie oft dem Wanderer in großer
 Zahl entgegen und lassen sich selbst durch Drohungen nicht verscheuchen.
 
@@ -268,8 +266,8 @@ gehören zu Nordfriesland die Inseln Nordstrand, Ockholm, Amrum,
 Föhr, Sylt und Jordsand. Nordstrand ist 2 Meilen lang und enthält
 36 350 Demat nebst 3200 Demat Außendeichsland, ferner 22 Kirchspiele
 und 10 sehr gute Reeden. In der Mitte ist ein höher gelegener
-Landstrich, Moor genannt (jetzt Nordstrandischmoor). Ger-* 
-*hard Rantzau besitzt auf dieser Insel das adlige Gut Morsum. Die
+Landstrich, Moor genannt (jetzt Nordstrandischmoor). Gerhard
+Rantzau besitzt auf dieser Insel das adlige Gut Morsum. Die
 Einwohner sind gegen Fremde außerordentlich gastfrei; sonst sind
 ihnen die Untugenden unserer Zeit keineswegs fremd. Amrum ist
 besonders von Fischern bewohnt. Die Einwohner rühmen es, daß
@@ -294,9 +292,9 @@ Holzungen finden 5300 Schweine ihre Mast. Auch die Insel Ärrö
 (die bekanntlich jetzt auch nicht einen Baum mehr hat) ist mit Wäldern
 förmlich bedeckt und hat daher vorzügliche Jagd, besonders von Damwild,
 das sich dort in Menge und von seltener Größe findet. Die
-Insel Barsö bildet <g>ein</g> Kirchspiel, und die kleine Insel Aarö enthält
+Insel Barsö bildet <span class="g">ein</span> Kirchspiel, und die kleine Insel Aarö enthält
 4 Dörfer.
 
-<em>Aus der ersten vaterländischen Landesbeschreibung von Heinrich Rantzau
-auf Breitenburg.</em>
+<div class="source">Aus der ersten vaterländischen Landesbeschreibung von Heinrich Rantzau
+auf Breitenburg.</div>
 

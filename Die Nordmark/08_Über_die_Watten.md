@@ -1,6 +1,6 @@
-<h>Über die Watten.</h>
+<h2>Über die Watten.</h2>
 
-<pre><em>Von Wilhelm Lobsien.</em></pre>
+<h3>Von Wilhelm Lobsien.</h3>
 
 <pre>Durch meine Heimat möcht' ich mit dir wandern,
 wenn hell im Sonnenglanz die Watten liegen,
@@ -32,5 +32,5 @@ bei dessen Klang die Pulse dir geschlagen ....
 Mein Herz war draußen, als ich es gesungen,
 wo hoch am Wattenmeer die Deiche ragen.</pre>
 
-<em>Aus: Wilhelm Lobsien, Dünung. Gedichte. (Bremen, Carl Schünemann.)</em>
+<div class="source">Aus: Wilhelm Lobsien, Dünung. Gedichte. (Bremen, Carl Schünemann.)</div>
 
