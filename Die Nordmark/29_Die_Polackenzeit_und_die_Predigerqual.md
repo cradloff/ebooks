@@ -1,7 +1,6 @@
+<h2>Die Polackenzeit und die Predigerqual.</h2>
 
-<h>Die Polackenzeit und die Predigerqual.</h>
-
-<h>Von Johannes Dose.</h>
+<h3>Von Johannes Dose.</h3>
 
 Was ist Friede? Zwar hatte der Stadtschreiber von Osnabrück
 auf der hohen Ratstreppe der atemlos lauschenden Menge
@@ -122,7 +121,7 @@ sprach einen knirschenden Fluch über dasselbe. Das Herabstürzen
 des Glöckners vom Turm ist der erste Mord, den die Polacken in
 Hadersleben begangen haben -- aber nicht der letzte.
 
-Im Pharmakopol*)[RN] lag ein Offizier im Quartier, der sich von Tetzki
+Im Pharmakopol<a class="refnote" id="rn1" href="#fn1">*)</a> lag ein Offizier im Quartier, der sich von Tetzki
 nannte aber ein besseres Deutsch sprach als der Konrektor Schriever.
 Er war ein schöner Mann, sehr dunkel von Haar und Augen mit
 festgeschnittenen Lippen, die unnötige Worte nicht zu lieben schienen.
@@ -141,8 +140,6 @@ wo eine Waschküche war, untergebracht würden.
 Am Nachmittage, als Tetzki in seinem Zimmer ruhte, drang
 ein wilder Schwarm ins Haus und sogleich ins Pharmakopol, wo
 sie in die Büchsen die Nasen steckten, die Schubläden aufrissen
-
-[FN]*) Apotheke.] 
 und eine verschlossene Truhe erbrachen. Wie leblos sah Eisenberg
 diesem Unfuge zu und rührte nicht Fuß noch Mund. Ein Geselle
 griff nach der bauchigen Flasche im Fenster, die mit gefärbtem
@@ -239,7 +236,6 @@ eine blaßrote Münze.
 
 Hoyer antwortete durch Kopfschütteln, daß er kein Silber habe.
 
- 
 Der Greuel begann, und sie ergriffen den wehrlosen Mann.
 Des Sohnes Sinn wallte auf, und er sprang zu Hilfe. Aber flugs
 faßten sie ihn, schnürten ihm die Hände mit Stricken zusammen
@@ -267,7 +263,7 @@ und verhörte ihn in lateinischer Sprache. Ob er Schmerzen habe?
 Ob er von der Tortur frei sein wolle?
 
 Hoyer sah ihn an mit den flehenden Augen der gepeinigten
-Kreatur. Lauernd kam die dritte Frage: <em>Ubi est pecunia tua?</em> Wo
+Kreatur. Lauernd kam die dritte Frage: <i>Ubi est pecunia tua?</i> Wo
 er sein Geld versteckt habe. Er habe keins, und was er habe, gehöre
 dem Kirchspiel, war die Antwort. Das gelbliche Gesicht verzerrte
 sich, und der Priester sprudelte immer heftiger lateinische
@@ -289,7 +285,6 @@ O, was mußten seine Augen sehen! Und was sie schauten,
 kann keine Zunge sagen. Die Bestie war entfesselt, und die Polen
 trieben ihr Gespött und verstümmelten den Toten.
 
- 
 Als Hans Hoyer die Schändung der Leiche seines Vaters sah,
 kam es über ihn wie Berserkergrimm und -gewalt. In der Stärke
 Simsons zerriß er die Fesseln. Dem nächsten entriß er die Partisane,
@@ -379,6 +374,8 @@ denn er dachte an den, der unter der Erde lag. Wehevoll war
 sein Herz, und er weinte. Aber der Gedanke an Eleonore umfing
 ihn wie ein sanfter Trost.	
 
-<em>Aus: Johannes Dose, Frau Treue.
-(Schwerin, Friedr. Bahn.)</em>
+<div class="source">Aus: Johannes Dose, Frau Treue.
+(Schwerin, Friedr. Bahn.)</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Apotheke.</div>
 

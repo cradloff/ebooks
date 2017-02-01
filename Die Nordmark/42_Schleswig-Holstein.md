@@ -1,8 +1,8 @@
-<h>Schleswig-Holstein.</h>
+<h2>Schleswig-Holstein.</h2>
 
-<h>Von Matthäus Friedrich Chemnitz.</h>
+<h3>Von Matthäus Friedrich Chemnitz.</h3>
 
-<pre><em>S</em>chleswig-Holstein, meerumschlungen,
+<pre>Schleswig-Holstein, meerumschlungen,
 deutscher Sitte hohe Wacht,
 wahre treu, was schwer errungen,
 bis ein schön'rer Morgen tagt!
@@ -23,9 +23,7 @@ die ein mild'rer Süd belebt.
 Schleswig-Holstein, stammverwandt,
 stehe fest, mein Vaterland!</pre> 
 
-<bild/>
-
-<bu>Eckernförde</bu>
+<div align="center" float="left"><img alt="Ansicht von Eckernförde von einem Hügel aus" src="0195.jpg"/>Eckernförde</div>
 
 <pre>Gott ist stark auch in den Schwachen,
 wenn sie gläubig ihm vertrau'n;
@@ -49,7 +47,7 @@ Schleswig-Holstein, stammverwandt,
 bleibe treu, mein Vaterland!
 
 Teures Land, du Doppeleiche
-unter <g>einer Krone</g> Dach,
+unter <span class="g">einer Krone</span> Dach,
 stehe fest und nimmer weiche,
 wie der Feind auch dräuen mag!
 Schleswig-Holstein, stammverwandt,

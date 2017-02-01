@@ -1,7 +1,6 @@
+<h2>König Abels Jagd.</h2>
 
-<h>König Abels Jagd.</h>
-
-<h>Von L. Brockdorff-Ahlefeldt.</h>
+<h3>Von L. Brockdorff-Ahlefeldt.</h3>
 
 <pre>Mit dem Pfahl in der Brust,
 tief unten im Moor
@@ -21,8 +20,8 @@ Von fern auch hör' ich die Glocken.
 
 Ihr sollt die Glocken
 nicht läuten im Dom,
-wollt ihr Ruhe für eure Seelen!</pre> 
-<pre>Wenn ihr mir im Grab
+wollt ihr Ruhe für eure Seelen!
+Wenn ihr mir im Grab
 keine Ruhe gönnt,
 komm' ich herauf, euch zu quälen.
 
@@ -63,8 +62,8 @@ Und kündet den Morgen der erste Schlag,
 beginnt ein neuer, qualvoller Tag.
 Ich reite heim in mein Moor
 und liege dort wartend wie zuvor
-und höre die Wipfel rauschen ....</pre>
+und höre die Wipfel rauschen. ...</pre>
 
-<em>Aus: L. Brockdorff-Ahlefeldt, »Vorzeit.« Balladen.
-(Bremen, Carl Schünemann.)</em>
+<div class="source">Aus: L. Brockdorff-Ahlefeldt, »Vorzeit.« Balladen.
+(Bremen, Carl Schünemann.)</div>
 

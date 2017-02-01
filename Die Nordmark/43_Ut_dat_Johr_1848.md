@@ -1,16 +1,15 @@
+<h2>Ut dat Johr 1848.</h2>
 
-<h>Ut dat Johr 1848.</h>
+<h3>Von C. N. Schnittger.</h3>
 
-<h>Von C. N. Schnittger.</h>
-
-<pre>De Klocken gaht: bum, bum, bum, bum,
+<div class="quote">De Klocken gaht: bum, bum, bum, bum,
 de Trommel röpt: kum, Kam'rad, kum,
 kum, Kam'rad, nu is't so wiet.
 Herut, et is de höchste Tied, --
 herut nu mit de Börgerwehr,
-mit Säbel un mit Scheetgewehr!</pre> <g>Gurlitt</g>.
+mit Säbel un mit Scheetgewehr! Gurlitt</div>.
 
-<em>D</em>at wer en wunnerliche Johr, dat Johr 1848.
+Dat wer en wunnerliche Johr, dat Johr 1848.
 
 Öwer dörtig Johr harn wi in deepsten Freden levt un nu fung
 et up enmal öwerall in de Welt an to rumoren, erst in Paris, do
@@ -18,7 +17,6 @@ in Berlin un toletzt ok bie uns. Un wat dat schlimmste dabie wer:
 Dat kem uns alles so öwer den Hals un wer uns so nie, dat
 wi gornich recht wußten, wo wi uns dabie hebben soll'n.
 
- 
 »Das Volk steht auf, der Sturm bricht los -- Freiheit und
 Gleichheit hört man schallen, der ruhige Bürger greift zur Wehr.«
 -- Ja, so har man dat lesen in de Böker, so mut et denn jawol
@@ -165,6 +163,6 @@ befaten dehn, wat nu enmal doch nich ehr Amt wer, un ick denk,
 mennig en mut hüt noch lachen, wenn he torüg denkt, wat he domals
 vörn Figur speelt hett.
 
-<em>Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
-(Schleswig, Johs. Ibbeten.)</em>
+<div class="source">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
+(Schleswig, Johs. Ibbeten.)</div>
 

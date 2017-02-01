@@ -88,6 +88,24 @@ i {
 	font-size: x-large;
 }
 
+/* Link zu Fußnote */
+a.refnote {
+	font-size: x-small;
+	vertical-align: super;
+}
+
+/* Fußnote */
+.footnote {
+	font-size: small;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+a.footnote {
+	font-size: x-small;
+	vertical-align: super;
+}
+
 .g {
 	letter-spacing: 0.25em;
 }

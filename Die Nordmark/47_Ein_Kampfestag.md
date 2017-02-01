@@ -1,8 +1,8 @@
-<h>Ein Kampfestag.</h>
+<h2>Ein Kampfestag.</h2>
 
-<g>Erlebnisse eines schleswig-holsteinischen Artilleristen vor Missunde am 12. September 1850.</g>
+<h3>Erlebnisse eines schleswig-holsteinischen Artilleristen vor Missunde am 12. September 1850.</h3>
 
-<pre>Von Felix Schmeißer.</pre>
+<h3>Von Felix Schmeißer.</h3>
 
 Klaus Lassen hatte geträumt -- irgend etwas Quälendes, Drückendes, das er beim Erwachen nicht mehr zusammenreimen konnte.
 Jedenfalls war er in der Heimat gewesen, auf seines Vaters Koppel

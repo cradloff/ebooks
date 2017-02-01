@@ -1,8 +1,8 @@
-<h>Der Prozeß Jörgensen.</h>
+<h2>Der Prozeß Jörgensen.</h2>
 
-<h>Von Asta Heiberg.</h>
+<h3>Von Asta Heiberg.</h3>
 
-<em>I</em>m Jahre 1860 tagten in Flensburg die Stände.
+Im Jahre 1860 tagten in Flensburg die Stände.
 
 Es gingen sehr viele Petitionen ein, die sich alle über die
 Willkürherrschaft der Beamten beschwerten und um Abhilfe baten.
@@ -399,16 +399,15 @@ seine Wut austobte. Diese Niederlage war ihm rätselhaft. Warum
 hatte denn Heiberg so hartnäckig die Durchsicht seiner Papiere verweigert?
 Die Akten, der Wust von Makulatur, konnten ihm nicht
 schaden, da steckte etwas im Verborgenen. Wenn Herr Jörgensen und
-seine Freunde noch leben und zufällig von diesem Bericht hören*)[RN],
+seine Freunde noch leben und zufällig von diesem Bericht hören<a class="refnote" id="rn1" href="#fn1">*)</a>,
 dann wird ihnen das Rätsel gelöst; sie erfahren, was ich tat und
 tun mußte gegen empörende Willkür, für die Ehre meines Mannes
 und unsere Existenz. Seitdem sind dreiunddreißig Jahre verflossen,
 mein Vergehen, wenn es so genannt werden kann, ist verjährt, ich
 kann jetzt darüber sprechen. 
-                            <em>Aus: Asta Heiberg, Erinnerungen aus meinem Leben.
-                                                 (Berlin, Carl Heymann.)</em>
 
-<hr/>
+<div class="source">Aus: Asta Heiberg, Erinnerungen aus meinem Leben.
+(Berlin, Carl Heymann.)</div>
 
-[FN]*) Jörgensen ist hochbetagt 1910 in Kopenhagen gestorben.] 
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Jörgensen ist hochbetagt 1910 in Kopenhagen gestorben.</div>
 

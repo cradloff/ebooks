@@ -1,10 +1,10 @@
-<bild/>
+<div align="center" float="left"><img alt="Bauer auf seinem Feld, mit zwei Pferden und einem Schwert in der Hand" src="0159.gif"/></div>
 
-<h>Die Schlacht bei Hemmingstedt.</h>
+<h2>Die Schlacht bei Hemmingstedt.</h2>
 
-<h>Von Cajus Moeller.</h>
+<h3>Von Cajus Moeller.</h3>
 
-<em>A</em>nfang Februar des Jahres 1500 stand das Heer der Fürsten an
+Anfang Februar des Jahres 1500 stand das Heer der Fürsten an
 der Grenze Dithmarschens; man harrte indes noch einige Tage,
 ob nicht die Furcht im Rate der Gegner das Wort führe. Und wohl
 ließen sich bei den Dithmarschern einzelne Stimmen vernehmen,

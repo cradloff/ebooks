@@ -1,9 +1,9 @@
+<h2>Ein Einschleicher.</h2>
 
-<h>Ein Einschleicher.</h>
-
-<h>Von Otto Ernst.</h>
+<h3>Von Otto Ernst.</h3>
 
 »Im Hafen sollen Fälle von Cholera vorgekommen sein.«
+
 »Ei was! Blinder Lärm. Sie kommen doch heut' abend
 in den Klub?«
 
@@ -247,5 +247,5 @@ Und kleiner und kleiner wird die schattenhafte Gestalt.
 
 Und leise -- fern -- verrauscht der Ährenschnitt. --
 
-<em>Aus: Otto Ernst, Kartäusergeschichten. (Leipzig, L. Staackmann.)</em>
+<div class="source">Aus: Otto Ernst, Kartäusergeschichten. (Leipzig, L. Staackmann.)</div>
 

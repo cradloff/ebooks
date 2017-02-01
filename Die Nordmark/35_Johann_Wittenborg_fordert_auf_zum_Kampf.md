@@ -1,8 +1,8 @@
-<h>e. Im Kampf für Land und Volk.</h>
+<h2>e. Im Kampf für Land und Volk.</h2>
 
-<h>Johann Wittenborg fordert auf zum Kampf.</h>
+<h2>Johann Wittenborg fordert auf zum Kampf.</h2>
 
-<h>Von Wilhelm Jensen.</h>
+<h3>Von Wilhelm Jensen.</h3>
 
 Mit fieberhafter Tätigkeit wurden im Travehafen, auf den Werften
 und Helgen bei Sonnen- und Fackellicht Schiffe gezimmert,
@@ -10,11 +10,11 @@ gebessert, gerüstet; der Handel zur See war völlig unterbrochen,
 alle sonst ihm zugewandte rege Geschäftigkeit des Friedens wetteiferte
 einzig zur Herstellung von Werken und Bedürfnissen des
 Krieges. Überall aber ruhten die Augen Johann Wittenborgs
-prüfend, ordnend, gebietend, selbst; er schien, zehnfach geteilt, zu-* 
+prüfend, ordnend, gebietend, selbst; er schien, zehnfach geteilt,
 
-<bild/>
+<div align="center"><img alt="Ansicht des Rathauses" src="0147.gif"/></div>
 
-*gleich hier und dort zu sein, über die doppelte Anzahl von Tagesstunden
+zugleich hier und dort zu sein, über die doppelte Anzahl von Tagesstunden
 als andere zur Bewältigung aller seinen Rat und Entschluß
 begehrenden Anforderungen zu verfügen. Das Wort »Krieg«
 wurde noch von keiner Lippe laut gesprochen, doch jeglicher wußte,
@@ -78,8 +78,8 @@ und Augsburg, Ulm und Regensburg, Leipzig, Frankfurt, Mainz
 und Köln und wie sonst ihr weitgerühmter Name klinge. Ihrer
 aller Blüte und Ansehen aber habe die nämliche Mutter gehabt,
 die sie geboren und mit der nämlichen Milch zu unvergleichlichem
-Wachstum emporgenährt, mit der Freiheit, Sicherheit und Herr-* 
-*schaft des Handels, die heute als Lebensblut in ihren kraftstrotzenden
+Wachstum emporgenährt, mit der Freiheit, Sicherheit und
+Herrschaft des Handels, die heute als Lebensblut in ihren kraftstrotzenden
 Gliedern rolle. Und ingleichem sei auch die großmächtige Stadt
 Venedig durch den Handelsbetrieb des Kaufmanns allein zur Beherrscherin
 des Mittelmeeres, zur Herrin des Morgenlandes, Kaisern
@@ -179,6 +179,6 @@ des Kriegsoberhauptes der Dudeschen Hanse. Es war ein Tag,
 wie die Stadt Lübeck ihn noch nie gesehen, seit Herzog Heinrich
 der Löwe ihre ersten Steine zusammengefügt.
 
-<em>Aus: Wilhelm Jensen, Aus den Tagen der Hansa, Bd. 3.
-(Leipzig, E. Avenarius.)</em>
+<div class="source">Aus: Wilhelm Jensen, Aus den Tagen der Hansa, Bd. 3.
+(Leipzig, E. Avenarius.)</div>
 

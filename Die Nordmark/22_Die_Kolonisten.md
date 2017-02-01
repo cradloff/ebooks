@@ -1,7 +1,6 @@
+<h2>b. Kulturboten und Kulturstätten.</h2>
 
-<h>b. Kulturboten und Kulturstätten.</h>
-
-<h>Die Kolonisten.</h>
+<h2>Die Kolonisten.</h2>
 
 Der Druck, den die Nachfolger Hermann Billungs auf die Wenden
 ausübten, und die Strenge, womit die Geistlichkeit den Zehnten
@@ -10,7 +9,7 @@ fortwährenden Raubzügen in Holstein und Stormarn. Alles Christentum
 wurde ausgerottet, die Priester zu Tode gemartert, wenn sie
 nicht flüchteten, die Einwohner erschlagen, gefangen, ihre Habe geraubt
 oder verbrannt und zerstört, so daß 600 Familien aus Holstein
-auswanderten. <g>Helmold,</g> Priester zu Bosau und Schüler 
+auswanderten. <span class="g">Helmold,</span> Priester zu Bosau und Schüler 
 Vicelins, schreibt von dieser Zeit: »Man findet noch Spuren jenes
 frühern Wesens, zumeist in dem großen Wald, der von Lütjenburg
 bis Schleswig sich erstreckt: so wüst und einsam und fast undurchdringlich
@@ -21,8 +20,8 @@ menschlicher Wohnplatz gewesen, und an den Bächen erkennt man
 noch die Dämme, durch die das Wasser für die Mühlen einst
 gestauet war.« Kein Wunder; ein Verheerungskrieg von 1066 bis
 1138 war es von beiden Seiten gewesen. Gestanden doch die Deutschen
-selbst, ihr Zweck sei, die Wenden zu vertreiben oder <g>wenigstens
-zu Christen zu machen.</g> Der Zweck war erreicht; aber jede
+selbst, ihr Zweck sei, die Wenden zu vertreiben oder <span class="g">wenigstens
+zu Christen zu machen.</span> Der Zweck war erreicht; aber jede
 wendische Kultur war dabei zugrunde gegangen und erstand nicht
 wieder.
 
@@ -117,13 +116,13 @@ von den Wenden gelernt haben, da diese ihn sehr gut verstanden.
 Nicht minder standen die Kolonisten auf einer viel höheren Stufe
 der politischen Bildung als die Eingeborenen und ließen sich erst
 im Lande nieder, als ihnen große Freiheiten verbrieft waren. So
-ließen die Holländer ihr <g>heimisches Recht</g> sich zusichern und ihre
+ließen die Holländer ihr <span class="g">heimisches Recht</span> sich zusichern und ihre
 heimischen Gewohnheiten, und es galt das holländische Recht
-250 Jahre in der Kremper- und Wilstermarsch. <g>Erblich</g> wollten sie
+250 Jahre in der Kremper- und Wilstermarsch. <span class="g">Erblich</span> wollten sie
 ihren Besitz; unter keiner andern Bedingung wollten sie die wüsten
 Ländereien anbauen, als wenn sie Sicherheit hätten, daß ihre Kinder
-die Früchte ihrer Arbeit genießen könnten. <g>Frei</g> endlich wollten
-sie selbst sein, denn sie verabscheuten die Leibeigenschaft, und <g>frei</g>
+die Früchte ihrer Arbeit genießen könnten. <span class="g">Frei</span> endlich wollten
+sie selbst sein, denn sie verabscheuten die Leibeigenschaft, und <span class="g">frei</span>
 sollte auch ihr Besitz sein. Nur eine Abgabe an den Landesherrn
 übernahmen sie, zum Zeichen, daß sie ihn als ihren Oberherrn anerkannten.
 So ist durch sie die Zahl der freien Bauern unseres
@@ -132,5 +131,5 @@ Wert der Freiheit höher schätzen und fester halten. Wirklich hat
 weder das schleswigsche Festeverhältnis noch das lauenburgische
 Meierwesen in Holstein je festen Fuß gefaßt.
 
-<em>Aus Petersens Lesebuch</em>
+<div class="source">Aus Petersens Lesebuch</div>
 

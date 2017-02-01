@@ -1,6 +1,6 @@
-<h>Die Sturmflut in der Ostsee am 13. November 1872.</h>
+<h2>Die Sturmflut in der Ostsee am 13. November 1872.</h2>
 
-<h>Von Otto Kallsen.</h>
+<h3>Von Otto Kallsen.</h3>
 
 Während die Nordsee nicht selten mit furchtbaren Überschwemmungen 
 in das Besitztum der Menschen einbricht und
@@ -80,10 +80,8 @@ Insel von Holstein trennt, versank das Lotsenhaus mit seinen Bewohnern;
 von dem Dorfe Dahme blieb nur der dritte Teil stehen,
 40 Wohnhäuser zertrümmerte des Wassers Andrang; das kleine 
 
-<bild/>
+<div align="center" float="left"><img alt="Ostseestrand mit Böschung und kleinem Boot" src="0139.jpg"/>Ostseestrand</div>
 
-<bu>Ostseestrand</bu>
- 
 Rietbruch verschwand ganz; auf dem einzigen Hofe Klostersee ertranken
 350 Kühe. Und ähnlich wie hier bot die ganze weitgestreckte
 Ostseeküste ein Bild der Zerstörung; es war, als ob ein Todesengel
@@ -141,7 +139,7 @@ Mann hochherzig sein Leben für das Leben der Bedrängten eingesetzt,
 wie mancher die Hungernden und Frierenden gesättigt und
 bekleidet! Und als die Größe des Unglücks bekannt wurde, da ergriff
 ein edler Wetteifer zu helfen und zu trösten das ganze Volk.
-Hat doch die <g>eine</g> Stadt Hamburg über 300 000 Mark hergegeben,
+Hat doch die <span class="g">eine</span> Stadt Hamburg über 300 000 Mark hergegeben,
 und in Schleswig-Holstein allein sind 750 000 Mark an freiwilligen
 Beiträgen zusammengeflossen. Und ähnlich rührte es sich im ganzen
 großen Vaterlande; selbst unsere kaum zu uns zurückgekehrten

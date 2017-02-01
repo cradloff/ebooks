@@ -1,8 +1,8 @@
-<h>Abel, der Brudermörder.</h>
+<h2>Abel, der Brudermörder.</h2>
 
-<h>Von Aug. Sach.</h>
+<h3>Von Aug. Sach.</h3>
 
-<em>A</em>ls Waldemar II gestorben war (28. März 1241), erhob sich
+Als Waldemar II gestorben war (28. März 1241), erhob sich
 zwischen seinen Söhnen, dem Könige Erich und dem Herzog
 Abel von Südjütland, ein Streit, der lange Jahre ihre Länder verheerte.
 Denn Abel, den der Graf Adolf zum Vormund seiner jungen
@@ -98,7 +98,7 @@ Heer die Eider hinunterzufahren. Südlich von Oldenswort schlug
 er sein Lager auf und verheerte und brandschatzte alles umliegende
 Land. Die Not der Außenlande rief die Stammesgenossen auf ihrer
 alten Thingstätte, am Bauermannswege, zusammen, wo sie alle aus
-<g>einem</g> Munde riefen, daß der große Kaiser Karl ihre Voreltern
+<span class="g">einem</span> Munde riefen, daß der große Kaiser Karl ihre Voreltern
 durch seine kaiserliche Macht freigegeben habe, und ehe sie König
 Abel huldigen oder Schatz und Zins zahlen wollten, wollten sie
 alle darum sterben oder König Abel sollte sterben. Darauf richtete
@@ -126,6 +126,6 @@ Geheges nahe bei Gottorp an einer einst dem Gotte Wodan geheiligten
 Stätte begraben werden und ihn dann, als Vertreter des
 »watenden« Sturmgottes, als wilden Jäger, die Lüfte durchstürmen.
 
-<em>Aus: Aug. Sach, Schleswig-Holstein in geschichtlichen und geographischen Bildern. 
-Halle a. S., Buchhandlung des Waisenhauses.</em>
+<div class="source">Aus: Aug. Sach, Schleswig-Holstein in geschichtlichen und geographischen Bildern. 
+Halle a. S., Buchhandlung des Waisenhauses.</div>
 

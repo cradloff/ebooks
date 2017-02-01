@@ -1,8 +1,8 @@
-<h>d. Dunkle Tage.</h>
+<h2>d. Dunkle Tage.</h2>
 
-<h>Der Brand der Nikolaikirche in Hamburg am 5. Mai 1842.</h>
+<h2>Der Brand der Nikolaikirche in Hamburg am 5. Mai 1842.</h2>
 
-<h>Von Carl Reinhardt.</h>
+<h3>Von Carl Reinhardt.</h3>
 
 Ein wochenlang anhaltender Ostwind und Sonnenschein hatte die
 jahrhundertealten Bauwerke der Hansastadt bis zur äußersten
@@ -66,7 +66,7 @@ Bewegung. Der kleine Schornsteinfeger ließ seinen Besen herabfallen
 und kletterte eiligst zwischen die Säulen hinein. -- Es zogen
 stärkere Rauchwolken von der Spitze hinweg.
 
-»<g>Der Turm brennt!</g>« -- -- Dieses Schreckenswort ward von
+»<span class="g">Der Turm brennt!</span>« -- -- Dieses Schreckenswort ward von
 hunderttausend Menschen gleichzeitig im Umkreise der Stadt ausgesprochen.
 -- Bisher waren es wachsende Gerüchte, die Stadt
 und Vorstadt alarmierten. Dann bestätigten sie die wachsenden
@@ -147,15 +147,14 @@ uns ist.«
 »Wir müßten wenigstens die Hälfte der Säulen abhauen und dann
 würde uns die ganze Geschichte über dem Kopfe zusammenfallen. --
 Wir haben auch keine Zeit mehr. -- Da!« -- -- --
- 
+
+<div align="center" float="right"><img alt="Ansicht der Stadt mit dem brennenden Turm im Hintergrund" src="0135.gif"/></div>
+
 Ein Regen von glühenden Kohlen und ein furchtbares Prasseln
 der Flammen von oben folgte den Worten und trieb alle hinab.
 Es war etwa gegen drei Uhr, als die Verteidiger des Turmes die
 Flucht ergreifen mußten. Die alte Wendeltreppe, die aus dem
 Holzbau herunterführte, knackte
-
-<bild/>
-
 und schwankte sehr bedenklich
 unter der ungewohnten Menschenlast.
 Der Feuerregen von
@@ -232,6 +231,6 @@ die brennende Stadt erfüllte jedes Gemüt. Der Trieb zu helfen
 erwachte, und was im Umkreise vieler Stunden zum Löschen der
 Flammen dienen konnte, eilte dem Feuerzeichen des Turmes zu.
 
-<em>Aus: Carl Reinhardt, Der fünfte Mai. Lebensbild von der Unterelbe, IIlustr. Roman.
-(Hamburg Kramersche Sort.-Buchhandlg. [Steudel & Hartkopf].)</em>
+<div class="source">Aus: Carl Reinhardt, Der fünfte Mai. Lebensbild von der Unterelbe, IIlustr. Roman.
+(Hamburg Kramersche Sort.-Buchhandlg. \[Steudel &amp; Hartkopf\].)</div>
 

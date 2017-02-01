@@ -1,8 +1,8 @@
-<h><em>De letzte Feide.</em></h>
+<h2>De letzte Feide.</h2>
 
-<pre><em>(20. Juni 1559.)</em></pre>
+<h3>(20. Juni 1559.)</h3>
 
-<h><em>Von Klaus Groth.</em></h>
+<h3>Von Klaus Groth.</h3>
 
 <pre>Nich en Wort war hört, nich en Stimm, nich en Lut,
 se stunn' as de Schap oppe Weid,
@@ -18,8 +18,8 @@ Dar klopp wul menni Hart inne Bost,
 un dat Blot dat krop un steeg;
 doch de Ogen gungn mit Tran'n æwert Land,
 un de Mund weer stumm un sweeg.
-</pre> 
-<pre>Denn wit umher de Besten ut Land,
+
+Denn wit umher de Besten ut Land,
 in Fr&#553;den un Strit vœrut,
 de legen nu dot oppet Feld vun Heid
 un stumm ünner Asch un Schutt.
@@ -34,5 +34,5 @@ un grön dat Holt un de Eer:
 De Ditmarschen fallt de Tran int Gras,
 un de Friheit seht se ni mehr!</pre>
 
-<pre><em>Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</em></pre>
+<pre class="source">Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</pre>
 

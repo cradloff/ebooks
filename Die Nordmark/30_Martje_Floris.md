@@ -1,7 +1,6 @@
- 
-<h>Martje Floris.</h>
+<h2>Martje Floris.</h2>
 
-<h>Von Thusnelda Kühl.</h>
+<h3>Von Thusnelda Kühl.</h3>
 
 Es war im Jahre 1700. Im Oktobersturm sausten die Wipfel
 der uralten Eschen, die wie trotzige Riesen Reimer Floris alten
@@ -18,7 +17,7 @@ Knecht, mit der Faust auf den Tisch und rief: »Und ich bleib' dabei,
 eine Sünde und Schande ist es und niemals im Lande Eiderstedt
 Sitte gewesen, so lange ich denken kann.«
 
-»Und nicht einmal für den Nispuk[RN] ein Schüsselchen übrig
+»Und nicht einmal für den Nispuk<a class="refnote" id="rn1" href="#fn1">*)</a> ein Schüsselchen übrig
 zu lassen« -- klagte die Magd Telse. »Das geht nicht gut, ist mir
 bange, und mit Reimer Floris Glück ist's vorbei. Die arme kleine
 Deern, die Martje!«
@@ -44,9 +43,6 @@ ich nicht,« versetzte Sievert trocken, den Mann vor ihm entweder
 nicht erkennend oder nicht erkennen wollend -- »vielleicht ist's ja
 aber mit der gerühmten Eiderstedter Gastfreundschaft besser bestellt
 als mit der gerühmten schwedischen Mannszucht.«
-
-[FN]Hausgeistchen.]
- 
 Der Zorn, der im Auge des Generals mit dem Spott gekämpft
 hatte, wich dem letzteren.
 
@@ -94,13 +90,9 @@ Euren Degen im Pfarrhause zu Oldenswort aufheben für kommende
 Zeiten -- schade ist's nur um seinen schönen Knauf! -- man wird
 wohl auch jenen eisernen Türknopf aus der Studierstube des hochwürdigen
 Herrn verwahren, und spätere Geschlechter werden's einander
-erzählen: An diesem Türknopf[RN] hielt sich General Steenbock,
+erzählen: An diesem Türknopf<a class="refnote" id="rn2" href="#fn2">*)</a> hielt sich General Steenbock,
 der Tapfere, fest, als hundert Dänenhunde ihm ans Leben wollten --«
 
-[FN]Im Pfarrhause zu Oldenswort hängt tatsächlich heute noch der Degen
-des Schwedengenerals Steenbock, ebenso wird daselbst die genannte alte Tür
-mit dem eisernen Türknopf noch gezeigt.]
- 
 »Mein guter Junge,« sprach der General mit einer ihm sonst
 fremden Weichheit zu dem blassen Offizier. Dann stand er auf
 und flüsterte jenem ein leises Wort ins Ohr. Es klang wie: »Mein
@@ -190,5 +182,11 @@ trennt man sich hierzulande nach keinem fröhlichen Beisammensein,
 ohne zuvor Martje Floris' Gesundheit getrunken zu haben: »It
 gah uns wol up unse olen Dage!«
 
-<em>Aus: Thusnelda Kühl, Das Haus im Grunde. (Jena, Herm. Costenoble.)</em>
+<div class="source">Aus: Thusnelda Kühl, Das Haus im Grunde. (Jena, Herm. Costenoble.)</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Hausgeistchen.</div>
+
+<div class="footnote" id="fn2"><a href="#rn2">*)</a> Im Pfarrhause zu Oldenswort hängt tatsächlich heute noch der Degen
+des Schwedengenerals Steenbock, ebenso wird daselbst die genannte alte Tür
+mit dem eisernen Türknopf noch gezeigt.</div>
 

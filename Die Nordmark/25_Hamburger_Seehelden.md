@@ -1,11 +1,10 @@
+<h2>c. Frevel und Gewalttat.</h2>
 
-<h>c. Frevel und Gewalttat.</h>
+<h2>Hamburger Seehelden.</h2>
 
-<h>Hamburger Seehelden.</h>
+<h3>Von Johannes Schmarje.</h3>
 
-<h>Von Johannes Schmarje.</h>
-
-<em>Ü</em>ber die Helgoländer Allee, den ehemaligen Stadtgraben, spannt
+Über die Helgoländer Allee, den ehemaligen Stadtgraben, spannt
 sich in kühnem Bogen die Kersten Miles-Brücke. Sie trägt als
 Schmuck die Wappen von 32 früheren Hansestädten, während an
 den Pfeilern die Standbilder vier berühmter Hamburger Seehelden
@@ -18,7 +17,7 @@ wichtigen Punkt an der Elbmündung zu verschaffen wußte. An
 dem andern Pfeiler der Südseite fesselt uns das meisterhaft ausgeführte
 Standbild des Seehelden Simon von Utrecht († 1437). 
 
-<bild/>
+<div align="center"><img alt="Ansicht des Meeres mit Segelschiffen" src="0098.gif"/></div>
 
 Gerade so, muß man meinen, hat der kühne Seeheld ausgeschaut,
 als er auf der Höhe von Helgoland seine Kriegskogge, die in alten
@@ -54,8 +53,8 @@ rüstete er im Jahre 1525 ein Geschwader von vier Schiffen
 aus, mit dem er den Hansen zu schaden und gleichzeitig Norwegen
 zu erobern gedachte. Die Ausrüstung der Schiffe und deren Bemannung
 geschah zu Vere in Zeeland unter dem Schutz der Frau
-Margareta, der Regentin der Niederlande. Öffentlich wurde frei-* 
-*lich von einem ehrlichen Kriegszuge und nicht von beabsichtigter
+Margareta, der Regentin der Niederlande. Öffentlich wurde
+freilich von einem ehrlichen Kriegszuge und nicht von beabsichtigter
 Piraterei geredet.
 
 Das Hauptschiff des Geschwaders war »Die Gallion«, ein großer
@@ -101,7 +100,7 @@ Dieses böse Spiel verdroß nun billig die Hansestädte, also daß
 sie die Hamburger angingen, den Freibeutern das Handwerk zu
 legen. Die wollten sich erst nicht in die Sache begeben, aber die
 Not forderte, daß sie es mußten wagen. Die Hamburger rüsteten
-nun eine Flotte von vier Kraffeln*)[RN] aus. Das erforderte großes
+nun eine Flotte von vier Kraffeln<a class="refnote" id="rn1" href="#fn1">*)</a> aus. Das erforderte großes
 Geld, nämlich dreißigtausend Gulden, und noch heutigentags sind
 die andern Städte ihnen mit keinem Pfennig zur Hilfe gekommen.
 Kurz vor Pfingsten waren die Schiffe aufgetakelt, mit wehrhaftem
@@ -135,11 +134,6 @@ Willen sein müssen. Es war ihm aber gelungen, bei höchster Fluttide
 die Gallion auf eine Sandbank zu setzen, ehe Kniphof es hatte
 hindern können. Da hatte das Schiff Not gelitten, einen Mast
 eingebüßt und fürs erste festgesessen. Das Schiffsvolk hatte nun
-
-<hr/>
-
-[FN]*) Solch ein Kraffel war ein zweimastiges Seeschiff, etwa von der Größe
-eines heutigen Schoners, jedenfalls viel kleiner als die Gallion Kniphofs.] 
 den Steuermann über Bord werfen wollen, war aber daran durch
 Kniphof verhindert worden; denn gegen ihn hatte der Steuermann
 vorher geklagt, daß er die Schiffe gerne hineinbringen wolle, daß
@@ -242,7 +236,7 @@ als die Hamburger zum Angriff schritten. Nun waren die flinken
 Bojer die ersten an dem Feind. Sie legten sich längs der Gallion,
 daß sie ihr Deck bestreichen konnten und schossen ihr manch guten
 Kerl aus der Wehre. Kurz darauf kommt Simon Parseval, der
-Admiral, mit seinem Kraffel heran, wirft seinen Draggen*)[RN] in die
+Admiral, mit seinem Kraffel heran, wirft seinen Draggen<a class="refnote" id="rn2" href="#fn2">*)</a> in die
 Gallion, um sich daran festzumachen, und gibt die Ladungen seiner
 Büchsen und groben Stücke auf den Feind ab. Die Gallion blieb
 dem Admiral die Antwort nicht schuldig; aber ihre Kartaunen und
@@ -265,12 +259,6 @@ setzten sie dem mächtigen Gegner tapfer zu.
 Nun hielt auch Ditmar Kohl nicht länger zurück. Er hielt
 seinen Kraffel hart auf die Gallion zu, um den Hauptangriff zu
 wagen. Als Kniphof Ditmars Kraffel heransegeln sah, vermutete
-
-<hr/>
-
-[FN]*) Ein Draggen ist ein kleiner Anker mit vier Zähnen, wie er noch heute
-auf den Elbfischerbooten gebraucht wird.]
- 
 er, daß auch dessen Volk unter Deck sein würde gleich wie im Admiralschiff.
 Darum ließ er alle seine wehrhaften Männer aufs Deck und
 an die Reling treten und befahl ihnen, den Kraffel sofort zu entern,
@@ -438,8 +426,8 @@ Am 25. Oktober wurden Kniphofs Fähnlein in dem Dom über
 dem Predigerstuhl aufgehängt. Am folgenden Tage ist Kniphof mit
 etlichen seiner Gesellen vor Gericht geführt und daselbst von acht Uhr
 morgens bis drei Uhr nachmittags verhört worden. Er wurde des
-Seeraubs angeklagt -- nicht weniger als 172 Schiffe hatte er ge-* 
-*plündert und viel unschuldig Blut vergossen -- und als Seeräuber
+Seeraubs angeklagt -- nicht weniger als 172 Schiffe hatte er
+geplündert und viel unschuldig Blut vergossen -- und als Seeräuber
 verurteilt. Als Kniphof den Spruch der Richter vernommen, bat
 er für seine Gesellen, die er zur Freibeuterei gezwungen hatte.
 Dann wurde er wieder in seinen Kerker im Winserturm geführt, wo
@@ -488,5 +476,11 @@ dem Heren am besten bekant. Auerst o here, barmhertige God,
 dorch dine grote barmherticheit erbarme di der, de in dusser sake
 sint ommegekamen! Amen.«
 
-<em>Nach einer niedersächsischen Chronik.</em>
+<div class="source">Nach einer niedersächsischen Chronik.</div>
 
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Solch ein Kraffel war ein zweimastiges Seeschiff, etwa von der Größe
+eines heutigen Schoners, jedenfalls viel kleiner als die Gallion Kniphofs.</div>
+
+<div class="footnote" id="fn2"><a href="#rn2">*)</a> Ein Draggen ist ein kleiner Anker mit vier Zähnen, wie er noch heute
+auf den Elbfischerbooten gebraucht wird.</div>
+ 

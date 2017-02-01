@@ -1,7 +1,6 @@
+<h2>Die Leibeigenschaft.</h2>
 
-<h>Die Leibeigenschaft.</h>
-
-<h>Von A. Forchhammer.</h>
+<h3>Von A. Forchhammer.</h3>
 
 Wie stand es um die Leibeigenen? Die Gegenwart, die es
 noch weiß, ist schuldig, es der Nachwelt zu sagen.
@@ -120,15 +119,12 @@ Strenge in Grausamkeit aus; so marterte z. B. ein Gutsherr von
 Bürau im Jahre 1722 drei seiner Leibeigenen zum Teil eigenhändig
 zu Tode, während ein vierter kaum mit dem Leben davonkam. Diese
 Grausamkeit freilich ist mit fünfjähriger Verbannung und 20 000
-Rbtlr.[RN] Brüche bestraft worden. In der Regel aber kümmerte sich
+Rbtlr.<a class="refnote" id="rn1" href="#fn1">*)</a> Brüche bestraft worden. In der Regel aber kümmerte sich
 kein Mensch darum, was der Gutsherr mit seinen Leibeigenen machte.
 Tat die Peitsche oder Gefängnis auf dem Hofe die davon erwartete
 Wirkung nicht mehr, so sandte der Gutsherr die Männer ohne
 weiteres in die Karre, die Weiber ins Zuchthaus, in der Regel
 freilich nur auf kurze Zeit; denn er konnte oder wollte ihre Arbeit
-
-[FN]Reichsbanktaler.]
- 
 auf dem Hofe nicht entbehren. Der Leibeigene suchte sich wohl
 durch die Flucht der Sklaverei zu entziehen; allein gewöhnlich mißlang
 sie, weil die Ämter und Städte und selbst Hamburg und Lübeck
@@ -156,5 +152,8 @@ Aufgehoben ist die Leibeigenschaft, möchte sie in keinerlei Maß
 und Weise je wieder eingeführt werden, auch in der ägyptischen
 Weise nicht!
 
-1. Mose, 47, 25.
+1\. Mose, 47, 25.
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Reichsbanktaler.</div>
+
 

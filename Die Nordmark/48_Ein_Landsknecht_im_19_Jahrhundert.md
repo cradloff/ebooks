@@ -1,8 +1,8 @@
-<h><em>Ein Landsknecht im 19. Jahrhundert.</em></h>
+<h2>Ein Landsknecht im 19. Jahrhundert.</h2>
 
-<h><em>Von Christoph v. Tiedemann.</em></h>
+<h3>Von Christoph v. Tiedemann.</h3>
 
-<h>I.</h>
+<h4>I.</h4>
 
 Mein Vater las eines Abends -- es war im Jahre 1844 oder
 1845 -- in einer der vielen Zeitungen, die er hielt, eine sonderbare
@@ -98,7 +98,7 @@ wir doch immerhin genug, um ein anschauliches Bild von einer
 der seltsamsten Existenzen zu erhalten, die je die Sonne beschienen
 hat.
 
-Helgesen[RN] war, wie erwähnt, ein geborener Norweger. Er
+Helgesen<a class="refnote" id="rn1" href="#fn1">*)</a> war, wie erwähnt, ein geborener Norweger. Er
 hatte an dem norwegischen Aufstande 1814 lebhaften Anteil genommen,
 war zeitweise Adjutant des damaligen Kronprinzen Christian
 (späteren Königs von Dänemark) gewesen und hatte diesen nebst
@@ -106,10 +106,6 @@ zwei anderen norwegischen Offizieren, Rye und Schleppegrell, nach
 Dänemark begleitet, als der Aufstand hoffnungslos geworden war.
 (Rye fiel als dänischer General 1849 in der Schlacht bei Friedericia,
 Schleppegrell ebenfalls als General 1850 in der Schlacht bei Idstedt.)
-
-<hr/>
-
-[FN] <em>Geboren 4. Oktober 1793, gestorben 28. Februar 1858.</em>] 
 
 Der Garnisondienst in dem friedlichen Kopenhagen war nicht
 nach dem Geschmack des unruhigen und ehrgeizigen Offiziers. 1815
@@ -151,8 +147,8 @@ Schlauheit und landsknechtartigem Leichtsinn lag in dem Charakter
 Helgesens. Wenn er im Zorn seine Augen blitzen ließ, hatte er
 einen gar grimmigen, geradezu bärbeißigen Ausdruck, der alles
 davonscheuchte. Wenn er dagegen Anekdoten und Schnurren aus
-seinem Leben mit dem den Norwegern eigenen melodischen Ton-* 
-*fall erzählte oder mit uns Kindern oder seinen Hunden in lustigster
+seinem Leben mit dem den Norwegern eigenen melodischen
+Tonfall erzählte oder mit uns Kindern oder seinen Hunden in lustigster
 Weise herumtollte, lachte der Schalk aus seinen Augen. Sein Blick
 hatte eine dämonische Kraft, und es war nicht übertrieben, wenn er
 behauptete, daß er durch ihn Menschen und Tiere zu bannen vermöge.
@@ -199,15 +195,13 @@ und legte nach einigen Tagen meinem Vater ein Schreiben vor,
 dessen Inhalt ich glaube, wörtlich wiedergeben zu können. Es
 lautete:
 
-<pre>
-»Mein König! Du wirst Dich Deines Adjutanten von 1814
-erinnern. Auch hast Du hoffentlich nicht vergessen, daß Du mir
-einst versprachst, mir zu helfen, wenn ich Deine Hilfe anriefe.
-Ich rufe Dich jetzt und bitte: Verleihe mir die Postmeisterstelle
-in Christiansfelde.	
-                                              Dein getreuer
-                                                        Helgesen«
-</pre>
+> »Mein König! Du wirst Dich Deines Adjutanten von 1814
+> erinnern. Auch hast Du hoffentlich nicht vergessen, daß Du mir
+> einst versprachst, mir zu helfen, wenn ich Deine Hilfe anriefe.
+> Ich rufe Dich jetzt und bitte: Verleihe mir die Postmeisterstelle
+> in Christiansfelde.	
+>                                              Dein getreuer
+>                                                        Helgesen«
 
 Vergeblich machte mein Vater darauf aufmerksam, daß dieses
 Schreiben doch nicht in dem üblichen Kurialstil abgefaßt sei und
@@ -241,7 +235,6 @@ zu übernehmen, Helgesen durchstreifte nun als Jäger das
 südwestliche Schleswig und wurde bald in der ganzen Gegend eine 
 vielbesprochene und von jedem gekannte Persönlichkeit. Ein junges,
 edles Reitpferd, einen Fuchs, überließ ihm mein Vater zur Benutzung.
-
 
 Auf besagtem Fuchs kam in der letzten Woche des Februar 1848
 Helgesen auf unseren Hof gesprengt. Das Pferd dampfte. Helgesen
@@ -312,7 +305,7 @@ zurückgewiesen, habe er seinen Degen dem Dänenkönig zur Verfügung
 gestellt. Den Fuchs wolle er als Andenken an meinen
 Vater behalten.
 
-<h>II.</h>
+<h4>II.</h4>
 
 Es vergingen Jahr und Tag, ehe wir wieder etwas von Helgesen
 hörten. In der blutigen Ausfallschlacht bei Friedericia im
@@ -353,7 +346,7 @@ wurde ein Angriffskorps aus sechs bis acht Bataillonen Infanterie
 und Jägern und der entsprechenden Artillerie gegen Friedrichstadt
 vorgeschickt. Nach kurzer Beschießung, welche die Hälfte der Stadt
 in Asche legte, befahl von der Tann in der Nacht vom 19. auf den
-20. September 1850 den Sturm.
+20\. September 1850 den Sturm.
 
 Ich will nicht versuchen, jene grauenvolle Nacht zu schildern.
 Mit Todesverachtung drangen die Schleswig-Holsteiner vor. Um
@@ -367,8 +360,8 @@ Nacht auf Händen und Füßen vorwärts krochen, explodierten
 zum erstenmal zur Anwendung kamen: Schrapnels. Die Jüten
 standen wie die Mauern, sie wehrten sich bis zum letzten Augenblick
 mit Kolben und Bajonett, und nachdem das blutige Handgemenge
-stundenlang gedauert hatte, gewahrten die Schleswig-* 
-*Holsteiner mit Entsetzen, daß sie kaum einige hundert Schritt vorwärts
+stundenlang gedauert hatte, gewahrten die Schleswig-Holsteiner
+mit Entsetzen, daß sie kaum einige hundert Schritt vorwärts
 gedrungen waren.
 
 Nur dem ersten Jägerkorps gelang es, auf der Chaussee über
@@ -434,7 +427,7 @@ Er wolle hiermit, so schrieb Helgesen, den Fuchs bezahlen, den
 er 1848 mitgenommen, und den er nicht zurückgeben könne, da er
 bei Idstedt unter ihm erschossen sei.
 
-<h>III.</h>
+<h4>III.</h4>
 
 Nachdem auch Holstein den Dänen überliefert worden, wurde
 Helgesen unter Ernennung zum General Gouverneur der Festung
@@ -455,7 +448,6 @@ setzten die Patrioten wenigstens durch, daß kein dänischer Beamter
 oder Offizier, natürlich auch nicht der Gouverneur, wie sonst üblich,
 eingeladen wurde.
 
- 
 Mit Trommeln und Pfeifen marschierten des Morgens die
 Schützen zum Tor hinaus nach dem sogenannten Klosterkrug, wo
 die Vogelstange errichtet war. Nachmittags folgten die Frauen
@@ -506,7 +498,7 @@ ein Fuchs, zwei Fischottern und drei oder vier Kaninchen. Helgesen
 stand in dem seltsamsten Kostüm, das je mein Auge gesehen, daneben.
 Die goldgestickte Generalsuniform war weit geöffnet, um den Hals
 hatte er ein buntseidenes Tuch geschlungen, die Uniformhosen steckten
-in weichen Reiterstiefeln <em>à la</em> Wallenstein und auf dem Kopf trug
+in weichen Reiterstiefeln <i>à la</i> Wallenstein und auf dem Kopf trug
 er einen breitrandigen gelben Strohhut. In der Hand eine lange,
 schlanke Reitgerte überwachte er das Mittagsmahl seiner vierbeinigen
 Zöglinge. Sobald sich bei einem der Futterneid regte
@@ -548,6 +540,9 @@ Gepränge wurde seine Leiche nach Kopenhagen überführt.
 Dort auf dem Soldatenkirchhof ist der alte Landsknecht neben seinen
 norwegischen Waffenbrüdern Rye und Schleppegrell zur ewigen
 Ruhe gebettet. 
-<em>Aus. Chr. v.  Tiedemann, Aus sieben Jahrzehnten. I. (Leipzig, S. Hirzel.)
-</em>
+
+<div class="source">Aus. Chr. v.  Tiedemann, Aus sieben Jahrzehnten. I. (Leipzig, S. Hirzel.)</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Geboren 4. Oktober 1793, gestorben 28. Februar 1858.</div> 
+
 

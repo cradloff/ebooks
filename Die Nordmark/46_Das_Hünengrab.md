@@ -1,12 +1,12 @@
-<bild/>
+<div align="center" float="left"><img alt="Ansicht des Hünengrabes" src="0215.gif"/></div>
 
-<h>Das Hünengrab.</h>
+<h2>Das Hünengrab.</h2>
 
-<h>Stimmungsbild vom schleswigschen Heiderücken.</h>
+<h3>Stimmungsbild vom schleswigschen Heiderücken.</h3>
 
-<h>Von Felix Schmeißer.</h>
+<h3>Von Felix Schmeißer.</h3>
 
-<em>O</em>ben auf der Heide liegt ein Hünengrab. Hoch und massig winkt
+Oben auf der Heide liegt ein Hünengrab. Hoch und massig winkt
 es dem Wanderer schon aus der Ferne über Heide und Feld
 zu. Mannshoch wächst hier ungestört der grüne Ginster und bedeckt
 jeden Sommer wieder die Höhe des Hügels mit einem Meer

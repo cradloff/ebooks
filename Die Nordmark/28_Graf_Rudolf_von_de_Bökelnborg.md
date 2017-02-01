@@ -1,11 +1,10 @@
- 
-<h>Graf Rudolf von de Bökelnborg.</h>
+<h2>Graf Rudolf von de Bökelnborg.</h2>
 
-<h>(15. März 1145.)</h>
+<h3>(15. März 1145.)</h3>
 
-<h>Von Klaus Groth.</h>
+<h3>Von Klaus Groth.</h3>
 
-Kamt rop, Herr Graf vun Bökelnborg, de Buern kamt mit Koorn!
+<pre>Kamt rop, Herr Graf vun Bökelnborg, de Buern kamt mit Koorn!
 kamt rop, min Graf, un freit dat Hart un seht mal mit vun Torn!
 
 De Buern wullen Herren sin, dat is se slech bekam!
@@ -33,7 +32,7 @@ Do worn se beid as Krid so witt un as de kalkte Wand,
 do sprung ut jede Wetensack en Kêrl, en Mess in Hand.
 
 Un nu, Herr Graf, man raf in Drav: Wi bringt den Martinssold!
-De Bur is kam in Kêd und Klabn, un de betahlt sin Schuld.
+De Bur is kam in Kêd und Klabn, un de betahlt sin Schuld.</pre>
 
-<em>Aus: Klaus Groth, Quickborn. (Kiel, Lipsius & Tischer.)</em>
+<div class="source">Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</div>
 

@@ -1,8 +1,8 @@
-<h>Gründonnerstag 1849.</h>
+<h2>Gründonnerstag 1849.</h2>
 
-<h>Von Rudolf Schleiden.</h>
+<h3>Von Rudolf Schleiden.</h3>
 
-<em>A</em>m 4. April 1849 erschien kurz vor Sonnenuntergang ein aus
+Am 4. April 1849 erschien kurz vor Sonnenuntergang ein aus
 sechs Segel- und zwei Dampfschiffen bestehendes dänisches Geschwader
 vor der Hafenbucht von Eckernförde. Am Eingange dieser
 Bucht war zu ihrem Schutz auf einer vorspringenden Landzunge
@@ -13,7 +13,8 @@ zwei Achtzehnpfünder und zwei vierundachtzigpfündige Bombengeschütze
 barg. Ein zweites Erdwerk war am Westende des Meerbusens,
 etwa acht Minuten südlich von Eckernförde, errichtet und bestrich
 mit vier Achtzehnpfündern die Förde in ihrer Hauptrichtung
-von Westen nach Osten. -- Kanonendonner, der mich am Gründonnerstagmorgen, dem 5. April, in Schleswig weckte, ließ keinen
+von Westen nach Osten. -- Kanonendonner, der mich am
+Gründonnerstagmorgen, dem 5. April, in Schleswig weckte, ließ keinen
 Zweifel darüber, daß diese geringfügigen Befestigungen von feindlicher
 Übermacht angegriffen worden seien. Gern wäre ich gleich
 nach der nur etwa drei Meilen entfernten bedrohten Stadt aufgebrochen.
@@ -76,9 +77,9 @@ Da die Parlamentärflagge noch auf den feindlichen Schiffen
 wehte, machten Dr. Lorentzen und ich uns ungefähr um 4œ Uhr
 auf den Weg, um die wackere Mannschaft der Südbatterie zu begrüßen.
 Wir wußten nicht, daß bereits die Anzeige an Bord gesandt
-worden war, die Feindseligkeiten würden von schleswig-hol-* 
-*steinischer Seite in zehn Minuten wieder beginnen. Das Linienschiff
-lag damals 5--600 Schritte vom Ufer entfernt, dem es die
+worden war, die Feindseligkeiten würden von schleswig-holsteinischer
+Seite in zehn Minuten wieder beginnen. Das Linienschiff
+lag damals 5-600 Schritte vom Ufer entfernt, dem es die
 Breitseite zuwandte, die Fregatte in ungünstigster Lage, mit dem
 Spiegel der Südbatterie zugekehrt, mehrere hundert Schritte weiter
 hinaus. Etwa auf dem halben Wege zur Südbatterie fuhren, gerade
@@ -212,6 +213,7 @@ dem sogar dort beobachteten Widerschein des auffliegenden Linienschiffs
 geahnt hatte, erregte unser näherer Bericht begreiflicherweise
 große Freude. Statt laut zu jubeln, erkannte aber jedermann dankbar
 an, daß eine höhere Hand den Übermut des Feindes gedemütigt habe. 
-<em>Aus: Rudolf Schleiden. Erinnerungen eines Schleswig-Holsteiners.
-Wiesbaden, I. F. Bergmann.)</em>
+
+<div class="source">Aus: Rudolf Schleiden. Erinnerungen eines Schleswig-Holsteiners.
+Wiesbaden, I. F. Bergmann.)</div>
 

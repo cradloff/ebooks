@@ -2,7 +2,7 @@
 
 <h>Von Therese Devrient.</h>
 
-<em>E</em>s war um das Jahr 1807; Hamburg noch in seiner alten Gestalt,
+Es war um das Jahr 1807; Hamburg noch in seiner alten Gestalt,
 mit engen Straßen voll himmelhoher Häuser mit unzähligen
 Fenstern, die aus kleinen Scheiben zusammengesetzt und eng aneinandergerückt 
 waren ... Auch wir hatten solch ein altes Haus
@@ -132,18 +132,12 @@ Wir Kinder führten ein recht glückliches Leben, wir brauchten
 noch nichts zu lernen als die hübschen Liedchen von der Mutter,
 konnten mit unseren Puppen spielen, für sie nähen und fröhlich
 umherspringen; denn an die Klagen der Eltern über den Druck,
-den die <g>Franzosen</g> auf unsere arme Stadt ausübten*)[RN], waren
+den die <span class="g">Franzosen</span> auf unsere arme Stadt ausübten<a class="refnote" id="rn1" href="#fn1">*)</a>, waren
 wir schon gewöhnt und stimmten nur herzhaft mit ein in die Verwünschungen
 gegen unsere Feinde.
 
 Bei der Verteilung der Einquartierung ward uns ein junger
 französischer Offizier überwiesen, der nicht nur Mutter die schwere
-
-<hr/>
-
-[FN]*) Am 19. November 1806 war Marschall Mortier in Hamburg eingezogen, 
-von allem Besitz ergreifend »im Namen Sr. Majestät des Kaisers der Franzosen 
-und Königs von Italien«.] 
 Sorge für die Beköstigung eines verwöhnteren Mannes für längere
 Zeit brachte sondern auch noch das Unangenehme hatte, daß
 er keine Silbe Deutsch verstand. Zum Glück hatte Mine, die
@@ -299,8 +293,8 @@ fast überall sah man Vorbereitungen zur Aufnahme der längst ersehnten
 Retter ...
 
 Gegen Abend wurde unten die Kontortür rasch aufgerissen. Wir
-hörten Ludwig mit lauter Stimme rufen: »Sie kommen, <g>die Russen
-kommen!</g> Tettenborn führt sie an!« Bald darauf liefen wir und
+hörten Ludwig mit lauter Stimme rufen: »Sie kommen, <span class="g">die Russen
+kommen!</span> Tettenborn führt sie an!« Bald darauf liefen wir und
 alle Herren aus dem Kontor hinaus auf die Straße. In Eile wurden
 die hanseatischen Farben hervorgesucht, wir Kinder bekamen rot und
 weiße Kokarden an unsere Pelerinen geheftet und standen dann
@@ -342,7 +336,7 @@ Morgens (am 19. Mai 1813) saßen wir dort mit Handarbeit beschäftigt,
 als Fräulein Detroit, unsere Lehrerin, hastig und bleich
 ins Zimmer trat. »Kinder,« rief sie atemlos, »macht euch schnell
 fertig, nehmt Hüte und Tücher, ich muß euch zu euern Eltern bringen,
-<g>die Franzosen sind wieder da.</g>«
+<span class="g">die Franzosen sind wieder da.</span>«
 
 Zähneklappernd vor Schrecken und Aufregung folgten wir ihr.
 Die größten Mädchen schickte sie allein nach Hause, die kleineren,
@@ -520,11 +514,11 @@ da wir genug zu tun hatten, das ungezogene Tier festzuhalten und
 ihm sein unvernünftiges, ganz unpassendes Betragen vorzuhalten.
 
 Mutter sah sehr übel aus und war still und traurig. Sie erzählte,
-welche Bestürzung in Hamburg herrsche, daß <g>Belagerungszustand</g>
+welche Bestürzung in Hamburg herrsche, daß <span class="g">Belagerungszustand</span>
 erklärt sei, und daß man binnen drei Tagen auf sechs
 Monate verproviantiert sein müsse, widrigenfalls man aus der Stadt
-gewiesen würde, daß diese strenge Maßregel viele Einwohner ver-* 
-*trieben, und daß auch sie und der Vater beschlossen hätten, auszuwandern.
+gewiesen würde, daß diese strenge Maßregel viele Einwohner vertrieben,
+und daß auch sie und der Vater beschlossen hätten, auszuwandern.
 
 »Auswandern,« wiederholte ich mir. Dieses Wort verjagte mir
 sogleich alle Angst und Sorge; ich mußte mich ordentlich in acht
@@ -588,5 +582,9 @@ Füßen. So rumpelten wir durch das Gäßchen. Die Alten standen
 vor ihrer Tür und wehten und winkten, so lange sie uns sehen
 konnten.	
 
-<em>Aus: Therese Devrient, Jugenderinnerungen. (Stuttgart. Carl Krabbe.)</em>
+<div class="source">Aus: Therese Devrient, Jugenderinnerungen. (Stuttgart. Carl Krabbe.)</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Am 19. November 1806 war Marschall Mortier in Hamburg eingezogen, 
+von allem Besitz ergreifend »im Namen Sr. Majestät des Kaisers der Franzosen 
+und Königs von Italien«.</div>
 

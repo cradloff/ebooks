@@ -1,6 +1,6 @@
-<h><em>Altdithmarschens Ende.</em></h>
+<h2>Altdithmarschens Ende.</h2>
 
-<pre><em>Von Adolf Bartels.</em></pre>
+<h3>Von Adolf Bartels.</h3>
 
 Sie kamen den Persenweg von Wörden herauf, alle dithmarsischen
 Männer, die noch am Leben waren, Weiber und Kinder in
@@ -10,8 +10,8 @@ grobem nur noch zehn Stück, dann folgte ein Wagen mit Fahnen,
 den Beutestücken früherer Siege (unter ihnen der echte Danebrog,
 der vom Himmel gefallen war, und den die dithmarsischen Motten
 doch nicht verschont hatten) und den eigenen der Dithmarscher; ein
-weiterer Wagen führte die Urkunden der Freiheiten und Privi-* 
-*legien des Landes herbei, kaiserliche und päpstliche Verfügungen,
+weiterer Wagen führte die Urkunden der Freiheiten und
+Privilegien des Landes herbei, kaiserliche und päpstliche Verfügungen,
 Friedensverträge mit den Holstengrafen, die diese und ihre Nachfolger
 immer wieder gebrochen. Diese alle wollten die Fürsten nun
 beiseite bringen und vernichten, daß keine Erinnerung bleibe der
@@ -49,10 +49,10 @@ frommen, ehrlichen Mann binden kann, uns verpflichtet, verstrickt
 und versprochen, verpflichten und versprechen uns hiermit und in
 Kraft dieses Briefes, für uns, unsere Erben und Nachkommen, daß
 wir mit unbewehrter Hand samt unseren Weibern, Kindern und
-Hausgesinde mit einem Fußfall höchst- und hochgedachter König-* 
-*lichen Majestät und Fürstlichen Gnaden unsere Demut erzeigen und
+Hausgesinde mit einem Fußfall höchst- und hochgedachter
+Königlichen Majestät und Fürstlichen Gnaden unsere Demut erzeigen und
 um Verzeihung unserer Missetat und Verhandlung bitten und wir,
-die gewesenen achtundvierzig[*] Verweser des Landes, aller gehabten
+die gewesenen achtundvierzig Verweser des Landes, aller gehabten
 Regierung und Verwaltung uns gänzlich verzeihen und entäußern
 wollen usw.« Ja, nun kommen sie, für ihre Missetat um Verzeihung
 zu bitten und sich ihrer Regierung und Verwaltung zu
@@ -186,9 +186,9 @@ jetzt eines großmütigen Fürsten.«
 Der Herzog winkt gnädig mit der Hand und gibt seinem Roß
 die Sporen. Die Dithmarscher haben ihm seinen Spott nie vergessen.
 Jetzt gingen sie, ihre Toten zu begraben und die verlorene
-Freiheit zu beklagen. <em>Qui planctus, qui ejulatus, quae lamentiationes,
+Freiheit zu beklagen. <i>Qui planctus, qui ejulatus, quae lamentiationes,
 ubi domum redeuntes de suis quisque quaesivit imo inter cadavera
-requievere; multi et amissi et desiderati, idque amissa etiam libertate,</em>
+requievere; multi et amissi et desiderati, idque amissa etiam libertate,</i>
 schreibt der Chronist.
 
 Von der Nordsee her saust der Nordweststurm über das Land
@@ -260,8 +260,8 @@ Hofe, freuten sich, wenn sie ihre Abgaben bezahlen konnten, gingen
 Sonntags in die Kirche, noch lieber in den Krug und erzählten sich,
 wenn der Weststurm über den Deich brauste, von den Taten der
 Väter und den wilden Sturmfluten alter und neuer Zeit. Vergessen
-war das alte Dithmarschen nicht. Da saß, während schon der Dreißig-* 
-*jährige Krieg an die Pforten des Reiches klopfte, auf der eben landfest
+war das alte Dithmarschen nicht. Da saß, während schon der
+Dreißigjährige Krieg an die Pforten des Reiches klopfte, auf der eben landfest
 gewordenen Insel Büsum ein Prediger, der sich Johann Adolfi
 oder Johannes Neokorus Ettahulphides (Adolfssohn), auf gut deutsch
 auch Köster nannte, und wandte sein ganzes Leben daran, die Dithmarscher
@@ -282,5 +282,5 @@ wenn auch nicht für jedermann erkennbar, noch einmal auflebt.
 In unseren Tagen, unter dem Hauche des Geistes der neuen
 Zeit scheint Altdithmarschen dann wirklich gestorben zu sein.
 
-<pre><em>Aus: Adolf Bartels, Die Dithmarscher. (Kiel, Lipsius &amp; Tischer.)</em></pre>
+<pre class="source">Aus: Adolf Bartels, Die Dithmarscher. (Kiel, Lipsius &amp; Tischer.)</pre>
 

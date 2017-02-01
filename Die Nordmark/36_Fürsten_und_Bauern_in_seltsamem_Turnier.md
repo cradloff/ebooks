@@ -1,7 +1,6 @@
+<h2>Fürsten und Bauern in seltsamem Turnier.</h2>
 
-<h>Fürsten und Bauern in seltsamem Turnier.</h>
-
-<h>Von Peter Petersen.</h>
+<h3>Von Peter Petersen.</h3>
 
 Es war Ende Mai des Jahres 1499, da bewegte sich ein stattlicher
 Zug von Reisigen schon früh am Morgen auf der Landstraße
@@ -245,7 +244,7 @@ Gemütsruhe, »daß Ew. Majestät eben gestellte Forderung so durchaus
 in Zwiespalt mit den im Anfang unserer Unterredung kundgegebenen
 friedlichen Absichten und Gedanken steht, die Euer Königliches
 Herz zu bewegen schienen. Am meisten aber beunruhigt uns
-noch das kleine Wörtlein zunächst, womit Ew. Majestät die eben
+noch das kleine Wörtlein ›zunächst‹, womit Ew. Majestät die eben
 erhobene, wahrlich nicht unbedeutende Forderung begleiteten und
 abgeschlossen. Bevor wir imstande sind, auf Ew. Majestät Worte
 geziemend zu antworten, erachten wir es für notwendig, annoch zu
@@ -281,7 +280,6 @@ dithmarsische Landeskinder sind! Darauf wollen wir wagen Hals
 und Gut und wollen alle lieber sterben, als daß König Johann
 von Dänemark also unser schönes Land verderben soll!«
 
- 
 In mächtiger Erregung standen die Dithmarscher vor den Fürsten
 und ihren Rittern. Aus allen Gesichtern sprach eine tiefe Entrüstung
 und ein grimmiger Mut. Die jungen Recken hinter den
@@ -328,5 +326,5 @@ un wollen dar all um starven,
 eher dat de König van Dänemark
 so scholde unser schöne Land verdarben.</pre>
 
-<em>Aus: Peter Petersen, Telse Kampen. (Stuttgart, I. F. Steinkopf.)</em> 
+<div class="source">Aus: Peter Petersen, Telse Kampen. (Stuttgart, I. F. Steinkopf.)</div>
 

@@ -1,8 +1,8 @@
-<h>Die Gräber in Ottensen.</h>
+<h2>Die Gräber in Ottensen.</h2>
 
-<h>Von Heinrich Zeise.</h>
+<h3>Von Heinrich Zeise.</h3>
 
-<h>I.</h>
+<h4>I.</h4>
 
 <pre>»Zu Ottensen auf der Wiese
 ist eine gemeinsame Gruft;
@@ -24,7 +24,7 @@ ein Obdach er uns gab;
 man merkt des Jammers Größe
 nicht an dem kleinen Grab.«</pre>
 
-<em>N</em>ein wahrlich, man sah dem kleinen Grabe nicht die Größe des
+Nein wahrlich, man sah dem kleinen Grabe nicht die Größe des
 Jammers an; unter der üppig wuchernden Rasendecke ruht das
 ganze Volksgeschlecht, das ein fremder Despot dem heimischen Herde
 entriß, und während des Winters in Jammer, Elend und Verzweiflung
@@ -72,10 +72,10 @@ Luft brütete das Verderben, und die Vertriebenen sanken von
 Seuchen ergriffen dahin wie dürre Halme unter der Sense des
 Schnitters.
 
-<pre><em>»Sie konnten nicht weiter keuchen,
+<pre>»Sie konnten nicht weiter keuchen,
 erschöpft war ihre Kraft,
 Frost, Hunger, Elend und Seuchen
-die haben sie hingerafft.«</em></pre>
+die haben sie hingerafft.«</pre>
  
 Sie fanden ihr Grab auf der Wiese zu Ottensen; anfänglich wurden
 sie in Särgen versenkt, als aber die Anzahl der Toten wuchs,
@@ -91,7 +91,7 @@ errichten; es ist ein Würfel von Sandstein, auf dem sich zwei
 Garben kreuzen, zu beiden Seiten des Steins sind gesenkte Fackeln
 eingehauen. Die Inschrift an der Vorderseite lautet:
 
-<pre><em>»Friede den Entschlafenen.
+<pre>»Friede den Entschlafenen.
 
 An dieser Stätte ruhen die Gebeine von 1138 Hamburgern, welche
 mit vielen tausenden ihrer Mitbürger von dem französischen
@@ -100,12 +100,12 @@ belagerten Hamburg vertrieben, mit menschenfreundlicher Milde
 in Altona aufgenommen, von dessen edlen Einwohnern, sowie
 von ihren früher ausgewanderten Landsleuten in ihrem Elende
 unterstützt und verpflegt, demungeachtet aber Opfer ihres Kummers
-und ansteckender Seuchen wurden.«</em></pre>
+und ansteckender Seuchen wurden.«</pre>
 
 Die Inschrift der Rückseite lautet:
 
-<pre><em>»Diesen Denkstein errichteten Hamburgs trauernde Bürger
-ihren entschlafenen Mitbürgern im Jahre 1815«</em></pre>
+<pre class="center">»Diesen Denkstein errichteten Hamburgs trauernde Bürger
+ihren entschlafenen Mitbürgern im Jahre 1815«</pre>
 
 Birken und Weiden beschatteten später das Denkmal, unter
 dem die Opfer der Tyrannei schliefen. Als Erinnerung an eine
@@ -162,24 +162,23 @@ ein Gottesurteil; der Baum grünt Jahr für Jahr und wird auch
 binnen kurzem wieder in seiner alten Schönheit prangen. -- Der
 Landmann hat unserer Ansicht nach Recht, und möge der Baum
 noch viele Geschlechter überleben.
- 
 
-<h>II.</h>
+<h4>II.</h4>
 
-<pre><em>»Zu Ottensen an der Mauer
+<pre class="right">»Zu Ottensen an der Mauer
 der Kirch' ist noch ein Grab,
 darin des Lebens Trauer
-ein Held gelegt hat ab.«</em></pre>
+ein Held gelegt hat ab.«</pre>
 
 Rückert gedenkt des greisen Feldherrn, des Herzogs von Braunschweig,
 Karl Wilhelm Ferdinands, der hier »vor des Hirnes Spalte«
 Ruhe im Grabe fand. Der Dichter läßt das denkende Haupt des
 Kriegers sich aus der Gruft erheben:
 
-<pre><em>»Da sieht es der Zwölfhundert
+<pre>»Da sieht es der Zwölfhundert
 Grabstätte sich so nah
 und ruft wohl aus verwundert:
-Ein Feldherr ward ich ja.«</em></pre>
+Ein Feldherr ward ich ja.«</pre>
 
 Wie schön und erhaben ist dieser Gedanke; der greise Krieger,
 der, um Deutschland zu befreien, dessen Söhne in den Kampf
@@ -200,10 +199,10 @@ preist den greisen Feldherrn, der, um seines Landes Knechtschaft
 zu tilgen, erhobenen Hauptes in den Tod ging, auch er hält
 seine Parade, jedoch über das große Schmerzensheer:
 
-<pre><em>»Euch hat auf andern Pfaden,
+<pre>»Euch hat auf andern Pfaden,
 und doch aus gleichem Grund,
 der Tod hierher geladen,
-ihr seid mit mir im Bund.«</em></pre>
+ihr seid mit mir im Bund.«</pre>
 
 So verherrlichte Rückert die Opfer des Krieges, die er sich
 im Tode vereint denkt. -- Aber vergebens suchst du jetzt das Grab
@@ -257,30 +256,28 @@ Die Bürger Braunschweigs errichteten dem Herzog Karl Wilhelm
 Ferdinand und seinem Sohne Friedrich Wilhelm, der 1815
 bei Quatre-Bras so glorreich endete,
 
-<pre><em>»Mit seinen dunkeln Schützen
+<pre>»Mit seinen dunkeln Schützen
 der Öels, mein wackrer Sohn,
 der könnte wohl euch nützen,
-doch fiel auch der nun schon.«</em></pre>
+doch fiel auch der nun schon.«</pre>
 
 eine 60 Fuß hohe, aus Eisen gegossene Spitzsäule; an ihrem Fuße
 ruhen vier prächtige Löwen, und sie trägt die Inschrift:
 
-<pre><em>»Seinen für Deutschland gefallenen Fürsten ihr Vaterland 1822.
+<pre>»Seinen für Deutschland gefallenen Fürsten ihr Vaterland 1822.
 Den Einbruch in das Vaterland mit seinem Blute wehrend, sank
 Braunschweigs Welfe Karl Wilhelm Ferdinand, mit ihm seines
 Volkes Glück. Des Vaterlandes, vom Feinde neubedrohtes Glück
 schützend, sank Braunschweigs Welfe Friedrich Wilhelm an seiner
 Krieger Spitze. Ihr Ruhm lebt ewig, dauernd wird mit ihm ihr
-Stamm dem Vaterlande zum Segen.«</em></pre>
+Stamm dem Vaterlande zum Segen.«</pre>
 
+<h4>III.</h4>
 
-
-<h>III.</h>
-
-<pre><em>»Zu Ottensen, von Linden
+<pre class="right">»Zu Ottensen, von Linden
 beschattet auf dem Plan,
 ist noch ein Grab zu finden,
-dem soll, wer trauert, nah'n.«</em></pre>
+dem soll, wer trauert, nah'n.«</pre>
 
 Dort rauscht die mächtige Linde dem edlen Barden Klopstock
 und streut im Frühlinge ihre Blüten auf des Sängers Grab. --
@@ -297,19 +294,19 @@ und seine Hermannsschlacht allgemein bekannt zu sein verdienten.
 Klopstock war unser bedeutendster und vielleicht unser frühester Freiheitsdichter,
 Mahlmann singt von ihm:
  
-<pre><em>»Es sang sein herrlich Lied die große Weltversöhnung,
+<pre>»Es sang sein herrlich Lied die große Weltversöhnung,
 im Schmerz von Golgatha vollbracht;
 es sang voll Vaterlands die deutsche Heldenkrönung,
 den Siegessang von Hermanns Schlacht.
 Es sang der Freundschaft Glück, der Liebe Götterwonnen,
 der Andacht heil'gen Psalm, den Auferstehungstag!
 So flog sein Adler auf zum Lichtquell ew'ger Sonnen,
-und Freiheit war sein Flügelschlag! --«</em></pre>
+und Freiheit war sein Flügelschlag! --«</pre>
 
 Rückert erkennt in Klopstock den hehren Freiheitssänger, und
 selbst auf dem Grabe des Dichters vernimmt er den Freiheitsodem:
 
-<pre><em>»Wohl hat, als dumpfer Brodem
+<pre>»Wohl hat, als dumpfer Brodem
 der Knechtschaft uns umgab,
 ein leiser Freiheitsodem
 geweht von seinem Grab.
@@ -317,7 +314,7 @@ geweht von seinem Grab.
 Wohl ist, als hier den Flügel
 die Freiheit wieder schwang,
 o Klopstock, deinem Hügel
-ertönt ein Freudenklang.«</em></pre>
+ertönt ein Freudenklang.«</pre>
 
 Klopstock erlebte nicht die tiefste Erniedrigung Deutschlands,
 er starb am 14. März 1803; die Linde, die sein Grab beschattet,
@@ -325,7 +322,7 @@ wurde 1758 für Meta gepflanzt.
 
 Die Inschrift auf Klopstocks Grabstein lautet:
 
-<pre><em>Saat von Gott gesäet, dem Tage der Garben zu reifen.
+<pre class="center">Saat von Gott gesäet, dem Tage der Garben zu reifen.
 Bei seiner Meta und bei seinem Kinde ruhet
 Friedrich Gottlieb Klopstock.
 Er ward geboren den 2. Juli 1724.
@@ -344,12 +341,12 @@ Seine zweite liebende und geliebte Gattin
 Johanna Elisabeth
 setzte diesen Stein, anbetend den,
 der für uns lebte, starb, begraben
-und auferstanden ist.</em></pre>
+und auferstanden ist.</pre>
  
 Der Verfasser dieser Grabschrift soll Stolberg sein. Die Inschrift
 auf Metas Stein, die Klopstock verfaßte, lautet:
 
-<pre>Saat von Gott gesäet, dem Tage der Garben zu reifen.
+<pre class="center">Saat von Gott gesäet, dem Tage der Garben zu reifen.
 Margareta Klopstock
 erwartet da, wo der Tod nicht ist,
 ihren Freund, ihren Geliebten, ihren Mann,
@@ -366,6 +363,6 @@ verheiratet den 10. Juni 1754
 und starb den 28. November 1758.
 Ihr Sohn schlummert in ihrem Arme.</pre>
 
-<em>Aus: Heinrich Zeise. Aus dem Leben und den Erinnerungen
-eines norddeutschen Poeten.</em>
+<div class="source">Aus: Heinrich Zeise. Aus dem Leben und den Erinnerungen
+eines norddeutschen Poeten.</div>
 

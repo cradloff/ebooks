@@ -1,12 +1,11 @@
+<h2>Trutz, blanke Hans.</h2>
 
-<h>Trutz, blanke Hans.</h>
-
-<h>Von Detlev v. Liliencron.</h>
+<h3>Von Detlev v. Liliencron.</h3>
 
 <pre>Heut' bin ich über Rungholt gefahren.
 Die Stadt ging unter vor sechshundert Jahren.
-Noch schlagen die Wellen da wild und empört,</pre> 
-<pre>wie damals, als sie die Marschen zerstört.
+Noch schlagen die Wellen da wild und empört,
+wie damals, als sie die Marschen zerstört.
 Die Maschine des Dampfers schütterte, stöhnte,
 aus den Wassern rief es unheimlich und höhnte:
 Trutz, blanke Hans.
@@ -46,8 +45,8 @@ Trutz, blanke Hans.
 Auf allen Märkten, auf allen Gassen
 lärmende Leute, betrunkene Massen.
 Sie ziehn am Abend hinaus auf den Deich:
-»Wir trotzen dir, blanker Hans, Nordseeteich!«</pre> 
-<pre>Und wie sie drohend die Fäuste ballen,
+»Wir trotzen dir, blanker Hans, Nordseeteich!«
+Und wie sie drohend die Fäuste ballen,
 zieht leis aus dem Schlamm der Krake die Krallen.
 Trutz, blanke Hans.
 
@@ -75,5 +74,5 @@ Heut' bin ich über Rungholt gefahren,
 die Stadt ging unter vor sechshundert Jahren.
 Trutz, blanke Hans?</pre>
 
-Detlev v. Lillencron  (Gedichte. Berlin, Schuster & Löffler).
+<div class="source">Detlev v. Lillencron  (Gedichte. Berlin, Schuster &amp; Löffler).</div>
 

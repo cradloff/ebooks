@@ -308,14 +308,11 @@ auf und rannten wiehernd und schnaubend mit ihren Reitern nach
 allen Seiten davon; das eine zerschmetterte sich beide Beine am
 Steinwall des Brunnenredder.
 
+<div align="center"><img alt="Ansicht von den Hügeln über Felder" src="0207.jpg"/>Die Hüttener Berge</div>
+
 Aber nur wenige Sätze kamen sie vorwärts, da wurden sie von
-den Schüssen der Deutschen wieder ohne Gnade auf den Klint zu-* 
-
-<bild/>
-
-<bu>Die Hüttener Berge</bu>
-
-*rückgetrieben. Das war ein Stampfen und Wiehern, ein Dröhnen
+den Schüssen der Deutschen wieder ohne Gnade auf den Klint
+zurückgetrieben. Das war ein Stampfen und Wiehern, ein Dröhnen
 und Schnaufen, das war ein Gestöhne, Gefluche und Hurrageschrei!
 
 Dazu begannen die Dorfhunde zu heulen, und in den Fenstern

@@ -1,7 +1,6 @@
+<h2>Ubben Ubbena.</h2>
 
-<h>Ubben Ubbena.</h>
-
-<h>Von Eilhard Erich Pauls.</h>
+<h3>Von Eilhard Erich Pauls.</h3>
 
 Ein Fischerstädtchen träumt hinter den Deichen. Die Strohdächer
 seiner niedrigen Hütten sind von der grünen Patina dichten
@@ -79,8 +78,8 @@ Markte wohnte, fürchtete sich nicht vor ihm. Der war aber auch
 noch nicht lange in unserer Gegend. Der hatte gesagt, er wolle den
 Seeräuber hinrichten lassen, und er werde ihn kriegen. Dieser Amtmann
 hieß Tönding und war ein strenger Mann. Aber er hatte
-ein feines Töchterchen, das war fünf Jahre alt und war das zier-* 
-*lichste Ding, das es auf der Welt gab. Es hieß Engel, und alle
+ein feines Töchterchen, das war fünf Jahre alt und war das
+zierlichste Ding, das es auf der Welt gab. Es hieß Engel, und alle
 Leute sagten, wenn sie auf dem Markte vorbeikamen und das Mädchen
 spielte auf der Steintreppe: »Es ist wirklich ein Engel!«
 
@@ -201,5 +200,5 @@ Händen, als er selbst niederkniete.
 Aber ehe des Henkers Schwert seinen Nacken traf, rief er dem
 Amtmann zu: »Es war Engel, deine Tochter!«
 
-<em>Aus: Eilhard Erich Pauls, Vom Leid. Novellen. (Hamburg, E. Schloeßmann.)</em>
+<div class="source">Aus: Eilhard Erich Pauls, Vom Leid. Novellen. (Hamburg, E. Schloeßmann.)</div>
 

@@ -1,8 +1,8 @@
-<bild/>
+<div align="center" float="left"><img alt="Reiter am Strand" src="0089.gif"/></div>
 
-<h>Der Deichbruch.</h>
+<h2>Der Deichbruch.</h2>
 
-<h>Von Theodor Storm.</h>
+<h3>Von Theodor Storm.</h3>
 
 Es war vor Allerheiligen, im Oktober. Tagüber hatte es stark
 aus Südwest gestürmt; abends stand ein halber Mond am Himmel,
@@ -66,8 +66,8 @@ zitternden Lippen versagten es ihr.
 
 Draußen wieherte der Schimmel, daß es wie Trompetenschall
 in das Heulen des Sturmes hineinklang. Elke war mit ihrem
-Manne hinausgegangen; die alte Esche knarrte, als ob sie aus-* 
-*einanderstürzen solle. »Steigt auf, Herr!« rief der Knecht, »der
+Manne hinausgegangen; die alte Esche knarrte, als ob sie
+auseinanderstürzen solle. »Steigt auf, Herr!« rief der Knecht, »der
 Schimmel ist wie toll; die Zügel könnten reißen.« Hauke schlug
 die Arme um sein Weib: »Bei Sonnenaufgang bin ich wieder
 da!« Schon war er auf sein Pferd gesprungen; das Tier stieg mit
@@ -138,19 +138,15 @@ nein; auf unsere Werfte steigt das Wasser nicht!« Aber nur einen
 Augenblick war es; nur wie eine Vision flog alles an ihm vorbei.
 
 Eine furchtbare Bö kam brüllend vom Meer herüber, und ihr
-entgegen stürmten Roß und Reiter den schmalen Akt*)[RN] zum Deich
+entgegen stürmten Roß und Reiter den schmalen Akt<a class="refnote" id="rn1" href="#fn1">*)</a> zum Deich
 hinan. Als sie oben waren, stoppte Hauke mit Gewalt sein Pferd.
 Aber wo war das Meer? Wo Jeverssand? Wo blieb das Ufer
-drüben?-------Nur Berge von Wasser sah er vor sich, die dräuend
+drüben? -- -- Nur Berge von Wasser sah er vor sich, die dräuend
 gegen den nächtlichen Himmel stiegen, die in der furchtbaren Dämmerung
 sich übereinander zu türmen suchten und übereinander gegen
 das feste Land schlugen. Mit weißen Kronen kamen sie daher,
 heulend, als sei in ihnen der Schrei alles furchtbaren Raubgetiers
 der Wildnis. Der Schimmel schlug mit den Vorderhufen und schnob
-
-<hr/>
-
-[FN]*) Die schräge Auffahrt zum Kamm des Deiches.] 
 mit seinen Nüstern in den Lärm hinaus; den Reiter aber wollte
 es überfallen, als sei hier alle Menschenmacht zu Ende, als müsse
 jetzt die Nacht, der Tod, das Nichts hereinbrechen. Doch er besann
@@ -336,5 +332,7 @@ der Lichtschein, und von der Geest her, wo die Häuser allmählich
 dunkel wurden, warf noch die einsame Leuchte aus dem Kirchturm
 ihre zitternden Lichtfunken über die schäumenden Wellen.
 
-<em>Aus: Theodor Storm, Der Schimmelreiter. (Berlin, Gebr. Paetel.)</em>
+<div class="source">Aus: Theodor Storm, Der Schimmelreiter. (Berlin, Gebr. Paetel.)</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Die schräge Auffahrt zum Kamm des Deiches.</div>
 
