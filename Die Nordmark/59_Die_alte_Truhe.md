@@ -1,8 +1,8 @@
-<bild/>
+<div align="center"><img alt="Blick in ein Zimmer mit einer großen Truhe" src="0304.gif"/></div>
 
-<h>Die alte Truhe.</h>
+<h2>Die alte Truhe.</h2>
 
-<h>Von Timm Kröger.</h>
+<h3>Von Timm Kröger.</h3>
 
 »Anna,« sagte Trien Paulsen zu ihrem Töchterchen, »dat's Merra,
 roop Vadder!«
@@ -185,9 +185,9 @@ und David und Jonathan erkannte. Und an der unteren Leiste
 längs war quer über beide Felder weg frei nach Matthäi 5, 23--24
 ein Spruch hingeschnitzt:
 
-<pre>»Sobald du denkst, es hab ein Bruder
-etwas gegen dich, geh hin, versöhne dich!
-Und dann zu mir, zu deinem Gott!«</pre>
+> »Sobald du denkst, es hab ein Bruder
+> etwas gegen dich, geh hin, versöhne dich!
+> Und dann zu mir, zu deinem Gott!«
 
 Die Lade bat Hans sich aus. Aber Klaus wollte nicht. Nicht
 aus Eigennutz (beide Brüder hatten weder von dem materiellen
@@ -534,5 +534,5 @@ lief an der unteren Leiste hin: Sobald du denkst, ein Bruder
 hab etwas gegen dich, -- geh hin, versöhne dich! -- Und dann --
 zu mir, zu deinem Gott!
 
-<em>Aus: Timm Kröger, Aus alter Truhe. (Hamburg, Alfr. Janssen.)</em>
+<div class="source">Aus: Timm Kröger, Aus alter Truhe. (Hamburg, Alfr. Janssen.)</div>
 

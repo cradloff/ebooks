@@ -1,6 +1,6 @@
-<h>Ein dithmarsischer Bauer.</h>
+<h2>Ein dithmarsischer Bauer.</h2>
 
-<h>Von Fr. Hebbel.</h>
+<h3>Von Fr. Hebbel.</h3>
 
 <pre>Der warme Sommer scheidet
 mit seinem letzten Strahl;
@@ -36,9 +36,9 @@ es gilt den letzten Schweiß;
 auf morgen fürcht' ich Regen,
 die Wolken sind zu kraus,
 drum muß der Gottessegen
-mir noch vor Nacht ins Haus!«</pre>
+mir noch vor Nacht ins Haus!«
  
-<pre>Er spricht's im barschen Tone
+Er spricht's im barschen Tone
 und fügt kein Wort hinzu
 von doppelt großem Lohne
 und langer Sonntagsruh;
@@ -117,9 +117,9 @@ so tretet selbst herbei!
 Gebt acht, wir werden's zwingen,
 wenn ihr die Räder packt
 und ich vor allen Dingen
-die Deichsel, bis sie knackt.«</pre> 
+die Deichsel, bis sie knackt.«
 
-<pre>Die Knechte aber denken:
+Die Knechte aber denken:
 Ein Tor ist, wer so spricht;
 auch darf man's ihm nicht schenken,
 er kennt die Grenze nicht!

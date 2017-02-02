@@ -1,6 +1,6 @@
-<h>Professor Reimers.</h>
+<h2>Professor Reimers.</h2>
 
-<h>Von C. N. Schnittger.</h>
+<h3>Von C. N. Schnittger.</h3>
 
 Wer früher den Schleswiger Pferdemarkt besuchte, konnte sicher
 sein, dort eine Schaubude zu finden mit der Überschrift:
@@ -67,30 +67,27 @@ ihm zugefallenen Lotteriegewinn verjubelt hatte, an den Nagel und
 warf sich auf »die freien Künste«. Die letzte Lesart ist wohl die
 richtige.«
 
-Klaus Groth läßt Reimers in seinem »Quickborn« sagen:[RN]
+Klaus Groth läßt Reimers in seinem »Quickborn« sagen:<a class="refnote" id="rn1" href="#fn1">*)</a>
 
-<pre>»Ick sprung noch inne Kinnerbüx,
-do weer ick all en Daugenix;«</pre>
+> »Ick sprung noch inne Kinnerbüx,
+do weer ick all en Daugenix;«
 
 und weiter:
 
-»<pre>Min Vader schick mi hen na Schol,
+> »Min Vader schick mi hen na Schol,
 ick hal mi oft en Pockel vull
 und mak den Rekter splitterdull;
 min Lex, den wuß ich slech.
 <i>Sum sus</i> -- dat wull der gar nich 'rin;
 ick flök den Kram tum Döwel hin,
 en Prester steek der doch nich in!
-Mi stun dat Swart in'n Weg.«</pre>
+Mi stun dat Swart in'n Weg.«
 
 So zog denn unser Reimers mit seinem Policinellokasten von
 Stadt zu Stadt, und es mag wohl kaum eine Persönlichkeit in
 Schleswig-Holstein gegeben haben, die bekannter war als er. Mit
 der Zeit stieg er eine Stufe höher, indem er Besitzer einer Schaubude
 wurde, worin er ein förmliches Kasperletheater einrichtete.
-
-[FN]Siehe das Gedicht »Orgeldreier«.]
- 
 Aber alles hat seine Zeit, und so verlor auch das Kasperletheater
 nach und nach an Reiz. Nun assoziierte Reimers sich mit einem
 Zauberer und früheren Zirkusbesitzer, namens Karl Pötau aus
@@ -135,7 +132,7 @@ Ruhm möge Wilhelm Reimers mitnehmen, daß er ein ausgezeichneter
 Policinellospieler war, doch -- »dem Mimen flicht die Nachwelt keine
 Kränze!«
 
-<g>Anmerkung des Herausgebers:</g>
+<div class="g">Anmerkung des Herausgebers:</div>
 
 Klaus Groth und Reimers sollen Schulkameraden gewesen sein.
 Von beiden erzählte man sich früher die folgende Anekdote, deren
@@ -146,17 +143,17 @@ Teilnahme seines einstigen Jugendgenossen, suchte ihm auszuweichen.
 Aber Reimers hielt ihn fest, indem er sagte: »Loop man nich glik
 von mi, ick bin ebenso veel wie du, ick bin ock Professor.« »Das
 ist ja schön, lieber Reimers,« antwortete der Dichter, »ich habe dich
-auch in meinem Quickborn verewigt.« -- »Ick heff ock för di sorgt,
+auch in meinem ›Quickborn‹ verewigt.« -- »Ick heff ock för di sorgt,
 Klaas, denn ick heff di in min Putschenelekasten bröcht!« --
 
 Im »Quickborn« bezieht sich sicherlich folgende Stelle aus »De
 Heisterkroog« auf Reimers, sie lautet:
 
-<pre>... dar kumt en Hexenmeister,
+> ... dar kumt en Hexenmeister,
 de Künsten kann, wo Een de Hut bi schudert.
 De hett al unnerwegens Dinger makt
 mit Halsafsnieden un mit Koppopsetten,
-un hett Dukaten kloppt ut Höhnereier!</pre>
+un hett Dukaten kloppt ut Höhnereier!
 
 Der Nachfolger von Reimers auf dem Gebiet der höheren Magie
 wurde »Professor Lorgie«, ein geborener Hamburger, aber bei weitem
@@ -186,8 +183,8 @@ belebte den Vortrag, und andächtig lauschte das Auditorium, wenn
 er die Erklärung seines Bildes begann und darauf mit etwas verschleiertem
 Bariton einsetzte:
 
-<pre><em>»Schrecklich ist es, wenn das Leben
-jäh entrafft der kalte Tod« -- usw.</em></pre>
+> »Schrecklich ist es, wenn das Leben
+jäh entrafft der kalte Tod« -- usw.
 
 Grawehl wanderte nicht über Schleswig-Holstein hinaus, dazu
 war er zu sehr Partikularist. Wie Lorgie so ist auch er »in den
@@ -217,6 +214,8 @@ Konkurrenten, deren Epigonencharakter deutlich erkennbar war, mußte
 der »Wahre« schließlich das Feld räumen. Seit reichlich einem
 Jahrzehnt deckt auch ihn das Grab.
 
-<em>Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
-(Schleswig, Johs. Ibbeken.)</em>
+<div class="source">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
+(Schleswig, Johs. Ibbeken.)</div>
 
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Siehe das Gedicht »Orgeldreier«.</div>
+ 

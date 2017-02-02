@@ -1,8 +1,8 @@
-<h>Winning.</h>
+<h2>Winning.</h2>
 
-<h>Von Asta Heiberg.</h>
+<h3>Von Asta Heiberg.</h3>
 
-<em>E</em>ine Begebenheit, die wir später erlebten, erweckt noch immer
+Eine Begebenheit, die wir später erlebten, erweckt noch immer
 meine Empörung, wenn ich daran denke; sie zeigt, wie die
 Willkürherrschaft von dem Fanatismus ausgenutzt wurde.
 
@@ -107,10 +107,11 @@ Den Ausgang dieser Begebenheit aber illustriert der nachstehende
 klassisch formulierte Erlaß vom 5. Oktober 1852, den ich
 den Lesern nicht vorenthalten will:
 
-<g>Namens Seiner Königlichen Majestät.</g>
+<blockquote>
+<div class="g">Namens Seiner Königlichen Majestät.</div>
 
 Auf die am 23. August d. J. hieselbst eingegangene Vorstellung
-und Bitte von Seiten des <em>Dr. juris</em> Heiberg in Schleswig
+und Bitte von Seiten des <i>Dr. juris</i> Heiberg in Schleswig
 um Aufhebung des Erkenntnisses der Struxdorff-Hardesvogtei 
 vom 9. August d. J., durch welches Clara Witthöft
 und Agathe Friederike Brunhilde Schröder, beide aus Kiel,
@@ -118,11 +119,9 @@ so wie Nanni Elisabeth Henriette Heiberg aus Schleswig
 schuldig erkannt worden, jede eine Brüche von 10 Thlr. an
 die Königliche Kasse zu erlegen und die etwaigen Unkosten
 dieser Sache zu tragen,
-
 wird hierdurch nach eingezogenem Bericht der Struxdorff-Hardesvogtei,
 und bei Wiederanschließung der Original-Anlagen des
-Gesuchs,
-in Erwägung:
+Gesuchs, in Erwägung:
 
 daß die von dem Supplicanten gegen die Competenz der
 Struxdorff-Hardesvogtei und die Statthaftigkeit des von derselben
@@ -136,7 +135,6 @@ der Erledigung von Polizeisachen den Hardesvögten im Amte
 Gottorff nicht vorgeschrieben ist,
 
 daß ferner, was die Sache anlangt,
-
 zwar sämmtliche obgenannte uniformirte Mädchen auf eine
 ihren Verhältnissen wenig entsprechende Weise bei Gelegenheit
 ihrer Belustigung an einem öffentlichen Vergnügungsorte
@@ -163,6 +161,8 @@ Urkundlich unterm vorgedruckten Königlichen Insiegel.
 
 Gegeben in dem Königlichen Appellationsgericht für das
 Herzogthum Schleswig in Flensburg den 5. Oktober 1852.
-                     <em>Aus: Asta Heiberg. Erinnerungen aus meinem Leben.
-                                                         (Berlin. Carl Heymann.)</em>
+</blockquote>
+
+<div class="source">Aus: Asta Heiberg. Erinnerungen aus meinem Leben.
+(Berlin. Carl Heymann.)</div>
 

@@ -1,6 +1,6 @@
-<h>An Theodor Storm.</h>
+<h2>An Theodor Storm.</h2>
 
-<h>Von Detlev v. Liliencron.</h>
+<h3>Von Detlev v. Liliencron.</h3>
 
 <pre>Viel dunkelrote Rosen schütt' ich dir
 um deines Marmorsarges weiße Wände
@@ -36,9 +36,9 @@ Schrieb einer je, den siebzig Winter drückten,
 ein solches »Hochzeitfest«? War's nicht ein Jüngling,
 der siebzehnjährig heiß die Laute schlug
 vor seiner Liebsten Tür im sanften Mond,
-im Sehnsuchtspuls der Nachtigallenlieder?</pre> 
+im Sehnsuchtspuls der Nachtigallenlieder?
 
-<pre>Wohl trifft es sich, daß laut und polternd wirft
+Wohl trifft es sich, daß laut und polternd wirft
 ein herrlich Dichterherz mit rohem Gold
 und kann es nimmer zwingen zum Gerät;
 ihm fehlt die Künstlerhand, dir wurde sie.
@@ -48,6 +48,6 @@ um deines Marmorsarges weiße Wände
 und senke meine Stirn dem großen Dichter,
 den ich so sehr, so sehr geliebt.</pre>
 
-<em>Aus: Detlev v. Liliencron, Sämtliche Werke.
-(Berlin, Schuster & Loeffler.)</em>
+<div class="source">Aus: Detlev v. Liliencron, Sämtliche Werke.
+(Berlin, Schuster &amp; Loeffler.)</div>
 

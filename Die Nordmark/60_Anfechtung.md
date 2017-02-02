@@ -1,6 +1,6 @@
-<h>Anfechtung.</h>
+<h2>Anfechtung.</h2>
 
-<h>Von Charlotte Niese.</h>
+<h3>Von Charlotte Niese.</h3>
 
 Als Pietje Snut zu seiner Großmutter gebracht wurde, da war
 er drei Jahre alt und hatte weder Vater noch Mutter mehr.
@@ -187,7 +187,7 @@ Hatte doch ihre Konkurrentin den Fischhandel an eine
 ganz junge Person verkauft und lebte von ihrem Geld, weil Fritz
 das feiner fand.
 
-<bild/>
+<div align="center" float="right"><img alt="Frau am Stand der Fischhändlerin" src="0319.gif"/></div>
 
 Fritz Gerrit ging jetzt manchmal
 mit einer Braut im Elbdorf

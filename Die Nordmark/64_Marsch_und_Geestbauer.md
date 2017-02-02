@@ -1,6 +1,6 @@
-<h>Marsch- und Geestbauer.</h>
+<h2>Marsch- und Geestbauer.</h2>
 
-<pre>Von K. v. d. Eider.</pre>
+<h3>Von K. v. d. Eider.</h3>
 
 Herr -- Lehnsmann!« schallte es über den Hofplatz des Lehnsmanns
 Kätels zu Olderswort und noch einmal in langgezogenem
@@ -10,7 +10,7 @@ Eine dicke Magd in kurzgeschürztem Rock stand in der Hoftür;
 sie hielt den bloßen Arm über die Stirn und schaute blinzelnd nach
 ihrem Herrn aus.
 
-<bild/>
+<div align="center"><img alt="Bild des Bauern" src="0348.gif"/></div>
 
 Da kam er die Trift herauf, ein Hüne von Gestalt, groß, breitschulterig,
 mit einem Ansatz von Leibesfülle. Er beeilte sich nicht
@@ -53,13 +53,12 @@ Rock an und gewichste Stiefel.«
 wenn er Lackstiefel anhätte.« Mit diesen Worten schob Lehnsmann
 Kätels sich an der Magd vorbei zur Tür hinein.
 
+<div align="center" float="left"><img alt="Bild des Bauern" src="0349.gif"/></div>
+
 In der besten Stube, der Staatsstube des friesischen Bauern,
 sah es nicht sehr behaglich aus. Sie war ungeheizt und jedenfalls
 lange nicht gelüftet. Die roten Ripsmöbel trugen bunte Kattunüberzüge,
 die Rouleaus waren heruntergelassen, und in einer Ecke 
-
-<bild/>
-
 des Zimmers waren die Winteräpfel aufgeschüttet und verbreiteten
 einen säuerlichen Modergeruch.
 
@@ -307,7 +306,7 @@ Landheuer, und alles in allem steht sich der Pastor beinahe auf zehntausend
 Mark im Jahre. Ja, wir können uns das leisten. Aber
 ob Ihr Sohn da ankommen wird, ist die Frage. Bei dem Kollegium
 habe ich es ja in der Hand. Daß er mit auf die Wahl kommt,
-dafür kann ich schon sorgen. Aber nachher habe ich auch bloß <g>eine</g> 
+dafür kann ich schon sorgen. Aber nachher habe ich auch bloß <span class="g">eine</span>
 Stimme, wenn sich auch wohl manch einer danach richtet. Das beste
 wäre, wenn er ein paar Tage vorher bei den Bauern herumginge
 zu kuren; das ist hier so Mode. Dann braucht er auch hinterher
@@ -383,5 +382,5 @@ Gefallen, und wenn ich etwas von einer guten Milchkuh höre --«
 »Versteht sich, versteht sich, lieber Gröhn! Adjüs, und grüßen
 Sie zu Hause.«
 
-<em>Aus: K. v. d, Eider, Meerumschlungen. (Berlin, F. Fontane &amp; Co.)</em>
+<div class="source">Aus: K. v. d, Eider, Meerumschlungen. (Berlin, F. Fontane &amp; Co.)</div>
 

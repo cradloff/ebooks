@@ -1,6 +1,6 @@
-<h><em>Hamburger Stadtbild.</em></h>
+<h2>Hamburger Stadtbild.</h2>
 
-<h><em>Von Alfred Lichtwark.</em></h>
+<h3>Von Alfred Lichtwark.</h3>
 
 Wie die politische und ökonomische Geschichte Hamburgs, so ist
 auch der Ausbau des Stadtbildes von einer einzigen Macht
@@ -62,8 +62,8 @@ die populäre Vergnügungsstadt St. Pauli nie besucht.
 
 Alles Leben spielt sich in Haus und Garten ab. Es gibt kein
 Kneipen- und Klubleben. Eine Ausnahme macht das sehr alte,
-sehr entwickelte und sehr volkstümliche Sportsleben auf den Spiel-* 
-*plätzen, in den Ruder-, Jachtklubs und Rennklubs. Die Sportfeste
+sehr entwickelte und sehr volkstümliche Sportsleben auf den 
+Spielplätzen, in den Ruder-, Jachtklubs und Rennklubs. Die Sportfeste
 bilden die Höhepunkte des sommerlichen Lebens. Ein großartigeres
 Schauspiel von Volksleben in so unvergleichlichem Rahmen wie
 die Regatten auf der Alster dürfte der Kontinent kaum bieten.
@@ -86,5 +86,5 @@ entwickelt hat, spürt man im geselligen Verkehr und
 in dem abgeschlossenen Wesen des einzelnen, das von Fremden als
 Unzugänglichkeit empfunden wird.
 
-<pre><em>Aus: Alfred Lichtwark, Hamburg. Niedersachsen. (Berlin, Br. Cassirer.)</em></pre>
+<div class="source">Aus: Alfred Lichtwark, Hamburg. Niedersachsen. (Berlin, Br. Cassirer.)</div>
 

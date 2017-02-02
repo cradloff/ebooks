@@ -1,6 +1,6 @@
-<h>Schutt.</h>
+<h2>Schutt.</h2>
 
-<h>Von Helene Voigt-Diederichs.</h>
+<h3>Von Helene Voigt-Diederichs.</h3>
 
 Das Pferdenachtreiben beim Dreschen ist ein- für allemal Sönke
 Kallsens Arbeit. Ein Spaß ist das nicht, wenn der schneidende
@@ -441,6 +441,6 @@ schlägt mit der Peitsche über das eilig trabende Pferd.
 
 Auf rasselnden Rädern rollt der Wagen der Kreisstadt zu.
 
-<em>Aus: Helene Voigt-Diederichs, Schleswig-Holsteiner Landleute.
-(Jena, Eugen Diederichs.)</em>
+<div class="source">Aus: Helene Voigt-Diederichs, Schleswig-Holsteiner Landleute.
+(Jena, Eugen Diederichs.)</div>
 

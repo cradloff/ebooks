@@ -15,7 +15,7 @@ Nun ist aber ihre Erhaltung und Pflege eine der vornehmsten
 Aufgaben der Volkserziehung. Denn in der Heimat wurzelt unsere
 Volkskraft. Die Heimat gleicht der Mutter: sie trägt, nährt, bildet
 und formt ihre Kinder an Leib und Seele; sie verleiht ihnen eigenartiges
-Gepräge, so daß sie in <div class="g">ihrer</div> Art sich gebärden, in <div class="g">ihrer</div>
+Gepräge, so daß sie in <span class="g">ihrer</span> Art sich gebärden, in <span class="g">ihrer</span>
 Art denken und reden, schaffen und wirken. Und selbst auf den Gebieten
 des freien Schaffens -- der Kunst --, die sich in den Dienst
 der ganzen Menschheit stellt, verleugnet das Meisterwerk heimatliche

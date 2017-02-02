@@ -1,10 +1,10 @@
-<h>In den Hüttener Bergen.</h>
+<h2>In den Hüttener Bergen.</h2>
 
-<h>Schleswig-holsteinische Kriegserinnerungen aus dem Frühling 1848.</h>
+<h3>Schleswig-holsteinische Kriegserinnerungen aus dem Frühling 1848.</h3>
 
-<h>Von Felix Schmeißer.</h>
+<h3>Von Felix Schmeißer.</h3>
 
-<em>A</em>ls wäre es heute gewesen, so steht mir ein Bild von jenem
+Als wäre es heute gewesen, so steht mir ein Bild von jenem
 Sonntagmorgen vor Augen. Es war am 26. März 1848. Am
 24\. März hatte die Erhebung Schleswig-Holsteins durch die Proklamierung
 der provisorischen Regierung in Kiel ihren Anfang genommen.

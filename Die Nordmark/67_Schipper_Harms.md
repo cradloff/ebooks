@@ -1,8 +1,8 @@
-<bild/>
+<div align="center" float="left"><img alt="Schiff bei Nacht auf See" src="0365.gif"/></div>
 
-<h>Schipper Harms.</h>
+<h2>Schipper Harms.</h2>
 
-<h>Von W. Peper.</h>
+<h3>Von W. Peper.</h3>
 
 Auf einer kleinen Anbaustelle am Wege, der zu den großen Höfen
 abseit vom Städtchen führte, wohnte Schipper Harms. Die
@@ -193,5 +193,5 @@ dann kam -- nie trat über die Lippen des Schiffers ein Wort davon.
 
 Seit jener Nacht hat Harms keine Schiffsplanke wieder betreten.
 
-<em>Aus: Niedersachsen. (Carl Schünemann, Bremen.)</em>
+<div class="source">Aus: Niedersachsen. (Carl Schünemann, Bremen.)</div>
 

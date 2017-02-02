@@ -1,16 +1,13 @@
-<h>Abschied.</h>
+<h2>Abschied.</h2>
 
-<h>Von Theodor Storm.</h>
+<h3>Von Theodor Storm.</h3>
 
-<pre><em>K</em>ein Wort, auch nicht das kleinste, kann ich sagen,
+<pre>Kein Wort, auch nicht das kleinste, kann ich sagen,
 wozu das Herz den vollen Schlag verwehrt;
 die Stunde drängt, gerüstet steht der Wagen,
-es ist die Fahrt der Heimat abgekehrt.</pre>
+es ist die Fahrt der Heimat abgekehrt.
 
- 
-
-
-<pre>Geht immerhin -- denn eure Tat ist euer --
+Geht immerhin -- denn eure Tat ist euer --
 und widerruft, was einst das Herz gebot;
 und kauft, wenn dieser Preis euch nicht zu teuer
 dafür euch in der Heimat euer Brot!
@@ -48,11 +45,12 @@ von der sich jetzt mein heißes Auge trennt! --
 Und du, mein Kind, mein jüngstes, dessen Wiege
 auch noch auf diesem teuren Boden stand,
 hör' mich! -- denn alles andere ist Lüge --
-kein Mann gedeihet ohne Vaterland!</pre> 
+kein Mann gedeihet ohne Vaterland!
 
-<pre>Kannst du den Sinn, den diese Worte führen,
+Kannst du den Sinn, den diese Worte führen,
 mit deiner Kinderseele nicht verstehn,
 so soll es wie ein Schauer dich berühren
 und wie ein Pulsschlag in dein Leben gehn.</pre>
-<em>Aus: Theodor Storms sämtl. Werken. (Braunschweig, G. Westermann.)</em>
+
+<div class="source">Aus: Theodor Storms sämtl. Werken. (Braunschweig, G. Westermann.)</div>
 

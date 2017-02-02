@@ -1,6 +1,6 @@
-<h><em>Nach Rom -- ?</em></h>
+<h2>Nach Rom –?</h2>
 
-<h><em>Von Iven Kruse.</em></h>
+<h3>Von Iven Kruse.</h3>
 
 Ich hatte ihn liebgewonnen, den kleinen zehnjährigen Hinrich --
 oder Hinne, wie er gewöhnlich genannt wurde.
@@ -16,8 +16,8 @@ oder Herzog aus grauer Vorzeit seine Feinde hineingedrängt haben,
 »dat se all elendig, versapen sunt«, wie es in einer alten Chronik
 heißt ... und dann schloß er unter freiem Himmel bei dem Dörflein
 Frieden mit seinem Widersacher und nannte die Stätte Fredenkamp
-... und hierauf ritten beide auf ihren ungeschlachten Holsten-* 
-*hengsten nach entgegengesetzten Seiten davon wie gesättigte Wölfe.
+... und hierauf ritten beide auf ihren ungeschlachten Holstenhengsten
+nach entgegengesetzten Seiten davon wie gesättigte Wölfe.
 »Gott mit ju und kamt ni wedder!« mögen die armen Bauern gedacht
 haben, deren magere Felder von den Übermütigen zerstampft
 waren, diese Felder, deren harte, sandige Schollen sie mit unbesieglicher
@@ -99,8 +99,8 @@ klangen jubelnd, taufrisch aus dem zartblauen Luftgewebe
 herab, im Sonnenschein schwärmten zahllose Mücken, mit ihrer
 zarten Netzflügelmusik die Stille erfüllend, blitzende Fliegen und
 honigbeschwerte Bienen schossen summend durch die sonnige, warme
-Luft, in den Brombeer- und Haselbüschen zirpten die Grillen ein-* 
-*tönig, unverrückt, wie Ton gewordene Sonnenstrahlen, und wie holde
+Luft, in den Brombeer- und Haselbüschen zirpten die Grillen eintönig,
+unverrückt, wie Ton gewordene Sonnenstrahlen, und wie holde
 Sommerträume flatterten über die Siesta haltende Heide weiße und
 blaue und rote Falter dahin, unablässig umeinander herumgaukelnd,
 aber dann und wann sich an die großen tellerartigen, weißrosigen
@@ -258,7 +258,6 @@ Vor ihm aber stand ein alter Arbeiter, der Tagelöhner Johann
 Raben, Hinnes grauhaariger Vater.
 
 Er war mit bei der Ernte beschäftigt gewesen.
- 
 
 In seinem verwitterten, starkbehaarten Gesicht lag ein wunderlicher
 Ausdruck des Entsetzens und der Spannung, gerade als ob
@@ -307,6 +306,6 @@ weil es im Hause unbeaufsichtigt geblieben wäre, und
 hatte die im Wege gefundene Binsenmütze des toten Knaben auf
 sein Flachsköpfchen gesetzt.
 
-<em>Aus: Iven Kruse, Schwarzbrotesser. Holsteinische Geschichten und Gestalten.
-(Berlin, Franz Wunder).</em>
+<div class="source">Aus: Iven Kruse, Schwarzbrotesser. Holsteinische Geschichten und Gestalten.
+(Berlin, Franz Wunder).</div>
 

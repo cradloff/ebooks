@@ -1,6 +1,6 @@
-<h>Die Franzosen in Hamburg.</h>
+<h2>Die Franzosen in Hamburg.</h2>
 
-<h>Von Therese Devrient.</h>
+<h3>Von Therese Devrient.</h3>
 
 Es war um das Jahr 1807; Hamburg noch in seiner alten Gestalt,
 mit engen Straßen voll himmelhoher Häuser mit unzähligen

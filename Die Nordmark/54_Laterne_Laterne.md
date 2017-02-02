@@ -1,6 +1,6 @@
-<h><em>Laterne! Laterne!</em></h>
+<h2>Laterne! Laterne!</h2>
 
-<h><em>Von Jacob Loewenberg.</em></h>
+<h3>Von Jacob Loewenberg.</h3>
 
 <pre>Noch einmal glänzt wie Goldgeschmeide
 die Flut des Stromes leuchtend auf,
@@ -9,8 +9,8 @@ der Sommerabend still herauf.
 Und wie er durch die Gassen schreitet,
 aufatmend jede Brust sich weitet.
 Es ist, als kläng' ein Friedenswort,
-und Lärm und Unrast fliehen fort.</pre> 
-<pre>
+und Lärm und Unrast fliehen fort.
+
 Da kommt's aus Tür und Tor gesprungen,
 und ordnet sich in langer Reih,
 ein Zug von Mädchen und von Jungen,
@@ -51,8 +51,8 @@ Mein Kind, mein Kind singt mit im Zug:
 »Laterne! Laterne!
 Sonne, Mond und Sterne!
 Meine Laterne brennt so schön!
-Morgen wollen wir wieder gehn.«
+Morgen wollen wir wieder gehn.«</pre>
 
-<em>Aus: Jacob Loewenberg, Neue Gedichte.
-(Hamburg, M. Glogau jr)</em></pre>
+<div class="source">Aus: Jacob Loewenberg, Neue Gedichte.
+(Hamburg, M. Glogau jr)</div>
 

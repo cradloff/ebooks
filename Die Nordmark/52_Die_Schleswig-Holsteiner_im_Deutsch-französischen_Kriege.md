@@ -1,10 +1,10 @@
-<h>Die Schleswig-Holsteiner im Deutsch-französischen Kriege.</h>
+<h2>Die Schleswig-Holsteiner im Deutsch-französischen Kriege.</h2>
 
-<h>Von Gustav Frenssen.</h>
+<h3>Von Gustav Frenssen.</h3>
 
-<h>I. Mobilmachung.</h>
+<h4>I. Mobilmachung.</h4>
 
-<em>E</em>s war bei Rendsburg auf der Loher Heide, und Frankreich hatte
+Es war bei Rendsburg auf der Loher Heide, und Frankreich hatte
 vor vier Tagen den Krieg erklärt. Vor vier Tagen war der
 Gefreite Lohmann ins Lager gejagt und hatte dem Lagerkommandanten
 eine Depesche gebracht. Eine Minute später wußten alle
@@ -91,7 +91,7 @@ zurückkam. »Uhl,« schrie Gleiser, »Sie reiten das Pferd und sind
 Geschützführer vom sechsten Geschütz.« So zog Jörn Uhl als Unteroffizier
 in den Krieg.
 
-<h>II. Auf dem Marsch.</h>
+<h4>II. Auf dem Marsch.</h4>
 
 Acht Tage später zogen sie bei strömendem Regen durch die
 lange Pappelallee, welche die Vierundsiebziger vor sechs Tagen durchquert
@@ -158,7 +158,7 @@ herum und sagte nichts. Da sah Jörn Uhl noch einmal auf und
 sah all die ziehenden Menschen, die alle nach einem Ziele strebten,
 und fühlte die Größe der Zeit.
 
-<h>III. Bei Gravelotte.</h>
+<h4>III. Bei Gravelotte.</h4>
 
 In der folgenden Nacht zogen sie bei Fackelschein über einen
 Fluß. Am sechzehnten hörten sie Kanonen von ferne, zur Rechten,
@@ -241,8 +241,8 @@ Melodie geworden. Ein Heer von schrecklichen Tönen fliegt und rast
 mit wahnsinnigen Augen und verzerrten Gesichtern über die Höhen.
 Von halblinks her klingt immerfort ein Quäken und Kratzen, ein
 niederträchtiges Geräusch, als wenn einer mit Eisen in einen Haufen
-Glasscherben stößt. Eine Garbe davon fliegt quer über die keuchen-* 
-*den Menschen. -- »Feuer!« -- Das Feuer fliegt. Jörn Uhls Augen
+Glasscherben stößt. Eine Garbe davon fliegt quer über die keuchenden
+Menschen. -- »Feuer!« -- Das Feuer fliegt. Jörn Uhls Augen
 fliegen mit. Das war ein Treffer. Eine Garbe fliegt. Knatternd
 knirscht sie vorüber. Ein Leutnant kommt im Trabe gelaufen. Jörn
 Uhl wirft einen Blick hin. Der Leutnant wird gemäht und fliegt
@@ -339,7 +339,7 @@ Heimat reden noch nach fünfzig Jahren. »Schießt, Brüder!« Ein
 fremdartiges Lärmen und Tosen kommt brüllend näher. Der junge
 Leutnant springt heran und schreit überlaut: »Auf die Batterie zur
 Linken ... Kartätschen! Kartätschen!« -- »Herr Leutnant,« schreit
-Uhl ... »das ist ja <g>unsere</g> Batterie!« -- »Sehen Sie nicht? Sie
+Uhl ... »das ist ja <span class="g">unsere</span> Batterie!« -- »Sehen Sie nicht? Sie
 ist voll von roten Hosen!« -- »Herum!« Sie greifen alle zu. Die
 Fäuste in den Speichen. Schwer fällt es herum. »Kartätschen! ...
 Vierhundert Schritt!« ... Leutnant Hax steht wieder aufrecht, will
@@ -355,7 +355,7 @@ liegen zwischen den Geschützen und feuern gegen den anstürmenden,
 brüllenden und heulenden Feind. Ein Infanterist, ein flinker,
 sehniger Mensch mit rötlich rundem Kopf ist dicht neben Jörn
 Uhl gesprungen und schießt ... und schiebt eine neue Patrone
-ein. »Jörn Uhl! Junge! ... <em>adsum</em>, Jörn!« Jörn Uhl schiebt eine
+ein. »Jörn Uhl! Junge! ... <i>adsum</i>, Jörn!« Jörn Uhl schiebt eine
 Kartätsche ins Rohr und schlägt den Verschluß zu.... Warum
 soll Fiete Krey (sein Jugendfreund) nicht neben ihm stehen? »Dein
 Schießen nützt nichts mehr. Dat geiht to Enn.« Er wirft das Geschütz
@@ -417,8 +417,8 @@ Stelle aus dem Wald heraus. Aber die Geschütze werden zurückgezogen.
 Frische Infanterie steht in Massen und bedeckt das Feld.
 Der Feind ist still geworden. Der Abend kommt. Und wie es stiller
 wird ... ruft es in den Furchen und an den Büschen: »Hölp mi...
-O ... Hölp mi doch.« Und auf der Höhe: »<em>Je prie ... ma mère
-... pitié!</em>« Und aus dem trockenen Bachlauf: »Soo dösti ... so
+O ... Hölp mi doch.« Und auf der Höhe: »<i>Je prie ... ma mère
+... pitié!</i>« Und aus dem trockenen Bachlauf: »Soo dösti ... so
 dösti ... Mien Moder.«
 
 Es wird stiller. Die am Waldrand steigen von Pferd und
@@ -455,7 +455,7 @@ sagte der Leutnant. Sie hoben den Elsässer auf die Protze
 und zogen ab. Sie trafen wirklich in einer Senkung am Walde die
 anderen Batterien. Und wieder war keine Ruhe.
 
-Das ist ein Arbeiten gewesen am Rande des <em>Bois de la Cusse,</em>
+Das ist ein Arbeiten gewesen am Rande des <i>Bois de la Cusse,</i>
 diese ganze Nacht hindurch! Und als die Morgenröte kam, da
 standen vierzig Geschütze nebeneinander, wie auf der Loher Heide;
 zwei waren in Feindeshände gefallen. Pferde und Mannschaft, von
@@ -468,7 +468,7 @@ Holz übersät war. -- Aber der Feind kam nicht. Der Feind war
 kein Tiger mehr in brüllendem Ansprung. Er war ein gebundener
 Stier, der stöhnend mit den Hörnern in der Erde wühlt.
 
-<em>Aus: Gustav Frenssen, Jörn Uhl. (Berlin. Grotesche Verlagsbuchhdlg.)</em>
+<div class="source">Aus: Gustav Frenssen, Jörn Uhl. (Berlin. Grotesche Verlagsbuchhdlg.)</div>
 
-<bild/> 
+<div align="center"><img alt="Siegel" src="0268.gif"/></div>
 

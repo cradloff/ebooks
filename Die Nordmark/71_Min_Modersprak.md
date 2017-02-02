@@ -1,6 +1,6 @@
-<h>Min Modersprak.</h>
+<h2>Min Modersprak.</h2>
 
-<h>Von Klaus Groth.</h>
+<h3>Von Klaus Groth.</h3>
 
 <pre>Min Modersprak, wa klingst du schön!
 Wa büst du mi vertrut!
@@ -37,5 +37,5 @@ un singt keen Nachdigal;
 mi lopt je glik in Ogenblick
 de hellen Tran hendal.</pre>
 
-<pre><em>Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</em></pre>
+<div class="source">Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</div>
 

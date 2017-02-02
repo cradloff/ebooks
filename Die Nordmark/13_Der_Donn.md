@@ -1,8 +1,8 @@
 <div align="center" float="left"><img alt="Der Donn" src="0044.gif"/></div>
 
-<h>Der Donn.</h>
+<h2>Der Donn.</h2>
 
-<h>Von Klaus Harms.</h>
+<h3>Von Klaus Harms.</h3>
 
 Nach Mai 1784 zogen meine Eltern nach St. Michaelis Donn,
 eine kleine Meile von Fahrstedt entfernt. Ich saß bei unserer

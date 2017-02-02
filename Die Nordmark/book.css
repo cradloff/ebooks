@@ -16,6 +16,11 @@ h3 {
 	font-weight: normal;
 }
 
+/* Links ohne Unterstreichung */
+a {
+	text-decoration: none;
+}
+
 p {
 	text-indent: 1em;
 }
@@ -44,7 +49,7 @@ pre {
 .source {
 	white-space: pre-wrap;
 	text-align: center;
-	font-size: small;
+	font-size: x-small;
 }
 
 /* zentriert */

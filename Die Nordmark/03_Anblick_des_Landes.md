@@ -1,4 +1,4 @@
-<div align="center" float="left"><img alt="Blick auf eine Allee" src="0009.gif"/></div>
+<div align="center"><img alt="Blick auf eine Allee" src="0009.gif"/></div>
 
 <h1>I. Blick in das Land.</h1>
 

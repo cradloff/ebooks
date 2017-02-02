@@ -1,8 +1,8 @@
-<h>III. Volksart und Volkssitte.</h>
+<h1>III. Volksart und Volkssitte.</h1>
 
-<h>Hamburger Jungen.</h>
+<h2>Hamburger Jungen.</h2>
 
-<h>Von Gustav Falke.</h>
+<h3>Von Gustav Falke.</h3>
 
 Was ist ein Jahr für einen stillen Winkel wie Ohlsens Gang!
 Vorne, an der Straße, ging kein Jahr spurlos vorüber. Ihr
@@ -86,7 +86,7 @@ aus Versehen -- wer will das feststellen -- auf den Stiefel spuckte.
 Das fand Fritz Kleesand so
 komisch, daß er laut auflachte.
 
-<bild/>
+<div align="center" float="right"><img alt="Blick in eine Gasse" src="0271.gif"/></div>
 
 Im allgemeinen vertrugen
 sie sich gut. Sie waren in den
@@ -542,6 +542,6 @@ fuhren aufeinander los und gaben sich gegenseitig die Schuld, bis
 ein alter Bootsmann sie grob anließ: »Holt Mul! Sünst givt dat
 furts wat.«
 
-<pre><em>Aus: Gustav Falke, Die Kinder aus Ohlsens Gang.
-(Hamburg, Alfr. Janssen.)</em></pre>
+<div class="source">Aus: Gustav Falke, Die Kinder aus Ohlsens Gang.
+(Hamburg, Alfr. Janssen.)</div>
 

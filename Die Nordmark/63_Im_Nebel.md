@@ -1,6 +1,6 @@
-<h>Im Nebel.</h>
+<h2>Im Nebel.</h2>
 
-<h>Von Wilhelm Lobsien.</h>
+<h3>Von Wilhelm Lobsien.</h3>
 
 Sie wohnten eine halbe Meile vom Dorf entfernt in einer kleinen,
 hart am Seedeich liegenden Hütte, deren Strohdach windschief
@@ -585,5 +585,5 @@ Dann holten sie Lichtstümpfe herbei, steckten sie an den Baum
 und zündeten sie an. Und während der Sturm ums Haus gellte,
 sangen sie das alte schöne Lied »Stille Nacht! Heilige Nacht!«
 
-<pre><em>Aus: Wilhelm Lobsien, Hinterm Seedeich. (Bremen, Carl Schünemann.></em></pre>
+<div class="source">Aus: Wilhelm Lobsien, Hinterm Seedeich. (Bremen, Carl Schünemann.></div>
 

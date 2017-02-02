@@ -1,6 +1,6 @@
-<h><em>Üm hundert Daler.</em></h>
+<h2>Üm hundert Daler.</h2>
 
-<h><em>Von Joh. Hinr. Fehrs.</em></h>
+<h3>Von Joh. Hinr. Fehrs.</h3>
 
 Dat fründliche Burhus, wat dar an't Olndieks-Holt twischen hoge
 Kastang-, Appel- un Berböm rutkieken deit, weer so üm't Jahr
@@ -26,7 +26,7 @@ Büx anhebbn?«
 »Ne, min Heini, dat is en lütt Deern, Büxen dregt blot de
 Jungs.«
 
-Kinnjes'[RN] mi en Büx bingt?« frog he.
+Kinnjes'<a class="refnote" id="rn1" href="#fn1">*)</a> mi en Büx bingt?« frog he.
 
 »Dat glöv ik nich, Heini, du büst noch to lütt.«
 
@@ -77,11 +77,7 @@ helle Ogen.
 En Schritt achter't Finster war lud, de Vader keem in's höch
 un hork.
 
-<hr/>
-
-[FN] <em>Kind Jesus -- Weihnachtsmann.</em>] 
-
-<bild/>
+<div align="center"><img alt="Schneebedecktes Haus" src="0287.gif"/></div>
 
 »Kinnjes', hör!« tuschel Heini. Trina schütt mit'n Kopp un
 seeg &#281;rn Vader lurig an mit en Og, binah to old un to klok för dat
@@ -95,7 +91,7 @@ Trumpett. De Stubendäer gung apen, un herin trä en Mann,
 de wol en Fot körter weer as Steffen Pahl, ok wol en Jahrer
 twintig öller. Awer he heel sik stur un steil un dreih sik, as gung
 dat op Kommando. Dat weer »Bonapart«, de riekste Bur rund
-üm den Vierth[RN] in alle Dörper; so nöm'n em de Lüd, wil he mit
+üm den Vierth<a class="refnote" id="rn2" href="#fn2">*)</a> in alle Dörper; so nöm'n em de Lüd, wil he mit
 sin Geld Lütt un Grot regeer, dat allens na sin Pipen danzen müß.
 Sin grote Broder in Frankriek leeg al en paar Jahr in't Sark,
 un von sin Weltriek weer nix nabl&#281;ben as Schörren un Stücken;
@@ -110,8 +106,6 @@ to don harr; darbi leepen sin lütten scharpen Ogen dör de Stuv
 un bleeben an de beiden Kinner hang'n. »Deern, wat makst dar!
 Lettst du den Wakplock in din Hus danzen, Steffen? weetst du ok,
 wat dat bedüd?«
-
-[FN] <em>Weite Heidefläche.</em>] 
 
 »Dat bedüd en Doden,« sä Stessen Pahl langsam.
 
@@ -147,7 +141,7 @@ man!« sä Steffen möhsam.
 
 »Wat snackst du dar för dumm Tüch? man hundert Daler?
 Dat is in düsse trurigen Tiden en grot Kaptal, min Jung! Hest
-du di nich binah ut Hasen[RN] un Schoh lopen, üm de hundert Daler to
+du di nich binah ut Hasen<a class="refnote" id="rn3" href="#fn3">*)</a> un Schoh lopen, üm de hundert Daler to
 lehn, un wat hest utricht!«
 
 Steffen sweeg un seeg vör sik dal.
@@ -161,10 +155,6 @@ un de Botter is so billig, dat man de Wagens damit smern kann.«
 
 Steffen süfz mal hoch op. »Dat ward jowol mal beter,« sä he
 unseker.
-
-<hr/>
-
-[FN] <em>Strümpfe</em>] 
 
 »Ja, wenn wi op'n Karkhof liggn dot! Ik seh dat Enn nich
 af. Un darüm mutt ik min Geld hebbn, Steffen Pahl, un dat bald!«
@@ -455,7 +445,7 @@ du klar? Steffen mutt na Fru un Kind!«
 
 »Hier, min Saehn,« sä de ol Fru un seit en Hangelkorf op'n
 Disch, »ik hev di allerhand Kramsticken tohopen söcht för din Kinner
--- in düsse trurige Tid ward de arm Gaern garto licht verge[*?]ten.«
+-- in düsse trurige Tid ward de arm Gaern garto licht vergeten.«
 Se snack in een fort, dat Steffen garnich to Wort keem.
 
 Wildeß söch de Ol em en warmen Kuller un en Hot, awer Hot
@@ -464,19 +454,19 @@ ansnacken, awer Steffen meen, de Küll de em god, sind Kopp weer
 garto hitt. Se bröchen em bet an de Blangdaer un leeten em ut.
 
 Dat Weder weer anners warn; de Wind weer binah still, un von
-den swartgriesen He[*?]ben fulln man ümmerto de groten Flocken un
+den swartgriesen Heben fulln man ümmerto de groten Flocken un
 län sich sach op Bom un Busch un op de kole Eer; de Küll harr
-nalaten, dat schien, as wenn't Dauwe[*?]der warrn wull.
+nalaten, dat schien, as wenn't Dauweder warrn wull.
 
 Steffen stunn merrn op de Strat, de Daer weer eben achter em
 slaten. De beiden Oln leeten em gar nich to sik sülben kam -- nix
 harr he torügg laten in dat gode Hus as den Sand von sin Tüffeln,
-keen'n Dank, keen Adüs -- se harrn em rut schaben mit e[*?]r warm'n
+keen'n Dank, keen Adüs -- se harrn em rut schaben mit er warm'n
 Hand'n: »Man to, man to, Steffen, du mußt na Fru un Kind!«
 Nu stunn he buten un weer alleen, un nu eerst keem de ganze Freud
 aewer em un trock em dör un dör. He föhl noch mal in den Korf
 rin, wo ok de Büdel mit Geld liggn de, denn greep he an de Eer
-un nehm sin Tüffeln in de Hand un leep al wat he kunn[*] op Strümpsöcken
+un nehm sin Tüffeln in de Hand un leep al wat he kunn op Strümpsöcken
 in de düstre Nacht rin un na Ilenbeck to. -- -- 
 
 Henn Kark schimp un schüm un sä all, wat he wull, as Steffen
@@ -485,10 +475,10 @@ dat weer wol stahln oder he harr een ümbröcht un utplünnert, awer
 dat holp em nix, Steffen wiek un wackel nich un gung nich von'n
 Placken.
 
-»Wone[*?]m hest denn dat Geld her?« frog Trina, Henn sin Fru,
+»Wonem hest denn dat Geld her?« frog Trina, Henn sin Fru,
 de breed achtern Ahm seet, »lett sik dat garnich vertelln?« Henn
 un sin Olsch weern Ehlüd, as in Land un Stadt oftins vörkamt: de
-Leev harr e[*?]r nich tosam bröcht, un jahrnlang harrn se le[*?]vt as Katt
+Leev harr er nich tosam bröcht, un jahrnlang harrn se levt as Katt
 un Hund, de een noch tager as de anner; toletz harrn se sik tosam 
  
 funn op'n Geldsack, dar seeten se nu old un kold bi enanner un weern
@@ -536,8 +526,8 @@ Töns nich!« reep se op'n mal un fol de Handn. »Kinner nu kiekt
 mal, Moder lacht un weent in een Tasch!«
 
 Steffen harr sin Antje op'n Arm nahm, as weer't en lütt Popp,
-un tuschel er wat in't Ohr; do blöh de Freud op in dat bleeke Ge-* 
-*sicht ünner den witten Koppdok, un dat Is, wat sik üm er Hart leggt
+un tuschel er wat in't Ohr; do blöh de Freud op in dat bleeke 
+Gesicht ünner den witten Koppdok, un dat Is, wat sik üm er Hart leggt
 harr, leep er in Tran' lank de Backen hindal. He le er lies op't Bett
 un sä mit en deepe bewerige Stimm: »Nu besinn di man en betjn,
 min Antje, ik will för de Kinner sorgen!«
@@ -568,6 +558,13 @@ raewer!« Denn drog he er na er Kath.
 De Snee full de ganze Nacht man ümmerto in grote Flocken
 un stopp alle Löcker un deck all de Palten to von dat ol Hus an't
 Olndieksholt, damit dat doch ok en schönes reines Kleed harr för den
-Fierdag.	
-<em>Aus: J. H. Fehrs, Allerhand Slag Lüd. (Garding, H. Lühr & Dircks.</em>
+Fierdag.
+
+<div class="source">Aus: J. H. Fehrs, Allerhand Slag Lüd. (Garding, H. Lühr &amp; Dircks.</div>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Kind Jesus -- Weihnachtsmann.</div>
+
+<div class="footnote" id="fn2"><a href="#rn2">*)</a> Weite Heidefläche.</div>
+
+<div class="footnote" id="fn3"><a href="#rn3">*)</a> Strümpfe</div>
 

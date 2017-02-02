@@ -1,6 +1,6 @@
-<h>Jürn-Tine.</h>
+<h2>Jürn-Tine.</h2>
 
-<h>Von Ingeborg Andresen.</h>
+<h3>Von Ingeborg Andresen.</h3>
 
 Ann-Dortjen hockte zitternd auf der Schwelle ihres Hühnerstalles
 nieder. Hätte sie das nicht getan, wäre die Schüssel mit Mais
@@ -20,8 +20,8 @@ ballte sie die runzlige Hand zur Faust und reckte sie drohend in der
 Richtung der gegenüberliegenden Tür, die in die andere Wohnung
 der Kate führte. Als diese sich aber gerade öffnete und den Nachbar
 herausließ, erstarb Ann-Dortjens Verwünschung in einem unverständlichen
-Brummen, und rasch schlurrte sie auf ihren Filz-* 
-*pantoffeln davon. Denn trotz ihres Kummers und ihrer Entrüstung
+Brummen, und rasch schlurrte sie auf ihren Filzpantoffeln
+davon. Denn trotz ihres Kummers und ihrer Entrüstung
 verspürte sie nicht Mut genug in sich, dem vermeintlichen Mörder
 und Räuber der Weißbunten Aug' in Aug' ihre Meinung zu sagen
 -- sie teilte eben die Furcht und den Abscheu des ganzen Dorfes vor
@@ -292,5 +292,5 @@ plötzlich aber lachte Jürn übers ganze Gesicht, riß die Tür auf und
 rief Ann-Dortjen den Spruch nach, den Tine ihm am Morgen vergebens
 eingepaukt hatte: »Fröhliche Fest un Gott's dusend Segen!«
 
-<em>Aus: I. Andresen, Hinter Deich und Dünen. (Leipzig, Fr. Wilh. Grunow) </em>
+<div class="source">Aus: I. Andresen, Hinter Deich und Dünen. (Leipzig, Fr. Wilh. Grunow)</div>
 

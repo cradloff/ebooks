@@ -1,7 +1,6 @@
+<h2>Ein Brief Friedrich Hebbels.</h2>
 
-<h>Ein Brief Friedrich Hebbels.</h>
-
-<em>H</em>ebbel hatte seine Jugend unter dem Druck der bittersten Armut
+Hebbel hatte seine Jugend unter dem Druck der bittersten Armut
 und Not verlebt. Als er auf der Höhe seines Ruhmes stand, besuchte
 er seinen älteren Bruder Johann, der als Arbeiter in ärmlichen
 Verhältnissen in Holstein lebte, und den er seit 20 Jahren
@@ -12,9 +11,9 @@ hatte. Sein Bruder konnte sich jedoch zu einer Auswanderung nach
 Österreich nicht entschließen. Über das ergreifende Wiedersehen der
 beiden Brüder berichtet der Dichter seiner Frau:
 
-<em>Hamburg, den 19. Okt. 1861.</em>
+<div class="right">Hamburg, den 19. Okt. 1861.</div>
 
-<em>Meine teuerste Christine!</em>
+<div class="center">Meine teuerste Christine!</div>
 
 Nun habe ich Holstein bereits im Rücken; ich war gestern in
 Rendsburg und sah meinen Bruder, seit zwanzig Jahren zum erstenmal!
@@ -126,8 +125,8 @@ der Große an der Wand hängt? Ich habe auch den Einzug von
 Paris!« Als ich einpackte, bat er mich um eins der seidenen Taschentücher,
 das zerrissen war. Ich fragte: »Du willst es deiner Alten
 wohl mitbringen?« Er erwiderte: »Das nun wohl auch, ja, aber
-es ist mehr der Leute wegen! Ich werde sagen: das ist sein schlech-* 
-*testes.« Auch das Nichtkommen nach Gmunden ist durch die große
+es ist mehr der Leute wegen! Ich werde sagen: das ist sein 
+schlechtestes.« Auch das Nichtkommen nach Gmunden ist durch die große
 Not einfach gelöst; gleich konnten sie nicht gehen, denn das Kind
 war wirklich verletzt, und nachher war kein Geld mehr da. Im Feuer
 haben sie viel verloren; sie hatten sich eine Ausstattung zusammengedient,
@@ -138,13 +137,13 @@ Handstock zum Andenken mitnehmen.
 Von nun an, mein teuerstes Herz, richte Deine Briefe nach
 Berlin. Lange bleibe ich hier nicht mehr. Campe seh' ich heute,
 beißt er nicht von selbst in den Kuchen hinein, so stecke ich ihn
-wieder in die Tasche[R1].
+wieder in die Tasche<a class="refnote" id="rn1" href="#fn1">*)</a>.
 
-Euer altes, sehr altes Nux[R2].
+Euer altes, sehr altes Nux<a class="refnote" id="rn2" href="#fn2">**)</a>.
 
-<span class="footnote">Hebbel hatte dem Verleger Campe in Hamburg seine Nibelungen zum Verlage angeboten. Campe biß denn auch in den Kuchen, d. h. er übernahm den Verlag.</span>
+<div class="footnote" id="fn1"><a href="#rn1">*)</a>Hebbel hatte dem Verleger Campe in Hamburg seine Nibelungen zum Verlage angeboten. Campe biß denn auch in den Kuchen, d. h. er übernahm den Verlag.</div>
 
-<span class="footnote">Der Dichter, der ein großer Tierfreund war,
+<div class="footnote" id="fn2"><a href="#rn2">**)</a>Der Dichter, der ein großer Tierfreund war,
 unterzeichnete die Briefe an seine Frau gewöhnlich »Nux«.
-Diesen Spitznamen legte er sich seinem früheren Hündchen zu Ehren bei.</span>
+Diesen Spitznamen legte er sich seinem früheren Hündchen zu Ehren bei.</div>
 

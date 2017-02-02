@@ -1,7 +1,7 @@
-<h><em>Von Spielen und Vergnügungen aus der Großväter Zeit
-in Dithmarschen.</em></h>
+<h2>Von Spielen und Vergnügungen aus der Großväter Zeit
+in Dithmarschen.</h2>
 
-<h><em>Von Klaus Harms.</em></h>
+<h3>Von Klaus Harms.</h3>
 
 Wie viel ich auch von Hembüttel mitbrachte, so fand ich auf dem
 Donn doch ein weit reicheres Aufnehmen. Die große Knabenzahl,
@@ -102,7 +102,7 @@ in den Nacken. Der den letzten Span von dem Klotze, Schild genannt,
 herunterstieß, war Sieger (König). -- Das Eisboßeln --
 hat seine Beschreibung im achtzehnten Jahrhundert, ich meine, in Prof.
 Ehlers Schrift »Über die Sittlichkeit der Vergnügungen« gefunden.
-Stehe jedoch einiges über dasselbe hier» Der Boßel ist eine hölzerne
+Stehe jedoch einiges über dasselbe hier. Der Boßel ist eine hölzerne
 Kugel, zwei-, dreimal durchbohrt, und in diese Löcher Blei gegossen,
 davon sie eine Schwere bekommt von acht Lot, drunter und drüber.
 »Eisboßeln«: »Eis« kommt daher, weil es in der Marsch nur geschehen
@@ -137,8 +137,6 @@ einige ihresgleichen Sonntags abends bei sich zu haben, dabei sich
 denn ungeladen, aber bald erforscht habend, wo es wäre, Knaben
 auch einfanden. --
 
-<pre><em>
-Aus: Klaus Harms, Lebensbeschreibung.
-»Bibliothek theologischer Klassiker«. Bd. 7. (Gotha, F. A. Perthes.)
-</em></pre>
+<div class="source">Aus: Klaus Harms, Lebensbeschreibung.
+»Bibliothek theologischer Klassiker«. Bd. 7. (Gotha, F. A. Perthes.)</div>
 

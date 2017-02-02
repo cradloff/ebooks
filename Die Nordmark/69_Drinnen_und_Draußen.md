@@ -1,8 +1,8 @@
-<bild/>
+<div align="center" float="left"><img alt="Hallig mit mehreren Häusern, vorn ein halbversunkenes Bootswrack" src="0375.gif"/></div>
 
-<h>Drinnen und Draußen.</h>
+<h2>Drinnen und Draußen.</h2>
 
-<h>Von Friedrich Paulsen.</h>
+<h3>Von Friedrich Paulsen.</h3>
 
 Mit unbegrenzter Befriedigung blicke ich auf das Elternhaus
 zurück, das mich gehegt und gebildet hat, gebildet nicht so
@@ -214,40 +214,39 @@ Krüppel, Idioten, machten den Beschluß.
 
 <hr/>
 
-<g>Anmerkung:</g> In der Kirche zu Langenhorn ist unter dem von Prof.
+<span class="g">Anmerkung:</span> In der Kirche zu Langenhorn ist unter dem von Prof.
 Fr. Paulsen gestifteten, dem Andenken seiner Eltern gewidmeten Fenster, das
 den Apostel Paulus darstellt, eine Gedächtnistafel angebracht. Sie besteht aus
 drei Teilen. Die mittlere Haupttafel trägt folgende Inschrift:
 
-                                 <pre>                         An
-                                      <i>D. Dr.</i> Friedrich Paulsen
-                                     Geboren allhier zu Langenhom
-                                              Am 16. Juli 1846
-                                         Wo seine Eltern waren
-                               Paul Fr. Paulsen u. Christine geb. Ketelsen
-                                                    Seine Lehrer
-                              Küster S. Brodersen und Pastor C. Thomsen
-                                         Gestorben zu Steglitz bei Berlin
-                                              Am 14. Aug. 1908	.
-                                Nachdem er an der Berliner Universität
-                                durch 33 Jahre als Lehrer der Philosophie
-                                          und Pädagogik gewirkt hat.
-
-<hr/>
-                                                     Der Wahrheit
-                                    Und der gesunden Vernunft Freund
-                                       Feind der Lüge und dem Schein
-                                        Ein Anhänger der guten Sache
-                                           Auch der nicht siegreichen
-                                 Der Ehre der Welt nicht allzu begierig
-                               Nicht im Gefolge des Willens zur Macht
-                                             <g>Der Heimat treu</g>
-                      Den Eltern u. Lehrern seiner Jugend dankbar zugetan
-                                               Lebte er in einer Zeit
-                              Die von dem Allen das Gegenteil hielt
-                          Und verließ darum nicht unwillig diese Welt
-                                              <g>In der Hoffnung
-                                                einer besseren.</g></pre>
+<pre class="center">An
+<i>D. Dr.</i> Friedrich Paulsen
+Geboren allhier zu Langenhom
+Am 16. Juli 1846
+Wo seine Eltern waren
+Paul Fr. Paulsen u. Christine geb. Ketelsen
+Seine Lehrer
+Küster S. Brodersen und Pastor C. Thomsen
+Gestorben zu Steglitz bei Berlin
+Am 14. Aug. 1908
+Nachdem er an der Berliner Universität
+durch 33 Jahre als Lehrer der Philosophie
+und Pädagogik gewirkt hat.
+<hr width="20%"/>
+Der Wahrheit
+Und der gesunden Vernunft Freund
+Feind der Lüge und dem Schein
+Ein Anhänger der guten Sache
+Auch der nicht siegreichen
+Der Ehre der Welt nicht allzu begierig
+Nicht im Gefolge des Willens zur Macht
+<span class="g">Der Heimat treu</span>
+Den Eltern u. Lehrern seiner Jugend dankbar zugetan
+Lebte er in einer Zeit
+Die von dem Allen das Gegenteil hielt
+Und verließ darum nicht unwillig diese Welt
+<span class="g">In der Hoffnung
+einer besseren.</span></pre>
  
 So lag die Gliederung der Gesellschaft nach dem Besitz sichtbar
 vor Augen; man wußte von jedem Bauern, wieviel Demat Land er
@@ -272,7 +271,7 @@ die Spaltung in Rittergutsbesitzer und Tagelöhner, in offiziersfähige
 
 Die linke Tafel trägt folgende Inschrift:
 
-<pre><em>Der Lieben und Guten,
+<pre class="center">Der Lieben und Guten,
 Der Gefährtin meines ersten Glücks,
 Der Mutter meiner Kinder,
 Ihr, deren Glück es war, Freude zu machen,
@@ -282,11 +281,11 @@ Durch einen allzufrühen
 Vielbeweinten Tod abgerufen
 Zu Pyrmont 14. Juni 1883
 In treuer Erinnerung
-Gewidmet.</em></pre>
+Gewidmet.</pre>
          
 Inschrift der rechten Tafel:
 
-<pre><em>Der Gottgeliebten
+<pre class="center">Der Gottgeliebten
 Der treuesten Gattin
 Der aufopferndsten Mutter
 Der umsichtigen Hausfrau
@@ -297,12 +296,12 @@ Frau Laura Paulsen geb. Ferchel
 Geb. Nördlingen 26. Sept. 1851
 schrieb diese Inschrift
 ihr vor ihr dahingegangener	
-Gatte.</em></pre>
+Gatte.</pre>
  
 Familien und Gemeine, in Gebildete und Ungebildete, in Hochwohlgeborene
 und überhaupt Nicht-Geborene. Alle Stufen des
 Besitzes waren durch kontinuierliche Übergänge verknüpft; zwischen
-allen bestand, wenn auch mit Abstufungen, <em>conubium</em> und <em>commercium;</em>
+allen bestand, wenn auch mit Abstufungen, <i>conubium</i> und <i>commercium;</i>
 man saß wie in der Kirche so in der Schule und im Wirtshaus beisammen.
 In der Schule hatten die Kinder der reichen Bauern neben
 denen der Tagelöhner ihren Platz, und selbst die Insassen des Armenhauses
@@ -349,5 +348,5 @@ gebracht hätte -- man konnte durchaus nur sagen: ich bitte Vater,
 dies oder das zu tun -- so wenig konnte ich einen doppelt so alten
 Mann anders als mit Namen anreden: Wie geht es, Carsten?
 
-<pre><em>Aus: Friedrich Paulsen, Aus meinem Leben, (Jena, Eugen Diederichs,)</em></pre>
+<div class="source">Aus: Friedrich Paulsen, Aus meinem Leben, (Jena, Eugen Diederichs,)</div>
 

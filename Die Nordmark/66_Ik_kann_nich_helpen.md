@@ -1,6 +1,6 @@
-<h>Ik kann nich helpen.</h>
+<h2>Ik kann nich helpen.</h2>
 
-<h>Von Jacob Loewenberg.</h>
+<h3>Von Jacob Loewenberg.</h3>
 
 <pre>Jens Klaasen springt aus dem Bett. »Min Kind!
 Wo is min Junge? To Hülpe, geschwind!«
@@ -16,8 +16,9 @@ Du geihst hüt mit mi in de See.«
 Und der Junge springt jubelnd empor in die Höh'
 und küßt das wettergebräunte Gesicht
 und schlingt um den Nacken die Ärmchen und spricht:
-»Ik will di helpen.«</pre> 
-<pre>Sie stoßen vom Lande. Wie ruhig das Meer,
+»Ik will di helpen.«
+
+Sie stoßen vom Lande. Wie ruhig das Meer,
 und das Netz von blinkenden Fischen wie schwer!
 Der Junge klatscht lustig die Händchen sich rot,
 der Alte seufzt leis wie in schwerer Not.
@@ -55,9 +56,9 @@ Fest hält das Eisen, wie er auch ringt.
 Die Luke tiefer und tiefer sinkt;
 der Schleppkahn ist schon mit Wasser gefüllt.
 Er hämmert und reißt, er stöhnt und brüllt:
-»Ik kann nich helpen!«</pre>
+»Ik kann nich helpen!«
  
-<pre>Wild blickt er sich um, er läßt die Hand
+Wild blickt er sich um, er läßt die Hand
 und klettert hinauf auf des Bootes Rand,
 will über das steile Verdeck zur Tür --
 zurück! Keine Rettung, nicht dort, nicht hier!
@@ -73,5 +74,5 @@ sitzt still vor der Tür, starrt blöd auf die See
 und murmelt jenseits von Lust und Weh:
 »Ik kann nich helpen.«</pre>
 
-<em>Aus: Jacob Loewenberg, Neue Gedichte. (Hamburg, M. Glogau jr.)</em>
+<div class="source">Aus: Jacob Loewenberg, Neue Gedichte. (Hamburg, M. Glogau jr.)</div>
 
