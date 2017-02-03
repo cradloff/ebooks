@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Am Rande der Welt.</h2>
 
 <h3>Skizze von Thusnelda Kühl.</h3>
@@ -8,6 +9,7 @@ Dieser Wind ist sanft und singend und weckt die arbeitsmüden
 Menschen nicht, die in den niedrigen Häusern auf hoher Werft
 schlafen. Manche haben im Außendeich 
 »geschwehlt«<a class="refnote" id="rn1" href="#fn1">*)</a>, und ihre
+\<@pagebreak 13/>
 Kleider sind voll vom süßen Duft des Heus, in dem Strandastern
 und Thymian geblüht haben -- andere haben mit Spaten und
 Schaufel auf dem Damm gestanden, der zwischen dem Festlande
@@ -51,6 +53,7 @@ so nüchtern neuzeitlich ausschaut, als gehöre es nimmer zu
 den alten Werften und verwitterten Häusern. Sie tut es auch
 nicht -- die alte aber liegt ja lange draußen im Haff gleich Rungholt
 und Ol-Büsum, und die Wellen wandern rauschend über ihre Stätte 
+\<@pagebreak/>
 und über der Menschen verblichenes Gebein, die einst in ihrem
 Schatten gelebt und gewirkt haben. Nach Flut und Tod erbaute
 man eine Kirche an des Dorfes fernster Gemarkung.
@@ -92,8 +95,9 @@ sich drin vollendet -- seine Spuren sind verweht. Von einem Pfarrherrn
 aber meldet die Gedenktafel in der Kirche, daß er umgekommen
 sei in der Sturmflut von 1825. Von einem andern kündet Leutemund
 und ein halb versunkener Grabstein. Er ist von fernher gekommen,
-den wuchtigen Knotenstock in der Hand, das kernige Luther-* 
-*wort in Herz und Mund. Aber wie dringlich er auch angepocht
+den wuchtigen Knotenstock in der Hand, das kernige Lutherwort
+\<@pagebreak/>
+in Herz und Mund. Aber wie dringlich er auch angepocht
 hat bei der Küstengemeinde, sie hat dem »Fremden« kein »Herein«
 geboten, bis er in Not und Tod sich Einlaß erzwungen hat. Bei
 einem Rettungswerk ist's geschehen, daß sich der Starke den Keim
@@ -134,6 +138,7 @@ in dem alten Lehnstuhl am Klapptisch und neigte die Stirn über
 Zirkel und Quadranten. Sein geistiger Nachlaß war den beiden
 befreundeten Universitäten bestimmt; aber seine Witwe erfüllte diesen
 seinen letzten Willen nicht -- man sagt, sie habe es nicht vermocht, 
+\<@pagebreak/>
 sich von dem kleinsten Zettelchen zu trennen, das je durch des bewunderten Gatten Hand gegangen war. In einer Feuersbrunst im
 Hause eines der Dreizehn sind die Papiere zu Staub und Asche
 geworden. --

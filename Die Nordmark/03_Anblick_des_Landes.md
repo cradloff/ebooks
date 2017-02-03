@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 1/>
 <div align="center"><img alt="Blick auf eine Allee" src="0009.gif"/></div>
 
 <h1>I. Blick in das Land.</h1>
@@ -30,6 +32,7 @@ mehr aber noch für den Freund der nährenden Mutter Natur.
 
 Zwar nicht die schroffen Gegensätze zeigt unser Land, die das
 Gebirgsland bezeichnen; nicht sind die Klimate eines halben Erdballes
+\<@pagebreak/>
 übereinander geschichtet, einfach wie der Charakter des Bewohners
 ist die klimatische Natur; aber die Größe der Gletscher
 brauchen wir nicht anzustaunen, wenn die halbe Ostsee mit Eis bedeckt
@@ -72,6 +75,7 @@ geschlossen, daß kaum ein Sonnenstrahl bis auf den Boden dringen
 mag, und dazwischen die Stoppel der letzten Rapsaat und die frisch
 gewendete Scholle für die nächste, oder zu andern Zeiten unter dem
 Grün der Felder das prangende Gelb der Rapsaatblüte, auf den 
+\<@pagebreak/>
 Weiden das größeste und fetteste Vieh. Durch dies Land rollt man
 bei gutem Sommerwetter im Zickzack auf Wegen dahin, so hart und
 glatt wie eine Dreschdiele, zwischen schnurgeraden Kanälen von der
@@ -112,6 +116,7 @@ Gegenden kommt, ein freundlicheres Leben. Große Erlenbrüche und
 sumpfiges Bultenland bezeichnen die Niederung, Wiesen begleiten 
 den Lauf, und beackerte Felder sind im Gefolge der Wiesen und irgendein
 stattliches Gehöfte. Wo aber mehrere Bäche zusammentreffend 
+\<@pagebreak/>
 ein größeres Land bezwungen haben, da steht ein geschlossenes Dorf
 von strengem Charakter, dicht geschart um die Kirche, oder in der
 vorhin nicht sichtbaren Tiefe des Bachrandes vielleicht gar ein freundlicher

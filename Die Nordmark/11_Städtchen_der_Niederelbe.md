@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Städtchen der Niederelbe.</h2>
 
 <h3>Von Jean Paul d'Ardeschah.</h3>
@@ -11,8 +12,10 @@ Da gibt es Städtchen, die so stolz auf ihrer Geesthöhe liegen wie
 Lauenburg; der Strom zieht tief unten vorüber; jeglicher Zutritt
 ins Innere der Stadt ist ihm verwehrt. Schmal nur drückt sich ein 
 
-<div align="center" float="left"><img alt="Windmühle am Seestrand" src="0033.jpg"/>Vom Seestrand bei Husum.</div>
+\<@pagebreak 24/>
+<div align="center"><img alt="Windmühle am Seestrand" src="0033.jpg"/>Vom Seestrand bei Husum.</div>
 
+\<@pagebreak/>
 Häuserstreifen zwischen das Wasser und die aufsteigenden steinumsäumten
 Terrassen der Anhöhen; keine stille Bucht breitet sich
 aus zum freundlichen Willkomm der nahenden Schiffe, kein Hafen
@@ -51,8 +54,9 @@ Bilde der Elbe lebt -- so zieht es alles an sich, was vom schönen
 Schein leben will. Viel hat es aber auch den beiden Elbsanden zu
 verdanken, dem großen und dem kleinen Schweinesand, die die Fahrrinne
 der Elbe näher ans Ufer gedrängt haben, so daß man alle
-vorüberziehenden Dampfer und Segler aus unmittelbarer Nähe be-* 
-*trachten kann -- ein Bild voll ewig wechselnder Reize und wunderbar
+vorüberziehenden Dampfer und Segler aus unmittelbarer Nähe
+\<@pagebreak/>
+betrachten kann -- ein Bild voll ewig wechselnder Reize und wunderbar
 belebten Lebens, doch wohlgemerkt -- nur ein Bild. Wer in
 dunkler Nacht auf der Blankeneser Landungsbrücke steht, zur Zeit
 der Ebbe besonders, wenn der Strom, von der Flut nicht aufgehalten,
@@ -92,6 +96,7 @@ manche Erinnerung an eine vergangene hoffnungsvollere Zeit. Diese
 Städtchen, so klein, unbekannt und unbedeutend sie auch daliegen
 hinter ihren Deichen, verdienen liebevolle Beachtung. Sie sind von
 einer eigentümlich elegischen Romantik, die um so tiefer ergreift, 
+\<@pagebreak/>
 weil sie nicht nur erträumt sein kann sondern auch in der Wirklichkeit
 immer noch tätig ist und von der umgebenden Natur zu einer
 greifbaren Deutlichkeit verstärkt wird, so daß man sich ihr unmöglich
@@ -132,6 +137,7 @@ zusammenfügt und durch das Rosseelement des benachbarten Kehdinger
 Landes etwas Überzeugend-Körperhaftes gewinnt, kommt das
 Dunkle stärker zum Ausdruck.
  
+\<@pagebreak/>
 Auch <span class="g">werdende</span> Städtchen an der Niederelbe bilden einen besonderen
 Typus. Ihre Zahl ist nicht groß. Eher modernen Hilfsmitteln
 als einer Naturnotwendigkeit verdanken sie ihr Wachstum,
@@ -172,6 +178,7 @@ von alten Kriegsmagazinen und Zeughäusern. Dahinter
 schillert die Elbe; die vorüberziehenden Schiffe sieht man aber nur
 in der Ferne hinter »der Rhinplatte«, einem schmalen, nadelförmigen
 Sand, der Glückstadt von der eigentlichen Fahrrinne trennt, so 
+\<@pagebreak/>
 daß man nur selten und mit vielen Umständen von Hamburg auf
 dem Wasserwege nach dieser »Stadt des Glücks«, wie sie einst die
 Hofdichter der dänischen Könige nannten, gelangen kann. Hamburg,

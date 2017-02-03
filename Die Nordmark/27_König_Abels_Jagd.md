@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>König Abels Jagd.</h2>
 
 <h3>Von L. Brockdorff-Ahlefeldt.</h3>
@@ -21,6 +22,7 @@ Von fern auch hör' ich die Glocken.
 Ihr sollt die Glocken
 nicht läuten im Dom,
 wollt ihr Ruhe für eure Seelen!
+\<@pagebreak 106/>
 Wenn ihr mir im Grab
 keine Ruhe gönnt,
 komm' ich herauf, euch zu quälen.

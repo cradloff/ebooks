@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Schutt.</h2>
 
 <h3>Von Helene Voigt-Diederichs.</h3>
@@ -32,6 +33,7 @@ ein Lied davon zu singen.
 Da oben in ihrer Heimat, weiter nach der dänischen Grenze zu,
 habe er als blutjunger Mensch seinem Bauern, der ihn ungerecht
 getadelt, mit dem Forkenstiel über den Kopf geschlagen, daß der 
+\<@pagebreak 319/>
 Mißhandelte wie tot zusammengebrochen sei. Da freilich habe Sönke
 geweint wie ein Kind und nach Wasser geschrien und um Verzeihung
 gebeten und sei so verzweifelt gewesen, daß der Bauer es aufgegeben,
@@ -77,6 +79,7 @@ im Dreschkasten, dumpf und voll, wenn eine aufgeschnittene Garbe
 in die Welle niedergleitet, hell und klappernd, wenn sie einmal
 leer sich dreht.
  
+\<@pagebreak/>
 Sönke hat so ein sehnsüchtiges, drängendes Gefühl in sich.
 Heute abend will er endlich vernünftig mit Guste besprechen, wann
 sie heiraten wollen. Immer wieder muß er zu dem Mädchen hinüberschauen.
@@ -126,6 +129,7 @@ er, als ob die Hölle hinter ihm sei.
 Thomas lacht überlaut. Nicht weil's ihm so recht herzlich danach
 zumute ist, sondern weil es Sönke hoffentlich noch mehr kränken wird. 
 
+\<@pagebreak/>
 Dem schwindelt's im Kopfe. Alles dreht sich um ihn und mit
 ihm. Darum also hat er gefroren und ausgehalten im Winter, um
 sich jetzt wie ein Hund vom Göpel jagen zu lassen. Darum also!
@@ -175,6 +179,7 @@ der Koppel zugewandt ist. An der Mauer klettert am Gitterwerk
 ein Kirschbaum auf und streckt seine knospenden Zweige bis hart
 unter das breit vorspringende Strohdach.
  
+\<@pagebreak/>
 Du dürres Stroh, so ruhig bist du, so verdammt ruhig? Du
 träger, regungsloser Wetterhahn -- stehst und glotzt nieder kalt
 und höhnisch? Ob du warm werden kannst, kalter Vogel? Ob du
@@ -221,6 +226,7 @@ schlägt eine Tür. Sönke springt auf. Eine eiskalte Ernüchterung
 durchrinnt ihn. Er biegt um die Scheunenecke und stürzt auf das
 Herrenhaus zu.
  
+\<@pagebreak/>
 »Füer! Füer!«
 
 Er schlägt mit der doppelten Faust an das helle, verhüllte Fenster.
@@ -270,6 +276,7 @@ sich geschützter wähnen vor den schlagenden Eisenhufen. Ein paar
 blökende Kälber kommen angejagt, heben die Schwänze und werfen
 mit den Hinterfüßen.
  
+\<@pagebreak/>
 Gott sei Dank, die Kiesbyer Spritze donnert heran. Schläuche
 werden quer über den Hof geleitet und die Pumpen aufgestellt.
 Nur durch grellfarbige, um den Jackenärmel gelegte Tuchstreifen
@@ -326,6 +333,7 @@ verzieht, kommt kein Ton heraus.
 
 »Nanu, wat weert?«
  
+\<@pagebreak/>
 »Dat he dat Füer anleggt hätt,« stottert sie und schleicht ganz
 besinnungslos davon.
 
@@ -377,6 +385,7 @@ Sönkes Gefängnis.
 Dem ist's, als ob des Kutschers vorgestreckter Finger sich ihm
 in Augen und Gehirn bohre. Noch einmal faßt ihn die alte Wut.
 Warum stößt er denn nicht die vermorschte Tür zurück und schlägt 
+\<@pagebreak/>
 den Verfluchten zu Boden? Nein, er will nicht an Thomas denken
 und nicht an Guste. Was gibt es denn noch mehr auf der Welt?
 
@@ -422,8 +431,9 @@ noch hilflos und traurig der Kirschbaum und streckt seine versengten,
 haltsuchenden Zweige steif nach beiden Seiten von sich. Gestern
 hatten die Knospen hellgrüne Spitzen, und die Zweige legten sich
 so vertrauensvoll an die starke Scheunenwand. Wie ein großes
-Trauerkreuz nimmt sich der Dreschgöpel aus mit seinen vier schwarz-* 
-*geteerten Zugbalken. Helle, nackte Flecke glänzen an den Kastanienstämmen.
+Trauerkreuz nimmt sich der Dreschgöpel aus mit seinen vier schwarzgeteerten
+\<@pagebreak/>
+Zugbalken. Helle, nackte Flecke glänzen an den Kastanienstämmen.
 Die angebundenen Pferde haben in der Nacht große
 Rindenstücke losgeschält mit den hungrig nagenden Zähnen.
 

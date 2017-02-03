@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 116/>
 <h2>Martje Floris.</h2>
 
 <h3>Von Thusnelda Kühl.</h3>
@@ -43,6 +45,8 @@ ich nicht,« versetzte Sievert trocken, den Mann vor ihm entweder
 nicht erkennend oder nicht erkennen wollend -- »vielleicht ist's ja
 aber mit der gerühmten Eiderstedter Gastfreundschaft besser bestellt
 als mit der gerühmten schwedischen Mannszucht.«
+
+\<@pagebreak/>
 Der Zorn, der im Auge des Generals mit dem Spott gekämpft
 hatte, wich dem letzteren.
 
@@ -93,6 +97,7 @@ Herrn verwahren, und spätere Geschlechter werden's einander
 erzählen: An diesem Türknopf<a class="refnote" id="rn2" href="#fn2">*)</a> hielt sich General Steenbock,
 der Tapfere, fest, als hundert Dänenhunde ihm ans Leben wollten --«
 
+\<@pagebreak/>
 »Mein guter Junge,« sprach der General mit einer ihm sonst
 fremden Weichheit zu dem blassen Offizier. Dann stand er auf
 und flüsterte jenem ein leises Wort ins Ohr. Es klang wie: »Mein
@@ -146,6 +151,7 @@ Getan war, was man begehrt hatte. Warum nun waren all
 die weingeröteten Gesichter so bleich geworden -- bleich selbst die
 Narben des Generals?
  
+\<@pagebreak/>
 Als hätte der unschuldige Mund des Kindes ein Mene Tekel
 gesprochen, so war's denen allen gewesen, die heute den roten Wein,
 morgen vielleicht das rote Blut aus ihrem eigenen Leibe strömen sahen.

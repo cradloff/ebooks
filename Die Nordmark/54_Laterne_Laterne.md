@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 273/>
 <h2>Laterne! Laterne!</h2>
 
 <h3>Von Jacob Loewenberg.</h3>
@@ -11,6 +13,7 @@ aufatmend jede Brust sich weitet.
 Es ist, als kläng' ein Friedenswort,
 und Lärm und Unrast fliehen fort.
 
+\<@pagebreak/>
 Da kommt's aus Tür und Tor gesprungen,
 und ordnet sich in langer Reih,
 ein Zug von Mädchen und von Jungen,

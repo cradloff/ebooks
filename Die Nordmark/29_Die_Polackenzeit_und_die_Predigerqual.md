@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Die Polackenzeit und die Predigerqual.</h2>
 
 <h3>Von Johannes Dose.</h3>
@@ -10,6 +11,7 @@ dem Elendskelche des dreißigjährigen Krieges trinken müssen. Aber
 erst zehn Jahre später haben sie ihren Kelch bis auf die Hefe
 geleert.
  
+\<@pagebreak 108/>
 Die Furie war einmal entfesselt, und der Schwede fachte immer
 wieder die Fackel an, daß sie nicht gänzlich erlösche. Karl Gustav
 hielt ihr rotes Geleucht für das Glänzen seines Namens und Ruhmes.
@@ -53,6 +55,7 @@ ließ, und die also eine natürliche Feste bildeten.
 
 Des Landes Bundesgenossen und Hilfsvölker kamen, die Kaiserlichen
 und Kurfürstlichen, die Polacken und Kroaten, und wie die 
+\<@pagebreak/>
 Heuschrecken warfen sie sich über die noch nicht verheerten Ämter
 Schleswigs. Der Brandenburger nahm sein Winterquartier in
 Flensburg, die Kaiserlichen blieben um Schleswig herum, und in
@@ -97,6 +100,7 @@ Weg kamen.
 
 Ein Haufe umstrich die hohe Marienkirche mit gierigem Gelüst
 und begann die Pforte zu zerschmettern. Solches sah in seinem 
+\<@pagebreak/>
 Häuschen Hans Totengräber, der Alte, der auch Glöckner war,
 und sogleich kam er mit dem Schlüssel über den Kirchhof gerannt.
 Er tat es um der schöngeschnitzten Pforte willen. Sie öffneten und
@@ -140,6 +144,7 @@ wo eine Waschküche war, untergebracht würden.
 Am Nachmittage, als Tetzki in seinem Zimmer ruhte, drang
 ein wilder Schwarm ins Haus und sogleich ins Pharmakopol, wo
 sie in die Büchsen die Nasen steckten, die Schubläden aufrissen
+\<@pagebreak/>
 und eine verschlossene Truhe erbrachen. Wie leblos sah Eisenberg
 diesem Unfuge zu und rührte nicht Fuß noch Mund. Ein Geselle
 griff nach der bauchigen Flasche im Fenster, die mit gefärbtem
@@ -189,6 +194,8 @@ sie noch am meisten Respekt.«
 Eisenberg befolgte den Rat und erkaufte sich um schweres Geld
 eine sogenannte Salveguardie mit des Generals Siegel und Unterschrift,
 die, an die Tür geschlagen, vor Plünderung schützte. 
+
+\<@pagebreak/>
 Für die Stadt Hadersleben waren die schwersten Zeiten ihrer
 Geschichte gekommen. Ein Schrecken war auf die Bewohner gefallen,
 und manche verkrochen sich in Backöfen und in die unglaublichsten
@@ -236,6 +243,7 @@ eine blaßrote Münze.
 
 Hoyer antwortete durch Kopfschütteln, daß er kein Silber habe.
 
+\<@pagebreak/>
 Der Greuel begann, und sie ergriffen den wehrlosen Mann.
 Des Sohnes Sinn wallte auf, und er sprang zu Hilfe. Aber flugs
 faßten sie ihn, schnürten ihm die Hände mit Stricken zusammen
@@ -285,6 +293,7 @@ O, was mußten seine Augen sehen! Und was sie schauten,
 kann keine Zunge sagen. Die Bestie war entfesselt, und die Polen
 trieben ihr Gespött und verstümmelten den Toten.
 
+\<@pagebreak/>
 Als Hans Hoyer die Schändung der Leiche seines Vaters sah,
 kam es über ihn wie Berserkergrimm und -gewalt. In der Stärke
 Simsons zerriß er die Fesseln. Dem nächsten entriß er die Partisane,
@@ -329,6 +338,7 @@ Hans Hoyer schnitt ihre Frage ab: »Wollt Ihr ein gutes Werk
 tun und meine Schwester beherbergen? ... sie ist krank und bedarf
 der Ruhe.«
  
+\<@pagebreak/>
 Sogleich legte Eleonore die Arme um Lieschens zitternde Gestalt,
 führte sie in ihre Kammer und bettete sie in ihrem eigenen
 Bette.

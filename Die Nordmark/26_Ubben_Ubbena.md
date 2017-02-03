@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Ubben Ubbena.</h2>
 
 <h3>Von Eilhard Erich Pauls.</h3>
@@ -33,6 +34,7 @@ die schrill durch die weite Diele gellt. Die Mutter drückt dem Knaben
 ein großes Brot in die Hand und zieht ihm die wollene Mütze von
 dem Blondkopf. Aber dann geht der Junge zur Mö.
  
+\<@pagebreak 102/>
 Antjemö ist uralt, älter als alles, älter als Vater und Mutter.
 Antjemö ist nur Magd im Hause, aber sie weiß alles. Sie weiß,
 was der Vater gesagt hat, als er von seinem Vater Prügel bekam,
@@ -79,6 +81,7 @@ noch nicht lange in unserer Gegend. Der hatte gesagt, er wolle den
 Seeräuber hinrichten lassen, und er werde ihn kriegen. Dieser Amtmann
 hieß Tönding und war ein strenger Mann. Aber er hatte
 ein feines Töchterchen, das war fünf Jahre alt und war das
+\<@pagebreak/>
 zierlichste Ding, das es auf der Welt gab. Es hieß Engel, und alle
 Leute sagten, wenn sie auf dem Markte vorbeikamen und das Mädchen
 spielte auf der Steintreppe: »Es ist wirklich ein Engel!«
@@ -125,6 +128,7 @@ und er fluchte gräßlich und wimmerte leise. Und die Möwen schrien.
 Als es Tag geworden war, schickte die Amtmännin wieder die
 Knechte aus, aber nicht nach Klein-Engel sollten sie suchen. Klein-Engel 
 war verloren. Die Knechte fanden den Amtmann auf dem 
+\<@pagebreak/>
 Deiche sitzen und Hände voll Sand in die Wogen der See werfend,
 denn es war Flut.
 
@@ -175,6 +179,7 @@ den Küssen des Matrosen, der Ubben Ubbenas Hals mit seinen
 schlanken Armen umfaßte.
 
 »Wenn du ihn so lieb hast,« sagte der Amtmann, und er war 
+\<@pagebreak/>
 aufgestanden und sprach es voll Haß, »so soll er vor dir sterben.
 Daß ich vergelte, was du mir getan hast.«
 

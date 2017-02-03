@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Üm hundert Daler.</h2>
 
 <h3>Von Joh. Hinr. Fehrs.</h3>
@@ -20,6 +21,7 @@ dre Jahr. De sproken un lachen man lies, awer dat Vergnügen weer
 doch heel grot, denn lütt Trina harr allerhand bunte Flickens un
 Bandn tohopen söcht un harr sik den Wakplock ut dat Klockenhus
 halt, se wull em smuck antrecken un sik en Popp maken. Heini keek 
+\<@pagebreak 278/>
 to un wunnerwark aewer den Staat, toletz sä he: »Tina, Popp ok
 Büx anhebbn?«
 
@@ -77,6 +79,7 @@ helle Ogen.
 En Schritt achter't Finster war lud, de Vader keem in's höch
 un hork.
 
+\<@pagebreak/>
 <div align="center"><img alt="Schneebedecktes Haus" src="0287.gif"/></div>
 
 »Kinnjes', hör!« tuschel Heini. Trina schütt mit'n Kopp un
@@ -107,6 +110,7 @@ un bleeben an de beiden Kinner hang'n. »Deern, wat makst dar!
 Lettst du den Wakplock in din Hus danzen, Steffen? weetst du ok,
 wat dat bedüd?«
 
+\<@pagebreak/>
 »Dat bedüd en Doden,« sä Stessen Pahl langsam.
 
 »Na, dat is Wiwergloben! Awer ik mag't nich liden, wenn
@@ -156,6 +160,7 @@ un de Botter is so billig, dat man de Wagens damit smern kann.«
 Steffen süfz mal hoch op. »Dat ward jowol mal beter,« sä he
 unseker.
 
+\<@pagebreak/>
 »Ja, wenn wi op'n Karkhof liggn dot! Ik seh dat Enn nich
 af. Un darüm mutt ik min Geld hebbn, Steffen Pahl, un dat bald!«
 
@@ -207,8 +212,8 @@ se em anseeg, verschrak se sik.
 dat weet He, Henn Kark!« sä Steffen, un darbi flogen em Kinn un
 Handn; ik will em dat Lukdeel gxben, dat is eben so grot un godes
 Plogland.«
- 
 
+\<@pagebreak/>
 »Un ik will de Wisch hebbn oder min Geld, darmit basta!«
 
 »Sin letz Wort, Henn Kark?«
@@ -257,6 +262,7 @@ op Tüffeln, in Haarn un Hemdsmaun un seeg stief un biestrig vör
 sik hin, as en Minsch, de in Slap ümgeit. He leep nich, gung awer
 mit grote Schritten driebens weg. De H&#281;ben weer aewerher gries
 un grau, de Wind leet wat na un weer nich mehr so kold -- Steffen 
+\<@pagebreak/>
 acht dat nich. He keem an dat Maartenholt; dat brus in de Dann'n,
 un op de anner Sit von den Weg in den Reetschalm von den Fischdiek
 dar russel un krop wat -- weer't en Fischotter oder en Voß,
@@ -298,6 +304,7 @@ Optog?«
 
 Steffen stunn mit err Ruck still as en Perd, dat op'n mal mit
 en Stangtom in't Mul reten ward; he hopp en Schritt torügg ün 
+\<@pagebreak/>
 dreih de verglasten Ogen, de nu wedder lebennig warn, na den Wall:
 »Is He dat, Dirk Panjer?« stamer he.
 
@@ -343,6 +350,7 @@ toletz sä he: »Lat uns wider gan, Steffen. Ik lop nich lank düsse
 Landstrat, ahn hier stilltostan un na de Stell to sehn, wo min Saehn
 l&#281;gen hett. -- Dat is wol dat Swarste in'e Welt,« sä de Ol lies un
 as wenn he mit sik sülben snack, »wenn uns Herrgott uns eerst en 
+\<@pagebreak/>
 groten Schatz in'n Schot un an't Hart leggt un denn em naher tobrickt
 un wegnimmt. Sowat vergitt man nich, dat is as en Fotspor
 in'n Steen, dat vergeit nich.« He sweeg wedder un schraekel still
@@ -386,6 +394,7 @@ weern. »Sett di hier bi mi her, lütt Steffen, so! hem hem nu vertell
 mi mal, wat du op'n Harten hesst, awer gau, du mußt wedder
 an't Hus.«
  
+\<@pagebreak/>
 Dat weer nu garnich so licht för Steffen, denn he dach un sprok
 ümmer wat langsam, un nu weer sin Kopp noch darto en b&#281;tjn ut
 Spor; awer ol Dirk holp na un frog un snack so lang, bet he allens
@@ -434,6 +443,7 @@ knapp utsehn -- n&#281; n&#281; min Saehn, spar din Wör, mi is't jo en
 Freud, dat ik di bistan kann! De 110 Daler lehn ik di, bet de Tiden
 b&#281;ter ward, ahn Zinsen; starv ik vörher, so betalst du dat Geld an
 min Kinner, un kannst du dat in din L&#281;ben nich trügg g&#281;ben, so seggst 
+\<@pagebreak/>
 du din Kinner dat hem hem, denn maet de dat in Richtigkeit maken.
 Segg mal, min Jung, hest du Bonapart en Papier darop geben?«
 
@@ -480,7 +490,7 @@ de breed achtern Ahm seet, »lett sik dat garnich vertelln?« Henn
 un sin Olsch weern Ehlüd, as in Land un Stadt oftins vörkamt: de
 Leev harr er nich tosam bröcht, un jahrnlang harrn se levt as Katt
 un Hund, de een noch tager as de anner; toletz harrn se sik tosam 
- 
+\<@pagebreak/>
 funn op'n Geldsack, dar seeten se nu old un kold bi enanner un weern
 sik so eenig as twe Spitzbobenhand'n.
 
@@ -527,6 +537,7 @@ mal, Moder lacht un weent in een Tasch!«
 
 Steffen harr sin Antje op'n Arm nahm, as weer't en lütt Popp,
 un tuschel er wat in't Ohr; do blöh de Freud op in dat bleeke 
+\<@pagebreak/>
 Gesicht ünner den witten Koppdok, un dat Is, wat sik üm er Hart leggt
 harr, leep er in Tran' lank de Backen hindal. He le er lies op't Bett
 un sä mit en deepe bewerige Stimm: »Nu besinn di man en betjn,

@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 317/>
 <h2>An Theodor Storm.</h2>
 
 <h3>Von Detlev v. Liliencron.</h3>
@@ -38,6 +40,7 @@ der siebzehnjährig heiß die Laute schlug
 vor seiner Liebsten Tür im sanften Mond,
 im Sehnsuchtspuls der Nachtigallenlieder?
 
+\<@pagebreak/>
 Wohl trifft es sich, daß laut und polternd wirft
 ein herrlich Dichterherz mit rohem Gold
 und kann es nimmer zwingen zum Gerät;

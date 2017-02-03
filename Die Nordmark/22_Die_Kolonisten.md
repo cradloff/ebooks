@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>b. Kulturboten und Kulturstätten.</h2>
 
 <h2>Die Kolonisten.</h2>
@@ -10,6 +11,7 @@ wurde ausgerottet, die Priester zu Tode gemartert, wenn sie
 nicht flüchteten, die Einwohner erschlagen, gefangen, ihre Habe geraubt
 oder verbrannt und zerstört, so daß 600 Familien aus Holstein
 auswanderten. <span class="g">Helmold,</span> Priester zu Bosau und Schüler 
+\<@pagebreak 76/>
 Vicelins, schreibt von dieser Zeit: »Man findet noch Spuren jenes
 frühern Wesens, zumeist in dem großen Wald, der von Lütjenburg
 bis Schleswig sich erstreckt: so wüst und einsam und fast undurchdringlich
@@ -49,8 +51,9 @@ Trave und das Land Zwentifeld (Bornhöved) und was von dem
 Bach Schwale bis Agrimesau (Tensfelder-Au) und an den Plönersee
 sich erstreckt. Die Westfälinger erhielten den Distrikt Dargau
 (Amt Travental und Stadt Segeberg), die Friesen bekamen Süsel,
-die Holländer Eutin. Die Plöner Gegend blieb noch wüste. Olden-* 
-*burg aber und Lütjenburg und die übrigen am Meer belegenen Lande
+die Holländer Eutin. Die Plöner Gegend blieb noch wüste.
+\<@pagebreak/>
+Oldenburg aber und Lütjenburg und die übrigen am Meer belegenen Lande
 gab er den Slaven zu bewohnen, und sie wurden ihm untertan.
 Und so begannen die Wüsten Wagriens bebauet zu werden, und
 die Zahl der Bewohner vervielfältigte sich.«
@@ -91,6 +94,7 @@ Korn und Vieh bestanden. In den Marschen aber wurden Deiche
 erbaut weit hinaus an dem Ufer des Stroms, und dieser wurde in
 ein bestimmtes Bett gewiesen. Die alten Sommerdeiche wurden verstärkt,
 daß sie auch den Winterfluten Trotz bieten konnten, und 
+\<@pagebreak/>
 die vielen durch das Land laufenden Flußarme wurden abgedämmt,
 da sie doch schon mehr oder weniger zugeschlämmt waren; Sümpfe,
 Brüche, Moore, die nicht den Fuß des Wanderers tragen konnten,

@@ -1,4 +1,6 @@
-<div align="center" float="left"><img alt="Blick auf Bauernhof und Windmühle an einem Bach" src="0013.gif"/></div>
+<#include "pagebreak.ftl">
+\<@pagebreak 5/>
+<div align="center"><img alt="Blick auf Bauernhof und Windmühle an einem Bach" src="0013.gif"/></div>
 
 <h2>Schleswig-Holstein vor 300 Jahren.</h2>
 
@@ -26,12 +28,13 @@ machen, denn die Mast eines Schweines kostet in Holstein einen
 Taler, in Schleswig einen halben. Die meisten Waldungen gehören
 dem Landesherrn, und einige derselben reichen fast zur Mast
 von 20 000 Schweinen hin; so fanden z. B. im Jahre 1590 in den
-Rendsburger Holzungen 14 000, in den Segeberger und den an-* 
-*stoßenden über 17 000, in denen des Stifts Bordesholm 10 000, in
+Rendsburger Holzungen 14 000, in den Segeberger und den
+\<@pagebreak/>
+anstoßenden über 17 000, in denen des Stifts Bordesholm 10 000, in
 den Reinfelder 8000, in den Ahrensböker 4000, in den Reinfelder
 und Trittauer Holzungen 8000 Stück Schweine ausreichende Mast.
 Dazu kommt nun noch der große Ertrag aller schleswigschen und
-der den Adligen zustehenden Holzungen; bloß in <g>einem</g> Jahr,
+der den Adligen zustehenden Holzungen; bloß in <span class="g">einem</span> Jahr,
 wenn Eicheln und Bucheln nur mittelmäßig gefallen sind, reicht die
 Waldmast in den zum Schloß Gottorf gehörigen Waldungen für
 30 000 Stück. Außerdem gewähren noch die Grasung von Ochsen
@@ -67,6 +70,7 @@ eine Menge von Fischteichen; das Kloster Ahrensbök hat allein
 und zumal aus der Ost- und Westsee wird fast das ganze
 Jahr hindurch eine solche Menge von Fischen gefangen, daß die
 durch den Kauf und Verkauf derselben gelöste Summe auf einige 
+\<@pagebreak/>
 Tonnen Goldes geschätzt wird. Nicht bloß nach den benachbarten 
 Landen sondern selbst nach den äußersten Gegenden Deutschlands,
 Frankreichs, Italiens und nach noch entfernteren Küsten wird
@@ -108,8 +112,9 @@ ab, um sich über die Sache zu beraten und das Urteil zu fällen.
 Wenn sie selbiges nach ihrem einfachen Rechtsbewußtsein herausgefunden
 haben, kehren sie in den Gerichtssaal zurück; und was
 ihnen dann in Gemäßheit anderer Fälle und ihres natürlichen Urteils
-für Recht erschienen ist, wird sogleich durch einen Gerichts-* 
-*diener den streitenden Parteien verkündigt. Wollen diese sich dabei
+für Recht erschienen ist, wird sogleich durch einen
+\<@pagebreak/>
+Gerichtsdiener den streitenden Parteien verkündigt. Wollen diese sich dabei
 nicht beruhigen, so können sie an die Räte des Fürsten oder an
 das Landgericht appellieren.
 
@@ -149,6 +154,7 @@ und Lüneburgs erblickt. Es gibt Leute, die glauben, daß dieser
 merkwürdige Berg von dem Teufel aus dem dichtanstoßenden See
 erhoben und dorthin gesetzt sei, woher die Bauern sich auch gegenseitig
 mit den Worten zu schimpfen pflegen: »Daß dich der tue 
+\<@pagebreak/>
 plagen, der den Segeberg hat getragen.« Oldenburg war ehemals
 durch Größe und Handel berühmt; die Stadt hatte eine weitläufige
 Burg auf einem aufgeworfenen Hügel, ein ausgezeichnetes Gebäude,
@@ -163,7 +169,7 @@ werden; die Einwohner leben von Ackerbau und Seehandel;
 sie haben auch 18 größere und kleinere Schiffe; auch sind hier 7 Windmühlen.
 Das Reinfelder Kloster hat außerordentliche Holzungen;
 bloß aus dem Holzverkauf daselbst zog der Herzog Johann der
-Jüngere in <g>einem</g> Jahr 5000 Taler. Derselbe Fürst hat zu Ahrensbök
+Jüngere in <span class="g">einem</span> Jahr 5000 Taler. Derselbe Fürst hat zu Ahrensbök
 ein glänzendes Schloß mit den schönsten Sälen erbaut. Das
 alte und einträgliche Gut Rantzau hat 1590 der Statthalter Heinrich
 Rantzau von seinem Vetter Hans gekauft für 59 000 Taler, was freilich
@@ -188,6 +194,7 @@ seines Stiefbruders, Königs Christoph des Zweiten, hierher verlegt,
 wodurch diese Stadt sich in wenigen Jahren außerordentlich gehoben
 hat. Rendsburg ist ein sehr stark befestigter Ort, den die Eider umgibt
 und durchfließt. Mit Hilfe eines Rades wird das Wasser in 
+\<@pagebreak/>
 derselben emporgehoben und selbst in die Häuser geleitet. Das
 Schloß hat 3 Türme; es ist von Herzog Johann dem Älteren 1578
 sehr verschönert. Im Westen der Stadt ist ein sehr guter Hafen.
@@ -215,7 +222,7 @@ hat jetzt ein im ganzen beklagenswertes Aussehen; denn wie den
 Menschen so sind auch den Königreichen, Staaten und Städten ihre
 Tage gezählt. Es sind dort etwa 400 Bürger, unter ihnen 10 Brauer.
 Nahe dabei liegt das Schloß Gottorf mit einem berühmten Zoll,
-bei dem bisweilen in <g>einem</g> Jahre 50 000 Ochsen nach Deutschland
+bei dem bisweilen in <span class="g">einem</span> Jahre 50 000 Ochsen nach Deutschland
 durchpassiert sind. Flensburg liegt am Meere mit einem vortrefflichen
 Hafen; es hat schön gebaute Häuser, 2 bedeutende Vorstädte
 und auf einem Hügel eine ansehnliche Burg. Die Stadt ist 2341 Schritt
@@ -228,6 +235,7 @@ abbrechen und hat jetzt auf einer Halbinsel das herrliche Schloß
 Hansburg erbaut. Husum ist die wichtigste Nebenbuhlerin von Flensburg;
 der Ort ist ungemein lebhaft; Handel und Gewerbe blühen
 außerordentlich. Der Hafen ist in der Handelswelt berühmt; es 
+\<@pagebreak/>
 werden hierher aus Holland, Zeeland, England, Schottland und
 anderen Ländern die verschiedenartigsten Waren gebracht und von
 hier nach Flensburg versandt, so daß sie auf diese Weise von der
@@ -267,6 +275,7 @@ Föhr, Sylt und Jordsand. Nordstrand ist 2 Meilen lang und enthält
 36 350 Demat nebst 3200 Demat Außendeichsland, ferner 22 Kirchspiele
 und 10 sehr gute Reeden. In der Mitte ist ein höher gelegener
 Landstrich, Moor genannt (jetzt Nordstrandischmoor). Gerhard
+\<@pagebreak/>
 Rantzau besitzt auf dieser Insel das adlige Gut Morsum. Die
 Einwohner sind gegen Fremde außerordentlich gastfrei; sonst sind
 ihnen die Untugenden unserer Zeit keineswegs fremd. Amrum ist

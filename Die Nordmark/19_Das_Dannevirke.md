@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Das Dannevirke.</h2>
 
 <h3>Von Friedrich Quehl.</h3>
@@ -12,6 +13,7 @@ Völkerstämme geraume Zeit lang trotzigen Widerstand zu leisten
 vermochte. Die ganze bedeutungsvolle Anlage, nicht von gestern
 auf heute entstanden, ist noch in unseren Tagen eine imposante
 Schöpfung und das Ziel der kleinen Menschenflutwelle, die alljährlich
+\<@pagebreak 58/>
 auch über diese Gegend sich ergießt, deren Mittelpunkt die
 mythenhafte Handelsstadt Hithabu ist. Ein Sagenkranz von Immortellen
 umflicht diesen Erdwall, wuchernd und tausendfältige
@@ -54,6 +56,7 @@ auswandernden Angeln dort ihrer Baukunst ein bleibendes
 Denkmal durch den zum Schutz gegen Pikten und Skoten errichteten
 Grenzwall.
  
+\<@pagebreak/>
 Die Erbauung des ältesten Teiles des Dannevirke führt in die
 Heroenzeit zurück. Bereits zur Zeit der angelsächsischen Auswanderung
 wurde das Kovirke angelegt, das im Osten an das Selker
@@ -95,6 +98,7 @@ Dannevirke anzusehen, da ohne ihn die Verteidigungslinie unvollständig
 sein würde.
 
 Drei Burganlagen geben den Wällen besondere Stützpunkte: 
+\<@pagebreak/>
 die Mildeburg südlich von Mildstedt, die Thyraburg bei Groß-
 Dannewerk, die Oldenburg mit der Hoburg bei Haddeby, dem alten
 Hithabu.
@@ -137,6 +141,7 @@ starken Stützpunkt für das Dannewerk, und noch heutigen Tages
 ist die jetzt bewaldete Festungsanlage mit ihrem rechteckigen Burgplatz
 zu erkennen.
  
+\<@pagebreak/>
 Weit wichtiger als die Mildeburg und die Thyraburg, weil
 sie die Schutzwehr des mächtigen Sliasvik (Schleswig) und seines
 Hafens war, ist die noch jetzt in ihrer Uranlage bestehende Oldenburg.
@@ -176,6 +181,7 @@ die Dänen ihren Stützpunkt am Südufer der Schlei verlassen, taucht
 zuerst der Name Haethun, später Heitabyr, Haithabu, Hithabu auf,
 was soviel als Heideort bedeutet, eine Bezeichnung, welche die Besiegten
 dem alten Stadtteil beilegten. Die Namen Schleswig und 
+\<@pagebreak/>
 Haddeby in ihren verschiedenen Schreib- und Sprechweisen sind im
 Laufe der Jahrhunderte vielfach durcheinandergewürfelt, ein Umstand,
 der wohl darauf zurückzuführen ist, daß einmal deutscher, ein
@@ -223,8 +229,9 @@ lapidaren Runenschriften, die das Eine gemeinsam haben, daß sie
 Nachrufe für im Kampf gefallene Recken sind. Der Umstand, daß
 die Fundorte der Steine in der Nähe von Haddeby (aet Haethum)
 liegen, läßt untrüglich darauf schließen, daß die Männer im Kampfe
-um diese Grenzstadt untergingen. Was jene Kämpfe aber ver-* 
-*anlaßt, davon zeugen die Funde, die sachkundige Forscher im Laufe
+um diese Grenzstadt untergingen. Was jene Kämpfe aber veranlaßt,
+\<@pagebreak/>
+davon zeugen die Funde, die sachkundige Forscher im Laufe
 des letzten Jahrhunderts zutage förderten, die die Angaben älterer
 Schriftsteller bestätigen, daß Hithabu nicht nur eine Königsstadt
 sondern vor allem auch eine weithin bekannte Handelsstadt gewesen.
@@ -235,7 +242,7 @@ mit allerlei fremdländischen Waren betrieben wurde. Auf der Suche
 nach Bernstein kamen Araber und Phönizier bis Hedeby; Bulgaren
 brachten Silber, das sog. Hacksilber, aus dem die Münzen damaliger
 
-<div align="center" float="left"><img alt="mehrere Zeilen in Runen-Schrift" src="0071.gif"/>Inschrift des Skarthesteins.</div>
+<div align="center"><img alt="mehrere Zeilen in Runen-Schrift" src="0071.gif"/>Inschrift des Skarthesteins.</div>
 
 Zeit geprägt wurden. Auch mit England, Holland und der Normandie
 wurden einträgliche Handelsbeziehungen gepflogen; die
@@ -250,6 +257,7 @@ sie in gleicher Art nur in der Gegend von Schleswig -- aus dem
 daß trotz der Mühsale der Landreisen mit den Thüringern Handelsbeziehungen
 bestanden.
 
+\<@pagebreak/>
 Interessant ist, was der arabische Kosmograph Qazwînî im
 13\. Jahrhundert über Schleswig, die damals mächtigste Stadt in
 der Nähe des Dannewerks schreibt: Nach ihm ist Schleswig eine
@@ -290,6 +298,7 @@ Sargreste und silberne Sargbeschläge weisen darauf hin, daß mit
 der Einführung des Christentums auch die Leichenverbrennung aufhörte,
 wenngleich auch aus der nämlichen Zeit stammende Opfer- und
 Beisetzungsurnen zutage gefördert wurden. Die große Anzahl 
+\<@pagebreak/>
 vorhandener tönerner Spinnwirtel, ein Stück Lodengewebe und gewebte
 Sargauslage sprechen dafür, daß Spinnstuben bestanden. Ungezählte
 Knochenreste von Haustieren und Hirschgeweihbruchstücke
@@ -306,8 +315,9 @@ erkennen, daß die Männer in Hithabu -- absichtlich wechsele ich mit
 der Bezeichnung des Namens der Ansiedlung analog der Gepflogenheit
 der älteren Schriftsteller und Historiker -- ein seßhaftes Heim
 hatten. Daß die Schiffbaukunst hoch obenan stand, lehrt uns die
-Geschichte. In der Gegend der Waldemarsmauer mögen sich Ziegel-* 
-*brennereien befunden haben; denn das Mauerwerk enthält noch
+Geschichte. In der Gegend der Waldemarsmauer mögen sich
+\<@pagebreak/>
+Ziegelbrennereien befunden haben; denn das Mauerwerk enthält noch
 jetzt Spuren von roten Ziegeln, die mit festem Mörtel gebunden sind,
 wie sie vielfach mit viel Mühen aus der Mauer gebrochen wurden,
 um von späteren Geschlechtern zum Hausbau verwendet zu werden.
@@ -355,7 +365,7 @@ jütischen Einfluß, und die Doppeleiche, der Verbrüderung Symbol,
 schlug feste Wurzeln in dem vielumstrittenen Boden der cimbrischen
 Halbinsel.
 
- 
+\<@pagebreak/>
 Hollingstedt, ein wichtiger Handelsort und Stapelplatz im Schutze
 der Wallanlagen, wird schon im 11. Jahrhundert erwähnt. Damals
 erbauten dort die Engländer ein großes Kauf- und Packhaus, das
@@ -402,6 +412,7 @@ der bei Hithabu kämpfte.
 
 Daß ein soviel umstrittenes Stück Erde wie das Dannevirke,
 das ein Jahrtausend lang Zeuge großer Taten gewesen, der Sage 
+\<@pagebreak/>
 willkommene Stätte sein mußte, ist selbstverständlich. Bei der geachteten
 Stellung des Weibes unter den germanischen Völkerstämmen
 nimmt es auch nicht wunder, daß gerade die Heldinnen des Volkes
@@ -444,6 +455,7 @@ der »schwarzen Grete«, ein Abbild der todbringenden Hel.
 
 Von letzterer plaudert die Sage: Sie sei eine sehr kriegerische
 Frau gewesen. Einst habe sie Krieg für ihren unmündigen Sohn 
+\<@pagebreak/>
 mit einem sächsischen Prinzen geführt. Als sie jedoch die Wahrnehmung
 machte, daß die Schlacht zu ihren ungunsten auslaufen
 möchte, bot sie dem Fürsten einen Zweikampf an. Der Arglose
@@ -485,6 +497,7 @@ aus Silber. Das Helle, der Tag mit der Sonne, golden -- das
 Dunkle, die Nacht mit dem Monde, silbern. Gut und Böse in
 schroffem Gegensatz!
 
+\<@pagebreak/>
 So sehen wir, wie das Dannevirke in jeder Beziehung ein
 hervorragendes Völkermal geworden, eine unerschöpfliche Quelle des
 Forschens auf allen Gebieten. Solche Stätten müssen weiter in

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Fürsten und Bauern in seltsamem Turnier.</h2>
 
 <h3>Von Peter Petersen.</h3>
@@ -21,6 +22,7 @@ Rüstung in der Sonne blitzte.
 Die beiden vornehmen Männer, die inmitten des Zuges nebeneinander
 ritten, waren keine Geringeren als der König Johann
 von Dänemark und sein etwas jüngerer Bruder, der Herzog 
+\<@pagebreak 144/>
 Friedrich. König Johann war vor drei Tagen bei seinem herzoglichen
 Bruder auf Schloß Gottorp in Schleswig angelangt. Nachdem
 er sich hier von den Strapazen der Reise erholt hatte, waren
@@ -64,6 +66,7 @@ Die große Garde ist bereit, auf meinen Wink sofort zu erscheinen.
 Der ganze holsteinische Adel freut sich schon im stillen, diese verwegenen
 Dithmarscher gründlich züchtigen und ihre reichen Schätze
 ihnen abnehmen zu können. Die Dithmarscher müßten doch mit 
+\<@pagebreak/>
 der Hölle und mit dem Teufel selbst im Bunde sein, wenn sie diesmal
 nicht zum <i>Pater peccavi</i> zu bringen wären.«
 
@@ -109,6 +112,7 @@ Ihre Beinkleider jedoch bestehen nach Landessitte aus
 Hosen, aus dem sogenannten eigengewebten Webbeszeug angefertigt.
 Die weiten Beinkleider stecken in hohen, über die Knie reichenden
 Reitstiefeln mit Sporen an den Absätzen, da auch sie die Reise 
+\<@pagebreak/>
 nach Rendsburg zu Pferde zurückgelegt hatten. Diesen älteren
 Männern folgten dann vier gar stattliche Jünglinge, ähnlich wie
 die eben Erwähnten ritterlich gekleidet und bewaffnet, nur, daß
@@ -153,6 +157,7 @@ des Herzogs, gute Stadt Rendsburg eingeladen. Damit wir in
 aller Ruhe und Friedlichkeit verhandeln, wollet auf den Stühlen
 hier an dem Tische Platz nehmen.«
  
+\<@pagebreak/>
 Die Dithmarscher verneigten sich und nahmen die angebotenen
 Plätze gerade vor der auf dem Tische ausgebreiteten Karte ein,
 während die Jünglinge wenige Schritte hinter ihnen stehend gleich
@@ -196,6 +201,7 @@ wie wir in der Versammlung in Itzehoe im Jahre 1497 bereits auf
 das klarste dargetan haben. Das Dithmarscher Land ist, wie wir
 urkundlich aufs genaueste nachweisen können, von uralten Zeiten
 her dem Erzbistum Bremen untertan gewesen. So ist's noch heute. 
+\<@pagebreak/>
 Erst im vorigen Jahre haben wir dem neugewählten Erzbischofe in
 Bremen in der herkömmlichen Weise feierlich gehuldigt, und unser
 Landesherr hat in der von jeher üblichen Form uns wieder alle
@@ -236,6 +242,7 @@ Steuer, für den großen Schaden, den ihr kürzlich auf Helgoland
 und in Eiderstedt so kecken, frevlen Mutes unserem herzoglichen
 Bruder zugefügt habt, gebieten wir euch nun unverzüglich eine
 Schatzung von fünfzehntausend Mark Lübisch Courant in richtiger 
+\<@pagebreak/>
 Münze innerhalb drei Monaten an unsere Königliche Schatzkammer
 zu zahlen. Das ist heute zunächst unser Begehr an euch und euer Land.«
 
@@ -280,6 +287,7 @@ dithmarsische Landeskinder sind! Darauf wollen wir wagen Hals
 und Gut und wollen alle lieber sterben, als daß König Johann
 von Dänemark also unser schönes Land verderben soll!«
 
+\<@pagebreak/>
 In mächtiger Erregung standen die Dithmarscher vor den Fürsten
 und ihren Rittern. Aus allen Gesichtern sprach eine tiefe Entrüstung
 und ein grimmiger Mut. Die jungen Recken hinter den
@@ -303,7 +311,7 @@ vergessen sondern gar ruhmreich gedankt. In Lied und Wort ist
 diese Unterredung besungen, damit sie überliefert werde von Geschlecht
 zu Geschlecht. Es heißt in einem alten Volksliede:
 
-<pre>Wille jy hören en nyen Sank
+> Wille jy hören en nyen Sank
 van König Hans, den averdädigen Mann?
 He wolde Dithmarschen dwingen.
 He sende Breefe und Baden int Land,
@@ -324,7 +332,7 @@ Dat schütt nu un nimmermehr!
 Darum wollen wir wagen Hals und Gut,
 un wollen dar all um starven,
 eher dat de König van Dänemark
-so scholde unser schöne Land verdarben.</pre>
+so scholde unser schöne Land verdarben.
 
 <div class="source">Aus: Peter Petersen, Telse Kampen. (Stuttgart, I. F. Steinkopf.)</div>
 

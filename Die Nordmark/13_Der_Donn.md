@@ -1,4 +1,5 @@
-<div align="center" float="left"><img alt="Der Donn" src="0044.gif"/></div>
+<#include "pagebreak.ftl">
+<div align="center"><img alt="Der Donn" src="0044.gif"/></div>
 
 <h2>Der Donn.</h2>
 
@@ -9,6 +10,7 @@ eine kleine Meile von Fahrstedt entfernt. Ich saß bei unserer
 Einfahrt in dieses Dorf auf einem Koffer, freute mich, aber mit
 Bangen über die große Zahl der Knaben beieinander: »wenn es
 mir nur gut ginge unter ihnen«, und über die hohen Berge, die 
+\<@pagebreak 37/>
 ich nun ganz von nahem sah und nächsten Tages besteigen wollte.
 Hier will mein St. Michaelis Donn etwas beschrieben werden und
 der hohe lange Berg daneben.
@@ -49,6 +51,7 @@ hab' ich mir vorgenommen in meinen höheren Jahren, diese
 Plätze noch einmal in meinem Leben zu besehen und zu betreten!
 -- Wollet ihr Wald? Nun, Hölzungen fanden sich auch in einiger
 Nähe: das Holz bei Hopen, bei Frestedt und die Windberger Hese, 
+\<@pagebreak/>
 den Namen tragend vom heidnischen Gotte Hesus. -- Innerhalb
 dieses Donns gab es hin und wieder Sandhügel, mit Gras bewachsene,
 auf welchen, unter welchen, zwischen welchen man so schön

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Die Gräber in Ottensen.</h2>
 
 <h3>Von Heinrich Zeise.</h3>
@@ -35,6 +36,7 @@ wenn viele dieser Menschen in ihren Feierkleidern, in langen
 Familienzügen -- von ihrer Habe nichts als einige Wäsche unter
 dem Arm -- einige vor Verzweiflung singend, andere jammernd,
 ihre Kinder tragend oder auf Schubkarren fahrend, von Gensd'armen 
+\<@pagebreak 165/>
 vorwärts gestoßen, in unsere Stadt einwanderten. Man dachte
 unwillkürlich an den Opferschmuck der Vorzeit, und heftiger ergriff
 dieser Gedanke die Seele, und fast kein Auge blickte tränenlos auf
@@ -77,6 +79,7 @@ erschöpft war ihre Kraft,
 Frost, Hunger, Elend und Seuchen
 die haben sie hingerafft.«</pre>
  
+\<@pagebreak/>
 Sie fanden ihr Grab auf der Wiese zu Ottensen; anfänglich wurden
 sie in Särgen versenkt, als aber die Anzahl der Toten wuchs,
 schichtete man die Leichen nebeneinander und bedeckte sie mit Kalk;
@@ -120,6 +123,7 @@ Eigentümer der Wiese erhielt nämlich jährlich 10 Taler Grundmiete,
 da er sie jedoch anderweitig nicht benutzen konnte, so war es seine
 Absicht, sowohl diese wie auch eine danebenliegende, die durch
 die Anpflanzung litt, dem Hamburger Staat für 3000 Crt.-M zu 
+\<@pagebreak/>
 verkaufen, und weil von den eigentlichen Landstellen nichts abgetreten
 werden darf, so beanspruchte er 20 Taler Grundmiete. Daß
 ein Landmann seinen Boden zu verwerten und zu verbessern sucht,
@@ -163,9 +167,10 @@ binnen kurzem wieder in seiner alten Schönheit prangen. -- Der
 Landmann hat unserer Ansicht nach Recht, und möge der Baum
 noch viele Geschlechter überleben.
 
+\<@pagebreak/>
 <h4>II.</h4>
 
-<pre class="right">»Zu Ottensen an der Mauer
+<pre class="quote">»Zu Ottensen an der Mauer
 der Kirch' ist noch ein Grab,
 darin des Lebens Trauer
 ein Held gelegt hat ab.«</pre>
@@ -208,6 +213,7 @@ So verherrlichte Rückert die Opfer des Krieges, die er sich
 im Tode vereint denkt. -- Aber vergebens suchst du jetzt das Grab
 des Feldherrn an der Mauer, der Held entstieg dem engen, dumpfen
 Grabe und legte sich schlafen in die Gruft seiner Ahnen; er selbst, 
+\<@pagebreak/>
 der greise Kampfesleu, ruht jetzt neben Heinrich dem Löwen in der
 Dom- oder St. Blasiuskirche zu Braunschweig, die letzterer im
 Jahre 1173 stiftete. In dieser Kirche schlummern neun braunschweigische
@@ -248,6 +254,7 @@ nach seiner Residenz gebracht und neben seine Ahnen gebettet wurde,
 ist schön und herrlich; wo könnten die Nachkommen des Leuen, wo
 könnte dies hochherzige Heldengeschlecht wohl eine bessere Ruhestätte
 finden als zur Seite des großen Vorfahren, auf den die 
+\<@pagebreak/>
 Deutschen mit Stolz und Freude blicken müssen. -- Daß Napoleon
 das 700jährige Erbe des Welfischen Hauses für verfallen zu Frankreichs
 Händen erklärte, verbitterte die letzten Augenblicke des Herzogs.
@@ -274,7 +281,7 @@ Stamm dem Vaterlande zum Segen.«</pre>
 
 <h4>III.</h4>
 
-<pre class="right">»Zu Ottensen, von Linden
+<pre class="quote">»Zu Ottensen, von Linden
 beschattet auf dem Plan,
 ist noch ein Grab zu finden,
 dem soll, wer trauert, nah'n.«</pre>
@@ -294,6 +301,7 @@ und seine Hermannsschlacht allgemein bekannt zu sein verdienten.
 Klopstock war unser bedeutendster und vielleicht unser frühester Freiheitsdichter,
 Mahlmann singt von ihm:
  
+\<@pagebreak/>
 <pre>»Es sang sein herrlich Lied die große Weltversöhnung,
 im Schmerz von Golgatha vollbracht;
 es sang voll Vaterlands die deutsche Heldenkrönung,
@@ -343,6 +351,7 @@ setzte diesen Stein, anbetend den,
 der für uns lebte, starb, begraben
 und auferstanden ist.</pre>
  
+\<@pagebreak/>
 Der Verfasser dieser Grabschrift soll Stolberg sein. Die Inschrift
 auf Metas Stein, die Klopstock verfaßte, lautet:
 

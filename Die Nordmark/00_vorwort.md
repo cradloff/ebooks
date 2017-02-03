@@ -1,3 +1,4 @@
+<span epub:type="pagebreak" id="pageIII" title="III" xmlns:epub="http://www.idpf.org/2007/ops"/>
 Vorwort.
 ========
 
@@ -40,6 +41,7 @@ eine Gefahr für unser Volksleben. Aber es ist ein erfreuliches
 Zeichen der Zeit, daß sie erkannt ist, und daß sich allerorten Kräfte
 regen zum Schutz und zur Pflege eines gesunden Heimatsinnes. 
 
+<span epub:type="pagebreak" id="pageIV" title="IV" xmlns:epub="http://www.idpf.org/2007/ops"/>
 In den Dienst dieser Aufgabe will sich auch unser Buch stellen.
 Es will ein Heimatbuch sein für die Kinder der Nordmark, des
 meerumschlungenen Schleswig-Holsteins mit Einschluß der geographisch

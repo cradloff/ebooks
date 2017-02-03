@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Ik kann nich helpen.</h2>
 
 <h3>Von Jacob Loewenberg.</h3>
@@ -18,6 +19,7 @@ und küßt das wettergebräunte Gesicht
 und schlingt um den Nacken die Ärmchen und spricht:
 »Ik will di helpen.«
 
+\<@pagebreak 356/>
 Sie stoßen vom Lande. Wie ruhig das Meer,
 und das Netz von blinkenden Fischen wie schwer!
 Der Junge klatscht lustig die Händchen sich rot,
@@ -58,6 +60,7 @@ der Schleppkahn ist schon mit Wasser gefüllt.
 Er hämmert und reißt, er stöhnt und brüllt:
 »Ik kann nich helpen!«
  
+\<@pagebreak/>
 Wild blickt er sich um, er läßt die Hand
 und klettert hinauf auf des Bootes Rand,
 will über das steile Verdeck zur Tür --

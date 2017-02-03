@@ -1,4 +1,5 @@
-<div align="center" float="left"><img alt="Schiff bei Nacht auf See" src="0365.gif"/></div>
+<#include "pagebreak.ftl">
+<div align="center"><img alt="Schiff bei Nacht auf See" src="0365.gif"/></div>
 
 <h2>Schipper Harms.</h2>
 
@@ -14,6 +15,7 @@ hatte er keinen Verkehr. Nur die Jungen, manchmal auch die
 kleinen Schulmädchen wanderten gern vorbei an der Hofstelle, besonders
 wenn der Alte bei irgendeiner Arbeit im Garten oder auf
 den beiden Wenden Land zu sehen war, die ihm gehörten. Da kam 
+\<@pagebreak 358/>
 er wohl langsam an den flachen Graben hinan und reckte die große,
 braune, verarbeitete Hand über den Dornenzaun. »Min Jung,
 magst'n Appel?« fragte er dann in seiner sachten Art. »Hier, min
@@ -59,6 +61,7 @@ mehr aus.
 »Mann, bleib heute noch liegen. Der Sturmball ist hoch, und
 ihr kriegt zu schwere Fahrt.«
  
+\<@pagebreak/>
 »Ach was,« lachte Harms sorglos, »wenn man Euch Frauensleute
 hört, könnte man das ganze Jahr in der Kombüse liegen; wenn
 ich nicht rechtzeitig abliefere, kann ich bezahlen.«
@@ -105,6 +108,7 @@ Wenn der nur hätte schlafen können! An die Planken platschte,
 gurgelte, dröhnte das Wasser. Ein heulendes, rauschendes Getöse,
 das noch durch die Deckplanken zu spüren war.
  
+\<@pagebreak/>
 In der schweren, unsichtigen Luft glitten wie Riesenschatten
 rechts und links die Schiffe vorbei, mit kümmerlichem Schein, der
 in breitem Dunstkreis zerfloß, glimmerten wie Raubtieraugen die
@@ -153,6 +157,7 @@ Er schlägt mit der Faust an das Fenster. Der Junge öffnet
 es. Mit Augen, in denen das Entsetzen starrt, schaut er den Vater
 an und schluchzt:
  
+\<@pagebreak/>
 »Min Vadder, watt is los? Mutt ik verdrinken? Help mi
 doch, min Vadder, help mi doch!«
 

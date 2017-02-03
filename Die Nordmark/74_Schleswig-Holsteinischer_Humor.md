@@ -1,251 +1,256 @@
+<span epub:type="pagebreak" id="page386" title="386" xmlns:epub="http://www.idpf.org/2007/ops"/>
 <h2>Schleswig-Holsteinischer Humor im Volksmund.</h2>
 
-1. Wenn ick nachts gut slapen schall, sä de Bur, mutt ick dags
-min Ruh hebbn, do kreg he sick en Middagsslap.
+<ol>
 
-2. Dat kumt wedder, sä de Bur, un geev sin Swien Swienfleesch.
+<li>Wenn ick nachts gut slapen schall, sä de Bur, mutt ick dags
+min Ruh hebbn, do kreg he sick en Middagsslap.</li>
 
-3. Gliek stark, sä de Bur, da smeet de Jung em in de Krüff.
+<li>Dat kumt wedder, sä de Bur, un geev sin Swien Swienfleesch.</li>
 
-4. Dat's 'n Buddel, sä de Bur, un drunk ut den Lepel.
+<li>Gliek stark, sä de Bur, da smeet de Jung em in de Krüff.</li>
 
-5. Dat kost nix, sä de Bur, do prügelt he sin Jung.
+<li>Dat's 'n Buddel, sä de Bur, un drunk ut den Lepel.</li>
 
-6. Dat helpt vör de Müs', sä de Bur, da stök He sin Hus an.
+<li>Dat kost nix, sä de Bur, do prügelt he sin Jung.</li>
 
-7. Alles mit Maten, sä de Bur, do soop he en Kann Brannwien ut.
+<li>Dat helpt vör de Müs', sä de Bur, da stök He sin Hus an.</li>
 
-8. Vör wenig Eten bin ick nich, sä de dithmarscher Bur, awer
+<li>Alles mit Maten, sä de Bur, do soop he en Kann Brannwien ut.</li>
+
+<li>Vör wenig Eten bin ick nich, sä de dithmarscher Bur, awer
 drinken mag ick gern. Dahingegen mutt ick naher min gehörige
-Ruh hebbn.
+Ruh hebbn.</li>
 
-9. Wat wi nützlich sünd, wenn wi jung sünd, sä de Jung,
-da foder he de Farken.
+<li>Wat wi nützlich sünd, wenn wi jung sünd, sä de Jung,
+da foder he de Farken.</li>
 
-10. Dat lat ik gan, sä de Jung, as he'n Kalv vunn'n Jahr
-drägen sull.
+<li>Dat lat ik gan, sä de Jung, as he'n Kalv vunn'n Jahr
+drägen sull.</li>
 
-11. Daröwer geit nix! sä de Jung, in'n Bett liggn un'n Bodderbrod
-in'e Hand.
+<li>Daröwer geit nix! sä de Jung, in'n Bett liggn un'n Bodderbrod
+in'e Hand.</li>
 
-12. Ick will nich blieben, un min Herr will mi nich beholn, mi
-sül mal verlangen, wie't aflöppt, sä de Jung.
+<li>Ick will nich blieben, un min Herr will mi nich beholn, mi
+sül mal verlangen, wie't aflöppt, sä de Jung.</li>
 
-13. All to minen Besten, sä de Jung, do slogen se em den Stock
-op'n Puckel intwei.
+<li>All to minen Besten, sä de Jung, do slogen se em den Stock
+op'n Puckel intwei.</li>
 
-14. Beter is beter, sä de Jung un streu Zucker up'n Sirup.
+<li>Beter is beter, sä de Jung un streu Zucker up'n Sirup.</li>
 
-15. Wi kunn as Bröders tohopen leben, sä de Jung to sin
-Vader, wenn du blott dat verdammte Slagen nalaten wullst.
+<li>Wi kunn as Bröders tohopen leben, sä de Jung to sin
+Vader, wenn du blott dat verdammte Slagen nalaten wullst.</li>
 
-16. Ick wull ick leeg ers, sä de Jung, do seet he in't Bedd.
+<li>Ick wull ick leeg ers, sä de Jung, do seet he in't Bedd.</li>
 
-17. Wo hett die denn de Düwel, sä de Jung, as he de Abendsegn
-nich finn kunn.
+<li>Wo hett die denn de Düwel, sä de Jung, as he de Abendsegn
+nich finn kunn.</li>
 
-18. 't is gut, wer dar nix mit to don hett, sä de Jung, do beeten
-sick twee Kreien.
+<li>'t is gut, wer dar nix mit to don hett, sä de Jung, do beeten
+sick twee Kreien.</li>
 
-19. Dat's 'n Muskant, sä Asmus, da harr he 'n Farken in
-'n Sack.
+<li>Dat's 'n Muskant, sä Asmus, da harr he 'n Farken in
+'n Sack.</li>
 
-20. Dat mußt gewohnt warn, sä de Bäcker, do wischt he mit
-de Katt de Backaben ut.
+<li>Dat mußt gewohnt warn, sä de Bäcker, do wischt he mit
+de Katt de Backaben ut.</li>
 
-21. Dat wölkt wi wull kriegn, sä de Avkat, da meent he dat Geld.
+<li>Dat wölkt wi wull kriegn, sä de Avkat, da meent he dat Geld.</li>
 
-22. Nu kummt dor wat, sä Bautzendal, da schot he ut de Luk.
+<li><span epub:type="pagebreak" id="page387" title="387" xmlns:epub="http://www.idpf.org/2007/ops"/>Nu kummt dor wat, sä Bautzendal, da schot he ut de Luk.</li>
 
-23. Allens kummt an'n Mann, sä dat Mäten, blot ick nich.
+<li>Allens kummt an'n Mann, sä dat Mäten, blot ick nich.</li>
 
-24. Wenn ick mal Fru bün, seggt dat Mäten, denn ät ick all
-Dag Klümp un Backbeern.
+<li>Wenn ick mal Fru bün, seggt dat Mäten, denn ät ick all
+Dag Klümp un Backbeern.</li>
 
-25. Ra' mi gut, sä de Brut, as se heiraten sull, awer ra' mi
-nich aff.
+<li>Ra' mi gut, sä de Brut, as se heiraten sull, awer ra' mi
+nich aff.</li>
 
-26. Wer lang hett, lett lang hangen, un wer noch länger hett,
-lett slepen, sä de Düwel, do harr he sick 'n Latt an 'n Swanz bunn.
+<li>Wer lang hett, lett lang hangen, un wer noch länger hett,
+lett slepen, sä de Düwel, do harr he sick 'n Latt an 'n Swanz bunn.</li>
 
-27. Dat weer een, sä de Düwel, do kreeg he 'n Snieder bi 't
-Been.
+<li>Dat weer een, sä de Düwel, do kreeg he 'n Snieder bi 't
+Been.</li>
 
-28. Dat Krut kenn ick, sä de Düwel, un sett sick in de Brennnettel.
+<li>Dat Krut kenn ick, sä de Düwel, un sett sick in de Brennnettel.</li>
 
-29. Spaß mut sin, sä de Düwel, do stek he sin Grotmoder mit
-de Mißfork.
+<li>Spaß mut sin, sä de Düwel, do stek he sin Grotmoder mit
+de Mißfork.</li>
 
-30. Wo man singt, da laß dich ruhig nieder, sä de Düwel,
-do sett he sick in 'n Immenschwarm.
+<li>Wo man singt, da laß dich ruhig nieder, sä de Düwel,
+do sett he sick in 'n Immenschwarm.</li>
 
-31. Veel Geschrigg un wenig Wull, sä de Düwel, do klippt he
-de Swien.
+<li>Veel Geschrigg un wenig Wull, sä de Düwel, do klippt he
+de Swien.</li>
 
-32. Gott bewahr de Ogn, de Näs is doch all ton Düwel! sä de
-Fru, as se en Kartüffel eet, de in't Semp fulln weer.
+<li>Gott bewahr de Ogn, de Näs is doch all ton Düwel! sä de
+Fru, as se en Kartüffel eet, de in't Semp fulln weer.</li>
 
-33. Na dahn Ding is gut ruhn, sä de ol Fru un lees den
-Morgnsegn un Abendsegn toglik.
+<li>Na dahn Ding is gut ruhn, sä de ol Fru un lees den
+Morgnsegn un Abendsegn toglik.</li>
 
-34. Geit doch keen Ding öwer de Rendlichkeit, sä de ool Fru,
-un kehr alle Winachtsabend eer Hemd um.
+<li>Geit doch keen Ding öwer de Rendlichkeit, sä de ool Fru,
+un kehr alle Winachtsabend eer Hemd um.</li>
 
-35. Ik sitt gut, sä de Katt, do seet se op't Speck.
+<li>Ik sitt gut, sä de Katt, do seet se op't Speck.</li>
 
-36. Dat is 'n swar Stück, sä de Mulwarp, do sull he Waterpedden
-lehrn.
+<li>Dat is 'n swar Stück, sä de Mulwarp, do sull he Waterpedden
+lehrn.</li>
 
-37. Sla de Jungs de Jack vull un lat's na Hus gähn, sä Förster
-Roggenstein to'n Scholmeister, as he mit op de Jagd sull.
+<li>Sla de Jungs de Jack vull un lat's na Hus gähn, sä Förster
+Roggenstein to'n Scholmeister, as he mit op de Jagd sull.</li>
 
-38. Frie man erst! sä de Scheper to sin Hund, dann warst
-du dat fix öwern Tun spring'n wull laten.
+<li>Frie man erst! sä de Scheper to sin Hund, dann warst
+du dat fix öwern Tun spring'n wull laten.</li>
 
-39. Dör de Kehl kann vel! sä de Schipper, do harr he sin Dreemastschipp
-versapen.
+<li>Dör de Kehl kann vel! sä de Schipper, do harr he sin Dreemastschipp
+versapen.</li>
 
-40. De öllsten Kinner kriegt gar nix un min jüngsten eben so
-vel, sä Jan Schulz, as he fragt wor, wo vel sin Kinner denn mitkriegt.
+<li>De öllsten Kinner kriegt gar nix un min jüngsten eben so
+vel, sä Jan Schulz, as he fragt wor, wo vel sin Kinner denn mitkriegt.</li>
 
-41. 't is en Meisterstück! sä de Timmermann, de harr en Hunnhütt
-bu't un't Lock vergeten.
+<li>'t is en Meisterstück! sä de Timmermann, de harr en Hunnhütt
+bu't un't Lock vergeten.</li>
 
-42. Verfeer di nich, sä de Voß, da sprung he op'n Hahn.
+<li>Verfeer di nich, sä de Voß, da sprung he op'n Hahn.</li>
 
-43. Nimm't nich öwel, sä öe Voß, da harr he en Goos bi'n Wickel.
+<li>Nimm't nich öwel, sä öe Voß, da harr he en Goos bi'n Wickel.</li>
 
-44. Wat sünd ji vor Minschen! sä Westfal to sin Swien, as
-se den Kaben umstött harrn.
+<li><span epub:type="pagebreak" id="page388" title="388" xmlns:epub="http://www.idpf.org/2007/ops"/>Wat sünd ji vor Minschen! sä Westfal to sin Swien, as
+se den Kaben umstött harrn.</li>
 
-45. Nich mienetwegen, sä de Wulf, awer so'n Schaap smeckt
-doch gut.
+<li>Nich mienetwegen, sä de Wulf, awer so'n Schaap smeckt
+doch gut.</li>
 
-46. Beter en Luus in'n Kohl as garkeen Fleesch.
+<li>Beter en Luus in'n Kohl as garkeen Fleesch.</li>
 
-47. De dümmsten Burn hebbt de größten Kantüffeln.
+<li>De dümmsten Burn hebbt de größten Kantüffeln.</li>
 
-48. Dor is keen Pott so scheef, dor paßt en Deckel op.
+<li>Dor is keen Pott so scheef, dor paßt en Deckel op.</li>
 
-49. En kloke Hehn leggt ok mal in de Netteln.
+<li>En kloke Hehn leggt ok mal in de Netteln.</li>
 
-50. Fett driwt baben.
+<li>Fett driwt baben.</li>
 
-51. Geduld öwerwinnt Swiensbraden.
+<li>Geduld öwerwinnt Swiensbraden.</li>
 
-52. Gegen en hitten Backaben is nich antojappen.
+<li>Gegen en hitten Backaben is nich antojappen.</li>
 
-53. Je arger Strick, je beter Glück.
+<li>Je arger Strick, je beter Glück.</li>
 
-54. Kinnermaat un Kalvermaat möt ole Lüd weeten.
+<li>Kinnermaat un Kalvermaat möt ole Lüd weeten.</li>
 
-55. Lewer de Mag verrenken as de Weert wat schenken.
+<li>Lewer de Mag verrenken as de Weert wat schenken.</li>
 
-56. Man mutt Bäckers Kinner keen Stuten gewen.
+<li>Man mutt Bäckers Kinner keen Stuten gewen.</li>
 
-57. Utverschamt lett nich gut, awers fett gut.
+<li>Utverschamt lett nich gut, awers fett gut.</li>
 
-58. Vor Geld kann man den Düwel danzen laten.
+<li>Vor Geld kann man den Düwel danzen laten.</li>
 
-59. Wat de Bur nich kennt, dat itt he nich.
+<li>Wat de Bur nich kennt, dat itt he nich.</li>
 
-60. Wat de Een sin Uhl, is de Annern sin Nachtigal.
+<li>Wat de Een sin Uhl, is de Annern sin Nachtigal.</li>
 
-61. Wat enmal to'n Swinstrog tohaut is, darut ward nimmer
-en Vigelin.
+<li>Wat enmal to'n Swinstrog tohaut is, darut ward nimmer
+en Vigelin.</li>
 
-62. Wenn et regnet op de Prester, denn drüppelt dat op de
-Köster.
+<li>Wenn et regnet op de Prester, denn drüppelt dat op de
+Köster.</li>
 
-63. Wer sick nix rekent un ok nix is, de is tweemal nix.
+<li>Wer sick nix rekent un ok nix is, de is tweemal nix.</li>
 
-64. Wo Geld is, dor is de Düwel ok, un wo keen Geld is, dor
-is he tweemal.
+<li>Wo Geld is, dor is de Düwel ok, un wo keen Geld is, dor
+is he tweemal.</li>
 
-65. He hett 'n anslägschen Kopp, wenn he de Trepp dalfallt.
+<li>He hett 'n anslägschen Kopp, wenn he de Trepp dalfallt.</li>
 
-66. He hett depe Insichten, wenn he in de Soot kiekt.
+<li>He hett depe Insichten, wenn he in de Soot kiekt.</li>
 
-67. He süt dat an as de Koh dat nie Door.
+<li>He süt dat an as de Koh dat nie Door.</li>
 
-68. He hett de beste Knaken in't Muul.
+<li>He hett de beste Knaken in't Muul.</li>
 
-69. He sprickt immer von 'n groten Christopher un hett den
-lütten nich 'n mal sehn.
+<li>He sprickt immer von 'n groten Christopher un hett den
+lütten nich 'n mal sehn.</li>
 
-70. Em geit dat Muul as en Lammersteert.
+<li>Em geit dat Muul as en Lammersteert.</li>
 
-71. He lüggt mehr as veer Peer trecken könnt.
+<li>He lüggt mehr as veer Peer trecken könnt.</li>
 
-72. He is so ehrlich as de Jud von Altona, de stohl op'n helligen
-Middag.
+<li>He is so ehrlich as de Jud von Altona, de stohl op'n helligen
+Middag.</li>
 
-73. He hett nich stahl'n, he hett dar blots mit de Hand op pedd.
+<li>He hett nich stahl'n, he hett dar blots mit de Hand op pedd.</li>
 
-74. He lett sick vörn Groschen öwert Hus trecken un wenn't gut
-geit, noch eenmal.
+<li>He lett sick vörn Groschen öwert Hus trecken un wenn't gut
+geit, noch eenmal.</li>
 
-75. He kann nich mit de Ellbog'n in de Tasch kam'n.
+<li><span epub:type="pagebreak" id="page389" title="389" xmlns:epub="http://www.idpf.org/2007/ops"/>He kann nich mit de Ellbog'n in de Tasch kam'n.</li>
 
-76. He sitt op't Geld as de Düwel op de Seel.
+<li>He sitt op't Geld as de Düwel op de Seel.</li>
 
-77. Kummt he vundag nich, so kummt he morgen.
+<li>Kummt he vundag nich, so kummt he morgen.</li>
 
-78. De Katt hett em öwer de Tung kleit. (Er kann das R
-nicht aussprechen.)
+<li>De Katt hett em öwer de Tung kleit. (Er kann das R
+nicht aussprechen.)</li>
 
-79. He kiekt mit 't rechte Og in de linke Westentasch. (Er schielt.)
+<li>He kiekt mit 't rechte Og in de linke Westentasch. (Er schielt.)</li>
 
-80. He is so glatt, as wenn em de Bull lickt harr.
+<li>He is so glatt, as wenn em de Bull lickt harr.</li>
 
-81. He makt en Gesicht as acht Dag Regenwedder.
+<li>He makt en Gesicht as acht Dag Regenwedder.</li>
 
-82. He makt en Gesicht, dor kann man Rotten un Müs mit
-bang maken.
+<li>He makt en Gesicht, dor kann man Rotten un Müs mit
+bang maken.</li>
 
-83. He süht ut, as wenn he en ophett un will bi de annern
-anfangn.
+<li>He süht ut, as wenn he en ophett un will bi de annern
+anfangn.</li>
 
-84. He makt 'n Lipp so breed, dor kunn en Kluckhehn mit söbn
-Küken opsitten.
+<li>He makt 'n Lipp so breed, dor kunn en Kluckhehn mit söbn
+Küken opsitten.</li>
 
-85. He süht so sur ut, as harr he en Putt voll Müs op un
-schull bi'n annern anfangn. (Er macht ein mürrisches Gesicht.)
+<li>He süht so sur ut, as harr he en Putt voll Müs op un
+schull bi'n annern anfangn. (Er macht ein mürrisches Gesicht.)</li>
 
-86. He süht ut as de düre Tid. (Er sieht trübselig aus.)
+<li>He süht ut as de düre Tid. (Er sieht trübselig aus.)</li>
 
-87. He makt en Gesich as de Katt, wennt donnert.
+<li>He makt en Gesich as de Katt, wennt donnert.</li>
 
-88. Ick hör em gahn, he hett Holtschoh an.
+<li>Ick hör em gahn, he hett Holtschoh an.</li>
 
-89. Man kann sick op em verlaten as op'n dode Rott. (Er ist
-unzuverlässig.)
+<li>Man kann sick op em verlaten as op'n dode Rott. (Er ist
+unzuverlässig.)</li>
 
-90. Dat is en Kerl as en Fusthannschen, he lett sick op beide
-Hann trecken.
+<li>Dat is en Kerl as en Fusthannschen, he lett sick op beide
+Hann trecken.</li>
 
-91. He will immer mitten op'n Sack sitten un denn op beide
-Enn fat hebbn. (Er ist egoistisch.)
+<li>He will immer mitten op'n Sack sitten un denn op beide
+Enn fat hebbn. (Er ist egoistisch.)</li>
 
-92. Grotdon is min Leben, Broder lehn min Sösling. (Großtuer.)
+<li>Grotdon is min Leben, Broder lehn min Sösling. (Großtuer.)</li>
 
-93. He is nich eegen un ok nich nücksch, awer wat he nich will,
-dat deit he nich.
+<li>He is nich eegen un ok nich nücksch, awer wat he nich will,
+dat deit he nich.</li>
 
-94. He is so eegen as Johann Held, de schull an'n Galgen un
-wull nich. (Er ist eigensinnig.)
+<li>He is so eegen as Johann Held, de schull an'n Galgen un
+wull nich. (Er ist eigensinnig.)</li>
 
-95. He verseeg sick as Vatter Lorenz, de wull en Pund Toback
-kopen un stohl een. (Er irrt sich.)
+<li>He verseeg sick as Vatter Lorenz, de wull en Pund Toback
+kopen un stohl een. (Er irrt sich.)</li>
 
-96. He fragt de Koh en Kalv af.
+<li>He fragt de Koh en Kalv af.</li>
 
-97. He dampt, as wenn'n lüttje Mann backt. (Er raucht stark.)
+<li>He dampt, as wenn'n lüttje Mann backt. (Er raucht stark.)</li>
 
-98. He hangt opt Peerd as'n Fürtang. (Er ist ein schlechter
-Reiter.)
+<li>He hangt opt Peerd as'n Fürtang. (Er ist ein schlechter
+Reiter.)</li>
 
-99. He hett 18 Handwark un 19 Unglück.
+<li>He hett 18 Handwark un 19 Unglück.</li>
 
-100. Dat's en vun Hunnert. (Ein Gewöhnlicher.)
+<li>Dat's en vun Hunnert. (Ein Gewöhnlicher.)</li>
+
+</ol>
 

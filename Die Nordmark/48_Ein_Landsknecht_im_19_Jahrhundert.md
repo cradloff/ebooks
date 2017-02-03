@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Ein Landsknecht im 19. Jahrhundert.</h2>
 
 <h3>Von Christoph v. Tiedemann.</h3>
@@ -22,8 +23,9 @@ und verwitterten Zügen war von struppigem, ergrautem
 Haar und einem damals noch seltenen Vollbart umrahmt; unter
 buschigen Brauen leuchteten ein paar Falkenaugen hervor. Auf
 dem Rücken trug er einen kleinen Feldtornister, an der Seite eine
-Jagdtasche und in der Hand ein Doppelgewehr. Obwohl sein An-* 
-*zug ungewöhnlich schäbig war, hatte seine ganze aufrechte Erscheinung
+Jagdtasche und in der Hand ein Doppelgewehr. Obwohl sein Anzug
+\<@pagebreak 222/>
+ungewöhnlich schäbig war, hatte seine ganze aufrechte Erscheinung
 doch etwas Imponierendes. Er fragte in eigentümlich singendem
 Ton nach meinem Vater, und ich geleitete ihn in dessen Arbeitszimmer,
 wo er geraume Zeit blieb. Als er wieder heraustrat und
@@ -65,6 +67,7 @@ schüchternes Befragen über den angeblichen Zaubertrank gegeben. Er
 hatte nämlich behauptet, mit diesem Trank im Leibe könne man sich
 unsichtbar machen und folglich unbemerkt auch die geheimsten Handlungen
 seiner Mitmenschen beobachten. Kein Wunder, daß ihm 
+\<@pagebreak/>
 Jung und Alt scheu aus dem Wege ging. Meine knabenhafte
 Phantasie wurde durch diese und ähnliche Erzählungen, die unter
 unfern Knechten und Mägden eifrig kolportiert wurden und alle
@@ -107,6 +110,7 @@ Dänemark begleitet, als der Aufstand hoffnungslos geworden war.
 (Rye fiel als dänischer General 1849 in der Schlacht bei Friedericia,
 Schleppegrell ebenfalls als General 1850 in der Schlacht bei Idstedt.)
 
+\<@pagebreak/>
 Der Garnisondienst in dem friedlichen Kopenhagen war nicht
 nach dem Geschmack des unruhigen und ehrgeizigen Offiziers. 1815
 trat er in preußische Dienste, focht bei Ligny und Waterloo und
@@ -148,6 +152,7 @@ Helgesens. Wenn er im Zorn seine Augen blitzen ließ, hatte er
 einen gar grimmigen, geradezu bärbeißigen Ausdruck, der alles
 davonscheuchte. Wenn er dagegen Anekdoten und Schnurren aus
 seinem Leben mit dem den Norwegern eigenen melodischen
+\<@pagebreak/>
 Tonfall erzählte oder mit uns Kindern oder seinen Hunden in lustigster
 Weise herumtollte, lachte der Schalk aus seinen Augen. Sein Blick
 hatte eine dämonische Kraft, und es war nicht übertrieben, wenn er
@@ -190,6 +195,7 @@ diese Frage. Als mein Vater aus einer Zeitung ersah, daß die
 sehr gut dotierte Postmeisterstelle in Christiansfelde vakant geworden
 sei, schlug er Helgesen vor, sich um diese zu bewerben und riet ihm,
 sich direkt unter Berufung auf die alten norwegischen Beziehungen 
+\<@pagebreak/>
 an König Christian VIII. zu wenden, Helgesen befolgte diesen Rat
 und legte nach einigen Tagen meinem Vater ein Schreiben vor,
 dessen Inhalt ich glaube, wörtlich wiedergeben zu können. Es
@@ -233,6 +239,7 @@ bei Bergenhusen zu mieten und die Pachtung weiter Jagdreviere
 in der Landschaft Stapelholm und der übrigen Umgebung Friedrichstadts
 zu übernehmen, Helgesen durchstreifte nun als Jäger das
 südwestliche Schleswig und wurde bald in der ganzen Gegend eine 
+\<@pagebreak/>
 vielbesprochene und von jedem gekannte Persönlichkeit. Ein junges,
 edles Reitpferd, einen Fuchs, überließ ihm mein Vater zur Benutzung.
 
@@ -276,8 +283,9 @@ Kommando bei dem großen Mangel an brauchbaren Offizieren sehr
 willkommen sein werde.
 
 Ein unglücklicher Zufall jedoch vereitelte seine Wünsche. Mein 
+\<@pagebreak/>
 Vater war von der Notwendigkeit einer allgemeinen Volksbewaffnung
-überzeugt, er wollte eine <em>Levée en masse</em> organisieren und bat den
+überzeugt, er wollte eine <i>Levée en masse</i> organisieren und bat den
 Prinzen von Noer, ihm zu diesem Zweck einige tausend Gewehre
 zu überlassen. Der Prinz, von launenhaftem und jähzornigem Charakter,
 als Grobian ersten Ranges bekannt, war mit den Plänen
@@ -320,6 +328,7 @@ der jetzt als Oberstleutnant in dänischen Diensten stehe. Er habe
 sich dann eingehend nach unserer Familie erkundigt und ihnen
 herzliche Grüße für uns alle aufgetragen.
  
+\<@pagebreak/>
 Ein weiteres Jahr später sollten wir häufig Gelegenheit haben,
 uns Helgesens zu erinnern. Nach dem kopflosen Rückzuge, welcher
 der Schlacht bei Idstedt folgte, und der das ganze Land bis zur
@@ -361,6 +370,7 @@ zum erstenmal zur Anwendung kamen: Schrapnels. Die Jüten
 standen wie die Mauern, sie wehrten sich bis zum letzten Augenblick
 mit Kolben und Bajonett, und nachdem das blutige Handgemenge
 stundenlang gedauert hatte, gewahrten die Schleswig-Holsteiner
+\<@pagebreak/>
 mit Entsetzen, daß sie kaum einige hundert Schritt vorwärts
 gedrungen waren.
 
@@ -405,6 +415,7 @@ nicht nur alle Steuern einforderte, die in den Jahren 1848--51
 hätten gezahlt werden müssen, wenn Friede im Lande geblieben
 wäre, sondern daß sie als eine außerordentliche Kontribution auch
 noch die Summe derjenigen Steuern beitrieb, die während der 
+\<@pagebreak/>
 Kriegsjahre an die schleswig-holsteinischen Kassen faktisch gezahlt
 worden waren.
 
@@ -448,6 +459,7 @@ setzten die Patrioten wenigstens durch, daß kein dänischer Beamter
 oder Offizier, natürlich auch nicht der Gouverneur, wie sonst üblich,
 eingeladen wurde.
 
+\<@pagebreak/>
 Mit Trommeln und Pfeifen marschierten des Morgens die
 Schützen zum Tor hinaus nach dem sogenannten Klosterkrug, wo
 die Vogelstange errichtet war. Nachmittags folgten die Frauen
@@ -489,6 +501,7 @@ in den dänischen Farben durch die Straßen promenieren zu sehen.«
 Ich habe Helgesen einmal als Student in Rendsburg besucht.
 Schon im Vorzimmer wehte mir ein Geruch entgegen, als ob ich
 in eine Menagerie einträte, und der Anblick, der sich mir darbot, 
+\<@pagebreak/>
 als ich in ein großes, salonartiges Zimmer geführt wurde, rechtfertigte
 in der Tat diesen Eindruck. In der Mitte des Zimmers
 stand ein länglicher Trog, der mit dem verschiedensten Futter
@@ -531,6 +544,7 @@ aus einem anderen Grund ein Besuch des Königs ihm unerwünscht
 gewesen wäre. Seine sämtlichen Orden waren nämlich gleichfalls
 zum Trödler gewandert. Glücklicherweise hatte er sie nur versetzt.
  
+\<@pagebreak/>
 Ende der fünfziger Jahre starb der alte Helgesen, schmerzlos,
 ohne Krankenlager. Noch in den letzten Tagen war er beim Morgengrauen
 zum Festungstor hinausgeritten, um draußen auf den von

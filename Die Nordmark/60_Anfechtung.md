@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 307/>
 <h2>Anfechtung.</h2>
 
 <h3>Von Charlotte Niese.</h3>
@@ -44,6 +46,7 @@ Frau Gerrits seliges Ende zu bitten. Sie hatte sich gleich dieser
 Regung geschämt, und da der Pastor gerade von Anfechtung sprach,
 so nannte sie von jetzt an Frau Gerrit ihre Anfechtung. Und nun
 kam die zweite Anfechtung: Pietje Snut, der auf festen, kleinen 
+\<@pagebreak/>
 Beinen in ihrem Häuschen umherlief und immer dort zu finden
 war, wo er nicht sein sollte, der einen gottgesegneten Appetit hatte
 und eigentlich niemals satt war.
@@ -91,6 +94,7 @@ ein paar böse Anfechtungen für seine Großmutter waren, und daß
 er die Schläge in den Kauf nehmen mußte, die Frau Gerrit verdient
 hatte.
  
+\<@pagebreak/>
 Das war natürlich nicht angenehm; aber Pietje gewöhnte sich
 an seine Anfechtung und trug sie in Geduld. Sonst war es nämlich
 sehr nett in dem hochgelegenen Elbdorf. Überall Hunde und
@@ -133,6 +137,7 @@ wollen. Eine Woche lang blieb er noch angebunden; dann merkte
 seine Großmutter, daß er nicht mehr weglaufen wollte, und er durfte
 wieder frei umherlaufen.
  
+\<@pagebreak/>
 »Sei man artig, Pietje,« sagte sie. »Ich weiß, daß du meine
 Anfechtung bist, abers Gerritsch is noch schlimmer. Nu prahlt sie,
 daß ihr Jung all Geld verdienen tut. Son Bengel mit'n blauen
@@ -178,6 +183,7 @@ und Schellfische mit nach Haus. Sie hängte sie dann zum Trocknen
 in den Garten oder an den Herd; aber es war doch nicht mehr viel
 mit ihnen anzufangen, und Pietje mochte nicht immer Fische essen. 
 
+\<@pagebreak/>
 Indes wurde er doch groß und stark, und die Zeit ging schnell.
 Mit einemmal war er elf Jahre alt und hatte sich wahrhaftig so
 weit durch die Schule gearbeitet, daß er seiner Großmutter Sonntags
@@ -221,6 +227,7 @@ er einmal selbst aufs Schiff wollte.
 Der Bootsmannsmaat war auch aus dem Elbdorf, und Pietje
 wußte, daß er jetzt auf der »Hammonia« war, und daß der Dampfer
 in diesen Tagen von Hamburg nach Neuyork fuhr. Wenn das Schiff 
+\<@pagebreak/>
 nun bei dem Elbdorf vorüber ging, ob man sich dann wohl heranrudern
 und aufgenommen werden könnte?
 
@@ -269,6 +276,7 @@ Noch immer lag dicker Nebel über dem Wasser, und der Strand
 war totenstill. Nur in der Ferne schrie eine Möwe, und an Bord
 der »Hammonia« klang die Bootsmannspfeife.
  
+\<@pagebreak/>
 Pietje lief leise im weichen Sand. Allerlei Gedanken huschten
 durch seine Seele, und er mußte an seine Großmutter denken. Sie
 würde erschrecken, wenn er weg war; aber er wollte ja nur Geld
@@ -317,6 +325,7 @@ voller Mitleid gewesen.
 »Denn«, sagte sie, »ich glaub', Gerritsch war nich for Anfechtung,
 und Anfechtung muß sein!«
  
+\<@pagebreak/>
 Peter Snut lächelte noch manchmal darüber, daß seine Großmutter
 so viel von Anfechtung gesprochen hatte; er selbst wußte
 nicht mehr viel von diesem Gefühl. Denn er hatte eine nette,
@@ -361,6 +370,7 @@ und Schemel.
 
 Peter Snut hatte sich an der Reling festgehalten wie die anderen
 Menschen, die klatschnaß und aufgeregt wieder auf die Füße zu 
+\<@pagebreak/>
 kommen suchten; dann sah er mit seinen scharfen Augen aufs Wasser,
 warf den Rock ab und sprang über Bord.
 
@@ -409,6 +419,7 @@ Die junge Frau antwortete jetzt für ihren Mann.
 »Herr Gerrit spricht gar kein Deutsch, Herr Bootsmann. Sie
 müssen es verzeihen; aber er ist noch nie in Deutschland gewesen.« 
 
+\<@pagebreak/>
 »Noch nie in Deutschland.« Peter wiederholte unwillkürlich
 die Worte. Dann drehte er dem Mann den Rücken und strich nur
 vorsichtig über den blonden Kopf des Knaben.

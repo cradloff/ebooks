@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Septemberfahrt.</h2>
 
 <h3>Von Adolf Köster.</h3>
@@ -16,6 +17,7 @@ liebte den September gerade aus diesem Grunde. Er starb mit
 23 Jahren. Zufällig im September.
 
 Heute ist es schon vorbei. Heute ist er schon da, der Herbst. 
+\<@pagebreak 31/>
 Auf der Elbe lagen Nebel, und die Sonne ging in Schleiern auf.
 Aber neulich auf der Schlei war es noch nicht so. Es waren vielleicht
 die letzten Sommertage. Oder schon die ersten vom Herbst.
@@ -59,6 +61,7 @@ uns: es sollte sein wie ein Altonaer Fischdampfer.
 
 Warum das Seewasser wohl mehr schäumt als das Elbwasser?
 Wie wir langsam rückwärts aus den vielen Schiffen drehten, 
+\<@pagebreak/>
 schwammen wir in einem schimmernd weißen, dichten Gischt. Und
 wie lange hält er sich! Und wieviel munterer quirlt die Schraube
 in diesem reinen Grün als in dem Schmutz, der zwischen Steinwärder
@@ -103,6 +106,7 @@ So war es. Und darauf liegen Kühe. Wiederum andere wie in
 der Großen Allee oder in Eppendorf. Braune Kühe zumeist. Ich
 bin kein Maler, ich weiß nicht, wie ich es nennen soll. Auf einer
 Wiese stand eine einzige braune Kuh. Nun lag es sicher an der 
+\<@pagebreak/>
 späten Sonne. Aber es war etwas ganz Neues und Frohes, was
 England und Italien nie sehen werden -- dünkt mich. Denn es
 war ja kein Fluß, auf dem wir fuhren. Blauweiße Staatsquallen
@@ -150,6 +154,7 @@ Eine kleine, muntere Stadt mit bimmelnden Kreisbahnen, einer
 Pontonbrücke und zwei langen Schloten. Sonst aber still und gedrückt
 und verschlafen liegend wie alles hier.
  
+\<@pagebreak/>
 Fast hätte ich die Mühlen vergessen, die Windmühlen. In
 jeder Richtung erblickst du mindestens zwei. Große Mühlen, manche
 mächtiger wie eine Kirche. In einer sind wir gewesen. Man sah
@@ -194,6 +199,7 @@ Die Buchenstämme standen wie braunrote Holzschäfte da, und der
 ganze Boden, weich, voll altem Laub und Bucheckern, wurde ein
 roter, dunkelpurpurner Teppich.
  
+\<@pagebreak/>
 Es dauerte nicht lange, so war alles weg. Nur die Windmühlenflügel
 von Kappelholz tauchten noch mit ihrer äußersten Spitze
 in das rote Sonnenlicht.
@@ -238,6 +244,7 @@ Es sind erst ein paar Tage her. Aber mich dünkt, nun ist
 wirklich Herbst. Die dichte Lindenkrone vor meinem Fenster bekommt
 hie und da ein Loch. Und auch wo die Blätter noch alle
 stehen, wird es heller von dem durchsichtigen Gelb. Nun kommen 
+\<@pagebreak/>
 noch ein paar warme Tage und dann noch ein paar und dann ein
 Wind oder ein Regen, und dann ist's aus.
 

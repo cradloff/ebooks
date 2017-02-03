@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Professor Reimers.</h2>
 
 <h3>Von C. N. Schnittger.</h3>
@@ -8,6 +9,7 @@ sein, dort eine Schaubude zu finden mit der Überschrift:
 Magie, ägyptischen Zauberei und griechischen Phänomene, Mitglied
 der magischen Fakultät in Athen.«
  
+\<@pagebreak 362/>
 Vor der Bude stand ein Mann in einem abgetragenen Anzuge
 von schwarzem Samt, wie denn seine ganze Erscheinung etwas Verwittertes
 hatte. Sein Gesicht war scharf geschnitten, die Farbe gelb,
@@ -48,6 +50,7 @@ seiner Vollständigkeit. Was war denn aber seine Abstammung, und
 was war sein früherer Beruf gewesen? Ja, das wußte niemand,
 und so war auch seine Vergangenheit sagenhaft. Ich habe darüber
 nichts weiter erfahren, als was mir in einem Briefe mitgeteilt 
+\<@pagebreak/>
 wurde. Die betreffende Stelle lautet: »Ich stand als kleiner Junge
 mit vielen Genossen auf der Straße und lauschte den Klängen einer
 Drehorgel. Aber nicht allein Ohren- sondern auch Augenweide
@@ -88,6 +91,7 @@ Stadt zu Stadt, und es mag wohl kaum eine Persönlichkeit in
 Schleswig-Holstein gegeben haben, die bekannter war als er. Mit
 der Zeit stieg er eine Stufe höher, indem er Besitzer einer Schaubude
 wurde, worin er ein förmliches Kasperletheater einrichtete.
+\<@pagebreak/>
 Aber alles hat seine Zeit, und so verlor auch das Kasperletheater
 nach und nach an Reiz. Nun assoziierte Reimers sich mit einem
 Zauberer und früheren Zirkusbesitzer, namens Karl Pötau aus
@@ -129,6 +133,7 @@ dies Paar noch jahrelang das Land, bis es alt und grau wurde,
 und dann -- war es verschwunden. -- Wohin? Niemand hat es
 erfahren. Jedenfalls wandelt es längst nicht mehr auf Erden. Den
 Ruhm möge Wilhelm Reimers mitnehmen, daß er ein ausgezeichneter 
+\<@pagebreak/>
 Policinellospieler war, doch -- »dem Mimen flicht die Nachwelt keine
 Kränze!«
 
@@ -171,6 +176,7 @@ zu greifen. Seine Leistungen hatten aber inzwischen ihre frühere
 Zugkraft verloren; im Jahre 1891 traf ihn in seinem Wohnwagen
 ein Herzschlag.
  
+\<@pagebreak/>
 Hier soll noch auf folgende Marktgestalten, die unserem »Pferdemarkt«
 einst ein spezifisch heimatliches Kolorit gaben und groß und
 klein Jahrzehnte hindurch erfreuten, hingewiesen werden.

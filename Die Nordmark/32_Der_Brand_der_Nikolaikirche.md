@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>d. Dunkle Tage.</h2>
 
 <h2>Der Brand der Nikolaikirche in Hamburg am 5. Mai 1842.</h2>
@@ -11,8 +12,9 @@ Dürre ausgetrocknet.
 Der immer stärker werdende Wind trieb einen glühenden Aschen- und
 Funkenregen über die Stadt und jagte das Flugfeuer vor sich
 her. Die brennbaren Sachen aus den Speichern stiegen turmhoch
-in die Luft, wobei sie ein furchtbar prachtvolles Schauspiel ge-* 
-*währten. Dann verteilten sie sich, garbenmäßig herabsinkend und
+in die Luft, wobei sie ein furchtbar prachtvolles Schauspiel
+\<@pagebreak 124/>
+gewährten. Dann verteilten sie sich, garbenmäßig herabsinkend und
 wurden vom Wind in unbewachte Bodenluken oder zwischen die
 Holzgesimse getrieben, wo sie zündeten und Feuer, Schreck und
 Verwirrung weitertrugen.
@@ -60,6 +62,7 @@ schienen sich unter dem Kupfer hervorzuziehen. -- Man
 hielt es für eine Täuschung, für den Widerschein des unten wütenden
 Feuers.
  
+\<@pagebreak/>
 Die oben im Turme wußten es jedoch besser. Ihr Schreckensschrei
 ward unten im Tumulte nicht gehört, aber man sah ihre
 Bewegung. Der kleine Schornsteinfeger ließ seinen Besen herabfallen
@@ -101,6 +104,7 @@ voller Menschen in Pygmäengestalten, Däumlinge, die alle ihre Gesichter
 aufwärts gegen ihn gekehrt hatten. Seine Nerven waren
 aber eisenfest, wie sie bei einem Manne in der Gefahr sein müssen.
 Er rief den Leuten zu, die Leiter gut zu halten und goß den Eimer 
+\<@pagebreak/>
 nach den leckenden Flammen hinauf. Er traf sie aber nicht. Sie
 züngelten hinter den Kugeln. Die Leiter war zu kurz.
 
@@ -148,6 +152,7 @@ uns ist.«
 würde uns die ganze Geschichte über dem Kopfe zusammenfallen. --
 Wir haben auch keine Zeit mehr. -- Da!« -- -- --
 
+\<@pagebreak/>
 <div align="center" float="right"><img alt="Ansicht der Stadt mit dem brennenden Turm im Hintergrund" src="0135.gif"/></div>
 
 Ein Regen von glühenden Kohlen und ein furchtbares Prasseln
@@ -190,6 +195,7 @@ und legte ihn in einer Straße auf ein Sofa, das er dort fand.
 
 Etwa eine Stunde, nachdem die Männer vom Turme weichen
 mußten, brach seine Spitze herab und zerschmetterte das Kirchendach 
+\<@pagebreak/>
 sowie das der Predigerhäuser, aus denen sogleich die Flammen
 schlugen. Der Turm erschien jetzt wie ein riesiger Schmelzofen voll
 Glut erfüllt. Die Luft stürzte unten in alle Öffnungen und fuhr

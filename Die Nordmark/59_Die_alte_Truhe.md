@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 296/>
 <div align="center"><img alt="Blick in ein Zimmer mit einer großen Truhe" src="0304.gif"/></div>
 
 <h2>Die alte Truhe.</h2>
@@ -34,6 +36,7 @@ Hosen waren in die kurzen Schäfte seiner Stiefel getan.
 
 Er verließ seine Arbeit wie einer, dem die Mahlzeit eine unliebsame
 Unterbrechung ist, der sich freut, bald wieder anfangen zu 
+\<@pagebreak/>
 dürfen. Er war dabei, wie er sich ausdrückte, mit Gottes Erdboden
 herumzukarren, und mit Gottes Erdboden karren tat er zu
 gern.
@@ -80,6 +83,7 @@ Ruhig und versonnen war auf solchem Fleck das Leben immer;
 im Herbstnebel kam es, wenn er den Buckel wegkarrte, zu Hans in
 ganz kleinen Pulsschlägen her.
  
+\<@pagebreak/>
 Nach Osten fiel das Land gleich von seiner Weide weg hinab,
 und dicht an seiner Grenze wuchs ein kleines Wäldchen auf, in dem
 ein Elsternpaar hauste. Das schrakelte öfters auf; der Laut fiel scharf
@@ -136,6 +140,7 @@ Trien legte den Löffel weg und sah ihren Mann verwundert an.
 nicht haben? Klaus hat gesagt, du sollst ihm nicht wieder ›übern
 Drüssel‹ kommen.«
  
+\<@pagebreak/>
 »Das stimmt, Trien. Aber übermorgen sind's zehn Jahre, daß
 Mutter starb. Und wenn ich auch nicht hineinkommen sollte, daß
 ich mal vorbeigehe, kann Klaus mir nicht wehren.«
@@ -182,6 +187,7 @@ Laubwerk; Löwenköpfe und Löwenfüße und Adlersflügel sprangen an
 den Ecken heraus. Die Vorderseite war in zwei Felder geteilt, und
 die waren durch Gruppenbilder geziert, die man als Kain und Abel
 und David und Jonathan erkannte. Und an der unteren Leiste 
+\<@pagebreak/>
 längs war quer über beide Felder weg frei nach Matthäi 5, 23--24
 ein Spruch hingeschnitzt:
 
@@ -229,6 +235,7 @@ wohl ein Irrtum vorliege, oder sie hätten es nicht so hochtragisch
 genommen, hätten sich erzürnt und wieder vertragen, oder der eine
 hätte sich von dem andern auskaufen lassen.
  
+\<@pagebreak/>
 Aber da sie das alles nicht waren und das alles nicht kannten,
 so war jeder bereit, den langbewährten rechtlichen Sinn seines
 Bruders für nichts zu achten, zu vergessen, daß jener immer ehrlich
@@ -281,6 +288,7 @@ war. Mars Schütt wohnte dort; es waren gute Leute. Hans ging
 hinein und sog den Schmerz um seine Mutter und um seinen Bruder
 noch einmal in allen Winkeln des alten Hauses ein. Er ließ sich
 den Platz zeigen, wo die alte Lade gestanden hatte. Jetzt war da 
+\<@pagebreak/>
 blankgescheuertes Kupfer- und Messinggeschirr an derselben Stelle
 auf einer gemauerten Platte, die das alte Stück würdig gehoben
 und präsentiert hatte: Sobald du denkst, ein Bruder hab etwas
@@ -328,6 +336,7 @@ Mannes aus der Lade.
 
 <hr/>
  
+\<@pagebreak/>
 Hans ging früh vor Tag im Nebel weg.
 
 Um acht Uhr sollte die Sonne aufgehen. Er hatte schon eine
@@ -376,6 +385,7 @@ Hans in den glücklichen Knickdörfern angelangt.
 
 Und überall um Haus und Hof und auf der Straße, da war
 es still, daß er das Rieseln des Nebels hörte. Nur ein paar Hühner 
+\<@pagebreak/>
 hatten es für nötig befunden, zehn Schritt vom »Wieben« zu gehen.
 Hier und da sah man Bauernmädchen Geschirr auf die Regale am
 Hauskamin stellen. Und im grauen Nebel schauten sie frisch und
@@ -436,6 +446,7 @@ Backen.
 »Wat böst du för'n goden Kerl! ... Du böst min lewe, witte
 Klaus!«
  
+\<@pagebreak/>
 Klaus war der Weichere; in seinen Zügen fing es an zu arbeiten,
 er machte krause Falten ... sein Gesicht war des Weinens nicht
 gewohnt. Aber er tat es doch, er weinte mitten auf der Landstraße,
@@ -488,6 +499,7 @@ gesprochen werden, Hans. -- Ich meine von der alten Lade ...«
 
 Hans nickte.
  
+\<@pagebreak/>
 »Sieh, Hans, ich hab' sie nicht mehr. Ich hab' so gedacht in meinem
 Sinn: Es ist nicht mehr zu erforschen, was Mutter eigentlich gemeint
 hat. Und da hab' ich gedacht, es sei das beste, weder ich kriegte

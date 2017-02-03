@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 274/>
 <h2>Von Spielen und Vergnügungen aus der Großväter Zeit
 in Dithmarschen.</h2>
 
@@ -39,6 +41,7 @@ auf alte noch viel mehr; wie man diese bald auf sanfte bald auf
 harte Weise zu behandeln hätte; welchen Ertrag sie von der einen
 und von der anderen Reise abends zurückbrächten, Geest und Marsch,
 versteht sich, unterscheidend: -- das war anziehend von ihnen zu 
+\<@pagebreak/>
 hören, stiftete Freundschaft, hob Ungleichheit des Standes und des
 Vermögens auf. --
 
@@ -79,6 +82,7 @@ Händen in ein kleines, ausgehöhltes Loch, Kuhle, Kühlken, warf,
 und dann die in der Kuhle bleibenden zählte, ob gerade oder ungerade.
 Ein Hasardspiel. Der Werfer hatte die gerade Zahl für
 sich, und wurde die gefunden, hatt' er gewonnen. So übten die 
+\<@pagebreak/>
 Knaben sich gleichfalls im Eisboßeln; davon nachher. Katerlücken,
 ein Spiel mit fünf kleinen Steinen. Kaakhor, ein Werfen nach
 aufgestapelten Steinen. Im Reep: Ein Reif, mehrere Faden lang,
@@ -119,6 +123,7 @@ Es kommt nicht allein auf das Weitwerfen an sondern besonders
 auch auf das Geradewerfen. -- Auf dieses Eisboßeln sowie auf
 jenes Reiten folgte abends und nachts ein Tanz. Indessen fand
 Ringreiten, Rolandsreiten, Eisboßeln nicht etwa alle Monat statt 
+\<@pagebreak/>
 sondern alle Jahr Winters einmal, letzteres konnte wohl zwei- bis
 dreimal geschehen. Der Leser wird dazu sagen: Du bist wohl immer
 dabei gewesen? -- Ja, das bin ich, mag selten dabei gefehlt haben.

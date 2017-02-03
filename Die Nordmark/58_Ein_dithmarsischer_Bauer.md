@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Ein dithmarsischer Bauer.</h2>
 
 <h3>Von Fr. Hebbel.</h3>
@@ -38,6 +39,7 @@ die Wolken sind zu kraus,
 drum muß der Gottessegen
 mir noch vor Nacht ins Haus!«
  
+\<@pagebreak 294/>
 Er spricht's im barschen Tone
 und fügt kein Wort hinzu
 von doppelt großem Lohne
@@ -119,6 +121,7 @@ wenn ihr die Räder packt
 und ich vor allen Dingen
 die Deichsel, bis sie knackt.«
 
+\<@pagebreak/>
 Die Knechte aber denken:
 Ein Tor ist, wer so spricht;
 auch darf man's ihm nicht schenken,

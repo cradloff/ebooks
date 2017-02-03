@@ -1,4 +1,6 @@
-<div align="center" float="left"><img alt="Hallig mit mehreren Häusern, vorn ein halbversunkenes Bootswrack" src="0375.gif"/></div>
+<#include "pagebreak.ftl">
+\<@pagebreak 367/>
+<div align="center"><img alt="Hallig mit mehreren Häusern, vorn ein halbversunkenes Bootswrack" src="0375.gif"/></div>
 
 <h2>Drinnen und Draußen.</h2>
 
@@ -34,6 +36,7 @@ die ersten Sterne wetteifernd gesucht und gezählt, das heraufziehende
 Wetter beobachtet und die sengenden Blitze in fast fühlbarer Nähe
 niederfahren sehen, den Regen über uns niederrauschen lassen und
 in der glühenden Sonne nackt im Sande gelegen. Auf Pferden 
+\<@pagebreak/>
 haben wir uns getummelt, ohne Sattel und Zaum manchen wilden
 Ritt getan, bis der Reiter zur Erde glitt oder auch einmal kopfüber
 in den Graben geschleudert wurde; mit Kälbern und Lämmern
@@ -75,6 +78,7 @@ Und nicht minder kehrten wir gern beim Schmied ein: es war
 ein fröhlicher Mann, und er hatte uns gern, wenn wir im Winter
 aus der Schule kommend vorsprachen und zusahen, wie er das weißglühende
 Eisen mit der Zange aus der Kohlenglut zog und mit dem 
+\<@pagebreak/>
 Hammer bearbeitete, daß die Funken in alle Ecken der dunklen
 Werkstatt stoben und die Mädchen laut aufschrien.
 
@@ -117,6 +121,7 @@ Reden, Meinen und Sichgeben des andern.
 
 Und ähnlich mit den öffentlichen Angelegenheiten. Man liest
 davon in der Zeitung und redet davon am Biertisch und vielleicht 
+\<@pagebreak/>
 in der Volksversammlung. Aber wie am letzten Ende »der Staat«
 und »die Gesellschaft« aussieht und wirkt, davon gewinnt der Junge,
 der auf dem Lande aufwächst, viel eher eine lebendige Anschauung.
@@ -157,6 +162,7 @@ zu erhalten schien. Vorher war aber eine Zeit der Not gegangen,
 die den Eltern noch lebendig vor der Seele stand und oft in den
 Gesprächen vorkam: in den zwanziger, dreißiger Jahren waren die
 Erzeugnisse der Landwirtschaft fast wertlos und unabsetzbar gewesen; 
+\<@pagebreak/>
 für einen dreijährigen Ochsen wurden 10--12 Taler Hamburgisch,
 für eine Tonne Hafer 2 Mark Lübsch, für ein Pfund Butter 2 Schilling
 (15 Pfennig) bezahlt. Kein Wunder, daß die Geldknappheit
@@ -197,8 +203,9 @@ Kögen heimisch, die nicht selbst mit Hand anlegten bei der Arbeit,
 dann eine sehr breite Schicht von mittleren Bauern, die regelmäßig
 mehr oder minder sich selber an der landwirtschaftlichen Arbeit beteiligten.
 Dann folgte eine Schicht kleiner Besitzer, die auf dem
-eigenen Landbesitz nicht mehr ausreichende Arbeit für die Familien-* 
-*glieder hatten und daher durch übernommene Dienste ihr Einkommen
+eigenen Landbesitz nicht mehr ausreichende Arbeit für die Familienglieder
+\<@pagebreak/>
+hatten und daher durch übernommene Dienste ihr Einkommen
 steigerten, sei es durch Fuhrdienste oder durch Krämerei, Tagelohn
 und Handwerk. Endlich kamen die eigentlichen Tagelöhner, die nur
 ein Haus mit Garten und vielleicht noch Land für eine Kuh oder
@@ -248,6 +255,7 @@ Und verließ darum nicht unwillig diese Welt
 <span class="g">In der Hoffnung
 einer besseren.</span></pre>
  
+\<@pagebreak/>
 So lag die Gliederung der Gesellschaft nach dem Besitz sichtbar
 vor Augen; man wußte von jedem Bauern, wieviel Demat Land er
 besaß, und von jeder Familie, in welchen Verhältnissen sie sich befand,
@@ -298,6 +306,7 @@ schrieb diese Inschrift
 ihr vor ihr dahingegangener	
 Gatte.</pre>
  
+\<@pagebreak/>
 Familien und Gemeine, in Gebildete und Ungebildete, in Hochwohlgeborene
 und überhaupt Nicht-Geborene. Alle Stufen des
 Besitzes waren durch kontinuierliche Übergänge verknüpft; zwischen
@@ -338,6 +347,7 @@ Unterschied gab eine Vorzugsstellung. Ausgenommen
 waren nur die Pastoren, Lehrer, Beamte, die natürlich mit ihren
 Amtsnamen angeredet wurden, meist auch Fremde waren und nicht
 Friesisch redeten. So bin ich, wenn ich als Student oder junger 
+\<@pagebreak/>
 Doktor nach Hause kam, von den älteren Leuten, auch unserem
 Tagelöhner, mit Du angeredet worden, vielleicht einmal mit einer
 Art Entschuldigung: eigentlich darf ich ja wohl so nicht mehr sagen;

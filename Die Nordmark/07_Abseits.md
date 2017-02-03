@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Abseits.</h2>
 
 <h3>Von Theodor Storm.</h3>
@@ -23,6 +24,7 @@ behaglich blinzelnd nach den Bienen;
 sein Junge aus dem Stein davor
 schnitzt Pfeifen sich aus Kälberrohr.
 
+\<@pagebreak 19/>
 Kaum zittert durch die Mittagsruh'
 ein Schlag der Dorfuhr, der entfernten;
 dem Alten fällt die Wimper zu,

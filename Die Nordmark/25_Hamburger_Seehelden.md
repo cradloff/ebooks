@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>c. Frevel und Gewalttat.</h2>
 
 <h2>Hamburger Seehelden.</h2>
@@ -17,6 +18,7 @@ wichtigen Punkt an der Elbmündung zu verschaffen wußte. An
 dem andern Pfeiler der Südseite fesselt uns das meisterhaft ausgeführte
 Standbild des Seehelden Simon von Utrecht († 1437). 
 
+\<@pagebreak 90/>
 <div align="center"><img alt="Ansicht des Meeres mit Segelschiffen" src="0098.gif"/></div>
 
 Gerade so, muß man meinen, hat der kühne Seeheld ausgeschaut,
@@ -54,6 +56,7 @@ aus, mit dem er den Hansen zu schaden und gleichzeitig Norwegen
 zu erobern gedachte. Die Ausrüstung der Schiffe und deren Bemannung
 geschah zu Vere in Zeeland unter dem Schutz der Frau
 Margareta, der Regentin der Niederlande. Öffentlich wurde
+\<@pagebreak/>
 freilich von einem ehrlichen Kriegszuge und nicht von beabsichtigter
 Piraterei geredet.
 
@@ -96,6 +99,7 @@ berühmten Kontore der Hansestädte, in deren Gewölben er große
 Schätze vermutete. Aber die Kaufleute brachten ihre Wehre zu
 werke, so daß er ihnen nichts tun konnte.
  
+\<@pagebreak/>
 Dieses böse Spiel verdroß nun billig die Hansestädte, also daß
 sie die Hamburger angingen, den Freibeutern das Handwerk zu
 legen. Die wollten sich erst nicht in die Sache begeben, aber die
@@ -134,6 +138,7 @@ Willen sein müssen. Es war ihm aber gelungen, bei höchster Fluttide
 die Gallion auf eine Sandbank zu setzen, ehe Kniphof es hatte
 hindern können. Da hatte das Schiff Not gelitten, einen Mast
 eingebüßt und fürs erste festgesessen. Das Schiffsvolk hatte nun
+\<@pagebreak/>
 den Steuermann über Bord werfen wollen, war aber daran durch
 Kniphof verhindert worden; denn gegen ihn hatte der Steuermann
 vorher geklagt, daß er die Schiffe gerne hineinbringen wolle, daß
@@ -176,6 +181,7 @@ sie nicht leiden; sie sollten sich wehren mit Macht und meinten auch,
 daß sie die Hamburger Kraffeln mit ihren Kartaunen und Serpentinen
 leichtlich in den Grund schießen könnten.
 
+\<@pagebreak/>
 Als nun Kniphof aus dieser Antwort vernahm, daß sein Volk
 unverzagt war, kriegte auch er frischen Mut und sprach: »Hei frisch,
 liebe Gesellen, wir wollen Preis und Ehre einlegen. Dort liegen
@@ -217,6 +223,7 @@ und diesen zarten Trunk haben sie einander zugetrunken, bis sie
 halb betrunken waren. Da wußten die Hauptleute, daß es losgehen
 könnte. Sie redeten ihr Kriegsvolk nun also an: »Gesellen, nehmt
 euch zusammen und habt der Feinde wohl acht! Wenn ihr euch 
+\<@pagebreak/>
 von ihnen bezwingen lasset, so ist es gewiß, daß es euch wird kosten
 Leib und Leben. Darum denket darauf, daß ihr es euren Vorfahren
 gleich tut, die alle Seeräuber von der See geholt haben.
@@ -259,6 +266,7 @@ setzten sie dem mächtigen Gegner tapfer zu.
 Nun hielt auch Ditmar Kohl nicht länger zurück. Er hielt
 seinen Kraffel hart auf die Gallion zu, um den Hauptangriff zu
 wagen. Als Kniphof Ditmars Kraffel heransegeln sah, vermutete
+\<@pagebreak/>
 er, daß auch dessen Volk unter Deck sein würde gleich wie im Admiralschiff.
 Darum ließ er alle seine wehrhaften Männer aufs Deck und
 an die Reling treten und befahl ihnen, den Kraffel sofort zu entern,
@@ -300,6 +308,7 @@ als zerhauene Leichen auf den Meereswogen dahin. Dem Herrn
 Benedikt von Ahlefeldt war gleich anfangs die Schädeldecke (»de
 pregenpanne«) weggeschossen; auch ein früherer Bürgermeister von
 Kopenhagen lag unter den Erschlagenen. Als Kniphof das grausige 
+\<@pagebreak/>
 Ende des Roten Klaus mit seinen eigenen Augen hatte ansehen
 müssen, da wurde er inne, welch grimmig Volk die Hamburger Bootsleute
 wären. Von ihren Beilen zerhauen zu werden, deuchte ihn
@@ -341,6 +350,7 @@ der Admiral Simon Parseval den »Bartum« auf Grund sitzen sah,
 schickte er einen Haufen seines Volks mit dem Boote hin, der das
 Schiff einnehmen sollte. Als das Boot längsseits des »Bartum«
 kam, stießen die Freibeuter eine schwere Steinbüchse über Bord, 
+\<@pagebreak/>
 um das Boot zu zerschmettern. Zum Glück konnten die Bootsleute
 rechtzeitig ausweichen. Da schleuderten die Freibeuter Teile der
 Ladung, Geschütze, Steinkugeln und, was sie zu fassen kriegen konnten,
@@ -385,6 +395,7 @@ Lange und Herrn Otto Bremer, den Siegern entgegen, um sie willkommen
 zu heißen. Da die Herren nun in Ditmar Kohls Schiff
 traten, haben sie Klaus Kniphof freundlich angeredet, ihn aufgefordert,
 sich zu ihnen zu setzen, und gesagt: »Klaus, willkommen!« 
+\<@pagebreak/>
 Er hat geantwortet: »Ja, meine Herren, ihr möget mich billig willkommen
 heißen.« Danach setzten sie ihm einen Trunk vor mit den
 Worten: »Trinket nur aus Eurem Becher, Klaus!« Antwortete er:
@@ -427,6 +438,7 @@ dem Predigerstuhl aufgehängt. Am folgenden Tage ist Kniphof mit
 etlichen seiner Gesellen vor Gericht geführt und daselbst von acht Uhr
 morgens bis drei Uhr nachmittags verhört worden. Er wurde des
 Seeraubs angeklagt -- nicht weniger als 172 Schiffe hatte er
+\<@pagebreak/>
 geplündert und viel unschuldig Blut vergossen -- und als Seeräuber
 verurteilt. Als Kniphof den Spruch der Richter vernommen, bat
 er für seine Gesellen, die er zur Freibeuterei gezwungen hatte.
@@ -468,6 +480,7 @@ wurden wieder 8 Freibeuter, darunter der Edelmann Simon
 Gans verurteilt und Montags darauf hingerichtet. Im ganzen erlitten
 75 Freibeuter ihren Tod von Henkershand. Ihre Köpfe aber
 wurden auf hohe Pfähle gesteckt allen bösen Gesellen als weithin 
+\<@pagebreak/>
 sichtbare Denk- und Warnungszeichen. Die alte plattdeutsche Chronik,
 die wahrscheinlich aus der Feder des Paters Stephan Kempe stammt,
 schließt ihren Bericht mit den beweglichen Worten: »Hebben se de

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Auf dem Kirchhof.</h2>
 
 <h3>Von Detlev v. Liliencron.</h3>
@@ -12,5 +13,6 @@ auf allen Gräbern fror das Wort: Gewesen.
 Wie sturmestot die Särge schlummerten,
 auf allen Gräbern taute still: Genesen.</pre>
 
-<div align="center" float="left"><img alt="Blick in den Wald" src="0053.jpg"/>Aus dem Sachsenwald</div>
+\<@pagebreak 45/>
+<div align="center"><img alt="Blick in den Wald" src="0053.jpg"/>Aus dem Sachsenwald</div>
 

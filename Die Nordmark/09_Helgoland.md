@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 20/>
 <h2>Helgoland.</h2>
 
 <h3>Von M. J. Schleiden.</h3>
@@ -38,8 +40,9 @@ vollen und unmittelbarsten Wahrheit wird. Die Nächte nicht abgerechnet,
 hat unser »Grau mehr als zwei Drittel seines Lebens in
 offenem Boote auf dem Wasser verbracht; das Heulen des Sturms,
 das Aberstürzen der gepeitschten Wogen hat keinen Einfluß mehr
-auf seine gestählten Nerven. Während wir dem raschen Alten müh-* 
-*sam folgend die fast 300 Stufen hohe Treppe zum Felsen hinansteigen,
+auf seine gestählten Nerven. Während wir dem raschen Alten
+\<@pagebreak/>
+mühsam folgend die fast 300 Stufen hohe Treppe zum Felsen hinansteigen,
 erzählt er von mancher Gewitternacht, manchem Schiffbruch;
 wir sehen ihn kämpfen mit den sich türmenden Wogen, um einem
 entmasteten, hilflos auf dem Wasser treibenden Fahrzeuge Rettung
@@ -79,6 +82,7 @@ Busch über die Höhe der Gartenzäune hervorwachsen. Die Insel
 selbst, in ihrer größten Länge kaum 2000 Schritte lang, bietet keine
 Fernsicht dar; alles liegt in der durchsichtigen Seeluft mit reinen,
 deutlichen Umrissen vor uns. Rechts springt der westliche Rand in 
+\<@pagebreak/>
 schmalen Felsenrippen, in gigantischen Bogen und grotesken Höhlen
 oder in einzelnen, säulenartigen Klippen rötlichen Gesteins in das
 grünliche Meer vor. Wie der scharfe Kiel eines Schiffes stellt sich
@@ -107,7 +111,7 @@ belehrte der alte Grau, »sondern der 18 Seemeilen entfernte Leuchtturm
 auf der hamburgischen Insel Neuwerk, der soeben angezündet
 wird. Nicht immer ist er zu sehen. Jetzt ist jene Gegend so still
 und klar, daß man deutlich im Scheine der Laterne den Rauch des
-eben vorbeifahrenden <g>Huller</g> Dampfboots erkennen kann; etwas
+eben vorbeifahrenden <span class="g">Huller</span> Dampfboots erkennen kann; etwas
 links von jener Stelle, wo jetzt der Rauch aufwirbelt, zieht sich die
 häßliche Sandbank, der schreckliche Vogelsand hin, die in ihrem
 flüssigen Sande schon Tausende von Fahrzeugen mit ihren wackern
@@ -120,6 +124,7 @@ Die größten Felsblöcke am Vorlande tanzten mit den Wellen
 wie Korkstücke und knirschten aneinander, als sollten sie zu Staub
 zermalmt werden. Die ganze See schien zu kochen, man sah keine
 Fläche, keine Welle, nichts als umhergejagten Schaum; die Brandung 
+\<@pagebreak/>
 brüllte zwischen dem Neusteg und Mönch und in dem alten Mörmersgatt
 und tobte zwischen diesen Klippen, daß der Gischt uns hier oben
 am Leuchtturm durchnäßte. Da standen wir, Männer und Weiber,
@@ -160,6 +165,7 @@ von Frankreich gebleicht. -- Ja, ja! die See ist eine gefährliche
 Freundin, und wehe dem, der nicht die Kraft hat, ihr todesmutig
 ins Angesicht zu sehen!«
  
+\<@pagebreak/>
 Wir schwiegen lange, dann schüttelten wir dem Alten still die
 Hand, und bald empfing uns alle die bunt gemalte Täfelung in dem
 reinlichen und behaglichen Zimmer unserer biedern Wirte.

@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Abschied.</h2>
 
 <h3>Von Theodor Storm.</h3>
@@ -7,6 +8,7 @@ wozu das Herz den vollen Schlag verwehrt;
 die Stunde drängt, gerüstet steht der Wagen,
 es ist die Fahrt der Heimat abgekehrt.
 
+\<@pagebreak 248/>
 Geht immerhin -- denn eure Tat ist euer --
 und widerruft, was einst das Herz gebot;
 und kauft, wenn dieser Preis euch nicht zu teuer
@@ -47,6 +49,7 @@ auch noch auf diesem teuren Boden stand,
 hör' mich! -- denn alles andere ist Lüge --
 kein Mann gedeihet ohne Vaterland!
 
+\<@pagebreak/>
 Kannst du den Sinn, den diese Worte führen,
 mit deiner Kinderseele nicht verstehn,
 so soll es wie ein Schauer dich berühren

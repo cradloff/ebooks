@@ -1,3 +1,5 @@
+<#include "pagebreak.ftl">
+\<@pagebreak 107/>
 <h2>Graf Rudolf von de Bökelnborg.</h2>
 
 <h3>(15. März 1145.)</h3>

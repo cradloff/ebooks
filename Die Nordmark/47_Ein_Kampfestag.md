@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Ein Kampfestag.</h2>
 
 <h3>Erlebnisse eines schleswig-holsteinischen Artilleristen vor Missunde am 12. September 1850.</h3>
@@ -17,6 +18,7 @@ Ein heller Mondscheinstreifen fiel durch die kleinen, verstaubten,
 spinnewebüberzogenen Fensterruten. Seltsam, wie er über die
 Schläfer hinfloß, wie bleich und gespenstisch er das Gesicht seines
 Nebenmannes Wilhelm Wilhelmsens übergoß; der hatte den Mund 
+\<@pagebreak 213/>
 halb geöffnet und stöhnte hin und wieder bang, als ob auch ihn
 ein schwerer Traum drücke.
 
@@ -69,6 +71,7 @@ Kolonne durch die letzten Ausläufer der Hüttener Berge mit ihren
 gelben Grasfeldern, ihren roten Heideflecken, ihren niedrigen Sandwällen
 voll blauer Glockenblumen; durch die tiefen, schattigen Redder,
 die alten niedersächsischen Dörfer mit ihren Strohdächern, auf die 
+\<@pagebreak/>
 das braune Laub der Bäume herabhängt, ihren Pferdekopfgiebeln,
 ihrem grellbunten Fachwerk.
 
@@ -115,6 +118,7 @@ Bretter und Latten vom Gutshofe, schlugen Gebüsch und Knüppel
 aus den Knicks, und in wenigen Minuten hatten sie mit den zwölf
 der Batterie beigegebenen Pionieren den Bach passierbar gemacht. 
 
+\<@pagebreak/>
 Inzwischen hatte Klaus Lassen von den hohen »Westertaler
 Koppeln« nach Norden ins herbstlich klare Land ausgeschaut. Deutlich
 sah er dort die lange Kette der grünröckigen Jäger feuernd über
@@ -164,6 +168,7 @@ in der Hand und las.
 og fem Börn hjemne‹ (Fru und fiew Kinner to Hus)!«
 
 Bei der Fahrt durchs Hüttenlager spähten die Artilleristen scharf 
+\<@pagebreak/>
 um sich, da sie glaubten, es könnten sich noch Dänen in den Hütten
 versteckt haben; aber kein Schuß fiel hier. Aber Heide und Feld,
 am Schnaaper See entlang erreichte die Batterie die Schleswiger
@@ -210,8 +215,8 @@ Kirche, jetzt die ersten Häuser des Dorfes auf. Die ersten Geschütze
 sind schon links in die Dorfstraße bis zum Kruge hinaufgefahren,
 die letzten befinden sich noch im Redder, als »Ganze Batterie Halt!«
 geblasen wird.
- 
 
+\<@pagebreak/>
 Die Artilleristen springen von den Geschützen, und schon eilen
 einige Dorfbewohner herbei -- alles bekannte Gesichter für Klaus
 Lassen.
@@ -256,6 +261,7 @@ auf, und jetzt beginnt eine furchtbare Kanonade über die Köpfe der
 plänkelnden Jäger hinweg. Das Knattern der Gewehre ist kaum
 mehr vernehmbar, und nach kurzer Zeit verlassen die dänischen Geschütze
 unterm Hurra der Schleswig-Holsteiner die Schanzen und 
+\<@pagebreak/>
 gehen über die Pontonbrücke aufs jenseitige Ufer. Gleich darauf
 haben sie hier Stellung genommen, und jetzt kreuzen die Geschosse
 sich heulend übers Wasser. Auf dem Felde vor der »Schulmeisterkoppel«
@@ -301,8 +307,8 @@ und Sprühen ... Klaus Lassen fühlt einen heftigen Schlag gegen
 seine rechte Wange und Schläfe. Es flimmert ihm vor den Augen,
 seine Sinne taumeln ihm, er fühlt einen rasenden Schmerz, aber
 zugleich eine besinnungslose Wut ...
- 
 
+\<@pagebreak/>
 Zwei Kameraden springen hinzu und fassen ihn an jeder Seite:
 »Klas, kumm torügg, du bist drapen!«
 
@@ -350,6 +356,7 @@ Augen wieder in grauen Nebel versinkt. --
 Brennender Schmerz und Durst wecken ihn. Fiebernd und
 halb bewußtlos schlägt er die Augen auf und fühlt, daß sein Kopf
 verbunden ist. Dann erkennt er ein ausgeräumtes Zimmer, auf 
+\<@pagebreak/>
 dessen strohbeschütteter Diele beim trüben Schein einer schwelenden
 Lampe ein Verwundeter neben dem anderen liegt. Mondlicht und
 roter Feuerschein übergießen ringsum die Wände, an denen ein
@@ -395,8 +402,8 @@ Wie im Traum zieht der ganze verflossene Tag noch einmal durch
 Klaus Lassens Sinn. Wie unendlich lang ist die Zeit gewesen
 von einem Mond zum anderen; ein Kampfestag liegt dazwischen,
 ein heißer, blutiger Kampfestag.
- 
 
+\<@pagebreak/>
 Wilhelm Wilhelmsen, armer Kamerad, du siehst den Mondschein
 nicht mehr, oder doch zum letzten Male. Klaus Lassen sieht wieder
 die dämmerige Diele mit den schlafenden Kameraden und den weißen

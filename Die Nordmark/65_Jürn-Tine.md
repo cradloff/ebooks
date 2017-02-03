@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Jürn-Tine.</h2>
 
 <h3>Von Ingeborg Andresen.</h3>
@@ -21,6 +22,7 @@ Richtung der gegenüberliegenden Tür, die in die andere Wohnung
 der Kate führte. Als diese sich aber gerade öffnete und den Nachbar
 herausließ, erstarb Ann-Dortjens Verwünschung in einem unverständlichen
 Brummen, und rasch schlurrte sie auf ihren Filzpantoffeln
+\<@pagebreak 349/>
 davon. Denn trotz ihres Kummers und ihrer Entrüstung
 verspürte sie nicht Mut genug in sich, dem vermeintlichen Mörder
 und Räuber der Weißbunten Aug' in Aug' ihre Meinung zu sagen
@@ -66,6 +68,7 @@ und zu steigern.
 
 <hr/>
  
+\<@pagebreak/>
 Heute morgen flog sie mehr als daß sie ging zu ihrem Brotherrn,
 und während heiße Rachegedanken ihren Sinn durchtobten,
 stieg daneben doch auch immer wieder das Behagen hoch, eine neue
@@ -107,6 +110,7 @@ Ann-Dortjen nicht der nötigen Entrüstung, die sie mit Fug und
 Recht verlangen konnte. Frau Pastor schüttelte den Kopf und meinte
 milde: »Ann-Dortjen, Sie müssen Jürn nicht alles zutrauen! Da
 es nun schon die zweite Henne ist, wird es wohl, wie ich glaube, 
+\<@pagebreak/>
 ein Marder oder Iltis gewesen sein!« -- »Awer 'n tweebeeniger,
 Fru Pastern!« erwiderte Ann-Dortjen prompt und überzeugungstreu.
 
@@ -149,6 +153,7 @@ der nächsten Woche in der Sitzung des Armenkollegiums erklärte:
 »Herr Pastor, ich bin gewiß 'n Christ, aber was zu viel is, is zu
 viel! Jürn-Tine faulenzt den ganzen Tag -- un ehrlich is er auch
 nich! Er hat der alten Ann-Dortjen sämtliche Hühner gestohlen. 
+\<@pagebreak/>
 Bei dem wird zu Weihnachten so wie so geschmort und gebraten, da
 brauchen wir ihm also nich noch das Weihnachtsgeld geben. Der
 Mensch is überhaupt eine Plage für die Gemeinde!« Sämtliche
@@ -189,6 +194,7 @@ es Ihrem Nachbar bringen, nicht wahr?« Während die Alte einen
 Dankesknix machte, nannte sie innerlich ihren Seelsorger einen Lügner
 und Betrüger; denn Ann-Dortjen wußte es ganz genau durch
 Frau Lehnsmann, daß Jürn-Tine diesmal kein Weihnachtsgeschenk 
+\<@pagebreak/>
 zugebilligt war. Da machte der Herr Pastor nun ihren ganzen
 Triumph zunichte. Und sie selber sollte dem Mörder ihrer Hühner
 das schöne Geld bringen? Ihn gleichsam noch belohnen?
@@ -230,6 +236,8 @@ erzählt? ... Du lieber Gott, auf einmal stand ihre Sünde wie
 eine große, schwarze Mauer vor ihrer Seele. Vergebens versuchte
 sie, die unbequeme Last von sich zu wälzen durch den Einwand:
 »Ach, es ist ja nur Jürn-Tine!« -- es wollte nicht recht glücken. 
+
+\<@pagebreak/>
 Ann-Dortjen mochte heute keine Weihnachtslieder hören, die
 die Kinder unter den Fenstern sangen; sie schloß die Türen fest
 zu und kroch in die Küche, um ihre Henne zu rupfen und die Weihnachtssuppe
@@ -271,6 +279,7 @@ keine Zeit.
 
 Tine schalt ihn, als sie das leere Tuch entdeckte, und dann hockten
 sie hungernd und frierend nebeneinander in der dunklen Küche. 
+\<@pagebreak/>
 »Jürn,« sagte die Alte auf einmal hastig weinerlich und krallte ihre
 mageren Finger um seinen Arm: »Jürn -- hal uns een Hähn von
 Ann-Dortjen -- de Iltis halt se doch! Ick kak em uns, wi wüllt

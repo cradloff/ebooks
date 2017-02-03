@@ -1,3 +1,4 @@
+<#include "pagebreak.ftl">
 <h2>Trutz, blanke Hans.</h2>
 
 <h3>Von Detlev v. Liliencron.</h3>
@@ -5,6 +6,7 @@
 <pre>Heut' bin ich über Rungholt gefahren.
 Die Stadt ging unter vor sechshundert Jahren.
 Noch schlagen die Wellen da wild und empört,
+\<@pagebreak 74/>
 wie damals, als sie die Marschen zerstört.
 Die Maschine des Dampfers schütterte, stöhnte,
 aus den Wassern rief es unheimlich und höhnte:
@@ -46,6 +48,7 @@ Auf allen Märkten, auf allen Gassen
 lärmende Leute, betrunkene Massen.
 Sie ziehn am Abend hinaus auf den Deich:
 »Wir trotzen dir, blanker Hans, Nordseeteich!«
+\<@pagebreak/>
 Und wie sie drohend die Fäuste ballen,
 zieht leis aus dem Schlamm der Krake die Krallen.
 Trutz, blanke Hans.
