@@ -84,7 +84,8 @@ von dem Dorfe Dahme blieb nur der dritte Teil stehen,
 40 Wohnhäuser zertrümmerte des Wassers Andrang; das kleine 
 
 \<@pagebreak/>
-<div align="center"><img alt="Ostseestrand mit Böschung und kleinem Boot" src="0139.jpg"/>Ostseestrand</div>
+<div class="img pre"><img alt="Ostseestrand mit Böschung und kleinem Boot" src="0139.jpg"/>
+Ostseestrand</div>
 
 \<@pagebreak/>
 Rietbruch verschwand ganz; auf dem einzigen Hofe Klostersee ertranken

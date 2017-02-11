@@ -19,7 +19,7 @@ dem andern Pfeiler der Südseite fesselt uns das meisterhaft ausgeführte
 Standbild des Seehelden Simon von Utrecht († 1437). 
 
 \<@pagebreak 90/>
-<div align="center"><img alt="Ansicht des Meeres mit Segelschiffen" src="0098.gif"/></div>
+<div class="img"><img alt="Ansicht des Meeres mit Segelschiffen" src="0098.gif"/></div>
 
 Gerade so, muß man meinen, hat der kühne Seeheld ausgeschaut,
 als er auf der Höhe von Helgoland seine Kriegskogge, die in alten
@@ -490,6 +490,8 @@ dorch dine grote barmherticheit erbarme di der, de in dusser sake
 sint ommegekamen! Amen.«
 
 <div class="source">Nach einer niedersächsischen Chronik.</div>
+
+<hr/>
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Solch ein Kraffel war ein zweimastiges Seeschiff, etwa von der Größe
 eines heutigen Schoners, jedenfalls viel kleiner als die Gallion Kniphofs.</div>

@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 1/>
-<div align="center"><img alt="Blick auf eine Allee" src="0009.gif"/></div>
+<div class="img"><img alt="Blick auf eine Allee" src="0009.gif"/></div>
 
 <h1>I. Blick in das Land.</h1>
 
@@ -8,11 +8,11 @@
 
 <h3>Von Dr. Ludwig Meyn.</h3>
 
-<div class="quote">
-»Sollte man es denken, daß diese Seen, diese
+<div class="right">
+<div class="quote">»Sollte man es denken, daß diese Seen, diese
 herrlichen Buchen, diese Hügel und Büsche Schweizer
 Täler zurückrufen!«                  Leop. v. Bach.
-</div>
+</div></div>
 
 Für Fremde und Einheimische hat ein Blick über die Naturbeschaffenheit
 und namentlich über die Naturschönheiten und Eigentümlichkeiten
@@ -144,7 +144,7 @@ Hügel durchbrechend mit tiefen Schluchten, über deren Enge sich die
 Bäume zusammenbeugen. An den Bächen klappern die Mühlen,
 auf den Höhen liegen stattliche Dörfer, an dem Rande der Seen
 prächtige Schlösser und freundliche Höfe mit gewaltigen Vorratshäusern,
-und in der Nähe werden die Hunderte von Kühen, die zum
+und in der Nähe weiden die Hunderte von Kühen, die zum
 Hofe gehören. Von lebendigen Hecken ist dieses Hügelland durchzogen;
 wie ein natürliches Netz überspannen sie die Bodenfläche,
 tauchen hinab und erheben sich mit ihr, beschatten den Weg, verbergen
@@ -159,5 +159,7 @@ dieser Schmuck aber tritt bis an den Spiegel der Ostsee; dort kommt
 hinzu die unendliche Fläche des Meeres, dort die leuchtenden Segel
 der Schiffe, dort die von Masten umgebenen blühenden Handelsstädte. 
 
-<div class="footnote" id="fn1"><a href="#rn1">*)</a>Geschrieben vor 50 Jahren.</div>
+<hr/>
+
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Geschrieben vor 50 Jahren.</div>
 

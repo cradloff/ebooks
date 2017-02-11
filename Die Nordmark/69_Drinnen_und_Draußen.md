@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 367/>
-<div align="center"><img alt="Hallig mit mehreren Häusern, vorn ein halbversunkenes Bootswrack" src="0375.gif"/></div>
+<div class="img"><img alt="Hallig mit mehreren Häusern, vorn ein halbversunkenes Bootswrack" src="0375.gif"/></div>
 
 <h2>Drinnen und Draußen.</h2>
 
@@ -254,7 +254,7 @@ Die von dem Allen das Gegenteil hielt
 Und verließ darum nicht unwillig diese Welt
 <span class="g">In der Hoffnung
 einer besseren.</span></pre>
- 
+
 \<@pagebreak/>
 So lag die Gliederung der Gesellschaft nach dem Besitz sichtbar
 vor Augen; man wußte von jedem Bauern, wieviel Demat Land er
@@ -305,7 +305,7 @@ Geb. Nördlingen 26. Sept. 1851
 schrieb diese Inschrift
 ihr vor ihr dahingegangener	
 Gatte.</pre>
- 
+
 \<@pagebreak/>
 Familien und Gemeine, in Gebildete und Ungebildete, in Hochwohlgeborene
 und überhaupt Nicht-Geborene. Alle Stufen des
@@ -358,5 +358,5 @@ gebracht hätte -- man konnte durchaus nur sagen: ich bitte Vater,
 dies oder das zu tun -- so wenig konnte ich einen doppelt so alten
 Mann anders als mit Namen anreden: Wie geht es, Carsten?
 
-<div class="source">Aus: Friedrich Paulsen, Aus meinem Leben, (Jena, Eugen Diederichs,)</div>
+<div class="source">Aus: Friedrich Paulsen, Aus meinem Leben. (Jena, Eugen Diederichs.)</div>
 

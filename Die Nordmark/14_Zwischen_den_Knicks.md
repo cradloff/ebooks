@@ -1,5 +1,5 @@
 <#include "pagebreak.ftl">
-<div align="center"><img alt="Bauernhof umgeben von Bäumen und Feldern" src="0046.gif"/></div>
+<div class="img"><img alt="Bauernhof umgeben von Bäumen und Feldern" src="0046.gif"/></div>
 
 <h2>Zwischen den Knicks.</h2>
 

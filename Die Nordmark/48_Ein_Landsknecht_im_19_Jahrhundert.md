@@ -557,6 +557,8 @@ Ruhe gebettet.
 
 <div class="source">Aus. Chr. v.  Tiedemann, Aus sieben Jahrzehnten. I. (Leipzig, S. Hirzel.)</div>
 
+<hr/>
+
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Geboren 4. Oktober 1793, gestorben 28. Februar 1858.</div> 
 
 

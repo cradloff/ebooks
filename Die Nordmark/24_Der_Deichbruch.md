@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 81/>
-<div align="center"><img alt="Reiter am Strand" src="0089.gif"/></div>
+<div class="img"><img alt="Reiter am Strand" src="0089.gif"/></div>
 
 <h2>Der Deichbruch.</h2>
 
@@ -51,7 +51,7 @@ Aber Hauke kam nicht wieder in das Zimmer; Elke hörte, wie
 er durch die Tenne nach dem Stalle schritt. »Den Schimmel! Den
 Schimmel, John! Rasch!« So hörte sie ihn rufen; dann kam er
 wieder in die Stube, das Haar zerzaust aber die grauen Augen
-leuchtend. »Der Wind ist umgesprungen!« rief er -- «nach Nordwest,
+leuchtend. »Der Wind ist umgesprungen!« rief er -- »nach Nordwest,
 auf halber Springflut! Kein Wind; -- wir haben solchen
 Sturm noch nicht erlebt!« Elke war totenblaß geworden: »Und
 du mußt noch einmal hinaus?« Er ergriff ihre beiden Hände und
@@ -343,6 +343,8 @@ dunkel wurden, warf noch die einsame Leuchte aus dem Kirchturm
 ihre zitternden Lichtfunken über die schäumenden Wellen.
 
 <div class="source">Aus: Theodor Storm, Der Schimmelreiter. (Berlin, Gebr. Paetel.)</div>
+
+<hr/>
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Die schräge Auffahrt zum Kamm des Deiches.</div>
 

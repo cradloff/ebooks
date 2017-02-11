@@ -80,7 +80,7 @@ En Schritt achter't Finster war lud, de Vader keem in's höch
 un hork.
 
 \<@pagebreak/>
-<div align="center"><img alt="Schneebedecktes Haus" src="0287.gif"/></div>
+<div class="img"><img alt="Schneebedecktes Haus" src="0287.gif"/></div>
 
 »Kinnjes', hör!« tuschel Heini. Trina schütt mit'n Kopp un
 seeg &#281;rn Vader lurig an mit en Og, binah to old un to klok för dat
@@ -572,6 +572,8 @@ Olndieksholt, damit dat doch ok en schönes reines Kleed harr för den
 Fierdag.
 
 <div class="source">Aus: J. H. Fehrs, Allerhand Slag Lüd. (Garding, H. Lühr &amp; Dircks.</div>
+
+<hr/>
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Kind Jesus -- Weihnachtsmann.</div>
 

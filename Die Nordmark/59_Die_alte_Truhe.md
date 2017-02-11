@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 296/>
-<div align="center"><img alt="Blick in ein Zimmer mit einer großen Truhe" src="0304.gif"/></div>
+<div class="img"><img alt="Blick in ein Zimmer mit einer großen Truhe" src="0304.gif"/></div>
 
 <h2>Die alte Truhe.</h2>
 

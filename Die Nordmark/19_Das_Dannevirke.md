@@ -99,8 +99,8 @@ sein würde.
 
 Drei Burganlagen geben den Wällen besondere Stützpunkte: 
 \<@pagebreak/>
-die Mildeburg südlich von Mildstedt, die Thyraburg bei Groß-
-Dannewerk, die Oldenburg mit der Hoburg bei Haddeby, dem alten
+die Mildeburg südlich von Mildstedt, die Thyraburg bei Groß-Dannewerk,
+die Oldenburg mit der Hoburg bei Haddeby, dem alten
 Hithabu.
 
 Die Mildeburg wurde vermutlich im Jahre 1151 durch König
@@ -242,7 +242,8 @@ mit allerlei fremdländischen Waren betrieben wurde. Auf der Suche
 nach Bernstein kamen Araber und Phönizier bis Hedeby; Bulgaren
 brachten Silber, das sog. Hacksilber, aus dem die Münzen damaliger
 
-<div align="center"><img alt="mehrere Zeilen in Runen-Schrift" src="0071.gif"/>Inschrift des Skarthesteins.</div>
+<div class="img pre"><img alt="mehrere Zeilen in Runen-Schrift" src="0071.gif"/>
+Inschrift des Skarthesteins.</div>
 
 Zeit geprägt wurden. Auch mit England, Holland und der Normandie
 wurden einträgliche Handelsbeziehungen gepflogen; die
@@ -306,7 +307,9 @@ neben bearbeiteten Geweihsprossen bezeugen die Herstellung von
 Beingegenständen. Auch das Schmiedehandwerk war nicht unbekannt,
 davon reden eiserne Nieten, Nägel und Äxte. Silber wurde zu
 
-<div align="center">phot. von Auqustiny-Kassel.<img alt="Der Runenstein" src="0073.jpg"/>Der Runenstein bei Busdorf (Skarthestein).</div>
+<div class="img pre">phot. von Auqustiny-Kassel.
+<img alt="Der Runenstein" src="0073.jpg"/>
+Der Runenstein bei Busdorf (Skarthestein).</div>
 
 Münzen, Spangen und Fibeln geformt und verarbeitet; selbst Goldsachen
 hat man in dem Schoße der Erde gefunden, die von Haddebys
@@ -324,8 +327,8 @@ um von späteren Geschlechtern zum Hausbau verwendet zu werden.
 Die Steinhaukunst bekunden die schon erwähnten Runensteine.
 
 Diesseits und jenseits der Schlei, von Eckernförde am Windebyer
-Noor vorbei nach Haddeby, besonders von hier über Klein-
-Dannewerk, Schuby, hinter Schleswig entlang nach Triangel zu sieht
+Noor vorbei nach Haddeby, besonders von hier über Klein-Dannewerk,
+Schuby, hinter Schleswig entlang nach Triangel zu sieht
 man noch heutigentags eine stattliche Anzahl von Hünengräbern,
 in denen die sterblichen Überreste der in vorchristlicher Zeit verstorbenen
 Großen des Volkes ruhen. Außer dem neuerdings abgetragenen
@@ -337,20 +340,26 @@ einer der Sigtrygg- (Sigurd) Steine stand, zur Erinnerung an
 die Schlacht zwischen Oberselk, Wedelspang und Jagel am 3. Feb.
 1864 ein Stein mit der Inschrift auf die gefallenen Österreicher:
 
-<pre style="float: left;">»Den tapferen Gefährten
+<div style="text-align: left;">
+<pre style="display: inline-block; text-align: left;">»Den tapferen Gefährten
 sei dieser Kranz gewunden,
 die hier in fremder Erde
-ihr kaltes Grab gefunden. --</pre>
+ihr kaltes Grab gefunden. &mdash;</pre>
+</div>
 
-<pre style="float: right;">Den braven Kameraden
+<div style="text-align: right;">
+<pre style="display: inline-block; text-align: left;">Den braven Kameraden
 voll hohem Heldenmut,
 die unsern Sieg erkauften
-mit ihrem Herzensblut. --</pre>
+mit ihrem Herzensblut. &mdash;</pre>
+</div>
 
-<pre style="text-align: center;">Heimwärts nach Östreichs Auen
+<div style="text-align: center;">
+<pre style="display: inline-block; text-align: left;">Heimwärts nach Östreichs Auen
 schwebt auf des Ruhmes Flügel
 der Name aller Helden
 vom Grab am Königshügel.«</pre>
+</div>
 
 Ein Denkmal, das wie die alten Runensteine noch nach einem
 Jahrtausend der Nachwelt die deutsche Waffenbrüderschaft verkünden
@@ -372,8 +381,8 @@ erbauten dort die Engländer ein großes Kauf- und Packhaus, das
 später in eine Kirche umgewandelt wurde. Nach der Knytlinga-
 Saga brachte König Sven zu Lande seine Schiffe nach hier. Lange
 Jahre führte der einzige Weg von Schleswig nach Husum am Dannevirke
-entlang über Hollingstedt (Hölingstada). Hier oder bei Klein-
-Rheide befand sich eine Zollstätte, deren das Schleswiger Stadtrecht
+entlang über Hollingstedt (Hölingstada). Hier oder bei Klein-Rheide
+befand sich eine Zollstätte, deren das Schleswiger Stadtrecht
 mehrere erwähnt. Eine andere war z. B. die Juriansburg
 auf der Möweninsel bei Schleswig in der Schlei.
 
@@ -420,7 +429,7 @@ der Mittelpunkt von Märchen und Dichtungen sind, die noch heute
 im Volksmunde fortleben. Und so begegnen wir allerorten am
 Dannewerk den Sagen von zwei Frauengestalten, die viel für ihr
 Vaterland getan und sich um den Grenzwall große Verdienste erworben
-haben,- es sind dies die Königinnen Thyra Danebod und
+haben; es sind dies die Königinnen Thyra Danebod und
 Margareta Sambiria.
 
 Von der ersteren heißt es: Auf der Thyraburg bzw. auf dem

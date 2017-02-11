@@ -1,5 +1,5 @@
 <#include "pagebreak.ftl">
-<div align="center"><img alt="Der Donn" src="0044.gif"/></div>
+<div class="img"><img alt="Der Donn" src="0044.gif"/></div>
 
 <h2>Der Donn.</h2>
 
@@ -58,6 +58,7 @@ auf welchen, unter welchen, zwischen welchen man so schön
 spielen konnte. Und dann die Marsch dicht daran, wo man sich im
 Springen über die Gräben ergötzen und üben konnte!
 
-<div class="source">Aus: Klaus Harms, Lebensbeschreibung.
-»Bibliothek theologischer Klassiker« Bd. 7. (Gotha. F. A. Perthes.)</div>
+<div class="source pre">Aus: Klaus Harms, Lebensbeschreibung.
+»Bibliothek theologischer Klassiker« Bd. 7.
+(Gotha. F. A. Perthes.)</div>
 

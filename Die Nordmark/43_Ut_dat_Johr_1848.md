@@ -3,12 +3,14 @@
 
 <h3>Von C. N. Schnittger.</h3>
 
+<div class="right">
 <div class="quote">De Klocken gaht: bum, bum, bum, bum,
 de Trommel röpt: kum, Kam'rad, kum,
 kum, Kam'rad, nu is't so wiet.
-Herut, et is de höchste Tied, --
+Herut, et is de höchste Tied, &ndash;
 herut nu mit de Börgerwehr,
-mit Säbel un mit Scheetgewehr! Gurlitt</div>.
+mit Säbel un mit Scheetgewehr! Gurlitt.</div>
+</div>
 
 Dat wer en wunnerliche Johr, dat Johr 1848.
 

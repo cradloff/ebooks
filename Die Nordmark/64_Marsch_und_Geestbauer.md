@@ -12,7 +12,7 @@ sie hielt den bloßen Arm über die Stirn und schaute blinzelnd nach
 ihrem Herrn aus.
 
 \<@pagebreak 340/>
-<div align="center"><img alt="Bild des Bauern" src="0348.gif"/></div>
+<div class="img"><img alt="Bild des Bauern" src="0348.gif"/></div>
 
 Da kam er die Trift herauf, ein Hüne von Gestalt, groß, breitschulterig,
 mit einem Ansatz von Leibesfülle. Er beeilte sich nicht
@@ -56,7 +56,7 @@ wenn er Lackstiefel anhätte.« Mit diesen Worten schob Lehnsmann
 Kätels sich an der Magd vorbei zur Tür hinein.
 
 \<@pagebreak/>
-<div align="center"><img alt="Bild des Bauern" src="0349.gif"/></div>
+<div class="img"><img alt="Bild des Bauern" src="0349.gif"/></div>
 
 In der besten Stube, der Staatsstube des friesischen Bauern,
 sah es nicht sehr behaglich aus. Sie war ungeheizt und jedenfalls

@@ -451,6 +451,6 @@ schlägt mit der Peitsche über das eilig trabende Pferd.
 
 Auf rasselnden Rädern rollt der Wagen der Kreisstadt zu.
 
-<div class="source">Aus: Helene Voigt-Diederichs, Schleswig-Holsteiner Landleute.
+<div class="source pre">Aus: Helene Voigt-Diederichs, Schleswig-Holsteiner Landleute.
 (Jena, Eugen Diederichs.)</div>
 

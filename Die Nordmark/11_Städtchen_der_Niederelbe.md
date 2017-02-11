@@ -13,7 +13,8 @@ Lauenburg; der Strom zieht tief unten vorüber; jeglicher Zutritt
 ins Innere der Stadt ist ihm verwehrt. Schmal nur drückt sich ein 
 
 \<@pagebreak 24/>
-<div align="center"><img alt="Windmühle am Seestrand" src="0033.jpg"/>Vom Seestrand bei Husum.</div>
+<div class="img pre"><img alt="Windmühle am Seestrand" src="0033.jpg"/>
+Vom Seestrand bei Husum.</div>
 
 \<@pagebreak/>
 Häuserstreifen zwischen das Wasser und die aufsteigenden steinumsäumten
@@ -161,7 +162,7 @@ und die grüne, flache Landzunge sich dehnen, bleibt eine Frage
 der Zukunft.
 
 Eine ganz besondere Geschichte unter allen Städten der Niederelbe
-und ein von seinen Geschwistern gänzlich verschiedenes Außere
+und ein von seinen Geschwistern gänzlich verschiedenes Äußere
 hat Glückstadt, diese gegen den Willen der Natur auf gut Glück und
 königlichen Wunsch erbaute Stadt, in der sogenannten Wildnis, dem
 fruchtbarsten Stück der Elbmarschen, das zweimal zu ernten pflegt.

@@ -90,7 +90,7 @@ aus Versehen -- wer will das feststellen -- auf den Stiefel spuckte.
 Das fand Fritz Kleesand so
 komisch, daß er laut auflachte.
 
-<div align="center" float="right"><img alt="Blick in eine Gasse" src="0271.gif"/></div>
+<div class="img-right"><img alt="Blick in eine Gasse" src="0271.gif"/></div>
 
 Im allgemeinen vertrugen
 sie sich gut. Sie waren in den
@@ -175,7 +175,7 @@ es wohl auch nicht.
 sagte er zu Anton. »Besser ist besser.«
 
 »So?« entgegnete Anton. »Wie fein brannte es neulich; das
-ist nur 'n Kleinigkeit,«	-
+ist nur 'n Kleinigkeit,«
 
 Hugo war der stille Handlanger wie immer. Er hatte nicht
 über viel Barmittel zu verfügen und hatte keinen Vater, dem man
@@ -555,6 +555,6 @@ fuhren aufeinander los und gaben sich gegenseitig die Schuld, bis
 ein alter Bootsmann sie grob anließ: »Holt Mul! Sünst givt dat
 furts wat.«
 
-<div class="source">Aus: Gustav Falke, Die Kinder aus Ohlsens Gang.
+<div class="source pre">Aus: Gustav Falke, Die Kinder aus Ohlsens Gang.
 (Hamburg, Alfr. Janssen.)</div>
 

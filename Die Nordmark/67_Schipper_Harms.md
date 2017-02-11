@@ -1,5 +1,5 @@
 <#include "pagebreak.ftl">
-<div align="center"><img alt="Schiff bei Nacht auf See" src="0365.gif"/></div>
+<div class="img"><img alt="Schiff bei Nacht auf See" src="0365.gif"/></div>
 
 <h2>Schipper Harms.</h2>
 

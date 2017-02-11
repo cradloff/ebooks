@@ -598,5 +598,6 @@ Dann holten sie Lichtstümpfe herbei, steckten sie an den Baum
 und zündeten sie an. Und während der Sturm ums Haus gellte,
 sangen sie das alte schöne Lied »Stille Nacht! Heilige Nacht!«
 
-<div class="source">Aus: Wilhelm Lobsien, Hinterm Seedeich. (Bremen, Carl Schünemann.></div>
+<div class="source pre">Aus: Wilhelm Lobsien, Hinterm Seedeich.
+(Bremen, Carl Schünemann.)</div>
 

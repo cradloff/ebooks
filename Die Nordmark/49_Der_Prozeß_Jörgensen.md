@@ -419,5 +419,7 @@ kann jetzt darüber sprechen.
 <div class="source">Aus: Asta Heiberg, Erinnerungen aus meinem Leben.
 (Berlin, Carl Heymann.)</div>
 
+<hr/>
+
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Jörgensen ist hochbetagt 1910 in Kopenhagen gestorben.</div>
 

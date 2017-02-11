@@ -230,7 +230,7 @@ erste Grabstein im Jahre 1796, und zwar auf der Feldmark von
 Wedelspang, gefunden und nach Luisenlund, dem nahe gelegenen
 Schlosse der herzoglichen Linie von Schleswig-Holstein-Glücksburg,
 überführt. Noch heute kann der Besucher des Schloßparks den
-3œ Ellen hohen, rötlichen Granitstein sinnend betrachten und, wenn
+3½ Ellen hohen, rötlichen Granitstein sinnend betrachten und, wenn
 er runenkundig ist, seine Inschrift lesen<a class="refnote" id="rn1" href="#fn1">*)</a>.
 
 Sie lautet: »Thorolf ritzte diesen Stein über Erik, seinen Genossen,
@@ -410,8 +410,10 @@ jenem frühen Jahrhundert die Heimat, in der sie geboren waren,
 lebten und sterben wollten, und darum das vielteuerste und vielschönste
 Land der Erde gewesen.
 
-<div class="source">Aus: Johannes Dose, Des Kreuzes Kampf ums Dannevirke.
+<div class="source pre">Aus: Johannes Dose, Des Kreuzes Kampf ums Dannevirke.
 (Schwerin, Friedr. Bahn.)</div>
+
+<hr/>
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> In letzter Zeit, nach der Niederschrift, sind die Luisenlunder Runensteine 
 ins Kieler Museum überführt worden.</div>

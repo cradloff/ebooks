@@ -290,5 +290,5 @@ wenn auch nicht für jedermann erkennbar, noch einmal auflebt.
 In unseren Tagen, unter dem Hauche des Geistes der neuen
 Zeit scheint Altdithmarschen dann wirklich gestorben zu sein.
 
-<pre class="source">Aus: Adolf Bartels, Die Dithmarscher. (Kiel, Lipsius &amp; Tischer.)</pre>
+<div class="source">Aus: Adolf Bartels, Die Dithmarscher. (Kiel, Lipsius &amp; Tischer.)</div>
 

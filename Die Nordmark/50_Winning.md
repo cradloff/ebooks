@@ -110,10 +110,9 @@ Den Ausgang dieser Begebenheit aber illustriert der nachstehende
 klassisch formulierte Erlaß vom 5. Oktober 1852, den ich
 den Lesern nicht vorenthalten will:
 
-<blockquote>
-<div class="g">Namens Seiner Königlichen Majestät.</div>
+<div class="center g">Namens Seiner Königlichen Majestät.</div>
 
-Auf die am 23. August d. J. hieselbst eingegangene Vorstellung
+>Auf die am 23. August d. J. hieselbst eingegangene Vorstellung
 und Bitte von Seiten des <i>Dr. juris</i> Heiberg in Schleswig
 um Aufhebung des Erkenntnisses der Struxdorff-Hardesvogtei 
 vom 9. August d. J., durch welches Clara Witthöft
@@ -126,7 +125,7 @@ wird hierdurch nach eingezogenem Bericht der Struxdorff-Hardesvogtei,
 und bei Wiederanschließung der Original-Anlagen des
 Gesuchs, in Erwägung:
 
-daß die von dem Supplicanten gegen die Competenz der
+>daß die von dem Supplicanten gegen die Competenz der
 Struxdorff-Hardesvogtei und die Statthaftigkeit des von derselben
 beobachteten Verfahrens erhobenen Beschwerden für
 begründet nicht zu erachten, da in dem zur Frage stehenden 
@@ -138,7 +137,7 @@ und die Zuziehung von Actuar und Gerichtsbeisitzern bei
 der Erledigung von Polizeisachen den Hardesvögten im Amte
 Gottorff nicht vorgeschrieben ist,
 
-daß ferner, was die Sache anlangt,
+>daß ferner, was die Sache anlangt,
 zwar sämmtliche obgenannte uniformirte Mädchen auf eine
 ihren Verhältnissen wenig entsprechende Weise bei Gelegenheit
 ihrer Belustigung an einem öffentlichen Vergnügungsorte
@@ -149,23 +148,22 @@ Kiel den Umständen nach auf sich beruhen kann, wogegen die
 Ertheilung eines gerichtlichen Verweises an Nanni Heiberg
 als angemessen erschienen ist,
 
-zum Bescheide ertheilt, daß das angefochtene Erkenntniß dahin
+>zum Bescheide ertheilt, daß das angefochtene Erkenntniß dahin
 abzuändern, daß der unconfirmirten Nanni Elisabeth Henriette
 Heiberg wegen ungeziemenden Betragens an einem öffentlichen
 Belustigungsorte gerichtsseitig ein Verweis zu ertheilen.
 
-Zugleich hat der Dr. Heiberg als Verfasser der obrubricirten,
+>Zugleich hat der Dr. Heiberg als Verfasser der obrubricirten,
 hierselbst eingereichten Vorstellung mit Rücksicht auf die in derselben
 enthaltene, zur Beurtheilung der vorgebrachten Beschwerde
 unnöthige und an sich unangemessene Critik der öffentlichen Zustände
 im Herzogthum Schleswig eine Königliche Brüche von
 50 Thaler Cour. zu erlegen.
 
-Urkundlich unterm vorgedruckten Königlichen Insiegel.
+>Urkundlich unterm vorgedruckten Königlichen Insiegel.
 
-Gegeben in dem Königlichen Appellationsgericht für das
+>Gegeben in dem Königlichen Appellationsgericht für das
 Herzogthum Schleswig in Flensburg den 5. Oktober 1852.
-</blockquote>
 
 <div class="source">Aus: Asta Heiberg. Erinnerungen aus meinem Leben.
 (Berlin. Carl Heymann.)</div>

@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 5/>
-<div align="center"><img alt="Blick auf Bauernhof und Windmühle an einem Bach" src="0013.gif"/></div>
+<div class="img"><img alt="Blick auf Bauernhof und Windmühle an einem Bach" src="0013.gif"/></div>
 
 <h2>Schleswig-Holstein vor 300 Jahren.</h2>
 
@@ -88,7 +88,7 @@ Die Fürsten unternehmen in wichtigen Dingen hier nichts ohne
 Einwilligung der Landstände. Die Adligen im Lande besitzen ihre
 Güter frei mit dem Recht zu jagen und zu fischen. Daß sie nicht
 mit neuen Auflagen beschwert werden, dafür ist in den
-Landesprevilegien vorgesehen. Diese müssen die Fürsten, bevor
+Landesprivilegien vorgesehen. Diese müssen die Fürsten, bevor
 ihnen von den Untertanen der Huldigungseid geleistet wird,
 mit einem Eide bestätigen; denn die Stände haben auch die freie
 Befugnis, unter den Söhnen des Fürsten einen, wen sie wollen,

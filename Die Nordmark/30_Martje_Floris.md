@@ -190,6 +190,8 @@ gah uns wol up unse olen Dage!«
 
 <div class="source">Aus: Thusnelda Kühl, Das Haus im Grunde. (Jena, Herm. Costenoble.)</div>
 
+<hr/>
+
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Hausgeistchen.</div>
 
 <div class="footnote" id="fn2"><a href="#rn2">*)</a> Im Pfarrhause zu Oldenswort hängt tatsächlich heute noch der Degen

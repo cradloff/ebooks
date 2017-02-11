@@ -223,5 +223,7 @@ Jahrzehnt deckt auch ihn das Grab.
 <div class="source">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
 (Schleswig, Johs. Ibbeken.)</div>
 
+<hr/>
+
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Siehe das Gedicht »Orgeldreier«.</div>
- 
+

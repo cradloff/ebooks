@@ -69,8 +69,8 @@ sie trotzig.
 
 »Natürlicherweise!« Frau Gerrit lachte. »Bloß daß Sie doch
 ein büschen kröpelig sind! Mein Fritz sagt das auch. Der hat
-Ihnen gestern gehen sehen, und er sagt: Ne, was sieht de ohl Snutsch
-aus! Zum Gotterbarmen, die macht es nich mehr lang'! Mein Fritz,
+Ihnen gestern gehen sehen, und er sagt: ›Ne, was sieht de ohl Snutsch
+aus! Zum Gotterbarmen, die macht es nich mehr lang‹! Mein Fritz,
 der kann so was sehen, Frau Snut! Er is doch in Hamburg in
 die Lehre beim Delikatessenhändler und lernt einen ganzen Berg.
 Mein Fritz --«
@@ -193,7 +193,7 @@ Hatte doch ihre Konkurrentin den Fischhandel an eine
 ganz junge Person verkauft und lebte von ihrem Geld, weil Fritz
 das feiner fand.
 
-<div align="center" float="right"><img alt="Frau am Stand der Fischhändlerin" src="0319.gif"/></div>
+<div class="img-right"><img alt="Frau am Stand der Fischhändlerin" src="0319.gif"/></div>
 
 Fritz Gerrit ging jetzt manchmal
 mit einer Braut im Elbdorf
@@ -299,7 +299,7 @@ hatte und sich von seinem Erstaunen nicht erholen konnte.
 »Was los ist? Ich habe Geld gestohlen, meine Braut will
 mich nicht mehr, und die Polizei ist hinter mir her!«
 
-Halb bewußtlos hat[*]te Fritz Gerrit die Worte ausgestoßen; nun
+Halb bewußtlos hatte Fritz Gerrit die Worte ausgestoßen; nun
 zitterte er am ganzen Leibe und sah sich wild um. Und die »Hammonia«
 stieß einen Klagelaut aus, und dicht vor Pietjes Füßen
 lag das Boot vom Brückenwächter, das er immer benutzen durfte.

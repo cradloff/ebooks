@@ -22,8 +22,7 @@ Von fern auch hör' ich die Glocken.
 Ihr sollt die Glocken
 nicht läuten im Dom,
 wollt ihr Ruhe für eure Seelen!
-\<@pagebreak 106/>
-Wenn ihr mir im Grab
+<@pagebreak 106/>Wenn ihr mir im Grab
 keine Ruhe gönnt,
 komm' ich herauf, euch zu quälen.
 
@@ -66,6 +65,6 @@ Ich reite heim in mein Moor
 und liege dort wartend wie zuvor
 und höre die Wipfel rauschen. ...</pre>
 
-<div class="source">Aus: L. Brockdorff-Ahlefeldt, »Vorzeit.« Balladen.
+<div class="source pre">Aus: L. Brockdorff-Ahlefeldt, »Vorzeit.« Balladen.
 (Bremen, Carl Schünemann.)</div>
 

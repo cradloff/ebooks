@@ -162,5 +162,7 @@ steigt auch hier wie ein Riese die neue Zeit empor und überschattet
 Küste, Flut und Eiland. Nicht lange mehr wird man reden dürfen
 von dem Dörflein »am Rande der Welt«.
 
+<hr/>
+
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Heu gewendet (friesisch).</div>
 

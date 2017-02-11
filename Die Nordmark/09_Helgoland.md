@@ -4,8 +4,10 @@
 
 <h3>Von M. J. Schleiden.</h3>
 
-<div class="qoute">Grün ist das Land, rot ist der Strand,
+<div class="right">
+<div class="quote">Grün ist das Land, rot ist der Strand,
 weiß ist der Sand; das sind die Farben von Helgoland.</div>
+</div>
 
 So lautet der Spruch, der die Farben der Helgoländer Flagge erklärt.
 Der Fremde, der im schaukelnden Nachen vom Dampfschiffe,
@@ -17,7 +19,7 @@ hindurchgleitet.
 Wir landen, und die Gruppen der neugierigen Einwohner und
 Fremden umringen uns. Die frischen und blühenden Gesichter der
 Weiber und Mädchen verraten den belebenden Einfluß der Seeluft,
-und auf dein Antlitz der stämmigen, muskelkräftigen Männer hat
+und auf dem Antlitz der stämmigen, muskelkräftigen Männer hat
 mancher Sturm seine Spuren eingegraben. Als Typus der norddeutschen
 Seeleute und Küstenbewohner erschien uns ein Mann,
 weniger durch seine Größe, denn er ist nur von mittlerer Statur und
@@ -37,7 +39,7 @@ dem Wasser alles sieht und findet, was zu seiner Existenz erforderlich
 ist, bei welchem Pindars vielfach mißbrauchter Spruch: »das Vornehmste
 aber ist das Wasser«, in jedem Momente des Daseins zur
 vollen und unmittelbarsten Wahrheit wird. Die Nächte nicht abgerechnet,
-hat unser »Grau mehr als zwei Drittel seines Lebens in
+hat unser Grau mehr als zwei Drittel seines Lebens in
 offenem Boote auf dem Wasser verbracht; das Heulen des Sturms,
 das Aberstürzen der gepeitschten Wogen hat keinen Einfluß mehr
 auf seine gestählten Nerven. Während wir dem raschen Alten
@@ -67,7 +69,7 @@ vermehrt. Einige Damen, ein paar Naturforscher und Ärzte und
 einige englische Kapitäne haben sich uns angeschlossen. Das Gespräch
 wird mannigfaltiger und belebter. Der Anblick, der vom Belvedere
 aus sich darbietet, ist ebenso eigentümlich als großartig.
-Vor uns liegt die. obere Fläche des 200 Fuß hohen Felsens, links
+Vor uns liegt die obere Fläche des 200 Fuß hohen Felsens, links
 das kleine Städtchen mit dem niedrigen Kirchturm, rechts der massive
 Leuchtturm und etwas hinter ihm der alte, einer Bergruine gleichende
 Feuerturm. Zu allen Tageszeiten, besonders während eines Sturmes,

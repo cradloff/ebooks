@@ -6,15 +6,14 @@
 <pre>Heut' bin ich über Rungholt gefahren.
 Die Stadt ging unter vor sechshundert Jahren.
 Noch schlagen die Wellen da wild und empört,
-\<@pagebreak 74/>
-wie damals, als sie die Marschen zerstört.
+<@pagebreak 74/>wie damals, als sie die Marschen zerstört.
 Die Maschine des Dampfers schütterte, stöhnte,
 aus den Wassern rief es unheimlich und höhnte:
 Trutz, blanke Hans.
 
 Von der Nordsee, der Mordsee, vom Festland geschieden,
 liegen die friesischen Inseln im Frieden,
-und -- Zeugen weltenvernichtender Wut --
+und &mdash; Zeugen weltenvernichtender Wut &mdash;
 taucht Hallig auf Hallig aus fliehender Flut.
 Die Möwe zankt schon aus wachsenden Watten,
 der Seehund sonnt sich auf sandigen Platten.
@@ -48,8 +47,7 @@ Auf allen Märkten, auf allen Gassen
 lärmende Leute, betrunkene Massen.
 Sie ziehn am Abend hinaus auf den Deich:
 »Wir trotzen dir, blanker Hans, Nordseeteich!«
-\<@pagebreak/>
-Und wie sie drohend die Fäuste ballen,
+<@pagebreak/>Und wie sie drohend die Fäuste ballen,
 zieht leis aus dem Schlamm der Krake die Krallen.
 Trutz, blanke Hans.
 
@@ -69,10 +67,10 @@ Und rauschende, schwarze, langmähnige Wogen
 kommen wie rasende Rosse geflogen.
 Trutz, blanke Hans.
 
-Ein einziger Schrei -- die Stadt ist versunken,
+Ein einziger Schrei &mdash; die Stadt ist versunken,
 und Hunderttausende sind ertrunken.
 Wo gestern noch Lärm und lustiger Tisch,
-schwamm anderen Tags der stumme Fisch. --
+schwamm anderen Tags der stumme Fisch. &mdash;
 Heut' bin ich über Rungholt gefahren,
 die Stadt ging unter vor sechshundert Jahren.
 Trutz, blanke Hans?</pre>

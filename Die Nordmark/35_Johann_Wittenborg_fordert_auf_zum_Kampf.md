@@ -14,7 +14,7 @@ Krieges. Überall aber ruhten die Augen Johann Wittenborgs
 prüfend, ordnend, gebietend, selbst; er schien, zehnfach geteilt,
 
 \<@pagebreak 139/>
-<div align="center"><img alt="Ansicht des Rathauses" src="0147.gif"/></div>
+<div class="img"><img alt="Ansicht des Rathauses" src="0147.gif"/></div>
 
 zugleich hier und dort zu sein, über die doppelte Anzahl von Tagesstunden
 als andere zur Bewältigung aller seinen Rat und Entschluß
@@ -185,6 +185,6 @@ des Kriegsoberhauptes der Dudeschen Hanse. Es war ein Tag,
 wie die Stadt Lübeck ihn noch nie gesehen, seit Herzog Heinrich
 der Löwe ihre ersten Steine zusammengefügt.
 
-<div class="source">Aus: Wilhelm Jensen, Aus den Tagen der Hansa, Bd. 3.
+<div class="source pre">Aus: Wilhelm Jensen, Aus den Tagen der Hansa, Bd. 3.
 (Leipzig, E. Avenarius.)</div>
 

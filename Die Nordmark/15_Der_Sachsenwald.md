@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 42/>
-<div align="center"><img alt="Herrenhaus an einem See eingerahmt von Bäumen" src="0050.gif"/></div>
+<div class="img"><img alt="Herrenhaus an einem See eingerahmt von Bäumen" src="0050.gif"/></div>
 
 <h2>Der Sachsenwald.</h2>
 
@@ -18,8 +18,8 @@ Gepräge. Sind sie Zeugen von Fehden, die hier einst um den
 Besitz des Grenzgebietes ausgefochten wurden? In alten Zeiten
 hatte der Wald unstreitig eine noch größere Ausdehnung als jetzt.
 Westwärts erstreckte er sich über die Bille hinaus und ostwärts bis
-an die Delvenau, weshalb die Slaven ihn Delvundez, d. i. Delvenau-
-Wald, nannten. Seine jetzige Gestalt erhielt er indessen wahrscheinlich
+an die Delvenau, weshalb die Slaven ihn Delvundez, d. i. Delvenau-Wald,
+nannten. Seine jetzige Gestalt erhielt er indessen wahrscheinlich
 schon in der zweiten Hälfte des 16. Jahrhunderts. Sie gleicht einem
 mit der Spitze nach Norden gerichteten Dreieck, dessen nordwestliche
 Seite von der Bille und dessen nordöstliche von einer Linie gebildet
@@ -99,6 +99,6 @@ Verehrung und Dankbarkeit zu bezeugen. An der Südseite der
 Bahn, dem Herrenhause schräg gegenüber liegt das Mausoleum,
 in dem er mit seiner Gattin beigesetzt ist.
 
-<div class="source">Aus: Johannes Schmarje, Die Provinz Schleswig-Holstein.
+<div class="source pre">Aus: Johannes Schmarje, Die Provinz Schleswig-Holstein.
 »Landeskunde Preußens« Heft 5. (Stuttgart, W. Spemann.)</div>
 

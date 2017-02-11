@@ -25,7 +25,8 @@ Schleswig-Holstein, stammverwandt,
 stehe fest, mein Vaterland!</pre> 
 
 \<@pagebreak 187/>
-<div align="center"><img alt="Ansicht von Eckernförde von einem Hügel aus" src="0195.jpg"/>Eckernförde</div>
+<div class="img pre"><img alt="Ansicht von Eckernförde von einem Hügel aus" src="0195.jpg"/>
+Eckernförde</div>
 
 \<@pagebreak/>
 <pre>Gott ist stark auch in den Schwachen,

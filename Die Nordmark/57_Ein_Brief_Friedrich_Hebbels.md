@@ -146,9 +146,11 @@ wieder in die Tasche<a class="refnote" id="rn1" href="#fn1">*)</a>.
 
 Euer altes, sehr altes Nux<a class="refnote" id="rn2" href="#fn2">**)</a>.
 
-<div class="footnote" id="fn1"><a href="#rn1">*)</a>Hebbel hatte dem Verleger Campe in Hamburg seine Nibelungen zum Verlage angeboten. Campe biß denn auch in den Kuchen, d. h. er übernahm den Verlag.</div>
+<hr/>
 
-<div class="footnote" id="fn2"><a href="#rn2">**)</a>Der Dichter, der ein großer Tierfreund war,
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Hebbel hatte dem Verleger Campe in Hamburg seine Nibelungen zum Verlage angeboten. Campe biß denn auch in den Kuchen, d. h. er übernahm den Verlag.</div>
+
+<div class="footnote" id="fn2"><a href="#rn2">**)</a> Der Dichter, der ein großer Tierfreund war,
 unterzeichnete die Briefe an seine Frau gewöhnlich »Nux«.
 Diesen Spitznamen legte er sich seinem früheren Hündchen zu Ehren bei.</div>
 

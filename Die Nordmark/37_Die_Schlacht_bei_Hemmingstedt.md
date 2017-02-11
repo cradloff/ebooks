@@ -1,6 +1,6 @@
 <#include "pagebreak.ftl">
 \<@pagebreak 151/>
-<div align="center"><img alt="Bauer auf seinem Feld, mit zwei Pferden und einem Schwert in der Hand" src="0159.gif"/></div>
+<div class="img"><img alt="Bauer auf seinem Feld, mit zwei Pferden und einem Schwert in der Hand" src="0159.gif"/></div>
 
 <h2>Die Schlacht bei Hemmingstedt.</h2>
 

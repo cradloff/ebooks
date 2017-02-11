@@ -483,5 +483,5 @@ Stier, der stöhnend mit den Hörnern in der Erde wühlt.
 
 <div class="source">Aus: Gustav Frenssen, Jörn Uhl. (Berlin. Grotesche Verlagsbuchhdlg.)</div>
 
-<div align="center"><img alt="Siegel" src="0268.gif"/></div>
+<div class="img"><img alt="Siegel" src="0268.gif"/></div>
 

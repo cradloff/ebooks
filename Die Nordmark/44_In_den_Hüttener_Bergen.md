@@ -316,7 +316,8 @@ allen Seiten davon; das eine zerschmetterte sich beide Beine am
 Steinwall des Brunnenredder.
 
 \<@pagebreak/>
-<div align="center"><img alt="Ansicht von den Hügeln über Felder" src="0207.jpg"/>Die Hüttener Berge</div>
+<div class="img pre"><img alt="Ansicht von den Hügeln über Felder" src="0207.jpg"/>
+Die Hüttener Berge</div>
 
 \<@pagebreak/>
 Aber nur wenige Sätze kamen sie vorwärts, da wurden sie von

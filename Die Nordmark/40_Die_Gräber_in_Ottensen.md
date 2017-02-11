@@ -8,19 +8,19 @@
 <pre>»Zu Ottensen auf der Wiese
 ist eine gemeinsame Gruft;
 so traurig ist keine wie diese
-wohl unter des Himmels Luft.
+wohl unter des Himmels Luft.</pre>
 
-Darinnen liegt begraben
+<pre>Darinnen liegt begraben
 ein ganzes Volksgeschlecht,
 Väter, Mütter, Brüder, Töchter, Kinder, Knaben,
-Zusammen Herr und Knecht.
+Zusammen Herr und Knecht.</pre>
 
-Ein ungeheurer Knäuel,
+<pre>Ein ungeheurer Knäuel,
 zwölfhundert oder mehr;
 es zieht sich über dem Greuel
-ein dünner Rasen her.
+ein dünner Rasen her.</pre>
 
-Der deckt nun unsre Blöße,
+<pre>Der deckt nun unsre Blöße,
 ein Obdach er uns gab;
 man merkt des Jammers Größe
 nicht an dem kleinen Grab.«</pre>
@@ -74,10 +74,12 @@ Luft brütete das Verderben, und die Vertriebenen sanken von
 Seuchen ergriffen dahin wie dürre Halme unter der Sense des
 Schnitters.
 
-<pre>»Sie konnten nicht weiter keuchen,
+<div class="center">
+<pre class="left" style="display: inline-block;">»Sie konnten nicht weiter keuchen,
 erschöpft war ihre Kraft,
 Frost, Hunger, Elend und Seuchen
 die haben sie hingerafft.«</pre>
+</div>
  
 \<@pagebreak/>
 Sie fanden ihr Grab auf der Wiese zu Ottensen; anfänglich wurden
@@ -94,21 +96,21 @@ errichten; es ist ein Würfel von Sandstein, auf dem sich zwei
 Garben kreuzen, zu beiden Seiten des Steins sind gesenkte Fackeln
 eingehauen. Die Inschrift an der Vorderseite lautet:
 
-<pre>»Friede den Entschlafenen.
+>»Friede den Entschlafenen.
 
-An dieser Stätte ruhen die Gebeine von 1138 Hamburgern, welche
+>An dieser Stätte ruhen die Gebeine von 1138 Hamburgern, welche
 mit vielen tausenden ihrer Mitbürger von dem französischen
 Marschall Davoust im härtesten Winter 1813 und 1814 aus dem
 belagerten Hamburg vertrieben, mit menschenfreundlicher Milde
 in Altona aufgenommen, von dessen edlen Einwohnern, sowie
 von ihren früher ausgewanderten Landsleuten in ihrem Elende
 unterstützt und verpflegt, demungeachtet aber Opfer ihres Kummers
-und ansteckender Seuchen wurden.«</pre>
+und ansteckender Seuchen wurden.«
 
 Die Inschrift der Rückseite lautet:
 
-<pre class="center">»Diesen Denkstein errichteten Hamburgs trauernde Bürger
-ihren entschlafenen Mitbürgern im Jahre 1815«</pre>
+>»Diesen Denkstein errichteten Hamburgs trauernde Bürger
+ihren entschlafenen Mitbürgern im Jahre 1815«
 
 Birken und Weiden beschatteten später das Denkmal, unter
 dem die Opfer der Tyrannei schliefen. Als Erinnerung an eine
@@ -170,20 +172,24 @@ noch viele Geschlechter überleben.
 \<@pagebreak/>
 <h4>II.</h4>
 
-<pre class="quote">»Zu Ottensen an der Mauer
+<div class="right">
+<div class="quote">»Zu Ottensen an der Mauer
 der Kirch' ist noch ein Grab,
 darin des Lebens Trauer
-ein Held gelegt hat ab.«</pre>
+ein Held gelegt hat ab.«</div>
+</div>
 
 Rückert gedenkt des greisen Feldherrn, des Herzogs von Braunschweig,
 Karl Wilhelm Ferdinands, der hier »vor des Hirnes Spalte«
 Ruhe im Grabe fand. Der Dichter läßt das denkende Haupt des
 Kriegers sich aus der Gruft erheben:
 
-<pre>»Da sieht es der Zwölfhundert
+<div class="center">
+<pre class="left">»Da sieht es der Zwölfhundert
 Grabstätte sich so nah
 und ruft wohl aus verwundert:
 Ein Feldherr ward ich ja.«</pre>
+</div>
 
 Wie schön und erhaben ist dieser Gedanke; der greise Krieger,
 der, um Deutschland zu befreien, dessen Söhne in den Kampf
@@ -204,10 +210,12 @@ preist den greisen Feldherrn, der, um seines Landes Knechtschaft
 zu tilgen, erhobenen Hauptes in den Tod ging, auch er hält
 seine Parade, jedoch über das große Schmerzensheer:
 
-<pre>»Euch hat auf andern Pfaden,
+<div class="center">
+<pre class="left">»Euch hat auf andern Pfaden,
 und doch aus gleichem Grund,
 der Tod hierher geladen,
 ihr seid mit mir im Bund.«</pre>
+</div>
 
 So verherrlichte Rückert die Opfer des Krieges, die er sich
 im Tode vereint denkt. -- Aber vergebens suchst du jetzt das Grab
@@ -271,20 +279,22 @@ doch fiel auch der nun schon.«</pre>
 eine 60 Fuß hohe, aus Eisen gegossene Spitzsäule; an ihrem Fuße
 ruhen vier prächtige Löwen, und sie trägt die Inschrift:
 
-<pre>»Seinen für Deutschland gefallenen Fürsten ihr Vaterland 1822.
+>»Seinen für Deutschland gefallenen Fürsten ihr Vaterland 1822.
 Den Einbruch in das Vaterland mit seinem Blute wehrend, sank
 Braunschweigs Welfe Karl Wilhelm Ferdinand, mit ihm seines
 Volkes Glück. Des Vaterlandes, vom Feinde neubedrohtes Glück
 schützend, sank Braunschweigs Welfe Friedrich Wilhelm an seiner
 Krieger Spitze. Ihr Ruhm lebt ewig, dauernd wird mit ihm ihr
-Stamm dem Vaterlande zum Segen.«</pre>
+Stamm dem Vaterlande zum Segen.«
 
 <h4>III.</h4>
 
+<div class="right">
 <pre class="quote">»Zu Ottensen, von Linden
 beschattet auf dem Plan,
 ist noch ein Grab zu finden,
 dem soll, wer trauert, nah'n.«</pre>
+</div>
 
 Dort rauscht die mächtige Linde dem edlen Barden Klopstock
 und streut im Frühlinge ihre Blüten auf des Sängers Grab. --
@@ -314,7 +324,8 @@ und Freiheit war sein Flügelschlag! --«</pre>
 Rückert erkennt in Klopstock den hehren Freiheitssänger, und
 selbst auf dem Grabe des Dichters vernimmt er den Freiheitsodem:
 
-<pre>»Wohl hat, als dumpfer Brodem
+<div class="center">
+<pre class="left">»Wohl hat, als dumpfer Brodem
 der Knechtschaft uns umgab,
 ein leiser Freiheitsodem
 geweht von seinem Grab.
@@ -323,6 +334,7 @@ Wohl ist, als hier den Flügel
 die Freiheit wieder schwang,
 o Klopstock, deinem Hügel
 ertönt ein Freudenklang.«</pre>
+</div>
 
 Klopstock erlebte nicht die tiefste Erniedrigung Deutschlands,
 er starb am 14. März 1803; die Linde, die sein Grab beschattet,

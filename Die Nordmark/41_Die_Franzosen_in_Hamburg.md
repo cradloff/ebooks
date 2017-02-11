@@ -599,6 +599,8 @@ konnten.
 
 <div class="source">Aus: Therese Devrient, Jugenderinnerungen. (Stuttgart. Carl Krabbe.)</div>
 
+<hr/>
+
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Am 19. November 1806 war Marschall Mortier in Hamburg eingezogen, 
 von allem Besitz ergreifend »im Namen Sr. Majestät des Kaisers der Franzosen 
 und Königs von Italien«.</div>

@@ -14,7 +14,7 @@ größeren Gütern der Kornbau höchst unbedeutend bis in das 17.
 und 18. Jahrhundert hinein. Roggen und Hafer waren die Hauptfrüchte; Buchweizen verbreitete sich erst seit dem 16. Jahrhundert. Ein vier- bis fünffältiger Ertrag der Aussaat war schon zufriedenstellend, obgleich er oft kaum den Bedarf des Landes deckte. Die Bauern mußten häufig aus Not bald nach der Ernte ihr Korn verkaufen, dann aber für das Haus und die Aussaat entweder von dem Müller oder dem Gutsherrn wieder kaufen und waren so fortwährend im Druck. Bedeutender als der Ackerbau war zu der Zeit
 die Viehwirtschaft, wenngleich seit 100 bis 150 Jahren auf vielen
 Gütern die Zahl der Milchkühe sich verdoppelt und verdreifacht
-hat. Von dem Ackerlands lag etwa ¾ zur Weide und diente auf
+hat. Von dem Ackerlande lag etwa ¾ zur Weide und diente auf
 den Höfen zur Ochsengräsung, bei den Bauern zur Aufzucht von
 Jungvieh, wie noch heutigentags dieses im Amte Hadersleben vielfach geschieht. Als aber unter Christian II. Holländer ins Land
 kamen (1520), wurde auf den adligen Gütern die Milchwirtschaft
@@ -59,6 +59,8 @@ Korn gefüttert, nicht bloß wie früher vor dem Hungertode gesichert.
 Dadurch hat man mehr Dünger erzeugt und hofft, den Ertrag des
 Ackers wieder zu heben, da allerdings die wohltätige Wirkung des
 Mergelns vorüber war. Auf bessere Düngung und das <span class="g">Drainieren</span> feuchter Ländereien ist augenblicklich das Augenmerk gerichtet.
+
+<hr/>
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Jetzt die fünffache Zahl.</div>
 

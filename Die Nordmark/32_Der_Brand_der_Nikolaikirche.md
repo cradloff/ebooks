@@ -153,7 +153,7 @@ würde uns die ganze Geschichte über dem Kopfe zusammenfallen. --
 Wir haben auch keine Zeit mehr. -- Da!« -- -- --
 
 \<@pagebreak/>
-<div align="center" float="right"><img alt="Ansicht der Stadt mit dem brennenden Turm im Hintergrund" src="0135.gif"/></div>
+<div class="img-right"><img alt="Ansicht der Stadt mit dem brennenden Turm im Hintergrund" src="0135.gif"/></div>
 
 Ein Regen von glühenden Kohlen und ein furchtbares Prasseln
 der Flammen von oben folgte den Worten und trieb alle hinab.
@@ -237,6 +237,6 @@ die brennende Stadt erfüllte jedes Gemüt. Der Trieb zu helfen
 erwachte, und was im Umkreise vieler Stunden zum Löschen der
 Flammen dienen konnte, eilte dem Feuerzeichen des Turmes zu.
 
-<div class="source">Aus: Carl Reinhardt, Der fünfte Mai. Lebensbild von der Unterelbe, IIlustr. Roman.
-(Hamburg Kramersche Sort.-Buchhandlg. \[Steudel &amp; Hartkopf\].)</div>
+<div class="source pre">Aus: Carl Reinhardt, Der fünfte Mai. Lebensbild von der Unterelbe, IIlustr. Roman.
+(Hamburg Kramersche Sort.-Buchhandlg. [Steudel &amp; Hartkopf].)</div>
 

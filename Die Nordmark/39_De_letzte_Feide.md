@@ -20,8 +20,7 @@ un dat Blot dat krop un steeg;
 doch de Ogen gungn mit Tran'n æwert Land,
 un de Mund weer stumm un sweeg.
 
-\<@pagebreak 164/>
-Denn wit umher de Besten ut Land,
+<@pagebreak 164/>Denn wit umher de Besten ut Land,
 in Fr&#553;den un Strit vœrut,
 de legen nu dot oppet Feld vun Heid
 un stumm ünner Asch un Schutt.
@@ -36,5 +35,5 @@ un grön dat Holt un de Eer:
 De Ditmarschen fallt de Tran int Gras,
 un de Friheit seht se ni mehr!</pre>
 
-<pre class="source">Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</pre>
+<div class="source">Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</div>
 

@@ -1,5 +1,5 @@
 <#include "pagebreak.ftl">
-<div align="center"><img alt="Ansicht des Hünengrabes" src="0215.gif"/></div>
+<div class="img"><img alt="Ansicht des Hünengrabes" src="0215.gif"/></div>
 
 <h2>Das Hünengrab.</h2>
 

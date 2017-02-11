@@ -384,8 +384,10 @@ denn er dachte an den, der unter der Erde lag. Wehevoll war
 sein Herz, und er weinte. Aber der Gedanke an Eleonore umfing
 ihn wie ein sanfter Trost.	
 
-<div class="source">Aus: Johannes Dose, Frau Treue.
+<div class="source pre">Aus: Johannes Dose, Frau Treue.
 (Schwerin, Friedr. Bahn.)</div>
+
+<hr/>
 
 <div class="footnote" id="fn1"><a href="#rn1">*)</a> Apotheke.</div>
 

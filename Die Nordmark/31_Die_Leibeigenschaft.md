@@ -30,7 +30,7 @@ war; sie erhielten 10--12 Mark Lohn. Die Knechte und Mägde
 dienten nicht alle auf dem Hofe, sondern die allermeisten wurden
 den Bauern zugeteilt. Die Knechte aber zogen den Dienst auf dem
 Hofe vor, weil er sie vom Soldatendienste befreite. Von jeden
-3œ Pflügen des Gutes wurde nämlich ein Soldat oder, wie er
+3½ Pflügen des Gutes wurde nämlich ein Soldat oder, wie er
 genannt wurde, Landausschußmann gestellt. Wenn der Großknecht
 einige Jahre gedient hatte und kein Mangel an jungen Leuten
 im Gute war, so wurde er durch die Gnade seines Herrn Inste;
@@ -141,7 +141,7 @@ fünf der Täter enthauptet, vier auf Lebenszeit zur Karrenstrafe verurteilt
 und die übrigen mehr oder weniger hart bestraft. Verfeinerte
 Sitten, das größere Gewicht der öffentlichen Meinung und vermehrte
 Tätigkeit der Regierungsbehörden wirkten in der letzten Hälfte des
-18. Jahrhunderts insofern zugunsten der Leibeigenen, daß sie weniger
+18\. Jahrhunderts insofern zugunsten der Leibeigenen, daß sie weniger
 den körperlichen Mißhandlungen ausgesetzt waren als früher; allein
 in anderer Beziehung wurde ihr Los bedeutend verschlimmert. Viele
 Gutsbesitzer nämlich fanden es vorteilhaft, ihre Höfe selbst zu bewirtschaften;
@@ -159,6 +159,7 @@ Weise nicht!
 
 1\. Mose, 47, 25.
 
-<div class="footnote" id="fn1"><a href="#rn1">*)</a> Reichsbanktaler.</div>
+<hr/>
 
+<div class="footnote" id="fn1"><a href="#rn1">*)</a> Reichsbanktaler.</div>
 
