@@ -205,12 +205,104 @@ ist meine Freude schon halb dahin. Aber, bitte, führe mich zu meinem
 Bruder Arthur. Er wird mich auch erkennen, mich kennen und
 trösten.«
 
-[???]
-Seite 129 und 130 fehlt!
-[???]
+»Auch er ist gestorben.«
 
-*rischen Kerl zu greifen und zu binden. Sie zögerten, und einer von
-ihnen sagte:
+»Gott sei mir armen Manne gnädig! Tot, beide tot, alles tot, was 
+ich auf Erden lieb hatte! Aber ich flehe dich an, sage nicht etwa 
+auch, daß Fräulein Edith ...
+
+»Gestorben sei? Nein, sie lebt.«
+
+»Dann, dem Himmel sei Dank, kann ich mich doch wieder freuen! 
+Beeile dich, Bruder, daß sie hierher kommen! Wenn sie mich nicht 
+erkennt ... aber sie wird, sie muß mich kennen. Ich war ein Narr, 
+daß ich nur einen Augenblick daran zweifelte. O bringe sie hierher, 
+bringe auch die alten Dienstboten mit. Auch sie mögen bezeugen, 
+daß ich dein Bruder bin.«
+
+»Sie sind alle fort, außer fünf: Peter, David, Bernhard, Henriette und Margaret.«
+
+Mit diesen Worten verließ Hugo das Gemach.
+
+Michael stand eine Weile wie betäubt da. Dann begann er nachdenklich 
+auf und ab zu gehen und vor sich hin zu murmeln: »Die fünf Erzgauner 
+haben die zweiundzwanzig redlichen und ehrlichen Dienstboten verdrängt. 
+Das ist doch sonderbar.«
+
+Die Geschichte gefiel ihm immer weniger, je mehr er grübelte. 
+Den König hatte er ganz vergessen. Da sagte Eduard ernst und mit 
+tiefem Mitleid:
+
+»Nimm es dir nicht so zu Herzen, lieber Herr: es gibt noch andere 
+in der Welt, welche verkannt, und deren Ansprüche verlacht werden. 
+Du bist in guter Gesellschaft.«
+
+»Ach, mein König«, rief Henden und verfärbte sich leicht, »verurteilt 
+mich nicht. Wartet, und Ihr werdet sehen. Ich bin kein Betrüger. 
+Sie wird es bezeugen. Von den süßesten Lippen Englands werdet Ihr es 
+vernehmen. Ich soll ein Betrüger sein? Ich kenne diese alte Halle, 
+diese meine Ahnenbilder, kurz, alles um uns herum so gut, wie ein 
+Kind seine Amme kennt. In diesem Hause ward ich geboren und auferzogen, 
+mein Fürst. Ich spreche die Wahrheit. Und sollte auch niemand in der 
+Welt mir Glauben schenken, so bitte ich Euch, nicht an mir zu zweifeln. 
+Ich könnte es nicht ertragen.«
+
+»Ich glaube dir,« sagte der König einfach und mit kindlichem Vertrauen.
+
+»Das danke ich Euch von ganzem Herzen!« rief Henden feurig und sichtbar gerührt.
+
+Da fragte der König seinerseits:
+
+»Zweifelst du etwa an mir?«
+
+Henden wurde verlegen und dankte dem Himmel, daß ihm die Antwort erspart 
+wurde. Denn eben öffnete sich die Tür, und Hugo trat wieder herein. 
+Hinter ihm kam eine schöne, reich gekleidete Dame, gefolgt von mehreren 
+Dienern in Livree. Die Dame schritt langsam mit gesenktem Kopfe vor. 
+Ihre Augen hefteten sich auf den Boden, und ihre Züge waren unaussprechlich 
+traurig. Michael Henden sprang ihr entgegen und rief:
+
+»O meine Edith, mein Liebling!«
+
+Aber Hugo vertrat ihm den Weg und sagte zu der Dame:
+
+»Schaue ihn an. Kennst du ihn?«
+
+Als die Dame Hendens Stimme hörte, fuhr sie leicht zusammen, ihre Wangen 
+röteten sich, und sie zitterte merklich. Einige Augenblicke verharrte 
+sie in ihrer gebeugten Haltung. Dann erhob sie langsam ihr Haupt und 
+schaute Michael mit versteinerten, erschrockenen Augen an. Alles Blut 
+wich aus ihren Wangen, Tropfen für Tropfen, bis sie totenblaß war. 
+Hierauf sagte sie fast unhörbar mit ersterbender Stimme:
+
+»Ich kenne Euch nicht!«
+
+Langsam wie sie gekommen, wandte sie sich um und wankte mit 
+unterdrücktem Schluchzen zur Tür hinaus.
+
+Michael sank in einen Stuhl und bedeckte sich das Gesicht mit den 
+Händen. Eine peinliche Pause folgte. Dann sagte Hugo zu den Bediensteten:
+
+»Ihr habt nun Zeit gehabt, ihn zu beobachten. Habt ihr ihn erkannt?«
+
+Sie schüttelten ihre Köpfe, worauf Hugo sagte :
+
+»Seht, auch sie kennen Euch nicht, mein Herr. Es muß da wohl ein 
+Irrtum zu grunde liegen. Ihr saht ja, daß auch meine Frau Euch nicht kannte.«
+
+»Deine Frau?«
+
+Mit einem Satze sprang Michael seinem Bruder an die Kehle und drückte 
+ihn mit eisernem Griff gegen die Wand.
+
+»O du falsche Schlange!« rief er, »nun durchschaue ich alles. Du 
+selbst hast den Lügenbrief geschrieben, hast mir Braut und Güter 
+gestohlen! Mache dich aus dem Staube, sonst vergesse ich mich und 
+besudle meinen ehrlichen Waffenrock mit deinem Blute, du erbärmlicher Halunke!«
+
+Mit dunkelrotem Gesicht und halb erstickt schwankte Hugo zu einem 
+nahen Stuhle hin. Dann befahl er den Dienern, den mörderischen Kerl 
+zu greifen und zu binden. Sie zögerten, und einer von ihnen sagte:
 
 »Er ist bewaffnet, Herr Hugo, und wir sind ohne Waffen.«
 
