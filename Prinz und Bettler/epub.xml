@@ -29,5 +29,5 @@
 <!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
 <entry key="toc-entries">h3</entry>
 <!-- Liste von weiteren Dateien -->
-<entry key="additional-media">hr.png</entry>
+<entry key="additional-media"></entry>
 </properties>
