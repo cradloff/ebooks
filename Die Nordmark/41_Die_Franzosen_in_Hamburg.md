@@ -558,8 +558,8 @@ tausendmal grüßen!«
 Mutter weinte, wir mit ihr. »Und Mine, aber Mine?« frug
 die Mutter.
 
-»Du kennst sie ja,« erwiderte Vater traurig lächelnd; ›morgen
-abend um sechs Uhr ist der Termin um,‹  sagte sie, ›so lange bleibe
+»Du kennst sie ja,« erwiderte Vater traurig lächelnd; »›morgen
+abend um sechs Uhr ist der Termin um,‹ sagte sie, ›so lange bleibe
 ich bei Ludwig, richte sein Haus und besorge ihm alles. Habt um
 mich keine Angst, ich komme ganz gewiß zur rechten Zeit.‹  Dabei
 blieb sie und war durch nichts zu bewegen, mit mir zu gehen, dagegen

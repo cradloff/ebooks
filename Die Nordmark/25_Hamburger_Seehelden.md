@@ -353,7 +353,7 @@ kam, stießen die Freibeuter eine schwere Steinbüchse über Bord,
 \<@pagebreak/>
 um das Boot zu zerschmettern. Zum Glück konnten die Bootsleute
 rechtzeitig ausweichen. Da schleuderten die Freibeuter Teile der
-Ladung, Geschütze, Steinkugeln und, was sie zu fassen kriegen konnten,
+Ladung, Geschütze, Steinkugeln und was sie zu fassen kriegen konnten,
 ins Boot hinunter, so daß die meisten Bootsleute verwundet wurden
 und Gott dankten, als sie wieder vom »Bartum« abkamen. Aber
 ehe die Freibeuter sich dessen versahen, war einer der kleinen Bojer

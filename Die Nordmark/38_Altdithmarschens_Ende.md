@@ -144,7 +144,7 @@ Gott helfe und sein heiliges Evangelium!«
 
 Noch einen Augenblick, nachdem der Eid geleistet, weiden sich
 die Fürsten und Herren an dem Anblick, ihre tapferen Gegner vor
-sich knien zu sehen. Die Prediger, die an einer Stelle, zusammenknien,
+sich knien zu sehen. Die Prediger, die an einer Stelle zusammenknien,
 werden ängstlich, und es sagt einer zum andern auf lateinisch:
 
 »Wir Elenden! Zu welchem Blutbade werden wir aufbehalten!
@@ -237,7 +237,7 @@ fort durch die Stürme des dreißigjährigen Krieges wie die des
 nordischen, während die Könige von Dänemark es gemeinschaftlich
 mit ihren Todfeinden, den Herzogen von Holstein-Gottorp regierten,
 und auch noch, als diese, die Nachkommen Herzog Adolfs, die Throne
-von Schweden- und Rußland bestiegen und ihr Heimatland aufgegeben
+von Schweden und Rußland bestiegen und ihr Heimatland aufgegeben
 hatten, um in den fremden Reichen getötet oder wahnsinnig
 zu werden, oft auch beides zusammen. Ja, Altdithmarschen lebte
 fort, oder es träumte doch fort, und hin und wieder ward es wohl
@@ -290,5 +290,6 @@ wenn auch nicht für jedermann erkennbar, noch einmal auflebt.
 In unseren Tagen, unter dem Hauche des Geistes der neuen
 Zeit scheint Altdithmarschen dann wirklich gestorben zu sein.
 
-<div class="source">Aus: Adolf Bartels, Die Dithmarscher. (Kiel, Lipsius &amp; Tischer.)</div>
+<div class="source pre">Aus: Adolf Bartels, Die Dithmarscher.
+(Kiel, Lipsius &amp; Tischer.)</div>
 

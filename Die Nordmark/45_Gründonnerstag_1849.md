@@ -77,7 +77,7 @@ die Südbatterie mit neuer Munition zu versehen, die Mannschaften
 zu erfrischen und zu stärken.
 
 Da die Parlamentärflagge noch auf den feindlichen Schiffen
-wehte, machten Dr. Lorentzen und ich uns ungefähr um 4œ Uhr
+wehte, machten Dr. Lorentzen und ich uns ungefähr um 4½ Uhr
 auf den Weg, um die wackere Mannschaft der Südbatterie zu begrüßen.
 Wir wußten nicht, daß bereits die Anzeige an Bord gesandt
 worden war, die Feindseligkeiten würden von schleswig-holsteinischer
@@ -221,6 +221,6 @@ geahnt hatte, erregte unser näherer Bericht begreiflicherweise
 große Freude. Statt laut zu jubeln, erkannte aber jedermann dankbar
 an, daß eine höhere Hand den Übermut des Feindes gedemütigt habe. 
 
-<div class="source">Aus: Rudolf Schleiden. Erinnerungen eines Schleswig-Holsteiners.
-Wiesbaden, I. F. Bergmann.)</div>
+<div class="source pre">Aus: Rudolf Schleiden. Erinnerungen eines Schleswig-Holsteiners.
+(Wiesbaden, I. F. Bergmann.)</div>
 

@@ -291,7 +291,7 @@ der Freischärler auf, die jeden Weg besetzt hatten, und mit donnerndem
 Hurra vordrangen.
 
 Rasselnd und dröhnend stürzten die Dragoner in ungeordnetem,
-wirrem Hausen ins Dorf zurück, immer enger von den Freischärlern
+wirrem Haufen ins Dorf zurück, immer enger von den Freischärlern
 umschlossen. Auf dem »Klint«, einem freien Platz in der Mitte des
 Dorfes vorm Kruge, wurden sie einen Augenblick später zusammengetrieben
 und von allen Seiten umzingelt. »Ergebt euch, ihr seid

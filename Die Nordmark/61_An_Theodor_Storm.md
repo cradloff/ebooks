@@ -9,7 +9,7 @@ um deines Marmorsarges weiße Wände
 und senke meine Stirn dem kalten Stein:
 Du warst ein Dichter, den ich sehr geliebt,
 und den ich lieben werde bis ans Grab.
-Du warst ein Dichter -- denn was du erlebt,
+Du warst ein Dichter &mdash; denn was du erlebt,
 vielleicht von einem Tropfen nur Erinnern,
 trieb eine Knospe; welche Blume dann
 aus ihr erwuchs, das gab dir Phantasie.
@@ -50,6 +50,6 @@ um deines Marmorsarges weiße Wände
 und senke meine Stirn dem großen Dichter,
 den ich so sehr, so sehr geliebt.</pre>
 
-<div class="source">Aus: Detlev v. Liliencron, Sämtliche Werke.
+<div class="source pre">Aus: Detlev v. Liliencron, Sämtliche Werke.
 (Berlin, Schuster &amp; Loeffler.)</div>
 

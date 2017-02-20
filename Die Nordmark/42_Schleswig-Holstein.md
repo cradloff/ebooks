@@ -8,21 +8,21 @@ deutscher Sitte hohe Wacht,
 wahre treu, was schwer errungen,
 bis ein schön'rer Morgen tagt!
 Schleswig-Holstein, stammverwandt,
-wanke nicht, mein Vaterland!
+wanke nicht, mein Vaterland!</pre>
 
-Ob auch wild die Brandung tose,
+<pre>Ob auch wild die Brandung tose,
 Flut auf Flut, von Bai zu Bai,
 o, laß blüh'n in deinem Schoße
 deutsche Tugend, deutsche Treu'!
 Schleswig-Holstein, stammverwandt,
-bleibe treu, mein Vaterland!
+bleibe treu, mein Vaterland!</pre>
 
-Doch wenn inn're Stürme wüten,
+<pre>Doch wenn inn're Stürme wüten,
 drohend sich der Nord erhebt,
 schütze Gott die holden Blüten,
 die ein mild'rer Süd belebt.
 Schleswig-Holstein, stammverwandt,
-stehe fest, mein Vaterland!</pre> 
+stehe fest, mein Vaterland!</pre>
 
 \<@pagebreak 187/>
 <div class="img pre"><img alt="Ansicht von Eckernförde von einem Hügel aus" src="0195.jpg"/>
@@ -34,27 +34,26 @@ wenn sie gläubig ihm vertrau'n;
 zage nimmer, und dein Nachen
 wird trotz Sturm den Hafen schau'n!
 Schleswig-Holstein, stammverwandt,
-harre aus, mein Vaterland!
+harre aus, mein Vaterland!</pre>
 
-Von der Woge, die sich bäumet
+<pre>Von der Woge, die sich bäumet
 längs dem Belt, am Ostseestrand,
 bis zur Flut, die ruhlos schäumet
 an der Düne flücht'gem Sand:
 Schleswig-Holstein, stammverwandt,
-stehe fest, mein Vaterland!
+stehe fest, mein Vaterland!</pre>
 
-Und wo an des Landes Marken
+<pre>Und wo an des Landes Marken
 silbern blinkt die Königsau,
 und wo rauschend stolze Barken
 elbwärts zieh'n zum Holstengau:
 Schleswig-Holstein, stammverwandt,
-bleibe treu, mein Vaterland!
+bleibe treu, mein Vaterland!</pre>
 
-Teures Land, du Doppeleiche
+<pre>Teures Land, du Doppeleiche
 unter <span class="g">einer Krone</span> Dach,
 stehe fest und nimmer weiche,
 wie der Feind auch dräuen mag!
 Schleswig-Holstein, stammverwandt,
-wanke nicht, mein Vaterland!
-</pre>
+wanke nicht, mein Vaterland!</pre>
 

@@ -8,58 +8,58 @@ tief unten im Moor
 unter den ragenden Buchen,
 da lieg' ich und warte in heißer Qual,
 bis die Mitternacht mit dem zwölften Schlag
-den ehernen Sargdeckel sprengt.
+den ehernen Sargdeckel sprengt.</pre>
 
-Im Moos hör' ich
+<pre>Im Moos hör' ich
 meine Hunde scharr'n
 Und höre stampfen mein Roß,
 ich höre des Jagdhorns verschwebenden Klang
 und höre der Nachtigall süßen Gesang
-in lauen Frühjahrsnächten.
+in lauen Frühjahrsnächten.</pre>
 
-Von fern auch hör' ich die Glocken.
+<pre>Von fern auch hör' ich die Glocken.
 
 Ihr sollt die Glocken
 nicht läuten im Dom,
 wollt ihr Ruhe für eure Seelen!
 <@pagebreak 106/>Wenn ihr mir im Grab
 keine Ruhe gönnt,
-komm' ich herauf, euch zu quälen.
+komm' ich herauf, euch zu quälen.</pre>
 
-Ich führe die Jagd im Schleswiger Forst,
+<pre>Ich führe die Jagd im Schleswiger Forst,
 doch jag' ich nicht Hirsche noch Rehe.
 Ich jage nicht, weil ich jagen mag,
 in Unruh' jag' ich dem Frieden nach,
 ich jage bis zum jüngsten Tag,
-bis Trauben trägt die Schlehe.
+bis Trauben trägt die Schlehe.</pre>
 
-Steh still, mein Rappe, weit bist du getrabt
+<pre>Steh still, mein Rappe, weit bist du getrabt
 vom Milderdamm in der Friesenmark;
 jetzt gilt es den Flug in die Wolken!
-Meine Hunde nur jagen auf Erden.
+Meine Hunde nur jagen auf Erden.</pre>
 
-Jo, ha hoh! Ha hoh! jo!
+<pre>Jo, ha hoh! Ha hoh! jo!
 Noch kann ich reiten und jagen.
 In der Mitternacht, zwischen zwölf und eins,
-soll mir kein Chorherr schlafen!
+soll mir kein Chorherr schlafen!</pre>
 
-Ich hab' es Macht, ich wecke sie;
+<pre>Ich hab' es Macht, ich wecke sie;
 aus den Gräbern steigen sie auf ...
 Kläffend und belfernd umgibt sie im Nu
-meine Meute in windschnellem Lauf.
+meine Meute in windschnellem Lauf.</pre>
 
-Jo, ha hoh! rüd' do!
+<pre>Jo, ha hoh! rüd' do!
 Das Wild ist umkreist
-und der Keiler gestellt --
+und der Keiler gestellt &mdash;
 jetzt drauf, meine Hunde,
-und tot verbellt!
+und tot verbellt!</pre>
 
-Doch den Einen sollt ihr nicht wecken,
+<pre>Doch den Einen sollt ihr nicht wecken,
 den erschlagenen, kettenbeladenen Mann,	
 den die Woge der Schlei nicht verbergen kann,
-der ein Grab in der Kirche gefunden.
+der ein Grab in der Kirche gefunden.</pre>
 
-Und kündet den Morgen der erste Schlag,
+<pre>Und kündet den Morgen der erste Schlag,
 beginnt ein neuer, qualvoller Tag.
 Ich reite heim in mein Moor
 und liege dort wartend wie zuvor

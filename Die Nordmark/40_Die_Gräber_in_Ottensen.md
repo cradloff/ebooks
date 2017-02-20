@@ -319,7 +319,7 @@ den Siegessang von Hermanns Schlacht.
 Es sang der Freundschaft Glück, der Liebe Götterwonnen,
 der Andacht heil'gen Psalm, den Auferstehungstag!
 So flog sein Adler auf zum Lichtquell ew'ger Sonnen,
-und Freiheit war sein Flügelschlag! --«</pre>
+und Freiheit war sein Flügelschlag! &ndash;«</pre>
 
 Rückert erkennt in Klopstock den hehren Freiheitssänger, und
 selbst auf dem Grabe des Dichters vernimmt er den Freiheitsodem:
@@ -342,7 +342,7 @@ wurde 1758 für Meta gepflanzt.
 
 Die Inschrift auf Klopstocks Grabstein lautet:
 
-<pre class="center">Saat von Gott gesäet, dem Tage der Garben zu reifen.
+<p class="pre center">Saat von Gott gesäet, dem Tage der Garben zu reifen.
 Bei seiner Meta und bei seinem Kinde ruhet
 Friedrich Gottlieb Klopstock.
 Er ward geboren den 2. Juli 1724.
@@ -361,13 +361,13 @@ Seine zweite liebende und geliebte Gattin
 Johanna Elisabeth
 setzte diesen Stein, anbetend den,
 der für uns lebte, starb, begraben
-und auferstanden ist.</pre>
+und auferstanden ist.</p>
  
 \<@pagebreak/>
 Der Verfasser dieser Grabschrift soll Stolberg sein. Die Inschrift
 auf Metas Stein, die Klopstock verfaßte, lautet:
 
-<pre class="center">Saat von Gott gesäet, dem Tage der Garben zu reifen.
+<p class="pre center">Saat von Gott gesäet, dem Tage der Garben zu reifen.
 Margareta Klopstock
 erwartet da, wo der Tod nicht ist,
 ihren Freund, ihren Geliebten, ihren Mann,
@@ -382,7 +382,7 @@ und auferstanden ist.
 Sie ward geboren den 16. März 1728,
 verheiratet den 10. Juni 1754
 und starb den 28. November 1758.
-Ihr Sohn schlummert in ihrem Arme.</pre>
+Ihr Sohn schlummert in ihrem Arme.</p>
 
 <div class="source">Aus: Heinrich Zeise. Aus dem Leben und den Erinnerungen
 eines norddeutschen Poeten.</div>

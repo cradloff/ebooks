@@ -41,7 +41,7 @@ Wilhelm Wilhelmsen.
 
 Ein Murmeln ging plötzlich von Truppe zu Truppe.
 
-»De General kummt, de General kummtl«
+»De General kummt, de General kummt!«
 
 Richtig, ein kleiner Trupp Stabsoffiziere sprengte auf die Anhöhe
 drüben.
@@ -254,7 +254,7 @@ noch und die dänischen Schanzen mit ihren Geschützschlünden und
 Bajonetten, dahinter Missunde mit seinen niedrigen, strohbedeckten
 Katen, die Schlei mit ihren Windungen, ihrem jenseitigen, bastionartigen,
 hohen Ufer, dem roten Ziegeldach des Missunder Fährhauses,
-liegt vor den Blicken der Artilleristen. Auf der »Schulmeisterkoppel««
+liegt vor den Blicken der Artilleristen. Auf der »Schulmeisterkoppel«
 rechts vom Wege wird aufgefahren und abgeprotzt,
 links vom Wege fahren wenige Minuten später zwei Batterien mehr
 auf, und jetzt beginnt eine furchtbare Kanonade über die Köpfe der
@@ -277,7 +277,7 @@ ist ein Donnern und Dröhnen, ein Heulen und Zischen!
 Plötzlich saust eine Kugel gerade neben Klaus Lassens Geschütz
 nieder. Der Unteroffizier schreit: »Deckt euch!« und alle werfen sich
 platt auf die Erde. Die Granate hüpft ein paarmal vom Erdboden
-in die Höhe, schlägt aus eins der Kanonenräder, das krachend
+in die Höhe, schlägt auf eins der Kanonenräder, das krachend
 zersplittert, und fliegt dann in hohem Bogen über Geschütz und
 Mannschaft hinweg auf den Sattel eines der Stangenpferde, die
 Wilhelm Wilhelmsen im Zügel gefaßt hält. Einen Augenblick bleibt
@@ -377,7 +377,7 @@ uns werrer torügg blasen!«
 »Och, du leewe Gott, werrer all'ns umsuns,« sagt Klaus Lassen
 und weint wie ein Kind. -- Eine ähnliche Wut ergreift ihn gegen
 den General wie heute nachmittag bei seiner Verwundung gegen
-die Dänen. Die Tür öffnet sich und mehrere Arzte und Krankenträger
+die Dänen. Die Tür öffnet sich und mehrere Ärzte und Krankenträger
 treten herein; die Verwundeten sollen weiter transportiert
 werden. Ein herzzerreißendes Gejammer erhebt sich bei einigen
 der Schwerverwundeten, die das Anfassen nicht ertragen können;
@@ -419,7 +419,7 @@ Doch was wurde weiter aus Klaus Lassen?
 
 Im Lazarett zu Neumünster ist er nach einigen Wochen genesen,
 und hat dann bis zu Ende wieder tapfer mit gefochten.
-Noch heute lebt er in seinem Heimatdorfs, und ich sitze oft in
+Noch heute lebt er in seinem Heimatdorfe, und ich sitze oft in
 seinem gemütlichen Abnahmehäuschen am Ausgange des Dorfes
 neben ihm und schaue auf die sandigen Missunder Felder hinaus,
 während er von jenem längst vergangenen Herbsttage erzählt, da der
