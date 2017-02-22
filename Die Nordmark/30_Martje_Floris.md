@@ -188,7 +188,8 @@ trennt man sich hierzulande nach keinem fröhlichen Beisammensein,
 ohne zuvor Martje Floris' Gesundheit getrunken zu haben: »It
 gah uns wol up unse olen Dage!«
 
-<div class="source">Aus: Thusnelda Kühl, Das Haus im Grunde. (Jena, Herm. Costenoble.)</div>
+<div class="source pre">Aus: Thusnelda Kühl, Das Haus im Grunde.
+(Jena, Herm. Costenoble.)</div>
 
 <hr/>
 

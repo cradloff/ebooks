@@ -205,5 +205,6 @@ Händen, als er selbst niederkniete.
 Aber ehe des Henkers Schwert seinen Nacken traf, rief er dem
 Amtmann zu: »Es war Engel, deine Tochter!«
 
-<div class="source">Aus: Eilhard Erich Pauls, Vom Leid. Novellen. (Hamburg, E. Schloeßmann.)</div>
+<div class="source pre">Aus: Eilhard Erich Pauls, Vom Leid. Novellen.
+(Hamburg, E. Schloeßmann.)</div>
 

@@ -142,6 +142,6 @@ einige ihresgleichen Sonntags abends bei sich zu haben, dabei sich
 denn ungeladen, aber bald erforscht habend, wo es wäre, Knaben
 auch einfanden. --
 
-<div class="source">Aus: Klaus Harms, Lebensbeschreibung.
+<div class="source pre">Aus: Klaus Harms, Lebensbeschreibung.
 »Bibliothek theologischer Klassiker«. Bd. 7. (Gotha, F. A. Perthes.)</div>
 

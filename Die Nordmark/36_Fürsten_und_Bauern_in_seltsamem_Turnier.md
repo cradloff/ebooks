@@ -334,5 +334,6 @@ un wollen dar all um starven,
 eher dat de König van Dänemark
 so scholde unser schöne Land verdarben.
 
-<div class="source">Aus: Peter Petersen, Telse Kampen. (Stuttgart, I. F. Steinkopf.)</div>
+<div class="source pre">Aus: Peter Petersen, Telse Kampen.
+(Stuttgart, I. F. Steinkopf.)</div>
 

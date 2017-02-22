@@ -220,7 +220,7 @@ Konkurrenten, deren Epigonencharakter deutlich erkennbar war, mußte
 der »Wahre« schließlich das Feld räumen. Seit reichlich einem
 Jahrzehnt deckt auch ihn das Grab.
 
-<div class="source">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
+<div class="source pre">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
 (Schleswig, Johs. Ibbeken.)</div>
 
 <hr/>

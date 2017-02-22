@@ -416,7 +416,7 @@ und unsere Existenz. Seitdem sind dreiunddreißig Jahre verflossen,
 mein Vergehen, wenn es so genannt werden kann, ist verjährt, ich
 kann jetzt darüber sprechen. 
 
-<div class="source">Aus: Asta Heiberg, Erinnerungen aus meinem Leben.
+<div class="source pre">Aus: Asta Heiberg, Erinnerungen aus meinem Leben.
 (Berlin, Carl Heymann.)</div>
 
 <hr/>

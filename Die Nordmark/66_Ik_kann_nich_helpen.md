@@ -75,5 +75,6 @@ sitzt still vor der Tür, starrt blöd auf die See
 und murmelt jenseits von Lust und Weh:
 »Ik kann nich helpen.«</pre>
 
-<div class="source">Aus: Jacob Loewenberg, Neue Gedichte. (Hamburg, M. Glogau jr.)</div>
+<div class="source pre">Aus: Jacob Loewenberg, Neue Gedichte.
+(Hamburg, M. Glogau jr.)</div>
 

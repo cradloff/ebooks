@@ -67,6 +67,7 @@ pre {
 .source {
 	text-align: center;
 	font-size: x-small;
+	page-break-inside: avoid;
 }
 
 /* zentriert */

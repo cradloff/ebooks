@@ -571,7 +571,8 @@ un stopp alle Löcker un deck all de Palten to von dat ol Hus an't
 Olndieksholt, damit dat doch ok en schönes reines Kleed harr för den
 Fierdag.
 
-<div class="source">Aus: J. H. Fehrs, Allerhand Slag Lüd. (Garding, H. Lühr &amp; Dircks.</div>
+<div class="source pre">Aus: J. H. Fehrs, Allerhand Slag Lüd.
+(Garding, H. Lühr &amp; Dircks.</div>
 
 <hr/>
 

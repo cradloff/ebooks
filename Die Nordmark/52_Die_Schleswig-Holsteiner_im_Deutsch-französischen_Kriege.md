@@ -134,7 +134,7 @@ Höhen westlich von Spichern und warfen vierzehn französische Wagen,
 die da standen, in die Wachtfeuer. Sie waren alle still und bedrückt,
 wenn auch viele laut lachten und viel sprachen. Der Feldwebel
 knurrte die ganze Nacht, daß die schönen Wagen verbrannt würden,
-und ließ gegen Morgen die Eisenteile auf den Feuerstätten Zusammentragen
+und ließ gegen Morgen die Eisenteile auf den Feuerstätten zusammentragen
 und freute sich, daß er sieben Franken für die Batteriekasse
 gewann.
 
@@ -314,7 +314,7 @@ nimmt es ein Ende?« Sie denken nicht daran, daß der überstarke
 Feind, der im weiten Halbbogen auf sie dringt, in jedem Augenblick
 den Ansturm wagen kann.
 
-Da kommt Nummer fünf von der Protze gelaufen-: »Keine Granaten
+Da kommt Nummer fünf von der Protze gelaufen: »Keine Granaten
 mehr!« Nun ist die Not da, die bittere Not. Sie stehen
 wie versteinert am Geschütz, Lohmann mit erhobenem Wischer; Jörn
 Uhl, die eine Hand am Verschluß, die andere im Grimm geballt,
@@ -385,7 +385,7 @@ der Kreuzleine. Lohmann, aufrecht neben ihm stehend, haut mit
 der Karbatsche auf die elenden, verwundeten Tiere. Jörn Uhl trabt
 neben dem Geschütz her und hält den Leutnant, der auf dem Achssitze
 mit krummem Rücken hin und her schwankt. Zwei Feuergarben
-teilen den Rauch,- sie fegen schräg vor ihnen übers Feld. »Die
+teilen den Rauch; sie fegen schräg vor ihnen übers Feld. »Die
 dritte ist für uns.« Nein. ... Es ist kein Eisen für sie geworfen;
 es ist kein Feuer für sie aufgesprungen. Sie kommen lebend bis
 in den Schutz des Waldes.
@@ -481,7 +481,8 @@ Holz übersät war. -- Aber der Feind kam nicht. Der Feind war
 kein Tiger mehr in brüllendem Ansprung. Er war ein gebundener
 Stier, der stöhnend mit den Hörnern in der Erde wühlt.
 
-<div class="source">Aus: Gustav Frenssen, Jörn Uhl. (Berlin. Grotesche Verlagsbuchhdlg.)</div>
+<div class="source pre">Aus: Gustav Frenssen, Jörn Uhl.
+(Berlin. Grotesche Verlagsbuchhdlg.)</div>
 
 <div class="img"><img alt="Siegel" src="0268.gif"/></div>
 

@@ -165,6 +165,6 @@ im Herzogthum Schleswig eine Königliche Brüche von
 >Gegeben in dem Königlichen Appellationsgericht für das
 Herzogthum Schleswig in Flensburg den 5. Oktober 1852.
 
-<div class="source">Aus: Asta Heiberg. Erinnerungen aus meinem Leben.
+<div class="source pre">Aus: Asta Heiberg. Erinnerungen aus meinem Leben.
 (Berlin. Carl Heymann.)</div>
 

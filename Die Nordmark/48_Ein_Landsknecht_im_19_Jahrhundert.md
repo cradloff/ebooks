@@ -70,7 +70,7 @@ seiner Mitmenschen beobachten. Kein Wunder, daß ihm
 \<@pagebreak/>
 Jung und Alt scheu aus dem Wege ging. Meine knabenhafte
 Phantasie wurde durch diese und ähnliche Erzählungen, die unter
-unfern Knechten und Mägden eifrig kolportiert wurden und alle
+unsern Knechten und Mägden eifrig kolportiert wurden und alle
 graulich machten, natürlich mächtig angeregt.
 
 So mochten mehrere Wochen vergangen sein, als an einem
@@ -180,7 +180,7 @@ Ton, etwa als ob er mich aufforöern wollte, Platz zu nehmen, ich
 möge ihm die lederne Karbatsche, die an der Wand hing, reichen.
 Er wendete sich dann an die Otter und sagte freundlich: »Liebes
 Kind, ich werde es länger aushalten als du.« Und nun begann er,
-mit der. Karbatsche die Otter in einer Weise zu bearbeiten, daß
+mit der Karbatsche die Otter in einer Weise zu bearbeiten, daß
 dieser allmählich Hören und Sehen verging und sie Helgesens Hand
 losließ. Dann schob er sie vom Tisch herunter und ließ sie, als
 ob gar nichts vorgefallen, die Exerzitien wiederholen, die sie vorher
@@ -223,8 +223,8 @@ brummte manche halbunverständlichen aber jedenfalls für den König
 nicht sehr schmeichelhaften Flüche in den Bart. Seine Abneigung
 gegen Dänemark und die Dänen, aus der er nie ein Hehl gemacht
 hatte, wurde durch dieses Intermezzo noch gesteigert. Hatte
-er schon früher für die politischen Bestrebungen der Schleswig-
-Holsteiner lebhafte Sympathien gezeigt, und namentlich der unermüdlichen
+er schon früher für die politischen Bestrebungen der Schleswig-Holsteiner
+lebhafte Sympathien gezeigt, und namentlich der unermüdlichen
 und energischen Tätigkeit meines Vaters bewundernde
 Anerkennung gezollt, so regte sich jetzt in ihm noch ein persönlicher
 Groll gegen den Dänenkönig, dem er Falschheit und Treulosigkeit
@@ -555,7 +555,8 @@ Dort auf dem Soldatenkirchhof ist der alte Landsknecht neben seinen
 norwegischen Waffenbrüdern Rye und Schleppegrell zur ewigen
 Ruhe gebettet. 
 
-<div class="source">Aus. Chr. v.  Tiedemann, Aus sieben Jahrzehnten. I. (Leipzig, S. Hirzel.)</div>
+<div class="source pre">Aus. Chr. v.  Tiedemann, Aus sieben Jahrzehnten. I.
+(Leipzig, S. Hirzel.)</div>
 
 <hr/>
 

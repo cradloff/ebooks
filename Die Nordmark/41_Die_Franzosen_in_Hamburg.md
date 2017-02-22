@@ -597,7 +597,8 @@ Füßen. So rumpelten wir durch das Gäßchen. Die Alten standen
 vor ihrer Tür und wehten und winkten, so lange sie uns sehen
 konnten.	
 
-<div class="source">Aus: Therese Devrient, Jugenderinnerungen. (Stuttgart. Carl Krabbe.)</div>
+<div class="source pre">Aus: Therese Devrient, Jugenderinnerungen.
+(Stuttgart. Carl Krabbe.)</div>
 
 <hr/>
 

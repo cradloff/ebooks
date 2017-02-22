@@ -175,15 +175,15 @@ es wohl auch nicht.
 sagte er zu Anton. »Besser ist besser.«
 
 »So?« entgegnete Anton. »Wie fein brannte es neulich; das
-ist nur 'n Kleinigkeit,«
+ist nur 'n Kleinigkeit.«
 
 Hugo war der stille Handlanger wie immer. Er hatte nicht
 über viel Barmittel zu verfügen und hatte keinen Vater, dem man
 Flaschenbier ausführen, und keine Mutter, der man Wurzeln und
-Apfel unter Einkaufspreis abluchsen konnte. Er hing von der
+Äpfel unter Einkaufspreis abluchsen konnte. Er hing von der
 Großmut der anderen ab und konnte sich nur mit einer Stange
 Lakritzen und einem Stück Schokolade im Gesamtwert von zehn
-Pfennigen, die er seiner Mutter mühsam abgebeftelt hatte, am »Freßdepot«
+Pfennigen, die er seiner Mutter mühsam abgebettelt hatte, am »Freßdepot«
 beteiligen, das seiner Obhut anvertraut wurde, nachdem man
 es wohl verstaut hatte.
 
@@ -197,7 +197,7 @@ bekam dadurch einen Nachdruck, eine höhere Weihe.
 
 Hugo hätte sich auch gerne in die Hände gespuckt, aber er hatte
 ja nichts anzufassen. So begnügte er sich damit, sich die trockenen
-Hände kräftig zu reiben, ließ aber die Mütze sitzen, töie sie saß.
+Hände kräftig zu reiben, ließ aber die Mütze sitzen, wie sie saß.
 Verwegenheit lag so wenig in seiner Natur, daß die besten Beispiele
 hier nichts ausrichteten.
 
@@ -258,7 +258,7 @@ Abendhimmel. Dem Lärm vom Strom her, den Dampfpfeifen, dem
 Rufen, dem Kreischen einer Ankerwinde, einte sich die vom Köhlbrand
 unablässig herüberklingende an- und abschwellende Musik
 der Arbeit: das hämmernde, kreischende Geräusch von den Werften
-her, wo riesige Schisfsgerippe unter der Wucht der Schläge erzitterten,
+her, wo riesige Schiffsgerippe unter der Wucht der Schläge erzitterten,
 die sie fertigen und festen sollten für die Stürme, die da 
 \<@pagebreak/>
 draußen im Ozean auf sie lauerten, und für die Wogen, die mit
@@ -294,7 +294,7 @@ Strombildes und fühlte sich wohlig beim Kauen des Zwiebackes
 und unter der leise einschläfernden Wirkung des Bieres.
 
 Als Anton von den Kohlenschiffen zurückkam, war Fritz faul
-geworden und wollte überhaupt nicht ausstehen.
+geworden und wollte überhaupt nicht aufstehen.
 
 »Dein dummes Rumrennen,« sagte er gähnend. »Jetzt machen
 wir Feuer. Und dann kommt die Erbswurst dran.«
@@ -309,7 +309,7 @@ köstlich.
 
 \<@pagebreak/>
 »Und nu paßt auf,« sagte Fritz Kleesand und schleuderte die
-leeren Bierflaschen mit gutem Wurf weithin in den Strom. ,Das
+leeren Bierflaschen mit gutem Wurf weithin in den Strom. »Das
 Zeug mag ich nun nicht mehr.« Und dann zog er mit verschmitztem
 Lachen eine andere Flasche aus seiner Brusttasche. Sie war klein
 und flach, und die beiden erkannten sofort, was sie enthielt, schon
@@ -320,7 +320,7 @@ Auge durch die braune Flüssigkeit blinzelte.
 die Flasche wieder in die Tasche.
 
 »Donnerwetter! Kognak?« rief Anton überrascht. Hugo aber
-war.entsetzt.
+war entsetzt.
 
 »Mensch, was 'n Unsinn!« rief er.
 
@@ -479,7 +479,7 @@ Flasche aus der Hand zu schlagen.
 »Ich gehe nach Haus,« sagte Anton mürrisch. »Das gefällt
 mir nicht mehr.«
 
-»Meinst du mir?« lachte Fritz Kleesand. Ich werd' hier auch
+»Meinst du mir?« lachte Fritz Kleesand. »Ich werd' hier auch
 nicht übernachten.«
 
 So gingen sie ans Boot und banden es los. Keiner sprach ein

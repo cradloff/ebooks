@@ -391,5 +391,6 @@ Gefallen, und wenn ich etwas von einer guten Milchkuh höre --«
 »Versteht sich, versteht sich, lieber Gröhn! Adjüs, und grüßen
 Sie zu Hause.«
 
-<div class="source">Aus: K. v. d, Eider, Meerumschlungen. (Berlin, F. Fontane &amp; Co.)</div>
+<div class="source pre">Aus: K. v. d, Eider, Meerumschlungen.
+(Berlin, F. Fontane &amp; Co.)</div>
 

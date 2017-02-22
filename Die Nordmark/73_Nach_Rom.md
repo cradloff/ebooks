@@ -312,6 +312,6 @@ weil es im Hause unbeaufsichtigt geblieben wäre, und
 hatte die im Wege gefundene Binsenmütze des toten Knaben auf
 sein Flachsköpfchen gesetzt.
 
-<div class="source">Aus: Iven Kruse, Schwarzbrotesser. Holsteinische Geschichten und Gestalten.
+<div class="source pre">Aus: Iven Kruse, Schwarzbrotesser. Holsteinische Geschichten und Gestalten.
 (Berlin, Franz Wunder).</div>
 

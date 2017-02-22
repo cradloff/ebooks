@@ -13,7 +13,8 @@ aufatmend jede Brust sich weitet.
 Es ist, als kläng' ein Friedenswort,
 und Lärm und Unrast fliehen fort.</pre>
 
-\<@pagebreak/><pre>Da kommt's aus Tür und Tor gesprungen,
+\<@pagebreak/>
+<pre>Da kommt's aus Tür und Tor gesprungen,
 und ordnet sich in langer Reih,
 ein Zug von Mädchen und von Jungen,
 ein Käsehoch ist auch dabei.

@@ -130,6 +130,6 @@ Geheges nahe bei Gottorp an einer einst dem Gotte Wodan geheiligten
 Stätte begraben werden und ihn dann, als Vertreter des
 »watenden« Sturmgottes, als wilden Jäger, die Lüfte durchstürmen.
 
-<div class="source">Aus: Aug. Sach, Schleswig-Holstein in geschichtlichen und geographischen Bildern. 
+<div class="source pre">Aus: Aug. Sach, Schleswig-Holstein in geschichtlichen und geographischen Bildern. 
 Halle a. S., Buchhandlung des Waisenhauses.</div>
 

@@ -89,5 +89,6 @@ entwickelt hat, spürt man im geselligen Verkehr und
 in dem abgeschlossenen Wesen des einzelnen, das von Fremden als
 Unzugänglichkeit empfunden wird.
 
-<div class="source">Aus: Alfred Lichtwark, Hamburg. Niedersachsen. (Berlin, Br. Cassirer.)</div>
+<div class="source pre">Aus: Alfred Lichtwark, Hamburg. Niedersachsen.
+(Berlin, Br. Cassirer.)</div>
 

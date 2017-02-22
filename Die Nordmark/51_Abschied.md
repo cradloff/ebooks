@@ -53,5 +53,6 @@ mit deiner Kinderseele nicht verstehn,
 so soll es wie ein Schauer dich berühren
 und wie ein Pulsschlag in dein Leben gehn.</pre>
 
-<div class="source">Aus: Theodor Storms sämtl. Werken. (Braunschweig, G. Westermann.)</div>
+<div class="source pre">Aus: Theodor Storms sämtl. Werken.
+(Braunschweig, G. Westermann.)</div>
 

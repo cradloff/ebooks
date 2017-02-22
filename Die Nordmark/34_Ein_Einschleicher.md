@@ -253,5 +253,6 @@ Und kleiner und kleiner wird die schattenhafte Gestalt.
 
 Und leise -- fern -- verrauscht der Ährenschnitt. --
 
-<div class="source">Aus: Otto Ernst, Kartäusergeschichten. (Leipzig, L. Staackmann.)</div>
+<div class="source pre">Aus: Otto Ernst, Kartäusergeschichten.
+(Leipzig, L. Staackmann.)</div>
 

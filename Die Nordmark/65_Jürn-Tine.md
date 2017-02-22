@@ -301,5 +301,6 @@ plötzlich aber lachte Jürn übers ganze Gesicht, riß die Tür auf und
 rief Ann-Dortjen den Spruch nach, den Tine ihm am Morgen vergebens
 eingepaukt hatte: »Fröhliche Fest un Gott's dusend Segen!«
 
-<div class="source">Aus: I. Andresen, Hinter Deich und Dünen. (Leipzig, Fr. Wilh. Grunow)</div>
+<div class="source pre">Aus: I. Andresen, Hinter Deich und Dünen.
+(Leipzig, Fr. Wilh. Grunow)</div>
 

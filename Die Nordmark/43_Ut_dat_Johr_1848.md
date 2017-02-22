@@ -170,6 +170,6 @@ befaten dehn, wat nu enmal doch nich ehr Amt wer, un ick denk,
 mennig en mut hüt noch lachen, wenn he torüg denkt, wat he domals
 vörn Figur speelt hett.
 
-<div class="source">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
+<div class="source pre">Aus: C. N. Schnittgers Erinnerungen eines alten Schleswigers.
 (Schleswig, Johs. Ibbeten.)</div>
 

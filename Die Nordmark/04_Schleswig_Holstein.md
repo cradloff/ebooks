@@ -304,6 +304,5 @@ das sich dort in Menge und von seltener Größe findet. Die
 Insel Barsö bildet <span class="g">ein</span> Kirchspiel, und die kleine Insel Aarö enthält
 4 Dörfer.
 
-<div class="source">Aus der ersten vaterländischen Landesbeschreibung von Heinrich Rantzau
-auf Breitenburg.</div>
+<div class="source">Aus der ersten vaterländischen Landesbeschreibung von Heinrich Rantzau auf Breitenburg.</div>
 

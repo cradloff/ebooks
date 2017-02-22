@@ -358,5 +358,6 @@ gebracht hätte -- man konnte durchaus nur sagen: ich bitte Vater,
 dies oder das zu tun -- so wenig konnte ich einen doppelt so alten
 Mann anders als mit Namen anreden: Wie geht es, Carsten?
 
-<div class="source">Aus: Friedrich Paulsen, Aus meinem Leben. (Jena, Eugen Diederichs.)</div>
+<div class="source pre">Aus: Friedrich Paulsen, Aus meinem Leben.
+(Jena, Eugen Diederichs.)</div>
 
