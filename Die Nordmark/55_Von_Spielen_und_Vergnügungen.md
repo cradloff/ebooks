@@ -49,7 +49,7 @@ Das Ringen: Es war wie ein tagtäglich Vorkommendes, daß
 ein Paar, oder zwei, drei Paare, vier, fünf bis sechs Paare miteinander
 rangen, sich faßten, in dortiger Sprache, oder plattdeutsch:
 »sick faten«, unbedingend oder bedingend das Schränkeln und Kniebeugen:
-schränkeln, hochdeutsch: ein Bein stellen,- übers Kniebeugen
+schränkeln, hochdeutsch: ein Bein stellen; übers Kniebeugen
 heißt: des Gegners Schenkel durch eine geschickte Bewegung ans
 Knie bringen und dann schnell ihn seitwärts beugen. Das Schlagen
 -- in der Regel allerdings ihrer zwei, zuweilen aber auch in größerer
@@ -73,7 +73,7 @@ daß wir in unseren Knabenspielen auf unsere Weise die »sieben
 freien Künste« übten, diese nämlich: Laufen, Springen, Werfen,
 Ringen, Heben, Tragen, Schlagen. -- Vom Spiel genug: nur noch
 das Löpern und Kühlken, eins wie das andere mit Löpers, Pickers,
-kleinen, aus Ton gebackenen und glasurten Kugeln,- jenes, da man
+kleinen, aus Ton gebackenen und glasurten Kugeln; jenes, da man
 einen Löper aus der Hand rollen ließ nach anderen, die in gewisser
 Entfernung voneinander, doch in Reihe aufgestellt waren; dieses,
 da man eine größere Zahl, zusammengebracht durch gleiche Einsetzung
@@ -86,7 +86,7 @@ sich, und wurde die gefunden, hatt' er gewonnen. So übten die
 Knaben sich gleichfalls im Eisboßeln; davon nachher. Katerlücken,
 ein Spiel mit fünf kleinen Steinen. Kaakhor, ein Werfen nach
 aufgestapelten Steinen. Im Reep: Ein Reif, mehrere Faden lang,
-an den Enden zusammengebundsn, von vielen Händen angefaßt zu
+an den Enden zusammengebunden, von vielen Händen angefaßt zu
 einem Ringe, innerhalb dessen Einer steht, der die Hand eines
 der Anfassenden berühren muß. -- Ballspiel und auf Stelzen gehen
 zu der Zeit daselbst nicht bekannt.

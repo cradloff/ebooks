@@ -39,7 +39,8 @@ die Wolken sind zu kraus,
 drum muß der Gottessegen
 mir noch vor Nacht ins Haus!«</pre>
  
-\<@pagebreak 294/><pre>Er spricht's im barschen Tone
+\<@pagebreak 294/>
+<pre>Er spricht's im barschen Tone
 und fügt kein Wort hinzu
 von doppelt großem Lohne
 und langer Sonntagsruh;
@@ -82,7 +83,7 @@ vom hohlen Seegestad'!
 Hinan zum Deiche trabend,
 denkt jetzt der Alte still:
 Die haben Feierabend,
-ich &ndash; nun, wie Gott es will.</pre>
+ich &mdash; nun, wie Gott es will.</pre>
 
 <pre>Jetzt muß das Wetter brechen!
 gleichviel, wir sind gedeckt;
@@ -120,7 +121,8 @@ wenn ihr die Räder packt
 und ich vor allen Dingen
 die Deichsel, bis sie knackt.«</pre>
 
-\<@pagebreak/><pre>Die Knechte aber denken:
+\<@pagebreak/>
+<pre>Die Knechte aber denken:
 Ein Tor ist, wer so spricht;
 auch darf man's ihm nicht schenken,
 er kennt die Grenze nicht!
@@ -139,7 +141,7 @@ und grinsen, mehr als flämisch,
 bei seinem: »Aufgepaßt!«</pre>
 
 <pre>Und doch! Es ist gelungen
-auf einen einz'gen Ruck! &ndash;
+auf einen einz'gen Ruck! &mdash;
 »Habt Dank, ihr braven Jungen!
 Nun gibt's auch einen Schluck!
 Ich geb' euch eine Tonne
