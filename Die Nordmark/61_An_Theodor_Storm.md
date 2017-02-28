@@ -1,10 +1,12 @@
+<div style="visibility: hidden;">
 <#include "pagebreak.ftl">
-\<@pagebreak 317/>
+<@pagebreak 317/>
+</div>
 <h2>An Theodor Storm.</h2>
 
 <h3>Von Detlev v. Liliencron.</h3>
 
-<pre>Viel dunkelrote Rosen schütt' ich dir
+Viel dunkelrote Rosen schütt' ich dir
 um deines Marmorsarges weiße Wände
 und senke meine Stirn dem kalten Stein:
 Du warst ein Dichter, den ich sehr geliebt,
@@ -25,30 +27,30 @@ in unsern nüchternen Verstandeszeiten.
 Du warst ein Dichter, und du warst ein Künstler.
 Ein Dichter: wohl aus tausend Quellen rinnt es,
 die unterirdisch laufen, rinnt's ihm zu.
-Noch fand kein Mensch je, was den Dichter schuf.</pre>
+Noch fand kein Mensch je, was den Dichter schuf.
 
-<pre>Wie tief doch sahst du in ein Menschenherz,
+Wie tief doch sahst du in ein Menschenherz,
 und unser Heimatland, das ernste, treue,
 mit ewiger Feuchte, seltnem Sonnenblick,
 du kanntest seine Art. Kein andrer wohl
 nahm so den Erdgeruch aus Wald und Feld
-in seine Schrift wie du.</pre>
+in seine Schrift wie du.
 
-<pre>Schrieb einer je, den siebzig Winter drückten,
+Schrieb einer je, den siebzig Winter drückten,
 ein solches »Hochzeitfest«? War's nicht ein Jüngling,
 der siebzehnjährig heiß die Laute schlug
 vor seiner Liebsten Tür im sanften Mond,
-im Sehnsuchtspuls der Nachtigallenlieder?</pre>
+im Sehnsuchtspuls der Nachtigallenlieder?
 
-\<@pagebreak/><pre>Wohl trifft es sich, daß laut und polternd wirft
+\<@pagebreak/>Wohl trifft es sich, daß laut und polternd wirft
 ein herrlich Dichterherz mit rohem Gold
 und kann es nimmer zwingen zum Gerät;
-ihm fehlt die Künstlerhand, dir wurde sie.</pre>
+ihm fehlt die Künstlerhand, dir wurde sie.
 
-<pre>Viel dunkelrote Rosen schütt' ich dir
+Viel dunkelrote Rosen schütt' ich dir
 um deines Marmorsarges weiße Wände
 und senke meine Stirn dem großen Dichter,
-den ich so sehr, so sehr geliebt.</pre>
+den ich so sehr, so sehr geliebt.
 
 <div class="source pre">Aus: Detlev v. Liliencron, Sämtliche Werke.
 (Berlin, Schuster &amp; Loeffler.)</div>

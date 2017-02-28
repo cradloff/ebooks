@@ -45,7 +45,7 @@ Mooren als Torfstecher, dann jahrelang als Fischerknecht an der
 norwegischen Küste, bloß weil ihm der Kampf mit Wasser und Felsen
 Spaß gemacht. Dann habe er in den schwedischen Wäldern gearbeitet,
 wo aus dem Safte der angebohrten Kiefern irgendwas gemacht wurde,
-was die Maler brauchten. Aberall gab's schwere Arbeit und schlechten
+was die Maler brauchten. Überall gab's schwere Arbeit und schlechten
 Verdienst, und schließlich sei er nach Schleswig zurückgekommen. ...
 
 Guste kümmerte sich nicht um Sönkes Vergangenheit. Er ist
