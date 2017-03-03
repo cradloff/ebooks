@@ -1,5 +1,6 @@
-@import 'book.css';
+@import 'common.css';
 
+/* Formatierung für Gedichte */
 p {
 	white-space: pre-wrap;
 	padding: 0.5em;
