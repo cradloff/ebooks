@@ -1,42 +1,44 @@
+<div class="hidden">
 <#include "pagebreak.ftl">
+</div>
 <h2>Min Modersprak.</h2>
 
 <h3>Von Klaus Groth.</h3>
 
-<pre>Min Modersprak, wa klingst du schön!
+Min Modersprak, wa klingst du schön!
 Wa büst du mi vertrut!
 Weer ok min Hart as Stahl un Steen,
-du drevst den Stolt herut.</pre>
+du drevst den Stolt herut.
 
-<pre>Du bögst min stiwe Nack so licht
+Du bögst min stiwe Nack so licht
 as Moder mit ern Arm,
-du fichelst mi umt Angesicht &ndash;
-un still is alle Larm.</pre>
+du fichelst mi umt Angesicht --
+un still is alle Larm.
 
-<pre>Ik föhl mi as en lüttjet Kind,
+Ik föhl mi as en lüttjet Kind,
 de ganze Welt is weg.
 Du pust mi as en Vœrjahrswind
-de kranke Boss torecht.</pre>
+de kranke Boss torecht.
 
-\<@pagebreak 377/><pre>Min Obbe folt mi noch de Hann'	
+\<@pagebreak 377/>Min Obbe folt mi noch de Hann'	
 un seggt to mi: »Nu bê!«
 Un »Vaderunser« fang ik an,
-as ik wul früher dê.</pre>
+as ik wul früher dê.
 
-<pre>Un föhl so deep: dat ward verstan,
+Un föhl so deep: dat ward verstan,
 so sprickt dat Hart sik ut.
 Un Rau vunn Himmel weiht mi an,
-un allns is wedder gut!</pre>
+un allns is wedder gut!
 
-<pre>Min Modersprak, so slicht un recht,
+Min Modersprak, so slicht un recht,
 du ole frame Red!
 Wenn blot en Mund »min Vader« seggt.
-so klingt mi't as en B&#281;d.</pre>
+so klingt mi't as en B&#281;d.
 
-<pre>So herrli klingt mi keen Musik
+So herrli klingt mi keen Musik
 un singt keen Nachdigal;
 mi lopt je glik in Ogenblick
-de hellen Tran hendal.</pre>
+de hellen Tran hendal.
 
 <div class="source">Aus: Klaus Groth, Quickborn. (Kiel, Lipsius &amp; Tischer.)</div>
 

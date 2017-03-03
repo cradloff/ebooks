@@ -35,5 +35,5 @@
 <!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
 <entry key="toc-entries">h1, h2</entry>
 <!-- Liste von weiteren Dateien -->
-<entry key="additional-media"></entry>
+<entry key="additional-media">lyric.css</entry>
 </properties>

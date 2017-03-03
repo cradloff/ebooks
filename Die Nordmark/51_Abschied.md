@@ -1,57 +1,59 @@
+<div class="hidden">
 <#include "pagebreak.ftl">
+</div>
 <h2>Abschied.</h2>
 
 <h3>Von Theodor Storm.</h3>
 
-<pre>Kein Wort, auch nicht das kleinste, kann ich sagen,
+Kein Wort, auch nicht das kleinste, kann ich sagen,
 wozu das Herz den vollen Schlag verwehrt;
 die Stunde drängt, gerüstet steht der Wagen,
-es ist die Fahrt der Heimat abgekehrt.</pre>
+es ist die Fahrt der Heimat abgekehrt.
 
-<pre><@pagebreak 248/>Geht immerhin &mdash; denn eure Tat ist euer &mdash;
+\<@pagebreak 248/>Geht immerhin -- denn eure Tat ist euer --
 und widerruft, was einst das Herz gebot;
 und kauft, wenn dieser Preis euch nicht zu teuer
-dafür euch in der Heimat euer Brot!</pre>
+dafür euch in der Heimat euer Brot!
 
-<pre>Ich aber kann des Landes nicht, des eignen,
+Ich aber kann des Landes nicht, des eignen,
 in Schmerz verstummte Klagen mißverstehn;
 ich kann die stillen Gräber nicht verleugnen,
-wie tief sie jetzt in Unkraut auch vergehn. &mdash;</pre>
+wie tief sie jetzt in Unkraut auch vergehn. --
 
-<pre>Du, deren zarte Augen mich befragen, &mdash;
+Du, deren zarte Augen mich befragen, --
 der dich mir gab, gesegnet sei der Tag!
 Laß nur dein Herz an meinem Herzen schlagen
-und zage nicht! Es ist derselbe Schlag.</pre>
+und zage nicht! Es ist derselbe Schlag.
 
-<pre>Es strömt die Luft &mdash; die Knaben stehn und lauschen,
+Es strömt die Luft -- die Knaben stehn und lauschen,
 vom Strand herüber dringt ein Möwenschrei;
 das ist die Flut! Das ist des Meeres Rauschen;
-ihr kennt es wohl; wir waren oft dabei.</pre>
+ihr kennt es wohl; wir waren oft dabei.
 
-<pre>Von meinem Arm in dieser letzten Stunde
+Von meinem Arm in dieser letzten Stunde
 blickt einmal noch ins weite Land hinaus,
 und merkt es wohl, es steht auf diesem Grunde,
-wo wir auch weilen, unser Vaterhaus.</pre>
+wo wir auch weilen, unser Vaterhaus.
 
-<pre>Wir scheiden jetzt, bis dieser Zeit Beschwerde
+Wir scheiden jetzt, bis dieser Zeit Beschwerde
 ein andrer Tag, ein besserer, gesühnt;
 denn Raum ist auf der heimatlichen Erde
-für Fremde nur und was den Fremden dient.</pre>
+für Fremde nur und was den Fremden dient.
 
-<pre>Doch ist's das flehendste von den Gebeten:
+Doch ist's das flehendste von den Gebeten:
 ihr mögt dereinst, wenn mir es nicht vergönnt,
 mit festem Fuß auf diese Scholle treten,
-von der sich jetzt mein heißes Auge trennt! &mdash;</pre>
+von der sich jetzt mein heißes Auge trennt! --
 
-<pre>Und du, mein Kind, mein jüngstes, dessen Wiege
+Und du, mein Kind, mein jüngstes, dessen Wiege
 auch noch auf diesem teuren Boden stand,
-hör' mich! &mdash; denn alles andere ist Lüge &mdash;
-kein Mann gedeihet ohne Vaterland!</pre>
+hör' mich! -- denn alles andere ist Lüge --
+kein Mann gedeihet ohne Vaterland!
 
-<pre><@pagebreak/>Kannst du den Sinn, den diese Worte führen,
+\<@pagebreak/>Kannst du den Sinn, den diese Worte führen,
 mit deiner Kinderseele nicht verstehn,
 so soll es wie ein Schauer dich berühren
-und wie ein Pulsschlag in dein Leben gehn.</pre>
+und wie ein Pulsschlag in dein Leben gehn.
 
 <div class="source pre">Aus: Theodor Storms sämtl. Werken.
 (Braunschweig, G. Westermann.)</div>

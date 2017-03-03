@@ -189,11 +189,11 @@ noch gelten, wo der Mensch nichts mehr gilt? Über siebenhundert
 in vierundzwanzig Stunden! Alle in eine »gemeinsame Gruft«!
 
 <pre>»So traurig wohl keine wie diese
-ist unter des Himmels Luft. -- --
+ist unter des Himmels Luft. &ndash; &ndash;
 Ein ungeheurer Knäuel,
 Zehntausend oder mehr.
 Es zieht sich über den Greuel
-ein dünner Rasen her.« --</pre>
+ein dünner Rasen her.« &ndash;</pre>
 
 So klein, so nichtig erscheint der Mensch, wenn der Tod ihn
 spielend zwischen Daumen und Zeigefinger zerreibt. Und so groß,

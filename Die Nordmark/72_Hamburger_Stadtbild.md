@@ -15,7 +15,7 @@ Wildpark bildete den Kern einer großräumigen Stadtanlage, und
 heute erst werden Anstrengungen gemacht, einen allgemeinen Bebauungsplan
 durchzusetzen.
 
-Da ist es. fast ein Wunder, daß die Stadt so schön geblieben ist.
+Da ist es fast ein Wunder, daß die Stadt so schön geblieben ist.
 
 Sie verdankt es dem Naturgefühl des niedersächsischen Stamms,
 der ihn bewohnt. Hamburg erscheint, vom Luftballon aus gesehen,

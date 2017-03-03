@@ -572,7 +572,7 @@ Olndieksholt, damit dat doch ok en schönes reines Kleed harr för den
 Fierdag.
 
 <div class="source pre">Aus: J. H. Fehrs, Allerhand Slag Lüd.
-(Garding, H. Lühr &amp; Dircks.</div>
+(Garding, H. Lühr &amp; Dircks.)</div>
 
 <hr/>
 

@@ -163,7 +163,7 @@ die den Eltern noch lebendig vor der Seele stand und oft in den
 Gesprächen vorkam: in den zwanziger, dreißiger Jahren waren die
 Erzeugnisse der Landwirtschaft fast wertlos und unabsetzbar gewesen; 
 \<@pagebreak/>
-für einen dreijährigen Ochsen wurden 10--12 Taler Hamburgisch,
+für einen dreijährigen Ochsen wurden 10-12 Taler Hamburgisch,
 für eine Tonne Hafer 2 Mark Lübsch, für ein Pfund Butter 2 Schilling
 (15 Pfennig) bezahlt. Kein Wunder, daß die Geldknappheit
 aufs äußerste stieg und daß die schönsten Bauernstellen in Masse
@@ -219,42 +219,6 @@ gelegentlicher Arbeit und vom Betteln. Einige Insassen des Armenhauses,
 erwerbsunfähige Alte, unversorgte, meist uneheliche Kinder,
 Krüppel, Idioten, machten den Beschluß.
 
-<hr/>
-
-<span class="g">Anmerkung:</span> In der Kirche zu Langenhorn ist unter dem von Prof.
-Fr. Paulsen gestifteten, dem Andenken seiner Eltern gewidmeten Fenster, das
-den Apostel Paulus darstellt, eine Gedächtnistafel angebracht. Sie besteht aus
-drei Teilen. Die mittlere Haupttafel trägt folgende Inschrift:
-
-<pre class="center">An
-<i>D. Dr.</i> Friedrich Paulsen
-Geboren allhier zu Langenhom
-Am 16. Juli 1846
-Wo seine Eltern waren
-Paul Fr. Paulsen u. Christine geb. Ketelsen
-Seine Lehrer
-Küster S. Brodersen und Pastor C. Thomsen
-Gestorben zu Steglitz bei Berlin
-Am 14. Aug. 1908
-Nachdem er an der Berliner Universität
-durch 33 Jahre als Lehrer der Philosophie
-und Pädagogik gewirkt hat.
-<hr width="20%"/>
-Der Wahrheit
-Und der gesunden Vernunft Freund
-Feind der Lüge und dem Schein
-Ein Anhänger der guten Sache
-Auch der nicht siegreichen
-Der Ehre der Welt nicht allzu begierig
-Nicht im Gefolge des Willens zur Macht
-<span class="g">Der Heimat treu</span>
-Den Eltern u. Lehrern seiner Jugend dankbar zugetan
-Lebte er in einer Zeit
-Die von dem Allen das Gegenteil hielt
-Und verließ darum nicht unwillig diese Welt
-<span class="g">In der Hoffnung
-einer besseren.</span></pre>
-
 \<@pagebreak/>
 So lag die Gliederung der Gesellschaft nach dem Besitz sichtbar
 vor Augen; man wußte von jedem Bauern, wieviel Demat Land er
@@ -274,38 +238,6 @@ Bauerngesellschaft nirgends eine Spaltung, eine Kluft zwischen den
 Klassen, wie sie im Osten des Landes vorhanden ist, ja wie sie hier
 eigentlich die Grundlage der ganzen Gesellschaftsordnung bildet:
 die Spaltung in Rittergutsbesitzer und Tagelöhner, in offiziersfähige
-
-<hr/>
-
-Die linke Tafel trägt folgende Inschrift:
-
-<pre class="center">Der Lieben und Guten,
-Der Gefährtin meines ersten Glücks,
-Der Mutter meiner Kinder,
-Ihr, deren Glück es war, Freude zu machen,
-Frau Emilie Paulsen geb. Ferchel
-Geb. zu Kaufbeuren 13. März 1846
-Durch einen allzufrühen
-Vielbeweinten Tod abgerufen
-Zu Pyrmont 14. Juni 1883
-In treuer Erinnerung
-Gewidmet.</pre>
-         
-Inschrift der rechten Tafel:
-
-<pre class="center">Der Gottgeliebten
-Der treuesten Gattin
-Der aufopferndsten Mutter
-Der umsichtigen Hausfrau
-Der Freundin der Armen
-Der allezeit Fröhlichen
-Tapferen Tätigen
-Frau Laura Paulsen geb. Ferchel
-Geb. Nördlingen 26. Sept. 1851
-schrieb diese Inschrift
-ihr vor ihr dahingegangener	
-Gatte.</pre>
-
 \<@pagebreak/>
 Familien und Gemeine, in Gebildete und Ungebildete, in Hochwohlgeborene
 und überhaupt Nicht-Geborene. Alle Stufen des
@@ -360,4 +292,69 @@ Mann anders als mit Namen anreden: Wie geht es, Carsten?
 
 <div class="source pre">Aus: Friedrich Paulsen, Aus meinem Leben.
 (Jena, Eugen Diederichs.)</div>
+
+<hr/>
+
+<span class="g">Anmerkung:</span> In der Kirche zu Langenhorn ist unter dem von Prof.
+Fr. Paulsen gestifteten, dem Andenken seiner Eltern gewidmeten Fenster, das
+den Apostel Paulus darstellt, eine Gedächtnistafel angebracht. Sie besteht aus
+drei Teilen. Die mittlere Haupttafel trägt folgende Inschrift:
+
+<pre class="center">An
+<i>D. Dr.</i> Friedrich Paulsen
+Geboren allhier zu Langenhom
+Am 16. Juli 1846
+Wo seine Eltern waren
+Paul Fr. Paulsen u. Christine geb. Ketelsen
+Seine Lehrer
+Küster S. Brodersen und Pastor C. Thomsen
+Gestorben zu Steglitz bei Berlin
+Am 14. Aug. 1908
+Nachdem er an der Berliner Universität
+durch 33 Jahre als Lehrer der Philosophie
+und Pädagogik gewirkt hat.
+<hr width="20%"/>
+Der Wahrheit
+Und der gesunden Vernunft Freund
+Feind der Lüge und dem Schein
+Ein Anhänger der guten Sache
+Auch der nicht siegreichen
+Der Ehre der Welt nicht allzu begierig
+Nicht im Gefolge des Willens zur Macht
+<span class="g">Der Heimat treu</span>
+Den Eltern u. Lehrern seiner Jugend dankbar zugetan
+Lebte er in einer Zeit
+Die von dem Allen das Gegenteil hielt
+Und verließ darum nicht unwillig diese Welt
+<span class="g">In der Hoffnung
+einer besseren.</span></pre>
+
+Die linke Tafel trägt folgende Inschrift:
+
+<pre class="center">Der Lieben und Guten,
+Der Gefährtin meines ersten Glücks,
+Der Mutter meiner Kinder,
+Ihr, deren Glück es war, Freude zu machen,
+Frau Emilie Paulsen geb. Ferchel
+Geb. zu Kaufbeuren 13. März 1846
+Durch einen allzufrühen
+Vielbeweinten Tod abgerufen
+Zu Pyrmont 14. Juni 1883
+In treuer Erinnerung
+Gewidmet.</pre>
+         
+Inschrift der rechten Tafel:
+
+<pre class="center">Der Gottgeliebten
+Der treuesten Gattin
+Der aufopferndsten Mutter
+Der umsichtigen Hausfrau
+Der Freundin der Armen
+Der allezeit Fröhlichen
+Tapferen Tätigen
+Frau Laura Paulsen geb. Ferchel
+Geb. Nördlingen 26. Sept. 1851
+schrieb diese Inschrift
+ihr vor ihr dahingegangener	
+Gatte.</pre>
 

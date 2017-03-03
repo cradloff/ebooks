@@ -45,7 +45,6 @@ pre {
 	white-space: pre-wrap;
 	padding-left: 1em;
 	font-family: serif;
-	display: inline-block;
 }
 
 /* Zeilenumbrüche erhalten */
@@ -83,6 +82,10 @@ pre {
 /* linksbündig */
 .left {
 	text-align: left;
+}
+
+.hidden {
+	visibility: hidden;
 }
 
 /* Bilder */

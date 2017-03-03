@@ -3,7 +3,7 @@
 
 <h3>Von K. v. d. Eider.</h3>
 
-Herr -- Lehnsmann!« schallte es über den Hofplatz des Lehnsmanns
+»Herr -- Lehnsmann!« schallte es über den Hofplatz des Lehnsmanns
 Kätels zu Olderswort und noch einmal in langgezogenem
 Tone: »Herr Lehnsmann!«
 
@@ -137,7 +137,7 @@ verstand er nichts, rein gar nichts.«
 
 »Das wäre!«
 
-«Ja -- er ist ja nun tot, und es ist auch gewiß nichts Schlechtes,
+»Ja -- er ist ja nun tot, und es ist auch gewiß nichts Schlechtes,
 was ich von ihm rede; aber wahr ist's: auf der Kanzel war er ein
 Mann, jedoch für die Welt -- nicht zu brauchen, nicht zu brauchen!«
 
@@ -198,7 +198,7 @@ gefallen ist, weil er gar nicht schreit und lamentiert. Als ich mich
 umdrehe -- was meinen Sie? -- da sieht mich der Alte seelenvergnügt
 an, ist ganz kandidel, hat sich ordentlich nach hinten übergelegt
 und sagt: ›Da haben Sie mal flott gefahren, Lehnsmann,
-Sie verstehen es. Schade, daß es schon vorbei ist?‹ -- Was sagen
+Sie verstehen es. Schade, daß es schon vorbei ist.‹ -- Was sagen
 Sie dazu, Gröhn? Er hat gar nicht mal gemerkt, daß die Pferde
 löpsch liefen. Flott gefahren! Haha! Dazu sind wir Bauern doch
 viel zu sehr auf unser Pferd und Wagen bedacht, als daß wir
@@ -296,7 +296,7 @@ eine oder zwei Kartoffeln zum Fleisch und dann trocken Brot in
 'nem kleinen Korb. Trocken Brot zum Fleisch! Trocken Brot, so
 wahr ich hier sitze.«
 
-«Ja, ja,« nickte Klas Gröhn. »Dick und fett ist mein Junge
+»Ja, ja,« nickte Klas Gröhn. »Dick und fett ist mein Junge
 da auch nicht geworden; aber ich glaube, bei ihm setzt es nicht an.
 Na, nun ist er ja Gott sei Dank aus dem gröbsten; wenn er nun
 man erst 'ne gute Stelle hätte. Darum wollte ich den Herrn Lehnsmann
@@ -377,7 +377,7 @@ umständlich!«
 »Ist auch gar nicht nötig, Herr Lehnsmann. Was braucht ein
 Pastor Umgang? Der hat ja Frau und Kinder und dann seine
 Bücher; wenn ein Pastor man Bücher hat, dann kümmert er sich
-nicht um die Welt. Dis Hauptsache ist doch, daß er sein Brot hat.«
+nicht um die Welt. Die Hauptsache ist doch, daß er sein Brot hat.«
 
 »Das hat er bei uns, das hat er hundertmal und noch Fett
 dazu.« Bei diesen Worten erhob sich der Lehnsmann. Er hatte

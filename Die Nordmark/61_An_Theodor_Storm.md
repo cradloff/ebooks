@@ -1,4 +1,4 @@
-<div style="visibility: hidden;">
+<div class="hidden">
 <#include "pagebreak.ftl">
 <@pagebreak 317/>
 </div>

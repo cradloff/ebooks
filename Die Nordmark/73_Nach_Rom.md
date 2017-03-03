@@ -193,7 +193,7 @@ gewendet, hinzu.
 »Ja -- vielleicht noch länger, Hinne. Willst du denn wirklich
 dahin?«
 
-»Ja -->« sagte er ernsthaft. »Wenn ick grot bün,« fügte er
+»Ja --,« sagte er ernsthaft. »Wenn ick grot bün,« fügte er
 zögernd hinzu. »Denn bün ick jo min egen Herr --.«
 
 Und er sah nach Süden hin, und aus dem flockig weißen Gewölk
