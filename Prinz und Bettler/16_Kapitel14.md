@@ -78,7 +78,7 @@ dem zeremoniellen Frühstück wurde Tom in den Thronsaal geleitet,
 wo er die laufenden Staatsgeschäfte vornehmen sollte. Sein »Onkel«,
 Graf Hertford, stand neben dem Thron, um den König mit weisem
 
-<div align="center"><img alt="Tom sitzt auf dem Thron umgeben von Höflingen" src="img07.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Tom sitzt auf dem Thron umgeben von Höflingen" src="img07.png" width="100%" height="auto"/></div>
 
 Rat zu unterstützen, so dass sich für Tom alles ohne leidigen Zwischenfall
 glatt abwickelte.

@@ -97,7 +97,7 @@ deinen Besuch gemacht?«
 Tom war verlegen und wollte eben auf gut Glück etwas hervorstottern,
 als Lord St. John das Wort ergriff und mit der leichten
 Anmut eines Höflings antwortete, der gewohnt ist, delikate Schwierigkeiten
-spielend Zu lösen: »Gewiss, Fräulein, und sein Befinden ging
+spielend zu lösen: »Gewiss, Fräulein, und sein Befinden ging
 Ihrer Majestät sehr zu Herzen, nicht wahr, mein Prinz?«
 
 Tom murmelte etwas, das als Beistimmung gelten konnte, aber
@@ -173,7 +173,7 @@ in irgend eine Ecke zu gehen, um auszuruhen?«
 
 Lord St. John erwiderte: »An Euch ist es, Hoheit, zu befehlen,
 wir haben nur zu gehorchen. Ruhe ist Euch ohne Zweifel notwendig,
-da Ihr in kurzem nach der Stadt aufbrechen müht.«
+da Ihr in kurzem nach der Stadt aufbrechen müsst.«
 
 Er berührte eine Glocke, und ein Edelknabe erschien, der den Auftrag
 erhielt, Herrn Wilhelm Herbert zu rufen. Dieser kam sofort

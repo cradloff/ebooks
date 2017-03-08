@@ -50,7 +50,7 @@ Es schien, als ob die Füße der Hexe vor Erstaunen an den Boden
 genagelt seien. Der Atem ging ihr beinahe aus. Sie starrte in
 stumpfsinniger Verblüffung nach dem Prinzen, was ihren schurkischen
 
-<div align="center"><img alt="Der Prinz umringt von Toms Familie" src="img05.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Der Prinz umringt von Toms Familie" src="img05.png" width="100%" height="auto"/></div>
 
 Sohn so sehr belustigte, dass er in brüllendes Gelächter ausbrach.
 Aber auf Toms Mutter und Schwestern hatte der Vorgang eine ganz

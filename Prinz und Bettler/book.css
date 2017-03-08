@@ -17,7 +17,9 @@ h3 {
 }
 
 p {
+	margin: 2pt 0 2pt;
 	text-indent: 1em;
+	text-align: justify;
 }
 
 blockquote p {
@@ -52,10 +54,36 @@ blockquote p {
 	font-size: x-large;
 }
 
+/* Link zu Fußnote */
+a.refnote {
+	font-size: small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+/* Fußnote */
+.footnote {
+	font-size: small;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.footnote a {
+	font-size: x-small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+.center {
+	text-align: center;
+}
+
+/* gesperrter Text */
 .g {
 	letter-spacing: 0.25em;
 }
 
+/* dünne Linie mit Verlauf als Trenner */
 hr {
 	border: 0; 
 	height: 1px; 
@@ -65,4 +93,3 @@ hr {
 	background: #333; 
 	background-image: linear-gradient(to right, #eee, #333, #eee);
 }
-

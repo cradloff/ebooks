@@ -106,7 +106,7 @@ Ausdruck. Von allen Häusern herab hingen Flaggen und Fahnen,
 herrliche Teppiche, kostbare Stoffe und golddurchwirkte Tuche.
  
 
-<div align="center"><img alt="Tom reitet durch die Menge" src="img12.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Tom reitet durch die Menge" src="img12.png" width="100%" height="auto"/></div>
  
 
 »Und all diese wunderbaren Sachen sind für mich, für mich allein

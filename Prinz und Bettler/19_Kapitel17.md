@@ -97,7 +97,7 @@ Der junge Mann, der daneben stand, lachte laut auf. Der König
 wollte ihn züchtigen, aber Hobbs vertrat ihm den Weg und sagte:
 »Ruhig, Hugo, ärgere ihn nicht. Er ist nicht bei Verstand, und du
 
-<div align="center"><img alt="Eduard beobachtet die Bande die um das Lagerfeuer sitzt" src="img08.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Eduard beobachtet die Bande die um das Lagerfeuer sitzt" src="img08.png" width="100%" height="auto"/></div>
 
 reizest ihn nur unnötig. Setze dich, Hans, und sei still. Du sollst
 auch einen Bissen zu essen bekommen.«

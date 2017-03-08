@@ -153,7 +153,7 @@ Dienerinnen?«
 Der Prinz betrachtete den kleinen Armen einen Augenblick ernst
 und sagte dann:
  
-<div align="center"><img alt="Tom lugt in den Schlosshof" src="img03.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Tom lugt in den Schlosshof" src="img03.png" width="100%" height="auto"/></div>
 
 »Aber warum denn nicht? Wer hilft ihnen denn nachts sich auszuziehen?
 Wer zieht sie denn morgens an, wenn sie sich erheben?«

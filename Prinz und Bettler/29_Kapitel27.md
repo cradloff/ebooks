@@ -88,7 +88,7 @@ forschend. Dann schüttelte er den Kopf und erwiderte:
 Hugo, ich würde diesen schäbigen Lumpen packen und ihn einfach
 am nächsten Aste baumeln lassen.«
 
-<div align="center"><img alt="Der Diener betrachtet Henden" src="img11.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Der Diener betrachtet Henden" src="img11.png" width="100%" height="auto"/></div>
 
 Der alte Mann meinte dagegen:
 

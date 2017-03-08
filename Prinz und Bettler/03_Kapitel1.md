@@ -1,5 +1,5 @@
 
-<div align="center"><img alt="Der Unrathof" src="img02.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Der Unrathof" src="img02.png" width="100%" height="auto"/></div>
 
 <h2>Erstes Kapitel.</h2>
 

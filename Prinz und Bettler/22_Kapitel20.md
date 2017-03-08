@@ -217,7 +217,7 @@ Der König rührte sich. Behutsam eilte der Eremit an das Bett
 des kleinen Fremdlings, ließ sich auf die Knie nieder und beugte
 sich mit aufgehobenem Messer über den Daliegenden. Der Knabe
 
-<div align="center"><img alt="Der Eremit nähert sich dem schlafenden Eduard mit einem Messer in der Hand" src="img09.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Der Eremit nähert sich dem schlafenden Eduard mit einem Messer in der Hand" src="img09.png" width="100%" height="auto"/></div>
 
 regte sich wieder. Seine Augen öffneten sich einen Augenblick lang,
 aber es war kein Leben in ihnen. Sie konnten nichts sehen. Gleich

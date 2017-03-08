@@ -157,7 +157,7 @@ lange zum Segen deines Landes!« Dann sprang er auf, wandte
 sich an die beiden Lords, die ihn hergeführt hatten, und rief: »Ihr
 hört es! Ich soll nicht sterben. Der König hat es gesagt!«
 
-<div align="center"><img alt="Tom kniet vor dem König" src="img04.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Tom kniet vor dem König" src="img04.png" width="100%" height="auto"/></div>
 
 Stumm verbeugten sich die Angesprochenen; aber keiner ergriff
 das Wort. Verwirrt zögerte Tom einen Augenblick, blickte furchtsam

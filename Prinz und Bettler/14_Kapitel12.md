@@ -137,7 +137,7 @@ unter fortgesetzter Misshandlung gelitten. Nun, von jetzt an will ich
 sein Freund sein. Ich habe ihn gerettet und will meine Sache nicht
 halb machen. Überdies fühle ich mich zu diesem kleinen Knirps mit
 
-<div align="center"><img alt="Henden nimmt den Prinz vor Johann Canty in Schutz" src="img06.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Henden nimmt den Prinz vor Johann Canty in Schutz" src="img06.png" width="100%" height="auto"/></div>
 
 der kecken Zunge hingezogen. Wie tapfer trotzte er dem frechen Janhagel
 und wie kühn forderte er ihn heraus! Und welch hübsches,

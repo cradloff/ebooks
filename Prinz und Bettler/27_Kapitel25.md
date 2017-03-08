@@ -48,7 +48,7 @@ Ihr hättet nur sehen sollen, wie dieses alte Sanctum Sanctorum
 »Das will ich wohl glauben«, sagte der König und erzählte, was
 der Einsiedler mit ihm vorgehabt habe. Henden wunderte sich nicht
 
-<div align="center"><img alt="Eduard reitet neben Hendon" src="img10.png" width="100%" height="auto"/></div>
+<div class="center"><img alt="Eduard reitet neben Hendon" src="img10.png" width="100%" height="auto"/></div>
 
 übel und bedauerte nur, dass er es nicht gewusst habe, sonst wäre
 er dem Erzengel zu leibe gegangen.
