@@ -135,7 +135,7 @@ Lautlos fast spielte sich dieser verzweifelte Kampf ab. Pratt fühlte, wie seine
 
 Jetzt dachte er nicht mehr daran, den Inspektor zu überwältigen: jetzt hoffte er nur noch aus eins: daß er fliehen könne – irgendwie!
 
-Mit einer letzten verzweifelten Anstrengung schüttelte er Grablay ab, schnellte empor, lief der Kellertreppe zu, warf die Tür des Kellerhalses ins Schloß, drehte den Schlüssel um.
+Mit einer letzten verzweifelten Anstrengung schüttelte er Grablay ab, schnellte empor, lief der Kellertreppe zu, warf die Tür des Kellerhauses ins Schloß, drehte den Schlüssel um.
 
 Grablay war schon an der Tür, donnerte mit den Fäusten dagegen. Seine schrillen Hilferufe mußten bald selbst im zweiten Stock des Hauses wo zwei Familien wohnten, gehört werden.
 
@@ -143,11 +143,11 @@ Pratt mit zerrissenen Kleidern, ohne Perücke, ohne Bart rannte die Treppe empor
 
 In seinem früheren Schlafzimmer packte er rasch einen Sportanzug, Schuhe, Mütze und anderes zusammen, horchte dann in den Flur hinaus, lief die Treppen hoch bis zum Boden.
 
-Hier zog er sich um. In wenigen Minuten stand er in einem graubraunen Sportanzug da, eine weiche Mütze auf dem Kopf. Er steckte Grablays Revolver zu sich, nahm das Paket mit dem Unterarm auf und warf die zerfetzten Kleider in eine Kiste.,
+Hier zog er sich um. In wenigen Minuten stand er in einem graubraunen Sportanzug da, eine weiche Mütze auf dem Kopf. Er steckte Grablays Revolver zu sich, nahm das Paket mit dem Unterarm auf und warf die zerfetzten Kleider in eine Kiste.
 
 Mittlerweile war es vier Uhr nachmittags geworden. Der dicke Nebel, der sich tagsüber gelichtet gehabt hatte, sank jetzt wieder in wallenden Schwaden auf die Millionenstadt herab.
 
-Als Nic Pratt das flache Dach des Hauses betrat, konnte er die nächsten, höheren Gebände nur noch wie dunkle Schatten erkennen.
+Als Nic Pratt das flache Dach des Hauses betrat, konnte er die nächsten, höheren Gebäude nur noch wie dunkle Schatten erkennen.
 
 <hr/>
 Anmerkung:
