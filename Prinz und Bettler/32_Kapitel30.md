@@ -12,6 +12,7 @@ Als wir ihn zuletzt sahen, hatte er schon angefangen, an seiner
 Würde Geschmack zu finden. Das Königsein gefiel ihm von Tag zu
 Tag besser; er lebte bald in eitel Freude und Sonnenschein. Seine
 Furcht verlor sich ganz. Selten nur kam es noch vor, dass er Irrtümer
+<@pagebreak/>
 beging und in Verlegenheit geriet. Bald machte sich eine
 ruhige Sicherheit bei ihm bemerkbar, welche wohltuend auf seine
 ganze Umgebung wirkte.
@@ -56,6 +57,7 @@ rechtmäßigen Prinzen, der ihn so gütig aufgenommen und
 so edelmütig hatte rächen wollen? O ja doch. In den ersten Tagen
 und Nächten quälte ihn der Gedanke an seinen kleinen Gönner beinahe
 unaufhörlich, und er sehnte sich auch jetzt noch, den wirklichen 
+<@pagebreak/>
 Prinzen auf den Thron zu setzen. Aber die Zeit schwand dahin und
 Eduard kam nicht. Toms Gedanken wurden mehr und mehr anderweitig
 in Anspruch genommen und schließlich vergaß er beinahe, dass

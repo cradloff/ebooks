@@ -38,6 +38,7 @@ anders nicht los werden könne. »Darauf«, erzählte er, »ging der
 alte Mann ins Schlafzimmer. Gleich nachher kam er aber wankend
 und mit verstörtem Gesicht zurück und sagte, er habe geglaubt, der
 Knabe wäre heimgekommen und hätte sich schlafen gelegt. Aber 
+<@pagebreak/>
 es sei niemand da. Den ganzen Tag über wartete ich in der Hütte.
 Dann ging ich meines Weges, um Euch zu suchen. Auch der Klausner
 machte sich wieder auf, um nach Euch zu forschen. Ich schied von
@@ -60,6 +61,7 @@ erzählte, was ihren edlen Charakter genugsam beleuchtete. Dann
 wandte sich seine Begeisterung über zu Edith, und schließlich gönnte
 er sogar Hugo einige brüderlich freundliche Worte, so warm war
 ihm ums Herz geworden. Dann verbreitete er sich wieder allgemein 
+<@pagebreak/>
 über den glänzenden Empfang, der ihnen in Hendenhall zuteil
 werden sollte.
 
@@ -105,6 +107,7 @@ und hielten vor einem altertümlichen, aber prächtigen Herrenhaus.
 »Willkommen in Hendenhall, mein König!« rief Michael. »Ah,
 das ist ein herrlicher Tag! Mein Vater und mein Bruder und Fräulein
 Edith werden vor Freude närrisch sein und nur Augen für mich 
+<@pagebreak/>
 haben, so dass Ihr Euch vielleicht vernachlässigt fühlen werdet. Aber
 beachtet es nicht; bald wird es anders kommen. Wenn ich sage,
 Ihr seiet mein Schützling, und wie ich Euch lieb gewonnen habe,
@@ -155,6 +158,7 @@ Leben erwachen? Gott sei gepriesen, wenn es so wäre! Unser
 armer verlorener Junge sollte nach all den grausamen Jahren der
 Trennung wieder in unsere Arme zurückkehren? Ach, es scheint zu
 schön, um wahr zu sein; es ist zu schön, um wahr zu sein! Ich bitte 
+<@pagebreak/>
 Euch, habt Mitleid, spottet meiner nicht! Rasch, kommt ans Licht,
 lasst mich Euch näher ansehen!«
 
@@ -205,6 +209,7 @@ ist meine Freude schon halb dahin. Aber, bitte, führe mich zu meinem
 Bruder Arthur. Er wird mich auch erkennen, mich kennen und
 trösten.«
 
+<@pagebreak/>
 »Auch er ist gestorben.«
 
 »Gott sei mir armen Manne gnädig! Tot, beide tot, alles tot, was 
@@ -255,6 +260,7 @@ Da fragte der König seinerseits:
 
 »Zweifelst du etwa an mir?«
 
+<@pagebreak/>
 Henden wurde verlegen und dankte dem Himmel, daß ihm die Antwort erspart 
 wurde. Denn eben öffnete sich die Tür, und Hugo trat wieder herein. 
 Hinter ihm kam eine schöne, reich gekleidete Dame, gefolgt von mehreren 
@@ -301,8 +307,9 @@ gestohlen! Mache dich aus dem Staube, sonst vergesse ich mich und
 besudle meinen ehrlichen Waffenrock mit deinem Blute, du erbärmlicher Halunke!«
 
 Mit dunkelrotem Gesicht und halb erstickt schwankte Hugo zu einem 
-nahen Stuhle hin. Dann befahl er den Dienern, den mörderischen Kerl 
-zu greifen und zu binden. Sie zögerten, und einer von ihnen sagte:
+nahen Stuhle hin. Dann befahl er den Dienern, den mörderischen
+<@pagebreak/>
+Kerl zu greifen und zu binden. Sie zögerten, und einer von ihnen sagte:
 
 »Er ist bewaffnet, Herr Hugo, und wir sind ohne Waffen.«
 

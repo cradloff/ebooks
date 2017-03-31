@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Drittes Kapitel.</h2>
 
@@ -42,6 +43,7 @@ gebräunter Knabe, der ganz in Seide und Atlas gekleidet war und
 von Juwelen schimmerte. An seiner Hüfte hing ein kleiner, mit Edelsteinen
 besetzter Degen. Seine Füße staken in zierlichen Halbstiefeln
 mit roten Fersen. Seinen Kopf schmückte ein karmesinrotes Mützchen
+<@pagebreak/>
 mit wallenden Federn, die ein blitzender Stein festhielt. Mehrere
 prächtig gekleidete Herren standen herum, ohne Zweifel seine
 Diener. O das war ein Prinz, ganz ohne Frage, ein lebendiger
@@ -93,7 +95,7 @@ geriete. Dann setzte er sich nahe zu ihm und fragte, während Tom aß:
 
 »In der Altstadt, Herr. Im Unrathof, draußen im Puddinggässchen.«
  
-
+<@pagebreak/>
 »Unrathof! Wieder ein merkwürdiger Name! Hast du Eltern?«
 
 »Eltern habe ich, Herr, und auch eine Großmutter, aber die ist
@@ -153,8 +155,10 @@ Dienerinnen?«
 Der Prinz betrachtete den kleinen Armen einen Augenblick ernst
 und sagte dann:
  
+<@pagebreak/>
 <div class="center"><img alt="Tom lugt in den Schlosshof" src="img03.png" width="100%" height="auto"/></div>
 
+<@pagebreak/>
 »Aber warum denn nicht? Wer hilft ihnen denn nachts sich auszuziehen?
 Wer zieht sie denn morgens an, wenn sie sich erheben?«
 
@@ -210,6 +214,7 @@ laufen kann.«
 
 »Im Sommer, Herr, waten und schwimmen wir in den Kanälen
 und im Fluss und jeder duckt seinen Nachbar ins Wasser, so tief er 
+<@pagebreak/>
 kann, oder bespritzt ihn und dann lachen wir und schreien, tauchen
 unter und strampeln und plätschern und ...«
 
@@ -260,6 +265,7 @@ arme Soldat ja nur ...«
 
 »Still! das war schändlich und grausam!« rief der kleine Prinz
 und stampfte mit seinem nackten Fuß. »Wenn der König ... doch 
+<@pagebreak/>
 halt! rühre dich keinen Schritt, bis ich wieder komme! Ich befehle
 es dir.«
 

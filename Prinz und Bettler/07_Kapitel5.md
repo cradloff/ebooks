@@ -6,6 +6,7 @@
 Tom Canty benutzte den Weggang des Prinzen, um sich ausgiebig
 vor dem großen Spiegel zu bewundern. Er nahm die vornehme
 Haltung des Kronprinzen an, spazierte hin und her und betrachtete 
+<@pagebreak/>
 sich verstohlen im Spiegel. Dann zog er den prächtigen Degen,
 küsste die Klinge und salutierte, wie er es vor einigen Wochen einem
 Offizier abgeguckt hatte. Auch mit dem juwelenbesetzten Dolch spielte
@@ -50,6 +51,7 @@ fehlt dir, mein Lord?«
 
 Tom ging beinahe der Atem aus; aber er fasste sich noch und
 stammelte: »Ach, sei gnädig. Ich bin ja kein Lord, sondern nur der 
+<@pagebreak/>
 arme Tom Canty vom Unrathof in der Altstadt. Bitte, führe mich
 zum Prinzen, damit er mir meine Lumpen zurückgibt und mich in
 Gnaden entlässt. O sei barmherzig und rette mich!«
@@ -100,6 +102,7 @@ Gesicht und ernster Miene.
 Sein mächtiger Kopf war schon ganz grau, wie auch sein Backenbart,
 der wie ein Rahmen sein Gesicht umgab. Sein Gewand war
 von reichem Stoffe, aber an einigen Stellen leicht abgenutzt. Einer 
+<@pagebreak/>
 seiner Füße war geschwollen und lag, fest eingewickelt, auf einem
 Kissen. Tiefe Stille herrschte, und ehrerbietig senkten sich die Häupter
 aller vor diesem Manne. Der ernstblickende Kranke war der
@@ -147,7 +150,7 @@ leidigen Tausch und Zufall bin ich hier; mich selbst aber trifft kein
 Vorwurf. Ich bin noch zu jung zum Sterben, und du kannst mich
 retten mit einem einzigen kleinen Wort. O sprich es aus, Herr!«
  
-
+<@pagebreak/>
 »Sterben? Sprich doch nicht so, mein lieber Prinz. Still, still,
 beruhige dein verwirrtes Herz, du sollst nicht sterben!«
 
@@ -173,7 +176,7 @@ erzogen wurde. Da meine Mutter und Schwestern dort wohnen,
 gehöre ich auch dahin. Dieser Pomp und Glanz aber, an den ich
 nicht gewöhnt bin ... o bitte, Herr, lass mich gehen!«
  
-
+<@pagebreak/>
 Der König schwieg und dachte einen Augenblick nach, während
 sein Gesicht wachsende Sorge und Unruhe ausdrückte. Dann aber
 sagte er, und ein wenig Hoffnung lag in seiner Stimme: »Vielleicht
@@ -220,6 +223,7 @@ Dann erhob er sich noch höher und fuhr in strengem Tone fort:
 »Er ist irrsinnig; aber er ist mein Sohn und Englands Erbe und gesund
 oder irrsinnig, regieren soll er doch! Und höret ferner und verkündet
 es weiter: wer immer von dieser seiner Krankheit spricht,
+<@pagebreak/>
 vergeht sich gegen den Frieden und die Ordnung dieses Reiches und
 soll gehängt werden! ... Gebt mir zu trinken ... ich brenne ...
 Diese Sorge reibt meine Kraft auf ... hier, nehmt den Becher wieder
@@ -266,6 +270,7 @@ mein König. Wie lange dürfte er sonst noch leben?«
 »Denke nicht an ihn, mein Prinz; er ist es nicht wert. Küsse
 mich noch einmal und dann gehe und erheitere dich durch Spiele.
 Ich bin müde und möchte ruhen. Gehe mit deinem Onkel Hertford 
+<@pagebreak/>
 und deinen Leuten, und komme wieder, wenn mein Körper erfrischt
 ist.«
 

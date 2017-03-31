@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Sechzehntes Kapitel.</h2>
 
@@ -42,6 +43,7 @@ Noch einmal schmetterten die Trompeten und ertönte der Ruf: »Platz
 für den König!« Glänzende Edelknaben erschienen am Eingang und
 traten in zwei Reihen auseinander. Zwischen ihnen schritten Edelleute,
 Freiherren, Grafen, Ritter des Hosenbandordens, alle prächtig 
+<@pagebreak/>
 gekleidet und barhäuptig. Dann kam der Kanzler zwischen zwei
 Begleitern, von denen einer das königliche Zepter, der andere das
 Staatsschwert in roter, mit goldenen Lilien bestickter Scheide, die

@@ -25,6 +25,7 @@ mit ihrem Pack, Henden und der König hinter ihr, gefolgt von der
 neugierigen Menge. Der König wollte sich zwar sträuben, aber
 Henden raunte ihm zu: »Bedenket, Majestät, Euere Gesetze bilden
 die gesunde Luft im Königreich. Wie sollen aber die Untertanen 
+<@pagebreak/>
 ihnen folgen, wenn das Oberhaupt sich weigert, ihnen zu gehorchen?
 Wenn Ihr wieder auf dem Throne seid, wird es Euch gewiss Befriedigung
 gewähren, dass Ihr Euch so loyal und bescheiden Eueren
@@ -71,7 +72,7 @@ was habe ich nur getan! Nicht um alles in der Welt möchte ich, dass
 der arme Junge um meinetwillen gehängt würde! Ach, rettet ihn,
 Herr Richter, rettet ihn! Was kann ich dazu tun?«
  
-
+<@pagebreak/>
 Der Richter behielt seine Amtsmiene bei und sagte einfach:
 »Zweifellos ist es noch erlaubt, den Preis zu ermäßigen, da er noch
 nicht in das Protokoll eingetragen ist.«
@@ -119,6 +120,7 @@ wollte vermutlich Henden Befehl geben, den guten Richter auf der
 Stelle zu enthaupten. Aber er fing einen warnenden Blick von
 seinem Beschützer auf und schloss den Mund rechtzeitig wieder. Der
 Ritter nahm ihn an der Hand, verbeugte sich vor dem Richter, und 
+<@pagebreak/>
 beide verließen in Begleitung des Schutzmannes das Zimmer, um
 nach dem Gefängnis zu gehen. Kaum hatten sie die Straße erreicht,
 als der kleine Monarch glutübergossen stehen blieb, die Hand seines

@@ -32,6 +32,7 @@ kann Euch den Hals kosten, Mann.«
 
 Der Schutzmann war erst sprachlos vor Erstaunen, dann fand er
 seine Sprache wieder und begann aufzubrausen und zu drohen. Aber 
+<@pagebreak/>
 Henden blieb ruhig und wartete geduldig, bis der andere nichts mehr
 zu sagen wusste. Dann entgegnete er: »Ihr gefallt mir, Freund,
 und ich möchte Euch nicht gerne in Ungelegenheiten bringen. Passt
@@ -78,6 +79,7 @@ selbstverständliche Kleinigkeit verlangt.
 fassungslos. »Seid vernünftig, lieber Herr. Ihr könnt mein Gespräch
 mit der Frau ansehen, wie Ihr wollt, Ihr müsst schließlich zur Überzeugung
 kommen, dass es nur ein Scherz war. Und selbst, wenn es 
+<@pagebreak/>
 nicht als Scherz aufgefasst würde, so wäre es ein so geringfügiges
 Vergehen, dass es mir im schlimmsten Falle nur einen Rüffel und
 eine Vermahnung vom Richter zuziehen würde.«
@@ -129,7 +131,7 @@ und hättet den Gefangenen mit Gewalt befreit. Es hat nur eine
 alte, morsche Tür. Ich will sie selbst um Mitternacht mit meiner
 Axt zusammenschmettern.«
  
-
+<@pagebreak/>
 »Tut das, gute Seele, und es wird Euch kein Leides geschehen.
 Der Richter hat ein mitleidiges Herz für den armen Knaben und
 wird Euch keine Schwierigkeiten machen, wenn der Junge auch

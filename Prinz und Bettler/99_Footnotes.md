@@ -1,3 +1,5 @@
+<@pagebreak/>
+
 <h3>Anmerkungen.</h3>
 
 <em>Auf diese Anmerkungen ist im Texte durch ein beigefügtes * verwiesen.</em>
@@ -61,6 +63,7 @@ war. Freilich erregte er viel Anstoß durch seinen Ehrgeiz und den Glanz, mit de
 er sich umgab. Indes verdient er großes Lob für die Gesetze, deren Urheber er
 war, und wodurch die Strenge der früheren Verordnungen sehr gemildert und
 die Freiheit der Verfassung gewährleistet wurde. Die Großzahl der vorherigen 
+<@pagebreak/>
 harten Gesetze verlor ihre Gültigkeit, und das Morgenrot bürgerlicher und religiöser
 Freiheit begann am Horizont aufzusteigen. So z.B. durfte wegen Beleidigungen
 und Vergehen durch Worte erst einen Monat nach ihrer Äußerung

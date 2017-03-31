@@ -29,6 +29,7 @@ und Fußschemel waren mit Goldstoff bedeckt.
 Stille herrscht in den mächtigen Räumen, die Fackeln leuchten
 nur düster. Ermüdend langsam schleicht die Zeit dahin. Nach und
 nach bricht das Tageslicht durch die hohen Bogenfenster. Die Fackeln 
+<@pagebreak/>
 werden ausgelöscht und ein sanftes Morgenrot durchflutet die weiten
 Hallen. Deutlich erkennt man jetzt die einzelnen Teile der Kirche im
 rosigen Morgenschimmer.
@@ -73,6 +74,7 @@ tanzendes Flirren und Funkeln hervor.
 Wieder vergehen ein, zwei Stunden, dann dröhnt es gewaltig
 von Kanonendonner und verkündet das Nahen des Königs und seines
 Gefolges. Nicht lange währt es, und eine neue Flut von herrlich gekleideten
+<@pagebreak/>
 Edelleuten strömt herein. Es sind die Großen des Reiches
 in ihren Prunkgewändern.
 
@@ -120,6 +122,7 @@ Thronräubers zu setzen. Ich bin der König!«
 
 Sofort wurde der kecke Eindringling von mehreren Händen gepackt.
 Aber ehe weiter etwas geschehen konnte, stieg Tom in seinen 
+<@pagebreak/>
 königlichen Gewändern vom Throne herab, trat rasch vorwärts und
 rief:
 
@@ -172,6 +175,7 @@ mit zurückhaltender Achtung:
 Nun richtete der Herzog allerlei Fragen an ihn, über den Hof,
 den verstorbenen König und die Prinzessinnen. Der Knabe beantwortete
 alle richtig und ohne jedes Zaudern. Er beschrieb die 
+<@pagebreak/>
 Staatsgemächer im Palaste, die Gemächer des Königs und die des
 bisherigen Kronprinzen.
 
@@ -220,6 +224,7 @@ Palast. Niemand kennt sich ja dort so gut aus, wie Ihr. In der
 linken Zimmerecke gegenüber der Tür, die sich nach dem Vorzimmer
 öffnet, werdet Ihr an der Mauer einen goldenen Nagelkopf finden.
 Drückt darauf und der Deckel eines kleinen Geheimfaches wird aufspringen.
+<@pagebreak/>
 Niemand weiß etwas davon, außer mir und dem verschwiegenen
 Handwerker, der mir das Fach machte. Das erste, was
 Euch darin vor die Augen kommt, wird das große Siegel sein. Bringt
@@ -268,7 +273,7 @@ zorniger Blicke.
 »Werft den Bettler auf die Straße und peitscht ihn durch die
 Stadt!« rief der Lord Protektor.
  
-
+<@pagebreak/>
 Offiziere der Wache sprangen vor, aber Tom winkte ihnen energisch
 ab und sagte:
 
@@ -320,7 +325,7 @@ seines guten Rechts berauben wollt, nur weil ich diesen Beweis nicht
 erbringen kann, so vermag ich es Euch nicht zu wehren, da ich machtlos
 bin. Aber ...«
  
-
+<@pagebreak/>
 »O nicht so eilig, mein König!« rief Tom angstvoll. »Wartet doch!
 Denkt nach! Gebt es nicht auf! Noch ist nichts verloren! Und wahrhaftig,
 es soll auch nichts verloren sein! Hört auf das, was ich Euch
@@ -366,6 +371,7 @@ St. John und beflügelt Euere Schritte!«
 Eine große Bewegung ging durch die erlauchte Versammlung.
 Unbehagen, Furcht und verzehrende Aufregung ergriffen alle. Durch
 die weiten Hallen der Kirche, wie auf dem Chor, begann ein betäubendes
+<@pagebreak/>
 Stimmengewirr, so dass man sein eigenes Wort nicht verstehen
 konnte.
 
@@ -421,7 +427,7 @@ gänzlich entfallen war?«
 
 »O das ist sehr einfach, mein König, da ich es wiederholt benutzte.«
  
-
+<@pagebreak/>
 »Wie? Und doch konntest du nicht gleich sagen, wo es war?«
 
 »Ich wusste nur nicht, dass es das Siegel war. Sie beschrieben es

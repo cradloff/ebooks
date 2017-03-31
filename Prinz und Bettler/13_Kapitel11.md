@@ -31,6 +31,7 @@ Sitzen Platz.
 
 An einem niederigen Tische saßen die Großen des Hofes und
 andere edle Gäste mit den Spitzen der Stadt. Die übrigen Teilnehmer
+<@pagebreak/>
 machten sich hinter ihnen an einer Menge von Tischen bequem.
 Von ihrer luftigen Höhe herab schauten die Riesen Gog und
 Magog, die alten Wächter der Stadt, auf das festliche Gepränge, das
@@ -75,6 +76,7 @@ hinsah und das farbenprächtige Schauspiel der herumwirbelnden
 fröhlichen Gestalten bewunderte, wollte der zerlumpte wirkliche
 Prinz seine Rechte geltend machen und den Betrüger entlarven. Ungestüm
 forderte er Einlass an den Toren des Rathauses. Die Menge 
+<@pagebreak/>
 freute sich höchlich über diesen Auftritt, drängte vorwärts und reckte
 die Hälse, um den kleinen Streithahn zu sehen. Man fing an, ihn zu
 höhnen und zu necken, um sich an seinem gesteigerten Zorn noch mehr
@@ -120,6 +122,7 @@ Hund! Tötet ihn!«
 Stürmisch umdrängte die Menge den Haudegen, der rasch für
 seinen Rücken Deckung an der Mauer suchte und nun mit seiner langen
 Waffe wie wahnsinnig um sich hieb. Links und rechts flogen die Angreifer
+<@pagebreak/>
 heulend auf den Boden. Aber der Pöbel stürzte über ihre
 Leiber vorwärts und bedrängte den Helden mit ungeminderter Wut.
 Seine Augenblicke schienen gezählt, sein Verderben sicher, als plötzlich
@@ -170,7 +173,7 @@ Und Gnade soll auch fürder meine Schritte begleiten. Erhebe dich,
 eile nach dem Turme und verkünde dort, der Herzog von Norfolk soll
 nicht sterben!«
  
-
+<@pagebreak/>
 Rasch wurden diese Worte aufgefangen und eifrig von Ohr zu
 Ohr weitergetragen. Und wie Hertford aufstand, um dem Befehle
 nachzukommen, brach ein stürmischer Jubel in der weiten Halle aus,

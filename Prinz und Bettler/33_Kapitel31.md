@@ -16,6 +16,7 @@ Flottille nun steuerte.
 Als der Zug dort anlangte, flammte es plötzlich auf der alten
 Feste an tausend Stellen zugleich auf. Eine betäubende Explosion
 erdröhnte, dass der Boden weithin zitterte und der ganze Turm zu 
+<@pagebreak/>
 bersten schien. Und immer und immer wieder donnerten die Feuerschlünde,
 dass bald das ganze Gebäude in Rauch verhüllt war. Nur
 die höchste Spitze, der sogenannte Weiße Turm, auf dem unzählige
@@ -62,6 +63,7 @@ König zu sein und der Abgott des Volkes.
 
 Plötzlich bemerkte er zwei von seinen früheren Kameraden vom
 Unrathof. Der eine von ihnen war einst sein Großadmiral und der 
+<@pagebreak/>
 andere sein Oberkämmerer gewesen. O wenn sie ihn jetzt erkennen
 möchten! Welch unsagbares Erstaunen würde sich ihrer bemächtigen.
 Beinahe hätte er alle Huldigung des Volkes dahingegeben um den
@@ -105,10 +107,10 @@ eine Tugend, ein Talent oder Verdienst des kleinen Herrschers zum
 Ausdruck. Von allen Häusern herab hingen Flaggen und Fahnen,
 herrliche Teppiche, kostbare Stoffe und golddurchwirkte Tuche.
  
-
+<@pagebreak/>
 <div class="center"><img alt="Tom reitet durch die Menge" src="img12.png" width="100%" height="auto"/></div>
  
-
+<@pagebreak/>
 »Und all diese wunderbaren Sachen sind für mich, für mich allein
 da!« murmelte Tom.
 
@@ -155,7 +157,7 @@ die krummen Straßen der merkwürdigen alten Stadt. Mechanisch
 und gebeugten Hauptes ritt Tom dahin, immer nur das Bild seines
 armen lieben Mütterchens vor Augen.
  
-
+<@pagebreak/>
 »Eine Gabe, eine Gabe!« rief es von allen Seiten. Aber die
 Bitten verhallten unerhört.
 
@@ -202,7 +204,7 @@ Noch einmal indes, als sich der Zug schon seinem Ziele nahte,
 musste der Herzog an Toms Seite reiten und ihm Vorstellungen
 machen:
  
-
+<@pagebreak/>
 »O gnädigster Herr, verscheucht doch diesen verhängnisvollen
 Trübsinn; die Augen der ganzen Welt sind auf Euch gerichtet!«
 

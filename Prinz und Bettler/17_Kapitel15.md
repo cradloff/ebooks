@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Fünfzehntes Kapitel.</h2>
 
@@ -44,7 +45,7 @@ feierlich zum Lordprotektor ernannt werden sollte. Beklommen erwartete
 er die Stunde des öffentlichen Mahles, vor welchem er
 aber noch die Großen des Reiches in Audienz empfangen wollte.
  
-
+<@pagebreak/>
 Tom war an ein Fenster getreten, um das bunte Treiben auf der
 belebten Straße vor den Toren des Palastes zu beobachten. O wie
 sehnte er sich, frei, wenn auch als Bettler, wieder selbst an dem
@@ -93,7 +94,7 @@ des alten Priesters lauschte und mir vorstellte, wenn ich auch ein
 solcher König wäre, Gesetze geben und das und jenes befehlen könnte,
 ohne dass jemand sich meinem Befehle widersetzen dürfte.«
  
-
+<@pagebreak/>
 Die Stunde der Audienz war gekommen. Die Flügeltüren
 sprangen auf. Ein Edelknabe rief einen erlauchten Namen nach dem
 andern, deren Träger unmittelbar nach dem Rufe den Saal betraten,
@@ -140,6 +141,7 @@ dessen kühne Rettungstat erlitten eine gewaltige Erschütterung.
 »In überzeugender Weise, Majestät.«
 
 Tom seufzte und sprach: »Führt ihn fort; er hat den Tod verdient. 
+<@pagebreak/>
 Es ist bedauernswert, denn er war eine brave Seele ... Ich meine,
 er sieht so aus.«
 
@@ -189,7 +191,7 @@ rief Tom und bedeckte die Augen mit seinen Händen, wie um das
 schreckliche Bild nicht sehen zu müssen. »Ich bitte Euere Lordschaft,
 zu veranlassen, dass dieses Gesetz geändert wird.«
  
-
+<@pagebreak/>
 Die Miene des Grafen drückte hohe Befriedigung aus, denn er
 war ein Mann von humanen, edelmütigen Gesinnungen, was damals
 in seinem Stande nicht gerade häufig vorkam. Er antwortete:
@@ -237,6 +239,7 @@ Angaben der Hexe aber entspricht der Angeklagte und sein Gewand.«
 Das war ein Beweis von überzeugender Gewalt in jenen abergläubischen
 Zeiten. Auch Tom stand unter diesem Eindruck. Trotzdem
 wollte er die Sache noch nicht ganz aufgeben und forderte daher 
+<@pagebreak/>
 den Angeklagten auf: »Wenn du noch etwas zu deinen Gunsten zu
 sagen hast, dann sprich!«
 
@@ -288,7 +291,7 @@ vorgeführt.
 »Was legt man diesen Angeklagten zur Last?« fragte er den
 Gerichtsbeamten.
  
-
+<@pagebreak/>
 »Ew. Majestät zu dienen, sie sind eines schweren Verbrechens
 angeklagt und überführt worden, weshalb der Gerichtshof sie zum
 Galgen verurteilt hat. Sie verkauften sich selbst dem Gottseibeiuns.
@@ -341,6 +344,7 @@ und daher kann auch von Sünde oder Verbrechen keine Rede sein.«
 
 Wiederum zollten die grauen Häupter Toms Weisheit ihre Anerkennung
 und einer murmelte: »Und wenn der König selbst irrsinnig
+<@pagebreak/>
 ist, wenn man dem Gerüchte Glauben schenken will, dann ist
 das ein Irrsinn, welcher den Verstand anderer Leute heller machen
 würde, wenn sie es nur einsehen könnten.«
@@ -391,6 +395,7 @@ machte sich bemerkbar. Tom kehrte sich aber nicht daran,
 er schien es auch nicht einmal zu beachten, so sehr war er auf das
 kommende Ereignis gespannt. Da er einen verwunderten, entsetzten
 Blick von der Frau auffing, fügte er beruhigend hinzu: »Fürchte 
+<@pagebreak/>
 dich nicht, du sollst dafür nicht büßen. Noch mehr: du sollst ganz
 straflos ausgehen; niemand soll dir was zuleide tun. Beweise deine
 Kraft.«

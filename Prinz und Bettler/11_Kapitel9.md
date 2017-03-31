@@ -12,6 +12,7 @@ glich, die von sanften Sommerwinden hin und her bewegt werden.
 
 Die große steinerne Terrasse, die zum Flusse hinunterführte, bot
 einen stolzen Anblick. Gruppen von königlichen Hellebardieren in 
+<@pagebreak/>
 glänzender Rüstung und Scharen von prunkvoll gekleideten Dienern
 wogten auf und ab, um die nötigen Vorkehrungen zu treffen.
 
@@ -55,6 +56,7 @@ folgte ein Offizier, der das bürgerliche Zepter trug; nach ihm kam
 ein anderer mit dem Stadtschwert. Dann zeigten sich mehrere
 Unteroffiziere der Stadtwache in voller Ausrüstung, mit ihren Abzeichen
 auf den Ärmeln. Jetzt erschien der erste Wappenherold Englands
+<@pagebreak/>
 in seinem Heroldgewand, gefolgt von einigen Rittern vom
 Badorden, die alle eine weiße Tresse am Ärmel trugen und von
 ihren Knappen begleitet waren.
@@ -98,6 +100,7 @@ Tuch, durchschossen mit seinem Dreifederwappen, mit blauem Atlas
 eingefasst, mit Perlen und Edelsteinen besetzt und von einer Brillantspange
 zusammengehalten. Um seinen Nacken hingen der Hosenbandorden
 und mehrere ausländische fürstliche Auszeichnungen. Wohin 
+<@pagebreak/>
 ihn auch das Licht traf, blitzten Juwelen mit blendendem Feuer auf.
 O Tom Canty, solch ein feenhaftes Schauspiel sahst du auch in deinen
 schönsten Träumen nicht, wie es dir heute die Wirklichkeit darbietet!

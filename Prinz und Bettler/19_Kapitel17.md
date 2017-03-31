@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Siebzehntes Kapitel.</h2>
 
@@ -42,7 +43,7 @@ entgegnete darauf: »Willst du denn hier säumen, während dein
 Freund verwundet in dem Walde dort drüben liegt? Mir kann
 es gleichgültig sein.«
  
-
+<@pagebreak/>
 Wie der König solches hörte, war er plötzlich wie umgewandelt.
 Heftig rief er aus: »Wie? Verwundet? Und wer hat gewagt, ihn
 zu verletzen? Doch das nachher. Nur vorwärts jetzt, vorwärts!
@@ -87,6 +88,7 @@ Quartiere. Ich habe einen Mord begangen und darf also nicht
 wieder heim, und du auch nicht, denn ich brauche deine Dienste.
 Meinen Namen habe ich aus guten Gründen geändert und heiße
 jetzt Johann Hobbs. Dein Name ist Hans; merke es dir. Nun 
+<@pagebreak/>
 aber sprich: wo ist deine Mutter? Wo sind deine Schwestern? Sie
 kamen nicht an den bezeichnten Ort. Weißt du, wohin sie gingen?«
 
@@ -113,7 +115,7 @@ hörten, besaß Eduard nur angenehme Erinnerungen an seinen Vater.
 Die Tränen, die unaufhaltsam über seine Wangen strömten, zeugten
 von dem aufrichtigen, tiefen Schmerz über dessen Tod.
  
-
+<@pagebreak/>
 Lange gab er sich seiner qualvollen Grübelei hin. Als er endlich
 wieder zum Bewusstsein seiner jetzigen Lage kam, hörte er zu
 Häupten den Regen plätschernd auf das Dach niederstürzen. Er
@@ -154,6 +156,7 @@ schüttelten ihm die Hand, und die neuen Mitglieder wurden ihm
 vorgestellt. Man forschte, warum er solange weggeblieben sei. Er
 antwortete: »London ist in den letzten Jahren besser und sicherer geworden,
 als das Land. Die Gesetze sind streng und werden kräftig 
+<@pagebreak/>
 gehandhabt. Hätte ich nicht den Unfall mit dem Priester gehabt, so
 wäre ich noch in der Stadt. Ich hatte mir schon vorgenommen,
 sie nicht wieder zu verlassen.«
@@ -201,7 +204,7 @@ an solchen Ausgestoßenen ohne Eindruck vorüber. So auch hier,
 wo die Vaganten den Verlust eines Schimpfgenies betrauerten, das
 keinen Erben hinterließ.
  
-
+<@pagebreak/>
 Bald aber stellte ein kräftiger Schluck aus der Kanne die frühere
 gute Laune wieder her.
 
@@ -246,6 +249,7 @@ Mutter gewesen! Arm und elend jagte man uns alle vom Hof.
 Ich bettelte von Haus zu Haus um Arbeit. Aber niemand wollte
 uns aufnehmen. Da bettelte ich um ein Stück Brot für meine Frau
 und mich und die hungrigen Kleinen auf dem Arm. Aber in England
+<@pagebreak/>
 ist es ein Verbrechen, hungrig zu sein, und so peitschten sie uns
 aus und trieben uns von Dorf zu Dorf.
 
@@ -295,6 +299,7 @@ Noch mehr sprach er mit zorniger Stimme und erregten Gebärden,
 aber es ging verloren in dem stürmischen Durcheinander von Lachen
 und spöttischen Zwischenrufen. Hobbs versuchte mehrmals, Ruhe
 zu schaffen. Als es ihm endlich gelang, sagte er: »Kameraden, das 
+<@pagebreak/>
 ist mein Sohn, ein Träumer, ein verrückter Narr. Gebt nicht acht
 auf ihn. Er glaubt steif und fest, er sei der König.«
 
@@ -348,7 +353,7 @@ Dann folgte Pfeifen, Katzenmusik und stürmisches Gelächter.
 
 »Kleidet ihn in Purpur!«
  
-
+<@pagebreak/>
 »Gebt ihm ein Zepter!«
 
 »Setzt ihn auf den Thron!«

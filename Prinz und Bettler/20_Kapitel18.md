@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Achtzehntes Kapitel</h2>
 
@@ -43,6 +44,7 @@ das Dorf von verschiedenen Seiten, um bei den Bewohnern
 ihre mannigfaltigen Gewerbe auszuüben. Hans musste wieder mit
 Hugo zusammengehen. Eine Weile streiften sie umher, um eine
 günstige Gelegenheit zu einem »Geschäft« zu erspähen. Sie fanden aber 
+<@pagebreak/>
 keine, und Hugo meinte schließlich: »Ich sehe nichts, das man stehlen
 könnte. Es ist ein armseliges Nest. Wir wollen also betteln.«
 
@@ -96,6 +98,7 @@ aber ließ ihn nicht zu Worte kommen, sondern fuhr fort: »Still!
 Da kommt ein Herr. Er sieht gutmütig aus. Nun will ich niederfallen,
 als bekäme ich Krämpfe. Eilt dann der Fremde herzu, so
 fängst du an zu wehklagen, fällst auf die Knie und beginnst zu 
+<@pagebreak/>
 schluchzen. Dann schreist du plötzlich auf, als wärest du das elendeste
 Geschöpf auf Gottes Erdboden und rufst: ach, Herr, hier liegt mein
 armer schwer heim gesuchter Bruder und hat niemand, der sich seiner
@@ -146,6 +149,7 @@ Aber Hugo wartete die Heilung nicht ab. Er sprang plötzlich
 auf und floh wie ein Wiesel davon. Der Fremde folgte ihm mit
 drohend erhobenem Stocke. Der König dankte dem Himmel aus
 tiefster Seele und entfloh in entgegengesetzter Richtung. Er hielt 
+<@pagebreak/>
 nicht eher inne, bis er sich sicher fühlte. Dann schlug er den ersten
 besten Weg ein und hatte bald das Dorf weit hinter sich. Er ging
 weiter und weiter, stundenlang und schaute immer wieder zurück,
@@ -189,6 +193,7 @@ scharfe Nachtwind fuhr durch seine Kleiderfetzen, und die gastliche
 Scheune war so einladend nahe. Er fasste sich ein Herz und trat
 ein. Kaum hatte er die Schwelle überschritten, als er Stimmen
 hinter sich hörte. Er duckte sich hinter ein Fass. Zwei Landarbeiter 
+<@pagebreak/>
 traten herein, brachten die Laterne mit und begannen plaudernd
 ihre Arbeit. Während sie mit der Laterne hin und her liefen, guckte
 der kleine König hinter einer Ecke hervor und bemerkte einen geräumigen
@@ -232,6 +237,7 @@ sondern weil er fühlte, er müsse es im nächsten Augenblicke spüren.
 Zum viertenmal aber tastete er doch etwas weiter und seine
 Hand berührte etwas Weiches, Warmes. Er erstarrte beinahe
 vor Schrecken: in seinem halb betäubten Zustand glaubte er, er 
+<@pagebreak/>
 habe den noch warmen Körper eines Toten berührt. Lieber wollte
 er sterben, als noch einmal die Hand ausstrecken. Nach und nach
 siegte aber doch die unsterbliche Neugier, und zitternd streckte er

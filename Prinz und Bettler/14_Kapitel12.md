@@ -35,6 +35,7 @@ anderen Verkaufsläden, über denen sich die Wohnungen der Geschäftsinhaber
 befanden. Die Brücke bildete eine Art Stadt für sich.
 Sie hatte ihre Gasthöfe, Wirtschaften, Bäckereien, Fleischereien,
 Kurzwarengeschäfte, Lebensmittel- und Manufakturwarengeschäfte, 
+<@pagebreak/>
 ja sogar eine Kirche. Sie schaute auf ihre beiderseitige Umgebung
 hin, wie auf Vorstädte, die ihr nicht ebenbürtig wären. Sie stellte
 sozusagen eine geschlossene Gesellschaft dar. Freilich besaß sie nur
@@ -82,7 +83,7 @@ mir. Was hat der Junge mit dir zu schaffen?«
 »Wenn du es darauf abgesehen hast, dich in Angelegenheiten
 anderer Leute zu mischen, so kann ich dir sagen, dass das mein Sohn ist.«
  
-
+<@pagebreak/>
 »Das ist eine Lüge!« rief hitzig der kleine König.
 
 »Kühn gesprochen, und ich glaube dir, wie es auch sonst in deinem
@@ -132,6 +133,7 @@ mit einer so natürlichen und leichten Anmut, als komme es ihm von
 Gottes und Rechts wegen zu, ohne auch nur um Erlaubnis zu bitten
 oder eine Entschuldigung zu sagen. In seiner krankhaften Einbildung
 nannte er sich Kronprinz, und wahrhaftig, er hält an seiner Rolle 
+<@pagebreak/>
 fest. Arme, kleine, freundlose Ratte! Ohne Zweifel hat sein Geist
 unter fortgesetzter Misshandlung gelitten. Nun, von jetzt an will ich
 sein Freund sein. Ich habe ihn gerettet und will meine Sache nicht
@@ -147,7 +149,7 @@ heilen, wenn möglich. Ich will ihm sein, wie ein älterer Bruder,
 für ihn sorgen und über ihn wachen, und wer ihm zu nahe kommt,
 hat's mit mir zu tun.«
  
-
+<@pagebreak/>
 Er beugte sich über den Knaben und betrachtete ihn mit wohlwollendem,
 mitleidigem Interesse, streichelte zärtlich seine Wange
 und strich ihm die wirren Locken aus dem Gesicht. Ein leises Zittern
@@ -194,7 +196,7 @@ ziehe es an, ich brauche es nicht mehr.«
 Nach diesen Worten stand er auf, trat zum Waschtisch hin und
 zögerte, als ob er auf etwas warte. Henden sagte munter:
  
-
+<@pagebreak/>
 »Nun haben wir eine richtige, kräftige Suppe und einen Bissen
 zu essen. Alles ist warm und schmackhaft und wird dich wieder vollends
 auf die Beine bringen!«
@@ -247,7 +249,7 @@ Während der König aß, ließ auch seine steife Würde etwas nach,
 und mit der Stillung seines Hungers kam auch die Lust zu plaudern.
 Er sagte:
  
-
+<@pagebreak/>
 »Ich glaube, du nanntest dich Michael Henden, wenn ich recht
 hörte?«
 
@@ -293,6 +295,7 @@ dass Zeit und Zufall einst doch noch zu unserer Vereinigung
 führen würden. Hugo war es um Fräulein Ediths Vermögen zu
 tun, wiewohl er sagte, er liebe nur sie. Es war aber immer so eine
 Eigenheit von ihm, etwas zu sagen und etwas anderes zu denken. 
+<@pagebreak/>
 Aber seine Künste waren an dem Mädchen verloren; meinen Vater
 konnte er täuschen, sonst aber niemand.
 
@@ -338,6 +341,7 @@ zu und sagte sich am Schlusse:
 wunderbar, wie er aus dem luftigen Nichts in solcher Geläufigkeit
 eine so romantische Geschichte zusammenbraut. Armer kleiner kranker
 Kopf, es soll dir nicht an Schutz und Schirm fehlen, solange ich unter 
+<@pagebreak/>
 den Lebenden weile. Er soll mir nicht mehr von der Seite weichen;
 er soll mein Liebling, mein kleiner Kamerad sein. Und er soll geheilt
 werden, ja, ganz und gar. Dann wird er sich einen Namen schaffen,
@@ -382,6 +386,7 @@ Ritter es ablehnten, sich mit ihm zu messen. So wäre die Sache
 leicht zu Ungunsten Englands ausgefallen. Nun aber lag im Turm
 der Lord von Courcy, der gewaltigste Arm Englands, der wegen
 irgend eines Vergehens seiner Ehren und Besitzungen beraubt, seine 
+<@pagebreak/>
 Tage in öder Gefangenschaft dahinschleppte. Man erinnerte den
 König an diesen Helden, und da die Zeit drängte, gab er die Erlaubnis.
 Bald erschien der Lord kampfgerüstet auf dem Plan. Kaum

@@ -1,3 +1,4 @@
+<@pagebreak/>
 <h3>Vorwort.</h3>
 
 Mit vorliegendem Buche hat Mark Twain (Samuel Langhorne
@@ -36,6 +37,7 @@ derselbe dadurch nur anschaulicher, lebendiger und interessanter wird.
 Dazu bricht der köstliche Humor des Verfassers immer wieder
 durch und erhöht den Genuss der ohnehin reizvollen Lektüre.
 
+<@pagebreak/>
 Einer weiteren Empfehlung bedarf ein Buch wie das vorliegende
 nicht, um seinen Platz im Bücherregal der Jugend zu erobern und
 zu behaupten, zumal es auch an spannender Darstellung hinter den

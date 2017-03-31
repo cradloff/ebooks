@@ -35,7 +35,7 @@ länger bemeistern. Er sprang vorwärts und rief:
 
 »Schämt euch! Das ist mein Diener. Lasst ihn frei! Ich bin ...«
  
-
+<@pagebreak/>
 »Ach, seid doch stille!« rief Henden in großer Angst, »Ihr werdet
 Euch noch zu grunde richten. Gebt nicht acht auf ihn, Herr, er ist
 nicht bei Verstand.«
@@ -86,7 +86,7 @@ sprach er bei sich: »Du brave, gute Seele, das soll dir nicht vergessen
 sein! ... aber auch Herr Hugo wird daran denken!« fügte er leidenschaftlich
 hinzu.
  
-
+<@pagebreak/>
 Hendens Opfer erschien ihm um so hochherziger, je länger er
 darüber nachdachte. »Wer seinen Fürsten vor Wunden und Tod
 rettet«, meinte er, »der hat schon ein hohes Verdienst. Aber es ist
@@ -132,6 +132,7 @@ ihn; aber auch niemand wagte es, dem Gefangenen ein freundliches
 Wort der Anerkennung zuzurufen. Aber schon im bloßen Schweigen
 lag Anerkennung genug. Ein verspäteter Ankömmling indessen hatte
 von dem vorigen Zwischenfall nichts gesehen. Er wollte den »Betrüger«
+<@pagebreak/>
 verhöhnen und ihm eine tote Katze zuschleudern. Aber rasch
 wurde er ohne viel Worte von den Umstehenden niedergeboxt und
 fortgewimmelt, worauf noch einmal die frühere tiefe Stille eintrat.

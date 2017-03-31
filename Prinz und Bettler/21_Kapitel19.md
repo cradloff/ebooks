@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Neunzehntes Kapitel.</h2>
 
@@ -49,7 +50,7 @@ den Fremdling und schließlich schauten sie sich noch einmal fragend an.
 Endlich sagte eine: »Hörst du, Marga? Er sagt, er sei der König.
 Kann das richtig sein?«
  
-
+<@pagebreak/>
 »Natürlich! Wie könnte es auch anders sein, Magda? Wird er
 denn etwas sagen, was nicht wahr ist? Denn siehst du, Magda,
 wenn es nicht wahr wäre, so wäre es eine Lüge. Ja, ganz gewiss.
@@ -97,7 +98,7 @@ vergebliche Mühe. Er sprach immer nur vom Hof und dem verstorbenen
 König, als seinem Vater. Kam sie auf andere Verhältnisse,
 so zeigte er sich vollkommen teilnahmslos.
  
-
+<@pagebreak/>
 Die Frau wusste gar nicht, woran sie eigentlich mit ihm sei, aber
 sie wollte es noch ergründen. Während sie fortfuhr zu kochen, sann
 sie auf Mittel, hinter das Geheimnis des Knaben zu kommen. Sie
@@ -139,6 +140,7 @@ verbrennen.«
 
 Die Absicht war gut, aber die Ausführung entsprach ihr nicht.
 Eduard sowohl wie einst Alfred verfiel bald in Grübeleien über seine 
+<@pagebreak/>
 eigenen Angelegenheiten. Das Ergebnis war bei beiden dasselbe:
 die Speisen brannten an. Die Frau kehrte gerade noch zur rechten
 Zeit zurück, um sie vor dem gänzlichen Verderben zu retten und
@@ -181,6 +183,7 @@ für ihn, die er gutwillig übernahm. Er musste mit den Kindern
 die Frau die Arbeit wieder abnahm und ein Messer zu schleifen befahl.
 Dann musste er Wolle krempeln, bis er dachte, er habe den guten
 König Alfred nun weit in den Schatten gestellt, was gewiss in späteren 
+<@pagebreak/>
 Schulbüchern sehr anschaulich geschildert würde. Da er aber diese
 Lesebücher nicht überlasten wollte, beschloss er, tunlichst bald der
 Sache ein Ende zu machen.

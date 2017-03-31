@@ -13,6 +13,7 @@ Ziellos ging er weiter. Die Häuser wurden immer spärlicher und
 die Vorübergehenden seltener. Er badete seine blutenden Füße in
 einem Bache, ruhte eine kurze Weile und wanderte weiter. So kam
 er auf einen großen Platz, worauf nur wenige vereinzelte Häuser und 
+<@pagebreak/>
 eine mächtige Kirche standen. Diese Kirche war ihm bekannt. Hohe
 Gerüste waren aufgerichtet und Schwärme von Arbeitern hantierten
 herum, denn die Kirche sollte ausgebessert werden. Der Prinz fasste
@@ -60,7 +61,7 @@ Vaters lebt.«
 Homerisches Gelächter belohnte diesen vermeintlichen Scherz. Der
 Junge, welcher zuerst gesprochen hatte, rief seinen Kameraden zu:
  
-
+<@pagebreak/>
 »Heda, ihr Schweine, ihr Sklaven, ihr Pensionäre seines königlichen
 Vaters, sind das eure Sitten! Nieder auf eure Knie, ihr alle,
 und erweist seiner königlichen Haltung und seinen königlichen Lumpen
@@ -106,6 +107,7 @@ Bildung mildert die Sitten und macht sanft und mitleidig.«
 
 Schon begannen vereinzelte Lichter zu flimmern; es fing an zu
 regnen, der Wind erhob sich, und eine raue, stürmische Nacht brach 
+<@pagebreak/>
 herein. Der obdachlose Prinz, der heimatlose Erbe des englischen
 Thrones wanderte immer noch weiter, tiefer hinein in das Labyrinth
 der schmutzigen Gässchen, wo die schwärmenden Bienenstöcke

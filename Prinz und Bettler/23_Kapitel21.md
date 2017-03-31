@@ -32,6 +32,7 @@ rührte es nicht.
 Langsam stieg die Dämmerung herauf. Der Einsiedler bemerkte
 es und sprach scharf und mit einer nervösen Hast: »Ich kann nicht
 länger warten. Die Nacht ist vorüber. Sie schien mir nur wie ein 
+<@pagebreak/>
 Augenblick. Ich wollte, sie hätte ein Jahr gedauert. O wie süß war
 dieses Gefühl der göttlichen Vergeltung, mit der mich der Himmel
 beauftragt hat! Aber nun rüste dich, du Abkömmling des Kirchenverfolgers,
@@ -80,7 +81,7 @@ Kann ich ihn nicht einholen? Oder wann kommt er wieder?«
 »Ihr braucht Euch keine Mühe zu geben. Er wird in kurzem
 wieder hier sein.«
  
-
+<@pagebreak/>
 »Meinetwegen denn. Ich will ein bisschen warten. Aber halt!
 Ihr sandtet ihn mit einem Auftrage fort? Und dazu noch in stockdunkler
 Nacht? Das ist gewiss und wahrhaftig eine Lüge! Dazu
@@ -129,6 +130,7 @@ und fortgingen. Er war wieder allein in dumpfem Brüten
 und schrecklicher Ungewissheit.
 
 Nach einer ganzen Ewigkeit, wie ihm schien, näherten sich die 
+<@pagebreak/>
 Schritte wieder, Stimmen ertönten und das Trampeln von Hufen.
 Dann hörte er deutlich Hendens Stimme: »Länger will ich nicht
 warten. Er hat sich offenbar in diesem dichten Walde verirrt. Nach

@@ -15,6 +15,7 @@ Wie von einem alten Krieger zu erwarten stand, ging er nicht aufs
 Geratewohl darauf los, sondern machte sich erst seinen Feldzugsplan.
 Was würde der Knabe natürlicherweise tun? Wohin mochte er sich
 wenden? Ei, berechnete Henden, der natürliche Trieb zieht doch in 
+<@pagebreak/>
 solchen Fällen jeden Menschen, wenn er sich verlassen und vergessen
 fühlt, wieder in das alte Heim zurück! Und wo lag das? Seine Lumpen
 und das Aussehen des Schuftes, der sich seinen Vater nannte, wiesen
@@ -59,6 +60,7 @@ Hecke aus, um zu ruhen und nachzudenken. Aber die Schläfrigkeit
 überwältigte seine Sinne. Aus der Ferne drang nur schwach das
 Dröhnen der Geschütze an sein Ohr. Er murmelte noch vor sich hin:
 »Der neue König wird gekrönt.« Dann schlief er ein; hatte er doch 
+<@pagebreak/>
 mehr als 30 Stunden nicht mehr geschlafen. Erst um die Mitte des
 nächsten Morgens wachte er wieder auf.
 
@@ -112,7 +114,7 @@ an ihn?«
 
 »Recht gerne will ich das besorgen, Herr.«
  
-
+<@pagebreak/>
 »Dann sagt ihm doch, Michael Henden, Sohn des Herrn Richard,
 sei hier draußen. Ich werde Euch sehr verbunden sein, wenn Ihr mir
 diese Freundlichkeit erweist.«
@@ -161,6 +163,7 @@ Himmel.«
 
 Es währte nicht lange, da kam der Offizier in großer Eile zurück.
 Henden nahm all seinen Mut zusammen, um seinem Schicksal so 
+<@pagebreak/>
 ruhig wie möglich zu begegnen. Der Offizier befahl seinen Leuten,
 den Gefangenen loszulassen und ihm seinen Degen zurückzugeben.
 Dann verbeugte er sich achtungsvoll vor Henden und sagte:
@@ -208,6 +211,7 @@ Thron!«
 Er murmelte noch etwas Unverständliches vor sich hin und konnte
 nicht aufhören, hinzustarren. Endlich ließ er seine Augen über den
 ganzen Saal schweifen, um sich Gewissheit zu verschaffen, ob er wache 
+<@pagebreak/>
 oder träume. Dann sagte er zu sich: »Aber es ist doch alles Wirklichkeit,
 alles Leben. Das kann kein Traum sein.«
 
@@ -256,6 +260,7 @@ erst auf den König, dann nach dem Ritter von der traurigen
 Gestalt, der wie eine Vogelscheuche dasaß, und dann wieder auf den
 König. Sie glaubten ihren Sinnen nicht trauen zu können. Es
 waren Herr Hugo und Edith. Aber der neue Reichsbaron bemerkte 
+<@pagebreak/>
 sie nicht. Noch immer starrte er nach dem Monarchen, als wäre er
 plötzlich in den siebenten Himmel gekommen und murmelte für sich:
 »So wahr Gott lebt, das ist mein Schützling, mein irrsinniger
@@ -278,7 +283,7 @@ Alle Blicke hefteten sich auf ihn, und viele beneideten ihn.
 Nun erblickte der König auch Herrn Hugo und rief mit zorniger
 Stimme und funkelnden Augen:
  
-
+<@pagebreak/>
 »Ergreift den elenden Räuber, entkleidet ihn seines gestohlenen
 Flitters und verwahrt ihn unter Schloss und Riegel, bis ich Gericht
 über ihn halte!«

@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Dreizehntes Kapitel.</h2>
 
@@ -50,6 +51,7 @@ Henden setzte sich und rechnete noch einmal nach:
 »Mit einer größeren Börse hätte ich auch was besseres bekommen
 können, aber man muss auch mit dem zufrieden sein, was eine kleine
 gewährt. Diese Hosen sehen noch gut aus; nur hie und da einen 
+<@pagebreak/>
 Stich brauchen sie. Der Rock ist besser, wiewohl ein oder zwei Stiche
 auch nichts schaden können. Diese Strümpfe aber sind sehr gut und
 werden seine kleinen Füße warm und trocken halten. Was er wohl
@@ -96,6 +98,7 @@ Er hob die Decke ein wenig auf ... der Knabe war fort!
 
 Einen Augenblick starrte er in sprachlosem Erstaunen vor sich hin.
 Dann bemerkte er, dass auch die zerlumpten Kleider des Knaben 
+<@pagebreak/>
 fehlten. Jetzt begann er zu rasen und zu toben und nach dem Wirt
 zu rufen. Eben trat ein Diener mit dem Frühstück herein.
 
@@ -149,6 +152,7 @@ beiden herankam ...«
 »Gerade dann verschlang sie die Menge und ich sah nichts mehr.
 Auch wurde ich gerade zu meinem Meister gerufen. Man hatte nämlich
 vergessen, einem Schreiber eine bestellte Hammelkeule zu bringen. 
+<@pagebreak/>
 Mein Meister rempelte mich deswegen an, obwohl ich alle Heiligen
 zu Zeugen nehme, dass ich so unschuldig daran war, wie ein neugeborenes
 Kind ...«

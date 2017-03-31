@@ -1,3 +1,4 @@
+<@pagebreak 7/>
 
 <div class="center"><img alt="Der Unrathof" src="img02.png" width="100%" height="auto"/></div>
 
@@ -21,6 +22,7 @@ und Prunkaufzüge bewegten sich durch die Straßen. Nachts lohten
 und leuchteten Freudenfeuer auf jedem Platze, und fröhliche Menschen
 wimmelten darum. Alle aber sprachen nur von dem neugeborenen
 Kinde, von Eduard Tudor, dem ersehnten Kronprinzen<a href="99_Footnotes.xhtml#rn1" id="rn1">*</a>. 
+<@pagebreak/>
 Dieser lag indessen, eingehüllt in Seide und Atlas, in seiner Wiege,
 umgeben von hohen Herren und Damen, und ahnte nichts von all
 dem Jubel, den seine Geburt in ganz Altengland wachrief. Er

@@ -1,3 +1,4 @@
+<@pagebreak/>
 
 <h2>Zweiundzwanzigstes Kapitel.</h2>
 
@@ -41,6 +42,7 @@ Alle Versuche der Bande, den kleinen König sich und ihren Zwecken
 dienstbar zu machen, hatten fehlgeschlagen. Hartnäckig hatte er sich
 dessen geweigert, ja sogar wiederholt Fluchtversuche unternommen.
 Am ersten Tage seiner Wiederankunft hatte man ihn in eine unbewachte
+<@pagebreak/>
 Küche hineingestoßen. Aber nicht nur kehrte er mit leeren
 Händen zurück, sondern versuchte auch, die Hausbewohner aufzurütteln.
 Dann gab man ihn einem Kesselflicker als Gehilfen mit; er
@@ -84,6 +86,7 @@ trocknete, so nahm das wunde Bein eine dunkle, abstoßende Färbung
 an. Sodann wollte er es mit schmutzigen Lumpen in absichtlich
 sorgloser Weise umhüllen, so dass das Geschwür leicht zu sehen war,
 um das Mitleid der Vorübergehenden zu erregen. Mit diesem Bein 
+<@pagebreak/>
 sollte »Hans« auf der Landstraße sich Zeigen und so zur Bettelei gezwungen
 werden.
 
@@ -129,7 +132,7 @@ nahen Städtchen zu, wo sie die Straßen absuchten, der eine in der
 Hoffnung auf Beute, der andere mit der Absicht, wenn immer möglich
 zu entrinnen.
  
-
+<@pagebreak/>
 Beide verwarfen mehrere Gelegenheiten, die sich ihnen darboten,
 denn alle beide wollten diesmal sicher gehen. Hugo hatte zuerst
 Erfolg. Eine Frau kam mit einem dicken Pack in einem Korb auf
@@ -175,6 +178,7 @@ Grobschmied in Lederschürze und aufgekrempelten Ärmeln
 trat auf ihn zu und wollte ihn durchdreschen, wie er sagte. Aber
 gerade, als er sich anschickte, seine Drohung wahr zu machen, blitzte
 ein langes Schwert durch die Luft und fiel, die flache Seite nach 
+<@pagebreak/>
 unten, mit überzeugender Gewalt auf seinen bloßen Arm. Zugleich
 ließ sich der wehrhafte Eigentümer der blanken Klinge also
 vernehmen: »Ei, ihr lieben Leute, lasst uns in Güte vorgehen, nicht

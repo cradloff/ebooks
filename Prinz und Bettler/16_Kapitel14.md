@@ -14,7 +14,7 @@ Werft euer Stroh ab und kommt zu mir! Ich will euch den unglaublichsten
 Traum erzählen, der je geträumt wurde. Hört ihr nicht,
 Netty! Betty!«
  
-
+<@pagebreak/>
 Eine dunkle Gestalt erschien an seiner Seite und fragte:
 
 »Was geruht Ew. Majestät zu befehlen?«
@@ -69,6 +69,7 @@ Ah, das war nicht die Antwort, die er erwartet hatte. Der Traum
 war geplatzt wie eine Seifenblase. Er öffnete die Augen. Der erste
 Kammerherr kniete an seinem Lager und der arme Junge erkannte,
 dass er immer noch ein Gefangener und König sei. Das Gemach füllte
+<@pagebreak/>
 sich mit Höflingen in Purpurmänteln, der damaligen Trauerfarbe.
 Tom setzte sich im Bett auf und schaute hinter den schweren seidenen
 Vorhängen hervor auf die erlauchte Gesellschaft.
@@ -92,6 +93,7 @@ Besuch, dessen einziger Vorzug seine Kürze war.
 
 Darauf blieb er sich eine Weile selbst überlassen. Bald aber erhielt
 ein schmächtiger Junge von etwa zwölf Jahren Einlass. Mit 
+<@pagebreak/>
 Ausnahme der schneeigen Halskrause und dem Spitzenarmband kam
 er ganz in Schwarz gekleidet. Auf der Schulter trug er ein Scharlachband,
 sonst keinerlei Trauerabzeichen. Zögernd kam er näher mit
@@ -142,7 +144,7 @@ Ihr Euch zu erinnern?«
 
 »Ja, ich glaube. Ja, ich erinnere mich. Fahre weiter.«
  
-
+<@pagebreak/>
 »... da ward der Lehrer ärgerlich über das, was er höchst plumpe,
 liederliche Fehler nannte und gelobte, mich gehörig dafür peitschen
 zu lassen, und ...«
@@ -194,7 +196,7 @@ Wort einlegen zu wollen ...«
 »Du siehst, mein Gedächtnis bessert sich. Übrigens beruhige dich.
 Du sollst ohne Schläge davonkommen. Dafür will ich sorgen.«
  
-
+<@pagebreak/>
 »O tausend Dank, mein guter Herr!« rief der Knabe und fiel
 wieder auf die Knie: »Ich fürchtete, ich sei jetzt schon zu weit gegangen,
 und dennoch...«
@@ -244,6 +246,7 @@ Nun forderte ihn Tom auf, ein wenig mit ihm zu plaudern, was
 sich dieser nicht zweimal sagen ließ. Glaubte er doch, auf diese Weise
 Toms Gedächtnis ein wenig aufhelfen zu können. So kam er auf
 alle möglichen Vorgänge und Einzelheiten im früheren Leben des 
+<@pagebreak/>
 wirklichen Prinzen, wie auch der ganzen königlichen Familie und der
 Hofhaltung zu sprechen, so dass Tom ein ziemlich klares Bild »seiner«
 Vergangenheit und Umgebung gewann. Er entschloss sich, diese

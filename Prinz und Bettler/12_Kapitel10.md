@@ -39,7 +39,7 @@ prügeln, soviel du willst. Stell dich hierher, Bursche. So, nun sag
 deine Narretei nochmals, wenn du sie nicht vergessen hast. Nenne
 deinen Namen. Wer bist du?«
  
-
+<@pagebreak/>
 Das Blut schoss dem entrüsteten Prinzen in die Wangen. Er
 schaute dem Mann fest und zornig ins Gesicht und erwiderte:
 
@@ -64,6 +64,7 @@ forschend an. Dann sagte sie:
 
 »Ach, mein armer Junge! Das kommt von deinem törichten
 Lesen, das dir nun gar den Verstand genommen hat. Wie oft habe 
+<@pagebreak/>
 ich dich davor gewarnt! Dass du auch nicht auf mich hören musstest!
 Du brichst deiner armen Mutter das Herz.«
 
@@ -116,6 +117,7 @@ Sachen. Ich sage dir wieder: ich bin der Königssohn.«
 Ein klatschender Schlag von der breiten Hand Cantys fiel auf die
 Schulter des Prinzen, welcher taumelnd seiner vermeintlichen Mutter
 in die Arme flog. Sie drückte ihn an sich und schützte ihn vor dem 
+<@pagebreak/>
 Hagel von Schlägen und Püffen, die nun auf sie selbst niederprasselten.
 Erschreckt flohen die Mädchen in ihre Ecken zurück, aber die Großmutter
 kam eifrig näher, um ihrem Sohne beizustehen. Der Prinz
@@ -161,6 +163,7 @@ Sohn wäre? Aber es war doch undenkbar! Sie lächelte beinahe
 wollte sie doch nicht verlassen. Er verfolgte sie, quälte sie, klammerte
 sich an sie und wollte sich nicht verscheuchen lassen. Sie fühlte, dass
 sie keine Ruhe mehr finden würde, bis sie sich felsenfest überzeugt 
+<@pagebreak/>
 hätte, ob dieser Knabe wirklich ihr Sohn sei oder nicht. Sie grübelte
 also darüber nach, wie sie diesen Beweis sich verschaffen könnte. Aber
 die Aufgabe war nicht allzu leicht. Sie erwog das und jenes, verwarf
@@ -205,7 +208,7 @@ ihres Versuches. Sie wollte sich zuerst einreden, der Irrsinn habe
 Tom auch seine altgewohnte Bewegung geraubt: aber sie konnte
 selbst nicht recht daran glauben.
  
-
+<@pagebreak/>
 »Nein«, sagte sie sich, »die Hände sind doch nicht verrückt, so
 schnell könnten sie ihre Angewöhnung nicht verlernen. O, das ist ein
 schwerer Tag für mich.«
@@ -256,6 +259,7 @@ All das Elend, dem der Schlaf ihn so gnädig entrückt hatte, kehrte
 zurück. Er war also nicht mehr der verhätschelte Prinz, auf dem die
 Augen eines ganzen Volkes voll Verehrung ruhten, sondern ein
 armer, ausgestoßener Bettler, in Lumpen gekleidet, als Gefangener 
+<@pagebreak/>
 in einem Loche, das gerade noch für Tiere gut genug war, und in
 Gesellschaft vielleicht mit Dieben.
 
@@ -308,6 +312,7 @@ dem Flussufer zu. Soweit man sehen konnte, waren dort längs der
 Themse auf- und abwärts Freudenfeuer angezündet. Die Londoner
 und andere Brücken erstrahlten wie in einem Licht. Der ganze
 Fluss schien zu glühen von dem Blitzen und Schimmern von farbigen 
+<@pagebreak/>
 Lichtern. Unaufhörlich fuhren Raketen zischend in die Luft, verschlangen
 sich dort ineinander und lösten sich prasselnd in einen
 dichten Funkenregen auf, der die Nacht beinahe zum Tage machte.
@@ -356,6 +361,7 @@ Ozeans.
 
 Dieser Tatsache ward er sich bald bewusst. Ebenso war ihm klargeworden,
 dass ein untergeschobener Kronprinz an seiner Stelle von 
+<@pagebreak/>
 der Stadt gefeiert wurde. Tom Canty, der arme Bursche, musste
 vorbedacht die verlockende Gelegenheit benutzt haben und zum Thronräuber
 geworden sein.

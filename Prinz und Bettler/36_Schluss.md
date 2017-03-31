@@ -6,6 +6,7 @@
 Bei der vorgenommenen Untersuchung stellte es sich heraus, dass
 Hugo Henden seine Frau gezwungen hatte, Michael zu verleugnen.
 Er hatte ihr gedroht, sie umzubringen, falls sie seinem Befehle nicht 
+<@pagebreak/>
 nachkomme. Das schreckte sie nicht ab, da ihr wenig mehr am Dasein
 gelegen war. Sie weigerte sich also, ihren einstigen Geliebten zu
 verstoßen. Nun aber drohte ihr Hugo, er werde sie zwar verschonen,
@@ -53,7 +54,7 @@ beklagten sie ihn schmerzlich. Die Strapazen und Entbehrungen auf
 seinen Irrfahrten waren nicht ohne ernste Nachwirkungen für ihn geblieben
 und hatten seine Gesundheit untergraben.
  
-
+<@pagebreak/>
 Der gute Graf von Kent war zu verständig, um sein Vorrecht zu
 missbrauchen. Aber er übte es noch zweimal aus: bei der Thronbesteigung
 der Königin Maria und wieder bei der Krönung Elisabeths.

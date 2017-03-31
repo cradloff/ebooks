@@ -18,6 +18,7 @@ Allein Graf Berkeley befestigte ihm erst eine Serviette um den
 Nacken. Dann kam Toms Mundschenk und versorgte ihn mit Wein.
 Auch der Truchseß war da, der auf Verlangen jede verdächtige Speise
 kosten musste, auf die Gefahr hin zu sterben, wenn sie wirklich vergiftet
+<@pagebreak/>
 war. Zu dieser Zeit freilich kam er schwerlich mehr in den
 Fall, sein Amt ausüben zu müssen. Aber es hatte Zeiten gegeben
 und es war noch nicht lange her, wo dieser Dienst sehr gefährlich war
@@ -62,6 +63,7 @@ stecken. In diesem Augenblick kitzelte ihn etwas an der Nase. Seines
 vorigen Fehlers eingedenk, wagte er nicht, selbst Abhilfe zu schaffen.
 Er verzerrte seine Gesichtsmuskeln auf die unglaublichste Weise, um
 diesen Reiz abzuschwächen. Flehend schaute er die Herren der Reihe 
+<@pagebreak/>
 nach an, und Tränen traten ihm in die Augen. Mit besorgter Miene
 eilten die Edlen herbei, um sich nach seinen Wünschen zu erkundigen.
 Tom erwiderte ängstlich: »Ich bitte um Nachsicht; es juckt mich heftig
@@ -106,6 +108,7 @@ mit prächtigen, in Gold ausgelegten Zeichnungen. Diese kriegerische
 Rüstung gehörte dem wahren Prinzen und war ein neuliches
 Geschenk von Madame Parr, der Königin. Tom legte sich die
 Beinschienen, die Panzerhandschuhe, den Helm mit dem Federbusch 
+<@pagebreak/>
 und andere Stücke an, soweit er es ohne fremde Hilfe tun konnte.
 Dann wollte er nach Beistand rufen zur Anlegung der übrigen
 Rüstung, als er sich plötzlich der Nüsse erinnerte, die er vom Nachtisch

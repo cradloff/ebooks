@@ -29,6 +29,7 @@ an dieser Nuss herumknackte, es gelang ihm nicht, sie zu öffnen.
 Schließlich machte er es ähnlich, wie der Fuchs mit den Trauben,
 und sagte sich, es sei eine faule Nuss. Denn immer mehr gelangte
 er zur Überzeugung, dass sie ihn erkannt haben müsse und nun aus 
+<@pagebreak/>
 selbstsüchtigen Gründen von ihm nichts habe wissen wollen. Er war
 drauf und dran, ihren Namen, der ihm so lange heilig und köstlich
 erschienen war, zu verwünschen. Aber er konnte es nicht über sich
@@ -78,7 +79,7 @@ Der Wärter lachte.
 »Hier«, sagte er, »sieh dir mal diesen großen Kerl an, und dann
 sage mir deine Meinung.«
  
-
+<@pagebreak/>
 Der alte Diener trat näher und betrachtete Henden ernst und
 forschend. Dann schüttelte er den Kopf und erwiderte:
 
@@ -106,6 +107,7 @@ vor Henden plötzlich auf die Knie und flüsterte:
 
 »Dem Himmel sei Dank, dass Ihr wieder gekommen seid, gnädigster
 Herr! Ich glaubte, Ihr wäret schon seit sieben Jahren tot, 
+<@pagebreak/>
 und wahrhaftig! da seid Ihr ja noch am Leben. Ich erkannte Euch
 beim ersten Anblick. Die Verstellung kam mich schwer an. Ich
 konnte mich kaum der Tränen erwehren, als ich Euch mitten unter
@@ -148,6 +150,7 @@ Heirat statt. Sie erwies sich nicht als glücklich. Man flüsterte sich
 zu, kurz nach der Hochzeit habe Edith unter den Papieren ihres
 Gemahls mehrere Blätter gefunden, worauf in den verstellten
 Schriftzügen ihres Mannes verschiedene Bruchstücke des verhängnisvollen
+<@pagebreak/>
 Briefes aufgesetzt waren. Darauf hatte Edith ihrem Gemahl
 den Vorwurf gemacht, er habe die Heirat mit unredlichen, gemeinen
 Mitteln zustande gebracht und zugleich den Tod ihres Vormundes
@@ -206,7 +209,7 @@ Der König fragte scharf:
 
 Eduard fuhr heftig auf:
  
-
+<@pagebreak/>
 »Des Königs!« rief er. »Welches Königs?«
 
 »Welches Königs? Ist das eine Frage! Da wir nur einen haben,
@@ -255,7 +258,7 @@ Sie versuchten dem Gespräch eine andere Richtung zu geben.
 Aber sein Interesse war nun einmal rege geworden, und er fragte
 weiter:
  
-
+<@pagebreak/>
 »Wollen sie euch peitschen? Ach nein, so grausam werden sie
 nicht sein! Nicht wahr, sie werden euch nicht peitschen?«
 
@@ -304,6 +307,7 @@ Leute in England gepeitscht werden! Es wäre eine Schande selbst
 für ein Land der Heiden! Sie werden gezüchtigt, und ich, den sie
 getröstet und so freundlich behandelt haben, muss ihrer Schmach
 zusehen. Ich, der Höchste in England, der oberste Gesetzgeber, 
+<@pagebreak/>
 stehe ohnmächtig da. Aber es kommt ein Tag, wo alles das gesühnt
 werden soll.«
 
@@ -347,6 +351,7 @@ aber nur eine Sekunde. Dann wandte er sich ab und lehnte sein
 aschfarbenes Gesicht an die Mauer. Er wagte nicht mehr aufzuschauen.
 »Wollte Gott, ich wäre blind!« dachte er. »Was ich gesehen
 habe in diesem einzigen kurzen Augenblick, wird meinem Gedächtnis 
+<@pagebreak/>
 nie entschwinden. Tag und Nacht wird es mir vor Augen schweben,
 bis zu meiner Todesstunde. Ach, hätte ich es doch nicht sehen
 müssen!«
@@ -392,7 +397,7 @@ einst seine Ohren gewesen waren.
 Dem König wurden die Augen vor Mitleid feucht. Er sprach zu
 ihm:
  
-
+<@pagebreak/>
 »Keiner will an mich glauben, und du auch nicht. Aber das tut
 nichts zur Sache. Bevor ein Monat vergeht, sollst du frei sein. Noch
 mehr: die Paragraphen, die dich also geschändet haben und England

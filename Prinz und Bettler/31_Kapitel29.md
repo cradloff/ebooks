@@ -38,7 +38,7 @@ sein, in die Stadt zurückzukehren, wo er offenbar soviel erduldet
 hatte? Er musste sich auf alle Fälle Gewissheit darüber verschaffen.
 Der Ritter hielt also sein Tier an und rief:
  
-
+<@pagebreak/>
 »Ich habe ganz vergessen zu fragen, wohin Ihr reiten wollt. Was
 befehlt Ihr, mein Fürst?«
 

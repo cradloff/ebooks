@@ -23,6 +23,7 @@ habe. Er flüsterte ihm also zu, er möge nur einen Wink
 mit der Hand geben. Als die Herren sich zurückgezogen hatten,
 sagte Lord St. John: »Seine Majestät befiehlt aus gewichtigen
 Staatsgründen, seine Gnaden, der Prinz möge, soweit möglich, seine 
+<@pagebreak/>
 Krankheit verhehlen, bis sie vorbei ist. So soll er vor allem niemals
 behaupten, er sei nicht der wahre Prinz und Erbe von England-Krone.
 Er soll seine prinzliche Würde jederzeit und jedermann gegenüber
@@ -67,6 +68,7 @@ In diesem Augenblick wurden Prinzessin Elisabeth und Fräulein
 Johanna Grey angemeldet. Die beiden Lords warfen einander
 verständnisinnige Blicke zu, und Hertford schritt nach der Tür.
 Wie die jungen Mädchen an ihm vorübergehen wollten, flüsterte 
+<@pagebreak/>
 er ihnen zu: »Ich bitte Euch, meine Fräulein, beachtet scheinbar
 seinen Zustand nicht und zeigt auch keine Überraschung, wenn ihn
 sein Gedächtnis im Stich lässt, was bei jeder Kleinigkeit vorkommt.«
@@ -113,6 +115,7 @@ soviele Sprachen sprechen wie er, mein lieber Prinz.«
 um sich den Schweinen im Stalle verständlich zu machen.
 Von Gelehrsamkeit aber ...«
  
+<@pagebreak/>
 Er schaute auf und begegnete einem warnenden Blick aus Lord
 St. Johns Augen. Er hielt inne, errötete und fuhr dann leise und
 traurig fort: »Ach, meine Schwäche befällt mich wieder; ich war
@@ -159,6 +162,7 @@ Bruder, dass wir uns zurückziehen?«
 
 Tom erwiderte: »Was immer Ihr von mir wünscht, ist Euch gewährt.
 Doch möchte ich euch lieber alles andere geben, was in 
+<@pagebreak/>
 meiner Macht steht, als die Erlaubnis, das Licht und das Glück, das
 euere Anwesenheit hier verbreitet, fortzunehmen. Doch da ihr
 es wünscht, so geleite euch Gott!«
@@ -208,6 +212,7 @@ heraus, was denkst du davon?«
 
 »Was mich nachdenklich macht, ist das: der König ist seinem Ende
 nahe; mein Neffe ist irrsinnig. Irrsinnig wird er den Thron besteigen 
+<@pagebreak/>
 und irrsinnig bleiben. Gott schütze England! Es wird seinen
 Schutz brauchen können.«
 
@@ -253,6 +258,7 @@ nicht mehr erinnerte, die er doch sechzig Jahre lang gekannt hatte,
 und sich selbst für einen anderen hielt. Er behauptete sogar, er sei
 der Sohn Maria Magdalenas und sein Kopf sei aus Glas gemacht.
 Er duldete nicht, dass ihm jemand nahe kam, aus Furcht, sein Kopf 
+<@pagebreak/>
 könnte in Splitter gehen. Beschwichtige also deinen Argwohn, mein
 lieber Lord. Er ist der wahre Prinz, ich kenne ihn recht gut, und
 bald wird er dein König heißen; lass es dir gesagt sein und vergiss

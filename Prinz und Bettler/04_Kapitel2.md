@@ -30,6 +30,7 @@ jeder das beste davon, das ihm in die Hände fiel.
 
 Netty und Betty waren Zwillinge von fünfzehn Jahren. Es
 waren gutmütige Mädchen, aber unsauber, zerlumpt und unwissend. 
+<@pagebreak/>
 Ihre Mutter war auch nicht anders, aber der Vater und die Großmutter
 waren sehr bösartig. Sie betranken sich, so oft sie konnten
 und dann prügelten sie einander, wenn ihnen nicht sonst jemand in
@@ -73,7 +74,7 @@ bei Vater Andreas, der ihm herrliche alte Geschichten von Riesen und
 Feen, Zwergen und Elfen, verzauberten Schlössern, mächtigen Königen
 und schmucken Prinzen erzählte.
  
-
+<@pagebreak/>
 Mit der Zeit wurde sein Kopf ganz voll von diesen wunderbaren
 Dingen. Gar oft in der Nacht, wenn er im Dunkel auf seinem elenden,
 rauen Stroh lag, müde, hungrig und mit zerschlagenen Gliedern,
@@ -117,7 +118,7 @@ Insgeheim gründete Tom sogar einen Hofstaat. Er war der Prinz.
 Aus seinen besseren Kameraden bildete er Leibwachen, Kammerherren,
 Marschälle, Hofbeamte aller Art, sowie die Königliche Familie.
  
-
+<@pagebreak/>
 Täglich gab er unter ausgesuchten Zeremonien Audienz und besprach
 mit seinen Kabinettsräten die wichtigen Angelegenheiten seines
 Phantasiereiches. Täglich erließ er Verordnungen und Befehle an

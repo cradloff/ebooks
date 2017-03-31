@@ -28,6 +28,7 @@ von ...«
 
 Er brach plötzlich ab. Sein Gesicht wurde auf einmal aschfahl.
 Die Diener legten ihn sanft in die Kissen zurück und reichten ihm 
+<@pagebreak/>
 Stärkungsmittel. Als er sich wieder erholt hatte, fuhr er fort: »O
 wie habe ich mich gesehnt nach diesem köstlichen Augenblick und ach!
 jetzt kommt er zu spät; ich kann nicht mehr. Doch zögert nicht, säumet
@@ -75,6 +76,7 @@ Hoheit nachzusuchen.«
 
 Stöhnend unterbrach ihn der König bei diesen Worten und sagte
 mit tieftrauriger Stimme: »Belästiget ihn nicht mehr, den armen 
+<@pagebreak/>
 Prinzen. Die Hand Gottes liegt schwer auf ihm, und mein Herz
 verzehrt sich in Mitleid und Sorge um ihn. O könnte ich doch seine
 Bürde auf meine eigenen alten, lastgewohnten Schultern nehmen

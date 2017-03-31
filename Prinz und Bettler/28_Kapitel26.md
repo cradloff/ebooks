@@ -1,5 +1,5 @@
 
-<h2>Sechsundzwanzigstss Kapitel.</h2>
+<h2>Sechsundzwanzigstes Kapitel.</h2>
 
 <h3>Wie Michael Henden seine schwerste Stunde verlebt.</h3>
 
@@ -22,6 +22,7 @@ von Kindesbeinen an.«
 »Wirklich? Findest du denn nicht merkwürdig, dass nicht das
 ganze Land von Eilboten und Aufrufen wimmelt, die nach mir
 suchen und meine Person beschreiben? Ist es nicht höchst betrübend, 
+<@pagebreak/>
 dass das Staatsoberhaupt verschwunden ist? Dass ich einfach wie
 vom Erdboden vertilgt bin?«
 
@@ -71,6 +72,7 @@ einhändigte, nahm es dieser und steckte es in die Tasche, fast ohne
 zu wissen, was er tat. »Wie so ganz sonderbar sie sich benahm«,
 murmelte er. »Mir ist, als hätte sie mich doch erkannt. Aber sicher
 bin ich nicht. Es wäre doch unbegreiflich, wenn ihr mein Gesicht, 
+<@pagebreak/>
 meine Stimme, meine ganze Haltung fremd erschienen wäre. So
 sehr kann ich mich doch nicht verändert haben. Und dennoch sagte
 sie, sie kenne mich nicht. Das sollte mir doch genügen. Eine Lüge
@@ -117,6 +119,7 @@ noch lebte.«
 »Ich denke ja auch, dass Ihr es glaubt. Ich zweifle gar nicht
 an Euerer Ehrenhaftigkeit, aber ich warne Euch; das ist alles. Mein
 Gemahl ist hier unbeschränkter Gebieter. Seine Macht kennt kaum 
+<@pagebreak/>
 eine Grenze. Von ihm hängt es ab, ob hier die Leute hungern oder
 gedeihen. Würdet Ihr unserem Michael nicht so ähnlich sehen, so
 hätte Euch mein Gemahl wohl in Frieden ziehen lassen. Aber
@@ -164,7 +167,7 @@ Henden?«
 
 »Nein, ich kenne Euch nicht.«
  
-
+<@pagebreak/>
 »Beschwöret es.«
 
 Diesmal kam die Antwort leise, aber doch deutlich genug:

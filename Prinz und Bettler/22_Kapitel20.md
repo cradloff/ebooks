@@ -23,6 +23,7 @@ Ort übernachten zu müssen. Das Dickicht wurde immer unwegsamer
 und die Dunkelheit stärker. Er stolperte über Baumwurzeln, verwickelte
 sich in Schlinggewächse und verwundete sich an Dornen.
 Wie froh atmete er auf, als er endlich einen Lichtschimmer zwischen 
+<@pagebreak/>
 den Bäumen hindurch bemerkte. Behutsam trat er vorwärts und
 lauschte. Das Licht drang aus dem ungeglasten Fenster einer armseligen
 kleinen Hütte. Jetzt wurde auch eine Stimme hörbar, bei
@@ -70,7 +71,7 @@ seine Glieder in Lumpen hüllt, um sein Leben der Heiligung und
 Abtötung des Fleisches zu weihen, der ist würdig, der ist willkommen!
 Hier soll er wohnen all seine Tage, bis der Tod ihn holt.«
  
-
+<@pagebreak/>
 Der König wollte ihn unterbrechen und ihm den wahren Sachverhalt
 erklären. Aber der Eremit ließ ihn nicht zum Worte kommen,
 ja, er hörte ihn augenscheinlich nicht einmal. Mit erhobener Stimme
@@ -114,6 +115,7 @@ diese Atmosphäre, ohne Furcht zu empfinden, denn es ist die eigentliche
 Luft des Himmels. Ich versetze mich in die himmlischen Gefilde
 und kehre von dort zurück in einem Augenzwinkern. An dieser
 Stelle hier ward ich vor fünf Jahren zum Erzengel erkoren, und 
+<@pagebreak/>
 zwar kamen Engel vom Himmel, um mir diese erhabene Würde zu
 übertragen. Blendendes Licht erfüllte dieses Gemach, solange sie
 hier weilten. Und sie knieten vor mir, o König, ah, sie knieten vor
@@ -157,6 +159,7 @@ den Knaben in einem anstoßenden kleinen Zimmerchen zu Bette.
 So sorgsam und liebevoll deckte er ihn zu, wie es eine Mutter kaum
 besser gemacht hätte. Schließlich küsste er ihn auf die Stirn und
 verließ ihn. Draußen setzte er sich am Feuer nieder und stocherte 
+<@pagebreak/>
 wie geistesabwesend in der Glut herum. Plötzlich hielt er inne,
 tippte sich mehrmals mit dem Finger an die Stirn, als suche er
 etwas in sein Gedächtnis zurückzurufen. Augenscheinlich aber glückte
@@ -205,6 +208,7 @@ kleideten sich zuweilen in Worte.
 ist er hinuntergefahren ins höllische Feuer. Ja, hinunter ins höllische
 Feuer. Unserer Rache ist er entgangen, aber es war Gottes Wille.
 Wir dürfen uns darüber nicht aufhalten. Aber dem Höllenfeuer ist 
+<@pagebreak/>
 er nicht entronnen, dem verzehrenden, mitleidlosen, unerbittlichen
 Feuer der Hölle, das in Ewigkeit fortdauert.«
 
@@ -234,6 +238,7 @@ vorüber gehen.«
 
 Er glitt in seiner Hütte herum, nahm hier etwas und dort etwas
 und kehrte damit ins Zimmer des Königs zurück. Es gelang ihm, 
+<@pagebreak/>
 seinem kleinen Gaste die Knöchel zusammen zu binden, ohne ihn
 selbst zu wecken. Dann versuchte er ihm auch die Handgelenke zu
 schnüren. Aber der Knabe zog immer im letzten Augenblicke noch die
