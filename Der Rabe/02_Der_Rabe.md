@@ -107,7 +107,7 @@ Schien auch wenig Sinn zu liegen
 in dem Wort bedeutungsleer;
 Denn wohl Keiner könnte sagen, 
 dass ihm je in seinen Tagen
-Sonder Zier und sonder Zügen 
+Sonder Zier und sonder Zagen 
 so ein Tier erschienen wär’,
 Das auf seiner Marmorbüste 
 ob der Tür gesessen wär’
