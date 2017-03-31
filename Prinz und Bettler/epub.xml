@@ -21,9 +21,9 @@
 <!-- Rechte/Lizenz (z.B. Public Domain) -->
 <entry key="rights"></entry>
 <!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
-<entry key="pubDate"></entry>
+<entry key="pubDate">1905</entry>
 <!-- Cover-Bild (default cover.*) -->
-<entry key="cover"></entry>
+<entry key="cover">cover.jpg</entry>
 <!-- Inhaltsverzeichnis generieren? (true/false) -->
 <entry key="toc">true</entry>
 <!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
