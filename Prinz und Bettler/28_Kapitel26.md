@@ -15,15 +15,15 @@ von Kindesbeinen an.«
 
 »Nicht von ihm? Ja, von was denn? Was ist denn sonderbar?«
 
-»Dass der König nicht vermisst wird.«
+»Daß der König nicht vermißt wird.«
 
 »Wie? Was? Ihr sprecht in Rätseln.«
 
-»Wirklich? Findest du denn nicht merkwürdig, dass nicht das
+»Wirklich? Findest du denn nicht merkwürdig, daß nicht das
 ganze Land von Eilboten und Aufrufen wimmelt, die nach mir
 suchen und meine Person beschreiben? Ist es nicht höchst betrübend, 
 <@pagebreak/>
-dass das Staatsoberhaupt verschwunden ist? Dass ich einfach wie
+daß das Staatsoberhaupt verschwunden ist? Daß ich einfach wie
 vom Erdboden vertilgt bin?«
 
 »In der Tat, mein König, daran hatte ich gar nicht gedacht.«
@@ -61,7 +61,7 @@ Damit ergriff er eine Feder und fing an zu schreiben. Henden
 schaute ihm liebevoll zu und sagte sich: »Wäre es Nacht, so könnte
 ich annehmen, ein König hätte gesprochen. Wenn die Laune ihn
 wieder ankommt, so donnert und blitzt er, wie ein richtiger König.
-Das lässt sich gar nicht bestreiten. Wo er das nur her hat? Jetzt
+Das läßt sich gar nicht bestreiten. Wo er das nur her hat? Jetzt
 kribbelt und kratzt er vergnügt drauf los und glaubt, das sei lateinisch
 und griechisch. Wenn nicht etwas dazwischen kommt, so schickt er
 mich wahrhaftig morgen mit diesem Unsinn nach London.«
@@ -77,10 +77,10 @@ meine Stimme, meine ganze Haltung fremd erschienen wäre. So
 sehr kann ich mich doch nicht verändert haben. Und dennoch sagte
 sie, sie kenne mich nicht. Das sollte mir doch genügen. Eine Lüge
 kann sie nicht über die Lippen bringen. Doch halt, da fällt mir
-etwas ein. Vielleicht hat er sie beeinflusst, einen Druck auf sie ausgeübt,
+etwas ein. Vielleicht hat er sie beeinflußt, einen Druck auf sie ausgeübt,
 sie vielleicht sogar gezwungen zu lügen. Wahrhaftig, so wird
 es sein! Das Rätsel ist gelöst. Sie schien ja auch zu Tode erschrocken.
-Gewiss! sie stand unter seinem Einfluss. Ich will sie aufsuchen, sie
+Gewiß! sie stand unter seinem Einfluß. Ich will sie aufsuchen, sie
 finden. Jetzt, da er fort ist, wird sie sich nicht länger verstellen. Sie
 wird sich der alten Zeit erinnern, da wir zusammen spielten. Ihr
 Herz wird sich erweichen und mir offenbaren. Hinterlist und Verrat
@@ -89,7 +89,7 @@ mich geliebt in jenen alten, glücklichen Tagen; das bürgt mir dafür.
 Wen man geliebt hat, den kann man nicht verraten.«
 
 Wie er auf die Tür zueilen wollte, öffnete sich diese von außen,
-und die Gesuchte trat herein. Sie war noch immer blass, aber ihr
+und die Gesuchte trat herein. Sie war noch immer blaß, aber ihr
 Schritt war ruhig und fest, ihre ganze Haltung voll Anmut und
 sanfter Würde. Aber ihr Gesicht war noch eben so traurig.
 
@@ -102,7 +102,7 @@ Edith eröffnete das Gespräch:
 
 »Herr, ich bin gekommen, um Euch zu warnen. Es ist vielleicht
 nicht möglich, einen Irrsinnigen von einer fixen Idee zu heilen.
-Sicherlich aber lässt er sich bereden, Gefahren aus dem Wege zu gehen.
+Sicherlich aber läßt er sich bereden, Gefahren aus dem Wege zu gehen.
 Ich bin der Ansicht, Ihr seiet von dem überzeugt, was Ihr vorgebet.
 Deshalb erblicke ich auch kein Verbrechen darin. Trotz alledem ist
 es aber gefährlich, länger hier zu bleiben.«
@@ -116,7 +116,7 @@ noch lebte.«
 
 »Aber beim Himmel, gnädige Frau, ich bin doch Michael.«
 
-»Ich denke ja auch, dass Ihr es glaubt. Ich zweifle gar nicht
+»Ich denke ja auch, daß Ihr es glaubt. Ich zweifle gar nicht
 an Euerer Ehrenhaftigkeit, aber ich warne Euch; das ist alles. Mein
 Gemahl ist hier unbeschränkter Gebieter. Seine Macht kennt kaum 
 <@pagebreak/>
@@ -128,8 +128,8 @@ seiet ein irrsinniger Betrüger, und alle werden ihm recht geben.«
 
 Wieder schaute sie Michael fest an und fuhr fort:
 
-»Wenn Ihr Michael Henden wäret, und mein Gemahl wüsste
-es, und die ganze Gegend wüsste es -- beachtet wohl, was ich sage
+»Wenn Ihr Michael Henden wäret, und mein Gemahl wüßte
+es, und die ganze Gegend wüßte es -- beachtet wohl, was ich sage
 und erwäget meine Worte recht -- so würdet Ihr ganz in der nämlichen
 Gefahr schweben, und Euere Strafe wäre Euch nicht weniger
 sicher. Er würde Euch verleugnen und den Gerichten als Betrüger
@@ -145,7 +145,7 @@ und man nicht einmal Gefahr läuft, sich selbst die Finger zu verbrennen.«
 Die Dame verfärbte sich ein klein wenig und senkte die Augen.
 Aber ihre Stimme verriet keine Bewegung, als sie weiterfuhr:
 
-»Ich habe Euch nun gewarnt und muss Euch nochmals warnen:
+»Ich habe Euch nun gewarnt und muß Euch nochmals warnen:
 geht fort von hier! Dieser Mann wird Euch sonst verderben. Er
 ist ein Tyrann, der kein Mitleid kennt. Ich selbst bin nur seine verhätschelte
 Sklavin und weiß, was ich sage. Der arme Michael und
@@ -155,13 +155,13 @@ dieses Bösewichts. Mit Eueren Ansprüchen bedroht Ihr seine eigenen.
 Ihr habt ihn im eigenen Hause angegriffen. Bleibt Ihr, so ist's um
 Euch geschehen. Geht, zaudert nicht länger. Braucht Ihr Geld,
 so nehmt hier, ich bitte Euch herzlich, diese Börse und bestecht die
-Bedienten, dass sie Euch ziehen lassen. O lasst Euch warnen, armer
+Bedienten, daß sie Euch ziehen lassen. O laßt Euch warnen, armer
 Mann, und entflieht, solange es Euch noch vergönnt ist!«
 
 Michael lehnte die Börse beinahe unwillig ab, stand auf und
 stellte sich vor die Dame hin.
 
-»Nur eines gewährt mir«, sagte er. »Lasst mich in Euere Augen
+»Nur eines gewährt mir«, sagte er. »Laßt mich in Euere Augen
 sehen, ob sie ruhig sind. So, nun antwortet mir. Bin ich Michael
 Henden?«
 

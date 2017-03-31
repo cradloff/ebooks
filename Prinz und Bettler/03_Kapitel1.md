@@ -12,9 +12,9 @@ geboren, der ihr recht unerwünscht kam. Am selben Tage wurde
 aber auch einer reichen Familie, namens Tudor, ein Kind geboren
 und jubelnd aufgenommen. Und nicht nur seine Eltern, sondern
 ganz England begrüßte freudig seine Ankunft. Nach diesem Kinde,
-das auch ein Knabe war, hatte sich das Volk so sehr gesehnt, dass es
+das auch ein Knabe war, hatte sich das Volk so sehr gesehnt, daß es
 bei seinem Erscheinen beinahe närrisch vor Freude ward. Leute,
-die sich nur vom Hörensagen kannten, umarmten und küssten einander
+die sich nur vom Hörensagen kannten, umarmten und küßten einander
 auf offener Straße. Hoch und niedrig, reich und arm, alle
 waren in festlicher Stimmung. Tag und Nacht hörte der Jubel in
 den Straßen nicht auf. Flatternde Fahnen grüßten von jedem Hause,
@@ -27,7 +27,7 @@ Dieser lag indessen, eingehüllt in Seide und Atlas, in seiner Wiege,
 umgeben von hohen Herren und Damen, und ahnte nichts von all
 dem Jubel, den seine Geburt in ganz Altengland wachrief. Er
 würde sich auch schwerlich etwas daraus gemacht haben, wenn er
-es gewusst hätte.
+es gewußt hätte.
 
 Tom Canty aber, das andere Kind, lag in armselige Lumpen
 eingewickelt, in einem Winkel auf Stroh, und niemand sprach von

@@ -4,7 +4,7 @@
 <h3>Wie sich Henden für den König opfert.</h3>
 
 Henden war indessen seiner erzwungenen Untätigkeit überdrüssig
-geworden. Er vernahm daher mit großer Befriedigung, dass der
+geworden. Er vernahm daher mit großer Befriedigung, daß der
 Tag seiner Aburteilung erschienen sei. Mochte kommen, was da
 wollte, wenn er nur nicht länger gefangen blieb. Vor Gericht ward
 er als lümmelhafter Landstreicher geschildert, was ihn nicht gerade
@@ -17,7 +17,7 @@ Er drohte und raste auf dem Weg zur Richtstätte, was ihm weiter
 nichts als Püffe und grobe Schimpfworte eintrug.
 
 Eine dichtgescharte, lärmende Menge folgte dem Verurteilten,
-so dass es dem König nicht gelang, bis zu ihm vorzudringen. Er
+so daß es dem König nicht gelang, bis zu ihm vorzudringen. Er
 wäre selbst vor Gericht beinahe bestraft worden, weil er in solcher
 Gesellschaft befunden wurde. Aber schließlich ließ man ihn in anbetracht
 seiner Jugend mit einem strengen Verweis gehen.
@@ -27,13 +27,13 @@ mit vieler Mühe hindurch zu winden und seinen Beschützer in Sicht
 zu bekommen. Da lag sein armer Gefolgsmann in den Stock gespannt.
 Ein höhnender, gaffender, gemeiner Pöbel umgab ihn, ihn,
 den obersten Diener des Königs von England. Eduard hatte zwar
-den Richterspruch vernommen, aber nicht gewusst, was er eigentlich
+den Richterspruch vernommen, aber nicht gewußt, was er eigentlich
 bedeute. Jetzt röteten sich seine Wangen in edlem Zorn. Als aber
 erst ein faules Ei daher geflogen kam und an Hendens Wange platzte,
 worüber die Gaffer vor Freude brüllten, da konnte er sich nicht
 länger bemeistern. Er sprang vorwärts und rief:
 
-»Schämt euch! Das ist mein Diener. Lasst ihn frei! Ich bin ...«
+»Schämt euch! Das ist mein Diener. Laßt ihn frei! Ich bin ...«
  
 <@pagebreak/>
 »Ach, seid doch stille!« rief Henden in großer Angst, »Ihr werdet
@@ -46,7 +46,7 @@ habe.«
 Damit wandte sich der Vollstreckungsbeamte an einen Untergebenen
 und sagte:
 
-»Gib dem Schlingel einen Peitschenhieb oder zwei, dass er
+»Gib dem Schlingel einen Peitschenhieb oder zwei, daß er
 fürder weiß, wie er sich zu benehmen hat.«
 
 »Mit einem halben Dutzend wird ihm besser gedient sein!« rief
@@ -66,13 +66,13 @@ um Erlassung derselben betteln? Nein, das gab's nicht.
 Aber es kam nicht dazu. Michael Henden war nicht umsonst
 sein Beschützer.
 
-»Lasst das Kind in Ruhe, ihr herzlosen Hunde!« rief er, »seht
-ihr denn nicht, wie schwach und gebrechlich er ist? Lasst ihn, ich will
+»Laßt das Kind in Ruhe, ihr herzlosen Hunde!« rief er, »seht
+ihr denn nicht, wie schwach und gebrechlich er ist? Laßt ihn, ich will
 seine Strafe auf mich nehmen.«
 
 »Bei meiner Seele, ein guter Einfall! Habt auch schönen Dank
 dafür!« rief Herr Hugo, während es höhnisch in seinen Augen aufblitzte.
-»Ja, lasst den kleinen Bettler gehen und gebt dafür dem
+»Ja, laßt den kleinen Bettler gehen und gebt dafür dem
 Kerl da ein Dutzend, aber ein ehrliches, vollgewichtiges Dutzend!«
 
 Der König wollte lebhaft Einspruch erheben. Aber Herr Hugo
@@ -81,7 +81,7 @@ jedes Wort des armen Kleinen sechs weitere Hiebe aufzählen zu lassen.
 
 Henden wurde aus dem Stock genommen und sein Rücken bloßgelegt.
 Während die Streiche fielen, wandte der König sein Gesicht
-ab und schluchzte laut. Als er sich wieder ein wenig gefasst hatte,
+ab und schluchzte laut. Als er sich wieder ein wenig gefaßt hatte,
 sprach er bei sich: »Du brave, gute Seele, das soll dir nicht vergessen
 sein! ... aber auch Herr Hugo wird daran denken!« fügte er leidenschaftlich
 hinzu.

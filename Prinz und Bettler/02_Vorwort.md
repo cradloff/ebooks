@@ -27,15 +27,15 @@ Strafgesetzgebung nichts übertrieben. Gab es doch nicht weniger
 als zweihundertdreiundzwanzig Vergehen, die nach englischem Gesetz
 mit dem Tode bestraft wurden. Der Verfasser hat bei seiner
 ganzen Schilderung der Zustände jener Zeit nur englisches Quellenmaterial
-und die besten englischen Geschichtsschreiber zu rate gezogen.
+und die besten englischen Geschichtschreiber zu rate gezogen.
 
 Dabei wird er niemals langweilig und trocken, sondern weiß in
 höchst geschickter Weise damalige Sitten und Gebräuche, das ganze
-Hofzeremoniell so in den Gang der Handlung zu verflechten, dass
+Hofzeremoniell so in den Gang der Handlung zu verflechten, daß
 derselbe dadurch nur anschaulicher, lebendiger und interessanter wird.
 
 Dazu bricht der köstliche Humor des Verfassers immer wieder
-durch und erhöht den Genuss der ohnehin reizvollen Lektüre.
+durch und erhöht den Genuß der ohnehin reizvollen Lektüre.
 
 <@pagebreak/>
 Einer weiteren Empfehlung bedarf ein Buch wie das vorliegende
@@ -62,11 +62,11 @@ Leser sich für den Prinzen sowohl wie für den Bettlerjungen erwärmen
 und beiden kleinen Helden seine lebhafteste Teilnahme bis
 zum Schlusse nicht versagen können.
 
-Etwaigen Bedenken vorzubeugen, bemerken wir, dass trotz der
+Etwaigen Bedenken vorzubeugen, bemerken wir, daß trotz der
 Schilderung der damaligen rohen Zustände auch nicht eine Spur
 von Anstößigem sich findet, und somit das Buch jedem Kinde anstandslos
 in die Hand gegeben werden darf. Aber auch der Erwachsene
-wird die Erzählung mit hohem Genuss und derselben Befriedigung
+wird die Erzählung mit hohem Genuß und derselben Befriedigung
 zu Ende lesen.
 
 In der Bearbeitung haben wir uns tunlichst an das Original

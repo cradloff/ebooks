@@ -9,8 +9,8 @@ drängen wollte. Er beugte sich nieder und flüsterte dem König zu:
 sagt gar nichts. Vertraut mir nur, und alles wird gut enden.«
 
 Dann dachte er bei sich: »Er nannte mich Herr Henden! Du
-heiliger Gott! Ich hatte schon vergessen, dass er mich zum Ritter
-schlug. Wie wunderbar ist es doch, dass er solche Kleinigkeiten im
+heiliger Gott! Ich hatte schon vergessen, daß er mich zum Ritter
+schlug. Wie wunderbar ist es doch, daß er solche Kleinigkeiten im
 Gedächtnis behalten hat, die doch nur augenblickliche Auswüchse
 seines irren Geistes waren!«
 
@@ -27,11 +27,11 @@ Henden raunte ihm zu: »Bedenket, Majestät, Euere Gesetze bilden
 die gesunde Luft im Königreich. Wie sollen aber die Untertanen 
 <@pagebreak/>
 ihnen folgen, wenn das Oberhaupt sich weigert, ihnen zu gehorchen?
-Wenn Ihr wieder auf dem Throne seid, wird es Euch gewiss Befriedigung
-gewähren, dass Ihr Euch so loyal und bescheiden Eueren
+Wenn Ihr wieder auf dem Throne seid, wird es Euch gewiß Befriedigung
+gewähren, daß Ihr Euch so loyal und bescheiden Eueren
 eigenen Gesetzen unterwarfet.«
 
-»Genug; du hast recht. Du sollst sehen, dass der König, solange
+»Genug; du hast recht. Du sollst sehen, daß der König, solange
 er selbst Untertan ist, alles auf sich nehmen will, was das Gesetz über
 Untertanen verhängt.«
 
@@ -40,9 +40,9 @@ den Diebstahl begangen. Niemand konnte das Gegenteil beweisen,
 und so war der König überführt. Das Pack wurde jetzt aufgemacht,
 und ein plumpes kleines gebratenes Ferkel kam zum Vorschein.
 
-Der Richter schien bestürzt, und Henden wurde totenblass. Der
+Der Richter schien bestürzt, und Henden wurde totenblaß. Der
 König aber stand unbeweglich, da er sich der Folgen eines solchen
-Diebstahls nicht bewusst war. Eine ganze Weile überlegte der Richter,
+Diebstahls nicht bewußt war. Eine ganze Weile überlegte der Richter,
 dann wandte er sich mit der Frage an die Klägerin: »Wie hoch
 schätzet Ihr den Wert des Ferkels?«
 
@@ -55,20 +55,20 @@ die Türen!«
 
 Das geschah. Niemand blieb zurück, als die Klägerin und der
 Beklagte, Michael Henden und der Richter mit dem Schutzmann.
-Henden biss sich die farblosen Lippen blutig, und große Schweißtropfen
+Henden biß sich die farblosen Lippen blutig, und große Schweißtropfen
 drängten sich auf seiner Stirn. Der Richter wandte sich wieder an
 die Frau und sprach mit mitleidiger Stimme: »Es ist ein armer, unwissender
 Knabe und vielleicht halb verhungert, denn die Zeiten sind
 schlecht für solch elende Leute. Seht ihn nur an, er hat kein Verbrechergesicht,
 aber wenn einen der Hunger peinigt ... Gute Frau,
-wisst Ihr auch, dass einer gehängt werden muss, wenn er etwas
+wißt Ihr auch, daß einer gehängt werden muß, wenn er etwas
 stiehlt, das ein und ein Achtel Schilling wert ist?«
 
 Der kleine König fuhr auf und machte große, bestürzte Augen.
 Dann aber beherrschte er sich rasch und nahm seine frühere gleichmütige
 Haltung wieder an. Nicht so die Frau. Am ganzen Leibe
 zitternd sprang sie auf und rief: »Ach, du grundgütiger Himmel,
-was habe ich nur getan! Nicht um alles in der Welt möchte ich, dass
+was habe ich nur getan! Nicht um alles in der Welt möchte ich, daß
 der arme Junge um meinetwillen gehängt würde! Ach, rettet ihn,
 Herr Richter, rettet ihn! Was kann ich dazu tun?«
  
@@ -78,12 +78,12 @@ Der Richter behielt seine Amtsmiene bei und sagte einfach:
 nicht in das Protokoll eingetragen ist.«
 
 »Dann in Gottes Namen schreibt, das Ferkel koste drei Viertel
-Schilling, und der Himmel segne Euch, dass Ihr mein Gewissen
+Schilling, und der Himmel segne Euch, daß Ihr mein Gewissen
 vor diesem Schrecklichen bewahrt habt.«
 
 Michael Henden vergaß alles um sich her vor Freude. Zur großen
-Überraschung des Königs schlang er seine Arme um ihn und küsste
-ihn, ohne zu beachten, dass er damit die königliche Würde seines
+Überraschung des Königs schlang er seine Arme um ihn und küßte
+ihn, ohne zu beachten, daß er damit die königliche Würde seines
 Schützlings allzu sehr bloßstellte. Die Frau machte einen tiefen
 Knicks und entfernte sich mit ihrem Ferkel. Der Schutzmann öffnete
 ihr die Tür und folgte ihr in den Gang hinaus nach, während der
@@ -101,7 +101,7 @@ kostet es drei und drei Viertel Schillinge gute bare Münze. Eine
 Ohrfeige könnt Ihr haben für Euere lumpigen Pfennige.«
 
 »Pfeift der Wind von daher? Ihr habt unter Eid ausgesagt und
-also falsch geschworen, dass das Ferkel nur drei Viertel Schillinge wert
+also falsch geschworen, daß das Ferkel nur drei Viertel Schillinge wert
 sei. Kommt gleich wieder zurück zum Richter und verantwortet Euch
 für Euer Verbrechen ... Und dann wird auch der Knabe gehängt.«
 
@@ -118,7 +118,7 @@ und aus der Stadt verwiesen werden.
 Höchst erstaunt und entrüstet öffnete der König den Mund und
 wollte vermutlich Henden Befehl geben, den guten Richter auf der
 Stelle zu enthaupten. Aber er fing einen warnenden Blick von
-seinem Beschützer auf und schloss den Mund rechtzeitig wieder. Der
+seinem Beschützer auf und schloß den Mund rechtzeitig wieder. Der
 Ritter nahm ihn an der Hand, verbeugte sich vor dem Richter, und 
 <@pagebreak/>
 beide verließen in Begleitung des Schutzmannes das Zimmer, um

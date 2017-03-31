@@ -8,7 +8,7 @@ Die Stunde des öffentlichen Mahles kam näher. Sonderbarerweise
 empfand Tom fast gar kein Unbehagen mehr, wenn er daran
 dachte. Die Gerichtsverhandlung hatte sein Selbstvertrauen mächtig
 gehoben. Überhaupt hatte er sich in diesen vier Tagen schon so
-ziemlich an sein wunderbares Geschick gewöhnt. Ein Kind passt
+ziemlich an sein wunderbares Geschick gewöhnt. Ein Kind paßt
 sich eben viel leichter den Umständen an, als ein Erwachsener.
 
 Während sich Tom zum Mahle rüstet, wollen wir ihm vorauseilen
@@ -20,11 +20,11 @@ Hellebarden in den Händen. Auf der Galerie, welche rings um den
 Saal lief, war eine Musikkapelle aufgestellt. Den ganzen übrigen
 Teil der Galerie aber füllte eine dichtgedrängte Menge von Bürgern
 und Bürgerinnen in stattlichen Gewändern. In der Mitte der Halle
-auf einer erhöhten Plattform stand der Esstisch des Königs.
+auf einer erhöhten Plattform stand der Eßtisch des Königs.
 
 Jetzt trat ein Edelmann herein, der einen Stab trug, und neben
 ihm ein anderer mit einem Tischtuch. Beide verbeugten sich dreimal
-bis auf die Knie, worauf der eine das Tuch über den Tisch ausbreitete.
+bis auf die Kniee, worauf der eine das Tuch über den Tisch ausbreitete.
 Dann verbeugten sie sich wieder und zogen sich zurück.
 
 Nun kamen zwei andere Herren herein, der eine wieder mit einem
@@ -53,7 +53,7 @@ Nun erschien der König selbst, bei dessen Sichtbarwerden zwölf
 Trompeten erschollen und ebensoviel Trommeln wirbelten. Zugleich
 erhoben sich die Bürger auf der Galerie und stimmten in den
 brausenden Ruf ein: »Gott erhalte den König!« Hinter Tom kamen
-einige Edle seiner näheren Umgebung und den Schluss bildete seine
+einige Edle seiner näheren Umgebung und den Schluß bildete seine
 Ehrenwache, fünfzig Edelleute mit vergoldeten Streitäxten.
 
 Es war ein stolzer Anblick. Tom schlug das Herz höher und seine
@@ -75,11 +75,11 @@ Gerichte je einem Edelmann, der es auf den Tisch stellte. Der
 Truchseß trat herzu und gab von jedem Gericht einen Bissen dem
 Trabanten zu kosten, der es gebracht hatte, aus Furcht vor Gift.
 
-Tom aß mit gutem Appetit, wiewohl er wusste, dass Hunderte
+Tom aß mit gutem Appetit, wiewohl er wußte, daß Hunderte
 von Augen jedem Bissen folgten, den er in den Mund steckte und
 zwar mit einem Interesse, als enthielten die Speisen Explosivstoffe,
 die den König im nächsten Augenblicke zerreißen und in die Luft
-jagen müssten.
+jagen müßten.
 
 Diesmal aß Tom nicht mehr hastig und hütete sich auch, etwas
 eigenhändig zu tun, was einem seiner Diener zu verrichten oblag.
@@ -87,7 +87,7 @@ Ohne irgend einen Verstoß aß er zu Ende.
 
 Als das Mahl endlich vorüber war, und er mit seinem glänzenden
 Gefolge die Halle unter Trompetengeschmetter und donnerndem
-Beifall verließ, da fühlte er sich so sicher, dass er gerne mehrmals
+Beifall verließ, da fühlte er sich so sicher, daß er gerne mehrmals
 des Tages öffentlich gespeist hätte, wenn er damit seiner Staatsgeschäfte
 ledig gewesen wäre.
 

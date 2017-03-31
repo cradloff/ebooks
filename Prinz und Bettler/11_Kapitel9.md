@@ -4,10 +4,10 @@
 <h3>Wie Tom die Themse hinunterfährt.</h3>
 
 Um 9 Uhr abends erstrahlte die ganze Front des Palastes nach
-dem Flusse hin in blendendem Licht. Der Fluss selbst war, soweit das
+dem Flusse hin in blendendem Licht. Der Fluß selbst war, soweit das
 Auge reichte, dicht besät mit Kähnen und Lustbooten mit farbigen
 Laternen. Die Fahrzeuge wurden von den Wellen leise geschaukelt,
-so dass das Ganze einem lichtschimmernden Garten voll Blumen
+so daß das Ganze einem lichtschimmernden Garten voll Blumen
 glich, die von sanften Sommerwinden hin und her bewegt werden.
 
 Die große steinerne Terrasse, die zum Flusse hinunterführte, bot
@@ -44,7 +44,7 @@ Die Schäfte ihrer Hellebarden waren mit karmesinrotem Sammet
 umhüllt. Der Überzug war durch vergoldete Nägel befestigt und
 mit goldenen Quasten verziert. Die Soldaten schwenkten links und
 rechts ab und bildeten zwei Reihen, die sich vom Torweg des Palastes
-bis zum Flussufer hinzogen. Dann wurde ein dicker Teppich aufgerollt
+bis zum Flußufer hinzogen. Dann wurde ein dicker Teppich aufgerollt
 und von Dienern in kostbarer Livree zwischen den Spalier
 bildenden Soldaten ausgebreitet.
 
@@ -97,7 +97,7 @@ Er war wunderschön gekleidet in ein Wams aus weißem Atlas,
 vorne mit Purpur gewirkt, mit Diamanten übersät und mit Hermelin
 besetzt. Darüber trug er einen Mantel aus weißem, goldgewirktem
 Tuch, durchschossen mit seinem Dreifederwappen, mit blauem Atlas
-eingefasst, mit Perlen und Edelsteinen besetzt und von einer Brillantspange
+eingefaßt, mit Perlen und Edelsteinen besetzt und von einer Brillantspange
 zusammengehalten. Um seinen Nacken hingen der Hosenbandorden
 und mehrere ausländische fürstliche Auszeichnungen. Wohin 
 <@pagebreak/>

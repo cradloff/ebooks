@@ -10,15 +10,15 @@ neuem erbrausten die Huldigungsrufe.
 
 Nicht lange hernach befand sich Tom noch einmal als der gefeierte
 Tagesheld in herrlichem Geleite auf der Themse. Nach altem
-Brauche musste der Königszug vom Turme ausgehen, wohin die
+Brauche mußte der Königszug vom Turme ausgehen, wohin die
 Flottille nun steuerte.
 
 Als der Zug dort anlangte, flammte es plötzlich auf der alten
 Feste an tausend Stellen zugleich auf. Eine betäubende Explosion
-erdröhnte, dass der Boden weithin zitterte und der ganze Turm zu 
+erdröhnte, daß der Boden weithin zitterte und der ganze Turm zu 
 <@pagebreak/>
 bersten schien. Und immer und immer wieder donnerten die Feuerschlünde,
-dass bald das ganze Gebäude in Rauch verhüllt war. Nur
+daß bald das ganze Gebäude in Rauch verhüllt war. Nur
 die höchste Spitze, der sogenannte Weiße Turm, auf dem unzählige
 Banner im Winde flatterten, ragte noch sichtbar empor, wie ein hoher
 Bergesgipfel über dichten Wolkenzügen.
@@ -68,7 +68,7 @@ andere sein Oberkämmerer gewesen. O wenn sie ihn jetzt erkennen
 möchten! Welch unsagbares Erstaunen würde sich ihrer bemächtigen.
 Beinahe hätte er alle Huldigung des Volkes dahingegeben um den
 einen Triumph, den Anblick der vor Verwunderung erstarrten Gesichter
-seiner einstigen Spielgefährten. Aber er musste sich bezähmen und
+seiner einstigen Spielgefährten. Aber er mußte sich bezähmen und
 verleugnen, denn es lag doch zuviel auf dem Spiele. Er wandte also
 das Gesicht ab und ließ die beiden Burschen weiter jauchzen und jubeln.
 
@@ -86,13 +86,13 @@ bildeten. Neben ihr entstieg Heinrich der Siebente einer mächtigen
 roten Rose. Die Hände des königlichen Paares lagen ineinander und
 der Hochzeitsring zeigte sich geflissentlich recht deutlich. Von den
 beiden Rosen ging ein Stamm aus und reckte sich hinauf bis zu einer
-Empore, wo wieder eine weiße und eine rote Rose entsprossten, aus
+Empore, wo wieder eine weiße und eine rote Rose entsproßten, aus
 denen sich Heinrich der Achte zu erheben schien. An ihn aber lehnte
 sich Johanna Seymour, die Mutter des neuen Königs. Von diesem
 Paar ging der Stamm höher hinauf zu einer weiteren Empore. Hier
 war Eduard der Sechste selbst, in königlicher Majestät thronend, dargestellt.
 
-Das ganze Bild gefiel dem Volke so sehr, dass der laute Beifall
+Das ganze Bild gefiel dem Volke so sehr, daß der laute Beifall
 die dünne Stimme des Kindes nicht durchdringen ließ, das in wohlklingenden
 Versen die Darstellung erklären wollte. Aber Tom bedauerte
 es nicht; dieser wilde Lärm war ihm sichere Musik als jede
@@ -124,14 +124,14 @@ seine Hand, wie schützend, vor die Augen, die innere Fläche nach
 außen: seine altgewohnte Gebärde des Schreckens. In der nächsten
 Minute hatte die Mutter sich durch die Menge Bahn gebrochen,
 zwischen den Wachen hindurchgezwängt und war zu ihrem Sohne
-hingestürzt. Sie umfasste sein Bein, bedeckte es mit Küssen und
+hingestürzt. Sie umfaßte sein Bein, bedeckte es mit Küssen und
 rief:
 
 »O mein Kind, mein Liebling!«
 
 Dann schaute sie zu ihm auf mit einem Blick voll unendlicher
 Liebe und Freude. Aber sofort kam ein Offizier der königlichen Leibwache
-heran, riss sie fort und schleuderte sie weg, dass sie taumelnd in
+heran, riß sie fort und schleuderte sie weg, daß sie taumelnd in
 die Menge zurückflog.
 
 »Ich kenne dich nicht, gute Frau!« war eben noch Toms Lippen
@@ -140,15 +140,15 @@ sah. Und wie sie sich noch einmal nach ihm umsah, mit dem todestraurigen
 Blick eines sterbenden Rehes, da überkam ihn ein Gefühl
 unsagbarer Scham. All sein Stolz, seine Freude waren dahin, verwelkt
 sein gestohlenes Königtum. So erbärmlich, so elend kam er sich
-vor, dass er am liebsten allen geborgten Flitter abgeworfen und seiner
+vor, daß er am liebsten allen geborgten Flitter abgeworfen und seiner
 tief verwundeten Mutter in die Arme geeilt wäre.
 
 Weiter bewegte sich der Zug. Aber Toms Augen waren glanzlos
-und sein Blick leer geworden. Unstet und gefühllos schweiften seine
+und sein Blick leer geworden. Unstät und gefühllos schweiften seine
 Augen über die ihm zujauchzende Menge hin. Er hörte und sah nichts
 mehr. Statt ihn zu erfreuen, ward ihm alles zum Vorwurf, zum
 Ekel. Sein Herz verzehrte sich durch Gewissensbisse. »Wollte Gott,
-ich wäre meiner Sklaverei ledig!« seufzte er. Damit war er unbewusst
+ich wäre meiner Sklaverei ledig!« seufzte er. Damit war er unbewußt
 wieder in den Gedankengang der ersten Zeit seiner erzwungenen
 Größe zurückgekommen.
 
@@ -187,7 +187,7 @@ Tom zu:
 
 »Mein Fürst, ermuntert Euch. Das Volk stößt sich an Euerer
 gebeugten Haltung und Euerer bewölkten Miene und nimmt es als
-schlimme Vorbedeutung. Lasst Euch raten: verbannt diesen düsteren
+schlimme Vorbedeutung. Laßt Euch raten: verbannt diesen düsteren
 Traum und zeigt Euer strahlendes Lächeln wieder!«
 
 Zugleich warf der Herzog links und rechts eine Handvoll Münzen
@@ -201,15 +201,15 @@ wieder und mächtig wie zuvor erschollen die jubelnden Hochrufe der
 treuen Untertanen.
 
 Noch einmal indes, als sich der Zug schon seinem Ziele nahte,
-musste der Herzog an Toms Seite reiten und ihm Vorstellungen
+mußte der Herzog an Toms Seite reiten und ihm Vorstellungen
 machen:
  
 <@pagebreak/>
 »O gnädigster Herr, verscheucht doch diesen verhängnisvollen
 Trübsinn; die Augen der ganzen Welt sind auf Euch gerichtet!«
 
-Dann fügte er ärgerlich hinzu: »Verwünscht, dass diese elende
-Bettlerin dazwischen kommen musste! Sie war es doch, welche die
+Dann fügte er ärgerlich hinzu: »Verwünscht, daß diese elende
+Bettlerin dazwischen kommen mußte! Sie war es doch, welche die
 Laune Euerer Königlichen Hoheit verdorben hat.«
 
 Tom schaute den Herzog mit glanzlosen Augen an und sagte mit

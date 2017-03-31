@@ -9,7 +9,7 @@ raschen Schrittes vorbei, um bald wieder das behagliche Heim zu
 erreichen, das ihn vor Nacht und Nebel schützte. Keiner schaute sich
 nach unseren Freunden um. Eduard fragte sich, ob wohl je ein
 König auf dem Wege zum Gefängnis so wenig Aufsehen erregt habe.
-Als sie auf die Mitte des menschenleeren Marktplatzes kamen, fasste
+Als sie auf die Mitte des menschenleeren Marktplatzes kamen, faßte
 Henden den Schutzmann am Arm und sagte mit leiser Stimme:
 »Wartet einen Augenblick, guter Mann. Hier hört uns niemand,
 und ich möchte ein Wörtchen mit Euch sprechen.«
@@ -18,12 +18,12 @@ und ich möchte ein Wörtchen mit Euch sprechen.«
 auf; die Nacht bricht herein.«
 
 »Das macht fast gar nichts. Was ich zu sagen habe, ist höchst
-wichtig für Euch. Schaut Euch einen Augenblick um und lasst derweil
+wichtig für Euch. Schaut Euch einen Augenblick um und laßt derweil
 den Knaben entfliehen.«
 
 »Das mir, Herr? Ich verhafte Euch im -- -- --«
 
-»Nur nichts überhasten, Mann. Nehmt Euch wohl in acht, dass
+»Nur nichts überhasten, Mann. Nehmt Euch wohl in acht, daß
 Ihr keine Torheit begeht.«
 
 Dann senkte er seine Stimme zu einem Flüstern herab und sagte:
@@ -34,17 +34,17 @@ Der Schutzmann war erst sprachlos vor Erstaunen, dann fand er
 seine Sprache wieder und begann aufzubrausen und zu drohen. Aber 
 <@pagebreak/>
 Henden blieb ruhig und wartete geduldig, bis der andere nichts mehr
-zu sagen wusste. Dann entgegnete er: »Ihr gefallt mir, Freund,
-und ich möchte Euch nicht gerne in Ungelegenheiten bringen. Passt
+zu sagen wußte. Dann entgegnete er: »Ihr gefallt mir, Freund,
+und ich möchte Euch nicht gerne in Ungelegenheiten bringen. Paßt
 wohl auf; ich hörte alles, Wort für Wort. Ich will es Euch beweisen.«
 
 Er wiederholte das ganze Gespräch, das der Polizist mit der Frau
-geführt hatte und schloss: »Nun, habe ich meine Sache gut gemacht?
+geführt hatte und schloß: »Nun, habe ich meine Sache gut gemacht?
 Glaubt Ihr, ich könne es nicht auch ebenso gut vor dem Richter hersagen,
 wenn es dazu kommt?«
 
 Helle Angst malte sich auf dem Gesichte des Schutzmannes. Aber
-er fasste sich wieder und suchte einen leichten Ton anzuschlagen: »Ihr
+er faßte sich wieder und suchte einen leichten Ton anzuschlagen: »Ihr
 macht da eine furchtbar ernste Geschichte aus diesem Scherz. Ich
 wollte ja doch die Frau nur ein wenig zum besten halten.«
 
@@ -71,26 +71,26 @@ Kleinen ... Nehmt Vernunft an, Euer Ehren: was wollt Ihr von
 mir?«
 
 »Ihr sollt nur blind und taub und lahm sein für die kurze Zeit,
-bis Ihr auf 100000 gezählt habt; das heißt, Ihr müsst aber langsam
+bis Ihr auf 100000 gezählt habt; das heißt, Ihr müßt aber langsam
 zählen«, sagte Henden mit der Miene eines Mannes, der eine ganz
 selbstverständliche Kleinigkeit verlangt.
 
 »Das bringt mich ins Verderben«, rief der Schutzmann ganz
 fassungslos. »Seid vernünftig, lieber Herr. Ihr könnt mein Gespräch
-mit der Frau ansehen, wie Ihr wollt, Ihr müsst schließlich zur Überzeugung
-kommen, dass es nur ein Scherz war. Und selbst, wenn es 
+mit der Frau ansehen, wie Ihr wollt, Ihr müßt schließlich zur Überzeugung
+kommen, daß es nur ein Scherz war. Und selbst, wenn es 
 <@pagebreak/>
-nicht als Scherz aufgefasst würde, so wäre es ein so geringfügiges
-Vergehen, dass es mir im schlimmsten Falle nur einen Rüffel und
+nicht als Scherz aufgefaßt würde, so wäre es ein so geringfügiges
+Vergehen, daß es mir im schlimmsten Falle nur einen Rüffel und
 eine Vermahnung vom Richter zuziehen würde.«
 
 Henden erwiderte feierlich:
 
-»Für diesen Euern Scherz hat das Gesetz einen Namen. Wisst
+»Für diesen Euern Scherz hat das Gesetz einen Namen. Wißt
 Ihr, wie er lautet?«
 
-»Das wusste ich doch nicht. Vielleicht bin ich unvorsichtig gewesen.
-Das war mir nie eingefallen, dass dieses ... Versehen auch
+»Das wußte ich doch nicht. Vielleicht bin ich unvorsichtig gewesen.
+Das war mir nie eingefallen, daß dieses ... Versehen auch
 noch einen Namen habe. Ach, du lieber Himmel, ich dachte, es
 wäre ein Originalspaß.«
 
@@ -105,18 +105,18 @@ transit gloria mundi</i>«.
 »Gott sei mir armem Sünder gnädig!«
 
 »Ihr habt die Not und Hilflosigkeit einer Frau zu Euerem eigenen
-Vorteil missbraucht und Euch fremdes Gut für drei Viertel Schillinge
+Vorteil mißbraucht und Euch fremdes Gut für drei Viertel Schillinge
 angeeignet, das drei und drei Viertel Schillinge wert war, unrechterweise
 angeeignet, also gestohlen. Das kommt folglich einem Diebstahl
-von drei Schillingen gleich, worauf schon, wie Ihr wisst, die
-Todesstrafe steht. Dann aber habt Ihr auch Amtsmissbrauch getrieben
+von drei Schillingen gleich, worauf schon, wie Ihr wißt, die
+Todesstrafe steht. Dann aber habt Ihr auch Amtsmißbrauch getrieben
 und zwar zu Betrug und Übervorteilung. Das Gesetz nennt
 dieses Verbrechen »<i>Ad hominem expurgatis in statu quo</i>«. Ihr
-müsstet also mehrfach gehängt werden, ohne dass Ihr durch Geld
+müßtet also mehrfach gehängt werden, ohne daß Ihr durch Geld
 oder Einspruch der Geistlichkeit oder Umänderung in Galeerenstrafe
 Euch dem Galgen entziehen könnt.«
 
-»Haltet mich, haltet mich, Herr; meine Knie wanken. Seid
+»Haltet mich, haltet mich, Herr; meine Kniee wanken. Seid
 barmherzig, verschonet mich, und ich will mich abwenden und nichts
 sehen von dem, was hinter mir vorgeht.«
 

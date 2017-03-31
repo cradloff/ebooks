@@ -15,7 +15,7 @@ malerisches Aussehen gab. Die Fenster waren klein, mit Butzenscheiben,
 und öffneten sich nach außen.
 
 Das Haus, worin Toms Eltern lebten, lag in einer kleinen
-schmutzigen Sackgasse, die Unrathof hieß und beim Puddinggässchen
+schmutzigen Sackgasse, die Unrathof hieß und beim Puddinggäßchen
 einmündete. Es war klein, verfallen und wackelig, aber vollgepfropft
 mit elendarmen Familien. Cantys Stamm bewohnte eine Kammer
 im dritten Stock. Mutter und Vater besaßen eine Art Bettstelle in
@@ -53,11 +53,11 @@ nicht geduldet hätten.
 Der ganze Unrathof war ein ebensolcher Ameisenhaufen wie
 Cantys Wohnhaus. Trunkenheit, Händel und Zank waren hier alltägliche
 und allnächtliche Dinge. Und doch fühlte sich der kleine Tom
-nicht unglücklich. Er hatte ein elendes Leben, aber er wusste es nicht,
+nicht unglücklich. Er hatte ein elendes Leben, aber er wußte es nicht,
 weil er nie ein besseres gekannt hatte. Alle Jungen im Unrathof
 teilten sein Schicksal. Daher glaubte er, dieses Leben sei das richtige
 und bequemste. Kam er abends mit leeren Händen nach Hause, so
-wusste er, dass sein Vater fluchen und ihn durchdreschen würde. War
+wußte er, daß sein Vater fluchen und ihn durchdreschen würde. War
 der Vater müde, so kam die Großmutter, fluchte auch und drosch ihn
 noch einmal durch, und sie verstand das beinah noch besser als ihr
 Sohn. In der Nacht aber, wenn alle schliefen, kam jeweilen seine
@@ -77,7 +77,7 @@ und schmucken Prinzen erzählte.
 <@pagebreak/>
 Mit der Zeit wurde sein Kopf ganz voll von diesen wunderbaren
 Dingen. Gar oft in der Nacht, wenn er im Dunkel auf seinem elenden,
-rauen Stroh lag, müde, hungrig und mit zerschlagenen Gliedern,
+rauhen Stroh lag, müde, hungrig und mit zerschlagenen Gliedern,
 ließ er seiner Phantasie freien Spielraum. Dann vergaß er bald
 seine Schmerzen und Leiden über den köstlichen Bildern, die er sich
 selbst vorzauberte von dem reizenden Leben eines verhätschelten Prinzen
@@ -85,13 +85,13 @@ in seinem Königspalast. Ein Wunsch kam immer wieder und
 plagte ihn Tag und Nacht: wenn er nur einmal, mit eigenen Augen,
 einen wirklichen Prinzen sehen könnte! Er sprach einmal davon zu
 seinen Kameraden im Unrathof. Diese aber lachten ihn aus und verhöhnten
-ihn so unbarmherzig, dass er fortan froh war, seine Träume
+ihn so unbarmherzig, daß er fortan froh war, seine Träume
 für sich allein behalten zu können.
 
 Aber immer wieder las er in den alten Büchern des Priesters.
-So kam es, dass sein Träumen und sein Lesen beinahe unmerkbar
+So kam es, daß sein Träumen und sein Lesen beinahe unmerkbar
 gewisse Veränderungen in ihm bewirkten. Seine Traumgestalten
-waren so schön, dass er anfing, seine schäbige Kleidung und sein
+waren so schön, daß er anfing, seine schäbige Kleidung und sein
 schmutziges Aussehen zu beklagen. Zwar spielte er weiter mit seinen
 Kameraden im Straßenstaube und freute sich daran. Aber wenn er
 in der Themse herumplätscherte, so tat er es nicht mehr des bloßen
@@ -99,12 +99,12 @@ Vergnügens halber, sondern auch, um sich und seine Lumpen zu
 reinigen.
 
 Wachend und träumend beschäftigte er sich so stark mit seinem
-ersehnten Prinzen, dass er endlich unbewusst anfing, das Benehmen
+ersehnten Prinzen, daß er endlich unbewußt anfing, das Benehmen
 desselben, so wie er es in den Büchern geschildert fand, nachzuahmen.
 Seine Reden und seine Gebärden wurden merkwürdig zeremoniell
 und höflich, zur großen Verwunderung und Belustigung seiner Kameraden.
 
-Sein Einfluss auf die anderen Jungen aber wuchs täglich. Schließlich
+Sein Einfluß auf die anderen Jungen aber wuchs täglich. Schließlich
 schaute man zu ihm, wie zu einer Art höheren Wesens auf. Er
 schien aber auch soviel zu wissen! Ganz wunderbare Dinge konnte
 er erzählen. Die Jungen hinterbrachten es ihren Eltern, und bald
@@ -140,8 +140,8 @@ nach den Leckerbissen in den Auslagen. Ein feiner, kalter
 Regen durchdrang seine Kleider, die Luft war trübe; es war ein
 melancholischer Tag.
 
-Nachts kam Tom so nass und müde und hungrig nach Hause, dass
-sein Vater und seine Großmutter nach ihrer Weise gerührt sein mussten.
+Nachts kam Tom so naß und müde und hungerig nach Hause, daß
+sein Vater und seine Großmutter nach ihrer Weise gerührt sein mußten.
 Sie gaben ihm denn auch gleich eine tüchtige Tracht Prügel und
 hießen ihn schlafen.
 

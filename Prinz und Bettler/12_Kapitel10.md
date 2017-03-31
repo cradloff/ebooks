@@ -9,7 +9,7 @@ hinter ihm herlief. Nur einer war da, der ein bittendes Wort für den
 Gefangenen einlegte. Aber Canty beachtete ihn nicht, ja, er hörte
 ihn kaum, so groß war der Tumult. Der Prinz rang immer noch um
 seine Freiheit und wehrte sich gegen seinen Peiniger, bis Canty sein
-bisschen Geduld verlor und seinen Eichenstock in plötzlicher Wut über
+bißchen Geduld verlor und seinen Eichenstock in plötzlicher Wut über
 das Haupt des Prinzen schwang. Der Mann aber, der für den
 armen Kleinen gebeten hatte, fiel Canty in den Arm und erhielt
 selbst den Schlag, der dem Prinzen gegolten hatte. Dabei brüllte
@@ -35,12 +35,12 @@ graues Haar und hatte ein Paar boshafte Augen.
 
 »Hör' mal«, sagte Johann Canty zu ihr, »da gibt's einen kapitalen
 Spaß. Verdirb ihn nicht voreilig. Höre erst zu; nachher kannst du
-prügeln, soviel du willst. Stell dich hierher, Bursche. So, nun sag
+prügeln, soviel du willst. Stell dich hieher, Bursche. So, nun sag
 deine Narretei nochmals, wenn du sie nicht vergessen hast. Nenne
 deinen Namen. Wer bist du?«
  
 <@pagebreak/>
-Das Blut schoss dem entrüsteten Prinzen in die Wangen. Er
+Das Blut schoß dem entrüsteten Prinzen in die Wangen. Er
 schaute dem Mann fest und zornig ins Gesicht und erwiderte:
 
 »Was du sprichst, zeugt von recht schlechter Erziehung. Ich sage
@@ -52,26 +52,26 @@ stumpfsinniger Verblüffung nach dem Prinzen, was ihren schurkischen
 
 <div class="center"><img alt="Der Prinz umringt von Toms Familie" src="img05.png" width="100%" height="auto"/></div>
 
-Sohn so sehr belustigte, dass er in brüllendes Gelächter ausbrach.
+Sohn so sehr belustigte, daß er in brüllendes Gelächter ausbrach.
 Aber auf Toms Mutter und Schwestern hatte der Vorgang eine ganz
 andere Wirkung. Ihre Furcht vor Schlägen wich plötzlich einer ganz
 anderen Sorge. Wehklagend stürzten sie vorwärts und riefen:
 »Armer Tom, armer Bursche!«
 
-Die Mutter fiel vor dem Prinzen auf die Knie, legte ihre Hände
+Die Mutter fiel vor dem Prinzen auf die Kniee, legte ihre Hände
 auf seine Schultern und blickte ihn unter aufsteigenden Tränen ängstlich
 forschend an. Dann sagte sie:
 
 »Ach, mein armer Junge! Das kommt von deinem törichten
 Lesen, das dir nun gar den Verstand genommen hat. Wie oft habe 
 <@pagebreak/>
-ich dich davor gewarnt! Dass du auch nicht auf mich hören musstest!
+ich dich davor gewarnt! Daß du auch nicht auf mich hören mußtest!
 Du brichst deiner armen Mutter das Herz.«
 
 Der Prinz schaute sie voll an und entgegnete sanft:
 
 »Dein Sohn ist gesund und wohlauf und hat seinen Verstand noch,
-gute Frau. Tröste dich. Lass mich wieder nach dem Palast bringen,
+gute Frau. Tröste dich. Laß mich wieder nach dem Palast bringen,
 wo er ist, und der König, mein Vater, wird ihn dir sogleich zurückgeben.«
 
 »Der König, dein Vater! O, mein Kind! Nimm diese Worte
@@ -90,13 +90,13 @@ aus.
 
 »Nur weiter mit der Mummerei!« schrie Canty. »Heda, Netty
 und Betty, ihr ungesitteten Rangen! Wollt ihr stehen in Gegenwart
-des Prinzen? Auf die Knie mit euch, ihr armseliges Gewürm, und
+des Prinzen? Auf die Kniee mit euch, ihr armseliges Gewürm, und
 erweiset ihm euere Ehrerbietung!«
 
 Er wieherte vor Lachen bei diesen Worten. Die Mädchen begannen
 furchtsam für ihren Bruder zu bitten, und Netty sagte:
 
-»Ach, lass ihn doch schlafen gehen, Vater; Ruhe und Schlaf werden
+»Ach, laß ihn doch schlafen gehen, Vater; Ruhe und Schlaf werden
 ihn wieder heilen.«
 
 »Ja, Vater«, meinte auch Betty, »er ist mehr als gewöhnlich
@@ -138,7 +138,7 @@ ermüdet«.
 
 Das Licht wurde ausgelöscht, und die Familie zog sich zurück.
 
-Sowie aber die jungen Mädchen bemerkten, dass ihr Vater und
+Sowie aber die jungen Mädchen bemerkten, daß ihr Vater und
 ihre Großmutter schliefen, krochen sie dorthin, wo der Prinz lag, und
 schützten ihn mitleidig vor der Kälte mit Stroh und Lumpen. Seine
 Mutter stahl sich ebenfalls zu ihm hin, streichelte sein Haar und weinte
@@ -150,7 +150,7 @@ und ihr Mitleid hatten ihn gerührt. Er dankte ihr in herzlichen Ausdrücken
 und bat sie, schlafen zu gehen und ihren Kummer zu vergessen.
 Der König, sein Vater, fügte er hinzu, werde sie für ihre
 Gutherzigkeit und Aufopferung nicht unbelohnt lassen. Dieser Rückfall
-in seinen »Irrsinn« brach ihr das Herz von neuem. Sie presste
+in seinen »Irrsinn« brach ihr das Herz von neuem. Sie preßte
 ihn wieder und wieder an ihre Brust, und dann ging sie, in Tränen
 gebadet, in ihr Bett zurück.
 
@@ -161,7 +161,7 @@ fühlte es doch heraus. Was, wenn der Knabe trotz allem nicht ihr
 Sohn wäre? Aber es war doch undenkbar! Sie lächelte beinahe
 über ihren Gedankengang trotz ihres Kummers. Aber der Argwohn
 wollte sie doch nicht verlassen. Er verfolgte sie, quälte sie, klammerte
-sich an sie und wollte sich nicht verscheuchen lassen. Sie fühlte, dass
+sich an sie und wollte sich nicht verscheuchen lassen. Sie fühlte, daß
 sie keine Ruhe mehr finden würde, bis sie sich felsenfest überzeugt 
 <@pagebreak/>
 hätte, ob dieser Knabe wirklich ihr Sohn sei oder nicht. Sie grübelte
@@ -176,12 +176,12 @@ Atemholen des Knaben, der mittlerweile in Schlaf gefallen
 war. Plötzlich aber fuhr er mit einem leisen Schrei auf, wie gequält
 von einem unruhigen Traum. Dieser kleine Zwischenfall brachte sie
 endlich auf einen Gedanken, der ihr einen untrüglichen Beweis
-liefern musste, ob der Knabe ihr Tom sei.
+liefern mußte, ob der Knabe ihr Tom sei.
 
 Geräuschlos, aber in fieberhafter Aufregung erhob sie sich, zündete
 die Kerze an und murmelte bei sich:
 
-»Könnte ich ihn nur im richtigen Augenblicke sehen, so wüsste ich
+»Könnte ich ihn nur im richtigen Augenblicke sehen, so wüßte ich
 es. Seit jenem Tage, da ihm in seiner frühen Jugend eine Ladung
 Pulver ins Gesicht spritzte, hebt er immer blitzschnell seine Hände
 schützend vor die Augen, wenn er aus einem Traume oder in Gedanken
@@ -195,9 +195,9 @@ Inzwischen hatte sie sich an den schlafenden Knaben herangeschlichen,
 und hielt dabei die Kerze mit der Hand beschattet. Ganz
 sachte und behutsam beugte sie sich über ihn, trotz der großen Aufregung
 kaum atmend. Jetzt plötzlich nahm sie die Hand von der Kerze
-weg, so dass das Licht ihm grell ins Gesicht fiel. Zugleich schlug sie
+weg, so daß das Licht ihm grell ins Gesicht fiel. Zugleich schlug sie
 mit ihrem Knöchel hart an seinem Ohr auf den Boden. Erschreckt
-riss der Schläfer die Augen weit auf und warf einen verwunderten
+riß der Schläfer die Augen weit auf und warf einen verwunderten
 Blick umher. Die erwartete Bewegung mit den Händen blieb aus.
 
 Hoffnungslose Überraschung zeigte sich in den Mienen der armen
@@ -216,12 +216,12 @@ schwerer Tag für mich.«
 Nun aber erwies sich die Hoffnung ebenso eigensinnig und hartnäckig,
 wie vorher der Zweifel. Sie wollte ihre Sache nicht so ohne
 weiteres verloren geben, sondern einen neuen Versuch wagen. Vielleicht
-war der Misserfolg ein zufälliger gewesen. Sie schreckte daher
+war der Mißerfolg ein zufälliger gewesen. Sie schreckte daher
 den Knaben ein zweites und nach einer Weile ein drittes Mal aus
 dem Schlafe auf, immer mit demselben Ergebnis, wie das erste Mal.
 Dann aber schleppte sie sich gebrochen nach ihrem Lager zurück und
-stöhnte: »Und ich kann, ich kann ihn nicht aufgeben; er muss mein
-Junge sein.« Allmählich aber schloss ein mildtätiger Schlaf ihre müden
+stöhnte: »Und ich kann, ich kann ihn nicht aufgeben; er muß mein
+Junge sein.« Allmählich aber schloß ein mildtätiger Schlaf ihre müden
 Augen.
 
 Auch der Prinz schlummerte fest und ruhig weiter. Stunde um
@@ -232,7 +232,7 @@ Halb noch im Traume murmelte er:
 
 Als er keine Antwort bekam, rief er noch einmal:
 
-»Herr Wilhelm Herbert! Kommt doch schnell hierher und höret,
+»Herr Wilhelm Herbert! Kommt doch schnell hieher und höret,
 was ich sonderbares geträumt habe. Herr Wilhelm, hört Ihr? Mir
 war, als sei ich in einen Bettler verwandelt und ... heda! Wachen!
 Herr Wilhelm! Wie! ist denn niemand hier? Das soll ihnen
@@ -308,10 +308,10 @@ der Themse fliehen.«
 Kaum hatte er diese Worte gesprochen, so kam die Gesellschaft
 aus der Dunkelheit heraus plötzlich auf einen hellerleuchteten Platz.
 Eine tanzende, singende und schreiende Menge drängte sich hier nach
-dem Flussufer zu. Soweit man sehen konnte, waren dort längs der
+dem Flußufer zu. Soweit man sehen konnte, waren dort längs der
 Themse auf- und abwärts Freudenfeuer angezündet. Die Londoner
 und andere Brücken erstrahlten wie in einem Licht. Der ganze
-Fluss schien zu glühen von dem Blitzen und Schimmern von farbigen 
+Fluß schien zu glühen von dem Blitzen und Schimmern von farbigen 
 <@pagebreak/>
 Lichtern. Unaufhörlich fuhren Raketen zischend in die Luft, verschlangen
 sich dort ineinander und lösten sich prasselnd in einen
@@ -333,15 +333,15 @@ schmutzig sein, jetzt an Geschäfte zu denken, wo jeder treue Untertan
 feiert?«
 
 »Meine Geschäfte gehen dich nichts an«, entgegnete Canty roh,
-»nimm deine Hand weg und lass mich ungeschoren«.
+»nimm deine Hand weg und laß mich ungeschoren«.
 
 »So? Jetzt sollst du erst recht nicht fort, bis du auf die Gesundheit
-des Kronprinzen getrunken hast. Das lass dir gesagt sein«, sprach der
+des Kronprinzen getrunken hast. Das laß dir gesagt sein«, sprach der
 Bootsmann und vertrat ihm den Weg.
 
 »Dann her mit dem Becher und schwatz nicht lang!«
 
-Andere Zecher drängten sich herzu und schrien:
+Andere Zecher drängten sich herzu und schrieen:
 
 »Den Liebesbecher<a href="99_Footnotes.xhtml#rn6" id="rn6">*</a>, den Liebesbecher! Der saubere Patron soll den
 Liebesbecher leeren, sonst werfen wir ihn den Fischen zum Fraße hin.«
@@ -351,7 +351,7 @@ ihn an einem Henkel, während er die andere Hand emporhielt, als
 fasse er den Zipfel einer Serviette, und bot ihn so in althergebrachter
 Weise Canty dar. Dieser hatte mit der einen Hand den zweiten Henkel
 zu ergreifen, während er mit der anderen Hand den Deckel aufheben
-musste, wie es die Sitte vorschrieb. Das nötigte ihn natürlich, die
+mußte, wie es die Sitte vorschrieb. Das nötigte ihn natürlich, die
 Hand des Prinzen einen Augenblick loszulassen. Dieser nahm die
 günstige Gelegenheit wahr, schlüpfte zwischen dem Wald von Beinen
 hindurch und war im Nu verschwunden. In der nächsten Minute
@@ -359,15 +359,15 @@ wäre er in dieser wogenden Menschenmasse nicht leichter zu finden
 gewesen, als ein verlorenes Geldstück in den Fluten des Atlantischen
 Ozeans.
 
-Dieser Tatsache ward er sich bald bewusst. Ebenso war ihm klargeworden,
-dass ein untergeschobener Kronprinz an seiner Stelle von 
+Dieser Tatsache ward er sich bald bewußt. Ebenso war ihm klargeworden,
+daß ein untergeschobener Kronprinz an seiner Stelle von 
 <@pagebreak/>
-der Stadt gefeiert wurde. Tom Canty, der arme Bursche, musste
+der Stadt gefeiert wurde. Tom Canty, der arme Bursche, mußte
 vorbedacht die verlockende Gelegenheit benutzt haben und zum Thronräuber
 geworden sein.
 
 Es gab für den Prinzen also nur einen Weg, den er einschlagen
-musste. Dieser führte nach dem Rathause, wo er sich ausweisen und
+mußte. Dieser führte nach dem Rathause, wo er sich ausweisen und
 den Betrüger entlarven wollte. Er nahm sich vor, Tom hängen, ertränken
 und vierteilen zu lassen, wie es damals im Falle des Hochverrats
 Sitte und Brauch war.

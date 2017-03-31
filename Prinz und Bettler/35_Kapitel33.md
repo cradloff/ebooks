@@ -19,7 +19,7 @@ wenden? Ei, berechnete Henden, der natürliche Trieb zieht doch in
 solchen Fällen jeden Menschen, wenn er sich verlassen und vergessen
 fühlt, wieder in das alte Heim zurück! Und wo lag das? Seine Lumpen
 und das Aussehen des Schuftes, der sich seinen Vater nannte, wiesen
-mit Bestimmtheit auf einen der ärmsten Bezirke Londons hin. Gewiss
+mit Bestimmtheit auf einen der ärmsten Bezirke Londons hin. Gewiß
 würde er auf dem Wege dahin den Knaben inmitten einer Gruppe
 von Leuten finden, die sich ihren Spaß mit ihm machten, wenn er
 wie gewohnt sich als König gebärden sollte. Dann wollte ihn Henden
@@ -27,7 +27,7 @@ wieder von seinen Quälgeistern befreien, ihn trösten und sich nie
 wieder von ihm trennen lassen.
 
 So ging also Henden auf die Suche. Stunden und Stunden lang
-schritt er durch alle möglichen Seitengässchen der schmierigen Viertel,
+schritt er durch alle möglichen Seitengäßchen der schmierigen Viertel,
 ohne eine Spur von dem Knaben zu entdecken. Das befremdete ihn,
 aber entmutigte ihn nicht. Mit seinem Feldzugsplan war es aber
 offenbar doch nichts; darin hatte er sich jedenfalls verrechnet.
@@ -35,7 +35,7 @@ offenbar doch nichts; darin hatte er sich jedenfalls verrechnet.
 Als der Morgen anbrach, lagen viele Meilen hinter ihm und noch
 war er so klug wie vorher. Er war schrecklich müde, hungrig und
 schläfrig. Gerne hätte er etwas zu sich genommen, aber wie sollte
-er dazu kommen? Betteln passte ihm nicht. Seinen Degen versetzen?
+er dazu kommen? Betteln paßte ihm nicht. Seinen Degen versetzen?
 Das wäre für ihn mit dem Verlust seiner Soldatenehre gleichbedeutend
 gewesen. Vielleicht konnte er etwas von seinen Kleidern
 entbehren? Aber ebenso leicht konnte man einen Käufer für eine
@@ -49,7 +49,7 @@ stand. Hier schlängelte er sich durch die einzelnen Gruppen hindurch,
 wieder ohne etwas zu erreichen.
 
 Er wanderte also weiter und sann über einen besseren Plan nach.
-Als er endlich den Kopf wieder hob, entdeckte er, dass die Stadt schon
+Als er endlich den Kopf wieder hob, entdeckte er, daß die Stadt schon
 weit hinter ihm lag und der Tag zur Rüste ging. Er befand sich auf
 freiem Lande, nahe der Themse. Ringsum lagen prächtige Landhäuser.
 Er war also nicht in einem Bezirk, wo Kleider, wie die seinen
@@ -67,7 +67,7 @@ nächsten Morgens wachte er wieder auf.
 Lahm, steif und halb verhungert erhob er sich und wusch sich im
 Flusse. Seinen nagenden Hunger täuschte er durch einen kräftigen
 Schluck Wasser. Dann trottete er wieder fort gegen Westminster hin,
-ärgerlich über sich selbst, dass er soviel Zeit verschwendet hatte. Sein
+ärgerlich über sich selbst, daß er soviel Zeit verschwendet hatte. Sein
 Hunger verhalf ihm zu einem neuen Plan. Er wollte versuchen, den
 alten Herrn Humfried Marlow aufzufinden, um einige Mark von ihm
 zu borgen, und dann ... Doch, das würde sich ja finden.
@@ -75,7 +75,7 @@ zu borgen, und dann ... Doch, das würde sich ja finden.
 Um 11 Uhr mittags kam er an den Königspalast mitten unter eine
 Menge Schaulustiger. Er prüfte die Gesichter der Umstehenden, um
 jemand herauszufinden, der bereit wäre, eine Botschaft von ihm
-an seines Vaters alten Freund zu überbringen. Dass er selbst bei seiner
+an seines Vaters alten Freund zu überbringen. Daß er selbst bei seiner
 schäbigen Kleidung keinen Zutritt in den Palast erlangt hätte, das
 stand ganz außer Frage.
 
@@ -84,11 +84,11 @@ und ging an ihm vorbei. Dann drehte er sich wieder um, schaute den
 Ritter forschend an und sagte bei sich: »Ob das nicht derselbe fahrende
 Ritter ist, um den sich Se. Majestät so besorgt zeigt? Wahrhaftig,
 wenn er es nicht ist, will ich ein Esel sein! Freilich war ich schon bislang
-ein Esel. Dass Gott zwei solch wunderbar malerische Männer
+ein Esel. Daß Gott zwei solch wunderbar malerische Männer
 geschaffen habe, ist nicht anzunehmen und wäre auch nur Verschwendung.
 Wie fange ich es nur an, mich an ihn zu machen?«
 
-Dieser Sorge enthob ihn Michael Henden selbst. Als er sah, dass
+Dieser Sorge enthob ihn Michael Henden selbst. Als er sah, daß
 der Knabe sich offenbar für ihn interessierte, redete er ihn an:
 
 »Ihr seid eben aus dem Palast gekommen. Gehört Ihr zu den
@@ -98,14 +98,14 @@ Hofbeamten?«
 
 »Ist Euch Herr Humfried Marlow bekannt?«
 
-Der Knabe fuhr auf und dachte: »Beim Himmel, er meint gewiss
+Der Knabe fuhr auf und dachte: »Beim Himmel, er meint gewiß
 meinen verstorbenen Vater«. Dann erwiderte er:
 
 »Recht gut, Euer Ehren.«
 
 »Schön. Ist er drinnen?«
 
-»Gewiss«, sagte der Knabe und fügte in Gedanken hinzu: »Im
+»Gewiß«, sagte der Knabe und fügte in Gedanken hinzu: »Im
 Grabe«.
 
 »Dürfte ich Euch wohl um den Gefallen ersuchen, ihm meinen
@@ -122,7 +122,7 @@ diese Freundlichkeit erweist.«
 Der Knabe schaute enttäuscht drein. »Der König sprach doch von
 einem Grafen«, dachte er für sich. »Aber das tut nichts zur Sache.
 Dieser fahrende Ritter kann vielleicht über seinen Zwillingsbruder
-Aufschluss geben.« Er sagte also zu Henden:
+Aufschluß geben.« Er sagte also zu Henden:
 
 »Bitte, Herr, tretet einen Augenblick hier ein und wartet, bis ich
 Euch Antwort bringe.«
@@ -137,7 +137,7 @@ Henden hervorzukommen. Michael gehorchte und ward sofort als
 verdächtig verhaftet. Die Sache begann ernst zu werden. Er wollte
 sein Hiersein erklären. Aber der Offizier schnitt ihm barsch das Wort
 ab und befahl den Soldaten, ihn zu entwaffnen und zu durchsuchen.
-»Gebe der Himmel in seiner Gnade, dass sie in meinen Taschen etwas
+»Gebe der Himmel in seiner Gnade, daß sie in meinen Taschen etwas
 finden«, dachte Henden, »ich habe wahrlich genug gesucht und nichts
 gefunden.«
 
@@ -172,7 +172,7 @@ Dann verbeugte er sich achtungsvoll vor Henden und sagte:
 
 Henden schritt hinter ihm drein und murmelte: »Ginge es nicht
 zum Tode und ans jüngste Gericht, so würde ich diesen Schuft für
-seine höhnische Höflichkeit erdrosseln. So aber muss ich mit meinen
+seine höhnische Höflichkeit erdrosseln. So aber muß ich mit meinen
 Sünden etwas sparsam umgehen.«
 
 Die beiden durchschritten einen volkreichen Vorhof und betraten
@@ -191,7 +191,7 @@ vor Henden und ließ ihn allein.
 
 Die Umstehenden musterten Michael von Kopf bis zu Fuß, die
 einen entrüstet und stirnrunzelnd, die anderen belustigt und spöttisch.
-Henden wusste nicht, wie ihm geschah. Dort saß der junge König auf
+Henden wußte nicht, wie ihm geschah. Dort saß der junge König auf
 dem Thron, kaum fünf Schritte von ihm entfernt. Er schaute mit
 gesenktem Kopf zur Seite und sprach mit irgend einem menschlichen
 Paradiesvogel, einem Herzog vielleicht. Henden sagte sich, man hätte
@@ -210,7 +210,7 @@ Thron!«
 
 Er murmelte noch etwas Unverständliches vor sich hin und konnte
 nicht aufhören, hinzustarren. Endlich ließ er seine Augen über den
-ganzen Saal schweifen, um sich Gewissheit zu verschaffen, ob er wache 
+ganzen Saal schweifen, um sich Gewißheit zu verschaffen, ob er wache 
 <@pagebreak/>
 oder träume. Dann sagte er zu sich: »Aber es ist doch alles Wirklichkeit,
 alles Leben. Das kann kein Traum sein.«
@@ -233,7 +233,7 @@ du sitzen bleiben in Gegenwart des Königs?«
 Ob dieser Störung wurde der König aufmerksam. Er streckte abwehrend
 die Hand aus und rief:
 
-»Lasst ihn sitzen! Es ist sein gutes Recht.«
+»Laßt ihn sitzen! Es ist sein gutes Recht.«
 
 Staunend traten die Herren zurück. Der König aber fuhr mit
 lauter Stimme fort:
@@ -241,7 +241,7 @@ lauter Stimme fort:
 »Erfahret alle, meine Damen und Herren: dies ist mein würdiger
 und geliebter Diener Michael Henden, der mit dem Schwert seinen
 König vor Verwundung und vielleicht vor dem Tode rettete. Dafür
-habe ich ihn zum Ritter geschlagen. Wisset ferner, dass er mir noch
+habe ich ihn zum Ritter geschlagen. Wisset ferner, daß er mir noch
 einen höheren Dienst erwiesen hat. Er bewahrte seinen Herrscher
 vor schimpflichen Streichen und Schmach, indem er sie auf sich selbst
 nahm. Und dafür ist er Reichsbaron, Graf von Kent und soll Ländereien
@@ -249,7 +249,7 @@ und Reichtümer erhalten, wie es ihm, seiner neuen Würde gemäß,
 gebührt. Mehr noch; das Vorrecht, von dem er soeben Gebrauch
 machte, ist ihm als besondere Auszeichnung von seinem König gewährt
 worden. Wir, Eduard der Sechste, König von England, haben
-verordnet, dass er und seine Nachkommen in ihrem jeweiligen Oberhaupt
+verordnet, daß er und seine Nachkommen in ihrem jeweiligen Oberhaupt
 das Recht haben und behalten sollen, in Gegenwart der Majestät
 Englands jetzt und in allen Zeiten sitzen zu dürfen. Störet ihn also
 nicht!«
@@ -275,7 +275,7 @@ und zu einem geachteten Manne heranbilden wollte! Hätte ich doch
 einen Sack, um meinen Kopf darin zu verhüllen!«
 
 Dann plötzlich fiel ihm ein, was seine Pflicht sei. Er trat heran
-und ließ sich vor dem König auf die Knie nieder. Dann ergriff er die
+und ließ sich vor dem König auf die Kniee nieder. Dann ergriff er die
 Hände seines Fürsten, gelobte Treue und dankte für die erwiesene
 Ehrung. Jetzt stand er wieder auf und trat ehrerbietig zur Seite.
 Alle Blicke hefteten sich auf ihn, und viele beneideten ihn.
@@ -285,7 +285,7 @@ Stimme und funkelnden Augen:
  
 <@pagebreak/>
 »Ergreift den elenden Räuber, entkleidet ihn seines gestohlenen
-Flitters und verwahrt ihn unter Schloss und Riegel, bis ich Gericht
+Flitters und verwahrt ihn unter Schloß und Riegel, bis ich Gericht
 über ihn halte!«
 
 Herr Hugo wurde abgeführt.
@@ -306,16 +306,16 @@ das mein erlauchter Vater zum Unterhalt armer Waisenknaben
 gründete, soll hinfürder nicht nur ihrem Körper, sondern auch ihrer
 Seele Nahrung bieten. Dieser Knabe aber soll dort Wohnung nehmen
 als Leiter des Wohltätigkeitshauses<a href="99_Footnotes.xhtml#rn13" id="rn13">*</a> auf Lebenszeit. Weil er aber
-König gewesen ist, so ist es angezeigt, dass ihm mehr als gewöhnliche
+König gewesen ist, so ist es angezeigt, daß ihm mehr als gewöhnliche
 Beachtung geschenkt wird. Merket euch das Staatskleid, das er jetzt
 trägt! Daran soll man ihn erkennen und niemand soll ein ähnliches
 tragen. Wohin er auch kommt, sein Kleid soll das Volk daran erinnern,
-dass er einst König war. Keiner soll ihm die schuldige Ehrerbietung
+daß er einst König war. Keiner soll ihm die schuldige Ehrerbietung
 und achtungsvollen Gruß versagen. Er steht unter dem
 Schutze der Krone und soll bekannt und genannt werden unter dem
 Titel: »Des Königs Schützling!«
 
-Stolz und glücklich erhob sich Tom, küsste die Hand des Fürsten
+Stolz und glücklich erhob sich Tom, küßte die Hand des Fürsten
 und entfernte sich. Er verlor keine Zeit, sondern eilte zu seiner Mutter,
 um ihr und Netty und Betty alles zu erzählen und sich mit ihnen der
 frohen Zukunft zu erfreuen.

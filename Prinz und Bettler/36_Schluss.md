@@ -3,7 +3,7 @@
 
 <h3>Wie alles gesühnt und vergolten wird.</h3>
 
-Bei der vorgenommenen Untersuchung stellte es sich heraus, dass
+Bei der vorgenommenen Untersuchung stellte es sich heraus, daß
 Hugo Henden seine Frau gezwungen hatte, Michael zu verleugnen.
 Er hatte ihr gedroht, sie umzubringen, falls sie seinem Befehle nicht 
 <@pagebreak/>
@@ -56,7 +56,7 @@ und hatten seine Gesundheit untergraben.
  
 <@pagebreak/>
 Der gute Graf von Kent war zu verständig, um sein Vorrecht zu
-missbrauchen. Aber er übte es noch zweimal aus: bei der Thronbesteigung
+mißbrauchen. Aber er übte es noch zweimal aus: bei der Thronbesteigung
 der Königin Maria und wieder bei der Krönung Elisabeths.
 Ein Abkömmling von ihm machte das Vorrecht noch einmal bei der
 Thronbesteigung Jakobs des Ersten geltend. Der letzte Graf von Kent
@@ -77,7 +77,7 @@ Milde zu tadeln sich unterfing und ein Gesetz verteidigte, dem der
 König seine Härte nehmen wollte, heftete der Monarch seine großen,
 mitleidigen Augen traurig und beredt zugleich auf ihn und erwiderte:
 
-»Was wisst Ihr denn von Not und Leid und Unterdrückung?
+»Was wißt Ihr denn von Not und Leid und Unterdrückung?
 Ich und mein Volk können ein Lied davon singen, nicht aber Ihr.«
 
 Die Regierung Eduards des Sechsten war denn auch für jene

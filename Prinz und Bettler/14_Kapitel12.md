@@ -4,7 +4,7 @@
 <h3>Wie der König seinen Retter erzieht.</h3>
 
 Michael Henden und der kleine Prinz wanderten inzwischen durch
-Seitengässchen und wenig begangene Wege dem Flusse zu. Sie
+Seitengäßchen und wenig begangene Wege dem Flusse zu. Sie
 stießen auf kein Hindernis, bis sie an die Londonerbrücke kamen.
 Dort pflügten sie sich, so gut es ging, zwischen der sich stauenden Menge
 hindurch. Henden hielt den Prinzen, oder vielmehr den nunmehrigen
@@ -14,7 +14,7 @@ tausend Lippen, denn niemand sprach von etwas anderem.
 
 Die traurige Kunde ging dem Herzen des armen Waisenknaben
 sehr nahe. Er bebte am ganzen Körper und brach schließlich in bitterliches
-Weinen aus. Die Größe des Verlustes ward ihm voll bewusst,
+Weinen aus. Die Größe des Verlustes ward ihm voll bewußt,
 denn der grimmige Tyrann, dessen Name alle anderen mit Schrecken
 erfüllte, war ihm stets ein liebevoller Vater gewesen. Nur mechanisch
 und taumelnd folgte er seinem Führer; alles flimmerte ihm vor den
@@ -49,13 +49,13 @@ sprachen.
 
 Die Bevölkerung war denn auch engherzig und voller Vorurteile
 gegen alle, die außerhalb der Brücke wohnten. Viele wurden dort
-geboren, auferzogen, heirateten, alterten und starben, ohne dass sie
+geboren, auferzogen, heirateten, alterten und starben, ohne daß sie
 je einen Fuß über die Brücke hinausgesetzt hätten. Solche Leute
 waren natürlich der Meinung, der großartige, ununterbrochene Verkehr,
 der sich Tag und Nacht über die Brücke bewegte, gehöre gewissermaßen
 ihnen. Kehrte ein Herrscher aus dem Auslande zurück,
-oder kam ein Seeheld aus fernen Meeren heim, so mussten sie auf
-oder unter der Brücke durch. Niemand genoss einen schöneren Anblick
+oder kam ein Seeheld aus fernen Meeren heim, so mußten sie auf
+oder unter der Brücke durch. Niemand genoß einen schöneren Anblick
 solcher Prunkaufzüge, als die Bewohner dieser Brücke. So bot
 sich ihnen vor den Augen ein fortwährender Anschauungsunterricht
 in englischer Geschichte. Die einzige düstere und abstoßende Erscheinung
@@ -81,7 +81,7 @@ Michael Henden vertrat ihm den Weg und entgegnete:
 mir. Was hat der Junge mit dir zu schaffen?«
 
 »Wenn du es darauf abgesehen hast, dich in Angelegenheiten
-anderer Leute zu mischen, so kann ich dir sagen, dass das mein Sohn ist.«
+anderer Leute zu mischen, so kann ich dir sagen, daß das mein Sohn ist.«
  
 <@pagebreak/>
 »Das ist eine Lüge!« rief hitzig der kleine König.
@@ -89,10 +89,10 @@ anderer Leute zu mischen, so kann ich dir sagen, dass das mein Sohn ist.«
 »Kühn gesprochen, und ich glaube dir, wie es auch sonst in deinem
 Kopf aussehen mag, mein Junge. Aber wenn auch dieser gemeine
 Schurke dein Vater wäre, das bleibt sich ganz gleich. Er soll dich nicht
-schlagen und misshandeln, wie er gedroht hat, wenn du lieber bei mir
+schlagen und mißhandeln, wie er gedroht hat, wenn du lieber bei mir
 bleibst.«
 
-»O ja, gewiss. Der Mann geht mich gar nichts an. Ich verabscheue
+»O ja, gewiß. Der Mann geht mich gar nichts an. Ich verabscheue
 ihn und will lieber sterben, als mit ihm gehen.«
 
 »Dann ist die Sache abgemacht und nichts weiter zu sagen.«
@@ -106,7 +106,7 @@ und legte die Hand an seinen Degen. Canty zog sich zurück.
 
 »Merke es dir ein für alle mal«, fuhr Henden fort, »diesen Jungen
 habe ich unter meinen Schutz genommen, als ein unflätiger Pöbel
-ihn misshandeln oder gar töten wollte. Bildest du dir nun ein, ich
+ihn mißhandeln oder gar töten wollte. Bildest du dir nun ein, ich
 werde ihn dir zu einem vielleicht noch schlimmeren Schicksal überlassen?
 Denn ob du nun sein Vater bist oder nicht, und ich halte es
 für eine ausbündige Lüge, so wäre ein schneller Tod immer noch
@@ -135,7 +135,7 @@ oder eine Entschuldigung zu sagen. In seiner krankhaften Einbildung
 nannte er sich Kronprinz, und wahrhaftig, er hält an seiner Rolle 
 <@pagebreak/>
 fest. Arme, kleine, freundlose Ratte! Ohne Zweifel hat sein Geist
-unter fortgesetzter Misshandlung gelitten. Nun, von jetzt an will ich
+unter fortgesetzter Mißhandlung gelitten. Nun, von jetzt an will ich
 sein Freund sein. Ich habe ihn gerettet und will meine Sache nicht
 halb machen. Überdies fühle ich mich zu diesem kleinen Knirps mit
 
@@ -157,20 +157,20 @@ durchbebte den Körper des Knaben.
 
 »Ei, sieh da«, murmelte Henden, »wie unachtsam war ich doch,
 ihn so unbedeckt zu lassen, wo er sich so leicht erkälten könnte. Was
-soll ich aber tun? Wollte ich ihn ins Bett hineinlegen, so müsste ich
+soll ich aber tun? Wollte ich ihn ins Bett hineinlegen, so müßte ich
 ihn wecken, und er hat den Schlaf so dringend nötig.«
 
 Er schaute sich nach einer anderen Decke um. Da er aber keine
 fand, zog er sich das Wams aus und deckte damit den Knaben sorgfältig
 zu mit den Worten: »Ich bin an scharfe Luft und spärliche
-Kleidung gewöhnt; das bisschen Kälte werde ich auch noch ertragen
+Kleidung gewöhnt; das bißchen Kälte werde ich auch noch ertragen
 können.« Dann ging er im Zimmer auf und nieder, um sein
 Blut in Bewegung zu erhalten, und fuhr fort, mit sich selbst zu
 sprechen:
 
 »Sein kranker Geist hat ihm den Glauben beigebracht, er sei der
-Kronprinz. Die Welt würde sich wundern, dass schon wieder ein
-Kronprinz da ist, kaum dass der andere König wurde. Aber er hat
+Kronprinz. Die Welt würde sich wundern, daß schon wieder ein
+Kronprinz da ist, kaum daß der andere König wurde. Aber er hat
 nun einmal die fixe Idee, er sei Kronprinz und wird daher nicht auf
 den Gedanken verfallen, er sei mittlerweile nun König geworden.
 Doch was nun mit dem Knaben beginnen? Ach, ich habe seit den
@@ -254,7 +254,7 @@ Er sagte:
 hörte?«
 
 »Ja, Majestät«, erwiderte Henden. Dann dachte er bei sich: »Ich
-muss den armen Jungen zu erheitern suchen und befriedigen. Ich muss
+muß den armen Jungen zu erheitern suchen und befriedigen. Ich muß
 ihn als König behandeln und darf nicht aus der Rolle fallen, sonst
 würde ich nur das Spiel verderben und mein barmherziges Vorhaben
 vereiteln.«
@@ -288,10 +288,10 @@ schönes Kind von sechzehn Lenzen war. Sie ist die Tochter
 eines Grafen, die letzte ihres Stammes und Erbin eines großen Vermögens.
 Mein Vater war ihr Vormund. Ich liebte sie, und sie liebte
 mich. Aber sie war schon in der Wiege mit meinem Bruder Arthur
-verlobt, und Herr Richard, mein Vater, wollte nicht, dass dieses Verlöbnis
+verlobt, und Herr Richard, mein Vater, wollte nicht, daß dieses Verlöbnis
 gebrochen würde. Arthur liebte ein anderes Mädchen und
 forderte uns auf, gutes Mutes zu sein und an der Hoffnung festzuhalten,
-dass Zeit und Zufall einst doch noch zu unserer Vereinigung
+daß Zeit und Zufall einst doch noch zu unserer Vereinigung
 führen würden. Hugo war es um Fräulein Ediths Vermögen zu
 tun, wiewohl er sagte, er liebe nur sie. Es war aber immer so eine
 Eigenheit von ihm, etwas zu sagen und etwas anderes zu denken. 
@@ -300,17 +300,17 @@ Aber seine Künste waren an dem Mädchen verloren; meinen Vater
 konnte er täuschen, sonst aber niemand.
 
 »Mein Vater liebte ihn mehr als uns alle, vertraute und glaubte
-ihm. War er doch das jüngste Kind und bei den anderen verhasst.
+ihm. War er doch das jüngste Kind und bei den anderen verhaßt.
 Hugo konnte aber auch so einschmeichelnd und überzeugend reden und
 ganz abgefeimt lügen. Ich war damals jugendlich wild und ungestüm,
 aber dieses feurige, leicht erregte Blut schadete nur mir selbst,
-keinem anderen. Diesen meinen Fehler wusste Hugo zu seinen Gunsten
+keinem anderen. Diesen meinen Fehler wußte Hugo zu seinen Gunsten
 zu verwerten. Arthurs Gesundheit war sehr schwach, und so glaubte
 Hugo, er habe es nur mit mir allein zu tun.
 
 »Es würde zu weit führen, hier all seinen Intrigen nachzugehen.
 Kurz, mein Bruder vergrößerte meine Fehler und machte sie zu Verbrechen.
-Seine Bosheit krönte er damit, dass er einst eine Strickleiter
+Seine Bosheit krönte er damit, daß er einst eine Strickleiter
 in mein Zimmer hineinpraktizierte. Auf Grund dieser Leiter
 und mit Hilfe bestochener Diener überzeugte er meinen Vater, ich
 hätte beabsichtigt, Edith zu entführen und sie, entgegen seinem ausgesprochenen
@@ -355,7 +355,7 @@ abgemessenem Tone:
 
 »Du hast mich vor Beleidigungen und Schande bewahrt und mir
 vielleicht das Leben und damit meine Krone gerettet. Solch ein Dienst
-muss reich belohnt werden. Nenne einen Wunsch, und wenn die Erfüllung
+muß reich belohnt werden. Nenne einen Wunsch, und wenn die Erfüllung
 in meiner königlichen Macht steht, soll er dir gewährt sein!«
 
 Diese Worte entrissen Henden seiner Träumerei. Zuerst hatte
@@ -381,7 +381,7 @@ ein französischer Ritter sollten sich in den Schranken messen und so
 durch eine Art Gottesurteil den Streit entscheiden. Die beiden genannten
 Herrscher, wie auch der König von Spanien erschienen als
 Kampfrichter auf der Tribüne vor den Schranken. Der französische
-Kämpe ritt vor, aber er war so grimmig anzusehen, dass unsere englischen
+Kämpe ritt vor, aber er war so grimmig anzusehen, daß unsere englischen
 Ritter es ablehnten, sich mit ihm zu messen. So wäre die Sache
 leicht zu Ungunsten Englands ausgefallen. Nun aber lag im Turm
 der Lord von Courcy, der gewaltigste Arm Englands, der wegen
@@ -402,7 +402,7 @@ auch das halbe Königreich kostet, er soll dir gewährt sein.«
 Der Lord kniete nieder und äußerte einen ähnlichen Wunsch, wie
 ich ihn auf dem Herzen habe:
 
-»Um eines bitte ich Euch, mein Lehnsherr, dass ich und meine
+»Um eines bitte ich Euch, mein Lehnsherr, daß ich und meine
 Nachkommen für ewige Zeiten das Recht besitzen mögen, bedeckten
 Hauptes in Gegenwart des Königs von England stehen zu dürfen.«
 

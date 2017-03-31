@@ -17,7 +17,7 @@ denn der Hunger war ja solange ständiger Gast bei ihm gewesen.
 Allein Graf Berkeley befestigte ihm erst eine Serviette um den
 Nacken. Dann kam Toms Mundschenk und versorgte ihn mit Wein.
 Auch der Truchseß war da, der auf Verlangen jede verdächtige Speise
-kosten musste, auf die Gefahr hin zu sterben, wenn sie wirklich vergiftet
+kosten mußte, auf die Gefahr hin zu sterben, wenn sie wirklich vergiftet
 <@pagebreak/>
 war. Zu dieser Zeit freilich kam er schwerlich mehr in den
 Fall, sein Amt ausüben zu müssen. Aber es hatte Zeiten gegeben
@@ -26,21 +26,21 @@ und nicht viele Bewerber hatte. Ein Hund hätte allerdings denselben
 Dienst auch leisten können.
 
 Lord d'Arcy, der erste Kammerherr, stand ebenfalls in der Nähe,
-zu welchem Zwecke, wusste wohl nur der Himmel. Auch der Lord
+zu welchem Zwecke, wußte wohl nur der Himmel. Auch der Lord
 Oberkellermeister fehlte nicht. Er stand hinter Toms Stuhl und gab
-acht, dass alles in gehöriger Ordnung vor sich ging. Die Oberaufsicht
+acht, daß alles in gehöriger Ordnung vor sich ging. Die Oberaufsicht
 aber führten der Lord Oberhofmeister und der Lord Oberkoch.
 Außer diesen hatte Tom 384 Diener; natürlich aber waren nicht
-alle im Zimmer, nicht einmal der vierte Teil derselben; auch wusste
-Tom gar nicht, dass er so viele Diener hatte.
+alle im Zimmer, nicht einmal der vierte Teil derselben; auch wußte
+Tom gar nicht, daß er so viele Diener hatte.
 
 Den anwesenden Dienern aber war vorher eingeschärft worden,
-sie sollten nicht vergessen, dass der Prinz zeitweilig irre sei, und wenn
+sie sollten nicht vergessen, daß der Prinz zeitweilig irre sei, und wenn
 sie das bemerkten, keinerlei Überraschung zeigen.
 
 Und recht oft war der Prinz irre. Aber sein Gebaren erregte
 nur Mitleid und Kummer in ihnen. Es ging ihnen allen ans Herz,
-dass ihr geliebter Prinz so vom Schicksal heimgesucht wurde. Der
+daß ihr geliebter Prinz so vom Schicksal heimgesucht wurde. Der
 arme Tom aß hauptsächlich mit den Fingern; aber niemand lächelte
 darüber oder schien es auch nur zu beachten. Er beguckte neugierig
 und mit großem Interesse seine Serviette, denn sie war fein und
@@ -57,7 +57,7 @@ Holland einzuführen. Ohne eine Miene zu verziehen, gab ihm ein
 Höfling Antwort auf seine Frage. Als Tom mit dem Nachtisch fertig
 war, füllte er sich die Taschen mit Nüssen. Niemand schien sich
 darüber aufzuhalten. Aber im nächsten Augenblicke ward er sich
-selbst dieses eigenmächtigen Vorgehens bewusst. Er bereute es, dass
+selbst dieses eigenmächtigen Vorgehens bewußt. Er bereute es, daß
 er nicht einen Diener beauftragt hatte, ihm die Nüsse in die Tasche zu
 stecken. In diesem Augenblick kitzelte ihn etwas an der Nase. Seines
 vorigen Fehlers eingedenk, wagte er nicht, selbst Abhilfe zu schaffen.
@@ -94,11 +94,11 @@ hat zwar einen lieblichen Duft, aber meinem Gaumen sagt es nicht zu.«
 Dieser neue Beweis seines zerrütteten Geistes erfüllte alle mit
 tiefstem Mitleid, aber keiner äußerte auch nur eine Silbe.
 
-Gleich darauf beging Tom einen neuen Missgriff. Er stand auf
+Gleich darauf beging Tom einen neuen Mißgriff. Er stand auf
 und verließ den Tisch, gerade als der Kaplan sich hinter seinen Stuhl
 stellte und mit aufgehobenen Händen und zum Himmel gerichteten
 Augen im Begriff stand, das Dankgebet zu sprechen. Auch jetzt
-schien niemand zu bemerken, dass der Prinz etwas Ungebührliches
+schien niemand zu bemerken, daß der Prinz etwas Ungebührliches
 getan hatte.
 
 Auf sein Ersuchen führte man unsern kleinen Freund in sein

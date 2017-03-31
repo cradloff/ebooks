@@ -31,24 +31,24 @@ verwahrloste Knaben und Mädchen schuf.
 bis 1554), ein eifriger Katholik, wurde trotz seiner hohen Verdienste um das Reich
 unmittelbar nach seiner Rückkehr von einem glücklichen Feldzug gegen Schottland
 mit seinem ältesten Sohn am 12. Dezember 1546 in den Turm geworfen. Sein
-Sohn wurde hingerichtet, und er selbst entging demselben Schicksal nur dadurch, dass
+Sohn wurde hingerichtet, und er selbst entging demselben Schicksal nur dadurch, daß
 Heinrich VIII., wie in der Erzählung geschildert, am Tage vor seiner stattzufindenden
 Hinrichtung starb. Jedoch erhielt er erst mit der Thronbesteigung Marias der Katholischen
-oder der »Blutigen« Freiheit, Güter, Würden und den alten Einfluss zurück.
+oder der »Blutigen« Freiheit, Güter, Würden und den alten Einfluß zurück.
 
 <a href="09_Kapitel7.xhtml#rn5" id="rn5">S. 35, Z. 27.</a> Erst gegen Ende der Regierung Heinrichs VIII. wurden Salate,
-Rüben und andere essbare Wurzeln in England angebaut. Früher hatte man sie
+Rüben und andere eßbare Wurzeln in England angebaut. Früher hatte man sie
 aus Holland und Flandern eingeführt. Wenn Königin Katharina Salat wünschte,
-so musste sie jedesmal zu diesem Zwecke einen Eilboten über den Kanal senden.
+so mußte sie jedesmal zu diesem Zwecke einen Eilboten über den Kanal senden.
 
 <a href="12_Kapitel10.xhtml#rn6" id="rn6">S. 49, Z. 24.</a> Der Liebesbecher und die beim Trinken desselben beobachteten
 Zeremonien sind älter als die englische Geschichte. Man nimmt an, die Sitte sei
 mit den Dänen nach England gekommen. Soweit die englische Geschichte reicht,
 hat man immer bei englischen Banketten den Liebesbecher getrunken. Den dabei
 üblichen Zeremonien soll eine besondere Ursache zugrunde gelegen haben. In
-jenen alten rauen Zeiten hielt man es für weise und geboten, beide Hände der
+jenen alten rauhen Zeiten hielt man es für weise und geboten, beide Hände der
 sich Zutrinkenden zu beschäftigen. Während der eine dem anderen zutrank, konnte
-es sonst leicht geschehen, dass der andere die günstige Gelegenheit wahrnahm und
+es sonst leicht geschehen, daß der andere die günstige Gelegenheit wahrnahm und
 den ihm Zutrinkenden erdolchte.
 
 <a href="16_Kapitel14.xhtml#rn7" id="rn7">S. 70, Z. 11.</a> Das Institut der Prügeljungen ist älteren Datums und kam
@@ -67,8 +67,8 @@ die Freiheit der Verfassung gewährleistet wurde. Die Großzahl der vorherigen
 harten Gesetze verlor ihre Gültigkeit, und das Morgenrot bürgerlicher und religiöser
 Freiheit begann am Horizont aufzusteigen. So z.B. durfte wegen Beleidigungen
 und Vergehen durch Worte erst einen Monat nach ihrer Äußerung
-Klage erhoben werden. Ein anderes seiner Gesetze bestimmte, dass fortan kein
-Erlass des Königs mehr Gesetzeskraft haben solle.« Soweit Hume.
+Klage erhoben werden. Ein anderes seiner Gesetze bestimmte, daß fortan kein
+Erlaß des Königs mehr Gesetzeskraft haben solle.« Soweit Hume.
 
 Eduard Seymour, Graf von Hertford und Herzog von Somerset ließ sich als
 Protektor von seinem Neffen Eduard VI. volle königliche Gewalt übertragen und
@@ -96,7 +96,7 @@ Fleisch von den Knochen fiel.
 
 <a href="17_Kapitel15.xhtml#rn10" id="rn10">S. 81, Z. 26.</a> Eine Frau und ihr neunjähriges Töchterchen wurden in Huntingdon
 gehängt, weil sie ihre Seelen dem Bösen verkauft und einen Sturm heraufbeschworen
-hätten, dadurch, dass sie ihre Strümpfe auszogen.
+hätten, dadurch, daß sie ihre Strümpfe auszogen.
 
 <a href="29_Kapitel27.xhtml#rn11" id="rn11">S. 140, Z. 30.</a> Baptisten nennen sich diejenigen christlichen Sekten, welche die
 Kindertaufe verwerfen und nur Erwachsene taufen. Indes sind sie nicht mit den
@@ -111,7 +111,7 @@ Schuld und Strafe hat Mark Twain vollkommen richtig geschildert.
 
 <a href="35_Kapitel33.xhtml#rn13" id="rn13">S. 172, Z. 19.</a> Dem jungen König lag die Umwandlung des einfachen
 Asyls in ein Erziehungsheim für arme Kinder sehr am Herzen. »Herr Gott«, sagte
-er, »ich danke Dir aus ganzem Herzen, dass Du mich solange leben ließest, dass ich
+er, »ich danke Dir aus ganzem Herzen, daß Du mich solange leben ließest, daß ich
 dieses Werk zur Ehre Deines Namens vollenden konnte.« Wenige Tage nach dieser
 Äußerung gab der gute, unschuldige Herrscher seinen Geist auf.
 
