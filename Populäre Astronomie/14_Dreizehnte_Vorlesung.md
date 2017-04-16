@@ -1,6 +1,8 @@
 Dreizehnte Vorlesung.
+=====================
 
 Die Sonne.
+----------
 
 Mit keinem der Himmelskörper können wir deren Beschreibung würdiger beginnen, als mit jener glänzenden Kugel die noch in einer Entfernung von 21 Mill. Meilen über die Erscheinungen der Erdoberfläche despotisch gebietet. Obgleich, wie es scheint, nicht größer als der Mond, duldet sie kein andres Gestirn neben sich am Himmel, und kann wegen ihres blendenden Lichts fast nur durch gefärbte Gläser betrachtet werden. Anstatt daß die Bewegung des Mondes stets neue Unregelmäßigkeiten gezeigt hat, je genauer man ihn untersuchte, haben sich fast alle Bewegungen der Sonne nur als Täuschungen bewiesen, und trotz der Vollkommenheit der neueren Beobachtungsweise kennen wir noch keine unbezweifelte Fortbewegung der Sonne im Raume.
 
