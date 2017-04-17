@@ -1,17 +1,17 @@
 Anmerkungen:
 ============
 
-<div class="footnote" id="fn1"><a href="11_kapitel11.xhtml#rn1">↑</a> Rudyard Kipling: „Das Dschungelbuch“; allerdings ist Kipling Brite gewesen.</div>
+<@footnote 1 "11_kapitel11.xhtml">Rudyard Kipling: „Das Dschungelbuch“; allerdings ist Kipling Brite gewesen.</@footnote>
 
-<div class="footnote" id="fn2"><a href="11_kapitel11.xhtml#rn2">↑</a> In der Vorlage steht: „lernte“.</div>
+<@footnote 2 "11_kapitel11.xhtml"> In der Vorlage steht: „lernte“.</@footnote>
 
-<div class="footnote" id="fn3"><a href="11_kapitel11.xhtml#rn3">↑</a> In der Vorlage steht: „Zeitweilen“. Das ist eine Kontamination aus „Zuweilen“ und „Zeitweise“ – daher ersetzt durch „Zuweilen“.</div>
+<@footnote 3 "11_kapitel11.xhtml"> In der Vorlage steht: „Zeitweilen“. Das ist eine Kontamination aus „Zuweilen“ und „Zeitweise“ – daher ersetzt durch „Zuweilen“.</@footnote>
  
-<div class="footnote" id="fn4"><a href="13_kapitel13.xhtml#rn4">↑</a> Etwas eigenwillige Wortwahl. Gemeint ist damit: „wem er sich anschließen soll“. Vielleicht wollte Kabel damit auch ausdrücken, daß nicht der Wolf, sondern die Menschen diese Entscheidung treffen sollen.</div>
+<@footnote 4 "13_kapitel13.xhtml"> Etwas eigenwillige Wortwahl. Gemeint ist damit: „wem er sich anschließen soll“. Vielleicht wollte Kabel damit auch ausdrücken, daß nicht der Wolf, sondern die Menschen diese Entscheidung treffen sollen.</@footnote>
 
-<div class="footnote" id="fn5"><a href="13_kapitel13.xhtml#rn5">↑</a> Anspielung auf „Der Zigeunerbaron“ von Johann Strauß (Sohn), „Der Dompfaff, der hat uns getraut …“</div>
+<@footnote 5 "13_kapitel13.xhtml"> Anspielung auf „Der Zigeunerbaron“ von Johann Strauß (Sohn), „Der Dompfaff, der hat uns getraut …“</@footnote>
 
-<div class="footnote" id="fn6"><a href="14_kapitel14.xhtml#rn6">↑</a> In der Vorlage steht: „Triumpf“.</div>
+<@footnote 6 "14_kapitel14.xhtml"> In der Vorlage steht: „Triumpf“.</@footnote>
 
-<div class="footnote" id="fn7"><a href="15_kapitel15.xhtml#rn7">↑</a> Anspielung nicht zuletzt auf Karl Mays Wendung zum Pazifismus, den dieser durch jenen Romantitel auch als Schriftsteller öffentlich verkündet hatte.</div>
+<@footnote 7 "15_kapitel15.xhtml"> Anspielung nicht zuletzt auf Karl Mays Wendung zum Pazifismus, den dieser durch jenen Romantitel auch als Schriftsteller öffentlich verkündet hatte.</@footnote>
 

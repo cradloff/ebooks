@@ -118,7 +118,7 @@ Die Pistole – es ist eine Dienstpistole, und mein Verdacht von vorhin flaut ab
 
 Mein Herz schlägt rascher.
 
-„Inspektor, mir ist das Tier ein Freund … Es wäre eine Roheit<a class="refnote" id="rn1" href="99_footnotes.xhtml#fn1">1</a>, …“
+„Inspektor, mir ist das Tier ein Freund … Es wäre eine Roheit<@refnote 1/>, …“
 
 Brance bindet mich fest, und ich … spreche zu Kain, damit er ruhig bleibt, sich niedertut. Seine feurigen Augen hängen an meinem Gesicht, und ich lächele ihm zu, als wäre all dies hier durchaus nichts Bedrohliches.
 
@@ -176,7 +176,7 @@ Erst der gewisse Abstand von Menschen und Dingen zeigt uns das wahre Bild des Ge
 
 Urplötzlich war der Argwohn meiner Seele wieder erwacht. Brance und Jarley konnten niemals, davon war ich nun überzeugt, Beamte aus Patamak sein. In so schlecht sitzenden Uniformen stecken keine kanadischen Berittenen, so ungepflegte Hände hat kein oberer Beamter einer auserwählten Truppe! Und der Haftbefehl, der Ausweis?!
 
-Ein neuer Gedanke trieb mich hoch … Und der Gedanke entsprang den haltlosen Gerüchten, Ret Hand habe in seinen Grotten ungeheuere Schätze verborgen – – Gold, Nuggets<a class="refnote" id="rn2" href="99_footnotes.xhtml#fn2">2</a>, Goldkieseln!!
+Ein neuer Gedanke trieb mich hoch … Und der Gedanke entsprang den haltlosen Gerüchten, Ret Hand habe in seinen Grotten ungeheuere Schätze verborgen – – Gold, Nuggets<@refnote 2/>, Goldkieseln!!
 
 „Kain, hierher …!“
 

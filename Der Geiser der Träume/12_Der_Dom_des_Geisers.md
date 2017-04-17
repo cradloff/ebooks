@@ -48,7 +48,7 @@ Der Geiser der Träume berauschte uns.
 
 Und noch keine halbe Minute hatte er unter ohrenbetäubendem Lärmen seine Schönheiten enthüllt, als Izana Milleret einen wahnwitzigen Schrei ausstieß.
 
-Ein menschlicher Körper war dicht vor uns, triefend, entstellt, verbrüht, aus der Höhe des Geisers auf den Felsboden aufgeschlagen<a class="refnote" id="rn8" href="99_footnotes.xhtml#fn8">8</a>: John Milleret!!
+Ein menschlicher Körper war dicht vor uns, triefend, entstellt, verbrüht, aus der Höhe des Geisers auf den Felsboden aufgeschlagen<@refnote 8/>: John Milleret!!
 
 Izana sank mir bewußtlos in die Arme, – ich hatte im Augenblick die Zusammenhänge durchschaut: Milleret war heute Taskamore nachgeschlichen, Milleret war in den leeren Krater hinabgestiegen, und die Riesenfontäne hatte ihn bei seinem schäbigen Goldraub überrascht.
 

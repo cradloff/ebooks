@@ -1,26 +1,26 @@
 Anmerkung des Verlages:
 =======================
 
-<div class="footnote" id="fn0"><a href="08_Die_Flößer_vom_Mackenzie.xhtml#rn0">↑</a> Vergleiche hierzu die historischen Angaben in Abelsen, Band 3, über den König Orelio Antonio I. von Araukanien<a class="refnote" id="rn9" href="#fn9">9</a>.</div>
+<@footnote 0 "08_Die_Flößer_vom_Mackenzie.xhtml">Vergleiche hierzu die historischen Angaben in Abelsen, Band 3, über den König Orelio Antonio I. von Araukanien<@refnote 9/>.</@footnote>
 
 Anmerkungen:
 ============
 
-<div class="footnote" id="fn1"><a href="01_Die_Armbänder_des_Brance.xhtml#rn1">↑</a> „Rohheit“ / „Roheit“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Roheit“ geändert. Die Schreibweise Roheit ist erst seit der Rechtschreibereform von 1996 nicht mehr korrekt.</div>
+<@footnote 1 "01_Die_Armbänder_des_Brance.xhtml">„Rohheit“ / „Roheit“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Roheit“ geändert. Die Schreibweise Roheit ist erst seit der Rechtschreibereform von 1996 nicht mehr korrekt.</@footnote>
 
-<div class="footnote" id="fn2"><a href="01_Die_Armbänder_des_Brance.xhtml#rn2">↑</a> In der Vorlage steht: „Nuggetts“.</div>
+<@footnote 2 "01_Die_Armbänder_des_Brance.xhtml">In der Vorlage steht: „Nuggetts“.</@footnote>
 
-<div class="footnote" id="fn3"><a href="04_Die_große_Treibjagd.xhtml#rn3">↑</a> In der Vorlage steht: „Galegos“ – Einheitlich und bandübergreifend auf „Gallegos“ geändert.</div>
+<@footnote 3 "04_Die_große_Treibjagd.xhtml">In der Vorlage steht: „Galegos“ – Einheitlich und bandübergreifend auf „Gallegos“ geändert.</@footnote>
 
-<div class="footnote" id="fn4"><a href="05_John_Milleret_aus_Seattle.xhtml#rn4">↑</a> „Yellowstonepark“ / „Yellowstone-Park“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Yellowstone-Park“ geändert.</div>
+<@footnote 4 "05_John_Milleret_aus_Seattle.xhtml">„Yellowstonepark“ / „Yellowstone-Park“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Yellowstone-Park“ geändert.</@footnote>
 
-<div class="footnote" id="fn5"><a href="05_John_Milleret_aus_Seattle.xhtml#rn5">↑</a> In der Vorlage steht: „er“.</div>
+<@footnote 5 "05_John_Milleret_aus_Seattle.xhtml">In der Vorlage steht: „er“.</@footnote>
 
-<div class="footnote" id="fn6"><a href="07_Mein_Einzug_in_Patamak.xhtml#rn6">↑</a> „Kordilleren…“ / „Cordilleren“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Kordilleren“ geändert.</div>
+<@footnote 6 "07_Mein_Einzug_in_Patamak.xhtml">„Kordilleren…“ / „Cordilleren“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Kordilleren“ geändert.</@footnote>
 
-<div class="footnote" id="fn7"><a href="10_Die_Nachtblume_von_Seattle.xhtml#rn7">↑</a> Fehlendes Wort „zu“ ergänzt.</div>
+<@footnote 7 "10_Die_Nachtblume_von_Seattle.xhtml">Fehlendes Wort „zu“ ergänzt.</@footnote>
 
-<div class="footnote" id="fn8"><a href="12_Der_Dom_des_Geisers.xhtml#rn8">↑</a> In der Vorlage steht: „aufschlagen“.</div>
+<@footnote 8 "12_Der_Dom_des_Geisers.xhtml">In der Vorlage steht: „aufschlagen“.</@footnote>
 
-<div class="footnote" id="fn9"><a href="#rn9">↑</a> Man findet gleich zwei Fehler in der Anmerkung des Verlages. Dort steht: „Vergleiche hierzu die historischen Angaben in Abelsen, Band 1, über den König Aurelio Antonio I. von Araukanien.“, tatsächlich ist es aber Band 3 und der König wurde dort „Orelio“ geschrieben. Die korrekte Schreibweise wäre Orélie Antoine de Tounens, im Spanischen kann Orélie aber auch als Orelio oder Aurelio übersetzt werden. Daher bandübergreifend und einheitlich auf „Orelio“ geändert.</div>
+<@footnote 9>Man findet gleich zwei Fehler in der Anmerkung des Verlages. Dort steht: „Vergleiche hierzu die historischen Angaben in Abelsen, Band 1, über den König Aurelio Antonio I. von Araukanien.“, tatsächlich ist es aber Band 3 und der König wurde dort „Orelio“ geschrieben. Die korrekte Schreibweise wäre Orélie Antoine de Tounens, im Spanischen kann Orélie aber auch als Orelio oder Aurelio übersetzt werden. Daher bandübergreifend und einheitlich auf „Orelio“ geändert.</@footnote>
 

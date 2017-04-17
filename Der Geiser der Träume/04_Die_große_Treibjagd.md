@@ -296,7 +296,7 @@ Die Natur hat ihre schlichten Triebe. Hunger und Liebe! Alles andere haben die F
 
 Gewäsch, saftlos, kraftlos, nur gelesen von Snobs gleicher Art, nur gedruckt hingelegt auf Salontischchen von dekadenten Weibern, die alles mitmachen müssen – – nur nicht das Einfache, Natürliche: Die Freude an starker Männlichkeit, die die Faust ballt und auch zuschlägt!
 
-Die beiden da hinter mir, dieser Ranks und dieser schwarze Gentleman, die würden zuhauen und den Finger krümmen und sich ihrer Haut wehren! Das waren Leute meiner Sippe, und meine Sippe wohnt ganz fern am Gallegos<a class="refnote" id="rn3" href="99_footnotes.xhtml#fn3">3</a>, am Rande der Pampas, in einer zweiten, wahren Heimat!
+Die beiden da hinter mir, dieser Ranks und dieser schwarze Gentleman, die würden zuhauen und den Finger krümmen und sich ihrer Haut wehren! Das waren Leute meiner Sippe, und meine Sippe wohnt ganz fern am Gallegos<@refnote 3/>, am Rande der Pampas, in einer zweiten, wahren Heimat!
 
 … Im Trab nun hinab in die Täler, jede weiche Stelle meidend, Bäche durchquerend, – schließlich im Galopp dorthin, wo das Mädchen meiner wartete auf hartem Baumast, belagert von Hunden, die meine Hunde waren und die nicht dulden würden, daß meine Gefangene sich entfernte.
 

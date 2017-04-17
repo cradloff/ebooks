@@ -92,7 +92,7 @@ Ich war allein, und Taskamores Warnung wäre im Grunde überflüssig gewesen.
 
 Vergangene Zeiten erstanden als Gegenwart, – schon das Bewußtsein, meines unvergeßlichen Coy getreues Ebenbild in meiner Nähe zu haben, verliehen mir jene Frische, Gelenkigkeit und Tatfreudigkeit, die das Herz höher schlagen lassen.
 
-Die grelle, bunte Romantik meiner vielen Monate als Pampasreiter am fernen, fernen Gallegos-Fluß ward neu geboren. Jahre versanken, und ich ward wie einst, als Coy und ich über die Berge zogen zum hohen Eisdom der Kordillerenausläufer<a class="refnote" id="rn6" href="99_footnotes.xhtml#fn6">6</a>, wo die goldenen Schätze der Araukaner unberührt neben einem großen, edlen Sohne dieses Stammes ruhten.
+Die grelle, bunte Romantik meiner vielen Monate als Pampasreiter am fernen, fernen Gallegos-Fluß ward neu geboren. Jahre versanken, und ich ward wie einst, als Coy und ich über die Berge zogen zum hohen Eisdom der Kordillerenausläufer<@refnote 6/>, wo die goldenen Schätze der Araukaner unberührt neben einem großen, edlen Sohne dieses Stammes ruhten.
 
 Von Fels zu Fels ein Gleiten und Kriechen, ein Horchen und Spähen, ein immerwährendes Lauern auf einen Angriff …
 

@@ -154,7 +154,7 @@ Ich habe hierüber nie Klarheit gewonnen.
 
 Aber mir selbst kam da die Erinnerung an die Dschungelgeschichten jenes Amerikaners, dessen Maugli-Phantasie ihm Weltruhm einbrachte, – Maugli, das indische Baby, das von den Wölfen erzogen wird …
 
-Jeder kennt die Geschichte.<a class="refnote" id="rn1" href="99_footnotes.xhtml#fn1">1</a>
+Jeder kennt die Geschichte.<@refnote 1/>
 
 Ich selbst besaß einst ein Wesen, das ich Maugli nannte, – einen kleinen zärtlichen Affen.
 
@@ -232,13 +232,13 @@ Es war die Romantik der Wildnis.
 
 Eine unzugängliche Schlucht, ein Mann, ein Kind, ein Wolf …
 
-Immer wieder wähnt man, das Leben hätte nichts Neuartiges mehr zu verschenken, das Leben hätte seine Variationen erschöpft. Aber dieser erhabene, unendlich vielseitige Komponist, der da „Leben“ heißt, erschöpft sich nie. Komponist und Dichter in eins, – der wunderbarste, den es gibt, der unermüdliche, der mich die Pfade abseits vom Alltag entlangführte und mich so überreich beschenkte, der mich die unberührte Natur als Größtes lieben lehrte<a class="refnote" id="rn2" href="99_footnotes.xhtml#fn2">2</a> und die Naturereignisse mir als Geschenke darbrachte.
+Immer wieder wähnt man, das Leben hätte nichts Neuartiges mehr zu verschenken, das Leben hätte seine Variationen erschöpft. Aber dieser erhabene, unendlich vielseitige Komponist, der da „Leben“ heißt, erschöpft sich nie. Komponist und Dichter in eins, – der wunderbarste, den es gibt, der unermüdliche, der mich die Pfade abseits vom Alltag entlangführte und mich so überreich beschenkte, der mich die unberührte Natur als Größtes lieben lehrte<@refnote 2/> und die Naturereignisse mir als Geschenke darbrachte.
 
 Abenteurer – – ich?! Wirklich nur Weltentramp, Strolch der Unendlichkeit?!
 
 Wirklich nur?!
 
-Zuweilen<a class="refnote" id="rn3" href="99_footnotes.xhtml#fn3">3</a> spürte ich das Höhere, Edlere, das in diesem meinem Schicksal eines Gehetzten lag: Werkzeug der Vorsehung!!
+Zuweilen<@refnote 3/> spürte ich das Höhere, Edlere, das in diesem meinem Schicksal eines Gehetzten lag: Werkzeug der Vorsehung!!
 
 Vielleicht …
 

@@ -102,7 +102,7 @@ Das half. Sie fuhr herum.
 
 „Die wird auch nichts verraten, – – es ist eine schmutzige Geschichte, El Gento!“
 
-„Glaube ich unbesehen, liebe Freundin. Im Nationalpark oder Yellowstone-Park<a class="refnote" id="rn4" href="99_footnotes.xhtml#fn4">4</a>, dessen Entdeckungsgeschichte ein Abenteuerroman für sich ist, springen ja auch Schlammgeiser.“
+„Glaube ich unbesehen, liebe Freundin. Im Nationalpark oder Yellowstone-Park<@refnote 4/>, dessen Entdeckungsgeschichte ein Abenteuerroman für sich ist, springen ja auch Schlammgeiser.“
 
 Gaby kniff die Augen klein.
 
@@ -212,7 +212,7 @@ Er beschaute sich kritisch. „Der reine Modeengel!! Wie sind Sie denn zu all de
 
 Er blinzelte mich mißtrauisch an. „Hm – gehören diese Dinge etwa zu den Vorräten eines gewissen Mr. Milleret, John Milleret, den ich mit einiger Berechtigung hier in allernächster Nähe vermute?! Wenn ja, dann müßte ich das Zeug schleunigst wieder ausziehen, denn kein anständiger Mensch trägt die Sachen eines Pestkranken …“ Und so, wie er das letzte Wort betonte, war nur Haß und Verachtung herauszulesen, und das berührte mich sehr sonderbar an einem Manne von Ranks unübertroffener Selbstbeherrschung und fast zynischer Selbstverspottung.
 
-„Sie sind ganz neu, die Sachen, – alles“, erklärte ich<a class="refnote" id="rn5" href="99_footnotes.xhtml#fn5">5</a>, um zu verhindern, daß er sich wirklich alles wieder vom Leibe streifte. Zuzutrauen war ihm das.
+„Sie sind ganz neu, die Sachen, – alles“, erklärte ich<@refnote 5/>, um zu verhindern, daß er sich wirklich alles wieder vom Leibe streifte. Zuzutrauen war ihm das.
 
 „Bestimmt neu?!“
 

@@ -1,7 +1,7 @@
 15\. Kapitel.
 =============
 
-<h2>Und Friede auf Erden …?!<a class="refnote" id="rn7" href="99_footnotes.xhtml#fn7">7</a></h2>
+<h2>Und Friede auf Erden …?!<@refnote 7/></h2>
 
 … In der Wohngrotte lag James Morrison mit eingedrückter Brust und zerfetztem Gesicht, das bereits die Schatten des Todes umspielten, auf weichem Mooslager.
 

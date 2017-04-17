@@ -92,7 +92,7 @@ Die Natur begleitete diese ihre Kraftentfaltung mit dem höllischen Sang eines K
 
 Ich hatte Taifune erlebt, ich hatte auf dem Meere Wasserhosen hochsteigen sehen, ich hatte in den Pampas des südlichsten Amerika Wirbelwinde kennengelernt, die uralte Bäume pflückten wie Gänseblümchen.
 
-Dies hier war gewaltiger, ergreifender als alles das, – dies hier war Triumph<a class="refnote" id="rn6" href="99_footnotes.xhtml#fn6">6</a> der Natur, war berauschend schön, beklemmend bedrohlich. Man spürte bis in die feinsten Nerven die eigene Nichtigkeit.
+Dies hier war gewaltiger, ergreifender als alles das, – dies hier war Triumph<@refnote 6/> der Natur, war berauschend schön, beklemmend bedrohlich. Man spürte bis in die feinsten Nerven die eigene Nichtigkeit.
 
 Da begann der alte Red Hand zu sprechen.
 
