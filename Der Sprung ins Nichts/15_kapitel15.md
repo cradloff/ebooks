@@ -98,8 +98,7 @@ Dann ein leises Tappen in der Finsternis, – – ein gellender Schrei … –
 
 Mir scheint, Kain hat da einen Fremden erwischt, der hier nichts zu suchen hat …
 
+<p style="padding-top: 0.5em;">Nächster Band:</p>
 
-Nächster Band:
-
-Der Geiser der Träume.
+<p style="text-align: center; font-size: large; font-weight: bold;">Der Geiser der Träume.</p>
 
