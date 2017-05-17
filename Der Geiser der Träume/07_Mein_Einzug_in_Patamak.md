@@ -278,7 +278,7 @@ Welmer fügte noch eisiger hinzu.
 
 Milleret war aufgesprungen. Sein stierer Blick flog hinüber zu den Mooshütten der Seinen.
 
-Ich werde … werde …“
+„Ich werde … werde …“
 
 Aber diese keuchenden, zischenden Worte sollten nur Beginn leerer Drohung bleiben.
 

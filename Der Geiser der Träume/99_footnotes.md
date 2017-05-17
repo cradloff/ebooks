@@ -6,7 +6,7 @@ Anmerkung des Verlages:
 Anmerkungen:
 ============
 
-<@footnote 1 "01_Die_Armbänder_des_Brance.xhtml">„Rohheit“ / „Roheit“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Roheit“ geändert. Die Schreibweise Roheit ist erst seit der Rechtschreibereform von 1996 nicht mehr korrekt.</@footnote>
+<@footnote 1 "01_Die_Armbänder_des_Brance.xhtml">„Rohheit“ / „Roheit“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Roheit“ geändert. Die Schreibweise Roheit ist erst seit der Rechtschreibreform von 1996 nicht mehr korrekt.</@footnote>
 
 <@footnote 2 "01_Die_Armbänder_des_Brance.xhtml">In der Vorlage steht: „Nuggetts“.</@footnote>
 

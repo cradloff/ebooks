@@ -44,9 +44,9 @@ Eines der Bücher enthielt eine Schilderung der Entdeckungsgeschichte der wunder
 
 Als ich diese alte Schwarte, deren Papier, Druck, Umschlag und Stil schon die Herkunft aus den siebziger Jahren des vorigen Säkulums verriet, zum ersten Male in die Hand bekam und den schwülstigen Titel überflog:
 
-Wahrhaftige Schilderung der Auffindung der vulkanischen Schluchten und Berge in den Rocky Mountains, heute Yellowstone-Nationalpark genannt, durch den Franzosen Roger Tounens und dem Kapitän
+> Wahrhaftige Schilderung der Auffindung der vulkanischen Schluchten und Berge in den Rocky Mountains, heute Yellowstone-Nationalpark genannt, durch den Franzosen Roger Tounens und dem Kapitän
 
-De Lacy
+> De Lacy
 
 kam mir eine Offenbarung, wie sie überraschender und eindrucksvoller mir nie beschert wurde.
 
@@ -234,7 +234,7 @@ Ein halb im Wasser liegender Tannenstamm bot mir fürs erste Deckung. Ich taucht
 
 Ich schoß empor, – dicht neben mir tauchte Kains spitze Schnauze auf, seine blanken milden treuen Augen suchten meinen Blick, die Strömung trug uns davon, der weiße Gischt seifte mein Gesicht ein, – dann ein schwerer Stoß in die Hüfte, wieder solch ein verdammtes Steinstück, mir ward es schwarz vor Augen, ich fühlte, daß meine Beine tiefer sanken und von einer furchtbaren Gewalt gepackt im Kreise schwangen, förmlich zu Bleiklumpen wurden und mich hinabzerrten in die lehmige Tiefe des wirbelnden Strudels.
 
-Einen Augenblick gab ich mich verloren. Ein lähmendes Gefühl der Hilflosigkeit ließ meine Arme erschlaffen, Wasser drang mir in Mund und Kehle, Hustenreiz quälte mich, und dann siegte doch wieder der Lebenstrieb, die Energie erwachte, Geist besiegte den schlaffen Körper, und mit zusammengebissenen Zähnen arbeitete ich mich empor, fühlte die Kraft des Strudels schwinden, schwamm in freiem Wasser, riß die Augen auf, – – neben mir trieben zwei Balken des Flosses, die sich losgelöst haben mußten, Weidenruten waren noch in mehrfacher Lage um die Bäume geschlungen, boten den Händen einen Halt, und gedeckt durch diese Balken glitt ich mit dem unverwüstlichen Kain vollends aus den Stromschnellen heraus und … war gerettet – – durch Taskamores schlaue List.
+Einen Augenblick gab ich mich verloren. Ein lähmendes Gefühl der Hilflosigkeit ließ meine Arme erschlaffen, Wasser drang mir in Mund und Kehle, Hustenreiz quälte mich, und dann siegte doch wieder der Lebenstrieb, die Energie erwachte, Geist besiegte den schlaffen Körper, und mit zusammengebissenen Zähnen arbeitete ich mich empor, fühlte die Kraft des Strudels schwinden, schwamm in freiem Wasser, riß die Augen auf, – – neben mir trieben zwei Balken des Floßes, die sich losgelöst haben mußten, Weidenruten waren noch in mehrfacher Lage um die Bäume geschlungen, boten den Händen einen Halt, und gedeckt durch diese Balken glitt ich mit dem unverwüstlichen Kain vollends aus den Stromschnellen heraus und … war gerettet – – durch Taskamores schlaue List.
 
 Urplötzlich erschien neben uns ein dritter Kopf, Taskamores dunkle Augen glühten mich triumphierend an, und sein hastiges Flüstern galt nur der einzuschlagenden Richtung. Wir lenkten die Stämme, mit den Füßen kräftig ausstoßend, zum Westufer, – ich sah, daß das ganze Floß sich aufgelöst hatte, daß überall diese schirmenden Bäume dahintrieben, und jetzt erst erkannte ich, wie sorgfältig Taskamore den Befreiungsplan bis ins einzelne vorbereitet hatte.
 
