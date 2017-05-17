@@ -90,9 +90,7 @@ Kam Arm in Arm, eng umschlungen …
 
 Der Vollmond beleuchtete zwei strahlende Gesichter, und in Izanas Augen lag der Zauberglanz endlich errungenen, traumhaften Glücks wie der Schimmer der milden Farbenpracht des Geisers der Träume …
 
- 
+<p style="padding-top: 0.5em;">Nächster Band:</p>
 
-Nächster Band:
-
-Die Erdölpiraten.
+<p style="text-align: center; font-size: large; font-weight: bold;">Die Erdölpiraten.</p>
 
