@@ -195,7 +195,7 @@ weniger scharf. „Und wenn Sie fürchten sollten, daß dem Bürschchen hier all
 etwas zustoßen könnte, so werde ich bei ihm bleiben. Erklettern Sie mit Coy
 jene östliche Anhöhe, deren flache Kuppe gelb von Dornblüten leuchtet. Der Berg
 da liegt nur etwa hundert Meter von unserer Robinsoninsel entfernt, die wir
-soeben verlassen haben. Meine lange Coldpistole schießt aber in meiner Hand
+soeben verlassen haben. Meine lange Coldpistole schießt aber *in* meiner Hand
 noch auf größere Entfernung absolut sicher, selbst wenn lediglich das
 Aufflammen von Blitzen das nötige Licht spendet …“
 
@@ -223,7 +223,7 @@ entzog, sagte ich zu Coy, dem Treuen:
 
 Seine Antwort überraschte mich.
 
-„Mistre, ich das tun auch von selber … Mistre Näsler mir nicht gefallen … Geben
+„Mistre, *ich* das tun auch von selber … Mistre Näsler mir nicht gefallen … Geben
 mir bitte Repetierbüchse, Mistre Abelsen. Meine Flinte gut für Robben, sonst
 nichts taugen …“
 
@@ -325,7 +325,7 @@ wir uns selber immer am wenigsten kennen … – Na – und droben auf der Kuppe
 „Darüber reden wir später … – Allan, mein Junge, hast du einen Onkel namens
 Gerald Mangrove?“
 
-„Ja, Mister Abelsen … Advokat in New Orleans ist er, aber kein richtiger Onkel.
+„Ja, Mister Abelsen … Advokat in New Orleans *ist* er, aber kein richtiger Onkel.
 Nur ein Vetter von Mammi von der anderen Mangrove-Linie. Großvater nennt sie
 immer die armen Mangroves. Denn Großvater ist sehr reich. – Wie kommen Sie auf
 Onkel Gerald, den ich übrigens gar nicht leiden mag, Mister Abelsen?“

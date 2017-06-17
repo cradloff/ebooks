@@ -50,7 +50,7 @@ Coy fuhr auf. „Unsinn, nicht bewohnt!! Woher du anders sagen, he?!“
 
 Näsler warf mir einen Blick zu. Auch ich merkte: hier stimmte etwas nicht!
 
-„Was du schon weißt!“ höhnte Coy geringschätzig. „Dreckige Feuerländer dort
+„Was *du* schon weißt!“ höhnte Coy geringschätzig. „Dreckige Feuerländer dort
 Zelte haben, wenn Robben sich paaren … Feuerländer nachher wieder weg …“
 
 „Weiße,“ brummte Chubur und warf die Spinne ins Feuer.

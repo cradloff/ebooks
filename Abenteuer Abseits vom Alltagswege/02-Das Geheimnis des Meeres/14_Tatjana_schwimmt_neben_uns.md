@@ -292,7 +292,7 @@ wohnt. Ich auch. Vorläufig. Und wenn du uns gefunden, will ich dich mitnehmen
 hinein in die patagonische Steppe. Vielleicht … erleben wir etwas. Aber ob du
 lebend heimkehrst, dafür kann ich dir nicht garantieren …
 
-Und doch: ich lebe noch!
+Und doch: *ich* lebe noch!
 
 Wie das kam trotz des Eimers mit dem Deckel?
 

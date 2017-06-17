@@ -87,7 +87,7 @@ Er drehte sich müde um. Ein trauriger Blick traf mich.
 Geliebte, Abelsen … Eine reiche elegante Dirne, der ich einst in Monte Carlo in
 die Finger geriet – meine Verderberin, der Unstern meines Daseins … Und Allan,
 damit Sie es wissen, Allan ist mein und jenes Weibes Kind. Der Junge soll’s
-jedoch nie erfahren, was für eine Mutter er hat. Nun wird Ihnen so manches klar
+jedoch nie erfahren, was für eine Mutter er hat. Nun wird Ihnen *so* manches klar
 sein, lieber Abelsen. Freund Coy kann sich übrijens mit seinen Indianerkünsten
 bejraben lassen – jänzlich! Das Weib und ihre Begleiter sind uns doch auf den
 Hacken jeblieben, Verehrtester … Coy hat sich bis auf die Knochen blamoren … Na

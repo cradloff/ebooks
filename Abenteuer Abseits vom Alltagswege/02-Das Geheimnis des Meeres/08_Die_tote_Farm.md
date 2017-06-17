@@ -81,12 +81,12 @@ besprechen war. Joachim schritt voran. In einer Felsmulde zweihundert Meter
 zurück standen wir uns dann gegenüber. Nicht als Kameraden, spürte ich, bevor
 er noch zu reden begann.
 
-„Herr Abelsen, was beabsichtigen Sie?“ fragte er keuchend, und seine Rechte
+„*Herr* Abelsen, was beabsichtigen Sie?“ fragte er keuchend, und seine Rechte
 fingerte am Pistolenfutteral herum …
 
 Merkwürdige Frage, noch merkwürdiger der Ton …
 
-„Was die Umstände erfordern, Herr Näsler.“ – Mit einem Male war das „Herr“
+„Was die Umstände erfordern, *Herr* Näsler.“ – Mit einem Male war das „Herr“
 zwischen uns wieder aufgelebt.
 
 „Und das wäre?“
@@ -108,7 +108,7 @@ Jetzt bat er … Und in seiner vibrierenden Stimme war etwas, das mir nahe ging.
 
 „Abelsen, es gibt Dinge, über die ich nicht sprechen mag,“ fuhr er noch
 eindringlicher fort, und das Blut schoß ihm plötzlich in die Wangen. „Abelsen,
-Sie sind ein anständiger Mensch … Man hatte Sie zu unrecht eingesperrt. Ich bin
+Sie sind ein anständiger Mensch … Man hatte Sie zu unrecht eingesperrt. *Ich* bin
 ein Lump – vor mir selbst … Was ich getan, war nichts, das die Strafgesetze
 irgendeines Landes ahnden würden. Aber das paragraphenreichste Gesetz tragen
 wir selbst in uns. Wir sind die schärfsten Richter über uns, wenn wir eben

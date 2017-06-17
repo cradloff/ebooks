@@ -67,7 +67,7 @@ Zigarre. Seine rechte Fußspitze ist in dauernder Bewegung.
 
 Wir warten …
 
-Das entsetzlichste Warten, das wir je durchgemacht – ich gewiß! Ob Achim schon
+Das entsetzlichste Warten, das wir je durchgemacht – *ich* gewiß! Ob Achim schon
 Ähnliches erlebte – – ich weiß es nicht. Was weiß ich überhaupt von ihm?! – Er
 heißt nicht Näsler … Joachim heißt er … Und Ostpreußen muß seine Heimat sein …
 Verheiratet ist er mit Ellinor, geborener Mangrove aus New Orleans, beider Kind
