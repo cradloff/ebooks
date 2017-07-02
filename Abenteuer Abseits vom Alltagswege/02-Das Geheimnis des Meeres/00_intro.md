@@ -18,7 +18,7 @@ Schwedischen von
 <div style="font-size: large; text-align: center;">M. Schraut</div>
 
 <div style="font-size: large; text-align: center; white-space: pre-wrap;">
-– Band 1 –
+– Band 2 –
 </div>
 
 <div style="font-size: small; text-align: center; white-space: pre-wrap;">Verlag moderner Lektüre G. m. b. H.
