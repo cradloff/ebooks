@@ -291,12 +291,12 @@ hinterdrein.
 Nun lesen wir … In englisch, französisch, spanisch, mit schwarzer Tinte gemalt
 in lateinischen Buchstaben:
 
-Warnung!!!
+> Warnung!!!
 
-Hier leben zwei arme Aussätzige, die aus Furcht, in einem Lepraheim interniert
-zu werden, sich von der Welt für immer zurückgezogen haben. Da unsere Krankheit
-überaus ansteckend ist, warnen wir jeden, sich uns zu nähern, und bitten
-zugleich, unser Geheimnis nicht zu verraten.
+> Hier leben zwei arme Aussätzige, die aus Furcht, in einem Lepraheim interniert
+> zu werden, sich von der Welt für immer zurückgezogen haben. Da unsere Krankheit
+> überaus ansteckend ist, warnen wir jeden, sich uns zu nähern, und bitten
+> zugleich, unser Geheimnis nicht zu verraten.
 
 Lepra – Aussatz!
 

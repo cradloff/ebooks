@@ -248,15 +248,15 @@ Apothekentasche geräuschvoll zu, faßte in die Jacke und holte jenen
 Büttenpapierzettel hervor, den ich damals in dem verwitterten Schmöker gefunden
 hatte. Mit Betonung einzelner Stellen las er vor:
 
-Da ich Leute von Energie, Mut und rücksichtslosem Draufgängertum brauche,
-könnten Sie mich gegen entsprechende Bezahlung auf dem Kutter längere Zeit
-begleiten. Mein Vorhaben wird Sie in keiner Weise mit den Gesetzen in Konflikt
-bringen. Anderseits ist die Möglichkeit nicht ausgeschlossen, daß Sie gezwungen
-sind, für meine Interessen Ihr Leben in die Schanze zu schlagen. Ich habe mit
-Gegnern zu rechnen, die sich außerhalb von Gesetz und Recht gestellt haben, und
-im Falle eines Zusammenstoßes mit diesen Leuten müßte ich darauf rechnen
-können, daß Sie mir auch in diesem Punkte unbedingt gehorchen. Einzelheiten
-unseres Abkommens bleiben einer mündlichen Festlegung vorbehalten.
+> Da ich Leute von Energie, Mut und rücksichtslosem Draufgängertum brauche,
+> könnten Sie mich gegen entsprechende Bezahlung auf dem Kutter längere Zeit
+> begleiten. Mein Vorhaben wird Sie in keiner Weise mit den Gesetzen in Konflikt
+> bringen. Anderseits ist die Möglichkeit nicht ausgeschlossen, daß Sie gezwungen
+> sind, für meine Interessen Ihr Leben in die Schanze zu schlagen. Ich habe mit
+> Gegnern zu rechnen, die sich außerhalb von Gesetz und Recht gestellt haben, und
+> im Falle eines Zusammenstoßes mit diesen Leuten müßte ich darauf rechnen
+> können, daß Sie mir auch in diesem Punkte unbedingt gehorchen. Einzelheiten
+> unseres Abkommens bleiben einer mündlichen Festlegung vorbehalten.
 
 Nun, uns war der Inhalt dieses Blattes noch durchaus geläufig, und Boche Boche
 meinte daher auch nur nebenbei: „Wissen wir alles, Käpten … Wissen auch, daß
