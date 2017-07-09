@@ -13,7 +13,7 @@ links den Friedhof dieses ältesten Klosters der Welt, von dem die Überlieferun
 besagt, an dieser Stelle habe sich einst der Garten Eden, das Paradies
 befunden:
 
-Das Herz der Welt!
+> Das Herz der Welt!
 
 Es ist ein weiter Weg von Sachalin zu den kahlen, hellen Gebirgsmassen am Roten
 Meer – bis zum Kloster St. Antonius, dem ältesten der Christenheit. Es war ein

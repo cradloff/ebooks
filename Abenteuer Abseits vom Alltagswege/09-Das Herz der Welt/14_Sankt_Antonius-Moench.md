@@ -59,7 +59,7 @@ mir feierlich ein gefaltetes, blutiges Papier überreicht.
 Die Leuchtkraft der Holzstöße genügt. Ich lese das, was Gowin mit seinem
 Herzblut getränkt hat.
 
-„Freund Olaf, ich zweifele nicht daran, daß ihr uns finden werdet. Sollte mir
+> „Freund Olaf, ich zweifele nicht daran, daß ihr uns finden werdet. Sollte mir
 etwas zustoßen, so bestimme ich, daß Du mein Nachfolger im Wang wirst, und ich
 bitte Dich, dieses mein Vermächtnis nicht auszuschlagen. Gleichzeitig
 hinterlasse ich Dir mein gesamtes Vermögen, das bei verschiedenen Banken
@@ -69,7 +69,7 @@ auszuhändigen. – Du bist ohne Heimat, Du verzettelst Deine Kräfte um nichts,
 hier hast Du eine Aufgabe, die Dein Leben ausfüllen wird. Europa verstieß Dich,
 Asien öffnet Dir seine Arme. Dir winkt ein Ziel, das Deiner würdig ist.
 
-Wassili Gowin.
+> Wassili Gowin.
 
 Vor dem Elften brannte am Boden ein kleines Feuer in einer Messingschale –
 wohlriechende Harze, Zedernäste …

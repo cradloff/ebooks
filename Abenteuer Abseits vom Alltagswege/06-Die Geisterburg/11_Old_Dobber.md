@@ -23,7 +23,7 @@ Vorsicht half nichts: Auch seine Getreuen erkrankten. Er selbst schrieb seine
 letzte Seite in seinem Tagebuch im Jahre 1920, – Monat und Tag wußte er nicht
 genau:
 
-„Wir sind sämtlich krank. Sechs bereits tot. Auch ich fühle den Tod nahen.
+> „Wir sind sämtlich krank. Sechs bereits tot. Auch ich fühle den Tod nahen.
 Unsere Leiber sind verseucht, verstümmelt, verfault, wir leben uns selbst zum
 Grauen. Ich habe nicht mehr die Kraft, diese letzten Monate zu schildern.
 Sollte je ein Europäer hierher gelangen, so mache ich es ihm zur heiligen
@@ -84,7 +84,7 @@ Terrassen mit dürftiger Vegetation, – und dann hinten im Talwinkel freundlich
 helles Grün frischer Gräser und Sträucher und Bäume: Ein Paradies für diese
 Einöden! Aber:
 
-Lasset alle Hoffnung hinter euch!
+> Lasset alle Hoffnung hinter euch!
 
 Unglückliche hatten hier Jahrzehnte auf den Tod gewartet, hatten ihre Glieder
 verfaulen sehen, hatten trotzdem fast Unwirkliches geschaffen: Neger, geleitet

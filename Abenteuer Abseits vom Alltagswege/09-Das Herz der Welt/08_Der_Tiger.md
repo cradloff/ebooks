@@ -49,7 +49,7 @@ Es ist Iwan Zubanoff. Ich weiß es nun mit aller Bestimmtheit. Seine Zeilen
 beweisen es, ich habe den Zettel Wera zurückgegeben, sie trägt ihn auf dem
 Herzen, aber auch ich kann jedes Wort auswendig:
 
-Weruschka, was auch geschehen ist und geschehen möge, zweifele niemals an mir
+> Weruschka, was auch geschehen ist und geschehen möge, zweifele niemals an mir
 und meiner Liebe. Umstände, die stärker sind als meine Sehnsucht nach Dir,
 haben mich auch jetzt gezwungen, Dir fernzubleiben. Benutze den Kahn, kehre zum
 Blockhaus zurück, der Wasserweg ist durch Beilhiebe an den Erlen markiert, und
@@ -70,7 +70,7 @@ Aufbruch so eilig gehabt, daß er die Wachswalze des Diktaphons zu entfernen
 vergaß. Ich fand sie noch eingespannt, ich notierte mir die Punkte und Striche,
 ich entzifferte die primitive Geheimschrift. Die Depesche hatte gelautet:
 
-Sofort Charbin 13 Sendung eilt. Tschu-Wang 11.
+> Sofort Charbin 13 Sendung eilt. Tschu-Wang 11.
 
 Aus dem Text war nicht viel zu entnehmen. Wichtig das eine: Sofort Charbin!
 

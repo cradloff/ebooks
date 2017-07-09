@@ -54,7 +54,7 @@ Niemand also?!
 Eine neue Dusche rieselte herab, und das leise Plätschern schien einen Namen zu
 raunen:
 
-Daisy!
+> Daisy!
 
 Ich glaubte jetzt, den *vierten* von uns zu kennen. Vier, hatte Percy gesagt, –
 vier gegen eine Armee von Schurken!

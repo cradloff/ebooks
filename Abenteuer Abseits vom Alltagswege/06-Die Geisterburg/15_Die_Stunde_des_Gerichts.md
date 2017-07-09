@@ -217,7 +217,7 @@ durch den Dschungel, und das ist kein Vergnügen …
 Ich werde mit Schwung den Schlußstrich ziehen. Was ich über Arthur Bensons Burg
 zu sagen hatte, ist gesagt …
 
- 
 
-– Ende. –
+
+__– Ende. –__
 

@@ -191,7 +191,7 @@ Mit gierigen Händen glättete ich ihn und sah eine feine zierliche
 Bleistiftschrift. Margrits Botschaft – Peter war also bei ihr gewesen –
 lautete:
 
-„Vielleicht gelangt der Zettel in Ihren Besitz, Mr. Olaf. Warton sagte uns, daß
+> „Vielleicht gelangt der Zettel in Ihren Besitz, Mr. Olaf. Warton sagte uns, daß
 Gwenda Pulter Ihnen den Affen gnädigst überlassen hat. – Trauen Sie Gwenda auf
 keinen Fall, was auch geschehen möge. Sie ist gefährlich. – Wir haben hier am
 Heck drei Zellen nebeneinander, und Chi ist mein Nachbar, die letzte Zelle
@@ -204,7 +204,7 @@ Hände geraten.“
 
 Dann folgten in griechischen Buchstaben die Sätze:
 
-„Vielleicht kennen Sie wie ich das griechische Alphabet. Der Lord und Gwenda
+> „Vielleicht kennen Sie wie ich das griechische Alphabet. Der Lord und Gwenda
 kennen es bestimmt nicht. Geben Sie mir Nachricht. Peter wird sicherlich wieder
 zu mir kommen.“
 
@@ -223,7 +223,7 @@ Vor dem Schlafengehen schrieb ich mit einem spitzen Hölzchen, das in einen
 fragwürdigen Tintenersatz getaucht wurde, auf der Rückseite des halbierten
 Zettels:
 
-„Bitte griechisch. – Borstel und ich in einer Zelle. Der Major scheinbar oben
+> „Bitte griechisch. – Borstel und ich in einer Zelle. Der Major scheinbar oben
 untergebracht. Sorge überflüssig. Wissen Sie, wohin die Reise geht?“
 
 Dann wurde Peter samt Schnur und Zettel durch das lose Brett geschoben, bekam
@@ -339,7 +339,7 @@ zerfetzen dürfe.
 
 Ich las – griechische Buchstaben:
 
-„Zwischen Brasson und mir ist alles aus. Er betrügt mich. In Singapore war es
+> „Zwischen Brasson und mir ist alles aus. Er betrügt mich. In Singapore war es
 Tändelei, war es mehr ein höfliches Eingehen auf Fanny Rosselleers raffinierte
 Koketterie. – Ihre Andeutung, Mr. A., genügte mir. Er ist „oben“, – ich weiß,
 was das bedeutet. Niemals hätte ich ihm diese zweite Entgleisung zugetraut.

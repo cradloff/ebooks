@@ -74,7 +74,7 @@ Ich suche andere Wellen. Und als ich etwa die Welle um 300 Meter herum
 einstelle, die überlaut pfeift, vernehme ich gerade noch die letzten Worte
 irgendeines Ansagers …:
 
-„… dann meldet euch. – Wir kommen um elf Uhr fünfzehn wieder …“
+> „… dann meldet euch. – Wir kommen um elf Uhr fünfzehn wieder …“
 
 Der Ansager hat englisch gesprochen, und das ist sehr merkwürdig. Wo gibt es
 hier zwischen Asien und Südamerika einen englischen Rundfunksender von solcher
@@ -87,12 +87,12 @@ Chanaf mahnt bescheiden: Er will wieder die Zaubermusik hören! – Ich winke ab
 
 Ein Anruf …: Fünf seltsame Töne wie aus einer Kindertrompete, dann:
 
-„Hallo, hier der Sender Ellerduc …! Hallo, hier …“
+> „Hallo, hier der Sender Ellerduc …! Hallo, hier …“
 
 Dreimal …
 
-„Habt ihr uns gehört? Hier wieder alles in Ordnung. Meldet euch auf 300. Wir
-wollen vorsichtig sein. Wir warten. Wir kommen jede halbe Stunde wieder.“
+> „Habt ihr uns gehört? Hier wieder alles in Ordnung. Meldet euch auf 300. Wir
+> wollen vorsichtig sein. Wir warten. Wir kommen jede halbe Stunde wieder.“
 
 Stille … Das Rauschen verstummt. Der Sender Ellerduc schweigt.
 
@@ -108,7 +108,7 @@ Ich morse …
 Aber auch ich bin vorsichtig. Als Anruf fünfmal „Lang lang lang lang lang.“
 Dann:
 
-„Hallo, hier das Schiff … Wir haben euch gehört. Bitte sofort nähere Angaben.“
+> „Hallo, hier das Schiff … Wir haben euch gehört. Bitte sofort nähere Angaben.“
 
 Wieder stülpe ich den Kopfhörer über und lausche.
 

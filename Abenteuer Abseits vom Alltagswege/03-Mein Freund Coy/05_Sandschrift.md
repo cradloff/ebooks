@@ -334,10 +334,10 @@ hinzog – Schreibtafel …!
 
 In den Sand war mit einem Stock hineingeschrieben:
 
-„El Gento, ich rettete Ihnen das Leben, ich zog Sie unter dem toten Tiere
-hervor und in die Höhle hinein. Seien Sie dankbar!
+> „El Gento, ich rettete Ihnen das Leben, ich zog Sie unter dem toten Tiere
+> hervor und in die Höhle hinein. Seien Sie dankbar!
 
-Braanken.“
+> Braanken.“
 
 Mein Leben als Weltentramp, als Vagabund des Erdenrunds, hat mir mancherlei
 merkwürdige Nachrichten beschert. Nie wieder eine derartige – in den Sand

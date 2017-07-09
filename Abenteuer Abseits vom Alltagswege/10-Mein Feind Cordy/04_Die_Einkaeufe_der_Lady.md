@@ -258,7 +258,7 @@ Tübbickes Stirn krauste sich. Sein Gesicht ward hart.
 eines Schweißhundes auch für entlegene Dinge wie dies Geschreibsel. Hier steht
 als erste Zahl:
 
-400 – K. – Kuft
+> 400 – K. – Kuft
 
 Halten Sie „Kuft“ für Toilettenseife, Tübbicke?!“
 
@@ -266,7 +266,7 @@ Er schwieg und senkte den Kopf.
 
 „Hier steht weiter:
 
-4T. – K. – K.
+> 4T. – K. – K.
 
 Glauben Sie, es handelt sich um Zahnbürsten, Tübbicke?!“
 
@@ -280,7 +280,8 @@ Entfernung vier Tagesritte vorgesehen sind, ergäbe das pro Tag hundert
 Kilometer. Das schaffen nur erstklassige Reitdromedare wie die der Bischarin. –
 Weiter steht hier:
 
-300 – Kuft – Ass.  3½ T.
+> 300 – Kuft – Ass.
+> 3½ T.
 
 Meinen Sie nicht, Tübbicke, daß „Ass“ gleich Assuan sein soll? Oder denken Sie
 an Skatkarten?!“
@@ -290,7 +291,7 @@ Adolar mit den drei A rief ärgerlich:
 „Genug davon! – Die Route ist bis hinab zur großen Karawanenstraße genau
 berechnet … bis zum Bir Schikr, dann folgt nur noch eine Zahl:
 
-150 – Irba,
+> 150 – Irba,
 
 und das verstehe ich nicht recht.“
 
@@ -334,7 +335,7 @@ Ich löste das Gummiband, und das Büchlein enthüllte sein letztes Geheimnis.
 Zwischen Etui und Rückendeckel war ein zusammengefalteter Zettel eingeklemmt.
 Mit Tinte stand da in groben Zügen – eine fast brutale Schrift:
 
-„Du wirst mich niemals daran hindern, W. Z. zu zwingen, mit nach der Oase zu
+> „Du wirst mich niemals daran hindern, W. Z. zu zwingen, mit nach der Oase zu
 kommen. Sie kennt alles Nötige, nur Sie! – Hüte Dich, – das Recht ist auf
 meiner Seite. Solltest Du mir bis Bir Schikr folgen, ist es Dein eigener
 Schade!“

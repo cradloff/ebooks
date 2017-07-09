@@ -22,7 +22,7 @@ zwei halberwachsene Töchter fast mittellos zurück?! – Wie Paloma dann Brigan
 geworden, war nicht ganz geklärt. Wie Ethel diesen Kapitän Murray heiraten
 konnte, der doppelt so alt als wie sie, – eine zweite ungelöste Frage.
 
-„La Kruxa und ihre Bande hat nie einen Menschen getötet,“ fand ich in einem der
+> „La Kruxa und ihre Bande hat nie einen Menschen getötet,“ fand ich in einem der
 Artikel hervorgehoben. „Sie arbeiteten mit den modernsten Mitteln, sie besaßen
 Automobile, geheime Funkstationen, sogar zwei Flugzeuge. In allen Städten hatte
 die Bande Helfershelfer. Wo irgend nur neue Goldfunde die Schwärme der
@@ -32,7 +32,7 @@ Weltfirmen, die die australische Goldausfuhr in der Hand haben.“
 
 An anderer Stelle wieder:
 
-„La Kruxas Verehrer soll ein englischer Lord sein. Erwiesen ist, daß sie seine
+> „La Kruxas Verehrer soll ein englischer Lord sein. Erwiesen ist, daß sie seine
 Bewerbung ablehnte, daß dieser Unbekannte trotzdem treu zu ihr hielt und daß er
 eine eigene „Polizei“ organisierte, Paloma zu schützen. Dieser geheimnisvolle
 Fremde soll stets in Verkleidung auftreten. Gesehen hat ihn noch niemand. Aber

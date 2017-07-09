@@ -316,7 +316,8 @@ ihrer Brust, das ich einst dem Toten abgenommen hatte, „– hier – – dies 
 Gewißheit, Olaf, dieses winzige Bild eines Säuglings …! Hättest du je das Bild
 aus dem Medaillon genommen, würdest du auf der Rückseite gelesen haben:
 
-Johanna Petersen, Malmotta, 2. 3. 1905.“
+> Johanna Petersen,
+Malmotta, 2. 3. 1905.“
 
 Ich starrte sie wortlos an … All das kam zu plötzlich, zu überraschend. Ich
 brauchte Zeit, Ordnung in meine Gedanken zu bringen.

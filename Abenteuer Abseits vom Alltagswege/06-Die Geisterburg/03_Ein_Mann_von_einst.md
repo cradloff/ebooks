@@ -163,8 +163,8 @@ deutsche Literatur lieben gelernt. Ich dachte an seine „Elixiere des Teufels�
 und diese nachgelassenen Papiere des Bruders Medardus, eines Kapuziners, hatten
 mich als Jüngling in obstatische Erregung versetzt.
 
-„Gern möchte ich dich, günstiger Leser, unter jene dunklen Platanen führen, wo
-ich die seltsame Geschichte des Bruders Medardus zum ersten Male las …“
+> „Gern möchte ich dich, günstiger Leser, unter jene dunklen Platanen führen, wo
+> ich die seltsame Geschichte des Bruders Medardus zum ersten Male las …“
 
 So schrieb E. T. A. Hoffmann vor vielen Jahrzehnten …
 

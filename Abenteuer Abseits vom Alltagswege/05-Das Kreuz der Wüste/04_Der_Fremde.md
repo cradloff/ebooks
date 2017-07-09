@@ -50,7 +50,7 @@ und lediglich ein Stück Leinwand gegen die Scheibe preßte, ein richtiges
 Plakat, das auf einen Holzdeckel genagelt war und in frischer schwarzer Ölfarbe
 die Inschrift uns vorwies:
 
-Taucht auf, oder Dynamit!!
+> Taucht auf, oder Dynamit!!
 
 Lateinische Buchstaben von der Länge der Flosse Freund Dingos, englische Worte,
 – das Ganze eine lächerliche Drohung.

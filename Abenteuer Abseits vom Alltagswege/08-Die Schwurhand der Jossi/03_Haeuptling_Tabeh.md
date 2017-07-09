@@ -294,7 +294,7 @@ das Spiel von Zufälligkeiten, die meine Wege kreuz und quer mir aufdrängten,
 war das wahre Menschentum. Über fernen Meeren und Ländern lag im verstaubten
 Aktenregal ein verstaubter Aktenband:
 
-Mordsache Olaf Karl Abelsen.
+> Mordsache Olaf Karl Abelsen.
 
 Ganz zuletzt stand da wohl in diesen lächerlichen Papierfetzen eine Notiz:
 Steckbrieferneuerung!

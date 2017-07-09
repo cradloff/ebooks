@@ -146,7 +146,7 @@ Ich schob die Dynamitpatrone in die Tasche. Sie war ja so weit ungefährlich.
 Das goldene Feuerzeug trug den Stempel eines Londoner Juweliers und unter einem
 eigentümlichen Wappen das verschlungene Monogramm
 
-J. C.
+> J. C.
 
 J. C. …?!
 

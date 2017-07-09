@@ -136,7 +136,7 @@ Rückkopplung, bis nur das Rauschen blieb, und dann …
 Ich wurde totenbleich, meine Hände flatterten. Bei Gott, – das war dieselbe
 Stimme, wie damals, eine Männerstimme … genau dieselbe …
 
-… Wir kommen alle zehn Minuten wieder … Meldet euch!
+> … Wir kommen alle zehn Minuten wieder … Meldet euch!
 
 Ich hatte gerade noch die letzten Sätze erhascht.
 
@@ -206,13 +206,13 @@ Kutter tanzt auf den Wellen ohne Steuermann. Ich stehe hinter Hiruto. Er
 lauscht … Ich bücke mich. Vielleicht erlausche ich den Anruf. Laut genug war er
 vorhin. – Und ich horche … höre …
 
-„Hier Ellerduc … Hallo, hier Ellerduc …“
+> „Hier Ellerduc … Hallo, hier Ellerduc …“
 
 Vorher auch wieder die fünf seltsamen Trompetentöne …
 
-„… Hallo … hier Ellerduc … Hier wieder alles in Ordnung … Bringen Sie El Gento
-und die Araukaner mit, Baron … Wenn Sie uns gehört haben, melden Sie sich wie
-vereinbart …“
+> „… Hallo … hier Ellerduc … Hier wieder alles in Ordnung … Bringen Sie El Gento
+> und die Araukaner mit, Baron … Wenn Sie uns gehört haben, melden Sie sich wie
+> vereinbart …“
 
 Hiruto schaltete die Lampen aus.
 
@@ -223,8 +223,8 @@ Kentville!! Er lebt!! Ich … Narr!
 Hiruto prüft den Sender … Er versteht damit umzugehen. Er beginnt zu morsen …
 Ich kann die Zeichen dem Gehör nach zu Worten zusammenfügen. Er funkt:
 
-„Hallo – hier der Kutter der Brigg, an Bord El Gento und Hiruto. Wir haben euch
-gehört. Wir kommen …“
+> „Hallo – hier der Kutter der Brigg, an Bord El Gento und Hiruto. Wir haben euch
+> gehört. Wir kommen …“
 
 Dann zum Schluß die besonderen Zeichen, die er mit Gorry vereinbart hat.
 

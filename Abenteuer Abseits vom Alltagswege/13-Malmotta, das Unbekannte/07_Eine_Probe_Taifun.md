@@ -194,9 +194,10 @@ als die fünf Kontinente, – inselreicher als jedes andere Meer.
 schreibe. Neben mir auf dem Tische liegt ein Buch aus Peter Bolks spärlicher
 Bibliothek:
 
-Die geschichtliche Bedeutung des Stillen Ozeans.
+> __Die geschichtliche Bedeutung des Stillen Ozeans.__
 
-Von Graf Wilczek und Weule.  (Leipzig 1899)
+> Von Graf Wilczek und Weule.
+> (Leipzig 1899)
 
 Was ich sonst hier an Wissenswertem festhalte, verdanke ich Matauo, dem
 Kanaken.

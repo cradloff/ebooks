@@ -68,7 +68,7 @@ Ramses schläft neben mir und … winselt.
 
 Ich schreibe …
 
-„Chuburs braune Gaunervisage lockt mit verheißungsvollem Grinsen …“
+> „Chuburs braune Gaunervisage lockt mit verheißungsvollem Grinsen …“
 
 Das ist der Anfang.
 
@@ -98,7 +98,7 @@ Ich werde aus eigenem genesen.
 
 … Ich schreibe weiter …
 
-„Große Brigg, El Gento,“ wiederholt er eindringlich. „Schon lohnen Fahrt
+> „Große Brigg, El Gento,“ wiederholt er eindringlich. „Schon lohnen Fahrt
 dorthin … Liegen an Westseite von Satansinsel hinter Klippen … – Fahren mit, El
 Gento?“
 
@@ -135,8 +135,8 @@ wenn ich will, vier Wochen ganz unter Wasser leben … ganz …!
 
 Ich schreibe weiter …
 
-„Was soll ich mich sträuben?! Das Leben den Lebenden! Ich werde Coy auch
-betrauern können …“
+> „Was soll ich mich sträuben?! Das Leben den Lebenden! Ich werde Coy auch
+> betrauern können …“
 
 Die Feder entgleitet meinen Fingern.
 

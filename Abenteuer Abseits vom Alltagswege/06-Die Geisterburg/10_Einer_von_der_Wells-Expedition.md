@@ -286,7 +286,8 @@ verzierten, – und ich entziffere die eingekerbten lateinischen Buchstaben, die
 man mit weißer Ölfarbe ausgefüllt hat: Der bekannte italienische Spruch, den
 der französische Bildhauer dann an seinem Meisterwerke mit verwandte:
 
-Ihr, die ihr hier eintretet, lasset alle Hoffnung hinter euch.
+> Ihr, die ihr hier eintretet, lasset alle
+> Hoffnung hinter euch.
 
 Sehr einladend war das in der Tat nicht.
 
@@ -445,6 +446,6 @@ Seine Niederschrift enthüllte die grauenvolle Tragik eines Menschenlebens, das
 hier in dieser Burg geendet hatte. Von ihm stammte auch die Inschrift über dem
 Tore:
 
-Ihr, die ihr hier eintretet, lasset alle Hoffnung hinter euch.
-
+> Ihr, die ihr hier eintretet,
+> lasset alle Hoffnung hinter euch.
 

@@ -118,8 +118,14 @@ vielleicht den Vater bisher für einen Verworfenen hielt und das nun Klarheit
 erhält über die große Liebe, die ihn mit dem braunen Mädchen einer Südseeinsel
 verband.
 
-Hier ruht Giwana, vor Gott mein Weib, Mutter meines Kindes Johanna.  Gest.
-8\. 3. 1905 auf Malmotta.  Du warst die Liebe und die Treue.  John Petersen.
+> Hier ruht Giwana, vor Gott
+mein Weib, Mutter
+meines Kindes
+Johanna.
+Gest.  8. 3. 1905 auf
+Malmotta.
+Du warst die Liebe und die Treue.
+John Petersen.
 
 – Wie viele, viele Tage mochte wohl John Petersen an dieser Inschrift mit
 unzulänglichen Werkzeugen gearbeitet haben!
@@ -155,9 +161,16 @@ Und wir kratzten auch dort das Gestein sauber, – wir fanden ebenfalls eine
 Inschrift, und abermals ward so der bunte Gobelin, dem noch das Mittelstück
 fehlte, weiter ergänzt.
 
-Tubana, Tochter des Königs von Atauo, Schwester Giwanas, Mutter meines Sohnes
-Peter Tuban Erich Bolk, gest. 11. 9. 1904.  Mein Weib.  Du warst die Sonne von
-Malmotta.  Peter Bolk.
+> __Tubana,__
+Tochter des Königs von Atauo,
+Schwester Giwanas,
+Mutter meines Sohnes
+Peter Tuban Erich Bolk,
+gest. 11. 9. 1904.
+Mein Weib.
+Du warst die Sonne von
+Malmotta.
+Peter Bolk.
 
 Vielleicht kennzeichneten diese beiden Grabinschriften auch die beiden Männer,
 von deren Hand sie herrührten, in treffendster Art. Aus John Petersens Nachruf

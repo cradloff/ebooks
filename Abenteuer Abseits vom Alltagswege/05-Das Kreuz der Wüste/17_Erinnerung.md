@@ -52,7 +52,7 @@ Wochen sind verstrichen …
 Wochen, seit ich mit der Papptafel, die Ethels bebende Hand bemalt hatte, in
 die Tiefe fuhr.
 
-Paloma sei gnädig!!
+> Paloma sei gnädig!!
 
 Nichts weiter stand auf dem mit Fett getränkten Pappstück. Ich fand das
 Fenster, und die Blende stand offen. Lichtschein drang mir entgegen, ich

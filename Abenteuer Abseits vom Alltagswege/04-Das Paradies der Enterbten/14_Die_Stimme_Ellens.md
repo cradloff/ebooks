@@ -67,7 +67,7 @@ Mitternacht nochmals versuche. – Valdivia spendet uns im Lautsprecher Jazz und
 dann Tagesnachrichten. Wir haben Verbindung mit der großen Welt, wir hören
 Dinge, die mir lächerlich gleichgültig sind, bis ich plötzlich aufhorche …
 
-„Aus Paris wird gemeldet, daß die Regierung nunmehr auch Lord Georg Kentville
+> „Aus Paris wird gemeldet, daß die Regierung nunmehr auch Lord Georg Kentville
 und die übrigen vierzig von Neukaledonien entflohenen Deportierten amnestiert
 hat. Bekanntlich war Lord Kentville vor fünf Jahren zusammen mit achtzehn
 anderen Engländern zu lebenslänglicher Zwangsarbeit und Verschickung verurteilt
@@ -114,12 +114,12 @@ Es war Mitternacht.
 Und – jetzt kam auch Antwort. Ich hatte umgeschaltet, den Hörer ausgestülpt, –
 ich vernahm die fünf sonderbaren Trompetentöne – – und – – Ellens Stimme:
 
-„El Gento, sind Sie’s wirklich?! Wir fürchten eine List … Melden Sie sich mit
+> „El Gento, sind Sie’s wirklich?! Wir fürchten eine List … Melden Sie sich mit
 Ihrem richtigen Namen, den Sie den Chilenen wohl kaum verraten haben.“
 
 Wieder morste ich …
 
-„Keine Gefahr. Chilenen versprechen Verschwiegenheit. – Haben Sie Abendmeldung
+> „Keine Gefahr. Chilenen versprechen Verschwiegenheit. – Haben Sie Abendmeldung
 von Radio Valdivia gehört? Frankreich hat Lord Kentville und die anderen
 vierzig amnestiert. Freue mich, wünsche von Herzen Glück. Alle Schwierigkeiten
 hiermit beseitigt. Leben Sie wohl für immer, grüßen Sie Hiruto, Lord Gorry,
@@ -131,7 +131,7 @@ Nochmals im Kopfhörer die fünf Merkzeichen.
 
 Dann … Ellen …
 
-„Hallo, El Gento …!! Sie müssen kommen, wir müssen Sie sprechen … Kehren Sie
+> „Hallo, El Gento …!! Sie müssen kommen, wir müssen Sie sprechen … Kehren Sie
 um! Wenn Sie mein Freund sind, werden Sie kommen! Gerade daß Sie mir diese
 Glücksbotschaft übermittelten, freut mich doppelt. Wir hatten sie nicht gehört.
 Kommen Sie!!“

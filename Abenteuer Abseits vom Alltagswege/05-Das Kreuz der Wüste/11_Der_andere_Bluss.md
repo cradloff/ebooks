@@ -175,7 +175,7 @@ der schwarze Millionär Bell Dingo sei …“
 Ich hatte neugierig die Steinreihen gemustert, ich sah erst jetzt, daß sie
 einen Namen bildeten, ein Monogramm:
 
-R. B.
+> R. B.
 
 Aber auch diese seltsame Entdeckung zerrann in Nichts gegenüber Lonnels
 Bemerkung über die Polizei.
