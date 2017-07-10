@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">1e03cb20-659f-11e7-9598-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">(16) Die Wand der Goßli</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Abenteuer abseits vom Alltagswege</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Zusammen mit dem alten Gripu campiert Olaf Karl Abelsen im Taito-Gebirge Formosas. Da fährt plötzlich ein Kopf unter dem festgeknoteten Leinen des Eingangs durch. So lernt er Arthur Scannon kennen und ein neues Abenteuer abseits vom Alltagswege beginnt.
+
+Band 16 der Reihe von Walther Kabel. Text und Cover stammen von der Walther-Kabel-Seite, vielen Dank nach dort.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf K.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (16) Die Wand der Goßli.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) https://www.bisg.org/bisac/complete-bisac-subject-headings-2015-edition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1930</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
