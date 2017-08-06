@@ -566,13 +566,24 @@ Zweischattige 137.
 
 Erklärung der Kupfertafeln.
 
-j^ie Karte des Sonnensystems enthält die kreisförmigen Bahnen der 1 l Planeten, die sich nach der Richtung der Pfeile um die Sonne bewegen; auch die am weitesten von der Svnne entfernten Punkte sind darin bezeichnet. Die einige Planeten umgebenden kleineren Scheibchen sind die Trabanten, deren Jupiter 4, Saturn, außer seinem Ringe, 7 und Uranus 6 hat; bei der Erde ist nur einer, der Mond. Unter dieser Karte ist eine Uebersicht der Neigungen der Planetenbahnen zur Ekliptik gegeben. S. S. lK3. ff.
+j^ie Karte des Sonnensystems enthält die kreisförmigen Bahnen der 1 l Planeten,
+die sich nach der Richtung der Pfeile um die Sonne bewegen; auch die am
+weitesten von der Svnne entfernten Punkte sind darin bezeichnet. Die einige
+Planeten umgebenden kleineren Scheibchen sind die Trabanten, deren Jupiter 4,
+Saturn, außer seinem Ringe, 7 und Uranus 6 hat; bei der Erde ist nur einer, der
+Mond. Unter dieser Karte ist eine Uebersicht der Neigungen der Planetenbahnen
+zur Ekliptik gegeben. S. S. lK3. ff.
 
 Die Mondkarte bedarf keiner nähern Erklärung, sie bezieht sich auf S. 281. 296. ff.
 
 Die Sternkarte s. Vorl. 18, besonders S. 419.
 
-Taf. l. bezieht sich auf S. 92 und 195-ff. Die Lage der Erdachse ist unverändert, aber nach dem Stande der Erde ist die Sonne auf einem Punkte der nördlichen, oder der südlichen Halbkugel, oder des Aequators senkrecht. Die Namen der Jahrszeiten stehn da, wo sich die Erde in der Mitte derselben befindet.
+Taf. l. bezieht sich auf S. 92 und 195-ff. Die Lage der Erdachse ist
+unverändert, aber nach dem Stande der Erde ist die Sonne auf einem Punkte der
+nördlichen, oder der südlichen Halbkugel, oder des Aequators senkrecht. Die
+Namen der Jahrszeiten stehn da, wo sich die Erde in der Mitte derselben
+befindet.
 
-Taf. 2. Verschiedene Ansichten der Planeten mit ihren Flecken, Streifen und Ringen s. Vorl. 14.
+Taf. 2. Verschiedene Ansichten der Planeten mit ihren Flecken, Streifen und
+Ringen s. Vorl. 14.
 
