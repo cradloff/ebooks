@@ -390,7 +390,7 @@ chaldäischen Beobachtungen, als die Nothwendigkeit, in der er sich befand, sich
 auf die frühern Beobachtungen der alexandrinischen Schule zu beschränken. Er
 bestimmte die Länge des Jahres, indem er eine seiner Beobachtungen in der
 Sommer-Sonnenwende mit einer andren 45 Jahre ältren des Aristarch verglich, auf
-365 Tage 5 Stunden 52<super>4</super>/<sub>5</sub> Minuten; indeß gestand er
+365 Tage 5 Stunden 52<sup>4</sup>/<sub>5</sub> Minuten; indeß gestand er
 selbst die Unzuverlässigkeit der Solstitial - Beobachtungen und die
 Vorzüglichkeit der Aequinoktial - Beobachtungen ein. Er fand ferner die
 Ungleichförmigkeit der Sonnenbewegung, die von der Frühlings- zur
@@ -399,7 +399,7 @@ Rücksicht der Sonnenwende fand er sie ungleich getheilt, da von der Frühling-
 zur Sommer-Sonnenwende 94½, und von dieser zum Herbstpunkte nur 92½ Tage
 verflossen. Um diese Unterschiede zu erklären, behielt er zwar mit Plato die
 gleichförmige Kreisbewegung bei, aber, statt in den Mittelpunkt, setzte er die
-Erde <super>1</super>/<sub>24</sub>, Halbmesser davon entfernt, und die
+Erde <sup>1</sup>/<sub>24</sub>, Halbmesser davon entfernt, und die
 Erdferne in den 6ten Grad der Zwillinge. Nach diesen Grundsätzen entwarf er die
 ersten Sonnentafeln, die man in der Geschichte der Astronomie kennt. Zwar haben
 die neueren Erfahrungen über die Lage und Größe der Sonne seine Ansichten

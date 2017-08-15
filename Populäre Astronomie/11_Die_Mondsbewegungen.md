@@ -1,4 +1,4 @@
-Elfte Vorlesung.
+Zehnte Vorlesung.
 ================
 
 Die Mondsbewegungen.

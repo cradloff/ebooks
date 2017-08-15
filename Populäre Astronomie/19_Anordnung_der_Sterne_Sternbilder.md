@@ -276,6 +276,7 @@ Neueren.
 <tr><td>Sobieski's Schild           </td><td> 7</td><td>Der Phönix                </td><td>13</td></tr>
 <tr><td>Der Indianer                </td><td>12</td><td>Die Elektrisirmaschine    </td><td>22</td></tr>
 <tr><td>Der Pfau                    </td><td>14</td><td>Die beiden Wolken         </td><td>--</td></tr>
+</table>
 
 Die beiden Wolken sind zwei dichte Gruppen kleiner Sterne in der Nähe des
 Südpols.
@@ -284,9 +285,9 @@ Südpols.
 <caption>Sternbilder des Thierkreises (12).</caption>
 <tr><td>Der Widder (<img alt="Widder" src="Widder.png"/>)</td><td> 66</td><td>Die Wage (<img alt="Wage" src="Wage.png"/>)</td><td> 51</td></tr>
 <tr><td>Der Stier (<img alt="Stier" src="Stier.png"/>)</td><td>141</td><td>Der Skorpion (<img alt="Skorpion" src="Skorpion.png"/>)</td><td> 44</td></tr>
-<tr><td>Die Zwillinge (<img alt="Zwillinge" src="Zwillinge.png"/>)</td><td> 85</td><td>Der Schütz (<img alt="Schütz" src="Schütz.png"/>)</td><td> 69</td></tr>
+<tr><td>Die Zwillinge (<img alt="Zwillinge" src="Zwillinge.png"/>)</td><td> 85</td><td>Der Schütz (<img alt="Schütz" src="Schuetz.png"/>)</td><td> 69</td></tr>
 <tr><td>Der Krebs (<img alt="Krebs" src="Krebs.png"/>)</td><td> 83</td><td>Der Steinbock (<img alt="Steinbock" src="Steinbock.png"/>)</td><td> 51</td></tr>
-<tr><td>Der Löwe (<img alt="Löwe" src="Löwe.png"/>)</td><td> 95</td><td>Der Wassermann (<img alt="Wassermann" src="Wassermann.png"/>)</td><td>108</td></tr>
+<tr><td>Der Löwe (<img alt="Löwe" src="Loewe.png"/>)</td><td> 95</td><td>Der Wassermann (<img alt="Wassermann" src="Wassermann.png"/>)</td><td>108</td></tr>
 <tr><td>Die Jungfrau (<img alt="Jungfrau" src="Jungfrau.png"/>)</td><td>110</td><td>Die Fische (<img alt="Fische" src="Fische.png"/>)</td><td>113</td></tr>
 </table>
 

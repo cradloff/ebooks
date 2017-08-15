@@ -126,11 +126,11 @@ andren Ländern ist es schon zum Theil geschehen.
 
 Folgendes sind die Dimensionen der Erde: 
 <table>
-<tr><td>Halbmesser des Aequators</td><td>3271691 Toisen.</td></tr>
-<tr><td>Halbmesser an den Polen</td><td>3260964 "</td></tr>
-<tr><td>Ein Grad am Aequator</td><td>&nbsp;&nbsp;56728,0 "</td></tr>
-<tr><td>Ein Grad unter 45° Breite</td><td>&nbsp;&nbsp;57007,6 "</td></tr>
-<tr><td>Ein Grad am Pole</td><td>&nbsp;&nbsp;57289,6 "</td></tr>
+<tr><td>Halbmesser des Aequators </td><td>3271691 Toisen.</td></tr>
+<tr><td>Halbmesser an den Polen  </td><td>3260964   "</td></tr>
+<tr><td>Ein Grad am Aequator     </td><td>  56728,0 "</td></tr>
+<tr><td>Ein Grad unter 45° Breite</td><td>  57007,6 "</td></tr>
+<tr><td>Ein Grad am Pole         </td><td>  57289,6 "</td></tr>
 </table>
 
 Nimmt man den Grad des Meidians von 45° Breite als eine mittlere Größe an, so

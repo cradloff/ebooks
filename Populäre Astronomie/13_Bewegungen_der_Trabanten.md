@@ -245,7 +245,7 @@ Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td> III.  7   3   42  33,4  </td><td>3  0 30 </td><td>314 24</td></tr>
 <tr><td>  IV. 16  16   31  49,7  </td><td>2 41 26 </td><td>316 39</td></tr>
 <tr><td>Saturnstrabanten.</td><td></td><td></td></tr>
-<tr><td>Ring. 4 -- 5 St.?</td><td rowspan="8" valign="center">30°</td><td rowspan="8" valign="center">170°38'</td></tr>
+<tr><td>Ring. 4 -- 5 St.?</td><td rowspan="8" valign="middle">30°</td><td rowspan="8" valign="middle">170°38'</td></tr>
 <tr><td>  "       10    32M.?</td></tr>
 <tr><td>   I.  0T.22St.37M.30,1S.</td></tr>
 <tr><td>  II.  1   8   53   8,7  </td></tr>
@@ -255,7 +255,7 @@ Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td>  VI. 15  22   41  13,9  </td></tr>
 <tr><td> VII. 79   7   54  37,4  </td><td>22°42'</td><td>148°40'</td></tr>
 <tr><td>Uranustrabanten</td><td></td><td></td></tr>
-<tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" valign="center">etwas mehr oder weniger als 90°</td><td rowspan="6"></td></tr>
+<tr><td>   I.  5T.21St.25M.20,6S.</td><td rowspan="6" valign="middle">etwas mehr oder weniger als 90°</td><td rowspan="6"></td></tr>
 <tr><td>  II.  8  16   57  47,5  </td></tr>
 <tr><td> III. 10  23    3  59    </td></tr>
 <tr><td>  IV. 13  10   56  29,8  </td></tr>

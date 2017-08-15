@@ -1,4 +1,5 @@
 Vorrede.
+========
 
 Kein Zweig der menschlichen Kenntnisse bietet anziehendere Ergebnisse dar und
 erlaubt wichtigere Anwendungen auf das thätige Leben, als die Astronomie; aber
