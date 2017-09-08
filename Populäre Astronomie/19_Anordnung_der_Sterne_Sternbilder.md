@@ -341,18 +341,18 @@ Größe zählen, haben andre wol 20. Man rechnet gewöhnlich folgende zu ihnen.
 
 <table>
 <caption>In der nördlichen Halbkugel (8).</caption>
-<tr><td>*Kapella* im Fuhrmann;     </td><td>*Wega* in der Leier;</td></tr>
-<tr><td>*Arkturus* im Bootes;      </td><td>*Aldebaran* im Stier;</td></tr>
-<tr><td>*Atair* im Adler;          </td><td>*Regulus* im Löwen;</td></tr>
-<tr><td>*Procyon* im kleinen Hunde;</td><td>*Beteigeze* im Orion;</td></tr>
+<tr><td><em>Kapella</em> im Fuhrmann;     </td><td><em>Wega</em> in der Leier;</td></tr>
+<tr><td><em>Arkturus</em> im Bootes;      </td><td><em>Aldebaran</em> im Stier;</td></tr>
+<tr><td><em>Atair</em> im Adler;          </td><td><em>Regulus</em> im Löwen;</td></tr>
+<tr><td><em>Procyon</em> im kleinen Hunde;</td><td><em>Beteigeze</em> im Orion;</td></tr>
 </table>
 
 <table>
 <caption>In der südlichen Halbkugel (7). </caption>
-<tr><td>*Rigel* im Orion;         </td><td>*Acharnar* im Eridanus;</td></tr>
-<tr><td>*Sirius* im großen Hunde; </td><td>*Spika* in der Jungfrau;</td></tr>
-<tr><td>*Fomahand* im südl. Fisch;</td><td>*Antares* im Skorpion;</td></tr>
-<tr><td>                          </td><td>*Kanopus* im Schiffe;</td></tr>
+<tr><td><em>Rigel</em> im Orion;         </td><td><em>Acharnar</em> im Eridanus;</td></tr>
+<tr><td><em>Sirius</em> im großen Hunde; </td><td><em>Spika</em> in der Jungfrau;</td></tr>
+<tr><td><em>Fomahand</em> im südl. Fisch;</td><td><em>Antares</em> im Skorpion;</td></tr>
+<tr><td>                                 </td><td><em>Kanopus</em> im Schiffe;</td></tr>
 </table>
 
 Die letzten beiden fehlen auf unsrer Karte, weil sie unter unsren Breiten
@@ -538,7 +538,7 @@ haben, statt des Mannes aber einen Kranich.
 In der *südlichen Halbkugel*, oder vielmehr auf dem Aequator glänzt *Orion*, das
 schönste Sternbild am Himmel. Die drei dicht neben einander stehenden Sterne
 zweiter Größe, der Gürtel des Orion, der Jakobsstab oder die drei Könige
-genannt, machen als eine Hauptzierde des ​Himmels in den Winterabenden
+genannt, machen als eine Hauptzierde des Himmels in den Winterabenden
 das Sternbild sehr kenntlich. Mit einiger Phantasie — wenigstens nicht mit
 größerer als es bedarf, um des Abends aus einem Baume einen Riesen zu machen —
 kann man darin einen, mit Schild, Keule und Schwert bewaffneten Jäger erkennen.
@@ -722,7 +722,7 @@ Abweichungen unterworfen als die übrigen. Ihre gegenwärtige Verbreitung über
 die ganze Erde verdanken sie vornehmlich den Werken der alexandrinischen
 Astronomen, die sie zuerst in dem ungeheuren römischen Reiche, dann bei allen
 Völkern, welche sich die Araber unterwarfen, und zuletzt bei den Neu-Europäern
-eingeführt haben, die sie nun mit ​ihrer Religion und ihren Kenntnissen
+eingeführt haben, die sie nun mit ihrer Religion und ihren Kenntnissen
 über die ganze Erde verbreiten. Die altägyptischen und hindostanischen sind
 jedoch bedeutend von den unsrigen verschieden, und die Chinesen, welche in
 allen übrigen Rücksichten von den östlichen Völkern abweichen, haben zwar auch
