@@ -1,3 +1,4 @@
+<@pagebreak/>
 Erste Vorlesung.
 ================
 
@@ -19,7 +20,9 @@ Wissenschaft, sondern ihre Anwendung ist eben so ausgedehnt, wie ihre
 Forschungen tief; ihr verdankt die Schiffahrt ihre Sicherheit, die Handlung
 ihre Ausdehnung und die Geographie ihre Vervollkommnung. Was sie aber ohne
 Zweifel am meisten erhebt, ist, daß sie die Ursache ist, durch welche
-Kenntnisse und Bildung unter dem Menschengeschlechte allgemein geworden sind.
+Kenntnisse und Bildung unter dem Menschengeschlechte 
+<@pagebreak/>
+allgemein geworden sind.
 Die Astronomie kann man daher als die erhabenste, die anziehendste und
 nützlichste aller Wissenschaften betrachten, auf welche der Mensch seine
 Fähigkeiten und seine Aufmerksamkeit gewendet; den Geist über die gewöhnlichen
@@ -44,8 +47,9 @@ ward das Eigenthum privilegirter Priesterfamilien, die, im Besitz aller
 Kenntnisse, das Volk durch den Mißbrauch derselben in Unterwürfigkeit zu
 erhalten wußten. Wie die ersten Astronomen waren sie auch die ersten
 *Astrologen*, und der Name der Chaldäer war bei den Juden und den Römern noch
-lange Zeit die Benennung der Zauberer und Charlatane, welche die Witterung, das
-künftige Schicksal der Neugebornen und dergl. vorher zu wissen vorgaben; und
+lange Zeit die Benennung der Zauberer und Charlatane, welche die Witterung,
+<@pagebreak/>
+das künftige Schicksal der Neugebornen und dergl. vorher zu wissen vorgaben; und
 *Mager* oder *Magier*, wie die Perser ihre Priester und Astronomen nannten, ist
 auch bis jetzt in vielen Sprachen mit Zauberer gleichbedeutend.
 
@@ -69,7 +73,9 @@ Der ganze Himmel zersiel also in 3 Theile, den *Thierkreis* und die
 daranstoßende *nördliche* und *südliche Region*. Durch Größe ausgezeichnete
 Fixsterne sammelte man in Gruppen, die unter den Namen der Sternbilder
 eigenthümliche Gestalten und Benennungen erhielten. So wurde das Himmelsgewölbe
-mit Menschen, Thieren und Wesen aller Art bevölkert. So seltsam uns aber jetzt
+mit Menschen, Thieren und Wesen 
+<@pagebreak/>
+aller Art bevölkert. So seltsam uns aber jetzt
 auch diese Zeichen erscheinen mögen, so waren sie doch nicht bloß Früchte der
 Einbildungskraft; sie deuteten vielmehr auf den Zustand der Erde in den
 verschiedenen Jahreszeiten, und auf die Arbeiten und Früchte des Ackerbaues,
@@ -95,7 +101,9 @@ Nach Alexanders des Großen Zeiten, als die Chaldäer den Griechen genauer
 bekannt wurden, rühmten sie sich Beobachtungen von 490,000, ja 720,000
 „Umlaufen” zu besitzen. Dieß waren wol nicht Jahre, sondern Tage, welches dann
 mit den Jahren 1295 und 1900 vor Alexander übereinkommt. Dieses stimmt auch mit
-andern Berichten, nach welchen Kallisthenes, der Alexander dem Großen auf
+andern Berichten, nach welchen Kallisthenes, 
+<@pagebreak/>
+der Alexander dem Großen auf
 seinem Zuge begleitete, dem Aristoteles 1903 Jahr alte Beobachtungen
 zugeschickt haben soll; also von 2234 vor Chr. Wenn dieses, was noch sehr
 zweifelhaft ist, gegründet sein sollte, so wäre ein solcher Verlust sehr zu
@@ -120,7 +128,9 @@ Anfang einer im Alterthum sehr berühmten Aera, die des *Nabonassar*, welche am
 26ten Febr. 747 v. Chr. begann, auch auf den Anfang eines agyptischen
 bürgerlichen Jahres fällt.
 
-Eine sehr genaue ägyptische Periode der Mondsbahn ist die von 25 bürgerlichen
+Eine sehr genaue ägyptische Periode der Mondsbahn
+<@pagebreak/>
+ist die von 25 bürgerlichen
 Jahren, welche, bis auf eine Stunde, 309 Monate enthält; nach Verlauf dieser
 Periode fallen Neu- und Vollmonde wieder auf denselben Tag des Jahres. Sie
 rühmen sich 373 Sonnen - und 832 Mondfinsternisse bis zu Alexanders Zeiten
@@ -145,7 +155,9 @@ Stern sei, der sich nebst dem Merkur um die Sonne bewege; sie setzten die
 Ordnung der Planeten nach der Entfernung: Mond, Merkur, Venus, Sonne, Mars,
 Jupiter, Saturn, die sich alle in einem schmalen Streifen, dem Thierkreise,
 bewegen, und es ist wahrscheinlich, daß sie auch den Umlauf der andren Planeten
-um die Sonne vermutheten. Dieß haben sie vielleicht durch das Symbol ausdrücken
+um die Sonne vermutheten. Dieß haben sie vielleicht durch
+<@pagebreak/>
+das Symbol ausdrücken
 wollen, daß die Sonne und der Mond der König und die Königinn seien, die
 Planeten ihre Trabanten und die Fixsterne das Volk. Die Eintheilung des
 Thierkreises und die des Monats in Wochen und Tage hatten sie mit den meisten
@@ -171,7 +183,9 @@ ist nicht geeignet, uns eine höhere Meinung von den Kenntnissen der spätern
 Gestirne auf den Menschen.
 
 Erwähnenswerth ist noch die Benennung der Wochentage nach den Gestirnen, welche
-einem großen Theil der Erde gemein ist und sich auch noch jetzt bei allen
+einem großen 
+<@pagebreak/>
+Theil der Erde gemein ist und sich auch noch jetzt bei allen
 europäischen Völkern erhalten hat. Sie theilten den Tag in 24 Stunden und
 weihten jedem Planeten 1 Stunde nach der Reihe: Saturn, Jupiter, Mars, Sonne,
 Venus, Merkur, Mond, und nach dem Planeten, dem die erste Stunde des Tages
@@ -197,6 +211,7 @@ vorigen Jahrhunderts, so daß sie für dasjenige, was ihren Handel nicht förder
 konnte, keinen Sinn hatten, und, was ihn fördern konnte, durch schändlichen
 Eigennutz aufs sorgfältigste geheim hielten oder durch Mährchen verhüllten?
 
+<@pagebreak/>
 Weit mehr, als alle andern Völker, haben die *Hindu* geleistet: sie kannten die
 Bahn der Sonne, des Mondes und der Planeten, ja selbst das Ungleichförmige der
 Sonnenbahn sehr genau, und das Fortrücken der Aequinoktialpunkte setzten sie
@@ -221,7 +236,9 @@ können.
 
 Ehe wir uns zu den Griechen wenden, wollen wir noch einiges von der Astronomie
 jenes merkwürdigen Volkes an der äußersten Grenze unserer Halbkugel erwähnen,
-das, in Sprache, Verfassung, Sitten und Wissenschaften das Gepräge des Steifen,
+das, in Sprache, Verfassung, Sitten 
+<@pagebreak/>
+und Wissenschaften das Gepräge des Steifen,
 Unveränderlichen tragend, in dem stärksten Kontrast zu dem beweglichen, rasch
 auffassenden Geiste der Griechen und Nordwest-Europäer steht. Seit mehr denn 4
 Jahrtausenden beobachteten die *Chinesen* fast ununterbrochen, haben die
@@ -245,7 +262,9 @@ Beobachtungen fort, bis im 7ten Jahrhundert n. Chr. Yhang sich durch
 Vervollkommnung der Instrumente, genauere Bestimmungen der geographischen Länge
 und Breite und durch Beobachtungen der Planetenbahnen auszeichnete; und dennoch
 widersprachen ihre Berechnungen der Erfahrung: so wenig vermochten sie aus dem
-Besondern das Allgemeine zu finden, und seit dem 13ten Jahrhundert war das
+Besondern das Allgemeine zu finden, und seit 
+<@pagebreak/>
+dem 13ten Jahrhundert war das
 stolze Volk in seiner Kalenderbestimmung, trotz dem in der Hauptstadt
 errichteten mathematischen Kollegium, von Ausländern abhängig, anfangs von
 Arabern, und seit dem Ende des 16ten Jahrhunderts von Jesuiten.
@@ -271,7 +290,8 @@ Chr. nach Aegypten. Nach seiner Rückkunft gründete er die ionische Schule,
 lehrte die Kugelgestalt der Erde, die Schiefe der Ekliptik und die wahren
 Ursachen der Sonnen- und Mondfinsternisse, die er selbst, wahrscheinlich nach
 den ihm von den Aegyptern mitgetheilten Perioden, vorhersagen konnte. Dem
-*Anarimander* schreibt man die Erfindung des Gnomon und der Landkarten zu, die
+<@pagebreak/>
+*Anaximander* schreibt man die Erfindung des Gnomon und der Landkarten zu, die
 er jedoch wol nur von den Aegyptern entlehnte; *Anaxahoras* lehrte, die Sonne
 sei eine Feuermasse größer, als die Erde, welcher auch der Mond sein Licht
 verdanke, der, wie die Erde bewohnt und mit Bergen, Thälern und Seen bedeckt
@@ -295,7 +315,9 @@ Mysterien der Priester einweihen, um die Kenntniß ihrer Lehren zu erlangen.
 Auch die Braminen soll er bis an den Ufern des Ganges aufgesucht haben. Nach
 seiner Rückkehr mußte er sein Vaterland wegen der Tyrannei, die dort herrschte,
 verlassen, und er begab sich nach Italien, wo er die Schule stiftete, welche
-seinen Namen trug. Dort lehrte er alle astronomischen Wahrheiten der Ionier,
+seinen 
+<@pagebreak/>
+Namen trug. Dort lehrte er alle astronomischen Wahrheiten der Ionier,
 aber mit merkwürdigen Entwicklungen, und was seine Lehre vorzüglich
 auszeichnete, war die Kenntniß der Bewegung der Erde um ihre Achse; ja einige
 seiner Schüler, *Philolaus* und *Aristarch*, lehrten sogar die Bewegung um die
@@ -319,7 +341,9 @@ unermeßlichen Entfernung zu uns herabsteigen. Sind es doch noch nicht 1500
 Jahre, daß die Gestirne in Griechenland gezählt und den Sternbildern Namen
 gegeben sind! Vielleicht wird ein Tag kommen, wo die Gegenstände, die uns jetzt
 verborgen bleiben, durch das anhaltende Forschen künftiger Zeiten mit Gewißheit
-erscheinen werden, und wo man sich wundern wird, daß sie unsrer Aufmerksamkeit
+erscheinen werden, 
+<@pagebreak/>
+und wo man sich wundern wird, daß sie unsrer Aufmerksamkeit
 entgangen sind.”
 
 In derselben Schule lehrte man, daß die Planeten bewohnt, die Sterne in dem
@@ -345,7 +369,9 @@ Sein Fleiß wurde durch die Einführung seiner Periode belohnt, die bis auf
 wenige Stunden in 6940 Tagen 19 Sonnenjahre und 235 Monate enthält, daß also
 Neu- und Vollmond wieder auf denselben Tag des Jahres fallen. Die Erfindung
 fand in Griechenland solchen Beifall, daß sie die *goldne Zahl* genannt wurde.
-*Kalipp* verminderte den Fehler, indem er die Periode mit 4 multiplicirte und 1
+*Kalipp* verminderte den Fehler, indem er die Periode mit 
+<@pagebreak/>
+4 multiplicirte und 1
 Tag auswarf, also 27759 Tage oder 76 Jahre erhielt. Sie wurde 330 v. Eh. in
 Griechenland eingeführt und stimmt mit dem Julianischen Kalender überein.
 Hiparchs verbesserte Periode von 304 Jahren fand wegen ihrer Länge keinen
@@ -370,6 +396,7 @@ Erde zu bestimmen. Er beobachtete den Winkel zwischen der Sonne und dem Monde
 in dem Augenblicke, wo er denselben gerade zur Hälfte beleuchtet glaubte, fand
 ihn 96° 7' und schloß daraus, daß die Sonne 13 — 20 mal so weit entfernt sein
 müsse, wie der Mond. So ungenau dieses auch ist, so wurden doch die Grenzen des
+<@pagebreak/>
 Weltalls dadurch viel weiter hinausgerückt, als bis dahin. Auch widerlegte er
 den Einwurf, den man aus der durchaus unveränderten Lage der Sterne gegen die
 Ansicht von der Bewegung der Erde machte, ganz so, wie Kopernikus, durch die
@@ -390,11 +417,13 @@ chaldäischen Beobachtungen, als die Nothwendigkeit, in der er sich befand, sich
 auf die frühern Beobachtungen der alexandrinischen Schule zu beschränken. Er
 bestimmte die Länge des Jahres, indem er eine seiner Beobachtungen in der
 Sommer-Sonnenwende mit einer andren 45 Jahre ältren des Aristarch verglich, auf
-365 Tage 5 Stunden 52<sup>4</sup>/<sub>5</sub> Minuten; indeß gestand er
+365 Tage 5 Stunden 52⅘ Minuten; indeß gestand er
 selbst die Unzuverlässigkeit der Solstitial - Beobachtungen und die
 Vorzüglichkeit der Aequinoktial - Beobachtungen ein. Er fand ferner die
 Ungleichförmigkeit der Sonnenbewegung, die von der Frühlings- zur
-Herbstnachtgleiche 187 Tage dauerte, und von dieser zu jener nur 178. Auch in
+Herbstnachtgleiche 187 Tage dauerte, und von dieser 
+<@pagebreak/>
+zu jener nur 178. Auch in
 Rücksicht der Sonnenwende fand er sie ungleich getheilt, da von der Frühling-
 zur Sommer-Sonnenwende 94½, und von dieser zum Herbstpunkte nur 92½ Tage
 verflossen. Um diese Unterschiede zu erklären, behielt er zwar mit Plato die
@@ -420,7 +449,9 @@ die Lösung dieser Aufgabe seinen Nachfolgern.
 
 Ein sehr wichtiges Unternehmen, nämlich ein *Katalog der Fixsterne*, wurde
 durch die Erscheinung eines neuen Sterns in seiner Zeit veranlaßt, damit die
-Nachwelt die Veränderungen, die sich in dem Anblick des Himmels ereignen
+Nachwelt die Veränderungen, die sich
+<@pagebreak/>
+in dem Anblick des Himmels ereignen
 möchten, wahrnehmen könne; auch blieben ihm die Vortheile nicht verborgen, die
 ein solcher Katalog für die Beobachtungen des Mondes und der Planeten gewährt.
 Seine Methode war die des *Timochares* und *Aristyll*, welche etwa 300 v. Chr.
@@ -444,7 +475,9 @@ dem Almagest des *Ptolemäus*.
 
 Der Zeitraum von fast 300 Jahren zwischen diesen beiden großen Astronomen
 brachte nur einige Beobachter hervor, als *Agrippa*, *Menelaus* und *Theon*. In
-diese Zeit gehört auch die Reform des Kalenders durch *Julius Cäsar* und die
+diese Zeit gehört auch die Reform des 
+<@pagebreak/>
+Kalenders durch *Julius Cäsar* und die
 genauere Kenntniß der Meerbewegungen. *Posidonius* beobachtete das Gesetz
 dieses Phänomens welches wegen seiner augenscheinlichen Beziehung auf die
 Bewegung der Sonne und des Mondes zur Astronomie gehört, 50 J. v. Ch., und der
@@ -470,6 +503,7 @@ Von Plato's bis auf Keplers Zeiten war der Irrthum allgemein, daß die
 gleichförmige Kreisbewegung, als die einfachste und natürlichste, auch die der
 Himmelskörper sein müsse. Ptolemäus setzte nun die Erde in die Mittelpunkte der
 Kreisbahnen, und suchte das Ungleichförmige der himmlischen Bewegungen zu
+<@pagebreak/>
 erklären. Eudoxus hatte deshalb angenommen, daß jeder Planet an verschiedene
 koncentrische Kugeln befestigt sei und verschiedene Bewegungen habe; da er aber
 nicht erklärte, wie diese Kugeln durch ihre Wirkung auf die Planeten die
@@ -494,7 +528,9 @@ und des Merkur war die Meinung der Astronomen getheilt. Ptolemäus nahm die
 älteste Meinung an und setzte sie *unter* die Sonne, Andre setzten sie
 *darüber*, und endlich die Aegypter ließen sie sich um die Sonne bewegen.
 Dieses würde in Ptolemäus Ansicht so viel gewesen sein, als die Sonne in den
-Mittelpunkt der Cykloiden beider Körper zu setzen, anstatt sie ihre Bewegungen
+Mittelpunkt der Cykloiden 
+<@pagebreak/>
+beider Körper zu setzen, anstatt sie ihre Bewegungen
 um einen eingebildeten Punkt machen zu lassen. Aber sein System für die 3 obern
 Planeten für das richtige haltend, dehnte er es der Gleichförmigkeit wegen auch
 auf die beiden unteren aus, obgleich eine ähnliche Schlußfolge ihn umgekehrt
@@ -518,7 +554,9 @@ erste Versuch des menschlichen Geistes bei diesem verwickelten Gegenstande dem
 Scharfsinne des Urhebers zur größten Ehre.
 
 Ptolemäus entwarf nach Hipparch ein Verzeichniß von 1028 Sternen, wobei viele
-Sterne der 5. und 6ten Größe und mehrere sehr kleine Nebelflecken waren, ein
+Sterne der 5. und 6ten 
+<@pagebreak/>
+Größe und mehrere sehr kleine Nebelflecken waren, ein
 Beweis, daß die langen Röhren den scharfen Augen der alexandrinischen
 Astronomen unter dem ägyptischen Himmel außerordentliche Dienste leisteten. Er
 bestätigte dabei die durch Hipparch entdeckte Bewegung der Nachtgleichen, so
@@ -543,7 +581,9 @@ ausführliches Werk über die Optik, worin er die astronomischen
 Stralenbrechungen erklärte, welches uns aber nicht übriggeblieben ist. Er
 schrieb auch Werke über verschiedene Wissenschaften als *Chronologie*, *Musik*,
 *Gnomonik* und *Mechanik*. So viele und so mannigfaltige Arbeiten verrathen
-einen großen Geist, und werden ihm immer einen ausgezeichneten Rang in der
+einen großen Geist, und 
+<@pagebreak/>
+werden ihm immer einen ausgezeichneten Rang in der
 Geschichte der Wissenschaften erhalten. Als Europa zum zweiten Male aus dem
 Zustand der Barbarei heraustrat, mußte sein System dem der Natur weichen; die
 Menschen rächten sich an dem Despotismus, den er so lange hatte
@@ -569,7 +609,8 @@ Philosophie und Mathematik; aber, trotz ihrer Tugenden, wegen ihres Heidenthums
 gehaßt, wurde sie von dem wüthenden Pöbel, unter der Anführung des heiligen
 Patriarchen Cyrillus, ermordet.
 
-Wahrend mehr als 600 Jahren hatte der Himmel fast keinen Beobachter. *Rom*, der
+<@pagebreak/>
+Während mehr als 600 Jahren hatte der Himmel fast keinen Beobachter. *Rom*, der
 Sitz der Tapferkeit und der Wissenschaften, that nichts für die Astronomie. Die
 hohe Achtung, die man immer der Beredtsamkeit und den Künsten des Krieges
 zollte, verlockte alle Geister, und die Wissenschaft, die keinen Vortheil
@@ -592,7 +633,9 @@ die Astrologie; auch hatten sie das Mondenjahr von 354 Tagen; aber von jener
 Zeit an begann für die Astronomie eine glänzende Epoche. Die Abassiden, selbst
 kenntnißreich, und freigebige Beförderer der Wissenschaften, erhoben die
 Astronomie auf eine bis dahin nicht erreichte Höhe: mit dem größten Fleiße
-wurden außerordentlich große Werkzeuge verfertigt, und die genauere Messung der
+wurden außerordentlich große Werkzeuge verfertigt, und die 
+<@pagebreak/>
+genauere Messung der
 Zeit durch Sonnen- und Wasseruhren und vielleicht auch durchs Pendel, gab ihren
 Beobachtungen eine Genauigkeit, welche die der Griechen weit übertraf. Schon
 der Kalif *Almansor* (752) munterte zur Astronomie auf, aber von allen
@@ -617,7 +660,9 @@ Aber der berühmteste aller arabischen Astronomen ist *Albatani* (_Albategnius_)
 Gouverneur von Syrien, 900 J. n. Chr. Er gab die Schiefe der Ekliptik, die
 Vorrückung der Nachtgleichen-, die Bewegung der Apsiden, die Excentricität der
 Sonnenbahn sehr genau an, und berechnete astronomische Tafeln, die uns noch
-jetzt von Nutzen sind. Nach ihm zeichneten sich vorzüglich aus: *Geber Ben
+jetzt von Nutzen sind. Nach ihm zeichneten 
+<@pagebreak/>
+sich vorzüglich aus: *Geber Ben
 Ofla* (1050) in Sevilla, durch mathematische Entdeckungen — daher Algebra —,
 *Arzachel* aus Toledo (1080) durch die toledanischen Tafeln und *Alhazen*
 (1080) durch ein Werk über die Stralenbrechung. Der Polyhistor *Ebn Raschid*
@@ -642,8 +687,9 @@ astronomische Tafeln. — Um 1450 berief *Ulugh Beigh*, Timurs Enkel, die
 Astronomen seines ungeheuren Reiches zu sich nach Smarkand, wo nach
 Beobachtungen mit den vortrefflichsten Hilfsmitteln der damaligen Zeit die
 vollkommensten Tafeln des Orients entworfen wurden. Aber, wie bei den Aegyptern
-und Indern, Griechen und Arabern, sanken mit der Herrschaft auch die
-Wissenschaften; von allen astronomischen Entdeckungen ihrer Vorfahren blieben
+und Indern, Griechen und Arabern, sanken mit der Herrschaft auch 
+<@pagebreak/>
+die Wissenschaften; von allen astronomischen Entdeckungen ihrer Vorfahren blieben
 ihnen nur die Formeln zum Kalender, und Sterndeuterei nimmt jetzt im Orient den
 Rang der Sternkunde ein.
 

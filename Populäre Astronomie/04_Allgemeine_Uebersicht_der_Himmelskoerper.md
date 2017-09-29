@@ -1,3 +1,4 @@
+<@pagebreak 43/>
 Dritte Vorlesung.
 =================
 
@@ -20,7 +21,9 @@ Bewegung schreiten die Sterne über uns weg, um bald unter unserm Gesichtskreise
 zu verschwinden, während andre stets die Stelle der verschwundenen einnehmen;
 bis endlich die Sonne sich erhebt, alle Sterne verscheucht, um allein am
 Gesichtskreise zu herrschen; aber auch sie hat nach einigen Stunden den Himmel
-durchschritten, und nachdem sie uns Licht und Wärme gegeben, verschwindet sie
+durchschritten, und nachdem sie uns Licht und Wärme
+<@pagebreak/>
+gegeben, verschwindet sie
 gleichfalls aus unsrem Gesichtskreise, und die Sterne erscheinen von neuem am
 Himmel.
 
@@ -47,6 +50,7 @@ verschiedenem Glanze, die sich durch unsere Fernröhre als leuchtende Punkte
 zeigen, theils kleinere und größere Flecken von nebelartigem Schimmer, die uns
 unter den Namen *Milchstraße*, *Nebelflecken* bekannt sind.
 
+<@pagebreak/>
 Unter den Sternen welche, sich nicht in jene Ordnung fügend, sich auf
 eigenthümliche Art auf jener Himmelskugel bewegen, nimmt die Sonne den ersten
 Rang ein. Diese glänzende Kugel scheint sich am Himmel in einer der Bahn der
@@ -73,8 +77,9 @@ also für einen außerirdischen Beobachter zu den Planeten, und gleicht ihnen
 auch in den übrigen Punkten.
 
 Einige dieser Planeten werden auf ihrer Bahn von kleinern Sternen begleitet,
-die wir *Trabanten* nennen, und die uns nur durch Fernröhre sichtbar sind. Sie
-bewegen sich um die Planeten, wie diese um die Sonne. Auch die Erde hat einen
+die wir *Trabanten* nennen, und die uns nur durch Fernröhre sichtbar sind.
+<@pagebreak/>
+Sie bewegen sich um die Planeten, wie diese um die Sonne. Auch die Erde hat einen
 solchen Begleiter am Monde.
 
 Nicht selten beobachtet man Sterne, die zuweilen der Sonne an Größe wenig
@@ -99,7 +104,9 @@ vollkommnere Werkzeuge betrachtet, zeigte der Himmel stets eine größere Anzahl
 von Sternen; einfache Sterne zeigten sich als Doppel-, ja dreifache Sterne, die
 sich in Perioden von Jahrhunderten oder Jahrtausenden um einander bewegen; die
 meisten Lichtnebel als Sammlung zahlloser kleiner Sterne, deren Entfernung von
-uns und Nahe zu einander uns den Anblick einer bloßen Wolke gewährt; andre
+uns und Nähe zu einander
+<@pagebreak/>
+uns den Anblick einer bloßen Wolke gewährt; andre
 dagegen als sich formende Welten, die in ihrer Bildung mehr oder weniger
 fortgerückt sind. Man erkannte, daß vom nächsten Fixsterne aus unsre Sonne nur
 ein leuchtender Punkt sei, und von dem entfernten Standpunkte manches
@@ -125,7 +132,9 @@ ihre *wahre* Bewegung bleibt uns noch verborgen, denn zwei der wichtigsten
 Punkte sind fortwährend unentschieden, nämlich ihre Entfernung von uns, und die
 Bewegung oder Ruhe der Erde.
 
-Das Auge sieht eigentlich nur die Oberfläche der Körper, die ihm von allen
+Das Auge sieht eigentlich nur die Oberfläche der
+<@pagebreak/>
+Körper, die ihm von allen
 Seiten ihr eigenes oder erborgtes Licht zusenden; dieses bildet einen
 Lichtkegel, der die Grenzen des Körpers berührt und dessen Spitze das Auge ist,
 und alle Körper, die denselben Lichtkegel in unserm Auge bilden, erscheinen ihm
@@ -152,6 +161,7 @@ Kreises, nach dem Umkreise heißen *Halbmesser* oder *Radien*; eine Linie
 zwischen zwei Punkten des Umkreises heißt *Sehne*, geht sie zugleich durch den
 Mittelpunkt, so heißt sie *Durchmesser*, *Diameter*. Diese sind die größten
 aller Sehnen. Der Kreisbogen, den zwei Halbmesser einschließen, bietet ein
+<@pagebreak/>
 bequemes Maß für den Winkel dar, dessen Größe man bestimmen kann, in so fern
 der Bogen <sup>1</sup>/<sub>3</sub>, <sup>1</sup>/<sub>4</sub>,
 <sup>1</sup>/<sub>10</sub> des ganzen Umkreises beträgt. Man hat der
@@ -180,7 +190,9 @@ nicht, er hascht nach dem Schmetterling' wie nach dem in den Wolken fliegenden
 Adler; aber bald lernt er, häufig getäuscht, durchs Gefühl die Empfindungen des
 Auges prüfen; Körper, deren Gestalt und Größe ihm bekannt sind, scheinen ihm
 auch in der Entfernung nicht kleiner; es müßte sonst von einem ungewöhnlichen
-Standpunkte, etwa einem Thurme aus sein. Aus der sichtbaren Gestalt ruft er
+Standpunkte, etwa einem
+<@pagebreak/>
+Thurme aus sein. Aus der sichtbaren Gestalt ruft er
 sich unwillkührlich die bekannte Größe zurück, und je nachdem diese sich zur
 scheinbaren verhält, schließt er wiederum unbewußt auf die Entfernung. Den hoch
 in den Lüften fliegenden Adler erkennt der kundige Jäger an der Gestalt, und
@@ -205,7 +217,9 @@ gerade oder gekrümmt sein; wir gewahren sie nur, in so fern sich ihre Lage zu
 uns ändert, und die 3 Bewegungen _Bb_, _Cc_, _Dd_ (Fig.2.) machen denselben
 Eindruck auf uns, wie _Ee_. Wie wenig können wir also auf diesem Wege von den
 Bewegungen der Himmelskörper erfahren; und wenn wir nicht auf andre Weise von
-der Bahn derselben wüßten, ob sie geradlinig, oder kreisförmig, ob die
+der Bahn derselben wüßten, ob sie geradlinig, oder
+<@pagebreak/>
+kreisförmig, ob die
 Geschwindigkeit gleichförmig sei, oder in welchem Grade nicht; wenn wir ferner
 nicht aus der Veränderung der scheinbaren Durchmesser auf die Entfernung
 schließen könnten: so würde die Bewegung der Himmelskörper, trotz der
@@ -231,7 +245,9 @@ Störungen erleiden, als See- und Luftschiff, so können ihre Bewohner durchaus
 keine Empfindung von Bewegung haben.
 
 Wir können also unsre Bewegung nur durch die Beobachtung äußerer Gegenstände
-erkennen; aber auch hier sind wir Täuschungen unterworfen. Im Wagen, im Schiffe
+erkennen; aber auch hier sind wir Täuschungen unterworfen. Im Wagen,
+<@pagebreak/>
+im Schiffe
 sehen wir die Bäume, die Ufer vor uns vorübergleiten; wenn unserm Fahrzeuge ein
 andres mit gleicher Geschwindigkeit entgegen kommt, so scheint uns dieses mit
 doppelter Geschwindigkeit vorüber zu eilen: wir nehmen nicht die wirkliche
@@ -257,7 +273,9 @@ Durchmesser, die für denselben Körper oft von sehr veränderlicher Größe sin
 gewahrt man, daß manche derselben sich zu verschiedenen Zeiten in sehr
 verschiedenen Entfernungen von uns befinden können. Aber die für nicht sehr
 entfernte, jedoch unzugängliche Körper gewöhnliche Methode, daß man sie aus
-zwei Gesichtspunkten beobachtet, reicht nur für sehr wenige Himmelskörper aus.
+zwei Gesichtspunkten
+<@pagebreak/>
+beobachtet, reicht nur für sehr wenige Himmelskörper aus.
 Es ist klar, daß, wenn die Größe der Linie (Fig. 3.) bekannt ist, und man etwa
 durch ein Fernrohr, von _A_ u. _B_ aus, den entfernten Körper _C_ beobachtet,
 die Winkel bei _A_ u. _B_ gefunden werden, so daß man das Dreieck zeichnen, und
@@ -281,7 +299,9 @@ Winkel den beide einschließen — welcher dem scheinbaren Durchmesser gleich is
 —, so kann die Größe von _BC_ berechnet werden; sobald aber die Entfernung sich
 nicht bestimmen läßt, kann es die Größe nimmermehr. Bei den meisten Planeten
 und Trabanten sind die drei Fragen über Bewegung, Entfernung und Größe,
-wenigstens die beiden ersten, mit großer Genauigkeit beantwortet. Bei den
+wenigstens die
+<@pagebreak/>
+beiden ersten, mit großer Genauigkeit beantwortet. Bei den
 Fixsternen aber, die Sonne ausgenommen, haben wir statt der Gewißheit bloße
 Vermuthungen, die indeß auch an ihrem Orte angeführt werden sollen.
 

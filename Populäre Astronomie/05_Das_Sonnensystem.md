@@ -1,3 +1,4 @@
+<@pagebreak 55/>
 Vierte Vorlesung.
 =================
 
@@ -22,7 +23,9 @@ Man nennt jenen Gesichtspunkt den *heliocentrischen*, diesen den
 Himmelskörpern bedienen.
 
 Einige Millionen Meilen machen keinen merklichen Unterschied in dem Anblicke
-der sich in unermeßlichen Fernen von uns befindenden Fixsterne; diese bilden,
+der sich in
+<@pagebreak/>
+unermeßlichen Fernen von uns befindenden Fixsterne; diese bilden,
 von der Sonne aus gesehen, dasselbe in sich unbewegliche Gewölbe. Desto
 deutlicher treten aber die Unterschiede bei den Körpern unsers Systems hervor.
 Sie zerfallen in vier Klassen.
@@ -47,7 +50,9 @@ Unregelmäßigkeit ihrer Bahn kaum zu den Planeten zu rechnen gewagt, und
 *Asteroiden* genannt hat, sind in den ersten Jahren unseres Jahrhunderts von
 Piazzi, Olbers und Harding entdeckt. Auch die Erde, welche Unwissenheit, Dünkel
 und Aberglaube in den Mittelpunkt des Weltalls gesetzt, und erhalten halten,
-nimmt erst seit zwei Jahrhunderten ihren bescheidenen Platz unter den Planeten
+nimmt erst seit zwei
+<@pagebreak/>
+Jahrhunderten ihren bescheidenen Platz unter den Planeten
 ein.
 
 Von der dritten Klasse sind uns bis jetzt 18 Sterne bekannt: es sind die
@@ -74,7 +79,9 @@ Beobachter konnten mit ihren unvollkommenen Instrumenten die Abweichung nicht
 leicht wahrnehmen. Dazu kam die Spekulation der Philosophen, daß die
 Himmelskörper sich nur gleichförmig und in Kreisen, als der vollkommensten
 Linie, bewegen könnten, deren Mittelpunkt theils die Erde, theils die Sonne
-war. Dieser von einem Plato geheiligte Irrthum hemmte lange die Fortschritte
+war. Dieser von einem Plato
+<@pagebreak/>
+geheiligte Irrthum hemmte lange die Fortschritte
 der Astronomie. Um die Unregelmäßigkeiten zu erklären, setzte man den
 Mittelpunkt des Kreises etwas von der Sonne oder der Erde entfernt, so daß die
 Planeten *excentrische Kreise* beschrieben; da auch dieses nicht ausreichte,
@@ -103,7 +110,9 @@ verlängerter Kreis, erscheint als Ellipse. Sie gehört mit der Parabel (Fig. 6)
 und Hyperbel (Fig. 7) zu der unter dem Namen der Kegelschnitte bekannten Klasse
 von krummen Linien. Der *Kegel*, ein spitz zulaufender Körper, dessen
 Grundfläche eine Kreisfläche ist, und dessen übrige Begrenzung durch alle
-gerade Linien gebildet wird, welche von der Spitze nach dem Kreise gezogen
+gerade Linien gebildet wird, welche von der Spitze
+<@pagebreak/>
+nach dem Kreise gezogen
 werden können, zeigt, sobald er abgestumpft wird, eine Ellipse, durch gerade
 Abstumpfung einen Kreis, der also nur die einfachste Art der Ellipsen ist.
 Durch andre Schnitte des Kegels entstehn die Parabel und Hyperbel, beides ihre
@@ -128,14 +137,16 @@ der Ellipse sich bewegenden Planeten, oder der *Radius Vektor*, ist von sehr
 verschiedener Größe. Ist die Sonne in _F_, so ist _A_ der nächste Punkt der
 Ellipse, die *Sonnennähe* oder das *Perihelium*, und _B_ der entfernteste, die
 *Sonnenferne* oder das *Aphelium* des Planeten. Der Durchschnitt von beiden
-oder die *mittlere Entfernung* ist also _(FA + FB) / 2_ oder _AM_, die halbe
+oder die *mittlere Entfernung* ist also _(FA + FB) / 2_ oder
+<@pagebreak/>
+_AM_, die halbe
 *große Achse* der Bahn, und der Unterschied zwischen der größten oder kleinsten
 und der mittleren Entfernung, _FM_ oder _fM_, heißt die *Excentricität* der
 Ellipse. Man gibt in den Tabellen gewöhnlich ihr Verhältnis zur halben großen
 Achse an. Die beiden Punkte _A_ und _B_ nennt man die *Apsiden*, und die Linie,
 die sie verbindet, die *Apsidenlinie*.
 
-In ahnlichen Beziehungen, wie hier, gebraucht man die Ausdrücke: Excentricität,
+In ähnlichen Beziehungen, wie hier, gebraucht man die Ausdrücke: Excentricität,
 Apsiden, Achse, bei der Bahn der Trabanten; nur statt Sonnennähe, Sonnenferne
 sagt man z. B. beim Monde: *Erdnähe*, *Erdferne*, *Perigeum*, *Apogeum*.
 
@@ -154,7 +165,9 @@ kann man, wenn man die Umlaufszeit weiß, die Geschwindigkeit des Planeten in
 allen Punkten seiner Bahn berechnen.
 
 Hierdurch hätten wir die Bewegung des Planeten in allen hier beachteten
-Rücksichten bestimmt aber welches Band umschlingt die verschiedenen Planeten,
+Rücksichten bestimmt
+<@pagebreak/>
+aber welches Band umschlingt die verschiedenen Planeten,
 die sich um die Sonne bewegen? Dieses hat Kepler durch sein drittes Gesetz
 beantwortet. Er fand diese drei Gesetze zu einer Zeit, als man nur 6 Planeten
 kannte und selbst der planetarische Zustand der Erde durch den berühmten
@@ -178,8 +191,9 @@ Wissenschaften aufzuweisen hat. Von der ersten Auflage jenes Werks bis zur
 letzten der *Mechanik des Himmels* von La Place, in einem Zeitraume von noch
 nicht 140 Jahren, hat die Mathematik so große Fortschritte gemacht, und den
 Keplerschen Gesetzen eine Gewißheit und Ausdehnung gegeben, wie selbst der
-Erfinder sie nicht geahnet hat. Aus dem einfachen Grundsatze, daß die Körper
-sich einander nach dem Verhältnisse ihrer Masse, und verkehrt wie die Quadrate
+Erfinder sie nicht geahnet hat. Aus dem einfachen Grundsatze, daß die Körper sich
+<@pagebreak/>
+einander nach dem Verhältnisse ihrer Masse, und verkehrt wie die Quadrate
 ihrer Entfernung zu nähern suchen, oder einander *anziehen*, lassen sich fast
 alle, auch die zusammengesetztesten Erscheinungen bei den Bewegungen der
 Himmelskörper erklären. Die Sonne z. B. ist vom Monde 400 mal so weit entfernt
@@ -202,8 +216,9 @@ Das ununterbrochene Kreisen der Himmelskörper, wovon die Alten durchaus keinen
 physischen Grund sahen, und das dennoch die größte Regelmäßigkeit beobachtete,
 war ihnen so räthselhaft, daß sie verständige Wesen für die bewegende Ursache,
 und die Gestirne für die Leiber von Geistern hielten. In diesen und ähnlichen
-Träumen bestand die Theorie von Pythagoras, Plato, den Stoikern bis auf
-Maimonides und Kepler herab; nur hie und da dämmerte dem Anaxagoras,
+Träumen bestand die Theorie von Pythagoras, Plato, den Stoikern bis auf Maimonides
+<@pagebreak/>
+und Kepler herab; nur hie und da dämmerte dem Anaxagoras,
 Aristoteles, Kopernikus und Kepler ein helleres Licht, wenn sie den nur durch
 Gewohnheit uns minder wunderbaren Fall der Körper betrachteten, wobei, wie bei
 den Himmelskörpern, ohne sichtbaren Stoß eine Annäherung Statt findet. Aber die
@@ -227,7 +242,9 @@ Verhältnisse nachweisen zu können, zeigte sogar daß, wie die Anzahl der
 regulären Körper, auch die der Planeten beschränkt sei, und ließ dadurch für
 den später entdeckten Uranus keinen regulären Körper mehr übrig. Er verglich
 sie auch mit der Musikskale, und Neuere haben dieses noch weiter verfolgt, auf
-alle Planeten, selbst die 4 neuen, ausgedehnt; aber wenn noch 50 Planeten mit
+alle Planeten,
+<@pagebreak/>
+selbst die 4 neuen, ausgedehnt; aber wenn noch 50 Planeten mit
 beliebigen Verhältnissen ihrer Entfernungen und Excentricitäten entdeckt
 würden, so ließen sich für alle aus der großen Anzahl der Töne weicher und
 harter Tonart entsprechende Zahlen auffinden, wenn man sich derselben
@@ -250,7 +267,9 @@ Klasse aufstellen kann. Man könnte sie *Mittelplaneten*, und die der Sonne
 näheren die *untern*, die entfernteren aber die *oberen* Planeten nennen; jener
 sind 4, dieser 3. Diese Eintheilung vom heliocentrischen Standpunkte ist aber
 verschieden von einer ähnlichen, in der Folge anzuführenden, vom geocentrischen
-Standpunkte aus. Bei den Mittelplaneten ist durch die Excentricität ihrer
+Standpunkte aus.
+<@pagebreak/>
+Bei den Mittelplaneten ist durch die Excentricität ihrer
 Bahnen Juno bald der nächste, bald der entfernteste derselben, eine
 Verschlingung, die sich sonst im ganzen Sonnensysteme nicht findet. (S. die
 Kupfertafel I.)
@@ -278,10 +297,11 @@ die Kometen zwar nur eine untergeordnete und fast ephemere Rolle am Himmel,
 indeß haben ihre Bahnen die Grenzen des Sonnensystems für uns viel weiter
 hinausgerückt, als die Planeten, und wenn wir uns dasselbe als eine Kugel
 vorstellen wollen, welche die äußersten Punkte der weitesten Kometenbahnen
-berührt, so können wir ihren Halbmesser nicht kleiner, als 400 Er
+berührt, so können wir ihren Halbmesser nicht kleiner, als 400 Er[?]
 
 [Seite 66 und 67 fehlt]
 
+<@pagebreak 68/>
 Spuren von organischen Wesen aufgesucht und vielleicht gefunden, und Hypothesen
 darauf gegründet, über deren Kühnheit man erstaunen muß, wenn man ihre schwache
 Grundlage betrachtet. Es ist natürlich, daß so specielle Untersuchungen nur auf
@@ -305,7 +325,9 @@ Das Verhältniß der Masse eines Körpers zu seinem Rauminhalt macht seine
 gewissen Raume ist, desto größer ist seine Dichtigkeit. Gold z. B. ist etwa 19
 mal so dicht, wie Wasser, weil ein Kubikfuß Gold 19 mal so viel wiegt, wie ein
 Kubikfuß Wasser. Wo die Masse berechnet und die Größe beobachtet werden kann,
-ist auch die Dichtigkeit bekannt. Selbst die Dichtigkeit des Erdkörpers ist nur
+ist auch die
+<@pagebreak/>
+Dichtigkeit bekannt. Selbst die Dichtigkeit des Erdkörpers ist nur
 auf diese Weise zu finden.
 
 Alle diese Fragen zerfallen in zwei Hauptabtheilungen, solche, die sich aus die

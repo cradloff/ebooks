@@ -1,3 +1,4 @@
+<span epub:type="pagebreak" id="pageV" title="V" xmlns:epub="http://www.idpf.org/2007/ops"/>
 Vorrede.
 ========
 
@@ -17,7 +18,9 @@ schwer und zu trocken, als daß man sie in den schon so weiten Studienkreis der
 Gebildeten ziehen könnte, und die ersten Anfangsgründe reichen zum Verstehn der
 Astronomie bei weitem nicht aus. Zwar kündigen sich mehrere astronomische
 Lehrbücher als populär an, allein wenn die Leser, durch den Titel getäuscht,
-eine durchgängig verständliche Darstellung der Astronomie erwarten, so finden
+eine durchgängig 
+<span epub:type="pagebreak" id="pageVI" title="VI" xmlns:epub="http://www.idpf.org/2007/ops"/>
+verständliche Darstellung der Astronomie erwarten, so finden
 sie entweder die Mathematik in andrer Gestalt, wie bei Schuberts populärer
 Astronomie und La Place's *Exposition du système du monde*, oder einen solchen
 Mangel an Gründlichkeit und Vollständigkeit, daß sie ihren Zweck nicht
@@ -39,7 +42,9 @@ zusammenstellen, worunter man die ganze Astronomie begreifen könnte). Dasselbe
 kommt noch einmal unter den Entdeckungen Herschels vor. Ueberhaupt finden sich
 zahllose Wiederholungen und, was immer mit Planlosigkeit verbunden ist, Mangel
 an Vollständigkeit. Daß die Entdeckungen der Deutschen, welche sich hier
-wahrlich den Ausländern an die Seite stellen können, kaum erwähnt sind, theilt
+wahrlich den Ausländern an die Seite stellen können, kaum 
+<span epub:type="pagebreak" id="pageVII" title="VII" xmlns:epub="http://www.idpf.org/2007/ops"/>
+erwähnt sind, theilt
 diese Astronomie mit fast allen ausländischen Werken. Auch fehlt es nicht an
 Irrthümern, z. B. daß der Venusmond eine optische Täuschung sei, weil er immer
 dieselben Phasen darbot, wie der Hauptplanet u. dgl.
@@ -62,7 +67,9 @@ Allein durch diese Zusätze und Veränderungen, und die Nothwendigkeit, eine so
 große Anzahl von Gegenständen in einem so engen Raume zusammenzustellen, ist
 mein Werk ein ganz anderes geworden, als anfangs beabsichtigt war, und wenn man
 von einer Uebersetzung bloß eine treue, sprachgemäße Wiedergabe der Gedanken
-des ausländischen Werkes verlangen kann, so fürchte ich sehr, daß man an das
+des ausländischen Werkes verlangen kann, so fürchte 
+<span epub:type="pagebreak" id="pageVIII" title="VIII" xmlns:epub="http://www.idpf.org/2007/ops"/>
+ich sehr, daß man an das
 meinige die Anforderungen eines Originals machen wird, obgleich ich nur zu wohl
 weiß, wie weit es von dem Ideal, das mir für eine populäre Astronomie
 vorschwebt, entfernt ist. Allein wenn man bedenkt, wie schwer oft die Grenzen

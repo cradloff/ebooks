@@ -16,7 +16,9 @@ Kloster in Spanien entfloh, um von den Mauren Mathematik und Astronomie zu
 lernen; Kaiser Friedrich II. (1230), dem trotz der thatenreichen unruhigen
 Regierung Astronomie die Lieblingsbeschäftigung war, so daß er einst, nächst
 seinem Sohne, eine schön gearbeitete Himmelskugel als sein liebstes Kleinod
-nannte, und *Alfons X.*, den Weisen, König von Kastilien, der, ein zweiter
+nannte, und *Alfons X.*, den Weisen, König von 
+<@pagebreak 28/>
+Kastilien, der, ein zweiter
 Almamun, mit großen Kosten Astronomen an seinen Hof rief, aber über das Studium
 der Astronomie seine Pflicht vergaß und fast die Krone eingebüßt hätte. Die
 Früchte seiner Arbeit sind die *alfonsinischen Tafeln* (1252), berühmter, als
@@ -42,7 +44,9 @@ Uhr mit Räderwerk, entdeckte auch unter den Neuern die astronomische
 Stralenbrechung wieder.
 
 Jetzt sind wir nun an der so wichtigen Epoche, wo die Astronomie, die Banden,
-die sie früher gefesselt hatten, abwerfend, sich mit raschen und
+die sie früher gefesselt 
+<@pagebreak/>
+hatten, abwerfend, sich mit raschen und
 ununterbrochenen Schritten zur jetzigen Höhe erhoben hat, bei *Kopernikus*
 Entdeckung des wahren Weltsystems.
 
@@ -67,6 +71,7 @@ Planeten um die Sonne hervorgebrachte Täuschung, und er bestimmte ihre bisher
 unbekannten Bahnen. Alles kündigte endlich in diesem Systeme die schöne
 Einfachheit der Naturerscheinungen an, die den Geist entzückt, sobald man
 glücklich genug ist, sie zu entdecken. Dieses ist das berühmte
+<@pagebreak/>
 *kopernikanische* System, das bald fast allgemein angenommen, fast nur
 Eitelkeit oder Aberglauben zu Gegnern hatte, so daß in unsern Tagen kaum ein
 unwissender Mönch seine Zweifel zu äußern wagt. Nach langem Zögern und auf
@@ -92,7 +97,9 @@ Beobachtungen eine bis dahin nie gehoffte Genauigkeit und Ausdehnung gab, und
 neue Ungleichheiten und neue Welten im Himmel nachwies. Zwei Kinder eines
 Middelburgischen Brillenhändlers spielten 1590 mit zwei Gläsern, einem konkaven
 und einem konvexen, und sahen dadurch den vergrößert erscheinenden Hahn des
-Kirchthurms. Verwundert hierüber, sagen sie es ihrem Vater, und daher die
+Kirchthurms. Verwundert hierüber, sagen sie es ihrem Vater, 
+<@pagebreak/>
+und daher die
 Fernröhre. *Galilei* (geb. zu Pisa 1564 nach Chr. und gestorben 1642) war der
 glückliche Astronom, der zuerst den unermeßlichen Nutzen des neuentdeckten
 Teleskopes erkannte, und es bald vervollkommnete. Der erste Blick, den er durch
@@ -117,7 +124,9 @@ In einem Manne von so hohem Geiste ist die Wahrheitsliebe die stärkste
 Leidenschaft. Voll Enthusiasmus über seine großen Entdeckungen brennt er, sie
 zu verbreiten, und die Hindernisse, welche Unwissenheit und Aberglaube ihm
 entgegenstellen, erhöhen noch die Stärke der Leidenschaft. So auch Galilei.
-Durch seine eignen Beobachtungen von der Bewegung der Erde überzeugt, sann er
+Durch seine eignen Beobachtungen von der Bewegung 
+<@pagebreak/>
+der Erde überzeugt, sann er
 lange über ein Werk nach, worin er die Beweise entwickeln wollte; aber, um sich
 vor der Verfolgung zu schützen, deren Opfer er beinahe geworden wäre, machte er
 sein Buch in der Form von Gesprächen bekannt, worin ein Peripatetiker und ein
@@ -142,8 +151,9 @@ dem Augenblicke, wo er aufstand, empört, zu einem falschen Eide gezwungen zu
 sein, mit dem Fuße stampfend, gesagt habe: „Und doch bewegt sie sich.”
 
 Welch ein Schauspiel! Ein ehrwürdiger Greis, berühmt durch ein langes, ganz der
-Wissenschaft der Natur geweihetes Leben, schwört auf den Knieen, von einer
-Gesellschaft unwissender Pfaffen gezwungen, wider das Zeugniß seines Geistes
+Wissenschaft der Natur geweihetes Leben, schwört auf den Knieen, von 
+<@pagebreak/>
+einer Gesellschaft unwissender Pfaffen gezwungen, wider das Zeugniß seines Geistes
 und seines Gewissens, die Wahrheiten ab, die er so klar bewiesen hatte! Er
 wurde zu einem ewigen Gefängnisse verurtheilt, ein Jahr darauf aber durch die
 Verwendung des Großherzogs von Toskana wieder in Freiheit gesetzt. Indeß, damit
@@ -170,6 +180,7 @@ Aber der berühmteste Astronom zwischen Kopernikus und Kepler war der Däne
 *Tycho de Brahe*, geb. in Schonen den 13ten Decemb. 1546. Sein Hang zur
 Astronomie entwickelte sich bei ihm in seinem 14ten Jahre, bei Gelegenheit
 einer Sonnenfinsterniß im J. 1560. Die Genauigkeit der Rechnung, wodurch die
+<@pagebreak/>
 Erscheinung vorher gesagt wurde, flößte ihm die Begierde ein, ihre Grundsätze
 kennen zu lernen, und der Wunsch wurde noch durch das Widerstreben seines
 Lehrers und seiner Familie vermehrt. Während er in Leipzig am Tage die Rechte
@@ -194,7 +205,9 @@ die Einwendungen der Gegner des Kopernikus gegen die Bewegung der Erde
 betroffen, und vielleicht auch aus Eitelkeit, einem neuen Systeme seinen Namen
 zu geben, verfehlte er das System der Natur. Nach ihm ist die Erde unbeweglich
 in der Mitte des Weltalls und alle Sterne bewegen sich in 1 Tage um die
-Weltachse; aber um die Sonne, die sich in 1 Jahre um die Erde dreht, wälzen
+Weltachse; aber um die Sonne, die 
+<@pagebreak/>
+sich in 1 Jahre um die Erde dreht, wälzen
 sich alle Planeten. Das Auge hat nach dieser Ansicht dieselben Eindrücke, wie
 nach der des Kopernikus, und hatte Tycho es vor dem letztern entdeckt, so würde
 er sich mit unsterblichem Ruhme bedeckt haben; aber man muß gestehn, daß er,
@@ -221,7 +234,9 @@ in der Naturlehre gemacht sind.
 Es war eine Opposition des Mars, die ihn bewog, die Bewegungen dieses Planeten
 zu seinen ersten Beobachtungen zu wählen. Eine glückliche Wahl! Denn in der
 Bahn des Mars, einer der excentrischsten des Sonnensystems, waren die
-Ungleichheiten der Bewegungen merklicher, und die Entdeckung ihrer Gesetze
+Ungleichheiten der 
+<@pagebreak/>
+Bewegungen merklicher, und die Entdeckung ihrer Gesetze
 konnte mit größerer Leichtigkeit und Genauigkeit, als bei den übrigen,
 geschehen. Kepler, wie seine Vorgänger, über die Notwendigkeit der Kreisform in
 den Planetenbahnen getäuscht, suchte die Beobachtungen des Mars nach dieser
@@ -246,7 +261,9 @@ beobachtete und das sich bei allen Trabantensystemen bestätigt. Seine
 Planeten-Tafeln, die er die *Rudolfinischen* nannte, eine Frucht 20 jähriger
 Arbeit, haben allen spätern zum Muster gedient.
 
-Kepler erklärte die Lage des Sonnensystems durch die Gesetze des musikalischen
+Kepler erklärte die Lage des Sonnensystems durch 
+<@pagebreak/>
+die Gesetze des musikalischen
 Einklangs. Ueberhaupt gefällt er sich in seinen letzten Werken in spekulativen
 Träumereien, die er für das Leben und die Seele der Astronomie hält. Er leitet
 daraus die Excentricität der Erdbahn, die Dichtigkeit der Sonne, ihre Parallaxe
@@ -272,7 +289,9 @@ etwas anmaßende Ton bei, womit Kepler sie bekannt machte.
 
 Alles vereinigte sich jetzt, um die Astronomie auf eine sehr hohe Stufe zu
 bringen. Der schottische Baron *Neper* (1600) berechnete *Logarithmen*, und
-*Briggs* (1730) verbesserte sie, wodurch die Rechnungen so sehr erleichtert
+*Briggs* (1730) verbesserte sie, wodurch die 
+<@pagebreak/>
+Rechnungen so sehr erleichtert
 wurden; dasselbe bewirkten *Descartes* in Frankreich, *Galilei* in Italien,
 *Huygens* in Holland und endlich die beiden Heroen, der Engländer *Newton* und
 der Deutsche *Leibnitz* durch ihre mathematischen Entdeckungen, wahrend
@@ -298,6 +317,7 @@ die Rückkehr des Kometen von 1759 voraussagte, und durch den scharfsinnigen
 Gedanken, den Durchgang der Venus vor der Sonnenscheibe zur Bestimmung der
 Sonnenparallaxe anzuwenden.
 
+<@pagebreak/>
 *Descartes* (_Cartesius_ 1596 — 1650) war der erste, der die himmlischen
 Bewegungen auf ein mechanisches Prinzip zurückzuführen suchte. Alle Bewegung
 sollte von Wirbeln eines feinen Stoffes herrühren, in deren Mittelpunkt er die
@@ -322,8 +342,9 @@ Schwere zu beweisen.
 Dieser mit Recht so gefeierte Naturforscher wurde zu Woolstrop in England den
 25sten December 1642, dem Todesjahre Galilei's, geboren. Seine ersten Versuche
 kündigten durch ihren Erfolg seinen künftigen Ruf an. Ein rasches Lesen der
-Elementarbücher der Astronomie reichte für ihn hin, sie zu begreifen, er
-studirte die Geometrie des Descartes, die Optik Keplers und die Arithmetik der
+Elementarbücher der Astronomie reichte für ihn hin, sie zu begreifen, 
+<@pagebreak/>
+er studirte die Geometrie des Descartes, die Optik Keplers und die Arithmetik der
 unendlichen Größen von Wallis, und, nach neuen Entdeckungen strebend, ersann
 er, noch nicht 27 Jahr alt, seine Fluxionsmethode und seine Theorie des Lichts.
 Die Ruhe liebend und wissenschaftlichen Streitigkeiten abhold, verschob er die
@@ -347,7 +368,9 @@ Er sah, daß die Wirkung der Sonne und des Mondes auf das Erdsphäroid eine
 Bewegung der Rotationsachse hervorbringen müsse, wodurch die Nachtgleichen
 vorrücken, die Gewässer des Oceans sich erheben, und die unter dem Namen der
 Ebbe und Fluth bekannten Schwankungen jener großen Wassermasse entstehen. Er
-wurde überzeugt, daß die Ungleichheiten der Mondsbahn durch die vereinigte
+wurde überzeugt, 
+<@pagebreak/>
+daß die Ungleichheiten der Mondsbahn durch die vereinigte
 Wirkung der Sonne und der Erde hervorgebracht werden, und er berechnete alles
 dieses entweder selbst, oder zeigte seinen Nachfolgern den einzig sichern Weg,
 um die noch zu entdeckenden Erscheinungen der Himmelskörper zu erklären. Seine
@@ -372,6 +395,7 @@ céleste_ von *La Place* stellt sich würdig dem Newtonschen Werke an die Seite.
 
 *Bradley* beobachtete in England die Fixsterne, entdeckte die Aberration des
 Lichts und die Variation der Erdachse, und in ihnen neue Beweise für die
+<@pagebreak/>
 Bewegung der Erde und die ungeheure Entfernung der Fixsterne. *La Caille*
 beobachtete den Himmel der südlichen Halbkugel, und wahrend Schröter die Berge
 und Thäler der Sonne, des Mondes und der Planeten zu ergründen erstrebte, drang
