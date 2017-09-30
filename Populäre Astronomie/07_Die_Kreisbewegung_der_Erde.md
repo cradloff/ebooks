@@ -8,7 +8,9 @@ Innerhalb der unbeweglichen, nur durch die Achsendrehung der Erde sich
 scheinbar um uns schwingenden Himmelskugel, durchwandert die Sonne in einem
 Jahre ihre Bahn um die Erde. Wenn wir den Stand der Sonne zwischen den Sternen
 mit dem Fernrohre verfolgen, so sehen wir sie nach Verlauf eines Tages etwa um
-1° nach Osten vorgerückt; sie entfernt sich immer mehr von den Sternen, die sie
+1° nach Osten vorgerückt; sie entfernt sich
+<@pagebreak 86/>
+immer mehr von den Sternen, die sie
 umgaben, bis diejenigen nach Verlauf von sechs Monaten um Mitternacht an unserm
 Mittagskreise prangen, welche früher durch den Glanz der nahen Sonne verdunkelt
 wurden. Von jetzt an nähert sie sich ihnen immer mehr von der westlichen Seite,
@@ -26,6 +28,7 @@ Sternen ver-[...]
 
 [Seite 86 fehlt teilweise]
 
+<@pagebreak/>
 Aequator unter einem Winkel von 23½° schneidet. In diesem Kreise bewegt sie
 sich fast mit gleicher Geschwindigkeit von Westen nach Osten, theils in der
 nördlichen, theils in der südlichen Halbkugel. Je mehr sie sich vom Aequator
@@ -46,6 +49,7 @@ hat ihre Bahn in der Ekliptik vollendet.
 Folgende Tabelle enthält, nach *Bessel*, die Abweichung der Sonne zu
 verschiedenen Zeiten des Jahres.
 
+<@pagebreak/>
 <table>
 	<tr><td colspan="2">Nördlich.</td><td>Abwei-<br/>chung.</td><td colspan="2">Südlich.</td><td>Differenzen.</td></tr>
 	<tr><td>21. März u.</td><td>23. Sept.</td><td> 0°</td><td>23. Sept u.</td><td>21. März.</td><td></td></tr>
@@ -79,6 +83,7 @@ verschiedenen Zeiten des Jahres.
 	<tr><td>21. "</td><td>21. Juni</td><td>23½</td><td>22. "</td><td>22. Dec.</td><td>= 30 bis 33 T.</td></tr>
 </table>
 
+<@pagebreak/>
 Am 21. März und 23. September ist die Sonne in den Nachtgleichen, am 21. Juni
 und 22. Decemb. in den Sonnenwenden: von jenen zu diesen nimmt die Abweichung,
 und also auch die Länge der Tage immer zu; aber die Differenzen sind sehr
@@ -104,7 +109,9 @@ in den Eigenschaften und Wirkungen der Sonnenbahn, theils darin, daß jene
 Punkte in der nördlichen Halbkugel, wo alle Beobachter lebten, den Anfang der
 Jahreszeiten bezeichnen.
 
-Der größte Kreis der Sphäre, welcher durch die Sonnenwenden und die beiden
+Der größte Kreis der Sphäre, welcher durch die
+<@pagebreak/>
+Sonnenwenden und die beiden
 Weltpole geht, heißt der *Kolur der Sonnenwenden*, und der, welcher durch die
 Pole und die Nachtgleichen geht, der *Kolur der Nachtgleichen*.
 
@@ -135,7 +142,9 @@ Winterzeichen. Man nennt deshalb auch zwei, dem Aequator parallele Kreise,
 welche durch die äußersten Punkte der Sonnenbahn gehen, die *Wendekreise des
 Krebses* und des *Steinbockes*.
 
-Dem Zusammenhange der 12 Zeichen mit den Sternbildern gleiches Namens werden
+Dem Zusammenhange der 12 Zeichen mit den
+<@pagebreak/>
+Sternbildern gleiches Namens werden
 wir in der Folge aus einander setzen: hier genüge es zu bemerken, daß die
 Benennungen oft Symbole von Gegenständen der Witterung und des Ackerbaues sind.
 
@@ -159,8 +168,9 @@ entsteht die Veränderung der Länge der Tage und Nächte. Wenn die Sonne ihren
 Lauf, wie die Sterne, in einem dem Aequator parallelen Kreise vollendete, so
 würde während des ganzen Jahres kein Unterschied in der Dauer der Tage und
 Nächte statt finden, und wenn sie im Aequator bliebe, so würden auf der ganzen
-Erde, und durch das ganze Jahr Tag und Nacht stets einander gleich sein; doch
-jetzt, da sie während eines halben Jahrs alle Parallelkreise zwischen 23½°
+Erde, und durch das ganze Jahr Tag und Nacht stets einander gleich sein;
+<@pagebreak/>
+doch jetzt, da sie während eines halben Jahrs alle Parallelkreise zwischen 23½°
 südlich und eben so weit nördlich durchschneidet, gehört sie bald zu den
 Sternen der nördlichen, bald zu denen der südlichen Halbkugel.
 
@@ -183,7 +193,9 @@ längsten Tag, und in dem Parallelkreise, der von dem Nordpol 23½° entfernt is
 berührt die Sonne um Mitternacht den Horizont, und geht in dem ganzen Theil der
 Erdoberfläche, der zwischen jenem Parallelkreise und dem Pole ist, nicht unter.
 Man nennt diesen Kreis den *nördlichen Polarkreis*; er ist eben so weit vom Pol
-entfernt, als die Wendekreise vom Aequator. Die Sonne kehrt nun durch dieselben
+entfernt, als die Wendekreise
+<@pagebreak/>
+vom Aequator. Die Sonne kehrt nun durch dieselben
 Stufen nach dem Aequator zurück; die Länge der Tage und die Höhe der Sonne
 nehmen in demselben Verhältnisse ab, als sie früher zugenommen hatten; der
 Theil der Erde, wo die Sonne nicht untergeht, wird kleiner; in der
@@ -208,7 +220,9 @@ Nacht.
 
 Die Zeit, welche ein Stern gebraucht, um von Osten nach Westen den Himmel
 scheinbar zu umkreisen, oder die Zeit zwischen zwei oberen Kulminationen, haben
-wir *Sternentag* genannt. Die Sonne aber hat sich indessen etwa 1° nach Osten
+wir *Sternentag* genannt. Die Sonne
+<@pagebreak/>
+aber hat sich indessen etwa 1° nach Osten
 entfernt, ist also um diesen Bogen noch vom Meridiane entfernt, wenn die Sterne
 ihn schon erreicht haben; die Zeit zwischen zwei oberen Kulminationen der
 Sonne, oder der *Sonnentag*, ist also größer als der Sternentag. Der
@@ -231,8 +245,9 @@ den Morgen seinen oberen Durchgang durch den Meridian haben, im Anfange des
 Herbstes den Abend, und erst, wenn das Jahr verflossen ist, von neuem neben der
 Sonne stehn. Die Astronomen pflegen den Anfang des Tages von dem oberen
 Durchgange durch den Meridian an zu rechnen, also bei der Sonne vom Mittage,
-der Sternentag wird daher bald des Mittages, bald des Morgens, bald zu jeder
-andren Tageszeit anfangen. Nun ist aber die Sonne unendlich wichtiger für uns,
+der Sternentag wird daher bald des Mittages, bald des Morgens, bald zu jeder andren
+<@pagebreak/>
+Tageszeit anfangen. Nun ist aber die Sonne unendlich wichtiger für uns,
 als die Sterne, und nach ihr richten sich alle Geschäfte: man hat daher statt
 des gleichförmigen, aber unbequemen Sternentages den *mittleren Sonnentag* als
 Zeitmaß angenommen, alle Berechnungen der Himmelskörper auf ihn bezogen, und
@@ -256,11 +271,12 @@ die verschiedenen Meridiane der Erde zu verschiedenen Zeiten Mittag haben. Ein
 Ort früher, und der entgegengesetzte Ort der Erde hat Mitternacht, wenn wir
 Mittag haben. Wenn sich Jemand von uns nach Westen hin entfernt, so wird er,
 wenn er 15° vorgerückt ist, elf Uhr haben, wenn bei uns schon Mittag ist, also
-eine Stunde verloren haben; ist er 90° weit gewandert, so hat er sechs Uhr
-Morgens; wenn er 180° weit gekommen ist, Mitternacht, wenn wir Mittag haben,
+eine Stunde verloren haben; ist er 90° weit gewandert, so hat er sechs Uhr Morgens;
+<@pagebreak/>
+wenn er 180° weit gekommen ist, Mitternacht, wenn wir Mittag haben,
 also zwölf Stunden verloren, und endlich, wenn er diese Reise um die Erde
-vollendet hat, 24 Stunden oder einen ganzen Tag verloren, und glaubt, es sei z.
-B. der 4. Febr., wenn wir den 5ten haben. Der Reisende mißt nämlich seinen Tag
+vollendet hat, 24 Stunden oder einen ganzen Tag verloren, und glaubt, es sei 
+z.B. der 4. Febr., wenn wir den 5ten haben. Der Reisende mißt nämlich seinen Tag
 nach den Durchgängen durch *seinen* Meridian. Dieser rückt aber immer nach
 Westen; die Sonne braucht mehr als einen Tag, um ihn einzuholen, und zwar immer
 so viel, als der Weg beträgt, den er zwischen zwei Mittagen zurückgelegt hat.
@@ -281,7 +297,9 @@ Pole der Ekliptik gehenden größten Kreise nennt man *Breitenkreise*, einen
 Bogen desselben zwischen einem Stern und der Ekliptik die *Breite des Sterns*,
 und die Entfernung des Punkts, wo der Breitenkreis die Ekliptik trifft, bis zur
 Frühlingsnachtgleiche oder dem Widder, die *Länge*. Die Breite kann nördlich
-und südlich sein, die Länge zählt man auf der Ekliptik von Westen nach Osten
+und südlich
+<@pagebreak/>
+sein, die Länge zählt man auf der Ekliptik von Westen nach Osten
 nach der Ordnung der Zeichen. Man bedient sich zur Bestimmung der Länge statt
 der Grade auch wol der Zeichen selbst; z. B. 6 Zeichen 20°, oder abgekürzt, 6Z.
 20° oder 20° <img alt="Zeichen" src="Zeichen.png"/> (S. 90.) sind
@@ -311,7 +329,9 @@ verschiedene Bahn haben, so werden sie oft, vom Glanze der Sonne überstralt,
 dem bloßen Auge und auch wol für das Fernrohr unsichtbar. Ist neben der Länge
 noch die Breite gleich, so wird das Gestirn uns entweder von der Sonne
 verdeckt, oder es verdunkelt sie selbst. Hieher gehören nebst andren die unter
-dem Namen der Sonnenfinsternisse so berühmten Erscheinungen. Ein Stern, der
+dem Namen
+<@pagebreak/>
+der Sonnenfinsternisse so berühmten Erscheinungen. Ein Stern, der
 sich an der entgegengesetzten Seite der Ekliptik befindet, dessen Länge also
 180° von der der Sonne entfernt ist, und um Mitternacht kulminirt, ist in
 *Opposition* (<img alt="Opposition" src="Opposition.png"/>) mit der Sonne. Ist
@@ -326,7 +346,7 @@ Konjunktion kommt, die *erste*, und die auf die Opposition folgende die
 
 Sterne, die, nicht weit vom Tageskreise der Sonne entfernt, etwas später als
 sie kulminiren, also auch später untergehn und des Abends erscheinen, nennt man
-*Äbendsterne*; Sterne dagegen, die etwas früher aufgehn als sie, und des
+*Abendsterne*; Sterne dagegen, die etwas früher aufgehn als sie, und des
 Morgens erscheinen, *Morgensterne*. Fixsterne sowohl wie Planeten, können bald
 Abend- bald Morgensterne sein, vorzüglich ist dieses aber bei denjenigen
 Himmelskörpern merklich, welche sich von der Sonne nur auf eine gewisse Weite
@@ -337,7 +357,9 @@ Wenn wir die Bewegung der Sonne genauer untersuchen, so finden wir, was auch
 Hipparch schon wußte, daß die Zwischenzeiten zwischen den Nachtgleichen und
 Sonnenwenden einander nicht gleich sind, daß die Sonne mehrere Tage länger in
 der südlichen, als in der nördlichen Halbkugel verweilt, daß überhaupt sowohl
-ihre Entfernung als ihre GeschwindigKit veränderlich ist, daß jene zunimmt,
+ihre Entfernung als ihre Geschwindigkeit
+<@pagebreak/>
+veränderlich ist, daß jene zunimmt,
 wenn diese abnimmt, und umgekehrt, kurz, daß die Bahn der Sonne eine Ellipse
 ist, die Erde in einem Brennpunkt derselben sich befindet, und Geschwindigkeit
 und Entfernung sich genau nach denselben Gesetzen richten, wie bei den
@@ -361,6 +383,7 @@ größten, sich in Kreisen um ihn bewegen; nur er kann das, was er sieht, für
 Wirklichkeit halten, da die Sonne 800 mal so groß ist, wie alle Planeten
 zusammengenommen, und würde die Erde sich keines Vorzuges erfreuen können.
 
+<@pagebreak/>
 Und in der That lassen sich alle Erscheinungen eben so gut erklären, wenn wir
 die Erde in Bewegung annehmen. Man denke sich eine gerade Linie, welche die
 Mittelpunkte der Sonne und der Erde verbindet, — man nennt sie *Radius Vektor*
@@ -383,7 +406,9 @@ entgegengesetzt ist. Denkt man sich ferner durch die Sonne, die wir jetzt als
 Mittelpunkt der Himmelskugel ansehen wollen, einen dem Erdäquator parallelen
 Kreis, so wird dieser die Erdbahn in zwei Punkten schneiden; sobald die Erde in
 einem dieser Punkte ist, so ist der Radius Vektor im Aequator, nämlich in den
-Nachtgleichen, je mehr sich aber die Erde davon entfernt und in dem nördlichen
+Nachtgleichen, je mehr sich aber die
+<@pagebreak/>
+Erde davon entfernt und in dem nördlichen
 Theile der Ekliptik vorrückt, desto südlicher wird der Punkt der Erde, den der
 Radius Vektor trifft, und in dem nördlichsten Stande der Erde, in der
 Wintersonnenwende, erscheint der Radius Vektor und die Sonne am südlichsten;
@@ -408,8 +433,9 @@ verlangt. Tycho's Einwurf, von der Verschwendung des Raums zwischen den
 Fixsternen hergenommen, ist ohne Bedeutung. (S. 66.)
 
 Lange dauerte es, ehe der Mensch sich diesen Gedanken befreunden und von der
-erhabenen Rolle, die er im Mittelpunkte des Weltalls einnahm, herabsteigen
-mochte, um zwischen den Planeten eines der Millionen Sonnensysteme seinen
+erhabenen Rolle, die er im Mittelpunkte des Weltalls einnahm,
+<@pagebreak/>
+herabsteigen mochte, um zwischen den Planeten eines der Millionen Sonnensysteme seinen
 bescheidenen Platz einzunehmen; aber wenn auch der Dünkel der Menschen dadurch
 litt, daß er den thörichten Wahn aufgeben mußte, als wären alle Wesen
 seinetwillen erschaffen, so hat sich dafür sein Gesichtskreis vergrößert, seine

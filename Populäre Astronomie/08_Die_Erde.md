@@ -8,6 +8,7 @@ Zwischen den übrigen Planeten, weder zu den größten, noch zu den kleinsten,
 weder zu den fernsten, noch nächsten gehörend, bewegt sich die Erde um die
 Sonne. Durch die Entdeckungen Koperniks aus dem Mittelpunkte des Weltalls
 verstoßen, wiederholt sich der Mensch gern, daß seine Erde gleich weit von den
+<@pagebreak/>
 Extremen der Größe und Entfernung abstehe, daß die Neigung ihrer Bahn die
 schöne Abwechselung der Jahrszeiten erzeuge, die selbst Jupiter entbehren
 müsse, und sie deshalb vorzüglich zum Wohnsitz harmonisch gebildeter, des
@@ -32,7 +33,9 @@ Richtungen umschiffte Erde bot nirgend eine Ecke dar, und überall glaubte sich
 der Seefahrer auf dem Mittelpunkte eines ausgedehnten Kreises. Indeß hatten
 viele Erscheinungen, auch vor den Erdumsegelungen, die Verständigen von der
 kugelähnlichen Gestalt der Erde überzeugt. Von einem sich dem Ufer nähernden
-Schiffe erblickt man nicht zuerst den Körper, der durch seine Größe am
+Schiffe erblickt man nicht
+<@pagebreak/>
+zuerst den Körper, der durch seine Größe am
 weitesten sichtbar sein sollte; die Spitze der Masten ist es, die man zuerst
 wahrnimmt; je mehr das Schiff sich nähert, ein desto größerer Theil desselben
 kommt hervor, bis endlich auch der untere Theil sichtbar wird. Dasselbe findet
@@ -56,7 +59,9 @@ Nach der Entscheidung dieser Frage war die Bestimmung der *Größe* eine leichte
 aber nicht minder wichtige Aufgabe, indem von der Kenntniß der Größe der Erde
 auch die aller andren Himmelskörper abhängt. Die erste Schätzung derselben
 verdanken wir dem *Eratosthenes*, einem vor 2000 Jahren in Aegypten lebenden
-Astronomen. Er fand, daß zu Siene in Oberägypten die Sonne einst im Mittage der
+Astronomen. Er fand, daß zu
+<@pagebreak/>
+Siene in Oberägypten die Sonne einst im Mittage der
 Sommersonnenwende in einen tiefen Brunnen keinen Schatten warf, also im Zenith
 des Ortes stand. In Alexandrien zeigte zu derselben Zeit der Schatten, daß die
 Sonne 1/50 des Kreises vom Zenith entfernt sei; beide Oerter lagen beinahe in
@@ -80,6 +85,7 @@ Meilen auf der Erde entsprechen und das Verhältniß 5½°: 1° = 82½ M.: 15 M.
 Größe eines Grades zu 15 Meilen festsetzen; den Umfang der ganzen Erde also zu
 360-15 = 5400 Meilen. Je größer die gemessene Linie ist, desto genauer wird das
 Resultat. Aber die Unmöglichkeit eine große Linie zu messen, die Unebenheiten
+<@pagebreak/>
 des Bodens, die Schwierigkeit genau in dem Meridian fortzugehn, und die
 Rechnungen, wodurch man den Einfluß dieser Hindernisse beseitigt, erschweren
 die Arbeit ungemein, und nur durch den ganzen Aufwand der feinsten mechanischen
@@ -103,7 +109,9 @@ in der Nähe des Aequators. Aber aus fehlerhaften Versuchen schien das
 Gegentheil zu folgen, und der Streit wurde erst zum Vortheil der Newtonschen
 Theorie entschieden, als die französische Akademie durch Bouguer und Condamine
 in *Quito* und durch Maupertuis in *Lappland* Gradmessungen anstellen ließ.
-Aber die Erscheinungen der Natur, obgleich in den ersten Gründen im höchsten
+Aber die Erscheinungen der Natur, obgleich in den ersten Gründen
+<@pagebreak/>
+im höchsten
 Grade einfach, hängen von so vielen Umständen ab, daß sie sehr selten in der
 Erfahrung vollkommne Regelmäßigkeit zeigen, und dieß bestätigte sich auch hier.
 Die verschiedenen Messungen gaben nämlich für das Sphäroid widersprechende
@@ -133,7 +141,8 @@ Folgendes sind die Dimensionen der Erde:
 <tr><td>Ein Grad am Pole         </td><td>  57289,6 "</td></tr>
 </table>
 
-Nimmt man den Grad des Meidians von 45° Breite als eine mittlere Größe an, so
+<@pagebreak/>
+Nimmt man den Grad des Meridians von 45° Breite als eine mittlere Größe an, so
 enthielte die geographische Meile oder 1/15 eines Grades 3806,8 Toisen, oder
 22840 pariser, oder 23640,3 rheinländische Fuß.
 
@@ -163,8 +172,9 @@ auf einen Grad des Aequator gehn.
 </table>
 
 Da die Abweichung der Gestalt der Erde von der Kugel unbedeutend ist, so ist
-sie bei der Berechnung der Tabelle nicht berücksichtigt worden. Die Zahlen
-gelten sowohl für die nördliche, als südliche Halbkugel. In den ersten 20° ist
+sie bei der Berechnung der Tabelle nicht berücksichtigt worden. Die
+<@pagebreak/>
+Zahlen gelten sowohl für die nördliche, als südliche Halbkugel. In den ersten 20° ist
 der Unterschied sehr klein, und daher auch die davon abhängigen Erscheinungen,
 z. B. die Ungleichheit der Tags- und Nachtbogen der Sonne unbedeutend. Der
 Unterschied nimmt aber in höheren Breiten rasch zu, so daß eine geringe
@@ -188,7 +198,9 @@ kleiner ist die Parallaxe, und endlich im Zenith, obgleich alsdann der Stern
 der Erde um einen ganzen Erdhalbmesser näher ist, ist sie = 0.
 
 Sie hängt gänzlich von der Entfernung des Gestirns ab. Für die Fixsterne ist
-der Unterschied völlig unmerklich, für die Sonne etwa 8", und für die nächsten
+der Unterschied völlig
+<@pagebreak/>
+unmerklich, für die Sonne etwa 8", und für die nächsten
 Planeten auch nicht sehr bedeutend. Für den Mond aber beträgt sie wol 62'; um
 diesen Winkel erscheint er uns also am Horizonte tiefer, als er es vom
 Mittelpunkte der Erde aus sein würde, und ein Stern, der nahe unter ihm ist,
@@ -213,7 +225,9 @@ indem sie das einzige Mittel zur Berechnung der Entfernung der Himmelskörper
 gibt; denn aus dem Winkel _EMA_, (Fig. 10.)und der Linie _EA_, dem Halbmesser
 der Erde, läßt sich die Entfernung _ES_ sehr leicht berechnen. — Keine Lage auf
 der Erde ist vielleicht zur Beobachtung der Parallaxe geeigneter als Stockholm
-und das Vorgebirge der Guten Hoffnung; beide liegen fast in demselben
+und das Vorgebirge der
+<@pagebreak/>
+Guten Hoffnung; beide liegen fast in demselben
 Mittagskreise, aber jenes 59° 20' nördlicher Breite, dieses fast 34° südlicher
 Breite, also über 93 Grade von einander entfernt.
 
@@ -238,7 +252,9 @@ kleinste Neuholland umfaßt. Zwischen ihnen erstrecken sich der große und der
 Atlantische Ocean, die sich in Norden in dem Nordocean, und in Süden in dem
 Indischen und dem Südocean vereinigen. Vorzüglich scheint der Südtheil der Erde
 dem Wasser anzugehören, denn während nach dem Norden hin die beiden größten
-Kontinente zusammenstoßen, und die beide Hauptoceane sich nur durch schmale
+Kontinente
+<@pagebreak/>
+zusammenstoßen, und die beide Hauptoceane sich nur durch schmale
 Meerengen, die Barrow- und Baffinsstraße, und zwischen Norwegen, Island und
 Grönland, mit dem Nordocean vereinigen können, haben große, in das höchste
 Alterthum hinaufgehende Naturerscheinungen, vielleicht durch allmälige
@@ -264,6 +280,7 @@ rechten Seite enthalten 384,900, und 385,500 Quadrat-Meilen.
 
 Die Größe der fünf Welttheile ist nach den genauesten Karten:
 
+<@pagebreak/>
 <table>
 <tr><td>Europa </td><td>153,529 oder 158,400 □ Meilen.</td></tr>
 <tr><td>Asien  </td><td>763,208 — 768,057 —</td></tr>
@@ -292,7 +309,9 @@ Wenn die Oberfläche der Erde nur durch beschwerliche Reisen erforscht werden
 kann, so bieten sich der Kenntniß des Innern der Erde unübersteigliche
 Schwierigkeiten dar, und wie tief auch der Geiz des Menschen in die
 metallführenden Gebirge eingedrungen zu sein glaubt, von dem Gipfel der
-höchsten Berge bis zu dem Boden der tiefsten Schachte ist der Mensch dem
+höchsten Berge
+<@pagebreak/>
+bis zu dem Boden der tiefsten Schachte ist der Mensch dem
 Mittelpunkte der Erde kaum um 1/1000 näher gekommen. Gezwungen, auf die
 Kenntniß des Inneren der Erde auf immer zu verzichten, suchte er sich durch
 Vermuthungen zu entschädigen, und alle Wissenschaften, von der Geschichte und
@@ -318,7 +337,9 @@ ertödtet haben.
 
 In ihren Bestandtheilen den Urgebirgen ähnlich, bilden die *Uebergangsgebirge*
 die zweite und jüngere Klasse der Gebirge; aber die geringe Vollkommenheit, ja
-zuweilen der gänzliche Mängel an krystallinischem Gefüge, verräth ein weniger
+zuweilen der gänzliche Mangel
+<@pagebreak/>
+an krystallinischem Gefüge, verräth ein weniger
 langsames Entstehen, ja zuweilen selbst die Wirkung gewaltiger Kräfte, die das
 Urgebirge zerstörten, um aus den Trümmern neue Felsmassen zu bilden. Ueberreste
 von Farrenkräutern, Korallen und Muscheln deuten auf eine Flüssigkeit, die vom
@@ -344,7 +365,9 @@ darf uns zwar nicht befremden, daß einige Thier und Pflanzenformen ausgeartet
 oder ganz vernichtet sind, da selbst die wenigen Jahre, seitdem der Mensch sich
 der Zoologie und Botanik mit größerer Aufmerksamkeit widmet, nicht ohne
 Beispiele der Art sind; aber das gänzliche Aufhören fast aller organischen
-Wesen der Flöz- und tertiären Gebirge, und das Entstehn der Pflanzen und Thiere
+Wesen der
+<@pagebreak/>
+Flöz- und tertiären Gebirge, und das Entstehn der Pflanzen und Thiere
 der jetzigen Welt ist entweder durch eine allmälige Ausartung verursacht,
 welche eine bedeutende Veränderung der Meere und der Atmosphäre voraussetzt —
 und Niemand vermag zu bestimmen, wie weit diese noch gehen wird —, oder eine
@@ -367,7 +390,9 @@ Länder und auch an dem Boden der Meere in ausgedehnten Bänken an; aber vor
 Jahrtausenden, als der Ocean noch größere Erdgebiete bedeckte, zerstörte er bei
 plötzlichen Durchbrüchen, deren Spuren wir noch sehen, ganze Gebirge, und
 lagerte auf die flachen Gegenden Steine und Erde in solcher Höhe, daß der
-größte Theil des Landes damit bedeckt ist. Ueberall finden sich Spuren von
+größte Theil des Landes damit bedeckt ist.
+<@pagebreak/>
+Ueberall finden sich Spuren von
 Pflanzen, Thieren, ja auch Menschen, zum Theil noch deutlich zu erkennen, zum
 Theil durch Verwesung in fruchtbare *Dammerde* aufgelöst, die wiederum zur
 Erzeugung organischer Wesen beiträgt; so daß sie uns in Zweifel läßt, ob wir
@@ -391,7 +416,9 @@ Gefahren, die jeden Augenblick auf ihn einbrechen können, und bedenkt nur, daß
 dieselben Ursachen, die Pompeji bedeckten, Caraccas, Lissabon und Schiras
 zerstörten, und in dem indischen Archipel mit dem Hervorbringen und Zerstören
 von Inseln zu spielen scheinen, auch die Unebenheiten der Erde hervorgebracht
-haben, so daß Meere sich bilden, und Flüsse die Erde bewässern können, ohne
+haben, so daß Meere
+<@pagebreak/>
+sich bilden, und Flüsse die Erde bewässern können, ohne
 welche unser Planet, eine unfruchtbare Wüste, weniger Thiere und Pflanzen
 erzeugen und ernähren könnte, als ein von Vulkanen und Erdbeben durchwühltes
 Land.
@@ -416,7 +443,9 @@ raschen Verhältnisse ab, so daß sie in der Höhe von 25 Meilen nicht den
 von der Erde unmerklich ist. Wenn sie nun auch ganz unbegrenzt ist und sich im
 Weltraume verliert, so ist sie doch ​in einem so hohem Grade verdünnt, daß
 ihr Einfluß auf die Himmelserscheinungen unmerklich ist, und man ihr Dasein
-außerhalb einer geringen Entfernung von der Erde nicht zu berücksichtigen
+außerhalb einer geringen Entfernung von der
+<@pagebreak/>
+Erde nicht zu berücksichtigen
 braucht. Das Verhältniß, in welchem die beiden erstgenannten Bestandtheile zu
 einander stehen, scheint fast überall, in allen Zonen, in Höhen und Tiefen, in
 menschen-vollen und leeren Räumen, unverändert zu bleiben. Der Wasserdampf, der
@@ -442,7 +471,9 @@ sichtbaren Gegenständen auf irgend eine Weise ausfüllen mußte. Wäre die Luft
 völlig durchsichtig, so daß uns die entferntesten Sterne sichtbar würden, so
 würde sie uns entweder unter einem matten, milchstraßenähnlichen Lichte, oder
 wo keine Sterne sind, völlig schwarz erscheinen. Dieses schwarze oder mattweiße
-Gewölbe bildete alsdann eine Halbkugel, in deren Mitte wir uns befinden, da
+Gewölbe bildete alsdann eine
+<@pagebreak/>
+Halbkugel, in deren Mitte wir uns befinden, da
 kein Grund vorhanden wäre, warum uns *ein* Theil des Gewölbes näher oder
 entfernter sein sollte, als der andre. Aber weder die Farbe, noch die Gestalt
 des Himmels bestätiget jene Ansicht. Was die schöne *Himmelsbläue* verursacht,
@@ -466,7 +497,9 @@ Mathematiker haben sie noch nicht mit Gewißheit bestimmen können — deren
 Halbmesser am Horizont 2 bis 3 mal so weit ist, als nach dem Zenith. Denn nicht
 einem jeden Menschen erscheint sie von der nämlichen Gestalt, sie scheint
 vielmehr sehr von der Beschaffenheit des Auges abhängig zu sein. Die Ursache
-liegt vielleicht in der Gewohnheit, Entfernungen unbekannter Körper nach
+liegt vielleicht in der Gewohnheit,
+<@pagebreak/>
+Entfernungen unbekannter Körper nach
 dazwischen liegenden, uns bekannteren Gegenständen zu schätzen. Auf einer
 Fläche, wo sich Menschen, Thiere oder Bäume befinden, täuschen wir uns weniger
 leicht über die Entfernung eines Berges, als wenn eine weite, leere Ebene uns
@@ -490,7 +523,9 @@ wechselseitig bedingende Punkte zu betrachten. Wo die wirkliche Größe unbekann
 ist, schließen wir aus der Stärke des Lichts auf die Entfernung. Aber hierbei
 täuschen wir uns; denn weil das Licht der über uns befindlichen Gegenstände zum
 Theil durch eine weit dünnere und reinere Luft geht, als wenn es längs der
-Erdoberfläche streichen müßte, so wird es weit weniger geschwächt und die
+Erdoberfläche streichen müßte, so wird es weit
+<@pagebreak/>
+weniger geschwächt und die
 Gegenstände scheinen uns viel näher zu sein. Am Horizont sind daher die Grenzen
 des Himmelsgewölbes viel weiter hinaus gerückt, als am Zenith.
 
@@ -517,7 +552,9 @@ Eigenschaften beschäftigen wollen.
 
 1. In einem gleichförmigen Körper ist seine Bewegung in einer graden Linie.
 
-2. Sobald es aber in einen andern Körper tritt, stralt es theils von der
+2. Sobald es aber in einen andern Körper tritt,
+<@pagebreak/>
+stralt es theils von der
 gemeinschaftlichen Oberfläche beider Körper unter demselben Winkel wieder
 zurück — wie eine Billardkugel an den Rändern der Tafel, oder wie der Schall —
 wovon wir im Spiegel Beispiele sehen; man nennt dieses *Zurückwerfung*,
@@ -543,7 +580,9 @@ der gespiegelten Gegenstände, nicht aber seine eigene, deutlich erkennen. Durch
 die Zerstreuung werden die Körper *beleuchtet* und *sichtbar*.
 
 4. Wie alle Bewegungen, und auch der Schall gebraucht das Licht eine gewisse
-Zeit, um sich fortzupflanzen. Indeß ist seine Geschwindigkeit so groß, daß wir
+Zeit, um sich
+<@pagebreak/>
+fortzupflanzen. Indeß ist seine Geschwindigkeit so groß, daß wir
 sie bei keiner irdischen Erscheinung wahrnehmen können; sie beträgt nämlich
 40000 Meilen in der Sekunde (beim Schalle nur etwa 1000 Fuß, und bei der
 Kanonenkugel 600 Fuß in der Sek.) ist also 10186 mal rascher als die Bewegung
@@ -568,12 +607,13 @@ zurückstralen könnten. Man nimmt deshalb gewöhnlich 10 Meilen als die Höhe d
 Atmospähre an.
 
 Je weniger die Sonne in der Nacht unter den Horizont hinabsinkt, auf desto
-kürzere Zeit ist die Nacht beschränkt, und wenn sie um Mitternacht nicht tiefer
-als 18° steht, so begegnen sich Morgen- und Abenddämmerung, und es wird selbst
+kürzere Zeit ist die Nacht beschränkt, und wenn sie um Mitternacht nicht
+<@pagebreak/>
+tiefer als 18° steht, so begegnen sich Morgen- und Abenddämmerung, und es wird selbst
 um Mitternacht nicht ganz dunkel. Dieses geschieht am längsten Tage zwischen
 dem 48½ Grade der Breite und dem Pol, in den Nachtgleichen vom 72sten Grade an,
 ja am Nordpol werden die beiden Dämmerungen nur zwischen dem 12. November und
-29. Januar unterbrochen, und die dunkle sechsmonatliche Nacht wird um 100 Tage
+29\. Januar unterbrochen, und die dunkle sechsmonatliche Nacht wird um 100 Tage
 verkürzt. Unter 60° Breite ist während vier Monaten keine völlige Nacht; unter
 52° — 53° währt sie von der Mitte Oktobers bis zum ersten März 2 bis 2¼,
 Stunden, nimmt dann bis zur Mitte des Mai auf 3¾ Stunden zu, so daß bis Anfang
@@ -592,7 +632,9 @@ dunkle Halbkugel begrenzenden Linie erstreckt.
 
 Weniger auffallend, aber für die Astronomen noch wichtiger, ist die Wirkung der
 *Brechung des Lichts* in der Atmosphäre. Aus dem luftleeren, oder doch nur mit
-höchst feinem Aether gefüllten Raume tritt das Licht in unsre Atmosphäre. Diese
+höchst feinem Aether gefüllten Raume
+<@pagebreak/>
+tritt das Licht in unsre Atmosphäre. Diese
 nimmt an Dichte mit der Nähe zur Erde zu, und man kann sie sich daher als eine
 zahllose Menge mit der Erde paralleler, immer dichter werdender Schichten
 denken; bei jeder neuen Schicht wird der Stral der auf der gemeinschaftlichen
@@ -615,6 +657,7 @@ Mittelpunkt der Sonne und des Mondes, deren Durchmesser etwa 30' beträgt, sind
 noch 50' unter dem Horizont, wenn ihr oberer Rand schon hervorbricht. Man nennt
 diesen Winkel die *Horizontalrefraktion*. Mit der Höhe nimmt er sehr rasch ab,
 daher der obere Theil der Sonne und des Mondes beim Auf- und Untergange 6'
+<@pagebreak/>
 weniger, als der untere gehoben ist, und sie deshalb plattgedrückt erscheinen.
 Bei 1° Höhe beträgt die Refraktion nur noch 24⅓'; bei 5°, noch 10'; bei 10°,
 5½'; bei 20°, 2¾'; bei 40°, 1¼'; bei 60°, ½' und nimmt von da an etwa einen
@@ -642,7 +685,9 @@ entschädigt, den sie ihnen in andren Rücksichten gewährt, indem man ihr fast
 ausschließlich die größten Entdeckungen verdanket. Die Wirkung der Fernröhre
 beruht nämlich größtentheils auf der stralenbrechenden Kraft des Glases.
 
-Ein die Beobachtung der scheinbaren Größe der Himmelskörper sehr störender
+Ein die Beobachtung der scheinbaren Größe der
+<@pagebreak/>
+Himmelskörper sehr störender
 Umstand ist die *Irradiation*. Ein glänzender, in einiger Entfernung
 befindlicher Körper bringt in unsrem Auge einen Reiz hervor, der ihn nach allen
 Seiten um etwa zwei Minuten, oder den Durchmesser um vier Minuten vergrößert.
@@ -667,7 +712,9 @@ bei sehr glänzenden Gegenständen, z. B. Sternen, dehnt sich durch Irradiation
 das Bild so sehr aus, daß es dem Auge sichtbar werden kann; daher Fixsterne,
 deren Durchmesser keine halbe Sekunde beträgt, deutlich unterschieden werden
 können. Die Astronomen, welche den Himmelskörper durch das Fernrohr zu
-betrachten gewohnt sind, sehen auch mit unbewaffnetem Auge den Himmel mit weit
+betrachten gewohnt sind, sehen auch
+<@pagebreak/>
+mit unbewaffnetem Auge den Himmel mit weit
 geringerer Irradiation, als Andre.
 
 Durch die Trübe unserer Atmosphäre wird das *Funkeln* der Sterne
@@ -693,7 +740,9 @@ glücklicher Weise senden uns die von der Sonne erleuchteten Wolken und andre
 Körper das Licht derselben als *Tageslicht* zu, wodurch auch die der
 unmittelbaren Stralen der Sonne, des *Sonnenlichts*, entbehrenden Gegenstände
 beleuchtet werden. Zwar kommt das Licht der Sonne durch den Wolkenhimmel um ⅔
-geschwächt zu uns; aber die Stärke des Sonnenlichts ist so groß, daß es dennoch
+geschwächt zu uns; aber die Stärke des
+<@pagebreak/>
+Sonnenlichts ist so groß, daß es dennoch
 die 100000 mal so große Fläche des Himmels auf einen so hohen Grad erleuchten
 kann.
 
