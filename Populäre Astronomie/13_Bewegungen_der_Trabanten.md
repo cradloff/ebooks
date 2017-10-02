@@ -1,3 +1,4 @@
+<@pagebreak 220/>
 Zwölfte Vorlesung.
 ==================
 
@@ -18,7 +19,9 @@ Die *Jupiters-Trabanten* wurden fast gleichzeitig von *Simon Mayer* und von
 der neu erfundenen Fernröhre. Beide nannten sie, den Beherrschern ihrer Länder
 zu Ehren, die *brandenburgischen* und die *mediceischen Gestirne*; aber statt
 dieser längst vergessenen Namen sind die des ersten bis vierten
-Jupiterstrabanten eingeführt; der erste ist der seinem Hauptplaneten am
+Jupiterstrabanten eingeführt; der erste ist der seinem
+<@pagebreak/>
+Hauptplaneten am
 nächsten stehende, der vierte der entfernteste Trabant.
 
 Von den *Saturnstrabanten* sind der erste und zweite von Herschel im Jahr 1789
@@ -46,6 +49,7 @@ Ringe überzeugt. Auch *Uranusringe* glaubte dieser berühmte Astronom im Jahre
 
 Der Planet und seine Monde bilden ein kleineres System für sich, das zwar seine
 Lage zur Sonne und den andren Planeten beständig ändert, innerhalb seines
+<@pagebreak/>
 eigenen Bezirkes aber gänzlich den Keplerschen Gesetzen gehorcht. Wir kennen
 jedoch von den Bewegungen der Trabanten nur die Hauptpunkte, denn die Bahnen
 sind zu sehr entfernt, als daß man die genaue Figur derselben, die nicht sehr
@@ -71,7 +75,9 @@ mehrere Umstände verursachten rascheren Bewegung der Trabanten um den Planeten,
 ist der Unterschied der synodischen und sideralen Umläufe im Ganzen weniger
 bedeutend als beim Monde.
 
-Von der Erde aus gesehen gestalten sich die Bewegungen der Trabanten sehr
+Von der Erde aus gesehen gestalten sich die Bewegungen
+<@pagebreak/>
+der Trabanten sehr
 einfach. Da sie, wie erwähnt ist, ungleich rascher sind als die des Planeten,
 so wollen wir von den Bewegungen derselben und der Erde absehn, und nur die
 veränderliche Lage der Trabanten an der Himmelskugel, oder ihre Veränderungen
@@ -95,7 +101,9 @@ bloß von der Neigung der Bahn zur Ekliptik ab, sondern auch von der Lage der
 Erde und des Planeten in ihren Bahnen um die Sonne.
 
 Die Bewegung der Ringe um ihren Planeten ist, wenn sie statt findet, innerhalb
-ihrer eigenen Ebene und, wie die Achsendrehung der Himmelskörper, nur ein
+ihrer eigenen Ebene und, wie die Achsendrehung der Himmelskörper,
+<@pagebreak/>
+nur ein
 Verschieben der Theile in einander, das ein entfernter Beobachter bloß dann
 wahrnehmen kann, wenn dadurch ausgezeichtete Punkte, Flecken, ihren Ort
 verändern: Man kann daher die Ringe als eine verkörperte Trabantenbahn ansehen,
@@ -121,7 +129,9 @@ Fall wäre, und nur der Ort auf welchem sie sich zutragen, stets ungefähr in
 derselben Entfernung bliebe, so würden wir dennoch in den Erscheinungen selbst
 durchaus keinen Unterschied wahrnehmen; nur müßte in diesem Falle alles Licht,
 wie jeder Ton, mit gleicher Schnelligkeit fortgepflanzt werden. So hörte Biot
-an dem Ende einer ⅛ Meile langen Röhre alle Töne eines Musikstückes genau in
+an dem Ende
+<@pagebreak/>
+einer ⅛ Meile langen Röhre alle Töne eines Musikstückes genau in
 derselben Harmonie, wie sie gespielt wurden, obgleich 3" später. Wenn aber der
 Körper sich bald nähert, bald entfernt, so werden seine Erscheinungen im
 letzten Falle uns später, im ersten früher sichtbar sein. Die ungeheure
@@ -145,7 +155,9 @@ Da die Trabanten fast dieselbe Lage zur Erde und Sonne haben, wie die
 Hauptplaneten, so müssen sie dieselben Lichterscheinungen zeigen, wie jene.
 Allein sie sind so weit entfernt, daß die Phasen selbst an den Hauptkörpern
 nicht wahrzunehmen sind (S. 176), und die geringe Größe der Trabantenscheiben
-würde ihre Beobachtung auch bei größerer Nähe unmöglich machen. Indeß würde z.
+würde ihre Beobachtung auch bei größerer Nähe unmöglich machen.
+<@pagebreak/>
+Indeß würde z.
 B. ein nicht zu kleiner Trabant der *Venus* fast genau dieselben Phasen haben
 müssen, wie Venus selbst.
 
@@ -153,6 +165,7 @@ Dieses ist das Vorzüglichste von der Trabantenbewegung im Allgemeinen, und ehe
 wir uns zu den einzelnen Systemen wenden, wollen wir die Elemente der Bahnen in
 folgenden Tabellen zusammenstellen.
 
+<@pagebreak/>
 <table>
 <caption>Tab. 1. Entfernungen der Trabanten von den Hauptplaneten, in Theilen
 des Halbmessers derselben und in deutschen Meilen.</caption>
@@ -180,6 +193,7 @@ des Halbmessers derselben und in deutschen Meilen.</caption>
 <tr><td></td>           <td> VII. 481809</td><td></td></tr>
 </table>
 
+<@pagebreak/>
 Die Entfernungen sind überall von dem Mittelpunkte des Planeten an gerechnet.
 Um also zu wissen wie weit es von seiner Oberfläche zu dem Trabanten oder Ringe
 ist, braucht man nur den Halbmesser des Planeten von den angegebenen Zahlen
@@ -206,8 +220,9 @@ zu, bei Saturn betrugen sie:
 Wenn zwischen I. und II. noch ein Trabant ist, so würden die fünf ersten eine
 ziemlich regelmäßige Reihe bilden; die letzten drei verhalten sich beinahe wie
 1:2:4, ein Verhältniß, das auch bei den Planeten das herrschende ist. Daß
-zwischen IV. und VI. noch andre Trabanten kreisen ist zwar möglich, jedoch
-nicht nothwendig. Ob der wegen der Nähe der ersten Trabanten zu einander
+zwischen IV. und VI. noch andre Trabanten kreisen ist zwar möglich, jedoch nicht
+<@pagebreak/>
+nothwendig. Ob der wegen der Nähe der ersten Trabanten zu einander
 bedeutende Raum zwischen dem Planeten und I. durch Ringe und Trabanten
 ausgefüllt ist, ist unentschieden. Von jenen ist eine Spur beobachtet; diese
 würde man auch mit den besten Fernröhren kaum wahrnehmen, da selbst die
@@ -233,6 +248,7 @@ Erde nicht sehen könne und — würde sich täuschen: eine Warnung für uns, da
 uns bei Gegenständen, deren Ursache wir nicht einsehn, nicht zu sehr, durch
 Analogie verleitet, gewagten Vermuthungen überlassen.
 
+<@pagebreak/>
 <table>
 <caption>Tab. 2. Siderische Umlaufszeiten, Neigung der Trabanten zu der
 Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
@@ -263,6 +279,7 @@ Planetenbahn, aufsteigende Knoten beider Bahnen.</caption>
 <tr><td>  VI.107  16   39  56    </td></tr>
 </table>
 
+<@pagebreak/>
 Die *Umlaufszeiten* sind genau den Keplerschen Gesetzen gemäß; indeß bieten sie
 bei den drei untern *Jupiterstrabanten* ein merkwürdiges Verhältniß dar:
 nämlich die mittleren, in einer gewissen Zeit zurückgelegten Bogen des ersten
@@ -293,7 +310,9 @@ dritten in 142 Jahren um 24' 40", und bei dem vierten in 531 Jahren um 29' 56";
 also weit geringere Abweichungen als bei dem Monde (S. 194). Die in der Tabelle
 angegebenen Werthe sind die mittleren.
 
-Wegen ihrer Nähe zum Jupiter und der geringen Neigung ihrer Bahn zu der des
+Wegen ihrer Nähe zum Jupiter und der geringen
+<@pagebreak/>
+Neigung ihrer Bahn zu der des
 Planeten, werden die drei ersten Trabanten bei jedem Umlaufe total verfinstert
 und verfinstern Jupiter wiederum, nur der vierte entzieht sich der
 Verfinsterung zuweilen; sie dauert 2 — 5 Stunden und gehört zu den
@@ -325,6 +344,7 @@ einem scharfen unbewaffneten Auge sichtbar; es ist daher nicht ganz
 unwahrscheinlich, daß ihr Dasein, wie Turner behauptet, den indischen und
 tibetanischen Astronomen aus alten Traditionen bekannt ist.
 
+<@pagebreak/>
 Sehr anziehende Erscheinungen zeigt das *System des Saturn*. Sein Ring und die
 sechs ersten Trabanten liegen sämmtlich in derselben Ebene, die aber um den
 bedeutenden Winkel von 30° zur Saturnsbahn und über 31° zur Ekliptik geneigt
@@ -348,7 +368,9 @@ zusammenzuhängen scheinen. Huygens erkannte die wahre Ursache, und durch
 Herschels und Schröters Beobachtungen ist jetzt entschieden, daß es zwei
 koncentrische Ringe sind, wovon der nächste 5720 Meilen von der Oberfläche des
 Saturn entfernt ist; seine Breite beträgt 3935 Meilen, und nach einem
-Zwischenraume von 568 Meilen folgt der kleinere äußere Ring von 1379 Meilen
+Zwischenraume von 568 Meilen folgt der kleinere äußere
+<@pagebreak/>
+Ring von 1379 Meilen
 Breite. Ihre Neigung ist entweder dieselbe wie bei den Trabanten, oder ist
 höchstens 4' verschieden; die Dicke ist nur 113¼ Meilen groß, und die Gestalt
 der Ringe nicht eckig — kein Himmelskörper hat eine solche Begrenzung — sondern
@@ -373,6 +395,7 @@ ihr entfernt; nach 7½ Jahre wird die Ebene des Rings von der Sonne
 durchschnitten und tritt nachher auf die andre Seite derselben, wo sie nach 7½
 Jahre wiederum 9½ Erdhalbmesser von ihr entfernt ist. Ein Raum von der Größe
 des Erdbahndurchmessers wird daher von ihr in weniger als einem Jahre
+<@pagebreak/>
 durchschnitten, und nur in dieser Zeit kann die Ebene des Ringes[???] zwischen
 der Sonne und der Erde durchgehen und für[???] uns unsichtbar sein. Zwar ist
 der von der Sonne beleuchtete Rand des Ringes uns immer zugekehrt allein die so
@@ -397,6 +420,7 @@ seiner Bahn stehenden Ebenen. Alle bis jetzt von uns betrachteten Himmelskörper
 bewegen sich in Bahnen die eine geringe Anzahl von Graden zur Ekliptik geneigt
 sind, und stets von der Sonne oder dem Hauptplaneten aus gesehn von Westen nach
 Osten, oder von Rechts zu Links, wenn der Beobachter im Aequator oder in der
+<@pagebreak/>
 Ekliptik[???] aufrecht steht, so daß sein Haupt nach Norden[???] gewandt ist.
 Zwar weichen einige Planetenbahnen und[???] die Bahnen der Saturnstrabanten
 schon bedeutend davon ab, aber sie sind noch immer rechtgängig. Sobald jedoch
@@ -422,6 +446,7 @@ und Zeiten angestellt, es lag nichts Widersprechendes in ihnen. Friedrich II.
 schlug vor den neuen Himmelskörper d'Alembert zu nennen, und Lambert entwarf
 sogar Tafeln für ihn. Aber er ist nicht wieder gesehn worden, und Köhler zeigte
 sogar, wie durch eine Verschiebung des Okulars im Fernrohre eine ähnliche
+<@pagebreak/>
 Erscheinung hervorgebracht werden könne. Da man jedoch an andren Himmelskörpern
 nichts Aehnliches wahrgenommen hat, so liegt, wenn auch kein Mond, doch
 vielleicht etwas Wirkliches zum Grunde.

@@ -1,3 +1,4 @@
+<@pagebreak 238/>
 Dreizehnte Vorlesung.
 =====================
 
@@ -19,7 +20,9 @@ Ihre Größe ist aber nur scheinbar der des Mondes nicht sehr überlegen, sie
 beträgt zwar nur 32'2"9; aber bei der großen Entfernung von 21 Mill. Meilen ist
 ihr wirklicher Durchmesser 112,4 mal, ihre Oberfläche 12641, und ihr
 körperlicher Inhalt 1421150 mal so groß, wie die der Erde. Ihr Durchmesser
-beträgt 193260 Meilen, etwa 1/216 der Entfernung der Erde von der Sonne oder
+beträgt 193260 Meilen, etwa 1/216 der Entfernung der
+<@pagebreak/>
+Erde von der Sonne oder
 der Erdweite, jede Raumsekunde entspricht etwa 100 Meilen, und ihr Rauminhalt
 ist 500 mal so groß als der aller Planeten und Trabanten unsres Systems
 zusammengenommen.
@@ -44,7 +47,9 @@ einer sehr zusammengedrückten Ellipse, indem nur der auf der Linie zwischen der
 Erde und der Sonne senkrecht stehende Durchmesser des Aequators sich in seiner
 vollen Breite zeigt, der auf diesem perpendikular stehende aber, selbst wenn er
 am größten ist, noch nicht den sechsten Theil davon beträgt. Die dem
-Sonnenäquator parallel laufenden Kreise zeigen sich als ähnliche Ellipsen, und
+Sonnenäquator parallel laufenden Kreise zeigen
+<@pagebreak/>
+sich als ähnliche Ellipsen, und
 in diesen scheinen sich uns die Flecken von Osten nach Westen zu bewegen. Auch
 die Dauer der Umläufe erscheint uns größer, denn während die Sonne sich um ihre
 Achse dreht, rückt die Erde nach derselben Richtung um etwa 25° fort; der
@@ -69,6 +74,7 @@ gleicher Zeit ändert sich ihre Breite, und am 10. März sind die Ost- und
 Westpunkte in gleicher Entfernung vom Aequator. Die Ellipse hat nämlich jetzt
 ihre größte Weite und die Erde ihren südlichsten Stand unter dem Aequator der
 Sonne erreicht, der sich daher in der nördlichen Hälfte der uns zugekehrten
+<@pagebreak/>
 Sonnenscheibe befindet, so daß seine Krümmung nach Norden gekehrt ist. Man
 könnte diesen Stand mit dem Solstitium der Erde vergleichen. Von jetzt an nimmt
 die Krümmung wieder ab, und am 10. Juni sieht man die Flecken von Neuem als
@@ -92,7 +98,9 @@ Sonnenäquator hat natürlich, wie jeder Kreis, 360 Grade, wovon aber jeder
 1686,4 deutsche Meilen, jede Minute 28,1 und jede Sekunde fast ½ Meile umfaßt.
 
 Auch die Größe der Flecken leidet durch die Achsendrehung einige Veränderungen.
-Den größten Raum scheinen sie im Mittelpunkte der Scheibe einzunehmen; je mehr
+Den größten 
+<@pagebreak/>
+Raum scheinen sie im Mittelpunkte der Scheibe einzunehmen; je mehr
 sie sich dem Rande nähern, desto kleiner werden sie. Ein kreisförmiger Fleck in
 der Mitte wird in der Nahe des westlichen Randes länglich, und eben so tritt er
 wieder nach 14 Tagen am östlichen Rande hervor, wenn seine Gestalt bis dahin
@@ -117,7 +125,9 @@ vorbehalten.
 Eine Achsendrehung verursacht überall eine Erhöhung um den Aequator und eine
 Abplattung an den Polen, wie bei der Erde. Theoretische Gründe setzen sie bei
 der Sonne auf 1/37470, also für die Erfahrung unmerklich. Zwar glaubte man
-gefunden zu haben, daß der Durchmesser der Sonne durch die Pole sich zu denen
+gefunden zu haben, daß der Durchmesser der Sonne durch die 
+<@pagebreak/>
+Pole sich zu denen
 des Aequators wie 408:407 verhalte, also eine Erhöhung an den Polen stattfinde,
 wie bei der durch die Anziehung des Mondes auf den Erdocean hervorgebrachten
 Gestalt (S.209); allein dieses beruht wahrscheinlich nur auf Täuschung.
@@ -141,8 +151,9 @@ wichtige Einwurf unbeantwortet, ob denn durch den so lange dauernden und so
 mächtigen Proceß das chemische Gleichgewicht der Körper, wenigstens an der
 Oberfläche noch nicht hergestellt sei; und wenn durch uns unbekannte Ursachen
 die eben mit Wärme- und Lichtentbindung verbundenen Körper sich wieder
-trennten, so müßten uns ja die früher gespendeten Stoffe wieder entzogen
-werden!
+trennten, so müßten uns 
+<@pagebreak/>
+ja die früher gespendeten Stoffe wieder entzogen werden!
 
 Andre hielten die Sonne für eine, aus den edelsten Metallen bestehende,
 geschmolzene, glühende Masse, und die Flecken für dunkle schlackenartige, auf
@@ -167,7 +178,9 @@ sich um die ganze Sternkunde die größten Verdienste erworben haben, und von
 denen wir mit Stolz sagen können, daß sie Deutsche waren, auch den Zustand der
 Sonne genauer zu ergründen versucht. Die Sonne ist, nach ihrer Ansicht, ein
 dunkler, unebener Körper, mit Bergen durchschnitten, die, obgleich über 100
-Meilen hoch, die unsrigen im Verhältnis an Höhe nicht übertreffen. Ueber ihr
+Meilen hoch, 
+<@pagebreak/>
+die unsrigen im Verhältnis an Höhe nicht übertreffen. Ueber ihr
 erhebt sich eine wol 500 Meilen hohe Atmosphäre, die, wie die unsrige, mit
 verschiedenartigen Wolken gefüllt ist; aber in der höchsten Region sind die
 *Lichtwolken*, die sowohl der Sonne selbst als den andren Körpern des Systems
@@ -193,7 +206,9 @@ Erscheinungen der Sonnenoberfläche.
 entfernt sind, so daß der dunkle Sonnenkörper sichtbar wird. Sie sind anfangs
 klein, vergrößern sich allmälig, auch vereinigen sich wol mehrere kleinere zu
 einer größeren. Sie entstehen wahrscheinlich durch die Strömung eines Gases,
-das sich von dem Sonnenkörper erhebt und die Lichtwolken durchbricht. Eine
+das sich von dem Sonnenkörper erhebt und 
+<@pagebreak/>
+die Lichtwolken durchbricht. Eine
 Atmosphäre behält nämlich so lange ihre Durchsichtigkeit, als sie ihr nicht
 durch fremde Körper geraubt wird; wenn also ein Luftstrom die Wolken vertreibt,
 so genießt der Sonnenbewohner heiteren Himmel, und wir den Anblick der Sonne.
@@ -218,7 +233,9 @@ Wahrscheinlich rühren diese Lichtstreifen zum Theil von der phosphorescirenden
 oder erleuchteten Sonnenoberfläche selbst her. In der Mitte der Sonnenscheibe
 zeigt sich die Unebenheit des Bodens weniger, und läßt sich nur durch
 vorzügliche Fernröhre deutlich erkennen, indeß in der Nähe des Randes, wo die
-Unebenheiten sich dem Auge in einer günstigeren Lage darstellen, sich offenbar
+Unebenheiten sich dem Auge in einer günstigeren Lage 
+<@pagebreak/>
+darstellen, sich offenbar
 Landschaften wie im Monde zeigen. Durch die Wolken der Sonnenatmosphäre werden
 Gestalt und Lage dieser Runzeln oft verändert.
 
@@ -246,7 +263,9 @@ Wind von Westen nach Osten zeigen würde. Die Erdwinde gehen von Osten nach
 Westen (S. 218).
 
 Von der Sonne aus wird man zuerst die in der niedren Atmosphäre befindlichen
-Wolken und die mannigfaltigen Bildungen darin erkennen; in viel höheren
+Wolken und die mannigfaltigen Bildungen darin erkennen; in viel 
+<@pagebreak/>
+höheren
 Regionen die Lichtwolken, die vielleicht in demselben Verhältniß zur Sonne
 stehn wie unsre kleinen *Schäfchenwolken* zur Erde, welche, nach Thienemanns
 Versicherung, bei völlig dunklen Polarnächten oder in der Mitternacht auch bei
@@ -270,7 +289,9 @@ Allein die Stärke der Erwärmung hängt von ganz andren Erscheinungen ab, als v
 der Nähe; der Luftschiffer steigt in immer kältere Regionen, auf den höchsten
 Bergen ist ewiger Schnee und wenn wir auch die größere Nähe der Bergspitzen
 nicht in Betracht ziehen können, so müßten sie ja von dem reineren, durch keine
-dichte Atmosphäre getrübten Sonnenlichte eine größere Wärme erlangen. Hohe
+dichte Atmosphäre getrübten Sonnenlichte eine größere 
+<@pagebreak/>
+Wärme erlangen. Hohe
 Bergebenen, wie Quito, Persien, Tibet u. a., die in wärmern Zonen gelegen, sich
 nur durch eine dünnere Atmosphäre von dem Tieflande unterscheiden, haben ein
 weit kühleres Klima. Kennen wir nun nicht einmal die Ursachen, welche auf der
@@ -293,7 +314,9 @@ Wärme, des Lichts und der Umgebungen auf das Bestehen und Zersetzen der Körper
 wissen, beschränkt sich auf eine Anhäufung fast einzelner Erfahrungen, welche
 nur Unwissenheit verallgemeinern kann. Auf was für Gründen beruhen endlich jene
 fast ausschließlichen Vorrechte, welche die genannten drei oder vier Stoffe zur
-Bildung organischer Körper haben? Ehe Erfahrung oder Theorie nicht sichere
+Bildung organischer Körper haben? Ehe 
+<@pagebreak/>
+Erfahrung oder Theorie nicht sichere
 Gründe für jene Behauptung gewähren, müssen wir glauben, daß sie nur für die
 Erde, und kaum hier gegründet sei, und daß die Lebenskraft, oder wie man jenes
 große Unbekannte sonst nennen mag, auch in Metallen wohnen könne, die ja nur
@@ -319,7 +342,9 @@ Umlauf nur um 2 Tage von dem des Mondes verschieden ist!
 Wir haben noch eine andre merkwürdige Erscheinung zu untersuchen, welche ohne
 Zweifel durch die Atmosphäre der Sonne verursacht wird, nämlich das *Zodiakal-*
 oder *Thierkreislicht*. Kurz vor Sonnenaufgang oder nach Sonnenuntergang zeigt
-sich zuweilen im Thierkreise eine Pyramide von weißlichem Lichte von etwas
+sich zuweilen im Thierkreise eine Pyramide von weißlichem 
+<@pagebreak/>
+Lichte von etwas
 hellerem Schimmer als die Milchstraße, deren Grundfläche der Sonne zugekehrt
 ist. Die leuchtende Atmosphäre der Sonne scheint sich in ungeheure Entfernungen
 zu erstrecken. Zwar kann, nach Laplace, eine mit der Sonne sich wälzende
@@ -343,6 +368,7 @@ oder die Dämmerung noch fortwährt, ist ein so schwaches Licht wie das der
 Sonnenatmosphäre, das wegen seiner Lage im Thierkreise (S. 3) *Zodiakallicht*
 genannt wird, völlig unsichtbar. Es erscheint also nur einige Zeit vor
 Sonnenaufgang oder nach Sonnenuntergang; in jenem Falle ist nur ein Theil der
+<@pagebreak/>
 westlichen, in diesem nur ein Theil der östlichen Pyramide sichtbar. Je kurzer
 die Dämmerung, und je senkrechter die große Achse der Pyramide auf unsrem
 Horizonte steht, oder je mehr sich diese nach dem Zenith erstreckt, desto

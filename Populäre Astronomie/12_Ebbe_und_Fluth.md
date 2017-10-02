@@ -1,3 +1,4 @@
+<@pagebreak 207/>
 Elfte Vorlesung.
 ================
 
@@ -17,8 +18,9 @@ den Mittelpunkt der Erde, und diesen wieder mehr als den Punkt, in dessen Nadir
 er ist; da die Oberfläche der Erde nach unsrer Annahme aus einem beweglichen
 Körper besteht, so werden sich beide Punkte vom Mittelpunkte entfernen. Zwar
 ist im ersten Falle der Unterschied in der Anziehung etwas größer, als im
-zweiten; aber die Entfernung aller Himmelskörper ist so bedeutend, daß diese
-Verschiedenheit völlig unmerklich ist, und man annehmen kann, daß die Hebung
+zweiten; aber die Entfernung aller Himmelskörper ist so bedeutend, daß
+<@pagebreak/>
+diese Verschiedenheit völlig unmerklich ist, und man annehmen kann, daß die Hebung
 der Oberfläche oder das *Anschwellen des Wassers* in beiden Fällen gleich stark
 ist. Indeß ist sie nicht bloß auf diese beiden Punkte beschränkt, sondern
 erstreckt sich auf eine große sie umgebende Strecke. Gar keine Hebung des
@@ -42,8 +44,9 @@ sie es nicht ist.
 Die Himmelskörper sind aber nicht in Ruhe, sondern kommen während etwa 24
 Stunden nach und nach über alle Punkte des Aequators zu stehn, wenn wir der
 Gleichförmigkeit willen annehmen, daß ihre tägliche Bahn im Aequator ist; auch
-entfernt sich die Sonne, auf die wir uns vorläufig beschränken wollen, nicht
-sehr davon. Ihre stärkste Kraft wird sich jeden Augenblick auf den folgenden
+entfernt sich die Sonne, auf die wir uns vorläufig beschränken wollen,
+<@pagebreak/>
+nicht sehr davon. Ihre stärkste Kraft wird sich jeden Augenblick auf den folgenden
 nach Westen gelegenen Punkt äußeren; aber der erste Punkt bleibt immer noch in
 dem Bezirke der Anziehung und das Steigen seiner Flüssigkeit dauert fort, bis
 die Sonne 45° vom Zenith entfernt ist, also noch 3 Stunden nach ihrer
@@ -67,7 +70,9 @@ sphäroidische Wasserhülse, deren größte Achse mit der von der Sonne nach dem
 Erdmittelpunkte gezogenen Linie einen Winkel von 45° macht, sich beständig um
 die Erde drehe, und so allmälig während des Tages, auf jedem Punkte des
 Aequators zweimal die Fluth und zweimal die Ebbe führe. Da die Bewegung von
-Osten nach Westen geht, so wird auch die Ebbe und Fluth dieser Richtung folgen,
+Osten nach Westen geht, so wird auch die Ebbe und Fluth dieser
+<@pagebreak/>
+Richtung folgen,
 und die Wirkung einem Strömen der Oceane von Osten nach Westen ähnlich werden.
 Die Fluth ist indeß nicht so bedeutend, als sie es ohne die Achsendrehung der
 Erde sein würde, weil hierdurch die Wirkung der Himmelskörper zu vorübergehend
@@ -94,7 +99,9 @@ Nadirpunkte der Sonne benachbarten Orte eine etwas stärkere Fluth haben, so ist
 sie doch im Ganzen in den Abweichungen der Himmelskörper geringer als wenn sie
 den Aequator durchschneiden.
 
-Einen andren Unterschied würden die verschiedenen Entfernungen der Sonne
+Einen andren Unterschied würden die
+<@pagebreak/>
+verschiedenen Entfernungen der Sonne
 verursachen; je näher sie ist, desto bedeutender ist der Unterschied ihrer
 Anziehungskraft auf die Oberfläche und den Mittelpunkt, daher ist die Fluth im
 Perihelium starker und im Aphelium schwächer als in den mittleren Entfernungen.
@@ -118,7 +125,9 @@ würde, durch den Mond aber 2¾ Fuß darunter, so wird die Erniedrigung 2¾ - 1�
 mittleren Stande aus, sondern von dem niedrigsten, und nennt *Höhe der Fluth*
 den Unterschied zwischen den Wasserständen in der Ebbe und in der Fluth. Auf
 diese Weise kann man aus dem Stande der Sonne und des Mondes auf die Höhe der
-Fluth schließen, wenn die Stärke der Wirkung der einzelnen Körper bekannt ist.
+Fluth schließen, wenn die Stärke der
+<@pagebreak/>
+Wirkung der einzelnen Körper bekannt ist.
 Am stärksten ist die Fluth, wenn Sonne und Mond nach *einer* Richtung ziehen,
 also in den Syzygien = _A_ + _B_, am kleinsten in den Quadraturen, wo die
 Mondfluth mit der Sonnenebbe und umgekehrt übereinkommt, sie beträgt alsdann,
@@ -142,7 +151,9 @@ In der nördlichen Halbkugel sind die größten Fluthen diejenigen, welche in de
 Syzygien der Sommersonnenwende nach Mittag, und in der Wintersonnenwende nach
 Mitternacht statt finden, also im Sommer des Abends, im Winter des Morgens. Die
 kleinsten aller Fluthen sind in den Ouadraturen der Frühlingsnachtgleiche vor
-Mittag und in der Herbstnachtgleiche vor Mitternacht. Die Ursache ist aus dem
+Mittag und in der
+<@pagebreak/>
+Herbstnachtgleiche vor Mitternacht. Die Ursache ist aus dem
 Vorhergehenden leicht einzusehen.
 
 Wir haben in dieser ganzen Betrachtung angenommen, daß die Erde mit Wasser
@@ -167,6 +178,7 @@ Laplace's Veranlassung Beobachtungen angestellt wurden, im Durchschnitt von
 mehreren Jahren folgende Resultate: die größte Höhe der Fluth über die Ebbe in
 den Syzygien der
 
+<@pagebreak/>
 <table>
 <tr><td>Nachtgleichen                                      </td><td>19'27</td></tr>
 <tr><td>in den Syzygien der Sonnenwenden                   </td><td>16 98</td></tr>
@@ -196,7 +208,9 @@ Fallen als zum Steigen.
 
 Dieses sind die vorzüglichsten Erscheinungen der für den Seefahrer so sehr
 wichtigen Ebbe und Fluth. Wie er auf dem hohen Meere die Gestirne zu Führern
-wählen muß, so hängt seine Fahrt an den Küsten und Häfen nicht minder von der
+wählen muß, so hängt seine Fahrt an den Küsten
+<@pagebreak/>
+und Häfen nicht minder von der
 genauen Kenntniß der Ebbe und Fluth ab, und mancher Kanal bietet dem Schiffer
 während der Fluth eine bequeme Straße dar, die ihm während der Ebbe höchst
 verderblich sein würde.
@@ -222,7 +236,9 @@ nur als Hebung des Wassers zeigen, wie überhaupt das Meer, trotz seiner
 Beweglichkeit, sich nur wenig fortbewegt und bekanntlich ein auf eine Welle
 gelegtes Brett, das *Log*, meistentheils so ruhig liegt, daß man nach der
 Entfernung, in der sich das Schiff nach einer gewissen Zeit, etwa ½ Minute,
-davon befindet, die Geschwindigkeit des Schiffes mißt. Wahrscheinlich wird sie
+davon befindet, die
+<@pagebreak/>
+Geschwindigkeit des Schiffes mißt. Wahrscheinlich wird sie
 durch eine andre sehr allgemeine Strömung von den *Polen nach dem Aequator* hin
 veranlaßt, deren Ursachen zwar nicht ganz bekannt sind, wobei jedoch die
 physikalen Eigenschaften des Meers z. B. sein specifisches Gewicht von Einfluß
@@ -247,6 +263,7 @@ nach Amerika wieder vereinigt, nachdem er einen vollen Kreis beschrieben hat.
 Aehnliche Erscheinungen zeigen sich in andren Theilen der Erde; die genaue
 Entwickelung der Meeresströme liegt indeß außerhalb unseres jetzigen Planes.
 
+<@pagebreak/>
 Es ist ein natürlicher Gedanke, daß dieselben Ursachen, welche auf das Meer so
 heftig einwirken, auch auf die *Atmosphäre* von bedeutendem Einflusse sein
 müssen; aber das Maß des Luftdrucks, das Barometer, zeigt kein bemerkbares
@@ -269,7 +286,9 @@ benachbarter Luftschichten ersetzt u. s. w. Da am Aequator das Steigen fast
 unaufhörlich statt findet, so entsteht dadurch eine Strömung der oberen Luft
 nach den Polen und eine Strömung der niedrigeren nach dem Aequator, die sich in
 der nördlichen Halbkugel als *Nordwind*, in der südlichen als *Südwind* zeigen
-wird<a class="refnote" id="rn1" href="#fn1">\*)</a>. Diese kommen mit einer
+wird<a class="refnote" id="rn1" href="#fn1">\*)</a>. Diese
+<@pagebreak/>
+kommen mit einer
 geringeren Drehungsgeschwindigkeit in niedrigere Breiten, und bleiben daher,
 aus denselben Ursachen, wie das Wasser, nach Westen zurück: aus dem Nordwinde
 entsteht dadurch ein *Nordostwind*, der, je mehr sich die Luft dem Aequator
@@ -293,7 +312,9 @@ Einflusse der Oertlichkeit. Wälder, Sandwüsten, Eisfelder in Alpen und
 Polarmeeren, Jahrs- und Tageszeiten ändern die Stärke und Richtung der Winde,
 und mäßig hohe Berge vermögen schon für ganze Länder ihre Thätigkeit sehr zu
 mindern. Die ungleiche Erwärmung des Wassers und Landes vermehrt die
-Unregelmäßigkeit, so daß man besonders in den gemäßigten Klimaten nur durch
+Unregelmäßigkeit, so daß man besonders in den
+<@pagebreak/>
+gemäßigten Klimaten nur durch
 eine lange Reihe von Beobachtungen die *herrschenden* Winde kennen lernt; sogar
 in den heißen Gegenden, wo überhaupt die gigantische Natur den Nebenumständen
 weniger unterworfen ist und im ganzen Regelmäßigkeit der Winde statt findet,

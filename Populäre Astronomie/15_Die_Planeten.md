@@ -1,3 +1,4 @@
+<@pagebreak 253/>
 Vierzehnte Vorlesung.
 =====================
 
@@ -14,6 +15,7 @@ betrachten übrig.
 Wir wollen, unsrer Gewohnheit gemäß, die Hauptpunkte in Tabellen
 zusammenstellen und dann in Anmerkungen die Größen vergleichen.
 
+<@pagebreak/>
 <table>
 <caption>Tab. 1. Größe der Sonne und der Planeten</caption>
 <tr><td></td><td colspan="2">Durchmesser.         </td><td>Oberfläche.</td><td>Rauminhalt.</td><td>Umfang.</td></tr>
@@ -33,8 +35,9 @@ zusammenstellen und dann in Anmerkungen die Größen vergleichen.
 <tr><td colspan="6">Oberfläche der Erde = 9261900 Quadr. M.; Rauminhalt = 2650 Mill. Kub. M.</td></tr>
 </table>
 
+<@pagebreak/>
 <table>
-<caption>Tab. 2. Große des Sonnendurchmessers, von den Planeten aus gesehn: 1.
+<caption>Tab. 2. Größe des Sonnendurchmessers, von den Planeten aus gesehn: 1.
 in Sekunden; 2. ihr geocentrischer Durchmesser 1; Oberfläche der Sonnenscheibe,
 von den Planeten aus gesehen, die geocentrische = 1; dasselbe ungefähr.
 Verhältniß der Größe des Durchmessers und der Scheibe der Sonne im Perihelium
@@ -54,6 +57,7 @@ u. Aphelium; mittlere heliocentrische Größe der Planetenscheiben.</caption>
 <tr><td>Uranus </td><td> 100,1</td><td>0,0521</td><td>0,0027 = 1/360</td><td>10:11</td><td> 5: 6</td><td> 3, 9</td></tr>
 </table>
 
+<@pagebreak/>
 In der *ersten* Tabelle erregen die vier Mittelplaneten wiederum vorzugsweise
 unsre Aufmerksamkeit; es sind die kleinsten unter den Planeten, und *Vesta*
 ist, wie wir sehen werden, der kleinste uns bekannte Körper im ganzen
@@ -81,7 +85,9 @@ durch eine größere Anzahl von Trabanten, und fast gleiche Excentricität
 ausgezeichnet, stehn auch hier am Anfang der Reihe. Die Oberfläche der Sonne
 ist 90 mal so groß als die des Jupiter, und 60 mal so groß als die aller
 Planeten zusammengenommen; ihr Rauminhalt übertrifft den des Jupiter fast 900
-mal, und den aller Planeten zusammengenommen 600 mal. Von welcher Seite wir
+mal, und den aller Planeten zusammengenommen 600 mal. Von 
+<@pagebreak/>
+welcher Seite wir
 also das Sonnensystem betrachten mögen, die Sonne ist den übrigen Körpern immer
 weit überlegner noch, als diese es ihren Trabanten sind. Uebrigens finden
 zwischen den Beobachtungen der ausgezeichnetsten Astronomen bedeutende
@@ -106,7 +112,9 @@ Verhältniß stehe, welches auch wahrscheinlich statt findet, wenn die
 Beschaffenheit der übrigen Planetenkörper nicht sehr von derjenigen der Erde
 abweicht, so hätten wir zugleich eine Tabelle für die Erwärmung jener Körper.
 Merkur empfinge, als der nächste Planet, fast sieben mal so viel Licht und
-Wärme als die Erde, und das *menschliche* Auge würde dort zu gleicher Zeit
+Wärme als die Erde, 
+<@pagebreak/>
+und das *menschliche* Auge würde dort zu gleicher Zeit
 sieben mal so viel Licht empfangen als hier. Aber thöricht ist es, zu
 behaupten, daß dort das Wasser der Meere sieden, alle organischen Körper
 vertrocknen müssen u. dergl.; denn die eigentliche Stärke des Lichts und der
@@ -135,7 +143,9 @@ src="Ceres.png"/>, <img alt="Pallas" src="Pallas.png"/>, <img alt="Uranus"
 src="Uranus.png"/>, <img alt="Mars" src="Mars.png"/>, <img alt="Merkur"
 src="Merkur.png"/>, <img alt="Erde" src="Erde.png"/>, <img alt="Saturn"
 src="Saturn.png"/>, <img alt="Venus" src="Venus.png"/>, <img alt="Jupiter"
-src="Jupiter.png"/>. Unsre Erde gehört also zu den größten, die vier
+src="Jupiter.png"/>. Unsre Erde gehört also zu 
+<@pagebreak/>
+den größten, die vier
 Mittelplaneten sind die kleinsten, Vesta und Jupiter, die äußersten Glieder der
 Reihe, verhalten sich wie 1:112. Die Zahlen sind zugleich die doppelte
 Parallaxe der Sonne auf den Planeten. Diese ist z. B. für die Erde = 8"55.
@@ -161,7 +171,9 @@ verlängert.
 
 Mittelst der Achsendrehung werden zwei Punkte am Körper durch ihre
 Unbeweglichkeit ausgezeichnet: es sind die Endpunkte der Achse, und sie heißen
-die *Pole*; der auf der Achse senkrechte, größte Kreis ist der *Aequator*. Der
+die *Pole*; der auf der Achse senkrechte, größte Kreis ist der 
+<@pagebreak/>
+*Aequator*. Der
 im Norden der Ekliptik liegende Pol, heißt der *Nordpol*, der im Süden
 liegende, der *Südpol*, und die beiden durch den Aequator begrenzte Halbkugeln
 die *Nord-* und *Süd-Halbkugel*. Diese Eintheilung findet nur dann nicht statt,
@@ -172,6 +184,7 @@ kann man jeden Punkt der Oberfläche durch Länge und Breite eben so genau
 bestimmen, wie auf der Erde. Folgende Tabelle enthält die auf die Achsendrehung
 sich beziehenden Größen.
 
+<@pagebreak/>
 <table>
 <caption>Tab. 3. Neigung des Aequators zur Planetenbahn, Umlaufszeit um die
 Achse, Umlaufszeit um die Sonne in Planetentagen und Geschwindigkeit der
@@ -191,6 +204,7 @@ Achsendrehung.</caption>
 <tr><td>Uranus </td><td> 90° ?     </td><td>     9 ?        </td><td>80000 ? </td><td> 45 ? </td><td> 84  -- </td></tr>
 </table>
 
+<@pagebreak/>
 Die ersten beiden Rubriken enthalten Resultate von Beobachtungen. Man zählt die
 Umläufe, die in einer gewissen längern Zeit statt finden, berücksichtigt die
 wohlbekannten Bewegungen der Erde und des Planeten, und berechnet daraus die
@@ -219,7 +233,9 @@ kleinen Planeten unter einander und zu den beiden Gruppen verhalten. Die
 Perioden scheinen, wie auf der Erde, völlig unveränderlich zu sein. Da die
 Größe und Rotation der Himmelskörper, wie wir gesehn haben, von einander
 unabhängig zu sein scheinen, so ist die außerordentlich große Umlaufszeit der
-*Sonne* auffallend, und erregt die Vermuthung, daß sie [???] Ursachen als bei
+*Sonne* auffallend, 
+<@pagebreak/>
+und erregt die Vermuthung, daß sie [???] Ursachen als bei
 den Planeten veranlaßt [???] regellos scheint die Neigung des Aequators zur
 [???] zu sein; zwar ist sie bis jetzt nur bei fünf Planeten mit
 Wahrscheinlichkeit festgesetzt, bei <img alt="Venus" src="Venus.png"/>, <img
@@ -244,7 +260,9 @@ Hitze mildert. Zwischen dem Aequator und den Polen ist nun ein allmäliger
 Uebergang von der Hitze zur strengsten Kälte; dennoch wird nur ein kleiner
 Theil der Polarländer im Winter völlig ohne Sonne sein. Dieser Winter dauert
 aber sechs Jahre; Tag und Nacht sind überall fast einander gleich. Wie die
-Erscheinungen der Wärme und Kälte sich durch die [???] gestalten, wie der
+Erscheinungen der Wärme und Kälte sich durch die 
+<@pagebreak/>
+[???] gestalten, wie der
 rasche Umschwung in [???] fünfstündigen Nacht durch Abkühlung [???] welchen
 Einfluß die Oertlichkeiten üben, werden wir nie ganz erfahren; aber wir können
 annehmen, daß die Erscheinungen der Atmosphäre nicht nur am Äequator, sondern
@@ -269,6 +287,7 @@ als im Aphelium, welches allein schon hinreicht den klimatischen Erscheinungen
 ein Gepräge zu geben, das von einem bloß durch die Schiefe der Bahn veranlaßten
 sehr bedeutend abweicht und viel minder regelmäßig ist.
 
+<@pagebreak/>
 Dieser letzte Umstand findet nun zwar bei der Venus nicht statt; der
 Unterschied in den Entfernungen ist der unbedeutendste im ganzen Sonnensystem,
 aber die wahrscheinlich sehr starke Neigung der täglichen und der jährlichen
@@ -293,7 +312,9 @@ weder Wende- nach Polarkreise, und dem Aequator wie den Polen wird Kälte und
 Wärme nicht unbekannt sein. Indeß wird die lange Dauer des Jahres den einzelnen
 Erscheinungen längere Zeit zur Entwicklung verstatten, und wenn auch im Ganzen
 auf dem Uranus, wegen seiner Achsendrehung, die größte Mannigfaltigkeit in der
-Witterung herrschen wird — auch die Excentricität seiner jährlichen Bahn ist
+Witterung herrschen 
+<@pagebreak/>
+wird — auch die Excentricität seiner jährlichen Bahn ist
 nicht ganz unbedeutend, sie bewirkt einen Unterschied in der Lichtmenge wie 4:5
 — so werden doch die Aenderungen langsamer eintreten.
 
@@ -322,7 +343,9 @@ alt="Uranus" src="Uranus.png"/>, <img alt="Erde" src="Erde.png"/>, <img
 alt="Venus" src="Venus.png"/>, <img alt="Mars" src="Mars.png"/>, <img
 alt="Merkur" src="Merkur.png"/>. Sie sind gefunden indem die Umkreise der
 Planeten (S. 254) durch die Dauer der Tage dividirt wurden. Je kleiner der
-Planet und je länger der Tag ist, desto langsamer bewegt sich die Oberfläche.
+Planet und je 
+<@pagebreak/>
+länger der Tag ist, desto langsamer bewegt sich die Oberfläche.
 Der Uebersicht willen ist noch die ungefähre Dauer des Jahres in Erdentagen und
 Jahren hinzugefügt.
 
@@ -330,6 +353,7 @@ Vielleicht wünschen einige meiner Zuhörer zu wissen, wie sich die Sichtbarkeit
 der Erde und der andren unteren Planeten auf den oberen verhalte. Folgende
 Tabelle enthält die Angaben dazu.
 
+<@pagebreak/>
 <table>
 <caption>Tab. 4. Mittlerer Werth der größten Elongationen (S. 167) der unteren
 Planeten von der Sonne, von den oberen Planeten aus beobachtet.</caption>
@@ -343,6 +367,7 @@ Planeten von der Sonne, von den oberen Planeten aus beobachtet.</caption>
 <tr><td><img alt="Uranus" src="Uranus.png"/>  </td><td> 1 19,3</td><td> 2  9,7</td><td> 2 59,3</td><td> 4 33,3</td><td> 8 18  </td><td>15 44  </td><td>   "   </td></tr>
 </table>
 
+<@pagebreak/>
 Die Zahlen bezeichnen die größten Bogen der Himmelskugel, um welche ein Planet
 in seinem mittleren Abstande von der Sonne von ihr entfernt scheint, wenn er
 auf einem entferntern Planeten, der sich ebenfalls in seinem mittleren Abstande
@@ -367,7 +392,9 @@ ist uns unbekannt.
 Die scheinbare Entfernung der Trabanten vom Hauptplaneten ist höchst
 unbedeutend. Von der Sonne aus gesehn entfernen sich der Mond etwa 8½ Min., die
 Jupiterstrabanten 2 bis 8 Min., die Saturnstrabanten ½ bis 9 Min. und die
-Uranustrabanten nur ½ bis 3 Min. von ihrem Hauptplaneten, von dessen stärkerem
+Uranustrabanten nur ½ bis 3 Min. von ihrem Hauptplaneten, von 
+<@pagebreak/>
+dessen stärkerem
 Lichte verdunkelt, sie dem unbewaffneten Auge unsichtbar sind.
 
 Topographie der Planeten.
@@ -394,8 +421,9 @@ plötzlich in den mittleren nördlichen und südlichen Breiten große Wolkenzüg
 die sich 20 - 60 Fuß in der Sekunde von Westen nach Osten fortbewegten und nach
 ½ Merkursjahre wieder verschwanden. Man vermuthet, daß ihre Ursachen denen
 unseres Höhenrauchs ähnlich sind; Schade nur daß wir auch diese nicht genauer
-kennen. In diesem ewig heitern Himmel sind jedoch Winde nicht unmöglich, sie
-sind sogar wegen der hohen Gebirge wahrscheinlich, und jene Wolkenzüge konnten
+kennen. In diesem ewig heitern Himmel sind jedoch Winde nicht unmöglich, 
+<@pagebreak/>
+sie sind sogar wegen der hohen Gebirge wahrscheinlich, und jene Wolkenzüge konnten
 auch nur durch Winde hervorgebracht werden; aber Körper, die, wie unser Wasser,
 als Gas in die Höhe steigen und sich daselbst bei einer Temperaturverminderung
 als Kügelchen oder Bläschen in Wolken sammeln, scheinen zu fehlen. Indeß können
@@ -420,7 +448,9 @@ die sich in Ebenen befinden, welche mit Wasser, oder andren das Licht wenig
 zerstreuenden Stoffen bedeckt sind. Wir werden dieses beim Monde ausführlicher
 darstellen. Weiße, obgleich an Gestalt veränderliche Flecken, die Gruithuisen
 an den Polen der Venus bemerkt hat, rühren wahrscheinlich von Wirkungen der
-Kälte auf die Venus-Oberfläche her. Es darf dieses bei der Nähe der Venus zur
+Kälte auf die Venus-Oberfläche her. Es darf dieses bei der 
+<@pagebreak/>
+Nähe der Venus zur
 Sonne nicht befremden; denn auch der Marsbewohner möchte für unwahrscheinlich
 halten, daß die der Sonne viel nähere Erde so große Eismassen an den Polen
 haben könne, und dennoch findet dieses sogar in höherem Grade statt als bei
@@ -445,7 +475,9 @@ fehlt es doch gewiß nicht an Stürmen, die sie treiben könnten. Eine Wirkung d
 Atmosphäre ist die starke Dämmerung; sie zeigt sich uns als ein Streif
 aschfarbenen, bläulichen Lichts, das sich zwischen der Tages- und Nachtseite
 der Venusscheibe erstreckt. Aber auch andre, tiefer in der Nachtseite liegende
-Regionen haben zuweilen einen schwachen Schein, der vielleicht von einer
+Regionen haben zuweilen einen schwachen 
+<@pagebreak/>
+Schein, der vielleicht von einer
 Phosphorescenz der Venus oder einem nordlicht-ähnlichen Phänomen herrührt. Eine
 Photosphäre wie diejenige der Sonne, die man auf der Venus bemerkt zu haben
 glaubte, beruht wol nur auf Täuschung.
@@ -471,7 +503,9 @@ vorzüglich zur Beobachtung dieser Gegenstände geeignet sind. Indeß sind zwei
 glänzend weiße Flecken an bei Polen merklich; sie sind in den Nachtgleichen des
 Mars fast einander gleich, werden aber größer, wenn die Sonne sich ihrem
 höchsten Stande oder der Sommersonnenwende und kleiner, wenn sie sich der
-Wintersonnenwende nähert. Auch ist ihre Größe in verschiedenen Jahren ungleich.
+Wintersonnenwende 
+<@pagebreak/>
+nähert. Auch ist ihre Größe in verschiedenen Jahren ungleich.
 Sie reichen etwa bis zum 70sten Grad der Breite.
 
 Ein jeder meiner Zuhörer wird sich der Aehnlichkeit dieser Erscheinung mit dem
@@ -497,7 +531,9 @@ Organisation nicht sehr von denen der Erde abweicht.
 
 Wie in allen übrigen Punkten ist die Gruppe der *Mittelplaneten* auch in den
 Eigenschaften ihrer Oberfläche und ihrer Atmosphäre von den übrigen
-verschieden. Zwar hat es ihre geringe Größe bis jetzt nicht erlaubt, ihre
+verschieden. Zwar hat es ihre geringe Größe bis jetzt 
+<@pagebreak/>
+nicht erlaubt, ihre
 Rotation, ihre von der Kreisform abweichende Gestalt, oder ihre Flecken zu
 erkennen; aber ohne Zweifel werden sie auch hierin ihr Eigentümliches haben.
 
@@ -524,7 +560,9 @@ Oberfläche der Planeten am stärksten und verliert sich allmälig.
 In einem raschen Sprunge wenden wir uns von dem kleinsten zu dem größten aller
 Planeten, der, obgleich 1000 mal kleiner als die Sonne, dennoch alle übrigen
 Planeten zusammengenommen an Größe übertrifft. *Jupiter* kommt zwar der Venus
-an Glanze nicht gleich, sondern ist gelblich, ist aber nach ihr der glänzendste
+an Glanze nicht gleich, sondern ist gelblich, ist aber nach ihr 
+<@pagebreak/>
+der glänzendste
 Stern am Himmel, dessen Scheibe zuweilen von einem unbewaffneten, aber scharfem
 Auge zu erkennen ist. Seine rasche Achsendrehung verursacht eine starke
 Abplattung. Nach Laplace's Berechnung verhält sich der Durchmesser der Pole zu
@@ -550,7 +588,9 @@ braucht nicht anzunehmen, daß es ein Ring sei, der den Jupiter, ähnlich dem de
 Saturn, umgebe, und nur aus minder festen Stoffen bestehe.
 
 Zwischen den dunklen Streifen sieht man helle Striche, die man leicht für eine
-unter dem Wolkenring hervorblickende, leuchtende, sonnenähnliche Atmosphäre
+unter dem Wolkenring 
+<@pagebreak/>
+hervorblickende, leuchtende, sonnenähnliche Atmosphäre
 halten könnte, wenn nicht der Schatten der Trabanten als ein völlig schwarzer
 Fleck über den Jupiter ginge. Es ist daher wahrscheinlich die
 Planetenoberfläche selbst.
@@ -576,7 +616,9 @@ ungleich stärker sein als bei unsrer Erde, und wegen der Anzahl und
 verschiedenen Umlaufszeiten der Trabanten noch weniger gleichförmig. Sie ist am
 größten wenn die 4 Trabanten und die Sonne mit dem Planeten auf einer graden
 Linie stehen, es sei in Konjunktion oder Opposition, und kann in andren Lagen
-fast ganz verschwinden. Die Excentricität und die Ungleichheiten der Trabanten-
+fast ganz verschwinden. Die Excentricität 
+<@pagebreak/>
+und die Ungleichheiten der Trabanten-
 und Jupitersbahnen erhöhen das Ungleichförmige dieser Erscheinungen noch mehr.
 Daß furchtbare Orkane die Atmosphäre durchtoben müssen, sieht man aus der
 schnellen Bewegung der Wolken, die nach Schröter 17 bis 348 Fuß, ja 7350 und
@@ -602,7 +644,9 @@ letztern, obgleich an Zahl und Farbe veränderlich, im Ganzen sich durch noch
 größere Beharrlichkeit auszeichnen, als dort. Aus der Stralenbrechung, die man
 bemerkt, wenn die Saturnstrabanten dem Erdbewohner durch den Planeten verdeckt
 werden, erkennt man die sehr dichte Atmosphäre des Saturn. Seine Pole zeichnen
-sich im Winter durch glänzende Weiße aus, welches an ähnliche Erscheinungen auf
+sich im Winter durch 
+<@pagebreak/>
+glänzende Weiße aus, welches an ähnliche Erscheinungen auf
 Mars, Venus und der Erde erinnert.
 
 Die durch Anziehung der Ringe und Trabanten auf dem Saturn hervorgebrachten

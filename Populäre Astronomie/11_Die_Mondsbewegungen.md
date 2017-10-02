@@ -1,3 +1,4 @@
+<@pagebreak 187/>
 Zehnte Vorlesung.
 ================
 
@@ -20,7 +21,9 @@ In Fig. 14 sei _S_ die Sonne, _E_ die Erde, der um sie beschriebene Kreis die
 Bahn des Mondes, so ist dieser in _A_, wo seine Bahn durch eine von der Sonne
 nach der Erde gezogene Linie geschnitten wird, in seiner Konjunktion mit der
 Sonne; kein Theil der uns zugekehrten Scheibe ist erleuchtet, es ist *Neumond*.
-Nach ein paar Tagen zeigt er sich vor Sonnenuntergang als ein schwacher
+Nach ein paar Tagen zeigt er sich vor
+<@pagebreak/>
+Sonnenuntergang als ein schwacher
 Silberbogen, die Hörner aufwärts gerichtet, und die erhabene Seite der
 untergegangenen Sonne zugekehrt, während der übrige Theil der Scheibe ganz
 dunkel ist, oder doch nur mit einem *matten* Lichte scheint, dessen Ursprung
@@ -45,6 +48,7 @@ fünf Tagen uns als schwacher Streifen wieder erscheint und von den meisten
 Völkern des Alterthums — und von den Juden noch jetzt — als lange entbehrter
 Freund durch Feste begrüßt wurde.
 
+<@pagebreak/>
 Seine *Lichterscheinungen* oder *Phasen* sind so ausgezeichnet, daß sie schon
 in den frühesten Zeiten beobachtet sind. Man machte sehr bald die Erfahrung,
 selbst ohne ihren Grund einzusehn, daß der Mond seine Hörner immer von der
@@ -69,6 +73,7 @@ und den Quadraturen heißen die *Oktanten*.
 Die Zeit nach welcher der Mond wieder in dieselbe Lage zu den Gestirnen kommt,
 oder der *siderische Monat*, ist 27 T. 7 St. 43' 11" 56; er legt daher täglich
 13° 10' 35", oder in einer Zeitsekunde etwa ½ Raumsekunde zurück. Wegen der
+<@pagebreak/>
 Vorrückung der Nachtgleichen ist die Zeit bis er wieder dieselbe Länge in der
 Ekliptik erreicht etwas kleiner, nämlich 27 T. 7 St. 43' 4"72. Indeß ist er der
 Erde auf ihrer jährlichen Bahn um die Sonne gefolgt und muß nun noch eine
@@ -93,7 +98,9 @@ zu entwickeln suchen.
 Die Körper ziehn einander in dem Verhältnisse ihrer Masse und verkehrt wie das
 Quadrat ihrer Entfernungen an. Der größere wird daher eben sowohl von dem
 kleineren angezogen, als dieser von jenem, aber die Veränderungen, welche er
-dadurch erleidet, sind weit unbedeutender als die des kleinern, so daß man in
+dadurch erleidet, sind weit unbedeutender als die des kleinern, so daß
+<@pagebreak/>
+man in
 den Wirkungen der Sonne auf die Planeten und dieser auf die Trabanten die
 Rückwirkungen auf die Sonne gar nicht, und die der Trabanten auf die Planeten
 nur wenig berücksichtigen darf. Die Entfernung der Sonne von der Erde ist so
@@ -119,7 +126,9 @@ abweicht, bleibt jedoch die mittlere Länge. Diese Ungleichheit, die man
 *Variation* nennt, ist eine Entdeckung Tycho's, der zuerst den Mond in allen
 Theilen seiner Bahn beobachtete.
 
-Noch beträchtlicher ist die *Evektion*, welche durch die veränderliche Lage der
+Noch beträchtlicher ist die *Evektion*, welche
+<@pagebreak/>
+durch die veränderliche Lage der
 Apsidenlinie der Mondsbahn zu den Syzygien veranlaßt wird. In der Erdnähe
 bewegt sich der Mond rascher, in der Erdferne langsamer, der Unterschied bringt
 die Mittelpunktsgleichung hervor; in den Syzygien, wo sich die drei Körper auf
@@ -145,6 +154,7 @@ ist die Länge um 11' 16' größer.
 Diese vier Ungleichheiten: die *Mittelpunktsgleichung* durch die Excentricität
 der Bahn, die *Variation* durch die verschiedene Anziehung der Sonne in den
 Syzygien und Quadraturen, die *Evektion* durch die Lage der Apsidenlinie des
+<@pagebreak/>
 Mondes zur Sonne und Erde, und die *jährliche Gleichung* durch die verschiedene
 Entfernung der Erde von der Sonne veranlaßt, nennt man die vier *großen
 Gleichungen* des Mondes, wodurch die Länge desselben geändert wird; aber die
@@ -170,7 +180,9 @@ Entfernung des Mondes von der Erde, sie wird daher auch eine Bewegung der
 Bewegung richtet. Die Erdnähe und Erdferne folgen der Sonne so, daß sie in 3232
 T. 13 St. 56' 16"8, oder täglich 6' 40"9 rechtgängig einen Kreislauf um die
 Ekliptik vollenden. Ihre Bewegung ist zweimal so schnell als die der Knoten;
-sie entfernen sich täglich 9' 51" 7 von einander, und die ganze Periode bis sie
+sie entfernen sich täglich 9' 51" 7 von
+<@pagebreak/>
+einander, und die ganze Periode bis sie
 wieder zusammentreffen ist 1931 T. 17 St. 45' (vergl. S.155). Auch diese
 Bewegung ist sehr schwankend.
 
@@ -198,6 +210,7 @@ Zunahme zu verwandeln, so daß auch hier nur eine Oscillation statt findet.
 Der Zeitraum zwischen einem Neumonde und dem folgenden dient seit den ältesten
 Zeiten zur Eintheilung der Zeit. Da er indeß aus 29½ Tagen besteht; so hat man
 dem *bürgerlichen Monat* abwechselnd 29 und 30 Tage gegeben. Nach 33 Monaten
+<@pagebreak/>
 muß dann einer von den 29tägigen Monaten 30 Tage haben. Der vierte Theil des
 Monats, oder die Dauer eines Mondviertels ist etwa 7 Tage, daraus entsprang die
 Eintheilung in *Wochen*. Das Mondjahr oder 12 bürgerliche Monate von 354 Tagen,
@@ -222,6 +235,7 @@ Knoten des Mondes *Drachenkopf* und den absteigenden *Drachenschwanz* zu nennen
 pflegte<a class="refnote" id="rn1" href="#fn1">*)</a>. Seine Dauer ist 27 T. 5
 St. 5' 49".
 
+<@pagebreak/>
 Der Zeitraum zwischen zwei auf einander folgenden Erdnähen oder Erdfernen
 (*Anomalie*) oder der *anomalistische Monat* ist 27T. 13 St. 18' 35". Ihr
 Unterschied entspringt aus der Bewegung der Apsiden. Sie sind wegen ihrer
@@ -244,7 +258,9 @@ Da die Bahn des Mondes zum Aequator geneigt ist, so wird seine Geschwindigkeit
 in gerader Aufsteigung sehr ungleichförmig sein, am größten bei seiner größten
 Abweichung, am kleinsten, wenn er den Aequator schneidet. Seine mittlere
 tägliche Bewegung ist 13° 10' 35", die der Sonne nach derselben Richtung etwa
-1°, der Mond entfernt sich also von der Sonne täglich um 12° 10' nach Osten,
+1°, der Mond entfernt sich also
+<@pagebreak/>
+von der Sonne täglich um 12° 10' nach Osten,
 oder nähert sich ihr eben so viel nach Westen. Dieses bewirkt einen Unterschied
 von etwa 50 Zeitminuten, um welche der Mond jeden Tag im Durchschnitte später
 aufgeht als den vorhergehenden. Der Vollmond, der um Mitternacht kulminirt und
@@ -270,6 +286,7 @@ seine Breite nördlich ist, und so seinen ganzen Kreislauf einige Tage hindurch
 vor den Augen der Polarbewohner vollenden, wenn nicht Nebel und Schneegestöber
 die Luft verfinstern.
 
+<@pagebreak/>
 Von keinem Körper war die Entfernung so früh und so genau bekannt wie vom
 Monde; schon die Griechen hatten sie berechnet. Sie ist auch bei weitem die
 kleinste unter allen Himmelskörpern, denn die Aequatorealparallaxe ist zwischen
@@ -296,7 +313,9 @@ indem es ihr gelungen ist, selbst dem großen Haufen die Ursachen des wunderbar
 scheinenden Phänomens deutlich zu machen, nehmen die Finsternisse einen
 ausgezeichneten Rang ein. Während man in früheren Zeiten und auch noch jetzt in
 weniger gebildeten Ländern ängstlich auf den Himmel achtet, und durch
-abergläubische Gebräuche das befürchtete Unglück abzuwenden sucht, ist bei uns
+abergläubische Gebräuche das befürchtete Unglück abzuwenden sucht, ist
+<@pagebreak/>
+bei uns
 kaum *ein* Mensch so roh, daß er die Ursache der Finsternisse nicht wüßte und
 sie mit mehr als bloßer Neu- oder Wißbegierde betrachtete.
 
@@ -323,7 +342,9 @@ Den Raum, welcher nur einen Theil des Lichts empfängt, nennt man den
 Punkt ist, und erstreckt sich stets in's Unendliche; er umgibt den *Schatten*
 d. h. den Ort, wohin gar kein Licht von jenem leuchtenden Körper kommt.
 
-Bei den Finsternissen, zu denen wir uns jetzt wenden wollen, ist die Erde oder
+Bei den Finsternissen, zu denen wir uns jetzt
+<@pagebreak/>
+wenden wollen, ist die Erde oder
 der Mond der dunkle und die Sonne der leuchtende Körper, und da jene von dieser
 an Größe weit übertroffen werden, so wird sich der Schattenkegel mehr oder
 weniger weit hinter ihnen in einer Spitze endigen. Der für die Finsternisse
@@ -348,7 +369,9 @@ bezeichnen, in denen das Ende und die Mitte der Finsterniß sichtbar sind. Diese
 Erscheinungen treten zwar für die ganze Erde in demselben Augenblicke ein, aber
 da der Stand der Sonne in verschiedenen Meridianen verschieden ist, so ist es
 auch die Zeit, und man muß die für einen gewissen Ort angegebene Zeit in die
-Zeit des Beobachtungsorts verwandeln. In Paris z. B. ist den 2ten September
+Zeit des Beobachtungsorts
+<@pagebreak/>
+verwandeln. In Paris z. B. ist den 2ten September
 1830 um 11 Uhr Abends eine totale Mondfinsterniß; in Berlin, das etwa 11°
 östlich ist, ist es alsdann 44 Min. später (S. 95); die Finsterniß ist also
 dort etwa ¼ Stunde vor Mitternacht.
@@ -370,7 +393,9 @@ die partialen sind häufiger, indem sie sich schon zeigen wenn auch der
 Mittelpunkt des Mondes noch etwa 64' (= Parall. des Mondes + ½ Durchmesser des
 Mondes + ½ Parall. der Sonne - ½ Durchm. der Sonne <a class="refnote" id="rn2"
 href="#fn2">*)</a>) von der Ekliptik entfernt ist. Der Mond ist dann wol noch
-13½° von dem einen Durchschnitte seiner Bahn mit der Ekliptik entfernt,
+13½° von dem einen Durchschnitte seiner Bahn mit der
+<@pagebreak/>
+Ekliptik entfernt,
 obgleich die Finsterniß in weniger günstigen Fällen nur innerhalb vom Knoten
 statt finden kann. Die längste Dauer derselben ist 4 Stunden 38 Minuten, einer
 totalen nur 2 Stunden 18 Minuten.
@@ -394,7 +419,9 @@ Erscheinung, jedoch in viel kleinerem Maßstabe, sind die Durchgänge der untere
 Planeten vor der Sonnenscheibe (S. 171). *Partial* ist die Sonnenfinsterniß an
 den Stellen, die gewissermaßen im Halbschatten sind, indem die Sonne nur zum
 Theil verfinstert ist. Da wo die Mittelpunkte fast in einer geraden Linie
-liegen, ist sie *central*. Die partialen Finsternisse erstrecken sich wol über
+liegen, ist sie *central*. Die partialen Finsternisse erstrecken
+<@pagebreak/>
+sich wol über
 einen Kreis der Erdoberfläche, der einen Durchmesser von 70° hat. Die Größe des
 verfinsterten Theils bestimmt man hier, wie bei den Phasen des Mondes und der
 Planeten, durch die Anzahl der *Zolle* d. h. Zwölftel der Sonnen- oder
@@ -420,6 +447,7 @@ den Mond und die verfinsterte Sonne im Abendhorizonte hat. Der Mond tritt
 darauf wieder in sein früheres Dunkel zurück, bis er uns nach ein paar Tagen
 seinen Lichtbogen wieder zuwendet.
 
+<@pagebreak/>
 Wenn der Mond sich nie von der Ekliptik entfernte, so hätte jeder Neumond seine
 Sonnenfinsterniß. Jetzt finden sie zwar nur in der Nähe der Knoten statt,
 jedoch ereignen sie sich unter günstigen Umständen, selbst wenn der Mond noch
@@ -443,7 +471,9 @@ Die Finsternisse hängen vorzüglich von der Lage der Knoten ab, und die
 Perioden, die sich auf diese beziehen gelten auch für jene, oder sind vielmehr
 durch sie entstanden. Eine solche Periode ist die oben (S. 196) erwähnte
 *chaldäische* von 18 Jahren und 11 Tagen oder 223 synodischen Monaten, nach
-welcher der Mond beinahe wieder in dieselbe Lage zur Sonne und Erde und zur
+welcher der Mond beinahe wieder in dieselbe Lage zur
+<@pagebreak/>
+Sonne und Erde und zur
 Knotenlinie kommt. Sie ist jedoch nicht völlig genau; die Perioden Hipparchs
 (S. 196) kommen der Wahrheit näher. Die Finsternisse wiederholen sich in einem
 solchen Zeitraume in derselben Reihefolge, und wenn diese einmal durch
@@ -467,7 +497,9 @@ durch Gebet die zürnende Gottheit zu besänftigen, theils den Drachen, der die
 Sonne oder den Mond zu besiegen droht, durch furchtbaren Lärm zu verscheuchen;
 oder ein Thales stiftet Frieden zwischen zwei Völkern, die eben im Kampfe
 begriffen, vom Schrecken überwältigt, ihre Schwerter zurückhalten, oder ein
-Kolumbus rettet sich durch geschickte Benutzung seiner Kenntnisse aus den
+Kolumbus rettet sich durch geschickte
+<@pagebreak/>
+Benutzung seiner Kenntnisse aus den
 Händen der erbitterten Indier. Aber der erste Stral der befreieten Sonne belebt
 wieder die Natur, der Abergläubische freut sich, der drohenden Gefahr entgangen
 zu sein, und der Astronom, die Bahn des Mondes und die Länge seines Ortes
