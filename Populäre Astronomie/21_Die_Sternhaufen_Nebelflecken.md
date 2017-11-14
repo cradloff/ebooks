@@ -1,3 +1,5 @@
+<@pagebreak 443/>
+
 Zwanzigste Vorlesung.
 =====================
 
@@ -19,7 +21,9 @@ werden wir an diesen *Nebelflecken* erfahren.
 
 Diese können von zwei sehr verschiedenen Ursachen herrühren. Sie sind entweder
 wirklich große Körper, die uns ihr eigenes, oder erborgtes, schwaches Licht
-zusenden; oder sie rühren von dem vereinigten Scheine einer großen Anzahl
+zusenden; oder sie rühren von dem vereinigten 
+<@pagebreak/>
+Scheine einer großen Anzahl
 kleiner Fixsterne her. Wir wollen diese letztre Abtheilung, welche wir
 *Sternnebel* nennen wollen, zuerst betrachten.
 
@@ -44,7 +48,9 @@ verstehn, welche wirklich gar nicht, oder nur durch sehr scharfe Fernröhre
 aufgelöst werden können, und solcher hat *Herschel*, dessen Name bei allen
 Entdeckungen der neuern Astronomen zuerst genannt werden muß, fast 3000
 aufgefunden, aber wahrscheinlich eine noch viel größere Anzahl seinen mit
-besseren Fernröhren versehenen Nachfolgern überlassen. Indeß sind in dieser
+besseren Fernröhren versehenen 
+<@pagebreak/>
+Nachfolgern überlassen. Indeß sind in dieser
 Anzahl auch die eigentlichen, durch einen weitverbreiteten Stoff
 hervorgebrachten Nebelflecken begriffen.
 
@@ -70,7 +76,9 @@ Himmels, in der Nähe des Haars der Berenice unter 186° gerader Aufsteigung und
 32° Abweichung, und den Südpol an der entgegengesetzten Seite des Himmels, in
 der Bildhauerwerkstatt hat. Seine Breite ist sehr verschieden, zuweilen bis auf
 2° eingeengt, beträgt sie an andren Stellen, z. B. dem Einhorn 17°. Sie ist
-matt beim Perseus, am schmalsten und glänzendsten im Schiff und Centauren in
+matt beim Perseus, am schmalsten und glänzendsten im Schiff 
+<@pagebreak/>
+und Centauren in
 der südlichen Halbkugel; in der nördlichen ist sie im Cepheus am hellsten,
 obgleich in geringerem Grade. Hier theilt sie sich in zwei Arme, die sich zwar
 bald wieder vereinigen, und gewissermaßen eine Insel einschließen, sich aber
@@ -91,7 +99,9 @@ Naturforscher die Anzahl der Eier eines Fisches. Er zählte nämlich die Sterne,
 welche das Feld seines Teleskops enthielt, und berechnete dann wie viele
 solcher Felder in dem ganzen, von der Milchstraße bedeckten Raume, enthalten
 seien. Da aber die Straße nicht überall von gleichem Glanze ist, so wiederholte
-er jene Beobachtung in verschiedenen Theilen derselben und fand, daß die Summe aller
+er jene 
+<@pagebreak/>
+Beobachtung in verschiedenen Theilen derselben und fand, daß die Summe aller
 Sterne darin etwa 20 Millionen betrage. Wie unbedeutend ist dagegen die ganze
 Anzahl der dem bloßen Auge sichtbaren Sterne, und doch kommt vielleicht jeder
 der kleinen Lichtpünktchen der Sonne an Glanz gleich, und wird, wie sie, von
@@ -115,6 +125,7 @@ als beim Adler zu sein scheinen. Der Durchmesser des ganzen Rings beträgt also
 etwa 800 Sternweiten. Dieser ungeheuere Raum ist nun ganz mit Sternen besäet,
 wovon wir die uns nahen, d. h. diejenigen, welche nur 6 — 7 Sternweiten (24 —
 28 Billionen Meilen) von uns entfernt sind, mit bloßen Augen sehen. Von jenen,
+<@pagebreak/>
 mehrere hundert Sternweiten entfernten Körpern würde der Glanz der Sonne und
 der Sterne erster Größe denjenigen, welchen die Sterne der Milchstraße für uns
 haben, nicht übertreffen, und alle mit unbewaffnetem Auge sichtbaren Sterne, ja
@@ -139,7 +150,9 @@ Kerne besteht, sondern aus ziemlich gleichförmig verbreiteten Sternen, deren
 ungeheure Zwischenräume vielleicht nicht minder zahlreich mit Trabanten und
 Kometen bevölkert sind, wie unser Sonnengebiet. Der Durchmesser dieses
 Sphäroids beträgt etwa 800 Sternweiten, und die Sonne ist ungefähr 100
-Sternweiten — mit solchen Ellen werden diese Körper gemessen — vom Mittelpunkte
+Sternweiten — mit solchen Ellen werden 
+<@pagebreak/>
+diese Körper gemessen — vom Mittelpunkte
 entfernt. Die Sterne stehn in dieser Richtung nicht dicht genug beisammen, um
 eine starke Erleuchtung zu verursachen, und der sehr schwache Schimmer, den sie
 hervorbringen mögen, da er sich überall findet, kein besondres Merkmal gewährt.
@@ -164,7 +177,9 @@ sondern besteht aus einer großen Anzahl aneinander gereiheter Sternhaufen, die
 sich in der Nähe des Aequators der Milchstraße, so nahe an einander befinden,
 daß sie uns den Anblick *eines* großen Nebelflecks gewähren, und vielleicht auch
 durch irgend ein Band mit einander verknüpft sind. Wie die einzelnen Sterne
-einer Sterngruppe bestehn können, ohne durch die Wirkung der Massen-Anziehung in
+einer Sterngruppe 
+<@pagebreak/>
+bestehn können, ohne durch die Wirkung der Massen-Anziehung in
 einander zu stürzen, haben wir oben gesehn; bald bewegen sie sich um einen
 großen leuchtenden oder dunklen Centralkörper, bald um einen leeren Punkt im
 Raume, der aber ihr gemeinschaftlicher Schwerpunkt ist. Auf eine ähnliche Weise
@@ -188,7 +203,9 @@ sichtbarer Nebel erscheinen, dessen Durchmesser 17' beträgt, aber natürlich
 nicht als Ring, sondern als ein mattschimmernder, nicht sehr scharf begrenzter
 Fleck, der in der Mitte, oder wo sonst eine größere Anhäufung von Sternen statt
 findet, einen etwas stärkeren Schimmer hat. Die Gestalt und scheinbare Größe
-derselben wird aber, nachdem wir uns in der Nähe der Aequatorebene oder [???]
+derselben wird aber, nachdem wir uns 
+<@pagebreak/>
+in der Nähe der Aequatorebene oder [???]
 Milchstraße befinden, sehr verschieden sein [???] einzelnen Sterne können in dieser
 großen [???] selbst von dem herschelschen Fernrohre nicht [???] werden, welches nur dann
 Nebelflecken von [???]Beschaffenheit derjenigen der Milchstraße auflösen [???] wenn sie
@@ -214,6 +231,7 @@ sie sich etwa wie die Kometen zum Sonnensysteme verhalten, wenn wir die in der
 Aequatorgegend desselben liegenden Sterngruppen mit den Planeten vergleichen
 dürften.
 
+<@pagebreak/>
 [???]ternnebel scheinen uns noch näher zu [???] Milchstraße. Viele lösen sich nämlich in
 [???] sehr nahe stehender, oft nur eine Sekunde [???] Sterne auf, die einzeln an
 Glanz den [???]punkten der Milchstraße ähnlich sind. Wenn wir [???]diese den oben
@@ -237,7 +255,9 @@ Beobachter, wie Herschel, nicht zweifeln konnte, daß auch sie sich in größere
 Nähe, der Milchstraße ähnlich zeigen würden. Herschel schätzt bei einigen die
 Entfernung auf mehrere hundert Milchstraßenentfernungen. Je tiefer wir in den
 Weltraum eindringen, desto unzureichender werden die Maße die wir bei den uns
-benachbarten Körpern anwenden. Der Maßstab, dessen wir uns bei der Entfernung
+benachbarten Körpern anwenden. Der Maßstab, dessen wir uns bei der 
+<@pagebreak/>
+Entfernung
 der Körper des Sonnensystems von einander bedienten — Millionen Meilen — war
 für die Entfernung der nächsten Fixsterne schon zu klein, indem sie einige
 Hunderttausend Erdweiten betrug. Mit ganzen Sternweiten (4 Billionen Meilen)
@@ -266,6 +286,7 @@ Maß für diese beiden Gegenstände besitzen, so können wir schlechterdings
 
 [Seite 454 und 455 fehlt]
 
+<@pagebreak 456/>
 der schönste Nebelfleck am Himmel, so daß er früher für eine Oeffnung gehalten
 wurde, wodurch man in den Licht- oder Feuerhimmel (Empyreum) sehen könne. Er
 befindet sich in der Mitte jener ungeheuren Nebelmasse, und könnte wol für
@@ -290,7 +311,9 @@ schließen sie sich also an die oben (S. 452) erwähnten, uns sehr nahen
 Sternhaufen an. Vorzüglich sind die Doppel-Nebelsterne häufig, und oft findet
 man, daß da, wo sich ein Kern schon gebildet hat, sich an dem entgegengesetzten
 Ende ein zweiter zu entwickeln scheint. Herschel hat in diesen beiden Klassen
-eine Menge Unterabtheilungen eingeführt, die sich auf die Gestalt und Größe der
+eine Menge Unterabtheilungen eingeführt, die sich auf die 
+<@pagebreak/>
+Gestalt und Größe der
 Flecken, ihre Entfernung von einander, und von den Grenzen des Nebelflecks
 beziehen.
 
@@ -315,7 +338,9 @@ Aehnlichkeit mit vielen Erscheinungen der uns umgebenden Einzelsterne eine
 durch eine Wahrnehmung Herschels an einem nicht weit von dem großen Nebelfleck
 im Schwerte des Orion entfernten, kleinern. Dort fand er nämlich im Jahre 1774
 nicht weit von ihren Rändern zwei Sterne, die, mit einem kleinen nebligen Kranze
-umgeben, völlig einem Nebelflecken ähnlich waren. Der Nebel wurde immer matter,
+umgeben, völlig einem Nebelflecken 
+<@pagebreak/>
+ähnlich waren. Der Nebel wurde immer matter,
 zog sich immer mehr und mehr von diesen Sternen weg, und im Jahre 1811 glänzten
 diese, wie die andren Fixsterne, ohne Spur von jener nebligen Atmosphäre, die
 sie früher umgab. Hier waren die Sterne offenbar hinter dem Nebel, von dem ihr
@@ -340,7 +365,9 @@ Geschäfte, der Bildung und Zerstörung ganzer Welten, zu belauschen. Denn es is
 höchst wahrscheinlich, daß die verschiedenen Klassen dieser Abtheilung von
 Nebelflecken nur die verschiedenen Stufen bezeichnen, auf welchen die
 Weltkörper in ihrer Ausbildung stehn. Von dem, wie Herschel meint, im Weltraume
-verbreiteten Aether, oder dem noch fast gestaltlosen Nebel erster Klasse bis zu
+verbreiteten Aether, oder dem noch fast 
+<@pagebreak/>
+gestaltlosen Nebel erster Klasse bis zu
 den planetarischen Nebelsternen und den ausgebildeten Einzel- oder
 Doppelsternen sind alle Uebergänge beobachtet, so daß man oft in Zweifel
 bleibt, zu welcher Klasse ein beobachteter Körper zu zählen ist. Wenn wir auch
@@ -363,8 +390,9 @@ wird uns nicht befremden, wenn wir berücksichtigen, daß ein Nebelfleck, der vo
 verdichtet, also über zwei mal so stark, als wenn atmosphärische Luft sich in
 einen Körper von der Dichte des Wassers verwandelt. Um aber einen Stern von
 ⅕" Durchmesser hervorzubringen, eine Größe, die sich vielleicht unter allen
-uns sichtbaren Fixsternen nicht findet, würde der Nebel 10000 Millionen mal
-verdichtet werden, und — wenn wir die Dichtigkeit der Sterne der der Sonne
+uns sichtbaren Fixsternen nicht findet, würde der Nebel 10000 Millionen 
+<@pagebreak/>
+mal verdichtet werden, und — wenn wir die Dichtigkeit der Sterne der der Sonne
 gleichsetzen — über eine Mill. mal dünner gewesen sein, als die atmosphärische
 Luft. So unzuverlässig auch diese Zahlen sind, so sieht man doch wohl, daß die
 Verdünnung der Nebelmasse kein Einwand gegen die eben entwickelte Ansicht sein
@@ -388,6 +416,7 @@ scheint bei denen statt zu finden, deren Glanz nach dem Mittelpunkte zu
 schwächer wird; welches allerdings von einem dunklen, mit der leuchtenden
 Nebelmasse umgebenen Nebelsterne herrühren kann.
 
+<@pagebreak/>
 Wo mehrere Kerne sich bilden, finden, wie bei den Doppelsternen, ohne Zweifel
 Bewegungen statt, da die Körper nur dadurch ihre Entfernung beibehalten können.
 Zwar sind sie bis jetzt noch nicht wahrgenommen worden; allein auch hierin
@@ -412,7 +441,9 @@ Wir sehn also in den Nebelflecken zwei wesentlich verschiedene Gebilde.
 Gruppen, die an Sternreichthum der Milchstraße nicht nachstehn, und
 Nebelmassen, die sich noch kaum aus dem Chaos entwickelt haben; Körper, die
 vielleicht zum Theil, nach denen des Sonnensystems, die nächsten außerirdischen
-Wesen sind, und solche, von denen das Licht nur in vielen tausend, ja Millionen
+Wesen 
+<@pagebreak/>
+sind, und solche, von denen das Licht nur in vielen tausend, ja Millionen
 Jahren zu uns gelangen kann; endlich Körper, die an Ausdehnung einen Fixstern
 nicht übertreffen, und andre, die, wie die ungeheure Milchstraße, viele
 Millionen Sonnen enthalten. — Alle bieten uns völlig denselben Anblick dar, und
@@ -434,7 +465,9 @@ in's Unendliche fort, und ist die Anzahl von Welten wirklich unendlich? Aber so
 weit sie auch gehn mag, wir wissen nur, daß, den Mond und vielleicht die
 Meteorkörper ausgenommen, wir auf der untersten Stufe dieser Riesenleiter
 stehn. Wahrlich kein würdiger Platz für die Erde, welche wir früher in den
-Mittelpunkt des Weltalls setzten, und für die Eitelkeit der Menschen, die mit
+Mittelpunkt des Weltalls setzten, und für die 
+<@pagebreak/>
+Eitelkeit der Menschen, die mit
 demselben Rechte glaubten, daß die Welt ihretwillen erschaffen sei, als ein
 Infusionsthierchen, dem ein Tropfen seine Welt ist, daß der Ocean nur
 seinetwillen da sei.
@@ -458,7 +491,9 @@ Newton noch nicht sehr überlegen, und jeder neuerscheinende große Komet wird
 uns mit neuen Erfahrungen bereichern. Aus den Störungen der Bahnen der Körper
 im Sonnensysteme wird ihre Masse näher bestimmt werden können, und die
 Anziehung selbst, obgleich die Erscheinung nicht bezweifelt werden kann, ihrem
-Ursprunge nach in nähere Beziehung zu andren Naturkräften kommen. Bei den
+Ursprunge nach in nähere Beziehung zu 
+<@pagebreak/>
+andren Naturkräften kommen. Bei den
 Fixsternen hat uns das letzte halbe Jahrhundert eine neue Welt offenbart, und
 das gegenwärtige wird, auf der einmal gebrochenen Bahn fortschreitend, dem
 folgenden nicht minder anziehende Erfahrungen überliefern. Die Bahnen der Sonne

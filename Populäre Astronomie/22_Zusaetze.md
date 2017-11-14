@@ -1,3 +1,5 @@
+<@pagebreak 465/>
+
 Zusätze und Berichtigungen.
 ---------------------------
 
@@ -20,7 +22,9 @@ sämmtlicher Beobachtungen beim Venusdurchgange des Jahres 1761. Durch
 Vergleichung dieses Resultats mit den Beobachtungen beim Venusdurchgange 1769
 erlangte Enke für die Sonnenparallaxe 8"5776, oder für die Entfernung der Erde
 von der Sonne 20,666800 Meilen, wobei der Irrthum wahrscheinlich keine 90000
-Meilen mehr oder weniger beträgt. Demgemäß müssen nun alle absoluten
+Meilen mehr oder weniger beträgt. Demgemäß müssen 
+<@pagebreak/>
+nun alle absoluten
 Entfernungen der Himmelskörper abgeändert werden.
 
  S. 216. Z. 14. statt nun l. nur um. 
@@ -50,8 +54,9 @@ Novembers den 5ten Kometen d. J. 1825 entdeckt hat.
 
 S. 322 und 324. Ehe der Komet von 1770 zu uns kam, hatte er das Jupiterssystem
 durchschnitten, und wurde wahrscheinlich erst dadurch in unsere Nähe gebracht,
-da er vorher nie beobachtet worden war. 1776 stand er jenseit der Sonne und war
-uns deshalb unsichtbar. 1779 kam er von Neuen dem Jupiter sehr nahe.
+da er vorher nie beobachtet worden war. 1776 stand er jenseit der Sonne und war uns 
+<@pagebreak/>
+deshalb unsichtbar. 1779 kam er von Neuen dem Jupiter sehr nahe.
 
 S. 325. Einige glauben jedoch den Enckischen Kometen i. J. 1819 auf der
 Sonnenscheibe erblickt zu haben.
@@ -77,8 +82,9 @@ bestimmt die Entfernung der Fixsterne und Sternnebel vorzüglich nach der Stärk
 ihres Lichts, die er auf eine sehr sinnreiche Art mißt, und fand dadurch, daß
 die Fixsterne in der Nähe der Sonne im Ganzen weit entfernter von einander
 sind, als im Durchschnitte in den entferntern Regionen des Himmels, und daß
-überhaupt die Sterne sehr ungleichförmig verbreitet sind. Der Sterne 1r bis
-7r Größe, oder, nach Herschel, von Einer bis zwölf Sternweiten, gibts ungefähr
+überhaupt die Sterne sehr ungleichförmig verbreitet sind. Der Sterne 1r 
+<@pagebreak/>
+bis 7r Größe, oder, nach Herschel, von Einer bis zwölf Sternweiten, gibts ungefähr
 14000; die Berechnung gibt etwa 15600. Wir müssen erwarten, was die
 Frauenhoferschen Fernröhre, wol die vorzüglichsten der seit dem Beginn der
 Astronomie für die Beobachtung des Himmels erfundenen Instrumente, in dieser

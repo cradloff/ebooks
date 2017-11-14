@@ -1,3 +1,5 @@
+<@pagebreak 341/>
+
 Siebzehnte Vorlesung.
 =====================
 
@@ -21,6 +23,7 @@ Ehe wir uns indeß zur Schwere selbst wenden, müssen wir Einiges von den
 Gesetzen der Bewegung berühren; auf diese beziehen sich daher alle
 Veränderungen, von denen wir im Folgenden reden werden.
 
+<@pagebreak/>
 Ohne Veranlassung ändert kein Körper seinen Zustand. Dieses erstreckt sich
 nicht nur auf einen sich in Ruhe befindenden Körper, daß dieser seinen Ort
 nicht verlasse, sondern auch auf einen bewegten. Er behält seine Richtung und
@@ -45,7 +48,9 @@ _B_ berührt.
 
 Da eine, allen Theilen eines Körpers gemeinschaftliche Bewegung in seinem Wesen
 nichts ändert, und nur in der Veränderung der Lage zu den umgebenden
-Gegenständen besteht, so ist ein bewegter Körper eben so empfänglich für neue
+Gegenständen besteht, so ist ein bewegter 
+<@pagebreak/>
+Körper eben so empfänglich für neue
 Eindrücke, als ein ruhiger. Wenn z. B. einer 10 Fuß in der Sek. fortrückenden
 Kugel eine neue Bewegung von 4 Fuß nach derselben Richtung mitgetheilt wird, so
 wird ihre Geschwindigkeit 14 Fuß betragen; ist die Richtung entgegengesetzt, so
@@ -69,7 +74,9 @@ Mittelrichtung _AF_ ist um so größer, je weniger die beiden Linien _AB_ und _A
 zu einander geneigt sind, und um so kleiner, je mehr sie es sind.
 
 Wird ein Körper von mehr als zwei Kräften getrieben, so suche man erst die
-Richtung und Geschwindigkeit, die aus zwei Kräften folgen würde, diese
+Richtung und Geschwindigkeit, 
+<@pagebreak/>
+die aus zwei Kräften folgen würde, diese
 vergleiche man dann mit der dritten Kraft u. s. f. bis man die Richtung und
 Geschwindigkeit des von allen diesen Kräften bewegten Körpers gefunden hat. Es
 ist eine leichte Aufgabe der Geometrie zu zeigen, daß es völlig gleichgültig
@@ -93,6 +100,7 @@ Quadraten der Zeiten im Verhältniß steht. Solche stets fortwirkenden Kräfte
 nennt man *beschleunigende Kräfte*; sie sind *gleichförmig*, wenn die
 Geschwindigkeit, wie in dem angegebenen Beispiele, immer in gleich starkem
 Verhältnisse zunimmt. Auf ähnliche Weise redet man
+<@pagebreak/>
 von *beschleunigten Bewegungen*. Der in der ersten Sekunde zurückgelegte Raum
 wird *Beschleunigung* genannt, weil der Körper in jeder folgenden Sek. so viel
 mehr zurücklegt als in der vorhergehenden.
@@ -118,6 +126,7 @@ schräg geworfenen Körper, z. B. Kanonenkugeln, Bomben und dergleichen. Hierbei
 ist jedoch der Widerstand der Luft, der in vielen Fällen bedeutende
 Abweichungen hervorbringt, unberücksichtigt gelassen.
 
+<@pagebreak/>
 Ein interessantes Beispiel ist ein von einem bewegten Körper, etwa einem
 Mastkorbe, herabfallender Stein; den Schiffsleuten scheint er ganz senkrecht
 herabzufallen, denn er fällt am Fuße des Mastes nieder; aber seine wahre Bahn
@@ -142,7 +151,9 @@ zwingt als eine andre, würde dasselbe auch in einem Jahre bewirken.
 Täglich sehn wir, wie Körper, die von der Erdoberfläche entfernt worden sind,
 zurückfallen, und wie selten denken wir an das räthselhafte Band, das sie zur
 Erde herabzieht; aber ein Apfel, der, von einem Baume fallend, *Newton* aus dem
-Schlafe erweckte, gab ihm den Schlüssel zu seinen großen Entdeckungen, und er
+Schlafe erweckte, 
+<@pagebreak/>
+gab ihm den Schlüssel zu seinen großen Entdeckungen, und er
 erkannte, daß dieselben Ursachen, welche den Apfel von den Baume fallen lassen,
 wenn der Stengel, der ihn hielt, nicht mehr Kraft genug besitzt, auch die
 Himmelskörper bewege. Seine und seiner Nachfolger, aus den Keplerschen
@@ -166,6 +177,7 @@ Naturthätigkeiten mit der Bewegung lassen wir jedoch hier unberücksichtigt, un
 betrachten bloß die Anziehung, welche sich auf die Masse, oder das Gewicht der
 Körper bezieht. Diese wurde früher von allen Physikern, und wird jetzt noch von
 fast allen nichtdeutschen und vielen
+<@pagebreak/>
 deutschen Naturforschern für so wichtig gehalten, daß sie die Masse für die
 wesentliche Eigenschaft der Körper halten; obgleich diese doch nur ein
 Inbegriff aller, an irgend einem Orte waltenden Kräfte oder Erscheinungen sind,
@@ -192,7 +204,9 @@ als die der Erde, der gemeinschaftliche Schwerpunkt beider Körper 340000 mal
 näher zur Sonne als zur Erde, also nur einige Meilen von dem Mittelpunkte der
 Sonne entfernt.
 
-Wenn zwei Körper von gleicher Masse einander anziehen, und kein Hinderniß ihre
+Wenn zwei Körper von gleicher Masse einander 
+<@pagebreak/>
+anziehen, und kein Hinderniß ihre
 Bewegung hemmt, so wird sich ein jeder dem andren eine gleich große Strecke
 nähern; sind sie aber ungleich, so wird der kleinere sich weit mehr von seinem
 ursprünglichen Orte entfernen, als der größere. Die Erde würde daher, wenn ihre
@@ -216,7 +230,9 @@ nach ihrem Mittelpunkte, da die Abweichung wegen der elliptischen Gestalt der
 Erde unbedeutend ist. Uebrigens ist die Anziehung des ganzen Erdkörpers oder
 die *Schwere* fast das einzige Beispiel der Massenanziehung, das wir innerhalb
 unsres Planeten wahrnehmen, aber auch ihr Einfluß wird in vielen Fällen
-verhindert oder geschwächt. Der Schwere gemäß müßte jeder Körper, der auf
+verhindert oder 
+<@pagebreak/>
+geschwächt. Der Schwere gemäß müßte jeder Körper, der auf
 einer, auch nur sehr wenig schrägen Fläche, etwa einem Tische, steht,
 hinabgleiten; dieses wird aber durch die Reibung des Körpers an dem Tische
 verhindert. Ein schwerer Körper wird oft durch einen dünnen Faden schwebend
@@ -242,6 +258,7 @@ entferntesten Theile der Erdoberfläche aber aus ähnlichen Gründen mit der Kra
 sich also von ihm, und in fast völlig gleichem Grade. Ein ähnliches Verhältniß
 findet bei der Anziehung der Sonne auf die Erde und den Mond statt (S. 192).
 
+<@pagebreak/>
 Durch diese Eigenschaft wird die Berechnung der Anziehung ungemein erschwert,
 nicht nur indem wir außer der Masse auch noch die Entfernung berücksichtigen
 müssen, sondern weil wir auch nicht vergessen dürfen, daß die Masse eines
@@ -267,7 +284,9 @@ Von diesem Gesetze der Abnahme der Anziehung nach den Quadraten der Entfernung
 ist die Ursache bis jetzt den Naturforschern unbekannt. Zwar haben viele
 Naturphilosophen sie zu ergründen versucht, allein da ihre Schlußweise,
 obgleich der mathematischen ganz unähnlich, dennoch nichts weniger als
-allgemein verständlich ist, so werden mich meine Zuhörer entschuldigen, wenn
+allgemein 
+<@pagebreak/>
+verständlich ist, so werden mich meine Zuhörer entschuldigen, wenn
 ich sie hier nicht berühre. Wir wollen nur noch erinnern, daß dieses Gesetz in
 der Natur sehr weit verbreitet zu sein scheint: die Anziehungen der
 Elektricität und des Magnetismus, obgleich von den Massen unabhängig, nehmen
@@ -291,7 +310,9 @@ Ein innerhalb einer hohlen Kugel befindlicher Gegenstand wird, wie die Rechnung
 zeigt, von allen Seiten gleich stark angezogen; er bewegt sich deshalb gar
 nicht und gehorcht den übrigen auf ihn einwirkenden Kräften, als wenn jene
 Masse nicht da wäre. Ein im Innern der Erde sich bewegender Körper wird daher
-von allen Kugelschichten, die vom Mittelpunkte der Erde weiter entfernt sind
+von allen Kugelschichten, die vom 
+<@pagebreak/>
+Mittelpunkte der Erde weiter entfernt sind
 als er, gar nicht angezogen; auf ihn wirken also nur die Theile der Kugel, die
 vom Mittelpunkte der Erde nicht weiter entfernt sind als er, oder eine Kugel,
 deren Halbmesser dieser Entfernung gleich ist. Die Masse zweier Kugeln, die aus
@@ -316,6 +337,7 @@ Verhältnisse entzogen, und wenn er die Oberfläche erreicht hat, ganz erschöpf
 sein. Er fällt dann wieder zurück, und das Spiel des Hin und Herfallens dauert
 ewig fort, wenn es von keinem fremden Hindernisse gestört wird.
 
+<@pagebreak/>
 Ein solches wird aber schon durch die Achsendrehung der Erde erzeugt. Alle
 Theile der Erde schwingen sich zwar in derselben Zeit um ihre Achse, allein die
 Kreise, die sie in 24 Stunden beschreiben, sind von sehr verschiedener Größe.
@@ -344,6 +366,7 @@ nach Innen zunehme, dennoch = 0 sein müsse, da er von allen Seiten gleich stark
 angezogen wird. Auch ist unser, so leicht zu beweisender Satz schon von Newton,
 _Principia, L. 1 Prop. 73_, angeführt.</@footnote>
 
+<@pagebreak/>
 Wenn die Planeten bloß von der Anziehungskraft der Sonne bewegt würden, so
 müßten sie sich ihr mit beschleunigter Geschwindigkeit immer mehr nähern und
 nach kurzer Zeit in sie stürzen, indem die Anziehung der Sonne nicht nur
@@ -366,6 +389,8 @@ Die sich in einer Parabel oder Hyperbel bewegenden Körper können nur einmal in
 die Sonnennähe kommen und uns sichtbar werden, entziehn sich aber dann auf ewig
 unsrer Beobachtung. Wenn es daher auch solche Körper gibt, so könnten doch nur
 die sich in Ellipsen bewegenden beobachtet werden,
+
+<@pagebreak/>
 und zu diesen gehören auch alle genauer bekannten Körper des Sonnensystems.
 
 Sobald man die Bahn eines Körpers kennt, ist es eine leichte Aufgabe der
@@ -391,6 +416,7 @@ Planeten folgen demselben Gesetze. Bei der Erde, wo nur ein Trabant ist, läßt
 sich zwar die Uebereinstimmung nicht auf diese Art nachweisen; aber hier finden
 wir die Schwere an der Erdoberfläche mit der Centripetalkraft der Erde auf den
 Mond übereinstimmend. An der Oberfläche der Erde, d. h.
+<@pagebreak/>
 einen Erdhalbmesser vom Mittelpunkte entfernt, ist die Beschleunigung der
 Schwere etwa 15 Fuß. Auf dem ungefähr 60 mal entferntern Monde muß sie demnach
 15/60.60 = 1/240 Fuß betragen, und wirklich beträgt diese nach einer genauen
@@ -415,7 +441,9 @@ verlassen, und seinem Beharrungsvermögen und der Sonne folgen, wenn er nicht
 durch die immer jugendliche Kraft Jupiters zurückgehalten würde. Ist die
 ellipsche Bahn einmal begonnen, so dauert der Kampf der Centrifugal- und
 Centripetalkraft in die Ewigkeit fort; bald herrscht die eine, bald die andre
-etwas vor: aber jene vermag weder den Trabanten ganz vom Centralkörper zu
+etwas 
+<@pagebreak/>
+vor: aber jene vermag weder den Trabanten ganz vom Centralkörper zu
 trennen, noch diese ihn ganz zu ihm hinzuziehen, sondern dieselbe Ellipse wird
 bei jedem Umlaufe wiederholt, so lange keine diesen Bewegungen fremde Ursache
 störend einwirkt, etwa ein Aether, der die fortschreitende Bewegung des Körpers
@@ -440,7 +468,9 @@ einander wirken, so z.B. Venus, Mars und Erde (S. 152), bedeutender noch
 Jupiter und Saturn. Noch auffallendere Beispiele werden wir in der Folge bei
 den Doppelsternen kennen lernen. Wenn nämlich zwei Körper einander so nahe
 kommen, daß ihre wechselseitige Anziehung den Einfluß ihres Beharrungsvermögens
-überwiegt, so wird nicht der eine ruhen und der andre um ihn kreisen, denn
+überwiegt, 
+<@pagebreak/>
+so wird nicht der eine ruhen und der andre um ihn kreisen, denn
 unserer Annahme gemäß ist ihre Masse und daher auch ihre gegenseitige
 Beschleunigung fast einander gleich, auch stürzen sie wegen ihrer Bewegung
 nicht in einander, sondern sie drehen sich beide um den gemeinschaftlichen
@@ -466,7 +496,9 @@ Das Spiel der Anziehungs- und Schwungkräfte ist aber nicht bloß auf die Umläu
 der Himmelskörper beschränkt, auch bei deren Achsendrehung und Gestalt von der
 größten Wichtigkeit. Gesetzt die Erde bestehe aus einer gleichförmigen
 Flüssigkeit, eine Annahme, die wir uns der Gleichförmigkeit willen schon öfter
-erlaubt haben, so wird den Gesetzen des Gleichgewichts gemäß sich das Ganze wie
+erlaubt haben, so wird den Gesetzen des 
+<@pagebreak/>
+Gleichgewichts gemäß sich das Ganze wie
 ein Wasser- oder Quecksilbertropfen zu einer Kugel ballen, indem sonst auf
 einigen Theilen der Erde ein größerer Druck sein würde, als auf andren, und das
 Gleichgewicht nicht statt finden könnte. Nun werde dem ganzen Körper eine
@@ -489,7 +521,9 @@ wo die Geschwindigkeit der Achsendrehung, und daher die Fliehkraft
 unbedeutender wird, kleiner, und an den Polen selbst, wo weder Achsendrehung
 noch Fliehkraft ist, wirkt die Schwere mit ihrer ganzen Stärke. An den Polen
 wäre also, wenn die Erde eine vollkommne Kugel wäre, ein stärkerer Druck als am
-Aequator: eine flüssige Masse ist aber nur dann im Gleichgewicht, wenn überall
+Aequator: eine flüssige Masse ist aber nur dann im Gleichgewicht, wenn 
+<@pagebreak/>
+überall
 gleicher Druck ist, nach denselben Gesetzen, wie in zusammenhängenden mit
 Flüssigkeit gefüllten Röhren, hebt sich die Erde am Aequator und senkt sich an
 den Polen; sie hört auf kugelförmig zu sein, und nimmt die Gestalt eines an den
@@ -514,7 +548,9 @@ Belehrung hierüber erwarten dürfen. Sie ist nämlich um so größer, je rasche
 der Umschwung und je geringer die Masse ist. Am stärksten mußte sie unter den
 Planeten bei Saturn sein, welches auch statt zu finden scheint, wenn gleich in
 nicht so hohem Grade, als es nach der Theorie der Fall sein sollte. Bei der
-Sonne und beim Monde ist sie völlig unmerklich. Die merkwürdigsten
+Sonne und beim Monde ist sie völlig unmerklich. 
+<@pagebreak/>
+Die merkwürdigsten
 Erscheinungen möchte sie wol bei Kometen hervorbringen, wenn bei ihnen
 überhaupt Achsendrehung statt findet. Bei ihnen ist nämlich die Masse so gering
 und die Ausdehnung so groß, daß eine sehr starke Abplattung statt finden muß;
@@ -540,7 +576,9 @@ Umständen so sehr vermehrt werden, daß sie die Anziehungskraft überwiegt und
 sich die Masse im Raume zerstreut. Indeß wenn das Innere des Körpers noch Masse
 genug enthält, so wird jene Zerstörung sich nur so weit fortsetzen, bis die
 Fliehkraft der Anziehungskraft gleich wird; dann entfernt sich zwar kein Theil
-mehr, aber es findet auch keine Schwere statt, und ein durch irgend einen
+mehr, aber es findet 
+<@pagebreak/>
+auch keine Schwere statt, und ein durch irgend einen
 Umstand von der Oberfläche entfernter Gegenstand bleibt ruhig in seiner Lage,
 ohne zurückzufallen. Wenn nun der ausgedehnte Körper sich durch Erkältung, die
 durch irgend eine chemische Operation entstehen kann, wieder zusammenzieht, so
@@ -564,8 +602,9 @@ Laplace entwickelte Entstehungsart des Ringes einen hohen Grad von
 Wahrscheinlichkeit, und wenn sogar die Umlaufszeiten des Ringes und des
 Planeten einander gleich sind, so könnte man sie fast für erwiesen halten.
 
-Diese Ringbildung ist jedoch nicht die nothwendige Folge einer solchen
-Zusammenziehung. War die vom Hauptkörper getrennte
+Diese Ringbildung ist jedoch nicht die nothwendige 
+<@pagebreak/>
+Folge einer solchen Zusammenziehung. War die vom Hauptkörper getrennte
 Masse des Ringes nicht gleichförmig — wie es auch in der That beim Saturn statt
 findet — sondern war auf einem oder mehreren Theilen derselben die Masse sehr
 gehäuft, so ballte sich wol auch ein großer Theil des Uebrigen zu einer Kugel
@@ -590,6 +629,7 @@ Ist die Achsendrehung einmal da, so dauert sie gleichförmig fort, so lange der
 Körper keine große Revolutionen erleidet, aber ihr Entstehn ist fast noch
 schwieriger zu erklären, als das der Umläufe. Rühren diese von einem Stoße her,
 den der Körper empfangen hat, so tritt mit der fortschreitenden Bewegung
+<@pagebreak/>
 zugleich eine Achsendrehung ein, ausgenommen in dem einzigen und also höchst
 seltenen Falle, wo der Stoß genau durch den Mittelpunkt ging. Umgekehrt schloß
 man aus dem Dasein einer Achsendrehung auch auf fortschreitende Bewegung, z. B.
@@ -613,7 +653,9 @@ des Mondes und der Erde berechneten Ziehkräfte der Sonne und Erde, so findet
 man, daß der Mond von der Sonne etwa zwei mal so stark angezogen wird, als von
 der Erde; da aber jene ungefähr 400 mal so weit von uns entfernt ist als
 dieser, so ist die Anziehungskraft und Masse der Sonne unter gleichen Umständen etwa 2. 400. 400, oder
-320000 mal so groß als die der Erde. Auf ähnliche Weise berechnet man die Masse
+320000 mal so groß als die der Erde. Auf ähnliche Weise berechnet man die 
+<@pagebreak/>
+Masse
 der drei oberen von Trabanten umkreisten Planeten. Bei den übrigen Planeten
 besitzen wir dieß einfache Mittel ihre Masse zu berechnen nicht; indeß sind die
 Störungen der Erdbahn durch Venus und Mars, die Wirkung des Mondes in der
@@ -633,6 +675,7 @@ Die alten Bestimmungen von Laplace, obgleich auf Angaben beruhend, die mit den
 neuesten Beobachtungen der Entfernung und Größe nicht mehr ganz stimmen, sind
 daher für unsren Zweck ausreichend.
 
+<@pagebreak/>
 <table>
 <caption>Tab. 1. Die Masse und Dichtigkeit der Sonne und der Planeten, nebst der
 Fallbeschleunigung der Schwere an ihrer Oberfläche, die auf der Erde als
@@ -649,6 +692,7 @@ in Fußen.</caption>
 <tr><td>Uranus </td><td>    17,283</td><td>0,228</td><td> 0,91 </td><td>1,11</td><td> 14,575</td></tr>
 </table>
 
+<@pagebreak/>
 <table>
 <caption>Tab. 2. Dieselben Größen bei den Trabanten und die Massen im Verhältniß zu den
 Hauptplaneten.</caption>
@@ -661,6 +705,7 @@ Hauptplaneten.</caption>
 <tr><td>IV.   "    </td><td>1:  74,21</td><td>0,388</td><td>0,126</td><td>1: 23442</td><td>1,89</td><td>1,912</td></tr>
 </table>
 
+<@pagebreak/>
 Die *Masse* ist eben so unabhängig von der Reihefolge der Planeten und Trabanten,
 wie die Größe (S. 254.). Alle Planeten haben etwa 430 mal so viel Masse als die
 Erde und 782 mal weniger als die Sonne. Die Größe der Trabanten scheint von der
@@ -684,7 +729,9 @@ Dichtigkeit, die auf dem Umfange des mit der Atmosphäre vereinigten Kerns
 beruht, wird daher kleiner gefunden als die Dichtigkeit des Kerns allein, den
 wir eigentlich bloß zu kennen wünschen, und um so mehr je höher verhältnißmäßig
 die Atmosphäre ist; so ist vielleicht die Dichte der Sonne und Jupiters
-bedeutend größer, als in der Tabelle angegeben ist.
+bedeutend größer, als in der Tabelle 
+<@pagebreak/>
+angegeben ist.
 Bei Saturn und Uranus sind auch die Ringe und zahlreichen Trabanten
 nicht ohne Einfluß. Bei der großen Anzahl der Kometen, und ihrer
 Mannigfaltigkeit in Bewegung, Gestalt und Größe, ist es zwar wahrscheinlich,
@@ -709,7 +756,9 @@ Gegenstand vom Boden zu erheben, oder seinen Fall zu verhindern. Mit derselben
 Kraft, womit z. B. der Mensch *einen* Kubikzoll Eisen hebt, hebt er auf dem
 Jupiter etwa ⅖, auf der Sonne nur 1/28, auf dem Monde aber 5. Ein Selenit, der
 dieselbe Stärke besäße wie der Mensch, würde also auf dem Monde mit gleicher
-Kraftanstrengung 5 mal so viel ausrichten können, als wir auf der Erde, wodurch
+Kraftanstrengung 5 mal so viel 
+<@pagebreak/>
+ausrichten können, als wir auf der Erde, wodurch
 nach Gruithuisen die Riesenbauten des Mondes weniger unwahrscheinlich sind
 (vergl. S. 312). Auf der Sonne dagegen findet das Gegentheil statt. Allein
 solche Betrachtungen geben uns über die Erscheinungen auf fremden Weltkörpern
@@ -732,7 +781,9 @@ nicht, die man durch das *Pendel* (S. 107.) erlangt. Dieses wollen wir hier
 vorläufig als eine leichte freischwebende Stange ansehen, an deren unterem Ende
 ein schwerer Körper befestigt ist, so daß man sich das ganze Gewicht des
 Pendels im Mittelpunkte dieser Kugel vereinigt denken kann. Zwar ist ein
-solches Werkzeug unmöglich, indem sowohl die Stange als die Kugel Gewicht und
+solches Werkzeug unmöglich, indem sowohl die Stange als 
+<@pagebreak/>
+die Kugel Gewicht und
 Ausdehnung haben, und andre Umstände, vorzüglich die Ausdehnung durch Wärme,
 die Einrichtung desselben noch zusammengesetzter machen, allein die Rechnung
 verbessert auch hier, wie gewöhnlich, die Fehler der Praxis und lehrt die
@@ -757,7 +808,9 @@ sich die Schwingungen und desto mehr sind ihrer in einer gewissen Zeit; je
 schwächer aber die Anziehung, oder je länger das Pendel ist, desto langsamer
 sind die Schwingungen und desto weniger sind ihrer. Eine einfache Formel lehrt
 aus der Länge des Pendels und der Anzahl der Schwingungen die Stärke der
-Anziehung messen. Die Länge, die man einem Pendel gibt ist gewöhnlich so, daß
+Anziehung messen. Die Länge, die man einem 
+<@pagebreak/>
+Pendel gibt ist gewöhnlich so, daß
 es *eine* Schwingung in der Sekunde macht. Dieses jedem Astronomen unentbehrliche
 Werkzeug nennt man das *Sekundenpendel*. Ihm verdanken noch mehr als den
 Fernröhren die Beobachtungen der Neuern ihren Vorzug vor denen der Alten,
@@ -781,7 +834,9 @@ viel Masse hat und ¼ so dicht ist als die Erde, allerdings schon ein
 Fortschritt, den selbst Kepler kaum gehofft haben kann; aber wir befinden uns
 hier in demselben Falle wie oben bei den Entfernungen der Himmelskörper; wir
 wußten genau anzugeben wie sie sich zur Entfernung der Erde von der Sonne
-verhielt, aber diese blieb uns unbekannt, bis man durch die sinnreichsten
+verhielt, aber diese blieb uns unbekannt, bis 
+<@pagebreak/>
+man durch die sinnreichsten
 Methoden ihre Größe mit einiger Genauigkeit in Meilen anzugeben vermochte (S.
 174.). So müssen wir auch hier versuchen das Gewicht der Erde in einem uns
 bekannten Maße, etwa in Centnern, zu finden, hieraus ließe sich dann leicht das
@@ -805,8 +860,9 @@ konnte dieser Unterschied nur durch die Anziehung des Berges veranlaßt werden.
 Diese betrug also 4 Sek., und um so viel wich das Pendel und die
 Horizontalebene, oder die Oberfläche der Gewässer, von der durch die bloße
 Anziehung der Erde bestimmten Vertikal- und Horizontallinie ab. Allein da die
-Masse des Berges nicht genau bekannt war, so blieb diese Beobachtung ohne
-sicheren Erfolg.
+Masse des Berges nicht 
+<@pagebreak/>
+genau bekannt war, so blieb diese Beobachtung ohne sicheren Erfolg.
 
 Glücklicher war Maskelyne am *Shehallien*, einem Berge an der
 englisch-schottischen Grenze. Der Stand des Pendels war auf beiden Seiten des
@@ -831,7 +887,9 @@ ist daher wahrscheinlich mehr im Innern der Erde zusammengedrängt, und die
 Körper, die sich dort befinden, sind entweder durch den Druck der
 darüberliegenden Masse sehr verdichtet, oder sie gehören schon an sich den
 dichtern Körpern, etwa den Metallen an; dieses scheint auch durch andre Gründe
-bestätigt zu werden. Allein begnügen wir uns mit den einmal in diesem Zweige
+bestätigt zu werden. Allein begnügen wir uns mit den 
+<@pagebreak/>
+einmal in diesem Zweige
 der Astronomie gesammelten Thatsachen. Erfahrung und Rechnung verlassen uns
 hier, und wo wir dieser treuen Führer entbehren, und eine ungezügelte
 Einbildungskraft uns mit dem lockenden Namen einer *Naturphilosophie* verführt,

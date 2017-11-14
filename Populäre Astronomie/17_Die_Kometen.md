@@ -1,3 +1,5 @@
+<@pagebreak 315/>
+
 Sechszehnte Vorlesung.
 ======================
 
@@ -19,7 +21,9 @@ den Bereich eines andren, sie stärker als die Sonne anziehenden Himmelskörpers
 gelangen und ihre Bewegung andren Gesetzen gehorcht. Ob es solche Körper gebe,
 ist ungewiß; wir müssen sie, bis wir durch Gründe vom Gegentheile überzeugt
 werden, für möglich halten, aber es möchte sehr schwer sein ihr Dasein zu
-beweisen. Wir sehn nämlich nur einen verhältnißmäßig so äußerst geringen Theil
+beweisen. Wir sehn nämlich nur einen verhältnißmäßig 
+<@pagebreak/>
+so äußerst geringen Theil
 der Kometenbahnen, daß wir nur auf eine sehr unsichere Weise die ganze Bahn zu
 beurtheilen vermögen. Wir können uns daher fast nur die Bahn derjenigen Kometen
 zu kennen rühmen, deren Wiederkehr beobachtet ist, und diese bewegen sich
@@ -43,7 +47,9 @@ Kometenbahnen, und berechnete den Lauf des Kometen von 1680. Darin besteht auch
 unter andern der große Vorzug einer begründeten Theorie, daß sie selbst auf
 Fälle angewendet werden kann, welche die Erfahrung nicht erreicht hat oder
 nicht erreichen kann, und so vermögen wir die Entfernung und Geschwindigkeit
-der Kometen in ihrem Aphelium zu bestimmen, obgleich wir sie in dieser Lage
+der Kometen 
+<@pagebreak/>
+in ihrem Aphelium zu bestimmen, obgleich wir sie in dieser Lage
 niemals beobachten können.
 
 Der excentrischste der Planeten, Juno, ist in seinem Aphelium noch nicht zwei
@@ -68,7 +74,9 @@ und der ogygischen Ueberschwemmung, des trojanischen Krieges, der Zerstörung
 Ninive's, erschien beim Begräbniß Julius Cäsars, um dessen Seele zum Olymp zu
 führen, und erhielt dafür Tempel und den Namen des *Julischen Gestirns*. In der
 für viele Völker unglücksvollen Zeit Kaiser Justinians und im Anfange der
-Kreuzzüge erschien er wieder, und 2255 wird man ihn wieder sehn. In diesen
+Kreuzzüge erschien er wieder, und 2255 
+<@pagebreak/>
+wird man ihn wieder sehn. In diesen
 durch Berechnung gefundenen Epochen deuten in den ältesten Zeiten dunkle
 Sagen auf eine merkwürdige Himmelserscheinung, und in den späteren Zeiten
 führen die Geschichtsbücher der Griechen und Chinesen große Kometen an. Er
@@ -95,6 +103,7 @@ auslöschen werden; aber schlechter als jetzt fand der Komet das
 Menschengeschlecht vor Jahrtausenden wahrlich nicht, und besser wird er es wol
 auch nicht wiederfinden!
 
+<@pagebreak/>
 Wenn wir hier einen Kometen finden, dessen Umlaufszeit nur durch Jahrtausende
 gemessen wird, und wir keinen Grund haben zu vermuthen, daß dieser der
 entfernteste sei, so gibt es dagegen andre, deren Erdferne nicht über die
@@ -120,7 +129,9 @@ fand man die Anzahl derjenigen, die in zwei Räumen ihre Sonnennähe hatten im
 Verhältniß mit der Größe der Räume, so daß in gleichen Räumen auch eine gleich
 große Anzahl von Kometen war, und wir würden dieses vielleicht vollkommen
 bestätigt finden, wenn uns alle Kometen bekannt wären; aber sie sind in
-Rücksicht ihrer Größe und ihres Glanzes gewöhnlich so unbedeutende
+Rücksicht ihrer Größe und ihres Glanzes 
+<@pagebreak/>
+gewöhnlich so unbedeutende
 Erscheinungen, daß wir nur bei weitem den kleinsten Theil beobachten können,
 und sie sich nach kurzer Zeit auch den besten Fernröhren entziehen. Erwägt man
 ferner, daß sich eine Reihe von günstigen Umständen vereinigen muß, wenn wir
@@ -145,7 +156,9 @@ indirekt, bald gar nicht zu bewegen scheinen; aber wie wir bei den Kometen
 Bewegung. Viele sind mehrere Wochen über unsrem Horizont, andre gehn in langer
 Zeit nicht unter; einige scheinen kaum an der Himmelskugel fortzurücken,
 dagegen beschrieb z. B. der Komet von 1769 in einem Monate 60°, der von 1760 in
-einem Tage 41½ und der von 1472 sogar 120°. Dieses hängt von den Elementen der
+einem Tage 41½ und der von 
+<@pagebreak/>
+1472 sogar 120°. Dieses hängt von den Elementen der
 Kometenbahn, von seiner Nähe zum Perihelium, wo seine Geschwindigkeit am
 größten ist, und vorzüglich von seiner Nähe und Lage zur Erde ab. Zuweilen
 kommen sie der Erde sehr nahe. Der Komet von 1680 *soll* sich nach Whiston der
@@ -168,8 +181,9 @@ finden. So wurde die Bahn der Kometen von 1680 und 1682 bestimmt, indem man mit
 ihnen die Bahnen früher beobachteter Kometen verglich. Die *elliptische*
 Berechnung, d. h. die vollständige Bestimmung der Kometenellipse hat man erst
 in den neuesten Zeiten aus einem einmaligen Erscheinen des Kometen zu berechnen
-gewagt. Und, dennoch sind nur drei vollständige Beobachtungen nöthig, um die
-Lage der Parabel zu bestimmen, worin der Komet läuft, und eine vierte lehrt die
+gewagt. Und, dennoch sind nur drei vollständige Beobachtungen nöthig, um die Lage 
+<@pagebreak/>
+der Parabel zu bestimmen, worin der Komet läuft, und eine vierte lehrt die
 Ellipse kennen! Diese ist aber darum nicht minder schwer zu finden, denn selbst
 ein sehr geringer Fehler in der Beobachtung bringt einen sehr bedeutenden in
 der Bahn des Kometen hervor.
@@ -195,6 +209,7 @@ hätte, wie sie in unsrer Atmosphäre entstehen. Zwar hatte Seneka sehr helle
 Ansichten über die Kometen, die er mit Pythagoras für Himmelskörper erklärte,
 aber Aristoteles Meinung blieb mit seinen übrigen Ansichten vorherrschend, und
 selbst Tycho und Kepler hielten sie anfangs für plötzlich erscheinende und
+<@pagebreak/>
 verschwindende Meteore des den Raum erfüllenden Aethers. Seitdem jedoch die
 Berechnungen ihrer Bahnen geglückt sind, ist ihr Rang in der Reihe der
 Weltkörper unbezweifelt, aber ihre Beschaffenheit ist ein bis jetzt noch
@@ -222,6 +237,7 @@ Umstand ausgezeichnet ist.
 
 Die *Gestalt* der Kometen scheint sphäroidisch zu sein, so daß der größte
 Durchmesser der Sonne zugekehrt ist, ähnlich dem muthmaßlichen Verhältnisse des
+<@pagebreak/>
 Mondes zur Erde (S. 208.); z. B. bei dem Kometen des Jahrs 1744 verhielten sich
 die beiden Durchmesser wie 3:2. Die *Größe* der Scheibe ist sehr verschieden,
 zuweilen von der scheinbaren Größe der Sonne und des Mondes, wie in den Jahren
@@ -245,7 +261,9 @@ Ob der Kern ganz undurchsichtig ist, bleibt noch unentschieden; zwar hat man
 durch den Kern selbst nur in seltenen Fällen, oder nie, Sterne erblickt, aber
 man hat auch keine *Lichterscheinungen* gesehen, wie bei dem Monde und den
 Planeten (S. 169, 185) wenn man nicht den von 1744 ausnehmen will, wo einige
-Astronomen sie beobachtet zu haben glauben; auch hat man noch niemals Kometen,
+Astronomen sie beobachtet zu haben glauben; 
+<@pagebreak/>
+auch hat man noch niemals Kometen,
 die der Berechnung nach zwischen uns und der Sonne durchgingen, als schwarze
 Flecken durch ihre Scheibe gehen sehn. Der kleine Kern kann jedoch durch das
 eigene, oder von der großen *Atmosphäre* reflektirte Licht erleuchtet werden. Sie
@@ -271,7 +289,9 @@ behandelnden Meteorsteinen.
 Die Natur der Kometen ist zwar auf allen Theilen ihrer Oberfläche
 wahrscheinlich dieselbe, aber die Erscheinungen, welche auf ihnen die Nähe der
 Sonne hervorbringt, werden von der Lage derselben bedingt. Die atmosphärischen
-Revolutionen werden sich daher nicht gleichförmig um den Kometen verbreiten,
+Revolutionen werden sich daher 
+<@pagebreak/>
+nicht gleichförmig um den Kometen verbreiten,
 sondern mehr ringförmig. Sind es verschiedene atmosphärische Schichten, die
 sich auf diese Weise um den Kometen bilden, so werden sie uns, nach unsrer
 Lage, bald als Ringe, bald als Streifen erscheinen. Von beiden hat Schröter
@@ -295,8 +315,9 @@ gleich gutes, aber weniger vergrößerndes Rohr. Auch bei heiterem Himmel ist er
 viel größer, z. B. der Schweif des Kometen von 1769 schien in London 43° groß,
 in Paris 58°, auf der Insel Bourbon 60° und auf Teneriffa 75°. Man findet sogar
 nicht selten Schweife von 90° Länge, z. B. 1618, 1680, so daß sich auch die
-Erde zuweilen mitten in dieser Dunsthülle befindet. Wiederum sind ganz
-schweiflose Kometen nicht selten z. B. 1585, 1665, 1682. Man darf diese
+Erde zuweilen mitten in dieser Dunsthülle befindet. Wiederum sind 
+<@pagebreak/>
+ganz schweiflose Kometen nicht selten z. B. 1585, 1665, 1682. Man darf diese
 Schweife nicht mit denen vergleichen, welche die Bahn der Schiffe im Meere,
 oder die der Feuerkugeln in der Luft bezeichnen; diese richten sich nur nach
 dem Wege des Körpers, jene aber nach der Lage der Sonne.
@@ -321,7 +342,9 @@ nicht beobachtet.
 Der Schweif ist aber selten regelmäßig, sondern gewöhnlich so gebogen, daß die
 Wölbung nach *der* Seite gerichtet ist, wohin die Bewegung geht, also die Spitze
 zurückgebogen. Diese ist oft gespalten oder fächerförmig z. B. 1744. Sehr oft
-finden sich zwei Schweife, die wol mit Nordlicht-ähnlichen Stralen verbunden
+finden sich zwei Schweife, die wol mit Nordlicht-ähnlichen Stralen 
+<@pagebreak/>
+verbunden
 sind. Zuweilen scheint der Schweif gar nicht mit dem Kometen zusammen zu
 hängen, von dem ihn eine dunkle Stelle trennt: so vorzüglich bei dem Kometen
 von 1811, auch, wenn gleich minder ausgezeichnet, 1744, 1819, 1824. Alle diese
@@ -346,7 +369,9 @@ Richtung der Schwere, die beim Kometen nach der Seite der Sonne ist, entgegen;
 auch sie hat nur eine durch unsre Gesichts- und Gefühlswerkzeuge zu bestimmende
 Grenze, beugt die Spitze, wenn der Körper bewegt wird, zurück und kann
 durch verschiedene Umstände alle Gestalten annehmen, die man bei den
-Kometenschweifen bemerkt hat. Wir dürfen aber nicht aus der Aehnlichkeit der
+Kometenschweifen bemerkt hat. Wir dürfen aber nicht 
+<@pagebreak/>
+aus der Aehnlichkeit der
 Erscheinungen auf die Aehnlichkeit der Ursachen schließen. Die Ursache, welche
 die Flamme in die Höhe treibt, die Leichtigkeit des brennenden Gases, findet
 bei den Kometen nicht statt, wo vielmehr der Stoff des Schweifes noch immer
@@ -370,7 +395,9 @@ wieder aufgelöst wird, sobald die Ursachen, wodurch sie gebildet worden ist, zu
 wirken aufhören. Weil bei dem Fortrücken der Kometen der Kopf, wegen seiner
 Nähe zur Sonne, stärker bewegt wird, als die entfernteren Theile des Schweifes,
 so bewegt sich dieser weniger langsam, und erscheint deshalb zurückgebogen. Ist
-die Bewegung stark, so bildet sich wol ein neuer Schweif. Auch die übrigen
+die Bewegung 
+<@pagebreak/>
+stark, so bildet sich wol ein neuer Schweif. Auch die übrigen
 Aenderungen der Gestalt können bei einem von so heftigen Revolutionen
 durchwühlten Körper, wie der Komet in seiner Sonnennähe ist, nicht befremden.
 Eine starke Strömung von warmen Gase kann z. B. den Nebel zum Theil wieder in
@@ -394,7 +421,9 @@ anhäufen, und die durch den Unterschied der Anziehung veranlaßte atmosphärisc
 Fluth, auf der der Sonne abgekehrten Seite am stärksten sein. Diese
 Achsendrehung ist also der Schweifbildung sehr günstig. Dasselbe findet statt,
 wenn, wie wahrscheinlich bei Uranus, der Aequator senkrecht auf der von der
-Sonne zum Kometen gezogenen Linie, dem Radius Vektor, steht. Wenn aber, wie
+Sonne zum Kometen 
+<@pagebreak/>
+gezogenen Linie, dem Radius Vektor, steht. Wenn aber, wie
 beinahe beim Jupiter, die Schwingungsachse senkrecht auf jener Linie ist, so
 ist von der Atmosphäre, so weit diese nämlich wirklich die Achsendrehung theilt
 — welches, wie wir sehn werden, wahrscheinlich nicht allezeit der Fall ist —
@@ -419,9 +448,11 @@ Jahrtausenden keine Veränderungen in den Bewegungen der Erde wahrgenommen hat,
 aber bei den Kometen kann sie, vorzüglich in der Sonnennähe, schon sehr
 bedeutend werden. Zwar bewegt sich der Körper in seiner Sonnenferne langsam,
 und der geringe Raum, auf welchen er zusammengepreßt ist, macht bei ihm sowohl
-wie bei den Planeten den Widerstand jenes luftförmigen Körpers unbedeutend,
-dieser nimmt aber mit der Geschwindigkeit in starkem Verhältnisse zu, so daß z.
-B. ein sich neun mal rascher bewegender Körper einen 81 mal so großen
+wie bei 
+<@pagebreak/>
+den Planeten den Widerstand jenes luftförmigen Körpers unbedeutend,
+dieser nimmt aber mit der Geschwindigkeit in starkem Verhältnisse zu, so daß z.B.
+ein sich neun mal rascher bewegender Körper einen 81 mal so großen
 Widerstand erleidet. In der Nähe der Sonne tritt der an Umfang vielfach
 vergrößerte Komet in die dichtere Sonnenatmosphäre; alle Erscheinungen, die
 Geschwindigkeit und der Umfang des Kometen und die Dichte des luftförmigen
@@ -443,7 +474,9 @@ ihren Mond einer ähnlichen Ursache.
 
 Daß die auf die Kometenbahn so einflußreichen Umstände auf die Planeten ganz
 ohne Wirkung sein sollten, ist unwahrscheinlich, obgleich sie durch die
-Achsendrehung der Sonne, die fast in derselben Richtung statt findet,
+Achsendrehung der Sonne, die fast in derselben 
+<@pagebreak/>
+Richtung statt findet,
 wie die Bewegung der Planeten, noch mehr geschwächt wird;
 indeß wird man wol erst in Jahrtausenden wissen, ob die Neigungen der Erde, der
 Ceres und Juno zum Sonnenäquator aus dieser Ursache abgenommen haben oder
@@ -467,7 +500,9 @@ wo man die Dauer ihrer Erscheinung und ihre Wiederkehr voraussagen konnte, und
 der Aberglaube überhaupt durch vermehrte Kultur vermindert worden ist, schwand
 mit der Furcht vor den Sonnenfinsternissen auch die vor Kometen; daher
 betrachtet sie jetzt das Volk mit gleichgültiger Neugier, und der Astronom mit
-der größten Aufmerksamkeit, der den günstigen Augenblick erhaschen will, um die
+der größten Aufmerksamkeit, der den günstigen Augenblick 
+<@pagebreak/>
+erhaschen will, um die
 Eigenschaften jener räthselhasten Körper genauer kennen zu lernen.
 
 Von den großen Einflüssen, die man sonst den Kometen zuschrieb, hat sich auch
@@ -492,7 +527,9 @@ wahrscheinlich auf eine starke Ebbe und Fluth beschränken, und die Erde gewänn
 einen Begleiter mehr. Auch hat Olbers berechnet, daß von 439 Mill. Kometen,
 deren Kern so groß ist wie die Erde, sie nur einer berühren wird, also, wenn
 man annimmt, daß jährlich zwei in das Perihel kommen, in 220 Mill. Jahren
-*einer*. Nimmt man den Durchmesser der Kometenatmosphäre — 6 Erddurchmesser, so
+*einer*. Nimmt man 
+<@pagebreak/>
+den Durchmesser der Kometenatmosphäre = 6 Erddurchmesser, so
 würde die Erde in 8 — 9 Mill. Jahren nur von einer berührt werden. Wir können
 also vor Unglück, welches aus Kometen entspringt, ziemlich sicher leben,
 besonders da der Kern gewöhnlich viel kleiner als die Erde, und die Atmosphäre
@@ -516,7 +553,9 @@ nicht genau bestimmt werden; indeß muß diese in Verhältniß ihrer Entfernung
 gering sein, indem sie uns meistentheils als bloße Punkte erscheinen. Da kleine
 leuchtende Körper in der Entfernung den Sternen ähnlich sind, und jene Meteore
 nur in sternhellen Nächten gesehen werden können, so erscheinen sie uns wie
-Sterne, die, vom Himmelsgewölbe gelöst, dem Horizonte zufliegen; daher ihr Name
+Sterne, die, vom Himmelsgewölbe gelöst, dem Horizonte zufliegen; 
+<@pagebreak/>
+daher ihr Name
 *Sternschnuppen*. Ist ihre Entfernung von der Erdoberfläche nicht so groß, daß
 ihr Durchmesser verschwindet, so erscheinen sie gewöhnlich als feurige Kugeln,
 haben aber auch wol andre Gestalten, die, von den Abergläubigen mit
@@ -541,7 +580,9 @@ sondern mit demjenigen, welchen schwimmende Körper im Wasser zurück lassen (S.
 Die *Feuerkugeln* gehören zu den seltensten Erscheinungen, und wenn wir annehmen
 dürfen, daß sie dieselben Körper sind wie die Sternschnuppen, nur in geringerer
 Entfernung, so müssen diese unsrer Erde entweder nur selten nahe genug kommen,
-um als Kugeln gesehen werden zu können, oder sie hören, wenn sie näher kommen,
+um als Kugeln gesehen werden zu können, oder sie hören, wenn 
+<@pagebreak/>
+sie näher kommen,
 auf zu leuchten und und sichtbar zu sein. In den niedren Schichten unserer
 Atmosphäre erleidet die Bahn und Gestalt dieser Körper mancherlei
 Veränderungen: zuweilen entfernen sie sich wieder, und scheinen also von der
@@ -566,7 +607,9 @@ bekannt ist, warum auf den 9300000 Q. M. der Erde nicht verhältnißmaßig eben 
 viele Meteorsteine gefallen sein sollten, so findet man aus dem Verhältniß
 33000:27 = 9300000: — 7609, daß in 22 Jahren auf der ganzen Erde 7609, oder
 jährlich 346 Steine gefallen sind, wovon etwa 100 auf das feste Land, und 6 — 7
-auf Europa kommen. Diese Zahl wird noch bedeutend durch die Fälle vermehrt,
+auf Europa kommen. Diese Zahl wird 
+<@pagebreak/>
+noch bedeutend durch die Fälle vermehrt,
 welche sich entweder bei hellem Tage oder ganz dunklen Nächten, und in Wäldern,
 Flüssen, Seen, oder überhaupt in wüsten Gegenden ereignet haben, und selbst in
 jenen kultivirten Ländern unbekannt geblieben sind.
@@ -592,7 +635,9 @@ schleimigen Massen für Erzeugnisse unsrer Atmosphäre halten wollten, so
 verrathen doch die Bestandtheile der Meteorsteine eine fremde Welt. Zwar haben
 sie zuweilen einige Aehnlichkeit mit den vulkanischen Auswürflingen unsrer
 Erde, aber ihre große Masse und Dichtigkeit, und die bedeutende Entfernung, in
-der sie sich von jedem Vulkane befinden, machen diesen Ursprung unmöglich.
+der sie sich von 
+<@pagebreak/>
+jedem Vulkane befinden, machen diesen Ursprung unmöglich.
 
 Minder unwahrscheinlich ist die Vermuthung, daß sie von den Vulkanen des Mondes
 ausgeworfen seien. Die Anzahl der Meteorsteine ist aber zu groß, als daß sie
@@ -616,7 +661,9 @@ wird, ist nach 5 Stunden aus dessen unmittelbarem Bereich und bewegt sich frei
 im Raume. Ein Körper, der sich von der Erde 121 mal so rasch entfernt wie eine
 Kanonenkugel, also etwa 72000 Fuß in der Sek., wird ein rechtgängiger, und 156
 mal so rasch, ein rückgängiger Trabant der Erde. Unter ähnlichen Umständen
-lösen sich einzelne Stücke von den übrigen Körpern des Sonnensystems ab. Zwar
+lösen sich einzelne Stücke von den übrigen 
+<@pagebreak/>
+Körpern des Sonnensystems ab. Zwar
 hat man diese, wegen der Menge und Kleinheit der Körper, bis jetzt noch bei
 keinem einzigen genauer bestimmen können, sobald aber ein Meteorstein einem
 größeren Körper nahe kommt, so wird er von diesem angezogen, und stürzt sich

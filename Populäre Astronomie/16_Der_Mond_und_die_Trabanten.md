@@ -1,3 +1,5 @@
+<@pagebreak 280/>
+
 Fünfzehnte Vorlesung.
 =====================
 
@@ -18,7 +20,9 @@ gleichmäßige Bewegung aller Theile nach *einer* Richtung hin verstehen, und
 unter *Achsendrehung* eine solche, worin einer der Durchmesser eines Körpers
 seinen Ort nicht ändert, die übrigen Theile aber sich um diesen Mittelpunkt im
 Kreise bewegen: so hat der Mond allerdings neben seiner fortschreitenden
-Bewegung auch eine Achsendrehung, so wie ein Mensch, der sich dergestalt um uns
+Bewegung auch eine Achsendrehung, so wie ein Mensch,
+<@pagebreak/>
+der sich dergestalt um uns
 bewegt, daß er uns stets sein Gesicht zukehrt, sich auch nach und nach allen
 Weltgegenden zuwendet. Würde man dem Monde die Bewegung um die Erde rauben, so
 würde sein Mittelpunkt ruhen, aber seine Oberfläche sich nach wie vor um
@@ -42,7 +46,9 @@ nicht, wie der des Mondes, vorübergehend, sondern beständig nach derselben
 Seite hinwirkt, so wird die Mondskugel, wenn sie mit flüssigen Körpern bedeckt
 ist, oder einmal weich oder flüssig war, sich in ein Sphäroid verwandelt haben,
 dessen Achse nicht, wie bei der Erde, verkürzt, sondern verlängert ist, und mit
-der von der Erde nach dem Mittelpunkt des Mondes gezogenen Linie zusammenfällt;
+der von der Erde nach dem
+<@pagebreak/>
+Mittelpunkt des Mondes gezogenen Linie zusammenfällt;
 der kleinste Durchschnitt ist die der Erde zugekehrte Scheibe. Zwischen Erde
 und Mond findet also der Unterschied statt, daß die Anziehung auf diesem nicht
 ein periodisches Steigen und Fallen hervorbringt, wie die Ebbe und Fluth,
@@ -67,7 +73,9 @@ wird. Da diese Aenderungen nur kurzen Perioden unterliegen, so nennt man sie
 *Schwankungen in der Länge*.
 
 1\. Der Mondsäquator fällt nicht mit der Ebene seiner Bahn zusammen, sondern
-ist 5° zu ihm geneigt (S. 194). Der Radius Vektor — so wollen wir die von dem
+ist 5° zu ihm 
+<@pagebreak/>
+geneigt (S. 194). Der Radius Vektor — so wollen wir die von dem
 Mittelpunkt der Erde nach dem des Mondes gezogene Linie nennen — trifft daher
 die Mondsoberfläche nicht immer im Aequator, sondern ist zuweilen 5¼ Mondsgrade
 nördlich oder südlich davon entfernt. Ist nun jener Punkt, der Mittelpunkt der
@@ -92,7 +100,9 @@ Mondes überein. Bewegt sich dieser nun rascher, so wird er in der Rotation
 zurückbleiben, und an der westlichen Seite ein größerer Theil sichtbar werden;
 ist die Bewegung dagegen langsamer als die mittlere, so wird an der östlichen
 Seite ein Theil sichtbar. In beiden Fällen ist an der entgegengesetzten Seite
-ein eben so großes Stück abgewandt. Die Größe dieser Veränderung beträgt die
+ein eben so großes 
+<@pagebreak/>
+Stück abgewandt. Die Größe dieser Veränderung beträgt die
 Summe aller Gleichungen des Mittelpunkts, also etwa 8°. Dieß ist die vornehmste
 *Schwankung in der Länge*; sie offenbart uns im Ganzen 16° von der abgewendeten
 Mondshälfte. Die Perioden sind die der Gleichungen (S. 193).
@@ -119,7 +129,9 @@ Diese vier Schwankungen werden also nur durch die Lage des Mondaquators, die
 fortschreitende Bewegung des Mondes, die Abweichung des Mondes und des
 Beobachtungsortes vom Erdäquator und die Achsendrehung der Erde veranlaßt, es
 sind nur *optische* Schwankungen; eine wirkliche *physische*, die abwechselnd
-kleine Theile an den Rändern aufdeckt und verbirgt, und wahrscheinlich von der
+kleine Theile an den Rändern aufdeckt 
+<@pagebreak/>
+und verbirgt, und wahrscheinlich von der
 nicht immer gleichen Anziehung der Erde auf den unregelmäßigen Mondskörper
 herrührt, wird nur durch sehr anhaltende Beobachtungen wahrgenommen.
 
@@ -146,7 +158,9 @@ weit höherem Grade als bei dem Monde.
 Nach *Schröter* dreht sich der Saturnsring, nicht, wie Herschel glaubt, in 10½
 Stunde um seine Achse, sondern in derselben Zeit, in welcher sich Saturn um die
 Sonne dreht. Eine Linie durch die Sonne und den Mittelpunkt des Saturn würde
-also den Ring immer in denselben Punkten treffen, die Lage gegen die Sonne, und
+also 
+<@pagebreak/>
+den Ring immer in denselben Punkten treffen, die Lage gegen die Sonne, und
 wegen seiner Entfernung auch gegen die Erde, wäre unveränderlich, und er stände
 ganz in demselben Verhältniß zur Sonne wie die Trabanten zu den Planeten. Nach
 *Herschel* dagegen würde jeder einzelne Theil des Rings sich zwar, wie ein
@@ -161,6 +175,7 @@ Ring noch unveränderlicher, als die Erde für den Mondsbewohner.
 Wir stellen, unsrer Gewohnheit gemäß, die vorzüglichsten Zahlenwerthe der
 Trabanten tabellarisch zusammen.
 
+<@pagebreak/>
 <table>
 <caption>Scheinbare Größe der Planeten, von den Trabanten aus gesehen;
 scheinbare Größe der Trabanten von den Planeten aus; Durchmesser der Trabanten
@@ -176,6 +191,7 @@ in deutschen Meilen.</caption>
 <tr><td> IV.  4 25  4 </td><td>VII.  1 57 </td><td> IV.  7 30 </td><td>VII.  4 35 </td><td> IV. 568</td><td>VII. 398</td></tr>
 </table>
 
+<@pagebreak/>
 Was von den Uranustrabanten bekannt ist, haben wir schon oben angeführt; für
 diesen Abschnitt hat die Beobachtung noch keine Ausbeute gegeben, als etwa die
 scheinbare Größe, unter welcher ihnen Uranus erscheint, die bloß von der
@@ -200,7 +216,9 @@ Anziehende der Himmelserscheinungen im Jupiters-System noch mehr, und sind auch
 vielleicht nicht ganz ohne Einfluß auf die Thier- und Pflanzenwelt. Den
 anziehendsten Anblick von allen Planetenbewohnern haben unstreitig die Bewohner
 des *Saturn*. Abgesehen von den sieben Trabanten, von denen die meisten die
-Sonne weit an Größe zu übertreffen scheinen, schlingt sich der breite,
+Sonne weit 
+<@pagebreak/>
+an Größe zu übertreffen scheinen, schlingt sich der breite,
 glänzende Ring um ihren Aequator. In den Polargegenden bis 64° Breite liegt er
 stets unter dem Horizonte, und ist nur von einem erhöhten Standpunkte aus
 sichtbar; wenn man sich aber noch einige Grade dem Aequator nähert, so nimmt er
@@ -220,10 +238,12 @@ des Planeten und, wie es scheint, auch der Ringe, weiter verbreitet würde.
 Aehnliches findet für die Südhalbkugel statt. Auch des Nachts ist der Ring
 unsichtbar, und man sieht ihn fast nur im Sommer und am Tage, zu gleicher Zeit
 mit der Sonne, am Himmel, wo er also, durch den Sonnenglanz verdunkelt, nur
-'ein sehr schwaches Licht, etwa wie unser Mond am Tage, haben kann.
+ein sehr schwaches Licht, etwa wie unser Mond am Tage, haben kann.
 
 Wenn die Trabanten den Planeten einen schönen Anblick gewähren, so wird es von
-diesen in einem weit größeren Maßstabe erwiedert. Der Mond, den wir 30 Min.
+diesen in einem weit größeren Maßstabe erwiedert. Der Mond, den 
+<@pagebreak/>
+wir 30 Min.
 groß sehn, sieht die Erde als eine helle Scheibe von einem Durchmesser von
 1°53', also mit einer etwa 13 mal so großen Scheibe, als der Mond und die Sonne
 für uns haben, welche aber nicht einen Kreis um den Mond zu beschreiben
@@ -246,8 +266,9 @@ bewege, wie bei uns in 24 Stunden. Dieses ist der *Sternentag* des Mondes; der
 *Sonnentag* ist etwas länger, er ist dem synodischen Monate von 29½ Tagen
 gleich. Der Mond hat also 15 Tage Tag und 15 Tage Nacht, aber gerade in der
 Mitternacht des Mittelpunkts der uns zugekehrten Mondscheibe, im Neumonde,
-glänzt dort die Erde, in Opposition mit der Sonne, in ihrer höchsten Pracht als
-*Vollerde*. Je mehr die Mondscheibe erleuchtet wird, desto mehr nimmt die Erde
+glänzt dort die Erde, in Opposition mit der Sonne, in ihrer höchsten Pracht
+<@pagebreak/>
+als *Vollerde*. Je mehr die Mondscheibe erleuchtet wird, desto mehr nimmt die Erde
 ab; dem *ersten* Viertel des Mondes im Sonnenaufgange jenes Punkts entspricht
 das *letzte* der Erde, und wenn die ganze uns zugewendete Mondscheibe
 erleuchtet ist, im Vollmonde oder Mittage, so ist die Erde, deren Glanz auch
@@ -271,7 +292,9 @@ Neuerde, wo die Sonne fast im Zenith des Mittelpunkts unsrer Mondscheibe steht,
 wird dann und wann eine Verfinsterung der Sonne eintreten, die fast immer
 total, nie ringförmig ist, weil der Durchmesser der Erde größer erscheint, als
 derjenige der Sonne. Unsre Sonnenfinsternisse dagegen sind ihm ohne Zweifel
-*Erdfinsternisse*; sie sind aus demselben Grunde nie total, fast immer
+*Erdfinsternisse*; sie sind aus demselben 
+<@pagebreak/>
+Grunde nie total, fast immer
 ringförmig, zuweilen partial, und zuweilen wird der Mondsbewohner, trotz der
 einer Erdfinsterniß sehr günstigen Lage, die ganze, volle Erdscheibe
 unverfinstert erblicken, wann wir nämlich eine ringförmige Sonnenfinsterniß
@@ -297,7 +320,9 @@ daß ihre Bahn fast in dem Aequator des Hauptplaneten ist, und deshalb beim
 Saturn und Uranus sehr von der Sonnenbahn derselben abweicht; aber die Lage
 ihres Aequators werden wir wol niemals kennen lernen. Die Planeten und die
 übrigen Trabanten müssen ihnen einen überaus schönen Anblick gewähren. Jupiter
-zeigt sich dem ersten Trabanten unter einem Winkel von fast 20°, und dem
+zeigt sich dem ersten Trabanten 
+<@pagebreak/>
+unter einem Winkel von fast 20°, und dem
 letzten unter 4½°, also als eine mehrere tausendmal größere Scheibe als die
 Sonne. Noch schöner ist Saturn. Seine Scheibe hat auf dem ersten Trabanten
 einen Durchmesser der 70 mal größer ist als der der Sonne, und der Ring
@@ -323,6 +348,7 @@ noch größer als Mars.
 
 Die Gestalt der Trabanten ist die im Planetensystem herrschende kugelförmige;
 kleine Abweichungen, wie bei der Erde, dem Monde, Saturn, sind wahrscheinlich;
+<@pagebreak/>
 können aber wegen der geringen Größe der Körper nicht beobachtet werden. Desto
 merkwürdiger ist die Ausnahme, welche die Saturnsringe machen. Wir haben ihre
 Gestalt schon oben (S. 233) angegeben. Sie erheben sich nur 57 Meilen auf
@@ -345,8 +371,9 @@ Geschwindigkeit beider genau dieselbe wäre: wo dieses aber, wie es unendlich
 wahrscheinlicher ist — denn eine um wenige Meilen größere Entfernung würde
 schon nach dem dritten Keplerschen Gesetze eine etwas geringere Geschwindigkeit
 veranlassen (S. 58) — nicht statt findet, wird früher oder später der
-schnellere den langsamern einholen, und beide werden sich unter den
-furchtbarsten Revolutionen zu *einem* Körper vereinigen. Ist einer von beiden
+schnellere den langsamern einholen, und beide werden sich unter
+<@pagebreak/>
+den furchtbarsten Revolutionen zu *einem* Körper vereinigen. Ist einer von beiden
 ein Ring, der vielleicht kein vollkommener Kreis, sondern, wie die Planeten-
 und Trabantenbahnen, elliptisch ist: so wird ein zur Vereinigung günstiger
 Zeitpunkt, wenn etwa die Sonnen- oder Planetenferne des nähern Körpers mit der
@@ -372,7 +399,9 @@ nur eine Halbkugel; aber durch ihre genauere Kenntniß werden wir reichlich
 dafür entschädigt, daß wir nicht, wie bei den übrigen Himmelskörpern, beide
 sehn können. Schon mit bloßen Augen bemerkt man bedeutende Ungleichförmigkeiten
 auf seiner Oberfläche; aber durch ein Fernrohr gewährt er einen Anblick, der
-einer von einem hohen Berge betrachteten Landschaft nicht unähnlich ist. Er
+einer von einem hohen Berge 
+<@pagebreak/>
+betrachteten Landschaft nicht unähnlich ist. Er
 verdient daher den Namen einer *Gegenerde*, den ihm auch schon alte Philosophen
 gegeben haben.
 
@@ -397,7 +426,9 @@ Gruithuisensche, liegt der diesem Werke beiliegenden Karte zum Grunde.
 
 Das Auge sieht nur eine Fläche, und man würde nimmermehr einen wirklichen
 Gegenstand von einem Gemälde unterscheiden, wenn man nicht durch's Gefühl die
-Gestalt unmittelbar prüfen, oder den Gegenstand von verschiedenen Seiten
+Gestalt unmittelbar prüfen, oder den 
+<@pagebreak/>
+Gegenstand von verschiedenen Seiten
 betrachten könnte. Jenes ist uns bei Himmelskörpern natürlich unmöglich; aber
 auch selbst das zweite wird uns durch unsre eigene Bewegung und die des Sterns
 nur auf eine unvollständige Art gewährt. Beim Monde, der uns immer dieselbe
@@ -422,7 +453,9 @@ sein. Durch die Unebenheit aber sieht man Anhöhen in der Nachtseite erleuchtet,
 und Tiefen in der Tagesseite dunkel. Neben der dadurch überall ausgezackten
 Lichtgrenze sind nun zahllose Lichtpunkte, die Gipfel eben so vieler Berge, in
 dem dunklen Theile. Faßt man den ersten Moment, wo die Sonne sie erleuchtet,
-und mißt ihre Entfernung von der Grenze, in deren Horizont die Sonne jetzt ist,
+und mißt ihre Entfernung von 
+<@pagebreak/>
+der Grenze, in deren Horizont die Sonne jetzt ist,
 so ist klar, daß, wenn (Fig. 15) _PQ_ ein Stück der Mondsoberfläche, _S_ die
 Sonne, _M_ der Mittelpunkt des Mondes, _B_ der Berg und _A_ in der Lichtgrenze
 ist, welche die Sonne am Horizonte hat, aus der beobachteten Größe _AB_ auch
@@ -446,7 +479,9 @@ Vorzüglich gut läßt sich der Schatten in der Nähe der Lichtgrenze, d. h. des
 Sonnenaufganges, messen, weil er da am längsten ist. Man ist hierbei nicht, wie
 bei der Hevelschen Methode, an eine bestimmte Zeit gebunden, sondren kann so
 oft und in so verschiedenen Lagen beobachten, als man will. Auch die *Tiefen*
-können gemessen werden. Man kann leicht bestimmen, ob ein gegebener Fleck Höhe
+können gemessen werden. Man kann leicht bestimmen, 
+<@pagebreak/>
+ob ein gegebener Fleck Höhe
 oder Tiefe ist: bei jenem ist die der Sonne zugekehrte Seite hell, die
 entgegengesetzte im Schatten, dagegen bei den Tiefen die letztere die
 erleuchtete ist. Auf dieselbe Weise, wie man die Höhe eines Berges über einen
@@ -472,7 +507,9 @@ erleuchtete, ja glänzende Punkte erscheinen.
 
 Die Oberfläche unsres Mondes bietet, wie die unsrer Erde, eine Abwechselung von
 Berg und Thal, Hoch- und Tiefebenen dar; aber die Höhen zeigen sich selten als
-jene langen, sich verzweigenden Züge, oder Hochebenen (Plateau's), an deren
+jene langen, sich verzweigenden Züge, oder 
+<@pagebreak/>
+Hochebenen (Plateau's), an deren
 Grenzen sich Gebirge aufthürmen und sich stralenförmig in die benachbarten
 Länder erstrecken, wie wir sie meistentheils auf der Erde finden. Zwar giebt es
 einige hohe Gebirgszüge wie die *Mondsappenninen*, die sich zwischen 15° und
@@ -496,6 +533,7 @@ ausgehöhlt, also viel weiter als tief ist, so ist dennoch ihre Tiefe sehr
 bedeutend, wol 11000 Fuß, ja einer von ihnen, *Bernouilli* (etwas nördlich von
 Kleomedes, 15 d. Karte) erreicht die ungeheuere Tiefe von 18 — 20000 Fuß.
 
+<@pagebreak/>
 Die Gestalt dieser Wälle ist zwar dem Kreise sehr ähnlich, zeigt sich uns
 jedoch nur so in der Mitte der Scheibe, wo wir gerade in ihre Tiefe sehn
 können; in der Nähe der Ränder, wo wir sie unter einem schiefen Winkel
@@ -520,7 +558,9 @@ beobachten, der uns in der That oft besser bekannt ist, als auf der Erde. Vom
 Wasser oder einer andren Flüssigkeit können diese Ringgebirge nicht gebaut
 sein. Dieses kann zwar große horizontale Flächen bilden, auch wol Hügelreihen,
 die sich längs der Meeresufer erstrecken; aber jene kreisförmigen Höhen und
-Tiefen können ihr Dasein nur einer Hebung oder Senkung des Bodens verdanken.
+Tiefen können ihr 
+<@pagebreak/>
+Dasein nur einer Hebung oder Senkung des Bodens verdanken.
 
 Die ersten Beobachter erklärten sie unbedenklich für *Krater*, d. h. für
 Oeffnungen noch rauchender oder erloschener Vulkane, und die Wälle für die aus
@@ -545,7 +585,9 @@ Gipfels, bricht, und nun das Gas mit ungeheurer Kraft in die dünne, wenig
 Widerstand leistende Mondatmosphäre strömt, und die Decke des Gewölbes durch
 die Stärke seines Stromes zum Theil zerstört, bis es sich fast ganz in die
 Atmosphäre ergossen hat. Aber das hohe Gewölbe, das jetzt ganz frei und ohne
-Stütze über dem Abgrunde schwebt, und sich nicht mehr halten kann, da es seines
+Stütze über dem 
+<@pagebreak/>
+Abgrunde schwebt, und sich nicht mehr halten kann, da es seines
 Gipfels beraubt ist, stürzt in die Tiefe zurück; nur die Seitentheile
 desselben, die auf der Mondsoberfläche stehn, können sich halten, die übrige,
 nicht gehörig gestützte Masse senkt sich allmälig in die vom Gas gebildete
@@ -569,7 +611,9 @@ Herden ruhen. Aber aus mehrern Ursachen bringen sie nicht *die* Erscheinungen
 hervor, welche wir auf dem Monde finden. Die äußere Atmosphäre der Erde setzt
 dem inneren Drucke ein mächtiges Hinderniß entgegen und raubt ihm einen großen
 Theil seiner Kraft; die über fünf mal schwereren Theile der Erdoberfläche
-weichen weit weniger leicht dem inneren Drucke der Gase; der Boden wird
+weichen weit weniger leicht dem inneren 
+<@pagebreak/>
+Drucke der Gase; der Boden wird
 verhältnißmäßig weniger gehoben, die Wölbung wird meistentheils dem Drucke der
 Gase widerstehn und sich bloß als Berg zeigen: wenn aber auch die Gase sich
 einen Ausgang geöffnet haben sollten, so strömen sie in die lufterfüllte
@@ -594,6 +638,7 @@ Eine andre, aus ähnlichen Ursachen entspringende Klasse von Unebenheiten auf
 dem Monde sind langgezogene Erhöhungen und Vertiefungen, *Bergadern* und
 *Rillen* oder *Furchen*. Gase, die nicht an einer Stelle vereinigt, sondern in
 langen Kanälen verbreitet sind, erheben zwar ihre Decke, aber nicht sehr hoch,
+<@pagebreak/>
 noch vermögen sie sie zu sprengen, weil sie nicht koncentrirt sind. Wo sich
 aber Kanäle durchkreuzen und der Boden von vereinigten Kräften gehoben wird,
 bricht dieser endlich, das Gas entströmt, benachbarte Gase, die nach dieser
@@ -617,8 +662,10 @@ andren völlig ausgebildet. Das theilweise zerstörte ist offenbar das ältere,
 und das jüngere ist dann zuweilen von einem noch neueren auf ähnliche Weise
 zerstört. Zuweilen ist bloß noch ein Theil des Ringgebirges übrig, indem der
 andre vielleicht unmittelbar nach dem Durchbruche der Gase, wieder
-zurückgesunken, oder durch andre uns unbekannte Ursachen verschwunden ist, z.
-B. die nordöstliche Grenze der Regenbogenbucht (_Sinus Iridum, C_). Auch jetzt
+zurückgesunken, oder durch andre uns unbekannte Ursachen verschwunden ist, z.B.
+die nordöstliche Grenze 
+<@pagebreak/>
+der Regenbogenbucht (_Sinus Iridum, C_). Auch jetzt
 ruhen die Kräfte keinesweges. So wurde z. B. der große Fleck Cassini südöstlich
 von Plato (2), trotz seiner Größe, von keinem der Beobachter des 17.
 Jahrhunderts gesehn, obgleich ihnen viel kleinere und weniger günstig gelegene
@@ -641,8 +688,9 @@ unterbrochenes Weiß darbieten. Wer dächte hier nicht an ähnliche Erscheinunge
 der Erde und einiger Planeten, wo ebenfalls Eis oder ein ähnlicher Körper die
 Pole umgibt; wer möchte nicht die Beständigkeit der Erscheinungen an den Polen
 des Mondes durch die geringe Neigung welche die Sonne immer zu ihnen hat,
-erklären, und erstaunte nicht, daß auf dem Monde, wie auf der Erde, die
-südliche Halbkugel wahrscheinlich die kältere ist?
+erklären, und erstaunte nicht, daß auf dem Monde, wie auf der 
+<@pagebreak/>
+Erde, die südliche Halbkugel wahrscheinlich die kältere ist?
 
 Auf dem übrigen Theile des Mondes zeichnen sich vorzüglich große Flecken aus,
 die keine bedeutende Unebenheiten zeigen, und daher von den älteren Beobachtern
@@ -665,7 +713,9 @@ aber Wasser oder irgend eine andre Flüssigkeit sie fülle, wird uns immer
 verborgen bleiben. Einige Stellen der Mondsoberfläche leuchten uns, wenn die
 Sonne in einer gewissen Lage ist, mit sehr starkem Lichte: es ist
 wahrscheinlich das gespiegelte Sonnenlicht selbst, das wir sehen, und außer
-Felsen würde auch eine mit Flüssigkeit bedeckte Oberfläche, unter den
+Felsen würde 
+<@pagebreak/>
+auch eine mit Flüssigkeit bedeckte Oberfläche, unter den
 angemessenen Winkeln, eine solche Erscheinung hervorzubringen vermögen.
 
 Die Farbe jener Flecken ist meistentheils grau, und wird nur wenig dunkler,
@@ -690,7 +740,9 @@ die schon beim Sonnenaufgange statt findet und wenig vermehrt wird. Es sind
 unter andren die Flecken Hygin und Schröter (_T_ und _S_), beide in der Nähe
 des Aequators, fast auf der Mitte der uns zugekehrten Mondscheibe. Eine mit
 üppiger Vegetation bedeckte Gegend der Erde, die selbst im Winter nicht ganz
-davon entblößt wird, würde sich auf dem Monde auf ähnliche Weise darstellen;
+davon entblößt wird, 
+<@pagebreak/>
+würde sich auf dem Monde auf ähnliche Weise darstellen;
 denn die Farbe der Pflanzen, welche den fruchtbaren Gegenden der Erde einen so
 eigenthümlichen Reiz verleihet, dürfen wir nie hoffen zu erkennen, da schon
 eine Entfernung weniger Meilen hinreicht, das schöne Grün des Laubes in ein
@@ -714,7 +766,9 @@ der Lichtgrenze des Mondes erblickte, beträgt 2°—3° oder 10—12 deutsche M
 welches auf eine Atmosphäre deutet, die, bei einer Höhe von etwa 8000 Fuß, die
 Sonnenstralen eben so merklich zurückwirft, wie die Erde bei ungefähr 10 Meilen
 Höhe, also etwa 29 mal so niedrig ist als die der Erde, und auch wahrscheinlich
-in keinem geringern Verhältnisse dünner. In den tiefen Schluchten kommt die
+in keinem geringern Verhältnisse dünner. 
+<@pagebreak/>
+In den tiefen Schluchten kommt die
 Dichte der Mondluft derjenigen der Erde näher. Diese geringe Atmosphäre wird
 vielleicht zum Theil von dem Dampfe gebildet, der von dem Wasser oder andren
 flüssigen, die Oberfläche bedeckenden Körpern herrührt; aber um schwere, denen
@@ -739,7 +793,9 @@ Athmungswerkzeuge der dünnen Mondatmosphäre angemessen sind? Auch wenn diese
 nicht den Sauerstoff enthält, der in unserer Atmosphäre das Leben bedingt, so
 können anders gebildete Wesen auch andrer Nahrung bedürfen. Selbst das Wasser,
 für uns ein Bedürfniß, ist vielleicht in der Luft des Mondes in nicht viel
-geringerem Verhältnisse, als bei uns, und selbst dessen gänzlicher Mangel würde
+geringerem Verhältnisse, als bei uns, 
+<@pagebreak/>
+und selbst dessen gänzlicher Mangel würde
 nur eine von der unsrigen etwas verschiedene organische Welt bezeugen.
 
 Ein Verfechter für den Aufenthalt organischer Wesen auf dem Monde ist
@@ -763,7 +819,9 @@ Monde erblickt, so hätten wir ein fast unumstößliches Zeugniß für das Dasei
 von Wesen, die nicht nur mit Vernunft begabt sind, sondern auch schon, zu
 großen Gesellschaften vereinigt, Werke auszuführen vermögen, die wegen ihrer
 Ausdehnung sogar auf der Erde noch sichtbar sind. Diese wurden daher lange von
-Schröter gesucht, und endlich glaubt sie *Gruithuisen* entdeckt zu haben. Im
+Schröter gesucht, und endlich 
+<@pagebreak/>
+glaubt sie *Gruithuisen* entdeckt zu haben. Im
 Flecken Schröter (_S_), also, nach Gruithuisen, im fruchtbarsten Theile des
 Mondes (S. 308), nah an der schönen Mondsgegend, in deren Zenith beständig die
 Erde ist, finden sich zwei 5 Meilen lange, geradlinige Walle, wovon einer genau
@@ -786,7 +844,9 @@ Aegypter und Chinesen die ihrigen, da wegen der geringen Größe des Mondes auch
 die Körper dort über 5 mal leichter sind, als bei uns. Auch zeigt es sich nicht
 isolirt; gerade Straßen verbinden es mit andren dunklen Stellen, wo ähnliche
 Gebilde zu sein scheinen; der durch regelmäßige Vierecke eingetheilte Boden
-bietet einen, dem holländischen Kanalbau ähnlichen Anblick dar, und verräth
+bietet einen, dem holländischen Kanalbau ähnlichen 
+<@pagebreak/>
+Anblick dar, und verräth
 vielleicht eine geordnete Ländervertheilung und daher eine bürgerliche
 Verfassung. Diese geraden Verbindungslinien finden sich zwischen dem 50sten
 Grade nördlicher und 37sten oder 47sten südlicher Breite überall, wo die dunkle
@@ -812,7 +872,9 @@ halten, von deren Dasein er vielleicht keine Ahnung hat.
 Aber nicht nur das Dasein und die Wohnungen der Seleniten hat der scharfsinnige
 Beobachter zu erkennen vermocht, sogar ihre Religion bleibt ihm nicht
 verborgen. Der unter fast ewig heiterem Himmel lebende Selenit verehrt
-natürlich die Sterne, und jenes sternartige Gebäude ist wahrscheinlich ein den
+natürlich die Sterne, und 
+<@pagebreak/>
+jenes sternartige Gebäude ist wahrscheinlich ein den
 Sternen und vielleicht unsrer Erde geweiheter Tempel. Flammen, die in jener
 Entfernung kleinen Fixsternen ähnlich, nur ein kurzes und, wie die irdischen
 Feuer, unterbrochenes Dasein hatten, und von Andren für vulkanische Eruptionen

@@ -1,3 +1,5 @@
+<@pagebreak 475/>
+
 Erklärung der Kupfertafeln.
 ---------------------------
 

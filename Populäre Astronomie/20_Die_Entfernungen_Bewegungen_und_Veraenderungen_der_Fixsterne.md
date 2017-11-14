@@ -7,7 +7,9 @@ Die Entfernungen, Bewegungen und Veränderungen der Fixsterne.
 Bis jetzt haben wir den Fixsternhimmel ganz im Sinne der alten Völker
 behandelt. Wir befanden uns im Mittelpunkte einer Kugel, auf deren innerer
 Oberfläche sich etwa 7000 leuchtende Punkte von sehr verschiedener Größe
-befanden, die größten haben wir Sterne erster Größe genannt, aber auch die 5
+befanden, die größten haben wir 
+<@pagebreak 421/>
+Sterne erster Größe genannt, aber auch die 5
 bis 6 folgenden Klassen sind dem unbewaffneten Auge sichtbar. Zwischen diesen
 befindet sich eine zahllose Menge kleinerer, die nur durch Fernröhre zu
 erkennen sind. Die benachbarten Sterne hat man in Gruppen abgetheilt und sich
@@ -31,7 +33,9 @@ in der Mitte der Himmelskugel stand, und die Achsendrehung der letztern in der
 gegenseitigen Lage der Gestirne nichts änderte. Aber seitdem Kopernikus gezeigt
 hatte, daß die Erde jährlich einen Kreis durchläuft, dessen Durchmesser, wie
 man späterhin fand, etwa 42 Millionen Meilen beträgt, durfte man hoffen, daß
-dieses eine Aenderung in der Lage der Sterne hervorbringen würde.
+dieses eine 
+<@pagebreak/>
+Aenderung in der Lage der Sterne hervorbringen würde.
 
 Ein Stern befinde sich in der Ebene der Ekliptik, in _S_ (Fig. 19.); _E_ sei die
 Sonne und der um sie beschriebene Kreis die Bahn der Erde; _GF_ sei ein Stück des
@@ -54,7 +58,9 @@ eine größere Breite zu haben als in den Konjunktionen. Der Winkel _BSA_ welche
 die Richtungen, in denen der Stern gesehn worden ist, verschieden sein können,
 oder die *Parallaxe* des Sterns (S. 53.) ist dem Winkel gleich, unter welchem der
 Durchmesser der Erdbahn, d. h. ungefähr 42 Mill. Meilen, von dem Sterne aus
-gesehen werden müßte. Je größer die Entfernung der Sterne ist, desto kleiner
+gesehen werden müßte. Je größer die Entfernung der Sterne ist, desto 
+<@pagebreak/>
+kleiner
 sind die Winkel; aber sie sind so klein, daß bis jetzt bei keinem Fixsterne
 mit Sicherheit eine Parallaxe entdeckt worden ist.
 
@@ -78,7 +84,9 @@ möglichen Beobachtungsfehler berücksichtigt, so beträgt die Parallaxe der
 nächsten beobachteten Sterne 2 Sek., und ihre Entfernung 4 Billionen Meilen.
 Diese Größe, die man die *Sternweite* nennt, wollen wir in der Folge als Maßstab
 für die Entfernungen der Fixsterne anwenden. Man wundre sich nicht über dieses
-ungeheure Maß; aber alle Entfernungen innerhalb des Sonnensystems reichen
+ungeheure Maß; aber alle Entfernungen 
+<@pagebreak/>
+innerhalb des Sonnensystems reichen
 hierbei nicht aus — selbst Uranus ist nur etwa 19 Erdweiten von der Sonne
 entfernt — ja wir werden sogar von Entfernungen hören, wofür selbst die
 unermeßlich große Sternweite kein würdiges Maß ist.
@@ -103,7 +111,9 @@ Fixsterne, indem die Irradiation, welche die Messung der näheren Planeten und
 Trabanten so sehr erschwerte, daß Beobachter wie Herschel und Schröter um
 mehrere Sekunden von einander abwichen, noch nachtheiliger bei den Fixsternen
 wirkt, deren scheinbare Durchmesser überdieß so klein sind, daß selbst die
-schärfsten Fernröhre sie nicht zu messen vermögen. Statt vergrößert zu werden,
+schärfsten Fernröhre sie nicht zu 
+<@pagebreak/>
+messen vermögen. Statt vergrößert zu werden,
 erschienen sie immer desto kleiner, je besser das Fernrohr war, und wurden
 immer mehr zu bloßen glänzenden Punkten; nur bei 2000 maliger Vergrößerung
 glaubt Herschel die Fixsterne als kleine wohl begrenzte Scheiben erblickt zu
@@ -128,7 +138,9 @@ größer als ¼ Sekunde sein. Wahrscheinlich ist er aber noch viel kleiner.
 Der *wahre Umfang* kann aber trotz der geringen Größen der scheinbaren
 Durchmesser sehr bedeutend sein. Herschel schätzte z. B. den Durchmesser von α
 in der Leier auf ⅓ Sek, Nimmt man nun dessen Parallaxe auf 2 Sek. an, so wird
-der Stern in derselben Entfernung ⅓ Sek. groß gesehen, in welcher der
+der Stern 
+<@pagebreak/>
+in derselben Entfernung ⅓ Sek. groß gesehen, in welcher der
 Durchmesser der Erdbahn, oder etwa 216 Durchmesser der Sonne (S. 238), 2" groß
 erscheint. Er beträgt also ⅙ derselben, oder 36 Sonnendurchmesser. Die Sonne
 würde in dieser Entfernung nur einen scheinbaren Durchmesser von 1/108" haben.
@@ -151,7 +163,9 @@ berechnen, in welcher sich die Sonne befinden muß, um den Fixsternen in ihrer
 äußeren Erscheinung gleich zu werden, so wird man dadurch die Entfernung eines
 Fixsterns ungefähr bestimmen können. Das Licht eines Körpers nimmt nämlich nach
 den Quadraten der Entfernung ab, so daß die Sonne z. B. in einer zehnfachen
-Entfernung uns nur 1/100 des Lichts (S. 257) zeigen würde; allein selbst da, wo die
+Entfernung uns nur 1/100 des Lichts (S. 257) 
+<@pagebreak/>
+zeigen würde; allein selbst da, wo die
 Parallaxe 2" beträgt und der Durchmesser völlig unmerklich ist, würde sie uns
 noch immer glänzender erscheinen, als die Sterne erster Größe; da indeß auch
 Licht in dem Aether, oder wie man sonst den zarten Stoff benennen will, der
@@ -176,7 +190,9 @@ Klasse wahr; die einzelnen Sterne sind aber, ihrer Größe und ihrem Glanze nach
 wahrscheinlich nicht minder mannigfaltig, als die Körper des Sonnensystems.
 Sirius, der wegen seines glänzend weißen Lichts der schönste Fixstern an unsrem
 Himmel ist, hat wahrscheinlich mehr eigenthümlichen Glanz, als die gelblichen,
-bläulichen und röthlichen Fixsterne. Auch haben die neueren Versuche
+bläulichen und 
+<@pagebreak/>
+röthlichen Fixsterne. Auch haben die neueren Versuche
 Fraunhofers gezeigt, daß das Licht der Venus und des Mondes, obgleich von dem
 der brennenden Körper und der Elektricität verschieden, dem der Sonne in allen
 seinen Eigenschaften sehr ähnlich ist; das Licht der Fixsterne weicht aber von
@@ -202,7 +218,9 @@ Stern erster und einer von der hundertsten Größe völlig gleiche Erscheinungen
 darbieten, so bald sie uns neben einander zu stehen scheinen. Allein auch
 hiervon abgesehn finden wir, wenn wir die ältern Sternverzeichnisse mit den
 neueren vergleichen, daß die Lage vieler Sterne sich sehr bedeutend geändert
-hat. Zwar sind die Beobachtungen der alten griechischen und arabischen
+hat. Zwar sind die 
+<@pagebreak/>
+Beobachtungen der alten griechischen und arabischen
 Astronomen wegen ihrer Ungenauigkeit zu so feinen Versuchen nicht anwendbar;
 allein von Flamstead, der den Himmel vor etwa 100 Jahren beobachtete, bis
 jetzt, hat man bei manchen Sternen eine sehr ​bedeutende Bewegung
@@ -226,7 +244,9 @@ _ABD_... um welche sich die Lage der Sterne _C,D_... geändert hat, gleich der
 scheinbaren Größe, unter welcher die Linie _AB_ von dem Sterne aus gesehn wird.
 _F_, dem sich die Sonne am meisten nähert, und _G_ von dem sie sich am meisten
 entfernt, verändern ihre Lage gar nicht, obgleich, wenn der zurückgelegte Raum
-_AB_ groß genug ist, _F_ an Glanz bedeutend zugenommen und _H_ abgenommen haben wird.
+_AB_ groß genug ist, _F_ an Glanz bedeutend zugenommen und _H_ abgenommen 
+<@pagebreak/>
+haben wird.
 Allein da der Glanz nicht so genau beobachtet werden kann, als die Bewegung, so
 werden wir nur diese berücksichtigen können, und sie findet auch bei den
 Sternen _C,D_... mehr oder weniger statt, und zwar um so stärker, je näher sie
@@ -252,7 +272,9 @@ Sonnensystems achten dürfen, wo sehr langgezogene elliptische Bahnen viel
 häufiger als kreisähnliche sind, so bewegt sich auch unsre Sonne in einer
 solchen Kometenbahn. Ob aber in dem Brennpunkte derselben eine Centralsonne
 ist, die an Größe unsre Sonne im Verhältniß vielleicht eben so sehr übertrifft,
-als die Sonne die Planeten und Kometen, oder ein dunkler Körper, oder gar
+als die 
+<@pagebreak/>
+Sonne die Planeten und Kometen, oder ein dunkler Körper, oder gar
 keiner, müssen wir jetzt unentschieden lassen; von Vielen wird jedoch α in der
 Leier, wegen ihres nach Herschels Beobachtungen außerordentlich starken Lichtes
 und ihrer großen parallaktischen Bewegung für die Centralsonne gehalten.
@@ -275,8 +297,9 @@ des Centralsonnensystems offenbaren werden. Denn wenn wir auch annehmen, daß
 manche Sterne erster Größe, deren Lage überaus günstig ist, jährlich 4"
 fortrücken, und daß die Entfernung des Centralkörpers die der Sterne erster
 Größe, also die möglich nächste sei, wobei also die Sonne, als Planet des
-Centralsonnensystems betrachtet, in demselben Verhältnisse stände, wie Merkur
-zu ihr, so bedürfte sie dennoch über 300000 Jahre um den Kreis oder die Ellipse
+Centralsonnensystems betrachtet, in demselben Verhältnisse stände, wie Merkur zu 
+<@pagebreak/>
+ihr, so bedürfte sie dennoch über 300000 Jahre um den Kreis oder die Ellipse
 zu durchlaufen. Dieses darf aber die Astronomen nicht abschrecken, den noch
 ganz jugendlichen Zweig der Astronomie durch ihre Pflege immer weiter
 emporblühn zu machen; denn wenn auch das jetzige und das folgende Geschlecht
@@ -300,7 +323,9 @@ u. a. m. und sind zum Theil nur 2 bis 5" von einander entfernt. Es ist zwar
 möglich, daß diese Nähe nur scheinbar ist, und bloß von ihrer Lage zur Erde
 herrührt; denn man könnte sich wol denken, daß zwei Sterne, wovon der eine 100
 mal so weit entfernt ist als der andre, sich einander scheinbar decken können,
-allein eine einfache Berechnung Herschels macht dieses sehr unwahrscheinlich.
+allein eine einfache Berechnung Herschels 
+<@pagebreak/>
+macht dieses sehr unwahrscheinlich.
 Die Himmelskugel enthält nämlich 34000 Mill. Räume, wovon jeder einem Kreise
 gleich ist, dessen Halbmesser 2½ Sek. beträgt; 7000 Sterne — so viel kann man
 ungefähr von der 1sten bis zur 7ten Große zählen — sind darauf vertheilt. Es ist
@@ -324,7 +349,9 @@ vielmehr nur dann mehr als *einen* Körper und Bewegungen in einem Fixsternsyste
 bemerkt, wenn die größten Körper desselben an Umfang fast einander gleich waren. Diese
 Einseitigkeit der Natur liegt offenbar nur in der Unvollkommenheit unsrer
 Beobachtungen, indem wir in den Systemen, wo, wie in unsrem Sonnensysteme, *ein*
-Körper fast die ganze Masse des Systems in sich vereinigt, die untergeordneten
+Körper fast 
+<@pagebreak/>
+die ganze Masse des Systems in sich vereinigt, die untergeordneten
 Körper wegen ihrer geringen Größe nicht bemerken können. Indeß befinden sich
 vielleicht unter den zahllosen Doppel- und Polygonalsternen, die Struve
 neuerlich mit seinem frauenhoferschen Achromaten entdeckt hat, einige
@@ -348,7 +375,9 @@ tritt dann auf der entgegengesetzten Seite wieder hervor, so daß er um ihn zu
 oscilliren scheint. Man achtet nämlich mehr auf die relative Lage des kleinern
 zum größern, als auf die eigentliche Bewegung *beider* Sterne, welche wegen ihres
 geringen Umfangs nur mit vieler Mühe gemessen werden kann. Eben so unabhängig
-von den Erscheinungen des Sonnensystems, wie die Ebene, ist die *Richtung* der
+von den Erscheinungen des Sonnensystems, wie die Ebene, ist 
+<@pagebreak/>
+die *Richtung* der
 Bewegung der Doppelsterne: sie ist bald rechtgängig (von Westen nach Osten),
 bald rückgängig.
 
@@ -374,7 +403,9 @@ Wahrscheinlich haben ähnliche Ursachen, wodurch die Planeten und Kometen unsrer
 Sonne entstanden sind, auch den Sonnen der Doppelsterne kleinere Begleiter
 gegeben; denn wenn durch irgend eine Katastrophe Körper entstehn, die sich
 nachher durch ihre Anziehung zu Kugeln bilden, so werden diese natürlich von
-sehr verschiedner Größe sein, und der größere wird die kleinern an sich
+sehr verschiedner Größe sein, und der 
+<@pagebreak/>
+größere wird die kleinern an sich
 fesseln. Auch bei den Doppel- und Polygonalsternen sehen wir daher
 wahrscheinlich nur die größten Sterne eines Systems, welche wiederum, wie unsre
 Sonne, von kleinern umkreist werden.
@@ -399,7 +430,9 @@ Die einzelnen Sterne der Doppelsterne scheinen einen sehr bedeutenden Umfang zu
 haben, indem die scheinbare Entfernung derselben von einander oft nicht größer
 und wol noch kleiner, als der Durchmesser des größeren geschätzt wird. Bei so
 nahen Körpern müßte nach den Gesetzen der Massenanziehung die Umlaufszeit sehr
-kurz sein; da sie aber dennoch oft sehr groß ist, so ist wahrscheinlich die
+kurz sein; da sie aber dennoch oft sehr groß 
+<@pagebreak/>
+ist, so ist wahrscheinlich die
 Dichte dieser Körper unbedeutend, vielleicht nur derjenigen unsrer Atmosphäre
 gleich. Allein wir kennen schon zu viele Beispiele von der Unzuverlässigkeit
 dieser auf so schwankenden Stützen beruhenden Untersuchungen, als daß wir ihnen
@@ -427,6 +460,7 @@ Diese Veränderlichkeit erstreckt sich auch auf den Glanz und die Größe der
 Fixsterne. Am merkwürdigsten sind die *periodischen* Wechsel. *Algol* im Haupte der
 Medusa, β Perseus) hat eine Glanzperiode von 2 Tagen 20 Stunden 49 Minuten. Ueber
 2½ Tage glänzt er als Stern zweiter Größe, 3½
+<@pagebreak/>
 Stunden nimmt er ab, wird dann auf 18 Minuten plötzlich blaß und erreicht nach
 3½ Stunden wieder seinen gewöhnlichen Glanz. Viele andre Sterne haben eine
 Periode von einigen Tagen bis Wochen. Der Stern ο im Wallfisch, der wegen
@@ -452,6 +486,7 @@ sind, so erscheint uns diese dunkler, als die andren. Dieses möchte nun der
 Fall bei denjenigen Fixsternen sein, welche eine periodische Lichtveränderung
 haben. Die Ursache dieser Flecken, die wir selbst bei der Sonne nicht kennen,
 wird uns zwar bei den andren Fixsternen ewig unbekannt bleiben, allein es ist
+<@pagebreak/>
 bemerkenswerth, daß der Farbenwechsel gewöhnlich die Ordnung beobachtet, welche
 bei vielen chemischen und physischen Erscheinungen statt findet und unter dem
 Namen der *newtonschen Farbenreihe* bekannt ist.
@@ -478,7 +513,9 @@ Durch diese Annahme wird vorzüglich der plötzliche Lichtwechsel und die
 verhältnißmäßig kurze Dauer der Verdunkelung erklärt. Ist die Umlaufszeit eines
 solchen dunklen und leuchtenden Zwillings sehr groß, so kann uns dadurch der
 helle Stern eine Zeitlang ganz oder zum Theil verdeckt werden. Auch wenn beide
-Sterne eines Doppelsterns Sonnen sind, so können durch die Veränderungen in
+Sterne eines Doppelsterns 
+<@pagebreak/>
+Sonnen sind, so können durch die Veränderungen in
 ihrer gegenseitigen Lage auch Unterschiede in der scheinbaren Größe entstehn,
 wie z. B. bei *ζ Herkules*. Daher rührt es auch wahrscheinlich, daß der
 Doppelstern *Kastor* der früher größer war, als *Pollux*, jetzt kleiner ist. Auch
@@ -503,6 +540,7 @@ Licht erst in ein röthliches, dann in ein bleifarbenes über, und nach 16
 Monaten war er spurlos vom Himmel verschwunden. — Im Jahre 1604 entdeckte
 Kepler im *Ophiochus* einen ähnlichen Stern, der anfangs die Sterne erster Größe
 an Glanz übertraf, aber nach einem Jahre, nach mannigfaltigem Farbenwechsel
+<@pagebreak/>
 verschwunden war. Ein etwas längeres Leben hatte ein im Jahre 1670 beobachteter
 Stern im *Fuchs*. Im Juni 3ter Größe, war er im August nur 5ter Größe,
 verschwand darauf, bis er im März 1671 wieder als Stern 4ter Größe sichtbar
@@ -527,7 +565,9 @@ Feuern gefunden wird.
 Was wird aber aus diesen Körpern, deren Katastrophe sich uns in so weiten
 Entfernungen offenbart? Die völlige Unbeweglichkeit aller dieser Gestirne, die
 an dem Orte, wo sie entstanden, auch vergingen, weist ihnen einen vom
-Sonnensysteme weit entfernten Standpunkt und eine sehr bedeutende Größe an.
+Sonnensysteme weit entfernten 
+<@pagebreak/>
+Standpunkt und eine sehr bedeutende Größe an.
 Selbst wenn der ganze Körper von den Flammen verzehrt ist, müßten die dadurch
 entstandenen Stoffe an ihrem Orte bleiben; und was war *vor* der Explosion
 daselbst? Ohne Zweifel ein dunkler Körper, oder ein so schwach leuchtender, daß

@@ -1,3 +1,5 @@
+<@pagebreak 469/>
+
 Register.
 ---------
 
@@ -76,6 +78,7 @@ Bergadern auf dem Monde 305.
 Beschleunigung 345. 
 
 Bewegung 342, der Erde 
+<@pagebreak/>
 145, der Fixsterne 428. 
 des Meeres und der Luft 
 208, des Mondes 187, 
@@ -174,6 +177,7 @@ Excentricität 60.
 
 Excentrische Kreise 58. 
 
+<@pagebreak/>
 Falten auf der Sonne 240. 
 
 Feuerkugeln 336. 
@@ -282,8 +286,12 @@ absteigende 97, ihre
 Bewegung 155. 193. 
 
 Knoten in der Sonne 247. 
+
+<@pagebreak/>
 Knotenmonat 195. 
+
 Kometen 56. 57. 315. 
+
 Koluren 90. 
 
 Konjunktion 97, obere, 
@@ -391,6 +399,7 @@ Parabel 58.
 
 Parabolische Berechnung 321. 
 
+<@pagebreak/>
 Parallelische Bewegung ... 
 
 Parallaxe 53. 109. 
@@ -502,6 +511,7 @@ Sonnensystem 46, 55.
 
 Sonnentag 94. 174. 
 
+<@pagebreak/>
 Sonnenwende 89. 
 
 Solstitien 89. 

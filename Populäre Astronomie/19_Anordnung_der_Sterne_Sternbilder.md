@@ -10,7 +10,9 @@ und ausgedehnteren Klasse der *Fixsterne*. Zu ihnen gehören alle Gestirne, die
 wir mit unbewaffnetem Auge am Himmel erkennen, die Sonne, der Mond und 4 oder 5
 kleinere Sterne ausgenommen, und wenn sich auch in dem Fernrohre die Zahl der
 letzteren, ohne die Kometen, auf etwa 30 vermehrt, so nimmt dagegen die Menge
-der Fixsterne in so raschem Verhältnisse zu, daß wir uns fast entschuldigen
+der Fixsterne in so 
+<@pagebreak 377/>
+raschem Verhältnisse zu, daß wir uns fast entschuldigen
 müssen, den wenigen planetarischen Körpern den größten Theil unsres Werkes
 gewidmet zu haben. Aber der Antheil, den wir an den äußeren Gegenständen
 nehmen, kann nicht nach deren Anzahl oder Größe gemessen werden; der kleine,
@@ -36,7 +38,9 @@ Sternen beschäftigen.
 Des Menschen Phantasie, die gerade da am thätigsten ist, wo er mit seiner
 Vernunft nichts ergründen kann, fand auch lange Zeit vor Homer und der Bibel in
 der Anordnung der ausgezeichnetern Sterne Aehnlichkeit mit Gegenständen, die in
-der Wirklichkeit oder in der Einbildungskraft lebten. In paarweise gestellten
+der Wirklichkeit oder in der Einbildungskraft lebten. In 
+<@pagebreak/>
+paarweise gestellten
 Sternen sah man Zwillinge, oder ein Paar Ziegen; in andren glaubte man einen
 fliegenden Vogel zu erkennen, der dem Hirten ein sanfter Schwan, dem Jäger ein
 kriegerischer Adler oder ein Geier wurde. Wo die Sterngruppen irdischen
@@ -59,8 +63,9 @@ verschieden waren, über das ganze Land, wohin sich ihr Einfluß erstreckte. Aus
 dem gewöhnlichen Fehlschlusse, daß eine Begebenheit, die auf eine andre folgt,
 auch ihre Wirkung sei, der auch bei den Erscheinungen des Mondes und der
 Kometen den Aberglauben so sehr befördert hat, sah man die Erzeugnisse des
-Bodens, den Regen, die Ueberschwemmungen, die Dürre und die Krankheiten der
-Jahreszeiten, auf welche man die Gestirne bezog, als Wirkungen derselben an.
+Bodens, den Regen, die Ueberschwemmungen, die Dürre und die Krankheiten 
+<@pagebreak/>
+der Jahreszeiten, auf welche man die Gestirne bezog, als Wirkungen derselben an.
 Wie nah lag nun der Gedanke, diese Sterne den Göttern zu weihen, welche jene
 Erscheinungen veranlaßten, oder sie für Sinnbilder jener Götter zu halten! Aus
 dem Sternbilde, dessen Aufgang mit dem Austreten des Nils gleichzeitig war,
@@ -84,6 +89,7 @@ ausgezeichnet worden wären, und deren Sterne zu andren Bildern gezogen waren,
 wie z. B. die Wage, die Fische, wurden wahrscheinlich erst später gebildet, und
 erhielten nun den astronomischen Begriffen angemessene Benennungen.
 
+<@pagebreak/>
 Bei den meisten Sternbildern, deren Auf- und Untergang weniger mit den
 Jahreszeiten in Verbindung standen, oder doch nicht beachtet wurden, blieben
 die Benennungen und Bezeichnungen ungeändert. Da man jedoch nun schon daran
@@ -107,7 +113,9 @@ die Ochsen und Ziegen der Ackerbau treibenden Völker, was den Chaldäer die
 Indier hatten andre Jahrszeiten, andre Produkte und andre Götter als die
 übrigen Völker; jedes selbstständige Volk bildete den Himmel nach seiner
 Phantasie, seinem Klima, seinen Jahreszeiten und seiner Religion. Allein nicht
-zu gleicher Zeit haben alle Völker einen so hohen Grad von Kultur erreicht, daß
+zu gleicher Zeit haben alle Völker einen so hohen 
+<@pagebreak/>
+Grad von Kultur erreicht, daß
 eine Behörde, etwa eine Priesterkaste, den Sternbildern ein größeres Ansehn
 verschaffen konnte. Ein früher gebildetes Volk brachte mit seiner Kultur auch
 seine Mythen und die in vielen Punkten damit eng verbundene Astronomie zu
@@ -132,7 +140,9 @@ Pelops aus Lydien einführten, vermischten sich nebst den ägyptischen des
 Kekrops und Danaus mit den einheimischen. Doch verstand kein Volk besser als
 die eben so zart fühlenden als tief denkenden Griechen, die von allen Seiten
 zusammengeströmten Mythen in ein schönes Gewand zu hüllen, die ernste Symbolik
-der Orientalen verschwand in der lieblichen Dichtung, und viele fabelhafte
+der Orientalen 
+<@pagebreak/>
+verschwand in der lieblichen Dichtung, und viele fabelhafte
 Sagen wurden nach Griechenland verlegt und mit griechischen Geschichten
 verschmolzen. Alles dieses zeigt sich auch bei den Sternbildern der Griechen.
 Es sind großentheils die ägyptischen, denn auch außer jenen alten Führern
@@ -156,7 +166,9 @@ Kreuze; desto öfter folgten sie aber nicht der Einbildungskraft, sondern der
 Laune, z. B. beim Fuchs mit der Gans, der Katze u. d. gl.
 
 Aber was von englischen Astronomen angegeben war, wurde von den Franzosen nicht
-aufgenommen, was diese einzuführen suchten, von den Deutschen verworfen, und da
+aufgenommen, was diese einzuführen suchten, von den Deutschen 
+<@pagebreak/>
+verworfen, und da
 kein Astronom sich einen Vorrang zu erwerben vermochte, wie es z.B. Linné in
 seinem Fache gelang, so entstand eine Verwirrung, die der Wissenschaft, wenn
 nicht sehr nachtheilig war, doch gewiß nicht nützte. Dieser auch schon in
@@ -180,7 +192,9 @@ Unsre Sternbilder zerfallen in zwei Klassen, in alte und neue; jene sind die
 alten ägyptisch-griechischen, diese die von den Neuern in den letzten zwei
 Jahrhunderten hinzugefügten. Wahrscheinlich war Hipparch der erste, der eine
 genaue Aufzählung der Sternbilder des ganzen ihm bekannten Himmels unternahm.
-Er beobachtete 1022 Sterne in 48 Sternbildern; indeß ist uns seine Arbeit erst
+Er beobachtete 1022 Sterne in 48 
+<@pagebreak/>
+Sternbildern; indeß ist uns seine Arbeit erst
 durch Ptolemäus bekannt geworden. Man nennt daher die alten Sternbilder die
 *ptolemäischen*, die durch den Almagest nicht nur bei *uns*, sondern sogar bei den
 *Arabern* die einheimischen fast gänzlich verdrängt haben. Wahrscheinlich haben
@@ -202,6 +216,7 @@ die folgenden Tabellen die bei uns eingeführten Sternbilder. Sie sind in
 letztern durch mehrere Ursachen auszeichnen; ferner in *ältere* und *neuere*, weil
 dieser Unterschied für ihre Erklärung wichtig ist.
 
+<@pagebreak/>
 <table>
 <caption>Nördliche Sternbilder der Alten (23)</caption>
 <tr><td>Der kleine Bär</td><td>24</td><td>Der Pfeil</td><td>18</td></tr>
@@ -237,6 +252,7 @@ eingeführt worden. Es bleiben daher nur 21 Sternbilder.
 <tr><td>Die Eidechse       </td><td>16</td><td>Herschels Teleskop </td><td>17</td></tr>
 </table>
 
+<@pagebreak/>
 <table>
 <caption>Südliche Sternbilder der Alten (15).</caption>
 <tr><td>Der Wallfisch    </td><td>97</td><td>Der Becher        </td><td>21</td></tr>
@@ -266,7 +282,9 @@ Neueren.
 <tr><td>Die Taube                   </td><td>10</td><td>Die Biene                 </td><td> 4</td></tr>
 <tr><td>Die Malerstaffelei          </td><td> 8</td><td>Das Kamäleon              </td><td>10</td></tr>
 <tr><td>Das Einhorn                 </td><td>31</td><td>Die Eiche Karls II.       </td><td>12</td></tr>
-<tr><td>Der fliegende Fisch         </td><td> 8</td><td>Der Oktant                </td><td>43</td></tr>
+<tr><td>
+<@pagebreak/>
+Der fliegende Fisch         </td><td> 8</td><td>Der Oktant                </td><td>43</td></tr>
 <tr><td>Das Teleskop                </td><td> 8</td><td>Das Mikroskop             </td><td>10</td></tr>
 <tr><td>Das Lineal und der Maßstab  </td><td>12</td><td>Der Luftball              </td><td> 8</td></tr>
 <tr><td>Der Zirkel                  </td><td> 4</td><td>Der Kranich               </td><td>13</td></tr>
@@ -296,7 +314,9 @@ die Anzahl der zugehörigen Sternbilder; die neben den einzelnen Sternbildern
 stehenden, die Anzahl der darin sichtbaren Sterne, eine natürlich sehr
 willkürliche Bestimmung, die an und für sich keine Sicherheit gewährt, sondern
 nur im Allgemeinen die verhaltnißmäßige Größe der verschiedenen Sternbilder
-bestimmt. Der Stier z. B. der 141 Sterne zählt, und die Jungfrau gehören zu
+bestimmt. Der Stier z. B. 
+<@pagebreak/>
+der 141 Sterne zählt, und die Jungfrau gehören zu
 den größten Sternbildern des Himmels.
 
 Die einzelnen Sterne wurden sonst durch ihre Lage in dem Sternbilde bezeichnet,
@@ -321,8 +341,9 @@ verschiedenem Glanze; man hat sie daher schon seit den ältesten Zeiten in
 verschiedene Klassen getheilt. Die scheinbar größten oder glänzendsten Sterne
 nennt man Sterne *erster Größe*, die auf diese folgenden, Sterne *zweiter Größe* u.
 s. f. Mit dem unbewaffneten Auge kann man die Sterne bis zur fünften oder
-sechsten Größe erkennen, bei sehr heiterem Himmel und sehr scharfem Auge auch
-wol noch weiter; die übrigen nennt man *teleskopische Sterne*, da sie nur mit
+sechsten Größe erkennen, bei sehr heiterem Himmel und sehr scharfem Auge auch wol 
+<@pagebreak/>
+noch weiter; die übrigen nennt man *teleskopische Sterne*, da sie nur mit
 Hilfe des Fernrohrs zu erkennen sind. Die Anzahl der Klassen, oder der Größen
 der Sterne, geht aber, wie es scheint, mit Hilfe des Fernrohrs in's Unendliche;
 denn selbst das herschelsche Teleskop, womit man fast das Ziel des menschlichen
@@ -347,6 +368,7 @@ Größe zählen, haben andre wol 20. Man rechnet gewöhnlich folgende zu ihnen.
 <tr><td><em>Procyon</em> im kleinen Hunde;</td><td><em>Beteigeze</em> im Orion;</td></tr>
 </table>
 
+<@pagebreak/>
 <table>
 <caption>In der südlichen Halbkugel (7). </caption>
 <tr><td><em>Rigel</em> im Orion;         </td><td><em>Acharnar</em> im Eridanus;</td></tr>
@@ -375,7 +397,9 @@ Menge, — denn wenn auch ihre Anzahl unendlich ist, so ist doch nur eine sehr
 geringe Anzahl den bloßen Augen sichtbar und der, bei den Dichtern der Hebräer
 und andrer Völker häufig vorkommende Vergleich „so zahlreich wie die Sterne am
 Himmel, und der Sand am Meere” ist in dieser Rücksicht nicht passend — sondern
-wegen ihrer unregelmäßigen Lage. Wenn man zerstreute irdische Körper zählen
+wegen 
+<@pagebreak/>
+ihrer unregelmäßigen Lage. Wenn man zerstreute irdische Körper zählen
 will, so muß man sie in Reihen ordnen, dieß ist aber bei den Sternen unmöglich.
 Indeß erreicht man durch die Gruppirung der Sterne in den Sternbildern, den
 Zweck mit hinlänglicher Genauigkeit. Wenn man die bei den Sternbildern (S. 385)
@@ -401,7 +425,9 @@ von Jupiter in einen Bären verwandelt wurde. Mutter und Sohn glänzen seitdem
 als *großer* und *kleiner Bär* am Himmel. *Bootes* ist dann der *Bärenhüter*
 (Arktophylax); oder auch wol Arkas selbst, der von seinem Großvater Lykaon den
 Göttern als Speise vorgestellt, von Jupiter wieder zusammengefügt, und in den
-Himmel versetzt wurde. Die beiden *Jagdhunde*, *Asterion* und *Chana*, sowie auch der
+Himmel versetzt wurde. Die 
+<@pagebreak/>
+beiden *Jagdhunde*, *Asterion* und *Chana*, sowie auch der
 arkadische Berg *Mänalus* worauf Bootes steht, sind ihm erst späterhin von Hevel
 beigelegt. Nach einer andren Sage ist Bootes der athenische König *Ikarus*. Er
 hatte den attischen Schäfern Wein zu trinken gegeben, dessen Bereitung er von
@@ -424,7 +450,9 @@ der Polarstern. Man findet ihn, wenn man eine gerade Linie durch die beiden
 ersten Sterne (α, β) des großen Wagens verlängert. Er ist jetzt etwa 1°29' vom
 Pol entfernt, und wird sich ihm noch bis zum Jahre 2101 nähern, wo dann die
 Entfernung 28' beträgt. Durch die Fortrückung der Nachtgleichen entfernt er
-sich dann wieder von ihm bis sich der Pol nach 2328 Jahren dem Sterne γ am Knie
+sich dann wieder von ihm bis sich der Pol nach 2328 Jahren 
+<@pagebreak/>
+dem Sterne γ am Knie
 des Cepheus auf 1°53' genähert haben wird. Im Jahre 2800 v. Chr. war er nur 9'
 von dem Sterne α des Drachen entfernt. Wegen seiner so geringen Entfernung vom
 Pol bleibt seine Lage von der täglichen Bewegung fast unverändert (S. 72),
@@ -450,6 +478,7 @@ Kassiopea eine Hirschkuh, und die Perser ein Kameel. Die Sterne, welche jetzt
 den Perseus bilden, wurden von den Arabern auch wol zum Theil zu denen des
 Stiers gerechnet.
 
+<@pagebreak/>
 Das Sternbild des *Herkules* hat in der That einige Aehnlichkeit mit einem
 knieenden oder springenden Riesen, worin natürlich jedes Volk *seinen* Heros sah.
 Die Chaldäer ihren Nimrod, und die Griechen den Herkules, Orpheus, Theseus,
@@ -477,6 +506,7 @@ diese beiden Sternbilder schließt sich auf eine passende Weise der Delfin als
 Retter des *Arion*; nach Einigen ist er indeß ein Symbol des *Neptun* oder des
 *Triton*.
 
+<@pagebreak/>
 Ein auffallendes Beispiel von der Gewohnheit der Griechen, die durch ihre
 Aehnlichkeit mit irdischen Gegenständen gebildeten Sterngruppen mit den Mythen
 zu verflechten, gibt die *Krone* und der *Triangel*. Jene, von den Arabern als
@@ -502,7 +532,9 @@ Hevel (1690) empfangen.
 
 Eben so unverdienter Weise ist der englische König Karl II. an den Himmel
 versetzt worden. Dieses geschah durch Halley (1677) in dem *Herzen Karls II.*, in
-der Nähe der Jagdhunde. Besser verdient die *Friedrichsehre* ihren Platz, den ihr
+der Nähe der Jagdhunde. Besser verdient die 
+<@pagebreak/>
+*Friedrichsehre* ihren Platz, den ihr
 Bode (1787), zu Ehren des eben gestorbenen großen Königs Friedrich II., auf
 Kosten der Ketten der Andromeda anwies. Dem Astronomen Messier hat _Lalande_ in
 dem Erntehüter (französich _Messier_) ein Denkmal gesetzt. Einen ähnlichen
@@ -526,8 +558,9 @@ Von der Ziege (*Kapella*) hat der Stern erster Größe seinen Namen.
 Die im Orient allgemein unter dem Bilde eines geflügelten Pferdes abgebildete
 Sterngruppe machen die Griechen natürlich zum *Pegasus*. Es wird nur seiner
 vordern Hälfte nach gezeichnet. Neben ihm ist das *Füllen*, eigentlich bloß ein
-Pferdekopf. Die Griechen deuten es auf ein von Merkur dem Kastor geschenktes
-Pferd.
+Pferdekopf. Die 
+<@pagebreak/>
+Griechen deuten es auf ein von Merkur dem Kastor geschenktes Pferd.
 
 Der *Schlangenträger* endlich wird von den Griechen auf Aeskulap gedeutet; aber
 auch alle andren griechischen Heroen, die mit Schlangen kämpften, werden damit
@@ -552,6 +585,7 @@ sind; denn Orion geht auf, wenn der Skorpion untergeht und umgekehrt; sie
 liegen nämlich an den entgegengesetzten Seiten des Himmels, und sind fast
 Antipoden auf der Himmelskugel, wenn man sich des Ausdrucks bedienen dürfte.
 
+<@pagebreak/>
 Der Jäger hat in seiner Nahe den *Hasen* und den kleinen *Hund*; indeß deutet man
 auf diesen alle in der Mythologie bekannten Hunde: den Hund, den Helena auf
 ihrer Flucht mit Paris verlor; oder den Hund, welcher der Erigone den Tod ihres
@@ -577,6 +611,7 @@ hieß, verehrt sein. Bei den Aegyptern und Kopten heißt der Sirius auch *Sothes
 nach dem schon erwähnten ägyptischen Gotte, oder Heros, oder König, dem man
 alle Erfindungen zuschrieb (S. 5). Die hohe Achtung welche dieser Stern bei den
 Aegyptern genoß, gab dem ganzen Sternbilde den Namen des Hundsgestirns, und
+<@pagebreak/>
 verdrängte wahrscheinlich die Gestalten, unter denen man sich dieses Sternbild
 bei andren Völkern gedacht haben mochte (S. 381). Nach ihm haben die Hundstage
 ihren Namen. Die Griechen, nach ihrer Gewohnheit sich alles anzueignen, machten
@@ -604,7 +639,9 @@ unsichtbar.
 Auf eine ähnliche Weise, wie mit dem Hunde, verhält es sich mit dem *südlichen
 Fische*. Es ist die syrische Göttin *Derketis* oder *Atergatis*, die als Fisch, oder
 doch als Weib mit einem Fischschwanze abgebildet wurde. Auch hier verdankt das
-Sternbild seine Gestalt der Göttin, der es geweiht war. Es liegt auch in der
+Sternbild 
+<@pagebreak/>
+seine Gestalt der Göttin, der es geweiht war. Es liegt auch in der
 Natur des Menschen, Gegenstände und Gestalten, die man für heilig zu halten
 gewohnt ist, auch in schönen großen Sternen am Himmel glänzen zu sehn, und der
 große Hund, oder der südliche Fisch, wurden von den Aegyptern und Phöniciern
@@ -633,6 +670,7 @@ Statt des *Altars* zeichnete man auch verschiedene Geräthschaften. In der
 *südlichen Krone* sahn die Griechen Ixions Rad, die Araber ein Zelt, oder einen
 Schild.
 
+<@pagebreak/>
 In einer Gruppe sind die *Hyder*, der *Rabe* und der *Becher* verknüpft. Der Rabe,
 von Apollo ausgeschickt, um zu einem Opfer des Jupiter Wasser zu holen,
 verweilte unterweges zu lange auf einem Feigenbaume, und entschuldigte sich bei
@@ -660,6 +698,7 @@ das Denkmal, das ihm Hevel (1690) in *Sobieski's Schilde* gesetzt hat.
 
 [Seite 402 und 403 fehlt]
 
+<@pagebreak 404/>
 den Tag auf und unter, sondern sie beziehn sich auf den Lauf der Sonne und werden, weil
 sich ihrer vorzüglich die Dichter bedient haben, der *poetische Auf-* und *Untergang*
 der Gestirne genannt. Aber unter dieser Bezeichnung werden drei verschiedene
@@ -685,7 +724,9 @@ sich daher die Sonne auf ihrer jährlichen Bahn dem Sterne so weit genähert hat
 daß sie nur noch 10° unter dem westlichen Horizonte ist, wenn der Stern
 untergeht, so wird dieser unsichtbar und bleibt es, bis sich die Sonne wieder
 so weit nach Osten entfernt hat, daß sie 10° unter dem östlichen Horizonte ist,
-wenn der Stern aufgeht. Jener Zeitpunkt ist der heliakische Untergang, dieser
+wenn der Stern aufgeht. Jener Zeitpunkt ist der heliakische Untergang, 
+<@pagebreak/>
+dieser
 der heliakische Aufgang. Bei kleineren Sternen ist die Entfernung größer, so
 daß die Sonne 18° unter dem Horizonte sein muß, wenn alle Sterne sichtbar sein
 sollen (vergl. S. 124.). Wird nicht von einzelnen Sternen, sondern von einem
@@ -712,7 +753,9 @@ angehörte unter einander geworfen hätten.
 
 Bei einer solchen Verwirrung und Ungewißheit kann es nicht befremden, daß man
 in den Sternbildern des Thierkreises bald eine Beziehung auf das Klima
-Aegytens, bald auf die Klimate Chaldäa's, Baktriens, oder Indiens zu sehen
+Aegytens, bald auf die 
+<@pagebreak/>
+Klimate Chaldäa's, Baktriens, oder Indiens zu sehen
 glaubte; daß ihre Bildung bald einige Jahrhunderte, bald Jahrtausende vor
 Christus statt gefunden haben soll.
 
@@ -742,7 +785,9 @@ verglichen. Es ist zwar möglich, daß die Anzahl der letztern in einiger
 Beziehung auf jene stehe, allein diese Untersuchung ist unsrem Plane fremd.
 Jetzt deutet man gewöhnlich die 12 Zeichen auf Gegenstände des Ackerbaues. Am
 besten paßt alsdann die jetzige Anordnung auf das Klima von Chaldäa, wo sie
-1000 — 2000 Jahre vor Christus eingeführt sein kann. Die drei *Frühlingszeichen*
+1000 — 
+<@pagebreak/>
+2000 Jahre vor Christus eingeführt sein kann. Die drei *Frühlingszeichen*
 — statt der Zwillinge ein Paar Ziegen — deuten auf die Wurfzeit der Schafe,
 Kühe und Ziegen; der *Krebs* ist kein unpassendes Bild für die zurückkehrende,
 wie der *Steinbock* für die wieder heraufsteigende Sonne. Die *Jungfrau* mit der
@@ -765,7 +810,9 @@ hat. Die drei folgenden Zeichen deuten auf die Viehzucht und den Ackerbau. Die
 wieder beginnende Hitze im Januar, die Ernte im Februar, die Gleichheit der
 Tage und Nächte im März, die Krankheiten im April und die aus Aethiopien
 kommenden Stürme im Mai konnten durch den *Löwen*, die *Jungfrau*, die *Wage* u. s.
-f. bezeichnet werden. Wie sehr hier alles schwankend ist haben wir schon oben
+f. bezeichnet werden. Wie sehr hier 
+<@pagebreak/>
+alles schwankend ist haben wir schon oben
 angedeutet, und was wir von den einzelnen Sternbildern sagen werden, bestätigt
 dieses noch mehr.
 
@@ -791,7 +838,9 @@ der siebente, *Elektra*, erst nach Troja's Brande erschienen sei. Nachher kamen
 *Atlas* und seine Gemahlin *Plejone* hinzu, so daß die 9 Hauptsterne des
 Siebengestirns nach Atlas und seiner Familie benannt sind, indeß sind jetzt
 darin nur sechs von der 5ten bis 6ten Größe sichtbar der siebte soll »mit
-fliegenden Haaren« davon gegangen sein, d. h. wahrscheinlich als Komet, welches ohne Zweifel auf einer
+fliegenden Haaren« davon 
+<@pagebreak/>
+gegangen sein, d. h. wahrscheinlich als Komet, welches ohne Zweifel auf einer
 Täuschung beruht. Sehr verbreitet bei den Arabern und Deutschen ist die Benennung
 das *Huhn* und die *Küchlein*, weil ein Stern dritter Größe, *Alcyone*, von kleinern
 umgeben ist. Der griechische Name, die *Plejaden*, der ursprünglich wol nur *viele
@@ -815,6 +864,7 @@ Rückwärtsgehn der Sonne, sowohl in der Sommer-, als in der Wintersonnenwende!
 denn der Skarabäus geht nicht rückwärts. Der Krebs hat nach den griechischen
 Fabeln seinen Ehrenplatz erworben, weil er die von Jupiter verfolgte
 Nymphe Garamantis durch sein Kneipen aufhielt, oder auch
+<@pagebreak/>
 weil er dem Herkules im Kampfe mit der lernäischen Schlange hinderlich war. Er
 wurde zwar von ihm zertreten, aber von Juno unter die Sterne versetzt.
 
@@ -845,6 +895,7 @@ Der *Skorpion* ist ein schönes Bild für die Seuchen und verderblichen Winde, d
 in manchen Jahreszeiten wüthen. Er wird auch in den Mythus von Orion verwickelt
 (S 397.).
 
+<@pagebreak/>
 Der *Schütz*, ein Centaur mit Bogen und Pfeil, der sich dadurch von dem
 eigentlichen, nicht sehr weit entfernten und mit einem Speer bewaffneten
 Centauren unterscheidet. Auch auf ihn werden die verschiedenen Centauren der
@@ -873,7 +924,9 @@ zu einer lieblichen Dichtersage geworden ist.
 <h3>Hilfsmittel, den Sternhimmel kennen zu lernen.</h3>
 
 Ehe wir zu den Eigenschaften der einzelnen Sterne übergehn können, müssen wir
-uns erst mit ihrer Lage am Himmel bekannt gemacht haben, wie wir uns auch auf
+uns erst mit ihrer Lage am Himmel bekannt gemacht haben, wie wir 
+<@pagebreak/>
+uns auch auf
 der Erde erst eine Uebersicht aller Länder verschaffen müssen, ehe wir die
 Eigenthümlichkeiten der einzelnen Gebiete untersuchen können. Aber so schwer
 die übrigen Theile der Astronomie sind, so leicht ist dieser, und dieß ist
@@ -899,6 +952,7 @@ worden, allein die Schwierigkeit und die Kosten, die ihre Verfertigung
 verursacht, so wie die Leichtigkeit denselben Zweck auf eine einfachere Weise
 zu erreichen, stand ihrer Verbreitung entgegen.
 
+<@pagebreak/>
 Viel bequemer ist die Verfertigung und der Gebrauch der *Himmelsgloben*, die auf
 eine ähnliche Weise eingerichtet sind, wie die Erdkugeln. Man bezeichnet
 nämlich zwei entgegengesetzte Punkte an der Kugel, zieht zwischen ihnen den
@@ -923,7 +977,9 @@ durch den einen Stern geht, dreht darauf die Kugel so lange um ihre Achse, bis
 der andre Stern durch den Meridian geht, und bezeichnet auch hier den Punkt des
 Aequators, so gibt der Unterschied in der Lage beider Punkte unmittelbar den
 Bogen zwischen beiden Sternen. Aus diesem läßt sich leicht die Zeit berechnen,
-die zwischen der Kulmination beider Sterne verfließt. (Vergl. S. 72 — 80.).
+die zwischen der Kulmination 
+<@pagebreak/>
+beider Sterne verfließt. (Vergl. S. 72 — 80.).
 Dieser Zweck wird auch noch durch eine kleine um den Nordpol angebrachte
 Scheibe erleichtert, an welcher man unmittelbar den Stundenwinkel (S. 81.)
 ablesen kann. Wünscht man den Unterschied in der geraden Aufsteigung eines
@@ -947,7 +1003,9 @@ diejenige Lage zum Horizont, welche die Himmelspole in Berlin haben, und lasse
 sie in dieser Stellung unbeweglich, drehe dann die Kugel so, daß der eine Stern
 im Meridiane steht, und dann wiederum nach der Ordnung der Zeichen bis der
 andre Stern im Horizonte ist. Der Bogen zwischen den Durchschnittspunkten des
-Meridians und des Aequators, der durch die kleine oben erwähnte Scheibe
+Meridians und des Aequators, der durch die kleine oben erwähnte 
+<@pagebreak/>
+Scheibe
 gefunden wird, gibt die Anzahl der zwischen beiden Erscheinungen verflossenen
 Zeit. Nimmt man statt des ersten der beiden Sterne die Sonne, so findet man
 die Zeit des Auf- und Untergangs der Sterne. Man sieht, daß durch diese
@@ -975,7 +1033,9 @@ einiger Himmelserscheinungen erinnern.
 
 Der Pol ändert seine Lage über dem Horizonte gar nicht; die Sterne ändern diese
 zwar, behalten aber ihre Lage zum Pole bei. Da er etwa 52° über unserm
-Horizonte steht, so werden alle Sternbilder, die keine 52° von ihm entfernt
+Horizonte steht, so werden alle 
+<@pagebreak/>
+Sternbilder, die keine 52° von ihm entfernt
 sind, bei uns niemals untergehn. Zu diesen gehören die beiden Bären, der
 Drache, Cepheus, Kassiopea u. a. Diese Sternbilder, die wir in jeder heitern
 Nacht vor Augen haben, sind also leicht zu lernen, und an sie können dann die
@@ -999,7 +1059,9 @@ Sternbilder des Thierkreises nach der Reihe über uns wegziehen; auf die
 Zwillinge folgt der Krebs, auf diesen der Löwe u. s. f. Da ihrer 12 und im Tage
 24 Stunden sind, so wird jedes folgende Zeichen immer ungefähr 2 Stunden später
 aufgehn, kulminiren und untergehn. Nun legt aber die Sonne in diesen
-Sternbildern täglich etwa 1°, oder monatlich im Durchschnitte ein Sternbild
+Sternbildern täglich etwa 
+<@pagebreak/>
+1°, oder monatlich im Durchschnitte ein Sternbild
 zurück, und zwar ebenfalls nach der Ordnung der Zeichen; wenn also z. B. vor
 einem Monate etwa um Mitternacht die Zwillinge eine gewisse Lage zur Sonne und
 am Himmel hatten, so hat sie jetzt der Krebs, und wieder in einem Monate wird
@@ -1007,6 +1069,7 @@ sie der Löwe haben; die Zwillinge dagegen haben diese Lage jetzt 2 Stunden, und
 im zukünftigen Monate 4 Stunden vor Mitternacht. Nach diesen Grundzügen ist
 folgende Tabelle eingerichtet.
 
+<@pagebreak/>
 <table>
 <tr><td>Januar   </td><td>24</td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td></tr>
 <tr><td>Februar  </td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td><td> 2</td><td>24</td></tr>
@@ -1021,7 +1084,8 @@ folgende Tabelle eingerichtet.
 <tr><td>November </td><td> 4</td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td></tr>
 <tr><td>December </td><td> 2</td><td>24</td><td>20</td><td>22</td><td>18</td><td>16</td><td>14</td><td>12</td><td>10</td><td> 8</td><td> 6</td><td> 4</td></tr>
 </table>
- 
+
+<@pagebreak/>
 Der Gleichförmigkeit willen sind wir in dieser Tabelle der Sitte der Astronomen
 gefolgt, die Stunden von 1 bis 24 zu zählen. Nimmt man etwa Mittag als Anfang
 des Tages an, so bedeutet 12 Mitternacht; 14, 2 Uhr nach Mitternacht; 22, 10
@@ -1043,6 +1107,7 @@ Milchstraße im Scheitel, und in ihr die schönen Sternbilder, den Adler, den
 Schwan, Kassiopea, Perseus, den Fuhrmann u. a.; rechts von der Milchstraße den
 Schlangenträger, die Leier, Herkules, die Krone, Bootes u. a., worunter sich
 mehrere Sterne erster Größe befinden; links neben der
+<@pagebreak/>
 Milchstraße glänzen unter andren Andromeda, Pegasus und der Stier. Im Meridiane
 sind der Wassermann, Pegasus, wozu noch die jeden Abend sichtbaren Sternbilder
 der Bären, des Drachen u. s. w. kommen. Indem man abwechselnd die Karte und den
