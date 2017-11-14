@@ -1,38 +1,39 @@
 Anmerkungen:
+============
 
-<div class="footnote" id="fn1"><a href="03_Kapitel3.xhtml#rn1">1</a>
+<@footnote 1 "03_Kapitel3.xhtml">
      „sechszig“ / „sechzig“ – Beide Schreibweisen vorhanden – einheitlich auf „sechzig“ geändert.
-</div>
-<div class="footnote" id="fn2"><a href="06_Kapitel6.xhtml#rn2">2</a>
+</@footnote>
+<@footnote 2 "06_Kapitel6.xhtml">
      Gelahrtheit, ein veraltetes Wort für Gelehrsamkeit.
-</div>
-<div class="footnote" id="fn3"><a href="07_Kapitel7.xhtml#rn3">3</a>
+</@footnote>
+<@footnote 3 "07_Kapitel7.xhtml">
      „Masaii“ / „Massaii“ / „Massai“ – Drei verschiedene Schreibweisen vorhanden – einheitlich auf „Massaii“ geändert. Eine Begründung für die gewählte Schreibweise erfolgt im weiteren Textverlauf durch den Autor selbst (siehe Anmerkung 10).
-</div>
-<div class="footnote" id="fn4"><a href="08_Kapitel8.xhtml#rn4">4</a>
+</@footnote>
+<@footnote 4 "08_Kapitel8.xhtml">
      „Barrikade“ / „Barikade“ – Beide Schreibweisen vorhanden – einheitlich auf „Barrikade“ geändert.
-</div>
-<div class="footnote" id="fn5"><a href="09_Kapitel9.xhtml#rn5">5</a>
+</@footnote>
+<@footnote 5 "09_Kapitel9.xhtml">
      Schrotkugeln.
-</div>
-<div class="footnote" id="fn6"><a href="10_Kapitel10.xhtml#rn6">6</a>
+</@footnote>
+<@footnote 6 "10_Kapitel10.xhtml">
      „Honig-Hain“ / „Honighain“ – Beide Schreibweisen vorhanden – einheitlich auf „Honighain“ geändert.
-</div>
-<div class="footnote" id="fn7"><a href="10_Kapitel10.xhtml#rn7">7</a>
+</@footnote>
+<@footnote 7 "10_Kapitel10.xhtml">
      „Galladörfer“ / „Galla-Dörfer“ – Beide Schreibweisen vorhanden – einheitlich auf „Galla-Dörfer“ geändert.
-</div>
-<div class="footnote" id="fn8"><a href="11_Kapitel11.xhtml#rn8">8</a>
+</@footnote>
+<@footnote 8 "11_Kapitel11.xhtml">
      Carl Georg Schillings (geboren am 11. Dezember 1865 in Düren-Gürzenich; gestorben am 29. Januar 1921 in Berlin): Mit Blitzlicht und Büchse im Zauber des Eleléscho.
-</div>
-<div class="footnote" id="fn9"><a href="12_Kapitel12.xhtml#rn9">9</a>
+</@footnote>
+<@footnote 9 "12_Kapitel12.xhtml">
      Das Mount-Kenya-Massiv (auch Mount Kenia) ist mit 5199 m das zweithöchste Bergmassiv in Afrika und liegt etwa 140 km nordöstlich von Nairobi. Es ist Namensgeber des heutigen Staates Kenia.
-</div>
-<div class="footnote" id="fn10"><a href="13_Kapitel13.xhtml#rn10">10</a>
+</@footnote>
+<@footnote 10 "13_Kapitel13.xhtml">
      Begründung der vom Autor gewählten Schreibweise „Massaii“, die deshalb auch so für den gesamten Text übernommen wurde (siehe auch Anmerkung 3).
-</div>
-<div class="footnote" id="fn11"><a href="13_Kapitel13.xhtml#rn11">11</a>
+</@footnote>
+<@footnote 11 "13_Kapitel13.xhtml">
      Fehlendes Wort „es“ eingefügt.
-</div>
-<div class="footnote" id="fn12"><a href="14_Kapitel14.xhtml#rn12">12</a>
+</@footnote>
+<@footnote 12 "14_Kapitel14.xhtml">
      „Überschwänglich“ / „Überschwenglich“ – Beide Schreibweisen vorhanden – einheitlich auf „Überschwänglich“ geändert. Diese Schreibweise ist nicht nur nach der Neuen, sondern auch nach der damaligen älteren Rechtschreibung richtig. (Wobei damals – nach Recherchen – wohl beide Schreibweisen üblich waren.)
-</div>
+</@footnote>

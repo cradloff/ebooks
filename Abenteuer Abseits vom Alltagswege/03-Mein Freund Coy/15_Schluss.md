@@ -279,7 +279,7 @@ ergreife des Freundes Hand. Ein letzter Druck seiner Finger.
 
 Coy Cala ist tot. – So starb er.
 
- 
+<@spacer/>
 
 Tuluma mit seiner Horde zog in aller Stille wieder ab.
 

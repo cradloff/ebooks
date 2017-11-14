@@ -119,7 +119,7 @@ läutet und fromme Patres zum Gebet ruft …
 Möglich, daß wir dorthin gelangen, wohin selten jemand gelangt: Zum Herz der
 Welt.
 
- 
+<@spacer/>
 
 __– Ende. –__
 

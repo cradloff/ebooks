@@ -45,7 +45,7 @@ Ich entzog ihm meine Hand, wollte es tun, – und da traf mich wieder dieser ver
 
 Er nickte zufrieden. „Brav von Ihnen, Abelsen, – – sehr brav!“ Seine Hände quetschten die meine noch mehr. „Es gibt Dinge, Abelsen, über die ein ehrlicher Kerl nicht redet, und wenn ihm die Zunge ausgebrannt wird, – und auf das Brennen verstand sich der Hund, der Tucker, den nun hoffentlich schon die Wölfe gefressen haben …“ Seine Augen ruhten auf der zerbeulten Zuckerbüchse. „Hm, was ich noch sagen wollte“, sprang er jäh auf ein anderes Thema über, „Zucker und Mehl wollen wir schonen … sparen … Wir wissen nie, wie lange wir hier in diesem Bergwald hausen müssen, und …“
 
-Er gab meine Hand frei und schritt zum Herd. „… und Zucker und Mehl, – das ist noch eine sehr, sehr dürftige Angelegenheit hier zwischen Mackenzie und dem Großen<a class="refnote" id="rn4" href="99_footnotes.xhtml#fn4">4</a> Bärensee<a class="refnote" id="rn5" href="99_footnotes.xhtml#fn5">5</a> …“
+Er gab meine Hand frei und schritt zum Herd. „… und Zucker und Mehl, – das ist noch eine sehr, sehr dürftige Angelegenheit hier zwischen Mackenzie und dem Großen<@refnote 4/> Bärensee<a class="refnote" id="rn5" href="99_footnotes.xhtml#fn5">5</a> …“
 
 Er schenkte den Becher voll und trank.
 
@@ -53,7 +53,7 @@ Mein Lächeln sah er nicht.
 
 Wir spielten ja gegenseitig so etwas Komödie voreinander.
 
-Dann ging er hinaus, als wäre gar nichts geschehen, und fütterte die Hunde und schaute in die Fenz hinein, wo wir das Karibumuttertier<a class="refnote" id="rn6" href="99_footnotes.xhtml#fn6">6</a> mit dem winzigen Jungtier untergebracht hatten.
+Dann ging er hinaus, als wäre gar nichts geschehen, und fütterte die Hunde und schaute in die Fenz hinein, wo wir das Karibumuttertier<@refnote 6/> mit dem winzigen Jungtier untergebracht hatten.
 
 Ich beobachtete ihn. Auch ich war vor die Tür getreten, und zu meinen Füßen lag die nordische, noch immer sommerliche Wildnis wie ein köstliches Panorama – endlos weit, endlos zart in den Farbentönen.
 
@@ -101,7 +101,7 @@ Dann langte ich dort an, wo ich den Ursprung des steinigen Baches vermutet hatte
 
 Sie waren alt, aber ich habe einen Lehrmeister gehabt, für den ein verschobenes Steinchen eine ganze Geschichte erzählte.
 
-Wieder tagelang mit derselben Vorsicht durch Wälder, jetzt meist nach Nordosten – dorthin, wo nur die große Stille unbewohnter Gegenden lauert, wo im Winter die Wolfsrudel heulen und im Sommer dieselben Wölfe sich zerstreuen und [in]<a class="refnote" id="rn7" href="99_footnotes.xhtml#fn7">7</a> ihrer Familie leben und dick und fett werden, damit sie nachher hungern können. Sie hungern oft … Ich habe ihr klägliches, heiseres Heulen vernommen, als droben an der Franklin-Bucht Umiwarks Verbündete uns hetzten, um die Gondaloor-Millionen zu erringen.
+Wieder tagelang mit derselben Vorsicht durch Wälder, jetzt meist nach Nordosten – dorthin, wo nur die große Stille unbewohnter Gegenden lauert, wo im Winter die Wolfsrudel heulen und im Sommer dieselben Wölfe sich zerstreuen und [in]<@refnote 7/> ihrer Familie leben und dick und fett werden, damit sie nachher hungern können. Sie hungern oft … Ich habe ihr klägliches, heiseres Heulen vernommen, als droben an der Franklin-Bucht Umiwarks Verbündete uns hetzten, um die Gondaloor-Millionen zu erringen.
 
 Und dann fand ich eine Stelle, an der Blut geflossen war …
 

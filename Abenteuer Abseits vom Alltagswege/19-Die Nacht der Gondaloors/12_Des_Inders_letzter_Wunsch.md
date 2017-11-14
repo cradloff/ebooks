@@ -159,7 +159,7 @@ In der Kajütentür steht ein Fremder …
 
 … Vielleicht wird es etwas heiß hergehen um das Erbe der Gondaloors …
 
- 
+<@spacer/>
 
 Band 20: Das Erbe des Gehenkten.
 

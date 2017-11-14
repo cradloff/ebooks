@@ -71,7 +71,7 @@ Dann errötete sie bis zu den schweißfeuchten blonden Stirnhaaren, und was sie 
 
 Mehr konnte ich nicht hervorquälen … Ich war wie von Sinnen, ich hatte mir eine Verantwortung aufgebürdet, die über meine Kräfte ging.
 
-Und – ich blieb trotzdem – gerade dieser Verantwortung wegen. Ich hatte unter Naturkindern gelebt, deren menschliches Werden und Vergehen etwas so Natürliches war, daß der Eintritt eines neuen kleinen Wesens in diese Welt nicht Anlaß zu einem großen Aufgebot von Ärzten und Pflegerinnen bot. Am Gallegos<a class="refnote" id="rn8" href="99_footnotes.xhtml#fn8">8</a> gab es keine Ärzte, und in Abessinien bei Freund Patumengi, dem Zwergenkönig, erst recht nicht.
+Und – ich blieb trotzdem – gerade dieser Verantwortung wegen. Ich hatte unter Naturkindern gelebt, deren menschliches Werden und Vergehen etwas so Natürliches war, daß der Eintritt eines neuen kleinen Wesens in diese Welt nicht Anlaß zu einem großen Aufgebot von Ärzten und Pflegerinnen bot. Am Gallegos<@refnote 8/> gab es keine Ärzte, und in Abessinien bei Freund Patumengi, dem Zwergenkönig, erst recht nicht.
 
 „Darf – – ich Ihnen nicht beistehen?“, meinte ich möglichst väterlich-gütig. „Bevor ich Stanhoop hole, vergehen Stunden, und Sie können doch unmöglich hier allein dieser … Stunde entgegengehen … Bitte, haben Sie Vertrauen zu mir … Meine Wanderjahre haben mir so manche ärztliche Kunst vermittelt, und …“
 
@@ -135,7 +135,7 @@ Meines Kindes …
 
 Des Kindes der Wildnis, vater- und mutterlos, – kaum in die Welt eingetreten, durch pfeifende Kugeln begrüßt, die Jan Grosch niederstreckten und die auch die Mutter töteten.
 
-In der Hand der blonden Frau ruhte noch die Pistole, mit der [sie]<a class="refnote" id="rn9" href="99_footnotes.xhtml#fn9">9</a> Jim Stanhoops Schatz vor diesen Schurken verteidigt hatte.
+In der Hand der blonden Frau ruhte noch die Pistole, mit der [sie]<@refnote 9/> Jim Stanhoops Schatz vor diesen Schurken verteidigt hatte.
 
 Denn hier in der Hütte auf der Lichtung des toten Waldes hatte Stanhoop sein totes, kaltes Gold verborgen – mit verborgen, und hatte dadurch den Tod herbeigelockt, und der hatte alle niedergemäht, nur das schwarze Weib nicht, das für mich ein Phantom von teuflischer Schönheit war.
 

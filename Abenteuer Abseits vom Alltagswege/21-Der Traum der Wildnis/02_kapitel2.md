@@ -87,7 +87,7 @@ Malcolm Davis, der berühmteste Greifer vom Delta des Mackenzie bis weit nach We
 
 Feind?!
 
-Malcolm hängt im Sattel wie ein Toter … Totenbleich ist dieses ledergegerbte Gesicht, das fünfzehnmal<a class="refnote" id="rn3" href="99_footnotes.xhtml#fn3">3</a> die Mitternachtssonne leuchten sah.
+Malcolm hängt im Sattel wie ein Toter … Totenbleich ist dieses ledergegerbte Gesicht, das fünfzehnmal<@refnote 3/> die Mitternachtssonne leuchten sah.
 
 Seine Linke ist gegen den Leib gepreßt, und was da an seinen Stiefeln hervortropft, ist Blut, ist der edle, verrinnende Lebenssaft.
 

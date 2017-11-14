@@ -362,7 +362,7 @@ vermerkt.“
 Hiermit ist der Schlußstrich gezogen unter das große, schöne, wilde Märchen
 dieses … Südpolpfades.
 
- 
+<@spacer/>
 
 Band 19: Die Nacht der Gondaloors.
 

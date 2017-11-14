@@ -5,7 +5,7 @@ Die Gasfontäne.
 
 … Wenn ich über dieses Land hier hinschreite und den Überreichtum der Vegetation bewundere, wenn ich durch die Oase des Todes droben auf den Hügeln wate, denn dort hat sich der Sand verzweifelt gegen alles Grün bis auf ein paar Palmen gewehrt, – wenn ich in den Wäldern drunten am breiten Seering die zahllosen schillernden, bunten Vögel höre und sehe, denn wie verkehrt ist es doch, den tropischen Vögeln die Kunst des Gesanges abzusprechen, dann erinnern mich die halb im Wasser auf rötlichen Schlammbänken stehenden Marabus (ein Marabut ist ein mohammedanischer Einsiedler oder Heiliger) und vieles andere an einen fernen See auf einer fernen großen Insel, an dem einst meines Freundes Chi Api verborgenes Reich lag. Dann glaube ich, wenn ich die Augen schließe, zwei behaarte Arme um meinen Hals zu spüren und das zärtliche Zwitschern Peter-Mauglis zu vernehmen, der mich so sehr geliebt hat, so treu und innig, wie vielleicht nur Affen lieben können, eben die kleinen, langschwänzigen Kapuzineräffchen …
 
-Mein Freund Fennek kann nicht so zärtlich sein. Das hat ihm die Natur versagt. Genau wie es herbe, kühle Seelen unter den Menschen gibt, die aber vielleicht mehr inneren Gehalt haben als die allzeit überschwänglichen<a class="refnote" id="rn12" href="99_footnotes.xhtml#fn12">12</a> und mit Wort und Gebärde verschwenderischen.
+Mein Freund Fennek kann nicht so zärtlich sein. Das hat ihm die Natur versagt. Genau wie es herbe, kühle Seelen unter den Menschen gibt, die aber vielleicht mehr inneren Gehalt haben als die allzeit überschwänglichen<@refnote 12/> und mit Wort und Gebärde verschwenderischen.
 
 Peter-Maugli, du lieber kleiner Kerl, du warst nicht überschwänglich, dein Herzchen sehnte sich nach Liebe.
 

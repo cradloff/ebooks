@@ -4,3 +4,9 @@
 <#macro footnote note file="">
 <div class="footnote" id="fn${note}"><a href="${file}#rn${note}">↑</a> <#nested></div>
 </#macro>
+
+<#macro spacer>
+<div style="white-space: pre;">
+</div>
+</#macro>
+

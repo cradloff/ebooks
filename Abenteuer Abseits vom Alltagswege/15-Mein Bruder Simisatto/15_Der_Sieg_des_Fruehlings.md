@@ -79,7 +79,7 @@ Daß ich dir alles gab, und daß du es hinnahmst mit glücklichen Augen. Ich hab
 dir eine Stunde Glück geschenkt – dir, – und mir eine reine Erinnerung für mein
 ganzes Leben.“ – –
 
- 
+<@spacer/>
 
 – Gripu stochert mit einem Ast im Lagerfeuer und beobachtet die Bärenkeule, die
 in der Glut am Spieße brozelt und zischt …

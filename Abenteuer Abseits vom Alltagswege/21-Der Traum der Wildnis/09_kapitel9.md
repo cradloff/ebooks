@@ -41,7 +41,7 @@ Von Milli Haynes entdeckte ich nichts. Trotzdem sagte mir eine innere Stimme, da
 
 Und das Biberjunge, das mein Kind gleichfalls gewärmt hatte?! Ich hätte es nicht zurückgelassen, ich hätte es niemals umkommen lassen. Biberköpfe waren hier und dort im flachen Wasser aufgetaucht, und Vater und Mutter Biber hatten sich in der Nähe gehalten. Kaum war ich mit dem Kinde und Bully am Ufer, als die Bibereltern in ihren nunmehr freien Bau kletterten. Das genügte mir.
 
-So glitten wir denn mit der Strömung dahin, erst noch durch Hügelland, dann durch Prärie und Bauminseln, und als mein gutes Auge die ersten Karibuherden bemerkte, atmete ich erleichtert auf und verbarg das Umiak im Gestrüpp einer kleinen Insel, band Bully am Boote als<a class="refnote" id="rn12" href="99_footnotes.xhtml#fn12">12</a> Wächter fest, nahm die eine Büchse und pirschte mich gegen den Wind an die ruhig äsende nächste Herde heran.
+So glitten wir denn mit der Strömung dahin, erst noch durch Hügelland, dann durch Prärie und Bauminseln, und als mein gutes Auge die ersten Karibuherden bemerkte, atmete ich erleichtert auf und verbarg das Umiak im Gestrüpp einer kleinen Insel, band Bully am Boote als<@refnote 12/> Wächter fest, nahm die eine Büchse und pirschte mich gegen den Wind an die ruhig äsende nächste Herde heran.
 
 Es war kein einziges Muttertier mit einem kleinen Jungtier dabei, ich mußte eine halbe Stunde kriechen, bis ich endlich das Gewünschte erspähte. Abseits am Rande einer Nische von Tannen weidete ein Muttertier, – ich war in Schußnähe, aber es widerstrebte mir, mein anfängliches Vorhaben durchzusetzen und das Tier am Hinterlauf durch eine Kugel zum Krüppel zu schießen. Meinen Lasso machte ich fertig, und noch vorsichtiger schob ich mich in die Tannen hinein, sprang plötzlich auf, stürmte vorwärts, und die Lassoschlinge glitt über das Geweih, – ich hatte gewonnenes Spiel. – Ein Kampf mit einem sich heftig sträubenden Karibu erschöpft alle Kräfte. Diese Spielart der europäischen Renntiere ist kräftiger, hirschähnlicher, – sie gehören ja auch zur Gattung der Hirsche, und das Tier samt dem Jungen zum Bache zu bringen, glückte mir nur durch den einfachen Trick, den ich von Stanhoop gelernt hatte: Junge Tannen an den Flanken befestigen, so daß das Karibu nicht zur Seite ausbrechen kann.
 
@@ -121,7 +121,7 @@ So dachte ich, als ich vorsichtig den Berg hinanklomm.
 
 Noch rauchte der Wald, gelbbrauner Rauch zerflatterte in der klaren Luft, und als ich, mißtrauisch durch die verkohlten Reste der Tannen mich anpirschend, freien nahen Ausblick gewann, da … lagen meine Schlittenhunde neben den Trümmern meines Stalles, faul sich rekelnd, und doch treu – treu, wie nur Hunde es sein können. In der Orkannacht hatten sie mich verloren, und der Instinkt trieb sie dorthin zurück, wo auch ihre Heimat gewesen, wo sie gut behandelt worden waren …
 
-Noch etwas sah ich, und der Mann, der dort neben der geborstenen, verkohlten Hütte stand, erschien mir wie eine Neuschöpfung aus alten Kinderträumen, wie die neu erwachte Romantik glücklicher Knabentage, in denen ich mit fiebernden Pulsen die Romane eines Cooper im Originaltext gelesen hatte. Niemals wird man<a class="refnote" id="rn13" href="99_footnotes.xhtml#fn13">13</a> diesem Schilderer verflossener Indianerromantik gerecht werden können, wenn man lediglich die deutschen oder schwedischen gekürzten Ausgaben seiner Werke liest. Keiner vor ihm, keiner nach ihm wird ihn je erreichen, seine berühmtesten Werke sollten weit mehr Volksgut werden, als sie es bisher gewesen.
+Noch etwas sah ich, und der Mann, der dort neben der geborstenen, verkohlten Hütte stand, erschien mir wie eine Neuschöpfung aus alten Kinderträumen, wie die neu erwachte Romantik glücklicher Knabentage, in denen ich mit fiebernden Pulsen die Romane eines Cooper im Originaltext gelesen hatte. Niemals wird man<@refnote 13/> diesem Schilderer verflossener Indianerromantik gerecht werden können, wenn man lediglich die deutschen oder schwedischen gekürzten Ausgaben seiner Werke liest. Keiner vor ihm, keiner nach ihm wird ihn je erreichen, seine berühmtesten Werke sollten weit mehr Volksgut werden, als sie es bisher gewesen.
 
 Der Mann, der dort, auf seine lange Flinte gelehnt, regungslos verharrte, hätte den hellen Jubel jedes Knabenherzen hervorgerufen.
 
@@ -143,7 +143,7 @@ Während die Rüden mich wie besessen umspringen und ihrer Wiedersehensfreude ü
 
 „Abelsen, – und ich hielt Sie für tot!!“
 
-„Napy, – und ich hielt Sie für den stolzen Delawarenhäuptling Chingachgook<a class="refnote" id="rn14" href="99_footnotes.xhtml#fn14">14</a>!!“
+„Napy, – und ich hielt Sie für den stolzen Delawarenhäuptling Chingachgook<@refnote 14/>!!“
 
 Ich musterte ihn …
 

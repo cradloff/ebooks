@@ -89,7 +89,7 @@ In dieser Umgebung ging mir zum ersten Male das Verständnis dafür auf, wie die
 
 Diese Halle hier, die sicherlich viele tausend Personen faßte, mußte schon allein durch ihre Abmessungen, durch den Glanz ihrer bunten Wandflächen, durch die sprühenden Ornamente ihrer gewölbten Decke die Sinne verwirren. Rechnete man hierzu noch den Isiskult mit seinen geheimen Gebräuchen, seinen dunklen Mysterien hinzu, so erstand ein Einflußfaktor, wie ihn nur noch die Pracht indischer Tempel und türkischer altersgrauer Moscheen aufzuweisen haben dürfte.
 
-Doktor Reginald Forrester als Gelehrter betrachtete das alles von einem weit gekünstelteren Standpunkt aus. Ihm fehlte die Fähigkeit, das Gesamtbild geistig zu verarbeiten, er verlor sich in Kleinigkeiten, er befühlte die Sockel der Statuen, er redete in einem fort, wie ein Wasserfall, Kathedergelahrtheit<a class="refnote" id="rn2" href="99_footnotes.xhtml#fn2">2</a>.
+Doktor Reginald Forrester als Gelehrter betrachtete das alles von einem weit gekünstelteren Standpunkt aus. Ihm fehlte die Fähigkeit, das Gesamtbild geistig zu verarbeiten, er verlor sich in Kleinigkeiten, er befühlte die Sockel der Statuen, er redete in einem fort, wie ein Wasserfall, Kathedergelahrtheit<@refnote 2/>.
 
 Die Ernüchterung kam …
 

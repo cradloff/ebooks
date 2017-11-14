@@ -53,7 +53,7 @@ Es war dunkel um mich her … Der Duft ihres Leibes, ihres überreichen Haares u
 
 Es war ein Traum der Wildnis, ein Traum der Liebe inmitten der weinenden Riesentannen.
 
-Und ganz leise sagte sie da: „Wenn Sie nur ein einziges Mal so … nachsichtig gewesen wären – – droben auf dem Stanhoop-Berg …! Ein<a class="refnote" id="rn16" href="99_footnotes.xhtml#fn16">16</a> einziges Mal so … nachsichtig gewesen wären … Und ich eine Ausgestoßene, nur geduldet, nur immer geduldet …!“
+Und ganz leise sagte sie da: „Wenn Sie nur ein einziges Mal so … nachsichtig gewesen wären – – droben auf dem Stanhoop-Berg …! Ein<@refnote 16/> einziges Mal so … nachsichtig gewesen wären … Und ich eine Ausgestoßene, nur geduldet, nur immer geduldet …!“
 
 „Mädel, – es geschah in bester Absicht“, suchte ich mich recht matt zu verteidigen … „Ich wollte strafen und … bessern, Milli, – – doch das alles mag nun begraben sein … Ich …“
 

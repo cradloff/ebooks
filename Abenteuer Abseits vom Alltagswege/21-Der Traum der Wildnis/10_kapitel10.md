@@ -53,7 +53,7 @@ Und dort – weidete ein Pferd, Millis starkknochiger Brauner, gesattelt, von Um
 
 Trotzdem: Umiwark wußte, was seiner drohte. Umiwark hatte Verbrechen begangen, die ganz Nordkanada kannte. Polizeisender hatten seine Schandtaten nach allen Richtungen hin gefunkt, – man war auch hier in der Wildnis mit der Technik mitgegangen, aber diese Wildnis war zu groß, zu menschenleer, und das Polizeiaufgebot des Norddistriktes verfügte vielleicht über zweihundert Mann: Ein Tröpflein auf einen heißen Stein! –
 
-„Mein Freund, wenn du schreist, kannst du die Länge meines Messers in deinem eigenen Kadaver<a class="refnote" id="rn15" href="99_footnotes.xhtml#fn15">15</a> nachmessen“, sagte ich zu dem Wachposten, als ich auf ihm kniete und ihn warnend kitzelte.
+„Mein Freund, wenn du schreist, kannst du die Länge meines Messers in deinem eigenen Kadaver<@refnote 15/> nachmessen“, sagte ich zu dem Wachposten, als ich auf ihm kniete und ihn warnend kitzelte.
 
 Er ließ sich ruhig fesseln und knebeln. Es war ein Bursche von kaum siebzehn Jahren.
 

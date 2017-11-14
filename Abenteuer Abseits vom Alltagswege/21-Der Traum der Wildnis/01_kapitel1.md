@@ -3,7 +3,7 @@
 Jim Stanhoop, der Trapper.
 --------------------------
 
-In Goldy Lake City (klingt großartig, hatte damals aber nur sechzig Einwohner, vor einem Jahr sogar nur ein Dutzend) als der zu leben, der ich bin, wäre wenig ratsam gewesen. Es blieb also bei Oskar<a class="refnote" id="rn1" href="99_footnotes.xhtml#fn1">1</a> Smith, einstigem Koch eines einstigen Walfängers, und da diejenigen, die mein Inkognito hätten lüften können, sämtlich bis auf den alten schlauen Fuchs Umiwark, Häuptling des berüchtigten Kupagniut-Eskimostammes, in ein Sonderabteil der Hölle abgerutscht waren, da ferner Umiwark nebst Familienanhang seit der ergebnislosen Jagd auf die Gondaloor-Erbschaft in die Wildnis gegangen war, erfreute ich mich in meiner Blockhütte am Gold Lake ziemlicher Sicherheit.
+In Goldy Lake City (klingt großartig, hatte damals aber nur sechzig Einwohner, vor einem Jahr sogar nur ein Dutzend) als der zu leben, der ich bin, wäre wenig ratsam gewesen. Es blieb also bei Oskar<@refnote 1/> Smith, einstigem Koch eines einstigen Walfängers, und da diejenigen, die mein Inkognito hätten lüften können, sämtlich bis auf den alten schlauen Fuchs Umiwark, Häuptling des berüchtigten Kupagniut-Eskimostammes, in ein Sonderabteil der Hölle abgerutscht waren, da ferner Umiwark nebst Familienanhang seit der ergebnislosen Jagd auf die Gondaloor-Erbschaft in die Wildnis gegangen war, erfreute ich mich in meiner Blockhütte am Gold Lake ziemlicher Sicherheit.
 
 Edward Gondaloor und sein Sohn Ernest taten alles mögliche, mir den Aufenthalt so angenehm wie nur irgend angängig zu machen, trotzdem hatte ich insgeheim Vorsorge getroffen, mich niemals überrumpeln zu lassen. Ich traute Umiwark nicht, und ein einziges Schreiben an die kanadische Polizei in Fort Maupherson hätte genügt, die Beamten, so sehr sie mich auch als Oskar Smith schätzten, gegen mich auf die Beine zu bringen. Nun liegt Goldy Lake City so abseits an einem Nebenflüßchen des Riesenstromes Mackenzie, daß das Auftauchen der schneidigen berittenen Polizei wohl rechtzeitig uns gemeldet worden wäre, denn die benachbarten Fallensteller standen sämtlich mit mir auf du und du und ahnten sicherlich, weshalb ich sie gebeten hatte, vier Schüsse als Signal abzufeuern, falls irgendwo eine Uniform sichtbar werden sollte.
 
@@ -81,7 +81,7 @@ Ein einziger Blick hatte genügt.
 
 Drinnen an einem Balken der Decke hing der grauhaarige Stanhoop in einem Traggestell aus Riemen. Hände und Füße waren gefesselt, aus dem Munde ragte ein Stück Lappen hervor, an den Karibumokassins waren andere Lappen befestigt, die verdächtig tropften, – – nein, der ganze Mann tropfte, und unter ihm stand eine brennende große Küchenlampe.
 
-Ich<a class="refnote" id="rn2" href="99_footnotes.xhtml#fn2">2</a> schlug das Fenster ein, zwängte mich in die Stube, roch sofort das Petroleum und schob die Lampe zur Seite.
+Ich<@refnote 2/> schlug das Fenster ein, zwängte mich in die Stube, roch sofort das Petroleum und schob die Lampe zur Seite.
 
 Stanhoop ließ seine eng an den Leib gezogenen Füße herabgleiten, seine wilden Augen starrten mich dankbar an, und als ich ihn aus seiner unbequemen Lage, die ihn zum Flammentode verurteilt hätte, sobald er die Füße hätte sinken lassen, befreit hatte, taumelte er auf die Ofenbank und strich sich mit der zitternden Hand über den nassen, öligen Kopf hin.
 

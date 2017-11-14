@@ -6,6 +6,7 @@
 </#macro>
 
 <#macro spacer>
-<p> </p>
+<div style="white-space: pre;">
+</div>
 </#macro>
 

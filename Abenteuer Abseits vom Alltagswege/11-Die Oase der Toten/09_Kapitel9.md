@@ -59,7 +59,7 @@ Es ist hier sehr dunkel im Baumschatten, und das ist gut, denn ich glaube, Lizzi
 
 Baumfestung …
 
-Mehmed Saids ruhige Würde spricht mit einigem Stolz von dieser seiner Idee. Zunächst freilich vermag ich kaum zu prüfen, ob diese Idee so überaus glänzend ist. Der Mond hat sich leider verkrochen, und ich finde die Freunde und die Safari-Leute vollzählig auf einer Art Plattform in den oberen Zweigen versammelt. Zu dieser Plattform lieferte die durch einen Sturm kurz abgeknickte Spitze einer Sykomore das Fundament … Man hatte Äste darüber gelegt, man hat Taue aus Baststreifen geflochten und hängende Brücken zu den anderen Stämmen hergestellt. In jedem Baume sitzen zwei Wachtposten, und wenn sie auch zumeist nur Vorderladerflinten haben, die mehr durch ihr Getöse, als durch ihre Rehposten<a class="refnote" id="rn5" href="99_footnotes.xhtml#fn5">5</a> wirken: Ein überraschender Angriff war bisher unmöglich.
+Mehmed Saids ruhige Würde spricht mit einigem Stolz von dieser seiner Idee. Zunächst freilich vermag ich kaum zu prüfen, ob diese Idee so überaus glänzend ist. Der Mond hat sich leider verkrochen, und ich finde die Freunde und die Safari-Leute vollzählig auf einer Art Plattform in den oberen Zweigen versammelt. Zu dieser Plattform lieferte die durch einen Sturm kurz abgeknickte Spitze einer Sykomore das Fundament … Man hatte Äste darüber gelegt, man hat Taue aus Baststreifen geflochten und hängende Brücken zu den anderen Stämmen hergestellt. In jedem Baume sitzen zwei Wachtposten, und wenn sie auch zumeist nur Vorderladerflinten haben, die mehr durch ihr Getöse, als durch ihre Rehposten<@refnote 5/> wirken: Ein überraschender Angriff war bisher unmöglich.
 
 Bisher …
 

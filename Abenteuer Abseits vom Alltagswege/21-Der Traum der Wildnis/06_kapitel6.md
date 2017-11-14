@@ -27,7 +27,7 @@ Ohne Übergang nannte er seinen Namen.
 
 „Zunächst“, sagte ich lächelnd, „quälen Sie sich nicht so übermäßig mit dem Englischen ab … Sie sind Deutscher, und ich spreche auch deutsch, obwohl Sie mir etwas spanisch vorkommen. Schmidt heiße ich.“
 
-„Famos!! Ich bin Österreicher, nein, ich war es … Die Burg meiner Ahnen hat Italien aus Versehen samt ganz Südtirol verschluckt.<a class="refnote" id="rn11" href="99_footnotes.xhtml#fn11">11</a> – Sagen Sie, Herr Schmidt, gibt es hier Wölfe?“
+„Famos!! Ich bin Österreicher, nein, ich war es … Die Burg meiner Ahnen hat Italien aus Versehen samt ganz Südtirol verschluckt.<@refnote 11/> – Sagen Sie, Herr Schmidt, gibt es hier Wölfe?“
 
 „Im Winter übergenug, jetzt nur durch fette Happen. – Wollen Sie Wölfe schießen?“
 

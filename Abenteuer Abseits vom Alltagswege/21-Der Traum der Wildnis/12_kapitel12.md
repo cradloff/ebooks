@@ -31,7 +31,7 @@ Irgendeine dunkle Erinnerung kommt mir da an all die vielen Gerüchte, die über
 
 Sollte ein Zufall mir hier ein paar Leute dieses Volkes in den Weg geführt haben?
 
-Und ich bücke mich über mein Opfer, öffne rasch den Jagdrock, das zweite lederne dünne Untergewand, fürchte einen Herzstich, quellendes Blut zu finden, betaste die Brust, und das Rätsel löst sich: Der Mann ist nur bewußtlos! Der Messerstich hat lediglich einen der hellen Elfenbeinknöpfe seines reichverzierten Rockes [getroffen]<a class="refnote" id="rn17" href="99_footnotes.xhtml#fn17">17</a>, zersplitterte ihn, aber die Kraft des Stoßes übertrug sich auf die Herzgrube, und mein Fausthieb über die Nase gab dem Koloß den Rest.
+Und ich bücke mich über mein Opfer, öffne rasch den Jagdrock, das zweite lederne dünne Untergewand, fürchte einen Herzstich, quellendes Blut zu finden, betaste die Brust, und das Rätsel löst sich: Der Mann ist nur bewußtlos! Der Messerstich hat lediglich einen der hellen Elfenbeinknöpfe seines reichverzierten Rockes [getroffen]<@refnote 17/>, zersplitterte ihn, aber die Kraft des Stoßes übertrug sich auf die Herzgrube, und mein Fausthieb über die Nase gab dem Koloß den Rest.
 
 Eiligst wickelte ich den Lasso von der Hüfte.
 
