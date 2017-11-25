@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID"></entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das schwatzende Herz</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Wahr ist es: nervös, entsetzlich nervös war ich damals und bin es noch. Warum aber müßt ihr durchaus behaupten, daß ich wahnsinnig sei? Mein nervöser Zustand hatte meinen Verstand nicht zerrüttet, sondern ihn geschärft, hatte meine Sinne nicht abgestumpft, sondern wachsamer gemacht. Vor allem hatte sich mein Gehörsinn wunderbar fein entwickelt. Ich hörte alle Dinge im Himmel und auf Erden. Ich hörte viele Dinge in der Hölle. Und das sollte Wahnsinn sein? Hört zu und merkt auf, wie sachlich, wie ruhig ich die ganze Geschichte erzählen kann.
+
+Kurzgeschichte von Edgar Allan Poe</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Edgar Allan Poe</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Poe, Edgar Allan</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename"></entry>
+<!-- Verlag -->
+<entry key="publisher">Pioneer</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FIC029000 FICTION / Short Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Gemeinfrei</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1843</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
