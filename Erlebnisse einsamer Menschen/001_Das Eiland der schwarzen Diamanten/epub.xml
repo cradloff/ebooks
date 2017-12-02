@@ -13,15 +13,15 @@
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description"></entry>
+<entry key="description">Während eines Sturms verschlägt es Fritz und Heinrich mit ihrem Boot auf eine verlassene Inselgruppe an dessen Küste sie scheitern. Dort richten sich die beiden Knaben auf ein Leben als Robinson ein.</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">W. Belka</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Belka, W.</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename"></entry>
+<entry key="filename">Belka, W (001) Das Eiland der schwarzen Diamanten.epub</entry>
 <!-- Verlag -->
-<entry key="publisher"></entry>
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) https://www.bisg.org/bisac/complete-bisac-subject-headings-2015-edition -->
 <entry key="subject">FICTION / Action &amp; Adventure</entry>
 <!-- Rechte/Lizenz (z.B. Public Domain) -->
