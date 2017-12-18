@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">837b8780-e435-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Pirateninsel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">007</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Ich kann mir nicht mehr helfen, Landsmann: so ganz geheuer kommt es mir hier an Bord des „Indus“ nicht vor und zwar seit gestern, wo den chinesischen Kulis im Vorschiff ihr bronzenes, uraltes Götzenbild verschwunden ist, das sie seiner Zeit mit nach Australien geschleppt hatten und jetzt nach Beendigung ihres Kontraktes als Farmarbeiter wieder mit in die Heimat nehmen wollten, um es dort in dem Tempel am Ufer des Hsi-kiang wiederaufzustellen. Die Kulis stammen ja sämtlich aus demselben Dorfe der Provinz Kanton. Ich habe den Engländer Bellerley stark in Verdacht, daß er die Buddhastatue gestohlen hat. Aus seiner Vorliebe für exotische Altertümer macht er kein Hehl, und man weiß ja, wohin eine leidenschaftliche Sammelwut führen kann.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (007) Die Pirateninsel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
