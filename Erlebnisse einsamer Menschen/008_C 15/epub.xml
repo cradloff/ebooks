@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">0bf79320-e43a-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">C. 15</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">008</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die schlanke Motorbarkasse des englischen Kreuzers glitt tänzelnd über die nicht allzu hohen Wogen des Atlantischen Ozeans hin, beschrieb dann einen Bogen und legte an der bereits heruntergelassenen Schiffstreppe des holländischen Frachtdampfers an. Ein Marineleutnant und sechs Mann kletterten flink an Bord des neutralen Schiffes und begannen es nach deutschen oder österreichischen Fahrgästen abzusuchen, obwohl der dicke Kapitän bestimmt versicherte, er habe nichts Verdächtiges an Bord.
+
+Der englische Offizier lächelte überlegen. Und schon zehn Minuten später hatte er einen der Heizer, einen jungen, dunkelhaarigen Menschen, aus dem Maschinenraum an Deck gebracht, wo er mit dem angeblichen Mexikaner, dessen Papiere im übrigen tadellos in Ordnung waren, ein sehr eingehendes Verhör anstellte.
+
+Es war klar: irgend einer der Matrosen der „Rotterdam“ hatte den Verräter gespielt, sicher ein käufliches Subjekt, dem der Engländer durch heimlich zugestecktes Geld den Mund geöffnet hatte.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (008) C 15.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
