@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">85e47790-e43d-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Perleninsel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">010</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Über Herbertshöhe, dem Hauptort und Gouverneurssitz des deutschen Schutzgebietes Neuguinea, der auf der zum Bismarck-Archipel gehörigen Insel Neupommern liegt, senkte sich die laue, helle Tropennacht herab. Ein leichter Seewind ließ die Blätter der hochstämmigen Palmen leise rauschen, säuselte in den nahen Tabakpflanzungen und trug aus dem Eingeborenendorf das Gekreisch und frohe Lachen der Papuas herüber, die sich jetzt nach des Tages Arbeit auf ihre Weise durch Tänze und Spiele die Zeit vertrieben.
+
+Abseits von den sauberen, hellgestrichenen Wohnhäusern und Vorratsspeichern, mehr nach dem Innern zu, liegen die Baulichkeiten der Hamburger Firma Lüders. Ein hoher, mit Ölfarbe gestrichener Wellblechzaun umgibt die fünf Gebäude und die Lagerplätze, von denen eine Feldbahn zum Hafen hinabführt.
+
+Diesen umfriedeten Ort, der den neugierigen Papuas nicht zugänglich war, hatten sich die beiden Gelehrten, die im Auftrage der deutschen und der holländischen Regierung eine Ballonfahrt über Neupommern und das größtenteils noch unerforschte Neuguinea hinweg unternehmen wollten, zur Füllung und Ausrüstung ihres mit dem letzten Dampfer von Europa aus eingetroffenen Ballons ausgesucht.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (010) Die Perleninsel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
