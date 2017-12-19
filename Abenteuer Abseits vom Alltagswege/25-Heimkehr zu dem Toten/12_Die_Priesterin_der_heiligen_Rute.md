@@ -282,13 +282,8 @@ Ich stehe vor Margots Tür …
 Offen diese Tür … Leer das Gemach … Mein Ruf bleibt ohne Antwort. Meine Augen
 finden das flüchtig beschriebene Blatt, das da auf dem Kissen des Bettes liegt.
 
-> Abelsen, Taskamore, ihr alle, die ihr es gut mit mir meintet …! Ihr alle – lebt
-> wohl! Margot Brunce verläßt euch für immer. Vielleicht deshalb, weil sie sich
-> ihrer Schwäche schämt … Ich habe Reginald doch geliebt. Und dann ist da noch
-> etwas, daß ich nicht preisgeben möchte. Meine Gedanken flattern. Es war ein
-> schwerer Kampf … – Sucht mich nicht … Gönnt mir den Frieden. – – Lebt wohl! Ich
-> danke euch.
-> 
+> Abelsen, Taskamore, ihr alle, die ihr es gut mit mir meintet …! Ihr alle – lebt wohl! Margot Brunce verläßt euch für immer. Vielleicht deshalb, weil sie sich ihrer Schwäche schämt … Ich habe Reginald doch geliebt. Und dann ist da noch etwas, daß ich nicht preisgeben möchte. Meine Gedanken flattern. Es war ein schwerer Kampf … – Sucht mich nicht … Gönnt mir den Frieden. – – Lebt wohl! Ich danke euch.
+
 > Margot.
 
 – Das war um Mitternacht. – Wir haben gesucht. Wir haben weder Lord Reginalds

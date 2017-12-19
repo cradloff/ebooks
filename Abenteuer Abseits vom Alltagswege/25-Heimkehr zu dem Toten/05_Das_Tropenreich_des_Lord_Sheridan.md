@@ -46,9 +46,9 @@ das rege Gedächtnis es mir eingab:
 
 > __Walfang mit Büchse.__
 
-Der fahlgelbe Streifen im Nordwesten schien Taskamore wenig zu besagen.
+> Der fahlgelbe Streifen im Nordwesten schien Taskamore wenig zu behagen.
 
-„Die Sonne zieht Wasser, El Gento“, sagte er bedächtig und zögerte noch immer,
+> „Die Sonne zieht Wasser, El Gento“, sagte er bedächtig und zögerte noch immer,
 das kleine Boot loszumachen.
 
 – Was alles ist seit jener Morgenstunde geschehen!
