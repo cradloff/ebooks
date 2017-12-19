@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">113b5ac0-e501-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Kastell im stillen Ozean</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">014</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Boot war fast zierlich aus Eichenholz gearbeitet, sauber gestrichen und oben am Rande mit drei Streifen in schwarzer, weißer und roter Farbe geschmückt. Es besaß einen schlanken Mast, dessen Segel jetzt jedoch eingezogen waren, und zeigte an dem eckigen Bugbrett, das mit einer Ziergitterlehne für den Steuerer versehen war, außen den Namen Sellentin und darunter in kleineren Buchstaben den Heimatsort Valparaiso. Ein leicht gewölbtes Verdeck, das vor dem Mast und am Steuer große, aufschiebbare Luken hatte, schützte es vor überkommenden Spritzern.
+
+In diesem einer kleinen Privatjacht sehr ähnlichen Fahrzeug hockte in sich zusammengesunken auf dem Steuersitz ein vielleicht fünfzehnjähriger Knabe, der in einen leichten, bastseidenen Anzug gekleidet war und einen breitrandigen Panamahut auf dem Kopfe hatte. Der schlanke Junge hatte sich an die halb zurückgeschobene Luke gelehnt und starrte mit trostlosen Augen, die aus einem trotz der Sonnenbräune jetzt bleich und verfallen aussehenden Gesicht hervorschauten, auf die im Sonnenlicht glänzende, unendliche Wasserfläche hin.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (014) Das Kastell im stillen Ozean.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">8373d790-e4ff-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der „Zyklop“ auf der Katzeninsel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">013</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Mein Tagebuch.
+
+Auf einer unbekannten Insel.
+
+am 15. Mai 1915.
+
+Ein seltsames Riesengeschenk hat mir heute der Himmel beschert, ganz unerwartet, obwohl Weihnachten noch lange nicht da ist und mein Geburtstag schon zwei Monate zurückliegt.
+
+Ich betrachte dieses Riesengeschenk als ein Paket von enormer Größe, das eine Unmenge mir höchst nützlicher Dinge enthält und das mir daher nur eine gütige Vorsehung gesandt haben kann.
+
+Unter anderem fand ich darin auch ein Buch mit starkem Pappdeckel. Der Deckel und die erste Seite trugen den Aufdruck: „Tagebuch des Kommandanten“, freilich nicht auf Deutsch, sondern auf Englisch.
+
+Aber dieser unbekannte Kommandant hat nicht eine einzige Zeile hineingeschrieben. Der Grund hierfür ist aus den ganzen Umständen, wie das Tagebuch in meinen Besitz gelangte, leicht ersichtlich: Jener Engländer hat nie Gelegenheit gefunden, wichtige Eintragungen zu machen. Er hat eben in seiner Eigenschaft als Führer des „Zyklop“ nichts erlebt, abgesehen von dem Unfall, der ihm sein Fahrzeug entriß und mich auf so sonderbare Art bereicherte.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (013) Der Zyklop auf der Katzeninsel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
