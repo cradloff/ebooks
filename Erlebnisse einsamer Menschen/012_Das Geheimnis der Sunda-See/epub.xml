@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">3f0c5e80-e502-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis der Sunda-See</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">012</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Bei der Abendtafel erschienen im Speisesaal der Ersten Kajüte von den 85 Fahrgästen nur noch drei Herren und zwei Damen: die beiden Ehepaare Söllner und Bergstedt und der junge Morwitz. All’ die übrigen hatten es vorgezogen in ihren Kabinen zu bleiben, da den meisten infolge der Seekrankheit schon der Gedanke an Speisen zur Zeit mehr als widerwärtig war.
+
+Heinz Morwitz wandte sich, nachdem die Fleischbrühe gereicht war, an Frau von Bergstedt, die den geschniegelten, eingebildeten Menschen durchaus nicht leiden konnte, ihm aber aus Höflichkeit hin und wieder Rede und Antwort stehen mußte.
+
+„So ein zweitägiger Sturm in der Sunda-See zeigt erst, wer wirklich seefest ist, nicht wahr, gnädigste Baronin? Heute kann man hier mit Recht sagen: In den öden Speisesälen wohnt das Grauen …!“
+
+„Mit dieser Verbesserung seiner „Glocke“ dürfte Schiller kaum einverstanden sein“, meinte die ebenso schöne wie unnahbare Frau von Bergstedt ablehnend.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (012) Das Geheimnis der Sunda-See.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
