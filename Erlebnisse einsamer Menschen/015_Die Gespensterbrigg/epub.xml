@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">c9785a80-e68b-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Gespensterbrigg</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">015</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Eine wahre Backofenglut lag über der nur unter einer leichten Dünung träge hin und her schwappenden See. Und der Motorkutter „Phönix“ taumelte auf der im Sonnenglast flimmernden Wasserfläche wie ein Trunkener hin und her. –
+
+Auf dem kleinen, von einem Sonnensegel überspannten Hinterdeck saßen zwei Herren in weißen Leinenanzügen. Ein dritter hantierte in dem Maschinenraum mit Schraubenschlüssel und anderen Werkzeugen herum.
+
+„Na, Manhard, haben Sie den Motor wieder zurechtgedoktert?“ fragte jetzt einer der beiden auf Deck, indem er sich vorbeugte, um durch die Luke in den Verschlag hinabzusehen, wo der vierzylindrige Benzinmotor aufgestellt war, der dem schlanken „Phönix“ eine Geschwindigkeit von gut fünfzehn Seemeilen in der Stunde zu geben vermochte.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (015) Die Gespensterbrigg.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
