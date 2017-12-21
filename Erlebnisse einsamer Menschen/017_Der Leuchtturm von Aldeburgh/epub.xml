@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">d6355bf0-e69b-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Leuchtturm von Aldeburgh</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">017</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die „Gertrud“ kam von einer Vergnügungsfahrt aus Norwegen zurück. Es war die schönste Privatjacht, die je einem Emdener Bürger gehört hatte. Und Franz Karstedt, der jugendliche Inhaber der Firma Karstedt, sagte stets, wenn jemand das schlanke, seetüchtige Schifflein aus Mahagoniholz bewunderte und nach dem Preise fragte, mit einem halb verlegenen Lächeln: „Es ist meine einzige Liebhaberei. Nur der Segelsport reizt mich. In dem Kampf mit dem Meere liegt ja immer etwas abenteuerlich Poetisches.“ – Aber den Preis nannte er nicht. –
+
+Am Abend des 12. August 1914 war’s. Auf dem Hinterdeck der Jacht saßen auf bequemen Liegestühlen Franz Karstedt und seine Gäste, rauchten und plauderten. Wie es mit dem serbisch-österreichischen Konflikt aussah, wußte niemand von ihnen. Seit Abfahrt vom Nordkap am 29. Juli hatte die „Gertrud“ nur zwei Mal an kleinen Inseln der norwegischen Küste angelegt, um ihren Trinkwasservorrat zu ergänzen. Und dort kümmerten die Fischer sich kaum um die Dinge, die in der Welt vorgingen. Sie lebten wie die richtigen Insulaner ihr einsames, anspruchsloses Dasein. – Gewiß – Dampfer und Segler hatte man unterwegs hin und wieder getroffen. Aber es waren alles Frachtschiffe, die von Amerika herüberkamen. Sie anzurufen erschien daher zwecklos. Mit den neuesten Nachrichten von dem Stande der politischen Verwicklungen konnten sie kaum dienen.
+
+Die vier Herren erörterten soeben wieder zum so und so vielten Male die Möglichkeit eines Weltkrieges, der sich aus dem verabscheuenswürdigen Mord in Serajewo ergeben könnte, als vom Vorschiff der Kajütjunge Heinrich Frischel eilig auf seinen Herrn zugelaufen kam, die blaue Tuchmütze mit dem goldenen Anker zog und in seinem seltsamen Gemisch von Hoch- und Plattdeutsch sagte:
+
+„Herr Karstedt, ich wollt’ man seggen, dat ich das Sehrohr von ‘n Unterseeboot eben bemerkt habe.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (017) Der Leuchtturm von Aldeburgh.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
