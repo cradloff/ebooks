@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">IDIDIDIDIDIDIDIDIDIDIDIDID</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Gold-Insel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">016</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Nach dem Begräbnis nahm Herr Aumonier, der Besitzer der größten Maschinenfabrik in Melbourne, den langaufgeschossenen Jungen mit in seinem Wagen nach seiner Wohnung, führte ihn in sein Arbeitszimmer und begann hier in seiner so überaus freundlichen Art, hinter der sich doch so viel kalte, berechnende Selbstsucht verbarg:
+
+„Mein lieber Charles“ – Aumonier bediente sich wie immer der englischen Sprache, obwohl er Franzose war – „wir haben soeben Deinen wackeren Vater, der mir sechs Jahre lang treu als Werkführer gedient hat, zur ewigen Ruhe gebettet. Du stehst nun ganz allein da. Deine Mutter hast Du wohl kaum gekannt, da sie bereits starb, bevor Dein Vater nach Australien auswanderte. Wie gedenkst Du nun Deine Zukunft zu gestalten? – Du könntest doch hier die Schule weiter besuchen und …“
+
+Karl Degner, der in seinem neuen, schwarzen Traueranzug noch dünner und magerer als gewöhnlich aussah, erlaubte sich schon an dieser Stelle den bisherigen Brotherrn seines plötzlich verstorbenen Vaters zu unterbrechen.
+
+„Ich werde nach meiner Heimat zurückkehren“, sagte er kurz, denn er liebte den süßlichen Herrn Aumonier keineswegs. „Bitte zahlen Sie mir also die Ersparnisse aus, die mein Vater gemacht und Ihnen zur Verwaltung übergeben hat. Dann werde ich allein weiter für mich sorgen. Wenn ich auch erst sechzehn Jahre bin, so besitze ich doch schon genügend Erfahrungen, um meine Zukunft selbst in die Hand nehmen zu können.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (016) Die Gold-Insel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
