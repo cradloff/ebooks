@@ -1,6 +1,3 @@
-<div class="hidden">
-<#include "pagebreak.ftl">
-</div>
 <h2>De letzte Feide.</h2>
 
 <h3>(20. Juni 1559.)</h3>
@@ -22,7 +19,7 @@ un dat Blot dat krop un steeg;
 doch de Ogen gungn mit Tran'n æwert Land,
 un de Mund weer stumm un sweeg.
 
-\<@pagebreak 164/>Denn wit umher de Besten ut Land,
+<@pagebreak 164/>Denn wit umher de Besten ut Land,
 in Fręden un Strit vœrut,
 de legen nu dot oppet Feld vun Heid
 un stumm ünner Asch un Schutt.

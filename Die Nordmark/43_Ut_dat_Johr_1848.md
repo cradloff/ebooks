@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Ut dat Johr 1848.</h2>
 
 <h3>Von C. N. Schnittger.</h3>
@@ -20,7 +19,7 @@ in Berlin un toletzt ok bie uns. Un wat dat schlimmste dabie wer:
 Dat kem uns alles so öwer den Hals un wer uns so nie, dat
 wi gornich recht wußten, wo wi uns dabie hebben soll'n.
 
-\<@pagebreak 189/>
+<@pagebreak 189/>
 »Das Volk steht auf, der Sturm bricht los -- Freiheit und
 Gleichheit hört man schallen, der ruhige Bürger greift zur Wehr.«
 -- Ja, so har man dat lesen in de Böker, so mut et denn jawol
@@ -63,7 +62,7 @@ Namen Goos.
 Awer dat Exerzeern is nich de Hauptsak bie dat Militär, da
 hört noch mehr to, un dat is: de Taktik. De Taktik wur up't
 Rathus bedrewen, da wer ümmer Börgerversammlung. Da wur 
-\<@pagebreak/>
+<@pagebreak/>
 denn nu utmakt, dat in't Norden von de Stadt Pallisaden uprichtet
 warn sull'n, um de Dänen to möten. Achter de Pallisaden
 sull'n denn de Börgers stahn un de Dänen, so as se ankemen, dootscheten.
@@ -105,7 +104,7 @@ stahn Bettstellen, dar willn wi uns inleggen.« De Schlachter meente:
 un antworte: »Min lewe Jung, da mut man sick in son
 Tied, as worin wi leben, nix ut maken, wi leben nu up en Kriegsfoot.«
 Un so setten unse beide Helden ehre Gewehre an de Wand 
-\<@pagebreak/>
+<@pagebreak/>
 un lehen sick hen to slapen, un as de Aflösung keem -- do leh
 de sick dahen.
 
@@ -148,7 +147,7 @@ Dat ging awers ja nich, denn he beschützte »den heimatlichen Herd«.
 Nu kem de Fru up en gude Gedanke. Se sette en Schöttel mit
 warme Appelkoken in en Korf un schickte dat Mäten damit hen na
 de Wach. Wiel de Mann, de se hebben sull, gerade Posten stun, 
-\<@pagebreak/>
+<@pagebreak/>
 setten sin Kameraden de Schöttel up en klene Schapp, wat an en
 Nagel an de Wand hung. As nu aflöst is, will unse Fründ sin
 Appelkoken sick dahl langen, awer dat Schapp hung en beten hoch,

@@ -1,5 +1,4 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 151/>
+<@pagebreak 151/>
 <div class="img"><img alt="Bauer auf seinem Feld, mit zwei Pferden und einem Schwert in der Hand" src="0159.gif"/></div>
 
 <h2>Die Schlacht bei Hemmingstedt.</h2>
@@ -36,7 +35,7 @@ die Stadt fiel wehrlos in der Feinde Hand; wehrlos ward,
 was von Greisen, Kindern und Weibern nicht hatte entfliehen wollen
 oder können, ein Opfer der Kriegswut. So war fast die Hälfte des
 Landes und sein alter Hauptort ohne den geringsten Verlust dem 
-\<@pagebreak/>
+<@pagebreak/>
 fürstlichen Heere zugefallen. Hier rasteten die Fürsten; das Kloster
 ward zum Hauptquartier, die Stadt und die umliegenden Ortschaften
 lagen voll Kriegsvolk; drei brennende Dörfer leuchteten die
@@ -78,7 +77,7 @@ reinigen und die ausgegrabene schwere Kleie auf den Fahrdamm
 hatten werfen lassen, bei nassem Wetter vollends unergründlich geworden.
 Hier, wo ein alter Erdaufwurf, der durch mancherlei Spukgeschichten
 zu dem Namen »Dusenddüwelswarf« gelangt war, den 
-\<@pagebreak/>
+<@pagebreak/>
 Weg durchschnitt, ließ jetzt einer der Achtundvierziger, Wulf Isebrant,
 der im Auslande einige Kriegserfahrung gesammelt hatte,
 eine Schanze aufwerfen, zu der Geschütz aus der nahen Norderhamme
@@ -120,7 +119,7 @@ Plötzlich entstand in dem langsam aber doch beständig fortschreitenden
 Zuge eine Hemmung; von vornher erdröhnte Kanonendonner.
 Alles stockte; im Schlamm bis an die Knie steckend hielt
 der Zug. Noch getröstete man sich, die Garde werde schon aufräumen. 
-\<@pagebreak/>
+<@pagebreak/>
 Sie tat, was sie konnte; sie stritt ihres Ruhmes wert. -- Die erste
 Überraschung war groß aber kurz. Das Geschütz ward aufgefahren.
 Spieße und Faschinen wurden über die Gräben gelegt; die Schlachtordnung
@@ -161,7 +160,7 @@ den Röchelnden in den nächsten Graben. Erst als sie den Führer
 nicht mehr sahen, wankte der Garden Kriegszucht. Wie aus der
 Erde wuchsen die Dithmarscher hervor; furchtbar umdröhnte der Ruf:
 »Wahr di, Garr, de Bur de kummt!« die sicherem Tode Geweihten. 
-\<@pagebreak/>
+<@pagebreak/>
 Stehen bleiben hieß den Untergang unfehlbar machen; die Trümmer
 der Garde erkämpften sich die Flucht.
 
@@ -204,7 +203,7 @@ Garde, Unzählige von dem Bürger- und Bauernaufgebot, fünfzig
 Rendsburger Bürger, das ganze fehmarnsche Aufgebot bis auf vierzehn.
 Schwerer als die Mietlinge und Bürger verschmerzte man
 die Blüte des Adels, die dort in jäher Ernte niedergemäht war. 
-\<@pagebreak/>
+<@pagebreak/>
 Beide Grafen von Oldenburg, 50 dänische, 50 märkische, über 200
 schleswig-holsteinische Edelleute waren gefallen, allein 20 Poggwische,
 Hans von Ahlefeldt mit 10 Geschlechtsgenossen; keine adelige Familie,

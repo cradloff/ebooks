@@ -1,5 +1,4 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 42/>
+<@pagebreak 42/>
 <div class="img"><img alt="Herrenhaus an einem See eingerahmt von Bäumen" src="0050.gif"/></div>
 
 <h2>Der Sachsenwald.</h2>
@@ -30,7 +29,7 @@ angesehen werden. Sie wird allerdings nur von den Ausläufern
 des Sachsenwaldes berührt. Der eigentliche Sachsenwald bedeckt
 eine Gesamtfläche von 6175 ha mit einem Umfang von reichlich
 40 km. Der Wald wird von Chausseen und zahlreichen Wegen 
-\<@pagebreak/>
+<@pagebreak/>
 durchschnitten. Von Osten nach Westen durchfließt ihn die Au,
 die sich bei Aumühle in die Bille ergießt. Das anmutige Tal dieses
 Bächleins begleitet die Berlin-Hamburger Eisenbahn, die den Wald
@@ -72,7 +71,7 @@ Der vorherrschende Baum des Sachsenwaldes ist die Buche,
 die hier allerdings nicht die stattliche Höhe und Schönheit ihrer
 Schwester auf dem fruchtbaren Boden des Ostens erreicht. Auf
 lehmigem Boden sind schöne Eichenbestände, auf sandigem Boden 
-\<@pagebreak/>
+<@pagebreak/>
 herrscht Nadelholz vor, und in den sumpfigen Niederungen des
 Sachsenwaldes gedeihen Erlen, Birken und Sahlweiden. Durch Fürst
 Bismarck wurde eine planmäßige Forstwirtschaft eingeführt. Zur

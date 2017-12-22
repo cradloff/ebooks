@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Marsch- und Geestbauer.</h2>
 
 <h3>Von K. v. d. Eider.</h3>
@@ -11,7 +10,7 @@ Eine dicke Magd in kurzgeschürztem Rock stand in der Hoftür;
 sie hielt den bloßen Arm über die Stirn und schaute blinzelnd nach
 ihrem Herrn aus.
 
-\<@pagebreak 340/>
+<@pagebreak 340/>
 <div class="img"><img alt="Bild des Bauern" src="0348.gif"/></div>
 
 Da kam er die Trift herauf, ein Hüne von Gestalt, groß, breitschulterig,
@@ -55,7 +54,7 @@ Rock an und gewichste Stiefel.«
 wenn er Lackstiefel anhätte.« Mit diesen Worten schob Lehnsmann
 Kätels sich an der Magd vorbei zur Tür hinein.
 
-\<@pagebreak/>
+<@pagebreak/>
 <div class="img"><img alt="Bild des Bauern" src="0349.gif"/></div>
 
 In der besten Stube, der Staatsstube des friesischen Bauern,
@@ -102,7 +101,7 @@ Was macht das Viehzeug?«
 »Alles gut zuwege, Herr Lehnsmann -- wenn Sie mal wieder
 einen Bullen brauchen --«
 
-\<@pagebreak/>
+<@pagebreak/>
 »Ne, ne, lieber Gröhn, kein Mangel, kein Mangel. Frauensleute
 brauchen wir, deftige Frauensleute.« Er schlug sich auf die
 Knie, daß es klatschte und lachte geräuschvoll über den selbstgemachten
@@ -150,7 +149,7 @@ kam der Husumer Schlachter hier vorbei; das war, als der alte
 Pastor noch lebte. Er brachte uns einen Mörbraten; den esse ich
 ganz gern mal, wissen Sie, nicht zu rot gebraten, aber so recht saftig.
 Na, um kurz zu erzählen, ich sage zu Henn Alsen: ›Was hat Er 
-\<@pagebreak/>
+<@pagebreak/>
 denn da für ein Stück Fleisch in dem Wagen? Da steckt ja der
 Kinderkopfsknochen drin, und aussehen tut es, als war' es von
 einem Franzosen.‹ -- ›Ja,‹ sagt Henn, ›das kriegt die Frau Pastor.
@@ -192,7 +191,7 @@ Macht halte ich noch die Zügel -- ich habe Kraft, das können Sie
 mir glauben. -- Da, als wir näher an den Hof 'rankommen, an
 unsere Trift, da werden sie sachter, und ich kriege die Biester wieder
 in die Macht. Da drehe ich mich denn nach meinem Pastor um 
-\<@pagebreak/>
+<@pagebreak/>
 und denke, ob er wohl noch lebt, ob er wohl vor Schreck in Ohnmacht
 gefallen ist, weil er gar nicht schreit und lamentiert. Als ich mich
 umdrehe -- was meinen Sie? -- da sieht mich der Alte seelenvergnügt
@@ -239,7 +238,7 @@ hat auch der Junge etwas abgekriegt. Was soll man nun mit
 solchem Bengel machen? Ich wollte ihn erst Schulmeister werden
 lassen, weil das doch lange nicht so viel kostet; aber er ist man
 schmal von Brust; ich glaube, den ganzen Tag auf die unartigen 
-\<@pagebreak/>
+<@pagebreak/>
 Gören herumzuhauen, das hätte er auf die Dauer nicht ausgehalten.
 Ich sagte mir: Wenn es auch ein bißchen mehr kostet, nachher hat
 er doch als Pastor sein ruhiges Brot.«
@@ -282,7 +281,7 @@ Menschen. Was hat man davon? ›Unser Willem‹ war gar nicht
 da. Und das Essen -- ich hab' mich die drei Tage nicht einmal satt
 gegessen. Sehen Sie, da auf der Kommode liegt noch das Rundstück,
 das ich meiner Altschen als Andenken von Berlin mitgebracht 
-\<@pagebreak/>
+<@pagebreak/>
 habe, damit die Frauensleute auch mal einen Begriff davon haben,
 wie es in der Welt hergeht. ›Knüppel‹ sagen sie in Berlin zu diesem
 Backwerk; nicht größer als mein Daumen ist es. Und von ein paar
@@ -327,7 +326,7 @@ er nicht zu gut. Auch vielen Dank, Herr Lehnsmann.«
 »Kein' Ursach', kein' Ursach'! Sagen Sie mal, hat er schon
 eine Frau?«
  
-\<@pagebreak/>
+<@pagebreak/>
 »Nein, noch nicht, aber es geht los, sobald er eine Stelle hat.
 Er ist versprochen mit Frau Todsen ihrer Tochter aus Husum. Die
 Alte hat das Papiergeschäft auf der Twiete. Sie ist 'ne ganz rare
@@ -370,7 +369,7 @@ nötigen und seine Frau auch, aber die braucht nicht mitzukommen,
 und der Pastor bleibt auch bloß bis nach dem Essen, dann
 lauern die jungen Leute schon darauf, daß er man geht; sie wollen
 doch auch ein bißchen lustig sein. Aber Umgang halten wir mit 
-\<@pagebreak/>
+<@pagebreak/>
 unseren Pastoren nicht, das sage ich Ihnen gleich; das ist uns zu
 umständlich!«
 

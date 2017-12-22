@@ -1,6 +1,5 @@
 <div class="hidden">
-<#include "pagebreak.ftl">
-\<@pagebreak 107/>
+<@pagebreak 107/>
 </div>
 <h2>Graf Rudolf von de Bökelnborg.</h2>
 

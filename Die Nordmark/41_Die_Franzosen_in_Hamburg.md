@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Die Franzosen in Hamburg.</h2>
 
 <h3>Von Therese Devrient.</h3>
@@ -19,7 +18,7 @@ Steinbänken zu beiden Seiten, die von der Haustür auf die Straße
 hinunterführten. Hier saßen wir mit unserem Pudel Cäsar, unseren
 Puppen und Bilderbüchern. Von diesen Steinbänken aus beobachteten
 wir das Leben und Treiben in der Straße, in den 
-\<@pagebreak 173/>
+<@pagebreak 173/>
 Nachbarhäusern, und an dieses Plätzchen knüpften sich so mancherlei
 Erinnerungen ...
 
@@ -63,7 +62,7 @@ unser kleiner Star oben am offenen Fenster auch »Dreckwag« nachrief.
 Der Mann glaubte sich von jemandem verhöhnt, drohte und
 rief: »Töv du man!« (Warte du nur!)
  
-\<@pagebreak/>
+<@pagebreak/>
 Je mehr der Tag vorrückte, desto lebhafter wurde das Rufen,
 Drängen und Rasseln in den Straßen. Die verschiedensten Gegenstände
 wurden zum Verkauf ausgeboten und in so wunderlichen
@@ -105,7 +104,7 @@ steigenden Wassers zu zählen. Ich erinnere mich ganz genau einer
 Nacht, in welcher mein Vater rasch aufspringend rief: »Das wird
 heut' sehr schlimm!« und alle im Hause weckte, um zur Hilfe bereit
 zu sein. Das Gesetz legte jedem Hausbewohner die Pflicht auf, den 
-\<@pagebreak/>
+<@pagebreak/>
 Kellerbewohnern beizustehen und sie bei sich aufzunehmen im Falle
 der Not. Es dauerte auch nicht lange, so hörten wir ein starkes
 Pochen an der Haustür und bald darauf Nachbar Quast sagen:
@@ -142,7 +141,7 @@ gegen unsere Feinde.
 
 Bei der Verteilung der Einquartierung ward uns ein junger
 französischer Offizier überwiesen, der nicht nur Mutter die schwere
-\<@pagebreak/>
+<@pagebreak/>
 Sorge für die Beköstigung eines verwöhnteren Mannes für längere
 Zeit brachte sondern auch noch das Unangenehme hatte, daß
 er keine Silbe Deutsch verstand. Zum Glück hatte Mine, die
@@ -184,7 +183,7 @@ Kind, und wickle es hier auf,« sagte er, mich ernst ansehend. Ich
 tat es und blickte erstaunt bald ihn bald das Geschenk an. Es war
 meines Vaters goldene, dicke Uhr mit dem mit Brillanten eingefaßten
 Zifferblatt; ich kannte sie gut. Vater hatte sie vor einiger 
-\<@pagebreak/>
+<@pagebreak/>
 Zeit versetzen müssen, eine schnell an ihn herangetretene Geldforderung
 zu decken. »Was soll ich denn damit?« fragte ich weinerlich.
 
@@ -228,7 +227,7 @@ die der Wind von diesen Bränden ihm zugeweht hatte, und es wurde
 von unseren jungen Männern mancher ernste Racheschwur bei solch
 kleinen versengten Blümchen geschworen ...
  
-\<@pagebreak/>
+<@pagebreak/>
 Der allgemeine Haß und die Erbitterung gegen die Franzosen
 wuchs mit jedem Tage. Es bedurfte nur eines geringen Anlasses,
 um die besonnensten, ruhigsten Leute zu den unüberlegtesten Schritten
@@ -269,7 +268,7 @@ Bürgern entsponnen. Wir standen zitternd am Fenster und sahen wie
 unser guter Bruder Ludwig mit noch einigen Herren nach der Wache
 abgeführt wurde. Ludwig war totenblaß, seine Kleider zerrissen,
 dennoch winkte er uns freundlich zu; wir weinten und jammerten 
-\<@pagebreak/>
+<@pagebreak/>
 ihm nach. Bald wurde es wieder leer und still auf der Straße; nur
 Fetzen von zerrissenen Kleidern und Blutstropfen auf dem Pflaster
 zeugten von der vorhergegangenen Szene. Abends waren mein
@@ -313,7 +312,7 @@ machten mir auf ihren kleinen Pferdchen, mit weit ausgestreckten
 Beinen, so dicht über der Erde, den Eindruck von Schaukelpferden,
 was mir Mutter in ihrer enthusiastischen Stimmung sehr übelnahm. 
 
-\<@pagebreak/>
+<@pagebreak/>
 Am Abend (des 17. März 1813) war die ganze Stadt erleuchtet,
 und seit langer Zeit wogten wieder einmal singende, frohe Menschen
 durch die Straßen. Wir gingen auch alle nach dem großen Marktplatz,
@@ -356,7 +355,7 @@ kam heraus auf die Straße und sammelte sich in dichten Gruppen,
 um zu überlegen, was zu tun, was anzufangen sei. Mein Bruder
 Ludwig ging zur Bürgerversammlung. Nicht lange, so kehrte er
 zurück, holte seine Hanseatenuniform und seine Waffen, nahm rasch 
-\<@pagebreak/>
+<@pagebreak/>
 Abschied von uns und ging mit vielen anderen jungen Leuten hinaus
 zur Verteidigung der Stadt. Keinem fiel es ein, sie zurückzuhalten.
 Wir waren in banger Erwartung. Da fiel ein Schuß -- dann wieder
@@ -399,7 +398,7 @@ im voraus die Leute so lieb, die uns nach der überstandenen Angst
 gastlich bei sich aufnehmen würden. Wir waren am Ziel. Vater
 hieß uns warten, ging ein paar Stufen hinauf und klingelte. Es
 kam niemand, er klingelte wieder -- nach langer Zeit schloß endlich 
-\<@pagebreak/>
+<@pagebreak/>
 eine Magd verdrießlich die Tür auf, gab kurz Bescheid, ihre Herrschaft
 sei eingeladen, käme erst spät nach Mitternacht nach Hause,
 und schloß ohne weiteres die Tür wieder zu.
@@ -444,7 +443,7 @@ Zimmer. »Fru, kik mol, unse Herr mit sin Kinner!« rief er einer
 alten Frau zu, die ganz verdutzt und erstaunt dasaß.
 
 Während nun Vater erzählte, daß die Franzosen vor den Toren 
-\<@pagebreak/>
+<@pagebreak/>
 seien, daß schon große Kugeln durch die Stadt geflogen wären, daß
 Mutter in ihrer Angst um uns mit ihm hoffte, wir würden hier
 Schutz und Unterkunft finden -- ward er beständig durch Ausrufungen
@@ -487,7 +486,7 @@ dann half sie uns beim Auskleiden und Hinaufklettern, deckte uns
 mit einem wahren Felsendeckbett zu, wünschte »Gute Nacht!« und
 ging auch.
  
-\<@pagebreak/>
+<@pagebreak/>
 Die Sonne schien hell durch die Scheiben, der Kanarienvogel
 schmetterte aus vollem Halse, als wir erwachten. Ich schob rasch die
 weiß und blau karrierten Vorhänge des Bettes auseinander, und
@@ -531,7 +530,7 @@ welche Bestürzung in Hamburg herrsche, daß <span class="g">Belagerungszustand<
 erklärt sei, und daß man binnen drei Tagen auf sechs
 Monate verproviantiert sein müsse, widrigenfalls man aus der Stadt
 gewiesen würde, daß diese strenge Maßregel viele Einwohner vertrieben,
-\<@pagebreak/>
+<@pagebreak/>
 und daß auch sie und der Vater beschlossen hätten, auszuwandern.
 
 »Auswandern,« wiederholte ich mir. Dieses Wort verjagte mir
@@ -577,7 +576,7 @@ hätte, hinauslassen würden. Da folterte sie der Gedanke, sie könne
 ganz von uns getrennt werden, mit solcher Macht, daß sie in unbeschreiblicher
 Angst Abschied nahm und fortstürzte, dem Altonaer
 Tore zu. Noch einige Frauen und Kinder waren ihr gefolgt. Als 
-\<@pagebreak/>
+<@pagebreak/>
 die französischen Soldaten die Flüchtlinge kommen sahen, löste einer
 die Haken des Gittertores los und war im Begriff zu sperren. Wie
 von Sinnen schrie Mine und jammerte, man möchte sie hindurch

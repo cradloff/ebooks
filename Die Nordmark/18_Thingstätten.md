@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Thingstätten.</h2>
 
 Das Volk der Nordmark übte sein Recht in Versammlungen aus,
@@ -25,7 +24,7 @@ so gab dies Veranlassung zum Handel und Verkehr, was
 Kaufleute dorthin lockte, die in der Nähe der Thingstätte ihre Buden
 wie auf einem Jahrmarkte aufschlugen. Im Verlauf der Zeit verwandelte
 sich dadurch die Thingstätte bisweilen in einen Handelsplatz,
-\<@pagebreak 56/>
+<@pagebreak 56/>
 und auf solche Weise sind mehrere der ältesten nordischen
 Städte entstanden. Auf den Thingen wurden auch Privatangelegenheiten
 von Wichtigkeit, wie Übertragungen von Grundstücken, Erbteilungen,
@@ -65,7 +64,7 @@ Gewohnheitsrechte im Gedächtnis zu bewahren, die beständig durch
 die Öffentlichkeit, die in allen Verhandlungen herrschte, dem Volke
 in Erinnerung gebracht wurden. Das Recht wurde auf Thingen
 unter dem Vorsitze des Königs durch die versammelten Thingmänner 
-\<@pagebreak/>
+<@pagebreak/>
 oder durch solche Männer ausgeübt, die wegen ihrer Rechtschaffenheit
 und Erfahrung von dem Volke erwählt wurden, das Richteramt
 zu verwalten. Schon im Voralter scheint die im Mittelalter

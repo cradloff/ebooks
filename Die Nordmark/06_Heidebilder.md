@@ -1,6 +1,3 @@
-<div class="hidden">
-<#include "pagebreak.ftl">
-</div>
 <h2>Heidebilder.</h2>
 
 <h3>Von Detlev v. Liliencron.</h3>
@@ -15,7 +12,7 @@ die Wildgans hoch in raschem Flug.
 Das alte Gaukelspiel: in weiter Runde
 hör' ich Gesang im Wolkenzug.
  
-\<@pagebreak 17/>Verschlafen sinkt der Mond in schwarze Gründe,
+<@pagebreak 17/>Verschlafen sinkt der Mond in schwarze Gründe,
 beglänzt noch einmal Schilf und Rohr.
 Gelangweilt ob so mancher holden Sünde
 verläßt er Garten, Wald und Moor.
@@ -61,7 +58,7 @@ doch ach! wie kurz ist Schein und Licht.
 Ein Nebel tropft, und traurig zieht im Leide
 die Landschaft ihren Schleier dicht.
  
-\<@pagebreak/>Ein Häslein nur fühlt noch des Lebens Wärme;
+<@pagebreak/>Ein Häslein nur fühlt noch des Lebens Wärme;
 am Weidenstumpfe hockt es bang.
 Doch kreischen hungrig schon die Rabenschwärme
 und hacken auf den sichern Fang.

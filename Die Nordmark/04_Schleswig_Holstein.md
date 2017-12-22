@@ -1,5 +1,4 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 5/>
+<@pagebreak 5/>
 <div class="img"><img alt="Blick auf Bauernhof und Windmühle an einem Bach" src="0013.gif"/></div>
 
 <h2>Schleswig-Holstein vor 300 Jahren.</h2>
@@ -29,7 +28,7 @@ Taler, in Schleswig einen halben. Die meisten Waldungen gehören
 dem Landesherrn, und einige derselben reichen fast zur Mast
 von 20 000 Schweinen hin; so fanden z. B. im Jahre 1590 in den
 Rendsburger Holzungen 14 000, in den Segeberger und den
-\<@pagebreak/>
+<@pagebreak/>
 anstoßenden über 17 000, in denen des Stifts Bordesholm 10 000, in
 den Reinfelder 8000, in den Ahrensböker 4000, in den Reinfelder
 und Trittauer Holzungen 8000 Stück Schweine ausreichende Mast.
@@ -70,7 +69,7 @@ eine Menge von Fischteichen; das Kloster Ahrensbök hat allein
 und zumal aus der Ost- und Westsee wird fast das ganze
 Jahr hindurch eine solche Menge von Fischen gefangen, daß die
 durch den Kauf und Verkauf derselben gelöste Summe auf einige 
-\<@pagebreak/>
+<@pagebreak/>
 Tonnen Goldes geschätzt wird. Nicht bloß nach den benachbarten 
 Landen sondern selbst nach den äußersten Gegenden Deutschlands,
 Frankreichs, Italiens und nach noch entfernteren Küsten wird
@@ -113,7 +112,7 @@ Wenn sie selbiges nach ihrem einfachen Rechtsbewußtsein herausgefunden
 haben, kehren sie in den Gerichtssaal zurück; und was
 ihnen dann in Gemäßheit anderer Fälle und ihres natürlichen Urteils
 für Recht erschienen ist, wird sogleich durch einen
-\<@pagebreak/>
+<@pagebreak/>
 Gerichtsdiener den streitenden Parteien verkündigt. Wollen diese sich dabei
 nicht beruhigen, so können sie an die Räte des Fürsten oder an
 das Landgericht appellieren.
@@ -154,7 +153,7 @@ und Lüneburgs erblickt. Es gibt Leute, die glauben, daß dieser
 merkwürdige Berg von dem Teufel aus dem dichtanstoßenden See
 erhoben und dorthin gesetzt sei, woher die Bauern sich auch gegenseitig
 mit den Worten zu schimpfen pflegen: »Daß dich der tue 
-\<@pagebreak/>
+<@pagebreak/>
 plagen, der den Segeberg hat getragen.« Oldenburg war ehemals
 durch Größe und Handel berühmt; die Stadt hatte eine weitläufige
 Burg auf einem aufgeworfenen Hügel, ein ausgezeichnetes Gebäude,
@@ -194,7 +193,7 @@ seines Stiefbruders, Königs Christoph des Zweiten, hierher verlegt,
 wodurch diese Stadt sich in wenigen Jahren außerordentlich gehoben
 hat. Rendsburg ist ein sehr stark befestigter Ort, den die Eider umgibt
 und durchfließt. Mit Hilfe eines Rades wird das Wasser in 
-\<@pagebreak/>
+<@pagebreak/>
 derselben emporgehoben und selbst in die Häuser geleitet. Das
 Schloß hat 3 Türme; es ist von Herzog Johann dem Älteren 1578
 sehr verschönert. Im Westen der Stadt ist ein sehr guter Hafen.
@@ -235,7 +234,7 @@ abbrechen und hat jetzt auf einer Halbinsel das herrliche Schloß
 Hansburg erbaut. Husum ist die wichtigste Nebenbuhlerin von Flensburg;
 der Ort ist ungemein lebhaft; Handel und Gewerbe blühen
 außerordentlich. Der Hafen ist in der Handelswelt berühmt; es 
-\<@pagebreak/>
+<@pagebreak/>
 werden hierher aus Holland, Zeeland, England, Schottland und
 anderen Ländern die verschiedenartigsten Waren gebracht und von
 hier nach Flensburg versandt, so daß sie auf diese Weise von der
@@ -275,7 +274,7 @@ Föhr, Sylt und Jordsand. Nordstrand ist 2 Meilen lang und enthält
 36 350 Demat nebst 3200 Demat Außendeichsland, ferner 22 Kirchspiele
 und 10 sehr gute Reeden. In der Mitte ist ein höher gelegener
 Landstrich, Moor genannt (jetzt Nordstrandischmoor). Gerhard
-\<@pagebreak/>
+<@pagebreak/>
 Rantzau besitzt auf dieser Insel das adlige Gut Morsum. Die
 Einwohner sind gegen Fremde außerordentlich gastfrei; sonst sind
 ihnen die Untugenden unserer Zeit keineswegs fremd. Amrum ist

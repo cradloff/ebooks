@@ -1,5 +1,4 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 129/>
+<@pagebreak 129/>
 <h2>Die Sturmflut in der Ostsee am 13. November 1872.</h2>
 
 <h3>Von Otto Kallsen.</h3>
@@ -41,7 +40,7 @@ Stunden von der Ostsee entfernt liegt, noch von dem Wasser erreicht
 und ein Haus in der Stadt sogar noch verwüstet wurde. Niemand
 war auf ein solches Naturereignis vorbereitet; denn wenn auch alte
 Geschichtsbücher der Hansastädte von einer wilden Flut erzählen, 
-\<@pagebreak/>
+<@pagebreak/>
 die im Jahre 1304 die jetzige Insel Rügen von Pommern abriß,
 so waren seitdem über fünf Jahrhunderte vergangen, und die Begebenheit
 haftete nicht mehr in der Menschen Gedächtnis. Soweit
@@ -83,11 +82,11 @@ Insel von Holstein trennt, versank das Lotsenhaus mit seinen Bewohnern;
 von dem Dorfe Dahme blieb nur der dritte Teil stehen,
 40 Wohnhäuser zertrümmerte des Wassers Andrang; das kleine 
 
-\<@pagebreak/>
+<@pagebreak/>
 <div class="img pre"><img alt="Ostseestrand mit Böschung und kleinem Boot" src="0139.jpg"/>
 Ostseestrand</div>
 
-\<@pagebreak/>
+<@pagebreak/>
 Rietbruch verschwand ganz; auf dem einzigen Hofe Klostersee ertranken
 350 Kühe. Und ähnlich wie hier bot die ganze weitgestreckte
 Ostseeküste ein Bild der Zerstörung; es war, als ob ein Todesengel
@@ -128,7 +127,7 @@ Kapitän eines französischen Schiffes; der menschenfreundliche Mann
 setzte unter großer Gefahr ein Boot aus, und es gelang ihm, den
 Knaben, der wie durch ein Wunder so lange das Leben gefristet
 hatte, zu retten. Er brachte ihn in den Kieler Hafen hinein, und 
-\<@pagebreak/>
+<@pagebreak/>
 hier erholte sich das Kind unter sorgsamer Pflege so rasch, daß es
 schon nach wenigen Tagen in die Heimat zurückgesandt werden
 konnte.

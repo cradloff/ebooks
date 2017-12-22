@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Altdithmarschens Ende.</h2>
 
 <h3>Von Adolf Bartels.</h3>
@@ -12,7 +11,7 @@ den Beutestücken früherer Siege (unter ihnen der echte Danebrog,
 der vom Himmel gefallen war, und den die dithmarsischen Motten
 doch nicht verschont hatten) und den eigenen der Dithmarscher; ein
 weiterer Wagen führte die Urkunden der Freiheiten und
-\<@pagebreak 157/>
+<@pagebreak 157/>
 Privilegien des Landes herbei, kaiserliche und päpstliche Verfügungen,
 Friedensverträge mit den Holstengrafen, die diese und ihre Nachfolger
 immer wieder gebrochen. Diese alle wollten die Fürsten nun
@@ -52,7 +51,7 @@ und versprochen, verpflichten und versprechen uns hiermit und in
 Kraft dieses Briefes, für uns, unsere Erben und Nachkommen, daß
 wir mit unbewehrter Hand samt unseren Weibern, Kindern und
 Hausgesinde mit einem Fußfall höchst- und hochgedachter
-\<@pagebreak/>
+<@pagebreak/>
 Königlichen Majestät und Fürstlichen Gnaden unsere Demut erzeigen und
 um Verzeihung unserer Missetat und Verhandlung bitten und wir,
 die gewesenen achtundvierzig Verweser des Landes, aller gehabten
@@ -93,7 +92,7 @@ an schönen Tagen. Nein, die Natur trauert nicht um Dithmarschens
 verlorene Freiheit, sie überläßt es den Menschen. Die wissen aber
 auch, was sie verloren, langsam, unendlich langsam geht der Zug,
 als schritte man wirklich hinter einem Sarge; und das fürstliche Heer, 
-\<@pagebreak/>
+<@pagebreak/>
 das dort am Abhang der Geest zwischen Lohe und Rickelshof in
 einem weiten Kreise aufgestellt ist und in die Marsch hinabblickt,
 beginnt fast ungeduldig zu werden.
@@ -135,7 +134,7 @@ Gütern. Was wir zu wissen bekommen, das Ihrer Königlichen
 Majestät und Fürstlichen Gnaden und Ihren Erben und Nachkommen
 zuwider, das wollen wir treulich vermelden, alles, was
 wir uns gegen Ihre Königliche Majestät und Fürstlichen Gnaden 
-\<@pagebreak/>
+<@pagebreak/>
 und Ihre Erben verschreiben, für uns und unsre Erben treulich
 halten und handhaben und uns sonst in allem, als treuen Untertanen
 gebührt, gegen Ihre Königliche Majestät und Fürstlichen
@@ -185,7 +184,7 @@ steht, er winkt ihn heran.
 Markus schaut dem Herzog voll ins Gesicht, so daß diesem fast
 unheimlich wird.
 
-\<@pagebreak/>
+<@pagebreak/>
 »Ja, wenn ich meinem Vaterlande nützen kann. Wir bedürfen
 jetzt eines großmütigen Fürsten.«
 
@@ -227,7 +226,7 @@ alten Geschlechter aber verloren sich, starben aus oder kamen herunter;
 zuletzt waren nur noch die Grabsteine von ihnen übrig, und über
 diese wandelten die Kirchgänger und sprangen die Jungen, bis die
 alten Wappen unkenntlich und die Inschriften unleserlich geworden 
-\<@pagebreak/>
+<@pagebreak/>
 waren. Endlich wußte niemand mehr, welchem Geschlecht er entsprungen,
 wo seine Väter ruhten, und fremdes Blut galt soviel wie
 altes dithmarscher.
@@ -268,7 +267,7 @@ Sonntags in die Kirche, noch lieber in den Krug und erzählten sich,
 wenn der Weststurm über den Deich brauste, von den Taten der
 Väter und den wilden Sturmfluten alter und neuer Zeit. Vergessen
 war das alte Dithmarschen nicht. Da saß, während schon der
-\<@pagebreak/>
+<@pagebreak/>
 Dreißigjährige Krieg an die Pforten des Reiches klopfte, auf der eben landfest
 gewordenen Insel Büsum ein Prediger, der sich Johann Adolfi
 oder Johannes Neokorus Ettahulphides (Adolfssohn), auf gut deutsch
