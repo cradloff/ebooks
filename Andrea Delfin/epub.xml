@@ -6,6 +6,8 @@
 <entry key="UUID">da62c470-69d3-11e5-a837-0800200c9a66</entry>
 <!-- Buch-Titel -->
 <entry key="title">Andrea Delfin</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
