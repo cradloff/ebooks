@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>2. Kapitel.</h1>
 
 <div class="subtitle">Warum der Matrose Towe einen Eierhandel anfangen will. &mdash; Wie der Pastorsohn
@@ -7,7 +6,7 @@ ein Schiffsjunge wurde. &mdash; An Bord des »Senator Merk«.</div>
 Eine Woche lang schwebte Kapitän Jaspersen in großer Gefahr; der
 von Husum herbeigeholte Arzt erklärte sich außerstande, für seine Wiedergenesung
 gutsagen zu können. Unter gewöhnlichen Umständen wäre die 
-\<@pagebreak 6/> Kopfwunde nicht sehr gefährlich gewesen; der Patient hatte jedoch so lange
+<@pagebreak 6/> Kopfwunde nicht sehr gefährlich gewesen; der Patient hatte jedoch so lange
 Zeit in der bitteren Kälte und der salzigen Flut zubringen müssen, dass
 die Verletzung dadurch einen bösartigen Charakter angenommen hatte.
 
@@ -52,7 +51,7 @@ Kommando die dritte seiner Seereisen zu machen.
 Paul war des Pastors einziger Sohn. Auf Westerstrand geboren,
 war in dem Herzen des Knaben schon früh die Liebe zur See erwacht.
 Der Vater ließ nichts unversucht, ihn davon abzubringen. Er gab ihn 
-\<@pagebreak/> tief im Binnenlande in eine Pension und ließ ihn dort die Schule besuchen,
+<@pagebreak/> tief im Binnenlande in eine Pension und ließ ihn dort die Schule besuchen,
 allein diese Verbannung fachte die Sehnsucht des Knaben nach
 dem freien blauen Meere, dem windigen, schaumumkränzten Strande mit
 all den Booten und Fischkuttern nur noch heftiger an. Endlich gab der
@@ -96,7 +95,7 @@ kommen könnte? Soll ich an die Reederei schreiben?«
 »Das wird nicht nötig sein, Herr Pastor. Es wäre mir eine große
 Freude, Paul wieder bei mir an Bord zu haben. Ich habe bereits mit
 den Herren im Kontor darüber gesprochen und ihnen erzählt, welchen 
-\<@pagebreak/> Anteil Paul an unserer Rettung gehabt hat. Ich denke, Sie werden
+<@pagebreak/> Anteil Paul an unserer Rettung gehabt hat. Ich denke, Sie werden
 nächster Tage ein Schreiben von der Firma erhalten.«
 
 Dann brachte Jaspersen die Stellung zur Sprache, die Paul an
@@ -147,7 +146,7 @@ Kurse in das deutsche Meer hinaussteuert.
 
 Es gibt nicht leicht einen schöneren Anblick, als ein großes Vollschiff,
 das unter allen Segeln mit einem frischen Backstagswind über die 
-\<@pagebreak/> leichtbewegte See dahinrauscht, auf der weißen, schimmernden Leinwand
+<@pagebreak/> leichtbewegte See dahinrauscht, auf der weißen, schimmernden Leinwand
 die lichte Morgensonne, und jede Leine, jedes Stag und jede Pardune
 in der frostklaren Atmosphäre scharf abgezeichnet auf dem Hintergrunde
 der hellen Luft. Die Passagiere eines vorbeikommenden großen Ozeandampfers
@@ -161,7 +160,7 @@ zur Backbordwache, die von dem Obersteuermann befehligt wurde.
 
 Das Schiff hatte das im Monat Februar seltene Glück, die Nordsee
 und den Kanal mit einem stetigen Nordostwind und bei bestem Wetter
-\<@pagebreak/> zu passieren, und da die Brise auch dann noch günstig blieb, gelangte es
+<@pagebreak/> zu passieren, und da die Brise auch dann noch günstig blieb, gelangte es
 bald aus dem rauen nordischen Klima in eine wärmere Gegend. Hier
 schralte der Wind jedoch nach Süden herum; man musste die Raaen
 scharf anbrassen, die Bulinen ausholen und »bei dem Winde« segeln.

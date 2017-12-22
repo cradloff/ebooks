@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 126/>
+<@pagebreak 126/>
+
 <h1>16. Kapitel.</h1>
 
 <div class="subtitle">Der Boottfahrt Anfang. &mdash; Die Nebelinsel. &mdash; Der Bootfahrt Ende.</div>
@@ -42,7 +42,7 @@ gute Gelegenheit bietet.«
 
 Towe äußerte zwar noch einige Bedenken wegen der Stetigkeit der
 Brise, war dann aber einverstanden, und so jagten sie in brausender
-\<@pagebreak /> Fahrt immer weiter hinaus über die schimmernde, jetzt mit unzähligen
+<@pagebreak /> Fahrt immer weiter hinaus über die schimmernde, jetzt mit unzähligen
 kleinen, schneeweißen Schaumkämmen bedeckte See, der sonnigen Ferne
 zu. Sie hatten ihre innige Freude an dem Gebaren des Bootes, an dem
 Anblick der bewegten See und an dem schönen Wetter, und ließen sich
@@ -54,7 +54,7 @@ Paul saß am Ruder, Towe auf der Ducht am Mast.
 du's?«
 
 »Jowoll,« sagte Towe. »Wi möten en beten nah Süden afholln. Ick 
-\<@pagebreak /> mein', wir hätten dat Land all früher in Sicht kreegen, wenn dor nich
+<@pagebreak /> mein', wir hätten dat Land all früher in Sicht kreegen, wenn dor nich
 Nebel vör west wer.«
 
 »Etwas Nebel ist da noch immer. Das Land ist nicht hoch, die
@@ -102,7 +102,7 @@ herümtorennen, um de Blutzirklatschon nich infreeren to laten.«
 
 »Wenn wir tüchtig rojen, dann sind wir noch vor Abend da,«
 erwiderte der Jüngling zuversichtlich. »Im Notfalle können wir uns 
-\<@pagebreak /> übrigens aus dem Segel ein Zelt machen, das hält dann wenigstens den
+<@pagebreak /> übrigens aus dem Segel ein Zelt machen, das hält dann wenigstens den
 Tau ab.«
 
 Sie mochten eine halbe Stunde gerojt haben, da machte sich von
@@ -151,7 +151,7 @@ weit nach Lee über, dass das Segel Wasser schöpfte. Im nächsten Moment
 rollte eine mächtige Woge heran und begrub es unter sich.
 
 Als Paul wieder an die Oberfläche kam, sah er sich allein und inmitten 
-\<@pagebreak /> der betäubenden Brandung, die wie ein weißgrünes Feuermeer um
+<@pagebreak /> der betäubenden Brandung, die wie ein weißgrünes Feuermeer um
 ihn lohte, toste und zischte. Wohl ruderte und rang er mit Armen und
 Beinen, allein er war ein willenloses Spielzeug der rasenden Flut, die
 ihn jetzt in die Tiefe warf und dann wieder hinaufriss in das weiße

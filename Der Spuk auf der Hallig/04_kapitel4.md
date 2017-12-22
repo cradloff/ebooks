@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>4. Kapitel.</h1>
 
 <div class="subtitle">Die »Hallig Hooge«. &mdash; »Irgendwo steckt hier ein Geheimnis«. &mdash; Was im Logbuch
@@ -20,7 +19,7 @@ mit Unrecht auch das Kap der Stürme genannt wird.
 Seit der Bestrafung des Griechen war das Leben im Mannschaftslogis
 ruhig und friedlich; mit dem Verbannten verkehrte man nur, wenn
 der Dienst dies erforderte. Bei mildem Wetter konnte dieser über sein 
-\<@pagebreak 17/> Quartier im Großboot nicht klagen, die Aussicht aber, auch beim Passieren
+<@pagebreak 17/> Quartier im Großboot nicht klagen, die Aussicht aber, auch beim Passieren
 des Kaps darin zubringen zu müssen, war keine angenehme. Die Mannschaft
 war jedoch fest entschlossen, ihn nicht wieder im Logis aufzunehmen.
 Seine Diebereien hätten die Leute ihm verziehen, aber dafür, dass er das
@@ -69,7 +68,7 @@ sagen Sie mir dann, was mit ihm los ist.«
 »Jawoll Kaptein,« antwortete der Angeredete, dann rief er: »Veer
 Mann in de Boot! Towe Tjarks, Heik Weers un &mdash;«
 
-\<@pagebreak /> »Un ick, Stüermann!« meldete sich Paul eifrig.
+<@pagebreak /> »Un ick, Stüermann!« meldete sich Paul eifrig.
 
 »Ja, Paul Krull un &mdash; o, dor is jo all een in de Boot &mdash; de
 Keerl, de Griek! Na, lat em. Fier' weg!«
@@ -120,7 +119,7 @@ untersuchen. »Paul und ich gehen achteraus in die Kajüte,« sagte er.
 
 Die Matrosen machten sich zögernden Schrittes auf den Weg. Sie
 trauten der Sache nicht und fürchteten, unter Deck auf einen schrecklichen
-\<@pagebreak /> Anblick zu stoßen. Nicht umsonst erzählen sich die Seeleute während
+<@pagebreak /> Anblick zu stoßen. Nicht umsonst erzählen sich die Seeleute während
 ihrer Freiwachen allerlei Geschichten von grausigen Begebenheiten auf der
 weiten, einsamen See, unter denen die eine oder die andere wohl auch
 auf Wahrheit beruht.
@@ -134,7 +133,7 @@ hätten.« &mdash; Sie fanden den Deckel der Kajütskappe zugeschoben. Jaspersen
 stieß ihn zurück. &mdash; »Nun mach' dich auf alles gefasst, Paul,« sagte er;
 »man kann nicht wissen.«
  
-\<@pagebreak /> Sie stiegen die Kampanjetreppe hinab. Unten angelangt, blieben sie
+<@pagebreak /> Sie stiegen die Kampanjetreppe hinab. Unten angelangt, blieben sie
 erstaunt stehen. Die Tafel in der Kajüte war weiß gedeckt und mit Geschirr
 für zwei Personen besetzt. In der Mitte stand eine Schüssel mit
 einem großen Stück gekochten Salzfleisches und eine andere mit weißen
@@ -181,7 +180,7 @@ en lüttes leddiges Fass, wat nah Win rüken ded. Ick denk' mi, dat de
 Lüd sick erst noch mal lustig makt hewwen, ehr se von Bord gahn deden.
 Woans wer dat in de Kajüt', Stüermann?«
 
-\<@pagebreak /> Jaspersen erzählte, was wir bereits wissen und schloss dann: »Wie
+<@pagebreak /> Jaspersen erzählte, was wir bereits wissen und schloss dann: »Wie
 der letzte Mann über Bord gelangt sein mag, das ist mir ein Rätsel.
 Vielleicht ist er gar nicht krank gewesen; vielleicht konnte er bloß die schreckliche
 Einsamkeit nicht ertragen und ist einfach ins Wasser gesprungen.
@@ -199,7 +198,7 @@ innerhalb der Kajütskappe lag, und entzifferte das Signal. Es lautete:
 Hooge‹ wird uns einen hübschen Batzen Bergelohn einbringen, wenn es
 uns gelingt, sie in einen Hafen zu schaffen.«
 
-\<@pagebreak /> Bald befanden die fünf sich wieder an Bord des »Senator Merk«.
+<@pagebreak /> Bald befanden die fünf sich wieder an Bord des »Senator Merk«.
 Der Steuermann teilte seine Wahrnehmungen und Vermutungen dem
 Kapitän mit, während Towe, Heik und Paul die Neugierde der übrigen
 Mannschaft befriedigten. &mdash; Der Schiffer war hocherfreut über die Aussicht,
@@ -248,7 +247,7 @@ gleichem Fuße verkehren zu dürfen.
 
 Als alles an Deck der Hallig geschafft war, ließ Jaspersen die Segel
 trimmen und schickte Paul ans Ruder. Bei der noch immer schwachen
-\<@pagebreak /> Brise begann die Bark langsam ihre Fahrt nach
+<@pagebreak /> Brise begann die Bark langsam ihre Fahrt nach
 dem Kap der Guten Hoffnung. &mdash; »Die Senatorleute
 ins Boot!« rief der Steuermann, dem wir jetzt
 als selbständigem Schiffsführer, den Kapitänstitel wieder verleihen wollen.

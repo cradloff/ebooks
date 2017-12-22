@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>8. Kapitel.</h1>
 
 <div class="subtitle">»Der Geist hat eben wieder geschrien!« &mdash; Neue Havarien. &mdash; Entmastet. &mdash;
@@ -8,7 +7,7 @@ Warum Heik sich bei Towe bedankt. &mdash; Das Quecksilber steigt. &mdash;
 Vier Tage hatte nun schon der Sturm gerast; die Kräfte der kleinen
 Mannschaft waren nahezu erschöpft. Seit dem Beginn des Unwetters
 hatte der Schiffer sich keine Ruhe gegönnt, jetzt endlich aber gelang es 
-\<@pagebreak 47/> der Überredungskunst des wackeren Towe, ihn zu bewegen, die Koje aufzusuchen,
+<@pagebreak 47/> der Überredungskunst des wackeren Towe, ihn zu bewegen, die Koje aufzusuchen,
 und wär's auch nur auf eine Stunde.
 
 »Wenn dat Weder sick ännert, denn so kam ick dal un purr Se ut,«
@@ -56,7 +55,7 @@ ist?« fragte er sich. »Sollten wir dem Verhängnis verfallen
 sein?« &mdash; Gleich darauf kam der Grieche in höchster Eile aus
 der Kombüse achteraus gerannt und tauchte in die Kampanjeluk hinab. 
 
-\<@pagebreak /> »Holen Sie ihn wieder herauf!« gebot der Schiffer.
+<@pagebreak /> »Holen Sie ihn wieder herauf!« gebot der Schiffer.
 
 Towe ging und erschien bald mit Gazzi wieder an Deck.
 
@@ -104,7 +103,7 @@ er sich nicht regen konnte. Wasserfluten rauschten und gurgelten über und
 um ihn, dass er fast schon zu glauben begann, er sei über Bord. Er
 rief um Hilfe, aber seine Stimme war in dem Toben nicht vernehmbar. 
 
-\<@pagebreak /> Das Schiff rollte nach Steuerbord und nahm eine ungeheure See
+<@pagebreak /> Das Schiff rollte nach Steuerbord und nahm eine ungeheure See
 über. Das Wasser hob die auf Paul liegende Last ein wenig empor,
 so dass es ihm gelang, sich freizumachen. Er rappelte sich auf und stolperte
 der Großluk zu. Da hörte er den Schiffer rufen: »Hier sind Äxte, Leute!
@@ -150,7 +149,7 @@ Kanapee, un wi hewwt mitdewil alle Masten äwer Bord smeten.«
 Erbarmen. »Un ick bün en Lubber, en richtigen Landlubber, to nix nich
 mehr to bruken.«
 
-\<@pagebreak /> »Wenn du so damlich snacken doon deist, dennso büst du ok een.
+<@pagebreak /> »Wenn du so damlich snacken doon deist, dennso büst du ok een.
 Din Been kommt bald wedder in de Reih', un schull de ohle Kasten wegsacken,
 ehr du wedder stahn un gahn kannst, dennso drag ick di an Deck,
 dormit dat du sotoseggen in din Beruf starwen kannst, as dat en ehrlichen

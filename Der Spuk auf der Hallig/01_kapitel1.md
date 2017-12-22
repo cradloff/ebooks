@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak />
+<@pagebreak />
+
 <h1>1. Kapitel.</h1>
 
 <div class="subtitle">Das Pfarrhaus zu Westerstrand. &mdash; Im Rettungsboot. &mdash; Die Schiffbrüchigen.</div>
@@ -16,7 +16,7 @@ da ohne dich! Bleibe hier, mein Sohn, der Sturm ist fürchterlich!«
 »Wieder ein Schuss! Ich muss hinaus! Adieu alle!«
 
 Paul umarmte und küsste die Mutter, riss hastig Ölrock und Südwester
-\<@pagebreak/> von der Wand und eilte hinaus in die Sturmnacht, aus der in
+<@pagebreak/> von der Wand und eilte hinaus in die Sturmnacht, aus der in
 diesem Augenblick abermals ein Notschuss windverweht herüberdröhnte.
 
 <hr/>
@@ -62,7 +62,7 @@ Finsternis über der See, in der Gegend des Muschelsandes zeigte sich
 ein gelbes, verwehtes Licht, das Notsignal eines Fahrzeugs.
 
 Als der Pastor und sein Sohn sich dem Bootschuppen näherten, erweiterte
-\<@pagebreak/>sich ihr Sehkreis ein wenig, weil der schneeweiße Schaum der
+<@pagebreak/>sich ihr Sehkreis ein wenig, weil der schneeweiße Schaum der
 Brandung einen gewissen Lichtschein verbreitete, der um so merkbarer war,
 als sich die Gischtmassen der donnernden Fluten bis weit in die See
 hinaus erstreckten.
@@ -122,7 +122,7 @@ Ankerleine zu holen, sobald das Boot sich im brandenden Wasser befinden
 würde. &mdash; Die dichtgereffte Fock schlug und knatterte, als müsse sie demnächst
 in dünnen Fetzen davonfliegen, während die Raa am Maste emporstieg;
 der Sturm schmetterte gellend in die betäubten Ohren der Bemannung, 
-\<@pagebreak/> eine Wolke brüllenden Schaumes umtoste sie, als das Boot in die Brandung
+<@pagebreak/> eine Wolke brüllenden Schaumes umtoste sie, als das Boot in die Brandung
 hineinschoss, im nächsten Moment saßen alle Mann knietief im Wasser,
 dann sprang das Boot auf die Höhe des nächsten Rollers, unwiderstehlich
 vorwärtsgerissen von den eisernen Fäusten der Männer von Westerstrand, die
@@ -168,7 +168,7 @@ zugesprungen und fasste seine Hand.
 du, wen wir geborgen haben? Keppen Jaspersen, mit dem ich die letzte
 Reise gemacht habe. Ein glücklicher Zufall bei all dem Unglück, nicht wahr?«
  
-\<@pagebreak/> »Ist sonst niemand gerettet?« forschte der Pastor bestürzt.
+<@pagebreak/> »Ist sonst niemand gerettet?« forschte der Pastor bestürzt.
 
 »Ja, noch ein Matrose, Keppen Jaspersen ist bedenklich verletzt,
 wie ich fürchte; er hat eine böse Kopfwunde. Lass ihn nur sogleich ins
