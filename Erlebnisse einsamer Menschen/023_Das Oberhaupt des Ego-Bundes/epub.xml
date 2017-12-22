@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">14ad7c40-e760-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Oberhaupt des Egbo-Bundes</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">023</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Über dem Atlantischen Ozean stieg an einem klaren Augustmorgen des Jahres 1915 die Sonne in strahlender Pracht empor, und die Mannschaft des deutschen U-Bootes, das in einer einsamen Bucht eines der südlichsten Eilande der Hebriden, jener Schottland westlich vorgelagerten Inselgruppe, einen vorläufigen Schlupfwinkel gefunden hatte, begrüßte ihr Erscheinen mit freudigen Zurufen.
+
+Das vollständig aufgetauchte U-Boot war mit zwei Trossen am felsigen Ufer festgelegt. Auf seinem Deck tummelten sich trotz der frühen Stunde die Matrosen umher, wuschen ihr Unterzeug oder waren sonst irgendwie beschäftigt.
+
+Jetzt trat auch der Kommandant aus der Luke des Kommandoturmes heraus, rief seinen Leuten ein frisches „Morgen, Kinder!“ zu und setzte sich dann auf einen Klappstuhl, den ihm einer der Matrosen zureichte. Gleich darauf zeigte sich hinter einer Anhöhe nach der offenen See zu ein Mann, der mit einer roten Flagge einige Signale gab.
+
+Mit Blitzesschnelle verwandelte sich jetzt das Bild behaglicher Ruhe in eine wildbewegte Szene. Kommandorufe ertönten, Pfeifen schrillten unter Deck; eiligst verschwanden die Leute im Innern des stählernen Riesenfisches, dessen Trossen sofort eingezogen wurden. Jetzt kam auch der Posten, der soeben das Nahen eines verdächtigen Fahrzeuges durch die Winkerflagge angezeigt hatte, keuchend angelaufen, sprang über die nach dem Ufer hinübergelegte Planke und meldete sich bei dem Kommandanten zurück.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (023) Das Oberhaupt des Egbo-Bundes.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
