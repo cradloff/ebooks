@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">1f45ffc0-e75f-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Tigerfalle</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">022</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der schon etwas altersschwache Küstendampfer „Amsterdam“, der den Verkehr zwischen dem großen Hafenplatz Batavia auf Java und den östlich gelegenen Sunda-Inseln vermittelte, hatte diesmal einen etwas geheimnisvollen Fahrgast an Bord, einen jungen Deutschen namens Fritz Kramer. Dieser wollte angeblich auf einem kleinen Segelboot, das gut verstaut unter einer Ölleinwand auf dem Vorschiff lag, von den nördlich der Insel Sumbawa zu findenden Postillon-Eilanden den Hafen von Menado auf Celebes zu erreichen suchen.
+
+Der dicke holländische Kapitän der „Amsterdam“ glaubte dem Deutschen nicht recht. Vergeblich gab er sich die erdenklichste Mühe, hinter die wahren Absichten des tatkräftigen Passagiers zu kommen, der jedoch nicht das Geringste aus sich herauslocken ließ.
+
+Bei günstigem, stillem Wetter gelangte der Dampfer eines Morgens nach achttägiger Fahrt in Sicht der Postillon-Eilande, stoppte jetzt auf Kramers Bitte seine Maschinen und brachte mit Hilfe des Dampfkranes das Segelboot zu Wasser. Zehn Minuten später fuhr die „Amsterdam“ in östlicher Richtung weiter, während das kleine Fahrzeug des Deutschen, das zu beiden Seiten des Bugs den Namen „Erwartung“ trug, gerade entgegengesetzten Kurs einschlug.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (022) Die Tigerfalle.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
