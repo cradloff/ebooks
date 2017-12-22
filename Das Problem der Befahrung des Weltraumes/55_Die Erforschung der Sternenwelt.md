@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die Erforschung der Sternenwelt.
 ================================
 
@@ -6,7 +5,7 @@ Die großartigsten Ausblicke eröffneten sich für die Fernbeobachtung
 von der Raumwarte aus jedoch in *astronomischer* Hinsicht;
 denn in diesem Falle kommt zu der Möglichkeit, beliebig
 große Teleskope verwenden zu können, noch der Vorteil hinzu, daß
-\<@pagebreak 159/> die Strahlen der Gestirne vollkommen ungeschwächt und unverfälscht
+<@pagebreak 159/> die Strahlen der Gestirne vollkommen ungeschwächt und unverfälscht
 einlangen und daß der Himmelsgrund gänzlich schwarz
 erscheint.
 

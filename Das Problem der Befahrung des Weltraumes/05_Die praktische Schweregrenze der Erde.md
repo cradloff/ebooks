@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 12/>
+<@pagebreak 12/>
+
 Die praktische Schweregrenze der Erde.
 ======================================
 
@@ -25,7 +25,7 @@ sich der <em>schwerefreie Punkt</em>.</p></div>
 
 Anders aber, sobald wir uns von der Erde entfernen. Deren
 Anziehungskraft nimmt in ihrer Wirkung dann fortwährend ab,
-\<@pagebreak /> die der benachbarten Gestirne hingegen beständig zu. Da letztere
+<@pagebreak /> die der benachbarten Gestirne hingegen beständig zu. Da letztere
 der Erdschwerkraft entgegen wirkt, muß sich von der Erde aus
 in jeder Richtung schließlich eine Stelle ergeben, an welcher sich
 diese Anziehungskräfte der Stärke nach das Gleichgewicht halten.

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Das Rückstoßfahrzeug.
 =====================
 
@@ -30,7 +29,7 @@ entfalten können, weil alle äußeren Widerstände entfallen.
 
 Bei der technischen Ausgestaltung eines derartigen Fahrzeuges
 wird man nun anstreben müssen, daß zur Erzeugung einer bestimmten
-\<@pagebreak 24/> Antriebsleistung einerseits nur möglichst *wenig Massen
+<@pagebreak 24/> Antriebsleistung einerseits nur möglichst *wenig Massen
 abgestoßen* werden müssen und anderseits, daß ihre Abstoßung
 in tunlichst *einfacher* und *betriebssicherer* Weise vor sich
 gehe. 

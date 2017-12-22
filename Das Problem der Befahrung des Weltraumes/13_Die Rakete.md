@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die Rakete.
 ===========
 
@@ -11,8 +10,7 @@ kleinsten Teilchen (Moleküle der Verbrennungsgase) zur Abstoßung
 und die bei der Verbrennung freiwerdende und sich in Gasdruck
 umsetzende Energie liefert die hierzu notwendige „innere Kraft”.
 
-\<@pagebreak 25/>
-<div class="image" float="right"><img alt="Längsschnitt durch eine Feuerwerksrakete" src="abb15.png"/>
+<div class="image" float="right"><@pagebreak 25/><img alt="Längsschnitt durch eine Feuerwerksrakete" src="abb15.png"/>
 <p>Abb. 15. <em>Feuerwerkrakete</em> im Längsschnitt. Der daran
 befestigte Stab dient dazu, das Sichüberschlagen der Rakete zu
 verhindern.</p></div>

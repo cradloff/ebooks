@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Das Observatorium und das Maschinenhaus.
 ========================================
 
@@ -11,7 +10,7 @@ die Beseitigung des schwerelosen Zustandes verzichtet wird.
 
 Für das *Observatorium* (Abb. 91) ist vor allem Wichtig,
 daß man ihm jede beliebige, durch die vorzunehmenden Beobachtungen
-\<@pagebreak 145/> bedingte Lage im Raume ohne weiteres erteilen kann.
+<@pagebreak 145/> bedingte Lage im Raume ohne weiteres erteilen kann.
 Es muß daher von der Stellung der Sonne vollkommen unabhängig
 sein, darf also keine der früher beschriebenen, durch
 Sonnenstrahlen betriebenen Einrichtungen aufweisen. Aus diesem
@@ -35,7 +34,7 @@ Beleuchtungsluken sind erkennbar.</p></div>
 Im Observatorium sind vorhanden: vor allem, seiner Bestimmung
 gemäß, die *Fernbeobachtungs-Einrichtungen* und
 ferner sämtliche, in Abhängigkeit von der Fernbeobachtung zu
-\<@pagebreak /> betätigenden *Steuerungen*, wie z. B. jene der Raumspiegel
+<@pagebreak /> betätigenden *Steuerungen*, wie z. B. jene der Raumspiegel
 (siehe Folgendes). Endlich befindet sich dortselbst auch noch ein
 *Laboratorium* für Untersuchungen im schwerelosen Zustand.
 
@@ -71,7 +70,7 @@ und <em>Rückstoßantrieben</em> ausgerüstet.
 
 Küchen, Wasserreinigungsanlagen, Waschgelegenheiten u. dgl.
 fehlen jedoch, mit Rücksicht auf das sehr unbequeme Verhalten
-\<@pagebreak /> der Flüssigkeiten im schwerelosen Zustand. Für die Nahrungsaufnahme
+<@pagebreak /> der Flüssigkeiten im schwerelosen Zustand. Für die Nahrungsaufnahme
 und Körperpflege ist eben das Wohnrad vorhanden.
 Was im Observatorium und Maschinenhaus an Speise und Trank
 benötigt wird, muß jeder Mann selbst, bereits in der für den

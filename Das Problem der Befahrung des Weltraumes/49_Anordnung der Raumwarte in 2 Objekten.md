@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Anordnung der Raumwarte in 2 Objekten.
 ======================================
 
@@ -14,7 +13,7 @@ die für seine Größe verhältnismäßig rasche Drehung des
 Wohnrades voll mitmacht, dann könnte man beispielsweise das
 Wohnrad und das Maschinenhaus (samt seinem Spiegel) beide
 um eine gemeinsame Drehachse — aber in *verkehrtem* Sinne
-\<@pagebreak 149/> — rotieren lassen. Oder man könnte das Wohnrad und das
+<@pagebreak 149/> — rotieren lassen. Oder man könnte das Wohnrad und das
 Maschinenhaus völlig zu einem Gebäude verschmelzen und um
 dessen Drehachse den großen Spiegel des Maschinenhauses allein
 in ebenfalls entgegengesetzter Richtung rotieren lassen u. a.m.

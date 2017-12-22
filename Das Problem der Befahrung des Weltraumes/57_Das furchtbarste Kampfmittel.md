@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Das furchtbarste Kampfmittel.
 =============================
 
@@ -12,7 +11,7 @@ mittels eines *Sammelspiegels* (in ähnlicher Weise wie
 mit Hilfe eines sogenannten „Brennglases”) recht bedeutende Temperaturen
 erzeugt werden können. Auch wenn derselbe nur die
 Größe einer Hand besitzt, ist es möglich, in seinen Brennpunkt
-\<@pagebreak 162/> gehaltene Papierstücke ja auch Holzspäne u. dgl. ohne weiteres
+<@pagebreak 162/> gehaltene Papierstücke ja auch Holzspäne u. dgl. ohne weiteres
 zu entzünden (Abb. 95).
 
 Stelle man sich nun vor, daß der Durchmesser eines solchen
@@ -44,7 +43,7 @@ verkohlen, wenn man das Strahlenbündel dieses konzentrierten
 Sonnenlichtes über sie hinweggleiten ließe. Und die Schiffe
 des Feindes, mögen sie auch noch so gewaltig sein und in den
 stärksten Seefestungen Zuflucht suchen, nichts würde sie davor
-\<@pagebreak /> bewahren können: vernichtet, ebenso ausgebrannt zu werden,
+<@pagebreak /> bewahren können: vernichtet, ebenso ausgebrannt zu werden,
 wie man mit einer Stichflamme das Ungeziefer in seinen Schlupfwinkeln vertilgt.
 
 Es wären wirkliche Todesstrahlen! Und doch keine anderen

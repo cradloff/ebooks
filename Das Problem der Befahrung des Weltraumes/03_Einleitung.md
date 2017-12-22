@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 7/>
+<@pagebreak 7/>
+
 Einleitung.
 ===========
 

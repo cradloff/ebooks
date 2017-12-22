@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die Raumwarte als Basis für den Weltraum-Fernverkehr.
 =====================================================
 
@@ -30,7 +29,7 @@ Meere betriebenen Kraftwerken erzeugen könnte;
 
 oder vom *Monde* her, wie Max Valier vorschlägt. Letzteres
 wäre besonders vorteilhaft; denn da die Masse und infolgedessen
-\<@pagebreak 171/> auch die Anziehungskraft des Mondes viel kleiner ist als jene
+<@pagebreak 171/> auch die Anziehungskraft des Mondes viel kleiner ist als jene
 der Erde, würde der für den Aufstieg und damit für die Betriebsstoffzufuhr
 von demselben aus notwendige Arbeitsaufwand
 bedeutend geringer sein. Allerdings setzt dies voraus, daß
@@ -67,7 +66,7 @@ Wirkungsfähigkeit, nicht nur ermöglichen, die zu bereisenden
 Gebiete der Sternenwelt erst aus der Ferne gründlich zu erforschen,
 worauf schon früher hingewiesen wurde<a class="refnote" id="rn1" href="#fn1">1</a>.
 Man könnte damit wahrscheinlich auch das Raumschiff während eines großen
-\<@pagebreak /> Teiles, ja in manchen Fällen vielleicht sogar während des ganzen
+<@pagebreak /> Teiles, ja in manchen Fällen vielleicht sogar während des ganzen
 Verlaufes seiner Fahrt unter ständiger Beobachtung halten und
 durch zu bestimmten Zeiten von demselben abzugebende Lichtsignale
 mit ihm in wenigstens einseitiger Verbindung bleiben.

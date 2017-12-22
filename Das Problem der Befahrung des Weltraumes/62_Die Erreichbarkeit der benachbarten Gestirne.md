@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die Erreichbarkeit der benachbarten Gestirne.
 =============================================
 
@@ -27,7 +26,7 @@ und allen für die Beobachtung und die sonstigen Zwecke
 erforderlichen Geräten.
 
 Dann folgt aus den Hohmannschen Berechnungen, daß das Fahrzeug
-\<@pagebreak /> im startbereiten Zustand, ausgerüstet mit dem gesamten,
+<@pagebreak /> im startbereiten Zustand, ausgerüstet mit dem gesamten,
 für die Hin- und Rückreise erforderlichen Betriebsstoff, ungefähr
 wiegen müßte: zur Ausführung der vorerwähnten Rundreise mit
 Vorbeifahrt bei Venus und Mars 144 t, wovon 88% auf die
@@ -63,7 +62,7 @@ nur, daß die bis dahin zurückzulegenden Wege um ein Vielfaches
 länger sind als die bisher betrachteten. Da alle diese Himmelskörper
 von der Sonne sehr viel anders abstehen als die Erde,
 spielt bei ihrer Erreichbarkeit auch das *Schwerefeld der Sonne*
-\<@pagebreak /> bereits eine bedeutende Rolle; denn dieses muß ja, wenn man
+<@pagebreak /> bereits eine bedeutende Rolle; denn dieses muß ja, wenn man
 sich beispielsweise von der Sonne entfernt (d. h. von ihr „aufsteigt”),
 in ganz gleicher Weise, wie es in solchem Fall auch für
 das Erdschwerefeld notwendig wäre, unter Arbeitsleistung überwunden

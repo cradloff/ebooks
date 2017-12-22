@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die Rückkehr zur Erde.
 ======================
 
@@ -14,7 +13,7 @@ beim kühnsten Raumfahrer ein nicht gelindes Grausen erwecken,
 wenn er, die Erde als ferne Kugel vor sich sehend, bedenkt, daß
 er mit nicht weniger als etwa der zwölffachen Geschwindigkeit
 eines Artilleriegeschosses auf ihr einlangt, sobald er, sich ihrer
-\<@pagebreak 72/> Schwerkraft frei überlassend, auf sie zufährt oder richtiger gesagt:
+<@pagebreak 72/> Schwerkraft frei überlassend, auf sie zufährt oder richtiger gesagt:
 auf sie abstürzt.
 
 Es muß also für rechtzeitige *Abbremsung* gesorgt werden.
@@ -53,7 +52,7 @@ Kräfte, welche dem Fahrzeug in ersterem Falle *mitgeteilt*
 und in letzterem *entzogen* werden müssen, nur wenig
 von einander.
 
-\<@pagebreak /> Diese ganze, für die Bremsung notwendige Betriebsstoffmenge
+<@pagebreak /> Diese ganze, für die Bremsung notwendige Betriebsstoffmenge
 muß aber vorerst noch — und das gibt den Ausschlag — auf
 die *volle Steighöhe* mitgehoben werden, was eine ungeheure
 Vermehrung der Steiglast bedeutet. Dadurch wird aber nun die
@@ -84,7 +83,7 @@ wird dadurch bewerkstelligt, daß das Fahrzeug während
 seines Weges durch die Erdlufthülle mittels Fallschirmen oder sonstigen
 Vorrichtungen abgebremst wird (Abb. 38). Hierbei ist nun
 ausschlaggebend, daß sich die lebendige Kraft, welche dem Fahrzeug
-\<@pagebreak /> während dieses Vorganges entzogen werden muß, nur zum Teil
+<@pagebreak /> während dieses Vorganges entzogen werden muß, nur zum Teil
 in Luftbewegung (Wirbelung), zum anderen Teil aber in *Wärme*
 umwandelt. Wenn nun der Bremsweg nicht genügend lang und
 daher die Bremszeit zu kurz ist, dann kann während derselben
@@ -105,7 +104,7 @@ so gewaltige Geschwindigkeiten relativ viel zu kurzem Wege eine
 Abbremsung des Fahrzeuges durch den Luftwiderstand zu bewerkstelligen,
 einfach zur *Verbrennung* führen müßte.
 
-\<@pagebreak /> So schiene es also, als ob das Problem der Raumfahrt, wenn
+<@pagebreak /> So schiene es also, als ob das Problem der Raumfahrt, wenn
 auch nicht an der Frage des *Aufstieges*, so doch an der Unmöglichkeit
 einer wohlbehaltenen *Rückkehr* zur Erde scheitern sollte.
 

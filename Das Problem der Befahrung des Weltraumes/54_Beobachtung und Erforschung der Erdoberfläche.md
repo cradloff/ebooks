@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Beobachtung und Erforschung der Erdoberfläche.
 ==============================================
 
@@ -17,7 +16,7 @@ des zu bereisenden Neulandes zur Verfügung stellen.
 Damit ist auch schon angedeutet, daß die *Kartographie* auf
 eine gänzlich neue Grundlage gestellt würde; denn mittels Fernphotographie
 ließen sich von der Raumwarte aus nicht nur
-\<@pagebreak 158/> im *Großen* ganze Länder und selbst Kontinente, für deren Vermessung
+<@pagebreak 158/> im *Großen* ganze Länder und selbst Kontinente, für deren Vermessung
 sonst viele Jahre und dementsprechend bedeutende Geldmittel
 notwendig gewesen wären, auf einfachste Weise kartographisch
 aufnehmen; sondern ebenso auch *Detailkarten* jeden

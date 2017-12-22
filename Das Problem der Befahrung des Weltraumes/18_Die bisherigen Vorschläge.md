@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die bisherigen Vorschläge.
 ==========================
 
@@ -13,7 +12,7 @@ automatisch in den Verbrennungsraum einzubringen.
 Die ganze Rakete soll aus einzelnen Teilraketen zusammengesetzt
 sein, welche während des Aufstieges nacheinander abgeworfen
 werden, sobald sie verbraucht sind, bis auf jene in welcher sich
-\<@pagebreak 55/> die Last befindet, und die allein an das Ziel gelangt. Er beabsichtigt
+<@pagebreak 55/> die Last befindet, und die allein an das Ziel gelangt. Er beabsichtigt
 vorerst unbemannte Apparate auf einige 100 km Höhe
 aufsteigen zu lassen. Später will er auch versuchen, eine unbemannte,
 nur mit einigen Kilogramm Leuchtpulver ausgerüstete
@@ -51,7 +50,7 @@ erwarten sein. Ein sehr günstiges Ergebnis, wenn man bedenkt, daß
 der Wirkungsgrad selbst unserer besten bisher bekannten Wärmekraftmaschinen
 kaum mehr als 38 Prozent beträgt.
 
-\<@pagebreak /> Man möge aber den soeben betrachteten inneren Wirkungsgrad
+<@pagebreak /> Man möge aber den soeben betrachteten inneren Wirkungsgrad
 wohl unterscheiden von jenem, mit welchem wir uns schon früher
 befaßten: dem Wirkungsgrad des Rückstoßes<a class="refnote" id="rn1" href="#fn1">1</a>, den man zum
 Unterschied auch als den „äußeren Wirkungsgrad“ des Raketen-Motors
@@ -88,7 +87,7 @@ für Raumraketen erscheinen müßte, die Schwierigkeit, ihn
 mitzuführen und praktisch anzuwenden, als großer Nachteil gegenüber;
 denn die Unterbringung des Wasserstoffes wie auch des
 Sauerstoffes ist in der Rakete aus räumlichen Gründen nur in
-\<@pagebreak /> verflüssigtem Zustande möglich. Nun beträgt aber die Temperatur
+<@pagebreak /> verflüssigtem Zustande möglich. Nun beträgt aber die Temperatur
 des flüssigen Sauerstoffes -183° und die des flüssigen
 Wasserstoffes gar nur -253° Celsius! Es ist klar, daß dieser
 Umstand die Handhabung sehr komplizieren muß, abgesehen
@@ -121,7 +120,7 @@ vergrößern”<a class="refnote" id="rn2" href="#fn2">2</a>.
 Dies wird aber erreicht, wenn man als Betriebsstoff
 Alkohol und Sauerstoff verwendet.
 
-\<@pagebreak /> Die Oberthsche Raumrakete hat im allgemeinen die äußere
+<@pagebreak /> Die Oberthsche Raumrakete hat im allgemeinen die äußere
 Form eines deutschen S-Geschosses und ist aus einzelnen Teilraketen
 zusammengesetzt, die also entweder mit Wasserstoff und
 Sauerstoff (Wasserstoffrakete) oder mit
@@ -151,7 +150,7 @@ Außerdem ist noch eine sogenannte „Hilfsrakete” (Abb. 28)
 vorgesehen, von 2 Meter Höhe, 1 Meter Durchmesser und einem Gewicht
 von 220 kg im abfahrtbereiten Zustande.
 
-\<@pagebreak /> Der Start erfolgt ab 5500 Meter Höhe, von Luftschiffen aus
+<@pagebreak /> Der Start erfolgt ab 5500 Meter Höhe, von Luftschiffen aus
 (Abb. 29). Zuerst wird mittels der Hilfsrakete, die dann zurückbleibt,
 die Hauptrakete bis auf eine Höhe von 7700 Meter gehoben
 und dabei auf eine Anfangsgeschwindigkeit von 500 Meter
@@ -189,13 +188,13 @@ Drosselung der äußeren Düsen.
 <div class="image right"><img alt="Rakete wird von zwei Zeppelinen gehalten" src="abb29.png"/>
 <p>Abb. 29. Start der Rakete nach Oberth von Luftschiffen aus.</p></div>
 
-\<@pagebreak /> Bei diesem Modell wird der Start vom Meere aus vorgenommen.
+<@pagebreak /> Bei diesem Modell wird der Start vom Meere aus vorgenommen.
 Hierbei tritt wieder zuerst die Alkoholrakete in Wirksamkeit.
 Sie bringt das Fahrzeug bis auf eine Steiggeschwindigkeit
 von 3000-4000 Meter je Sekunde, worauf sie abgekoppelt und
 zurückgelassen wird (Abb. 32) und die Wasserstoffrakete zu arbeiten
 beginnt, um dem Fahrzeug die notwendige Steig-Höchstgeschwindigkeit
-\<@pagebreak /> oder, wenn erforderlich, auch noch eine wagrechte
+<@pagebreak /> oder, wenn erforderlich, auch noch eine wagrechte
 Umlaufgeschwindigkeit zu erteilen. Ein solches Raumschiff,
 geeignet zur Beförderung *eines Beobachters*, würde nach Oberths
 Angaben im startbereiten Zustand 300 t wiegen.
@@ -228,7 +227,7 @@ Pumpen. Kurz vor der Verbrennung wird dann der
 Sauerstoff vergast, auf 700° erhitzt und so in den Ofen eingeblasen,
 während der Brennstoff selbst in fein verteiltem Zustand
 in den heißen Sauerstoffstrom gespritzt wird. Für entsprechende
-\<@pagebreak /> Kühlung des Ofens, der Düsen usw. sind Vorkehrungen getroffen.
+<@pagebreak /> Kühlung des Ofens, der Düsen usw. sind Vorkehrungen getroffen.
 
 Es muß auffallen, wie klein der für die Nutzlast bestimmte
 Fahrraum im Vergleich zum gesamten Fahrzeug ist, das eigentlich
@@ -242,7 +241,7 @@ für den Aufstieg notwendigen Betriebsstoffmengen etwa das 20-80fache der Gesamt
 <p>Abb. 32. Der Aufstieg des größeren (bemannten) Raketenmodells von Oberth.</p></div>
 
 Die Ursache für diesen enormen Bedarf an Betriebsstoffen liegt
-\<@pagebreak /> aber nicht etwa in zu ungenügender Ausnützung derselben, bedingt
+<@pagebreak /> aber nicht etwa in zu ungenügender Ausnützung derselben, bedingt
 vielleicht durch Unvollkommenheit des zum Antrieb verwendeten
 *Rückstoßprinzips*, wie vielfach irrtümlich geglaubt
 wird. Wohl geht beim Aufstieg, wie wir schon früher
@@ -270,7 +269,7 @@ rechts: des kleinen Modells. Der Ofen mündet in nur eine Düse.
 links: des großen Modells. Ein gemeinsamer Ofen
 mündet in viele, bienenwabenartig verteilte Düsen.</p></div>
 
-\<@pagebreak /> Da nun auf Grund der früher erwähnten Goddardschen Versuche
+<@pagebreak /> Da nun auf Grund der früher erwähnten Goddardschen Versuche
 und der Erfahrungen der Ballistik der *innere Wirkungsgrad der
 Treibvorrichtung* auf etwa 60 Prozent geschätzt werden
 kann<a class="refnote" id="rn7" href="#fn7">7</a>,
@@ -308,7 +307,7 @@ Die Studie, welche von Dr.-Ing. *Hohmann* über das Raumfahrtproblem
 veröffentlicht wurde, behandelt zwar die Konstruktion
 der Raumrakete selbst nicht näher, befaßt sich aber dafür
 eingehend mit allen grundsätzlichen Fragen der Raumfahrt und
-\<@pagebreak /> bringt auch sehr wertvolle diesbezügliche Vorschläge. Sofern dieselben
+<@pagebreak /> bringt auch sehr wertvolle diesbezügliche Vorschläge. Sofern dieselben
 sich auf den Landungsvorgang und auf die Fernfahrt durch
 den Weltraum beziehen, werden sie später behandelt.
 
@@ -339,7 +338,7 @@ Mondentfernung) befähigt sein soll. Dies entspricht im Gewicht
 ungefähr einem kleinen Ozeandampfer. Eine solche Reise würde
 hin und zurück 30½ Tage dauern.
 
-\<@pagebreak /> Sehr beachtenswert sind die neueren Veröffentlichungen, mit
+<@pagebreak /> Sehr beachtenswert sind die neueren Veröffentlichungen, mit
 welchen Dr. v. *Hoefft* in jüngster Zeit hervortrat.
 
 Sein ursprünglicher Gedanke war, den Antrieb von Raumschiffen
@@ -378,7 +377,7 @@ Aufstieg soll aus 10000 Meter Höhe von einem unbemannten Gummiballon
 (Pilotballon) aus erfolgen, um dadurch der Rakete das
 Durchdringen der unteren dichten Luftschichten zu ersparen.
 
-\<@pagebreak /> Als nächstes plant v. Hoefft die Ausführung einer größeren
+<@pagebreak /> Als nächstes plant v. Hoefft die Ausführung einer größeren
 Rakete mit einem Anfangsgewicht von 3000 kg und einem Endgewicht
 von 450 kg, von welchem ungefähr 370 kg auf das Leergewicht
 und 80 kg auf die Nutzlast entfallen. Sie soll, ähnlich
@@ -414,7 +413,7 @@ oder einem Bergesgipfel.
 
 Im Gegensatze zu diesen bisher beschriebenen und *unbemannten*
 Raketen sollen die für *Menschenbeförderung* bestimmten, großen
-\<@pagebreak /> Raumfahrzeuge, welche Hoefft dann in weiterer Folge zu schaffen
+<@pagebreak /> Raumfahrzeuge, welche Hoefft dann in weiterer Folge zu schaffen
 gedenkt, grundsätzlich nur unmittelbar von einer geeigneten Wasserfläche
 aus, und zwar nach Art eines Wasserflugzeuges, starten und
 beim Niedergehen, ähnlich wie ein solches, wassern. Um sie hierfür

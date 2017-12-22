@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Der Kanonenschuß in den Weltraum.
 =================================
 
@@ -23,7 +22,7 @@ Ergebnis dieses Unternehmens würde die ungeheueren Geldmittel
 nicht aufwiegen, die dazu notwendig wären. Bestenfalls könnte
 solch ein „Ultra-Artillerist” sich rühmen, der Erste gewesen zu
 sein, dem es gelungen ist, einen Gegenstand von der Erde fortgeschleudert
-\<@pagebreak 20/> oder vielleicht auch den Mond beschossen zu haben.
+<@pagebreak 20/> oder vielleicht auch den Mond beschossen zu haben.
 Mehr ließe sich dabei kaum je gewinnen, weil alles, was man
 diesem „Geschoßfahrzeug” auf die Reise mitgäbe, an Fracht,
 Meßgeräten oder gar an Fahrgästen, sich schon in der ersten Sekunde

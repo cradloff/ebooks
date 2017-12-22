@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Bemerkungen zu den bisherigen Konstruktionsvorschlägen.
 =======================================================
 
@@ -17,7 +16,7 @@ Zerstörung von Ofen und Düse durch die Verbrennungshitze.
 Es wurde aus diesem Grund auch absichtlich vermieden, hier
 selbst Konstruktionsvorschläge zu bringen. Wohl aber erachten
 wir es zweifellos auch gegenwärtig schon als angezeigt und notwendig,
-\<@pagebreak 69/> wenigstens soweit es mit den zur Zeit vorhandenen Erfahrungen
+<@pagebreak 69/> wenigstens soweit es mit den zur Zeit vorhandenen Erfahrungen
 eben möglich ist, das *Grundsätzliche* des Fahrzeugaufbaues
 zu klären, und dazu gehört vor allem auch die Frage
 des *Antriebsstoffes*. Als solcher wurde, laut Früherem, bisher
@@ -54,7 +53,7 @@ Benzol, Heptan u. a.) mit feinverteiltem, möglichst reinen
 Kohlenstoff (wie etwa Ruß, feinstes Kohlenmehl o. dgl.) der
 Energiegehalt je Liter noch weiter gesteigert und dadurch ein
 besonders hochwertiger, ja vielleicht der nach unserer heutigen
-\<@pagebreak /> Kenntnis der Stoffe überhaupt bestmögliche Raketenbetriebsstoff
+<@pagebreak /> Kenntnis der Stoffe überhaupt bestmögliche Raketenbetriebsstoff
 gewonnen werden könnte.
 
 Selbstverständliche Bedingung für die Gültigkeit vorstehender
@@ -90,7 +89,7 @@ von den vielen anderen durch diese niedere Temperatur des flüssigen
 Wasserstoffes bedingten Schwierigkeiten in der Handhabung
 und Anwendungsweise desselben, die alle beim Benzol fortfallen.
 
-\<@pagebreak /> Allerdings tritt diese Überlegenheit der flüssigen Kohlenwasserstoffe
+<@pagebreak /> Allerdings tritt diese Überlegenheit der flüssigen Kohlenwasserstoffe
 bei höheren Endgeschwindigkeiten gegenüber dem reinen
 Wasserstoff immer mehr zurück. Trotzdem aber würde, selbst für
 die Erreichung einer Geschwindigkeit von 12500 Meter je Sekunde (wie
