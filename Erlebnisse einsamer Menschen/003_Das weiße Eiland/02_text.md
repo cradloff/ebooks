@@ -59,7 +59,7 @@ versuchen, wie sich’s auf dem Kopfe schwimmt. Vor fünf Jahren fuhr ich auf
 einem kleinen Schoner an einem Eisberg vorüber, der gerade umkippte, als wir
 keinen Kilometer von ihm entfernt waren. Der Bursche machte die bis dahin ganz
 ruhige See für einige Minuten durch seine Drehung derart wild, daß wir ein paar
-ganz gehörige Weilen über Bord bekamen, von denen die Stärkste uns den
+ganz gehörige Wellen über Bord bekamen, von denen die Stärkste uns den
 Schiffsjungen über die Reling spülte, der dabei leider ertrank.“
 
 Sicherlich hätte Steuermann Möller noch mehr von seiner Weisheit ausgekramt,
@@ -222,7 +222,7 @@ sich der Eisberg in seiner ganzen, gar nicht zu überschauenden Länge und Breit
 aus. Das bisher passierte Gebiet war nur eine Art Halbinsel, die das weiße
 Eiland in die See hinausschickte. Ganze Hügelketten, weite Täler, Geröllfelder,
 tiefe Abgründe und hoch in die Luft ragende Eisspitzen von den seltsamsten,
-abenteuerlichsten Formen vereinigten sich zu einem Bilden von überwältigender
+abenteuerlichsten Formen vereinigten sich zu einem Bilde von überwältigender
 Schönheit, da diese ganze Landschaft in das geheimnisvolle, jetzt in allen
 Farbenabstufungen von Blau schillernde Mondlicht getaucht war. Ein Panorama
 hatte hier die Natur geschaffen, dessen eigenartige Reize selbst des
@@ -436,7 +436,7 @@ entdeckten die Brüder ein volles Petroleumfaß, eine Kiste mit allerlei
 Konserven und eine zweite, die mit großen, patronenähnlichen Messinghülsen halb
 gefüllt war. Welchen Zweck diese hatten, vermochten beide zunächst nicht zu
 ergründen. Und doch sollten gerade diese Messinghülsen, die oben mit
-Filzpfropfen verschossen waren, ihnen später noch sehr nützlich werden.
+Filzpfropfen verschlossen waren, ihnen später noch sehr nützlich werden.
 
 Eine Viertelstunde später prasselte schon in dem Ofen der größeren Kajüte ein
 lustiges Feuer, das Erich mit den Brettern der zertrümmerten Kisten eifrig
@@ -456,7 +456,7 @@ Dann meldete Erich, daß das Essen fertig sei. Während der Mahlzeit berichtete
 der Ältere, was er bei der Durchsicht der Bücher und Papiere des Schreibtisches
 über die Bark festgestellt habe.
 
-Diese heiß „Polarstern“, gehörte einer Reederei in Emden, war für den Robben-
+Diese hieß „Polarstern“, gehörte einer Reederei in Emden, war für den Robben-
 und Walfischfang ausgerüstet und hatte ihren Heimathafen, wie aus einem von dem
 Kapitän zurückgelassenen Schreiben hervorging, im März 1905 verlassen. Nach
 sehr guten Fangergebnissen war sie dann im Winter 1905 an der Küste von
@@ -696,7 +696,7 @@ Tag nötigen Proviant, auf den Weg, um den Eisberg in allen seinen Teilen genau
 zu durchforschen. Zunächst lenkten sie ihre Schritte nach dem Flaggenhügel hin.
 Doch schon von weitem sahen sie, daß die Fahne verschwunden war. Nachher zeigte
 es sich, daß die Diebe nur den Mast hatten stehen lassen. Auch die Schnüre zum
-Hissen der Fahne hatten sie mitgehen heißen.
+Hissen der Fahne hatten sie mitgehen lassen.
 
 Dieser neue Diebstahl spornte den Eifer der Brüder, mit ihren heimlichen
 Widersachern gehörig abzurechnen, nur noch mehr an. Bevor sie jedoch den Hügel
@@ -994,7 +994,7 @@ So waren nach der Erlegung des zweiten und offenbar letzten der Eisbären, die
 ebenso wie die Eskimos bis hierher verschlagen worden waren, wieder beinahe
 vierzehn Tage vergangen.
 
-Die Hauptzerstreuung der Knaben bildete jetzt die Jagd aus Seehunde, von denen
+Die Hauptzerstreuung der Knaben bildete jetzt die Jagd auf Seehunde, von denen
 in den Buchten des Eisberges stets zahlreiche Exemplare anzutreffen waren. Bei
 diesen Jagdausflügen lernten die Brüder auch die große Gewandtheit bewundern,
 die die beiden Eskimos im Gebrauch ihrer leichten Fellboote, der Kajaks, und
@@ -1033,7 +1033,7 @@ ergoß.
 Die Brüder wagten es unter diesen Umständen nicht, das Schiff zu verlassen.
 Fühlten sie sich hier doch noch am sichersten, da sie heute allen Ernstes mit
 der Möglichkeit rechneten, daß ihre Insel in mehrere Teile auseinanderbersten
-könne. Auch die beiden Eskimos schlichen mit ängstlichen Gesichtern umher. und
+könne. Auch die beiden Eskimos schlichen mit ängstlichen Gesichtern umher, und
 die drei Hunde, die mit den Knaben schnell Freundschaft geschlossen hatten,
 heulten bisweilen, wenn das Eis besonders laut knallte und polterte, in
 schauerlichen Tönen auf.
@@ -1244,7 +1244,11 @@ So hatte dieses Abenteuer der Brüder Kemper für alle Teile einen guten,
 vorteilhaften Ausgang genommen. Und oft und gern erinnerten die Knaben sich
 noch an jene Tage, wo sie auf ihrer weißen Insel als Robinsons gelebt hatten.
 
+<@spacer/>
+
 *Ende.*
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 
