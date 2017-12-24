@@ -609,7 +609,7 @@ und der helle Feuerschein und die plötzliche Hitze weckten den jungen Millionä
 gerade noch rechtzeitig, so daß er, wenn auch mit versengtem Haupthaar, halb
 schlaftrunken ins Freie flüchten konnte. Ehe er sich von dem ersten Schreck
 völlig erholt hatte und daran dachte, seine unter dem Zelt aufgeschichtete
-geringe Habe zu bergen, waren auch schon das Graslager und die Bäum, an denen
+geringe Habe zu bergen, waren auch schon das Graslager und die Bäume, an denen
 er das große Segel befestigt hatte, von den Flammen in Brand gesetzt worden,
 und ein wahres Feuermeer umlohte den Platz, auf dem er noch soeben geruht
 hatte. Trotzdem wagte er es, gepackt von einer alle Bedenken überwindenden
@@ -776,7 +776,7 @@ Stücke hiervon benutzte Kromer dazu, die Haut gehörig damit zu durchtränken.
 
 Wie sich leicht ein praktischer Gedanke an den anderen reiht, konnte man hier
 wieder so recht deutlich an dem bisher allen Sorgen des täglichen Lebens
-fernstehend Millionär beobachten. Die Menge des Fettes, die die Meeresbestie an
+fernstehenden Millionär beobachten. Die Menge des Fettes, die die Meeresbestie an
 ihrem Körper aufgespeichert hatte, gab Kromer die Idee ein, dieses zu sammeln,
 auszuschmelzen, und sich eine Tranlampe herzustellen, zu der er als Docht die
 Reste des verbrannten Segels strickartig zusammendrehen wollte. So schnitt er
