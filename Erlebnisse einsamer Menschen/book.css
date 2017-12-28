@@ -1,0 +1,85 @@
+h1 {
+	text-align: center;
+	font-size: x-large;
+	font-weight: normal;
+}
+
+h2 {
+	text-align: center;
+	font-size: large;
+	font-weight: normal;
+}
+
+p {
+	margin: 2pt 0 2pt;
+	text-indent: 1em;
+	text-align: justify;
+}
+
+blockquote p {
+	text-indent: 0em;
+	padding-left: 0.5em;
+	font-family: cursive;
+}
+
+/* cover */
+#cover {
+	width: 100%;
+	height: 100%;
+}
+
+/* table of contents */
+.toc	{
+	text-align: center;
+}
+
+.toc#author, .toc #author {
+	color: dimgray;
+	font-size: 1.25em;
+	font-size: large;
+}
+.toc#title, .toc #title {
+	font-size: 1.8em;
+	font-size: x-large;
+}
+.toc#subtitle, .toc #subtitle {
+	color: dimgray;
+	font-size: 1.25em;
+	font-size: x-large;
+}
+
+/* Link zu Fußnote */
+a.refnote {
+	font-size: small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+/* Fußnote */
+.footnote {
+	font-size: small;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.footnote a {
+	font-size: x-small;
+	vertical-align: super;
+	text-decoration: none;
+}
+
+/* gesperrter Text */
+.g {
+	letter-spacing: 0.25em;
+}
+
+/* dünne Linie mit Verlauf als Trenner */
+hr {
+	border: 0; 
+	height: 1px; 
+	width: 80%;
+	align: center;
+	text-align: center;
+	background: #333; 
+	background-image: linear-gradient(to right, #eee, #333, #eee);
+}
