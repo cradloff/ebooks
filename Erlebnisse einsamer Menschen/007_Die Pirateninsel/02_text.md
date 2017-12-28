@@ -794,7 +794,7 @@ abgedichteten Wänden allerhand Waffen, an Pflöcken aufgehängt, vor, darunter
 mehrere Bogen nebst zahlreichen Pfeilen mit Steinspitzen, lange Lanzen mit
 breiten Spitzen aus Kupfer (letzteres stammte von dem Dache des Tempels) und
 ein paar langstielige Beile mit Schneiden aus demselben Metall. Sogar eine
-Lampe gab es in dem Häuschen, die aus einer großem Kokosnuß hergestellt und mit
+Lampe gab es in dem Häuschen, die aus einer großen Kokosnuß hergestellt und mit
 Palmöl gefüllt war, das der erfinderische Robinson durch Auspressen der Früchte
 gewonnen hatte.
 

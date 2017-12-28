@@ -46,8 +46,7 @@ gehaltvollen Inhalt stets befruchtend auf den Geist der Leser.
 
 Bei der Herausgabe unserer
 
-Erlebnisse einsamer Menschen
-============================
+__Erlebnisse einsamer Menschen__
 
 leiten uns ähnliche Motive. Die Notwendigkeit eines gehaltvollen, billigen,
 spannenden und trotzdem nach jeder Richtung einwandfreien Lesestoffes kann
@@ -60,7 +59,7 @@ urteilsfähiger Personen vieler Berufe und Stände, denen wir einige Hefte
 vorlegten und von denen wir einige umseitig abdrucken, bestätigen.
 
 Die „Erlebnisse einsamer Menschen“ erscheinen wöchentlich in abgeschlossenen
-Händchen mit künstlerischem, dreifarbigem Umschlagbild zum Preise von nur 10
+Bändchen mit künstlerischem, dreifarbigem Umschlagbild zum Preise von nur 10
 Pfg. Sie sind durch jede Buchhandlung zu beziehen, bei Voreinsendung des
 Betrages auch durch den
 

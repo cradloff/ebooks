@@ -72,7 +72,7 @@ dürfen.
 Am 7. Mai 1904 hatte die „Wilhelminje“ den deutschen Hafen Dar-es-Salam mit
 nördlichem Kurse verlassen, um durch den Indischen Ozean, das Rote Meer, den
 Suezkanal und das Mittelländische Meer nach Genua zu dampfen. Von dort sollte
-ihr aus vierzehn Elefanten, zwei Flußpferden, einem Dutzend Löwen, achtzehn
+ihre aus vierzehn Elefanten, zwei Flußpferden, einem Dutzend Löwen, achtzehn
 Hyänen, sechs Leoparden, mehreren Warzenschweinen und zahlreichen Antilopen,
 Affen, Straußen und Schlangen bestehende Ladung mit der Eisenbahn weiter nach
 Amsterdam überführt werden.
@@ -639,7 +639,7 @@ Gewicht, daß der Kapitän sie nachher an den ihm gebliebenen Leinen bis zur Hö
 der Felswand hochziehen und von dieser über den Abgrund auf die Plattform
 stützen konnte, indem er sie am Rande der Wand aufrichtete und langsam nach
 vorn umkippen ließ. Als erster ging er dann auf die Plattform hinüber, die er
-zu einer kleine Festung auszugestalten beabsichtigte. Zu seiner freudigen
+zu einer kleinen Festung auszugestalten beabsichtigte. Zu seiner freudigen
 Überraschung entdeckte er hier, daß sich an einer Seite in dem Gestein ein
 schräg nach unten gehendes, breites Loch befand, das sich sehr bald zu einer
 höhlenartigen Ausbuchtung verbreiterte. In gebückter Haltung vermochte man ohne
