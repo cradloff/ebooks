@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Zu fremden Himmelskörpern.
 ==========================
 
@@ -28,7 +27,7 @@ Platz finden.
 
 Die für uns nächstgrößere Einheit im Weltall ist das System
 der Sonne, mit allen seinen verschiedenartigen, dazu gehörenden
-\<@pagebreak 164/> Gestirnen. Es sind dies die 8 großen *Planeten* oder *Wandelsterne*,
+<@pagebreak 164/> Gestirnen. Es sind dies die 8 großen *Planeten* oder *Wandelsterne*,
 von denen einer eben unsere Erde ist (Abb. 96 und 97),
 und zahlreiche andere Himmelskörper von meist viel kleinerer
 Masse: die Planetoiden, periodischen Kometen, Meteorschwärme
@@ -50,7 +49,7 @@ umlaufen. Sie bilden mit ihr zusammen gleichsam das „*Reich
 des Fixsternes Sonne*”: durch deren Strahlenpracht beleuchtet
 und erwärmt und zugleich beherrscht durch die unerschütterliche
 Macht ihrer Schwerkraft, so zu ewiger Gemeinsamkeit verbunden,
-\<@pagebreak /> eine Insel in der Leere und Finsternis des unendlichen
+<@pagebreak /> eine Insel in der Leere und Finsternis des unendlichen
 Raums; das ist unsere „*weitere Heimat*” im Weltenall. Ein
 Reich, fürwahr, von ungeheurer Größe: benötigt ja sogar das
 Licht mehr als 8 Stunden, um es quer zu durchmessen, und es

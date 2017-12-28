@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Ein Brief Friedrich Hebbels.</h2>
 
 Hebbel hatte seine Jugend unter dem Druck der bittersten Armut
@@ -8,7 +7,7 @@ Verhältnissen in Holstein lebte, und den er seit 20 Jahren
 nicht mehr gesehen hatte. Übrigens hatte er versucht, das Los seines
 Bruders zu erleichtern, indem er sich um eine Stellung in Gmunden
 für ihn bemüht und ihm auch das Geld zur Reise dorthin geschickt 
-\<@pagebreak 290/>
+<@pagebreak 290/>
 hatte. Sein Bruder konnte sich jedoch zu einer Auswanderung nach
 Österreich nicht entschließen. Über das ergreifende Wiedersehen der
 beiden Brüder berichtet der Dichter seiner Frau:
@@ -50,7 +49,7 @@ weil sie durch Hecken und Wälle verhindert sind, ihre Weideplätze
 zu verlassen, den widerspenstigsten Sand unter meinen Füßen. Aber
 ich hatte mehr Glück wie gewöhnlich; ich fand das rechte Dorf, das
 diesseits eines kleinen Gehölzes liegt, und ein Pflüger bezeichnete 
-\<@pagebreak/>
+<@pagebreak/>
 mir das Haus. Als ich um die Ecke bog, erblickte ich einen ältlichen
 Mann, der vor seiner Tür Holz hackte; ein verwittertes Gesicht, jedoch
 noch von starkem Haarwuchs eingezäunt, sah verwundert zu
@@ -90,7 +89,7 @@ stumpfen Messer und stopfte die Wunden wieder mit Löschpapier.
 Nach Verlauf von ungefähr anderthalb Stunden machten wir uns
 auf den Rückweg, er in dem alten Steyrer Rock, den ich ihm im
 Frühling schickte, einen zerdrückten Sommerhut auf dem Kopf und 
-\<@pagebreak/>
+<@pagebreak/>
 Stiefel an den Füßen, die kaum noch zusammenhielten. Bittere
 Armut; ein kleiner Haufen Kartoffeln unter dem Ofen und Ehestreit
 darüber, ob für das nächste Geld noch mehr Kartoffeln angeschafft
@@ -130,7 +129,7 @@ Paris!« Als ich einpackte, bat er mich um eins der seidenen Taschentücher,
 das zerrissen war. Ich fragte: »Du willst es deiner Alten
 wohl mitbringen?« Er erwiderte: »Das nun wohl auch, ja, aber
 es ist mehr der Leute wegen! Ich werde sagen: das ist sein 
-\<@pagebreak/>
+<@pagebreak/>
 schlechtestes.« Auch das Nichtkommen nach Gmunden ist durch die große
 Not einfach gelöst; gleich konnten sie nicht gehen, denn das Kind
 war wirklich verletzt, und nachher war kein Geld mehr da. Im Feuer

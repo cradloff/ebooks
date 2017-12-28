@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 157/>
+<@pagebreak 157/>
+
 Teleskope von ungeheurer Größe.
 ===============================
 

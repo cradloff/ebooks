@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Ohne Luft.
 ==========
 
@@ -32,7 +31,7 @@ nicht nur entsprechende *Stärke*, sondern auch womöglich *nur
 gekrümmte* Flächen aufweisen, da *ebene* mit Rücksicht auf
 den Überdruck einer besonderen Verspannung oder Abstützung
 bedürfen. Der für die künstliche Luftbereitung notwendige Stickstoff
-\<@pagebreak 119/> und besonders der Sauerstoff wäre in eigenen Tanks in verflüssigtem
+<@pagebreak 119/> und besonders der Sauerstoff wäre in eigenen Tanks in verflüssigtem
 Zustand stets reichlich vorrätig zu halten und durch
 Nachschub von der Erde fortgesetzt zu ergänzen.
 

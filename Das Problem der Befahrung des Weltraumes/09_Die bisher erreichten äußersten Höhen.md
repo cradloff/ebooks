@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die bisher erreichten äußersten Höhen.
 ======================================
 
@@ -8,7 +7,7 @@ im Freiballon 12000, und alpinistiseh (am Mount Everest) 8600
 Meter Höhe erreicht werden (Abb. 9). Noch weiter gelangten
 sogenannte *Ballonsonden*. Es sind dies unbemannte Gummiballone,
 die sehr leicht gebaute Meßgeräte möglichst hoch emportragen
-\<@pagebreak 19/> sollen. Da sich mit zunehmender Höhe der Luftdruck
+<@pagebreak 19/> sollen. Da sich mit zunehmender Höhe der Luftdruck
 ständig verringert, dehnt sich der Ballon beim Aufstieg immer
 mehr aus, bis er schließlich zerplatzt. Die Meßgeräte sinken dann
 an einem Fallschirme langsam herunter, wobei sie selbsttätig

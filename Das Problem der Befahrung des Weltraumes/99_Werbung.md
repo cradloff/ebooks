@@ -1,8 +1,7 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 189/>
+<@pagebreak 189/>
 Wir bitten um Beachtung der folgenden Seiten.
 
-\<@pagebreak /> W-ir empfehlen
+<@pagebreak /> W-ir empfehlen
 Bibliothek für Luftschiffahrt
 und
 Plugtechnik
@@ -25,7 +24,7 @@ unberechnet versenden ‚’
 RICHARD CARL SCHMIDT @ CO.
 B E R L I N W 62
 
-\<@pagebreak /> Automobiltechnisdm Fachliteratur
+<@pagebreak /> Automobiltechnisdm Fachliteratur
 *
 Autotechnische Bibliothek
 (bisher er.rchienen 87 Bände)
@@ -44,7 +43,7 @@ Ausführliche Prospekte stehen zur Verfügung
 RICHARD CARL SCHMIDT @ co.
 B E R L 1 N W 62
 
-\<@pagebreak /> Schiffstechnische Literatur
+<@pagebreak /> Schiffstechnische Literatur
 Einzelwerke
 *
 Segelsport=ßücherei

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Noch zwei wichtige Fragen.
 ==========================
 
@@ -29,7 +28,7 @@ an eine Fahrt zu fremden Himmelskörpern und das Betreten
 derselben, wie es von einzelnen Schriftstellern in romantischer
 Weise geschildert wird. Aber so verlockend dies auch erscheinen
 mag, so würde es doch jedenfalls erst den *letzten* Abschnitt
-\<@pagebreak /> einer erfolgreichen Entwicklung der Raumschiffahrt bilden können.
+<@pagebreak /> einer erfolgreichen Entwicklung der Raumschiffahrt bilden können.
 *Zunächst* jedoch gäbe es für dieselbe noch mancherlei
 Anwendungen, die leichter zu verwirklichen wären, weil sie noch
 nicht erfordern würden, den Bannkreis der Erde, unseres Heimatgestirns,

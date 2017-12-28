@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Die Leibeigenschaft.</h2>
 
 <h3>Von A. Forchhammer.</h3>
@@ -10,7 +9,7 @@ Mit dem sechsten Jahre des Leibeigenen fing seine Dienstbarkeit
 an. Zuerst wurde er als Gänsejunge aufgestellt, und wenn er ein
 wenig mehr herangewachsen war, als Schafjunge. Für solchen Dienst
 erhielt er seine tägliche Nahrung und einige Ellen grober Leinwand 
-\<@pagebreak 120/>
+<@pagebreak 120/>
 zur Kleidung. Etwa mit dem zwölften Jahre wurde er zur wirklichen
 Ackerarbeit verwandt; er erhielt dann den Titel Kleinjung
 und außerdem einen Lohn von 4--5 Mark. Mit dem fünfzehnten
@@ -50,7 +49,7 @@ Die höchste Stufe irdischen Glücks, die der Leibeigene erreichen konnte,
 war, Besitzer einer halben oder ganzen Hufe zu sein. Hatte er dieses
 Glück, so wurde ihm eine Landstelle von 70--80 Tonnen übergeben.
 Mit dieser Landstelle erhielt der Hufner zugleich das Inventar, dessen 
-\<@pagebreak/>
+<@pagebreak/>
 Hauptbestandteile 4--5 Kühe und 14--16 Pferde waren. Das ganze
 Inventar würde mancher unserer jetzigen Hufner nicht gegen sein
 Sattelpferd eintauschen mögen; denn in Bausch und Bogen wurde
@@ -90,7 +89,7 @@ die zum Ackerbau gehört, blieb der Leibeigene völlig unwissend.
 Freilich gab es hin und wieder Schulen; allein woher sollten die
 Kinder, die neben dem frühen Dienst noch oft genug für sich und
 ihre Eltern Brot betteln mußten, die Zeit hernehmen, zur Schule 
-\<@pagebreak/>
+<@pagebreak/>
 zu gehen? Und wenn sie die hatten, woher sollte Lust und Eifer
 zum Lernen kommen? Mit dieser Unwissenheit war eine ganz unglaubliche
 geistige Trägheit und Gleichgültigkeit verbunden. Es gab
@@ -129,7 +128,7 @@ Tat die Peitsche oder Gefängnis auf dem Hofe die davon erwartete
 Wirkung nicht mehr, so sandte der Gutsherr die Männer ohne
 weiteres in die Karre, die Weiber ins Zuchthaus, in der Regel
 freilich nur auf kurze Zeit; denn er konnte oder wollte ihre Arbeit
-\<@pagebreak/>
+<@pagebreak/>
 auf dem Hofe nicht entbehren. Der Leibeigene suchte sich wohl
 durch die Flucht der Sklaverei zu entziehen; allein gewöhnlich mißlang
 sie, weil die Ämter und Städte und selbst Hamburg und Lübeck

@@ -1,6 +1,3 @@
-<div class="hidden">
-<#include "pagebreak.ftl">
-</div>
 <h2>Min Modersprak.</h2>
 
 <h3>Von Klaus Groth.</h3>
@@ -20,7 +17,7 @@ de ganze Welt is weg.
 Du pust mi as en Vœrjahrswind
 de kranke Boss torecht.
 
-\<@pagebreak 377/>Min Obbe folt mi noch de Hann'	
+<@pagebreak 377/>Min Obbe folt mi noch de Hann'	
 un seggt to mi: »Nu bê!«
 Un »Vaderunser« fang ik an,
 as ik wul früher dê.

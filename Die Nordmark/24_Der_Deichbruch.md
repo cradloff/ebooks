@@ -1,5 +1,4 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 81/>
+<@pagebreak 81/>
 <div class="img"><img alt="Reiter am Strand" src="0089.gif"/></div>
 
 <h2>Der Deichbruch.</h2>
@@ -28,7 +27,7 @@ weichen. Das hatte er zurückgelassen; dann, vor kaum einer Viertelstunde, naß,
 jetzt, das Ohr nach den Windböen, welche die in Blei gefaßten
 Scheiben rasseln machten, blickte er wie gedankenlos in die wüste
 Nacht hinaus; die Wanduhr hinter ihrer Glasscheibe schlug eben 
-\<@pagebreak/>
+<@pagebreak/>
 acht. Das Kind, das neben der Mutter stand, fuhr zusammen und
 barg den Kopf in deren Kleider.
 
@@ -70,7 +69,7 @@ zitternden Lippen versagten es ihr.
 Draußen wieherte der Schimmel, daß es wie Trompetenschall
 in das Heulen des Sturmes hineinklang. Elke war mit ihrem
 Manne hinausgegangen; die alte Esche knarrte, als ob sie
-\<@pagebreak/>
+<@pagebreak/>
 auseinanderstürzen solle. »Steigt auf, Herr!« rief der Knecht, »der
 Schimmel ist wie toll; die Zügel könnten reißen.« Hauke schlug
 die Arme um sein Weib: »Bei Sonnenaufgang bin ich wieder
@@ -112,7 +111,7 @@ hätte es festen Sommerboden unter sich. Wie eine wilde Jagd
 trieben die Wolken am Himmel; unten lag die weite Marsch wie
 eine unerkennbare, von unruhigen Schatten erfüllte Wüste; von
 dem Wasser hinter dem Deiche, immer ungeheurer, kam ein dumpfes 
-\<@pagebreak/>
+<@pagebreak/>
 Tosen, als müsse es alles andere verschlingen. »Vorwärts, Schimmel!«
 rief Hauke, »wir reiten unseren schlimmsten Ritt!« Da klang es
 wie ein Todesschrei unter den Hufen seines Rosses. Er riß den
@@ -152,7 +151,7 @@ sich übereinander zu türmen suchten und übereinander gegen
 das feste Land schlugen. Mit weißen Kronen kamen sie daher,
 heulend, als sei in ihnen der Schrei alles furchtbaren Raubgetiers
 der Wildnis. Der Schimmel schlug mit den Vorderhufen und schnob
-\<@pagebreak/>
+<@pagebreak/>
 mit seinen Nüstern in den Lärm hinaus; den Reiter aber wollte
 es überfallen, als sei hier alle Menschenmacht zu Ende, als müsse
 jetzt die Nacht, der Tod, das Nichts hereinbrechen. Doch er besann
@@ -194,7 +193,7 @@ schrie er, »halt! Was treibt ihr hier für Teufelsunfug?« Sie
 hatten in Schreck die Spaten ruhen lassen, als sie auf einmal den
 Deichgrafen unter sich gewahrten; seine Worte hatte der Sturm ihnen
 zugetragen, und er sah wohl, daß mehrere ihm zu antworten strebten; 
-\<@pagebreak/>
+<@pagebreak/>
 aber er gewahrte nur ihre heftigen Gebärden; denn sie standen alle
 ihm zur Linken, und was sie sprachen, nahm der Sturm hinweg,
 der hier draußen jetzt die Menschen mitunter wie im Taumel gegeneinander
@@ -236,7 +235,7 @@ Haukes zornrotes Antlitz war totenbleich geworden; der Mond,
 der es beschien, konnte es nicht bleicher machen; seine Arme hingen
 schlaff, er wußte kaum, daß er den Zügel hielt. Aber auch das war
 nur ein Augenblick; schon richtete er sich auf, ein hartes Stöhnen 
-\<@pagebreak/>
+<@pagebreak/>
 brach aus seinem Munde; dann wandte er stumm sein Pferd, und
 der Schimmel schnob und raste ostwärts auf dem Deich mit ihm dahin.
 Des Reiters Augen flogen scharf nach allen Seiten; in seinem
@@ -278,7 +277,7 @@ hundert Jahren tun!«
 
 Ein donnerartiges Rauschen zu seinen Füßen weckte ihn aus
 diesen Träumen; der Schimmel wollte nicht mehr vorwärts. Was 
-\<@pagebreak/>
+<@pagebreak/>
 war das? -- Das Pferd sprang zurück, und er fühlte es, ein Deichstück
 stürzte vor ihm in die Tiefe. Er riß die Augen auf und schüttelte
 alles Sinnen von sich; er hielt am alten Deich, der Schimmel hatte
@@ -320,7 +319,7 @@ stürzte das Meer sich hinterdrein; noch einmal sah er drunten den
 Kopf des Pferdes, die Räder des Gefährtes aus dem wüsten Greuel
 emportauchen und dann quirlend darin untergehen.
  
-\<@pagebreak/>
+<@pagebreak/>
 Die starren Augen des Reiters, der so einsam auf dem Deiche
 hielt, sahen weiter nichts. »Das Ende!« sprach er leise vor sich
 hin; dann ritt er an den Abgrund, wo unter ihm die Wasser unheimlich

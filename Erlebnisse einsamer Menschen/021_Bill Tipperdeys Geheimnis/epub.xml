@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">7b423200-e75d-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Bill Tipperdey’s Geheimnis</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">021</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Laßt mich mit Eurem phantastischen Geschwätz in Ruhe, Mann!“ brummte der Gefängniswärter. „Ihr seid wahrhaftig nicht der erste, der mir goldene Berge verspricht, damit ich ihn entschlüpfen lasse. Die Angst vor der Verschickung nach der Sträflingskolonie der Andamanen hat schon manchen allerlei Märchen erfinden lassen. Eine ähnliche Geschichte, wie Ihr sie erzählt, hörte ich bereits mindestens ein Dutzend Mal. So viele Schiffe haben nie die Ozeane mit einer Goldladung im Raum befahren, um jedem Matrosen Gelegenheit zu geben, in den Besitz eines wertvollen Geheimnisses zu gelangen.“
+
+„Möglich, daß andere Euch angelogen haben, – ich spreche die Wahrheit“, erwiderte Bill Tipperdey mit Nachdruck. „Seht Euch doch mal gefälligst meine Papiere durch, die im Bureau dieses verd… Steinkastens von Freiheitsberaubungsanstalt liegen dürften. Da werdet Ihr erkennen, daß ich tatsächlich im Mai des Jahres 1895 für die Bark „Australia“ in Melbourne angemustert worden bin. Und die „Australia“ hatte für gut zwei Millionen Goldbarren im Laderaum, die sie im Auftrage der Ballarat-Gold-Minen-Kompagnie hier nach Singapore bringen sollte. – Das, was ich sage, stimmt alles aufs Tüpfelchen – so wahr ich Bill Tipperdey heiße und mich rühmen kann, der einzige Überlebende des Goldschiffes zu sein. – Ihr zuckt ungläubig die Achseln?! Nun, so geht doch nach dem Hafenamt und laßt Euch die Liste der im Sommer 1895 verschollenen Seefahrzeuge vorlegen. Darunter werdet Ihr auch die „Australia“ finden. Mithin muß wohl was an meinem „Märchen“ daran sein, wie Ihr es zu nennen beliebt.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (021) Bill Tipperdey’s Geheimnis.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

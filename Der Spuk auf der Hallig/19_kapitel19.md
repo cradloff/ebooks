@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>19. Kapitel.</h1>
 
 <div class="subtitle">Wie die Schiffsmaaten vom Fischen zurückkehrten. &mdash; Warum Heik seinen
@@ -27,7 +26,7 @@ der Fahrzeuge einwirken. Sie heißen eigentlich Entenmuscheln und sind
 in fast allen Meeren heimisch.
 
 Jeden Tag fuhr einer mit dem Floß an Land und erstieg den Aussichtsberg,
-\<@pagebreak 150/> um nach der Insel auszulugen, auf der man die Gefährten
+<@pagebreak 150/> um nach der Insel auszulugen, auf der man die Gefährten
 vermutete. Lebten diese noch, dann unterließen sie sicher nicht, irgend
 ein Zeichen ihres Vorhandenseins zu geben. Wir wissen, dass es den
 beiden Unglücksgefährten nicht möglich gewesen war, ein solches aufzurichten.
@@ -74,7 +73,7 @@ scharf umrissen auf den Decksplanken ab. Heik brachte das Gespräch auf
 die Heimreise.
 
 »Uns hat es bisher an Herz für die Arbeit gefehlt,« sagte der
-\<@pagebreak /> Schiffer, »wenn das so fortgeht, kommen wir niemals nach Hause. Wir
+<@pagebreak /> Schiffer, »wenn das so fortgeht, kommen wir niemals nach Hause. Wir
 müssen uns zusammenraffen und das Werk wieder tapfer angreifen. Das
 soll gleich morgen geschehen. Seit wir unsere Freunde verloren haben,
 ist alles liegen geblieben.«
@@ -84,7 +83,7 @@ ist alles liegen geblieben.«
 »Warum nicht?« fragte das junge Mädchen, und sah ihn mit traurigen
 Augen an.
 
-\<@pagebreak /> »Weil wir uns doch kein rechtes Herz fassen können, ehe wir Towe
+<@pagebreak /> »Weil wir uns doch kein rechtes Herz fassen können, ehe wir Towe
 und Paul nich wiederhaben tun,« antwortete der alte Matrose. »Dat
 is der Grund, Fräulein. Wir haben kein gutes Gewissen, Fräulein, dat
 is die Krankheit, die uns in die Knochen liegt, un uns an der Arbeit
@@ -129,7 +128,7 @@ sehnlichst darauf warteten, durch ihre Schiffsgenossen erlöst zu werden.
 und dass wir sie bald wiedersehen werden!« rief sie.
 
 »Kann wesen, kann ook nich wesen,« sagte Heik. »Wir haben das 
-\<@pagebreak /> Versprechen von Keppen Jaspersen, dat genügt mich. Ein Mann, ein
+<@pagebreak /> Versprechen von Keppen Jaspersen, dat genügt mich. Ein Mann, ein
 Wort, nich wohr, Kaptein?«
 
 »Gewiss, Heik, die Fahrt wird gemacht. Jetzt aber wollen wir die
@@ -181,7 +180,7 @@ mit neugierigen und verwunderten Blicken.
 »De Fisch is in düsse Kist', Kaptein,« erklärte Towe vom Boot
 aus. »Wi hewwt em dor inspunnt, dormit dat he nich utrischen ded.
 Lassen Sie die Kiste in Ihre Kammer stellen, morgen wollen wir sie
-\<@pagebreak /> aufmachen und überholen. Un nu her mit de annere Talje, Heik! Dat
+<@pagebreak /> aufmachen und überholen. Un nu her mit de annere Talje, Heik! Dat
 Boot is halm vull Water un sackt weg, wenn't nich upheißt ward.«
 
 Das Boot hing bald in den Davits, die Kiste wurde achteraus geschafft.
@@ -228,7 +227,7 @@ Augen, blieb jedoch stumm.
 
 »Heute gibt's viel zu tun,« wendete sich der Schiffer an die Helden
 des Tages. »Solange ihr auf Urlaub wart, ist hier wenig geschafft 
-\<@pagebreak /> worden; wir haben daher viel nachzuholen, je eher wir fertig sind, desto
+<@pagebreak /> worden; wir haben daher viel nachzuholen, je eher wir fertig sind, desto
 eher können wir uns auf die Heimreise begeben. Wenn euch also eure
 Vergnügungstour nicht noch in den Gliedern steckt, dann wollen wir das
 Werk mit Fäusten angreifen. Was sagt ihr?«
@@ -277,7 +276,7 @@ entgegen, und es dauerte lange, bis der Deckel nachgab und der
 Inhalt sich zeigte.
 
 »Junge, Junge!« rief Towe, sich mit weit geöffneten Augen vorbeugend.
-\<@pagebreak /> »Dorum hewwt wi us quält un afrackert? Dorum hewwt
+<@pagebreak /> »Dorum hewwt wi us quält un afrackert? Dorum hewwt
 wi us högt un freut as de Schützenkönig von Husum? Dat ischo nix
 nich as Steenkram un Dreck!«
 
@@ -327,7 +326,7 @@ sich. »Sie sehen die Kiste fallen, sie wissen genau, wo sie liegt und
 rühren keinen Finger, sie wieder heraufzuholen! O, wenn ich dabei gewesen
 wäre!«
 
-\<@pagebreak /> »Sag' dat nich nochmal, Maat,« entgegnete Towe, »sonst steck' ich
+<@pagebreak /> »Sag' dat nich nochmal, Maat,« entgegnete Towe, »sonst steck' ich
 dich ein Reff in die Zunge. Wenn hier an düssen Disch en Dummkopp
 sitten doot, dennso büst du dat. Mark' di dat.«
 
@@ -375,7 +374,7 @@ nach allen Regeln der Kunst ausgebessert hatte. Die nächtliche Bewachung
 des kleinen Fahrzeugs wurde daher auch bald aufgegeben.
 
 Man hielt jetzt wieder wie vordem täglich zehn volle Arbeitsstunden 
-\<@pagebreak /> inne und hatte dafür auch nach Verlauf von vier Wochen die Genugtuung,
+<@pagebreak /> inne und hatte dafür auch nach Verlauf von vier Wochen die Genugtuung,
 die »Hallig Hooge« als richtigen Dreimastschoner begrüßen zu können,
 dem nur noch einige Segel fehlten.
 
@@ -430,7 +429,7 @@ liegende Bark unter dem ersten Anlauf weit nach der Backbordseite überholte.
 Möchtest du jetzt doch nicht lieber wieder an Bord von de ohle Hallig
 sein, mang dine gooden Schippsmaaten?«
 
-\<@pagebreak /> Da kam der Schiffer eilig von achtern her.
+<@pagebreak /> Da kam der Schiffer eilig von achtern her.
 
 »Macht das Floß klar!« rief er. »Zwei Mann gehen mit mir an
 Land! Heik und Towe! Bei dem Wind kann kein einzelner Mensch im
@@ -443,7 +442,7 @@ Das Floß war bald an Land gepaddelt und ohne Verzug machten
 die drei sich auf den Weg nach dem Robbenkap, denn nur in jener Gegend
 konnte das Boot bei diesem Winde angetrieben sein, wenn es Unglück
 gehabt hatte. Kaum lagen die hohen Felsketten, die den Jaspersenhafen
-\<@pagebreak /> umschlossen, hinter ihnen, da fasste der Sturm sie mit ganzer Macht,
+<@pagebreak /> umschlossen, hinter ihnen, da fasste der Sturm sie mit ganzer Macht,
 und sie mussten alle Kraft aufbieten, nicht umgerissen und in die Klüfte
 hinuntergeschleudert zu werden, an deren Rändern sie dahinzuschreiten hatten.
 
@@ -493,7 +492,7 @@ sich dann auf die Suche nach seinem ehemaligen Insassen. Zunächst
 lenkten sie ihre Schritte nach dem Robbenkap, und musterten dabei mit
 scharfen Blicken jeden Steinwinkel, jeden Riss und jedes Loch.
 
-\<@pagebreak /> »Nix zu sehen,« sagte Heik nach einer Weile. »Er wird draußen
+<@pagebreak /> »Nix zu sehen,« sagte Heik nach einer Weile. »Er wird draußen
 in See schon weggesackt sein.«
 
 »Er kann auch verwundet und hilflos hier irgendwo auf dem
@@ -542,7 +541,7 @@ Der Schiffer war damit gern einverstanden. Sie wickelten den Leichnam
 in das Segel und trugen ihn an den von Towe bezeichneten Platz;
 hier taten sie noch einige schwere Steine in die Umhüllung und befestigten
 alles mit der Schot. Nach einem kurzen Gebete, das jeder für sich sprach, 
-\<@pagebreak /> senkten sie den Toten in die See, in der so unzählige Menschenkinder,
+<@pagebreak /> senkten sie den Toten in die See, in der so unzählige Menschenkinder,
 gute und böse, ihre letzte Ruhestätte gefunden haben.
 
 Obgleich der Grieche an Bord der Hallig nichts weniger als beliebt
@@ -590,7 +589,7 @@ Mit dem ersten Tagesgrauen waren alle Mann an Deck und auch
 Dora schon in der Kombüse.
 
 Paul warf von der Back aus einen langen Blick in die Runde. 
-\<@pagebreak /> Die Felsen standen schwarz und still, und schwarz und still breitete sich
+<@pagebreak /> Die Felsen standen schwarz und still, und schwarz und still breitete sich
 auch der Wasserspiegel des Hafenbeckens aus. Wieviel Erinnerungen
 knüpften sich an diesen Ort!
 
@@ -602,7 +601,7 @@ zum größten Teil nichts als eine Verbannung, eine Gefangenschaft
 gewesen. Allerdings eine Gefangenschaft, die sich ertragen ließ. Aber
 doch eine Abgeschlossenheit von der ganzen übrigen Welt. Und jetzt sollte
 es nach Hause gehen. Sie hatten mit aller Kraft auf diesen Moment 
-\<@pagebreak /> der Befreiung hingearbeitet; jetzt war er gekommen, und doch vermochte
+<@pagebreak /> der Befreiung hingearbeitet; jetzt war er gekommen, und doch vermochte
 er kaum daran zu glauben.
 
 »Hiev' Anker!« kam das Kommando des Kapitäns.
@@ -650,7 +649,7 @@ ihre Fahrt nach Kapstadt angetreten.
 Bald lag die Insel mit dem gastlichen Jaspersenhafen weit hinter
 ihr, so einsam, wie zuvor, ein Tummelplatz der kalten Sturmwinde, und
 der Regen- und Schloßenböen, die nach kurzer Zeit alle Spuren der 
-\<@pagebreak /> Menschen, die hier nahezu ein Jahr lang ihr Leben gefristet hatten, verwischt
+<@pagebreak /> Menschen, die hier nahezu ein Jahr lang ihr Leben gefristet hatten, verwischt
 haben werden.
 
 Von einer Meeresströmung war nichts zu merken. Vielleicht hatte

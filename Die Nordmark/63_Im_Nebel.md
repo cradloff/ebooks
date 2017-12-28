@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Im Nebel.</h2>
 
 <h3>Von Wilhelm Lobsien.</h3>
@@ -28,7 +27,7 @@ er auf und spähte um sich.
 
 Dann wälzte er sich mit donnerndem Brüllen an die Inseln
 heran und riß mit seinen großen, täppischen Händen die weißen 
-\<@pagebreak 328/>
+<@pagebreak 328/>
 Dünenköpfe herunter, daß sie in alle Winde zerstoben oder wie
 eine stäubende Schneelawine in seinen nimmersatten, schnappenden
 Schlund stürzten.
@@ -74,7 +73,7 @@ und blaue Lichte.
 Frau Marie legte just die letzte Hand an die Ausschmückung
 des Baumes und wurde nun gewahr, daß die Spitze aus buntem
 Glas, die an so vielen Abenden den Weihnachtsbaum gekrönt hatte, 
-\<@pagebreak/>
+<@pagebreak/>
 zerbrochen war. Und während sie bedauernd die blinkernden Scherben
 betrachtete, dachte sie daran, was alles sie schon ausgegeben habe,
 und wie weit sie mit dem Rest ihrer geringen Barschaft noch reichen
@@ -124,7 +123,7 @@ wehte ein feuchtkalter Wind und trug in langen Zwischenräumen
 ein gedämpftes Krachen herüber.	
 
 Vorsichtig kroch Hans den Deich hinunter und lief auf dem 
-\<@pagebreak/>
+<@pagebreak/>
 schmalen Weg, der landwärts am Fuße des hohen Walles entlanglief,
 weiter. Hier war er gegen den Seewind geschützt und schlenkerte
 darum langsam vorwärts. Nicht weit vor ihm war eine dunkle
@@ -169,7 +168,7 @@ Sachen machte er sich nicht viel, die würde er ja so wie so bekommen,
 wenn die alten nichts mehr taugten. Aber Kuchen, einen
 ganzen Teller voll Kuchen hätte er gar zu gern gehabt, nicht die
 Pfeffernüsse, die seine Mutter bereitete, sondern die leckeren Sachen, 
-\<@pagebreak/>
+<@pagebreak/>
 die er im Laden bei Bäcker Holst in Tondern vor einiger Zeit, als
 er mit seinem Vater in der Stadt gewesen war, gesehen hatte, und
 ganz besonders eine Apfelsine. Solche Früchte hatte er noch nie
@@ -215,7 +214,7 @@ sich hin.
 
 Auf den schmalen Dorfstraßen war es still. Nur hin und wieder
 begegneten ihm eilende Menschen, die für den Abendtisch noch etwas 
-\<@pagebreak/>
+<@pagebreak/>
 besorgen wollten. Die meisten Fenster waren noch dunkel, desto
 heller quoll das Licht aus dem Krämerladen auf die Straße.
 
@@ -265,7 +264,7 @@ Es war dunkel geworden. Ein feuchter Nebel kroch durch die
 Gassen. In allen Häusern waren die Lampen angezündet worden.
 Ihr Licht flackerte auf den nebelfeuchten, schlüpfrigen Straßensteinen.
 Am Ausgang des Dorfes, wo die Straße in das Dunkel der einsamen
-\<@pagebreak/>
+<@pagebreak/>
 Felder führte, stand eine Laterne; ein gelber Dunstkreis spielte
 um das Licht und warf seinen trüben Schein auf die Straße.
 
@@ -312,7 +311,7 @@ Aufatmend blieb er stehen.
 Aus der Ferne, sah er ein Licht durch den Nebel schimmern;
 das kam aus seinem Elternhause. Da saßen sie zu Hause in der
 warmen Stube, und seine Mutter wartete auf ihn, um den letzten 
-\<@pagebreak/>
+<@pagebreak/>
 Schmuck an den Tannenbaum zu setzen. Er mußte immer an seine
 Mutter denken, an seine liebe, gute Mutter. Ach, was würde seine
 Mutter sagen, wenn sie erführe, was er heute getan! Der Vater,
@@ -358,7 +357,7 @@ an, immer weiter hinaus in die dunkle Nacht, immer weiter.
 Nichts war zu hören weit und breit als das Heulen des Windes,
 das immer lauter und dröhnender werdende Krachen und Bersten
 der Schollen am Rande der Eiskante und das gellende Kreischen 
-\<@pagebreak/>
+<@pagebreak/>
 der aufgeschreckten Möwen oder der irre Schrei eines angstvoll landwärts
 drängenden Seevogels. Und nichts war zu sehen weit und
 breit. Der hohe Seedeich, das Licht aus seinem Elternhause -- alles
@@ -407,7 +406,7 @@ Scholleneis aufgetürmt und stand wie eine starrende Wand
 vor ihm. Mühsam kletterte er darüber hinweg und lief auf dem
 holperigen Wege weiter.
  
-\<@pagebreak/>
+<@pagebreak/>
 Da spürte er es glatt unter den Füßen; bei jedem Fußtritt
 spritzte es auf; schon reichte das Wasser bis an seine Knöchel.
 
@@ -466,7 +465,7 @@ Aber enttäuscht antwortete ein zages:
 
 »Ach, ne!«
  
-\<@pagebreak/>
+<@pagebreak/>
 Plötzlich kam Hektor in schnellem Sprung bellend auf die Mutter
 zu und rannte wieder zur Seite. Sie folgte ihm, und auf einmal
 schrie sie auf, ganz kurz aber laut und scharf, und nun wußte der
@@ -513,7 +512,7 @@ nach dem Deiche.
 
 Er ging voran, und sie folgte ihm und trug in ihren zitternden
 Händen die beiden Laternen. Das Licht flackerte und hüpfte über 
-\<@pagebreak/>
+<@pagebreak/>
 die gurgelnden Wellen und malte den Riesenschatten auf die blinkernde
 Fläche. Plötzlich stieg der Schatten hoch empor; sie waren
 am Deiche.
@@ -560,7 +559,7 @@ Der Wind umtobte das Haus. Er preßte sich schwer gegen
 die Fensterläden, als wollte er sie eindrücken, als wollte er sich
 mit Gewalt Eingang verschaffen, um den letzten Rest seliger Weihnachtsstimmung, 
 das letzte flackernde Lichtstümpflein auszulöschen. 
-\<@pagebreak/>
+<@pagebreak/>
 Dann riß er an der Tür, dann packte er die Fensterläden, daß sie
 klapperten und knirschten. Pfeifend fuhr ein kalter Hauch durch
 einen Spalt und erdrückte die Flamme. Im Zimmer war es finster

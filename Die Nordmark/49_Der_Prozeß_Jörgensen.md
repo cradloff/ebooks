@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Der Prozeß Jörgensen.</h2>
 
 <h3>Von Asta Heiberg.</h3>
@@ -32,7 +31,7 @@ zeigte, was er zu leisten vermochte, die bewies, daß die
 Stellung in dem elenden Schleswig seiner unwürdig sei, weil er
 zu Höherem veranlagt wäre.
  
-\<@pagebreak 235/>
+<@pagebreak 235/>
 Hier bot sich eine Gelegenheit, hier konnte er sich mit Ruhm
 bedecken.
 
@@ -76,7 +75,7 @@ er den Verfasser nicht nennen werde.
 
 Ich ging noch am Abend auf Heibergs Wunsch zu Verseck und
 fand auch ihn in Sorge und Angst. Er sagte mir: »Nichts kann 
-\<@pagebreak/>
+<@pagebreak/>
 mich bewegen, den Doktor zu nennen; sagen Sie ihm das zu seiner
 Beruhigung.«
 
@@ -121,7 +120,7 @@ erregt zurück.
 
 Die Beschlagnahme der Flugschrift wurde nicht nur in der
 Buchhandlung vorgenommen, sondern auch in den Häusern wurde 
-\<@pagebreak/>
+<@pagebreak/>
 nach den versandten Exemplaren gesucht. Es fand sich nur eines
 bei dem Knopfmacher Gerke. Gerke war ein ruhiger, harmloser
 Mensch und ein eifriger Jäger wie Jörgensen, mit dem er oft zum
@@ -163,7 +162,7 @@ in die angrenzende Allee beordert.
 
 Die Gendarmen waren im Lollfuß, den der Zug passieren mußte,
 verteilt. Es durften nicht zwei Menschen nebeneinander erscheinen, 
-\<@pagebreak/>
+<@pagebreak/>
 keiner vor seiner Haustür stehen. Das Wetter war rauh, naß und
 kalt, acht Bürger trugen den Sarg; der alte gebeugte Vater und
 dessen Schwestersohn folgten, sonst keiner. Jörgensen lief, begleitet
@@ -205,7 +204,7 @@ ausgenutzt werden konnte. Er gestand, nicht der Verfasser
 zu sein. Auf die Aufforderung, diesen zu nennen, erklärte
 er sehr bestimmt, das verweigern zu müssen, er wolle den Mann
 nicht in Gefahr bringen. Jörgensen wußte instinktartig, daß
-\<@pagebreak/>
+<@pagebreak/>
 Heiberg die Petition geschrieben hatte; darauf beruhte die Verfolgung.
 Durch Versecks Benehmen wurde sein Verdacht bestätigt, er gewann
 an Erfolg, wenn Verseck gestehen würde; er ließ ihn verhaften
@@ -248,7 +247,7 @@ die Einsicht seiner Papiere sich überzeuge, daß er nicht mehr Politik
 treibe. Ich wunderte mich jedesmal, daß Jörgensen den Versuch
 machte, meinen Mann zu überlisten, ihn in die Falle zu locken.
 Heiberg wurde immer heftig, erklärte, seine Weigerung beruhe auf 
-\<@pagebreak/>
+<@pagebreak/>
 seinem Recht, von dem er kein Jota aufgebe. Wenn ich sah, daß
 die beiden auf den Siedepunkt gelangten, sagte ich sehr bestimmt:
 »Lieber Heiberg, rege dich nicht auf, der Herr Polizeimeister hat
@@ -292,7 +291,7 @@ Zwei Tage darauf war Rohwedder in den Ruhestand versetzt.
 Herr Rathgen, ein sehr befähigter Beamter, er ist jetzt in
 Berlin, erhielt seine Stelle.
  
-\<@pagebreak/>
+<@pagebreak/>
 Das sich wiederholende Verlangen von Jörgensen, die Schriftstücke
 in Heibergs Stube zu prüfen, erhöhte ihre Gefährlichkeit dermaßen,
 daß verschiedene Bürger sich erboten, bei Nacht das Zimmer
@@ -334,7 +333,7 @@ schrecklichen Jahre immer kalte Hände und Füße, keine Bekleidung
 vermochte die Kälte, die durch Angst und Sorge entstand, zu beseitigen.
 Müller hatte mir gesagt, daß es vorkomme, daß der Schlüssel
 ein künstlich geöffnetes Schloß nicht öffne; ich möge für den Fall 
-\<@pagebreak/>
+<@pagebreak/>
 zu ihm schicken, das habe keine Bedeutung. So sagte er, und ich
 dachte, wenn der Schlüssel versagt, wird Jörgensen Verdacht schöpfen,
 der kleinste Umstand kann verraten, was geschehen ist, und dann
@@ -376,7 +375,7 @@ in dem Haushalt der Natur nützlich ist, seine Bestimmung hat, und daß
 auch ich die Aufgabe habe, den Platz auszufüllen, auf dem ich stehe.
 
 Die Absicht, Heiberg in Haft zu bringen, beruhte naturgemäß 
-\<@pagebreak/>
+<@pagebreak/>
 auf der Hoffnung, daß der Gefangene, mürbe gemacht, etwas gestehen
 werde, was die Amnestie aufhob. Dann konnte Jörgensen
 den Prozeß gegen ihn einleiten, das Ziel seines Strebens erreichen.

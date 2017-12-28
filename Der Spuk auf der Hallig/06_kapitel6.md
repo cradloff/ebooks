@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>6. Kapitel.</h1>
 
 <div class="subtitle">Von der Bugpumpe und dem gebildeten Towe. &mdash; Warum dem Kapitän, Heik,
@@ -13,7 +12,7 @@ hören, das den Wind wieder herbeibringen sollte. In diesem Punkte ist
 fast jeder Seemann abergläubisch.
 
 Towe Tjarks sagte, er habe noch nie erlebt, dass das Pfeifen geholfen
-\<@pagebreak 32/> hätte, er wäre aber mal mit einem Schiffer gefahren, der immer
+<@pagebreak 32/> hätte, er wäre aber mal mit einem Schiffer gefahren, der immer
 mit dem Finger an den Besanmast geklopft hätte, wenn er daran vorbeikam,
 und das sei auch ein ganz sicheres Mittel, Wind zu schaffen. Allein,
 Keppen Jaspersen und Towe Tjarks mochten pfeifen und klopfen soviel
@@ -68,7 +67,7 @@ davongingst?« fragte der Schiffer. »Erinnerst du dich dessen vielleicht noch?�
 het wohrschinlich Zimmergrimassen bedrewen.« &mdash; »Wat, Towe?« rief
 Paul und sah dem alten Seefahrer belustigt in das ehrliche Gesicht.
 
-\<@pagebreak /> »Na denn Zimmergrimastik, wenn dat richtiger is, du wittnäsige Bengel.«
+<@pagebreak /> »Na denn Zimmergrimastik, wenn dat richtiger is, du wittnäsige Bengel.«
 
 »Gymnastik meinst du wohl, Zimmergymnastik. Ja ja, ohl Towe,
 so'n beten Bildung makt sick ganz wunnerschön.«
@@ -118,7 +117,7 @@ Weers. »Nee, nich för'ne ganze Welt vull Bergelohn!«
 Keppen Jaspersen. »Dat de Dör tofeel, was'n Tofall, wider nix.«
 
 »En schönen Tofall!« entgegnete Weers. »Slengert dat Schipp 
-\<@pagebreak /> verlich so bannig? Nee, Kaptein, de ohle Hallig staht so ruhig un fest,
+<@pagebreak /> verlich so bannig? Nee, Kaptein, de ohle Hallig staht so ruhig un fest,
 as 'ne Kirch' an Land; Se könt en Ei up de Nock von den Klüverbohm
 balangseeren laten. Nee, Kaptein, düsse Dör is nich von Menschenhänden
 zugeschlagen worden. Das hat ein Geist getan!«
@@ -167,7 +166,7 @@ du, Towe?« &mdash; »Ich ok nich,« antwortete Towe.
 Kaum hatte er dies gesagt, da erhob sich ein trappelndes und krabbelndes
 Geräusch in einer der Kojen, eine große Ratte sprang heraus und
 lief über die Planken des Fußbodens einem entfernten Winkel zu. Towe 
-\<@pagebreak /> hob eine vor ihm liegende Holzleiste auf und warf damit nach dem widerwärtigen
+<@pagebreak /> hob eine vor ihm liegende Holzleiste auf und warf damit nach dem widerwärtigen
 Tier. Ein kreischendes Gequietsch' folgte.
 
 »De heww ick!« rief Towe, bückte sich und nahm die erschlagene
@@ -185,7 +184,7 @@ an der Luke. Die beiden Männer fuhren zusammen.
 »Wat heww ick 'n Schreck kregen!« rief Towe. »Jowoll, Kaptein,
 wi sünd hier. Wi hewwt jüst in düssen Ogenblick den Geist bannt.«
  
-\<@pagebreak /> Der Schiffer und Paul kamen herab und betrachteten die erlegte
+<@pagebreak /> Der Schiffer und Paul kamen herab und betrachteten die erlegte
 Ratte mit neugierigem Interesse.
 
 »Das ist ja ein wahres Ungeheuer,« sagte der erstere. »Die hat

@@ -1,6 +1,3 @@
-<div class="hidden">
-<#include "pagebreak.ftl">
-</div>
 <h2>Schleswig-Holstein.</h2>
 
 <h3>Von Matthäus Friedrich Chemnitz.</h3>
@@ -26,11 +23,11 @@ die ein mild'rer Süd belebt.
 Schleswig-Holstein, stammverwandt,
 stehe fest, mein Vaterland!
 
-\<@pagebreak 187/>
+<@pagebreak 187/>
 <div class="img pre"><img alt="Ansicht von Eckernförde von einem Hügel aus" src="0195.jpg"/>
 Eckernförde</div>
 
-\<@pagebreak/>Gott ist stark auch in den Schwachen,
+<@pagebreak/>Gott ist stark auch in den Schwachen,
 wenn sie gläubig ihm vertrau'n;
 zage nimmer, und dein Nachen
 wird trotz Sturm den Hafen schau'n!

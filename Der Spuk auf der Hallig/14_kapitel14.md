@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>14. Kapitel.</h1>
 
 <div class="subtitle">Paul und Towe an Land. &mdash; Die Pelzrobbe. &mdash; Warum Paul seinen Stiefel
@@ -13,7 +12,7 @@ Schienen am Beine, mitten unter seinen Schiffsmaaten und arbeitete, ohne
 aufzuschauen, mit größtem Eifer, als müsse er nachholen, was er so
 lange versäumt hatte.
  
-\<@pagebreak 108/> Eines schönen Morgens aber stieg die Sonne strahlend am heiteren,
+<@pagebreak 108/> Eines schönen Morgens aber stieg die Sonne strahlend am heiteren,
 blauen Himmel empor.
 
 »Jetzt ist's Zeit!« rief der Schiffer fröhlich. »Towe und Paul,
@@ -60,7 +59,7 @@ nur dort aufhalten, und nicht überall an der Küste.«
 
 »De wern woll weeten, worüm se dat doon,« entgegnete Towe.
 »Wohrschinlich sünd de Fisch dor beter, verlich sünd ok de Felsen dor 
-\<@pagebreak /> härter un unbequemer, denn so 'n Seevogel kann gor nich hart und unbequem
+<@pagebreak /> härter un unbequemer, denn so 'n Seevogel kann gor nich hart und unbequem
 noog sitten, wenn he brüden doon deit.«
 
 Um zum Strande zu gelangen, verfolgten sie eine tiefe, vielfach
@@ -107,7 +106,7 @@ so 'n Sealskinpelz wer so wat för min Katje.«
 voreilig. Treffe ich den Seehund, dann soll Fräulein Ulferts den Pelz
 bekommen, und keine andere.«
 
-\<@pagebreak /> Auf verschiedenen Wegen pirschten die beiden sich nun über Steingetrümmer
+<@pagebreak /> Auf verschiedenen Wegen pirschten die beiden sich nun über Steingetrümmer
 und wassergefüllte Felsspalten an das ahnungslose Wild
 heran. Plötzlich krachte ein Schuss, und mit betäubendem Geschrei
 erhoben sich Tausende von Seevögeln von ihren Felsensitzen in die Lüfte.
@@ -159,7 +158,7 @@ mit einer blutenden Wunde auf seinem oberen Teile, wie der Jüngling
 gewahrte, als er triefend neben seinem Retter stand.
 
 »Dank', Towe, alter Freund,« sagte er. »Hättest du mir nicht geholfen,
-\<@pagebreak /> dann wäre ich vor Kälte umgekommen. Zieh' dich
+<@pagebreak /> dann wäre ich vor Kälte umgekommen. Zieh' dich
 schnell wieder an, du klapperst noch mehr als ich.«
 
 Während der Matrose mit größter Behendigkeit
@@ -170,7 +169,7 @@ beide die Robbe auf das eigentliche Festland.
 »Ein schwerer Kerl,« sagte Towe. »Ich will ihn ausnehmen, dann
 wird er leichter und wir können ihn besser tragen. Die Robbenklopper<a href="#fn1" class="refnote" id="rn1">1</a>
 ziehen die Felle mit dem Specke daran gleich an Ort und Stelle ab; die
-\<@pagebreak /> verstehen sich aber auch darauf; wir verstehen uns nicht darauf, worüm?
+<@pagebreak /> verstehen sich aber auch darauf; wir verstehen uns nicht darauf, worüm?
 wi sünd keen Robbenkloppers nich.«
 
 Als die Robbe ihrer Eingeweide entledigt war, band Towe sie Paul
@@ -216,7 +215,7 @@ müsstest.«
 
 »Wir müssen also weiter, Towe,« antwortete Paul. »Es bleibt
 uns nichts anderes übrig. Mehr als drei Knoten Fahrt werden wir 
-\<@pagebreak /> allerdings nicht rauskriegen. Und da geht die verflixte Bandage schon
+<@pagebreak /> allerdings nicht rauskriegen. Und da geht die verflixte Bandage schon
 wieder auf!«
 
 »Un hier kommt ok 'ne Bö!« rief Towe. »Nu gaht dat slechte
@@ -265,7 +264,7 @@ Noch zwei volle Stunden vergingen, bis sie, durchweicht, erstarrt, zu
 Tode ermüdet und von zahllosen Stürzen und Stößen zerschunden, das
 Licht der Hallig endlich durch die Nacht flimmern sahen.
 
-\<@pagebreak /> »Hurra!« rief Towe. »Dor liggt de ohle Dreemastschoner! Wi
+<@pagebreak /> »Hurra!« rief Towe. »Dor liggt de ohle Dreemastschoner! Wi
 wüllt em anpreien, aber beid' toglik: ›Hallig ahoi!‹«
 
 Keine Antwort.

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Abel, der Brudermörder.</h2>
 
 <h3>Von Aug. Sach.</h3>
@@ -13,7 +12,7 @@ Aber Erich zwang ihn durch Heeresmacht, daß er ihn für sein Herzogtum
 als seinen Herrn anerkannte. Darauf schwuren sie einander
 mit starken Eiden stete Freundschaft und Brüderlichkeit, stellten
 Siegel und Briefe aus und gaben von jeder Seite 20 Ritter als 
-\<@pagebreak 71/>
+<@pagebreak 71/>
 Geiseln zur Sicherheit des Vertrages. Aber Abel schied nicht versöhnt
 von seinem Bruder. Auf der Residenz seiner Ahnen, der Jürgensburg
 zu Schleswig, wartete er auf die Stunde der Rache. Hier
@@ -54,7 +53,7 @@ beichtete. Darauf erschlug ihn Gudmundson mit eigener Hand und
 ließ den Leichnam mit Ketten beschwert in die Schlei senken. Bald
 aber fanden Fischer die Leiche und begruben sie. Doch als Abel
 dies erfuhr, ließ er sie wieder ausgraben und endlich feierlich im 
-\<@pagebreak/>
+<@pagebreak/>
 Dome zu Schleswig beisetzen. Dann schwur er mit 24 Rittern starke
 Eide, daß er den Tod seines Bruders nicht befohlen habe, sondern
 daß des Königs Feinde ohne sein Vorwissen den Mord vollzogen
@@ -96,7 +95,7 @@ so die Friesen in großen Ehren nach Hause zogen, mußte Abel
 eiligst unter starken Verlusten seinen Rückzug antreten, um aus der
 gefährlichen Marsch herauszukommen. Aber schon in dem heißen,
 alle Marschgräben austrocknenden Sommer stand er wieder mit 
-\<@pagebreak/>
+<@pagebreak/>
 großer Macht an der Mildenburg, wo Schiffe bereit lagen, das
 Heer die Eider hinunterzufahren. Südlich von Oldenswort schlug
 er sein Lager auf und verheerte und brandschatzte alles umliegende

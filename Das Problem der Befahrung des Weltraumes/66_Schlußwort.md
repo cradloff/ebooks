@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Schlußwort.
 ===========
 
@@ -19,7 +18,7 @@ auf technischem Gebiete bisher Dagewesene weit in den Schatten
 stellen würde. Und daß dieses, bei zielbewußter Vervollkommnung
 der bereits vorhandenen technischen Möglichkeiten, auch
 heute schon *mindestens* erreichbar wäre, kann garnicht mehr
-\<@pagebreak 188/> bezweifelt werden. Es wird um so eher gelingen, je früher und
+<@pagebreak 188/> bezweifelt werden. Es wird um so eher gelingen, je früher und
 in je großzügigerer und ernster, wissenschaftlicher Weise an die
 *praktische* Bearbeitung des Problems geschritten wird, wenn
 man sich auch keiner Täuschung hingeben darf über die Größe

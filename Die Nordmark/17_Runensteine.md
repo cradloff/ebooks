@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 47/>
+<@pagebreak 47/>
+
 <h1>II. Gedenkblätter aus der Landesgeschichte.</h1>
 
 <h2>a. Aus grauer Vorzeit.</h2>
@@ -34,7 +34,7 @@ dunklen, vorgeschichtlichen Tagen, die in der Aschenurne oder
 in ihrer Steinkammer die wenigen Überreste eines längst vergessenen
 Helden oder eines hochgeliebten Gatten mehr als tausend Jahre
 bargen. Denn tief und von Erdanfang her ist das Verlangen des 
-\<@pagebreak/>
+<@pagebreak/>
 Menschen und des Menschenherzens, seinen dahingeschiedenen Toten
 ein treues Gedächtnis zu bewahren und ein dauerndes Denkmal
 der Liebe zu errichten.
@@ -78,7 +78,7 @@ Auf einigen Grabmälern oder in ihrer unmittelbaren Nähe
 stehen ungeheure, drei und mehr Ellen hohe und völlig unbehauene
 Steine. Diese Felsblöcke sind die sogenannten Bautasteine und
 die allerältesten Grabdenkmäler des Stein- und Bronzealters, das 
-\<@pagebreak/>
+<@pagebreak/>
 noch keine Schrift kannte, geschweige denn Hammer und Meißel zu
 handhaben wußte. Erst sehr spät, vom 8. Jahrhundert unserer Zeitrechnung
 an, ist das Volk des Nordens schreibkundig geworden,
@@ -123,7 +123,7 @@ Erdhöhe, von Menschenhänden aufgeschüttet; und diese beiden
 Jellinger Hügel sind die zwei großartigsten Hünengräber in ganz
 Dänemark und Schleswig.
  
-\<@pagebreak/>
+<@pagebreak/>
 Sie sind eines Königs und einer Königin Grab; und wie unzerstörbare
 Zeugen der Vergangenheit stehen sie hier und verkünden
 die älteste, wohl beglaubigte Geschichte des Landes, die nicht im
@@ -170,7 +170,7 @@ Wer vom Königshügel aus die Landschaft überschaut, erblickt
 heutigen Tages zahlreiche Überreste der uralten Befestigungen. Am
 Südwestende des Selker Noors beginnt der Kograben, der noch
 im 18. Jahrhundert zwanzig Fuß breit und zwölf Fuß tief war, 
-\<@pagebreak/>
+<@pagebreak/>
 und läuft in gerader Richtung nach Westen über die Heide. Seine
 Spuren sind deutlich erkennbar, trotzdem die rastlose Menschenhand
 und der vorwärts drängende, alles verheerende Pflug jetzt jahrhundertelang
@@ -215,7 +215,7 @@ zum erstenmal geläutet und ihren Frieden den Menschen verkündet.
 Hier ist ein geheiligter Wohnort des Gottesfriedens gewesen.
 
 Und doch! Nirgends in diesen meerumspülten Gauen, von der 
-\<@pagebreak/>
+<@pagebreak/>
 Elbe bis zum Kattegat, schlug das zähneknirschende Kampfgetöse so
 wild und schauerlich gen Gottes Himmel empor. Kein Feld noch
 Fleck des Landes ist mit so viel Menschenblut gedüngt worden.
@@ -261,7 +261,7 @@ hohe Steinmal setzte?
 
 Ein glücklicher Umstand führte im Jahre 1888 zur Entdeckung
 eines zweiten Runensteins, den eben diese Asfride zum Gedächtnis
-\<@pagebreak/>
+<@pagebreak/>
 ihres Sohnes hat ritzen lassen. Bei den Kasernenbauten, die
 man damals im Gottorper Schlosse und seiner nächsten Umgebung
 vornahm, wurden auch die Fundamente der alten Bastionen ausgehoben,
@@ -306,7 +306,7 @@ Schleswigkönig dieses Namens!
 Wer waren sie, die vor einem Millennium lebten und litten,
 stritten und starben? Und mit welcher Todeshoffnung schlossen
 sie die Augen? In der Unsterblichkeitsgewißheit an den, der die 
-\<@pagebreak/>
+<@pagebreak/>
 Auferstehung und das Leben ist? Oder in dem alten Glauben und
 Götterwahn, von Walküren nach dem schildgedeckten Saale getragen
 zu werden?
@@ -350,7 +350,7 @@ zu nagen scheint, verwandelte sich -- wenigstens in diesen Meerländern
 -- fast bis zur Unkenntlichkeit in einem Jahrtausend.
 
 Wo einst festes Land war und Frieslands Stämme wohnten, 
-\<@pagebreak/>
+<@pagebreak/>
 wogt jetzt die Westsee in Ebbe und Flut über die grauen Watten
 hin. Und hinwiederum, wo einst des Nord- und Ostmeeres Gewässer
 gestanden haben, blüht jetzt die goldgelbe Butterblume auf grünem
@@ -397,7 +397,7 @@ vom Huf des Wisent oder Auerochsen in den Boden gestampft
 worden war. Die ganze Landstrecke zwischen Schlei und Trave und
 bis zu den Gestaden der Ostsee war ein ungeheures, dicht-düsteres
 Waldgebiet, vor dem sogar jene zaglosen Recken sich fürchteten, 
-\<@pagebreak/>
+<@pagebreak/>
 und das keines Menschen Fuß völlig durchdrungen hatte. Reich
 an Wasser, Wald und Heide war Schleswigs Grenzgau und so
 der rechte Mutterboden für das Hünengeschlecht, das auf demselben, 

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Das Wesen der Schwere und ihre Beeinflußbarkeit.
 ===============================================
 
@@ -18,7 +17,7 @@ für die *praktische Wirkung* ganz gleichgültig, von welcher
 in gleicher Weise äußern wie die Schwerkraft, und wir werden
 sie auch in jedem Falle ebenso *empfinden*, wie das uns wohlbekannte
 „Schweregefühl“, einerlei ob es sich hierbei um Schwerkraft,
-\<@pagebreak 101/> Trägheitswiderstand, Fliehkraft oder auch um die Resultierende
+<@pagebreak 101/> Trägheitswiderstand, Fliehkraft oder auch um die Resultierende
 mehrerer dieser Kräfte handelt. Durch diese vollkommene
 Gleichartigkeit der Wirkung ist es möglich, daß die verschiedenen
 Arten von Massenkräften sich gegenseitig sowohl *verstärken* als
@@ -36,7 +35,7 @@ Arten von Massenkräften sich gegenseitig sowohl *verstärken* als
 </table>
 
 Ein Beispiel für das Zustandekommen gegenseitiger *Verstärkung*
-\<@pagebreak /> von Massenkräften lernten wir schon bei der Untersuchung
+<@pagebreak /> von Massenkräften lernten wir schon bei der Untersuchung
 des Aufstieges von Raumraketen kennen<a class="refnote" id="rn2" href="#fn2">2</a>.
 In diesem Falle wird die Schwerkraft, solange der Antrieb wirkt, durch den dabei
 erweckten *Trägheitswiderstand* vermehrt, was sich praktisch wie
@@ -67,7 +66,7 @@ man einen Körper durch *Unterstützen* wohl daran hindern, daß
 er *fällt* (also der Schwerkraft *folgt*), aber sein Gewicht *aufheben*
 kann man dadurch nicht, was ja das Fortbestehen seines
 Druckes auf die Unterlage beweist. Auch der Versuch, einen Körper
-\<@pagebreak /> etwa durch irgendeine Veränderung seines materiellen Aufbaues
+<@pagebreak /> etwa durch irgendeine Veränderung seines materiellen Aufbaues
 dem Einfluß der Schwerkraft zu entziehen, dürfte wohl für
 alle Zeiten zum Mißlingen verurteilt sein.
 
@@ -101,7 +100,7 @@ Schwerelosigkeit; jenes Verhalten, das wir an einem Körper während
 des freien Fallens beobachten, würde er auch in einem auf andere
 Weise erzeugten gewichtslosen Zustande zeigen. Da aber das Fallen
 nur Augenblicke andauern kann, wenn es nicht zur Vernichtung
-\<@pagebreak /> führen soll (am längsten noch bei Fallschirmabsprüngen, Skisprüngen
+<@pagebreak /> führen soll (am längsten noch bei Fallschirmabsprüngen, Skisprüngen
 usw.), so ist eben das Zustandekommen des *schwerelosen Zustandes
 auf der Erde nur für ganz kurze Zeit möglich*.
 Trotzdem gelang es Oberth auf diese Weise sehr interessante Versuche

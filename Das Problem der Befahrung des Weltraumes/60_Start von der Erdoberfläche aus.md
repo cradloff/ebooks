@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Start von der Erdoberfläche aus.
 ================================
 
@@ -18,7 +17,7 @@ Der einzige Himmelskörperbesuch, welcher sich mit den bis-
 her bekannten Betriebsstoffen wohl auch *unmittelbar* von der
 Erdoberfläche aus vornehmen ließe, wäre eine *Umfahrung des
 Mondes*, zwecks näherer Erforschung seiner Oberflächenbeschaffenheit,
-\<@pagebreak 170/> insbesondere auf der von der Erde ständig abgekehrten
+<@pagebreak 170/> insbesondere auf der von der Erde ständig abgekehrten
 Seite desselben. Hierbei könnte man sich von ihm auch „einfangen”
 lassen, um ihn als Mond des Mondes in einer freien Umlaufbahn
 beliebig oft zu umkreisen. Die für dieses Unternehmen

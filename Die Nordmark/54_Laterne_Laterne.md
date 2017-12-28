@@ -1,6 +1,5 @@
 <div class="hidden">
-<#include "pagebreak.ftl">
-\<@pagebreak 273/>
+<@pagebreak 273/>
 </div>
 <h2>Laterne! Laterne!</h2>
 
@@ -15,7 +14,7 @@ aufatmend jede Brust sich weitet.
 Es ist, als kläng' ein Friedenswort,
 und Lärm und Unrast fliehen fort.
 
-\<@pagebreak/>Da kommt's aus Tür und Tor gesprungen,
+<@pagebreak/>Da kommt's aus Tür und Tor gesprungen,
 und ordnet sich in langer Reih,
 ein Zug von Mädchen und von Jungen,
 ein Käsehoch ist auch dabei.

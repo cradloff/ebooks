@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 27/>
+<@pagebreak 27/>
+
 Die Fahrgeschwindigkeit und der Wirkungsgrad bei Raketen-Fahrzeugen.
 ====================================================================
 
@@ -36,7 +36,7 @@ Massen gleich Null, was man in der Abb. daraus
 ersieht, daß sie <em>lotrecht</em> herunterfallen.</p></div>
 
 Unter dieser Voraussetzung geht beim Rückstoßvorgang keine
-\<@pagebreak /> Energie verloren, der Rückstoß selbst arbeitet dann mit einem
+<@pagebreak /> Energie verloren, der Rückstoß selbst arbeitet dann mit einem
 *(mechanischen) Wirkungsgrad* von 100 Prozent (Abb. 16).
 Würde die Fahrgeschwindigkeit hingegen kleiner oder größer sein
 als die Abstoßungsgeschwindigkeit, dann wäre auch dieser 
@@ -64,7 +64,7 @@ man zu der Formel
 
 η<span class="sub">r</span> = (2 - v / c) v / c
 
-\<@pagebreak /> als Ausdruck für den Wirkungsgrad des Rückstoßes η<span class="sub">r</span>
+<@pagebreak /> als Ausdruck für den Wirkungsgrad des Rückstoßes η<span class="sub">r</span>
 in Abhängigkeit von dem jeweiligen Verhältnis zwischen Fahrgeschwindigkeit
 v und Abstoßungsgeschwindigkeit c.
 
@@ -99,7 +99,7 @@ Abstoßungsgeschwindigkeit c</td>
 	<tr><td>5	</td><td>-15	</td><td>-1500</td></tr>
 </table>
 
-\<@pagebreak /> In der **Tabelle 1** ist nun für verschiedene Größen dieses Verhältnisses
+<@pagebreak /> In der **Tabelle 1** ist nun für verschiedene Größen dieses Verhältnisses
 v/c der Wirkungsgrad des Rückstoßes η<span class="sub">r</span> mit Hilfe obiger
 Formel errechnet. Wäre also z. B. das Verhältnis v/c = 0,1 (d. h.
 v = 0,1 c, somit die Fahrgeschwindigkeit nur 1/10 so groß wie die
@@ -128,7 +128,7 @@ Geschwindigkeitsvermehrung desselben — doch ein Energie*verlust*, was
 eben in dem negativen Vorzeichen des Wirkungsgrades mathematisch
 zum Ausdruck kommt. Immerhin aber haben diese für
 große Werte des Verhältnisses v/c sich ergebenden Wirkungsgradzahlen
-\<@pagebreak /> eigentlich nur einen mehr oder weniger *theoretischen* Wert.
+<@pagebreak /> eigentlich nur einen mehr oder weniger *theoretischen* Wert.
 
 Sehr klar und deutlich erkennt man jedoch aus der Tabelle,
 wie sehr es von Vorteil und daher wichtig ist, daß die Größe der
@@ -160,7 +160,7 @@ Diese grundlegende Forderung der Raketenfahrtechnik ist nun
 bestimmend für die Anwendungsmöglichkeit von Raketen-Fahrzeugen
 überhaupt. Denn nach Früherem soll ja die Abstoßungsgeschwindigkeit
 möglichst *groß* sein. Tatsächlich betragen auch
-\<@pagebreak /> die in Frage kommenden Auspuffgeschwindigkeiten *tausende*
+<@pagebreak /> die in Frage kommenden Auspuffgeschwindigkeiten *tausende*
 von Metern je Sekunde, und es muß daher die Fahrgeschwindigkeit
 ebenfalls einen dementsprechend enormen, für alle bisher bekannten
 Fahrzeuge unmöglich hohen Wert erreichen, wenn der
@@ -197,7 +197,7 @@ Hauptkolonne 3 der Tabelle 2 den Gesamtwirkungsgrad zeigt (der im
 Sinne des Gesagten nunmehr eben nur 62 bzw. 20 Prozent von
 den entsprechenden Werten der Hauptkolonne 2 beträgt).
 
-\<@pagebreak />
+<@pagebreak />
 
 <table id="tabelle2">
 	<caption>Tabelle 2</caption>
@@ -241,7 +241,7 @@ den entsprechenden Werten der Hauptkolonne 2 beträgt).
 	<tr><td>45000	</td><td class="strong">12500	</td><td>	</td><td>	</td><td>-1500	</td><td>-900	</td><td>-560	</td><td>-350	</td><td>-125	</td><td>	</td><td>-350</td></tr>
 </table>
 
-\<@pagebreak /> Wie man aus diesen Zahlen erkennt, ist der Gesamtwirkungsgrad 
+<@pagebreak /> Wie man aus diesen Zahlen erkennt, ist der Gesamtwirkungsgrad 
 — selbst für Fahrgeschwindigkeiten von etlichen hundert
 Kilometern je Stunde — noch so gering, daß, abgesehen von gewissen
 Sonderzwecken, bei welchen die Frage der Wirtschaftlichkeit
@@ -277,7 +277,7 @@ sich indessen mit den bei erzwungenen Geschwindigkeits-*Änderungen*
 auftretenden „Beschleunigungen”, wie wir später sehen
 werden.
 
-\<@pagebreak />
+<@pagebreak />
 
 <table id="tabelle3">
 	<caption>Tabelle 3</caption>
@@ -324,7 +324,7 @@ werden.
 
 Um die verschiedenen hier betrachteten Fahrgeschwindigkeiten
 leichter miteinander *vergleichen* zu können — was sonst durch
-\<@pagebreak /> die Verschiedenheit der gebräuchlichen Bezeichnungsweisen (für die
+<@pagebreak /> die Verschiedenheit der gebräuchlichen Bezeichnungsweisen (für die
 bisher bekannten Fahrzeuge Kilometer je Stunde, bei der Raumfahrt
 Meter oder Kilometer je Sekunde) einigermaßen erschwert
 wird — ist vorstehend die **Tabelle 3** gebracht.

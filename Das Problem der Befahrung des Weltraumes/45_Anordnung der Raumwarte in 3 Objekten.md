@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Anordnung der Raumwarte in 3 Objekten.
 ======================================
 
@@ -18,7 +17,7 @@ ist auf der Raumwarte für *künstlichen Ersatz der Schwere*
 gesorgt.
 
 Gemäß unseren früheren Ausführungen kann die Schwerkraft,
-\<@pagebreak 135/> weil sie selbst eine Massenkraft ist, nur ebenfalls wieder durch
+<@pagebreak 135/> weil sie selbst eine Massenkraft ist, nur ebenfalls wieder durch
 eine Massenkraft beeinflußt, aufgehoben oder ersetzt werden und
 insbesondere nur durch die *Fliehkraft*, wenn sich dabei ein
 *dauernder* (stabiler) Zustand ergeben soll. Dieselbe dient uns
@@ -55,7 +54,7 @@ zum Aufenthalt dienen.
 
 Allerdings macht diese Unterteilung der Raumwarte es notwendig,
 besondere Maßnahmen zu treffen, um die gegenseitige
-\<@pagebreak /> Massenanziehung der einzelnen Objekte auszugleichen; denn wenn
+<@pagebreak /> Massenanziehung der einzelnen Objekte auszugleichen; denn wenn
 diese infolge der verhältnismäßigen Kleinheit der anziehenden
 Massen auch sehr gering ist, würde sie im Verlaufe *längerer*
 Zeit (vielleicht in Wochen oder Monaten) doch zu merklicher

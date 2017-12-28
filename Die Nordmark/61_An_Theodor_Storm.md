@@ -1,5 +1,4 @@
 <div class="hidden">
-<#include "pagebreak.ftl">
 <@pagebreak 317/>
 </div>
 <h2>An Theodor Storm.</h2>
@@ -42,7 +41,7 @@ der siebzehnjährig heiß die Laute schlug
 vor seiner Liebsten Tür im sanften Mond,
 im Sehnsuchtspuls der Nachtigallenlieder?
 
-\<@pagebreak/>Wohl trifft es sich, daß laut und polternd wirft
+<@pagebreak/>Wohl trifft es sich, daß laut und polternd wirft
 ein herrlich Dichterherz mit rohem Gold
 und kann es nimmer zwingen zum Gerät;
 ihm fehlt die Künstlerhand, dir wurde sie.

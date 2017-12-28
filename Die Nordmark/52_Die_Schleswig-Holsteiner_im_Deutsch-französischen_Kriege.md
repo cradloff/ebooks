@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Die Schleswig-Holsteiner im Deutsch-französischen Kriege.</h2>
 
 <h3>Von Gustav Frenssen.</h3>
@@ -35,7 +34,7 @@ hörte, hatte Lohmann klare Erkenntnis und gutes Gewissen. »Wenn
 sie den alten Mann ins Gesicht schlagen, dann haben wir das Recht,
 ihnen an die Jacke zu kommen.«
  
-\<@pagebreak 250/>
+<@pagebreak 250/>
 Also herrschte bei Lohmann II einige Dunkelheit. Bei Hauptmann
 Gleiser aber war helles Licht. Was hat der Mann in diesen
 sieben Tagen bis zum Auszug gearbeitet! Hat er nicht drei Tage
@@ -78,7 +77,7 @@ sind Sie nicht geworden,« schrie er. »Ist der Alte Holzschuhmacher?«
 »Bauer, Herr Hauptmann.« »Ist mir ganz egal! Können Sie den
 Deubel reiten, oder sind Sie auch so'n gebeulter Teekessel ... Los!«
 
-\<@pagebreak/>
+<@pagebreak/>
 Jedermann von den Männern, der an dem Tage auf der Loher
 Heide gewesen -- die noch leben, haben graues Haar --, der weiß,
 wie steif und bedächtig der Gefreite Uhl aus Wentorf den grauleinenen
@@ -119,7 +118,7 @@ nicht sehen, Mensch? Das sind frische Gräber.« »Für Menschen?«
 Krücke gebraucht. Die Krücke steht noch; er nicht mehr.« -- Jämmerliches
 Wetter. Wie der Regen durch die Bäume schlägt! Die Geschütze
 rasseln und klirren langsam vorwärts. Gräber. Lauter Gräber. 
-\<@pagebreak/>
+<@pagebreak/>
 Und die Pappeln sind abgeschält, und zerbrochene Zweige zeigen
 ihre zersplitterten Knochen. -- »Wir kommen nicht an den Feind ...
 Wir Schleswig-Holsteiner? ... Nie und nimmermehr! ... Wir
@@ -163,7 +162,7 @@ herum und sagte nichts. Da sah Jörn Uhl noch einmal auf und
 sah all die ziehenden Menschen, die alle nach einem Ziele strebten,
 und fühlte die Größe der Zeit.
 
-\<@pagebreak/>
+<@pagebreak/>
 <h4>III. Bei Gravelotte.</h4>
 
 In der folgenden Nacht zogen sie bei Fackelschein über einen
@@ -206,7 +205,7 @@ feuern?« ... -- »Die feuern?« ...
 Wer sieht noch etwas? Wer hört noch etwas? Wer redet noch?
 »Batterie Ga ... lopp!« Da hält Hans Detlef Gleiser auf seinem
 hohen, schönen Fuchs; die Sonne blitzt in seinem Helm und in seinen 
-\<@pagebreak/>
+<@pagebreak/>
 Augen. Das ist seine Freude, seine sechs Geschütze an sich vorüberjagen
 zu lassen und dann dem Fuchs die Sporen zu geben und noch
 als der erste am Platze zu sein. »Im Avancieren« ... Die Pferde
@@ -249,7 +248,7 @@ mit wahnsinnigen Augen und verzerrten Gesichtern über die Höhen.
 Von halblinks her klingt immerfort ein Quäken und Kratzen, ein
 niederträchtiges Geräusch, als wenn einer mit Eisen in einen Haufen
 Glasscherben stößt. Eine Garbe davon fliegt quer über die keuchenden
-\<@pagebreak/>
+<@pagebreak/>
 Menschen. -- »Feuer!« -- Das Feuer fliegt. Jörn Uhls Augen
 fliegen mit. Das war ein Treffer. Eine Garbe fliegt. Knatternd
 knirscht sie vorüber. Ein Leutnant kommt im Trabe gelaufen. Jörn
@@ -293,7 +292,7 @@ ist'n Kerl. Dee kann nie anners.« Hauptmann Gleiser reitet heran:
 
 Vier oder fünf Stabsoffiziere reiten zum zweitenmal vorüber
 und halten dicht hinter ihnen. Gleich spüren sie es: es surrt und 
-\<@pagebreak/>
+<@pagebreak/>
 brüllt ... es splittert ... es schlägt hart auf ... es wühlt in der
 Erde. Das Pferd eines Offiziers fällt in die Knie; der Reiter fliegt
 über den Hals weg, springt auf und rennt auf ein Pferd zu, das
@@ -336,7 +335,7 @@ sieht unter halbgeschlossenen Augen verächtlich mit vorgeschobener
 Unterlippe nach der Richtung des Feindes.
 
 Da schweigen links von ihnen die Geschütze. »Was machen 
-\<@pagebreak/>
+<@pagebreak/>
 die beiden Batterien? Warum schießen sie nicht mehr?« Schweres
 Infanteriefeuer kommt halblinks von hinten, vom Waldrande her.
 Deutsche Infanterie springt auf, wirft sich hin, kommt näher. »O...
@@ -378,7 +377,7 @@ Es geht zu Ende.
 Pferde! Pferde! Die Pferde liegen alle an der Erde. Da rennt
 Lohmann übers Feld und holt von den Pferden, die da verlassen
 jagen und traben und stehen, drei; und kommt wieder, und sie 
-\<@pagebreak/>
+<@pagebreak/>
 schirren mit fliegenden Händen an. -- Ab ... ab! ... Ein jammervoller
 Rückzug. Fiete Krey sitzt vorn auf der Protze und fährt mit
 der Kreuzleine. Lohmann, aufrecht neben ihm stehend, haut mit
@@ -420,7 +419,7 @@ Mutter schreiben.« -- »Es sind viele gefallen, Herr Leutnant.« --
 »Es ist ein schrecklicher Tag.« Als sie sich umsahen, war das
 andere Geschütz nicht mehr da. Der brüllende Lärm hatte nachgelassen.
  
-\<@pagebreak/>
+<@pagebreak/>
 Vom Himmel war der Abend gekommen. Und es hob keiner
 seine Hände und beschwor Sonne und Mond wie einst der rasende
 Jude: »Sonne, stehe still zu Gibeon und Mond im Tale Ajalon!«
@@ -462,7 +461,7 @@ Straßburg.« -- »Na, dann tröste dich! Bleib sitzen und laß dein
 Quasseln.« Er holte Tauwerk aus der Tasche und richtete das Bein
 wieder gerade. »Laß dein Stöhnen, Straßburger: ich kann nicht
 mehr für dich tun.« -- Lohmann kam wieder und meldete, daß 
-\<@pagebreak/>
+<@pagebreak/>
 da ... da drüben ... die Batterien wären. »Wir wollen aufbrechen,«
 sagte der Leutnant. Sie hoben den Elsässer auf die Protze
 und zogen ab. Sie trafen wirklich in einer Senkung am Walde die

@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 156/>
+<@pagebreak 156/>
+
 Besondere physikalische Untersuchungen.
 =======================================
 

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>In den Hüttener Bergen.</h2>
 
 <h3>Schleswig-holsteinische Kriegserinnerungen aus dem Frühling 1848.</h3>
@@ -18,7 +17,7 @@ ergoß und die Stare draußen laut auf dem Dach lärmten. Desto
 besser erinnere ich mich des Bildes, das sich nach Schluß der Kirche
 entrollte.
  
-\<@pagebreak 193/>
+<@pagebreak 193/>
 Der freie Platz vor dem Hüttener Kruge war von einer schwarzen
 Menschenmenge angefüllt, zwischen der hier und da schon die Wagen
 mit den vorgespannten Pferden zur Heimreise bereit standen.
@@ -66,7 +65,7 @@ Wenige Tage später wollte mein Vater nach Schleswig fahren,
 um den Einmarsch der schleswig-holsteinischen Truppen und Freischaren
 zu sehen.
  
-\<@pagebreak/>
+<@pagebreak/>
 Ich hatte ihn so lange gequält und gebettelt, bis er mir erlaubte
 mitzufahren. Und jetzt waren wir in der alten Schleistadt.
 
@@ -118,7 +117,7 @@ Dragoneroffiziers. --
 
 <hr/>
  
-\<@pagebreak/>
+<@pagebreak/>
 Wieder waren ein paar Tage verstrichen.
 
 Die Schlacht bei Bau war geschlagen und verloren, die heldenmütigen
@@ -164,7 +163,7 @@ zitternd, so daß ich mich ängstlich an meinen Vater drückte. Der
 Baron Brockdorff wurde begraben. Es war eine traurige, düstere
 Geschichte. Er hatte keinen Ausweg gewußt, nicht beruhigen können
 hatte ihn der Gedanke, daß der König selbst zuerst sein Wort
-\<@pagebreak/>
+<@pagebreak/>
 gebrochen hatte. »Schleswig-Holstein ist mein Vaterland, und dem
 König von Dänemark habe ich die Treue geschworen.«
 
@@ -217,7 +216,7 @@ dahingeführt hatte und wir die langen kräftigen Kerle in ihren
 Waffenröcken und blinkenden hohen Raupenhelmen aus gebührender
 Entfernung anstaunen konnten.
  
-\<@pagebreak/>
+<@pagebreak/>
 Am anderen Tage in der Dämmerung kam Vater mit einer
 abenteuerlichen Nachricht aus dem Kruge nach Hause.
 
@@ -269,7 +268,7 @@ verdorrten Laube der Knicks. --
 Jetzt stieg der Vollmond mit rotgelbem Scheine auf, aber schon
 verdeckten ihn schwarze, schwere Frühlingswolken. --
  
-\<@pagebreak/>
+<@pagebreak/>
 Am östlichen Ausgang des Dorfes, nicht weit von unserer Mühle,
 hielt der erste Dragonerposten regungslos zu Pferde; hin und wieder,
 wenn die Wolken sich vom Monde verzogen, blinkte sein Helm auf,
@@ -315,11 +314,11 @@ auf und rannten wiehernd und schnaubend mit ihren Reitern nach
 allen Seiten davon; das eine zerschmetterte sich beide Beine am
 Steinwall des Brunnenredder.
 
-\<@pagebreak/>
+<@pagebreak/>
 <div class="img pre"><img alt="Ansicht von den Hügeln über Felder" src="0207.jpg"/>
 Die Hüttener Berge</div>
 
-\<@pagebreak/>
+<@pagebreak/>
 Aber nur wenige Sätze kamen sie vorwärts, da wurden sie von
 den Schüssen der Deutschen wieder ohne Gnade auf den Klint
 zurückgetrieben. Das war ein Stampfen und Wiehern, ein Dröhnen
@@ -374,7 +373,7 @@ kühle Grab ...« Ja, das war eine Zeit! --
 
 <hr/>
  
-\<@pagebreak/>
+<@pagebreak/>
 Aber jetzt kamen die Dänen wieder!
 
 Herrgott, so viele hatte ich noch nie gesehen.

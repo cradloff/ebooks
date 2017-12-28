@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>10. Kapitel.</h1>
 
 <div class="subtitle">Der Jaspersenhafen. &mdash; Warum Gazzi sich in Heiks Kammer geflüchtet hatte
@@ -20,7 +19,7 @@ Nu willt wi man uns' Heik ut dat Boot nehmen un wedder dalbringen.«
 »Die Strömung wird nicht immer so stark sein, wie heute, und zeitweise
 auch wohl ganz Nachlassen. Ich kenne das. Sorgen Sie jetzt dafür,
 dass wir was zu essen kriegen; wir bringen inzwischen Heik Weers in 
-\<@pagebreak 59/> seine Koje und nach dem Schaffen ward intörnt, denn Slap könt wi
+<@pagebreak 59/> seine Koje und nach dem Schaffen ward intörnt, denn Slap könt wi
 bruken, un nich to wenig.«
 
 Towe ging in die Kombüse und kam bald mit einer Schüssel voll
@@ -68,7 +67,7 @@ stille Flut warf ihre Spiegelbilder funkelnd zurück. Schwarz und schweigend
 ragten die Felsenberge rings in den dunklen Äther empor, der von
 dem dumpfen Getön der fernen Brandung ganz erfüllt zu sein schien.
 
-\<@pagebreak /> Gar bald spürte Paul die Wirkung der Kälte; er hielt sich daher
+<@pagebreak /> Gar bald spürte Paul die Wirkung der Kälte; er hielt sich daher
 nicht allzulange bei der Betrachtung des imposanten Naturschauspiels
 auf, sondern machte sich auf den Weg zur Kombüse, um Feuer anzuzünden
 und Kaffee zu kochen.
@@ -115,7 +114,7 @@ un en feines Eiergeschäft. En Eiergeschäft giwwt Geld, Paul, dat kann
 ick di seggen, Paul. Dat sport wi, und nahsten köfft wi uns ein lüttes
 gemütliches Hüschen, min Katje un ick. Un denn &mdash;«
 
-\<@pagebreak /> »Stopp, Towe,« unterbrach Paul die Zukunftspläne des Matrosen.
+<@pagebreak /> »Stopp, Towe,« unterbrach Paul die Zukunftspläne des Matrosen.
 »Zuerst müssen wir die Hallig aufgetakelt haben, und dann mit ihr aus
 diesem Loch wieder 'raus sein. Bis dahin kann noch viel Zeit vergehen
 und auch noch manches passieren.« &mdash; So saßen die beiden vor dem
@@ -162,7 +161,7 @@ fast zusammenhängende Steinmasse von zehn Faden Länge und fünf Faden
 Breite, und waren oben flach, zwei hoch und spitz wie Kirchtürme aufragende
 Felsenobelisken an den Seiten ausgenommen.
 
-\<@pagebreak /> Von dort aus ging es dem Gestade zu, das bald erreicht war. Paul
+<@pagebreak /> Von dort aus ging es dem Gestade zu, das bald erreicht war. Paul
 sprang zuerst an Land und machte die Fangleine des Bootes an einem
 Steine fest. Die beiden andern folgten.
 
@@ -209,7 +208,7 @@ woll en beten tranig, aber sonsten sünd se 'n Tetelakeß.«
 »Junge, Junge,« rief Paul lachend, »wat för'n feines Wort hast du
 da all wedder erfunden! Segg dat noch mal, Towe.«
  
-\<@pagebreak /> »Tetelakeß, du Döskopp. Is dat verlich wedder nich richtig Dütsch,
+<@pagebreak /> »Tetelakeß, du Döskopp. Is dat verlich wedder nich richtig Dütsch,
 du ohle Schoolmeester?«
 
 »Nee,« sagte Paul, »ebensowenig deutsch, wie das richtige Wort,
@@ -267,7 +266,7 @@ die Lampe in Brand.
 
 Heik Weers lag in seiner Koje, und wenn er sich auch sonst kaum
 rühren konnte, so wurde jetzt doch seine Zunge lebendig genug. Neben 
-\<@pagebreak /> ihm auf dem Fußboden kauerte Gazzi. Sein gelbes Gesicht war leichenblass,
+<@pagebreak /> ihm auf dem Fußboden kauerte Gazzi. Sein gelbes Gesicht war leichenblass,
 er stierte die Eingetretenen mit wild aufgerissenen Augen an und
 stand nicht eher auf, bis er sich überzeugt hatte, dass sich seine Schiffsmaaten
 und keine Gespenster vor ihm befanden.
@@ -315,7 +314,7 @@ das wohl nur ein Traum gewesen sei.«
 
 »Ich behaupte ja gar nicht, dat es hier an Bord der Hallig keinen
 Spuk geben täte,« entgegnete Towe, »denn jeder von uns hat hier schon 
-\<@pagebreak /> was Gespensterhaftes gesehen oder gehört. Un is dat Verschwinden von
+<@pagebreak /> was Gespensterhaftes gesehen oder gehört. Un is dat Verschwinden von
 die alte Mannschaft nich auch eine geheimnisvolle Sache? Dat gelbe
 Fieber het dat daan, steht in dat Logbuch; ick segg aber, de Lüd sünd
 vör lauter Angst un Furcht dotgegangen. Dat is aber keen Grund för
@@ -343,7 +342,7 @@ her, da habe ich etwas erlebt, was ich mein Lebtag nicht vergessen werde.«
 »Ach bitte, erzählen Sie, Keppen Jaspersen,« drängte Paul. »Wir
 sitzen hier so traulich beisammen &mdash; ach bitte!«
 
-\<@pagebreak /> »Ein andermal, Jungchen,« sagte der Schiffer, »wir werden noch
+<@pagebreak /> »Ein andermal, Jungchen,« sagte der Schiffer, »wir werden noch
 oft genug hier beisammen sitzen.«
 
 Und wieder auf die Strömung zurückkommend, äußerte er seine Ansicht
@@ -390,7 +389,7 @@ erklärte dann, seiner Meinung nach wäre das Kerguelenkohl, eine Pflanze,
 die zuerst auf den Kerguelen gefunden worden sei, einer Inselgruppe, die
 ungefähr in derselben Breite wie die Crozets, aber weiter östlich liege.
 Er habe von den guten Eigenschaften dieses Kohls manches gehört und
-\<@pagebreak /> gelesen, und wenn dies die richtige Art wäre, dann müsse man Towes
+<@pagebreak /> gelesen, und wenn dies die richtige Art wäre, dann müsse man Towes
 Entdeckung mit Freude begrüßen. Gleich morgen solle eine Probe davon
 gekocht werden, und habe diese einen Kohlrabigeschmack, dann wär's der
 echte Kerguelenkohl.
@@ -438,7 +437,7 @@ dass deutsche Seeleute von dieser Torheit ganz frei seien. Im Gegenteil,
 unsere Janmaaten haben durchaus kein Recht, sich in dieser Hinsicht über
 die Griechen und andere Ausländer erhaben zu dünken. Die meisten
 halten es heutigestags noch für unglückverheißend, wenn eine Frau sich
-\<@pagebreak /> an Bord befindet, Kinder dagegen sollen guten Wind bringen. Die Torheit
+<@pagebreak /> an Bord befindet, Kinder dagegen sollen guten Wind bringen. Die Torheit
 geht noch weiter. Noch vor dreißig Jahren lebte an der Schlei,
 im Schleswigschen, eine alte Frau, die an die Seefahrer Wind verkaufte
 und auch wirklich manchen Abnehmer fand. Sie gab dem Käufer ein
@@ -483,7 +482,7 @@ für den nächsten Tag zurecht. Da kam der zweite Steuermann zu mir
 herein. Er war einer von jenen tüchtigen finnischen Seefahrern, die man
 auf den Schiffen aller Nationen antrifft, und die man überall hochschätzt.
  
-\<@pagebreak /> »›Nun, Söderström,‹ fragte ich, ›was gibt's?‹
+<@pagebreak /> »›Nun, Söderström,‹ fragte ich, ›was gibt's?‹
 
 »›Ich weiß nicht, Stüermann,‹ sagte er verdrossen, ›aber das kann
 nicht mehr so weitergehen. Die Darkis da vorn sind so voll von Furcht
@@ -530,7 +529,7 @@ Stüermann erzählt.‹
 wie die Sache sich verhält.‹
 
 »Ich setzte die Mütze auf und machte mich mit dem Zweiten auf den
-\<@pagebreak /> Weg nach dem Mannschaftslogis. Als wir so unerwartet die Treppe
+<@pagebreak /> Weg nach dem Mannschaftslogis. Als wir so unerwartet die Treppe
 herunterkamen, da mochte die farbige Gesellschaft wohl meinen, dass sich
 jetzt auf einmal zwei Spukgeister statt des einen zeigten, denn einige der
 Matrosen fuhren mit lauten Schreckensrufen von ihren Kisten in die Höhe.
@@ -580,7 +579,7 @@ schauten ungläubig drein, und einer wagte endlich die Frage:
 »›Ach was,‹ antwortete ich, ›einige von euch schnarchen natürlich
 fürchterlich, man kennt das ja, und alles übrige ist Einbildung.‹
  
-\<@pagebreak /> »Es wurde noch eine Weile hin und her geredet, aber es gelang
+<@pagebreak /> »Es wurde noch eine Weile hin und her geredet, aber es gelang
 mir nicht, die Leute von ihrer Meinung abzubringen. Sie hatten den
 Spuk gesehen und gehört, und das ließen sie sich nicht ausreden. Endlich
 wurde ich ungeduldig.
@@ -625,7 +624,7 @@ dass das letztere in der nächsten Morgenfrühe in See zu gehen hatte. Die
 Kapitäne und Steuerleute plagten sich da draußen wenig mit Skrupeln
 über die Art und Weise, wie sie die Lücken ihrer Mannschaft ergänzten.
 
-\<@pagebreak /> »Meine Darkis dachten zu einfältig und kindlich, um sich diese Umstände
+<@pagebreak /> »Meine Darkis dachten zu einfältig und kindlich, um sich diese Umstände
 zunutze zu machen und einfach vom Schiff abzulaufen; trotzdem
 aber beschloss ich, einen besonders scharfen Ausguck zu halten, sobald ich
 wahrnehmen würde, dass eins der im Hafen liegenden Schiffe sich anschickte,
@@ -672,7 +671,7 @@ Gedanke, dass dem Spuke dennoch ein Schabernack zugrunde liegen könnte.
 Ich ging also zur Großluk zurück und stieg hinab ins zweite Zwischendeck,
 ohne aber diesmal die Leiter wegzunehmen.
  
-\<@pagebreak /> »Den Strahl der Blendlaterne weit vorauswerfend, schritt ich vorsichtig,
+<@pagebreak /> »Den Strahl der Blendlaterne weit vorauswerfend, schritt ich vorsichtig,
 und auf alles mögliche gefasst, wieder nach achtern. Meine Besorgnis
 war unnötig, denn in der Gegend des Geistergestöhns angelangt,
 hörte ich die Töne abermals unter meinen Füßen, im Ballastraum.
@@ -722,7 +721,7 @@ Zimmermann wollte nicht eher wieder in seine Koje gehen, bis der zweite
 Steuermann wieder an Bord war, der die Kammer mit ihm teilte.
 
 »Als die Beurlaubtgewesenen endlich anlangten, gingen wir alle noch
-\<@pagebreak /> einmal hinab in den Ballastraum und hörten den Schreckenstönen zu, die
+<@pagebreak /> einmal hinab in den Ballastraum und hörten den Schreckenstönen zu, die
 in dem Plankenwerk hin und her zu wandern schienen. Ihre Ursache blieb
 uns verborgen, wir mussten zugestehen, dass die armen Teufel im Logis
 doch nicht so grundlos in Furcht geraten waren.
@@ -766,7 +765,7 @@ fest, und die ›Helene‹ behielt den Namen ›Gespensterschiff‹, solange
 sie noch existierte; sie ist im Jahre 1885 auf der Bahamabank
 zugrunde gegangen, wie ich später hörte.
  
-\<@pagebreak /> »Jener Fisch aber hatte sich, wie seine Art zu tun pflegt, den engen,
+<@pagebreak /> »Jener Fisch aber hatte sich, wie seine Art zu tun pflegt, den engen,
 verdunkelten Raum zwischen der ›Helene‹ und dem schilfumwucherten Wrack
 im Hafen von Port Morant zum dauernden Aufenthaltsort ausersehen,
 der ihm noch passender dadurch erschienen sein mochte, dass auch unser
@@ -812,7 +811,7 @@ lugte er scheu und angstvoll zum Scheinlicht hinauf.
 Paul folgte seinem Blicke. Die Presenning, die man über das zerschmetterte
 Fenster gedeckt hatte, war an einer Ecke aufgehoben, und durch
 die Lücke schaute ein geisterbleiches Antlitz hernieder, dasselbe von wirrem
-\<@pagebreak /> Haar umgebene Mädchenantlitz, das er in jener Nacht in der Kombüse
+<@pagebreak /> Haar umgebene Mädchenantlitz, das er in jener Nacht in der Kombüse
 gesehen hatte. Kalt wehte die Brise durch die Öffnung herein, die Lampe
 flackerte auf und erlosch, und alle saßen im Dunklen.
 
@@ -861,7 +860,7 @@ eher je besser.«
 
 Entschlossen sprang er aus der Koje, kleidete sich schnell und geräuschlos
 an und ging an Deck. Das hohe, bergige Land ringsumher ließ
-\<@pagebreak /> die Nacht noch dunkler erscheinen. Als er an der Treppe stand, die zum
+<@pagebreak /> die Nacht noch dunkler erscheinen. Als er an der Treppe stand, die zum
 Hauptdeck hinabführte, war ihm so unheimlich zumute, dass er schon
 daran dachte, lieber wieder umzukehren. Misstrauisch schaute er zur Kombüse
 hinüber. Dort drinnen musste es längst wieder kalt sein, da über
@@ -882,7 +881,7 @@ Er zog die Schuhe aus und stahl sich unhörbar die Treppe hinab und
 in der schwarzen Dunkelheit schnell erlöschend. Die Kombüsentür
 auf Steuerbord war geschlossen, die auf der Backbordseite stand halb offen. 
  
-\<@pagebreak /> Beide Türen waren notdürftig wiederhergestellt worden. Mit äußerster
+<@pagebreak /> Beide Türen waren notdürftig wiederhergestellt worden. Mit äußerster
 Vorsicht und auf den Fußspitzen schlich er herzu und lugte hinein.
 
 In der Maschine brannte ein helles Feuer. Davor auf der Bank

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">6788ec10-e69d-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Flüchtlinge auf Bischur-ada</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
+<!-- Band -->
+<entry key="volume">018</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Ich komme, um Dich zu warnen. Dir droht Gefahr. Der Polizeihauptmann Strassow hat heute mir gegenüber Andeutungen fallen lassen, daß man Dich für einen verkappten deutschen Agenten hält, der Persien zur Teilnahme an dem vor kurzem ausgebrochenen großen Kriege bewegen soll. Strassow, von mir reichlich mit Wein bewirtet und mit einem aus dreihundert Rubel bestehenden „kleinen Andenken“ beschenkt, wurde dann mitteilsamer und sagte mir im Vertrauen, daß Deine und Deiner Familie Verhaftung nahe bevorstehe. Was dies bei den russischen Zuständen für Dich zu bedeuten hat, weißt Du selbst am besten: zum mindesten Verbannung nach Sibirien – falls nicht eben noch schlimmeres! – Dir bleibt also nur schleunige Flucht übrig. Hoffe jedoch nicht, zu Lande noch persischen Boden erreichen zu können. Alle Bahnhöfe, alle Wege werden überwacht, da man ein Entweichen der Deutschen, die sämtlich ins Innere Rußlands abgeführt werden, unmöglich machen will. Nur der Weg über das Meer verspricht Rettung. Aber sei auch da vorsichtig! Russische Schiffe kreuzen bis weit nach Süden hin, wie ich selbst vorgestern bei der Überfahrt von Rescht bemerkt habe. Drei Mal wurde mein Schoner unterwegs von bewaffneten Dampfern angehalten und durchsucht. Die Russen wollen eben jede Waffenausfuhr nach Persien hinein unterbinden, da sie nur zu gut wissen, wie sehr wir sie als alte Feinde, die schlimme Absichten auf unsere staatliche Selbständigkeit haben, hassen, und daß diese Waffen vielleicht sehr bald gegen sie selbst gekehrt werden könnten. Ich rate Dir also, noch in dieser Nacht auf Deiner kleinen Vergnügungsjacht zu fliehen. Nimm nur das Notwendigste mit, und – ziehe niemanden ins Vertrauen!“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (018) Die Flüchtlinge auf Bischur-ada.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

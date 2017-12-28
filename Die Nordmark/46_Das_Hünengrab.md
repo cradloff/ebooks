@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <div class="img"><img alt="Ansicht des Hünengrabes" src="0215.gif"/></div>
 
 <h2>Das Hünengrab.</h2>
@@ -17,7 +16,7 @@ ihrer violetten Blüte, und wo der Ginster ihr ein Fleckchen frei
 ließ, da schimmert auch am Hügel ihre milde Farbe. Und die
 Lerchen jubeln, die Grillen zirpen, die Bienen summen, und über
 allem wölbt sich ein blauer Spätsommerhimmel. An einem solchen 
-\<@pagebreak 208/>
+<@pagebreak 208/>
 Tage habe ich dort oben auf dem alten Hügel gelegen. Und in
 traumverlorener Stunde stieg die Geschichte dieses uralten Grabhügels
 vor mir auf. Noch im Abendröte habe ich sie niedergeschrieben.
@@ -62,7 +61,7 @@ unter Bewachung von Freien den Grabhügel aufgeworfen. Die
 höchste Stelle der Heide war dazu ausgesucht. Vom nahen Walde
 holten sie schwarze, schwere Erde, da der lockere Heidesand allzu
 leicht war. Die ganzen langen Spätsommertage arbeiteten sie in 
-\<@pagebreak/>
+<@pagebreak/>
 ihrem Schweiße. Und wenn sie des Nachts um ihr Feuer ruhten,
 dann heulten die Wölfe durch die Heide, wo noch die abgenagten
 Gebeine der gefallenen Feinde lagen.
@@ -105,7 +104,7 @@ Dann fiel weißer, weicher Schnee auf sie und das Hünengrab.
 Klingender Frost kam hinzu und in den Nächten, wenn der
 Vollmond auf die beschneite Heide schien, brachen die ausgehungerten
 Wölfe, die noch immer nicht den Fraß des Sommers vergessen 
-\<@pagebreak/>
+<@pagebreak/>
 konnten, heulend aus Kratt und Wald. Doch das Hünengrab ragte
 stumm und schweigend in die Winternacht. Und als der Schnee
 schmolz, da grünte das erste Gras, der erste Ginster und das erste
@@ -150,7 +149,7 @@ Ja, die Alten einst, die hatten ihren Toten bessere Gräber
 gegeben in diesem Hügel mit seinem weiten Blicke über Heide, Feld
 und Wald.
 
-\<@pagebreak/>
+<@pagebreak/>
 Ein Gedanke durchzuckte ihn; wenn er dann fallen sollte, so
 wollte er hier begraben liegen; hier oben, hoch über dem feuchten
 Moor, wo dicht über seinem Haupte die Sonne scheinen und die
@@ -181,7 +180,7 @@ durch den Ginster, und der Regen wurde strömend.
 
 <hr/>
 
-\<@pagebreak/>
+<@pagebreak/>
 Da der Tag graute, begann die Schlacht von neuem. Die Kolonnen
 wallten durch Nebel und Regen, trüb flammten hier und
 da Fanale auf, und Wald und Heide erbebten im Donner der Geschütze. Mitten in der brausenden Schlacht lag das Hünengrab --

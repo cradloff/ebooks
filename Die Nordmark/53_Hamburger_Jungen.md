@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 261/>
+<@pagebreak 261/>
+
 <h1>III. Volksart und Volkssitte.</h1>
 
 <h2>Hamburger Jungen.</h2>
@@ -37,7 +37,7 @@ Und in diesen greisenhaften, hinträumenden Häusern, waren
 es nicht immer dieselben Leute? Es starb mal einer, machte Platz.
 Aber wer an seine Stelle kam, sah er nicht aus wie er? Sie trugen
 alle die Kleider der Armut, hatten alle die Gewohnheiten und
-\<@pagebreak/>
+<@pagebreak/>
 Hantierungen der kleinen, abseits lebenden, in die Ecke gedrängten Stiefkinder
 des Lebens. Etwas Altes, Müdes, Graues wie ihre Häuser.
 Auch die Jungen, auch die Kinder, Ja, auch diese.
@@ -82,7 +82,7 @@ daß sie etwas mehr taten, als ihn durch Beispiele zu leiten, indem
 sie tranken, fluchten, aufschnitten, Karten spielten und kauten und
 schnupften.
  
-\<@pagebreak/>
+<@pagebreak/>
 Den anderen imponierte sein seemännisches Wesen. Nur das
 Kauen flößte ihnen Ekel ein, und Anton, der etwas auf sein Zeug
 hielt, sagte einfach »Du Schwein!« als Fritz Kleesand ihm einmal
@@ -126,7 +126,7 @@ er schwätzen, wenn er in Eifer kam -- so heckte er meistens die Touren
 aus und setzte seine Pläne durch. Heute aber, es war ein freier
 Sonnabendnachmittag, hatten sie Fritz Kleesand die Führung überlassen.
 Der sollte in vierzehn Tagen als Schiffsjunge mit Käpt'n 
-\<@pagebreak/>
+<@pagebreak/>
 Krüzfeld von der »Alaska« in See stechen. Es war das letztemal
 heute, daß er mit ihnen zusammen war. Da erwiesen sie ihm allerlei
 Ehre und taten nach seinem Willen. Der war natürlich aufs Wasser
@@ -170,7 +170,7 @@ von Anton gleichfalls mit einem vielsagenden »Donnerwetter!« begrüßt.
 Und die »Schweden«, die Fritz Kleesand vorzeigte, waren
 es wohl auch nicht.
 
-\<@pagebreak/>
+<@pagebreak/>
 »Dein Flintstein wird mal wieder keinen Funken hergeben,«
 sagte er zu Anton. »Besser ist besser.«
 
@@ -216,7 +216,7 @@ Hugo, dessen Gedanken meist bei der Erbswurst verweilten, zu Gemüte,
 wie unsicher alles in diesem Leben ist, und daß man nur
 die schon genossenen Freuden zählen darf.
 
-\<@pagebreak/>
+<@pagebreak/>
 Die Insel Roß lag wie ein Stück vergessene Wildnis, umrauscht
 von dem Strom des großen Weltgetriebes. Ein paar Krähen
 flogen lautlos auf, als das Boot an den Strand stieß. Fritz Kleesand
@@ -260,7 +260,7 @@ unablässig herüberklingende an- und abschwellende Musik
 der Arbeit: das hämmernde, kreischende Geräusch von den Werften
 her, wo riesige Schiffsgerippe unter der Wucht der Schläge erzitterten,
 die sie fertigen und festen sollten für die Stürme, die da 
-\<@pagebreak/>
+<@pagebreak/>
 draußen im Ozean auf sie lauerten, und für die Wogen, die mit
 ihnen Fangball spielen wollten. Man hörte das Dröhnen und
 Klingen der Eisenplatten, hörte das Gerassel von Ketten.
@@ -307,7 +307,7 @@ fanden, war nicht viel und wollte nicht recht brennen. Aber es
 ging doch. Und die Erbswurst schmeckte auch. Und alles war jetzt
 köstlich.
 
-\<@pagebreak/>
+<@pagebreak/>
 »Und nu paßt auf,« sagte Fritz Kleesand und schleuderte die
 leeren Bierflaschen mit gutem Wurf weithin in den Strom. »Das
 Zeug mag ich nun nicht mehr.« Und dann zog er mit verschmitztem
@@ -365,7 +365,7 @@ Hugo aber war blutrot geworden.
 
 »Du!«
 
-\<@pagebreak/>
+<@pagebreak/>
 »Weil ich gesagt hab', daß er sich vorm Kognak nicht fürchtet und
 manchmal duhn ist? Das ist er doch?«
 
@@ -418,7 +418,7 @@ Portwein und flößte ihr einige Tropfen ein.«
 »Portwein?« fragte Fritz Kleesand ungläubig. »Wird wohl
 Whisky gewesen sein.«
 
-\<@pagebreak/>
+<@pagebreak/>
 »Das ist doch einerlei!« rief Anton ärgerlich ob dieser Störung.
 
 »Als die Schöne die Augen aufschlug,« fuhr Hugo fort, »sah
@@ -472,7 +472,7 @@ Geschichte. »Du Spatz,« höhnte Fritz Kleesand.
 
 Anton hielt mühsam an sich. Fritz war ein Flegel und Feigling.
 Mit dem Schwächeren band er immer gleich an. Er verachtete
-\<@pagebreak/>
+<@pagebreak/>
 ihn. Hugo war ein Lappen. Und was hatte er Fritz die
 Flasche aus der Hand zu schlagen.
 
@@ -521,7 +521,7 @@ Ihr Zwist hatte sie früher nach Hause getrieben, als sie beabsichtigt
 hatten, und führte sie nun mitten unter die Menge der heimkehrenden
 Arbeiter. Die Dampfpfeifen der verschiedenen Fabriken, die den
 Feierabend ankündigten, hatten sie in ihres Herzens Zorn
-\<@pagebreak/>
+<@pagebreak/>
 überhört. Nun waren sie in das lebhafteste Treiben hineingeraten,
 die kleinen, teilweise überfüllten Fährboote kreuzten jeden Augenblick
 ihren Weg. Lachen und Gesang schallte übers Wasser, und

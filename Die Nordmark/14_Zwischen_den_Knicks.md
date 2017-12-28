@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <div class="img"><img alt="Bauernhof umgeben von Bäumen und Feldern" src="0046.gif"/></div>
 
 <h2>Zwischen den Knicks.</h2>
@@ -18,7 +17,7 @@ schnalzen im grünen Entenflott. Der Enterich führt seiner Schar
 Taucherkunststücke vor; wenn er wieder mit dem Kopf nach oben
 kommt, macht er einen Heidenlärm. Er freut sich der Kinderschar
 und des Frühlings; im übrigen handelt er nach dem bekannten, 
-\<@pagebreak 39/>
+<@pagebreak 39/>
 echt menschlichen Spruch: Selber essen macht fett! Sein großer
 Vetter, Herr »Gander«, nimmt es ernster mit seinen Vaterpflichten,
 er hat auch besser das Zeug dazu. Während seine gelbwolligen
@@ -59,7 +58,7 @@ zu sehen, die er ausstreut über Felder und Wiesen. Die leichtlebige
 Jugend pflegt weitsichtig darüber hinweg zu blicken; sie meint,
 es seien ganz gewöhnliche Dinge, und es sei jedes Jahr dasselbe.
 Sie sieht Gutes und Nützliches, wie Gras und Korn, Schlechtes 
-\<@pagebreak/>
+<@pagebreak/>
 oder Unnützliches, wie Disteln, Klint und Quecke; sie glaubt, es müsse
 alles so sein, wie es nun einmal ist, und etwas besonders Schönes
 sei nicht zu finden in einem Lande voller Korn und Graskoppeln,
@@ -101,7 +100,7 @@ Wenn man endlich von all dem Sehen müde wird, dann legt
 man sich am Grabenrand ins hohe, weiche Gras und blickt hinauf
 in das grüne Dach des Knicks und in die weißen Wolken, die
 zwischen den Blättern hervorleuchten. Wie liegt man da schön! 
-\<@pagebreak/>
+<@pagebreak/>
 Der Hänfling, der im dichten Schwarzdorn sein Nest hat, singt
 sein schönstes Liebeslied, ein ganz altes ist es, aber kein moderner
 Erotiker kann's besser. Die Goldammer hat in dieser Zeit den

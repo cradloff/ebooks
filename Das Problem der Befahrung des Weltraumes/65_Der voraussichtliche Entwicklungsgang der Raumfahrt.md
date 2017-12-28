@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Der voraussichtliche Entwicklungsgang der Raumfahrt.
 ====================================================
 
@@ -19,7 +18,7 @@ vor allem in die Versuchsstätten der Hochschulen und auf die
 Prüffelder bewährter Maschinenfabriken gehört.
 
 Im Zusammenhange damit müssen (wenigstens soweit es sich um
-\<@pagebreak 184/> Raumraketen für flüssigen Betriebsstoff handelt) Erfahrungen gesammelt
+<@pagebreak 184/> Raumraketen für flüssigen Betriebsstoff handelt) Erfahrungen gesammelt
 werden in der hierzu notwendigen Anwendungsweise
 verflüssigter Gase, wie insbesondere des flüssigen Sauerstoffes,
 dann des flüssigen Wasserstoffs u. a. Weiterhin wäre durch
@@ -58,7 +57,7 @@ geladener Raumraketen, wie sie von mancher Seite vorgeschlagen
 wird, könnte in weiterer Folge dann wohl ebenfalls
 versucht werden, hätte aber kaum praktischen Wert.
 
-\<@pagebreak /> Gleichzeitig mit diesem müßte man — um auch den *Aufstieg
+<@pagebreak /> Gleichzeitig mit diesem müßte man — um auch den *Aufstieg
 von Menschen* vorzubereiten — die gesundheitliche Zuträglichkeit
 erhöhter Schwerewirkung erforschen, durch Vornahme von
 entsprechenden Versuchen mittels großer Zentrifugen (oder Karuselle)
@@ -96,7 +95,7 @@ Höchstgeschwindigkeiten immer mehr zu steigern trachten.
 
 Sobald man dann das Manövrieren mit Raketenflugzeugen
 überhaupt und insbesondere auch die bei kosmischen Geschwindigkeiten
-\<@pagebreak /> in den höheren dünnen Luftschichten notwendige Flugtechnik
+<@pagebreak /> in den höheren dünnen Luftschichten notwendige Flugtechnik
 beherrscht, ist damit zugleich und von selbst auch schon:
 
 1. der eingangs geschilderte irdische „*Eilflugverkehr mit
@@ -136,7 +135,7 @@ Durch allmähliche Steigerung der Leistungen dieser Rückstoßflugzeuge
 oder flugzeugartigen Raumschiffe wird man mit der
 Zeit schließlich immer bedeutendere wagerechte Geschwindigkeiten
 und Steighöhen erzielen, bis sich so endlich von selbst die über
-\<@pagebreak /> der Lufthülle verlaufende *freie Umlaufbewegung* um die Erde
+<@pagebreak /> der Lufthülle verlaufende *freie Umlaufbewegung* um die Erde
 ergibt. Die Bahn derselben beliebig zu wählen, wird dann keine
 Schwierigkeiten mehr bieten.
 

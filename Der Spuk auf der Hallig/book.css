@@ -71,3 +71,7 @@ a.footnote {
 .g {
 	letter-spacing: 0.25em;
 }
+
+.center {
+	text-align: center;
+}

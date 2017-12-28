@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>e. Im Kampf für Land und Volk.</h2>
 
 <h2>Johann Wittenborg fordert auf zum Kampf.</h2>
@@ -13,7 +12,7 @@ einzig zur Herstellung von Werken und Bedürfnissen des
 Krieges. Überall aber ruhten die Augen Johann Wittenborgs
 prüfend, ordnend, gebietend, selbst; er schien, zehnfach geteilt,
 
-\<@pagebreak 139/>
+<@pagebreak 139/>
 <div class="img"><img alt="Ansicht des Rathauses" src="0147.gif"/></div>
 
 zugleich hier und dort zu sein, über die doppelte Anzahl von Tagesstunden
@@ -41,7 +40,7 @@ unter der Hand ihrer Landesherren, eine Gewalt aufbieten, zusammenhalten
 und schlachtentüchtig ins Feld führen, um König
 Waldemars Panzerrittern zu trotzen, da die Hansa doch bisher
 nicht einmal allerorten auf der Ostsee ihre Schiffe vor gemeinen Seeräubern
-\<@pagebreak/>
+<@pagebreak/>
 zu sichern imstande gewesen? So ging die Ratschlagung 
 manchen Tag, während in den Werkstätten draußen unablässig
 Hammer und Amboß erdröhnten, Schiffsbeil und Säge; wechselnden
@@ -82,7 +81,7 @@ und Köln und wie sonst ihr weitgerühmter Name klinge. Ihrer
 aller Blüte und Ansehen aber habe die nämliche Mutter gehabt,
 die sie geboren und mit der nämlichen Milch zu unvergleichlichem
 Wachstum emporgenährt, mit der Freiheit, Sicherheit und
-\<@pagebreak/>
+<@pagebreak/>
 Herrschaft des Handels, die heute als Lebensblut in ihren kraftstrotzenden
 Gliedern rolle. Und ingleichem sei auch die großmächtige Stadt
 Venedig durch den Handelsbetrieb des Kaufmanns allein zur Beherrscherin
@@ -124,7 +123,7 @@ nach Hause, reißt die Mauern eurer Städte nieder; denn ihr tragt
 kein Blut in euch, sie zu schützen -- werft Feuer in eure Schiffe,
 denn ihr braucht sie nicht mehr! Bittet Waldemar Atterdag, daß
 er auch eure Kaufhöfe zu Bergen und Nowgorod seinen Töchtern 
-\<@pagebreak/>
+<@pagebreak/>
 zur Mitgift gibt und die Ostsee von euch zum Geschenk nimmt!
 Kniet hin vor ihn und bittet, daß er den ermordeten Bürgern der
 edlen Stadt Wisby vergibt, daß ihr Reichtum seine Gier gereizt,
@@ -168,7 +167,7 @@ und Sühne für die edle Stadt Wisby! Gen Seeland aufs Meer
 mit den Schiffen der Dudeschen Hanse! Herr Johann Wittenborg
 sei ihr Führer und Feldherr!«
  
-\<@pagebreak/>
+<@pagebreak/>
 Und wie aufbrausender Sturm kam es tausendzungig vom Markt
 zurück: »Johann Wittenborg sei unser Feldherr!«
 

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Nach Rom –?</h2>
 
 <h3>Von Iven Kruse.</h3>
@@ -18,7 +17,7 @@ oder Herzog aus grauer Vorzeit seine Feinde hineingedrängt haben,
 heißt ... und dann schloß er unter freiem Himmel bei dem Dörflein
 Frieden mit seinem Widersacher und nannte die Stätte Fredenkamp
 ... und hierauf ritten beide auf ihren ungeschlachten Holstenhengsten
-\<@pagebreak 380/>
+<@pagebreak 380/>
 nach entgegengesetzten Seiten davon wie gesättigte Wölfe.
 »Gott mit ju und kamt ni wedder!« mögen die armen Bauern gedacht
 haben, deren magere Felder von den Übermütigen zerstampft
@@ -62,7 +61,7 @@ Steine dienten ihm als Stufen, mit deren Hilfe er sich gewandt
 auf die drei Querbretter zu schwingen vermochte. Von hier
 aus konnte er fast den ganzen Bereich der Dorfgemarkung übersehen. 
 
-\<@pagebreak/>
+<@pagebreak/>
 Er saß gern da oben, während seine schnatternden Untertanen --
 fürwahr, er hatte es fast ebenso schwer wie der Selbstherrscher aller
 Reußen -- sich rupfend an den niedrigen, mit Hasel- und Dorngebüsch
@@ -103,7 +102,7 @@ herab, im Sonnenschein schwärmten zahllose Mücken, mit ihrer
 zarten Netzflügelmusik die Stille erfüllend, blitzende Fliegen und
 honigbeschwerte Bienen schossen summend durch die sonnige, warme
 Luft, in den Brombeer- und Haselbüschen zirpten die Grillen eintönig,
-\<@pagebreak/>
+<@pagebreak/>
 unverrückt, wie Ton gewordene Sonnenstrahlen, und wie holde
 Sommerträume flatterten über die Siesta haltende Heide weiße und
 blaue und rote Falter dahin, unablässig umeinander herumgaukelnd,
@@ -156,7 +155,7 @@ Winter is? Un sünd de Hüser dor all ut Marmor bu't? Ik meen
 so 'n Marmor, as worut de lütten Krüzen op unsern Karkhof makt
 sind ... Un 'n grote Kark is dor, sä he: de harr so 'n hogen Toorn,
 dat unse Kark dor tweemal upenanner in stahn kunn ... Awer dat 
-\<@pagebreak/>
+<@pagebreak/>
 kann jo wol meist ni angahn; ick kann dat ni rech glöwen; unse
 Karktoorn is doch all so hoch; wenn een dor 'rup kikt, ward 'n jo
 all ganz swimeli in 'n Kopp. Un sehn hedd he dat jo ock ni ...
@@ -210,7 +209,7 @@ Hügel und holzige Hartheustengel mit prächtig gelben Blüten, die
 in der Sonne gleißten, -- unwillkürlich mußte ich an rinnendes
 Gold im Schmelztiegel denken.
 
-\<@pagebreak/>
+<@pagebreak/>
 Denn es schwamm Feuer durch die Luft; helle, flackernde, weiße
 Flämmchen zuckten unablässig sich kreuzend und durcheinanderschießend,
 am glühenden Himmel hin und her. Von Zeit zu Zeit
@@ -264,7 +263,7 @@ Raben, Hinnes grauhaariger Vater.
 
 Er war mit bei der Ernte beschäftigt gewesen.
 
-\<@pagebreak/>
+<@pagebreak/>
 In seinem verwitterten, starkbehaarten Gesicht lag ein wunderlicher
 Ausdruck des Entsetzens und der Spannung, gerade als ob
 er hoffe, sein Söhnchen werde sich im nächsten Augenblick erheben

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Die Raumrakete im schiefen Wurf.
 ================================
 
@@ -25,7 +24,7 @@ der Raumrakete theoretisch eigentlich überhaupt
 Man könnte demnach so in äußerst kurzer Zeit eine Last über
 sehr große Distanzen fortbringen, weshalb mitunter die Meinung
 vertreten wird, daß sich dieses Verfahren auch zur Beförderung
-\<@pagebreak 85/> z. B. dringender Frachten etwa im Dienste der Post, des Fernmeldewesens
+<@pagebreak 85/> z. B. dringender Frachten etwa im Dienste der Post, des Fernmeldewesens
 u. dgl. benützen ließe.
 
 Letzteres wäre aber nur möglich, wenn es gelingt, die Einfallgeschwindigkeit
@@ -55,7 +54,7 @@ zur Abbremsung gelangte.
 Dies gilt gleichermaßen auch dann, wenn man es, wie von anderer
 Seite vorgeschlagen, so einrichtet, daß sich vor dem Niedergehen
 die *Nutzlast aus der Rakete loslöst*, um *allein* an
-\<@pagebreak /> einem Fallschirm herabzusinken, während der Leerkörper der
+<@pagebreak /> einem Fallschirm herabzusinken, während der Leerkörper der
 Rakete preisgegeben wird; denn weder die Größe der Einfallgeschwindigkeit
 noch die vor allem schädliche zu bedeutende
 *Steilheit* des Einfalles wird durch diese Maßnahme irgendwie
@@ -91,7 +90,7 @@ Industriegebiete usw.) ohnehin verhältnismäßig bedeutende Streuungen zu.
 
 Bedenkt man nun, daß bei einer solchen Beschießung mit Raketen
 selbst etliche Tonnen schwere Ladungen über die gewaltigsten
-\<@pagebreak /> Entfernungen hinweg *gefahrlos* an Ziele gebracht werden
+<@pagebreak /> Entfernungen hinweg *gefahrlos* an Ziele gebracht werden
 könnten, die sehr weit im feindlichen Hinterland liegen, ja
 daß geradezu kein Teil desselben vor derartigen Angriffen sicher
 wäre und es dagegen auch gar *keine Abwehr* gäbe, so ersieht
@@ -124,7 +123,7 @@ Wohl mag die eben beschriebene einfachste Anwendungsweise
 der Raumrakete manchem nicht gerade als Empfehlung für dieselbe
 erscheinen! Doch es ist eben das Schicksal fast *sämtlicher*
 großer Errungenschaften der Technik, daß sie auch für Zerstörungszwecke
-\<@pagebreak /> benutzt werden können. Sollte man aber beispielsweise
+<@pagebreak /> benutzt werden können. Sollte man aber beispielsweise
 die Chemie etwa als schädlich und ihre weitere Ausgestaltung
 als nicht wünschenswert ansehen, weil sie die Waffen für
 den heimtückischen Gaskrieg schafft? Und es würden die Ergebnisse,

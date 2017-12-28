@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Unbegrenzte Fernsicht.
 ======================
 
@@ -6,7 +5,7 @@ In mancher Beziehung hat aber das Fehlen der Luft für die
 Lichtverhältnisse des leeren Weltraums auch Vorteile. Es ist ja
 allgemein bekannt, welchen großen Einfluß die Beschaffenheit der
 Luft auf die Fernsicht (z. B. im Gebirge, auf See usw.) ausübt;
-\<@pagebreak 121/> denn stets, auch an klaren Tagen, geht ein Teil der Lichtstrahlen
+<@pagebreak 121/> denn stets, auch an klaren Tagen, geht ein Teil der Lichtstrahlen
 in ihr bzw. durch die beständig in ihr schwebenden kleinen Staub-
 und Dunstteilchen verloren.
 

@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h1>15. Kapitel.</h1>
 
 <div class="subtitle">Paul als Kochsmaat. &mdash; Doras Suppe. &mdash; Das Wrack der »Hirondelle«. &mdash;
@@ -10,7 +9,7 @@ schmerzhaft; der Schiffer wollte ihn auf die Krankenliste setzen, stieß hierbei
 jedoch auf offenen Widerstand und Ungehorsam.
 
 »Sie wissen sehr wohl, Keppen Jaspersen, dass ich auf jedem andern 
-\<@pagebreak 115/> Schiffe mit einer so unbedeutenden Schramme meinen Dienst tun müsste,«
+<@pagebreak 115/> Schiffe mit einer so unbedeutenden Schramme meinen Dienst tun müsste,«
 sagte der Jüngling, »und hier, wo doch wahrlich kein Mann entbehrt
 werden kann, soll ich aufliegen und faulenzen? Nee, Kaptein, so leed
 mi dat ok doon deit, aber in düssen Fall möt ick den Gehorsam verweigern.«
@@ -53,7 +52,7 @@ Familie in Westerstrand, besonders von seiner Schwester Gesine, wobei
 er seiner Ansicht Ausdruck gab, dass Kapitän Jaspersen diese wahrscheinlich
 eines Tages als seine Frau heimführen werde, was allerdings erst
 geschehen könne, wenn sie mit der Hallig wieder glücklich aus diesem 
-\<@pagebreak /> Loche heraus wären. Auch von Towe und Katje berichtete er ausführlich
+<@pagebreak /> Loche heraus wären. Auch von Towe und Katje berichtete er ausführlich
 und fügte hinzu, dass der Matrose den Pelz der Robbe für dieselbige
 Katje in Besitz zu nehmen beabsichtige.
 
@@ -102,7 +101,7 @@ Pantry herein.«
 »Jowoll!« antwortete der Kochsmaat diensteifrig und im nächsten
 Moment stand die dampfende Schüssel auf dem Tische.
  
-\<@pagebreak /> »Ah!« rief der Schiffer; »wie gut das riecht!«
+<@pagebreak /> »Ah!« rief der Schiffer; »wie gut das riecht!«
 
 Und alle Mann atmeten mit höchst vergnüglichem Geschnaufe den
 würzigen und nahrhaften Duft ein, der sich in der Atmosphäre der Kajüte
@@ -146,7 +145,7 @@ achteraus zum Kaptein. Sie besehen sich das Tier, messen seine Flügel, die
 zwölf oder fünfzehn Fuß Spannweite hatten, wenn ich mir recht entsinne,
 und dabei finden sie, dass er einen Ring von Kupferdraht um den Hals
 hatte und an diesem Ring eine messingene Tabaksbüchse. Als sie aufgemacht
-\<@pagebreak /> war, fand sich ein Zettel drin; darauf stand auf französisch geschrieben,
+<@pagebreak /> war, fand sich ein Zettel drin; darauf stand auf französisch geschrieben,
 dass die Brigg ›Hirondelle‹ am 2. Juni die Masten und das
 Ruder verloren und ein Leck gesprungen habe. Sollte diese Botschaft
 einem Schiffer oder Steuermann zu Gesicht kommen, so wären sie um
@@ -187,7 +186,7 @@ wurden, der mit dem Halsgeschmeide verschmähte den Köder. Er
 kam wohl heran geschossen, schwebte auch eine Weile regungslos dicht über
 dem lockenden Bissen, der mit zehn Knoten Fahrt zischend über das
 Wasser hüpfte, betrachtete ihn mit im Sonnenschein wie Granatsteine 
-\<@pagebreak /> funkelnden Augen, dann aber fuhr er seitwärts in mächtigem Schwunge
+<@pagebreak /> funkelnden Augen, dann aber fuhr er seitwärts in mächtigem Schwunge
 wieder davon, beschrieb einige gewaltige Bogen und folgte uns dann aufs
 neue ruhig wie zuvor.
 
@@ -231,7 +230,7 @@ haben?«
 
 »Millionen von Meilen!« rief Paul.
 
-\<@pagebreak /> »Ganz ohne Zweifel,« sagte der Schiffer. &mdash;
+<@pagebreak /> »Ganz ohne Zweifel,« sagte der Schiffer. &mdash;
 
 Am nächsten Tage ging es mit Pauls Fuß schon besser, es dauerte
 jedoch noch eine Weile, bis er wieder Stiefel tragen konnte. In der
@@ -280,7 +279,7 @@ Gerichte jetzt besser zu würdigen, als der brave Heik Weers.
 er. »Dat is man selten, dat Janmaat sein Futter auf anständige Art
 vorgesetzt kriegt, drum soll er's auch wahrnehmen, wenn dieses Glück ihm
 lächeln tut. Ich würde wahrhaftig bis an mein seliges Ende hier an 
-\<@pagebreak /> Bord von die ohle Hallig bleiben, vorutgesetzt, dat uns' Fräulein auch
+<@pagebreak /> Bord von die ohle Hallig bleiben, vorutgesetzt, dat uns' Fräulein auch
 die ganze Zeit hier Hausfrau und Wirtschaftsmamsell bleiben tut.«
 
 Da beim Aufstellen des Großmastes der Fockmast den Dienst verrichten
@@ -329,7 +328,7 @@ bei den Harvey-Inseln, als auch bei Samoa gefunden. Er hält
 sich nur im seichten Wasser der Küsten auf, auf hoher See trifft man
 ihn nicht.«
  
-\<@pagebreak /> »Ich bün mal auf Nukufetau gewesen,« fing Heik wieder an. »So
+<@pagebreak /> »Ich bün mal auf Nukufetau gewesen,« fing Heik wieder an. »So
 heißt dat Eiland nämlich bei die Kanaken, auf die Karte is es als
 Paystor-Eiland eingetragen. Dor wern ganz de sülbigen Fisch' mal
 giftig un mal nich giftig. Fung man Fliegefisch auf die Leeseit' von
@@ -372,7 +371,7 @@ würden, zu essen, ehe diese von einem Eingeborenen untersucht worden
 wären. Dies geschah, und einige Wochen lang ging auch alles gut.
 Dann aber gab's Unglück.
 
-\<@pagebreak /> »Ich hatte von Sydney einen weißen Zimmermann mitgebracht,
+<@pagebreak /> »Ich hatte von Sydney einen weißen Zimmermann mitgebracht,
 einen Holländer. Der alte Mensch war unglaublich halsstarrig und
 dickköpfig, sonst aber ein tüchtiger Arbeiter. Anstatt mit der Wrackermannschaft
 im Dorfe der gastfreien Insulaner zu wohnen, zog er es
@@ -415,7 +414,7 @@ an den Folgen dieser Vergiftung.«
 
 »<i>›Sapienti sat‹</i>, das heißt, dem Verständigen genügt das,« sagte Paul
 nach diesen Ausführungen Heiks und des Schiffers, und fortan wurde 
-\<@pagebreak /> im Jaspersenhafen nicht mehr gefischt. Dagegen beschloss man, bei
+<@pagebreak /> im Jaspersenhafen nicht mehr gefischt. Dagegen beschloss man, bei
 nächster Gelegenheit auf der anderen Seite der Insel, beim Robbenkap,
 auf essbare Fische zu fahnden. Wo das Robbenkap lag, braucht hier
 wohl nicht erst erklärt zu werden.
@@ -464,7 +463,7 @@ dat nich.«
 
 »Wir werden's schaffen, Towe,« antwortete Paul, »weil wir's einfach
 schaffen müssen. Wenn der Besanmast steht und auch das Vorgeschirr 
-\<@pagebreak /> in Ordnung ist, dann bleibt uns noch Zeit genug, das Fahrwasser
+<@pagebreak /> in Ordnung ist, dann bleibt uns noch Zeit genug, das Fahrwasser
 zu erkunden und auszuloten, so dass wir die Hallig sicher
 hinausschleppen können. Aber ein Stück Arbeit wird es geben, da hast
 du recht.«

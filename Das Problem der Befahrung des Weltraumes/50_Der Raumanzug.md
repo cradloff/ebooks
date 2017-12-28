@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 Der Raumanzug.
 ==============
 
@@ -16,7 +15,7 @@ sie bestehen, nicht nur wie bei diesen: luftdicht, gegen äußere
 Einflüsse widerstandsfähig und so beschaffen sein, daß sie möglichst
 ungehinderte Bewegung gestattet. Sie muß bei Raumanzügen
 außerdem noch große *Zugfestigkeit* besitzen, da in ihrem
-\<@pagebreak 150/> Innern eine Gasspannung (Luftüberdruck gegenüber dem leeren
+<@pagebreak 150/> Innern eine Gasspannung (Luftüberdruck gegenüber dem leeren
 Weltraum) von einer vollen Atmosphäre herrscht, und sie soll
 überdies *gegen extrem niedere Temperaturen*, wie solche
 sich durch Ausstrahlung in den leeren Weltraum ergeben können,
@@ -54,7 +53,7 @@ offenbar am günstigsten zu sein.
 
 Wir wollen daher annehmen, daß die Raumanzüge auf diese
 Art ausgeführt sind. Durch vollkommene äußere Spiegelblankheit
-\<@pagebreak /> wird ihre Abkühlung infolge Wärmeausstrahlung möglichst
+<@pagebreak /> wird ihre Abkühlung infolge Wärmeausstrahlung möglichst
 verhindert. Eine besondere Ausfütterung des ganzen Anzuges
 sorgt außerdem für weitgehende Wärmeisolierung. Falls sich bei
 sehr langem Aufenthalt im Freien die Abkühlung trotzdem bemerkbar
@@ -94,7 +93,7 @@ Arten des lokalen Funkverkehrs naturgemäß *verschiedene
 Wellen* festgesetzt, die bei den Funkgeräten der Raumanzüge
 in einfacher Weise eingestellt werden können.
 
-\<@pagebreak /> Zur Ermöglichung willkürlicher Fortbewegung dienen kleine
+<@pagebreak /> Zur Ermöglichung willkürlicher Fortbewegung dienen kleine
 *Rückstoß-Handapparate*. Deren Betriebsstoffbehälter befinden
 sich nebst den schon früher erwähnten Geräten ebenfalls im
 Tornister.

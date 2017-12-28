@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 79/>
+<@pagebreak 79/>
+
 <h2>Zur Geschichte der Landwirtschaft.</h2>
 
 <h3>Von Prof. Hansen.</h3>
@@ -28,7 +28,7 @@ sie allgemeiner. Die fürstliche Regierung war noch vor 100 bis
 verschaffen, damit die bisherige Einfriedigung mit toten Zäunen
 überflüssig werde.	
 
-\<@pagebreak/>
+<@pagebreak/>
 Einen ansehnlichen Nebenerwerb gaben die Wälder durch den
 Verkauf von <span class="g">Holz</span> und <span class="g">Kohlen</span>, wie durch die <span class="g">Schweinemast.</span> Erstere gingen größtenteils über <span class="g">Itzehoe</span> nach Holland, da von Kiel, Neustadt usw. zu der Zeit noch keine Verschiffungen stattfanden.
 Zur Mast in die Wälder aber schickten nicht bloß die Landesbewohner sondern auch die Hansestädte und Mecklenburg ihre Schweine.

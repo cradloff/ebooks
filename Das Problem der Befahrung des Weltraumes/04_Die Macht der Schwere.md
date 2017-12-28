@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 9/>
+<@pagebreak 9/>
+
 Die Macht der Schwere.
 ======================
 
@@ -33,7 +33,7 @@ oder kleinere Masse besitzen. Denn die Massenanziehungskraft
 ist, zwischen welchen sie wirkt. Hingegen aber nimmt ihre
 Stärke ab mit zunehmender Entfernung (und zwar mit dem Quadrate
 der letzteren), doch ohne daß ihr Wirkungsbereich eine
-\<@pagebreak /> ausgesprochene Grenze hätte (Abb. 1). Sie wird also theoretisch
+<@pagebreak /> ausgesprochene Grenze hätte (Abb. 1). Sie wird also theoretisch
 erst in unendlicher Entfernung zu Null. Ebenso wie die Erde
 übt natürlich auch die Sonne, der Mond und überhaupt jeder
 Himmelskörper eine seiner Größe entsprechende Schwerkraft aus.
@@ -62,7 +62,7 @@ oder in besonderem Falle auch als *Fliehkraft*. Letzteres
 dann, wenn sie dadurch entstehen, daß eine Masse gezwungen wird,
 sich in gekrümmter Bahn zu bewegen. Die Fliehkraft ist bekanntlich
 stets von der Bewegungskurve senkrecht nach auswärts gerichtet
-\<@pagebreak /> (Abb. 3). Alle diese Kräfte: die Schwerkraft, der Trägheitswiderstand
+<@pagebreak /> (Abb. 3). Alle diese Kräfte: die Schwerkraft, der Trägheitswiderstand
 und die Fliehkraft sind *Massenkräfte*.
 
 Wie früher erwähnt, erstreckt sich die Wirkung der Erdschwerkraft,

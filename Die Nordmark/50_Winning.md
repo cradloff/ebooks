@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 244/>
+<@pagebreak 244/>
+
 <h2>Winning.</h2>
 
 <h3>Von Asta Heiberg.</h3>
@@ -41,7 +41,7 @@ dem Haufen entgegen. Ich wußte schon damals, daß Menschen in
 dem Zustande feige sind. »Sie nehmen die Damen nicht mit in
 ihr Boot, desertieren werden sie nicht, dafür verbürge ich mich. Die
 Damen sind von mir eingeladen, sie stehen unter meinem Schutz; ich 
-\<@pagebreak/>
+<@pagebreak/>
 dulde es nicht, daß irgend jemand sie belästigt. Wenn es ein Verbrechen
 ist, daß drei Damen zufällig unsere Farben tragen, dann
 wird Ihre Behörde auf Ihre Anklage hin die Sache untersuchen
@@ -86,7 +86,7 @@ sich die günstige Gelegenheit, uns etwas anzutun, nicht entgehen
 lassen würden. Auf Geldstrafe ward für Vergehen, die nicht mit
 Gefängnis bestraft werden konnten, mit Vorliebe erkannt.
 
-\<@pagebreak/>
+<@pagebreak/>
 Heibergs Protest erleichterte seinen Geldbeutel, aber zugleich
 hatte er auch sich erleichtert, indem er den Mißbrauch der Beamten
 rücksichtslos darlegte. Ein Kopenhagener Blatt brachte einen weitläufigen
@@ -129,7 +129,7 @@ Gesuchs, in Erwägung:
 Struxdorff-Hardesvogtei und die Statthaftigkeit des von derselben
 beobachteten Verfahrens erhobenen Beschwerden für
 begründet nicht zu erachten, da in dem zur Frage stehenden 
-\<@pagebreak/>
+<@pagebreak/>
 Fall eine nach Maaßgabe der auf solche Vergehen, für welche
 Brüchen gesetzlich angedroht sind, sich beziehenden Verordnung
 vom 16. Februar 1798 zu beurtheilende Sache nicht vorlag

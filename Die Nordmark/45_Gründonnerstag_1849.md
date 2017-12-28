@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 202/>
+<@pagebreak 202/>
+
 <h2>Gründonnerstag 1849.</h2>
 
 <h3>Von Rudolf Schleiden.</h3>
@@ -40,7 +40,7 @@ daß der seit dem Morgen mit Lebhaftigkeit geführte Kampf noch
 nicht beendigt sondern nur unterbrochen sei und bald wieder beginnen
 werde. -- Die feindlichen Schiffe hatten, so erzählte man
 uns, schon bald nach dem Beginne des Gefechts die Einfahrt in die 
-\<@pagebreak/>
+<@pagebreak/>
 Bucht erzwungen, mehrere Geschütze in der Nordbatterie, von wo
 aus Hauptmann Eduard Jungmann als einziger Offizier die Verteidigung
 leitete, unbrauchbar gemacht und sich zwischen diese und
@@ -81,7 +81,7 @@ wehte, machten Dr. Lorentzen und ich uns ungefähr um 4½ Uhr
 auf den Weg, um die wackere Mannschaft der Südbatterie zu begrüßen.
 Wir wußten nicht, daß bereits die Anzeige an Bord gesandt
 worden war, die Feindseligkeiten würden von schleswig-holsteinischer
-\<@pagebreak/>
+<@pagebreak/>
 Seite in zehn Minuten wieder beginnen. Das Linienschiff
 lag damals 5-600 Schritte vom Ufer entfernt, dem es die
 Breitseite zuwandte, die Fregatte in ungünstigster Lage, mit dem
@@ -122,7 +122,7 @@ Stadt trennte und die fortwährend mit Kartätschen überschüttet
 ward, in raschem Lauf zu überschreiten, sammelte aber vorher noch
 fünf solcher Kartätschenkugeln auf, die mir noch heute, auf einem
 Stück Holz vom Linienschiff Christian VIII. befestigt, als
-\<@pagebreak/>
+<@pagebreak/>
 Briefbeschwerer dienen. Nun fand ich zwar hinter den Mauern der ersten
 Häuser der Stadt notdürftige Deckung gegen die aus den Spiegelkanonen
 des Linienschiffs geschleuderten und an ein paar Stellen
@@ -163,7 +163,7 @@ Hurra der Zuschauer des Kampfes durchdrang die Luft. Das
 Feuer schwieg. Es war plötzlich stille.
 
 Ich eilte zur Stadt und zum Strande neben der Südbatterie 
-\<@pagebreak/>
+<@pagebreak/>
 zurück, wo uns Gewißheit ward, daß sich beide Schiffe auf Gnade
 und Ungnade ergeben hatten. Schon hatte sich der Unteroffizier
 v. Preußer ohne höheren Befehl auf eigene Hand an Bord des
@@ -204,7 +204,7 @@ Hafen gebracht. Sie hatte 35 Tote, 27 Amputierte, 25 leichter Verwundete
 an Bord gehabt. Die Batterien hatten nur zwei Tote
 und fünf Verwundete. Die Reservebrigade des Herzogs verlor nur
 einen einzigen Mann des Bataillons Reuß, der sich neugierig am 
-\<@pagebreak/>
+<@pagebreak/>
 Ufer befunden hatte, als die Explosion erfolgte. Im Christianspflegehause
 war außerdem eine Frau durch eine Kugel in ihrem
 Bette getötet worden.

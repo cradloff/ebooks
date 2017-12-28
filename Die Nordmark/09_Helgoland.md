@@ -1,5 +1,5 @@
-<#include "pagebreak.ftl">
-\<@pagebreak 20/>
+<@pagebreak 20/>
+
 <h2>Helgoland.</h2>
 
 <h3>Von M. J. Schleiden.</h3>
@@ -43,7 +43,7 @@ hat unser Grau mehr als zwei Drittel seines Lebens in
 offenem Boote auf dem Wasser verbracht; das Heulen des Sturms,
 das Aberstürzen der gepeitschten Wogen hat keinen Einfluß mehr
 auf seine gestählten Nerven. Während wir dem raschen Alten
-\<@pagebreak/>
+<@pagebreak/>
 mühsam folgend die fast 300 Stufen hohe Treppe zum Felsen hinansteigen,
 erzählt er von mancher Gewitternacht, manchem Schiffbruch;
 wir sehen ihn kämpfen mit den sich türmenden Wogen, um einem
@@ -84,7 +84,7 @@ Busch über die Höhe der Gartenzäune hervorwachsen. Die Insel
 selbst, in ihrer größten Länge kaum 2000 Schritte lang, bietet keine
 Fernsicht dar; alles liegt in der durchsichtigen Seeluft mit reinen,
 deutlichen Umrissen vor uns. Rechts springt der westliche Rand in 
-\<@pagebreak/>
+<@pagebreak/>
 schmalen Felsenrippen, in gigantischen Bogen und grotesken Höhlen
 oder in einzelnen, säulenartigen Klippen rötlichen Gesteins in das
 grünliche Meer vor. Wie der scharfe Kiel eines Schiffes stellt sich
@@ -126,7 +126,7 @@ Die größten Felsblöcke am Vorlande tanzten mit den Wellen
 wie Korkstücke und knirschten aneinander, als sollten sie zu Staub
 zermalmt werden. Die ganze See schien zu kochen, man sah keine
 Fläche, keine Welle, nichts als umhergejagten Schaum; die Brandung 
-\<@pagebreak/>
+<@pagebreak/>
 brüllte zwischen dem Neusteg und Mönch und in dem alten Mörmersgatt
 und tobte zwischen diesen Klippen, daß der Gischt uns hier oben
 am Leuchtturm durchnäßte. Da standen wir, Männer und Weiber,
@@ -167,7 +167,7 @@ von Frankreich gebleicht. -- Ja, ja! die See ist eine gefährliche
 Freundin, und wehe dem, der nicht die Kraft hat, ihr todesmutig
 ins Angesicht zu sehen!«
  
-\<@pagebreak/>
+<@pagebreak/>
 Wir schwiegen lange, dann schüttelten wir dem Alten still die
 Hand, und bald empfing uns alle die bunt gemalte Täfelung in dem
 reinlichen und behaglichen Zimmer unserer biedern Wirte.

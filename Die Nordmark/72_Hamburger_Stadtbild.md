@@ -1,4 +1,3 @@
-<#include "pagebreak.ftl">
 <h2>Hamburger Stadtbild.</h2>
 
 <h3>Von Alfred Lichtwark.</h3>
@@ -21,7 +20,7 @@ Sie verdankt es dem Naturgefühl des niedersächsischen Stamms,
 der ihn bewohnt. Hamburg erscheint, vom Luftballon aus gesehen,
 immer noch wie ein großer Park mit Häusern darin. Es ist mit
 seinen Wasserflächen, Wiesen, Parks und Gärten mitten im Straßennetz
-\<@pagebreak 378/>
+<@pagebreak 378/>
 so weitläufig gebaut, daß es vor einigen Jahren mehr Straßenlaternen
 brauchte als Berlin.
 
@@ -65,7 +64,7 @@ die populäre Vergnügungsstadt St. Pauli nie besucht.
 Alles Leben spielt sich in Haus und Garten ab. Es gibt kein
 Kneipen- und Klubleben. Eine Ausnahme macht das sehr alte,
 sehr entwickelte und sehr volkstümliche Sportsleben auf den 
-\<@pagebreak/>
+<@pagebreak/>
 Spielplätzen, in den Ruder-, Jachtklubs und Rennklubs. Die Sportfeste
 bilden die Höhepunkte des sommerlichen Lebens. Ein großartigeres
 Schauspiel von Volksleben in so unvergleichlichem Rahmen wie
