@@ -9,9 +9,11 @@
 <!-- Buch-Titel (Pflichtangabe) -->
 <entry key="title">Bill Tipperdey’s Geheimnis</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
-<!-- Band -->
-<entry key="volume">021</entry>
+<entry key="subtitle"></entry>
+<!-- Gruppe, z.B. Titel einer Serie -->
+<entry key="group">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Gruppe (Band-Nummer) -->
+<entry key="group-position">21</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->

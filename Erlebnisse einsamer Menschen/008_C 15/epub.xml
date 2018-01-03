@@ -9,9 +9,11 @@
 <!-- Buch-Titel (Pflichtangabe) -->
 <entry key="title">C. 15</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
-<!-- Band -->
-<entry key="volume">008</entry>
+<entry key="subtitle"></entry>
+<!-- Gruppe, z.B. Titel einer Serie -->
+<entry key="group">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Gruppe (Band-Nummer) -->
+<entry key="group-position">8</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->

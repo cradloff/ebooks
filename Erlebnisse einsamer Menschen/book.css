@@ -33,19 +33,19 @@ blockquote p {
 	text-align: center;
 }
 
-.toc#author, .toc #author {
-	color: dimgray;
-	font-size: 1.25em;
-	font-size: large;
-}
 .toc#title, .toc #title {
-	font-size: 1.8em;
 	font-size: x-large;
 }
 .toc#subtitle, .toc #subtitle {
 	color: dimgray;
-	font-size: 1.25em;
 	font-size: x-large;
+}
+.toc#author, .toc #author {
+	color: dimgray;
+	font-size: large;
+}
+.toc#volume, .toc #volume {
+	font-size: large;
 }
 
 /* Link zu Fußnote */

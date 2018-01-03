@@ -3,29 +3,35 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
-<entry key="UUID">3d279a90-d86d-11e7-8f1a-0800200c9a66</entry>
+<entry key="UUID">9b67b970-ebdf-11e7-8f1a-0800200c9a66</entry>
 <!-- ISBN -->
 <entry key="ISBN"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">Kapitän Merling und seine Familie</entry>
+<entry key="title">Der Schatz der Azteken</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Gruppe, z.B. Titel einer Serie -->
 <entry key="group">Erlebnisse einsamer Menschen</entry>
 <!-- Position innerhalb der Gruppe (Band-Nummer) -->
-<entry key="group-position">5</entry>
+<entry key="group-position">24</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">„Ich habe nie gewußt, daß auch Tiere seekrank werden“, meinte Frau Merling und
-schaute mitleidig in den Käfig des Zwergantilopen-Pärchens hinein, in dem die
-beiden zierlichen Tiere matt auf ihrem Strohlager ruhten.</entry>
+<entry key="description">„Holla, Reuter, – das wäre hier so etwas für Sie …!“
+
+Einer der drei Herren, die an einem kleinen Tischchen auf der Terrasse des Hotels Hamburger Hof in San Franzisko bei einer leichten, eisgekühlten Bowle saßen, faltete die Riesennummer einer amerikanischen Zeitung zusammen, reichte sie dem mit Reuter Angeredeten über den Tisch hin und wies mit dem Finger auf eine gesperrt gedruckte, aber nicht gerade auffällige Anzeige hin, indem er mit einem beinahe nachsichtigen Lächeln sagte:
+
+„Da, lesen Sie, Sie unternehmungslustiger Jüngling, der fortwährend mit seiner Neigung für das Außergewöhnliche prahlt.“
+
+Hans Reuter, der bei seiner Körperlänge und dem mageren Gesicht mit den scharfen Zügen ebenso gut auf dreißig wie auf zwanzig Jahre geschätzt werden konnte, in Wirklichkeit aber eben erst das achtzehnte vollendet hatte, nahm die Zeitung ziemlich gleichgültig entgegen. Kaum hatte er jedoch die Anzeige überflogen, als der Ausdruck seines Gesichtes sich sofort änderte. Dann erklärte er nachdenklich:
+
+„Hm – vielleicht ließen sich diese 3000 Dollar wirklich verdienen! Und die Geschichte sieht in der Tat ganz so aus, als wäre sie nach meinem Geschmack.“</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">W. Belka</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Belka, W.</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Belka, W. - (005) Kapitän Merling und seine Familie.epub</entry>
+<entry key="filename">Belka, W. - (024) Der Schatz der Azteken.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->

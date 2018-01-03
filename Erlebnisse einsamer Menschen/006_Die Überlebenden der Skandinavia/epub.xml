@@ -9,9 +9,11 @@
 <!-- Buch-Titel (Pflichtangabe) -->
 <entry key="title">Die Überlebenden der „Skandinavia“</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Erlebnisse einsamer Menschen</entry>
-<!-- Band -->
-<entry key="volume">006</entry>
+<entry key="subtitle"></entry>
+<!-- Gruppe, z.B. Titel einer Serie -->
+<entry key="group">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Gruppe (Band-Nummer) -->
+<entry key="group-position">6</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
