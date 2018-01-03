@@ -646,7 +646,7 @@ aus dem grünen, früher recht armseligen Moosteppich kleine Pflänzchen empor,
 die man bisher nicht bemerkt hatte.
 
 Dies alles konnte nur so erklärt werden, daß durch die Hitze des brennenden
-Flözes mit der Zeit die über den glühenden Gängen und Spalten lagernde.
+Flözes mit der Zeit die über den glühenden Gängen und Spalten lagernde,
 durchschnittlich acht Meter starke Gesteinschicht völlig durchwärmt worden war
 und nun bereits etwas von ihrer Wärme der Luft mitteilte.
 
@@ -706,7 +706,7 @@ hindurch und rief dann in höchster Erregung:
 
 „Olaf – Deine Eissäule ist nichts anderes als der Schornstein eines Dampfers. –
 Vorwärts, Junge, sehen wir zu, was von dem Schiff noch übrig ist, auf dem wir
-sicherlich auch Sörensen wiederfinden wenden.“
+sicherlich auch Sörensen wiederfinden werden.“
 
 Eine halbe Stunde später hatten sie nach mancherlei Umwegen, die sie wegen der
 zahlreichen Spalten und Wassertümpel machen mußten, den Dampfer glücklich
