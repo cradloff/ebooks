@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">89f85990-f96f-11e7-8f1a-0800200c9a66</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Höhlen von Saint-Pierre</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">25</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Für das Infanterie-Regiment Habsburg, das nun schon monatelang dem Gegner im nervenaufreibenden Stellungskampf in der Picardie östlich von Albert gegenüberlag, war am Abend des 28. Juni 1916 Ersatz eingetroffen, – 300 Mann ungedienter Landsturm, die zunächst beim Regimentsstabe, der in den Resten des Dorfes Saint-Pierre untergebracht war, noch verpflegt und dann sofort nach Verteilung auf die einzelnen Kompagnien zur vordersten Linie in Marsch gesetzt wurden.
+
+Ganz hinten schritten zwei Leute nebeneinander her, die man beim Rekrutendepot des Ersatzbataillons, wo die ungedienten Landstürmer ausgebildet worden waren, allgemein „Max oder Moritz“ genannt hatte, obwohl der größere, blondbärtige den poetischen Namen Siegfried Balder führte und der um gut anderthalb Kopf kleinere sich mit dem bedeutend weniger klangvollen August Plautsack begnügte, mithin von Max oder Moritz in den Kriegspässen der beiden keine Spur zu finden war.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (025) Die Höhlen von Saint-Pierre.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF067000 YOUNG ADULT FICTION / War &amp; Military</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
