@@ -232,7 +232,7 @@ ausruhte, lag so hoch, daß er das Eiland in allen seinen Teilen, abgesehen von
 den Ufern, bequem überschauen konnte. Es hatte die Gestalt einer Sichel, die
 sich der Länge nach ziemlich genau von Norden nach Süden erstreckte und bei
 einer größten Breite von vielleicht zwei Kilometer etwa vier mal so lang war.
-Ein Dünengürtel umgab es wie der erhöhte Rand einher Schüssel. Und was er von
+Ein Dünengürtel umgab es wie der erhöhte Rand einer Schüssel. Und was er von
 dem Innern der Insel nun erblickte, was seine Augen allmählich trotz des
 trostlosen Eindrucks des Ganzen in hoffnungsvollere Einzelheiten zerlegten,
 weckte langsam wieder die müden Lebensgeister bei ihm und pflanzte neuen Mut in

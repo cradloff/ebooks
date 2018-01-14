@@ -31,7 +31,7 @@ hier nicht einstellen, obwohl Doktor Parker bekannt war, daß Seefahrer unlängs
 noch in dieser Gegend Riesentintenfische auf der Oberfläche des Meeres hatten
 treiben sehen.
 
-Der Steuermann, ein jungem Deutscher namens Melcher, bezeigte für diesen
+Der Steuermann, ein junger Deutscher namens Melcher, bezeigte für diesen
 ungewöhnlichen Angelsport eine sehr lebhafte Teilnahme und hielt stets, wenn
 seine freie Zeit es ihm erlaubte, einen der dünnen Eisendrähte in der Hand, die
 durch ihr Anrucken bemerkbar machen sollten, wenn eines der Tiere angebissen
