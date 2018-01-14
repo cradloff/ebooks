@@ -10,9 +10,9 @@
 <entry key="title">Der Schatz auf dem Meeresboden</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
-<!-- Gruppe, z.B. Titel einer Serie -->
-<entry key="group">Erlebnisse einsamer Menschen</entry>
-<!-- Position innerhalb der Gruppe (Band-Nummer) -->
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
 <entry key="group-position">20</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
