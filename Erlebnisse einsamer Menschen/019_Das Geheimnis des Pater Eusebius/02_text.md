@@ -145,7 +145,7 @@ fremde Hilfe die Inseln nicht werde vom spanischen Joch erlösen können. Er
 schloß daher mit Amerika einen Vertrag, daß er dieses in einem Kriege gegen
 Spanien unterstützen werde. April l898 brach zwischen den Vereinigten Staaten
 und Spanien ein kurzer, für letzteres wenig ruhmreicher Feldzug aus. Bereits am
-13. August mußte Manila, die Hauptstadt der Philippinen, sich ergeben, und vier
+13\. August mußte Manila, die Hauptstadt der Philippinen, sich ergeben, und vier
 Monate später traten die Besiegten gegen eine Entschädigung von 20 Millionen
 Dollar die ganze Gruppe an Amerika ab. Die Hoffnung der Filipinos, durch diesen
 Krieg ein selbständiges Staatswesen erreichen zu können, ging schnell in
@@ -1096,7 +1096,7 @@ Der Pflanzer war dann klug genug, das Erzlager an einen Amerikaner zu
 verkaufen, der gleichzeitig die ganze Insel erwarb.
 
 Ein halbes Jahr später führte ein Dampfer von Manila die Familie Sprut nach der
-deutschen Heinrat zurück. Das Geheimnis des Pater Eusebius hatte den strebsamen
+deutschen Heimat zurück. Das Geheimnis des Pater Eusebius hatte den strebsamen
 deutschen Kunstgärtner zum reichen Manne gemacht.
 
 <@spacer/>

@@ -286,8 +286,7 @@ belegte Brote. Herzlich sagte sie ihm gute Nacht und ließ ihn dann auf seine
 dringende Bitte allein, damit sie ihre Kräfte schone, die sie vielleicht noch
 notwendig brauchen würde. – –
 
-* *
-*
+* * *
 
 Ernst Walter lehnte in der Ruderbank und sah zur Rechten die brennenden
 Erdgasquellen von Surachany, die noch heute als Ewige Feuer von Baku ein
@@ -498,8 +497,7 @@ der Erinnerung habe, dürfte sich der Platz, wo sie aus dem Felsboden
 hervordringen, ganz gut zum Lager eignen. – Kommen Sie, wir wollen uns beeilen,
 damit wir bald wieder zur Jacht zurückkehren können.“
 
-* *
-*
+* * *
 
 Die beiden Damen und Meinke saßen indessen neben einander auf der Steuerbank,
 über die Jermuk zum Schutz gegen die Sonne ein Segel ausgespannt hatte. Man
@@ -1069,7 +1067,7 @@ seine menschliche Namensschwester.
 Da jetzt seit der Flucht aus Baku fast ein halbes Jahr verflossen war, glaubten
 die Kolonisten es wagen zu dürfen, nach einem persischen Hafen überzusetzen.
 Alle Vorbereitungen zum Verlassen der Insel wurden getroffen, und am Abend des
-21. März gedachte man endlich die Reise anzutreten, die, falls der Wind günstig
+21\. März gedachte man endlich die Reise anzutreten, die, falls der Wind günstig
 blieb, in drei Tagen zurückgelegt werden konnte. Welchen Ort der persischen
 Küste man anlaufen würde, wollte man den Umständen überlassen. Die Hauptsache
 blieb ja, daß man irgendwo außerhalb Rußlands landete.

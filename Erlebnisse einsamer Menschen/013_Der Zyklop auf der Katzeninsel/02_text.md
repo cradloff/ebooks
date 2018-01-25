@@ -84,7 +84,7 @@ Empfehlungsbrief an einen seiner Freunde schickte, der einen kleinen
 Frachtdampfer besaß und der mich bei nächster Gelegenheit mit nach Carakas
 hinüberbringen sollte.
 
-Am l8. Juli 1914 fuhr dieser Dampfer von Hamburg ab. Kapitän Jensen, der Freund
+Am 18. Juli 1914 fuhr dieser Dampfer von Hamburg ab. Kapitän Jensen, der Freund
 meines Onkels, behandelte mich, seinen einzigen Fahrgast, vom ersten Augenblick
 an mit warmer Herzlichkeit und hatte auch nichts dagegen, daß ich meinen damals
 drei Jahre alten Wolfshund Hasso, von dem ich mich nicht trennen wollte, mit an
@@ -182,7 +182,7 @@ In winzigen Sekunden hatte sich dies alles abgespielt. Jetzt erwachte jäh mit
 einer Macht, die mir ungeahnte Kräfte verlieh, der Selbsterhaltungstrieb in
 mir. Ich versuchte die Flagge, in die man mich eingenäht hatte, zu zerreißen,
 krallte die Finger in den morschen Stoff und … fühlte ihn unter meinem Griff
-nachgeben, zerrte und zog, bis ich die Arme und den Kopf wirklich freibekam Das
+nachgeben, zerrte und zog, bis ich die Arme und den Kopf wirklich freibekam. Das
 Weitere war jetzt ein Kinderspiel. Bald sank auch die Hülle mit dem Eisenstück
 von meinen Beinen herab.
 
@@ -514,7 +514,7 @@ länger als ein Meter werden und ausschließlich im Meere hausen. Daß es Würme
 (Sailopo-Wurm, Leichenfresser) und im Meerbusen von Kalifornien vor. Der ebenso
 lange Palolo-Wurm wird auf den Fidschi-Inseln geröstet und gegessen) waren,
 erkannte ich sofort an der dunkelbraunen, mit helleren Borsten bedeckten Haut
-und. an den am Kopfende befindlichen Freßkiefern. Diese häßlichen Geschöpfe
+und an den am Kopfende befindlichen Freßkiefern. Diese häßlichen Geschöpfe
 hatten sich in den Leib des Wales hineingefressen, wie sie sich überhaupt von
 Fischkadavern aber auch von lebenden Wasserbewohnern nähren, an die sie sich
 festsaugen um dann mit ihren Freßkiefern schnell in das Innere ihres Opfers
@@ -636,7 +636,7 @@ verschnürten Päckchen. Unter die Bindfadenverschnürung war ein Zettel
 geschoben, der folgende Aufschrift in deutscher Sprache hatte, die mit
 Bleistift anscheinend sehr eilig geschrieben war:
 
-29. November 1914, nachts 11 Uhr.
+29\. November 1914, nachts 11 Uhr.
 
 Wir sind soeben von einem feindlichen Kreuzer angehalten worden. Um die Kasse
 des österreichischen Konsulates von Madeira, die ich an Bord habe, nicht in die
@@ -664,7 +664,7 @@ davon, als ich Hamburg vor vier Monaten auf dem „Herkules“ verließ.
 
 Mit bebenden Händen strich ich jetzt die Zeitungen glatt, in die das
 Geldpäckchen eingehüllt gewesen war. Zwei Nummern eines deutschen New-Yorker
-Blattes vom l2. und 13. Oktober 1914 waren es, und ihr Inhalt gab mir dann
+Blattes vom 12. und 13. Oktober 1914 waren es, und ihr Inhalt gab mir dann
 einen Begriff von den welterschütternden Geschehnissen, die zur Zeit das ganze
 Erdenrund in Spannung hielten … – Weltkrieg …!! Frankreich, England, Rußland
 gegen die Zentralmächte …!!
@@ -796,7 +796,7 @@ verloren, und alle meine Gedanken galten jetzt der Möglichkeit, wie ich die
 Insel verlassen und eine der nächsten Inselgruppen erreichen könnte.
 
 Schließlich faßte ich den Entschluß, mit dem Bau eines Bootes zu beginnen. Am
-10. April tat ich den ersten Axthieb, um einen mir geeignet erscheinenden
+10\. April tat ich den ersten Axthieb, um einen mir geeignet erscheinenden
 Lorbeerbaum, der dicht am Ufer des Baches stand, zu fällen. Nach einem Monat
 war ich mit dieser neuen Arbeit soweit gediehen, daß der Baumstamm ungefähr die
 Form eines Bootes von 10 Meter Länge und eineinhalb Meter Breite angenommen
@@ -999,7 +999,7 @@ niederschreiben könnte. Übermorgen beginne ich mit dem Fällen von Bäumen fü
 die Rollen.
 
  
-2. Teil.
+2\. Teil.
 
 Mit diesem 12. Juni 1915 hört Erwin Schraders Tagebuch auf. Und das hatte seine
 besonderen Gründe.
@@ -1128,7 +1128,7 @@ nach verdächtigen Schiffen absuchte. An einem besonders klaren Tage konnte der
 Obermatrose dann im Südwesten deutlich eine Insel erkennen, die das
 Azoreneiland Corvo sein mußte. Hierdurch wurde Erwins schon längst gehegte
 Vermutung, daß die Katzeninsel zu dieser Gruppe gehöre, vollauf bestätigt. – Am
-14. Juli bereits war das Luftschraubenboot fix und fertig. Es ruhte auf einer
+14\. Juli bereits war das Luftschraubenboot fix und fertig. Es ruhte auf einer
 Art Wagen, der es ermöglichte, das Fahrzeug bequem zu Wasser zu bringen.
 
 Die frühere Luftschiffgondel hatte ihr Äußeres gänzlich verändert. Zunächst
