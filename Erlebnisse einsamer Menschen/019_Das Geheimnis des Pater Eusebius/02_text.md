@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Das Wohnhaus der Heinrich-Plantage lag etwas vom Flüßchen ab mitten in einem
 natürlichen Park, in dem man nur ein paar Wege hatte anzulegen brauchen, um aus
 diesem Stück lichten, tropischen Urwaldes einen Garten Eden zu schaffen, wie er
@@ -1101,7 +1106,7 @@ deutschen Kunstgärtner zum reichen Manne gemacht.
 
 <@spacer/>
 
-Ende.
+__Ende.__
 
 <@spacer/>
 

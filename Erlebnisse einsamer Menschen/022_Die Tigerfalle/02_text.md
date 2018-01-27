@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Der schon etwas altersschwache Küstendampfer „Amsterdam“, der den Verkehr
 zwischen dem großen Hafenplatz Batavia auf Java und den östlich gelegenen
 Sunda-Inseln vermittelte, hatte diesmal einen etwas geheimnisvollen Fahrgast an

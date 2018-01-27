@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 „Du wirst einsehen, mein Junge, daß unsere Sicherheit diese Maßregel verlangt.
 Freue Dich, daß Du modernen Freibeutern in die Hände gefallen bist. Früher
 hätte man Dich als lästigen Zeugen einfach über die Klinge springen lassen.“
@@ -1216,7 +1221,11 @@ Eiland zugebrachten Wochen nie vergessen. Zeigten sie ihm doch, wie wunderbar
 das Walten der Vorsehung oft ist und wie selbst das traurigste Erlebnis für uns
 noch zum Guten ausschlagen kann.
 
-> __Ende.__
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

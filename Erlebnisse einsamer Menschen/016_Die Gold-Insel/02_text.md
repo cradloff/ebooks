@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Nach dem Begräbnis nahm Herr Aumonier, der Besitzer der größten Maschinenfabrik in Melbourne, den langaufgeschossenen Jungen mit in seinem Wagen nach seiner Wohnung, führte ihn in sein Arbeitszimmer und begann hier in seiner so überaus freundlichen Art, hinter der sich doch so viel kalte, berechnende Selbstsucht verbarg:
 
 „Mein lieber Charles“ – Aumonier bediente sich wie immer der englischen Sprache, obwohl er Franzose war – „wir haben soeben Deinen wackeren Vater, der mir sechs Jahre lang treu als Werkführer gedient hat, zur ewigen Ruhe gebettet. Du stehst nun ganz allein da. Deine Mutter hast Du wohl kaum gekannt, da sie bereits starb, bevor Dein Vater nach Australien auswanderte. Wie gedenkst Du nun Deine Zukunft zu gestalten? – Du könntest doch hier die Schule weiter besuchen und …“
@@ -268,9 +273,9 @@ Aus Karl Degner und Fritz Grotius sind dann drüben im deutschen Vaterlande tüc
 
 <@spacer/>
 
-> __Ende.__
+__Ende.__
 
-<@spacer 2/>
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

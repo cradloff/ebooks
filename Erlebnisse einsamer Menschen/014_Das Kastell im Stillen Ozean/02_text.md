@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Wenn man eine Weltverkehrskarte zur Hand nimmt und seine Aufmerksamkeit dem
 Teile des Großen oder Stillen Ozeans zuwendet, der von der Westküste
 Südamerikas, dem Äquator, den Marquesas- und Paomotu-Inseln und schließlich von
@@ -1258,6 +1263,8 @@ Erdschichten an jener Stelle entstanden, und die langen Wogen des Stillen
 Ozeans rauschten jetzt ungehindert über die versunkenen Trümmer jenes Hauses
 hinweg, in dem sich noch vor kurzem so aufregende, merkwürdige Vorfälle
 abgespielt hatten.
+
+<@spacer/>
 
 __Ende.__
 

@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 „Ich habe nie gewußt, daß auch Tiere seekrank werden“, meinte Frau Merling und
 schaute mitleidig in den Käfig des Zwergantilopen-Pärchens hinein, in dem die
 beiden zierlichen Tiere matt auf ihrem Strohlager ruhten.
@@ -1193,7 +1198,11 @@ Zielbewußte Schaffensfreude, auf der der Segen Gottes ruhte, hatte so den
 Untergang der „Wilhelminje“ für den Kapitän und seine Familie zum Ausgangspunkt
 eines neuen, erfolgreichen Lebensabschnittes werden lassen.
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin
 

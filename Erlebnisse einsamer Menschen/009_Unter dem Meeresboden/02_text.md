@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 An der Backbordreling des „Montreol“ stand weitübergebeugt Doktor Parker und
 hielt in der rechten Hand einen dünnen Eisendraht, der schräg nach rückwärts
 ins Wasser hinablief. Neben ihm lehnte der Steuermann dieses mittelgroßen
@@ -1206,7 +1211,11 @@ großem Maßstabe auszubeuten begann. Durch Gesteinbohrer wurden fünf reiche
 Petroleumquellen erschlossen, die sowohl dem Steuermann als auch seinem jungen
 Freunde Fritz Kersten schnell zu großer Wohlhabenheit verhalfen.
 
+<@spacer/>
+
 __Ende.__
+
+<@spacer/>
 
 Der nächste Band enthält:
 

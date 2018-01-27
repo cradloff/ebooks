@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Für das Infanterie-Regiment Habsburg, das nun schon monatelang dem Gegner im
 nervenaufreibenden Stellungskampf in der Picardie östlich von Albert
 gegenüberlag, war am Abend des 28. Juni 1916 Ersatz eingetroffen, – 300 Mann

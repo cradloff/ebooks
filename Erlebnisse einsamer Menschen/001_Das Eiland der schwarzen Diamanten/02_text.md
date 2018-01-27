@@ -1,3 +1,7 @@
+${property.title}
+=================
+
+Von W. Belka
 
 „Wieder vorbei! – Ungeschick läßt grüßen!“ rief Fritz Prestat dem um ein Jahr
 älteren Bruder zu, der soeben mit der kleinen Harpune, die ihm der Obermatrose
@@ -1344,11 +1348,11 @@ vorgeschossenen Kapital den Abbau des Steinkohlenflözes.
 Das stille Eiland ist noch heute von einer starken Kolonie farbiger Arbeiter
 bewohnt, die den Reichtum der Brüder Prestat vermehren helfen.
 
- 
+<@spacer/>
 
-*Ende.*
+__Ende.__
 
- 
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

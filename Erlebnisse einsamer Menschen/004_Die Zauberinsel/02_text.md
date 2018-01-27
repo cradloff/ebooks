@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 „Na – nu kimm do man rut, min Jung!“ brüllte Kapitän Eschler mit seiner
 Donnerstimme zwischen die im Laderaum der Brigg „Marie“ aufgestapelten Kisten
 und Ballen hinein, indem er das Licht seiner Laterne über die gerade noch
@@ -1183,7 +1188,11 @@ Lebensgestaltung jedes Menschen mit die wichtigsten sind: Genügsamkeit,
 Nächstenliebe und den Glauben an einen gütigen Gott, der unsere Geschick stets
 zum Besten lenkt.
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

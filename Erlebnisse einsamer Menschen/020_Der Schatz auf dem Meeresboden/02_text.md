@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Der Schoner „Marie“ trieb steuerlos auf den von kurzen Wellen durchpflügten
 Wassern des Indischen Ozeans. Die Takelage war zum Teil zerfetzt, der
 Vordermast mitten durchgeknickt. Zerrissene Segel flatterten im Winde, und der
@@ -1168,7 +1173,7 @@ alles Wissenswerte finden.
 
 <@spacer/>
 
-> __Ende.__
+__Ende.__
 
 <@spacer/>
 

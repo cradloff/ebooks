@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Die schlanke Motorbarkasse des englischen Kreuzers glitt tänzelnd über die
 nicht allzu hohen Wogen des Atlantischen Ozeans hin, beschrieb dann einen Bogen
 und legte an der bereits heruntergelassenen Schiffstreppe des holländischen
@@ -1215,7 +1220,11 @@ auffischten und später nach einem deutschen Hafen brachten.
 
 England aber war um ein U-Boot ärmer geworden …
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 __Zur Beachtung!__
 

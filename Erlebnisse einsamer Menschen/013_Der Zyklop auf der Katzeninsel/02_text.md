@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 1\. Teil.
 ========
 

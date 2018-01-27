@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Frühling in den Polargegenden: überall rinnende Bäche und winzige Wasserläufe,
 die sich über die Eismassen hin einen Weg zu Tal bahnen, sich an tieferen
 Stellen, in Tälern und Mulden, zu kleinen Seen und Teichen ansammeln, das Eis,
@@ -1173,7 +1178,11 @@ nunmehr zerstörte Insel Eden nur etwa zehn Meilen von Kap Mauritius, der
 Nordspitze von Nowaja Semlja, entfernt sei, wodurch auch das Erscheinen der
 Samojeden bei dem Wrack eine genügende Erklärung fand.
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

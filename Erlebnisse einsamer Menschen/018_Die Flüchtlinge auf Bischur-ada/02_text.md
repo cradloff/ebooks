@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Der späte Gast, der am Abend des 13. August 1914 bei dem deutschen Ingenieur
 Walter Einlaß begehrte, war kein anderer als dessen persischer Freund, der
 Kaufmann Kaschar, der häufig nach der berühmten Petroleumstadt Baku von dem

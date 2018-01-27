@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Bei der Abendtafel erschienen im Speisesaal der Ersten Kajüte von den 85
 Fahrgästen nur noch drei Herren und zwei Damen: die beiden Ehepaare Söllner und
 Bergstedt und der junge Morwitz. All’ die übrigen hatten es vorgezogen in ihren
@@ -1184,9 +1189,11 @@ reich ausgestattet, sich zu ihrem Retter aufgeschwungen und dadurch bewiesen
 hatte, daß in dem Auf und Ab des Lebens allein der Mann, der ganze Mann etwas
 gilt.
 
-<@spacer />
+<@spacer/>
 
 __Ende.__
+
+<@spacer/>
 
 Der nächste Band enthält:
 

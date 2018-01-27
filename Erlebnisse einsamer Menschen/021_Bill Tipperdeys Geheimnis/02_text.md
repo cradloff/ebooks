@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 „Laßt mich mit Eurem phantastischen Geschwätz in Ruhe, Mann!“ brummte der
 Gefängniswärter. „Ihr seid wahrhaftig nicht der erste, der mir goldene Berge
 verspricht, damit ich ihn entschlüpfen lasse. Die Angst vor der Verschickung
@@ -1236,7 +1241,7 @@ erwarben, mit dem sie in gesegneter Arbeit ihre Wohlhabenheit noch vermehrten.
 
 <@spacer/>
 
-> __Ende.__
+__Ende.__
 
 <@spacer/>
 

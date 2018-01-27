@@ -1,4 +1,7 @@
-Das Oberhaupt des Egbo-Bundes.
+${property.title}
+=================
+
+Von W. Belka
 
 Über dem Atlantischen Ozean stieg an einem klaren Augustmorgen des Jahres 1915
 die Sonne in strahlender Pracht empor, und die Mannschaft des deutschen
@@ -1146,7 +1149,7 @@ Skagerrak am 31. Mai 1916 teilzunehmen.
 
 <@spacer/>
 
-> __Ende.__
+__Ende.__
 
 <@spacer/>
 

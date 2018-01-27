@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Auf der Kommandobrücke der Dampfjacht „Ariadne“ des Hamburger Großkaufmanns und
 vielfachen Millionärs Behrend standen drei Männer, – der Besitzer des Schiffes,
 sein Freund Kromer und der alte Kapitän Jensen. Ihre Mienen drückten eine
@@ -1151,7 +1156,11 @@ Monat später trat er als Inhaber in eine große chemische Fabrik ein. So
 schaffte er sich ein reiches Feld der Tätigkeit und blieb ein zufriedener,
 glücklicher Mensch.
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

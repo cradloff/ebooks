@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Eine wahre Backofenglut lag über der nur unter einer leichten Dünung träge hin
 und her schwappenden See. Und der Motorkutter „Phönix“ taumelte auf der im
 Sonnenglast flimmernden Wasserfläche wie ein Trunkener hin und her. –
@@ -1235,17 +1240,17 @@ stolz erklärte:
 „Es wird nicht viele Weltreisende geben, die derartiges erlebt haben wie ich.
 Gespensterschiffe sind dazu doch zu selten!“
 
- 
+<@spacer/>
 
-> __Ende.__
+__Ende.__
 
- 
+<@spacer/>
 
 Der nächste Band enthält:
 
 Die Gold-Insel.
 
- 
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin
 

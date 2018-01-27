@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Der in Hamburg beheimatete Frachtdampfer „Konsul Herling“ hatte in New York
 eine Ladung von allerlei Gütern für die Stadt Reykjavik auf Island erhalten und
 am 6. Juni 1907 die Ausreise angetreten, nachdem Kapitän Svendsen, ein
@@ -1244,7 +1249,11 @@ So hatte dieses Abenteuer der Brüder Kemper für alle Teile einen guten,
 vorteilhaften Ausgang genommen. Und oft und gern erinnerten die Knaben sich
 noch an jene Tage, wo sie auf ihrer weißen Insel als Robinsons gelebt hatten.
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

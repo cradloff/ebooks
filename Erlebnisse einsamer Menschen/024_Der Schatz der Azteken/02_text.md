@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 „Holla, Reuter, – das wäre hier so etwas für Sie …!“
 
 Einer der drei Herren, die an einem kleinen Tischchen auf der Terrasse des
@@ -1170,7 +1175,7 @@ ausbeutet.
 
 <@spacer/>
 
-Ende.
+__Ende.__
 
 <@spacer/>
 

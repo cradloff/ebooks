@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 „Ich kann mir nicht mehr helfen, Landsmann: so ganz geheuer kommt es mir hier
 an Bord des „Indus“ nicht vor und zwar seit gestern, wo den chinesischen Kulis
 im Vorschiff ihr bronzenes, uraltes Götzenbild verschwunden ist, das sie seiner
@@ -1235,7 +1240,11 @@ diesem Abschluß ihrer mannigfachen Abenteuer recht zufrieden sein. Sie sind
 gute Freunde geblieben und haben es nachher in der deutschen Heimat zu
 angesehenen Stellungen gebracht.
 
-*Ende.*
+<@spacer/>
+
+__Ende.__
+
+<@spacer/>
 
 Druck: P. Lehmann G. m. b. H., Berlin.
 

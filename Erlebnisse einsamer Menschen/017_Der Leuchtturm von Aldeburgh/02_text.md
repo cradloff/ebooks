@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Die „Gertrud“ kam von einer Vergnügungsfahrt aus Norwegen zurück. Es war die
 schönste Privatjacht, die je einem Emdener Bürger gehört hatte. Und Franz
 Karstedt, der jugendliche Inhaber der Firma Karstedt, sagte stets, wenn jemand
@@ -1161,7 +1166,7 @@ Seeoffizier vor langwieriger Gefangenschaft.
 
 <@spacer/>
 
-> __Ende.__
+__Ende.__
 
 <@spacer/>
 

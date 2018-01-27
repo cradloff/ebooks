@@ -1,3 +1,8 @@
+${property.title}
+=================
+
+Von W. Belka
+
 Über Herbertshöhe, dem Hauptort und Gouverneurssitz des deutschen
 Schutzgebietes Neuguinea, der auf der zum Bismarck-Archipel gehörigen Insel
 Neupommern liegt, senkte sich die laue, helle Tropennacht herab. Ein leichter
@@ -1158,7 +1163,11 @@ es sehr bald durch die weitere Ausbeutung der Schätze der Perleninsel zu große
 Wohlhabenheit. Fritz Markart und Ernst Heirot aber zogen aus diesem Erlebnis
 manch wertvolle Lehre für ihr ferneres Leben.
 
+<@spacer/>
+
 __Ende.__
+
+<@spacer/>
 
 Der nächste Band enthält:
 
