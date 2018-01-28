@@ -1,0 +1,43 @@
+@page {
+	margin: 2px !important;
+}
+
+h1 {
+	text-align: center;
+	font-size: x-large;
+	font-weight: normal;
+}
+
+#untertitel {
+	text-align: center;
+	font-size: large;
+	font-weight: normal;
+	margin-bottom: 2em;
+}
+
+.main {
+	column-width: 470px;
+}
+
+div.entry {
+	text-align: center;
+	margin-bottom: 1.5em;
+	page-break-inside: avoid;
+}
+
+.entry p {
+	margin: 2pt 0 2pt;
+	white-space: pre-wrap;
+}
+
+.entry img {
+	max-width: 95%;
+	margin: 2px auto;
+	padding: 0;
+}
+
+/* cover */
+#cover {
+	max-width: 100%;
+}
+
