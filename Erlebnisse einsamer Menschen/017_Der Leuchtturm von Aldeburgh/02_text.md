@@ -760,7 +760,7 @@ Horizont war ringsum frei, und so kletterte er denn leise an der Leiter auf die
 Sandbank hinab; zwischen deren Steinen noch hie und da große Wasserpfützen
 standen, in denen Krabben und kleine Krebse zurückgeblieben waren.
 
-[Sehr zu seiner]<@refnote 3/> Freude hingen gleich an der ersten Schnur zwei
+Sehr zu seiner<@refnote 3/> Freude hingen gleich an der ersten Schnur zwei
 Steinbutten von gutem Gewicht, und die ganze Beute setzte sich schließlich aus
 vier Steinbutten, drei Seezungen und fünf Schollen zusammen. Freilich – eine
 Schnur hatte er eingebüßt. Er fand von ihr nur noch das um den Stein befestigte

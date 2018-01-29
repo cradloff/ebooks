@@ -518,7 +518,7 @@ verwildertem lichtblonden Bart zu erkennen war. Der Fremde trug als Bekleidung
 nichts als ein Tierfell um die Lenden. Jetzt stieß er abermals den hellen,
 kreischenden Schrei aus, der, wie Erwin bald merkte, eine Warnung für den
 Angreifer Hassos sein sollte. Der Gorilla zeigte jetzt nämlich deutlich eine
-gewisse Unruhe, wandte nach dem nochmaligen gellen Ruf den Kopf hin und her und
+gewisse Unruhe, wandte nach dem nochmaligen gellenden Ruf den Kopf hin und her und
 spähte mißtrauisch in die Runde, als suche er einen verborgenen Feind.
 
 Das Benehmen des Menschen in dem Nest des Riesenaffen vermochte der junge
