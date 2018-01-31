@@ -123,7 +123,7 @@ dem Mannschaftslogis aufwärtsführende Treppe hinan.
 
 Es war einer der beiden Schiffsjungen der „Marie“, ein Knabe von fünfzehn
 Jahren, den Kapitän Steffen vor zwei Monaten unter seine Obhut genommen hatte,
-um ihn zu einem braven Seemann ausbilden. Karl Merkel hieß er. Seine Eltern
+um ihn zu einem braven Seemann auszubilden. Karl Merkel hieß er. Seine Eltern
 waren unlängst von Deutschland nach der Hauptstadt der Insel Java, nach
 Batavia, ausgewandert. Dort hatte Steffen die strebsame Handwerkerfamilie
 kennen gelernt, und dort traten dann Karl und sein um ein Jahr älterer Bruder
@@ -455,7 +455,7 @@ zweihundert Schritt entfernt auf dem Wasser trieb.
 Nein – nicht trieb, vielmehr seltsamerweise, wie die Brüder bald merkten,
 festlag, obwohl es hier keine Riffe gab. Was das Boot auf einem Fleck
 festhielt, war nicht zu erkennen. Jedenfalls aber mußte es durch eine das
-Eiland umkreisen Strömung bis an diesen Platz getrieben sein, der dem Eingang
+Eiland umkreisende Strömung bis an diesen Platz getrieben sein, der dem Eingang
 der Bucht im Osten ziemlich genau gegenüberlag.
 
 Ernst, ein ausdauernder Schwimmer, hatte schon seine Kleider abgeworfen und
@@ -981,7 +981,7 @@ umgekippt. Und dann hätte der Bruder unten elend ersticken müssen, wenn die
 Druckpumpe ihm nicht mehr die nötige Luft spendete. Nur der Luftschlauch, von
 dem noch viele Meter unbenutzt aufgerollt am Boden des Bootes lagen, bildete
 nunmehr die einzige Verbindung für den Bedauernswerten nach der Oberwelt hin,
-der aus dem Meerengrunde um sein Leben rang.
+der auf dem Meerengrunde um sein Leben rang.
 
 Immer weiter rollte sich der starke, mit Draht umwickelte Luftschlauch ab. Die
 Jolle lag jetzt dicht unterhalb des Berges, und aus der Richtung des
@@ -1133,7 +1133,7 @@ Heraufschaffen der Kisten also kaum dar. Wenn ich vorsichtig bin, kann mir kaum
 etwas geschehen. „
 
 Karl redete entschieden ab. Jedoch sein Bruder gab sein Vorhaben nicht auf. Und
-so begierig war er darauf, die Schätze des gesunkenen Schiffen zu heben, daß
+so begierig war er darauf, die Schätze des gesunkenen Schiffes zu heben, daß
 er, um das ruhige Wetter auszunutzen, sofort am Nachmittag in der aus dem
 Krater wieder herausgeholten Taucherausrüstung mit dieser Arbeit begann, die
 ohne jeden Zwischenfall bereits am Abend beendet war.

@@ -274,7 +274,7 @@ Abermals waren fünf Stunden vergangen. Karstedt hatte mit dem Leben
 abgeschlossen. Je mehr der Tag sich seinem Ende zuneigte, desto geringer wurde
 die Aussicht auf Rettung. Und hin und wieder kam ihm schon der Gedanke, die
 Arme hochzuheben, damit der Rettungsring über ihn hinweggleite und er selbst in
-die Triefe sinke. Diese Qualen, diese Kälte und die Schmerzen in den Beinen
+die Tiefe sinke. Diese Qualen, diese Kälte und die Schmerzen in den Beinen
 waren kaum mehr zu ertragen.
 
 Da, gegen fünf Uhr nachmittags, wurde die Nebelmasse etwas lichter.
@@ -798,7 +798,7 @@ Stunde Aufenthalt auf der Sandbank gewährt. Ersterer war anscheinend schon nach
 diesem ersten Tage seiner Haft recht bescheiden und kleinlaut geworden. Er
 versprach Karstedt hoch und heilig, nie wieder aufsässig zu werden. Aber dieser
 blieb fest. Er erklärte, er wolle den beiden Gefangenen gern jede Erleichterung
-ihrer Lage zukommen lassen, soweit die Umstände dies zuließen Aber in ihrer
+ihrer Lage zukommen lassen, soweit die Umstände dies zuließen. Aber in ihrer
 Zelle müßten sie bleiben. Das erfordere seine und seiner Gefährten Ruhe und
 Sicherheit. – Burwell seufzte nur und schwieg.
 
@@ -993,7 +993,7 @@ begannen nun an der Eisenleiter hochzuklettern. Sie schienen recht erschöpft zu
 sein. Ihre Stimmen klangen matt und kraftlos, als sie sich dieses und jenes
 zuriefen.
 
-Nun betrat der erste die Plattfarm, stieß die Tür ganz auf und … prallte
+Nun betrat der erste die Plattform, stieß die Tür ganz auf und … prallte
 zurück. Vor ihr stand Karstedt, die Pistole schußfertig in der Hand.
 
 „Keinen Widerstand!“ sagte er drohend. „Wir sind Deutsche! Treten Sie dort in
