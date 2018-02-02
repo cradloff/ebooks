@@ -50,6 +50,7 @@ Folgende Tabelle enthält, nach *Bessel*, die Abweichung der Sonne zu
 verschiedenen Zeiten des Jahres.
 
 <@pagebreak/>
+
 <table>
 <tr><td colspan="2">Nördlich.</td><td>Abwei-<br/>chung.</td><td colspan="2">Südlich.</td><td>Differenzen.</td></tr>
 <tr><td>21. März u.</td><td>23. Sept.</td><td> 0°</td><td>23. Sept u.</td><td>21. März.</td><td></td></tr>

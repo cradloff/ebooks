@@ -1038,7 +1038,7 @@ ergoß.
 Die Brüder wagten es unter diesen Umständen nicht, das Schiff zu verlassen.
 Fühlten sie sich hier doch noch am sichersten, da sie heute allen Ernstes mit
 der Möglichkeit rechneten, daß ihre Insel in mehrere Teile auseinanderbersten
-könne. Auch die beiden Eskimos schlichen mit ängstlichen Gesichtern umher und
+könne. Auch die beiden Eskimos schlichen mit ängstlichen Gesichtern umher, und
 die drei Hunde, die mit den Knaben schnell Freundschaft geschlossen hatten,
 heulten bisweilen, wenn das Eis besonders laut knallte und polterte, in
 schauerlichen Tönen auf.

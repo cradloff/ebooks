@@ -615,7 +615,7 @@ Dies lag daran, daß bei der kleinen Lotte plötzlich ein trauriger
 Stimmungswechsel stattgefunden hatte. Die Sehnsucht nach dem Vater war bei ihr
 erwacht, und oft genug weinte sie ganze Stunden lang fassungslos vor sich hin,
 ohne daß sie sich von dem Freunde trösten ließ. Dieser wagte es daher nicht,
-das Mädelchen längere Zeit allein zu lassen, besondere nicht in der Nacht, da
+das Mädelchen längere Zeit allein zu lassen, besonders nicht in der Nacht, da
 die Kleine häufig genug in der Dunkelheit von Heimweh befallen wurde und dann
 stets ängstlich den Gefährten an ihre Seite rief. Gewiß – der verständige Junge
 versuchte durch allerlei Mittel seine Kameradin zu zerstreuen und ihre Gedanken
@@ -661,7 +661,7 @@ Weise auszubeuten. Nachdem Lottchen zur Ruhe gegangen und eingeschlafen war,
 schlich er, noch bevor der Mond aufging, in der Dunkelheit auf Umwegen nach dem
 Steine hin und verbarg sich in dessen Nähe in einem Gebüsch. Zur Vorsicht nahm
 er den Dolch und eine der Pistolen mit, die er mit ein paar Kugeln geladen
-hatte. Dieses Abenteuer machte dem mutigen Jungen kein geringes Vergangen, und
+hatte. Dieses Abenteuer machte dem mutigen Jungen kein geringes Vergnügen, und
 mit angespannten Sinnen wartete er auf das Erscheinen des Fremden. Doch gute
 zwei Stunden vergingen, ehe dieser sich sehr vorsichtig näherte. Inzwischen war
 der Mond über die Randberge der Insel emporgestiegen und tauchte die Umgegend
@@ -772,7 +772,7 @@ blauem Deckel lag. Auf das weiße Schildchen dieses Heftes aber war sauber mit
 Rundschrift geschrieben. „Mein Tagebuch. – 15. April 1903 – Friedrich
 Goretzki.“
 
-15. April 1903 …!! – Der Junge rechnete schnell nach. Dieses Datum lag volle
+15\. April 1903 …!! – Der Junge rechnete schnell nach. Dieses Datum lag volle
 fünf Jahre zurück. Sollte Friedrich Goretzki etwa schon so lange hier auf der
 Insel weilen?! – Das mußte er feststellen. Und so schlug er denn das Tagebuch
 auf und begann das erste Blatt zu überfliegen. Da stand als Überschrift. „15.

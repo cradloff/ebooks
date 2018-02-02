@@ -1,5 +1,4 @@
-Verlagswerbung:
----------------
+__Verlagswerbung:__
 
 Erlebnisse einsamer Menschen.
 
