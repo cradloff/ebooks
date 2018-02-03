@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">6d4ee9c6-08f6-11e8-a196-076bbb993c98</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Pfad zur Hölle</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Abenteuer abseits vom Alltagswege</entry>
+<!-- Band Nummer -->
+<entry key="volume">27</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die von den Seevögeln weißgrau getünchten Spitzen der Randfelsen der engen Schlucht leuchteten im Morgensonnenschein wie Marmor. Vielleicht waren gerade sie das einzige Merkmal der kleinen, grünen Insel im weiten, einsamen Golf von Honduras, die mit zu der Bay-Gruppe gehörte, deren östlichstes Eiland, beständig von drei Rauchsäulen gekrönt, das Sicherheitsventil jener unterirdischen Feuer bildete, die uns aus dem märchenhaften Reiche der Unterwelt vertrieben hatten.
+
+Das primitive Fahrzeug, das unsere Gefährten gen Westen zum Festlande Mittelamerikas entführt hatte, war kaum unter dem Horizont verschwunden gewesen, als jene Ereignisse eintraten, die uns Zurückgebliebenen abermals bewiesen, daß die Pfade abseits vom Alltag niemals ohne Überraschungen ins Ungewisse sich verlieren.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf K.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (27) Der Pfad zur Hölle.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1931</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
