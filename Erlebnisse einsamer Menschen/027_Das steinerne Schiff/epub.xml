@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">57e79802-03b6-11e8-90b3-bfeeaac21a5f</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das steinerne Schiff</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">27</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Doktor Melcher stand etwas abseits von dem Schwarm der anderen Passagiere an
+der Reling und hatte die Zähne schmerzhaft fest in die Unterlippe vergraben.
+Eine ohnmächtige Wut kochte in ihm. Er war gewiß ein friedliebender, ruhiger
+Mensch. Aber was er in den letzten Tagen, seit der lange, dürre Engländer
+Patterson ihm frech ins Gesicht gesagt hatte, daß sein peruanischer Ausweis
+gefälscht, und er sicherlich ein Deutscher sei, an kleinen Demütigungen und
+versteckten Drohungen auszustehen gehabt hatte, war selbst für ihn zuviel
+gewesen.
+
+Jetzt nun, wo soeben ein englischer Kreuzer aus dem Morgennebel aufgetaucht war
+und den alten, schmutzigen Passagierdampfer „Präsidento Maraso“ durch sehr
+energische Signale zum Halten gezwungen hatte, lag auf den Gesichtern all
+dieser Fahrgäste, die sämtlich feindlichen Staaten angehörten, ein
+schadenfrohes Lächeln. Man freute sich darüber, daß dieser angebliche Peruaner
+mit dem schwarz gefärbten Bart- und Kopfhaar niemals Hongkong erreichen würde,
+von wo er sich wahrscheinlich durchzuschmuggeln gehofft hatte.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (027) Das steinerne Schiff.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
