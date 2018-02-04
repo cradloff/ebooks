@@ -184,7 +184,7 @@ und den gelben Ball ein.
 Da, als von dem Dampfer keine Spur mehr zu sehen war, sondern nur eine trübe
 milchige Dämmerung die beiden Schwimmer umgab, ruhte Eduard sich eine Weile
 aus, bis der Doktor sich neben ihm befand. Tiefe Stille lagerte über den
-Wassern Die wiegende Dünung ließ keine sich überstürzenden Schaumkämme
+Wassern. Die wiegende Dünung ließ keine sich überstürzenden Schaumkämme
 aufkommen. Nur in weiter Ferne war jetzt ein anhaltendes Brausen zu hören,
 zunächst nur ganz schwach, so daß der Kajütjunge seinen Gefährten erst
 auffordern mußte, einmal angestrengter zu lauschen.
@@ -652,7 +652,7 @@ Zwist zwischen uns als den Bewohnern der nördlichen Inselhälfte und dem
 Unbekannten als dem Herrn der südlichen entstehen …! Nachbarn sollen Frieden
 halten! Und das werden wir tun – verstanden, mein kleiner Freund!“
 
-„Hm – gewiß, Herr Doktor, – recht haben Sie wohl. „Aber ist es mir zu verargen,
+„Hm – gewiß, Herr Doktor, – recht haben Sie wohl. Aber ist es mir zu verargen,
 wenn …“
 
 Weiter kam Eduard Pachnitz nicht. Mitten im Satz mußte er abbrechen, weil der
@@ -914,7 +914,7 @@ ausgeharrt hatte, ohne daß sich irgend etwas ereignete, kehrte ich hier nach
 unserer Grotte zurück.“
 
 Doktor Melcher hatte Eduards Bericht mit keiner einzigen Zwischenfrage
-unterbrochen. Jetzt aber sagte er ein wenig ängstlich: „Eigentlich sollte wir
+unterbrochen. Jetzt aber sagte er ein wenig ängstlich: „Eigentlich sollten wir
 die Grotte doch auf Pattersons Befehl nicht verlassen, mein Junge! Und jetzt
 sitzen wir hier außerhalb derselben, als ob es gar keinen Patterson und keine
 Mestizen gäbe, die sicherlich mit uns nicht viel Federlesen machen werden!“

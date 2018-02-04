@@ -1039,7 +1039,7 @@ schon auf einen leisen Druck nach. Kramers Feinde hatten eben zu sehr auf die
 Festigkeit der Bande ihres Gefangenen vertraut.
 
 Wieder tastete der junge Deutsche sich nach rechts hin in der tiefen Dunkelheit
-weiter. Von dorther hatten die Malaien ihn [angeschleppt]<@refnote 5/>
+weiter. Von dorther hatten die Malaien ihn angeschleppt<@refnote 5/>
 gebracht. Das hatte er sich sehr gut gemerkt und wieder zur Rechten mußte auch
 die Treppe liegen. An einer kühlen Steinwand entlang schreitend fühlte er dann
 mit der Fußspitze die erste Stufe, schlich nach oben, bis über ihm ein
