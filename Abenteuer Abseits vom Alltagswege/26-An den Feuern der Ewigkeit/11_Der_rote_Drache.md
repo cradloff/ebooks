@@ -3,7 +3,7 @@
 Der rote Drache.
 ------------
 
-*Anmerkung des Verlages.* Ein Zufall will es, daß gerade jetzt, wo Abelsens „An
+> *Anmerkung des Verlages.* Ein Zufall will es, daß gerade jetzt, wo Abelsens „An
 den Feuern der Ewigkeit“ im Druck erscheinen soll, auf dem Nordteile der Insel
 Neu-Seeland die beiden großen Städte Napier und Hastings (an der Ostküste
 gelegen, – von Südaustralien durch die sogenannte Tasman-See getrennt) durch

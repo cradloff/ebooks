@@ -43,7 +43,7 @@ dankbar, und ihre Blicke betteln um Vergebung.
 
 Ihr ist längst vergeben.
 
-Ret Hit sagt gutgelaunt:
+Ret Hil sagt gutgelaunt:
 
 „Abenteurer bleibt Abenteurer! – Ich nehme jedenfalls alle Leute mit zur
 Eugenia-Bucht, zu den Ölquellen, auch Juan. Arbeiten werden wir, – alle für

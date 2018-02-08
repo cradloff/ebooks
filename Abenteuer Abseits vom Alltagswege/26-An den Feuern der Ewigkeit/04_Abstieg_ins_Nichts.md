@@ -414,7 +414,7 @@ klein und für einen Höhenmesser zu groß war.
 
 „Achthundert Meter unter dem Erdniveau“, meldete er feierlich. „Das enttäuscht
 mich etwas. Aber diese steinige Ebene wird sich allmählich weiter senken, nehme
-ich am Jedenfalls haben wir hier bereits die Wasser der Bucht von La Terrosa
+ich an. Jedenfalls haben wir hier bereits die Wasser der Bucht von La Terrosa
 über uns, und die Halbinsel liegt hinter uns. Für den Anfang genügt mir dies
 alles.“
 

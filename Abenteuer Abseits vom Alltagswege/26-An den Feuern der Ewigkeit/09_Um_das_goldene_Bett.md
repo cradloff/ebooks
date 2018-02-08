@@ -404,7 +404,7 @@ gewordenen Hondu das Boot bestiegen und zur Waldblöße hinüberruderten. Wir
 brauchten Fleisch, ich wollte ein paar Riesenmaulwürfe schießen.
 
 Gemächlich wanderten wir gen Norden. Hondu tobte sich in endlosen
-Galoppsprüngen ans, Margot war still wie immer, und auch ich fühlte mich
+Galoppsprüngen aus, Margot war still wie immer, und auch ich fühlte mich
 irgendwie bedrückt.
 
 Die herbe, schöne Frau an meiner Seite, die noch immer verschwieg, weshalb sie

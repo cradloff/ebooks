@@ -553,7 +553,7 @@ setzen.“
 
 Ich führte den Puma zur Schwelle, drückte seinen Kopf herab. „Hondu, such’ …!!“
 
-Er schnüffelte, schnüffelte, seine Ohren spielten, ans seiner Brust kam ein
+Er schnüffelte, schnüffelte, seine Ohren spielten, aus seiner Brust kam ein
 Grollen, und er drängte in die Lavaebene hinaus.
 
 Sein Benehmen war seltsam, seine Erregung übertrieben.
