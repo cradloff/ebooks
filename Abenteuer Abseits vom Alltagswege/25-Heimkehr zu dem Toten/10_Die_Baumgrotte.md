@@ -96,7 +96,7 @@ beiseite und musterte die Mauer.
 Die Fugen zwischen fünf Steinen waren sehr breit, fast zehn Zentimeter, und
 bildeten eine geschlossene Linie, so:
 
-<div class="img"><img alt="nach unten offenes Quadrat" src="Heimkehr_zu_dem_Toten_2.png" width="100%" height="auto"/></div>
+<div class="img"><img alt="nach unten offenes Quadrat" src="Heimkehr_zu_dem_Toten_2.png" style="width: 100%; height: auto;"/></div>
 
 – eine Linie, die unten bis zum Boden reichte.
 

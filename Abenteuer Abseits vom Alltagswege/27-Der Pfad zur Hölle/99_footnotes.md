@@ -1,5 +1,5 @@
 Anmerkungen:
-------------
+============
 
 <@footnote 1 "03_Doktor_Goliath_und_die_Seinen.md">Bay-Inseln“ / „Bai-Inseln“ – 
 Die Erklärung für beide Schreibweisen erfolgt im Text selbst, daher so belassen.</@footnote>

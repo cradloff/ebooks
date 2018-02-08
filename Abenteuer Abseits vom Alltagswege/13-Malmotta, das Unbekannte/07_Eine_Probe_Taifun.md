@@ -222,7 +222,7 @@ Durchschnittsmensch nichts anzufangen. Und in dem Gewirr von Inselgruppen weiß
 erst recht niemand Bescheid – die Fachleute ausgenommen. Und doch läßt sich
 alles unschwer überblicken …
  
-<div class="img"><img alt="Skizze der Inselgruppen" src="Malmotta2.png" width="100%" height="auto"/></div>
+<div class="img"><img alt="Skizze der Inselgruppen" src="Malmotta2.png" style="width: 100%; height: auto;"/></div>
  
 Bei der Baker-Insel (nördlich davon noch die Howland-Insel) habe ich ein Kreuz
 eingezeichnet. Diese beiden Inseln, Baker und Howland, liegen so fern von jedem

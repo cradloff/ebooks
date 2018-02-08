@@ -6,7 +6,7 @@ Der eiserne Walfisch.
 So ist die Zeichnung:
 
  
-<div class="img"><img alt="Skizze der Insel" src="Loewenfarm2.png" width="100%" height="auto"/></div>
+<div class="img"><img alt="Skizze der Insel" src="Loewenfarm2.png" style="width: 100%; height: auto;"/></div>
  
 
 Malmotta besteht aus zwei Teilen, die ineinander übergehen. Die Südhälfte ist

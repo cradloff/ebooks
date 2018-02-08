@@ -284,7 +284,7 @@ in flüchtigen Strichen zu meiner eigenen Erinnerung wiedergeben. Langatmige
 Erklärungen erübrigen sich. Eine Skizze genügt. – Allison hat mir nachher
 bestätigt, daß sie leicht verständlich sei.
 
-<div class="img"><img alt="Skizze der Insel" src="Karte.png" width="100%" height="auto"/></div>
+<div class="img"><img alt="Skizze der Insel" src="Karte.png" style="width: 100%; height: auto;"/></div>
 
 `a` ist die oberste, kleinste Terrasse mit ihren Räumen, `b` ist die Götzenstatue,
 `c` (die punktierten Linien) der Schacht mit der Quelle, der nur bei genauesten

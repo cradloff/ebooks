@@ -246,7 +246,7 @@ Ich stand wieder auf und überschaute nochmals unser Inselreich.
 Hier ist es … Ich habe die Skizze ganz schlicht hingeworfen – mir zur
 Erinnerung, Jane zur Erinnerung …
 
-<div class="img"><img alt="Skizze der Insel" src="Malmotta3.png" width="100%" height="auto"/></div>
+<div class="img"><img alt="Skizze der Insel" src="Malmotta3.png" style="width: 100%; height: auto;"/></div>
  
 1\. ist das rote Wrack, 2\. das uralte Wrack, 3\. die Wrackteile der Astarte,
 4\. das Grab Tubanas, 5\. das Grab Giwanas, der Mutter Janes, 6\. die von mir

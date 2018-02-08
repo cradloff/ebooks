@@ -1,16 +1,16 @@
 Anmerkung des Verlages:
 =======================
 
-<@footnote 0 "08_Die_Flößer_vom_Mackenzie.xhtml">Vergleiche hierzu die historischen Angaben in Abelsen, Band 3, über den König Orelio Antonio I. von Araukanien<@refnote 9/>.</@footnote>
+<@footnote 0 "08_Die_Floesser_vom_Mackenzie.xhtml">Vergleiche hierzu die historischen Angaben in Abelsen, Band 3, über den König Orelio Antonio I. von Araukanien<@refnote 9/>.</@footnote>
 
 Anmerkungen:
 ============
 
-<@footnote 1 "01_Die_Armbänder_des_Brance.xhtml">„Rohheit“ / „Roheit“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Roheit“ geändert. Die Schreibweise Roheit ist erst seit der Rechtschreibreform von 1996 nicht mehr korrekt.</@footnote>
+<@footnote 1 "01_Die_Armbaender_des_Brance.xhtml">„Rohheit“ / „Roheit“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Roheit“ geändert. Die Schreibweise Roheit ist erst seit der Rechtschreibreform von 1996 nicht mehr korrekt.</@footnote>
 
-<@footnote 2 "01_Die_Armbänder_des_Brance.xhtml">In der Vorlage steht: „Nuggetts“.</@footnote>
+<@footnote 2 "01_Die_Armbaender_des_Brance.xhtml">In der Vorlage steht: „Nuggetts“.</@footnote>
 
-<@footnote 3 "04_Die_große_Treibjagd.xhtml">In der Vorlage steht: „Galegos“ – Einheitlich und bandübergreifend auf „Gallegos“ geändert.</@footnote>
+<@footnote 3 "04_Die_grosse_Treibjagd.xhtml">In der Vorlage steht: „Galegos“ – Einheitlich und bandübergreifend auf „Gallegos“ geändert.</@footnote>
 
 <@footnote 4 "05_John_Milleret_aus_Seattle.xhtml">„Yellowstonepark“ / „Yellowstone-Park“ – Beide Schreibweisen vorhanden. Bandübergreifend und einheitlich auf „Yellowstone-Park“ geändert.</@footnote>
 
