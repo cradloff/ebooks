@@ -358,7 +358,7 @@ es sind! Daß sie mir die Kameradin erschossen und den Bruder mir aufs
 Sterbelager warfen: Schicksal!
 
 Wir sind Sandkörnchen, die der Wind des Weltengeschehens willkürlich über die
-Erde treibt, – den einen auf guten Pfaden, der anderen auf bösen, aber das Ende
+Erde treibt, – den einen auf guten Pfaden, den anderen auf bösen, aber das Ende
 ist uns allen gemeinsam, das letzte Ziel: Sterben müssen!
 
 … Ich wende mich ab.

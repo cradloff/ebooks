@@ -367,7 +367,7 @@ half ihm alles nichts, – das Boot schoß davon, und nach wenigen Minuten
 umrundeten auch wir die Klippen an der Ostseite der Bucht, hinter denen der
 rote Himmel soeben in all seiner Schönheit verduftet war.
 
-Seltsam: Der Kahn trieb noch auf den kurzem Wellen, Himmel selbst war spurlos
+Seltsam: Der Kahn trieb noch auf den kurzen Wellen, Himmel selbst war spurlos
 verschwunden.
 
 Und jetzt erst, wo wir zum ersten Male die Nordküste der Insel vom Wasser her
