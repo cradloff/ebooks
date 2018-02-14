@@ -1248,7 +1248,7 @@ führt.
 
 Bereits in Urga verabschiedeten sich die vier Lamuten von ihren deutschen
 Freunden, nachdem sie diese dem Schutze eines ihnen bekannten Karawanenführers
-anempfahlen hatten. Im letzten Augenblick drückte der jetzige Oberhäuptling des
+anempfohlen hatten. Im letzten Augenblick drückte der jetzige Oberhäuptling des
 Lamuten-Stammes Petersen noch einen ledernen Beutel in die Hand. Dieser
 enthielt große Goldkörner im Werte von mehreren tausend Mark, – ein Geschenk,
 das den drei Flüchtlingen sehr zustatten kam und ihnen die weitere Reise bis

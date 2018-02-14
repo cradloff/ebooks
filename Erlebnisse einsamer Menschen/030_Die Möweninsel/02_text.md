@@ -770,7 +770,7 @@ Breite, um sie vielleicht mit flachen Geröllstücken bedecken zu können.
 Jedenfalls schien die Dachfrage gar nicht so leicht zu lösen zu sein, bis Hans
 Palwner an die überall in dem Basaltgestein zutage tretenden Schieferadern
 erinnerte und meinte, man solle zusehen, ob man nicht irgendwo auf den
-Terrassen ein paar infolge von Verwitterung losgelöste, größere Platten fänden
+Terrassen ein paar infolge von Verwitterung losgelöste, größere Platten fände
 die man über die Kluft legen könne.
 
 Antje und Palwner begaben sich dann auch auf die Terrassen hinauf, um dort
