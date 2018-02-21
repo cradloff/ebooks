@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">fa5b96f2-174c-11e8-a406-374fdfb10a6c</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Wrack des Korsarenschiffes</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">35</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">In aller Stille hatte die Bremer Bergungsgesellschaft ihren eigens für Bergungszwecke ausgerüsteten Dampfer dem erhaltenen Auftrage gemäß nach dem Orte geschickt, wo der eiserne neue Motorschoner „Phönix“ am 12. März 1908 in einem heftigen Sturm gesunken war.
+
+Der „Phönix“, ein sehr seetüchtiges Fahrzeug, hatte unter Führung des Kapitäns van der Bolten Kapstadt drei Wochen vor seinem Untergange mit einer außerordentlich wertvollen Ladung von Diamanten, die aus den Kimberley-Diamant-Minen Südafrikas stammten, verlassen. Daß er für Millionen Edelsteine mit sich führte, war nur dem Kapitän bekannt gewesen. Außerdem hatten zwei Angestellte der Diamant-Minengesellschaft „Südrand“ als Wächter die Überfahrt nach Europa unter der Maske harmloser Passagiere mitgemacht. Mithin hatten sich an Bord des Motorschoners nur drei Leute befunden, die etwas von dem Geheimnis der Ladung wußten, deren wertvollster Teil, eben die Diamanten, in zwei kleinen Kistchen aufbewahrt wurde, die in der Kajüte von Murwell und Prastelney – so hießen die beiden Angestellten – in einem besonders konstruierten Koffer untergebracht waren.
+
+Die Tatsache, daß die Südrand-Gesellschaft die Diamanten nicht einem der großen, doch offenbar sichereren Dampfer anvertraut hatte, die von Kapstadt den regelmäßigen Verkehr nach Europa vermitteln, hatte einen besonderen Grund. Den Direktoren der Mine war nämlich bekannt geworden, daß sich eine Bande von gefährlichen Hochstaplern aus aller Herren Länder gebildet habe, die mit der Absicht umging, gerade die Tourdampfer von Südafrika, die Edelsteine als Fracht angenommen hatten, zu berauben.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (035) Das Wrack des Korsarenschiffes.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
