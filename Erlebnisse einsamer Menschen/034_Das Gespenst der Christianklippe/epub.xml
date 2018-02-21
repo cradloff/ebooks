@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">01c6ffa0-174b-11e8-8c33-9bbffd900a73</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Gespenst der Christianklippe</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">34</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der alte Fischer Harald Mogenäs hatte auf seinem Kutter am 28. Mai 1915 außer einer ganzen Anzahl von Herdenwalen, einer wegen ihres Trans eifrig verfolgten Delphinart, noch eine andere seltsame Beute mit heimgebracht: einen in einem Rettungsring festgebundenen jungen Seemann, den man besinnungslos weit östlich der Fär-Öer-Gruppe am Morgen aus dem Meere aufgefischt und der bisher noch immer nicht das Bewußtsein wiedererlangt hatte.
+
+Harald Mogenäs’ Kutter, der dicht an dem steil abfallenden Felsufer des Fjordes festgemacht hatte, an dem das kleine Dorf Kalsöe, das einzige auf der gleichnamigen Insel, mit seinen bescheidenen Hütten und dem armseligen Holzkirchlein liegt, war bald von einer Schar Neugieriger umlagert, die von der Uferhöhe aus auf das Deck des plumpen Segelbootes hinunter starrten, wo der Fremde in seinem Ölanzug regungslos auf einem Lager von Ersatzsegeln ruhte.
+
+Inzwischen hatte der älteste der Söhne Harald Mogenäs’, der stämmige Olaf, den Strandvogt Kolter, der zugleich Dorfoberhaupt von Kalsöe war, von der Bergung des Schiffbrüchigen benachrichtigt.
+
+Als Kolter erschien, machte man ihm ehrerbietig Platz. Der Vogt schritt würdevoll die in den Uferfelsen eingehauene Steintreppe abwärts und betrat den Kutter, wo ihm der alte Fischer kurz berichtete, wo und wie man den fremden Seemann aufgefunden habe.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (034) Das Gespenst der Christianklippe.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
