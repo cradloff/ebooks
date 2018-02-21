@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">3afaaa6c-174e-11e8-ba40-b7400721bed0</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Findlingseiland</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">36</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Weltkrieg hatte auch auf dem hart an der Seeküste der Danziger Bucht gelegenen Rittergute Schönbusch mancherlei Veränderungen mit sich gebracht.
+
+Der Besitzer, Herr Prager, war ebenso wie der größte Teil der Gutsarbeiter zu den Fahnen einberufen, so daß seine Gattin mit Hilfe des alten Inspektors Rummler die Wirtschaft allein schlecht und recht weiterführen mußte.
+
+Kein Wunder, daß Frau Prager sich unter diesen Umständen schon sehr auf den Anfang der großen Ferien freute, wo ihre beiden Kinder, der vierzehnjährige Fritz und die um ein Jahr ältere Ilse, für Wochen heimkehren und etwas Leben in das jetzt so stille Gutshaus bringen würden. Fritz und Ilse waren in Danzig, der Provinzialhauptstadt von Westpreußen, in Pension und besuchten dort die Schule.
+
+Kurz vor Beginn der Ferien erhielt Frau Prager dann von ihrem Jungen einen Brief, in dem er bat, seinen besten Freund Willi Kersten als Gast nach Schönbusch einladen zu dürfen. Willis Gesundheit sei angegriffen, seine Eltern besäßen jedoch nicht die Mittel, um, wie der Arzt verordnet hätte, ihren Sohn aufs Land in Pflege geben zu können.
+
+Frau Prager kannte Willi Kersten von gelegentlichen Besuchen in Danzig her bereits persönlich und hatte den stillen, fleißigen und bescheidenen Knaben, der offenbar einen recht guten Einfluß auf ihren eigenen, etwas wilden Sprößling ausübte, sehr in ihr Herz geschlossen, so daß sie keinen Augenblick zögerte, an Willis Eltern einen warm gehaltenen Brief zu schreiben, und zu bitten, ihr den erholungsbedürftigen Freund ihres Sohnes für die Ferien anzuvertrauen.
+
+So kam es, daß mit Ferienanfang drei junge, vergnügte Menschenkinder in Schönbusch eintrafen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (036) Das Findlingseiland.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
