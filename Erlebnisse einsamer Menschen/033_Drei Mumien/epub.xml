@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">c0066b62-11cf-11e8-8bce-1fe826e5930f</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Drei Mumien</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">33</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Mitte Mai kann es in der Gegend der Halbinsel Florida schon recht unangenehm warm sein, besonders an einem windstillen Tage.
+
+Und ein solcher war der 15. Mai 1908. – Deshalb sagte jetzt auch Thomas Alverson, der auf der Kommandobrücke des Küstendampfers „Vanderbilt“ neben Austin Jenkins stand, prustend und sich mit dem Taschentuche Luft zufächelnd:
+
+„Eine Bombenhitze! – Eigentlich eine Verrücktheit, hier bei 32 Grad auf diesem alten, dreckigen Kohlenkasten herumzugondeln, nur weil ein demnächst dem Säuferwahnsinn verfallener Seminole allerhand von einem Schatz und von einer öden Insel zusammengefaselt hat …! – Tatsächlich – ich hätte mir die Sache besser überlegen und nicht mein schönes Geld für diese abenteuerliche Fahrt zum Fenster hinauswerfen sollen …!!“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (033) Drei Mumien.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
