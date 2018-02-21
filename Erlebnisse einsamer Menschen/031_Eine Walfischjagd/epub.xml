@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">49727e28-0e82-11e8-850a-b33a55160f99</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Eine Walfischjagd</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">31</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Junger Herr – ich darf’s nicht! Machen Sie mir das Herz doch nicht unnötig durch Ihre Bitten schwer! Wir sollen uns nicht aus Sicht des Landes entfernen. Und an den Befehl Ihres Vaters halte ich mich unbedingt. Ich bin Gehorsam gewöhnt und nicht umsonst acht Jahre Bootsmannsmaat bei unserer Kaiserlichen Marine gewesen, bis ich mir beim Geschützexerzieren die beiden Finger der linken Hand halb abquetschte und Invalide wurde. Wenn einer zu dem alten Heinrich Scharpen sagt: „Bis dahin darfst Du mit dem Motorboot in die See hinaus“, dann geschieht das auch.“
+
+Fritz Parlow wandte den Kopf ärgerlich zur Seite. Die abermalige Ablehnung seines Vorschlages, das prächtige Wetter zu einer Fahrt bis nach den Riffinseln westlich von Apia auszudehnen, wo stets eine Menge Seehunde anzutreffen waren, reizte seinen Zorn. Und heftig rief er dem Alten nach, der eben unter Deck verschwinden wollte, um nach dem Motor zu sehen:
+
+„Sie sind ein rechter Dickkopf, Heinrich! Ihnen ist’s nur zu langweilig, mit uns hier hin und her zu kreuzen. In den Hafenschenken in Apia gefällt’s Ihnen besser!“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (031) Eine Walfischjagd.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
