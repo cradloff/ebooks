@@ -329,7 +329,7 @@ ohne weiteres befolgten. –
 
 Zehn Tage später …
 
-Das Sargassomeer hatte seine Beute nicht freigegeben, Gleich in der ersten
+Das Sargassomeer hatte seine Beute nicht freigegeben. Gleich in der ersten
 Nacht, als Jan schlief, hatte eine breite, nach Norden zu verlaufende Rinne in
 den Krautmassen sich geöffnet, in die Jakob Hellgard, nachdem das Segel gehißt
 war, eiligst hineinsteuerte, da er so den Weg in die Freiheit zurückzufinden

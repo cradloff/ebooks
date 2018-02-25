@@ -1,13 +1,13 @@
 Anmerkungen:
 ------------
 
-<@footnote 1 "02_text.md"><p>„Fär-Öer“ bzw. „Fär-Öer-Gruppe“: Sehr alte
+<@footnote 1 "02_text.md">„Fär-Öer“ bzw. „Fär-Öer-Gruppe“: Sehr alte
 Schreibweise aus dem 19. Jahrhundert. Das gilt ebenso für die übrigen Namen der
 Berge, Orte, Inseln usw. Walther Kabel hat hier vermutlich eine sehr alte Karte
 oder einen sehr alten Atlas benutzt. Auch sind einige Zahlenwerte (für die
 heutige Zeit) nicht korrekt wie z. B. 25 statt (real) 18 Inseln, 1500 Meter
-statt (real) 882 Meter beim höchsten Berg „Slættaratindur“.</p> <p>Alle
-Schreibweisen und Zahlenwerte der Vorlage wurden ohne Änderung übernommen.</p>
+statt (real) 882 Meter beim höchsten Berg „Slættaratindur“.
+<p>Alle Schreibweisen und Zahlenwerte der Vorlage wurden ohne Änderung übernommen.</p>
 <p>Heutiger Name: „Färöer“ oder auch „Färöer-Inseln“ (die „Schafinseln“). Siehe
 auch Wikipedia: Färöer.</p></@footnote>
 
