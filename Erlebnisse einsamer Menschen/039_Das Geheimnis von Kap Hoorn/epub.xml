@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">f180c5ae-1a42-11e8-ac7e-97b8aab080ea</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis von Kap Hoorn</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">39</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Sie können mir ruhig die Wahrheit sagen, Landsmann. Ich habe keine Angst vor dem Sterben. Schlimmes habe ich nie begangen. Und wegen der kleinen Sünden wird Gott mir ein gnädiger Richter sein. – Also – nicht wahr, – es geht mit mir zu Ende …?“
+
+Der Krankenwärter schwieg und schaute zur Seite.
+
+Da glitt es wie ein Lächeln über des alten Seemannes verwittertes, jetzt so bleiches Gesicht.
+
+„Keine Antwort ist auch eine Antwort“, meinte er. Dann schaute er sich vorsichtig um. Sein Bett stand allein etwas abseits von den anderen in einer Ecke des großen, hellen Krankensaales. Niemand von den übrigen Patienten achtete außerdem auf die beiden.
+
+„Setzen Sie sich einen Augenblick zu mir, Blochstädt“, fuhr Peter Braken leise fort. „Ich habe Ihnen etwas Wichtiges anzuvertrauen.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (039) Das Geheimnis von Kap Hoorn.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
