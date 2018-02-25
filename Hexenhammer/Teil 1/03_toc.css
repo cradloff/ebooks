@@ -1,0 +1,10 @@
+td:nth-child(1) {
+	text-align: right;
+	vertical-align: top;
+}
+
+td:nth-child(3) {
+	text-align: right;
+	vertical-align: bottom;
+}
+
