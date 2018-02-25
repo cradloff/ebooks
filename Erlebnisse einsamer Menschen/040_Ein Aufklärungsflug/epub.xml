@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">9ce7f196-1a44-11e8-aa5a-b3b7bc95afc5</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein Aufklärungsflug</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">40</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Als der blutjunge, schmale Unteroffizier damals zur Fliegerschule nach Gotha auf sein eingehend begründetes Gesuch hin abkommandiert wurde, empfing man ihn bei seiner neuen Truppe, die so stolz das Fliegerabzeichen auf den Achselklappen trägt, mit vorwurfsvollem Kopfschütteln.
+
+Ein so schwächliches Kerlchen, das noch vor einem halben Jahre die Schulbank gedrückt hatte, Flugzeugführer …?! Das war ja ein Unding!! – Dieser Dienst erforderte einen anderen Körper, der eben allen Anstrengungen, aber auch allen, gewachsen war.
+
+Freilich – Fritz Krastka hatte es als Kriegsfreiwilliger in fünf Monaten nicht nur zum Unteroffizier gebracht, sondern trug auch schon trotz seiner eben erst vollendeten achtzehn Jahre das Eiserne Erster auf der Brust. Also mußte er doch wohl etwas leisten, wenn’s drauf ankam.
+
+Und das war in der Tat der Fall, wie die Offiziere, die „das Kerlchen“ – so hieß er bald allgemein – in Gotha ausbildeten, sehr schnell merkten. Dieser schlanke junge Mensch mit dem rosigen Kindergesicht, in dem doch um den Mund bereits zwei tief eingeschnittene Falten bewußter Willenskraft lagen, besaß alle die Eigenschaften, die gerade von dem Flugzeugführer verlangt werden, in einem Maße, wie ihm dies auf den ersten Blick niemand zutrauen konnte: einen durch Sport trainierten Körper, tadellose Augen, Entschlossenheit, leichte Auffassungsgabe, frischen Draufgängermut, der beinahe etwas zu sehr nach der Seite Tollkühnheit ausschlug, und jene Geistesgegenwart, die sozusagen angeboren sein muß und die wieder aus einer Summe von verschiedenen besonderen Eigenschaften sich zusammensetzt.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (040) Ein Aufklärungsflug.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
