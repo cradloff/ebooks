@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">1dfd5618-1a40-11e8-84e4-2339f898a58b</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Grönlandfahrer</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">37</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Funkentelegraphist der „Brigitte“ stand vor Lührsen in dem kleinen, eleganten Speisesaal der Motorjacht.
+
+Gustav Lührsen saß mit seinen Gästen beim ersten Frühstück. Erst sechs Uhr morgens war’s. Aber auf der „Brigitte“ wurde man früh munter. Das war vor Antritt der Nordlandsreise unter den sechs Herren so ausgemacht worden.
+
+„Was gibt’s schon wieder, Müller?“ fragte der jugendliche Chef der Bremer Schiffswerft „Nautilus“ etwas unwirsch.
+
+„Herr Lührsen, ich wette, daß die Funksprüche der deutschen Stationen absichtlich durch fremdes Dazwischenfunken gestört werden. Unser Apparat ist jetzt wieder tadellos in Ordnung, nachdem er fünf Tage, gerade so lange, als wir hier in dieser Bucht stillliegen, gestreikt hatte. Der Fehler war leicht zu beseitigen, als ich ihn erst gefunden hatte. Trotzdem – ich bekomme kein vernünftiges Wort zusammen. Seit dem 30. August nachmittags sind wir nun ohne jede Nachricht von Deutschland. Ich habe jetzt so meine Gedanken darüber …“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (037) Die Grönlandfahrer.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
