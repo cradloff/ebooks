@@ -316,7 +316,7 @@ einer Seite hin entlangzugehen, was wir gleich hätten tun sollen. Auf diese
 Weise müssen wir die Jolle ja finden.“
 
 Inzwischen war es, besonders infolge des Nebels, so dunkel geworden, daß man
-keine fünf Schritte weit sehen kannte. Von den Panthern hatte man nichts mehr
+keine fünf Schritte weit sehen konnte. Von den Panthern hatte man nichts mehr
 bemerkt, seit man den gebüschfreien Strand betreten hatte. Trotzdem ließ der
 Doktor keine Vorsicht außer acht, um nicht plötzlich von einer der Bestien
 angefallen zu werden.
@@ -676,7 +676,7 @@ Inzwischen hatte sich nichts von Wichtigkeit ereignet. Die Insel trieb jetzt
 mit einer südöstlichen Strömung langsam weiter mitten in die Java-See hinein,
 die von Sumatra und Java im Westen und Süden und von Borneo im Norden begrenzt
 wird, während sie im Westen ohne bestimmte Grenzlinie in die Sunda-See zwischen
-Celebes und den Kleinen Sunda-Inseln übergeht, Schiffe waren, so oft der Doktor
+Celebes und den Kleinen Sunda-Inseln übergeht. Schiffe waren, so oft der Doktor
 auch einen Baum erstiegen und Ausschau gehalten hatte, nicht in Sicht gekommen.
 Hiermit war freilich in diesem Teile der Java-See auch kaum zu rechnen, da die
 Routen des Schiffsverkehrs hier nicht vorüberführten. Das Wetter war

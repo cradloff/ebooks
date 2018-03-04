@@ -678,7 +678,7 @@ kleine, sanft geneigte Plattform, und von hier aus vermochte man nicht nur das
 Findlingseiland selbst, sondern auch die übrigen vier nach Süden zu in einer
 Reihe liegenden Inseln zu überblicken. Im Westen und Süden zog sich die Küste
 der Danziger Bucht als dunkle Bogenlinie hin, während von der Halbinsel Hela im
-Norden nicht [einmal]<@refnote 1/> ein Schimmer der hellen Dünen zu erkennen
+Norden nicht einmal<@refnote 1/> ein Schimmer der hellen Dünen zu erkennen
 war.
 
 Das Findlingseiland selbst hatte einen größten Durchmesser von vielleicht

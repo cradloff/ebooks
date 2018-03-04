@@ -5,7 +5,7 @@ Von W. Belka.
 
 > Chamisso: „Kap Hoorn.“
 
-> „Ein kühner Seemann<@refnote "a"/> gab Dir seinen Namen.
+> „Ein kühner Seemann<@refnote "a" "1*"/> gab Dir seinen Namen.
 Und jeder, der Dich sturmumtobtes Riff
 Glücklich umsegelt hat mit seinem Schiff,
 Spricht ein Gebet, sagt drei Mal Amen.“
@@ -62,7 +62,7 @@ bestimmte Absicht führte mich her, und eine merkwürdige Geschichte hängt dami
 zusammen. – Vor drei Jahren fuhr ich als Matrose auf einer schwedischen Brigg.
 Wir kamen von Hongkong und waren nach Pernambuco in Brasilien bestimmt. Als wir
 in die Gegend von Kap Hoorn gelangten, herrschte dort das übliche Unwetter.
-Trotzdem wollte unser Kapitän das berüchtigte Vorgebirge umschiffen. Unser eine
+Trotzdem wollte unser Kapitän das berüchtigte Vorgebirge umschiffen. Unser einer
 Mast ging verloren, und schließlich scheiterten wir auf einem Riff westlich der
 Hermiten-Inseln, deren südlichste, eine 300 Meter hohe, nackte, schwarze
 Felspyramide, die schroff aus den Fluten aufsteigt, das berühmte Kap Hoorn ist.
@@ -132,7 +132,7 @@ hat er mir gerade Sie, einen Landsmann, in den Weg geführt, damit das Geheimnis
 von Kap Hoorn einem Deutschen zugute käme. Ich habe keine Angehörigen, keine
 Freunde. Sie, Blochstädt, sind der einzige Mensch, der ganz uneigennützig an
 mir gehandelt hat. Sie sollen mein Erbe sein. Ich besitze etwa tausend Mark.
-Davon begraben Sie mich zunächst recht schlicht. Und dann tun Sie, was, Ihnen
+Davon begraben Sie mich zunächst recht schlicht. Und dann tun Sie, was Ihnen
 am richtigsten dünkt. Aber – vergessen Sie den Rat eines alten Mannes nicht:
 die Mittellinie zwischen Selbstsucht und Gutmütigkeit, – das ist das beste! –
 Reichen Sie mir jetzt Feder und Papier. Ich will über meine geringe Habe eine
@@ -313,7 +313,7 @@ einmal eingeschlafen, und die Freunde mußten ihr Boot abermals in einer Bucht
 festmachen. Im Südwesten bemerkte Blochstädt eine schmale Einfahrt, auf die man
 jetzt mit recht gemischten Gefühlen zuruderte. Diese Einfahrt entpuppte sich
 als ein sehr schmaler Kanal, der im Bogen nach Süden zu verlief und kaum
-achtzig Meter Brette hatte. Die felsigen Ufer traten zurück, das Land wurde
+achtzig Meter Breite hatte. Die felsigen Ufer traten zurück, das Land wurde
 flacher und eröffnete den beiden Wagehälsen den Ausblick auf einen
 schneebedeckten Gebirgszug, aus dem ein einzelner hoher Berg herauswuchs.
 
@@ -420,7 +420,7 @@ können, wodurch man, falls die Sache glückte, nicht umzukehren brauchte und
 viel Zeit sparte. (Wir können den Freunden der „Erlebnisse einsamer Menschen“
 nur immer wieder raten, bei der Lektüre unserer Heftchen den Atlas zur Hand zu
 nehmen, geographische Kenntnisse erweitert man auf diese Weise am
-besten<@refnote 2/>. Der Transport des Kutters zu Lande sollte auf einer Art
+besten<@refnote 2/>.) Der Transport des Kutters zu Lande sollte auf einer Art
 niedrigen Wagens geschehen, dessen einzelne Teile man bereits unterwegs an Bord
 anfertigen wollte. Handwerkszeug und Nägel von verschiedener Größe hatte man ja
 bei sich, so daß man nur noch das notwendige Holz zu beschaffen brauchte. Und

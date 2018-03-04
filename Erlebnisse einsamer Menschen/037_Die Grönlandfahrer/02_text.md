@@ -593,7 +593,7 @@ Der Bach verschwand hier in einer kaum ein Meter breiten Felsspalte, die er
 fast völlig ausfüllte. Aber einige große, bemooste Steine, die in seinem Bett
 lagen, ermöglichten es dem Kajütjungen, trockenen Fußes in diesen Schlund
 einzudringen, der sich sehr bald erheblich verbreiterte und ein Tal von fünfzig
-Meier Breite und doppelter Länge bildete. Darüber wölbten sich die Felsmassen
+Meter Breite und doppelter Länge bildete. Darüber wölbten sich die Felsmassen
 zu einer Decke, welche in der Mitte und zwar in der Längsrichtung eine
 vielleicht fünf, stellenweise auch sieben bis acht Meter breite Öffnung besaß,
 durch die Peter über sich den klaren, blauen Himmel erblickte.

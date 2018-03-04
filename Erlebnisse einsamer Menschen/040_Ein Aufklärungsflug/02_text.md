@@ -1233,7 +1233,7 @@ Besatzung nur vier Mann lebend den Strand erreichten.
 
 Jeden Augenblick mußte jetzt der Grieche erscheinen, und Martens und Krastka,
 die von den vier Engländern längst bemerkt waren, hielten ihre Karabiner
-bereit, um nötigenfalls die Feinde durch Schüsse zu vertrieben.
+bereit, um nötigenfalls die Feinde durch Schüsse zu vertreiben.
 
 Da ereignete sich etwas, wofür die beiden Flieger nie eine Aufklärung fanden.
 Im Norden der Insel erhob sich plötzlich eine enorme Wolke Erd- und Felsmassen,
