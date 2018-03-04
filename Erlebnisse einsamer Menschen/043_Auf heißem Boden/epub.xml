@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">b95ac5e0-1fb4-11e8-95b4-2b16bf1d22d0</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Auf heißem Boden</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">43</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Versteckt zwischen vier kleinen Inseln, von denen die östlichste etwa vier Kilometer lang war und sich genau von Norden nach Süden hinzog, lag da ein mittelgroßer Dampfer mit gelb-rotem Schornsteinring und der englischen Kriegsflagge am Heck.
+
+Die untergehende Sonne hatte bereits die im Westen lagernden Dunstmassen erreicht und goß ihre letzte Strahlen über das einsame Meer aus, das hier südlich der Inselgruppe der Aleuten jetzt nur noch von einem zweiten Fahrzeuge belebt war, dessen Aussehen das Kriegsschiff verriet und dessen Kurs unweit der vier Inseln vorüberführen mußte.
+
+Auch von dem englischen Hilfskreuzer aus war die Rauchfahne dieses Schiffes jetzt bemerkt worden. Die Sirene ließ ein paar bellende Heultöne hören, woraufhin von dem größten der Eilande, das als Nordspitze einen riesigen, abgestumpften Felskegel besaß, sehr bald ein Ruderboot abstieß und sich mühsam durch die starke Strömung und die zahlreichen Strudel hindurch arbeitete, die in dem schmalen Sunde zwischen diesem und den drei kleineren Eilanden an der Wasserbewegung deutlich zu erkennen waren.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (043) Auf heißem Boden.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
