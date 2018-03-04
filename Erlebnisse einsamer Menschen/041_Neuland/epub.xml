@@ -39,7 +39,7 @@ Den Matrosen überlief es trotz der glühenden Hitze, in der das Boot fast regun
 <!-- Inhaltsverzeichnis generieren? (true/false) -->
 <entry key="toc">false</entry>
 <!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
-<entry key="toc-entries">h1, h2</entry>
+<entry key="toc-entries">h2</entry>
 <!-- Liste von weiteren Dateien -->
 <entry key="additional-media"></entry>
 </properties>

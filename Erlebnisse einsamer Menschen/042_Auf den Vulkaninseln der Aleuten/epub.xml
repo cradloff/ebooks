@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">ca40449e-1fb3-11e8-ad8c-733c10b69536</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Auf den Vulkaninseln der Aleuten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">42</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Es war bei der Abendtafel, als Doktor Vollmer seiner Landsmännin Frau Helgard heimlich einen Zettel zusteckte, den sie unauffällig verbarg. Sie war geistesgegenwärtig genug, sich nicht merken zu lassen, wie sehr sie diese Art Nachrichtenübermittlung im ersten Augenblick in Erstaunen setzte. Dann aber fiel ihr ein, daß die Stimmung unter den Passagieren der ersten Kajüte des „Okitu Maru“, wie der von Yokohama nach San Franzisko bestimmte japanische Dampfer hieß, seit zwei Tagen auffallend umgeschlagen war. Die bisherige zwanglose Heiterkeit und Liebenswürdigkeit der zumeist aus reichen Japanern bestehenden Reisegesellschaft ihr gegenüber hatte plötzlich aufgehört und einer kühlen, teilweise fast feindseligen Zurückhaltung Platz gemacht.
+
+Die vier Deutschen an Bord des „Okitu Maru“ ahnten, worauf dies zurückzuführen war. Hatte man doch schon bei der Abfahrt in Yokohama allerlei Gerüchte vernommen, daß Japan sich der Entente anschließen werde, um die deutsche Kolonie Kiautschau in seinen Besitz zu bringen.
+
+Hieran hatte Frau Helgard gedacht, als Doktor Vollmer ihr das Papierröllchen in die Hand gedrückt hatte. Sicherlich würde dieses wichtige Dinge enthalten, sagte sich die Dame mit Recht, und ermunterte daher ihren vierzehnjährigen Knaben, der neben ihr an der Tafel saß, wiederholt durch leise Worte, sich bei der Mahlzeit möglichst zu beeilen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (042) Auf den Vulkaninseln der Aleuten.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
