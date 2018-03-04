@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">e4d9f1b8-1fb5-11e8-8013-4f8e6c7e156e</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Kolonie Hoffnungskap</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">44</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die deutschen Familien, die sich von dem englischen Auswanderer-Bureau zur Ansiedlung in Australien hatten anwerben lassen, waren nur zu bald gewahr geworden, daß die meisten der ihnen gegebenen Zusicherungen in keiner Weise eingehalten wurden. Schon der Dampfer, auf dem sie in Dover eingeschifft worden waren, stellte sich als ein alter, halbwracker Kasten heraus, der kaum acht Knoten lief und bei unruhiger See derart schlingerte, daß die Seekrankheit dann stets eine Anzahl von Opfern forderte, was den Aufenthalt in den engen Räumen noch unerträglicher machte.
+
+An Bord befanden sich außer 92 Deutschen, Männern, Frauen und Kindern, auch einige hundert englische Familien, meist dem Arbeiter- und Handwerkerstande angehörig, die gleichfalls in dem kleinsten Erdteil ihr Glück versuchen wollten. Das Verhältnis zwischen den Zugehörigen der beiden Nationen war von Anfang an kein besonders gutes. Englische Rücksichtslosigkeit und Anmaßung trachteten auch auf der „Pallonia“ danach, sich die bessere Kost und die größeren Bequemlichkeiten zu verschaffen. So kam es bald zu Reibereien, da auch die vielbespöttelte deutsche Gutmütigkeit ihre Grenzen hatte.
+
+Nach endlosen, martervollen sechs Wochen lief der Dampfer in den Hafen von Sydney an der Ostküste Australiens ein, wo er eigentlich nur Kohlen einnehmen sollte, da er erst in Adelaide an der Südküste sein Ziel erreicht hatte.
+
+Aber die meisten Familien, sowohl Deutsche wie Engländer, hatten von der Seereise so übergenug, daß sie ihre Verträge umändern ließen und von Sydney aus nach anderen Gebieten, als ursprünglich bestimmt, reisten, um sich dort Farmland anweisen zu lassen. Auf der „Pallonia“ blieben nur sechs deutsche und zwei englische Familien zurück. Der Kapitän nahm daher in Sydney noch schnell achtzig chinesische Kulis an Bord, die ein Agent für einen Distrikt nördlich von Adelaide angeworben hatte, außerdem eine Menge Fracht, da der Laderaum nach Entfernung des Gepäcks der meisten Auswanderer wieder genügend Platz bot.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (044) Die Kolonie Hoffnungskap.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
