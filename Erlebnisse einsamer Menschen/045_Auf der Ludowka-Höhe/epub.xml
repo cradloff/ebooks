@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">1bef4832-1fb7-11e8-be56-7355a07ba784</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Auf der Ludowka-Höhe</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle">Ein Winterlager in den Karpathen.</entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">45</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das deutsche xte Infanterie-Regiment hatte in der Stellung auf und um die Ludowka-Höhe herum ein österreichisches abgelöst, das auf diesem wenig angenehmen Posten vierzehn Tage wacker ausgehalten hatte und nun in Reserve gehen sollte.
+
+Der dritte Zug der neunten Kompagnie war nach anstrengendem Marsch, besser nach einer überaus mühseligen Kletterpartie in das kleine Quertal gelangt, in dem sich der zu besetzende Schützengraben von Nord nach Süd hinzog. Der Russe lag dieser Stellung in etwa vierhundert Meter Entfernung in einem zurückspringenden Winkel auf den Höhen im Osten gegenüber.
+
+Die österreichische Kompagnie rückte jetzt ab. Und ihr Führer sagte noch zuletzt zu dem blutjungen, deutschen Leutnant, indem er ihm kräftig die Hand schüttelte:
+
+„Herr Kam’rad, dieser Posten ist wenig angenehm, wie Sie bald merken werden. Erfolgt von beiden Flanken ein Angriff, so laufen Sie in dieser vorgeschobenen Stellung Gefahr, abschnitten zu werden. – Servus, Kam’rad – alles Gute!“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (045) Auf der Ludowka-Höhe.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
