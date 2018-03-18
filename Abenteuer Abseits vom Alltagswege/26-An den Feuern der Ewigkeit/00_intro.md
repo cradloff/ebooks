@@ -18,7 +18,7 @@ Schwedischen von
 <div style="font-size: large; text-align: center;">M. Schraut</div>
 
 <div style="font-size: large; text-align: center; white-space: pre-wrap;">
-– Band ${property.volume} –
+– Band ${property['group-position']} –
 </div>
 
 <div style="font-size: small; text-align: center; white-space: pre-wrap;">Verlag moderner Lektüre G. m. b. H.

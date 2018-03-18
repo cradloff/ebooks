@@ -5,9 +5,13 @@
 <!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
 <entry key="UUID">d2b1f8b0-6411-11e7-9598-0800200c9a66</entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">(14) Die Löwenfarm</entry>
+<entry key="title">Die Löwenfarm</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Abenteuer abseits vom Alltagswege</entry>
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">14</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
@@ -17,7 +21,7 @@ Band 14 der Reihe von Walther Kabel. Text und Bilder stammen von der Walther-Kab
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Olaf Karl Abelsen</entry>
 <!-- Author (für Sortierung) -->
-<entry key="authorFileAs">Abelsen, Olaf K.</entry>
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Abelsen, Olaf K. - (14) Die Löwenfarm.epub</entry>
 <!-- Verlag -->

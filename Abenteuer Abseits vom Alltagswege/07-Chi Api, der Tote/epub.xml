@@ -5,9 +5,13 @@
 <!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
 <entry key="UUID">697f9750-6027-11e7-9598-0800200c9a66</entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">(07) Chi Api, der Tote</entry>
+<entry key="title">Chi Api, der Tote</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Abenteuer abseits vom Alltagswege</entry>
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">7</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
@@ -17,7 +21,7 @@ Text und Cover stammen von der Walther-Kabel-Seite, vielen Dank dorthin.</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Olaf Karl Abelsen</entry>
 <!-- Author (für Sortierung) -->
-<entry key="authorFileAs">Abelsen, Olaf K.</entry>
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Abelsen, Olaf K. - (07) Chi Api, der Tote.epub</entry>
 <!-- Verlag -->

@@ -5,9 +5,13 @@
 <!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
 <entry key="UUID">554e1e80-5f43-11e7-9598-0800200c9a66</entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">(05) Das Kreuz der Wüste</entry>
+<entry key="title">Das Kreuz der Wüste</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Abenteuer abseits vom Alltagswege</entry>
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">5</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
@@ -17,7 +21,7 @@ Fünfter Band der Abenteuer abseits vom Alltagswege von Walther Kabel. Text und 
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Olaf Karl Abelsen</entry>
 <!-- Author (für Sortierung) -->
-<entry key="authorFileAs">Abelsen, Olaf K.</entry>
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Abelsen, Olaf K. - (05) Das Kreuz der Wüste.epub</entry>
 <!-- Verlag -->

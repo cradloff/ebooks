@@ -5,9 +5,13 @@
 <!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
 <entry key="UUID">16c713b0-a43b-11e6-9598-0800200c9a66</entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">(11) Die Oase der Toten</entry>
+<entry key="title">Die Oase der Toten</entry>
 <!-- Sub-Titel -->
-<entry key="subtitle">Abenteuer abseits vom Alltagswege</entry>
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">11</entry>
 <!-- Sprache -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
@@ -19,7 +23,7 @@ Quelle: www.walther-kabel.de</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Olaf Karl Abelsen</entry>
 <!-- Author (für Sortierung) -->
-<entry key="authorFileAs">Abelsen, Olaf K.</entry>
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
 <entry key="filename">Abelsen, Olaf K. - (11) Die Oase der Toten.epub</entry>
 <!-- Verlag -->
