@@ -1142,7 +1142,7 @@ Dann sah er ein langes, dickes Hanftau gerade gegenüber der Einmündung des
 Ganges herabschweben. Das Tau pendelte hin und her, kam tiefer und tiefer und
 stieß endlich unten auf den Boden auf.
 
-Hart schaute verzweifelt nach den Nebelmassen aus? Sollte er sich getäuscht
+Hart schaute verzweifelt nach den Nebelmassen aus. Sollte er sich getäuscht
 haben …?! Hatte er in der Aufregung vorhin vielleicht nur eine schwache
 Dunstschicht für ziehende Nebelwolken gehalten …?! Noch schien ja draußen die
 Sonne, wenn auch nicht mehr so grell wie bisher.
