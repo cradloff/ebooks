@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">099d0dc8-3e8d-11e8-8b19-df9cae9c9873</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Budang, der Pirat</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">50</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Ein unglaubliches Pech ist’s! Ich bringe den Motor trotz aller Anstrengungen nicht wieder in Ordnung …! Das widerspenstige Ding scheint zu ahnen, daß es zwei Deutsche der Heimat entgegenführen soll und streikt daher als gut englisch gesinntes Fabrikat!“
+
+Der, der diese Sätze über das Deck des Motorkutters einem am Steuer sitzenden jungen Menschen zurief, war ein schlanker Mann in derbem Leinenanzug mit einem Bartwuchs im Gesicht, der gerade auf der Grenze zwischen überlangen Bartstoppeln und einem beginnenden Vollbart stand.
+
+„Was tun wir da nur?“ fragte der jugendliche Steuermann des Kutters jetzt kleinlaut. „Mit unseren Notsegeln kommen wir ja so schlecht vorwärts, daß wir nicht im entferntesten daran denken dürfen, unseren ursprünglichen Plan, einen persischen Hafen anzulaufen, weiter zu verfolgen.“
+
+„Das stimmt – leider!“ erwiderte der ältere der beiden Kutterinsassen, indem er aus dem kleinen Maschinenraum hinauskletterte und sich neben den Gefährten setzte. „Jetzt, wo wir in solchem Leichentempo über die Java-See hinschleichen, brauchen wir nur einem englischen Schiffe zu begegnen, und – ade Freiheit …!! Jetzt im Weltkriege greifen unsere Feinde jeden Deutschen auf, dessen sie nur habhaft werden können. Überhaupt ist unsere Lage ziemlich kritisch. Vom Segeln verstehen wir alle beide nicht viel. Kommt auch nur etwas stärkerer Wind auf, so kann es uns übel ergehen. Ich denke daher wir wenden und nehmen wieder Kurs auf die Insel Eden zu, die wir vor fünf Stunden so hoffnungsfreudig verlassen haben.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (050) Budang, der Pirat.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

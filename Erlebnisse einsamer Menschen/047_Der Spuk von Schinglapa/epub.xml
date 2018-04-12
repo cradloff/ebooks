@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">30a4b0b2-3e8b-11e8-a9ad-83f2282aac8b</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Spuk von Schinglapa</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">47</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Kriegserklärung Englands an die Zentralmächte übermittelte der Funkspruchverkehr bereits zwei Stunden später auch nach Simla in Indien, der Sommerresidenz des Vicekönigs und dem Hauptquartier des englisch-indischen Heeres.
+
+Simla liegt in den Südabhängen des Himalaja in 2150 Meter Höhe. Eingebettet in das üppige Grün riesiger Zedern, breiten sich die Häuser dieser Stadt hellen Schwalbennestern ähnlich auf den Bergrücken aus. Hier sammelt sich ein Bündel zahlloser Telegraphendrähte von allen Ecken und Enden des britischen Kaiserreiches, und von diesem Punkte aus werden täglich unzählige Befehle erlassen, wird die Verwaltung geführt und die Armee in steter Bereitschaft gehalten, um all die unterworfenen indischen Fürsten, in denen fortgesetzt die Sehnsucht nach Befreiung von dem Joche der fremden Unterdrücker rege ist, ständig zu bedrohen und zu bewachen.
+
+Kein Wunder, daß Simla an jenem Augusttage 1914, als durch Maueranschläge und Ausrufer dort die Nachricht vom Eintritt Englands in den europäischen Krieg verbreitet wurde, einem aufgescheuchten Bienenschwarm glich. Auf den Hauptstraßen herrschte ein Leben und Treiben, wie es nur zu beobachten ist, wenn einer der benachbarten Maharadschas (Fürsten) dem Vicekönig seinen jährlichen Ergebenheitsbesuch abstattet, bei dem sich dann das ganze sinnverwirrende Bild orientalischer Pracht entwickelt.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (047) Der Spuk von Schinglapa.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

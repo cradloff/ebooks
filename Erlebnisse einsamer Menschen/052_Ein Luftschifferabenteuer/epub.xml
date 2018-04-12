@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">95165598-3e8e-11e8-8a43-578bd3dc6c0e</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein Luftschifferabenteuer</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">52</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Wenn Herr Leutnant mich nur ein einziges Mal mitnehmen würden …! Ich bin doch nun schon drei Monate bei der Abteilung, erst mit im Westen, jetzt hier in Rumänien. Und Herr Leutnant waren doch immer zufrieden mit mir …“
+
+Der langaufgeschossene Junge in dem viel zu weiten feldgrauen Rock mit den Abzeichen des Luftschifferbataillons schaute den Offizier so flehend an, daß dieser halb lachend, halb ärgerlich erwiderte:
+
+„Du bist mal ein hartnäckiger Quälgeist …!! Na – gut denn! Schließlich hast Du’s ja verdient, daß man mal beide Augen zudrückt. Aber – passiert etwas, ich wasche meine Hände in Unschuld!“
+
+Leutnant Hendrich gab jetzt einige Kommandos, und der eben erst aus den Stahlflaschen mit Wasserstoffgas gefüllte Fesselballon wurde mittels der Kabelwinde so weit hochgelassen, daß der an zahlreichen Gurten hängende Ballonkorb vom Erdboden freikam, worauf der Offizier hineinkletterte, indem er dem Knaben zurief:
+
+„Los denn! Rein mit Dir! Gute Augen hast Du ja. Vielleicht kannst Du da oben noch mehr erspähen als ich.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (052) Ein Luftschifferabenteuer.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">b8cd0c64-3e8b-11e8-8c65-dbc746e5397e</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Amitabhas Geheimnis</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">48</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">In einer der Offizierswohnungen der Kaserne des 5. indischen Artillerieregiments in Simla waren an einem Herbstabend des Jahres 1914 drei Engländer beisammen. Zwei davon trugen die Uniform eines Hauptmannes, der Dritte die Abzeichen eines Militärarztes.
+
+Letzterer sagte soeben, indem er sich dabei eine Zigarette anzündete:
+
+„Schießen Sie los Speetsbowe! Ich bin gespannt, weswegen Ihr beide mich für heute abend so geheimnisvoll eingeladen habt.“
+
+Hauptmann Speetsbowe rückte seinen Korbsessel näher an den Doktor Shorkes’ heran.
+
+„Die Sache verdient es auch, daß man ihr ein wenig Interesse entgegenbringt“, meinte er. „Wir, Lampser und ich, brauchen Sie zu einem hypnotischen Versuch. Wir wissen, daß Sie sich mit Hypnose wissenschaftlich viel beschäftigt haben. Freilich – bevor wir uns Ihnen vollständig anvertrauen, müßten Sie uns Ihr Ehrenwort geben, die ganze Geschichte geheimzuhalten. Dafür würden wir uns wieder verpflichten, daß Sie an dem Gewinn des Unternehmens, das wir planen, teilhaben sollen.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (048) Amitabhas Geheimnis.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

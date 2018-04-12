@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">fb54e8ac-3e8d-11e8-a67a-23084bcfa8c1</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein freiwilliger Robinson</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">51</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Wie das Gespräch eigentlich auf Robinson Krusoe gekommen war, wußte nachher niemand mehr. Jedenfalls machte Kraxemiller im Laufe der Erörterung der Frage, ob es nicht infolge Schiffbruchs derartige Einsiedler, deren Abenteuer jedoch verbürgt wären, häufiger gegeben habe, die Bemerkung, er halte es für ganz ausgeschlossen, daß ein einzelner Mann auf einer einsamen Insel ohne jede Hilfsmittel länger als sechs Monate leben könne, ohne den Verstand zu verlieren.
+
+Doktor Merkel bestritt dies, ebenso Karl Fechtler. Ein schwacher Charakter mit unpraktischer Veranlagung würde vielleicht auch bei den sonst günstigsten Lebensbedingungen zugrunde gehen. Aber die weitaus meisten Menschen, von Frauen und Kindern natürlich abgesehen, dürften eine derartige primitive Daseinsführung ganz gut überstehen.
+
+Kraxemiller und die drei anderen Herren, besonders der elegante Baron, beharrten jedoch bei ihrer Ansicht. Und letzterer erklärte sogar, ein Leben ohne Zahnbürste und Mundwasser, ohne all das Drum und Dran einer verfeinerten Kultur würde ihn schon in kurzem dem Wahnsinn nahebringen. Worauf der junge Student wieder scherzend erwiderte, wenn ihm jemand 25 000 Mark böte, falls er ein Jahr lang freiwillig Robinson spielen wolle, würde er bereitwilligst zugreifen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (051) Ein freiwilliger Robinson.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">7d1fda90-3e89-11e8-8294-b78a003b5404</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Waldmensch von Tortaterra</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">46</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Gott meiner Väter, wenn ich bedenke, daß ich bin geworden in einer halben Stunde wieder ein armer Mann, die Haare könnte ich mir ausraufen!“ sagte der kleine Händler. „Was haben Sie groß zu seufzen, Herr Doktor! Ihnen ist nicht verloren gegangen wie mir mit dem „Präsidento Kastro“ ein sauer erspartes Vermögen. Nu hab ich vorausschickt meine Familie nach Posen, wo wir haben gewollt erwerben die deutsche Staatsangehörigkeit. Die Ärmsten sitzen jetzt da mit Geldmitteln, wo nur reichen für ein halbes Jahr …“ Heimlich zerdrückte er eine Träne und seufzte abermals und schwer.
+
+Gottfried Stollenbein schüttelte jetzt vorwurfsvoll den Kopf, den eine überreiche Fülle fahlen blonden Haares umwallte, das er von Zeit zu Zeit mit einer gezierten Handbewegung aus der Stirn strich.
+
+„Mein lieber Herr“, fragte er dann etwas gönnerhaft, indem er des Händlers Namen, der nur zu sehr an „Eisbein mit Sauerkraut“ erinnerte, verschluckte, „– gewiß, der Schiffbruch dieses elenden Dampfers, dem wir uns niemals hätten anvertrauen sollen, hat Ihnen Ihre irdischen Güter in Gestalt von Banknoten genommen. Aber mir ist mehr verloren gegangen, – ein Kind meiner Muse, das unter dem Himmel Venezuelas in dreijähriger Arbeit herangereift ist, ein Drama, das berufen gewesen wäre, selbst Schillers unsterbliche „Jungfrau von Orleans“ in den Schatten zustellen.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (046) Der Waldmensch von Tortaterra.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>

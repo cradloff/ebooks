@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">933084da-3e8c-11e8-87fc-0f396fd8fa44</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die vier Palmen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">49</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Mein Herr, auf diese Weise kommen wir wirklich nicht zum Ziel! Ich muß wissen, wen ich vor mir habe, bevor ich mich überhaupt auf eine vertrauliche Unterredung, um die Sie gebeten haben, einlasse. Bedenken Sie, daß wir uns mitten im Weltkrieg befinden, daß gerade wir Deutschamerikaner von englischen Spione umlauert sind, genau aufpassen, ob wir uns vielleicht in unseren Sympathien für das alte Vaterland drüben zu einem Unternehmen verleiten lassen, aus dem man uns einen Strick drehen kann.“
+
+Der, der so sprach, war ein hochgewachsener, graubärtiger, älterer Herr. Er saß seinem Besucher in seinem Privatkontor gegenüber, einem reich ausgestatteten Raume, aus dem eine gepolsterte Doppeltür in die übrigen Bureausäle der Instrumentenfabrik Karl Reimer und Sohn führte.
+
+Diese Firma war in zweifacher Beziehung die erste in San Franzisko. Einmal, weil sie als erste Fabrik dieser Art in der Hauptstadt des westlichen Amerikas gegründet worden war, dann aber auch, weil sich ihre drei Konkurrenten in keiner Weise mit ihr messen konnten. Ihr Ausfuhrgebiet umspannte die Erde bis nach New York, Indien und Australien, die Zahl ihrer Arbeiter ging in die Tausende und die Reimerpianos und -flügel hatten längst Weltruf erlangt.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (049) Die vier Palmen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
