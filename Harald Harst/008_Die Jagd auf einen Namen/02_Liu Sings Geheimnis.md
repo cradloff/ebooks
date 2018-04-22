@@ -222,7 +222,7 @@ In das glatte Gold der Innenseite war mit einer feinen
 Nadel etwas eingeritzt — ein einzelnes Wort mit sehr ungeschickten
 lateinischen Buchstaben. Ich hatte es als
 
-<p align="center">Ritbilf</p>
+<p style="text-align: center;">Ritbilf</p>
 
 entziffert. — Damit war ich aber auch mit meiner Kunst am
 Ende. Dieses Ritbilf verriet mir nichts mehr, nur das eine
