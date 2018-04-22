@@ -1,7 +1,8 @@
+<@pagebreak/>
+
 Die Jagd auf einen Namen
 ========================
 
-<@pagebreak/>
 Kommerzienrat Kammler, der Beauftragte der Wettgegner 
 Harald Harsts, war soeben gegangen und hatte noch zum
 Abschied uns von der Tür aus zugerufen: »Viel Glück! An
@@ -445,7 +446,7 @@ Harst gähnte jetzt sehr zwanglos. Das war für mich das
 Signal zum Verschwinden. Wir sagten uns gute Nacht, und
 ich ging in meine Wohnung hinüber.
 
-Als ich dann um 11 Uhr vormittags gerade beim Frühstück<@refnote 1/>
+Als ich dann um 11 Uhr vormittags gerade beim Frühstück
 die Morgenzeitung durchsah, trat Harst sehr hastig ein. »Tag,
 Schraut. Mir werden gleich Besuch bekommen. Ich bin nicht
 <@pagebreak/>

@@ -23,7 +23,11 @@
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG</entry>
+<entry key="description">Wieder erhält Liebhaberdetektiv Harald Harst von seinen Wettgegnern neue Aufgaben.
+
+Im ersten Fall soll Harst die Identität des Einbrecherkönigs Andreas Nemo offenlegen.
+
+Im zweiten Fall muss er die gestohlene Leiche des chinesischen Kochs Liu Sing wieder auffinden.</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
