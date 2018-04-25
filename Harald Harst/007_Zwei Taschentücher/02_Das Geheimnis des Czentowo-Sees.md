@@ -497,7 +497,7 @@ Jeder Reiz würde schwinden. Gerade das macht ja das Anregende dieses Berufs
 aus, daß man zu stetem schärfsten Denken gezwungen ist. Ich habe mir zum
 Beispiel soeben nochmals die Worte durch den Kopf gehen lassen, die von dem,
 was ich vorhin in Blenkners Garten erlauschte allein Beachtung verdienen. Es
-ist dies dir halben Sätze aus Bollschwings Munde: „– nie vergessen, daß er ein
+ist dies die halben Sätze aus Bollschwings Munde: „– nie vergessen, daß er ein
 sehr gefährlicher Gegner ist und –“ Ich bin nicht eingebildet, aber – ich
 möchte wetten, diese Worte bezogen sich auf mich. Der Direktor wird die Alte
 vor mir gewarnt haben.“
