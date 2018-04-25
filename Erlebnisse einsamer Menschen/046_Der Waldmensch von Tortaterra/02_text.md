@@ -152,7 +152,7 @@ klettert er umher. Es muß ein Gorilla oder dergleichen sein. Das ist sicher …
 
 Mit einemmal<@refnote 1/> sprang er auf, ergriff einen der größeren Brände und
 schleuderte ihn wie eine glühende Keule auf den verborgenen Feind. Wenn er auch
-diesen nicht traf, so erziele er doch immerhin eine gewisse Wirkung. Der
+diesen nicht traf, so erzielte er doch immerhin eine gewisse Wirkung. Der
 Feuerbrand flog gegen einen starken Ast und sandte einen Funkenregen noch ein
 Stück höher hinauf. Und bei dieser Augenblicksbeleuchtung bemerkte der kühne
 Schiffsjunge nun deutlicher als vorhin den angriffslustigen Feind. Das aber,
@@ -523,7 +523,7 @@ Einzelheiten der Erscheinung des halb zum Tiere gewordenen Inselbewohners in
 sich aufzunehmen: Das von einer Schmutzkruste überzogene Gesicht mit den
 großen, flackernden Augen, das lange Kopf- und Barthaar, das stellenweise zu
 ganzen Klumpen sich verfilzt hatte, die krallenähnlichen Fingernägel und die
-wie aus Erz gegossene Muskulatur den rechten Unterarmes, die sich selbst unter
+wie aus Erz gegossene Muskulatur des rechten Unterarmes, die sich selbst unter
 der Schmutzborke deutlich abzeichnete.
 
 Jedenfalls war dieser Wahnsinnige eine Gestalt, wie sie grausiger die Phantasie

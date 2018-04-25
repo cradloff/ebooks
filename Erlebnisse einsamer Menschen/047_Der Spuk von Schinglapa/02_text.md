@@ -164,7 +164,7 @@ letzten größeren indischen Orte, sozusagen von der Straße aufgelesen. – Auc
 dieser To-Tsaka litt an einem körperlichen Gebrechen. Er war stumm. Außerdem
 aber auch von einer Faulheit, die ihm manchen Puff und manches harte Wort
 eintrug. Doch nichts war imstande, ihn aus seiner Trägheit aufzurütteln.
-Wunderbar war es, daß Karl Herrich sich gerade zu dem kleine Chinesen seltsam
+Wunderbar war es, daß Karl Herrich sich gerade zu dem kleinen Chinesen seltsam
 hingezogen fühlte. Sie wurden bald Freunde, und der stotternde Radschpute
 verrichtete manche für To-Tsaka bestimmte Arbeit, nur um den Jungen vor
 Scheltworten und körperlichen Züchtigungen zu bewahren.

@@ -304,7 +304,7 @@ Celebes begegnete meine Prau ihm. Leichte Beute schien’s zu sein. Es kam
 anders. Als einziger schwamm ich an Land. Meine Leute waren den Gewehren der
 Engländer unterlegen. Ich selbst hatte zwei Streifschüsse. Ein Missionar nahm
 mich auf, verbarg und pflegte mich. Ich wurde ein Christ, schwor Mohammed und
-die Propheten ab und lernte zur Jungfrau Maria beten. Aber das ist alles lange,
+dem Propheten ab und lernte zur Jungfrau Maria beten. Aber das ist alles lange,
 lange her.“
 
 Der Alte erhob sich jetzt wieder. „Weißer Sahib, ich werde Blätter suchen, sie
@@ -488,7 +488,7 @@ gut fünfzehn Meter Höhe mit steilen, glatten Wänden. Am Fuße dieses von der
 Natur geschaffenen Bauwerkes wucherte ein Wall von Disteln und Dornengestrüpp,
 der undurchdringlich schien. Dennoch gab es einen Weg durch diesen stachligen
 Verhau und zwar in Gestalt eines Felsloches, das durch einen Abhang sich
-hindurchzog und dicht vor dem Turme mündete Der Zugang zu diesem Felsengange,
+hindurchzog und dicht vor dem Turme mündete. Der Zugang zu diesem Felsengange,
 der etwa fünf Meter lang war, wurde von einer Steinplatte unauffällig verdeckt.
 Und hier schlüpften die beiden Deutschen jetzt hinein, schoben hinter sich die
 Platte wieder vor und betraten das Innere des mächtigen Felsens durch eine

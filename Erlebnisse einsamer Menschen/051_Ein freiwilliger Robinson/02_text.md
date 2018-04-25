@@ -824,7 +824,7 @@ Schwere Stürme hatten den Segler jedoch weit nach Südwesten aus seinem Kurse
 verschlagen und schließlich an der Gralster-Insel scheitern lassen, eine
 Katastrophe, die Fritz Peters offenbar als einziger der Besatzung überstanden
 hatte. Lange Zeit war er bewußtlos gewesen, nachdem die Wogen ihn auf dem
-Westteil des Eilandes an Land beworfen hatten. Als er zu sich kam, war es
+Westteil des Eilandes an Land geworfen hatten. Als er zu sich kam, war es
 bereits heller Tag. Dann hörte er einen dumpfen Knall, ohne Zweifel einen
 Schuß. Dies konnte nur derjenige gewesen sein, den Fechtler abgefeuert hatte,
 um die Brauchbarkeit des Pulvers zu prüfen. Da hatte der Knabe bemerkt, daß

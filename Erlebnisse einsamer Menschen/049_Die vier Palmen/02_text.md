@@ -522,7 +522,7 @@ erworben hatte. – Der Proviant wieder genügte für die beiden Gefährten auf 
 eine Woche, so daß sie also ihr Robinsondasein unter recht günstigen
 Bedingungen beginnen konnten.
 
-Als Mörner den Stutzen erwähnt hatten äußerte der Junge bescheiden den Wunsch,
+Als Mörner den Stutzen erwähnt hatte, äußerte der Junge bescheiden den Wunsch,
 die eigenartige Waffe sich einmal ansehen zu dürfen. Die Bitte wurde gern
 erfüllt und nachher legte der Millionär die kurze Büchse neben sich ins Gras.
 
