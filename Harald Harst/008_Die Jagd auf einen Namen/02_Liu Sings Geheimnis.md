@@ -62,7 +62,7 @@ träumerischen Zauber eines orientalischen Gartenbildes
 vorzutäuschen.
 
 »Wir sind hier ziemlich sicher jetzt,« meinte Harst.
-»Malzahn ist verreist, wie ich im Klub Von seinem Freunde
+»Malzahn ist verreist, wie ich im Klub von seinem Freunde
 Bruchfeld mir erzählen ließ. Bruchfeld gehört nicht zu unseren
 Wettgegnern und weiß daher nicht, daß wir jetzt für diese
 prächtige Besitzung Interesse haben. Unsere Aufgaben werden
@@ -198,7 +198,7 @@ Sie — ich fand ihn um neun im Klubsessel am Fenster
 seines Arbeitszimmers fest schlafend. Er war gar nicht zu
 Bett gegangen. Auf seinem Knie lag dies Armband.« Sie
 holte es aus der Tasche der Wirtschaftsschürze hervor. »Ich
-sollte es Ihnen geben. Dann — hätten Sie etwas Arbeit.
+sollte es Ihnen geben. Dann — hätten Sie etwas Arbeit,
 meinte er. — Ein wundervoller Schmuck, Herr Schraut, nicht
 wahr? — Harald sagt mir, er hätte ihn von einer Inderin
 als Vorausbezahlung für einen kleinen, später zu leistenden
@@ -305,7 +305,7 @@ auch die Polizeihunde, durch die man die Fährten der
 Diebe hatte verfolgen wollen. Malzahn, der große Stücke
 auf den Chinesen, einen älteren Mann, hielt, hatte am 12.
 3000 Mark Belohnung für die Wiederherbeischaffung der
-Leiche ausgesetzt Er, dessen Reichtum dem der Rotschilds
+Leiche ausgesetzt. Er, dessen Reichtum dem der Rotschilds
 nicht viel nachsteht, konnte sich diese dreitausend Mark schon
 leisten. Am 14. hatte er die Belohnung auf 10000 Mark erhöht.
 Inzwischen war auch Phönix freiwillig in Tätigkeit
@@ -336,7 +336,7 @@ Harsts Nähe notwendig üppig emporsprießen mußte.
 
 Karl Malke schoß weiter hinten im Garten mit einem
 Tesching Spatzen, die es auf frisch gesäten Grassamen abgesehen
-hatten. Ich hörte zwei Schlüsse. Nun kam er stolz mit
+hatten. Ich hörte zwei Schüsse. Nun kam er stolz mit
 vier erlegten Sperlingen an.
 
 »Ich habe jetzt im ganzen acht geschossen,« sagte er nach
@@ -366,7 +366,7 @@ Das war eine böse Geschichte für mich. Was sollte ich
 diesem Menschen nun vorlügen, der annahm ich als Harsts
 Privatsekretär wüßte genau Bescheid?!
 
-Der Inder der sich Marawatha nannte, sprach sehr
+Der Inder der sich Marwatha nannte, sprach sehr
 <@pagebreak/>
 gebrochen deutsch, hatte im übrigen tadellose Umgangsformen
 und ein Gesicht von einem so nichtssagenden, undurchdringlichen
@@ -421,7 +421,7 @@ ruhten nun genau so unverwandt auf Harsts Gesicht wie
 vordem auf dem meinen. Er wiederholte jetzt sein Angebot, Harst
 möchte die Leiche suchen helfen.
 
-»Schickt Dein Herr Dich« fragte Harst nach kurzem Ueberlegen.
+»Schickt Dein Herr Dich?« fragte Harst nach kurzem Ueberlegen.
 
 »Jawohl, Sahib. Ich erhielt heute früh eine Depesche
 von ihm, daß ich Dich aufsuchen sollte. Ich wäre also auch
@@ -514,7 +514,7 @@ Stückchen blaugraues, gestreiftes Papier.
 »Dies sollte die Siegelmarke ersetzen, Schraut,« sagte er
 und kniff die Augen bis auf einen schmalen Spalt zusammen.
 »Sie glauben, Marwatha ist der Fälscher? — Ausgeschlossen!
-Dazu ist er denn doch zu fremd in Deutschland zu wenig vertraut
+Dazu ist er denn doch zu fremd in Deutschland, zu wenig vertraut
 mit Depeschen und so weiter. Ich habe ihn vorhin nicht
 nur deshalb hier festgehalten, um ihn die Depesche vergessen
 zu lassen. Nein, ich wollte ihn auch aushorchen. Er steht
@@ -628,7 +628,7 @@ kennt keine Giftschlangenstiche. Ich wette, Liu Sings Spicknadel
 waren die Giftzähne einer ausgewachsenen Kobra — einer
 indischen Brillenschlange.« — Er stand auf, setzte sich an
 den Flügel und begann ben Tagores Lied — das Schicksal
-Indiens — zu spielen Und zu diesen trostlosen Klängen
+Indiens — zu spielen. Und zu diesen trostlosen Klängen
 paßten recht gut die nun folgenden Sätze: »Malzahn hat
 durch seine Reisen die Gewohnheiten eines orientalischen Despoten
 angenommen. Sein Koch wird ihm aus irgend einem
@@ -642,7 +642,7 @@ gewiß. Nur eine seiner Orientalinnen, die irgendwie
 die Wahrheit erfahren haben mag, fürchtet er, sperrt sie ganz
 oben in den Turm ein und läßt sie scharf bewachen. Da —
 wird die Leiche — angeblich gestohlen. — Bis hierher können
-wir ganz zwanglos uns ein Bild der Vorgänge konstruieren
+wir ganz zwanglos uns ein Bild der Vorgänge konstruieren.
 Mit dem Leichenraub beginnen die Schwierigkeiten für uns.
 Wir wissen, daß die Fenstergitter von innen beseitigt sind,
 um diesen Raub vorzutäuschen. Wie kann man nun das, was
@@ -803,7 +803,7 @@ Ich schmiegte mich ganz dicht an die glattgeschorenen Zweige,
 ganz dicht. Meine Augen gewöhnten sich langsam an das
 Dunkel. Mein Herz hämmerte weiter. Ich besinne mich, daß
 ich damals an mein schönes, weiches Bett im Harstschen Hause
-voller Sehnsucht gedacht halte und daß mein Gedanken dann
+voller Sehnsucht gedacht habe und daß meine Gedanken dann
 abirrten — weit hin nach Pommern, nach einem Erdbegräbnis,
 in das Harst und ich nachts in Gesellschaft mehrerer Herren
 eindrangen. Das war auch eine Gelegenheit, die Nerven
@@ -845,7 +845,7 @@ das Harst mir aus seiner Waffensammlung herausgesucht
 hatte. Es war ein langer persischer Dolch, haarscharf und leicht
 gekrümmt.
 
-Der Qualm reichte bis zu mir hin. Ich wußte niesen,
+Der Qualm reichte bis zu mir hin. Ich mußte niesen,
 hielt mir schnell die Nase zu, wich nach rechts aus etwa zehn
 Schritt weit, sehr eilig, — prallte in meiner Hast gegen etwas
 Weiches, gegen einen — Menschen, hob schon in der ersten
@@ -864,7 +864,7 @@ Wir kamen ohne Zwischenfall vor die kleine Moschee mit
 den vier Eckminaretts. Im Obergeschoß waren zwei der kleinen,
 bunten Fenster erhellt.
 
-»Dort wohnt Marawatha,« flüsterte Harst mir zu. »Ich
+»Dort wohnt Marwatha,« flüsterte Harst mir zu. »Ich
 war heute bei dem Wärter der Schließgesellschaft, der diesen
 Block unter sich hat. Der Mann kennt den Gärtner Malzahns
 ganz genau und war verschiedentlich im Park.« —
@@ -953,7 +953,7 @@ interessant werden würde. Die Nebelbomben haben sich bewährt.
 Ich selbst kam freilich nicht in die Verlegenheit, eine
 schleudern zu müssen. Ich hatte mich mehr aufs Angeln gelegt —«
 
-Er trank mir zu, nahm eine neue Mirakulum hielt mir
+Er trank mir zu, nahm eine neue Mirakulum, hielt mir
 ebenfalls das silbergetriebene Kästchen hin.
 
 Es geschah selten, daß er mir gerade eine Mirakulum anbot.
@@ -995,7 +995,7 @@ bereits ein Bild entworfen, diese Phantasie, scheinbar auf einem
 Hintergrund von Tatsachen, — aber — das Bild war
 Stümperei, taugte nichts.«
 
-Er trank, rauchte ein Paar Züge.
+Er trank, rauchte ein paar Züge.
 
 »Ganz leicht war es nicht,« fuhr er fort, »den Turm geräuschlos
 zu erklettern. Aber — es gelang. Ich pochte oben
@@ -1011,7 +1011,7 @@ klassisch schöne Weiber geben, wie mir bekannt ist. — Malzahn
 besitzt Ralkonda bereits zwei Jahre. Sie liebt ihn.
 Und sie glaubt, nur ihr gehöre auch seine Liebe. Er hat ihr
 kurz vor Liu Sings Ende versprochen, sie zu seiner rechtmäßigen
-Gattin zu machen. Aber — auch Marawatha stellte
+Gattin zu machen. Aber — auch Marwatha stellte
 ihr, kaum daß er sie gesehen, mit leidenschaftlichen Wünschen,
 aber mit aller Vorsicht nach. Sie besitzt nun eine zahme Kobra,
 soweit diese scheußlichen, sich aufblühenden Giftträger überhaupt
@@ -1064,8 +1064,8 @@ Er rauchte hastiger. Dann: »Nun werden Sie wissen
 wollen: wie kam ich in Besitz des Stückes Menschenhaut der
 Tätowierung von der Brust Liu Sings! — Das ist eine
 Geschichte für sich und — für später! Dieses Stück Haut, das jemand
-in Spiritus aufbewahrt hat ist vielleicht die einzige
-Möglichkeit, all unser Material darauf wie aus einer Schnur
+in Spiritus aufbewahrt hat, ist vielleicht die einzige
+Möglichkeit, all unser Material darauf wie auf einer Schnur
 die Perlen logisch aufreihen zu können. — Bitte, holen Sie
 mir doch mal aus der Bibliothek das Werk Professor Mautners
 über »Tätowierungen bei Naturvölkern«.
@@ -1076,9 +1076,9 @@ mir doch mal aus der Bibliothek das Werk Professor Mautners
 Harst klappte dies Buch zu.
 
 »Schade,« meinte er. »Es bringt nichts Neues. — Ich
-denke, wir gehen zu Bett Schraut —« Er gähnte. Aber —
+denke, wir gehen zu Bett, Schraut —« Er gähnte. Aber —
 — es war ein Theatergähnen — nicht echt. »Ich werde mir
-doch noch überlegen, ob ich die Polizei verständige,« sagte er.
+doch noch überlegen, ob ich die Polizei verständige,« sagte er,
 als er mir die Hand gab. »Gute Nacht. Sollte ich morgen
 nicht zu Hause sein, so beruhigen Sie meine Mutter. Ich
 möchte einige dringende Besuche erledigen. Sie soll sich nicht
@@ -1087,7 +1087,7 @@ sorgen; sie sind ganz harmlos.«
 Ich setzte mich in meiner Studierstube noch an den
 Schreibtisch und dachte über Harsts letzte Sätze nach. Ich kam
 sehr bald zu der Ueberzeugung, daß er mit mir wieder einmal
-Versteck spielte. Er Wollte die Polizei doch vielleicht nicht
+Versteck spielte. Er wollte die Polizei doch vielleicht nicht
 verständigen und — dringende Besuche! — Ob das Werk über
 Tätowierungen wirklich nichts enthalten hatte, was er für
 seine Zwecke brauchen konnte?!
@@ -1115,7 +1115,7 @@ saß ein hagerer, großer Herr, tief gebräuntes Gesicht, zwei
 Schmißnarben am Kinn, blonden Spitzbart helle durchdringende
 Augen.
 
-Er stieg aus schaute mich prüfend an, faßte an den Hut.
+Er stieg aus, schaute mich prüfend an, faßte an den Hut.
 
 »Mit wem habe ich die Ehre?«
 
@@ -1246,7 +1246,7 @@ Worte Ritbilf zu. Ich entzifferte dieses als Bitt Hilf
 — also Bitte Hilfe. Die Polizei ließen wir bei dem Glauben,
 ich hätte den Armreif gefunden. Sehr bald erschien Marwatha
 hier bei uns mit einer Depesche, die ich als Fälschung
-durchschaute. Sie besagte, daß Marawatha mir 50000 Mark
+durchschaute. Sie besagte, daß Marwatha mir 50000 Mark
 für die Uebernahme des Falles bieten sollte. Auf Grund der
 soeben angeführten Tatsachen entwarf ich nun folgenden
 Zusammenhang der Vorgänge.«
@@ -1267,7 +1267,7 @@ Kerker. Sie erzählte mir durch die kleine Luftscheibe folgendes.«
 Was Harst jetzt vortrug ist bekannt.
 
 »Ich zweifelte nicht an der Wahrheit dieser Angaben,«
-setzte er seine Erörterungen fort, »Ralkonda hatte allen
+setzte er seine Erörterungen fort. »Ralkonda hatte allen
 Grund, mir gegenüber offen zu sein. Von mir erwartete sie
 <@pagebreak/>
 ja ihre Befreiung. Hatte schon die Tatsache, daß man die
@@ -1352,7 +1352,7 @@ Dein Sahib, traurig über der Inderin Treulosigkeit, verließ
 sein Heim, blieb aber in Berlin. Als das Armband gefunden
 wurde, teiltest Du ihm dies sofort mit. So wurde er an mich
 als den Liebhaberdetektiv erinnert. Er wollte nun durch mich
-den Todesfall Liu Sings in der Hoffnung naher untersuchen
+den Todesfall Liu Sings in der Hoffnung näher untersuchen
 <@pagebreak/>
 lassen, daß vielleicht doch Ralkonda weniger schuldig war als
 es schien, als Du ihm eingeredet hattest. Er liebt sie, er hat
@@ -1381,7 +1381,7 @@ Weib eine Inderin von berückender Schönheit ist und — daß
 der Schatz von anderen längst gehoben war. —
 
 Am Abend desselben Tages an dem Harst in so genialer
-Weise Marawatha entlarvte, erhielt er von Kammler einen
+Weise Marwatha entlarvte, erhielt er von Kammler einen
 Brief zugeschickt, der unsere nächste Ausgabe enthielt.
 
 Sie lautete: Was treibt die geheimnisvolle Jacht an den

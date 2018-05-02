@@ -1,7 +1,7 @@
 <@pagebreak/>
 
-Die Jagd auf einen Namen
-========================
+Die Jagd auf einen Namen.
+=========================
 
 Kommerzienrat Kammler, der Beauftragte der Wettgegner 
 Harald Harsts, war soeben gegangen und hatte noch zum
@@ -45,7 +45,7 @@ Gesicht bekommen hat und der doch fraglos existiert, Näheres
 gehört haben — Erzählen Sie.«
 
 »Viel ist’s leider nicht. — Wir von der Zunft verkehrten
-damals in einem Kellerlokal in der Huttenstraße in Moabit
+damals in einem Kellerlokal in der Huttenstraße in Moabit.
 Es hieß »Zur Mutter Schmidt«. Im Hinterzimmer, an dem
 stets eine Papptafel »Reserviert« hing, tagte jeden Abend ein
 Gesangverein »Kleine Harmonie«, dessen Mitglieder sämtlich
@@ -62,7 +62,7 @@ unter den drei Schankräumen, und der Speisenaufzug ging
 an der Wand des stets reservierten Zimmers in Gestalt eines
 quadratischen Schachtes vorüber. — So, nun will ich mich
 kürzer fassen. Es gelang mir, von diesem Schacht aus ein
-Loch durch die nur einen Stein starke Wand herzustellen Es
+Loch durch die nur einen Stein starke Wand herzustellen. Es
 mündete unter einem imitierten, hohlen Wildeberkopf aus
 Gips. Wenn ich diesen Kopf mit einem durch das Loch 
 gesteckten Stäbchen etwas von der Wand abhob und ihn in 
@@ -79,7 +79,7 @@ hören. Zunächst merkte ich bald, daß die Kleine Harmonie nichts
 anderes war als ein Geheimbund von Verbrechern mit sehr
 strengen Satzungen. Verrat wurde mit dem Tode bedroht.
 Die Beute wurde stets unter die 31 Mitglieder geteilt. Dafür
-mußten aber auch alle gleichmäßig mithelfen. ein »neues Ding
+mußten aber auch alle gleichmäßig mithelfen, ein »neues Ding
 zu drehen«, die Sache auszubaldowern, Schmiere zu stehen
 <@pagebreak/>
 und so weiter. — Ich sagte 31 Mitglieder. Das 32. kannte
@@ -106,15 +106,15 @@ Andreas Nemo zum ersten Mal auf.«
 
 Harst erhob sich plötzlich aus seinem Schreibsessel und
 ging mit einem »Einen Augenblick, lieber Schraut« in seine
-Bibliothek hinüber kehrte dann mit einem Stoß sorgfältig
+Bibliothek hinüber, kehrte dann mit einem Stoß sorgfältig
 geordneter Zeitungen zurück.
 
 »Helfen Sie mir die betreffenden Nummern von etwa
-vor einem Monat suchen, « meinte er.
+vor einem Monat suchen,« meinte er.
 
 Wir hatten die drei Zeitungen bald gefunden.
 
-Harst las vor. »Nummer eins — vom 12. April.
+Harst las vor. »Nummer eins — vom 12. April.«
 
 »Die Geldschrankeinbrüche mehren sich wieder geradezu
 erschreckend. Es scheint fast, als wäre jene Zeit wieder 
@@ -144,7 +144,7 @@ Angaben liefern. Nur muß Ihr Chefredakteur mir ehrenwörtlich
 versprechen, niemandem, sei es, wer es sei, irgendwelchen
 Aufschluß über meine Person zu geben. Rücken Sie in Ihr
 Blatt unter »Nemo« im lokalen Teil eine zustimmende 
-Erklärung ein, falls Sie auf mein Angebot eingehen wollen.
+Erklärung ein, falls Sie auf mein Angebot eingehen wollen,
 das doch für Sie eine glänzende Reklame sein wird. Finde
 ich diese Notiz, so hören Sie mehr von mir.«
 
@@ -155,7 +155,7 @@ Meinung sein und die 10000 Mark opfern wollen, so mag er
 sich schriftlich oder persönlich bei uns melden.«
 
 Harst legte diese Zeitungsnummer zu den anderen zurück
-und sagte: »Da das Blatt »dieses annonyme Schreiben nie
+und sagte: »Da das Blatt dieses annonyme Schreiben nie
 mehr erwähnt hat, dürfte keiner der Leser 10000 Mark übrig
 gehabt haben. — Nun — wir wissen jetzt jedenfalls — 
 hauptsächlich durch Sie, lieber Schraut, — über Nemo doch schon so
@@ -191,19 +191,19 @@ wenn mein Brotherr arbeitete.
 
 Seit fast zwei Jahren war ich nicht in dieser Gegend 
 gewesen. Ich wußte nicht, ob »Mutter Schmidt« noch lebte. —
-Nun — das Schanklokal war verschwunden In den Räumen
+Nun — das Schanklokal war verschwunden. In den Räumen
 befand sich jetzt ein Obstladen — Schade! Ich hätte so
 gern Mutter Schmidt gesprochen. Vielleicht — vielleicht hatte
 sie inzwischen was Neues über Andreas Nemo gehört. Ich
 brauchte ja mit — Bestechungsgeldern als Gehilfe eines
-mehrfachen Millionärs nicht sparsam umzugehen
+mehrfachen Millionärs nicht sparsam umzugehen.
 
 Ich wollte schon umkehren, als ich auf den Gedanken
 kam, doch einmal bei dem Obsthändler anzuklingeln und nach
 Mutter Schmidts Verbleib mich zu erkundigen. So erfuhr
 ich, daß sie — gestorben war und zwar sehr bald nach der
 Aushebung der Kleinen Harmonie durch die Kriminalpolizei.
-Ich blieb bei dem Obsthändler eine gute Stunde Dann wanderte
+Ich blieb bei dem Obsthändler eine gute Stunde. Dann wanderte
 ich ein weites Stück des Weges zu Fuß heim. Die Nacht
 war so mild, und ich hatte ja in den letzten Tagen als 
 »gelähmter Schrammel« so gut wie gar keine Bewegung gehabt.
@@ -244,7 +244,7 @@ Schmidt lebendig werden ließ, war mir doch zu viel.
 »Ich glaube, daß sie nicht anwesend war,« lachte ich. »Sie
 müßte denn gerade als Geist auftreten. Sie meinen natürlich,
 Sie haben ein Lokal mit demselben Namen — Zur Mutter
-Schmidt — gefunden«
+Schmidt — gefunden.«
 
 Er drehte sich nach mir um. Seine Miene war ernst,
 bedeutungsschwer. »Lieber Schraut,« sagte er ganz leise, »sie
@@ -270,11 +270,11 @@ bereits drei Probleme gelöst haben, die immerhin einige
 Schwierigkeiten und daher genügend Gelegenheit zum Lernen
 boten. — Sie wissen, ich hasse überflüssige Worte. Unsere
 Papierfabriken würden zur Hälfte pleite gehen, wenn alle
-die Feder führenden Leute sich daran gewöhnen wollten
+die Feder führenden Leute sich daran gewöhnen wollten,
 Selbstverständliches fortzulassen und das Publikum zu zwingen
 beim Lesen ein wenig zu denken. Ich könnte zum Beispiel
 beginnen: Als ich in die Huttenstraße aus dem Hause kam,
-in dem der Besitzer jenes Gebäudes wohnt das einst das 
+in dem der Besitzer jenes Gebäudes wohnt, das einst das 
 <@pagebreak/>
 Lokal Zur Mutter Schmidt beherbergte, erblickte ich meinen
 treuen, fleißigen Mitarbeiter Max Schraut, der mit enttäuschtem
@@ -326,7 +326,7 @@ Beweis ihrer schnell erwachten Zuneigung, die wohl dem
 gutsituierten Witwer galt, geben wollte. Unter dem Siegel 
 allertiefster Verschwiegenheit — keine Seele wüßte bisher 
 etwas davon! — erzählte sie mir, daß die Schmidt häufiger bei
-ihr gewiesen wäre und daß sie den Eindruck gewonnen hätte,
+ihr gewesen wäre und daß sie den Eindruck gewonnen hätte,
 die Kneipwirtin wäre weit über das landläufige Maß einer
 Berliner Kaschemmenwirtin hinaus gebildet. — Ueberhaupt,
 sie war eine merkwürdige Frau, sagte die Mallinger ungefähr.
@@ -352,7 +352,7 @@ wurde begraben. Sehr anständig und mit viel Blumen. Ich
 folgte auch. Es waren einige dreißig Leute auf dem Kirchhof,
 meist frühere Gäste von ihr; Verwandte gar nicht. — Anderthalb
 Jahre vergingen. Da — es war ein Januar — begegnete
-ich auf dein Stadtbahnhof Schöneberg oben auf dem
+ich auf dem Stadtbahnhof Schöneberg oben auf dem
 Bahnsteig einer mittelgroßen, rundlichen, einfach gekleideten
 Frau bei deren Anblick ich wie vor einem Gespenst zurückfuhr.
 Mit Recht — denn diese Frau war — Mutter Schmidt,
@@ -448,7 +448,7 @@ ich ging in meine Wohnung hinüber.
 
 Als ich dann um 11 Uhr vormittags gerade beim Frühstück
 die Morgenzeitung durchsah, trat Harst sehr hastig ein. »Tag,
-Schraut. Mir werden gleich Besuch bekommen. Ich bin nicht
+Schraut. Wir werden gleich Besuch bekommen. Ich bin nicht
 <@pagebreak/>
 zu Hause. Sie empfangen für mich und lassen sich erzählen,
 was die Dame wünscht. Und den zweiten Besucher hören Sie
@@ -484,8 +484,8 @@ bestehen sollte, daß ich ihn nenne, werde ich ihm allein
 anvertrauen, wer ich bin. — Ich will mich kurz fassen. Ich habe
 einen Bekannten —« Sie unterbrach sich, fragte hastig: »Ist
 jemand dort im Nebenzimmer? Mir war’s, als hörte ich ein
-leises Geräusch« — »Es ist niemand dort, meine Gnädige.
-Aber zu Ihrer Beruhigung kann ich ja nachsehen« Ich 
+leises Geräusch.« — »Es ist niemand dort, meine Gnädige.
+Aber zu Ihrer Beruhigung kann ich ja nachsehen.« Ich 
 betrat die Bibliothek. Links neben der Tür stand Harst, legte
 den Zeigefinger auf die Lippen und nickte mir mit einem so
 merkwürdigen Gesichtsausdruck zu, daß ich sofort ahnte,
@@ -501,7 +501,7 @@ mit leiserer Stimme fort, indem sie ängstlich nach dem
 türkischen Vorhang blickte, der die Bibliothek von dem
 Arbeitszimmer trennte.
 
-»Dieser Bekannte ist ein junger Bildhauer Er wohnt in
+»Dieser Bekannte ist ein junger Bildhauer. Er wohnt in
 Charlottenburg in der Heykingstraße am Bahnhof in einem
 Atelier. Er heißt — Erwin Bruckner. Seit acht Tagen ist
 er spurlos — verschwunden.« Ich merkte — sie kämpfte mit
@@ -624,7 +624,7 @@ Eine Viertelstunde darauf verließ Zenta Brixen uns.
 Sie hatte Harst sehr bald ihren Namen genannt.
 
 Harst legte Bart und Perücke ab, wanderte langsam im
-Zimmer auf und ab. — »Ein merkwürdiger Reinfall Schraut.
+Zimmer auf und ab. — »Ein merkwürdiger Reinfall Schraut,
 nicht wahr?« meinte er nach einer Weile. »Als ich Fräulein
 Brixen vom Fenster aus sah, wie sie so zögernd auf unser
 Haus zusteuerte und es von oben bis unten betrachtete,
@@ -656,11 +656,11 @@ Frau krank. Ich habe Verständnis für seine traurige Lage.
 Er bleibt im Klub.« — »Und wieviel Geld haben Sie ihm
 noch geschenkt?« fragte ich schnell — »Das geht Sie nichts
 an, Schraut. Ich verbitte mir solche Fragen —« — Aha —
-er wurde böse weil er nicht wollte daß ich sein gutes Herz
+er wurde böse, weil er nicht wollte, daß ich sein gutes Herz
 von neuem pries. —
 
-»Ich nahm also an.« sprach er dann weiter, indem er
-am Fenster die beiden Zettel Bruckners betrachtete. »auch Nemo,
+»Ich nahm also an,« sprach er dann weiter, indem er
+am Fenster die beiden Zettel Bruckners betrachtete, »auch Nemo,
 den ich in wahrem Einverständnis mit der mysteriösen
 Mutter Schmidt vermutete und auch noch jetzt vermute, hätte
 diese jüngste Notiz über die Millionenwette gelesen und die
@@ -672,12 +672,12 @@ Zenta Brixen bezeichnete ja die »Frau auf der Treppe«
 als rothaarig und — einfach gekleidet. Dies genügte mir zu
 der verfehlten Schlußfolgerung, daß die Verschleierte uns nur
 ein Märchen aufband und lediglich herausbringen wollte, ob
-mir schon auf das Lokal in der Berliner Straße und seine 
-Inhaberin aufmerksam gewunden wären. — Ich habe mich diesmal
+wir schon auf das Lokal in der Berliner Straße und seine 
+Inhaberin aufmerksam geworden wären. — Ich habe mich diesmal
 gründlich verhauen, so gründlich wie noch nie, und Zenta
 Brixen hatte allen Grund zum Lachen, als ich die große 
 Ueberführungsszene spielte, was ich ohne Schaden für uns tun zu
-können glaubte, da Nemo ja doch bereits durch die Zeltungsnotiz
+können glaubte, da Nemo ja doch bereits durch die Zeitungsnotiz
 vor uns gewarnt ist.«
 
 Er ließ sich in den Ledersessel am Fenster fallen und strich
@@ -707,9 +707,9 @@ nichts zu hören bekommen würde. So machte Harst es ja
 immer mit mir: Mitarbeiter war ich, aber nie Mitwisser —
 sondern stets nur — Späterwisser!
 
-Und — so war’s auch. — »Schraut, mir wollen mal jetzt
+Und — so war’s auch. — »Schraut, wir wollen mal jetzt
 schnell wiederholen, was wir über und von Zenta Brixen wissen,«
-sagte er, bereits wieder in seiner bedächtigen» grüblerischen
+sagte er, bereits wieder in seiner bedächtigen, grüblerischen
 Art. »Vater Rentier, wohlhabend, Witwer. Fünfzimmerwohnung
 in der besten Gegend, Kalckreuthstraße 12. Zenta
 einziges Kind. Sie lernt bei Bekannten den Bildhauer,
@@ -734,7 +734,7 @@ Sie?"
 
 »Daß in dieser fünfzigfachen Vergrößerung dieser
 Buchstabe N nicht aus glatten, in einem Schwunge hingeworfenen
-Schleifen, sondern ans Wellenlinien sich zusammensetzt. Mithin
+Schleifen, sondern aus Wellenlinien sich zusammensetzt. Mithin
 handelt es sich um eine Fälschung der Schrift Bruckners
 allerdings um eine Fälschung die nur durch diese Vergrößerung
 erkennbar wird.«
@@ -753,7 +753,7 @@ und besichtigte sie nochmals mit größter Sorgfalt, konnte aber
 nichts entdecken, was mit bloßem Auge darauf hingedeutet
 hätte, daß der zweite gefälscht war.
 
-»Ich vermag wirklich nichts Zu bemerken, woraus —«
+»Ich vermag wirklich nichts zu bemerken, woraus —«
 Ich kam mit diesem zögernden Satz nicht zu Ende.
 
 »Lieber Schraut,« meinte Harst eifrig, »fällt Ihnen denn
@@ -770,8 +770,8 @@ Leider mußte ich verneinend den Kopf schütteln. Da rief
 Harst: »Aber — aber, wie kann man nur! Ich habe Sie doch
 schon mit der Nase draufgestoßen! — Doch — als Lehrer soll
 man Geduld haben. Sie sollen ja von mir lernen. — Ich lese
-Ihnen also den Inhalt der Zettel ganz langsam vor 
-Nummer eins der echte:
+Ihnen also den Inhalt der Zettel ganz langsam vor.
+Nummer eins, der echte:
 
 »Nicht etwa die Polizei benachrichtigen, falls ich länger
 ausbleibe.«
@@ -797,7 +797,7 @@ den Zettel Nr. 1 zur Verfügung gehabt haben, denn — er
 hat fast sämtliche Wörter von Nr. 1, natürlich in anderer
 Reihenfolge zusammengestellt, da er sich eben nicht zutraute,
 andere Wörter ohne Vorlage genau genug nachahmen zu können.
-— Und Zu diesem »zehn« fand er in Polizei das notwendige
+— Und zu diesem »zehn« fand er in Polizei das notwendige
 z. — Diese Wiederholung derselben Wörter sagte mir
 schon vor der Benutzung des Mikroskops, daß die 
 Bleistift-Nachricht nicht von Bruckner stammte.«
@@ -850,7 +850,7 @@ drei Möglichkeiten: krank, gefangen oder tot, nachzuprüfen,
 genau so, wie wir feststellen müssen, ob hier etwa ein 
 merkwürdiger Zufall mitspielt und die Rothaarige vielleicht gar
 unsere Mutter Schmidt ist, schließlich noch, wie Zettel Nummer
-eins dieser Rothaarigen oder deren Mitwisser zur Vorname
+eins dieser Rothaarigen oder deren Mitwisser zur Vornahme
 der Fälschung von Nr. 2 zugänglich geworden ist.
 Letzteres ist außerordentlich wichtig. Zenta Brixen hat uns
 erklärt, sie hätte Zettel Nr. 1 am dritten Tage nach Bruckners
@@ -875,17 +875,17 @@ nur über die Rothaarige näher ausfragen was Zenta Brixen
 versäumt hat.«
 
 Er begann wieder im Zimmer mit gesenktem Kopf auf
-und ab zu gehen. — »Ein sehr unangenehmer Zwischenfall
+und ab zu gehen. — »Ein sehr unangenehmer Zwischenfall,
 dieser Verrat unserer jetzigen Aufgabe und deren Preisgabe
 an die Oeffentlichkeit,« meinte er murmelnd. »Nun hätte ich
 mir das Angebot an den Menschen der für 10000 Mark
 Nemo-Geheimnisse ausplaudern wollte, schenken können.« Er
 nahm den Berliner Kurier vom Schreibtisch. »Hier steht das,
 was ich soeben andeutete: 20000 Mark verspricht ein
-Privatmann dem zu Zahlen, der über den sog. Einbrecherkönig
+Privatmann dem zu zahlen, der über den sog. Einbrecherkönig
 Andreas Nemo ihm nähere Angaben machen kann.« — Ja,
 Schraut, Sie sehen, ich habe versucht, auf diese Weise mich mit
-dem Absender jenes an die Reduktion gerichteten 
+dem Absender jenes an die Redaktion gerichteten 
 Schreibmaschinen-Briefes in Verbindung zu setzen. Was hilft das jetzt
 alles, wo Nemo vor uns gewarnt sein dürfte?! Wir werden
 all unsere Erfindungsgabe nunmehr aufzubieten haben, um
@@ -901,12 +901,12 @@ auch mit Maschine geschrieben:
 
 > Ich rate Ihnen, sofort Ihre jetzige Aufgabe und Ihre
 Ermittlungen nach mir fallen zu lassen. Sollte ich merken,
-daß Sie Ihre Versuche mich zu finden, fortsetzen, so haben
+daß Sie Ihre Versuche, mich zu finden, fortsetzen, so haben
 Sie selbst an den Folgen schuld.
 
 > Andreas Nemo.
 
-Harst hatte mir dies vorgelesen »Eine Kampfansage,
+Harst hatte mir dies vorgelesen. »Eine Kampfansage,
 Schraut!« meinte er, und seine grauen Augen flammten auf.
 Herr Andreas Nemo wenn Sie wüßten, daß ich Sie eigentlich
 schon entdeckt habe, würden Sie mir nicht so plump
@@ -1066,7 +1066,7 @@ geschlossen, das, als ich bei der Runke das halbe Zimmer
 belegte, noch offen gewesen!
 
 Das war fatal! Ich hatte ja gerade dort Stammgast
-werden sollen! — Ich schichte den nun überflüssigen
+werden sollen! — Ich schickte den nun überflüssigen
 Gamaschen-Fritz heim und suchte meine neue Behausung auf.
 Mein Zimmergenosse war noch nicht da. Ich setzte mich an
 mein Tischchen und las bei der Petroleumlampe die drei
@@ -1135,7 +1135,7 @@ Wiedersehen, Schraut.«
 
 ***
 
-Wenn ich an den Ausgang unsere damaligen Jagd auf
+Wenn ich an den Ausgang unserer damaligen Jagd auf
 den Namen zurückdenke, überläuft es mich noch heute kalt.
 Das arme, bedauernswerte, so schmählich betrogene Geschöpf
 mit den weit aufgerissenen, entsetzten, halb irren Augen
@@ -1143,13 +1143,13 @@ werde ich nie vergessen. Ich schreibe diese Erinnerungen nicht
 gern nieder. Und wenn ich diesem Kapitel trotzdem eine bis
 ins einzelne gehende Fassung gebe, so geschieht es nur, weil
 ich mich später bei zwei anderen Problemen Harsts nochmals
-mit jener Persönlichkeit — ich muß sagen »leider« -—- 
+mit jener Persönlichkeit — ich muß sagen »leider« —
 beschäftigen werde, die in den Zeitungen nicht zu unrecht als ein
-verbrecherisches Genie ersten Ranges bezeichnet worden ist« —
+verbrecherisches Genie ersten Ranges bezeichnet worden ist. —
 
 Ich hatte bis nachmittags nichts zu tun. Mittags traf
 ich mich mit Karl wieder im Zoo, diesmal am Zwinger der
-gelehrigen Schimpansin Missy. Karl erzähle mir daß morgens
+gelehrigen Schimpansin Missy. Karl erzählte mir, daß morgens
 zwei Leute von der Gasanstalt unser Haus in der
 <@pagebreak/>
 Blücherstraße eines angeblich undichten Rohres wegen hätten
@@ -1200,8 +1200,8 @@ Wir drei taten, als unterhandelten wir mit dem Chauffeur.
 <@pagebreak/>
 Da kamen schon ein Herr, eine junge Dame und ein Mädchen
 mit Häubchen aus dem Hause heraus. Der Herr und das
-Mädchen trugen je einen Koffer. die junge Dame zwei
-Handtaschen und Schirme und Stöcke im Ueberzuq — Schilling
+Mädchen trugen je einen Koffer, die junge Dame zwei
+Handtaschen und Schirme und Stöcke im Ueberzug — Schilling
 rief nun: »Verflucht — auch wieder besetzt! Kommt weiter.«
 — Wir gingen ein paar Schritte. Dann fuhr das Auto langsam
 an. Als es in einer Höhe mit uns war, rissen Schilling
@@ -1235,7 +1235,7 @@ mitteilen: Bruckner war Ihrer nie wert. Er hat Sie betrogen.
 Sie waren ihm nur Mittel zum Zweck. Er war — ein
 Lump, ein Erpresser. Er ist tot — ermordet.« — Zenta Brixen
 fand nachher Aufnahme bei einer Freundin. Wir aber fuhren
-in unserem Universum-Klub. Dorthin hatte Harst telephonisch
+in unseren Universum-Klub. Dorthin hatte Harst telephonisch
 seine Wettgegner bestellt.
 
 Wir nahmen alle im Vorstandszimmer Platz. Nur Harst
@@ -1262,7 +1262,7 @@ hatte gleichfalls eine starke Neigung für die Schattenseiten
 des menschlichen Seelenlebens und besaß hier in Moabit in
 der Huttenstraße als Witwe eines Gasthauseigentümers eine
 seinerzeit recht berüchtigte Kaschemme — Zur Mutter
-Schmidt, geborene Brixen. — Als Drewki der Seiltänzer—Jongleur,
+Schmidt, geborene Brixen. — Als Drewki, der Seiltänzer—Jongleur,
 eines Tages verunglückte, besorgte ihm sein
 Freund Brixen eine Stelle bei seiner Schwester, deren Vertrauter
 er sehr bald wurde. — Diese Angaben verdanke ich in der
@@ -1278,7 +1278,7 @@ werden Sie sofort sehen.«
 
 Harst rauchte ein paar Züge und fuhr fort: »Nun die
 Hauptpunkte des Ganges meiner Ermittlungen in dieser
-Angelegenheit — Meine Aufmerksamkeit mußte sich notwendig
+Angelegenheit. — Meine Aufmerksamkeit mußte sich notwendig
 zuerst der Kaschemme der Schmidt zuwenden, denn dort hatte
 ja Andreas Nemo als geheimnisvoller Leiter eines
 Verbrecherbundes gewirkt. Von einer in demselben Hause
@@ -1295,7 +1295,7 @@ selbst den Andreas Nemo mit viel Geschick gespielt und dann
 ihren Tod vorgetäuscht, um abermals, unbeobachtet von der
 Polizei, die alte Rolle als Einbrecherkönig wieder aufnehmen
 zu können. — Dann erschien bei mir eine junge Dame,
-Fräulein Zenta Brixen die heimlich Verlobte eines Bildhauers
+Fräulein Zenta Brixen, die heimlich Verlobte eines Bildhauers
 Bruckner, der seit acht Tagen verschwunden war. Erst
 glaubte ich, die tief Verschleierte, die ihren Namen zunächst
 verschwieg, wäre keine andere als Mutter Schmidt selbst,
@@ -1305,7 +1305,7 @@ hatte. An demselben Morgen hatte ja der Berliner Kurier
 meine neue Aufgabe veröffentlicht. — Ich mußte diesen
 Irrtum sehr schnell einsehen. Fräulein Brixen lüftete den Schleier.
 Ihre Jugend war ihr bester Ausweis. Sie erklärte, ihr
-Vater wäre Rentier und müsste nichts von ihren Beziehungen
+Vater wäre Rentier und wüßte nichts von ihren Beziehungen
 zu Bruckner, nach dem ich baldigst Nachforschungen anstellen
 sollte. Sie ließ mir zwei Zettel da — Nachrichten von Bruckner.
 Ich stellte fest, daß der zweite Zettel gefälscht war, und
@@ -1373,10 +1373,10 @@ und selbst auf die Entfernung hin erkannte ich die außerordentliche
 Aehnlichkeit zwischen der Schmidt und diesem glattrasierten
 <@pagebreak/>
 Rentier. Nun war ich meiner Sache völlig sicher,
-nun wollte ich aber auch noch alle Nebenumstände insbesondere
+nun wollte ich aber auch noch alle Nebenumstände, insbesondere
 das Verschwinden Bruckners, eines im übrigen sehr
 anrüchigen Charakters, feststellen. — Ich muß jetzt noch
-erwähnen, daß ich kurz nach dem Besuch Zentas bei mit von
+erwähnen, daß ich kurz nach dem Besuch Zentas bei mir von
 Andreas Nemo einen Drohbrief erhalten hatte und daß Mutter
 Schmidts Lokal auffallenderweise an demselben Tage gegen
 sechs Uhr nachmittags durch eine Papptafel mit der
@@ -1389,7 +1389,7 @@ angeschaut und hatte gehört und gesehen, daß es dort
 eine Kegelbahn gab, die aber offenbar nur für ganz bestimmte
 Gäste reserviert war. Dies erinnerte mich an das reservierte
 Zimmer für die Kleine Harmonie in der Huttenstraße, zumal
-in in letzter Zeit wieder sehr viele schwere Einbrüche hier
+ja in letzter Zeit wieder sehr viele schwere Einbrüche hier
 verübt sind, die auf eine wohlorganisierte Bande hindeuten.
 Nachts schlich ich über Zäune und Dächer bis an den Hintereingang
 der Kegelbahn und entdeckte unter derselben eine —
