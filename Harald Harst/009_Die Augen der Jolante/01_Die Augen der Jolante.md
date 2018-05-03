@@ -50,7 +50,7 @@ lautet unsere Aufgabe. Ich hatte angenommen, daß über diese
 Jacht wenigstens eine leise Andeutung in Berlin zu erfahren
 wäre. Heute früh, als Sie und meine Mutter unsere Koffer
 packten, habe ich 12 Zeitungsredaktionen angeläutet — mit
-negativem Erfolg. Wir fahren also direkt ins Blaue hinein.
+negativem Erfolg. Wir fahren also direkt ins Blaue hinein,
 und ich wählte den Hafen- und Badeort Saßnitz auch nur deshalb
 als Reiseziel, weil er der bedeutendste der Insel ist, zumeist
 durch den Verkehr mit Schweden und Kopenhagen und

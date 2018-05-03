@@ -32,7 +32,7 @@ her ist.«
 
 »Wir sind also bei der neuesten Arbeit?« meinte ich.
 
->>Sogar sehr. Es ist ja auch höchste Zeit, daß wir anfangen.
+»Sogar sehr. Es ist ja auch höchste Zeit, daß wir anfangen.
 Gestern wurde mir die Aufgabe genannt, und den ganzen
 heutigen Tag brauchte ich dazu, die merkwürdigen Anzeigen
 im Berliner Kurier zu studieren, zu sondieren und mit
@@ -163,14 +163,14 @@ bei der Baubude traf ich ihn nicht mehr an. Ich stand noch
 da und überlegte, ob ich leise rufen sollte, als er neben mir
 auftauchte mich am Arm packte und mir zuraunte:
 
->>Schraut, die Sache hier läßt sich gut an. Da drinnen
+»Schraut, die Sache hier läßt sich gut an. Da drinnen
 liegt eine Leiche — dort rechts im Keller mitten auf dem
 Bauschutt, — die Leiche eines Knaben von etwa zwölf
 Jahren.«
 
 Ich hätte im Dienste Harsts eigentlich längst gelernt haben
 müssen, meine Nerven besser in der Gewalt zu haben.
-Jetzt prallte ich aber doch zurück, stammelte: >>Eine Leiche?!
+Jetzt prallte ich aber doch zurück, stammelte: »Eine Leiche?!
 — Etwa — ermordet?!«
 
 Harst schwieg und zog mich in die Baubude hinein. Wir
@@ -180,7 +180,7 @@ er dann. »Wir können die anderen sehr bald erwarten. —
 Falls überhaupt noch jemand kommt!« fügte er hinzu.
 
 Der Regen fiel stärker. Harst zog seine Uhr. Ich sah
-die Leuchtpunkte des Zifferblatts und der Zeiger. — >>Doch
+die Leuchtpunkte des Zifferblatts und der Zeiger. — »Doch
 noch eine Viertelstunde,« flüsterte er. »Wir können’s wagen.
 Vielleicht trifft meine Vermutung zu, und der Junge läßt sich
 noch bei geeigneter Behandlung ins Leben zurückrufen, obwohl —«
@@ -191,10 +191,10 @@ blieb er weg. Dann kehrte er mit einer kleinen Gestalt
 im Arm zurück, legte den Knaben behutsam in der Bretterbude
 auf die Erde und richtete sich wieder auf.
 
->>Schraut — wir müssen näher heran, sonst sehen wir
+»Schraut — wir müssen näher heran, sonst sehen wir
 nichts,« flüsterte er nun. »Dort vor dem Kellereingang ist
 ein Behälter zum Kalklöschen eingegraben. Er ist tief genug,
-um darin knien zu können. — Vorwärts — aber leise!<<
+um darin knien zu können. — Vorwärts — aber leise!«
 
 Still, fast unheimlich mit seinen dunklen Fensteröffnungen
 anzuschaun, lag der Neubau kaum fünf Meter vor uns.
@@ -207,13 +207,13 @@ noch andere Personen einfinden sollten — nach Harsts Andeutungen.
 Plötzlich auf der Straße das Rattern eines Autos. Es
 fuhr vorüber. Die Lichtkegel der Laternen verschwanden
 schnell wieder. — Harst hatte sich erhoben, schaute dem Auto
-nach. — >>Es hält dort hinten,« meldete er leise. >>Etwa an
+nach. — »Es hält dort hinten,« meldete er leise. »Etwa an
 derselben Stelle, an der wir vorhin ausstiegen. Sollten etwa
 die Leute, die ich erwarte, ähnlich wie wir dem Chauffeur
 absichtlich ein falsches Ziel genannt haben?!«
 
 Etwa fünf Minuten vergingen. Harst kniff mich in den
-Arm. — >>Genau 12!« raunte er mir ins Ohr.
+Arm. — »Genau 12!« raunte er mir ins Ohr.
 
 Da sah auch ich einen Herrn im Zylinder und eine Dame
 im langen Mantel an der Rückseite des Neubaus entlanghuschen.
@@ -253,7 +253,7 @@ fuhr herum.
 Gott sei Dank: Harst!
 
 »Kommen Sie. Schraut,« meinte er gelassen. »Die beiden
-sind nicht mehr da.<<
+sind nicht mehr da.«
 
 Ich mußte dann den Mantel ausziehen, der völlig von
 Kalk lebte, mußte zu Fuß bis nach Steglitz hinein, fand
@@ -302,7 +302,7 @@ Automat. Ich merkte, er war mit seinen Gedanken anderswo.
 Die ersten Rauchringe schwebten hoch, zerflatterten. Dann
 begann er: »Unsere Aufgabe lautet diesmal:
 
-> >>Welchen Zweck haben die drei Anzeigen im Berliner
+> »Welchen Zweck haben die drei Anzeigen im Berliner
 Kurier vom 16., 22. und 28. Mai des Jahres, Morgenausgabe,
 links oben, Seite 6, Kugelrand.«
 
@@ -311,15 +311,15 @@ genügend angesehen. Trotzdem will ich sie Ihnen nochmals
 vorlesen. Nummer eins, vom 16., fünf Zentimeter hoch, acht
 Zentimeter lang, hat den Wortlaut:
 
->>Wißmacht — Wißmacht ist das Allerbeste!«
+»Wißmacht — Wißmacht ist das Allerbeste!«
 
 Weiter — vom 22. —:
 
->>Wißmacht — Wißmacht ist das Allerfeinste!«
+»Wißmacht — Wißmacht ist das Allerfeinste!«
 
 Vom 28. —:
 
->>Wißmacht — Wißmacht ist das Billigste!«
+»Wißmacht — Wißmacht ist das Billigste!«
 
 Für den harmlosen Leser haben diese Anzeigen nichts
 Besonderes an sich gehabt. Wißmacht kann ein neues Seifenpulver
@@ -365,15 +365,15 @@ Anzeigen folgendes —«
 Harst nahm ein viertes der zusammengefalteten Blätter
 auf.
 
->>Also folgendes, lieber Schraut:
+»Also folgendes, lieber Schraut:
 
->>Allerbeste, haben verstanden. Erwarte Dich W. 8
+»Allerbeste, haben verstanden. Erwarte Dich W. 8
 heute 12.«
 
 So, das war die Antwort auf die eine Wißmacht. — Und
 auf die vom 28. steht hier in der Nummer vom 1. Juni:
 
->>Billigste. 3. Juni 12.«
+»Billigste. 3. Juni 12.«
 
 Und heute, nein, gestern, denn Mitternacht ist längst vorbei,
 war der 3. Juni — So weit war ich nun. — Was 12 bedeutete,
@@ -389,11 +389,11 @@ heißen? Bezog sich das »haben verstanden« etwa auch auf
 dieses W. 8? — Vermutlich ja, sagte ich mir, da es bei der
 zweiten und dritten Antwort fehlt. — Die Antwortenden waren
 sich also über die Bedeutung dieses W. 8 aus der ersten
-Anzeige >>Wißmacht« klar geworden. Konnte nun auch ich
+Anzeige »Wißmacht« klar geworden. Konnte nun auch ich
 nicht aus dem Wortlaut dieser Annonce den auf diese Weise
 vereinbarten Treffpunkt ergründen? — Gewiß! Als ich erst
 dies alles mir logisch zurechtgelegt hatte, blieb ja nur
->>Wißmacht« als das einzige Wort übrig, das einen verborgenen
+»Wißmacht« als das einzige Wort übrig, das einen verborgenen
 Sinn haben konnte. — So, lieber Schraut, jetzt sollen Sie
 zeigen, daß auch Sie kombinieren können.«
 
@@ -412,9 +412,9 @@ Schnupfen, vielleicht läuft die Denkmaschine dann besser.
 
 »Streicht man von Wißmacht die »acht«, so erhält man
 Wißm ..., — und wir waren vorhin im Neubau Wißmannstraße
-8!<< erklärte ich eifrig.
+8!« erklärte ich eifrig.
 
->>Ja, wir waren heute, besser gestern, dort, und ich — bereits
+»Ja, wir waren heute, besser gestern, dort, und ich — bereits
 vorgestern nachmittags, nachdem ich genau wie Sie,
 lieber Schraut, das »Wißm« als den Anfang eines Straßennamens
 und dann auch »unsere« Wißmannstraße nach einiger
@@ -481,7 +481,7 @@ am Hause waren so hergerichtet, daß der, der einen am Boden
 liegenden Brief aufnehmen wollte, sie berühren mußte.
 Die Lichterscheinung die wir sahen, war eine elektrische Entladung.
 Sie traf den Knaben, betäubte ihn und zerstörte den
-Brief zur Hälfte. — Hier ist die andere Hälfte.<<
+Brief zur Hälfte. — Hier ist die andere Hälfte.«
 
 Harst griff in die Tasche, reichte mir den halb verkohlten
 Umschlag.
@@ -540,7 +540,7 @@ begann.
 Ihren Hut. Der Junge liegt jetzt angezogen im Bett. Nur
 seine Stiefel stehen noch da. Es ist ein geriebener kleiner
 Bursche. Er will auskneifen. Wir müssen ihm heimlich nach,
-denn nur so können wir dieses Wißmacht ergründen --«
+denn nur so können wir dieses Wißmacht ergründen —«
 
 Ich schlich hinaus, über den Flur, in meine Wohnung.
 Im Augenblick war ich mit dem Hut zurück. Harst reichte
@@ -549,7 +549,7 @@ an.
 
 »Auf die Straße hinaus,« raunte er mir zu. Fügte sehr
 deutlich und nur für den kleinen Betrüger da drinnen hinzu:
->>Gute Nacht also. Ich werde noch etwas arbeiten.«
+»Gute Nacht also. Ich werde noch etwas arbeiten.«
 
 Wir verließen das Haus in aller Stille und überschritten
 die Straße, standen nun im Schatten der Bäume drüben und
@@ -573,7 +573,7 @@ mir zu entziehen! Also: sehr schlechtes Gewissen!«
 Ich pflichtete ihm bei. —
 
 Plötzlich nahm er mich unter den Arm zog mich mit
-fort: >>Trab, Schraut, — Trab, — sonst kommen wir zu spät.«
+fort: »Trab, Schraut, — Trab, — sonst kommen wir zu spät.«
 
 <@pagebreak/>
 Wir liefen, als wären wir verfolgte Einbrecher. Wir
@@ -790,7 +790,7 @@ Er schüttelte unzufrieden den Kopf. »Schraut — die
 Geschichte wird immer verwickelter. Wenn fünfzigfache
 Millionäre zu derartig dunklen Dingen wie Wißmacht in
 Beziehung stehen, so tut man gut noch vorsichtiger als sonst
-zu sein. Geld ist Allmacht --<<
+zu sein. Geld ist Allmacht —«
 
 Hinter uns kam eine müde Taxameterdroschke angeklappert.
 
@@ -831,9 +831,9 @@ durch eine Knallpistole Erschossenen suchten. Ich sage Knallpistole.
 Es war nämlich nur so ein Hundeschreckmittel mit
 dem der Mann auf mich feuerte. Ich hörte es gleich am
 Knall. Patronen, die vorn ein Geschoß haben, geben eine
-ganz andere Detonation. Und als der Kerl zischte: >>Schurke
-— Sie — Sie sollen,« da wollte er hinzufügen — >>mich nicht
-fangen,« nicht etwa — >>daran glauben« oder eine ähnliche ernsthafte
+ganz andere Detonation. Und als der Kerl zischte: »Schurke
+— Sie — Sie sollen,« da wollte er hinzufügen — »mich nicht
+fangen,« nicht etwa — »daran glauben« oder eine ähnliche ernsthafte
 Drohung. — So, damit wäre ich fertig. Ich weiß
 nichts mehr — Eigentlich weiß ich ja genug. Aber dieses
 Wissen ist Stückwerk, ist ein Neubau, dem noch vieles fehlt,
@@ -861,10 +861,10 @@ denen, die ihr nachstellen, und wenn Sie edel sein wollen,
 so kümmern Sie sich nicht mehr drum, und dann ist das
 für alle gut. — K. Sch.
 
->>Dieser Dank ist immerhin in einer Beziehung wichtig,
+»Dieser Dank ist immerhin in einer Beziehung wichtig,
 ganz abgesehen davon, daß er den braven Charakter des Jungen
 beweist,« sagte Harst und schenkte die kostbaren Delfter
-Tassen voll. »Es heißt da ja — >>die <span class="g">ihr</span> nachstellen —«
+Tassen voll. »Es heißt da ja — »die <span class="g">ihr</span> nachstellen —«
 Wir wissen nun wieder etwas mehr: es wird jemandem nachgestellt!
 — Wer mag es sein, Schraut?«’
 
@@ -876,7 +876,7 @@ Frage,« erklärte ich sofort.
 <@pagebreak/>
 Person? — Sie sehen, die Frage beschäftigt uns schon wieder.«
 
->>Gestatten Sie eine Bemerkung,« meinte ich. »Sie müssen
+»Gestatten Sie eine Bemerkung,« meinte ich. »Sie müssen
 doch gesehen haben, ob die Nr. 2, die mit dem Herrn im
 Keller saß, helle oder dunkle Handschuhe aufhatte. Die von
 Nr. 1 waren jedenfalls hell. Ich denke Wildleder waschbar.
@@ -891,12 +891,12 @@ Handschuhe. Und da nicht anzunehmen ist, daß Nr. 1 etwa
 inzwischen die Handschuhe gewechselt hatte, sind wir nunmehr
 auf dem Wege zur Klarheit ein Millimeter weitergekommen.«
 
-Weitere Unterhaltung über >>unseren Fall« lehnte er nun
+Weitere Unterhaltung über »unseren Fall« lehnte er nun
 jedoch ab. Und eine halbe Stunde darauf lag ich im Bett.
 Um elf Uhr vormittags weckte Harst mich.
 
->>Aufgewacht, Schraut! Duschen Sie schnell, ziehen Sie
-sich an und dann — an die Arbeit.<<
+»Aufgewacht, Schraut! Duschen Sie schnell, ziehen Sie
+sich an und dann — an die Arbeit.«
 
 Er war lebhaft angeregt, sozusagen kampfesfreudig. Ich
 kenne diese Art an ihm zur Genüge. Wenn er sich so gibt,
@@ -937,7 +937,7 @@ in Rom sein und doch zu dunklen Zwecken längst wieder in
 Berlin sich aufhalten. — Warten wir ab. — Jetzt geht’s nach
 dem Gemeindeamt Steglitz. — Weshalb wohl?«
 
->>Keine Ahnung,« meinte ich ehrlich.
+»Keine Ahnung,« meinte ich ehrlich.
 
 »So denken Sie doch nach! Sie machen sich die Sache immer
 zu bequem. — Auto — halt! — Einsteigen, Schraut. —
@@ -982,14 +982,14 @@ erwerben.
 Da hatte der alte Herr, dessen weißer Schnurrbart unter
 <@pagebreak/>
 der Nase den eifrigen Schnupfer verriet, sofort die Arme hochgereckt
-und gerufen: >>Tun Sie’s — tun Sie’s, damit wir
+und gerufen: »Tun Sie’s — tun Sie’s, damit wir
 endlich unsere Steuern erhalten! — Der Eigentümer Blink
 sitzt im Irrenhaus, hat sein Vermögen verschwendet, — wo,
 wie, weiß so recht keiner.«
 
 Harst warf mir einen Blick zu. Das hieß
 
->>Abermals eine interessante Einzelheit!<<
+»Abermals eine interessante Einzelheit!«
 
 Und der Weißbart fuhr fort: »Er hat daher auch ’n Vormund
 — seinen Schwiegersohn. Regierungsrat Stachel. Der
@@ -1041,7 +1041,7 @@ geleitete uns in den Flur. Dort hing neben unseren Hüten
 auch ein Zylinder.
 
 Harst vergriff sich, nahm den Zylinder, lachte: »Beinah’
-hätt’ ick Ihnen Ihre Angströhre entführt, Herr Regierungsrat.<<
+hätt’ ick Ihnen Ihre Angströhre entführt, Herr Regierungsrat.«
 
 Da erst ging mir urplötzlich ein Licht auf. Harst hatte
 sich absichtlich vergriffen, hatte mich nur auf den Zylinder
@@ -1086,7 +1086,7 @@ glattrasiert, sehr gemessen, sehr höflich und — für einen Nervenarzt
 für meinen Geschmack mit zu unstätem Blick.
 
 Harst spielte hier wieder den Zimmermeister Jakob aus
-der Müllerstraße, Berlin N. Wir waren ja noch im >>Kostüm«.
+der Müllerstraße, Berlin N. Wir waren ja noch im »Kostüm«.
 Er zahlte dann gleich für seine Schwester, die er übermorgen
 bringen würde, 200 Mark an, was Doktor Görner noch liebenswürdiger
 machte.
@@ -1095,11 +1095,11 @@ machte.
 Doktor,« meinte Harst nun. »Da wurde mir aber auf dem
 Bahnhof gesagt, Sie wären nach Berlin gefahren.«
 
->>So?!« Ich merkte, Görner war etwas verlegen. »Dann
+»So?!« Ich merkte, Görner war etwas verlegen. »Dann
 — dann müssen Sie aber recht spät mich haben besuchen wollen,«
 fügte er unsicher hinzu.
 
->>Unsereiner hat am Tage wenig Zeit, Herr Doktor. ’S
+»Unsereiner hat am Tage wenig Zeit, Herr Doktor. ’S
 war, denk’ ick, so jejen neune rum. Jenau weiß ick ’s nich.
 Ick hab’ den Kopp jetzt so voll. Ick will ’n Neubau kaufen,
 son verkrachten Besitz von einem Herrn, der irgendwo in ’ne
@@ -1107,7 +1107,7 @@ Anstalt is.’«
 
 Görner wurde aufmerksam.
 
->>Neubau — hm. Das interessiert mich. Ich suche selbst
+»Neubau — hm. Das interessiert mich. Ich suche selbst
 ein billiges Grundstück näher bei Berlin. Dürfte ich fragen,
 Herr Jakob, wo —«
 
@@ -1150,13 +1150,13 @@ Der Wirt mußte mittrinken. Bei der dritten Flasche
 machte er so allerlei Andeutungen über Görner. — »Sie sollten
 Ihre Schwester besser woanders in Pflege geben, Herr
 Jakob. Ich will mir nicht die Zunge verbrennen. Aber —
--- im Vertrauen — in Havelruh gibt’s für Patienten mehr
+— im Vertrauen — in Havelruh gibt’s für Patienten mehr
 Kaltwasserbäder als Essen. — Ne, — fragen Sie nicht, — ich
 bin vorsichtig! Der Görner — mit dem muß man gut Freund
 sein, der spioniert alles aus — alles. Vorhin war wieder einer
 von seinen Machern hier und fuhr nach Berlin zurück.
 Weiß Gott, was er mit — Doch ne — nun Schluß! Prost
-— reden wir von was anderem.<<
+— reden wir von was anderem.«
 
 Das war jedoch einem Harst gegenüber nicht leicht. Er
 fing von Grundstückpreisen an und landete auf dem Umwege
@@ -1210,7 +1210,7 @@ dunkle Umrisse erkennen.
 
 Eine tiefe Männerstimme sagte jetzt:
 
->>Lassen Sie mir doch das Verjniejen, liebe Frau Doktor.
+»Lassen Sie mir doch das Verjniejen, liebe Frau Doktor.
 Das bißchen Strom tut dem Geheimrat wahrhaftig nischt.
 Sie werden Ihre Freude dran haben —«
 
@@ -1252,7 +1252,7 @@ sich — sehr sogar!«
 Er schritt jetzt auf die gegenüberliegenden Wirtschaftsgebäude
 zu:
 
->>Warten Sie hier, Schraut. Ich bin sofort wieder da.
+»Warten Sie hier, Schraut. Ich bin sofort wieder da.
 Gehen Sie dort bis Zur Ecke.«
 
 Ich sah noch, daß er an der Gitterpforte auf den elektrischen
@@ -1377,10 +1377,10 @@ teuer zu stehen kommen!«
 weiß ich, — und — ich kann es Ihnen beweisen — nämlich
 einen Mordversuch an Ihrer Frau! — Kein Wort weiter.
 Sonst stecke ich Ihnen einen Knebel zwischen die Zähne! —
-Hier, Kollege,« wandte er sich an mich, >>hier ist mein Revolver.
+Hier, Kollege,« wandte er sich an mich, »hier ist mein Revolver.
 Ich gehe mal auf die Straße. Und wenn Doktor Görner
 verdächtige Bewegungen macht, schießen Sie! Ich verantworte
-es.<<
+es.«
 
 Ich war mit Görner allein. Seine Augen irrten erst hilfesuchend
 umher, dann sah ich wie ihm dicke Schweißperlen
