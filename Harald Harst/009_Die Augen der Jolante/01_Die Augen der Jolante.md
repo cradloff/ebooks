@@ -20,7 +20,7 @@ der weltberühmten Seifen- und Parfümeriefabrik Habicht
 u. Sohn, München. Unsere Musterkoffer standen im Gepäckwagen
 und als Geschäftsreisende einer so wohlriechenden
 Firma dufteten wir und unsere Kupeekoffer, Handtaschen und
-so weiter auf zehn Meter nach allen Wohlgerüchen Arabiens
+so weiter auf zehn Meter nach allen Wohlgerüchen Arabiens.
 
 »Das gehört zum »Kostüm«,« hatte Harst gesagt, als er
 sich und seine Sachen mit Parfüm tränkte.
@@ -38,14 +38,14 @@ der Insel Rügen, sind also dort angelangt, wohin uns unsere
 neue Aufgabe befiehlt. Die Gemütlichkeit hört auf, die
 Arbeit fängt an, und von diesem Moment an bin ich für Sie
 nur noch Hugo Himpel, Commis voyageur, und Sie für mich
-Moses Mackelsohnn, — beide von der Firma Habicht.«
+Moses Mackelsohn, — beide von der Firma Habicht.«
 
 <@pagebreak/>
 Dann setzte er sich mir gegenüber. »Ich möchte nur wissen,«
 meinte er ebenso leise, »woher unsere Wettgegner diesmal eine
 Aufgabe ausgegraben haben, von der in Berlin nicht mal das
 größte Revolverblatt etwas je gehört haben will. — »Was
-treibt die geheimnisvolle Jacht an »den Küsten Rügens?«
+treibt die geheimnisvolle Jacht an den Küsten Rügens?«
 lautet unsere Aufgabe. Ich hatte angenommen, daß über diese
 Jacht wenigstens eine leise Andeutung in Berlin zu erfahren
 wäre. Heute früh, als Sie und meine Mutter unsere Koffer
@@ -84,9 +84,9 @@ letztens ein Fischer mir so einiges erzählt. Viel war es nicht.
 finde ich nachher Zeit —«
 
 »Ne, lassen Sie man!« meinte Harst-Himpel. »So versessen
-sind wir auf die Jacht denn doch nicht«
+sind wir auf die Jacht denn doch nicht.«
 
-Der Kellner verschwand Ich nahm Harst mit einem »Sie
+Der Kellner verschwand. Ich nahm Harst mit einem »Sie
 gestatten« die Zeitung ab und suchte nach der Notiz, die er
 <@pagebreak/>
 soeben vorgelesen hatte. Ich mußte sie übersehen haben, obwohl
@@ -122,7 +122,7 @@ Mackelsohn,« meinte er. »Nur rin mit ihnen, Fräulein —«
 Das Mädchen ging. Aber es hatte uns beiden einen so eigentümlichen
 Blick zugeworfen.
 
-»Seht faul,« flüsterte Harst. »Es gibt fraglos eine peinliche
+»Sehr faul,« flüsterte Harst. »Es gibt fraglos eine peinliche
 Ueberraschung. Die Augen der blonden Lisbeth musterten
 uns, als wären wir plötzlich als Raubmörder entlarvt.«
 
@@ -138,7 +138,7 @@ Von der Balkontür kam die Antwort. »Ne, Herr Wachtmeister,
 Himpel bin ich. Das da ist Mackelsohn — Moses
 Mackelsohn.«
 
-»Na — das ist gleichgültig. Ihre Papiere bitte«
+»Na — das ist gleichgültig. Ihre Papiere bitte.«
 
 Harst langte in die Brusttasche, holte seine Brieftasche hervor,
 <@pagebreak/>
@@ -169,7 +169,7 @@ Ausweis mit Photographie, ausgestellt vom Berliner Polizeipräsidium,
 daß er der Assessor a. D. Harald Harst aus Schmargendorf-Berlin,
 Blücherstraße 10, sei, und daß alle Behörden
 gut täten, ihn nach Kräften zu unterstützen, da er als Liebhaberdetektiv
-sich eines »geachteten Namens" erfreue. Aber
+sich eines »geachteten Namens« erfreue. Aber
 — wenn wir mit Hilfe dieses Ausweises aus dieser Klemme
 uns befreiten, dann war unser Inkognito zum Teufel und
 unser Erfolg stark in Frage gestellt. Es würde sich ja in kurzem
@@ -189,7 +189,7 @@ Westfalen eine Firma gleichen Namens gibt. Wir sind nicht
 Ihre Vertreter, sondern die der Mindener Firma, damit Sie
 <@pagebreak/>
 beruhigt sind. Wir haben auch auf den Anmeldezettel ausdrücklich
-Minden geschrieben«
+Minden geschrieben.«
 
 Ich war starr. — Minden? — Allerdings: Harst hatte
 die Zettel ausgefüllt.
@@ -198,7 +198,7 @@ Der Beamte holte einen Zettel hervor, entfaltete ihn und
 brummte. »Die Schmiererei hier kann auch München heißen.
 Bitte — überzeugen Sie sich.«
 
-Harst winkte ab. »Lassen Sie nur. Schon gut — Adieu.
+Harst winkte ab. »Lassen Sie nur. Schon gut — Adieu,
 Herr Habicht! Und — wegen der Beleidigung »lockere Vögel!«
 sehen wir uns vor Gericht wieder. — Herr Wachtmeister, bitte,
 nennen Sie mir die hiesige Wohnung des Herrn da, der leider
@@ -207,7 +207,7 @@ Beleidigung gegen ihn stellen, das bin ich schon der Firma
 Habicht, Minden schuldig.«
 
 Habicht-München stotterte eine Entschuldigung. »Ich bin
-gern bereit, in die hiesige Armenkasse etwas einzuzahlen,"
+gern bereit, in die hiesige Armenkasse etwas einzuzahlen,«
 meinte er. »Dieser Irrtum meinerseits ist doch —«
 
 »Hinaus, Herr!« rief Harst. »Hinaus — sofort!«
@@ -216,7 +216,7 @@ Der Spitzbärtige drückte sich schleunigst. Harst reichte dem
 Wachtmeister aus seiner Zigarrentasche drei Importen mit
 Leibbinden — »Da — Sie sollen nicht umsonst die zwei Treppen
 raufgekraxelt sein. — Wo wohnt denn dieser grimme
-Habicht«
+Habicht?«
 
 »Keine Ahnung, Herr Himpel. Er kam vor einer Stunde
 zu unserem Gemeindevorsteher aufs Bureau. Ich war gerade
@@ -228,7 +228,7 @@ mit.«
 Gleich darauf waren wir allein. Ich lachte leise auf.
 
 Da sah ich Harsts ernstes Gesicht, sah seine weit offenen
-Augen förmlich flimmern Und ich schwieg sofort. Denn diese
+Augen förmlich flimmern. Und ich schwieg sofort. Denn diese
 Augen kannte ich. Es waren die Harald Harsts, wenn er etwas
 Wichtiges entdeckt hatte.
 
@@ -345,7 +345,7 @@ aus Vorsicht. Als ich nun darauf dem Wachtmeister und dem
 Spitzbärtigen gegenüber Minden machte, da hätte der falsche
 Habicht sofort rufen müssen: »Schwindel — in Minden existiert
 keine solche Firma!« Aber — er tat’s nicht, und — da
-wußte ich Bescheid! Wäre er »echt« gewesen, hätte er unbedingt,
+wußte ich Bescheid! Wäre er »echt« gewesen, hätte er unbedingt
 jedes Konkurrenzgeschäft gekannt, hätte also sofort erkannt,
 daß ich mich herauszulügen suchte, da es ja tatsächlich
 in Minden keinen Parfüm-Habicht gibt und ich eben nur hatte
@@ -561,10 +561,10 @@ und bezogen in einer Kneipe Quartier, deren Wirt wir durch
 Vorausbezahlung für acht Tage — einschließlich Essen und
 Futter 160 Mark — uns zum Freunde machten. Unser
 Wohnwagen stand auf dem Hof dicht neben einem leeren Ziegenstall
-in dem Peter untergebracht war. Da der wagen alle
+in dem Peter untergebracht war. Da der Wagen alle
 für Schlumps nötigen Bequemlichkeiten bot, verlangten wir
 <@pagebreak/>
-keinen Schlafraum« sondern hausten weiter darin. Der Wirt,
+keinen Schlafraum, sondern hausten weiter darin. Der Wirt,
 ein früherer Seemann namens Treibke, hielt uns für vollkommen
 »echt«, zumal wir »unser Geschäft« inzwischen genügend
 erlernt hatten.
@@ -616,7 +616,7 @@ weiter nach dem Rande der Steilküste hin geschlichen und hatte
 nun gesehen, daß die drei farbigen Laternen, die nur recht
 schwach leuchteten, wahrscheinlich durch eine drehbare Scheibe
 abgeblendet werden konnten, so daß ihr Lichtschein nur immer
-ganz kurz sich zeigte. Um Zwei Uhr hatte Karl den Rückweg
+ganz kurz sich zeigte. Um zwei Uhr hatte Karl den Rückweg
 angetreten und wäre dabei auf der nach Saßnitz führenden
 schmalen Landstraße, die bei der Villa endete beinahe einem
 zweiten Mann in die Arme gelaufen, der dort als Wache
@@ -652,7 +652,7 @@ weiß, wie sein Hirn dies verarbeitete!
 
 Karl mußte dann im Küchenverschlag auf dem eisernen
 Herd Kaffee kochen. Der Wirt Treibke verpflegte uns nur
-mittags und abends mit warmen Mahlzeiten
+mittags und abends mit warmen Mahlzeiten.
 
 Harst hatte jetzt die Mandoline im Arm, zupfte darauf einen
 Walzer, pfiff gleichzeitig die Melodie mit und ließ Peter
@@ -665,7 +665,7 @@ das Hofpublikum verlief sich und Harst setzte sich auf
 einen Holzklotz vor den Stall.
 
 »Na, was hat Karl denn ausgekundschaftet?« meinte
-er und zupfte aus der Mandoline das Lied: Du bist zu schön.
+er und zupfte aus der Mandoline das Lied: Du bist zu schön,
 um treu zu sein —
 
 Ich wurde etwas rot. »Sie wissen also,« stotterte ich.
@@ -677,7 +677,7 @@ Anerkennung verdient. — Berichten Sie —« — Ich tat’s. Als
 ich fertig war, schwieg er erst eine Weile.
 
 »Sie heißt wahrscheinlich Jolante, die Jacht, lieber
-Schraut, — Jolante, die große Unbekannte« sagte er nun.
+Schraut, — Jolante, die große Unbekannte,« sagte er nun.
 »Schraut ich war etwas kecker als Karl. Der am Mast hatte
 hinter sich die Haustür nur angelehnt. Ich erlaubte mir, die
 Villa von innen zu besichtigen, zumal ich vorn hinter den geschlossenen
@@ -701,7 +701,7 @@ Diese Jolante wird uns noch —« Den Rest verstand ich nicht.
 — Die Gerda zuckte etwas geringschätzig die Achseln. — »Sie
 sind ’n richtiger Angstmeier, Frau Hella,« hörte ich ganz deutlich.
 — Dann erschien es mir angebracht, das Haus wieder
-Zu verlassen — Kurz nach zwei Uhr morgens stellte der Mann
+zu verlassen — Kurz nach zwei Uhr morgens stellte der Mann
 am Mast seine »verdunkelnde« Tätigkeit ein, schritt auf den
 etwa dreißig Meter entfernten Abhang zu, der sehr steil und
 <@pagebreak/>
@@ -720,7 +720,7 @@ Fleck — es muß die Jacht gewesen sein — ausschaute, war er
 nicht mehr sichtbar. Nun kehrte ich heim und war genau fünf
 Minuten vor Karl zu Hause — in unserer fahrbaren Mietwohnung.«
 
-Eine kleine Pause. Dann: »Na. Schraut, — was treibt die
+Eine kleine Pause. Dann: »Na, Schraut, — was treibt die
 Jacht?«
 
 »Schmuggel!« erklärte ich bestimmten Tones.
@@ -828,7 +828,7 @@ Wir sind auf falscher Fährte —«
 Ich blieb nun neben ihm.
 
 »Zweifel hegte ich ja immer, daß die Lösung so einfach
-sein sollte.« fuhr er fort. »Ich werde Ihnen jetzt auch sagen, weshalb.
+sein sollte,« fuhr er fort. »Ich werde Ihnen jetzt auch sagen, weshalb.
 Oder besser: Sie sollen selbst darauf kommen.
 Denken Sie mal an die Lichtsignale.«
 
@@ -855,12 +855,12 @@ Lichtblitze von verschiedener Leuchtdauer Mitteilungen in die Ferne
 gesandt werden, also Lichttelegraphie — Was kommt nun hier in
 Frage, Schraut, — eins oder zwei?«
 
-Ich überlegte diesmal riecht sorgfältig meine Antwort.
+Ich überlegte diesmal recht sorgfältig meine Antwort.
 Karl hatte mir berichtet, der Mann am Mast hätte ganz regelmäßig
 die drei Laternen abgeblendet. Von Telegraphie
 konnte also keine Rede sein.
 
-»Eins," erwiderte ich nun.
+»Eins,« erwiderte ich nun.
 
 »Freilich — etwas Leuchtturmähnliches! — Und weiter
 jetzt: Der Mann hat fast anderthalb Stunden mit wahrer
@@ -872,7 +872,7 @@ diesen Punkt der Küste längst ganz genau kennen und muß
 ihn auch ohne das Blinklicht finden! Er könnte fraglos, falls
 Schmugglerware ausgebootet werden soll, ohne die Signale
 dies fertig bringen! Und — die Leute würden auf die gefährlichen
-Lichtzeichen durch die sie leicht jemanden auf die Villa
+Lichtzeichen, durch die sie leicht jemanden auf die Villa
 aufmerksam machen können, ebenso fraglos gern verzichten,
 wenn diese drei Laternen lediglich als Leuchtturm, als Wegweiser
 dienten. Sie verzichten aber nicht trotz der steten Gefahr,
@@ -898,7 +898,7 @@ schaffen! — Auf falscher Fährte also, lieber Schraut! Die richtige
 können wir nur an Ort und Stelle finden. Deshalb
 war ich in Binz und habe Brechweinstein eingekauft. Hier in
 <@pagebreak/>
-dieser Flasche habe ich ihn in Kaffee aufgelöst — Es tut mir
+dieser Flasche habe ich ihn in Kaffee aufgelöst. — Es tut mir
 leid, daß Sie davon trinken müssen, Schraut. Aber — eine
 kranke Frau wird eher Mitleid erregen und in der Villa
 Klimke aufgenommen werden, als wenn ich plötzlich schwere
@@ -923,7 +923,7 @@ Hause, wo man uns ein Hinterzimmer zu ebener Erde anwies,
 das vollständig leer war. Wir erhielten dann aber Decken
 und zwei Strohbündel, und die Dame — es konnte ja nur
 Frau Hella sein — war wirklich sehr mitfühlend und hätte
-mich am liebsten selbst gepflegt. was »mein Mann« aber nicht
+mich am liebsten selbst gepflegt, was »mein Mann« aber nicht
 zuließ. Auch Essen bekamen wir, heißen Tee, kalten Braten,
 Wurst, Schinken. Peter und Fips waren unten im Keller eingesperrt
 worden. Alles in allem benahmen die drei Bewohner
@@ -938,13 +938,13 @@ gebracht.
 
 Harst streckte sich sehr bald auf sein Strohlager hin und
 blies die Lampe aus. Draußen war es jetzt völlig finster. Es
-begann auch Zu tröpfeln.
+begann auch zu tröpfeln.
 
 Dann plötzlich Harsts Stimme dicht neben mir: »Vorsicht.
 Man belauscht uns vom Nebenzimmer aus.« — Er schlich auf
 sein Lager in der anderen Ecke zurück, fragte nun ganz laut:
 
-»Na. Olja, jeht’s Dir besser?«
+»Na, Olja, jeht’s Dir besser?«
 
 <@pagebreak/>
 »’n bißchen,« erklärte ich kläglich. Darauf wünschte er
@@ -955,7 +955,7 @@ klopfte und die beiden Männer traten mit einer Stehlampe
 ein. Jetzt machte der Lange Glattrasierte den Sprecher.
 
 »Uns ist es doch zu unheimlich, daß der Bär so ohne Aufsicht
-im Keller eingesperrt ist," sagte er zu Harst. »Wir haben
+im Keller eingesperrt ist,« sagte er zu Harst. »Wir haben
 für Sie und Ihre Frau daher einen anderen Kellerraum schnell
 etwas wohnlich hergerichtet, der auch einen Verschlag für den
 Bär hat. Kommen Sie, wir helfen beim Umzug —«
@@ -983,7 +983,7 @@ vermeiden. Trotzdem werde ich —« Er schwieg plötzlich, fing
 furchtbar zu schnarchen an.
 
 Dann nach einer Weile: »Es war jemand an der Tür.
-Jetzt ist er wieder fort. Ich hörte die Kellertreppe knarren
+Jetzt ist er wieder fort. Ich hörte die Kellertreppe knarren.
 Ich werde bis gegen ein Uhr warten, Schraut. Dann wage
 ich’s.«  —
 
@@ -1055,7 +1055,7 @@ Wand hin, die oben ein kleines Luftloch hatte, das in den
 Kellereingang mündete.
 
 Dann — und ich schaltete blitzschnell die Lampe aus —
-dann gewahrte ich in Unserem Gelaß den augenblicklich wieder
+dann gewahrte ich in unserem Gelaß den augenblicklich wieder
 verschwindenden Strahlenkegel einer elektrischen Laterne
 wie der meinigen. Und in diesem Augenblick wurde ich mir
 auch über Peters Unruhe klar: er hatte draußen im Gang einen
@@ -1117,7 +1117,7 @@ Er brummte, gehorchte aber.
 mich heranziehend.
 
 Er antwortete nicht gleich. Da drohte ich: »Soll ich den
-Bär wieder los lassen?!««
+Bär wieder los lassen?!«
 
 »Ich wollte sehen, wie es Ihnen geht,« stotterte er.
 
@@ -1141,7 +1141,7 @@ Ich wollte durch die Röcke nicht behindert werden.
 
 Ohne Mühe kroch ich zum Fenster hinaus, kroch weiter
 auf allen Vieren um das Haus herum nach dem Vordergarten.
-Es war jetzt hell genug, um den Langen deutlich Zu erkennen,
+Es war jetzt hell genug, um den Langen deutlich zu erkennen,
 <@pagebreak/>
 der da vor mir am Flaggenmast stand und wieder in Pausen
 an der Leine zog.
@@ -1191,7 +1191,7 @@ hätten.
 
 »Ah — also deshalb!« flüsterte er nun, als ich nichts mehr
 hinzuzufügen wußte. »Schraut, passen Sie scharf auf Klimke
-auf. Es darf nicht offenbar werden. daß wir ihn nun in
+auf. Es darf nicht offenbar werden, daß wir ihn nun in
 <@pagebreak/>
 unserer Gewalt haben,« fügte er hinzu. »Ich komme sofort nach,
 will nur noch feststellen, ob Miskulski wieder zum Strande
@@ -1242,9 +1242,9 @@ seine Stimme zu dämpfen. Nun ging er auf Klimkes Kerker
 zu, befahl unserem Gefangenen auf seine Fragen zu antworten.
 — Klimke schwieg hartnäckig.
 
-Plötzlich erklärte Harst mit Nachdruck. »Ihre Verstocktheit
+Plötzlich erklärte Harst mit Nachdruck: »Ihre Verstocktheit
 hilft Ihnen gar nichts. Ich weiß, was Sie und Ihre Gefährten
-hier treiben — jetzt weiß ich’s! Und was ich noch
+hier treiben — jetzt weiß ich’s! Und was ich noch nicht
 weiß, wird mir die nächste Nacht verraten.«
 
 Da lachte Klimke ironisch auf. Das war aber auch alles.
@@ -1318,7 +1318,7 @@ nun nach unserer Kneipe und unserem Wohnwagen, wo
 Harst dem Wirt ein langes Märchen auftischte, das unsere
 Rückkehr ohne Fips und Peter erklären sollte.
 
-Mittags war Harst beim Gemeindeversteher, berichtete
+Mittags war Harst beim Gemeindevorsteher, berichtete
 mir dann, daß die Gerd sehr patzig ihm gegenüber gewesen
 wäre und daß Frau Klimke sehr viel weinte, daß aber beide
 genau so hartnäckig geschwiegen hätten wie unsere Gefangenen
@@ -1342,7 +1342,7 @@ von hier abgereist. Wohin, war nicht zu ermitteln. Auch im
 Universum-Klub nichts Neues, obwohl M. scharf aufpaßt. —
 Gruß — Dein St.«
 
-»Diese: M. kann nur der neue Klubdiener Mingloff sein,«
+»Dieser M. kann nur der neue Klubdiener Mingloff sein,«
 meinte Harst. »Er ist es fraglos auch gewesen, der diese, unsere
 jetzige Aufgabe an die Leute hier verraten hat, die ihn
 bestochen haben werden.« — Ich will hier gleich bemerken,
@@ -1414,8 +1414,8 @@ Fahrten. Sie bezahlten mich und meinen Enkel da sehr gut,
 aber wir mußten reinen Mund halten über alles. Die Herren
 erzählten mir, sie hätten zufällig von einem Geldschatz gehört,
 der gerade hier gegenüber der einsamen Villa auf dem
-Meeresgrund liege. Die See ist an dieser Stelle sehr flach.
-nur etwa zehn Mieter tief, und diese Untiefe läuft weithin
+Meeresgrund liege. Die See ist an dieser Stelle sehr flach,
+nur etwa zehn Meter tief, und diese Untiefe läuft weithin
 parallel zur Küste von Nord nach Süd. Wir haben dann stets
 mit einem besonders konstruierten Schleppnetz den Meeresboden
 abgesucht, aber nur dreimal was herausgefischt, einmal
@@ -1484,7 +1484,7 @@ erkannte ich, daß sie sehr lange im Wasser gelegen haben
 müßten. Und da reimte ich mir endlich zusammen, weshalb
 die Jacht hier vor der Villa kreuzte. Nur wonach gefischt
 wurde — das wurde mir erst klar, nachdem ich durch den Namen
-Jolante plötzlich aus die berühmte Perlenkette gekommen
+Jolante plötzlich auf die berühmte Perlenkette gekommen
 war. Diese Kette wurde gestern von der Jacht mit dem
 Netz hochgeholt. Als Miskulski dann merkte, daß ihm Gefahr
 drohe, als der Förderkorb plötzlich festsaß, da verbarg

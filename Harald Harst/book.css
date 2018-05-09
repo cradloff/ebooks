@@ -88,6 +88,16 @@ a.refnote {
 	letter-spacing: 0.25em;
 }
 
+/* zentrierter Text */
+.centered {
+	text-align: center;
+}
+
+/* rechtsbündig */
+.right {
+	text-align: right;
+}
+
 /* dünne Linie mit Verlauf als Trenner */
 hr {
 	border: 0; 
