@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">743e5460-555e-11e8-931d-bbd7f15421b0</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Fluch eines Geschlechts</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">10</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition">2. Auflage</entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Bulldoggen.
+
+Kommerzienrat Kammler, der Beauftragte der Wettgegner Harsts, war gerade bei uns, als ein merkwürdiger Brief vormittags eintraf. Kammler war sofort einverstanden, daß der Inhalt dieses Briefes die neue Wettaufgabe darstellen solle.
+
+Der Brief war von Thora von Malwack geschrieben. In dem Brief bat sie Harst flehentlich um eine Unterredung. Sie deutete an in großer Gefahr zu schweben.
+
+Die wandelnde Mumie.
+
+Wir saßen gegen elf Uhr vormittags in Harsts vornehm eingerichtetem Arbeitszimmer und warteten auf den Brief, den uns die Wettgegner durch einen Eilboten zustellen wollten und der die neue Aufgabe enthalten würde.
+
+Harst sprach über das Liebespaar dem er in Blinkenstein eine Heirat erleichtert hatte. Ich stand am Fenster und beobachtete eine Regenwolke, die uns vorhin einen kräftigen Schauer gebracht hatte und die nun nach Osten zu über Berlin hinkamen.
+
+Dann rollte ein Auto vor das Haus. Eine tief verschleierte Dame stieg aus, sah sich ängstlich um, drückte dem Chauffeur Geld in die Hand und lief nun leichtfüßig durch den Vorgarten auf die Eingangstür zu.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (010) Der Fluch eines Geschlechts.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries"></entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
