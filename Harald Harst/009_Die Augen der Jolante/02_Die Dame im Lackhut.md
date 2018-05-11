@@ -252,11 +252,11 @@ fuhr herum.
 
 Gott sei Dank: Harst!
 
-»Kommen Sie. Schraut,« meinte er gelassen. »Die beiden
+»Kommen Sie, Schraut,« meinte er gelassen. »Die beiden
 sind nicht mehr da.«
 
 Ich mußte dann den Mantel ausziehen, der völlig von
-Kalk lebte, mußte zu Fuß bis nach Steglitz hinein, fand
+Kalk klebte, mußte zu Fuß bis nach Steglitz hinein, fand
 glücklich ein Auto, ließ den Chauffeur nach der Nachtigallstraße
 32 fahren, — denn dort erwartete mich Harst mit dem
 in meinen Mantel gehüllten Knaben.
@@ -376,7 +376,7 @@ auf die vom 28. steht hier in der Nummer vom 1. Juni:
 »Billigste. 3. Juni 12.«
 
 Und heute, nein, gestern, denn Mitternacht ist längst vorbei,
-war der 3. Juni — So weit war ich nun. — Was 12 bedeutete,
+war der 3. Juni. — So weit war ich nun. — Was 12 bedeutete,
 konnte ich unschwer erraten — nach dem Kursbuch,
 wo auch die Nachtzeiten unterstrichen sind. Also: zwölf Uhr
 nachts! — Nun aber der Treffpunkt, wo die Antwortenden
@@ -593,7 +593,7 @@ sagte er stoßweise:
 »Schraut — ich habe in dieser Nacht einen schweren Fehler
 begangen! Es ist so gut wie selbstverständlich, daß die
 Frau im Lackhut, die vor Entsetzen über den Tod des Knaben
-floh —— sie hat ihn sicher für tot gehalten, — Hilfe herbeiholen
+floh — sie hat ihn sicher für tot gehalten, — Hilfe herbeiholen
 und versuchen wird, den Knaben fortzuschaffen. Denken
 Sie daran, daß sie Verbündete hat, die ihr ergeben sind, so
 zum Beispiel den Kutscher des eleganten Gefährts, das doch
@@ -618,7 +618,7 @@ entlang. Harst atmete ganz ruhig. Er war ja auch zwölf
 Jahre jünger, und sein Körper gut trainiert für Anstrengungen
 aller Art.
 
-»Schraut, Sie bleiben hier vorn,«. befahl er. »Sollte irgend
+»Schraut, Sie bleiben hier vorn,« befahl er. »Sollte irgend
 jemand aus dem Neubau zu entweichen suchen, so halten
 Sie den Betreffenden fest.«
 
@@ -643,7 +643,7 @@ ohne Frage von der Rückseite von Nr. 8 her. Ich blieb stehen.
 Was nun? Sollte ich umkehren? War Harst etwa in Gefahr?
 
 Nun Pferdegetrappel. Abermals flog mein Kopf herum.
-Der wagen nahte. Ich duckte mich zusammen, huschte in den
+Der Wagen nahte. Ich duckte mich zusammen, huschte in den
 Straßengraben. Mein Umhang verschmolz mit der Dunkelheit
 in eins.
 
@@ -730,7 +730,7 @@ schwer. Ich fühlte es ordentlich wie ein Gewicht in der Brust.
 Harst tot! Was sollte ich jetzt zuerst unternehmen? Ob ich
 nicht besser gleich die Polizei benachrichtigte?
 
-M Ich drehte mich um, tat den ersten Schritt nach der Hausecke
+Ich drehte mich um, tat den ersten Schritt nach der Hausecke
 hin.
 
 Da: »Morgen lieber Schraut! Der Tote, den Sie suchen
@@ -777,7 +777,7 @@ tat’s und fügte zum Schluß hinzu: »Bevor ich meinen
 Posten hinter dem Baum aufgab, bemerkte ich links neben
 <@pagebreak/>
 dem Gittertor an einer Pforte ein Messingschild. Ich habe es
-entziffern können »Barentraub« stand darauf.«
+entziffern können. »Barentraub« stand darauf.«
 
 »Ah — Barentraub — Geheimer Kommerzienrat Barentraub.
 Ich kenne dessen Besitzung — von außen. Den
@@ -835,7 +835,7 @@ ganz andere Detonation. Und als der Kerl zischte: »Schurke
 — Sie — Sie sollen,« da wollte er hinzufügen — »mich nicht
 fangen,« nicht etwa — »daran glauben« oder eine ähnliche ernsthafte
 Drohung. — So, damit wäre ich fertig. Ich weiß
-nichts mehr — Eigentlich weiß ich ja genug. Aber dieses
+nichts mehr. — Eigentlich weiß ich ja genug. Aber dieses
 Wissen ist Stückwerk, ist ein Neubau, dem noch vieles fehlt,
 ehe er ein Ganzes wird.« —
 
@@ -866,7 +866,7 @@ ganz abgesehen davon, daß er den braven Charakter des Jungen
 beweist,« sagte Harst und schenkte die kostbaren Delfter
 Tassen voll. »Es heißt da ja — »die <span class="g">ihr</span> nachstellen —«
 Wir wissen nun wieder etwas mehr: es wird jemandem nachgestellt!
-— Wer mag es sein, Schraut?«’
+— Wer mag es sein, Schraut?«
 
 »Ich denke, hier kommt nur die Dame im Lackhut in
 Frage,« erklärte ich sofort.
@@ -1103,7 +1103,7 @@ fügte er unsicher hinzu.
 war, denk’ ick, so jejen neune rum. Jenau weiß ick ’s nich.
 Ick hab’ den Kopp jetzt so voll. Ick will ’n Neubau kaufen,
 son verkrachten Besitz von einem Herrn, der irgendwo in ’ne
-Anstalt is.’«
+Anstalt is.«
 
 Görner wurde aufmerksam.
 
@@ -1115,7 +1115,7 @@ Herr Jakob, wo —«
 det Jeschäft doch noch sehr beschlafen werde. — Also es ist ’ne
 Parzelle auf Steglitzer Terrain, Wißmannstraße 8.«
 
-»Welch ein Zufall!« rief Görner. aber es klang sehr gemacht,
+»Welch ein Zufall!« rief Görner, aber es klang sehr gemacht,
 dies Erstaunen. »Das Grundstück gehört ja meinem
 Schwiegervater —«
 
@@ -1150,7 +1150,7 @@ Der Wirt mußte mittrinken. Bei der dritten Flasche
 machte er so allerlei Andeutungen über Görner. — »Sie sollten
 Ihre Schwester besser woanders in Pflege geben, Herr
 Jakob. Ich will mir nicht die Zunge verbrennen. Aber —
-— im Vertrauen — in Havelruh gibt’s für Patienten mehr
+im Vertrauen — in Havelruh gibt’s für Patienten mehr
 Kaltwasserbäder als Essen. — Ne, — fragen Sie nicht, — ich
 bin vorsichtig! Der Görner — mit dem muß man gut Freund
 sein, der spioniert alles aus — alles. Vorhin war wieder einer
@@ -1235,7 +1235,7 @@ Von der Villa her plötzlich wütendes Bellen.
 Der Mann pfiff laut. Und Harst zerrte mich hastig fort.
 Im Galopp jagten wir dem Gitter zu, kletterten hinüber.
 
-Sie Straße war ganz einsam. Harst blieb stehen, holte
+Die Straße war ganz einsam. Harst blieb stehen, holte
 tief Atem.
 
 <@pagebreak/>
@@ -1253,7 +1253,7 @@ Er schritt jetzt auf die gegenüberliegenden Wirtschaftsgebäude
 zu:
 
 »Warten Sie hier, Schraut. Ich bin sofort wieder da.
-Gehen Sie dort bis Zur Ecke.«
+Gehen Sie dort bis zur Ecke.«
 
 Ich sah noch, daß er an der Gitterpforte auf den elektrischen
 Knopf drückte. An der Straßenecke blieb ich stehen,
@@ -1395,13 +1395,13 @@ Harst kam; hinter ihm zwei Damen, ein älterer Herr. Die
 Damen trugen Lackhüte, sahen sich sehr ähnlich. Der Herr
 war Regierungsrat Stachel.
 
-Görner schnellte hoch, rief: »Lotti,« man hat mich hier —«
+Görner schnellte hoch, rief: »Lotti, man hat mich hier —«
 <@pagebreak/>
 — »Setzen Sie sich!« fiel ihm Harst ins Wort. »Sie haben
 hier nur zu reden, wenn Sie gefragt werden. Ihre Gattin
 will und kann Sie nicht vor dem Zuchthaus retten.«
 
-»Meine Herrschaften, ich werde mich ganz kurz fassen,««
+»Meine Herrschaften, ich werde mich ganz kurz fassen,«
 wandte er sich an die drei. »Wer ich bin, wissen Sie. Ich habe
 Kurt Schlicht deshalb meinen Ausweis gegeben, damit Sie sofort
 erkennen sollten, daß Ihnen von einem Harald Harst
@@ -1432,7 +1432,7 @@ schwermütig von seinem Schwiegersohn in dessen Anstalt aufgenommen
 ist, für Frau Görner ein entsetzliches Martyrium.
 Sie merkt, daß ihr Mann sie nur des Geldes wegen geheiratet
 hat, daß ihre Gesundheit immer schlechter wird. Ihre
-Schwester und ihr Schwager vermuten daß Görner, der ein
+Schwester und ihr Schwager vermuten, daß Görner, der ein
 sehr geschickter Hypnotiseur ist, absichtlich irgendwie ihre
 Gesundheit untergräbt. Sie, die längst mit Görner verfeindet
 sind, raten Charlotte, ihn zu verlassen. Sie weigert sich.
