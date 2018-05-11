@@ -3,7 +3,7 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (Pflichtangabe) -->
-<entry key="UUID">IDIDIDIDIDIDIDIDIDIDIDIDIDIDIDID</entry>
+<entry key="UUID">df526072-555c-11e8-a3c0-773fe8ce1baa</entry>
 <!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
 <entry key="secondaryID"></entry>
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
