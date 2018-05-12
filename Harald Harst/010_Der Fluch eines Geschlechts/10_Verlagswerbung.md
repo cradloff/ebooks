@@ -1,6 +1,8 @@
 <@pagebreak 65/>
+
 <h3>Der Detektiv.</h3>
-<table border="0">
+
+<table border="">
 <tr><td>Band 1: </td><td>Ein furchtbares Geheimnis.</td></tr>
 <tr><td>Band 2: </td><td>Das Gespenst auf der >>Queen«.</td></tr>
 <tr><td>Band 3: </td><td>Das Geheimnis der schwarzen Verse.</td></tr>

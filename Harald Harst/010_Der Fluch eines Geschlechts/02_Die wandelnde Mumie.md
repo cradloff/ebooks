@@ -3,6 +3,7 @@ Die wandelnde Mumie.
 ====================
 
 <h3>1. Kapitel.</h3>
+
 König Eneochar von Aegypten.
 ----------------------------
 
@@ -645,7 +646,9 @@ Harald Harst, sich fügen?! — Nein — das glaubte ich nimmermehr.
 Dazu kannte ich ihn zu gut.
 
 <@pagebreak/>
+
 <h3>3. Kapitel.</h3>
+
 Harsts Kombinationen.
 ---------------------
 
@@ -928,6 +931,7 @@ Sand oben eingebunden war. Er hatte daheim zwei von
 diesen Totschlägern hergestellt.
 
 <h3>4. Kapitel.</h3>
+
 Ein nächtliches Verhör.
 -----------------------
 
@@ -1143,6 +1147,7 @@ Trick zusammen, durch den der Ungar sich dort eingeschmuggelt
 hat. — Doch — lassen wir das für morgen.«
 
 <h3>5. Kapitel</h3>
+
 Der große Schlag.
 -----------------
 
