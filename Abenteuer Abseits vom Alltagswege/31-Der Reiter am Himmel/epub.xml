@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">f3f0fa60-56ac-11e8-b566-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Reiter am Himmel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">31</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das fahle Leuchten aus der eingedrückten Seitenbordluke des durch die mondhellen Wogen dahintaumelnden Wrackstumpfes behagte mir nicht.
+
+Es war weder das Licht einer Laterne, die etwa ein armseliger Schiffbrüchiger als Notsignal angezündet haben konnte, noch sonst eine Lichtquelle irdischen Ursprungs.
+
+Ein Mann, den das Schicksal auf einem nur noch mit der Spitze herausragenden Schiffskadaver grausam allein läßt, wird die Laterne nicht gerade innen in seinem engen, glutheißen, allerletzten Schlupfwinkel befestigen.
+
+Und sonst?!
+
+Was sollte sonst dort dieses gelbliche, matte, ungewisse Strahlen, umrandet von den zackigen Resten des Lukendeckels, so seltsam gespenstisch hinausschicken über das einsame, nächtliche Meer?!</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (31) Der Reiter am Himmel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1931</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
