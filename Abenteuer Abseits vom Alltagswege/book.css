@@ -47,6 +47,18 @@ blockquote p {
 	font-size: x-large;
 }
 
+.centered {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.pre {
+	white-space: pre-wrap;
+}
+
 #toc ol {
 	list-style-type: none;
 	text-align: left;

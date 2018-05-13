@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">dbf952f0-56a6-11e8-b566-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Bergwerk der Abgeschiedenen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">30</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Mr. Black hat seine eigenen Anschauungen über Menschen und Dinge. Er ist der ödeste Materialist, den ich kenne, und das geringe Quantum Zärtlichkeit, das er für meine Person sich abquält, entspringt wohl mehr dem Gefühl jenes Anlehnungsbedürfnisses, das zwei Geschöpfe, die auf einer Klippe mitten im großen Golf von Mexiko hausen, trotz aller Verschiedenheiten von Abstammung, Charakter und Neigungen zueinander drängt.
+
+Der dritte rechnet noch nicht mit. Als ich ihn in dem kleinen Boot nach dem wütenden, tagelangen Orkan, der hier auf unserem Felseninselchen so einschneidende Veränderungen verursachte, von einem der Nordriffe herunterholte, wo er sich mit Streifen seines Kittels festgebunden hatte, war der zerschundene, halbtote, seltsam erdfahle Mann nur ein Bündel kraftlosen Menschenfleisches, und viel anders ist es auch jetzt noch nicht, obwohl inzwischen neun Stunden verstrichen sind und meine Bemühungen, den armen Burschen ins Bewußtsein zurückzurufen, einen rascheren Erfolg verdient hätten.
+
+Mr. Black hat all dieser Fürsorge verständnislos und untätig zugeschaut und sich nur immer wieder den Kopf gekratzt und zuweilen mit seinem nervenbeleidigenden Organ ein übellauniges „Idiot – – großer Idiot“ gekrächzt.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (030) Das Bergwerk der Abgeschiedenen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1931</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
