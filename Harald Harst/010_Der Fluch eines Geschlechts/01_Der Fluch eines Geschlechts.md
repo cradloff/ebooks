@@ -100,7 +100,7 @@ und der Inhalt war folgender:
 > Bitte nicht kommen. Anders überlegt. Verreise
 sofort für länger. Thora.
 
-Harst starrte nachdem er uns diese Absage vorgelesen
+Harst starrte, nachdem er uns diese Absage vorgelesen
 hatte, schweigend und regungslos auf die Depesche. Dann
 nahm er den Umschlag des Briefes der neben ihm auf seinem
 Schreibtisch lag, trat dicht ans Fenster, besichtigte ihn nochmals,
@@ -142,7 +142,7 @@ Der Spediteur ließ sie in seinen Speicher bringen. Als
 seine Leute diesen verlassen hatten, nahm er ein kleines
 Brecheisen und wuchtete den Deckel ab. — Nun konnten wir
 wieder hinaus. Harst dankte dem Spediteur für die freundliche
-Unterstützung, und durch seine Seitenpforte des Speichers
+Unterstützung, und durch eine Seitenpforte des Speichers
 schlüpften wir ins Freie. Wir trugen die Verkleidung
 älterer Herren, kauften in Berlin zwei Koffer und verschiedenes
 andere ein und waren gegen halb sieben in Wannsee,
@@ -319,7 +319,7 @@ Mal eine solche Attacke nicht mehr versuchen konnte.
 meinte Harst und besichtigte den Inhalt der Brieftasche nun
 ungestört und sehr eingehend.
 
-Plötzlich nachdem er einen Brief gelesen, schaltete er die
+Plötzlich, nachdem er einen Brief gelesen, schaltete er die
 Lampe aus, richtete sich auf, sagte in höflichstem Ton:
 
 <@pagebreak/>
@@ -414,7 +414,7 @@ dem sein Boot gehörte, und wir — wir benutzten die infolge
 starker Bewölkung jetzt recht tiefe Dunkelheit zu einer neuen
 Landung am Stege der Friedrichsburg.
 
-Hier warteten wir so lange, bis ein feiner Reger niederging,
+Hier warteten wir so lange, bis ein feiner Regen niederging,
 der Harsts weitere Absichten wesentlich erleichterte.
 Wir stiegen aus und schlüpften in den Garten, dessen Anlagen
 sich bis zu dem flachen Uferstreifen herabsenkten. In einem
@@ -492,7 +492,7 @@ hohle Mauer entstanden war. Nach dreißig Schritten machte
 er halt. Wir standen vor einer Tür aus fast schwarz gewordenem
 Eichenholz mit altertümlichem Drückerschloß.
 
-Harst flüsterte: »Es ist ein Risiko. Aber mir müssen’s
+Harst flüsterte: »Es ist ein Risiko. Aber wir müssen’s
 wagen. Halten Sie Ihre Pistole entsichert bereit.«
 
 Er faßte nach dem Drücker. Der war sehr gut geölt. Auch
@@ -575,7 +575,7 @@ grauen Bart und war überraschend redselig.
 
 »Ja — ein entsetzliches Unglück — eine junge Dame
 ist von Hunden zerfleischt worden. Noch lebt sie. Der Doktor
-Heid ist noch in der Friedrichsburg Das ist die Villa
+Heid ist noch in der Friedrichsburg. Das ist die Villa
 hier —«
 
 Harst spielte den Neugierigen. So erfuhren wir, daß die
@@ -657,7 +657,7 @@ Ausweis erwähnte besondere Kennzeichen.« Er streifte den
 linken Aermel hoch. Am Unterarm hatte er eine lange
 Schnittwunde mit zackigen Rändern.
 
-»Heid war nun überzeugt, tatsächlich den berühmten Liebhaberdetektiv
+Heid war nun überzeugt, tatsächlich den berühmten Liebhaberdetektiv
 vor sich zu haben.
 
 »Herr Harst ich stehe ganz zu Ihrer Verfügung,« meinte
@@ -667,7 +667,7 @@ er eifrig.
 verbunden. Hoffen Sie, daß sie durchkommen wird?«
 
 <@pagebreak/>
-»Falls keine schlimmere Vereiterung hinzutritt.
+»Falls keine schlimmere Vereiterung hinzutritt.«
 
 »So, — dann bitte ich Sie dringend, sofort nach der
 Friedrichsburg zurückzukehren und dort so zu tun, als hätte
@@ -741,7 +741,7 @@ den neuen Tag jubelnd begrüßten.
 aller Bestien. Kein Tier kennt die Habgier. Kein
 Tier tötet um des schnöden Geldes willen. Nur wir — der
 homo sapiens, das intelligenteste aller Säugetiere! — Entsetzlich
-dies alles!« — Worauf sich dies »Entsetzlich« bezog.
+dies alles!« — Worauf sich dies »Entsetzlich« bezog,
 konnte ich nur vermuten.
 
 Ich nahm ihm gegenüber Platz. — »Würden Sie mir nicht
@@ -751,8 +751,8 @@ Er winkte ab. »Das ist doch so klar, Schraut! Strengen
 Sie Ihr Hirn nur etwas an.«
 
 Wir hörten im Nebenzimmer Geräusch. Höppners waren
-aufgestanden Wir bekamen bald Kaffee, weiche Eier und
-anderes, frühstückten in Ruhe und verließen denn das freundliche
+aufgestanden. Wir bekamen bald Kaffee, weiche Eier und
+anderes, frühstückten in Ruhe und verließen dann das freundliche
 Häuschen.
 
 Es war jetzt sechs Uhr morgens. Wir gingen die Elsenstraße
@@ -762,7 +762,7 @@ nun beendet war. Harst flüsterte mir zu: »Sehr
 günstig. Das erspart uns einen Gang nach dem Gemeindeamt.«
 
 Er sprach Gröber an, sagte, wer wir seien — Versicherungsbeamte
-auf Urlaub und leidenschaftliche Angler. —
+auf Urlaub und leidenschaftliche Angler, —
 fragte, wo man die Erlaubnis zum Angeln im Kleinen Wannsee
 <@pagebreak/>
 bekäme, und gelangte auf Umwegen unauffällig zu den
@@ -971,14 +971,14 @@ Berthold Müller läßt Sie herzlichst grüßen. Er ist unser
 Verbündeter geworden. — So, und nun einige Fragen,
 Baronesse.«
 
-»Wir erfuhren so, daß Thora sich kurz vor halb zwölf zu
+Wir erfuhren so, daß Thora sich kurz vor halb zwölf zu
 der Zusammenkunft mit uns hatte an den See begeben wollen.
 Sie kam auch unbemerkt in den Garten. Dann näherten sich
 ihr die drei Bulldoggen, bisher ihre Lieblinge. Sie rief sie
 leise an. Aber ganz plötzlich waren die Hunde dann zum
 Angriff gegen sie vorgegangen — ohne jeden Grund. Sie
 hatte sich verzweifelt gewehrt und laut um Hilfe gerufen. Zu
-ihrem Erstaunten hatten die Bulldoggen ebenso plötzlich aber
+ihrem Erstaunen hatten die Bulldoggen ebenso plötzlich aber
 von ihr abgelassen und waren scheu zur Seite gekrochen. Dann
 war ihr Onkel aus dem Hause herbeigestürmt, auch der Diener,
 und dieser trug sie nun in ihr Zimmer, während der Baron
@@ -1023,7 +1023,7 @@ jedoch als ich mich zum zweiten Mal nach ihm umdrehte. Auch
 im Garten hat er mich stets sozusagen beaufsichtigt. Immer
 ist er in der Nähe, wenn —«
 
-Danke, Baronesse. — Hat Ihnen Ihr Vater einmal von
+»Danke, Baronesse. — Hat Ihnen Ihr Vater einmal von
 dem sogenannten Fluche des Geschlechts etwas erzählt?«
 
 »Nein — nie! Ich weiß nur, daß unsere Familie Ungarn
@@ -1089,7 +1089,7 @@ verbrannt,« meinte er. Und er tat es eigenhändig im
 Ofen, indem er Papier aus dem Papierkorb hineinstopfte und
 es anzündete.
 
-Nach seiner halben Stunde trat Heid endlich ein. »Er
+Nach einer halben Stunde trat Heid endlich ein. »Er
 lebt!« rief er ganz glücklich. »Er hat auch bereits zu Protokoll
 gegeben, daß er nie an Selbstmord gedacht und daß der
 Zettel nicht von ihm herrührt, der auf dem Schreibtisch lag.
@@ -1195,7 +1195,7 @@ erklärte, den Herrn Baron sprechen zu wollen in einer rein
 persönlichen Angelegenheit.
 
 Der Diener ließ sich die Namen nennen — Brüder Ernst
-Und Oskar Hevelke, Versicherungsbeamte, — führte uns ins
+und Oskar Hevelke, Versicherungsbeamte, — führte uns ins
 Haus und hieß uns auf der sehr prunkvollen Diele warten,
 kehrte sehr bald zurück und geleitete uns in den Garten, wo
 der Baron in einem Liegestuhl neben sich einen gedeckten
@@ -1225,7 +1225,7 @@ mal. Na — dann haben Sie dort meinen Vetter kennen gelernt,
 der damals auf meiner Farm als Jagdgast weilte. Ich
 bin ja auch alter Transvaaler.«
 
-Mir fiel es auf daß er dann sofort das Thema wechselte. Harst
+Mir fiel es auf, daß er dann sofort das Thema wechselte. Harst
 verabschiedete sich bald, fragte dann aber noch zögernd
 ob der Herr Baron nicht doch vielleicht Lust hätte, sein Leben
 versichern zu lassen. — Doch der lachte zwanglos, meinte:
@@ -1267,7 +1267,7 @@ Fuchs wird hineintappen. Es fragt sich nur, welcher aus dem
 großen Fuchsbau es sein wird.« —
 
 Um zehn schlichen wir in das Haus des Doktors hinein.
-Er wohnte Hochparterre.
+Er wohnte hochparterre.
 
 Heid und Frau waren noch auf. Im Dunkeln wurde die
 Baronesse nun auf Harsts ausdrücklichen Wunsch im Speisezimmer
@@ -1436,7 +1436,7 @@ Bechert warf einen langen Blicks auf den Daliegenden.
 voller Abscheu. »Sie hätten sie verdient, Sie Bestie in Menschengestalt!
 Sie heißen in Wirklichkeit Paul Melzer, waren
 Arzt in Keetmannshoop, wurden wegen allerlei Betrügereien
-eingesperrt entwarfen dann den Plan, sich des großen Vermögens
+eingesperrt, entwarfen dann den Plan, sich des großen Vermögens
 der Malwacks zu bemächtigen, dangen sich drei ebenso
 verkommene Existenzen zu Verbündeten, rüsteten sie mit
 Giften aus, schickten sie hierher und ließen durch den jetzigen
@@ -1450,7 +1450,7 @@ es auch ganz ruhig, da dieser seit zwanzig Jahren dauernd
 in Transvaal gelebt hatte und weil eine entfernte Aehnlichkeit
 mit ihm diesen Betrug erleichterte. Die ältere Baronesse
 haben Sie mit eigener Hand im Badehäuschen der Friedrichsburg
-ertränkt den, jungen Baron, den Studenten, durch
+ertränkt, den jungen Baron, den Studenten, durch
 <@pagebreak/>
 Cholerabazillen hingemordet, Baronesse Thora sollten die Hunde
 zerfleischen, und ihren Verlobten sollte gestern der Gärtner

@@ -98,6 +98,10 @@ a.refnote {
 	text-align: right;
 }
 
+.pre {
+	white-space: pre-wrap;
+}
+
 /* dünne Linie mit Verlauf als Trenner */
 hr {
 	border: 0; 

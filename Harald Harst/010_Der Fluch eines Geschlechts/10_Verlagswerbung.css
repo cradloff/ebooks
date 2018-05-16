@@ -1,0 +1,8 @@
+@import "book.css";
+table {
+	border: none;
+}
+td:nth-child(1) { 
+	white-space: pre;
+	vertical-align: top;
+}

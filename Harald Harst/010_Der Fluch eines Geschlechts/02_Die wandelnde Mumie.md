@@ -39,7 +39,7 @@ Der Schleier verhüllte ihr Gesicht vollkommen.
 bleibt, gnädiges Fräulein,« begann er nun. »Glauben Sie,
 daß Ihre Verfolger bis hierher hinter Ihnen geblieben sind?«
 
-»Sie schüttelte den Kopf. »Ich hoffe, nein, Herr Harst.
+Sie schüttelte den Kopf. »Ich hoffe, nein, Herr Harst.
 Aber — woher können Sie wissen, daß —«
 
 »Oh — das ist so einfach. Ich weiß noch mehr. Sie wohnen
@@ -65,7 +65,7 @@ Auto verrieten mir, daß Sie fürchteten, man könnte Ihnen
 gefolgt sein. Ihr Schirm ist recht naß. Jene Wolke dort kam
 von Westen, muß also im Westen zuerst einen Regenschauer
 gebracht haben und zwar vor nicht langer Zeit. Der Schirm
-also sagte mir, wo ich Ihr Heim Zu suchen hätte. Denn —
+also sagte mir, wo ich Ihr Heim zu suchen hätte. Denn —
 wohnten Sie im Osten irgendwo, hätten Sie schon vor dem
 Beginn des Regens im Auto gesessen. Derselbe recht feuchte
 Schirm deutet aber auch auf längeren Aufenthalt auf der
@@ -82,15 +82,15 @@ geschwungenen Teilen jene charakteristischen Kratzer wie
 sie Pedale eines Rades hervorrufen. Ferner steckt in Ihrer
 Krawatte das goldene Abzeichen jenes Klubs. Dieser nimmt
 nur Mitglieder aus ersten Familien auf. Also muß Ihr Vater
-angesehen sein. Ihre Kleidung, Ihr Schmuck die goldene
+angesehen sein. Ihre Kleidung, Ihr Schmuck, die goldene
 Schirmkrücke verraten Reichtum, desgleichen die Wohnung,
 die doch, da Sie vorhin zustimmend nickten, wirklich in
 der Villenkolonie Grunewald liegt. Die meisten dort Ansässigen
 haben eigene Autos. Wenn Sie nun ein Mietauto benutzten,
-so konnte vielleicht daraus abgeleitet wenden, daß Ihr
+so konnte vielleicht daraus abgeleitet werden, daß Ihr
 Vater sehr sparsam und nicht für den Luxus eines Kraftwagens
 zu haben ist — also eine Eigenheit. Jeder Mensch besitzt
-ja mehrere — selbst der tugendhafteste dann ist eben diese
+ja mehrere — selbst der tugendhafteste, dann ist eben diese
 Tugenhaftigkeit seine Besonderheit. — So, und nun bitte
 ich Sie mir vertrauensvoll Ihren Fall vorzutragen, wobei
 ich nichts, keine Kleinigkeit, mag sie noch so geringfügig
@@ -258,7 +258,7 @@ ich sie fragte, ob ihr Vater in diesem Jahr bereits in einem
 Bade gewesen wäre — es hat nämlich in den Zeitungen gestanden,
 — wurde sie ohne jeden Grund sehr — sehr verlegen
 und rot und erklärte nur widerwillig: »Ja — im April in
-Pyrmont. — Jedenfalls dürfte es zweckmäßig sein, festzustellen,
+Pyrmont.« — Jedenfalls dürfte es zweckmäßig sein, festzustellen,
 weshalb die Antwort sie so verlegen machte. Ich
 werde den Berufsdetektiv Holtz, der mir letztens warm
 empfohlen wurde, sofort nach Pyrmont schicken, denn Sie,
@@ -292,7 +292,7 @@ Er war sehr höflich und entgegenkommend ohne jedoch auch
 nur einen Augenblick eine kriecherische Unterwürfigkeit zu
 zeigen. Er hatte zweifellos einen vortrefflichen Charakter
 und besaß die größte Anhänglichkeit an seinen Herrn und
-dessen Tochter. Auch die Köchin machte den allerbesten Eindrucke.
+dessen Tochter. Auch die Köchin machte den allerbesten Eindruck.
 
 Harst besichtigte zunächst das Gebäude von außen. Besondere
 Aufmerksamkeit schenkte er dem Museumanbau.
@@ -300,7 +300,7 @@ Wir mußten uns gedulden, der alte Karl und ich, denn Harst
 ging mit einer Sorgfalt zu Werke, die manchem sehr überflüssig
 erschienen wäre.
 
-»Auf dem kleinen Hofe stand eine einfache, etwa sechs Meter
+Auf dem kleinen Hofe stand eine einfache, etwa sechs Meter
 hohe Leiter. Harst fragte den Diener ob sie zur Nacht
 <@pagebreak/>
 weggeschlossen würde. — »Nein, hier gibt’s keine Diebe,«
@@ -329,7 +329,7 @@ anschlugen — so vorzüglich geschützt, daß hier »eine
 Einbruchsdiebstahlversicherung wirklich unnötig ist,« wie Harst
 lächelnd sagte.
 
-Erst nahmen wir die drei anderen Räume in Augenschein
+Erst nahmen wir die drei anderen Räume in Augenschein.
 Dann schloß der alte Karl die schwere Eisentür zum Mumiensaal
 auf. Wir traten ein. Durch die drei Fenster fiel das
 Tageslicht in blendender Helle bis in den entferntesten Winkel.
@@ -389,7 +389,7 @@ vier Räume?« fragte er den Diener.
 »Selten nur, Herr Harst. Etwa alle zwei Wochen. Zuletzt
 tat ich’s vor acht Tagen.
 
-Dann putzen Sie auch die Fenster und wischen Staub,
+»Dann putzen Sie auch die Fenster und wischen Staub,
 nicht wahr?«
 
 »Ja — nur dann. Der Geheimrat ist immer dabei. Er
@@ -444,7 +444,7 @@ Karl brachte den Schlüssel. Und die beiden Gasarbeiter
 verließen die Villa, traten auf die stille Straße hinaus. —
 Wir schlenderten gemächlich weiter, so recht wie Leute, die
 ihre Arbeit getan und es nicht eilig haben. Ein Auto kam
-hinter uns her sehr langsam, fuhr dicht am Straßenrand
+hinter uns her, sehr langsam, fuhr dicht am Straßenrand
 entlang. Als es mit uns auf gleicher Höhe war beugte sich
 der Chauffeur heraus und fragte leise:
 
@@ -492,7 +492,7 @@ Da glitt der Wagen schon in eine offene Garagentür hinein,
 die hinter uns sofort zuflog. Einen Augenblick tiefes
 Dunkel. Dann blitzte eine große Laterne auf, dann wurden
 beide Autotüren geöffnet, und von jeder Seite hielt uns ein
-maskierter Kerl einen Revolver dicht vor das Gesicht
+maskierter Kerl einen Revolver dicht vor das Gesicht.
 
 »Keinen Laut! Aussteigen! — Mit uns ist nicht zu spaßen!«
 rief der eine, ohne seine Stimme zu dämpfen. Er
@@ -522,9 +522,9 @@ Dann spürte ich an meinem rechten Ellbogen eine Berührung
 drei —
 
 Schließlich ging mir ein Licht auf. Es konnte nur Harst
-Sein der mich auf diese Weise von seiner Anwesenheit verständigen
+sein, der mich auf diese Weise von seiner Anwesenheit verständigen
 wollte. — Ich gab nun ebenfalls Antwort — eins —
-zwei — drei — Da hörten die Signale auf. — Also natürlich
+zwei — drei. — Da hörten die Signale auf. — Also natürlich
 Harst! Er, dem der Kerl nicht mit Erstechen gedroht hatte,
 war also wohl auch durch einen Knebel stumm gemacht worden
 — als der gefährlichere von uns.
@@ -551,7 +551,7 @@ kleinen Kachelofen leer.
 
 Der maskierte, kleine, sehr breitschultrige und recht gut
 angezogene Mensch, der schon in der Garage den Sprecher gemacht
-hatte sagte jetzt: »Ich will Ihnen die Belästigung
+hatte, sagte jetzt: »Ich will Ihnen die Belästigung
 durch einen Knebel hier ersparen. Ihre Hilferufe wären
 <@pagebreak/>
 nämlich zwecklos. Das Haus liegt ganz einsam. Sollten Sie
@@ -686,7 +686,7 @@ ist recht praktisch. — Was macht denn die Mumie des Königs
 Eneochar?«
 
 Hinter der langen Seidenmaske kam ein kurzes Auflachen
-hervor. — »Oh — der geht’s gut. Herr Harst! — Nicht
+hervor. — »Oh — der geht’s gut, Herr Harst! — Nicht
 wahr — Sie möchten zu gern wissen, was wir vorhaben. Nur
 Geduld! Noch ein paar Tage, und Sie werden mehr davon
 hören, als Ihnen lieb und Ihrem Ruf als genialer Detektiv
@@ -726,7 +726,7 @@ wieder.
 
 Nach einer Weile sagte Harst: »Ich bin hundemüde, will
 zu schlafen versuchen. — Gute Nacht, Schraut! Morgen bitte
-Ich den Mann, uns die Hände vorn zu fesseln. Ich muß immer
+ich den Mann, uns die Hände vorn zu fesseln. Ich muß immer
 halb auf der Seite liegen. — Gute Nacht!«
 
 Nach abermals einer geraumen Zeit glaubte ich wieder
@@ -971,7 +971,7 @@ Mann doch ebenfalls nach unten schaffen.
 
 <@pagebreak/>
 Als ich auf das Dach kroch, bemerkte ich sofort den feinen
-Lichtstrahl von Harsts Taschenlampe Er kniete neben dem
+Lichtstrahl von Harsts Taschenlampe. Er kniete neben dem
 ebenfalls ohnmächtigen, bereits gefesselten und geknebelten
 Menschen und untersuchte dessen Taschen.
 
@@ -1026,7 +1026,7 @@ lachen. Wir hatten ihm den Knebel vorher aus dem Munde
 entfernt.
 
 »Geständnis?! — Niemals! Was soll ich gestehen,
-Was kann man uns vorwerfen?! Höchstens doch Freiheitsberaubung
+was kann man uns vorwerfen?! Höchstens doch Freiheitsberaubung
 — weil wir Sie beide ein paar Stunden eingesperrt
 haben!« Er lachte abermals. Aber dieses Lachen klang doch
 gezwungen.
@@ -1068,7 +1068,7 @@ haben wir ja auch eine vorgestern beglichene Hotelrechnung,
 Hotel »Stadt Berlin«, Mohrenstraße, ausgestellt für Herrn
 Ingenieur Franz Wilke und Frau, Zimmer 19. — Also dort
 wohnen Sie Herr Wilke alias Meinert. Na, dann werden
-wir Ihre Frau ja auch bald festnehmen können — So, nun
+wir Ihre Frau ja auch bald festnehmen können. — So, nun
 <@pagebreak/>
 zu Ihnen!« Damit befühlte er nochmals die Taschen des
 Chauffeurs. In der Innentasche der Weste trug dieser ein
@@ -1092,7 +1092,7 @@ Wir aber machten uns auf den Heimweg. Der Morgen
 graute bereits. Das Gewölk war verschwunden. Der neue
 Tag versprach das Beste.
 
-»Nun Schraut — jetzt werden Sie mir doch wohl als
+»Nun, Schraut — jetzt werden Sie mir doch wohl als
 mein Schüler Ehre machen und mir Ihre Ansicht über die
 wandelnde Mumie auseinandersetzen können,« sagte Harst
 gutgelaunt während wir durch die stillen Straßen wanderten.
@@ -1259,7 +1259,7 @@ seinen Namen. Ich sah ihn vom Fenster aus, wie er die
 Villa betrat. Sonst hätte ich gar nicht —«
 
 Harst hatte sich vorbeugt. »Danke, das genügt — Wie
-wurde die Mumie hergeschafft? — Bitte recht eingehend alles
+wurde die Mumie hergeschafft? — Bitte recht eingehend alles,
 Fräulein Burmeester.«
 
 »Spät abends brachten zwei Männer auf einem Handwagen
@@ -1277,7 +1277,7 @@ Eneochar nun sein eigen nennen dürfe. — Am nächsten Morgen
 holten die beiden Männer die große Holzkiste ab.«
 
 »Haben Sie diese Leute gesehen? War der eine nicht
-schlank, mittelgroß; und bartlos, der andere sehr breitschultrig.
+schlank, mittelgroß; und bartlos, der andere sehr breitschultrig,
 klein und bärtig?«
 
 »Ja — das stimmt, Herr Harst —«
@@ -1344,7 +1344,7 @@ könnte sie Ihnen dank der gefälschten Depesche beantworten,
 möchte den Verbrecher aber auf frischer Tat abfassen. Dazu
 ist es nötig, daß Sie, wenn wir zu dreien in den Mumiensaal
 gehen, genau so reden und handeln, wie ich es Ihnen jetzt im
-einzelnen vorschreiben werde,« —
+einzelnen vorschreiben werde.« —
 
 Zehn Minuten darauf brannten im Mumiensaal die
 <@pagebreak/>
@@ -1413,7 +1413,7 @@ er die Gestalt, prallte zurück.
 Und da — sprang sie ihm auch schon an die Kehle, riß
 ihn zu Boden.
 
-Harst schnellte sich vorwärts. Zwei Satze —, und seine
+Harst schnellte sich vorwärts. Zwei Sätze —, und seine
 Hände umklammerten den Hals des Verbrechers mit einer
 Kraft, daß dieser sofort von seinem Opfer abließ. — Ich tat
 meine Schuldigkeit. Stahlfesseln schnappten ein, — und Harst
@@ -1436,7 +1436,7 @@ abgesehen hatten. Wäre ich nicht hindernd dazwischen getreten,
 hätten Sie den Tresor ausgeplündert und eiligst das
 Haus verlassen, da ja die Schlüssel dort in der Eisentür stecken.
 Ihre Genossen hätten Sie draußen mit dem Auto erwartet
-und Sie wären fraglos mit Ihrer Millionenbeute e entkommen.
+und Sie wären fraglos mit Ihrer Millionenbeute entkommen.
 Jetzt aber werden Sie ins Zuchthaus wandern und dort darüber
 nachdenken können, ob es nicht besser ist, durch ehrliche
 Arbeit das tägliche Brot zu verdienen, auch darüber, ob es

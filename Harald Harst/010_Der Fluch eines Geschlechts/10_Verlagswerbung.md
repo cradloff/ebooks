@@ -2,9 +2,9 @@
 
 <h3>Der Detektiv.</h3>
 
-<table border="">
+<table>
 <tr><td>Band 1: </td><td>Ein furchtbares Geheimnis.</td></tr>
-<tr><td>Band 2: </td><td>Das Gespenst auf der >>Queen«.</td></tr>
+<tr><td>Band 2: </td><td>Das Gespenst auf der »Queen«.</td></tr>
 <tr><td>Band 3: </td><td>Das Geheimnis der schwarzen Verse.</td></tr>
 <tr><td>Band 4: </td><td>Die Hand mit den vier Fingern.</td></tr>
 <tr><td>Band 5: </td><td>Das einsame Haus im Moor.</td></tr>
@@ -31,8 +31,8 @@
 <tr><td>Band 26:</td><td>Die Gesellschaft der roten Karte.</td></tr>
 </table>
 
-<p class="centered">Weitere Bande sind in Vorbereitung.</p>
+<p class="centered pre">Weitere Bände sind in Vorbereitung.
 
 Verlag moderner Lektüre G. m. b. H.
-Berlin 26, Elisabeth-Ufer 44.
+Berlin 26, Elisabeth-Ufer 44.</p>
 
