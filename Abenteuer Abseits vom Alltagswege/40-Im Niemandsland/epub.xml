@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">34093cb0-5a0f-11e8-b566-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Im Niemandsland</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">40</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Niemandsland …
+
+Aus dem Schoße des Meeres geboren …
+
+Hervorgestoßen durch die glühenden Fäuste der flammenden Titanen, die unter der Erdrinde ihr enges Reich mit den Feuern vulkanischer Eruptionen zu erweitern suchen …
+
+Niemandsland, Meeresboden, angeflickt wie eine Wüstenei an die Gestade von Santa Renata.
+
+Santa Renata?!
+
+… Insel … Westlichste, nördlichste der Galapagos-Gruppe … Das sei genug …
+
+Vorläufig …</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (40) Im Niemandsland.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1932</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
