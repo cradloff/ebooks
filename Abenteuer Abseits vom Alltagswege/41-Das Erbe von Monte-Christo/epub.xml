@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">10128dd0-5a13-11e8-b566-0800200c9a66</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Erbe von Monte-Christo</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">41</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Aus den grauen, kühlen Dunstmassen, die wie festgeklebt über dem kahlen, steinigen Hochplateau lagerten, erklang von Süden her ein Heulen und Kläffen und schrilles Winseln, als ob von dort ein Heerbann verdammter Seelen, dem Fegefeuer entstiegen, in Anmarsch wäre.
+
+Der Mann, der da soeben in rasendem Lauf mit keuchender Brust und fliegenden Pulsen einen Augenblick ausruhend verharrt hatte, horchte dem Näherkommen dieses satanischen Chores mit vorgeneigtem Kopf.
+
+Dann lachte er hart auf, – so, wie die Männer lachen, die die Gefahr als Spiel nur werten …
+
+„Alter Monte“, sagte der Mann, indem er sich zu seinem Hunde hinabbeugte, „ich möchte nur wissen, wie dieses Viehzeug hier auf diese gottverlassene Rieseninsel geraten ist, hier am Rande der Treibeisgrenze des Südpols …!“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (41) Der Erbe von Monte-Christo.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1932</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
