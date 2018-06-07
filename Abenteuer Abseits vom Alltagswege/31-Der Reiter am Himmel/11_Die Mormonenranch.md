@@ -152,7 +152,7 @@ Und als meine Augen gehorchten, als jener finstere Chor von fragwürdigen
 Reitern jetzt bei Seite trat und zweifellos beriet, was man mit dem aus dem
 Sande Herausgegrabenen anfangen sollte, als ein paar der sehnigen Kerle sich
 mißtrauisch umschauten und ich nicht schnell genug Kopf und Fernglas
-zurückziehen konnte, tauchte neben mir Fran Dagmar auf.
+zurückziehen konnte, tauchte neben mir Frau Dagmar auf.
 
 Auch sie lag flach im Sande, aber ihr Gesicht war zu einer Maske hellsten
 Entsetzens erstarrt. Hilflose Angst flammte in ihren übergroßen Augen, und die

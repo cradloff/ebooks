@@ -187,7 +187,7 @@ abstieß und anzog, das Widerwillen erregte und doch auch Interesse erweckte. Es
 war das Gesicht eines völlig skrupellosen Genußmenschen.
 
 Bevor ich irgend etwas gegen den Flüchtling, den ich niemals hier in Nevada
-vermutet hätte (auch Dagmar glaubte ihn in New York<@refnote 6/>, unternahm,
+vermutet hätte (auch Dagmar glaubte ihn in New York<@refnote 6/>), unternahm,
 löschte ich erst einmal sehr rasch die Laterne aus, um nicht etwa von draußen
 niedergeknallt zu werden.
 

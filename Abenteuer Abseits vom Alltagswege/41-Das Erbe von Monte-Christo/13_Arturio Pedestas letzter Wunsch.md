@@ -154,7 +154,7 @@ zuspringen konnte.
 
 Ich nahm die eine Laterne, bedeckte sie mit meiner Lederjacke und drang leise
 in den Stollen ein. Ich hütete mich, das geringste Geräusch zu machen, ich
-ahnte setzt mit aller Gewißheit, daß hier inzwischen Arturio Pedesta einen
+ahnte jetzt mit aller Gewißheit, daß hier inzwischen Arturio Pedesta einen
 letzten Versuch gewagt hatte, doch noch Sieger zu bleiben. Geldgier, Goldgier
 mochten ihn angefeuert haben, – jeder andere wäre geflohen, *er* nicht, und das
 entsprach seinem Charakter, der Mann war nicht zu unterschätzen, der vertrat

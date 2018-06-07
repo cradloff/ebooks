@@ -282,7 +282,7 @@ dann erscheint im Fensterrahmen Dagmars lachendes Gesicht …
 „Weiß ich schon, Dagmar … Jangse war vorhin hier … Die acht Mormonen sind zu
 lebenslänglichem Zuchthaus begnadigt worden …“
 
-„Oh, darauf hatte ich gehofft, Olaf …“, – aber ich wollte dir etwas anderes
+„Oh, darauf hatte ich gehofft, Olaf …, – aber ich wollte dir etwas anderes
 mitteilen … Hat Koipato dir gegenüber einmal die Satansfarm erwähnt?“
 
 Ich kann nur verneinen.

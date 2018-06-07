@@ -1,5 +1,5 @@
 Anmerkung des Verlages:
------------------------
+=======================
 
 <@footnote 0 "10_Verzweifelte Stunden.md">Joseph de Kerguelen-Trémarec, geb. 1745 zu Quimper in der Bretagne,
 teile insofern das Schicksal vieler Berühmtheiten, als ihn sein Vaterland eine
@@ -16,7 +16,7 @@ gegen England 1778“. Später geriet er wieder in Vergessenheit. –</@footnote
 
 
 Anmerkungen:
-------------
+============
 
 <@footnote 1 "05_Oberheizer Pieter Klaaß.md">Siehe Band 12: Die Herrin der Unterwelt.</@footnote>
 

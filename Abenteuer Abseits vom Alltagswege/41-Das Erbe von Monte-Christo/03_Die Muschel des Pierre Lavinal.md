@@ -75,7 +75,7 @@ In solchen Momenten haben ihre Augen die Farbe mattierten Stahls.
 
 Und dann schwiegen wir.
 
-Was gab es da auch zu redend
+Was gab es da auch zu reden?
 
 Uhl stopfte zerstreut seine Pfeife und legte sie wieder weg.
 

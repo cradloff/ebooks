@@ -259,7 +259,7 @@ gegenwärtig waren.
 
 Eins war in meinem Gedächtnis haften geblieben:
 
-> Am Unterrande der Muschel war als Abschluß der Wegskizze ein Oval sichtbar
+Am Unterrande der Muschel war als Abschluß der Wegskizze ein Oval sichtbar
 gewesen, und oben an diesem Oval war klar und scharf ein Baum eingeritzt
 gewesen mit dickem Stamm, dicken Ästen und nur wenigen Zweigen.
 
@@ -292,7 +292,7 @@ Ich?!
 Gewiß, Pieters Erwähnung des Pergaments war wichtig, war ja eine Bestätigung
 dessen, was längst klar:
 
-> Es gab drei Anwärter auf Pierre Lavinals „unermeßliche Reichtümer“, – – drei …!
+Es gab drei Anwärter auf Pierre Lavinals „unermeßliche Reichtümer“, – – drei …!
 Und alle drei mußten Nachkommen von Angehörigen der Besatzung der „Garonne“,
 des Expeditionsschiffes des Kapitäns Kerguelen-Trémarec sein, – drei:
 

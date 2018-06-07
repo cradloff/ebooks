@@ -73,7 +73,7 @@ Denn wer Ohren hat, zu hören, der hört …
 Und der hört aus dieser Geschichte das mit herausklingen, das mir vor Augen
 schwebt:
 
-> Der grüne Fluß, – – ein Stück Menschheitstragödie!
+Der grüne Fluß, – – ein Stück Menschheitstragödie!
 
 … Aber auch andere Stunden kommen …
 

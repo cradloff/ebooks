@@ -140,7 +140,7 @@ zu lassen. Keine Insel, glaube ich, sah so viel Grausamkeit, Mordgier,
 Schachergeist, Abenteurer und oberfaule Volksbeglücker wie diese einst
 spanische Kolonie.
 
-Dolores zieht mich sofort in die Vorhalle, hat nur einem leichten Seidenumhang
+Dolores zieht mich sofort in die Vorhalle, hat nur einen leichten Seidenumhang
 umgeworfen und schlendert mit mir zum Hafen hinab …
 
 Die Bö, die die Bucht entlangstreicht, bringt etwas Kühlung, die gut gehaltene

@@ -263,7 +263,7 @@ Und da rennt der grübelnde Sinn gegen unüberwindliche Hindernisse an.
 
 … Nur eins erscheint mir gewiß:
 
-> Pierre Lavinal, Steuermann des Dreimasters „Garonne“ und Entdecker hier
+Pierre Lavinal, Steuermann des Dreimasters „Garonne“ und Entdecker hier
 irgendwo lagernder unermeßlicher Reichtümer, – Pierre Lavinal, der in die
 rosige Muschel die Skizze, also den Weg zu diesen Reichtümern, einritzte, kann
 nicht der einzige der Besatzung der „Garonne“ gewesen sein, der diese

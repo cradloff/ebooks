@@ -391,7 +391,7 @@ Ich sehe nichts …
 Das ist ein Spuk, das ist etwas für den, der das Grauen kennen lernen möchte …
 
 *Ich* kann mir die Fragen da unten vorstellen, – angstverzerrt, bleich, – – ich
-rieche fast den Alkoholdunst. der aus den verpesteten Hirnen dieser Burschen –
+rieche fast den Alkoholdunst, der aus den verpesteten Hirnen dieser Burschen –
 auch vor Angst – herausgepreßt wird, – wie sie nüchtern werden, wie sie die
 Gefahr begreifen, wie sie diese glühenden Wolfsaugen fühlen wie Messerstiche,
 und wie in den schnell wieder ausgeräucherten Köpfen die eine Frage

@@ -131,7 +131,7 @@ Ritze entlang …
 
 Was nur Vermutung gewesen, wurde Gewißheit:
 
-> Dieses ungleichseitige Viereck war eine Bimssteinplatte, die man genau
+Dieses ungleichseitige Viereck war eine Bimssteinplatte, die man genau
 zurechtgehauen und in ein Loch eingefügt hatte! Ihr Flechtenwuchs war nicht so
 alt wie der der Umgebung, war jüngeren Datums. Das Datum selbst würde sich auch
 noch feststellen lassen.

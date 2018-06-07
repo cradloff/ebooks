@@ -16,7 +16,7 @@ Gentleman spielend beherrschen muß.
 Ich heiße zur Zeit (gefälschter Personalausweis, Kostenpunkt 500 Dollar,
 Fabrikant Mister Saul Mecheler, Carson City, finsterste Vorstadt) Gowin Short,
 bin glatt rasiert wie ein waschechter Yankee und stecke bis zum Hals in einer
-äußere anrüchigen Geschichte, die mir, wenn ich Pech habe, das Genick brechen
+äußerst anrüchigen Geschichte, die mir, wenn ich Pech habe, das Genick brechen
 kann – bildlich gesprochen.
 
 Der Kellner, der uns musterhaft bedient, ist zweifellos einer der

@@ -24,7 +24,7 @@ Ozean.
 
 Weder die große Pinasse noch der Schoner zeigen irgend ein Licht. Wir
 schleichen dahin wie Diebe und haben doch ein reines Gewissen. Weit vor uns
-leuchten grelle Lichtkegel, die dauernd hin- und hergleiten: Scheinwerfer“
+leuchten grelle Lichtkegel, die dauernd hin- und hergleiten: Scheinwerfer!
 
 Ariane drückt mir ein Fernglas in die Hand.
 

@@ -1,5 +1,5 @@
 Anmerkungen:
-------------
+============
 
 <@footnote 1 "01_Der Bewohner der Wrackspitze.md">Bugsprit / Bugspriet – beide
 Schreibweisen vorhanden, alles auf „Bugspriet“ geändert.</@footnote>

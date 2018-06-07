@@ -1,5 +1,5 @@
 Verlagswerbung:
----------------
+===============
 
 <p class="centered" style="font-weight: bold; font-size: large;">Tropenglut und Leidenschaft</p>
 
