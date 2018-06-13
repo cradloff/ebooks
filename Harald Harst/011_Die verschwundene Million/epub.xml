@@ -19,7 +19,7 @@
 <!-- Position innerhalb der Sammlung (Band-Nummer) -->
 <entry key="group-position">11</entry>
 <!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
-<entry key="edition"></entry>
+<entry key="edition">2. Auflage</entry>
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
