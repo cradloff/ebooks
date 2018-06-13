@@ -250,7 +250,7 @@ kommt in den Heerbann der behaarten Vettern, und als ich das unterste
 Stockwerk, – zwanzig Meter über dem Boden – erreicht habe, schrillt mir aus
 einer Fensteröffnung Harakis Stimme entgegen …
 
-„Hallo, Abelsen … *Es* befindet sich ein Weißer unter den Affenmenschen …!!“
+„Hallo, Abelsen … Es befindet sich ein Weißer unter den Affenmenschen …!!“
 
 Was mir aus der Höhe von sechzig Metern entgangen war, hat der Japaner von hier
 aus festgestellt: Da steht tatsächlich in der vordersten Reihe neben den

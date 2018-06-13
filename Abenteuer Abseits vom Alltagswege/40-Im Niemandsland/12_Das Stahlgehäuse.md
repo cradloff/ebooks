@@ -4,7 +4,7 @@
 … Über alledem sind Tage verstrichen.
 
 Genau sechs Tage … – Was bedeuten sechs Tage im Weltgeschehen? Nichts! Was
-könne sie im Schicksalsbereich eines oder einer Gruppe Menschen bedeuten?
+können sie im Schicksalsbereich eines oder einer Gruppe Menschen bedeuten?
 Unendlich viel!
 
 Die Jacht „Armada“ steuerte gen Nordost … In meine kleine Kabine blinzelt die

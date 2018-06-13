@@ -198,7 +198,7 @@ Mit dem Ausspruch sinkt ein winziger Teil der Schleier der großen Tragödie des
 Schiffes, das vier Jahre einsam die Ozeane durchpflügte mit seiner bunten
 Besatzung.
 
-Also: Hilda von Geeren!! – So hieß Frau Land als Mädchen …
+Also: Hilda van Geeren!! – So hieß Frau Land als Mädchen …
 
 Van Geeren …!
 

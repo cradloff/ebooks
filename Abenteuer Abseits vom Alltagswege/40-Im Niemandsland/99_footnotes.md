@@ -1,5 +1,5 @@
 Anmerkungen:
-------------
+============
 
 <@footnote 1 "01_Man würfelt um eine Frau.md">In der Vorlage: „Knut“ Johannsen, gesamtes Auftreten 6 Mal; dagegen „Klaus“ Johannsen 32 Mal, somit durchgängig auf „Klaus“ geändert.</@footnote>
 
