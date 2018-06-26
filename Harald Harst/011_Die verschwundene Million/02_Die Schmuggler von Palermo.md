@@ -9,7 +9,7 @@ verkehrt, war heute nur wenig besetzt.
 
 In einem Abteil erster Klasse saßen zwei Herren, denen
 man auf den ersten Blicks die Künstler ansah. Sowohl das
-reichlich lange Haar und die dunklen Bärte als aus die großkarierten
+reichlich lange Haar und die dunklen Bärte als auch die großkarierten
 Anzüge, die weichen Umlegekragen und die farbenfrohen,
 wehenden Schleifen ließen erkennen, daß die beiden
 aus ihrem Beruf kein Geheimnis machen wollten. Während
@@ -89,7 +89,7 @@ Italienisch:
 habe, gefunden zu haben.«
 
 Der Sizilianer schnellte herum, wurde bleich, stotterte
-ebenso angstvoll wie verlegen: Oh ich glaubte, jemand
+ebenso angstvoll wie verlegen: »Oh ich glaubte, jemand
 hätte das Schreiben als wertlos weggeworfen. Daher wollte
 ich —«
 
@@ -203,7 +203,7 @@ Anderthalb Stunden später brachte ein Wagen uns samt
 unserem Gepäck in Begleitung des liebenswürdigen und bescheidenen
 Grafen nach dem südöstlich von der Stadt gelegenen
 Palazzo, dem mit seinem großen Park sozusagen das Zierstück
-eines neueren nur von der ärmeren Bevölkerung bewohnten
+eines neueren, nur von der ärmeren Bevölkerung bewohnten
 Viertels bildete. —
 
 * * *
@@ -315,7 +315,7 @@ Bett verstellt war.
 
 Mein Gesicht mußte wohl Harst meine Gedanken verraten
 <@pagebreak/>
-haben Denn jetzt wanderte sein Blick nach links hin, wo
+haben. Denn jetzt wanderte sein Blick nach links hin, wo
 eine durch einen mächtigen Eichenschrank verdeckte Tür in
 die Räume des gräflichen Paares führte.
 
@@ -346,7 +346,7 @@ Die Gräfin streckte Harst die abgezehrte Hand hin. »Ich
 danke Ihnen. Sie sind ein gütiger, ein guter Mensch. — Ja
 — es gibt eine Verbindung zwischen unserem Schlafzimmer
 und diesem Gemach — dort im Wandgetäfel.« Sie deutete etwas
-rechts neben den riesigen Eichenschrank· Alfio kennt die
+rechts neben den riesigen Eichenschrank. Alfio kennt die
 Geheimtür nicht. Ich vertraue ihm gerade so etwas ungern
 an, denn — er sucht mit allem Geld zu verdienen, nur um
 mich pflegen zu können. — Ich entdeckte jene Tür zufällig
@@ -371,7 +371,7 @@ Harst stand auf, holte ein sauberes Weinglas aus seinem
 Koffer und schenkte es für die Gräfin voll. Der dunkelgelbe
 Sizilianer Wein sah im Schein der Abendröte wie Blut aus.
 — Bitte, trinken Sie, Frau Gräfin. — Und dann erleichtern
-Sie sich Ihr Herz ohne Scheu. Wir sind schon viele Geheimnisse
+Sie sich Ihr Herz ohne Scheu. Mir sind schon viele Geheimnisse
 mitgeteilt worden, und vielen seelisch Bedrückten habe ich
 helfen dürfen, — nicht nur durch Geld oder dergleichen, nein,
 auch mit der Tat.«
@@ -468,7 +468,7 @@ Harsts Worten folgte lautlose Stille. Nur aus den übrigen
 Teilen des Palazzos drangen allerlei Geräusche zu uns
 herein. — Minuten vergingen. Dann sagte Harst:
 
-»So, Frau Gräfin, nun haben Sie sich etwas erholt-. —
+»So, Frau Gräfin, nun haben Sie sich etwas erholt. —
 Stört Sie es, wenn ich auf und ab gehe?« — »Durchaus nicht,
 Herr Horn.«
 
@@ -527,7 +527,7 @@ Da mischte ich mich ein. Ich wußte jetzt, daß Harst zu irgend
 einem Zweck lautlos das Zimmer verlassen hatte, und ich
 hielt es für ratsam, daß wir im Dunkeln blieben.
 
-»Frau Gräfin,« sagte ich leise . »Mein Freund wird sofort
+»Frau Gräfin,« sagte ich leise. »Mein Freund wird sofort
 zurückkehren. Er ist für einen Moment hinausgegangen.«
 
 Sie erwiderte nichts. Ich sah ihr weißes Gesicht nur noch
@@ -546,7 +546,7 @@ Schranke her: »Frau Gräfin, ich werde mit Ihrem Gatten
 über diese Dinge demnächst sprechen, wenn es Ihnen recht ist.
 Ich hoffe noch leichter als Sie das zu erzielen, was Sie wünschen.
 Vertrauen Sie mir restlos, liebe Landsmännin. Ihre
-Sache ruht in guten Händen.
+Sache ruht in guten Händen.«
 
 <@pagebreak/>
 Ein Streichholz flammte auf, und Harst zündete die auf
@@ -565,7 +565,7 @@ zu, tastete mit der Hand in einer Fuge zwischen zwei Zierleisten
 umher, und plötzlich tat sich die Geheimtür auf.
 
 Harst hatte die Lampe ergriffen und leuchtete der Gräfin.
-Hinter der schmalen Tür befand sich ein enger freier Raum
+Hinter der schmalen Tür befand sich ein enger freier Raum.
 Ich schaute Harst über die Schulter. — Die Gräfin nickte uns
 nochmals zu und drückte dann die Geheimtür ins Schloß, das
 mit leisem Schnappen den Riegel vorschnellen ließ.
@@ -692,7 +692,7 @@ verabschiedete er sich.
 
 Um elf Uhr vormittags gab Harst keinerlei Lebenszeichen
 mehr von sich. Um ¼ 12 erschien Doktor Schneider abermals.
-»Es ist vorüber.« meinte er.
+»Es ist vorüber,« meinte er.
 
 In der offenen Flurtür drängten sich die Bewohner des
 Palazzo zusammen, traten scheu ein, knieten zum Teil
@@ -944,7 +944,7 @@ Landsmannes sich durch Speise und Trank stärkte,
 meinte der vielgesuchte Arzt plötzlich, er fürchte nur zu sehr,
 daß Cesare Leonforte sehr bald verhaftet werden würde.
 
-»Spielende Kind er haben nämlich« fuhr er fort »heute
+»Spielende Kinder haben nämlich,« fuhr er fort »heute
 mittag in einem Gebüsch unweit der Küste etwa 300 Meter
 nordwestlich des Palazzo Batticino eine männliche Leiche
 entdeckt. Die Polizei stellte fest, daß der Tote der ältere der
@@ -1170,7 +1170,7 @@ Kopf. Ich drehte mich um mich selbst, erkannte noch —
 Olivella Oreto, dann verlor auch ich das Bewusstsein.
 
 Zum Glück hatte Harsts Mütze und mein Hut die Schläge
-etwas gemildert. Wir kramen bald wieder zu uns. Wir waren
+etwas gemildert. Wir kamen bald wieder zu uns. Wir waren
 mit Stricken brutal eng gefesselt und lagen oben auf ein
 paar Ballen neben dem Tisch.
 
@@ -1262,7 +1262,7 @@ Kopf zusagen. Wir werden ihn und seine Spießgesellen zwingen,
 ein Schriftstück zu unterzeichnen, daß er Euch nicht verraten
 und daß er sich hier niemals mehr sehen lassen will.
 Dann bringt Ihr die Leute zu Schiff nach Afrika oder nach
-Frankreich. — - Einen anderen Weg, Euch und Cesare Leonforte
+Frankreich. — Einen anderen Weg, Euch und Cesare Leonforte
 vor dem Gefängnis zu bewahren, weiß ich nicht.«
 
 Die Schmuggler berieten leise. Am eifrigsten redete Olivella
@@ -1299,7 +1299,7 @@ spielen. Die Polizei würde keine unversehrten Gänge, keine
 Warenlager mehr vorfinden. — Harst riet dann Oreto, zur
 Polizei zu gehen und auszusagen, daß Graf Cesare heimlich
 bei ihm Fischerknecht gespielt habe, um etwas zu verdienen,
-und daß dieser auch in der vorvergangenen Nach mit ihm auf
+und daß dieser auch in der vorvergangenen Nacht mit ihm auf
 See und bis zum Morgen zusammen gewesen sei. — Dies war
 ja auch richtig. — Und so geschah’s auch. Oreto und zwei andere
 Fischer wiesen so des Grafen Alibi nach, dessen Freilassung

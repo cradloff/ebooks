@@ -152,7 +152,7 @@ stieß er hervor. »Ja — von wem denn?! Ich habe
 ja noch keinem Menschen etwas —«
 
 Harst reichte ihm die seltsame Benachrichtigung mit der
-nicht minder seltsamen Unterschrift Kammler überflog die
+nicht minder seltsamen Unterschrift. Kammler überflog die
 getippten Zeilen, stotterte dann, abermals mit einem so
 furchtbaren Grauen im Blick, daß ich mich auf Außerordentliches
 gefaßt machte:
@@ -163,14 +163,14 @@ Ich — ich habe die Tür — wieder zugeworfen und bin — hier
 zu Ihnen gefahren —«
 
 Harsts Gesicht straffte sich. Die Backenknochen traten
-schärfer hervor. Die Lippen schienen zu verschwinde, so fest
+schärfer hervor. Die Lippen schienen zu verschwinden, so fest
 preßte er sie aufeinander. Dann ein Sprung nach dem Fenster.
 
 »Chauffeur — Chauffeur, — warten Sie!« — Der Mann
 hatte sich beim Anzünden einer Zigarette, die er heimlich und
 schnell genießen wollte, etwas länger aufgehalten.
 
-»Gehen wir, lieber Kammler« wandte Harst sich nun an
+»Gehen wir, lieber Kammler,« wandte Harst sich nun an
 den Kommerzienrat. »Im Auto erzählen Sie die Einzelheiten.
 Vorher aber noch ein Gläschen Sherry. — Keine Widerrede!
 Sie müssen. — Sie sind ja vollständig verstört. So wie
@@ -320,7 +320,7 @@ schildern.
 Harst legte den Hörer zurück. — »So,« meinte er, »wir
 haben hier nun genug gesehen. Wir wollen das Zimmer abschließen.
 Sie, lieber Kammler, erwarten dann wohl die Herren
-Von der Kriminalpolizei. Ich muß nach Hause. Der
+von der Kriminalpolizei. Ich muß nach Hause. Der
 Schneider erwartet mich, und ich will mich noch umziehen.«
 Kammler machte ein sehr enttäuschtes Gesicht. »Aber
 lieber Harst, Sie sind jetzt doch hier weit nötiger. Ihr Schneider
@@ -568,7 +568,7 @@ Während wir noch miteinander sprachen, kam ein offenes
 Auto langsam vorüber. Und in diesem Auto saß der alte
 würdige Herr, der Wespenjäger.
 
-Nur einen Augenblick dauerte meine jähe Ueberraschung
+Nur einen Augenblick dauerte meine jähe Ueberraschung.
 Dann riß ich Bechert mit fort. »Er ist’s!« keuchte ich. »Der
 Mann vom Lützowplatz —«
 
@@ -619,7 +619,7 @@ und rief Harst zu: »Den einen haben wir schon — «
 Aber — die Sache nahm sehr bald eine recht unangenehme
 Wendung. Der Herr legitimierte sich zweifelsfrei als früherer
 Major der indischen Kolonialarmee namens Edward
-Orkney, zur Zeit aus einer Vergnügungsreise begriffen. Er
+Orkney, zur Zeit auf einer Vergnügungsreise begriffen. Er
 war im Besitze eines Passes für Rußland mit genauer Personalbeschreibung.
 
 <@pagebreak/>
@@ -754,7 +754,7 @@ dem Chauffeur des hellgelben Autos zuwinkten, worauf
 der Kraftwagen eiligst davonfuhr?«
 
 Bechert schnellte hoch. »Ich hatte dem Mann doch befohlen
-—««
+—«
 
 Harst unterbrach ihn. »Der Chauffeur war gleichfalls
 eingeweiht, wie Sie jetzt sehen, lieber Bechert. — Behalten Sie
@@ -817,7 +817,7 @@ davon, bog um die nächste Ecke und ließ hinter sich einen Todgeweihten
 zurück.
 
 Bechert und ich trugen den nur noch schwach atmenden
-Major in Harsts Arbeitszimmer und legten ihr mitten auf
+Major in Harsts Arbeitszimmer und legten ihn mitten auf
 den Teppich, stützten ihm den Kopf durch Kissen und flößten
 ihm auf Harsts Geheiß etwas Kognak ein.
 
@@ -926,7 +926,7 @@ aber auch eine Schlauheit und ein Selbstvertrauen besitzen,
 wie die englischen Zeitungen diese vor einem halben Jahre
 etwa dem Oberhaupt einer weitverzweigten Gaunergemeinschaft
 nachsagten, von dem man nur wußte, daß er sich mal
-irgendwo Cecil Warbatty genannt hatte. — sonst nichts, gar
+irgendwo Cecil Warbatty genannt hatte, — sonst nichts, gar
 nichts, und den die Polizei heute noch vergeblich in allen Erdteilen
 sucht, wie Ihnen, lieber Bechert, nicht unbekannt sein
 dürfte.«
@@ -949,7 +949,7 @@ nicht nur den armen Häske vollends abtun, sondern auch mich
 beißen, wenn ich, durch den heute früh eingetroffenen Brief
 aufmerksam gemacht, meine Ermittlungen bis zur genauen
 Durchsuchung des unteren Tresorteiles fortsetzte. Als ich heil
-davongekommen trat Orkney auf und wollte mich nicht weniger
+davongekommen, trat Orkney auf und wollte mich nicht weniger
 raffiniert für alle Zeit stumm machen. Nachher mußte
 <@pagebreak/>
 dieser Orkney dann auf Befehl Warbattys in einem von den
@@ -1102,7 +1102,7 @@ die Kellertür auf und drückte sie leise wieder zu.
 Mir war durchaus nicht behaglich bei alledem. Wir hatten
 ja schon ähnliche Ausflüge anderswo des öfteren gewagt
 und waren zuweilen nur gerade so mit einem blauen Auge
-davongekommen — Unten an der Kellertreppe standen leere,
+davongekommen. — Unten an der Kellertreppe standen leere,
 sehr große Kisten. Harst wählte die größte aus, und wir
 krochen hinein, breiteten den Holzdeckel wieder über uns und
 setzten uns auf die in der Kiste noch befindliche Holzwolle.
@@ -1203,7 +1203,7 @@ flüsterte: »Ich werde mich hier noch näher umsehen. Der
 schlaue Bursche dürfte noch mehr Verstecke haben als nur
 den Koffer mit dem doppelten Boden. Die Million habe ich
 jetzt. Ich möchte aber auch versuchen, noch mehrere dieser
-Stadtplanskizzen in die Hand Zu bekommen.«
+Stadtplanskizzen in die Hand zu bekommen.«
 
 Es war nicht gerade warm hier, aber ich schwitzte doch
 wie in einem Sonnenbade — vor Aufregung! Wenn Warbatty
@@ -1274,7 +1274,7 @@ Drähte nach dem einen Fenster und unseren Stühlen hin.
 »Wag nicht etwa um Hilfe zu rufen!« sagte er jetzt zu
 mir. »Deinen Freund Harst habe ich bereits gewarnt.
 <@pagebreak/>
-Sobald ich ans diesen Knopf drücke, erhaltet Ihr von der
+Sobald ich auf diesen Knopf drücke, erhaltet Ihr von der
 Starkstromleitung einen Schlag, der für noch größere Ochsen
 genügt, als Ihr es seid. — Meine Alarmvorrichtung hat sich
 tadellos bewährt. Sobald ein Unberufener den Koffer hervorzieht,
@@ -1321,7 +1321,7 @@ Morgens. Wir haben noch etwa zwei Stunden zu tun, bis
 wir die Stahlkammer von Joe Philippson ausgeräumt und
 <@pagebreak/>
 auch den Wunderschrein aus der St. Thomas-Kirche für uns
-mit Beschlag belegt heben. Damit Du es nämlich weißt, hochverehrter
+mit Beschlag belegt haben. Damit Du es nämlich weißt, hochverehrter
 Harst: zwei Leute meiner weitverzweigten Bande
 haben hier seit einem Monat alles vorbereitet, damit wir
 gleich zwei Fliegen mit einer Klappe fangen können. Von
@@ -1437,7 +1437,7 @@ verfrüht. Es ist erst zwei Minuten nach elf. — Hier ist die
 Million!« Er warf das Päckchen auf den Mitteltisch. »Bitte
 — nehmen Sie Platz, meine Herren. Ich bin Ihnen einige
 Erklärungen schuldig.« In knappen Worten schilderte er,
-wie er durch die Skizzen gerade auf Kingston genommen sei
+wie er durch die Skizzen gerade auf Kingston gekommen sei
 und was wir dort dann erlebt hatten. »Unsere Rettung vor
 dem elektrischen Starkstrom,« sagte er nun lebhafter werdend,
 »hing einzig von unserer — Lungenkraft ab. Gelang
