@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">6c39044e-797c-11e8-b1f5-a7098e9a8bf5</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Radschaschloß</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">54</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Fassen wir die Tatsachen nochmals kurz zusammen, meine Herren“, sagte der Kommandant soeben, indem er von seinem Schreibtisch ein Blatt Papier aufnahm und seine Notizen einsah. „Zunächst setzen Sie sich aber bitte. Wir können die Angelegenheit in aller Ruhe erledigen. – Sie sind, wie Sie selbst zugeben, am 20. August dieses Jahres aus Sarawak (Hafenstadt an der Nordwestküste von Britisch-Borneo) auf einer ehemaligen, bewaffneten Piratenprau entflohen, nachdem Sie von den englischen Behörden interniert worden waren. Auf dieser Flucht haben Sie dann einen der Sie verfolgenden Dampfer in den Grund gebohrt. Dasselbe taten Sie, als Sie vor fünf Tagen mit Ihrem großen Kutter einen anderen englischen Lotsendampfer auf der Fahrt hier nach Pontianak begegneten. Hätte dieses durch Granaten schwer beschädigte Schiff nicht durch Funksprüche den Kreuzer „Belfast“ zur Hilfe herbeirufen können, so wäre die Besatzung vielleicht in den offenen Rettungsbooten so mitten im Meere elend umgekommen. Der Kreuzer hat Sie dann verfolgt, aber nicht eher gefunden, bis er hier unseren Hafen gestern abend anlief. Jetzt verlangt der Kapitän des „Belfast“, daß Sie mit Ihrem Kutter, da derselbe armiert und somit vielleicht als Hilfskreuzer gelten kann, eine Frage, die wir noch erörtern müssen, in 24 Stunden Pontianak verlassen. Diese Forderung entspricht den Bestimmungen des internationalen Seerechts, und ich sehe mich daher genötigt, Ihnen hiermit den Befehl zu erteilen, daß Sie bis morgen früh neun Uhr sich aus der Dreimeilen-Zone entfernt haben.“ (Vergl. das vorhergehende Bändchen „Die Geisterprau.“)</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (054) Das Radschaschloss.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
