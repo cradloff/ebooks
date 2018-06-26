@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">fd411146-7979-11e8-b9ee-c32a422e6814</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Geisterprau</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">53</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Lassen Sie mich in Ruhe mit Ihrem Gerede, das doch nur darauf hinausläuft, die geradezu haarsträubende Behandlung, die man uns hier angedeihen läßt, noch zu entschuldigen. „Der Krieg hat seine Härten“, … „notwendige Sicherheitsmaßregeln“, … „Befehl von oben“ … und so weiter, was Sie da eben alles zusammengeschwatzt haben …! – Eine Gemeinheit ist’s, eine Niederträchtigkeit, kleinliche Rache …!! Der offenherzige Bursche hat seine helle Schadenfreude daran, uns jetzt, wo ihm die Macht für solche Bubenstücke gegeben ist, nach Möglichkeit als seine früheren Konkurrenten zu drangsalieren.“
+
+Und Ernst Menke schlug mit der Faust auf den Deckel der großen, leeren Kiste, die ihnen als Tisch diente, daß es nur so dröhnte. Sein gebräuntes Gesicht mit dem keck aufgedrehten kleinen Bärtchen war vor Erregung noch einen Ton dunkler geworden, und drohend streckte er jetzt die Faust gegen den hohen Wellblechzaun aus, der die Baracke umschloß und der oben noch eine Reihe starker Stacheldrähte trug.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (053) Die Geisterprau.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
