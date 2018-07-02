@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">ea746b74-7e35-11e8-a417-139980d1c98e</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Eine Flaschenpost</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">56</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Und was nun?“ fragte der dicke August Strina, der bisher der am nördlichen Horizont verschwindenden Kriegsschiffbarkasse nachgeschaut hatte, die den Kutter unter dem Zwange von einigen Gewehrmündungen und einer Revolverkanone bis an den Nordausgang der Gaspar-Straße geschleppt hatte. Diese läuft zwischen den zu den Ostindischen Inseln gehörigen recht ausgedehnten Inseln Bangka und Biliton hindurch und führt auf die Sunda-Straße zu, die wieder Sumatra von Java trennt.
+
+„Sehr einfach“, erwiderte Ernst Menke, indem er eine Seekarte auf dem Dache des Kajütaufbaues ausbreitete. „Wir werden sofort wenden und mit nordwestlichem Kurs auf die Straße von Malakka zulaufen, da wir uns in die Sunda-Straße nicht hineinwagen dürfen. Dort werden uns fraglos englische Hilfskreuzer den Weg versperren, die unser alter Gegner „Belfast“ durch Funkspruch sehr bald auf uns aufmerksam machen wird. – Hier, sehen Sie sich die Sache mal auf der Karte an.“
+
+„Oh – ich danke, ich danke! Ich habe zu Ihren Fähigkeiten als Schiffsführer das vollste Vertrauen, lieber Menke.“
+
+Gleich darauf drehte der Kutter den Bug nach Nordwest und schoß in stetiger Fahrt unter dem Druck der Segel seiner zwei Masten durch die nur wenig bewegte See dahin.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (056) Eine Flaschenpost.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
