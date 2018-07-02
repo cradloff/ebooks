@@ -21,7 +21,7 @@ kaum dem Kindesalter entwachsener Junge.
 Kommandant soeben, indem er von seinem Schreibtisch ein Blatt Papier aufnahm
 und seine Notizen einsah. „Zunächst setzen Sie sich aber bitte. Wir können die
 Angelegenheit in aller Ruhe erledigen. – Sie sind, wie Sie selbst zugeben, am
-20. August dieses Jahres aus Sarawak (Hafenstadt an der Nordwestküste von
+20\. August dieses Jahres aus Sarawak (Hafenstadt an der Nordwestküste von
 Britisch-Borneo) auf einer ehemaligen, bewaffneten Piratenprau entflohen,
 nachdem Sie von den englischen Behörden interniert worden waren. Auf dieser
 Flucht haben Sie dann einen der Sie verfolgenden Dampfer in den Grund gebohrt.

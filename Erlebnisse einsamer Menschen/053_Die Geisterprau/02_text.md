@@ -584,7 +584,7 @@ konnte, die Prau völlig manövrierunfähig zu machen.
 
 In finsterem Schweigen sahen die Flüchtlinge die Umrisse ihrer Verfolger immer
 deutlicher werden. Dann wandte sich Menke mit einemmal an seine Gefährten,
-während über sein Gericht ein Ausdruck grimmer Entschlossenheit hinlief.
+während über sein Gesicht ein Ausdruck grimmer Entschlossenheit hinlief.
 
 „Wir besitzen drei Revolverkanonen“, sagte er kurz. „Sollen wir uns da ohne
 Gegenwehr ergeben?!“
