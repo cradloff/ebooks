@@ -595,7 +595,7 @@ drei Matrosen bestehender Beobachtungsposten einnistete, der ein Telephon
 mithatte, welches fraglos mit dem Kriegsschiff die Verbindung zur schnellsten
 Nachrichtenübermittlung aufrecht halten sollte. Was dieser Posten, der sich
 hinter großen Felsstücken verschanzte und bequem die belagerte Wasserfeste
-überklicken konnte, eigentlich bezweckte, war Menke zunächst unklar. Immerhin
+überblicken konnte, eigentlich bezweckte, war Menke zunächst unklar. Immerhin
 hielt dieser es für angebracht, ihn unter Geschützfeuer zu nehmen und zu
 vertreiben. Kaum hatte er den entsprechenden Befehl gegeben, als auch schon
 August Strina mit seiner Revolverkanone hinüberfunkte. Der zweite Schuß saß
@@ -921,7 +921,7 @@ Ruinen des Radschaschlosses. Alle waren heute stiller als sonst. Verhehlte sich
 doch niemand, daß diese Fahrt, die bis nach einem persischen Hafen gehen
 sollte, ein großes Wagnis darstellte und durch tausend Zufälligkeiten leicht
 mißglücken konnte. Außerdem fiel auch diesen fünf Einsamen, die hier auf den
-Eilenden manche ernste Stunde durchlebt hatten, der Abschied von dieser Stätte,
+Eilanden manche ernste Stunde durchlebt hatten, der Abschied von dieser Stätte,
 die sie trotz alledem liebgewonnen hatten, recht schwer.
 
 Die Nacht war mondhell, und deshalb verabredeten Mikaua und Karl Heller, als

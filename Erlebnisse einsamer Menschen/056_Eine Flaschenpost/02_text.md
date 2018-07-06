@@ -511,7 +511,7 @@ Menke und Gerling wieder mit bösen Quetschungen und Hautabschürfungen
 davongekommen wären.
 
 Gemeinsam begaben sie sich dann nach dem Weststrande hin, durchschwammen hier
-ein paar schmale Wasserinnen, eilten über flache Inselchen hin und gelangten so
+ein paar schmale Wasserrinnen, eilten über flache Inselchen hin und gelangten so
 auf einem derselben an eine durch Felsblöcke vor den Sonnenstrahlen geschützte
 Stelle, wo auf eine Unterlage von trockenen Algen und Moosen die beiden
 Verletzten gebettet waren. Mikauas Leiche hatte man bereits, da sie bei der auf
