@@ -56,7 +56,7 @@ dem man täglich mit einem Fuße im Grabe stand. Es gehörten
 wirklich Harsts Nerven dazu, einen solchen Gegner immer
 aufs neue zu suchen. Ich hätte Cecil Warbatty einfach laufen
 lassen. — Davon sagte ich Harst jedoch nichts. Er hätte nur
-gutmütig gelächelt und gemeint: »Aber Schraut! <p class="g">Die</p> Langeweile
+gutmütig gelächelt und gemeint: »Aber Schraut! <span class="g">Die</span> Langeweile
 ohne Warbatty!«
 
 Das Abendrot im Westen verschwand immer mehr. Einzelne
