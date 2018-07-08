@@ -1221,7 +1221,7 @@ Harst erhebt sich. „Meine Herren,“ beginnt er mit jener kühlen
 Selbstverständlichkeit, die jeder an ihm kennt und zu der jetzt noch eine müde
 Gleichgültigkeit hinzugetreten ist. „Sie wissen, welch unersetzlichen Verlust
 ich erlitten habe. Ich werde nie darüber hinwegkommen. Ich war nahe daran,
-lebensüberdrüssig und trübsinnig zu werden. Da riß mich diese Detektivarbeitet
+lebensüberdrüssig und trübsinnig zu werden. Da riß mich diese Detektivarbeit
 wieder hoch. Sie machte mich mein leeres Dasein vergessen. Jetzt, wo sie
 erledigt ist, fühle ich bereits wieder jene unsagbare Interessenlosigkeit
 gegenüber all und jedem, die mich vielleicht zum – Selbstmord treiben könnte.
