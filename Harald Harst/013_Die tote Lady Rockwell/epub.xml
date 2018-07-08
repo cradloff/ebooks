@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">76e4924e-7bea-11e8-9bed-03f7fc1cc272</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die tote Lady Rockwell</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">13</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die tote Lady Rockwell.
+
+Wir fühlten uns als Gäste Kapitän Andersons in Bombay sehr wohl. Seine landschaftlich so überaus reizvoll liegende Villa am Südostabhang des Kumbala-Berges mit dem prächtigen parkähnlichen Garten erschien mir, dem Neuling im Orient, wie der berühmte Zaubergarten des Aladin aus Tausend und eine Nacht. —
+
+Es war am Morgen nach Cecil Warbattys leider nur zu gut geglückter Flucht. Die Polizei hatte natürlich sofort hinter dem Motorrennboot des Flüchtlings ein englisches Depeschenboot und zwei sehr schnelle Privatjachten hergeschickt.  Harst jedoch hatte dazu nur die Achseln gezuckt. »Sie könnten sich die Brennstoffvergeudung sparen. Einen Warbatty fängt man nicht mit solchen Durchschnittsmitteln!« sagte er — und mit Recht!
+
+Die Zauberhand der Matani.
+
+Abermals streiften meine Blicke Harald Harsts Gesicht.  Und da — begegneten sie seinen weit offenen, klaren Augen, da stellten sie fest daß alles Müde, Verzagte aus den Zügen des Mannes verschwunden war der in kurzem als Liebhaberdetektiv auf der ganzen Welt berühmt geworden.
+
+Er schaute mich so eigen an, sagte dann langsam, als ob er jedes Wort betonen wollte:
+
+»Wir werden die Kampfesweise gegen Warbatty völlig ändern müssen, lieber Schraut. Das ist’s, was ich mir soeben überlegt habe. Bisher haben wir aus Angst um unser eigenes kostbares — angeblich kostbares Leben stets uns hinter irgend einer Maske verkrochen, haben dadurch sowohl sehr viel an Bewegungsfreiheit eingebüßt als auch viele Gelegenheiten vorübergehen lassen, wo wir ihn bei einem Anschlag auf unser Leben hätten abfassen können. Er hat uns den Tod zugeschworen, hat es immer wieder versucht, uns durch gradezu meisterhaft ersonnene Fallen in seine Gewalt zu bekommen.  Aber — diese Gelegenheiten, wo er sich an uns heranwagte, waren eben zu selten. Ich verzichte fortan auf jedes Versteckspiel. Ich trete ganz offen in Madras als Harald Harst auf. Natürlich werde ich alle nur irgend erdenklichen Vorsichtsmaßregeln anwenden, um mich gegen heimtückische Attentate zu schützen.«
+
+Hier fehlen Seite 44 und 45!</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (013) Die tote Lady Rockwell.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1920</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries"></entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
