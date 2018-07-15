@@ -55,7 +55,7 @@ Unser Frachtdampfer war neu und hatte im Mittelaufbau zwanzig Passagierkabinen. 
 <!-- Inhaltsverzeichnis anzeigen? (true/false) -->
 <entry key="toc">true</entry>
 <!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
-<entry key="toc-entries"></entry>
+<entry key="toc-entries">h1, h3</entry>
 <!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
 <entry key="additional-media"></entry>
 <!-- Freemarker für Content aktivieren? (true/false) -->
