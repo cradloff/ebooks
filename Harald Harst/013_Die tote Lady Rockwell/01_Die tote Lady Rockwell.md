@@ -135,7 +135,7 @@ Er hätte das Rennboot zweimal in den Zeitungen
 zum Verkauf angezeigt gehabt; der Preis wäre jedoch allen
 sich Meldenden zu hoch gewesen. Heute nun bald nach unserem
 Weggang wäre ein Engländer Sir Reginald Worbster, der sich
-auf der Durchreise hier aufhielte bei ihm erschienen, hätte das
+auf der Durchreise hier aufhielte, bei ihm erschienen, hätte das
 Boot schnell entschlossen erstanden, aber sich bereit erklärt, im
 Interesse der guten Sache die beiden deutschen Detektive erst
 nach Kolombo zu bringen, bevor er das Fahrzeug nach seiner
@@ -253,8 +253,8 @@ Wasser.
 
 Dann sagte er laut, völlig harmlos tuend:
 
-»Die Motorbootrennen in Monte Carlo sind wohl die berühmtesten
-lieber Schraut. Ich habe Gelegenheit gehabt selbst
+»Die Motorbootrennen in Monte Carlo sind wohl die berühmtesten,
+lieber Schraut. Ich habe Gelegenheit gehabt, selbst
 einmal ein solches Rennen mitzumachen —"
 
 Worbster und der Inder Achmed waren eingetreten.
@@ -352,7 +352,7 @@ Als ich bei einer solchen Gelegenheit zu Harst sagte,
 ich hielte unsere Lage für recht verzweifelt, schüttelte er den
 Kopf.
 
-»Nicht so schlimm, wie Du denkst, lieber Schraut! flüsterte
+»Nicht so schlimm, wie Du denkst, lieber Schraut!« flüsterte
 er. »Du darfst nicht vergessen, daß ich die ganze Geschichte
 schon durchschaute als Anderson das Telephongespräch mit dem
 reichen Parsen gehabt hatte. Nur in einem — nein zwei
@@ -392,7 +392,7 @@ mit teuflischem Hohn.
 »So,« meinte er, »nun werdet Ihr in kurzem in einen Zustand
 kurzer Betäubung verfallen. Dann werden wir Euch
 beide, nachdem wir die beiden Wächter des südlichsten der
-Türme des Schweigens stumm gemacht haben oben auf die
+Türme des Schweigens stumm gemacht haben, oben auf die
 schräge Plattform tragen, dort niederlegen und den Hunderten
 von Geiern, die schon wissen, was sie zu tun haben, das weitere
 überlassen —«
@@ -726,7 +726,7 @@ werden wollte.
 
 »Ich freue mich sehr, Herr Harst« (er sprach deutsch fast
 fehlerfrei), »daß Sie gerade jetzt hier bei mir sich eingefunden
-haben. Ich habe in den Zeitungen gelesen daß Sie hinter
+haben. Ich habe in den Zeitungen gelesen, daß Sie hinter
 einem sehr gefährlichen Verbrecher her sind. Eine Depesche
 aus Bombay im heutigen Morgenblatt berichtet auch bereits
 von Ihrem geradezu unglaublichen Abenteuer in der Ruinenstadt
@@ -775,7 +775,7 @@ Tagen hielt ich um ihre Hand an. Und nach einem
 Monat bereits heirateten wir. Mein Eheglück hat genau
 2½ Monat gewährt. Ich habe Ellinor über alles geliebt —«
 
-»Wenn und wie hoch versicherten Sie das Leben der
+»Wann und wie hoch versicherten Sie das Leben der
 Dame?«
 
 »Sofort nach der Hochzeit mit 50000 Pfund Sterling bei
@@ -795,7 +795,7 @@ nichts mehr wissen.«
 
 »So — so. — Und in dem Versicherungsvertrag ist als
 zweiter Empfangsberechtigter im Falle Ihres Todes Thomas
-Sagton genannt nicht wahr?«
+Sagton genannt, nicht wahr?«
 
 »Ja. Aber — woher in aller Welt haben Sie das erfahren,
 Herr Harst?!« — Harst beachtete die Frage nicht, erklärte
@@ -809,7 +809,7 @@ Hause?«
 Sie war eine leidenschaftliche Tennisspielerin. Sie
 hatte sich sehr erhitzt, hatte eiskalte Getränke genossen und
 wurde von Bekannten bereits ohnmächtig hierher gebracht.
-Ihr Vater hatte sofort einen Arzt nachgeschickt einen Doktor
+Ihr Vater hatte sofort einen Arzt nachgeschickt, einen Doktor
 Rouvier. Alles half nichts. Ellinor starb abends gegen
 zehn Uhr an Herzlähmung.«
 
@@ -819,7 +819,7 @@ zehn Uhr an Herzlähmung.«
 
 »Dacht’ ich mir. — Er stellte auch den Totenschein aus?«
 
-»Ja — Aber — entschuldigen Sie, bester Herr Harst —
+»Ja. — Aber — entschuldigen Sie, bester Herr Harst —
 Ihre Fragen sind so merkwürdig daß —«
 
 »— Sie werden noch merkwürdiger werden, Mylord. Ich
@@ -848,7 +848,7 @@ verschafften, so haben entstellen lassen, daß —«
 
 Der Lord sprang schon wieder auf. »Ah — wer — wer
 hat Ihnen denn all das so haarklein mitzuteilen gewagt,
-Herr Harst?!. Nennen Sie mir den elenden Verleumder, damit
+Herr Harst?! Nennen Sie mir den elenden Verleumder, damit
 ich endlich einen von diesen Schurken fassen kann, die die
 öffentliche Meinung vergiften, die —«
 
@@ -947,7 +947,7 @@ Harst. Vielleicht haben Sie den Namen schon mal gehört
 
 Morris machte ein sehr langes Gesicht.
 
-»Die Verhaftung Seine Lordschaft hat unter diesen Umständen
+»Die Verhaftung Seiner Lordschaft hat unter diesen Umständen
 wohl auch noch etwas Zeit,« fuhr Harst fort. »Zumal
 er gänzlich unschuldig ist, was ich beweisen werde.«
 
@@ -990,7 +990,7 @@ Sie sind Inspektor gewesen. — So, das wollte ich Ihnen in
 aller Freundschaft sagen. Ich füge noch hinzu, daß ich mich
 dafür verbürge, daß Lord Rockwell völlig unschuldig ist.
 Seine Verhaftung wäre insofern ein Durchkreuzen meines gegen
-Warbatty gerichteten Feldzugsplans als ich Warbatty
+Warbatty gerichteten Feldzugsplans, als ich Warbatty
 nur dann Ihnen in die Hände spielen kann, wenn der in kurzem
 ohne Zweifel gegen den Lord erfolgende Mordanschlag
 nicht gänzlich — eben durch die Festnahme unmöglich gemacht
@@ -1039,13 +1039,13 @@ einsam. — Hält er viel Dienerschaft?«
 Morris machte große Augen. »Sie haben sich schon über
 Rouvier erkundigt sonst könnten Sie —«
 
-»Gut schon gut. Also meine Vermutungen sind richtig.
+»Gut, schon gut. Also meine Vermutungen sind richtig.
 Auch hinsichtlich der geringen Dienerschaft. — So nun meine
 Vorschläge. — Sie Master Morris kehren noch Kolombo zurück,
 eilen zu Rouvier und teilen ihm mit, Seine Lordschaft
 seien erkrankt; er möchte sofort hier nach der Plantage kommen.
 — Lord Rockwell aber legt sich ins Bett und spielt vor
-seiner Dienerschaft den schwer Leidenden — Sobald Rouvier
+seiner Dienerschaft den schwer Leidenden. — Sobald Rouvier
 bei Ihnen erscheint, Mylord, bieten Sie ihm eine größere
 Summe wenn er Ihnen bescheinigt, daß Sie zur Zeit aus Gesundheitsrücksichten
 nicht verhaftet werden dürfen. — Noch
@@ -1064,7 +1064,7 @@ Frage:
 »Herr Harst, — entschuldigen Sie schon, — wozu das
 alles?«
 
-»Sehr einfach? Ich will Warbatty zum Losschlagen
+»Sehr einfach! Ich will Warbatty zum Losschlagen
 zwingen, will nicht warten bis er den Zeitpunkt für geeignet
 hält, sondern ihm diesen Zeitpunkt aufdrängen. — So,
 meine Herren, — jetzt kann die Sache eingeleitet werden.
@@ -1146,7 +1146,7 @@ Sofort bezogen wir unsere Beobachtungsposten an der
 Tür. —
 
 Der Doktor trat ein, ganz in Weißleinen gekleidet. Er
-war klein, quecksilbrig von lautem Wesen.
+war klein, quecksilbrig, von lautem Wesen.
 
 Wir verstanden zunächst jedes Wort.
 
@@ -1422,7 +1422,7 @@ wahrnehmen.«
 Morris wieder — oh, dieser Idiot von Morris! — sagte
 zu Rockwell:
 
-Sie sehen Mylord, daß die Sache nun doch ein wenig
+Sie sehen, Mylord, daß die Sache nun doch ein wenig
 anders gekommen ist, als Ihr neuer Helfer —«
 
 »Verdammt!« entfuhr es Harst. Er richtete sich schnell
@@ -1515,7 +1515,7 @@ werden — Sie — nie Spieler. Das Spiel ist — schlimmer
 — als alles andere. Mir — wird — schwarz vor — Augen
 — Gott — sei —«
 
-Er kippte vornüber. Harst stützte ihn ließ ihn auf den
+Er kippte vornüber. Harst stützte ihn, ließ ihn auf den
 Teppich gleiten; er regte sich nicht mehr. —
 
 Harst schaute Morris ernst an.
@@ -1564,5 +1564,4 @@ Rockwell. — Wer die weibliche Leiche gewesen, die an Stelle
 Ellinor Sagtons in den Sarg eingeschmuggelt worden war, ist
 nie herausgekommen. Die Verbrecher schwiegen sich darüber
 hartnäckig aus.
-
 
