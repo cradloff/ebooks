@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">bbae7a6e-8eb6-11e8-b0c2-cbc6f501776b</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Fakir von Nagpur</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">14</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Fakir von Nagpur.
+
+Wir saßen auf der Gartenterrasse des Fremdenheims der Frau von Tezra in Haidarabad an einem langen Tische. Die ganzen Gäste waren um uns versammelt. Man feierte Harsts Abschied. Ich spielte dabei ebenfalls eine bescheidene Rolle. Auch auf mich fiel etwas von dem Ruhmesglanz, der meinen Freund und Brotherrn umstrahlte.
+
+Allgemein war man überzeugt, daß Harst den Feldzug gegen Cecil Warbatty weiterführen würde. Er leugnete dies auch keineswegs. Nur erklärte er jedem, der es hören wollte, daß er zunächst nach Madras reisen und dort untersuchen würde, wie Warbatty aus der Zelle des Polizeigefängnisses hätte entweichen können. — Es war dies eine für jeden schärfer denkenden Menschen ziemlich durchsichtige Verschleierung unserer wahren Absichten. Denn — was sollte es wohl für uns für einen Nutzen haben, wenn Harst sich die erbrochenen Schlösser der Türen dort wirklich ansah?!
+
+Der weise Elefant des Singar Chani.
+
+Als wir uns von Inspektor Smith auf dem Bahnhof in Nagpur verabschiedeten, sagte er zu Harst: »Sie kommen zu einer für Ihre Zwecke recht ungünstigen Zeit nach Allahabad, wie mir soeben einfällt. Während sich dort nämlich im Dezember und Januar nur etwa eine Viertelmillion Pilger einfinden, um im heiligen Flusse Ganges zu baden, versammeln sich alle zwölf Jahre an diesem berühmten Wallfahrtsorte reichlich eine Million gläubiger, fanatischer Hindu. Und — Sie haben Pech! Gerade dieses Jahr ist wieder dasjenige, in dem die schmutzigen Gangeswasser besonders segensreich wirken sollen. Sie werden dort also in ein Millionengewimmel von Menschen hineingeraten, und es dürfte Ihnen schwer fallen, in der überfüllten »Stadt Gottes« — Allah abad heißt ja Allahs Stadt — Cecil Warbatty herauszusuchen. Nun — jedenfalls viel Glück, Master Harst!«
+
+Wir fuhren Allahabad aus diesem Grunde auch mit geringer Hoffnung entgegen, dort endlich unser schlaues Wild zur Strecke zu bringen. Seit September waren wir nun ununterbrochen hinter diesem Verbrechergenie her, hatten jedoch zumeist bei diesem Kampf nur leidlich abgeschnitten, hatten sozusagen stündlich in Lebensgefahr geschwebt und immer wieder einsehen müssen, daß wir es hier mit einer Persönlichkeit zu tun hatten, die an Intelligenz Harst gleichwertig war, der aber an brutalen Instinkten ein derartiges Uebermaß zur Verfügung stand, daß schon deshalb dieser erbitterte Streit Harst-Warbatty für ersteren unendlich schwer zu einem siegreichen Ende zu bringen war.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (014) Der Fakir von Nagpur.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
