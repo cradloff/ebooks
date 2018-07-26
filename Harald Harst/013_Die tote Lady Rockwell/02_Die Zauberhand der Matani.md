@@ -339,14 +339,108 @@ ihm lebte, sprühte Eifer und Berufsbegeisterung. —
 Jetzt setzte er sich mir gegenüber auf die nächste Bank,
 <@pagebreak/>
 öffnete die rechte Faust, hielt mir das unter die Augen, was
-er bei der Durchsuchung des Nachens gefunden hatte
+er bei der Durchsuchung des Nachens gefunden hatte.
 
-*** Seite 44 fehlt ***
+Es waren dies: Ein Zigarettenstummel, unten mit Korkmundstück;
+ein Stofffaserchen von grün\-grauer Farbe, das er
+hinter einem Splitter des Bootsrandes hervorgezogen hatte,
+und — ein paar blonde Haare, die, etwa zwei Zentimeter
+lang an einem Ende zusammenbackten.
+
+»Ueberaus wertvolle Kleinigkeiten,« meinte er. »Der
+Zigarettenstummel riecht noch ganz frisch. Man sieht auch
+noch einen Teil der Firma in Golddruck, und man kann das
+Fehlende leicht ergänzen. Hier hat jemand vor kurzem eine
+Boswell-Zigarette der Firma Karigni Freres, Bombay, geraucht.
+— Dann: diese Stoffaser besteht aus zwei Fäden, grün
+und grau. Es dürfte sich um einen Herrenanzug handeln,
+Sportanzug, lodenartig. — Schließlich diese fünf Härchen. —
+Na, Schaut, — wie beurteilst Du diese Haare —«
+
+Ich zog die Ruder ein. Er legte mir das kleine Haarbüschelchen
+auf die Hand. Dort, wo die Haare aneinanderbackten,
+war ein Schilberchen von bräunlicher Farbe zu
+sehen.
+
+Ich hätte nun früher nicht Schmierenschauspieler gewesen
+sein müssen, wenn ich nicht sofort Bescheid gewußt hätte.
+
+»Haare von einem falschen Backenbart,« sagte ich mit aller
+Bestimmtheit.
+
+»Richtig!«
+
+Ich begann wieder zu rudern. Das Flußdelta war mit
+Büschen und verkümmerten Palmen bestanden. Ich trieb das
+Boot in den breitesten Mündungsarm hinein. Dann löste
+Harst mich ab. Bei dieser Sonnenglut hielt man die Ruderarbeit
+nicht lange aus.
+
+Wieder verging etwa eine halbe Stunde. Wir befanden
+uns nun längst in dem eigentlichen Flusse, der etwa fünfzig
+Meter breit war. Nirgends war etwas von einer Ansiedlung,
+einem Dorfe oder dergleichen zu bemerken. Lediglich ein paar
+verlassene Hütten hatten wir bisher festgestellt.
+
+»Eine recht einsame Gegend,« meinte Harst. »Ich wette,
+daß hier im Vorjahre die Pest oder die Cholera gewütet hat.
+Dort — das sind die Reste eines niedergebrannten Eingeborenendorfes.
+So beseitigt man hier den Ansteckungsstoff —«
+
+Er wollte noch etwas hinzufügen.
+
+Unter dem primitiven Sonnendach ein Seufzer.
 
 <@pagebreak/>
+Wir fuhren beide leicht zusammen. — Das Mädchen war
+zu sichgekomnen. Harst kniete jetzt neben ihr.
 
-*** Seite 45 fehlt ***
+»Bleib’ ruhig liegen — Du bist bei Freunden,« sagte er
+zart und liebevoll. »Dir wird nichts Böses mehr geschehen.
+— Verstehst Du mich? Kannst Du Englisch?«
 
+Die Antwort kam recht kräftig dem armen jungen Weibe
+über die Lippen.
+
+»Ja — recht gut. — Wo bin ich? Wo ist Doktor Palwerlan?«
+
+Da erst hatte sie einen Blick an sich entlang geworfen,
+hatte gesehen, daß sie — in ein Männeroberhemd gehüllt war,
+hatte auch den verbundenen Armstumpf bemerkt.
+
+Ein gellender Schrei! Und ihr Kopf sank wieder zurück.
+Sie war abermals ohnmächtig geworden.
+
+Harst rieb ihr die Schläfen mit Flußwasser ein, dann mit
+Spiritus aus der Reiseapotheke. Es half nichts.
+
+»Hoffentlich versagt das Herz nicht,« flüsterte er besorgt.
+»Der Schreck für das bedauernswerte Geschöpf muss ja auch
+entsetzlich gewesen sein. — Jedenfalls trifft meine erste
+Vermutung nicht zu. Ich glaubte, sie hätte sich gewehrt und
+dabei jemandem hier im Boot die falschen Haare ausgerissen.
+Aber — sie muß doch wohl durch ein Narkotikum betäubt gewesen
+sein, als ihr die Hand abgeschlagen wurde. — Aha —
+dort ist ja auch ein Gehöft dicht am Flusse. Steuere darauf
+zu, Schraut. Mich interessiert das Motorboot, das dort an
+dem Bootsstege liegt. Ich rate Dir aber, Deinen Revolver
+entsichert vorn in die Jacke zu schieben. Die Leute, die dort
+wohnen, müssen einiges über dieses arme Kind wissen —«
+
+Ich hatte allen Grund, ihn fragend anzusehen. — Wie
+konnte er mit solcher Bestimmtheit behaupten, daß die Bewohner
+des freundlichen, weißgestrichenen Hauses dort mit dieser
+rätselhaften Sache etwas zu tun hatten?!
+
+»Du sollst nun auch erfahren,« erklärte er, »weshalb ich
+50 Pfund opferte und den Dampfer den Kurs ändern ließ.
+Ich habe tadellose Augen. Als wir die Auseinandersetzung der
+Kündigung wegen gehabt hatten und als ich an die Reling
+trat, tauchte der Dampfer gerade aus einer kleinen Dunstwolke
+auf. Ich hatte also die Aussicht schräg vorwärts nach
+der Küste frei. Und da bemerkte ich — zwei Boote dicht nebeneinander,
+von denen das eine plötzlich sehr eilig dem Flußdelta
+zujagte. Nur — ein Motorboot jagt so schnell. Und — jenes
 <@pagebreak/>
 Motorboot dort an dem Stege wird wohl das so hastig sich entfernende
 gewesen sein. Mir kam diese Eile sehr verdächtig
