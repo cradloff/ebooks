@@ -358,7 +358,7 @@ Unser Zimmer lag im Erdgeschoß rechts. Der Portier
 kam uns nachgelaufen.
 
 <@pagebreak/>
-»Herr Harst, ich habe Ihnen vorhin eine Depesche aus den
+»Herr Harst, ich habe Ihnen vorhin eine Depesche auf den
 Nachttisch gelegt —«
 
 »Depesche?!« Harst sah mich fragend an. »Wer kann wohl
@@ -445,7 +445,7 @@ lagen drei Revolver, zwei leichte Jagdgewehre und allerlei
 andere Dinge, die darauf schließen ließen, daß die beiden Männer
 dort einen Jagdausflug vorbereiteten.
 
-Pickering — klein — dick! — Etwa — Warbatty
+Pickering — klein — dick! — Etwa — Warbatty?!
 So schoß es mir durch den Kopf.
 
 Ich kletterte wieder hinab, fragte Harst leise: »Pickering
@@ -628,7 +628,7 @@ eine Depesche hervor. Beim Scheine der Laterne las ich sie:
 
 > Harald Harst, Haidarabad, Pension Tezra.
 
-> W. heute früh verschwunden Gestern nachmittag war
+> W. heute früh verschwunden. Gestern nachmittag war
 deutscher Arzt bei mir, bat, den bisher völlig frischen Körper
 des Toten sich ansehen zu dürfen, behauptete dann, das
 Gift zu kennen, durch das W. sich nur in Starrkrampf versetzt
@@ -711,7 +711,7 @@ Der mit Marmorfliesen ausgelegte Tempelhof war genau
 quadratisch bei einer Seitenlänge von 120 Schritt. Die
 eingestürzten Tempelbauten ringsum bildeten förmliche
 Wälle. Der einzige Zugang war der zerstörte Säulengang.
-Der Platz war recht malerisch in der Mitte gab es einen runden,
+Der Platz war recht malerisch; in der Mitte gab es einen runden,
 vertieften Springbrunnen, dessen Wasserspeier aus einem
 unbehauenen Marmorblock und — einem riesigen Papagei
 darauf bestand. Der Papagei hielt den Kopf hochgereckt
@@ -891,7 +891,7 @@ nach, das jetzt das Vermächtnis eines Lebenden geworden
 war.
 
 Ich war, was unseren alten Gegner und dessen Helfershelfer
-Herbst anging, ehrlich froh daß die Gond die beiden
+Herbst anging, ehrlich froh, daß die Gond die beiden
 als Gefangene mitgenommen hatten, denn es wäre doch ein
 verteufelt ungemütliches Gefühl gewesen, hier auf offenem
 Platze jederzeit einer heimtückischen Kugel ausgesetzt zu sein.
@@ -1402,7 +1402,7 @@ ein wenig anders! — Müller, können Sie dies alles nicht bestätigen?«
 hat vor drei Jahren das »Rebus«, wie Sie es nennen, einem
 alten Hindu erpreßt, der jedoch die Lösung selbst nicht kannte.
 Ich traf mit Warbatty dann in Madras zusammen. Dort
-Vereinbarten wir ganz genau unter Berücksichtigung aller
+vereinbarten wir ganz genau unter Berücksichtigung aller
 Möglichkeiten, wie Sie dazu ausgenutzt werden sollten, das
 Rätsel zu enthüllen.« —
 

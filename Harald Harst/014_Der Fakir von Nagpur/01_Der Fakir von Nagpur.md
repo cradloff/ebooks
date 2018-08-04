@@ -94,9 +94,9 @@ genug anderes zu denken hatte — «
 Er griff in die Tasche, reichte mir die heutige Morgenausgabe
 der in Haidarabad erscheinenden englischen Zeitung.
 
-»Du wirst darin etwas finden, das uns angeht,« sagte er.
+»Du wirst darin etwas finden, das uns angeht,« sagte er,
 und plötzlich gewahrte ich an ihm alle Zeichen einer gesteigerten
-geistigen Anspannung »Suche jedoch im Annoncenteil,
+geistigen Anspannung. »Suche jedoch im Annoncenteil,
 nicht etwa unter Allerneuestes.«
 
 Er rauchte sich eine Zigarette an. Ich lehnte neben ihm
@@ -259,7 +259,7 @@ diese Worte zu mir zu sprechen; und nur die ungeheure
 Macht einer durch Hypnose vermittelten Willenskonzentration
 hat das Leben in dieser entblößten Brust noch für einige Zeit
 <@pagebreak/>
-festgehalten — Warbatty ist Arzt! Einen besseren Beweis
+festgehalten. — Warbatty ist Arzt! Einen besseren Beweis
 hierfür konnten wir kaum erhalten. Und welch geschickter
 Operateur muß er sein. Was für Experimente muß er bereits
 mit Menschen angestellt haben, um etwas derartiges zustande
@@ -394,14 +394,14 @@ tadellosem Zustande befinden sollte.
 
 Unsere Koffer waren hinten auf dem Gepäckhalter aufgeschnallt.
 Nur unsere Büchsen hatten wir auf Anraten des
-englischen Residenten, der Harst seinen Höflichkeitsbesuche
+englischen Residenten, der Harst einen Höflichkeitsbesuch
 gestern gemacht und ihm für Nagpur ein Empfehlungsschreiben
 an den dortigen höchsten Verwaltungsbeamten mitgegeben
 hatte, neben uns gestellt, da man in den gebirgigen Gegenden
 zuweilen auf Bergziegen zum Schuß kommen sollte.
 
 Mittags erreichten wir die unbedeutende Stadt Medik.
-Sie biegt am Nordabhang eines Höhenzuges, den der
+Sie liegt am Nordabhang eines Höhenzuges, den der
 <@pagebreak/>
 Kraftwagen nur dank seinem starken Motor auf dem Serpentinenwege
 überwand.
@@ -725,14 +725,14 @@ im Europäerviertel in der Prince of Wales-Straße. Mein
 Geschäft ist leicht zu finden. Ich bin der Goldwaren- und
 Edelsteinhändler Amar Mansur, bin Parse und vielleicht
 der reichste Mann der Stadt — bis vor kurzem gewesen.
-Die geheimnisvollen Diebstahle haben mich jedoch bereits
+Die geheimnisvollen Diebstähle haben mich jedoch bereits
 die Hälfte meines Vermögens gekostet, da mir gerade die
 wertvollsten Edelsteine geraubt wurden. — Ich bin in aufrichtiger
 Verehrung Ihr — Amar Mansur.
 
 »Hm,« meinte Harst, »die Sache verspricht so allerlei, lieber
 Schraut. Gehen wir sofort zu diesem Mansur, der nicht
-lediglich durch die Diebstahle schwer »bedrückt« ist, sondern
+lediglich durch die Diebstähle schwer »bedrückt« ist, sondern
 an dessen Herzen wohl noch ein anderer Kummer nagt. Sonst
 hätte er nicht geschrieben »als Geschäftsmann und Vater«.
 — Die Parsen sind die tüchtigsten Kaufleute Indiens. Besinne
@@ -776,7 +776,7 @@ jeden dritten oder vierten Tag hier an derselben
 Stelle auf, sitze hier bis Mittag etwa und verschwinde wieder.
 — »Wir nennen ihn den Fakir von Nagpur,« fügte er
 hinzu. »Er ist in vielem ein wandelndes Geheimnis. Niemand
-Weiß, wo er seine Hütte hat, wie er heißt, obwohl er
+weiß, wo er seine Hütte hat, wie er heißt, obwohl er
 bereits seit zwanzig Jahren in Nagpur sozusagen heimisch
 ist.«
 
@@ -802,7 +802,7 @@ es nach wenigen Sekunden mit einem Ruck wegnahm, waren
 die Reiskörner zu einem leicht dampfenden Häuflein zusammengeballt
 und sahen ganz wie gedünstet aus. Er legte nun
 <@pagebreak/>
-die Hände dicht darüber, als wollte er den Reis herausheben.
+die Hände dicht darüber, als wollte er den Reis herausheben,
 öffnete die Hände wieder, und — darin lag jetzt eine der kleinen
 indischen Sumpfschildkröten, die kaum die Größe eines
 Fünfmarkstückes erreichen. Der Reis aber war bis auf das
@@ -924,7 +924,7 @@ zwei Mal in der Woche.«
 »Er hielt sie für den Beginn völliger Geistesumnachtung.«
 
 Harst schüttelte den Kopf. »So kann ich Sie jetzt schon beruhigen.
-Von Geistesumnachtung ist keine Rede — Ich möchte
+Von Geistesumnachtung ist keine Rede. — Ich möchte
 aber noch einiges über die Diebstähle wissen. — Wann vermissten
 Sie den letzten Wertgegenstand?«
 
@@ -946,7 +946,7 @@ Sie es wünschen —«
 
 Bereits eine Viertelstunde drauf konnte er Harst, gänzlich
 verstört jetzt, erklären, daß ein Brillant den er für den
-Maharadscha von Bikara hatte umschleifen sollen, verschnitten
+Maharadscha von Bikara hatte umschleifen sollen, verschwunden
 sei. Vorhin habe der Stein, so behauptete er jammernd,
 noch auf der Schleifbank gelegen. Und kein Fremder habe
 die einem Stahlkäfig gleichende kleine Werkstatt neben dem
@@ -1044,7 +1044,7 @@ Heiliger mit Vorliebe für eine Schmutzkruste und einen zerlöcherten
 Mantel.
 
 Der Bucklige, dessen Turban bis über die Ohren reichte,
-nahm jetzt den Korb und ging davon. Der Fakir folgte langsam
+nahm jetzt den Korb und ging davon. Der Fakir folgte langsam,
 sich auf einen Stecken stützend und machte des öfteren
 halt, als müsse er ausruhen. Bei dem lebhaften Verkehr auf
 den Straßen konnten wir, seine Verfolger, gar nicht auffallen.
@@ -1093,7 +1093,7 @@ Jahre alt sei und im Eingeborenenviertel in der Nähe des
 großen Brahmatempels in einem prächtigen, modernen
 Hause wohne.
 
-Was mir an Fatima ausfiel, war eine gewisse ängstliche
+Was mir an Fatima auffiel, war eine gewisse ängstliche
 Scheu im Blick, die zu ihrem sonstigen Benehmen wenig paßte.
 Sie vermied es, Harst bei dieser Unterredung anzusehen.
 Schaute sie ihm gelegentlich ins Gesicht, so glitten ihre Augen
@@ -1214,7 +1214,7 @@ Bart, Riesenturban und löcheriger Mantel ihn völlig
 
 Und doch wußte ich jetzt, daß dieser Hindu und Vertraute
 des Fakirs kein anderer als Warbatty war. Harst hatte es
-mir erst aus dem Wege hierher gesagt und mir gleichzeitig den
+mir erst auf dem Wege hierher gesagt und mir gleichzeitig den
 Befehl gegeben, Warbatty niederzuschießen, falls er einen
 Fluchtversuch mache.
 
@@ -1349,7 +1349,7 @@ ich als Fakir für mich als Arzt insofern Reklame als ersterer
 eben, um Rat in Krankheitsfällen gefragt, die Betreffenden
 stets an den Doktor Kodowira wies.«
 
-»Sie sind wenigstens ehrlich jetzt,« meinte Harst
+»Sie sind wenigstens ehrlich jetzt,« meinte Harst.
 
 »Lügen hat ja keinen Zweck mehr. Ganz besonders jetzt
 nicht, wo ich erkannt habe, welch gemeiner Schurke dieser

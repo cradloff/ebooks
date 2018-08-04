@@ -223,7 +223,7 @@ Erst jetzt bemerkte ich vier dieser Kolosse, die ganz in unserer
 Nähe von einer auf den Fluß mündenden Gasse aus ihr
 Abendbad nahmen. Einer davon war von sehr heller Hautfarbe.
 
-»Heilige Elefanten,« sagte Harst »Drei der Mahuts
+»Heilige Elefanten,« sagte Harst. »Drei der Mahuts
 (Lenker), die zwischen ihren Ohren hocken, sind Priester, Brahmanen.
 Also handelt es sich um Tiere, die Eigentum irgend
 eines Tempels sind —« — Er rief einen der Inder von
@@ -234,7 +234,7 @@ und er sprach das Englische leidlich.
 »Nimm das kleine Beiboot des Kutters und rudere ein Stück
 flußaufwärts, erkundige Dich dann auf einem der verankerten
 Fahrzeuge, zu welchem Tempel die vier Elefanten dort
-gehören. Tu’s aber unauffällig. Rawaiku, und sage niemandem,
+gehören. Tu’s aber unauffällig, Rawaiku, und sage niemandem,
 daß ich Dich beauftragt habe. Verschweige auch den Deinen,
 daß Du diese fünf Rupien (die Rupie 1,10 Mark) leicht
 verdienen wirst.« Er steckte ihm die kleine Banknote unauffällig
@@ -592,7 +592,7 @@ sich mit einem ironisch\-höflichen »Auf Wiedersehen, meine
 Herren«.
 
 <@pagebreak/>
-»Hm,« meinte Harst »Da sitzen wir ja in einem reizenden
+»Hm,« meinte Harst. »Da sitzen wir ja in einem reizenden
 Käfig fest —«
 
 »Käfig?«
@@ -611,7 +611,7 @@ Unser löcheriges Zelt stand inmitten eines viereckigen
 Käfigs aus Eisenstäben, der den Mittelpunkt eines ganzen
 Raubtierhauses aus Käfigen bildete. Ich konnte ja nur einen
 Teil überschauen. Aber auch das genügte. Ich bemerkte
-vier Käfige rechts und links als äußerste des quadratischen
+vier Käfige; rechts und links als äußerste des quadratischen
 Raubtierhauses je eine größere Abteilung; darin je zwei ausgewachsene
 Tiger. Vor mir einen breiteren und einen
 schmäleren, langgestreckten Verschlag; darin je ein Tiger.
@@ -632,7 +632,7 @@ empfing mich mit den Worten:
 Hälfte des großen Käfigs mir angesehen. Auch dort gibt es
 vier Abteilungen, darin einen Tiger, zwei Panther, zwei Tiger,
 einen Tiger. — Daß wir uns in dem Dressurkäfig eines
-Raubtierhauses befanden, sagte mir schon der Geruch der
+Raubtierhauses befanden, sagte mir schon der Geruch, der
 bei diesem Abenteuer mit das unangenehmste ist. Du kennst
 meine Abneigung gegen Tierausdünstungen.«
 
@@ -676,7 +676,7 @@ gefällig gewesen ist, Deinen und Deines Gehilfen Tod wünscht.
 »Ja, Schamana Driga. Ich weiß, daß, wie Brahmaputra
 Sohn des Brahma heißt, Putra Rakisana Bruder des Schwertes
 bedeutet. Die Schwertbrüder sind eine uralte Geheimsekte
-Indiens, waren einst erbitterte Gegner alter Weißen,
+Indiens, waren einst erbitterte Gegner aller Weißen,
 <@pagebreak/>
 sind jetzt aber zu einem Verbrecherbunde herabgesunken. Ich
 nehme an, daß Du ein Putra Rakisana bist. Sonst hättest Du
@@ -1450,7 +1450,7 @@ sollte der Hergang sein. — Dsangpo, habe ich recht?«
 
 Der Mahut nickte nur mit dem Kopf.
 
-»Master Hamilton.« fuhr Harst fort, »vielleicht empfiehlt
+»Master Hamilton,« fuhr Harst fort, »vielleicht empfiehlt
 <@pagebreak/>
 es sich, sofort ein paar Ihrer Leute zu dem Tierbändiger
 Shamana Driga zu schicken und diesen verhaften zu lassen.

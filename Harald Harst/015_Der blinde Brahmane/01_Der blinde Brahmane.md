@@ -306,7 +306,7 @@ tat uns das jetzt?! Wir waren gute Schwimmer.
 
 Ich sah nun, daß wir uns in einem gemauerten, riesigen
 Bassin befanden, zu dessen trübem Wasser vier Steintreppen
-hinabführten. Ich harte erwartet, daß auf dem Rande des
+hinabführten. Ich hatte erwartet, daß auf dem Rande des
 Bassins vielleicht Leute als Zuschauer noch stehen würden,
 die uns hier wie räudige Katzen hatten ertränken wollen.
 Es war jedoch kein Mensch zu erblicken; lediglich ein paar
@@ -330,7 +330,7 @@ trocknen. — Jetzt reichte Harst mir meine Waffe und meinte:
 eine heilige Badestelle der Hindu. Du siehst es dem Wasser an,
 daß es geradezu ekelhaft schmutzig ist. Es wird auch nur von
 Zeit zu Zeit ergänzt, denn die Geschichte ist verdammt kostspielig,
-da es aus dem heiligen Strome dem Ganges, stammt
+da es aus dem heiligen Strome, dem Ganges, stammt
 und in großen Behältern mit der Bahn herbeigeschafft
 <@pagebreak/>
 werden muß. Solche Badebassins findest Du hier in Indien in
@@ -345,7 +345,7 @@ ausgedehnten, alten Tempels, dessen Reste bereits derart mit
 Unkraut überwuchert waren, daß man nur noch die Türme
 als Mauerwerk auf den ersten Blick erkennen konnte. Die
 Baulichkeiten bildeten grüne Hügel in denen sich dunkle
-Löcher öffneten: die einstigen Türen und Tonbögen. Der Hof
+Löcher öffneten: die einstigen Türen und Torbögen. Der Hof
 selbst, mit uralten Palmen und knorrigen baumartigen
 Büschen bestanden, war mit Steinfliesen ausgelegt, die sternförmig
 Wege nach dem Bassin bildeten. Das Ganze wirkte
@@ -384,7 +384,7 @@ uns mit so groben Stößen durchrütteln mußten, bevor sie unseren
 Schlangenkasten dann durch Umkippen des Wagens ins
 Wasser beförderten.
 
-»Es müssen ihrer vier gewiesen sein,« meinte Harst, den
+»Es müssen ihrer vier gewesen sein,« meinte Harst, den
 Kopf nach mir zurückwendend. — Er hatte also genau gewußt,
 daß ich in diesem Moment an unsere »Schieber« gedacht
 hatte. »Zwei oder drei hätten den Wagen nicht nach
@@ -786,7 +786,7 @@ Sterbekomödie!
 
 »Es hat höchstens noch eine Stunde Zeit,« erklärte er nun
 dem braven Kapitän. »Mein Fuß ist nämlich genau so gesund
-wie der Ihrige, und ich habe für diese Nachts noch einen
+wie der Ihrige, und ich habe für diese Nacht noch einen
 kleinen Ausflug nach dem Matahu-Tempel vor —«
 
 Anderson blieb der Mund offen stehen.
@@ -850,7 +850,7 @@ wir mit einem Wattebausch oberflächlich unsere ohnedies
 sonngebräunten Gesichter noch dunkler.
 
 Ich fragte Harst jetzt genau dasselbe, was auch Kapitän
-Anderson so gern hatte wissen wollen. Biber mein Brotherr
+Anderson so gern hatte wissen wollen. Aber mein Brotherr
 machte es wie stets: er wich mir aus, meinte, genau könne
 er selbst noch nicht sagen, was Warbatty plane. —
 
@@ -869,7 +869,7 @@ schützen. — Hierbei hatte der Inspektor uns noch so allerlei
 über die Reichtümer indischer Tempel berichtet. Seiner Ansicht
 nach lägen Milliarden an Edelsteinen und goldenen Gerätschaften
 in den berühmten Hindutempeln verborgen. Diese
-Versteckte kennen, so behauptete er, immer nur drei der Priester,
+Verstecke kennen, so behauptete er, immer nur drei der Priester,
 die das betreffende Heiligtum bewachen. Im Matahu
 vermute er jetzt kaum noch besondere Kostbarkeiten, nachdem
 den weißen Spitzbuben damals Millionenwerte in die Hände
@@ -1089,7 +1089,7 @@ dem Kinde. Das ist alles.«
 
 »Ah — genial! Meine Hochachtung! Deshalb also die
 Knallerei in der Kiste! Wir dachten, die Kugeln sollten die
-Leute vertreiben, die den Karten schoben. — Weiß Harst
+Leute vertreiben, die den Karren schoben. — Weiß Harst
 genaueres über den Brahmanen?«
 
 »Nein. Wenigstens hat er mich nicht eingeweiht. Er
@@ -1360,7 +1360,7 @@ Wohnung vor drei Tagen vermietet und meinte, der dreckige
 Kerl müsse über viel Geld verfügen.«
 
 »Alles vortrefflich — vorzüglich!« Harsts Augen glänzten.
-»Master Greaper wir werden die Bande noch heute erledigen.«
+»Master Greaper, wir werden die Bande noch heute erledigen.«
 
 »Ganz schön. — Aber ob wir den Smaragd wiederfinden,
 erscheint mir sehr zweifelhaft. Der Stein hat etwa Hühnereigröße.
