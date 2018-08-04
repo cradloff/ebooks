@@ -67,7 +67,7 @@ sich Warbattys Pläne nicht; dazu waren sie zu vielseitig.
 
 Abermals streiften meine Blicke Harald Harsts Gesicht.
 Und da — begegneten sie seinen weit offenen, klaren Augen,
-da stellten sie fest daß alles Müde, Verzagte aus den Zügen
+da stellten sie fest, daß alles Müde, Verzagte aus den Zügen
 des Mannes verschwunden war der in kurzem als Liebhaberdetektiv
 auf der ganzen Welt berühmt geworden.
 
@@ -282,7 +282,7 @@ ziemlich stumpfen Beil, aber mit großer Kraft abgetrennt
 worden. Die Knochen sind zersplittert. Aber — gerade der
 geringen Schärfe des Beiles ist es zuzuschreiben, daß dieses
 junge Weib noch nicht verblutet ist. Die Aderenden sind zerfasert
-und halb geschlossen —"
+und halb geschlossen —«
 
 Er nahm nun die linke Hand und fühlte nach dem Pulsschlag.
 
@@ -333,7 +333,7 @@ auf dem die noch immer Bewußtlose lag?
 
 Ich beobachtete ihn. — Ach — wie anders sah er doch
 jetzt aus als vorher im Liegestuhl auf dem King Edward!
-Von Müdigkeit von Verzagtheit keine Spur mehr. Alles an
+Von Müdigkeit, von Verzagtheit keine Spur mehr. Alles an
 ihm lebte, sprühte Eifer und Berufsbegeisterung. —
 
 Jetzt setzte er sich mir gegenüber auf die nächste Bank,
@@ -716,7 +716,7 @@ ich war so daran gewöhnt, ihm blindlings zu folgen, daß ich
 fast mechanisch das Steuer herumwarf und auf das kleine
 Boot zuhielt.
 
-Und — das erst sah ich, daß es — scheinbar flüchtete.
+Und — da erst sah ich, daß es — scheinbar flüchtete.
 
 Was — was in aller Welt bedeutete das nun wieder?!
 Die Hafenpolizei riß vor uns aus?!
@@ -846,7 +846,7 @@ der Stadt zu. Der Inspektor saß neben mir auf der Ruderbank.
 Harst stand an dem Motorkasten.
 
 »Sie haben in dem einen farbigen falschen Hafenpolizisten
-also Warbatty, erkannt Master Harst?« meinte Plumper nun.
+also Warbatty erkannt, Master Harst?« meinte Plumper nun.
 Sie müssen geradezu Katzenaugen haben — im Dunkeln
 sehen!«
 
@@ -875,7 +875,7 @@ wissen, daß dieser Cecil Warbatty mit dieser —«
 »Ganz recht!« fiel Harst ihm ins Wort. »Wie konnte ich
 ahnen, daß Warbatty mit der verstümmelten Toten irgendwie
 etwas zu tun haben dürfte. — Darüber wollen wir uns in
-Ihrem Dienstzimmer unterhalten, Master Plumpen. Hier
+Ihrem Dienstzimmer unterhalten, Master Plumper. Hier
 werde ich durch die Bedienung des Motors zu sehr abgelenkt.«
 
 Unser Kutter legte in einem kleinen Bassin an, in dem
@@ -1030,6 +1030,7 @@ Am Morgen gegen acht Uhr frühstückten wir allein,
 Harst und ich. Plumper war bereits unterwegs. Es gab noch
 so allerlei vorzubereiten für die Falle, in der unser »Freund«
 Cecil diesmal ganz sicher gefangen werden sollte. —
+
 Unsere Verkleidungsrequisiten lagen auch schon bereit.
 Um neun Uhr verließen dann zwei den reicheren Kreisen angehörige,
 europäisch gekleidete Inder kurz nacheinander durch
@@ -1105,7 +1106,7 @@ eintönig herunter.
 »Die Hand besteht aus gediegenem Golde, ist mit einer
 feinen Wachsschicht überzogen und schon deshalb ein Kunstwerk
 allerersten Ranges, weil ihr naturgetreues Aussehen so
-deutlich ins Auges springt. Man könnte meinen, die Hand einer
+deutlich ins Auge springt. Man könnte meinen, die Hand einer
 Leiche, einer soeben erst Verstorbenen, vor sich zu haben.
 Der Künstler hat sowohl die Hautfältchen, die Poren, die Falten
 an den Gelenken als auch die Fingernägel so täuschend
@@ -1233,7 +1234,7 @@ Motorkutter vor dem plötzlich auftauchenden Dampfer.«
 »Ich bestreite das alles,« meinte Warbatty achselzuckend.
 »Die Hand habe ich von einem Unbekannten gekauft —«
 
-»So?! gekauft!" Harsts Augen flammten. Ich sah, welch
+»So?! gekauft!« Harsts Augen flammten. Ich sah, welch
 maßlose Verachtung, welch grenzenloser Ingrimm gegen diesen
 Massenmörder und dessen zynische Frechheit in seinem Innern
 auflohten. — »Also gekauft! — Ah — lerne ich Sie endlich
