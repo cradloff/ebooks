@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">11f3b116-99be-11e8-8c52-cfbe8e3f7395</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die neue Emden</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">60</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Kapitän Shooft, gleichzeitig Eigentümer des Raddampfers „Lady Milton“, zeichnete sich nicht gerade durch untadeliges Benehmen aus. Im Gegenteil. Die zwölf Passagiere, die mit dem alten Kasten, den nur noch der Weltkrieg mit seinem gesteigerten Schiffsfrachtenverdienst den Ruheposten als Tourendampfer in der Bucht von Southampton hatte aufgeben lassen, diesmal die Überfahrt über den Kanal nach Cherbourg gewagt hatten, waren entsetzt über die Eigentümlichkeiten ihres pockennarbigen und whiskynasigen Schiffsführers, der nicht nur den braunen Tabaksaft seines Priems den Damen direkt vor die Füße spritzte, sondern sich auch ein besonderes Vergnügen daraus zu machen schien, die Landratten durch Schauergeschichten von deutschen U-Booten zu ängstigen und durch eine wahre Blütenlese von unglaublichen Flüchen in Verlegenheit zu setzen.
+
+Edward Shooft nutzte die Kriegskonjunktur in jeder Weise aus. Nach Erlegung von ein Pfund Sterling war es jedem Passagier gestattet, sich ganz nach Belieben auch auf der sonst verbotenen Kommandobrücke aufzuhalten. Von dem Dutzend Passagieren, die die „Lady Milton“ – für ein englisches Schiff eigentlich ein kurioser Name, wenn man an die gleichnamige Engländerin und ihre fragwürdige Rolle in Schillers Trauerspiel „Kabale und Liebe“ denkt – jetzt beherbergte, hatte jeder sein Pfund bezahlt, ohne Ausnahme, wahrscheinlich aus Freude darüber, auf dem halbwracken Raddampfer überhaupt noch bei dem riesigen Ansturm von Fahrgästen auf die wenigen, auch Personenverkehr übernehmenden Schiffe untergekommen zu sein.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (060) Die neue Emden.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
