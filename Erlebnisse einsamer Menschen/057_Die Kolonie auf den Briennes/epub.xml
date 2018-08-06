@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">1689be08-99bb-11e8-8f95-6f90fefee0e3</entry>
+<!-- ISBN -->
+<entry key="ISBN"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Kolonie auf den Briennes</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Erlebnisse einsamer Menschen</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">57</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Im Garten der großen Landwirtschaftsschule, die als Gefangenenlager für die in Plymouth von den deutschen Handelsschiffen herabgeholten Besatzungen in aller Eile eingerichtet worden war, standen an einem warmen Oktobernachmittag des Jahres 1914 hinter einer Dornenhecke ein breitschultriger Seemann mit leicht ergrautem Vollbart und zwei Knaben, – kräftige Burschen, die in ihren Matrosenanzügen trotz deren Abnutzung durch die nun bereits zehnwöchige Gefangenschaft ganz sauber und eigen aussahen.
+
+„Gott mit Euch, Jungens!“ sagte Kapitän Leitner mit bewegter Stimme. „Es ist ein ziemliches Wagnis, das Ihr vorhabt. Aber ein Gelingen ist nicht ausgeschlossen, und deshalb will ich Euch nicht zurückhalten, zumal mir sehr viel daran liegt, daß die Papiere, die ich bisher den englischen Späheraugen glücklich entzogen habe, in die Hände meines Reeders in Emden gelangen.“
+
+Nochmals schloß er seinen Sohn Heinrich jetzt in die Arme, drückte Fritz Burke die Hand und ging dann tiefer in den Garten hinein – schnellen Schrittes, um den Knaben zu verheimlichen, wie feucht es in seinen Augen schimmerte. –</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">W. Belka</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Belka, W.</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Belka, W. - (057) Die Kolonie auf den Briennes.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H.</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">YAF001020 YOUNG ADULT FICTION / Action &amp; Adventure / Survival Stories</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1916</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">false</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen (default: h1) -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
