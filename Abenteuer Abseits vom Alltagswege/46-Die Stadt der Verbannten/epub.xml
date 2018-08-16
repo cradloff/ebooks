@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">d63a833e-a197-11e8-986c-23e76de9226b</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Stadt der Verbannten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">46</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">„Kaid Mahmed, du bist mein Freund“, begann ich von neuem.
+
+„Ja, Herr … Du hast uns viele Reittiere und Sättel geschenkt, die du gestohlen hattest …“ Er streichelte jetzt seine Nase, und seine Stimme hatte warnend-verächtlich geklungen.
+
+Unsere Freundschaft beruhte auf dem sehr dünnen Fundament einer Dankbarkeit, die in den letzten Tagen stark verblaßt war.
+
+„Gestohlen?! – Kriegsbeute!“, wehrte ich die Grobheit gutgelaunt ab. Aber diese gute Laune war Tünche. Meine Geduld war dem Reißen nahe. Diese Banditen behandelten mich seit Tagen als halben Gefangenen, und Kaid Mahmed hatte mir wiederholt sehr zart nahegelegt, ich solle doch nach Larache reiten, – – mithin ein versteckter Hinauswurf! Ausgerechnet nach Larache, wo man mich unbedingt verhaftet und vor ein Kriegsgericht gestellt hätte! Der Reittiere wegen …! Ganz sauber war die Geschichte nicht gewesen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (46) Die Stadt der Verbannten.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
