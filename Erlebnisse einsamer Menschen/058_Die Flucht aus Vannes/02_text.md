@@ -72,7 +72,7 @@ Gelegenheit zur Flucht verschaffen wollen. Das Glück war mir günstig. Auf eine
 alten Pergamenturkunde, die später zum Einbinden eines Buches benutzt worden
 ist und die ich losgelöst und von dem anhaftenden Kleister gereinigt habe, fand
 ich einen Grundriß der Festung Vannes, der noch von einem der Offiziere Ludwigs
-14. gezeichnet ist und der eine aus lauter Kreuzen bestehende Linie enthält,
+14\. gezeichnet ist und der eine aus lauter Kreuzen bestehende Linie enthält,
 die mir einen geheimen Gang anzudeuten schien. Nun – dieser unterirdische Gang
 ist wirklich vorhanden, und mit seiner Hilfe will ich wie gesagt entfliehen. –
 – Die Wache kommt. Sprechen wir von etwas anderem.“
