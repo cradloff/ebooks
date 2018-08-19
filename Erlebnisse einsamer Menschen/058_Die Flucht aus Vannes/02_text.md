@@ -232,7 +232,7 @@ sie bis an die Bucht. Bei den Hütten war alles ruhig. Nur ein einzelner Hund
 heulte den Mond an.
 
 Bald war auch ein abseits auf den Strand gezogenes kleines Boot gefunden, auf
-dem man zu einem der Kutter hinüberkonnte.
+dem man zu einem der Kutter hinüber konnte.
 
 Jetzt war das Mondlicht recht störend. Nur zu leicht konnte das Boot auf der
 schillernden Wasserfläche bemerkt werden. Aber – hier gab es kein Zögern. So
@@ -425,7 +425,7 @@ Schimmer zu bemerken war.
 „Es wird schon hell, Herr Leutnant. Und der Regen muß auch gleich vorüber sein.
 Dort ist die Wolkenwand zu Ende.“ Wieder zeigte er schräg nach oben.
 
-Er behielt recht Die Tropfen fielen weniger dicht, und dann wurde es ringsum
+Er behielt recht. Die Tropfen fielen weniger dicht, und dann wurde es ringsum
 zusehends lichter.
 
 Man konnte bald feststellen, wie die Örtlichkeit beschaffen war, in die man so
@@ -878,7 +878,7 @@ gelegen, als kaum anzunehmen war, daß sich die Wasserflugzeuge nochmals so weit
 in See hinauswagen würden. Vorläufig hatte man also wohl Ruhe vor ungebetenen
 Gästen.
 
-Meinke und der reckt aufgeweckte Heinrich Leitner setzten sich vor die Hütte an
+Meinke und der recht aufgeweckte Heinrich Leitner setzten sich vor die Hütte an
 den Tisch und nahmen diese Gelegenheit wahr, nochmals in aller Ruhe ihre Lage
 zu erörtern. Hierbei erfuhr der Leutnant mancherlei, was Fritz Burke vorhin zu
 erwähnen vergessen hatte, so z. B., daß die beiden Knaben gleich in den ersten

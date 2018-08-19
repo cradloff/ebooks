@@ -220,7 +220,7 @@ Deck abgeplatteter Schiffskörper bestand aus einer doppelten Zinkblechwandung.
 Als Antrieb diente eine Schraube, die durch den Motor eines zerstörten
 englischen Wasserflugzeuges in Umdrehung versetzt wurde und die dem
 merkwürdigen Fahrzeug eine Geschwindigkeit von acht bis neun Knoten verlieh.
-Die Hauptsache aber: die neue „ Emden“ war sozusagen ein halbes Tauchboot, da
+Die Hauptsache aber: die neue „Emden“ war sozusagen ein halbes Tauchboot, da
 sie Einrichtungen enthielt, die es ermöglichten, sie bei abgestelltem Motor bis
 zu einem halben Meter unter die Wasseroberfläche verschwinden zu lassen. Ihren
 U-Boot-Charakter verriet sie auch durch das glatte, relinglose Deck, auf dem es
@@ -331,7 +331,7 @@ Sache in der Bucht nicht recht geheuer war. Berchem stellte durch das Glas
 fest, wie der armierte französische Fischdampfer wendete. Gleichzeitig ließ er
 seine Sirene ein paar warnende Heultöne geben.
 
-Zu spät. – Der dunkle Fleck, den die „Lady Milton“ von der „ Emden“ aus gesehen
+Zu spät. – Der dunkle Fleck, den die „Lady Milton“ von der „Emden“ aus gesehen
 darstellte, verwandelte sich urplötzlich in einen feuerspeienden Vulkangipfel.
 Ein furchtbarer Knall, verbunden mit einem Luftstoß, der Krapatkul und Heinrich
 nach hinten schleuderte, begleitete die Explosion. Und dann wälzte sich ein
@@ -444,7 +444,7 @@ festgesessen.“ – –
 Zehn Minuten darauf änderte Hartner den Kurs, ließ die „Emden“ erst eine halbe
 Stunde scharf nördlich laufen und bog dann nach Osten ab, um auf diese Weise
 den Hafen von Cherbourg zu umgehen. Als dessen Lichter rückwärts verschwunden
-waren wurden die Segel, da der Morgen zu grauen begann, eingeholt und auch der
+waren, wurden die Segel, da der Morgen zu grauen begann, eingeholt und auch der
 aus drei Teilen bestehende Mast entfernt. Der Motor sprang an, und eilig glitt
 die „Emden“ nach Osten zu weiter, indem sie so die östlich von Cherbourg tief
 einschneidende, große Seine-Bucht abzuschneiden suchte.
