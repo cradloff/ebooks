@@ -87,7 +87,7 @@ hatte.
 
 Ja, Trasso ist verändert …
 
-Ist nichts bei der Sache.
+Ist nicht bei der Sache.
 
 Niemals hätte es sonst geschehen können, daß urplötzlich vor uns aus dem Geröll
 eine überhagere Legionärgestalt mit funkelndem Monokel sich überraschend erhebt

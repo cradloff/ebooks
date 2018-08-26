@@ -193,7 +193,7 @@ davonreite und den Dschebel Kainar als verbotenes Land meide!!
 … Man irrt sich. Man hat mich schon oft zu irgend etwas zwingen wollen. Man hat
 sich an meiner Hartnäckigkeit noch stets die Zähne ausgebissen und sobald die
 Zahnlücke erst vorhanden war, schlüpfte ich hindurch und rief mein kühnes
-„Horrido – da bin ich!!“, in den Höllenschlund. – Aber zur Zeit (denn nun
+„Horrido – da bin ich!!“ in den Höllenschlund. – Aber zur Zeit (denn nun
 schreibe ich wieder bei Petroleumlicht) ist meine Siegeszuversicht gewaltig
 gesunken.
 

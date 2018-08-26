@@ -320,7 +320,7 @@ Neben mir auf einem Granitklotz liegt der baumlange Pourler, der unentwegt ein
 randloses Monokel vor dem rechten Auge trägt und ein sehr pomadiger junger Herr
 zu sein scheint.
 
-„He, Sie …“, sagt er plötzlich … Weshalb zählen wir hier eigentlich die
+„He, Sie …“, sagt er plötzlich „… Weshalb zählen wir hier eigentlich die
 Schakale, die sich bereits an die von Ihnen erschossenen Gäule
 heranschleichen?! Bisher sind es fünfzehn …“
 

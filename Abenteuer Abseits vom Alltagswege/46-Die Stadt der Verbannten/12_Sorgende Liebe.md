@@ -42,7 +42,7 @@ Mädchen werden schweigen. Wie wir da helfen sollen, begreife ich nicht.“
 „Ich erst recht nicht, Sim …“, – und dann hatte das ungemütliche Mahl begonnen.
 
 Ein ganz bestimmter Gedanke bohrte fast schmerzhaft mit zäher Hartnäckigkeit in
-meinem ausruhten, für alles empfänglichen Hirn. Eine Frage, die lebendig
+meinem ausgeruhten, für alles empfänglichen Hirn. Eine Frage, die lebendig
 bleiben mußte, weil sie dem Ursprung dieses Geheimnisses des Kainar, dieses
 Amazonenstaates nachspürte: Woher waren einst diese Engländerinnen gekommen,
 die hier in dem unzugänglichen Bergmassiv sich eine neue Heimat geschaffen
