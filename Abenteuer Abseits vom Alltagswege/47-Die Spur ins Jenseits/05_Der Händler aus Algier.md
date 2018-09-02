@@ -1,4 +1,4 @@
-5. Kapitel.
+5\. Kapitel.
 ===========
 Der Händler aus Algier.
 -----------------------
@@ -59,7 +59,7 @@ Nur ganz verschiedenartig.
 
 Wir beide horchten mit stillem Unbehagen und griffen nach den Waffen.
 
-Morstan hatte im Nu eine zusammenlegbare Repetierbüchse mit zwei Flügelschrauben zu einem Ganzen vereinigt und auch das Glas wieder her- vorgeholt.
+Morstan hatte im Nu eine zusammenlegbare Repetierbüchse mit zwei Flügelschrauben zu einem Ganzen vereinigt und auch das Glas wieder hervorgeholt.  
 
 Jetzt rief er Garling an.
 

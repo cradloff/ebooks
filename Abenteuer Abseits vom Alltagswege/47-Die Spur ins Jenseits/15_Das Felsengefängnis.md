@@ -1,4 +1,4 @@
-15. Kapitel.
+15\. Kapitel.
 ============
 Das Felsengefängnis.
 --------------------

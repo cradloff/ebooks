@@ -1,4 +1,4 @@
-8. Kapitel.
+8\. Kapitel.
 ===========
 Eine Fährte Thomas Holks?
 -------------------------

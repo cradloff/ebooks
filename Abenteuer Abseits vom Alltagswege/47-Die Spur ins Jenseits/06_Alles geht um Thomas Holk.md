@@ -1,4 +1,4 @@
-6. Kapitel.
+6\. Kapitel.
 ===========
 Alles geht um Thomas Holk.
 --------------------------

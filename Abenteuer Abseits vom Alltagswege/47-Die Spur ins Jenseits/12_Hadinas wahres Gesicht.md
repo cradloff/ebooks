@@ -1,4 +1,4 @@
-12. Kapitel.
+12\. Kapitel.
 ============
 Hadinas wahres Gesicht.
 -----------------------
@@ -31,7 +31,7 @@ Morstan war hellhörig.
 
 „Nicht so arg, wie Sie glauben“, tröstete ich. „Lassen Sie es nur erst wieder Nacht werden, dann will ich Ihnen beweisen, daß ich zu dem Kerker der Europäer keine Stunde brauche.“
 
-„Morstan riß die Augen auf. „Wie – keine Stunde?“
+Morstan riß die Augen auf. „Wie – keine Stunde?“
 
 „Nein. Garling und Harris und der nette James sind damals bei miserablem Wetter immer im Kreise geritten, behaupte ich, Garling nimmt das selbst an.“
 
@@ -41,7 +41,7 @@ Morstan war hellhörig.
 
 Abends sieben Uhr hatte Frau Hadina leichtes Fieber. Ich hatte den Verband gewechselt, und als ich nun neben ihrem Lager saß und von droben bereits die Abendröte durch die halb mit Sand bedeckten „Oberlichtfenster“ hereinflutete, suchte ich ihr ins Gewissen zu reden. Sie lag mit großen, übergroßen glänzenden Augen da, und die zarte Fieberröte auf ihren lichtbraunen Wangen machte ihr Gesicht nur noch anziehender. Ich wollte nicht Diplomat sein, ich fuhr sofort das schwerste Geschütz auf.
 
-„Glauben Sie, Frau Hadina, daß eine Miß Evelyn Hock jemals Bir Kassal lieben könnte?! Da kennen Sie die Engländerin schlecht. Der Tuareg war ihr nur Mittel zum Zweck – zu einem Zweck, der mir noch verschleiert ist. Jetzt hat Bir Kassal allerdings die Maske fallen lassen. Hörten Sie Evelyn in der verflossenen Nacht weinen?“
+„Glauben Sie, Frau Hadina, daß eine Miß Evelyn Holk jemals Bir Kassal lieben könnte?! Da kennen Sie die Engländerin schlecht. Der Tuareg war ihr nur Mittel zum Zweck – zu einem Zweck, der mir noch verschleiert ist. Jetzt hat Bir Kassal allerdings die Maske fallen lassen. Hörten Sie Evelyn in der verflossenen Nacht weinen?“
 
 Sie schaute mich groß an.
 
@@ -81,7 +81,7 @@ Ich nahm mein Messer.
 
 Ich steckte es schnell wieder weg …
 
-Und schneller, als ich es hier niederschreiben kann, verschwand ich nach unten, Morstan zog mich und die Stange durch die Tür …“
+Und schneller, als ich es hier niederschreiben kann, verschwand ich nach unten, Morstan zog mich und die Stange durch die Tür …
 
 „Anlehnen, – – nur anlehnen“, keuchte ich. „Ich habe Stimmen gehört …“
 

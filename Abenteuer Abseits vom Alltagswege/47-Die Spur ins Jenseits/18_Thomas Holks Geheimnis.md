@@ -1,4 +1,4 @@
-18. Kapitel.
+18\. Kapitel.
 ============
 Thomas Holks Geheimnis.
 -----------------------
@@ -63,7 +63,7 @@ Ich wollte frei sein … Ich wollte flüchten, und deshalb untersuchte ich die W
 
 Dann war diese Arbeit vollendet …
 
-Ich hatte ein Schlupfloch, und ich irrte durch die Höhlen, die Bir Kassal nicht kannte … Diese Höhlen, meine Freunde, enttäuschten mich bitter. Ich ging von neuem ans Werk, aus diesen Grotten einen Ausgang zu erzwingen. Wieder verstrichen Jahre … Ich fand eine Stelle, wo ich Licht schimmern sah, Sonnenlicht, aber als ich auch hier den Durchbruch vollendet hatte, war eines Tages die tiefe Schlucht dort für andere zum Kerker geworden, und ich mußte meine Versuche anderswo wiederholen. So schuf ich den Zugang zu Frau Hadinas Versteck, so lernte ich Hadina kennen, die mir erzählte, Evelyn sei tot. Ich habe Evelyn hier bis heute nie zu Gesicht bekommen.
+Ich hatte ein Schlupfloch, und ich irrte durch die Höhlen, die Bir Kassal nicht kannte … Diese Höhlen, meine Freunde, enttäuschten mich bitter. Ich ging von neuem ans Werk, aus diesen Grotten einen Ausgang zu erzwingen. Wieder verstrichen Jahre … Ich fand eine Stelle, wo ich Licht schimmern sah, Sonnenlicht, aber als ich auch hier den Durchbruch vollendet hatte, war eines Tages die tiefe Schlucht dort für andere zum Kerker geworden, und ich mußte meine Versuche anderswo wiederholen. So schuf ich den Zugang zu Frau Hadinas Versteck, so lernte ich Hadina kennen, die mir erzählte, Evelyn sei tot. Ich habe Evelyn hier bis heute nie zu Gesicht bekommen.“
 
 Er strich sich leicht über die Stirn.
 
@@ -73,7 +73,7 @@ Bei meinen heimlichen Streifzügen durch den nördlichen Stollen, der mir ja all
 
 Dahinter eine neue Höhle, die von einem unterirdischen Wasserlauf durchquert wurde, der Boden dort war nicht Fels, sondern lehmiger Sand.
 
-Aber vielleicht ist es richtiger, Sie alle begleiten mich … Bis auf die, die für die Verwundeten sorgen müssen.
+Aber vielleicht ist es richtiger, Sie alle begleiten mich … Bis auf die, die für die Verwundeten sorgen müssen.“
 
 Eine halbe Stunde später zwängten wir uns einzeln durch die Felsspalte.
 
@@ -91,7 +91,7 @@ Holk hatte den Arm um sein Kind geschlungen.
 
 Er küßte sein Kind, – – dann kehrten wir zurück in die leuchtende Fülle des Tages, und keiner von uns sprach ein Wort.
 
-*
+* * *
 
 Tage sind vergangen.
 
@@ -149,7 +149,7 @@ Ich weiß, sie werden mich nie verstehen, ich werde ihnen immer ein Rätsel blei
 
 <@spacer/>
 
-Nächster Band:
+__Nächster Band:__
 
 Die Frau vom Leuchtturm.
 

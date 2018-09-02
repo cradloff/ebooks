@@ -1,4 +1,4 @@
-3. Kapitel.
+3\. Kapitel.
 ===========
 Auf der Spur der Muschel.
 -------------------------

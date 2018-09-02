@@ -1,4 +1,4 @@
-4. Kapitel.
+4\. Kapitel.
 ===========
 Der Beschluß des Westend-Klub.
 ------------------------------
@@ -37,7 +37,7 @@ Für jeden unbefangenen Beurteiler mußte diese merkwürdige Geschichte von der 
 
 – Ich lasse Garling selbst erzählen und versuche auch seine Darstellungsweise wiederzugeben.
 
-Bericht Lord Garlings über die Westend-Saharaexpedition.
+> Bericht Lord Garlings über die Westend-Saharaexpedition.
 
 „Meine beiden Gefährten Harris und Brighton gehören wie ich dem sehr vornehmen und reichen Westend-Klub in London an, der nicht lediglich die Geselligkeit pflegt, sondern auch das Klubvermögen für wissenschaftliche Forschungen mit abenteuerlichem Einschlag verwendet. Auch Frauen sind Mitglieder.
 
@@ -103,7 +103,7 @@ Hinter uns jaulte die Muschel, tremolierte …
 
 Vom Brunnen her …
 
-Harris war leichenblaß vor Mut.
+Harris war leichenblaß vor Wut.
 
 Er stürmte die Hügel hinab, verschwand hinter den Steinen der Zisterne, und als ich ihm folgte, prallte ich zurück: Auf dem Kranz von Gebeinen lag unser Führer, der Beduine … tot … erschossen …
 

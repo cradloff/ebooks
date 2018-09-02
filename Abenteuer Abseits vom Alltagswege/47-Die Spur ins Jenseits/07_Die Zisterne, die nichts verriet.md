@@ -1,4 +1,4 @@
-7. Kapitel.
+7\. Kapitel.
 ===========
 Die Zisterne, die nichts verriet.
 ---------------------------------

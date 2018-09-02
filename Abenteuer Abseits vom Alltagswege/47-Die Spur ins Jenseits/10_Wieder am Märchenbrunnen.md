@@ -1,4 +1,4 @@
-10. Kapitel.
+10\. Kapitel.
 ============
 Wieder am Märchenbrunnen.
 -------------------------

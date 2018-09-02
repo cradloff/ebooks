@@ -1,11 +1,11 @@
-11. Kapitel.
+11\. Kapitel.
 ============
 Der Bewohner der Unterwelt.
 ---------------------------
 
 Ich möchte hier an dieser Stelle meiner Aufzeichnungen einen dicken Strich ziehen oder als ehrlicher Chronist schreiben: „Zweiter Teil:
 
-Die Faust mit den drei Fingern.
+Die Faust mit den drei Fingern.“
 
 Und müßte, um den gänzlichen Umschwung der Dinge anzudeuten, als Untertitel wählen:
 

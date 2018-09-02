@@ -1,4 +1,4 @@
-17. Kapitel.
+17\. Kapitel.
 ============
 Kampf der Dämonen.
 ------------------
@@ -65,7 +65,7 @@ Das Feuer griff um sich, griff auf die Lagerstätten der Tuaregs über, und die 
 
 Frau Hadina war zusammengesunken … Drei Schritt weiter stand Bir Kassal, einer der wenigen, die bisher unverletzt geblieben.
 
-Selbst die Verwundeten, die am Boden lagen, setzten den Kampf fort … feuerten, stützten sich auf den linken Arm, haben Pistolen und Büchsen, drücken blindlings ab, besessen von jenem Blutrausch, der das eigene nahe Ende vergessen läßt.
+Selbst die Verwundeten, die am Boden lagen, setzten den Kampf fort … feuerten, stützten sich auf den linken Arm, hoben Pistolen und Büchsen, drücken blindlings ab, besessen von jenem Blutrausch, der das eigene nahe Ende vergessen läßt.
 
 Bir Kassal duckte sich …
 

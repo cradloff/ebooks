@@ -1,4 +1,4 @@
-1. Kapitel.
+1\. Kapitel.
 ===========
 Der Todessang der Sahara.
 -------------------------

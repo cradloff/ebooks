@@ -1,4 +1,4 @@
-2. Kapitel.
+2\. Kapitel.
 ===========
 Drei Saharastrolche.
 --------------------
