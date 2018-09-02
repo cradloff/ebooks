@@ -74,7 +74,7 @@ Klügere gibt nach. Ich habe hier ja auch nichts mehr zu tun.
 — Würden Sie mir Ihren Kutter für eine Woche leihen, Master
 Bandur?«
 
-»Seht gern. Auch für einen Monat. Leider kann ich
+»Sehr gern. Auch für einen Monat. Leider kann ich
 Ihnen jedoch meinen Monteur oder Maschinisten nicht mitgeben.
 Ich brauche ihn für mein Geschäft als Lenker eines
 Lastautos.«
@@ -121,8 +121,8 @@ Glück gehabt. Aber gerade deshalb möchte ich Sie in Ihrem
 Interesse —«
 
 »Weiß schon!« nickte Harst, ihn unterbrechend. »Auskneifen
-soll ich. Wird geschehen — noch heute abend. - Und
-Sie selbst der Sie doch auch jetzt nicht gerade bei dem Geheimbunde
+soll ich. Wird geschehen — noch heute abend. — Und
+Sie selbst, der Sie doch auch jetzt nicht gerade bei dem Geheimbunde
 beliebt sind?«
 
 »Ich — ganz im Vertrauen! — ich — werde morgen
@@ -131,13 +131,13 @@ ist —« —
 
 Eine halbe Stunde später saßen wir beide wieder allein
 in der Kajüte. Unsere Gäste hatten uns mit der nochmaligen
-Mahnung: »Vorsicht — größte Vorsicht!« verlassen
+Mahnung: »Vorsicht — größte Vorsicht!« verlassen.
 
 »Der gute Bandur will uns natürlich sehr gern lossein,
 weil er selbst Angst vor den Schwertbrüdern hat,« meinte
 Harst, nachdenklich und langsam sich eine Zigarette anzündend.
 <@pagebreak/>
-»Er fürchtet ihre Rache weil er uns beherbergt hat. Nur um
+»Er fürchtet ihre Rache, weil er uns beherbergt hat. Nur um
 ihm nicht Ungelegenheiten zu bereiten, flüchte ich von hier.
 Außerdem zieht es mich jetzt auch mächtig nach dem berühmten
 Lucknow hin, wo ja wahrscheinlich Freund Warbatty wieder
@@ -177,7 +177,7 @@ Nagpur senden, damit er schnellstens in Ihren Besitz gelangt.
 Sie haben vielleicht schon gemerkt, daß ich eine halbe
 Landsmännin von Ihnen bin. Von meiner Mutter lernte ich
 deutsch lesen und schreiben. Ich liebe Deutschland, obwohl ich
-nie dort war und - — falls Sie sich nicht meiner annehmen! —
+nie dort war und — falls Sie sich nicht meiner annehmen! —
 nie dorthin gelangen werde.
 
 Wer ich bin? — Das will ich Ihnen erst sagen, wenn Sie
@@ -240,7 +240,7 @@ Frage! Sie können vielleicht für mich schlecht enden; vielleicht
 — macht man mich stumm dabei für alle Zeiten.
 <@pagebreak/>
 Insofern also könnte man von einem unter gewissen Voraussetzungen
-vollstreckbaren Todesurteil reden — —«
+vollstreckbaren Todesurteil reden —«
 
 »Na — die Begründung dieser Bezeichnung bleibt
 schwach,« meinte ich. »Ist ja auch nebensächlich. Die Hauptsache:
@@ -336,7 +336,7 @@ zu sein.
 Die Erlaubnis zur Fahrt auf dem Kanal hatte uns Inspektor
 Hamilton liebenswürdigerweise verschafft. Ueber
 diese Reise zu Wasser ließe sich manches Interessante berichten.
-Ich muß jedoch darauf Verzichten, da diese Erzählung
+Ich muß jedoch darauf verzichten, da diese Erzählung
 sonst zu umfangreich wird. Wir lernten jedenfalls einen
 großen Teil des Innern des einstigen Königreiches Audh
 kennen mit seinen zahlreichen Seen, seinen weiten Feldern
@@ -383,7 +383,7 @@ Zeitungsspione! — Master Greaper, sorgen Sie nur dafür,
 daß Ihre Beamten den Mund halten und nicht überall herumbringen,
 daß ich jetzt hier in Lucknow bin.«
 
-Der Inspektor versprach's und verabschiedete sich bald.
+Der Inspektor versprach’s und verabschiedete sich bald.
 
 Ich hoffte, daß wir nun nach der anstrengenden Reise —
 wir hatten ja nur immer abwechselnd für Stunden schlafen
@@ -416,7 +416,7 @@ nach einem kleinen Eingeborenendorfe hinzog. Die Parkmauer
 bestand aus mächtigen Steinblöcken, deren Bindemittel
 ein rotbrauner, steinhart werdender Flußschlamm war.
 Es gab jedoch überall genug Risse und Vorsprünge, mit deren
-Hilfe man hinausklettern konnte. Harst war auch im Augenblick
+Hilfe man hinaufklettern konnte. Harst war auch im Augenblick
 oben.
 
 »Warte« rief er mir leise zu. »Bin ich bei Tagesanbruch
@@ -434,7 +434,7 @@ Freundes Sicherheit steigerte.
 Ich hatte mich in die nahen Büsche gesetzt und schaute nur
 zu oft nach dem Leuchtzifferblatt meiner Uhr.
 
-Und — es wurde im Osten heller und heiter. Aus dem
+Und — es wurde im Osten heller und heller. Aus dem
 Grau der Nacht traten die Umrisse der Türme und Türmchen,
 der Kuppeln und Dächer der Stadt Lucknow klarer und klarer
 hervor.
@@ -703,7 +703,7 @@ ist, ohne zu merken, daß er entkommen sollte, gehört
 mit dazu —«
 
 »Aber zu Greaper sagtest Du doch, die Geschichte sei gründlich
-verfahren—
+verfahren —«
 
 »Ja — man sagt so manches. Ich konnte doch nicht gut
 ihm folgenden Vortrag halten: Herr Inspektor, wir haben
@@ -754,7 +754,7 @@ wie für die Ewigkeit bestimmt. — Der Harem liegt nach
 Westen zu in einem Anbau von quadratischer Form. Er hat
 einen offenen Hofraum; darin ein Gärtchen, einen Springbrunnen
 und nachts als Wächter drei — Panther, die frei
-umherstreifen. Ich war nämlich auf daß Dach geklettert. Es
+umherstreifen. Ich war nämlich auf das Dach geklettert. Es
 ist flach. Man kommt bequem an den Ziergittern der Fenster
 empor. — Von diesem Dache turnte ich auf den Balkon hinüber,
 der an der Rückseite des Palastes in Höhe des zweiten
@@ -776,7 +776,7 @@ Spielhölle und eine Opiumhöhle, beides in praktischer Vereinigung,
 kennen gelernt, wenn ich noch Zeit gehabt hätte,
 Dich von der Westseite der Parkmauer abzuholen. Das war
 unmöglich. Deshalb genoß ich allein den Vorzug, die Lucknower
-braune Lebewelt bei Jeu und Odium — natürlich von
+braune Lebewelt bei Jeu und Opium — natürlich von
 draußen — in einem äußerlich sehr schäbigen Hause des
 <@pagebreak/>
 Eingeborenenviertels bewundern zu können. Zu bewundern war
@@ -794,7 +794,7 @@ sorgt gut für uns.« —
 
 Wir schliefen bis gegen Mittag.
 
-Heute war nun der 23 Dezember, — ein Tag vor dem
+Heute war nun der 23. Dezember, — ein Tag vor dem
 heiligen Abend! Ich erinnerte Harst daran als wir uns ankleideten.
 
 »Vielleicht verleben wir den Christabend mit der Prinzessin
@@ -948,7 +948,7 @@ den Nachen überrannt, und man müßte doch wenigstens versuchen
 —«
 
 »— versuchen, die Sache wieder einzurenken,« vollendete
-Harst. »Seht richtig! Das werden wir auch. — Von Fahrlässigkeit
+Harst. »Sehr richtig! Das werden wir auch. — Von Fahrlässigkeit
 war hier keine Rede. Im Gegenteil. Das Motorboot
 wollte das Boot rammen. Es fehlt Deinen Augen an
 der nötigen Uebung, lieber Alter, Vorgänge auseinander zu
@@ -989,7 +989,7 @@ Im gleichen Moment, als Harst dem letzten Worte ein
 warnendes »Pst!« folgen ließ, flammten in dem Zimmer vor
 uns die sechs Birnen einer elektrischen Krone auf.
 
-Die Fenster hatten Seidenvorhänge. Man sah die Phantastischen
+Die Fenster hatten Seidenvorhänge. Man sah die phantastischen
 Blumen und Drachen darauf mit scharfen Umrissen
 gegen diese Lichtfülle sich abheben.
 
@@ -1033,7 +1033,7 @@ Hautfarbe an, daß ihre Mutter eine Deutsche war.«
 
 <@pagebreak/>
 
-<h2>4. Kapitel</h2>
+<h2>4. Kapitel.</h2>
 <h3>Prinz Achmed Ibur Dau.</h3>
 
 Bisher hatten wir aus dem Zimmer keinen Laut vernommen.
@@ -1065,11 +1065,11 @@ Der Prinz zuckte die Achseln.
 
 »All das habe ich so oft von Dir gehört, daß ich nicht mehr
 zu versuchen brauche, Dir klar zu machen, weshalb ich nie —
-niemals dulden kann und werde daß Achmed Ibur Daus
+niemals dulden kann und werde, daß Achmed Ibur Daus
 Tochter als Abtrünnige der Lehre des Propheten in die
 Fremde zieht!« Seine Stimme schwoll mit jedem Worte an.
 »Niemals wirst Du dieses Haus verlassen — verstehst Du
-mich?! Ich Werde Deinen Trotz zu brechen wissen, werde die
+mich?! Ich werde Deinen Trotz zu brechen wissen, werde die
 Verräterin Suleimah und Dich so festhalten, daß ein Entweichen
 fernerhin unmöglich! Vor den Toren meines Palastes,
 vor dem Eingang meines Harems macht auch die englische Polizei,
@@ -1151,7 +1151,7 @@ Achmed Ibur Daus dunkle Augen musterten die Tochter
 jetzt mißtrauisch.
 
 »Was soll dieses lächerliche: »Ich warne Dich!«?! Was
-soll’s? Glaubst Du, Du könntest reift mich schrecken durch derlei
+soll’s? Glaubst Du, Du könntest mich schrecken durch derlei
 billige Redensarten?!«
 
 »Oh — ich habe Dich schon erschreckt! Ich sehe es Dir an.
@@ -1175,14 +1175,14 @@ Ein Diener trat ein, verneigte sich tief.
 
 »Ich brauche Dich nicht mehr, Hassan. Bestelle dem Hausmeister,
 daß die Prinzessin vorläufig im Harem bleibt.« —
-Der Prinz hatte sich der Landsessprache bedient. Harst hat mir
+Der Prinz hatte sich der Landessprache bedient. Harst hat mir
 später diese Sätze deutsch wiederholt.
 
 Der Diener blieb aufgerichtet stehen.
 
 »Und Suleimah?« fragte er.
 
-»Ja doch — bringt sie hinab," rief der Prinz gereizt.
+»Ja doch — bringt sie hinab,« rief der Prinz gereizt.
 
 Hassan verbeugte sich und verschwand.
 
@@ -1260,7 +1260,7 @@ ihm verhandelt.
 »Sie haben die Hilfe eines gewissen Doktor Paresquieux
 in Anspruch genommen, Hoheit, um Ihrer Tochter ein Glasauge
 einsetzen zu lassen,« begann Harst wieder. »Sie kennen
-diesen Doktor seit einem halben Jahre etwa nicht wahr?«
+diesen Doktor seit einem halben Jahre etwa, nicht wahr?«
 
 Der Prinz nickte. »Eine Zufallsbekanntschaft, Master
 Harst. Der französische Arzt wurde mir hier in einem Spielklub
@@ -1294,7 +1294,7 @@ Ich verlor die Besinnung.
 
 <@pagebreak/>
 
-<h2>5. Kapitel</h2>
+<h2>5. Kapitel.</h2>
 <h3>Der Augenarzt.</h3>
 
 Tiefste Finsternis ringsum; muffiger Kellergeruch;
@@ -1326,7 +1326,7 @@ erwiderte:
 
 »Hoheit, wir können diese Unterredung schnell beenden.
 Bevor wir gestern nacht von unserem Motorkutter aus aufbrachen,
-der keinen Liegeplatz im Polizeihafen hat, vereinbarte
+der einen Liegeplatz im Polizeihafen hat, vereinbarte
 ich mit Detektivinspektor Greaper, daß, falls wir innerhalb
 24 Stunden nicht zurück seien, er durch seine Beamten
 und durch Militär Ihren Palast umzingeln und dann
@@ -1334,13 +1334,13 @@ durchsuchen sollte. Diese 24 Stunden sind sehr bald um. — Ich
 weiß nun nicht, ob es Ihnen gleichgültig ist, wenn Sie und
 alle männlichen Insassen Ihres Hauses sowie unzählige andere
 Mohammedaner, die gleichfalls in das Komplott gegen die
-englisch indische Herrschaft eingeweiht sind, ins Zuchthaus
+englisch\-indische Herrschaft eingeweiht sind, ins Zuchthaus
 oder an den Galgen wandern. Das Komplott besteht. Ich besitze
 die Beweise. Diese Beweise übergab ich Inspektor Greaper
 in versiegelten Umschlag mit der Weisung den Umschlag
 im Falle meines Todes oder Verschwindens zu öffnen. —
 <@pagebreak/>
-Hoheit ich bin Deutscher, und Ihre Verschwörungen hier gehen
+Hoheit, ich bin Deutscher, und Ihre Verschwörungen hier gehen
 mich nichts an. Von mir haben Sie keinen Verrat zu fürchten.
 Mein Wort darauf. — Natürlich müssen Sie uns beiden
 sofort die Freiheit wiedergeben und ebenso die Prinzessin und
@@ -1457,7 +1457,7 @@ ein gutes Werk tun, und —«
 »Ja — Sie wollten nebenbei aber auch,« unterbrach Harst
 Warbatty, »und das war Ihnen die Hauptsache! jenen in die
 Wand halb eingelassenen Stahlschrank ausplündern. Ihre Absichten
-wurden mir klar, als der Prinz erwähnte das, Einfügen
+wurden mir klar, als der Prinz erwähnte, das Einfügen
 des Glasauges sollte hier stattfinden — hier, wo Sie
 mit Vater und Tochter allein sein würden, wo Sie erst die
 Prinzessin und dann auch den Prinzen wehrlos machen konnten.«
@@ -1472,7 +1472,7 @@ bekannt, daß der Prinz Familienkleinodien im Werte von
 vielen Millionen besitzt. Ich nehme weiter wohl mit Recht
 an, daß Sie schon vor sechs Monaten wußten, wo diese Kleinodien
 zu finden waren. Da die Juwelen jedoch wegen der
-Zahlreichen Dienerschaft hier im Palast und wegen der nächtlichen
+zahlreichen Dienerschaft hier im Palast und wegen der nächtlichen
 Wachen im Parke anders nicht für Sie erreichbar waren,
 boten Sie sich dem Prinzen als Arzt an, versprachen das
 Auge so tadellos zu ersetzen, daß die Prinzessin in keiner Weise

@@ -22,7 +22,7 @@ verabredet in den Riesenbau, der jeder europäischen Metropole
 Ehre gemacht hätte. Der Inspektor war offenbar auch
 sehr stolz auf diese modernste Errungenschaft Lucknows,
 zeigte uns beim Durchschreiten der weiten Gänge und Stockwerke
-dies und jenes, was ihm besonders praktisch dünkte.
+dies und jenes, was ihm besonders praktisch dünkte,
 und meinte wiederholt lächelnd:
 
 <@pagebreak/>
@@ -30,7 +30,7 @@ und meinte wiederholt lächelnd:
 aus! Niemand! Sechs Jahre wird das Zentralgefängnis
 jetzt benutzt und noch nicht ein einziger Gefangener ist von
 hier entwichen — noch nicht einer!« — So oder so ähnlich
-lauteten seine Sätze stets, mit denen er Harsts Befugnis,
+lauteten seine Sätze stets, mit denen er Harsts Besorgnis,
 Warbatty könnte irgendwie ausbrechen, zu beschwichtigen
 suchte.
 
@@ -107,7 +107,7 @@ Verbrecher mit übertrieben tiefer Verbeugung.
 Harst drehte sich interessiert um.
 
 »Ihr Testament?« meinte er. »Wohl ein ähnliches
-wie damals in Madras?« "
+wie damals in Madras?«
 
 »Vielleicht, Master Harst, — vielleicht —«
 
@@ -128,10 +128,10 @@ Urteilskraft.«
 
 Greaper lachte kurz auf, zuckte die Achseln.
 
-»Größenwahn!" sagte er zu Harst. »Ich habe bereits den
+»Größenwahn!« sagte er zu Harst. »Ich habe bereits den
 Irrenspezialarzt Professor Makkaray gebeten, Warbatty
 häufiger hier zu besuchen. Sie selbst, Master Harst, haben ja
-geäußert, daß Warbatty sehr wahrscheinlich nicht nicht ganz zurechnungsfähig
+geäußert, daß Warbatty sehr wahrscheinlich nicht ganz zurechnungsfähig
 ist.«
 
 »Ich bin auch geistig nicht normal,« warf Cecil Warbatty
@@ -302,7 +302,7 @@ wird!«
 
 »Wann kommt er an?« fragte Harst.
 
-Greaper sah nach der Uhr. Der Zug von Benares ist vor
+Greaper sah nach der Uhr. »Der Zug von Benares ist vor
 einer halben Stunde eingetroffen —«
 
 Harst erhob sich. »Bitte warten Sie Greaper. Ich ziehe
@@ -363,7 +363,7 @@ Allee zur Stadt entlang.
 Und — der Herr mit der Brille stand halb aufrecht —
 winkte — winkte nach uns herüber.
 
-»Zu spät!" sagte Harst dumpf. »Wir holen ihn nicht mehr
+»Zu spät!« sagte Harst dumpf. »Wir holen ihn nicht mehr
 ein.«
 
 »Wen?« Der Inspektor machte ganz entsetzte Augen.
@@ -408,7 +408,7 @@ Dem Wortlaut des Ausweises nach sollte das Gefängnispersonal
 alle Anordnungen des Professors genau befolgen.
 — Haberton war mit dem Gefangenen ein paar Minuten
 allein in der Zelle geblieben, hatte den Aufseher dann
-durch die Klingen herbeigerufen und befohlen, daß der Gefangene
+durch die Klingel herbeigerufen und befohlen, daß der Gefangene
 fortan in der halb verdunkelten Zelle gehalten werden
 solle. Ein Vorhang sei sofort herbeizuschaffen — irgend
 ein Stück Leinen. Später könnte etwas anderes am Fenster
@@ -469,7 +469,7 @@ Leuten gefangen gehalten. Seine Kleider zog Middleton
 an, begab sich ins Alexandra-Hotel, wo er, da es inzwischen
 elf Uhr geworden, unangefochten auf Habertons
 Zimmer gelangte. Hier lag schon die inzwischen aus Lucknow
-eingetroffene Antwortsdepesche des Richters Dakberty. Die
+eingetroffene Antwortdepesche des Richters Dakberty. Die
 erste Depesche an diesen hatte Middleton abgesandt. — Man
 sieht, wie fein jeder Zug dieses Spiels berechnet gewesen. —
 Middleton reist als Haberton mit dem Nachtzuge sofort nach
@@ -550,12 +550,12 @@ Tätigkeitsdranges versetzt worden war.
 
 <@pagebreak/>
 Wir hatten noch drei Stunden Zeit wie er mir sagte. Genau
-um Mitternacht würden wir ausbrechen. Nichts deutete
+um Mitternacht würden wir aufbrechen. Nichts deutete
 auf unsere Abreise hin. Nur den Hoteldirektor, einen Schweizer,
 zog Harst ins Vertrauen.
 
 Bis halb elf blieben wir im Speisesaal mit einigen englischen
-Offizieren zusammen. Dann verabschiedeten mir uns.
+Offizieren zusammen. Dann verabschiedeten wir uns.
 Mir fiel auf, daß Harst mit Hauptmann Randall, dem Kommandeur
 der Fliegertruppe, einige leise Worte austauschte.
 Sollten wir etwa im Flugzeug den Weg nach Gwalior zurücklegen?
@@ -610,7 +610,7 @@ schaltete das Licht ein und sah sich mißtrauisch um — »er
 wollte mir nur beweisen, daß er wieder ganz in meiner Nähe
 gewesen, daß wir in demselben Saale den Klängen der »echt
 ungarischen« Zigeunerkapelle gelauscht hätten. Ich halte das
-Letztere — also so eine Art Wichtigtuerei — für das wahrscheinliche.
+Letztere — also so eine Art Wichtigtuerei — für das Wahrscheinliche.
 Wir kennen ja Warbattys Eitelkeit« —
 
 Unsere Koffer wollte der Hoteldirektor uns an eine Deckadresse
@@ -746,7 +746,7 @@ auffiel, mit der die braunen Banditen sich aufhängen ließen.
 All das würde Seiten füllen.
 
 Auf Harsts Bitte wurde unser Inkognito streng bewahrt.
-Nur die Offiziere der Fliegerabteilung mußten, wer wir
+Nur die Offiziere der Fliegerabteilung wußten, wer wir
 waren. Wir galten weiter als Engländer, als Heeresangehörige.
 Harst hatte — für mich etwas überraschend — den
 <@pagebreak/>
@@ -771,18 +771,18 @@ Randall begleitete uns. Durch ein Parktor des Palastes
 und über einen breiten Kiesweg rollte das Auto in eine
 Halle hinein, deren Tore sich hinter uns sofort wieder schlossen.
 
-Ein sehr würdevoller englischer Kammerdiener in Kniehosen
+Ein sehr würdevoller englischer Kammerdiener in Kniehosen,
 Schnallenschuhen und schwarzen Seidenstrümpfen
 öffnete die Tür des Kraftwagens, ging uns dann voran über
 eine enge Treppe und durch endlose Säle, in denen sämtliche
 elektrische Flammen brannten und die überladene Pracht dieser
-Raume enthüllten.
+Räume enthüllten.
 
 Der Maharadscha empfing uns in seinen Privatgemächern
 in der Bibliothek. Er war damals 33 Jahre alt.
 Seine helle Hautfarbe, die europäische Tracht, ein grauer
 Anzug, sein tadelloses Englisch und seine ganze Art des Auftretens
-ließen mich schnell vergessen daß ich einen eingeborenen
+ließen mich schnell vergessen, daß ich einen eingeborenen
 Fürsten vor mir hatte.
 
 Ich will das Gespräch zwischen ihm und Harst nicht im
@@ -939,7 +939,7 @@ Anzug?«
 »Ja. Er trug die übliche Kammerdienertracht — wie
 jetzt auch Edward.«
 
-»Haben Sie vielleicht ein Bild von Wrihgton Hoheit?«
+»Haben Sie vielleicht ein Bild von Wrihgton, Hoheit?«
 
 »Gewiß.« Der Maharadscha trat an einen Schrank, schloß
 ein Schubfach auf und stellte dann eine Stahlkassete auf den
@@ -965,7 +965,7 @@ sehr sorgfältig geprüft.«
 — jetzt gleich.«
 
 Während der Maharadscha dann Randall und mir von
-seiner leisten Tigerjagd erzählte, blätterte Harst in den losen
+seiner letzten Tigerjagd erzählte, blätterte Harst in den losen
 Blättern. So verging mindestens eine Viertelstunde. Dann
 legte Harst die Aufzeichnungen des Ermordeten wieder auf
 den Tisch.
@@ -991,12 +991,12 @@ untersuchen. Wir sind nämlich zu einer Jagd auf Wasserbüffel
 eingeladen, die ich mir nicht entgehen lassen möchte. Sobald
 wir wieder hier eingetroffen sind, melde ich mich, Hoheit.«
 
-Jagd auf Wasserbüffe1? — — Harst log. Ich wußte nichts
+Jagd auf Wasserbüffel? — — Harst log. Ich wußte nichts
 von einer solchen Einladung. Ebenso wie er vorhin gelogen
 hatte, als er sich als Billardfex hingestellt hatte.
 
 <@pagebreak/>
-»Randall sah Harst überrascht an. Auch ihm fiel diese
+Randall sah Harst überrascht an. Auch ihm fiel diese
 Büffeljagd auf.
 
 Wir verabschiedeten uns nach einer halben Stunde von
@@ -1132,7 +1132,7 @@ wie Wrihgton emsiger Käfersammler war oder sein wollte.
 Wrihgton hat ihm verschiedene seltene Exemplare von Riesenkäfern
 von den Sunda-Inseln abgekauft oder sie gegen andere
 eingetauscht. Vielleicht ist dieser Galver »unser« Mann,
-das heißt der Mörder und Fälscher. Er bat Wrihgton ohne
+das heißt der Mörder und Fälscher. Er hat Wrihgton ohne
 Zweifel im Palaste besucht. — Nun — alles weitere werden
 wir sehr bald herausfinden, was noch mit zu diesem Streich
 an Einzelheiten gehört. — Jetzt ins Bett! Hier auf der
@@ -1276,7 +1276,7 @@ Harst kniff mich in den Arm — Das hieß: Achtung!
 
 Nach ein paar Sekunden abermals des Fürsten Stimme:
 
-»Gut — ich hin bereit, diesen Herrn Hawkins sofort
+»Gut — ich bin bereit, diesen Herrn Hawkins sofort
 zu empfangen. Hole ihn aus dem Hotel Prince of Wales mit
 dem Auto ab. Ihr könnt in einer halben Stunde wieder hier
 sein —«
@@ -1490,5 +1490,5 @@ Was uns dies »Schleierlüften« eintrug, will ich im nächsten
 Bande schildern, dessen erstes Abenteuer ich betiteln
 werde:
 
-__Das Löschblatt in Amritsar.__
+__Das Löschblatt von Amritsar.__
 
