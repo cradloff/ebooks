@@ -37,7 +37,7 @@ Für jeden unbefangenen Beurteiler mußte diese merkwürdige Geschichte von der 
 
 – Ich lasse Garling selbst erzählen und versuche auch seine Darstellungsweise wiederzugeben.
 
-> Bericht Lord Garlings über die Westend-Saharaexpedition.
+<h3>Bericht Lord Garlings über die Westend-Saharaexpedition.</h3>
 
 „Meine beiden Gefährten Harris und Brighton gehören wie ich dem sehr vornehmen und reichen Westend-Klub in London an, der nicht lediglich die Geselligkeit pflegt, sondern auch das Klubvermögen für wissenschaftliche Forschungen mit abenteuerlichem Einschlag verwendet. Auch Frauen sind Mitglieder.
 
