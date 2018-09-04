@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">4418e304-b085-11e8-91f9-f7d59cf6ed73</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Frau vom Leuchtturm</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">48</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der eiserne Motorschoner „Danmarket“, dessen Phantasiename keinen Rückschluß auf die Nationalität des Schiffes zuließ, fuhr mit halber Kraft durch den dicken zähen Sommernebel.
+
+Ein Mann im Ölmantel, der bis dahin ruhelos zwischen den beiden Masten auf und ab gegangen war, unterbrach jählings seine Wanderung, als von vorn fast gleichzeitig mit dem Splittern von Holz ein schriller Hilferuf ertönte. Mit wenigen Sätzen war er am Bugspriet, beugte sich über Bord und turnte dann ebenso geschwind an einem Tau in die Tiefe.
+
+Eine schäumende Welle warf ihm zugleich mit langen Holzplanken eine halb bewußtlose Frau in die Arme. Die Reste des kleinen Ruderbootes versanken, aber der Mann hielt die schlanke Beute fest an sich gedrückt, die das gefräßige nächtliche Meer und der heimtückische Nebel sich als Opfer auserkoren gehabt hatten.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (48) Die Frau vom Leuchtturm.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1929</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h2</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
