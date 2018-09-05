@@ -60,27 +60,27 @@ Lebensabschnitt hatte begonnen.
 
 Und mit denselben Worten leitete auch Sir Morstan seinen Brief ein:
 
-„Lieber Abelsen, das neue Leben, das nun für Sie beginnt, soll, so hoffe ich,
+> „Lieber Abelsen, das neue Leben, das nun für Sie beginnt, soll, so hoffe ich,
 Ihre Vorurteile gegen alles, was Zivilisation heißt, überwinden. Für einen Mann
 wie Sie gibt es andere Aufgaben, als nur Abenteurer im besten Sinne des Wortes
 zu spielen …“
 
 Und weiter unten hieß es:
 
-„England braucht Leute Ihrer Art, und deshalb biete ich Ihnen, dem
+> „England braucht Leute Ihrer Art, und deshalb biete ich Ihnen, dem
 Vielerfahrenen, eine Stellung an, die Ihre Abseitspfade nutzbringender
 verwenden wird …“
 
 Auf der nächsten Seite stand:
 
-„Fürchten Sie nicht, daß Sie als Vorstand und Kommissar der Abteilung 2 B
+> „Fürchten Sie nicht, daß Sie als Vorstand und Kommissar der Abteilung 2 B
 irgendwie in den verhaßten Alltag zurückfallen könnten. Keine Büroluft, kein
 Zwang, keine nörgelnden Vorgesetzten, – nein, nur einen vollen Einsatz Ihrer
 Persönlichkeit zugunsten der Allgemeinheit erwarten und erhoffen wir.“
 
 Und weiter dann:
 
-„Die erste Ihnen zugedachte Aufgabe ist so schwer, das erkläre ich ganz offen,
+> „Die erste Ihnen zugedachte Aufgabe ist so schwer, das erkläre ich ganz offen,
 daß wir Leute vom Fach bisher versagt haben. Seit etwa zwei Jahren spürt die
 halbe Welt die ungeheuren Schäden, die eine äußerst straff organisierte
 Gemeinschaft in Europa anrichtet. Näheres darf ich hier nicht zu Papier bringen
@@ -91,7 +91,7 @@ Die beiden nächsten Seiten habe ich nachher auswendig gelernt.
 
 Da stand zum Beispiel:
 
-„Wir wissen genau, daß diese Leute in allen Polizeidirektionen und -präsidien
+> „Wir wissen genau, daß diese Leute in allen Polizeidirektionen und -präsidien
 Spione eingeschmuggelt haben. Nur die allervorsichtigste Art verbürgt Erfolg.
 Vielleicht werden Ihre bisherigen Erlebnisse gegenüber dem, was Ihnen bei
 Annahme meines Vorschlages winkt, vollkommen verblassen.“
@@ -163,7 +163,7 @@ Drei Kerle, kaum zu erkennen, hockten in dem Boot.
 
 „Hallo, ihr da, – –?!“
 
-Das Losungswort kam nicht …
+Das Losungswort kam *nicht* …
 
 Ich trat schnell zurück … Gerade noch zur rechten Zeit …
 
@@ -217,7 +217,7 @@ Die Geschmäcker sind verschieden.
 Im übrigen sorgten die gewissen Herrschaften schon dafür, daß wir nicht zur
 Ruhe kamen.
 
-Ich war nun hier Chef über fünfzehn Engländer, die allesamt prima-prima waren,
+*Ich* war nun hier Chef über fünfzehn Engländer, die allesamt prima-prima waren,
 ausgesuchte Leute, auserwählte Burschen, ohne Furcht, ohne Tadel, versessen
 darauf, den Gegner aufzustöbern …
 
@@ -291,7 +291,7 @@ Und dann:
 auf die Nationalität des Schiffes zuließ, fuhr mit halber Kraft durch den
 dicken, zähen Sommernebel …
 
-So habe ich diesen Abseitspfad eingeleitet.
+*So* habe ich diesen Abseitspfad eingeleitet.
 
 Und nun?!
 

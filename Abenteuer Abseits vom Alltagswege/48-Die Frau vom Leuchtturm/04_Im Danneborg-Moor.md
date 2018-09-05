@@ -319,7 +319,7 @@ Ein leiser Zuruf:
 
 … Und sie ist hinter mir, schwimmt an Land.
 
-Man glaubt immer – ich glaube es – das Abseits läge nur in der pfadlosen
+Man glaubt immer – *ich* glaube es – das Abseits läge nur in der pfadlosen
 Wildnis.
 
 Ich sehe meinen Irrtum ein …

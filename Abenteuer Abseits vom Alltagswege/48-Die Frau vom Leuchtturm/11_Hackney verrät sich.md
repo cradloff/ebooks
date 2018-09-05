@@ -100,7 +100,7 @@ deutete auf meinen neuen vierbeinigen Freund. „Trasso knurrt sogar mich an,
 obwohl ich ihm die besten Knochen bringe. Trasso hätte selbst Herrn Schließer
 angefallen und den Inspektor Garson erst recht. Ich begreife nicht, wie …“
 
-„Ich begreife, und das genügt vorläufig, lieber Drews … – Bringen Sie mir mein
+„*Ich* begreife, und das genügt vorläufig, lieber Drews … – Bringen Sie mir mein
 Frühstück und warmes Wasser zum Rasieren.“
 
 Drews warf mir einen eigentümlichen Blick zu …
@@ -136,7 +136,7 @@ erkennen.“
 Ich beeilte mich beim Frühstück und mit dem Anziehen, ich mußte feststellen,
 was aus dem U-Kreuzer und aus Garson geworden. Sollten die Schurken das Boot
 mit der ganzen Besatzung versenkt haben, dann würden sie mich kennenlernen! –
-Leere Drohungen sind lächerlich, – ich hatte nun genügend Anhaltspunkte, die
+Leere Drohungen sind lächerlich, – *ich* hatte nun genügend Anhaltspunkte, die
 Bande trotz allem zu fassen, und dann sollte es heiß hergehen, deren Maß war
 übervoll.
 

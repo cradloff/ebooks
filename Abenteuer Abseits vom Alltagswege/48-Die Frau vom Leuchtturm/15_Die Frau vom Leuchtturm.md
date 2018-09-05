@@ -184,7 +184,7 @@ vielleicht für eine Rauferei in der Wildnis ganz nützlich, niemals als
 Verteidiger sogenannter Menschheitsrechte. Ach nein, – Sie hätten heute mittag
 im Keller der Güppel-Ruine die lange dünne Glasröhre nicht liegen lassen sollen
 … Sie verstehen mich wohl. Es fehlte der dreizehnte Mann, mein Lieber, ein
-tadelloser, flinker Schütze … Deshalb wird die Baronin mich weder verraten noch
+tadelloser, flinker Schütze … *Deshalb* wird die Baronin mich weder verraten noch
 meine Einladung unbeachtet lassen – deshalb!“
 
 Auch diese Andeutung, die mich ihrer Bedeutung nach sehr schwer hätte treffen

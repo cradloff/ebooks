@@ -80,7 +80,7 @@ Erika Ballholm, im dunkelgrünen Sportanzug, mit dunklem weichen Filzhut … Sie
 ist es! Frau Baronin Ballholm, Nichte der grauen Gräfin, zweifelhafte Dame mit
 allzuviel Unternehmungslust …
 
-– Was ich von ihr halte?! – Mein Urteil lautet, muß lauten: Entgleist, auf der
+– Was ich von ihr halte?! – Mein Urteil lautet, *muß* lauten: Entgleist, auf der
 Gegenseite kämpfend, aber diesen Gegnern auch nicht mehr angenehm als
 Verbündete! – Die graue Gräfin mit einbezogen: Sie sucht ihre Nichte zu retten
 – irgendwie, denn sie hat mir gedankt für den Schuß, der den Mörtel aufspritzen
@@ -90,7 +90,7 @@ Fünf Meter nur …
 
 In fünf Sekunden werde ich diese Frau packen und sie zwingen, mir …
 
-Der Gedankenfaden zerreißt …
+*Der* Gedankenfaden zerreißt …
 
 Irgendwo, nicht allzu fern, stört das bekannte eigentümliche Keckern eines
 schnürenden Fuchses die nächtliche Stille.

@@ -56,7 +56,7 @@ Wir trabten davon, und erst nach einer Weile fragte der sehr nachdenkliche
 Inspektor: „Welchen Auftrag erteilten Sie Helga Barn? – Ich glaube, Abelsen,
 Sie verbergen mir etwas.“
 
-„Sehr vieles, lieber Garson. Damit müssen Sie sich schon abfinden. Ich bin Chef
+„Sehr vieles, lieber Garson. Damit müssen Sie sich schon abfinden. *Ich* bin Chef
 der Abteilung 2 B.“
 
 „Allerdings …“ Das klang etwas unfreundlich …
@@ -67,14 +67,14 @@ Außenseiter bin. Ohne die unumschränkten Vollmachten hätte ich diesen Auftrag
 nie angenommen und mein bisheriges Leben nie aufgegeben. Sie, lieber Garson,
 wissen ja gar nicht, was Freiheit heißt … Schauen Sie einmal nach Norden:
 Heide, nichts als Heide, kein Baumgehöft, keine aufdringliche Spur von
-Bewohntsein, – freie Weite, durch nichts beengt, – das war meine Heimat viele
+Bewohntsein, – freie Weite, durch nichts beengt, – *das* war meine Heimat viele
 Jahre in anderen Erdteilen, in anderem Klima, und – – das war wundervoll,
-Garson! Es war mein Abseits, und das, das ich dagegen eintauschte, – – bitte,
+Garson! Es war *mein* Abseits, und das, das ich dagegen eintauschte, – – bitte,
 drehen Sie den Kopf nach links, war ein Kulturland mit sauberen Häuschen, mit
 Masten elektrischer Starkstromleitung, mit all dem vielfachen Drum und Dran der
 Zivilisation, unter deren dünner Deckschicht menschliche Leidenschaften,
 Irrwege, finstere Gewalten genau so brodeln wie in den Herzen der Wilden oder
-Halbwilden … In dem einen Punkte, Garson, bleibt die Welt und die Menschheit
+Halbwilden … In *dem* einen Punkte, Garson, bleibt die Welt und die Menschheit
 sich überall gleich, nur die Umgebung, die Lebensbedingungen sind andere und –
 das müssen Sie zugeben – wirken versöhnlicher, verwischen die grellen Kontraste
 von Licht und Schatten. Der primitive Bewohner der Wildnis hat für seine

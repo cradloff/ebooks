@@ -58,7 +58,7 @@ Hackney, ein Tuch über dem Gesicht, sein Taschentuch …
 Genau so wie die beiden Leute im Boote sich ihre koketten Seidenfähnchen vor
 die Gesichter gebunden haben …
 
-Deshalb war ich Hackney nachgeeilt.
+*Deshalb* war ich Hackney nachgeeilt.
 
 Ich reiße das Tuch weg, und mit dem Tuch gleitet ein großer Bausch Watte auf
 den Zementboden. Ein unangenehmer Geruch strömt mir entgegen, und die
@@ -83,7 +83,7 @@ Seebad Hangerupps Polizeimacht, ein Landjäger, wohnt im nördlichen Buchtwinkel
 unweit der Halbinsel im früheren Schulgebäude, das nun ernsteren Zwecken dient,
 sogar als Gefängnis.
 
-Der Landjäger Schließer – bitte, Schließer, sehr kennzeichnend! – ist der
+Der Landjäger Schließer – bitte, Schließer, sehr kennzeichnend! – ist *der*
 schöne Mann der Stammbevölkerung von Hangerupp. Zweimal sah ich ihn. Ich halte
 nichts von ihm. Ein junger, eitler Don Juan, der mit seiner Uniform kokettiert
 und die weiblichen Badegäste durch seine strammen Schenkel und durch die bewußt
@@ -221,7 +221,7 @@ Ihre Flucht durch die Baumkronen war überflüssig. – Reden wir von Hackney �
 
 Wir redeten …
 
-Und dann drang ich darauf, daß der Arzt geholt würde.
+Und dann drang *ich* darauf, daß der Arzt geholt würde.
 
 „… Ich sage Ihnen, Herr Schließer, Hangerupp steckt voller Spione der
 Gegenpartei … Der Arzt muß kommen, die Sache muß nach außen hin als harmlos

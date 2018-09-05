@@ -39,8 +39,8 @@ Schließer war durchaus einverstanden, daß ich mich verabschiedete. Wir wollten
 nicht zu lange beieinander bleiben. Wenn möglich, sollte ich wenigstens für die
 Badegäste, die ebenfalls sämtlich hierher geströmt waren, fernerhin Doktor
 Müller bleiben. Anders verhielt es sich ja leider mit diesen Tollhäuslern, die
-die Bankinstitute der Länderregierungen aussogen. Die kannten mich. Ich kannte
-sie nicht, bis auf zwei: Professor Hackney und Erika Ballholm. – Was der
+die Bankinstitute der Länderregierungen aussogen. Die kannten mich. *Ich* kannte
+sie *nicht*, bis auf zwei: Professor Hackney und Erika Ballholm. – Was der
 Öffentlichkeit über die Vorgänge der Nacht zugänglich gemacht werden sollte,
 war genau festgelegt … Schließer besaß ja Generalvollmacht für alles.
 
@@ -66,7 +66,7 @@ Ich suchte nochmals. Ich habe die entsicherte Pistole in der Hand, und als ich
 die zurückgeschlagene Steppdecke lüftete, lagen da fünf sauber verschnürte
 Pakete, und hinter der Schnur des einen steckte ein Zettel, getippt:
 
-„Vierzig Millionen in englischen Banknoten für die Bank von England.“
+> „Vierzig Millionen in englischen Banknoten für die Bank von England.“
 
 Ich traute dem Frieden nicht. Aber die Pakete enthielten nur das, was der
 Zettel angab.
@@ -245,12 +245,12 @@ auf Morast auflaufen lassen …“
 geklungen haben.
 
 „Nein! Die Verantwortung lehne ich ab … Man sieht ja genau, daß die Bachmündung
-voller angeschwemmten Gestrüpps liegt, – so flach ist sie …“
+voller angeschwemmten Gestrüpps liegt, – *so* flach ist sie …“
 
 Garson und Schließer beobachteten mich interessiert.
 
 „Und ich sage Ihnen, Kapitän Isley, daß dieser harmlose Bach, der später in
-einen breiteren Kanal übergeht, so tief sein muß, daß ein U-Boot älterer
+einen breiteren Kanal übergeht, so tief sein *muß*, daß ein U-Boot älterer
 Konstruktion, also von geringeren Abmessungen, dort einlaufen kann, denn – ich
 habe die Beweise dafür.“
 

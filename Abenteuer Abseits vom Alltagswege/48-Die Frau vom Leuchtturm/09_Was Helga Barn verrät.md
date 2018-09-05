@@ -201,7 +201,7 @@ Herr Abelsen. Keine Polizeifotografie …“
 Ich horche auf …
 
 Etwas völlig Neues tritt in den Bereich dieses widersinnigen und doch so
-berauschenden Kriminalfalles, den die hohen Herren mir aufhalsten, weil sie
+berauschenden Kriminalfalles, den die hohen Herren *mir* aufhalsten, weil sie
 damit nicht fertig wurden. Zu viel Neues hat sich bereits hineingeklemmt wie
 schillernde bunte Schmarotzergewächse in die geringen Risse des harten Kerns
 dieses wahnwitzigen Unfugs der Vernichtung von Millionenwerten …
