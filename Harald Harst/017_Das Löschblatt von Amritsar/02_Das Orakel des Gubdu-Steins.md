@@ -539,7 +539,7 @@ Harst hatte mich auf die beiden aufmerksam gemacht.
 
 »Sieh Dir den Kleineren recht genau an,« meinte er jetzt.
 
-Der besondere Ton der Worte genügte. — >>Doktor Doogston?«
+Der besondere Ton der Worte genügte. — »Doktor Doogston?«
 erwiderte ich schnell.
 
 Er nickte nur. »Ja — er und der Mann, den ich in Amritsar
@@ -917,7 +917,7 @@ Er nickte nur zustimmend.
 ich fort. »Wer ist der Herr, wer ist der, dem Frau Lizabet
 das große Leid ihres Lebens zu danken hat?«
 
-Harst drückte meinen Arm. >>Denke nach, mein Alter!«
+Harst drückte meinen Arm. »Denke nach, mein Alter!«
 Seine Stimme bebte vor verhaltener Erregung. »Denk’ an
 Frau Doogstons — anderen Bewerber, — an den, der sie vor
 Reginald Doogston als einem dem Wahnsinn Verfallenen
@@ -1355,7 +1355,7 @@ daher zu: »Sie kommen!«
 »Ja, — sie kommen, lieber Alter. Und sie haben sehr
 wahrscheinlich einen langen Weg hinter sich, nämlich vom
 Hause des Agenten Jonathan Purklay bis hierher — immer
-unter der Erde, immer dem Hauptkanal der alten Kanalisations-
+unter der Erde, immer dem Hauptkanal der alten Kanalisations\-
 und Bewässerungsanlage folgend —«
 
 »Ah — also deshalb —«
