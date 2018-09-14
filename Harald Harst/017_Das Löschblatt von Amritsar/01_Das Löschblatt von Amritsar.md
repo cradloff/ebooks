@@ -119,7 +119,7 @@ Rechten über seine Kissen.
 
 Leer — leer! Und vorhin das Geräusch an der Tür. —
 Ich wußte Bescheid; er hatte sich heimlich aus dem Abteil
-geschlichen — Aber wohin? Zu welchem Zweck?
+geschlichen. — Aber wohin? Zu welchem Zweck?
 
 »Die Geschichte hier ist nicht geheuer!« hatte er mir zugeflüstert.
 — Also war er jetzt wohl auf dem Wege, das, was
@@ -194,7 +194,7 @@ hab’s!« und eilte mir voraus in unser Abteil.
 Hier klappte er die Stoffhalbkugeln der Lampe hoch,
 kletterte auf sein Bett, schloß die Luftscheiben ganz fest, setzte
 sich dann auf seinen Bettrand, faßte in die Jacke seines Schlafanzugs
-hinein und reiche mir das bekleckste rosa Löschblatt.
+hinein und reichte mir das bekleckste rosa Löschblatt.
 
 Seine Augen waren dabei halb zugekniffen, aber sie funkelten
 vor Genugtuung. Und um seinen Mund spielte ein
@@ -215,7 +215,7 @@ Im übrigen war an dem ziemlich starken Löschblatt
 nichts Besonderes zu entdecken. Es war ohne Frage eine
 Schreibunterlage aus dem Schalterraum eines englischen Postamtes.
 
-»Nun?« fragte Harst
+»Nun?« fragte Harst.
 
 Ich gab meine Weisheit zum besten: Schreibunterlage —
 Postamt. —
@@ -254,7 +254,7 @@ Doogston. Und ein zweites Löchlein genügte, den Riegel zurückschieben
 zu können mit der Spitze des Bohrers. Sie schlief
 ganz fest, die kastanienbraune Miß. Und sie wird sehr unangenehm
 überrascht sein, wenn sie bei der Ankunft in Amritsar
-den Verlust merkt«
+den Verlust merkt.«
 
 »Glaub’ ich gern!« nickte ich. »Zunächst aber: Wie bist Du
 denn in aller Welt auf sie aufmerksam geworden?«
@@ -506,7 +506,7 @@ um Scherz. Warum wohl? Was denkst Du?«
 
 Ich war bescheiden und begnügte mich mit einem Achselzucken.
 
-»Du machst Dir die Sache bequem, weiß Gott« « sagte Harst
+»Du machst Dir die Sache bequem, weiß Gott,« sagte Harst
 etwas vorwurfsvoll. »Wenn man Phantasie hat, könnte man
 zwischen diesem herausgebrannten Stück Löschblatt und dem
 Edelstein aus des ermordeten Advokaten Aktentasche leicht
@@ -617,7 +617,7 @@ postlagernden Brief unter Chiffre M S 100 ab. Gruß —
 Wiedersehen — H.«
 
 Was bedeutete das? — Das sah doch ganz so aus, als
-ob Harst den Zug verlassen hätte? «
+ob Harst den Zug verlassen hätte?
 
 Sein Koffer war noch da. Nur sein Gummimantel fehlte.
 — Ich sah nach der Uhr. Es war ½10. Ich kleidete mich
@@ -665,7 +665,7 @@ gab sich Mühe, recht zwanglos zu erscheinen. Er war aber
 offenbar nicht daran gewöhnt, so ein wenig zu schauspielern.
 Nach einiger Zeit stellte er sich mir vor.
 
-»Sie gestatten: Ingenieur Albström«—« — Ich erhob
+»Sie gestatten: Ingenieur Albström —« — Ich erhob
 mich gleichfalls halb und nannte meinen Namen — meinen
 richtigen Namen! Wir reisten ja diesmal nicht inkognito.
 
@@ -959,7 +959,7 @@ Eingang der Umfassungsmauer kein Priester Wache hielt,
 gehörte er zweifellos zu den zum Gottesdienst nicht mehr
 benutzten.
 
-Hier nun verlor ich die beiden Frauen aus den Augen.
+Hier nun verlor ich die beiden Frauen aus den Augen,
 da um das Hauptgebäude eine Anzahl von Höfen lag mit verschiedenen
 Pforten. Während ich jetzt ärgerlich und übereifrig
 bald hierhin bald dorthin lief, stürmte der Polizeiinspektor

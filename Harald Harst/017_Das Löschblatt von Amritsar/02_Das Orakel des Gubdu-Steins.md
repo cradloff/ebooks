@@ -163,7 +163,7 @@ Gedanken gelitten. — Es war Frühjahr geworden,
 und wir befanden uns zur Erholung in Norwegen, in der berühmten
 Heringsstadt Bergen am Ausgang des Hardangerfjordes.
 Im Hotel Hardanger wurde aus Nr. 14 — wir wohnten
-auf Nr 16 — eines Nachts ein reicher Amerikaner ermordet
+auf Nr. 16 — eines Nachts ein reicher Amerikaner ermordet
 und beraubt, der mit einem Brillantring am kleinen
 Finger geprotzt hatte, wie man sonst einen solchen Stein kaum
 als Ring trägt. Der Mord blieb unaufgeklärt. Erst ein
@@ -185,7 +185,7 @@ seien. Er zeigte mir die Rückseite des Seestücks:
 kein Rubens da — nur Pappe! Und in dem Geheimfach nur
 Schächtelchen mit Giften und Medikamenten. — Ich wurde
 für lange Zeit wieder eine glückliche Frau. Dann begann
-mein Mann mich langsam davon vorzubereiten, daß er zur
+mein Mann mich langsam darauf vorzubereiten, daß er zur
 Erforschung der Pest und Cholera längere Orientreisen unternehmen
 würde. Ich argwöhnte nichts. Ich glaubte ihm,
 daß er sich durch die Entdeckung eines neuen Seuchenserums
@@ -209,7 +209,7 @@ Täter verübt worden waren. Mein Herz krampfte
 sich vor Entsetzen zusammen, als ich feststellte, daß diese Verbrechen
 sämtlich in die Zeit fielen, während der mein Mann
 Palästina und Aegypten bereist hatte, — also in die drei
-Monate seiner Abwesenheit von Hause. Mit meinem Seelenfrieden
+Monate seiner Abwesenheit von zu Hause. Mit meinem Seelenfrieden
 war es vorbei. Tagelang kämpfte ich mit mir.
 Dann warf ich mich meinem Manne zu Füßen und klagte ihm
 mein Herzeleid. Gütig zog er mich an sich, lachte mich mit
@@ -354,7 +354,7 @@ was es mit dem Gubdu-Stein für eine besondere Bewandtnis
 hätte. Ich gab diese Sache also auf und versenkte mich in die
 Erinnerung an das was ich soeben aus des unglücklichen
 Weibes Munde gehört hatte. — Wahnsinnig sollte Doktor
-Doogston sein, nicht Zurechnungsfähig. Harst hatte dies ja
+Doogston sein, nicht zurechnungsfähig. Harst hatte dies ja
 bereits seit langem vermutet, hatte den Gedanken jedoch wieder
 verworfen, sodaß ich den Eindruck gewann, dieses Schwanken
 in seiner Beurteilung des Seelenzustande »Warbattys«
@@ -373,7 +373,7 @@ Platte stammte aus seinem Liliput-Apparat einer amerikanischen
 Erfindung von Uhrgröße und hatte eine Abmessung
 von 3 mal 3 Zentimeter.
 
-»Koffer Packen!« wiederholte er und nickte mir flüchtig
+»Koffer packen!« wiederholte er und nickte mir flüchtig
 zu. »Wir fahren um 11 Uhr nach Lahore, werden dort den
 Gubdu-Stein besichtigen —«
 
@@ -457,7 +457,7 @@ sträubt sich mein Hirn. Gewiß: Doppelnaturen mag es
 zuweilen geben. — Hier aber müßte man geradezu von einer
 doppelten Persönlichkeit sprechen. Und eine solche Unterstellung
 stößt auf wissenschaftlichen Widerspruch. Ohne fremde
-Einflüsse ist eine solche doppelte Persönlichkeit vereint in
+Einflüsse ist eine solche doppelte Persönlichkeit, vereint in
 einem einzigen Körper, äußerst selten zur Entstehung gelangt.
 Es wird also unsere Aufgabe sein, diese — fremden Einflüsse
 zu ergründen. Vielleicht finden wir sie sehr bald.
@@ -472,8 +472,8 @@ herumkroch. Der Mann ist ein schlanker, sehniger
 Hindu mit prachtvollem schwarzen Bart. Als ich heute
 Frau Doogston nach Hause begleitete, war er auch wieder zur
 Stelle, und im Gedränge der Basarstraße hat mein Liliput
-dann von ihm vier verschiedene Ausnahmen gemacht, die ich
-sofort nachher entwickeln ließ. Vier Ausnahmen, und alle
+dann von ihm vier verschiedene Aufnahmen gemacht, die ich
+sofort nachher entwickeln ließ. Vier Aufnahmen, und alle
 leidlich gelungen. Die beste zeigt ihn von vorn in halber
 Körpergröße —« Er richtete sich auf, schaute durch das Fenster.
 »Die Luft ist rein. Fort mit uns.« Er nahm seinen
@@ -539,7 +539,7 @@ Harst hatte mich auf die beiden aufmerksam gemacht.
 
 »Sieh Dir den Kleineren recht genau an,« meinte er jetzt.
 
-Der besondere Ton der Worte genügte. — Doktor Doogston?«
+Der besondere Ton der Worte genügte. — >>Doktor Doogston?«
 erwiderte ich schnell.
 
 Er nickte nur. »Ja — er und der Mann, den ich in Amritsar
@@ -632,7 +632,7 @@ Der Dicke schwitzte vor Angst. Sein Gesicht verzerrte sich.
 »Ehrenwertester Gast, — man wird mir das Fremdenheim
 schließen!« jammerte er. »Die Polizei wird sagen, ich habe
 Euch gewarnt und mich bestechen lassen. Oh — ich bin ruiniert,
-ich bin arm gemacht ich bin tot, ich sterbe —«
+ich bin arm gemacht, ich bin tot, ich sterbe —«
 
 »Aha — also die Polizei weiß bereits, daß wir hier sind!
 Jetzt ist mir alles klar!« fiel Harst ihm ins Wort. »Gib nur
@@ -711,7 +711,7 @@ Nebenberuf Hehler ist, wäre eine Rarität —«
 Ich bezog meinen Posten in dem Loche der Brunnenwand.
 Ein Meter unter mir lagen Müll und Abfälle und geradezu
 atemberaubender Gestank stieg mir daraus in die Nase. Ich
-hatte noch keine fünft Minuten lang ausgestreckt dagelegen,
+hatte noch keine fünf Minuten lang ausgestreckt dagelegen,
 als ich auch schon über mir Stimmen hörte. Dann wurde die
 Leiter herabgelassen. Schnell schob ich mich noch weiter vor,
 reckte den Kopf und brüllte den drei uniformierten Beamten
@@ -828,7 +828,7 @@ Harst hatte sich tief gebückt vorgeschnellt und Doktor
 Doogston einfach überrannt. —
 
 Es blieb uns dann nichts anderes übrig, als ihn zu fesseln.
-Er wehrte sich wie ein Verzweifelter. unsere Taschentücher
+Er wehrte sich wie ein Verzweifelter. Unsere Taschentücher
 genügten, ihm die Hände auf dem Rücken zu fesseln.
 Wir zwangen ihn dann, uns bis in den Saal des verschütteten
 <@pagebreak/>
@@ -868,7 +868,7 @@ Kopfe, legte Doogston nun die Linke flach auf die
 Stirn und sagte zu dem mit halb zugekniffenen Augen Dasitzenden:
 
 »Doktor Doogston, mein Wille ist stärker als der Ihrige.
-Sie — werden — gehorchen Sie — werden — jetzt sofort
+Sie — werden — gehorchen. Sie — werden — jetzt sofort
 einschlafen, — ganz fest einschlafen —« er sprach kurz
 und abgehackt. »Rühren — Sie sich — nicht mehr — Sie werden
 — müde. Schließen Sie — die Augen. Sie fühlen —
@@ -892,7 +892,7 @@ holend mir zuflüsterte:
 war schwer zu erreichen. Es hat mich die Anspannung all
 meiner Willenskraft gekostet, den Einfluß des Dritten zu
 überwinden.« Er lehnte sich erschöpft an die Marmormauer.
-»Ich muss etwas ausruhen. Dann folgt das Weitere — Begreifst
+»Ich muss etwas ausruhen. Dann folgt das Weitere. — Begreifst
 Du nun, weshalb diese ahgrundtiefe Verschiedenheit in
 Doogstons Wesensart sich eingenistet hatte?«
 
@@ -917,7 +917,7 @@ Er nickte nur zustimmend.
 ich fort. »Wer ist der Herr, wer ist der, dem Frau Lizabet
 das große Leid ihres Lebens zu danken hat?«
 
-Harst drückte meinen Arm. Denke nach, mein Alter!«
+Harst drückte meinen Arm. >>Denke nach, mein Alter!«
 Seine Stimme bebte vor verhaltener Erregung. »Denk’ an
 Frau Doogstons — anderen Bewerber, — an den, der sie vor
 Reginald Doogston als einem dem Wahnsinn Verfallenen
@@ -1073,7 +1073,7 @@ wackelte, sondern auch bei unbewegter Luft, wenn ein Hindu
 eine Antwort erbat. Ich habe seiner Zeit gleich den Verdacht
 gehabt, daß hier ein schlauer Betrug vorliegt. Die Brahmanen
 (Priester) dürften an den Schwingungen des Gubdu nicht
-ganz unbeteiligt gewesen sein. — Nun ist der Felskoloß wie
+ganz unbeteiligt gewesen sein. — Nun ist der Felskoloß, wie
 der Chinese uns mitteilte, abgestürzt. Ich möchte mir die
 Geschichte aus der Nähe ansehen. Ich habe nämlich so meine
 besondere Vermutung, was diese Katastrophe anbetrifft.«
@@ -1346,7 +1346,7 @@ umgab uns. Ich antwortete mit einem kurzen »Wird
 gemacht,« führte meinen Auftrag aus und war dann kaum
 neben Harst wieder angelangt, der mich am Arm packte und
 nahe an sich heranzog, als meine Augen vor mir scheinbar
-in endloser Ferne einen hellen Punkt unterschieden, der Zeitweise
+in endloser Ferne einen hellen Punkt unterschieden, der zeitweise
 sich in einen verschwommenen Strich verwandelte. Ich
 kannte dieses Bild des Lichtkegels einer Taschenlampe von anderen
 nächtlichen Abenteuern her sehr wohl, flüsterte Harst
