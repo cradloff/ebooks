@@ -101,6 +101,7 @@ Ich hielt noch das Päckchen in der Hand, das die Nordsee hatte verschlucken
 sollen.
 
 „Mr. Abelsen“, knurrte der Käpten kleinlaut, „ich bin ein alter Esel …“
+
 „Stimmt!“
 
 „Ich habe mich … sehr ungeschickt benommen, Mr. Abelsen …“

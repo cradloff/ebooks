@@ -27,7 +27,7 @@ Der alte Arzt saß mir wieder gegenüber. hielt den klugen Kopf gesenkt und
 stopfte seine Jägerpfeife.
 
 „Güppel neben dem Torfmoor wurde vor drei Jahren von einem Irländer gekauft,
-einem gewissen Thomas O’Brien Der Mann zahlte eine unverhältnismäßig hohe Summe
+einem gewissen Thomas O’Brien. Der Mann zahlte eine unverhältnismäßig hohe Summe
 … Ich bin sein Arzt. Ich traf stets Fremde dort, und seine Arbeiter sind
 sämtlich ebenfalls Iren. O’Brien leidet an schwerer Gicht und humpelt auf
 Krücken. Seine zahlreichen Gäste weckten meinen Argwohn. Ein von Schmerzen

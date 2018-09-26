@@ -7,7 +7,7 @@ Der Nachrichtenaustausch mit Garson um Mitternacht beschränkte sich auf meine
 nichtssagende Meldung, daß alles in Ordnung sei.
 
 Wenn je eine Meldung wahrheitswidrig gewesen, – diese bestimmt. Aber ich hatte
-meine sehr triftigen Gründe, dazu, und ich hatte auch Schließer nachdrücklichst
+meine sehr triftigen Gründe dazu, und ich hatte auch Schließer nachdrücklichst
 gewarnt, bei den Funkdepeschen sehr vorsichtig zu sein. Wir arbeiteten hier wie
 auf einem Pulverfaß mit unsichtbaren Zündschnüren. Schließer sah dies wohl ein,
 aber in einem Punkte war er nicht zu überzeugen, und gerade da ging es um

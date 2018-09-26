@@ -10,7 +10,7 @@ sahen wir im Lichte der Scheinwerfer die Steilwand langsam vorübergleiten.
 
 „Bitte fünfzehn Meter, Mr. Isley.“
 
-Sehr wohl. – – Fünfzehn Meter!“, rief er in die Muschel.
+„Sehr wohl. – – Fünfzehn Meter!“, rief er in die Muschel.
 
 Garson brummte etwas von „Sehr leichtsinnig“ …
 

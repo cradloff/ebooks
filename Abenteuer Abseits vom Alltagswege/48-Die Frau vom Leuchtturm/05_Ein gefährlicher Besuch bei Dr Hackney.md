@@ -144,7 +144,7 @@ jetzt bei Ebbe die rötlichen nassen Felsen, auf denen das Fundament des Turmes
 ruht. Die Gelehrten haben festgestellt, daß diese Felsen, hier eine ganz
 ungewöhnliche Erscheinung, eine Fortsetzung des unterseeischen Gebirgszuges
 sind, dessen einzige hohe Kuppe die Insel Helgoland bildet. Ob dies zutrifft,
-weiß ich nicht. jedenfalls hat der felsige Untergrund des Leuchtturmes von
+weiß ich nicht, jedenfalls hat der felsige Untergrund des Leuchtturmes von
 Hangerupp genau dieselbe rötliche Farbe wie ein Teil Helgolands. Mich
 interessiert lediglich die Tatsache, daß der Turm auf Urgestein steht, das nur
 bei Ebbe sichtbar wird.

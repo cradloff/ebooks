@@ -13,7 +13,7 @@ Zehn Uhr vormittags … Der Kellner räumt den Frühstückstisch ab.
 
 „Haben Herr Doktor noch Befehle?“
 
-„Danke.
+„Danke.“
 
 Ich mustere die Nachbartische über den Rand der Zeitung hinweg …
 
@@ -27,7 +27,7 @@ Nur …
 Und ärgerlich erhebe ich mich, schlendere die Dorfstraße hinan und biege droben
 in den Wald ein …
 
-Im Schatten uralter Eichen wende ich mich nordwärts. und als ich zehn Minuten
+Im Schatten uralter Eichen wende ich mich nordwärts. Und als ich zehn Minuten
 gewandert bin, ist all das Fremde in dieser Stille und Einsamkeit von mir
 abgeglitten …
 
