@@ -368,7 +368,7 @@ weiten, krankhaft schillernden Augen.
 
 »Nein — nichts. Harst tat in Bombay so, als ob er nichts
 mehr für Sie oder gegen James Palperlon unternehmen
-wollte.« erwiderte ich etwas kleinlaut, denn ich schämte mich
+wollte,« erwiderte ich etwas kleinlaut, denn ich schämte mich
 geradezu, eingestehen zu müssen, daß Harst mich so wenig eingeweiht
 hatte.
 
@@ -425,7 +425,7 @@ der Juwelen der Fürstenfamilie benutzt, deren Wert auf
 70 Millionen Mark geschätzt ist. Auch dies hatte mir das
 Reisehandbuch verraten. —
 
-Da es mittlerweile ½1 Uhr geworden, zwang Frau Doogston
+Da es mittlerweile ½ 1 Uhr geworden, zwang Frau Doogston
 mich nun, noch ein paar Bissen zu mir zu nehmen. Dann
 geleitete sie mich wieder durch das Grundstück des Turbanmachers
 auf die Straße, drückte mir nochmals stumm die
@@ -480,7 +480,7 @@ haben noch viel zu erledigen. — Vorwärts!«
 
 Er schritt voran, bog um die Mauerecke und folgte der
 Mauer nach Nordost zu. Er trug die gelbe Leinenuniform eines
-der Polizisten des Gaekwar, dazu seinen martialischen
+der Polizisten des Gaekwar, dazu einen martialischen
 schwarzen Schnurrbart und einen langen schmal geschnittenen
 Vollbart. — Etwa achtzig Schritt von der Mauerecke entfernt
 sprang die Mauer rechtwinklig ein und umging so eine
@@ -834,7 +834,7 @@ Hier haben Sie also so einen Fall, lieber Shesney, bei dem
 das Sehen mit den geistigen Augen etwas mehr ans Tageslicht
 förderte als das, was lediglich der Augenschein lehrte.«
 
-»Der Inspektor nickte nachdenklich. Ich aber fragte voller
+Der Inspektor nickte nachdenklich. Ich aber fragte voller
 Interesse:
 
 »Die Leiche wurde morgens im Parke gefunden? — Wer
@@ -853,7 +853,7 @@ machen.«
 
 Harst hatte soeben eine neue Zigarette angezündet und
 sagte nun: »Hören Sie jetzt das weitere. Ich werde mich mit
-Depeschenstil begnüge. Die Sachlage in Lahore war die:
+Depeschenstil begnügen. Die Sachlage in Lahore war die:
 Warbatty-Doogston und Palperlon waren uns entwischt, —
 ob ich sie absichtlich entschlüpfen ließ, bleibe unerörtert. —
 Wir, Warbattys Gegner, wußten bereits, daß er Arzt ist, mit
@@ -982,7 +982,7 @@ und mußte eine geraume Weile warten, bevor Frau Doogston
 mir öffnete. Sie brachte mich nun im Nebenhäuschen in einem
 Erdgeschoßzimmer unter, dessen Tür der ihren gegenüberlag.
 Sie fragte mich natürlich nach allem möglichen aus, war
-dann aber recht enttäuschst, als ich ihr erklärte, Harst wisse
+dann aber recht enttäuscht, als ich ihr erklärte, Harst wisse
 selbst noch nicht, wie dieses Abenteuer hier enden werde. Den
 Mord an dem alten Hausmeister verschwieg ich absichtlich.
 Konnte man wissen, ob nicht ihr unglücklicher Gatte ihn wieder
@@ -997,13 +997,13 @@ er uns gut die Hälfte von dem verschwiegen hatte, was er
 wußte. Ich fand folgende Fragen heraus, die Harst doch
 zweifellos mit Absicht offen gelassen hatte:
 
-1. In welcher Verkleidung halten Palperlon und Doogston
+1\. In welcher Verkleidung halten Palperlon und Doogston
 sich hier auf, und wo ist ihr Schlupfwinkel?
 
-2. Gehörten der Nachenbesitzer und dessen Söhne zu Palperlons
+2\. Gehörten der Nachenbesitzer und dessen Söhne zu Palperlons
 Helfershelfern?
 
-3. Weshalb erwähnte Harst, daß die Schlüssel des Palastes
+3\. Weshalb erwähnte Harst, daß die Schlüssel des Palastes
 Nazar Bagh neben dem toten Pförtner lagen?
 
 — Aus diesen drei Fragen ließen sich viele andere ableiten.
@@ -1026,7 +1026,7 @@ Häuschen, und die Unterhaltung mit Lizabet Doogston
 enthülte mir immer mehr einen Frauencharakter, wie
 man ihn nicht oft finden wird. —
 
-Um ½10 verließ ich das Häuschen. Es hatte schon vorher
+Um ½ 10 verließ ich das Häuschen. Es hatte schon vorher
 sacht zu regnen begonnen. Bei der Siedetemperatur in
 Baroda konnte man diesen Regen nur freudig begrüßen. Er
 kühlte die Luft etwas ab. — Ich langte bereits eine Viertelstunde
@@ -1389,7 +1389,7 @@ Shesney hatte in einem Schranke ein Fläschchen Kognak
 gefunden. Doogston trank gierig. Dankbar nickte er dem
 Inspektor zu.
 
-»Ich will wenigstens noch die Kraft haben. Ihnen den
+»Ich will wenigstens noch die Kraft haben, Ihnen den
 Ausgang dieser meiner Lebenstragödie zu schildern,« begann
 er dann wieder. »Vielleicht sind mir diese Minuten noch gewährt.
 — Mein Geist ist völlig klar. Ich bin ja selbst Arzt
@@ -1446,7 +1446,7 @@ wohl an, daß sie ihn sonst erbarmungslos niedergeschossen
 hätte. Aber heimtückisch wie immer verstand er dann blitzschnell
 seine eigene Waffe zu ziehen. Er führte eine
 <@pagebreak/>
-Mehrladepistoie von großer Durchschlagskraft bei sich. Im letzten
+Mehrladepistole von großer Durchschlagskraft bei sich. Im letzten
 Moment bemerkte ich, daß er auf Lizabet anschlug, warf mich
 dazwischen. So — streckte die eine Kugel uns beide nieder.
 Aber — im Sturze bekam ich Lizabets Waffe noch in

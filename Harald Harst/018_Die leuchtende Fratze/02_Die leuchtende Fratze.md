@@ -346,7 +346,7 @@ des Makresch-Gestüts näher? Es ist ein Landsmann von uns,
 und —«
 
 »Ja — Karl Timoleit, eine der populärsten Persönlichkeiten
-der Umgegend,« nickte Shesney eifrig »Timoleit ist
+der Umgegend,« nickte Shesney eifrig. »Timoleit ist
 <@pagebreak/>
 seit fünfzehn Jahren in Indien. Er war früher Wachtmeister
 bei der Kavallerie. Jetzt ist er Millionär. Einen so gerissenen
@@ -602,7 +602,7 @@ Jahren diese Erinnerung nicht verwischen konnten.
 
 Femgericht! Die heilige Feme. Die Selbsthilfe einer anständig
 gesinnten Bevölkerung gegenüber Verbrechergesindel
-war’s — Und hier?
+war’s. — Und hier?
 
 Zunächst das äußere Bild:
 
@@ -928,7 +928,7 @@ die von schweißfeuchten Händen dort zurückgelassen
 waren, hauptsächlich zwei Arten von Fingerabdrücken vor.
 Die eine gehörte zu Händen mit sehr dünnen, spitzen Fingern.
 Solche besaß Doktor Doogston alias Warbatty. Die zweite
-Gruppe mußte von Händen mit sehr kurzem, stumpfen Fingern
+Gruppe mußte von Händen mit sehr kurzen, stumpfen Fingern
 stammen. Verschiedene Anzeichen besagten, daß diese
 zweite Art nur von den Händen Palperlons herrühren konnte.
 — <span class="g">Sie</span> aber haben die reinen Spinnenfinger! Außerdem
@@ -945,7 +945,7 @@ Palperlon nicht sein, denn ein Verbrechergenie wie er,
 hätte niemals in einem Turmgemach, das er als geheimen
 Schlupfwinkel benutzt, bei unverhüllten Fenstern Licht brennen
 lassen. So — dumm stellt ein Palperlon sich nicht an!
-klein — alles, was <span class="g">Sie</span> im Dschemala trieben, deutete für
+Nein — alles, was <span class="g">Sie</span> im Dschemala trieben, deutete für
 mich von vornherein darauf hin, daß ich nur durch Ihre Person
 dorthin gelockt werden sollte. Das famose Femgericht
 wollte mich zwingen, Palperlons Verfolgung für immer aufzugeben.
@@ -1101,7 +1101,7 @@ wachsende Bestürzung. — »Was — was soll — diese —«
 
 Timoleits Gesicht hatte sich jetzt verfinstert. In seinen
 Augen glomm der Argwohn auf. »Herr im Himmel,« sagte er
-leise, sollte wirklich Irmgard uns aus Uebermut diesen schlechten
+leise, »sollte wirklich Irmgard uns aus Uebermut diesen schlechten
 Streich gespielt haben?! Ich begreife nur nicht, was sie
 damit bezweckt hat?!« Dann besann er sich, daß er Harst noch
 immer ohne Antwort gelassen hatte. »Ja, ja — es stimmt
@@ -1326,7 +1326,7 @@ begleiten. »Ich hoffe, Ihnen eine spannende Abwechslung
 bieten zu können, Durchlaucht,« sagte er. »Es wird sehr
 wahrscheinlich einige recht dramatische und aufregende Szenen
 geben.« — Der Fürst war mit Eifer dabei. — Bereits um
-¾7 Uhr brachte ein Auto uns vier nach Makresch. In einem
+¾ 7 Uhr brachte ein Auto uns vier nach Makresch. In einem
 anderen Auto waren sechs Beamte Shesneys uns vorausgefahren,
 die noch eine siebente Person mitgenommen hatten.
 
@@ -1429,7 +1429,7 @@ hier folgendes. — Er hieß Thomas Lincoln, war Buchmacher,
 in Heidarabad ansässig und seit langem mit Lagrange befreundet.
 Aus Not hatte er sich bestechen lassen, im Dschemala
 den Lockvogel zu spielen. Lagrange hatte ihm nur anvertraut,
-es handele sich darum, einen Polizeispitzel einen gehörigen
+es handele sich darum, einem Polizeispitzel einen gehörigen
 Denkzettel zu geben. Von allem anderen wußte er nichts.
 — Man hätte ihn dafür, daß er sich als Palperlon ausgab,
 auch nur gering bestrafen können. Palperlon hatte auf diese
@@ -1445,7 +1445,7 @@ saubere Gesellschaft. — Timoleit hatte sich bereits wieder gefaßt.
 »Niemand soll geschont werden, niemand!« sagte er ingrimmig.
 »Ich — ich habe stets nur für die Meinen gearbeitet
 und gespart. Und der Dank?! — Daß meine Frau
-und Tochter mich nicht liebten, wußte ich’s längst. Aber daß
+und Tochter mich nicht liebten, wußte ich längst. Aber daß
 sie derart verderbt sein könnten, — nein, das ahnte ich nicht.
 Ihre Genuß- und Putzsucht, die Leichtfertigkeit der Lagranges
 ist an allem schuld.«
@@ -1466,12 +1466,12 @@ Liebe ist Lizabet Doogston gewesen und wird es auch bleiben.
 — Daß Sie dieses Versteck entdecken würden, davon war ich
 in demselben Augenblick überzeugt, als Lagrange mir mitteilte,
 Sie würden sich den Kühlkeller ansehen und als Sie uns
-dann gestern nacht entschlüpften. — Aus Wiedersehen, Harald
+dann gestern nacht entschlüpften. — Auf Wiedersehen, Harald
 Harst. James Palperlon.«
 
 Wir blieben nur noch zwei Tage in Baroda. Harst hatte
 Sehnsucht nach daheim, nach seiner Mutter. — Aber — wie
-traurig war dann unser Empfang in der Harstschen Wohnung.
+traurig war dann unser Empfang in der Harstschen Wohnung,
 Berlin-Schmargendorf, Blücherstraße, 10! Die alte treue
 Köchin Malwine empfing uns mit rotgeweinten Augen.
 

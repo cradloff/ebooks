@@ -1,6 +1,6 @@
 <@pagebreak 66/>
 
-<p class="title">  Ein
+<p class="titel">  Ein
 Stündchen</p>
 
 der <span class="g">Ablenkung, Entspannung</span> und
