@@ -132,7 +132,7 @@ seine Briefe, Mr. Abelsen, zerfielen bereits nach Stunden in farblose Flocken �
 Das Papier war chemisch präpariert. Und jener Brief zeigte uns den Dämon in
 seiner wahren Gestalt: „Wenn Sie nicht gehorchen, erhält die Polizei die
 Beweise für Ihre Tätigkeit im Sheffield-Palast“, lautete der Schlußsatz. Wir
-waren also gefangen, wir hingen in der Schlinge, wir waren machtlos … – So
+waren also gefangen, wir hingen in der Schlinge, wir waren machtlos … – *So*
 machte der große Unbekannte aus uns Sklaven, – – und schützte uns … – –
 Damals“, – sie fiel wieder auf den Sitz zurück, – „damals beraubten wir die
 Gattin eines Amerikaners im Schlafwagen während der Fahrt nach Nizza … – Wie
@@ -202,7 +202,7 @@ donnerten Fäuste, Stiefel, Pistolenkolben …
 
 Clarissa Delmont griff nach meinem Arm …
 
-„Das ist seine Rache, Mr. Abelsen …!!“
+„Das ist *seine* Rache, Mr. Abelsen …!!“
 
 „Nein, – das ist ein Reinfall“, flüsterte ich mit grimmer Genugtuung und trat
 in die letzte der drei Sitzreihen des Gestühls, betrachtete die geschnitzte
@@ -259,7 +259,7 @@ Herren, die mich zum Tsad-See schicken wollten und zwar recht bald, damit
 London von meiner Gegenwart befreit würde.
 
 Der tragische, moralische Niedergang eines Mädchens von Clarissa Delmonts
-Charakteranlagen gab hierbei mit den Ausschlag – mit den Ausschlag, war jedoch
+Charakteranlagen gab hierbei mit den Ausschlag – *mit* den Ausschlag, war jedoch
 nicht die Hauptursache. – Die stille, starre, kalte Hauptursache ruhte dort
 unten in dem neuen Eichensarge unter der Unmenge blütenfrischer Kränze und hieß
 Lilian Harley …

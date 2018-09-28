@@ -17,7 +17,8 @@ heimtückischen Gegner dar, mich unbehelligt zu lassen, zweitens waren sie ein
 Signal für dieselben mordbeflissenen Bravos: „Ich bin in der Nähe!!“ – Im
 Lateinischen gibt es für all dies einen kürzeren bekannten Spruch:
 
-Cave te! Adsum!!  (Hüte dich! Ich bin gegenwärtig!!)
+*Cave te! Adsum!!*<br/>
+(Hüte dich! Ich bin gegenwärtig!!)
 
 – Ich lehnte wieder am Gestühl und blickte nach oben, sah den Lichtschein von
 Charmers Taschenlampe, hörte Charmer hin und hertappen, erkannte, daß der Mann
@@ -176,8 +177,8 @@ Aus der dritten Tanne kam eine helle gedämpfte Stimme in hastigem, ängstlichem
 Flüstern:
 
 „Es war ein Irrtum, ein Versehen, Mister Abelsen … Charmer und der Unbekannte
-sind auf und davon … Ich schoß, – – es war eine Verwechslung … Die Kugel galt „
-ihm“ …“
+sind auf und davon … Ich schoß, – – es war eine Verwechslung … Die Kugel galt
+„*ihm*“ …“
 
 Eine Frau, – keine fremde Frau, – die Stimme hatte ich am Frühstückstisch in
 Vlissingen und bei anderen Gelegenheiten dicht vor mir und neben mir gehabt. Es
@@ -214,7 +215,7 @@ nichts, was ich nicht ohne Wimpernzucken anschauen könnte – nichts! Ich bin
 durch eine Hölle und durch den Schmutz der Verworfenheit gewatet, und Sie
 werden mich niemals schwach finden, niemals! Nur der grauenvolle Gedanke, daß
 ich gerade Sie hätte auslöschen können, umnebelte mein abgehetztes Hirn bis zu
-einem Gefühl der Furcht … – Kommen Sie, – ich will sehen, – was es auch sei!“
+einem Gefühl der Furcht … – Kommen Sie, – ich *will* sehen, – was es auch sei!“
 
 „Ich warne Sie …!“, glaubte ich nochmals einer Nervenkrise vorbeugen zu können.
 

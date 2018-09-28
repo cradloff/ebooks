@@ -41,7 +41,7 @@ Zeitungshändler riefen gerade die neuesten Extrablätter über den Fall Sheffie
 aus und machten gute Geschäfte. Die Schlagzeilen und Titel wirkten auch äußerst
 verlockend:
 
-Geheimnisvolle Vorgänge in Dr. Tomsens Inselhaus. – Zwei Vigilanten der Polizei
+> Geheimnisvolle Vorgänge in Dr. Tomsens Inselhaus. – Zwei Vigilanten der Polizei
 gefesselt aufgefunden. Die Verbrecher trotz engster Umzingelung der Insel
 schwimmend entkommen. Der Abenteurer Abelsen, der Dieb der Mauritius-Marke,
 schießt auf Kriminalbeamte. Hohe Belohnung ausgesetzt.
@@ -107,7 +107,7 @@ Alles Blut schoß mir zu Kopfe …
 Nochmals schaute ich hin …
 
 Es war kein Irrtum: Am Steuer saß jetzt der Mann im Ledermantel, mit
-Autobrille, Lederkappe: Er!!
+Autobrille, Lederkappe: *Er*!!
 
 Ich zwang meine rebellierenden Nerven zur Ruhe.
 

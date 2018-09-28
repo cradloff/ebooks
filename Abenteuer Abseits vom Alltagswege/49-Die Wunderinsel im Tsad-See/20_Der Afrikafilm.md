@@ -71,7 +71,7 @@ Bekanntmachung angeheftet wurde.
 
 Plötzlich zog sie mich hastig vor das von Neugierigen eindrängte große Plakat.
 
-Diebstahl im Ministerium des Auswärtigen.
+> __Diebstahl im Ministerium des Auswärtigen.__
 
 Die Ankündigung besagte, daß heute vormittag aus den Ministerien ein wichtiges
 Dokument entwendet worden sei, dessen Inhalt, falls er bekannt würde, England
@@ -172,7 +172,7 @@ verschüttet. Wir werden Sie in die Grotte bringen, und das Wasser des Sees wird
 das Urteil vollstrecken. – – Abelsen, – nein, Olaf, Richter Olaf, stecke dem
 Verurteilten einen Knebel in den Mund … Wir wollen nach Tomsen-House
 aufbrechen. – Die Gerichtssitzung ist geschlossen. – Lilian Harley, du bist
-gerächt worden, er, dein Mörder, stirbt noch in dieser Nacht!“
+gerächt worden, *er*, dein Mörder, stirbt noch in dieser Nacht!“
 
 Manfred Willow sank mir mit einem heiseren Aufschrei in die Arme. – –
 

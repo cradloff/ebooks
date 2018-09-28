@@ -185,7 +185,7 @@ Noch eine Viertelstunde, und wir sind in Sicherheit, sind in Fulham …“
 Unser Motor knatterte und puffte, zuweilen streiften wir die Uferböschung, dann
 sprang Clarissa auf.
 
-„Am Ziel! Daheim!! In unserem zweiten Heim, das nicht einmal „er“ kennt …“
+„Am Ziel! Daheim!! In unserem zweiten Heim, das nicht einmal „*er*“ kennt …“
 
 Ziellos und ohne Insassen schaukelte der Benzinstänker flußabwärts. In einem
 behaglichen kleinen Eßzimmer dampfte der Teekessel, und Clarissa und ich und
@@ -276,9 +276,9 @@ spielen und ballte die Fäuste …
 
 Und lachte lautlos …
 
-Freund Sultan, du großer Unbekannter, jetzt gehe ich an die Arbeit! Charmer hat
+Freund Sultan, du großer Unbekannter, jetzt gehe *ich* an die Arbeit! Charmer hat
 dich nicht aufgestöbert, die Tomsens fanden dich nicht, die Delmonts versagten,
-– – ich finde dich!! Und dann – – wehe dir!! Lilian Harley starb, ihr Mörder
+– – *ich* finde dich!! Und dann – – wehe dir!! Lilian Harley starb, ihr Mörder
 wurde durch dich gehenkt, damit er schwiege, der wahre Mörder bist du allein!
 Hüte dich, großer Unbekannter! Du trägst ein Kainszeichen, an dem ich dich
 erkennen werde: Meinen Kugelschuß im linken Arm!

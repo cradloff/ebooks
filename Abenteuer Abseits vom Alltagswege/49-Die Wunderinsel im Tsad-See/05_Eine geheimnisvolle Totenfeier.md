@@ -54,7 +54,7 @@ konnte ein Phantasieprodukt sein …
 Er segnete die Tote ein, sprach ein Schlußgebet und fügte diesem das Bibelwort
 mit erhobener Stimme hinzu:
 
-Auge um Auge, Zahn um Zahn! – Wo die Gerechtigkeit versagt, werden dir andere
+> Auge um Auge, Zahn um Zahn! – Wo die Gerechtigkeit versagt, werden dir andere
 Rächer entstehen, Lilian Harley!!
 
 Bisher hatte sich Richard Charmer, der alte Maat in der heute so sauberen
@@ -162,7 +162,7 @@ Der alte Jan Maat mit dem schlecht gekämmten grauen Scheitel blickte
 gleichgültig auf meine Waffe, deren Lauf noch den Schalldämpfer trug.
 
 „Eine Enttäuschung, Abelsen!“, sagte er dumpf. „Sie wollen mir drohen …“ Er
-lachte ironisch. „Was wünschen Sie also, was befehlen Sie, der Sie sich noch
+lachte ironisch. „Was wünschen Sie also, was befehlen *Sie*, der Sie sich noch
 immer an Ihre Pflicht gebunden fühlen? – Bitte …!“
 
 „Holen Sie den Mann herab – sofort!!“

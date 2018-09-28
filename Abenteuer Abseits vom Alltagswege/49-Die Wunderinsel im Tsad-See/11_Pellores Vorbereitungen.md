@@ -174,14 +174,14 @@ Sie wickelt das Bündel auf.
 Und ein Briefbogen, arg zerknittert, löst uns einen Teil der Fragen und Rätsel
 um Edgar Pellore …
 
-„Mylord! Ihre Bemühungen im Interesse Vivian Varrans werden erfolglos bleiben.
+> „Mylord! Ihre Bemühungen im Interesse Vivian Varrans werden erfolglos bleiben.
 Zwei Leute, die entkommen sollen, befinden sich in dem Häuschen Ihrem Landsitz
 gegenüber. Warnen Sie sie und handeln Sie genau nach den Anweisungen, die ich
 Ihnen untenstehend erteile. Schleppen Sie den wracken Frachtkahn noch näher vor
 Ihren Jachthafen und stellen Sie ein Auto bereit. Ein Stahlboot wird
 unbeschädigt dieses morsche Hindernis durchbohren.
 
-Der Warner.“
+> Der Warner.“
 
 Clarissa Delmont muß es mir zweimal vorlesen.
 
@@ -234,7 +234,7 @@ sagen Sie zu dem Titel?!“
 
 Ein riesengroßes Plakat soll die Vorortbewohner locken …:
 
-Die Wunderinsel im Bahr-es-Salam.
+__Die Wunderinsel im Bahr-es-Salam.__
 
 Alles Blut steigt mir zu Kopfe. – Für den, der Afrika weniger gut kennt als
 ich, mag der Name Bahr-es-Salam nicht viel besagen.

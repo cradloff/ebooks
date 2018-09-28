@@ -55,7 +55,7 @@ herabhingen, bot einen recht hübschen Anblick dar.
 Ghost machte halt und knurrte.
 
 Wer Ghost sah, sagte: Fleischerköter! – Wer Ghost besser kannte, sagte:
-Intelligentes Tier! – Ich sagte nur immer „Freund Ghost.“
+Intelligentes Tier! – *Ich* sagte nur immer „Freund Ghost.“
 
 In der Grotte herrschte Halbdunkel, und selbst als meine Augen sich an dieses
 mangelhafte Licht gewöhnt hatten, hielt ich die Steinhöhle bis auf eine eiserne
@@ -229,9 +229,9 @@ grippekrank bleiben …!“ Er lächelte halb schmerzlich, halb spöttisch … �
 
 Die Büsche entzogen uns die zerlumpte Gestalt …
 
-Clarissa umklammerte meinen Arm. „Olaf, – er war es – er!!“ Sie zitterte …
+Clarissa umklammerte meinen Arm. „Olaf, – *er* war es – *er*!!“ Sie zitterte …
 
-„Ob er es war?!“, meinte ich nachdenklich …
+„*Ob* er es war?!“, meinte ich nachdenklich …
 
 … Irgendwo vom Flusse her erklang das Bajazzolied … Ich spähte hinüber …
 

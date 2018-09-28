@@ -112,7 +112,7 @@ Ich holte ganz tief Atem.
 
 Ich hängte ab und wischte mir den Schweiß von der Stirn.
 
-Also so hatte der Sultan gearbeitet.
+Also *so* hatte der Sultan gearbeitet.
 
 Eine ungeheure Wut preßte mir plötzlich die Kehle zusammen.
 

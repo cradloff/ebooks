@@ -8,9 +8,9 @@ eine Zigarre.
 Unser Dreirad hielt. – „Bick, Sie hier …?!“, rief ich ehrlich erstaunt.
 
 Bickfort Tomsen warf die Zigarre auf die nasse Chaussee. „Wir waren immer
-hinter Ihnen. Hier ist „er“ abgesprungen. Als „er“ die Wachspuppe hinauswarf,
+hinter Ihnen. Hier ist „*er*“ abgesprungen. Als „*er*“ die Wachspuppe hinauswarf,
 wußte ich, daß er Vivian Varran ihrem Schicksal überlassen wollte. – Guten
-Abend, Miß, ich bin der Warner, ich habe auch Ihnen einige beunruhigende Briefe
+Abend, Miß, ich bin *der Warner*, ich habe auch Ihnen einige beunruhigende Briefe
 geschrieben, – es tut mir leid, Sie sind auch nur eins der Opfer des Sultans.
 Frauen sind seine Spezialität, das wissen Sie ja von Afrika her, als Ihre
 Filmgesellschaft dort am Tsad-See den sensationellen Bildstreifen drehte … –
@@ -61,7 +61,7 @@ matt-grünlichgelbem Licht: Leuchtfarbe! Ich fuhr mit dem Finger über den Rand
 hin: Auch meine Fingerspitze leuchtete!! – Dabei war dieses schwache, grüngelb
 schimmernde Viereck so wenig auffallend, daß niemand es beachtet hätte.
 
-„Ein feiner Kopf!“, sagte der Baronett anerkennend. „Schade, daß der Kopf nicht
+„Ein feiner Kopf!“, sagte der Baronett anerkennend. „Schade, daß *der* Kopf nicht
 mehr lange so niederträchtige Pläne ausspinnen kann!“
 
 Sheffield hielt sich von den übrigen etwas abgesondert und wollte sein

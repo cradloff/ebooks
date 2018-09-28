@@ -76,7 +76,7 @@ Und daß in diesem Riesenameisenhaufen arbeitender oder faullenzender oder
 andere begaunernder Menschen ein paar ganz gefährliche Ameisenlöwen, schon mehr
 Ameisentiger, mich sehnsüchtigst in Messerreichweite oder Schußweite zu
 bekommen trachteten, hätte mir jeder leidlich phantasievolle Hellseher
-voraussagen können, – ich jedenfalls war auf alles gefaßt, desgleichen Freund
+voraussagen können, – *ich* jedenfalls war auf alles gefaßt, desgleichen Freund
 Ghost, desgleichen das nette schwarze Instrument, das ich in der rechten
 Manteltasche entsichert bei mir trug.
 
@@ -172,7 +172,7 @@ Wir waren noch keine fünf Minuten unterwegs, als sich wieder etwas Neues
 ereignete. Ein anderes Auto fuhr dicht an uns vorüber, und eine Hand warf mir
 geschickt einen Zettel in den Schoß, auf dem in Druckschrift zu lesen war:
 
-Vorsicht!! Das berüchtigte Schwindlerpaar Geschwister Delmont wieder an der
+> *Vorsicht!!* Das berüchtigte Schwindlerpaar Geschwister Delmont wieder an der
 Arbeit!!
 
 Der Zettel war nur ein durchfeuchteter Zeitungspapierfetzen, – als ich ihn
@@ -229,7 +229,7 @@ Ich jedenfalls traute dem Unbekannten, der mich schon in Vlissingen vor den
 Geschwistern Delmont gewarnt hatte, weit mehr als dem ahnungslosen Bobby, der
 nicht einmal mehr gewagt hatte, sich nach dem Namen des beraubten
 „Blumenmädchens“ zu erkundigen, denn der Chauffeur hatte sehr herrischen Tones
-erklärt, die Sache würde er in Ordnung bringen.
+erklärt, *die* Sache würde er in Ordnung bringen.
 
 Ich mußte mich noch glücklich preisen, daß der Besitzer eines schnittigen
 Kleinwagens, der mit zu den Neugierigen gehört hatte, mich höflichst einlud,

@@ -203,10 +203,10 @@ entdeckte auch auf dem Fensterbrett Spuren von Sand.
 
 Der Brief lautete:
 
-Wenn Sie diese Nacht die Entführung einer Toten mit beobachten wollen, so
+> Wenn Sie diese Nacht die Entführung einer Toten mit beobachten wollen, so
 behalten Sie die Leichenhalle neben dem Hafenpolizeiamt im Auge. Mischen Sie
 sich jedoch auf keinen Fall ein. Ihr Leben ist ohnedies bedroht, und Sie dürfen
-auch nie mehr bei offenem Fenster schlafen. – Der Warner.
+auch nie mehr bei offenem Fenster schlafen. – *Der Warner.*
 
 Dieser Inhalt des Briefes mußte mich, ganz abgesehen von anderen
 Begleitumständen, äußerst stutzig machen. Auch der alte Matrose hatte von

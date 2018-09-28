@@ -114,11 +114,11 @@ etwas verzerrt, „Keine Sorge, Olaf!“
 Die Schreibmaschine Doktor Willows begann sanft zu klappern. Ich hatte mir den
 Brieftext genau zurechtgelegt:
 
-„Mr. Willow! Der, der mich im Kleiderschrank verborgen hatte, befand sich in
+> „Mr. Willow! Der, der mich im Kleiderschrank verborgen hatte, befand sich in
 einem Irrtum. Ich habe ein so zähes Leben wie ein gewitzter Kater. Vertuschen
 Sie meine Abwesenheit, – ich schreibe Ihnen noch Näheres. –
 
-Edward Hutter.“
+> Edward Hutter.“
 
 „So, Bick, – nun flink den Umschlag … Adressieren Sie nur: „Doktor Manfred
 Willow! Es genügt.“

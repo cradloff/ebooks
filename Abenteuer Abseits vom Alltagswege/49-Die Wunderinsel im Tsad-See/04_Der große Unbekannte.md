@@ -158,7 +158,7 @@ Er holte ganz tief Atem, als müßte er erst Kraft zu den folgenden Äußerungen
 sammeln.
 
 „Abelsen“, – noch nie hatte er so ernst gesprochen, „ich will Ihnen nicht
-zumuten, den Sarg zu öffnen. Ich könnte es nicht, das übersteigt meine
+zumuten, den Sarg zu öffnen. *Ich* könnte es nicht, das übersteigt meine
 Fähigkeit, meine Nerven zu meistern.“ Seine leise Stimme schwankte und bebte,
 und ein trockenes Schluchzen drang an mein Ohr und erschütterte mich aufs
 tiefste.
@@ -290,7 +290,7 @@ ihn belügen? – Nein, – vielleicht antwortete er mir auf die Fragen, die ich
 den alten Herrn Tomsen gerichtet hatte und die dieser geflissentlich überhört
 hatte.
 
-„Von dem … Warner!“, erwiderte ich leise, und nicht ein Laut, nicht eine
+„Von dem … *Warner!*“, erwiderte ich leise, und nicht ein Laut, nicht eine
 Bewegung verrieten des Matrosen Erstaunen.
 
 „So, so, – von ihm …!“, meinte er nur. „Ich gäbe etwas darum, wenn ich wüßte,

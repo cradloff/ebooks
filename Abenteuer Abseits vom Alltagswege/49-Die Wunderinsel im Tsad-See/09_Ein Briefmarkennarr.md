@@ -222,7 +222,7 @@ Delmonts, fürchtete mich. Im Grunde konnte ich darauf stolz sein. Mein Gegner,
 der in seiner so schlau im Hintergrunde gehaltenen Person so unbegrenzte
 Machtmittel vereinigte, wollte gerade mich austilgen. Der Warner und der
 schmierige Jan Maat Charmer, der nebenher Schloßbesitzer war, blieben für ihn
-Verfolger minderer Art. Mich wollte er auslöschen, in mir sah er vielleicht den
+Verfolger minderer Art. *Mich* wollte er auslöschen, in mir sah er vielleicht den
 gleichwertigen Feind. Ja – ich konnte mir darauf etwas einbilden!! Und nun, da
 ich ihn nun noch durch meine Kugel gezeichnet hatte, würde er seine
 Anstrengungen verdoppeln. Ich richtete mich danach. Jedes Auto, jeder

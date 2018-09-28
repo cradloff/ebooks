@@ -62,7 +62,7 @@ heute Nacht die Persönlichkeit des großen Verbrechers mit aller Bestimmtheit
 identifiziert. – Baronett Roger Sheffield-Seymour.
 
 2\. Ich, Doktor Bickfort Tomsen, erkläre auf Ehre und Gewissen: Die Gründe, die
-mich veranlaßten, meine Rolle als Warner zu übernehmen, sind ähnlicher Art wie
+mich veranlaßten, meine Rolle als *Warner* zu übernehmen, sind ähnlicher Art wie
 die des Baronetts. Meine Zufallsbekanntschaft mit Lilian Harley, die ich auf
 den ersten Blick innig liebte, war die Hauptursache, dem Sultan auch
 meinerseits nachzustellen. Ich war ein heiterer, lebensfroher Mensch, und es
@@ -88,7 +88,7 @@ geschickt vertuscht und der Tod der beiden als Unfall durch Ertrinken
 dargestellt. Ich stellte in der nächsten Nacht fest, daß das Haus des Mr. Smith
 von Europäerinnen bewohnt wurde, und ich gehe in der Annahme wohl kaum fehl,
 daß diese landschaftlich bezaubernde Wunderinsel von dem Sultan als
-Zufluchtsstätte für seine weiblichen Opfer bestimmt war – ich betone, war –,
+Zufluchtsstätte für seine weiblichen Opfer bestimmt war – ich betone, *war* –,
 die allen Grund hatten, aus England zu verschwinden, weil ihr Treiben die
 Polizei aufmerksam gemacht hatte. Nach außen hin galt das afrikanische
 Inselhaus, was Ihnen, Mylord, bekannt sein dürfte, als eine Art Sanatorium. –
@@ -99,7 +99,7 @@ Smith versichert hatten. Die Versicherungssummen waren leider bereits
 ausgezahlt worden. Dann las ich in den Zeitungen, daß die wundervolle Insel im
 Tsad-See irgendwie samt dem Hause vernichtet worden war und daß die Bewohner
 verschwunden seien. Man nahm ein Erdbeben und eine dadurch verursachte
-Feuersbrunst an. Ich behaupte, der Sultan ist damals ebenfalls in Afrika
+Feuersbrunst an. *Ich* behaupte, der Sultan ist damals ebenfalls in Afrika
 gewesen und hat die Insel durch gewaltige Massen von Dynamit und durch einen
 Zeitzünder, der erst nach Wochen wirkte, absichtlich vernichtet, – ihm lag nur
 etwas an den Versicherungsgeldern, die insgesamt 80 000 Pfund betrugen. – Erst

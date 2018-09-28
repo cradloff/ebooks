@@ -19,7 +19,7 @@ zu groß.
 „Ich … wage es nicht“, stammelte er.
 
 „Unsinn!! Bisher hat der Schurke, der den Sultan spielt, mich nicht erwischt.
-Er wird mich nie fangen, Sie auch nicht …! – Reden Sie, Mann, – aber schnell!
+Er wird mich nie fangen, *Sie* auch nicht …! – Reden Sie, Mann, – aber schnell!
 Also wieviel Kerle stecken hier in dem Hause?“
 
 In seine Blicke trat ein Schimmer von Zuversicht. „Jetzt nur eine Frau und ich,
@@ -97,7 +97,7 @@ wollen …“
 Ich atmete erleichtert auf. Ich hatte bei ihm auf Widerstand zu stoßen
 gefürchtet, aber dieser Mann war seelisch zermürbt, zerbrochen.
 
-„Bickfort Tomsen“, sagte ich mit aller Zartheit, „Sie sind der Warner, Ihr
+„Bickfort Tomsen“, sagte ich mit aller Zartheit, „*Sie* sind der Warner, Ihr
 Vater ist tot, Sie tragen eine vorzügliche Maske …“
 
 Er nickte nur.
@@ -135,7 +135,7 @@ zu dem armen Wicht dort“, – er zeigte auf seinen schlafenden Verwandten –
 Diese Eröffnungen raubten mir für Minuten die Sprache.
 
 Bickfort lächelte mich trübe an. Seine Hand legte sich leicht auf meine
-Schulter. „Erkennen Sie jetzt, welche Macht der Mensch besitzt! Vielleicht
+Schulter. „Erkennen Sie jetzt, welche Macht *der* Mensch besitzt! Vielleicht
 druckt man jetzt schon die Anschläge für die Plakatsäulen mit Ihrem Bilde, mit
 meinem Bilde, und mit den Bildern der Geschwister Delmont … Vielleicht bringen
 die Abendzeitungen bereits unsere Steckbriefe. Vielleicht ist auch Kapitän
@@ -175,7 +175,7 @@ Ruhe leben dürfen. An Geld fehlt es uns nicht, Abelsen, ich bin reich, ich habe
 große Summen in Holland und Frankreich zur Verfügung … Wir werden nicht Not
 leiden, Olaf, – – das Schicksal hat …“
 
-„Ich kenne Charmer“, sagte ich mit erhobener Stimme und mit allem Nachdruck, um
+„*Ich* kenne Charmer“, sagte ich mit erhobener Stimme und mit allem Nachdruck, um
 diese Art Zukunftsgedanken bei Bickfort Tomsen sofort auszuschalten. Ich war
 eigentlich enttäuscht über ihn. Ich hätte von ihm als dem so überaus rührigen
 und klugen Warner weit mehr Zähigkeit erhofft.
@@ -207,7 +207,7 @@ Charmer und ich uns über den Sarg hinweg die Hände reichten, haben wir
 geschworen, Lilians wahren Mörder zu richten. Und dabei wußte ich nicht einmal,
 wer Charmer ist – und weiß es auch jetzt noch nicht. Charmer benachrichtigte
 mich von der Stunde der Beisetzung Lilians, Charmer befahl, daß die Geschwister
-Delmont dabei sein sollten … – Nein, Olaf, der Schurke entgeht uns nicht …
+Delmont dabei sein sollten … – Nein, Olaf, *der* Schurke entgeht uns nicht …
 Lächelnden Mundes will ich zuschauen, wie Richard Charmer auch ihn richtet …
 Denn das haben Sie nun wohl klar erkannt: Wenn wir drei nicht eingreifen, wird
 dieser Mensch niemals die Strafe erleiden, die ihm gebührt – niemals! Dazu

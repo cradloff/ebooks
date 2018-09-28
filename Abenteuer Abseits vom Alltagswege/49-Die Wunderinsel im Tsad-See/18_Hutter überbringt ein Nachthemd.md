@@ -50,7 +50,7 @@ Auto neben der Zaunpforte der Ziegelei hielt und Hamilton Delmont aus dem Regen
 auftauchte und meldete, daß alles sicher sei. –
 
 Bickfort Tomsen hatte das Inselhaus in Norwood erst erworben, nachdem er für
-seine Tätigkeit als Warner ein Heim nötig hatte, das besondere Vorzüge besaß.
+seine Tätigkeit als *Warner* ein Heim nötig hatte, das besondere Vorzüge besaß.
 Bei der Besichtigung der kleinen Insel und der Reste des Norwood-Schlosses war
 ihm sofort aufgefallen, daß die Insel zum Teil aus verwittertem Fels bestand,
 und da die Villa mit den Ecken und Türmchen auf den Fundamenten der uralten
@@ -108,11 +108,11 @@ Ich legte den Hörer weg, und wir vier Männer schauten uns unsicher an. – „
 fährt zur Klinik?“, fragte der Baronett finster. „Es ist ein Wagnis … Die
 Schwester kann womöglich doch den Arzt vom Nachtdienst benachrichtigen, und …“
 
-„Ich fahre!!“ Am Eingang der Seitengrotte stand Vivian Varran, etwas blaß, aber
+„*Ich* fahre!!“ Am Eingang der Seitengrotte stand Vivian Varran, etwas blaß, aber
 mit einem entschlossenen Zug um den Mund. „Ja, ich fahre! Erlauben Sie mir
 bitte dies wenige für den Mann zu tun, der mich seit langem zart umworben hat
 und den ich nicht erhören durfte, weil … der Andere mich in den Klauen hatte …
-Der Andere, – er, – ein Nichts, nie zu fassen, ein Phantom, trotzdem mein
+Der Andere, – *er*, – ein Nichts, nie zu fassen, ein Phantom, trotzdem mein
 grausamer Gebieter, nie mein Geliebter, nur … mein menschgewordenes Entsetzen,
 mein Vampir, – – eine ständige Todesdrohung seit einer Nacht, in der er auf
 einem Maskenfeste mich in den Wintergarten lockte und …“ – sie preßte beide
@@ -122,7 +122,7 @@ drehten, die Schreckensszenen herbeiführte, jene ungeheuerlichen Grausamkeiten,
 die …, – doch das erzähle ich Ihnen später … – Mr. Bickfort, geleiten Sie mich
 zum Schuppen, wo Ihr Auto steht … Meine Anwandlung von Schwäche ist bereits
 vorüber … Ich werde selbst steuern, ich hole das Paket, denn – – mein Haß wird
-mich schützen …! Wo eine Gelegenheit gegeben ist, Beweismaterial gegen ihn
+mich schützen …! Wo eine Gelegenheit gegeben ist, Beweismaterial gegen *ihn*
 zusammenzutragen, wo ich außerdem Pellore schützen kann, wage ich alles. Mr.
 Bickfort, – – Perücken, Schminken haben Sie ja reichlich hier. In wenigen
 Minuten bin ich fertig, – nur schnell, schnell … Ich will handeln, – – ich

@@ -102,7 +102,7 @@ auseinanderzukommen, schärfte meine Sinne bis zu jener verschwommenen Grenze,
 wo der Instinkt des Halbwilden, auf den ich immer wieder hinweisen muß, in die
 Erscheinung tritt.
 
-Zwei scheinbar behaglich rauchende Männer, – wer uns so gesehen hätte, würde
+Zwei scheinbar behaglich rauchende Männer, – wer uns *so* gesehen hätte, würde
 nie etwas Arges vermutet haben.
 
 Mein Respekt vor der verbrecherischen Intelligenz des großen Unbekannten war
@@ -127,7 +127,7 @@ dürfte das bekannt sein.“
 „Bitte …“ Er reichte mir ein druckfrisches Blatt und füllte dann die Gläser mit
 Whiskysoda.
 
-Baronett Roger Sheffield offenbar ermordet und die Mauritiusmarke gestohlen.
+> __Baronett Roger Sheffield offenbar ermordet und die Mauritiusmarke gestohlen.__
 
 Die Überschrift überraschte mich nur wegen der Mauritiusmarke, die ja einen
 phantastischen Wert hatte. Der Inhalt bot mir nichts Neues. Sheffield sollte
