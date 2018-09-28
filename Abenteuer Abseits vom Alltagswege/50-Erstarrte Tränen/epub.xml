@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">0d6c2f3a-c351-11e8-a1a3-efafee997b96</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Erstarrte Tränen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Abenteuer abseits vom Alltagswege</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">50</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Wenn all die Tränen, die durch die Ruchlosigkeit der Menschen armen, schuldlosen Wesen je über die verhärmten Wangen flossen, wirklich zu glasklaren Edelsteinen erstarren sollten, die dann beim großen Weltgericht in die Wagschale der Übeltäter gelegt würden, damit diese Wagschale tief herabsinke und die Schuldigen erdrücke, würde bei dieser allerletzten Abrechnung über Gut und Böse schließlich ein Berg von Diamanten aufgehäuft werden, der noch die Höhe des Gaurisankar überträfe …“
+
+… Das einsame Mädchen, das diese Sätze aus einem zerlesenen Buche nochmals mit bitterem, ungläubigem Lächeln überflog, warf das Buch nach kurzem Nachsinnen in den hellen Wüstensand und stützte von neuem das zarte Kinn in die kleine braune Hand und starrte trostlos in das erlöschende Lagerfeuer.
+
+Das Mädchen glaubte an keine Gerechtigkeit mehr, glaubte weder an Gott noch an die gütig waltende Vorsehung …
+
+Dieses einsame junge Weib hier vor dem zerlöcherten Zelte und neben dem müden, schläfrigen Pferde glaubte nur noch an eins: An sich selbst!!
+
+Die Menschen hatte sie hassen und verachten gelernt, die Menschen kannte sie nur als ihre heimtückischen Peiniger und Verfolger. Sie wußte genau: Wenn sie sich selbst nicht half und nicht zäh und unbeugsam und tapfer blieb wie bisher, dann gab es keine Hoffnung mehr für sie.
+
+Keine …! – Sie hörte dort unten jenseits des Dornengeheges ihres armseligen Lagerplatzes das Keifen und Knurren der kleinen Bestien, sie vernahm weiter den tiefen Orgelton der umherstreifenden Löwen …
+
+Und – sie hatte nicht eine einzige Patrone mehr für Büchse oder Pistole …
+
+Nicht eine …</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Olaf Karl Abelsen</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Abelsen, Olaf Karl</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Abelsen, Olaf K. - (50) Erstarrte Tränen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1933</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h3</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
