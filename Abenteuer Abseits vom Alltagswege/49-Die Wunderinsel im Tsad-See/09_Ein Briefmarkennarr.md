@@ -2,7 +2,7 @@
 <h3>Ein Briefmarkennarr.</h3>
 
 „Seine Gnaden bedauern, Sie nicht empfangen zu können“, sagte der alte, würdige
-Hausmeister in der vornehmen Diele des Sheffield- Palais am nächsten Mittag zu
+Hausmeister in der vornehmen Diele des Sheffield-Palais am nächsten Mittag zu
 mir. „Seine Gnaden sind erst heute früh aus Berlin vom Kongreß des
 Internationalen Briefmarkensammlerbundes zurückgekehrt und haben mit dem
 Einordnen der neuen Marken noch tagelang zu tun.“

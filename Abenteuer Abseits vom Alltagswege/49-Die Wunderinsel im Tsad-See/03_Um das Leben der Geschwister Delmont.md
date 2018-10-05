@@ -39,7 +39,7 @@ nicht. Das miserable Pflaster und die armseligen Mietskasernen weckte in mir
 berechtigte Zweifel, ob hier Leute vom Schlage der weltberüchtigten Geschwister
 Delmont Quartier beziehen würden.
 
-Das Auto hielt, und der alte Herr flüsterte mir zu: „Mr. Abelen, ich bin leider
+Das Auto hielt, und der alte Herr flüsterte mir zu: „Mr. Abelsen, ich bin leider
 zu alt, um mich auf gefährliche Unternehmungen einlassen zu können. Mein lahmes
 Bein behindert mich außerdem zu sehr, ich wäre Ihnen nur ein Hemmschuh. Sehen
 Sie zu, was Sie allein ausrichten können. Es genügt, wenn Sie diesen Brief den

@@ -39,7 +39,7 @@ Ich hatte mich gegen zehn Uhr aus dem Hotel, wo ich sowie die mir zugeteilten dr
 <!-- Inhaltsverzeichnis generieren? (true/false) -->
 <entry key="toc">true</entry>
 <!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
-<entry key="toc-entries">h2</entry>
+<entry key="toc-entries">h3</entry>
 <!-- Liste von weiteren Dateien -->
 <entry key="additional-media"></entry>
 </properties>

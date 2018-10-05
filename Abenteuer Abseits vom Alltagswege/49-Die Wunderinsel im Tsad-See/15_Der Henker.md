@@ -30,7 +30,7 @@ Endlich, endlich war es so weit.
 Ich zielte, drückte ab …
 
 Ich feuerte viermal, – die Limousine, die nun mit schlappen Reifen lief,
-versagte allmählich. – und hinter ein paar vereinzelten Landhäusern rutschte
+versagte allmählich. – Und hinter ein paar vereinzelten Landhäusern rutschte
 sie in einer Kurve seitwärts, schmetterte hinten gegen einen Baum und glitt in
 den Chausseegraben.
 
