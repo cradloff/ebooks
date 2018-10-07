@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">b53a9588-c1c3-11e8-a982-174a49b4da74</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Schattenbilder</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">19</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Schattenbilder
+
+Die Heimat grüßte uns — die Elbe, Cuxhaven, dann Hamburg! Wir waren wieder daheim! Unsere indischen Abenteuer waren beendet. Dr. Doogston-Warbatty, den wir zunächst für ein Verbrechergenie von unerhörter Rücksichtslosigkeit gehalten hatten und der doch nur das willenlose Werkzeug eines mit teuflischer Schlauheit ausgestatteten anderen Mannes gewesen, war nicht mehr!
+
+Dafür hatten wir nun einen anderen Gegner zu fürchten, einen, gegen den Warbatty ein Nichts bedeutete: Jenen James Palperlon, der den Doktor Reginald Doogston wie eine Marionette durch hypnotische Willensbeeinflussung in schändlichster Weise für seine Zwecke ausgenutzt hatte. —
+
+Die Leser meiner Berichte über Harald Harsts Orientabenteuer werden sich auf den Ausgang unseres Kampfes gegen Warbatty—Palperlon noch besinnen. Palperlon war uns entschlüpft. Sein Abschiedsgruß für meinen Freund Harst war vielsagend genug gewesen:
+
+»Hüte Dich! Ich bin stets um Dich!«
+
+Das Gespensterwrack
+
+Es war Abend nach der aufregenden Nacht, in der wir dem Tode nur durch Harald Harsts kühle, klare Ueberlegung entgangen waren. Wir saßen zu dreien auf der Gartenterrasse des Harstschen Hauses: Frau Auguste Harst, Freund Harald und ich. Soeben hatte in dem hinter der Terrasse gelegenen Speisezimmer die Standuhr sieben geschlagen; soeben hatte die besorgte Mutter ihren Einzigen abermals flehentlich lich gebeten, für einige Zeit Berlin zu verlassen, hatte noch hinzugefügt: »Harald, ich gebe Dich ja so ungern wieder ab, wo Du kaum erst nach einjähriger Abwesenheit aus Indien zurückgekehrt bist. Aber ich werde die Angst nicht los, daß dieser entsetzliche Palperlon noch in Berlin weilt, Dir auflauern und Dich beseitigen wird. — Harald — ich flehe Dich an: reise irgendwohin bleibe vierzehn Tage an einem Orte, wo Du sicher bist, und dann —«
+
+»Dann?« unterbrach er sie und streichelte ihre Hand. »Dann Mutter — dann hat sich nichts geändert, nichts. Palperlon wird mich ebensowenig vergessen wie ich ihn. Wir haben eine große Rechnung miteinander zu begleichen. Er ist mein Schuldner und sein Konto ist riesengroß belastet. Er ist der Schuldner der ganzen zivilisierten Menschheit. Er hat Morde über Morde verübt: er ist eine schlaue Bestie, vielleicht die schlaueste die je in Menschengestalt über diese Erde wandelte.  Ich bin es meinem Rufe schuldig ihn unschädlich zu machen. — Nein — Mutter, verreisen werde ich nicht. Aber ich verspreche Dir —«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (019) Schattenbilder.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1920</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>

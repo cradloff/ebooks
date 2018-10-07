@@ -89,6 +89,14 @@ a.refnote {
 	letter-spacing: 0.25em;
 }
 
+.strong {
+	font-weight: bold;
+}
+
+.em {
+	font-style: italic;
+}
+
 /* zentrierter Text */
 .centered {
 	text-align: center;
