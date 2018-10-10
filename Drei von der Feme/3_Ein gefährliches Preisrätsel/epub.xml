@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">e819a0c8-ccce-11e8-aa84-732c9db96ee6</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein gefährliches Preisrätsel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Drei von der Feme</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">3</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der kleine Pavillon im Ostwinkel des Londoner Hyde-Park, berühmt durch die wundervollen Rhododendronbüsche, die ihn farbenfroh umgeben, war an diesem dunstigen Maitage das Ziel dreier Herren, die aus verschiedener Richtung wie von ungefähr zur selben Zeit sich dem versteckten Plätzchen näherten und dann auf den Klappstühlen sich niederließen, ihre Zigaretten anzündeten und gleichgültig mit kühler Reserviertheit aneinander vorüber in den Regen hinausblickten, der in dünnen Fäden vom bleigrauen Himmel herunterrann.
+
+Sie waren gleichmäßig diskret-vornehm gekleidet, diese eleganten Nichtstuer, und als ein Bettler die Pavillontreppe emporhumpelte, warfen sie nachlässig dem alten Manne ein paar Schillingstücke zu. – Sie hatten ein sehr feines Verständnis für echte und für erheuchelte Bedürftigkeit, und als der Greis sich mit scheuem Staunen über die reichen Gaben entfernt hatte, sagte der Jüngste von ihnen mit eigentümlich gedämpfter Stimme:
+
+„Wir haben uns seit vorgestern nicht gesprochen. Einige Verdachtsmomente liegen wohl vor, daß Seymour Flox mit dem flüchtigen Bankräuber Sylvester Blooc identisch sein mag. Bestimmtes konnte ich nicht in Erfahrung bringen. Es existieren keine Fotografien von Blooc, und die Angaben über seine Person sind sehr widerspruchsvoll.“
+
+„Jedenfalls ist es ein Schwindler“, meinte unser Freund Roger Sheffield harten Tones. „Er ist reif für die Feme, denke ich. Das Preisrätsel ist Humbug, und gerade die Minderbemittelten werden darauf hineinfallen, lieber Bick.“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Max Schraut</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Schraut, Max</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Schraut, Max - (3) Ein gefährliches Preisrätsel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1933</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h3</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
