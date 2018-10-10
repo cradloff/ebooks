@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">e819a0c8-ccce-11e8-aa84-732c9db96ee6</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Mäusebussard von Norwood</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Drei von der Feme</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">2</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die altertümliche Stutzuhr mit dem schweren Pendel schlug plötzlich mit hellem Glockenton sehr rasch sieben Schläge, obwohl es längst nach neun Uhr abends war.
+
+Ich blickte überrascht von meiner Arbeit auf, die sich mit den bisherigen Feststellungen im Raubvogel-Fall beschäftigte, und nahm den seltsam geformten Pendel aus dem unten offenen Uhrgehäuse heraus, wickelte gleichzeitig eine seidene Doppellitze ab und meldete mich mit dem für heute vereinbarten Kennwort „Walker“.
+
+Klar und doch gedämpft drang Freund Bickforts Stimme an mein Ohr
+
+„Sie hat die fünfzig Pfund erhalten. Nachher sah ich, daß sie an einer Haustür lehnte und weinte …“</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Max Schraut</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Schraut, Max</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Schraut, Max - (2) Der Mäusebussard von Norwood.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1933</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h3</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
