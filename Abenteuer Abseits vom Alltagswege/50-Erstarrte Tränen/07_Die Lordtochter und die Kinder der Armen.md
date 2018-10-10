@@ -13,11 +13,11 @@ erörtert worden wie die eilige Abreise der drei Sromwell-Töchter zu einer
 streng geheim gehaltenen Expedition. Es hatte mich wenig Mühe gekostet, besagte
 Namen bei einer Zeitungsredaktion unter einem Vorwand zu erfahren.
 
-> __Lilian Dorvester__
+__Lilian Dorvester__
 
 und
 
-> __Leslie Pollingham.__
+__Leslie Pollingham.__
 
 In dem riesigen alten Kamin brannte ein mächtiges Feuer aus Buchenklötzen und
 Steinkohlen, und hier oben unter der Saaldecke war es so heiß, daß wir, obwohl
@@ -81,7 +81,7 @@ zwischen euch drei Kindern und der zweiten Gattin das große Millionenvermögen
 gleichmäßig verteilt. Niemand kam dabei zu kurz. Sein Testament betont dies.
 Eure Stiefmutter erbte genau wie jede von euch Töchtern anderthalb Millionen
 Pfund. Die geborene Mallison kann von diesem Vermögen selbst bei
-verschwenderischster Lebensführung kaum die Zinsen verbrauchen, – Also – – wo
+verschwenderischster Lebensführung kaum die Zinsen verbrauchen. – Also – – wo
 sind die Gründe zu diesem Verbrechen?! – Bitte, lasse mich fortfahren, May. Als
 ihr euren Vater aus dem Hause wieder auf eine seiner Expeditionsreisen gehetzt
 hattet, blieb er volle neun Monate der Heimat fern, kehrte eines Nachts mit

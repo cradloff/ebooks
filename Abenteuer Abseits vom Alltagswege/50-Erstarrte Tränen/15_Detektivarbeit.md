@@ -201,7 +201,7 @@ Gregorell verschwunden, der Verlobte der gleichfalls verschwundenen Miß May
 Sromwell, – den Fall Sromwell werden Sie aus den Zeitungen kennen, meine Herren
 …“
 
-„Natürlich, nickte Bickfort mit halbem Gähnen. „Man müßte diese Feme der drei
+„Natürlich,“ nickte Bickfort mit halbem Gähnen. „Man müßte diese Feme der drei
 aufknüpfen, Sir Morstan … Die Leute tragen nur Unruhe und vollkommen verkehrte
 Rechtsbegriffe in die Massen …“
 

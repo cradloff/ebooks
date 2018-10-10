@@ -25,6 +25,6 @@ __Vierzehntägig ein neuer Band.__
 Wir bitten unsere Leser herzlichst, unserer neuen Ausgabe treu zu bleiben und
 diese bei ihrem Buchhändler zu verlangen.
 
-<p style="font-size: x-large; text-alignment: right;"><strong>Der
+<p style="font-size: large; text-alignment: right;"><strong>Der
 Verlag.</strong></p>
 

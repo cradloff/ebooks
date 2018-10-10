@@ -32,7 +32,7 @@ riesiger Diplomatenschreibtisch vor einem Erkerfenster seinen Platz hatte.
 
 Als sie sich in den Schreibsessel setzte, quollen wiederum Wolken von Staub in
 die Höhe, und sie saß da wie eine finstere Gottheit, deren Thron von
-Weihrauschschwaden umgeben ist.
+Weihrauchschwaden umgeben ist.
 
 Erst nach einer Weile entnahm sie einem Geheimfach der Mittelschublade ein
 dünnes Heftchen und schob es in ihren grauen Mantel.

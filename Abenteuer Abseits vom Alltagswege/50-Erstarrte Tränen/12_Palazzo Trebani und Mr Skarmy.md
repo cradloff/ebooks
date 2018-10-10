@@ -1,4 +1,4 @@
-<p style="font-size: xx-large;">Zweiter Teil</p>
+<p style="font-size: xx-large; text-align: center;">Zweiter Teil</p>
  
 <h1>Mephisto.</h1>
 

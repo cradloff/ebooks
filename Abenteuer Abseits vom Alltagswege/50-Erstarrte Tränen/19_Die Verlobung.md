@@ -104,7 +104,7 @@ persönlich, ein Beweis, daß er genau wußte, worum es ging.
 Gefühl, das Geld wieder in jene Taschen zurückfließen zu lassen, aus denen es
 aus den Tresors der Skarmy-Bank heimtückisch abgeleitet wurde. – Ich werde dann
 also die Annoncen besorgen … Wo treffen wir uns nachher? Du hast doch für diese
-Nacht noch sicherlich war vor, Olaf?“
+Nacht noch sicherlich was vor, Olaf?“
 
 „Allerdings …!“
 
@@ -203,5 +203,5 @@ Olaf?“
 
 „Acht … Und Morstan hatte Glück, er hat nur den Verschluß der einen beim
 Absturz für kurze Zeit niedergedrückt. – Entschuldige mich … Ich muß nach
-unten. Mephistos Zimmer interessiert mich zu sehr“
+unten. Mephistos Zimmer interessiert mich zu sehr.“
 

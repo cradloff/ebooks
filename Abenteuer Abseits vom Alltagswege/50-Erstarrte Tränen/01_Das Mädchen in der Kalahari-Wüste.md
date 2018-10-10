@@ -1,7 +1,7 @@
 <h2>Vorspiel …</h2>
 <h3>Das Mädchen in der Kalahari-Wüste.</h3>
 
-Wenn all die Tränen, die durch die Ruchlosigkeit der Menschen armen,
+„Wenn all die Tränen, die durch die Ruchlosigkeit der Menschen armen,
 schuldlosen Wesen je über die verhärmten Wangen flossen, wirklich zu glasklaren
 Edelsteinen erstarren sollten, die dann beim großen Weltgericht in die
 Wagschale der Übeltäter gelegt würden, damit diese Wagschale tief herabsinke
