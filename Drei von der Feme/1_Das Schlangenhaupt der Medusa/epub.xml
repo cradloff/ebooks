@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (https://www.famkruithof.net/uuid/uuidgen) -->
+<entry key="UUID">c5952e30-ccc1-11e8-804f-13afb34a77fc</entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Schlangenhaupt der Medusa</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Drei von der Feme</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">1</entry>
+<!-- Sprache -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Zuhörerraum des Gerichtssaales war überfüllt. Eine stickige, verdorbene Luft lagerte über der gespannt lauschenden Menge, die von den juristischen Ausführungen des Kronanwalts nur so viel verstand, daß die Klägerin keineswegs einwandfrei habe nachweisen können, daß sie mit dem ohne testamentarische Erben Verstorbenen trotz des gleichlautenden Namens Gorrison entfernt verwandt gewesen sei.
+
+Frau Mary Gorrison saß mit ihrer Tochter Bessie neben ihrem Rechtsanwalt, und mit totenblassem, verhärmtem Gesicht und mit scheu zu Boden geschlagenen Augen vernahm sie die harten, unerbittlichen Worte, die ihr ganz offen den Vorwurf machten, sie habe sich das Armenrecht und die amtliche Zuweisung eines Verteidigers nur durch die Behauptung erschlichen, daß sie Urkunden besäße, die ihre Blutsverwandtschaft mit Thomas Gorrison bestätigen würden.
+
+„Hinterher hat die Klägerin dem Gericht das Märchen aufgetischt“, fuhr der Kronanwalt als Vertreter des Staates, der mangels anderer Erben den Nachlaß für sich beanspruchte, noch eisiger fort, „daß ihr diese Urkunden gestohlen worden seien. Ich beantrage daher auch jetzt im Berufungsverfahren Abweisung der Klage und stelle der Staatsanwaltschaft anheim, gegen die Klägerin wegen Betrugsversuches ihrerseits vorzugehen.“
+
+Frau Gorrison begann nach diesen letzten Sätzen, die noch eine Bestrafung androhten, leise zu schluchzen, preßte die Hände vor das Gesicht und lehnte sich matt und kraftlos an ihre Tochter, die mit seltsam starrem Antlitz immer nur zur Seite in den Zuhörerraum blickte, wo in der vordersten Bank ein unauffällig-elegant gekleideter Herr mit einer dunklen Hornbrille saß, während hinter ihm zwei andere Männer, die sich nicht zu kennen schienen, mit genau derselben Aufmerksamkeit dem Gange der Verhandlung folgten.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Max Schraut</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Schraut, Max</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Schraut, Max - (1) Das Schlangenhaupt der Medusa.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre, Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Action &amp; Adventure</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1933</entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis generieren? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen erstellen -->
+<entry key="toc-entries">h3</entry>
+<!-- Liste von weiteren Dateien -->
+<entry key="additional-media"></entry>
+</properties>
