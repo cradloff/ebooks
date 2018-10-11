@@ -19,7 +19,7 @@ schändlichster Weise für seine Zwecke ausgenutzt hatte. —
 
 Die Leser meiner Berichte über Harald Harsts Orientabenteuer
 werden sich auf den Ausgang unseres Kampfes
-gegen Warbatty—Palperlon noch besinnen. Palperlon war uns
+gegen Warbatty-Palperlon noch besinnen. Palperlon war uns
 entschlüpft. Sein Abschiedsgruß für meinen Freund Harst
 war vielsagend genug gewesen:
 
@@ -53,7 +53,7 @@ gerade wieder auf das Deck hinabsteigen, als einer der
 Stewards des Schiffes die Treppe emporeilte in der Hand
 ein briefähnliches Päckchen.
 
-»Für Sie Herr Harst,« erklärte er atemlos. »Der Ueberbringer
+»Für Sie Herr Harst,« erklärte er atemlos. »Der Ueberbringer,
 ein Dienstmann sagte, es eile sehr.«
 
 Harst wog das schmale, in einem gelben Umschlag steckende
@@ -158,7 +158,7 @@ welche Dinge sehen, die wohl imstande sind, das Leben aus
 Menschenaugen scheinbar zu verdrängen. Der Blick war tot,
 und doch lag darin eine namenlose Angst.
 
-»Harst « sagte ich abermals.
+»Harst,« sagte ich abermals.
 
 Seine Linke umkrallte plötzlich meinen Arm.
 
@@ -330,7 +330,7 @@ nannte seinen Namen.
 
 »Mein Begleiter dort ist mein Freund Schraut,« fügte er
 hinzu. »Vielleicht sind unsere Namen Ihnen nicht ganz fremd.
-Ich bin der »als Liebhaberdetektiv einigermaßen bekannte
+Ich bin der als Liebhaberdetektiv einigermaßen bekannte
 Harst. Hier ist mein Ausweis nebst Photographie — bitte!«
 
 Er hatte das amtliche Papier seiner Brieftasche entnommen.
@@ -353,7 +353,7 @@ Harst nun lebhaft. »Wir haben keine Frau überfahren. Mein
 Wort darauf, Herr von Tondra. Ich habe es sehr eilig. Ich
 muß unbedingt nach Berlin. Meiner Mutter ist etwas zugestoßen.
 Ich verpflichte mich morgen wieder hier zu sein und
-diesen heimtückischen Streich, dessen Hauptopfer ich bin aufzuklären.«
+diesen heimtückischen Streich, dessen Hauptopfer ich bin, aufzuklären.«
 <@pagebreak/>
 
 »Was heißt das, Herr Harst?« fragte Tondra kopfschüttelnd.
@@ -390,7 +390,7 @@ Chaussee in ein Tal hin ab. Und hier lag an einem kleinen
 See das Dorf Moscheln. —
 
 Ich möchte hier einflechten, daß ich Personen- und Ortsnamen
-in diesen Auszeichnungen über Harsts Abenteuer zumeist
+in diesen Aufzeichnungen über Harsts Abenteuer zumeist
 verändert habe. Nur wo hierzu keinerlei Grund vorlag,
 benutzte ich die richtigen Namen. Man wundere sich also
 nicht, wenn man Moscheln und so weiter auf keiner Karte
@@ -441,7 +441,7 @@ mehr in Moscheln. Aber er kommt übermorgen zurück. Er
 wollte nur in der Kreisstadt etwas einkaufen und ist mit
 seinem Rade vor einer halben Stunde —«
 
-Harst winkte ab. »Dachte ich mir! — Er wird nicht zurückkehren
+Harst winkte ab. »Dachte ich mir! — Er wird nicht zurückkehren,
 Herr Hecht! — Ob er seine Sachen, Koffer und so
 weiter, mitgenommen hat?«
 
@@ -640,7 +640,7 @@ dann, er könne die Verhaftung nicht aufrecht erhalten.
 
 Wir waren frei. Kurz nach fünf Uhr nachmittags bei
 einbrechender Dämmerung fuhren wir weiter. Unser Abschied
-von den Herren, die wir in Moscheln zurückliesen, waren
+von den Herren, die wir in Moscheln zurückliesen, war
 herzlich. Harst hatte dem Amtsrichter noch versprochen, den
 Mord an der Unbekannten, sobald es seine Zeit irgend erlaube,
 aufklären zu wollen, falls die zuständigen Behörden bis dahin
@@ -668,7 +668,7 @@ spurlos verschwunden,« preßte er ganz heiser hervor. »Und —
 <@pagebreak/>
 sie trug gestern wie immer die Gemmebrosche! Also — James
 Palperlon —! Er — er hat sie — entführt, er hat
-sie in seiner Gewalt, er wird mich nun zwingen von ihm abzulassen
+sie in seiner Gewalt, er wird mich nun zwingen von ihm abzulassen,
 sonst — sehe ich meine Mutter nicht wieder!«
 
 * * *
@@ -724,7 +724,7 @@ angerufen und ihn gefragt, was sie wohl unter diesen
 Umständen, die doch darauf hindeuteten, daß Frau Harst
 etwas zugestoßen sei, tun solle.
 
-Mittlerweile war es - ¼ 10 abends geworden. Bechert hatte
+Mittlerweile war es ¼ 10 abends geworden. Bechert hatte
 Malwine den Rat gegeben, ihrerseits gar nichts zu unternehmen;
 er würde das Nötige veranlassen.
 
@@ -768,7 +768,7 @@ uns vis\-a\-vis schon fertig und auch zum Teil schon bezogen
 ist. Da ich oben in der Giebelstube jetzt schlafe — nach vorn
 <@pagebreak/>
 heraus, kann ich auch das Fenster des Ateliers bequem beobachten,
-das in dem Neubau Nr 14 ganz oben sich befindet.
+das in dem Neubau Nr. 14 ganz oben sich befindet.
 Dieses schräge Riesenfenster mit seinen Mattscheiben war nun
 bis vor acht Tagen abends nie erleuchtet, — also wohl kaum
 bewohnt, dachte ich mir. Aber dann sah ich plötzlich Licht hinter
@@ -865,7 +865,7 @@ nickte dem hageren Jungen freundlich zu. »Ich kenne Dich ja,
 Karl. Gewiß, Du besitzt eine recht lebhafte Phantasie und witterst
 wohl häufiger hinter alltäglichen Dingen allerlei Geheimnisse,
 die gar nicht vorhanden. Aber Du hast auch so oft
-als mein begeisterter Gehilfe so Vortreffliches geleistet daß ich
+als mein begeisterter Gehilfe so Vortreffliches geleistet, daß ich
 nichts unbeachtet lasse, was Du belauscht zu haben glaubst.
 Erzähle also!«
 
@@ -1041,7 +1041,7 @@ Sport als Liebhaberdetektiv aufzugeben.
 
 > Näheres über die Art, wie Sie mir die Million zustellen,
 sollen, erfahren Sie, sobald ich Ihre Entscheidung kenne.
-Aus Unterhandlungen lasse ich mich nicht ein. — Antworten
+Auf Unterhandlungen lasse ich mich nicht ein. — Antworten
 Sie mir dadurch, daß Sie an das rechte Fenster Ihres Arbeitszimmers
 vor die rechte untere Scheibe einen grünen Zweig
 deutlich sichtbar aufhängen. Dann weiß ich, daß Sie mit allem
@@ -1050,8 +1050,8 @@ einverstanden sind.
 > Erscheint der Zweig bis morgen mittag 12 Uhr nicht,
 so sende ich Ihnen etwas zu, das Sie überzeugen wird, wie
 wenig ich leere Drohungen ausspreche. — James Palperlon.
-<@pagebreak/>
 
+<@pagebreak/>
 »Unerhört!« rief Bechert erregt. »Ich wünschte ich hätte
 diesen Schurken —«
 
@@ -1151,7 +1151,7 @@ Nadel, bevor er ihr die Brosche abnahm, die Worte als Hinweis
 eingeritzt, wo sie sich befindet. Ich sah diese sehr undeutliche
 Schrift bereits auf dem Dampfer in unserer Kabine. Aber
 da blieben mir diese »In Ale hier« ein Rätsel. Jetzt ist das
-Rätsel gelöst!« — Er sprach lebhaft und angeregt .
+Rätsel gelöst!« — Er sprach lebhaft und angeregt.
 
 Bevor ich noch etwas fragen konnte, erschien Malwine
 und rief uns nach oben zum Abendbrot.
@@ -1328,7 +1328,7 @@ heißt’s:
 
 also »In Atelier«, — ergänzt: »Ich werde in einem Atelier
 gefangengehalten!« Ich gebe zu, daß ich ebenfalls zunächst
-»In Eile hier« entziffert hatte. Erst als Karl unser prächtiger
+»In Eile hier« entziffert hatte. Erst als Karl, unser prächtiger
 Karl, von den Schatten auf dem Atelierfenster sprach, von
 dem Atelier eben, das im Hause gegenüber vermietet worden
 war, da kam mir die erste Erleuchtung, — nein, die zweite!
@@ -1452,7 +1452,7 @@ hatte schon einen gellenden Hilferuf auf den Lippen.
 Da schlug ich mit dem Hinterkopf gegen die Eiseneinfassung
 des Klappfensters; ein stechender Schmerz im Schädel raubte
 mir für Sekunden halb die Besinnung. Ich prallte unten auf
-etwas Weiches Federndes auf.
+etwas Weiches, Federndes auf.
 
 Und da wurde es taghell um mich. Die drei großen,
 hängenden Birnen des Ateliers waren eingeschaltet worden.
@@ -1499,7 +1499,7 @@ haben würde, als sie auf dem Nachbardach lagen. Wir konnten
 also alles zu Ihrem Empfang vorbereiten. Immerhin ist
 Ihr Erscheinen hier recht störend. — Da ich mit Ihnen einiges
 zu besprechen habe, frage ich, ob Sie mir Ihr Wort geben
-wollen, nicht um Hilfe Zu rufen, wenn ich Ihnen den Knebel
+wollen, nicht um Hilfe zu rufen, wenn ich Ihnen den Knebel
 abnehme.«
 
 Harst nickte. Der Freund Miß Mauds befreite ihn dann
@@ -1555,7 +1555,7 @@ Befehl! — Kein Wunder also, daß ich mich entschloß, mich
 hier genauer umzusehen. Und als Sie dann meinen Freund
 Schraut so kunstgerecht fesselten, da merkte ich, daß die Miß
 Simpkinson ein Mann war. Auch Ihre halbe Fistelstimme
-deutete darauf schon bin. — Dieser Mann, der so vorsichtig
+deutete darauf schon hin. — Dieser Mann, der so vorsichtig
 und so geschickt sich unter Weiberkleidern verbirgt, kann nur
 James Palperlon sein.«
 
@@ -1638,7 +1638,7 @@ Harst den Knebel wieder in den Mund geschoben hatte, hinterlistig
 beseitigte.
 
 »Gehen wir ins Nebenzimmer und beraten wir erst,« hatte
-er zu dein Ahnungslosen gesagt. »Harst muß jedoch wieder
+er zu dem Ahnungslosen gesagt. »Harst muß jedoch wieder
 den Knebel bekommen.«
 
 Und dann — dann schritt der Andere der Tür zu; dann
@@ -1753,7 +1753,7 @@ gebliebenen Glasstücke hinunter in den Hof beförderten, wo
 sie klirrend zerschellten und den im Erdgeschoß nach hinten
 heraus schlafenden Magistratssekretär Neumann weckten,
 wie dieser, Einbrecher vermutend, mit dem Portier der Ursache
-der Fensterbeschädigungen nachspürte wie sie zuerst
+der Fensterbeschädigungen nachspürte, wie sie zuerst
 nichts entdeckten, dann sich aber sagten, nur oben in der
 <@pagebreak/>
 Atelierwohnung könnten die Fenster zertrümmert worden

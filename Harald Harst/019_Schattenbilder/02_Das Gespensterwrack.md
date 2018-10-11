@@ -63,10 +63,10 @@ Er schob sein Federmesser unter die Klappe und löste diese
 ohne Schwierigkeit.
 
 »Sehr flüchtig zugeklebt!« meinte er. »Auch das deutet
-aus eine Dame hin!«
+auf eine Dame hin!«
 
 Ich sah, daß der aus demselben elfenbeinfarbenen Papier
-bestehende Briefbogen ebenfalls mit Masschinenschrift bedeckt
+bestehende Briefbogen ebenfalls mit Maschinenschrift bedeckt
 war.
 
 Harst las halblaut vor:
@@ -79,8 +79,8 @@ Keineswegs! Ihr sogenannter Weltruhm als Detektiv ist
 ein Kind des Zufalls! Sie haben eben Glück gehabt bei
 Ihren Abenteuern, die Ihr »Leibdichter« Schraut der staunenden
 Menschheit zudem noch in einer Aufmachung in
-Gestalt von Erzählungen versetzt, die Ihr Genie stets dick
-unterstreicht — zu dick für Leute, die nicht gerade Vertrottelte
+Gestalt von Erzählungen vorsetzt, die Ihr Genie stets dick
+unterstreicht — zu dick für Leute, die nicht gerade vertrottelte
 Idioten sind!«
 
 »Eine Frechheit,« entschlüpfte es mir. Denn der »Leibdichter«
@@ -227,7 +227,7 @@ Nachmittags drei Uhr waren wir im Hafen von Vallö,
 machten an einem hölzernen Landungssteg fest und ließen
 zunächst von Kapitän Tiessen die nötigen Meldungen bei der
 dortigen Hafenpolizei erledigen. Wir blieben an Bord, saßen
-aus dem Kajütendeck unter dem jetzt ausgespannten Sonnensegel
+auf dem Kajütendeck unter dem jetzt aufgespannten Sonnensegel
 und tranken den vorzüglichen Kaffee, den Jakob Pedersen,
 zugleich auch unser Koch, gebraut hatte. Harst hatte
 Tiessen streng verboten, sich etwa in der Stadt nach dem Wrack
@@ -347,7 +347,7 @@ Auch Harst rief den Wirt herbei und wollte unsere Zeche
 begleichen.
 
 Der Wirt war noch immer erregt. »Eine wahre Plage
-ist’s mit dem verdammten Papiergeld.« sagte er, als Harst
+ist’s mit dem verdammten Papiergeld,« sagte er, als Harst
 ihm einen Fünfzigkronenschein reichte. »Der Oesterreicher
 dort, der alte Herr, der soeben mit seiner Frau wegging, ist
 auch wieder mit ein paar dieser leider nur zu tadellos nachgemachten
@@ -613,7 +613,7 @@ Kopfschatten eines Mannes, der eine Mütze trug.
 
 »Sie — Sie sind ein Deutscher?« forschte die Frau nun
 weiter. »Sie sprechen das Englische wenigstens mit jenem
-Akzent, wies alle Deutschen tun.«
+Akzent, wie’s alle Deutschen tun.«
 
 Harst verneigte sich zustimmend. »Sie haben richtig vermutet.
 — Welche Hitze heute,« fügte er hinzu und schaute nach
@@ -812,7 +812,7 @@ und fühlte daß sie nachgaben.
 Die Geheimtür hatte sich nach außen geöffnet. Dahinter
 gähnte ein dunkles Loch. Harst leuchtete hinein — »Ah,
 das hätte ich doch nicht erwartet!« dachte er. »Allerhand
-Achtung! Die Leute die sich diesen Schlupfwinkel ersonnen
+Achtung! Die Leute, die sich diesen Schlupfwinkel ersonnen
 haben, verdienen die höchste Anerkennung!«
 
 Das dunkle Loch war eine tiefe Aushöhlung in einem
@@ -918,14 +918,14 @@ Dann — ein Hochschnellen des Oberkörpers, — er war wieder
 zu sich gekommen, stierte in den Lichtschein der am Boden
 liegenden Taschenlampe, sah rote, grüne, violette Kreise,
 Sternchen, ganze Feuerräder, spürte das überhastete Arbeiten
-seiner Lungen, hörte ein donnerndes Brausen in seinen Ohren.
+seiner Lungen, hörte ein donnerndes Brausen in seinen Ohren,
 wollte aufspringen, schlug der Länge nach hin, raffte sich wieder
 auf, sah plötzlich vor sich die Truggestalten der drei Skelette
 einen wilden Tanz aufführen, riß in einem Anfall letzter,
 unsinniger Wut die Pistole aus der Tasche, feuerte auf die
 gegenüberliegende Wandung — auf die Gespenster.
 
-Ein Gedanke blitzte in dem Hirn dies Todgeweihten auf
+Ein Gedanke blitzte in dem Hirn des Todgeweihten auf
 — ein winziger Hoffnungsschimmer.
 
 Wieder hob er die Pistole. Die Kugel traf dieselbe Stelle.
@@ -990,7 +990,7 @@ Er horchte regungslos. Abermals ein Knall, — noch
 einer — noch einer — acht im ganzen.
 
 Wie gelähmt war er nun. Er ahnte, daß Harst in Gefahr
-war, — Harst, zu dem er wie zu einem höheren Wesen aufschaute
+war, — Harst, zu dem er wie zu einem höheren Wesen aufschaute.
 — Was tun — was nur tun?
 
 Er zauderte nur Sekunden. Dann — heran an das
@@ -1101,12 +1101,12 @@ Tür linker Hand auf, trat schnell ein. Wir drängten nach.
 »Guten Abend,« sagte Harst ruhig. »Rühren Sie sich
 nicht. Ich mache mit Mördern wenig Umstände.«
 
-Die Frau war mit leisem Schrei im ihrer Sofaecke zusammengesunken,
+Die Frau war mit leisem Schrei in ihrer Sofaecke zusammengesunken,
 richtete sich aber schnell wieder auf. Neben ihr
 saß ein gut gekleideter Mann mit blondem Spitzbart. Der
 glattrasierte Burton stand daneben an dem mächtigen Kachelofen.
 
-«Setzen Sie sich!« befahl Harst dem Maler. »Dort auf jenen
+»Setzen Sie sich!« befahl Harst dem Maler. »Dort auf jenen
 <@pagebreak/>
 Stuhl, neben Ihre Frau — vorwärts! Sonst —!« Er hob
 den Arm mit der mattierten Pistole.
@@ -1195,7 +1195,7 @@ mit deren Erscheinen auf der Insel sie rechneten, beim Landen
 mit einem Boote überrascht, niedergeschlagen und gefesselt
 und geknebelt in eine Kammer des Stalles eingesperrt hatten.
 Sie aber habe dann nachher die beiden ohne Wissen
-ihres Mannes befreit, und ihn so zu zwingen, mit ihr nunmehr
+ihres Mannes befreit, um ihn so zu zwingen, mit ihr nunmehr
 von hier zu fliehen. Als wir in das Zimmer eindrangen,
 hatte sie soeben den beiden Männern erklärt, daß die verkleideten
 Spione frei seien und daß man daher sofort flüchten
@@ -1214,7 +1214,7 @@ für Harst an Bord — von Lihin Omen!
 <@pagebreak/>
 Mal. Ich glaubte, schneller als Sie Burton und Barklay völlig
 entlarven zu können. Ich war auf die beiden Vallö dadurch
-aufmerksam geworden, daß Sie in der Eisbein—Kneipe
+aufmerksam geworden, daß Sie in der Eisbein-Kneipe
 heimlich das jüngere Ehepaar so scharf beobachteten, besonders
 den Ehemann! — Ja — ich habe sehr gute Augen; mir
 entgeht nichts! Im Hotel König Christian erfuhr ich dann,
@@ -1223,7 +1223,7 @@ Kinde Burton hieße, erfuhr noch anderes, das meinen gegen
 ihn gefaßten Verdacht bestärkte. — Sie haben mir also
 bei dieser Gespenstergeschichte hier den Rang abgelaufen! Ich
 werde die Scharte auswetzen! — Meine Frau ist mein Gehilfe,
-ein Mann, der Ihrem Max Schranke tausendfach über ist. Sie
+ein Mann, der Ihrem Max Schraut tausendfach über ist. Sie
 sollen uns beide schon noch kennen lernen! — Ihr leider vom
 Glück nicht so sehr begünstigter Konkurrent und Beschützer —
 Lihin Omen!«
