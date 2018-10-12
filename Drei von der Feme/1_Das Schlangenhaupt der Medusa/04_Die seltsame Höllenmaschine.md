@@ -111,7 +111,7 @@ selbst den Bedürftigsten mitleidslos ausplündern.
 
 Vater Bottler wollte seine Börse schnell verbergen, aber es war zu spät.
 
-„Her damit rief der eine der Gauner roh. „Und wenn ihr schreit, geht es euch
+„Her damit“, rief der eine der Gauner roh. „Und wenn ihr schreit, geht es euch
 schlecht! Ich bin mit der Pistole flink bei der Hand, die Polizei ist
 abgezogen, und bei dem Wind und Regen hört kein Mensch einen Schuß!“
 

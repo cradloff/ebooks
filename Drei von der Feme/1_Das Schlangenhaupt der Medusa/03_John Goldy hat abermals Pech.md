@@ -148,7 +148,7 @@ kannst du mir helfen, lieber Roger.“
 
 Die beiden schlicht-eleganten Herren trafen dann einen dritten, der sich in
 Park Lane die Schaufenster ansah und durchaus einem reichen Nichtstuer glich.
-Sie wechselten einige scheinbar belanglos Redensarten, trennten sich, und der
+Sie wechselten einige scheinbar belanglose Redensarten, trennten sich, und der
 Baronett betrat das Haus, in dem Mr. Baaker wohnte und fragte den Pförtner, ob
 hier eine Wohnung leer sei, der Diener Frau Harriet Tobalts habe hiervon
 gesprochen, – ja, der Diener, wie heiße er doch gleich …

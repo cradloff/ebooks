@@ -80,10 +80,7 @@ Es war ein mit zitternder Hand geschriebener Zettel:
 
 > Mein liebes, armes Kind,
 
-> wenn du diese Zeilen findest, bin ich hoffentlich bereits erlöst. Auch mich hat
-der Raubvogel auf dem Gewissen. Ich bin zu müde und mutlos, den Daseinskampf
-noch weiterzuführen. Verzeihe mir. Gute Menschen, so hoffe ich, werden für dich
-sorgen.
+> wenn du diese Zeilen findest, bin ich hoffentlich bereits erlöst. Auch mich hat der Raubvogel auf dem Gewissen. Ich bin zu müde und mutlos, den Daseinskampf noch weiterzuführen. Verzeihe mir. Gute Menschen, so hoffe ich, werden für dich sorgen.
 
 > Dein dich liebender Vater
 

@@ -94,15 +94,7 @@ enttäuscht auf dem Sofa in seinem Büro zugebracht. Morgens halb acht
 Lederbrieftasche voller Familienurkunden und ein auf gewöhnliches Papier
 getipptes Schreiben lagen.
 
-> „Mr. Goldy, wir erkennen die Geschicklichkeit, mit der Sie uns nachstellen,
-vollkommen an, daher übergeben wir auch Ihnen die Gorrison-Urkunden und sind
-bereit, Ihnen und Ihren Vorgesetzten den ganzen Fall Gorrison persönlich zu
-erläutern, falls uns freies Geleit zugesichert wird. Sollte das Ministerium
-hiermit einverstanden sein, so hängen Sie aus einem Fenster des Ostflügels von
-Scotland Yard die englische Flagge heraus, und wir werden uns pünktlich neun
-Uhr abends im Polizeipalast einfinden. – Bestellen Sie freundliche Grüße an Miß
-Bessie, an Geraldine, Jim und Baaker. Mit größter Hochachtung … Die Feme der
-Drei“
+> „Mr. Goldy, wir erkennen die Geschicklichkeit, mit der Sie uns nachstellen, vollkommen an, daher übergeben wir auch Ihnen die Gorrison-Urkunden und sind bereit, Ihnen und Ihren Vorgesetzten den ganzen Fall Gorrison persönlich zu erläutern, falls uns freies Geleit zugesichert wird. Sollte das Ministerium hiermit einverstanden sein, so hängen Sie aus einem Fenster des Ostflügels von Scotland Yard die englische Flagge heraus, und wir werden uns pünktlich neun Uhr abends im Polizeipalast einfinden. – Bestellen Sie freundliche Grüße an Miß Bessie, an Geraldine, Jim und Baaker. Mit größter Hochachtung … Die Feme der Drei“
 
 Abends neun Uhr saßen im Zimmer des Polizeipräsidenten ein Dutzend sehr hoher
 Herren um den Tisch und blickten erwartungsvoll auf die Tür.

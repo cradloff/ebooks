@@ -94,7 +94,7 @@ Mit starren Augen beobachtete sie das helle Lodern der Riesenfackel, die einst
 ihr Vaterhaus gewesen. Nur mit Aufbietung aller Energie vermochte sie sich von
 diesem trostlosen Bilde loszureißen. Aber der Gedanke, daß nun endlich all die
 Geheimnisse der letzten Wochen durch die Feme der Drei restlos geklärt werden
-würden, verliehen ihr doch: die Kraft, an der nächsten Haltestelle eine Taxe zu
+würden, verliehen ihr doch die Kraft, an der nächsten Haltestelle eine Taxe zu
 besteigen und dem Schofför völlig gefaßt das Pensionat Tommasen als Fahrtziel
 anzugeben. –
 
@@ -113,7 +113,7 @@ einem Koffer von einem Polizisten an der Taxenhaltestelle gesehen …“
 John Goldy rief fiebernd vor Eifer zurück: „Ich bin sofort bei Ihnen …! Lassen
 Sie feststellen, ob Miß Gorrison eine Taxe benutzt hat und welche …“
 
-Er griff nach seinem Mantel und Hut, warf noch einen flüchtigen Blicke in den
+Er griff nach seinem Mantel und Hut, warf noch einen flüchtigen Blick in den
 Spiegel, der ihm sein mageres, aber trotzdem recht angenehmes Gesicht zeigte,
 lächelte seinem Spiegelbild etwas selbstbewußt zu und sprach halblaut vor sich
 hin: „John Goldy, seit langem bist du nun auf der Fährte des Medusenhauptes!
@@ -205,7 +205,7 @@ Baronett Roger Sheffield, der Mann mit dem kantigen Gesicht und der stämmigen
 Figur, schüttelte langsam wie ungläubig den Kopf …
 
 „Welch’ eine Ruchlosigkeit!! Die Seuche hätte sich zweifellos noch weiter
-verbreitet! Und wer war der Schurke mir den Mäusen?“
+verbreitet! Und wer war der Schurke mit den Mäusen?“
 
 „Ich glaube, Jim Tobalt … Zumindest war die Ähnlichkeit sehr groß“, erwiderte
 ich zaudernd, denn trotz dieser Ähnlichkeit hegte ich einige Zweifel.

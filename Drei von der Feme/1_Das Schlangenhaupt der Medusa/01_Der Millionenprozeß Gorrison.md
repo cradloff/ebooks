@@ -43,7 +43,7 @@ immer stärker zitterte und immer kraftloser in sich zusammensank.
 „Der Anwalt der Klägerin hat das Wort“, sagte der Richter mit vollkommener
 Gleichgültigkeit. „Fassen Sie sich aber bitte kurz, Mr. Baaker, und halten Sie
 den Gerichtshof nicht unnötig lange auf.“ – Der Vorsitzende nahm wieder Platz,
-und der wohlbeleibte und redegewandte Mr. Harry Baaker, dessen, feistes
+und der wohlbeleibte und redegewandte Mr. Harry Baaker, dessen feistes
 bartloses Gesicht durch eine rote dicke Nase und einen schief sitzenden Klemmer
 und durch rötliches, gelocktes Haar, das an den Ohren ganze Büschel bildete,
 mehr komisch als würdevoll sich ausnahm, begann für seine Mandantin anscheinend
@@ -148,7 +148,7 @@ erregen begann.
 Unten auf der Straße hatte der Schutzmann eine Taxe herbeigewinkt und hielt die
 Tür geöffnet. Als erster mußte ich einsteigen, dann wollte der Oberinspektor
 sofort hinterdrein, aber ein älterer, weißbärtiger Herr, der auf der Treppe des
-Gerichtsgebäudes stand, rief mieten in das Stimmengewirr der Herausflutenden
+Gerichtsgebäudes stand, rief mitten in das Stimmengewirr der Herausflutenden
 hinein:
 
 „Hallo, Rechtsanwalt Baaker sucht einen Oberinspektor John Goldy …! Ist Mr.

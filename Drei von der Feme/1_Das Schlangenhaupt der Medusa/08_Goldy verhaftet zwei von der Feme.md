@@ -109,7 +109,7 @@ für seine Sicherheit fürchtet.“
 
 Ich ließ diese Frage zunächst offen. „Vermissen Sie einige Ihrer weißen Mäuse?“
 
-„Leider, ein ganzes Dutzend, gerade die zahmsten,“
+„Leider, ein ganzes Dutzend, gerade die zahmsten.“
 
 „Danke, Mr. Baaker. Erörtern wir den Diebstahl der Brieftasche. Den Hergang
 glaube ich zu kennen. Sie fürchteten einen Einbruch bei Frau Gorrison, nachdem
