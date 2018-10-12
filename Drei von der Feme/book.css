@@ -21,6 +21,7 @@ blockquote p {
 	text-indent: 0em;
 	padding-left: 0.5em;
 	font-family: cursive;
+	white-space: pre-wrap;
 }
 
 /* cover */
