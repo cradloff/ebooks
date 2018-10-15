@@ -115,7 +115,7 @@ Es unterlag keinem Zweifel, daß Rauter es auf uns abgesehen hatte. Gewiß, all
 die Zeitungsreporter waren nach dem sensationellen Abschluß der offiziellen
 Ansprachen wie ein aufgescheuchter Bienenschwarm davongerast, um noch
 rechtzeitig für die Abendausgaben ihre Berichte in die Redaktionstuben zu
-bringen Aber gerade Jack Rauters Weg zum „Volksblatt“ lag in genau
+bringen. Aber gerade Jack Rauters Weg zum „Volksblatt“ lag in genau
 entgegengesetzter Richtung, und da ich Rauter heute nun bereits zum vierten
 Male binnen einer Woche in unserer Nähe bemerkte, waren mir seine Absichten
 durchaus klar. Er hatte Verdacht geschöpft, und das „Erscheinen“ des „blinden

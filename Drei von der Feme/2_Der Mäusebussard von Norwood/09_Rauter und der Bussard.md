@@ -10,7 +10,7 @@ er im Schatten saß.
 
 Es war der Bussard, es war Maurice Pennerton.
 
-Es war seine heisere, schleimige Stimme, – es war seine Künstlermähne runter
+Es war seine heisere, schleimige Stimme, – es war seine Künstlermähne unter
 dem zerknitterten Schlapphut, seine stets schiefsitzende altmodische, billige
 Nickelbrille und sein fleckiger Patriarchenbart …
 
@@ -48,7 +48,7 @@ Jack Rauter hüstelte ärgerlich. Das war alles.
 
 „Mr. Rauter“, fuhr ich weit ernster fort, denn die ganze Sachlage erforderte
 viel Diplomatie und kaltes Blut, „wir wollen zunächst die eine Frage klären:
-Ist etwa das Bürogebände hier von Polizei besetzt?“
+Ist etwa das Bürogebäude hier von Polizei besetzt?“
 
 Der Reporter hatte sich bereits damit abgefunden, daß sein ursprünglicher Plan
 endgültig gescheitert war. „Meines Wissens nicht, und auf meine Veranlassung
