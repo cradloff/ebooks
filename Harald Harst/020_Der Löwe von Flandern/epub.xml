@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">d30bb926-d18a-11e8-a4b1-9b57a3624ce2</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Löwe von Flandern</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">20</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Löwe von Flandern.
+
+»Hm« meinte Harst und beutete auf einen kleinen Dampfer. »Er kommt drüben von Hollehne, jener kleinen Stadt an der Westseite des Fjords, deren dicken Kirchturm Du mit bloßem Auge erkennen kannst. Und ich müßte mich sehr irren, wenn wir nicht sofort irgend eine wichtige Nachricht erhalten. Mit uns, einer Privatjacht, hat ein Lotsenfahrzeug hier an der Mündung des Fjords nichts mehr zu tun.«
+
+Wir befanden uns auf dem Kajütendeck der kleinen Segeljacht Optimus, die jetzt durch ihren Aushilfsmotor sich der nahen offenen See zutreiben ließ. Wir kamen von Christiania und wollten hinaus nach Island, wo wir auf ein Abenteuer ganz besonderer Art rechneten.
+
+Wir wollten! — Gewiß — das Abenteuer entging uns nicht, aber zunächst mußten wir nochmals nach Christiania zurück, des — Löwen von Flandern wegen.
+
+Die Horna-Fee.
+
+Der Oktober war damals mild und zahm wie ein Frühlingsmonat.  Unsere kleine Jacht Optimus hatte daher auf dem Wege nach Island nur ein einziges Mal rauhes Wetter zu überstehen. Motor und Segel gaben ihr eine Geschwindigkeit von durchschnittlich 16 Knoten so daß wir am Abend des siebenten Reisetages in Sicht der Ostküste dieser so hoch nördlich gelegenen dänischen Insel-Kolonie zu kommen hofften.
+
+Am Nachmittag des sechsten Tages nach unserem Auslaufen aus Kuxhaven saßen wir zu dreien auf Klappstühlen auf dem kleinen Achterdeck, gegen den Wind durch den Kajütaufbau gut geschützt. Kapitän Tiessen bediente das Steuer, was bei dem stetigen Winde nicht viel Aufmerksamkeit erforderte.  Harst rauchte und hatte unseres alten Todfeindes Palperlons seltsame Zeichnung in der Hand. Ich wieder las im einem Spezialwerk über Island, das Harst in Hamburg gekauft hatte.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (020) Der Löwe von Flandern.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
