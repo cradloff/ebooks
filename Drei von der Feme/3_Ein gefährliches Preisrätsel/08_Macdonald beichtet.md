@@ -44,7 +44,7 @@ mußte.
 
 Sie blieb nach zwei zögernden Schritten stehen und schaute Mac lange an.
 
-„Wenn ich gewußt hätten daß du hier anscheinend krank liegst“, sagte sie
+„Wenn ich gewußt hätte, daß du hier anscheinend krank liegst“, sagte sie
 schließlich genau so kalt, „hätte ich dich nicht belästigt. Aber der „Warner“
 befahl mich hierher, und wie ich über die Drei von der Feme denke, weißt du ja
 …“

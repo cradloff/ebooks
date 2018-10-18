@@ -149,10 +149,7 @@ im Satz inne, da sein vornehmer Reklamechef äußerst belustigt auflachte.
 Er klemmte sein Monokel ein, entfaltete den Bogen und überflog die getippten
 Zeilen:
 
-Mr. Flox, Ihr sogenanntes Preisrätsel werden Sie sofort widerrufen und den
-Gästen Ihres Lokals, die bereits so leichtsinnig waren, den einen Schilling
-Aufgeld auf ihre Zeche zu zahlen, das Geld zurückgeben. – Dies ist ein Befehl.
-– Im Auftrage der Drei von der Feme: Der Warner.
+> Mr. Flox, Ihr sogenanntes Preisrätsel werden Sie sofort widerrufen und den Gästen Ihres Lokals, die bereits so leichtsinnig waren, den einen Schilling Aufgeld auf ihre Zeche zu zahlen, das Geld zurückgeben. – Dies ist ein Befehl.  – Im Auftrage der Drei von der Feme: Der Warner.
 
 Mr. Charly Blaag zuckte mitleidig die Achseln. „Und das ist alles?! Das ist
 nichts als eine Frechheit“, meinte er noch geringschätziger.

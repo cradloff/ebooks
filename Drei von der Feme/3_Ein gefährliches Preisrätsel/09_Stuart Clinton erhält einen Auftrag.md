@@ -39,7 +39,7 @@ hohlen, trockenen Husten über.
 
 „Nun gut. Die Wetterwarte hat Abkühlung und für die späteren Nachmittagstunden
 Nebel angesagt. Meine Ansicht geht dahin, daß der Verschleppte sich auf einem
-wracken Frachtschiff des östlichen Teiles des Tibure-Seitenarmes befindet.
+wracken Frachtschiff des östlichen Teiles des Tiburn-Seitenarmes befindet.
 Glauben Sie, daß Sie in Ihrem jetzigen Zustand, denn Sie sind nicht ganz auf
 dem Posten, imstande sind, den Auftrag zu übernehmen?“
 
