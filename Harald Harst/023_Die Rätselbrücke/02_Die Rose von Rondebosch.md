@@ -248,6 +248,8 @@ Der Inspektor drehte sich achselzuckend um und ging ins Schlafzimmer zurück.
 
 Zehn Minuten später hatte die Polizei die Villa verlassen.
 
+* * *
+
 Fitzgerald, der Garner und den Arzt höflich nach unten begleitet hatte, kehrte zu uns zurück. Wir hatten den Toten schon vorher auf sein Bett getragen. Harst saß dann die ganze Zeit schweigend in der Ecke des Ledersofas in Pooks Wohnzimmer. Er hatte sich eine seiner Mirakulum angezündet, als wir allein waren, und schien angestrengt nachzudenken. Ich fragte ihn leise, weshalb die Obduktion unterbleiben solle. Er gab keine Antwort. Er blickte unverwandt auf das Muster der indischen Tischdecke. Wahrscheinlich hatte er meine Frage überhört. Er entschuldigte sich nun bei Fitzgerald, daß er sich die Freiheit genommen hätte, hier zu rauchen.
 
 »Für mich ist eine Zigarette dasselbe wie für andere ein Glas Sekt,« meinte er. »Sie beschleunigt die Gedanken. Wir müssen hier ja auch bald zu einem Ergebnis kommen, Herr Fitzgerald. Vielleicht nehmen Sie gleichfalls Platz.«
@@ -256,7 +258,7 @@ Fitzgerald setzte sich in den zweiten Klubsessel mir gegenüber. Er sah jetzt ga
 
 Harst hatte nach der Uhr gesehen, steckte sie wieder weg.
 
-»Es ist jetzt 1/23. Um 6 Uhr geht der Dampfer nach Sansibar ab. Schraut und ich haben beschlossen, abzureisen. – Natürlich nur zum Schein,« fügte er hinzu. »So lange alle Welt weiß, daß ich mich Ihrer Sache angenommen habe, werde ich hier nichts ausrichten. Können Sie ein Motorboot mit verschwiegener Bedienung besorgen, das uns aufnimmt, sobald der Dampfer »Shurrfield« das Kap der guten Hoffnung passiert hat? Dann könnten wir meiner Berechnung nach um drei Uhr morgens wieder hier sein.«
+»Es ist jetzt 1/2 3. Um 6 Uhr geht der Dampfer nach Sansibar ab. Schraut und ich haben beschlossen, abzureisen. – Natürlich nur zum Schein,« fügte er hinzu. »So lange alle Welt weiß, daß ich mich Ihrer Sache angenommen habe, werde ich hier nichts ausrichten. Können Sie ein Motorboot mit verschwiegener Bedienung besorgen, das uns aufnimmt, sobald der Dampfer »Shurrfield« das Kap der guten Hoffnung passiert hat? Dann könnten wir meiner Berechnung nach um drei Uhr morgens wieder hier sein.«
 
 Fitzgerald war zunächst ganz sprachlos, erklärte dann
 <@pagebreak/>
@@ -366,6 +368,8 @@ Ich hatte mit atemloser Spannung gelauscht.
 
 »Dort – der Motorkutter!« rief Harst. »Vorwärts! Der Steward soll unsere Koffer an das Fallreep schaffen. Der Kapitän läßt schon beidrehen.«
 
+* * *
+
 Der Kutter konnte bei der ruhigen See bequem längsseit kommen. Wir stiegen hinüber, winkten dem Kapitän des »Shurrfield« noch einen letzten Gruß zu und wurden nun von Fitzgeralds Freund Treebram begrüßt, der uns in die kleine Kajüte führte, wo wir es sehr behaglich hatten. Treebram war Ingenieur beim Hafenamt in Kapstadt und wußte uns manches Interessante über die Kapkolonie zu erzählen, wo er nun bereits zwanzig Jahre weilte.
 
 Ich war sehr müde und nickte bald in der Ecke des Wandsofas ein. Hin und wieder erwachte ich wohl, konnte aber vor Zigarettenrauch Harst und Treebram kaum noch erkennen, so dick hatten die beiden die Kajüte vollgequalmt.
@@ -376,7 +380,7 @@ wartete ein von Treebram besorgtes Auto auf uns, das uns auf der tadellos gepfle
 
 Ich war jetzt ganz frisch. Der Schlaf in der Kutterkajüte war mir gut bekommen. Wir fanden uns in Rondebosch unschwer zurecht. Genau um 3 Uhr morgens kletterten wir über die Parkmauer der Villa Fitzgeralds und schlichen nun mit größter Vorsicht auf das Gärtnerhäuschen zu.
 
-Dieses stand neben dem Parktor, war ein sauberer kleiner Ziegelbau mit flachem Pappdach und sah ganz wie ein nettes Sommerhaus aus. Zwei der Fenster nach dem Parke hin waren matt erleuchtet. Da sie kaum 11/4 Meter über dem Erdboden lagen, konnten wir durch das eine, dessen Vorhänge nur halb geschlossen waren, bequem in die Stube hineinlugen, in der auf dem Nachttischchen neben einem einfachen Bett eine kleine elektrische Stehlampe mit gelbem Stoffschirm brannte.
+Dieses stand neben dem Parktor, war ein sauberer kleiner Ziegelbau mit flachem Pappdach und sah ganz wie ein nettes Sommerhaus aus. Zwei der Fenster nach dem Parke hin waren matt erleuchtet. Da sie kaum 1 1/4 Meter über dem Erdboden lagen, konnten wir durch das eine, dessen Vorhänge nur halb geschlossen waren, bequem in die Stube hineinlugen, in der auf dem Nachttischchen neben einem einfachen Bett eine kleine elektrische Stehlampe mit gelbem Stoffschirm brannte.
 
 Ein einziger Blick genügte: in dem Bett lag, nur mit einer Decke zugedeckt, ein Mann – Palperlon in der Maske, die er hier als Gärtner Simpson trug. Vor dem Bett wieder bemerkte ich eine Zeitung, die offenbar Palperlons Händen beim Einschlafen entfallen war.
 
@@ -451,6 +455,8 @@ Hier riß mein Gedankenfaden jäh ab. – Täuschte ich mich?! War das nicht wir
 – »Nun – ertrage sie nur geduldig. Palperlon sagte, es sei jetzt acht Uhr. Dann erfreut er sich gerade noch einer Stunde seiner Freiheit. Sieh mal – er hat sich nämlich gerade diesmal verrechnet. Ich habe Treebram, als Du in der Kutterkajüte so schön schliefst, genaue Verhaltungsmaßregeln für den Fall gegeben, wenn ich ihn heute früh 8 Uhr telephonisch nicht anrufen sollte. Dann wird er zu Garner eilen und diesen veranlassen, Fitzgeralds Villa zu umstellen und das ganze Personal zu verhaften, uns aber zu suchen, da wir dann eben in einen Hinterhalt geraten seien. – Du magst Dich wundern, daß ich gerade hier meiner »Schwäche« untreu geworden bin und einen Dritten so halb und halb ins Vertrauen gezogen habe. Der Grund hierfür ist der Tod Pooks. Du wirst das nachher schon verstehen, ebenso wie Du noch auf allerlei Überraschungen rechnen darfst. – Falls Du gern gleichfalls freier atmen möchtest, rate ich Dir, es ebenso zu machen wie ich, das heißt, den Knebel mit den Zähnen langsam zu zerkauen und die Stücke hinunterzuwürgen. Von meinem Knebel ist nur noch gerade so viel übrig, um Palperlon vorzutäuschen, ich hätte noch die ganze Leinwandkugel im Munde. – Übrigens dürfte Palperlon seinen Vorschlag hinsichtlich der Million völlig ernst gemeint haben. Ich glaube, so langsam beginnt er doch einzusehen, daß seine Verbrecherlaufbahn ein böses Ende durch mich nehmen könnte. Er möchte wohl in der Tat sich zur Ruhe setzen. Nun – das wird auch geschehen. Nur in anderer Weise, als er denkt. Sollte er hier gefaßt werden, dann sorge ich dafür, daß er in eine der Mörderzellen des neuen Gefängnisses in Kapstadt kommt. Dort ist ein Ausbrechen unmöglich. – So, nun wollen wir abwarten. Ich rechne damit, daß gegen 9 Uhr Garner die Villa umzingelt haben kann. Harre also die eine Stunde schon noch aus, mein Alter.«
 
 Ach – wie leicht ließen sich jetzt die Schmerzen ertragen! Aber auch – ach, wie furchtbar war dann die Enttäuschung und das Entsetzliche, was wir in bangen Sekunden erlebten.
+
+* * *
 
 Ich war vor Erschöpfung, Schmerzen und Abspannung in eine Art Halbschlaf versunken. Mit einem Male schreckte ich auf. Die Kellertür war mit leisem Krach ins Schloß gefallen. Ich öffnete die Augen, sah Palperlon mit der Laterne,
 <@pagebreak/>

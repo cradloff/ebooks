@@ -52,7 +52,8 @@ Harst rief Herein. Es war der Kellner mit einer Visitenkarte.
 »Die Dame läßt Herrn Harst inständigst bitten, sie zu empfangen,« erklärte der Kellner.
 
 Harst las laut den Namen und Titel der Karte vor:
-Frau Generalkonsul Theresa Knork,
+
+> Frau Generalkonsul Theresa Knork,
 
 sagte dann: »Ich lasse bitten –!«
 
@@ -254,6 +255,8 @@ Frau Knork stand mit schlaff herabhängenden Armen da.
 
 Aber ihre Tochter schüttelte nur den Kopf und sprach wie in die Luft hinaus: »Es gibt keine Magda Knork mehr –«
 
+* * *
+
 Der Nachtzug Stockholm-Malmö ging um 10 Uhr 30 Minuten ab. Wir hatten ein Schlafwagenabteil belegt und machten es uns dort nach Möglichkeit bequem. Wir waren beide in ernstester Stimmung. Magda Knork hatte sich sofort nach Rückkehr in ihre Zelle mit Zyankali, das sie in ihren Kleidern verborgen gehabt haben mußte, vergiftet. Sie hatte für ihre Eltern nur einen Zettel mit den Worten: »Verzeiht mir!« zurückgelassen.
 
 Harst saß ganz still da und blies wie ein Automat den Zigarettenrauch von sich. Plötzlich sagte er dann:
@@ -318,6 +321,8 @@ Ich konnte Harst nur beipflichten, erklärte dann aber noch: »Diese merkwürdig
 
 »Sehr richtig. Dieses Gekünstelte ist auch das, was mich stört. Ebenso die Tatsache, daß Palperlon, für den doch die Papierkugel bestimmt war, noch nicht hier gewesen sein kann. Sonst hätte ja die Papierkugel nicht mehr in der Distel gelegen.« Er ließ abermals die Augen mißtrauisch über die Brücke und das jenseitige Ufer hingleiten. »Lieber Alter – ich kann nicht behaupten, daß ich mich angesichts dieser Rätselbrücke besonders wohlfühle,« meinte er dann. »Im Gegenteil, ich wünschte, wir hätten Sululand erst wieder hinter uns! Ich bin noch nie –«
 
+* * *
+
 Von rechts her war plötzlich ein gellender Schrei erklungen, ein so schriller, heller Angstruf, daß unsere Köpfe mit einem Ruck herumflogen.
 
 Ich muß hier über die Örtlichkeit noch hinzufügen, daß sich rechter Hand von uns eine mit dichtem Gebüsch bewachsene Berghalde hinanzog und daß wir selbst etwas links von der Felszunge standen, während wir nach Osten zu durch ein hohes Distel- und Dornengestrüpp gedeckt waren.
@@ -355,6 +360,8 @@ Ich schaute ihn an und sah, daß er lächelnd den Rauch der Zigarette von sich b
 »Du – Du lachst – in einer solchen Lage!?« meinte ich ganz verdutzt.
 
 »Gewiß. Nichts ist scheußlicher, als das Gefühl, einer Gefahr gegenüberzustehen und doch nicht eründen zu können, wie sie sich äußern wird. So erging es mir vor der Brücke. Nun weiß ich, was Palperlon und Konsorten uns zugedacht hatten. Nun – sehe ich in allem vollständig klar.« Eine kleine Pause. Dann ganz leise: »Mein lieber Schraut, Palperlon ist wirklich ein Mensch, der eine Verbrecherschule leiten könnte, eine Schule für Leute, die Gauner besseren Stils werden wollen. Zuweilen ist es beinahe ein geistiger Genuß, den Feinheiten seiner Pläne nachzuspüren.«
+
+* * *
 
 Ein neues Geräusch dicht neben mir ließ mich abermals, nach Stunden freilich erst, geblendet in den Lichtkegel der Taschenlampe blinzeln. Sofort Harsts Stimme über mir: »Erschrick nicht, wenn ich jetzt um Hilfe brülle.« Die Lampe erlosch. »Palperlons Bande nähert sich der Brücke,« fügte Harst hinzu.
 
@@ -399,6 +406,8 @@ Harst bat, daß für mich eine Tragbahre hergestellt würde. Es geschah. Die Sul
 Harst meinte nachher, ich müßte unbedingt einige Tage geschont werden; ob wir nicht in einem Suludorfe ein Unterkommen finden könnten. – Worauf Morrisson mit den beiden schwarzen Halunken in der Sulusprache zum Schein eine Weile verhandelte und schließlich erwiderte, Master Okirupu würde uns in seine Hütte aufnehmen. – Ich sagte soeben »zum Schein«. Sehr bald erfuhr ich ja, daß vonseiten Morrissons und der Neger hier ein abgekartetes Spiel vorlag. Die drei Schufte hätten uns auch ohne Harsts Bitte zu Okirupus in einem sogenannten heiligen Walde liegendem Heim gebracht.
 
 Erst nach Anbruch der Dunkelheit setzte sich unser Zug in Bewegung. Wir langten gegen zwei Uhr morgens dann vor Okirupus Behausung an, ohne auch nur einen Menschen in all den Stunden getroffen zu haben, obwohl mehrere Negerdörfer dem Hundegekläff nach in der Nähe liegen mußten.
+
+* * *
 
 Daß Okirupu unter den Sulus eine Persönlichkeit von Bedeutung war, verriet schon sein Heim. Es bestand aus drei großen Steinhütten, die durch einen Zaun von Dornenflechtwerk umgeben waren. Uns beiden wurde die leere
 <@pagebreak/>
