@@ -1428,12 +1428,12 @@ folgender Satz hinzugefügt ist:
 > Ob er (also James Palperlon) wohl noch immer sein
 Steckenpferd reitet und jedes Jahr viermal nur deshalb
 Lissabon besucht, um festzustellen ob der angeblich hundertundfünfzigjähriger
-Seher Slami Zschumlar noch immer lebt.
+Seher Slami Zchumla noch immer lebt.
 Und ob hinter diesem Interesse nicht etwas ganz besonderes
 steckt?
 
 Du ahnst wohl schon, lieber Schraut, daß ich mir diesen
-Slami Zschumlar mal aus nächster Nähe ansehen möchte.
+Slami Zchumla mal aus nächster Nähe ansehen möchte.
 Vielleicht — fangen wir dabei unseren Palperlon!« —
 
 Hiermit will ich dieses Abenteuer Harald Harsts beschließen.
