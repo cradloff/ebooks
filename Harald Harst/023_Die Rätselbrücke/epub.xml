@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">202b915e-dc58-11e8-9b43-b3feb844ea6b</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Rätselbrücke</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">23</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Rätselbrücke.
+
+Es war gegen zehn Uhr vormittags. Wir saßen an dem vor einem Korbsofa stehenden Tische und machten uns mit gutem Appetit über den Morgenimbiß her. Harald hatte sich auch eine Stockholmer Zeitung kommen lassen. Nach einigen gleichgültigen Bemerkungen über das Herbstwetter und zwei Tassen Kaffee, reichte er mir die Zeitung, ohne hineingesehen zu haben, und sagte:
+
+»Ich wundere mich, daß Inspektor Brodersen noch nicht hier ist. Die Kriminalpolizei wird doch fraglos schon gemerkt haben, welch seltsamen Vogel sie da in der vergangenen Nacht erwischt hat.«
+
+Die Rose von Rondebosch.
+
+»Die Stadt liegt wirklich wundervoll,« sagte Harald Harst zu mir und deutete hinab auf das an der Südseite der Tafelbai sich hinziehende und mit seinen modernen Häusern, geraden Straßen und großen Parkanlagen so ganz europäisch wirkende Kapstadt, den Sitz der Regierung der englischen Kapkolonie.
+
+Wir standen auf der Spitze des 1082 Meter hohen Tafelberges, hatten zur Rechten den Teufels- und zur Linken den Löwenberg, die die prächtige Stadt und ihre Umgebung amphitheatralisch im Westen und Süden einschließen. Wir waren nicht allein auf der Höhe des Tafelberges. Den warmen, sonnigen Vormittag hatten noch andere Ausflügler zu einer Partie nach der tafelförmigen Kuppe benutzt.
+
+Harst holte sein Zigarettenetui hervor und hielt es mir hin.
+
+»Bitte, bediene Dich, lieber Schraut – Ich fürchte mit unseren Ferien ist’s vorbei. Uns wird sofort ein älterer Herr ansprechen, der soeben sehr eilig den steilen Pfad heraufgekeucht kam, dann die zwei Dutzend Menschen hier oben prüfend musterte und nun nur noch Augen für uns hat. Ich kenne ihn nicht. Es ist fraglos ein wohlhabender Engländer und zwar ein Einheimischer. Ein so stark gebräuntes Gesicht findet man nur bei denen, die jahrelang unter der heißen Sonne Afrikas lebten. Der Herr ist verheiratet und dürfte 50 Jahre alt sein. Er ist Liebhaber von Diamanten. Seine Ringe und seine Busennadel stellen ein Vermögen dar. Aber – er hat Sorgen. Er sieht verstört aus. Ich wette, er hat aus den hiesigen Zeitungen erfahren, daß ich seit drei Tagen hier im Hotel Atlantik wohne, ist im Hotel gewesen, hat nach uns gefragt und wird von unserem Landsmann und Zimmerkellner den Bescheid erhalten haben, wir hätten eine Tour nach dem Tafelberg unternommen.«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (023) Die Rätselbrücke.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
