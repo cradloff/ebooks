@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">3b09f3b8-dc52-11e8-b708-4f364c367dda</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Armband der Lady Melville</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">22</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Armband der Lady Melville.
+
+Mein Zimmer bei Frau Torstensen — ich war mittags eingezogen — lag neben dem Balkonzimmer, war nur einfenstrig und besaß eine Verbindungstür nach rechts hin, die durch den Kleiderschrank verstellt war. Wenn ich mein Fenster öffnete, mich hinauslehnte und nach rechts griff, konnte ich bequem das Balkongitter erfassen. Wir hatten das alles genau berechnet, bevor wir bei Frau Torstensen mieteten. — Harald Harst lag sehr viel daran, gerade des geheimnisvollen Busley Zimmer zu erhalten, in dem dieser zehn Tage gewohnt und dann am elften Tage morgens an Schlagfluß gestorben war. Ein Arzt hatte Schlagfluß festgestellt.  Dann suchte man in London Bekannte oder Verwandte des Verstorbenen zu ermitteln. Man fand niemand, der für den Kaufmann Busley Interesse hatte. Nur die Kopenhagener Polizei und wir gedachten uns mit diesem Manne noch näher zu beschäftigen. Aber — jeder für sich. Für die hiesige Polizei waren wir bereits nach Deutschland abgereist.
+
+Um die Millionenbeute.
+
+Harsts Laune war in jenen Tagen nach der Flucht James Palperlons die denkbar schlechteste. So schweigsam und insichgekehrt war er bisher nie gewesen. Ich merkte, daß ihm die Aeußerungen der Kopenhagener Presse genau so nahe gingen, wie der kühl\-förmliche Abschied von Lord Melville. Dieser machte ihm zum Vorwurf, Palperlons Entweichen durch ungenügende Sicherheitsmaßregeln erleichtert zu haben, und die dänischen Zeitungen wieder brachten sehr deutlich zum Ausdruck, daß Harst unbedingt die Hilfe der Kopenhagener Polizei hätte im Anspruch nehmen müssen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (022) Das Armband der Lady Melville.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
