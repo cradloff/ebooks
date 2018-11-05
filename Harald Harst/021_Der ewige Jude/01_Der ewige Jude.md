@@ -31,6 +31,7 @@ Was soll das alles?«
 »Lies!« Er reichte mir den einen Brief — Ich las:
 
 > Hamburg, den 2. September 19
+
 > Sehr geehrter Herr Harst!
 
 > Gestatten Sie, daß ich mich in einer Angelegenheit vertrauensvoll
@@ -40,7 +41,7 @@ schämen müßte. — Ich bin seit Juni dieses Jahres der letzte
 Träger des mit der Geschichte Hamburgs eng verknüpften Namens
 Partorius. Im Juni starb mein älterer Bruder, der
 Inhaber der Reederei Jakob Partorius ganz unerwartet. Ich,
-seit Jugend am mehr der Kunst als dem ernsten Kaufmannsberuf
+seit Jugend an mehr der Kunst als dem ernsten Kaufmannsberuf
 <@pagebreak/>
 zugeneigt, habe seitdem unser Jahrhunderte altes Geschäft
 der Fürsorge des erprobten Prokuristen Svendsen überlassen
@@ -106,7 +107,7 @@ zu. An sie schließen sich, rechts in den Seitenflügel abbiegend,
 die Zimmer an, die meine Eltern einst bevorzugten und die
 in demselben Zustand belassen sind.
 
-Da dies nun der Tag war, an dem mir die erste »Warnung«
+> Da dies nun der Tag war, an dem mir die erste »Warnung«
 zugehen sollte, befand ich mich in jener eigentümlichen
 nervösen Erregung. Als ich im Flur des ersten Stockes meinen
 Mantel und Hut an den Garderobenständer hing, glaubte
@@ -284,7 +285,7 @@ ich. So lange die Helle des Tages Straßen und Wohnungen
 füllte, blieb ich selbstsicher und sah dem vielleicht Kommenden
 kühl entgegen. Das Abenddunkel scheuchte mich aus dem
 Hause meiner Väter. Ich war im Theater. Es gab Hauptmanns
-»Hannles Himmelfahrt«; ich sah im letzten Akt die
+»Hanneles Himmelfahrt«; ich sah im letzten Akt die
 Himmelsleiter, die dem sterbenden Kinde im Traum erscheint:
 ich verließ das Theater tief ergriffen von der Tragik dieses
 jungen Menschenschicksals.
@@ -378,12 +379,12 @@ lesen aufgehört hatte.
 fand ich nun halb plattgedrückt und mit dem Körpersaft am
 Papier klebend einen jener Käfer, die man <span class="g">Totengräber</span>
 nennt! Ich hatte vorher nur flüchtig hingeschaut und ihn
-übersehen
+übersehen.
 
 > Die beiden Zeilen über ihm waren gesperrt gedruckt
 und lauteten:
 
-> »Es wird einer kommen, der mein Vorläufer ist. Man
+> > »Es wird einer kommen, der mein Vorläufer ist. Man
 nennt ihn den ewigen Juden. Der wird Dir den Weg weisen,
 dem gehorche!«
 
@@ -601,8 +602,9 @@ dem großen geschlossenen Holzkasten!
 »Chloroform!« rief ich entsetzt und schaute Harst verstört
 an. Sein Gesicht lag im Schatten. Aber seiner Stimme
 hörte ich an, wie der Ausdruck dieses Gesichts sein mußte:
+
 »Palperlons Werk — ohne Frage!« flüsterte er mit seltsam
-rauhen vibrierender Stimme. »Ich fürchte, meine Laufbahn
+rauher, vibrierender Stimme. »Ich fürchte, meine Laufbahn
 als Detektiv ist beendet. Hier hilft kein Trick. Der
 Unterteil des Aufzugs ist Eisen. Da — höre — dicke Platten,
 zu dick für —« —
@@ -644,7 +646,7 @@ Stille abermals — endlose Stille.
 Erst nachher erfuhr ich, daß ich volle dreizehn Stunden bewußtlos
 gewesen.
 
-Nachher — als Harst und doch gerettet hatte! —
+Nachher — als Harst uns doch gerettet hatte! —
 <@pagebreak/>
 
 Ich war tot. Und die endlose Stille ging über in eine
@@ -731,7 +733,7 @@ heißt: er war nicht Harst; es war ein älterer einfach gekleideter
 Seemann mit grauem Kinnbart und verdächtig roter
 Nase.
 
-Harst im neuen Kostüm! Das deutete auf Sturm. Kampf,
+Harst im neuen Kostüm! Das deutete auf Sturm, Kampf,
 Aufregungen.
 
 »’n Abend! — Mach fix, Schraut. Da ist Dein Anzug!«
@@ -833,7 +835,7 @@ liegen lassen, wäre es für immer mit uns aus gewesen.« —
 
 Am nächsten Abend hatte das Ehepaar Howart und Dasy
 Hopkins in dem deutschen Fremdenheim der Frau Schumann
-in der Rua Augusta (Straße) Wohnung genommen. — zwei
+in der Rua Augusta (Straße) Wohnung genommen. — Zwei
 nette Zimmer im Hochparterre, die nach einer stillen Seitengasse
 hinauslagen. Harst war diese Pension von dem Kapitän
 unseres Dampfers empfohlen worden. Unsere Zimmer boten
@@ -916,7 +918,7 @@ hütete sich von selbst, ihn zu kränken. Das haben mir genug
 Fremde nachher erzählt, wenn sie bei ihm gewesen. Es
 geht eben ein ganz besonderes Etwas von diesem Manne aus,
 über den Sterben und Dahinwelken keine Macht haben. — Ob
-er jeden Besuches annimmt? Nein! Diele hat er, ohne sie
+er jeden Besuches annimmt? Nein! Viele hat er, ohne sie
 gesehen zu haben, zurückgewiesen, — scheinbar ohne Grund,
 — scheinbar! Es soll sich dann aber stets um albern\-freche
 Neugierige gehandelt haben. In den letzten Monaten erfolgten
@@ -980,11 +982,11 @@ Vorhalle und lauschte. Totenstille; nein — mein Ohr unterschied
 nun doch ein Geräusch, ein ganz leises Plätschern. Und
 meine Augen, bald an die Finsternis gewöhnt, gewahrten da
 <@pagebreak/>
-vor mir einen helleren Flecke. Ich erkannte: die Vorhalle
+vor mir einen helleren Fleck. Ich erkannte: die Vorhalle
 war wie eine Durchfahrt und mündete auf einen kleinen Hof.
 
 Ich wagte mich weiter vorwärts. Der Boden hier war
-mit Steinfliesen aus gelegt. Nun war ich an der gegenseitigen
+mit Steinfliesen ausgelegt. Nun war ich an der gegenseitigen
 Torwölbung, stand, horchte, schaute. — Das Plätschern rührte
 von einem Springbrunnen in der Mitte des Hofes her. Weiter
 hinten linker Hand wuchsen zwei Olivenbäume. Sie bewegten
@@ -1004,7 +1006,7 @@ Ich rief ihn leise an. — »Komm’ zurück nach der Ruine!«
 flüsterte er. »Hier ist’s nicht geheuer. Die verhungerten Köter
 machten zu viel Lärm.«
 
-wir schlichen an den Häusern entlang, überquerten die
+Wir schlichen an den Häusern entlang, überquerten die
 Gasse, schlichen auf dieser Seite nun wieder nach unserem
 bisherigen Versteck.
 
@@ -1024,7 +1026,7 @@ Aber — danach fragte Harst nicht. Wir gelangten ohne Geräusch
 auf das Dach. Es war ebenfalls mit Steinplatten belegt,
 zwischen denen Gräser und Unkraut wucherten. Die
 Schornsteine waren neuesten Datums. In der Mitte gab es
-eine Luke die durch einen schweren Holzdeckel verschlossen
+eine Luke, die durch einen schweren Holzdeckel verschlossen
 war. Der Deckel ließ sich ohne weiteres lüften. Harst legte
 sich der Länge nach hin und leuchtete nach unten. Der Raum
 war eine mit Gerümpel angefüllte Kammer. Eine Leiter
@@ -1064,7 +1066,7 @@ Recht erstrebst! Nur wer so weit Herr über die zwecklose
 Masse seines Körpers wird, daß er sie nach seinem Willen
 sterben und sich wieder regen läßt, wer seine Seele frei macht
 von dem Gefängnis dieses vergänglichen Leids, wird ewig
-leben wenn, er selbst stürbe. Aber — er stirbt nur nach eigenem
+leben, wenn er selbst stürbe. Aber — er stirbt nur nach eigenem
 Wunsch und Willen — wie ich! Ich lebe noch, obgleich
 ich mehr denn zwei Jahrhunderte sah! Sterben konnte ich jede
 Minute — jede! Und doch würde ich, wollte ich der Erde —
@@ -1112,7 +1114,7 @@ als das helle Licht elektrischer Straßenlampen auf das grellbunte
 Mosaikpflaster dieser Prachtstraße fiel, sagte Harst versonnen:
 
 »Es gehört wirklich schon ein geniales Verbrechergehirn
-dazu, einen solchen Plan aus zuklügeln! Die Kabbala mit
+dazu, einen solchen Plan auszuklügeln! Die Kabbala mit
 ihren mystischen Lehren als Schlinge zu gebrauchen, — das
 dürfte noch nie da gewesen sein! — Nun — wir werden den
 Herrschaften das Spiel verderben! Gründlich!«
@@ -1171,7 +1173,7 @@ als Angebinde hinein, das eine wertvolle (von uns vorhin
 gekaufte) silberne Tabaksdose enthielt.
 
 Wieder vergingen Minuten. Dann wurden zwei Riegel
-zurückgeschoben, dann stand der berühmte Seher in der Linken
+zurückgeschoben, dann stand der berühmte Seher, in der Linken
 einen Leuchter mit drei brennenden Kerzen haltend, vor mir.
 
 Es war ein gebeugter Greis mit schneeweißem Bart,
@@ -1198,7 +1200,7 @@ Stadt eine Summe zur Verfügung stellen? Vielleicht fünfzig
 Pfund? — Ich möchte Sie ja nur meiner verstorbenen Eltern
 wegen etwas fragen. Nur wenige Minuten werde ich Sie
 belästigen. Ich holte die Banknote aus meinem Handtäschchen
-hervor. Der Seher nahm sie, winkte mir ging mir voran.
+hervor. Der Seher nahm sie, winkte mir, ging mir voran.
 Er ging wie einer, der noch nichts von der Last des Alters
 spürt.
 
@@ -1238,11 +1240,11 @@ Und doch: ich kannte den Mann! Kannte ihn von früher
 her ganz bestimmt.
 
 Draußen polterte der Türklopfer gegen das Holz. Slami
-Zchumla stand auf. »Meine Tochter ich werde Dich in ein Nebengemach
+Zchumla stand auf. »Meine Tochter, ich werde Dich in ein Nebengemach
 bringen. Warte dort auf mich.«
 
 »Oh — ich kenne den Herrn, der Einlaß begehrt. Es
-ist ein Landsmann von mir ein Master Hopkins. Er hat
+ist ein Landsmann von mir, ein Master Hopkins. Er hat
 sich ja wohl bei Ihnen angemeldet.«
 
 Er war ganz arglos, nickte und schritt hinaus, kehrte
@@ -1401,7 +1403,7 @@ schwerreichen Mann rupfen, der sich durch allerlei trügerische
 Manipulationen so in Angst würde versetzen lassen, daß
 er uns freiwillig sein Vermögen abtrat. Wer das Opfer werden
 sollte, mußte sich später ergeben. — Als ich nun derart
-eingeweiht worden war und sah daß die Leute ohne mich
+eingeweiht worden war und sah, daß die Leute ohne mich
 nichts ausrichten könnten, verlangte ich volle Gleichberechtigung
 mit ihnen, einen entsprechenden Anteil an der späteren
 Beute und die Zusicherung, daß es dem Opfer nicht ans Leben
@@ -1483,7 +1485,7 @@ immer Partorius würde noch rechtzeitig merken, wie hier
 der Hase läuft. Aber er ist ja völlig von dem mystischen Unsinn
 der Kabbala gefangen genommen, daß er selbst den haarsträubendsten
 angelesenen Blech, den ich ihn auftischte, als
-hehre Weisheiten anstaunte.
+hehre Weisheiten anstaunte.<<
 
 »Nun — Sie sind wenigstens ehrlich, Herr Minger,«
 meinte Harst.

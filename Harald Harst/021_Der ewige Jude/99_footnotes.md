@@ -5,3 +5,5 @@ schweren Stadt- oder Sportmantel für Herren, seltener für Damen.</@footnote>
 
 <@footnote 2 "02_Die entführte Gräfin.md">Die Zeile war im Original doppelt vorhanden.</@footnote>
 
+<@footnote 3 "02_Die entführte Gräfin.md">Die Zeile war ebenfalls im Original doppelt vorhanden.</@footnote>
+

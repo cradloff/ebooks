@@ -181,7 +181,7 @@ Er schnitt schnell den Umschlag auf. Der Briefbogen war
 in derselben Weise wie der Umschlag beschrieben. — Und der
 Inhalt?
 
-Harst las leise vor: »Seht verehrter Herr Konkurrent!
+Harst las leise vor: »Sehr verehrter Herr Konkurrent!
 Ich hatte Sie eine Weile aus den Augen verloren. Mein Gehilfe
 stöberte Sie dann endlich in Lissabon auf, aber — zu
 spät! Ich konnte dort nicht mehr eingreifen. Ich war in
@@ -198,7 +198,7 @@ in Kopenhagen blicken ließe, würde man mich im Hafen ersäufen.
 — Ich habe während der Ueberfahrt in dem Motorfahrzeug
 trotz der verbundenen Augen eins mit Bestimmtheit
 feststellen können: zwei Männer und ein Weib befanden sich
-auf dem Boot! — Dann will sich Ihnen auch noch anvertrauen,
+auf dem Boot! — Dann will ich Ihnen auch noch anvertrauen,
 weshalb ich annehme, auf der richtigen Fährte gewesen zu
 sein. Ich hatte ermittelt, daß ein Herr und eine verschleierte
 <@pagebreak/>
@@ -207,7 +207,7 @@ der Gräfin) mittags ein Uhr sehr eilig noch als letzte kurz
 vor der Abfahrt den nach Malmö in Schweden bestimmten
 Tourdampfer »Olaf Fredricksen« betreten hatten, war dann in
 Malmö auch so glücklich das Hotel zu finden, wo das Paar
-für eine Nacht auf Zimmer Nr 11 und 12 gewohnt hatte.
+für eine Nacht auf Zimmer Nr. 11 und 12 gewohnt hatte.
 Ihre Spur schien nach Kopenhagen zurückzuführen. Als ich
 dann die Stewards der zwischen Malmö und Kopenhagen
 verkehrenden Dampfer nach diesem Pärchen ausgefragt hatte
@@ -321,7 +321,7 @@ eben vom Flur aus den Auftrag zugerufen haben,« fiel ihr
 Harst ins Wort. »Mich schert die Sache ’n Dreck Fräulein.
 Wir gehen mit unserm Schoner morgen früh wieder in See.
 — Vielleicht ist die Gräfin ihrem Mann auch nur ausgerückt.
-Soll ja ’n hübsches Weibsbild sein sagt man.«
+Soll ja ’n hübsches Weibsbild sein, sagt man.«
 
 Die Tiedzen machte ein sehr überlegenes Gesicht.
 
@@ -348,7 +348,7 @@ sehr nach Hühnerstall von all den — Papageien.«
 
 * * *
 
-Lieber Alter« sagte Harst draußen auf der Straße zu
+>>Lieber Alter,« sagte Harst draußen auf der Straße zu
 mir, »dies Fräulein Tiedzen war ein Hauptgewinn. — Was
 meinst Du, wollen wir nicht auch mal die Andersen gegenüber
 <@pagebreak/>
@@ -394,7 +394,7 @@ uns das.«
 
 Fräulein Thora Andersen wohnte im 2. Stock des neuen,
 modernen Gebäudes. Sie ließ uns selbst ein und führte uns
-in einen kleinen Salon mit geschmackvoller Einrichtung;
+in einen kleinen Salon mit geschmackvoller Einrichtung.
 
 Harst erklärte der hageren, großen Dame, die die Würde
 einer Oberhofmeisterin mit der geschmeidigen Liebenswürdigkeit
@@ -476,7 +476,7 @@ wurde mir erst klar, als uns ein Auto nach dem
 brachte.
 
 Wir läuteten an der Haustür. Ein Diener, ein Inder in
-heimischer Tracht öffnete. Gleich darauf standen wir in einem
+heimischer Tracht, öffnete. Gleich darauf standen wir in einem
 riesigen, durch elektrische Ampeln hell erleuchteten Flur, der
 geradezu wie ein Raritätenkabinett aussah. Man merkte:
 Adam Stripley war in Indien, China, Japan und Australien
@@ -536,7 +536,7 @@ ganz warm ums Herz wurde.
 Nach fünf Minuten schoben wir dann wieder ab, bekamen
 jeder noch ein Dutzend Zigarren mit Leibbinden mit und
 außerdem von dem Grafen 200 Kronen »für die Besatzung des
-»Chancellor« zu Freigrog«
+»Chancellor« zu Freigrog«.
 
 Wir stampften die Treppe hinab. Der Graf begleitete
 uns höflich bis an die Haustür, fragte wann wir den Hafen
@@ -666,7 +666,7 @@ Harst blätterte in einem Fremdenführer von Kopenhagen,
 sah plötzlich nach der Uhr.
 
 »Du, wenn wir uns beeilen, erreichen wir noch den
-Dampfer nach Malmö.- — Fix also!«
+Dampfer nach Malmö. — Fix also!«
 
 Wir kamen in letzter Sekunde an die Anlegestelle. Der
 Dampfer hatte die Treppen eingeholt.
@@ -946,7 +946,7 @@ bewiesen haben, daß mit uns nicht zu spaßen ist!«
 Ah — er meinte Lihin Omen, die Konkurrenz.
 
 »Ihr wollt die ausgesetzte Belohnung noch jetzt verdienen,
-— das ist’s! Ihr denkt, wehr die Erpresser fängt,
+— das ist’s! Ihr denkt, wer die Erpresser fängt,
 <@pagebreak/>
 werdet Ihr von Master Adam Stripley ’ne Masse Geld in den
 Rachen geworfen bekommen! Ihr seid reif für ’n Strick und
@@ -954,7 +954,7 @@ für die Steine, die wir Euch an die Füße binden werden, damit
 Ihr auch mal den Schlammgrund des Hafens von Kopenhagen
 studieren könnt. Ihr —«
 
-»Genug, Herr Graf!« rief Harst dazwischen. Sie unterschätzen
+»Genug, Herr Graf!« rief Harst dazwischen. >>Sie unterschätzen
 uns. Wir wissen, daß Ihre Gattin niemals entführt
 worden ist.« —
 
@@ -970,7 +970,7 @@ Und genau so, wie ich Ihnen nun hier dies alles schildere,
 haben wir’s schriftlich —«
 
 Da — ein leiser Schreckensruf aus weiblicher Kehle.
-Harst änderte sofort den Ton »Frau Gräfin, Sie haben
+Harst änderte sofort den Ton. »Frau Gräfin, Sie haben
 wirklich keinerlei Grund, fürchten zu müssen, wir könnten
 Sie verraten. Das, was wir schriftlich aufzeichneten, gaben
 wir einem Vertrauensmann, der den Brief erst dann der
@@ -1185,7 +1185,7 @@ am Boden fand, hatte ich sofort den Argwohn —«
 
 Harst nickte ihm zu. »Regen Sie sich nicht auf, Bendisen.
 Niemand wird Sie verdächtigen. — Vorwärts — führen Sie
-uns auf den Hof«
+uns auf den Hof.«
 
 Bendisen gehorchte. — Als wir ins Freie gelangten, hatten
 wir einen sternklaren Himmel über uns. Der abnehmende
@@ -1237,7 +1237,7 @@ Der Chauffeur schlich davon.
 »Der arme Kerl!« meinte Harst. »Er wird die Furcht
 nicht los, man konnte ihn für den Dieb der Million halten.
 Und dabei war’s doch Adam Stripley, der sie sich holte. — So
-— nun wollen wir uns das Innere Garage ansehen.«
+— nun wollen wir uns das Innere der Garage ansehen.«
 
 »Und der Brief, den Du jetzt in Deiner Tasche hast?«
 fragte ich gespannt.
@@ -1271,7 +1271,7 @@ Mörders irgendwo scharf ausgeprägt finden.«
 
 »Du glaubst also wirklich, daß Palperlon hier —«
 
-»Gewiß, gewiß! Ihm traue sich es sehr wohl zu, daß
+»Gewiß, gewiß! Ihm traue ich es sehr wohl zu, daß
 er die angebliche Entführung durchschaut hat und dann
 Stripley den Brief schickte. Aber — in diesen Schlußfolgerungen
 muß ein Fehler stecken — irgendwo! Sie sind doch
@@ -1310,7 +1310,7 @@ vielleicht mehr leisten als ich.«
 Die Fährte war nur schwer zu verfolgen. Für uns besonders
 schwer, da Harst sich hütete, etwa vorhandene Eindrücke
 irgendwie zu verwischen. Er hielt sich stets abseits der Spur
-in Rücksicht aus die »Offiziellen«.
+in Rücksicht auf die »Offiziellen«.
 
 Der Mörder war zumeist am Rande der Wege auf dem
 Rasen entlanggeeilt. Wo dies nicht möglich, hatte er die Füße
@@ -1380,7 +1380,7 @@ er von dieser Entführung hielt, und von ihm ein Schweigegeld
 verlangt haben. Es war dies eine Vermutung, nichts
 weiter. Und — ich fand diesen Brief. Ich werde ihn vorlesen:
 
-»Sehr geehrter Herr Stripley! Das Geheimnis das
+> »Sehr geehrter Herr Stripley! Das Geheimnis das
 mit dem Verschwinden Ihrer Tochter zusammenhängt, reizte
 mich. Ich habe es enthüllt. Genau so wie Sie! — Ja, Herr
 Stripley, als ich Sie in der Nacht nach der Deponierung der
@@ -1396,11 +1396,11 @@ daß Sie gerade mir wohl Vertrauen schenken können. — Ihr
 sehr ergebener Harald Harst.«
 
 Harst steckte den Brief wieder zu sich. »Ich räume ein:
-dieser Inhalt überrascht mich doch!« meinte er »Sie sehen,
+dieser Inhalt überrascht mich doch!« meinte er. »Sie sehen,
 Herr Graf, Sie haben Ihren Schwiegervater unterschätzt. Er
 hat die Komödie durchschaut. Daß er trotzdem weiter den
 Ahnungslosen spielte, dürfte deswegen geschehen sein, um gegen
-Sie, der ihm als Schwiegersohn nie lieb war, mehr noch;
+Sie, der ihm als Schwiegersohn nie lieb war, mehr noch,
 den er insgeheim gehaßt haben mag, zu einem vernichtenden
 Schlage auszuholen. Vielleicht wollte er seine Tochter
 enterben, vielleicht Ihre Ehe irgendwie auseinanderbringen.
@@ -1414,7 +1414,7 @@ eines Mannes durchsuchen zu können, der ihn bei
 einer Ueberraschung gegen jede Ungelegenheit geschützt hätte.
 Es liegt hier also ein Bubenstück Palperlons vor, das seinen
 bisherigen Schandtaten durchaus gleichwertig ist. Daß ich
-hier Kopenhagen bin, weiß er fraglos nicht. Sonst wäre
+hier in Kopenhagen bin, weiß er fraglos nicht. Sonst wäre
 er noch vorsichtiger gewesen. — Der Verlauf der Tragödie
 in der Garage läßt sich mit wenigen Sätzen wiedergeben.
 Stripley fällt auf den vertrauenerweckenden Namen Harst
@@ -1444,7 +1444,7 @@ war zu ihm äußerst liebenswürdig. Harst zeigte ihm
 ein Stück Zeitung, auf deren Rand eine Wäscherechnung
 mit Bleistift notiert war: »3 Hemd. — 1,80, 2 Oberh. —
 2,00«, und so weiter. Darüber stand ein Name: »Monkefeld.
-Olsersgade 17« — Nach einigen erklärenden Bemerkungen
+Olfersgade 17« — Nach einigen erklärenden Bemerkungen
 Harsts fuhren wir mit dem Dienstauto in Begleitung eines
 der Kriminalbeamten nach Kopenhagen, weckten die Inhaberin
 der Wasch- und Plättanstalt Frau Monkefeld, die sehr
@@ -1464,8 +1464,7 @@ unfehlbar durch Palperlon verraten werden?!«
 
 »Lieber Alter,« erwiderte er und drückte meinen Arm.
 »Ich weiß eben, daß wir ihn <span class="g">nicht</span> fangen werden. Ich
-will nur der Polizei beweisen, daß dieser »Unbekannte«.
-Ich will nur der Polizei beweisen, daß dieser »Unbekannte«,
+will nur der Polizei beweisen, daß dieser »Unbekannte«,<refnote 3/>
 der bei der Torstensen wohnte — wohnte, nicht <span class="g">wohnt</span>, der
 Mörder ist. Dann wird sie sich mit allem Eifer auf diese
 Fährte stürzen und die wahren »Erpresser« nicht durch allerlei
