@@ -1464,7 +1464,7 @@ unfehlbar durch Palperlon verraten werden?!«
 
 »Lieber Alter,« erwiderte er und drückte meinen Arm.
 »Ich weiß eben, daß wir ihn <span class="g">nicht</span> fangen werden. Ich
-will nur der Polizei beweisen, daß dieser »Unbekannte«,<refnote 3/>
+will nur der Polizei beweisen, daß dieser »Unbekannte«,<@refnote 3/>
 der bei der Torstensen wohnte — wohnte, nicht <span class="g">wohnt</span>, der
 Mörder ist. Dann wird sie sich mit allem Eifer auf diese
 Fährte stürzen und die wahren »Erpresser« nicht durch allerlei
