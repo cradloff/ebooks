@@ -12,7 +12,7 @@ Ich wurde sofort stutzig. – Seltsamen Vogel?! – Konnte sich das auf James Pa
 
 »Ach so – ganz richtig, mein lieber Schraut!« Dieser Ausruf war Komödie. »Ganz richtig! Dann will ich mal nachsehen, ob die hiesige Presse über die Vorgänge dieser Nacht bereits unterrichtet ist und wie sie ihren Lesern diese Sensationsnachricht zurechtgestutzt hat. Meistens phantasieren ja die Reporter die Hälfte dazu.«
 
-Er entfaltete die Zeitung, suchte die Spalten durch und rief dann: »Aha – hier haben wir’s! Und - schau’ nur, auch unsere Namen prangen in der Überschrift:
+Er entfaltete die Zeitung, suchte die Spalten durch und rief dann: »Aha – hier haben wir’s! Und — schau’ nur, auch unsere Namen prangen in der Überschrift:
 
 »Ermordung des stadtbekannten Antiquars Severin Blomberg. – Der berühmte Liebhaberdetektiv Harald Harst und sein Privatsekretär Max Schraut in Stockholm. – Verhaftung des berüchtigten internationalen Verbrechers James Palperlon.«
 
@@ -33,7 +33,7 @@ Ich war – wohl mit Recht – starr. – Harst steckte sich jetzt mit aller Gem
 
 »Allerdings,« erklärte ich kleinlaut, denn ich merkte schon, daß hier irgend etwas nicht in Ordnung war.
 
-»Na also,« sagte Harald und blieb vor mir stehen. »Mein Alter, – gesehen hast Du sie! Aber wieder nur mit den Augen, mir denen Du auch vorhin genußfroh Deine Scheibe Schinken betrachtetest. – Soll ich Dir abermals vorhalten, daß man als Detektiv unbedingt das Hauptgewicht auf das geistige Sehen legen muß?! Was nützt es, gute Augen zu haben, wenn nicht der Verstand gleichzeitig diese Bilder, die die Sehnerven uns vermitteln, mitprüft?! – Kurz und gut: die Narbe an dem Mittelfinger der weiblichen Person, die ganz nett ohne Schleier ausschaute und die mit gut nachgeahmter, sonorer Männerstimme dann zugab, Palperlon zu sein, – diese Narbe war kaum sechs Wochen alt, wie ich sofort bemerkte. Mithin war’s nicht Palperlon, sondern jemand, den er zu dem mit Blomberg in der vergangenen Nacht vereinbarten Stelldichein geschickt hatte. Jemand! Und – es war ein Weib, lieber Schraut, kein verkleideter Mann. Es war ein Weib, das ich auf 20–25 Jahre einschätze, weiter auf eine Deutsche, denn ihr Schwedisch klang genau so »germanisch« wie das meine.«
+»Na also,« sagte Harald und blieb vor mir stehen. »Mein Alter, – gesehen hast Du sie! Aber wieder nur mit den Augen, mit denen Du auch vorhin genußfroh Deine Scheibe Schinken betrachtetest. – Soll ich Dir abermals vorhalten, daß man als Detektiv unbedingt das Hauptgewicht auf das geistige Sehen legen muß?! Was nützt es, gute Augen zu haben, wenn nicht der Verstand gleichzeitig diese Bilder, die die Sehnerven uns vermitteln, mitprüft?! – Kurz und gut: die Narbe an dem Mittelfinger der weiblichen Person, die ganz nett ohne Schleier ausschaute und die mit gut nachgeahmter, sonorer Männerstimme dann zugab, Palperlon zu sein, – diese Narbe war kaum sechs Wochen alt, wie ich sofort bemerkte. Mithin war’s nicht Palperlon, sondern jemand, den er zu dem mit Blomberg in der vergangenen Nacht vereinbarten Stelldichein geschickt hatte. Jemand! Und – es war ein Weib, lieber Schraut, kein verkleideter Mann. Es war ein Weib, das ich auf 20–25 Jahre einschätze, weiter auf eine Deutsche, denn ihr Schwedisch klang genau so »germanisch« wie das meine.«
 
 Das Telephon auf dem Schreibtisch an der anderen Wand schrillte unaufdringlich.
 
@@ -181,7 +181,7 @@ Frau Knork blickte Harst überrascht an. »So ist es. Die Skizze glaubte er dort
 
 »Ja. Aber die Diebe ließen sie unbeachtet. Sie war auf ein Stück gegerbte Haut gezeichnet. Dieses quadratische Lederstück hatte mein Mann zu einem Beutel für einen wertvollen Meerschaumpfeifenkopf zusammengenäht, damit es ganz harmlos wirkte.«
 
-»Noch eine letzte Frage, gnädige Frau,« meinte Harst. »Dann wollen wir versuchen, ob wir Ihre Tochter nicht zum Sprechen bringen. - Sie erwähnten, daß Ihnen in Kopenhagen auf geheimnisvolle Weise Nachricht über meinen Aufenthalt hier in Stockholm gegeben wurde. Wollen Sie mir bitte hierüber Näheres mitteilen.«
+»Noch eine letzte Frage, gnädige Frau,« meinte Harst. »Dann wollen wir versuchen, ob wir Ihre Tochter nicht zum Sprechen bringen. — Sie erwähnten, daß Ihnen in Kopenhagen auf geheimnisvolle Weise Nachricht über meinen Aufenthalt hier in Stockholm gegeben wurde. Wollen Sie mir bitte hierüber Näheres mitteilen.«
 
 
 <@pagebreak/>
@@ -281,7 +281,7 @@ Nachkomme des letzten Sulukönigs Dinigulu sei und in einem Dorfe nordöstlich d
 
 Eines Mittags bogen wir dann zwischen zwei Bergen in ein sehr romantisches, felsiges Flußtal ein. Dort unten rauschte und brauste der Muwuru.
 
-Von diesem Augenblick an änderte sich Harsts Benehmen vollständig. Er wurde überaus vorsichtig und mißtrauisch. Mansa verstand kein Wort Deutsch. Harst sagte daher zu mir in deutscher Sprache: »Wir haben bisher von Palverlons Anwesenheit hier in Südafrika nicht das geringste bemerkt. Und doch wette ich, daß er hier ist. Es gibt noch einen zweiten Weg zum Muwuru, von Norden her, von Johannesburg. Möglich, daß er den gewählt hat.«
+Von diesem Augenblick an änderte sich Harsts Benehmen vollständig. Er wurde überaus vorsichtig und mißtrauisch. Mansa verstand kein Wort Deutsch. Harst sagte daher zu mir in deutscher Sprache: »Wir haben bisher von Palperlons Anwesenheit hier in Südafrika nicht das geringste bemerkt. Und doch wette ich, daß er hier ist. Es gibt noch einen zweiten Weg zum Muwuru, von Norden her, von Johannesburg. Möglich, daß er den gewählt hat.«
 
 Wir ritten nun in das Flußtal hinab. Es gab hier etwas wie einen Weg. Man sah, daß die Rätselbrücke von den umwohnenden Sulus und Kaffern doch häufiger benutzt wurde. Die Brücke erkannten wir schon von weitem. Der Fluß war etwa fünfzig Meter breit, die Ufer meist abschüssig und bis zu zwanzig Meter hoch. An einer Stelle lag mitten in der reißenden, schäumenden Strömung ein Felsblock von vielleicht 25 Meter Höhe. Diese schlanke Natursäule stellte den Pfeiler der Brücke dar.
 
@@ -313,7 +313,7 @@ Wenn man bereits anderthalb Jahre Privatsekretär und Gehilfe eines Harald Harst
 <@pagebreak/>
 einiges. Ich erwiderte daher. »Der erste Satz bezieht sich vielleicht auf ein verfehltes Rendezvous. – Empfang alles vorbereitet – hm, darüber bin ich mir nicht klar, ehrlich gesagt. Der letzte Satz aber ist wohl so zu ergänzen, daß der Hersteller dieser Papierkugelmitteilung sich bei befreundeten Leuten aufhält.«
 
-Harst nickte zerstreut. »Die Hauptsachen fehlen, lieber Schraut. Aber mit Deinen Ergänzungen bin ich einverstanden. – Ich will nun meine Ansicht über diese Mitteilung zum besten geben. Du weißt, daß zwischen Palperlon und seinem Vertrauten Morrisson einmal in einem von Magda Knork teilweise belauschten Gespräch die Worte »Okirupu« und »großer Fetisch« wiederholt genannt wurden. Dieses Gespräch soll vor etwa sieben Monaten stattgefunden haben. Da nun Palperlon persönlich dem Generalkonsul hier in Südafrika nicht aufgelauert haben kann, denn er weilte, wie uns bekannt, zu derselben Zeit in Berlin, dürfte Morrisson bei dem Anschlage auf Johannes Knork beteiligt gewesen sein. Ich brauche gerade Dir wohl nicht näher zu erklären, weshalb ich hier einen Anschlag vermute. Es sollte eben zugleich mit Knork auch die Skizze der Muwuru-Mine verschwinden, damit Palperlon dann als einziger deren genaue Lage kannte. Morrisson wird also hier den Generalkonsul entweder beiseite geschafft haben oder aber ihn irgendwo gefangen halten. Offen gestanden: ich fürchte das erstere! Palperlon tut ja nie halbe Arbeit. Tote sprechen nicht mehr! Danach handelt er. – Morrisson ist dann hiergeblieben, um Palperlon zu erwarten, der ja noch in Europa so allerlei gewinnbringende Geschäfte vorhatte, an denen wir gleichsam als Gegenpartei mitwirkten. Ich erinnere nur an den Fall des »ewigen Juden«, den sogenannten »Seher von Lissabon!« Und Morrisson hat meiner Meinung die Papierkugel für Palperlon vorbereitet, mit dem er vielleicht in Johannesburg – daher die Buren-Post – zusammentreffen wollte, wo sie sich aber aus irgend einem Grunde verfehlt haben mögen. – Nun noch der mittelste Satz: »Empfang alles vorbereitet.« Ob sich dies nicht auf uns bezieht, mein Alter? Ob Palperlon nicht damit gerechnet hat, ich könnte mich auch in seine hiesigen Geschäfte einmischen?! Ob er nicht vielleicht Morrisson eine chiffriere Kabeldepesche mit einer Anweisung für unseren »Empfang« gesandt haben mag? – Du wirst zugeben,
+Harst nickte zerstreut. »Die Hauptsachen fehlen, lieber Schraut. Aber mit Deinen Ergänzungen bin ich einverstanden. – Ich will nun meine Ansicht über diese Mitteilung zum besten geben. Du weißt, daß zwischen Palperlon und seinem Vertrauten Morrisson einmal in einem von Magda Knork teilweise belauschten Gespräch die Worte »Okirupu« und »großer Fetisch« wiederholt genannt wurden. Dieses Gespräch soll vor etwa sieben Monaten stattgefunden haben. Da nun Palperlon persönlich dem Generalkonsul hier in Südafrika nicht aufgelauert haben kann, denn er weilte, wie uns bekannt, zu derselben Zeit in Berlin, dürfte Morrisson bei dem Anschlage auf Johannes Knork beteiligt gewesen sein. Ich brauche gerade Dir wohl nicht näher zu erklären, weshalb ich hier einen Anschlag vermute. Es sollte eben zugleich mit Knork auch die Skizze der Muwuru-Mine verschwinden, damit Palperlon dann als einziger deren genaue Lage kannte. Morrisson wird also hier den Generalkonsul entweder beiseite geschafft haben oder aber ihn irgendwo gefangen halten. Offen gestanden: ich fürchte das erstere! Palperlon tut ja nie halbe Arbeit. Tote sprechen nicht mehr! Danach handelt er. – Morrisson ist dann hiergeblieben, um Palperlon zu erwarten, der ja noch in Europa so allerlei gewinnbringende Geschäfte vorhatte, an denen wir gleichsam als Gegenpartei mitwirkten. Ich erinnere nur an den Fall des »ewigen Juden«, den sogenannten »Seher von Lissabon!« Und Morrisson hat meiner Meinung die Papierkugel für Palperlon vorbereitet, mit dem er vielleicht in Johannesburg – daher die Buren-Post – zusammentreffen wollte, wo sie sich aber aus irgend einem Grunde verfehlt haben mögen. – Nun noch der mittelste Satz: »Empfang alles vorbereitet.« Ob sich dies nicht auf uns bezieht, mein Alter? Ob Palperlon nicht damit gerechnet hat, ich könnte mich auch in seine hiesigen Geschäfte einmischen?! Ob er nicht vielleicht Morrisson eine chiffrierte Kabeldepesche mit einer Anweisung für unseren »Empfang« gesandt haben mag? – Du wirst zugeben,
 <@pagebreak/>
 geben, daß sehr vieles für die Richtigkeit dieser Kombinationen spricht und daß schließlich mit den »Befreundeten« recht gut der Fetischpriester Okirupu gemeint sein kann. Jedenfalls hatte ich, nachdem ich diese Mitteilung derart ausgelegt hatte, allen Grund, überaus vorsichtig zu sein. Deshalb zeigte ich Dir auch soeben die Papierkugel nur ganz flüchtig. Es ist nicht ausgeschlossen, daß jemand uns vom anderen Ufer aus beobachtet.«
 
@@ -373,7 +373,7 @@ Ich war jetzt wieder völlig im Besitz meines Denkvermögens.
 <@pagebreak/>
 und Hilfsbereitschaft Master Morrisson hier auftritt.«
 
-Kaum harte er das letzte Wort ausgesprochen, als er auch schon in kurzen Pausen um Hilfe zu rufen begann. Nach einer Weile flüsterte er mir zu: »Gib acht, gleich geht die Komödie los!«
+Kaum hatte er das letzte Wort ausgesprochen, als er auch schon in kurzen Pausen um Hilfe zu rufen begann. Nach einer Weile flüsterte er mir zu: »Gib acht, gleich geht die Komödie los!«
 
 Er brauchte mich wahrhaftig nicht hierzu aufzufordern. Ich war viel zu begierig auf das, was nun folgen würde, um nicht beständig jetzt nach oben zu schauen.
 
@@ -387,7 +387,7 @@ Zu meinem Erstaunen antwortete Harst gleichfalls auf Englisch: »Zwei Deutsche s
 
 Gleich darauf flutete das Tageslicht zu uns herein, und über dem Rande des Schachtes erschien sehr bald ein Kopf mit einem großen Schlapphut. Das konnte nur Morrisson sein! Der brandrote Vollbart sagte genug.
 
-Eine Leine schwebe herab. Harst flüsterte: »Erst Du! Spiele den Kranken, mein Alter. Die blutige Beule an Deiner Stirn wirkt sehr überzeugend. Nenn’ auch ruhig Deinen richtigen Namen, ebenso den meinen, falls Morrisson Dich fragt.«
+Eine Leine schwebte herab. Harst flüsterte: »Erst Du! Spiele den Kranken, mein Alter. Die blutige Beule an Deiner Stirn wirkt sehr überzeugend. Nenn’ auch ruhig Deinen richtigen Namen, ebenso den meinen, falls Morrisson Dich fragt.«
 
 Ich wurde hochgehißt. Morrisson empfing mich mit den Worten: »Zum Donner, Master, wie seid Ihr denn da hinabgeraten?! Das scheint ja eine wahre Teufelserfindung zu sein! Ein Glück, daß wir auf einem Jagdausflug gerade hier vorüberkamen!«
 
@@ -399,7 +399,7 @@ er den Arglosen und Dankbaren mimte. Er drückte Morrisson die Hand, meinte: »M
 
 Dann wurde die Falltür wieder mit Hilfe der Zugvorrichtung geschlossen. Morrisson und die Sulus taten weiter so, als hätten sie bisher keine Ahnung von dem Vorhandensein dieser Menschenfalle gehabt.
 
-Harst bat, daß für mich eine Tragbahre hergestellt würde. Es geschah. Die Sulus schleppten mich dann nach der Schlucht, wo Mansa auf uns wartete. Auf dem Wege dorthin erzählte Harst dem »biederen« Morrisson, daß wir Harst und Schraut hießen und als Privatdetektive nach Kapland gekommen seien, um einen Landsmann zu suchen. Den Namen Knork verschwieg er. Morrisson seinerseits erklärte, er sei »Prospektor«, Goldsucher. Die Neger stellte er uns mit einer gewissen Wichtigkeit als den obersten Fetischpriester der Sulus, Master Okirupu, und den zweiten Ferischpriester, Master Diguru, vor.
+Harst bat, daß für mich eine Tragbahre hergestellt würde. Es geschah. Die Sulus schleppten mich dann nach der Schlucht, wo Mansa auf uns wartete. Auf dem Wege dorthin erzählte Harst dem »biederen« Morrisson, daß wir Harst und Schraut hießen und als Privatdetektive nach Kapland gekommen seien, um einen Landsmann zu suchen. Den Namen Knork verschwieg er. Morrisson seinerseits erklärte, er sei »Prospektor«, Goldsucher. Die Neger stellte er uns mit einer gewissen Wichtigkeit als den obersten Fetischpriester der Sulus, Master Okirupu, und den zweiten Fetischpriester, Master Diguru, vor.
 
 »Es sind die beiden einflußreichsten Männer des Suluvolkes,« fügte er hinzu.
 

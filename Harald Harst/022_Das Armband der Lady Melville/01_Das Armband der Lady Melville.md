@@ -57,7 +57,7 @@ Schauspielers zu verändern.
 
 Als er aus der Wanne gestiegen, hatte er lediglich Aehnlichkeit
 mit mir selbst gehabt, mit Max Schraut, dem Freunde
-und Privatsekretär des einigermaßen benannten Liebhaberdetektivs
+und Privatsekretär des einigermaßen bekannten Liebhaberdetektivs
 Harald Harst. —
 
 Mein Zimmer bei Frau Torstensen — ich war mittags
@@ -103,7 +103,7 @@ Loggia angebrachtes, sehr langes und auffallendes Schild:
 »Fremdenheim 1. Ranges Tilda Olafsen«; gewahrten an den
 Fenstern rechts davon die dunkle Gestalt eines Menschen; ob
 Mann oder Weib, war nicht zu erkennen, denn das Zimmer
-war nicht beleuchtet.«
+war nicht beleuchtet.
 
 Gleichgültig wollten meine Blicke wieder auf die Straße
 hinabspähen.
@@ -208,14 +208,14 @@ Sache ist in einer Stunde erledigt. Ich habe schon einen Strick
 mit eingeknoteten Handgriffen bereit, mit dessen Hilfe wir
 ganz bequem vom Balkon auf die Straße gelangen werden.
 Der Nebel draußen ist jetzt so dicht, daß man ihn auf Flaschen
-füllen kann. Sehr günstig für uns. Zieh Dir Deinen blauen
+füllen kann. Sehr günstig für uns. Zieh’ Dir Deinen blauen
 Sweater über, dann brauchst Du keinen Mantel. Nimm auch
 eine weiche Reisemütze und Deinen Selbstknaller. Man kann
 ja nie wissen was passiert!«
 
 Im Dunkeln traf ich meine Vorbereitungen für den
 Ausflug, — Ausflug wohin wohl? Ich hatte keine Ahnung
-und — das war gut! Hätte ich’s gemußt, wäre ich vielleicht
+und — das war gut! Hätte ich’s gewußt, wäre ich vielleicht
 zum ersten Mal daheim geblieben und hätte Harst allein gehen
 lassen.
 
@@ -299,7 +299,7 @@ anzusehen wie ein langer Koffer auf Rädern.
 
 Beim Anblick dieses Karrens wurde mir unbehaglich.
 
-»Harald wo sind wir eigentlich?« fragte ich unsicher.
+»Harald, wo sind wir eigentlich?« fragte ich unsicher.
 
 »Nun — im Leichenschauhause von Kopenhagen!«
 
@@ -351,7 +351,7 @@ Auf Hobelspänen lag da ein grober Leinensack der halb
 aufgeschnitten war und die Mauersteine sehen ließ, mit denen er
 gefüllt war.
 
-Ich wollte den Deckel wieder in die Lage- zurückbringen.
+Ich wollte den Deckel wieder in die Lage zurückbringen.
 
 »Nein!« wehrte Harst ab. »Dort auf den Boden mit
 ihm! Leise! — Ich möchte mir auch diese Leichenattrappe
@@ -470,7 +470,7 @@ führt.
 Dann beugte er sich wieder vor, legte mir die Hand auf
 das Knie.
 
-»Du ahnst nicht,« sagte er langsam, »wir ungeheuer
+»Du ahnst nicht,« sagte er langsam, »wie ungeheuer
 wichtig dieses Rätselwesen für unsere jetzige Arbeit ist, lieber
 Alter! Wie ein Blitz kam mir soeben die Erleuchtung. Ich
 weiß, welcher Art dieses Geschöpf war! Ich weiß, weshalb es
@@ -571,7 +571,7 @@ Veröffentlichung unserer kleinen Abenteuer zu einer nur
 zu bekannten Marke gemacht! — Also — wer sperrte uns
 hier ein? — Du zuckst die Achseln. Lieber Alter — die
 Sache ist doch so leicht zusammenzustellen und ergibt ein Bild,
-das als logisches Denkgemälde auf den »<span class="g">Kerl</span>« hinweist.
+das als logisches Denkgemälde auf den »<span class="g">Kerl</span>« hinweist,
 der vorhin so leise die Wohnung der Majorin verließ.«
 
 Ah — jetzt wurde es wirklich hell in mir.
@@ -586,7 +586,7 @@ Gefecht gesetzt wurde, — daraus geht hervor, wie recht ich
 hatte, als ich behauptete, dieser Möblierte der Majorin verdiene
 ein Fragezeichen. Der Mensch hat eben sofort richtig
 durchschaut, daß wir Spione sind, hat uns, wozu ihn sein eigenes
-schlechtes Gewissen trieb, hier festgehalten, weiß nun
+schlechtes Gewissen trieb, hier festgehalten, weiß nun,
 daß es für ihn höchste Zeit ist, das gastliche Heim der Thorstensen
 zu verlassen — das ist <span class="g">der verdorbene Trumpf</span>, lieber
 Schraut! — wird jetzt seine Koffer packen und heimlich
@@ -644,7 +644,7 @@ geben lassen.
 
 Die Sicherheitskette der Flurtür war zum Glück noch losgehakt.
 Als Harst dies gemerkt hatte, war ein sehr gedehntes
-»Hm, Hm!« über seine Lippen gekommen.
+»Hm, hm!« über seine Lippen gekommen.
 
 Mit den Stiefeln in der Hand standen wir nun im Dunkeln
 vor meiner Zimmertür. Da erst fiel mir ein, daß ich
@@ -730,7 +730,7 @@ auf der Straße kurz nach ¼ 12 Uhr verriet, daß Sie mir auflauerten.
 Ich habe den Spieß umgedreht und bin Ihnen gefolgt.
 — Ich habe alle Ursache, zunächst das Feld hier zu räumen.
 Ich verschwinde. Der Schlüssel ist der Ihrer Stubentür.
-— Ich halbe Ihre und Schrauts Koffer durchwühlt. Schminkkasten,
+— Ich habe Ihre und Schrauts Koffer durchwühlt. Schminkkasten,
 Perücken und so vielgestaltige Garderobe führen nur
 Harst und Schraut mit sich. — Die harmlose, aber neugierige
 Köchin Ulla berichtete mir von den beiden Herren, die heute
@@ -983,7 +983,7 @@ Ich berichtete, wie es gekommen, daß ich auf die Jacht
 aufmerksam wurde und weshalb mir gerade der Name Melville
 Veranlassung gegeben hatte, in meinem Gedächtnis so
 ein wenig rückwärts zu blättern, ohne freilich die richtige
-Stelle zu finden.«
+Stelle zu finden.
 
 »Glaubst Du, daß der Fischer den Namen Melville in Bezug
 auf die Jacht nannte?« fragte Harst hastig und sprang
@@ -1150,39 +1150,39 @@ ist Ihnen bekannt, Mylord. Ein Verbrechergenie von
 Palperlons Qualität stirbt und wacht nach Belieben wieder
 auf. Wir haben ja ähnliches damals in Indien erlebt, in
 Madras. Mein Freund Schraut hat dieses Abenteuer unter
-dem Titel »Der Fakir von Nagpur unlängst veröffentlicht.
+dem Titel »Der Fakir von Nagpur« unlängst veröffentlicht.
 
 Dieser Busley lebte also noch. Und — wie lebte er! Er
 war uns nachgeschlichen, sperrte uns dort unten ein und floh
 dann aus der Wohnung der Majorin, bevor wir heimkehrten.«
 
 Der Lord schüttelte den Kopf. »Einen Augenblick, Herr
-Harst — Aus der Wohnung der Torstensen? — das verstehe
+Harst. — Aus der Wohnung der Torstensen? — das verstehe
 ich nicht. War er denn etwa —«
 
 »Ja — er war noch immer dort Mieter. Das klingt
-sehr widerspruchsvoll ist aber sehr einfach. Er war nämlich
+sehr widerspruchsvoll, ist aber sehr einfach. Er war nämlich
 <@pagebreak/>
 bei der Majorin »möblierter Herr« in doppelter Gestalt.
 Einer als Busley, dann als — ein Anderer, dessen Namen ich
 nicht weiß. Diese Doppelrolle konnte auch nur ein Palperlon
 auf sich nehmen. Er hat sie jedenfalls so tadellos durchgeführt,
-daß wir hierauf erst kamen, als er uns Den Rückweg
+daß wir hierauf erst kamen, als er uns den Rückweg
 aus dem Leichenkeller versperrte, uns zu einem Genickbruch
 verhelfen wollte und uns schließlich auch einen Brief
-mit Der Unterschrift — James Palperlon in seinem Zimmer
+mit der Unterschrift — James Palperlon in seinem Zimmer
 zurück gelassen hatte! — Hier ist der Brief, Mylord. Bitte lesen
 Sie ihn. Sie ersehen daraus, wie sicher Palperlon seiner
-Sache war, Daß ich nie und nimmermehr dahinter kommen
+Sache war, daß ich nie und nimmermehr dahinter kommen
 könnte, weshalb er diese Doppelrolle bei der Majorin gegeben
 und was er fernerhin plante.
 
 So, nun der nächste Punkt.
 
 Ich hatte in Busleys Zimmer einen halben Briefumschlag
-gefunden, Der an ihn adressiert gewesen. Links oben befand
+gefunden, der an ihn adressiert gewesen. Links oben befand
 sich ein ebenfalls nur noch zur Hälfte vorhandener Firmenstempel.
-Ich Deutete oder besser ergänzte diesen zunächst falsch,
+Ich deutete oder besser ergänzte diesen zunächst falsch,
 indem ich die Silbe »Tau« für den Anfang eines Straßennamens
 hielt. Erst als ich dann in dem Leichenkeller den
 Leinensack im Sarge Busleys mir recht genau ansah, bemerkte
@@ -1191,24 +1191,24 @@ ich daran eine ganz verwaschene Aufschrift und zwar:
 > J. H.
 > Tauc&nbsp;&nbsp;r.
 
-In Dem Tauc&nbsp;&nbsp;r fehlten Buchstaben. Sie waren nicht mehr
-zu entziffern. Da aber Der Firmenstempel mit »Jörn Hol«
+In dem Tauc&nbsp;&nbsp;r fehlten Buchstaben. Sie waren nicht mehr
+zu entziffern. Da aber der Firmenstempel mit »Jörn Hol«
 begonnen hatte, der Sack nun J. H. gezeichnet war, der Umschlag
 weiterhin im Firmenstempel ein »Tau« enthielt, gab
 ich den Gedanken an einen Straßennamen auf und ergänzte
 das Tauc&nbsp;&nbsp;r in »Taucher«, was auch mit der Lücke zwischen c
 und r stimmte.
 
-Wenn ich nun Dem halben Umschlag zuerst nur deshalb
-Wichtigkeit beigemessen hatte, weil ich Diesen »Jörn Hol« aus
-»Christi« zu ermitteln und Durch ihn zu erfahren hoffte,
+Wenn ich nun dem halben Umschlag zuerst nur deshalb
+Wichtigkeit beigemessen hatte, weil ich diesen »Jörn Hol« aus
+»Christi« zu ermitteln und durch ihn zu erfahren hoffte,
 welche Geschäftsbeziehungen er zu Busley unterhalten hatte,
 so half mir jetzt mein Freund Schraut einen Schritt weiter,
 indem er mir mitteilte, er habe an einem Fenster auf der anderen
-Straßenseite ein Rätselgeschöpf gesehen, Dessen dunkel
+Straßenseite ein Rätselgeschöpf gesehen, dessen dunkel
 glänzender, riesiger Kürbiskopf und übergroßer Mund
 ihm besonders aufgefallen seien. Aus seiner Beschreibung
-Dieser merkwürdigen Gestalt hätte ich nun wohl nicht so
+dieser merkwürdigen Gestalt hätte ich nun wohl nicht so
 <@pagebreak/>
 schnell klug werden können, wenn ich nicht vorher sowohl das
 Tauc&nbsp;&nbsp;r auf dem großen Leinensack als auch das »Tau« des
@@ -1321,7 +1321,7 @@ Harst nickte. »So ist’s! — Er hatte etwas vor mit diesem
 Taucheranzug! Und dieses »Etwas« hat Busley-Palperlon
 in seiner Siegesgewißheit in seinem Briefe selbst angedeutet:
 der Talisman einer Adelsfamilie, der — versagt hat! — Das
-heißt nichts anderes, Mylord als daß die Jacht Ihrer Frau
+heißt nichts anderes, Mylord, als daß die Jacht Ihrer Frau
 Mutter — es tut mir leid, dies so offen aussprechen zu müssen
 — irgendwo auf dem Meeresgrunde ruht und daß aus dem
 Wrack das Armband durch den Kapitän Plampool herausgeholt
@@ -1390,7 +1390,7 @@ Briefumschlag fand ich in einem Buche über die dänischen
 Inseln. Es war ein Spezialwerk. Der Umschlag lag als
 Lesezeichen dort, wo der Artikel über Saltholm begann. Dieser
 Abschnitt hatte 16 Seiten. Das Buch war so gut wie gar
-nickt benutzt worden. Wer liest auch rein geographische
+nicht benutzt worden. Wer liest auch rein geographische
 Werke?! — Auf Seite 102 und 103, dort, wo die winzigen
 Inseln an der Südspitze Saltholms besprochen sind, fand ich
 sowohl am Rande Fingerabdrücke als auch Durchdrücke von

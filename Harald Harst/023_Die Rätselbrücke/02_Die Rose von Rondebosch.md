@@ -8,7 +8,7 @@ hatten zur Rechten den Teufels- und zur Linken den Löwenberg, die die prächtig
 
 Harst holte sein Zigarettenetui hervor und hielt es mir hin.
 
-»Bitte, bediene Dich, lieber Schraut – Ich fürchte mit unseren Ferien ist’s vorbei. Uns wird sofort ein älterer Herr ansprechen, der soeben sehr eilig den steilen Pfad heraufgekeucht kam, dann die zwei Dutzend Menschen hier oben prüfend musterte und nun nur noch Augen für uns hat. Ich kenne ihn nicht. Es ist fraglos ein wohlhabender Engländer und zwar ein Einheimischer. Ein so stark gebräuntes Gesicht findet man nur bei denen, die jahrelang unter der heißen Sonne Afrikas lebten. Der Herr ist verheiratet und dürfte 50 Jahre alt sein. Er ist Liebhaber von Diamanten. Seine Ringe und seine Busennadel stellen ein Vermögen dar. Aber – er hat Sorgen. Er sieht verstört aus. Ich wette, er hat aus den hiesigen Zeitungen erfahren, daß ich seit drei Tagen hier im Hotel Atlantik wohne, ist im Hotel gewesen, hat nach uns gefragt und wird von unserem Landsmann und Zimmerkellner den Bescheid erhalten haben, wir hätten eine Tour nach dem Tafelberg unternommen.«
+»Bitte, bediene Dich, lieber Schraut. – Ich fürchte mit unseren Ferien ist’s vorbei. Uns wird sofort ein älterer Herr ansprechen, der soeben sehr eilig den steilen Pfad heraufgekeucht kam, dann die zwei Dutzend Menschen hier oben prüfend musterte und nun nur noch Augen für uns hat. Ich kenne ihn nicht. Es ist fraglos ein wohlhabender Engländer und zwar ein Einheimischer. Ein so stark gebräuntes Gesicht findet man nur bei denen, die jahrelang unter der heißen Sonne Afrikas lebten. Der Herr ist verheiratet und dürfte 50 Jahre alt sein. Er ist Liebhaber von Diamanten. Seine Ringe und seine Busennadel stellen ein Vermögen dar. Aber – er hat Sorgen. Er sieht verstört aus. Ich wette, er hat aus den hiesigen Zeitungen erfahren, daß ich seit drei Tagen hier im Hotel Atlantik wohne, ist im Hotel gewesen, hat nach uns gefragt und wird von unserem Landsmann und Zimmerkellner den Bescheid erhalten haben, wir hätten eine Tour nach dem Tafelberg unternommen.«
 
 Hinter uns – denn wir standen dicht am steilen Abhang – jetzt ein tiefe Stimme:
 
@@ -36,7 +36,7 @@ Der Pfad ist schmal, der zur Bergkuppe führt, so daß ich hinter den beiden Her
 <@pagebreak/>
 vergangenen Nacht nur vier Personen in der Villa selbst aufhielten: die Köchin, das Stubenmädchen, Edward und ich.«
 
-Zu meinem Erstaunen schnitt Harst setzt ein anderes Thema an: Augenkrankheiten! – Er erkundigte sich teilnehmend nach Frau Fitzgeralds Augenübel und bewies, daß er über Netzhautablösung besser Bescheid wußte als Jones Fitzgerald selbst. Als dieser das Gespräch wieder auf den Diebstahl bringen wollte, meinte Harst, das weitere möchte er sich lieber am Tatort schildern lassen.
+Zu meinem Erstaunen schnitt Harst jetzt ein anderes Thema an: Augenkrankheiten! – Er erkundigte sich teilnehmend nach Frau Fitzgeralds Augenübel und bewies, daß er über Netzhautablösung besser Bescheid wußte als Jones Fitzgerald selbst. Als dieser das Gespräch wieder auf den Diebstahl bringen wollte, meinte Harst, das weitere möchte er sich lieber am Tatort schildern lassen.
 
 Gegen zwölf Uhr mittags langten wir vor dem Parktor der Besitzung Fitzgeralds an. Schon die Mauer aus Backsteinen, das schmiedeeiserne Tor und das Gärtnerhäuschen daneben verrieten, daß Fitzgerald sehr reich sein mußte. Alles hier trug den Stempel des Gediegenen und bewies auch Geschmack. Die Villa lag in einer Lichtung des Parkes hinter einer weiten Rasenfläche, war im italienischen Stil gebaut und hatte zwei Stockwerke. Wir trafen vor dem Hause den Gärtner an, der ein Zierbeet frisch bepflanzte. Fitzgerald nickte dem Manne zu und fragte: »Was Neues, Simpson?«
 
@@ -72,7 +72,7 @@ Harst begann dann auf seine Weise das Zimmer zu durchsuchen. Das dauerte über e
 <@pagebreak/>
 das Haus und den Park zu besichtigen. Sie können uns hier ja kaum irgendwie helfen. Im Gegenteil – ich arbeite lieber allein. Sie verstehen mich, Herr Fitzgerald: ich brauche Ruhe zum Überlegen und zu einer Aussprache mit meinem Freunde Schraut.«
 
-Fitzgerald schien es sehr lieb zu sein, daß wir ihn entbehren wollten. Er ließ durch einen der Negerdiener einen Einspänner vorfahren, reichte uns die Hand und war bald in der Allee nach dem Parktor hin verschwunden. Wir standen auf der Freitreppe der Villa und schauten ihm nach. Harst schob dann seinen Arm in den meinen und sagte: Bummeln wir durch den Park. Dort kann uns niemand belauschen.«
+Fitzgerald schien es sehr lieb zu sein, daß wir ihn entbehren wollten. Er ließ durch einen der Negerdiener einen Einspänner vorfahren, reichte uns die Hand und war bald in der Allee nach dem Parktor hin verschwunden. Wir standen auf der Freitreppe der Villa und schauten ihm nach. Harst schob dann seinen Arm in den meinen und sagte: »Bummeln wir durch den Park. Dort kann uns niemand belauschen.«
 
 »Hast Du bereits irgend etwas entdeckt?« fragte ich gespannt.
 
@@ -122,9 +122,9 @@ Name sichert ihn gegen jedes Mißtrauen von seiten der öffentlichen Meinung.«
 
 Harst hatte mit diesen Ausführungen nicht so ganz unrecht, wie ich sehr wohl einsah. Als ich dies gerade aussprechen wollte, hörten wir im Salon Schritte. – Wir lernten nun Edward Pook kennen, einen vielleicht 28jährigen, bartlosen Herrn von sehr gemessenem Wesen, so recht einer jener Engländer, die uns Deutschen als die verkörperte Temperamentlosigkeit und Unnahbarkeit erscheinen.
 
-»Mein Onkel hat mich hergeschickt, um den Herren Gesellschaft zu leisten, sagte er. »Es ist mir eine Ehre, mit Ihnen bekannt zu werden, Herr Harst. Ich hätte nur gewünscht, daß nicht gerade diese unangenehme Veranlassung Sie in das Haus Onkel Jones geführt hätte.«
+»Mein Onkel hat mich hergeschickt, um den Herren Gesellschaft zu leisten,« sagte er. »Es ist mir eine Ehre, mit Ihnen bekannt zu werden, Herr Harst. Ich hätte nur gewünscht, daß nicht gerade diese unangenehme Veranlassung Sie in das Haus Onkel Jones geführt hätte.«
 
-Wir nahmen wieder im Salon Platz. Pook begann über den Diebstahl eine schleppende Unterhaltung. Ihn schien das Verschwenden des wertvollen Steines ziemlich kalt zu lassen. Harst war ebenfalls sehr zugeknöpft und wurde erst lebhafter, als Pook erwähnte, sein Onkel hätte den Diebstahl nun doch der Polizei gemeldet.
+Wir nahmen wieder im Salon Platz. Pook begann über den Diebstahl eine schleppende Unterhaltung. Ihn schien das Verschwinden des wertvollen Steines ziemlich kalt zu lassen. Harst war ebenfalls sehr zugeknöpft und wurde erst lebhafter, als Pook erwähnte, sein Onkel hätte den Diebstahl nun doch der Polizei gemeldet.
 
 »Das ist nur richtig,« meinte Harst. »Die Behörde darf nicht übergangen werden, schon um Mißdeutungen vorzubeugen.«
 
@@ -136,7 +136,7 @@ Pooks Benehmen blieb leicht verlegen. Ich merkte, daß Harst ihn absichtlich dur
 
 
 <@pagebreak/>
-»Sehr ungemütlich hier für uns!« meinte er. Dieser Pook verdient ein Fragezeichen. Der Bursche gefällt mir nicht. Und dieser Inspektor Garner noch weniger.«
+»Sehr ungemütlich hier für uns!« meinte er. »Dieser Pook verdient ein Fragezeichen. Der Bursche gefällt mir nicht. Und dieser Inspektor Garner noch weniger.«
 
 Gut zwanzig Minuten vergingen. Dann kam Garner allein zurück. Sein Gesicht drückte schlecht verhehlten Triumph aus. Sehr im Gegensatz zu seinem Benehmen vorhin zeigte er jetzt Harst gegenüber eine wortreiche Liebenswürdigkeit.
 
@@ -186,7 +186,7 @@ Pook war tot. Harst nickte nur, als Garner nun angesichts der Leiche seine Behau
 <@pagebreak/>
 nach unten, um den Polizeiarzt telephonisch herbeizurufen.
 
-Wir waren allein. Harsts Eifer, mit dem er jetzt den Toten untersuchte, fiel mir auf. Als er die rechte, tadellos gepflegte Hand besichtigte, hörte ich, wie er ein leises »Ah – also das ist«s!« ausstieß.
+Wir waren allein. Harsts Eifer, mit dem er jetzt den Toten untersuchte, fiel mir auf. Als er die rechte, tadellos gepflegte Hand besichtigte, hörte ich, wie er ein leises »Ah – also das ist’s!« ausstieß.
 
 Er richtete sich wieder auf und begann nun hastig, sich im Zimmer umzusehen. Er tat es in einer Weise, die deutlich zeigte, daß er etwas Bestimmtes suchte. Dann öffnete er die Tür nach dem Schlafzimmer und trat ein. Auf dem Bett lag ein grauer Bogen Packpapier, der noch halbwegs die Form des Gegenstandes beibehalten hatte, der darin eingeschlagen gewesen war. Die Tür hatte Harst offen gelassen, und ich konnte daher beobachten, wie er nun vom Nachttischchen einen jener aus Ton gebrannten und scheußlich bemalten Negergötzen aufhob, von allen Seiten besichtigte und dann damit an eins der Fenster trat. Er hielt jetzt den Götzen, der etwa 50 Zentimeter hoch war, an das rechte Ohr, stellte ihn auf das Fensterbrett, klappte sein Taschenmesser auf und hantierte mit der großen Klinge an der Tonstatue herum. Nach einer Weile brachte er den Götzen wieder an seinen Platz und kam in das Wohnzimmer zurück, drückte die Tür hinter sich zu und flüsterte mit jenem mir so wohlbekannten Ausdruck drohender Entschlossenheit:
 
@@ -214,7 +214,7 @@ Garner lehnte an der Tür und hatte schon wieder sein überlegenes, halbes Läch
 
 Jetzt trat Fitzgerald in die offene Tür und bemerkte die Tonstatue, stutzte leicht, eilte hin und betrachtete sie, nahm auch das Packpapier auf, kam dann mit dem Götzen in der Hand in das Wohnzimmer und sagte zu Harst mit bewegter Stimme:
 
-»Da, Herr Harst, – dieser Basuto Götze sollte zweifele los ein Geburtstagsgeschenk für mich sein. Edward wußte,
+»Da, Herr Harst, – dieser Basuto Götze sollte zweifellos ein Geburtstagsgeschenk für mich sein. Edward wußte,
 <@pagebreak/>
 daß ich gerade auf eine solche Statue längst fahndete. Sie sind sehr selten. Ein Händler hier in Kapstadt bot mir letztens genau dieselbe Statue an. Sie war mir aber zu teuer. Der gute Junge wollte mich übermorgen damit sicherlich überraschen. Ich werde 51 Jahre. Und nun – nun wird mich dieser Basuto-Götze nur immer an diesen furchtbaren Tag erinnern.«
 
@@ -258,7 +258,7 @@ Fitzgerald setzte sich in den zweiten Klubsessel mir gegenüber. Er sah jetzt ga
 
 Harst hatte nach der Uhr gesehen, steckte sie wieder weg.
 
-»Es ist jetzt 1/2 3. Um 6 Uhr geht der Dampfer nach Sansibar ab. Schraut und ich haben beschlossen, abzureisen. – Natürlich nur zum Schein,« fügte er hinzu. »So lange alle Welt weiß, daß ich mich Ihrer Sache angenommen habe, werde ich hier nichts ausrichten. Können Sie ein Motorboot mit verschwiegener Bedienung besorgen, das uns aufnimmt, sobald der Dampfer »Shurrfield« das Kap der guten Hoffnung passiert hat? Dann könnten wir meiner Berechnung nach um drei Uhr morgens wieder hier sein.«
+»Es ist jetzt ½ 3. Um 6 Uhr geht der Dampfer nach Sansibar ab. Schraut und ich haben beschlossen, abzureisen. – Natürlich nur zum Schein,« fügte er hinzu. »So lange alle Welt weiß, daß ich mich Ihrer Sache angenommen habe, werde ich hier nichts ausrichten. Können Sie ein Motorboot mit verschwiegener Bedienung besorgen, das uns aufnimmt, sobald der Dampfer »Shurrfield« das Kap der guten Hoffnung passiert hat? Dann könnten wir meiner Berechnung nach um drei Uhr morgens wieder hier sein.«
 
 Fitzgerald war zunächst ganz sprachlos, erklärte dann
 <@pagebreak/>
@@ -342,7 +342,7 @@ Um halb sechs begaben wir uns an Bord des Dampfers, wo wir durch den Hoteldiener
 
 
 <@pagebreak/>
-Ich brachte vor Überraschung kein Wort heraus. Auf alles war ich vorbereitet auf diesen Namen nicht!
+Ich brachte vor Überraschung kein Wort heraus. Auf alles war ich vorbereitet, auf diesen Namen nicht!
 
 Harst sprach einen englischen Offizier an. Er tat’s wohl nur, um meinen Fragen zu entgehen.
 
@@ -380,7 +380,7 @@ wartete ein von Treebram besorgtes Auto auf uns, das uns auf der tadellos gepfle
 
 Ich war jetzt ganz frisch. Der Schlaf in der Kutterkajüte war mir gut bekommen. Wir fanden uns in Rondebosch unschwer zurecht. Genau um 3 Uhr morgens kletterten wir über die Parkmauer der Villa Fitzgeralds und schlichen nun mit größter Vorsicht auf das Gärtnerhäuschen zu.
 
-Dieses stand neben dem Parktor, war ein sauberer kleiner Ziegelbau mit flachem Pappdach und sah ganz wie ein nettes Sommerhaus aus. Zwei der Fenster nach dem Parke hin waren matt erleuchtet. Da sie kaum 1 1/4 Meter über dem Erdboden lagen, konnten wir durch das eine, dessen Vorhänge nur halb geschlossen waren, bequem in die Stube hineinlugen, in der auf dem Nachttischchen neben einem einfachen Bett eine kleine elektrische Stehlampe mit gelbem Stoffschirm brannte.
+Dieses stand neben dem Parktor, war ein sauberer kleiner Ziegelbau mit flachem Pappdach und sah ganz wie ein nettes Sommerhaus aus. Zwei der Fenster nach dem Parke hin waren matt erleuchtet. Da sie kaum 1 ¼ Meter über dem Erdboden lagen, konnten wir durch das eine, dessen Vorhänge nur halb geschlossen waren, bequem in die Stube hineinlugen, in der auf dem Nachttischchen neben einem einfachen Bett eine kleine elektrische Stehlampe mit gelbem Stoffschirm brannte.
 
 Ein einziger Blick genügte: in dem Bett lag, nur mit einer Decke zugedeckt, ein Mann – Palperlon in der Maske, die er hier als Gärtner Simpson trug. Vor dem Bett wieder bemerkte ich eine Zeitung, die offenbar Palperlons Händen beim Einschlafen entfallen war.
 
@@ -400,7 +400,7 @@ erhielt einen furchtbaren Schlag gegen die Schläfe, flog vornüber und verlor d
 
 Mein Erwachen war seltsam genug. Ich hatte plötzlich das Gefühl, daß man mir mit kleinen Hämmern ununterbrochen gegen den Schädel klopfe, mein Kopf selbst aber gar nicht mehr zu meinem Körper gehöre. Daß ich noch einen Leib besaß, spürte ich in keiner Weise. Als ich dann die Augen zu öffnen versuchte, fuhren mir glühende Stangen durch das Hirn. Ich ließ die Lider also geschlossen. Ganz – ganz allmählich gewann ich die Empfindung dafür zurück, daß an meinem schmerzgepeinigten Kopf auch noch ein Leib hing. Und dann wurde mir ebenso langsam klar, daß ich nicht etwa irgendwo ausgestreut lag sondern schwebte. Ich gab mir alle Mühe zu ergründen, wie dieses Schweben zustande kam. Nun hatte ich es ergründet: unter meinen auf dem Rücken gefesselten Armen war ein Strick durchgezogen. An diesem Strick hing ich.
 
-Wieder nach einer geraumen Zeit gelang es mir, die Lider zu heben. Aber es war zwecklos gewesen. Um mich her lauerte schwärzeste Finsternis – Den Knebel im Munde fühlte ich jetzt auch, ebenso den Bindfaden, der den Knebel festhielt und meine Wangen und die Haut des Genicks einschnürte. Als letztes stellte ich nun Fesseln an den Fußgelenken fest, von denen offenbar ein Strick nach unten lief, der meinen Körper gestreckt hielt.
+Wieder nach einer geraumen Zeit gelang es mir, die Lider zu heben. Aber es war zwecklos gewesen. Um mich her lauerte schwärzeste Finsternis. – Den Knebel im Munde fühlte ich jetzt auch, ebenso den Bindfaden, der den Knebel festhielt und meine Wangen und die Haut des Genicks einschnürte. Als letztes stellte ich nun Fesseln an den Fußgelenken fest, von denen offenbar ein Strick nach unten lief, der meinen Körper gestreckt hielt.
 
 Dann kehrte auch die Erinnerung an unsere Überrumpelung zurück. Palperlon hatte im Bett gelegen, und einer seiner Genossen mußte uns niedergeschlagen haben. Kaum hatte ich mir dies klar gemacht, als ich ein Geräusch hörte: das Kreischen eines Türschlosses. Nun vernahm ich auch ein leises, vergnügtes Pfeifen. Der, der das Schloß geöffnet hatte, pfiff das gefühlvolle Lied: »Heimat, süße Heimat –«
 
@@ -416,7 +416,7 @@ Ah – kaum drei Schritt vor mir hing ja Harst in derselben Stellung wie ich! Un
 <@pagebreak/>
 Er stellte die Laterne auf ein Faß, setzte sich auf ein anderes und rauchte ein paar Züge einer gut riechenden Zigarre, wobei er abwechselnd mich und Harst angrinste. Wir kehrten ihm halb die Gesichter zu und brauchten die Köpfe nur wenig zu drehen, um ihn voll vor uns zu haben.
 
-Sein höhnisches, gemeines Grinsen entsprach ganz seinem Maske als Gärtner. Daß dieser Mensch ein vorzüglicher Schauspieler und Verkleidungskünstler war, wußten wir ja längst.
+Sein höhnisches, gemeines Grinsen entsprach ganz seiner Maske als Gärtner. Daß dieser Mensch ein vorzüglicher Schauspieler und Verkleidungskünstler war, wußten wir ja längst.
 
 »Eine ganz nette Überraschung für Sie!« begann er dann in etwas hartem, aber fehlerfreiem deutsch. »Ja – so ein bißchen schlauer als Harald Harst bin ich doch noch zuweilen. Ihre Abreise kam mir gleich verdächtig vor. Der gute Fitzgerald hat es auch etwas ungeschickt angestellt, als er mit seinem Freunde Treebram des Motorkutters wegen verhandelte. Da erst merkte ich, daß man den braven, alten Simpson durchschaut hatte und daß es für ihn ratsam war, für Harsts und Schrauts Empfang so einige Zurüstungen zu treffen. Daß Sie beide nicht mit der Polizei gemeinsam arbeiten würden, wußte ich. Ich brauchte also eine Umstellung meines Häuschens nicht zu fürchten. Die Puppe im Bett mit dem aus Lehm gekneteten Kopf und das Schnarchen taten das ihrige. Und ein Sandsack besorgte den Rest als beste Schlagwaffe. Nun hängen Sie hier im Sämereikeller meines Häuschens. Was fange ich mit Ihnen an? Ich habe allen Grund, Ihnen erneut zu zürnen. Die Geschichte mit der Muwuru-Mine haben Sie mir ja gründlich verdorben! Recht geheuer kam mir die ganze Sache dort von vornherein nicht vor. Ich ließ daher auch den braven Morrisson die Kastanien aus dem Feuer holen. Jetzt wollten Sie mir hier wieder Schwierigkeiten machen, nachträgliche Schwierigkeiten, denn die »Rose von Rondebosch« habe ich ja bereits. Im Vertrauen: die Nachschlüssel hatte ich mir schon vor drei Jahren hier angefertigt. Doch damals klappte die Sache nicht. Wissen Sie, warum, Herr Harst?«
 
@@ -470,7 +470,7 @@ Ich beobachtete, wie Harst nickte.
 
 Er stellte die Laterne auf das eine Faß.
 
-Mir trat eisiger Schweiß auf die Stirn. Garner mußte die Umzingelung geradezu lächerlich ungeschickt vorgenommen haben! – Ich hatte nur einen Wunsch, daß man uns hier unten nicht suchen möchte! Aber das war ein ziemlich zweckloses Wünschen! – Ich schaute nach Harst hin Er – hatte die Augen mit den Lidern bedeckt! Sein Gesicht verriet auch nicht eine Spur von Aufregung.
+Mir trat eisiger Schweiß auf die Stirn. Garner mußte die Umzingelung geradezu lächerlich ungeschickt vorgenommen haben! – Ich hatte nur einen Wunsch, daß man uns hier unten nicht suchen möchte! Aber das war ein ziemlich zweckloses Wünschen! – Ich schaute nach Harst hin. Er – hatte die Augen mit den Lidern bedeckt! Sein Gesicht verriet auch nicht eine Spur von Aufregung.
 
 Minuten verstrichen. Palperlon hatte jetzt in der Rechten einen Revolver, lehnte am Türrahmen und starrte vor sich hin.
 
@@ -556,7 +556,7 @@ Dann ließ Garner Palperlon nach Kapstadt schaffen, fuhr selbst im Polizeiauto m
 
 Harst blieb plötzlich stehen.
 
-»Herr Fitzgerald,« sagte er mit einem seinen Lächeln, »Sie danken mir da für etwas, was kaum 1000 Mark Wert haben dürfte.«
+»Herr Fitzgerald,« sagte er mit einem feinen Lächeln, »Sie danken mir da für etwas, was kaum 1000 Mark Wert haben dürfte.«
 
 Fitzgerald erbleichte.
 
