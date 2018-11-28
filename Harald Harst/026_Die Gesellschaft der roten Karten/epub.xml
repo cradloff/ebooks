@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">49af2170-f347-11e8-880f-6392b751d1e5</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Gesellschaft der roten Karten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">26</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Gesellschaft der roten Karten.
+
+Als der Prinz jetzt den Vorrat seiner haarsträubenden Nimrodgeschichten erschöpft hatte, sagte van Wreeden ganz unvermittelt:
+
+»Master Harst (die Unterhaltung wurde in englischer Sprache geführt), hätten Sie wohl Lust, einmal Batavia zu besuchen und einige Zeit zusammen mit Ihrem Privatsekretär Master Schraut mein Gast zu sein? Außer den dortigen Sehenswürdigkeiten könnte ich Ihnen noch eine recht geheimnisvolle Angelegenheit als ein für Sie vielleicht in seinen Einzelheiten neuartiges Problem unterbreiten.«
+
+Harst, der mit übergeschlagenen Beinen in einem Korbsessel saß, meinte liebenswürdig, er nehme die Einladung dankend an. »Ich wollte ohnedies einige Wochen jetzt die Großen Sundainseln bereisen,« fügte er hinzu. »Ihre geheimnisvolle Angelegenheit lockt mich natürlich ganz besonders, Master van Wreeden. Wenn die anderen Herren nichts dagegen haben, könnten Sie uns die Sache mal vortragen. Gerade weil Sie ein Mann von so kühlem Verstande, von einem für mich neuartigen Problem sprachen, muß wohl auch ganz Besonderes dahinter stecken.«
+
+Doktor Satanas.
+
+Der Baron eilte die Verandatreppe trotz seiner massigen Gestalt leichtfüßig empor, drückte uns jetzt die Hände; begann sofort:
+
+»Ich komme mit einer großen Bitte, lieber Harst. Vor einer halben Stunde teilte mir Kriminalinspektor Schliepner aus Semarang telephonisch mit, daß dort offenbar ein Kapitalverbrechen, ein Mord mit gleichzeitiger Beseitigung der Leiche verübt worden ist. Er fügte hinzu, er wüßte, daß jetzt gerade hier in Batavia der berühmteste Detektiv aller Zeiten —«
+
+Harst hielt sich lachend die Ohren zu.
+
+»Hören Sie auf, Baron! Ich hätte Ihnen derart faustdicke Schmeicheleien nicht zugetraut!« meinte er gutgelaunt.  »Um aber Ihre Angelegenheit schnell und nach Ihrem Wunsche vorläufig aus der Welt zu schaffen: ich hatte ohnedies die Absicht mir Semarang anzusehen, und bin daher gern bereit, Sie sofort nach dem Bahnhof zu begleiten.«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (026) Die Gesellschaft der roten Karten.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
