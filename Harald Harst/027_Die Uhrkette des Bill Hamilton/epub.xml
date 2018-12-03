@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">90ed90f6-f745-11e8-bc8c-a3318d9fed1c</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Uhrkette des Bill Hamilton</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">27</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Uhrkette des Bill Hamilton.
+
+Der Klubpräsident hatte soeben einem meiner Nachbarn gegenüber seiner Verwunderung über das Fehlen eines der Klubmitglieder namens Melprove Ausdruck gegeben, so daß der Herr zu meiner Linken sich verpflichtet fühlte, mir zu erklären, Armand Melprove sei der reichste Mann der Stadt und der glückliche Vater zweier reizender Töchter, die leider nur allzu stolz auf die Millionen ihres Erzeugers und deshalb wenig zugängliche Damen wären.
+
+Mein anderer Nachbar beugte sich vor und meinte jetzt:
+
+»Glückliche Vater?! Glücklich?! — Ich möchte das bezweifeln.  Melprove läuft seit acht Tagen mit einem Gesicht umher, das recht wenig heiter aussieht. Ihm muß irgend etwas zugestoßen sein. Heute glänzt er hier auch wieder durch Abwesenheit, obwohl er doch mit zum Vorstand gehört und gerade auf seine Veranlassung dieses Festessen zu Ehren Ihres Freundes veranstaltet worden ist.«
+
+Die Wahrsagerin von Jorjakara.
+
+Oft genug sind Harald Harst und ich lediglich durch einen Zufall zu einem neuen Abenteuer, einem neuen »Problem« gekommen, meist dann auf sehr merkwürdige Art, sobald es sich um einen solchen Zufall handelte.
+
+Am seltsamsten jedenfalls war in dieser Beziehung die Verkettung von Umständen, die uns nach Jorjakara führte, wo wir vom Union-Klub zu einem Herrendiner eingeladen waren, das um 5 Uhr nachmittags begann und dessen letzter Gang etwa um 9 Uhr abends serviert wurde.
+
+Der Großkaufmann van Diemen, der Klubpräsident, hatte dann eine besondere Ueberraschung vorbereitet; ein Wasserfeuerwerk auf dem kleinen, malerischen See, der mitten in dem ausgedehnten Parke des Klubhauses lag.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (027) Die Uhrkette des Bill Hamilton.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
