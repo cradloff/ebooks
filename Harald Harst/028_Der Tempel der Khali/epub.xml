@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">60f29dee-fe50-11e8-a2cc-53846e05f935</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Tempel der Khali</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">28</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Tempel der Khali.
+
+»Ich finde das Leben jetzt ziemlich öde,« meinte Harst und gähnte verstohlen hinter der vorgehaltenen Hand, »Vierzehn Tage fast reisen wir nun schon wie jeder gewöhnliche Globetrotter. Ich fühle mich geradezu krank infolge dieser Untätigkeit. Und Dir, mein lieber Schraut, bekommt dieses behagliche, friedfertige Dasein auch nicht. Du wirst täglich dicker.«
+
+Auf Harald Harsts Stoßseufzer über »das öde Leben«, mit dem ich übrigens sehr zufrieden war, wollte ich gerade erwidern, daß man doch schließlich auch als Liebhaberdetektiv einmal sich »Urlaub gönnen« könnte, als ein kleiner, magerer, glattrasierter Herr auf unseren Tisch zugesteuert kam, davor stehen blieb, sich leicht verbeugte und in etwas mangelhaftem Deutsch erklärte:
+
+»Sie gestatten. Mein Name ist Garratt Molgedey. Ich habe doch die Ehre, Herrn Harald Harst und Herrn Max Schraut vor mir zu sehen, nicht wahr? — Ich las schon gestern abend Ihren Namen im Fremdenbuch. Da konnte ich nicht anders, — ich mußte mir einen seit langem gehegten Wunsch erfüllen, nämlich den, Sie persönlich kennen zu lernen, Herr Harst.«
+
+Das Rätsel des Indischen Ozeans.
+
+Wer Indien bereist und sich die größte Moschee der Welt die Dschama Masdschid in Dehli, nicht ansieht, versäumt das Imposanteste, was es an orientalischen Baudenkmälern überhaupt gibt.
+
+Die Freitreppe hinaus stürmte jetzt eine Schar von kleinen, braunen Zeitungsverkäufern. Es war ja gegen halb fünf nachmittags, und soeben mußten die zwölf in Dehli erscheinenden Tageszeitungen zur Verteilung gelangt sein.
+
+»Dehli-Post! — Dehli-Post! — Das Neueste über die Thugs — die Thugs!«
+
+Harst wurde gleichzeitig mit mir auf den braunen Knirps aufmerksam, der gellend diese Worte kreischte und dazu eine Nummer der Dehli-Post in der rechten Hand schwenkte.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (028) Der Tempel der Khali.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
