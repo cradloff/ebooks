@@ -1045,7 +1045,7 @@ den Doktor, weil der alte Fürst sich durch das Spiel ruiniert
 hat. Zwei Millionen gibt Drygaarden für die schöne,
 heißumworbene Javanerin hin, offenbar den größten Teil seines
 <@pagebreak/>
-Vermögens. Er muss sie also bis zum Wahnsinn geliebt
+Vermögens. Er muß sie also bis zum Wahnsinn geliebt
 haben. Ein Mann, dem die Liebe nicht den Verstand verwirrt
 hat, kauft sich nicht ein Weib, um ans Ziel seiner
 Wünsche zu gelangen, da er sich notwendig sagen muß, daß
@@ -1121,7 +1121,7 @@ Ruhe den Mann kaltblütig abschlachten zu können. Die Leiche
 beseitigt er dann. Der Park und die Umgebung sind umsonst
 selbst mit Spürhunden, nach dem Toten abgesucht worden.
 Dies ist so auffallend, daß man notwendig auf den Gedanken
-kommen muss, Drygaarden hat die Leiche dort verscharrt, wo
+kommen muß, Drygaarden hat die Leiche dort verscharrt, wo
 Sie, bester Schliepner, sicher nicht gesucht haben: im Zwinger
 der Doggen!«
 

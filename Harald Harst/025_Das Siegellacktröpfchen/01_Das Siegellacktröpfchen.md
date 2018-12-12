@@ -646,7 +646,7 @@ jedoch Harsts Wunsch sorgsam befolgt. Nur wir vier Herren
 wußten, daß er in kurzem wieder völlig hergestellt sein würde.
 
 <h2>3. Kapitel.</h2>
-<h3>Die anderen Siegellackträpfchen.</h3>
+<h3>Die anderen Siegellacktröpfchen.</h3>
 
 Harst hatte nach der neuen Einspritzung bis gegen fünf
 Uhr nachmittags fest geschlafen. Dann gestattete ihm Doktor
@@ -808,7 +808,7 @@ Warnungsbriefes.«
 Wolpoore fuhr fort: »Der nächste Brief ist an mich gerichtet.
 Dieses Schreiben fand ich vor elf Jahren auf dem
 Schreibtisch in meinem Hause in Madras. Es lautet: Auch
-Du musst sterben. Richte Dich darauf ein. Kein Wolpoore
+Du mußt sterben. Richte Dich darauf ein. Kein Wolpoore
 wird eines natürlichen Todes enden. Wieder als Unterschrift
 die vier Siegellacktröpfchen.«
 
