@@ -76,6 +76,7 @@ a.refnote {
 	font-size: small;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
+	text-indent: 1em;
 }
 
 .footnote a {
