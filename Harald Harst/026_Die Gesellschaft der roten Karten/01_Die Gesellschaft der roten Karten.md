@@ -38,9 +38,9 @@ Gleich darauf wurden wir durch den Lord mit dem Prinzen
 Frederik von Blönheelm bekannt gemacht.
 
 »Durchlaucht gestatten: Herr Harald Harst — Herr Max
-Schraut, zwei auf unserem Planeten recht berühmte Größen."
-<@pagebreak/>
+Schraut, zwei auf unserem Planeten recht berühmte Größen.«
 
+<@pagebreak/>
 Der Prinz, ein kleiner, beleibter Herr mit verwaschenen
 Augen, einer tadellosen, dunklen Scheitelperücke und dunkel
 gefärbtem langgezogenem Schnurrbart hatte sich hastig erhoben
@@ -369,7 +369,7 @@ durch Kokospalmenanpflanzungen und Palmenhaine bis zum
 neuen Viertel von Batavia läuft.
 
 Ich muß nachholen, daß Wreeden Junggeselle war, genau
-so wie auch der nach Harsts Einsicht so fragwürdige Prinz. —
+so wie auch der nach Harsts Ansicht so fragwürdige Prinz. —
 Unser leichter, von zwei Ponys gezogener und von einem
 Javanen gelenkter Wagen bog gerade in ein neues Kampong
 (Dorf) ein, als sich plötzlich das linke Hinterrad löste und der
@@ -426,15 +426,15 @@ mir.
 »Da sind wir ja in Batavia gleich gebührend empfangen
 worden!« sagte er. »Und wir berühmte Herren lassen uns so
 — so einwickeln! Schämen sollten wir uns!«
-<@pagebreak/>
 
+<@pagebreak/>
 Ohne unser gewöhnliches Handwerkzeug: Taschenlampe,
 Selbstspanner und Taschenmesser, waren wir nie. Auch jetzt
 nicht. Harst schaltete also seine Taschenlampe ein und leuchtete
 das etwa 6 Meter tiefe und drei Meter breite Erdloch ab;
 es hatte Bretterwände, die stellenweise schon verfault waren.
 
-der Lichtkegel blieb dann auf einer Stelle der Holzverschalung
+Der Lichtkegel blieb dann auf einer Stelle der Holzverschalung
 haften. Ich schaute genauer hin, nahm zunächst nur
 etwas wie einen roten Fleck wahr.
 
@@ -472,7 +472,7 @@ verdächtige Geräusch gehört. Und doch wurden wir
 jetzt plötzlich zu Boden gerissen, während man uns gleichzeitig
 Decken über den Kopf warf. Ich wehrte mich verzweifelt
 gegen die unsichtbaren Angreifer, bis ich ganz dumpf Harsts
-Stimme vernahm: »Keinen Widerstand Schraut — zwecklos!«
+Stimme vernahm: »Keinen Widerstand, Schraut — zwecklos!«
 
 Ich sah das selbst ein. — Man band mir die Hände über
 der Brust gekreuzt so fest zusammen, daß der Druck der
@@ -522,8 +522,8 @@ Weile beruhigten wir uns, setzten uns auf die Schemel und —
 warteten. Es mußte ja jemand kommen und Harst die rechte
 Hand frei machen, wenn er den Scheck ausfüllen und den Brief
 an den Lord schreiben sollte.
-<@pagebreak/>
 
+<@pagebreak/>
 Stunden vergingen. Nichts regte sich. Ich wurde müde.
 Ich legte mich auf das Strohlager. In unserer Zelle herrschte
 eine entsetzliche Hitze. Ich schlief ein. Als ich erwachte, sah
@@ -573,8 +573,8 @@ und damit meine große Ueberlegenheit eingebüßt, war verfehlt!
 — Ich weiß jetzt auch, was sie vorhaben: sie wollen uns
 durch Hunger und Durst erst so weit marode machen, daß
 wir unfähig sind, ihnen einen Streich zu spielen.«
-<@pagebreak/>
 
+<@pagebreak/>
 Er richtete sich wieder auf, sagte laut — natürlich in der
 Annahme, daß wir ständig beobachtet und belauscht würden:
 
@@ -617,7 +617,7 @@ Hand.
 
 Und an der Tür lehnte unser Wächter mit über der Brust
 gekreuzten Armen, — das Bild lässigen Sicherheitsgefühls
-und Kraftbewutßseins.
+und Kraftbewußtseins.
 
 Dann sagte Harald mit rauher, ganz fremder Stimme:
 »Da — Scheck und Brief sind fertig!«
@@ -634,9 +634,9 @@ Stock und schwankte mit dem Wasserkrug zu mir hin.
 
 Ich trank, bis Harst mir den Krug von den Lippen nahm.
 Dann holte er genau so schwerfällig von dem Wandbrett eine
-Schüssel mit gekochtem Reis, formte Hügelchen und fütterte
+Schüssel mit gekochtem Reis, formte Kügelchen und fütterte
 mich. Gleich darauf war ich wieder eingeschlafen. Als letztes
-merkte ich daß Harst meine Arme massierte.
+merkte ich, daß Harst meine Arme massierte.
 
 Wieder erwachte ich. Harst schlief jetzt. Ich taumelte
 nach dem Wandbrett, stillte meinen Hunger aus der Schüssel,
@@ -663,12 +663,12 @@ eingelöst wird. Mein Guthaben auf der Deutschen Bank in
 Berlin beträgt jetzt genau 456 836 Mark. Ich bin also für
 eine halbe Million stets gut. Meine Kontonummer dort
 ist 4891234 meine Telephonnummer in Berlin ist Schmargendorf
-1245. Bitte erledigen Sie alles Nötige. Dank im
+1245\. Bitte erledigen Sie alles Nötige. Dank im
 voraus Ihr
 
 > Harald Harst
 
-Dieselben Worten die in diesem Briefe hier stärker gedruckt
+Dieselben Wörter, die in diesem Briefe hier stärker gedruckt
 sind, waren auf dem Original mit roter Farbe oder
 Tinte in derselben Weise kenntlich gemacht.
 
@@ -749,7 +749,7 @@ Und — das hatte ich, Harsts getreuer Begleiter, nicht
 herausbekommen! Aber — die Gesellschaft der roten Karten
 war so klug gewesen — klüger also als ich! —
 
-Aus der anderen Seite stand jedoch noch etwas in Rundschrift
+Auf der anderen Seite stand jedoch noch etwas in Rundschrift
 und zwar:
 
 > »Der Brief an den Lord ist nochmals sofort zu schreiben
@@ -899,7 +899,7 @@ Der Holländer war sprachlos über die Raffiniertheit, mit der
 wir durch ein scheinbar durchgehendes Pferd in jene Halle hineingeführt
 worden waren. Er hatte jenen Wagen natürlich
 nicht für uns bestellt gehabt, war vielmehr von einem chinesischen
-Kaufmann, einem der gelben Millionäre Batavias
+Kaufmann, einem der gelben Millionäre Batavias,
 in einer der Dorfstraßen in ein geschäftliches Gespräch verwickelt
 worden, das ihn sehr lange aufgehalten hatte.
 
@@ -966,7 +966,7 @@ Bitte —«
 * * *
 
 Harst schwieg. Durch die offenen Fenster war plötzlich
-vom Garten her lautes rufen, Gelächter und Stimmengewirr
+vom Garten her lautes Rufen, Gelächter und Stimmengewirr
 zu uns hereingedrungen.
 
 Jetzt vor der Veranda eine heisere, helle Stimme:
@@ -1010,7 +1010,7 @@ Wreeden machte seine Sache sehr gut. Er begann von
 unserem Verschwinden zu sprechen.
 
 »Ich wette, die beiden Deutschen sind der Gaunerbande
-sehr dicht auf den Versen,« sagte er jetzt. »Ich habe zwar
+sehr dicht auf den Fersen,« sagte er jetzt. »Ich habe zwar
 von Harst seit diesen vier Tagen — nein fünf sind es ja! —
 weder etwas gesehen noch gehört, aber eine ganz bestimmte
 Tatsache gibt mir die Gewissheit, daß ich mich nicht irre.«
@@ -1030,10 +1030,10 @@ Harst ihm diese Sätze vorher in den Mund gelegt.
 »Aber bester Wreeden, weshalb sollte denn jemand Ihren
 Wagen haben beschädigen wollen?!« rief der Prinz überlaut
 und lachte abermals ironisch auf.
-<@pagebreak/>
 
+<@pagebreak/>
 »Ja — das weiß ich nicht. Aber eins weiß ich: daß ich
-jetzt, wo Harst in Batavia ist, endlich wagen werde meine
+jetzt, wo Harst in Batavia ist, endlich wagen werde, meine
 Sammlung ungeschliffener Edelsteine nach Amsterdam zum
 Schleifen zu senden. Morgen nachmittag 5 Uhr verläßt der
 große Frachtdampfer »Antje von Grooningen« den Hafen.
@@ -1067,7 +1067,7 @@ in Weltevreden. Wir waren ihm dicht auf den Fersen geblieben.
 Nachdem er sich von seinen drei Freunden getrennt hatte
 und wir drei, freilich in Abständen von fünfzig Schritt, in
 eine genau nach Nordost verlaufende Straße eingebogen waren,
-bemerkten wir in weiter Ferne einem Feuerschein. Blönheelm
+bemerkten wir in weiter Ferne einen Feuerschein. Blönheelm
 blieb bei einem der eingeborenen Polizisten stehen. Als
 wir denselben Beamten dann fragten, wo es brenne, erwiderte
 er, danach hätte soeben auch Seine Durchlaucht gefragt. Nun,
@@ -1148,7 +1148,7 @@ In van Zeertens Dienstzimmer gab es dann eine sehr lebhafte
 Unterhaltung zwischen dem Polizeirat und Harst, nachdem
 der liebenswürdige, lebhafte Holländer unverhohlen
 seiner Freude darüber Ausdruck gegeben hatte, daß er Harst
-nun endlich auch persönlich näher treten dürfte. von dem er
+nun endlich auch persönlich näher treten dürfte, von dem er
 schon so viel gehört hätte.
 
 Harst ging sofort auf sein Ziel los, fragte, was der Baron
@@ -1158,7 +1158,7 @@ Zeerten wurde stutzig. »Daß Sie hier sozusagen beruflich
 tätig sind, Herr Harst,« meinte er, »beweist ja schon Ihr
 und Ihres Freundes Kostüm. Hat der Prinz mit Ihrer hiesigen
 Aufgabe etwas zu tun? — Blönheelm ist nämlich ein
-guter Benannter von mir. Und Ihre Frage nach ihm macht
+guter Bekannter von mir. Und Ihre Frage nach ihm macht
 ja fast den Eindruck, als ob Sie —«
 
 »— ja — als ob ich diesem Blönheelm nicht ganz traute.
@@ -1272,7 +1272,7 @@ verbessern und daß Sie sich dann persönlich, aber gleichfalls
 verkleidet vor dem Liegeplatz des Dampfers einfinden. Einige
 Ihrer Detektivbeamten aber mögen den Gefangenen im
 geschlossenen Wagen von Wreeden abholen und ebendorthin
-schaffen. Sollten Sie Zeit halben, Baron, so sehen Sie sich mal
+schaffen. Sollten Sie Zeit haben, Baron, so sehen Sie sich mal
 in aller Stille des Prinzen Motorboot genauer an. Es dürfte
 sehr kräftige Motoren haben, wenn es auch nur 15 Knoten für
 gewöhnlich läuft, — so kräftige Motoren, daß es damit in
@@ -1326,10 +1326,10 @@ Farbe in der Hand.
 Würfelspieler da. »Wir müssen die Augen gut aufhalten,
 Schraut! Ich bin gespannt wie man diesmal den Streich
 ausführen wird.«
-<@pagebreak/>
 
+<@pagebreak/>
 Wreeden schritt mit seinem Koffer der Laufplanke zu,
-die nach dem Mittelschiff hinaufführte. plötzlich gerieten
+die nach dem Mittelschiff hinaufführte. Plötzlich gerieten
 zwei malaiische Stauer in Streit, packten sich, und der Kräftigere
 warf dann seinen Gegner mit solcher Wucht zu Boden,
 daß der braune Bursche Wreeden mit umriß. Der Holländer
@@ -1424,8 +1424,8 @@ Blönheelm schwieg, senkte etwas den Kopf, warf ihn
 dann mit einem Ruck wieder hoch und meinte gelassen:
 
 »Was wünschen Sie eigentlich, bester Harst?«
-<@pagebreak/>
 
+<@pagebreak/>
 »Gehen Sie uns voraus in Ihr Arbeitszimmer. Dort
 werde ich Ihnen erklären, was mich herführt.«
 
@@ -1503,7 +1503,7 @@ Koffer vertauschten, der in Ihrem Bastkoffer verborgen
 war. Die Balgerei zwischen den beiden Malaien dicht vor
 Ihnen war bestellte Arbeit! Ich sah sehr wohl, wie Sie blitzschnell
 den Koffer Wreedens, der diesem aus der Hand gefallen
-war, gegen den anderen vertauschten. ich sah es, weil
+war, gegen den anderen vertauschten. Ich sah es, weil
 das Ganze ja nur eine Falle war, weil ich Sie entlarven
 wollte. Ich wußte, daß Sie als Prinz Blönheelm heute zu
 Wreeden gehen und sich Gelegenheit verschaffen würden, den
@@ -1512,8 +1512,8 @@ könnten. Deshalb sollte Wreeden ja auch einen neuen
 Koffer kaufen, von dem das betreffende Geschäft noch mehrere
 auf Lager hatte. Das — war meine Falle und die
 Quittung für unsere brutale Behandlung in dem Gehöft Budeng-Ma’s!«
-<@pagebreak/>
 
+<@pagebreak/>
 Baron van Zeerten war inzwischen ans Fenster gegangen
 und hatten dem Chauffeur des Polizeiautos etwas zugerufen.
 — Jetzt trat Budeng-Ma in Begleitung eines Beamten ein.

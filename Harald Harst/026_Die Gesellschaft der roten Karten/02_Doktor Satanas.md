@@ -1,10 +1,10 @@
 <h1>Doktor Satanas.</h1>
 
-Baron van Zeerden, der Polizeirat und Bezirkschef der
+Baron van Zeerten, der Polizeirat und Bezirkschef der
 Kriminalpolizei der niederländisch\-indischen Hauptstadt Batavia
 auf der Insel Java, winkte uns schon von weitem zu.
-<@pagebreak 35/>
 
+<@pagebreak 35/>
 Wir bestanden uns auf der Veranda des prächtigen Bungalows
 (Wohnhaus) des Großkaufmanns van Wreeden.
 Ueber uns rauschten die Kronen riesiger Palmen, und vor uns
@@ -66,7 +66,7 @@ einer Woche zum Besuch bei ihrem Vater in Surakarta geweilt
 hatte, war sofort nach Semarang zurückgekehrt. Sie
 war es gewesen, die dem Kriminalinspektor Schliepner, einem
 geborenen Deutschen, nahe gelegt hatte, Harst durch Baron
-von Zeerten bitten zu lassen, mit nach Semarang zu kommen.
+van Zeerten bitten zu lassen, mit nach Semarang zu kommen.
 —
 
 Dies alles erzählte uns Zeerten gleich nach der Abfahrt
@@ -103,8 +103,8 @@ Eine Weile schwieg er nun. Dann ganz plötzlich:
 
 »Was sollte denn —? So beende doch den Satz!«
 mahnte ich.
-<@pagebreak/>
 
+<@pagebreak/>
 »Solltest Du etwa in der Batavia-Post von vor zehn Tagen
 nicht auch den Artikel über den Fürsten bemerkt haben?«
 sagte er darauf. »Ich versprach mich vorhin nur. Ich
@@ -151,7 +151,7 @@ Unwillen hervorzurufen. Er ist ja der reinste Raufbold anscheinend.«
 
 Der Major rauchte sehr hastig einige Züge aus seiner
 Zigarre und hüllte sich förmlich in blaugraue Wölkchen ein.
-aber das half ihm nichts. Er war plötzlich zu rot geworden,
+Aber das half ihm nichts. Er war plötzlich zu rot geworden,
 <@pagebreak/>
 als daß dies Harsts und meinen Polizeiaugen entgehen
 konnte.
@@ -173,7 +173,7 @@ zu den glühendsten Verehrern der Prinzessin gehörte.«
 »Gestatten Sie, Baron, — das war einmal!« erklärte der
 Major recht schroff. »Doktor Satanas ist keine Persönlichkeit,
 der ich das Recht einräumen möchte, mich zu seinem
-engeren Bekanntenkreis zu Zählen. Ich bedauere deshalb
+engeren Bekanntenkreis zu zählen. Ich bedauere deshalb
 auch, Herrn Harst in nichts hier unterstützen zu können. Ich
 bedauere es sehr, möchte ich betonen. Ich weiß nämlich, daß
 Inspektor Schliepner Semarang bereits den hirnverbrannten
@@ -336,12 +336,12 @@ schmerzlichen Blick und einem tiefen Seufzer. Sie ist jetzt
 also eine halbe Gefangene. Das Haus wird von meinen
 Leuten bewacht. Eine Flucht der Prinzessin ist ausgeschlossen.
 Sehr bald nach dieser höflicherweise ein wenig verschleierten
-Verhaftung schickte sie mir einen Brief, zu indem sie die
+Verhaftung schickte sie mir einen Brief zu, indem sie die
 Bitte aussprach, ich möchte doch versuchen, ob nicht vielleicht
 Sie, Herr Harst, sich dieses Falles annehmen würden. — So —
 das wäre alles.«
-<@pagebreak/>
 
+<@pagebreak/>
 Harst schüttelte jetzt den Kopf. »Lieber Landsmann, —
 Ihren Verdacht gegen die Prinzessin teile ich nicht. Sie besitzen
 gegen sie als Belastungsmaterial lediglich die eine
@@ -371,7 +371,7 @@ den vier außerordentlich bissigen Doggen, die nachts regelmäßig
 im Garten des Doktors frei umherschweifen, so vertraut,
 daß sie sich über die hohe Mauer auf das Grundstück
 wagen durfte. Die Doggen waren ihr Eigentum. Ihr Vater,
-der Radscha, besitzt eine Hundezucht die weithin berühmt ist.«
+der Radscha, besitzt eine Hundezucht, die weithin berühmt ist.«
 
 »Und auch wohl eine förmliche Menagerie,« fügte Harst
 hinzu. »Letztens ist ja bei einem Tierkampf in der Arena
@@ -440,7 +440,7 @@ Meter weit in den Palmenwald hinein, ist aber dicht
 hinter dem Hause durch einen Bretterzaun so abgeteilt, daß
 <@pagebreak/>
 die Doggen stets in der Nähe des Gebäudes bleiben müssen.
-Ich werde jetzt läuten. wir müssen denn fraglos noch eine
+Ich werde jetzt läuten. Wir müssen denn fraglos noch eine
 Weile warten, da die Hunde erst eingesperrt werden müssen.«
 
 »Und das kann nur die Prinzessin selbst tun?« meinte
@@ -489,8 +489,8 @@ Schliepner winkte ab, und der Beamte verschwand wieder
 in der Dunkelheit. Dann hörten wir auch schon durch das
 Guckloch der Pforte eine Stimme die fragte, wer jetzt noch
 Einlaß begehre. Der Inspektor nannte seinen Namen.
-<@pagebreak/>
 
+<@pagebreak/>
 »Die Hunde sind im Zwinger?« fuhr er fort. »Du bist
 Dschongo Lei, der Hausmeister nicht wahr?«
 
@@ -556,7 +556,7 @@ Jetzt Schliepners Stimme.
 
 »Soll ich schießen, Herr Harst?«
 
-»Nein — nur das nicht!« rief Harald. Vielleicht wird —«
+»Nein — nur das nicht!« rief Harald. »Vielleicht wird —«
 
 Da — vom Hause her eine helle Frauenstimme. Aber —
 die Bestien gehorchten augenblicklich; kniffen die Schwänze
@@ -682,11 +682,11 @@ schweren Flügeltür des Eingangs empor. Der eine Flügel tat
 sich auf. Der alte Javane war am Fuße der Treppe stehen
 geblieben und hatte die Prinzessin vorüber gelassen. Sie trat
 ein, sagte noch zu Harst mit halb zurückgewandtem Kopf in
-englischer Sprache, da wir das Holländische nicht fließend beherrschte:
+englischer Sprache, da wir das Holländische nicht fließend beherrschten:
 
 »Ich habe unbegrenztes Vertrauen zu Ihnen —«
-<@pagebreak/>
 
+<@pagebreak/>
 Da — erlosch plötzlich die elektrische Laterne, die an
 einem schmiedeeisernen langen Haken in Höhe des oberen
 Randes der Fenster des ersten Stockes hing; dann ein lauter
@@ -792,7 +792,7 @@ neben den breiten Kleiderschrank.
 
 Das Zimmer hatte zwei Fenster mit Stabjalousien. Diese
 waren herabgelassen. Die Fensterflügel waren geschlossen und
-gleichfalls versiegelt. Auch diese Siegel waren Unverletzt. Einen
+gleichfalls versiegelt. Auch diese Siegel waren unverletzt. Einen
 weiteren Zugang als Türen und Fenster gab es nicht.
 
 In der Mitte stand das Bett. Das Kopfende befand sich
@@ -850,7 +850,7 @@ Dann wandte er sich der Prinzessin zu und fragte, ob
 festgestellt wäre, daß keiner der Anzüge des Doktors fehle.
 
 »Keiner,« antwortete sie bestimmt. »Auch von seiner
-Wäsche fehlt nur ein feines, gestickte-S Nachthemd.«
+Wäsche fehlt nur ein feines, gesticktes Nachthemd.«
 
 Harst nickte zerstreut. Er hatte sich an das Fußende des
 Bettes gelehnt und schaute starr auf das blutbesudelte Kissen.
@@ -882,8 +882,8 @@ gütigen herzlichen Tone, dem niemand so leicht widersteht.
 »Es handelt sich hier ja um sehr ernste Dinge, Hoheit.
 Haben Sie sich mit dieser Heirat geopfert, um Ihren Herrn
 Vater wieder zu geordneten Verhältnissen zu verhelfen?«
-<@pagebreak/>
 
+<@pagebreak/>
 Sie nickte nur schwach.
 
 »Und — der Kaufpreis?« fragte Harst leise.
@@ -936,7 +936,7 @@ Dann sagte er in leichtem Plauderton zu der Prinzessin:
 
 »Nein. Nur ein kurzes Gewitter.«
 
-Dieses Gespräch- über den Jagdausflug dauerte etwa fünf
+Dieses Gespräch über den Jagdausflug dauerte etwa fünf
 Minuten. Ich hatte dabei das deutliche Empfinden, daß die
 Prinzessin jede ihrer Antworten vorher genau erwog. Sie
 wurde auch zusehends nervöser und bleicher, während in ihren
@@ -995,8 +995,8 @@ den Hundezwinger noch in Augenschein nehmen. Dieser befand
 sich im Stallgebäude, das sich an den Wirtschaftsanbau
 rechtwinklig anlehnte. Die Doggen wurden durch den Zuruf
 der Prinzessin schnell beruhigt.
-<@pagebreak/>
 
+<@pagebreak/>
 Dann verabschiedeten wir uns und schritten der Stadt
 wieder zu. Schliepner ging zwischen uns. Er brannte förmlich
 vor Neugier, was Harst wohl ausgerichtet haben könnte.
@@ -1105,7 +1105,7 @@ Essig dazu benutzt. — Das Hauschwert allein war imstande,
 eine einem Schlafenden aus dem Munde gefallene Zigarre
 mit seiner dünnen Klinge gleichzeitig mit dem Halse des
 Opfers so glatt zu durchschlagen. Die Zigarre ist nicht im
-geringsten zerblättert, ist wie mit einem Rasiermessser durchschnitten.
+geringsten zerblättert, ist wie mit einem Rasiermesser durchschnitten.
 — Ich sage: einem Schlafenden! — Denn das
 Opfer war von Drygaarden durch irgend ein Mittel in einen
 Zustand versetzt worden, der es zwang, des Doktors Bett aufzusuchen,
@@ -1129,7 +1129,7 @@ der Doggen!«
 
 »Es wird stimmen. Es war ja für Drygaarden auch das
 bequemste und sicherste! — So, nun zu der Frage, wie ich erfuhr,
-daß der Doktor noch lebte. Als der Zug aus dem Bahnhof
+daß der Doktor noch lebte. Als der Zug auf dem Bahnhof
 in Surakarta hielt, bemerkte ich einen Javanen, der mir
 dadurch auffiel, daß er den Baron van Zeerten und den Major
 scharf beobachtete. Die Javanen setzen nun ohne Ausnahme
@@ -1162,11 +1162,11 @@ Aufenthaltsort. Swaardam wird dies sofort bestätigen.«
 »Swaardam — Swaardam?!« meinte Schliepner und rieb
 sich wieder seine große Nase. »Herr im Himmel — mir schwirrt
 der Kopf. Was müssen Sie nur für Augen und was für einen
-Verstandskasten haben Herr Harst, um —«
+Verstandskasten haben, Herr Harst, um —«
 
 »Uebung — Routine!« lachte Harst. »So — da sind wir
 ja daheim angelangt. Bitte holen Sie nun Swaardam ganz
-unauffällig herbei. Landsmann. Wir setzen uns derweil in
+unauffällig herbei, Landsmann. Wir setzen uns derweil in
 Ihr Arbeitszimmer.«
 
 * * *
@@ -1178,8 +1178,8 @@ Stellen aufweist. Zum Beispiel: weshalb ruft die Prinzessin
 mich zu Hilfe, wenn sie ihren Geliebten als Mörder im Verdacht
 hat? Sie müßte ihren Liebhaber folgerichtig doch zu
 schützen suchen! — Das wäre so *ein* dunkler Punkt.«
-<@pagebreak/>
 
+<@pagebreak/>
 »Wer ist denn nun eigentlich dieser Liebhaber?« fragte ich
 leise.
 
@@ -1233,8 +1233,8 @@ damit der Doktor es bequemer hat.«
 Diener ist der Doktor. Wer aber kann nur der Tote sein?!
 Ich habe mir bereits den Kopf über diese Frage zerbrochen.
 Ich finde keine Antwort.«
-<@pagebreak/>
 
+<@pagebreak/>
 »Haben Sie nur etwas Geduld! Sie sollen auch dies noch
 in dieser Nacht erfahren.« —
 
@@ -1256,7 +1256,7 @@ Himmels ab. Der Inspektor wurde von Harst an mein
 Bett geführt. Sie setzten sich auf den Bettrand. Dann flüsterte
 Harst: »Schliepner und ich werden uns neben dem offenen
 Fenster postieren. Aber wir wollen Drygaarden erst vollends
-ins Zimmer lassen, bevor wir Zupacken. Sobald ich »Halt«
+ins Zimmer lassen, bevor wir zupacken. Sobald ich »Halt«
 rufe, springst Du aus dem Bett und schaltest das Licht ein.«
 
 Dann entfernten sie sich. Ich hatte das Fenster gerade
