@@ -27,7 +27,7 @@ die Chinesen im Erfinden neuer Feuerwerkseffekte groß.
 Lange bevor man in Europa die erste Rakete abbrannte,
 <@pagebreak 35/>
 erfreuten sich die bezopften Bewohner Chinas schon an buntsprühenden
-Feuerrädern an selbsttätig aufsteigenden Drachen
+Feuerrädern, an selbsttätig aufsteigenden Drachen
 und ähnlichem.
 
 Am Ostufer des Sees waren für uns Zuschauer in zwanglosem
@@ -77,8 +77,8 @@ Da — ein harter Griff an meinem Arm. Gleichzeitig
 Harsts Stimme — leise, aufgeregt, überstürzt:
 
 »Schraut — eine Teufelei! Vorsicht!«
-<@pagebreak/>
 
+<@pagebreak/>
 Dann rief er den anderen vier Herren, die mit uns auf
 dem Stege saßen, halblaut zu:
 
@@ -129,15 +129,15 @@ Allmählich trat Ruhe ein.
 Dann — von der Insel her ein lauter Ruf — Harsts
 Stimme:
 
-»Schraut nimm ein Boot, komm hierher!«
+»Schraut, nimm ein Boot, komm hierher!«
 
 Ich riß einem der Diener eine der Harzfackeln aus der
 Hand und rannte nach dem völlig zertrümmerten Stege hin,
 fand auch noch ein unbeschädigtes Boot und trieb es mit den
 Rudern, nachdem ich die Fackel vorn festgeklemmt hatte, der
 Insel zu.
-<@pagebreak/>
 
+<@pagebreak/>
 Der See war etwa 150 Meter breit. Das Bambusfloß war
 bald erreicht. Harst stand dort mit triefenden Kleidern, rief
 mir sofort leise entgegen:
@@ -190,14 +190,14 @@ schloß wieder erschöpft die Augen.
 »Eine Eisblase wird nötig sein. Sie sind fraglos mit einem
 sandgefüllten Schlauch von einem sehr kräftigen Menschen mit
 zwei Hieben niedergestreckt worden.« —
-<@pagebreak/>
 
+<@pagebreak/>
 Eine Stunde später.
 
 In einem der Klubzimmer lagen auf den Wandsofas die
 beiden Chinesen, jeder mit einem Eisbeutel auf dem Kopf.
 Im Zimmer befanden sich außer Harst und mir noch van Diemen,
-Kriminalinspektor August Schliepner unser Landsmann,
+Kriminalinspektor August Schliepner, unser Landsmann,
 und der Arzt Dr. Lockmeeren.
 
 Harst saß auf einem Stuhl neben dem Lager Lian Schens.
@@ -400,14 +400,14 @@ Ich konnte jedoch nur die Schultern heben und erklären: »Bedauere
 — ich weiß es nicht!«
 
 Harst krauste unzufrieden die Stirn.
-<@pagebreak/>
 
+<@pagebreak/>
 »Du weißt es nicht, weil Du gedankenträge bist, mein Alter.
 Wenn Du auf das, was im Klubzimmer gesprochen wurde,
 als ich die Chinesen verhörte, genau achtgegeben hättest, wenn
 Du die Sätze sofort geistig genügend in allen Einzelheiten verarbeitet
 hättest, dann würdest Du unschwer herausgefunden
-haben daß unser nächstes Ziel jetzt Jorjakara sein muß.«
+haben, daß unser nächstes Ziel jetzt Jorjakara sein muß.«
 
 »Aha — die geheimnisvolle Mistreß Maria Bellingson!«
 rief ich sofort.
@@ -451,11 +451,11 @@ Mordgesellen gemerkt hat.«
 »Kaum — mehr — etwas!« nickte Harst ernst. »Nur wir
 und der jetzige Träger des Namens Wolpoore und dessen Familie
 haben am eigenen Leibe gespürt, daß die Thug allem,
-was Wolpoore heißt, furchtbare Rache geschworen halben. Wir
+was Wolpoore heißt, furchtbare Rache geschworen haben. Wir
 wissen — wissen bestimmt, daß es ein Thug war, der die Jacht
 <@pagebreak/>
 India des Lords vor ein paar Wochen in die Luft sprengen
-wollte; wir waren es die dieses *Attentat verhinderten*.
+wollte; wir waren es, die dieses *Attentat verhinderten*.
 Und — deshalb stehen auch wir jetzt auf der schwarzen
 Liste dieser Geheimsekte. — Haben wir also Grund, uns die
 alte Mistreß Bellingson genauer anzusehen oder nicht?«
@@ -463,7 +463,7 @@ alte Mistreß Bellingson genauer anzusehen oder nicht?«
 »Hm — Grund hätten wir. Aber wir täten fraglos
 klüger, schleunigst den Staub dieses schönen Landes von unseren
 weißen Leinenschuhen zu schütteln und uns nicht in einen
-Kampf mit dieser Mörderbande einzulassen die —«
+Kampf mit dieser Mörderbande einzulassen, die —«
 
 »ja — die nicht eher ruhen wird, bis sie uns beide kalt
 gemacht hat!« führte Harst den Satz mit schwerer Betonung zu
@@ -522,8 +522,8 @@ blieben hier regungslos liegen, da wir befürchten mußten,
 daß der aus den Fenstern fallende Lichtschein uns treffen und
 wir bemerkt werden könnten.
 
-Alles ging glücklich von statten. Der Zug verschwand
-um uns her lastete jetzt schwärzeste Finsternis. Wir hatten unsere
+Alles ging glücklich von statten. Der Zug verschwand.
+Um uns her lastete jetzt schwärzeste Finsternis. Wir hatten unsere
 Leinenanzüge vorher gegen unsere dunkelgrauen Sportanzüge
 vertauscht und trugen in unseren Taschen nur das Notwendigste
 bei uns.
@@ -549,8 +549,8 @@ wildwachsenden Kukussastrauche, dessen Wurzelsaft eine sehr
 dauerhafte dunkelbraune Beize liefert, die wir jetzt nicht
 als Anfänger in der Kunst, aus Europäern dunkelhäutige Inder
 zu machen, verwendeten.
-<@pagebreak/>
 
+<@pagebreak/>
 Wir legten diesmal den allergrößten Wert auf tadellose
 Durchführung unserer Masken, beschauten uns gegenseitig
 immer wieder und banden uns dann zum Schluß die bunten
@@ -755,8 +755,8 @@ eines Liebespaares und spielt in Gebirgsgegenden eine große
 Rolle.
 
 Gleich darauf bogen wir in die Hauptstraße des Villenortes
-ein. Es war setzt fast 2 Uhr morgens. Trotzdem ging es
-auf der Terrasse des Musicafees noch sehr lebhaft zu. Zu
+ein. Es war jetzt fast 2 Uhr morgens. Trotzdem ging es
+auf der Terrasse des Musikcafees noch sehr lebhaft zu. Zu
 meinem Erstaunen schwenkte Harst nach dem Eingang ab. Wir
 setzten uns an ein Tischchen unweit der Brüstung. Die Kapelle
 spielte noch. Der eingeborene Kellner brachte uns den bestellten
@@ -830,7 +830,7 @@ aufzuklären.
 »Sie beide haben nur verschwinden wollen! Nun — ich werde
 schweigen wie das Grab. Und wo ich Ihnen helfen kann,
 meine Herren — ich stehe Ihnen zur Verfügung. Mir wird
-es eine Ehre sein Herr Harst gerade Ihnen —«
+es eine Ehre sein, Herr Harst, gerade Ihnen —«
 
 »Sehr liebenswürdig,« fiel ihm Harst ins Wort. »Deswegen
 haben wir uns Ihnen ja auch zu erkennen gegeben, Herr
@@ -842,8 +842,8 @@ Sie, Herr Doktor.«
 Bellingson sein, schätz’ ich.«
 
 Harst nickte.
-<@pagebreak/>
 
+<@pagebreak/>
 Da lachte der Doktor leise auf, schüttelte den Kopf und
 meinte:
 
@@ -1040,14 +1040,14 @@ rahmten diesen eiförmigen Rasenplatz ein.
 
 Harst hatte sich auf die oberste Stufe der Steintreppe gesetzt.
 Er blickte scheinbar tief in Gedanken geradeaus — dorthin,
-wo das von einer Buschkulisse halb verdeckte noch leidlich
+wo das von einer Buschkulisse halb verdeckte, noch leidlich
 erhaltene Parktor lag.
 
 Dann — und er flüsterte die Sätze, fast ohne die Lippen zu
 bewegen — dann hörte ich folgendes, als ich mich neben ihn
 gesetzt hatte:
-<@pagebreak/>
 
+<@pagebreak/>
 »Erste Konifere links — Reste von buntem Papier — dazu
 ein paar dünne Bambusstäbchen —«
 
@@ -1193,7 +1193,7 @@ Tode. Mithin — abends geht’s nach Semarang!«
 
 Wir taten bis gegen zehn Uhr abends so, als ob wir gar
 nicht an eine Abreise dächten. Dann aber bezahlte Harst unseren
-chinesischen Wirt. wir spannten sehr schnell unseren Pony
+chinesischen Wirt, wir spannten sehr schnell unseren Pony
 ein und fuhren denselben Weg zurück, den wir gekommen
 waren.
 
@@ -1263,7 +1263,7 @@ höflich und zwanglos.
 »Gewiß weiß ich das, Mistreß Bellingson,« erwiderte Harst
 gelassen. »Sie haben aus Ihrer Ehe mit dem Brahmanen einen
 Sohn gehabt, dessen Bild in einem Ihrer Gemächer hier
-hängt. Das Unglück wollte es, daß ich damals aus Lord Wolpoores
+hängt. Das Unglück wollte es, daß ich damals auf Lord Wolpoores
 Jacht India das Versteck entdeckte, wo er sich verborgen
 hatte, um die Jacht in die Luft zu sprengen. Er fand dann
 den Tod. Und für dieses Ende Ihres Kindes machen Sie jetzt
@@ -1319,7 +1319,7 @@ sind ungerecht. In Ihrer blinden Rachgier übersehen Sie, daß
 es meine Pflicht war, Lord Edward Wolpoore, der nichts dafür
 kann, daß sein Großvater in rechtmäßiger Ausübung seines
 Amtes eine Mördersekte vernichtete, vor den Nachstellungen
-einen wahnwitzigen Mörderbande zu schützen, deren geistige
+einer wahnwitzigen Mörderbande zu schützen, deren geistige
 Leiterin Sie sind. Ihre Drohungen fürchte ich nicht. Ihr Haus
 hier ist jetzt von der Polizei umstellt. Ich brauche nur —«
 
@@ -1378,7 +1378,7 @@ dem von uns am weitesten entfernten Fenster.
 
 »Still —, vielleicht sind es die beiden Kerle von gestern!«
 flüsterte er. »Die — angeblich auf Liebespfaden Wandelnden,
-wie ich Dir weismachte. In Wahrheit: auf *Diebes*Pfaden
+wie ich Dir weismachte. In Wahrheit: auf *Diebes*pfaden
 Wandelnde, denn ich stellte fest, daß sie das eine Fenstergitter
 an mehreren Stellen fast ganz durchgesägt hatten —«
 
@@ -1393,12 +1393,12 @@ Wir saßen und lauschten. Bald wurde das feine Knirschen,
 das Harst gehört hatte, etwas lauter. Dann arbeitete ohne
 Zweifel ein Drillbohrer im Holze der Fensterladen die von innen
 vorgelegt waren.
-<@pagebreak/>
 
+<@pagebreak/>
 Wieder verstrichen gut fünf Minuten. Dann von jenem
 Fenster her ein ganz, ganz leises Knarren und Quietschen.
 
-Die drei Bestien wurden plötzlich unruhig, fauchten liefen
+Die drei Bestien wurden plötzlich unruhig, fauchten, liefen
 hin und her.
 
 Die Lampe war jetzt fast erloschen. Der häßliche Geruch

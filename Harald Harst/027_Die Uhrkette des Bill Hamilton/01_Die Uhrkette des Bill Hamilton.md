@@ -135,8 +135,8 @@ Harst verbeugte sich. »Ich helfe Ihnen, Mynheer Melprove.
 — Setzen wir uns. Und dann erzählen Sie.«
 
 Melprove trocknete sich den Schweiß von der Stirn.
-<@pagebreak/>
 
+<@pagebreak/>
 »Ja — ja, ich werde mich Ihnen anvertrauen,« sagte er
 hastig. »Nur darf außer Ihnen dreien, meine Herren, keine
 Menschenseele erfahren, daß ich heute hier im Klubgebäude
@@ -188,7 +188,7 @@ gefertigt.
 
 Der Brief selbst war ein großer halber weißer Bogen
 <@pagebreak/>
-Schreibpapier. Auch er trug dieselbe lila Maschinenschrift
+Schreibpapier. Auch er trug dieselbe lila Maschinenschrift,
 der Inhalt lautete:
 
 > Mynheer Melprove!
@@ -233,8 +233,8 @@ sich dann von selbst ergeben.
 Seien Sie nicht so töricht, des Geldes wegen Ihr Leben
 und die Zukunft dreier junger Weiber zu gefährden.
 Der Pirat von Kap Kotaringia (Kap a. d. Südküste Borneos).
-<@pagebreak/>
 
+<@pagebreak/>
 Ich hatte Wort für Wort ebenso langsam wie Harst gelesen.
 
 Als dieser nun den Kopf hob und das Blatt auf den Tisch
@@ -254,7 +254,7 @@ der Küstenschiffahrt hier, machte die ganze Java-See unsicher.
 Früher, noch vor 20—30 Jahren, waren malaiische Seeräuber
 hier keine Seltenheit. Aber unsere Regierungsdampfer räumten
 gehörig unter dem Gesindel auf. Ich besinne mich noch,
-daß hier in Semarang im Jahre 1891 an seinem Tage 42 von
+daß hier in Semarang im Jahre 1891 an einem Tage 42 von
 diesen braunen Banditen aufgeknüpft wurden. Wir lebten
 dann in Ruhe und Frieden, bis eines Tages vor drei Jahren
 festgestellt wurde, daß in einem Monat 21 Küstenfahrzeuge
@@ -282,8 +282,9 @@ dazu diesen Zettel.«
 Er entnahm seiner Brieftasche ein quadratisches Stück
 weißes Papier, etwa 10 mal 10 Zentimeter groß, auf dem
 wieder in lila Maschinenschrift folgendes stand:
-<@pagebreak/>
 
+
+<@pagebreak/>
 > »Harald Harst ist jetzt in Semarang. Sie haben gestern
 zu van Diemen geäußert, der Klub müßte ihm zu Ehren eigentlich
 ein Festessen geben. Sobald Sie mit Harst irgendwie
@@ -450,7 +451,7 @@ Uhrkettenglieder waren jetzt der Mittelpunkt, um den sich
 mein Denken drehte. — Sollten sie doch mehr darstellen als
 nur Sensationslust und Effekthascherei?! Sollten sie —
 
-»Hier habe ich genug gesehen," flüsterte Harst mir da zu.
+»Hier habe ich genug gesehen,« flüsterte Harst mir da zu.
 »Jetzt wollen wir dort drüben im Schatten des Hauses die
 Veranda erklettern. Ich möchte mich für alle Fälle davon
 überzeugen, daß Melprove nichts zugestoßen ist. Sein Schlafzimmer
@@ -617,7 +618,7 @@ Genau vor mir dasselbe Rascheln von Stroh. Dort würde
 wohl Harst liegen. — Jetzt — ein leises Räuspern. Er war’s!
 Unsere Strohsäcke mußten sich an den Fußenden berühren —
 ich gab ebenso leise Antwort. Auf mein Hüsteln hin wurde
-jedoch rechts von mir eine Tür ausgerissen und eine Stimme
+jedoch rechts von mir eine Tür aufgerissen und eine Stimme
 flüsterte drohend:
 
 »Wenn Ihr euch nicht still verhaltet, bekommt Ihr wieder
@@ -682,8 +683,8 @@ doch förmlich sprachlos. Und ich konnte dann nur wie ungläubig
 wiederholen:
 
 »Gäste, — Gäste besonderer Art?«
-<@pagebreak/>
 
+<@pagebreak/>
 »Tja, mein Alter,« meinte Harald, »es soll Leute geben,
 die, wenn sie vor dem Konkurs stehen, auf die seltsamsten
 Tricks kommen, um einen guten Freund zur Hergabe eines
@@ -731,8 +732,8 @@ uns hier nur deshalb fest, damit wir ihm das Spiel nicht »vermasseln«!«
 »Aber — aber, wozu hat er dann gestern sich in das
 Klubhaus eingeschlichen, — weshalb hat er uns dann überhaupt
 all das erzählt?!«
-<@pagebreak/>
 
+<@pagebreak/>
 »Max Schraut — Max Schraut, schäme Dich! Du bist nun
 bereits über zwei Jahre mein treuer Gefährte. Und doch
 kannst Du Dir nicht zusammenreimen, weshalb Melprove gerade
@@ -780,7 +781,7 @@ wir in der kommenden Nacht tun, natürlich unter den erdenklichen
 Vorsichtsmaßregeln. — Die Sachlage für uns ist eben
 die: Melprove *kann* ein Schuft sein! — Wüßten wir das
 <@pagebreak/>
-schon jetzt ganz bestimmt, dann könnten wir sofort mit Leichtigkeit
+schon jetzt *ganz* bestimmt, dann könnten wir sofort mit Leichtigkeit
 ins Freie und ihn festnehmen. — Aber — er kann
 ebenso gut auch wirklich das Opfer einer Erpresserbande sein.
 Wenn wir dann jetzt von hier fliehen, besser ausbrechen würden,
@@ -842,7 +843,7 @@ leise Knirschen eines arbeitenden Bohrers; abermals schritt
 der Unsichtbare auf und ab, machte sich allerlei zu schaffen.
 
 Dann entfernte er das Tuch von meinem Kopf. Gespannt
-blickte ich auf, sah seinen hageren Menschen in einem weißen
+blickte ich auf, sah einen hageren Menschen in einem weißen
 Leinenanzug mit einer aus einem Stück Zeug gefertigten
 Maske vor dem Gesicht und einer Art Turban auf dem Kopf.
 
@@ -1033,7 +1034,7 @@ daß ich zunächst nur etwas Langes, Hellschimmerndes erkannte.
 
 Harst preßte meinen Arm.
 
-Dicht an uns vorbeischritt seine weiße Gestalt, ein Mensch,
+Dicht an uns vorbeischritt eine weiße Gestalt, ein Mensch,
 der sich völlig in weiße Tücher eingewickelt hatte. Nicht genug
 damit: dieser »Geist« hatte als Kopf einen richtigen —
 Totenschädel! — Als er aus dem Schatten in das Mondlicht
@@ -1136,7 +1137,7 @@ ist das nicht mehr nötig. — Nicht wahr, die Gesellschafterin
 ist eine sportgeübte Dame, sehr kräftig und groß?«
 
 »Allerdings — das reine Mannweib. Sie reitet, schießt,
-spielt Tennis. Golf — alles vorzüglich! — Aber, was haben
+spielt Tennis, Golf — alles vorzüglich! — Aber, was haben
 Sie mit der Backerley?!«
 
 »Davon später. — Noch etwas Neues sonst, Melprove?«
@@ -1244,7 +1245,7 @@ ganz gewöhnlicher europäischer Verbrecher,« meinte ich gespannt.
 »Du irrst, mein Alter! Doch ein Pirat! Bei der Heimfahrt
 vom Klub erzählte Schliepner so allerlei von dem einst
 so berüchtigten Seeräuber von Kap Kotaringia, auch davon,
-daß dieser einst den alten Buddha-Tempel von Bandjermansin
+daß dieser einst den alten Buddha-Tempel von Bandjermasin
 ausgeplündert hätte. Der Tempel ist berühmt, weil der Altar
 vollständig mit kostbarem Mosaik bedeckt ist, einem Mosaik
 aus indischem Plasma, einem dunkelgrünen Halbedelstein. —
@@ -1316,7 +1317,7 @@ nimm mal folgendes an. Die Person, die uns bewacht, also
 die Mutter der Jane, hat hier doch Gelegenheit, alles im
 Hause auszukundschaften, was ihr irgend wichtig erscheint.
 Wir wissen ja, wie frech sie hier den Geist spielt, wie geschickt
-sie die warnenden Uhrkettenglieder Melprove Zustellt, wie keck
+sie die warnenden Uhrkettenglieder Melprove zustellt, wie keck
 sie dessen Schreibmaschine benutzt und anderes. Wenn sie nun
 zum Beispiel mit ihren Genossen verabredet hätte, Melprove
 einen neuen Streich in der Art zu spielen, daß sie versucht,
@@ -1351,7 +1352,7 @@ die etwa dreihundert Meter entfernt im Nordwesten
 vor dem Bungalow jenseits der Straße sich erhob, ein weißes
 Licht, das in kürzeren und längeren Zwischenräumen auftauchte
 und wieder verschwand. Dann — wir lagen jetzt ausgestreckt
-aus dem Dache und hatten die Fenster der beiden
+auf dem Dache und hatten die Fenster der beiden
 Zimmer der Backerleys gerade unter uns — sahen wir aus
 einem dieser Fenster ebenfalls ein Licht aufblitzen und erlöschen,
 wieder erscheinen und abermals verschwinden. — Also
@@ -1376,7 +1377,7 @@ wir drüben auch den Bungalow Melproves und das noch
 immer aufleuchtende Licht sehen. — Wir warteten im Schatten
 einiger Sträucher. Vielleicht zehn Minuten vergingen. Dann
 <@pagebreak/>
-kletterte jemand von dient Baume herab. Es war ein großer,
+kletterte jemand von dem Baume herab. Es war ein großer,
 starkknochiger Mann, der vom untersten Ast etwas schwerfällig
 auf den Grasboden sprang. Er schaute sich nur flüchtig
 um und schlug dann den Weg nach dem Hafen ein.
@@ -1387,7 +1388,7 @@ von Chinesen zumeist bewohnte Hafenvorstadt. Hier rückten
 wir näher auf, gingen aber einzeln mit 20 Schritt Abstand
 etwa. Jetzt passierten wir eine schmutzige, schmale Gasse, in der
 es noch recht lebhaft war. Es gab hier allerlei verrufene
-schenken und Singspielhallen niedriger Sorte. Allerlei abgerissene
+Schenken und Singspielhallen niedriger Sorte. Allerlei abgerissene
 Melodien drangen an unser Ohr, Gelächter, Gekreisch.
 Trunkene torkelten vorüber. Eine Schar amerikanischer
 Seeleute kam Arm in Arm daher, versperrte Harst den
@@ -1397,7 +1398,7 @@ ein wenig verprügeln wollte.
 
 Als wir uns dann wieder zusammengefunden hatten, war
 der Europäer verschwunden. Harst kochte vor Grimm. Er
-geriet so selten in Erregung. — Dann eilte er auf einen Eingeborenen
+geriet so selten in Erregung. — Dann eilte er auf einen eingeborenen
 Polizisten zu, kehrte sofort zu mir zurück. — »Wir
 haben Glück gehabt. Der Polizist kennt unseren Mann offenbar
 sehr gut. Er behauptet, es sei ein Kapitän Bill Hamilton,
@@ -1410,7 +1411,7 @@ Er schwieg plötzlich. Er packte meinen Arm, deutete auf
 eine verschleierte, große Frau in langem Seidenmantel, die
 soeben in eine bessere Kneipe gerade vor uns durch das Fenster
 hineinschaute. — »Sie kam von dorther,« flüsterte er.
-»Alle aus der Richtung von Melprove Bungalow. Diese Größe!
+»Also aus der Richtung von Melprove Bungalow. Diese Größe!
 Ich wette, sie ist’s! — Sie hat unsere Flucht entdeckt. — Los
 denn — wir riskieren’s!«
 
@@ -1421,9 +1422,9 @@ Mistreß Backerley!«
 
 Das Weib prallte zurück. — »Kommen Sie mit!« befahl
 Harst kurz. »Gehorchen Sie! Das Spiel ist aus! — Schraut
-hole den Polizisten,«
-<@pagebreak/>
+hole den Polizisten.«
 
+<@pagebreak/>
 Er faßte die Frau rücksichtslos am Handgelenk und zerrte
 sie hinüber auf die andere Straßenseite. Das Weib war noch
 immer vor Schreck wie gelähmt. Dann stand der eingeborene
@@ -1494,9 +1495,9 @@ der mehr Hirn im Schädel hat als alle holländischen
 Polizisten zusammengenommen!«
 
 Ein furchtbarer Lärm erhob sich. Die Gäste deuteten diese
-Worte richtig: als Zugeständnis Hamiltons, daß es der Pirat
+Worte richtig: als Zugeständnis Hamiltons, daß er der Pirat
 von Kotaringia sei. — Die ganze Wut der Seeleute gegen
-diesen Piraten, der ein Jahrlang der Schrecken der Java-See
+diesen Piraten, der ein Jahr lang der Schrecken der Java-See
 gewesen, kam jetzt zum Ausbruch. Nur mit Mühe konnte
 Hamilton ins Freie und in das Polizeiauto gebracht werden.
 

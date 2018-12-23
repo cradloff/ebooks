@@ -26,14 +26,14 @@ bei den Handbewegungen, die seine Worte begleiteten.
 Ich muß noch erwähnen, daß das Hotel de Paris nur
 durch die Strandpromenade mit ihren schmalen gärtnerischen
 Anlagen vom Meere getrennt ist und daß die Hotelterrasse
-unter unserem Balken sich bis dicht an die Promenade heranzog.
+unter unserem Balkon sich bis dicht an die Promenade heranzog.
 Durch das Milchglasdach der Terrasse waren die Stämme
 mehrerer Fächerpalmen hindurchgeleitet, so daß die Palmenkronen
 den häßlichen Anblick des von Eisenschienen in kleine
 Quadrate geteilten Terrassendaches einigermaßen verhüllten.
 
 Harst deklamierte jetzt mit überlauter Stimme einen
-englischen Vers aus Miltons Verlorenem Paradies, lies
+englischen Vers aus Miltons Verlorenem Paradies, ließ
 plötzlich die Stimme sinken und fügte, noch immer im Versmaß
 des Vorausgegangenen, auf Deutsch hinzu:
 
@@ -77,7 +77,7 @@ Da — jetzt endlich regte sich etwas in der Palme. Aus
 den grüngelben Blättern der Krone löste sich eine winzige, in
 einen enganschließenden, ebenfalls grüngelben Zeugfetzen gehüllte
 Gestalt los und lief mit affenartiger Gewandtheit auf
-den Nebenbalken zu, der wie der unsrige etwa anderthalb
+den Nebenbalkon zu, der wie der unsrige etwa anderthalb
 Meter über dem Glasdach lag.
 
 Ich will nicht allzu eingehend hier schildern, was alles
@@ -139,8 +139,8 @@ würde.
 Nichts geschah. Da griff Harst nach dem linken Arm
 des Knaben, — ließ den Arm wieder fallen. Und dieser Arm
 schien wie gelähmt.
-<@pagebreak/>
 
+<@pagebreak/>
 »Tot!« sagte Harst leise. »Tot —! Lieber Alter, ich habe
 nicht zu Unrecht diesem kleinen Spion sofort eine ganz besondere
 Bedeutung beigemessen. — Bitte — rufe doch durch
@@ -203,7 +203,7 @@ steckte.
 
 Wir drei — der Polizeiarzt, Harst und ich — suchten nun
 mit den Augen das Glasdach ab. Der Arzt erspähte den gefiederten,
-kurzen Blasrohrpfeil zuerst, der unter dein Nebenbalkon
+kurzen Blasrohrpfeil zuerst, der unter dem Nebenbalkon
 lag.
 
 »Der arme Junge hat natürlich sehr wohl gespürt, wie
@@ -281,7 +281,7 @@ indischen Abenteuer verhelfen sollten.
 <h3>Ein Attentat auf Harst.</h3>
 
 Vier Siegellacktröpfchen! Eins immer kleiner als das
-andere. Das größte links das kleinste rechts aus dem Briefbogen
+andere. Das größte links, das kleinste rechts auf dem Briefbogen
 aus feinstem Büttenpapier unter den sieben Zeilen
 Schrift. —
 
@@ -342,8 +342,8 @@ die Warnung mißachten.«
 »Gestatte eine Frage,« warf ich ein. »Hat der Junge uns
 denn wirklich beobachtet? — Ich weiß ja von der Vorgeschichte
 —«
-<@pagebreak/>
 
+<@pagebreak/>
 »Schon gut! — Gewiß, er hat uns beobachtet. Jetzt, wo ich
 diesen Brief gelesen habe, wird mir auch klar, daß der Knabe
 von uns bemerkt werden sollte. Wir sollten auf ihn aufmerksam
@@ -390,7 +390,7 @@ schonen. Gegen Blasrohrpfeile kann man sich kaum schützen.
 Oder doch nur auf eine Art: indem man Indien schleunigst
 wieder den Rücken kehrt. Und — das werden wir tun.«
 
-Er erhob sich »Komm, mein Alter« kaufen wir uns einen
+Er erhob sich »Komm, mein Alter, kaufen wir uns einen
 Koffer, packen wir und reisen wir mit dem nächsten
 Dampfer nach Kolombo, wo wir leicht ein Schiff nach Europa
 finden.«
@@ -573,7 +573,7 @@ aus, rief mit verzerrtem Gesicht:
 getan.« — Er lief abseits und zwang den Magen alles herzugeben,
 was darin war.
 
-»Schraut —« die Kognakflasche!« verlangte er nun mit
+»Schraut — die Kognakflasche!« verlangte er nun mit
 einer so matten Stimme, daß mir himmelangst wurde.
 
 Ich mußte ihn stützen, als er die Flasche an den Mund
@@ -835,8 +835,8 @@ abermals dieselbe Handschrift.«
 
 Harst saß jetzt vornübergebeugt da und hatte den Brief
 auf dem Schenkel liegen.
-<@pagebreak/>
 
+<@pagebreak/>
 »Wie verschwand Ihre Gattin, Mylord?« fragte er erst
 nach mehreren Minuten.
 
@@ -933,6 +933,7 @@ Er blätterte, suchte offenbar eine bestimmte Stelle und
 las dann sehr aufmerksam mehrere Seiten, klappte das Buch
 zu, schob es wieder hinter sich und breitete nun den Grundriß
 des Schlosses auf seinen Knien aus.
+
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
@@ -1008,7 +1009,7 @@ Alexander Bebragson. Dann noch der Sohn des Hausmeisters
 Thomas Barton, der junge Reginald Barton, der hier
 den Hausingenieur für die Beleuchtungs- und Warmwasseranlage
 spielt, übrigens ein sehr fleißiger Mensch, der all das
-ganz allein entledigt, was doch nicht ganz einfach ist. Er setzt
+ganz allein erledigt, was doch nicht ganz einfach ist. Er setzt
 seinen Ehrgeiz darein, keinerlei Hilfe zu gebrauchen.«
 
 Harsts Mienen strafften sich plötzlich. Er stand auf.
@@ -1122,7 +1123,7 @@ Dieser zauderte noch etwas, platzte dann aber heraus:
 will ich sprechen. Ja — sowohl die Bartons als auch die
 <@pagebreak/>
 Urbington sind mir seit langem verdächtig. Ich hatte bemerkt,
-daß die Urbington sich alle Mühe gab, Lord in ihre Netze
+daß die Urbington sich alle Mühe gab, den Lord in ihre Netze
 zu locken. Sie wollte von ihm geheiratet sein. Als ihr dies
 nicht glückte, hatte der junge Barton mehr Glück. Ich weiß,
 daß sie zum mindesten heimlich verlobt sind. Jedenfalls
@@ -1160,7 +1161,7 @@ stammen wohl fraglos von den Leuten her, die seit mehr
 als fünfzig Jahren alles, was Wolpoore heißt, unerbittlich
 verfolgen und vernichten. Aber nun diese Fälschung, die der
 Lord bei seiner Heimkehr auf seinem Schreibtisch fand? Wer
-steckt als Urheber dahinter? Ich behauptet die Urbington
+steckt als Urheber dahinter? Ich behaupte: die Urbington
 und ihre Verbündeten! — Ich werde das auch beweisen. Die
 Urbington hatte ein Interesse daran, daß die Lady und die
 Knaben verschwanden. Sie wollte zunächst selbst Lady
@@ -1181,7 +1182,7 @@ ziehe, was Doktor Halfing über die drei uns mitteilte und —«
 
 »— wenn man schließlich noch sich fragt, weshalb wohl
 Reginald Barton jede Hilfe bei der Bedienung der Maschinen
-ablehnt!« fügte Harst schnell hinzu, — dann, meine Herren,
+ablehnt!« fügte Harst schnell hinzu, »— dann, meine Herren,
 dann muß man auf den Gedanken kommen: die Leichen der
 Lady und der Kinder sind in den Kellern des Westflügels irgend
 wo verscharrt!«
@@ -1265,8 +1266,8 @@ er stecken — wo nur?! Er war doch noch soeben hier neben
 mir gewesen?!
 
 Chester Blindley hatte sich schnell gefaßt. »Suchen tun
-wir gar nichts, Barton.« erklärte er gelassen. Wir wollten
-uns nur mal die Anlagen hier ansehen.
+wir gar nichts, Barton,« erklärte er gelassen. »Wir wollten
+uns nur mal die Anlagen hier ansehen.«
 
 »So so! Nur die Anlagen!« lächelte Barton und wandte
 den Kopf zur Seite, flüsterte etwas, worauf neben ihm sein
@@ -1332,7 +1333,7 @@ Blindley drein, der Harsts Hand ergriffen hatte.
 
 Ich tat’s. Es ging zehn Steinstufen abwärts durch eine
 niedrige Tür, die in Form einer Felsplatte in die Rückwand
-des Verderraums eingeführt war und die nur Harst vorhin
+des Vorderraums eingeführt war und die nur Harst vorhin
 bemerkt hatte.
 
 Doktor Halfing drückte die Tür wieder zu. Wir standen
@@ -1357,7 +1358,7 @@ Die Freude dieser Bedauernswerten zu schildern ist unmöglich.
 Ströme von Tränen entquollen ihren Augen. Sie
 konnten gar nicht fassen, daß sie nun wirklich befreit waren.
 
-Einer der Detektive der, für diese Nacht das Schloß von
+Einer der Detektive, der für diese Nacht das Schloß von
 außen zu überwachen hatte, war auf die aus den Luftschächten
 der Maschinenkeller hervordringenden Rauchmassen aufmerksam
 geworden, hatte seine Kollegen alarmiert, die Eisentür

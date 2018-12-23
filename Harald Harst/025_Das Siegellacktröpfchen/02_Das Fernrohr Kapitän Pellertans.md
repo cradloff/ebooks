@@ -10,8 +10,8 @@ scherzend zu dem glücklichen Besitzer, Kapitän Joe Pellertan,
 eigentlich gehöre zu diesem Rieseninstrument beim Gebrauch
 stets ein Stativ, da man schon über gehörige Muskelkräfte
 verfügen müsse, um es frei in den Händen still zu halten.
-<@pagebreak 32/>
 
+<@pagebreak 32/>
 Joe Pellertan war jedoch noch ein Seemann aus der alten
 Schule, der von modernen Trieder-Binokeln und so weiter
 nichts wissen wollte, der noch manchen Aberglauben festhielt
@@ -58,8 +58,8 @@ bewegte sich. Es war, daß einem das Grausen ankam!«
 In diesem Augenblick trat nach kurzem Anklopfen der
 Jachtingenieur Moore ein, nickte uns zu und wandte sich dann
 an Pellertan:
-<@pagebreak/>
 
+<@pagebreak/>
 »Käpt’en, haben Sie sich mein Fernglas ausgeliehen?
 Es ist aus meiner Kabine verschwunden.«
 
@@ -312,8 +312,8 @@ später in aller Ruhe sich aufknüpfen zu können,« meinte er
 nun.
 
 »Ja ja — so wird es sein!« nickte Pellertan.
-<@pagebreak/>
 
+<@pagebreak/>
 In der Kombüse drängten sich jetzt die Leute der Jacht
 und machten lange Hälse um einen Blick auf den Toten werfen
 zu können.
@@ -667,8 +667,8 @@ und körnig wurde.« Dann blickte er wieder auf Harst.
 
 Dieser erklärte nun, indem er sich an Joe Pellertan
 wandte:
-<@pagebreak/>
 
+<@pagebreak/>
 »Kapitän, halten Sie es für möglich, daß trotz der kürzlich
 vorgenommenen Säuberung der Jacht von Ratten bereits
 so viele dieser Nager wieder hier sich eingeschlichen haben
@@ -761,8 +761,8 @@ Der Erfolg? — Nun — es war ein vollständiger —
 Mißerfolg. Nirgends hatten wir auch nur die geringsten
 Anzeichen dafür gefunden, daß ein Fremder sich in einem
 Versteck an Bord aufgehalten hätte.
-<@pagebreak/>
 
+<@pagebreak/>
 Jetzt schritten wir dem Achterdeck zu, wo der Lord mit
 den Seinen in Liegestühlen das Ende der Durchsuchung abgewartet
 hatte.
@@ -862,8 +862,8 @@ demselben Gange auf Steuerbordseite lagen.
 Harst und ich bewohnten eine der großen Luxuskabinen.
 Wir waren kaum drei Minuten allein, und ich hatte gerade
 anfangen wollen mich auszuziehen, als Harst mir zuwinkte.
-<@pagebreak/>
 
+<@pagebreak/>
 »Laß das, mein Alter!« flüsterte er. »Wir bleiben nicht
 hier. Ich drehe das Licht sofort wieder aus.«
 
@@ -1115,8 +1115,8 @@ wie sollte man dann eine einleuchtende Erklärung für die
 Stimme finden, die doch ganz unzweifelhaft von der Kabinentür
 und zwar von außen den Lord durch den Zuruf hatte
 wecken wollen?!
-<@pagebreak/>
 
+<@pagebreak/>
 Blindley richtete sich jetzt halb auf flüsterte ganz kopflos
 und verstört: »Harst — bester Harst — soll etwa gar
 Narkolly mit zu den —«
@@ -1164,8 +1164,8 @@ helle Streifen des heraufziehenden neuen Tages erschien, da
 ereignete sich das, was mich veranlaßt hat, diesem Abenteuer
 den Titel »Das Fernrohr Kapitän Pellertans« zu
 geben.
-<@pagebreak/>
 
+<@pagebreak/>
 Genauer gesagt: es hatte sich bereits etwas ereignet.
 Dieses Geschehnis wurde jedoch jetzt erst entdeckt.
 
@@ -1451,8 +1451,8 @@ etwa der gemeinsame Feind irgendwie unter der Wasserlinie
 hing. Man sieht: wir ließen nichts, aber auch gar
 nichts außeracht; wir übertrieben unsere Sorgfalt fast ins
 Lächerliche.
-<@pagebreak/>
 
+<@pagebreak/>
 Es wurde auf diese Weise mittag. Alles war vergeblich
 gewesen — alles! — Die Enttäuschung hierüber war deutlich
 auf allen Gesichtern zu lesen. Flüsternd standen die Matrosen
