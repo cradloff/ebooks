@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">4192f010-086f-11e9-9159-93029da210cc</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Nur ein Tintenfleck</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">29</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Nur ein Tintenfleck.
+
+An einem glutheißen Vormittag brachten zwei elegante Rikschas Harst und mich von unserem Fremdenheim in Bangkok, der Hauptstadt Siams, aus in gleichmäßig schneller Fahrt nach P’hrabat, dem heiligen Berge nördlich von Bangkok, wo sich das gleichnamige Kloster, einer der berühmtesten Wallfahrtsorte der Buddhisten, befindet. Die Hauptreligion in Siam ist der Buddhismus, was man schon an der Unmenge buddhistischer Mönche merkt, die in den Straßen Bangkoks zu sehen sind. Diese frommen Nichtstuer kosten dem Staate jährlich Unsummen. Trotzdem dürfte es niemand wagen, an dieser Einrichtung zu rütteln. Die Siamesen sind, was ihre religiösen Gebräuche angeht, genau so halsstarrig wie die Inder in Bezug auf das Kastenunwesen.
+
+Unsere beiden Rikschakulis, die nur das Hüfttuch und den großen Hut aus Palmenblättern trugen, mußten offenbar Patentlungen besitzen, denn 16 Kilometer in flottem Trab ein belastetes Wägelchen zu ziehen, dazu gehört mehr als ein europäischer Dauerläufer nach langem Training leistet.
+
+Das Kloster P’hrabat ist von mehreren Mauern umgeben.  In diesen Vorhöfen schwärmen die Mönche wie die Bienen und lassen keinen Schritt des neugierigen Europäers unbeobachtet. Und sie tun recht daran. Das P’hrabat-Kloster enthält Kostbarkeiten, deren Wert auf annähernd 120 Millionen Mark geschätzt wird.
+
+Im inneren Hofe erhebt sich der goldene Turm, ein phantastisches Bauwerk, das tatsächlich über und über dick vergoldet ist. Betritt man die Halle dieses Turmes, dessen Fußboden aus dicken, reinsilbernen Platten besteht, so wird man wie ein Verbrecher behandelt, das heißt, Priester und Mönche spielen, für jeden Fremden gut ein halbes Dutzend, die Polizei »zur Verhütung von Diebstählen oder deren Vorbereitung«.
+
+Die Menam-Brüder.
+
+Lehmgelb und träge umgurgelten die Wasser dies Menam-Flusses die Bordwände des schwimmenden Fremdenheims der Madame Sarah Pordepierre, bei der Harst und ich in Bangkok, der Hauptstadt des Königreichs Siam, Wohnung genommen hatten. Ringsum lagen andere Wohnschiffe verankert, dazu noch große Bambusflöße, auf denen sich lustige Häuschen erhoben, Kramläden und Werkstätten der einheimischen und chinesischen Kaufleute und Handwerker.  Ein seltsames Bild bietet der große Strom, auf dessen beiden Ufern Bangkok sich endlos weit hinzieht mit seinen schmucken Gärten, seinen das Häuser- und Baummeer überragenden 700 buddhistischen Klöstern und Tempeln, darunter einigen Riesenpagoden von ebenso phantastischer wie gefälliger Bauart.
+
+Die Sonne war bereits im Untergehen, näherte sich, von einem gelbroten Hofe umgeben, dem Horizont. Gelbroter, feiner Dunst lagerte auch über dem breiten Strome und ließ die Szenerie der tausende und abertausende von Schiffen, Booten, Flößen und plumpen Lastfahrzeugen, teils vor Anker liegend, teils an Pfählen befestigt oder in Bewegung, so unwirklich wie ein traumhaftes Spukbild erscheinen.
+
+Wir saßen auf dem Deck des schwimmenden Pensionats inmitten eines geschickt angelegten Gärtchens an unserem gewöhnlichen Tische an der Backbordreling. Harst war nach den Ereignissen des Vormittags still und insichgekehrt. Ich hatte mehrmals versucht, ein Gespräch anzuknüpfen, mußte aber bald einsehen, daß Harald wohl trüben Betrachtungen über unser verspätete Eingreifen bei dem gegen den goldenen Turm des P’hrabat-Klosters geplanten Anschlag nachhing und störte ihn daher nicht weiter.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (029) Nur ein Tintenfleck.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
