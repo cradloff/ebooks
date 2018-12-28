@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">ec4019ea-0a34-11e9-85e6-3bf7cbab0965</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Stern von Siam</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">30</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Stern von Siam.
+
+Die Sirene des »Stern von Siam« heulte ihren Abschiedsgruß über die Gärten, Häuser und zahllosen Tempel von Bangkok hin. Schwerfällig setzte sich dann der alte klapperige Raddampfer in Bewegung der den prahlerischen Namen »Stern von Siam« wahrlich nicht verdiente.
+
+Wir standen neben dem Eigentümer und Kapitän dieses altehrwürdigen Transportmittels, dem rotnasigen Engländer Tompson, auf der Kommandobrücke. Tompson fühlte sich sehr geehrt, daß zwei so berühmte Leute wie der Liebhaberdetektiv Harald Harst und sein Freund und Privatsekretär Schraut seinen Rattenkasten von Schiff zur Fahrt nach Singapore benutzten. Für gewöhnliche Sterbliche ist die Brücke eines Dampfers verbotenes Gebiet. Uns hatte Tompson sofort gebeten, ihm dort recht oft Gesellschaft zu leisten.
+
+Harst lehnte am Geländer und deutete jetzt auf eine malaiische Prau, die schwerfällig mit ihren großen, vom Winde prall gefüllten Mattensegeln gegen die Strömung sich vorwärtsschob.
+
+»Diese ungefügen hölzernen Riesenkähne segeln besser, als man’s nach ihrer primitiven Takelage annehmen sollte,« meinte er zu Tompson und mir.
+
+Tompson spie den Saft seines Priems im Bogen in die gelben Wasser des Menam.
+
+»Der Deubel hole alle diese braunen Kerle, die auf so einer Prau hausen,« knurrte er. »Vor dreißig, nein, zwanzig Jahren trieben die Malaien rund um die Sunda-Inseln ganz offen Seeraub. Jetzt tun sie’s heimlich, wo sie nur sicher sind, nicht abgefaßt zu werden.«
+
+Die Matsoa-Spinne.
+
+»Und nun, bester Jobster, erzählen Sie uns nochmals ganz genau alles, was mit dem an Admiral Stevenpole verübten Morde zusammenhängt,« sagte Harst zu dem bartlosen, untersetzten Detektivinspektor.
+
+Wir drei saßen auf dem zu unseren Zimmern gehörigen Balkon des Raffles-Hotel und genossen die frische Seebrise, die von Osten her über die Reede von Singapore strich, in langen Zügen nach diesem glutheißem erschlaffenden Tage, genossen weiter ein köstliches, eisgekühltes Getränk und ein paar vorzügliche Zigarren.
+
+Am Morgen waren wir in Singapore eingetroffen, hatten uns von Fred Jobster und seiner Gattin verabschiedet, mit ihm aber eine Zusammenkunft für 6 Uhr nachmittags verabredet, denn Harst war ja bereits unterwegs auf dem Stern von Siam geradezu erpicht gewesen auf diesen Mord mit all seinen geheimnisvollen Begleitumständen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (030) Der Stern von Siam.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
