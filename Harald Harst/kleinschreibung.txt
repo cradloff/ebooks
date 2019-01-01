@@ -1064,7 +1064,6 @@ anzapfen
 Anzapfung
 Anzeichen
 Anzeige
-anzeigen
 Anzeigenentwurf
 Anzeigenseiten
 Anzeigenteil
@@ -1124,7 +1123,6 @@ arabischer
 Arawura
 Arbeit
 arbeite
-arbeiten
 arbeitende
 arbeitenden
 arbeitendes
@@ -3012,7 +3010,6 @@ Betriebsstörung
 betrifft
 betrog
 betrogen
-betrogene
 betrogener
 betrogenes
 Betrübnis
@@ -6696,7 +6693,6 @@ Flüsterton
 Flut
 flutete
 folgend
-folgende
 folgendem
 folgender
 folgendermaßen
@@ -10477,7 +10473,6 @@ hüstelte
 Hustenanfall
 Hut
 Hutband
-hüte
 hüten
 Hüter
 hütete
@@ -11371,7 +11366,7 @@ Kolonialregierung
 Kolonialrichter
 Kolonie
 Koloß
-Kolossal
+kolossal
 kolossale
 kolossalen
 Kolosse
@@ -13887,7 +13882,6 @@ Note
 notiert
 notierte
 nötig
-nötige
 nötigen
 nötigenfalls
 nötiger
@@ -15771,7 +15765,6 @@ Scherze
 scherzend
 scherzhaften
 scherzt
-scheu
 scheue
 scheuen
 scheues
@@ -16283,7 +16276,6 @@ Schuhe
 Schuhen
 Schuhmacher
 Schuhsohlen
-Schuld
 schuldbelasteter
 schuldig
 Schuldigkeit
@@ -21219,7 +21211,6 @@ Weingläser
 Weinhauses
 Weinlaube
 weinte
-Weise
 weisen
 Weisheit
 weiß
@@ -21412,7 +21403,7 @@ Widerrede
 Widersacher
 widerspenstige
 widerspiegelte
-Widersprechen
+widersprechen
 Widerspruch
 Widersprüche
 Widersprüchen
