@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">a9104b94-1142-11e9-8282-d30b3acec6bb</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis des Scheiterhaufens</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">33</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Geheimnis des Scheiterhaufens.
+
+Als wir nun die große Freitreppe hinabstiegen, war es genau 1 Uhr mittags. Wir warfen noch einen Blick über die Hafenstadt Rangun hin und nahmen so Abschied von ihr.
+
+Plötzlich Harsts leise Stimme:
+
+»Wahrhaftig — da ist der Kerl schon wieder!«
+
+»Welcher Kerl?«
+
+»Hast Du ihn denn wirklich nicht bemerkt? Gestern bereits drückte er sich stets in unserer Nähe herum. — Bitte schau’ nicht nach ihm aus. Du würdest ihn doch nur schwer entdecken. Es ist ein sehr elegant gekleideter Chinese von über Mittelgröße mit einer goldenen Brille, so ein Vertreter eines Chinesentyps, der sich jetzt überall hier breit macht; fraglos ein reicher Kaufmann, der in Europa sich den nötigen Schliff angeeignet hat und nun mit den faden Charakterschwächen des modernen, überkorrekten Europäers alle inneren Nachteile seiner eigenen Rasse zum Schaden anderer verbindet.«
+
+Der Mord in den Lüften.
+
+Wir hörten schnelle Schritte auf Deck. Dann eilte jemand die Kajütentreppe hinab. Es klopfte. Es war Inspektor Worbster.
+
+»Guten Morgen. — Hier ist eine Depesche für Sie, Mr.  Harst, die an mich gesandt worden ist als Diensttelegramm.  — Bitte, lesen Sie. Es gibt Arbeit, und scheinbar recht außergewöhnliche.«
+
+Harst las laut vor, damit auch ich sofort Bescheid wußte.
+
+Mr. Harald Harst durch Detektivinspektor Worbster, Rangun.
+
+Heute früh 6 Uhr von eingeborenen Arbeitern in der Nähe des Dorfes Prabang leicht verwester Kopf eines Europäers vorgefunden. Gesichtszüge offenbar absichtlich durch Schläge mit stumpfem Instrument völlig unkenntlich gemacht.  Würde sehr dankbar sein für Besuch hier. — Detektivinspektor Bloosley, Akyab.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (033) Das Geheimnis des Scheiterhaufens.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>

@@ -4764,8 +4764,6 @@ Eindringling
 Eindringlinge
 Eindringlingen
 Eindruck
-Eindrücke
-eindrücken
 eindrucksvoll
 eine
 einem
@@ -12462,7 +12460,6 @@ Lohnforderung
 lohnt
 lohte
 Lokal
-lokalen
 Lokals
 Lokomotive
 Lokomotiven
