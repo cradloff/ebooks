@@ -29,8 +29,8 @@ sollte.
 
 »Dehli-Post! — Dehli-Post! — Das Neueste über die
 Thugs — die Thugs!«
-<@pagebreak 34/>
 
+<@pagebreak 34/>
 Harst wurde gleichzeitig mit mir auf den braunen Knirps
 aufmerksam, der gellend diese Worte kreischte und dazu eine
 Nummer der Dehli-Post in der rechten Hand schwenkte.
@@ -127,7 +127,7 @@ und die Bande will nun natürlich desto eifriger Wolpoore ans
 Leben, um den Tod der Bellingson zu rächen. Auch wir haben
 daher allen Grund, recht vorsichtig zu sein. Wir waren es ja,
 die Maria Bellingson entlarvten. Und deshalb werden die
-Thugs auch mit uns abrechnen wollen.
+Thugs auch mit uns abrechnen wollen.«
 
 Er schob die Depesche in die Tasche. »Du kannst hier
 weiter packen,« fügte er hinzu. »Ich will inzwischen mal
@@ -216,7 +216,7 @@ wir nicht weiter.«
 holen.«
 
 Dieser, ebenfalls ein Hindu, machte uns Hoffnung, daß
-des Besitzer des Gehöfts einen Wagen und ein paar Pferde besäße.
+der Besitzer des Gehöfts einen Wagen und ein paar Pferde besäße.
 
 Inzwischen hatte sich das Gewitter verzogen. Wir stiegen
 aus und wanderten zunächst mal nach der unterwaschenen
@@ -225,8 +225,8 @@ Mond leuchtete uns jetzt genügend. Wir sahen, daß ein Wasserrinnsal
 zwischen zwei Hügeln hervorkam und gerade gegen
 den Damm flutete, der etwa sechs Meter breit weggerissen
 war, so daß die Schienen in der Luft schwebten.
-<@pagebreak/>
 
+<@pagebreak/>
 Während der Bahnwärter mir auseinandersetzte, weshalb
 der Schaden nicht so schnell auszubessern sei, schritt Harst
 scheinbar zwecklos hin und her, bückte sich auch verschiedentlich
@@ -271,7 +271,7 @@ daß er nicht mal sich bedankte, als Harst ihm im voraus 200
 Rupien bezahlte — eine Summe, die für die verlangte Leistung
 viel zu hoch war.
 
-wir verstauten unsere Koffer hinten im Wagenkasten,
+Wir verstauten unsere Koffer hinten im Wagenkasten,
 stapelten die Säcke anders auf, damit wir bequem sitzen
 konnten, und dann ging’s hinauf auf die elende, aufgeweichte
 <@pagebreak/>
@@ -379,8 +379,8 @@ Ich glaubte nicht recht verstanden zu haben. — Vorbereitung
 — Schaden am Bahnkörper?! — Dann begriff ich.
 
 »Die Unterwaschung des Dammes war also —«
-<@pagebreak/>
 
+<@pagebreak/>
 »— ja, war durch Menschenhand sehr schlau veranlaßt
 worden,« vollendete Harst meinen Satz. »Das Wasserrinnsal
 hatte ursprünglich eine andere Richtung. Man hat es erst
@@ -495,7 +495,7 @@ aufbrechen, wollen wir doch dafür sorgen, daß die Thugs uns
 so leicht nicht herausfinden aus dem Völkermischmasch der
 Hafenstadt Madras. Legen wir unsere Chinesenkostüme an,
 mein Alter. Darin haben wir schon manchen angenehm\-aufregenden
-Tag Verlebt.« —
+Tag verlebt.« —
 
 Eine Stunde drauf — es war mittlerweile zwei Uhr morgens
 geworden — wanderten zwei armselige chinesische Kulis
@@ -519,7 +519,7 @@ Ich zuckte die Achseln. »Zum Rätselraten habe ich heute
 weniger Lust denn je,« erwiderte ich.
 
 »Und doch würde ich’s Dir gerade heute empfehlen. —
-— Aber — da kommt ein Wagen die Straße entlang. Offenbar
+Aber — da kommt ein Wagen die Straße entlang. Offenbar
 ein Gemüsehändler, der nach Madras will. Versuchen wir,
 ob er uns mitnimmt.«
 
@@ -552,7 +552,7 @@ ein Master Faringdall?«
 
 »Es ist ein Papier- und Schreibwarengeschäft,« erklärte
 der Hindu. »Es gehört der Witwe eines englischen Sahibs namens
-Faringdall, die mit ihrer Tochter das Geschäft Versieht.
+Faringdall, die mit ihrer Tochter das Geschäft versieht.
 Ich liefere seit Jahren das Gemüse dorthin. Es sind zwei sehr
 fleißige Frauen. Jetzt ist das Unglück bei ihnen eingekehrt.
 Der Verlobte der Tochter wurde ermordet aufgefunden. Ich
@@ -595,7 +595,7 @@ Gleich darauf stiegen wir aus, dankten dem freundlichen
 Greise, nickten dem Mädchen zu und betraten ein Unterkunftshaus
 für Eingeborene, wie man diese Art Staatsgasthäuser
 überall in Indien findet. — Um elf Uhr vormittags
-standen zwei schwierige Chinesen vor dem Verwaltungsgebäude
+standen zwei schmierige Chinesen vor dem Verwaltungsgebäude
 der Wolpooreschen Plantagen am Hafenkai von Madras
 und verhandelte mit dem Pförtner, der uns immer wieder
 erklärte, wir würden hier keine Arbeit finden. Aber Harst
@@ -646,7 +646,7 @@ Schreibtisch setzte, ging ich einige Male auf und ab, da
 mir die Gedanken an Campells Ermordung keine Ruhe ließen.
 — Sie sehen nun dort links neben dem Fenster eine große, auf
 Leinwand ausgezogene Karte des Indischen Ozeans hängen,
-lieber Harst. plötzlich fuhr ich zusammen. Meine Füße waren
+lieber Harst. Plötzlich fuhr ich zusammen. Meine Füße waren
 wie gelähmt. Mein Blick haftete stier auf der Karte. Zufällig
 nur hatte ich hingeschaut, hatte zunächst an eine Sinnestäuschung
 geglaubt, die mir meine infolge Campells Tod
@@ -668,7 +668,7 @@ schon so viel wie ich unter den Verfolgungen der Thugs zu
 leiden gehabt hat, wer sich dann der Hoffnung hingab, daß
 <@pagebreak/>
 diese Mörderbande nun endlich für alle Zeit unschädlich gemacht
-sei. der verliert leicht die Fassung, wenn er sich mit einem
+sei, der verliert leicht die Fassung, wenn er sich mit einem
 Male von neuem den entnervenden Schrecken derartiger
 Nachstellungen gegenübersteht.
 
@@ -688,7 +688,7 @@ dann hier das oberste zu unterst, um sich zu vergewissern, ob
 die Thugs etwa eine Höllenmaschine irgendwo verborgen
 hätten. Er fand nichts Verdächtiges, gar nichts. Ebenso erfolglos
 blieben seine Ermittlungen, ob jemand mein Kontor
-betreten oder sich gewaltsam Zugang verschafft hätte. Nichts
+betreten oder sich gewaltsam Zugang verschafft hätte. Nichts,
 nichts ergaben diese Nachforschungen! Auch nicht der geringste
 Anhalt bot sich, wer die Inschrift auf der Karte des Indischen
 Ozeans hervorgerufen haben kann! Auch Blindley war aufs
@@ -705,7 +705,7 @@ Lebens froh werde!«
 Harst saß in einem Klubsessel mit übereinander geschlagenen
 Beinen und schaute unverwandt auf die große Karte.
 Ich lehnte hinter ihm an dem mit Papieren bedeckten Mitteltisch.
-Wolpoore saß links von uns aus einem Ledersofa,
+Wolpoore saß links von uns auf einem Ledersofa,
 <@pagebreak/>
 und der Polizeichef Chester Blindley stand am mittleren Fenster.
 
@@ -753,8 +753,8 @@ Harst, auch Ihrerseits noch nachprüfen könnten, ob —«
 »Danke, Blindley, danke! — Noch etwas. Wer ist denn
 vorgestern vormittag, bevor Wolpoore das Kontor betrat,
 hier in diesem Zimmer gewesen?«
-<@pagebreak/>
 
+<@pagebreak/>
 »Morgens um 8 Uhr die Frau, die die Kontorräume säubert.
 Dann Direktor Radley; ferner der Kontordiener, der
 Prokurist und der Detektiv Marbodly, der im Verwaltungsgebäude
@@ -785,7 +785,7 @@ Ozeans ist recht lehrreich.«
 
 Ich tat’s. Ich stand auch zum Schein eine Weile vor
 der Karte. Ich sah auch die drei handgroßen, gelblichen
-Flecke, die durch die Untersuchung des Chemiker hervorgerufen
+Flecke, die durch die Untersuchung des Chemikers hervorgerufen
 worden waren. Im übrigen sah ich — nichts, jedenfalls
 nichts, das irgendwie auffallend gewesen wäre.
 
@@ -803,8 +803,8 @@ etwas unsauber aufgeklebt war, so wichtig erschiene, geantwortet
 hatte: »Weil wir dem Kartenfabrikanten unrecht
 tun.« — Das war wieder einmal so ganz eine Antwort a la
 Harst, — mystisch — dunkel, und doch fraglos sehr bedeutungsvoll.
-<@pagebreak/>
 
+<@pagebreak/>
 »Mein lieber Alter. Du hast ja auch bemerkt,« sagte er
 nun leise, aber mit Nachdruck, »daß das Papier in breitem
 Strich gerade dort in Fältchen liegt, wo sich der Aufdruck
@@ -878,7 +878,7 @@ sie erst später ausführen. — So — das ist meine Meinung
 Wir sollten uns befreien! Dabei bleibe ich!«
 
 Ich ließ ein zweifelndes »Hm — hm!« hören. Inzwischen
-waren wir jedoch schon vor das Haus Nelson-Platz Nr 12 gelangt,
+waren wir jedoch schon vor das Haus Nelson-Platz Nr. 12 gelangt,
 und Harst schritt jetzt auf die Tür des Papiergeschäfts
 zu, trat ein und fragte das blonde, kräftige Mädchen hinter
 dem Ladentisch:
@@ -940,7 +940,7 @@ den Sie beargwöhnen?«
 
 Sie schluchzte auf, senkte den Kopf, flüsterte: »O mein
 Gott — all das ist ja so furchtbar! Aber — ich will Gewißheit
-haben! Nur Sie können sie mir geben. Master Harst. —
+haben! Nur Sie können sie mir geben, Master Harst. —
 Hören Sie denn. Ein Kollege Campells, der Detektiv Sheffring,
 der ebenfalls in Lord Wolpoores Diensten steht, lernte
 mich durch Campell kennen. Dieser war mir seiner Trunksucht
@@ -994,8 +994,8 @@ Zeitungen ist es eins von diesem Muster.«
 »Nein — nein! Ich will ihn auch nicht sehen, — nicht
 eher, als bis ich von seiner Schuldlosigkeit sichere Beweise
 habe.«
-<@pagebreak/>
 
+<@pagebreak/>
 »Wohnt Sheffring hier in Madras oder auf dem Schlosse
 des Lords?«
 
@@ -1073,7 +1073,7 @@ annehmen.
 »Sie sollen alles wissen — alles. Fragen Sie nur! — Ah, das
 Seidentuch möchten Sie sehen, mit dem Campell erdrosselt
 wurde? Ich lasse es sofort bringen. — Auch den Stock, mit
-dem die Schlinge Zugedreht worden war? Gut — auch den!«
+dem die Schlinge zugedreht worden war? Gut — auch den!«
 
 Er telephonierte sogleich nach der Kriminalabteilung hinüber.
 
@@ -1089,8 +1089,8 @@ die Campell aufgefunden haben.«
 
 »Was war Campell für ein Mensch, Master Tompsen?
 Er soll ein Trinker gewesen sein?«
-<@pagebreak/>
 
+<@pagebreak/>
 »Trinker?! Säufer war er! Aber einer von denen, die
 nie berauscht sind. Vor einem halben Jahr hatte er mal Delirium
 tremens. Er wurde damals auf der Straße nachts angetroffen,
@@ -1102,7 +1102,7 @@ Liebe zu einem hiesigen jungen Mädchen, die jetzt nichts mehr
 von ihm wissen will, ist er noch mehr aus dem seelischen Gleichgewicht
 geraten.«
 
-Ein Beamter brachte setzt das seidene Tuch und den Stock.
+Ein Beamter brachte jetzt das seidene Tuch und den Stock.
 
 Harst hielt sich mit der Besichtigung der beiden Gegenstände
 nicht lange auf. Er schaute mich vielsagend an, sog die
@@ -1126,7 +1126,7 @@ die Leute zu suchen, Master Harst,« meinte er zögernd. »Können
 Sie mir nicht einen Rat geben, wie —«
 
 Harst hatte ein Extrablatt des Madras Journal vom
-Tisch genommen und rief setzt etwas unhöflich mitten in den
+Tisch genommen und rief jetzt etwas unhöflich mitten in den
 Satz Tompsens hinein:
 
 »Ah — wenn’s das wäre — *das*!«
@@ -1140,12 +1140,12 @@ Nacht! Oder spätestens bis morgen mittag. Sie dürfte
 aber anders werden, als man nach dem bisherigen Tatsachenmaterial
 annehmen muß. Master Tompsen, ich bitte Sie nun
 <@pagebreak/>
-sofort den Polizeihund mit einem Beamte uns voraus nach
+sofort den Polizeihund mit einem Beamten uns voraus nach
 dem Gehölz vor der Stadt zu schicken. — Auf Wiedersehen.«
 
 Als wir nun im Geschwindschritt dem Westausgange
 der Stadt zustrebten, fragte ich Harst, welcher Art denn diese
-Entscheidung sein würde.«
+Entscheidung sein würde.
 
 Seine lebhaften Augen hingen mit besonderem Ausdruck
 auf meinem Gesicht.
@@ -1173,7 +1173,7 @@ das Seidentuch ist fraglos dasjenige, das Lydia Faringdall
 dem Detektiv Sheffring schenkte. Der Parfümgeruch beweist
 das zur Genüge. Wie sollten Thugs in Besitz dieses Tuches gelangt
 sein?! Nein — Thugs haben nichts mit dieser Sache
-zu schaffen. Ich nehme an, daß Campell als er aus der Wohnung
+zu schaffen. Ich nehme an, daß Campell, als er aus der Wohnung
 der Faringdalls davonstürmte, in Sheffrings Zimmer
 eingedrungen ist, das Tuch gestohlen und dann in momentaner
 Geistesverwirrung sich nach längerem Umherirren vor der
@@ -1182,7 +1182,7 @@ Faringdall und Sheffring dadurch zu treffen, daß er gerade
 dieses Tuch zum Selbstmord benutzte. Die beiden sollten eben
 Gewissensbisse empfinden, daß sie schuld an seinem Tode seien.
 Es ist dies eine Art Rache über den Tod hinaus, die man einem
-Manne mit so zerrüttetem Nervensystem sehr wohl Zutrauen
+Manne mit so zerrüttetem Nervensystem sehr wohl zutrauen
 kann. Wenn wir jetzt noch feststellen, daß Campell den
 <@pagebreak/>
 Stock, mit dem er sich erdrosselte, auf dem Wege von seiner
@@ -1229,8 +1229,8 @@ fragte er geradezu. »Sie brauchen nicht verlegen zu
 werden, Sheffring. Ich habe Miß Lydia versprochen, Sie von
 einem Verdacht zu reinigen, von dem Sie vielleicht noch nichts
 ahnen.«
-<@pagebreak/>
 
+<@pagebreak/>
 Sheffring schoß das Blut ins Gesicht. »Wie — sollte Lydia
 etwa argwöhnen, daß ich — Campell ermordet habe?«
 stieß er hervor. »Das wäre ja Wahnsinn, das —«
@@ -1279,8 +1279,8 @@ der kleinen Tempelruine hinausfuhren, wo unsere Koffer noch
 unberührt auf dem Schutthaufen standen. Zum Erstaunen des
 eingeborenen Chauffeurs traten wir dann wieder als tadellos
 angezogene Europäer ins Freie.
-<@pagebreak/>
 
+<@pagebreak/>
 Eine Stunde drauf stiegen wir im Hotel London am Hafen
 in Madras ab, nahmen ein gutes Diner ein und gingen
 kurz vor acht Uhr nach dem nahen Verwaltungsgebäude der
@@ -1320,8 +1320,8 @@ besonders alles weg, was auf den Selbstmord Bezug hatte.
 Später, als »das Rätsel des Indischen Ozeans« uns nochmals
 beschäftigte, wurde mir klar, wie überaus fein gerade bei diesem
 Problem die Geistesarbeit war, die Harst hier hatte.
-<@pagebreak/>
 
+<@pagebreak/>
 »Sie haben also keinerlei Grund, lieber Wolpoore, sich
 irgendwie noch zu beunruhigen. Ich bin überzeugt, es gibt
 keine Thugs mehr, die sich in Freiheit befinden und Ihnen

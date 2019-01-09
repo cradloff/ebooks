@@ -3,7 +3,7 @@
 <h1>Der Tempel der Khali.</h1>
 
 »Ich finde das Leben jetzt ziemlich öde,« meinte Harst
-und gähnte verstohlen hinter der vorgehaltenen Hand, »Vierzehn
+und gähnte verstohlen hinter der vorgehaltenen Hand. »Vierzehn
 Tage fast reisen wir nun schon wie jeder gewöhnliche
 Globetrotter. Ich fühle mich geradezu krank infolge dieser
 Untätigkeit. Und Dir, mein lieber Schraut, bekommt dieses
@@ -129,15 +129,15 @@ müssen Sie wohl Beweise dafür haben, daß von den Spitzbuben
 die Goldkrone nicht etwa eingeschmolzen worden ist. Dieses
 Einschmelzen liegt ja so nahe, da eine solche Rarität als
 ganzes in ursprünglicher Gestalt kaum zu veräußern ist.«
-<@pagebreak/>
 
+<@pagebreak/>
 Molgedey streckte Harst freudig erregt die Hand hin.
 
 »Verehrtester Herr Harst, ich bin überglücklich! Ich sehe
 mein Fall interessiert Sie bereits etwas. — Ja, es ist so: ich
 wollte versuchen, mich Ihres Beistandes zu versichern. Die
 Diebe haben mir nämlich die Krone zum — Rückkauf angeboten
-und zwar vor drei Wochen. Bis zum 30 sten dieses Monats
+und zwar vor drei Wochen. Bis zum 30sten dieses Monats
 soll ich mich entscheiden, ob ich die halbe Million Dollar
 opfern will. Die Krone ist also noch unversehrt. Sie haben
 ganz recht.«
@@ -179,8 +179,8 @@ erwachte aber plötzlich durch einen Schuß, fühlte gleichzeitig
 einen stechenden Schmerz an der Stirn, taumelte hoch und
 sah undeutlich vor dem Geldschrank, dessen Tür offenstand,
 zwei Leute, die miteinander rangen.«
-<@pagebreak/>
 
+<@pagebreak/>
 »Halt,« meinte Harst, indem er sich sichtlich gespannt vorbeugte.
 »Sie sagten die Leute rangen miteinander?«
 
@@ -192,7 +192,7 @@ packen — mit der Linken an der Schulter, konnte dann jedoch
 nichts mehr erkennen, da mir das aus der Wunde herausströmende
 Blut die Augen verklebte. Ich fühlte dann auch
 den Messerschnitt über die Finger hin, ließ los und rief um
-Hilfe. Ich hörte noch wie der Tresor Zugeschlagen wurde und
+Hilfe. Ich hörte noch wie der Tresor zugeschlagen wurde und
 verlor dann die Besinnung. — Nachher stellte die Polizei fest,
 daß aus dem Geldschrank die Krone verschwunden war, die in
 dem untersten, offenen Fache gelegen hatte und daß der Tresor
@@ -238,7 +238,7 @@ so ein kleines Erlebnis, aus dem ich nicht recht klug geworden
 bin. Aber — das ist ja Nebensache. — Ich kehrte in mein
 Zimmer zurück und legte mich schlafen. Die Flurtür hatte
 ich von innen verriegelt. Es muß also wohl jemand, während
-ich im Vorraum des Badezimmers war mit einem Nachschlüssel
+ich im Vorraum des Badezimmers war, mit einem Nachschlüssel
 die Flurtür geöffnet und den Brief gestohlen haben.
 Sind Sie nicht auch dieser Ansicht Herr Harst?«
 
@@ -273,8 +273,8 @@ lasse sich von seinen Dienern meist im Rollstuhl umherfahren.«
 »Das ist richtig, Herr Molgedey. Wir sind dem alten
 Herrn in den drei Tagen seit unserer Ankunft hier schon
 wiederholt begegnet,« meinte Harst gleichgültig.
-<@pagebreak/>
 
+<@pagebreak/>
 Wenigstens mögen die Sätze Molgedey gleichgültig geklungen
 haben. Mir, der ich jede Tonfärbung der Stimme
 Harsts so genau kenne, machte es stark den Eindruck, daß er
@@ -329,8 +329,8 @@ Als wir die Treppen hinanschritten, fragte ich leise,
 indem ich Harst dabei prüfend von der Seite anschaute:
 
 »Harald, weißt Du bereits, wer der Dieb ist?«
-<@pagebreak/>
 
+<@pagebreak/>
 Er wandte mir das Gesicht voll zu. Er sah merkwürdig
 ernst aus, als er nun erwiderte:
 
@@ -345,7 +345,7 @@ so durchsichtig daß —«
 wohl auch die New Yorker Detektive sie klargestellt!«
 
 »Nein, das konnten sie nicht, wenigstens nicht so bequem
-wie wir, mein Alter«
+wie wir, mein Alter.«
 
 Plötzlich fiel mir die verschleierte Dame mit dem »schlechten
 Gewissen« ein.
@@ -476,8 +476,8 @@ sich dann von Dardogne mit einem Händedruck. Daß der
 Oberst Kraft hatte, merkte ich jetzt, als er auch mir die Hand
 reichte und dabei meine Finger derart drückte, daß ich vor
 Schmerz zusammenzuckte.
-<@pagebreak/>
 
+<@pagebreak/>
 Wir gingen dann in das Bureau des Direktors hinab, wo
 Harst das Fremdenbuch durchsah und Warton noch allerlei
 fragte, was mit dem Diebstahl der 1800 Pfund zusammenhing.
@@ -523,8 +523,8 @@ gehört.
 »Ich war todmüde und schlief sofort ein,« erklärte Frau
 Molgedey, die für gut eine halbe Million Brillanten an sich
 trug.
-<@pagebreak/>
 
+<@pagebreak/>
 Jedenfalls verlief diese Unterredung, wie ich annahm,
 ganz ohne Ergebnis.
 
@@ -573,8 +573,8 @@ jetzt im Krankenhause und hat angegeben, daß die Wegelagerer
 fünf maskierte Eingeborene waren. Wir werden in
 der Abendausgabe über diesen frechen Ueberfall noch genauer
 berichten.
-<@pagebreak/>
 
+<@pagebreak/>
 Ich ließ das Blatt sinken und schaute Harst ganz entsetzt
 an, sagte kopfschüttelnd:
 
@@ -673,8 +673,8 @@ hellgelbes Fernglasfutteral gesprochen. Er hatte aber
 dazu erklärt: »Ein Zufall, mein Alter, — tatsächlich! Du
 bist hier — halb auf falscher Fährte, halb!« — Was dieses
 »halb« bedeutete, das wollte er mit erst später mitteilen.
-<@pagebreak/>
 
+<@pagebreak/>
 Kaum tauchten wir vor dem Kutab Minar auf, als sich
 auch schon drei, vier der gewerbsmäßigen eingeborenen Fremdenführer
 an uns herandrängten. Die Touristen aus Dehli
@@ -803,7 +803,7 @@ Der Führer verschwand jetzt hinter einem Vorhang von
 Schlingpflanzen, die den Zugang zu einem Gewirr riesiger
 Steinquadern — einem ehemaligen Tempelgebäude — verbargen.
 Wir warteten auf seine Rückkehr wohl fünf Minuten.
-während dieser Zeit fand Harst Gelegenheit, mir zuzuraunen:
+Während dieser Zeit fand Harst Gelegenheit, mir zuzuraunen:
 
 »Bleibe dicht hinter mir. Die Molgedeys müssen als letzte
 mit hinabsteigen. Sobald der braune Halunke uns den Geheimgang
@@ -812,7 +812,7 @@ gezeigt hat, packen wir zu.«
 Kein Wunder, daß ich nach diesen Worten in jene nervöse
 Erregung geriet, die nur schwer zu unterdrücken ist, wenn
 man weiß, daß sich etwas ereignen wird, aber weder mit den
-Einzelheiten dieses Ereignisse noch den Ursachen vertraut ist.
+Einzelheiten dieses Ereignisses noch den Ursachen vertraut ist.
 Ich zergrübelte mir den Kopf, was dies alles wohl zu bedeuten
 haben könnte. Zufällig traf mein Blick da Dasy Molgedey.
 <@pagebreak/>
@@ -853,7 +853,7 @@ Schacht frei, in dem eine sehr steile, gemauerte Treppe abwärts
 führte.
 
 Der Inder hielt eine dritte Fackel an seine bereits brennende,
-reichte sie Molgedey und sagte: »Bitte Sahib gehe Du
+reichte sie Molgedey und sagte: »Bitte, Sahib, gehe Du
 mit den Memsahibs nur voran.«
 
 Molgedey zögerte. Der gähnende Schacht, in dessen Tiefen
@@ -1003,7 +1003,7 @@ Es ist schwer, all die Pracht zu schildern, die das Licht unserer
 Taschenlampen uns enthüllte. Der Tempel war genau
 quadratisch. In der Mitte erhob sich die Marmorpyramide
 mit ihren je dreißig Stufen an jeder Seite. An der Nordwand
-stand ein mit schwerem golddurchwirkten Stoffen behängter
+stand ein mit schweren, golddurchwirkten Stoffen behängter
 Altar, auf dem ebenfalls ein Götzenbild in sitzender
 Stellung thronte. Dieser Götze war jedoch in prachtvolle Gewänder
 gehüllt, hatte die Arme im Schoße ruhen und das
@@ -1062,8 +1062,8 @@ Tonfall ihrer Stimme, in der doch trotz aller Ruhe ein unsäglicher
 Haß und ein nie zu stillender Rachedurst mitzitterten,
 — all das wirkte mehr auf meine Nerven als die grausigste
 Szene.
-<@pagebreak/>
 
+<@pagebreak/>
 Harst trat jetzt vor und setzte sich neben Maria Bellingson
 auf den Rand des Altars.
 
@@ -1158,8 +1158,8 @@ Aus dem Dunkel heraus antwortete eine Männerstimme.
 Wir führten die seltsame Frau dann zwischen uns nach
 dem Altar zurück und warteten gespannt, was nun geschehen
 würde.
-<@pagebreak/>
 
+<@pagebreak/>
 Die Situation erschien mir für uns recht bedrohlich.
 Aber — ich irrte mich. Sehr bald tauchten Wolpoore und
 Blindley durch die Geheimtür auf, eilten auf uns zu und hätten
@@ -1186,7 +1186,7 @@ unser aller Erstaunen sagte:
 Danken Sie mir nicht, Wolpoore! Meinen Sie denn,
 ein so gefährliches Weib wie die Bellingson hätte sich auf diesen
 gegenseitigen Vertrag eingelassen, wenn sie eben nicht genau
-wüßte daß sie sehr bald sich an Schraut und mir völlig
+wüßte, daß sie sehr bald sich an Schraut und mir völlig
 gefahrlos rächen und Sie und Blindley wieder in ihre Gewalt
 bekommen kann?! Oh — da kennen Sie sie schlecht!
 Sie betonte ja auch so drohend: »Ich bin eine ehrliche, wenn
@@ -1210,7 +1210,7 @@ abends sich vielleicht ernsthaftere Dinge ereignen,« meinte er.
 Wir gruppierten uns in Molgedeys Zimmer um den
 Tisch. Harst begann dann sofort ohne lange Einleitung:
 
-Fräulein Dasy, wäre es nicht richtiger, wenn Sie jetzt
+»Fräulein Dasy, wäre es nicht richtiger, wenn Sie jetzt
 Ihren Eltern endlich so viel Vertrauen schenkten und ihnen
 sagten, daß Sie heimlich mit einem armen, braven Manne
 verlobt sind! Es ist der Privatsekretär des hier gleichfalls
@@ -1242,7 +1242,7 @@ arm, aber —«
 steht’s denn nun mit der Krone, Herr Harst?«
 
 »Die dürfte Herr Smith in Verwahrung haben. — Der
-Zusammenhang muß mach den Tatsachen, die ich kenne, folgender
+Zusammenhang muß nach den Tatsachen, die ich kenne, folgender
 sein. Ihre Tochter und Smith liebten sich. Er ist
 arm. Da wollte Fräulein Dasy ihm auf etwas abenteuerliche
 Weise zu Geld verhelfen, indem sie Ihnen die Inka-Krone
@@ -1334,7 +1334,7 @@ sitzend. Er hatte bereits den Mitteltisch des Salons decken
 lassen. Auf einem Seitentischchen standen Weinflaschen in
 Kübeln und Zigarren.
 
-Mir nahmen sehr bald an der kleinen Tafel Platz. Einer
+Wir nahmen sehr bald an der kleinen Tafel Platz. Einer
 der indischen Diener Dardognes trug das Vorgericht auf,
 eine Fischpastete. Der Oberst füllte die Gläser mit einem
 scharf duftenden Wein, der oben an der Grenze Nepals wuchs.
@@ -1402,8 +1402,8 @@ ich sehr bald, daß ein Weib hier den Oberst Dardogne spielte.
 Dann fand ich in der Dehli-Post den Artikel über das Attentat
 angeblicher Straßenräuber auf Wolpoore. Nun brauchte
 ich nicht lange zu überlegen, wer dieses Weib sein könnte;
-nun durchschaute ich auch den Diebstahl der 1800 Pfund der
-nur — ein Köder für mich war — Sie selbst Mistreß Bellingson
+nun durchschaute ich auch den Diebstahl der 1800 Pfund, der
+nur — ein Köder für mich war! — Sie selbst Mistreß Bellingson
 waren die Verschleierte, die Molgedey in der Tür dieses
 Zimmers bemerkte! Sie waren es, die den angeblichen
 Fremdenführer nach dem Kutab Minar beorderten. Jetzt
