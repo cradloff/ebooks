@@ -4,7 +4,7 @@
 
 <h3>Eine Kampfansage.</h3>
 
-Lehmgelb und träge umgurgelten die Wasser dies Menam-Flusses
+Lehmgelb und träge umgurgelten die Wasser des Menam-Flusses
 die Bordwände des schwimmenden Fremdenheims
 der Madame Sarah Pordepierre, bei der Harst und ich
 in Bangkok, der Hauptstadt des Königreichs Siam, Wohnung
@@ -34,7 +34,7 @@ gewöhnlichen Tische an der Backbordreling. Harst war nach
 den Ereignissen des Vormittags still und insichgekehrt. Ich
 hatte mehrmals versucht, ein Gespräch anzuknüpfen, mußte
 aber bald einsehen, daß Harald wohl trüben Betrachtungen
-über unser verspätete Eingreifen bei dem gegen den goldenen
+über unser verspätetes Eingreifen bei dem gegen den goldenen
 Turm des P’hrabat-Klosters geplanten Anschlag nachhing
 und störte ihn daher nicht weiter.
 
@@ -173,7 +173,7 @@ Onkel Trimal, Charles und ich jetzt auf einer malaiischen
 Prau im Golf von Siam in voller Sicherheit schwimmen.
 Ich verfüge hier über Hilfskräfte von denen auch Charles
 nichts ahnt, der stets nur mein blindes Werkzeug war —
-— stets! Denn dieser Streich gegen das P’hrabat-Kloster ist
+stets! Denn dieser Streich gegen das P’hrabat-Kloster ist
 nur einer von vielen — vielen tadellos gelungenen! Schonung
 haben Sie von mir nicht zu erwarten. Immerhin würde
 ich bereit sein, Sie und Ihren Freund unbehelligt zu lassen,
@@ -559,6 +559,7 @@ findet. — Höre nun, was der Rekorder vom
 2\. Januar schreibt. Ich lasse aber alles Unwichtige weg.
 
 <@pagebreak/>
+
 > »— diese plötzlich sich häufenden Ueberfälle auf Touristen
 lassen die Vermutung zu, daß man es hier mit einer
 gut organisierten Bande zu tun hat. Stets werden die
@@ -759,7 +760,7 @@ er und deutete auf den offenen Koffer. »Chinesen fallen hier
 nicht weiter auf. Von der Sorte gibt’s hier ja übergenug.«
 
 Wir hatten Uebung im Verkleiden und zehn Minuten
-drauf waren wir zwei schmierige armselige Kulis in Leinenkitteln
+drauf waren wir zwei schmierige, armselige Kulis in Leinenkitteln
 und Bastschuhen. — Harst löschte nun die Lampe aus,
 öffnete leise die Tür und huschte auf Deck, kam sehr bald
 zurück und meldete, daß alles sicher sei. Wir krochen dann
@@ -915,7 +916,7 @@ Die erste Warnung, kein Zweifel!
 Der Umschlag war nicht verschlossen. Ich zog den Briefbogen
 heraus. — Da stand:
 
-> Harald Harsts
+> Harald Harst!
 
 > Ihre Antwort auf meinen Vorschlag genügt. Gut —
 es sei! Also Kampf zwischen uns! Der unterliegende Teil
@@ -1142,7 +1143,7 @@ wo sie ihren Schlupfwinkel haben!«
 »Ich weiß das alles,« nickte Harst. »Im Rekorder vom
 März vorigen Jahres war schon gesagt, daß die Polizei eine
 fieberhafte Tätigkeit entwickelt hat, daß aber seltsamerweise
-jeder Versuch, den Leuten aus die Spur zu kommen, mißlungen
+jeder Versuch, den Leuten auf die Spur zu kommen, mißlungen
 ist. — Ich kann Sie nun heute trösten, Master Walker. Ich
 — werde Ihnen die Menam-Brüder in die Hände spielen.«
 
@@ -1175,7 +1176,7 @@ hatte, er würde darüber nachher noch genauer sprechen.
 <h3>Wer bleibt Sieger?</h3>
 
 Es war halb zwölf, als wir wieder an Bord unseres
-schwimmende Fremdenheims angelangt waren.
+schwimmenden Fremdenheims angelangt waren.
 
 »Wir wollen uns jetzt auf das Kommende etwas vorbereiten,«
 meinte Harald. »Ich werde mir in den Aermelaufschlag
@@ -1240,7 +1241,7 @@ er die Tür wieder zu, sagte, ohne sich umzudrehen:
 Ich fuhr herum. Mit dem Rücken gegen die andere
 Tür gelehnt, die Hand mit dem Revolver halb erhoben, stand
 <@pagebreak/>
-da in tadellosen hellgrauen Sportkostüm, den Strohhut auf
+da in tadellosem hellgrauen Sportkostüm, den Strohhut auf
 dem vollen, rotblonden Haar, Eugenie Malcapier.
 
 Sie lächelte ironisch.
@@ -1436,9 +1437,9 @@ Und Du wirst geantwortet haben:
 daß ich Euch zeichnen wollte. Nun — ist sie geflüchtet, und
 Ihr werdet allein für alles büßen.«
 
-Kong-Penj legte dann ein restlose Geständnis ab. Die
+Kong-Penj legte dann ein restloses Geständnis ab. Die
 Menam-Brüder waren sechs Staatsdetektive gewesen — jedenfalls
-eine Verbrecherbande von einer, Art wie sie nicht
+eine Verbrecherbande von einer Art, wie sie nicht
 häufig sein dürfte! — Kong-Penj hatte auch die Brillenschlangen
 in das Haus der Frau Stanton gebracht, ebenso
 dann bei uns das Gitter durchschmolzen. Weinend

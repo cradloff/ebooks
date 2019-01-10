@@ -156,7 +156,7 @@ Harst, der weltberühmte Liebhaberdetektiv, sondern nur Dein
 Sekretär und Freund. — Vielleicht teilst Du mir das geistig
 Verarbeitete mit?«
 
-»Denke auch gar leicht daran! — Tu mir aber den einzigen
+»Denke auch gar nicht daran! — Tu mir aber den einzigen
 Gefallen und beachte die Rotblonde nicht weiter. Sonst
 verdirbst Du mir alles. Ich will unbedingt herausbekommen,
 weshalb sie vorhin —« Er schwieg plötzlich und rief dann
@@ -407,7 +407,7 @@ um.
 »In Bangkok in einem Papiergeschäft gegenüber der
 Pagode Wat Tscheng. Nicht wahr, es ist ein sehr gutes Löschblatt?«
 
-»Vorzüglich ist’s. Offenbar einheimisches Fabrikant.«
+»Vorzüglich ist’s. Offenbar einheimisches Fabrikat.«
 
 »Wahrscheinlich.«
 
@@ -601,7 +601,7 @@ halb auf einen menschlichen Körper — auf Harst, der
 sich sofort mit den Worten meldete:
 
 »Falls Du es bist, mein Alter, dann entferne Dich von
-meinem Brustkasten. Du wiegt denn doch zu viel, um als
+meinem Brustkasten. Du wiegst denn doch zu viel, um als
 angenehme Last gelten zu können.«
 
 Ich rollte mich zur Seite, setzte mich aufrecht, stieß mit
@@ -1045,7 +1045,7 @@ Ich schwieg zunächst, dachte nach und erklärte dann:
 »Houster steht wahrscheinlich mit der Rotblonden im
 Bunde. Er wird derselbe Mann sein, der den Baldachin im
 goldenen Turme reparierte. Mir fiel auf, daß die Mönche
-und Priester ihm kaum beobachteten. Mithin vertrauen sie
+und Priester ihn kaum beobachteten. Mithin vertrauen sie
 ihm. Vielleicht arbeitet er des öfteren für das P’hrabat-Kloster
 und hat sich jetzt zur Teilnahme an dem Verbrechen
 verleiten lassen.«
@@ -1053,7 +1053,7 @@ verleiten lassen.«
 Harst schüttelte den Kopf.
 
 »Ich habe selten eine solche Vermengung von Richtigem
-und Falschem mitangehört, sagte er nachsichtig. »Dieser
+und Falschem mitangehört,« sagte er nachsichtig. »Dieser
 Fall mag ja tatsächlich schwer zu überschauen sein, obwohl
 Dich doch schon die Kolik der Pferde Trimals hätte stutzig
 machen müssen.«
@@ -1066,7 +1066,7 @@ ist ebenfalls an der Sache beteiligt.«
 mit dem lila Fleck kaum gesehen hatte. Wenn ich
 verlangte, Du solltest bei Trimal Dich zu mir setzen, so geschah
 es nur, weil ich Deine Ausbildung zum Detektiv fördern
-wollte. Diese Tintenfleck ist nämlich ungeheuer lehrreich.
+wollte. Dieser Tintenfleck ist nämlich ungeheuer lehrreich.
 Meine Behauptung, ein Füllfederhalter habe den Klecks erzeugt,
 war Unsinn, aber ein Unsinn, der Trimal einleuchtete.
 Der Major hat den Tintenklecks höchst eigenhändig hervorgerufen.
@@ -1079,7 +1079,7 @@ müssen. Es war aber völlig sauber. Der Fleck auf der
 Marke zieht sich bis zu den Zähnen des Randes hin. Also
 hätte das Löschblatt mitbeschmutzt werden müssen.«
 
-»Hm — über eine Flamme getrocknet?! — Welche Unvorsichtigkeit!«
+»Hm — über einer Flamme getrocknet?! — Welche Unvorsichtigkeit!«
 warf ich ein.
 
 »Du zweifelst, daß ich hierin recht habe, mein Alter? Ich
@@ -1240,7 +1240,7 @@ sein, vermute ich. Heute wird er vielleicht wieder eine andere
 Maske tragen.«
 
 Meine Neugier, nun endlich den Zusammenhang all dieser
-Begebnisse voll zu überschauen steigerte sich noch.
+Begebnisse voll zu überschauen, steigerte sich noch.
 
 »Ich bitte Dich,« sagte ich eindringlich, »teile mir nun
 endlich mit, was —«
