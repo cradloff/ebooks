@@ -1,4 +1,5 @@
 aalglatten
+zugeschlagen
 Aasgeier
 ab
 abblenden
@@ -217,7 +218,6 @@ abräumen
 abrechnen
 Abrechnungen
 abreiben
-Abreise
 abreisen
 abreiste
 abrollenden
@@ -19611,7 +19611,6 @@ Verdacht
 Verdachterregende
 Verdachtes
 verdächtig
-verdächtigen
 verdächtigt
 Verdachts
 Verdachtsgründe
@@ -19925,6 +19924,10 @@ verlaufend
 verlaufenden
 verläuft
 verleben
+verlebt
+verlebte
+versieht
+zugedreht
 verlebten
 verlege
 verlegen
@@ -21316,9 +21319,6 @@ Werkzeug
 Werkzeuge
 Wertangabe
 Wertbriefe
-Werte
-werten
-Wertes
 Wertgegenstand
 wertlos
 Wertpapieren

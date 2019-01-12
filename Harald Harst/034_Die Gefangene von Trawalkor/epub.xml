@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">839f44a8-16b7-11e9-833c-73cc6b793ad8</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Gefangene von Trawalkor</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">34</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Gefangene von Trawalkor.
+
+Frau Helene Tschong, die Gattin des reichsten Diamantenhändlers Kalkuttas, hatte es sich nicht nehmen lassen, uns sofort in ihrer Villa vier Zimmer herrichten zu lassen. Wir konnten diese Einladung nicht gut ablehnen, zumal ja Frau Tschong eine Landsmännin von uns war und wir mit ihrem Manne bereits in Rangun auf etwas seltsame Weise bekannt geworden waren.
+
+Da wir beide nach den Aufregungen der letzten Tage, wo wir ununterbrochen gegen allerlei Hinterlist hatten ankämpfen müssen, vollständig erschöpft waren, zogen wir uns sofort in unsere nebeneinander liegenden Schlafzimmer zurück. Harst hatte lachend erklärt: »Unter acht Stunden mache ich’s diesmal nicht!« — Dann hatte er die Verbindungstür unserer Zimmer zugedrückt.
+
+Ich begann mich zu entkleiden. Zuweilen warf ich einen Blick in den prachtvollen Park hinab, der die Villa des Edelsteinhändlers umgab.
+
+Da mir war’s als hätte nebenan in Harsts Zimmer eine Tür geklappt. Ich wußte: aus seinem Schlafgemach ging noch eine zweite Tür auf den Flur hinaus.
+
+Ich lauschte. — War er etwa nochmals hinab ins Erdgeschoß gegangen? Hatte er noch etwas mit Frau Helene Tschong zu besprechen?
+
+Alles blieb still. Ich drückte sacht auf die Klinke. Die Verbindungstür war verriegelt. —
+
+Was bedeutete das?! Harst schloß sich nie ein, wenn wir nebeneinander wohnten! Nie!
+
+Nur ein Stückchen Eis.
+
+Es war am Abend nach der Hochzeitsfeier der Schwester der Frau Helene Tschong mit Gaston Vinzelle. Wir hatten gegen zehn unseren Pavillon in der Maske zweier vollbärtiger, älterer Matrosen verlassen und saßen um halb elf an einem Tische im Zuschauerraum des chinesischen Theaters. Die Vorstellung hatte um 9 Uhr bereits begonnen. Wir kamen gerade zum 4. Akt des Schaustückes zurecht.
+
+An unserem Tische saßen noch zwei Leute, ein Inder mit prachtvollem, langem Bart und ein Europäer mit einer für Indien geradezu krankhaft bleichen Gesichtsfarbe.
+
+Harst hatte mit dem Europäer sehr bald ein Gespräch angeknüpft. Ich achtete nicht weiter darauf. Ich hörte nur, daß der gutgekleidete, blasse Herr das Englische mit jenem Akzent sprach, wie es die Amerikaner tun.
+
+Plötzlich stieß Harst mich mit dem Fuße an, flüsterte gleichzeitig: »Achtung!«
+
+Das genügte für mich. Ich mußte also notgedrungen die Vorgänge auf der Bühne nur noch mit halbem Auge und Ohr genießen und mich mehr um das bekümmern, was in unserer Nähe geschah. Fraglos war letzteres ja auch recht bedeutungsvoll und anregend, denn ohne Grund hätte Harald ja meine Aufmerksamkeit kaum auf andere Dinge gelenkt.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (034) Die Gefangene von Trawalkor.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
