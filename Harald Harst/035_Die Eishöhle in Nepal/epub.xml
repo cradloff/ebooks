@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">0b033dba-176b-11e9-a647-d737380b6f48</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Eishöhle in Nepal</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">35</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Eishöhle in Nepal.
+
+»Ich habe mir die Sache anders überlegt Mr. Doorball,« sagte Harald Harst am Abend eines wundervoll klaren und für indische Verhältnisse recht kühlen Tages zu dem dicken Polizeichef des Städtchens Betija. »Den entflohenen Ingenieur Robin Parmang zu verfolgen, liegt für mich keine Veranlassung vor. Der Mann hat sich ja strafrechtlich nichts zu Schulden kommen lassen. Daß er jenseits der Grenze auf nepalesischem Gebiet eine Diamantenfundstelle entdeckt, diese zum Teil auch schon ausgebeutet hat und der Edelsteine wegen von den beiden Artisten Mautley und Bickpool, die jetzt hier in Betija im Gefängnis als Untersuchungsgefangene sitzen, dauernd mit dem Tode bedroht wurde, geht mich nur insofern etwas an, als ich Zeuge war, wie die beiden Verbrecher den Ingenieur vergiften wollten. Daß diese geriebenen Schurken auch mir und meinem Freunde Schraut eine Dosis Blausäure zugedacht hatten, davon mache ich weiter kein Aufhebens. Wer Liebhaberdetektiv ist, trägt seine Haut eben freiwillig und unentgeltlich zu Markte — Da Sie, lieber Doorball unsere Aussagen bereits zu Protokoll genommen haben, steht also meiner Abreise nach Katmandu, der Hauptstadt Nepals, nichts im Wege.  Kurz, ich verzichte darauf, mich weiter mit Parmang zu beschäftigen. Morgen früh 6 Uhr wird ein Mietauto Schraut und mich auf dem kürzesten Wege nach Katmandu führen.«
+
+Des dicken Doorballs Gesicht war immer länger geworden.
+
+Fünf Stecknadeln.
+
+Wir wohnten als Gäste bei dem dicken Polizeichef des indischen Städtchens Betija. Mr. Doorball tat alles, es uns recht behaglich zu machen. Wir hatten ja auch sehr anstrengende und aufregende Tage hinter uns. Der Leser wird sich besinnen daß wir von den beiden Gaunern Mautley und Bickpool überlistet worden waren. Sie hatten sich mit den aus der Eishöhle in Nepal herausgeholten Diamanten im Werte von etwa 50 Millionen aus dem Staube gemacht und uns mit bekannter Frechheit im Wohnzimmer bei Doorball einen Zettel und 20 der ungeschliffenen Edelsteine zurückgelassen. Der Zettel enthielt den ironischen Abschiedsgruß »Auf Nimmerwiedersehen«.
+
+Unser Freund Doorball war über diese Unverschämtheit der beiden Hochstapler so empört, daß er zunächst kein Wort hervorbringen konnte.
+
+Harst hatte mit mir diese neue Wendung der Dinge bereits durchgesprochen, klopfte Doorball nun beruhigend auf die Schulter und meinte: »Sie geht die Sache ja schließlich gar nichts an, Verehrtester. Die Diamanten sind ein Vermächtnis, als dessen Verwalter ich mich betrachte. Mir liegt es ob, sie den Gaunern wieder abzujagen und den letzten Willen des Mannes zu verwirklichen, der sich als Eigentümer der Edelsteine ansehen durfte. Ich werde bei dieser Jagd auf die 50 Millionen jedoch ohne die Hilfe der Polizei nicht auskommen.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (035) Die Eishöhle in Nepal.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
