@@ -306,7 +306,7 @@ Das erfordert schon der riesige Hafenbetrieb.«
 Die beiden Detektive verließen uns.
 
 Harst hatte sie bis in den Hotelflur begleitet, kam nun
-auf den Balken zurück, setzte sich und sagte:
+auf den Balkon zurück, setzte sich und sagte:
 
 »Ich beneide Jobster um seine Hoffnungsfreudigkeit.
 Was er sich wohl so von der Malcapier und deren Verbündeten
@@ -347,7 +347,7 @@ das Auto zieren.«
 
 Ich verstand sofort.
 
-»Du meinst also saß der Kraftwagen nur gelb angestrichen
+»Du meinst also, daß der Kraftwagen nur gelb angestrichen
 wurde, damit er —«
 
 <@pagebreak/>
@@ -1123,7 +1123,7 @@ Marsch dauerte mindestens eine halbe Stunde. Dann nahm
 man uns die Decken ab. Wir standen in einem buschreichen
 Tale; vor uns der Chinese und das rotblonde Weib.
 
-»Auf Wiedersehen Herr Harst!« sagte die Malcapier. —
+»Auf Wiedersehen, Herr Harst!« sagte die Malcapier. —
 Ueberlegenes Sicherheitsgefühl verrieten diese Worte, gleichzeitig
 auch eine versteckte Drohung.
 
@@ -1252,7 +1252,7 @@ Jobster war sofort einverstanden, schrieb einen Zettel
 aus und besorgte nachher auch für Harst ein sehr echt aussehendes
 Kostüm.
 
-Mittags um 1/2 12 betrat dann ein bärtiger, schmieriger
+Mittags um ½ 12 betrat dann ein bärtiger, schmieriger
 Hindu mit Zottelbart und schmutzigen Turban das Polizeigebäude.
 Der Pförtner und die Aufseher waren bereits von
 Jobster eingeweiht worden. Der Inder wurde zu Malcapier
@@ -1265,7 +1265,7 @@ Harst, der einem Verbrecher zur Flucht verhalf! Das
 war neu, das war unerhört! Und wie würde all das wohl
 enden?!
 
-Ich befand mach in größter Unruhe. Ja, wenn Harald
+Ich befand mich in größter Unruhe. Ja, wenn Harald
 mir wenigstens erklärt hätte, wie er sich alles Weitere dachte!
 Aber — kein Wort hatte er darüber geäußert, nur mit einem
 Siegerlächeln gemeint: »Warte ab — es wird alles

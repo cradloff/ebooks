@@ -431,7 +431,7 @@ und eine Schraube!«
 
 »Die Pest!« fluchte Tompson. »Weshalb gibt der Pirat
 Fersengeld?! Wir hätten doch so gern zwischen die Halunken
-gepfeffert!«’
+gepfeffert!«
 
 »Weshalb? — Nun, sehr einfach: die Leute der Prau hatten
 mit den Kulis hier fraglos ein Signal vereinbart, das
@@ -576,7 +576,7 @@ dieser Ergänzung meiner Schlüsse, die ich vorhin Tompson
 entwickelte befriedigt?«
 
 <@pagebreak/>
-»Ja — bis aus einen Punkt: die Malcapier muß an
+»Ja — bis auf einen Punkt: die Malcapier muß an
 Bord des Raddampfers doch mindestens einen Vertrauten
 haben, der ihr, wenn nötig, den Verschluß des großen Deckels
 öffnet.«
@@ -616,7 +616,7 @@ gebrannt. Wir befanden uns im Dunkeln. Nach einer Viertelstunde
 etwa hörten wir Tompson eintreten, dann seine
 Stimme:
 
-»Verdammt, soll ich die gelbe Band denn bis Singapore
+»Verdammt, soll ich die gelbe Bande denn bis Singapore
 verpflegen!« Er brüllte dies offenbar in heller Wut.
 
 »Die Unkosten werden Ihnen ja ersetzt werden,« erwiderte
@@ -794,7 +794,7 @@ Schüsse —!«
 
 »Bitte — der Kesselreisende oder besser: die Kesselreisende!«
 
-Ich begriff alles, nickte, »Ja — es sind ja die Verbündeten
+Ich begriff alles, nickte. »Ja — es sind ja die Verbündeten
 der Malcapier! Sie wird die gelbe Bande —«
 
 Abermals draußen jetzt ein wahnwitziges Geheul und
@@ -886,7 +886,7 @@ etwas zuflüstern konnten.
 »So — offen!« meinte Harald. Er hob den schweren,
 ovalen Eisendeckel hoch, schlug ihn zurück.
 
-»Zuerst Du!« rannte er mir jetzt aufatmend zu. »Wir
+»Zuerst Du!« raunte er mir jetzt aufatmend zu. »Wir
 haben’s geschafft! Wir sind in Sicherheit!«
 
 Ich ließ die Beine in das Loch gleiten, rutschte tiefer und
@@ -938,7 +938,7 @@ murmelte:
 
 »Teufel — ob’s wirklich oder deutsche Detektiv ist?!
 Na — dann hätte ich ja einem Kollegen übel mitgespielt!
-Wer konnte aber auch denken daß gerade —«
+Wer konnte aber auch denken, daß gerade —«
 
 Das weitere konnte ich nicht mehr verstehen. Der Mann
 hatte sich der englischen Sprache bedient.
@@ -947,7 +947,7 @@ Und — Kollege hatte er gesagt!
 
 Da — jetzt wandte er den Kopf nach links; jetzt sah ich
 ein scharfgeschnittenes Profil, ein bartloses, hageres Gesicht
-mit kühner, leicht gebogener Nase und breiter, mager
+mit kühner, leicht gebogener Nase und breiter, massiger
 Kinnpartie.
 
 Das — war niemals etwa die verkleidete Eugenie Malcapier,
@@ -978,7 +978,7 @@ es zweckmäßig sein, daß wir die Sachlage schnell klären.«
 
 Er setzte sich völlig aufrecht.
 
-»Der Fremde stellte erst die Laterne weg, faßte dann
+Der Fremde stellte erst die Laterne weg, faßte dann
 leicht an die Mütze sagte:
 
 <@pagebreak/>
@@ -1131,9 +1131,9 @@ Ueberfall auf unseren Dampfer im Menam-Delta mißglückt
 war, hat dieses Weib es jetzt verstanden, mit Hilfe der Kulis
 sich zur Herrin dieses Schiffes zu machen und hat vorher natürlich
 dem Tschi Makra genaue Verhaltungsmaßregeln gegeben.
-Ich wette daß schon in der. —
+Ich wette, daß schon in der —«
 
-Ich konnte nicht anders ich unterbrach Harst.
+Ich konnte nicht anders, ich unterbrach Harst.
 
 »Verzeih’ — eine Frage: die Malcapier ist also doch hier
 an Bord?«
@@ -1142,20 +1142,20 @@ an Bord?«
 Wachen überwältigte, als der Brand der Baumwollballen die
 Besatzung in Atem hielt! Sie wird diesen Brand angelegt
 haben, damit sich ihr Gelegenheit bot, die Chinesen zu befreien.
-— Doch weiter, — zurück zu meinen Ausführungen
-ich wette, daß schon in der kommenden Nacht — denn am
+— Doch weiter, — zurück zu meinen Ausführungen.
+Ich wette, daß schon in der kommenden Nacht — denn am
 Tage wird die Piratenprau sich aus Angst, von einem anderen
 Schiffe beobachtet zu werden, nicht an den Stern von
 Siam herantrauen! — der Tschi Makra neben dem Dampfer
 erscheint, dessen Ladung übernimmt und ihn dann samt den
-noch daraus befindlichen Passagieren und Schiffsmannschaften
+noch darauf befindlichen Passagieren und Schiffsmannschaften
 — versenkt.«
 
 Jobster nickte. »Ganz meine Meinung, Master Harst.
 Diese Schufte von Piraten tun ganze Arbeit, lassen keinen einzigen
 Zeugen am Leben.«
 
-Nun — diesmal werden sie sich verrechnet haben!«
+»Nun — diesmal werden sie sich verrechnet haben!«
 stieß Harst drohend hervor. »Sehr verrechnet! Wir drei genügen,
 es mit diesem gelben Gesindel aufzunehmen. Uebrigens:
 ob nicht dieser Steward Pegrier vielleicht mit den Chinesen
@@ -1177,7 +1177,7 @@ mehr antraf.«
 nachdenklich. »Keine Verkleidung?! Dann müßte das
 Weib ja —«
 
-Oh — lassen wir das jetzt!« winkte Harst ab. »Sie
+»Oh — lassen wir das jetzt!« winkte Harst ab. »Sie
 müssen sich schon an meine Eigentümlichkeiten gewöhnen. Ich
 verspare mir mindestens eine Ueberraschung stets bis zur
 Katastrophe auf! Jedenfalls: die Malcapier ist an Bord! Und
@@ -1312,7 +1312,7 @@ weilten. »Die Malcapier ist jedenfalls völlig unsichtbar.
 Aber —« eine kurze Pause — »an Bord befindet sie sich bestimmt.
 Sie hält sich nur zurück —«
 
-»Was heißt das?« fragte ich achselzuckend. Wenn sie hier
+»Was heißt das?« fragte ich achselzuckend. »Wenn sie hier
 sozusagen die Oberleitung hat, denn —«
 
 »Oh — ihr Spiel ist vielleicht sehr — sehr fein!« fiel mir
@@ -1358,7 +1358,7 @@ Die Leute waren ungeheuer erbittert. Harst konnte sie
 nur mit Mühe von Unüberlegtheiten zurückhalten.
 
 Ich will die nächsten Ereignisse hier nur kurz streifen.
-Es kommt mir nicht daran an, abenteuerliche Szenen zu
+Es kommt mir nicht darauf an, abenteuerliche Szenen zu
 schildern, sondern mehr die feine geistige Arbeit Harald Harsts
 zu beleuchten.
 
@@ -1425,7 +1425,7 @@ Ein wildes Gebrüll scholl von dort her, wo jetzt die Prau
 mit einem Riesenleck schnell voll Wasser lief. In drei Minuten
 sackte sie weg. Tompson ließ jetzt mit dem Scheinwerfer
 die See ableuchten. Fünfzehn Mann fischten wir noch heraus.
-Ling—Tuan war nicht dabei; er war mit dem Tschi-Makra
+Ling-Tuan war nicht dabei; er war mit dem Tschi-Makra
 in die Tiefe gegangen. —
 
 Und nun endlich bewies Harst, daß Eugenie Malcapier
@@ -1468,7 +1468,7 @@ werden, sich dann erst Ihren Genossen als Eugenie Malcapier
 zeigen, wenn dieser Anschlag gegen den Stern von
 Siam vollständig geglückt sein würde; Sie fürchteten Zwischenfälle,
 vielleicht — fürchteten Sie mich, den Sie doch in Lakon
-hatten von Bord gehen sehen! — As ich Sie hier nicht als
+hatten von Bord gehen sehen! — Als ich Sie hier nicht als
 Herrin des Schiffes fand, wie ich angenommen hatte, als ich
 Pegrier als den Führer der Piraten hier feststellte und Sie
 unsichtbar waren, da ging ich in Gedanken die Ereignisse bei
