@@ -44,7 +44,7 @@ Ich las:
 
 > Auch das Gefängnis in Singapore ist für mich nicht
 fest genug. Ich bin frei, und ich werde diese Freiheit dazu
-benutzen, zunächst meine Kasse etwas auszufüllen, dann aber
+benutzen, zunächst meine Kasse etwas aufzufüllen, dann aber
 Sie zu bestrafen! Sie haben mir nicht nur den Bruder, sondern
 auch den Geliebten getötet. Sie sollen es büßen. In
 acht Tagen habe ich die jetzige »Sache« erledigt, und es beginnt
@@ -58,11 +58,11 @@ der Kampf gegen Sie! Hüten Sie sich!
 »Weil sie Dir offen mit Rache droht?«
 
 »Nein. Aus einem anderen Grunde. — Ich rate Dir
-übrigens, auf diese Hälmchen zu verzichten. In dem meinen
+übrigens, auf diese Hühnchen zu verzichten. In dem meinen
 befand sich das Glasröhrchen, und — das Deine kann auch
 vergiftet sein. Wer Gelegenheit hat, mir auf diese Weise
 erneut den Krieg zu erklären, der hat auch ebenso leicht Gift in
-diese Brathühnchen tun können — Sieh da, Jobster kommt auf
+diese Brathühnchen tun können. — Sieh da, Jobster kommt auf
 uns zu. Er sieht total verstört aus. Die Flucht der schönen
 Eugenie muß ihm ja auch sehr unangenehm sein. Nun soll er
 als hiesiger Detektivinspektor sie wieder einfangen.«
@@ -171,7 +171,7 @@ nach der Seite sich herausschieben ließen.
 meldete Harst weiter. »Man hat es dann wieder in die
 alte Lage zurückgebracht. Die Malcapier vermochte das
 sehr gut. Daß sie tadellos trainiert und kräftig ist, wissen
-wir ja. — Hier an dem einen Eisenstäbe hängt auch noch ein
+wir ja. — Hier an dem einen Eisenstabe hängt auch noch ein
 Endchen Stoff des Gefangenenkleides. Die schöne Eugenie
 ist also auf diesem Wege entkommen.«
 
@@ -223,7 +223,7 @@ mehr in der Zelle.
 meinte Inspektor Jobster.
 
 Die Oberaufseherin trat ein. »Es waren genau drei Minuten,
-Meister Harst. Ich habe nach der Uhr gesehen,« sagte
+Master Harst. Ich habe nach der Uhr gesehen,« sagte
 sie wichtig. — Da bemerkte sie, daß Harst fehlte. Der Chefarzt
 deutete lächelnd auf die Luftscheibe. Man erkannte, daß
 das Drahtgeflecht vor der Luftscheibe weit zurückgebogen war.
@@ -356,7 +356,7 @@ ja stets mehr als andere.«
 
 Der Kellner brachte das bestellte Essen. — Mittlerweile
 war es ½ 12 geworden. Die Zeit verstrich. Das Gespräch
-zwischen Jobster nun mir stockte immer mehr. Harst war jetzt
+zwischen Jobster und mir stockte immer mehr. Harst war jetzt
 bereits anderthalb Stunden fort.
 
 <@pagebreak/>
@@ -418,7 +418,7 @@ Ich merkte, daß Krellbrams Augen immer wieder über
 Harst hinglitten.
 
 <@pagebreak/>
-»Sie kommen wohl der Malcapier Wegen?« fragte Harst.
+»Sie kommen wohl der Malcapier wegen?« fragte Harst.
 »Ja, auch wir sitzen hier nun schon fast zwei Stunden und beraten,
 wie man ihrer wieder habhaft werden könnte.«
 
@@ -440,14 +440,14 @@ eine Rikscha (zweiräderiger Wagen) auf sie, außerdem ein
 dicker Chinese. Dem Chinesen konnte der Inder auf den Fersen
 bleiben, denn die Malcapier sauste in der Rikscha davon.
 So konnte mein Mann später feststellen, daß der Chinese für
-das Weib aus dem Bahnhof eine Fahrkarte nach Johore löste
+das Weib auf dem Bahnhof eine Fahrkarte nach Johore löste
 und daß die Malcapier als Mann verkleidet den 10 Uhr-Abendzug
 nach der Hauptstadt des Fürstentums benutzte. Ich
 habe bereits telegraphisch Anweisung gegeben, daß sie verhaftet
 wird. Sie wird Johore nicht erreichen.«
 
 Jobster schüttelte den Kopf. »Nein — haben Sie nur Glück
-gehabt Krellbram! Daß auch gerade Sie die Malcapier wieder
+gehabt, Krellbram! Daß auch gerade Sie die Malcapier wieder
 einfangen können!« Das war so offenbare Ironie, daß Krellbram
 giftig hervorstieß:
 
@@ -498,7 +498,7 @@ gegeben, erkennen. Sobald am Heck der Christine ein
 grünes, dann ein rotes und wieder ein grünes Licht erscheint,
 kommen Sie vollends heran und handeln den Umständen nach.
 Die Miete für den Kutter bezahle ich. — Sie wissen nun Bescheid.
-Leider muß ich Sie man hinauskomplimentieren, denn
+Leider muß ich Sie nun hinauskomplimentieren, denn
 Schraut und ich wollen noch ein paar Stunden schlafen. Wir
 haben anstrengende Tage vor uns.«
 
@@ -521,7 +521,7 @@ nur ein Scherz sein.
 
 »Wir packen unsere Koffer fix und fertig, lassen Geld und
 einen Brief für den Hoteldirektor zurück und empfehlen uns
-über das Dach!« sagte Harst nun, wieder in gedämpftem Tone.
+über das Dach!« sagte Harst nun, wieder in gedämpftem Tone
 <@pagebreak/>
 wie vorhin. »Hilf mir, wir müssen um 3 Uhr morgens am
 Albert Dock sein. Dort erwartet uns Kapitän Schubert mit
@@ -544,7 +544,7 @@ Diese harmlose Anzeige war für die Malcapier bestimmt. Die
 Worte »__E__s __u__nterliegt __g__anz __e__inwandfrei __n__icht __i__m __e__inzelnen«
 waren absichtlich so merkwürdig gewählt. Ihre Anfangsbuchstaben
 enthielten den Namen »Eugenie«. Harst war hierauf
-sofort durch den eigenartigem scheinbar ungeschickten Text
+sofort durch den eigenartigen, scheinbar ungeschickten Text
 gekommen. Weiter hatte er dann den Inhalt so gedeutet, daß
 die Malcapier am 16. befreit werden würde. Die Worte
 »daß Du abkömmlich bist« waren im Verein mit der Tatsache,
@@ -576,12 +576,12 @@ jedoch, Schubert sei verheiratet und besäße in der Nähe der
 Klydes Terrasse im Nordwesten der Stadt ein eigenes Haus.
 Als er das Tivoli verließ, merkte er, daß ihm jemand nachschlich.
 
-»Es war ein gutgekleideter, Mann ein Europäer,« hatte
+»Es war ein gutgekleideter Mann, ein Europäer,« hatte
 er mir erklärt. »Ich suchte ihn loszuwerden, aber der Mensch
 war ebenso schlau wie ich. Erst in der Nähe des Hauses des
 Kapitäns entwischte ich ihm — scheinbar! — Ich weckte Schubert.
 Als er meinen Namen hörte, ging er sofort auf meine
-Vorschläge ein. Ich fragte ihn dann noch nach vielerlei bis
+Vorschläge ein. Ich fragte ihn dann noch nach vielerlei, bis
 ich in allem klar sah. Abends um zehn Uhr, teilte er mir
 mit, hatte ein Chinese noch drei Ballen Seide als Fracht für
 die Christine nach Kalkutta angemeldet und durch seine
@@ -591,7 +591,7 @@ Singapores. — Ich wette nun: in einem der Ballen
 steckt die Malcapier! Daß diese Fracht erst so spät abends
 angemeldet wurde, sagt genug! — Als ich Schuberts Haus
 dann verließ, tauchte der Verfolger abermals auf. Der Kerl
-war Zäh, war nicht abzuschütteln. Ich mußte schließlich durch
+war zäh, war nicht abzuschütteln. Ich mußte schließlich durch
 einen der Wirtschaftseingänge ins Hotel schlüpfen und gelangte
 bis auf den Boden, wo ich eine Wäscheleine fand, an der ich
 vom Dache und dann von Balkon zu Balkon herabkletterte.
@@ -641,7 +641,7 @@ die Malcapier hatten diesen Anschlag auf den Goldtransport
 fraglos lange vor der Verhaftung unserer Feindin verabredet.
 Das beweist ja zur Genüge die Anzeige.«
 
-Dies war gehen auch das letzte, was Harst aus sich herauslocken
+Dies war aber auch das letzte, was Harst aus sich herauslocken
 ließ.
 
 * * *
@@ -675,7 +675,7 @@ es war auch nicht das geringste geschehen.
 
 Harst hatte gerade das Färben beendet, als es klopfte
 und dann die Tür unserer Kammer aufgerissen wurde. Es
-war der Schiffsjunge ein Neffe Kapitän Schuberts, der uns
+war der Schiffsjunge, ein Neffe Kapitän Schuberts, der uns
 nun zurief:
 
 »Ihr sollt zum Käp’ten kommen. Eilt Euch, faules Gesindel!«
@@ -684,7 +684,7 @@ Wir zogen unsere Leinenkittel über und standen gleich
 darauf in Schuberts Kajüte. Er schloß hinter uns die Tür
 ab. Die Fenster hatte er bereits dicht verhängt.
 
-»Meine Herren,« sagte er dann, »nehmen Sie Platz —
+»Meine Herren,« sagte er dann, »nehmen Sie Platz. —
 Ich möchte Ihnen vorschlagen, jetzt sofort mit mir den Laderaum
 zu durchstreifen, ganz besonders aber die drei Ballen
 Seide einmal zu revidieren, ob wirklich in dem einen jenes
@@ -741,7 +741,7 @@ Sie —«
 Ich schaute dem Kapitän über die Schulter. Da stand in
 deutscher Sprache:
 
-> 19. d. M., an Bord der Christine
+> 19\. d. M., an Bord der Christine
 
 > Harald Harst! Bei meinen nächtlichen Schleichgängen
 durch den Schoner gelangte ich heute auch in das Vorschiff
@@ -751,7 +751,7 @@ sitzen und — Zigaretten rauchen. Ich kenne den
 Duft Ihrer Spezialmarke Mirakulum. Wir beide haben
 ja schon des öfteren miteinander zu tun gehabt. Die Zigarette
 verriet mir, daß Sie dieser Chinese waren und der
-Zweite, schlafende, Ihr Freund Schraut. Unter diesen Umständen
+zweite, schlafende, Ihr Freund Schraut. Unter diesen Umständen
 will ich doch besser auf die Goldbarren verzichten.
 Ich kann Ihnen nur meine Anerkennung aussprechen: beinahe
 hätten Sie mich auch dieses Mal erwischt! — Ich verlasse
@@ -762,7 +762,7 @@ in der Nähe sind, werden mich aufnehmen — Auf Wiedersehen
 
 »Das Weib ist fraglos nicht mehr an Bord,« sagte Harst
 jetzt. »Sie haben eben eingesehen, daß ihr Plan scheitern muß,
-weil mir uns nicht überrumpeln lassen. Trotzdem rate ich
+weil wir uns nicht überrumpeln lassen. Trotzdem rate ich
 <@pagebreak/>
 Ihnen, Landsmann, den Maschinenraum diese Nacht scharf
 überwachen zu lassen, — für alle Fälle. Morgen früh können
@@ -945,7 +945,7 @@ Ding einige Meter von uns ins Wasser.
 Die Malcapier schwieg und brachte die Büchse wieder an
 die alte Stelle auf den Rücken.
 
-Wir hielten uns durchs gelegentliche Schwimmstöße mit
+Wir hielten uns durch gelegentliche Schwimmstöße mit
 den Füßen stets neben ihr. Im übrigen war diese ganze Situation
 mehr eigenartig als aufregend. Wir hingen, getragen
 durch die Korkwesten, senkrecht im Wasser und konnten
@@ -966,7 +966,7 @@ die wir durch die nassen Kleidungsstücke deutlich spürten. Dieser
 Wechsel wurde durch Tiefenströmungen herbeigeführt,
 <@pagebreak/>
 erklärte Harst in aller Seelenruhe, als ob weit und breit für
-uns nicht die geringste Gefahr vorhanden er sei.
+uns nicht die geringste Gefahr vorhanden sei.
 
 Unsere rotblonde Feindin verhielt sich still. Jetzt aber
 riß ihr doch der Geduldsfaden. Sie ärgerte sich offenbar über
@@ -1087,7 +1087,7 @@ bei ihnen.«
 Dieser Befehl galt den Chinesen, von denen ich sieben
 Mann zählte. Wir wurden roh gepackt und weggeführt.
 Man stieß uns in die niedrige Kajüte hinein, in der eine Petroleumlampe
-an der Decke brannte ein schmaler, langer
+an der Decke brannte. Ein schmaler, langer
 Klapptisch teilte die Kajüte der Länge nach. An den Wänden
 liefen Polstersofas hin. Und — in der äußersten Ecke links
 saß ein Mensch, gefesselt wie wir.
@@ -1182,7 +1182,7 @@ brachten ihn hinaus. Nach einer Weile holten sie mich, führten
 mich über die roh aus Baumstämmen gezimmerte Brücke
 an Land, dann durch ein leichtes Gebüsch und eine enge Felsspalte
 in einen einen Talkessel mit schroffen Wänden, in
-dem zwei halb Verfallene Blockhütten standen, davor ein paar
+dem zwei halb verfallene Blockhütten standen, davor ein paar
 kümmerliche Kokospalmen. Nun sah ich Harst wieder. Er
 war aufrecht an eine der Palmen gebunden. — Vor der größeren
 Hütte saß Eugenie Malcapier in einem Liegestuhl und
@@ -1198,7 +1198,7 @@ Dann wurden auch Krellbram und Jobster herbeigebracht.
 Wir vier waren nun so an die Palmen gebunden, daß wir vor
 Eugenie Malcapier etwa einen Halbkreis bildeten.
 
-Ich sah jetzt daß die Besatzung des Kutters nicht lediglich
+Ich sah jetzt, daß die Besatzung des Kutters nicht lediglich
 aus Chinesen bestanden hatte. Es waren auch fünf Malaien
 dabei, und zwei Siamesen. Die Leute gingen hin und her,
 rauchten und schwatzten und kümmerten sich kaum um uns.
@@ -1219,7 +1219,7 @@ Andrew-Inseln an der Küste von Südbirma. Das Inselchen ist
 unbewohnt. — Sie vier werden diesen Ort lebend nicht mehr
 verlassen. Es wäre eine Torheit von mir, Sie zu schonen.
 Meine Geheimnisse dürfen keine Mitwisser haben — Sie,
-Meister Harst, glaubten damals, als der »Stern von Siam«
+Master Harst, glaubten damals, als der »Stern von Siam«
 das Piratenschiff — mein Schiff! — in die Tiefe schickte,
 sämtliche meiner Getreuen unschädlich gemacht zu haben. Sie
 haben sich geirrt. Ich hatte in Singapore noch zahlreiche
@@ -1239,7 +1239,7 @@ mit Krellbram vereinbart als Zeichen zum Angriff, sondern
 um mich aus dem Meere auffischen zu lassen. Daran sind Sie
 schuld, Master Harst. 120 Millionen sind uns verloren gegangen.
 Ihr Schuldkonto ist also jetzt gefüllt —« — Der Ton,
-in dem sie all das sagte, war etwas so, als ob sie in einem Salon
+in dem sie all das sagte, war etwa so, als ob sie in einem Salon
 eine spannende Geschichte als gänzlich Unbeteiligte erzählte.
 Sie schwieg jetzt, denn der lange Malaie führte einen
 Chinesen, dem die Hände auf den Rücken gefesselt waren,
@@ -1313,7 +1313,7 @@ das gefährliche Spiel also, wobei es lediglich darauf ankam,
 <@pagebreak/>
 möglichst schnell in den Herzen der Piraten eine Regung des
 Mißtrauens gegen sie hervorzurufen. Nur er konnte
-sich etwas derartiges übernehmen nur er, der ein so feiner
+sich etwas derartiges übernehmen, nur er, der ein so feiner
 Seelenkenner war. —
 
 Auf das fragende »Nun?!« der Malcapier erwiderte er:
@@ -1460,7 +1460,7 @@ schüttete er den Inhalt auf ein Tuch. In Watte verpackt kamen
 so eine Unmenge prachtvolle Perlen zum Vorschein.
 
 Noch an demselben Tage gegen 1 Uhr mittags landeten
-wir auf der St. Mathey—Insel. Der Kutter fuhr sofort
+wir auf der St. Mathey-Insel. Der Kutter fuhr sofort
 <@pagebreak/>
 zurück. Sechs Tage drauf waren wir wieder in Singapore,
 wo Kung Fo und Liu Sing bei der ersten polizeilichen Vernehmung

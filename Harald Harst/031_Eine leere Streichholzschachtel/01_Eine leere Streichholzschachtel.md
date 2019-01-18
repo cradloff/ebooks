@@ -27,7 +27,7 @@ reichte er Harst gleichzeitig eine Visitenkarte und erklärte:
 
 Harst winkte schon ab.
 
-»Sagen Sie Meister Boorstetten, ich würde mich freuen,
+»Sagen Sie Master Boorstetten, ich würde mich freuen,
 ihm helfen zu können.«
 
 Der eingeborene Kellner verbeugte sich stumm und verschwand.
@@ -48,7 +48,7 @@ Jobster nickte. »Mit dieser Beschreibung Boorstettens haben
 Sie recht. Ich möchte aber gern wissen —«
 
 »— woher ich all diese Weisheit geschöpft habe,« vollendete
-Harst lächelnd. Nun, sehr einfach. Boorstetten, der übrigens
+Harst lächelnd. >>Nun, sehr einfach. Boorstetten, der übrigens
 Holländer von Geburt sein dürfte, saß bis vor drei Minuten
 etwa noch drüben an einem kleinen Tischchen, das Sie,
 bester Jobster, und Freund Schraut jedoch von Ihren Plätzen
@@ -61,7 +61,7 @@ Er rauchte sechzehn Zigaretten in nervöser Hast und trank
 sich ebenso hastig Mut zu. Dann erhob er sich schnell und ging
 unserem Kellner nach. Es war daher wirklich nicht
 schwer, auf die Vermutung zu kommen, er würde dem Kellner
-eine Visitenkarte oder seinen Brief mitgeben. Die Karte kam
+eine Visitenkarte oder einen Brief mitgeben. Die Karte kam
 mir also keineswegs überraschend. — Kennen Sie Boorstetten
 persönlich, lieber Jobster?«
 
@@ -71,7 +71,7 @@ hiesiges Exportgeschäft hat er schon vor Jahren verkauft.
 Er soll vielfacher Millionär sein. Seine Besitzung auf der
 Blakang-Insel sei das reine Paradies, hat man mir erzählt.«
 
-»Hat er einen Sohn?« wagte Harst so überstürzt, »daß
+»Hat er einen Sohn?« fragte Harst so überstürzt, daß
 ich erstaunt aufblickte.
 
 »Nicht daß ich wüßte.« erwiderte Jobster.
@@ -161,14 +161,14 @@ frei an. »Wirklich — von Verdacht will ich nicht sprechen, obwohl
 —«
 
 »Gut — ich verstehe Sie schon, Master Boorstetten,« sagte
-Harst freundlich. »Sie haben es trotz aller Unwahrscheinlichkeit
+Harst freundlich. »Sie halten es trotz aller Unwahrscheinlichkeit
 für möglich, daß Ihre Gattin an einer Vergiftung gestorben
 ist und daß gerade dieses Gift den Leichnam konserviert.«
 
 Der Holländer nickte schwach. »Ja — Zuweilen kommen
 mir solche Gedanken.« —
 
-»Deren Berechtigung ich nachprüfen werde.« erklärte
+»Deren Berechtigung ich nachprüfen werde,« erklärte
 Harst nun weit lebhafter als bisher. »Deshalb auch einige
 Fragen, Master Boorstetten. — Wollen Sie mir bitte angeben,
 welche Personen zu Ihrem Haushalt gehörten, als Ihre
@@ -273,7 +273,7 @@ Ich habe nämlich die Absicht, entweder schon in dieser oder
 doch in der folgenden Nacht den Tempel zu besichtigen. Ich
 könnte dies ja auch ganz offen in Ihrer Gegenwart tun. Aber
 bei einem noch so völlig ungeklärten Fall wie diesem, wo man
-noch nicht einmal weiß, ob es wirkliche etwas zu untersuchen
+noch nicht einmal weiß, ob es wirklich etwas zu untersuchen
 gibt, bin ich stets vorsichtig und arbeite lieber in aller Heimlichkeit.
 Deshalb wäre es auch gut, wenn Sie jedermann gegenüber
 verschweigen wollten, was wir soeben vereinbart haben
@@ -506,7 +506,7 @@ eine Sterbekomödie mit bestem Erfolge inszeniert hatte.«
 »Dann — kommen wir wieder auf den ersten Verdacht
 zurück: Boorstetten ist ein Wolf im Schafskleide!«
 
-»Laß hier die Schafe aus dem Spiel« lächelte Harald.
+»Laß hier die Schafe aus dem Spiel!« lächelte Harald.
 »Ganz aus dem Spiel, mein Alter! Ganz! Ich denke, Du
 hast nach der Zigarette gerade genug gehustet, um — Doch
 nein — davon später! — Machen wir uns für den nächsten
@@ -620,8 +620,8 @@ Ich hatte sofort beim Eintritt einen ähnlich scheußlichen
 Geruch wahrgenommen, wie ihn die Sikandra-Blüten nachts
 ausströmen.
 
-»Ja — der Sarg kann nicht dicht sein und es muß auch eine
-Leiche darin liegen denn —«
+»Ja — der Sarg kann nicht dicht sein, und es muß auch eine
+Leiche darin liegen, denn —«
 
 »Muß?!« meinte Harst schnell. »Muß?! — Dieser Geruch
 hier ist zu intensiv für einen lediglich undichten Sarg, der
@@ -989,7 +989,7 @@ Wort, daß ich der Ursache des Todes der Frau Boorstetten nicht
 weiter nachspüren werde.«
 
 Ich war überrascht über Harsts schnelle Bereitwilligkeit,
-sich auf diese Weise aus dieser Falte zu befreien. Auch dem
+sich auf diese Weise aus dieser Falle zu befreien. Auch dem
 Holländer kam dies wohl genau so unerwartet. Er wurde dadurch
 mißtrauisch.
 
@@ -1086,7 +1086,7 @@ mir um.
 »Vergiß dies nicht für später. — Gehen wir jetzt. Der Fall
 Ellinor Boorstetten ist ja für uns erledigt.«
 
-Wir schlossen das, Mausoleum ab und schauten uns dann
+Wir schlossen das Mausoleum ab und schauten uns dann
 <@pagebreak/>
 draußen um. Der neue Tag dämmerte im Osten schon herauf.
 Ein fahles Zwielicht lagerte über dem weiten, hügeligen
@@ -1141,7 +1141,7 @@ brechen! Die Streichholzschachtel gehört zum Material von
 Fall Nummer eins. Also dürfen wir uns mit ihr nicht weiter
 abgeben.«
 
-Es wurde wahrhaftig immer verwickelten dieses
+Es wurde wahrhaftig immer verwickelter, dieses
 <@pagebreak/>
 Boorstetten-Problem! — Fall Nummer eins?! Es gab mithin noch
 einen Fall Nummer zwei!
@@ -1162,7 +1162,7 @@ Auch Harald schwieg jetzt. Nur meinen Arm drückte er
 sanft an sich. Als ich ihn dann von der Seite prüfend musterte,
 erschrak ich fast über diesen Ausdruck rücksichtslosester Energie
 in seinem Gesicht. Daß diese Veränderung seiner Züge nur
-mit dem »Fall Nummer zwei« Zusammenhängen konnte, war
+mit dem »Fall Nummer zwei« zusammenhängen konnte, war
 mir sofort klar. Ebenso klar war mir aber auch daß es sich
 hier um ein Verbrechen von ganz besonderer Heimtücke handeln
 müsse. Denn der Gesichtsausdruck Harsts war für gewöhnlich
@@ -1193,7 +1193,7 @@ kaum Schlaf finden nach dieser Nacht.«
 »Mag sein. Der Feind nicht. Aber Boorstetten wird vielleicht
 noch schlummern.«
 
-Ich blieb stehen. »Harald ist denn Boorstetten nicht der
+Ich blieb stehen. »Harald, ist denn Boorstetten nicht der
 — Feind?« fragte ich schnell.
 
 <@pagebreak/>
@@ -1231,7 +1231,7 @@ noch einen geheimen Zugang durch die rechte Wand?«
 Boorstetten nickte zögernd. »Es ist so. Aber das Geheimnis
 kennt außer mir nur noch einer meiner Freunde.«
 
-»Ob — es interessiert mich jetzt nicht mehr. Die Sache ist
+»Oh — es interessiert mich jetzt nicht mehr. Die Sache ist
 nämlich erledigt. Es sind leider gewisse Umstände eingetreten,
 die mich zwingen, diesen Fall nicht weiter zu untersuchen. Welcher
 Art diese Umstände sind, darf ich nicht angeben. Schraut
@@ -1241,7 +1241,7 @@ Ich beobachtete Boorstetten unauffällig aber scharf. Er
 machte jetzt ein sehr enttäuschtes Gesicht und blickte Harst
 unsicher an.
 
-»So so, eine Verpflichtung. — Nun ich muß mich damit
+»So so, eine Verpflichtung. — Nun, ich muß mich damit
 zufrieden geben.« sagte er nachdenklich.
 
 »Zufrieden geben?!« flüsterte Harst und lächelte ganz
@@ -1262,7 +1262,7 @@ hagerer Mensch mit einem prächtigen schwarzen Vollbart.
 
 Harst erzählte plötzlich eine scherzhafte Episode. Boorstetten
 merkte, daß dies wohl einen besonderen Grund hätte,
-und lachte mit wenn auch etwas gezwungen.
+und lachte mit, wenn auch etwas gezwungen.
 
 Dann flüsterte Harst, und er bewegte dabei kaum die
 Lippen:
@@ -1288,7 +1288,7 @@ lauschen, als wir leise sprachen. Er beugte sich weit vor. —
 Hinsicht pflichttreuer Mensch, dabei intelligent und gebildet.«
 
 »Nun gut!« nickte Harst. »Etwas anderes, Boorstetten.
-haben Sie Ihres Nervenleidens wegen bereits einen Arzt
+Haben Sie Ihres Nervenleidens wegen bereits einen Arzt
 konsultiert? Ich kann mir jedenfalls nicht denken, daß Sie
 dieser Nervosität gegenüber völlig gleichgültig sind.«
 
@@ -1318,13 +1318,13 @@ und wollten Singapore für ein Jahr den Rücken kehren.«
 
 Boorstettens verblüfftes Gesicht war zu verstehen. Ehe er
 noch etwas erwidern konnte, fuhr Harst fort: »Morgen abend
-geben Sie ein kleines Abschiedsessen zu dem Sie auch uns und
+geben Sie ein kleines Abschiedsessen, zu dem Sie auch uns und
 den Advokaten Templetey einladen. Bis dahin — und beachten
 Sie das sehr genau, Boorstetten! — trinken und essen
 Sie nur in Singapore in irgend einem Hotel ganz allein. Sie
 verstehen mich wohl: Sie sollen Ihre Mahlzeiten außerhalb
 Ihres Hauses und allein einnehmen, auch jede Einladung zu
-einer Mahlzeit oder einem Imbiß unter einem Vormund ablehnen
+einer Mahlzeit oder einem Imbiß unter einem Vorwand ablehnen
 — jede! Wenn Sie dies nicht genau befolgen, kann ich
 Ihnen nicht die Hilfe angedeihen lassen, die ich Ihnen zu leisten
 versprach.«
@@ -1378,7 +1378,7 @@ Templetey, ich und Plavarston ihre Plätze. Plavarston war
 ein stattlicher, hübscher Mann. Ich schätzte ihn auf kaum dreißig
 Jahre. Er und Advokat Templetey schienen sich nicht zu
 lieben. Wenn sie miteinander sprachen, geschah es stets in
-Spitzen ironischen Redewendungen. Plavarston hielt sehr
+spitzen, ironischen Redewendungen. Plavarston hielt sehr
 viel auf sein Aeußeres. Templeteys Frack (wir trugen sämtlich
 dieses lästige Ding nach englischer Sitte) war ehrwürdig
 alt und blankgescheuert.
@@ -1388,7 +1388,7 @@ Einmal sagte Templetey zu dem früheren Hauptmann.
 »Sie polieren die Fingernägel nicht sondern lackieren sie.
 Welchen Lack benutzen Sie?«
 
-»Plavarston sah irgend eine »Anödung« voraus und entgegnete
+Plavarston sah irgend eine »Anödung« voraus und entgegnete
 kurz:
 
 »Schuhlack, lieber Templetey!«
@@ -1425,10 +1425,10 @@ Mausoleum gefunden hatte!
 
 Mit einem Male war mir da dieser Hauptmann Plavarston
 die interessanteste Person der Tischgesellschaft. Ich hatte
-eigentlich geglaubt, daß Harst es heute abend hier Falls Templetey
+eigentlich geglaubt, daß Harst es heute abend hier auf Templetey
 abgesehen hätte. Jetzt sank ein Teil der Schleier, die
 mir diesen Fall bisher verhüllt hatten. Ich wußte: Plavarston
-war der »Feind«. Denn Harst ihn ja soeben absichtlich
+war der »Feind«. Denn Harst hatte ihn ja soeben absichtlich
 zur Hergabe der Zündholzschachtel veranlaßt!
 
 Nun folgten die Vorzeichen der Katastrophe Schlag auf
@@ -1446,7 +1446,7 @@ die meine Anerkennung findet.«
 Unter heiterem Gelächter trat Plavarston an das große
 Büfett heran und sagte mit dem Rücken nach uns hin: »Ich
 kenne so ziemlich Ihre Geschmäcker, meine Herren. Jedem
-mische ich, was ihn am besten behagt.«
+mische ich, was ihm am besten behagt.«
 
 Er hantierte mit allerlei Flaschen herum, die schon in
 Eiskühlern bereitgestanden hatten.
@@ -1525,7 +1525,7 @@ schleunigst ins Freie, um den Likör schnell wieder aus Ihrem
 Magen zu entleeren. Es ist ja so leicht, künstlich ein Erbrechen
 hervorzurufen. Wenn Sie Ihre Schandtaten eingestehen
 wollen, können Sie sich noch retten. Sie dürfen dann
-in Begleitung von ein Paar Polizisten hinaus.«
+in Begleitung von ein paar Polizisten hinaus.«
 
 Plavarston trat der dicke Schweiß auf die Stirn. Aber er
 murmelte nur: »Sie sind verrückt!« und nahm mit gemachter
@@ -1582,7 +1582,7 @@ glauben könne. Mehr sagte er jedoch nicht. — Schraut fand
 dann vor dem Mausoleum eine leere Streichholzschachtel. Der
 Sarg im Mausoleum war leer. Aber der Leichengeruch bewies,
 daß die Tote soeben erst fortgeschafft worden war. Ich dachte
-sogleich an Plavarston, hierbei, der eine Sektion der Leiche
+sogleich an Plavarston hierbei, der eine Sektion der Leiche
 befürchtet haben mochte und so — eine Feststellung von Gift
 im Körper. Dann wurden wir dort eingesperrt. Ich hatte
 damit gerechnet. Mir kam also auch die scheinbare Ueberrumpelung
@@ -1602,7 +1602,7 @@ wieder in den Sarg gelegt. Aber — es befindet sich nur
 deren Kopf jetzt im Sarge. Den Leib hat Plavarston mit seinem
 Genossen, dem Diener Prangar-Singh (denn ein einzelner
 <@pagebreak/>
-Mann kannte den Sargdeckel nicht heben) beseitigt, immer
+Mann konnte den Sargdeckel nicht heben) beseitigt, immer
 noch aus Furcht vor einer Sektion.«
 
 Harst machte seine kleine Pause. »Lieber Boorstetten,«
