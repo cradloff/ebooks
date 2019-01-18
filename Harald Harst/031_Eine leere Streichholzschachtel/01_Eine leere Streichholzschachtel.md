@@ -48,7 +48,7 @@ Jobster nickte. »Mit dieser Beschreibung Boorstettens haben
 Sie recht. Ich möchte aber gern wissen —«
 
 »— woher ich all diese Weisheit geschöpft habe,« vollendete
-Harst lächelnd. >>Nun, sehr einfach. Boorstetten, der übrigens
+Harst lächelnd. »Nun, sehr einfach. Boorstetten, der übrigens
 Holländer von Geburt sein dürfte, saß bis vor drei Minuten
 etwa noch drüben an einem kleinen Tischchen, das Sie,
 bester Jobster, und Freund Schraut jedoch von Ihren Plätzen
