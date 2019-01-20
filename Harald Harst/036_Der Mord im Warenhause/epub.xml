@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">43379254-1cf6-11e9-b30f-4fd1df5039bf</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Mord im Warenhause</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">36</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Mord im Warenhause.
+
+Wir waren hinter den beiden Gaunern Mautley und Bickpool und ihrer Millionenbeute her — seit vierzehn Tagen.  Aber wir hatten Pech: immer, wenn wir glaubten, nun hätten wir sie bestimmt eingekreist, entwischten sie uns wieder oder aber — und das war das peinlichere — es stellte sich heraus, daß diese geriebenen Schurken uns gefoppt und uns auf ganz harmlose Leute gehetzt hatten, die dann sehr empört waren, wenn sie vernahmen, für wen sie gehalten wurden. Da gab es denn unserseits viele Entschuldigungen, die stets darin ausklangen, daß Mautley und Bickpool eben Verkleidungskünstler von einer nie gekannten Virtuosität wären.
+
+Was diese beiden Hochstapler und Mörder alles ersonnen, um sich uns endgültig zu entziehen — damit könnte man Bände füllen. Eine Probe ihrer verbrecherischen Intelligenz habe ich ja dem Leser in unserem vorigen Abenteuer zu kosten gegeben, in »Fünf Stecknadeln« — Nun, diese Falle damals in Patna hatte uns genügend gewarnt. Zum zweiten Male sollte uns etwas Aehnliches nicht passieren.
+
+Die Kartenlegerin der Borsigstraße.
+
+Wie schön war’s doch in der Heimat! Wie schön in dem alten, behaglichen Hause in der Blücherstraße in Berlin-Schmargendorf!  Und wie köstlich mundeten die Leibgerichte, die Frau Auguste uns täglich vorsetzte.
+
+Harald Harst blätterte in den Morgenzeitungen.
+
+»Junge, tu’ mir einen Gefallen!« meinte seine Mutter und nahm ihm einfach die Zeitungen weg. »Lies vierzehn Tage nichts — nichts, jedenfalls keine Zeitung! Sonst findest Du darin womöglich wieder etwas, das diesen himmlischen Frieden unseres jetzigen Beisammenseins stört. Ruhe Dich aus, erhole Dich und —«
+
+Harst hatte ihre Hand genommen, streichelte sie und lächelte so eigentümlich.
+
+Frau Auguste schwieg, schaute den Sohn fragend an und rief mir dann zu:
+
+»Bester Schraut — er hat schon wieder etwas, das er »sein Problem« zu nennen pflegt. Sehen Sie nur, wie er lächelt! Ach — ich arme Mutter! Ich wünschte, Harald wäre dümmer, als es die Polizei erlaubt, dann brauchte ich doch nicht dauernd in Angst zu schweben.«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (036) Der Mord im Warenhause.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>

@@ -19690,6 +19690,7 @@ vereitle
 verenden
 vererbt
 verfallen
+verfallene
 verfallenen
 verfallenes
 verfärbt
@@ -21757,6 +21758,7 @@ Zacken
 zackige
 zackigen
 zaghaft
+zäh
 Zähigkeit
 Zahl
 zahle
