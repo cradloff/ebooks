@@ -336,7 +336,7 @@ Chinesen nach Paknam folgende Depesche:
 
 <@pagebreak/>
 > Bei klarem Sternhimmel heute Mond genau beobachten
-und Bewölkung abwarten— Eumalca.«
+und Bewölkung abwarten — Eumalca.«
 
 »Blödsinn!« brummte Tompson. »Ganz sinnloses Zeug.«
 
@@ -513,7 +513,7 @@ der den Deckel zuschraubte, könnte Verdacht schöpfen. Uebrigens
 brannte nur jene Bogenlampe dort, als der Mensch in
 den Kessel kroch. Die farbigen Kaiarbeiter hielten sich alle
 drüben an jenem Schuppen auf, wo sie etwas Schutz vor dem
-Regen hatten.
+Regen hatten.«
 
 Wir gingen ein Stück weiter, bis wir zwischen Stapeln
 von Fässern genügend gedeckt waren. Hier blieben wir und

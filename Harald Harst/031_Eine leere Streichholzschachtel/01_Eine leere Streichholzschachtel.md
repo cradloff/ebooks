@@ -996,7 +996,7 @@ mißtrauisch.
 »Ich wundere mich über Ihre Nachgiebigkeit,« sagte er
 zögernd. »Ich kann mich doch wohl auf Ihr Wort verlassen?«
 
-»Unbedingt!« meinte Harald. Der Fall »Frau Ellinor
+»Unbedingt!« meinte Harald. »Der Fall »Frau Ellinor
 Boorstetten« ist bereits völlig aufgeklärt. Ich brauchte mich
 damit nicht weiter zu beschäftigen. Ich könnte den Schuldigen
 festnehmen. Ich ziehe es aber vor, mich hier nicht niederschießen

@@ -60,7 +60,7 @@ lagen.
 
 »Was gibt’s denn?« fragte ich etwas ungeduldig.
 
-»Hm — so manches zu sehen.« meinte er gedehnt und
+»Hm — so manches zu sehen,« meinte er gedehnt und
 schritt auf die Eidechsen zu. Wir folgten ihm. Er machte dicht
 vor den beiden Tieren halt und erklärte:
 
@@ -120,7 +120,7 @@ geheimen Raum zur Unterbringung des Schmugglerguts ist
 undenkbar.«
 
 Ich nickte. Und dann suchten wir. Weber und ich blieben
-beieinander und gaben uns die redlichstes Mühe, an den
+beieinander und gaben uns die redlichste Mühe, an den
 schroffen Felswänden des Kessels irgendwo den Eingang zu
 dem Versteck zu finden, mit dessen Vorhandensein Harst so
 bestimmt rechnete.
@@ -149,7 +149,7 @@ Und auf dieser Terrasse stand Harst mit geisterbleichem Gesicht
 und stierte uns wild an.
 
 »Zwölf — zwölf Leichen!« sagte er nun mit heiserer
-Stimme. Dieser Satan von Weib hat die zwölf vergiftet.
+Stimme. »Dieser Satan von Weib hat die zwölf vergiftet.
 Entsetzlich!«
 
 Gleich darauf kletterten wir an einigen unauffällig in die
@@ -488,7 +488,7 @@ Sitte ganz schmal geschnitten, und eine goldene Brille, hinter
 der ein Paar farblose Augen bis auf schmale Schlitze stets
 zugekniffen wurden. Nur selten öffneten sich die Lider etwas.
 Die Blicke, mit denen dieser ehrwürdige Großkaufmann aus
-Rangun namens Limpo Mo (den Namen erfuhren wir ebenfalls
+Rangun namens Limpo Ma (den Namen erfuhren wir ebenfalls
 später) Harst dauernd musterte, verrieten ganz fraglos
 ein außergewöhnliches Interesse. — Der Zolldirektor Brookfield
 wieder war ein endlos langer Herr mit einem undurchdringlichen,
@@ -504,7 +504,7 @@ verhören wolle, hatte Harst erwidert:
 »Das ist nicht mehr nötig. Ich weiß jetzt Bescheid.«
 
 Chatarsan war einen Moment starr, rief dann dem Zolldirektor
-zu: »Was sagen Sie zu dieser Frechheit, Brookfield?!«
+zu: »Was sagen Sie zu dieser Frechheit, Brookfield?!
 — Ich werde die Kerle in Eisen legen lassen. Die Geschichte
 ist doch sonnenklar: wir haben hier einen guten Fang gemacht.«
 
@@ -521,7 +521,7 @@ einrichten muß!«
 Harst schwieg. — Nun legten wir unsere Klement-Repetierpistolen
 und unsere Taschenlampen nebst je drei Ersatzbatterien
 auf den Tisch. Das gab Chatarsan zu einer ähnlichen
-Bemerkung Veranlassung.«
+Bemerkung Veranlassung.
 
 Dann holte Harst sein Taschenbuch hervor. Aber — plötzlich
 riß er blitzschnell eine Seite heraus, ballte sie zusammen
@@ -605,7 +605,7 @@ mir laut angenehme Ruhe.
 — Es konnte nur so sein! Wie hätte Harst sonst wohl in so
 befehlendem, eindringlichem Tone jenen zweiten Satz mir zuflüstern
 können! — Nicht einen Happen genießen —! — Ja
-— vergiftet, — aber von wem?! Von wem?!«
+— vergiftet, — aber von wem?! Von wem?!
 
 An Schlaf war natürlich nicht mehr zu denken. Ich saß
 und grübelte. Zu gern hätte ich diesmal aus mir selbst heraus
@@ -624,7 +624,7 @@ und fragte sehr höflich:
 der Fußspitze gegen die eine volle Schüssel.
 
 »Weshalb schickten Sie uns das Essen?« entgegnete
-Harst.«
+Harst.
 
 Chatarsan meckerte leise. »Sie sind ein komischer Mensch,
 Master Bark. Zu welchem Zweck wird einem wohl Reis mit
@@ -801,7 +801,7 @@ war mit Bleistift ein Pfeil gezeichnet, dessen Spitze auf
 das gedruckte Wort Rangun wies. — Ich bin also nicht etwa
 Freund Chatarsans wegen hierher gekommen. Nein — ich
 hoffe unsere Eugenie hier bestimmt zu finden. Denn — der
-Bleistift-Pfeil war, wie aus dem noch Vorhandenen Glanz des
+Bleistift-Pfeil war, wie aus dem noch vorhandenen Glanz des
 Bleistiftstriches erkennbar, erst vor kurzem auf das Schildchen
 gezeichnet worden. Die Vermutung, die Malcapier könnte
 <@pagebreak/>
@@ -951,7 +951,7 @@ das Haus zu, las die Plakate aus nächster Nähe, ging dann
 nach rechts den breiten Bürgersteig weiter und kam durch die
 Anlagen zu mir zurück.
 
-Er nahm neben mir Platz lehnte sich zurück und holte
+Er nahm neben mir Platz, lehnte sich zurück und holte
 eine Zigarette hervor. Langsam brannte er ein Zündholz an;
 <@pagebreak/>
 ebenso bedächtig tat er die ersten Züge und blies tadellose
@@ -967,7 +967,7 @@ ja ein böses Fiebernest.
 Harst begann mit den beiden europäisch herausgeputzten
 Kindern zu spielen. So kam er auch mit der Bonne ins Gespräch.
 Er radebrechte dabei das Englische wie ein waschechter,
-ungebildeter Juden in kurzem war die Unterhaltung bei
+ungebildeter Inder. In kurzem war die Unterhaltung bei
 dem sprechenden Kopf angelangt.
 
 Wir erfuhren so, daß der Besitzer des »Weltwunders« ein
@@ -1014,7 +1014,7 @@ Ich fuhr förmlich herum. Mir war ein Gedanke gekommen.
 »Eugenie ist der sprechende Kopf,« sagte ich und blickte
 Harst forschend an.
 
-Er bejahte mit der Einschränkung: Wenigstens ist das
+Er bejahte mit der Einschränkung: »Wenigstens ist das
 sehr wahrscheinlich.«
 
 »Und der Zweck? Dieser Zweck liegt »dort« klar zu Tage?
@@ -1036,7 +1036,7 @@ saß allein an einem Tischchen unser Maschinist Jürgensen.
 
 Jürgensen, ein blonder Holsteiner, beachtete uns nicht.
 Dann kam er und bat Harst um ein Streichholz für seine Zigarre.
-Harst flüsterte ihm zu: Nachher draußen am Bahnhof.«
+Harst flüsterte ihm zu: »Nachher draußen am Bahnhof.«
 
 Wir tranken Eislimonade und aßen einen warmen Reispudding.
 Dann kamen ein blondbärtiger Engländer und eine
@@ -1280,7 +1280,7 @@ wird keinen Detektiv mehr besitzen wie Sie!«
 Ich beobachtete diese beiden Menschen, die Todfeinde waren
 und doch hier in höflichstem Tone miteinander verkehrten.
 Ich bemerkte wie Harsts Augen für einen Moment sich weiteten.
-Auch ich hatte von nahen Ufer her das Quaken eines
+Auch ich hatte vom nahen Ufer her das Quaken eines
 Frosches gehört; und ich hatte an Fritz Kersten, den Berliner
 gedacht, der oft sich als Tierstimmenimitator vor uns produziert
 hatte.
@@ -1356,7 +1356,7 @@ Aber Limpo Ma darf nichts davon wissen.« —
 
 Es war ein langgestreckter, saalartiger Raum mit einer
 kleinen Bühne, in dem das Weltwunder gezeigt wurde. Ein
-aus Klavier, zwei Geigen, Geige und Baß bestehendes Orchester
+aus Klavier, zwei Geigen, Cello und Baß bestehendes Orchester
 sorgte für die Belebung der Stimmung des Publikums.
 Der Saal war wie immer bis auf den letzten Platz gefüllt.
 Wir saßen in der zweiten Reihe von der Bühne. Auch Chatarsan

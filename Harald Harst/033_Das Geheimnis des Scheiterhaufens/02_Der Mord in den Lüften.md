@@ -16,7 +16,7 @@ hatten, um den Anfang einer Fährte des Flüchtlings
 zu finden.
 
 <@pagebreak 34/>
-»Nein, wir haben nichts versäumt.« meinte Harst und
+»Nein, wir haben nichts versäumt,« meinte Harst und
 langte nach einer neuen Zigarette. »Wir verstehen uns doch
 auf derlei Dinge, mein Alter. Weder zu Schiff noch mit der
 Bahn, noch im Auto kann Kuma Tawi Rangun verlassen haben.
@@ -47,7 +47,7 @@ Detektivinspektor Bloosley, Akyab.
 Harst legte die Depesche weg.
 
 »Hm — offenbar hat man also den Leib nicht entdeckt,«
-meinte er. »Nur ein Kopf! Freilich das könnte mich reizen.
+meinte er. »Nur ein Kopf! Freilich, das könnte mich reizen.
 Aber ich habe ja Tschong versprochen, Kuma Tawi aufzustöbern.«
 
 »Mit einem schnellen Auto sind Sie in 16 Stunden in der
@@ -89,29 +89,29 @@ Ausdruck gegeben hatte, auf diese Weise den »weltberühmten
 Liebhaberdetektiv« kennen zu lernen. (Zu dieser faustdicken
 Schmeichelei schnitt Harst eine wütende Grimasse).
 
-*Harst* Bevor ich mich entscheide, ob ich nach Akyab
+*Harst* »Bevor ich mich entscheide, ob ich nach Akyab
 komme, einige Fragen, Mr. Bloosley. — Ist der Kopf auf
 freiem Felde gefunden worden?«
 
-*Bloosley* Nein unter einem riesigen, uralten Baume
+*Bloosley* »Nein unter einem riesigen, uralten Baume
 in einer steinigen Wildnis.«
 
-*Harst* Ist der Kopf vom Rumpfe durch Schnitte oder
+*Harst* »Ist der Kopf vom Rumpfe durch Schnitte oder
 einen Hieb mit einem Messer, Schwert oder dergleichen abgetrennt?«
 
-*Bl.* Das läßt sich kaum noch feststellen. Ameisen haben
+*Bl.* »Das läßt sich kaum noch feststellen. Ameisen haben
 sich über den Kopf hergemacht und die Halsteile so stark
 benagt, daß auch unser Distriktarzt erklärt habe, er könnte in
 dieser Hinsicht kein sicheres Urteil abgeben.«
 
-*H.* Der Rumpf ist nirgends zu finden?«
+*H.* »Der Rumpf ist nirgends zu finden?«
 
-*Bl.* Nein. Ich habe einen tadellosen Polizeihund. Nicht
+*Bl.* »Nein. Ich habe einen tadellosen Polizeihund. Nicht
 einmal eine Fährte hat dieser angenommen. Freilich, der
 Arzt meint, der Kopf hat dort mindestens schon drei Tage
 gelegen.«
 
-*H.* Gut, danke, Mr. Bloosley. Ich bin morgen früh in
+*H.* »Gut, danke, Mr. Bloosley. Ich bin morgen früh in
 Akyab.«
 
 — So endete dieses Gespräch.
@@ -149,7 +149,7 @@ kehre ich nicht mehr nach Rangun zurück.«
 
 »Hm —, vorläufig ja. — Alles Gute also —«
 
-Gleich darauf brachte uns daß Polizeiauto nach dem Zollhafen
+Gleich darauf brachte uns das Polizeiauto nach dem Zollhafen
 zurück. Harst war sehr wortkarg. Als ich ihn fragte,
 ob er Kuma Tawi wirklich zunächst ungeschoren lassen wolle,
 entgegnete er nur:
@@ -161,9 +161,9 @@ Er rief den Maschinisten Jürgensen herbei.
 »Jürgensen, wo steckt der Kapitän?«
 
 »Bei Mutter Olderlong, Herr Harst, schätz’ ich. Dort
-nimmt er in stets seinen Frühschoppen ein.«
+nimmt er ja stets seinen Frühschoppen ein.«
 
-»Es war jetzt genau 12 Uhr Mittags. Harst bat mich, alles
+Es war jetzt genau 12 Uhr Mittags. Harst bat mich, alles
 zur Abreise vorzubereiten. »Unsere Koffer nehmen wir mit,«
 fügte er hinzu. »Ich gehe mal zu Mutter Olderlong hinüber.«
 
@@ -311,7 +311,7 @@ stotterte Tschong. »Ich kann ja erst in vier Tagen
 in Kalkutta sein — frühestens!«
 
 »Allerdings! — Aber wir beide werden rechtzeitig dort
-sein! — Lieber Alter,« wandte er sieh an mich. »Wir wollen
+sein! — Lieber Alter,« wandte er sich an mich. »Wir wollen
 unser Programm ändern. Wir beginnen die Probefahrt mit
 dem Rennwagen nach einer halben Stunde und nicht erst um
 4 Uhr.«
@@ -390,7 +390,7 @@ Alter, Du bist ganz blaß.«
 Bei dem Städtchen Prome bog das Auto links auf eine
 Bergstraße ab. Die Gegend wurde jetzt immer romantischer,
 immer einsamer. Nur selten trafen wir auf ein Eingeborenendorf;
-noch seltener begegneten wir einen Wanderer. Wir passierten
+noch seltener begegneten wir einem Wanderer. Wir passierten
 endlose Tunnels, vor deren Eingängen wir die Laternen
 anzünden mußten. Schauerlich hallte das warnende Tut-Tut-Tut
 der Hupe in diesen von Menschenhand geschaffenen
@@ -487,7 +487,7 @@ Wieder ein Tunnel. Pennworld mäßigte das Tempo. Wir
 glitten in den schwarzen Schlund hinein. In gleichmäßigen
 Zwischenräumen ertönte die Hupe.
 
-Harst stand plötzlich auf, beugte sich vor rief dem Chauffeur
+Harst stand plötzlich auf, beugte sich vor, rief dem Chauffeur
 ein: »Noch langsamer!« zu.
 
 Ich erwachte im Nu aus meinem Halbschlaf.
@@ -659,7 +659,7 @@ Staunen.
 schließlich. »Wie in aller Welt wollen Sie behaupten —«
 
 »Ich habe wirklich keine Sekunde länger Zeit,« fiel Harst
-ihm ins Wort. Bitte, notieren Sie sich Namen und Adresse:
+ihm ins Wort. »Bitte, notieren Sie sich Namen und Adresse:
 Madame Sarah Prestilant, Rangun, Strandstraße 15. —
 So, und nun leben Sie wohl. Was ich sonst noch über diesen
 Kopf weiß, gebe ich in Kalkutta zu Protokoll.« —
@@ -670,7 +670,7 @@ leise den Namen des Toten.
 
 — »Hm — Prestilant — Prestilant!« meinte er nun. »Der
 Name ist mir nicht unbekannt. — Halt, nun hab ich’s! Das
-ist ja der vorrückte Erfinder, der einen Wagen konstruiert
+ist ja der verrückte Erfinder, der einen Wagen konstruiert
 hatte, mit dem er die Treppen zur Schwe Dagon-Pagode hinauffuhr;
 so ein Ding ohne Räder war’s.«
 
@@ -680,8 +680,8 @@ der Weiterreise. Pennworld sollte uns mit dem Rennwagen
 nach Kalkutta bringen. Harst fragte, ob er sich auch zurechtfinden
 würde.
 
-»Wir haben ja eine gute Karte, Mr Harst,« erklärte der
-Chauffeur. »Ja 18 bis 20 Stunden hoffe ich dort zu sein.« —
+»Wir haben ja eine gute Karte, Mr. Harst,« erklärte der
+Chauffeur. »In 18 bis 20 Stunden hoffe ich dort zu sein.« —
 
 Wir bestiegen das Auto, versorgten uns dann in Akyab
 noch mit Benzin und jagten auf der unweit der Küste nach
@@ -694,14 +694,14 @@ weit von sich gestreckt. Er wandte plötzlich den Kopf. »Wir
 werden jetzt frühstücken, mein Alter, und dann mußt Du zu
 schlafen versuchen. Wir gehen bösen Stunden entgegen.«
 
-»In Kalkutta« meinte ich kurz.
+»In Kalkutta,« meinte ich kurz.
 
 »Nein, vorher. Wir bilden uns ein Kuma Tawi zu jagen,
 und wir werden selbst gejagt. Ein Kesseltreiben auf
 uns fand im Tunnel hinter Palembano schon statt. Wo droht
 uns das zweite — wo?! — Jedenfalls vor Kalkutta.«
 
-»Du rechnet also bestimmt mit einem zweiten Ueberfall?«
+»Du rechnest also bestimmt mit einem zweiten Ueberfall?«
 
 »Ueberfall?! — Das will ich nicht behaupten. Aber mit
 irgend etwas, das uns vorläufig von Kalkutta fernhält. Dieses
@@ -725,7 +725,7 @@ die doch nun mal zu unserem freiwilligen »Beruf« gehören.
 Du aber siehst mir nicht mal die kleine Eigenart nach, Dich —
 zum Denken zwingen zu wollen. Ich weißt ja, was Dein Hirn
 jetzt beschäftigt: der Erfinder Prestilant und das Rätsel des
-Kanon unter dem Rasamala. Wenn Du in Rangun auf alles
+Kopfes unter dem Rasamala. Wenn Du in Rangun auf alles
 achtgegeben hättest, was ich tat und sprach, würdest Du diesem
 Rätsel so ziemlich auf die Spur —«
 
@@ -930,7 +930,7 @@ aus dem Werkzeugkasten des Autos ein paar Stricke. Ich half
 ihm, den Fährleuten die Hände auf den Rücken zu binden.
 
 »Sahib,« meinte der Aeltere wieder, »ich verstehe nicht,
-weshalb Du uns wie Verbrecher behandelt. Wir sind Beamte
+weshalb Du uns wie Verbrecher behandelst. Wir sind Beamte
 der Regierung. Es ist dies eine staatliche Fähre. Wir können
 doch nichts dafür, daß die Kette gerissen ist.«
 
@@ -1396,12 +1396,12 @@ schon bestanden.«
 
 Er setzte sich in die Polster des Abteils 1. Klasse, holte sein
 Zigarettenetui hervor, begann zu rauchen. Er sah als ältere
-Dame sehr würdig und vornehm aus.«
+Dame sehr würdig und vornehm aus.
 
-»Wir wissen jetzt zweierlei,« sagte er dann. Erstens:
+»Wir wissen jetzt zweierlei,« sagte er dann. »Erstens:
 Kuma Tawi wollte uns bis morgen früh hier festhalten lassen.
 Mithin dürfte er das Geld entweder schon haben oder doch
-in dieses Nacht sich abholen. — Zweitens: In Kalkutta heißt
+in dieser Nacht sich abholen. — Zweitens: In Kalkutta heißt
 der Detektivinspektor Palwson.«
 
 »Jedenfalls: wir kommen zu spät!« meinte ich seufzend.
@@ -1436,14 +1436,14 @@ können gegen 1 Uhr in Kalkutta sein.«
 
 Harst hatte eine halbe Stunde zu viel gerechnet. Wir
 waren bereits um ½ 1 auf dem Hauptbahnhof, gaben unsere
-Koffer zur Aufbewahrung ab, nahmen eine Auto und ließen
+Koffer zur Aufbewahrung ab, nahmen ein Auto und ließen
 uns nach der Besitzung Tschongs fahren, die der Chauffeur
 kannte. —
 
 Tschongs prächtige Villa lag im Vorort Allipur im Süden
 <@pagebreak/>
 der Millionenstadt. Harst ließ das Auto schon vorher halten
-und lohnten den Chauffeur ab, hieß ihn aber vor dem Eingang
+und lohnte den Chauffeur ab, hieß ihn aber vor dem Eingang
 des nahen Zoologischen Gartens auf uns warten.
 
 Die Villa war von einer hohen Backsteinmauer umgeben.
@@ -1483,7 +1483,7 @@ Der Beamte suchte im Regal, reichte Harst dann ein Telegramm.
 
 Harst riß es sofort auf, ließ mich mitlesen:
 
-»Singspielhalle Zur lustiger Jane, Hafen«.
+»Singspielhalle Zur lustigen Jane, Hafen.«
 
 Das war alles. — Harst zog mich hastig mit sich fort.
 
@@ -1497,7 +1497,7 @@ seinen Ausweis.
 Mr. Palwson?« fragte Harst überstürzt. »Schnell — irgend
 etwas. Wir wollen einen Mörder in der Singspielhalle Zur
 <@pagebreak/>
-lustiger Jane abfassen, der außerdem auch eine gehörige
+lustigen Jane abfassen, der außerdem auch eine gehörige
 Summe erpreßt hat.«
 
 Palwson machte große Augen. »Mörder?! — Da bin ich
@@ -1506,7 +1506,7 @@ brauchten.
 
 Harst teilte Palwson nur so einiges mit, verschwieg aber
 Tschongs schriftliches Bekenntnis und gab der Sache ein ganz
-anderes Aussehen, um Tschong zu schonen.«
+anderes Aussehen, um Tschong zu schonen.
 
 »Worbster sollte also die Telegramme in Rangun überwachen,«
 erklärte er nun. »Und sobald er die Gewißheit hatte,
@@ -1518,17 +1518,17 @@ die Adresse hierher postlagernd für Howard Hasting senden.«
 
 »Darüber nachher, wenn wir den Burschen fest haben. —
 Bitte lassen Sie jetzt doch sofort die Singspielhalle durch Ihre
-Leute umstellen Mr. Palwson.«
+Leute umstellen, Mr. Palwson.«
 
 »Oh — das ist in zwanzig Minuten geschehen.« —
 
 Es war kurz nach 2 Uhr morgens, als zwei indische abgerissene
-Hafenarbeiter die Hafenkneipe »Zur lustiger Jane«
+Hafenarbeiter die Hafenkneipe »Zur lustigen Jane«
 betraten, wo noch großer Betrieb herrschte. Der Wirt war ein
 Chinese zweifelhaftester Güte.
 
 Harst winkte den Wirt beiseite. »Ich komme aus Port
-Canning,« flüsterte er. Habe Tonga Lei etwas vom dortigen
+Canning,« flüsterte er. »Habe Tonga Lei etwas vom dortigen
 Polizeimeister zu bestellen.«
 
 Tonga Lei. — Das war der Name Kuma Tawis, den der
@@ -1547,7 +1547,7 @@ Brücke am Westufer.«
 Um ½ 3 bereits stiegen Harst, Palwson und ich vom Ufer
 über die Laufplanke auf den großen Frachtkahn. In der kleinen
 Heckkajüte brannte Licht. Wir stießen die Tür auf. Am
-Tische saß ein Schlafender, ärmlich gekleideter Chinese. Der
+Tische saß ein schlafender, ärmlich gekleideter Chinese. Der
 ganze Raum roch nach Fusel.
 
 Harst legte dem Schläfer die Hand schwer auf die Schulter.
@@ -1602,14 +1602,14 @@ geherrscht hatte. Es war also die Möglichkeit vorhanden,
 daß Du im Ballon entkommen warst. Mein Kapitän Weber
 wußte, daß in Rangun ein Erfinder wohnte, der auch einen
 Freiballon besaß. Dieser Erfinder war, wie ich bald ermittelt
-hatte, in aller Stille nachts mit seinem Ballen davongesegelt.
+hatte, in aller Stille nachts mit seinem Ballon davongesegelt.
 Du wirst ihn bestochen haben, Dich aus Rangun zu entführen.
 Unterwegs hast Du den Franzosen dann aus der Gondel gestürzt.
 Der Körper fiel unweit von Akyab in einen Rasamala-Baum.
 <@pagebreak/>
 Durch die Wucht des Falles riß ein Ast den Kopf des
 Unglücklichen ab. Der Rumpf blieb in den Zweigen hängen.
-Du wirft dann gelandet sein, wirst den Ballon verbrannt und
+Du wirst dann gelandet sein, wirst den Ballon verbrannt und
 Deine Flucht zu Lande allein fortgesetzt haben. Jedenfalls
 bist Du des Erfinder’s Mörder und gehörst an den Galgen.«
 

@@ -96,7 +96,7 @@ Glück gehabt, als sie ihm bei Gelegenheiten entschlüpfte, bei
 denen die kühle Umsicht eines Beamten fraglos einen vollen
 Erfolg erzielt hätte. Die Geschichte mit der Goldladung der
 »Christine« (ich habe dieses Abenteuer unlängst unter dem
-Titel »Der Schatz der »Christine« veröffentlicht) ist ja noch
+Titel »Der Schatz der Christine« veröffentlicht) ist ja noch
 ebenso frisch in aller Erinnerung wie dieser Anschlag auf die
 India-Bank mit Hilfe des sprechenden Kopfes. Beide Male
 hätte die Malcapier bei vorsichtigerer Handhabung des Ganzen
@@ -109,7 +109,7 @@ hier mehr weibliche Eitelkeit als verbrecherischer Instinkt mitspricht.
 <@pagebreak/>
 nur eins bemerken. Daß Master Harst der berühmteste
 Detektiv der Jetztzeit ist, daß sein Scharfsinn bereits unendlich
-viel Gutes geleistet hat steht außer Zweifel. Immerhin
+viel Gutes geleistet hat, steht außer Zweifel. Immerhin
 kann man, ohne Master Harst irgendwie nahetreten zu wollen,
 dem Schreiber obiger Zeilen insoweit beipflichten, als sich vielleicht
 der Versuch verlohnen dürfte, die Malcapier zunächst
@@ -398,7 +398,7 @@ Fremdkörpers im Tabak ausgegangen, und dann hat die
 Raucherin den Rest unter den Stuhl geworfen.«
 
 Er wickelte den halben Druckknopf in ein Stückchen Papier
-und verwahrte ihn in seinem Taschenbuch, wobei er erklärte.
+und verwahrte ihn in seinem Taschenbuch, wobei er erklärte:
 »Einer Raucherin, die sich die Zigaretten selbst dreht,
 kann es leicht zustoßen, daß so ein halber Druckknopf in den
 Tabak gerät; bei einem Raucher dürfte dies seltener vorkommen.
@@ -481,7 +481,7 @@ das straffe, schwarze Haupthaar frei herabhängend.
 
 Das Boot sank sehr schnell. Als wir es erreichten, bespülte
 das Wasser schon die niedrige Backbordreling. Die
-Leute darauf brüllen vor Angst. Einer der Männer bat
+Leute darauf brüllten vor Angst. Einer der Männer bat
 dann in miserablem Englisch, wir möchten das Boot doch
 schnell ans Ufer schleppen; es sei sein einziger Besitz, und er
 würde arm werden, wenn es mit der Ladung Oelfässer sinke.
@@ -737,7 +737,7 @@ Pi-Manos Gesicht wurde erdgrau vor Schreck und Angst.
 »Ich werde die Tür eine Handbreit aufmachen,« fuhr
 Harst fort. »Dann schickst Du deine Leute an Land. Sie
 können von dem Frachtboot aus bequem über die Sandbänke
-ans Ufer gelangen. Befehl ihnen, sich irgendwo zu verbergen
+ans Ufer gelangen. Befiehl ihnen, sich irgendwo zu verbergen
 und sich bis auf weiteres vor niemand sehen zu lassen,
 bis Du zu ihnen kommst. Du wirst diese Befehle in englischer
 Sprache erteilen, damit ich verstehe, was Du sagst. — Nun
@@ -853,7 +853,7 @@ Wir alle, Harst ausgenommen, befanden uns in hochgradiger
 Erregung. Die Ermordung des alten Birmanen und
 die Szene hier im Wohnsalon, diese wilde, haßsprühende Wut
 des Malaien, der blutige Teppich und all das andere hätten
-wohl auch den Phlegmatischsten aufgerüttelt.«
+wohl auch den Phlegmatischsten aufgerüttelt.
 
 Weber trocknete sich den Schweiß von der Stirn.
 
@@ -877,7 +877,7 @@ gesunkenen Kahnes gelegt worden war, schickte Harst den Maschinisten
 Jürgensen auf die Jacht zurück.
 
 »Macht nur alles zur Weiterfahrt fertig,« sagte er.
-Schraut und ich wollen uns hier nur noch genauer umsehen.«
+»Schraut und ich wollen uns hier nur noch genauer umsehen.«
 
 So waren wir denn allein in dem mit Gerümpel aller
 Art halb gefüllten Deckhäuschen. Ich hatte Harst so manches
@@ -907,7 +907,7 @@ sein, sondern eben eine Filiale jenes Geheimbundes
 dem man in den indischen und indochinesischen Hafenstädten
 längst auf der Spur ist, ohne ihn jedoch unschädlich machen zu
 können. Man könnte von einem Eidechsen-Bunde sprechen.
-Wenn Du Dir nun vergegenwärtigst, wie der »Firmenstempel
+Wenn Du Dir nun vergegenwärtigst, wie der Firmenstempel
 des Zigarettenpapiers aussah, das wir zusammen als zu
 jenem Zigarettenstummel gehörig besichtigten, dann —«
 
@@ -991,7 +991,7 @@ aus ihrem Lexikon streichen! — Ich hatte einfach wie stets die
 Augen überall. Ich sah den Knopf von weitem. Die Gravierung
 war so eigenartig. Deshalb starrte ich auch im Wohnsalon
 Pi-Manos Weste so interessiert an. Dann genügte ein
-Blick. — Gehen wir jetzt mein Alter. Vergiß nicht, daß
+Blick. — Gehen wir jetzt, mein Alter. Vergiß nicht, daß
 morgen der letzte der drei großen buddhistischen Feiertage ist,
 die in Rangun unter so ungeheurem Zulauf von Pilgern
 begangen werden. Es ist schade, daß wir uns das Treiben an
@@ -1011,8 +1011,8 @@ plötzlich. Ich packte Harsts Arm drückte ihn.
 
 »Du — die dritte Buddha-Statue, die noch »gültige«, bedeutet
 den dritten Feiertag, also morgen!« erklärte ich überstürzt.
-»Morgen will die »große Eidechse« etwas ausführen.
-— etwas eben den Streich, von dem Du sprachst!«
+»Morgen will die »große Eidechse« etwas ausführen,
+— etwa eben den Streich, von dem Du sprachst!«
 
 Er nickte nur, sagte aufmunternd: »Gut so! Und
 weiter?«
@@ -1129,7 +1129,7 @@ Darin stand eine Notiz, daß Harald Harst die Verfolgung
 der hochintelligenten, vielseitigen und äußerlich so sehr anziehenden
 Verbrecherin endgültig aufgegeben hätte und daß
 es nunmehr Sache der Behörden sei, die Frau auf irgend eine
-Weise unschädlich zu machen.«
+Weise unschädlich zu machen.
 
 Der kleine Chatarsan seufzte. Diese verdammten buddhistischen
 Feiertage mit ihrem Pilgerzulauf! Das gab stets
@@ -1252,7 +1252,7 @@ Unsere Bündel enthielten gedünsteten Reis und Früchte, außerdem
 aber auch unser übliches Handwerkszeug.
 
 Man konnte hier Studien machen. Neben dem armseligen
-chinesischen Kuli hockte hier aus den Steinstufen der reiche
+chinesischen Kuli hockte hier auf den Steinstufen der reiche
 malaische Kaufmann; neben dem edlen Gesicht der Singhalesen
 grinste der brutale Kopf des Atchinesen aus den Sümpfen
 Sumatras. — Alles unterhielt sich nur flüsternd.
@@ -1478,7 +1478,7 @@ die Pilger, die vor dem Schrein in langer Reihe vorübergingen
 und seinen Deckel küßten.
 
 »Was gibt’s denn?« fragte Chatarsan flüsternd. »Weshalb
-so vorsichtig, he?»
+so vorsichtig, he?«
 
 »Weil — ich etwas gefunden habe, das sehr zu denken
 gibt,« erwiderte Harst ebenso leise.
@@ -1614,7 +1614,7 @@ Inspektor Chatarsan. Und — in der Nische, zu Füßen
 einer überlebensgroßen Buddha-Statue, fanden wir einen
 jungen schlanken Birmanen mit einer Schußwunde in der
 linken Schläfe: Eugenie Malcapier, die sich selbst gerichtet
-hatte! — Aber — sie lebte noch, kam nach einmal zu sich. Ein
+hatte! — Aber — sie lebte noch, kam noch einmal zu sich. Ein
 Blick unauslöschlichen Hasses traf Harst.
 
 »Sie haben den falschen erschossen,« sagte Harald ernst.
@@ -1624,7 +1624,7 @@ Blick unauslöschlichen Hasses traf Harst.
 hervor. »Auch Sie! Und Sie werden um Gnade winseln
 lernen —«
 
-— unter dem Sägegatter, als Gefangener des Eidechsen-Bundes!«
+»— unter dem Sägegatter, als Gefangener des Eidechsen-Bundes!«
 fügte Harst hinzu. »Sie sehen, ich kenne jetzt auch
 diese Geheimnisse! — Gehen Sie in sich, Miß Malcapier!
 <@pagebreak/>
@@ -1648,7 +1648,7 @@ sehr bald am eigenen Leibe spüren. —
 Als die Ranguner Expreß Post die näheren Umstände
 der Ermordung Chatarsans und der Selbstentleibung der
 Malcapier veröffentlichte, als so bekannt wurde, daß die Verbrecherin
-sich an den kostbarsten Reliquien der Buddhisten an
+sich an den kostbarsten Reliquien der Buddhisten, an
 den acht Haupthaaren Buddhas, hatte vergreifen und fraglos
 dafür ein enormes Lösegeld hatte erpressen wollen, wurde
 Harst in Rangun in einer Weise gefeiert, die ihm, der von

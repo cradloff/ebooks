@@ -137,7 +137,7 @@ meinte Harst gleichmütig. »Ich kann mich auf meine Augen
 verlassen. Sie waren mir von Ansehen sehr gut bekannt, als
 wir uns hier zu Ihnen setzten. Und ich tat dies nur, um Sie
 <@pagebreak/>
-ganz offen zu fragen, weshalb Sie ich seit gestern stets in
+ganz offen zu fragen, weshalb Sie sich seit gestern stets in
 unserer Nähe halten.«
 
 Der Händler wechselte die Farbe, wurde verwirrt und
@@ -149,7 +149,7 @@ Herr Harst. Dann ist es besser, wir trennen uns sofort. Ich
 — ich bin kein Lügner, obwohl ich Chinese bin.«
 
 Er erhob sich, grüßte und schritt der Haupttreppe der
-Pagode zu. — Harst schaute ihn schweigend nach, bis er im
+Pagode zu. — Harst schaute ihm schweigend nach, bis er im
 Innern des Heiligtumes verschwunden war.
 
 »Hm!« machte er dann. »Na, mein Alter, wie gefiel er
@@ -183,7 +183,7 @@ Wir schritten dem Zollhafen zu.
 »Die Sache interessiert mich,« meinte Harst. »Der Doppelgänger
 Tschongs war genau so gekleidet wie der echte
 Tschong. Dahinter steckt doch fraglos eine ganz bestimmte
-Absicht. — Ah — da kommt Kommissar Worbster aus uns zu,
+Absicht. — Ah — da kommt Kommissar Worbster auf uns zu,
 der jetzt Chatarsan zunächst vertritt, unseren armen, kleinen,
 toten Chatarsan. — Morgen, Worbster! — Sie sehen ja so
 erhitzt aus. Was gibt’s denn?«
@@ -214,7 +214,7 @@ worden. Der oder die Diebe hatten ihren Weg über die hintere
 Mauer des zur Polizeidirektion gehörigen Gartens genommen,
 hatten ein Kellerfenster des linken Seitenflügels
 eingedrückt und waren dann bis in die sogenannte Fundkammer
-im Erdgeschoß des Hauptflügels notgedrungen, wo die
+im Erdgeschoß des Hauptflügels vorgedrungen, wo die
 gefundenen Gegenstände aufbewahrt werden. Sie hatten jedoch
 nur eine recht geringe Beute hier gemacht, kaum der
 Rede wert.
@@ -230,7 +230,7 @@ lediglich einen anderen Zweck verschleiern soll.«
 welche Hinweise auf diesen verschleierten Zweck, Worbster?«
 
 »Nichts, Mr. Harst, nichts, ich wollte Sie daher auch
-bitten; ob Sie nicht —«
+bitten, ob Sie nicht —«
 
 »Verstehe schon: ich soll die Geschichte aus nächster Nähe
 nachprüfen! — Gut, bin gern bereit dazu. Wenn es Ihnen
@@ -338,7 +338,7 @@ machte Harst plötzlich halt.
 »Hier gibt es ja auch eine eiserne Tür,« sagte er und deutete
 nach rechts.
 
-»Es ist der Sezierraum. Mr. Harst,« erklärte Worbster.
+»Es ist der Sezierraum, Mr. Harst,« erklärte Worbster.
 
 »Sezierraum?! — Und — gestern wurde doch die Malcapier
 seziert. Liegt die Leiche noch da drinnen, Worbster?«
@@ -442,9 +442,9 @@ verbrannt und wo?«
 am Pazundaung-Kanal. So hat es Tschong bestimmt.«
 
 »Nun, dann gebe ich Ihnen einen guten Rat, Worbster.
-Lassen Sie die Leiche nicht einen Moment aus dem Auge sobald
+Lassen Sie die Leiche nicht einen Moment aus dem Auge, sobald
 Sie sie dem Chinesen übergeben haben. — Auf Wiedersehen.
-Und — schweigen Sie über meinen Besuch hier, verstanden=!«
+Und — schweigen Sie über meinen Besuch hier, verstanden?!«
 
 Worbster blieb mit sehr erstauntem Gesicht stehen. Er
 mußte ja ahnen, daß hier nicht alles so war wie es sein sollte.
@@ -574,8 +574,8 @@ wie Sie ja bereits wissen.«
 Ihnen so aufs Haar gleicht, für einen Detektiv so viel Teilnahme
 <@pagebreak/>
 zeigt, dürfte eine ganz bestimmte Veranlassung haben,
-das Tun und lassen dieses Detektivs zu überwachen. Und
-darauf läuft doch dieses Interesse letzten Todes hinaus.«
+das Tun und Lassen dieses Detektivs zu überwachen. Und
+darauf läuft doch dieses Interesse letzten Endes hinaus.«
 
 Tschong nickte. »Sie vermuten in diesem Doppelgänger
 also einen Verbrecher,« meinte er.
@@ -613,7 +613,7 @@ ein Spirituslämpchen an.
 Ein Kellner erschien. Tschong bestellte Eispunsch und eine
 Platte Erfrischungen. Von dem Doppelgänger war zunächst
 nicht mehr die Rede. Tschong bat, ob Harst ihm nicht nochmals
-den Feuerzauber aus der Walküre verspielen wolle. Er
+den Feuerzauber aus der Walküre vorspielen wolle. Er
 hatte, wie er betonte die Festspiele in Bayreuth mitgemacht
 und war seitdem Wagnerschwärmer.
 
@@ -740,7 +740,7 @@ den »Feuerzauber« kalt gestellt. Dich beförderte er auf den
 Teppich, indem er die Zigarettenschale vom Tische warf. So
 hoffte er unbemerkt den Inhalt des in seiner Hand verborgenen
 Fläschchens in unsere Gläser gießen zu können. Aber
-der Spiegel verirrt alles. Und nachher, als wir tranken, behielt
+der Spiegel verriet alles. Und nachher, als wir tranken, behielt
 ich den Punsch im Munde, fiel dann über den Tisch, warf
 die Gläser um und ließ den Punsch aus dem Munde auf das
 Tischtuch rinnen. Meine Betäubung war Komödie. Der Kerl
@@ -828,7 +828,7 @@ war, ging er am anderen Morgen um 9 Uhr zum
 <@pagebreak/>
 Polizeidirektor mit dem Ausweis. Um 9 Uhr! Denn — der Godawari
 sollte ja schon um 7 Uhr am Kai festgemacht haben,
-verspätete sich aber ums 2 Stunden. Das wußte der unechte
+verspätete sich aber um 2 Stunden. Das wußte der unechte
 Tschong offenbar nicht. Sonst wäre er erst um 10 Uhr beim
 Polizeidirektor erschienen. — Nun noch etwas über sein Verhältnis
 zu uns. Er hat uns vorgestern dauernd beobachtet. Er
@@ -865,7 +865,7 @@ herab.
 Wir warteten, ob jemand durch den Lärm herbeigelockt
 werden würde. Nichts regte sich. So konnten wir denn nun
 den großen Koffer verlassen, drückten den Deckel wieder zu,
-tasteten nach den herabgefallenen Kisten legten sie wieder
+tasteten nach den herabgefallenen Kisten, legten sie wieder
 hinauf und verkrochen uns hinter einem Stapel von Fässern. —
 Es war hier ebenfalls vollständig finster. Wir hörten Regentropfen
 auf das Wagendach klatschen.
@@ -876,7 +876,7 @@ hielt. Der Stationsname wurde ausgerufen.
 »Ah — Pegu!« meinte Harst. »Eine größere Stadt. Hier
 <@pagebreak/>
 kommt sicher noch Fracht hinzu. Sobald der Wagen geöffnet
-wird, drücken wir uns, und wenn wir ein paar Boxhiebe anstellen
+wird, drücken wir uns, und wenn wir ein paar Boxhiebe austeilen
 müßten. Bleibe stets dicht hinter mir. Wir schlüpfen
 zwischen den Waggons durch nach der dem Stationsgebäude
 entgegengesetzten Seite.«
@@ -905,7 +905,7 @@ hatten uns am Bahnhof absetzen lassen und schlichen nun durch
 enge Seitengassen zum Zollhafen hinunter. Auch hier in Rangun
 regnete es. Wir gelangten unbemerkt an Bord unserer
 Jacht. Im Wohnsalon brannte noch Licht. Als wir eintraten,
-sprang unser Braver Kapitän Jakob Weber sofort auf, rief:
+sprang unser braver Kapitän Jakob Weber sofort auf, rief:
 
 »Gott sei Dank! Wenn Sie bis 6 Uhr morgens nicht erschienen
 wären, hätte ich Inspektor Worbster benachrichtigt.«
@@ -966,7 +966,7 @@ sich nachher, und ich merkte nur an den Bewegungen der Büsche,
 daß er am Boden mit irgend etwas herumhantierte. Am besten
 ist, wir erklettern ganz leise die Mauerkrone dort. Sie ist sehr
 breit, und es wächst so viel Unkraut da oben, daß es uns völlig
-verbergen wird. Ich fürchte der Kerl da draußen hat hier
+verbergen wird. Ich fürchte, der Kerl da draußen hat hier
 seinen Schlupfwinkel. Vorwärts, ich helfe Dir hinauf.«
 
 Der noch am besten erhaltene Mauerteil war die westliche
@@ -985,7 +985,7 @@ Harst schnitt nun noch Aussichtslöcher sowohl nach außen
 als nach innen in das Gestrüpp, zog jeden Busch sehr langsam
 heraus und schob ihn zur Seite. Dann kroch er etwas vor
 und hielt nach dem Birmanen Ausschau. Als er den Kopf
-mir wieder zuwandte hatte er die Augen halb zugekniffen.
+mir wieder zuwandte, hatte er die Augen halb zugekniffen.
 Sein Mund war zu einer schmalen Linie zusammengepreßt.
 
 »Was gibt’s, Harald?« fragte ich flüsternd.
@@ -999,7 +999,7 @@ waren, rauschte und knisterte es. Jemand kam also den
 Schleichweg entlang.
 
 Da — jetzt erschien — der Kopf einer Ziege; dann ein
-gelbbraunen Männerarm.
+gelbbrauner Männerarm.
 
 Der Birmane, ein schon grauhaariger Kerl mit einer geradezu
 auserlesenen Gaunervisage, schleppte eine frisch geschlachtete
@@ -1020,11 +1020,11 @@ mußte da eine Leiter geben. Dann zog er die tote Ziege hinterdrein.
 Mann und Tier verschwanden, und die steinerne
 Falltür schloß sich wieder völlig geräuschlos.
 
-»Na?« meinte Harst. »Ganz interessant, nicht« wahr?!«
+»Na?« meinte Harst. »Ganz interessant, nicht wahr?!«
 
 <@pagebreak/>
 »Etwas reichlich Proviant für einen einzelnen Mann,«
-flüsterte ich. »Das Fleisch muß doch versanken, ehe der Kerl
+flüsterte ich. »Das Fleisch muß doch verfaulen, ehe der Kerl
 es ganz aufessen kann, — bei der Hitze!«
 
 Harst lachte lautlos in sich hinein.
@@ -1073,7 +1073,7 @@ weit hinzog.
 
 Der Keller war mit Ballen, Kisten, Tonnen und altertümlichen
 Geräten angefüllt. Der erste Raum hatte quadratische
-Form und maß etwa acht Meter im Geniert. Die tote
+Form und maß etwa acht Meter im Geviert. Die tote
 Ziege lag in der Mitte, und daneben eine zweite, breitere
 Leiter.  Aber — merkwürdig genug! — der Tierkadaver war
 <@pagebreak/>
@@ -1200,7 +1200,7 @@ haben, falls sie nicht gerade aufgegeben worden war.
 Da — der Birmane stand auf, begann hin und her zu
 gehen, murmelte allerlei vor sich hin. So trieb er es mindestens
 zehn Minuten. Man merkte, daß er ungeduldig war,
-daß er aus irgend etwas wartete.
+daß er auf irgend etwas wartete.
 
 Dann — hob er die Leiter auf, lehnte sie oben gegen die
 viereckige Deckenöffnung und stieg langsam empor.
@@ -1222,7 +1222,7 @@ vor sich hinbrummelnd, nach dem runden Zugangsschacht,
 der in die Turmruine führte. Wir konnten ihn jetzt nicht mehr
 sehen. Aber der Tageslichtschimmer von dorther bewies, daß
 er die Falltür geöffnet hatte und in das Innere des Turmes
-hinaufgestiegen war. — Und wieder begann für uns dies quäkende
+hinaufgestiegen war. — Und wieder begann für uns dies quälende
 Warten, jetzt doppelt unangenehm, da wir befürchten
 mußten, daß der Doppelgänger uns mit den Werten entwischte.
 Als ich dies zu Harst äußerte, flüsterte er zurück: »Noch ist
@@ -1232,7 +1232,7 @@ Ich glaube, der falsche Tschong hat ihn hintergangen. Der
 Alte ist wütend. Vorhin verstand ich ein einzelnes birmanisches
 Wort »Pitochula«. Das bedeutet so viel als »gelber
 Pestpilz« und ist hier das gebräuchlichste Schimpfwort für die
-Chinesen.« Wir — Ah — er kommt.«
+Chinesen. Wir — Ah — er kommt.«
 
 Ja — er kam! Und er ging jetzt ganz anders als vorhin,
 <@pagebreak/>
@@ -1254,7 +1254,7 @@ und sagte in tadellosem Englisch:
 Für alle Fälle hatte ich mich hinter den Birmanen geschlichen,
 räusperte mich.
 
-Der Keil prallte zur Seite, fiel nun plötzlich in die Knie,
+Der Kerl prallte zur Seite, fiel nun plötzlich in die Knie,
 winselte vor Angst.
 
 Er glaubte, wir seien Polizeibeamte. Er versprach
@@ -1365,7 +1365,7 @@ Der Alte hob den Kopf, grinste schlau.
 »Nun also. — Ich halte mein Wort. 300 Pfund ist viel
 Geld. Außerdem verspreche ich Dir, Dich nicht der Polizei auszuliefern.«
 
-Der Birmane nickte eifrig. »Herr, schaute mich los. Ich
+Der Birmane nickte eifrig. »Herr, schnüre mich los. Ich
 vertraue Dir.«
 
 Er führte uns dann in den hintersten Kellerraum, stieg
@@ -1416,8 +1416,8 @@ verschwieg, was wir erlebt und durchgemacht hatten, wollte
 nur schnell hören, ob die Einäscherung ohne Zwischenfall vor
 sich gegangen sei.
 
-Ja — ohne jeden Zwischenfall,« meinte Worbster.
-»Tschong fand sich heute früh rechtzeitig ein. Wir verladen
+»Ja — ohne jeden Zwischenfall,« meinte Worbster.
+»Tschong fand sich heute früh rechtzeitig ein. Wir verluden
 die Leiche in einem Wagen und fuhren hinter diesem her, —
 wir, das heißt Tschong, Detektivsergeant Willing, ich und zwei
 Birmanen, die Tschong mitgebracht hatte. In den Ruinen
@@ -1427,7 +1427,7 @@ sammelte die Asche zusammen, tat sie in eine silberne Büchse
 und fuhr mit uns nach der Stadt zurück.«
 
 »Und doch sind Sie hintergangen worden, mein Lieber,«
-sagte Harst und stand von seinem Stulle auf. »Hatte die
+sagte Harst und stand von seinem Stuhle auf. »Hatte die
 Leiche noch die Sandalen an, als sie auf dem Scheiterhaufen
 lag?«
 
@@ -1447,7 +1447,7 @@ nicht umsonst abgetrennt.«
 
 »Sehr richtig, mein Alter. Die Sohle war doppelt. Dazwischen
 lag noch eine weiße Sohle aus faserigen Stoff, den ein
-Dummen für Filz halten konnte. Aber — es war Asbest!
+Dummer für Filz halten konnte. Aber — es war Asbest!
 Also ein Stoff dem weder Feuer noch Wasser etwas anhaben
 kann. Und — in dieser Zwischensohle liegt der Schlüssel aller
 Rätsel, liegen »die Werte«, wie ich mich ausdrückte. Wozu wohl
@@ -1476,14 +1476,14 @@ mir.« — Der Portier gab uns einen Boy mit. Dieser meldete
 uns an, kam zurück, bestellte:
 
 »Mr. Tschong bedauert sehr, die Herren nicht empfangen zu
-können. Er nackt seine Koffer und reist mit dem Tourdampfer
+können. Er packt seine Koffer und reist mit dem Tourdampfer
 abends nach Kalkutta ab.«
 
 Harst schob den Knirps einfach beiseite, öffnete die Salontür
 und trat schnell ein. Ich blieb dicht hinter ihm.
 
 Der Edelsteinhändler lag in einem Sessel und hatte eine
-Karosse Kognak vor sich stehen. Er erhob sich mühsam seiner
+Karaffe Kognak vor sich stehen. Er erhob sich mühsam seiner
 schmerzenden Fußgelenke wegen und verbeugte sich kühl.
 
 »Ich habe wirklich keine Zeit, meine Herren,« sagte er
@@ -1493,7 +1493,7 @@ Harst trat dicht an ihn heran, schaute ihm auf die Brillengläser,
 meinte dann:
 
 »Ich sehe, Sie sind der echte Tschong. — Ich habe nur
-einiges mit Ihnen zu besprechen.« Er setzte sich Unaufgefordert.
+einiges mit Ihnen zu besprechen.« Er setzte sich unaufgefordert.
 »Ich will Ihnen in aller Kürze einiges vorhalten, Herr
 Tschong,« fuhr er dann fort. »Ihr Doppelgänger ist Ihr
 Zwillingsbruder. Nur Zwillinge sehen sich derart ähnlich und
@@ -1518,7 +1518,7 @@ eine Sandale einarbeiten. — «
 Tschong war aufgesprungen, rief: »Wo — woher wissen
 Sie das? Ist das wahr? Haben Sie diese Sandale?«
 
-»Nein leider nicht. — Wollen Sie nun aber nicht endlich
+»Nein, leider nicht. — Wollen Sie nun aber nicht endlich
 offen uns gegenüber sein? Es wäre wirklich besser für Sie!«
 
 Tschong sank in den Sessel zurück. »Ja — ich will. Die
