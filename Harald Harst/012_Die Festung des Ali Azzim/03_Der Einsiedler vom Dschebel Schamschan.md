@@ -212,7 +212,7 @@ waren.
 
 Müller stöberte bald einen Araber auf, der etwas englisch
 sprach und im Dorfe als Händler weilte. Dieser lange Araber
-hatte ein Paar so stechende Augen, dass ich dem Kerl alles
+hatte ein Paar so stechende Augen, daß ich dem Kerl alles
 Schlechte zutraute.
 
 Während ich mit einem greisen Schwarzen um ein schön
@@ -273,7 +273,7 @@ Reitern:
 Helds Sicherheit!«
 
 Wir, Störmer und ich, wußten noch immer nicht, was
-Harst eigentlich befürchtete. Wir liefen jetzt, dass uns der
+Harst eigentlich befürchtete. Wir liefen jetzt, daß uns der
 Schweiß aus allen Poren drang. Endlich die ersten Hütten.
 Harst rannte dem Beratungsplatz in der Mitte des kreisförmig
 angelegten Dorfes zu. Dort jedoch nur noch verglimmende
@@ -1046,7 +1046,7 @@ Bergen herum, immer allein. Manche Leute behaupten
 hier, er hätte einen Schatz gesucht, von dem er irgendwie
 Kenntnis erhalten. Ich glaube das nicht.«
 
-Er räusperte sich. »Hm ja —« Sie sind ja nun ein berühmter
+Er räusperte sich. »Hm ja — Sie sind ja nun ein berühmter
 Detektiv geworden, lieber Herr Harst. Ich habe immer in
 den Berliner Zeitungen mit wahrer Gier nach neuen Erfolgen
 bei Ihrer Millionenwette gesucht. Mit Ihnen möchte ich —
@@ -1086,7 +1086,7 @@ das zu schweigen, was ich Ihnen jetzt anvertrauen will, dann
 feststellen, Herr Sachsenhauer. — Nun gut, — ich habe
 also Ihr Versprechen.« — Er begann unser Abenteuer auf der
 Westerland zu erzählen, flocht dabei den auch mich interessierenden
-Satz ein: Wenn ich dem Kapitän des Schoners also mit
+Satz ein: »Wenn ich dem Kapitän des Schoners also mit
 so großer Bestimmtheit sagte, Hilde Held solle nach Aden gebracht
 werden, so war das von mir durchaus kein Schuß ins
 Blaue hinein, sondern eine sehr kühl überlegte Antwort.
@@ -1232,7 +1232,7 @@ hinüber. Deshalb auch meine plötzliche Arbeitswut.«
 »Etwa der Soldat, der mit Ali ben Barka —«
 
 »Wer sonst?!« unterbrach er mich. »Die Sache hier wird
-recht interessant!« — Wir wollen jetzt mal fromm werden und
+recht interessant! — Wir wollen jetzt mal fromm werden und
 dem Einsiedler von Schamschan einen Besuch abstatten, der bekanntlich
 nur nach Dunkelwerden die zahlreichen Pilger
 empfängt, die zu ihm wallfahrten, und auch nur wöchentlich
@@ -1475,7 +1475,7 @@ eine chiffrierte Funkendepesche nach Aden. Kaum erledigt,
 spricht er »Zahnarzt Müller« an, klagt über Zahnschmerzen,
 verschwindet in Müllers Kabine, der doch — kein Zahnarzt
 war. Und — Hasting trägt dauernd Handschuhe! Auch sehr
-faul. Er muss also irgend ein Merkmal an den Händen haben,
+faul. Er muß also irgend ein Merkmal an den Händen haben,
 das er verdecken will. Nun wissen wir ja: einen riesigen
 Leberfleck auf dem rechten Handrücken. Und einen solchen
 Mann sucht die Londoner Polizei, wie man bei der hiesigen

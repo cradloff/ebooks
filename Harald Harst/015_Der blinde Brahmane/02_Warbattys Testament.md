@@ -108,7 +108,7 @@ daß —«
 
 »— Warbatty nur ein Gift zu sich genommen hat, das den
 indischen Yoga seit langem bekannt ist,« vollendete er meinen
-Satz. Also ein Gift, das die Yoga oder Fakire dazu benutzen,
+Satz. »Also ein Gift, das die Yoga oder Fakire dazu benutzen,
 ihr oft angestauntes Experiment des Lebendigsichbegrabenlassens
 auszuführen. Du weißt, daß die Yogi, die eine besondere
 Kaste bilden, sich bis zu acht Wochen Dauer zwei
@@ -602,7 +602,7 @@ ist »er« unser Freund Cecil —«
 — dann muß Warbatty also zunächst aus Madras entwichen
 sein und zweitens sich einen linken Zeigefinger haben annähen
 lassen! Denn Pickering hatte alle seine zehn Finger in
-bester Verfassung am speckigen Leibe —
+bester Verfassung am speckigen Leibe —«
 
 Harst achtete kaum auf diesen Einwand. Er stieg ab und
 führte sein Pferd langsam vorwärts zwischen Säulenresten
@@ -1215,7 +1215,7 @@ Fuße einer eingestürzten Mauer.
 »Er wird sofort mit seiner Bande erscheinen,« flüsterte
 Harst.
 
-»Wer?"
+»Wer?«
 
 »Warbatty!«
 

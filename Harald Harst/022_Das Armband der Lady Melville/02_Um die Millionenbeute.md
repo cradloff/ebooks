@@ -985,9 +985,9 @@ so lautete das Telegramm.
 
 Harst stand auf. »Es wird kühl; gehen wir. Die Sonne
 hat nur für eine halbe Stunde mit ihrer Wärme geprahlt.
-Es ist auch Zeit, daß Du Bloomberg besuchst.
+Es ist auch Zeit, daß Du Bloomberg besuchst.«
 
-Um 3 Uhr nachmittags schließt er seinen Antiquitätensalon,«
+»Um 3 Uhr nachmittags schließt er seinen Antiquitätensalon,«
 sprach Harst weiter. »Du wirst sehr vorsichtig sein
 müssen. Bloomberg dürfte gerade jetzt überaus mißtrauisch
 sein. Der Laden befindet sich in der Drottninggatan Nr. 51.
@@ -1082,7 +1082,7 @@ Bloomberg biß sofort an. »Gewiß — gewiß — ich habe
 sogar einige Sachen, die einen Millionenwert darstellen —«
 
 »Das tut nichts. Wenn sie nur echt sind und — ihre Geschichte
-haben.« Ich lächelte Boomberg an und kniff das eine
+haben.« Ich lächelte Bloomberg an und kniff das eine
 Auge zu. »Diese Geschichte darf sogar — hm — etwas abenteuerlich
 sein. In dieser Beziehung denke ich wie mein Freund
 Seymour aus Chikago, der Schweinekönig, — Sie wissen
@@ -1356,7 +1356,6 @@ einen Verrat auf den Kopf zugesagt und dabei dieses Waschlappens
 sicherlich scheues Benehmen richtig gedeutet und —
 über die Verräterei mit einer Revolverkugel quittiert haben!
 <@pagebreak/>
-
 — Wenn nur Brodersens Leute —«
 
 Laute Schritte draußen im Flur. Die Tür flog auf.

@@ -1148,7 +1148,7 @@ regungslos da und starrte dem Boote anscheinend in tiefes
 Nachdenken verloren geistesabwesend nach.
 
 Shesney wurde ungeduldig. »Was fehlt Ihnen, Harst?!
-Sie machen ja ein Gesicht als ob —
+Sie machen ja ein Gesicht als ob —«
 
 »— als ob die Sache schief gehen wird,« vollendete Harst.
 »Vorwärts — versuchen wir einzurenken, was noch

@@ -198,7 +198,7 @@ Ich würde wahnsinnig werden, wenn —«
 Inspektor Greaper machte eine bedauernde Handbewegung.
 
 »Tut mir leid. Darüber hat der Untersuchungsrichter zu
-bestimmen. — Wir können nun wohl gehen, Master Harst —
+bestimmen. — Wir können nun wohl gehen, Master Harst —«
 
 Wir verließen die Zelle. Die Tür fiel lautlos zu.
 
@@ -1217,7 +1217,7 @@ eingeschmuggelt hat,« fügte er hinzu. »Wir werden
 vielleicht mehrere Abende hier zubringen müssen. Ich
 könnte den Menschen ja sofort entlarven. Aber dann würde
 mir Warbatty entgehen, der ohne Zweifel auch hier wieder
-der eigentliche »Macher« ist.
+der eigentliche »Macher« ist.«
 
 Ich konnte nicht anders. Ich ließ ein zweifelndes »Hm
 — stimmt das alles auch?!« hören. »Du hast so oft schon
@@ -1240,7 +1240,7 @@ Howard Galver mit seinen neun!«
 Genügt Dir dies, lieber Schraut? Neun Finger! Und
 unserem Cecil fehlt der linke Zeigefinger!«
 
-»Allerdings!« Jetzt erkläre auch ich: Warbatty —«
+»Allerdings!« Jetzt erkläre auch ich: »Warbatty —«
 
 »Still!« unterbrach Harst mich da. »Armstrong hat soeben
 die Bibliothek betreten und meldet sich bei dem Maharadscha

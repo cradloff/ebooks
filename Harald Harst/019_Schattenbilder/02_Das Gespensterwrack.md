@@ -330,7 +330,7 @@ hier nämlich eine kleine Malerkolonie jeden Sommer, darunter
 auch stets Deutsche.«
 
 »So so. Dann sind wohl jene älteren Herrschaften dort
-hinten auch Maler?
+hinten auch Maler?«
 
 »Nein. Die kenne ich wenigstens nicht. Es müssen
 Fremde sein. Der Herr mit der goldenen Brille spricht norwegisch
@@ -486,7 +486,7 @@ Wenn man von dem Gespensterwrack spricht, werden sie mit
 einem Male sehr still und fangen schnell von was anderem zu
 reden an.«
 
-»Ist das alles, Herr Torgelson?" fragte Harst nun.
+»Ist das alles, Herr Torgelson?« fragte Harst nun.
 
 »Ja. Ick denke aber, es ist gerade genug, um den Namen
 Gespensterwrack zu rechtfertigen.«

@@ -523,7 +523,7 @@ hinabstiegen, kam uns der Obermaschinist Blonk entgegen,
 <@pagebreak/>
 machte aber sofort kehrt und sagte dann zu Harst ganz aufgeregt:
 
-Denken Sie, Master Harst, soeben habe ich festgestellt,
+»Denken Sie, Master Harst, soeben habe ich festgestellt,
 daß nur gerade der Ballon Schmieröl, den wir jetzt benutzen,
 verdorben ist: Ich wette: jemand hat in den Ballon irgend
 eine Säure hineingegossen. Die anderen drei Ballons sind
@@ -620,7 +620,7 @@ auf der Haut zwei Flecke zu erkennen, die nur von den
 Daumenspitzen dessen herrühren dürften, der Ambermakry mit
 den Händen und einer Tuchschlinge halb erdrosselte und dabei
 die Daumen in das Genick einstemmte, um den Druck
-zu verstärken.
+zu verstärken.«
 
 »Die — die übliche Mordart der — Thug!« flüsterte
 der Lord geistesabwesend und mit völlig verstörtem Gesicht.
@@ -833,7 +833,7 @@ danach.«
 Der Alte faßte an die Mütze. »Sehr wohl, Mylord! Mir
 liegt Euerer Lordschaft Sicherheit wahrhaftig am Herzen.« —
 
-Eine halbe Stunde später saßen wir im großen Solon
+Eine halbe Stunde später saßen wir im großen Salon
 beim Abendessen. Harst verstand es, die gedrückte Stimmung
 schnell zu beleben. Die Unterhaltung wurde zwanglos
 und angeregt.
@@ -1174,7 +1174,7 @@ um sein Fernrohr holen zu lassen. Gleichzeitig hatten
 wir dem Kapitän erklärt, wir würden sobald es Tag
 sei, das Schiff nochmals durchsuchen. Was in der Schlafkabine
 inzwischen geschehen, hatten wir ihm verheimlicht. Wir
-wollten nun im Solon in den Sesseln noch eine Stunde schlafen.
+wollten nun im Salon in den Sesseln noch eine Stunde schlafen.
 Pellertan war aber argwöhnisch geworden.
 
 »Master Harst — nur heraus damit, es ist etwas passiert,«
@@ -1371,11 +1371,11 @@ Pellertan lachte jetzt dröhnend auf, so daß Harst schweigen
 mußte.
 
 »Aber Master Harst!« rief er mit unverkennbarer Ironie,
-das alles sind doch nur so weit hergeholte Vermutungen
+»das alles sind doch nur so weit hergeholte Vermutungen
 daß —«
 
 »Noch einen Augenblick!« fiel ihm Harst ins Wort.
-Wollen Sie mir eine andere einleuchtendere Erklärung für
+»Wollen Sie mir eine andere einleuchtendere Erklärung für
 dieses Verschwinden der Ferngläser geben? — Dann bitte!
 Dieser Mensch müßte ja ein Irrsinniger sein, wenn er —
 doch fraglos recht gefährliche Wagnisse! — in die Kabinen

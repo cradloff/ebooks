@@ -133,7 +133,7 @@ Ich saß derweil in unserem Abteil. Ich hatte erst den
 Gelbbraunen und gleich darauf Harst an der Tür
 <@pagebreak/>
 vorüberhuschen
-sehen und sagte mir, dass unsere Tätigkeit in Palermo
+sehen und sagte mir, daß unsere Tätigkeit in Palermo
 wohl schon mit einem kleinen Abenteuer hier im Zuge beginnen
 würde.
 
@@ -346,7 +346,7 @@ Die Gräfin streckte Harst die abgezehrte Hand hin. »Ich
 danke Ihnen. Sie sind ein gütiger, ein guter Mensch. — Ja
 — es gibt eine Verbindung zwischen unserem Schlafzimmer
 und diesem Gemach — dort im Wandgetäfel.« Sie deutete etwas
-rechts neben den riesigen Eichenschrank. Alfio kennt die
+rechts neben den riesigen Eichenschrank. »Alfio kennt die
 Geheimtür nicht. Ich vertraue ihm gerade so etwas ungern
 an, denn — er sucht mit allem Geld zu verdienen, nur um
 mich pflegen zu können. — Ich entdeckte jene Tür zufällig
@@ -370,7 +370,7 @@ hat.
 Harst stand auf, holte ein sauberes Weinglas aus seinem
 Koffer und schenkte es für die Gräfin voll. Der dunkelgelbe
 Sizilianer Wein sah im Schein der Abendröte wie Blut aus.
-— Bitte, trinken Sie, Frau Gräfin. — Und dann erleichtern
+»— Bitte, trinken Sie, Frau Gräfin. — Und dann erleichtern
 Sie sich Ihr Herz ohne Scheu. Mir sind schon viele Geheimnisse
 mitgeteilt worden, und vielen seelisch Bedrückten habe ich
 helfen dürfen, — nicht nur durch Geld oder dergleichen, nein,
@@ -429,7 +429,7 @@ blieb drei Wochen. Dann fuhr er nach Wien zurück. Ja —
 denken Sie — und gerade als Alfio Sie beide vorhin hierher
 gebracht hatte und Sie eingezogen waren, schickte Sendling
 aus dem Hotel Imperial in Palermo durch einen Boten
-einen Brief und teilte uns mit, dass er die Zimmer wieder
+einen Brief und teilte uns mit, daß er die Zimmer wieder
 für 14 Tage belegen möchte. Nun — wir gaben ihm natürlich
 den Bescheid, die Räume seien jetzt nicht zu haben.«
 

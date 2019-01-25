@@ -188,7 +188,7 @@ das Boot dort drüben zuhielt.
 Wir näherten uns dem offenbar leeren plumpen Bretterkahne
 sehr schnell.
 
-Weshalb bist Du denn so begierig, Dir gerade das Boot
+»Weshalb bist Du denn so begierig, Dir gerade das Boot
 dort genauer anzusehen?« fragte ich.
 
 »Oh — Du weißt ja, mein Lieber, ich leide manchmal an
@@ -415,7 +415,7 @@ Harst rieb ihr die Schläfen mit Flußwasser ein, dann mit
 Spiritus aus der Reiseapotheke. Es half nichts.
 
 »Hoffentlich versagt das Herz nicht,« flüsterte er besorgt.
-»Der Schreck für das bedauernswerte Geschöpf muss ja auch
+»Der Schreck für das bedauernswerte Geschöpf muß ja auch
 entsetzlich gewesen sein. — Jedenfalls trifft meine erste
 Vermutung nicht zu. Ich glaubte, sie hätte sich gewehrt und
 dabei jemandem hier im Boot die falschen Haare ausgerissen.
@@ -474,7 +474,7 @@ ein —«
 »Das geht nicht!« fiel ihm Harst ins Wort »Wir haben
 es eilig. — Würden Sie uns das Motorboot für einen Tag,
 besser, bis heute abend leihen? Ich biete Ihnen zehn Pfund
-und lasse Ihnen 500 Pfund als Sicherheit da.
+und lasse Ihnen 500 Pfund als Sicherheit da.«
 
 Der Holländer schüttelte lächelnd den Kopf. »Wenn’s so
 weiter geht, werde ich durch das kleine Motorfahrzeug noch
@@ -847,7 +847,7 @@ Harst stand an dem Motorkasten.
 
 »Sie haben in dem einen farbigen falschen Hafenpolizisten
 also Warbatty erkannt, Master Harst?« meinte Plumper nun.
-Sie müssen geradezu Katzenaugen haben — im Dunkeln
+»Sie müssen geradezu Katzenaugen haben — im Dunkeln
 sehen!«
 
 »Oh — gute Augen habe ich, das stimmt,« entgegnete

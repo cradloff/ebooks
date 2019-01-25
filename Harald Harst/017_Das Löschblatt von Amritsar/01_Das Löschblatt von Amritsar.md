@@ -632,7 +632,7 @@ also war Harst? — Nichts gab mir darauf Antwort.
 Ich fragte den Zugführer, ob Harst sich denn noch irgendwie
 um die Aufklärung des Mordes bemüht hätte.
 
-»Nein, Master. Gar nicht! Leider —" Der Beamte
+»Nein, Master. Gar nicht! Leider —« Der Beamte
 tat ein wenig gekränkt.
 
 <@pagebreak/>
@@ -1096,7 +1096,7 @@ ungeschliffenen Edelstein in einer Falte der Aktentasche Steltons
 zu packen,« erklärte er weiter. »Dem Mörder, der es
 sehr eilig hatte, die Tasche auszuräumen, ist es entgangen,
 genau wie der eine Stein. — Ich werde es Dir vorlesen. —
-Die Maschinenschrift verrät nichts. Die Unterschrift ist vielsagend
+Die Maschinenschrift verrät nichts. Die Unterschrift ist vielsagend.
 — Es lautet also: »Herrn Rechtsanwalt Stelton,
 Lahore — wir wissen genau, daß Sie in Ihrer Eigenschaft als
 Notar seiner Zeit den Vertrag über die sogenannte Mikarisa-Diamantmine

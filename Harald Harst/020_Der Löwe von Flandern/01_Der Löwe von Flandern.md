@@ -135,7 +135,7 @@ meine »Unterstützung« bittet, muß Palperlon freilich warten.
 Selbstverständlich verschweigst Du dem Inspektor gegenüber
 diesen Matrosen, lieber Schraut. Du kennst mich ja: ich gebe
 keine Trümpfe aus der Hand, spiele sie stets erst zum Schluß
-aus.
+aus.«
 
 Als wir dann kaum im Piperviken wieder an der alten
 Stelle den Optimus vertäut hatten, kam auch schon der blonde
@@ -212,7 +212,7 @@ Er lag fraglos. Was sollte dies?!
 kommt jedoch abends zurück. Sie treffen ihn sehr wahrscheinlich
 noch nach neun Uhr in der deutschen Bierstube in der
 Karl Johans Gade (Straße) an. Ich rate Ihnen dringend,
-»Hecker zu bitten, Ihnen beizustehen. Er ist Fachmann für
+Hecker zu bitten, Ihnen beizustehen. Er ist Fachmann für
 alles, was die Seefahrt angeht. Sie erkennen ihn leicht an
 dem rötlichen Spitzbart und der Hornbrille. Wo er hier in
 Christiania wohnt, weiß ich nicht. Er dürfte seinen Freund
@@ -289,7 +289,7 @@ Name ist Hecker. Aber — «
 <@pagebreak/>
 
 Der Inspektor erklärte hastig, daß Herr Harst ihm geraten
-habe, — und so weiter.« Er erkannte weder Harst noch
+habe, — und so weiter. Er erkannte weder Harst noch
 mich.
 
 Wir gingen, Lundström in der Mitte, die Karl Johans
@@ -394,7 +394,7 @@ Der Sprecher hatte ein Ende starke Schnur aus der Tasche
 geholt, band erst Harst die Handgelenke zusammen, dann auch
 mir.
 
-»So,« meinte er, Jetzt rate ich Ihnen, nicht etwa um Hilfe
+»So,« meinte er, »Jetzt rate ich Ihnen, nicht etwa um Hilfe
 zu rufen. Das hätte auch wenig Zweck bei dem Lärm, den
 der Regen macht.«
 <@pagebreak/>
@@ -1030,7 +1030,7 @@ in der Kajüte sich unterhalten. Der zweite ist vielleicht —«
 Er lachte leise.
 
 Und mir ging eine Ahnung auf! — »Herr Nichts Niemand
-gewesen!" vollendete ich.
+gewesen!« vollendete ich.
 
 »Ja — und dieser Herr Nichts war nicht mehr in der
 Kajüte oder hatte sich versteckt,« meinte Harst gutgelaunt.
@@ -1254,7 +1254,7 @@ hindeuteten, sich verborgen haben, bis er dann in Christiania
 sich herauswagte. Es kann einer der Mörder des Chinesen
 sein! Kann! Aber — das schwebt noch alles zu haltlos
 in der Luft. Genau so wie meine Annahme, daß Hollborn
-sowohl die vier indischen Mastrosen der Brigg als auch deren
+sowohl die vier indischen Matrosen der Brigg als auch deren
 <@pagebreak/>
 Steuermann Rouvier und den anderen Kolomboer Räuber zu
 den Fischen geschickt hat, mit Planboom gemeinsame Sache
@@ -1406,7 +1406,7 @@ heiser und beleckte nervös die dünnen blutleeren Lippen.
 Harst, langte nach einer Kiste und setzte sich. Auch ich hatte
 darauf noch Platz. »Wie hat es Ihnen in Kolombo gefallen,
 <@pagebreak/>
-»Herr Graf?« fuhr er fort, während der weiße Lichtkegel dauernd
+Herr Graf?« fuhr er fort, während der weiße Lichtkegel dauernd
 das verstörte Gesicht des Polen umspielte.
 
 Abermals zuckte der Blasse zusammen. Und Harst fügte
@@ -1459,7 +1459,7 @@ unter uns.
 Harsts Füße arbeiteten bereits, stießen das Heu beiseite.
 Darunter kramen Eichenplanken zum Vorschein.
 
-»Wir sitzen über einem der unterirdischen Kanäle, erklärte
+»Wir sitzen über einem der unterirdischen Kanäle,« erklärte
 er. »Hier in Amsterdam ist schon mancher Fremde
 <@pagebreak/>
 spurlos verschwunden. Die Graachten könnten manche Tragödie
@@ -1515,7 +1515,7 @@ Der »Graf« hatte den Kopf vorgereckt, hatte alles mitangehört.
 kreischte er jetzt förmlich. »Sie werden mich ermorden! Sie
 kennen kein Erbarmen, diese — diese —«
 
-»Still!« — Ausliefern werde ich Sie nur, wenn Sie mir
+»Still! — Ausliefern werde ich Sie nur, wenn Sie mir
 nicht gestehen, wer Sie sind und was auf dem Löwen von
 Flandern vorgegangen ist. Wollen Sie die Wahrheit sagen?«
 

@@ -255,7 +255,7 @@ Dann sagte er laut, völlig harmlos tuend:
 
 »Die Motorbootrennen in Monte Carlo sind wohl die berühmtesten,
 lieber Schraut. Ich habe Gelegenheit gehabt, selbst
-einmal ein solches Rennen mitzumachen —"
+einmal ein solches Rennen mitzumachen —«
 
 Worbster und der Inder Achmed waren eingetreten.
 
@@ -371,7 +371,7 @@ weshalb unsere Lage Dir nicht gefährlich dünkt?! Es macht
 doch nichts aus, daß Du sofort Verdacht geschöpft hattest, und
 es dürfte —«
 
-»Oho — macht nichts aus?! Er lächelte ein wenig.
+»Oho — macht nichts aus?!« Er lächelte ein wenig.
 »Warte nur ab —« —
 
 Nachdem das Boot eine halbe Stunde irgendwo in ganz
@@ -996,7 +996,7 @@ ohne Zweifel gegen den Lord erfolgende Mordanschlag
 nicht gänzlich — eben durch die Festnahme unmöglich gemacht
 wird.«
 
-Der Lord und Morris riefen jetzt in einem Atem: Mordanschlag?!«
+Der Lord und Morris riefen jetzt in einem Atem: »Mordanschlag?!«
 
 »Allerdings. — Doch — das können wir nachher besprechen.
 — Wünschen Sie nun mit mir gemeinsam gegen
@@ -1022,7 +1022,7 @@ Fragen bestürmen. Er kam damit aber an den Unrechten.
 
 »Ich rede stets erst dann, wenn es unbedingt nötig ist,
 <@pagebreak/>
-Master Morris,« sagte Harst ganz freundlich. Kennen Sie
+Master Morris,« sagte Harst ganz freundlich. »Kennen Sie
 Doktor Rouvier genauer?«
 
 »Ja.«
@@ -1397,7 +1397,7 @@ Rockwell war durch das unerwartete Erscheinen »Sagtons«
 und durch die ganze Rührszene so überrascht, daß er
 zunächst kein Wort hervorbrachte.
 
-Da fuhr Warbatty schon fort: Mein lieber Schwiegersohn,
+Da fuhr Warbatty schon fort: »Mein lieber Schwiegersohn,
 ich will Sie nicht weiter aufregen. Ich weiß, Sie sind
 schwerkrank. Doktor Rouvier hat mir auch nur gestattet
 ganz kurze Zeit hier bei Ihnen zu bleiben. Ein Händedruck
@@ -1422,7 +1422,7 @@ wahrnehmen.«
 Morris wieder — oh, dieser Idiot von Morris! — sagte
 zu Rockwell:
 
-Sie sehen, Mylord, daß die Sache nun doch ein wenig
+»Sie sehen, Mylord, daß die Sache nun doch ein wenig
 anders gekommen ist, als Ihr neuer Helfer —«
 
 »Verdammt!« entfuhr es Harst. Er richtete sich schnell
@@ -1520,7 +1520,7 @@ Teppich gleiten; er regte sich nicht mehr. —
 
 Harst schaute Morris ernst an.
 
-Erkennen Sie nun, was Sie angerichtet haben?! —
+»Erkennen Sie nun, was Sie angerichtet haben?! —
 Gerade der Hauptschuldige ist entwischt. Ich werde nicht zögern,
 Ihr Verhalten Ihren Vorgesetzten —«
 

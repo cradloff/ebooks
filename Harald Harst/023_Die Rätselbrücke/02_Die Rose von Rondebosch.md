@@ -200,7 +200,7 @@ Dann wandte er den Kopf nach Garner hin.
 
 »Ich habe mir vorhin nicht Zeit gelassen, Ihnen etwas auf Ihre Worte zu erwidern. Mein Neffe ist niemals der Dieb – niemals! Ich kann Ihnen beweisen, daß Edward
 <@pagebreak/>
-stets mit Glück gespielt und gewettet hat. Er hat auf der Bank ein Guthaben von 18 000 Pfund. Ich bitte Sie dringend, Garner, nichts von diesem völlig unberechtigten Verdacht in die Öffentlichkeit gelangen zu lassen – sehr dringend! Die Obduktion der Leiche wird Ihre Annahme eines Selbstmordes sofort wiederlegen. Edward hat sich nie und nimmer vergiftet. Es kann sich nur um einen Herzschlag handeln. Vor drei Jahren hatte er sich beim Rudertraining einen Herzfehler zugezogen. Zuweilen klagte er noch jetzt über Beschwerden. Er war ein tadelloser Charakter, der gute Junge. Sein Andenken darf durch Sie nicht herabgesetzt werden, Garner! Der Ärmelknopf, den Sie gefunden haben, beweist nichts – nichts!«
+stets mit Glück gespielt und gewettet hat. Er hat auf der Bank ein Guthaben von 18 000 Pfund. Ich bitte Sie dringend, Garner, nichts von diesem völlig unberechtigten Verdacht in die Öffentlichkeit gelangen zu lassen – sehr dringend! Die Obduktion der Leiche wird Ihre Annahme eines Selbstmordes sofort widerlegen. Edward hat sich nie und nimmer vergiftet. Es kann sich nur um einen Herzschlag handeln. Vor drei Jahren hatte er sich beim Rudertraining einen Herzfehler zugezogen. Zuweilen klagte er noch jetzt über Beschwerden. Er war ein tadelloser Charakter, der gute Junge. Sein Andenken darf durch Sie nicht herabgesetzt werden, Garner! Der Ärmelknopf, den Sie gefunden haben, beweist nichts – nichts!«
 
 Er hatte sich in eine gewisse Wärme hineingeredet. Man fühlte, daß alles, was er sagte, ehrlich gemeint war. Jetzt blickte er auf Harst.
 

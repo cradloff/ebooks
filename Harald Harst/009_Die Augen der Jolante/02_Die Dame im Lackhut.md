@@ -306,7 +306,7 @@ begann er: »Unsere Aufgabe lautet diesmal:
 Kurier vom 16., 22. und 28. Mai des Jahres, Morgenausgabe,
 links oben, Seite 6, Kugelrand.«
 
-»Sie kennen diese Annoncen, Schraut. Wir haben sie uns ja
+Sie kennen diese Annoncen, Schraut. Wir haben sie uns ja
 genügend angesehen. Trotzdem will ich sie Ihnen nochmals
 vorlesen. Nummer eins, vom 16., fünf Zentimeter hoch, acht
 Zentimeter lang, hat den Wortlaut:
@@ -1138,7 +1138,7 @@ gewisse Rolle, sind nie sie selbst, weil sonst aus allen Winkeln
 bei ihnen der Halunke hervorgrinsen würde. Und — er war
 gestern in Berlin, ist spät abends hingefahren. Es schien ihm
 peinlich, daß angeblich ein Bahnbeamter seine Abfahrt bemerkt
-hatte. Das gibt zu denken —
+hatte. Das gibt zu denken —«
 
 Wir betraten den Warteraum, bestellten etwas Warmes
 und eine Flasche Rotwein und Harst biederte sich mit dem
@@ -1179,7 +1179,7 @@ bemerkt.
 
 Harst wollte feststellen, ob Barentraubs nicht doch daheim
 wären. — »Man muß eben alles nachprüfen, Schraut,« hatte
-er zu mir gesagt. Obwohl ich jetzt die beiden Zwillinge aus
+er zu mir gesagt. »Obwohl ich jetzt die beiden Zwillinge aus
 meinen Berechnungen schon so gut wie ausgeschaltet habe.«
 
 <@pagebreak/>

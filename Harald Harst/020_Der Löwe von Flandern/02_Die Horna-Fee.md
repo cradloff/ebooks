@@ -281,7 +281,7 @@ Er hatte Pedersen befohlen, ihn nach zwei Stunden wieder
 abzuholen. Der Optimus aber sollte nun sofort die Insel
 nach Westen zu umrunden und feststellen, wie breit der Meeresarm
 zwischen ihr und der schmalen Landzunge war, die die
-Einfahrt in den Horna-Fjord so sehr verengerte.«
+Einfahrt in den Horna-Fjord so sehr verengerte.
 
 Die Jacht, getrieben von dem Aushilfsmotor, war in
 kurzem um die Südwestecke der kleinen Insel herum, und wir

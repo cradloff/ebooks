@@ -680,7 +680,7 @@ Indiens, waren einst erbitterte Gegner aller Weißen,
 <@pagebreak/>
 sind jetzt aber zu einem Verbrecherbunde herabgesunken. Ich
 nehme an, daß Du ein Putra Rakisana bist. Sonst hättest Du
-nicht diese Frage an mich gerichtet.
+nicht diese Frage an mich gerichtet.«
 
 »Es ist so, Sahib. Warbatty ist vorgestern in den Bund
 aufgenommen worden. — Kennst Du den unterirdischen Tempel
@@ -1459,7 +1459,7 @@ zu gehören. Wahrscheinlich ist auch Dsangpo ein Putra Rakisana,
 ein Bruder des Schwertes, ebenso der Tierarzt, obwohl
 dieser auf mich einen harmlosen Eindruck macht.«
 
-»Sahib,« rief Jang Aug da, »ich bin nicht Mitglied des
+»Sahib,« rief Jang Aud da, »ich bin nicht Mitglied des
 Geheimbundes. Erst vorgestern hat Dsangpo mich mit Warbatty
 bekannt gemacht. Ich sollte 1000 Rupien für die Sektion
 erhalten und ein Zwanzigstel von dem Werte der Steine.«

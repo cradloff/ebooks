@@ -263,7 +263,7 @@ meiner Mutter wertvoller als ihr ganzer übriger Schmuck.
 Es ist das erste kostbare Geschenk, das mein Vater ihr machen
 konnte. Deshalb trug sie die Brosche auch stets.«
 
-»Vielleicht ein Einbruch, ein Diebstahl?" sagte ich unsicher.
+»Vielleicht ein Einbruch, ein Diebstahl?« sagte ich unsicher.
 
 »Aber Schraut! Ein Palperlon und Schmuck stehlen,
 der insgesamt vielleicht 100 000 Mark Wert hat?! Ein
@@ -1477,7 +1477,7 @@ zwischen die Zähne. Aber — das alles besorgte
 nicht der Mann mit dem Zuluspeer, sondern — ein blondes
 Weib, das auf dem Kopf einen hellen Filzhut hatte und dazu
 einen sehr dichten weißen Schleier mit schwarzen Tupfen
-trug, der ihr Antlitz völlig unkenntlich machte.«
+trug, der ihr Antlitz völlig unkenntlich machte.
 
 Und dieses Weib hatte Kraft, war gewandt! Das merkte
 ich nur zu gut! — Daß Miß Maud Simpkinson mir all diese

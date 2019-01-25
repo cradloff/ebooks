@@ -1040,7 +1040,7 @@ Bisher hatten wir aus dem Zimmer keinen Laut vernommen.
 
 Jetzt aber rief der Prinz strengen Tones:
 
-Ich befehle Dir — antworte! Was sollten die beiden
+»Ich befehle Dir — antworte! Was sollten die beiden
 farbigen Laternen?«
 
 Er sprach das Englische fehlerfrei und fließend.

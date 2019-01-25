@@ -724,7 +724,7 @@ auffallend nachdenklich aussah.
 
 »Nun?« fragte ich. »Erfolg gehabt?«
 
-»Ja, mein Alter« flüsterte er zurück. »Trotzdem bin ich
+»Ja, mein Alter,« flüsterte er zurück. »Trotzdem bin ich
 etwas enttäuscht oder besser beunruhigt, denn der Helfershelfer
 der Kesselreisenden ist ein — Weib! — Ich kam unbemerkt
 hinter den Kessel und schmiegte mich neben das eine

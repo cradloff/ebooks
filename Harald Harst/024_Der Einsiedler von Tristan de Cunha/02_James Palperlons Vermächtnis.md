@@ -132,7 +132,7 @@ und nicht gerade in die meinen geriet, nicht entziffert werden
 sollte. Palperlon hat hier also eine geheime Urkunde
 in der Ueberzeugung geschaffen, daß ich ihren Text schon heraustüfteln
 würde. Na — unser ehemaliger Feind hat sich in
-mir nicht getäuscht. Der Text ist schon gefunden.
+mir nicht getäuscht. Der Text ist schon gefunden.«
 
 Ich blickte ihn überrascht an.
 
@@ -264,7 +264,7 @@ entgehen?«
 Ich gebe zu: mir war es kalt über den Rücken gelaufen
 bei diesem Bericht über die Tragödie einer ganzen Familie.
 
-Harst schaute mich sinnend an. Bisher sind auf Edward
+Harst schaute mich sinnend an. »Bisher sind auf Edward
 Wolpoore siebzehn noch rechtzeitig vereitelte Attentate verübt
 worden,« sprach er nachdenklich weiter. »Chester Blindley
 sagte zu mir: »Offiziell sind ja die Thug längst ausgerottet.

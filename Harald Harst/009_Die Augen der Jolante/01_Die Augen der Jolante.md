@@ -1401,7 +1401,7 @@ mußte ein Seemann seinem tiefgebräunten Gesicht nach sein.
 der Jacht hinüber, während der Gemeindevorsteher den neuen
 Gefangenen mit Hilfe seines Revolvers in Schach hielt. Zu
 unserem Erstaunen fanden wir auf der Jacht dann nur einen
-alten, einfachen Mann und einen halsbwüchsigen Burschen vor.
+alten, einfachen Mann und einen halbwüchsigen Burschen vor.
 
 Der alte Graubart zeigte sich sofort zugänglicher. »Ich
 wußte, daß die Geschichte eines Tages böse enden würde,«

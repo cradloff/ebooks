@@ -553,7 +553,7 @@ des Toten erst 3000, dann 10000, jetzt sogar
 Koch, der erst kurze Zeit bei ihm dient. — Ist das
 nicht sehr, sehr merkwürdig?! Merkwürdig selbst für einen
 hundertfachen Millionär?!« — »Allerdings. Das ist mir auch
-schon ein wenig eigenartig erschienen," erklärte ich der Wahrheit
+schon ein wenig eigenartig erschienen,« erklärte ich der Wahrheit
 gemäß. — »Nun weiter.« meinte Harst bedächtig. »Malzahn
 ist jetzt selbst für seinen intimsten Freund, für Doktor
 Bruchfeld, nach dem Karst gereist. Wir benutzen die gute Gelegenheit
@@ -1058,7 +1058,7 @@ alles, Schraut. Und nun frage ich Sie: finden Sie sich aus
 diesem Irrgarten in die Klarheit zurück?! — Ich nicht! Ich
 stehe vor einem Berge von Tatsachen, einem Berge, der nicht
 zu erklimmen ist und den man deshalb nicht voll überschauen
-kann.
+kann.«
 
 Er rauchte hastiger. Dann: »Nun werden Sie wissen
 wollen: wie kam ich in Besitz des Stückes Menschenhaut der
@@ -1068,12 +1068,12 @@ in Spiritus aufbewahrt hat, ist vielleicht die einzige
 Möglichkeit, all unser Material darauf wie auf einer Schnur
 die Perlen logisch aufreihen zu können. — Bitte, holen Sie
 mir doch mal aus der Bibliothek das Werk Professor Mautners
-über »Tätowierungen bei Naturvölkern«.
+über »Tätowierungen bei Naturvölkern«.«
 
-***
+* * *
 
 <@pagebreak/>
-Harst klappte dies Buch zu.
+Harst klappte das Buch zu.
 
 »Schade,« meinte er. »Es bringt nichts Neues. — Ich
 denke, wir gehen zu Bett, Schraut —« Er gähnte. Aber —
@@ -1238,7 +1238,7 @@ Ihren Park am Morgen nach jenem Klubabend betrat, hegte
 ich bereits starke Zweifel, ob hier wirklich gewerbsmäßige
 Leichendiebe in Frage kämen, denn die Gefahr und die Unkosten
 waren für die Beute zu groß. Das durchsägte Fenstergitter
-verriet mir dann, dass es von innen aus dem Zimmer
+verriet mir dann, daß es von innen aus dem Zimmer
 durchgeschnitten worden war. Auf dem Rückwege nach der
 Parkmauer warf uns dann eine Frauenhand aus einem der
 obersten Gemächer des Turmes ein Armband mit dem eingeritzten

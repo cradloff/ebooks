@@ -1338,7 +1338,7 @@ schüttelte uns lachend die Hände und meinte: »Ich habe hier
 wie auf Nadeln gesessen und alle Augenblicke nach der Uhr
 gesehen.«
 
-Harst setzte sich. Wollen Sie bitte Ihre sämtlichen Detektivbeamten
+Harst setzte sich. »Wollen Sie bitte Ihre sämtlichen Detektivbeamten
 zusammenrufen,« sagte er auffallend ernst. »Wie
 viele sind es?«
 
@@ -1432,7 +1432,7 @@ Flecke auf Deiner Hand und Deiner Wange bemerkte,
 da wird sie Dich gefragt haben, wie die Flecke entstanden sind.
 Und Du wirst geantwortet haben:
 
-»Ich weiß nicht. Seit der vergangenen Nacht habe ich sie!«
+»Ich weiß nicht. Seit der vergangenen Nacht habe ich sie!
 — Und — das warnte das Weib. Sie ist klug. Sie ahnte,
 daß ich Euch zeichnen wollte. Nun — ist sie geflüchtet, und
 Ihr werdet allein für alles büßen.«

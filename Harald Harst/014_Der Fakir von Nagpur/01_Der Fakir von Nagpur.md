@@ -348,7 +348,7 @@ Ich gebe zu, daß so manchen dieses grausige Bild
 des die Worte lallenden Menschen in der Kiste in Gedanken an
 ein ähnliches Schicksal abgeschreckt hätte, mit Warbatty weiterhin
 anzubinden. Selbst mir ist dieser entsetzliche Anblick
-stark an die Nerven gegangen.
+stark an die Nerven gegangen.«
 
 Es füllte die kleinen Becher abermals mit Kognak.
 

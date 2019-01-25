@@ -568,7 +568,7 @@ Atmen des halb ohnmächtigen alten Javanen.
 Schliepner tauchte neben Harst auf. Er hatte seinen Baum
 verlassen.
 
-»Es war die Prinzessin," meinte er mit einem tiefen,
+»Es war die Prinzessin,« meinte er mit einem tiefen,
 erleichterten Aufseufzen. »Den Teufel auch — wer kann nur
 den Hundezwinger geöffnet haben?!«
 
@@ -925,7 +925,7 @@ des einen Wandleuchters und meinte:
 
 »Wie ein Stempel hat er sich infolge der weichen Fellunterlage
 abgedrückt! In der Druckschrift fällt er kaum auf.
-Schliepner hat das übersehen."
+Schliepner hat das übersehen.«
 
 Er legte die Zeitung genau so wieder hin, wie er sie gefunden
 hatte.
@@ -1217,7 +1217,7 @@ noch in Spiritus. Das war mir ein Trost.«
 Schliepner nickte dem Alten zu. »Morgen suchen wir die
 Hand! Auch Herr Harst wird sich alle Mühe geben, diese Ihnen
 so wertvolle Relique wieder herbeizuschaffen. — Gute
-Nacht, Swaardam."
+Nacht, Swaardam.«
 
 Der Dicke verschwand. Er war wirklich ganz geknickt
 über den Verlust.

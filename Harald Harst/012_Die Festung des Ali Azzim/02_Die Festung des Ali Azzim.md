@@ -1276,7 +1276,7 @@ Als der Aufseher gegangen, packte ich Harst bei der Schulter,
 rief:
 
 »Himmel — ist dieser einarmige Ali Azzim etwa unser
-Warbatty?« »
+Warbatty?«
 
 »Du merkst es recht spät,« meinte er ernst.
 
@@ -1284,7 +1284,7 @@ Warbatty?« »
 
 »Oh — den Arm trägt er am Körper festgeschnallt. Die
 weiten Gewänder verdecken den Betrug. Als er sich im Schankraum
-des Kinos auf den holen Schemel setzte, sah ich, dass er
+des Kinos auf den holen Schemel setzte, sah ich, daß er
 Schuhe trug, die wie Stelzen gearbeitet waren. Um den schwerfälligen
 Gang auf diesen zu maskieren, hinkte er. Im übrigen
 war ich schon fest überzeugt, daß Ali Azzim unser Mann
@@ -1420,7 +1420,7 @@ am Kai,« erwiederte der Franzose.
 
 »Ah — welche Frechheit!« entfuhr es Harst. »Vorwärts
 — hin zu dem Friseur! Lassen Sie das Haus in aller Stille
-umzingeln.
+umzingeln.«
 
 Der Inhaber des Salons für Schönheitspflege, ein Mann
 <@pagebreak/>

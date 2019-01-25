@@ -1106,7 +1106,7 @@ Streich gespielt haben?! Ich begreife nur nicht, was sie
 damit bezweckt hat?!« Dann besann er sich, daß er Harst noch
 immer ohne Antwort gelassen hatte. »Ja, ja — es stimmt
 schon, Landsmann. Die Irmgard war regelmäßig hier, wenn
-ich aufpaßte, um den Menschen abzufasssen, der uns in dieser
+ich aufpaßte, um den Menschen abzufassen, der uns in dieser
 Weise zum Narren hielt. Und stets hatte meine Frau irgend
 einen dringenden Wunsch, wenn das Mädel mich holte. —
 Meinen Sie wirklich, die Irmgard könnte —«

@@ -892,8 +892,8 @@ holend mir zuflüsterte:
 war schwer zu erreichen. Es hat mich die Anspannung all
 meiner Willenskraft gekostet, den Einfluß des Dritten zu
 überwinden.« Er lehnte sich erschöpft an die Marmormauer.
-»Ich muss etwas ausruhen. Dann folgt das Weitere. — Begreifst
-Du nun, weshalb diese ahgrundtiefe Verschiedenheit in
+»Ich muß etwas ausruhen. Dann folgt das Weitere. — Begreifst
+Du nun, weshalb diese abgrundtiefe Verschiedenheit in
 Doogstons Wesensart sich eingenistet hatte?«
 
 Ich hatte die Szene vorhin mit vor Spannung jagendem

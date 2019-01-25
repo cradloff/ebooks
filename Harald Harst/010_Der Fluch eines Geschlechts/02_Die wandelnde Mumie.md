@@ -103,7 +103,7 @@ recht überstürzt an:
 
 »Mich schickt Kommerzienrat Kammler her, einer Ihrer
 Wettgegner. Er ist mein Patenonkel. Er läßt Sie grüßen,
-Herr Harst. Ich soll Ihnen bestellen, dass meine Angelegenheit
+Herr Harst. Ich soll Ihnen bestellen, daß meine Angelegenheit
 gleichzeitig die nächste Wettaufgabe für Sie ist. Er hat
 mir vor einer Stunde telephonisch mitgeteilt, daß Sie wieder
 hier eingetroffen wären. Da habe ich mich denn auch sofort
@@ -387,7 +387,7 @@ Endlich regte Harst sich. — »Wie oft reinigen Sie diese
 vier Räume?« fragte er den Diener.
 
 »Selten nur, Herr Harst. Etwa alle zwei Wochen. Zuletzt
-tat ich’s vor acht Tagen.
+tat ich’s vor acht Tagen.«
 
 »Dann putzen Sie auch die Fenster und wischen Staub,
 nicht wahr?«
@@ -466,7 +466,7 @@ Harst bejahte. — »So — dann möchten Sie doch das Auto
 sofort benutzen,« sagte der Chauffeur nun lebhafter. »Fräulein
 Burmeester läßt darum sehr bitten. Es ist etwas Neues
 geschehen. Worum es sich handelt, weiß ich nicht. Herr Professor
-Koblenz ist ein Freund des Herrn Geheimrats, und —
+Koblenz ist ein Freund des Herrn Geheimrats, und —«
 
 »Schon gut — Vorwärts!« — Wir stiegen ein.
 
@@ -1056,12 +1056,12 @@ Schraut hören Sie den Inhalt:
 
 > Lieber W!
 
->Bisher alle Versuche, die H. zu erobern und auf diese
+> Bisher alle Versuche, die H. zu erobern und auf diese
 Weise zum Ziele zu kommen, umsonst. Reisen demnächst
 ab. Werden also doch die Mumie opfern müssen. Sonst
 wird aus der Geschichte nichts —
 
-»Das weitere ist unwesentlich — H. ist natürlich Hildegard.
+Das weitere ist unwesentlich — H. ist natürlich Hildegard.
 Und Herr Bela Matsarek also der ungarische Mumienhändler.
 — Die Sache klärt sich bedeutend. — Aha — hier
 haben wir ja auch eine vorgestern beglichene Hotelrechnung,
@@ -1290,7 +1290,7 @@ Dieser, ein kleiner, sehr nervöser Herr mit grauem Vollbart
 und Glatze, tadellos angezogen und von verbindlichem
 Wesen, mußte dann nach den ersten, die Sachlage klärenden
 Sätzen Harst die Depesche zeigen, die er in Schweden erhalten
-hatte. — Sie lautete: Kehre umgehend zurück. Hier mit
+hatte. — Sie lautete: »Kehre umgehend zurück. Hier mit
 Tresor nicht alles in Ordnung. — Hildegard.«
 
 Harst hielt die Depesche noch in der Hand, sagte nun lebhaft:

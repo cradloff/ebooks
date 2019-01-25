@@ -885,7 +885,7 @@ hohem Röhricht. Rechts schimmerte ein seeartiges Wasserbecken;
 links rauschte ein großer Palmenhain, der sich eine
 Berglehne hinanzog.
 
-»Es sind vier Kerle, berichtete Harst schnell. »Drei schlafen.
+»Es sind vier Kerle,« berichtete Harst schnell. »Drei schlafen.
 Einer sitzt in der Hütte neben dem offenen Herde. Wir
 werden die Sache mit ihnen bald in Ordnung bringen.«
 
@@ -1499,7 +1499,7 @@ brachte, uns hier niederzulassen und den Diebstahl
 vorzubereiten. Eugenie und ich galten als Ehepaar. Mit
 Trimal verkehrten wir nur heimlich. Und Sie, Master Harst,
 wollten wir unschädlich machen, um einen Vorsprung bei
-unserer Flucht zu gewinnen.
+unserer Flucht zu gewinnen.«
 
 Die Suche nach Eugenie Malcapier blieb zunächst ergebnislos.
 Houster genas sehr bald. Die Kugel hatte nicht

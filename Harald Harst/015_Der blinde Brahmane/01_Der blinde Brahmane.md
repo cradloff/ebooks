@@ -1459,7 +1459,7 @@ Arme hoch, sagte gleichzeitig: »Schade — Sie haben die Partie
 also doch gewonnen, Master Harst —«
 
 Harst schaltete seine Taschenlampe ein, ließ den Lichtstrahl
-über die Hände des angeblichen Brahmanen hingeiten.
+über die Hände des angeblichen Brahmanen hingleiten.
 
 <@pagebreak/>
 »Verdammt!« schrie er auf. »Ueberlistet — überlistet!

@@ -12,7 +12,7 @@ Ich wurde sofort stutzig. – Seltsamen Vogel?! – Konnte sich das auf James Pa
 
 »Ach so – ganz richtig, mein lieber Schraut!« Dieser Ausruf war Komödie. »Ganz richtig! Dann will ich mal nachsehen, ob die hiesige Presse über die Vorgänge dieser Nacht bereits unterrichtet ist und wie sie ihren Lesern diese Sensationsnachricht zurechtgestutzt hat. Meistens phantasieren ja die Reporter die Hälfte dazu.«
 
-Er entfaltete die Zeitung, suchte die Spalten durch und rief dann: »Aha – hier haben wir’s! Und — schau’ nur, auch unsere Namen prangen in der Überschrift:
+Er entfaltete die Zeitung, suchte die Spalten durch und rief dann: »Aha – hier haben wir’s! Und — schau’ nur, auch unsere Namen prangen in der Überschrift:«
 
 »Ermordung des stadtbekannten Antiquars Severin Blomberg. – Der berühmte Liebhaberdetektiv Harald Harst und sein Privatsekretär Max Schraut in Stockholm. – Verhaftung des berüchtigten internationalen Verbrechers James Palperlon.«
 
@@ -39,7 +39,7 @@ Das Telephon auf dem Schreibtisch an der anderen Wand schrillte unaufdringlich.
 
 Harst ging hin, rief mir zu: »Wetten, daß es Brodersen ist? – Jetzt werden die Herren entdeckt haben, daß James
 <@pagebreak/>
-Palperlon noch immer sich seiner Freiheit und der ergaunerten Millionen erfreut.
+Palperlon noch immer sich seiner Freiheit und der ergaunerten Millionen erfreut.«
 
 Er nahm den Hörer auf.
 
@@ -359,7 +359,7 @@ Ich schaute ihn an und sah, daß er lächelnd den Rauch der Zigarette von sich b
 
 »Du – Du lachst – in einer solchen Lage!?« meinte ich ganz verdutzt.
 
-»Gewiß. Nichts ist scheußlicher, als das Gefühl, einer Gefahr gegenüberzustehen und doch nicht eründen zu können, wie sie sich äußern wird. So erging es mir vor der Brücke. Nun weiß ich, was Palperlon und Konsorten uns zugedacht hatten. Nun – sehe ich in allem vollständig klar.« Eine kleine Pause. Dann ganz leise: »Mein lieber Schraut, Palperlon ist wirklich ein Mensch, der eine Verbrecherschule leiten könnte, eine Schule für Leute, die Gauner besseren Stils werden wollen. Zuweilen ist es beinahe ein geistiger Genuß, den Feinheiten seiner Pläne nachzuspüren.«
+»Gewiß. Nichts ist scheußlicher, als das Gefühl, einer Gefahr gegenüberzustehen und doch nicht ergründen zu können, wie sie sich äußern wird. So erging es mir vor der Brücke. Nun weiß ich, was Palperlon und Konsorten uns zugedacht hatten. Nun – sehe ich in allem vollständig klar.« Eine kleine Pause. Dann ganz leise: »Mein lieber Schraut, Palperlon ist wirklich ein Mensch, der eine Verbrecherschule leiten könnte, eine Schule für Leute, die Gauner besseren Stils werden wollen. Zuweilen ist es beinahe ein geistiger Genuß, den Feinheiten seiner Pläne nachzuspüren.«
 
 * * *
 

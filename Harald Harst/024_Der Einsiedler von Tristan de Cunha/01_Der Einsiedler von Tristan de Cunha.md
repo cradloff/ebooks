@@ -237,7 +237,7 @@ und ich kann —«
 
 Harst winkte ihm zu. »Lassen Sie all das, Mankay!«
 unterbrach er ihn. Dann befahl er den beiden anderen Aufsehern,
-Mankay in das Vorzimmer zu führen.«
+Mankay in das Vorzimmer zu führen.
 
 Als wir nun allein waren — der Lord, Garner, der Direktor
 und wir beide —, sagte Harst zu Balleray:
@@ -858,7 +858,7 @@ Dinge treiben?«
 die beiden. Aber mit dem geistigen Auge.«
 
 »So so. Das ist wohl so ’n moderner Name für ’ne neue
-Sorte Fernglas dieses »geistige Auge, Master Hirt?«
+Sorte Fernglas dieses »geistige Auge,« Master Hirt?«
 
 »So ähnlich!« nickte Harst. »Was taten der Mann und
 das Weib denn, bester Draaken?«
@@ -943,7 +943,7 @@ ich: dieser Draaken weiß mehr von dem Geheimnis als die
 mußte ja sehr wohl mit der Möglichkeit rechnen, daß Kolonisten
 bei dieser Sache beteiligt waren, obwohl hiergegen etwas
 sprach. Nun, was wohl?« Dabei schaute er mich aufmunternd
-an.«
+an.
 
 Ich hüllte mich jedoch notgedrungen in Schweigen.
 
@@ -974,7 +974,7 @@ landete dann aber wieder auf der Insel und begann sein Einsiedlerleben.«
 
 Hier äußerte Draaken ein lautes: »Ah — da ist ja der —«
 
-»Ja —« der aus Oesterreich gebürtige Mechaniker Werner
+»Ja — der aus Oesterreich gebürtige Mechaniker Werner
 Schadlmeyer vielleicht derjenige welcher!« fiel ihm Harst
 ins Wort. »Schadlmeyer hat es hier auf der Insel nur ein
 Jahr ausgehalten. Dann zog er wieder von dannen, nachdem

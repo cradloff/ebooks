@@ -427,7 +427,7 @@ Der Alte entschuldigte sich wortreich. »Der Schlag war
 etwas grob, Herr. Verzeihen Sie nur. Aber wie gesagt: ich
 bin schon so oft von Wespen gestochen worden, daß ich —
 <@pagebreak/>
-Ah- - da ist ja die 69! — Nochmals besten Dank! — Er eilte
+Ah- - da ist ja die 69! — Nochmals besten Dank!« — Er eilte
 recht schnellfüßig nach der Haltestelle.
 
 Harst schaute ihm sehr aufmerksam nach, sagte dann leise:
@@ -604,7 +604,7 @@ sagte: »Er ist’s ohne Zweifel.«
 Der alte Herr faßte jetzt leicht an die Hutkrempe, wandte
 sich an Bechert, meinte in schlechtem Deutsch, das sofort den
 Engländer oder Amerikaner verriet: »Weswegen Ihr haltet
-meine Wagen an, he? Ich uabe gehört, Ihr seid von der Polizei.
+meine Wagen an, he? Ich habe gehört, Ihr seid von der Polizei.
 Uat der Fahrer da gefahren zu schnell?«
 
 »Steigen Sie aus!« erklärte Bechert. »Chauffeur Sie
@@ -696,7 +696,7 @@ Hosenbeins.
 durchbohrend an. »Hier haben Sie mit Wasser den Honig
 beseitigt. Aber unsere Gerichtschemiker werden beweisen,
 daß Honig in diese Stellen eingerieben war!« Dann wandte
-er sich an den Kommissar Bechert. Verhaften Sie diesen
+er sich an den Kommissar Bechert. »Verhaften Sie diesen
 Menschen auf meine Verantwortung! Er trägt nur eine
 graue Scheitelperücke und der dicke graue Schnurrbart ist
 künstlich gebleicht. Der Mann ist keine vierzig Jahre alt.«
@@ -715,7 +715,7 @@ Harsts unerschüttertlicher Gleichmut seinen Drohungen
 gegenüber brachte ihn doch ein wenig in Unruhe. Man sah
 ihm dies deutlich an.
 
-Bitte, so nehmen Sie doch Platz, Herr Major,« meinte
+»Bitte, so nehmen Sie doch Platz, Herr Major,« meinte
 <@pagebreak/>
 Harst jetzt liebenswürdig. »Ich möchte mit Ihnen ein wenig
 plaudern, bevor Bechert Sie verhaftet. Vielleicht vermag
@@ -1035,7 +1035,7 @@ jeder Rolle gerecht wurde, ist bei seiner Vielseitigkeit selbstverständlich.
 Harsts Geheimniskrämerei ist zuweilen für mich fast verletzend.
 Auch diesmal hatte er mir bisher weder über die beiden
 Skizzen noch über sonst etwas Aufschluß gegeben, was
-mit dieser Reise zusammenhing. Dass er es auf Warbatty abgesehen
+mit dieser Reise zusammenhing. Daß er es auf Warbatty abgesehen
 hatte, dem er fraglos die gestohlene Million wieder
 abnehmen wollte, stand ja fest. Im übrigen wußte ich nichts
 weiter — gar nichts. Er sprach immer nur von den alten Bauwerken,

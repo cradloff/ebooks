@@ -568,7 +568,7 @@ lassen sich zerstören.«
 
 Der Alte wurde unruhig.
 
-»Ob wir nicht mal nachschaun gehen?" schlug Harst vor.
+»Ob wir nicht mal nachschaun gehen?« schlug Harst vor.
 »Dort oben im Museum gibt’s genug zu stehlen.«
 
 »Gewiß — gewiß! Gehen wir!«
@@ -1199,7 +1199,7 @@ herübergekommen. — Darf ich Ihnen nicht für die Armen der
 Stadt eine Summe zur Verfügung stellen? Vielleicht fünfzig
 Pfund? — Ich möchte Sie ja nur meiner verstorbenen Eltern
 wegen etwas fragen. Nur wenige Minuten werde ich Sie
-belästigen. Ich holte die Banknote aus meinem Handtäschchen
+belästigen.« Ich holte die Banknote aus meinem Handtäschchen
 hervor. Der Seher nahm sie, winkte mir, ging mir voran.
 Er ging wie einer, der noch nichts von der Last des Alters
 spürt.
@@ -1485,7 +1485,7 @@ immer Partorius würde noch rechtzeitig merken, wie hier
 der Hase läuft. Aber er ist ja völlig von dem mystischen Unsinn
 der Kabbala gefangen genommen, daß er selbst den haarsträubendsten
 angelesenen Blech, den ich ihn auftischte, als
-hehre Weisheiten anstaunte.<<
+hehre Weisheiten anstaunte.«
 
 »Nun — Sie sind wenigstens ehrlich, Herr Minger,«
 meinte Harst.

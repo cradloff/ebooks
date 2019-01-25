@@ -54,7 +54,7 @@ dachte ich mir sofort: vielleicht kann Herr Harst Dich retten.
 Aber wenn Sie mich sprechen würden, dürften Sie begreifen,
 daß ich kein hysterisches junges Mädchen, sondern wirklich ein
 armes gehetztes Wild bin. — Ich muß schließen. Ich bin in
-Berlin angelangt. — Nochmals: Helfen Sie mir!«
+Berlin angelangt. — Nochmals: Helfen Sie mir!
 
 > Ihre Sie bewundernde Thora von Malwack.
 
@@ -337,7 +337,7 @@ Der Fremde schaute Harst durchdringend an.
 
 Harst knöpfte die Weste auf in deren Innentasche er
 Thoras Brief stecken hatte. — »Bitte beugen Sie sich herab,«
-sagte er und beleuchtete den Brief. Erkennen Sie die Handschrift?«
+sagte er und beleuchtete den Brief. »Erkennen Sie die Handschrift?«
 
 »Ja — allerdings. Aber —«
 
@@ -700,7 +700,7 @@ Sie schon, Herr Harst, ich bin vollständig verblüfft über
 all diese seltsamen Forderungen, die Sie stellen, daß ich —«
 
 »Glaube ich gern,« unterbrach Harst ihn. »Bitte — Ihr
-Wort, dass Sie genau meine Anweisungen befolgen werden.
+Wort, daß Sie genau meine Anweisungen befolgen werden.
 Ein Menschenleben steht auf dem Spiel —«
 
 Doktor Heid reichte Harst die Hand. »Weil Sie es sind.
@@ -709,7 +709,7 @@ Doktor Heid reichte Harst die Hand. »Weil Sie es sind.
 Da beugte sich Harst vor, flüsterte Heid ein paar Sätze ins
 Ohr.
 
-»Und — Heid prallte zurück, stammelte: »Un — un —
+Und — Heid prallte zurück, stammelte: »Un — un —
 möglich! Aber — wenn Harald Harst so etwas behauptet,
 muß man schweigen.«
 
@@ -825,7 +825,7 @@ Harst folgte ihm. Nach einer Weile sagte er: »Ich hätte
 den armen Kerl noch eindringlicher warnen sollen! Es war
 vorauszusehen, daß man auch ihn stumm machen würde, nachdem
 man bei Thora das Geschäft ziemlich glatt erledigt
-hatte.
+hatte.«
 
 »Sie — Sie glauben nicht, daß die Bulldoggen es waren
 — sondern daß Menschen die Komtesse —«
@@ -1011,7 +1011,7 @@ Dann wollte Harst wissen, ob sie einem der Hausangestellten
 mißtraue.
 
 »Nur dem Gärtner,« meinte sie. »Ich habe festgestellt,
-dass er mir nachschleicht. Als ich Onkel Gisbert, den wir alle
+daß er mir nachschleicht. Als ich Onkel Gisbert, den wir alle
 sehr lieben, dies mitteilte, lachte er mich aus. »Kind, er hat
 eben eine heimliche Neigung zu Dir gefaßt,« sagte er zu mir.
 <@pagebreak/>
@@ -1151,7 +1151,7 @@ bringen.«
 »Dann soll er bei Mertens ein anderes Zimmer beziehen
 — im zweiten Stock, soll die Fenster nachts geschlossen halten
 und irgend jemand für die Nacht zu sich nehmen — vielleicht
-den Hausdiener. Aber all das ganz unauffällig. — Harst erhob
+den Hausdiener. Aber all das ganz unauffällig.« — Harst erhob
 sich. »Ich habe jetzt ein starkes Bedürfnis nach Schlaf.
 — Also — auf Wiedersehen Herr Doktor.«
 
@@ -1170,7 +1170,7 @@ sich hin mit gesenktem Kopf.
 
 »Wenn ich nur wüßte, wie ich ohne die Depesche nach
 Transvaal auskäme,« meinte er dann. »Sie wäre ja tagelang
-unterwegs. Und ebenso die Antwort — Gewiß —« wenn
+unterwegs. Und ebenso die Antwort — Gewiß — wenn
 wir eine Photographie fänden, — wenn! Aber — wie nur
 an das Album herangelangen? — Wir müßten es gerade stehlen.
 Schließlich ließe sich auch das vielleicht bewerkstelligen.«

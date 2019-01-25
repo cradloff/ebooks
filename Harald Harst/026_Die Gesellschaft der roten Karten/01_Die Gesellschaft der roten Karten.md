@@ -200,7 +200,7 @@ Sie auf ein Boot, das Ihnen die Edelsteine bringt. Sollten
 Sie die Polizei benachrichtigen, so sehen Sie die Diamanten
 nie wieder.«
 
-Ich gebe den Inhalt dieser Schlußsätze deshalb hier so genau
+»Ich gebe den Inhalt dieser Schlußsätze deshalb hier so genau
 an, Master Harst, weil er typisch für die Diebesbande
 ist. — Bitte — hier ist zum Beispiel die Karte, die ich vor
 zwei Wochen von der »Gesellschaft« erhielt.«
@@ -770,7 +770,7 @@ Aber — man kann ja kein Wort mit ihm wechseln.«
 
 Er hatte sich in dem Stuhl weit zurückgelehnt. »Ich
 muß mir Bewegung machen,« fuhr er fort. »Gib mir bitte
-Deinen Schemel. Ich will ihn als Hantel mitbenutzen. —
+Deinen Schemel. Ich will ihn als Hantel mitbenutzen. —«
 Er erhob sich, begann mit den Schemeln Freiübungen bis —
 bis er plötzlich so stark gegen das gläserne Lampenbassin stieß,
 daß dieses zersplitterte, das Petroleum zusammen mit den

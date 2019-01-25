@@ -301,7 +301,7 @@ Fräulein Tiedzen beugte sich in ihrem Stuhl weit vor.
 <@pagebreak/>
 
 »Ihnen will ich’s sagen,« flüsterte sie. »Es — es war gar
-kein Mädchen da. Ganz bestimmt nicht!« «
+kein Mädchen da. Ganz bestimmt nicht!«
 
 »He — he — famos!« grinste Harst. »Sie sind mir ’ne
 spaßige Miß! Kein Mädchen da! — so ’n Witz!«
@@ -348,7 +348,7 @@ sehr nach Hühnerstall von all den — Papageien.«
 
 * * *
 
->>Lieber Alter,« sagte Harst draußen auf der Straße zu
+»Lieber Alter,« sagte Harst draußen auf der Straße zu
 mir, »dies Fräulein Tiedzen war ein Hauptgewinn. — Was
 meinst Du, wollen wir nicht auch mal die Andersen gegenüber
 <@pagebreak/>
@@ -648,7 +648,7 @@ zu Palperlon?«
 
 Harst lachte mich plötzlich vergnügt an.
 
-Freund Palperlon scheidet hier aus, mein Alter! Tatsache!
+»Freund Palperlon scheidet hier aus, mein Alter! Tatsache!
 Wir haben ihm unrecht getan. Hier hat er seine Hand
 <@pagebreak/>
 nicht mit im Spiel. Es sind einheimische Kräfte, die diesen
@@ -689,7 +689,7 @@ einen langen seidenen Mantel getragen, schottisch gemustert.
 
 Kaum waren wir in Kopenhagen, als Harst die nächste
 Postanstalt aufsuchte. Ich stand neben ihm, als er folgende
-Depesche ausschrieb:
+Depesche aufschrieb:
 
 > »Marinemaler Armin Hölger,
 > Warnemünde.
@@ -954,7 +954,7 @@ für die Steine, die wir Euch an die Füße binden werden, damit
 Ihr auch mal den Schlammgrund des Hafens von Kopenhagen
 studieren könnt. Ihr —«
 
-»Genug, Herr Graf!« rief Harst dazwischen. >>Sie unterschätzen
+»Genug, Herr Graf!« rief Harst dazwischen. »Sie unterschätzen
 uns. Wir wissen, daß Ihre Gattin niemals entführt
 worden ist.« —
 

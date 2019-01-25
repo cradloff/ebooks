@@ -411,9 +411,9 @@ weder draußen am Eingang noch hier unten irgendwie durch
 eine Tafel darauf hin. Ich fragte den Buckeligen: »Sie haben
 eine Kegelbahn? — Ist sie noch für einen Abend frei?«
 — »Bedaure — alle Abende sind besetzt.« erwiderte er maulfaul.
-— Nachdem ich mein Eisbein vertilgt hatte, schob ich ab,
+»— Nachdem ich mein Eisbein vertilgt hatte, schob ich ab,
 zufrieden mit dem Erreichten. — So, und nun kommen Sie
-an die Reihe. — Vorher: Prosit!"
+an die Reihe. — Vorher: Prosit!«
 
 Ich kam an die Reihe! — Ich verstand. Jetzt sollte ich
 nämlich Harsts Ermittlungen in Beziehung zu unserem neuesten
@@ -537,7 +537,7 @@ Aufwärterin war leider nicht geistesgegewärtig genug, die Frau
 anzuhalten oder ihr nachzulaufen. Nachher entdeckte sie dann
 — sonst war im Atelier alles unverändert — auf dem 
 Schreibtisch einen neuen Zettel mit folgendem Inhalt: »Ich bleibe
-länger aus, etwa zehn, falls nicht Nachricht — Dies sollte
+länger aus, etwa zehn, falls nicht Nachricht« — Dies sollte
 wohl heißen: »— etwa zehn Tage, falls nicht andere
 Nachricht von mir eintrifft.« — Wenigstens deutete ich diesen
 <@pagebreak/>
@@ -564,7 +564,7 @@ Perücke befestigt haben.
 Nun begriff ich: er selbst war der zweite Besucher den er
 mir angekündigt hatte.
 
-***
+* * *
 
 Wir gingen ins Arbeitszimmer. Ich ahnte, was kommen
 würde.
@@ -589,7 +589,7 @@ Da gab Harst diese Probe aufs Exempel auf und ging
 direkt auf sein Ziel los.
 
 »Diese Frau Schmidt ist jetzt hier,« sagte er erhobenen
-Tones. Sie sind’s meine Gnädige, — Sie, und ich — bin
+Tones. »Sie sind’s meine Gnädige, — Sie, und ich — bin
 Harald Harst!«
 
 Der Erfolg war ein sehr unerwarteter. Die Dame war
@@ -730,7 +730,7 @@ vermutlich die rothaarige Frau in das Atelier gebracht hat,
 einen einzelnen Buchstaben heraus und lege ihn unter das
 <@pagebreak/>
 Mikroskop — Aha — kommen Sie her, Schraut. Was sehen
-Sie?"
+Sie?«
 
 »Daß in dieser fünfzigfachen Vergrößerung dieser
 Buchstabe N nicht aus glatten, in einem Schwunge hingeworfenen
@@ -883,7 +883,7 @@ Nemo-Geheimnisse ausplaudern wollte, schenken können.« Er
 nahm den Berliner Kurier vom Schreibtisch. »Hier steht das,
 was ich soeben andeutete: 20000 Mark verspricht ein
 Privatmann dem zu zahlen, der über den sog. Einbrecherkönig
-Andreas Nemo ihm nähere Angaben machen kann.« — Ja,
+Andreas Nemo ihm nähere Angaben machen kann. — Ja,
 Schraut, Sie sehen, ich habe versucht, auf diese Weise mich mit
 dem Absender jenes an die Redaktion gerichteten 
 Schreibmaschinen-Briefes in Verbindung zu setzen. Was hilft das jetzt
@@ -908,7 +908,7 @@ Sie selbst an den Folgen schuld.
 
 Harst hatte mir dies vorgelesen. »Eine Kampfansage,
 Schraut!« meinte er, und seine grauen Augen flammten auf.
-Herr Andreas Nemo wenn Sie wüßten, daß ich Sie eigentlich
+»Herr Andreas Nemo wenn Sie wüßten, daß ich Sie eigentlich
 schon entdeckt habe, würden Sie mir nicht so plump
 drohen!«
 
@@ -1133,7 +1133,7 @@ zusammengekrümmt wie ein sitzender Frosch dahocken. Alle
 Knochen tun mir weh. — Also abends gegen acht Uhr —
 Wiedersehen, Schraut.«
 
-***
+* * *
 
 Wenn ich an den Ausgang unserer damaligen Jagd auf
 den Namen zurückdenke, überläuft es mich noch heute kalt.
@@ -1193,7 +1193,7 @@ Dann hörten wir nach einer geraumen Weile eine
 Stimme: »Chauffeur, sind Sie frei?« — »Na ob, Freileinken.
 — Wo soll’s denn hinjehn?« — »Meine Herrschaft will nach
 dem Anhalter Bahnhof zum D-Zug nach München. Fahren
-Sie doch vor Nr. 12 vor."
+Sie doch vor Nr. 12 vor.«
 
 Schilling flüsterte: »Nun hinten raus — und Achtung!«
 Wir drei taten, als unterhandelten wir mit dem Chauffeur.
@@ -1207,7 +1207,7 @@ rief nun: »Verflucht — auch wieder besetzt! Kommt weiter.«
 an. Als es in einer Höhe mit uns war, rissen Schilling
 und Bechert die Türen auf, sprangen hinein. Ich folgte. Und
 Bechert hielt jetzt dem Herrn einen Revolver vor die Brust:
-»Keine Bewegung, Thomas Brixen!" — Für mich war der
+»Keine Bewegung, Thomas Brixen!« — Für mich war der
 Name keine Ueberraschung mehr. Ich hatte Zenta bereits
 erkannt.
 
@@ -1363,7 +1363,7 @@ denen die eine, so unwahrscheinlich es auch sein mag, — ein
 Mann war — eben Thomas Brixen!«
 
 Harst holte jetzt das Bild der Schmidt hervor und reichte
-es Kammler. Dies ist Olga Wilhelmine Schmidt. Während
+es Kammler. »Dies ist Olga Wilhelmine Schmidt. Während
 ich fortfahre, können die Herren es sich ansehen. — Mein
 Interesse gehörte nunmehr nur noch Thomas Brixen. Ich mietete
 mich verkleidet dem neuen Lokal der Mutter Schmidt
