@@ -1,5 +1,4 @@
 aalglatten
-zugeschlagen
 Aasgeier
 ab
 abblenden
@@ -2771,7 +2770,6 @@ beschafft
 beschäftigen
 beschäftigt
 beschäftigte
-Beschäftigten
 beschaute
 bescheiden
 bescheidene
@@ -19927,8 +19925,6 @@ verläuft
 verleben
 verlebt
 verlebte
-versieht
-zugedreht
 verlebten
 verlege
 verlegen
@@ -20210,6 +20206,7 @@ Versicherungsvertrag
 versiegelt
 versiegelte
 versiegelten
+versieht
 Verslein
 versöhnen
 versöhnt
@@ -22132,6 +22129,7 @@ Züge
 zugeben
 zugebracht
 zugedeckt
+zugedreht
 zugedrückt
 zugeflogen
 zugeflüstert
@@ -22162,6 +22160,7 @@ Zuges
 zugesagt
 zugeschaut
 zugeschickt
+zugeschlagen
 zugeschoben
 zugeschritten
 zugeschüttet
