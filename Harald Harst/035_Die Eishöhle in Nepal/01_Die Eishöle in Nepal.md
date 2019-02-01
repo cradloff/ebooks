@@ -23,7 +23,7 @@ vergiften wollten. Daß diese geriebenen Schurken auch mir
 und meinem Freunde Schraut eine Dosis Blausäure zugedacht
 hatten, davon mache ich weiter kein Aufhebens. Wer Liebhaberdetektiv
 ist, trägt seine Haut eben freiwillig und unentgeltlich
-zu Markte — Da Sie, lieber Doorball unsere Aussagen
+zu Markte — Da Sie, lieber Doorball, unsere Aussagen
 bereits zu Protokoll genommen haben, steht also meiner Abreise
 nach Katmandu, der Hauptstadt Nepals, nichts im Wege.
 Kurz, ich verzichte darauf, mich weiter mit Parmang zu
@@ -36,7 +36,7 @@ Des dicken Doorballs Gesicht war immer länger geworden.
 Harst?« meinte er jetzt und kratzte sich die fuchsige Perücke vor
 Ueberraschung und Enttäuschung. »Das tut mir sehr sehr
 leid. Ich hoffte doch, Sie würden mir dazu verhelfen, mich
-irgendwie aufzuzeichnen, damit ich endlich aus diesem verwünschten
+irgendwie auszuzeichnen, damit ich endlich aus diesem verwünschten
 Lausenest herauskomme, in dem ich nun schon fünfzehn
 <@pagebreak/>
 Jahre hocke. Gewiß, ich bin hier etwas korpulent und bequem
@@ -48,7 +48,7 @@ nun etwas ungeduldig: »Herein zum Henker!«
 
 Es erschien niemand.
 
-Doorball stand auf, brüllte jetzt: «Her—rr—ein!«
+Doorball stand auf, brüllte jetzt: »Her—rr—ein!«
 
 Keine Seele meldete sich. Die Tür blieb geschlossen.
 
@@ -80,7 +80,7 @@ Besuches, lieber Doorball.« Dann zu Tschama:
 
 »Geh und hole den Pförtner.«
 
-Bei Pförtner erschien. Er hatte unten im Erdgeschoß seine
+Der Pförtner erschien. Er hatte unten im Erdgeschoß seine
 Loge dicht um Haupteingang, der von 4 Uhr nachmittags ab
 verschlossen gehalten wurde.
 
@@ -139,7 +139,7 @@ die Zellen Mautleys und Bickpools revidieren. Ich werde
 warten.«
 
 Doorball fluchte leise. »Glauben Sie etwa, die Kerle sind
-ausgebrochen. Harst?«
+ausgebrochen, Harst?«
 
 »Nach dem soeben Erlebten muß ich’s annehmen. —
 Schraut, öffne mal die Flurtür. So — und nun schauen Sie
@@ -157,7 +157,7 @@ ein Regal mit Büchern und —«
 »Stopp!« rief Harst, noch immer vom Telephon aus. »Der
 Läufer genügt. Nur er ist wichtig. Er ist gerade vor der Türschwelle
 etwas uneben am Rande, steht ein wenig von den
-Dielen ab. Vielleicht liegt die Depesche darunter vielleicht hat
+Dielen ab. Vielleicht liegt die Depesche darunter; vielleicht hat
 <@pagebreak/>
 die — »Dienerin« sie dorthin gelegt in der Ueberzeugung,
 daß Harald Harst den Buckel des Läufers schon bemerken
@@ -315,7 +315,7 @@ Berücksichtigung ihrer Vielgestaltigkeit nicht oft findet. —
 <@pagebreak/>
 Die Autofahrt brachte uns keinerlei Aufregungen. Unser
 eingeborener Chauffeur wußte überall gut Bescheid. Als wir
-uns nachmittags 2 Uhr dein Dorfe Darbangri näherten, hatten
+uns nachmittags 2 Uhr dem Dorfe Darbangri näherten, hatten
 wir den Chauffeur durch zehn Pfund bereits ganz für uns gewonnen,
 bogen von der Hauptstraße ab und gelangten auf einer
 noch leidlich erhaltenen, alten Karawanenstraße durch einsame
@@ -333,13 +333,13 @@ Songarbiri-Gesellschaft.
 
 <h2>2. Kapitel.</h2>
 
-<h3>Liebhaberphotogtaphien.</h3>
+<h3>Liebhaberphotographien.</h3>
 
 Mr. Ribblay, der Direktor der Songarbiri-Mine, saß gerade
 auf der Veranda seines Bungalows beim Frühstück und
 besprach mit dem Oberingenieur Lebraux dienstliche Angelegenheiten,
 als er zwei Inder auf das Haus zukommen sah, einen
-schlankem älteren, bärtigen Mann und eine Frau mit Gesichtstuch,
+schlanken, älteren, bärtigen Mann und eine Frau mit Gesichtstuch,
 wie es die mohammedanischen Inderinnen tragen.
 
 Die beiden Inder, recht ärmlich gekleidet, hatten kleine
@@ -358,6 +358,7 @@ Da — plötzlich fiel ihm ein zusammengerollter Zettel vor
 die Füße. Er hob ihn auf.
 
 <@pagebreak/>
+
 > »Ich bitte Sie, uns Gelegenheit zu einer unauffälligen
 Unterredung zu geben. Harald Harst.«
 
@@ -371,7 +372,7 @@ von ihren Geschäftsgeheimnissen ausspionieren könnten. Erst
 als Harst dann erklärte, der Fall Parmang hätte uns hergeführt,
 meinte der Direktor geradezu erleichtert aufatmend:
 
-»Ah — Parmang!- Ganz recht, das ist wirklich eine tolle
+»Ah — Parmang! Ganz recht, das ist wirklich eine tolle
 Geschichte! Der Mann mit den dreizehn Attentaten, die angeblich
 auf ihn verübt wurden! Nun, der Polizeichef von Betija
 behauptet heute noch, Parmang habe diese Attentate erlogen
@@ -539,7 +540,7 @@ Inzwischen hatten wir unser Frühstück verzehrt und konnten
 wieder aufbrechen. Harst tat so, als ob wir nachher wiederkehren
 und hier nächtigen wollten. Chidlo Ma beschrieb uns
 noch den Weg zum Verwaltungsgebäude. Dann gingen wir —
-natürlich nicht zum Verwaltungsgebäude, sondern in den
+natürlich *nicht* zum Verwaltungsgebäude, sondern in den
 Wald und zur Hauptstraße zurück.
 
 Harst war schweigsam. Ich sah ihm an, daß er das Gehörte
@@ -548,7 +549,7 @@ Fragen stören.
 
 Dann begann er von selbst zu sprechen.
 
-»Diese Diamanten-Geschichte hat ein neue Wendung erhalten,«
+»Diese Diamanten-Geschichte hat eine neue Wendung erhalten,«
 sagte er und schaute sich nun schon zum dritten Male
 vorsichtig um. »Parmangs Person war mir bisher gleichgültig,
 mein Alter. Jetzt ist es damit anders geworden. Ich
@@ -826,7 +827,7 @@ Gedanken gekommen, mit uns eine Art Vertrag zu schließen?«
 
 »Wir, Schraut und ich werden unsere Verkleidung ablegen
 und dann mit Ihnen zusammen nach Katmandu fahren. Ich
-kann ein Auto Steuern. Sie beide verwandeln sich in bärtige
+kann ein Auto steuern. Sie beide verwandeln sich in bärtige
 Inder und spielen unsere Diener. Ich hoffe die Diamanten zu
 finden. In Katmandu müssen wir zu suchen beginnen. Morgens
 habe ich in der Minenstadt so allerlei erfahren, das mir
@@ -1000,7 +1001,7 @@ fließt) entlangführt. Mehr weiß ich nicht.«
 »Hat der Teewirt Tschang Pferde zu verleihen?« fragte
 Harst den Boy.
 
-»Jawohl Sahib."
+»Jawohl Sahib.«
 
 Der Junge konnte gehen. Wir verabschiedeten uns von
 Mr. Blenkox und wandten uns dem Chinesenviertel zu.
@@ -1022,7 +1023,7 @@ die Schultern bedauernd bis an die Ohren hoch.
 Tschang?« fragte Harst und fixierte den Teewirt durchdringend.
 »Vielleicht gar an — Parmang, he?«
 
-Tschang krümmte sich, lächelte, schüttelte den Kopf. Nicht
+Tschang krümmte sich, lächelte, schüttelte den Kopf. »Nicht
 <@pagebreak/>
 an Mr. Parmang sondern an einen indischen Kaufmann.«
 erklärte er.
@@ -1091,7 +1092,7 @@ Sattel sitzen und die Verfolgung aufnehmen würden.
 Um 3 Uhr nachmittags befanden wir uns bereits mitten
 im Hochgebirge. Die uralte Straße, die hier dem Ufer des
 Sun Kufi folgte, bewies wieder einmal, eine wie hochentwickelte
-Kultur selbst hier in Nepal bot vielen Jahrhunderten bestanden
+Kultur selbst hier in Nepal vor vielen Jahrhunderten bestanden
 hatte. — Oeffnete sich vor uns ein nach Norden gerichtetes
 Tal, dann sahen wir bereits in fast greifbarer Nähe die ersten
 Schneegipfel und Gletscher der Himalayaketten im Sonnenlichte
@@ -1214,7 +1215,7 @@ Doorball zu seinem Gelde zurückverhelfen. Mautley hat heute
 nachmittag etwas in seine Satteltasche eingeschlagen, als er
 behauptete, der Sattel säße schlecht. Hilf mir mal. Wir wollen
 den Sattel abschnallen. — So, dieses in Leinwand gewickelte
-Päckchen meinte ich! Da haben wie’s ja! Es ist das Geld,
+Päckchen meinte ich! Da haben wir’s ja! Es ist das Geld,
 das Bickpool aus dem Geldschrank in Betija stahl.« Harst
 schob es in die Innentasche seiner Sportjacke und lächelte dabei.
 »Auf dieses Geld bezog sich unsere Abmachung mit den
@@ -1267,7 +1268,7 @@ vor mir in der Tiefe ein rötliches Licht auf. Wie gebannt verharrte
 mein Fuß an derselben Stelle. Das, was ich dort
 <@pagebreak/>
 erblickte, war so wunderbar schön, daß ich völlig vergaß, weshalb
-wir hierher gekommen
+wir hierher gekommen.
 
 Der Gang mündete in eine Eishöhle. Es mußte das Innere
 eines ungeheuren Gletschers sein, der sich hier in eine
@@ -1304,7 +1305,7 @@ schlugen.
 
 »Vier Morde — um nichts!« brüllte Parmang jetzt mit
 einer Stimme die vielleicht noch entsetzlicher anzuhören war,
-als daß Lachen. »Holt Euch die Diamanten! Sie sind mit Blut
+als das Lachen. »Holt Euch die Diamanten! Sie sind mit Blut
 gedüngt!«
 
 Mit letzter Kraft schleuderte er die Fackel im Bogen dorthin

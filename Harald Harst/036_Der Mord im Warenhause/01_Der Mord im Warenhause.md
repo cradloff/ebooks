@@ -146,7 +146,7 @@ aus dem Koffer gestohlen, dazu einige Papiere —«
 Der General wühlte jetzt offenbar im Zimmer den Koffer
 durch. Er fluchte und wetterte dabei, und seine Tochter
 weinte wieder. Offenbar machte er ihr Vorwürfe, weil sie bei
-offener Tür auf der Veranda im Liegestuhl eingenickt war.«
+offener Tür auf der Veranda im Liegestuhl eingenickt war.
 
 Zehn Minuten später erschien Harst. Er winkte mich in
 unseren Wohnsalon und flüsterte mir zu:
@@ -278,7 +278,7 @@ Greap, bereits von Ansehen kannte.
 »Aha — beim Kofferpacken,« meinte der kleine Greap, der
 wie ein englischer Jockey aussah. »So — so. Sie beide wollen
 also plötzlich abreisen. Hm — kann ich nicht mal irgend welche
-Papiere haben die Sie beide genügend als Thomas Knoxen
+Papiere haben, die Sie beide genügend als Thomas Knoxen
 und Archibald Smuth legitimiren?«
 
 »Papiere? Ja — die können Sie allerdings haben. Sie
@@ -302,7 +302,7 @@ Pfund gestohlen zu haben.«
 Die Wirkung dieser Ankündigung war seltsam genug. Mein
 Diener Archibald besaß die Frechheit, sich in den nächsten
 Stuhl fallen zu lassen und — so fröhlich mit einer überlauten
-Lache herauszuplatzen, da Greap und der Inspektor ihn anstarrten,
+Lache herauszuplatzen, daß Greap und der Inspektor ihn anstarrten,
 als hielten sie ihn plötzlich für übergeschnappt.
 
 Dann besann er sich aber schnell auf das Unwürdige und
@@ -346,7 +346,7 @@ herfallen.
 
 <@pagebreak/>
 Natürlich war Mr. Karbotter über die neue Frechheit
-gerader verblüfft. Man sah es seinem Gesicht an. Bevor er
+geradezu verblüfft. Man sah es seinem Gesicht an. Bevor er
 sich noch zu einer Entgegnung hatte aufraffen können, fuhr
 Harst schon fort:
 
@@ -560,7 +560,7 @@ fragte ich.
 Er saß auf dem Bettrand und rauchte. Seine tadellose
 Laune war seit kurzem wieder bedenklich abgeflaut.
 
-»Leider nein, antwortete er. »Oder — genauer ausgedrückt:
+»Leider nein,« antwortete er. »Oder — genauer ausgedrückt:
 ich habe sie verscheucht. Ich hätte nicht so leichtsinnig
 als Harald Harst mich auf der Straße zeigen sollen. Am dritten
 Tage hatte ich ihre Fährte gefunden. Sie wohnten in
@@ -617,7 +617,7 @@ Da stand:
 »Wie Londoner Blätter melden, ist der berühmte Detektiv
 Harald Harst vor 12 Tagen zusammen mit dem bekannten
 Plantagenbesitzer Lord Wolpoore in London eingetroffen.
-Vorgestern ist des Lords Jacht mit Haralds Harst
+Vorgestern ist des Lords Jacht mit Harald Harst
 und dessen Freund und Privatsekretär Schraut an Bord nach
 Madeira in See gegangen, nachdem Harst einen kurzen Abstecher
 nach Holland und Deutschland gemacht hatte. Man
@@ -848,7 +848,7 @@ Er rief den Kellner herbei. Wir zahlten und verließen
 den Kerkau-Palast, stiegen sofort in eins der draußen vorgefahrenen
 Autos und glitten nun die Linden entlang.
 
-Harst hatte sich dicht neben mich gesetzt »Na, mein Alter,
+Harst hatte sich dicht neben mich gesetzt. »Na, mein Alter,
 — feine Maske, wie?! — So sehe ich als Robert Jeschke, Versicherungsagent
 aus; so wohne ich in der Sickingenstraße 158,
 vorn eine Treppe, bei Witwe Therese Schultz, — seit heute
@@ -896,7 +896,7 @@ Andere?«
 klingt mir so bekannt.«
 
 »Genau so klang er mir, als ich ihn in der Fremdenliste
-des Eden-Hotels las. und deshalb suchte ich diesen Gould
+des Eden-Hotels las. Und deshalb suchte ich diesen Gould
 vormittags auf. Das heißt: ich richtete es so ein, daß ich
 <@pagebreak/>
 seine Bekanntschaft wie zufällig machte. Und nach fünf Minuten
@@ -930,7 +930,7 @@ Berliner Stadtbahn.
 
 Im Auto brannte die kleine elektrische Deckenlampe. Ich
 hatte mir inzwischen diesen Richard Gould genauer angesehen.
-Ich schätzte ihn auf 30 Jahre. Sein Gesicht war sympathisch!
+Ich schätzte ihn auf 30 Jahre. Sein Gesicht war sympathisch,
 nur trat ein melancholischer Zug darin scharf hervor. — Wer
 in aller Welt war nun dieser Gould? Weshalb schleppte
 Harst ihn nach seinem neuen Heim, und weshalb hatte Harst
@@ -1037,7 +1037,7 @@ gereist wäre, — eben um ihn ein zweites Mal zur Ader zu
 lassen. — Begreifen Sie jetzt schon den Zusammenhang? Wir
 haben die Fährte verloren, und ich hoffte nun, die Verbrecher
 könnten sich wieder an den General herandrängen und wir
-aus diese Weise —«
+auf diese Weise —«
 
 »Ich verstehe,« nickte Gould mit einem weit freundlicheren
 Gesicht. »Sie wollten so hintenrum mich aushorchen, ohne sich
@@ -1133,7 +1133,7 @@ erschien.
 
 Ich war erstaunt, einem so feschen, hübschen Mädel vorgestellt
 zu werden. Das hatte ich allerdings nicht erwartet.
-Diese Aenne war so eine von jenen, Berlinerinnen, die sich
+Diese Aenne war so eine von jenen Berlinerinnen, die sich
 anzuziehen verstehen, die schlagfertig und lebenslustig sind und
 um deren Mund ein Lächeln zuckt, das anzudeuten scheint:
 »Oh — Ihr Männer macht mir nichts mehr vor. Ich kenne
@@ -1170,7 +1170,7 @@ sogar zwei Anträge gemacht. Aenne lachte ihn aus. Sie und
 dieser verwachsene Gnom — unmöglich! Außerdem: sie hatte
 ihres Erachtens auf Grund ihres Aeußeren Anspruch auf eine
 erstklassige Partie. Ihr Vater war Steueraufseher gewesen,
-und sie und die Mutter besaßen, ein kleines Vermögen. —
+und sie und die Mutter besaßen ein kleines Vermögen. —
 Kurz: Aenne hatte Millionärträume! Das sagte sie auch
 Bickel, — und wahrscheinlich in etwas herzloser Weise. Denn
 diese Aenne war ein reizender Schmetterling — ohne viel
@@ -1246,7 +1246,7 @@ ruhig, fragte, was wir denn verbrochen hätten.
 hatte er mich gepackt und — legte mir Stahlfesseln an.
 
 Harst nickte mir zu. »Die Geschichte wird sich ja bald aufklären,
-mein Alter«
+mein Alter.«
 
 Da hatte auch ihn der Schutzmann schon an Kragen.
 Harst hielt ihm gelassen die Hände hin. »Bitte — Sie werden

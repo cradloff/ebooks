@@ -305,7 +305,7 @@ Gehilfe eines Giftmörders!«
 <@pagebreak/>
 »Also des Mörders des Amerikaners —«
 
-»Ja.
+»Ja.«
 
 »Weshalb sagst Du: »sehr wahrscheinlich« —?«
 
@@ -402,13 +402,13 @@ schwache Puls wieder kräftiger wurde. In dem Zimmer — es
 war das des Direktors des Theaters befand sich ein Telephon.
 Ich rief die Polizeidirektion an, Blosley war noch dort. So
 konnte ich ihm gleich einige Verhaltungsmaßregeln geben. Er
-kam dann, wir ließen ihn ein, schlossen die Tür wieder zu Gerade
+kam dann, wir ließen ihn ein, schlossen die Tür wieder zu. Gerade
 da kehrte Parmang das Bewußtsein zurück. Er konnte
 uns folgendes mitteilen:
 
 Er war seit einem Jahr in Nepal als Ingenieur bei
 <@pagebreak/>
-einer Silberminengesellschaft beschäftigt. »Vor dreieinhalb Monaten
+einer Silberminengesellschaft beschäftigt. Vor dreieinhalb Monaten
 wurde dann das erste Attentat auf ihn versucht — durch
 eine Büchsenkugel. Nach acht Tagen folgte ein Mordversuch
 durch drei Kobras, die man in seine Wohnbaracke eingeschmuggelt
@@ -607,7 +607,7 @@ Ich fing Harst auf. Er war noch bei Bewußtsein. Nur
 etwas matt war er.
 
 <@pagebreak/>
-»Ich rührte mich absichtlich nicht, erklärte er heiser. »Die
+»Ich rührte mich absichtlich nicht,« erklärte er heiser. »Die
 Schlinge hätte von dem Seidentuche abgleiten können.«
 
 Blosley untersuchte den Draht. »Es ist feinster Klavierdraht.
@@ -812,7 +812,7 @@ Schaffner eine Tafel mit dem englischen Worte »Bestellt« angebracht.
 
 Harald war einsilbig und hatte nur Augen für die hin
 und her gehenden Reisenden. Erst als der Zug den Bahnhof
-verließ sagte er halblaut:
+verließ, sagte er halblaut:
 
 »Bisher ist niemand uns auf der Spur. Ich habe ganz
 genau aufgepaßt. Aber wir dürfen uns trotzdem nicht in
@@ -825,9 +825,8 @@ Hier geht es fraglos um hohe Werte!«
 haben, daß diese Geschichte mit dem Stückchen Eis, die so ein
 geheimnisvolles Aussehen hat, lediglich durch die bewußten
 Lügen Parmangs so rätselhaft wirkt. Selbstverständlich verhält
-es sich mit den Attentaten so, wie er es geschildert hat.«
-
-»Nur eben die Hauptsache hat er entstellt wiedergegeben, und
+es sich mit den Attentaten so, wie er es geschildert hat.
+Nur eben die Hauptsache hat er entstellt wiedergegeben, und
 das ist: der Grund zu all diesen Mordversuchen! Er behauptet,
 er kennt ihn nicht. Das ist Schwindel. Er kennt ihn sehr
 gut, hat nur seinerseits sehr triftige Gründe, hierüber zu
@@ -894,7 +893,7 @@ wer wir beide in Wirklichkeit sind. Daß Harst und Schraut in
 Kalkutta weilen, konnte er in jeder Zeitung lesen. Und daß
 Schraut etwa einen Kopf kleiner und dicker als Harst ist, weiß
 hier in Indien jeder, der nur lesen kann. Ebenso meldeten
-die Zeitungen ja auch, da wir bei Tschong im Pavillon wohnten.
+die Zeitungen ja auch, daß wir bei Tschong im Pavillon wohnten.
 Er konnte also unschwer sich bis zur Villa Tschong durchfragen.
 Denn: er wußte dort nicht Bescheid, wußte nichts von
 dem unterirdischen Gange. Beweis: ich fand im Schlafzimmer
@@ -1048,15 +1047,15 @@ sollen Nepal nicht erreichen! Wir werden es! Nun gerade!«
 
 * * *
 
-Als wir in Betija eintrafen, war es bereits dunkel. In
-zwischen hatte Harst den Zugführer gefragt, ob es in der
+Als wir in Betija eintrafen, war es bereits dunkel. Inzwischen
+hatte Harst den Zugführer gefragt, ob es in der
 Stadt ein Hotel gebe. Der Eurasier hatte uns ein Pensionat
 empfohlen. Betija mit seinen 20 000 Einwohnern liegt bereits
 in den Vorbergen des Himalaya und ist ebenfalls Luftkurort
 — wie Simla, Darschelling und andere malerische Gebirgsorte.
 
 Das Fremdenheim lag etwas außerhalb der Stadt. Wir
-fuhren wir in einem Wagen dorthin. Die Inhaberin war die
+fuhren in einem Wagen dorthin. Die Inhaberin war die
 <@pagebreak/>
 Witwe eines Majors der indischen Armee namens Pellington.
 
@@ -1186,7 +1185,7 @@ schnell herumgesprochen, daß ich die Ehre habe, Sie beide zu
 beherbergen. Der Diener hat dem Franzosen, einem Kaufmann
 aus Allahabad, Ihre Namen genannt und —«
 
-»Danke Mistreß Pellington. — Vor fünf Minuten? Ein
+»Danke, Mistreß Pellington. — Vor fünf Minuten? Ein
 etwas später Gast, allerdings!«
 
 »Oh — um halb zwölf ist noch der Nachtzug eingetroffen.
@@ -1456,7 +1455,7 @@ Kognak.«
 
 Ich tat’s. — Und abermals begannen die kleinen, weißen
 Vögelchen vom Himmel herabzuschweben! abermals umheulte
-der Sturm die Berge und fuhr brüllend durchs die Klüfte und
+der Sturm die Berge und fuhr brüllend durch die Klüfte und
 Täler. — Man konnte jetzt kaum die Hand vor Augen sehen.
 Lautlos huschten wir, weiß beschneit und tief gebückt, der Brücke
 zu. Harst flüsterte wiederum: »Warte!« — Nach zehn Minuten
@@ -1583,7 +1582,7 @@ im Auto nach Betija zurück. Die Sonne hatte den Schnee schon
 wieder verschwinden lassen. Plötzlich stellte sich dann heraus,
 daß Parmang entflohen war. Unser Dicker tobte. »Ich
 brauche ihn doch als Zeugen! Ueberhaupt, dieser Mensch ist
-mir unheimlich. Kein Wort hat er zu uns gesprochen hat Ihnen
+mir unheimlich. Kein Wort hat er zu uns gesprochen, hat Ihnen
 nicht mal gedankt, Mr. Harst!«
 
 »Oh — er wird wohl Gründe haben, uns zu meiden,«

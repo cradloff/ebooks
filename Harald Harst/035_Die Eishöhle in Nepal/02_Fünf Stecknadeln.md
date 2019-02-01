@@ -9,7 +9,7 @@
 Wir wohnten als Gäste bei dem dicken Polizeichef des indischen
 Städtchens Betija. Mr. Doorball tat alles, es uns recht
 behaglich zu machen. Wir hatten ja auch sehr anstrengende
-und aufregende Tage hinter uns. Der Leser wird sich besinnen
+und aufregende Tage hinter uns. Der Leser wird sich besinnen,
 daß wir von den beiden Gaunern Mautley und Bickpool überlistet
 worden waren. Sie hatten sich mit den aus der Eishöhle
 in Nepal herausgeholten Diamanten im Werte von etwa
@@ -145,7 +145,7 @@ hinschwinden zu lassen, sondern erregte auch durch ihr Auftreten
 <@pagebreak/>
 in Connings neuer Garnison so viel Aergernis, daß er
 den Abschied nehmen mußte. So wurde er, nachdem Frau
-Marry auch den Rest des Vermögens noch in goldenen Leichtsinn
+Marry auch den Rest des Vermögens noch in goldenem Leichtsinn
 vergeudet hatte, Polizeiinspektor in Betija, was etwa
 dasselbe bedeutet, als wenn ein Beamter plötzlich in ein
 ostpreußisches Grenznest verbannt wird.
@@ -219,7 +219,7 @@ hatte. Es war ganz dunkel im Schlafzimmer gewesen.
 Er hatte ihr leise zugeflüstert, daß er soeben eine wichtige Meldung
 erhalten hätte; er müsse noch ausgehen; sie solle sich also
 nicht weiter wundern, wenn er erst später schlafen käme. Er
-hatte ihr dann einen Kuß auf je Stirn gedrückt und war
+hatte ihr dann einen Kuß auf die Stirn gedrückt und war
 ebenso leise hinausgeschlichen. — Sie schlief wieder ein und
 erwachte erst gegen 7 Uhr morgens. Da ihr Mann auch jetzt
 noch nicht zurück war, wurde sie doch unruhig und kleidete sich
@@ -249,7 +249,7 @@ Marry an. —
 »Sie sollten doch niemandem den Brief zeigen,« meinte er.
 »Und nun haben Sie —«
 
-»Oh,« sagte sie hastig, »ich weiß doch, wem ich mich anvertraue.
+»Oh,« sagte sie hastig, »ich weiß doch, wem ich mich anvertraue,
 Master Harst.«
 
 »Gewiß. Auf unsere Verschwiegenheit können Sie unbedingt
@@ -330,7 +330,7 @@ Denn verreist dürfte er doch fraglos sein. — Was für einen
 Anzug trug er gestern abends?«
 
 Marry Conning machte jetzt wieder ein ganz weinerliches
-Gesicht. »Ach Mr. Harst, — er hatte gestern einen weißen
+Gesicht. »Ach, Mr. Harst, — er hatte gestern einen weißen
 Leinenanzug an. Und, denken Sie sich, den fand ich heute früh
 dort im Bücherschrank ganz zufällig. Auch Edwards Unterwäsche
 lag dabei. Er — er muß in einer Verkleidung von hier
@@ -340,7 +340,7 @@ Inder maskiert hat, wenn er den Mitgliedern des indischen
 Nationalisten-Bundes nachspürte, die auch hier vertreten sind.
 Sie haben ja fraglos schon davon gehört, daß dieser Geheimbund
 von Eingeborenen den Wahlspruch hat: Indien den
-Indern!« Es sind gefährliche Umstürzler, diese Leute, und
+Indern! Es sind gefährliche Umstürzler, diese Leute, und
 man paßt sehr scharf auf sie auf. Wenn Edward jedoch gegen
 diesen Bund etwas unternehmen wollte, würde er es mir gesagt
 haben. Nein — hierum handelt es sich bei dieser Reise
@@ -498,7 +498,7 @@ beim Zusammenfalten des Bogens gerade unter fünf
 Buchstaben dieser einen Zeile wie Punkte zu stehen kamen, und
 zwar unter die Buchstaben:
 
-peinliche Familienangelegenheit hätte mich nach Dehli gerufen
+__p__einliche Familien__a__ngelegenhei__t__ hätte mich __na__ch Dehli gerufen
 
 also *patna* — Patna! — Dies sollte seiner Frau verraten,
 daß er nach Patna gereist sei.«
@@ -625,7 +625,7 @@ Fleck des Turbantuches am Boden des Schrankes waren genau
 dieselben. Mautley und Bickpool werden die frühere Verkleidung
 also abgelegt und sich aus Connings Vorrat neu kostümiert
 haben. Ich hätte ja Frau Marry noch fragen können,
-was ans dem Schranke an »Kostümen« fehlte. Aber ich wollte
+was aus dem Schranke an »Kostümen« fehlte. Aber ich wollte
 sie nicht argwöhnisch machen. — Ah — da sitzt Doorball auf der
 Veranda. Jetzt werde ich ihm die Geschichte von Connings plötzlicher
 Abreise sofort versetzen —« —
@@ -686,7 +686,7 @@ Harald saß in der Sofaecke, flüsterte:
 »Hänge für alle Fälle etwas über das Schlüsselloch. Doorball
 ist Polizeimensch, und daher auch zu harmlosem Spionieren
 »von Amtswegen« leichter zu verführen. Vielleicht
-glaubt er doch nicht an »den Stadtplan.«
+glaubt er doch nicht an den Stadtplan.«
 
 <h2>3. Kapitel.</h2>
 <h3>Der zweite Brief.</h3>
@@ -819,13 +819,13 @@ derselben Weise wirst Du aus den weiteren Stecknadelköpfen »Patna«
 und »Eden« zusamenstellen. Das Ganze lautet mithin:
 »Komm sofort Patna Eden«. Was »Eden« heißen soll darauf
 deutet der Satz in dem Briefe hin: »Es dürfte hier das beste
-Hotel sein«. Also Eden-Hotel! — Kurz: Frau Marry soll
+*Hotel* sein«. Also Eden-Hotel! — Kurz: Frau Marry soll
 sofort, und zwar ohne viel Gepäck nach Patna reisen und dort
 ihren Gatten im Eden-Hotel aufsuchen. — Siehst Du, mein
 Alter, das ist die Bedeutung der bunten Stecknadeln. Eine
 ganz hübsche Idee. Nur — für ein Frauenhirn, wie Marry
 Conning es besitzt, zu schwierig. — Wir werden jetzt schlafen
-gehen um ½ 4 wieder ausstehen und mit dem Morgenzuge abreisen.
+gehen um ½ 4 wieder aufstehen und mit dem Morgenzuge abreisen.
 Aber nicht allein. Frau Marry muß mit. Ich werde
 sie morgens herausklopfen und ihr die ganze Geschichte sehr
 vorsichtig beibringen. Sie wird uns dankbar sein, wenn wir
@@ -855,7 +855,7 @@ von Grund auf geändert hätte. Er glaubte sicherlich, mir
 mißfalle dieses bescheidene Leben! Und — das ist doch keineswegs
 so. Ich arbeite gern. Mir macht das Sparen und
 Wirtschaften Freude. — Oh Mr. Harst — helfen Sie, retten
-Sie Edward darf meinetwegen nicht ehrlos bleiben. Er muß
+Sie. Edward darf meinetwegen nicht ehrlos bleiben. Er muß
 diese schmachvolle Belohnung, diese Diamanten Ihnen ausliefern.
 Und dann wollen wir weiter hier in Betija in Ruhe
 und Zufriedenheit leben wie bisher —«
@@ -1009,7 +1009,7 @@ saubere Straßen. Der Rest ist völlig »Orient«: winklige, enge,
 <@pagebreak/>
 schmutzige Gassen, pestilenzialische Düfte, unzählige Kinder,
 brüllende Händler, vor Schmutz starrende Bettler und —
-lahme Affen, die hier etwa dieselbe Rolle spielen wie, in
+lahme Affen, die hier etwa dieselbe Rolle spielen, wie in
 Konstantinopel einst die Straßenhunde.
 
 Das Eden-Hotel war offenbar ein ehemaliger Palast irgend
@@ -1100,7 +1100,7 @@ Mir machte dieser heimliche Kampf mit Worten Spaß.
 Ich wußte nur nicht recht, wo Harald damit hinauswollte.
 
 Parker-Harst flüsterte nun seinerseits: »Können Sie uns
-für eine Nacht verbergen?« «
+für eine Nacht verbergen?«
 
 »Ja. Kommen Sie —«
 
@@ -1165,7 +1165,7 @@ der Decke hängende Petroleumlampe in Brand, deren Lichtschein
 uns nun ein viereckiges, fensterloses Gemach zeigte, das
 mit bescheidenen Möbeln und zwei Betten ausgestattet war.
 
-»So hier sind Sie sicher,« meinte der Gelbe nun und setzte
+»So, hier sind Sie sicher,« meinte der Gelbe nun und setzte
 sich in einen Korbsessel, der links vom Tische neben einem
 Rauchtischchen stand. »Machen Sie es sich bequem,« fuhr er
 fort. »Falls Sie etwas zu essen oder trinken wünschen, bringe
@@ -1245,13 +1245,13 @@ Es war etwa so wie nach einem starken Blitz, wenn
 man atemlos lauschend den nachfolgenden krachenden Donner
 erwartet.
 
-Waren auch die beiden Briefe mit den Stecknadeln Fälschungen?«
+»Waren auch die beiden Briefe mit den Stecknadeln Fälschungen?«
 fragte Harst jetzt in genau so gleichmütigem Tone
 wie Tuan.
 
-»Nein. Blindley kam auf die Idee mit den Stecknadeln.
+»Nein. Bickpool<@refnote 1/> kam auf die Idee mit den Stecknadeln.
 Allerdings sagt er Conning nicht, daß wir Sie beide auf diese
-Weise hier ins Eden-Hotel locken wollten. Blindley rechnete
+Weise hier ins Eden-Hotel locken wollten. Bickpool rechnete
 damit, daß Marry Conning sich an Sie wenden würde. Es
 ist ja auch alles so gekommen, wie wir annahmen. Wir haben
 jetzt durch Conning die tadellosesten Ausweispapiere, sind sogar
@@ -1355,7 +1355,7 @@ und das Gemach schnell überschwemmte.
 
 Harst war vor den aufspritzenden Wassermassen bis an die
 Tür zurückgewichen. Ich folgte ihm. Auch ich hatte jetzt meine
-Taschenlampe eingeschaltet, flüsterte! »Ersäufen wollen sie
+Taschenlampe eingeschaltet, flüsterte: »Ersäufen wollen sie
 uns!«
 
 »Immerhin wissen wir jetzt, *was* sie wollen, und das ist
@@ -1380,7 +1380,7 @@ Das Wasser stand jetzt schon so hoch, daß es uns bis an
 die Schenkel reichte.
 
 »Wir werden die Gnadenfrist für uns verlängern,« sagte
-Harald lebhaft. Nimm das Bett dort auseinander. Wir
+Harald lebhaft. »Nimm das Bett dort auseinander. Wir
 brauchen die langen Seitenteile.«
 
 Er wand dann die Decken um eine Emaillewasserkanne,
@@ -1391,7 +1391,7 @@ müssen, mein Alter. — Nun kippe dort den Schrank um.
 Runter mit dem Schrank unter diese unangenehme Quelle.
 Die Seitenbretter des Bettes werden jetzt gerade so hoch reichen,
 daß wir unseren Pfropfen festkeilen können! — Warte
-— ich Klettere auf den Tisch. Halte die beiden Stützen bereit.«
+— ich klettere auf den Tisch. Halte die beiden Stützen bereit.«
 
 Sechs Versuche mißglückten. Beim siebenten gelang es.
 Der mit den Decken umhüllte Unterteil der Blechkanne,
@@ -1457,7 +1457,7 @@ Name Harst war hier genau so gut bekannt wie überall. Und
 diese Leute rissen jetzt Mund und Ohren auf, als wir beide so
 nach und nach uns gänzlich verwandelten und schließlich als
 älteres Ehepaar dastanden. Ich spielte ja nicht zum ersten
-Male eine Damenrolle.«
+Male eine Damenrolle.
 
 Gerade als wir fertig waren, trat ein Europäer ein, ein
 großer, kräftiger Mann mit einem pockennarbigen Gesicht.

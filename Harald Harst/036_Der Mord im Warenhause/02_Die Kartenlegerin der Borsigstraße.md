@@ -708,7 +708,7 @@ Der Mann knotete unsere Fesseln auf, holte unsere Hüte
 und Spazierstöcke, bat uns, die Stiefel auszuziehen und ihm
 lautlos zu folgen.
 
-»Nun — es war wirklich das Haus, in dem Löwensteins
+Nun — es war wirklich das Haus, in dem Löwensteins
 wohnten! Ich erkannte es an den Treppen wieder, die wir
 nun hinabschlichen. Der Mann schloß die Haustür auf und
 sagte: »Gehen Sie schnell davon und drehen Sie sich nicht um.«

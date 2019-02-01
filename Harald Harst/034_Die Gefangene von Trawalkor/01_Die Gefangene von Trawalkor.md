@@ -21,7 +21,7 @@ Ich begann mich zu entkleiden. Zuweilen warf ich einen
 Blick in den prachtvollen Park hinab, der die Villa des
 Edelsteinhändlers umgab.
 
-Da mir war’s als hätte nebenan in Harsts Zimmer eine
+Da mir war’s, als hätte nebenan in Harsts Zimmer eine
 Tür geklappt. Ich wußte: aus seinem Schlafgemach ging noch
 eine zweite Tür auf den Flur hinaus.
 
@@ -49,7 +49,7 @@ Des Koffers?! Nun, da konnte nur unser Requisiten-Koffer
 in Betracht kommen! Also: Harst dachte gar nicht daran,
 schlafen zu gehen, sondern — »machte Maske«!
 
-Ich lächelte. — Warte diesmal entwischt Du mir nicht!
+Ich lächelte. — Warte, diesmal entwischt Du mir nicht!
 
 Meine Müdigkeit war verflogen. In wenigen Minuten
 hatte ich mich wieder fertig angekleidet, nahm meinen Strohut,
@@ -120,7 +120,7 @@ Nach zehn Minuten erreichten wir, stets in derselben Reihenfolge,
 die Hauptverkehrsstraße, die den Maidan durchschneidet.
 Hier, wo jetzt um die elfte Vormittagsstunde ein sehr lebhafter
 Verkehr herrschte, rückten die drei Chinesen näher auf, und
-ich tat dasselbe. Harst humpelte sehr getreu Lahmheit vortäuschend,
+ich tat dasselbe. Harst humpelte, sehr getreu Lahmheit vortäuschend,
 langsam weiter. Zuweilen verlor ich ihn in dem
 Menschen- und Wagengedränge aus den Augen.
 
@@ -301,7 +301,7 @@ Ja — das Papierkügelchen! — Ich zweifelte nicht im geringsten
 mehr: es war dasselbe, das mir schon vorhin so viele
 Rätsel aufgegeben hatte!
 
-Dasselbe! Als so hatte Harst es irgendwie an sich gebracht!
+Dasselbe! Alsso hatte Harst es irgendwie an sich gebracht!
 
 Ich lächelte plötzlich. Ich dachte an die beiden kleinen braunen
 Spitzbuben, die das Obst mit hastigem Griff zusammengerafft
@@ -429,7 +429,7 @@ das Kügelchen mit auf und trafen mit meinem Wagen 100
 Meter weiter wieder zusammen, erhielten je ein Pfund und
 die Anweisung, den drei Chinesen zu folgen und mir hier nachher
 zu berichten, wo diese wohnten oder für längere Zeit eingekehrt
-waren.« Ich selbst konnte nun also auf Umwegen getrost
+waren. Ich selbst konnte nun also auf Umwegen getrost
 nach Hause gehen, zumal ich ja wußte, daß auch Du hinter
 den dreien her warst.«
 
@@ -469,14 +469,14 @@ dem Kutscher, der die Dame nach der Stadt gefahren hatte.«
 »Natürlich. Der Hausmeister schickte ihn mir. Ich richtete
 nur ein paar Fragen an den Mann, der bei Tschongs schon
 acht Jahre diese Stellung innehat und einen vorzüglichen
-Eindruck macht. — Eine meiner Fragen lautete: Sahen
+Eindruck macht. — Eine meiner Fragen lautete: »Sahen
 Sie von der Straßenecke aus ein Geschäftsauto in der Nähe
 des Hotels halten, als Sie auf Ihre Herrin warteten?« —
 Und der Kutscher, ein Eurasier (Mischling zwischen Europäer
 und Inderin) antwortete: »Jawohl, Master Harst, nachdem
 ich eine Stunde etwa gewartet hatte, verließ ein Geschäftsauto,
 das jedoch keinen Firmennamen zeigte, die Hofeinfahrt des
-Hotels«. — Begreifst Du die Sache nun, mein Alter? Man
+Hotels.« — Begreifst Du die Sache nun, mein Alter? Man
 hat Frau Tschong dort in das Hotel gelockt, hat sie überfallen
 und — in dem Auto verschleppt. Die Papierkugel kann
 nur die Nachricht von dem geglückten Streich enthalten, bei
@@ -580,7 +580,7 @@ Blosley wandte sich wieder an den Eurasier. »Sie sahen
 also ein solches Auto?«
 
 »Ein großes, hellgrün gestrichenes,« antwortete der Kutscher
-eifrig. Vorn saßen zwei Inder. Der eine trug eine Art
+eifrig. »Vorn saßen zwei Inder. Der eine trug eine Art
 Livree, wie dies in größeren Geschäften seit einiger Zeit üblich.
 Der Chauffeur hatte nur einen gelben Leinenanzug an und
 einen Turban auf dem Kopf. Mehr weiß ich nicht, denn das
@@ -738,7 +738,7 @@ vor. Harst trug sich als Mr. Steward, Kaufmann aus
 Dehli, ins Fremdenbuch ein und belegte und bezahlte auch gleich
 zwei Zimmer für drei Tage.
 
-Das Hotel gehörte einen Wiener, einem früheren Kellner
+Das Hotel gehörte einem Wiener, einem früheren Kellner
 namens Meidinger. Es war peinlich sauber bei aller Einfachheit.
 Harst verstand es dann, den in Oesterreich bekannten
 Engländer zu spielen, begann über Wien zu sprechen und machte
@@ -751,7 +751,7 @@ solle, und das sei ein Unsinn.
 Ich stand in respektvoller Haltung dabei und hörte alles
 mit an. Dieser Meidinger log nicht. Das merkte man sofort.
 
-Dann fügte er noch empörten hinzu: »Am tollsten bei der
+Dann fügte er noch empörter hinzu: »Am tollsten bei der
 Geschichte ist, daß offenbar ein Geschäftsauto, das ein Bekannter
 auf meinem Hofe seit langem untergestellt hat, mit zu dieser
 Entführung benutzt worden ist. Der Kraftwagen gehört
@@ -1001,7 +1001,7 @@ wer hat die beiden braunen Jungen hinter uns her geschickt?
 <@pagebreak/>
 Die Burschen kamen uns in einem Kahn über den Fluß nachgerudert.
 San Pio merkte, daß es dieselben waren, die ihm
-Obst gestohlen hatten, als der Karten seine Ladung auf den
+Obst gestohlen hatten, als der Karren seine Ladung auf den
 Reitweg geschüttet hatte. Die Jungen liegen jetzt auf dem
 Grunde des Hugli.«
 
@@ -1024,7 +1024,7 @@ eben, daß ich das Weitere erledigen würde und besser wie er,
 den Sie doch trotz der Verkleidung erkannt hatten.«
 
 »Hm — weshalb versicherten Sie mir denn soeben — mir
-als Tschong, daß Sie beide Frau Tschong schon finden würden.
+als Tschong, daß Sie beide Frau Tschong schon finden würden.«
 
 »Weil wir auf gute Nachricht von den beiden Jungen rechneten,
 die Sie — ermordet haben!«
@@ -1204,20 +1204,20 @@ als Papierkugel gefunden,« sagte Harst so nebenbei.
 <@pagebreak/>
 Kuma Tawis Augen waren ganz weit aufgerissen — vor
 Angst! Schweißperlen erschienen auf seiner Stirn.
-Harst deutete jetzt auf den Zettel »Lieber Alter, sieh Dir
+Harst deutete jetzt auf den Zettel. »Lieber Alter, sieh Dir
 mal die Zahlen genau an. Es sind:
 
 <p class="centered">7 9 2 6 23 26 7 14 15 119</p>
 
 Zunächst weist die Spitze des Dreiecks auf die einzige 7,
 die die Ziffernreihe enthält. Dann — und dies ist ebenfalls
-sehr wichtig — kannst Du wenn Du die Ziffern zum Teil zu
+sehr wichtig — kannst Du, wenn Du die Ziffern zum Teil zu
 zweien gruppierst, zweimal die Zahl 26 finden. Und — 26
 Buchstaben hat das Alphabet! Das mag ein Zufall sein. Ich
-glaube es aber nicht und will daher mal daß Alphabet aufschreiben
+glaube es aber nicht und will daher mal das Alphabet aufschreiben
 und die Buchstaben numerieren. So —«
 
-<table style="border-style: none; border-spacing: 0; padding: 0;">
+<table style="border-style: none; border-spacing: 0; padding: 1; text-align: center;">
 <tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr>
 <tr><td>R</td><td>S</td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td></tr>
@@ -1245,10 +1245,10 @@ Nun sieht die Sache schon vernünftiger aus:
 habe ich hier zusammengestellt, allerdings nach einigen Proben.
 Denn Trawalkor ist ein kleines Fürstentum, zwei Meilen von
 Kalkutta ab, dessen Residenz ebenfalls Trawalkor heißt. Es ist
-mithin Buchstabe, nämlich ein T in dem Namen zu viel,
+mithin ein Buchstabe, nämlich ein T in dem Namen zu viel,
 und zwar gerade das T, das durch das Dreieck gekennzeichnet ist.
-— Ich gebe zu, dieses Resultat überrascht mich. Ich wir auf
-reine andere Lösung vorbereitet. Aber Trawalkor hat Sinn,
+— Ich gebe zu, dieses Resultat überrascht mich. Ich war auf
+eine andere Lösung vorbereitet. Aber Trawalkor hat Sinn,
 und die Residenz ist von Kalkutta aus im Auto in zwanzig Minuten
 zu erreichen, auch in einem Geschäftsauto, Kuma Tawi.«
 
@@ -1292,7 +1292,7 @@ Sie, Kuma Tawi, zwangen sie dazu!«
 
 Der Verbrecher stieß eine heisere Lache aus, schwieg aber.
 
-Harst erhob sich. Geh’ jetzt nach der Villa hinüber,« sagte
+Harst erhob sich. »Geh’ jetzt nach der Villa hinüber,« sagte
 er zu mir. »Rufe Blosley telephonisch an und bitte ihn, im
 Auto mit vier Beamten herzukommen. Er soll diese drei Leute
 wegbringen lassen, und dann werden wir mit ihm nach Trawalkor
@@ -1467,7 +1467,7 @@ der uns soeben die Haustür öffnete, war der Chauffeur des
 Autos, mit dem Frau Tschong verschleppt wurde. Kuma Tawi
 hat heute dann dieselbe Summe, die er schon einmal erpreßt
 hatte, gestohlen. Er ist jedoch gleich nachher verhaftet
-worden, und daß Geld wurde so gerettet. Frau Tschong hat er
+worden, und das Geld wurde so gerettet. Frau Tschong hat er
 fraglos zu einem neuen Erpressungsversuch benutzen wollen.
 Er hält sie jetzt dort verborgen, wo auch Ihre Braut offenbar
 zuerst als Gefangene, wenn auch als eine mit aller Rücksicht
