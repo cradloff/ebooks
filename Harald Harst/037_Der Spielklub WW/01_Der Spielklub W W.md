@@ -9,7 +9,7 @@
 »Wir wollen zu Fuß nach Hause gehen,« meinte Harald
 Harst, als wir mittags nach dem Besuche bei Frau Ly v. Bloswick
 die vornehme Mietskaserne in der Fasanenstraße in
-Berlin W. Verlassen hatten. »Dieser Maitag ist ja so wundervoll.
+Berlin W. verlassen hatten. »Dieser Maitag ist ja so wundervoll.
 Die Dreiviertelstunde Marsch bis zu unserem Heim in
 der Blücherstraße wird uns nur guttun.«
 
@@ -75,7 +75,7 @@ ruinieren kann — daher »Klub W. W.« oder »Wehe
 Wehe« — ist eine Vereinigung von Herren aller Länder,
 die Geld im Ueberfluß haben und unter der biederen Maske
 einer »Gesellschaft zur Förderung internationaler Geistesbestrebungen«
-dem Jeu, den Tafelfreuden und der Tanzkunst
+dem Jeu<@refnote 1/>, den Tafelfreuden und der Tanzkunst
 in Gestalt von Darbietungen schöner Weiber huldigen.
 Ich war im »Wehe Wehe« zweimal eingeladen, langweilte
 mich dort aber derart, daß ich darauf verzichtete, Mitglied
@@ -140,6 +140,7 @@ der Sonne stand. Hier nahmen wir Platz. Er holte die
 Zeitung heraus und las halblaut:
 
 <@pagebreak/>
+
 > »Mord im Klub »Weite Welt«. Der Ermordete
 ein Inder. Rätselhafte Begleitumstände.
 
@@ -165,7 +166,7 @@ sich in das Spielzimmer, wo man dann an vier Tischen
 dem Pokerspiel huldigte. Doktor Marauwara schaute dem
 Spiel lediglich zu. Um ein Uhr morgens war er dann plötzlich
 verschwunden. Um halb sechs Uhr, als es bereits ganz
-hell war, hörte der Klubdiener Schmidt im etwa Stock
+hell war, hörte der Klubdiener Schmidt im ersten Stock
 einen kurzen Knall, der ihm ganz wie ein Schuß klang.
 Dort im ersten Stock liegen die Bibliothek, die beiden Vorstandszimmer
 und drei Logierräume für die auswärtigen Mitglieder
@@ -182,7 +183,7 @@ Neben ihm bemerkten sie jedoch auch einen Revolver, und
 dieser Umstand veranlaßte sie, sofort hinab in das Spielzimmer
 zu eilen, wo noch neun Herren, sämtlich Klubmitglieder,
 <@pagebreak/>
-er, versammelt waren. Unter diesen Herren befand sich auch
+versammelt waren. Unter diesen Herren befand sich auch
 der als Strafverteidiger sehr bekannte Rechtsanwalt Schobert.
 Er war es, der nun das Präsidentenzimmer betrat und
 festgestellt, daß der Inder durch einen Schuß in den Hinterkopf
@@ -232,7 +233,7 @@ entfernt hat. — Wer tat dies? — Der Mörder? — Vermutlich
 ja!
 
 > Weiter: Weshalb suchte der Mörder sich zur Tat gerade
-da Präsidentenzimmer aus, wo doch im ersten Stock die
+das Präsidentenzimmer aus, wo doch im ersten Stock die
 drei Logierzimmer unverschlossen waren? Man bedenke:
 Doktor Tomar Marauwara war gestern abend zum ersten
 Male Gast des Klubs, weilt überhaupt erst acht Tage in
@@ -272,7 +273,7 @@ dann wandte, ist nicht nachzuweisen.
 
 > Schließlich noch als wichtigster und fraglos geheimnisvollsten
 <@pagebreak/>
-Punkt: Wie schön erwähnt, war der Inder gegen
+Punkt: Wie schon erwähnt, war der Inder gegen
 ein Uhr morgens aus dem Spielzimmer verschwunden. Er
 hatte bis dahin an dem Tische, an dem Rechtsanwalt
 Schobert, Dr. Möckern, der englische Oberingenieur Treemantle
@@ -363,7 +364,7 @@ wartet meine Mutter auf uns mit dem Mittagessen und
 wir sind schuld an ihrer schlechten Laune. Wir wollten
 ja pünktlich sein.«
 
-Haralds, »Berufsscherze« haben sehr oft einen für mich
+Haralds »Berufsscherze« haben sehr oft einen für mich
 recht bitteren Beigeschmack. Und einer dieser Berufsscherze
 waren diese Sätze, die er soeben gesprochen hatte. Was
 ich hiermit meine, wird der Leser erst merken, wenn ich
@@ -410,7 +411,7 @@ dem Seitenspind des Bücherschrankes.
 
 <@pagebreak/>
 Der Schlüssel zu dem Koffer fehlte. Frau v. Bloswick
-hatte das Schloß erbrochen. Bei Leser wird sich an in diese
+hatte das Schloß erbrochen. Der Leser wird sich an in diese
 Einzelheit aus unserem vorigen Abenteuer besinnen.
 
 Ich stellte den Koffer auf einen Korbsessel neben Harst,
@@ -698,7 +699,7 @@ merkwürdigere Tatsachen.</h3>
 »Ich will nicht sagen, daß ich ihn für den Mörder
 halte,« erwiderte Harst. »In dem Ausdruck, »jemand für
 etwas halten« liegt schon eine gewisse Ueberzeugung, die
-man über die fragliche Angelegenheit gewonnen bat. Das
+man über die fragliche Angelegenheit gewonnen hat. Das
 ist hier nicht der Fall. Als ich Dir den Artikel aus der
 Mittagszeitung vorlas, verarbeitete ich das Gelesene sofort
 im Geiste und kam so notwendig zu der Vermutung, Möckern
@@ -816,7 +817,7 @@ sich ganz sicher fühlen! Ihn durfte ja niemand verdächtigen!«
 
 »Glänzend!« rief ich jetzt. »Das hast Du wieder wahrhaft
 <@pagebreak/>
-genial ausgeknobelt, Harald! Freilich diese Theorie
+genial ausgeknobelt, Harald! Freilich -- diese Theorie
 hat sehr viel für sich!«
 
 »Ja — besonders, wenn man bedenkt, daß Doktor
@@ -961,7 +962,7 @@ und rief, genau so überrascht wie ich:
 »Wahrhaftig — eine Uhr nebst Kette — eine Brieftasche!«
 
 Er reichte mir das Bündel, öffnete die Brieftasche.
-Sie war jedoch bis auf ein Heftchen mit blauem Deckel<@refnote 1/>
+Sie war jedoch bis auf ein Heftchen mit blauem Deckel<@refnote 2/>
 leer.
 
 »Nun — ein Militärpaß — für den Kellner Erich Franz
@@ -1018,7 +1019,7 @@ der verflossenen Nacht nicht irgend etwas Auffälliges bemerkt
 hätte.
 
 »Ja — so um halb vier morgens herum hat mein Karo
-wie tobt gebellt und derart an der Kette seiner Hundehütte
+wie toll gebellt und derart an der Kette seiner Hundehütte
 gerissen, daß ich aufstand. Ich bemerkte aber nichts Verdächtiges.«
 
 <@pagebreak/>
@@ -1050,9 +1051,9 @@ von ihr denken soll. Ihre Art zu sprechen und diese träge
 Ruhe, die sich in jeder ihrer Bewegungen ausdrückte,
 könnte man —« Er brach mitten im Satz ab.
 
-Wir betreten sein Arbeitszimmer. Ich legte das rote
+Wir betraten sein Arbeitszimmer. Ich legte das rote
 Taschentuch mit seinem Inhalt auf den Mitteltisch. Dabei
-stieß ich mit ein linken Fuß an einen Gegenstand, der
+stieß ich mit dem linken Fuß an einen Gegenstand, der
 neben dem Sessel auf dem Teppich stand, in dem die Verschleierte
 Platz genommen hatte.
 
@@ -1240,7 +1241,7 @@ hinzu:
 »Dacht’ ich mir doch, daß Sie Möckern mit diesem
 Verbrechen in Verbindung bringen würden, Herr Harst. Nun
 <@pagebreak/>
-— da kann ich Ihnen gleich sagen der Doktor kann niemals
+— da kann ich Ihnen gleich sagen: der Doktor kann niemals
 als Mörder in Betracht kommen!«
 
 »Hm —! Es kann ja auch so eine besondere Art
@@ -1256,7 +1257,7 @@ ein politisches Verbrechen an.«
 erst auf, als der Mord durch den Diener —«
 
 »Danke. — Besinnen Sie sich vielleicht, ob Möckern
-häufiger vom Spieltisch ausgestanden und hinausgegangen
+häufiger vom Spieltisch aufgestanden und hinausgegangen
 ist?«
 
 Schobert überlegte, erklärte dann: »Möckern trinkt nie
@@ -1354,7 +1355,7 @@ seinem alten Bekannten Möckern an.«
 Schulden haben. Deshalb will er nun für sich die Millionenbeute
 erringen. — Marauwara verläßt den Klub um ein
 Uhr, schleicht sich hier bei Ihnen ein, wird Zeuge, wie
-Sie den Koffer wegschließen, stiehlt die beiden Beutel
+Sie den Koffer wegschließen, stiehlt die beiden Beutel mit
 den wertvollsten Steinen, die er bequem fortschaffen kann,
 vergräbt die leeren Beutel und —«
 

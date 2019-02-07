@@ -144,7 +144,7 @@ war doch weit umständlicher und konnte viel leichter auffallen.
 Hier — stimmt irgend etwas nicht. Man wird diese
 junge Dame mit einigem Mißtrauen behandeln müssen. Ich
 habe so das Gefühl, daß die Sache Schwindel ist. Trotzdem
-werden wir uns Plätze für dieselbe Lage besorgen,
+werden wir uns Plätze für dieselbe Loge besorgen,
 und natürlich werden wir in einer Verkleidung hingehen.«
 
 Er stand auf. »Ich möchte auf meinem Zimmer die
@@ -655,7 +655,7 @@ ein angenehmer Gesellschafter und ein sehr feingebildeter,
 geistvoller Mann. Vor einem halben Jahre etwa hatte er
 dem General gelegentlich etwas über die Tochter seines
 besten Freundes, des Sanitätsrats Dr. Linden, mitgeteilt und
-Beberritz sozusagen sein Herz ausgeschüttet. Er stellte Rose
+Beberritz sozusagen sein Herz ausgeschüttet. Er stellte Rosa
 Linden als ein nur allzu verwöhntes, dabei recht gemütsarmes
 junges Mädchen hin, das leider von Jugend an einen
 starken Hang zum Lügen und zu allerhand dummen Streichen
@@ -750,7 +750,7 @@ auch vor Ihrer Familie zu verschweigen, wer wir beide,
 Schraut und ich, in Wahrheit sind. Tun Sie so, als hätten
 wir Sie — anbetteln wollen. Behandeln Sie uns eisig kühl
 vor dem Diener. Ich will Ihnen anvertrauen, daß dort
-drüben im Hause Prikola sehr ernste Dinge sich vorbereiten
+drüben im Hause Prikola sehr ernste Dinge sich vorbereiten.
 — Ich habe die Ehre, Exzellenz.«
 
 Der General reichte uns die Hand. Dann ließ er uns
@@ -856,7 +856,7 @@ etwas. Wenn nicht der arme Heinrich Gerstel hier so treu
 zu mir stehen würde, wenn er mir nicht Mut zusprechen
 würde, — nie hätte ich an Sie mich gewandt! Ich las
 Ihren Namen letztens in der Zeitung aus Anlaß der Verhaftung
-Doktor Möckerns. »Da — da dachte ich: nur Harald
+Doktor Möckerns. Da — da dachte ich: nur Harald
 Harst kann Dir helfen!«
 
 Sie schluchzte leise auf, trat plötzlich einen Schritt vor
@@ -896,7 +896,7 @@ Wasserkaraffe, ein Glas, ein Uhrständer und ein Parfümzerstäuber.
 Das Mädchen deutete auf das Glas.
 
 »Ich pflege nachts hin und wieder einen Schluck Wasser
-zu trinken, Herr Harst. In her vergangenen Nacht gegen
+zu trinken, Herr Harst. In der vergangenen Nacht gegen
 ein Uhr morgens erwachte ich. Ich hörte noch, wie hier
 im Zimmer etwas zu klappte, — ganz leise, — so wie eine
 Tür, die man hastig schießen will, aber ohne Geräusch.
@@ -1017,7 +1017,7 @@ und kletterten in das Wohngemach hinauf.
 
 Harst sah nach, ob die von hier auf die Treppe
 führende Tür verschlossen war. Der Schlüssel steckte von
-innen. Sie war verschlossen. Das Tau hatte wir nicht
+innen. Sie war verschlossen. Das Tau hatten wir nicht
 wieder hochgezogen.
 
 »Ich werde erst noch den Nachen an den Landungssteg
@@ -1337,7 +1337,7 @@ die mich so forschend musterten, stand die Schuld geschrieben.
 friedliches Haus, behandelte sie streng, ließ sie nicht aus
 den Augen. Wenn sie aufzubegehren wagte, fragte ich
 stets nach — dem Giftfläschchen. Dann wurde sie gefügig.
-Biber sie haßte mich; sie wollte auch mich beseitigen. Dreimal
+Aber sie haßte mich; sie wollte auch mich beseitigen. Dreimal
 versuchte sie, mich zu töten, — auf so raffinierte Weise,
 daß ich nur durch meine Wachsamkeit diesen Anschlägen entging.
 Sie verstand es, den schwachsinnigen Heinrich Gerstel
@@ -1391,7 +1391,7 @@ Menschen mit Ulster und hellem Filzhut. Schließlich fragten
 wir auch dort nach, wo man möblierte Zimmer vermietete.
 In einem Häuschen, unweit der Irrenanstalt, bei braven,
 älteren Leuten hatte sich um neun Uhr vormittags tatsächlich
-ein ausfallend hübscher Herr eingemietet. Er war jetzt
+ein auffallend hübscher Herr eingemietet. Er war jetzt
 spazieren gegangen. Wir ließen uns das Zimmer öffnen.
 Dort stand ein neuer Koffer. Harst sprengte das Schloß auf.
 Wir fanden in dem Koffer einen neuen, fertig gekauften
@@ -1452,7 +1452,7 @@ Onkel und Tante waren alt, hatten vom Leben
 nichts mehr zu erwarten. Mir aber wollten sie Jahre des
 Glücks stehlen. Und Sie — Sie wollte ich — durch ihn,
 durch den, der meine Jugend dann weiter knebelte, vernichten
-lassen. Ich hoffte, es — es würde zu — einer Katastrophe<@refnote 2/>
+lassen. Ich hoffte, es — es würde zu — einer Katastrophe<@refnote 3/>
 kommen, als — Sie — mich — in — der
 Pagode —«
 
