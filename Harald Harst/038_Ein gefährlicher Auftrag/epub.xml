@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">65691050-2d81-11e9-9b2a-7fc6b0c4ad75</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein gefährlicher Auftrag</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">38</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Ein gefährlicher Auftrag.
+
+Das war an jenem Junivormittag eine peinliche Ueberraschung für uns, als wir mit dem Gemeindevorsteher des Ortes Dalldorf das in der Nähe der bekannten Irrenanstalt gelegene Häuschen und jenes Zimmer betraten, wo wir vor kaum vierzig Minuten die Leiche der schönen Rosa Linden eingeschlossen hatten, die schon vor ihrem Geständnis Gift genommen und durch einen freiwilligen Tod die beiden an ihren nahen Verwandten begangenen Morde gesühnt hatte.
+
+Die Leiche war verschwunden. Das eine Fenster war nur angelehnt. Und wir standen und starrten sprachlos auf das Bett, dessen Steppdecke noch tief eingedrückt war. Dort hatte die Tote gelegen. Dort hätte sie noch liegen müssen, wenn —
+
+Und das, was ich nun dachte, kleidete Harald Harst in die leisen Worte:
+
+»Sie hat uns abermals überlistet! Sie hat damit gerechnet, daß sie eine geraume Zeit allein bleiben würde.  Es war nichts als eine tiefe, künstliche Bewußtlosigkeit von kurzer Dauer mit allen äußeren Anzeichen des bereits eingetretenen Todes.«
+
+Die verschwundene Brigg.
+
+Harst und ich wollten gegen halb sieben abends gerade noch einen Spaziergang machen, als ein altes Weiblein mit einem Brief erschien in dem ein Schiffskapitäns Ruiterholm Harald bat, ihn wenn möglich sofort zu besuchen.
+
+Harst schickte das alte Frauchen, die dem ehemaligen Kapitän die Wirtschaft führte, mit der Zusage wie der heim, wir würden uns sehr bald in dem Häuschen Ruiterholms einfinden.
+
+Der Kapitän bewohnte dicht am Hafen in der Nähe der Motorbootwerft von Malling &amp; Co. ein uraltes, kleines Holzhaus, das mitten in einem Garten stand.
+
+Ruiterholm empfing uns in dem Zimmer linker Hand vom Flur. Er saß in einem Lehnstuhl am Fenster und war trotz der Wärme draußen in Decken eingehüllt.
+
+Wir hatten uns Stühle an das Fenster gerückt und hörten nun schweigend zu, wie er von seinem reichbewegten Leben erzählte. Er war Holländer von Geburt, wohnte nun aber bereits dreißig Jahre hier in W. Sein Alter gab er auf 82 Jahre an.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (038) Ein gefährlicher Auftrag.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
