@@ -1359,8 +1359,29 @@ aufgetrennten Rückennaht Deiner Jacke steckt in einem Täschchen
 ein offenes Federmesser. Es wird Dir schnell wie mir
 gelingen, die Riemen zu durchschneiden.«
 
-[Im Scan fehlt hier eine halbe Seite]
- 
+Lady Lydia war aufgesprungen. Auf dem Sitz von
+Harsts Sessel lag dessen Federmesser. Sie durchschnitt meine
+Riemen. Ich zog mir das rechte Hosenbein hoch, hatte
+gleich darauf meine neunschüssige Pistole in der Hand.
+
+»Danke, Mylady,« meinte Harald, ohne die drei Schurken
+aus den Augen zu lassen. »Nehmen Sie bitte Schrauts
+Pistole.«
+
+Ich bückte mich, nachdem ich Lady Lydia die Waffe
+gereicht hatte, und holte Harsts Pistole hervor.
+
+»So,« erklärte Harald. »Nun ist die Schlacht für uns
+gewonnen. Ihnen beiden, Allan Pimberton und Dscham
+Dauli, möchte ich nur noch mitteilen, daß ich den Kutscher
+Achmed absichtlich »so ungeschickt« ausgefragt habe. Er
+sollte merken, wer ich war, — eben ein Spion! Es sollte
+uns eine Falle gestellt werden, denn ich sah voraus, daß
+Sie beide würden den Triumpf auskosten wollen, uns als
+Ihre Gefangenen verhöhnen zu können. Ich rechnete weiter
+damit, daß ich auf diese Weise auch das Versteck der entführten
+Frauen kennen lernen würde.«
+
 <@pagebreak/>
 Er legte den einen Revolver auf den Tisch zurück.
 Es genügte ja, wenn er nur den anderen in der Rechten
