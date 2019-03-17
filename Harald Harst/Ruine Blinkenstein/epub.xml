@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">11630648-48fa-11e9-b956-d39dde88ae05</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ruine Blinkenstein</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">7</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Ruine Blinkenstein
+
+Wir, mein Brotherr Harald Harst und ich, sein Privatsekretär und Gehilfe Schraut, waren abends gegen neun Uhr mit einem Wagen von der nächsten Eisenbahnstation in dem Dorfe Blinkenstein eingetroffen und in dem einzigen größeren Gasthause »Zum Dachsbau« abgestiegen, saßen nun in dem sogenannten Herrenzimmer beim Abendbrot und schwatzten mit dem Wirt, dem wir uns als Güteragenten aus Berlin vorgestellt hatten.
+
+Harst führte natürlich wie immer die Unterhaltung, sprach über landwirtschaftliche Verhältnisse wie einer, der auf dem Stoppelacker groß geworden, lenkte dann aber sehr bald ganz unauffällig das Gespräch auf das nahe Schloß Blinkenstein und seine Bewohner.
+
+Wir waren ja nur deshalb hier nach dieser von jedem Verkehr ziemlich abgeschnittenen Gegend gekommen, da Harsts Wettgegner ihm die Aufgabe gestellt hatten, das Verschwinden der Komtesse Vera Blinkenstein aufzuklären.  Wir wußten über dieses bisher in das tiefste Dunkel eines undurchdringlichen Geheimnisses gehüllten Ereignis nur das, was in den Zeitungen gestanden hatte. —
+
+Die Schwestern
+
+Sigurd Lörs fand keine Ruhe. Bis neun Uhr hatte er in einem kleinen Kaffee gesessen und aus seiner dunklen Ecke hervor die anderen Gäste beobachtet, zuweilen auch in Zeitungen geblättert, unzählige Zigaretten geraucht und unzählige Male die Augen geschlossen — ganz fest, nur um die immer wieder aufsteigenden Tränen zurückzudrängen ...
+
+Sigurd Lörs, Liebling aller Kinobesucher, — der sonnige Lörs, der die frohe, frische, elegante Jugend verkörperte!  Der berühmte Lörs, um den die Filmfabrikanten mit phantastischen Schecks kämpften — kämpften ...
+
+Jetzt kämpfte Sigurd Lörs mit seinem Gewissen — ein schwerer Kampf — fast aussichtslos ... —
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (7) Ruine Blinkenstein.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
