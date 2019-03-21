@@ -131,7 +131,7 @@ den Namen der Schloßruine. Sie luden uns zu heute ein
 und wollten uns dann das Nähere erzählen. Ich hatte
 also Zeit, mich schon vorher so etwas über die Oertlichkeit
 und die beiden geheimnisvollen Inder zu unterrichten.
-Als indischer Bettler verkleidet besuchte ich Park des
+Als indischer Bettler verkleidet besuchte ich den Park des
 Schlosses und habe mich an dem lieblichen Gesange der
 jungen Inderin erfreut, die oben in einer Fensteröffnung
 des halb eingestürzten Turmes saß und so gekleidet war,
@@ -150,7 +150,7 @@ stattgefunden hatte. Tumaru war verschwunden und
 an seiner Stelle bemerkte ich den langen, hageren Savimandra,
 der nun gelassen erklärte:
 
-›Sahib Doktor, es ist meine Urenkelin, die Du Soeben
+›Sahib Doktor, es ist meine Urenkelin, die Du soeben
 sahst. Sie teilt unsere Einsamkeit. Sie ist eine Gandagri.‹
 
 — »Wissen Sie, was eine Gandagri ist, Mr. Harst?«
@@ -170,7 +170,7 @@ werden gemieden. — Doch, zurück zu unserem Thema. Ich
 schritt weiter und zwang den Brahmanen so, mir zu folgen.
 
 Wir kamen am Ostflügel des Schlosses vorbei. Hier
-ist der untere Teil der Mauer eingestürzt. man kann daher
+ist der untere Teil der Mauer eingestürzt. Man kann daher
 einen langgestreckten Raum überblicken, mit wundervollem
 Goldmosaik an den marmorgetäfelten Wänden.
 
@@ -353,7 +353,7 @@ Er trank der reizenden Frau mit einer Verbeugung zu.
 Bald darauf verabschiedeten wir uns.
 
 Es war jetzt halb elf Uhr. Der Mond war am Himmel
-erschienen, wurde aber durch ziehende Wollen zeitweise verdeckt.
+erschienen, wurde aber durch ziehende Wolken zeitweise verdeckt.
 Hier im Europäerviertel waren die sauberen Straßen
 tadellos erleuchtet.
 
@@ -385,7 +385,7 @@ mein Alter, daß ich mir mal das Schloß der Begum
 wir ein —«
 
 Unsere Rikschas rollten nebeneinander her. Wir konnten
-uns bequem Unterhalten. Wir sprachen natürlich deutsch und
+uns bequem unterhalten. Wir sprachen natürlich deutsch und
 brauchten daher nicht zu fürchten, von den Rikschakulis verstanden
 zu werden.
 
@@ -408,7 +408,7 @@ in einem fort dasselbe Wort:
 
 »Brahma — Brahma — Brahma —«
 
-Schon gestern vormittag hatte er an diesen Platze gesessen.
+Schon gestern vormittag hatte er an diesem Platze gesessen.
 — Wir stiegen aus. Harst reichte ihm eine Goldmünze,
 fragte:
 
@@ -671,7 +671,7 @@ Die ersten Hitzewellen kamen herab, die ersten Qualmschwaden
 Wir beide werden doch wohl mit so einem Balken als
 Rammbock die Tür eindrücken!«
 
-Er legte die Taschenlampe so aus den Leib des Tigers,
+Er legte die Taschenlampe so auf den Leib des Tigers,
 daß der Lichtkreis die Tür traf.
 
 Wir packten zu — Drei Stöße genügten. Die Tür
@@ -805,7 +805,7 @@ peinlich wurde und er ihm bei erster Gelegenheit zuraunte:
 bescheidenes Trickchen zur Täuschung von Spionen.«
 
 Trotzdem wurde Harald erst abends nach Dunkelwerden
-»gesund«. Bis dahin hatte er am der Veranda im Faulenzer
+»gesund«. Bis dahin hatte er auf der Veranda im Faulenzer
 gelegen.
 
 Ja — er wurde gesund und wurde wie ich mit Hilfe
@@ -837,7 +837,7 @@ Es war jetzt elf Uhr abends. Wir saßen in unserem
 Gastzimmer und tranken bei dicht verhängten Fenstern mit
 dem Major die Abschiedsflasche.
 
-Sampson kam wieder aus seine heutige Tagesarbeit zu
+Sampson kam wieder auf seine heutige Tagesarbeit zu
 sprechen.
 
 »Verdammt — wie die Herren in Kalkutta es sich wohl
@@ -968,7 +968,7 @@ Stimme:
 der Knebel!
 
 Harald hatte ihn offenbar mit der Zunge herausgestoßen.
-Ob nicht auch mir dies glücken Würde. Es gelang.
+Ob nicht auch mir dies glücken würde. Es gelang.
 
 »Harald!« flüsterte ich.
 
@@ -1079,7 +1079,7 @@ für ihn nachher nicht schwer gewesen sein, festzustellen, wer
 allein dieser Spion, der in Lord Scheldons Park verschwand,
 gewesen sein muß. Von da an werden die Halunken uns
 nicht aus den Augen gelassen haben. Ich habe ja bereits
-zugegeben, daß ins mich hier in Bhopal völlig sicher fühlte.
+zugegeben, daß ich mich hier in Bhopal völlig sicher fühlte.
 Ich ahnte nichts von dieser steten Ueberwachung durch die
 beiden. Sonst wäre uns die Geschichte mit dem alten Yogi
 nicht passiert. Und ebenso habe ich mich auch bei Sampson
@@ -1102,7 +1102,7 @@ Rückseite des verfallenen Gebäudes dicht vor uns.
 
 »Ah — das Mädchen!« hauchte Harst.
 
-Wirklich, die Inderin saß da aus einem der Mauertrümmer,
+Wirklich, die Inderin saß da auf einem der Mauertrümmer,
 hatte das Gesicht in den Händen vergraben und
 — weinte still in sich hinein.
 
@@ -1338,7 +1338,7 @@ Sie hofften doch, hier von mir unter Umständen meine Ansicht
 Kommissar nicht ganz harmlos vorgekommen waren. Bei
 Ihnen stritten Pflicht und ein anderes Gefühl miteinander.«
 
-»Ja Mr. Harst,« erklärte Mirar offen. »Die Polizei
+»Ja, Mr. Harst,« erklärte Mirar offen. »Die Polizei
 hier hatte gestern eine Verfügung aus Kalkutta erhalten,
 und —«
 
@@ -1383,7 +1383,7 @@ früher in der Banknotendruckerei in Kalkutta angestellt
 waren und von dort mit Druckplatten und großen Mengen
 Banknotenpapier flüchteten. Sie als Residenturarzt sollten
 von hier ferngehalten werden. Sie hätten diese Verbrecher
-gestört. Das, was Sie hier Wunderbar es erlebten, wird
+gestört. Das, was Sie hier Wunderbares erlebten, wird
 seine sehr natürliche Aufklärung durch Falltüren und Geheimtüren
 in den Wänden und sonstige Hilfsmittel finden.
 So ist zum Beispiel dieser Tumaru nicht bucklig, sondern

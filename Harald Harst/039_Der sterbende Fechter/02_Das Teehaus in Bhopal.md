@@ -110,7 +110,7 @@ Späher der Beduinenhorde Scheich Umri Schomars vermutete,
 stand ich langsam auf, holte mein Fernglas und
 richtete es auf die regungslos dastehende Gestalt.
 
-Ich zuckte zusammen, als ich; das Glas eingestellt hatte.
+Ich zuckte zusammen, als ich das Glas eingestellt hatte.
 Ich glaubte im ersten Moment an eine Sehtäuschung, an
 ein Trugbild, das mir lediglich meine Phantasie vorgaukelte.
 
@@ -280,7 +280,7 @@ ist fraglos entführt worden.«
 Der alte Hausmeister knetete verlegen seine Hände.
 
 »Ich — ich habe Lord Percy geloben müssen, über all
-das zu schweigen, Mrs. Harst. Meine Zunge bindet ein
+das zu schweigen, Mr. Harst. Meine Zunge bindet ein
 Eid.«
 
 »Nun gut. Ich will nicht weiter in Sie dringen. Ich
@@ -425,7 +425,7 @@ bedeckt.
 
 »Rieche!«
 
-Ich tat es. Das Zeug am Finger reicht etwas nach
+Ich tat es. Das Zeug am Finger riecht etwas nach
 schlechtem Oel und auch wie Teer etwa.
 
 »Wagenschmiere nennt man das,« lächelte Harald. Ja
@@ -929,7 +929,7 @@ fragte ich.
 der Intimen des Exministers. Er prahlte damit, daß er
 bereits 20 Jahre im Dienste des mächtigen Dscham Dauli
 stehe. Und Geld muß er auch haben. Sein Häuschen ist
-recht sauber und schmuck. — So, nun Ruhe Dich aber
+recht sauber und schmuck. — So, nun ruhe Dich aber
 noch eine Weile aus, mein Alter. Ich habe noch meine
 Jacke zu flicken. Die Rückennaht ist aufgetrennt. Bei Dir
 übrigens auch, wie ich vorhin bemerkte. Ziehe sie also

@@ -274,7 +274,7 @@ eine Silbermünze in die Hand.
 
 »Ist es noch weit bis Imkari?« fragte er auf englisch.
 
-Der Brahmane deutete aus einen Waldstrich vor uns und
+Der Brahmane deutete auf einen Waldstrich vor uns und
 humpelte dann wieder in den Straßengraben.
 
 Wir fuhren weiter. Harald war jetzt auffallend schweigsam.
@@ -755,7 +755,7 @@ schnell. Weit und breit war weder von der Rikscha noch
 der Dame, noch den beiden Hellblauen etwas zu bemerken.
 Die vier Bauern aus Imkari haben es meinem Kommissar
 Drenga Mirar erzählt. Die Kerle schwören natürlich, die
-Rikscha seit tatsächlich vorhanden und —«
+Rikscha sei tatsächlich vorhanden und —«
 
 »Hm —,« machte Harald. »Hm — und man hat diese
 weiße Rikscha noch häufiger gesehen?«
@@ -1075,7 +1075,7 @@ Geflecht eines Korbes bequem Ausschau halten.
 
 Harald hockte vorn auf dem Sitzbrett. Das Maultier
 war sicher tief empört, daß es in flottem Trab uns bis
-an die Wegekreuzung beim Dorfe Imkari Ziehen mußte.
+an die Wegekreuzung beim Dorfe Imkari ziehen mußte.
 Zitternd und schaumbedeckt blieb es hier stehen. Der Weg
 stieg von hier aus ziemlich steil zum Plateau an, und da
 streikte die alte Mähre eben. Es half nichts: Harst mußte
@@ -1264,7 +1264,7 @@ Da sagte Harald schon mit spöttischem Auflachen:
 
 »Merkwürdig, daß Du uns so sorgfältig gefesselt hast,
 wenn Dir Mensch, Tier, Wasser und Luft gehorchen. Du
-bist wohl ein Yogi? Dann beweise Dach, daß Du mehr
+bist wohl ein Yogi? Dann beweise doch, daß Du mehr
 kannst als andere! Was hast Du dort in dem Korbe?
 Ich vermute Schlangen.«
 
@@ -1568,7 +1568,7 @@ Felsbrocken, aus denen die Gespenster-Rikscha hervorgekommen
 war.
 
 Harald steuerte auf die Felsen zu. Wir suchten dort
-eine volle. Stunde, wobei wir zeitweise unsere Taschenlampen
+eine volle Stunde, wobei wir zeitweise unsere Taschenlampen
 benutzten. Dann hatten wir das Geheimnis entdeckt:
 eine scheinbar enorm dicke Felsplatte ließ sich spielend
 leicht zur Seite rollen und gab so den gut 1,50 Meter
@@ -1679,7 +1679,7 @@ Zeiten stumm. — Ich war vorhin im Polizeigefängnis.
 Ethel hat ein reumütiges Geständnis abgelegt. Sie ist als
 grauhaarige Malerin Elizabet Tompkins mit zwei Dienern
 — ihren Brüdern — hierher gekommen, um Sie, der Sie
-als gebotener Schotte zum Aberglauben neigen, durch die
+als geborener Schotte zum Aberglauben neigen, durch die
 Gespenster-Rikscha allmählich dem Wahnsinn zuzutreiben.
 Archibald Parell wollte sich gleichzeitig an Ihnen rächen,
 weil er auf Ihre Veranlassung mit Gefängnis bestraft worden

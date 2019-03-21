@@ -218,7 +218,7 @@ irgendwie zu erörtern. —
 
 Drei Tage darauf kam Nachricht aus Hamburg, daß
 dort ein verdächtiges Paar logiere. Wir fuhren hin, fanden
-das Nest leer, aber stelltest doch wenigstens das eine mit
+das Nest leer, aber stellten doch wenigstens das eine mit
 aller Bestimmtheit fest, daß es tatsächlich Möckern und die
 Linden gewesen waren.
 
@@ -235,7 +235,7 @@ Sache, die nicht so alltäglich begann.
 
 > Seebad W...., Langestraße 1.
 
-> 2. Juli 19..
+> 2\. Juli 19..
 
 > Sehr geehrter Herr Harst!
 
@@ -476,7 +476,7 @@ Flügel stieß ein geradezu freudiges: »Ah — Herr Harst!«
 aus.
 
 Gleich darauf saßen wir in Flügels bescheiden eingerichtetem
-Wohnzimmer.
+Arbeitszimmer.
 
 <@pagebreak/>
 »Ja,« meinte er achselzuckend, »über diesen Mord läßt
@@ -539,7 +539,7 @@ sich jemand vom Tatorte entfernte! — Sie behaupteten
 nun mit aller Bestimmtheit, daß sie kein lebendes Wesen
 in der Nähe erspäht hatten. Sie waren nach einer Weile
 völlig ahnungslos nach Hause gegangen. Dann war auch
-schon der Wachtmeister Schütte mit dem Polizeihunde erschienen.
+schon der Wachtmeister Schülke mit dem Polizeihunde erschienen.
 
 Gerade dort nun, wo der Regierungsrat ermordet worden
 war, standen die neuen Häuser der Kurparkstraße, sechs
@@ -603,7 +603,7 @@ dickerer Stock zerbrochen würde?«
 mit der Tat zusammenzuhängen, denke ich mir, Herr Harst.
 Es kann irgendwoher aus größerer Entfernung gekommen
 <@pagebreak/>
-sein. Es ist jedenfalls sehr schwer, es irgendwie ins Beziehung
+sein. Es ist jedenfalls sehr schwer, es irgendwie in Beziehung
 zu dem Morde zu bringen.«
 
 »Wo befindet sich die Leiche? Kann ich sie mir mal
@@ -1004,7 +1004,7 @@ eben ein Dilettant des Verbrechens. Er hat nichts hinzugelernt
 — gar nichts! Was nützt es ihm, daß er das
 Steuerrad festgebunden hat und daß das Boot mit uns
 immer leidlich geradeaus in die Ostsee hinausjagt?! Was
-nützen die Zinkdrahtfesseln, wenn das Stenerruder, wie Du
+nützen die Zinkdrahtfesseln, wenn das Steuerruder, wie Du
 von hier aus erkennst, durch einen Strick in derselben Stellung
 festgehalten wird?! Die Knoten eines Strickes lassen sich
 mit den Zähnen öffnen.«

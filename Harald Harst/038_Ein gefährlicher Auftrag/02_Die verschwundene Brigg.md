@@ -7,11 +7,11 @@
 
 Harst und ich wollten gegen halb sieben abends gerade
 noch einen Spaziergang machen, als ein altes Weiblein
-mit einem Brief erschien in dem ein Schiffskapitäns
+mit einem Brief erschien in dem ein Schiffskapitän
 Ruiterholm Harald bat, ihn wenn möglich sofort zu besuchen.
 
 Harst schickte das alte Frauchen, die dem ehemaligen
-Kapitän die Wirtschaft führte, mit der Zusage wie der heim,
+Kapitän die Wirtschaft führte, mit der Zusage wieder heim,
 wir würden uns sehr bald in dem Häuschen Ruiterholms
 einfinden.
 
@@ -243,7 +243,7 @@ und erhob sich
 »Selbstverständlich. Wo und wie Sie wollen, meine
 Herren.«
 
-Harst nahm seinen Stuhl, stellte ihn unter den Ballen
+Harst nahm seinen Stuhl, stellte ihn unter den Balken
 und besichtigte den Bindfaden, an dem das Modell aufgehängt
 gewesen war.
 
@@ -415,7 +415,7 @@ offenbar aber nur in der Zerstreutheit.
 er nach einer Weile.
 
 »Allerdings. Man kann es ein kleines Kunstwerk nennen.
-Teile des Docks und der Bordwände lassen sich wie Deckel
+Teile des Decks und der Bordwände lassen sich wie Deckel
 von Kistchen in Scharnieren bewegen und gewähren dann
 einen Einblick in das Innere des Modells.«
 
@@ -793,12 +793,12 @@ Leuchte mal hinein in das Fach.«
 
 Dieses hohe, schmale Geheimfach enthielt dreierlei:
 
-1. Einen großen, versiegelten Brief mit der Aufschrift:
+1\. Einen großen, versiegelten Brief mit der Aufschrift:
 »Mein Testament«.
 
-2. Einen zusammengefalteten Bogen Papier.
+2\. Einen zusammengefalteten Bogen Papier.
 
-3. Eine vertrocknete, kurz hinter dem Gelenk glatt abgehauene,
+3\. Eine vertrocknete, kurz hinter dem Gelenk glatt abgehauene,
 menschliche rechte Hand, an deren Ringfinger noch
 ein plattgedrückter Goldring in Form eines glatten Reifens
 saß.
