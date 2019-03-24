@@ -33,7 +33,7 @@ Der Traum der Wildnis.</td></tr>
 Der Sprung ins Nichts.</td></tr>
 </table>
 
-<div style="text-align: center; margin-top: 1em;">Die vorstehenden Bände sind dar jede Buch- und Schreibwarenhandlung
+<div style="text-align: center; margin-top: 1em;">Die vorstehenden Bände sind durch jede Buch- und Schreibwarenhandlung
 zu beziehen, sowie auch gegen Einsendung von 50 Pfg. je Band vom</div>
 <div style="font-size: large; text-align: center;">Verlag moderner Lektüre G.m.b.H., Berlin SO 16,</div>
 <div style="text-align: center;">Michaelkirchstraße 23a</div>

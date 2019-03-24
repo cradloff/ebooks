@@ -165,7 +165,7 @@ Er raunte mir dann zu:
 sorgloses und unauffälliges Benehmen geändert. Er kriecht
 auf allen Vieren. Die Sache wird interessant.«
 
-Wir schoben uns am gleichfalls auf dem Bauche
+Wir schoben uns nun gleichfalls auf dem Bauche
 <@pagebreak/>
 vorwärts. Etwa fünfzig Schritt vor der Bauminsel hörte
 ich von vorn her den Ruf eines Käuzchens. Dreimal erklang
@@ -294,7 +294,7 @@ und woher sie kamen — ich meine, woher der Schall
 kam.«
 
 Harst nickte. »Erst zwei, dann mehrere. Das stimmt.
-Und woher? — Hm — ich denke von Dorf, wo der
+Und woher? — Hm — ich denke von dort, wo der
 dunkle Fleck inmitten der Felder liegt.«
 
 »Aha — von der verfluchten Ruine!« schimpfte der
@@ -432,7 +432,7 @@ mit einem Helm darauf.
 Ich war *so* überrascht, daß ich mich ganz regungslos
 verhielt. Harst hatte jedoch kaum den Spuk erblickt,
 als er auch schon mit dem scheinbar entsetzten Rufe: »Der
-Geist — der Geist!« davonrannte, — aber viele etwa
+Geist — der Geist!« davonrannte, — aber nicht etwa
 zurück, woher wir gekommen, sondern rechts um den Hügel
 herum den Ueberresten des Turmes zu.
 
@@ -500,13 +500,13 @@ Mittlerweile hatte Harst Gelegenheit gehabt, mir
 folgendes in bester Laune zuzuraunen: »Schraut, diesmal
 war ich dem Ende verflixt nahe — tatsächlich! Aber
 es schadet nichts! Wir sind nun gewarnt, wissen,
-mit wie rücksichtslosen Leuten wir es zu für haben. Wir
+mit wie rücksichtslosen Leuten wir es zu tun haben. Wir
 werden im Notfall ebenso rücksichtslos sein. Wurst wider
 Wurst!« Dann lachte er leise auf. »Der Ritter Jürgen
 war gottvoll! Haben Sie gesehen, daß sein Helm ein modernerer
 <@pagebreak/>
 Infanteriehelm war? Die Rüstung dagegen schien
-echt zu fein. Ich hörte die Schrote des Schusses des braven
+echt zu sein. Ich hörte die Schrote des Schusses des braven
 Wachtmeisters auf Metall aufschlagen. Er hätte mit einer
 Kugel schießen sollen. Das wäre wirksamer gewesen. Aber
 er wollte wohl den Herrn Geist nur »ankratzen«, — Eine
@@ -579,7 +579,7 @@ Sie waren sehr schweigsam und bedrückt.
 
 Der Gendarm bat uns dann, nach dem Dorfe zu
 gehen und von der Postnebenstelle aus nach der Kreisstadt
-in. in seinem Auftrag an den dortigen Gendarmerieoberwachtmeister
+W. in seinem Auftrag an den dortigen Gendarmerieoberwachtmeister
 folgendes telephonisch zu bestellen: »Sofort
 im Auto alles hierher.« — Das genüge, meinte er.
 Der Oberwachtmeister wisse schon Bescheid.
@@ -615,7 +615,7 @@ ob die Komtesse als reiche Erbin nicht zahlreiche Bewerber
 gehabt hätte, zumal sie doch sehr schön gewesen sein solle,
 entfuhr es Anna Gruber in gehässigem Tone:
 
-»Die?! Bewerber?! Ein so hochmütig es Weib! Und
+»Die?! Bewerber?! Ein so hochmütiges Weib! Und
 dabei noch kokett!«
 
 Plötzlich errötete sie jäh. Ihr kam zum Bewußtsein,
@@ -658,7 +658,7 @@ abgesucht worden sei — leider ergebnislos! Nur Blut
 hätte man am Rande eines Kornfeldes bemerkt, auch
 Spuren von Hunden. Sonst nichts — nichts. — Ueber
 <@pagebreak/>
-Luck sprach er acht, ebensowenig wie Harst unser erstes
+Luck sprach er nicht, ebensowenig wie Harst unser erstes
 Abenteuer mit den Drähten und den vier Hunden erwähnte.
 
 Als Harst ihn fragte, was denn eigentlich die Schießerei
@@ -716,7 +716,7 @@ was aus der Komtesse geworden ist. — Sie sehen mich
 so verdutzt an, lieber Schraut?! Ja — können Sie denn
 <@pagebreak/>
 nicht ein wenig kombinieren?! — Ueberlegen Sie mal,
-der Alte uns alles erzählt hat. Also:
+was der Alte uns alles erzählt hat. Also:
 
 Erstens: Schloß Blinkenstein besitzt eine berühmte
 Gemäldegalerie. Außerdem ist der Graf als Sammler
@@ -903,7 +903,7 @@ Arme gelaufen und mit Pistolenschüssen niedergestreckt oder
 auf eine andere, heimtückischere und vielleicht noch sicherere
 Art ins Jenseits spediert worden. Wenn ich den Ausdruck
 soeben gebrauchte, »er arbeitet schwer,« so meine
-nicht etwa eine künstlerische Tätigkeit. Nein, lieber
+ich nicht etwa eine künstlerische Tätigkeit. Nein, lieber
 Schraut, — er beschäftigte sich mit Schaufel und Spitzhacke.
 Haben Sie nicht unter den Tannen neben der
 Ruine überall Mauersteintrümmer und Erde bemerkt,
@@ -997,7 +997,7 @@ Fuge der Bodenbretter sogar zwei Lodennadeln gefunden.
 leisten.« — Herbert Uhlich, der junge Lehrer, war
 wirklich vom 1. Mai abends bis zum folgenden Abend
 verreist gewesen, angeblich nach der Provinzialhauptstadt.
-Der Wagen gehörte einem Enkel von ihm, der in Garz
+Der Wagen gehörte einem Onkel von ihm, der in Garz
 eine Bäckerei besaß. Uhlich wohnte in dem Städtchen seit
 dem 4. April, seit seiner Versetzung dorthin, in einem
 netten Häuschen außerhalb der Stadt dicht am Walde.
@@ -1025,7 +1025,7 @@ er lebe ganz zurückgezogen nur seinen Studien.«
 
 »Ja — eine einläufige Vogelflinte.«
 
-»So so — dann je ja alles beieinander! Lieber
+»So so — dann ist ja alles beieinander! Lieber
 Schraut, ich bin sehr zufrieden mit Ihnen — sehr! —
 Der Fall ist erledigt — gänzlich, restlos. Ich könnte
 sofort zum Grafen gehen und ihm sagen, wie seine
@@ -1034,7 +1034,7 @@ Tochter beseitigt wurde.«
 »Aber — aber der Herbert Uhlich sieht wirklich nicht
 so aus, als ob er jemand —«
 
-»Und doch hat er es getan! Uns sein Onkel ist Mitwisser, 
+»Und doch hat er es getan! Und sein Onkel ist Mitwisser, 
 <@pagebreak/>
 ist der Wagenlenker gewesen. — Dieser Fall zeigt
 so recht wieder, lieber Schraut, daß bei unserem freiwillig
@@ -1200,7 +1200,7 @@ Astgabel befanden.
 
 Hier hatten wir kaum drei Minuten mäuschenstill
 gesessen, als unter mir ein feines Glöckchen ertönte. Wo?
-— konnte ich im feststellen. Dann spürte ich Harsts
+— konnte ich nicht feststellen. Dann spürte ich Harsts
 Atem an meiner Wange: »Sie kommen,« hauchte er.
 »Schauen Sie nach dem Turm hin —«
 
@@ -1245,7 +1245,7 @@ Million haben sollen. Der Rotbärtige, der sich am seltensten
 öffentlich zeigt und der auch nicht mit ins Schloß
 zum Kopieren der Bilder ging — übrigens ist nur die
 »Magda« Malerin, — scheint als entlassener Diener
-des Grafen diesen ganzen Plan entworfen zu haben. Er,
+des Grafen diesen ganzen Plan entworfen zu haben. Er
 <@pagebreak/>
 hatte irgendwie in Erfahrung gebracht, daß von dem
 alten Flügel des Schlosses ein stellenweise verschütteter
@@ -1339,7 +1339,7 @@ Draht gespannt. Ich bemerkte ihn zu spät. Aber ich war
 <@pagebreak/>
 doch auf eine ähnliche Teufelei gefaßt. Ich konnte mein
 Körpergewicht nicht mehr verlegen, mußte mit dem vorgestreckten
-Fuß den Draht zu berühren. Die einzige Rettung
+Fuß den Draht berühren. Die einzige Rettung
 war der Versuch, die Leitung zu zerstören. Ich riß mit
 aller Kraft an den besponnenen Drähten. Es glückte —«
 
@@ -1410,7 +1410,7 @@ ein dumpfer Geruch wie in einem tiefen, nassen Keller.
 Nun oben Lichtschein, das Knarren der Treppenstufen.
 <@pagebreak/>
  
-Wir haften inzwischen die Patronenrahmen der
+Wir hatten inzwischen die Patronenrahmen der
 Selbstlader frisch gefüllt. — Mochten sie nur kommen!
 
 Und sie kamen.

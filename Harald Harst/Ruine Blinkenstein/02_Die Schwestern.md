@@ -77,7 +77,7 @@ gewählten Worten redeten, wie sie nur am Schreibtisch ausgetüftelt
 werden.
 
 Maria Mallien wurde sein Schicksal. Ihre aschblonde,
-kühle, vornehme Schönheit, der stille Bild der vornehmen
+kühle, vornehme Schönheit, der stille Blick der vornehmen
 <@pagebreak/>
 Augen, die wundervolle Stimme, das ungekünstelte ihres
 Wesens, dem ein Sigurd Lörs ein Nichts bedeutete, weil
@@ -315,7 +315,7 @@ nicht ...«
 
 Sie schaute gleichfalls in die Kapelle hinein.
 
-Dann — sehr hastig: »Der Herr ist mir fremd. _
+Dann — sehr hastig: »Der Herr ist mir fremd. —
 Bitte erwähnen sie nicht, daß ich hier war ...«
 
 Sie schritt davon ... —
