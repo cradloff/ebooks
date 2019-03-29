@@ -1,0 +1,370 @@
+Liquibase
+=========
+:author:    Claus Radloff
+:backend:   slidy
+:max-width: 60em
+:data-uri:
+:icons:
+
+== Einleitung ==
+
+=== Source Control for your Database ===
+
+Liquibase ist eine datenbankunabhängige Open Source-Bibliothek zum Nachverfolgen, Verwalten und Anwenden von Änderungen an Datenbankschemas. Es wurde 2006 gestartet, um eine einfachere Nachverfolgung von Datenbankänderungen zu ermöglichen, insbesondere in einer agilen Softwareentwicklungsumgebung.
+
+(Quelle: https://en.wikipedia.org/wiki/Liquibase[Wikipedia])
+
+== Feature Übersicht ==
+
+* Unterstützt Code Branching und Merging
+* Unterstützt mehrere Entwickler
+* Unterstützt verschiedene Datenbank-Typen
+* Unterstützt XML-, YAML-, JSON- und SQL-Format
+* Unterstützt Context-abhängige Logik
+* Cluster-safe Datenbank Upgrades
+* Generiert http://www.liquibase.org/dbdoc/index.html[Datenbank Änderungshistorie]
+* Generiert http://www.liquibase.org/documentation/diff.html[Datenbank-Diffs]
+* Wird während dem Build-Prozess ausgeführt, kann bei Bedarf in die Anwendung integriert werden
+* Generiert automatisch SQL-Scripte für DBA Code Review
+* Benötigt keine Live-Datenbank-Verbindung
+
+(Quelle: http://www.liquibase.org[Liquibase-Webseite])
+
+== Problemstellung ==
+
+Es sollen viele Datenbanken (über 100) zu unterschiedlichen Zeitpunkten auf den jeweils aktuellen Stand gebracht werden:
+
+[cols="10,5>,15,15",options="header"]
+|====================
+|Datenbank        |Anzahl |Aktualisierung        |Ausführung
+|Entwickler       |32 |Täglich                   |Jeder Entwickler selbst
+|Continous Build  | 5 |Täglich                   |Automatisiert durch Jenkins
+|Regressionstests |36 |1x pro Sprint             |Automatisiert durch Scripte
+|Test (manuell)   |30 |Täglich                   |Automatisiert beim Deployment
+|Schulung         | 2 |1x pro Release            |Betrieb
+|Integration      | 3 |Mehrmals pro Release      |Betrieb
+|Produktion       | 1 |1x pro Release + Hotfixes |Betrieb
+|====================
+
+== Verwendung von SQL-Scripten nicht praktikabel ==
+
+* Die meisten Änderungen können nicht mehrfach ausgeführt werden (z.B. create table)
+* Unklar, welches Script auf welcher DB schon gelaufen ist
+* DB-Änderungen können nicht automatisiert eingespielt werden
+* Bei Fehlern ist ein Teil des Scripts schon ausgeführt, ein Teil noch nicht
+* Hoher Aufwand / hohes Fehlerpotential
+
+== Anforderungen: ==
+
+* Änderungen müssen genau einmal ausgeführt werden
+* Reihenfolge von Änderungen muss eingehalten werden
+* Änderungen müssen jeweils komplett oder gar nicht ausgeführt werden
+* Bei Fehlern muss an der zuletzt ausgeführten Änderung weitergemacht werden
+* Alle Scripte müssen versioniert werden
+* Unterstützung von Feature-Branches
+
+== Arbeitsweise Liquibase ==
+
+* alle Datenbank-Änderungen werden in Change-Logs verwaltet
+* ein Change-Log besteht aus einzelnen Change-Sets
+* ein Change-Set besteht aus ein oder mehreren SQL-Anweisungen
+* jedes Change-Set wird in einer eigenen Transaktion ausgeführt
+* ein Change-Set wird durch den Dateinamen des Change-Logs, den Namen des Autors und eine ID referenziert
+* ausgeführte Change-Sets werden in einer eigenen Datenbank-Tabelle DATABASECHANGELOG protokolliert
+* Change-Sets werden sequentiell, wie im Change-Log aufgeführt, ausgeführt
+* Bereits ausgeführte Change-Sets werden ignoriert
+
+== Beispiel: zwei Tabellen werden neu angelegt ==
+
+--------------------------------------
+<changeSet author="radloffc001" id="20150703-01" context="kiwi">
+	<createTable tableName="BerechtigungAnwendungsfall">
+		<comment>RfC SEP32-KG-09380:  Überarbeitung des Berechtigungskonzepts</comment>
+		<column name="BerechtigungAnwendungsfall_ID" type="number(19, 0)">
+			<constraints primaryKey="true" nullable="false" />
+		</column>
+		<column name="anwendungsfall" type="varchar2(200)">
+			<constraints nullable="false" />
+		</column>
+		<column name="kontext" type="varchar2(50)"/>
+		<column name="sonderrecht" type="varchar2(1)"/>
+	</createTable>
+</changeSet>
+<changeSet author="radloffc001" id="20150703-02" context="kiwi">
+	<createTable tableName="BerechtigungAfBasisrecht">
+		<column name="BerechtigungAnwendungsfall_ID" type="number(19, 0)">
+			<constraints nullable="false" />
+		</column>
+		<column name="basisrecht" type="number(2, 0)">
+			<constraints nullable="false" />
+		</column>
+	</createTable>
+</changeSet>
+--------------------------------------
+
+== Einträge in DATABASECHANGELOG ==
+
+[options="headers"]
+|==================
+|ID          |Author      |Filename          |Date Executed    |Order Executed |Exec Type |MD5 Sum   |Description    |Liquibase |Contexts |Comments
+|20150703-01 |radloffc001 |changeLog-P53.xml |21.02.2019 15:31:06,789 |860     |EXECUTED  |7:1a207b… |createTable    |3.4.1     |kiwi     |RfC SEP32-KG-09380: Überarbeitung des Berechtigungs-konzepts
+|20150703-02 |radloffc001 |changeLog-P53.xml |21.02.2019 15:31:06,807 |861     |EXECUTED  |7:09d338… |createTable    |3.4.1     |kiwi     | 
+|==================
+
+== Unterstützte Formate (1) ==
+
+.XML:
+-------------------------
+<changeSet author="radloffc001" id="20150703-01" context="kiwi">
+	<comment>RfC SEP32-KG-09380: Überarbeitung des Berechtigungskonzepts</comment>
+	<dropTable tableName="BerechtigungAfBasisrecht" cascadeConstraints="true"/>
+	<dropTable tableName="BerechtigungAnwendungsfall" cascadeConstraints="true"/>
+</changeSet>	
+-------------------------
+
+.YAML:
+-------------------------
+- changeset
+    id: 20150703-01
+    author: radloffc001
+    context: kiwi
+    changes:
+      - dropTable
+	    tableName: BerechtigungAfBasisrecht
+	    cascadeConstraints: true
+      - dropTable
+	    tableName: BerechtigungAnwendungsfall
+	    cascadeConstraints: true
+-------------------------
+
+== Unterstützte Formate (2) ==
+
+.JSON:
+-------------------------
+"changeSet": {
+    "id": "20150703-01",
+    "author": "radloffc001",
+    "context": "kiwi",
+    "changes": [ {
+            "dropTable": {
+                "tableName": "BerechtigungAfBasisrecht",
+                "cascadeConstraints": true } }, {
+            "dropTable": {
+                "tableName": "BerechtigungAnwendungsfall",
+                "cascadeConstraints": true }
+        }
+   ]
+}
+-------------------------
+
+.SQL: (nicht alle Features unterstützt, Datenbank-abhängig)
+-------------------------
+--liquibase formatted sql
+--changeset radloffc001:20150703-01 context:kiwi
+drop table BerechtigungAfBasisrecht cascade constraints;
+drop table BerechtigungAnwendungsfall cascade constraints;
+-------------------------
+
+== Ausführen von Changelogs ==
+
+=== Voraussetzungen ===
+
+Liquibase ist in Java entwickelt und benötigt zur Ausführung Java 8.
+
+Die Parameter für den Aufruf können alternativ in der Datei `liquibase.properties` im aktuellen Arbeitsverzeichnis hinterlegt werden.
+
+== Ausführen in der Kommandozeile ==
+
+-------------------------
+liquibase [options] [command] [command parameters]
+-------------------------
+
+Beispiel:
+
+-------------------------
+java -jar liquibase.jar
+ 		--changeLogFile=changelog.xml
+		--username=user
+		--password=secret
+		--url= jdbc:oracle:thin:@localhost:12345:dbid
+		--driver=oracle.jdbc.driver.OracleDriver
+		--classpath=Path/to/classes
+ 		update 
+-------------------------
+
+== Ausführen mit Ant ==
+Einbinden des Liquibase-Task
+
+-------------------------
+<project name="Example" xmlns:liquibase="antlib:liquibase.integration.ant">
+	<taskdef resource="liquibase/integration/ant/antlib.xml"
+			uri="antlib:liquibase.integration.ant">
+		<classpath path="path/to/liquibase/libs"/>
+	</taskdef>
+</project>
+-------------------------
+
+Ausführen von Änderungen
+
+-------------------------
+<liquibase:updateDatabase changeLogFile="/path/to/changeLog.xml">
+	<liquibase:database driver="${db.driver}" url="${db.url}"
+		user="${db.user}" password="${db.pasword}"/>
+</liquibase:updateDatabase>
+-------------------------
+
+== Ausführen mit Maven ==
+
+-------------------------
+  <project>
+    <build>
+      <plugins>
+	<plugin>
+	   <groupId>org.liquibase</groupId>
+	   <artifactId>liquibase-maven-plugin</artifactId>
+	   <version>3.0.5</version>
+	   <configuration>                  
+		  <propertyFile>src/main/resources/liquibase/liquibase.properties</propertyFile>
+	   </configuration>                
+	   <executions>
+		 <execution>
+		   <phase>process-resources</phase>                                                                  
+		   <goals>
+			 <goal>update</goal>
+		   </goals>
+		 </execution>
+	   </executions>
+	</plugin> 	
+      </plugins>
+    </build>
+  </project>
+-------------------------
+
+== Best Practices ==
+
+* pro Release ein Changelog
+* ggf. eigene Changelogs für größere zusammengehörige Änderungen
+* Einmal eingecheckte Changesets nicht mehr ändern!!!
+* pro Changeset nur eine DDL-Anweisung!
+* als Autor wird die Benutzerkennung des Entwicklers eingetragen
+* als ID wird das aktuelle Datum + laufende Nummer verwendet
+* Jira-Item o.ä. als Kommentar angeben
+
+.Beispiel
+-------------------------
+<changeSet author="radloffc001" id="20150703-01" context="kiwi">
+	<comment>RfC SEP32-KG-09380:  Überarbeitung des Berechtigungskonzepts</comment>
+	<dropTable tableName="BerechtigungAfBasisrecht" cascadeConstraints="true"/>
+</changeSet>	
+<changeSet author="radloffc001" id="20150703-02" context="kiwi">
+	<dropTable tableName="BerechtigungAnwendungsfall" cascadeConstraints="true"/>
+</changeSet>	
+-------------------------
+
+== Features ==
+
+* Ausführen von DDL- und DML-Statements
+* Ausführen von bedingten Änderungen mit Preconditions
+* Importieren von mehreren Changelogs
+* Importieren von Daten aus CSV-Dateien
+* Erstellen von Changelogs aus bestehenden Datenbanken
+* Vergleichen von Datenbanken
+* Änderungen rückgängig machen
+* Änderungen abhängig vom Kontext (z.B. Produktion / Test)
+* Generieren von SQL-Scripten
+* http://www.liquibase.org/dbdoc/index.html[Dokumentation generieren]
+
+== Bedingtes Ausführen mit Preconditions (1) ==
+
+Wenn beispielsweise schon Änderungen in einigen DB manuell durchgeführt wurden, kann es notwendig sein, eine Änderung an eine Bedingung zu knüpfen.
+Beispiel: einen Index nur dann anlegen, wenn er nicht schon existiert
+
+-------------------------
+<changeSet id="20170131-01" author="anonymous" context="kiwi">
+	<preConditions onFail="MARK_RAN" onFailMessage="Index bereits vorhanden">
+		<not><indexExists indexName="SUCHE_KGHE_IDENTABGLEICH" /></not>
+	</preConditions>
+	<comment>Indizes für den Job IdentAbgleichVerarb</comment>
+	<createIndex indexName="SUCHE_KGHE_IDENTABGLEICH" tableName="KindergeldhistorieEreignis">
+		<column name="ereignisart" />
+		<column name="statusIdentAbgleich" />
+		<column name="schattenlauf" />
+		<column name="kindBestand" />
+		<column name="kunde" />
+	</createIndex>
+</changeSet>
+-------------------------
+
+== Bedingtes Ausführen mit Preconditions (2) ==
+
+Für die Condition kann ein beliebiger Select verwendet werden. 
+
+Beispiel: einen Constraint nur dann anlegen, wenn er nicht schon existiert
+
+-------------------------
+<changeSet id="20160816" author="anonymous" context="kiwi">
+	<preConditions onFail="MARK_RAN" onFailMessage="Constraint bereits vorhanden">
+		<sqlCheck expectedResult="0">select count(*) from user_cons_columns cc join user_constraints c on cc.constraint_name = c.constraint_name
+where c.table_name='BATCH_JOB_KENNZAHL' and cc.column_name='BATCH_JOB_LOG_ID' and constraint_type='R'</sqlCheck>
+	</preConditions>
+	<comment>Constraint erstellen, falls noch nicht vorhanden</comment>
+	<addForeignKeyConstraint baseColumnNames="BATCH_JOB_LOG_ID"
+		baseTableName="batch_job_kennzahl"
+		constraintName="FK_BatchJobKennz_BatchJobLg"
+		referencedTableName="batch_job_log"
+		referencedColumnNames="id" />
+</changeSet>
+-------------------------
+
+== Importieren von mehreren Changelogs ==
+
+Für jedes Release sollte ein eigenes Changelog angelegt werden. Mehrere Changelogs können dann wieder zu einem Script zusammengefasst werden:
+
+-------------------------
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog 
+	xmlns="http://www.liquibase.org/xml/ns/dbchangelog" 
+	xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog dbchangelog-3.4.xsd 
+		http://www.liquibase.org/xml/ns/dbchangelog-ext dbchangelog-ext.xsd"
+	logicalFilePath="dbchangelog.xml">
+
+	<include file="16.01.00.00/changeLog-P61.xml" relativeToChangelogFile="true"/>
+	<include file="16.02.00.00/changeLog-P62.xml" relativeToChangelogFile="true"/>
+	<include file="16.03.00.00/changeLog-P63.xml" relativeToChangelogFile="true"/>
+	
+	<!-- wiederholbare Änderungen -->
+	<include file="latest/data/changeLog-Daten.xml" relativeToChangelogFile="true"/>
+	<include file="latest/changeLog-Views.xml" relativeToChangelogFile="true"/>
+</databaseChangeLog>
+-------------------------
+
+Das Attribut `relativeToChangelogFile` sorgt dafür, dass keine absoluten Dateinamen angegeben werden müssen.
+
+== Importieren von Daten aus CSV-Dateien ==
+
+Um Daten einzufügen, kann man mit Insert/Update/Delete arbeiten. Alternativ können Daten auch aus CSV-Dateien importiert werden. Dies ist vor allem sinnvoll für Daten, die vom Entwicklungsteam gepflegt werden, auf die die Anwendung nur lesend zugreift.
+
+.Changeset
+-------------------------
+<changeSet author="radloffc001" id="20151218-01" runOnChange="true" context="kiwi">
+	<delete tableName="Aufzaehlung" />
+	<loadData tableName="Aufzaehlung" 
+		file="aufzaehlung.csv" relativeToChangelogFile="true" 
+		encoding="UTF-8" separator=";" quotchar="#"/>
+</changeSet>
+-------------------------
+
+.Inhalt der CSV-Datei
+-------------------------
+Aufzaehlung_ID;version;aufzaehlungstyp;schluessel;reihenfolge;kurztext;aktiv;techBezeichner;langtext
+101;0;AKTNR;5001;1;Kindergeld;Y;KG;Kindergeld
+102;0;AKTNR;5003;2;Kinderzuschlag;Y;KIZ;Kinderzuschlag
+201;0;DOKSTAT;ibeg;1;in Bearbeitung;Y;IBEG;#Status "in Bearbeitung"#
+202;0;DOKSTAT;zda;2;zu den Akten;Y;ZDA;#Status 'zu den Akten'#
+…
+-------------------------
+
+In der ersten Zeile sind die Spaltennamen enthalten, die restlichen Zeilen sind Daten.
+
