@@ -1,5 +1,7 @@
 <@pagebreak/>
+
 <h1>Eine Löwenjagd im Sinai</h1>
+
 <h2>1. Kapitel.</h2>
 
 »Mylady, Sie müssen doch einsehen, daß es für einen

@@ -1,4 +1,4 @@
-<@pagebreak/>
+<@pagebreak 33/>
 
 <h1>Das Geheimnis der Oase Fartah.</h1>
 
@@ -116,7 +116,7 @@ Ich will hier die Zeichnung so wiedergeben, wie ich sie auf
 dem Blatte fand, nur mit geraden Strichen — bis auf die
 Kreise.
 
-<img src="haus.jpg" width="100%" height="auto" alt="Haus mit drei Kreisen unterhalb"/>
+<img src="haus.jpg" style="width: 100%; height: auto;" alt="Haus mit drei Kreisen unterhalb"/>
 
 So also sah das Ganze aus. — Nun mag der Leser versuchen,
 sich zunächst mal selbst eine Ansicht darüber zu bilden. —
