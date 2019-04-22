@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">f40954f4-654f-11e9-9bee-436147bb3006</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Acht-Grad-Kanal</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">43</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Acht-Grad-Kanal.
+
+»Die Depesche ist vor einer Stunde eingetroffen,« sagte Harald Harsts Mutter zu uns, als wir im Flur des Harstschen Hauses die Mäntel ablegten.
+
+»Da — lies! Das klingt ja unglaublich,« meinte er. Ich hatte schnell das Telegramm überflogen. Es lautete:
+
+»Dampfer Mangrovia unserer Reederei mit 122 Singhalesen an Bord unbekannt wohin zu fraglos verbrecherischen Zwecken verschleppt. 5000 Pfund Unkostenvorschuß angewiesen an Deutsche Bank. Bitten Sie höflichst, sofort zu kommen. — Reederei Maxwell u. Plomp, Liverpool, Nr. 18.«
+
+»Die Sache dürfte sich in indischen Gewässern abgespielt haben. Ich denke, wir reisen nach Liverpool,« sagte Harst.
+
+Der Perlenfischer von Pamban.
+
+Wir verlebten acht herrliche, friedliche Tage auf den Koralleninseln.  Die befreiten Singhalesen und die gefangenen Gelben waren durch einen Regierungsdampfer abgeholt worden.  Außer uns befanden sich jetzt auf dieser kleinen Nebengruppe der Malediven nur noch drei Beamte der indischen Kolonialregierung, die die Perlenbänke näher untersuchen wollten. Sie hatten fünf indische Diener mit und hielten sich ganz für sich, was uns nur lieb war.
+
+Der dicke, kleine Klaas war in den letzten beiden Tagen auffallend schweigsam geworden. Beim Mittagessen am achten Tage fragte Harald ihn daher:
+
+»Käp’ten, wo drückt der Schuh? Sie sollten nicht so viel trinken, Sie ruinieren sich.«
+
+Druyter zuckte die Achseln. »Manche Maschine braucht wenig Oel, manche viel, Herr Harst. Würd’ ich drei Tage auf den Grog verzichten, wär’ ich reif für ’n Siechenheim, — Hm — wo der Schuh drückt? Ja — wenn ich wüßte, daß Sie nicht so übermodern denken und alles Uebernatürliche nicht glattweg auf den Kehrichthaufen werfen, — dann — dann —«
+
+»Nun — dann?« munterte ihn Harald interessiert auf.
+
+»Dann würd’ ich Ihnen erzählen, wie ich vor fünf Jahren Frau und Tochter einbüßte und Sie bitten, mir ehrlich zu erklären, was Sie von der Sache halten —«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (043) Der Acht-Grad-Kanal.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
