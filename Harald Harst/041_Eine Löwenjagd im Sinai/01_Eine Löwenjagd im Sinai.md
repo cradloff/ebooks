@@ -125,7 +125,7 @@ in scherzendem Tone.
 
 Lady Lydias Stimmung war jetzt weit besser als vorhin.
 Ja — ich wunderte mich geradezu, daß sie plötzlich alle Angst
-um Harald ab geschüttelt zu haben schien.
+um Harald abgeschüttelt zu haben schien.
 
 Es wurde so ein recht heiterer Abend. Erst gegen Mitternacht
 küßten wir der liebenswürdigen Hausfrau die Hand und
@@ -195,7 +195,7 @@ den Bewohnern des verborgenen Tales, dem wir jetzt einen Besuch
 abstatten wollten, war hier noch nichts zu fürchten. Jenes
 <@pagebreak/>
 Tal lag anderthalb Tagereisen weit im Südosten. Wir konnten
-also aller Ruhe und Behaglichkeit dahinreiten, womit
+also in aller Ruhe und Behaglichkeit dahinreiten, womit
 nicht gesagt sein soll, daß wir nicht doch so vorsichtig wie immer
 waren. Diese Vorsicht, dieses stete Umherspähen und Beobachten
 wird Leuten, die zumeist von Gefahren umlauert sind
@@ -230,7 +230,7 @@ glatte Wände. Und — dort oben hinter jenem Dornengestrüpp
 sah ich soeben die helle Burnuskapuze eines Beduinen.«
 
 »Und — und das sagst Du so ruhig?!« Ich starrte nach
-dem Strauche empor. Er Stand dicht am Rande einer schmalen
+dem Strauche empor. Er stand dicht am Rande einer schmalen
 Terrasse der gegenüberliegenden Schluchtwand in etwa
 zwanzig Meter Höhe.
 
@@ -249,7 +249,7 @@ Diese riesigen Felsbrocken lagen kreuz und quer übereinander,
 und wir hatten unter einem, der wie eine Tischplatte gestützt
 wurde, Deckung gefunden.
 
-Etwa vierzig Meter vor uns vor der Ausgang der Schlucht.
+Etwa vierzig Meter vor uns war der Ausgang der Schlucht.
 Auch dort gab es einen Haufen Felsblöcke. Und — dort erschien
 nun hin und wieder der helle Zipfel eines Beduinenmantels.
 Die braunen Banditen selbst bekamen wir nicht zu
@@ -357,7 +357,7 @@ Tag.
 
 <@pagebreak/>
 Dann wurde ich nach einem Schluck Tee, den man mir
-gereicht hatte, von einer Schlafsucht befallen, die Gewißheit
+gereicht hatte, von einer Schlafsucht befallen, die mit Gewißheit
 darauf schließen ließ, daß der Tee ein Betäubungsmittel enthalten
 hatte.
 
@@ -380,7 +380,7 @@ glimmenden Zigarette im Mundwinkel und nickte mir mit
 einem merkwürdigen Gesichtsausdruck zu.
 
 Zwischen den Betten stand ein Brettergestell, das einen
-Tisch vorstellen sollte; darauf eine kleine Petroleumlampe
+Tisch vorstellen sollte; darauf eine kleine Petroleumlampe mit
 einem Messingblender, also eine sogenannte Küchenlampe.
 Zwei ebenso primitive kurze Bänke luden daneben zum Platz
 nehmen ein.
@@ -403,7 +403,7 @@ große, gefüllte Petroleumkanne.
 Harald nickte mir wieder zu.
 <@pagebreak/>
   
-»Fein, nicht wahr? Ganz in komfortabel! — Der Hauptwitz
+»Fein, nicht wahr? Ganz komfortabel! — Der Hauptwitz
 ruht da auf dem Tisch, mein Alter.«
 
 Ich stand auf und sah ein Blatt Papier vor der Lampe
@@ -473,7 +473,7 @@ Das Schiebefenster knallte zu. Auch dieses war mit einer
 Eisenplatte benagelt, hatte aber in der Mitte einen kleinen
 Sehschlitz.
 
-»Hm — das Fleisch ist bereits zerkleinert,« meinte Harst
+»Hm — das Fleisch ist bereits zerkleinert,« meinte Harst.
 »Sehr zuvorkommend! Uebrigens — meine Uhr haben die
 Leute mir doch gelassen. Es scheint hier also kein Taschenuhrenmangel
 zu herrschen. Es ist jetzt genau 2 Uhr nachmittags.«
@@ -692,7 +692,7 @@ Leichen geworfen. Harst ließ eine brennende Laterne an
 einem Strick hinab. Wir sahen jedoch nur ein paar menschliche
 Füße aus dem Wasser herausragen.
 
-Nach zwei Stunden kam dann ein Schwerverwundeten
+Nach zwei Stunden kam dann ein schwerverwundeter
 kleiner Araber, ein Stallbursche, aus dem — Düngerhaufen
 hervor gekrochen. Er starb uns leider unter den Händen, konnte
 aber doch noch angeben, daß man Lady Lydia und ihre neue
@@ -759,7 +759,7 @@ der Beduinen völlig verschieden. — Ein Kopte also. Wie
 kam der zu Umri Schomars Leuten? Ich kann nur annehmen,
 daß der Scheich mit den Bewohnern des verborgenen Tales eng
 befreundet ist und die Leute vorläufig dorthin geschafft hat,
-wo einzudringen vermag, der nicht das Geheimnis
+wo niemand einzudringen vermag, der nicht das Geheimnis
 jener Steilwand kennt, an der sich der Aufzug befindet. Wir
 kennen es. Und deshalb werden wir nachprüfen, ob meine
 Vermutung stimmt.«
@@ -812,12 +812,12 @@ fügte er hinzu, deshalb, weil er einen mißratenen Bruder
 habe, der vor drei Wochen Lady Lydia nach Indien verschleppt
 und dort verkaufen wollte. Er wisse nun, daß sein Bruder
 Eusebius in Bhopal den Tod gefunden habe und daß wir es
-traten, die Lady Lydia befreit hätten. Er habe mit unserem
+waren, die Lady Lydia befreit hätten. Er habe mit unserem
 <@pagebreak/>
 Erscheinen gerechnet, da er sich leicht zusammengereimt
 hätte, daß ich den hier umgehenden Gerüchten von einem verborgenen
 Kloster nachgehen würde. — Pater Christomas ist
-entsetzt über den nachholen Ueberfall auf Schloß Medsur. Er
+entsetzt über den ruchlosen Ueberfall auf Schloß Medsur. Er
 will uns helfen, die beiden geraubten Frauen den Händen
 Scheich Umris zu entreißen.«
 
@@ -841,7 +841,7 @@ sehen, was Sie nicht für möglich gehalten haben.«
 Ich holte dann unsere Reitkamele aus dem Versteck herbei.
 — Ich wußte nicht, was ich von diesem Prior denken sollte.
 Harst schien ihm zu trauen. Gewiß: der Greis wirkte überaus
-würde voll. Seine Stimme war weich und einschmeichelnd.
+würdevoll. Seine Stimme war weich und einschmeichelnd.
 Aus seinen dunklen Augen strahlte Ehrlichkeit und Herzensgüte.
 
 Und doch! Ich wurde das Gefühl nicht los, daß der Alte
@@ -854,7 +854,7 @@ Aufzug beförderte auch unsere Kamele nach oben. — Der
 Prior erzählte uns dann, während wir an seiner Seite auf
 einem gutgepflegten Wege dem am anderen Ende des etwa
 eine halbe Meile langen Tales gelegenen, aus Granitquadern
-erbauten Kloster zuschritten, sich einiges über dessen Gründung,
+erbauten Kloster zuschritten, so einiges über dessen Gründung,
 die im Jahre 115 nach Christi Geburt durch Kopten erfolgte,
 die aus Aegypten vertrieben worden waren. Jetzt hatte das
 <@pagebreak/>
@@ -866,7 +866,7 @@ das Kloster und einen großen Garten umgab. Zwei Mönche
 nahmen uns die Reittiere ab. Dann führte uns der Prior
 noch durch den parkähnlichen Garten. Plötzlich standen wir
 um eine Hecke biegend, vor einem langgestreckten Raubtierhause,
-in dem in drei getrennten Käfigen zwölf prächige
+in dem in drei getrennten Käfigen zwölf prächtige
 Löwen gehalten wurden. Der Prior, der sich bescheiden nun
 Pater Christomas nennen ließ, erklärte, es sei hier seit
 Jahrhunderten Sitte, daß stets genau zwölf Löwen entsprechend der
@@ -896,7 +896,7 @@ gastfreien Prior denken sollte. Aber Harald würde es wissen.
 
 Und — Harald gähnte jetzt zuweilen verstohlen. Der Prior
 verstand den Wink, brachte uns in das inzwischen für uns
-her gerichtete Gemach, einen dreifenstrigen, kahlen Raum, in
+hergerichtete Gemach, einen dreifenstrigen, kahlen Raum, in
 dem nur zwei pritschenähnliche Betten, ein Tisch, zwei Stühle
 und ein kleinerer Tisch mit einem Waschbecken, alles an der
 einen Schmalseite, standen. Der Prior riet uns, wir sollten
@@ -907,7 +907,7 @@ raunte mir dann zu: »Vorsicht! Sehr gefährlich« und sprach
 weiter. — Er fürchtete Lauscher. Das merkte ich. Und ich
 <@pagebreak/>
 richtete mich danach, begann die Gastfreiheit des Priors zu
-oben und begeisterte mich scheinbar bei der Erwähnung der
+loben und begeisterte mich scheinbar bei der Erwähnung der
 Fruchtbarkeit und Schönheit des Tales. — Harald streckte sich
 auf seinem Bett aus. Ich tat dasselbe. Irgendwoher drang
 eine angenehme ganz leise Musik an unser Ohr. — Ich schloß
@@ -976,7 +976,7 @@ Vor Jahrhunderten hat es einer meiner Vorgänger hier aufgestellt.
 Was es sollte, was die Inschrift besagte, wollte er
 erst auf seinem Sterbelager seinem Nachfolger anvertrauen.
 Er verschied jedoch ganz plötzlich. So wurde denn dieses Kreuz«
-— Dabei hob er den rechten Arm — »das einzige nie zu lüftende
+— dabei hob er den rechten Arm — »das einzige nie zu lüftende
 Geheimnis unseres Klosters. Daß es seiner Zeit in
 ganz bestimmter Absicht errichtet wurde, unterliegt keinem
 Zweifel. Hunderte von Insassen hier, darunter geistvolle
@@ -1015,7 +1015,7 @@ verschlossen waren. Er wurde damit jedoch nicht fertig und
 bat den Mönch, es zu tun. Die Fenster lagen ziemlich hoch.
 Der Mönch mußte den rechten Arm hochrecken, so daß der Kuttenärmel
 nach unten glitt und den Unterarm entblößte. Harald
-stand daneben, sagte nun; »Ah — so wird es gemacht.
+stand daneben, sagte nun: »Ah — so wird es gemacht.
 Ich danke Dir, Pater —«
 
 »Anselmus,« ergänzte der Mönch und ging gleich darauf
@@ -1073,7 +1073,7 @@ Natürlich hatte er es nur auf die Papierkugel dabei abgesehen.
 Ich wollte ihm aber den Spaß verderben. Ich lehnte mich hinaus
 und rief ihm zu, er möchte mir doch etwas zum Lesen bringen.
 Er stellte die Harke weg und erschien darauf mit einem
-englischen Buche, dem Scott’schen Romane »Ivanhoe«, — Ich
+englischen Buche, dem Scott’schen Romane »Ivanhoe«. — Ich
 verwickelte ihn in ein leises Gespräch.
 
 Dann meldete Harald sich.
@@ -1316,7 +1316,7 @@ Harald lachte schallend.
 ganze Tal drei Meter tief durchwühlen können und den Klosterschatz
 doch nicht finden!«
 
-Der Halunke sah ein, daß er sich lächerlich machte,
+Der Halunke sah ein, daß er sich lächerlich machte.
 
 »Oh — Sie werden schon klein beigeben!« rief er jetzt.
 »Der Hunger wird Sie zwingen, und die Löwen werden auch
@@ -1356,7 +1356,7 @@ Pyramiden; darin Mumien von Koptenmönchen.
 Dann aber, bereits unter der Grundfläche der Pyramide,
 einen größeren Raum, den man am besten mit Bibliothek bezeichnet.
 <@pagebreak/>
-Hier lagen auf Wandgejtellen eine Unmenge Papyrus- und
+Hier lagen auf Wandgestellen eine Unmenge Papyrus- und
 Pergamentrollen, also Aufzeichnungen aus der
 ältesten Zeiten des Klosters.
 
@@ -1522,7 +1522,7 @@ seine Nerven zum Vibrieren gebracht.
 »Nein — gar nicht!«
 
 <@pagebreak/>
-waren nun vorsichtiger. Aber — den noch in Freiheit
+Wir waren nun vorsichtiger. Aber — den noch in Freiheit
 befindlichen Löwen fanden wir nicht. — Jetzt leuchteten überall
 auf der Mauer Fackeln auf.
 
@@ -1598,7 +1598,7 @@ des verborgenen Tales bis auf zwei niedergemacht hatten und
 nun seit sechs Jahren dort die frommen Kopten, nebenbei die
 Verbündeten des Räuberscheichs Umri gespielt hatten. —
 Hauptmann Mac Lean machte kurzen Prozeß: er ließ zwei
-Stunden drauf auch den Nest der Bande erschießen. —
+Stunden drauf auch den Rest der Bande erschießen. —
 
 Lady Lydia gab offen zu, daß sie mit Hilfe des Hausmeisters
 Prigrave und ihrer Diener den Ueberfall nur deshalb

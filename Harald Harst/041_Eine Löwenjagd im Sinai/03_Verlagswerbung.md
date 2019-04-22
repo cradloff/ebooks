@@ -3,10 +3,10 @@
 <div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
 <div style="font-size: large; text-align: center;">unserer Harst-Abenteuer</div>
 
-<table>
-<tr><td> 98. Das geheimnisvolle Fenster.          </td><td>137. Baron Tissanders Schaukel.</td></tr>
+<table style="table-layout:fixed">
+<tr><td style="width:50%"> 98. Das geheimnisvolle Fenster.          </td><td style="width:50%">137. Baron Tissanders Schaukel.</td></tr>
 <tr><td> 99. Anita Armands Verhängnis.            </td><td>138. Das Erbbegräbnis.</td></tr>
-<tr><td>100. Unser 100\. Abenteuer.               </td><td>139. Das Gestade der Vergessenheit.</td></tr>
+<tr><td>100. Unser 100. Abenteuer.                </td><td>139. Das Gestade der Vergessenheit.</td></tr>
 <tr><td>101. Die Piraten der Havelseen.           </td><td>140. Die Wachspuppe des Trödlers.</td></tr>
 <tr><td>102. Der Napoleon aus Wachs.              </td><td>141. Der Maskenball der Toten.</td></tr>
 <tr><td>103. Der dritte Schuß.                    </td><td>142. Die Villa mit den vier Schornsteinen.</td></tr>
@@ -24,15 +24,15 @@
 <tr><td>115. Der Kopf des Maharadscha.            </td><td>154. Die rote Rakete.</td></tr>
 <tr><td>116. Die Treppe des Todes.                </td><td>155. Der Traum der Lady Gulbranor.</td></tr>
 <tr><td>117. Doktor Groupys Verhängnis.           </td><td>156. Der Geheimbund der zwölf Schlüssel.</td></tr>
-<tr><td>118. Das Geisterschiff.                   </td><td>157. Das Geheimnis des Sanatoriums</td></tr>
-<tr><td>119. Der Tennisschläger der Rani.         </td><td>     Waldesruh.</td></tr>
+<tr><td>118. Das Geisterschiff.                   </td><td rowspan="2">157. Das Geheimnis des Sanatoriums Waldesruh.</td></tr>
+<tr><td>119. Der Tennisschläger der Rani.         </td></tr>
 <tr><td>120. Der Mann im Monde.                   </td><td>158. Die Insel der Verstorbenen.</td></tr>
 <tr><td>121. Tama Barru, der Verrückte.           </td><td>159. Miß Wells seltsames Abenteuer.</td></tr>
 <tr><td>122. Das Piratendorf.                     </td><td>160. Das Haupt der Shinta.</td></tr>
 <tr><td>123. Die Hexenküche.                      </td><td>161. Der Spiritistenklub.</td></tr>
 <tr><td>124. Das Geheimnis von H. O. III.         </td><td>162. Der Mann aus Eisen.</td></tr>
 <tr><td>125. Die Gräfin mit den Kormoranen.       </td><td>163. Das Geheimnis der Pagode.</td></tr>
-<tr><td>126. Der Bouillonkeller Nr. 113\.         </td><td>164. Der Gentleman-Pirat.</td></tr>
+<tr><td>126. Der Bouillonkeller Nr. 113.          </td><td>164. Der Gentleman-Pirat.</td></tr>
 <tr><td>127. Der tote Tümmler.                    </td><td>165. Das Rätsel der drei Schlüssel.</td></tr>
 <tr><td>128. Das Erbe des Verschollenen.          </td><td>166. Miß Grandells letzte Nacht.</td></tr>
 <tr><td>129. Das Geheimnis der Drabu-Fälle.       </td><td>167. Das Geheimnis des Inselforts.</td></tr>

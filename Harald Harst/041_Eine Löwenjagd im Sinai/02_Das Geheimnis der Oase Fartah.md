@@ -47,7 +47,7 @@ Engländer, räusperte sich und meinte bescheiden.
 »Doch — es gibt eine solche Oertlichkeit.«
 
 <@pagebreak/>
-»Na Nu, Jones,« rief Mac Lean. »Das wollen Sie behaupten,
+»Na nu, Jones,« rief Mac Lean. »Das wollen Sie behaupten,
 der erst ein halbes Jahr hier beim Korps Dienst
 tut?!«
 
@@ -149,10 +149,10 @@ Mac Lean hinüber und bat:
 »Erzählen Sie alles, was Sie über die beiden Hochstapler
 wissen.«
 
-Ah — der Bann war gewichen. Und die temmperamentvolle
+Ah — der Bann war gewichen. Und die temperamentvolle
 Frau Mac Lean rief:
 
-»Wo waren Sie eigentlich; mit Ihren Gedanken, Mr.
+»Wo waren Sie eigentlich mit Ihren Gedanken, Mr.
 Harst?«
 
 »In Suez. Ich stellte mir vor, wie der eine Gauner das
@@ -221,7 +221,7 @@ Schachteln und wertlosen Kram.«
 »Aber bitte — gewiß! — Was halten Sie denn davon?«
 
 »Sehr viel — auch ohne Ihre Schilderung der Vorgänge
-Suez.«
+in Suez.«
 
 »Was heißt das?«
 
@@ -289,7 +289,7 @@ Unterteil mit den Fenstern und der Tür hat man nur hinzugefügt,
 um das Ganze eben als harmloses Häuschen erscheinen
 zu lassen. Hättest Du die Zeichnung umgedreht, mein Alter,
 <@pagebreak/>
-und dann den Buchstaben S an der rechten Giebelede beachtet,
+und dann den Buchstaben S an der rechten Giebelecke beachtet,
 so wäre Dir dieser Gedanke, es könnte sich um die dreieckige
 Halbinsel Sinai handeln, wohl auch gekommen. Denn
 dieses S kann ja Suez sein.«
@@ -301,7 +301,7 @@ Kreise?«
 
 »Du weißt also bereits ganz genau, worum es sich handelt?«
 
-»Er spare mir jetzt die Antwort, ohne gleich wieder einzuschnappen
+»Erspare mir jetzt die Antwort, ohne gleich wieder einzuschnappen
 und mir Geheimniskrämerei vorzuwerfen. Deine
 Freude wird größer sein, wenn Du nachher alles erfährst.«
 
@@ -384,7 +384,7 @@ ihn so etwas.
 
 Der nächste Posten war der am östlichen Paß. Wir hielten
 also auf ihn zu. Zum Teil legten wir den Weg im Trab zurück.
-Nun ging es eine Schlucht hinauf, hinweg über ein Geröllfels
+Nun ging es eine Schlucht hinauf, hinweg über ein Geröllfeld
 dann ein Anruf durch den Posten.
 
 Mac Lean meldete sich. — Der Kamelreiter, ein schlanker
@@ -393,7 +393,7 @@ Mann war so aufgeregt, daß er kaum sprechen konnte.
 
 »Dort — dort ist geschossen worden —« stotterte er.
 
-»Waren der Leutnant und Hasid hier ?«
+»Waren der Leutnant und Hasid hier?«
 
 »Ja, — sie verfolgten den Beduinen.«
  
@@ -415,7 +415,7 @@ befohlen, seinen Platz nicht zu verlassen. Die beiden hatten
 dann offenbar nach dem Beduinen gesucht, waren immer höher
 gestiegen und hatten den im Schatten liegenden Teil der
 Schlucht betreten. Der Posten hatte daher von ihnen nichts
-weiter gesehen. Gleich darauf fielen die drei Schütte, offenbar
+weiter gesehen. Gleich darauf fielen die drei Schüsse, offenbar
 sämtlich Revolverschüsse dem Knalle nach. Der Posten war
 nach oben gelaufen, konnte jedoch nichts Auffälliges bemerken,
 fürchtete auch, aus dem Hinterhalt niedergeknallt zu werden.
@@ -537,8 +537,8 @@ man nicht alles einer Frau, der man den Abschied erleichtern
 will! —
 
 Wir beide benutzten wieder unsere früheren Reitkamele.
-Der einzige, der ein Pferd ritt, war Tom Greaper. Der Inspektor
-erst unlängst nach Suez verlegt, hatte bisher dienstlich
+Der einzige, der ein Pferd ritt, war Tom Greaper. Der Inspektor,
+erst unlängst nach Suez versetzt, hatte bisher dienstlich
 viel Pech gehabt. Er wollte jetzt die in Suez erlebten Fehlschläge
 durch die Ergreifung der Mörder wettmachen und war
 deshalb allzu eifrig, auch allzu hoffnungsfroh. Im übrigen
@@ -571,7 +571,7 @@ anvertrauen. — Der Inspektor beharrte bei seinem Entschluß.
 So trennten wir uns denn am Morgen.
 
 Als die sechs Reiter und der Hund verschwunden waren,
-sagte Harald zu mir: »So nun, haben wir volle Bewegungsfreiheit.
+sagte Harald zu mir: »So, nun haben wir volle Bewegungsfreiheit.
 Dieses unbelehrbare polizeiliche Anhängsel störte
 mich. Leute, die von sich derart eingenommen sind wie dieser
 Greaper, bleiben stets Stümper. Wäre er bei uns geblieben,
@@ -686,7 +686,7 @@ Ich nickte, fragte: »Und weiter?«
 
 »Weiter?! — Nun, aus dem soeben Gesagten kann man
 unschwer sich ein Bild von den Charaktereigenschaften dieser
-beiden Verbrecher matten. Mein Lieber Alter, das sind
+beiden Verbrecher machen. Mein lieber Alter, das sind
 Leute, die sich den Wind der Wüste schon gehörig haben um
 die Nase wehen lassen. Das sind erfahrene Buschklepper, mit
 der Wildnis, mit Pferden, Waffen und allen Schlichen geriebener
@@ -720,7 +720,7 @@ Fartah —!«
 
 <h2>3. Kapitel.</h2>
 
-Er stand auf, ging starb zu unseren Tieren und legte ihnen
+Er stand auf, ging schnell zu unseren Tieren und legte ihnen
 die Sättel auf.
 
 Ich saß eine Weile regungslos da.
@@ -976,7 +976,7 @@ das ein so raffinierter Streich, wie ihn nur Verbrecher mit
 viel Phantasie ersinnen können. Die Komödie war glänzend
 inszeniert. — Aber, all das ist jetzt gleichgültig gegenüber der
 Tatsache, daß man uns vollständig ausgeplündert hat und
-daß wir hier in einer Sandwüste hunderte von Kilomtern
+daß wir hier in einer Sandwüste hunderte von Kilometern
 von jeder menschlichen Behausung entfernt notwendig — verhungern
 und verdursten müssen, wenn wir nicht Wasser und
 etwas Eßbares finden.« Seine matte Stimme klang so ernst
@@ -990,7 +990,7 @@ ob ich ebenfalls die Wüstenfüchse bemerkt hätte. Ich bejahte.
 
 »Sieh mal, wo diese kleinen Räuber in solcher Menge auftreten,
 da muß es in der Nähe Wasser geben. Suchen wir.«
-— Na zwei Stunden befanden wir uns am nördlichsten Ende
+— Nach zwei Stunden befanden wir uns am nördlichsten Ende
 <@pagebreak/>
 des Wadi. Hier gab es die höchsten Steine, die größten Felsblöcke,
 und das Flußbett war kahler nackter Fels. Ueberall
@@ -1092,7 +1092,7 @@ einen Beutel Datteln, Brot und in große Blätter gewickeltes,
 gebratenes Fleisch, näherte sich mir, grüßte in kaum verständlichem
 Englisch:
 
-»Guten Abend, Effendi Du hungerst. Ali Scharka wird
+»Guten Abend, Effendi, Du hungerst. Ali Scharka wird
 <@pagebreak/>
 Dich sättigen. Allah will, daß man den Kranken helfe.«
 
@@ -1131,7 +1131,7 @@ Harald flüsterte schon weiter:
 
 »Muß der Mensch uns für dumm halten! Ein Kurde will
 er sein! Ausgerechnet ein Kurde! Aber er wählte dieses Land
-aha Heimat, weil er annahm, ich verstände die kurdische Sprache
+als Heimat, weil er annahm, ich verstände die kurdische Sprache
 nicht. Damit hat er ja auch recht —«
 
 »Also Schwertner oder Salbing?« warf ich ein.
@@ -1163,7 +1163,7 @@ Ich konnte kein Auge mehr zutun. Ich grübelte und
 grübelte. Der Gefahr des Verhungerns waren wir entronnen.
 Dafür hatten wir nun Menschen zu fürchten, denen
 ein Leben nichts galt. — Ich sehnte den Morgen herbei. Die
-Sonne kam. Wir erhoben uns. Unter »Retter« bereitete den
+Sonne kam. Wir erhoben uns. Unser »Retter« bereitete den
 Aufbruch vor. Ich mußte das Lastkamel besteigen; Harst das
 andere Tier. Ali Scharka ging zu Fuß. — »Wir wechseln uns
 beim Reiten ab,« erklärte er. —
@@ -1279,7 +1279,7 @@ vom rötlichen Lichte der scheidenden Sonne, die Reste der alten
 Stadt: Mauern, halbe Türme, eingestürzte Gebäude, — alles
 überwuchert von Unkraut.
 
-»Fartah!« sagte unter Retter gleichmütig und deutete dorthin.
+»Fartah!« sagte unser Retter gleichmütig und deutete dorthin.
 »Diese Nacht werden wir in einem Hause aus Felsstücken
 lagern —«
 
@@ -1496,14 +1496,14 @@ Quartiers des anderen Schurken nach der Erklärung für das
 Die Entscheidung nahte. Harald hatte mich zwar beruhigt und
 gesagt: »Uns wird nichts passieren!« Aber — wir waren
 ohne jede Waffe! Was sollten wir gegen die zwei bewaffneten
-Verbrecher ausrichten ?!
+Verbrecher ausrichten?!
 
 Harald drängte zum Aufbruch. »Kommt — kommt! —
 <@pagebreak/>
 Ich habe da gestern in den halb verschütteten Straßen des
 Marktplatzes Brennmaterial gesucht. Dabei fiel mir auf, daß
 von zwei in den Marktplatz mündenden Hauptstraßen
-mehrere Nebengassen nicht rechtwinklig, fordern spitzwinklig
+mehrere Nebengassen nicht rechtwinklig, sondern spitzwinklig
 abbogen. Ich nehme an, daß die Figur im Giebel der Zeichnung
 also das Bild zweier Straßen und ihrer Nebengassen ist,
 und daß der Punkt, der Kopf des Geweihs also, vielleicht ein
