@@ -141,7 +141,7 @@ aus der See, der sich in zwei Rettungsringe eingebunden
 hatte, die die Aufschrift »Mangrovia« trugen. Der Mann
 war bis auf den Tod erschöpft und konnte keinerlei Angaben
 mehr machen. Er hatte in der linken Schulter eine Revolverkugel
-stecken und einen Dolchstich im linken Ober arm. Er starb
+stecken und einen Dolchstich im linken Oberarm. Er starb
 an Entkräftung schon am folgenden Tage. Das einzige, was
 er noch kurz vor seinem Tode hervorstammeln konnte, waren
 <@pagebreak/>
@@ -210,14 +210,14 @@ mit Zinnfuß, ohne Glocke und mit nur noch halbem
 Zylinder.
 
 Aufrichten konnte ich mich nicht, nur den Kopf drehen.
-Die Lampe beleuchtete mir gegenüber an der anderen Längs wand
+Die Lampe beleuchtete mir gegenüber an der anderen Längswand
 ein zweites Rahmenbett. Dort — lag Harst, — nur mit
 Oberhemd, Unterhosen und Strümpfen bekleidet — wie ich.
 
 Er rührte sich nicht. Er hatte das Gesicht mir zugekehrt
 und atmete mit geschlossenen Augen stoßweise und röchelnd.
 
-Ich den Kopf ganz wenig. Dieses Loch enthielt
+Ich hob den Kopf ganz wenig. Dieses Loch enthielt
 nichts außer den Betten, der Kiste und der Lampe. Links befand
 sich in der Wand eine kaum 1 ¼ Meter hohe Tür aus verrostetem
 Eisen, die mit den Rändern weit übergriff.
@@ -264,7 +264,7 @@ Ich telegraphierte zurück: »Wird geschehen. Wo sind wir?«
 
 Antwort: »Weiß es nicht.«
 
-Frage: Wer hält uns gefangen?«
+Frage: »Wer hält uns gefangen?«
 
 Antwort: »Eine Frau. — Jetzt Ruhe.«
 
@@ -279,7 +279,7 @@ lauschte minutenlang. Dann war ich überzeugt, daß jemand
 an der anderen Seite der Mauer den Mörtel aus den Fugen
 herauskratzte.
 
-Ich war jedoch noch so erschöpft, daß ich ein schlief, obwohl
+Ich war jedoch noch so erschöpft, daß ich einschlief, obwohl
 ich mich mit aller Gewalt wach zu halten suchte.
 
 Wie lange ich geschlafen hatte, ließ sich nachher schwer
@@ -482,7 +482,7 @@ jagte davon. Aus der Ferne nun fünf gellende Pfiffe.
 Wir rissen die Lappen vom Gesicht.
 
 Um uns her dunkle Nacht, Bäume, — über uns ein klarer
-Sternhimmel,
+Sternhimmel.
 
 Neben uns standen unsere Handtaschen. Auf der einen
 lag ein Zettel — ein Gepäckaufbewahrungsschein über drei
@@ -542,7 +542,7 @@ war sehr sauber ausgeführt und daher sehr deutlich.
 
 Hier ist sie:
 
-<img src="Zeichnung.jpg" alt="Zeichnung aus Symbolen, Ziffern und Buchstaben" style="width: 100%; height: auto;"/>
+<img src="Zeichnung.png" alt="Zeichnung aus Symbolen, Ziffern und Buchstaben" style="width: 100%; height: auto;"/>
 
 Ich will hier wiederholen, was Harald zu dieser Zeichnung
 bemerkte.
@@ -557,7 +557,7 @@ kleine schräge Striche in Größe der wagerechten an. Dann
 folgt eine 1, zwei kleine senkrechte Striche, wieder eine 1, dann
 etwas, das ein lateinisches L sein kann, sodann ein nach Südwest
 zeigender Pfeil, endlich drei Zahlen, 1, 8, 2, und ein lateinisches
-in.«
+M.«
 
 Hieran knüpfte er folgende Ausführungen:
 
@@ -637,10 +637,10 @@ der zuverlässig ist.«
 
 <@pagebreak/>
 »Oh — es gibt hier mehrere Leute, die ich Ihnen empfehlen
-könnte. Zum Beispiel den Chinesen Tschidlo San.
+könnte. Zum Beispiel den Chinesen Tschidlo San.«
 
 »Hat dieser auch die durch Maxwell und Plomp beförderten
-Singhalesen besorgt? Ach meine die, die nun mit der
+Singhalesen besorgt? Ich meine die, die nun mit der
 Mangrovia verschwunden sind?«
 
 Barkley war ein schlechter Schauspieler. Daß er mich für
@@ -752,7 +752,7 @@ Nachher zeigte er uns noch seinen Bungalow, der sehr
 <@pagebreak/>
 geräumig war. Der Garten erstreckte sich endlos weit. Ich
 habe nie wieder etwas Aehnliches gesehen wie diese Parkanlagen.
-Plötzlich standen wir am Anfang einer ja Fächerpalmen-Allee,
+Plötzlich standen wir am Anfang einer Fächerpalmen-Allee,
 die bis zu einer Meeresbucht hinlief. Den Abschluß dieser
 Allee bildeten jenseits der Bucht fünf seltsam geformte
 Felsen. Auf dem Wasser aber schaukelte eine schneeweiße Schonerjacht.
@@ -859,7 +859,7 @@ mit dem Kutscher absichtlich auf die langen Erörterungen einließ,
 beobachteten uns zwei Kerle, ein Chinese und ein anderer
 Farbiger, den ich für einen Malaien halte. Ich rechnete mit
 dieser Ueberwachung. Nur Lord Drisbane steckt dahinter. Daß
-Daß wir ihn aufsuchen würden, konnte er ohne weiteres annehmen.
+wir ihn aufsuchen würden, konnte er ohne weiteres annehmen.
 Er ist ja der Arbeitgeber der verschwundenen 122 Leute. Mithin
 konnte er auch jemand bereithalten, der uns, wenn wir bei
 ihm erschienen, folgte.«
@@ -946,7 +946,7 @@ der Ferne das Wasser der Bucht. Dort lag auch des Lords
 elegante Schonerjacht.
 
 Wir gingen sehr schnell. Harald drehte sich des öfteren
-um. Aus ich tat es. Ich hatte das ganz bestimmte Gefühl:
+um. Auch ich tat es. Ich hatte das ganz bestimmte Gefühl:
 es muß irgend etwas passieren!
 
 <@pagebreak/>
@@ -995,7 +995,7 @@ daß ich für Sekunden die Besinnung verlor. —
 Ich saß, fühlte wieder, konnte wieder denken. Ich merkte,
 daß Harald mich auf die Schultern geladen hatte, daß er mit
 mir, in der Linken die eingeschaltete Taschenlampe, einen gemauerten
-Gang entlang entlanglief.
+Gang entlanglief.
 
 Ich meldete mich:
 
@@ -1021,7 +1021,7 @@ Totenstille ringsum.
 Dann ging es weiter; bis zu einer Stelle, wo der Gang
 bis obenan mit Mauertrümmern ausgefüllt war.
 
-»Machen wir kehrt,« sagte Harst, »Ich ahne schon, was
+»Machen wir kehrt,« sagte Harst. »Ich ahne schon, was
 das zu bedeuten hat. Wir werden das Loch, in das wir
 stürzten nicht mehr offen finden. Es gibt eben da in der Allee
 eine Reihe beweglicher Steinplatten quer über den Weg. Und
@@ -1037,7 +1037,7 @@ hatte eine gleichmäßige Breite von 3 Metern und war etwa
 4 Meter hoch.
 
 Dann: — eine zweite Schutthalde versperrte uns den
-Weg auch nur dieser Seite hin.
+Weg auch nach dieser Seite hin.
 
 »Dacht’ ich’s mir doch!« nickte Harald. »Die Wespen
 stechen nicht selbst, sondern wollen dem Hunger und dem Durst
@@ -1070,7 +1070,7 @@ diese Gaunerei?! Ich gebe zu, ich tappe hier völlig im Dunkeln.
 Die Zeichnung — die Zeichnung! Wenn wir die erst
 entziffert hätten!«
 
-»Und nach einer Weile meinte er: »Wenn man erst den
+Und nach einer Weile meinte er: »Wenn man erst den
 Anfang so eines Bilderrätsels gelöst hat, kommt das andere
 von selbst. — Was soll das: Null plus Null übereinanderstehend?!
 — So fängt unser Rebus an. — Sind es wirklich
@@ -1123,7 +1123,7 @@ auf das Rebus, rührte sich nicht.
 »Ich hab’s — ich hab’s!« rief er dann. »Ich hab’s wirklich!
 Oh ich Esel! Die Geschichte ist ja so albern-einfach!
 Aber gerade deshalb kam ich nicht darauf!« — Er verbarg die
-Zeichnung wieder. »Frage seht nichts. Du sollst den Triumph
+Zeichnung wieder. »Frage jetzt nichts. Du sollst den Triumph
 des Sieges als Ueberraschung auskosten. Vorwärts! Schleppen
 wir Mauertrümmer zusammen, bauen wir einen Berg,
 daß wir hier bis an die Deckenplatten heranreichen —«
@@ -1141,7 +1141,7 @@ Steinplatten.
 
 Die dunklen Striche waren eiserne Stäbe; das Ganze
 aber ein Teil des Bodenbelags der Palmenallee. — Es würde
-zu weit führen, wollte ich diese Falle hier bis in einzelne beschreiben
+zu weit führen, wollte ich diese Falle hier bis ins einzelne beschreiben
 und auch schildern, wie Harald den Mechanismus in
 Bewegung zu setzen wußte, der die Alleeplatten herunterkippen
 ließ. Jedenfalls: wir waren frei, standen nun oben in der
@@ -1251,7 +1251,7 @@ rasch zustande. Druyter war Besitzer einer Motorjacht,
 mit der er reiche Yankees hier spazieren fuhr. Zur Zeit war
 er frei. Die Jacht hatte stets Singhalesen als Besatzung und
 war als Bark getakelt. Harald mietete die »Padnunna«
-(singhalesisch, Seemöwe) auf 14 Tage von sofort und zahlte.
+(singhalesisch, Seemöwe) auf 14 Tage von sofort und zahlte
 auch gleich 300 Pfund an.
 
 Um 5 Uhr morgens gingen wir an Bord. Wir hatten
@@ -1373,14 +1373,14 @@ Motorengeräusche zu. Von dem Schiffe selbst war bei dieser
 Dunkelheit nichts als ein schwacher Schatten zu sehen.
 
 »Der Südstern Lord Drisbanes!« flüsterte Harald erregt.
-Es kann nur die Jacht sein —«
+»Es kann nur die Jacht sein —«
 
 Wir kletterten an Deck und sprachen mit Druyter darüber.
 Der gab Harald recht.
 
 Während wir noch erörterten, was Drisbane hier vorhaben
 könnte, kam von Nordost der Knall von mehreren Schüssen zu
-und herüber.
+uns herüber.
 
 »Ran an den Südstern!« rief Harald. »Da ist was im
 Gange. Vielleicht geht es jetzt gar dem Lord ans Leben,

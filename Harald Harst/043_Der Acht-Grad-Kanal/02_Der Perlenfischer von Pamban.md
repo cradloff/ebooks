@@ -20,7 +20,7 @@ ganzen Tag über nur im Lendenschurz umher. Ich hatte eine
 großartige Stelle zum Angeln entdeckt und holte mit einer
 Tiefangel von dreißig Meter Länge die buntschillerndsten
 Fische heraus, denen ich dann aber stets die Freiheit wiedergab.
-Kapitän Klaas Druyter, mit dem mir uns jetzt schon dick angefreundet
+Kapitän Klaas Druyter, mit dem wir uns jetzt schon dick angefreundet
 hatten, saß zumeist unter dem Sonnensegel auf dem
 Achterdeck der Padnunna und — trank kalten Grog.
 
@@ -45,7 +45,7 @@ Frau und Tochter einbüßte und Sie bitten, mir ehrlich zu
 erklären, was Sie von der Sache halten —«
 
 <@pagebreak/>
-»Sie waren verheiratet? Das ist je ganz was Neues!«
+»Sie waren verheiratet? Das ist ja ganz was Neues!«
 
 »Und sehr glücklich verheiratet, Herr Harst. Ich saufe erst
 seit fünf Jahren so. Erst begann ich damit als Betäubungsmittel,
@@ -103,7 +103,7 @@ vorn, beugte sich halb über den Tisch und bat:
 »Kein endloses Seemannsgarn, Druyter.  Unsereiner
 liebt die Kürze.«
 
-»Kommt schon, Herr Harst. — Meinte Frau war eine Inderin.
+»Kommt schon, Herr Harst. — Meine Frau war eine Inderin.
 Aber eine so hellhäutige, daß sie mehr wie eine Spanierin
 aussah. Sie stammte aus Dehli. Ich hatte mal als
 Steuermann dorthin einen Abstecher gemacht und — sehen
@@ -201,7 +201,7 @@ Frauen richteten das Frühstück her.
 
 Halt — ich habe eins zu erwähnen vergessen. Von der
 Freitreppe des Tempels zog sich ein Weg aus Steinplatten,
-eingefaßt von einen Steingeländer, zu einer ebenfalls aus
+eingefaßt von einem Steingeländer, zu einer ebenfalls aus
 Steinen hergestellten Treppe hinab, die bis ins Wasser hineinreichte.
 An dieser Treppe hatten wir auch mit dem Boote
 angelegt.
@@ -232,7 +232,7 @@ die weiße Brahmanenschnur.
 Er stand da mit hochgereckten Armen, beugte sich plötzlich
 vornüber und verschwand mit Kopfsprung im Wasser.
 
-Ich hatte mich schnell erhoben und war an die Reling getreten,
+Ich hatte mich schnell erhoben und war an die Reling getreten.
 Nach etwa zwei Minuten tauchte der Inder wieder auf,
 winkte mit dem rechten Arm nach uns hin, schwamm zur
 Treppe, legte dort auf der obersten Stufe etwas nieder, lies
@@ -450,7 +450,7 @@ weißer Seide war.«
 »Nein. Mein Bruder hatte bei offenem Fenster geschlafen.
 Er wurde im Bett erwürgt. Der Mörder war durch das
 <@pagebreak/>
-Fenster eingestiegen. Das stelle die Polizei durch die Spuren
+Fenster eingestiegen. Das stellte die Polizei durch die Spuren
 fest. Es lag Sand und Erde auf dem Fensterbrett. Und
 eine Leiter hatte unter dem Fenster —«
 
@@ -511,7 +511,7 @@ das liegt mir nicht. Ich kenne die Tatsachen. Und das genügt
 mir. Diese Tatsachen sprechen für sich. Hier sind Dinge geschehen,
 die über menschliches Verständnis hinausreichen.«
 
-»Das ist ein Irrtum, lieber Druyter, Es muß eine natürliche
+»Das ist ein Irrtum, lieber Druyter. Es muß eine natürliche
 Erklärung geben.«
 
 »Etwa die, mit der Herr Schraut vorhin aufwartete?!«
@@ -523,7 +523,7 @@ hätten sie sehen müssen, wenn sie nochmals aufgetaucht wären!«
 
 »Gut, gut, lieber Käp’ten. Ich zweifle ja nicht an alledem.
 — Wir wollen jetzt nicht weiter darüber reden. Aber
-— wir werden sofort noch den Andamanen in See gehen.«
+— wir werden sofort nach den Andamanen in See gehen.«
 
 Druyter erhob schob rasch.
 
@@ -540,7 +540,7 @@ Druyter hatte schon Haralds Hand ergriffen.
 was aus meiner Frau und meinem Kinde geworden ist. Tot
 sind sie ja bestimmt. Aber — aber — da in einem Winkelchen
 meines Herzens wohnt noch immer eine törichte Hoffnung.
-Wer kann etwas für sein Herz! Ich habe in mit Bessy
+Wer kann etwas für sein Herz! Ich habe ja mit Bessy
 so glücklich gelebt, so sehr glücklich. Ich war nie eine Schönheit,
 verdammt nein, — das war ich nicht! Aber — ein guter
 Kerl war ich, und das ist mehr wert als gerade Beine und ein
@@ -655,7 +655,7 @@ Harald nickte zerstreut, fragte dann:
 »Towler verstand alles, sagten Sie? Er war also sehr
 vielseitig?«
 
-»Ja. Genau wie Sie, Herr Harst.« Sie konnten mit ihm
+»Ja. Genau wie Sie, Herr Harst. Sie konnten mit ihm
 über alles reden. Leider redete er selten. Aber er griff über
 all mit zu. Er hatte so etwas an sich, das imponierte.«
 
@@ -729,7 +729,7 @@ In dem Boote saßen vier unserer braven Singhalesen.
 Sie ruderten aus Leibeskräften. Und doch erreichten wir den
 Binnensee erst gegen zehn Uhr bei völliger Dunkelheit.
 
-Die Andamanen nennt man vielfach und »Die Regen-Inseln«
+Die Andamanen nennt man vielfach auch »Die Regen-Inseln«
 Es soll hier nur jeder fünfte Tag regenfrei sein.
 Wir hatten offenbar diesen sanften Tag gerade erwischt, denn
 es regnete nicht, wenn auch der Nachthimmel mit schwarzem
@@ -795,7 +795,7 @@ meinte er. »Sie haben von dem Gesicht nichts gesehen
 versank.« Und er deutete über den Bootsrand weg in die
 Tiefe.
 
-»Ein Anzug ist noch lange nicht der »Mensch selbst. Und
+»Ein Anzug ist noch lange nicht der Mensch selbst. Und
 Kleider und Hüte gleichen sich —«
 
 »Ah — Sie wollen mir nur jede Hoffnung nehmen,« rief
@@ -811,7 +811,7 @@ Kapitän stolperte in wilder Hast die Stufen empor.
 ist —«
 
 Druyter raste schon die Freitreppe hoch, rief immerfort:
-Bessy — Bessy — Bessy!«
+»Bessy — Bessy — Bessy!«
 
 Er verschwand zwischen den Säulen, als wir erst noch das
 Boot anketteten.
@@ -845,7 +845,7 @@ uns wütend zu:
 »Helfen Sie mir doch suchen, verdammt! Haben Sie
 Angst?!«
 
-»Sie sind übergeschnappt, mein Lieber!« rief Harst zurück,
+»Sie sind übergeschnappt, mein Lieber!« rief Harst zurück.
 »Wir werden suchen, aber erst nachher. Wenn Sie sich jetzt
 nicht vernünftig benehmen, kündige ich Ihnen die Freundschaft.«
 
@@ -879,7 +879,7 @@ des Tempels zu durchforschen. Hier fand Harald an einer
 rückwärtigen Türöffnung etwas wie einen Pfad, der offenbar
 häufiger begangen wurde. Das genügte ihm.
 
-Zurück an Bord,« sagte er leise. »Oder wir setzen uns der
+»Zurück an Bord,« sagte er leise. »Oder wir setzen uns der
 Gefahr aus, daß man uns aus dem Hinterhalt niederknallt.«
 
 Druyter wollte nichts davon wissen.
@@ -990,7 +990,7 @@ Tempel.«
 sechs Meter über dem Spiegel dieses Binnensees,«
 sagte Harald langsam und grüblerisch. »Ich — ich möchte mal
 ein kleines Experiment versuchen,« fügte er ebenso bedächtig
-hinzu.« Er befühlte die Taschen seiner Beinkleider. »Pistole
+hinzu. Er befühlte die Taschen seiner Beinkleider. »Pistole
 und Lampe habe ich bei mir. — Ist diese Nacht ebenso dunkel
 wie damals, als Ihre Gattin und Tochter verschwanden?«
 
@@ -1110,7 +1110,7 @@ Tisch setzen.
 
 Der kleine Dürre, offenbar der Anführer, begann
 nun ein kurzes Verhör. Er richtete die Fragen an mich. Ich
-sagte, wie seien hierhergekommen, um in dem Tempel nach der
+sagte, wir seien hierhergekommen, um in dem Tempel nach der
 Frau des Kapitäns zu suchen. Ich log in nichts, — nur daß
 Harald und ich Detektive seien, verschwieg ich.
 
@@ -1181,10 +1181,10 @@ Druyter sprach zu mir. Ich hörte gar nicht hin.
 Dann fielen mir Haralds letzte Worte ein, sein Vermächtnis
 sozusagen: »Sieh Du hier derweil nach dem Rechten —«
 
-Ja — war das nicht gerade so, als ob er seinen Tod voraus
-geahnt hatte?!
+Ja — war das nicht gerade so, als ob er seinen Tod vorausgeahnt
+hatte?!
 
-Ich — ich sollte hier nach dem Rechten schon!
+Ich — ich sollte hier nach dem Rechten sehen!
 
 Und — was tat ich?! Bemühte ich mich auch nur im geringsten,
 uns aus dieser Patsche herauszuhelfen. Konnte es
@@ -1197,7 +1197,7 @@ Meine Energie begann wieder zu erwachen.
 Ich versuchte, ob ich nicht die Fallstricke so weit dehnen
 könnte, daß ich die Hände frei bekam.
 
-Es ging nicht, — Ich flüsterte Druyter und den Singhalesen
+Es ging nicht. — Ich flüsterte Druyter und den Singhalesen
 zu, sie möchten das selbe mal probieren.
 
 Talagalla meinte leise, er wage das nicht; wir sollten froh
@@ -1216,7 +1216,7 @@ Wieder versuchte ich, wenigstens eine Hand frei zu bekommen.
 Die Hitze hier bewirkte, daß mir der Schweiß in Strömen
 über die Haut lief.
 
-Und — der Schmeiß war’s, der meine Haut schlüpfrig
+Und — der Schweiß war’s, der meine Haut schlüpfrig
 machte und die Baststricke langsam dehnte.
 
 Da — jetzt konnte ich die linke Hand aus den Schlingen
@@ -1235,7 +1235,7 @@ herum und rief lachend:
 »Muß mir doch mal die Gentlemen hier ansehen —«
 
 <@pagebreak/>
-Sie hatte ein frisches, hübsches Gesicht, — Schade um sie,
+Sie hatte ein frisches, hübsches Gesicht. — Schade um sie,
 dachte ich.
 
 Und weiter dachte ich: »Dein Revolver wird mein, Dasy
@@ -1287,7 +1287,7 @@ vier Kerle?
 Wir schlichen über das Deck — nur auf Strümpfen. Die
 Singhalesen hatten sich mit eisernen Schraubenschlüsseln bewaffnet.
 
-Ich huschte als erster die Treppe zum Wohnsalon hinab,
+Ich huschte als erster die Treppe zum Wohnsalon hinab.
 Die Tür stand halb offen. Mäuschenstill war’s da drinnen.
 Schliefen die Banditen etwa?
 
@@ -1320,7 +1320,7 @@ Nun erst konnte ich mit Erfolg einige Fragen an Harald
 richten. Bisher hatte er sowohl mir als auch Druyter stets
 mit einem »Später!« geantwortet.
 
-Dir standen auf dem Achterdeck dicht am Flaggenstock, und
+Wir standen auf dem Achterdeck dicht am Flaggenstock, und
 Harst ließ seine nassen Sachen in der durch die Baumwipfel
 lugenden Sonne trocknen. Das Haar hing ihm noch feucht
 und wirr in die Stirn. Es war ihm stark nachgewachsen. Sonst
@@ -1336,8 +1336,8 @@ ein Stück unter Wasser geschwommen und dann unbemerkt
 an Land gegangen —«
 
 »Hm — mit gewissen Einschränkungen ist das richtig,«
-meinte er mit feinem Lächeln. »Ich habe denselben Weg zu
-rückgelegt, den Frau Druyter und Margrit seiner Zeit gehen
+meinte er mit feinem Lächeln. »Ich habe denselben Weg zurückgelegt,
+den Frau Druyter und Margrit seiner Zeit gehen
 mußten.« Er betonte das »Mußten« stark.
 
 Druyter und ich blickten ihn etwas verständnislos an.
@@ -1423,7 +1423,7 @@ Ich folgte ihm sofort, behielt die Augen offen und konnte
 mich auch so unter Wasser gut orientieren. Alles war so, wie
 Harst es geschildert hatte. Auch Druyter fand diesen Wassereingang
 zu dem gemauerten Gange, der, unter dem Wege zum
-Tempel entlanglaufend, schließlich in ein Kellergewölbe einmündete,
+Tempel entlanglaufend, schließlich in ein Kellergewölbe einmündete.
 
 Daß Druyter und ich über alledem fast das Fragen und
 Reden vergaßen, wird jedem verständlich sein.
@@ -1462,7 +1462,7 @@ gewiß waren, standrechtlich erschossen zu werden. Andere,
 weniger Schuldige, die man ergriffen hatte, wurden zum Teil
 nach den Andamanen deportiert. Besonders Port Blair hat
 tausende von Indern jahrelang beherbergt. Ich bin nun überzeugt,
-daß eine Zahl von durch den Ausstand zu Flucht gezwungenen
+daß eine Zahl von durch den Aufstand zu Flucht gezwungenen
 Indern hier auf Pamban in der Verborgenheit gelebt
 und diesen Brahmatempel gebaut hat. Daß er neueren
 Datums ist, erwähnte ich schon. Diese Inder haben als
@@ -1486,7 +1486,7 @@ Ihre Frau und Tochter hierher zu bringen. Hätten Sie nicht
 selbst den Wunsch geäußert, Ihre Damen auf die Reise mitzunehmen,
 dann würde Towler Sie fraglos dazu überredet haben.
 — Bitte, unterbrechen Sie mich nicht. — Sie langten mit
-Jacht hier an. Es war mir nun nach Ihrer Schilderung
+der Jacht hier an. Es war mir nun nach Ihrer Schilderung
 der Vorgänge sofort klar, daß Towler und der Perlenfischer
 — beide kannten das Geheimnis des Wasserzugangs zu diesen
 Räumen — gemeinsame Sache gemacht hatten. Ihre Damen
@@ -1563,7 +1563,7 @@ Klaas Druyter neu einkleiden.
 in Damengesellschaft als Gentleman gut bestehen — auch
 äußerlich.«
 
-Kein Wunder, daß unter Käp’ten jetzt glaubte, Harald
+Kein Wunder, daß unser Käp’ten jetzt glaubte, Harald
 würde ihn direkt zu Frau und Tochter führen.
 
 »Oh — das hat noch einige hundert Meilen Zeit,« lächelte
@@ -1608,7 +1608,7 @@ gebracht, und wir nahmen zwei benachbarte Zimmer.
 
 Der Besitzer des recht primitiven Unterkunftshauses war
 ein Parse, ein Feueranbeter. Die Parsen sind wegen ihrer
-Redlich seit in Indien recht beliebt. Ein großer Teil des Handels
+Redlichkeit in Indien recht beliebt. Ein großer Teil des Handels
 in den westlichen Provinzen des Riesenreiches liegt in
 ihren Händen.
 
@@ -1624,7 +1624,7 @@ Ich horchte auf. Vierfingerig?! — Und ich dachte sofort
 an die kleine Perlmutterhand.
 
 Wir erfuhren weiter, daß der Radscha zur Zeit in seinem
-Schlosse östlich der Stadt wohne; Zumeist halte er sich aber in
+Schlosse östlich der Stadt wohne. Zumeist halte er sich aber in
 der Burg seiner Ahnen am Praschwar-See, zwanzig Meilen
 nördlich der Residenz auf.
 

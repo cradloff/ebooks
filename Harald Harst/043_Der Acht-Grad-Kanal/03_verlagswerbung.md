@@ -4,7 +4,7 @@
 Romane:</div>
 
 <table style="table-layout:fixed">
-<tr><td style="width:50%; valign:bottom;">pro Band<br/>
+<tr><td style="width:50%; vertical-align:bottom;">pro Band<br/>
 <div style="font-size: x-large;">50</div><br/>
 Pfennige</td>
 <td style="width:50%; white-space: pre-wrap;">Die Lahore-Vase
