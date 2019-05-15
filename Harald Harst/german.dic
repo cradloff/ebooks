@@ -2,6 +2,7 @@ aalglatten
 Aasgeier
 ab
 Abbau
+abbauen
 abbekommen
 abbiegen
 abbiegend
@@ -19,6 +20,7 @@ Abdrücke
 abend
 Abend
 Abendausgabe
+Abendausgaben
 Abendbad
 Abendbeleuchtung
 Abendblatt
@@ -92,6 +94,7 @@ abfällt
 abfangen
 abfängt
 abfassen
+abfeuerte
 abfeuerten
 abfiel
 abfinden
@@ -139,6 +142,7 @@ abgegeben
 abgegebene
 abgegrenzten
 abgehackt
+abgehackte
 abgehackten
 abgehalten
 abgehandelt
@@ -256,6 +260,7 @@ abgeteilt
 abgetönte
 abgetrennt
 abgetrennten
+abgetrieben
 abgetriebenen
 abgeurteilt
 abgewandert
@@ -269,6 +274,7 @@ abgewöhnen
 abgewöhnt
 abgeworfen
 abgezehrte
+abgezehrtes
 abgezeichnet
 abgezirkelten
 abgezogen
@@ -330,6 +336,7 @@ Ablehnungen
 ableiten
 ablenken
 ablenkende
+ablenkte
 Ablenkung
 ablesen
 ableuchten
@@ -376,6 +383,7 @@ abrollen
 abrollenden
 abrutschen
 abrutscht
+abrutschte
 abrutschten
 Absage
 Absagen
@@ -384,6 +392,7 @@ Absammeln
 absank
 Absatz
 Absätze
+Absätzen
 Absatzes
 abschätzte
 Abscheu
@@ -402,6 +411,7 @@ Abschiedsgruß
 Abschiedsworten
 abschirrte
 abschlachten
+abschlägig
 abschleppen
 abschließen
 abschloß
@@ -427,6 +437,7 @@ abschüssig
 abschüssige
 abschütteln
 abschwenken
+absegeln
 abseits
 Absendeort
 Absender
@@ -451,6 +462,7 @@ absolutes
 Abspannung
 abspeiste
 absperrte
+absperrten
 Absperrung
 abspielen
 abspielt
@@ -471,6 +483,7 @@ absteigen
 absteigt
 abstellen
 Abstieg
+abstoßend
 abstoßende
 abstoßender
 abstreife
@@ -527,6 +540,7 @@ abwesend
 abwesenden
 Abwesenheit
 abwische
+abwog
 abzählen
 Abzeichen
 abzeichnen
@@ -540,7 +554,9 @@ abzielt
 abzielten
 abzog
 abzubinden
+abzubringen
 abzudampfen
+abzudrücken
 abzufassen
 abzufinden
 Abzug
@@ -580,6 +596,7 @@ abzusuchen
 abzutun
 abzuwälzen
 abzuwarten
+abzuweisen
 abzuwenden
 abzuzählen
 abzweigenden
@@ -629,6 +646,7 @@ achtzylindrigen
 ächzte
 Ackerbauer
 Ackergeräte
+Ackerland
 Ackerwagen
 acta
 ad
@@ -990,6 +1008,7 @@ an
 Anatomien
 anatomisches
 Anbau
+anbauen
 Anbaues
 Anbauten
 anbefohlen
@@ -1094,6 +1113,7 @@ anflehte
 Anforderungen
 Anfrage
 anfragen
+Anfragen
 anfragten
 anfühlte
 anfühlten
@@ -1128,7 +1148,9 @@ angebotenen
 Angebots
 angebracht
 angebrachte
+angebrachten
 angebrachtes
+angebraten
 angebrauchte
 angebrochen
 angebunden
@@ -1161,6 +1183,7 @@ angegeben
 angegebenen
 angegriffen
 angegrinst
+angehabt
 angehalten
 angeheftet
 angeheiterte
@@ -1447,6 +1470,7 @@ Anlegesteg
 Anlegestelle
 anlegte
 anlegten
+anlehnenden
 anlehnt
 anlehnte
 Anlehnung
@@ -1618,6 +1642,7 @@ Ansteckungsstoff
 ansteigende
 anstelle
 anstellen
+anstellst
 Anstellung
 ansteuern
 ansteuerte
@@ -1679,6 +1704,7 @@ anvertraue
 anvertrauen
 anvertraut
 anvertraute
+anwachsen
 anwachsenden
 Anwalt
 Anwälten
@@ -1873,6 +1899,9 @@ Arme
 Armee
 armen
 Armen
+Armenier
+Armeniers
+armenischen
 armenischer
 Armenkasse
 armer
@@ -2168,6 +2197,7 @@ aufgelesenen
 aufgelöst
 aufgelöstem
 aufgelösten
+aufgelöstes
 aufgelötet
 aufgemacht
 aufgemalt
@@ -2209,6 +2239,7 @@ aufgeschnitten
 aufgeschraubt
 aufgeschrieben
 aufgeschrien
+aufgeschüttet
 aufgeschwatzt
 aufgesetzt
 aufgeseufzt
@@ -2360,6 +2391,7 @@ aufregendes
 Aufregendes
 aufregendste
 aufregendsten
+aufregt
 Aufregung
 Aufregungen
 aufreihen
@@ -2398,6 +2430,7 @@ aufschreit
 aufschrie
 Aufschrift
 Aufschriften
+Aufschub
 aufschwingen
 Aufsehen
 Aufseher
@@ -2541,10 +2574,12 @@ aufzusuchen
 aufzutauchen
 aufzutragen
 aufzutreten
+aufzuwachen
 aufzuweisen
 aufzuzeichnen
 aufzuziehen
 aufzwingen
+Augäpfel
 Auge
 Augen
 Augenarzt
@@ -2583,6 +2618,7 @@ August
 aus
 ausbaldowern
 ausbaldowerte
+Ausbesserung
 Ausbeute
 ausbeuten
 ausbilden
@@ -2612,6 +2648,7 @@ ausdehnenden
 ausdehnte
 Ausdehnung
 Ausdrehens
+ausdrehte
 Ausdruck
 Ausdrücke
 ausdrücken
@@ -2650,6 +2687,7 @@ ausfallen
 ausfallend
 ausficht
 ausfindig
+ausflicken
 ausflickt
 Ausflüchte
 Ausflug
@@ -2687,6 +2725,7 @@ ausgebeutet
 ausgebildet
 ausgeblichen
 ausgeblieben
+ausgebogen
 ausgebootet
 ausgebrannt
 ausgebreitet
@@ -2786,6 +2825,7 @@ ausgerüstet
 ausgesaugt
 ausgeschaltet
 ausgeschaut
+ausgeschlafen
 ausgeschlagen
 ausgeschlagener
 ausgeschlossen
@@ -2797,6 +2837,7 @@ ausgesehen
 ausgesetzt
 ausgesetzte
 ausgesetzten
+ausgespäht
 ausgespannten
 ausgespielt
 ausgesprochen
@@ -2807,6 +2848,7 @@ ausgestattete
 ausgestatteten
 ausgestattetes
 ausgestellt
+ausgestellte
 ausgestellten
 ausgestellter
 ausgestemmten
@@ -2981,6 +3023,7 @@ ausschauenden
 ausschauender
 ausschaute
 ausscheiden
+ausscheidet
 ausschicken
 ausschickte
 ausschlafen
@@ -3123,6 +3166,7 @@ Ausweis
 ausweisen
 Ausweises
 Ausweispapiere
+ausweist
 auswendig
 auswerfend
 auswetzen
@@ -3208,6 +3252,7 @@ Autoräder
 Autoreisende
 Autos
 Autoschuppen
+Autospur
 Autotour
 Autotüren
 Axt
@@ -3721,6 +3766,8 @@ Beeilen
 beeilt
 beeilte
 beeilten
+beeinflussen
+beeinflußt
 Beeinflussung
 beeinträchtigt
 beende
@@ -3848,6 +3895,7 @@ begehst
 begeht
 begeistert
 begeisterte
+begeistertem
 begeisterter
 begeistertes
 begeistertsten
@@ -3972,6 +4020,7 @@ beharrliches
 Beharrlichkeit
 beharrte
 behauenen
+behauenes
 behaupte
 behaupten
 behauptet
@@ -3999,6 +4048,7 @@ behext
 behielt
 behielten
 behilflich
+behindern
 behindert
 behinderte
 behorchte
@@ -4030,9 +4080,11 @@ beides
 beidrehen
 beieinander
 Beifall
+beige
 beigeben
 beigebracht
 beigefügt
+beigegeben
 beigelegt
 beigemengt
 beigemessen
@@ -4589,10 +4641,12 @@ Bescheidenheit
 bescheidensten
 bescheinigen
 bescheinigt
+beschenkt
 beschenkte
 beschieden
 beschien
 beschienen
+beschienene
 beschienenen
 beschimpfen
 beschimpften
@@ -4623,6 +4677,7 @@ beschmutzte
 beschmutzten
 beschneit
 beschränkt
+beschränkte
 Beschränktheit
 beschreibe
 beschreiben
@@ -4688,6 +4743,7 @@ besinnt
 Besinnung
 besinnungslos
 besinnungslosen
+Besinnungslosigkeit
 Besitz
 besitze
 besitzen
@@ -4774,6 +4830,7 @@ bestatten
 bestaubten
 beste
 bestechen
+bestechenden
 bestechendes
 Bestechung
 Bestechungsgeld
@@ -5123,6 +5180,7 @@ bewertete
 bewies
 bewiesen
 bewillige
+bewilligt
 bewirkt
 bewirkte
 bewirten
@@ -5130,6 +5188,7 @@ bewirtete
 bewog
 bewogen
 bewohnbar
+bewohnbaren
 bewohne
 bewohnen
 Bewohner
@@ -5230,6 +5289,7 @@ Biedermann
 biederst
 biederte
 biegen
+biegend
 biegt
 Biegung
 Biegungen
@@ -5270,6 +5330,7 @@ bildhübschen
 bildhübscher
 Bildnerin
 Bildnis
+Bildnisse
 Bildsäule
 Bildschmuck
 bildschöne
@@ -5397,6 +5458,7 @@ blätterte
 Blattes
 Blattläuse
 Blattläusen
+Blattwerk
 blau
 Blau
 Blauaugen
@@ -5424,6 +5486,7 @@ Blech
 Blechbeschlag
 Blechbüchse
 blecherne
+blechernen
 Blechflasche
 Blechkanne
 Blechkannen
@@ -5517,6 +5580,7 @@ blitzenden
 blitzender
 blitzsaubere
 blitzsauberen
+Blitzschlag
 blitzschnell
 Blitzschnell
 blitzschnelle
@@ -5633,6 +5697,7 @@ Bluttropfen
 Blutung
 Blutuntersuchung
 Blutvergiftung
+Blutverlust
 Bock
 Boden
 Bodenbelags
@@ -5715,6 +5780,7 @@ Bordschwelle
 Bordwand
 Bordwände
 Bordwänden
+borgen
 Borneo
 Borneos
 borniert
@@ -5791,6 +5857,7 @@ Braten
 Bratentunke
 Brathuhn
 Brathühnchen
+Brathühner
 Brauch
 brauchbar
 brauchbaren
@@ -5823,6 +5890,7 @@ braunrotes
 braunschwarz
 braunschwarzen
 Brausen
+braust
 brauste
 Braut
 braute
@@ -5914,6 +5982,7 @@ Bretterverschlag
 Bretterwand
 Bretterwände
 Bretterzaun
+bricht
 Brief
 briefähnliches
 Briefbeschwerer
@@ -5979,6 +6048,7 @@ bring’
 bringe
 bringen
 bring’s
+bringst
 bringt
 Brise
 Britanniens
@@ -6138,6 +6208,7 @@ Bühne
 Bühnen
 Bulldogge
 Bulldoggen
+Bulle
 bummele
 bummelt
 bummelte
@@ -6185,6 +6256,7 @@ Burnus
 Bürschchen
 Bursche
 Burschen
+bürste
 Bürste
 Bürstenschnurrbart
 Busch
@@ -6314,6 +6386,7 @@ christliche
 christlichen
 Chronik
 chronische
+Clementpistole
 Clementpistolen
 cm
 Co
@@ -6372,6 +6445,7 @@ dahineilen
 dahinfuhren
 dahingegangen
 dahingeschwundenen
+dahingesiecht
 dahingleitende
 dahinglitten
 dahinjagen
@@ -6470,6 +6544,7 @@ Dampfmaschinen
 Dampfröhren
 dampfte
 dämpfte
+dampften
 Dampfwinde
 danach
 Däne
@@ -6666,11 +6741,13 @@ Deiner
 deinerseits
 deines
 Deines
+Deinetwegen
 deklamierte
 Dekoration
 Delhi
 delikate
 delikates
+Delinquent
 Delinquenten
 Delirium
 Delphi
@@ -6681,6 +6758,7 @@ dementsprechend
 demnach
 demnächst
 demselben
+demütig
 demütigem
 Demütigungen
 den
@@ -6949,6 +7027,7 @@ Dienstmänner
 Dienstmanns
 Dienstpersonal
 Dienstpistolen
+Dienstraum
 Dienstrevolver
 Dienstsache
 Diensttelegramm
@@ -7004,6 +7083,7 @@ diskreter
 Diskretion
 Dispositionen
 Distel
+Distelbüsche
 Distelgestrüpp
 Disteln
 Distelstauden
@@ -7053,7 +7133,9 @@ Doppelbüchsen
 Doppeldecker
 Doppelgänger
 Doppelgängers
+doppelgleisig
 Doppelgriff
+Doppelhaken
 doppelläufige
 Doppelleben
 Doppellebens
@@ -7268,6 +7350,7 @@ drücken
 drückend
 drückende
 drückenden
+drückender
 drückendes
 Drücker
 Drückerschloß
@@ -7286,11 +7369,13 @@ drückten
 drum
 Drüse
 Drüsen
+Dschungel
 Dschungeln
 Dschungelviper
 Dschungelvipern
 du
 Du
+duckt
 duckte
 duckten
 dudelte
@@ -7402,6 +7487,7 @@ durchdringende
 durchdringenden
 durcheilte
 durcheinander
+Durchfahrt
 durchfeilen
 durchfeilt
 durchfließt
@@ -7474,6 +7560,7 @@ Durchqueren
 durchquert
 durchquerte
 durchquerten
+durchrasten
 Durchreise
 durchreisende
 durchrütteln
@@ -7608,6 +7695,7 @@ Dynamit
 Dynamitpatrone
 Dynamitpatronen
 Dysenterie
+Ebbe
 ebbte
 eben
 Ebenbild
@@ -7902,6 +7990,7 @@ einer
 eines
 einfach
 einfache
+einfachem
 einfachen
 einfacher
 einfacheren
@@ -8023,6 +8112,8 @@ eingekerkert
 eingekittet
 eingeklammert
 eingeklemmt
+eingeklemmte
+eingeklemmten
 eingeklinkt
 eingeknickt
 eingeknickte
@@ -8066,6 +8157,7 @@ eingepreßtem
 eingerahmten
 eingerechnet
 eingeredet
+eingereicht
 eingerenkt
 eingerichtet
 eingerichtetem
@@ -8121,6 +8213,7 @@ eingestanden
 Eingeständnis
 eingesteckt
 eingestehen
+eingesteht
 eingestellt
 eingestiegen
 eingestochen
@@ -8140,6 +8233,7 @@ eingetrockneten
 eingetroffen
 eingetroffene
 eingetroffenen
+eingewachsen
 eingewandert
 eingewechselt
 eingeweiht
@@ -8202,6 +8296,7 @@ einkerkert
 Einkerkerung
 Einklang
 einkleiden
+einklemmen
 einknickten
 Einkommen
 einkreisen
@@ -8236,6 +8331,7 @@ einleuchtete
 Einlieferung
 einließ
 einließe
+einlösen
 Einlösung
 einlud
 einmal
@@ -8336,6 +8432,7 @@ einschwenken
 einsehen
 Einsendung
 einsetzen
+einsetzte
 Einsicht
 Einsiedelei
 Einsiedler
@@ -8348,6 +8445,7 @@ einspännigen
 einsperren
 einsperrt
 einsperrte
+einsperrten
 einspringen
 Einspritzung
 einst
@@ -8438,6 +8536,7 @@ einziges
 einzog
 einzubiegen
 einzubrechen
+einzubringen
 einzudringen
 einzufangen
 einzufinden
@@ -8578,6 +8677,7 @@ Eisstück
 Eisstückchen
 Eisstücke
 Eisstücken
+Eiswasser
 Eiswüste
 Eiszapfen
 eitel
@@ -8684,6 +8784,7 @@ empfindende
 empfindet
 empfindlich
 empfindlichen
+empfindlichere
 Empfindung
 Empfindungen
 empfing
@@ -8875,6 +8976,7 @@ entgegenbringen
 entgegenfluteten
 entgegenfuhren
 entgegengeeilt
+entgegengefahren
 entgegengefaucht
 entgegengekommen
 entgegengelaufen
@@ -9185,6 +9287,7 @@ erachten
 Erachtens
 erachtet
 erbarmen
+Erbarmen
 erbarmt
 erbarmte
 erbarmungslos
@@ -9223,6 +9326,7 @@ erblicken
 erblickt
 erblickte
 erblickten
+erblicktest
 erblindeten
 erbot
 erboten
@@ -9240,6 +9344,7 @@ Erbschaft
 Erbschaftsangelegenheit
 Erbsengericht
 Erbsengröße
+erbte
 erdacht
 erdachte
 Erdarbeiten
@@ -9276,6 +9381,7 @@ erdrosselten
 Erdrosselten
 Erdrosselung
 erdrücken
+erdrückend
 Erdrutsche
 Erdteilen
 ereignen
@@ -9347,6 +9453,7 @@ erfreut
 erfreute
 erfreuten
 erfrieren
+erfrischt
 Erfrischung
 Erfrischungen
 erfuhr
@@ -9400,6 +9507,7 @@ Ergreifung
 ergriff
 ergriffen
 ergrimmt
+ergrimmter
 ergründen
 ergründet
 erhaben
@@ -9520,6 +9628,7 @@ erklettern
 Erklettern
 erklettert
 erkletterte
+erkletterten
 erklimmen
 erklimmt
 erklommen
@@ -9553,6 +9662,7 @@ erlaubtest
 erlauscht
 erlauschte
 erläutern
+erläuterte
 Erläuterungen
 erleben
 Erleben
@@ -9634,6 +9744,7 @@ erneuern
 erneuert
 erneuerungsbedürftig
 erneut
+erneuten
 erniedrigen
 erniedrigende
 ernst
@@ -9777,6 +9888,7 @@ Erschrockenen
 erschütternder
 erschüttert
 Erschütterung
+Erschütterungen
 erschweren
 erschwert
 erschwerte
@@ -9882,6 +9994,7 @@ ertränken
 ertränkt
 ertrinken
 ertrunken
+Ertrunkener
 erübrigten
 erwachen
 Erwachen
@@ -9955,7 +10068,9 @@ erwog
 erwogen
 erworben
 erworbenen
+erwuchs
 erwünscht
+erwürge
 erwürgen
 erwürgt
 erwürgte
@@ -10083,6 +10198,7 @@ explodierte
 Explosion
 Exportfirma
 Exportgeschäft
+exportierte
 Expreß
 extra
 Extrablatt
@@ -10129,6 +10245,7 @@ fade
 faden
 Faden
 Fäden
+fadenscheinig
 fadenscheiniger
 fähig
 Fähigkeit
@@ -10205,6 +10322,7 @@ Falle
 Fälle
 fallen
 Fallen
+fällen
 Fällen
 fallend
 fallende
@@ -10244,9 +10362,11 @@ Falte
 falten
 Falten
 faltenloser
+Falter
 faltet
 faltete
 falteten
+faltig
 faltige
 faltigem
 faltigen
@@ -10491,6 +10611,7 @@ fellbedeckten
 Fellunterlage
 Fels
 Felsbank
+Felsblöcke
 Felsblöcken
 Felsboden
 Felsbodens
@@ -10598,6 +10719,7 @@ Fenstervorhängen
 Fenstervorsprung
 Ferien
 fern
+fernab
 Fernbahnhof
 fernbleiben
 Fernblick
@@ -10672,6 +10794,7 @@ festgehaltene
 festgehaltenen
 festgehefteten
 festgekeilt
+festgeklammert
 festgeklebt
 festgeknotet
 festgelegt
@@ -10924,6 +11047,7 @@ Fischkuttern
 Fischkutters
 Fischpastete
 Fischsalat
+fischst
 fischte
 fischten
 Fistelstimme
@@ -11046,6 +11170,8 @@ flink
 flinke
 flinken
 flinker
+Flirt
+flirte
 flocht
 flochten
 Flocken
@@ -11148,6 +11274,7 @@ Flußschlamm
 Flußtal
 Flußufer
 Flußwasser
+flüstere
 flüstern
 Flüstern
 flüsternd
@@ -11212,6 +11339,7 @@ förmliches
 Förmlichkeit
 formlose
 formte
+formten
 Formulierung
 forschen
 forschend
@@ -11249,6 +11377,7 @@ fortgeschickt
 fortgeschleudert
 fortgesehnt
 fortgesetzt
+fortgewiesen
 fortgeworfen
 fortgezogen
 fortging
@@ -11313,6 +11442,7 @@ fragte
 fragten
 fragwürdig
 fragwürdige
+fragwürdigem
 fragwürdigen
 fragwürdiger
 fragwürdiges
@@ -11643,6 +11773,7 @@ füllten
 Füllung
 Fund
 Fundament
+Fundamente
 Funde
 Fundes
 Fundkammer
@@ -11798,6 +11929,7 @@ gähnen
 gähnend
 gähnende
 gähnte
+gähnten
 galante
 Galanterie
 Galgen
@@ -11963,6 +12095,7 @@ geäderten
 geahnt
 geahnte
 gealtert
+gealtertes
 geändert
 geangelt
 geängstigt
@@ -12121,6 +12254,7 @@ Geburtstag
 Geburtstagsgeschenk
 Gebüsch
 Gebüschanpflanzung
+Gebüsches
 Gebüschgruppe
 Gebüschgruppen
 Gebüschstreifen
@@ -12233,6 +12367,8 @@ gefährlichste
 gefährlichsten
 gefährlichster
 gefahrlos
+Gefahrstelle
+Gefahrstellen
 Gefährt
 Gefährte
 Gefährten
@@ -12282,6 +12418,7 @@ gefärbt
 gefärbte
 gefärbtem
 gefärbten
+gefärbtes
 Gefäß
 gefaßt
 gefaßte
@@ -12321,6 +12458,7 @@ geflüchtete
 geflüchteter
 Geflügel
 Geflügelhof
+geflügelte
 geflügelten
 Geflügelzucht
 geflüstert
@@ -12417,6 +12555,7 @@ gegenübersitze
 gegenübersitzen
 gegenübersitzenden
 gegenübersitzt
+gegenüberstanden
 gegenübersteht
 Gegenüberstellung
 gegenübertreten
@@ -12546,6 +12685,7 @@ geheuert
 Geheul
 Gehilfe
 Gehilfen
+Gehilfin
 gehindert
 Gehirnerweichung
 Gehirngymnastik
@@ -13007,6 +13147,7 @@ gemunkelt
 gemünzte
 gemurmelt
 gemurmelte
+gemurmeltes
 Gemüse
 Gemüsebeete
 Gemüsegarten
@@ -13075,6 +13216,7 @@ Generalfeldmarschall
 Generalkonsul
 Generalkonsuls
 Generals
+Generalstaatsanwalt
 Generalstabes
 Generalvertreter
 Genersalkonsul
@@ -13108,6 +13250,7 @@ genoß
 Genosse
 genossen
 Genossen
+Genossin
 genötigt
 Genremalers
 Gentleman
@@ -13260,6 +13403,7 @@ geregelter
 geregt
 gereicht
 gereift
+gereiht
 gereinigt
 gereinigte
 gereist
@@ -13601,6 +13745,7 @@ geschwollene
 geschwollenen
 geschwommen
 geschworen
+Geschworenen
 Geschworenengericht
 geschwunden
 geschwungen
@@ -13736,6 +13881,7 @@ gesteckt
 gesteckten
 gestehe
 gestehen
+gesteht
 gesteigert
 gesteigerten
 Gestein
@@ -13964,6 +14110,7 @@ Gewehre
 Gewehren
 Gewehrschranke
 gewehrt
+geweht
 Geweih
 geweiht
 geweihte
@@ -14067,6 +14214,7 @@ Gewölk
 gewollt
 gewonnen
 gewonnene
+geworben
 geworden
 gewordene
 gewordenem
@@ -14080,6 +14228,7 @@ gewundene
 gewundert
 gewünscht
 Gewünschte
+gewürdigt
 gewürgt
 Gewürm
 Gewürzballen
@@ -14096,6 +14245,7 @@ Gezeichneter
 gezeigt
 gezerrt
 Gezeter
+gezielt
 gezielten
 gezierten
 gezimmerte
@@ -14328,6 +14478,7 @@ Gleichung
 gleichwertig
 gleichzeitig
 gleichzeitiger
+Gleise
 gleißende
 gleißte
 gleißten
@@ -14406,6 +14557,7 @@ glutheißen
 Glutwellen
 Gnade
 Gnaden
+Gnadengesuch
 gnädig
 gnädige
 Gnädige
@@ -14575,6 +14727,7 @@ grauenvollen
 grauenvolles
 grauer
 graues
+graugrüne
 graugrünen
 grauhaarige
 grauhaariger
@@ -14583,6 +14736,7 @@ grauköpfigen
 graumeliertem
 grausam
 grauschwarzem
+grauschwarzen
 grauschwarzes
 Grausen
 grausig
@@ -14603,6 +14757,7 @@ greifbaren
 greifbarer
 greife
 greifen
+greift
 Greis
 Greise
 greisen
@@ -14652,6 +14807,7 @@ grimmig
 Grinsen
 grinsend
 grinsende
+grinsenden
 grinsendes
 grinst
 grinste
@@ -15112,6 +15268,7 @@ Hamburg
 Hamburger
 Hamilton
 Hamiltons
+hämisch
 Hammel
 Hammelfleisch
 Hammelrippen
@@ -15289,6 +15446,7 @@ harter
 härter
 hartes
 Hartes
+hartgesottenen
 hartgesottener
 hartnäckig
 hartnäckige
@@ -15564,6 +15722,7 @@ heftige
 heftigen
 heftiger
 Heftigkeit
+heftigste
 hege
 hegen
 hegt
@@ -15727,6 +15886,7 @@ helleren
 hellerer
 helleres
 helles
+hellgekleidete
 hellgelb
 hellgelbe
 hellgelbem
@@ -15766,6 +15926,7 @@ herabdrücken
 herabdrückte
 herabfallen
 herabfallend
+herabfallenden
 herabfiel
 herabflog
 herabgefallen
@@ -15775,8 +15936,10 @@ herabgeflossen
 herabgeglitten
 herabgehenden
 herabgeklappt
+herabgeklettert
 herabgekommen
 herabgelassen
+herabgeplumpst
 herabgerutscht
 herabgesaust
 herabgesetzt
@@ -15810,13 +15973,16 @@ herabsank
 herabschossen
 herabschwebte
 herabsenkten
+herabsteigen
 herabstieg
 herabstießen
 herabstürzen
 herabstürzende
 herabtropfte
+herabzuklettern
 herabzulassen
 herabzuschweben
+herabzuwälzen
 heran
 herandrängen
 herandrängte
@@ -15831,6 +15997,7 @@ herangerutscht
 herangeschlängelt
 herangeschlichen
 herangeschwommen
+herangetraut
 herangetreten
 herangewachsenen
 herangewagt
@@ -16088,6 +16255,7 @@ hereinnehme
 hereinreichte
 hereinrief
 hereinstampfte
+hereinzulocken
 hereinzutragen
 Herfahrt
 herfallen
@@ -16209,6 +16377,7 @@ herumfuhren
 herumgedreht
 herumgedrückt
 herumgefahren
+herumgeführt
 herumgegangen
 herumgehetzt
 herumgehorcht
@@ -16234,6 +16403,7 @@ herumlaufender
 herumlungerten
 herumpatschten
 herumschleppen
+herumschlich
 herumschnellen
 herumspioniert
 herumsprechen
@@ -16244,6 +16414,7 @@ herumstocherte
 herumstrichen
 herumstritt
 herumsuchenden
+herumtrage
 herumträgt
 herumtreiben
 herumtüfteln
@@ -16337,6 +16508,7 @@ hervorzutreten
 Herwege
 Herz
 Herzeleid
+Herzeleids
 Herzen
 Herzens
 Herzensangst
@@ -16431,6 +16603,7 @@ hierum
 hiervon
 hierzu
 hiesige
+hiesigem
 hiesigen
 hiesiger
 hiesiges
@@ -16497,6 +16670,7 @@ hinabführten
 hinabgeblickt
 hinabgeeilt
 hinabgeführt
+hinabgeklettert
 hinabgelangen
 hinabgelangt
 hinabgelassen
@@ -16553,6 +16727,7 @@ hinauffuhr
 hinaufführt
 hinaufführte
 hinaufgeeilt
+hinaufgeklettert
 hinaufgelangt
 hinaufgelegt
 hinaufgestiegen
@@ -16585,6 +16760,7 @@ hinausgeklettert
 hinausgekommen
 hinausgelangt
 hinausgelehnt
+hinausgeleitete
 hinausgeschafft
 hinausgeschaut
 hinausgeschlichen
@@ -16782,6 +16958,7 @@ hineinziehen
 hineinzog
 hineinzuführen
 hineinzugelangen
+hineinzureichen
 hineinzuschreiben
 hineinzwängen
 hinfahren
@@ -16809,6 +16986,7 @@ hingemalten
 hingemordet
 hingen
 hingepinselt
+hingeraten
 hingerichtet
 hingerissen
 hingeschickt
@@ -16818,6 +16996,7 @@ hingesehen
 hingestellt
 hingestreckt
 hingestreckten
+hingewandt
 hingewiesen
 hingeworfen
 hingeworfenen
@@ -16967,6 +17146,7 @@ hinunterzuwürgen
 hinwälzen
 hinwarf
 hinweg
+hinwegfahren
 hinweggegangen
 hinweggehen
 hinweggeht
@@ -16975,6 +17155,7 @@ hinwegglitt
 hinweghuschte
 hinwegkommen
 hinweglugen
+hinwegragende
 hinwegragte
 hinwegreckend
 hinwegschritt
@@ -17029,6 +17210,7 @@ Hirschkäfer
 Hirten
 hissen
 hißte
+hißten
 historische
 historischen
 Hitze
@@ -17232,6 +17414,7 @@ Höhen
 Höhenkamm
 Höhenluft
 Höhenzug
+Höhenzüge
 Höhenzuges
 Höhepunkt
 hoher
@@ -17253,6 +17436,7 @@ Höhlentempel
 Höhlenwohnungen
 hohler
 Hohlraum
+Hohlräume
 Hohlräumen
 Hohlspiegel
 Höhlung
@@ -17291,6 +17475,7 @@ holländischen
 holländischer
 Hölle
 Höllenkonzert
+Höllenlärm
 Höllenmaschine
 Höllenpein
 höllisch
@@ -17834,6 +18019,7 @@ Irrgängen
 Irrgarten
 irritiert
 Irrlichter
+irrsinnig
 Irrsinnigen
 irrst
 irrt
@@ -17876,6 +18062,7 @@ Jagdexpedition
 Jagdfieber
 Jagdgast
 Jagdgefährten
+Jagdgeschichten
 Jagdgesellschaft
 Jagdgewehre
 Jagdgewehren
@@ -17883,6 +18070,7 @@ Jagdglas
 Jagdleoparden
 Jagdmesser
 Jagdpartie
+Jagdrevier
 Jagdschloß
 Jagdstiefeln
 Jagdstreife
@@ -17935,7 +18123,9 @@ jähzornig
 Jammer
 jämmerlich
 jämmerliche
+jämmerlicher
 jammernd
+Jammers
 jammerschade
 jammert
 jammerte
@@ -18770,6 +18960,7 @@ Klingenspitze
 klingt
 Klinke
 klinkte
+Klippe
 Klippen
 Klirren
 klirrend
@@ -18788,6 +18979,7 @@ klopft
 klopfte
 klopften
 Klöppel
+Kloß
 Kloster
 Klostergebäude
 Klöstern
@@ -18839,6 +19031,7 @@ Knack
 Knacken
 knackend
 Knall
+Knallbüchse
 knalle
 Knalle
 Knalleffekt
@@ -18911,6 +19104,7 @@ Knirps
 Knirschen
 knirschte
 Knistern
+knisternd
 knisternde
 knisterte
 knisterten
@@ -19000,6 +19194,7 @@ Kollege
 Kollegen
 Kollegin
 kollerte
+kollerten
 Kolombo
 Kolomboer
 Kolombos
@@ -19170,6 +19365,7 @@ Kontrakt
 Kontrolle
 kontrolliert
 kontrollierte
+Konturen
 Konversationslexikon
 Konzert
 Konzertcafee
@@ -19248,6 +19444,7 @@ Körper
 Körperbewegung
 Körpergewicht
 Körpergröße
+Körperhälfte
 Körperhaltung
 Körperkräfte
 Körperlänge
@@ -19263,6 +19460,7 @@ Korporal
 Korps
 korpulent
 korpulente
+korpulenten
 Korpulenz
 korrekt
 Korrespondent
@@ -19451,12 +19649,14 @@ kreischte
 kreischten
 Kreise
 Kreisel
+kreisen
 Kreisen
 kreisende
 Kreises
 kreisförmig
 kreisförmigen
 Kreislinie
+kreisrund
 kreisrunden
 Kreisstadt
 kreisten
@@ -19639,6 +19839,7 @@ Kundschafter
 Kunst
 Künste
 Künsten
+Kunstfertigkeit
 Kunstfreund
 kunstgerecht
 Kunstgewerbe
@@ -19699,6 +19900,7 @@ Kuppel
 Kuppelhalle
 Kuppeln
 Kur
+Kür
 Kurare
 kurbelte
 Kürbis
@@ -19722,6 +19924,7 @@ Kurs
 Kursbuch
 Kurse
 kursieren
+Kurve
 Kurven
 kurz
 kurzatmig
@@ -20000,6 +20203,7 @@ Längsstreifen
 langst
 längst
 längste
+längsten
 langstielige
 Längswänden
 langt
@@ -20088,6 +20292,7 @@ lauen
 Lauer
 lauern
 lauernde
+lauernden
 lauert
 lauerte
 lauerten
@@ -20209,6 +20414,7 @@ lebhaft
 lebhafte
 lebhaften
 lebhafter
+lebhafteren
 lebhaftes
 lebhafteste
 lebhaftesten
@@ -20415,7 +20621,6 @@ Leiermannes
 leierte
 leihen
 Leihen
-leiht
 leihweise
 Leim
 Leimrute
@@ -20717,6 +20922,7 @@ Liegeplatze
 Liegestuhl
 Liegestühle
 Liegestühlen
+liegst
 liegt
 liegt’s
 lieh
@@ -20897,6 +21103,7 @@ losgehen
 losgekauft
 losgekettet
 losgelassen
+losgemacht
 losgerissen
 losgesagt
 losgeschnitten
@@ -20934,6 +21141,7 @@ Lösungsversuche
 loswerden
 loswickeln
 loszubinden
+loszuketten
 loszulassen
 loszureißen
 loszuschwindeln
@@ -20951,6 +21159,7 @@ Luchs
 Lücke
 Lücken
 lückenhaft
+lückenhafte
 lud
 luden
 Luft
@@ -21001,6 +21210,7 @@ Lügen
 lugenden
 Lügengeschichte
 Lügengeschichten
+Lügengespinst
 Lügerei
 Lügner
 lügst
@@ -21019,6 +21229,8 @@ Lungenkraft
 lungenkrank
 Lunte
 Lupe
+lüpfen
+lüpfte
 Lust
 lüsternen
 lustig
@@ -21394,10 +21606,12 @@ mauerähnlich
 Mauerecke
 Mauerfuge
 Mauerfugen
+Mauerkante
 Mauerkrone
 Mauerloch
 Mauern
 Mauerpforte
+Mauerrand
 Mauerrande
 Mauerrest
 Mauerreste
@@ -21501,6 +21715,7 @@ meiden
 meidet
 Meile
 Meilen
+meilenweit
 meilenweite
 meilenweiten
 mein
@@ -21662,6 +21877,7 @@ Metallschüssel
 Metallschüsseln
 Metallzylinder
 Meter
+meterbreiter
 metergroße
 Metermaß
 Metern
@@ -21834,6 +22050,7 @@ Mistreß
 mit
 mitangehört
 mitangesehen
+mitanhören
 mitansah
 mitansahen
 mitansehen
@@ -21953,6 +22170,7 @@ mitteilen
 mitteilsam
 mitteilsame
 mitteilsamer
+mitteilt
 mitteilte
 mitteilten
 mitteiltest
@@ -22141,6 +22359,7 @@ Morast
 morastig
 morastigen
 Mord
+Mordabend
 Mordanschlag
 Mordbande
 Morde
@@ -22175,6 +22394,7 @@ Mordkommission
 Mordlust
 Mordnacht
 Mordplanes
+Mordprozeß
 Mordsache
 Mordtage
 Mordtat
@@ -22182,6 +22402,7 @@ Mordthema
 Mordtheorie
 Mordversuch
 Mordversuchen
+Mordversuchs
 Mordwaffe
 Mordwerkzeuge
 Mordwerkzeugs
@@ -22331,6 +22552,7 @@ mündig
 Mündigkeit
 mündlich
 Mundparfüm
+Mundpartie
 Mundstück
 Mundstücke
 Mundstückende
@@ -22343,8 +22565,10 @@ Mundwinkel
 Mundwinkeln
 Munition
 munkelt
+munkelte
 munter
 muntere
+munteren
 munterer
 munterte
 Münze
@@ -22359,6 +22583,7 @@ Murren
 mürrischer
 Muschel
 Muschelgrand
+Muschelkies
 Muscheln
 Museen
 Museum
@@ -22455,6 +22680,7 @@ Nachbardach
 Nachbardächer
 Nachbargebäude
 Nachbargrundstück
+Nachbargrundstückes
 Nachbargrundstücks
 Nachbarhäuschens
 Nachbarhof
@@ -22474,6 +22700,7 @@ Nachbildung
 nachdem
 nachdenken
 Nachdenken
+Nachdenkens
 nachdenklich
 nachdenkliche
 nachdenklichen
@@ -22507,6 +22734,7 @@ nachgedacht
 nachgedunkelt
 nachgedunkeltem
 nachgedunkelten
+nachgefärbte
 nachgefolgt
 nachgeforscht
 nachgefragt
@@ -22577,6 +22805,7 @@ Nachsatz
 nachschaut
 nachschaute
 nachschickte
+nachschleiche
 nachschleichen
 Nachschleichen
 nachschleicht
@@ -22627,6 +22856,7 @@ nachteilige
 nachteiliger
 Nächten
 Nachteule
+Nachtgestirn
 Nachtgestirns
 Nachtglases
 Nachthemd
@@ -22676,9 +22906,11 @@ Nachtzug
 Nachtzuge
 Nachweis
 nachweisen
+nachweist
 nachwinkte
 Nachwirkungen
 nachzudenken
+nachzufahren
 nachzufragen
 nachzugehen
 nachzugrübeln
@@ -23027,6 +23259,7 @@ neunfacher
 Neunfingerige
 Neunfingerigen
 Neunfingrigen
+neunmal
 neunschüssige
 neunte
 neunten
@@ -23048,6 +23281,7 @@ nichtsahnenden
 nichtssagenden
 Nichtstuer
 Nichtstun
+nicke
 Nickelbrille
 Nickelbügel
 Nickeleinfassung
@@ -23163,6 +23397,7 @@ nippte
 nirgends
 Nische
 Nischen
+nisten
 Noblen
 noch
 nochmal
@@ -23234,6 +23469,7 @@ Note
 Noten
 Nöten
 Notfall
+Notfalle
 notgedrungen
 notieren
 notiert
@@ -23260,6 +23496,7 @@ Notschrei
 Notsegel
 Notsegeln
 nottut
+Notverbände
 Notwehr
 notwendig
 notwendige
@@ -23538,6 +23775,7 @@ Orakelarbeit
 Orakelstein
 Orchester
 Orchesterloge
+Orchideen
 Orden
 Ordensbändchen
 ordentlich
@@ -23933,8 +24171,10 @@ Perlstickerei
 perlte
 perlten
 Perser
+Perserin
 Perserteppich
 Persien
+persische
 persischer
 Person
 Personal
@@ -24050,6 +24290,7 @@ Pflanzenöl
 Pflanzenwuchs
 pflanzte
 Pflaster
+Pflasters
 Pflaumen
 Pflaumenbaum
 pflege
@@ -24163,6 +24404,7 @@ Pistolen
 Pistolenkugel
 Pistolenlauf
 Pistolenschuß
+Pistolenschüsse
 Pistolenschüssen
 Plage
 Plagegeister
@@ -24194,6 +24436,8 @@ Plantagendirektor
 Plantagendirektors
 plante
 planten
+plappern
+plappert
 Plasma
 Platane
 Plateau
@@ -24363,6 +24607,7 @@ Polizist
 Polizisten
 Polster
 Polsterbank
+Polsterbänken
 Polstern
 Polstersitz
 Polstersitze
@@ -24765,6 +25010,7 @@ Querstangen
 Querstraße
 Quertal
 Quertale
+quetschte
 Quetschwunde
 quiekenden
 quietschen
@@ -24859,6 +25105,7 @@ Rande
 Ränder
 Rändern
 Randes
+randloses
 rang
 Rang
 rangen
@@ -24891,6 +25138,7 @@ rascheln
 Rascheln
 raschelnd
 raschelte
+raschelten
 rasches
 Rasen
 rasende
@@ -24973,6 +25221,7 @@ Raubmord
 Raubmörder
 Raubmörders
 Raubmordes
+raubt
 raubte
 raubten
 Raubtier
@@ -25013,6 +25262,7 @@ raucht
 rauchte
 rauchten
 Rauchtischchen
+Rauchvorrat
 Rauchwölkchen
 räudige
 Raufbold
@@ -25203,6 +25453,7 @@ regungslosen
 Regungslosigkeit
 Rehbock
 Rehfuß
+Reibe
 Reibeisen
 Reibeisenkehle
 reiben
@@ -25446,6 +25697,8 @@ Repetierpistole
 Repetierpistolen
 Repetierwaffe
 Reporter
+Reportern
+Reporters
 Reptil
 Reptile
 Reptils
@@ -25511,6 +25764,7 @@ Revanche
 Reverend
 revidieren
 revidierte
+revidierten
 Revier
 Revision
 Revisionen
@@ -25979,6 +26233,7 @@ Rundgang
 rundlich
 rundliche
 rundlichen
+rundliches
 Rundschrift
 rundum
 Rundung
@@ -26152,6 +26407,7 @@ sank
 sanken
 sann
 Sansibar
+Sanskrit
 Sarg
 Sargdeckel
 Sargdekel
@@ -26284,6 +26540,7 @@ Schafskleidern
 Schaftstiefel
 Schafwolle
 Schal
+Schälchen
 schale
 Schale
 schalen
@@ -26551,6 +26808,7 @@ schiebenden
 Schieber
 Schiebetür
 schiebt
+schied
 schieden
 schief
 schiefen
@@ -26707,14 +26965,17 @@ Schlafgemach
 Schlafgemächer
 Schlafgenosse
 Schlafkabine
+Schlafkabinen
 Schlafkajüte
 Schlafkammer
 schlafkranke
+schlaflose
 schlaflosen
 Schlafmittel
 Schlafpulver
 Schlafraum
 Schlafraume
+schläfrigen
 Schlafrock
 Schlafs
 Schlafsalon
@@ -26883,6 +27144,7 @@ Schlimmeres
 Schlimmes
 schlimmste
 Schlimmste
+schlimmsten
 schlimmstenfalls
 schlimmster
 Schlinge
@@ -26988,6 +27250,7 @@ Schlußsatz
 Schlußsätze
 Schlußstein
 Schlußszene
+Schmach
 schmachtende
 schmachtet
 schmächtig
@@ -27132,6 +27395,7 @@ Schnarchkonzert
 schnarcht
 schnarchte
 Schnarchtöne
+Schnattern
 schnatternd
 schnatterte
 schnatterten
@@ -27170,6 +27434,7 @@ Schneiderin
 Schneidermeister
 Schneidern
 Schneiders
+schneidet
 schnell
 schnelle
 Schnelle
@@ -27227,6 +27492,7 @@ schoben
 Schöffengerichtssitzung
 scholl
 Scholle
+Schollen
 schon
 schön
 schone
@@ -27265,6 +27531,8 @@ schoß
 Schoß
 Schoße
 schossen
+Schößlinge
+Schößlings
 Schotte
 Schotten
 schottisch
@@ -27278,6 +27546,7 @@ schrägen
 schräges
 schrak
 Schrank
+schrankartiger
 Schränkchen
 Schranke
 Schränke
@@ -27410,6 +27679,7 @@ Schrot
 Schrott
 Schrullen
 schrullenhaften
+schrumpfte
 Schubfach
 Schublade
 Schubladen
@@ -27489,8 +27759,10 @@ Schüssen
 Schusses
 Schußfeld
 schußfertig
+Schußlinie
 Schußnarbe
 Schußverletzung
+Schußwaffe
 Schußwaffen
 Schußwunde
 Schußwunden
@@ -27543,6 +27815,7 @@ schwächer
 schwaches
 schwächlichen
 schwachsinnigen
+Schwächung
 Schwaden
 Schwager
 Schwagers
@@ -27836,6 +28109,7 @@ Seelenpein
 Seelenrätsels
 Seelenregungen
 Seelenruhe
+seelenruhig
 Seelenschmerz
 Seelenstärke
 Seelenverkäufer
@@ -28148,6 +28422,7 @@ Sendungen
 sengende
 sengenden
 Seniorchef
+senke
 Senke
 senken
 senkrecht
@@ -28261,6 +28536,7 @@ Siedeglut
 siedend
 siedendem
 Siedetemperatur
+Siedlungen
 Sieg
 Siege
 Siegel
@@ -28444,6 +28720,7 @@ Smaragd
 Smaragde
 Smaragden
 Smaragds
+smart
 Smoking
 Smokinganzug
 so
@@ -28899,6 +29176,7 @@ Sprechstunde
 Sprechweise
 Sprechzimmer
 sprengen
+Sprengkapsel
 Sprengkörper
 Sprengladung
 Sprengmittel
@@ -28938,6 +29216,7 @@ Sprunge
 Sprünge
 Sprüngen
 sprunghaften
+spuckt
 Spuk
 Spukbild
 spuke
@@ -29009,6 +29288,7 @@ stadtbekannt
 stadtbekannte
 stadtbekannten
 Stadtbevölkerung
+Stadtbibliothek
 Städtchen
 Städtchens
 Stadtchronik
@@ -29064,6 +29344,7 @@ stahlst
 Stahlstange
 Stahltrosse
 Stahlwand
+stak
 Stall
 Stallbursche
 Stallburschen
@@ -29220,6 +29501,7 @@ staunen
 Staunen
 staunend
 staunenden
+staunenderregend
 staunenerregend
 Staunens
 staunenswerten
@@ -29244,6 +29526,7 @@ Stecken
 steckend
 steckende
 steckenden
+steckengelassen
 Steckenpferd
 Stecknadel
 Stecknadeln
@@ -29378,6 +29661,7 @@ stellte
 stellten
 stelltest
 Stellung
+Stellungen
 Stellvertreter
 Stellvertreters
 Stelzen
@@ -29480,6 +29764,7 @@ Stiel
 Stielen
 stier
 stiernackige
+stiert
 stierte
 stierten
 stieß
@@ -29519,6 +29804,7 @@ Stimmung
 Stimmungen
 stimmungsvoll
 stinken
+stinkend
 stinkende
 stinkenden
 stinkender
@@ -29691,6 +29977,7 @@ Straßenniveau
 Straßenpolizisten
 Straßenquadrate
 Straßenrand
+Straßenrande
 Straßenräuber
 Straßenräubern
 Straßenschmutz
@@ -30110,6 +30397,7 @@ Takt
 Takte
 Taktik
 taktmäßig
+taktvoll
 taktvolles
 Tal
 Tale
@@ -30355,6 +30643,7 @@ telegraphiert
 telegraphierte
 telegraphisch
 telegraphische
+telegraphischen
 Telegraphisten
 Telephon
 Telephongespräch
@@ -30384,6 +30673,7 @@ Tempelgang
 Tempelgebäude
 Tempelgeräte
 Tempelhalle
+Tempelhallen
 Tempelhof
 Tempelhofe
 Tempelhofes
@@ -30406,6 +30696,7 @@ Tempelwächter
 Temperament
 temperamentvoll
 temperamentvolle
+temperamentvollen
 temperamentvoller
 Temperatur
 Tempo
@@ -30543,6 +30834,7 @@ Tiger
 Tigerfell
 Tigerjagd
 Tigerjagden
+Tigerjäger
 Tigerkopf
 Tigern
 Tigers
@@ -30592,6 +30884,7 @@ Titel
 Titelbild
 Titeln
 titulierten
+toben
 Toben
 Tobsuchtsanfall
 tobt
@@ -30657,6 +30950,7 @@ Tönen
 Tonerde
 Tones
 Tonfall
+Tonfalls
 Tonfiguren
 Tongefäßen
 Tongötzen
@@ -30920,6 +31214,7 @@ triefend
 triefendem
 triefenden
 triefte
+triffst
 trifft
 trifft’s
 triftige
@@ -30928,6 +31223,7 @@ Trigonometrie
 Trillerpfeife
 Trillerpfiff
 Trink
+Trinkbares
 trinke
 trinken
 Trinken
@@ -30956,6 +31252,7 @@ triumphierend
 triumphierende
 triumphierenden
 triumphierender
+triumphierendes
 triumphierte
 Triumphs
 trocken
@@ -31109,6 +31406,7 @@ turbanähnlichen
 turbanartig
 turbanartige
 Turbane
+Turbanen
 Turbankünstlers
 Turbanmacher
 Turbanmachers
@@ -31286,6 +31584,7 @@ Typs
 überlas
 überlasse
 überlassen
+überlaufen
 überläuft
 überlaut
 überlaute
@@ -31548,6 +31847,7 @@ Ueberrumpelten
 Ueberrumpelung
 Ueberschrift
 Uebersetzung
+Uebersetzungen
 Uebersichtliches
 Uebersiedelung
 Ueberspanntheit
@@ -31659,6 +31959,7 @@ umgekehrt
 umgekippt
 umgekippten
 umgekommen
+umgekrempelt
 umgelegt
 umgenommen
 umgerissen
@@ -31667,6 +31968,7 @@ umgeschlagen
 umgeschnallt
 umgesehen
 umgestaltet
+umgestalteten
 umgestellt
 umgestoßen
 umgestürzt
@@ -31684,6 +31986,8 @@ umging
 umgingen
 umgrenzt
 umgurgelten
+umgürte
+umgürtet
 Umhang
 umher
 umherfahren
@@ -31692,6 +31996,7 @@ umhergeirrt
 umhergerudert
 umhergestreut
 umhergestreute
+umhergestreuten
 umhergetrieben
 umhergleiten
 umherhuschen
@@ -31711,6 +32016,7 @@ umherstreifen
 umherstreift
 umherstreuten
 umherstrichen
+umhertrage
 umherturnten
 umherwanderten
 umheulte
@@ -31750,10 +32056,12 @@ umlauerte
 umlaufender
 Umlegekragen
 umliegenden
+Umnachtung
 umquartieren
 umrahmte
 umrahmtes
 Umrahmung
+umrändert
 umrauscht
 umrauschte
 umrauschten
@@ -31787,8 +32095,10 @@ umschleichen
 umschleifen
 umschlichen
 umschließt
+umschloß
 umschlossen
 umschlossene
+umschlossenen
 umschlungen
 umschmeichelten
 umschnüren
@@ -31805,6 +32115,7 @@ umsehe
 umsehen
 Umsicht
 umsichtig
+umsichtigster
 umsinken
 Umsinken
 Umsinkenden
@@ -31816,6 +32127,7 @@ umspannte
 umspannten
 umspielen
 umspielte
+umsponnen
 umsponnenen
 umsprang
 umspringt
@@ -31920,6 +32232,7 @@ unbebauten
 unbedeckt
 unbedeutend
 unbedeutende
+unbedeutender
 unbedeutendsten
 unbedingt
 unbedingtem
@@ -32269,6 +32582,7 @@ ungünstigen
 ungünstiges
 unhaltbar
 Unheil
+unheilschwanger
 unheilverkündender
 unheimlich
 unheimliche
@@ -32390,6 +32704,7 @@ unschädlich
 unscharf
 unschätzbare
 unscheinbar
+unscheinbare
 unscheinbaren
 unscheinbares
 unscheinbarste
@@ -32398,6 +32713,7 @@ unschön
 unschöne
 Unschuld
 unschuldig
+Unschuldigen
 Unschuldsengel
 Unschuldslamm
 unschwer
@@ -32458,6 +32774,7 @@ unsympathische
 untadeligem
 untadeligen
 Untat
+Untaten
 untätig
 Untätigkeit
 unten
@@ -32466,6 +32783,7 @@ Unteranführer
 Unterarm
 Unterbau
 Unterbeamten
+Unterbewußtsein
 unterbinden
 unterbleiben
 unterblieb
@@ -32698,6 +33016,7 @@ unverkennbarer
 Unverletzlichkeit
 unverletzt
 unverletzten
+unvermeidliche
 unvermittelt
 unvermittelten
 unvermutet
@@ -32734,6 +33053,7 @@ unvollkommen
 Unvollkommenheit
 unvorbereitet
 unvorhergesehene
+unvorschriftsmäßiger
 unvorsichtig
 unvorsichtige
 unvorsichtigen
@@ -32758,6 +33078,7 @@ Unwetter
 Unwettern
 Unwetters
 unwichtig
+unwichtige
 Unwichtige
 unwichtigere
 unwiderstehlichen
@@ -32786,6 +33107,8 @@ unzulänglich
 Unzulänglichkeit
 unzurechnungsfähig
 unzureichend
+unzusammenhängende
+Unzuträglichkeiten
 unzutreffende
 unzuverlässig
 unzweckmäßig
@@ -32806,6 +33129,7 @@ Ureinwohner
 Urenkelin
 Urheber
 Urkunde
+Urkunden
 Urkundenfälschung
 Urlaub
 Urlaubsreise
@@ -32980,6 +33304,7 @@ Verbindungen
 Verbindungsgange
 Verbindungsmann
 Verbindungstür
+Verbindungstüren
 Verbindungsweg
 verbirgst
 verbirgt
@@ -32999,6 +33324,7 @@ verblüffenden
 Verblüffendes
 verblüfft
 verblüfftes
+verblühten
 verblutet
 Verblutung
 verbog
@@ -33214,6 +33540,7 @@ vererbte
 Vererbung
 Vererbungstheorie
 verfahren
+Verfall
 verfallen
 verfallene
 verfallenen
@@ -33401,6 +33728,7 @@ Verhältnis
 verhältnismäßig
 Verhältnisse
 Verhältnissen
+verhältst
 Verhaltungsbefehl
 Verhaltungsmaßregeln
 verhandeln
@@ -33504,6 +33832,7 @@ verkehren
 verkehrenden
 Verkehrs
 verkehrsreichen
+Verkehrsstraße
 Verkehrsweg
 Verkehrswege
 verkehrt
@@ -33823,6 +34152,7 @@ verrieten
 verringern
 verringertest
 verrinnenden
+verrohter
 verrostet
 verrostete
 verrostetem
@@ -33875,6 +34205,7 @@ verschieben
 verschied
 verschieden
 verschiedene
+verschiedenem
 verschiedenen
 verschiedener
 verschiedenes
@@ -33906,6 +34237,7 @@ Verschleierung
 verschleppt
 verschleppte
 verschleudern
+verschlief
 verschließbare
 verschließbarem
 verschließe
@@ -33980,6 +34312,7 @@ Verschwiegenheit
 verschwinde
 verschwinden
 Verschwinden
+verschwindend
 verschwindenden
 verschwindender
 Verschwindens
@@ -34385,6 +34718,7 @@ verworfen
 Verworfenheit
 verworrener
 verworrensten
+verwundbare
 verwundert
 verwunderter
 Verwunderung
@@ -34399,6 +34733,7 @@ verwünschtes
 Verwünschung
 Verwünschungen
 verwüstet
+Verwüstung
 Verzagte
 Verzagtheit
 verzehren
@@ -34446,6 +34781,7 @@ Verzweifelter
 verzweifeltes
 Verzweifeltes
 Verzweiflung
+Verzweiflungsausbruch
 Verzweiflungschrei
 verzwickt
 verzwickte
@@ -34460,6 +34796,7 @@ Vexierbilde
 Vexierbildern
 Vexierphotographien
 Vexierphotos
+vibrieren
 Vibrieren
 vibrierender
 vibrierte
@@ -34553,6 +34890,7 @@ Villenkolonie
 Villenort
 Villenortes
 Villenvorort
+Villenvororte
 Villenvorstadt
 violette
 Violinenkasten
@@ -34561,6 +34899,7 @@ Viper
 Vipern
 Virtuosität
 visiert
+Vision
 Visite
 Visitenkarte
 Visitformat
@@ -35079,6 +35418,7 @@ vorübergefahren
 vorübergegangen
 vorübergeglitten
 vorübergehen
+Vorübergehen
 vorübergehend
 vorübergehende
 Vorübergehenden
@@ -35099,6 +35439,7 @@ Vorurteile
 vorvergangenen
 Vorwand
 Vorwände
+vorwarf
 vorwärts
 vorwärtsgekommen
 vorwärtskam
@@ -35421,6 +35762,7 @@ warm
 warme
 Wärme
 warmen
+wärmen
 wärmenden
 Wärmequellen
 warmer
@@ -35463,6 +35805,7 @@ wartendes
 Wärter
 Warteraum
 Wartesaal
+Wartesaales
 Wartesäle
 wartest
 wartet
@@ -35571,6 +35914,7 @@ weder
 weg
 Weg
 wegbleiben
+wegbleibt
 wegbringen
 Wege
 Wegegabelung
@@ -35632,6 +35976,7 @@ wegrasiert
 wegreißen
 wegriß
 wegrollen
+wegrühren
 wegsacken
 wegsackte
 wegschaffen
@@ -35639,6 +35984,7 @@ wegschaffte
 Wegschaffung
 wegschicken
 wegschicktest
+wegschleppen
 wegschleppten
 wegschließen
 wegschloß
@@ -35649,6 +35995,7 @@ wegwaschen
 Wegweiser
 wegwerfen
 wegwerfend
+wegwerfende
 wegzukommen
 wegzulassen
 wegzunehmen
@@ -35669,6 +36016,7 @@ Wehrlose
 wehrlosen
 wehrt
 wehrte
+weht
 wehte
 wehten
 Weib
@@ -35749,6 +36097,7 @@ weinerliches
 Weines
 Weinflaschen
 Weinglas
+Weinglase
 Weingläser
 Weinhauses
 Weinkrampf
@@ -35825,9 +36174,12 @@ weitergehen
 weitergehenden
 weitergehendes
 weitergekommen
+weitergekrochen
 weitergeleitet
 weitergemeldet
+weitergereicht
 weitergereist
+weitergerollt
 weiterging
 weiterhin
 weiterlebt
@@ -35913,6 +36265,7 @@ Weltwunder
 wem
 wen
 wende
+Wendehals
 Wendeltreppe
 wenden
 Wenden
@@ -35959,6 +36312,7 @@ Werkzeug
 Werkzeuge
 Werkzeugen
 Werkzeugkasten
+Werkzeugkastens
 wert
 Wert
 Wertangabe
@@ -36016,6 +36370,7 @@ Westenknöpfen
 Westens
 Westentasche
 Westerland
+Western
 Westfalen
 Westflügel
 Westflügels
@@ -36063,6 +36418,7 @@ Wettproblemen
 Wettrennen
 Wettstreit
 Wettsumme
+wettzumachen
 Whisky
 wich
 wichen
@@ -36113,8 +36469,10 @@ widerspruchsvoller
 Widerstand
 widerstandsfähige
 widerstandsfähigen
+Widerstandskraft
 widerstehen
 widersteht
+widerstrebenden
 widert
 widerwärtig
 widerwärtigen
@@ -36304,6 +36662,7 @@ wirbelte
 wirbt
 wird
 wird’s
+wirf
 wirft
 wirken
 wirkend
@@ -36465,6 +36824,7 @@ Wohnsalon
 Wohnsalons
 Wohnschiffe
 Wohnsitz
+wohnst
 wohnt
 wohnte
 wohnten
@@ -36548,6 +36908,7 @@ Wrack
 wracken
 Wracks
 Wucherer
+Wucherers
 wuchernden
 wuchert
 wucherte
@@ -36655,6 +37016,7 @@ Würgen
 würgende
 würgenden
 Würger
+würgt
 würgte
 würgten
 Wurst
@@ -36948,6 +37310,7 @@ zerfleischt
 zerfleischte
 zerfloß
 zerfressen
+zerfressenen
 zerfurcht
 zerfurchtes
 zergliederte
@@ -37034,6 +37397,7 @@ zertrümmert
 zertrümmerten
 zerwühlen
 zerwühlt
+zerwühlte
 Zerwürfnis
 Zettel
 Zetteln
@@ -37051,6 +37415,7 @@ Zeugnisse
 Zeugstreifen
 zeugt
 Zicklein
+Zickzack
 Zickzacklinien
 Ziege
 Ziegel
@@ -37084,6 +37449,7 @@ Zieles
 zielte
 zielten
 ziemlich
+ziemliche
 ziemlicher
 Zier
 Zierde
@@ -37186,6 +37552,7 @@ zischend
 zischte
 Zisterne
 Zither
+zitiert
 zitierte
 Zitronen
 zitterigen
@@ -37247,6 +37614,7 @@ zubereiten
 Zubettgehen
 zubrachten
 zubringen
+züchtet
 Zuchthaus
 Zuchthäusern
 Zuchthäusler
@@ -37316,6 +37684,7 @@ Zugänge
 zugänglich
 zugängliche
 zugänglicher
+zugänglichsten
 Zugangs
 Zugbeamten
 Zugbegleiter
@@ -37341,6 +37710,7 @@ Zugehörigen
 Zugehörigkeit
 zugehört
 zugekehrt
+zugekehrte
 zugekehrten
 zugeklappt
 zugeklappten
@@ -37738,10 +38108,12 @@ zusammengerollte
 zusammengerollten
 zusammengerollter
 zusammengerolltes
+zusammengeschlagene
 zusammengeschlagenen
 zusammengeschmolzen
 zusammengeschnürt
 zusammengeschobenes
+zusammengeschrumpft
 zusammengesehen
 zusammengesessen
 zusammengesperrt
@@ -37781,6 +38153,7 @@ zusammensaßen
 Zusammenschießen
 Zusammenschreckens
 zusammenschrumpfen
+zusammenschrumpften
 zusammenschweißen
 zusammensein
 Zusammensein
@@ -37844,6 +38217,7 @@ Zuspruch
 Zustand
 zustande
 Zustande
+Zustandes
 zuständige
 zuständigen
 zustatten
@@ -37873,6 +38247,7 @@ zutraue
 zutrauen
 Zutrauen
 zutraulich
+zutrauliches
 zutraute
 zutreffen
 zutreffend
@@ -37916,8 +38291,10 @@ zuzugeben
 zuzuhalten
 zuzuhören
 zuzumuten
+zuzupacken
 zuzuraunen
 zuzureden
+zuzureichen
 zuzurufen
 zuzuschauen
 zuzuschicken

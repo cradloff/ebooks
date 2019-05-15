@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">91d92458-7751-11e9-879c-77dc92f586e6</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Acht Stunden Frist</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">45</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Acht Stunden Frist
+
+In diesem Moment betrat der indische Pförtner Frau Bangseys die Vorhalle. Der alte Mann wohnte neben dem Parktor in einem kleinen, netten Häuschen.
+
+»Sahib Harst, es ist eine Dame draußen, die sich nicht abweisen läßt. Sie kam im Auto vorgefahren und hat mich herausgeklingelt.«
+
+Er hielt Harald eine Visitenkarte hin.
+
+Das, was auf der Rückseite der Karte mit Bleistift stand, lautete in deutscher Uebersetzung:
+
+»Master Harst! Eine Unglückliche fleht Sie um Hilfe an. Meine Sache duldet keinen Aufschub. Mein Mann wird am 3. Februar morgens hingerichtet. Haben Sie erbarmen mit mir und meinem Elend. Ich bin soeben mit dem Nachtzuge von Bombay eingetroffen. —
+
+Evelyn Trimsay.«
+
+Die Brahma-Statue.
+
+Jetzt nun geschah das, was wir drei niemals auch nur im entferntesten geahnt hatten:
+
+Die Büsche rechts von uns rauschten. Wir drehten uns um. Dort stand ein schlanker, mittelgroßer Europäer, bartlos, schmales Gesicht, sonngebräunt, im karierten Sportanzug, eine eben solche Mütze auf dem Kopf.
+
+In der lässig erhobenen Rechten hielt er eine Pistole mit ziemlich langem Lauf.
+
+»Guten Abend, meine Herren,« sagte er sehr höflich: »Ich warne Sie vor jeder Bewegung. Ich schieße nie vorbei. Inspektor Greaper kennt mich. Mein Name ist Edward Ralling.  Ich war Ohrenzeuge Ihres Gesprächs, meine Herren. Es freut mich, daß Sie mich richtig einschätzen, Mr. Harst.  Menschenleben spielen bei mir tatsächlich keine Rolle.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (045) Acht Stunden Frist.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
