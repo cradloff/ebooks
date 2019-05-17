@@ -37,7 +37,7 @@ ist jedoch nicht benutzt. Er hielt sich zwei indische Diener. Auch
 diese sind spurlos verschwunden. Ja, denken Sie, was ich dort
 fand: in einem Kämmerchen mit einer Geheimtür, das von
 Rallings Atelier aus zugänglich ist, lagen allerlei Dinge, die
-er in Bombay im letzten Jahre als gestohlen gemeldet worden
+hier in Bombay im letzten Jahre als gestohlen gemeldet worden
 sind. Dieser Mensch hat ein vollständiges Doppelleben
 geführt. Er verkehrte in der besten Gesellschaft. Er war
 <@pagebreak/>
@@ -83,7 +83,7 @@ im entferntesten geahnt hatten:
 Die Büsche rechts von uns rauschten. Wir drehten uns
 um. Dort stand ein schlanker, mittelgroßer Europäer, bartlos,
 schmales Gesicht, sonngebräunt, im karierten Sportanzug,
-eine eben solche Mütze auf dem Kopf.
+eine ebensolche Mütze auf dem Kopf.
 
 In der lässig erhobenen Rechten hielt er eine Pistole mit
 ziemlich langem Lauf.
@@ -360,7 +360,7 @@ Geheim-Polizisten. Die Leute schliefen in einem Anbau, den Greaper
 ebenfalls erst hatte errichten lassen, als er vor sechs Jahren
 das Grundstück erwarb.
 
-Dir aßen gerade delikate Brathühner, als eine recht unangenehme
+Wir aßen gerade delikate Brathühner, als eine recht unangenehme
 Störung eintrat.
 
 Der Diener stand abseits an dem Anrichtetisch und tat
@@ -368,7 +368,7 @@ Eis in einen Sektkühler. Plötzlich rief er uns zu:
 
 »Dort — ein Fremder befindet sich im Garten —«
 
-Es war inzwischen dunkel geworben. Greaper hatte auch
+Es war inzwischen dunkel geworden. Greaper hatte auch
 der Dienerschaft mitgeteilt, daß der gesuchte Mörder Ralling
 sich vorhin eingeschlichen gehabt hätte, und hatte sie ermahnt,
 den Garten scharf zu beobachten. Sowohl die drei eigentlichen
@@ -463,7 +463,7 @@ in den Riffbarrieren, wo man mit einem Fischerkahn aufs
 Meer hinauskann, ohne fürchten zu müssen, das Leben zu verlieren.
 Nordwestlich des Mahalukschmi-Tempels, von dem Du
 wohl sicher schon gehört hast, liegen ein paar größere Klippen.
-Man sich kleine Inselchen nennen. Sie heißen die
+Man kann sie kleine Inselchen nennen. Sie heißen die
 <@pagebreak/>
 Padschwara-Klippen, was so viel bedeutet wie die »Unzugänglichen«.
 Er sind im ganzen drei Inselchen. Sie schließen ein fast rundes
@@ -725,14 +725,14 @@ hier auf Ihrem Grund und Boden war?!«
 »Wie meinen Sie das, Harst?« Der Inspektor wurde
 aufmerksam.
 
-»Ich meine, das Ralling in Ihrem Garten sehr gut Bescheid
+»Ich meine, daß Ralling in Ihrem Garten sehr gut Bescheid
 gewußt haben muß. Ueber die Mauer ist er jedenfalls
 nicht geflüchtet und vielleicht auch gar nicht auf diesem Wege
 gekommen. Es ist jetzt ja dunkel, und wir können den Garten
 nicht nochmals absuchen. Aber morgen werden wir es tun.
 — Wem gehörte dieses Haus, bevor Sie es kauften?«
 
-»Einen Landsmann von mir, einem Arzte namens Webster.
+»Einem Landsmann von mir, einem Arzte namens Webster.
 <@pagebreak/>
 Er war ein Sonderling. Seine Tochter starb ihm hier
 — er war Witwer, und da zog er vor sechs Jahren nach
@@ -806,7 +806,7 @@ Landzunge erhebt.
 
 Tomar hockte am Straßenrande, kam uns nun schnell entgegen.
 
-»Sahib, ich habe mein Boot dort Süden festgemacht! Wir
+»Sahib, ich habe mein Boot dort drüben festgemacht! Wir
 können sofort absegeln. Der Wind ist günstig,« begrüßte er
 uns freudig.
 
@@ -876,10 +876,10 @@ sich überhaupt zeigt — ist zwecklos.«
 
 Die Kletterpartie vergesse ich mein Lebtag nicht. Wir
 mußten in einer Art Felskamin aufwärts. Wenn man hier
-abrutschte, war man seine gesunde Knochen für immer los.
+abrutschte, war man seine gesunden Knochen für immer los.
 Da drang plötzlich von oben her, wo wir den Nachthimmel
 etwa fünf Meter über uns in breitem Strich schimmern sahen,
-ein gellendes Lachen, dann ein noch lauteten Schrei zu uns
+ein gellendes Lachen, dann ein noch lauteter Schrei zu uns
 herab.
 
 Tomar, der schon dicht am oberen Ende des Felskamins
@@ -1029,7 +1029,7 @@ Brust gekreuzten Arme.
 Nur — von dem Manne sah ich keine Spur mehr.
 
 Das Ganze wirkte wie ein Spuk; wie ein Traumbild, das
-uns im Schafe die Nerven vibrieren, macht.
+uns im Schlafe die Nerven vibrieren macht.
 
 <h2>4. Kapitel.</h2>
 <h3>Wie Stuart Tompkinson sich vorstellte.</h3>
@@ -1045,7 +1045,7 @@ allein zu sein, die Erkenntnis, ohne Harald hier nichts ausrichten
 zu können. Es war eben die Einsicht, daß ich nur an
 Harsts Seite so leidlich Herr meiner Nerven war.
 
-Wenn ihm etwas angestoßen war?! Wenn hier vielleicht
+Wenn ihm etwas zugestoßen war?! Wenn hier vielleicht
 <@pagebreak/>
 Leute in der Verborgenheit hausten, die ihn jetzt in ihrer Gewalt
 hatten?!
@@ -1141,7 +1141,7 @@ raunte er gegen den Erdboden. Aber ich verstand doch jedes
 Wort. »Mein Name ist Tompkinson, Reporter Stuart Tompkinson
 vom Bombay Rekorder. Sie können nur Mr. Schraut
 sein. Harst wiegt nichts so viel wie Sie. Bitte befreien Sie
-meinen, Kadaver von Ihren zwei Zentnern, Mr. Schraut, oder
+meinen Kadaver von Ihren zwei Zentnern, Mr. Schraut, oder
 aber Sie werden mir ein paar Rippen ausflicken lassen müssen.
 Ich will nur gestehen: ich war es, der sich hinten an Ihr
 Auto gehängt hatte. Vielleicht haben Sie schon von mir gehört.
@@ -1154,10 +1154,10 @@ gehalten hatte. Stuart Tompkinson war tatsächlich berühmt,
 die indischen Zeitungen brachten häufig allerlei
 Abenteuer von ihm.
 
-Ich, beeilte mich, meine 185 Pfund von seinem »Kadaver«
+Ich beeilte mich, meine 185 Pfund von seinem »Kadaver«
 <@pagebreak/>
 herabzuwälzen. Er richtete sich auf, rieb sich mit der Linken
-die Rippen und steckte mir die Rechte hin.
+die Rippen und streckte mir die Rechte hin.
 
 »Freue mich, Sie auf so angenehme Art kennen zu lernen,
 Mr. Schraut.«
@@ -1252,7 +1252,7 @@ Er stand auf und reckte sich.
 
 »Suchen wir,« meinte er.
 
-Dir gingen bis an den Sockel des Götzen. Dieser Sockel
+Wir gingen bis an den Sockel des Götzen. Dieser Sockel
 war ein mächtiges, glatt behauenes Felsstück. Allerlei Inschriften
 zierten den viereckigen Stein.
 
@@ -1318,7 +1318,7 @@ heftiger innerer Erregung oder eines besonders scharfen
 Nachdenkens.
 
 Dann begann er an der Vorderseite des Götzen herabzuklettern.
-Als er vor und stand, reichte er Tompkinson die
+Als er vor uns stand, reichte er Tompkinson die
 Hand.
 
 »Nicht wahr, Sie machten gestern abend unsere Autofahrt
@@ -1392,7 +1392,7 @@ Sie soll sehr schön gewesen sein.«
 »Webster?« fragte Harst schnell. Dann sprang er auf.
 »Ah — das wäre ja die Brücke nach drüben, nach Bombay! —
 Mr. Tompkinson, der Vater dieser Edith war wohl Arzt und
-besaß einst das alte Häusern, in dem Greaper jetzt wohnt.«
+besaß einst das alte Häuschen, in dem Greaper jetzt wohnt.«
 
 »Richtig, nun fällt es mir ein. Greaper hat ja damals
 das Haus gekauft, als Webster nach London zog.«
@@ -1494,7 +1494,7 @@ Zweig eingeklemmt. Er kannte also dieses Deckel-Geheimnis
 von Greapers Statue. Und er wird es fraglos von Edith Webster
 erfahren haben, diesem armen, jetzt wahnsinnigen, völlig
 ergrauten und verblühten Weibe, das er all die Jahre hier auf
-der Klippe in der Gewölben des Tempels gefangen gehalten
+der Klippe in den Gewölben des Tempels gefangen gehalten
 hat. — So, nun wollen wir sie herausholen, die Aermste, die
 den Schurken in ihrer geistigen Umnachtung noch immer liebt
 und die mir freiwillig nicht folgen wollte. Sie ist harmlos.

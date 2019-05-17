@@ -351,7 +351,7 @@ hängen geblieben sein.«
 
 Es wurde eine Leiter geholt. Der Pfeil hing tatsächlich
 in den Ranken. Es war ein Rohrpfeil von ein Meter Länge
-ist eiserner, dünner Spitze.
+mit eiserner, dünner Spitze.
 
 Harst wickelte sein Taschentuch um die Spitze.
 
@@ -404,7 +404,9 @@ Er hielt Harald eine Visitenkarte hin.
 Harst las halblaut vor:
 
 > Evelyn Trimsay,
+
 > Bombay
+
 > Edward Street 98.
 
 Das, was auf der Rückseite der Karte mit Bleistift stand,
@@ -492,7 +494,7 @@ setzten uns nun.
 
 »Mistreß Trimsay,« sagte Harald höflich, »wollen Sie uns
 <@pagebreak/>
-ganz, kurz berichten, weshalb Sie nach Bangalore gekommen
+ganz kurz berichten, weshalb Sie nach Bangalore gekommen
 sind.«
 
 Seine rechte Hand blieb in der Jackentasche. Er mißtraute
@@ -580,7 +582,7 @@ fuhr hierher.«
 »Haben Sie irgend etwas bei sich, das Sie als Mistreß
 Trimsay ausweist?«
 
-Die Frau starrte Harald an. »Wie. — wie, glauben Sie
+Die Frau starrte Harald an. »Wie — wie, glauben Sie
 mir etwa nicht, daß ich —«
 
 »Mistreß, es haben sich hier kurz vor Ihrem Besuch sehr
@@ -631,7 +633,7 @@ wiederholt im Gefängnis besucht und gerade da den Eindruck
 gewonnen, der Mann müsse ein reines Gewissen haben. Die
 Hinrichtung ist nun auf übermorgen früh festgesetzt. Nach hiesigem
 Recht kann aber jeder Delinquent noch eine Frist von
-acht Stunden gewährt werden, falls er nachweist, daß noch
+acht Stunden gewährt werden, falls er nachweist, daß er noch
 wichtige Familienangelegenheiten zu ordnen hat. Ich würde
 meinen Einfluß gern geltend machen, diese acht Stunden Aufschub
 zu erwirken. Sie hätten dann, da Frau Trimsay durchaus
@@ -878,7 +880,7 @@ Evelyn Trimsay, als der Armenier ermordet wurde?«
 Frau Molly griff nach meiner Hand, hauchte: »Das —
 das ist ja furchtbar!« — Sie war bleich geworden und zitterte.
 
-»Antworten. Sie!« flüsterte Harst noch eindringlicher.
+»Antworten Sie!« flüsterte Harst noch eindringlicher.
 »Wo waren Sie an jenem Abend?«
 
 »Dort — war — ich,« kam die monotone, abgehackte
@@ -903,10 +905,10 @@ Die Lippen Frau Trimsays bewegten sich wohl. Aber
 sie formten die Worte nicht mehr.
 
 Ich schaute zum Fenster hinaus. Eine schwarze Wolke
-sich vor den Mond zu schieben begonnen. Das Mondlicht
+hatte sich vor den Mond zu schieben begonnen. Das Mondlicht
 wurde schwächer und schwächer.
 
-Harald richtete sich auf, warte sich uns zu.
+Harald richtete sich auf, wandte sich uns zu.
 
 »Schade!« sagte er in seinem gewöhnlichen Tone. »Noch
 zwei Minuten, und ich hätte alles gewußt.«
@@ -937,11 +939,11 @@ damals im Garten der Besitzung gewesen — damals abends?!
 War sie es nicht, die so bequem den Dolch ihrem Gatten hatte
 wegnehmen können? —
 
-Harald hatte nach Frau Trimsay hin geschaut.
+Harald hatte nach Frau Trimsay hingeschaut.
 
 »Sie wird erst nach einer halben Stunde erwachen. Der
 somnambule Tiefschlaf pflegt in gewöhnlichen Schlaf überzugehen.«
-Er machte eine Kleine Pause, rauchte ein paar Züge.
+Er machte eine kleine Pause, rauchte ein paar Züge.
 »Nehmen wir an, sie habe sich für ihren Mann opfern wollen,«
 fuhr er fort. »Sie mag gewußt haben, daß Tschirukoff
 Schuldurkunden ihres Mannes stets bei sich führte. Sie lockte
@@ -967,7 +969,7 @@ ist, wenn ihr Mann dieses auch weiß, — warum ruft
 sie dann gerade mich zur Hilfe, von dem sie doch erwartet, daß
 er die Wahrheit ans Licht bringt? Es gibt da also so schwere
 <@pagebreak/>
-Widersprüche, daß ich vorläufig zugeben muß meine Theorie
+Widersprüche, daß ich vorläufig zugeben muß: meine Theorie
 ist sehr fadenscheinig. Es ist eine Kette, in der noch so und so
 viele Glieder fehlen. Und diese fehlenden Glieder ergänzen
 wir uns eben auf falsche Art. So kommen die Widersprüche
@@ -1002,7 +1004,7 @@ hätte er noch eine Weile geplaudert.
 
 Um fünf Uhr morgens waren wir auf dem Bahnhof. Die
 Maschine mit dem Salonwagen stand auf einem Nebengeleise
-bereit. Frau Molly hatte uns noch bis an unserer Extrazug
+bereit. Frau Molly hatte uns noch bis an unseren Extrazug
 gebracht. Zwei ihrer Diener stellten einen Riesenkorb mit
 Vorräten in den Wagen. Dann gab es einen kurzen, herzlichen
 Abschied, und wir dampften davon.
@@ -1095,7 +1097,7 @@ ein nettes Trinkgeld — den Heizer natürlich auch — bewogen,
 bis zur ersten Gefahrstelle mit ganz unvorschriftsmäßiger
 Schnelligkeit zu fahren und vor dieser Stelle zu halten. Wir
 dürften jetzt mit 140 Kilometer Geschwindigkeit dahinrasen.
-Bis zu Stelle sind es noch drei Stunden. Du kannst also
+Bis zu der Stelle sind es noch drei Stunden. Du kannst also
 getrost noch schlafen. Ich bleibe hier auf der Maschine. Sicher
 ist sicher. Ich traue mir bessere Augen als den beiden Indern
 zu.« —
@@ -1450,7 +1452,7 @@ Hilfe. Sie muß fliehen. Der Dolch entfällt ihr. Da begegnet
 sie — wahrscheinlich oben auf der Treppe zum Pavillon
 — einem anderen Manne, läuft an ihm vorüber, entkommt.
 Dieser Andere aber greift den Dolch auf und stößt ihn dem
-Wucherer, ins Herz, raubt die Brieftasche und entkommt gleichfalls —«
+Wucherer ins Herz, raubt die Brieftasche und entkommt gleichfalls —«
 
 Harald nahm eine frische Zigarette.
 
@@ -1474,7 +1476,7 @@ wegen Mordes als die andere ertragen, daß sein Weib ihm
 untreu geworden —«
 
 »Also deswegen!« rief Greaper jetzt. »Deswegen! Kein
-Mensch, der die Trimsays früher kannte, hat begriffen, das
+Mensch, der die Trimsays früher kannte, hat begriffen, daß
 Robert Trimsay seine Frau so selten während seiner Untersuchungshaft
 sehen wollte. Ich selbst habe einmal miterlebt,
 wie sie sich im Zimmer des Untersuchungsrichters gegenüberstanden.
@@ -1566,7 +1568,7 @@ durch die Freundschaft mit Ralling sehr geehrt fühlt.« —
 
 Als der Morgen graute, erschien Frau Evelyn. Der lange
 Schlaf hatte sie erfrischt. Man erkannte jetzt, daß sie vor
-dem tragischer Vorfall im Pavillon sehr schön und reizvoll
+dem tragischen Vorfall im Pavillon sehr schön und reizvoll
 gewesen sein mußte. — Harald hielt ihr nun alles das vor,
 was wir jetzt über die Geschehnisse der Mordnacht wußten.
 Und — jetzt gestand sie unter Strömen von Tränen ein, daß
