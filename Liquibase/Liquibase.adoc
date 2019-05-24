@@ -52,6 +52,7 @@ Es sollen viele Datenbanken (über 100) zu unterschiedlichen Zeitpunkten auf den
 * Unklar, welches Script auf welcher DB schon gelaufen ist
 * DB-Änderungen können nicht automatisiert eingespielt werden
 * Bei Fehlern ist ein Teil des Scripts schon ausgeführt, ein Teil noch nicht
+* Migrations-Script wird oft nicht vollständig getestet
 * Hoher Aufwand / hohes Fehlerpotential
 
 == Anforderungen: ==
@@ -78,27 +79,27 @@ Es sollen viele Datenbanken (über 100) zu unterschiedlichen Zeitpunkten auf den
 
 --------------------------------------
 <changeSet author="radloffc001" id="20150703-01" context="kiwi">
-	<createTable tableName="BerechtigungAnwendungsfall">
-		<comment>RfC SEP32-KG-09380:  Überarbeitung des Berechtigungskonzepts</comment>
-		<column name="BerechtigungAnwendungsfall_ID" type="number(19, 0)">
-			<constraints primaryKey="true" nullable="false" />
-		</column>
-		<column name="anwendungsfall" type="varchar2(200)">
-			<constraints nullable="false" />
-		</column>
-		<column name="kontext" type="varchar2(50)"/>
-		<column name="sonderrecht" type="varchar2(1)"/>
-	</createTable>
+    <comment>RfC SEP32-KG-09380:  Überarbeitung des Berechtigungskonzepts</comment>
+    <createTable tableName="BerechtigungAnwendungsfall">
+        <column name="BerechtigungAnwendungsfall_ID" type="number(19, 0)">
+            <constraints primaryKey="true" nullable="false" />
+        </column>
+        <column name="anwendungsfall" type="varchar2(200)">
+            <constraints nullable="false" />
+        </column>
+        <column name="kontext" type="varchar2(50)"/>
+        <column name="sonderrecht" type="varchar2(1)"/>
+    </createTable>
 </changeSet>
 <changeSet author="radloffc001" id="20150703-02" context="kiwi">
-	<createTable tableName="BerechtigungAfBasisrecht">
-		<column name="BerechtigungAnwendungsfall_ID" type="number(19, 0)">
-			<constraints nullable="false" />
-		</column>
-		<column name="basisrecht" type="number(2, 0)">
-			<constraints nullable="false" />
-		</column>
-	</createTable>
+    <createTable tableName="BerechtigungAfBasisrecht">
+        <column name="BerechtigungAnwendungsfall_ID" type="number(19, 0)">
+            <constraints nullable="false" />
+        </column>
+        <column name="basisrecht" type="number(2, 0)">
+            <constraints nullable="false" />
+        </column>
+    </createTable>
 </changeSet>
 --------------------------------------
 
@@ -116,10 +117,10 @@ Es sollen viele Datenbanken (über 100) zu unterschiedlichen Zeitpunkten auf den
 .XML:
 -------------------------
 <changeSet author="radloffc001" id="20150703-01" context="kiwi">
-	<comment>RfC SEP32-KG-09380: Überarbeitung des Berechtigungskonzepts</comment>
-	<dropTable tableName="BerechtigungAfBasisrecht" cascadeConstraints="true"/>
-	<dropTable tableName="BerechtigungAnwendungsfall" cascadeConstraints="true"/>
-</changeSet>	
+    <comment>RfC SEP32-KG-09380: Überarbeitung des Berechtigungskonzepts</comment>
+    <dropTable tableName="BerechtigungAfBasisrecht" cascadeConstraints="true"/>
+    <dropTable tableName="BerechtigungAnwendungsfall" cascadeConstraints="true"/>
+</changeSet>    
 -------------------------
 
 .YAML:
@@ -130,11 +131,11 @@ Es sollen viele Datenbanken (über 100) zu unterschiedlichen Zeitpunkten auf den
     context: kiwi
     changes:
       - dropTable
-	    tableName: BerechtigungAfBasisrecht
-	    cascadeConstraints: true
+        tableName: BerechtigungAfBasisrecht
+        cascadeConstraints: true
       - dropTable
-	    tableName: BerechtigungAnwendungsfall
-	    cascadeConstraints: true
+        tableName: BerechtigungAnwendungsfall
+        cascadeConstraints: true
 -------------------------
 
 == Unterstützte Formate (2) ==
@@ -183,13 +184,13 @@ Beispiel:
 
 -------------------------
 java -jar liquibase.jar
- 		--changeLogFile=changelog.xml
-		--username=user
-		--password=secret
-		--url= jdbc:oracle:thin:@localhost:12345:dbid
-		--driver=oracle.jdbc.driver.OracleDriver
-		--classpath=Path/to/classes
- 		update 
+    --changeLogFile=changelog.xml
+    --username=user
+    --password=secret
+    --url= jdbc:oracle:thin:@localhost:12345:dbid
+    --driver=oracle.jdbc.driver.OracleDriver
+    --classpath=Path/to/classes
+    update 
 -------------------------
 
 == Ausführen mit Ant ==
@@ -197,10 +198,10 @@ Einbinden des Liquibase-Task
 
 -------------------------
 <project name="Example" xmlns:liquibase="antlib:liquibase.integration.ant">
-	<taskdef resource="liquibase/integration/ant/antlib.xml"
-			uri="antlib:liquibase.integration.ant">
-		<classpath path="path/to/liquibase/libs"/>
-	</taskdef>
+    <taskdef resource="liquibase/integration/ant/antlib.xml"
+            uri="antlib:liquibase.integration.ant">
+        <classpath path="path/to/liquibase/libs"/>
+    </taskdef>
 </project>
 -------------------------
 
@@ -208,8 +209,8 @@ Ausführen von Änderungen
 
 -------------------------
 <liquibase:updateDatabase changeLogFile="/path/to/changeLog.xml">
-	<liquibase:database driver="${db.driver}" url="${db.url}"
-		user="${db.user}" password="${db.pasword}"/>
+    <liquibase:database driver="${db.driver}" url="${db.url}"
+        user="${db.user}" password="${db.pasword}"/>
 </liquibase:updateDatabase>
 -------------------------
 
@@ -219,46 +220,25 @@ Ausführen von Änderungen
   <project>
     <build>
       <plugins>
-	<plugin>
-	   <groupId>org.liquibase</groupId>
-	   <artifactId>liquibase-maven-plugin</artifactId>
-	   <version>3.0.5</version>
-	   <configuration>                  
-		  <propertyFile>src/main/resources/liquibase/liquibase.properties</propertyFile>
-	   </configuration>                
-	   <executions>
-		 <execution>
-		   <phase>process-resources</phase>                                                                  
-		   <goals>
-			 <goal>update</goal>
-		   </goals>
-		 </execution>
-	   </executions>
-	</plugin> 	
+    <plugin>
+       <groupId>org.liquibase</groupId>
+       <artifactId>liquibase-maven-plugin</artifactId>
+       <version>3.0.5</version>
+       <configuration>                  
+          <propertyFile>src/main/resources/liquibase/liquibase.properties</propertyFile>
+       </configuration>                
+       <executions>
+         <execution>
+           <phase>process-resources</phase>                                                                  
+           <goals>
+             <goal>update</goal>
+           </goals>
+         </execution>
+       </executions>
+    </plugin>     
       </plugins>
     </build>
   </project>
--------------------------
-
-== Best Practices ==
-
-* pro Release ein Changelog
-* ggf. eigene Changelogs für größere zusammengehörige Änderungen
-* Einmal eingecheckte Changesets nicht mehr ändern!!!
-* pro Changeset nur eine DDL-Anweisung!
-* als Autor wird die Benutzerkennung des Entwicklers eingetragen
-* als ID wird das aktuelle Datum + laufende Nummer verwendet
-* Jira-Item o.ä. als Kommentar angeben
-
-.Beispiel
--------------------------
-<changeSet author="radloffc001" id="20150703-01" context="kiwi">
-	<comment>RfC SEP32-KG-09380:  Überarbeitung des Berechtigungskonzepts</comment>
-	<dropTable tableName="BerechtigungAfBasisrecht" cascadeConstraints="true"/>
-</changeSet>	
-<changeSet author="radloffc001" id="20150703-02" context="kiwi">
-	<dropTable tableName="BerechtigungAnwendungsfall" cascadeConstraints="true"/>
-</changeSet>	
 -------------------------
 
 == Features ==
@@ -273,6 +253,7 @@ Ausführen von Änderungen
 * Änderungen abhängig vom Kontext (z.B. Produktion / Test)
 * Generieren von SQL-Scripten
 * http://www.liquibase.org/dbdoc/index.html[Dokumentation generieren]
+* Open Source (LGPL), komerzielle Version (https://www.datical.com/liquibase/[Datical]) erhältlich
 
 == Bedingtes Ausführen mit Preconditions (1) ==
 
@@ -281,17 +262,17 @@ Beispiel: einen Index nur dann anlegen, wenn er nicht schon existiert
 
 -------------------------
 <changeSet id="20170131-01" author="anonymous" context="kiwi">
-	<preConditions onFail="MARK_RAN" onFailMessage="Index bereits vorhanden">
-		<not><indexExists indexName="SUCHE_KGHE_IDENTABGLEICH" /></not>
-	</preConditions>
-	<comment>Indizes für den Job IdentAbgleichVerarb</comment>
-	<createIndex indexName="SUCHE_KGHE_IDENTABGLEICH" tableName="KindergeldhistorieEreignis">
-		<column name="ereignisart" />
-		<column name="statusIdentAbgleich" />
-		<column name="schattenlauf" />
-		<column name="kindBestand" />
-		<column name="kunde" />
-	</createIndex>
+    <preConditions onFail="MARK_RAN" onFailMessage="Index bereits vorhanden">
+        <not><indexExists indexName="SUCHE_KGHE_IDENTABGLEICH" /></not>
+    </preConditions>
+    <comment>Indizes für den Job IdentAbgleichVerarb</comment>
+    <createIndex indexName="SUCHE_KGHE_IDENTABGLEICH" tableName="KindergeldhistorieEreignis">
+        <column name="ereignisart" />
+        <column name="statusIdentAbgleich" />
+        <column name="schattenlauf" />
+        <column name="kindBestand" />
+        <column name="kunde" />
+    </createIndex>
 </changeSet>
 -------------------------
 
@@ -303,16 +284,16 @@ Beispiel: einen Constraint nur dann anlegen, wenn er nicht schon existiert
 
 -------------------------
 <changeSet id="20160816" author="anonymous" context="kiwi">
-	<preConditions onFail="MARK_RAN" onFailMessage="Constraint bereits vorhanden">
-		<sqlCheck expectedResult="0">select count(*) from user_cons_columns cc join user_constraints c on cc.constraint_name = c.constraint_name
+    <preConditions onFail="MARK_RAN" onFailMessage="Constraint bereits vorhanden">
+        <sqlCheck expectedResult="0">select count(*) from user_cons_columns cc join user_constraints c on cc.constraint_name = c.constraint_name
 where c.table_name='BATCH_JOB_KENNZAHL' and cc.column_name='BATCH_JOB_LOG_ID' and constraint_type='R'</sqlCheck>
-	</preConditions>
-	<comment>Constraint erstellen, falls noch nicht vorhanden</comment>
-	<addForeignKeyConstraint baseColumnNames="BATCH_JOB_LOG_ID"
-		baseTableName="batch_job_kennzahl"
-		constraintName="FK_BatchJobKennz_BatchJobLg"
-		referencedTableName="batch_job_log"
-		referencedColumnNames="id" />
+    </preConditions>
+    <comment>Constraint erstellen, falls noch nicht vorhanden</comment>
+    <addForeignKeyConstraint baseColumnNames="BATCH_JOB_LOG_ID"
+        baseTableName="batch_job_kennzahl"
+        constraintName="FK_BatchJobKennz_BatchJobLg"
+        referencedTableName="batch_job_log"
+        referencedColumnNames="id" />
 </changeSet>
 -------------------------
 
@@ -323,20 +304,20 @@ Für jedes Release sollte ein eigenes Changelog angelegt werden. Mehrere Changel
 -------------------------
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <databaseChangeLog 
-	xmlns="http://www.liquibase.org/xml/ns/dbchangelog" 
-	xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog dbchangelog-3.4.xsd 
-		http://www.liquibase.org/xml/ns/dbchangelog-ext dbchangelog-ext.xsd"
-	logicalFilePath="dbchangelog.xml">
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog" 
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog dbchangelog-3.4.xsd 
+        http://www.liquibase.org/xml/ns/dbchangelog-ext dbchangelog-ext.xsd"
+    logicalFilePath="dbchangelog.xml">
 
-	<include file="16.01.00.00/changeLog-P61.xml" relativeToChangelogFile="true"/>
-	<include file="16.02.00.00/changeLog-P62.xml" relativeToChangelogFile="true"/>
-	<include file="16.03.00.00/changeLog-P63.xml" relativeToChangelogFile="true"/>
-	
-	<!-- wiederholbare Änderungen -->
-	<include file="latest/data/changeLog-Daten.xml" relativeToChangelogFile="true"/>
-	<include file="latest/changeLog-Views.xml" relativeToChangelogFile="true"/>
+    <include file="16.01.00.00/changeLog-P61.xml" relativeToChangelogFile="true"/>
+    <include file="16.02.00.00/changeLog-P62.xml" relativeToChangelogFile="true"/>
+    <include file="16.03.00.00/changeLog-P63.xml" relativeToChangelogFile="true"/>
+    
+    <!-- wiederholbare Änderungen -->
+    <include file="latest/data/changeLog-Daten.xml" relativeToChangelogFile="true"/>
+    <include file="latest/changeLog-Views.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>
 -------------------------
 
@@ -349,10 +330,10 @@ Um Daten einzufügen, kann man mit Insert/Update/Delete arbeiten. Alternativ kö
 .Changeset
 -------------------------
 <changeSet author="radloffc001" id="20151218-01" runOnChange="true" context="kiwi">
-	<delete tableName="Aufzaehlung" />
-	<loadData tableName="Aufzaehlung" 
-		file="aufzaehlung.csv" relativeToChangelogFile="true" 
-		encoding="UTF-8" separator=";" quotchar="#"/>
+    <delete tableName="Aufzaehlung" />
+    <loadData tableName="Aufzaehlung" 
+        file="aufzaehlung.csv" relativeToChangelogFile="true" 
+        encoding="UTF-8" separator=";" quotchar="#"/>
 </changeSet>
 -------------------------
 
@@ -367,4 +348,277 @@ Aufzaehlung_ID;version;aufzaehlungstyp;schluessel;reihenfolge;kurztext;aktiv;tec
 -------------------------
 
 In der ersten Zeile sind die Spaltennamen enthalten, die restlichen Zeilen sind Daten.
+
+== Erstellen von Changelogs aus bestehenden Datenbanken (1) ==
+
+Zum Einstieg in Liquibase kann aus einer vorhandenen Datenbank ein Change-Log
+http://www.liquibase.org/documentation/generating_changelogs.html[generiert]
+werden, das als Grundlage für weitere Änderungen dient.
+
+----
+liquibase [options] generateChangeLog
+----
+
+----
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog/1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog/1.1
+    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.1.xsd">
+    <changeSet author="diff-generated" id="1185214997195-1">
+        <createTable name="DEPT">
+            <column name="DEPTNO" type="NUMBER(2,0)"/>
+            <column name="DNAME" type="VARCHAR2(14,0)"/>
+            <column name="LOC" type="VARCHAR2(13,0)"/>
+        </createTable>
+    </changeSet>
+    ...
+</databaseChangeLog>
+----
+
+== Erstellen von Changelogs aus bestehenden Datenbanken (2) ==
+
+Das generierte Change-Log sollte ggf. überarbeitet werden, z.B. sollten
+Schema-Namen entfernt werden, Initial-Werte für Sequences angepasst werden, etc.
+
+Es werden keine Stored Procedures, Trigger, Funktionen oder Packages exportiert.
+
+Um zu verhindern, dass das Change-Log auf einer existierenden Datenbank
+ausgeführt wird, sollte es mit einer Pre-Condition abgesichert werden. Das
+initiale Change-Log wird *nicht* bei Software-Übergaben ausgeliefert. Für alle
+folgenden Änderungen wird dann ein eigenes Change-Log erstellt und übergeben.
+
+Alternativ ist es möglich, die generierten Change-Sets mit Pre-Conditions
+auszustatten und mit onFail="MARK_RAN" zu markieren. Sie werden dann in der
+Produktion aus ausgeführt markiert. Allerdings ist dieses Vorgehen relativ
+aufwändig und daher nur für kleine Datenbanken geeignet.
+
+Eine dritte Möglichkeit ist es, die Change-Sets mit einem besonderen Kontext
+(z.B. 'initial') zu markieren und für alle neuen Änderungen einen anderen
+Kontext (z.B. 'current'). Es muss dann aber darauf geachtet werden, dass bei
+jedem Update der richtige Kontext angegeben wird. Ohne Kontext werden alle
+Change-Sets ausgeführt!
+
+== Vergleichen von Datenbanken (1) ==
+
+Um festzustellen, ob es Unterschiede zwischen zwei Datenbanken gibt, bietet
+Liquibase http://www.liquibase.org/documentation/diff.html[Datenbank-Diffs].
+Beim Aufruf werden die beiden Datenbanken angegeben:
+
+----
+liquibase.sh --driver=oracle.jdbc.OracleDriver \
+        --url=jdbc:oracle:thin:@testdb:1521:test \
+        --username=bob \
+        --password=bob \
+    diff \
+        --referenceUrl=jdbc:oracle:thin:@localhost/XE \
+        --referenceUsername=bob \
+        --referencePassword=bob
+----
+
+== Vergleichen von Datenbanken (2) ==
+
+Liquibase erzeugt einen Report, der die Abweichungen zwischen den Datenbanken
+auflistet:
+
+----
+Base Database: BOB jdbc:oracle:thin:@testdb:1521:latest
+Target Database: BOB jdbc:oracle:thin:@localhost/XE
+Product Name: EQUAL
+Product Version:
+     Base:   'Oracle Database 10g Enterprise Edition Release 10.2.0.1.0
+With the Partitioning, OLAP and Data Mining options'
+     Target: 'Oracle Database 10g Express Edition Release 10.2.0.1.0'
+Missing Tables: NONE
+Unexpected Tables: NONE
+Missing Views: NONE
+Unexpected Views: NONE
+Missing Columns:
+     CREDIT.MONTH
+     CREDIT.COMPANY
+     CMS_TEMPLATE.CLASSTYPE
+     CONTENTITEM.SORTORDER
+Unexpected Columns:
+     CATEGORY.SORTORDER
+...
+----
+
+Alternativ gibt es den Befehl 'diffChangeLog', der die Änderungen als
+Change-Log ausgibt. Dieser kann dazu verwendet werden, die abweichende
+Datenbank(en) auf den aktuellen Stand zu bringen.
+
+== Änderungen rückgängig machen (1) ==
+
+Liquibase unterstützt das
+http://www.liquibase.org/documentation/rollback.html[rückgängig machen von
+Änderungen]. Dazu können bei vielen Änderungen automatisch Rollback-Statements
+erzeugt werden. Bei Refactorings wie z.B. 'drop table' kann der Entwickler ein
+eigenes Rollback-Statement angeben:
+
+----
+<changeSet id="changeRollback" author="nvoxland">
+    <dropTable tableName="RollbackTest"/>
+    <rollback>
+        <createTable tableName="RollbackTest">
+            <column name="id" type="int"/>
+        </createTable>
+    </rollback>
+</changeSet>
+----
+
+== Änderungen rückgängig machen (2) ==
+
+Alternativ kann auf ein Change-Set verwiesen werden, mit dem die Änderung
+zurückgesetzt werden kann:
+
+----
+<changeSet id="changeRollback2-drop" author="nvoxland">
+    <dropTable tableName="changeRollback2"/>
+    <rollback changeSetId="changeRollback2-create" changeSetAuthor="nvoxland"/>
+</changeSet>
+----
+
+In einem Change-Set können auch mehrere Rollback-Tags angegeben werden.
+
+Beim Rollback kann entweder ein Tag angegeben werden, dann werden alle
+Änderungen, die nach dem Tag erstellt wurden, rückgängig gemacht. Die zweite
+Möglichkeit ist, die Anzahl der Change-Sets anzugeben, die zurückgerollt werden
+sollen. Und drittens kann ein Datum angegeben werden, zu dem zurückgesetzt
+werden soll.
+
+== Änderungen abhängig vom Kontext (z.B. Produktion / Test) ==
+
+Mit einem http://www.liquibase.org/documentation/contexts.html[Kontext] ist es
+möglich, Change-Sets nur in bestimmten Umgebungen auszuführen. Beim Aufruf von
+Liquibase wird der Kontext angegeben, der ausgeführt werden soll. Es ist auch
+möglich, mehrere Kontexte mit 'and' und 'or' zu verknüpfen, dann werden
+diejenigen Change-Sets ausgeführt, die alle oder einen der angegebenen Kontexte
+besitzen. Auch die Negation mit '!' ist möglich.
+
+Mit Kontexten ist es z.B. möglich, in einer Test-Umgebung automatisch
+Test-Daten einzuspielen, oder unterschiedliche Daten in Produktion/Test zu
+importieren. Allerdings ist bei der Verwendung Vorsicht angesagt, da alle
+Change-Sets ausgeführt werden, wenn beim Aufruf kein Kontext angegeben wird.
+
+== Generieren von SQL-Scripten ==
+
+Wenn Liquibase in der Produktion nicht unterstützt wird, oder Datenbank-Änderungen gereviewed werden sollen, ist es möglich, ein SQL-Script zu generieren:
+
+----
+liquibase [options] updateSQL
+----
+
+Die SQL-Statements werden auf der Console ausgegeben und können in eine
+Datei umgeleitet werden.
+
+== Dokumentation generieren ==
+
+Mit dem Kommando 'dbDoc <outputDirectory>' kann eine
+http://www.liquibase.org/dbdoc/index.html[Datenbank Änderungshistorie]
+generiert werden. Die Ausgabe ähnelt der von 'JavaDoc' und enthält für
+jede Tabelle die Änderungen die bereits ausgeführt wurde, bzw. noch
+ausstehen.
+
+== Zurücksetzen einer Datenbank ==
+
+Für Entwickler-Datenbanken ist es oft hilfreich, wenn eine Datenbank komplett
+neu aufgebaut werden kann. Um das zu erreichen, erstellt man ein Change-Log,
+das zunächst alle Datenbank-Objekte löscht und anschließend das Initial-
+und Migrations-Script aufruft:
+
+----
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog 
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog" 
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog dbchangelog-3.4.xsd 
+        http://www.liquibase.org/xml/ns/dbchangelog-ext dbchangelog-ext.xsd"
+    logicalFilePath="dbReset.xml">
+
+    <changeSet id="1" author="me">
+        <comment>Alle Datenbank-Objekte löschen</comment>
+        <sql endDelimiter="/">
+        DECLARE
+        BEGIN
+          FOR r1 IN ( SELECT 'DROP ' || object_type || ' ' || object_name || DECODE ( object_type, 'TABLE', ' CASCADE CONSTRAINTS PURGE' ) AS v_sql
+                FROM user_objects
+                   WHERE object_type IN ( 'TABLE', 'VIEW', 'PACKAGE', 'TYPE', 'PROCEDURE', 'FUNCTION', 'TRIGGER', 'SEQUENCE' )
+                   ORDER BY object_type,
+                    object_name ) LOOP
+            EXECUTE IMMEDIATE r1.v_sql;
+          END LOOP;
+        END;
+        </sql>
+    </changeSet>
+
+    <include file="initDb.xml" relativeToChangelogFile="true"/>
+    <include file="migrateDb.xml" relativeToChangelogFile="true"/>
+</databaseChangeLog>
+----
+
+== Best Practices (1) ==
+
+* pro Release ein Changelog
+* ggf. eigene Changelogs für größere zusammengehörige Änderungen
+* Einmal eingecheckte Changesets nicht mehr ändern!!!
+* pro Changeset nur eine DDL-Anweisung!
+* DDL und DML nicht mischen
+* logischen Dateinamen definieren
+* als Autor wird die Benutzerkennung des Entwicklers eingetragen
+* als ID wird das aktuelle Datum + laufende Nummer verwendet
+* Jira-Item o.ä. als Kommentar angeben
+
+.Beispiel
+-------------------------
+<changeSet author="radloffc001" id="20150703-01" context="kiwi">
+    <comment>RfC SEP32-KG-09380: Überarbeitung des Berechtigungskonzepts</comment>
+    <dropTable tableName="BerechtigungAfBasisrecht" cascadeConstraints="true"/>
+</changeSet>    
+<changeSet author="radloffc001" id="20150703-02" context="kiwi">
+    <dropTable tableName="BerechtigungAnwendungsfall" cascadeConstraints="true"/>
+</changeSet>    
+-------------------------
+
+== Best Practices (2) ==
+
+Verzeichnisstruktur:
+
+----------
+initDb.xml
+migrateDb.xml
+install/
+    v1.0/
+    v1.1/
+    v2.0/
+latest/
+    views/
+    procedures/
+    data/
+----------
+
+initDb.xml
+
+* Enthält die initialen Change-Logs zum Erzeugen der Datenbank
+* wird nicht in Produktionsumgebungen ausgeführt
+
+migrateDb.xml
+
+* Enthält alle Change-Logs aus den Unterverzeichnissen
+
+== Best Practices (3) ==
+
+install/
+
+* Enthält Änderungen, die nur ein einziges Mal ausgeführt werden können
+* für jedes Release ein eigenes Verzeichnis
+* keine nachträglichen Änderungen erlaubt
+
+latest/
+
+* Enthält Änderungen, die immer wieder ausgeführt werden können:
+** Views und Stored Procedures anlegen
+** Import von Stammdaten etc.
+* hier darf geändert werden
 
