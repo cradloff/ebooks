@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">878cdc9e-7ff6-11e9-a12c-5f965f72f711</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Klub der XII</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">46</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Klub der XII
+
+Lord Douglas Erverlyn, Major in der indischen Kolonialarmee, gehörte zu den begeistertsten Verehrern Harald Harsts.  Er war bei einem Attentat auf Harst hinterrücks niedergeschossen und dann nach Bangalore in das Krankenhaus gebracht worden. Nach seiner Heilung teilte er uns seine Ankunft telegraphisch mit.
+
+Wir holten Erverlyn von der Bahn ab. Der Zug traf abends 10 Uhr ein.
+
+Der Lord sah noch recht leidend aus, war aber wie immer heiter und guter Dinge, stelle uns seinen Freund Thomas Long vor und sagte dabei gleich auf dem Bahnsteig:
+
+»Lieber Harst, ich bringe Arbeit. Haben Sie in den Bombayer Zeitungen etwas über die Schicksale der Expedition Professor Tamblays gelesen?«
+
+Die Insel im Kolar-See.
+
+»Harst wird nun ja überzeugt sein, daß die Schmetterlings-Geländeskizze falsch ist,« sagte er nun und hob den Topf vom Feuer. »Ich jedenfalls kraxele in diesen verwünschten Bergen nicht länger umher. Morgen reite ich heim — der Kultur entgegen, und wenn ich allein aufbrechen müßte. Ich habe die Thar-Wüste satt. Wir sehen bereits braunschwarz wie die Somalineger aus, und — meine Zigarren sind auch gleich aufgeraucht. Ohne Zigarren bin ich nur ein halber Mensch.«
+
+Es war jetzt 6 Uhr nachmittags. Die Sonne war bereits hinter den Felsenhügeln verschwunden. Aber das Gestein strömte die tagsüber aufgesogene Hitze wieder aus, und von einer Abkühlung der Luft war noch nichts zu merken.
+
+Harald war um 3 Uhr nachmittags wieder zu Fuß davongegangen, um festzustellen, ob er sich bei der Entzifferung der merkwürdigen Schmetterlingszeichnung nicht geirrt hätte. So trieb er es nun bereits drei Tage. Bis gestern hatten wir ihm Gesellschaft geleistet. Heute streikten wir. Es war eben zwecklos, noch nach der Kupfermine des Klubs der Zwölf zu suchen.  Erverlyn hatte ganz recht: die Skizze mußte einen Fehler enthalten.  Dort, wo sich auf dem linken Flügel des Falters das kleine Kreuz befand, gab es nichts als ein weites, sandiges Tal.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (046) Der Klub der XII.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
