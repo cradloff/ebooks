@@ -15,7 +15,7 @@ Wir holten Erverlyn von der Bahn ab. Der Zug traf
 abends 10 Uhr ein.
 
 Der Lord sah noch recht leidend aus, war aber wie immer
-heiter und guter Dinge, stelle uns seinen Freund Thomas
+heiter und guter Dinge, stellte uns seinen Freund Thomas
 Long vor und sagte dabei gleich auf dem Bahnsteig:
 
 »Lieber Harst, ich bringe Arbeit. Haben Sie in den Bombayer
@@ -28,7 +28,7 @@ Wir schritten dem Auto zu, das wir vorher bestellt hatten.
 Wir wohnten damals bei Detektivinspektor Greaper, der
 dem Leser nicht mehr fremd sein dürfte.
 
-Der Inspektor wer heute dienstlich verhindert gewesen,
+Der Inspektor war heute dienstlich verhindert gewesen,
 mit auf den Bahnhof zu kommen. Er hatte Harst jedoch aufgetragen,
 Lord Erverlyn zu bitten, gleichfalls sein Gast zu
 sein. Wir nahmen daher auch Erverlyns Freund Long mit zu
@@ -52,7 +52,7 @@ zu hören.«
 
 »Oh,« sagte Long, ein junger, reicher Kaufmann aus
 Dehli, »die Expedition Tamblay hängt mit dem, was ich erlebt
-habe, nur sehr lose zusammen«.
+habe, nur sehr lose zusammen.«
 
 »Das denken Sie, Long!« rief der Lord. »Ich wette, daß
 Harst anders darüber urteilt.«
@@ -77,7 +77,7 @@ so wundervollen Schmetterling herstellen könnte —«
 Hier wurde Long durch den Eintritt des Pförtners Dschama
 unterbrochen. Der Inder verbeugte sich tief und reichte
 Long einen zusammengefalteten Zettel, der mit gewöhnlichem
-Stearin an Stelle vor Siegellack dreimal versiegelt war.
+Stearin an Stelle von Siegellack dreimal versiegelt war.
 
 »Sahib, dieses Schreiben überbrachte soeben ein kleiner
 Junge,« erklärte der Diener. »Du möchtest es sofort lesen,
@@ -187,7 +187,7 @@ Briefe kurz nach meines Vaters Tode gefunden hatte, ließ
 ich sie und den Schmetterling in dem Geheimfach ruhig liegen.
 Ich hatte plötzlich als Chef der Firma so viel Arbeit bekommen,
 daß ich mich um andere Dinge nicht kümmern konnte.
-Nach drei Monaten erschien dann ein Herr bei mit, der sich mir
+Nach drei Monaten erschien dann ein Herr bei mir, der sich mir
 als Professor Reginald Tamblay vorstellte. Er sagte, er habe
 meinen Vater früher mal gekannt und sei jetzt zufällig in
 Dehli, und da habe er zu seinem Bedauern gehört, daß mein
@@ -197,7 +197,7 @@ auf Seide geschenkt, die einen Schmetterling darstelle.
 
 »Ich möchte Sie nun bitten,« fuhr er fort, »diese Malerei
 <@pagebreak/>
-mir wieder zurück zugeben. Ich besaß ein Duplikat davon.
+mir wieder zurückzugeben. Ich besaß ein Duplikat davon.
 Das ist mir verbrannt. Für Sie hat die Malerei keinen Wert.
 Für mich ist sie ein teures Andenken.«
 
@@ -221,7 +221,7 @@ Tagen wiederkommen. Inzwischen war ich nach Europa gereist
 und blieb dort fast ein halbes Jahr. Seitdem habe ich
 Tamblay nicht wiedergesehen. Er ist damals nach seinem
 ersten Besuch wieder in meiner Wohnung gewesen. Mein
-Meister sagte ihm, ich sei verreist und ich ließe ihm bestellen,
+Hausmeister sagte ihm, ich sei verreist und ich ließe ihm bestellen,
 die Malerei sei nicht zu finden. — So, das ist alles.«
 
 »Nein, das ist nicht alles,« rief Erverlyn und schlug mit
@@ -338,7 +338,7 @@ geschlossen hatte.
 meinte Harald.
 
 Er suchte aus den auf dem Tische liegenden Zeitungen
-Blatt heraus und deutete auf einen Artikel. — Er erwartete
+ein Blatt heraus und deutete auf einen Artikel. — Er erwartete
 offenbar von mir keine Antwort. So schwieg ich denn.
 
 »Ich will Dir diesen Artikel über das Ende der Tamblay-Expedition
@@ -758,7 +758,7 @@ sind es etwa 20 Meter nur. Ein gutes Luftgewehr trägt
 weiter. Allerdings muß der Mörder ein sicherer Schütze gewesen
 sein und sich auf die Waffe eingeschossen gehabt haben.
 Ich bin neugierig, was wir drüben bei den Robinsons an Logiergästen
-finden werben. Den Mörder jedenfalls nicht.«
+finden werden. Den Mörder jedenfalls nicht.«
 
 »Na nu?!« rief Greaper.
 
@@ -873,9 +873,9 @@ auf. 4 Tage.
 
 5\. Ehepaar Smith aus Kolombo. Kaufmann. 12 Tage.
 
-6\. Miß Helen Orvid, Lehrerin. 6. Monate.
+6\. Miß Helen Orvid, Lehrerin. 6 Monate.
 
-7\. Miß Grace Pance, Lehrerin 8 Monate.
+7\. Miß Grace Pance, Lehrerin. 8 Monate.
 
  Harst beschrieb Mistreß Robinson nun den Graubärtigen.
 
@@ -922,7 +922,7 @@ Waffe mit ziemlich kurzem Lauf, aber doppelter Druckspannung.
 Harald blickte Greaper an.
 
 »Wollen Sie noch die einzelnen Herrschaften vernehmen?«
-fragte er. »Ich verspreche mich nichts davon.«
+fragte er. »Ich verspreche mir nichts davon.«
 
 Wir hatten vereinbart, daß auf keinen Fall verraten werden
 sollte, daß wir den Mörder beobachtet und hier ins Haus
@@ -998,7 +998,7 @@ des XII-Problems wichtig ist.
 
 Wir hatten uns noch in Bombay jeder eine Remington-Büchse
 neuesten Systems mit 12 Schuß im Patronenlager
-getauft. Alles weitere schafften wir in Bahawalpur an. Hier
+gekauft. Alles weitere schafften wir in Bahawalpur an. Hier
 kam es nun zwischen Harst und Erverlyn zu einer kleinen erregten
 Auseinandersetzung wegen der Reittiere. Erverlyn
 wollte Pferde kaufen, Harald Reit- und Lastkamele. Harst
@@ -1019,7 +1019,7 @@ bald weite Dschungeln. Mittags erreichten wir ein Dorf. Es
 hieß Kolodari. Harst klärte jetzt Erverlyn und mich darüber
 auf, daß er ganz etwas anderes vorhabe als Tigerjagden. Der
 Lord war einfach sprachlos. — Die Diener ließen wir hier
-unter einem Vorwand zurück. Sie wurden für fünf Lage bezahlt.
+unter einem Vorwand zurück. Sie wurden für fünf Tage bezahlt.
 Falls wir bis dahin nicht zurück sein sollten, durften
 sie nach Bahawalpur heimkehren und die Kamele dort unterstellen.
 Wir nahmen nur zwei Lastkamele mit. Zum Schein
@@ -1177,7 +1177,7 @@ nur zehn Meter breit.
 Und hinter diesen Disteln hervor erklang die andere
 Stimme, hell und scharf:
 
-»Rührt Euch nicht! Wir drückten sofort ab —«
+»Rührt Euch nicht! Wir drücken sofort ab —«
 
 »Verdammt!« knurrte Erverlyn, »Vier Büchsenläufe.
 Etwas viel!«
@@ -1190,7 +1190,7 @@ Harst gehorchte. Aber er beeilte sich nicht.
 
 »Schneller!«
 
-Kracht — klatschte schon eine Kugel hinter uns gegen die
+Krach — klatschte schon eine Kugel hinter uns gegen die
 Felswand.
 
 »Halunken!« brummte Erverlyn. »Wir sind nette Wüstenläufer!
@@ -1334,7 +1334,7 @@ das gemeinsame Eigentum mehrerer gewesen. Daß der alte
 Albert Long sie in Verwahrung hatte, ist Ihnen ja von dessen
 Sohne wohl mitgeteilt worden. Ich bedauere sehr, daß Thomas
 Long so töricht war, die Warnung, die wir in Gestalt eines
-Zettels sandten, nicht zu beachten. Untere Geduld gegen
+Zettels sandten, nicht zu beachten. Unsere Geduld gegen
 alles, was den Namen Long trug, war jedoch erschöpft.«
 
 »Albert Long haben Sie ja ebenfalls ermordet,« sagte
@@ -1429,7 +1429,7 @@ Harst setzte sich auf einen der Steine und begann nun Abrechnung
 zu halten.
 
 »Sie sind mir in die Falle gegangen,« sagte er, ganz behaglich
-eine Mirakulum rauchend. »Ich mußte, daß ich in
+eine Mirakulum rauchend. »Ich wußte, daß ich in
 Bombay gegen den Bund der Zwölf nichts ausgerichtet hätte.
 Ich wollte Sie alle zusammen festnehmen. — Sie, Miß Ellen
 Branting, haben sich mit Long auf Geheiß Ihres Vaters« —
@@ -1470,7 +1470,7 @@ ihnen überfallen lassen, vorher aber die Jagdmesser verstecken,
 um wieder nach Belieben freizukommen. Die Oertlichkeit war
 so, daß ich mit ziemlicher Sicherheit damit rechnen konnte,
 ich würde dort an der Felswand als Gefangener sitzen. Wäre
-das nicht gesehen, so hatte ich in meinem Aermelaufschlag
+das nicht geschehen, so hatte ich in meinem Aermelaufschlag
 noch immer mein Federmesser stecken. — Doktor Doving, Sie
 haben den Schuß abgegeben. Mitschuldig sind Sie alle.«
 
@@ -1492,7 +1492,7 @@ Da hat ihn denn Doktor Doving ermordet — durch einen
 <@pagebreak/>
 Stich in die Kopfhaut mit einer vergifteten Nadel. Long
 spekulierte selbst mit Kupferminenaktien und hatte kein Interesse
-mehr an der Sache. Im übrigen stimmt alles, mag
+mehr an der Sache. Im übrigen stimmt alles, was
 Sie vorhin sagten, Mr. Harst. Nur Tamblay war es, der
 dem Auto das Zeichen gab, — vom zweiten Nebengarten
 Greapers aus. Das Auto hatte Branting besorgt. Er als

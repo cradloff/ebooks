@@ -48,7 +48,7 @@ mein Schweigen wohl anders auf, denn er fügte nun hinzu:
 
 »Na — so schlimm meine ich’s nicht, Schraut. Ich wäre
 ein schlechter Kamerad, wenn ich Harald zum Aufbruch drängen
-wollte. €3 ist nur so scheußlich langweilig hier. Hm
+wollte. Es ist nur so scheußlich langweilig hier. Hm
 — was mögen die Aasgeier dort nur haben? Sehen Sie, dort
 drüben, wo das zweite Tal sich dem unteren anschließt. Sie
 kreisen gerade über der Schlucht, die die Verbindung zwischen
@@ -144,7 +144,7 @@ bräunlichen Fleck zeigte.
 
 <@pagebreak/>
 »Blut. — Der Bhat blutete, als er hier zusammenbrach,«
-erklärte er. »Nun stellten sie auch bald die Geier ein. Der
+erklärte er. »Nun stellten sich auch bald die Geier ein. Der
 Mann wird hier vielleicht eine Stunde gelegen haben, bevor
 Erverlyn ihn holte.«
 
@@ -154,7 +154,7 @@ ein richtiger Felskessel mit steilen Wänden. Es schien nur diesen
 Ein- und Ausgang zu geben.
 
 Harald suchte mit größter Sorgfalt nach kleinen Blutflecken.
-€3 waren dies ja die einzigen Spuren, die das nackte
+Es waren dies ja die einzigen Spuren, die das nackte
 Gestein angenommen hatte.
 
 So näherten wir uns nun der rechten, östlichen Wand des
@@ -312,7 +312,7 @@ Skizze ist falsch. Ihre Angaben stimmen nicht. Das ist nun
 auch meine Ueberzeugung.«
 
 »Vielleicht hat Professor Tamblay sie absichtlich falsch gezeichnet,
-un nachher allein das richtige Tal herauszufinden,«
+um nachher allein das richtige Tal herauszufinden,«
 meinte ich eifrig.
 
 Harst schüttelte den Kopf.
@@ -357,7 +357,7 @@ Schlucht. Ich hatte die feine Rauchsäule Eures Lagerfeuers
 gesehen und hoffte, hier gute Menschen zu finden. Ich heiße
 Chotan und bin ein Bhat aus Ghoshgarh.«
 
-Wir setzten uns neben sein Lager. Erverlyn: war ordentlich
+Wir setzten uns neben sein Lager. Erverlyn war ordentlich
 stolz darauf, daß er den Inder bereits wieder so »herausgepflegt«
 hatte, wie er sich ausdrückte,
 
@@ -372,7 +372,7 @@ ohne Waffen reisen sollen. Die Thar ist gefährlich.«
 der Radschpute.
 
 Nach einer kurzen Pause fügte er hinzu: »Master Harst,
-Ihr Name ist mir nicht fremd. Ich las ihn oft im indischen
+Ihr Name ist mir nicht fremd. Ich las ihn oft in indischen
 Zeitungen. Sie würden mir nun einen großen Gefallen erweisen,
 <@pagebreak/>
 wenn Sie mir eines Ihrer beiden Lastkamele leihen
@@ -691,7 +691,7 @@ freundliche Lichtbahn zu uns herein. So herrschte denn in unserm
 Kerker ein Halbdunkel, das immerhin genügte, uns gegenseitig
 zu erkennen.
 
-Ich war als letzter aufgewacht. Als Knochen taten
+Ich war als letzter aufgewacht. Alle Knochen taten
 mir weh.
 
 »Erverlyn klagt über Hunger,« meinte Harst.
@@ -710,7 +710,7 @@ um die steifen Glieder wieder gelenkig zu machen.
 
 »Setzt Euch neben mich,« sagte Harst. »Ich möchte Euch
 etwas mitteilen. Aber ich möchte nicht gerade brüllen. Und
-das ich, wenn Sie weiter so wild umherrasen, lieber
+das müßte ich, wenn Sie weiter so wild umherrasen, lieber
 Douglas.«
 
 Erverlyn konnte gar nicht schnell genug neben Harald
@@ -1079,7 +1079,7 @@ dem Zigarettenmann verbünden und die fünf Klubherrschaften
 zusammenschießen.«
 
 Harst lachte leise auf. »Das wäre nicht logischer, Sie blutgieriger
-Mensch. — Lassen wir aber diese Erörterungen. €3
+Mensch. — Lassen wir aber diese Erörterungen. Es
 muß jetzt gegen neun Uhr abends sein. Wenn bis gegen Mitternacht
 der gute Freund nicht erscheint, dann — handele ich;
 dann ist eben das passiert, was ich vermute.«
@@ -1099,7 +1099,7 @@ könnte längst hier sein —«
 Wieder Stille.
 
 Dann — von weither drangen ganz schwache Knalle bis
-in unseren Kerker hinein,
+in unseren Kerker hinein.
 
 »Schüsse!« flüsterte Erverlyn.
 
@@ -1144,7 +1144,7 @@ Da rief auch schon Harald halblaut hinab:
 »Tompkinson, Sie waren also der Zigarettenspender!
 Es freut mich, Sie hier zu treffen. Wir werden sofort bei
 Ihnen sein. Sie wollten uns befreien. Nun ist’s gerade umgekehrt
-gekommen. — Erverlyn, ein Streichholz an —«,
+gekommen. — Erverlyn, ein Streichholz an —«
 
 Er drehte dann aus dem Papier der Zwiebackpakete eine
 Fackel, leuchtete nun in das Souterrain hinab.
@@ -1274,13 +1274,13 @@ weiter und schrieb ohne Unterbrechung dabei.
 
 »Das müssen wir später feststellen. Ich weiß es nicht.«
 
-»Gut. Was werden wir jetzt tun?«. Der Reporterkönig
+»Gut. Was werden wir jetzt tun?« Der Reporterkönig
 steckte sein Notizbuch ein.
 
 »Schlafen — bis Tagesanbruch. Im Dunkeln in dieser
 Gegend umherzustreifen, ist nicht ratsam.«
 
-Tompkinson nickte, »Schlafen Sie nur. Ich bin nicht müde.
+Tompkinson nickte. »Schlafen Sie nur. Ich bin nicht müde.
 Ich werde arbeiten — schreiben! Sie können also in aller
 Ruhe sich niederlegen.«
  
@@ -1372,7 +1372,7 @@ daß ich durch die Fußbodenöffnung unserer Zelle zu Ihnen hinabgelangen
 und Sie befreien würde. Die vier Einsiedler und
 Chotan hatten nun fraglos mit den Klubleuten eine alte
 Rechnung wettzumachen. Ich denke, es werden die Klubleute
-gewesen rein, die Chotans Kamel erschossen und die auch ihn
+gewesen sein, die Chotans Kamel erschossen und die auch ihn
 selbst verwundet hätten, wenn die Kugel nicht das kleine Messingfernrohr
 getroffen haben würde, das er sehr wahrscheinlich
 in der Brusttasche stecken hatte. Als er es später herauszog,
@@ -1436,7 +1436,7 @@ sagte er nur:
 waren die richtige Fährte. Der indische Arzt Doktor Ismail
 Chotan aus der Kaste der Bhat wohnt hier in Bikaner. Er
 <@pagebreak/>
-ist gestern abend erst von einer Vergnügungsreise: nach Bombay
+ist gestern abend erst von einer Vergnügungsreise nach Bombay
 zurückgekehrt, wie ich hörte. Nun — diese Reise war keine
 Vergnügungsreise. — Tompkinson, Sie sind doch mit allen
 Vorfällen sensationeller Art in Indien vertraut. Wissen Sie,
