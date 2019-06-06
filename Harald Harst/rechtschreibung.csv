@@ -166,6 +166,7 @@ Armhand	Armband
 ärnilicher	ärmlicher
 aroßen	großen
 Arsaber	Araber
+arst	Harst
 asber	aber
 asuf	auf
 asz	aß
@@ -254,6 +255,7 @@ auth	auch
 Autogavage	Autogarage
 Avmband	Armband
 avs	aus
+Azt	Arzt
 Babavia	Batavia
 babe	habe
 Bachbovdwand	Backbordwand
@@ -548,6 +550,7 @@ Dede	Decke
 Dedektiv	Detektiv
 degleichen	begleichen
 deherrschte	beherrschte
+dei	bei
 Deidacht	Verdacht
 Delektjv	Detektiv
 deleuchtete	beleuchtete
@@ -658,6 +661,7 @@ did	dich
 Diebesbaade	Diebesbande
 Diebeshande	Diebesbande
 diefe	diese
+Diefe	Diese
 diefem	diesem
 diefen	diesen
 diefer	dieser
@@ -922,6 +926,7 @@ enttäufcht	enttäuscht
 enttäuschde	enttäuschte
 Eobbegräbnisses	Erbbegräbnisses
 eonnte	konnte
+Eonnte	konnte
 Epifode	Episode
 Erbbegriibnisses	Erbbegräbnisses
 erblichen	erblicken
@@ -1057,6 +1062,8 @@ fläßten	flößten
 fleine	kleine
 fleinen	kleinen
 fleiner	kleiner
+fleines	kleines
+flein	klein
 fliisterte	flüsterte
 fliisterten	flüsterten
 flüfterte	flüsterte
@@ -1068,6 +1075,7 @@ foaglos	fraglos
 fofort	sofort
 folaten	folgten
 folchen	solchen
+folde	solche
 folle	solle
 foll	soll
 follten	sollten
@@ -1467,6 +1475,7 @@ heisze	heiße
 Helfershelser	Helfershelfer
 helleven	helleren
 helsen	helfen
+Herald	Harald
 heranrust	heranruft
 herauslochte	herauslockte
 heraussinden	herausfinden
@@ -1581,6 +1590,7 @@ iachte	lachte
 Iacht	Jacht
 Iacke	Jacke
 Iackentasche	Jackentasche
+Iaffen	lassen
 iafien	lassen
 Iagdgebiet	Jagdgebiet
 Iagdgewehr	Jagdgewehr
@@ -1647,8 +1657,11 @@ Ibr	Ihr
 icb	ich
 ichs	ich’s
 ic	ich
+Ic	Ich
 idem	dem
 ider	der
+id	ich
+Id	Ich
 idie	die
 Iebhaste	lebhafte
 Iede	Jede
@@ -1984,6 +1997,7 @@ ivir	wir
 IVir	Wir
 IVrack	Wrack
 ixh	ich
+Jade	Jacke
 Jaeht	Jacht
 Jagdausflng	Jagdausflug
 jagie	sagte
@@ -2027,6 +2041,7 @@ Jeind	Feind
 jeine	seine
 jei	sei
 jeiten	seiten
+jeit	seit
 jekt	jetzt
 Jelseninseln	Felseninseln
 Jelsmassen	Felsmassen
@@ -2201,6 +2216,7 @@ Kepenhagen	Kopenhagen
 Kiapitän	Kapitän
 kiar	klar
 kieiner	kleiner
+kieß	ließ
 Kiihlraum	Kühlraum
 kiihlt	kühlt
 kiinnnert	kümmert
@@ -2273,6 +2289,7 @@ lanasam	langsam
 Landratien	Landratten
 Landschastsmaier	Landschaftsmaler
 längsi	längst
+Lart	Bart
 lasfen	lassen
 lasz	laß
 läszt	läßt
@@ -2289,6 +2306,7 @@ Ledewohl	Lebewohl
 leerftehende	leerstehende
 lefen	lesen
 legie	legte
+legter	letzter
 Lehen	Leben
 lehnie	lehnte
 lehter	letzter
@@ -2463,6 +2481,7 @@ Maschinjst	Maschinist
 Maschjnisten	Maschinisten
 Maschraum	Waschraum
 massersäule	Wassersäule
+mas	was
 mate	machte
 Matrossen	Matrosen
 Mauersuge	Mauerfuge
@@ -2612,6 +2631,7 @@ Nachtng Nachtzug
 nachzupriifen	nachzuprüfen
 nachzuspüven	nachzuspüren
 nad	nach
+naffen	nassen
 nah	nach
 nahts	nachts
 naiiirlich	natürlich
@@ -2675,6 +2695,7 @@ Niirnberg	Nürnberg
 niir	nur
 niit	mit
 nimwer	nimmer
+nite	nickte
 nit	nicht
 Niziam	Nizam
 njclite	nickte
@@ -2715,6 +2736,8 @@ nsun	nun
 ntergebracht	untergebracht
 ntir	mir
 nuf	auf
+Nuhe	Ruhe
+num	nun
 Nuto	Auto
 nux	nur
 nvit	mit
@@ -2992,6 +3015,7 @@ Rücliversicherung	Rückversicherung
 rucliweise	ruckweise
 Rüden	Rücken
 Rüdfeite	Rückseite
+Rud	Ruck
 Ruhmesliranz	Ruhmeskranz
 Rundsahrt	Rundfahrt
 run	nun
@@ -3054,6 +3078,7 @@ schdssen	schossen
 Scheclibuch	Scheckbuch
 schen	schon
 scherzhnft	scherzhaft
+sch	ich
 Sch	Ich
 schichen	schicken
 Schiclisal	Schicksal
@@ -3206,6 +3231,7 @@ shon	schon
 Shren	Ihren
 Shr	Ihr
 sh	sich
+shwand	schwand
 shwer	schwer
 Shxei	Schrei
 siah	sich
@@ -3394,6 +3420,7 @@ Taschenmejser	Taschenmesser
 Taschentiicher	Taschentücher
 Taschentnch	Taschentuch
 Taschienlampe	Taschenlampe
+Tas	las
 tatfächlic	tatsächlich
 tatjächlich	tatsächlich
 tats	tat’s

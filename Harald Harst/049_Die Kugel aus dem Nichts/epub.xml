@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">de0cd728-8892-11e9-8039-83b54e26b329</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Kugel aus dem Nichts</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">49</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Die Kugel aus dem Nichts.
+
+Die gelbbraunen Fluten der Dschamna bespülten die hölzernen Pfähle des Landungssteges, den Detektivinspektor Plomber sich an dem zu seinem Garten gehörigen Teile des Flußufers hatte errichten lassen.
+
+Es war mehr als ein Landungssteg. Es war eine in das Wasser hinausgebaute hölzerne Terrasse, weiß gestrichen, mit zierlichem Geländer und einem kleinen offenen Pavillon an einen Ecke.
+
+Drei uralte Bäume mit tiefem, breitem Astwerk spendeten hier Schatten, mochte die Sonne auch scheinen, von wo sie wollte.
+
+An der zum Wasser hinabführenden Treppe lagen zwei Ruderboote und ein kleines Motorboot angekettet, die ebenfalls dem Inspektor Plomber gehörten.
+
+Nein — nicht gehörten! Gehört hatten.
+
+Denn Inspektor Plomber, der liebenswürdige Vorstand der Detektivpolizei in der an der Dschamna gelegenen altbekannten indischen Stadt Agra, war tot; war ermordet worden.
+
+Der Flügel des Doktor Godwell.
+
+»Daniel Blooce ist wieder ausgekniffen!«
+
+Mit diesen Worten begrüßte uns Edward Plomber, der schon morgens in der Stadt gewesen war. Er hatte diese Nachricht von dem Polizeiarzt erhalten. Einzelheiten wußte er nicht.
+
+Harald telephonierte die Polizeidirektion an. Detektivwachtmeister Smark, ein Irländer, teilte ihm mit, daß Blooce wie bei seinem ersten Ausbruch durch das Fenster seiner Zelle entwichen sei. Das Gitter hätte er ebenfalls wieder durchgesägt.
+
+Plomber und ich hörten dieses Gespräch mit an. Als Harald damit fertig war, meinte Plomber:
+
+»Der Mensch ist der reine Ausbrecherkönig. Wir haben doch ein völlig modernes Polizei- und Untersuchungsgefängnis.  Wo er nur die Werkzeuge —«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (049) Die Kugel aus dem Nichts.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
