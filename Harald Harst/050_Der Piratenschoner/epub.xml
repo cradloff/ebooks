@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">e8ed3380-95d1-11e9-b376-03873e1c7026</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Piratenschoner</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">50</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Piratenschoner
+
+Lord Percy Blackmoore, einer der reichsten Kohlenmagnaten Englands, hatte uns telegraphisch nach Madras gerufen. Wir hatten ihn und seine Gemahlin vor kurzem bei dem Maharadscha von Dschaipur kennengelernt, wo Harald Harst, wie ich im „goldenen Gongong“ berichtet habe, die überaus kostbare schwarze Perlenkette der Lady Blackmoore dem Juwelendiebe Daniel Blooce wieder abnehmen konnte.
+
+Wir trafen abends um 7 Uhr in der Hafenstadt Madras ein, die bekanntlich an der Ostküste Vorderindiens liegt.
+
+Der Lord, ein schlanker Mann von dreißig Jahren, holte uns vom Bahnhof ab. Er befand sich mit seiner jungen Gattin auf einer Weltreise, hatte seine Motorjacht Atlanta in Madras verlassen und mehrere Städte im Innern besucht.  Diese elegante, große Jacht war dann plötzlich aus dem Hafen von Madras, wo sie am Westkai nun schon drei Wochen gelegen hatte, eines Nachts verschwunden, und Harst sollte diesen Vorfall, dessen Einzelheiten wir nun erst erfuhren, aufzuklären suchen.
+
+Der Spangenschuh der Lady Broog.
+
+Ein so wahnwitziger Racheakt, wie ihn die Entführung der Atlanta und die Gefangennahme des Ehepaares Blackmoore darstellte, mußte notwendig ganz Indien und bald auch die übrige zivilisierte Welt in die hellste Aufregung versetzen.
+
+Lord Blackmoore suchte es nach Kräften zu verhindern, daß all diese Dinge an die Öffentlichkeit kamen. Er hatte keinen Erfolg damit. Die Wahrheit sickerte schnell durch, und um allen lästigen Zeitungsreportern zu entgehen, verließen wir mit der Atlanta bereits drei Tage später den Hafen von Madras und verrieten niemand, wohin wir uns wenden wollten. Der Lord hatte uns eingeladen, mit ihm und seiner Gattin seine Tabakplantage auf der Insel Celebes zu besuchen.  Angeblich gingen wir nach Kalkutta in See.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (050) Der Piratenschoner.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
