@@ -12,7 +12,7 @@ Flußufers hatte errichten lassen.
 Es war mehr als ein Landungssteg. Es war eine in das
 Wasser hinausgebaute hölzerne Terrasse, weiß gestrichen, mit
 zierlichem Geländer und einem kleinen offenen Pavillon an
-einen Ecke.
+einer Ecke.
 
 Drei uralte Bäume mit tiefem, breitem Astwerk spendeten
 hier Schatten, mochte die Sonne auch scheinen, von wo sie
@@ -28,7 +28,7 @@ Denn Inspektor Plomber, der liebenswürdige Vorstand
 der Detektivpolizei in der an der Dschamna gelegenen altbekannten
 indischen Stadt Agra, war tot; war ermordet worden.
 
-Wir wohnten in Agra wieder im Hotel Royal. Wir wahren
+Wir wohnten in Agra wieder im Hotel Royal. Wir waren
 hier infolge des Juwelenraubes mit der Familie des amerikanischen
 Multimillionärs Hamborn bekannt geworden und
 hatten gegen sechs Uhr nachmittags gerade im Speisesaale gesessen,
@@ -143,7 +143,7 @@ in die Stirn getroffen hast, noch eine zweite Kugel beibringen?«
 
 »Du hast ganz recht,« erwiderte ich. »Die Lage der Leiche,
 der Zeitung und der Zigarre beweist, daß Plomber blitzartig
-— eben durch den Kopfschuß, der sofort die Bewegungsnerven
+starb — eben durch den Kopfschuß, der sofort die Bewegungsnerven
 des Gehirns lähmte. Ihm entsanken Zeitung und
 Zigarre. Er war tot — wie durch Blitzschlag. — Weshalb also
 der zweite Schuß?«
@@ -201,13 +201,13 @@ Ein anderes Ereignis sollte jedoch unsere Aufmerksamkeit
 völlig ablenken.
 
 An der Wasserterrasse hatte ein Boot angelegt, in dem
-drei Inder und Chinese saßen. Die Inder hielten den Chinesen
+drei Inder und ein Chinese saßen. Die Inder hielten den Chinesen
 fest und schleppten ihn jetzt nach dem Pavillon.
 
 Thimal erkannte die Leute erst, als sie ganz nahe waren.
  
 <@pagebreak/>
-»Ah — es sind Leute von der Strompolizei!« tief er. »He
+»Ah — es sind Leute von der Strompolizei!« rief er. »He
 — was ist denn mit dem Gelben?«
 
 Der Chinese war ein hagerer Mensch mit dünnem grauen
@@ -261,7 +261,7 @@ Die drei Strompolizisten, die bisher von Plombers Ermordung
 nichts ahnten, warfen einen schnellen Blick zum Pavillon
 <@pagebreak/>
 hinauf. Man konnte von hier unten das starre Totenantlitz
-gut erkennen,
+gut erkennen.
 
 Plomber war bei seinen Untergebenen sehr beliebt gewesen.
 Dem Chinesen ging es daher nicht gut. Die Beamten
@@ -342,7 +342,7 @@ Thimal schüttelte den Kopf.
 Sie, bester Harst! Sie sind als Detektiv etwas — etwas zu
 sorgfältig.«
 
-»Das bin ich allerdings. Und bin es um es mehr, als es
+»Das bin ich allerdings. Und bin es um so mehr, als es
 hier um Doktor Blooces Leben geht.« Dann fragte er die drei
 Strompolizisten:
 
@@ -445,7 +445,7 @@ Blooce rief Harald zu:
 »Retten Sie einen Unschuldigen, Master Harst! Ich habe
 dieses Verbrechen nicht begangen.«
 
-Da hatten ihn die Beamten schon zum im Schweigen gebracht.
+Da hatten ihn die Beamten schon zum Schweigen gebracht.
 
 Thimal und Edward Plomber traten zu uns.
 
@@ -483,7 +483,7 @@ hatte bei der Vorstellung Ihren Namen nicht recht verstanden.
 Entschuldigen Sie schon. Auf Ihr Urteil gebe ich doch mehr
 als auf das des Polizeidirektors, der vom Billardspiel und
 <@pagebreak/>
-von wir Jagd mehr Ahnung als von seinem Beruf hat. Sie
+von der Jagd mehr Ahnung als von seinem Beruf hat. Sie
 halten diesen Gauner Blooce also für unschuldig?«
 
 »Nein, Master Plomber. Vielleicht ist er’s wirklich gewesen
@@ -878,7 +878,7 @@ Vorname Edward.
 
     E d w a r d
 
-Daß dies stimmte, bewies die 2, die das d darstelle und
+Daß dies stimmte, bewies die 2, die das d darstellte und
 sich am Schluß wiederholte.
 
 Und die 5 und 6 hinter dem Komma konnten nur P und l
@@ -1200,7 +1200,7 @@ Harald hatte sich halb nach mir umgedreht.
 
 »Er wird wiederkommen, mein Alter,« sagte er sehr zuversichtlich.
 »Es waren alles drei Gelegenheitsverbrecher. Der
-Sprecher gehört zu den gebildeten Indern. Seiner Hände waren
+Sprecher gehört zu den gebildeten Indern. Seine Hände waren
 gepflegt und nur absichtlich beschmutzt. Die Kerle hatten
 mehr Angst vor uns als wir vor ihnen.«
 
@@ -1241,7 +1241,7 @@ Räuber geworden ist.«
 Der Inder stierte Harst lange an. Seine Angst war
 noch größer geworden.
 
-»Sahib, ja — es bat mich jemand zu diesem Ueberfall
+»Sahib, ja — es hat mich jemand zu diesem Ueberfall
 verleitet.«
 
 »Das wußte ich. Es war ein Mann, der vermuten konnte,
@@ -1364,7 +1364,7 @@ Dache des Motorkastens. Die Luft war das, was der Seemann
 »diesig« nennt, eben nicht ganz klar, wenn man auch
 nicht von Nebelbildung sprechen konnte.
 
-»Ans Ufers« rief Harst dann. »Wir befinden uns hier
+»Ans Ufer!« rief Harst dann. »Wir befinden uns hier
 Ihrem Bungalow gerade gegenüber, Master Plomber.«
 
 Wir landeten. Harst stieg allein aus. Dschungeldickicht

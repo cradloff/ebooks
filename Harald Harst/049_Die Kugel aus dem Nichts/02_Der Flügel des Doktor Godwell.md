@@ -77,7 +77,7 @@ Gegner ein Genuß ist, ebenso bereitet Ihnen die Aufklärung
 von Geschehnissen ein besonderes Vergnügen, die über das
 menschliche Begriffsvermögen hinausgehen.
 
-Zufällig erfuhr ich nun vor einem halben Jahr von recht
+> Zufällig erfuhr ich nun vor einem halben Jahr von recht
 <@pagebreak/>
 merkwürdigen Dingen, die sich im Bungalow eines Kollegen
 von mir abspielen.
@@ -167,7 +167,7 @@ doch nur ganz schwach zu hören.
 > Trotzdem kam Lydia aus der nervösen Unruhe nicht heraus.
 Die in einem Nebengebäude wohnende Dienerschaft
 hatte die merkwürdige Geschichte von dem Flügel, der geradezu
-von Geisterhänden gespielt zu werden seien, in der Stadt verbreitet.
+von Geisterhänden gespielt zu werden schien, in der Stadt verbreitet.
 Die Bekannten Godwells peinigten das Ehepaar durch
 neugierige Fragen. — Ein Privatdetektiv aus Haidarabad
 sollte dem Spuk ein Ende machen. Er entdecke nichts. Wenn
@@ -184,6 +184,7 @@ Flügel wurde gespielt, und der Hund heulte mit.
 aus. Dann ertönte das Klavier abermals.
 
 <@pagebreak/>
+
 > So ging es ein dreiviertel Jahr lang. Dann schien der
 Spuk ausgetobt zu haben. Sieben Monate verstrichen, und
 der Flügel ließ sich nicht wieder vernehmen.
@@ -234,11 +235,12 @@ im übrigen insofern nicht fürchte, als ich aus jedem Gefängnis
 zu entweichen vermag.
 
 <@pagebreak/>
-> So bleibe Ihr dankbar ergebener
+
+> Ich bleibe Ihr dankbar ergebener
 
 > Dr. med. Daniel Blooce.
 
-Harald stecke den Brief in die Tasche.
+Harald steckte den Brief in die Tasche.
 
 »Na, Plomber und Schraut, — wie gefällt Euch dieser
 Flügelspuk?« fragte er.
@@ -368,7 +370,7 @@ In diesem Augenblick trat der Hoteldirektor ein. — Als
 Harald schwieg, rief der Minenbesitzer, den man auf 200 Millionen
 schätzte, wütend:
 
-»Verdammt, dann sollen Sie 10000 haben, Sie tüchtiger
+»Verdammt, dann sollen Sie 10 000 haben, Sie tüchtiger
 Geschäftsmann!«
 
 Harst erhob sich. »Ich empfehle mich, Master Treskabor.
@@ -723,7 +725,7 @@ Weile aus dem Hause kommt.«
 nickte, fuhr ich fort: »Wenn Godwell an diesem
 Geisterkonzert mit beteiligt ist, dann kann die nächtliche Musik
 zwei Gründe haben. Den ersten nanntest Du schon, nämlich,
-daß der Doktor seine seine Frau loswerden, also beerben
+daß der Doktor seine reiche Frau loswerden, also beerben
 möchte. Der zweite Grund kann nur der sein, daß durch das
 Klavierspiel Geräusche anderer Art übertönt werden sollen. —
 Weißt Du nun noch einen dritten Grund?«
@@ -815,7 +817,7 @@ Wir kauerten im Schatten der hohen Marmoreinfassung
 der Fontäne. Harald hatte mir soeben zugeflüstert: »Die beiden
 Fenster links mit den Vorhängen dürften die des Musikzimmers
 sein,« und ich hatte erwidern wollen, daß ich dasselbe
-annähme, als vom Hause her die ersten Tone eines
+annähme, als vom Hause her die ersten Töne eines
 Klavierstückes verschwommen mein Ohr erreichten und mich
 schweigen ließen.
 
@@ -1022,7 +1024,7 @@ Miß Farting ihren Dienst antreten?«
 
 Boster verabschiedete sich nun.
 
-Als er gegangen war, hörte Sven Eritrea sehr bald mit
+Als er gegangen war, hörte Sven Ericksen sehr bald mit
 der Malerei auf. Wir hatten in unserem Schlafzimmer die
 beste Gelegenheit miteinander zu sprechen, ohne daß wir belauscht
 werden konnten. Ich erzählte Harald alles, was Boster
@@ -1190,7 +1192,7 @@ Haben Sie denn das Instrument nie besichtigt.«
 »— Ja, die Sache wird eben anders befingert, Blooce. —
 Hören Sie zu: Um 1 Uhr nachts treffen wir uns mit dem falschen
 Blooce im Garten. Halten Sie sich in der Nähe. Aber
-Lassen Sie sich nicht sehen. Vorher beobachten Sie das Haus
+lassen Sie sich nicht sehen. Vorher beobachten Sie das Haus
 der Farting. Ich bin überzeugt, daß diese ebenfalls recht anrüchige
 Miß gegen Mitternacht in den Godwellschen Bungalow
 schleichen wird. Sie ist die Klavierspielerin, dabei bleibe
@@ -1244,7 +1246,7 @@ zu.
 
 »Wir schließen hier eine Lebensversicherung ab — oder
 ein!« meinte er. »Wer sich doppelt versichert, kann ruhig ans
-Sterben denken —
+Sterben denken —«
 
 <@pagebreak/>
 
@@ -1252,7 +1254,7 @@ Sterben denken —
 
 »Ah, da sind Sie ja, Blooce,« flüsterte Harald dem falschen
 Blooce auf dem Gartenwege zu. »Godwell ist wohl
-nicht daheim?«:
+nicht daheim?«
 
 »Nein, er ist über Land auf Praxis gefahren,« erwiderte
 der unechte Blooce flüsternd. »Kommen Sie, Master Harst,«
@@ -1354,7 +1356,7 @@ anzeigt, ob die Tür geöffnet oder geschlossen wird,« sagte Harald
 kurz. »Alles sehr schlau ausgeklügelt. Nur nicht schlau
 genug —« —
 
-Wir waren im Keller. Wir fanden vor einer Ziegelmauer,
+Wir waren im Keller. Wir standen vor einer Ziegelmauer,
 hinter der jener Kellerraum sich befinden mußte, in dem das
 Pianino aufgestellt war.
 
@@ -1417,7 +1419,7 @@ Das werden Sie drei noch heute spüren.«
 Das blonde Weib spielte weiter. Und sie spielte gut. Hin
 und wieder drehte sie den Kopf und schaute uns an.
 
-Godwell lehnte sich und gegenüber an das Klavier. Den
+Godwell lehnte sich uns gegenüber an das Klavier. Den
 <@pagebreak/>
 Revolver hatte er in der auf den Klavierdeckel gestützten
 Rechten.
@@ -1461,7 +1463,7 @@ mehr heraus, als nur einen harmlosen Reklametrick!«
 
 »Sie wollten Lydia langsam dem Irrsinn zutreiben,«
 sagte Harst gleichmütig. »Vielleicht haben Sie auch noch
-Ihre beider Kollegen hier auf dem Gewissen, die so kurz hintereinander
+Ihre beiden Kollegen hier auf dem Gewissen, die so kurz hintereinander
 starben. Ich leugne die Depesche aus Kalkutta
 nicht ab. Es hat keinen Zweck mehr. Ich biete Ihnen eine
 halbe Million, wenn Sie uns drei freigeben.«
@@ -1492,7 +1494,7 @@ Ich wußte, was kommen würde.
 Ich hielt den Atem an.
 
 Er drückte schärfer auf den Schieber. — Wir hatten es
-ausprobiert. Die Zündpille volle mußte durch den Druck explodieren.
+ausprobiert. Die Zündpille mußte durch den Druck explodieren.
 
 Da — ein Knall.
 
