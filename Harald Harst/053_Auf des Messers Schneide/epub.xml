@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">944fb656-9ab1-11e9-a9e5-83c96b11b2f0</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Auf des Messers Schneide</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">53</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Auf des Messers Schneide
+
+Harst hatte in Gwadar, der bedeutendsten Hafenstadt an der Westküste Belutschistans, das Verschwinden des Frachtdampfers Viktoria restlos aufgeklärt. Die beiden Hauptschuldigen, der Reeder Sadi Ahmed und der Kneipwirt O’Brien, ein Schotte, waren tot. O’Brien hatte in seiner Wut Ahmed erschossen und unser chinesischer Diener Tscho wieder hatte zwei Sekunden zu spät auf den Schotten gefeuert.
+
+Am dritten Tage nach diesen aufregenden Ereignissen waren wir zur nochmaligen Vernehmung auf das Polizeibureau gegangen.
+
+Links von uns auf einer zweiten Bank saß eine schlanke, kleine Europäerin, die ein weißes Leinenkostüm anhatte und tief verschleiert war.
+
+Unter dem englischen Herrenstrohhut kam ein starker Knoten leicht rötlichen Haares zum Vorschein. — Ich hatte auf die Dame nicht weiter achtgegeben, bis Harald mir zuflüsterte:
+
+»Ich müßte mich sehr irren, lieber Schraut, wenn die Verschleierte dort nicht O’Briens Frau ist, von der sowohl Konsul Gesport als auch Kromer so sehr schwärmten.  Gesport sprach von ihrem wundervollen Haar und ihrer tadellosen Figur. Diese Daisy O’Brien soll engelhaft schön sein. Niemand, erzählte mir Gesport gestern, hätte vor zwei Jahren sich erklären können, wo O’Brien, dieser ungeschlachte Riese, diese liebreizende Fee aufgetrieben hätte.« —
+
+Der Zopfabschneider der Müllerstraße
+
+»Berlin — Berlin! Alles aussteigen!« — Der D-Zug Hamburg-Berlin war mit fünfzehn Minuten Verspätung auf dem Lehrter Bahnhof eingetroffen.
+
+Die nicht allzu zahlreichen Reisenden strebten mit ihrem Handgepäck der Sperre zu. Nur in einem Abteil 1. Klasse befanden sich noch zwei Herren, von denen der größere sich jetzt abermals zum Fenster hinauslehnte und den Bahnsteig hinabspähte.
+
+»Aussteigen!« rief ein Schaffner, der den Gang des D-Wagens entlangschritt, durch die Schiebetür in das Abteil der beiden Herren hinein.
+
+»Wo nur Tscho stecken mag?!« sagte Harald ungeduldig zu mir und wandte sich dann an den Schaffner mit den Worten: »Unser Diener saß hinten im Zuge dritter Klasse. Vielleicht ist er eingeschlafen.«
+
+Wir nahmen unsere Reisetaschen und unsere Mäntel und verließen den Wagen, stellten uns draußen vor dem Fenster unseres Abteils auf, wo wir einen großen Pappkarton zurückgelassen hatten, und warteten auf unseren Tscho.
+
+»Ich werde doch mal nachsehen gehen,« meinte Harald dann. »Die Sache gefällt mir nicht. Auch das Ende des Zuges muß längst von Schaffnern auf vergessene Gepäckstücke revidiert worden sein. Man hätte Tscho also geweckt, wenn er wirklich so fest geschl...«
+
+»Du — es muß etwas passiert sein! Dort haben sich jetzt vier Bahnbeamte vor dem einen Wagen versammelt —«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (053) Auf des Messers Schneide.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
