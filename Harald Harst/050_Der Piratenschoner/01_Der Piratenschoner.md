@@ -103,7 +103,7 @@ nicht irre, geht um 10 Uhr ein Zug nach Bangalore.“
 „Nur ein Personenzug, kein Eilzug,“ erklärte Davis. –
 
 Wir blieben noch eine halbe Stunde zusammen. Dann verabschiedeten wir uns.
-Davis kam mit. Es war jetzt 1/29 abends.
+Davis kam mit. Es war jetzt 1/2 9 abends.
 
 „Ist es Ihnen recht, wenn wir mal nach dem Hafen fahren, Master Davis?“ meinte
 Harald. „Ich möchte mir die Stelle am Kai ansehen, wo die Atlanta gelegen hat.“
@@ -622,7 +622,7 @@ Goorb befahl: „Haltet den Motorkutter bereit!“
 
 Dann mußte Britton seinen Lauscherposten verlassen. Eine halbe Stunde später
 fuhr die Atlanta bei strömendem Regen davon. Von der Mohalla aber entfernte
-sich der zu dieser Jacht gehörige gedeckte Motorkutter. Wer drin war. konnte
+sich der zu dieser Jacht gehörige gedeckte Motorkutter. Wer drin war, konnte
 Britton nicht feststellen.“
 
 
@@ -706,7 +706,7 @@ Scharniere haben mußte.
 
 Harald versetzte mir einen leichten Stoß in die Rippen. Das hieß: „Achtung!“
 
-Die Kiste war sehr lang und vielleicht 11/4 Meter hoch.
+Die Kiste war sehr lang und vielleicht 1 1/4 Meter hoch.
 
 Harald kroch voran. Ich hielt den Seitendeckel hoch. Dann folgte ich Harst –
 mit recht gemischten Gefühlen. Ich ahnte schon, daß hier etwas nicht stimmte.
@@ -834,7 +834,7 @@ Der Matrose schien ihr einen Vorschlag zu machen. Sie sträubte sich erst. Dann
 nickte sie widerwillig, gab Brigham die andere Clementpistole, <@pagebreak/>
 die sie in der Jackentasche hatte, und rief uns mit derselben rauhen Stimme zu:
 „Wir werden Sie beide in einer Kabine unterbringen. Gehen Sie voraus durch jene
-Tür. Sie deutete auf dieselbe Tür, durch die Brigham vorhin erschienen war.
+Tür.“ Sie deutete auf dieselbe Tür, durch die Brigham vorhin erschienen war.
 
 Hinter dieser Tür lag ein Gang, der ebenfalls durch elektrische Deckenlampen
 erleuchtet war. An der Seite befanden sich drei Kabinentüren. Wir mußten in die
@@ -1164,7 +1164,7 @@ Ich hielt dieses Schweigen nicht länger aus.
 „Wo mögen wir jetzt sein, Harald?“ fragte ich. „Vielleicht gar auf der
 Atlanta?“
 
-„Dasselbe nehme ich an. Wir werden –
+„Dasselbe nehme ich an. Wir werden –“
 
 Die Riegel wurden zurückgeschoben. Man leuchtete in die Kammer hinein. Es war
 das grellweiße Licht einer Acetylenlaterne, das uns geradezu blendete.
@@ -1351,14 +1351,14 @@ Lady Blackmoore aus Eifersucht verschwinden lassen.“
 
 „Das ist James Goorb, mein Alter. In den Zeitungen, die auf dem Tische in der
 Kabine lagen, fand ich noch mehr recht interessante Notizen. Aus ihnen ging
-hervor, daß die „exzentrischsteDame dieses Jahrhunderts“ eine junge Witwe Anna
+hervor, daß die „exzentrischste Dame dieses Jahrhunderts“ eine junge Witwe Anna
 Broog, Lady Broog, ist. Ihr Name war mir nicht fremd. Sie hat schon manchen
 tollen Streich sich geleistet und – Horch’, was war das eben?! Das klang wie
 Weinen und Schluchzen!“ Er sprang auf und eilte an das eine Fenster. Dort stand
 noch der Tisch, auf den wir vorhin gestiegen waren, um hinausschauen zu können.
 Harst war mit einem Satz oben und steckte den Kopf durch die schmale
 Maueröffnung, zog ihn wieder zurück und flüsterte: „Hilf mir! Vielleicht kann
-ich in der Seitenlage doch hindurch Hebe mir die Beine an. – Warte – so, nun
+ich in der Seitenlage doch hindurch. Hebe mir die Beine an. – Warte – so, nun
 los!“
 
 Und wirklich: es glückte! Der schlanke Harst hing jetzt nur noch mit einem Fuß

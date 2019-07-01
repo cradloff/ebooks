@@ -20,7 +20,7 @@ Mr. Allan Bangsey trat ein. Der erste Eindruck war sehr gut. Ein stattlicher, bl
 
 Wir hatten uns gesetzt, und Allan Bangsey begann nun mit seinem Anliegen herauszurücken.
 
-„Ich bin Kaufmann in Bangalore, Mr. Harst, – Großkaufmann, Exporteur. Vor drei Wochen mußte ich eine längere geschäftliche Reise unternehmen. Inzwischen brach in Maissur die Pest aus. Nun, wir Europäer sind dagegen ja so ziemlich gefeit. Ich hegte also meiner Familie wegen auch keinerlei Besorgnisse, selbst dann nicht, als in Bangalore das große Massensterben begann, und das war heute vor 12 Tagen, am 15. Dezember, wie Ihnen aus den Zeitungen bekannt sein dürfte. Als ich nun gestern abend von einem Jagdausfluge mit meinem Freunde Primsby nach Dehli[2] zurückkehrte, fand ich in Primsbys Bungalow für mich eine Depesche meiner Frau vor, die mich veranlaßte, einen Rennwagen in Dehli zu mieten und hier nach Praschwar zu Ihnen zu eilen. Bitte, hier ist das Telegramm.“
+„Ich bin Kaufmann in Bangalore, Mr. Harst, – Großkaufmann, Exporteur. Vor drei Wochen mußte ich eine längere geschäftliche Reise unternehmen. Inzwischen brach in Maissur die Pest aus. Nun, wir Europäer sind dagegen ja so ziemlich gefeit. Ich hegte also meiner Familie wegen auch keinerlei Besorgnisse, selbst dann nicht, als in Bangalore das große Massensterben begann, und das war heute vor 12 Tagen, am 15. Dezember, wie Ihnen aus den Zeitungen bekannt sein dürfte. Als ich nun gestern abend von einem Jagdausfluge mit meinem Freunde Primsby nach Dehli zurückkehrte, fand ich in Primsbys Bungalow für mich eine Depesche meiner Frau vor, die mich veranlaßte, einen Rennwagen in Dehli zu mieten und hier nach Praschwar zu Ihnen zu eilen. Bitte, hier ist das Telegramm.“
 
 Dieses lautete:
 
@@ -114,7 +114,7 @@ Sie horchten auf.
 
 „Ah – welch ein Zufall,“ rief Erverlyn. „Nun, Mr. Harst ist zwar bewußtlos, aber offenbar nicht schwer verletzt.“
 
-Wir gingen zu unserem umgestürzten Rennwagen hin. Ein vierter Offizier und ein indischer Chauffeur knieten neben Harald und rieben ihm die Stirn mit[3] Kognak ein[4]. Er lag etwa sechs Meter von dem Kraftwagen ab zwischen Steingeröll. Er kam denn auch bald zu sich. Allan Bangsey wieder saß an einen Baum gelehnt da. Er war noch so verstört, daß er uns ganz geistesabwesend anstierte. Unser Chauffeur aber war tot. Ihm war der Kopf abgerissen worden.
+Wir gingen zu unserem umgestürzten Rennwagen hin. Ein vierter Offizier und ein indischer Chauffeur knieten neben Harald und rieben ihm die Stirn mit Kognak ein. Er lag etwa sechs Meter von dem Kraftwagen ab zwischen Steingeröll. Er kam denn auch bald zu sich. Allan Bangsey wieder saß an einen Baum gelehnt da. Er war noch so verstört, daß er uns ganz geistesabwesend anstierte. Unser Chauffeur aber war tot. Ihm war der Kopf abgerissen worden.
 
  
 <h2>2. Kapitel.</h2>
@@ -260,33 +260,33 @@ Harald und ich saßen auf der einen, Bangsey auf der anderen Bank uns gegenüber
 
 Bangsey las vor:
 
-„Deine Bestätigung erster Depesche erhalten. Zur Orientierung für Mr. Harst folgendes. – War am 14. nach Tumkur gefahren.“
+> „Deine Bestätigung erster Depesche erhalten. Zur Orientierung für Mr. Harst folgendes. – War am 14. nach Tumkur gefahren.“
 
 „Dort haben wir eine große Plantage,“ schaltete Bangsey ein.
 
-„Ellinor blieb mit der Rojane –“
+> „Ellinor blieb mit der Rojane –“
 
 „Die französische Gouvernante Ellinors,“ erklärte Bangsey wieder.
 
-„– mit der Rojane zu Hause. Pest war damals erst vereinzelt hier im Eingeborenenviertel aufgetreten. Fand auf der Plantage alles in Ordnung. Heller –“
+> „– mit der Rojane zu Hause. Pest war damals erst vereinzelt hier im Eingeborenenviertel aufgetreten. Fand auf der Plantage alles in Ordnung. Heller –“
 
 „Das ist unser Plantagendirektor, Mr. Harst, – ein Landsmann von Ihnen.“
 
-„Heller war bereits viermal vergeblich auf Anstand auf einen Tiger gewesen, der drei Kinder verschleppt hatte. Wir sind mit großem Treiberaufgebot drei Tage in den nördlichen Dschungeln gewesen. Tiger wurde von mir erlegt. Bei Rückkehr nach Plantage Depesche von Smith –“
+> „Heller war bereits viermal vergeblich auf Anstand auf einen Tiger gewesen, der drei Kinder verschleppt hatte. Wir sind mit großem Treiberaufgebot drei Tage in den nördlichen Dschungeln gewesen. Tiger wurde von mir erlegt. Bei Rückkehr nach Plantage Depesche von Smith –“
 
 „Unser Prokurist in Bangalore –“
 
-„von Smith vorgefunden, daß ganzes Haus ausgestorben und Ellinor mit beerdigt. Sofort nach Bangalore. Fand alles bestätigt. Im Europäerviertel nur unter Dienerschaft etwa 500 Todesfälle. Von uns sämtliche Leute weggerafft. Erzwang von Inspektor Mofler –“
+> „von Smith vorgefunden, daß ganzes Haus ausgestorben und Ellinor mit beerdigt. Sofort nach Bangalore. Fand alles bestätigt. Im Europäerviertel nur unter Dienerschaft etwa 500 Todesfälle. Von uns sämtliche Leute weggerafft. Erzwang von Inspektor Mofler –“
 
 „Der Polizeiinspektor in Bangalore, Mr. Harst –“
 
-„– Mofler Öffnung des Massengrabes, wo Ellinor nur beerdigt sein konnte. War nicht unter den Toten.“
+> „– Mofler Öffnung des Massengrabes, wo Ellinor nur beerdigt sein konnte. War nicht unter den Toten.“
 
 „Ich muß hier einfügen, Mr. Harst, daß nach den seuchenpolizeilichen Vorschriften Pesttote nach spätestens zwei Stunden bestattet werden müssen und daß eine Beerdigung auf einem Friedhof bei einer Seuche kaum möglich ist. Die Sanitätsmannschaften revidieren dauernd, mit karbolgetränkten Schleiern vor den Gesichtern und ebensolchen Handschuhen, die Häuser und gehen sehr rücksichtslos vor. Bekanntlich dauert die Krankheit bei Pest oft nur 6–7 Stunden. Mitunter fallen sogar Leute auf der Straße um und sterben in einer Stunde.“
 
 „Danke, mir ist das alles bekannt. – Bitte weiter –“
 
-„Habe jetzt noch zwei andere Massengräber öffnen lassen. Mofler damit sehr einverstanden. Argwöhnt selbst dunkle Geschehnisse. Auch niemand von unserer Dienerschaft in den Gräbern, wo Eingeborene aus Europäerviertel bestattet. Am wichtigsten, daß auch die Rojane verschwunden. Um jeden Preis Harst bewegen, herzukommen. Wirklich keine Gefahr mehr. – Deine trostlose Molly.“
+> „Habe jetzt noch zwei andere Massengräber öffnen lassen. Mofler damit sehr einverstanden. Argwöhnt selbst dunkle Geschehnisse. Auch niemand von unserer Dienerschaft in den Gräbern, wo Eingeborene aus Europäerviertel bestattet. Am wichtigsten, daß auch die Rojane verschwunden. Um jeden Preis Harst bewegen, herzukommen. Wirklich keine Gefahr mehr. – Deine trostlose Molly.“
 
 „Hm – mit dem Bericht läßt sich schon etwas anfangen,“ meinte Harald.
 
@@ -505,13 +505,13 @@ Nun – ich hatte Glück. Er kam ganz von selbst zu mir, setzte sich auf den Bet
 
 „Sag’ mal, – wen fürchtest Du eigentlich als Lauscher?“ Ich blickte ihn scharf an.
 
-„Hm – weißt Du, wer in der Nebenkabine steckt? Belegt ist sie ebenfalls. – Was die Arbeit angeht, mein Alters so habe ich die Kobraköpfe etwas auseinandergeschnitten und dann zum Fenster hinausgeworfen.“
+„Hm – weißt Du, wer in der Nebenkabine steckt? Belegt ist sie ebenfalls. – Was die Arbeit angeht, mein Alter, so habe ich die Kobraköpfe etwas auseinandergeschnitten und dann zum Fenster hinausgeworfen.“
 
 „Scherzest Du?!“
 
 „Mir ist verdammt wenig danach zu Mute. Dieses Kobra-Attentat war weniger gefährlich als das Drahtseil. Besinnst Du Dich auf ein früheres Abenteuer in Indien, – von damals her, als wir gegen Warbatty kämpften? Da spielte auch ein Kobrakopf eine Rolle –“
 
-„Hm – in Bangkok etwa, – der Fall „Nur ein Tintenfleck“[5]?!“
+„Hm – in Bangkok etwa, – der Fall „Nur ein Tintenfleck“?!“
 
 „Vielleicht war’s der. Nein, doch nicht. Du wirfst das durcheinander. Ist ja auch gleichgültig. Die Hauptsache: ich weiß jetzt Bescheid, und in Bangalore folgt der Schlußakt.“
 
@@ -559,7 +559,7 @@ Mofler schob Harald eine gestempelte Karte mit Photographie hin.
 
 „Danke,“ erklärte Harst. „Das genügt. – Sie wollten mit uns sprechen, bevor wir Bangalore erreichten, nicht wahr?“
 
-„Nicht nur das. Ich wollte Sie beschützen, Mr. Harst. Major Lord Erverlyn[6] hat mir von dem Drahtseilattentat telegraphisch Mitteilung gemacht. Ich kenne ihn von früher her. Er lag in Bangalore mal in Garnison. Ich fürchtete, man könnte einen neuen Anschlag gegen Sie unternehmen.“
+„Nicht nur das. Ich wollte Sie beschützen, Mr. Harst. Major Lord Erverlyn hat mir von dem Drahtseilattentat telegraphisch Mitteilung gemacht. Ich kenne ihn von früher her. Er lag in Bangalore mal in Garnison. Ich fürchtete, man könnte einen neuen Anschlag gegen Sie unternehmen.“
 
 „Ist schon geschehen,“ sagte Harald mit einem Auflachen. „Mr. Mofler, Sie haben den Anschlag verschlafen –“
 
@@ -569,7 +569,7 @@ Mofler schob Harald eine gestempelte Karte mit Photographie hin.
 
 Mofler war starr.
 
-„Dieser – dieser Heller!“ entfuhr es ihm dann. „Der Mensch muß eine ganze Verbrecherbande zur Verfügung haben. – So leid es mir tut, Mr. Harst: dieser Heller ist ein Landsmann[7] von Ihnen. Er ist der einzige, der hier als der Schuldige in Betracht kommt. Ich habe mich natürlich gehütet, Frau Bangsey von diesem Verdacht etwas mitzuteilen. Sie hält große Stücke auf ihn. Aber – der Mensch ist zu allem fähig! Eine Riese ist’s, mit den Kräften eines Bären und dem Hirn eines Genies! Alles kann er – alles. So vielseitige Leute geraten leicht auf die schiefe Bahn –“
+„Dieser – dieser Heller!“ entfuhr es ihm dann. „Der Mensch muß eine ganze Verbrecherbande zur Verfügung haben. – So leid es mir tut, Mr. Harst: dieser Heller ist ein Landsmann von Ihnen. Er ist der einzige, der hier als der Schuldige in Betracht kommt. Ich habe mich natürlich gehütet, Frau Bangsey von diesem Verdacht etwas mitzuteilen. Sie hält große Stücke auf ihn. Aber – der Mensch ist zu allem fähig! Eine Riese ist’s, mit den Kräften eines Bären und dem Hirn eines Genies! Alles kann er – alles. So vielseitige Leute geraten leicht auf die schiefe Bahn –“
 
 Jetzt war ich starr. – Heller der Schuldige? Der Plantagendirektor?
 
@@ -599,7 +599,7 @@ Ich blickte heimlich Bangsey an. Ihm mußte diese Erörterung doch sehr peinlich
 
 „Er „lockte“ sie?“ meinte Harald. „Wie verstehen Sie das, Mr. Mofler?“
 
-„Nun, er erzählte[8] ihr von dem Tiger und spekulierte auf Frau Mollys Jagdleidenschaft.“
+„Nun, er erzählte ihr von dem Tiger und spekulierte auf Frau Mollys Jagdleidenschaft.“
 
 Harst wandte sich an Bangsey. „Also auch Ihre Gattin ist Jägerin? Da haben Sie mit ihr wohl häufiger gemeinsam gejagt?“
 
@@ -672,7 +672,7 @@ Und dann – kam Bangalore, kam der Schlußakt, – ein Spiel ums Leben.
 
 Die getroffenen Vereinbarungen wurden genau eingehalten. Wir fuhren zuerst zu Mofler. Von Bangsey hatten wir uns schon vorläufig im Zuge verabschiedet. Auf dem Bahnhof nahmen wir keine Notiz voneinander.
 
-Mofler bewohnte einen eigenen Bungalow im[9] Europäerviertel. Er war Junggeselle, hatte das übliche Dutzend Diener und hätte uns am liebsten bei sich behalten.
+Mofler bewohnte einen eigenen Bungalow im Europäerviertel. Er war Junggeselle, hatte das übliche Dutzend Diener und hätte uns am liebsten bei sich behalten.
 
 Wir sollten erst nach Dunkelwerden, gegen zehn Uhr, zu Bangseys hinübergehen, deren schloßartige, wie schon erwähnt renovierte Radschaburg nebst Riesenpark keine zehn Minuten entfernt war. Bangsey wollte uns an einer Seitenpforte der Parkmauer erwarten. Am Morgen wollte Harald dann – die Dienerschaft der Bangseys sollte zuverlässig sein – mit Mofler die Räume des Schlosses in Augenschein nehmen. Die von der Französin und Ellinor bewohnten Zimmer waren in genau demselben Zustande belassen worden.
 
@@ -802,7 +802,7 @@ Harst feuerte zwei Mal vom Fuße der Treppe aus.
 
 Zwei menschliche Bestien waren ausgelöscht.
 
-Wir banden Frau Molly los; Harald lieh ihr seine Leinenjacke. Es war nötig. Die Schufte hatten[10] ihr die Kleider vom Leibe gerissen. –
+Wir banden Frau Molly los; Harald lieh ihr seine Leinenjacke. Es war nötig. Die Schufte hatten ihr die Kleider vom Leibe gerissen. –
 
 In diesem Gewölbe waren auch die Diener, die Französin und das arme, schöne Kind verscharrt worden. Die Leichen wurden noch an demselben Abend ausgegraben. –
 

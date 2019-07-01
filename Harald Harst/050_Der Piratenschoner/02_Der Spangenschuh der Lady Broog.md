@@ -215,13 +215,13 @@ Vor Harsts ernstem Blick verstummte er.
 „Wir haben Grund, die Atlanta zu verlassen,“ erklärte Harald noch immer etwas
 geistesabwesend. „Hier steht mit Bleistift geschrieben:
 
-„Sie werden um 1/48 umkehren!“
+„Sie werden um 1/4 8 umkehren!“
 
 Es ist dies die Mitteilung Lady Broogs an mich. Und Britton sprach von einer
 Unpäßlichkeit Albemarles. Und – dort hinten kommt Albemarles Jacht in voller
 Fahrt auf uns zu. Es ist etwas passiert in Madras, Mylord. Und daß etwas
 passieren würde, wußte Lady Broog. Sie wußte auch, daß dieses Etwas mich
-bestimmen würde, um 1/48 umzukehren –“
+bestimmen würde, um 1/4 8 umzukehren –“
 
 Er hatte seine Uhr gezogen.
 
@@ -242,7 +242,7 @@ exzentrische Lady Broog. Ich traue ihr alles Schlechte zu.“
 Der Lord nickte. „Ganz einverstanden. Zunächst aber müssen wir abwarten, ob
 Master Harsts Voraussage eintrifft. Ich kann an diesen Zusammenhang nicht recht
 glauben. Wenn etwas in Madras passiert ist – etwas, also doch wohl ein
-Verbrechen! – und wenn Lady Broog dieses vorherwußte, dann – dann kann sie
+Verbrechen! – und wenn Lady Broog dieses vorher wußte, dann – dann kann sie
 selbst an diesem Verbrechen beteiligt sein, mehr noch, – sie muß dabei die Hand
 mit im Spiel gehabt haben. Wäre dem so, dann müßte man sie anderseits für
 geistig nicht ganz normal halten, da sie ja ihren gefährlichsten Verfolger,
@@ -458,7 +458,7 @@ Master Harst?“
 „Inzwischen hat mir Britton von dem anderen Schuh erzählt,“ meinte Marlan
 eifrig. „Von dem Silhouettenschuh und von der Aufschrift. Es ist ganz klar:
 Lady Broog ist die Mörderin! – Sie wußte von diesem Verbrechen. Daher konnte
-sie Ihnen auch die Silhouette mit der Mitteilung zusenden, daß Sie um 1/48
+sie Ihnen auch die Silhouette mit der Mitteilung zusenden, daß Sie um 1/4 8
 umkehren würden. Den Schuh hat sie absichtlich zurückgelassen. Sie will uns
 dadurch verhöhnen, will von vornherein zeigen: „Ich bin die Mörderin! Nun sucht
 mich!“ – Wir haben es hier eben mit der tollen Lady zu tun!“
@@ -639,7 +639,7 @@ genau, wo die Diamanten in diesem Seidenbett ihre Plätze gehabt hatten.
 
 Harst trat mit dem Kasten ans Fenster und hielt ihn schräg gegen das Licht.
 
-„Nein – es find keine Fingerabdrücke darauf,“ meinte er. Dann legte er ihn
+„Nein – es sind keine Fingerabdrücke darauf,“ meinte er. Dann legte er ihn
 wieder in das Versteck zurück.
 
 „Schweigen Sie hiervon, Britton,“ sagte er ernst. „Sie merken nun wohl: Marlan
@@ -723,7 +723,7 @@ Ich zuckte zusammen. – Mylady! Etwa Anna Broog?!
 loben. Auch die Stimme verstellen Sie besser als in der Rolle des Master
 Goorb.“
 
-Der angebliche Troobler hatte plötzlich unter einer Zeilung vom Schreibtisch
+Der angebliche Troobler hatte plötzlich unter einer Zeitung vom Schreibtisch
 eine Pistole hervorgerissen.
 
 „Sitzen Sie still!“ rief jetzt Lady Broog mit ihrer hellen Frauenstimme. „Diese
@@ -768,7 +768,7 @@ zu einfach!“
 
 „Diamanten?!“ – Man merkte, daß Lady Broog von den Steinen keine Ahnung hatte.
 
-„Ach so – meinte sie dann schnell. „Die Diamanten! Die sind für mich sehr
+„Ach so –“ meinte sie dann schnell. „Die Diamanten! Die sind für mich sehr
 nebensächlich.“
 
 Harald lachte jetzt ehrlich erheitert und sagte darauf kopfschüttelnd:
@@ -1245,7 +1245,7 @@ worden, und wahrscheinlich ist irgend wie etwas Schmutz an den Spazierstock
 gespritzt. Daß die Stiche von keinem Schlangenbiß herrührten, sah ich sofort.
 Sie lagen viel zu weit auseinander. Die Giftzähne einer ausgewachsenen Kobra,
 der größten Giftschlange Indiens, liegen allerhöchstens 2 Zentimeter
-auseinander. Die Stiche im Oberarm des Lords hatten einen Zwischenraum von 21/2
+auseinander. Die Stiche im Oberarm des Lords hatten einen Zwischenraum von 2 1/2
 Zentimeter. – Ich fand das Geheimfach im Rauchtisch, weil Sie aus Unachtsamkeit
 ein Blättchen Zigarettenpapier in die Verschlußplatte eingeklemmt hatten, als
 Sie die Diamanten aus dem Zimmer holten, in dem der tote Lord saß. Er hatte zu

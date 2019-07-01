@@ -21,7 +21,7 @@ sind. Sie tragen die Titel:
 <tr><td>&nbsp;„</td><td>35:</td><td>Fünf Finger am Fenster.</td></tr>
 </table>
 
-In den vorstehenden Bänden werden einen Anzahl der besten und spannendsten
+In den vorstehenden Bänden werden eine Anzahl der besten und spannendsten
 Abenteuer Harald Harsts veröffentlicht. Wir können die Freunde unserer
 „Detektiv“-Erzählungen nur raten, sich diese Bände zu besorgen. Preis des 96
 Seiten starken Bandes nur 40 Pfennige.
@@ -31,5 +31,4 @@ zu beziehen, bei Voreinsendung des Betrages (zuzüglich 5 Pfg. für Porto)
 liefert dieselben auch der
 
 __Verlag moderner Lektüre G.m.b.H., Berlin 26, Elisabethufer 44.__
-
 

@@ -164,7 +164,7 @@ Die Inderin war ein sehr kleines, mageres Weibchen von etwa 45 Jahren. Sie trug 
 
 Ich hatte die Tür hinter uns geschlossen. Erverlyn und ich blieben dicht daneben stehen und lehnten uns an die Türpfosten. Harald setzte sich daneben auf einen Schemel und ließ seine Augen bedächtig durch das Zimmer gleiten.
 
-Es war dies ein großer, zweifenstriger Raum mit weißen, modernen Lackmöbeln. Die Wände waren mit einer geblümten, hellen Tapete bekleidet. Die Decke war aus Holz und mit einigen Schnitzereien in den Feldern der Täfelung[11] versehen. Von der Mitte der Decke hing eine dreiarmige elektrische Zugkrone herab.
+Es war dies ein großer, zweifenstriger Raum mit weißen, modernen Lackmöbeln. Die Wände waren mit einer geblümten, hellen Tapete bekleidet. Die Decke war aus Holz und mit einigen Schnitzereien in den Feldern der Täfelung versehen. Von der Mitte der Decke hing eine dreiarmige elektrische Zugkrone herab.
 
 Der Haken, an dem die Tote in der Schlinge gefunden worden war, stak etwa zweieinhalb Meter über dem Fußboden zwischen einem einfachen Frisiertisch und einem Schrank in der Tapete.
 
@@ -250,7 +250,7 @@ Dann kamen die letztwilligen Verfügungen der Toten. Ihre Ersparnisse vermachte 
 
 Weiter stand in dem englisch abgefaßten Testament:
 
-„Ich wünsche, daß meine Leiche in dem großen Koffer, den meine Herrin mir vor fünf Jahren schenkte und der in meiner Bodenstube steht, in dem Garten der Dabla Schir-Moschee beerdigt wird.“
+> „Ich wünsche, daß meine Leiche in dem großen Koffer, den meine Herrin mir vor fünf Jahren schenkte und der in meiner Bodenstube steht, in dem Garten der Dabla Schir-Moschee beerdigt wird.“
 
 Als Frau Bangsey dies gelesen hatte, rief sie:
 
@@ -258,7 +258,7 @@ Als Frau Bangsey dies gelesen hatte, rief sie:
 
 Sie las weiter:
 
-„Die Unkosten sind von meinen Ersparnissen zu bezahlen. Der Koffer ist außen mit weißer Seide zu benageln. Man soll mich so beerdigen, wie ich gestorben bin, mir nicht etwa andere Kleider anziehen. In diesen Sarg, der ein Andenken an meine liebe Herrin ist, soll man mir das große Bild meiner Herrin mitgeben, das in meinem Zimmer hängt. Man lege das Bild als Kopfstütze hinein und zwar die Bildseite nach oben –“
+> „Die Unkosten sind von meinen Ersparnissen zu bezahlen. Der Koffer ist außen mit weißer Seide zu benageln. Man soll mich so beerdigen, wie ich gestorben bin, mir nicht etwa andere Kleider anziehen. In diesen Sarg, der ein Andenken an meine liebe Herrin ist, soll man mir das große Bild meiner Herrin mitgeben, das in meinem Zimmer hängt. Man lege das Bild als Kopfstütze hinein und zwar die Bildseite nach oben –“
 
 Alles in allem war dies das Testament einer fraglos recht schrullenhaften, aber ebenso anhänglichen Person.
 
@@ -268,7 +268,7 @@ Zwei Diener mußten den Koffer sofort nach unten in einen leeren Kellerraum scha
 
 Frau Bangsey befahl, daß dieser Keller durch Blattpflanzen und Blumen entsprechend geschmückt würde. Dhura Sing erbot sich, den Koffer sofort außen mit Seide zu benageln. –
 
-Harald, Erverlyn und ich hatten unseren gemeinsamen Wohnsalon im Ostflügel des Schlosses aufgesucht. Dieser Tag war wohl der heißeste, den ich in Indien erlebt habe. Bis 11 Uhr vormittags war der Himmel bedeckt gewesen. Als er sich aufgeklärt hatte, drehte auch gleichzeitig der Wind nach Nord und brachte die Glutwellen aus Zentralindien herüber. Mittlerweile war es 2 Uhr geworden. Wir saßen bei fest geschlossenen Fenstern und Jalousien nur in Beinkleidern und Sporthemden in den Rohrsesseln, regten uns kaum und dösten vor uns hin. Die Ventilatoren saugten aus den tiefsten Kellern die kühle Luft ins[12] Zimmer, surrten ununterbrochen. Aber was sollte das gegenüber einer Hitze von 35 Grad im Schatten?! Was half das?! Nichts natürlich.
+Harald, Erverlyn und ich hatten unseren gemeinsamen Wohnsalon im Ostflügel des Schlosses aufgesucht. Dieser Tag war wohl der heißeste, den ich in Indien erlebt habe. Bis 11 Uhr vormittags war der Himmel bedeckt gewesen. Als er sich aufgeklärt hatte, drehte auch gleichzeitig der Wind nach Nord und brachte die Glutwellen aus Zentralindien herüber. Mittlerweile war es 2 Uhr geworden. Wir saßen bei fest geschlossenen Fenstern und Jalousien nur in Beinkleidern und Sporthemden in den Rohrsesseln, regten uns kaum und dösten vor uns hin. Die Ventilatoren saugten aus den tiefsten Kellern die kühle Luft ins Zimmer, surrten ununterbrochen. Aber was sollte das gegenüber einer Hitze von 35 Grad im Schatten?! Was half das?! Nichts natürlich.
 
 Der Lord raffte sich plötzlich zu ein paar Sätzen auf.
 
@@ -582,7 +582,7 @@ Dann brachte Mofler uns in die Laube. Es war ein Pavillon aus Holz, von Schlingp
 
 Ich bog den Kopf zurück. Mofler schob mir erst am rechten Auge die Lider auseinander. Ich fühlte, wie ein Tropfen auf die Pupille fiel – noch einer – noch einer. Es brannte. Ich kniff das Auge zu. – Und das andere kam heran. Derselbe brennende Schmerz. Nach Sekunden ein überreicher Tränenerguß.
 
-Und – als ich die Lider nach einer[13] Weile auftat, da sah ich wie durch dichten Nebel vor mir eine Gestalt: Mofler. –
+Und – als ich die Lider nach einer Weile auftat, da sah ich wie durch dichten Nebel vor mir eine Gestalt: Mofler. –
 
 Nach einer Viertelstunde ein zweites Augenbad mit dem Safte des bekannten Giftpilzes, des farbenprächtigsten, den es überhaupt gibt.
 
@@ -670,7 +670,7 @@ Wir konnten aus unserem Versteck alles ganz genau überblicken. – Auf der Trep
 
 Dann erschienen vier Diener mit dem unter Blumen völlig verschwindenden Koffersarge, stellten ihn auf den Wagen.
 
-Hinter dem Wagen ordnete sich die beurlaubte Dienerschaft, die der Toten bis zur Moschee im Eingeborenenviertel das Geleit geben wollte. Dicht hinter dem Sarge ging Frau Molly mit Mofler[14]. Erverlyn und Chester schritten als letzte daher.
+Hinter dem Wagen ordnete sich die beurlaubte Dienerschaft, die der Toten bis zur Moschee im Eingeborenenviertel das Geleit geben wollte. Dicht hinter dem Sarge ging Frau Molly mit Mofler. Erverlyn und Chester schritten als letzte daher.
 
 So kam der Zug die Allee entlang dem Parktore zu. Der Torwächter hatte die schmiedeeisernen Flügel geöffnet. Die Neugierigen draußen drängten näher.
 
@@ -755,7 +755,7 @@ Er sprang herab. „Mr. Chester, Lord Erverlyn, – begleiten Sie uns bitte –�
 
 Wir gingen in das Schloß zurück, gingen nach oben in Scheritas Zimmer. Harald schaltete das Licht ein.
 
-„Der Selbstmord ist ein Mord,“ sagte er kurz. „Die Mörder sind durch eine ähnliche Öffnung in der Decke hier eingedrungen, wie es die ist, zu der wir mit Hilfe der Pyramide emporstiegen. An dieser Stelle des Bastteppichs fand ich einen langen, verstaubten Spinnwebfaden. Und dieser Spinnwebfaden mußte von oben, von der Decke, herabgefallen sein, konnte aber erst kurze Zeit auf dem Teppich liegen, sonst wäre er bei der Zimmerreinigung weggefegt worden. Neben diesem Spinnwebfaden aber bemerkte ich auf dem Teppich noch den grauem kleinen Kokon irgend eines Falters. Auch dieser Kokon, dieses Nestlein für die junge Brut mußte mit demselben Spinnwebfaden von der Decke herabgefallen sein, aber – der Kokon fraglos aus einer Ritze, einer Spalte. So, meine Herren, fand ich in Gedanken den Weg, den die Mörder benutzt hatten, um in dieses verschlossene Zimmer zu gelangen. – Der Mord selbst ist so geschehen: von oben aus der Deckenöffnung wurde Scherita eine andere Schlinge um den Hals geworfen, als sie unter dem Loche stand. Dann rissen die Mörder sie hoch. Scherita starb jedenfalls nicht durch die Schlinge, die sie um den Hals hatte, als man die Tür hier aufsprengte. Den anderen Strick haben die Männer ihr nachher umgelegt. Er ist nämlich für die Strangulationsmarke, den Eindruck in der Haut des Halses, zu dick. – Ich will diese Erklärungen nicht zu lange ausdehnen. Jedenfalls: Scherita starb, mußte sterben, weil Dhura Sing und Bangsey[15] beabsichtigten, letzteren mit Hilfe des Sarges aus dem Schlosse zu schaffen.“
+„Der Selbstmord ist ein Mord,“ sagte er kurz. „Die Mörder sind durch eine ähnliche Öffnung in der Decke hier eingedrungen, wie es die ist, zu der wir mit Hilfe der Pyramide emporstiegen. An dieser Stelle des Bastteppichs fand ich einen langen, verstaubten Spinnwebfaden. Und dieser Spinnwebfaden mußte von oben, von der Decke, herabgefallen sein, konnte aber erst kurze Zeit auf dem Teppich liegen, sonst wäre er bei der Zimmerreinigung weggefegt worden. Neben diesem Spinnwebfaden aber bemerkte ich auf dem Teppich noch den grauem kleinen Kokon irgend eines Falters. Auch dieser Kokon, dieses Nestlein für die junge Brut mußte mit demselben Spinnwebfaden von der Decke herabgefallen sein, aber – der Kokon fraglos aus einer Ritze, einer Spalte. So, meine Herren, fand ich in Gedanken den Weg, den die Mörder benutzt hatten, um in dieses verschlossene Zimmer zu gelangen. – Der Mord selbst ist so geschehen: von oben aus der Deckenöffnung wurde Scherita eine andere Schlinge um den Hals geworfen, als sie unter dem Loche stand. Dann rissen die Mörder sie hoch. Scherita starb jedenfalls nicht durch die Schlinge, die sie um den Hals hatte, als man die Tür hier aufsprengte. Den anderen Strick haben die Männer ihr nachher umgelegt. Er ist nämlich für die Strangulationsmarke, den Eindruck in der Haut des Halses, zu dick. – Ich will diese Erklärungen nicht zu lange ausdehnen. Jedenfalls: Scherita starb, mußte sterben, weil Dhura Sing und Bangsey beabsichtigten, letzteren mit Hilfe des Sarges aus dem Schlosse zu schaffen.“
 
 Chester schüttelte den Kopf. „Sehr schön. – Der Sarg ist aber jetzt leer, Mr. Harst.“
 
