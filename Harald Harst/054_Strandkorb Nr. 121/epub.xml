@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">2cda17ee-9f68-11e9-9b67-835c8918f881</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Strandkorb Nr. 121</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">54</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Strandkorb Nr. 121
+
+Harald Harst und ich gingen im Gemüsegarten des Harstschen Hause in Berlin-Schmargendorf auf und ab. Frau Auguste Harst, mit einer großen Leinenhaube auf dem weißen Kopf, stach Spargel. — Nach unseren letzten größeren Abenteuer mit unserer Feindin Daisy O’Brien, die uns von Belutschistan aus hartnäckig gefolgt war, hatte Harald nur drei geringere Probleme erledigt, die zu alltäglich sind, um sie hier zu schildern.  Wir hatten also sozusagen volle drei Wochen ohne jede ernstere Aufregung zugebracht, und ich merkte Harald bereits an, daß er sich zu langweilen anfing.  Seine Mutter war überglücklich, daß wir nun fast wie harmlose Rentiers lebten. Unser chinesischer Diener Tscho, auf den der Leser sich aus dem vorigen Band »Auf des Messers Schneide« noch besinnen wird, war inzwischen von dem Dolchstich Mistreß O’Briens völlig wiederhergestellt und hatte sich beinahe ein dem meinen ähnliches Bäuchlein angepirscht.
+
+Es war heute der dritte Mai. Der Vormittag war prächtig, — warm, windstill und erfüllt von Lenzesfrohsinn.  Nur Harald hatte seinen schlechten Tag. Ich fragte ihn jetzt schon zum dritten Male, worüber er eigentlich nachgrübelte. — Er blieb stehen und schaute seiner Mutter zu, die den Spargelkorb bereits halb gefüllt hatte.
+
+»Es liegt etwas in der Luft,« erwiderte er leise.  »Wenn ich nur wüßte, was, mein Alter. Die Anzeige fand ich heute morgen abermals in der Zeitung. Sie steht jetzt zum fünften Male darin, immer derselbe Wortlaut, der geradezu sinnlos erscheint.«
+
+Die gestohlene Krone
+
+Wir fühlten uns im Hotel Meeresstern so sehr behaglich, das Wetter war auch so prächtig, daß wir noch eine Woche bei »Papa Vahlen«, wie wir ihn jetzt gemütlich nannten, zu bleiben beschlossen.
+
+Dieser Badeaufenthalt hatte für uns nur das eine unangenehme an sich, daß wir damit rechnen mußten, früher oder später von Daisy O’Brien wieder mit irgend einem kleinen Attentat beglückt zu werden.
+
+»Dieses Bewußtsein,« sagte Harald am fünften Tage, als wir in der Sonne am Strande uns braun brennen ließen, »ist die Würze dieser Faulenzerei, mein Alter. Wir würden ja ohne diesen pendelnden Reiz beständiger Gefahr bald wie übersättigte Salonmenschen vor Langeweile gähnen.«
+
+Er hatte die Swinemünder Zeitung vor sich ausgebreitet, tippte nun auf einen Artikel und fuhr fort:
+
+»Wie wär’s übrigens, wenn wir die gestohlene Krone dem Diebe oder den Dieben wieder abjagten?«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (054) Strandkorb Nr. 121.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
