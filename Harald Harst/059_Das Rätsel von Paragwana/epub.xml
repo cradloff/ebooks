@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">dd50d79a-b6f9-11e9-89f0-830658b17217</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Rätsel von Paragwana</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">59</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Rätsel von Paragwana
+
+Benares oder Waranasi, die heiligste Stadt Indiens, am linken Ufer des heiligen Ganges gelegen, beherbergte den furchtbarsten aller Gäste: die Pest!
+
+Wer von Europäern und den zahlreichen wohlhabenden Indern irgendwie die Stadt verlassen konnte, floh nach Norden in die Vorberge des Himalaya-Gebirges, dessen kühle Täler der Würgeengel zu meiden pflegte.
+
+Trotz dieser Massenflucht und obwohl alle Touristen jetzt Benares ängstlich mieden, ankerte im Ganges etwas außerhalb der Stadt unweit der großen Eisenbahnbrücke eine weiße Motorjacht mit zwei Masten, die vor zwei Tagen von Kalkutta stromaufwärts gekommen war.
+
+Zu beiden Seiten ihres scharfen Bugs leuchtete in vergoldeten Buchstaben der Name Atlanta. Sie gehörte dem Engländer Bansy, der gleichzeitig ihr Kapitän war und der sie jetzt seit Monaten an den Liebhaberdetektiv Harald Harst vermietet hatte. —
+
+Ein Ball beim Maharadscha von Bukar.
+
+Nachdem Bansy uns mit dem Beiboot zu der Eisenbahnbrücke gelandet halte, begaben wir uns nach dem Bahnhof und setzten uns in einen Winkel der offenen Wartehalle.
+
+Harald hatte sich unterwegs verschiedene Male umgeschaut, hatte mir aber erklärt, er bemerke nichts Verdächtiges.  Trotzdem wurde ich das Gefühl nicht los, daß uns jemand nachgeschlichen sei, obgleich ich mir nicht recht denken konnte, wie ein Spion uns von der Jacht bis zur Eisenbahnbrücke gefolgt sein könnte, da er dann gerade in einem Boot in der Nähe aufgepaßt haben mußte. Und ein Boot war dem unseren bestimmt nicht gefolgt.
+
+»Versuche zu schlafen,« meinte Harald leise, indem er ausnahmsweise sich eine Zigarre anzündete. Er selbst wollte also wach bleiben.
+
+»Du wirst mithin nicht schlafen,« flüsterte ich. »Weil Du Argwohn geschöpft hast! Sei doch ehrlich: es war jemand hinter uns her!«
+
+Er schwieg. — Es ging auf dem Bahnhof trotz der Nachtstunde sehr lebhaft zu. Auch in der Wartehalle wechselten die Ruhebedürftigen häufig.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (059) Das Rätsel von Paragwana.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
