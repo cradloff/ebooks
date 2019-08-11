@@ -83,7 +83,7 @@ Kromer unterbrach sie ungeduldig, »Ihr Mann war
 ein mehrfacher Mörder und wäre bestimmt hingerichtet
 worden,« rief er scharf und unfreundlich. »Master Harst
 hat der Gerechtigkeit einen großen Dienst erwiesen. Sie
-sollten froh fein, das nicht gegen Sie eine Untersuchung
+sollten froh sein, das nicht gegen Sie eine Untersuchung
 eingeleitet wird wegen Beihilfe zu all den Verbrechen.«
 
 »Thomas war krank,« entgegnete sie ebenso leise.
@@ -241,7 +241,7 @@ wir würden nun in den Garten gehen.
 
 Hier lehnte die Leiter, die die nächtlichen Gäste offenbar
 benutzt hatten, an einer kleinen Bretterbude unweit
-der Rückfront des Hauses. In
+der Rückfront des Hauses.
 
 Auch diese Leiter besichtigte Harst mit einem Interesse,
 als wäre es ein Kuriosum. — Kromer stellte sich
@@ -269,7 +269,7 @@ gestellt hatte.
 
 <h2>2. Kapitel.</h2>
 
-<h3>Der Wracks Zweimaster.</h3>
+<h3>Der wracke Zweimaster.</h3>
 
 Tscho trottete in respektvoller Entfernung hinterdrein.
 
@@ -536,7 +536,7 @@ Augen.«
 
 Jetzt mischte sich der erste Offizier Mr. Blanley ein.
 
-»Sie haben ganz recht Master Harst,« meinte er
+»Sie haben ganz recht Master Harst,« meinte er.
 <@pagebreak/>
 »Irgend was stimmte da nicht. Das Fahrzeug hätte
 auch ohne uns sich bis unter Land forthelfen können.
@@ -818,7 +818,7 @@ Mauer, die sich erst tief unter uns zu steilen Abhängen
 ausdehnte. Haralds ironische und doch so hoffnungsvolle
 Worte machten daher auch wenig Eindruck auf
 mich. Ich hielt unser Schicksal für besiegelt. Wer sollte
-uns hier beistehen?! Wie sollen wir, an Händen und
+uns hier beistehen?! Wie sollten wir, an Händen und
 Füßen brutal gefesselt und dazu noch durch das starke
 Tau langgereckt und am Boden festgehalten, uns wohl
 aus eigener Kraft befreien, zumal die Glut der Sonnenstrahlen
@@ -939,7 +939,7 @@ aller Lungenkraft:
 »Du zerschießt das Tau, Harald, — Du —«
 
 Der dritte Schuß schnitt mir den Satz entzwei. Und
-Harald rief;
+Harald rief:
 
 »Achtung!« — Ein starker Ruck, und das bis dahin
 straffe Seil lag schlaff auf meinem Leibe. —
@@ -1082,7 +1082,7 @@ Menschenseele.
 
 Dann kehrten wir in die Achterkajüte zurück. Hier
 stand ein Schrank, dessen Türen die Beduinen erbrochen
-hatten. Davor lauen Papiere umhergestreut.
+hatten. Davor lagen Papiere umhergestreut.
 
 Harald hob einige auf.
 
@@ -1159,7 +1159,7 @@ Weib noch immer ganz entgeistert anstarrte.
 
 Dann nickte ich. »Gut, wenn Harst es wünscht!«
 
-Sie stecke den Revolver in die Tasche. Sie trug
+Sie steckte den Revolver in die Tasche. Sie trug
 noch denselben Anzug wie vorhin.
 
 »Ich weiß, ich habe es mit Gentlemen zu tun,«
@@ -1337,7 +1337,7 @@ Ich wußte noch immer nicht, worum es sich hier
 handelte.
 
 Nach vielleicht zehn Minuten tauchte vom Achterschiff
-her, wo der zweite Zugang vor, ein rötlicher Lichtschein
+her, wo der zweite Zugang war, ein rötlicher Lichtschein
 auf.
 
 Es war Daisy O’Brien mit einer Laterne.

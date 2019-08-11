@@ -239,7 +239,7 @@ nur die Haut geritzt?« fragte Harald.
 »An Rippe lang — tiefer Schnitt,« nickte Tscho.
 »Habe keine Schmerzen nur viel Blut gehen futsch.«
 
-»Na, den Schnitt naht Dir der Hausarzt meiner
+»Na, den Schnitt näht Dir der Hausarzt meiner
 Mutter bald zusammen,« tröstete Harst. »Ich will Dir
 nun auch eine kleine Ueberraschung bereiten: der Pappkarton
 mit den antiken Krügen und Tellern ist von
@@ -326,7 +326,7 @@ Haberland die Wunde sah, meinte er staunend:
 aus, ohne sofort auf der Nase zu liegen.«
 
 Tscho wurde in dem Zimmer neben meinem Schlafzimmer
-auf der recken Seite des Flurs im Erdgeschoß
+auf der rechten Seite des Flurs im Erdgeschoß
 untergebracht.
 
 Erst gegen drei Uhr nachmittags setzten wir uns
@@ -389,7 +389,7 @@ dann unsere Warnung. Er bekam aber erst nach einer
 Viertelstunde Anschluß mit dem Präsidium. Ich
 fuhr sogleich zu ihm und von da mit zwei weiteren
 Beamten nach der Müllerstraße 191, wo Doktor Weng
-wohnen sollte. Er haust da in einer allen Baracke ganz
+wohnen sollte. Er haust da in einer alten Baracke ganz
 allein. Sie werden die Gegend dort oben im Norden
 Berlins ja kennen, Herr Harst. Es gibt da noch genug
 unbebaute Parzellen und Gebäude, die über hundert
@@ -436,7 +436,7 @@ Weng den Chinesen zu ermorden beabsichtigte, um Gelegenheit
 zu dem Diebstahl zu finden. — Ja, Stettenborn
 ist noch auf dem Präsidium. Er vernimmt Zeugen
 in der Sache des Zopfabschneiders der Müllerstraße.«
-Der chtmeister lächelte. »Klingt wie’n
+Der Wachtmeister lächelte. »Klingt wie’n
 Kintoppstück-Titel, dies »Zopfabschneider der Müllerstraße«,
 Herr Harst. Ist aber Tatsache. Seit acht
 Wochen treibt da ein Kerl im Norden Berlins, hauptsächlich
@@ -545,7 +545,7 @@ Koffer bis zur Elektrischen getragen.<<
 
 »Kennen Sie den Namen der Frau?«
 
->>Nein. Aber sie sagte, ihr Mann sei Zahntechniker
+»Nein. Aber sie sagte, ihr Mann sei Zahntechniker
 und sie wohne in der Charlottenstraße.«
 
 Stettenborn mischte sich ein. »Diese Frau hat
@@ -701,7 +701,7 @@ die Nesseln zu setzen.«
 Ein Dienstauto brachte uns nach Müllerstraße 191.
 — Das einstöckige Häuschen lag in einem verwilderten
 Garten hinter Fliedersträuchern und einer Dornenhecke.
-Rechts und links befanden sich Neubauten,
+Rechts und links befanden sich Neubauten.
 
 Weng hatte während der Fahrt kein Wort gesprochen.
 Aber sein Gesicht glänzte vor Schweiß, und
@@ -742,7 +742,7 @@ später prüfen, wenn ich mit Schraut aus Dänemark
 zurückgekehrt bin. Ich muß heute abend noch abreisen,
 was ich sehr bedauere. Ihre Person interessiert mich,
 Herr Doktor Weng. Ich hoffe, Sie werden mir später
-freiwillig sagen, aus weitem Grunde Sie uns derart
+freiwillig sagen, aus welchem Grunde Sie uns derart
 zu täuschen versuchten. — Noch eine Frage: haben Sie
 einen Bruder, der Ihnen ähnlich sieht?«
 
@@ -808,7 +808,7 @@ auch beweisen können.«
 
 »Daraus werde der Teufel klug!« rief Stettenborn
 <@pagebreak/>
-temperamentvoll. »jetzt sagen Sie wieder, er ist schuldig?!
+temperamentvoll. »Jetzt sagen Sie wieder, er ist schuldig?!
 Sie meinen natürlich den Diebstahl!«
 
 »Vielleicht —«
@@ -819,7 +819,7 @@ Wir stiegen aus, und das Auto rollte davon.
 ist ein gerissener Kunde. Man muß vorsichtig sein!«
 
 »Tu mir einen Gefallen und erkläre mir, was dies
-alles eigentlich bedeutet?!« bat ich eindringlich, »Stettenborn
+alles eigentlich bedeutet?!« bat ich eindringlich. »Stettenborn
 hat ganz recht: aus alledem wird kein Mensch
 klug!«
 
@@ -898,8 +898,8 @@ konnten.
 
 <@pagebreak/>
 
-4. Kapitel.
-In Wengs Studierzimmer.
+<h2>4. Kapitel.</h2>
+<h3>In Wengs Studierzimmer.</h3>
 
 Hier in Wengs Garten war es unter den Bäumen
 noch dunkler. Wir stießen auf eine Art Fliederlaube,
@@ -1098,7 +1098,7 @@ Weng seufzte leise und zuckte die Achseln.
 
 »Ich will Ihnen das Geständnis erleichtern,«
 meinte Harst. »Zunächst also Hamburg. — Sie sind
-Antiquitätensammler. Sie hörten von der groben Auktion
+Antiquitätensammler. Sie hörten von der großen Auktion
 in Hamburg und fuhren hin, um vielleicht etwas
 zu erwerben, wenn es billig war. Denn Sie sind nicht
 reich. Sie müssen mit dem Pfennig rechnen, zumal Sie
@@ -1253,7 +1253,7 @@ leer sah, war völlig echt. Er hatte gehofft, daß, wenn
 die Polizei das Geld beschlagnahmte, nicht weiter bei
 ihm genauer alles durchsucht würde. Und diese Hoffnung
 war nun vernichtet. Da kam ich ihm zu Hilfe und
-erreichte, seine Freilassung. Er blieb hier. Aber — er
+erreichte seine Freilassung. Er blieb hier. Aber — er
 blieb nicht lange allein. Ein Mann im Radmantel
 erschien. Weng war gerade dabei, das zu verbrennen,
 was ihn schwer bloßstellen konnte, nämlich jene Päckchen
