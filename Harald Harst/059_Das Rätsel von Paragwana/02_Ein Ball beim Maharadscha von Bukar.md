@@ -4,7 +4,7 @@
 <h3>Samuel Casprill.</h3>
 
 Nachdem Bansy uns mit dem Beiboot zu der Eisenbahnbrücke
-gelandet halte, begaben wir uns nach dem
+gelandet hatte, begaben wir uns nach dem
 Bahnhof und setzten uns in einen Winkel der offenen
 Wartehalle.
 
@@ -132,7 +132,7 @@ waren harmlos. Nur das Weib und der angeblich blinde
 Alte nicht. Das Weib heuchelt nur Teilnahmlosigkeit gegenüber
 den Menschen, die hier auf den Bänken sitzen, und
 der Alte ist nicht blind, wie mir zwei Handbewegungen bewiesen.
-Beide sind Lingaiten, die der Eingeborenenstaat
+Beide sind Lingaiten, der Eingeborenenstaat
 Bukar zählt viele Lingaiten unter seinen Bewohnern, noch
 mehr die gleichnamige Hauptstadt. Und in dieser Hauptstadt,
 lieber Alter, liegt der Kern des Rätsels von Paragwana
@@ -204,7 +204,7 @@ wir uns sicherer zu fühlen begannen,
 
 »Ja. Ich folgte Dir, weil ich schon ahnte, daß doch
 das Weib die »richtige« gewesen. Sie hatte nämlich so
-kleine Fuße in den offenen Sandalen, wie keine Inderin sie
+kleine Füße in den offenen Sandalen, wie keine Inderin sie
 besitzt, sozusagen überzüchtete Füße. Ich bemerkte das erst,
 als sie um die Ecke der Halle bog. Und dann sah ich Dich
 nach ihr Ausschau halten, lief schnell von der anderen Seite
@@ -506,7 +506,7 @@ würden.«
 
 Er holte aus seinem Riesenpompadour die illustrierte
 indische Zeitschrift »India-Basar« hervor, schlug sie auf und
-zeigte aus eine Illustration, auf eine Gruppenaufnahme,
+zeigte auf eine Illustration, auf eine Gruppenaufnahme,
 unter der gedruckt stand:
 
 > Feier der Silberhochzeit des Inhabers der Weltfirma
@@ -600,7 +600,7 @@ Samuel auch unverrichteter Sache nach Bombay abdampfen
 mußte.
 
 Dieser Verdacht ist folgender, Master Harst. Ich glaube,
-daß Honoria Billham mit Ihnen im Benares ein falsches
+daß Honoria Billham mit Ihnen in Benares ein falsches
 <@pagebreak/>
 Spiel getrieben hat und daß sie Ihren Freund und Sie
 absichtlich nach der Ruine gelockt hat, daß Honoria Billham
@@ -692,7 +692,7 @@ Ich behaupte, sie wird Ihr ererbtes Vermögen verschwendet
 haben.«
 
 <@pagebreak/>
-»Aber sie besaß, doch noch die Diamanten, die Saalborg
+»Aber sie besaß doch noch die Diamanten, die Saalborg
 ihr aus dem Koffer stahl.«
 
 »Hm — ob dies nicht vielleicht die Diamanten waren,
@@ -715,7 +715,7 @@ Aber — sie glaubte eben ganz bestimmt, wir seien tot.«
 »Und die Büchse? Was verriet sie Dir?«
 
 »Daß die darin steckende Revolverkugel niemals dieses
-Büchschen getroffen bat, als es in der linken Brusttasche
+Büchschen getroffen hat, als es in der linken Brusttasche
 der Sportjacke Honorias sich befand — niemals! Ich werde
 Dir das nachher auf der Atlanta näher erklären — an dem
 Büchschen selbst.«
@@ -743,7 +743,7 @@ wir wieder Harst und Schraut.« —
 
 <@pagebreak/>
 Lord Drybane erledigte die Sache telephonisch, sprach
-mit dem Fürsten persönlich, der dann Harst zu den Apparat
+mit dem Fürsten persönlich, der dann Harst an den Apparat
 bat und ihm erklärte, wir seien ihm herzlich willkommen.
 Er würde so tun, als hätte der Lord ihn auf den
 Gedanken gebracht, durch den wiedererstandenen Harst das
@@ -807,7 +807,7 @@ Auf fünf Schritt Entfernung jagte Harst dann eine
 Kugel mitten in die Schachtel.
 
 Die Nägel wurden entfernt. — Harald zeigte uns die
-Schachtel nun, wies aus die Spuren hin, die die Nägelköpfe
+Schachtel nun, wies auf die Spuren hin, die die Nägelköpfe
 am Deckelrande zurückgelassen hatten, und auf den
 ausgebeulten Schachtelboden mit den feinen, strahlenkranzartigen
 Rissen. — Die Kugel hatte hier also genau dieselben
@@ -1053,7 +1053,7 @@ zusammenballte.
 
 Dann tauchte hinter vom Altar ein alter Inder mit
 weißem, langen Bart auf. Er war bis zu den Hüften
-nacht. Um die Beine und die Lenden hatte er wie einen
+nackt. Um die Beine und die Lenden hatte er wie einen
 Rock blaue und gelbe Seide geschlungen. Unter dem Kopftuch
 war auf der Stirn das bunte Mal der Lingaiten
 sichtbar. Auf der Brust hing an einer hellen Schnur das
@@ -1158,7 +1158,7 @@ Es war nur eine Art irdene Schüssel. Die Kohlen darin
 glimmten kaum mehr.
 
 Harst gab seinem Sessel eine andere Stellung — so,
-daß er mit dem Rücken nach vom Altar hin saß. Dann
+daß er mit dem Rücken nach dem Altar hin saß. Dann
 kippte er den Sessel nach hinten, glitt, durch die Altarwand
 gestützt, langsam zu Boden. Und — wälzte und ruckte sich
 bis an die Scherben der Schüssel heran.
@@ -1179,7 +1179,7 @@ Plötzlich fuhr sein linker Arm hoch, winkte.
 Blut lief über seine Hand — diese arme, gepeinigte
 Hand.
 
-Dann hatte er zu die andere frei.
+Dann hatte er auch die andere frei.
 
 Gleich darauf richtete er mich samt dem Sessel auf,
 drehte an den Drahtenden.
@@ -1212,7 +1212,7 @@ Dunkelheit vor uns. Aber dieser Felsengang war nur
 kurz. Dann sahen wir den ausgestirnten Nachthimmel.
 
 Harst hatte den Türflügel hinter uns zugezogen. Wir
-Schritten weiter — durch ein steiniges Tal, das sich zu einem
+schritten weiter — durch ein steiniges Tal, das sich zu einem
 schmalen Fluß hinabsenkte.
 
 Ein Lichtschein glänzte dort irgendwo am Ufer.
@@ -1411,7 +1411,7 @@ Goldbesatz.
 Ostrella, ohne Frage ein sehr hübscher Mann, dirigierte
 mit Grazie und Gefühl. Sein langer Elfenbeintaktstock
 schwebte über den Köpfen der Tanzenden, wenn die Paare
-an den Podium vorbeiwalzten:
+an dem Podium vorbeiwalzten.
 
 Wir standen unweit des Podiums hinter einer Marmorsäule.
 Harst hatte seit Minuten Ostrella nicht aus den

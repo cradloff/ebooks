@@ -213,7 +213,7 @@ sofort auffressen.
 staunen Sie! — ein Brecheisen von gut ein Meter
 Länge.«
 
-Haralds Augen ruhten auf Bemols häßlichen Gesicht.
+Haralds Augen ruhten auf Bemols häßlichem Gesicht.
 
 »So — ein Brecheisen! Ich glaubte, der Maharadscha
 würde auf etwas schießen. Was sollte er sonst besonderes
@@ -417,7 +417,7 @@ weshalb fragst Du das alles?!«
 
 »Ich frage im Interesse dieses Palastes und Deines
 Herrn, Kischra Sing. Weißt Du, was ein Detektiv ist?
-kennst Du den Namen Harald Harst?«
+Kennst Du den Namen Harald Harst?«
 
 »Sahib, ich lese Zeitungen. Ich verstand Deinen Namen
 vorhin nicht. Solltest Du Sahib Harst sein, so —« —
@@ -510,7 +510,7 @@ wir hier gar nicht im Palast.«
 
 »Hatte der Fürst einen Spazierstock bei sich?«
 
-»Ja. Einen dichten Bambusstock, reich geschnitzt, mit
+»Ja. Einen dicken Bambusstock, reich geschnitzt, mit
 goldener Kugel oben.«
 
 »Hast Du den Stock schon früher gesehen?«
@@ -820,7 +820,7 @@ Sir Wellerley.«
 
 Harst hatte uns beide Artikel vorgelesen.
 
-»Hier käme Saalborg eher in Betracht,« meinte er nun
+»Hier käme Saalborg eher in Betracht,« meinte er nun.
 »Dieser Diebstahl ist Feinarbeit.«
 
 <@pagebreak/>
@@ -843,7 +843,7 @@ Sportlady gekleidet.
 »Nicht wahr — eine Keckheit von mir, Sie zu belästigen,
 Master Harst!« begrüßte sie uns.
 
-Sie nahm Paß, Harst bot ihr eine Zigarette an,
+Sie nahm Platz. Harst bot ihr eine Zigarette an.
 
 »Ihre berühmte Spezialmarke Mirakulum,«
 meinte sie. »Ich werde sie mit Genuß rauchen.«
@@ -927,7 +927,7 @@ mit Gummiabsätzen. Ich verstehe was von Fährten. Der
 Gummi-Kerl hatte den Gaul am Zügel weggeführt und ihn
 dann laufen lassen. Ich mußte anderthalb Stunden zu
 Fuß hinterdrein, bis ich das Pferd erwischte. Dann folgte
-ich der Spur bei Gummi-Mannes. Die Absätze waren neu
+ich der Spur des Gummi-Mannes. Die Absätze waren neu
 und geriffelt. Es war die reine Erdvisitenkarte. Denken
 <@pagebreak/>
 Sie, die Spur lief nach einem Hügel hin, der ungefähr zwei
@@ -1030,7 +1030,7 @@ in den lichten Momenten nur einen Wunsch:
 
 »Wasser — Wasser — trinken!«
 
-Und halte diesen Gedanken kaum zu Ende gedacht, als
+Und hatte diesen Gedanken kaum zu Ende gedacht, als
 ich schon wieder von Fieberdelirien in das Reich der
 Unwirklichkeit zurückgerissen wurde. —
 
@@ -1177,7 +1177,7 @@ Und da — da kam mir die Erleuchtung:
 
 »Vincent Saalborg!«
 
-Nur er konnte der Helfer gewesen sein — nun er! Und
+Nur er konnte der Helfer gewesen sein — nur er! Und
 — war er’s gewesen, dann hatte er auch fraglos irgend
 eine Nachricht zurückgelassen, nachdem er gemerkt hatte, daß
 ich jetzt fähig war, Harald beizustehen.
@@ -1215,7 +1215,7 @@ ich festgestellt hatte, daß Sie nicht auf Ihrer Jacht waren.
 Ich suchte, so, wie nur Harst und — ich suchen kann. Ich
 ahnte, daß man Sie in hilflosem Zustande schwer verletzt
 dem Tode preisgegeben hätte. Und ich entdeckte endlich
-außerhalb der Ruine unter einem Haufen von Steintrümmer
+außerhalb der Ruine unter einem Haufen von Steintrümmern
 die Steinfalltür, die in das Gewölbe unter der Ruine
 führte. Ich habe Sie verbunden, Ihnen Wasser gegeben.
 Sie beide waren an Reste von Mauerpfeilern festgebunden.
@@ -1336,7 +1336,7 @@ Bansy schlug mit der Faust auf den Tisch. »Verdammt
 Ich bleibe noch acht Tage hier. Morris, morgen werden
 wir beide nochmals die Ruine durchstöbern.«
 
-Koch Hull kam dies Treppe hinab. -
+Koch Hull kam die Treppe hinab.
 
 »Käpten, ein leeres Boot treibt auf uns zu,« meldete
 er. »Sollen wir’s auffischen?«
@@ -1469,7 +1469,7 @@ nimmt an, der falsche Fürst wäre Saalborg gewesen.«
 
 »Ist sonst noch etwas Wichtiges inzwischen geschehen?«
 
-»Hut — nicht, daß ich wüßte. Miß Billham kam uns
+»Hm — nicht, daß ich wüßte. Miß Billham kam uns
 gestern lebewohl sagen. Sie soll den Maharadscha jetzt
 malen und reiste nach Bukar. Sie drängte mir 50 Pfund
 auf. Ich soll den besten Detektiv aus Bombay kommen

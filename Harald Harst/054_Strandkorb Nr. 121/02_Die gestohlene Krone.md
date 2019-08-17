@@ -78,7 +78,7 @@ Drakitz.«
 
 Da kam auch schon Papa Vahlen durch den Sand
 auf uns zu gekeucht, schwenkte eine Depesche in der Hand
-und rief schon von weitem; »Soeben eingetroffen, meine
+und rief schon von weitem: »Soeben eingetroffen, meine
 Herren! Für Harald Harst. Rückantwort bezahlt.«
 
 <@pagebreak/>
@@ -127,7 +127,7 @@ konnte.
 Gegen ½ 12 gingen wir zu Bett. Die Fenster, die
 nicht einmal Laden hatten, gefielen mir gar nicht. Wenn
 Daisy O’Brien uns gefolgt war, konnten wir hier im
-schlafe ohne große Schwierigkeiten abgetan werden.
+Schlafe ohne große Schwierigkeiten abgetan werden.
 
 <@pagebreak/>
 Harald belächelte meine Angst. »Ich habe in Pasewalk
@@ -163,7 +163,7 @@ Da erschien auch schon unser Wirt mit einem brennenden
 Licht, ebenfalls im Negligee.
 
 »War ist los?« fragte er sehr pomadig. »Die Tür
-nach dem Hof steht auf, und es wurde geschossen,«
+nach dem Hof steht auf, und es wurde geschossen.«
 
 »Was los ist, weiß ich nicht,« erwiderte Harald.
 »Löschen Sie aber besser das Licht —«
@@ -257,7 +257,7 @@ liegt ja ziemlich weit außer hab des Ortes. Ich wieder
 blieb etwa fünfzig Schritt hinter dem Dunkelbärtigen,
 Hinkenden, der sich beim Gehen auf einen starken
 <@pagebreak/>
-Stock stützte. Du meinem Pech kam da ein Auto angerast,
+Stock stützte. Zu meinem Pech kam da ein Auto angerast,
 und die dicke Staubwolke, die es hinter sich herzog,
 versperrte mir für kurze Zeit die Aussicht. Nachher war
 der Hinkende verschwunden.«
@@ -267,7 +267,7 @@ abgelegenen Häuschen eingeschlagen hatten,« sagte Harald
 da. »Dieser Mensch verfolgte uns. Das steht wohl
 schon fest.«
 
-»So ist’s, Hören Sie nur das weitere. — Ich gab
+»So ist’s. Hören Sie nur das weitere. — Ich gab
 mir nun die größte Mühe, den Kerl wieder aufzustöbern.
 Aber erst nach einer Stunde etwa traf ich ihn vor dem
 Hotel Miramare. Er hatte es sehr eilig, bemerkte mich
@@ -301,7 +301,7 @@ Häuschens entwischte.«
 »Stimmt. Um diese Flucht zu verhindern, lief ich
 um das Haus herum —«
 
-» und traten dann hier ein, hielten die Situation
+»— und traten dann hier ein, hielten die Situation
 jedoch noch für recht bedenklich und hatten daher Ihren
 <@pagebreak/>
 Revolver schußbereit. — Das ist alles in allem ein ganz
@@ -487,7 +487,7 @@ Marmorfußboden und Kamin in unschönem Gegensatz
 zu den ärmlichen Plüschsesseln und den sonstigen
 Möbelstücken stand.
 
-»Wollen die Herren Platz nehmen,« sage der tadellos
+»Wollen die Herren Platz nehmen,« sagte der tadellos
 geschulte Diener. »Wen darf ich außer dem Herrn
 Kriminalkommisar dem Herrn Baron melden?«
 
@@ -626,10 +626,10 @@ der Wendenkrone.«
 Stettenborn zuckte die Achseln. »Meinetwegen!
 Aber der Erfolg ist fraglich!« —
 
-Wir gingen kann durch den Park, weil Harst frische
+Wir gingen dann durch den Park, weil Harst frische
 Luft schnappen wollte. So kamen wir auch an den kleinen,
 künstlichen Teich, dessen Bewohner so plötzlich
-krepiert waren. |;
+krepiert waren.
 
 Der Teich war länglich rund und von einer Mauer
 eingefaßt, hatte in Mitte eine Insel aus Feldsteinen,
@@ -673,7 +673,7 @@ Ja — und dann kam’s; dann flüsterte er nämlich:
 armen Hänfling — das ist richtig!«
 
 Ich war mit einem Male ganz nüchtern. Aber Harst
-fügte zu schon hinzu: »Bitte — wir sind angeheitert!
+fügte auch schon hinzu: »Bitte — wir sind angeheitert!
 vergiß das nicht!«
 
 Und ich spielte die Rolle des vom Burgunder in den
@@ -765,7 +765,7 @@ Tage hier Gastfreundschaft zu genießen.
 
 Hopkinson konnte nun recht gut mit zu den Leuten
 gehören, die wir zu fürchten hatten, eben mit zu dem
-Hinkenden und dem Gutangezogenen. Sein auftauchen
+Hinkenden und dem Gutangezogenen. Sein Auftauchen
 hier blieb jedenfalls stark verdächtig.
 
 Um sechs Uhr erhoben wir uns von Tisch.
@@ -798,7 +798,7 @@ der Treppe?! Etwa aus Schreck vor unserem Erscheinen
 auf Schloß Drakitz?«
 
 »Um Mitleid zu erregen und um ihrem Gatten
-Gelegenheit zu neben, sich als zärtlicher, besorgter Ehemann
+Gelegenheit zu geben, sich als zärtlicher, besorgter Ehemann
 zu zeigen. Stettenborn sollte auch durch diese
 Komödie von jedem Gedanken an eine Beteiligung des
 Barons an diesem Diebstahl abgehalten werden. Zalewski
@@ -871,7 +871,7 @@ der nun lächelnd erklärte:
 kann Ihnen nur genau dieselbe Auskunft geben, Herr
 Harst. Zalewskis haben zwar mit Sorgen zu kämpfen,
 sind aber im übrigen untadelig. Höchstens wäre das
-eine an ihnen zu Rügen, daß sie über ihre Verhältnisse
+eine an ihnen zu rügen, daß sie über ihre Verhältnisse
 leben und recht oft Gäste bei sich sehen.«
 
 »Und dann wird  gespielt,« warf Harald hin.
@@ -884,7 +884,7 @@ auf dem Lande, Herr Harst.«
 »Ich weiß nur von einem Bruder, der Chemiker in
 Berlin ist.«
 
-»Kennen Sie ihn persönliche, Herr Landrat?«
+»Kennen Sie ihn persönlich, Herr Landrat?«
 
 »Ja. Ein sehr netter Mensch, der stets sehr modern
 gekleidet geht und anscheinend in guten Verhältnissen
@@ -972,7 +972,7 @@ er leise:
 ich im Parke gegen Abend umherschlenderte, bemerkte ich
 an der westlichen Parkmauer, wo der Park mehr einer
 Wildnis gleicht, in ein paar frischen Maulwurfshügeln
-die Spur eines Zweirades mit so dicken reifen, daß es
+die Spur eines Zweirades mit so dicken Reifen, daß es
 sich nur um ein Motorrad handeln kann. Und als Sie
 beide kaum mit dem Auto davongefahren waren, sah ich
 auf einem Feldwege dort drüben einen Motorradler.«
@@ -1128,7 +1128,7 @@ gesagt: »In dieser Nacht fällt die Entscheidung!«
 Hopkinson nahm seine Krone mit in sein Zimmer.
 Lachend hatte er erklärt: »Ich lege sie unter mein Kopfkissen,
 <@pagebreak/>
-hissen, und auf dem Nachttisch meinen Revolver. Da soll
+und auf dem Nachttisch meinen Revolver. Da soll
 nur ein Dieb kommen!« —
 
 Wir entkleideten uns langsam und sprachen über
@@ -1272,14 +1272,14 @@ auf dem Heimweg von einem Stelldichein mit ihr das
 Geräusch der Säge gehört haben. Die Leiche haben Sie
 durch Säuren zerstört, und den Bottich dann in den kleinen
 Teich entleert, wobei Sie übersahen, daß die Goldfische
-krepieren mußten. Wir werben den Bottich finden,
-Zalewski Sie täten gut, ein Geständnis abzulegen.«
+krepieren mußten. Wir werden den Bottich finden,
+Doktor Zalewski. Sie täten gut, ein Geständnis abzulegen.«
 
 Der Chemiker lachte frech. »Sie phantasieren, Herr!
 Was ich Hopkinson in das Glas schüttete, ist ein unschädliches —«
 
 »Wie Sie wollen!« unterbrach Harald ihn. »Wir
-werden jetzt dem Baron ein Geständnis entladen. Hopkinson,
+werden jetzt dem Baron ein Geständnis entlocken. Hopkinson,
 Sie bewachen den Menschen hier. — Schraut,
 nimm die Krone mit —« —
 

@@ -7,7 +7,7 @@
 Harald Harst und ich gingen im Gemüsegarten des
 Harstschen Hause in Berlin-Schmargendorf auf und
 ab. Frau Auguste Harst, mit einer großen Leinenhaube
-auf dem weißen Kopf, stach Spargel. — Nach unseren
+auf dem weißen Kopf, stach Spargel. — Nach unserem
 letzten größeren Abenteuer mit unserer Feindin Daisy
 O’Brien, die uns von Belutschistan aus hartnäckig gefolgt
 war, hatte Harald nur drei geringere Probleme erledigt,
@@ -21,7 +21,7 @@ Tscho, auf den der Leser sich aus dem vorigen Band
 »Auf des Messers Schneide« noch besinnen wird, war
 inzwischen von dem Dolchstich Mistreß O’Briens völlig
 wiederhergestellt und hatte sich beinahe ein dem meinen
-ähnliches Bäuchlein angepirscht.
+ähnliches Bäuchlein angepflegt.
 
 Es war heute der dritte Mai. Der Vormittag war
 prächtig, — warm, windstill und erfüllt von Lenzesfrohsinn.
@@ -58,7 +58,7 @@ keinen Ernst Müller. Dann kamen für die weiteren
 Anzeigen nur Briefe mit dem Zeitungsausschnitt, der
 den Wortlaut der Anzeige enthielt, und die zwanzig
 Mark als Beilage. Die Anzeige ist in genauen Zwischenräumen
-von je drei Tagen erschienen. — Du mir zugeben,
+von je drei Tagen erschienen. — Du wirst zugeben,
 daß der Text reichlich eigenartig ist. Der angebliche
 Müller hat darin ein paar Sprichwörter neben
 einander gereiht, nichts weiter. Kein Wunder, daß die
@@ -98,7 +98,7 @@ Herr Harst. Ich war bis vor drei Jahren Oberkellner
 in einem Hotel in London. Wir hatten dort ein deutsches
 Stubenmädchen namens Lina Pinzke, die sich aber
 nur Daisy nennen ließ und ihren deutschen Vatersnamen
-in Painskay umgeändert hatte. Oh — es war ein helles
+in Painskay umgeändert hatte. Oh — es war ein tolles
 Flick diese hübsche, rotblonde Daisy. Sie konnte
 alles. Sie beherrschte fünf Sprachen. Sie war verflucht
 ehrgeizig. Ihr schwebte ein Millionär als Gatte vor.
@@ -109,8 +109,8 @@ O’Brien. Und — der war’s, der die Lina Pinzke
 dann heiratete. Er hatte Geld, kein Zweifel! Und er
 verstand mit Weibern umzugehen. — Da nun doch
 »Ihre« Daisy O’Brien, Herr Harst, das Deutsche tadellos
-beherrscht und so vielseitiges Pflänzchen ist, kam ich
-sich auf dem Gedanken: Halt, das ist die Lina!«
+beherrscht und ein so vielseitiges Pflänzchen ist, kam ich
+gleich auf den Gedanken: Halt, das ist die Lina!«
 
 »Sie werden wohl recht haben, Herr Vahlen,«
 nickte Harald, »Ihre Mitteilungen sind mir sehr
@@ -217,7 +217,7 @@ ein Vermögen erworben habe, wollte ich hier in meiner
 Heimat mich niederlassen und mich an einem größeren
 Unternehmen beteiligen. Es fand sich aber nichts Passendes,
 und so kaufte ich mir denn zunächst in Potsdam
-eine rechte alte Villa, die in einem großen Parke liegt.
+eine recht alte Villa, die in einem großen Parke liegt.
 Ich hause dort mit einer Wirtschafterin, einer älteren
 Frau, ganz allein. Die Villa ist zweistöckig und gehörte
 bis dahin der Familie von Greiz — der freiherrlichen
@@ -235,7 +235,7 @@ näher, hielt mit dem Auto gleiten Schritt und fragte
 die Dame was Sie wünsche. Statt der Antwort flog mir
 eine Hanfschlinge über den Kopf, und im selben Augenblick
 raste das Auto davon. Ich wurde umgerissen und
-mitgeschickt —«
+mitgeschleift —«
 
 »Ich besinne mich,« unterbrach Harst ihn da. »Ich
 las in der Zeitung davon. Sie hatten sich gerade die
@@ -278,7 +278,7 @@ furchtsam. Aber ich war doch so erschrocken, daß ich für
 Sekunden wie gelähmt blieb.
 
 »Rühren Sie sich nicht!« drohte das Weib. »Die
-Spitze enthält Schwefelsäure.«
+Spritze enthält Schwefelsäure.«
 
 Da erst gewahrte ich einen Mann, der hinter dem
 Weibe stand, Herr Harst. Es war ein kleiner, magerer
@@ -417,7 +417,7 @@ Ich tat’s. Und rief sofort: »Es ist dieselbe Schrift!«
 merkwürdige Anzeige eingerückt hat!«
 
 »Hm! Die Anzeige braucht doch nicht mit den
-Ueberfallen zusammenzuhängen.«
+Ueberfällen zusammenzuhängen.«
 
 »Das stimmt. Wir müssen das erst aufklären. Immerhin
 mahnt die Anzeige zur Vorsicht. Das wäre
@@ -502,14 +502,14 @@ wünschten. Herr Albner sei nicht zu Hause.
 
 Harst erklärte recht laut, daß Albner uns erwarte,
 worauf das unsaubere Weib plötzlich freundlicher wurde
-und unsere Namen wissen wollte. Sie nickte dann. »Gut.
+und unsere Namen wissen wollte. Sie nickte dann. »Gut,
 kommen Sie nur —« — Also hatte Albner sie auf den
 Besuch von Harst und Schraut vorbereitet.
 
 Eine Kastanienallee führte auf die Villa zu. Vor
 dieser standen im Halbkreis Linden und Walnußbäume,
 dazwischen hochstämmige Rosen und Akazien. Das Haus
-selbst sah recht Schmuck aus. Eine Freitreppe führte zum
+selbst sah recht schmuck aus. Eine Freitreppe führte zum
 Eingang empor.
 
 Die Wirtin bat uns, im Herrenzimmer Platz zu
@@ -722,7 +722,7 @@ anderer, schwächerer auf; und anstelle von Albners kräftiger
 Stimme erklang ein helles, aber nicht minder scharfes,
 energisches Organ:
 
-»Sie gestatten, daß ich hier ebenfalls so etwas mit spiele,
+»Sie gestatten, daß ich hier ebenfalls so etwas mitspiele,
 Herr Albner. Meine Anrechte an Harst und
 Schraut sind älter und stärker —!“
 
@@ -830,7 +830,7 @@ O’Brien.
 
 <@pagebreak/>
 Daisy hatte ein Fläschchen in der Hand, goß jetzt
-ans dem Fläschchen etwas auf ein großes Stück Watte,
+aus dem Fläschchen etwas auf ein großes Stück Watte,
 beugte sich über mich und legte mir die Watte auf das
 Gesicht. —
 
@@ -873,7 +873,7 @@ scheint verreisen zu wollen. Seine Schwester allein
 soll uns bewachen. Er hat es offenbar sehr eilig, das
 <@pagebreak/>
 Geschäft in Swinemünde zu Ende zu bringen. Er
-merkte nicht mal, daß ich trotz des Knebels antwortete,
+merkte nicht mal, daß ich trotz des Knebels antwortete.
 Seine Gedanken sind anderswo.«
 
 Ich teilte ihm mit, daß Albner tatsächlich von sofort
@@ -902,7 +902,7 @@ kein Wort, saß nur mit verbissener Wut da und beobachtete
 Harald, der jetzt Albners Schreibtisch durchsuchte.
 
 Er hatte einen langen Briefumschlag gefunden,
-blätterte fest in Papieren und rief dann: »Sieh an!
+blätterte jetzt in Papieren und rief dann: »Sieh an!
 Albner hat gestern die Villa verkauft. Der neue Besitzer
 übernimmt sie am ersten Juni. Albner wollte also auch
 dieses Geld retten.« Er wandte sich wieder an das Weib,
@@ -1072,7 +1072,7 @@ und die Blonde ist doch nur auf Albners Befehl bei ihm
 »warme Mamsell« geworden! — Es unterliegt wohl
 keinem Zweifel mehr, daß diese blonde Grete die Absenderin
 des Briefes ist, den der Postbote gestern für
-Albner abgab und daß die merkwürdigen Anzeigen im
+Albner abgab und daß die merkwürdigen Anzeigen in
 der Tagespost von Albner für diese Grete zur Aufmunterung
 eingerückt sind. Vielleicht ist sie gar seine Frau.
 — Sie hat es recht bequem gehabt, die Strandkörbe im
@@ -1241,7 +1241,7 @@ Ich war nur auf einen Tag hierhergekommen, traf ihn
 am Strande im Strandkorb sitzend und erreichte auch,
 daß er mir versprach, sofort ein neues Testament aufzusetzen,
 in dem ich neben meinen anderen beiden Vettern
-zu gleichen Teilen als Erbe bezeichnet werden Würde. Er
+zu gleichen Teilen als Erbe bezeichnet werden würde. Er
 hatte Papier und Füllfederhalter bei sich und schrieb sofort
 seinen letzten Willen nieder. Ich verabschiedete mich
 und reiste dann nach England, wo ich erst im Dezember
@@ -1264,7 +1264,7 @@ Blättchen Papier, auf das Daisy O’Brien folgendes gekritzelt
 hatte:
 
 > »Albner, dies ist meine Rache! Sie wollten auch
-dieses Testament verwinden lassen. Den Verräter
+dieses Testament verschwinden lassen. Den Verräter
 trifft selbst Verrat! — Daisy O’Brien.«
 
 Harst las dann das Testament vor. Zu Anfang enthielt
