@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">a040d7f6-c388-11e9-86fe-973d63a175c4</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Sadi Ahmeds Tintenlöscher</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">52</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Tintenlöscher des Sadi Ahmed.
+
+Auf der alten Bergstraße, die sich von Passani einem der Häfen Belutschistans, nach der bedeutenderen Hafenstadt Gwadar immer angesichts des Meeres hinzieht, ritten drei Reiter, zwei Weiße und ein Chinese, dahin.  Ein zu dem kleinen Trupp gehöriges Lastkamel trug drei Reisekoffer und einen Sack aus geölter Leinwand.
+
+Wir befanden uns auf dem Wege nach der soeben erwähnten Hafenstadt Gwadar und kamen von Passani, wo wir kurze Zeit Gäste unseres Landsmannes, des Polizeidirektors John Haberland, gewesen waren.
+
+Auf einem mächtigen Pistazienbaume, dessen obere Aeste abgestorben und unbelaubt waren, hockte ein Aasgeier und riß mit dem Schnabel Stücke von irgend einem Kadaver ab. Harald und ich blickten kaum hin, bis Tscho, der hinter uns ritt, plötzlich halblaut rief:
+
+»Ich werde schießen. Nicht erschrecken die Master —« Sein Englisch war reichlich mangelhaft.
+
+»Bravo, gelber Junge!« meinte Harst. »Den Schuß macht Dir so leicht —«
+
+Er verstummte. Tscho hatte soeben aus dem Grase etwas aufgehoben. Und dieses Etwas war ein halber menschlicher Arm, von dem der Geier bereits den Unterarmknochen freigelegt hatte.
+
+Das Geheimnis des Wracks.
+
+Der Konsul Mr. Gesport hatte uns in seinem außerhalb der Stadt liegenden Bungalow drei Zimmer und zwei Diener zur Verfügung gestellt. Er selbst benutzte den Bungalow nur selten und wohnte zumeist im Konsulatsgebäude in Gwadar. Wir waren also in dem behaglichen Hause und in dem großen, prächtigen Garten ganz unsere eigenen Herren. Tscho »bekochte« uns tadellos. Drei Tage lang taten wir nichts, ruhten uns von den Strapazen der letzten Zeit aus und machten nur kurze Spaziergänge in die Stadt und die nähere Umgebung.
+
+Mr. Gesport und der Polizeichef deuteten uns gegenüber häufiger an, daß es ihnen angenehm sein würde, wenn Harald sich um den Verbleib Ahmeds etwas kümmern würde. Auch Albert Smith, der nur leichtes Wundfieber hatte, machte ähnliche Bemerkungen.
+
+Harst jedoch tat, als hätte er jedes Interesse für den Fall »Viktoria« verloren.
+
+So gingen drei Tage hin.
+
+Am vierten Tage saßen wir morgens sieben Uhr auf der Veranda des Bungalows beim Frühstück.
+
+Mit einem Male sagte Harald, indem er sich ein Röstschnittchen mit persischem Schafkäse belegte:
+
+»Nicht wahr, Ahmed verhält sich merkwürdig ruhig?«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (052) Sadi Ahmeds Tintenlöscher.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
