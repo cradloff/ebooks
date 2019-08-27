@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">993daa82-c906-11e9-8c16-cfed87552135</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Haus in der Wildnis</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">56</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Haus in der Wildnis.
+
+Unser letztes Abenteuer in dem kleinen englischen Seebade Shenton hatte an unsere Nerven doch so hohe Anforderungen gestellt, daß Harald Harst sich entschloß noch eine Woche in Shenton sich zu erholen.
+
+Wir mieteten uns bei dem Leuchtturmwächter Mac Owen, einem alten Seemann, ein, dessen Häuschen am Fuße des Leuchtturmes am Ende der Ostmole lag. Zum Schein waren wir abgereist. Nur Mac Owen wußte, wen er beherbergte.
+
+Am 3. Juli saßen wir vormittags auf einem der Granitquadern, die vor der Molenspitze als Wellenbrecher versenkt waren, und angelten. 
+
+Harsts Schwimmer schoß in die Tiefe. — Er ruckte hart an.
+
+»Entwischt!« meinte er. »Ah — der Haken hat jetzt scheinbar ein Stück Treibholz aufgespießt,« fügte er hinzu.
+
+Er legte den Angelhaken beiseite und zog die feste Seidenschnur langsam ein.
+
+Plötzlich gewahrten wir gleichzeitig unter der grünen Oberfläche des Wassers das wallende Haar einer Frauenleiche.
+
+Die Azorenfischer.
+
+Als der englische Kreuzer die Gefangenen an Bord genommen und Kullings Jacht Palmyra eine neue Besatzung gegeben hatte, damit die Palmyra ebenfalls sofort nach England in See gehen könnte, waren wir erst so recht wieder unsere eigenen Herren.
+
+Nachmittags fuhren wir mit der Atlanta nach jener Bucht an der Südküste, von der aus man das Haus in der Wildnis am bequemsten erreichen konnte. Wir hatten dort gestern die beiden Leoparden in ihrem Zwinger zurückgelassen, und wir wollten die zahmen Bestien sowohl füttern als uns auch das Gebäude einmal in Ruhe ansehen.
+
+Ellen, Helena, Bansy und wir beide verließen die Atlanta um drei Uhr. Eine Stunde später näherten wir uns dem Hause.
+
+Die Mädchen hatten alles Leid der letzten Zeit schnell vergessen, und wir fünf befanden uns in heiterster Stimmung, als wir, Harst und die hübsche Ellen voran, nun um die letzten Buschstreifen bogen und das düstere, verwitterte Steingebäude mit seinen erblindeten Fenstern dicht vor uns hatten.
+
+Plötzlich rief Ellen mehr erstaunt als erschrocken:
+
+»Da — ein Mann am Fenster. — Dort — dort —«
+
+Wir sahen aber nur noch eine Gestalt, die blitzschnell vom Fenster verschwand.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (056) Das Haus in der Wildnis.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
