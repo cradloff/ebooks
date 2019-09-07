@@ -428,6 +428,7 @@ Bnrfchen	Burschen
 Bogensenster	Bogenfenster
 boher	hoher
 Bombav	Bombay
+bon	von
 Bootshasens	Bootshafens
 Bootssieg	Bootssteg
 Bordmände	Bordwände
@@ -548,6 +549,7 @@ davaus	daraus
 davonstiirmte	davonstürmte
 davonzukonnnen	davonzukommen
 davonzustiirmen	davonzustürmen
+Dch	Ich
 Decb	Deck
 Dech	Deck
 Dechel	Deckel
@@ -965,6 +967,7 @@ ergehnislos	ergebnislos
 Erhbegräbnisses	Erbbegräbnisses
 erhohen	erhoben
 eriibrigt	erübrigt
+eril	erst
 erledlgt	erledigt
 Erleuchtiing	Erleuchtung
 erliannte	erkannte
@@ -1013,6 +1016,7 @@ fahve	fahre
 falfchen	falschen
 falien	fallen
 Falltiir	Falltür
+fann	kann
 faß	saß
 fchaltete	schaltete
 fcheinbar	scheinbar
@@ -1052,6 +1056,7 @@ feßte	setzte
 festgeklennnt	festgeklemmt
 festschniirte	festschnürte
 fhaute	schaute
+fhon	schon
 Fiau	Frau
 ficher	sicher
 fich	sich
@@ -1412,6 +1417,8 @@ hai	hat
 haiie	hatte
 haist	Harst
 Haist	Harst
+haite	hatte
+haiten	hatten
 Haiuniien	Halunken
 Hakan	Haken
 Hakst	Harst
@@ -1617,6 +1624,7 @@ Iache	Fache
 iächerlich	lächerlich
 Iach	Fach
 iachte	lachte
+Iachte	lachte
 Iacht	Jacht
 Iacke	Jacke
 Iackentasche	Jackentasche
@@ -1639,6 +1647,7 @@ Iahrrinne	Fahrrinne
 Iährte	Fährte
 Iahrt	Fahrt
 Iahrzeugs	Fahrzeugs
+ia	ja
 Ia	Ja
 Iakire	Fakire
 Iakir	Fakir
@@ -1776,6 +1785,7 @@ Ieuerräder	Feuerräder
 Ieuerwerk	Feuerwerk
 Ieuerwerks	Feuerwerks
 Ieuerwerkskörper	Feuerwerkskörper
+if	ist
 Ifriseur	Friseur
 ift	ist
 ih	ich
@@ -2092,6 +2102,7 @@ jet	jetzt
 jett	jetzt
 Jett	Jetzt
 jetzi	jetzt
+jevi	jetzt
 jevt	jetzt
 jeyt	jetzt
 jezt	jetzt
@@ -2208,6 +2219,7 @@ Jührer	Führer
 Jünf	Fünf
 Jurs	Kurs
 Jürst	Fürst
+Jusel	Insel
 Juß	Fuß
 Jusze	Fuße
 Juszfesseln	Fußfesseln
@@ -2245,6 +2257,7 @@ kauderwelfchte	kauderwelschte
 Kaupmann	Kaufmann
 kausen	kaufen
 Käuser	Käufer
+kauste	kaufte
 Kautabali	Kautabak
 Kavitän	Kapitän
 Kavstadt	Kapstadt
@@ -2553,6 +2566,7 @@ Mhlord	Mylord
 Mhnheer	Mynheer
 Miallie	Malke
 michtiges	wichtiges
+micht	nicht
 mickelte	wickelte
 mic	mich
 mid	mich
@@ -2674,6 +2688,7 @@ Nachthinnnel	Nachthimmel
 Nachtng Nachtzug
 nachzupriifen	nachzuprüfen
 nachzuspüven	nachzuspüren
+nac	nach
 nad	nach
 naffen	nassen
 nah	nach
@@ -2723,6 +2738,7 @@ nickde	nickte
 niclist	nickst
 niclite	nickte
 nict	nicht
+nid	nicht
 nidte	nickte
 nidt	nicht
 niedergebvannt	niedergebrannt
@@ -2905,6 +2921,7 @@ Periicke	Perücke
 Perüclie	Perücke
 pinfeln	pinseln
 Pistolenkdlben	Pistolenkolben
+Plab	Platz
 Plandagenbesitzer	Plantagenbesitzer
 Plandagen	Plantagen
 Platschern	Plätschern
@@ -2913,8 +2930,10 @@ pliindern	plündern
 plöglich	plötzlich
 plötziich	plötzlich
 plövlich	plötzlich
+plovlih	plötzlich
 Pnau	Prau
 Pnrkes	Parkes
+Poft	Post
 Poinzen	Prinzen
 Polizeiatzt	Polizeiarzt
 Polizeiches	Polizeichef
@@ -3058,6 +3077,7 @@ rückstchtslos	rücksichtslos
 Rüclischlusz	Rückschluß
 Rücliversicherung	Rückversicherung
 rucliweise	ruckweise
+rüden	rücken
 Rüden	Rücken
 Rüdfeite	Rückseite
 Rud	Ruck
@@ -3101,6 +3121,7 @@ sasien	saßen
 sa	so
 sassen	fassen
 Saß	Satz
+saßte	faßte
 sast	fast
 saszen	saßen
 saszest	saßest
@@ -3124,7 +3145,7 @@ Schausvieler	Schauspieler
 schdb	schob
 schdssen	schossen
 Scheclibuch	Scheckbuch
-schen	schon
+schen	sehen
 scherzhnft	scherzhaft
 sch	ich
 Sch	Ich
@@ -3276,6 +3297,7 @@ sestgemacht	festgemacht
 sestnehnien	festnehmen
 seten	setzen
 sete	setzte
+sette	setzte
 seuern	feuern
 seuerte	feuerte
 shon	schon
@@ -3332,6 +3354,7 @@ si	sich
 sißt	sitzt
 sith	sich
 siüsterte	flüsterte
+siven	sitzen
 Sjntslut	Sintflut
 Slielette	Skelette
 sliichtig	flüchtig
@@ -3374,6 +3397,7 @@ Spieszgesellen	Spießgesellen
 spiihte	spähte
 Spiirsinn	Spürsinn
 Spite	Spitze
+Spivbart	Spitzbart
 splelen	spielen
 Sportmiitze	Sportmütze
 Sprachlienntnisse	Sprachkenntnisse
@@ -3415,6 +3439,7 @@ Steilusers	Steilufers
 Steiluser	Steilufer
 Steinsliesen	Steinfliesen
 steis	stets
+stellie	stellte
 Sterbesimmers	Sterbezimmers
 Steubetage	Sterbetage
 Stevn	Stern
@@ -3535,6 +3560,7 @@ traude	traute
 Treppenstusen	Treppenstufen
 tressen	treffen
 trisst	trifft
+trob	trotz
 trochenen	trockenen
 trochneie	trocknete
 troß	trotz
@@ -3807,7 +3833,10 @@ vecht	recht
 veges	reges
 vegnen	regnen
 veich	reich
+veil	weil
 veizte	reizte
+vem	dem
+ven	den
 vendiente	verdiente
 Vepesche	Depesche
 Vepeschie	Depesche
@@ -3866,6 +3895,7 @@ Vetektioe	Detektive
 Vetektiv	Detektiv
 Vetektive	Detektive
 Vetektivinspektor	Detektivinspektor
+Vettler	Bettler
 vevdächtige	verdächtige
 vevsprach	versprach
 vichtig	richtig

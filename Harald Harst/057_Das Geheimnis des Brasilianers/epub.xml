@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">08e60b6c-d173-11e9-acdd-23408423df80</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis des Brasilianers</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">57</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Geheimnis des Brasilianers.
+
+Die von Harald Harst gemietete Motorjacht Atlanta, Besitzer und Kapitän Bansy, lag im Hafen Ponta Delgada der Azoreninsel San Miguel vor Anker.
+
+Es war gegen neun Uhr abends. Die Atlanta wiegte sich träge vor ihren Ankerketten. Oben an Deck spielte einer unserer englischen Matrosen Ziehharmonika. Durch die geöffneten Fenster des kleinen Salons der Jacht drang die erquickende Abendluft herein.
+
+Wir drei — Harst, Bansy und ich, saßen um den Tisch herum. Ueber uns brannte die elektrische Krone mit ihren drei Birnen.
+
+Wir lehnten behaglich in unseren Korbsesseln und rauchten. Vor Harald lag auf dem Tische das alte, abgegriffene Buch — das Tagebuch eines ehemaligen Piraten, wie wir bereits wußten. Es war in spanischer Sprache geschrieben. Aber in den Aufzeichnungen fand sich kein Name, nur immer die beiden Anfangsbuchstaben derjenigen Personen, mit denen der Korsar in seinem reichbewegten Leben zu tun gehabt hatte. Wie dieser Freibeuter hieß, war aus dem Tagebuch in keiner Weise zu ersehen. Jedenfalls hatte er das Haus in der Wildnis im Jahre 1798 als Hauptquartier für sich und seine Bande erbaut. —
+
+»Fangen Sie an, Mr, Harst,« gähnte Bansy, »Sie wollen uns doch die wichtigsten Stellen aus dem Buche ins Englische übersetzen und vorlesen. Ich brenne vor Neugier schon.«
+
+Die Sträflingsinsel.
+
+Nachdem wir sofort nach unserer Rückkehr mit dem Motorkutter, in dessen Kajüte die Leiche Pertinax Chalpins lag, vor der Polizeibehörde in Pernambuco alles Nötige zu Protokoll gegeben hatten, erklärte der inzwischen herbeigerufene Vertreter des Gerichts, daß unter diesen Umständen sofort ein Dampfer nach der Sträflingsinsel Noronha geschickt werden würde, der Edward Selville nach Pernambuco bringen solle. Bis zur Beendigung des Wiederaufnahmeverfahrens müsse Selville freilich noch im Gefängnis bleiben. Es würden ihm alle nur irgend möglichen Erleichterungen seiner Haft gewährt werden.
+
+»Wann gedenken Sie den Dampfer in See gehen zu lassen, Sennor?« fragte Harald den Beamten.
+
+»Heute abend noch.«
+
+»Würden Sie gestatten, daß mein Freund und ich dieses Schiff mit benutzen? Wir möchten uns einmal eine Sträflingsinsel ansehen.«
+
+»Der Besuch von Privatpersonen auf Noronha ist zwar verboten. Aber mit Ihren beiden machen wir gern eine Ausnahme. Der Kapitän des Regierungsdampfers wird Befehl erhalten, Sie mitzunehmen, falls Sie es nicht vorziehen, Ihre Jacht Atlanta zur Ueberfahrt dorthin zu benutzen. Ich würde Ihnen dann einen Ausweis für den Gouverneur der Insel mitgeben.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (057) Das Geheimnis des Brasilianers.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
