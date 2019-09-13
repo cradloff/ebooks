@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">f1dee1ca-d675-11e9-b63f-67cb00e117d8</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Eine Wettfahrt ums Leben</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">62</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Ein Gentleman-Buschklepper.
+
+In der Reihe der indischen Abenteuer Harald Harsts verdient der Gentleman-Buschklepper einen Ehrenplatz.  Kaum ein anderes unserer Erlebnisse bot eine solche Fülle von überraschenden, teilweise bitter-ernsten, teilweise komischen Zwischenfällen wie dieses. Eine diesem Problem des »ritterlichen Briganten« leidlich gerecht werdende Einleitung zu schreiben, ist schwer.
+
+Drei besondere Ereignisse liefen damals in der am rechten Gangesufer gelegenen Stadt Mirzapur nebeneinander her. Ich will mit der dem Leser fraglos aus Zeitungsberichten bekannten Tatsache von Harsts schwerer Beraubung bei einer Tigerjagd in dem Dschungelgebiet nördlich von Mirzapur beginnen.
+
+Die Tigerjagd wurde mit Elefanten unternommen.  Harald kam zuerst zum Schuß, fehlte aber, da der Elefant durch das dumpfe Jaulen des Tigers unruhig geworden war.
+
+Die Bestie sprang dem Elefanten auf den Rücken, klammerte sich an dem Tragkorbe an und schlug mit der rechten Pranke nach Harst. In demselben Augenblick schoß der Plantagenbesitzer Ribley, der uns zu der Jagd eingeladen hatte. Die Kugel traf das rechte Auge des Tigers von der Seite und durchbohrte Harald die linke Lunge. Die Bestie plumpste herab und entkam.
+
+Eine Wettfahrt ums Leben.
+
+Zwei Tage nach der Verlobung Miß Evelyns und Hendrik van Baalkers stand Harald gegen sieben Uhr abends vor dem Schrankspiegel in seinem Schlafzimmer im Pensionat Trafalgar und band sich die weiße Krawatte zum Frackanzug in eine schicke Schleife, sagte dabei zu mir leise, während die Mirakulum im linken Mundwinkel auf und ab wippte:
+
+»Frack! Also ganz Kulturmensch mal wieder! Gesellschaftsmensch! Uebrigens ist Dir Dein Leichenträgerkostüm etwas weit geworden. Du bist magerer als vor drei Monaten. Ich glaube, da hatten wir unsere Frackmöbel zum letzten Male an.«
+
+Ich saß auf dem Diwan, bereits fix und fertig angezogen und erwiderte: »Ich werde schon wieder dicker werden. Besonders wenn dieses ruhige Leben so weiter geht. Was soll nun eigentlich mit Edward Annixter werden? Du scheinst ihn ganz vergessen zu haben. Gestern im Klub spieltest Du sogar mit ihm mehrere Partien Poker.«
+
+Harald drehte sich um. »Ich wiege ihn, mein Alter!«
+
+»Wiegen?!«
+
+»Ja — ich wiege ihn in Sicherheit. Er läßt uns beobachten. Du hast doch wohl ebenfalls bemerkt, daß unser rechter Zimmernachbar, dieser Monsieur Charles Dichingalle, angeblich Kaufmann aus Bombay, zu Edwards Sippe gehört. — Oder — hast Du es nicht bemerkst. Dann rate ich Dir, mal die Tür Deines Schlafzimmers, die durch den Schrank verstellt ist, in Distingalles Abwesenheit in Augenschein zu nehmen. Sie führt in seinen Wohnsalon, und er hat sie frisch geölt. — Schloß und Angeln. Der Schlüssel fehlt. Er besitzt aber Dietriche. Er war in Deinem Schlafzimmer.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (062) Eine Wettfahrt ums Leben.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
