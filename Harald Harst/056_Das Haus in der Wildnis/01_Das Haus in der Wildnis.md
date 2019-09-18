@@ -123,7 +123,7 @@ diese Vorsichtsmaßregel wären wir längst erkannt worden.
 Als die Polizei erschien und die Leiche abholte, blieben
 wir in unserem Zimmer, da wir den Beamten, insbesondere
 <@pagebreak/>
-dem dicken Polizeichef Dreapar alt dem Detektiv
+dem dicken Polizeichef Dreapar und dem Detektiv
 Lostendahl, gut bekannt waren.
 
 Harald hatte die Papierrolle in die Sonne auf das
@@ -421,7 +421,7 @@ Bericht, fuhr dann mit dem Finger etwas höher und —
 über dem Bericht stand ein anderer, stand dick gedruckt:
 »Harald Harsts Erfolge in Shenton«.
 
-Dann sagte er: »Es ist in noch sehr fraglich, Mr.
+Dann sagte er: »Es ist ja noch sehr fraglich, Mr.
 Danning, ob hier ein Mord vorliegt. Die Frau kann
 auf einem Schiffe gestorben und nach Seemannsart begraben
 worden sein.«
@@ -600,8 +600,8 @@ Sie schwindeln.«
 
 <@pagebreak/>
 
-3. Kapitel.
-Ueber jede Phantasie hinaus.
+<h2>3. Kapitel.</h2>
+<h3>Ueber jede Phantasie hinaus.</h3>
 
 »Ich heiße Lopeg d’Argosta und bin Portugiese von
 Geburt, bin der letzte Sproß einer alten, einst sehr begüterten
@@ -770,7 +770,7 @@ wieder 6000 Dollar ausgehändigt und mir weitere 1000
 versprochen, wenn ich noch eine Weile in London bleiben
 und beobachten würde, ob Sir Webster etwa irgendwie
 nach der Smitson forschen würde. — In London las
-ich nun heute neuen fünf Uhr nachmittags die soeben erschienene
+ich nun heute gegen fünf Uhr nachmittags die soeben erschienene
 Morning Post. Bikurna — dies muß ich noch
 einfügen — hatte gerade vor Ihnen, Mr. Harst, stets
 große Angst. In seine Pläne weihte er mich nicht ein.
@@ -966,7 +966,7 @@ aus Neuyork traf bereits am Abend gegen neun
 Uhr ein. Sie lautete:
 
 > »Kapitän Kulling gleichzeitig Eigentümer der
-Palmyra. Befindet sich mit seiner Jahr seit über
+Palmyra. Befindet sich mit seiner Jacht seit über
 zwei Jahren auf Reise um die Welt. Jetziger Aufenthalt
 unbekannt. Die Palmyra wurde von Advokat
 Allan Jefferson aus Washington gemietet. Kullings

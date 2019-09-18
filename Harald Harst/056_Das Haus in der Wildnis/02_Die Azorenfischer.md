@@ -65,7 +65,7 @@ hatte sich umgeschaut und fügte nun hastig hinzu: »Da
 — der Leopardenzwinger ist leer. Sollte der Fremde die
 Tiere herausgelassen haben?!«
 
-Jetzt erschien au Ellen. Sie war erregt und rief:
+Jetzt erschien auch Ellen. Sie war erregt und rief:
 
 »Etwas ganz Unglaubliches ist passiert! Man hat
 Harst die richtigen Schlüssel gestohlen und ihm zwei andere
@@ -230,7 +230,7 @@ war, stand ein sehr großer, geschnitzter Eichenschrank.
 Harald packte die Kleiderleiste und rüttelte daran.
 Die rechte Seite ließ ich etwas anheben. Und als
 <@pagebreak/>
-er nun daran Zug, bewegte sich auch die Hinterwand des
+er nun daran zog, bewegte sich auch die Hinterwand des
 Schrankes mit nach vorn, und das dunkle Holzpaneel
 der Zimmerwand wurde sichtbar.
 
@@ -432,7 +432,7 @@ konnten.
 
 Dann standen wir nebeneinander an der Felsplatte
 des Einganges, hatten die Papierröhren durch die Löcher
-geschoben und atmeten so die frische Abendluft ein,
+geschoben und atmeten so die frische Abendluft ein.
 
 Unsere Taschenlampen hatten wir ausgeschaltet.
 Der Geiser arbeitete jetzt so heftig, daß der Boden zitterte.
@@ -634,7 +634,7 @@ glauben, daß Jefferson so unvorsichtig gewesen sein sollte,
 den Kreis der Mitwisser seiner Millionenspekulation bis
 <@pagebreak/>
 auf Bewohner der Picoinsel zu erweitern. Nein, das
-hätte so so gar nicht Jeffersons sonstige Schlauheit entsprochen.«
+hätte so gar nicht Jeffersons sonstiger Schlauheit entsprochen.«
 
 »Da haben Sie recht,« nickte Bansy: »Und die zweite
 Möglichkeit, Master Harst?«
@@ -687,7 +687,7 @@ fort:
 »Es muß jemand hier im Hause stecken. Ich nehme
 an, daß Lopeg, der ein weit größerer Schurke sein dürfte
 als wir ahnen, noch ein viertes Opfer Jefferson in die
-Hände gespielt hat. Das Haus hat keinerlei, Kellerräume.
+Hände gespielt hat. Das Haus hat keinerlei Kellerräume.
 Die Dielen liegen fast auf dem Gestein auf.
 Trotzdem mag es hier unterirdische Räumlichkeiten geben.
 Gerade weil Sie, Bansy den Gesang so undeutlich
@@ -769,7 +769,7 @@ nicht, die Augen zu erheben. Sie hatte Angst. —
 
 <@pagebreak/>
 Es wurde draußen heller und heller. Bansy blieb
-bei der Gefangenen!
+bei der Gefangenen.
 
 Wir schlossen die Hintertüren auf, hielten die Pistolen
 bereit.
@@ -1058,7 +1058,7 @@ Steuer stand.
 
 Bank brüllte dem Kerl zu: »Stoppen!«
 
-Die Schaufelräder hörten auf au arbeiten, schlugen
+Die Schaufelräder hörten auf zu arbeiten, schlugen
 rückwärts.
 
 Harald, Morris und ich schwangen uns an Bord.
@@ -1113,7 +1113,7 @@ betonend. »Bluff war der Qualm, das Höllenfeuer
 unter dem Kessel. Ich durchschaue Euch!«
 
 Dann winkte er unseren Matrosen. Im Handumdrehen
-waren die sechs gefesselt. Sie wehrten ich zwar,
+waren die sechs gefesselt. Sie wehrten sich zwar,
 aber englische Seemannsfäuste teilten hier Boxhiebe aus,
 daß allen sechs die Gesichter ziemlich verunstaltet
 wurden.
@@ -1191,7 +1191,7 @@ Wir, Harald und ich, eilten die Treppe zu der kleinen
 Achterschiffskajüte des Kutters hinab, rissen die Tür auf.
 
 Da lag auf der rechten Seitenbank auf ein paar
-Decken ein graubärtiger Azore. Der linke Ober arm war
+Decken ein graubärtiger Azore. Der linke Oberarm war
 mit Tüchern umwickelt. Er hob etwas den Kopf, fragte
 matt:
 
@@ -1314,7 +1314,7 @@ Hände gespielt?«
 »Als ersten — vor zwei Jahren —«
 
 <@pagebreak/>
-»Und im übrigen haben Sie mir dies Wahrheit
+»Und im übrigen haben Sie mir die Wahrheit
 gesagt?«
 
 Lopeg’s Gesicht hatte sich plötzlich verzerrt. Trotzdem
