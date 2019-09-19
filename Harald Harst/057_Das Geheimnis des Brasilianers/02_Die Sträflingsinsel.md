@@ -46,7 +46,7 @@ finden.
 Harald wehrte freundlich ab. »Mistreß Selville, das
 was ich für Sie getan, ist erst der Anfang,« meinte er. »Ich
 habe Ihnen bisher nichts von dem Geheimnis des Brasilianers
-mitgeteilt. Dieses Geheimnis sollen jetzt erfahren.
+mitgeteilt. Dieses Geheimnis sollen Sie jetzt erfahren.
 Schweigen Sie aber darüber. Es handelt sich fraglos
 um viele Millionen, und die Habgier der Menschen ist schnell
 geweckt. Deshalb habe ich auch der Polizei gegenüber das
@@ -128,7 +128,7 @@ sich. Das Monokel im rechten Auge saß ihm wie festgemauert.
 
 <@pagebreak/>
 »Mein Vetter Edward Wolpoore hat mir Grüße an
-Sie aufgetragen, Master Harst,« begann bei Lord, den ich
+Sie aufgetragen, Master Harst,« begann der Lord, den ich
 auf etwa 28 Jahre schätzte. »Ich befinde mich auf einer
 Reise um die Welt infolge einer Wette, und Wolpoore
 meinte, vielleicht würde ich Ihnen irgendwo begegnen. Sie
@@ -139,7 +139,7 @@ Bewunderer.«
 Lord Salmour ließ seine Flasche Wein zu uns herüberbringen.
 Im Laufe der Unterhaltung erfuhren wir,
 daß er eine Wette abgeschlossen hätte, ohne einen Penny
-die Reise um die Welt auszuführen und eine sich je auf seinen
+die Reise um die Welt auszuführen und ohne sich je auf seinen
 Namen, der ihm überall Kredit verschafft hätte, berufen
 zu dürfen.
 
@@ -366,9 +366,9 @@ vergrub —«
 
 <h2>2. Kapitel.</h2>
 
-Bansy lachte. »Na Na, — so schnell Master Harst?!«
+Bansy lachte. »Na, na, — so schnell Master Harst?!«
 
-»Bitte, lieber Bansy bedenken Sie das eine der Graf
+»Bitte, lieber Bansy, bedenken Sie das eine: der Graf
 konnte doch die Entzifferung dieser Skizze — ich betone:
 Entzifferung! — seinem Erben nicht allzuschwer machen.
 Er mußte mit einem Durchschnittsverstand bei dem Briefempfänger
@@ -402,7 +402,7 @@ vorspringenden Vierecks hinaus.
 plötzlich sehr bestimmt. »Eines Schlosses mit zwei Seitenflügeln.
 Die Striche an dem einen Seitenflügel stellen eine
 Freitreppe dar. Der Kreis kann der Sockel einer Statue
-sein. - Nicht wahr, Master Harst ich bin doch auf der richtigen
+sein. — Nicht wahr, Master Harst ich bin doch auf der richtigen
 Fährte?«
 
 »Das sind Sie nicht, Bansy.«
@@ -444,7 +444,7 @@ Jetzt ging mir ein Licht auf.
 
 »Ich hab’s!« rief ich. »Ich hab’s!«
 
-»Dann brülle nicht so!« warnte Harald »Bitte was
+»Dann brülle nicht so!« warnte Harald. »Bitte was
 hast Du?!«
 
 »In der Ziffernreihe 1 3 2 3 1 1 4 ist 4 gleich A
@@ -603,7 +603,7 @@ Sheep sagte nun in derselben ironisch-blasierten Art:
 »Jonathan, kümmere Dich um die Motoren, mein
 Sohn. Ja brauche Dich hier nicht mehr.«
 
-Wrigg verschwand. Der Monokel-Tom- setzte sich zu
+Wrigg verschwand. Der Monokel-Tom setzte sich zu
 uns an den Tisch, legte seinen Revolver vor sich hin und —
 klappte ihn auf!
 
@@ -628,7 +628,7 @@ Heiratsanträge erhielt, der die Reporter der amerikanischen
 Zeitungen mehr interessiert als der Präsident der
 Vereinigten Staaten, der nie Gewalt anwendet, der die
 Hochstapelei zu künstlerischer Höhe hinaufkultiviert hat —
-denn man kann auch etwas herunterkultivieren, die die Geschichte
+denn man kann auch etwas herunterkultivieren, wie die Geschichte
 der mit europäischer Kultur beglückten Naturvölker
 zeigt —, der diesen ekelhaften, dicken Plantagenbesitzer Sennor
 Ariba jetzt um 10 000 Pfund erleichtert hat, kurz ich
@@ -692,7 +692,7 @@ Er griff nach einer neuen Zigarette.
 schilderten, Vincent Saalborg,« sagte Harald jetzt. »Jedenfalls
 sind Sie kein Durchschnittsverbrecher. Es wird mir
 eine Freude sein, Sie kalt zu stellen. Daß ich dies tue, sobald
-sich die Gelegenheit dazu bietet, ist selbstverständlich,«
+sich die Gelegenheit dazu bietet, ist selbstverständlich.«
 
 »Ganz selbstverständlich,« nickte Saalborg. »Aber genau
 so selbstverständlich ist es, daß Sie mich nie fangen
@@ -726,9 +726,9 @@ Fall hier mitrechnen?«
 »Gut denn. Abgemacht!« —
 
 So kam diese Werte zustande, die vielleicht das Tollste
-war, was sich in dar Kriminalgeschichte ereignet haben
+war, was sich in der Kriminalgeschichte ereignet haben
 dürfte. So begann unser Feldzug gegen einen Feind, den
-wir zunächst nur allzu sehr unter schätzten. So erlangte
+wir zunächst nur allzu sehr unterschätzten. So erlangte
 Vincent Saalborg jene Weltberühmtheit, nach der er, der
 Höflich-Bescheidene der wahre Gentleman-Gauner nie
 <@pagebreak/>
@@ -738,7 +738,7 @@ genialen Hochstapler hier zu beginnen.
 
 Saalborg drückte Harst die gefesselte Hand.
 
-»Also abgemacht! Schade um Ihr Geld Herr Harst.
+»Also abgemacht! Schade um Ihr Geld, Herr Harst.
 Uebrigens darf Ihr Freund Schraut Ihnen bei dieser Jagd
 natürlich helfen. Das ist für mich nicht weiter störend.«
 
@@ -791,7 +791,7 @@ durch ein wahres Wutgeheul.
 »Die drei Rumflaschen sind weg! Verdammt — man
 hat uns bestohlen!«
 
-Unser Koch Hull stelle fest, daß auch noch fünf Büchsen
+Unser Koch Hull stellte fest, daß auch noch fünf Büchsen
 Fleisch und drei Pakete Zwieback fehlten.
 
 »Ein Beweis, daß Klein-Fernando zur Zeit doch nicht
@@ -833,7 +833,7 @@ umsäumt. Kein Wunder, daß Klein-Fernando für
 Harald hatte sein Fernglas an den Augen und suchte
 jeden Teil des Inselchens sorgfältig ab.
 
-Dann machte er mich auf einen schwachen Rauch streifen
+Dann machte er mich auf einen schwachen Rauchstreifen
 <@pagebreak/>
 aufmerksam, der in dem Sumpfe nach Nordwesten zu über
 einer größeren Baumgruppe hing.
@@ -857,7 +857,7 @@ verborgen halten. Sie können meiner Ueberzeugung nach
 erst gestern von Noronha entwichen sein. Wären sie schon
 früher entwichen, hätte der Polizeipräfekt in Pernambuco
 uns gegenüber dies wohl erwähnt. Er betonte doch,
-daß eine Flucht ans Noronha den dort Internierten infolge
+daß eine Flucht aus Noronha den dort Internierten infolge
 der strengen Ueberwachung ganz unmöglich gemacht
 sei. Trifft meine Vermutung, daß diese Sträflinge erst
 gestern entflohen sind, zu, so wird sehr bald ein Dampfer
@@ -883,7 +883,7 @@ Sache dann?« fragte ich gespannt.
 
 »Dann, mein Alter, gibt es zwei Möglichkeiten. Erstens:
 <@pagebreak/>
-es sind nicht Sträflinge, und Sträflingsnummer
+es sind nicht Sträflinge, und die Sträflingsnummer
 ist auf andere Weise hierhin geraten. Zweitens: die Sträflinge
 haben ihre Flucht so schlau angefangen, daß die
 Ueberwachungsbeamten es für ausgeschlossen halten, die Leute
@@ -932,7 +932,7 @@ natürliche Erddamm auf. Vor uns schillerte eine
 schmutzig-grüne, gut zwanzig Meter breite Sumpflache.
 
 Harald suchte den Boden nach Spuren ab. Es fand
-sich auch nicht das geringe Anzeichen dafür, daß hier jemals
+sich auch nicht das geringste Anzeichen dafür, daß hier jemals
 Menschen gewesen. — Wir machten kehrt. Harst
 meinte flüsternd, wir hätten wohl eine Abzweigung dieser
 Bodenwelle übersehen. Schritt für Schritt ging es rückwärts.
@@ -968,7 +968,7 @@ darin.
 
 Harald suchte wieder nach Spuren. Es gehörte seine
 Geduld dazu, diese sorgfältig verwischten Fährten zu
-finden, die zu einen uralten, riesigen Baume führten, der
+finden, die zu einem uralten, riesigen Baume führten, der
 dicht an dem Dornendickicht stand. Die mächtigen wagerechten
 Aeste dieses tropischen Riesen waren bis zu fünfzehn
 <@pagebreak/>
@@ -992,7 +992,7 @@ braunen Jacke, und ein Hagerer mit intelligentem Gesicht
 und Hakennase mit der Nummer 86.
 
 Sie starrten vor sich hin. Neben ihnen im Grase lag
-einte alte Steinschloßpistole.
+eine alte Steinschloßpistole.
 
 Der Dicke griff jetzt nach der Rumflasche, die er halb
 in die Erde eingegraben hatte.
@@ -1273,13 +1273,13 @@ vielleicht eine Bucht sich in die Halbinsel hineinzog.
 
 Plötzlich rief Selville leise: »Dort eine Malerin!«
 
-Ja - dort saß auf einem leichten Klappstuhl eine weiß
+Ja — dort saß auf einem leichten Klappstuhl eine weiß
 gekleidete Dame mit großem Strohhut und hatte eine Art
-Staffelei vor sich stehen, in der Linien aber eine Palette und
+Staffelei vor sich stehen, in der Linken aber eine Palette und
 in der Rechten einen Pinsel. Sie saß mit dem Rücken nach
 uns hin.
 
-Wir gingen auf sie zu. Sie drehte ich um. Es war
+Wir gingen auf sie zu. Sie drehte sich um. Es war
 eine dunkelhaarige, nicht mehr ganz junge Frau mit frischem
 Gesicht. — Harald grüßte und sprach sie an.
 
@@ -1341,7 +1341,7 @@ geholt. Meine beiden Verbündeten sind Schurken,
 wollten mich zwingen, auch noch die beiden anderen Tonnen
 beiseite zu schaffen. Ich habe diesen Halunken ein Betäubungsmittel
 in den Rum geschüttet, nachdem ich zum Schein
-auf ihre habgierigen Pläne eingegangen war, Uebergeben
+auf ihre habgierigen Pläne eingegangen war. Uebergeben
 Sie sie der Polizei. Beide sind lange gesuchte Verbrecher.
 — Sie werden mit der Atlanta die Bucht erst verlassen können,
 nachdem die Brandung sich beruhigt hat. Inzwischen

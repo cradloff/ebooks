@@ -41,7 +41,7 @@ ihn. »Ich beginne also — nur im Auszuge.«
 Er hatte das in Leder gebundene Buch aufgeschlagen.
 Und er las:
 
-> 15. Dezember 1799.
+> 15\. Dezember 1799.
 
 Vor einem Jahr habe ich mir diesen Schlupfwinkel errichtet.
 Die nahe Bucht ist windgeschützt. Meine drei
@@ -95,7 +95,7 @@ selbst.
 Der Krieg, der jetzt zwischen England und Frankreich
 wütet, wird mir neue Beute bringen.
 
-> 2. Juli 1801
+> 2\. Juli 1801
 
 Nach vier Monaten wieder zurück. Wieder daheim,
 denn dieses einsame Haus ist ja meine Heimat geworden.
@@ -116,7 +116,7 @@ Sohn jenes Mannes, den ich einst durch den Brand an den
 Bettelstab brachte, baldigst absenden. Und zur Vorsicht in
 zwei Exemplaren.
 
-> 5. Oktober 1801
+> 5\. Oktober 1801
 
 Eine Rebellion bereitet sich vor. Ich glaube, man
 wird es mit mir, dem siechen Greise, genau so machen, wie
@@ -128,7 +128,7 @@ Familie Don Se...’s gesündigt, habe ich wieder gesühnt.
 Einen der Briefe müssen sie erhalten haben. Sie werden
 meiner in Dankbarkeit gedenken.
 
-> 7. Oktober 1801.
+> 7\. Oktober 1801.
 
 Ich weiß: in dieser Nacht werden meine Leute mich
 überfallen. Ich bin gerüstet. Sobald sie eindringen werde
@@ -295,7 +295,7 @@ Motorjacht hier eingetroffen, wird er sich beruhigen und
 uns morgen nicht mehr den Zutritt verwehren.«
 
 »Hm — daß der Chalpin gleich einen falschen Bart bei
-der Hand hatte!« meinte ich nachdenklich, »Das sieht gerade
+der Hand hatte!« meinte ich nachdenklich. »Das sieht gerade
 so aus, als ob er sich häufiger »verändert«.«
 
 »Allerdings. Das sieht so aus. Er hat Uebung darin.
@@ -388,12 +388,12 @@ hier, nicht wahr?«
 
 »Ja. Seine Mutter und Schwester ebenfalls. Die
 armen Frauen leben in größter Dürftigkeit in einer Hütte
-auf der Halbinsel Bairro do Revife, im ältesten Stadtteil.«
+auf der Halbinsel Bairro do Recife, im ältesten Stadtteil.«
 
 »So, danke, Master. Wir werden dann also Chalpin
 zu Rate ziehen.«
 
-Der Hoteldirektor verschwand,
+Der Hoteldirektor verschwand.
 
 Harald blinzelte mir vielsagend zu.
 
@@ -406,13 +406,13 @@ Verbrechen. Da regt sich in mir das Berufsinteresse.«
 Gegen halb neun abends fuhren wir über die beiden
 <@pagebreak/>
 Brücken und durch den Stadtteil Sao Antonio nach Bairro
-do Revife. Am Zollhaus verließen wir den Wagen, lohnten
+do Recife. Am Zollhaus verließen wir den Wagen, lohnten
 den Kutscher ab und fragten den nächsten Polizisten nach der
 Wohnung der Frau Selville.
 
 Der Beamte glotzte uns erstaunt an.
 
-»In der Rua do Picao,« sagte er dann, »Dort geradeaus,
+»In der Rua do Picao,« sagte er dann. »Dort geradeaus,
 die zweite Querstraße.«
 
 Wir gingen weiter. In der Rua do Picao wies ein Neger
@@ -461,7 +461,7 @@ möchte ich Sie um strengste Verschwiegenheit bitten,
 auch Ihre Tochter. Würden Sie diese vielleicht herbeirufen?«
 
 Frau Selville ging in das Nebenzimmer und kehrte mit
-einem kaum erst erwachsenen jungen Mädchen, von angenehmen
+einem kaum erst erwachsenen jungen Mädchen von angenehmen
 Zügen zurück.
 
 »Meine Tochter Rosarita,« sagte sie.
@@ -492,7 +492,7 @@ Master Harst. Wir hatten den besten Rechtsanwalt der
 Stadt. Er hat uns Unsummen gekostet. All unsere
 Ersparnisse haben wir geopfert. Es war alles zwecklos.
 Mein armer, armer Junge! So ein guter Sohn! Er und
-ein Mörder! Und jetzt als Sträfling auf Roronha!«
+ein Mörder! Und jetzt als Sträfling auf Noronha!«
 
 Rosarita kam zurück und reichte Harald ein Päckchen
 Zeitungsausschnitte.
@@ -528,7 +528,7 @@ Wir machten halt. Harald holte sein goldenes Etui
 hervor, schob es wieder in die Westentasche. Ich hatte gerade
 das Feuerzeug in Brand gesetzt, als hinter uns wüstes
 Gebrüll sich erhob. Zwei Männer kamen mit wenigen
-Schritten Abstand dahergerannt, hinter ihn drein etwa ein
+Schritten Abstand dahergerannt, hinter ihnen drein etwa ein
 Dutzend farbige Weiber und Matrosen.
 
 »Achtung!« — Diese Warnung genügte. Ich faßte in
@@ -546,7 +546,7 @@ dem Stiche des zweiten entging.
 Harald war nach hinten umgesunken. Ich besann mich
 keinen Augenblick, zog die Pistole.
 
-Da — Harsts leise Stimme, »Nicht schießen! Ich
+Da — Harsts leise Stimme. »Nicht schießen! Ich
 <@pagebreak/>
 werde den Schwerverletzten spielen. Bringe mich auf die
 Jacht —«
@@ -615,7 +615,7 @@ erwidert Ihr, Master Schroth verstehe sich auf Wundbehandlung
 und habe Master Horster den Lungenstich kunstgerecht
 verbunden.«
 
-Preegrave nickte, »Für Sie tun wir alles, Master Harst.
+Preegrave nickte. »Für Sie tun wir alles, Master Harst.
 In fünf Minuten ist mein schöner Bart futsch.«
 
 <h2>3. Kapitel.</h2>
@@ -662,7 +662,7 @@ schlechtes Gewissen haben und die sich sofort, als sie
 diese Kabeldepesche lasen, richtig zusammenreimten, daß
 diese Atlanta hier Harsts Atlanta ist und daß Horster und
 Schroth eben Harst und Schraut und deshalb — überflüssig
-sind. Man wollte uns dies durch Messerstiche beweisen, —
+sind. Man wollte uns dies durch Messerstiche beweisen. —
 Bansy, holen Sie Morris nochmal zurück —«
 
 Als Bansy und Morris wieder eintraten, sagte Harald:
@@ -714,7 +714,7 @@ Wasser ein, stellte ihr auch noch ein Glas Zitronenlimonade
 auf den Nachttisch, schloß die Wohnung wieder ab und besorgte
 dann allerlei Einkäufe. Um 12 Uhr sah sie abermals
 nach der Kranken. Als sie diese regungslos mit ganz verändertem
-Gesicht in den Kissen erblicke — sie hatte die Vorhänge
+Gesicht in den Kissen erblickte — sie hatte die Vorhänge
 vorher etwas aufgezogen — rannte sie sofort hinaus
 und zum nächsten Arzt. Doktor Saltino stellte fest, daß der
 Tod bereits eingetreten war und daß dem schmerzlich verzogenen
@@ -838,7 +838,7 @@ Chalpin?«
 
 »Ja. — Wir werden diesem Herrn gründlich auf den
 Zahn fühlen. Wir sind nach Pernambuco gekommen, um
-dem Geheimnis des Brasilianers, des Piraten an Om...
+dem Geheimnis des Brasilianers, des Piraten Om...
 nachzuspüren, und haben hier nun andere Arbeit gefunden. —
 <@pagebreak/>
 Uebrigens eine Frage, mein Alter. — Ist Dir bei dem
@@ -901,7 +901,7 @@ bat ich ihn, mit mir ins Mannschaftslogis hinabzusteigen.
 Von den Matrosen war niemand anwesend. Wir setzten
 uns an den Tisch.
 
-»Master Schraut,« begann er auf englisch, »Ich habe
+»Master Schraut,« begann er auf englisch. »Ich habe
 heute in der Morgenzeitung gelesen, wer die Herren in
 Wirklichkeit waren, die mich gestern nachmittag besuchen
 wollten, — eben nicht Horster und Schroth, sondern Harst
@@ -926,8 +926,8 @@ nahm einen nachdenklichen Ausdruck an. Seine schwarzen,
 stechenden Augen verschwanden hinter den halb geschlossenen
 Liedern. Dann fragte er leichthin:
 
-»Weshalb verirrten Sie ich gestern gerade ist jenes
-Viertel, Master Schraut?«:
+»Weshalb verirrten Sie sich gestern gerade in jenes
+Viertel, Master Schraut?«
 
 »Der Hoteldirektor und Harsts Sensationshunger waren
 <@pagebreak/>
@@ -1152,7 +1152,7 @@ Decke. Ein feiner Kollege, der Monsieur Chalpin!«
 
 <@pagebreak/>
 Lautlos verließ er das Zimmer nachdem er in den
-Flur hinausgespäht hatte
+Flur hinausgespäht hatte.
 
 Ich lag auf dem Rohrbett und fieberte vor Ungeduld.
 Ich sah nach der Uhr. Harald war bereits seit einer halben
@@ -1231,7 +1231,7 @@ wieder und fügte hinzu:
 Sein Wagen wartet draußen.«
 
 Chalpin nickte. »Folgen Sie mir.« — Durch einen
-Seitenausgang gelangten mir drei auf eine enge Gasse, in
+Seitenausgang gelangten wir drei auf eine enge Gasse, in
 der nur Lagerspeicher standen. Die Gasse war leer. Nur
 ein Wagen mit zwei Maultieren bespannt wartete auf uns.
 Der Kutscher, ein Mulatte, peitschte sofort auf die Pferde
@@ -1297,7 +1297,7 @@ Fratzen.
 Chalpin. »Sie brauchen nicht mehr zu lügen, Master Harst,
 <@pagebreak/>
 ebensowenig wie ich es tun werde. — Daß Sie nicht verwundet
-waren, wußte ich durch der Kreolin Josefa, die
+waren, wußte ich durch die Kreolin Josefa, die
 Ihrem Freunde so liebevoll half. Ebenso wußte ich, daß
 Sie heute früh wieder bei den Selvilles gewesen waren.
 Ich hatte deren Häuschen beobachten lassen. Ich kam nun
@@ -1384,7 +1384,7 @@ gesetzt, hatte den rechten Arm auf den Tisch gestützt, der
 zwischen den Wandbänken stand, und hielt den Finger am
 Abzug seines Revolvers.
 
-»Reden Sie!« rief er nervös, »Was soll der Name?!«
+»Reden Sie!« rief er nervös. »Was soll der Name?!«
 
 »Frau Selville erzählte mir heute, daß der Großvater
 Ihres Gatten seinen portugiesischen Namen Sellavilla de
