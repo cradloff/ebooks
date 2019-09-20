@@ -16,7 +16,7 @@ zu schreiben, ist schwer.
 Drei besondere Ereignisse liefen damals in der am
 rechten Gangesufer gelegenen Stadt Mirzapur nebeneinander
 her. Ich will mit der dem Leser fraglos aus Zeitungsberichten
-bekannten Tatsache von Harsts schwerer Beraubung
+bekannten Tatsache von Harsts schwerer Verwundung
 bei einer Tigerjagd in dem Dschungelgebiet nördlich
 von Mirzapur beginnen.
 
@@ -45,7 +45,7 @@ Da der Arzt mir streng anbefohlen hatte, Harst jede
 Aufregung fernzuhalten, hatte ich ihm auch den Besuch des
 Kaufmanns van Baalker aus Lahore verschwiegen, der eine
 Woche nach Haralds Verwundung sich in Mirzapur eingefunden
-und mir als Harst Freund und Privatsekretär eine
+und mir als Harsts Freund und Privatsekretär eine
 sehr eigenartige Geschichte erzählt hatte, die so sehr den
 Stempel des Ungewöhnlichen an sich trug, daß ich mich
 schon deshalb hütete, sie dem Genesenden mitzuteilen, der
@@ -65,9 +65,9 @@ Das dritte fand ich am Abend nach des Holländers
 Besuch in der englischen, in Allahabad erscheinenden Zeitung
 »Allahabad Magazin«.
 
-Dieser Artikel lautete;
+Dieser Artikel lautete:
 
-Das sonst so stille, friedliche Lahore hat sich jetzt plötzlich
+> Das sonst so stille, friedliche Lahore hat sich jetzt plötzlich
 einen Gentleman-Buschklepper zugelegt, von dessen Taten
 in kurzem ganz Indien und bald auch die übrige Welt
 sprechen dürfte.
@@ -82,6 +82,7 @@ verübt und dabei nicht weniger als eine halbe Million
 Rupien erbeutet.
 
 <@pagebreak/>
+
 > »Dieser Gentleman-Buschklepper,« hieß es in der
 Zeitung weiter, »tauchte zuerst vor zehn Tagen auf der
 Straße nach Shekhupura, der nordwestlich von Lahore gelegenen
@@ -146,7 +147,7 @@ mit dem Buschklepper zusammengetroffen war, allein mit
 seinem Ponywagen, nur begleitet von einem Diener, von
 einem Besuch bei dem Gouverneur heim. Exzellenz Paterlan
 hatte ihm einen Betrag von 182 000 Rupien mitgegeben,
-dem Flox am nächsten Morgen für Paterlan bei der
+den Flox am nächsten Morgen für Paterlan bei der
 Bank einzahlen sollte. Und — wieder tauchte der Desperado
 auf. Flox jedoch war vorbereitet, hatte schon einen
 Revolver entsichert in der Hand und suchte den Gentleman-Strauchritter
@@ -170,7 +171,7 @@ Zum Schluß des Artikels standen dann folgende Sätze:
 jetzt derselbe internationale Hochstapler Vincent Saalborg,
 den der deutsche Liebhaberdetektiv Harald Harst infolge
 einer Wette in bestimmter Zeit unschädlich machen
-muß, eine Gastrolle gibt. Saalborgs ist zuletzt in Mirzapur,
+muß, eine Gastrolle gibt. Saalborg ist zuletzt in Mirzapur,
 <@pagebreak/>
 wo Harst zur Zeit im Krankenhause liegt, gesehen worden.
 Unsere Leser besinnen sich noch auf die Photographie des
@@ -232,7 +233,7 @@ viel von dem unruhigen Blut meiner verstorbenen Frau
 in den Adern, die mal Schauspielerin war und als geborene
 Französin reichlich viel Temperament besaß.«
 
-»Kürzer!« mahnte Harst, »Erst die Tatsachen. Nachher
+»Kürzer!« mahnte Harst. »Erst die Tatsachen. Nachher
 frage ich schon, was mir nötig erscheint.«
 
 »Nun — die Geschichte ist bald erzählt. Hendrik bewohnt
@@ -352,7 +353,7 @@ leere Blick!«
 Besuch. Ich kam über den Flur. Er bewohnt die rechte
 Seite des Hauses. In der Bibliothek hörte ich streitende,
 erregte Stimmen. Ich verstand gerade die Worte: »Und
-Sie waren es doch!« — Da blieb ich sehen. Ich kannte
+Sie waren es doch!« — Da blieb ich stehen. Ich kannte
 die Stimme nicht. Die Türen sind auch sehr dick und haben
 innen Vorhänge. Hendrik erwiderte — und er schrie
 es ganz heiser vor Wut: »Wagen Sie noch einmal diese
@@ -372,7 +373,7 @@ war so voll Qualm, daß hier mindestens zwei Herren
 geraucht haben mußten.«
 
 »Es gab für den Besucher doch aber eine Möglichkeit,
-zu entfernen,« meinte Harald. »Er brauchte den Flur
+sich zu entfernen,« meinte Harald. »Er brauchte den Flur
 nicht zu betreten?«
 
 »Nein. Aus der Bibliothek führt eine Tür auf die Veranda,
@@ -389,7 +390,7 @@ ich dann hier nach Mirzapur, um Ihnen meine Sorgen anzuvertrauen,
 Master Harst. Ich konnte aber nur ihren
 Freund Schraut sprechen, begab mich wieder nach Hause
 und fand die Europäerkolonie in Lahore in wilder Aufregung
-vor, dann der Buschklepper hatte jetzt die Maske
+vor, denn der Buschklepper hatte jetzt die Maske
 fallen lassen und —«
 
 »Ich weiß Bescheid. Danke, Master van Baalker. Allerdings
@@ -456,7 +457,7 @@ Sie selbst von hier aus mit der Bahn, Master van
 Baalker. Wir werden drei Tage nach Ihnen in Lahore
 <@pagebreak/>
 eintreffen. — Noch einige Fragen, wenn Sie gestatten.
-Ist mit aller Bestimmtheit festgestellt, daß es in Labore und
+Ist mit aller Bestimmtheit festgestellt, daß es in Lahore und
 Umgegend keinen Schimmel gibt?«
 
 »Es gibt keinen! Greep hat jedes Gehöft, jeden Stall
@@ -498,7 +499,7 @@ kennen gelernt.«
 »Auf diese Erklärung bin ich sehr gespannt,« meinte
 Bansy bittend. »Reden Sie, Harst! Sie werden Schraut
 und mich doch nicht auf die Folter spannen, besonders mich
-nicht, der nicht mit nach Labore reisen wird.«
+nicht, der nicht mit nach Lahore reisen wird.«
 
 »Lieber Bansy, vielleicht weiß Schraut auch schon Bescheid.
 — Na, mein Alter,« wandte er sich an mich, »wie
@@ -566,7 +567,7 @@ Auto Mirzapur und kam gerade zu der Jagd zurecht.«
 »Wie alt ist er? Wie schätzen Sie ihn ein?«
 
 »Hm — etwa 27 Jahre. — Einschätzen —?! - Ein böses
-Früchtchen, bester Harst. Im letzter Zeit soll er etwas
+Früchtchen, bester Harst. In letzter Zeit soll er etwas
 vernünftiger geworden sein.«
 
 »Liehen Sie ihm das Gewehr zur Jagd, Ribley?«
@@ -645,7 +646,7 @@ Tagen, Master van Baalker. Regen Sie sich nicht weiter
 auf. Ihr Sohn wird in kurzem wieder frei sein.«
 
 <h2>3. Kapitel.</h2>
-<h3>Der Ballen.</h3>
+<h3>Der Balken.</h3>
 
 Kaum hatte Baalker die Atlanta verlassen, als wir in
 großer Eile Toilette machten, — das heißt, wir verwandelten
@@ -882,7 +883,7 @@ Aus einer Entfernung die Antwort:
 
 Dann war er wieder neben mir.
 
-»Mein Alter, die Sache sieht faul aus. Der Ballen ist
+»Mein Alter, die Sache sieht faul aus. Der Balken ist
 in eine Backsteinmauer eingefügt. Und — diese Stahlfesseln
 lassen sich nicht öffnen.«
 
@@ -945,7 +946,7 @@ Voller Angst lauschte ich.
 Nun von unten dasselbe halblaute, triumphierend-drohende
 Lachen.
 
-»Hier ist fester Boden! Hier sind Mauertrünmmer,
+»Hier ist fester Boden! Hier sind Mauertrümmer,
 Schutt!«
 
 Ich vernahm klirrende Schläge. — Ohne Zweifel versuchte
@@ -1019,7 +1020,7 @@ mündet.«
 
 Wir kamen dann an eine zweite Treppe, die recht verfallen
 war und steil in die Höhe lief. Als wir oben standen,
-versperre uns eine Schutthalde den Weg. Doch dort
+versperrte uns eine Schutthalde den Weg. Doch dort
 wo der Schutt mit den Deckengemäuer zusammenstieß
 schimmerte Tageslicht hindurch.
 
@@ -1156,7 +1157,7 @@ kraftlos. Ueber der ganzen Gestalt lag etwas, das man
 am besten als erstarrter Schmerz bezeichnet.
 
 Sie setzte sich dann auf eine weiße Bank unter einen
-Baum, stierte vor sich hin. Ein Paar Tränen stahlen sich
+Baum, stierte vor sich hin. Ein paar Tränen stahlen sich
 unter den langen, dunklen Wimpern hervor. Sie tupfte sie
 ab — alles mit derselben trostlosen Müdigkeit. —
 
@@ -1198,7 +1199,7 @@ er vernehme gerade einen Arrestanten.
 
 »Vielleicht Master van Baalker?« fragte Harald.
 
-»Ja —« — Der Polizist musterte uns erstaunt. -
+»Ja —« — Der Polizist musterte uns erstaunt.
 
 Harst gab ihm eine Visitenkarte, auf die er ein paar
 Worte mit Bleistift geschrieben hatte — »Bringe sie Master
@@ -1302,11 +1303,11 @@ nicht sofort die Situation geklärt und mir gesagt hatte,
 Evelyn sei Hendrik van Baalkers zukünftige Braut, wie
 uns doch von dem alten Baalker erzählt worden war. —
 
-Sir Paterlan fragte höflich, aber kühl, im welcher
+Sir Paterlan fragte höflich, aber kühl, in welcher
 Angelegenheit wir zu ihm kämen.
 
 »Wir sind in der verflossenen Nacht von einem Schimmelreiter
-überfallen worden, Exzellenz,« begann Harald,
+überfallen worden, Exzellenz,« begann Harald.
 »Wir haben dann die Fährte dieses Buschkleppers gefunden.«
 
 »Der sitzt doch im Polizeigefängnis,« meinte Sir Paterlan
@@ -1348,7 +1349,7 @@ Evelyn nur auf diese wahnwitzige Idee gekommen sein?!
 Sie hat doch Geld in Hülle und Fülle! Ich bin Junggeselle!
 Sie ist meine Erbin!« — Seine Bestürzung
 schwand immer mehr. Der Zorn packte ihn. »Freilich —
-etwa verschroben war sie schon immer schrieb und agitierte
+etwas verschroben war sie schon immer, schrieb und agitierte
 für das Frauenstimmrecht, behauptete stets, die
 Weiber könnten genau so viel leisten, wie die Männer!
 Gut, ich werde sie rufen. Soll ich Sie beide, meine Herren,
@@ -1418,7 +1419,7 @@ Wir hatten uns dieserhalb schon häufiger gezankt.
 Als er mir dann an jenen Abend den entscheidenden Antrag
 machte, wies ich ihn ab und erklärte, ich würde ihm erst
 zeigen, daß Evelyn Croker nicht zum  sogenannten
-schwachen Geschlecht gehöre. Das, »Wie« würde ich mir
+schwachen Geschlecht gehöre. Das »Wie« würde ich mir
 überlegen. — Wir wurden damals belauscht, glaube
 ich. Am nächsten Tage erhielt ich ein Päckchen Zeitungsausschnitte
 zugeschickt, die sämtlich über die Geniestreiche des

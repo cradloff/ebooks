@@ -32,7 +32,7 @@ Harald drehte sich um. »Ich wiege ihn, mein Alter!«
 
 »Ja — ich wiege ihn in Sicherheit. Er läßt uns beobachten.
 Du hast doch wohl ebenfalls bemerkt, daß unser
-rechter Zimmernachbar, dieser Monsieur Charles Dichingalle,
+rechter Zimmernachbar, dieser Monsieur Charles Distingalle,
 angeblich Kaufmann aus Bombay, zu Edwards Sippe gehört.
 — Oder — hast Du es nicht bemerkst. Dann rate ich
 Dir, mal die Tür Deines Schlafzimmers, die durch den
@@ -43,7 +43,7 @@ hat sie frisch geölt. — Schloß und Angeln. Der Schlüssel
 fehlt. Er besitzt aber Dietriche. Er war in Deinem Schlafzimmer.«
 
 Ich war einfach sprachlos. — Das war so ganz wieder
-Harst, wie er lebte und lebte!
+Harst, wie er leibte und lebte!
 
 »Wie bist Du denn auf diesen Distingalle aufmerksam
 geworden?« fragte ich kopfschüttelnd. »Hast Du ihn mit
@@ -88,7 +88,7 @@ Es klopfte. — Eines der eingeborenen Stubenmädchen
 »Ich lasse bitten,« sagte Harald zu dem Mädchen.
 
 Dann zu mir auf deutsch: »Nun werden wir also auch
-den Alten Annixter schon jetzt kennen lernen. Heute bei
+den alten Annixter schon jetzt kennen lernen. Heute bei
 <@pagebreak/>
 dem Fest bei Sir Paterlan wäre er uns ohnedies vorgestellt
 worden.«
@@ -154,7 +154,7 @@ Der alte Annixter erhob sich sofort. »Wir sprechen
 heute abend bei Sir Paterlan weiter darüber,« sagte er
 schnell. »Greep soll nicht wissen, daß ich hier war. Lassen
 Sie mich bitte durch Ihr Schlafzimmer in den Flur, sobald
-Greep hier eingetreten ist,«
+Greep hier eingetreten ist.«
 
 Ich führte Annixter in Harsts Schlafzimmer. Als wir
 Greeps Stimme hörten, verabschiedete sich Annixter auch
@@ -341,8 +341,8 @@ in Saalborgs charakteristischer Schrift:
 
 > Verehrtester Herr Harst! Ich weiß, was Sie wissen
 und noch etwas mehr. Beherzigen Sie, was Ihnen
-heute der falsche Annixter anvertraute, Einliegenden
-Zettel stahl ich Edward A aus seinen Schlafzimmer. —
+heute der falsche Annixter anvertraute. Einliegenden
+Zettel stahl ich Edward A aus seinem Schlafzimmer. —
 Ihr ergebenster V. S.
 
 <h2>2. Kapitel.</h2>
@@ -352,7 +352,7 @@ Ein Diener kam und reichte uns Zigarren, Zigaretten
 und Eispunsch. Als wir wieder allein waren, sagte Harst:
 
 »Es ist klar, daß Saalborg genau den Buschklepper
-kennt und daß er zu Annixter als unseren geheimen Gegner
+kennt und daß er auch Annixter als unseren geheimen Gegner
 durchschaut hat. Er wird ebenso diese Chiffreschrift
 gelöst haben. Er will uns warnen. Er ist eben der wahre
 Gentleman-Gauner wie stets. — So, nun mal den Inhalt
@@ -465,7 +465,7 @@ linkshändig?«
 
 »Ja. Er schrieb auch mit der Linken, Master Harst.«
 
-»Das genügt. Ein vorgetäuschter Selbstmord,«
+»Das genügt. Ein vorgetäuschter Selbstmord.«
 
 Wir gingen in die Loge. Auf dem Tisch vor dem Guckfenster
 lag ein aufgeschlagener Roman, und in der Seitenspalte
@@ -559,7 +559,7 @@ die Zähne wie im Fieberfrost.
 Harald riet Greep, Istrelle zunächst nicht zu verhaften,
 ihm gegenüber vielmehr sich völlig harmlos zu zeigen.
 
-»Er ist bestimmt Seftons Mörder.« fügte er hinzu.
+»Er ist bestimmt Seftons Mörder,« fügte er hinzu.
 »Er hat Sefton in dessen Schlafstube gelockt und ihn dort
 mit Seftons eigenem Revolver erschossen, dann seine Komplicen
 eingelassen, die ihn nachher fesseln mußten, damit keinerlei
@@ -670,7 +670,7 @@ Ich suchte die Füße zu bewegen: sie waren an den
 gegenüberliegenden Latten angebunden! —
 
 Ich schaute wieder Harald an. Er beugte sich nach links;
-ich nach rechts. Untere Köpfe berührten sich.
+ich nach rechts. Unsere Köpfe berührten sich.
 
 Ich begriff, was Harst beabsichtigte. Ich brachte meinen
 Kopf in eine andere Lage, fühlte nun, wie Harald trotz
@@ -1094,7 +1094,7 @@ Harald fuhr herum.
 »Jetzt gilt’s! Aber — die Ruhe bewahren! Kräfte
 sparen!«
 
-Wir sausen weiter. Die Strecke war zunächst eben.
+Wir sausten weiter. Die Strecke war zunächst eben,
 senkte sich dann etwas.
 
 Ich schwitzte nicht mehr. Nein, ich löste mich in
@@ -1281,7 +1281,7 @@ Der Lange wurde unsicher.
 Fünf Minuten später hatte Harst mit Greep gesprochen.
 Der Lange war jetzt um den Finger zu wickeln.
 
-Er stelle uns eine Lokomotive und einen Wagen. Wir
+Er stellte uns eine Lokomotive und einen Wagen. Wir
 verluden die Koffer und unseren Gefangenen in den offenen
 Güterwagen und dampften ab.
 
@@ -1322,7 +1322,7 @@ auf unseren Nachttischchen waren derart präpariert.
 
 Unsere Koffer hatte man nicht durchwühlt. Auch unsere
 Pistolen und der Inhalt unserer Taschen fanden sich
-auf dem Diwan unter einem Kissen vor. Wir hätten lediglich
+auf dem Diwan unter einem Kissen vor. Wir hatten lediglich
 unser bares Geld, ein Paar Lackstiefel, Frackweste und
 auch je ein Oberhemd bei diesem Abenteuer eingebüßt. —
 Erwähnen will ich, daß wir noch in Greeps Gegenwart die
@@ -1561,7 +1561,7 @@ Sie nur verwundet wurden. Ich hätte ebenso gut auf Ihren
 Kopf zielen können. — Ich wollte mich gern von meinen
 drei Genossen lossagen. Die Liebe zu Evelyn hatte
 mich gebessert. Aber sie hatten mich eben zu fest in den
-Klauen, und — Evelyns wollte nichts von mir wissen.
+Klauen, und — Evelyn wollte nichts von mir wissen.
 Istrelle war es wieder, der die Idee ausheckte, Evelyns
 Neigung zu Extravaganzen durch die Zeitungsausschnitte
 —«
