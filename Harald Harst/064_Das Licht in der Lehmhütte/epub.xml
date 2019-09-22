@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">5d86442c-dd4c-11e9-b18e-677df1d91332</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Licht in der Lehmhütte.</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">64</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Licht in der Lehmhütte.
+
+Es war an einem wundervollen Septembermorgen, als der Postbote in Berlin-Schmargendorf, Blücherstr. 10, zwei Briefe für den Besitzer dieses Villengrundstücks, den Gerichtsassessor a. D. Harald Harst, ablieferte.
+
+Harst besichtigte die Umschläge. »Einer aus Arendsee in Mecklenburg, der andere aus Berlin. — Sehr teures Briefpapier bei beiden; der aus Arendsee offenbar von einer Dame, die kräftige Parfüms liebt; der Brief duftet nach Ylan-Ylan. Die Handschrift der anderen sollte Dir bekannt sein, mein Alter. Diese steile, schmucklose Schrift ist die unseres Freundes Vincent Saalborg, von dem wir
+nun wochenlang nichts gehört haben.«
+
+Er schnitt diesen Brief zuerst auf. Es lag lediglich eine Besuchskarte sehr großen Formats darin. Auf der einen Seite war gedruckt zu lesen:
+
+Hektor Amadeus Fürst Palivarri.
+Herzog von Plachtenberg.
+Graf von und zu Pontio.
+
+Auf der anderen stand mit Tinte geschrieben:
+
+»Verehrtester Gegner! Es ist Zeit, daß wir die infolge besonderer Umstände unterbrochenen gegenseitigen Beziehungen wieder aufnehmen. Die Abwicklung unserer Wette ist zu sehr ins Stocken gekommen. Ich werde mir erlauben, am 15. September d. J. die berühmte Brillantbrosche der Gräfin von Rackler (Schloß Racklenberg, Bahnstation Arendsee, Mecklenburg) um ½ 11 Uhr abends wohltätigen Zwecken zuzuführen.
+
+Ich bin wie stets Ihr ergebenster
+
+Fürst Palivarri.«
+
+Die holländische Kuff.
+
+Um es gleich vorauszuschicken: Kuff ist ein breites, zweimastiges Segelschiff von 25-30 Meter Länge mit zumeist nur fünf Mann Besatzung einschließlich des Kapitäns. —
+
+Unser Abenteuer mit der holländischen Kuff »Drievahlen« begann in folgender Weise.
+
+Wir saßen mit dem Grafen Viktor, dessen Wiederauftauchen den Gästen verheimlicht worden war, gegen ein Uhr morgens im ersten Stock in des Grafen bisher verschlossen gehaltenem Arbeitszimmer bei Wein und Zigarren, als Gräfin Brigitta erschien und Harst und mir mitteilte, der Gemeindevorsteher von Arendsee, Merten, möchte uns gern in einer dringenden Angelegenheit sprechen.
+
+Merten war ein älterer, biederer Herr, früherer Schiffskapitän und ein guter Bekannter jenes Steuermanns, bei dem wir in Arendsee gestern gewohnt hatten.  Der Steuermann hatte ihm erzählt, daß Harst und Schraut im Schlosse Racklenberg als Gäste weilten, und so war Merten denn mit seinem Einspänner nach dem Schlosse gekommen, um uns zu bitten, ihm als dem zuständigen Polizeibeamten bei der Aufnahme des Tatbestandes einer etwas ungewöhnlichen Schiffsstrandung zu helfen.
+
+»Die Sache ist die, meine Herren,« fuhr er nun in seiner bedächtigen Art fort. »Um ½ 12 rief mich der nächste Nachbar vom Schloß Racklenberg, der Gutsbesitzer von Pronski, telephonisch an und meldete mir, daß ein Segler in der Nähe des Gutshauses, also etwa eine Viertelstunde westlich von Arendsee, auf Strand gelaufen sei. Ich fuhr sofort mit meinem Einspänner hin und fand auch wirklich etwa dreisig Meter vom Ufer entfernt eine holländische Kuff namens »Drievahlen« vor, die unter vollen Segeln sich auf einer Sandbarre festgefahren hatte. — Wir haben heute nur ganz flauen Wind, meine Herren, und keine Spur von Brandung. — Auf der Kuff hatte Herr von Pronski, der übrigens erst vor acht Monaten den Rest des Gutes Dramgarten gekauft und sich hier niedergelassen hat, jedoch mit niemandem verkehrt, zwei bewußtlose ältere Matrosen aufgefunden und in das alte, hinter den Dünen liegende Gutshaus schaffen lassen. Im übrigen war auf der Kuff kein lebendes Wesen zu entdecken.«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (064) Das Licht in der Lehmhütte.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
