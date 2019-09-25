@@ -178,7 +178,7 @@ Kuff oder gegen den Eigentümer?«
 »Ja, das ist schwer zu beantworten. Darüber muß
 das Seeamt entscheiden. Pronski ist wahrscheinlich arm.
 Er mag Geld brauchen. Man kann es ihm nicht verargen,
-daß er bei der Geschichte etwas heraus schlagen
+daß er bei der Geschichte etwas herausschlagen
 will.«
 
 Wir hatten jetzt den Dünenwald erreicht und fuhren
@@ -277,7 +277,7 @@ Hervorrufung größerer Blutlachen benutzte Hühnerblut.«
 Einrücken hervorgehoben. Der Leser wird ihn sich so
 leichter merken. —
 
-Wir beitraten die kleine Kajüte des Kapitäns.
+Wir betraten die kleine Kajüte des Kapitäns.
 
 Wir freuten uns über die Sauberkeit, die hier
 herrschte. Aber Harst lachte wieder leise, als er die Blutspritzer
@@ -602,7 +602,7 @@ der holländischen Kuff aus.
 
 Harald erwähnte, wie teuer uns der Besuch auf dem
 gestrandeten Segler hätte zu stehen kommen können. Während
-wir drei nun in eifrigen Gespräch einen Feldweg
+wir drei nun in eifrigem Gespräch einen Feldweg
 entlangschritten, kam uns der Badearzt Doktor Schmöcker
 entgegengeradelt.
 
@@ -644,7 +644,7 @@ beide treffen dann mit dem Nachmittagszug in Arendsee
 ein. Merten soll uns vom Bahnhof abholen und so tun,
 als hätten sich die beiden Beamten angemeldet.«
 
-»Verstehe!« nicke der Arzt. »Noch etwas, Herr
+»Verstehe!« nickte der Arzt. »Noch etwas, Herr
 Harst?«
 
 »Eine Frage. — Haben Sie die Totenscheine für die
@@ -723,7 +723,7 @@ Schlappmütze fast bis ins Genick gezogen.
 <@pagebreak/>
 Eine Viertelstunde verging so. Harald änderte plötzlich
 sein Benehmen, sagte lachend: »Unsinn! Hier brauchen
-wir unsere Rolle mich so streng durchzuführen.
+wir unsere Rolle nicht so streng durchzuführen.
 Sprechen wohl getrost hochdeutsch. Unser Platt ist ohnedies
 sehr mangelhaft — genau so mangelhaft wie die Ausführung
 der Pläne des Herrn Kapitäns de Long! So
@@ -793,7 +793,7 @@ nennen können, wenn nicht in den Augen so viel
 Tücke, Hinterlist und sinnlose Wut gelodert hätten.
 
 Sie zitterte jetzt vor ohnmächtigem Grimm wie im
-Fieberfrost. Harst versuchte, sie um Reden zu bringen.
+Fieberfrost. Harst versuchte, sie zum Reden zu bringen.
 Es gelang nicht.
 
 Nach einigem Suchen fanden wir die Lichtung und
@@ -852,7 +852,7 @@ Also Vorsicht!«
 Wir schritten mit unseren Reisetaschen davon. Wir
 mußten uns beeilen, wenn wir noch den Zug in Brunshaupten,
 dem Nachbarbadeort vom Arendsee, erreichen
-wollten, damit wir mit der Bahn im Arendsee einträfen.
+wollten, damit wir mit der Bahn in Arendsee einträfen.
 
 Harald war ungenießbar.
 
@@ -942,7 +942,7 @@ beigebracht worden?«
 
 Wir gingen wieder nach oben.
 
-»Nun, Herr Merten« fragte Harst den Gemeindevorsteher,
+»Nun, Herr Merten?« fragte Harst den Gemeindevorsteher,
 der rasch auf uns zukam.
 
 »Es war wirklich ein Kerl an dem einen Kellerfenster
@@ -1163,7 +1163,7 @@ das Schloß, drückte den Griff herab.
 
 Sie war offen.
 
-Wir traten ein, schlossen hinter und ab.
+Wir traten ein, schlossen hinter uns ab.
 
 In diesem Zimmer standen ein Bett und andere Schlafzimmermöbel.
 <@pagebreak/>
@@ -1244,7 +1244,7 @@ Wir hoben den Reifen an, zerrten die beiden Männer,
 die betäubt dort lagen, hervor und schleppten sie bis
 zum mittleren der drei Fenster.
 
-Harst öffnete es. Dann banden wir Tom Bennington.
+Harst öffnete es. Dann banden wir Tom Bennington
 in dem Sessel fest.
 
 <h2>5. Kapitel.</h2>
@@ -1381,7 +1381,7 @@ den Fingern eine kleine Schere hielt und die Schere mehrmals
 Inzwischen hatte Harst erwidert:
 
 <@pagebreak/>
-»Wir werben nicht schießen. Bevor ich über die Annahme
+»Wir werden nicht schießen. Bevor ich über die Annahme
 dieser Bedingungen, deren Inhalt ich mir denken
 kann, spreche, möchte ich wissen, weshalb diese Männer
 da,« — er zeigte auf de Long und Priscart — »Ihnen
@@ -1442,7 +1442,7 @@ Miß Bennington. Sie fünf flohen mit den Juwelen, anstatt
 den Raub mit Saalborg zu teilen. Dann —«
 
 »Verzeihen Sie. Der Sachverhalt ist da etwas verwickelter,
-als Sie glauben. Herr Harst. — Ja, wir flohen.
+als Sie glauben, Herr Harst. — Ja, wir flohen.
 In New Orleans aber begingen Illberg und Reppard eine
 ungeheure Schurkerei: sie denunzierten uns bei der Polizei
 und entwichen — mit den Juwelen. Wir drei wären
@@ -1594,7 +1594,7 @@ Der Gemeindediener lag gefesselt in der Zelle. —
 
 Illberg und Reppard wurden zu lebenslänglichem
 Zuchthaus verurteilt. Tom Bennington war von ihnen,
-wie sie zugaben, gezwungen worden. Gift zu trinken. —
+wie sie zugaben, gezwungen worden, Gift zu trinken. —
 Die holländische Kuff wurde in Warnemünde versteigert.
 
 Die Bemühungen der Polizei, die drei Entflohenen,

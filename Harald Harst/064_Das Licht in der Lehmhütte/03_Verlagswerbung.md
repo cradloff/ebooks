@@ -3,7 +3,7 @@
 <h2>Titel-Verzeichnis der Harald Harst-Bändchen.</h2>
 
 <table style="table-layout:fixed; font-size: x-small;">
-<tr><td style="width: 50%">169. Die Blinde vom Engelsriff.</tr><td style="width: 50%">199. Die weiße Grotte.</td></tr>
+<tr><td style="width: 50%">169. Die Blinde vom Engelsriff.</td><td style="width: 50%">199. Die weiße Grotte.</td></tr>
 <tr><td>170. Der tote Radscha.                 </td><td>200. Die Hand Gottes.</td></tr>
 <tr><td>171. Ein seltsames Hochzeitsgeschenk.  </td><td>201. Der leere Zettel.</td></tr>
 <tr><td>172. Der Abreißkalender des Kapitäns.  </td><td>202. Die Zigarren des Mister Goulderlay.</td></tr>

@@ -1,7 +1,7 @@
 <@pagebreak/>
 Nachdruck verboten. Alle Rechte einschließlich Verfilmungsrecht
 vorbehalten, Copyright by Verlag moderner Lektüre
-G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin 26, — 1922,
+G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin 26, — 1922.
 
 <h1>Das Licht in der Lehmhütte.</h1>
 
@@ -82,7 +82,7 @@ an jener Stelle einen Gedenkstein für meinen Gatten errichten
 lassen. — Ich muß dies vorausschicken, da dieser
 Stein eine gewisse Rolle bei der Geschichte der Lehmhütte
 spielt. — Sie werden enttäuscht sein und denken: was
-kann eine Lehmhütte Interessantes im sich bergen?!
+kann eine Lehmhütte Interessantes in sich bergen?!
 
 > Ich will mich möglichst kurz fassen. Schloß Racklenberg
 <@pagebreak/>
@@ -94,7 +94,7 @@ Das Moor ist dort etwa 150 Meter breit und nur weiter
 südlich mit Hilfe einer Holzbrücke zu passieren. Jenseits
 steigt das Land zu kahlen Heidehügeln auf. Und dort
 steht auch die alte Lehmhütte, die nach einem Familienbrauche,
-der auf den Pater meines Gatten zurückzuführen
+der auf den Vater meines Gatten zurückzuführen
 ist, nicht entfernt und auch nicht betreten werden soll. Sie
 ist deshalb mit einem Zaun aus Pfählen und acht Stacheldrähten
 umgeben.
@@ -115,7 +115,7 @@ Seebad Arendsee den deutschösterreichischen Fürsten Palivarri
 kennen. Er war drei Tage mein Gast, bemerkte das
 Licht in der Lehmhütte ebenfalls und riet mir, ich sollte
 mich an Sie wenden. Er behauptete, daß Sie beide von
-Indien und Südamerika her fast befreundet fein.
+Indien und Südamerika her fast befreundet sein.
 
 Am 15. d. M. gebe ich hier im Schlosse einen Maskenball.
 Sie werden sich wundern, wie ich auf den Gedanken
@@ -211,7 +211,7 @@ Döring und bereits elf Jahre hier ansässig. Wir
 hatten uns Hirth und Schroth genannt und als Kaufleute
 ausgegeben.
 
-Dörings Frau wollte und ein einfaches Abendessen
+Dörings Frau wollte uns ein einfaches Abendessen
 herrichten. Wir saßen gegen sieben Uhr dann in der Laube
 vor dem Hause, und Harald hatte soeben begonnen, den
 Steuermann so hintenherum nach Schloß Racklenberg auszufragen,
@@ -271,7 +271,7 @@ nicht wahr?«
 
 »Ne, ne — das ist kein Unsinn! Wenn’s die Herren
 interessiert, zeige ich ihnen die Lehmhütte. Wir haben
-von hier ’ne knappe halbe Stunde zu geben. Dort drüben
+von hier ’ne knappe halbe Stunde zu gehen. Dort drüben
 jenseits des Waldes liegt das Schloß.«
 
 Harald lachte. »Nein, Herr Döring! Heute sind wir
@@ -301,8 +301,8 @@ Harald. »Vorwärts — suchen wir sie! Und übernachten
 wir dort!«
 
 Als wir etwa hundert Meter querfeldein gegangen
-waren, stießen wir am Rande eines Abhangs auf gestrüppumcherte
-Mauerreste.
+waren, stießen wir am Rande eines Abhangs auf
+gestrüppumwucherte Mauerreste.
 
 Harst blieb stehen, flüsterte:
 
@@ -322,7 +322,7 @@ Harst hatte meinen Arm gepackt und hauchte mir zu:
 »Vorsicht! Näher heran! Schritt für Schritt!«
 
 So schlichen wir behutsam weiter, bis wir ein Stück
-Mauer uns hatten, in dem noch eine Schießscharte zu
+Mauer vor uns hatten, in dem noch eine Schießscharte zu
 sehen war.
 
 »Nur keine Sorge,« sagte hinter der Mauer ein tiefer
@@ -336,7 +336,7 @@ verderben,« meinte eine hellere Stimme.
 »Ja — ich konnte den Brief leider nicht abfangen,«
 seufzte der Baß. »Die Frau Gräfin trug ihn ja persönlich
 nach Arendsee. Was sie geschrieben hat, war auf der
-frischen Löschblattunterlage zum Teil entziffern. Das
+frischen Löschblattunterlage zum Teil zu entziffern. Das
 verdammte Licht! Wer konnte aber auch daran denken!«
 
 »Franz paßt also auf dem Bahnhof in Arendsee auf
@@ -492,7 +492,7 @@ Harst saß in der Sofaecke und lachte.
 »Der Dauerlauf war Dir ganz gesund, mein Alter.
 Wir hätten ja auch im Schritt gehen können. Aber sie hätten
 vielleicht die Hunde hinter uns drein geschickt, und ich
-wollte die Tiere nicht erschießen — «
+wollte die Tiere nicht erschießen —«
 
 Plötzlich erhob er sich halb und nahm ein Blatt Papier
 vom Tische auf.
@@ -550,7 +550,7 @@ mit Umhang und Sehlöchern in der Kapuze.
 »Verhalten Sie sich still!« fügte der erste hinzu. »Wir
 knallen Sie wie tolle Hunde nieder, wenn Sie nicht gehorchen.
 Die oberen Scheiben des Schlafstubenfensters
-waren offen. Sie Sehen — wir lassen Sie nicht aus den
+waren offen. Sie sehen — wir lassen Sie nicht aus den
 Krallen! — Wollen Sie Ihr Ehrenwort geben?«
 
 Harald streckte die Hand aus — nach der Lampe.
@@ -604,7 +604,7 @@ gleich einen Wagen besorgen? Wir haben für eine Woche
 vorausgezahlt. Das Geld bleibt Ihnen. Wir selbst siedeln
 ins Schloß über!« —
 
-Um drei Uhr morgens fuhr der Wangen vor. Der
+Um drei Uhr morgens fuhr der Wagen vor. Der
 Kutscher und Eigentümer war ein altes Männchen. Nach
 freundlichem Abschied von dem Steuermann setzte sich das
 recht bequeme Gefährt in Bewegung.
@@ -708,7 +708,7 @@ Mehr war aus ihm nicht rauszukriegen.« —
 
 Der Wagen war längst in den Wald eingebogen. Der
 Mond stand bereits so tief, daß der schmale Waldweg völlig
-dunkel war. Die beiden Wagenlaternen waren nur
+dunkel war. Die beiden Wagenlaternen warfen nur
 ein recht spärliches Licht auf die ausgefahrenen Geleise.
 
 Harald war verstummt. Ich sah, daß er den Kopf
@@ -823,7 +823,7 @@ führende Holzbrücke.
 Als das Ende der Brücke in Sicht kam, gewahrten
 wir am Geländer eine in einen hellen Seidenmantel gehüllte
 Frauengestalt, die ein Jägerhütchen mit Spielhahnstutz
-auf den blonden Haar trug.
+auf dem blonden Haar trug.
 
 »Die Gräfin!« flüsterte Schramke, indem er den
 Kopf halb drehte.
@@ -879,7 +879,7 @@ die beiden Möllers und den dritten Mann belauscht hatten!,
 sprach auch nur von zwei Leuten in Lodenumhängen
 und Kapuzen. Alles übrige berichtete er wahrheitsgetreu.
 
-Die Gräfin hatte sich zu und gesetzt. Sie war so vollständig
+Die Gräfin hatte sich zu uns gesetzt. Sie war so vollständig
 <@pagebreak/>
 verblüfft von dieser »halben Räubergeschichte«,
 wie Harst unsere Erlebnisse scherzend bezeichnete, daß sie
@@ -924,7 +924,7 @@ Nicht wahr, Herr Harst, der Fürst ist doch ein geradezu
 bezaubernder Gesellschafter. Sie kennen ihn ja persönlich.«
 
 »Er ist ein Genie, Frau Gräfin. Hat er Ihnen von
-der Wette erzählt, die er mir vorgeschlagen hat!«
+der Wette erzählt, die er mir vorgeschlagen hat?«
 
 »Wette?! Nein —«
 
@@ -971,7 +971,7 @@ interessiere mich für alten Schmuck.«
 
 Sie zögerte erst. Dann erhob sie sich.
 
-»Gern, Herr Harst, — Leder sind die Brillanten durch
+»Gern, Herr Harst, — Leider sind die Brillanten durch
 vieles Tragen etwas unansehnlich geworden —« — Sie
 verließ den Saal.
 
@@ -998,7 +998,7 @@ Möller hatte ein offenes, frisches Gesicht. Seine großen
 grauen Augen schauten uns voll an.
 
 Harald lächelte ihm zu. »Sie werden es kaum glauben,
-was uns hier begegnet ist, Herr Oberinspektor. —
+was uns hier begegnet ist, Herr Oberinspektor, —
 hier in einem kultivierten Lande,« fuhr er fort. »Der
 Landjäger, den wir vorhin trafen, erwähnte zwei Einbrecher,
 auf die Sie Jagd gemacht hätten. Ich weiß nun
@@ -1053,7 +1053,7 @@ und gewußt haben, daß sie gerade Harald Harst vor sich
 hatten. Daher wollten sie Sie verjagen, Herr Harst. Eine
 andere Deutung gibt’s wohl nicht.«
 
-»Bravo, lieber Möller!« nicke die Gräfin. »Dasselbe
+»Bravo, lieber Möller!« nickte die Gräfin. »Dasselbe
 habe ich mir gedacht — genau dasselbe!«
 
 »Ich auch!« meinte Harald. »Wahrscheinlich trifft die
@@ -1098,12 +1098,12 @@ hat — gegen die Imitation!« vollendete ich eifrig.
 
 »Blödsinn, mein Alter. Blödsinn! Du bist offenbar
 <@pagebreak/>
-müde und abgespannt, — Würde die Gräfin so errötet
+müde und abgespannt. — Würde die Gräfin so errötet
 sein, wenn sie die Brosche für echt hielte?! Nein — sie
 selbst behaupte ich, hat die echte Brosche veräußert und die
 Imitation anfertigen lasen zur Täuschung ihrer Bekannten.
 Schloß und Rittergut Racklenberg waren vor anderthalb
-Jahren beim Tode bei Grafen Viktor noch mit Schulden
+Jahren beim Tode des Grafen Viktor noch mit Schulden
 bepflastert. Jetzt ist der Besitz fast schuldenfrei. Die Gräfin
 hat eben die Brosche verkauft — sehr einfach! Und
 unser Freund Saalborg wieder hat uns nur durch die
@@ -1132,7 +1132,7 @@ Er nahm mich dann wie ein Kind in die Arme und
 trug mich ins Nebenzimmer. Hier flößte er mir einen
 halben Becher Kognak ein.
 
-»Was — ist. — vorgefallen?« lallte ich.
+»Was — ist — vorgefallen?« lallte ich.
 
 Harald hatte sich neben den Diwan gesetzt, auf dem
 ich lag.
@@ -1276,7 +1276,7 @@ das Museum eingebrochen worden ist.«
 
 Wir vier schritten weiter. — Dann fanden wir vor
 dem engen, hohen Stacheldrahtzaun, der die Lehmhütte
-mit ihren halb eingestürzten, grünbemoosten Dach im großen
+mit ihrem halb eingestürzten, grünbemoosten Dach im großen
 Viereck umgab.
 
 Der Zaun hatte keine Tür. Die beiden Damen setzten
@@ -1318,7 +1318,7 @@ Blatt Papier hervor.
 
 »Da, — Du siehst, es ist das Erinnerungsformular
 einer Lebensversicherungsgesellschaft, an den Grafen
-Viktor von Rackler gerichtet, und betrifft eine fällige Beamte
+Viktor von Rackler gerichtet, und betrifft eine fällige Prämie
 von 1850 Mark.«
 
 »Allerdings — das sehe ich!« meinte ich nachdenklich.
@@ -1383,7 +1383,7 @@ längere Zeit geleuchtet, behaupte ich jetzt.«
 »Wo denn sonst?! — Meinst Du, die Gräfin hat uns
 etwa absichtlich die Unwahrheit berichtet?«
 
-»Nein, mein Alter. Es war nur, eine Sehtäuschung.
+»Nein, mein Alter. Es war nur eine Sehtäuschung.
 Du wirst das nachher schon verstehen.« —
 
 Die beiden Damen waren jetzt draußen an den Zaun
@@ -1423,7 +1423,7 @@ aus China seiner Zeit mitgebracht, so daß die Gräfin
 dieser Bitte leicht entsprechen konnte. Die Brosche sollte sie
 wie eine Vorsteckknadel vorn an der seidenen Jacke tragen.
 
-Erst um neun begaben wir uns einzeln im die Festräume.
+Erst um neun begaben wir uns einzeln in die Festräume.
 Es waren hier gegen siebzig Personen versammelt.
 
 Es wurde bereits getanzt. Die Gräfin war leicht herauszufinden.
@@ -1679,7 +1679,7 @@ Ich möchte zum Schluß noch hinzufügen, daß dieses
 Maskenfest noch eine andere Ueberraschung brachte, die ich
 in der nächsten Erzählung schildern will, — eine Ueberraschung,
 die ein neues Problem einleitete, dessen Einzelheiten
-»Das Licht in der Lehmhütte« am Seltsamkeit noch
+»Das Licht in der Lehmhütte« an Seltsamkeit noch
 übertrafen.
 
 
