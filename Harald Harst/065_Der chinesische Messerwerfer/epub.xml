@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">7b2ef00c-e772-11e9-81c4-770580f7c997</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der chinesische Messerwerfer</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">65</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der chinesische Messerwerfer.
+
+Am 26. September vormittags neun Uhr fuhr vor der Harstschen Villa in Berlin-Schmargendorf ein großes Reiseauto vor, dem eine Dame in Reisemantel und Autobrille entstieg.
+
+Harst und ich standen gerade am Fenster von Haralds Arbeitszimmer.
+
+»Ein amerikanischer Chosbrey-Wagen,« meinte Harald in Bezug auf das Auto. »Acht Zylinder, aller Komfort, Preis etwa 80 000 Dollar. Die Dame will natürlich zu uns. Sie hat jetzt die Autobrille abgenommen. Die übrigen drei Personen —« — Er schwieg einen Moment, fuhr dann fort: »Weißt Du, wer die Dame ist? Vor vier Jahren konntest Du ihr Bild in allen illustrierten Blättern finden — auf dem Drahtseil — in Balltoilette. Es ist die ehemalige Seiltänzerin Asta Astara, jetzt Gattin des Chikagoer Milliardärs Willburne —«
+
+»Ah — dieselbe, der durch die Bande Vincent Saalborgs vor einem Jahr sämtliche Juwelen gestohlen wurden.«
+
+»Ganz recht. — Sie kommt auf das Haus zu. Treten wir vom Fenster zurück.«
+
+Gleich darauf saß Frau Asta Willburne uns gegenüber.
+
+Die Blinde von Giseh.
+
+Frau Auguste Harst, Haralds Mutter, kehrte am 30.  September vormittags gegen elf Uhr von Besorgungen nach der Harstschen Villa zurück.
+
+Mit ihrer Heimkehr von allerlei Einkäufen begann für uns der Fall der Blinden von Giseh.
+
+Frau Harst packte auf der Veranda, die an der Hinterseite des Hauses lag, ihre Einkäufe aus.
+
+»Da, Harald, diesen wundervollen Anzugstoff habe ich für Euch beide bei Müller am Alexanderplatz erstanden,« sagte sie. »Der Stoff reicht gerade für zwei —«
+
+Sie schwieg, rief dann: »Nein — so was! Hier ist ja ein Brief mit dem Stoff zugleich eingewickelt worden — ein an Dich adressierter Brief, Harald!«
+
+Harst nahm den Brief und nickte.
+
+»Stimmt — an mich! — Die Art der Zustellung dieses Schreibens verspricht so allerlei!«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (065) Der chinesische Messerwerfer.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922-01-01</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
