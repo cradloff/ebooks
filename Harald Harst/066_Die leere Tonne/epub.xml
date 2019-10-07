@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">d82787e0-e93b-11e9-b372-9759e5a4ccdb</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die leere Tonne</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">66</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Rätsel der Oase Tschamra.
+
+Wir saßen auf der Terrasse des alten Schlosses Shipparl, wo wir seit gestern auf Mocrisams Einladung hin als Gäste wohnten.
+
+Vor Harald lag auf dem Tische ein Brief, der vor einer halben Stunde für ihn eingetroffen war.
+
+Das Schreiben rührte von unserem alten Gegner Vincent Saalborg her, der sich mit Recht den einzigen Gentleman unter den Hochstaplern nannte. Dem Leser dürfte der Name Vincent Saalborg längst geläufig sein.
+
+Der Brief war im nahen Dover, dem englischen Kanalhafen, aufgegeben worden. Er lautete:
+
+»Dover, den 5. Okt. 19... — Verehrtester Herr Harst!  Sie wissen, daß ich diesem gemeinen Betrüger Stuart Jefferson vorgestern die Brieftasche in der Maske eines englischen Polizisten abgenommen habe. In dieser Brieftasche entdeckte ich zwischen Futter und Leder das beifolgende Blatt Papier. Da es mir nicht gelang und wohl auch nicht gelingen wird, die auf dem Papier stehende Geheimschrift (falls es eine ist!) zu entziffern, sende ich Ihnen das Blatt zu. — Auf Wiedersehen. — Wie stets — Ihr Bewunderer
+V. Saalborg.«
+
+Die leere Tonne.
+
+Harald Harst hatte sein Reitkamel mit einem Ruck zum Stehen gebracht.
+
+Die Palmen der Oase lagen etwa hundert Meter vor uns. Nach rechts zu stand jener etwas schräge Baum, an dessen Fuß Daisy Steenhoope einen großen Schatz zu finden gehofft hatte. Die Palme erhob sich auf einer kleinen Lichtung und war auch von hier aus deutlich zu erkennen.
+
+Als Harst so plötzlich halt gemacht hatte, wollte ich feststellen, was ihn hierzu veranlaßt haben könnte. Ich schaute ihn an. Ich sah, daß sein Blick auf die Palmen gerichtet war, nicht auf die Stämme, sondern auf die Kronen.  Dieser Blick haftete beharrlich auf demselben Punkt.
+
+»Was gibt’s?« fragte ich dann.
+
+»Einen eingeknickten Zweig. — Es dürfte sich empfehlen, mein Alter, die Pistolen zur Hand zu nehmen. Vorwärts!«
+
+Aber — er ritt jetzt nicht mehr geradeaus, sondern im Bogen um die Oase herum.
+
+Ich trabte hinter Harald drein. Als ich ihn eingeholt hatte, rief er mir zu: »Wir müssen feststellen, ob frische Fährten in die Oase führen. Der eingeknickte Palmenzweig gibt sehr zu denken!«
+
+»Weshalb? Nur ein Zweig?! Ich begreife das nicht recht.«
+
+»Du wirst es begreifen —«</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (066) Die leere Tonne.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922-01-01</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
