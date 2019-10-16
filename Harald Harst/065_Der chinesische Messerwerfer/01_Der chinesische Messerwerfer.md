@@ -34,7 +34,7 @@ wir vom Fenster zurück.«
 
 Gleich darauf saß Frau Asta Willburne uns gegenüber.
 
-»Herr, Harst, ich halte mich seit sechs Wochen in Europa
+»Herr Harst, ich halte mich seit sechs Wochen in Europa
 auf,« begann sie in tadellosem Deutsch. »Vor drei
 <@pagebreak/>
 Tagen fand ich in einer Amsterdamer Zeitung einen Bericht
@@ -131,7 +131,7 @@ Polizei gewandt, gnädige Frau?«
 Graf im Miramare seit zwei Tagen gewohnt hatte, nachmittags
 ein Uhr jedoch nach London abgereist war.«
 
-»Ganz interessant!« Sag Harald zerstreut. »Ganz
+»Ganz interessant!« sagte Harald zerstreut. »Ganz
 interessant! Sie gestatten, daß ich rauche, gnädige Frau.
 — Und weiter?«
 
@@ -219,7 +219,7 @@ Kommissar in Amsterdam gegenüber lediglich auf diese meine
 Anweisungen zurückzuführen sei. Mit einem Wort: Sie
 sollen so tun, als hätten Sie mich schriftlich schon vor vierzehn
 Tagen gebeten, die Diebe Ihrer Juwelen zu suchen!
-— Dann wird die amerikanische Presse schweigen, müssen;
+— Dann wird die amerikanische Presse schweigen müssen;
 dann kommt Ihre Kurzsichtigkeit auf mein Konto.«
 
 Sie hatte wieder in ihrem Sessel Platz genommen.
@@ -388,7 +388,7 @@ Chauffeur zu: »Halt — einen Augenblick noch —«
 Er sprang aus dem Auto, dessen Hinterdeck zurückgeklappt
 war, heraus und ging den Gang zwischen den Laubengärten
 entlang auf einen ärmlich gekleideten Menschen
-zu, an einen Zaun lehnte und Zeitung las.
+zu, der an einen Zaun lehnte und Zeitung las.
 
 <@pagebreak/>
 Ich war gleichfalls ausgestiegen.
@@ -477,7 +477,7 @@ Deshalb mein Interesse für jene Zeitschriften.« —
 Um zehn Uhr vormittags waren wir in Amsterdam.
 Wir nahmen im Miramare-Hotel zwei Luxuszimmer Nr.
 7 und 8 im ersten Stock. Um unsere Spur zu verwischen,
-belegten mir gegen 12 Uhr in einem Gasthofe des Hafenviertels
+belegten wir gegen 12 Uhr in einem Gasthofe des Hafenviertels
 auch ein Zimmer, kleideten uns um und schlenderten
 als rotbärtige Matrosen wieder dem Innern der
 Stadt zu, bis wir den Rembrandt-Platz erreicht hatten, an
@@ -498,7 +498,7 @@ von früher her persönlich.
 
 Wir schlenderten weiter.
 
-»Also Diamant-Straße 16. südlich vom Waterloo-Platz,«
+»Also Diamant-Straße 16, südlich vom Waterloo-Platz,«
 <@pagebreak/>
 meinte Harst. »Eine ziemlich üble Gegend, mein
 Alter, übel und gefährlich.«
@@ -527,7 +527,7 @@ Ich verstand. — Dann wandte er sich an den Beamten:
 »Das werden Sie auf der Wache hören. Gehen Sie
 uns voran. — Kehrt Marsch — vorwärts!«
 
-Harald hatte sich in meinen Arm ein. Wir kehrten um.
+Harald hakte sich in meinen Arm ein. Wir kehrten um.
 Hinter uns erhob sich ein Höllenkonzert.
 
 Am Ausgang der Gasse hielt schon ein geschlossenes
@@ -676,7 +676,7 @@ Lichtbild wird Ihnen genügen, Herr Direktor.«
 
 Ullerbreuch verglich, nickte und erklärte:
 
-»Natürlich, — Sie sind Harst!! Ich habe nie daran
+»Natürlich, — Sie sind Harst! Ich habe nie daran
 gezweifelt.«
 
 Er gab dem Hageren den Ausweis zurück.
@@ -990,7 +990,7 @@ Im gleichen Moment schnellte Harst sich vorwärts,
 packte den vorderen, warf ihn nach vorn, so daß der Kerl
 mir vor die Füße rollte.
 
-Ich kniete auf ihm hielt ihm die Clement ins Genick,
+Ich kniete auf ihm, hielt ihm die Clement ins Genick,
 drohte, sofort abzudrücken.
 
 Harald hatte den anderen schon niedergeboxt. Er half
@@ -1327,7 +1327,7 @@ mußte sofort vorüber sein. Als nächste Nummer kam Hei
 Tschen heran.
 
 »Ich fürchte, daß Kolmar irgend etwas gegen Maud
-im Schilde führt,« sagte Harst leise. »In habe ihn soeben
+im Schilde führt,« sagte Harst leise. »Ich habe ihn soeben
 <@pagebreak/>
 am Büfett im Restaurant beobachtet. Er hat einen
 Schnaps nach dem andern hinabgegossen. Mir scheint,
@@ -1355,7 +1355,7 @@ Dann stand da noch ein Name, den ich vergessen habe.«
 »Tatsächlich — Foller! Wie können Sie aber —«
 
 »Oh — das bringt mein Liebhabermetier so mit sich,
-daß ich mehr weiß, als andere. — Sagte Kolmar noch
+daß ich mehr weiß als andere. — Sagte Kolmar noch
 mehr zu Ihnen?«
 
 »Nein. Aber es machte so auf mich den Eindruck, als

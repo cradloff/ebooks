@@ -170,6 +170,7 @@ Mithin fehlt Seite 2 und 3, also die Mitte.«
 »Das Komische kommt nachher heran. Also —:«
 
 <@pagebreak/>
+
 > allen Grund, mich nicht persönlich zu Ihnen zu wagen.
 Es ist unbedingt nötig, daß Sie meine Vorschläge genau
 befolgen. Sollten Sie nicht Zeit haben, die Sache in die
@@ -314,7 +315,7 @@ Und dann kam die Ueberraschung.
 Harald deutete auf die durch einen Schrank verstellte
 Verbindungstür, die nach 154 führte, und fragte den Oberkellner:
 
-»Wer unser Nachbar dort? — Ich bin ein sehr mißtrauischer
+»Wer ist unser Nachbar dort? — Ich bin ein sehr mißtrauischer
 Herr —«
 
 »Niemand, Master Tompson, niemand! Dort wohnte
@@ -578,7 +579,7 @@ Harald lachte kurz auf.
 
 »Merkst Du was? Diese Karte, mit Maschine geschrieben,
 sollte Mocrisam täuschen. Er sollte annehmen, sie
-käme von mir als Antwort seinen Brief. Wenn Du
+käme von mir als Antwort auf seinen Brief. Wenn Du
 <@pagebreak/>
 den Herrn Strahmann in Strah und Mann zerlegst und
 Strah von hinten liest, heißt es Harst. Fein — wie?! —
@@ -670,7 +671,7 @@ Sein schmales Gesicht strahlte förmlich vor Energie.
 
 <h3>Das blinde Mädchen.</h3>
 
-Und — wieder kam es ganz anders, als wir dachten
+Und — wieder kam es ganz anders, als wir dachten,
 ganz anders! —
 
 Wir rücken den Schrank leise ab. Die Verbindungstür
@@ -712,7 +713,7 @@ Die arbeiten geräuschlos!«
 
 Der Mensch lachte höhnisch auf.
 
-»Wir sind hier zu dreien!« sägte er hinzu. »Das genügt!
+»Wir sind hier zu dreien!« fügte er hinzu. »Das genügt!
 Also — hoch mit den Armen. Ihr habt nur ein
 Leben zu verlieren! Vergeßt das nicht!«
 
@@ -742,7 +743,7 @@ schillerten in ohnmächtiger Wut.
 wissen nicht, mit wem Sie sich hier eingelassen haben!«
 
 <@pagebreak/>
-Harald wandte ich achselzuckend dem Koffer zu.
+Harald wandte sich achselzuckend dem Koffer zu.
 
 In diesem lag mit angezogenen Knien, Kopf und
 Rücken gegen ein graues Polster gestützt, ein junges, blondes
@@ -1148,7 +1149,7 @@ Sie erschien noch in ihrem groß gestreiften Morgenrock.
 Sie war schön — ohne Frage — trotz der erloschenen
 Augen, über denen ein milchiger Schimmer lag. Nur ihr
 <@pagebreak/>
-Gesichtsausdruck behagte mir nicht. Da war ein trotziger
+Gesichtsausdruck behagte mir nicht. Da war ein trotziger,
 verschlafener Zug um den Mund; da war in der Art,
 wie sie den Kopf trug, etwas Feindseliges, Hartes und
 Herbes.
@@ -1390,7 +1391,7 @@ Wort. »Das kann nicht gut stimmen. Ihre Tochter ist jene
 junge Dame dort.« — Er trat schnell auf die Blinde zu
 und schob ihr den Schleier hoch.
 
-»Wie — Daisy Jefferson!« rief der alte, Herr ganz
+»Wie — Daisy Jefferson!« rief der alte Herr ganz
 fassungslos. »Daisy — wie kommen Sie hierher?!«
 
 Die Blinde war leichenblaß geworden. Nein — nicht
