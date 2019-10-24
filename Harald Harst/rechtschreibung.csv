@@ -395,7 +395,6 @@ bieiben	bleiben
 bierher	hierher
 bier	hier
 Bier	hier
-Cm	Im
 biieb	blieb
 Biindel	Bündel
 Biische	Büsche
@@ -504,6 +503,7 @@ Chlorosorm	Chloroform
 Chr	Ihr
 Ciir	Tür
 Cin	Ein
+Cm	Im
 Cr	Er
 Cs	Es
 ctas	etwas
@@ -675,6 +675,7 @@ Dh	Ich
 Dhm	Ihm
 Dhnen	Ihnen
 Dh	Oh
+Dhrer	Ihrer
 Dianmnten	Diamanten
 diaß	daß
 diasz	daß
@@ -684,6 +685,7 @@ Diciie	Dicke
 dicite	dicke
 dicse	diese
 did	dich
+Di	Du
 Diebesbaade	Diebesbande
 Diebeshande	Diebesbande
 diefe	diese
@@ -1030,6 +1032,7 @@ fahve	fahre
 falfchen	falschen
 falien	fallen
 Falltiir	Falltür
+fam	kam
 fann	kann
 faß	saß
 fchaltete	schaltete
@@ -1052,6 +1055,7 @@ fch	sich
 fchwer	Schwer
 fchwerwiegenden	schwerwiegenden
 fchwitzte	schwitzte
+febten	setzten
 Fehber	Fehler
 fehen	Sehen
 fehr	sehr
@@ -1440,6 +1444,7 @@ haiten	hatten
 Haiuniien	Halunken
 Hakan	Haken
 Hakst	Harst
+hal	hat
 Halhschlaf	Halbschlaf
 Hälste	Hälfte
 Halunlie	Halunke
@@ -2399,6 +2404,8 @@ Lente	Leute
 Lesezinrmer	Lesezimmer
 leßten	letzten
 lette	letzte
+levten	letzten
+levter	letzter
 levt	jetzt
 lezte	letzte
 lezten	letzten
@@ -3496,6 +3503,7 @@ Stod	Stock
 stolperie	stolperte
 stoppden	stoppten
 stossweise	stoßweise
+Strabe	Straße
 Straffachen	Strafsachen
 strannnen	strammen
 Straßenfeite	Straßenseite
@@ -3856,6 +3864,7 @@ varald	Harald
 Var	Bar
 Varbatty	Warbatty
 var	vor
+var	war
 vas	das
 Vas	Das
 vasfiniert	raffiniert
@@ -4066,6 +4075,7 @@ wghl	wohl
 Wiarbattys	Warbattys
 wiar	war
 wias	was
+wicht	nicht
 widerstrebemd	widerstrebend
 Wiinschen	Wünschen
 wiinschte	wünschte
@@ -4111,6 +4121,7 @@ Wolpooves	Wolpoores
 Wolpoove	Wolpoore
 wol	wohl
 Woniit	Womit
+Worb	Wort
 Woriiber	Worüber
 Wortfiihrer	Wortführer
 wos	was
