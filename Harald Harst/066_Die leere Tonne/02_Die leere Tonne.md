@@ -367,7 +367,7 @@ Wasser 0, Ziel.
 Harst steckte den Stein in die Tasche. »Damit können
 wir uns später befassen,« sagte er nur.
 
-Der an Bärtige kam zu sich, richtete sich auf, glotzte uns
+Der Bärtige kam zu sich, richtete sich auf, glotzte uns
 wild an.
 
 »Schufte!« knirschte er. »Elende Schufte! Ihr habt
@@ -566,7 +566,7 @@ scheinbar gleichgültig zu, wie er mit seinem Taschenmesser
 die Spitze abschnitt, das Messer neben sich legte und die
 Zigarre anbrannte.
 
-Nach den erstem Zügen schien er plötzlich gespannt in die
+Nach den ersten Zügen schien er plötzlich gespannt in die
 Ferne zu lauschen.
 
 »Hörtest Du?« flüsterte er. »Da — wieder —«
@@ -658,7 +658,7 @@ Ich schritt langsam auf ihn zu, tief gebückt.
 »Da rennt er!« lachte Harst. »Nach Norden zu. —
 Jetzt biegt er links ab —«
 
-Ich konnte der Flüchtling in der mondscheinhellen
+Ich konnte den Flüchtling in der mondscheinhellen
 Wüste noch mit bloßem Auge erkennen. Bald jedoch
 tauchte er in der fernen, bläulichen Dämmerung unter.
 
@@ -777,7 +777,7 @@ Schlucht. Beeilen wir uns. Ich möchte die Frau überraschen.«
 der Insel hinüber, ein Weib, der man die Italienerin sofort
 ansah —«
 
-Ich merkte, daß ihn dieses Abenteuer mehr erregter, als
+Ich merkte, daß ihn dieses Abenteuer mehr erregte, als
 weit spannendere Situationen, die wir durchgemacht
 hatten.
 
@@ -803,7 +803,7 @@ bis wir ungefähr wissen, was die Leute hier treiben
 und wo sie ihren Schlupfwinkel haben. Daß sie bereits
 längere Zeit hier leben, unterliegt keinem Zweifel,
 da das Blatt Papier mit der Geheimschrift nur im April
-dieses Jahres in dem Besitz Stuart Jeffersons gelangt sein
+dieses Jahres in den Besitz Stuart Jeffersons gelangt sein
 kann und da dieses Papier wieder mit dem ovalen Ziegel
 und dieser wieder mit dem See hier und den Italienern zusammenhängt.
 Also halten die Italiener sich hier mindestens
@@ -836,7 +836,7 @@ Und — aus der Tonne heraus hing, ebenfalls nach
 Westen zu, die Hand eines menschlichen Skeletts.
 
 Sie zeichnete sich scharf gegen das Holz der Tonne ab.
-Man erkannte sofort, was jener gelb weißliche Gegenstand
+Man erkannte sofort, was jener gelbweißliche Gegenstand
 war, der dort über den Rand der Tonnenöffnung hinwegragte.
 
 Harald hatte die Tonne vorhin »grausig« genannt. Ich
@@ -933,7 +933,7 @@ Sie würden diesen See schnell wieder verlassen.«
 
 »Weshalb wäre es besser?«
 
-Sie warf ärgerlich den Kopf zurück, »Tun Sie, was
+Sie warf ärgerlich den Kopf zurück. »Tun Sie, was
 Sie wollen! Ich wünsche nicht weiter belästigt zu werden.«
 
 »Hm — wissen Sie, wer ich bin?«
@@ -1017,7 +1017,7 @@ Menschen! — Schraut, die Riemen!«
 Frau Ramietto. »Sie werden sehr bald zur Einsicht
 kommen. Und dann —« — Sie vollendete den Satz nicht.
 Sie wehrte sich auch nicht. Sie ließ sich ruhig an eine Palme
-binden. Im ihren Augen leuchteten scheinbar nur Verachtung
+binden. In ihren Augen leuchteten scheinbar nur Verachtung
 und beleidigte Frauenwürde. —
 
 Ich verstand Haralds Benehmen und Worte nicht recht.
@@ -1073,7 +1073,7 @@ Das Merkwürdigste aber — und dies war uns bisher
 entgangen —: in die Tonnenwand war nach der Insel zu
 ein viereckiges Loch geschnitten. Gerade vor diesem Loche
 aber befand sich der Schädel des Skeletts, so daß man ihn
-von der Insel aus wie im einem Fenster sehen konnte,
+von der Insel aus wie in einem Fenster sehen konnte,
 wenn man der Tonne gerade gegenüberstand.
 
 Ich setzte mich wieder und legte die Clement entsichert
@@ -1168,7 +1168,7 @@ Und dahinter bemerkst Du einen Haufen Felsblöcke, von
 denen aus man die Tonne und das Fenster und den Skelettschädel
 vor sich hat.«
 
-Ich das alles. Aber — das »Memento mori!«
+Ich sah das alles. Aber — das »Memento mori!«
 blieb mir unklar.
 
 Harald ruderte dem Ufer zu. »Wir sind jetzt mit dem
@@ -1187,7 +1187,7 @@ Ihnen gefesselt. Ich werde Ihnen auch um den einen
 Fuß einen Riemen schlingen, den ich in der Hand behalte.«
 
 Er tat es, fügte dabei hinzu: »Sie und der Schwarzbärtige
-— möglich, daß Sie beide ein Ehepahr sind — bewachen
+— möglich, daß Sie beide ein Ehepaar sind — bewachen
 <@pagebreak/>
 hier einen Gefangenen, vielleicht den — Grafen
 Emanuelo Santa Rocca!«
@@ -1217,7 +1217,7 @@ er Ihnen machte. Dann haben Sie mit ihm hinter dem
 Vorgebirge schnell besprochen, wie Sie beide uns fangen
 sollten. Sie setzten sich, rauchten, trällerten ein Lied. Ihr
 Schreck, als wir nahten, war erkünstelt. Nun werden wir
-den Grafen befreien — aus dem Händen zweier Mitglieder
+den Grafen befreien — aus den Händen zweier Mitglieder
 der Brüder der Chrysostomos-Loge! — Ah — schon wieder
 erblassen Sie! Jetzt kommt die Angst! Vielleicht merken
 Sie auch, daß Ihr Gefährte Sie betrogen hat und —
@@ -1278,7 +1278,7 @@ furchtbaren Schlag gegen die Stirn.
 Ich flog ebenfalls nach hinten über. Harst stürzte über
 mich weg.
 
-Mimitenlang verlor ich die Besinnung. Als ich mich
+Minutenlang verlor ich die Besinnung. Als ich mich
 gerade wieder aufgerichtet hatte, warf mir jemand eine
 Decke von rückwärts über den Kopf.
 
@@ -1334,7 +1334,7 @@ Der graubärtige Herr fragte barsch:
 »Wer sind Sie, he?! Aber keine Lüge! Sonst —!«
 
 »Mein Name lautet genau so wie der des Empfängers
-Euer Depesche, die nach Indien gesandt wurde der Roma
+jener Depesche, die nach Indien gesandt wurde der Roma
 wegen —«
 
 »Wie, — Sie behaupten — Harald Harst zu sein?«
@@ -1361,7 +1361,7 @@ Mein Ausweis mit Lichtbild wird Ihnen den
 Beweis erbringen, daß wir —«
 
 »Ja, ja!« rief der Graf da. »Sie müssen Harst sein!
-Ihre Gesichtszüge kommen mir von zahlreichere Abbildungen
+Ihre Gesichtszüge kommen mir von zahlreichen Abbildungen
 in Zeitschriften her jetzt recht bekannt vor —« — Er
 winkte. Die anderen Männer sprangen zu. Wir wurden
 losgebunden. Harst zeigte dem Grafen den Ausweis. Santa
@@ -1393,7 +1393,7 @@ sagte er.
 
 Wir umschritten den Hügel, machten dann halt, als
 wir die Tonne durch die beiden Palmen hindurch vor uns
-hatten. Aus dem Fenster der Tonnentwand grinste der
+hatten. Aus dem Fenster der Tonnenwand grinste der
 Totenschädel heraus. — Graf Santa Rocca rief leise:
 
 »Wenn Emanuelo nur nicht ermordet worden ist. Dieser
@@ -1428,7 +1428,7 @@ der Jacht Roma.
 
 Sie waren so entkräftet, daß sie hier in der frischen
 Luft in Ohnmacht fielen. Sie kamen jedoch bald wieder
-zu ich. —
+zu sich. —
 
 Harst und ich hatten unsere drei Tiere inzwischen an
 das Seeufer geholt, wo wir nun lagerten. Auch Graf Vittoro
@@ -1527,7 +1527,7 @@ eingegraben. Er hätte auf ihn ja ganz verzichten können.
 Graf Emanuelo, von denen Sie hier bewacht wurden?«
 wandte er sich an den Bruder des Generalstaatsanwalts.
 
-»Nein, Herr Harst. — Die beidem nannten sich gegenseitig
+»Nein, Herr Harst. — Die beiden nannten sich gegenseitig
 Testio und Margrita. Ihre Vatersnamen sind mir
 unbekannt.«
 

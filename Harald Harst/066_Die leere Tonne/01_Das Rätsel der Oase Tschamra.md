@@ -43,7 +43,8 @@ Sprache:
 
 > 5\. vom Südpol, 4. zum Nil, 3. zum Nordpol, 2. zum
 Atlas, 1. zum Südpol.
-oeadsneitfsachram
+
+> *oeadsneitfsachram*
 
 Mocrisam, der als berühmter Entdecker einer neuen
 Methode zur Deutung der Hieroglyphenschrift für Geheimschriften
@@ -66,12 +67,12 @@ Harst dann fortfuhr:
 »Lesen Sie bitte erst mal den ersten, dritten, fünften
 und so weiter Buchstaben, dann erhalten Sie:
 
-oasetscha
+*oasetscha*
 
 also: Oase Tscha. — Und nun von hinten ebenso den ersten,
 dritten und so weiter Buchstaben, also
 
-mrafinde,
+*mrafinde*
 
 dann heißt das Ganze:
 
@@ -244,7 +245,7 @@ sie. »Vor einem Jahr etwa sollte er für die Firma einem
 überbringen, den dieser nach einer Zeichnung bei der Firma
 Preecheln hatte anfertigen lassen. Mein Mann ging in
 Alexandria an Land und zwar am 15. Oktober. Er hatte
-von Fiume einen österreichischen Dampfer benutzt. Seit den
+von Fiume einen österreichischen Dampfer benutzt. Seit dem
 15\. Oktober hat man nie wieder etwas von ihm gehört.
 Die Firma wirft ihm noch heute vor, er sei mit dem
 Schmuck entflohen,« fügte sie leise und sehr langsam hinzu.
@@ -304,7 +305,7 @@ konnte ihn nie zur Rede stellen. Er sah stets anders aus.
 <@pagebreak/>
 Oft durchschaute ich seine Verkleidung erst nach Wochen.
 Und dann besann ich mich, daß er immer zur Stelle gewesen,
-wenn ich einen Ausgang machte. Ich habe in die meisten
+wenn ich einen Ausgang machte. Ich habe ja die meisten
 meiner Stundenschüler außerhalb und bin sehr viel
 unterwegs. Ich weiß nicht, wer der Mensch ist. Ich habe
 nicht einmal eine Vermutung.«
@@ -330,7 +331,7 @@ Entzifferung der Buchstabenreihe hindeuten wollte!
 
 <h2>2. Kapitel.</h2>
 
-Frau Steenhoobe schluchzte leise auf. »Wieder ein
+Frau Steenhoope schluchzte leise auf. »Wieder ein
 Lebenszeichen von Tom!« flüsterte sie schmerzlich. »Aber —
 was sollen diese Zahlen und Worte? Südpol, Nil, Atlas?!
 Was heißt das?!«
@@ -670,7 +671,7 @@ unberechtigt.«
 Dabei blickte er mich jedoch so scharf an, daß ich sofort
 begriff: Die Worte waren für einen Dritten bestimmt!
 
-Wir befanden nun im mittleren der drei Räume.
+Wir befanden uns im mittleren der drei Räume.
 Rechts lag unser Schlafzimmer, links die Bibliothek des
 Schlosses, ein sehr großes Gemach mit Wandregalen, mehreren
 Tischen und Schränken und altertümlichen Sesseln.
@@ -769,7 +770,7 @@ die Stiefel aus und folge mir. Diesmal sind wir scheinbar
 die Geleimten —«
 
 Welch ein Genuß! Endlich konnte ich mich bewegen,
-endlich die Stiefel ab streifen!
+endlich die Stiefel abstreifen!
 
 Dann tastete ich mich Schritt für Schritt in den Wohnsalon
 und bis an die Flügeltür der Bibliothek. Hier waren
@@ -847,7 +848,7 @@ Rankenornamente hatte, hineinfuhr.
 
 Dann — zog er plötzlich das Stück der Täfelung auf.
 Es war eine quadratische Tür. Dahinter gähnte ein schmales
-Mauerlocks etwa anderthalb Meter hoch.
+Mauerlochs etwa anderthalb Meter hoch.
 
 »Vorwärts!« — Harald winkte mir. Ich kletterte ihm
 nach in das Loch hinein. Drei Schritt weiter lief eine
@@ -1020,7 +1021,7 @@ es zwischen diesen Eisentüren in diesem Gange noch einen
 *Ausgang* geben muß, also eine Geheimtür, deren Anlage
 nicht recht geglückt war, so daß —«
 
-»— daß der Schloßherr die Befürchtung heute, sie
+»— daß der Schloßherr die Befürchtung hatte, sie
 könnte vielleicht entdeckt werden, wenn für ihn die Stunde
 der Gefahr da war,« beendete ich Harsts Ausführungen.
 »Das heißt: der Schloßherr wollte durch die Eisentüren die
@@ -1127,7 +1128,7 @@ widerstanden unseren Dietrichen nicht lange. Wir
 stellten fest, daß der Gang im Keller hinter einem großen,
 sehr alten Weinfaß mündete, wo es in der Mauer abermals
 eine verborgene Tür gab. Der Keller wieder hatte einen
-zweit Ausgang durch eine Falltür, die in einen längst
+zweiten Ausgang durch eine Falltür, die in einen längst
 eingestürzten Pavillon im Parke führte.
 
 Mittlerweile war es Tag geworden. In den Trümmern
@@ -1407,7 +1408,7 @@ kurz auf, sagte dann:
 »Weshalb mußtest Du auch ausgerechnet die verrückte
 <@pagebreak/>
 Idee haben, hier nach Schätzen zu suchen! Lächerlich!
-Was ging Dich der Wisch Papier am, den Du Harst abgeschwindelt
+Was ging Dich der Wisch Papier an, den Du Harst abgeschwindelt
 hast! Gar nichts ging der Wisch Dich an! Wir
 hatten genug, um behaglich leben zu können. Deine Geldgier
 und Deine verdammte Eitelkeit sind an allem schuld.
@@ -1493,7 +1494,7 @@ sagte sogar erleichtert aufatmend:
 »Gut, daß Sie noch zur rechten Zeit eingriffen, Herr
 Harst! Ich hätte Harry Fleckser sonst niedergeschossen.«
 
-Der Stiernackige gab gleichfalls jedem Widerstand auf,
+Der Stiernackige gab gleichfalls jeden Widerstand auf,
 als Harst ihm nochmals mit einer Kugel drohte. Seine Augenhöhlen
 bluteten und tränten. Harald wusch sie ihm nachher
 aus. Der Mann erblindete trotzdem später im Untersuchungsgefängnis.
