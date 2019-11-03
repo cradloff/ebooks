@@ -3,7 +3,7 @@
 <div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
 <div style="font-size: large; text-align: center;">unserer Harst-Abenteuer</div>
 
-<table style="table-layout:fixed">
+<table style="table-layout:fixed; font-size: x-small;">
 <tr><td style="width:50%"> 98. Das geheimnisvolle Fenster.          </td><td style="width:50%">137. Baron Tissanders Schaukel.</td></tr>
 <tr><td> 99. Anita Armands Verhängnis.            </td><td>138. Das Erbbegräbnis.</td></tr>
 <tr><td>100. Unser 100. Abenteuer.                </td><td>139. Das Gestade der Vergessenheit.</td></tr>
@@ -48,5 +48,4 @@
 <div style="font-size: large; text-align: center;">Erhältlich in jeder Buchhandlung oder direkt beim</div>
 <div style="font-size: x-large; text-align: center;">Verlag moderner Lektüre</div>
 <div style="font-size: large; text-align: center;">Berlin SO16 / Michaelkirchstraße 23a</div>
-
 
