@@ -6,7 +6,7 @@
 
 Die ägyptische Tageszeitung »Kairo-Post« brachte am
 1\. Dezember 19.. einen Artikel über die 5 Attentate, die
-Verlauf von vierundzwanzig Stunden auf den deutschen
+im Verlauf von vierundzwanzig Stunden auf den deutschen
 Liebhaberdetektiv Harald Harst in Kairo verübt worden
 waren.
 
@@ -41,7 +41,7 @@ hatten, zu fassen gewesen — nicht einer! —
 > Harst und sein Freund haben im Flugzeug Kairo auf
 <@pagebreak/>
 Bitten des Polizeidirektors hin verlassen. Niemand weiß,
-wohin der große Doppeldecker sich gewandt bat.
+wohin der große Doppeldecker sich gewandt hat.
 
 > Kairo wird aufatmen.
 
@@ -60,7 +60,7 @@ dies las, war der Doppeldecker längst unweit des Küstenortes
 Almaida westlich des Nildeltas gelandet.
 
 Harald mietete hier einen Dampfer zur Ueberfahrt
-nach Brindisi, der abends 7 Uhr See stach.
+nach Brindisi, der abends 7 Uhr in See stach.
 
 Am 3. Dezember elf Uhr nachts langten wir auf dem
 Anhalter Bahnhof in Berlin an, nahmen ein Auto und
@@ -289,7 +289,7 @@ sagte er:
 »Himmel — Herr Harst!«
 
 »Leise, leise. — Also ein Mord, Balk? Drüben im
-Laubengelände. Das Oper ist eine Frau —«
+Laubengelände. Das Opfer ist eine Frau —«
 
 »Ja — Aber woher —«
 
@@ -422,7 +422,7 @@ gesteckt worden war, fanden wir in dem Blatt folgende
 Notiz über den Mord, aus der ich nur das Wichtigste hier
 anführen will:
 
-> »— Die Ermordete hatte nichts in ihren Tasche,
+> »— Die Ermordete hatte nichts in ihren Taschen,
 das über ihre Person hätte Aufschluß geben können. Ihre
 Wäsche ist nicht gezeichnet. Ihre Kleidungsstücke — jeder
 Firmenname ist entfernt — besonders das Kostüm verraten
@@ -575,6 +575,7 @@ an das Postamt Potsdamer Platz geschickt. Hier ist noch
 zu lesen:
 
 > agernd
+
 > damer Platz.
 
 Das kann nur »postlagernd« und »Potsdamer Platz«
@@ -842,7 +843,7 @@ sich hier offenbar recht behaglich.
 Nachdem Harst unserem Gespräch eine Weile schweigend
 zugehört hatte, sagte er zu Balk:
 
-»Sie müssen was helfen, ungesehen aus dem Hause herauszukommen.
+»Sie müssen uns helfen, ungesehen aus dem Hause herauszukommen.
 Wie machen wir das am besten?«
 
 Balk überlegte. — Da fuhr Harald schon fort: »Rufen
@@ -857,7 +858,7 @@ Haus und fahren in demselben Auto davon. — Gut, ich
 werde telephonieren. Ich weiß schon, wer von den Kollegen
 sich hierzu eignet.« —
 
-Um halb sechs — inzwischen hatte ein Tauwind leichten,
+Um halb sechs — inzwischen hatte ein Tauwind leichten
 Regen gebracht — entführte uns das Auto nach Charlottenburg.
 Die beiden Beamten sollten später einzeln
 durch den Gemüsegarten verschwinden.
@@ -960,7 +961,7 @@ Lineal und maß die Tiefe und Höhe der Fächer aus. Doch
 Fichtenmöbel auf?«
 
 »Ja — die vier Tischbeine sind anders gebeizt als
-das Uebrige — sind rötlicher,«
+das Uebrige — sind rötlicher.«
 
 Harald klopfte mit dem Fingerknöchel gegen die Tischfüße
 — an verschiedenen Stellen. Der linke der hinteren
@@ -990,7 +991,7 @@ In der halb erhobenen Rechten hielt er nachlässig einen
 Revolver.
 
 »Ich habe im Bett gelegen und mich zugedeckt gehabt,«
-sagte er ich gebrochenem Deutsch. »Mein Name ist Franzesco
+sagte er in gebrochenem Deutsch. »Mein Name ist Franzesco
 Tosco, Doktor der Philosophie. — Sie setzen mich
 wirklich in Erstaunen, Herr Harst. Wie haben Sie gerade
 mich herausgefunden?! Im übrigen warne ich Sie beide.
@@ -998,7 +999,7 @@ Die Wohnung unter mir ist leer. Zwei Revolverschüsse
 würde niemand hören. — So — vielleicht antworten Sie
 mir, Herr Harst. Legen Sie aber bitte die Hände Ihrem
 Freunde Schraut auf die Schultern. Es ist für Sie sicherer.
-Sonst könnte sonst annehmen, Sie wollten eine Waffe hervorziehen
+Ich könnte sonst annehmen, Sie wollten eine Waffe hervorziehen
 —«
 
 Seine linke Hand hing frei herab. Am Ringfinger
@@ -1042,7 +1043,7 @@ lateinischen Buchstaben geschrieben.
 
 > Berlin, 3. 12. 19...
 
-> In aber Eile. Bin soeben eingetroffen. Unsere
+> In aller Eile. Bin soeben eingetroffen. Unsere
 beiden Freunde benutzten denselben Zug. Auf dem Bahnhof
 kamen wir im Gedränge leider auseinander. Sie
 werden wohl in einem anderen Hotel als sonst absteigen.
@@ -1058,7 +1059,7 @@ Ich komme erst abends zu Dir. Rosarita.
 Harst legte den Brief auf den Tisch. — »Was ist daran
 nicht alltäglich?« meinte er.
 
-»Verstehen Sie denn den Inhalts« fragte der Elegante
+»Verstehen Sie denn den Inhalt?« fragte der Elegante
 sichtlich gespannt.
 
 »Gewiß. Ich verstehe auch Sie! Sie verstehen den
@@ -1238,7 +1239,7 @@ Er enthielt Kleider, Blusen, Wäsche, — sonst nichts.
 
 Scheinbar nichts weiter — scheinbar!
 
-Harald maß dem Koffer innen und außen, lächelte.
+Harald maß den Koffer innen und außen, lächelte.
 
 »Fünf Zentimeter fehlen hier innen im Deckel,« meinte
 er. »Also!« — Und er suchte, bis er den inneren Deckelverschluß
@@ -1308,7 +1309,7 @@ sich auf.
 unterhandelte mit mir. Sie gab mir die gefälschten Briefe.
 Ich blieb auf ihrer Spur, verfolgte sie bis Brindisi, weiter
 bis Berlin, konnte jedoch nie an ihr Gepäck heran. Sie gab
-ihrem Koffer und ihre Handtasche auf dem Anhalter Bahnhof
+ihren Koffer und ihre Handtasche auf dem Anhalter Bahnhof
 ab. Wieder folgte ich ihr bis in jenes Laubengelände.
 Hier wollte ich sie durch Drohungen zwingen, mir den
 Gepäckaufbewahrungsschein zu geben. Sie aber stach mit einem
@@ -1451,7 +1452,7 @@ wissen, ob die Bande nicht doch ermittelt, daß Sie es waren,
 durch dessen Hand die beiden den Tod fanden.«
 
 Harst öffnete ihm die Tür nach dem Bodenvorraum
-und lausche. »Alles still. — Glückliche Reise, Herr Herzog!«
+und lauschte. »Alles still. — Glückliche Reise, Herr Herzog!«
 flüsterte er.
 
 Der Herzog schlich die Treppe hinab. Wir blieben an
@@ -1476,11 +1477,11 @@ Harst lächelte mich so eigentümlich an, winkte mir —
 
 Wir brachten die Wohnung Toscos in Ordnung. Dann
 entfernten auch wir uns. Wie wir in die nahe Kantstraße
-eingebogen waren, blieb Harald stehen, holte fein Zigarettenetui
+eingebogen waren, blieb Harald stehen, holte sein Zigarettenetui
 hervor und bot auch mir eine Mirakulum an,
 hielt mir das Feuerzeug hin und sagte:
 
-»So so — es ist jemand hinter uns! Das ist der
+»So, so — es ist jemand hinter uns! Das ist der
 dritte Beweis dafür, daß das Haus Nr. 15 scheinbar das
 deutsche Hauptquartier der famosen Loge ist!«
 
@@ -1493,7 +1494,7 @@ Polizeipräsidium fahren —«
 Als wir im Auto die Kantstraße entlangrollten, fragte
 ich gespannt:
 
-»Du sprachst von drei Beweisen. Harald?«
+»Du sprachst von drei Beweisen, Harald?«
 
 »Ja — der zweite war die Tatsache, daß ein Bewohner
 <@pagebreak/>

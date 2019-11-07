@@ -54,7 +54,7 @@ zurück.
 Plötzlich drängte mich der Spanier beiseite. Er war
 ganz blaß und stierte der Dame nach.
 
-»Das war ihre Stimme, Herr Harst«, keuchte er förmlich
+»Das war ihre Stimme, Herr Harst,« keuchte er förmlich
 vor Aufregung.
 
 Ich wollte ihn nun doch nicht länger über meine Person
@@ -163,7 +163,7 @@ Ich konnte Balk und Reckler die Zubereitung der
 Mahlzeit allein überlassen und ging wieder zu Harald ins
 Arbeitszimmer. Ich war nur etwa zehn Minuten in der
 Küche gewesen. In dieser Zeit hatte er es fertig gebracht,
-den großen Raum vollständig mit Zigarettenrauch anzufüllen,
+den großen Raum vollständig mit Zigarettenrauch anzufüllen.
 
 »Himmel — hier erstickt man ja!« rief ich. »Ich werde
 das Fenster öffnen!«
@@ -194,7 +194,7 @@ sich in Charlottenburg, Krumme Straße 15, bei Herrn C.
 Bassano, dritten Stock links, befinden.«
 
 »Also Bassano heißt der Alte,« sagte ich. »Woher
-wußtest Du denn bereite um ¼ 11 heute vormittag, daß der
+wußtest Du denn bereits um ¼ 11 heute vormittag, daß der
 Mann, der den Herzog angesprochen hatte, gerade links im
 dritten Stock wohnt?«
 
@@ -216,7 +216,7 @@ Hand auf den Arm. »Ganz recht — Banditen! Ich merke,
 Du spielst auf den Brief des Grafen Rafalga an, der seine
 heißgeliebte Eugenie sucht.«
 
-»Hm — Banditen,« murmelte ich grübeln. »Und der
+»Hm — Banditen,« murmelte ich grübelnd. »Und der
 Brief des Grafen — hm, — nein, darauf habe ich nicht anspielen
 wollen, obwohl seine Gattin ja von —« — Ich
 schwieg. Ein Gedanke kam mir! Und ich fuhr hastig fort:
@@ -269,7 +269,7 @@ Schiffes binden. So hörte er den Gesang und entging
 der Lockung. Unser Graf mit der charakterlosen Schrift ist
 ein Schwächling und ein Dummkopf; er unterlag der Verführung.«
 
-»Mag soll das alles?« fragte ich mißtrauisch. »Soll
+»Was soll das alles?« fragte ich mißtrauisch. »Soll
 das ein Scherz sein?! Der Graf hat doch offenbar sich
 mit seiner plötzlich wieder aufgetauchten Gattin vereinigt
 und —«
@@ -422,10 +422,10 @@ müssen! Ach, ich wünschte, Harald wäre erst hier. Diese
 Neapolitaner, die Chrysostomos-Brüder stellen ihm nach!
 Und —«
 
-*Her Graf:* »Verzeihen Sie die Unterbrechung,
+*Der Graf:* »Verzeihen Sie die Unterbrechung,
 gnädige Frau. Chrysostomos-Brüder sagten Sie? — So
 <@pagebreak/>
-— also wirklich Chrysostomos Brüder! Merkwürdig
+— also wirklich Chrysostomos Brüder! Merkwürdig —
 sehr — merkwürdig —«
 
 *Harst:* »Weshalb denn?«
@@ -445,7 +445,7 @@ Rückfall in jenem hypnotischen Zustand hervorrufen —«
 Frau. Ich werde schweigen. Aber mit Ihrem Herrn Sohn
 möchte ich darüber sprechen.«
 
-*Harst* »Tun Sie es. — Und, Herr Graf, sollten Sie
+*Harst*: »Tun Sie es. — Und, Herr Graf, sollten Sie
 sonst mal noch etwas auf dem Herzen haben, das Sie aus
 Rücksicht auf Ihre Gattin mir nur insgeheim anvertrauen
 wollen, dann rufen Sie mich telephonisch an —«
@@ -457,7 +457,7 @@ beunruhigt, »dann erfahren Sie es zuerst, gnädige
 Frau. — Sie gestatten, daß ich mich nun verabschiede.«
 
 »Empfehlen Sie mich Ihrer Gattin, Herr Graf. Ich
-Habe mich gefreut, Sie kennen zu lernen.« —
+habe mich gefreut, Sie kennen zu lernen.« —
 
 Graf Rafalga durchschritt sehr langsam den Vorgarten
 — ganz so, als bedrückten ihn allerlei Gedanken.
@@ -580,7 +580,7 @@ zu Bassano, dem Weißbart, führt. Dieses Haus Nr.
 15 ist sehr alt. Möglich, daß ein früherer Besitzer die Treppe
 <@pagebreak/>
 angelegt hat. Jedenfalls: die Treppe ist vorhanden.
-Ich habe dies sehr eifach festgestellt.«
+Ich habe dies sehr einfach festgestellt.«
 
 »Da bin ich neugierig —«
 
@@ -663,7 +663,7 @@ Ich schob den Schloßriegel von innen vor, hörte, wie
 Harald fragte:
 
 »Weshalb haben Sie den grauen Zwirnfaden vor
-Toscos Tür bis hierher eine Handbreit über dem Bomben
+Toscos Tür bis hierher eine Handbreit über dem Boden
 gespannt gehabt?«
 
 Ich drehte mich rasch um und trat näher.
@@ -729,7 +729,7 @@ fest aufeinander gepreßt.
 sagte Harst achselzuckend. »Dort wird sich das weitere
 finden —«
 
-Er beobachtete scharf das Gericht des Italieners. Doch
+Er beobachtete scharf das Gesicht des Italieners. Doch
 — nichts verriet darin, daß der Mann etwa hoffte, er
 würde dort vielleicht befreit werden.
 
@@ -850,7 +850,7 @@ Ah — er ist schwer! Nun weiß ich auch, weshalb Sie oben
 in der Waschküche Wache hielten. Sie wollten feststellen, ob
 Harst und Schraut die Mansardenwohnung Toscos besuchen
 würden und wollten sich dann zur Flucht bereithalten,
-falls wir das Geheimnis des Schranke Toscos fänden.
+falls wir das Geheimnis des Schrankes Toscos fänden.
 Der Koffer ist gepackt. Sie hätten also nur nach oben auf
 den Boden dieses Hauses Nr. 16 zu gehen brauchen, wo
 Sie wahrscheinlich als Ricosta die Bodenstube gemietet
@@ -988,7 +988,7 @@ hing mir nun tief auf die Brust herab.
 
 Im anderen Sessel lag Harald mit geschlossenen Augen
 und halb offenem Munde, aus dem die Zungenspitze
-ein Stückchen hervorragte,
+ein Stückchen hervorragte.
 
 Bassano lehnte sich an den Schreibtisch. »Sie sehen
 <@pagebreak/>
@@ -1121,7 +1121,7 @@ Atem an, sank scheinbar nach vorn über. Als Schraut
 taumelte und Sie ihn auffingen, kollerte auch ich vom Stuhl
 herab. Ich war nicht bewußtlos, nicht eine Sekunde. Die
 kleine Komödie hat jetzt ihnen Zweck erfüllt: ich weiß, daß
-Sie auch Ihre Verbündeten Harst und Schraut nicht in der
+Sie und Ihre Verbündeten Harst und Schraut nicht in der
 Blücherstraße Nr. 10 vermuten, daß also untere List geglückt
 ist —«
 
@@ -1154,7 +1154,7 @@ aber hinter mir her.«
 
 Bassano schrieb dann auch die Adresse auf den Umschlag.
 <@pagebreak/>
-Dazwischen hatte Harald den kleinen offen wieder
+Dazwischen hatte Harald den kleinen Koffer wieder
 geöffnet und sich verschiedene Briefe angesehen, die an
 Bassano gerichtet waren.
 
@@ -1191,7 +1191,7 @@ Bassano die Lodenpelerine um und stülpten ihm einen Hut
 auf. Er hatte sich in sein Schicksal ergeben. Harst nahm
 den Koffer mit. Auf der Treppe begegneten wir niemandem.
 Wir drängten Bassano in das geschlossene Auto und
-setzten und neben ihn.
+setzten uns neben ihn.
 
 So fuhren wir nach dem Polizeipräsidium. Bassano
 sprach kein Wort.
@@ -1296,13 +1296,13 @@ Dann erzählte er mir über Rafalgas neueste Seelennöte
 folgendes:
 
 Rafalga hatte heute früh gesehen, daß der Diener Baptiste
-mit der ersten Post einem Brief erhielt. (Also den
+mit der ersten Post einen Brief erhielt. (Also den
 Brief, den wir gestern in den Kasten geworfen hatten —
 den von Bassano geschriebenen Brief). Als er seiner Gattin
 dies mitgeteilt hatte, die noch bei der Toilette war,
 hatte er gemerkt, wie sie unruhig wurde. Sie ging dann sofort
 unter einem Vorwand in das Dienerzimmer hinüber
-und kehrte vom dort recht verstört zurück. Sie hatte dann
+und kehrte von dort recht verstört zurück. Sie hatte dann
 gesagt, sie wolle vormittags Wäsche einkaufen. Der Graf
 <@pagebreak/>
 solle sie jedoch nicht begleiten. Um ½ 10 war sie davongefahren.
@@ -1387,14 +1387,14 @@ eben als Gräfin Rafalga ganz sicher.
 Wir standen jetzt in der Nähe des Kreises ihrer Bewunderer.
 Es wurde hier deutsch gesprochen, da über die
 Hälfte der Gäste Deutsche waren. Ein bekannter Nervenarzt,
-Professor Simsbera, nebenbei ein großer Lebemann,
+Professor Simsberg, nebenbei ein großer Lebemann,
 machte ihr stark den Hof. Die schöne Eugenie rief jetzt halb
 scherzend:
 
-»Nervenärzte sind gefährlich Herr Professor. Ich besinne
+»Nervenärzte sind gefährlich, Herr Professor. Ich besinne
 mich noch mit Schrecken auf jenen Arzt in meiner
 Heimatstadt Marseille, der mich als kleines Mädel bereits
-am hypnotischen Versuchen mißbrauchte —«
+zu hypnotischen Versuchen mißbrauchte —«
 
 Harst stieß mich an. »Gib acht — das ist Absicht!«
 flüsterte er.
@@ -1421,7 +1421,7 @@ Geschmeide wurde dann in Papier gehüllt und mit dem
 Namen der Besitzerin versehen. Mit den acht Päckchen
 sollte der Graf sich in einen kleinen Salon einschließen lassen,
 nachdem die Päckchen numeriert worden waren, ohne daß
-die Gräfin die Numerierung kannte. Professor Simsbera
+die Gräfin die Numerierung kannte. Professor Simsberg
 erhielt eine Liste der Päckchen mit den Namen der Besitzerinnen,
 damit er das Experiment kontrollieren könnte.
 
@@ -1439,13 +1439,13 @@ schwelten.
 
 Das Becken wurde dicht vor die Gräfin gestellt.
 
-Die übrigen Gäste sogen sich nun bis an die Flügeltür
+Die übrigen Gäste zogen sich nun bis an die Flügeltür
 des dritten Gemaches zurück. Nur wir beide hatten uns
 heimlich hinter eine der Fensterportieren gedrückt.
 
 Des Grafen Aufgabe bestand nun darin, die Päckchen
 der Reihe nach in die Hand zu nehmen und den Namen der
-Besitzerin scharf zu fixieren und an nicht anderes zu denken,
+Besitzerin scharf zu fixieren und an nichts anderes zu denken,
 als daß seine Gattin diesen Namen erraten möchte. — Die
 Gräfin wieder wollte diese Namen dann laut nennen. —
 
@@ -1480,7 +1480,7 @@ Raum war nur schwach erhellt.
 
 Die schöne Eugenie regte sich nicht.
 
-Dann — mit schriller Strome rief sie einen Namen.
+Dann — mit schriller Stimme rief sie einen Namen.
 
 »Falsch!« erklärte der Professor triumphierend, der
 dies Experiment als unmöglich bezeichnet hatte.
@@ -1503,7 +1503,7 @@ Sie eilte nach links durch den Speisesaal davon und
 verschwand.
 
 »Ihr nach« flüsterte Harald. — Wir erreichten die
-Treppe, als sie gerade durch die Haustür dem Garten betrat.
+Treppe, als sie gerade durch die Haustür den Garten betrat.
 Und — wir hatten sie eingeholt, bevor sie noch das vor dem
 Portal haltende Auto besteigen konnte.
 
@@ -1570,7 +1570,7 @@ etwas zu. Die drei wurden nun in die Leichenkammer
 geführt, wo Bassano lag. Hier brach Margrita angesichts
 des Toten zusammen.
 
-Bassano war ihr Vater, und Rosarita ihr Schwester,
+Bassano war ihr Vater, und Rosarita ihre Schwester,
 wie sie nun eingestand. Sie selbst war mit Baptiste-Testio
 seit vier Jahren verheiratet.
 
