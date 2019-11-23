@@ -37,7 +37,7 @@ Sehr sympathisch wirkte dieser Herr Mapserlan nicht.
 Er hatte recht unruhige, scheue Augen.
 
 »Ich bin seit einem halben Jahr hier in Berlin Vertreter
-der englischen Tuchfabrik Lincoln und Webster, Birmingham«,
+der englischen Tuchfabrik Lincoln und Webster, Birmingham,«
 begann er in seiner fahrigen Art, wobei er
 beständig seine Stiefelspitzen musterte. »Mein Fall, Herr
 Harst, eignet sich nicht recht für die Polizei. Diese verlangt
@@ -162,7 +162,7 @@ Sträuchern.«
 »Sie nehmen an, man hat den Rest der Limonade zum
 Fenster hinausgegossen?«
 
-»Ja Herr Harst.«
+»Ja, Herr Harst.«
 
 »Und Ihr drittes Erlebnis?«
 
@@ -189,7 +189,7 @@ fraglos in beständiger Angst vor irgend welchen Gegnern
 leben — oder Feinden. Wer sich so schützt wie Sie, der —«
 
 Mapserlan erhob abwehrend beide Hände, »Keine
-Rede davon!« rief er seltsam erregt, »Keine Rede davon!«
+Rede davon!« rief er seltsam erregt. »Keine Rede davon!«
 Jetzt schaute er Harald an. Und — seltsam genug! —
 dieser Blick verriet ebensoviel Aerger wie heimliche Furcht.
 
@@ -478,7 +478,7 @@ argwöhnisch um. Es war jedoch kein dritter Spion in der
 Nähe. —
 
 Zwei ältere Herren suchten dann im Gartenhause von
-Nr 199 möblierte Zimmer. Der Portier der großen eleganten
+Nr. 199 möblierte Zimmer. Der Portier der großen eleganten
 Mietskaserne meinte, im zweiten Stock sei noch bei
 der Hulbatz was frei.
 
@@ -492,7 +492,7 @@ lebewohl sagten und sie gerade hinter uns die Flurtür
 ins Schloß gedrückt hatte, erscholl unten ein gellender
 Schrei.
 
-Der Schrei wiederhole sich im Treppenhause.
+Der Schrei wiederholte sich im Treppenhause.
 
 »Mord — Hilfe!« kreischte ein Weib offenbar in höchster
 Angst.
@@ -581,7 +581,7 @@ Allerdings: hier schien ein Dieb gehaust zu haben! —
 Alle Fächer des Schreibtisches, des altertümlichen Bücherschrankes
 und einer noch älteren reich geschnitzten
 Kommode mit Perlmuttereinlagen waren herausgerissen.
-Der Inhalts war über die Dielen und den Teppich verstreut.
+Der Inhalt war über die Dielen und den Teppich verstreut.
 Auf der Schreibtischplatte waren verwischte Blutspuren
 zu bemerken. Ein Stuhl lag umgeworfen neben
 dem Sofatisch.
@@ -615,8 +615,8 @@ gefaßt. Das ist ja nun alles gegenstandslos geworden.
 Mapserlan ist tot. Uns bleibt die Aufgabe trotzdem, diesen
 »Feind« zu suchen. Ich wette, der Mann würde uns wenig
 schmeichelhaftes über Mapserlan mitteilen. — Sehen wir
-uns hier mir mal um. Ich denke, der »Feind« wird zum
-eindringen die Balkontür benutzt haben, denn die Stubentüren
+uns hier nun mal um. Ich denke, der »Feind« wird zum
+Eindringen die Balkontür benutzt haben, denn die Stubentüren
 mit ihren Patentschlössern und Riegeln stellten doch
 zu schwierige Eingänge vor.«
 
@@ -734,7 +734,7 @@ sie solle etwas für uns zum Abendbrot einholen.
 
 Harald ging sofort, als wir in der Wohnung allein
 waren, in das Badezimmer. Ich mußte im Flur aufpassen.
-Er wollte braune Koffer durchsuchen. Die Kofferschlösser
+Er wollte Brauns Koffer durchsuchen. Die Kofferschlösser
 bereiteten ihm keine Schwierigkeiten.
 
 Doch — die ganze Arbeit war umsonst. Der Koffer
@@ -788,7 +788,7 @@ Grauer Teint — kahlgeschorene Köpfe, daher Perücken,
 — Zuchthäusler —!
 
 Harald hatte mir das Tütchen abgenommen las den
-Aufdruck, nicke mir zu.
+Aufdruck, nickte mir zu.
 
 »Mir scheint,« sagte er, »Der Klub der Zuchthäusler ist
 auch für Dich kein Schauerromantitel mehr. Winndorfs
@@ -883,7 +883,7 @@ ist! — D. Kl. d. Z.
 Wir fuhren nach Hause. Harald lachte ganz vergnügt:
 »Der Kerl hat im Warmen gesessen, und wir im Kalten.
 Na — bald wird es umgekehrt sein! Dafür werde ich
-sogen!«
+sorgen!«
 
 Daheim schrieb er einen Brief an Frau Hulbatz, sie
 könne die Zimmer weiter vermieten; wir hätten plötzlich abreisen
@@ -904,7 +904,7 @@ Nähe von Alexisbad gelangen, ohne daß jemand weiß, wohin
 wir gereist sind. — Na — morgen ist auch noch ein
 Tag!« —
 
-Am folgenden Vormittag besorgte ich für und Eintrittskarten
+Am folgenden Vormittag besorgte ich für uns Eintrittskarten
 zum Neuen Operettentheater. Harald hatte mit unserem
 Bekannten, dem Kriminalkommissar Bechert, alles
 genau verabredet. Bechert sollte uns während der Vorstellung
@@ -915,7 +915,7 @@ Uhr abends nach dem Anhalter Bahnhof geschafft werden.
 
 Den Tag über merkten wir nicht das geringste davon,
 daß wir beobachtet würden. Als wir uns für das Theater
-fertig machten, meinte Harald: »Sie Kerle sind schlau!
+fertig machten, meinte Harald: »Die Kerle sind schlau!
 Ich wette, sie sind doch in der Nähe!«
 
 Um 10 Uhr holte uns Bechert ab. Wir fuhren jetzt erst
@@ -943,14 +943,14 @@ Halle. Unser Chauffeur war der Privatdetektiv Plittner,
 <@pagebreak/>
 mit dem wir schon häufiger zusammengearbeitet hatten.
 
-Als wir die offene Chaussee erreicht hatten, lieh Harald
+Als wir die offene Chaussee erreicht hatten, ließ Harald
 halten. Wir hatten hinter uns die Scheinwerfer eines
 anderen Autos bemerkt und wollten es vorüberlassen. Harald
 war noch immer argwöhnisch, obwohl ich es für ausgeschlossen
 hielt, das man noch auf unserer Spur sein
 könnte.
 
-»Plittner basteln Sie an dem einen Reifen herum —
+»Plittner, basteln Sie an dem einen Reifen herum —
 zum Schein!« sagte Harst.
 
 Das andere Auto war noch weit entfernt.
@@ -980,7 +980,7 @@ Wir nahmen unsere Koffer und schritten der Stadt zu.
 
 Zwei Autos kamen uns entgegen; dann ein drittes —
 ohne Verdeck. Wir waren hinter einen dicken Chausseebaum
-getreten. Das dritte Auto hielt plötzlich dich vor
+getreten. Das dritte Auto hielt plötzlich dicht vor
 uns. Die drei Männer hinten sprangen heraus und auf
 uns zu.
 
@@ -988,7 +988,7 @@ Einer der Scheinwerfer wurde so gedreht, daß er uns
 beleuchtete.
 
 Wir hatten unsere Pistolen unter den Pelzmänteln
-stecken. Wir konnten sie ich schnell genug hervorholen.
+stecken. Wir konnten sie nicht schnell genug hervorholen.
 Die drei Leute sprachen kein Wort. Sie trugen Autobrillen
 und hielten uns ihre Revolver vor das Gesicht. Der eine
 deutete stumm auf das Auto. Das hieß: wir sollten einsteigen!
@@ -1022,7 +1022,7 @@ Zimmer wieder, das fraglos zu einer Sommervilla
 gehörte und das nur einen eisernen Ofen hatte. Die Fenster
 gingen nach einem verschneiten Walde hinaus.
 
-Zwei der Leute blieben bei uns. Der eine hetzte den
+Zwei der Leute blieben bei uns. Der eine heizte den
 Ofen, der andere bewachte uns. Wir hatten uns auf ein
 Rohrsofa setzen müssen. Sie hatten die Autobrillen noch
 auf und trugen fuchsige falsche Bärte. Auch jetzt sprachen
@@ -1122,7 +1122,7 @@ aber fast, er war es. Für ihn interessiere ich mich nicht.
 Ich möchte lediglich für mich selbst ermitteln, weshalb der
 sogenannte Herr Braun, der über Mapserlan wohnte, dessen
 Zimmer dreimal mindestens heimlich durchsucht hat und
-weshalb Mapserlan vor geheimen Gegnern solle Furcht
+weshalb Mapserlan vor geheimen Gegnern solche Furcht
 hatte.«
 
 »Herr Harst, das ist eine Sensationslust, die in diesem
@@ -1133,14 +1133,14 @@ Jahr gefangen halten.«
 Harald erwiderte nichts, sondern nahm eine frische
 Zigarette.
 
-»Wohin wollten Sie ich jetzt begeben?« fügte der
+»Wohin wollten Sie sich jetzt begeben?« fügte der
 Sprecher daher hinzu.
 
 »Natürlich nach England, nach London. Die Detektivpolizei
-von Scotland York hätte uns geholfen, herauszubringen,
+von Scotland Yard hätte uns geholfen, herauszubringen,
 was mit Mapserlan —«
 
-Der Sprecher hatte bereist abgewinkt. »Sie hätten in
+Der Sprecher hatte bereits abgewinkt. »Sie hätten in
 London nichts wesentliches erfahren. Wären Sie lieber
 in Berlin geblieben. — Ich frage zum letzten Mal: geben
 Sie Ihr Ehrenwort?«
@@ -1424,7 +1424,7 @@ bleichen Wangen. Dann stieß er recht unsicher hervor:
 »Weixler, Bleeker!« rief der Richter Nr. 1.
 
 Und wieder traten zwei der Leute vor und nahmen
-die Masten ab. Einer sagte dann zu Blyton: »Schurke,
+die Masken ab. Einer sagte dann zu Blyton: »Schurke,
 erkennst Du uns?! Wir sind jene beiden Zeugen, die Du
 zuerst bestachst, um Winnamour ins Unglück zu bringen! Du
 bestachst uns und drohtest gleichzeitig, uns wegen kleiner
@@ -1587,7 +1587,7 @@ Darüber spreche ich nachher, etwas, das mich angeht!«
 fragen, Herr Harst, wie Sie sich zu unserer Bitte stellen, das
 Geheimnis des Klubs der Zuchthäusler so lange niemand
 zu verraten, bis wir die Schuldlosigkeit sämtlicher Mitglieder
-den Gerichten befreiten können.« —
+den Gerichten beweisen können.« —
 
 Mir fielen jetzt Haralds Worte über den edlen Zweck
 ein. Ich erkannte, daß Harald aus sich selbst heraus den

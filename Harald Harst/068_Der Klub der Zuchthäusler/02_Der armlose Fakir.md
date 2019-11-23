@@ -14,7 +14,7 @@ und tausend Gesichtern, in Wirklichkeit ist, werden Dinge hören,
 die außerhalb jeder Möglichkeit zu liegen scheinen. Keines
 berufsmäßigen Erzählers überhitzte Phantasie könnte
 das ersinnen, was ich durchgemacht habe. Nur in Indien,
-dem Lande der Rätsel, konnte ich eine solche Anhäufung
+dem Lande der Rätsel, konnte sich eine solche Anhäufung
 von scheinbar unfaßbaren Schicksalsschlägen ereignen.
 
 Ich bin Engländer von Geburt. Mein Name ist Lord
@@ -47,7 +47,7 @@ Doktor Bollingray flößte mir sehr bald tiefen Abscheu
 ein. Ich war ein frühreifes Kind. Ich war sehr viel mir
 allein überlassen gewesen und hatte ohne Wahl alles gelesen,
 was mir in die Hände geriet. Mein Erzieher, ein Heuchler
-schlimmster Sorte, merkte in kurzem, das die Begum (Fürstin)
+schlimmster Sorte, merkte in kurzem, daß die Begum (Fürstin)
 Dschehani mich haßte, weil mein Vater, den sie ganz
 für sich allein haben wollte, an mir mit großer Liebe hing.
 
@@ -120,7 +120,7 @@ gewesen. Ich erzählte meinem Vater jedoch von all
 den Attentaten — anders kann ich diese Mordversuche nicht
 bezeichnen —, die man gegen mich unternommen hätte.
 
-Da wurde sein Gericht ernst und traurig. Er strich mir
+Da wurde sein Gesicht ernst und traurig. Er strich mir
 über das Haar und murmelte: »Mein armer Junge!«
 
 Dann ging er hinaus.
@@ -159,13 +159,13 @@ von meiner Geisteskrankheit überzeugt wäre. Ich nahm
 an, er hätte mich als ihm unbequem los sein wollen.
 
 Mein Vater besuchte mich immer seltener. Freilich —
-trat er im meinten Kerker ein, drehte ich ihm den Rücken zu.
+trat er im meinen Kerker ein, drehte ich ihm den Rücken zu.
 
 Daß ich in diesen sechs Jahren nicht den Verstand tatsächlich
 verlor, hatte ich nur Meiner Energie zu verdanken
 und — Shara Dragi, dem armlosen Fakir, der häufiger im
 Garten des Sanatoriums bettelnd erschien und dann Gelegenheit
-fand, sich mir mir zu unterhalten. Er tröstete mich,
+fand, sich mit mir zu unterhalten. Er tröstete mich,
 er sprach mir Mut zu. Er gab mir auch einmal eine Stahlsäge,
 damit ich nachts das Fenstergitter zerschneiden und
 fliehen könnte. Doch — das Sanatorium wurde zu gut
@@ -267,7 +267,7 @@ erleuchteten Arbeitszimmer in einem Sessel sitzen.
 Ich stieg durch das Fenster ein. Zu meinem Entsetzen
 gewahrte ich dann, daß die Hausjacke des anscheinend
 Schlafenden an der Herzseite mit Blut besudelt war. Mein
-Vater war tot! Neben dem Sessel lag ein langer, krummen
+Vater war tot! Neben dem Sessel lag ein langer, krummer
 afghanischer Dolch.
 
 Kaum hatte ich diese Waffe bemerkt, als im Flur des
@@ -619,7 +619,7 @@ Sie den Besitz veräußern. Mapserlan bietet 40 000 Rupien.«
 
 Das war ein sehr anständiges Angebot.
 
-»Ich will es mir überlegen,« erklärte Ghori Nawab,
+»Ich will es mir überlegen,« erklärte Ghori Nawab.
 »Vielleicht bemühen Sie sich morgen vormittag wieder her,
 meine Herren.«
 
@@ -930,7 +930,7 @@ wie ich mit dem Direktor flüsterte, wird sie Argwohn geschöpft
 haben —« —
 
 Wir nahmen ein Auto und fuhren durch einen Teil
-Eingeborenenviertels bis in eine enge Gasse, die auf
+des Eingeborenenviertels bis in eine enge Gasse, die auf
 <@pagebreak/>
 das Flüßchen Bonti zulief. Harst ließ das Auto warten.
 Dann mieteten wir ein kleines Boot und ruderten der
@@ -960,7 +960,7 @@ Innern herrschte eine trübe Dämmerung.
 
 Wir schalteten unsere Taschenlampen ein. — Mir
 war’s, als ob mich eine Stimme warnte. Aber Harald
-hatte bereite die Mitte der Tempelhalle erreicht. Im Hintergrunde
+hatte bereits die Mitte der Tempelhalle erreicht. Im Hintergrunde
 stand eine riesige Statue des Gottes Brahma,
 scheußlich bunt bemalt. Davor hockten zwei Leute auf den
 Fliesen des Bodens: der Motorbootmann und ein — ja
@@ -1063,7 +1063,7 @@ Harst. Und Horace Wiclaytour ist mit mir und meinem
 Freunde Schraut nach Indien gekommen, um —«
 
 »Du lügst!« fuhr der Alte auf. »Du lügst! Einer,
-der zum Tode verurteilt würde, wird es nicht wagen, sich
+der zum Tode verurteilt wurde, wird es nicht wagen, sich
 Dir anzuvertrauen! Du willst hier —« Er zögerte.
 
 »Nun — was will ich denn?«
@@ -1097,7 +1097,7 @@ Er hatte den Fakir mit der Linken umklammert. Der
 Alte stieß mit den Beinen nach ihm. Haralds Clementpistole
 drohte den beiden Dienern.
 
-Sie gehorchen. — Hätten sie nicht gehorcht — mein
+Sie gehorchten. — Hätten sie nicht gehorcht — mein
 Finger lag am Abzug. Ich hätte geschossen. —
 
 Harst gab den Alten frei, sagte ruhig:
@@ -1174,7 +1174,7 @@ in den Abgrund des Nichts blasen kann!«
 Matana senkte den Kopf. Ein Zittern lief über seinen
 Leib hin. Dann stieß er hervor: »Ich weiß es nicht,
 großer Ghori! Ich weiß es nicht! Ich war’s, der den
-Sahib vom Auto weg auf den Kutter lockte, indem ich ihn
+Sahib vom Auto weg auf den Kutter lockte, indem ich ihm
 sagen mußte, Sahib Harst erwarte ihn dort. Er wurde
 nicht argwöhnisch. Auf dem Kutter haben wir drei Diener
 der Mem Sahib (Dame, Frau) Blackfellow ihn gefesselt
@@ -1185,7 +1185,7 @@ fuhr davon. Es ist die Wahrheit.«
 Harst winkte dem Fakir jetzt zu. »Gehen wir mehr
 nach dem Eingang hin, damit Matana uns nicht belauschen
 kann. Wenn er seiner Herrin so treu ergeben ist,
-möchte ich, vorsichtig sein —«
+möchte ich vorsichtig sein —«
 
 Wir setzten uns hier auf ein paar Mauerblöcke. Und
 <@pagebreak/>
@@ -1205,7 +1205,7 @@ Jüngling: er war ein Gefangener —«
 
 Ghori Nawab schwieg ein paar Sekunden. Seine
 dunklen Augen hatten einen schwärmerischen Glanz angenommen.
-Noch mehr als vormittags, als ihn auf seiner
+Noch mehr als vormittags, als ich ihn auf seiner
 Veranda nicht als den verkrüppelten Yogi, sondern als
 den gelähmten Besitzer eines hübschen Bungalows kennengelernt
 hatte, fiel mir der edle Schnitt seines Gesichts auf. —
@@ -1393,7 +1393,7 @@ berichtete, was wir vorhin erlebt hatten. —
 »Sie sind frei, Mylord,« erklärte Worbler dann und
 streckte ihm die Hand hin.
 
-Horace Wiclaytour übersät die Hand, schüttelte den
+Horace Wiclaytour übersah die Hand, schüttelte den
 Kopf, sagte laut:
 
 »Mr. Worbler — gut, der *Lord* ist frei! Aber nicht
@@ -1483,7 +1483,7 @@ Harst trat Ghori Nawab in den Weg. Wir hörten
 seine scharfe, ironische Stimme: »Kehren Sie um — die
 Geschichte ist mißglückt —« Und als er das letzte Wort
 aussprach, umschlang er die Brust des Alten, rief uns zu:
-»Es ist Miß Desideria Breeg! — Miß Breeg. Ihre Verkleidung
+»Es ist Miß Desideria Breeg! — Miß Breeg, Ihre Verkleidung
 verdient Anerkennung! Sie haben nur einen Fehler
 gemacht: Sie schlossen die Pforte auf und ließen, um
 schnell wegzukommen, den Schlüssel stecken. Außerdem
