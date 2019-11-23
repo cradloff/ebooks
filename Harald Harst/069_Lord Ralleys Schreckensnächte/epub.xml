@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">48cf8b72-0e40-11ea-8f3f-f7b3cfa4ed42</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Lord Ralleys Schreckensnächte</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">69</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Lord Ralleys Schreckensnächte
+
+Durch die fahle Morgendämmerung erklang ein gellender Hilferuf. — Er übertönte das Rauschen der Palmen und das lustige Kreischen der Affen, die hier in den großen Garten des Europäerviertels der uralten, heiligen Stadt Benares hausten.
+
+Wir drei — Lord Horace Wiclaytour, Harald Harst und ich — waren wie angewurzelt stehen geblieben. Wir starrten empor zu dem offenen Fenster des weißen Bungalow, der dicht an der Straße, nur zum Teil durch Büsche verdeckt, sich erhob.
+
+Dort hockte auf dem Fensterkopf ein Mann im langen Nachthemd, hielt sich krampfhaft am Fensterkreuz fest und winkte uns jetzt.
+
+Wir eilten auf die Gartenpforte zu. Sie war verschlossen.  Wir kletterten hinüber, rannten weiter.
+
+Der Mann am Fenster war verschwunden. Aber das Fenster stand noch weit offen.
+
+Der stumme Diener
+
+Zwei Uhr morgens. — Die Uhr im Pensionat Mr.  Tapsals hatte gerade geschlagen. Und gerade hatte Harald Harst gesagt:
+
+»Der Fall ist für mich erledigt —«, als die Fensterscheibe der Tür nach der Treppe hin klirrend zersplitterte.
+
+Gleichzeitig draußen der Knall eines Schusses, und den Bruchteil einer Sekunde später der Todesschrei Lord Ralleys:
+
+»Ich bin getroffen!«
+
+Ralley taumelte mir in die Arme. Ich fing ihn auf.  Worbler griff mit zu. Wir legten ihn auf das Bett.
+
+Harald hatte bereits die Scheibe der Tür vollends zertrümmert und den Oberleib durch den Rahmen des Türfensters gezwängt.
+
+Draußen schien der Mond. Die Sternenpracht des tropischen Nachthimmels vereinte ihr Licht mit dem des Nachtgestirns.
+
+Harsts Clementpistole schickte Ihr blechernes Peng — Peng in den stillen Garten hinaus.
+
+Er hatte offenbar auf den fliehenden Meuchelmörder geschossen. Jetzt riß er das andere Fenster auf und sprang hinaus. Ich überlegte nicht lange und folgte ihm.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (069) Lord Ralleys Schreckensnächte.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
