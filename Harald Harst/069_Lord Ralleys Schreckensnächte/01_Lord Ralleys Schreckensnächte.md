@@ -167,7 +167,7 @@ um zu spionieren!
 
 »Bitte, nehmen Sie wieder Platz, Mylord,« erwiderte
 ich mit größter Liebenswürdigkeit und Harmlosigkeit.
-»Harst ist gar nicht schlagen gegangen. Wir haben hier noch
+»Harst ist gar nicht schlafen gegangen. Wir haben hier noch
 etwas zu erledigen — einen sehr diskreten Auftrag. Und
 wenn mein Freund auf der Spur eines menschlichen Wildes
 ist, vergißt er oft Schlafen, Essen und Trinken.« — Ich
@@ -222,7 +222,7 @@ mietete in Nagpur vier Hindu, kaufte Last- und Reitkamele
 und drang mit meinen farbigen Begleitern vor acht Monaten
 in die Wildnis ein, um festzustellen, ob es tatsächlich,
 wie man sich erzählte, in den Dschungeln ein Zwergenvolk
-Gabe, das in einer Stadt auf einem Bergplateau hauste.
+gäbe, das in einer Stadt auf einem Bergplateau hauste.
 Nach achttägigem Marsch wurden wir nachts überfallen.
 Von wem, weiß ich nicht. Man hatte mir eine Decke über
 den Kopf geworfen. Man brachte mich dann in ein tiefes
@@ -525,7 +525,7 @@ werde Dir derweilen alles berichten.«
 
 Ich läutete nach dem Kellner und bestellte Tee. Wir
 <@pagebreak/>
-setzten und an den gedeckten Tisch im Salon, und Harst begann
+setzten uns an den gedeckten Tisch im Salon, und Harst begann
 mit einem nachsichtigen Lächeln:
 
 »Ja — wenn ich ebenso wie Du den Schlaf nicht entbehren
@@ -581,8 +581,8 @@ und staffierte mich als indischen Lastträger aus. In dieser
 Aufmachung schleppte ich eine große Kiste, die freilich leer
 war, nach Ralleys Bungalow. Vor dem Hause ruhte ich
 mich erst einmal aus. Ralley saß auf der Veranda beim
-Frühstück. Er sprang jedoch sehr häufig auf, schritt un- 
-ruhig hin und her und schien sich etwas zu überlegen. Dann
+Frühstück. Er sprang jedoch sehr häufig auf, schritt unruhig
+hin und her und schien sich etwas zu überlegen. Dann
 war er wohl zu einem Entschluß gelangt. Er verschwand
 im Hause. Ich rechnete damit, daß er den Bungalow verlassen
 würde, und zog mich mehr von der Pforte zurück.
@@ -674,7 +674,7 @@ Du tatsächlich in Widpura wärest.«
 
 »Sehr richtig. Und in den Kognak tat ich das Betäubungsmittel,
 weil ich bestimmt erwartete, daß Ralley, falls
-er überhaupt hier in den Salon zu uns käme, uns zu die
+er überhaupt hier in den Salon zu uns käme, uns auch die
 Geschichte seiner Schreckensnächte berichten würde — uns
 oder Dir allein! Und daß diese Schilderung ihn aufregen
 mußte, durfte ich nach dem heute in der Morgendämmerung
@@ -696,7 +696,7 @@ tollste an der Sache ist fraglos die gespenstische Mumie, die
 ganz nach Belieben den Schrank verläßt —«
 
 »Blech!« lachte ich auf. »Das hat Ralley hinzugedichtet.
-weiß, wer mit der Faust gegen die Tür getrommelt
+Wer weiß, wer mit der Faust gegen die Tür getrommelt
 und ihn gewürgt hat!«
 
 »Hm — und die Rufe aus dem Schranke?!«
@@ -707,7 +707,7 @@ und ihn gewürgt hat!«
 
 Ich zuckte nur die Achseln.
 
-Harald hatte ich eine frische Zigarette angezündet.
+Harald hatte sich eine frische Zigarette angezündet.
 
 <@pagebreak/>
 »Du machst Dir die Sache sehr bequem, lieber Alter.
@@ -746,7 +746,7 @@ und genau so viel enthielt das Wertpaket!«
 »Ah — ich begreife: Du meinst, Ralley hat diese 28
 Edelsteine einem anderen gestohlen —«
 
-Harald schüttelte den Kopf. »Wie er in ihrem Besitz
+Harald schüttelte den Kopf. »Wie er in ihren Besitz
 gelangt ist, die Frage wollen wir noch offen lassen. Jedenfalls
 liegt die Wahrscheinlichkeit sehr nahe, daß er von dem
 Urheber der Schreckensnächte der Steine wegen derart geängstigt
@@ -757,7 +757,7 @@ zwingen, die Steine herauszugeben.«
 »Dann müßte Ralley den Mann kennen!« warf ich ein.
 
 <@pagebreak/>
-»Ja — er kennt ihn du Frage. Nur jetzt kennt er
+»Ja — er kennt ihn ohne Frage. Nur jetzt kennt er
 ihn nicht. Das heißt: der Mann ist so tadellos verkleidet
 und weiß sich so zu verbergen, daß Ralley nur vermutet,
 dieser Unbekannte stecke als treibende Kraft hinter den unheimlichen
@@ -818,7 +818,7 @@ wieder heimgekehrt,« erwiderte der Inder.
 »Seit drei Monaten. Damals lief ein anderer davon,
 und mein Sahib stellte Mawrista ein.«
 
-»Was tat Mawrista? — Ihr habt Bach jeder seine
+»Was tat Mawrista? — Ihr habt doch jeder seine
 bestimmte Arbeit.«
 
 »Er säuberte die Zimmer und hielt den Garten in
@@ -907,7 +907,7 @@ unterste Querbrett herausgehoben hatte.
 hergestellt worden,« meinte er. »Wenn wir nun noch im
 Flur in der Mauer ein Loch finden, das bis zu diesem Astloch
 reicht, wissen wir, wie Mawrista die Mumie rufen
-ließ. — eben indem er vom Flur aus —«
+ließ, — eben indem er vom Flur aus —«
 
 <@pagebreak/>
 Da — Ich sah, wie der künstliche Ast aus dem Loche
@@ -976,7 +976,7 @@ Harst schaute mich an. »Der Kerl muß durch einen anderen
 Eingang sofort ins Haus zurückgekehrt sein! Welche
 Frechheit! Er hat die Edelsteine hier hingelegt, als wir
 auf der Straße waren! — Was bedeutet dies nun?! Weshalb
-gibt er die Hälfte bei Raubes wieder preis?!
+gibt er die Hälfte des Raubes wieder preis?!
 Weshalb?!«
 
 Er starrte die Steine an, als ob sie ihm dieses Rätsel
@@ -1501,7 +1501,7 @@ rechnete bestimmt damit, daß Broban ebenfalls zu flüchten
 gedachte und hierher kommen würde. Er verstand es besser
 als ich, das Aeußere eines Menschen zu verwandeln. Und
 ich mußte auf eine tadellose Verkleidung bedacht sein,
-da — jetzt zu mir mehrere Leute sich an die Fersen geheftet
+da — jetzt auch mir mehrere Leute sich an die Fersen geheftet
 haben — alles Inder, alles offenbar Abgesandte der
 Priesterschaft des kleinen Gwinnara-Tempels. — Ich betone,
 daß ich die Wahrheit spreche, Mr. Harst. Sie brauchen

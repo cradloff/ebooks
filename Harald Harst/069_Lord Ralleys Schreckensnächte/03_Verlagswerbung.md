@@ -11,7 +11,7 @@
 <tr><td>247. Kastell Mondalar.</td>               <td>284. Der Tote auf der Piazetta.</td></tr>
 <tr><td>248. Das Gasthaus zur weißen Ratte.</td>  <td>285. Das Siegel Salomonis.</td></tr>
 <tr><td>249. Die goldene Glocke.</td>             <td>286. Der blinde Geiger.</td></tr>
-<tr><td>250. Der brennenden Wald.</td>            <td>287. Wilde Zwiebeln.</td></tr>
+<tr><td>250. Der brennende Wald.</td>             <td>287. Wilde Zwiebeln.</td></tr>
 <tr><td>251. Irinas Verhängnis.</td>              <td>288. Der Calumet Gang.</td></tr>
 <tr><td>252. Die Hexe von Malvetta.</td>          <td>289. Der blaugrüne Walfisch.</td></tr>
 <tr><td>253. Chuna Dangi, das weiße Rätsel.</td>  <td>290. Der Reklametrickfilm.</td></tr>

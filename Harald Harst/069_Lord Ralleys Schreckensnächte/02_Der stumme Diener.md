@@ -45,7 +45,7 @@ breiten, kiesbestreuten Pfad entlangschauen.
 
 Ich sah Harald in langen Sätzen vorwärtsjagen: ich
 <@pagebreak/>
-sah auch den Mann, den er verfolgte: einem Inder mit
+sah auch den Mann, den er verfolgte: einen Inder mit
 Turban und hellem Leinenanzug.
 
 Der Inder lief unsicher. Aber er war weit voraus.
@@ -404,7 +404,7 @@ daß sie sehr gut von einem heimlich unter den Tisch gegossenen
 Likör — oder besser von zwei Likören — herrühren
 können, denke ich. Wenn Brabazon in die Chartreuse-Flasche
 Gift hineingetan hatte, dann — dann mußte er
-eben die Gläschen guter den Tisch entleeren. — Suchen wir
+eben die Gläschen unter den Tisch entleeren. — Suchen wir
 die Chartreuse-Flasche.«
 
 Aber — in dem Schränkchen gab es keinen Chartreuse.
@@ -772,7 +772,7 @@ Ich zweifelte nicht daran, daß es derselbe Flußarm
 wäre, den Mawrista erwähnt hatte. Auch Harald nickte
 mir bedeutungsvoll zu.
 
-Hausboot an Hausboot, Floß zu Floß mit Bambushütten
+Hausboot an Hausboot, Floß an Floß mit Bambushütten
 darauf lagen hier an den Ufern in Reihen verankert.
 Das Bild erinnerte an Bangkok, an die Hauptstadt von
 Siam, mit ihrem schwimmenden Stadtteil. — Auch hier
@@ -900,7 +900,7 @@ wir — Was war das?!« unterbrach er sich hastig. »Hörtest
 Du?!«
 
 »Ja — es klang wie ein —« — ich suchte umsonst nach
-einem passenden Anspruch.
+einem passenden Ausdruck.
 
 »Wie ein Schrei, der schon im Entstehen erstickt wurde,«
 ergänzte Harst. »Wir wollen doch hinauf! Los — die
@@ -919,7 +919,7 @@ Wände waren Mauern, über die wie Guirlanden Schlingpflanzenbündel
 in die Tiefe hingen. Der Boden dieses
 Loches war mit Steingeröll bedeckt. Hier und dort wuchsen
 auch Gräser und Sträucher. — Der Schacht war gut zwölf
-Meter tief,
+Meter tief.
 
 Mit einem Blick hatte ich all diese Einzelheiten erfaßt.
 
@@ -1175,7 +1175,7 @@ Hochmut und Spott lauerten.
 »Ja. — Weshalb wurde das Motorrettungsboot der
 Jacht gestern dunkelbraun gestrichen, Mylord?«
 
-Ralbrout drehte sich der Tafel zu. »Kapitän Tovort,
+Ralbrout drehte sich der Tafel zu. »Kapitän Tobort,
 wissen Sie etwas davon?« fragte er einen Herrn mit
 schwarzem Spitzbart.
 
@@ -1286,7 +1286,7 @@ Inders wieder umgekleidet hatten.
 
 Der Detektivinspektor saß oben in dem Arbeitszimmer
 Brabazons. Dieser selbst war noch bewußtlos und lag auf
-dem Bett im im Schlafzimmer. Der Polizeiarzt bemühte sich
+dem Bett im Schlafzimmer. Der Polizeiarzt bemühte sich
 um ihn. Brabazon hatte bei dem Sturz in den Schacht
 einen Schädelbruch erlitten. Der Arzt zweifelte, ob man
 ihn würde am Leben erhalten können.
@@ -1449,7 +1449,7 @@ folgte ihm. — Wir waren allein. Ich schaute Harald erwartungsvoll
 an, flüsterte gespannt: »Du traust Lord Ralbrout
 nicht?«
 
-»Nein, nein Alter. Ich weiß nicht, was ich von ihm
+»Nein, mein Alter. Ich weiß nicht, was ich von ihm
 halten soll. Bedenke: der Graubart und die Inderin aus
 dem Sampan gingen doch in die Achterkajüte hinab! Und
 — was die Lady von den Kaschmirschals vorbrachte, war
@@ -1547,7 +1547,7 @@ ausgeplündert worden sei.
 
 »Den habe ich gar nicht sprechen können. Er war mit
 seiner Gattin bei Sir Collingham zum Souper geladen.
-Nur Kapitän Tovort empfing mich. Der Lord konnte bei
+Nur Kapitän Tobort empfing mich. Der Lord konnte bei
 Collingham nicht mehr gut absagen, da das Souper als
 Abschiedsessen für das junge Ehepaar veranstaltet worden
 war. Die Jacht verläßt morgen früh Benares, fährt den
