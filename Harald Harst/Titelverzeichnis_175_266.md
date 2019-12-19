@@ -1,6 +1,7 @@
 <@pagebreak 65/>
 
-<div style="font-size: large; text-align: center;">Titel-Verzeichnis der Harald Harst-Bändchen.</div>
+<div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
+<div style="font-size: large; text-align: center;">unserer Harst-Abenteuer</div>
 
 <table style="table-layout:fixed; font-size: x-small;">
 <tr><td style="width: 50%">175. Die Taubenzüchter.</td><td style="width: 50%">221. Der große Schwindlerkonzern.</td></tr>
@@ -51,3 +52,6 @@
 <tr><td>220. Der Dornenauszieher.               </td><td>266. Das Erbe der Brantings.</td></tr>
 </table>
 
+<div style="font-size: large; text-align: center;">Diese Sammlung wird fortgesetzt.</div>
+<div style="font-size: x-large; text-align: center;">Verlag moderner Lektüre</div>
+<div style="font-size: large; text-align: center;">Berlin SO16 / Michaelkirchstraße 23a</div>
