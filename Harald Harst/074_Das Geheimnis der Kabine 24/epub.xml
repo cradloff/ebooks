@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">32bae12a-24ce-11ea-86c1-b787fb1e2195</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis der Kabine 24</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">74</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Geheimnis der Kabine 24
+
+Mit dem »Geheimnis der Kabine Nr. 24« beginnt eine Reihe von Abenteuern, die man mit Recht als Nordland-Abenteuer bezeichnen könnte, da ihr Schauplatz hauptsächlich das landschaftlich so abwechslungsreiche Norwegen ist.
+
+Die Kriminalfälle und seltsamen Geschehnisse, die mein Freund Harald Harst dort in Nordland aufklären konnte, gehören mit zu den eigenartigsten und aufregendsten, die er je in Arbeit hatte. –
+
+Die Steinhütte am Buarbrä
+
+Diese Ereignisse spielten sich erst im Mai des folgenden Jahres ab. Die dazwischen liegenden Monate waren ausgefüllt durch Haralds schwere Erkrankung an Grippe, durch den achtwöchigen Kuraufenthalt in Meran und den sich anschließenden in Nizza.
+
+Erst am 5. Mai kehrten wir beide wieder nach Berlin zurück, Harald in die Arme seiner freudestrahlenden Mutter, ich mit nicht geringerer Freude in meine beiden Zimmer, die ich im Harstschen Hause bewohnte und die ja meine wahre Heimat bildeten.
+
+Auf meinem Schreibtisch hatte Frau Auguste Harst die ganzen in den letzten acht Wochen für Harald eingelaufenen Briefe, Drucksachen und so weiter aufgehäuft.  Haralds eigener Wunsch war es gewesen, daß ihm nichts hiervon nachgeschickt würde. Er selbst hatte ja nur einen Wunsch: rasch wieder gesund zu werden! Und er kannte sich: hätte er einen Brief mit einem interessanten Auftrag erhalten, dann würde dieser ihm keine Ruhe gelassen haben, hätte ihn in Gedanken dauernd beschäftigt und die Genesung so verzögert. Der Arzt hatte Harald eben jede, aber auch jede »Arbeit« verboten. Und Harsts »Arbeit« griff Nerven und Hirn mehr an, als man anzunehmen geneigt ist. –</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (074) Das Geheimnis der Kabine 24.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
