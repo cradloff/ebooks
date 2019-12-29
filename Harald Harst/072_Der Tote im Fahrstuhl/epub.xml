@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">8293b1f2-2a89-11ea-b14b-ffd4aaa2e9f3</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Tote im Fahrstuhl</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">72</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Der Tote im Fahrstuhl
+
+Ich stand also wieder auf (oder ich träumte es) und ging wieder in das Treppenhaus, denn ich sagte mir, der Stock sei im Fahrstuhl geblieben.
+
+Der Fahrstuhl war unten. Ich drückte den Knopf, und er kam empor.
+
+Als ich hörte, wie er sich in Bewegung setzte, hörte ich noch etwas anderes, oder, wie gesagt, ich habe all das nur geträumt. Ich hörte also von unten durchs das Treppenhaus das Zuschlagen einer schweren Tür, dann einen Aufschrei.  Nun hielt der Fahrstuhl. Ich öffnete die Gittertür, öffnete die inneren Flügeltüren und taumelte zurück. (Das heißt: ich mag auch auf dem Diwan gelegen und mein Hirn mag mir das vorgegaukelt haben!)
+
+Ich taumelte zurück, denn — auf der Fahrstuhlbank lag in der Ecke mit herabhängenden Armen und einem Strick um den Hals ein gutgekleideter bartloser Mann ohne Hut — mit blaurotem, aufgedunsenem Gesicht — scheußlich mit einem Wort!
+
+Die vier Nebelgestalten
+
+Ich habe diesen Titel für dieses Abenteuer deshalb gewählt, weil der mit Bleistift geschriebene Brief, den wir im Wohnzimmer der Brüder Steiner vorfanden, die Bemerkung enthielt, daß die vier Gegner Peter Niendorfs gleich den Nebelschwaden seien, die ein Windstoß in unzählige Teile zerstäubt, also für immer verschwinden läßt.  Der Leser mag nachprüfen, ob unser hier geschildertes Erlebnis diesen Titel rechtfertigt. —
+
+Nach jener Nacht, die uns eine solche Fülle aufregender Zwischenfälle gebracht hatte, schliefen wir in unsern Zimmern in dem alten schönen Familienhause der Harsts in Berlin-Schmargendorf, Blücherstraße 10, bis in den Vormittag hinein.
+
+Beim Frühstück auf der Veranda erzählte Harald seiner Mutter die Ereignisse des gestrigen Tages.
+
+Frau Harst, die in ständiger Angst um das Leben ihres einzigen Kindes schwebte und mit dessen Liebhaberei, seltsamen Verbrechen und Vorfällen nachzuspüren, nie so recht einverstanden war, horchte schon bei der Erwähnung des Namens Niendorf auf und sagte nachher:
+
+»Das muß derselbe Kommerzienrat sein, der vor anderthalb Jahren als Fünfziger ein armes adliges, um die Hälfte jüngeres Mädchen heiratete. Ich sah ein Bild des Paares in einer illustrieren Wochenschrift, und meine Freundin, die Frau Konsul Hersfeld, sprach mit mir über diese Ehe gleichfalls, da sie die Komtesse — hm, wie hieß sie doch nur? — ja, die Komtesse van der Bloozen persönlich kannte.  Die Konsulin war sehr empört, weil Niendorf sich dieses schöne, geistvolle Mädchen geradezu gekauft hatte. Niemand begriff damals, daß sie ihn angenommen hatte, und —«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (072) Der Tote im Fahrstuhl.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
