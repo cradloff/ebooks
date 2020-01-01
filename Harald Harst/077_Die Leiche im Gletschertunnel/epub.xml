@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">9a68d786-2cc7-11ea-b383-0f3231427df2</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Leiche im Gletschertunnel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">77</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Leiche im Gletschertunnel
+
+Harald Harsts Kampf gegen den seit vielen Jahren von der Polizei aller Länder eifrigst gesuchten Bankräuber und Mörder Ottmar Orstra hatte, wie ich in den vorhergehenden Bänden geschildert habe, bei den berühmten Trollhätta-Wasserfällen in Schweden begonnen und war nun nach aufregenden, wechselvollen Ereignissen in dem Bergdorfe Dahlen in Norwegen scheinbar zu einem vorläufigen Abschluß gelangt.
+
+Orstras Schwester Agna und sein Helfershelfer, den wir nur unter dem Namen Baptiste kannten, hatten hier in Dahlen ihr Leben eingebüßt.
+
+Wir wußten aber, daß Orstra das Haupt einer weitverzweigten Verbrechergesellschaft war und daß wir jeden Tag, jede Stunde damit rechnen mußten, recht gefährliche Beweise der erfindungsreichen Rachgier dieses vielseitig gebildeten und dabei äußerst verwegenen Menschen zu erhalten. —
+
+Die herrenlose Motorjacht
+
+Asbörn Prangs Bericht über die Spuren, die er unten in der Schlucht neben der Autostraße gefunden hatte, bewies zur Genüge, daß die uralte Tanne, in deren Aeste Ottmar Orstra gestürzt war, dem Verbrecher das Leben gerettet und ihm das Entweichen ermöglicht hatte.
+
+Haralds unverwüstliche Natur kannte auch nach den Anstrengungen der letzten Tage keine Ermüdung. Nachdem wir in der Haukeli-Hütte gefrühstückt und uns von dem Milliardär John Colding hatten erzählen lassen, auf welche heimtückische Weise der angebliche Professor Lörax ihn auf dem Spaziergang durch einen Schluck Kognak betäubt und in der folgenden Nacht nach dem Unterkunftshause gebracht hatte, versuchte Harst mit Hilfe des Wolfshundes Hasso Orstras Fährte weiter zu verfolgen.
+
+Der Hund hatte eine tadellose Dressur, nahm auch die Spur auf und führte uns vier Herren — Golding, Prang und uns beide, nach einem größeren Bauernhof nach Süden zu, wo wir von dem Besitzer erfuhren, daß zwei englische Touristen morgens sechs Uhr von ihm einen Wagen gemietet hätten, um sich nach Dahlen zu begeben. —
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (077) Die Leiche im Gletschertunnel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
