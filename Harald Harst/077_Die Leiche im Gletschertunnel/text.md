@@ -22,11 +22,11 @@ Wir wußten aber, daß Orstra das Haupt einer weitverzweigten
 Verbrechergesellschaft war und daß wir jeden
 Tag, jede Stunde damit rechnen mußten, recht gefährliche
 Beweise der erfindungsreichen Rachgier dieses vielseitig gebildeten
-und dabei äußerst verwegenen Menschen zu erhalten. —
+und dabei äußerst verwegenen Menschen zu erhalten. --
 
 Vier Tage nach dem Brande des Hotels Dahlen (vergl.
 Nr. 76 »Lord Plemborns Verbrechen«) saßen wir beide
-mit dem Detektiv Asbörn Prang aus Christiania aus dem
+mit dem Detektiv Asbörn Prang aus Christiania auf dem
 Achterdeck der Jacht Miramare beim Morgenkaffee.
 
 Die Jacht hatte Lord Plemborn uns zur Verfügung
@@ -44,24 +44,24 @@ Dahlen, eingebettet in das Grün von Bäumen und Sträuchern.
 Und als einziges größeres Gebäude das Hotel
 Dahlen, ein Holzbau mit zahllosen blinkenden Fenstern.
 
-Ueber alledem die Morgensonne eines klaren August-tages:
-?ingsunm Frieden und Ruhe; nur das feine Klingen
-der Glocken des auf den grünen Bergmatteu werdenden
-Viele.
+Ueber alledem die Morgensonne eines klaren Augusttages:
+ringsum Frieden und Ruhe; nur das feine Klingen
+der Glocken des auf den grünen Bergmatten weidenden
+Viehs.
 
 Es lag eine wunderbar feine Stimmung über diesem
-Bilde, e Stimmung, die uns drei fast andächtig schweigen
+Bilde, eine Stimmung, die uns drei fast andächtig schweigen
 ließ.
 
 Wie störend wirkte jetzt das schnell näherkommende
-Rattern eines Autos. das auf der Bergstraße von Odda
-der im Eiltempo nahte.
+Rattern eines Autos, das auf der Bergstraße von Odda
+her im Eiltempo nahte.
 
 Wir konnten es nicht sehen. Aber wir hörten es.
 
-Mit einen. Male faule Harald:
+Mit einem Male sagte Harald:
 
-»Es muß ein Privatauto sein, also keiner der den Verkehr.
+»Es muß ein Privatauto sein, also keiner der den Verkehr
 nach Odda vermittelnden Kraftwagen. Die halten
 stets vor dem Hotel Dahlen, und dieses Auto kommt die
 Dorfstraße entlang hier zum See hinab —«
@@ -69,19 +69,19 @@ Dorfstraße entlang hier zum See hinab —«
 Asbörn Prang nickte und schaute Harst fragend an.
 
 »Sie denken an einen Klienten, Harst?« meinte er
-leise und lauschte dem Geräusch des Ratlos.
+leise und lauschte dem Geräusch des Autos.
 
 »Ich denke, daß Vergnügungsreisende nicht so rasen
-würden, a »Auto hat minvbeslens siebzig Kilometer
-eschwindigien,
+würden, Das Auto hat mindestens siebzig Kilometer
+Geschwindigkeit.<<
 
-»Also vermittelt Du; daß wirklich jemand zu Die voll!
-fügte ich und staunt auf, trat an die Reling und blickte nach
-der Dampsferánlegestelle ‘hinüber, wo die Dorfstraße endete.
+»Also vermutest Du, daß wirklich jemand zu Dir will,<<
+sagte ich und stand auf, trat an die Reling und blickte nach
+der Dampferanlegestelle hinüber, wo die Dorfstraße endete.
 
-Fault tauchte das Auto auch leben auf, hielt und ließ
-zwei Damen mit Autobrillen erkennen, die sich ich! hastig
-erbeben, nach der Sacht binbfieften und ausstiegen.
+Dann tauchte das Auto auch schon auf, hielt und ließ
+zwei Damen mit Autobrillen erkennen, die sich jetzt hastig
+erhoben, nach der Jacht hinblickten und ausstiegen.
 
 Der Chauffeur nahm ihnen die gelblichen Staubmäntel
 ab und half ihnen beim Abbinden der Autobrillen. Dann
@@ -90,15 +90,15 @@ kamen die beiden rasch am Seeufer entlang.
 Sie waren noch jung, hatten regelmäßige Gesichter und
 machten auf. den ersten Bis einen vornehmen Eindruck.
 
-Auch Harald und Freudig waren ausgestanden.
+Auch Harald und Prang waren ausgestanden.
 
-»Es sind Klienten!« jagte Prang, »Sie sind beide erregt.
+»Es sind Klienten!« sagte Prang, »Sie sind beide erregt.
 <@pagebreak/>
 Es müssen Schwestern sein. Amerikanerinnen,
 taxiere ich.«
 
-Harst ging bis an die Laufplanke, die zum Ufer Hin.
-Üübersührte.
+Harst ging bis an die Laufplanke, die zum Ufer hin-
+überführte.
 
 Die dunkelhaarige der Damen war ein paar Schritt
 voraus, grüßte und fragte auf englisch:
@@ -107,140 +107,141 @@ voraus, grüßte und fragte auf englisch:
 
 »Harald Harst, Miß Colding —« Er verneigte sich.
 
-Sie trabte.
+Sie stutzte.
 
 »Sie kennen uns, Master Harst?«
 
-»Von den Illustrationen der Christiania Ne Zehe
-Tötung her. In der lebten Nummer waren Ihr Herr Vater,
+»Von den Illustrationen der Christiania Bunten Zeitung
+her. In der letzten Nummer waren Ihr Herr Vater,
 Sie und Ihre Schwester dreimal abgebildet.«
 
 »Colding ist der Eisenbahnmagnat aus St. Louis,
 vierfachen Milliardär,« flüsterte Prang.
 
-Dann stellte Harst uns den Sdnwestern vor, und wir
-fünf nahmen am Frühstückstisch wieder Pfad.
+Dann stellte Harst uns den Schwestern vor, und wir
+fünf nahmen am Frühstückstisch wieder Platz.
 
-»Darf ich den Damen eine Tasse Tor anbieten?«
-meinte Harald liebenswürdiaga.
+»Darf ich den Damen eine Tasse Tee anbieten?«
+meinte Harald liebenswürdig.
 
-Die Dunkeclhaarige dankte. »Mary und ich sind Du’s
+Die Dunkelhaarige dankte. »Mary und ich sind Pa’s
 wegen viel zu sehr in Unruhe,« erklärte sie. »Master Harst,
-wir hörten von Touristen, die gestern in der Haukeli. Sennhütte
+wir hörten von Touristen, die gestern in der Haukeli-Sennhütte
 eintrafen, daß Sie sich hier befänden. Da sind wir
-denn sofort hierher geeilt. Da ist nämlich seit vorgestern
+denn sofort hierher geeilt. Pa ist nämlich seit vorgestern
 verschwunden,«
 
-»Sie wohnten in der Haukeli-Hütte, Miß Colding?k«
+»Sie wohnten in der Haukeli-Hütte, Miß Colding?«
 
-gefeit vier Baren, Wir hatten dort Station gen
-mach. Ma gefiel schert u.
+>>Ja, seit vier Tagen. Wir hatten dort Station gemacht.
+Pa gefiel es dort.<<
 
-Ne am Tage nach Älter Ankunft verschwand Akt
-er
+>>Und am Tage nach Ihrer Ankunft verschwand Ihr
+Vater?<<
 
-»Er war morgens gegen acht litt zu einem längeren
-Spaziergang ausgebrochen, hatte sich Proviant mitgenommen
-und wollte nachmittags gegen vier zurüc sein. Ei
-hatte unseren Wolsshund Hasse mit, denn —« — sie 4d-
-gelbe etwas —«denn Da hat viele Feinde und muß vor-sicztia
+»Er war morgens gegen acht Uhr zu einem längeren
+Spaziergang aufgebrochen, hatte sich Proviant mitgenommen
+und wollte nachmittags gegen vier zurück sein. Er
+hatte unseren Wolfshund Hasso mit, denn —« — sie zögerte
+etwas —«denn Pa hat viele Feinde und muß vorsichtig
 sein.«
 
-»Er kehrte von dieser Patrone also nicht zurück f«
+»Er kehrte von dieser Fußtour also nicht zurück?«
 
-»Nein, Master Harst. Nur Hasse erschien gestern grüßt
-Au feinem Halsband war dieser Brief beseitigt.«
+»Nein, Master Harst. Nur Hasso erschien gestern früh.
+An seinem Halsband war dieser Brief befestigt.«
 
 <@pagebreak/>
 Sie reichte Harald einen zerknitterten, schmutzigen
-weihen Umschlag.
+weißen Umschlag.
 
 »Eine Erpressung also,« meinte Harst und zog den
-Briefbogen aus dem Umschlag, las folgendes vor, Bog ich
-aus dem (Englischen ins Deutsche übertrage:
+Briefbogen aus dem Umschlag, las folgendes vor, das ich
+aus dem Englischen ins Deutsche übertrage:
 
 > An die Schwestern Colding,
 
 > Haukeli-Sennhütte.
 
 > Ihr Vater befindet sich in unserer Gewalt. Wir
-fordern drei Millionen Lösegeld in Tausendkronenschei-nen.
+fordern drei Millionen Lösegeld in Tausendkronenscheinen.
 Das Geld ist uns bis zum 25. August in der Weise
 auszuhändigen, daß Jane Colding es am 25. morgens
 acht Uhr nach dem Haukeli-Kegel bringt und dort auf der
-Spitze niederleat.
+Spitze niederlegt.
 
-> Sollten Sie es tragen, die Hilfe der Polizei anzurufen,
+> Sollten Sie es wagen, die Hilfe der Polizei anzurufen,
 so werden Sie Ihren Vater nicht wiedersehen.
 
 > Die Brüder der grünen Maske.
 
-Harst legte: Briefbogen und Umschlag vor sich auf den
-Ei
+Harst legte Briefbogen und Umschlag vor sich auf den
+Tisch.
 
-»Miß Jane, sind bereits ähnliche Erpreffunaöperfuce
+»Miß Jane, sind bereits ähnliche Erpressungsversuche
 unternommen worden?« fragte er.
 
-»Ja. In den lebten drei Jahren hat Da sechs Drohbriefe
-erhalten, stets von den »Brüdern der grünen Maske,«
-Viermal wurde »auf ihn geschossen. Er kam jedoch stets
-Er davon.«
+»Ja. In den letzten drei Jahren hat Pa sechs Drohbriefe
+erhalten, stets von den »Brüdern der grünen Maske.«
+Viermal wurde auf ihn geschossen. Er kam jedoch stets
+unverletzt davon.«
 
-Uhr Vater Sonne also Geld an diese, »Brüder« zahlen,
-andernfalls sie ihn umbringen wollten?
+>>Ihr Vater sollte also Geld an diese »Brüder« zahlen,
+andernfalls sie ihn umbringen wollten?<<
 
-»So ist es, Master Harst. Im lebten halben Jahr hatten
-»die Brüder« sich nicht mehr gemeldet. Da hoffte schon,
-Dr hätten endlich eingesehen, daß er sich nicht einschüchtern
+»So ist es, Master Harst. Im letzten halben Jahr hatten
+»die Brüder« sich nicht mehr gemeldet. Pa hoffte schon,
+sie hätten endlich eingesehen, daß er sich nicht einschüchtern
+ließ.<<
 
-vd glaube hierüber etwas in den Zeitungen gelesen
+>>Ich glaube hierüber etwas in den Zeitungen gelesen
 zu haben —«
 
-»Ganz recht, Master Harst. Die Sensationspresse brüllen
-bei uns greift ja begierig ab solche Vorfälle auf.«
+»Ganz recht, Master Harst. Die Sensationspresse drüben
+bei uns greift ja begierig all solche Vorfälle auf.«
 
 »Was gedenken Sie zu tun, Miß?«
 
 »Ich habe nach Bergen an den amerikanischen Konsul
-telegraphiert und ihn gebeten, mir drei Millionen in Taue
-fendfronenficheinen nach der Haukeli Sennhütte zu schieben.
+telegraphiert und ihn gebeten, mir drei Millionen in
+Tausenkronenscheinen nach der Haukeli-Sennhütte zu schicken.
 <@pagebreak/>
-»Der Konsul kennt uns persönlich. Er depeschierte zurüc,
-daß das Gelb rechtzeitig über Odda eintreffen wo Er
-will es von Odda durch ein Auto senden«
+»Der Konsul kennt uns persönlich. Er depeschierte zurück,
+daß das Geld rechtzeitig über Odda eintreffen würde. Er
+will es von Odda durch ein Auto senden.«
 
 Harald hatte sein Zigarettenetui geöffnet. »Sie gestatten,
 daß ich rauche — Sie waren also zuerst bereit, die
-drei Millionen zu opfern, Miß. Jane, ohne fremde Hilfe in
+drei Millionen zu opfern, Miß Jane, ohne fremde Hilfe in
 Anspruch zu nehmen?«
 
-»a. Dann aber riet uns Professor ‘Lörax, der ebenfalls
-auf der Haukeli-Hütte wohnt, Ahnen den Kai vorzutragen.
+»Ja. Dann aber riet uns Professor Lörax, der ebenfalls
+auf der Haukeli-Hütte wohnt, Ihnen den Fall vorzutragen.
 Er hatte von Touristen erfahren, daß —«
 
 »Danke, Miß. — Wer ist Professor Lörax?«
 
 »Ein Landsmann von uns, Dozent an der Universität
-in Chikago. Stuart Löôrax genießt als Chemiker Weltruf
-Er traf in der Hausherr-Hütte vorgestern abend ein,
-in Begleitung feiner Gattin.«
+in Chikago. Stuart Lörax genießt als Chemiker Weltruf.
+Er traf in der Haukeli-Hütte vorgestern abend ein,
+in Begleitung seiner Gattin.«
 
 »Ah — dann handelt es sich also um den berühmten
-Löôrax, Miß, — berühmt und schrullenhast.«
+Lörax, Miß, — berühmt und schrullenhaft.«
 
-»Er wirkt allerdings ein wenig eiggnartig. Unseren
-Witzblättern bietet er dauernd Stoff,«
+»Er wirkt allerdings ein wenig eigenartig. Unseren
+Witzblättern bietet er dauernd Stoff.«
 
-As An rauchte nachdenklich ein paar Züge. Dann erklärte
+Harald rauchte nachdenklich ein paar Züge. Dann erklärte
 er:
 
 »Sie hätten besser an mich telegraphiert, Miß Jane.
-Ehre Autofahrt ist fraglos beobachte! worden. Sie werden
-sicherlich deshalb von den Doppeltem, die Ahnen von
-Mrs gefolgt sein dürften, einen neuen Drohbrief er
+Ihre Autofahrt ist fraglos beobachtet worden. Sie werden
+sicherlich deshalb von den Erpressern, die Ihnen von
+Amerika gefolgt sein dürften, einen neuen Drohbrief er-
 halten.
 
-Miß Jane schüttelte leicht den Kopf
+Miß Jane schüttelte leicht den Kopf.
 
 »Wir sind vorsichtig gewesen. Niemand ahnt, daß
 wir den Haukeli verlassen haben. Unser Chauffeur fuhr
@@ -249,48 +250,47 @@ hier in Dahlen postlagernde Briefe für uns abholen. Dies
 erzählten wir an der Abendtafel. Um zwei Uhr morgens
 verließen Mary und ich dann die Sennhütte und wanderten
 zu Fuß die Bergstraße entlang, bis wir das Auto trafen.
-Neun wir lebt zurückkehren, werden wir uns in der
-Nähe von Hausherr auf den Boden des Autos setzen, und
-Partner, unser Chauffeur, wird uns mit der Schuzleiu-wand
-bedecken. So fahren wir in den Autoschuppen kippt
-Es kann niemand merken. daß wir Haukeli verlassen
+Wenn wir jetzt zurückkehren, werden wir uns in der
+Nähe von Haukeli auf den Boden des Autos setzen, und
+Palwer, unser Chauffeur, wird uns mit der Schutzleinwand
+bedecken. So fahren wir in den Autoschuppen hinein.
+Es kann niemand merken, daß wir Haukeli verlassen
 hatten.«
 
 <@pagebreak/>
-an« meinte) Harst gedehnt. »Ich befürchte das Gen
-zerteilt — Doch darauf kommt es jetzt nicht mehr zu!
-Co und ich Erden morgen früh in der Sennhütte
+>>Hm!« meinte Harst gedehnt. »Ich befürchte das Gegenteil!
+— Doch darauf kommt es jetzt nicht mehr an!
+Schraut und ich werden morgen früh in der Sennhütte
 eintreffen.«
 
-Mach blonde Mary, die bisher schweigend zugehört hatte,
-ja es!:
+Die blonde Mary, die bisher schweigend zugehört hatte,
+sagte jetzt:
 
-»Nicht wahr, Master Harst, — vielleicht haben wir Da
-dadurch), daß wir Sie aussuchten, nur in Gefahr gebracht!
-
-»Ich habe das Jane gleich vorgehalten, als Professor Lörax
-uns den Rat ab, Sie um Hilfe zu bitten. Es kommt
-doch auf drei Wikinger nicht zu!«
+»Nicht wahr, Master Harst, — vielleicht haben wir Pa
+dadurch, daß wir Sie aufsuchten, nur in Gefahr gebracht!
+Ich habe das Jane gleich vorgehalten, als Professor Lörax
+uns den Rat gab, Sie um Hilfe zu bitten. Es kommt
+doch auf drei Millionen nicht zu!«
 
 Jane, offenbar die ältere, warf der Schwester einen
 unfreundlichen Blick zu.
 
 »Mary vergißt,« meinte sie spitzen Tones, »daß die
 Erpresser, worauf auch Lörax hinwies, die drei Millionen
-holen und doch Da nicht freilassen könnten!«
+holen und doch Pa nicht freilassen könnten!«
 
 Die Blonde wurde rot. Auch ihre Augen verrieten
 wenig Liebe für die Aeltere, als sie scharf erklärte:
 
 »Dann wäre noch immer Zeit gewesen, Master Harst
 zu bemühen! Wer weiß, was jetzt geschieht! Denn auch
-ich fürchte, die Brüder der grünen Maske wissen läuagst,
+ich fürchte, die Brüder der grünen Maske wissen längst,
 daß wir hier sind.«
 
-Es sorgte eine peinliche Pause. Die Schwestern fühlten
+Es folgte eine peinliche Pause. Die Schwestern fühlten
 wohl, daß sie hier vor uns die zwischen ihnen bestehende
 Abneigung allzu offen enthüllt hatten. Beide blicken vor
-sich hin
+sich hin.
 
 Dann fragte Harald ablenkend: »Die Brüder der
 grünen Maske haben im Westen der Vereinigten Staaten,
@@ -307,67 +307,67 @@ begleitete sie noch bis zum Auto.
 »Was halten Sie von dieser Sache, Schraut?« fragte
 Asbörn Prang und blickte ihnen ernst nach. »Man merkt,
 daß es mit dem Frieden in dieser Familie schlecht bestellt
-Mr Die Schwestern — hassen sich, behaupte ich!«
+ist. Die Schwestern — hassen sich, behaupte ich!«
 
-»Scheint so, Prang. — Drei Millionen sind ein Baden
+»Scheint so, Prang. — Drei Millionen sind ein Batzen
 <@pagebreak/>
-Geld. Ach fürchte, wir werden gegen diese Bande nichts
-anbefohlen. Natürlich sind diese »Mageren-Brüder« zu
+Geld. Ich fürchte, wir werden gegen diese Bande nichts
+ausrichten. Natürlich sind diese »Masken-Brüder« zu
 mehreren hier, und die Fahrt der Schwestern dürfte ihnen
-nicht verborgen geblieben fein.‘ —
+nicht verborgen geblieben sein.‘ —
 
 Das Auto fuhr davon. Harald kehrte zurück, ging
 in die Kajüte hinab und kam mit der illustrierten Zeitschrift
-»Christiania-Blutet« wieder an Deck, Deute sich und suchte
-in dem Blatt eine bestimmte Stelle, lud dann vor:
+»Christiania-Bladet« wieder an Deck, setzte sich und suchte
+in dem Blatt eine bestimmte Stelle, las dann vor:
 
-»Master Sohn Colding ist der reichste Mann Amerikas.
+»Master John Colding ist der reichste Mann Amerikas.
 Unsere Bilder zeigen ihn mit seinen beiden Töchtern Jane
-und Mary an Dr der im Hafen ankernden Vl «Kolumbus»,
-im Auto und beim Zennisfpiel. Master Golding ist
+und Mary an Deck der im Hafen ankernden Jacht «Kolumbus»,
+im Auto und beim Tennisspiel. Master Golding ist
 seit acht Jahren Witwer. Die ältere Tochter Jane, verlobt
-mit dem Herzog von Bergfex, gehört im Dollarlande mit zu
-den eifrigsten $rrauenrechtleriunen — Mary Colding
+mit dem Herzog von Bressex, gehört im Dollarlande mit zu
+den eifrigsten Frauenrechtlerinnen. — Mary Colding
 machte vor einem Jahr viel von sich reden, als sie ihren
-Vater durch einen Prozeß zwingen wollte, einer Heirat mich!
-einem Unterbeamten der St. Louis-Sag Franzisco-Eisenbahn
+Vater durch einen Prozeß zwingen wollte, einer Heirat mit
+einem Unterbeamten der St. Louis-San Franzisco-Eisenbahn
 seine Zustimmung und Miß Mary eine entsprechende
-See nebst Untergeht zu geben. Dieser Ligbesroman
-der Milliardärstochter endete sehr prosaisch: sie ja ein, das
+Aussteuer nebst Nadelgeld zu geben. Dieser Liebesroman
+der Milliardärstochter endete sehr prosaisch: sie sah ein, das
 der Unterbeamte Austin Parkner doch wohl nicht der rechte
 Gatte für sie sei, und verzichtete auf die Weiterführung des
-übrigen für sie aussichtslosen Prozesses.«
+im übrigen für sie aussichtslosen Prozesses.«
 
 Harald klappte das Heft zu.
 
 »Nun wissen wir auch, weshalb die Schwestern sich
-nicht lieben,« meinte er, »Dieser Prozeß hat damals viel
-Staub aufgewirbelt. Miß Jane, ungeübt Frauenrechtle-cin,
-soll alles in allem eine Égoistin von echt amerikanischer
-Sroßzügiakeit sein und gegen die romantische blonde Mary
-utrigiert haben, um zu erreichen, daß Colding Mary entdecke.
-ch habe für derartiges ein gutes Gedächtnis.«
+nicht lieben,« meinte er. »Dieser Prozeß hat damals viel
+Staub aufgewirbelt. Miß Jane, angeblich Frauenrechtlerin,
+soll alles in allem eine Egoistin von echt amerikanischer
+Großzügigkeit sein und gegen die romantische blonde Mary
+intrigiert haben, um zu erreichen, daß Colding Mary enterbe.
+Ich habe für derartiges ein gutes Gedächtnis.«
 
-»Allerdings,« lächelte Asbörn Prang. »Ein fabel-baftes
-Gedächtnis! Zopf besinne Oh mich ebenfalls auf
-diese Standalaeiichten. — Wollen Sie mich mit nach Haukeli
-nehmen, Harsts«
+»Allerdings,« lächelte Asbörn Prang. »Ein fabelhaftes
+Gedächtnis! Jetzt besinne ich mich ebenfalls auf
+diese Skandalgeschichten. — Wollen Sie mich mit nach Haukeli
+nehmen, Harst?«
 
-»Nein, lieber Prang. Ich will — Sie vorausschicen.
-ir wollten in folgender Weise die Rollen verteilen. Sie,
-Prang, reisen heute Maitag zum Schein na Eklen und
-nenn’ Dampfer ab, steigen aber schlau drüben am Kühn her
+»Nein, lieber Prang. Ich will — Sie vorausschicken.
+Wir wollten in folgender Weise die Rollen verteilen. Sie,
+Prang, reisen heute mittag zum Schein nach Osten mit
+dem Dampfer ab, steigen aber schon drüben am Südufer
 <@pagebreak/>
-ten, ohne uns zu beachten, einen der ziweiräderinen Waren
+wieder aus, verkleiden sich und kehren hierher zurück, mieten,
+ohne uns zu beachten, einen der zweiräderigen Wagen
 und fahren als harmloser Tourist nach Haukeli. Schraut
 und ich aber nehmen abends ein Auto und werden so kurz
-vor Mitternacht. unweit Haukeli eintreffen, fehlten das
+vor Mitternacht unweit Haukeli eintreffen, schicken das
 Auto zurück und beziehen Nachtquartier bei Mutter Grün.
-Wie und wo wir |Sie dann sprechen, bleibt dem Zufall
-Überlassen. Beobachten Sie jedenfalls die Gäste lau der
-wieder aus, ému brav sich und fehlen hierher zurück, mie-Sennhütte
-aufs genaueste. Ich bin überzeugt, daß sich
-ein »Masten-Bruder« darunter befindet.«
+Wie und wo wir Sie dann sprechen, bleibt dem Zufall
+Überlassen. Beobachten Sie jedenfalls die Gäste in der
+Sennhütte aufs genaueste. Ich bin überzeugt, daß sich
+ein »Masken-Bruder« darunter befindet.«
 
 <h2>2. Kapitel.</h2>
 <h3>Der grobe Lörax.</h3>
