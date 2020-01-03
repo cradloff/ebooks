@@ -22,7 +22,7 @@ Wir wußten aber, daß Orstra das Haupt einer weitverzweigten
 Verbrechergesellschaft war und daß wir jeden
 Tag, jede Stunde damit rechnen mußten, recht gefährliche
 Beweise der erfindungsreichen Rachgier dieses vielseitig gebildeten
-und dabei äußerst verwegenen Menschen zu erhalten. --
+und dabei äußerst verwegenen Menschen zu erhalten. —
 
 Vier Tage nach dem Brande des Hotels Dahlen (vergl.
 Nr. 76 »Lord Plemborns Verbrechen«) saßen wir beide
@@ -73,9 +73,9 @@ leise und lauschte dem Geräusch des Autos.
 
 »Ich denke, daß Vergnügungsreisende nicht so rasen
 würden, Das Auto hat mindestens siebzig Kilometer
-Geschwindigkeit.<<
+Geschwindigkeit.«
 
-»Also vermutest Du, daß wirklich jemand zu Dir will,<<
+»Also vermutest Du, daß wirklich jemand zu Dir will,«
 sagte ich und stand auf, trat an die Reling und blickte nach
 der Dampferanlegestelle hinüber, wo die Dorfstraße endete.
 
@@ -97,8 +97,7 @@ Auch Harald und Prang waren ausgestanden.
 Es müssen Schwestern sein. Amerikanerinnen,
 taxiere ich.«
 
-Harst ging bis an die Laufplanke, die zum Ufer hin-
-überführte.
+Harst ging bis an die Laufplanke, die zum Ufer hinüberführte.
 
 Die dunkelhaarige der Damen war ein paar Schritt
 voraus, grüßte und fragte auf englisch:
@@ -133,11 +132,11 @@ verschwunden,«
 
 »Sie wohnten in der Haukeli-Hütte, Miß Colding?«
 
->>Ja, seit vier Tagen. Wir hatten dort Station gemacht.
-Pa gefiel es dort.<<
+»Ja, seit vier Tagen. Wir hatten dort Station gemacht.
+Pa gefiel es dort.«
 
->>Und am Tage nach Ihrer Ankunft verschwand Ihr
-Vater?<<
+»Und am Tage nach Ihrer Ankunft verschwand Ihr
+Vater?«
 
 »Er war morgens gegen acht Uhr zu einem längeren
 Spaziergang aufgebrochen, hatte sich Proviant mitgenommen
@@ -186,15 +185,15 @@ erhalten, stets von den »Brüdern der grünen Maske.«
 Viermal wurde auf ihn geschossen. Er kam jedoch stets
 unverletzt davon.«
 
->>Ihr Vater sollte also Geld an diese »Brüder« zahlen,
-andernfalls sie ihn umbringen wollten?<<
+»Ihr Vater sollte also Geld an diese »Brüder« zahlen,
+andernfalls sie ihn umbringen wollten?«
 
 »So ist es, Master Harst. Im letzten halben Jahr hatten
 »die Brüder« sich nicht mehr gemeldet. Pa hoffte schon,
 sie hätten endlich eingesehen, daß er sich nicht einschüchtern
-ließ.<<
+ließ.«
 
->>Ich glaube hierüber etwas in den Zeitungen gelesen
+»Ich glaube hierüber etwas in den Zeitungen gelesen
 zu haben —«
 
 »Ganz recht, Master Harst. Die Sensationspresse drüben
@@ -238,8 +237,7 @@ er:
 »Sie hätten besser an mich telegraphiert, Miß Jane.
 Ihre Autofahrt ist fraglos beobachtet worden. Sie werden
 sicherlich deshalb von den Erpressern, die Ihnen von
-Amerika gefolgt sein dürften, einen neuen Drohbrief er-
-halten.
+Amerika gefolgt sein dürften, einen neuen Drohbrief erhalten.
 
 Miß Jane schüttelte leicht den Kopf.
 
@@ -258,7 +256,7 @@ Es kann niemand merken, daß wir Haukeli verlassen
 hatten.«
 
 <@pagebreak/>
->>Hm!« meinte Harst gedehnt. »Ich befürchte das Gegenteil!
+»Hm!« meinte Harst gedehnt. »Ich befürchte das Gegenteil!
 — Doch darauf kommt es jetzt nicht mehr an!
 Schraut und ich werden morgen früh in der Sennhütte
 eintreffen.«
@@ -323,7 +321,7 @@ in dem Blatt eine bestimmte Stelle, las dann vor:
 
 »Master John Colding ist der reichste Mann Amerikas.
 Unsere Bilder zeigen ihn mit seinen beiden Töchtern Jane
-und Mary an Deck der im Hafen ankernden Jacht «Kolumbus»,
+und Mary an Deck der im Hafen ankernden Jacht »Kolumbus«,
 im Auto und beim Tennisspiel. Master Golding ist
 seit acht Jahren Witwer. Die ältere Tochter Jane, verlobt
 mit dem Herzog von Bressex, gehört im Dollarlande mit zu
@@ -373,33 +371,33 @@ ein »Masken-Bruder« darunter befindet.«
 <h3>Der grobe Lörax.</h3>
 
 Mittags verließ uns Prang. Wir gaben ihm bis zum
-Dampfer das Geleert. Sann blieben wir zu Bord der
+Dampfer das Geleit. Dann blieben wir an Bord der
 Miramare, bis das Mietauto vorfuhr, das uns nach Haukeli
-bringen falte. Wir nahmen nur einen kleinen Koffer
-und zwei Rucksäckest mit, außerdem vier wollene Decken und
+bringen sollte. Wir nahmen nur einen kleinen Koffer
+und zwei Rucksäcke mit, außerdem vier wollene Decken und
 einen Spirituskocher für Hartspiritus. —
 
 Der Mond stand als runde Scheibe am sternenklaren
 Himmel. Vielfache Echos warfen das Knattern des Motors
-zwischen den! Felswänden verstärkt zurück…. Harsts
+zwischen den Bergwänden verstärkt zurück. Harsts
 stete Wachsamkeit machte mich nervös.
 
-So vergingen drei Stunden. Daumen höher war der
-Kraftwagen auf den Serpentinemwenen geklettert; immer
-kälter wurde ed. In Dahlen hatten wir noch gegen u.
-21 Grad Wärme gehabt; hier waren’s kaum sechs.
-konnte die Unsicheren brauchen.
+So vergingen drei Stunden. Immer höher war der
+Kraftwagen auf den Serpentinenwegen geklettert; immer
+kälter wurde es. In Dahlen hatten wir noch gegen Abend
+21 Grad Wärme gehabt; hier waren’s kaum sechs. Man
+konnte die Wolldecken brauchen.
 
 Der Chauffeur wandte sich um.
 
-»Noch vier Kilometer, Herr!« rief er Harald zu. ist
-dem er den Wagen langsamer laufen ließ. »Hier zweigt
-kolossalen e eine Seitenstraße ab. Die Haukeli- Hochebene ist nahe.«
+»Noch vier Kilometer, Herr!« rief er Harald zu, indem
+er den Wagen langsamer laufen ließ. »Hier zweigt
+sofort eine Seitenstraße ab. Die Haukeli-Hochebene ist nahe.«
 
-»Abbiegen!« befahl Darf.
+»Abbiegen!« befahl Harst.
 
-So demselben Moment tauchten im Lichte der Scheinwerfer
-zwei Männer auf. Der eine war Asbörn Prang:
+In demselben Moment tauchten im Lichte der Scheinwerfer
+zwei Männer auf. Der eine war Asbörn Prang;
 der andere Professor Lörax.
 
 Prang stellte uns dem dicken Gelehrten, dessen graue
@@ -407,73 +405,73 @@ Prang stellte uns dem dicken Gelehrten, dessen graue
 Künstlermähne und grauer Vollbart an einen Musiker erinnerten,
 kurz vor und erklärte hastig:
 
-»Wir haben für Sie beide schon Quartier besorgt. Harst.
-Dicken Sie das Auto zurück.«
+»Wir haben für Sie beide schon Quartier besorgt, Harst.
+Schicken Sie das Auto zurück.«
 
 Wir stiegen aus. Das Auto wendete und fuhr davon.
 
 Lörax hatte nicht einmal an den Hut gefaßt, als wir
-höflich die Mühen lüfteten. Er ist ja wegen feiner Unhöflichkeit
+höflich die Mützen lüfteten. Er ist ja wegen seiner Unhöflichkeit
 berüchtigt.
 
-Prang nahm unseren Koffer und ging voran
+Prang nahm unseren Koffer und ging voran.
 
 Lörax stampfte zwischen Harst und mir schnaufend her.
 
-ir etwas neues passiert, Herr Pirschten?« fragte
+»Ist etwas neues passiert, Herr Professor?« fragte
 Harald.
 
-»Würde ich sonst nacht? hier herumrennen! Natürlich
+»Würde ich sonst nachts hier herumrennen! Natürlich
 ist was passiert! Jane Colding hat abends um acht Uhr
 einen Brief in ihrem Zimmer gefunden — einen neuen
-Drohbrief. aus den hervorgeht daß die Banditen wissen,
-wer hier eintrifft. Ich habe den Brief mit«
+Drohbrief, aus den hervorgeht daß die Banditen wissen,
+wer hier eintrifft. Ich habe den Brief mit.«
 
-Die Bergstraße mündete jetzt auf Die Hauptort-Her«
-ebene. Prang schritt nach rechts hinüber. Naß einer
-es hatten wir eine feine, leere Steinhütte erreicht.
+Die Bergstraße mündete jetzt auf die Haukeli-Hochebene.
+Prang schritt nach rechts hinüber. Nach einer
+Viertelstunde hatten wir eine kleine, leere Steinhütte erreicht.
 
 Prang zog 3 dicke Kerzen aus der Tasche, zündete sie an
-und stellte sie auf den acstampíten Lehmboden.
+und stellte sie auf den gestampften Lehmboden.
 
-»Hier sind Sie sicher. Harst.« meinte er. »Bis zur
+»Hier sind Sie sicher, Harst,« meinte er. »Bis zur
 Sennhütte sind es nur zehn Minuten.«
 
-Wir breiteten die Da aus und agp uns na
-Längs reichte Harst den neuen Brav«
-riet, 1a zu:
+Wir breiteten die Decken aus und setzten uns nach
+Türkenart nieder. Lörax reichte Harst den neuen Drohbrief,
+sagte dazu:
 
 »Es ist eine ganz andere Handschrift wie der erste
 Brief, den der Hund brachte.«
 
 Harald las leise vor:
 
-> »Falls Sie Harst nicht verbieten sich einzumischen.
-wird Ihr Vater den 25. nicht erleben. Es war [sehr
-leichtsinnig von Ihnen. nach Dahlen zu fahren, noch leicht
-sinniger, Harst den ersten Brief zu überlassen. Sie werden
+> »Falls Sie Harst nicht verbieten sich einzumischen,
+wird Ihr Vater den 25. nicht erleben. Es war sehr
+leichtsinnig von Ihnen, nach Dahlen zu fahren, noch leichtsinniger,
+Harst den ersten Brief zu überlassen. Sie werden
 ihm diesen Brief wieder abfordern und ihn zusammen
 mit dem Gelde auf dem Haukeli-Kegel niederlegen.
-Sollten wir etwas von Verrat merken, trifft Sie die:
-Schuld für die Zwangsmaßnahmen. die wir anwenden
-müssen. Die Brüder der grünen Maske.«
+Sollten wir etwas von Verrat merken, trifft Sie die
+Schuld für die Zwangsmaßnahmen, die wir anwenden
+müssen.   Die Brüder der grünen Maske.«
 
 <@pagebreak/>
-Was bestimmt Miß Strande Harald dann.
+»Was bestimmt Miß Jane?« fragte Harald dann.
 
-Roter fluchte. »Sie bat Angst bekommen und wünscht,
+Lörax fluchte. »Sie hat Angst bekommen und wünscht,
 daß Sie morgen zurückkehren — am Tage, damit die Bande
-Nett, daß Sie sich nicht einmengen wollen.«
+sieht, daß Sie sich nicht einmengen wollen.«
 
 Und Prang meinte kleinlaut:
 
 »Es war nichts anderes bei den Damen zu erreichen,
 besonders da Miß Mary ja von vornherein nicht gewünscht
-hatte, daß Sie um Hilfe gebeten Eden, Harst. — Wie
+hatte, daß Sie um Hilfe gebeten würden, Harst. — Wie
 denken Sie selbst über die Sachlage?«
 
 »Ich denke, daß ich mich niemandem aufdränge. Wir
-werden morgen also mit der Autopoft nach Dahlen zurük-tahren.
+werden morgen also mit der Autopost nach Dahlen zurückfahren.
 Dabei bleibt es.«
 
 Lörax kaute an einer Zigarre und brummte:
@@ -481,32 +479,32 @@ Lörax kaute an einer Zigarre und brummte:
 »Vielleicht ist’s am besten so! Sonst wird Colding
 möglicherweise von den Schurken umgebracht.«
 
-Harald begann. zu gähnen und: sagte aleihmiltia zu
+Harald begann zu gähnen und sagte gleichmütig zu
 Prang und Lörax:
 
 »Wir wollen Sie dann nicht länger Ihrer Nachtruhe
 berauben. Auch wir sind müde. — Prang, haben Sie in
-der Haukeli-Hütte oder in den beiden Unterkunstshäusern
+der Haukeli-Hütte oder in den beiden Unterkunftshäusern
 verdächtige Gäste feststellen können?«
 
 »Es sind nur acht Gäste da. Meiner Ansicht nach ganz
 harmlose Leute,« erwiderte der Detektiv schlecht gelaunt.
 »Mir gefällt es übrigens gar nicht, daß Sie die Sache hier
-ausgeben, Harst!«
+aufgeben, Harst!«
 
-kann gen A Coldings Leben er lieber
-rann asfeneWVxriider nicht y spaßen!
-da ie ha oh für hold So beben lin, und
-man nicht einen der Täter fallen können.«
+»Ich kann doch nicht Coldings Leben gefährden, lieber
+Prang! Mit den Masken-Brüdern ist nicht zu spaßen!
+In Amerika haben sie ein Dutzend Morde verübt, und
+doch hat man nicht einen der Täter fassen können.«
 
-As stimmt!« nickte der Professor. »Unsere Polizei
-ist für die Kay’!«
+»Das stimmt!« nickte der Professor. »Unsere Polizei
+ist für die Katz’!«
 
-Prang erhob sich. »Dann kehre auch Ich nach Dahlen
-Vorn Dr erklärte er. »Gute Nacht!« Er gab uns
+Prang erhob sich. »Dann kehre auch ich nach Dahlen
+morgen zurück,« erklärte er. »Gute Nacht!« Er gab uns
 die Hand.
 
-Auch Lörax krahbbelte schwerfällig hoch. Er brummte
+Auch Lörax krabbelte schwerfällig hoch. Er brummte
 irgend etwas, das ein Gute Nacht-Gruß sein konnte, und
 folgte Prang.
 
@@ -516,24 +514,24 @@ leiser wurde.
 Dann faßte Harst unter die Wolldecke und holte den
 <@pagebreak/>
 zweiten Drohbrief hervor, den er sehr geschickt dort hatte
-verschwinden lassen, nahm den anderen Brief aus der Boys
-Tasche und sagte:
+verschwinden lassen, nahm den anderen Brief aus der Brusttasche
+und sagte:
 
-»Brühe uns Tee auf, mein Alter. Ich habe Hunger.
+»Brühe uns Tee auf, mein Alter. Ich habe Hunger.«
 
-Er legte sich lang auf den Bauch und verglich die beladen
-Brite. Dann flüsterte Harald plötzlich:
+Er legte sich lang auf den Bauch und verglich die beiden
+Briefe. Dann flüsterte Harald plötzlich:
 
 »Achtung —!«<br/>
 und fügte laut hinzu:
 
 »Der Grobian von Professor hat den Brief hier
-lassen, nein, beide Briefe! Ich werde ihm nachlaufen. Er
+gelassen, nein, beide Briefe! Ich werde ihm nachlaufen. Er
 und Prang können noch nicht weit sein!«
 
 Er eilte hinaus. Die Steinhütte hatte weder Tür noch
-Fenster, um zwei Maueröffnungen. Es war wohl eine
-frühere Schäserhütte.
+Fenster, nur zwei Maueröffnungen. Es war wohl eine
+frühere Schäferhütte.
 
 Ich stellte die Aluminiumbecher auf die Erde und die
 Eßwaren daneben. Aber — meine Gedanken waren draußen,
@@ -546,92 +544,92 @@ Befand sich wirklich ein Lauscher in der Nähe?!
 Und — wenn es so war, dann konnte es nur einer der
 Masken-Brüder sein!
 
-Ich Ran: ich fühlte mich nur nicht behaglich! Die
+Ich gebe zu: ich fühlte mich gar nicht behaglich! Die
 Fensteröffnung lag kaum anderthalb Meter über dem Boden,
 und auch durch das Türloch konnte man mir bequem
-einen Stein an den Kopf werfen, konnte mich so gerauscht
+einen Stein an den Kopf werfen, konnte mich so geräuschlos
+stumm machen!
 
-Schar froh, als Leitung Harsts Stimme vergaß
+Ich war froh, als ich dann Harsts Stimme vernahm:
 
-»Hals | crlediáil Ad habe pro Sitzes
-Holt:
+»Hallo! erledigt! Ich habe die beiden noch eingeholt!«
 
-Er trat ein und lebte sich.
+Er trat ein und setzte sich.
 
 »Her mit dem Tee!« meinte er. »Schade, daß das
-Zeug so heiß ist. Man kann sich nur zu, leicht den Mund
+Zeug so heiß ist. Man kann sich nur zu leicht den Mund
 verbrennen!«
 
-Die beiden lebten Worte wurden unmerklich betont.
+Die beiden letzten Worte wurden unmerklich betont.
 
-van verstand: Ach sollte mit Aeußerungen vorsichtig
-fein! 8 war also doch ein Lauscher draußen!
+Ich verstand: Ich sollte mit Aeußerungen vorsichtig
+sein! Es war also doch ein Lauscher draußen!
 
 Wir begannen zu essen.
 
-»Eigentlich ein Unsinn, daß wir hier foungemütlic
-nächtigen,« sagte Tatort nach einer Weile. »Weshalb sollen
+»Eigentlich ein Unsinn, daß wir hier so ungemütlich
+nächtigen,« sagte Harald nach einer Weile. »Weshalb sollen
 <@pagebreak/>
-wir nicht in der Haukeli-Hütte In einem anständigen
-Bett schlafen, wo wir doch als Gegner der Masten-Brüder
-ausaeichieden sind!«
+wir nicht in der Haukeli-Hütte in einem anständigen
+Bett schlafen, wo wir doch als Gegner der Masken-Brüder
+ausgeschieden sind!«
 
 »Du hast ganz recht!« erklärte ich.
 
-»Ja, Prang hatte uns ruhig bis zur Haukeli-Hütte fahren
+»Ja, Prang hätte uns ruhig bis zur Haukeli-Hütte fahren
 lassen sollen —«
 
 »Er glaubte wohl, Du würdest Dich anders entscheiden.«
 
-»Anders?! Sollen wir gegen den Willen der Colding-schen
+»Anders?! Sollen wir gegen den Willen der Coldingschen
 Damen etwas unternehmen?! Nein — *die* Verantwortung
-wäre ja groß!«
+wäre zu groß!«
 
 »Allerdings!«
 
-»Wenn wir jetzt Im Handelt ein Zimmer haben wollen.
+»Wenn wir jetzt im Haukeli ein Zimmer haben wollen,
 wird es wohl eine Stunde dauern, bis wir die Bedienung
 herausgetrommelt haben. Schließlich — man kann
-Baum hier falsch behaglich machen! Deren haben wir ja.
-— Ledernen — jung den zweiten Drohbrief betrifft — er
-pmr von Euer Frau geschrieben und Mut einer lila Tinte,
-die die Briefschreiberin sich selbst hergestellt hat —
+auch hier es sich behaglich machen! Decken haben wir ja.
+— Uebrigens — was den zweiten Drohbrief betrifft — er
+war von einer Frau geschrieben und mit einer lila Tinte,
+die die Briefschreiberin sich selbst hergestellt hat —«
 
 Meine Aufmerksamkeit für Harsts Worte, die jedoch
-nur für den Lauscher beredmet Ware. blieb anfing.
+nur für den Lauscher berechnet waren, blieb gering.
 
-»Lila Tinte — »ans einem Kopierstifst und Wasser zubereitet,«
-fuhr er fort. »Da! — ob nicht Mary Coldinga
-vielleicht Dielen Brief geschrieben hat?«
+»Lila Tinte — aus einem Kopierstift und Wasser zubereitet,«
+fuhr er fort. »Da! — ob nicht Mary Colding
+vielleicht diesen Brief geschrieben hat?«
 
-Da cm ach Interessenlosigkeit,
+Da schwand meine Interessenlosigkeit.
 
-Du schaust mich so überrascht an, mein Alter! Bei
-denke aber, das, die blonde Mary fiele gegen unsere Mitwirkung
-war! Kaum sie da nickt aus Angst um den Vater
+Du schaust mich so überrascht an, mein Alter! Bedenke
+aber, daß die blonde Mary stets gegen unsere Mitwirkung
+war! Kann sie da nicht aus Angst um den Vater
 den Brief der Aelteren ins Zimmer gelegt haben? Wer
-tat dies, wenn Male nicht in Betracht käme?! Unter den
-Gästen ist. rein Verdächtiger, und in die Baulichkeiten des
+tat dies, wenn Mary nicht in Betracht käme?! Unter den
+Gästen ist kein Verdächtiger, und in die Baulichkeiten des
 Haukeli kann ein Fremder sich unbemerkt nicht einschleichen!
-Außerdem: vor Mary konnte wissen, daß ich den ersten
-Drohbrief behalten halte!«
+Außerdem: nur Mary konnte wissen, daß ich den ersten
+Drohbrief behalten hatte!«
 
-»Hm. nicht ganz von der Hand zu weisen,« meinte ich.
+»Hm, nicht ganz von der Hand zu weisen,« meinte ich.
 
-»Ja, — und wenn Magen nun wirklich diesen zweiten
-Drohbrief fabriziert hat, dann - - dann brauchten wir gar
-nicht auf eine wettere Arbeit hier a verrichten! Dann könnten
-wir hier bleiben und Dir Wassern Bildern einen bieten
-Strich durch Die Ursprung machen!«
+»Ja, — und wenn Mary nun wirklich diesen zweiten
+Drohbrief fabriziert hat, dann - dann brauchten wir gar
+nicht auf eine weitere Arbeit hier zu verzichten! Dann könnten
+wir hier bleiben und den Masken-Brüdern einen dicken
+Strich durch die Rechnung machen!«
 
 <@pagebreak/>
 »Das stimmt! Aber — wie willst Du feststellen, ob
-Yard Colding ist diesen »Scherz« geleistet hat?«
+Mary Colding sich diesen »Scherz« geleistet hat?«
 
-brauche nur Jane zu bitten, mir eine Schriftprobe
-ihrer« »jüngeren Schwester zu verschaffen. Und — das
-werde ich morgens tun. denn Mary ist zu ungeübt, ihre
-Handschrift so zu verstellen, daß ich me Verhangen herausfinden
+»Ich brauche nur Jane zu bitten, mir eine Schriftprobe
+ihrer jüngeren Schwester zu verschaffen. Und — das
+werde ich morgens tun, denn Mary ist zu ungeübt, ihre
+Handschrift so zu verstellen, daß ich nicht Aehnlichkeiten herausfinden
 sollte!«
 
 »Das läßt sich hören!«
@@ -639,21 +637,21 @@ sollte!«
 »Schade! Wenn mir dies alles schon vorher eingefallen
 wäre, als noch Prang und der Professor hier waren,
 dann hätte ich Lörax bitten können, Jane zu ersuchen,
-Symptom irgend etwas Schriftliches von Marys stand zu geben »
+ihm irgend etwas Schriftliches von Marys Hand zu geben.«
 
-»erreiche — dazu ist’s jetzt zu fpä
+»Freilich — dazu ist’s jetzt zu spät —«
 
-ch bin satt. — Nun die Nachtlager? Die
-Htucfäde werden als Kopfkissen genügen —«
+»So. Ich bin satt. — Nun die Nachtlager! Die
+Rucksäcke werden als Kopfkissen genügen —«
 
 Fünf Minuten drauf lagen wir nebeneinander in der
-»dunklen Hütte — ganz dicht nebeneinander, der Türöff-numa
+dunklen Hütte — ganz dicht nebeneinander, der Türöffnung
 schräg gegenüber. Zwei Decken hatten wir als
-antraten benutzt, die beiden anderen über und gebreitet.
+Matratzen benutzt, die beiden anderen über uns gebreitet.
 
-Als ich die Kerzen ausgelöscht und mich - ausgeflickt
+Als ich die Kerzen ausgelöscht und mich ausgestreckt
 hatte als nur noch Haralds glimmende Zigarette wie ein
-Glühwürmchen leuchtete, da hörte ich ein leises Araber.
+Glühwürmchen leuchtete, da hörte ich ein leises Knacken.
 
 Ich kannte es.
 
@@ -666,41 +664,41 @@ Sicherungsflügels gewesen.
 <h2>3. Kapitel.</h2>
 <h3>Die grüne Maske.</h3>
 
-Halb rechts ran die Türöffnung. Schaute man hinaus,
-so sah man die helle Haukeli-Hochebene, he! vom
-Nord- und Sternenfcrin.
+Halb rechts lag die Türöffnung. Schaute man hinaus,
+so sah man die helle Haukeli-Hochebene, hell vom
+Mond- und Sternenschein.
 
-Und jenseits- des weiten Plateaus in den Raudbergen
-Iberal Zweite Tupfen: Schucekfelder! Berg auf der Ebene
-Den noch hie und da grau verdankte verhalten sichtbar.
+Und jenseits des weiten Plateaus in den Randbergen
+überall weiße Tupfen: Schneefelder! Sogar auf der Ebene
+waren noch hie und da grau bestaubte Schneehalden sichtbar.
 —
 
 <@pagebreak/>
-Ich wartete, daß Harald mir nun flüsternd Ausschlu
+Ich wartete, daß Harald mir nun flüsternd Ausschluß
 über den Lauscher geben würde.
 
-Er rauchte und schwieg
+Er rauchte und schwieg.
 
-»Ist er noch daß« fragte ich schließlich ganz leise,
+»Ist er noch da?« fragte ich schließlich ganz leise.
 
-»Er es gar nicht da. Sie. war da!«
+»Er war gar nicht da. *Sie* war da!«
 
-Wer?«
+»Wer?«
 
 »Das weiß ich nicht. Jedenfalls ein Weib.«
 
-»Wie hast Du dies bemerkt 7»
+»Wie hast Du dies bemerkt?«
 
 »Gesehen habe ich sie.«
 
 »Durch die Tür?«
 
-»Nein — durch Die Löcher in der Wand. Die Steine
+»Nein — durch die Löcher in der Wand. Die Steine
 sind nur durch Lehm verbunden. An einer Stelle gibt es
 da in der Seitenwand ein faustgroßes Loch, etwa vierzig
-Zentimeter über dem Boden. Ach saß so, daß ich hinaus-schauen
+Zentimeter über dem Boden. Ich saß so, daß ich hinausschauen
 konnte. Und so erspähte ich die Schnürstiefel und
-eben Rodfaum eines Weibes, das lautlos an die Hütte her-anfchlich
+den Rocksaum eines Weibes, das lautlos an die Hütte heranschlich.«
 
 »Ob es Mary Colding war?«
 
@@ -708,46 +706,46 @@ eben Rodfaum eines Weibes, das lautlos an die Hütte her-anfchlich
 
 »Jane etwa? — So rede doch!«
 
-»Bitte — ich rede ja in einem dort!« — Er nahm eine
+»Bitte — ich rede ja in einem fort!« — Er nahm eine
 neue Mirakulum und zündete sie am Stummel der anderen
 an, fügte hinzu: »Jane war’s schon gar nicht, lieber
 Alter. Wenn Professor Lörax nach einer halben Stunde
-hier Der erscheint, stimmt meine Theorie.«
+hier wieder erscheint, stimmt meine Theorie.«
 
 »Welche?«
 
 »Ich möchte Dir mal folgendes aus den amerikanischen
-Kriminalaften über Erpressergesellschasten erzählen. — In
+Kriminalakten über Erpressergesellschaften erzählen. — In
 Neuyork hatte sich 1902 eine derartige Gesellschaft überaus
 eifrig betätigt und gegen fünf Millionen in kurzer Zeit
-»verdient«. Als man die Bande schließlich absaßte, stellte
+»verdient«. Als man die Bande schließlich abfaßte, stellte
 sich heraus, daß ihr Oberhaupt einer der angesehensten
-Aerzte Neuyorks war, der feine Kenmtis intimer Komikers
-Verhältnisse dazu benutzt hatte, neu Erpresserbriefen auch allerlei
-Tatsachen einzulösen, die den Opfern höchst peinlich
-fein mußten.«
+Aerzte Neuyorks war, der seine Kenntnis intimer Familienverhältnisse
+dazu benutzt hatte, neu Erpresserbriefen auch allerlei
+Tatsachen einzufügen, die den Opfern höchst peinlich
+sein mußten.«
 
-Ich überlegte. Was sollte diese Geschichte« Weshalb
-erwähnte Harald sie lebt gerade?! — Dann die Erleuchtung
+Ich überlegte. Was sollte diese Geschichte? Weshalb
+erwähnte Harald sie jetzt gerade?! — Dann die Erleuchtung
 — blitzartig —!
 
 »Du argwöhnst, daß der dicke Lörax, die berühmte
 <@pagebreak/>
-Witbblattsiaur, vielleicht ebenfalls in ähnlicher Weise den
-Seen der grünen Maske unbeliebt?« fragte ich gespannt.
+Witzblattfigur, vielleicht ebenfalls in ähnlicher Weise den
+Brüdern der grünen Maske nahesteht?« fragte ich gespannt.
 
-»so. Das vermute ich!«
+»Ja. Das vermute ich!«
 
 »Weshalb? Was hat Deinen Verdacht erregt?«
 
-»Ob, ich war ganz arglos, bis Löôrax hier »gleichfalls
-dafür war, ie sollten nach Dahlen zurück ehren.«
+»Oh, ich war ganz arglos, bis Lörax hier gleichfalls
+dafür war, wir sollten nach Dahlen zurückkehren.«
 
 Ich dachte scharf nach.
 
-»Gestatte eine Da flüsterte ich dann. »Lörax
+»Gestatte eine Einwendung,« flüsterte ich dann. »Lörax
 war es doch, der den Schwestern riet, sie sollten Dich
-um van bitten.«
+um Hilfe bitten.«
 
 »Gewiß. Das tat er, weil er dann als Vertrauter der
 Schwestern in der Lage war, unsere Schritte zu überwachen.
@@ -755,72 +753,72 @@ Er mag so kalkuliert haben: es wird in Dahlen doch in
 kurzem bekannt, daß Colding entführt worden ist. Harst ist
 in Dahlen und kommt dann vielleicht von selbst in einer
 Verkleidung her und kann Dir dann lästig werden. Wenn
-Du aber die Schwestern hinschikst und ihn herbitten läßt,
-kannst Du es gern so einrichten, daß er wieder das Feld
-räumen muß. — So mag er sich’s Megas haben. Und
+Du aber die Schwestern hinschickst und ihn herbitten läßt,
+kannst Du es schon so einrichten, daß er wieder das Feld
+räumen muß. — So mag er sich’s zurechtgelegt haben. Und
 — deshalb kann er es gewesen sein, der Mary Colding
-riet. den zweiten Drohbrief zu schreiben und ihn Jane ins
+riet, den zweiten Drohbrief zu schreiben und ihn Jane ins
 Zimmer zu legen, wobei er so getan haben wird, als ob
-er sich mir zu Marys Ansicht bekehrt hätte, uns beide *nicht*
-bin zu ziehen.«
+er sich nun zu Marys Ansicht bekehrt hätte, uns beide *nicht*
+hinzu zu ziehen.«
 
 »Hm — das leuchtet zwar ein, ist mir aber zu kompliziert.«
 
 »Warte ab. Wenn Lörax jetzt hier sich wieder einstellt
-und irgendwie uns zu beweisen sucht, daß der zweite Erobert
+und irgendwie uns zu beweisen sucht, daß der zweite Drohbrief
 nicht etwa eine Fälschung ist, dann —«
 
 »Gestatte! Wie soll Lörax wissen, daß Du den Brief
-Fabrikat ansiehst?«
+für Marys Fabrikat ansiehst?«
 
-Die Frau wird’s ihm sagen, die uns belauscht hat!«
+»Die Frau wird’s ihm sagen, die uns belauscht hat!«
 
-»Ab — verließe: es ist Frau Lörax gewesen!«
+»Ah — verstehe: es ist Frau Lörax gewesen!«
 
-»Sehr wahrfaeintich!«
+»Sehr wahrscheinlich!«
 
-»Löôrax wird also unter einem Vorwand herkommen
+»Lörax wird also unter einem Vorwand herkommen
 und Deinen Verdacht, der Brief sei gefälscht, zu entkräften
-n.«
+suchen.«
 
-»Ja, vielleicht tut er das, Geschieht es, dann ist meine
+»Ja, vielleicht tut er das. Geschieht es, dann ist meine
 Theorie richtig.«
 
 <@pagebreak/>
 »Du glaubst also wirklich, Lörax hat bei Coldings
 Entführung mitgewirkt?«
 
-»Das vermute ich mit ziemlicher Bestimmtheit, Lörax
-traf hier in Haukeli am Tage nach Coldings Verschwinu-den
+»Das vermute ich mit ziemlicher Bestimmtheit. Lörax
+traf hier in Haukeli am Tage nach Coldings Verschwinden
 ein. Es mag dies ein Zufall sein, aber es ist immerhin
 auffallend.«
 
-Wohin mag man Colding verschleppt haben?«
+»Wohin mag man Colding verschleppt haben?«
 
-»Hier im ébirge gibt es zahllose Verstecke. Möglich
+»Hier im Gebirge gibt es zahllose Verstecke. Möglich
 auch, daß Colding gar nicht weit weggeführt worden
-ist. Mir ist da vorhin, als ich Prang und Löôrax nachgelaufen
+ist. Mir ist da vorhin, als ich Prang und Lörax nachgelaufen
 war und nochmals mit ihnen sprach, ein besonderer
 Gedanke gekommen. Prang erwähnte nämlich, das
-Lörax nebst Gattin allein in dem einen Unterfkunstshause
+Lörax nebst Gattin allein in dem einen Unterkunftshause
 wohnt und alle drei Zimmer belegt hat. Du kennst ja die
-Gebäude des Hausherr. Die sogenannte Sennhütte, richtiger
+Gebäude des Haukeli. Die sogenannte Sennhütte, richtiger
 der große Gasthof, liegt nebst zwei Ställen auf der einen
 Seite der Straße; auf der anderen befinden sich die beiden
-Unterkuustshäuser und zwei Wohnhäuser von üleinbaueru.
+Unterkunftshäuser und zwei Wohnhäuser von Kleinbauern.
 Wenn nun —«
 
 Harst schwieg plötzlich.
 
 Auch ich spürte den scharfen Dunst, der mit einem
-Male über uns brauchte.
+Male über uns hinwehte.
 
-Ich sah noch undeutlich, daß Harald sich auszurichten
+Ich sah noch undeutlich, daß Harald sich aufzurichten
 versuchte.
 
 Dann — schwanden mir schon die Sinne.
 
-Mein Lektion Gedanke war:
+Mein letzter Gedanke war:
 
 »Ottmar Orstra —!«
 
@@ -829,62 +827,62 @@ zu mir kam:
 
 »Wenn’s Ottmar Orstra war, seid Ihr verloren!«
 
-Denn — wo wir uns berauben, konnte ich nicht erkennen.
+Denn — wo wir uns befanden, konnte ich nicht erkennen.
 
-Ringsum tiefste Dunkelpeit.
+Ringsum tiefste Dunkelheit.
 
 Aber neben mir atmete jemand schwer und keuchend.
 Das mußte Harald sein.
 
-Dem einen Gedanken, der alte VBefürchlunnen in fh
+Dem einen Gedanken, der alle Befürchtungen in sich
 vereinte, folgten andere, wachgerufen durch das, was ich
 spürte, was mein Gefühl wahrnahm.
 
-Erstens: es war hier eisig Kali! So kalt wie in einem
+Erstens: es war hier eisig kalt! So kalt wie in einem
 Eiskeller.
 
 <@pagebreak/>
-Und die Lust war dumpf und feucht, stank wie kantiges
+Und die Luft war dumpf und feucht, stank wie fauliges
 Wasser.
 
-Zweitens: ich Tau auf fahlem Fels lang ausgehorcht.
-Die Hände waren mir über der Brust zusammen aeldmäürt.
+Zweitens: ich lag auf kahlem Fels lang ausgestreckt.
+Die Hände waren mir über der Brust zusammen geschnürt.
 
 Drittens: ich konnte mich nicht aufrichten, kein Glied
-rühren! Ich war an den Felsboden irgendwie Teetasse)ruft,
+rühren! Ich war an den Felsboden irgendwie festgeschnürt,
 — selbst um den Hals lief ein dünner, straff gespannter
 Strick. Und der Knebel im Munde wurde durch einen
-Bindfaden, der um das Genick herumaina, festgehalten. —
+Bindfaden, der um das Genick herumging, festgehalten. —
 
-Wie lange wir uns hier bereits befanden, wie Tanne
+Wie lange wir uns hier bereits befanden, wie lange
 unsere Betäubung gewährt hatte, dafür fehlte mir jede
-Ebäkung.
+Schätzung.
 
 Nur — ich fror derart, daß ich bereits Stunden in
 dieser Eisluft liegen mußte; ich merkte, daß meine Füße
-und Arme wie Eiêëflumpen waren. fast gefühllos —!
+und Arme wie Eisklumpen waren, fast gefühllos —!
 
-Stunden mußten vergangen sein. seitdem man uns
-dort in der Hütte durch irgend ein köstliches Gas plötzlich
+Stunden mußten vergangen sein, seitdem man uns
+dort in der Hütte durch irgend ein höllisches Gas plötzlich
 betäubt hatte.
 
 Durch Gas! Auch das sprach eigentlich dafür, daß
-Löôrax, der berühmte Chemiker, der Täter war, und nicht
+Lörax, der berühmte Chemiker, der Täter war, und nicht
 Ottmar Orstra!
 
 Seltsam — wie war ich nur mit einem Male auf Orstra
-atfommen, der vor vier — nein, vor fünf Tagen aus
-Dahlen mit den Juwelen der Frau Flambora entkommen
-war, —
+gekommen, der vor vier — nein, vor fünf Tagen aus
+Dahlen mit den Juwelen der Frau Flamborg entkommen
+war. —
 
-Mein Kopf wurde immer klarer. ch fühlte nur eins:
-daß Ich entfeufih fror!
+Mein Kopf wurde immer klarer. Ich fühlte nur eins:
+daß ich entsetzlich fror!
 
-Dann — ein Hüsteln neben mit,
+Dann — ein Hüsteln neben mir.
 
-Harald regte ich —I
+Harald regte sich —!
 
-Dann ein Närrin, als ich mich ebenfalls durch Stiefeln
+Dann ein Röcheln, als ich mich ebenfalls durch Hüsteln
 als bei Bewußtsein gemeldet hatte.
 
 Ein Röcheln — so, wie jemand röchelt, der all seine
@@ -894,20 +892,20 @@ Das Röcheln verstummte.
 
 Harst atmete schnell und pfeifend. Das, was er durch
 diese Kraftentfaltung versucht hatte, schien nicht geglückt zu
-ein.
+sein.
 
-Wieder Stille ringsum — Fotenftille,
+Wieder Stille ringsum — Totenstille.
 
 Nein — doch nicht völlige Stille.
 
 <@pagebreak/>
-Da waren leise klingende Geräusche — bald nach, bald
-fern; da war ein regelmäßiges Tat -=- las - tat —
+Da waren leise klingende Geräusche — bald nah, bald
+fern; da war ein regelmäßiges Tak — tak - tak —
 
-Wasertropsen’ — sollende Wassertropfen!
+Wassertropfen — fallende Wassertropfen!
 
-Und — plôplich dachte ich an den Gletschertunnel Nordost
-von Haukeli. in
+Und — plötzlich dachte ich an den Gletschertunnel nördlich
+von Haukeli.
 
 Die Kälte — die fallenden Tropfen! Ja — es mußte
 einer der Gletschertunnel sein oder doch eine Aushöhlung in
@@ -917,72 +915,71 @@ Dann wieder das krampfhafte Röcheln neben mir.
 
 Harald versuchte sich zu befreien. -
 
-Und — wieder mißlang- es!
+Und — wieder mißlang es!
 
-Nun verhielt er sich Pußta. —
+Nun verhielt er sich ruhig. —
 
 Die Sekunden, die Minuten wurden in dieser Kälte
 zu Ewigkeiten.
 
 Selbst die immer aufs neue erwachende Todesangst
-trieb das Blut nicht schneller durch die erstarrten Glieder,
+trieb das Blut nicht schneller durch die erstarrten Glieder.
 
 Müdigkeit kam — jene bleierne Müdigkeit völliger geistiger
 und körperlicher Erschöpfung, die uns in jeder Lage
 einschlafen läßt.
 
-Ich schrie ein.
+Ich schlief ein.
 
 Und — erwachte, starrte in das grelle, weiße Licht
-einer Taschenlautipe — war im Nu völlig munter.
+einer Taschenlampe — war im Nu völlig munter.
 
-Der weiße Lichtkegel glitt nach links. ir
+Der weiße Lichtkegel glitt nach links.
 
-Meine Augen erkannten Einzelheiten, einging
-grinsendes Eis, Und — die Gestalt eines Mannes, der
-die Taschenlampe In der. Linken hielt, Zu der halb Dr
-belegen Rechten glänzte es metaUisch: ein Revolver:
+Meine Augen erkannten Einzelheiten. Ringsum
+glitzerndes Eis. Und — die Gestalt eines Mannes, der
+die Taschenlampe in der Linken hielt. Zu der halb erhobenen
+Rechten glänzte es metallisch: ein Revolver!
 
 Der Mann war schlank und mittelgroß, hatte vor dem
-Gesicht eine grüne Maske, zündete jetzt eine PBerroleuins
-Laterne an und stellte sich auf einen Vorsprung der Steward.
+Gesicht eine grüne Maske, zündete jetzt eine Petroleumlaterne
+an und stellte sich auf einen Vorsprung der Eiswand.
 
-Die Verteilung von Licht und. Schalten in dieser Eishöhle,
-die bei ‘ganz unregelmäßiger Gestalt eine größte
+Die Verteilung von Licht und Schatten in dieser Eishöhle,
+die bei ganz unregelmäßiger Gestalt eine größte
 Breite und Länge von sechs Meter haben mochte und deren
-zahllose, weit vorragende Eier den »Zugang verbargen,
-wurde jetzt gletchmaäßiger, so daß ich den Mann eingeben
-der mustern konnte.
+zahllose, weit vorragende Ecken den Zugang verbargen,
+wurde jetzt gleichmäßiger, so daß ich den Mann eingehender
+mustern konnte.
 
-Professor Länger konnte es nicht sein. Löôrax war daß
-und breitschultrig, sah plump aus Und dieser Schlanke
-da bewegte sich Schrei und gewandt, verriet in allem die
+Professor Lörax konnte es nicht sein. Lörax war dick
+und breitschultrig, sah plump aus. Und dieser Schlanke
+da bewegte sich schnell und gewandt, verriet in allem die
 <@pagebreak/>
-durch Training aùfs höchste gesteigerte Kraft eines frischen
+durch Training aufs höchste gesteigerte Kraft eines frischen
 Körpers.
 
-Schweigend hakte er jetzt Harst von den in die Risse des
+Schweigend hatte er jetzt Harst von den in die Risse des
 Felsbodens getriebenen Eisenhaken losgebunden, hatte den
-Gefesselten spielend leicht emporgechoben und auf eine baufällige
-Ausbuchmung des Gesteins gesetzt.
-gesetzt.
+Gefesselten spielend leicht emporgehoben und auf eine bankartige
+Ausbuchtung des Gesteins gesetzt.
 
 Nun kam ich heran. Auch ich wurde neben Harald
 gesetzt.
 
 Dann nahm der Schweigsame einen langen Strick und
-band uns mit dem Rücken an die Steward fest
+band uns mit dem Rücken an die Eiswand fest.
 
-Noch immer fein Wort.
+Noch immer kein Wort.
 
-Ich stellte fest, daß der Mann derbe braune Berg
-Stiefel, einen dunkelgrauen Lodenanzug und eine dunkle
-Sportmütze trug. Und — ich sah feine Hände — seine
+Ich stellte fest, daß der Mann derbe braune Bergstiefel,
+einen dunkelgrauen Lodenanzug und eine dunkle
+Sportmütze trug. Und — ich sah seine Hände — seine
 Fingernägel!
 
 Wie unser Feind Ottmar Orstra ohne Verkleidung
 aussah, wußten wir nicht. Nur eins wußten wir: daß
-Orstra lange, schmale Hände und stark gewölbte Flinuger-nägel
+Orstra lange, schmale Hände und stark gewölbte Fingernägel
 hatte!
 
 Solche Hände und Fingernägel aber hatte der Maskierte.
@@ -990,15 +987,16 @@ Solche Hände und Fingernägel aber hatte der Maskierte.
 Es war Ottmar Orstra!
 
 Orstra verschwand hinter einer der Ecken, kehrte mit
-einem Blechgesäß zurück, schraubte den Deckel ab, holte ein
+einem Blechgefäß zurück, schraubte den Deckel ab, holte ein
 paar Zeitungen hervor, zerknüllte sie und legte sie um das
-Gefäß herauf. Dann nahm er drei andere Zeitungen,
-unsre sichelartig zusammen und tauchte eile in das Gestein.
+Gefäß herum. Dann nahm er drei andere Zeitungen,
+drehte sie sichelartig zusammen und tauchte sie in das Gefäß
+ein.
 
 Ich spürte Petroleumgeruch.
 
-Was beabsichtigte Orstra? Wollte er und hier cm
-elften? Fast schien es so! —
+Was beabsichtigte Orstra? Wollte er uns hier ersticken?
+Fast schien es so! —
 
 Und noch immer kein Wort.
 
@@ -1007,30 +1005,30 @@ seine Vorbereitungen.
 
 Nun verschwand er abermals
 
-Ich benmubte die Gelegenheit, den Kopf zu wenden und
+Ich benutzte die Gelegenheit, den Kopf zu wenden und
 Harald anzuschaun.
 
-Seinerseits ein besonderer Blick aus den fstahlgrauen
+Seinerseits ein besonderer Blick aus den stahlgrauen
 Augen.
 
 <@pagebreak/>
 Ein Blick, der mehr Triumph ausdrückte als Sorge um
-umso Leben. ab
+umso Leben.
 
-Und Ottmar Orstra fehlte zurück — mit den beiden
-Oelbildern, die wir bereits Kanten, — mit jenen Bildern,
-die er hatte verschwinden lassen, ade die Flammen des brennenden
-Hotels die Züge einer Sterbenden, seiner Schwester.
+Und Ottmar Orstra kehrte zurück — mit den beiden
+Oelbildern, die wir bereits kannten, — mit jenen Bildern,
+die er hatte verschwinden lassen, als die Flammen des brennenden
+Hotels die Züge einer Sterbenden, seiner Schwester,
 beleuchteten.
 
 Er stellte sich vor uns hin, begann mit der großen
-Klinge feines Taschenmessers die Eilen Farbeukkectse los-aubrechen.
-schalte so unter der Farbe all die Edelsteine heraus,
-die jeder einzeln in dünnes Fettpapier cingehütilt
-ren.
+Klinge seines Taschenmessers die dicken Farbenkleckse loszubrechen,
+schälte so unter der Farbe all die Edelsteine heraus,
+die jeder einzeln in dünnes Fettpapier eingehüllt
+waren.
 
-Dann schnitt. er die Bilder in Streifen, warf sie auf
-das RZeitungspapter, hob die Steine auf und flehte sie in
+Dann schnitt er die Bilder in Streifen, warf sie auf
+das Zeitungspapier, hob die Steine auf und steckte sie in
 die Tasche.
 
 Er blickte Harald an, — und jetzt begann er zu sprechen.
@@ -1039,39 +1037,39 @@ Er blickte Harald an, — und jetzt begann er zu sprechen.
 
 <h3>Bluff.</h3>
 
-Kalt, leidenschaftslos, fast ohne Klang war feine
+Kalt, leidenschaftslos, fast ohne Klang war seine
 Stimme.
 
-Seh werde Ahnen beiden die Knebel abnehmen. Hier
+»Ich werde Ihnen beiden die Knebel abnehmen. Hier
 hört Sie niemand!«
 
 Er tat es, trat, wieder zurück,
 
-»Es tut mir leid, daß es nun so weit gekommen ist,
+»Es tut mir leid, daß es nun so weit gekommen ist,«
 fuhr er fort. »Der Kampf mit Ihnen, Herr Harst, war für
-einen Mann von meiner Veranlagung ein Genuß. Sich
+einen Mann von meiner Veranlagung ein Genuß. Ich
 hätte gern noch bei ein paar anderen Gelegenheiten die
-Klingen mit Ihnen gekreuzt — die geistigen Klingen! ch
+Klingen mit Ihnen gekreuzt — die geistigen Klingen! Ich
 bin ein Verächter der rohen Kraft. Intelligenz ist alles.
 Der, dem wir die Erfindung der Dampfmaschine verdanken,
 ersparte menschliche und tierische Muskelkraft. Das
-ist der eine Fall, wo die Intelligenz die Kraft bestrafe, einer
+ist der eine Fall, wo die Intelligenz die Kraft besiegte, einer
 jener Fälle, an dem die ganze Menschheit teilnahm,
 von dem sie ihre Vorteile hatte. — Sie müssen zugeben,
 daß Sie mir unterlegen sind, Herr Harst. Sie hätten damit
-rechnen müssen, daß ich cé war. der hier die Brüder der
+rechnen müssen, daß ich es war, der hier die Brüder der
 <@pagebreak/>
-grünen Maske in — deutscher Aufmachung ausleben ließ.
-Ich bin Deutscher wie Sie, ein Sohn des Volkes der Ju-telligenza!
+grünen Maske in — deutscher Aufmachung aufleben ließ.
+Ich bin Deutscher wie Sie, ein Sohn des Volkes der Intelligenz!
 Das sind wir Deutschen!«
 
 Eine kleine Pause.
 
-»Der Milliardär wird von meinen Leuten gut, be
-wacht. Die Angst vor den Brüdern der grünen Mädels ist
+»Der Milliardär wird von meinen Leuten gut, bewacht.
+Die Angst vor den Brüdern der grünen Maske ist
 so groß, daß die Schwestern Colding die drei Millionen
-jetzt widerstandslos opfern werden. ‘ Professor Lörax bat
-mir einen großen Dienst einigten, als er Jane Colding
+jetzt widerstandslos opfern werden. Professor Lörax hat
+mir einen großen Dienst erwiesen, als er Jane Colding
 überredete, Sie herzubitten.«
 
 Wieder eine Pause.
@@ -1080,16 +1078,16 @@ Wieder eine Pause.
 ahnen Sie wohl —«
 
 »Ja,« erklärte Harst. »Ihre sterbende Schwester machte
-eine Andeutung, die ich lebt erst voll verstanden habe.«
+eine Andeutung, die ich jetzt erst voll verstanden habe.«
 
-»Agra hätte vorsichtiger sein müssen. Sie vergaß, daß
+»Agna hätte vorsichtiger sein müssen. Sie vergaß, daß
 sie es mit einem Harst zu tun hatte. — Sehr sorgsam
-vorbereitet war dieser Streit Unter dem Personal des
-Hausherr habe ich einen Verbündeten. — Glauben Sie wir!:
-O. naß Mary Colding den zweiten Drohbrief geschrieben
-es.
+vorbereitet war dieser Streich. Unter dem Personal des
+Haukeli habe ich einen Verbündeten. — Glauben Sie wirklich,
+daß Mary Colding den zweiten Drohbrief geschrieben
+hat?«
 
-»Da!
+»Ja!«
 
 »Sie irren. Sie tat es nicht. Ich ließ den Brief durch
 den Mann schreiben, den ich in die Haukeli-Hütte eingeschmuggelt
@@ -1097,117 +1095,118 @@ hatte.«
 
 »Dann habe ich mich eben geirrt!«
 
-Orstra deutete jetzt aus das Bleehgesäß, hob dann die
+Orstra deutete jetzt auf das Blechgefäß, hob dann die
 Hand zur Decke der Eishöhle.
 
 »Die Wärme wird genügen, die nur noch schwachen
-Eisstüben der zermürbten Decke wegzuschmelzen, Herr Harst.
+Eisstützen der zermürbten Decke wegzuschmelzen, Herr Harst.
 Solche Eishöhlen bilden sich in wandernden Gletschern sehr
 oft. Ich habe die Decke genau untersucht. Sie ist sechs
 Meter dick, ist wie ein Pfropfen, der nur noch lose in dem
-Halse einer Flasche sind. Niemand wird Ihr kaltes Grab
+Halse einer Flasche sitzt. Niemand wird Ihr kaltes Grab
 finden, Herr Harst —«
 
 Er faßte in die Tasche, rieb ein Streichholz an, hielt
-an das Papier.
+es an das Papier.
 
-Das Papier lohte auf. Die getränkten Bapierftride
-Minuten u Nu, trugen die Flammen in den weiten Hals
-Gerades
+Das Papier lohte auf. Die getränkten Papierstricke
+brannten im Nu, trugen die Flammen in den weiten Hals
+des Gefäßes.
 
 <@pagebreak/>
-Passiert ‘fing das Petroleum Feuer.
+Puffend fing das Petroleum Feuer.
 
 »Es ist nicht reines Petroleum,« sagte Orstra ebenso
-leidenschastlos. »Es ist ein Gemenge von VBenuzin, Petroleum-
+leidenschaftlos. »Es ist ein Gemenge von Benzin, Petroleum
 und reinem Alkohol —«
 
 Die Flamme aus dem Gefäß war fast farblos, leckte
-höher und höher. Das Papier Gelinde das Gefäß und
-änderte die Verbreunung.
+höher und höher. Das Papier erhitzte das Gefäß und
+förderte die Verbrennung.
 
-Von der Decke begann es zu tropfen,
+Von der Decke begann es zu tropfen.
 
-So spürte die Hitze der farblosen Flamme im Gericht.
+Ich spürte die Hitze der farblosen Flamme im Gesicht.
 Orstra log nicht: es war nicht Petroleum allein!
 
 Er schaute uns nochmals an. Dann ging er, ließ die
 Petroleumlaterne brennen.
 
 Ich saß und rührte mich nicht: ich wagte nicht, Harald
-anzusehen. Sich fürchtete, unser Tode?«Pfeil aus sein
-Gesicht abzulesen. Denn — so, wie Orstra uns geschieht
+anzusehen. Ich fürchtete, unser Todesurteil aus seinem
+Gesicht abzulesen. Denn — so, wie Orstra uns gefesselt
 hatte, war ja ein Entkommen ausgeschlossen!
 
-mag Ran leise Harrte Stimme:
+Da — ganz leise Harsts Stimme:
 
 »Bluff —!«
 
-Nur das Hin Wort — Bluff!
+Nur das eine Wort — Bluff!
 
 Mein Kopf fuhr herum. Und — Harald lächelte,
 flüsterte:
 
 »Die Hände — die Hände! Er will den Triumph
-Tanne »auskosten! Er weiß, daß wir — gerade wir beide! —
-in einer halben Stunde spätestens frei fein werden!«
+ganz auskosten! Er weiß, daß wir — gerade wir beide! —
+in einer halben Stunde spätestens frei sein werden!«
 
 »Er weiß —?« stammelte ich.
 
-»er weiß es und er will es! Die Geschichte mit der
-Eiödede, die herabfallen soll, ist natürlich Unsinn! rosa
-wollte nur an Anschein erwecken, als wäre es ihm ernst
-mit feiner Melde uns zu töten!«
+»Er weiß es und er will es! Die Geschichte mit der
+Eisdecke, die herabfallen soll, ist natürlich Unsinn! Orstra
+wollte nur den Anschein erwecken, als wäre es ihm ernst
+mit seiner Absicht uns zu töten!«
 
-Ich begriff noch immer nicht verständig.
+Ich begriff noch immer nicht vollständig.
 
-»Wie — und wir toben flicken?!! Das — das ist
-aber doch ausaesclosseu!«
+»Wie — und wir sollen fliehen?!! Das — das ist
+aber doch ausgeschlossen!«
 
-»Nachher — nachher! — So — Paß mal auf!« Und
-er beugte den Kopf, wand sich hin und her, erreichte nicht
-den Zähnen die Knoten der Sinds, die meine Arge auf
+»Nachher — nachher! — So — paß mal auf!« Und
+er beugte den Kopf, wand sich hin und her, erreichte mit
+den Zähnen die Knoten der Stricke, die meine Arme auf
 der Brust gekreuzt hielten.
 
 Es dauerte keine fünf Minuten, und ich hatte die
 Hände frei.
 
-Dann — dann reckten und Strebten wir uns, brate
-gen Das Blut in Belastung.
+Dann — dann reckten und streckten wir uns, brachten
+das Blut in Bewegung.
 
 <@pagebreak/>
 Harst lachte — lachte und zog seine Clement aus der
+Tasche.
 
-»Sogar die Wasser hat er uns gelassen! Muß er schwache
-sicher sein —!«
+»Sogar die Waffen hat er uns gelassen! Muß er seiner
+Sache sicher sein —!«
 
 Er nahm den Patronenrahmen heraus, prüfte die
-Patronen. »Man faul nie willen. Er könnte auch das
+Patronen. »Man kann nie wissen. Er könnte auch das
 Pulver ausgeschüttet haben!«
 
 Der Rahmen glitt in den Kolben zurück. Harst spannte
-te Element, griff nach der Laterne.
+die Clement, griff nach der Laterne.
 
-»Vorwärts! Nest nach dem Haukeli!«
+»Vorwärts! Jetzt nach dem Haukeli!«
 
 Er ging voran. Es war eine mühselige Kletterpartie
-durch einen schrägen Eistamin.
+durch einen schrägen Eiskamin.
 
-Sternenlicht über uns. Und Harst warf die Latcerue
-den Kamin zurück, sagte: »Es ist der erste Gletscher
-on Haukeli aus gerechnet. Da — drüben liegt der zweite
-Wehr nach Odda zu!«
+Sternenlicht über uns. Und Harst warf die Laterne
+in den Kamin zurück, sagte: »Es ist der erste Gletscher
+von Haukeli aus gerechnet. Da — drüben liegt der zweite
+mehr nach Odda zu!«
 
-Wir standen auf dem Gletscher hoch über der Versetzte.
-Wie ein breiter, weißer Steh zog der Gletscher
+Wir standen auf dem Gletscher hoch über der Bergstraße.
+Wie ein breiter, weißer Strich zog der Gletscher
 sich über die berühmte Kunststraße hinweg.
 
-Wir kletterten leidlich hinab, erteilen die Straße,
-ten uns in Trab. Der Dauerlauf tat uns gut. Dann
-Hausherr-Hochebene, eine Schneehalde, dicht dabei weidende
-Ziegen mit leise töneuden Glöckchen,
+Wir kletterten leidlich hinab, erreichten die Straße,
+setzten uns in Trab. Der Dauerlauf tat uns gut. Dann
+die Haukeli-Hochebene, eine Schneehalde, dicht dabei weidende
+Ziegen mit leise tönenden Glöckchen.
 
-Hofft fiel in Schritt, von nach links ab.
+Harst fiel in Schritt, bog nach links ab.
 
 »Wir wollen immerhin vorsichtig sein,« meinte er.
 
@@ -1215,49 +1214,49 @@ Hofft fiel in Schritt, von nach links ab.
 
 Er schwieg, sagte dann unvermittelt:
 
-»Ich gebe zu, es ist schwer, Orstras Spiel zu durch-jauen.
-Er iﬀfl ohne Frage intelligent. Nur — er macht
+»Ich gebe zu, es ist schwer, Orstras Spiel zu durchschauen.
+Er ist ohne Frage intelligent. Nur — er macht
 Fehler. Er wußte, daß es einen sehr originellen Professor
-Fror gibt. Er spielte den Lörax in allem ausgezeichnet.
-ie Maske war tadellos. Nur — nur hätte er an seine
-gute denken sollen!«
+Lörax gibt. Er spielte den Lörax in allem ausgezeichnet.
+Die Maske war tadellos. Nur — nur hätte er an seine
+Hände denken sollen!«
 
-»Ah — Lörax war Ersinnt!«
+»Ah — Lörax war Orstra?!«
 
-»Er war es! Ich merkte es sehr bald in der Stein-Itte
+»Er war es! Ich merkte es sehr bald in der Steinhütte
 — sehr bald. Die drei Kerzen gaben genügend Licht.
-þ führte Dich nachher halb und halb aufs Glatteis, mein
-Idee, als ich Dir sagte, Lörax könne als Professor sehr
-ob! mit zu den Masten Arten gehören. Ich glaubte,
-möchtest Dadurch auf Orstra kommen —«
+Ich führte Dich nachher halb und halb aufs Glatteis, mein
+Alter, als ich Dir sagte, Lörax könne als Professor sehr
+wohl mit zu den Masken-Brüdern gehören. Ich glaubte,
+Du würdest dadurch auf Orstra kommen —«
 
 <@pagebreak/>
-»Aber — weöhalb ließ er uns frei — weshalb machte
-er uns die Flucht so Teich!? 1»
+»Aber — weshalb ließ er uns frei — weshalb machte
+er uns die Flucht so leicht?!«
 
 »Verbrechereitelkeit, — das betonte ich ja bereits!
-an will mir imponieren! Aber — er bat sich selbst mir
-in die Da gegeben. Ich durchschaue alles. — Ueber:
-Jene Dir mal: ist es nicht ein übergroßes Risiko, daß Die
-drei Millionen auf dem Haufeli-stenel niedergelegt wer:
-eben sollen?! Wäre es nicht Leichtsinn von ihm, wollte er
-von dort holen oder dort in Empfang nehmen?! Kann
-Ort nicht noch ein Hinterhalt für ihm vorbereitet werden?!
-— Sieh’, dies stieß mir in dem erbten Drohbrief sofort zu
-— dieser. Befehl, daß die drei Miuioneun auf der Bergkuppe -
+Er will mir imponieren! Aber — er hat sich selbst mir
+in die Hände gegeben. Ich durchschaue alles. — Ueberlege
+Dir mal: ist es nicht ein übergroßes Risiko, daß die
+drei Millionen auf dem Haukeli-Kegel niedergelegt werden
+sollen?! Wäre es nicht Leichtsinn von ihm, wollte er
+sie von dort holen oder dort in Empfang nehmen?! Kann
+dort nicht noch ein Hinterhalt für ihn vorbereitet werden?!
+— Sieh’, dies stieß mir in dem ersten Drohbrief sofort auf
+— dieser Befehl, daß die drei Millionen auf der Bergkuppe
 deponiert werden sollten. Und als ich dann Lörax als
 Orstra erkannt hatte, als ich davon ganz laut in der Hütte
-sprach,- daß Löôrax Mary Colding geraten haben könne, den
-anwerfen Drohbrief zu fabrizieren, als der Lauscher draußen,
+sprach, daß Lörax Mary Colding geraten haben könne, den
+zweiten Drohbrief zu fabrizieren, als der Lauscher draußen,
 besser die Lauscherin, dies schleunigst Lörax-Orstra meldete,
-als ich dann auf fein Erscheinen wartete und als wir
-betäubt wurden und Orstra- Lörax später in der Eishöhle
-behauptete, sein Helfershelfer hätte den zweiten Brief rief
-schrieben, da, mein Alter, da war mir Orstra wirklich ins
+als ich dann auf sein Erscheinen wartete und als wir
+betäubt wurden und Orstra-Lörax später in der Eishöhle
+behauptete, sein Helfershelfer hätte den zweiten Brief geschrieben,
+da, mein Alter, da war mir Orstra wirklich ins
 Garn gegangen, da hatte er mir den Beweis geliefert, daß
 er um jeden Preis jede Spur eines gegen Lörax auftauchenden
-Eins zerstreuen wollte, daß also — Lörax
-es fein würde, Orstra in Yörar’ Waffe, der die drei Millionen
+Verdachts zerstreuen wollte, daß also — Lörax
+es sein würde, Orstra in Lörax’ Maske, der die drei Millionen
 als Vertrauter der Schwestern Colding sich aneignen
 wollte!«
 
@@ -1266,187 +1265,186 @@ Nun verstand ich.
 »Orstra-Lörax wird das Geld den Schwestern stehlen,
 sobald es hier in Haukeli eingetroffen ist,« sagte ich rasch.
 
-»so — und es wird in dieser ‚ach eintreffen! Der
+»Ja — und es wird in dieser Nacht eintreffen! Der
 Dampfer von Bergen aus erreicht Odda um neun Uhr
-abends. Wenn der Abgesandte des amerikanischen Kon-ssuls
-in Bergen dann ein Auto besteigt, kann er gegen Milt-ternacht
-hier fein. Dies werden sich auch die Schwestern
-&abhing berechnet haben. Sie werden aus das Geld und
+abends. Wenn der Abgesandte des amerikanischen Konsuls
+in Bergen dann ein Auto besteigt, kann er gegen Mitternacht
+hier sein. Dies werden sich auch die Schwestern
+Colding berechnet haben. Sie werden auf das Geld und
 den Abgesandten warten: sie werden die drei Millionen
 vielleicht nicht für den Rest der Nacht bei sich behalten wollen.
 Lörax-Orstra wird es ihnen schon nahelegen, das
 Geld ihm anzuvertrauen. Und — hat er es, dann wird
 <@pagebreak/>
 er mit seiner »Frau« sofort flüchten — in die Berge —
-irgendwohin! Auch diese Flucht dürfte er vorbereitet bar
-eben. Von uns nimmt er an, daß wir uns irgendwo in der,
-Nähe des Hausherr-Kegels verbergen werden. Und dann —
+irgendwohin! Auch diese Flucht dürfte er vorbereitet haben.
+Von uns nimmt er an, daß wir uns irgendwo in der
+Nähe des Haukeli-Kegels verbergen werden. Und dann —
 hofft er — dann haben wir das Nachsehen! Dann sind
-wir E Blamierten!«
+wir die Blamierten!«
 
-Ein feines Plänen! — Ich lächelte ironisch.
+»Ein feines Plänchen!« — Ich lächelte ironisch.
 
 Wir näherten uns von Westen den Stallgebäuden der
-Hausherr-Hütte; wir begannen zu fliehen. So erreichten
-wir den Befolgt. Hier standen ein paar zweiräderige
+Haukeli-Hütte; wir begannen zu kriechen. So erreichten
+wir den Vorplatz. Hier standen ein paar zweiräderige
 Wagen und ein Auto. Wir schlüpften in das Auto hinein,
-spähten über den Türrand binnen.
+spähten über den Türrand hinweg.
 
-Zwei Fenster im Seitenanbau der Hütte waren er
-leuchtet. Auf den Vorhängen zeichneten sich bin und wies
-der me Schatten von Frauengestalten ab.
+Zwei Fenster im Seitenanbau der Hütte waren erleuchtet.
+Auf den Vorhängen zeichneten sich hin und wieder
+die Schatten von Frauengestalten ab.
 
-ie Schwestern! Sie warten!« flüsterte Harald
+»Die Schwestern! Sie warten!« flüsterte Harald.
 
-Wie blicken nach der anderen Gelte, nach den Unter-AIAR
+Wir blickten nach der anderen Seite, nach den Unterkunftshäusern.
 Dort alles dunkel.
 
 Die Zeit verstrich.
 
-Die Eingangstür des Undank öffnete sich leise. Ja
+Die Eingangstür des Anbaus öffnete sich leise. Jane
 Colding trat in den Mondschein hinaus, ging ein Stück
-nach Norden den Weg entlang. Von In mußte das Zerkaute
-Sammler.
+nach Norden den Weg entlang. Von dort mußte das Geldauto
+kommen.
 
 Es kam nicht. —
 
-Jane näherte sich unserem Bersten.
+Jane näherte sich unserem Versteck.
 
 Harst rief sie leise an.
 
-»Oh — Sie!« entfuhr es Jane. Und fischte Lider:Würgt
-Mr »Der Konsul schickte heute ein zweites Telegramm,
-Ein Herr auch Odda bringt das Gelb Im eigenen Autos bei.
-Das Auto sollte um Mitternacht hier sein. Je! ist es bereits
+»Oh — Sie!« entfuhr es Jane. Und fügte überstürzt
+hinzu: »Der Konsul schickte heute ein zweites Telegramm.
+Ein Herr auch Odda bringt das Geld im eigenen Autos her.
+Das Auto sollte um Mitternacht hier sein. Jetzt ist es bereits
 ein halb eins —«
 
-Harst hatte sich Oper acht sich an die Stirn,
+Harst hatte sich aufgerichtet, griff sich an die Stirn,
 stand wie eine Bildsäule.
 
-Dann — ein Saß — wisse aus dem Kraftwagen,
-eine bärtige Frage an ran
+Dann — ein Satz — hinaus aus dem Kraftwagen,
+eine hastige Frage an Jane.
 
-»Dort wohnt der Professor!» erwiderte sie.
+»Dort wohnt der Professor!« erwiderte sie.
 
 Wir stürmten dem Holzhause zu.
 
-Harst drückte die Tür auf. Sie. war unverschlossen.
+Harst drückte die Tür auf. Sie war unverschlossen.
 
 Unsere Taschenlampen warfen grelle Lichtstreifen in die
-Nimmer — über leere Betten — über die dringenden
+Zimmer — über leere Betten — über die blinkenden
 <@pagebreak/>
-Küchengeräte — über die Rolltür, die aus der Küche in den
+Küchengeräte — über die Falltür, die aus der Küche in den
 Keller führte.
 
 Die Falltür flog auf.
 
 Eine steile Treppe: unten drei Verschläge: und in dem
-lebten auf Stroh und Säcken — der reichste Mann Amerlb-kas:
+letzten auf Stroh und Säcken — der reichste Mann Amerikas:
 Colding! Gebunden. geknebelt —!
 
-Orts Messer fuhr durch die Stricke.
+Harsts Messer fuhr durch die Stricke.
 
 Jane Colding war uns gefolgt. — »Sorgen Sie für
 Ihren Vater!« rief Harald.
 
-Wir jagten hinaus dem Auto zu — auf den Befolgt.
+Wir jagten hinaus dem Auto zu — auf den Vorplatz.
 
 <h2>5. Kapitel.</h2>
 <h3>Marys Liebe.</h3>
 
-Harald kurbelte den Motor an. Das Auto war fahl
-bereit. Wer sollte hier Kraftwagen stehlen?!
+Harald kurbelte den Motor an. Das Auto war fahrbereit.
+Wer sollte hier Kraftwagen stehlen?!
 
-Wir kauften davon, den Weg entlang — gen Odda —
+Wir sausten davon, den Weg entlang — gen Odda —
 über die Hochebene.
 
-Kamen auf die Bergstraße, mußten langsamer 1c. Brei.
-Unsere Laternen brannten nicht kein Scheinwerfer beleuchtete
+Kamen auf die Bergstraße, mußten langsamer fahren.
+Unsere Laternen brannten nicht, kein Scheinwerfer beleuchtete
 den schmalen Weg, die drohenden Abgründe.
 
-Dann eine gerade Strecke — hell vom Monde der
-schienen.
+Dann eine gerade Strecke — hell vom Monde beschienen.
 
-In der Ferne der erste Gletscher, der erste Gletscher-lunné
+In der Ferne der erste Gletscher, der erste Gletschertunnel.
 
-Hinein in die Zeug ‘des Tunnels. Beide Taschenlampen
-hielt ich hoch. in
+Hinein in die Finsternis des Tunnels. Beide Taschenlampen
+hielt ich hoch.
 
 Das war unsere Beleuchtung.
 
-Der Tunnel lag hinter uns; links ein Abgrund lebt,
+Der Tunnel lag hinter uns; links ein Abgrund jetzt,
 rechts sanft ansteigende Felswände, und vor uns der zweite
 Tunnel.
 
 Dann bremste Harst — bremste, stellte den Motor ab.
 Das Auto stand im Schatten.
 
-Aus den zweiten Tunnel war soeben ein Motorrad
+Aus dem zweiten Tunnel war soeben ein Motorrad
 hervorgeschossen. Hell blinkte die Laterne, laut knatterte
 und knallte der Motor.
 
-Wir dulden uns hinter dem Auto zusammen.
+Wir duckten uns hinter dem Auto zusammen.
 
 <@pagebreak/>
-»Er kann es sein!« flüsterte Harald. »Wir werden Schirm
+»Er kann es sein!« flüsterte Harald. »Wir werden ihm
 den Weg versperren!«
 
-Er hob einen langen, flachen Stein auf!
+Er hob einen langen, flachen Stein auf.
 
 Das Motorrad kam näher.
 
 Dann hatte der Fahrer das Auto bemerkt. Das Knattern
 verstummte.
 
-Strafe war schon mit langen Sätzen boraeftürmt. Ob
+Harald war schon mit langen Sätzen vorgestürmt. Ich
 folgte.
 
 Der Radler war abgesprungen, drehte das Rad um,
 wollte sich in den Sattel schwingen.
 
-Der flache Stein flog im vorn, senkte sich, trat — traf
+Der flache Stein flog im Bogen, senkte sich, trat — traf
 den Kopf des Mannes.
 
-Taumelnd, in die Er greifend, halb betäubt torkelte
+Taumelnd, in die Luft greifend, halb betäubt torkelte
 der Radler dem Abgrund zu.
 
-Ich schrie vor Schreck auf. Der Mann mußte ne
-stürzen — schwebte schon über der Tiefe.
+Ich schrie vor Schreck auf. Der Mann mußte abstürzen
+— schwebte schon über der Tiefe.
 
 Harsts Rechte bekam nur noch den Rucksack zu packen.
 Das Gewicht des Mannes drohte ihn mit hinabzureißen.
-Er warf sich nach hinten, sank in die Gen. fand Irre nach
-vorn, lag mit der Brust über dem Abbau
+Er warf sich nach hinten, sank in die Knie, sank schwer nach
+vorn, lag mit der Brust über dem Abhang.
 
-Ein Sprung, und ich lag quer Lider He Beinen.
+Ein Sprung, und ich lag quer über Harsts Beinen.
 
-Seine Hand ließ den Rucksack nicht los; na Linke
-rate gleichfalls zu.
+Seine Hand ließ den Rucksack nicht los; seine Linke
+packte gleichfalls zu.
 
-Dr Dann, der so fidel der Tiefe schwebte, drehte den
-Kopf, Es war ein Gesicht, das wir nicht kannten, blondbärtig,
-By Beine, Wille Nase.
+Der Mann, der so über der Tiefe schwebte, drehte den
+Kopf. Es war ein Gesicht, das wir nicht kannten, blondbärtig,
+Brille, dicke Nase.
 
-abhob war es Ottmar Orstra
+Und doch war es Ottmar Orstra.
 
-Lebend bekommst by mich nicht!« feuchte er. »Ah
+»Lebend bekommst Ihr mich nicht!« keuchte er. »Ich
 werde doch siegen!«
 
 In seiner Hand blinkte ein Messer.
 
-Er langte nach hinten, schnitt den Rucsack auf.
+Er langte nach hinten, schnitt den Rucksack auf.
 
-Und — wie Wassertropfen, zitternd und funfelnd,
-ne Edelsteine heraus, verschwanden im Dunkel der
-ist
+Und — wie Wassertropfen, glitzernd und funkelnd,
+fielen die Edelsteine heraus, verschwanden im Dunkel der
+Schlucht.
 
-Dann — dann hatte er den einen Riemen ebenfall?
-durchschnitten, hing nur noch an dem andern, der ihm un.
-ter der rechten Achselhöhle lag.
+Dann — dann hatte er den einen Riemen ebenfalls
+durchschnitten, hing nur noch an dem andern, der ihm unter
+der rechten Achselhöhle lag.
 
-»Sie haben gesiegt!« — Der lebte Schrei, und e:
-streckte den Arm lang, ließ den Riemen darüber gleiten.
-ließ sichert hinabfallen.
+»Sie haben gesiegt!« — Der letzte Schrei, und er
+streckte den Arm lang, ließ den Riemen darüber gleiten,
+ließ sich hinabfallen.
 
 <@pagebreak/>
 Abermals schrie ich auf.
@@ -1460,23 +1458,23 @@ Dann schon ein Krachen und Splittern.
 
 Dann Haralds Stimme:
 
-Er ist in die Krone einer Tanne gestürzt. Vielleicht
+»Er ist in die Krone einer Tanne gestürzt. Vielleicht
 ist er noch am Leben! — Vorwärts — dort weiter nach
-worden scheint der Abhang weniger steil zu fein!«
+Norden scheint der Abhang weniger steil zu sein!«
 
-Wir liegen — wir kamen atemlos bei dem anstieg
+Wir liefen — wir kamen atemlos bei dem zweiten
 Tunnel an.
 
-»Hier hat er ihm aufgelauert!« keuchte Harst. »Die!
+»Hier hat er ihm aufgelauert!« keuchte Harst. »Hier
 werden wir das Opfer finden —«
 
 Unsere Taschenlampen  ließen die gleißenden Wände
-flimmern,. Noch eine Biegung. Nun der grelle Schein
+flimmern. Noch eine Biegung. Nun der grelle Schein
 zweier Autolaternen. Nun beugten wir uns über den
 schwarzbärtigen Mann, der hier auf dem Boden lag —
-mit einer Auge! in der Stirn.
+mit einer Kugel in der Stirn.
 
-Regungslos saß auf: dem Chauffeursitz der Herr aus
+Regungslos saß auf dem Chauffeursitz der Herr aus
 Odda — regungslos —!
 
 Wir traten näher.
@@ -1486,85 +1484,85 @@ Aber — in den Augen war Leben.
 »Gott sei Dank!« sagte Harald und atmete erleichtert
 auf.
 
-Wir hoben den durch zwei Schüsse Schwer Verwunderter
+Wir hoben den durch zwei Schüsse schwer Verwunderten
 herab, betteten ihn im Auto.
 
-»Das Geld! neuer er angstvoll, »Das Geld! Den
-einen — schoß — — Leder. Der andere — entkam!«
+»Das Geld!« hauchte er angstvoll. »Das Geld! Den
+einen — schoß — ich — nieder. Der andere — entkam!«
 
-»Beunruhigen So sich nicht!« erklärte Harst und hob
-den Rucksack empor. »Hier sind die Banlknotenpaketel
+»Beunruhigen Sie sich nicht!« erklärte Harst und hob
+den Rucksack empor. »Hier sind die Banknotenpakete!
 Auch Herr Colding ist bereits befreit.«
 
 Dann brachten wir den Verwundeten — es war der
 Kaufmann Siverdsen aus Odda — nach der Haukeli Hütte,
 wo Harald ihn verband. Die Kugeln hatten zum Glück
 beide die Lunge nur gestreift. Herr Siverdsen war denn
-auch vier Wochen später völlig wiederhberagestellt.
+auch vier Wochen später völlig wiederhergestellt.
 
-Erst gegen drei Uhr morgens konnten wir Asb5ru
+Erst gegen drei Uhr morgens konnten wir Asbörn
 Prang und den beiden Hotelgästen folgen, die, mit Tauen
-und Leitern aunsgerüfiet, in die Schlucht vorausgeeilt War
-ren, um nach Orstra zu suchen.
+und Leitern ausgerüstet, in die Schlucht vorausgeeilt waren,
+um nach Orstra zu suchen.
 
 <@pagebreak/>
-Wir mußten wieder Die beiden Tunnel passieren, mußten
+Wir mußten wieder die beiden Tunnel passieren, mußten
 also nochmals an der Stelle vorüber, wo Orstras
 Helfershelfer lag.
 
-Wieder stammten unsere Taschenlampen auf, als wir
-nun in den zweiten Wurzel einbogen. Wir hatten vorher
-am Rande der Bergstraße in die Schlucht hinab geschaut,
-hatten dort unten jedoch nichts von Laternenschein wahr
-genommen, der uns die Anwesenheit PÞrangs und der by
-den Herren verraten hätte.
+Wieder flammten unsere Taschenlampen auf, als wir
+nun in den zweiten Tunnel einbogen. Wir hatten vorher
+am Rande der Bergstraße in die Schlucht hinabgeschaut,
+hatten dort unten jedoch nichts von Laternenschein wahrgenommen,
+der uns die Anwesenheit Prangs und der beiden
+Herren verraten hätte.
 
-»Vorsicht!« meinte Harald jetzt. »Vorsicht, mein A.
+»Vorsicht!« meinte Harald jetzt. »Vorsicht, mein Alter.
 Prang muß die Schlucht doch längst abgesucht haben.
 Ich glaube fast, Orstra hat Glück gehabt und ist entwischt.
-Wenn er aber entwischt ist, tun wir gut, nicht so treulos
-Dielen Tunnel zu passieren.«
+Wenn er aber entwischt ist, tun wir gut, nicht so sorglos
+diesen Tunnel zu passieren.«
 
 Er schaltete seine Lampe aus, sagte leiser: »Bedecke
-die Linse Deiner Lampe mit den Blinzeln und laß nur einen
-schmalen Strahl: durch die Finger gleiten. Halte die
-Band weit zur Seite gestrebt!«
+die Linse Deiner Lampe mit den Fingern und laß nur einen
+schmalen Strahl durch die Finger gleiten. Halte die
+Hand weit zur Seite gestreckt!«
 
-Freilich — wenn Orstra jetzt wirklich uns mit Revol-perfugelu
-bedenken wollte, würde ihm das Zielen fehl
-schwer falten. Bei diesem schwachen Licht Baume er und
-besticht einmal als dunklere Schatten erkennen.
+Freilich — wenn Orstra jetzt wirklich uns mit Revolverkugeln
+bedenken wollte, würde ihm das Zielen sehr
+schwer fallen. Bei diesem schwachen Licht konnte er uns
+nicht einmal als dunklere Schatten erkennen.
 
-Wir bewerten uns möglichst Seife vorwärts, kamen um
-ie Biegung herum. blieben steten,
+Wir bewegten uns möglichst leise vorwärts, kamen um
+die Biegung herum, blieben stehen.
 
-Bot uns ein schwacher Lichtschein und ‘ganz undeutlich
-Mine kniende Gestalt.
+Vor uns ein schwacher Lichtschein und ganz undeutlich
+eine kniende Gestalt.
 
-Sept seltsame Laute — Weinen, Schluchzen.
+Jetzt seltsame Laute — Weinen, Schluchzen.
 
 Das war ein Weib, die da neben dem Toten kniete,
-in Weib, ohne jedes Interesse für ‚die Umgebung, ganz
+ein Weib, ohne jedes Interesse für die Umgebung, ganz
 ausgelöst in Trauer und Schmerz.
 
 »Die andere Seite des Dramas!« flüsterte Harald, der
-seiner Hand schnell meine Taschenlampe bedeckt hatte.
+mit seiner Hand schnell meine Taschenlampe bedeckt hatte.
 
 Ich starrte hinüber. — Die andere Seite des Dramas?!
-Bai dich das —?
+Was hieß das —?
 
-»Mary Colding!« sagte Harst dann gar leise mit Werk
-würdiger Betonung. »Nur sie an es sein — sie und der
-Bann He sie nicht heiraten sollte!«
+»Mary Colding!« sagte Harst dann ganz leise mit merkwürdiger
+Betonung. »Nur sie kann es sein — sie und der
+Mann den sie nicht heiraten sollte!«
 
 »Der Tote — Austin Parkner?! Und — Parkner ein
-Ehe Drftragtie meinte Ich zweifelnd.
+Genosse Orstras?!« meinte ich zweifelnd.
 
-»Das glaube ich nicht ch nehme etwas anbetet am,
+»Das glaube ich nicht. Ich nehme etwas anderes an.
 <@pagebreak/>
-Denke an Marys merkwürdiges Benehmen, als sie mü
+Denke an Marys merkwürdiges Benehmen, als sie mit
 Jane auf der Jacht war. Sie sprach kein Wort. Die
-Ehe, die Milch streiften, verrieten Feindseligkeit und —
+Blicke, die mich streiften, verrieten Feindseligkeit und —
 Angst! Erst zum Schluß betonte sie, daß sie dagegen gewesen
 sei, mich um Hilfe zu bitten. Und nachher schrieb sie
 den zweiten Drohbrief. Sie hat es getan, denn Orstra log,
@@ -1572,66 +1570,66 @@ als er behauptete, er hätte unter dem Personal des Haukeli
 einen Helfershelfer. Sie schrieb den Brief und legte
 ihn Jane ins Zimmer; sie wollte um jeden Preis mich ausschalten.
 Und Jane Colding war ja auch bereits ängstlich
-geworden. — Begreifst Du jetzt? Mary tat all das Bin
+geworden. — Begreifst Du jetzt? Mary tat all das für
 Austin Parkner, wollte ihm den Streich erleichtern, wollte
 ihm jede Gefahr beseitigen. Sie war eingeweiht in das,
-As er vorhatte. — Komm, diese Nacht hat mir einen bösen
-Fehlschlag gebracht; ich habe fünf Minuten zu spä!
+was er vorhatte. — Komm, diese Nacht hat mir einen bösen
+Fehlschlag gebracht; ich habe fünf Minuten zu spät
 Orstras wahre Absichten erkannt. Gewiß — die Millionen
-sind gerettet. Aber — ein Toter und ein Verwundete!
-stehen auf dem Konto *meiner* Denfkfschler. Da will ich
-nicht, daß auch noch diese verirrte — durch Zirkus verirrte
-Mädchenseele in dieser Nacht Vater und Schwester aganj
+sind gerettet. Aber — ein Toter und ein Verwundeter
+stehen auf dem Konto *meiner* Denkfehler. Da will ich
+nicht, daß auch noch diese verirrte — durch Liebe verirrte
+Mädchenseele in dieser Nacht Vater und Schwester ganz
 verliert.«
 
-Wir näherten uns der Surrenden leise. Erst als wi
+Wir näherten uns der Knieenden leise. Erst als wir
 neben ihr standen, bemerkte sie uns.
 
 Sie erhob sich langsam.
 
 »Miß Mary,« sagte Harald gütig, »kehren Sie nach der
 Haukeli-Hütte zurück. Es wird niemand erfahren, daß
-Austin Parkner Sie heimlich begleitet hat und daß Ihr«
-Abneigung gegen lehren Vater Sie ein verwersliches Mittel
-billigen ließ, um ein Vermögen zu erringen! — Geben
-Sie, Miß! Schraut und ich werden traurigen!«
+Austin Parkner Sie heimlich begleitet hat und daß Ihre
+Abneigung gegen Ihren Vater Sie ein verwerfliches Mittel
+billigen ließ, um ein Vermögen zu erringen! — Gehen
+Sie, Miß! Schraut und ich werden schweigen!«
 
-»ich — ich danke Ihnen!« hauchte sie.
+»Ich — ich danke Ihnen!« hauchte sie.
 
-Dann warf sie sich über den Toten, fühle die erhärteten
+Dann warf sie sich über den Toten, küßte die erhärteten
 Lippen, richtete sich auf, nahm ihre Taschenlampe und
 sagte mit einem Male völlig gefaßt:
 
-»Ich werde Streng Orstra Deck helfen, Herr Harst
-Deshalb verließ ich nur die Haukeli- Hütte.«
+»Ich werde Ihnen Orstra suchen helfen, Herr Harst.
+Deshalb verließ ich nur die Haukeli-Hütte.«
 
 Orstra wurde nicht gefunden. Auch die Edelsteine waren
 nicht wieder herbeizuschaffen. Sie mußten in eine
-schmale Felsspalte hineingerollt fein.
+schmale Felsspalte hineingerollt sein.
 
-Da Ruhig Parkner keinerlei VPapiere bei sich hatte.
+Da Austin Parkner keinerlei Papiere bei sich hatte,
 <@pagebreak/>
-konnte nicht festgestellt werden, wer der Mann daran, den
-Herr Siverdsen aus Odda für einen Komplicen Orstras-ge-halten
+konnte nicht festgestellt werden, wer der Mann war, den
+Herr Siverdsen aus Odda für einen Komplicen Orstras gehalten
 hatte und von dem Harald behauptete — nur mir
 gegenüber! —, daß Mary und Parkner nach Coldings Verschwinden
 den Entschluß gefaßt hätten, sich die drei Millionen
-Kronen ge Zwei Männer lauerten davor
-dem Getraute im Gletschertunnel aus: Orstra und
-Ballast, — jeder für sich! — Daß dies so gewesen, ergab
-sich aus Siverdsens Aussage: der Schinvarzbärtige hatte
-das Auto von hinten erklettert, Siverdsen hatte ihn herun-tergestoßen
+Kronen anzueignen. Zwei Männer lauerten daher
+dem Geldauto im Gletschertunnel auf: Orstra und
+Parkner, — jeder für sich! — Daß dies so gewesen, ergab
+sich aus Siverdsens Aussage: der Schwarzbärtige hatte
+das Auto von hinten erklettert, Siverdsen hatte ihn heruntergestoßen
 und sofort gefeuert; dann war der zweite Mann
-neu vorn erschienen und hatte. seinerseits awveinutal abgeht.
+von vorn erschienen und hatte seinerseits zweimal abgedrückt.
 
 So blieben denn die Ereignisse dieser Nacht nur in
 einem Punkte ungeklärt — wenigstens vorläufig: wo war
-die Person geblichen, die hier die Gattin des Professors
-gespielt er Wer war diese Person gewesen? schlich
-ein
+die Person geblieben, die hier die Gattin des Professors
+gespielt hatte? Wer war diese Person gewesen? Wirklich
+ein Weib?
 
 Diese Fragen kann ich erst in bei folgenden Erzählung
-ittowrien ...
+beantworten ...
 
 <@pagebreak 34/>
 
@@ -1664,143 +1662,142 @@ Touristen morgens sechs Uhr von ihm einen Wagen
 gemietet hätten, um sich nach Dahlen zu begeben. —
 
 Prang, Harst und ich waren nachmittags vier Uhr in
-Dahlen. Unterwegs hatten wir Durch Befragen von Tele-araphenarbeitern,
-Die die Leitung neben der Bergstraße
+Dahlen. Unterwegs hatten wir durch Befragen von
+Telegraphenarbeitern, die die Leitung neben der Bergstraße
 ausbesserten und in kleineren Trupps arbeiteten, festgestellt,
 daß die Engländer, also Orstra und seine »Frau«, tatsächlich
 die Richtung nach Dahlen beibehalten hatten.
 
-Aber — der zweirädrige Wagen und der Kutscher wa-LA
-Dahlen mit den beiden Fahrgästen *nicht* Ginge
-en.
+Aber — der zweirädrige Wagen und der Kutscher waren
+in Dahlen mit den beiden Fahrgästen *nicht* eingetroffen.
 
-Wir verloren fünf kostbare Stunden, bevor wir ermit-Zelt
-hatten, daß der Wagen vor Dahlen nach Osten in Eis
+Wir verloren fünf kostbare Stunden, bevor wir ermittelt
+hatten, daß der Wagen vor Dahlen nach Osten in einen
 <@pagebreak/>
-nen Seitenweg abgebogen war. Und erst gegen zehn
-Uhr abends fanden wir Pferd, Wagen und den gefeiert?-
-ten Kutscher in einem öden Tale auf. Der Kutscher war
-von den Verbrechern überwältigt worden, da er sich aewci-gert
-hatte, noch tiefer ins Gebirge hineinzufahren. Er er
-klärte, die beiden Engländer seien ohne Zweifel Männer
+Seitenweg abgebogen war. Und erst gegen zehn
+Uhr abends fanden wir Pferd, Wagen und den gefesselten
+Kutscher in einem öden Tale auf. Der Kutscher war
+von den Verbrechern überwältigt worden, da er sich geweigert
+hatte, noch tiefer ins Gebirge hineinzufahren. Er erklärte,
+die beiden Engländer seien ohne Zweifel Männer
 gewesen. Davon, daß einer etwa ein verkleidetes Weib
 hätte sein können, wollte er durchaus nichts wissen.
 
 Die Spuren der beiden waren uns so verloren gegangen.
 Wir mußten es daher dem Zufall überlassen,
-irgendwo abermals mit Orstra zusammenzutresfen. Daß
-dies geschehen würde, Daran zweifelten wir nicht.
+irgendwo abermals mit Orstra zusammenzutreffen. Daß
+dies geschehen würde, daran zweifelten wir nicht.
 
 Als wir gegen zwölf Uhr nachts ins Hotel Dahlen
 nach der Auffindung des Wagens zurückgekehrt waren,
-trat es bereits zu spät, um noch zu Bug bis zu jener südlichen
+war es bereits zu spät, um noch zu Fuß bis zu jener südlichen
 Bucht zu wandern, wo die Motoryacht Miramare
-noch immer in ihrem Verlieh vor Anker lag — oder doch
+noch immer in ihrem Versteck vor Anker lag — oder doch
 vor Anker liegen mußte, wie wir bestimmt annahmen. Wir
 wollten die Nacht also im Hotel zubringen.
 
-Der Hotelbesitzer hatte uns noch schnell h eigenhändig
+Der Hotelbesitzer hatte uns noch schnell höchst eigenhändig
 ein warmes Gericht zubereitet, und gegen halb eins
 saßen Prang und wir beide im öden Speisesaal an einer
-he der langen Tafel und aßen mit gutem Appetit das
-Hastige Schmuck und tranken dazu eine Flasche Rotwein.
+Ecke der langen Tafel und aßen mit gutem Appetit das
+saftige Schnitzel und tranken dazu eine Flasche Rotwein.
 
-Herr Blörne, der Wirt, brachte uns jetzt alt Nachtisch
-noch einen Pudding und wurde von Harald gebeten, eben.
-falls am Tische Plan zu nehmen,
+Herr Blörne, der Wirt, brachte uns jetzt als Nachtisch
+noch einen Pudding und wurde von Harald gebeten, ebenfalls
+am Tische Platz zu nehmen.
 
-alle ihre Harftö hatte ohne Zweifel eine besondere
+Diese Bitte Harsts hatte ohne Zweifel eine besondere
 Bedeutung.
 
 Und wirklich: Harald begann Herrn Blörne jetzt nach
 neu eingetroffenen Gästen auszufragen.
 
-Blörne erklärte, nachmittags leben mit dem PDampfer
-von Stier zehn Gäste und abends gegen acht von Odda
-mit den Personenautos weitere sieben Reisende angekomst
-nen, außerdem noch vier Touristen zu Fuß, und zwar zwei
-Ehepaare,
+Blörne erklärte, nachmittags seien mit dem Dampfer
+von Skien zehn Gäste und abends gegen acht von Odda
+mit den Personenautos weitere sieben Reisende angekommen,
+außerdem noch vier Touristen zu Fuß, und zwar zwei
+Ehepaare.
 
-Kür Diese Ehepaare hatte Harst ein besonderes, leicht
-beareifliches Interesse.
+Für diese Ehepaare hatte Harst ein besonderes, leicht
+begreifliches Interesse.
 
 Er ließ Blörne das Fremdenbuch holen. Als der
 <@pagebreak/>
-vorne Speisesaal verlassen hatte, sagte Harald zu Prang
+Wirt den Speisesaal verlassen hatte, sagte Harald zu Prang
 und mir:
 
 »Wir müssen damit rechnen, daß Orstra und der andere
-die Kecsheit gehabt haben und hier abgestiegen sind. Zuzutrauen
+die Keckheit gehabt haben und hier abgestiegen sind. Zuzutrauen
 ist ihnen das schon.« —
 
-Ach muß hier einfügen, daß das Hotel Dahlen eigene
-Karbidbeleucktuna hat. Ueber unserem Lage brannten
+Ich muß hier einfügen, daß das Hotel Dahlen eigene
+Karbidbeleuchtung hat. Ueber unserem Platze brannten
 drei Flammen einer Krone.
 
-Harald hatte kaum das lebte Wort ausgesprochen, als
+Harald hatte kaum das letzte Wort ausgesprochen, als
 er plötzlich mit einem wahren Akrobatensatz auf den Tisch
 sprang, dabei einen Teller und ein Glas herabwarf und
 — die drei Hähne der Krone blitzschnell zudrehte.
 
 Ebenso rasch war er dann im Dunkeln wieder vom
-Tische  herabgesprungen und in den Hotelflur geeilt.
+Tische herabgesprungen und in den Hotelflur geeilt.
 
 »Ihm nach!« meinte Prang. »Auch ich habe das Gesicht
 am mittleren Fenster bemerkt!«
 
-Harald war schon draußen im Hotelgarten. Wir traurig
-auf dem Hauptwege, wo er, die Clement in der
-Rechten, argwöhnisch Die Büsche musterte.
+Harald war schon draußen im Hotelgarten. Wir trafen
+ihn auf dem Hauptwege, wo er, die Clement in der
+Rechten, argwöhnisch die Büsche musterte.
 
 »Es war jemand hier draußen am Fenster,« flüsterte
-er, »ein Mann mit hellem Beiboot und blanker Stabe.
-Dr schien eine Brille oder einen reifer zu tragen. Die
+er, »ein Mann mit hellem Vollbart und blanker Glatze.
+Er schien eine Brille oder einen Kneifer zu tragen. Die
 Hoteltür zum Garten war nicht verschlossen. Es kann ein
-Hotelgast gewesen fein,«
+Hotelgast gewesen sein.«
 
 Prang erklärte, der Mann habe eine Hornbrille mit
-runden Gläsern ausgeholt. »Als ich hivscvaute, hielt er
-noch schnell die Hand vor das Gesicht und Mensch van,
-Bann sprangen Sie schon auf den Tisch, Harst —«
+runden Gläsern aufgehabt. »Als ich hinschaute, hielt er
+noch schnell die Hand vor das Gesicht und verschwand.
+Dann sprangen Sie schon auf den Tisch, Harst —«
 
 Herr Blörne kam jetzt gleichfalls in den Garten. Die
-mondhelle Nacht ließ fein bestirzies Gesicht deutlich rennen.
+mondhelle Nacht ließ sein bestürztes Gesicht deutlich erkennen.
 
 »Was ist denn geschehen?« meinte er.
 
-»Gehen wir in Ihr Büro, »Herr YBlörne,« sagte Harald
-kurz. »Es hat Kenflerinne 11. Dort können wir nicht durch
+»Gehen wir in Ihr Büro, »Herr Blörne,« sagte Harald
+kurz. »Es hat Fensterladen. Dort können wir nicht durch
 eine Revolverkugel gestört werden.«
 
-Blörne blickte sehen umher. Wir betraten das Hotel
+Blörne blickte scheu umher. Wir betraten das Hotel
 und setzten uns in das Büro um den mit Papieren bedecken
-Sofatifit,
+Sofatisch.
 
-Harst beschlich Blörne nun das Besticht am Fenster.
+Harst beschrieb Blörne nun das Gesicht am Fenster.
 
 <@pagebreak/>
 Der Wirt dachte nach. Dann erklärte er sehr der
 stimmt:
 
-»Das kann nur einer der beiden Herren fein, die gegen
+»Das kann nur einer der beiden Herren sein, die gegen
 halb acht Uhr mit ihren Frauen zu Fuß eintrafen.«
 
 Er nahm das Fremdenbuch, schlug es auf und zeigte
-auf eine Eintragung, eine der lebten.
+auf eine Eintragung, eine der letzten.
 
 »Dies ist er: Samuel Goldner, Bankier, Kopenhagen,
-nebst Frau, —«
+nebst Frau —«
 
-Harald prüfte die Schrift,
+Harald prüfte die Schrift.
 
 »Habe ich noch nie gesehen,« meinte er. »Welches Zimmer
 hat Herr Goldner?«
 
 »Nummer 18 im Erdgeschoß.«
 
-»So — 18! Das liecat dicht am Gartenausgang.«
+»So — 18! Das liegt dicht am Gartenausgang.«
 
-»xja .— ganz dicht — das zweite rechts.«
+»Ja — ganz dicht — das zweite rechts.«
 
 »Wir werden Herrn Goldner fragen, was er draußen
 am Fenster des Speisesaales jetzt um ein Uhr nachts
@@ -1813,32 +1810,32 @@ die Clement.
 Prang achselzuckend.
 
 Harald stand noch regungslos da und starrte auf das
-ausfgeschlagene Fremdenbuch.
+aufgeschlagene Fremdenbuch.
 
-»Ich glaube, die Sache ist anders!« flüsterte er. »Golde
-ner — Goldner —! Ich habe den Rauen letztens irgendeine
+»Ich glaube, die Sache ist anders!« flüsterte er. »Goldner
+— Goldner —! Ich habe den Namen letztens irgendwo
 gelesen. Orstra wäre wohl kaum so unvorsichtig gewesen,
-aus diese Weise zu spionieren. Außerdem ist die Schrift
-dort sehr charakteristisch, Es ist die eines Mannes, der
+auf diese Weise zu spionieren. Außerdem ist die Schrift
+dort sehr charakteristisch. Es ist die eines Mannes, der
 außerordentlich pedantisch, selbstsüchtig, berechnend, aber
-»doch harmlos ist. Die Schriftzüge lassen jedes Merkmal
+doch harmlos ist. Die Schriftzüge lassen jedes Merkmal
 verbrecherischer Veranlagung vermissen.«
 
 Dann trat er in die dunkle Vorhalle hinaus, hob die
 Clementpistole mit jäher Bewegung und rief:
 
-»Halt! — Heben Sie die Arme Hieben Bad, Herr
+»Halt! — Heben Sie die Arme lieber hoch, Herr
 Goldner!«
 
-Der breite Lichtschein, der durch Die offene Bürotür In
+Der breite Lichtschein, der durch die offene Bürotür in
 die Vorhalle drang, umspielte die korpulente Gestalt eines
-»mittelgroßen Mannes, der vor dem runden Mittelsosa der
-Vorhalle stand und jetzt angstvoll in gutem Englisch lief:
+mittelgroßen Mannes, der vor dem runden Mittelsofa der
+Vorhalle stand und jetzt angstvoll in gutem Englisch rief:
 <@pagebreak/>
 »Master Harst — ich wollte Sie ja nur unauffällig
 sprechen!«
 
-Ri einem Ruck battl er auch beide Arme sofort heiser
+Mit einem Ruck hatte er auch beide Arme sofort hochgereckt.
 
 Harald lachte. »Unauffällig nennen Sie das, Mr.
 Goldner?! — Gut — treten Sie hier ein!«
@@ -1846,130 +1843,130 @@ Goldner?! — Gut — treten Sie hier ein!«
 Goldner gehorchte zögernd.
 
 »Setzen Sie sich, Mr. Goldner!« Harald drückte die
-Tue M und schloß ab. =-
+Tür zu und schloß ab.
 
 Der Dicke mit dem rotblonden kurzen Vollbart und
-der Hornbrille nahm behutsam ‘Plan, indem er den Schoß
+der Hornbrille nahm behutsam Platz, indem er den Schoß
 seiner Touristenjoppe etwas hochhob.
 
 Seine halb zugekniffenen Schweinsäuglein irrten von
-Blörne zu Prang, dann zu mir und blieben nun auf Ha-zald
+Blörne zu Prang, dann zu mir und blieben nun auf Harald
 haften, der sich an die Tür gelehnt hatte.
 
 »Mr. Harst,« sagte er unsicher, »dies — dies lag nicht
 in meiner Absicht!«
 
-glaube ich, Mr. Goldner. »Unauffällig war das
-ha
+»Das glaube ich, Mr. Goldner. »Unauffällig war das
+nicht!«
 
-»Leider nein!« Abermals schaute der dies Herr auf
-Das und Blörne und Dünste hinzu: »Ich möchte mal Ich
-nen, Mr. Warst, und Zittern Fremde Schraut eine kurze
-Mitteilung machen«
+»Leider nein!« Abermals schaute der dicke Herr auf
+Prang und Blörne und fügte hinzu: »Ich möchte nur Ihnen,
+Mr. Harst, und Ihrem Freunde Schraut eine kurze
+Mitteilung machen.«
 
-»Also sollen Blörne und ich verschwinden,« Saale
-Prang keineswegs empfindlich, »Gehen wir, Herr Blörne.«
+»Also sollen Blörne und ich verschwinden,« sagte
+Prang keineswegs empfindlich. »Gehen wir, Herr Blörne.«
 
-»Nein!« entschied Harald. »Sie und Herr Blöcrne
-werden gegen so diskret sein die wir, lieber Prang. -
-Mr. Goldner, erleichtern Sie also Ihr Herz, — Einen Augenblick
+»Nein!« entschied Harald. »Sie und Herr Blörne
+werden gegen so diskret sein wie wir, lieber Prang.
+Mr. Goldner, erleichtern Sie also Ihr Herz. — Einen Augenblick
 noch!« —
 
 Er ging zum Zeitungsständer und nahm die Zeitungen
-der lebten vier Tage heraus, legte sie auf den Tisch und
+der letzten vier Tage heraus, legte sie auf den Tisch und
 schien darin einen bestimmten Artikel zu suchen, rief dann:
 
-»Hier háäben wir’s ja! Die Abendpost aus Christiania
+»Hier haben wir’s ja! Die Abendpost aus Christiania
 meldet vom 18. August des Jahres:
 
-»Dem Bankier Hammel Goldner aus Kopenhagen, einem
+»Dem Bankier Samuel Goldner aus Kopenhagen, einem
 der bekanntesten Großfinanziers Dänemarks ist am
-16\. des Monats feine Motoryacht »Kattegatt« aus unserem
+16\. des Monats seine Motoryacht »Kattegatt« aus unserem
 Hafen offenbar gestohlen worden. Herr Goldner befindet
-sich zur Zeit auf einer Patrone mit seiner Gattin in Telemarken
+sich zur Zeit auf einer Fußtour mit seiner Gattin in Telemarken
 und hatte dem Kapitän seiner Jacht, mit der er am
 <@pagebreak/>
 14\. d. M. hier eingetroffen war, Befehl gegeben, ihn am 22.
-von Stier abzuholen. Am 16. morgens war die ach jedoch
+von Skien abzuholen. Am 16. morgens war die Jacht jedoch
 aus dem Hafen verschwunden. Besondere Umstände
-»beuten darauf hin, daß die Kattegatt gewaltsam
-worden ist, Den Kapitän und die drei Jachtmatrosen sowie
+deuten darauf hin, daß die Kattegatt gewaltsam entführt
+worden ist. Den Kapitän und die drei Jachtmatrosen sowie
 den Koch und die Zofe Frau Goldners entdeckte man
 am 16. mittags auf einer kleinen Fjordinsel. Die sechs
-Personen konnten ‘nur angeben, daß sie nach dem am 15.
+Personen konnten nur angeben, daß sie nach dem am 15.
 an Bord eingenommenen Abendessen von einer unerklärlichen
 Schlafsucht befallen worden waren und sich daher in
-schier Kabinen zurückgezogen hatten, wo sie auch sogleich ein-fchliefen.
+ihre Kabinen zurückgezogen hatten, wo sie auch sogleich einschliefen.
 Als sie erwachten, lagen sie in den Büschen der
-feinen Fijordinsel, fühlten sich aber so elend, daß sie sich
+kleinen Fijordinsel, fühlten sich aber so elend, daß sie sich
 nicht aufzuraffen vermochten. Ein Fischer, der zufällig nach
-der Insel kam, brachte sie dann mit feinem Kutter nach
+der Insel kam, brachte sie dann mit seinem Kutter nach
 Christiania, wo man die Leute sofort im Krankenhaus in
 ärztliche Behandlung nehmen mußte. — Herr Goldner
 hatte befohlen, ihm die Briefe nach dem Hotel Dahlen in
-Dahlen nahzusenden, so daß, da sein Aufenthalt zur Zeit
+Dahlen nachzusenden, so daß, da sein Aufenthalt zur Zeit
 unbekannt ist, ihm die Nachricht von dem Vorgefallenen erst
-ja Dahlen zugehen kann. Die Ermittlungen unserer Polizei
+in Dahlen zugehen kann. Die Ermittlungen unserer Polizei
 haben bisher diesen Streich moderner Piraten, der uns
-die Zeiten von vor hundersünfzia Jahren zurlickverscvt,
+in die Zeiten von vor hundertfünfzig Jahren zurückversetzt,
 nur insofern aufklären können, als drei Zeugen gefunden
-Kind, die beobachtet haben, wie die elegante weiße Jacht,
-nebenbei eines der luxuriösesten Privatsahrzeuge Bureaus,
+sind, die beobachtet haben, wie die elegante weiße Jacht,
+nebenbei eines der luxuriösesten Privatfahrzeuge Europas,
 den Hafen genau um Mitternacht verließ.
 
-Diese Zeugen sind drei Matrosen von drei verschiede-zen
+Diese Zeugen sind drei Matrosen von drei verschiedenen
 hier ihre Ladung löschenden Dampfern. Sie haben
-bereinstinunend betont, ‘daß die Jacht sich in demselben
-Moment in Bewegung gaesevt habe, als die große Hafenuhr
+übereinstimmend betont, daß die Jacht sich in demselben
+Moment in Bewegung gesetzt habe, als die große Hafenuhr
 Zwölf zu schlagen begann. Weit wichtiger ist die Behauptung,
-daß zur selben Zeit ein von fünf Männern bemann-es
-Boot auf die Jacht sehr eilig zu gerudert sei, dann aber
+daß zur selben Zeit ein von fünf Männern bemanntes
+Boot auf die Jacht sehr eilig zugerudert sei, dann aber
 habe umkehren müssen, weil es die Kattegatt nicht mehr
 einholen konnte. Die fünf Männer seien keine Matrosen
-erbeten, sondern hätten ganz den Eindruck von Touristen
-Ader von Zugehörigen der wohlhabenden Stände gemacht.
-Xbr Boot sei dann wieder in der Richtung auf die Festung
-erêbus verschwunden.
+gewesen, sondern hätten ganz den Eindruck von Touristen
+oder von Zugehörigen der wohlhabenden Stände gemacht.
+Ihr Boot sei dann wieder in der Richtung auf die Festung
+Akershus verschwunden.
 
 <@pagebreak/>
 Unsere Polizei ist der Meinung, daß es sich hier nicht
-um einen Schisssraub als solchen handelt, sondern daß die
+um einen Schiffsraub als solchen handelt, sondern daß die
 Piraten, die sehr wohl wissen, daß die Jacht unverkäuflich
 ist, das elegante Luftfahrzeug ausplündern und dann
-versenken werden. Die Motoren allein sind 250 000 ziert
-[nen wert; die Lichtanlage, die Möbel, die Epieaclichriben,
+versenken werden. Die Motoren allein sind 250 000 Kronen
+wert; die Lichtanlage, die Möbel, die Spiegelscheiben,
 Messingteile und Tauwerk mindestens ebenso viel.
 
 Es wäre Herrn Goldner vielleicht anzuraten, sich an
-Harald Harst zu wenden, der sich in Dahlen zulebßt gerann
-halten hat, und ihn zu bitten, diesen Schifssdiebftah1 zu
+Harald Harst zu wenden, der sich in Dahlen zuletzt aufgehalten
+hat, und ihn zu bitten, diesen Schiffsdiebstahl zu
 untersuchen, der fraglos einen sorgfältig vorbereiteten
 Streich darstellt.«
 
 Harald legte die Zeitung weg.
 
-»So, nun wissen wir ja, was vorgefallen ist, Mr.
-Bare meinte er. »Wann erfuhren Sie von dem Diebstahl?«
+»So, nun wissen wir ja, was vorgefallen ist. Mr.
+Goldner,« meinte er. »Wann erfuhren Sie von dem Diebstahl?«
 
-»Am vergangenen Abend gegen acht Uhr. Ich. holte
-mir die Briefsachen hier von der ‘Postagentur ab, und darunter
-befanden sich auch zwei Bereisten und ein Brief
-Kapitän Bollings, der mir den Raub der Motor mehr
-[ne und um Verhaltungsmaßregeln bat.«
+»Am vergangenen Abend gegen acht Uhr. Ich holte
+mir die Briefsachen hier von der Postagentur ab, und darunter
+befanden sich auch zwei Depeschen und ein Brief
+Kapitän Bollings, der mir den Raub der Kattegatt meldete
+und um Verhaltungsmaßregeln bat.«
 
 <h2>2. Kapitel.</h2>
-<h3>Berdachtömomente.</h3>
+<h3>Verdachtsmomente.</h3>
 
-Harald hatte noch halb aus die Seitenlehue des Südens
-gelebt und spielte mit feiner goldenen Zigarettendose.
+Harald hatte sich halb auf die Seitenlehne des Sofas
+gesetzt und spielte mit seiner goldenen Zigarettendose.
 
-»Dann kleideten Sie sich völlig nun, Mr. Goldner, und
-spähten durch das Fenster in den Speisesaal« Meute
+»Dann kleideten Sie sich völlig an, Mr. Goldner, und
+spähten durch das Fenster in den Speisesaal?« meinte
 Harst und nahm eine Mirakulum aus dem Etui.
 
-»Ja, Mr. Harst. — Wir können auch Deutsch zieren,
-falls Herr Blörne und Herr Prang das Deutsche See
-herrschen —«
+»Ja, Mr. Harst. — Wir können auch Deutsch sprechen,
+falls Herr Blörne und Herr Prang das Deutsche beherrschen
+—«
 
 Haralds rieb ein Zündholz an.
 
@@ -1977,57 +1974,57 @@ Haralds rieb ein Zündholz an.
 diesem Fall beschäftige —«
 
 »Wünschen?! Ich könnte nur darum bitten, Herr
-Gunst —«
+Harst —«
 
 <@pagebreak/>
 »Gut. Ich will es tun. Wir werden morgen nach
 Christiania fahren. Lord Plemborn hat mir seine kleine
-einflocht Miramare zur Verfügung Eiern die in der
-Südecke des Dahlen-Sees vor Anker liegt. Ach lade Sie
+Motorjacht Miramare zur Verfügung gestellt, die in der
+Südecke des Dahlen-Sees vor Anker liegt. Ich lade Sie
 und Ihre Gattin ein, uns zu begleiten.«
 
-Gier Dank. Bann soll die Abfahrt erfolgen, Herz
-rar y,
+»Vielen Dank. Wann soll die Abfahrt erfolgen, Herr
+Harst?«
 
 »Um zehn Uhr vormittags. — Jetzt wollen wir zur
-Ruhe eben meine Herren. Ich bin sehe müde und abge-paun
+Ruhe gehen, meine Herren. Ich bin sehr müde und abgespannt.«
 
 Daß dies nicht ganz stimmte, merkte ich in unserem
 gemeinsamen Wohnsalon.
 
 Kaum waren wir hier allein, als Harald mir beide
-Bände auf die Schultern legte und flüsterte:
+Hände auf die Schultern legte und flüsterte:
 
-»Du — das wird eine große Saure! Der brave Geldgier
+»Du — das wird eine große Sache! Der brave Goldner
 mag ein schlauer Börsenjobber fein; für andere Dinge
-leicht es weniger — nämlich das Hirn!«
+reicht es weniger — nämlich das Hirn!«
 
-Ich blickte ihn fragend an. Da lächelte er fein, lebte
-ich in Die Sofaeckte, winkte mich neben sich und fragte leise,
+Ich blickte ihn fragend an. Da lächelte er fein, setzte
+sich in die Sofaecke, winkte mich neben sich und fragte leise,
 denn hier im Hotel Dahlen waren die Wände sehr dünn
-nd nur aus Holz:
+und nur aus Holz:
 
 »Goldner hat am 14. mit seiner Frau zu Fuß von
-Hrifliania seine Tour nach Telemarken verrannen. Heute
-ﬅ der 24. Also hat er, da er sich erst gestern abend hier
-eine Postsachen abholte, neun Tage ohne jede Nachricht zur
-gebracht. — Wer tut das?! » Jeder Mensch läßt sich auf
-er Reise seine Post so nacschicken, daß er doch mindestens
-Eden dritten Tag in der Lage ist, festzustellen, ob nicht darein
+Christiania seine Tour nach Telemarken begonnen. Heute
+ist der 24. Also hat er, da er sich erst gestern abend hier
+seine Postsachen abholte, neun Tage ohne jede Nachricht zugebracht.
+— Wer tut das?! Jeder Mensch läßt sich auf
+der Reise seine Post so nachschicken, daß er doch mindestens
+jeden dritten Tag in der Lage ist, festzustellen, ob nicht daheim
 sich Wichtiges ereignet hat. Goldner ist nun sogar
-Sanfter, Börsenmann!« -
+Bankier, Börsenmann!«
 
 »Ich verstehe. Du meinst, er hat absichtlich keinerlei
 Nachrichten erhalten wollen!«
 
-»Ja. Das behaupte ich, — Dann zweitens: Das Stubenmädchen
+»Ja. Das behaupte ich. — Dann zweitens: Das Stubenmädchen
 meldet ihm, daß wir im Speisesaal sitzen. Was
-ist er?! Anstatt in den Speisesaal zu kennen, schleicht er
-Draußen herum und späht durch das Fenster, hält sich den
-Arm vors Gesicht, als Prang hüblickt, und — versucht uns
-Sann zu belauschen, — denn das wollte er! Er hat sicher
-der Bürotür gehorcht. Nachher gebraucht er eine ober
-Maule Ausrede, — »er habe mich unauffällig Spleen wollen!«
+tut er?! Anstatt in den Speisesaal zu kommen, schleicht er
+draußen herum und späht durch das Fenster, hält sich den
+Arm vors Gesicht, als Prang hinblickt, und — versucht uns
+dann zu belauschen, — denn das wollte er! Er hat sicher
+an der Bürotür gehorcht. Nachher gebraucht er eine oberfaule
+Ausrede, — »er habe mich unauffällig sprechen wollen!«
 <@pagebreak/>
 — Natürlich Schwindel! Er wollte ganz etwas sauberes,
 glaube ich, nämlich durch Horchen feststellen, ob ich
@@ -2035,25 +2032,25 @@ vielleicht über den Diebstahl der Jacht mich äußern würde,
 ob ich also davon bereits Kenntnis hätte und wie ich darüber
 dächte.«
 
-»Maus sein. Und inwiefern sprich das gegen Goldner?«
+»Mag sein. Und inwiefern spricht das gegen Goldner?«
 
-»Neun Tage wandert er, der Eile, behäbige Herr,
+»Neun Tage wandert er, der dicke, behäbige Herr,
 durch das Gebirge, so daß er erst sechs Tage nach dem
 Diebstahl der Jacht hiervon benachrichtigt werden kann.
 Das sieht doch gerade so aus, als ob er den Dieben Zeit
 lassen wollte, ihre Beute in Sicherheit zu bringen, bevor er
 notwendigerweise den gefürchteten menschlichen Spürhund,
 den seit Wochen in Norwegen anwesenden Harald Harst,
-auf die Fährte der Piraten heben mußte, — insofern
-»mußte«, als er damit redmete, daß man ihm dazu dringend
+auf die Fährte der Piraten hetzen mußte, — insofern
+»mußte«, als er damit rechnete, daß man ihm dazu dringend
 raten würde. — Wenn Du Goldners Verhalten kritisch
-prüfst und die Möglichkeit in Betracht siehst, daß er
-aus irgend einem Grunde diesen Schisssraub selbst in
-Szene QR hat, dann wirst Du zugeben müssen, daß mein
+prüfst und die Möglichkeit in Betracht ziehst, daß er
+aus irgend einem Grunde diesen Schiffsraub selbst in
+Szene gesetzt hat, dann wirst Du zugeben müssen, daß mein
 Verdacht gegen den Bankier nicht ganz unbegründet ist.«
 
 »Nicht ganz unbegründet — aber schwach begründet,«
-ächzte ich zögernd.
+sagte ich zögernd.
 
 »Nun gut. — Wenn wir Goldner an Bord der Miramare
 haben, wird sich der Verdacht verstärken, denn dann
@@ -2065,126 +2062,126 @@ nicht mehr einholte?«
 Ich schwieg. Was sollte ich darauf antworten?!
 
 »Und weiter, mein Alter. War es ein Zufall, daß
-er e Kattegatt mit dem Glockenschlage zwöl| darauf
+die Jacht Kattegatt mit dem Glockenschlage zwölf davonfuhr?«
 
 »Wie soll man beweisen, daß es kein Zufall war?!«
 
 »Durch das Boot mit den fünf Herren, — ich betone
 »Herren«, denn die Zeugen hoben hervor, daß sie wie
-Touristen gekleidet waren. Das Boot oder besser die Zulassen
+Touristen gekleidet waren. Das Boot oder besser die Insassen
 mögen gewußt haben, daß die Kattegatt um zwölf
 Uhr den Hafen verlassen würde. Sie wollten an Bord,
 aber — man nahm sie absichtlich nicht mit. Sie waren
 also vielleicht in den Plan eingeweiht.«
 
 <@pagebreak/>
-»Was Du alles heranstüftelft!«
+»Was Du alles heraustüftelst!«
 
-»Ich werde jetzt nichts mehr heraustüfteln, Beine zu
-Bett gehen. Und vielleicht Träume ich davon, daß
-Goldner die Jacht sehr hoch versichert hatte und die Ver-Pennine
-brauchen dann! As ist meine vorläufige
+»Ich werde jetzt nichts mehr heraustüfteln, sondern zu
+Bett gehen. Und vielleicht träume ich davon, daß
+Goldner die Jacht sehr hoch versichert hatte und die
+Versicherungssumme brauchen kann! Das ist meine vorläufige
 Theorie! — Gute Nacht!« —
 
-Morgens um sieben klopfte uns Her: Blörne heraus.
+Morgens um sieben klopfte uns Herr Blörne heraus.
 
-Ein Brief, Herr Harst, — von Herrn Goldner?«
+Ein Brief, Herr Harst, — von Herrn Goldner!«
 
 Der Brief lautete:
 
 > Mein sehr verehrter Herr Harst!
 
 > Die Sorge um das Schicksal meiner Jacht, die zwei
-Millionen Kronen wert ist, hat mir feine Ruhe geizigen.
-Ich bin daher im Auto mit meiner schFrau bereits nach
+Millionen Kronen wert ist, hat mir keine Ruhe gelassen.
+Ich bin daher im Auto mit meiner Frau bereits nach
 Christiania unterwegs, wo ich Sie wiederzusehen hoffe,
-falls Sie nicht gerade Dringenderes vorhaben. Sieben
-falls bitte ich Sie, nicht etwa dieses an Rieb so Trinker
-interessanten Schisssraubes wegen sich irgendwie zu bemüh
-es sei denn, daß Sie die Verfolgung Ottmar Orstra
-vorläufig aufgeben wollen und Feil für dieses belanglose
+falls Sie nicht gerade Dringenderes vorhaben. Jedenfalls
+bitte ich Sie, nicht etwa dieses an sich so
+uninteressanten Schiffsraubes wegen sich irgendwie zu bemühen,
+es sei denn, daß Sie die Verfolgung Ottmar Orstras
+vorläufig aufgeben wollen und Zeit für dieses belanglose
 Verbrechen haben.
 
-> bin Ihr sehr ergebener ne
+> Ich bin Ihr sehr ergebener
 
 > Samuel Goldner.
 
-Wann ist Herr Goldner abgereist 9» Harald den
-Hotelbesitzer, Mr da Eine den
+»Wann ist Herr Goldner abgereist?« fragte Harald den
+Hotelbesitzer.
 
-»Bin sechs See Mr
+»Um sechs Uhr —«
 
 »Dann bitte in zehn Minuten das Frühstick und die
 Rechnung, Herr Blörne.«
 
 Der Wirt verschwand.
 
-»Na — wie gefällt Dir der Brief?« meinte er
+»Na — wie gefällt Dir der Brief?« meinte er.
 
-»Als Beweis für die Nichtigkeit Deines Verdachts gegen
-Goldner Mag er mir gefallen!«
+»Als Beweis für die Richtigkeit Deines Verdachts gegen
+Goldner muß er mir gefallen!«
 
 »Nicht wahr?! Goldner stößt mich mit der Nase auf
-meine Pflicht, heben Orstra zu verfolgen und mich nicht um
+meine Pflicht, lieber Orstra zu verfolgen und mich nicht um
 die Kattegatt zu kümmern! — Sie irren, Herr Goldener!
-Sacht gerade nicht!« —
+Jetzt gerade nicht!« —
 
 Um ein halb zehn näherten wir beide und Prang uns
-der Bucht, wo tote unsere Miramare zu finden hofften.
+der Bucht, wo wir unsere Miramare zu finden hofften.
 
 Aber — die Stelle war leer! —
 
 <@pagebreak/>
 Harald hielt sich nicht lange in der einsamen Bucht auf.
-Nachdem er. die Tierische gegenüber dem Ankerplatz der
-Miramare besichtigt halte, wobei er uns stehen zu bleiben
+Nachdem er die Uferstelle gegenüber dem Ankerplatz der
+Miramare besichtigt hatte, wobei er uns stehen zu bleiben
 bat, sagte er nur: »Am unangenehmsten ist mir dieser
-Amifchenial Lord Plemborn gegenüber!«
+Zwischenfall Lord Plemborn gegenüber!«
 
 Prang fragte darauf: »Zwischenfall?! Wie meinen
-Sie das, Harst? Die ach wird eben den Ankerplas gewechselt
+Sie das, Harst? Die Jacht wird eben den Ankerplatz gewechselt
 haben. Es gibt hier genug ähnliche Buchten.«
 
-Harald blickte Prang erstaunt zu. »Steuermann
+Harald blickte Prang erstaunt an. »Steuermann
 Sönnquist, der auf der Miramare den Kapitän spielt, hätte
 ohne Zwang diese Bucht nie verlassen,« erklärte er. »Die
-Miramare ist eben die zweite Jacht, die in den legten Tagen
+Miramare ist eben die zweite Jacht, die in den letzten Tagen
 geraubt wurde. Begreifen Sie denn nicht, Prang, daß
-es für Ottmar Orstra und dessen Gefährten kein schnell?los
-und sichereres Befördernngsmittel gab als die Miramare«!
+es für Ottmar Orstra und dessen Gefährten kein schnelleres
+und sichereres Beförderungsmittel gab als die Miramare«!
 Orstra wußte, daß sie sich hier befand. Und —« — er hielt
-jung die rechte Hand offen bin — »hier ist der Beweis, daß
+uns die rechte Hand offen hin — »hier ist der Beweis, daß
 die Jacht entführt worden ist —«
 
 Wir beugten uns tiefer; wir sahen in Haralds Hand
 nichts als zwei Büschelchen Haare!
 
 »Falsche Haare — von einem falschen Backenbart,«
-faule er dann. »Hier erkennt man noch den Klebstoïs. Und
-der Klebstoff ist noch nicht einmal unter dem Einfluß Der
+sagte er dann. »Hier erkennt man noch den Klebstoff. Und
+der Klebstoff ist noch nicht einmal unter dem Einfluß der
 Sonnenstrahlen körnig geworden, ist erst vor etwa zwölf
-Stunden benutzt worden. — Was aber sollen diese Frag-mente
+Stunden benutzt worden. — Was aber sollen diese Fragmente
 falscher Bärte an dieser Uferstelle, wo kaum je ein
-Eingeborener hinfommt?! He denke, dort, wo Ich die bete
-den Haäarbüschelhen auf den Stellten fand, dürfte es
+Eingeborener hinkommt?! Ich denke, dort, wo ich die beiden
+Haarbüschelchen auf den Steinen fand, dürfte es
 zwischen den Dieben der Miramare und einem der Leute
-der Jacht zu einigen Handgreiflichkeiten gekommen fein. —
+der Jacht zu einigen Handgreiflichkeiten gekommen sein. —
 Nun — das alles sind spätere Sorgen! Wenn die Miramare
-gestern abend gegen zehn Uhr gestohlen tauche, fang
-sie bei ihrer Schnelligkeit jetzt gern die offene See erreicht
-haben. Immerhin will ich die Polizei in Stier telephonisch
+gestern abend gegen zehn Uhr gestohlen wurde, kann
+sie bei ihrer Schnelligkeit jetzt schon die offene See erreicht
+haben. Immerhin will ich die Polizei in Skien telephonisch
 benachrichtigen.«
 
-Wir kehrten nach Dahlen Zuruf. Ich mußte ein Auto
+Wir kehrten nach Dahlen zurück. Ich mußte ein Auto
 besorgen; Prang sollte etwas Proviant einkaufen; Harst
 ging zur Post.
 
-Als wir um ein Uhr mittags im Hotel Dahlen milder
-zusammentrafen. fand das Auto schon abfahrtbereit
+Als wir um ein Uhr mittags im Hotel Dahlen wieder
+zusammentrafen, stand das Auto schon abfahrtbereit
 <@pagebreak/>
-da. — Um neun Uhr abends waren wir in Stier. Wir
-litten vor dem Polizeigebäude vor. Harald wollte ch er-findigen,
-ob die Polizei etwas über den Verbleib der Mir
+da. — Um neun Uhr abends waren wir in Skien. Wir
+fuhren vor dem Polizeigebäude vor. Harald wollte sich
+erkundigen, ob die Polizei etwas über den Verbleib der
 Miramare festgestellt hätte.
 
 Zu unserer Ueberraschung hörten wir, daß die Jacht
@@ -2192,36 +2189,36 @@ im Hafen liege und daß die beiden Männer, die sie gewaltsam
 entführt hatten, schon früher von Bord gegangen und
 verschwunden seien.
 
-Das Auto brachte uns zum Hafen,
+Das Auto brachte uns zum Hafen.
 
-Der alte Sönnquist, der Maschinist Geringe und der
-Koch Brown waren noch auf Weh und würfelten.
+Der alte Sönnquist, der Maschinist Gromsö und der
+Koch Brown waren noch auf Deck und würfelten.
 
-Sönnauilt3 Freude war rührend. Aber sehr bald
+Sönnquists Freude war rührend. Aber sehr bald
 redete er sich bei der Schilderung des Ueberfalles auf die
 Miramare in Wut.
 
-»ich Hatte die Wache an Deck von acht bis zwölf übernommen,«
-erzählte er. »So gegen zehn Uhr wurde- ich
+»Ich hatte die Wache an Deck von acht bis zwölf übernommen,«
+erzählte er. »So gegen zehn Uhr wurde ich
 vom Nordufer der Bucht angerufen. — »Hier Detektiv
 Prang im Auftrage Harsts!« meldete sich der bärtige Kerl.
 »Kommen Sie im Beiboot herüber! Es eilt!« — Ich also
-ahnungslos in? Boot. Na — und am Ufer wollten mich
-dann die beiden Halunken durch ihre Revolver einschüchtern.,
-Mit einem Male waren’s nämlich zwei. Ach nicht faul
-springe dem einen an die Kehle. Aber der andere Wißt mir
-schon an der Gurgel! Da half kein Wehren! Sie Beizeiten
+ahnungslos ins Boot. Na — und am Ufer wollten mich
+dann die beiden Halunken durch ihre Revolver einschüchtern.
+Mit einem Male waren’s nämlich zwei. Ich nicht faul
+springe dem einen an die Kehle. Aber der andere sitzt mir
+schon an der Gurgel! Da half kein Wehren! Sie fesselten
 mich, steckten mir einen Lappen ins Maul und ruderten zur
 Miramare, wo sie Gromsö und Brown ebenfalls überwältigten,
-uns drei vorn in der Segelkammer Wer un
-davonfuhren, Erst dicht vor Ellen achten und je
+uns drei vorn in der Segelkammer einsperrten und
+davonfuhren. Erst dicht vor Skien machten sie uns frei
 und — verdufteten an Land. Das ist alles, Herr Harst.
-Ob — eine Wut hab’ ich auf die Kerle, eine Wut —! Ja,
+Oh — eine Wut hab’ ich auf die Kerle, eine Wut —! Ja,
 denken Sie sich, Herr Harst, — der eine rief mir von Land
 aus noch zu: »Grüßen Sie Harst von Professor Lörax
-oder auch von Öttmar Orstra!« — Also Orstra war der
+oder auch von Ottmar Orstra!« — Also Orstra war der
 eine! Hätte ich nur einen Revolver zur Hand gehabt! Dem
-Halunken hätte ich ein Loch in sein Kadaversell geknallt!«
+Halunken hätte ich ein Loch in sein Kadaverfell geknallt!«
 
 »Lieber Sönnquist, seien Sie froh, daß er’s nicht umgekehrt
 gemacht hat!« sagte Harald ernst. »Dieser Orstra
@@ -2231,21 +2228,22 @@ werden jetzt sofort abfahren, Ziel Christiania. — He,
 Brown, beweisen Sie, daß Sie inzwischen das Kochen nicht
 verlernt haben. Wir sind hungrig!«
 
-Bereits um seh Uhr begannen die Motoren der Miramare
-zu arbeiten. Uns elf Uhr waren wir drei mit den
-Abendbrot fertig. Brannten Koch, hatte noch schnell in
-Stier die neuesten Zeitungen aus Christiania klangen
+Bereits um zehn Uhr begannen die Motoren der Miramare
+zu arbeiten. Um elf Uhr waren wir drei mit dem
+Abendbrot fertig. Brown, der Koch, hatte noch schnell in
+Skien die neuesten Zeitungen aus Christiania kaufen
 müssen.
 
-Nun hatten fuhr es uns in der eleganten Kajüte behag-gemacht.
+Nun hatten wir es uns in der eleganten Kajüte behaglich
+gemacht.
 
 »Hier läßt es sich leben!« sagte Prang lächelnd. »So
 ein Lord hat es doch gut!«
 
 »Damit Sie nicht ganz zum Faulenzer werden, lieber
 Prang, — lesen Sie mal diesen Brief,« meinte Harst, der
-in den Zeitungen blätterte, »Schraut kann Ihnen helfen.
-Es ist fein ganz alltäglicher Brief. Im Gegenteil — es ist
+in den Zeitungen blätterte. »Schraut kann Ihnen helfen.
+Es ist kein ganz alltäglicher Brief. Im Gegenteil — es ist
 der seltsamste, den ich je zu Gesicht bekommen habe.«
 
 Er legte den Umschlag vor uns hin.
@@ -2254,7 +2252,7 @@ Da stand als Anschrift:
 
 > Monsieur
 
-> Starkes Verhafte
+> Charles Delboste
 
 > Dahlen, Norwegen
 
@@ -2262,161 +2260,161 @@ Da stand als Anschrift:
 
 Ich muß hier für Leser, die den vorigen Band nicht
 kennen, einfügen, daß Orstra im Hotel Dahlen einige Tage
-als Starkes Verlasse nach seiner Flucht aus Göteborg in
-Sehen gewann hatte,
+als Charles Delboste nach seiner Flucht aus Göteborg in
+Schweden gewohnt hatte.
 
-Ohne Zweifel hohe Harald, als er mittags bis Posto
-Agentur in Dahlen besucht hatte, mit der Möglichkeit angerechnet,
-daß in Orstra- Verhafte inzwischen Briefe eingetroffen
-fein könnten. Und — er hatte Willig vermutet,
-Hier war ein solcher Brief. Die Briefmarke war In China:Ich
-am 17. mittags zwischen 11 und 12 abgestempelt lauerten.
+Ohne Zweifel hatte Harald, als er mittags die Postagentur
+in Dahlen besucht hatte, mit der Möglichkeit gerechnet,
+daß für Orstra-Delboste inzwischen Briefe eingetroffen
+sein könnten. Und — er hatte richtig vermutet.
+Hier war ein solcher Brief. Die Briefmarke war in Kragerö
+am 17. mittags zwischen 11 und 12 abgestempelt worden.
 
 Der Siebzehnte war nun derjenige Tag, der uns beide
-bereits auf der Reise nach Dahlen gesehen hatte, Am 19.
-aber hatte Verhafte vor uns aus Dahlen flüchten müssen.
+bereits auf der Reise nach Dahlen gesehen hatte. Am 19.
+aber hatte Delboste vor uns aus Dahlen flüchten müssen.
 Er war mithin nicht mehr in der Lage gewesen, diesen
 Brief abzuholen.
 
-Dieb teilte ich Prang flüsternd mit. Harsts scharfen
+Dies teilte ich Prang flüsternd mit. Harsts scharfen
 Ohren war kein Wort entgangen.
 
 <@pagebreak/>
 »Das stimmt alles, mein Alter,« sagte er, ohne von
-der Zeitung aufusehen.
+der Zeitung aufzusehen.
 
 Dann zog Prang den Briefbogen heraus.
 
 Es war nur ein in der Mitte einmal gefaltetes Blatt.
 
-Nicht ein einziges Wort stand darauf. Der Bann sah
-»aus, als hätte ihn ein Kind mit einer Stecknadel mit unzähligen
+Nicht ein einziges Wort stand darauf. Der Bogen sah
+aus, als hätte ihn ein Kind mit einer Stecknadel mit unzähligen
 Löchern willkürlich versehen.
 
 »Feine Geheimschrift,« meinte Harald wieder ohne
 aufzuschaun.
 
-Prang erzielte den Kopf. Dr kann doch keine Geheimschrift
-fein!«
+Prang schüttelte den Kopf. »Das kann doch keine Geheimschrift
+sein!«
 
 Harald blickte mich an.
 
-»Vielleicht findet Schraut den Tote heraus!«
+»Vielleicht findet Schraut den Trick heraus!«
 
-Nein,« sagte ich. »Schraut paßt!«
+»Nein,« sagte ich. »Schraut paßt!«
 
-Bitte — haltet das Blatt Doch mal regen das Licht!«
-erklärte Harst.  »JFhr macht Euch die Sache zu bequem!«
+»Bitte — haltet das Blatt doch mal gegen das Licht!«
+erklärte Harst. »Ihr macht Euch die Sache zu bequem!«
 
 Und — als Prang das Blatt jetzt hochhielt, drehte
 und die richtige Stellung herausgefunden hatte, sahen wir,
 daß eine Menge der Löchlein etwas größer als die anderen
 waren. Und die größeren Löchlein bildeten Buchstaben
-jt cm die man ohne große Schwierigkeit ablesen
-konnte
+und Worte, die man ohne große Schwierigkeit ablesen
+konnte.
 
-So Deutsche übertragen lauteten sie:
+Ins Deutsche übertragen lauteten sie:
 
 > Miß glückt Andere dasselbe Bleiben hinterdrein
 Kurs In östl Kragerö.
 
 »Die westlich von Christiania gelegene Hafenstadt Kragerö
-»ist von Christiania aus in zwölf Stunden mit einem
-schnellen ahrzeua bequem zu Er sagte Harald lebt,
-Binden N: eine Zeitungen weglegte und nach einer Zigarette
+ist von Christiania aus in zwölf Stunden mit einem
+schnellen Fahrzeug bequem zu erreichen,« sagte Harald jetzt,
+indem er seine Zeitungen weglegte und nach einer Zigarette
 griff. »Sie wissen doch, lieber Prang, wie man diese
-Geheimschrift ergänze en mir By«
+Geheimschrift ergänzen muß?«
 
-»Allerdings. ist nicht gerade schwierig, Ueber
-Hart. — Ich würde n raänzung folgende Korn geben:
+»Allerdings. Das ist nicht gerade schwierig, lieber
+Harst. — Ich würde der Ergänzung folgende Form geben:
 
-Der Anschlag auf die Golduersche Jacht Kattegatt ist
-mißglückt. Andere planten dasselbe und kamen Raus ne
-vor. Wir bleiben hinterdrein auf demselben Kurs —«
+> Der Anschlag auf die Goldnersche Jacht Kattegatt ist
+mißglückt. Andere planten dasselbe und kamen uns zuvor.
+Wir bleiben hinterdrein auf demselben Kurs —«
 
 Dann zauderte er, fügte hinzu:
 
-»Hm — mit dem »Ja östl Kragerö« werde Ich nicht
+»Hm — mit dem »In östl Kragerö« werde ich nicht
 recht fertig!«
 
-Harald deutete auf eine an der Maul bänacıde Scilis-farte
+Harald deutete auf eine an der Wand hängende Schiffskarte
 <@pagebreak/>
-des Skagerrak genannten Meeresteiles zwischen Nord-dänemark,
-Südnorwegen und Westscoweden, stand aus und
-trat vor die Karte hin. Wir erhoben uns gleichfalls 11d
-flehten uns neben ihn.
+des Skagerrak genannten Meeresteiles zwischen Norddänemark,
+Südnorwegen und Westschweden, stand auf und
+trat vor die Karte hin. Wir erhoben uns gleichfalls und
+stellten uns neben ihn.
 
-Es begann nun eine jener Erklärungen Kontakte, die
-so recht bewies, wie scharf und richtig sein Geist alle Ein
-Aeltesten richtig zu erfahren und zu dienen wußte.
+Es begann nun eine jener Erklärungen Haralds, die
+so recht bewies, wie scharf und richtig sein Geist alle Einzelheiten
+richtig zu erfassen und zu ordnen wußte.
 
-»Vergegeuwärtigeu wir uns die Vorgänge in Christiania
+»Vergegenwärtigen wir uns die Vorgänge in Christiania
 in der Nacht vom 16. zum 17. Áugust,« begann er,
-indem er starr auf den Christianiafjord wischte, in deren
-Nordwinkel die norwegische Hauptstadt liegt. Hai
+indem er starr auf den Christianiafjord blickte, in deren
+Nordwinkel die norwegische Hauptstadt liegt. »Um 12
 Uhr nachts verläßt die Kattegatt ihren Ankerplatz. Ein
-Boot mit fünf Nichtseeleuten will die Sacht noch erreichen,
-muß aber fehlt machen. Daß diese fünf Leine nachher
-diesen Brief an Orstra-Delboesie schickten, unterliegt keinem
-Zwoeisel. Dieser Brief ist in Kragerö am 17. Barschen 11
-und 12 Uhr mittags ausgegeben oder besser abgestempelt
-worden Mithin muß man annehmen, daß den Sinn Jeu
-ten ein Fahrzeug zur Verfügung stand, welches der Notiert
+Boot mit fünf Nichtseeleuten will die Jacht noch erreichen,
+muß aber kehrt machen. Daß diese fünf Leute nachher
+diesen Brief an Orstra-Delboste schickten, unterliegt keinem
+Zweifel. Dieser Brief ist in Kragerö am 17. zwischen 11
+und 12 Uhr mittags aufgegeben oder besser abgestempelt
+worden. Mithin muß man annehmen, daß den fünf Leuten
+ein Fahrzeug zur Verfügung stand, welches der
 Kattegatt sofort folgte — »wir bleiben hinterdrein« — und am
-17\. etwa gegen 10 Uhr vormittags einen Mama in Kragerö
-landen konnte, der den Brief in den Haften warf. Hieraus
+17\. etwa gegen 10 Uhr vormittags einen Mann in Kragerö
+landen konnte, der den Brief in den Kasten warf. Hieraus
 geht hervor, daß die Jacht Goldners, ein sehr schnelles
-Schiff, aleichfals Kurs aus Kragerö genommen haben
-muß. — Nun zu den lebten vier Worten der Geheimschrift,
+Schiff, gleichfalls Kurs auf Kragerö genommen haben
+muß. — Nun zu den letzten vier Worten der Geheimschrift,
 die bei der geringen Verschiedenheit der Größe der Löchlein
 nicht ganz schlecht ausgedacht war.
 
-> Kurs Ja östl Kragerö
+> Kurs In östl Kragerö
 
-stellt meiner Ansicht nach einen Wink für Orstra-Verhafte dar,
-wo er seine fünf Helfershelfer treffen fang. Wir wissen
+stellt meiner Ansicht nach einen Wink für Orstra-Delboste dar,
+wo er seine fünf Helfershelfer treffen kann. Wir wissen
 ja, daß Orstra schon in Göteborg das Haupt einer Verbrecherbande
-war. Die fünf Leute gehören fraglos zu dienten
-Bande. Festlich von Kragerö sehen wir hier aus der
+war. Die fünf Leute gehören fraglos zu dieser
+Bande. Oestlich von Kragerö sehen wir hier auf der
 Karte eine Unmenge kleinerer und größerer Inseln dicht an
-der Küste, alles Felseuecilaude, nur zum geringsten Teil bewohnt,
-weil unfruchtbar Das »Zu« wird daher »Inseln«
+der Küste, alles Felseneilande, nur zum geringsten Teil bewohnt,
+weil unfruchtbar. Das »In« wird daher »Inseln«
 bedeuten, und die vier Worte sind zu ergänzen:
 
-> Kurs auf die Inseln östlich bog Kragerö.
+> Kurs auf die Inseln östlich von Kragerö.
 
-Ich behaupte weiter, daß die Entführer der Kattegatt Diele
-Unfein angelaufen und die Jacht iracudioo zwischen den
+Ich behaupte weiter, daß die Entführer der Kattegatt diese
+Inseln angelaufen und die Jacht irgendwo zwischen den
 <@pagebreak/>
-Eilanden versteckt haben, was nicht schadet ist, wenn sie
-die Masten tappten, denn dann dürfte die Jacht dort
-niemandem ausfallen, Nur die Masten hätten ihren Liegeplatz
+Eilanden versteckt haben, was nicht schwer ist, wenn sie
+die Masten kappten, denn dann dürfte die Jacht dort
+niemandem auffallen. Nur die Masten hätten ihren Liegeplatz
 verraten können. — Daß die Kattegatt dort verborgen
 wurde und daß alle Anzeichen dafür sprachen, die Diebe
 würden sie vorläufig dort belassen, beweist die Tatsache,
-tat die fünf Leute, nachdem sie die Jacht so weit verfolgt
-haften, trister nach Stragerö fuhren und den Brief aufgaben.
-— Ich betonte schon, daß das Fahrzeug Ad fünf ebenso
-schnell wie die Jacht gewesen sein uruß. Es muß aber
+daß die fünf Leute, nachdem sie die Jacht so weit verfolgt
+hatten, weiter nach Kragerö fuhren und den Brief aufgaben.
+— Ich betonte schon, daß das Fahrzeug der fünf ebenso
+schnell wie die Jacht gewesen sein muß. Es muß aber
 auch klein und unauffällig gewesen sein, sonst hätten die
-Entführer der Stnttegatt dieses Faß hrzeug hinter sich bemerken
+Entführer der Kattegatt dieses Fahrzeug hinter sich bemerken
 und Argwohn schöpfen müssen. Ich denke, dieses Fahrzeug
 der fünf Helfershelfer Orstras wird ein Motorkutter
-Fein, der sich als harmloser Fischkutter herausstaffieren lich.
+sein, der sich als harmloser Fischkutter herausstaffieren ließ.
 Der Kutter wird dann, nachdem er Kragerö angelaufen
 hatte, bis zum Abend gewartet und erst bei Dunkelheit
 sich wieder jenem Teil der Kragerö-Inseln genähert haben,
-300 die Kattegatt liegt, wird einen Teil seiner Begabung,
-die fraglos mehr als fünf Mann beträgt, gelautet haben,
-worauf die Verbrecher auf die Kattegatt einen Handftreid
-versucht haben werden. Oh dieser glückte, kann man noch
+wo die Kattegatt liegt, wird einen Teil seiner Besatzung,
+die fraglos mehr als fünf Mann beträgt, gelandet haben,
+worauf die Verbrecher auf die Kattegatt einen Handstreich
+versucht haben werden. Ob dieser glückte, kann man noch
 nicht sagen. Es ist ja alles blasse Theorie, was wir hier
-ade! Es *kann* alles so sein; es *kann* aber auch
-alles —
+entwickeln. Es *kann* alles so sein; es *kann* aber auch
+alles —«
 
-Je »Nein,« meinte Asbörn Prang da. »Es wird schon so
-sein, »lieber Harst! Ihre blasse Theorie gewinnt in Ihrer
-rítellung so viel Farbe, daß sie überzeugend wirkt.«
+»Nein,« meinte Asbörn Prang da. »Es wird schon so
+sein, lieber Harst! Ihre blasse Theorie gewinnt in Ihrer
+Darstellung so viel Farbe, daß sie überzeugend wirkt.«
 
 <h2>3. Kapitel.</h2>
 <h3>Im dicksten Nebel.</h3>
@@ -2425,7 +2423,7 @@ Wir setzten uns wieder. Harald rauchte eine Weile
 ne tuend seine Mirakulum. Dann erklärte er:
 
 »Wir werden nicht nach Christiania fahren. Rein, so
-bald wir den Stier-Fjord hinter uns haben, geht es nach
+bald wir den Skien-Fjord hinter uns haben, geht es nach
 Westen die Küste entlang. Wir können gegen halb auch
 <@pagebreak/>
 Uhr morgens die Inseln in Sicht bekommen. Ich versuchte
@@ -2469,7 +2467,7 @@ Kopenhagener Gesellschaft unmöglich gemacht und trat
 Chesfredafteur« eines Revolverblättchens schlimmster Sorte,
 [eßt jetzt als Schriftsteller in Göteborg und findet für seine
 Kriminalromane und Secgeschichten, die ebenso eigenartig
-wie Irren sind, stets Abnehmer. Die Untersuchung ae-GSolduer
+wie Irren sind, stets Abnehmer. Die Untersuchung ne-Geordnet
 mußte damals übrigens eingestellt werden.
 konnte dem Bankier nicht nachgewi:sen werden, daß
 er große Summen — es sollten neuen vier Millionen Froren
@@ -2500,7 +2498,7 @@ Inseln anlaufen.«
 
 Der alte Seebär Tante große Augen. »Was sollen wir
 denn dort, Herr Harst ibt’3 man bloß zwanzig
-Wen und fünfzig Lire Bier Das ist die ganze Herr-lichfeit!«
+Wen und fünfzig Lire Bier Das ist die ganze Herrlichkeit!«
 
 Die Schafe auf den Inseln sollen zu einer besonderen
 Art gehören,« sagte Harald völlig ernst. »Ich möchte mir
@@ -2538,7 +2536,7 @@ Wenn ich den Klöppel der Glocke für kurze Zeit ruhen
 ließ, bot?teil meine Augen desto schärfer in »die graue
 Nebelmauer vor uns ein.
 
-Fischkutter glitten zuweilen - lautlos wie Gespenster-fchiffe,
+Fischkutter glitten zuweilen - lautlos wie Gespensterschiffe,
 undeutlich zu erkennen und scheinbar riesengroß, an
 uns vorüber. Dampfersirenen heulten bald hier, bald dort.
 
@@ -2724,7 +2722,7 @@ Grübeleien nachzuhängen. Wir erbrachen die Türen.
 
 Als gegen halb fünf morgens eine frische Brite die
 Nebelmaflen vertrieb, als die Sonne dann aufainga und
-wir den Horizont musterten, kam uns ein großer Gce-Dampfer
+wir den Horizont musterten, kam uns ein großer See-Dampfer
 entgegen, schickte sechs Matrosen herüber, die uns
 auch den anderen Mast in Ordnung bringen« halfen, und
 fuhr weiter.
@@ -2755,7 +2753,7 @@ den wir von früher der kannten.
 
 Wir vier saßen dann in der großen Heckkajüte, und
 nun endlich begann Harald — bisher hatte er sich völlig
-ausgeschwiegen — Über die Vorgänge auf den Nraqerd-Inseln,
+ausgeschwiegen — Über die Vorgänge auf den Kragerö-Inseln,
 wie sie sich feiner Meinung nach abgespielt haben
 mußten, zu sprechen.
 
@@ -2885,7 +2883,7 @@ Wir hatten gerade noch Zeit, uns von Prang und
 Doorsen zu verabschieden. Ohne jedes G2päck — unsere
 Sachen befanden sich ja auf der Miramare — begaben wir
 uns | Bahnhof, wo Harald am Bahnfchalier zwei
-Schlaswagenkarten 1. Klasse nach Göteborg forderte, also
+Schlafwagenkarten 1. Klasse nach Göteborg forderte, also
 nach dem früheren Hauptquartier des Verbrechers Ottmar
 Orstra.
 
@@ -3019,7 +3017,7 @@ flüsterte Harst und huschte die Stufen abwärts.
 Hier war alles merkwürdigerweise sauber ‘gefegt. In
 dem Ziegelboden des Flurs zeichnete sich etwa in der. Mitte
 eine zweiflügelige Falltür, auch aus Eisen, ab. Durch den
-Ring des einen Flügels lief eine Kette zu einem Flaschen-zua
+Ring des einen Flügels lief eine Kette zu einem Flaschenzug
 empor, der an einem Haken des oberen Zreppenab-fabes
 befestigt war. Wir umgingen diese Falltür. | Harst
 beleuchtete jetzt das Schlüsselloch der schmalen Tue, zog
@@ -3126,7 +3124,7 @@ eine stattliche, grauhaarige Dame, das Gesicht noch
 ut Zränenfpuren begeht. — Dort saß in einem Ystüfch-sessel
 ein junger, bartloser, verlebt aussehender Mensch
 Mit weibischen Zügen — saß da, blickte uns finster an,
-stierte nun auf den Meinen Stoffen
+Stierte nun auf den Meinen Stoffen
 
 Harst drückte die Tür zu.
 
@@ -3146,8 +3144,8 @@ Leute, oder besser ein Teil dieser Leute beschloß,
 den Raub nur unter sich zu teilen und beging den Streich
 früher als vereinbart. Fünf andere der Bande glaubten,
 daß Fremde die Jacht sich angeeignet hätten, folgten ihnen
-und trafen dann mit Orstra und Karlsström bei den Kragerö-
-Inseln zusammen. Karlsström, der als Frau Lörax
+und trafen dann mit Orstra und Karlsström bei den Kragerö-Inseln
+zusammen. Karlsström, der als Frau Lörax
 in Telemarken mit Orstra ein anderes »Geschäft« hatte erledigen
 wollen, vermutete nämlich, daß die »Piraten« un-aetreue
 Mitglieder der Bande gewesen und daß sie, wie
