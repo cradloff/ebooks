@@ -4,269 +4,274 @@
 
 <h2>1. Kapitel.</h2>
 
-»Herr Balks, — Herr Harst, et ist ein Hühnerdieb Im
-Stall« —
+»Herr Harst, — Herr Harst, es ist ein Hühnerdieb im
+Stall!« —
 
 Dies war der Alarmruf, der unser Abenteuer mit den
 sechs leeren Briefbogen einleitete.
 
 Damals, als die brave alte Mathilde, die Harstsche
-Köchin ‚mit diesem Alarmruf erschrocken und empört in
+Köchin mit diesem Alarmruf erschrocken und empört in
 Harald Harsts Arbeitszimmer gestürmt kam, waren wir gerade
 vor vier Tagen aus Göteborg in Schweden heimgekehrt.
 
-Wir hatten in Haralds Studierzimmer am Satt
-gesellen und beim Lichte der elektrischen Stehlampe
-MEARRBIN du Bei. durchgesehen.
+Wir hatten in Haralds Studierzimmer am Sofatisch
+gesessen und beim Lichte der elektrischen Stehlampe
+Abendzeitungen durchgesehen.
 
-mochte halb neun gewesen sein, als Mathilde uns
-dann aus der beidmulichen Ruhe aufrüttelte.
+Es mochte halb neun gewesen sein, als Mathilde uns
+dann aus der beschaulichen Ruhe aufrüttelte.
 
-»Ma, na, liebe Mathilde, — ein Dieb in unserem Hühnerstall!«
-meinte Harald zweifelnd, »Das muß denn ge
-Rade ein Mensch sein, der nicht weiß, wer hier wohnt!«
+»Na, na, liebe Mathilde, — ein Dieb in unserem Hühnerstall!«
+meinte Harald zweifelnd, »Das muß denn gerade
+ein Mensch sein, der nicht weiß, wer hier wohnt!«
 
-Mathilde wurde böse,
+Mathilde wurde böse.
 
 »Natürlich — wenn wir hier erst stundenlang reden,
-dreht er he Legehü den Kopf ab und verduftet!«
-fauchte sie. »Meinetwegen kann er’
-gibt’s dann nicht? mehr zum Frühstück,«
+dreht er den besten Legehühnern den Kopf ab und verduftet!«
+fauchte sie. »Meinetwegen kann er’s tun! Aber hier
+gibt’s dann nichts mehr zum Frühstück.«
 
 Wir erhoben uns lachend.
 
-»*Die* Drohung ist fürchterlich!« meinte Harald. gute
-sahen den Kerl also Stalle verschwinden, Markt
+»*Die* Drohung ist fürchterlich!« meinte Harald. »Sie
+sahen den Kerl also im Stalle verschwinden, Mathilde?«
 
-»Ich wollt gerade die Ställe abschließen —«
+»Ja. Ich wollt’ gerade die Ställe abschließen —«
 
 »Gut. »Schraut und ich werden den Dieb abfassen!«
 
-Wir verließen ganz leise durch die Log das Haus.
+Wir verließen ganz leise durch die Hoftür das Haus.
 
-Der Septemberabend war mondhell Als wir dicht
+Der Septemberabend war mondhell. Als wir dicht
 vor der Tür des Hühnerstalles standen, sagte Harst:
 
 <@pagebreak/>
+»Die Eiervögel verhalten sich merkwürdig ruhig!«
 
-so Bei ich schlich Wer obig Ok in
+Er öffnete die Tür und leuchtete mit der Taschenlampe
+in den weißgetünchten Stall hinein.
 
-und leuchtete Mit
-den verharrt dies Stak hinein.
+Links und rechts von der Tür befanden sich die Sitzstangen
+für das Hühnervolk. Geradeaus führte eine Leiter
+auf den sogenannten Körnerboden. In der Decke war
+ein quadratisches Loch eingeschnitten, durch das der obere
+Teil der Leiter hindurchreichte.
 
-und fern r bezog
-klangen für das Hühnervolk. Geradeaus führte eine Leiter
-auf den sogenannten Körnerboden. An der Decke war
-ein quadratisches Loch eingeschnitten, durch bog der obere.
-Teil an en bindurdhreichte.
+Harald begann die Leiter zu erklettern, blieb stehen und
+leuchtete auch den Bodenverschlag ab.
 
-Bald begann die Leiter zu erklettern, blieb stehen und
-Da auch den Bodenverichlan ab.
-
-Ich sah, wie sein Blick hebt auf einer Stelle ruhte.
+Ich sah, wie sein Blick jetzt auf einer Stelle ruhte.
 
 »Kommen Sie, Freundchen,« sagte er dann. »Meine
-Hübner esse ich Mrs und die Eier auch!«
+Hühner esse ich allein, und die Eier auch!«
 
-»Oh — ich by n fein Dieb!« flüsterte oben jemand mit
-er L Stimme. Sehen Sie bitte erst nach, Herr Harst,
-ob »er« wo »Er« war mir gefolgt.«
+»Oh — ich bin kein Dieb!« flüsterte oben jemand mit
+keuchender Stimme. Sehen Sie bitte erst nach, Herr Harst,
+ob »er« weg ist. »Er« war mir gefolgt.«
 
-»Wer ich Ei er«?
+»Wer ist dieser »er«?
 
-»Mein Chef, der Karat Gumlows Ich wollte
-wer vor I verbergen. Deshalb lüpfte ich schnell in
+»Mein Chef, der Agent Gumlowsky. — Ich wollte
+mich vor ihm verbergen. Deshalb schlüpfte ich schnell in
+diesen Stall.«
 
-enger Freund, Sie Faden Phantasie.«
+»Junger Freund, Sie haben Phantasie.«
 
-Rein ein Harst, —, Angst habe ich, schreckliche Angst
-— vor Max Gumlotos?k
+»Nein Herr Harst, — Angst habe ich, schreckliche Angst
+— vor Max Gumlowsky!«
 
-am — Nase klingt N schnöde Außerdem sind Sie
-eigen. ä et gut gefiel
-er he Arten Gumlowsky hat
-By n der A mir und Alta.
+»Hm — das klingt beinahe echt! Außerdem sind Sie
+für einen nächtlichen Hühnerjäger auch zu gut gekleidet,
+junger Mann! Ich werde also Herrn Gumlowsky verscheuchen,
+falls er noch in der Nähe sein sollte!«
 
-Ding
+Er stieg die Leiter wieder herab, winkte mir und ging
+hinaus. Ich drückte die Tür ins Schloß.
 
-re er lief, D der Es Monde schwindelt nicht,« sagte
-Bald leise Ajax von der Kette rosa.«
+»Lieber Alter, der junge Mensch schwindelt nicht,« sagte
+Harald leise. »Mach’ doch mal Ajax von der Kette los.«
 
-in. hie. ‚Bar Hofhund, N Kreuzung von Wolfshund
+Der große Hofhund, eine Kreuzung von Wolfshund
 und Dobermann, war mehr nach dem Gemüsegarten zu
-Mit sein er Hütte untergebracht.
+mit seiner Hütte untergebracht.
 
-lag in der Los und kam erst heraus, als Ich ihn
-Mrs Tue, hatte ihn kauen gehört und fand denn
-auch in Hundebude noch ein faustgroßes Stück Fleisch,
+Er lag in der Hütte und kam erst heraus, als ich ihn
+energisch anrief. Ich hatte ihn kauen gehört und fand denn
+auch in der Hundebude noch ein faustgroßes Stück Fleisch.
 
-So a der Verdacht in mir es das Fleisch
-könnte ver et fein. Ah Tief zu Harald zurück.
+Sofort stieg der Verdacht in mir auf, das Fleisch
+könnte vergiftet sein. Ich lief zu Harald zurück.
 
-»Hole Injektionsspritze und O Brechmittel —
+»Hole Injektionsspritze und das Brechmittel —
 <@pagebreak/>
-Kamen!« rief er erregt. »Diese Hühnerdieb-Geschichte wird
+schnell!« rief er erregt. »Diese Hühnerdieb-Geschichte wird
+ernst!«
 
-Er blieb vor der Stalltür stehen.-, Ajax, den losgemacht
-hatte, KimAjTeNe schon an der Glastür re Er
+Er blieb vor der Stalltür stehen. Ajax, den ich losgemacht
+hatte, schnüffelte schon an der Stalltür herum. Er
+hatte den Dieb gewittert.
 
-rate Lug ich Mit feierliche und dem Fläschchen wund:
-kehrte, hörte ich Ajax hinten im Gemüsegarten bellen
+Als ich mit der Spritze und dem Fläschchen zurückkehrte,
+hörte ich Ajax hinten im Gemüsegarten bellen.
 
-»Er hat Dr einen Menschen verjagt«. meinte
-Harald leicht
+»Er hat wirklich einen Menschen verjagt,« meinte
+Harald leicht erregt.
 
-Dann pst et 1 lag wo. jedoch Zeit. Als er dann
-endlich gehorchte, knurrte Bauten« und ug so«
-fort zur Stalltür zurück.
+Dann pfiff er. Ajax ließ sich jedoch Zeit. Als er dann
+endlich gehorchte, knurrte er noch wütend und rannte sofort
+zur Stalltür zurück.
 
-Harst machte ihm dann eine By tu’ da
+Harst machte ihm dann eine Einspritzung in das
 Nackenfell.
 
-»Nach drei Minuten n der Magen leer. — Kette ihn
+»Nach drei Minuten ist der Magen leer. — Kette ihn
 wieder an.«
 
-Ich brachte Aha M Schräg en war
-auch schon in Hühnerdieb auf auf Unfalls Zu ox dem
-Stall erschiene
+Ich brachte Ajax zur Hütte zurück. Inzwischen war
+auch schon der Hühnerdieb auf Haralds Zuruf vor dem
+Stall erschienen.
 
-Wir re ihn mit ich er. ran konnte mir dann
-im Studierzimmer den den die R Burschen
-genauer ansehen. Flammen der Krone
+Wir nahmen ihn mit ins Haus. Ich konnte mir dann
+im Studierzimmer den vielleicht zwanzigjährigen Burschen
+genauer ansehen. Harst hatte alle Flammen der Krone
 eingeschaltet.
 
 Nun — dieser Dieb wirkte sehr harmlos. Es war
-so der Au In des tun scheu etwas ein Sieg Rann
+so der Typ des jungen, etwas überpatent gekleideten Kaufmanns.
+Das Gesicht war ganz sympathisch.
 
-Er a! a Freund und deutete
+»Setzen Sie sich<<, sagte Harald freundlich und deutete
+auf den Klubsessel links vom Sofatisch.
 
-Seen
+»Ist er wirklich weg?« fragte der junge Mensch
+ängstlich.
 
-Nehmen Sie nur Platz. — Schraut reiche dem
-na einen Kranz
+»Nehmen Sie nur Platz. — Schraut reiche dem
+Gast einen Kognak —«
 
-QAO Der Hühnerdieb 6 trank dankte und ritzte
+Der Hühnerdieb trank, dankte und fügte hinzu:
 
-»Mein Name Oft Karl-Ernst Lehmann — rx machte
-dazu eine. tadellos dicke Kavalierverbeugung und fuhr
+»Mein Name ist Karl-Ernst Lehmann —« er machte
+dazu eine tadellos eckige Kavalierverbeugung und fuhr
 fort: »Ich bin erster Prokurist der Firma Gumlowsky u.
-Komp. »Haenturen
+Komp. Agenturen —«
 
-Angestellte hat die Firma?« fiel Harst ihm ins
+»Wie viele Angestellte hat die Firma?« fiel Harst ihm ins
+Wort.
 
-0
 »Hm — nur — nur einen — mich!«
-t
 
 <@pagebreak/>
+»Das dachte ich mir. Weiter bitte —«
 
-»Das da ‚a mir. Weiter bitte —«
+»Ich bin erst seit dem ersten Juli bei der Firma.«
 
-& bin erst seit dem ersten Juli bei der Firma.«
+»Wer ist denn der Kompagnon?«
 
-ist denn der Kompagnon?«
+»Herrn Gumlowskys Frau —«
 
-= 9 ach Frau —«
+»So — so! — Wo befindet sich das Geschäftslokal?«
 
-— schob — Wo befindet sich das Geschästslofkal?«
-
-»In Sinn Kantstraße 308, in der Nähe des
-Amtôaerichts, Ordnet vorn rechts. Sich meldete mich
-Herrn Gumlowsky auf fein Sinferat bin. Er suchte ei-un
+»In Charlottenburg, Kantstraße 308, in der Nähe des
+Amtsgerichts, Erdgeschoß vorn rechts. Ich meldete mich
+Herrn Gumlowsky auf sein Inserat bin. Er suchte einen
 Buchhalter, der auch französisch und englisch korrespondieren
 könne. Da meine Gehaltsfsorderung bescheiden war,
 stellte er mich an.«
 
 »Haben Sie denn viel Arbeit?«
 
-»Es An Hauptsächlich schreibe ich Briefe nach London
+»Es geht. Hauptsächlich schreibe ich Briefe nach London
 und Paris an Geschäftsfreunde des Chefs.«
 
-Ehre
+»Also Geschäftsbriefe?«
 
-Die Firma vermittelt auch An- und Verkaufe
-von Üetndftüden und größeren Rarenpofien.«
+»Ja. Die Firma vermittelt auch An- und Verkäufe
+von Grundstücken und größeren Warenposten.«
 
-Lob »So — »und nun den Grund Ihres Besuches, Herr
+»So — und nun den Grund Ihres Besuches, Herr
 Lehmann —«
 
-»Zu, das hängt folgendermaßen zusammen. Also —
-vor etwa vierzehn Tagen waren Herr und Frau Gumlowsfky
+»Ja, das hängt folgendermaßen zusammen. Also —
+vor etwa vierzehn Tagen waren Herr und Frau Gumlowsky
 gleichzeitig an Grippe erkrankt. Da mußte ich auch Krankenpfleger
 spielen, ebenso die eingegangene Post selbst öffnen.
-Am 18, Augu u. der erste Brief — der leere Brief,
-eben ein Briefumf rohen Formats mit einem nicht
-einleiten völlig leeren, in bogen darin, nie Aida ja
-da Salon ahnt und Zehn er Chef,
-ch einer einen Wi 6 Gemach schrumpfte er. —
-rate Umschlag und Briefbogen sehr sorgsam in ne ne
-tischschublade. Schon dieses fiel mir auf, — Am 20. August
-kam der zweite Brief, ebenfalls aus Danzig »auch leer
-— der Briefbogen. Und abermals schimpfte ja
-und verwahrte Umschlag an Briefbogen wieder in der
+Am 18. August kam der erste Brief — der leere Brief,
+eben ein Briefumschlag großen Formats mit einem nicht
+gekniffenen völlig leeren Briefbogen darin. Ich ging damit
+in das Schlafzimmer und zeigte ihn dem Chef. — »Da hat
+sich einer einen Witz gemacht!« schimpfte er. — Aber — er
+legte Umschlag und Briefbogen sehr sorgsam in die
+Nachttischschublade. Schon dieses fiel mir auf. — Am 20. August
+kam der zweite Brief, ebenfalls aus Danzig, auch leer
+— der Briefbogen. Und abermals schimpfte Gumlowsky
+und verwahrte Umschlag und Briefbogen wieder in der
 Schublade des Nachttisches. — Dann ging es ihm besser
-und er sah die Post lebst er Das heißt: er tat so, als
-ob es ihm derer aimae. In Wahrheit hustete er fürchterlich
-und hatte hohes Fieber. Ich argwöhnte Bau er ‚wolle
-wich nur die eingelaufenen Briefe nicht öffnen lassen.«
+und er sah die Post selbst durch. Das heißt: er tat so, als
+ob es ihm besser ginge. In Wahrheit hustete er fürchterlich
+und hatte hohes Fieber. Ich argwöhnte daher‚ er wolle
+mich nur die eingelaufenen Briefe nicht öffnen lassen.«
 
-»Sie werden richtig kombiniert haben,« nickte Hai
+»Sie werden richtig kombiniert haben,« nickte Harald.
 
-»a. das glaube ich auch, erhofft. — ARmmerbin
+»Ja, das glaube ich auch, Herr Harst. — Immerhin
 <@pagebreak/>
-bekam ich die Briefe zuweilen das Bug in die an Die
-seltsamen Sendungen aus Danzig frisierten mich. ch
-Ei Da O ne wieder cm: loben lese
-Form oder n: ade on
-Mu heimlich geöffnet, Herr »Dar!. zu
-nächsten drei Briefe. Und — zu in diesen ı Mr Uciscilä:
-gen nicht als leere Briefbogen!«
+bekam ich die Briefe zuweilen doch zuerst in die Hand. Die
+seltsamen Sendungen aus Danzig interessierten mich. Ich
+paßte auf. Am 23. August war wieder ein Brief von gleichem
+Format darunter. Ich will ehrlich sein: ich habe den
+Umschlag heimlich geöffnet, Herr Harst, auch die der
+nächsten drei Briefe. Und — auch in diesen vier Umschlägen
+nichts als leere Briefbogen!«
 
-»Bann trafen die Briefe Nr, 4, 5 und 6 ein?«
+»Wann trafen die Briefe Nr. 4, 5 und 6 ein?«
 
-»Um 24., 25. und 26. August, — jeden Morgen einer.«
+»Am 24., 25. und 26. August, — jeden Morgen einer.«
 
 »Und dann?«
 
-Dann war der Chef wieder gesund, und ich konnte
-Nr Mr feststellen, ob noch mehr von diesen Briefen
-na
+»Dann war der Chef wieder gesund, und ich konnte
+nicht mehr feststellen, ob noch mehr von diesen Briefen
+anlangten.«
 
-Herr Karl-Ernst Lehmann schwieg und« beschaute Zerlegen
-seine den Fingernägel.
+Herr Karl-Ernst Lehmann schwieg und beschaute verlegen
+seine spitzen Fingernägel.
 
 »Nun kommt die Hauptsache, nicht wahr!« munterte
 Harald ihn auf.
 
 »Ja — wie man’s nimmt, Herr Harst. Die Hauptsache
-»nd doch wohl die sechs leeren Briefbogen. — Gestern
-mußte ich einen Brief nach London schreiben. Der
-un arg is Mär Briefen ins Ausland den deutschen Text
-Burnus. Er selbst kann nicht englisch,
-die
+sind doch wohl die sechs leeren Briefbogen. — Gestern
+mußte ich einen Brief nach London schreiben. Der Chef
+setzt mir stets bei Briefen ins Ausland den deutschen Text
+auf, den ich übersetzen muß. Er selbst kann nicht englisch,
+ebensowenig französisch.«
 
-malen, Du Ulkigen etwas auf?«
+»In diesem Text fiel Ihnen etwas auf?«
 
-mir den Entwurf abgeschrieben. Hier
-er —
+»Ja. — Ich habe mir den Entwurf abgeschrieben. Hier
+ist er —«
 
-Karl-Ernst Lehmann legte einen Kette! vor uns hin.
+Karl-Ernst Lehmann legte einen Zettel vor uns hin.
 Wir lasen folgendes:
 
 > Herrn
 
-> Stuart Null
+> Stuart Austin,
 
 > London,
 
-> Baden-Straße 2A.
+> Baker-Straße 2A.
 
-> Auf Aber letzten Anfragen teilen n Ihnen höflichst
+> Auf Ihre letzten Anfragen teilen wir Ihnen höflichst
 mit, daß die Warenproben Nr. 5 und 6 am meisten
-unseren Wünschen enifpreiben. Wir bitten daher um elften
-ne Posten, da verzerrtes zur Zeit recht Rang
+unseren Wünschen entsprechen. Wir bitten daher um einen
+größeren Posten, da der Artikel zur Zeit recht gangbar
+ist.
 
-> Elemannta, Agenturen — ob. y.
+> Allemannia, Agenturen — p. p.
 
 > Max Gumlowsky.
 
@@ -274,91 +279,91 @@ ne Posten, da verzerrtes zur Zeit recht Rang
 Harst legte den Briefentwurf wieder auf den Tisch.
 
 »Sie wunderten sich, Herr Lehmann, weil keine Warenproben
-Ginge langen waren, auf die dieses Schreiben sich
+eingegangen waren, auf die dieses Schreiben sich
 beziehen könnte?« fragte Harald.
 
-»Ja. Außerdem darüber, daß der Chef mir weis-machen
+»Ja. Außerdem darüber, daß der Chef mir weismachen
 wollte, es handele sich um Feuerzeuge, die wir allerdings
-von N nahe Austin aus London erhalten hatten.«
+von Herrn Austin aus London erhalten hatten.«
 
-»Lieben Sie Ihre Zweifel laut werden?«
+»Ließen Sie Ihre Zweifel laut werden?«
 
 »Nein, Herr Harst. — Heute vormittag erfolgte dann
 das Dritte, was mich seltsam berührte. Gumlowsky wurde
-Bai u Uhr am Telephon verlangt, das heißt, es
-teil Zeugnis: ob Den! Gumlowsky zu sprechen sei. Zh-rüd:
-»Hi er Max Gunulowsky u. Komp.« — Darauf
-Fremde: »Du — ich bin wieder in Berlin! »Habe soll
-Deine Nummer im neuen Telephonbuchuachtraa gefunden
-— Mensch — rate mal, wer mit Dir er -
-Dann lachte der Kenne und (fügte hinzu: »Das rätst
-nie! Der, schwarze Max ist’s! Nachmittags um sei by
-komme vf Dir. Halte die Luft rein! Auf Wiedersehn,
-Turnte — Da dachte ich mir, daß es ratsam sei, den
-Handels neu ‘spielen, und rief schnell: »Entschuldigen Sie,
-Herr M Lau ich bin nur der Prokurist. Der nur »un
-genau Sich werde ihm aber bestellen, daß Sie
-zwei Übt ihn besuchen wollen.« — Dann hörte ich Sinn
+gegen zehn Uhr am Telephon verlangt, das heißt, es
+fragte jemand, ob Herr Gumlowsky zu sprechen sei. Ich
+rief zurück: »Hier Max Gumlowsky u. Komp.« — Darauf
+der Fremde: »Du — ich bin wieder in Berlin! »Habe soeben
+Deine Nummer im neuen Telephonbuchnachtrag gefunden
+— Mensch — rate mal, wer mit Dir spricht?« -
+Dann lachte der Fremde und fügte hinzu: »Das rätst Du
+nie! Der schwarze Max ist’s! Nachmittags um zwei Uhr
+komme ich zu Dir. Halte die Luft rein! Auf Wiedersehn,
+Gumlochen!« — Da dachte ich mir, daß es ratsam sei, den
+Harmlosen zu spielen, und rief schnell: »Entschuldigen Sie,
+Herr Max, — ich bin nur der Prokurist. Der Chef ist ausgegangen.
+Ich werde ihm aber bestellen, daß Sie
+zwei Uhr ihn besuchen wollen.« — Dann hörte ich einen
 Fluch — und es meldete sich niemand mehr.«
 
-Was zarte Gumlowsky, als Sie ihm von dem schwarzen
-Mai berichteten?«
+»Was sagte Gumlowsky, als Sie ihm von dem schwarzen
+Max berichteten?«
 
-»Oh — ich erzählte nur, ein Herr Mai habe ihn
-wollen und würde sich um zwei Uhr einfinden. —
-*das* Gesicht des Chefs hätten Sie sehen sollen, Herr der
-Ganz blaß wurde Guml5wsky, Dann puterrot; kamt bücke
+»Oh — ich erzählte nur, ein Herr Max habe ihn sprechen
+wollen und würde sich um zwei Uhr einfinden. — Aber —
+*das* Gesicht des Chefs hätten Sie sehen sollen, Herr Harst!
+Ganz blaß wurde Gumlowsky. Dann puterrot; dann bückte
 er sich schnell und hob seinen Hut auf, den er natürlich
-absichtlich hingeworfen hatte. »Ich so — der Herr Mai!«
-Und dann rum er vom Wetter. — Ich habe von eins bis
-drei er Aber die Neugierde ließ mir keine Ruhe.
-Ich wo schwarzen Mai sehen, stellte mich um 42
-eine wir ugs Den Hausflur und paßte zu ich Es kam jedoch
-fein Mole zu Gumlowsky. Nur eine ältere Dame betrat
-en. Es wird eine Bekannte Frau Gumlowskys
-Co fein.«
+absichtlich hingeworfen hatte. »Ach so — der Herr Max!«
+Und dann sprach er vom Wetter. — Ich habe von eins bis
+drei Tischzeit. Aber die Neugierde ließ mir keine Ruhe.
+Ich wollte den schwarzen Max sehen, stellte mich um ¾ 2
+gegenüber in den Hausflur und paßte auf. Es kam jedoch
+kein Mensch zu Gumlowsky. Nur eine ältere Dame betrat
+den Laden. Es wird eine Bekannte Frau Gumlowskys
+gewesen sein.«
 
 <@pagebreak/>
 »Wahrscheinlich!«
 
 »Dann spürte ich nachmittags ganz deutlich, daß der
-Chef mich aushorchen wollte, ob ich etwa bei dem Tore«
-pgongespräch mit Herrn Mai etwas Besonderes gefunden,
-also irgendwie Verdacht geschöpft hätte, Ich spielte wieder
-den Harmlosen. Aber — als Ich so gegen acht Uhr meine
+Chef mich aushorchen wollte, ob ich etwa bei dem
+Telephongespräch mit Herrn Max etwas Besonderes gefunden,
+also irgendwie Verdacht geschöpft hätte. Ich spielte wieder
+den Harmlosen. Aber — als ich so gegen acht Uhr meine
 Wohnung in der Kantstraße Nr. 36 — ich wohne dort möbliert
 — verließ und mit der Straßenbahn bis hier nach
-»Schmargendorf fuhr, da — da bemerkte ich vom Innern
+Schmargendorf fuhr, da — da bemerkte ich vom Innern
 des Wagens aus auf der Plattform einen Mann, der mich
 zuweilen mit so einem besonderen Blick streifte. — Gewiß,
 der Mann hatte keinerlei Aehnlichkeit mit meinem mageren,
-bartlosen Chef, harte einen rötlichen Vollbart, trug keinen
-Hornkneifer, hatte eine noch Dickere Nase als GumlowNy
+bartlosen Chef, hatte einen rötlichen Vollbart, trug keinen
+Hornkneifer, hatte eine noch Dickere Nase als Gumlowsky
 und war korpulent. Und trotzdem: die Augen verrieten
 den verkleideten Spion! Es waren meines Chefs unruhige,
-halb zugekniffene Augen; es war dasselbe ner-vóöse
-Zwinkern des linken Auges. Jedenfalls — nachdeur
+halb zugekniffene Augen; es war dasselbe nervöse
+Zwinkern des linken Auges. Jedenfalls — nachdem
 ich erst einmal auf den Mann aufmerksam geworden war,
-nachdem ich ihr Is weiter belauert hatte, ward es
-mir zur Gewißheit: es is Max Gumlowsky! — Ich listete
-mich Stachel, etwa hier in der Nähe Ihres Hauses auszusteigen,
-Herr Harst. Sich fuhr bis zum Viktoria-Louise-Play
-und betrat Dort ein Cafee, das zwei Eingänge hatte,
+nachdem ich ihn weiter belauert hatte, ward es
+mir zur Gewißheit: es ist Max Gumlowsky! — Ich hütete
+mich daher, etwa hier in der Nähe Ihres Hauses auszusteigen,
+Herr Harst. Ich fuhr bis zum Viktoria-Louise-Platz
+und betrat dort ein Cafee, das zwei Eingänge hatte,
 verließ es sofort wieder durch die andere Tür und sprang
-»in ein Auto. Aus Ihres Freundes Schilderungen Athlet
-Abenteuer eng ich, Den auch durch das Laubenae
-Gelände an die Rückseite Ihres Grundstücks gelangen kann.
-Als ich dann zu Nuß mich dem Gartenzaun auf dem Feldwege
+in ein Auto. Aus Ihres Freundes Schilderungen Ihrer
+Abenteuer weiß ich, daß man auch durch das Laubengelände
+an die Rückseite Ihres Grundstücks gelangen kann.
+Als ich dann zu Fuß mich dem Gartenzaun auf dem Feldwege
 näherte, als ich mich mißtrauisch nochmals umschaute,
-Tal ich — Gumlowsky, der mir laufend folgte. Da habe
+sah ich — Gumlowsky, der mir laufend folgte. Da habe
 ich dann nicht lange gezögert, kletterte über den Zaun, eilte
-durch den- Gemüsegarten und schlich zulegt links am noch
-entlang dem Hofe zu ’—«
+durch den Gemüsegarten und schlich zuletzt links am Zaun
+entlang dem Hofe zu —«
 
-Deshalb also hat der Hund Sie zieht gemelbetl —
-Dann verfhiwanden Sie im Hühnerstall —
+Deshalb also hat der Hund Sie nicht gemeldet! —
+Dann verschwanden Sie im Hühnerstall —«
 
-»cya, Herr Harst —«
+»Ja, Herr Harst —«
 
 <@pagebreak/>
 
@@ -831,7 +836,7 @@ Den Umständen nach müßte entweder Karl-Ernst oder ei
 er der beiden Detektive es Ajax hingeworfen haben.«
 
 <@pagebreak/>
-»Unsinn! Daran glaubst Du Selbft nicht!« gern es
+»Unsinn! Daran glaubst Du Selbst nicht!« gern es
 mir. »Gumlowsky ist eben als dritter bei uns im Garten
 gewesen und hat zu, als wir mit dem jungen Menschen-ins
 Haus gegangen waren, das Fädchen auf dem Körnerboden
@@ -972,7 +977,7 @@ Was blieb mir anderes übrig als By ehe
 ch stand auf, See die Rolle Draht auf. ’daralb
 hielt mir die Hände
 
-»Etwas seziert» da Orstra dann. »So — das ne
+»Etwas seziert« da Orstra dann. »So — das ne
 
 Der Nest der Drahtrolle, noch neuen drei Meter, fiel
 auf den Teppich.
@@ -1219,7 +1224,7 @@ e:
 »Gumlowsky und Orstra sind alte Bekannte und —«
 
 Harald unterbrach mich: »Ja — und nicht Gumlowsky,
-sondern Orstra war bei uns im Garten und im Hübner
+sondern Orstra war bei uns im Garten und im Hühner
 all und hat das Geld hinter den Maissack gelegt. — Nun
 Höre mich nicht. Der Stammbaum is recht interessant.
 As den Namen der verstorbenen Mitglieder der Familie
@@ -1372,7 +1377,7 @@ ja die Meldung, daß ich hinter den Frankfurter Dieben
 der bin. hebt wollen wir den Gemeindevorsteher ein
 wenig ausfragen.«
 
-Der Herr Gemeindevorsteher sah sich Hoffst Lenitima-Be
+Der Herr Gemeindevorsteher sah sich Hoffst Lenitima-He
 genau an. Dann wurde er die Liebenswürdigkeit
 selbst.
 
@@ -2023,12 +2028,12 @@ und prüfen Sie mal, By u das Schloßgespenst zu irgend
 Mr Unfug denn
 
 Dein Chauffeur Hai sechs Jahren bei mir und
-unbedingt zuverlässig. Nur er weiß, daß ich an Sie ge-BREme
+unbedingt zuverlässig. Nur er weiß, daß ich an Sie ge-Brenne
 habe. Falls Sie hier unerkannt auftreten wollen,
 spielen Sie doch die Rolle von Tapezierern. Ich wollte
 zwei ums schon lange neu tapezieren lassen, und Whisky,
 mein. nie, sollte sich angeblich heute in Berlin um einen
-Tapezierer bemühen und Tapeten mitbringen. Tape-LED
+Tapezierer bemühen und Tapeten mitbringen. Tone-Leck
 en Fall.
 
 nun Schluß! Ich würde mich freuen, wenn Sie
@@ -2055,7 +2060,7 @@ By) ein offener, älterer gen. Aber Plitt schonte den Vorrecht.
 
 elf harrten wir auf Schloß Domkenhof an.
 
-Domke, ein korpuleunter, sehr großer Mann mit bart-Lofent,
+Domke, ein korpuleunter, sehr großer Mann mit bar!-Talent,
 schwammigem Gesicht, brachte uns daher persönlich
 in den ersten Stock in ein Fremdenzimmer wie anbot Betten,
 das dicht an der Haupttreppe lag. Das Personal war
@@ -2777,9 +2782,9 @@ los und haben mit Orstra nichts zu tun. Weit wahrschein
 südlicher ist, daß Orstra und der Mann schon vorher ein Stelldichein
 verabredet hatten und daß dieser Mann nicht mit
 Balk identisch ist, sondern daß es der Diener Gottlieb
-Krause war. Es laufen hier eben zwei Geheimnisse neue—
+Krause war. Es laufen hier eben zwei Geheimnisse nebeneinander
 <@pagebreak/>
-einander her: Balk, Elly und die Lichttelegraphie, und
+her: Balk, Elly und die Lichttelegraphie, und
 zweitens Gottlieb Krause, der Spuk und Orstra —«
 
 Harald war plötzlich stehen geblieben.
@@ -3170,7 +3175,7 @@ tiefem a« Auch die falschen nu«
 
 <@pagebreak/>
 »Krause, Orstra ist — tot. Er erkannte uns, Er
-hatte an der Eiche in der Lichtung den Draht der Stricklei-Aer
+hatte an der Eiche in der Lichtung den Draht der Strickleiter
 gefunden —«
 
 »Tot — tot?!« rief der Diener dazwischen. »Oh —
