@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">94ef624a-1447-11ea-ac77-57e7aea95fca</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis der Insel Morton</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">70</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">Das Geheimnis der Insel Morton
+
+Damals, als das »Morton-Problem« uns beschäftigte, wohnten wir im Europäerviertel der Stadt Benares am heiligen Ganges-Strome; damals, als es uns zu beschäftigen begann, funkelten die Sterne am nächtlichen Himmel in wunderbarer Pracht; in dem Parke des Bungalow, wo wir als alleinige Herren Unterkunft gefunden, kreischten schlaftrunkene Affen in den Baumkronen, rauschten Fächerpalmen und schluchzten und schmetterten indische Nachtigallen ihre schmelzenden Lieder.
+
+Das war jene Nacht, in der ein Abenteurer namens Brabazon seinen Geist aushauchte, während wir beide und Detektivinspektor Worbler um sein Sterbelager herumstanden und seinen letzten Worten atemlos lauschten.
+
+Harald Harst hatte ihn gefragt, was er über die Besatzung der Jacht »Star of London«, die in einem Seitenarm des Ganges ankerte, zu sagen hätte. Und er hatte erwidert:
+
+»Verbrecher — Morton in —«
+
+Dann war er verschieden — als Opfer einiger Leute jener weißen Motorjacht, — als Opfer einiger Leute bei dem auch wir fast das Leben eingebüßt hätten. —
+
+Der Taucher von Sandriwata
+
+Lord Ernest Ralbrout hatte gleich nach unserer Ankunft in Kalkutta eines jener eleganten Wohnschiffe gemietet, die selbst dem besten Luxushotel vorzuziehen sind. Er hatte uns eingeladen, dort seine Gäste zu sein, und hatte auch den Rest der Besatzung des noch in Piratenhänden befindlichen Star of London in dem schwimmenden Hause untergebracht.  — Harald war diese Einladung, wie er nachher sagte, aus bestimmten Gründen nicht angenehm. — »Man hat auf diese Weise zu viele gesellschaftliche Verpflichtungen,« meinte er. »Uns fehlt die Bewegungsfreiheit. Alle Zeitungen haben den Fall Ralbrout breitgetreten. Zum Unglück liegt unser Wohnschiff am Dampferkai vertäut und wird nun den Tag über von Neugierigen belagert. Man kann keinen Schritt unbeobachtet tun. Wir beide sind die Hauptzielscheibe von photographischen Apparaten in allen Größen.  Ich verzichte gern auf diese vornehm ausgestatteten Räume und das prächtige Essen! Ich will mein eigener Herr sein!«
+
+Er hatte recht: dieser Sensationshunger der Bevölkerung war überaus lästig! — Ich wollte jetzt etwas fragen.  Aber Harald fuhr schon fort: »Du willst wissen, weshalb ich soeben von »bestimmten Gründen« und dem Wunsch nach voller Bewegungsfreiheit sprach. — Meinst Du, daß die Piratenbande für mich abgetan ist?! Niemals! Schon aus dem einfachen —«
+
+Er schwieg. Es hatte an die Tür unserer Luxuskabine geklopft. — Harst rief: »Herein!«
+
+Es war Lady Mabel Ralbrout. — Sie trat hastig ein, drückte die Tür hinter sich zu und blieb schwer atmend stehen. Ihre Augen zeigten Tränenspuren.</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (070) Das Geheimnis der Insel Morton.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
