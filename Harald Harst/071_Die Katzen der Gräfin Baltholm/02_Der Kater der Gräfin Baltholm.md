@@ -59,7 +59,7 @@ bei sich?« fragte er und steckte eine frische Zigarette an.
 
 »Dann leihen Sie sie mir bitte —«
 
-Der Inspektor blickte Harst scharf am.
+Der Inspektor blickte Harst scharf an.
 
 »Was wollen Sie damit?«
 
@@ -67,7 +67,7 @@ Der Inspektor blickte Harst scharf am.
 enthält recht alte Möbel und eine ganz nette kleine Kupferstichsammlung.«
 — Harald sagte das so recht gleichgültig,
 hatte die Zigarette dabei im linken Mundwinkel und hüllte
-sein Denkerhaupt in seine, allerdings schnell verwehende
+sein Denkerhaupt in feine, allerdings schnell verwehende
 Wölkchen ein.
 
 Löngaard reichte Harst einen Ring mit vier plumpen
@@ -294,7 +294,7 @@ Schädel kosten können!«
 »Unsinn! Was redest Du da, mein Alter. Ich müßte
 es doch wissen, wenn wir karamboliert hätten —«
 
-»Gestatte: es kam jemand *von* oben herabgestürzt - —
+»Gestatte: es kam jemand *von* oben herabgestürzt —
 genau so schnell wie ich *nach* oben wollte!«
 
 Harald pfiff leise durch die Zähne.
@@ -630,7 +630,7 @@ nichts finden.«
 
 »Oho!« meinte der Inspektor. »Wir suchen so lange,
 <@pagebreak/>
-bis wie etwas gefunden haben, entweder das »Schloßgespenst«
+bis wir etwas gefunden haben, entweder das »Schloßgespenst«
 oder die fünf Falschmünzer!«
 
 »Möglich, daß wir den Geist aufstöbern, lieber Löngaard.
@@ -641,7 +641,7 @@ gerade das Schloß zerstören, es also vom Dache an abbrechen.«
 
 »Daß der »Geist« noch hier ist, halten Sie für wahrscheinlich?«
 
-»Ja, Sie werden ja wohl schon einige Zeit draußen
+»Ja. Sie werden ja wohl schon einige Zeit draußen
 im Regen mit Ihren Leuten gestanden haben.«
 
 »Das stimmt. Es konnte niemand seit einer halben
@@ -883,7 +883,7 @@ Salon schloß sich ein Bibliothekszimmer und ein — offenbar
 unbenutzt gewesenes — einfach möbliertes Schlafzimmer
 an.
 
-Ich verspürte hebt einen Hunger, der mich veranlaßte,
+Ich verspürte jetzt einen Hunger, der mich veranlaßte,
 daß Eßpaket sehnsüchtig zu mustern, nachdem wir um den
 kleinen Tisch Platz genommen hatten.
 
@@ -896,7 +896,7 @@ Blubb:
 »Nein. Ich war —«
 
 <@pagebreak/>
-»Später, Mr. Blubb!« — Harald schaute auf den
+»— Später, Mr. Blubb!« — Harald schaute auf den
 Kater, der im Salon hin und her strich, dann plötzlich mit
 einem Satz auf das Schränkchen sprang, auf dem die drei
 Figuren standen, und — mit einem zweiten sich bis zu einer
@@ -914,8 +914,8 @@ Verschwinden im Geiste zurecht gelegt hatte.
 Harald hatte dem Kater nachgeblickt.
 
 »Merkwürdig, daß Jakoobsen nicht herausfand, weshalb
-es dort auf dem Schraut so stark nach Ylang Ylang
-roch,« sagte er zu mir, »Nur ein Ventilationsrohr, das in
+es dort auf dem Schrank so stark nach Ylang Ylang
+roch,« sagte er zu mir. »Nur ein Ventilationsrohr, das in
 den Mauern entlangläuft, konnte den Geruch irgend woher
 hier in den Salon leiten. Als Kribbi in der Nacht dort
 oben sich unsichtbar gemacht hatte, ließ das bewegliche
@@ -925,11 +925,11 @@ Robinson Blubb lächelte etwas selbstgefällig. »Ylang
 Ylang ist der Gräfin Lieblingsparfüm —«
 
 »Das weiß ich, Mr. Blubb, — schon seit fünf Tagen,
-als ich der Gräfin Schlafzimmers hier zum ersten Male mir
+als ich der Gräfin Schlafzimmer hier zum ersten Male mir
 ansah.« — Dann stand er auf, legte die Clement auf den
 Tisch und holte den Karton.
 
-»Ich kann Deine gierigen Blicke nickst länger ertragen,«
+»Ich kann Deine gierigen Blicke nicht länger ertragen,«
 sagte er. »Ich werde Dir etwas von unseren Schätzen zukommen
 lassen, lieber Alter.«
 
@@ -1010,7 +1010,7 @@ mich zurückzuziehen. Ich entkam Ihnen, und — Jakoobsen
 lief Ihnen in die Arme, Mr. Harst.«
 
 »Und der dritte Mann — der unbekannte Tote? Bemerkten
-Sie den oben im Flur, als Sie vor mir zurückwich?«
+Sie den oben im Flur, als Sie vor mir zurückwichen?«
 
 »Nein. Es war ja stockdunkel. — Als Sie dann mit
 Jakoobsen im Salon saßen, kroch ich unter das Sofa in der
@@ -1034,7 +1034,7 @@ mich gebeten, ihn zu begleiten. Als wir das Nest leer fanden,
 riet ich ihm, eine Spur zu verfolgen, die nach Holland
 wies. Es schien wirklich, als hätte Olaf sich dorthin gewandt.
 Ich selbst fuhr hier nach Stockholm, um mich insgeheim
-an der Jagd nach dem fünfen zu beteiligen. Ich
+an der Jagd nach den fünfen zu beteiligen. Ich
 hatte in London ein Bild Olaf Bränkyrs zu mir gesteckt.
 Kurz: Ich erkannte den Toten!«
 
@@ -1077,7 +1077,7 @@ wieder Platz nahm.
 Harst faltete den Zettel auseinander.
 
 »Von einem der Leute der Wache im Nebengebäude,«
-erklärte er dann, »Hier steht:
+erklärte er dann. »Hier steht:
 
 > »Der Kater ist hier soeben aufgetaucht. Fanden ein
 enges Loch im Boden und schicken Kater mit Zettel zurück,
@@ -1118,12 +1118,12 @@ oben schleichen —«
 Harald trat in die offene Tür und blickte ihm nach,
 wandte sich nach einer Weile um, und — riß mir den Becher
 aus der Hand — so heftig, daß der Tee, den ich mir soeben
-eingeschenkt hatte, auf dem Teppich spritzte.
+eingeschenkt hatte, auf den Teppich spritzte.
 
-»Du — da hättest Du beinahe etwas Schönes angerichtet.«
+»Du — da hättest Du beinahe etwas Schönes angerichtet,«
 meinte er.
 
-Ich schaute ihn äußerst verblüfft am. Sofort kam mir
+Ich schaute ihn äußerst verblüfft an. Sofort kam mir
 aber auch die Erleuchtung.
 
 »Etwa — etwa Gift?!« stotterte ich.
@@ -1274,7 +1274,7 @@ nichts verriet mich —«
 »Hm, wenn ich mir dessen nur sicher wäre, Jakoobsen! Dann
 wäre das Unheil, das Sie angerichtet haben, noch nicht so
 groß. — Probieren wir’s! Verbergen Sie sich in der Vorhalle
-unter dem Sofa! Los doch! Verschwinden Sie? Und
+unter dem Sofa! Los doch! Verschwinden Sie! Und
 keinen Laut, bis ich rufe!«
 
 Der kleine Redakteur eilte hinaus und zog die Tür
@@ -1374,7 +1374,7 @@ förmlich auf.
 
 »Ich bin heute geistig nicht auf der Höhe!« meinte er
 lebhaft. »Ich habe Kribbi ganz vergessen, Kribbi und den
-Zettel Kommen Sie!«
+Zettel. Kommen Sie!«
 
 Und er zog den kleinen Redakteur und mich mit sich
 fort nach dem linken Turmeingang.
@@ -1440,7 +1440,7 @@ dort oben in die Röhre setzen!«
 
 Armer Kribbi! — Alles Wehren, alles Kratzen half
 ihm nichts. Er wurde in eine Decke gehüllt, so daß seine
-Krallen nichts nicht ausrichteten. Harald band das Messer
+Krallen nichts mehr ausrichteten. Harald band das Messer
 so gut fest, daß es nicht verloren gehen, anderseits leicht
 gelöst werden konnte.
 
@@ -1455,7 +1455,7 @@ offen standen.
 Wir warteten den Erfolg von Haralds Idee mit
 wachsender Ungeduld ab.
 
-Zehn Minuten wagten verstrichen. Dann ein Geräusch, —
+Zehn Minuten waren verstrichen. Dann ein Geräusch, —
 dann sahen wir, wie die breite Türschwelle der Flurtür
 sich langsam senkte, nun links herunterklappte und so einen
 Schacht öffnete, aus dem jetzt Ersta — Ersta in Männerkleidern
@@ -1476,7 +1476,7 @@ uns! Der Herr dort ist —«
 »Ja — es ist mein Mann. Sie sollen alles erfahren
 — Balder, mein Gatte, war früher leidenschaftlicher Spieler.
 Vor drei Jahren verlor er in einem Klub in London
-Unsummen. Es wurde urbar gespielt. Er sollte das
+Unsummen. Es wurde unbar gespielt. Er sollte das
 Geld, nahezu eine Million, in drei Tagen aufbringen. Er
 kam ganz verzweifelt damals zu mir ins Hotel. Unser
 Chauffeur Bränkyr, den wir erst vor kurzem eingestellt
@@ -1532,7 +1532,7 @@ Sie nicht, denn — dort kommt Inspektor Löngaard bereits.«
 
 Er deutete zum Fenster hinaus.
 
-»Sie haben recht, Herr Harst,« erklärte Graf Baltholm
+»Sie haben recht, Herr Harst,« erklärte Graf Baltholm.
 »Ich habe gefehlt — ich will die Strafe auf mich
 nehmen.« —
 

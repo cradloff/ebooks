@@ -55,7 +55,7 @@ Meine Staatspension erlaubt es mir auch nicht, mich
 in dieser Angelegenheit an einen Berufsdetektiv zu wenden,
 den ich nicht bezahlen könnte. Anderseits eignet sich
 das von mir Beobachtete auch nicht dazu, es der Polizei
-unterbreiten, denn es handelt sich dabei um die Gräfin
+zu unterbreiten, denn es handelt sich dabei um die Gräfin
 Maria Baltholm, eine Witwe von etwa dreißig Jahren,
 die in Stockholms ersten Kreisen zu den beliebtesten Erscheinungen
 gehört.
@@ -102,7 +102,7 @@ selbst dann feststellte, zwar gut gefüttert, aber durchaus
 nicht besonders liebevoll von der Gräfin, dem Schloßkastellan
 und den drei Dienstboten behandelt.
 
-Am 6. Juli des Vorjahres beobachtete ich nacht gegen
+Am 6. Juli des Vorjahres beobachtete ich nachts gegen
 halb zwölf zum ersten Male folgendes, als die Gesichtsschmerzen
 mich aus dem Bett und ans Fenster getrieben
 hatten, ohne daß ich Licht gemacht hatte. Der Kastellan
@@ -173,7 +173,7 @@ zu lassen.
 Den Winter hindurch konnte ich nichts beobachten, da
 die Nächte dunkel waren. Aber dreimal hörte ich wieder
 die Todesschreie der Tiere, und im Februar erspähte ich
-auch Bränkyrs kleine Gestell mit einer Laterne vor dem
+auch Bränkyrs kleine Gestalt mit einer Laterne vor dem
 Nebengebäude, wie er gerade in der linken Hand einige
 Katzen wegschleppte.
 
@@ -334,7 +334,7 @@ Wir zogen das Boot in eine Spalte des Steilufers
 hinein und erkletterten dann recht mühsam den Felswall,
 den Söderbloom in seinem Briefe erwähnt hatte.
 
-Die Nacht zwar klar und still. Wir sahen kaum zwanzig
+Die Nacht war klar und still. Wir sahen kaum zwanzig
 Meter vor uns das Blockhaus liegen, umgeben von
 einem Gärtchen, weiterhin die größere Nachbarinsel Gröndal
 und das düstere, schmucklose Schloß der Gräfin mit
@@ -397,7 +397,7 @@ Bränkyr folgte ihr noch langsamer. Gleich darauf
 wurden zwei Fenster im Erdgeschoß hell, blieben etwa fünf
 Minuten erleuchtet und wurden wieder dunkel.
 
-»Er ist Schlafen gegangen,« sagte Harald. »Nun können
+»Er ist schlafen gegangen,« sagte Harald. »Nun können
 wir uns freier bewegen. — Vorwärts, kriechen wir
 bis an den Gartenzaun. Dann sind wir gegen Sicht
 gedeckt.«
@@ -492,7 +492,7 @@ beugte sich hinaus und holte keuchend Atem.
 »Ermordet!« sagte er dann. »Der Kopf ist halb zertrümmert.
 Wir —«
 
-Da hatte ich schon seinen Arm umklammert, horchte;
+Da hatte ich schon seinen Arm umklammert, hauchte:
 
 »Ein Mann — dort — er schleicht auf die Zaunpforte
 zu —«
@@ -636,7 +636,7 @@ Paar mit Hilfe der Zähne auf.
 Da — Haralds leises Lachen, dann die Worte:
 
 »Kollege, lassen Sie die Dinger stecken! Wir sind nicht
-die, für die Sie und halten. Ich rate Ihnen, mich doch
+die, für die Sie uns halten. Ich rate Ihnen, mich doch
 mal genauer anzusehen. Vielleicht haben Sie mal ein
 Bild von Harald Harst irgendwo in einer Zeitschrift
 gefunden —«
@@ -653,7 +653,7 @@ Dann ließ er die linke Hand sinken.
 Indien!«
 
 »So — so!« meinte Harald. »Na — meinetwegen!
-Sie wollen sich dem fetten Happen nicht entgehen lassen.
+Sie wollen sich den fetten Happen nicht entgehen lassen.
 Nur sollten Sie nicht so töricht sein, mich täuschen zu wollen.«
 
 »Maul gehalten!« fuhr der Mann auf.
@@ -717,7 +717,7 @@ Gewißheit haben wollte, bevor ich die Maske lüftete. —
 Bitte — nach Ihnen —,« und er reichte ihm Feuer für die
 Zigarette, für die echte Mirakulum, Harsts Spezialmarke,
 die nur für ihn von einer Pankower Zigarettenfabrik angefertigt
-wird und deren Name »Mirakulum“« ich unlängst
+wird und deren Name »Mirakulum« ich unlängst
 sogar in jener Druckerei in Riesenbuchstaben an die Wand
 gemalt fand, die die Harst-Bändchen herstellt.
 
@@ -866,7 +866,7 @@ erste Empörung vorüber und ihre Gedanken wieder ruhiger,
 durch mich feststellen lassen, in wessen Netze ihr Hans dort
 in Stockholm geraten sei. Am 20. Juli kam sie dieserhalb
 zu mir. Ein merkwürdiger Zufall war’s, daß da gerade
-ein Paket aus Stockholm bei von anlangte, in dem mir
+ein Paket aus Stockholm bei uns anlangte, in dem mir
 der Stockholmer Privatdetektiv Roobsal, mit dem ich in
 Geschäftsverbindungen stehe und der auch Hans Bertge sehr gut
 kannte, Bertges weichen Filzhut schickte, den dieser auf der
@@ -916,7 +916,7 @@ kann doch nicht sein! Bränkyr soll —«
 Sie mal zu, Kollege Günther. Sie werden staunen, wer
 uns nach Stockholm gerufen hat und was wir über die
 Katzen der Gräfin Baltholm wissen.« — Er berichtete alles
-— Nötige in seiner kurzen, übersichtlichen Art und sagte zum
+Nötige in seiner kurzen, übersichtlichen Art und sagte zum
 Schluß:
 
 »Herr Günther, daß die Belohnung von einem Herrn
@@ -1023,7 +1023,7 @@ Zweifel Gabert!
 Bränkyr war stehen geblieben und sagte zu dem Weibe,
 in der ich das angebliche Hausmädchen Ersta vermutete,
 etwas in schwedischer Sprache, die mir nicht geläufig ist.
-Harald hat mir Nachen die Sätze auf deutsch wiedergegeben.
+Harald hat mir nachher die Sätze auf deutsch wiedergegeben.
 Außerdem war ein Teil des Inhalts von Bränkyrs
 Worten durch seine Gesten zu erraten.
 
@@ -1046,11 +1046,11 @@ den Mund, das er mit einem Stück Schnur im Genick befestigte.
 
 »Sie darf auf keinen Fall etwas hiervon erfahren,«
 erklärte Ersta nun mit zaghafter, tiefer Stimme. »Wir
-müssen ihm so hinüberschaffen, daß sie es nicht sieht,
+müssen ihn so hinüberschaffen, daß sie es nicht sieht,
 Bränkyr.«
 
 <@pagebreak/>
-Der Schloßvertwalter nickte »Wird befolgt! — Die
+Der Schloßvertwalter nickte. »Wird befolgt! — Die
 Geschichte hier hat ja nun ohnedies ein Ende. Der Boden
 wird uns zu heiß. Vielleicht hat dieser Günther dritten
 Leuten von seinem Argwohn etwas mitgeteilt. Jedenfalls:
@@ -1066,7 +1066,7 @@ meinte Ersta. »Man wird ihn ja bald finden, falls —«
 
 »Nein. Er könnte zu früh entdeckt werden. Ein Zufall
 kann jemand schon heute nach der Insel führen. Dann
-beginnt Polizei zu arbeiten, faßt uns vielleicht noch im
+beginnt die Polizei zu arbeiten, faßt uns vielleicht noch im
 letzten Moment ab!«
 
 Ersta seufzte vornehmlich. »Wenn Sie nur das nicht
@@ -1220,7 +1220,7 @@ haben —«
 an den Hals, und —«
 
 »Das ist nebensächlich. — Was taten Sie mit dem
-Professor?? Ich denke, er wird gleichfalls drüben gefangen
+Professor? Ich denke, er wird gleichfalls drüben gefangen
 gehalten —«
 
 »Auch das stimmt,« sagte der Verwalter. »Ich habe
@@ -1229,7 +1229,7 @@ Einbruch vorgetäuscht. Söderbloom zwang ich, mich zu begleiten.
 Er wird zusammen mit Bertge im Keller gefangen
 gehalten.«
 
-»Dann bliebe also nur noch bis Frage zu erörtern, weshalb
+»Dann bliebe also nur noch die Frage zu erörtern, weshalb
 Sie den Katzenfellhandel so heimlich betrieben,«
 meinte Harst.
 
@@ -1270,7 +1270,7 @@ wegschicken.«
 »So — so! — Hat Ihnen Ihr Bekannter, der Hofkürschner
 Ektory, vielleicht einen Abnehmer für die Felle
 namhaft gemacht in dem guten Glauben, daß es sich nicht
-um die Pelze gestohlenen Tiere handle?«
+um die Pelze gestohlener Tiere handle?«
 
 »Nein. — Ich kenne Ektory auch nur wenig. Es ist ein
 so angesehener Mann, daß er seine Freunde nicht gerade in
@@ -1280,7 +1280,7 @@ den Kreisen einfacher Leute sucht.«
 
 »Das tat er der Frau Gräfin zu Liebe.«
 
-»So Tag so!
+»So — so!«
 
 Für mich, der mit Haralds Art seit Jahren vertraut
 ist, war dieses Verhör ebenso genußreich wie vielsagend.
@@ -1405,7 +1405,7 @@ Mit ein paar Ruderschlägen waren wir drüben auf
 Gröndal.
 
 Wir schritten dem Schlosse zu, kamen an dem Nebengebäude
-vorüber, wo ein paar Katzen sich vor der Tür im
+vorüber, wo ein paar Katzen sich vor der Tür in
 der Morgensonne den Pelz leckten.
 
 »Sie ahnen nicht, diese Viecher, wozu man sie benutzen
@@ -1429,7 +1429,7 @@ Schreibtisch alle Schubladen herausgerissen.
 
 »Geflohen!« meinte Harst, der plötzlich sehr lebendig
 wurde. »Nun gilt’s! — Günther, Sie müssen Bertge und
-Söderbloom aus der Keller befreien. Schraut und ich haben
+Söderbloom aus dem Keller befreien. Schraut und ich haben
 in Stockholm zu tun. Sonst haben wir dort das Nachsehen!«
 
 Wir beide liefen der Bootsbrücke zu. Das Motorboot
@@ -1459,7 +1459,7 @@ wartende Auto. —
 
 Ektorys Geschäft und Haus lag in der Drottninggatan,
 der Hauptstraße, wo sich Laden an Laden befindet, — die
-Stockholmer: »Friedrichstraße«, würde der Berliner mit
+Stockholmer »Friedrichstraße«, würde der Berliner mit
 Recht sagen.
 
 Es war ein halb acht Uhr geworden. Die Angestellten
@@ -1520,7 +1520,7 @@ von mir.«
 Da überlief Ektorys Gestalt ein Zittern.
 
 »Bitte!« quälte er hervor. »Dem steht nichts im
-Wege. — Er suchte seine Verstörtheit mühsam zu verbergen.
+Wege.« — Er suchte seine Verstörtheit mühsam zu verbergen.
 
 »Wir werden Sie in die Mitte nehmen. — Wo befindet
 sich die Kiste?«
