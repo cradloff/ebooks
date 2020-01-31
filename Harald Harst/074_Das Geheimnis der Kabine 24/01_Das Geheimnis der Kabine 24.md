@@ -29,8 +29,11 @@ seine Visitenkarte.«
 Die Karte zeigte den Aufdruck:
 
 > Doktor Sigurd Olavsen,
+
 > prakt. Arzt,
+
 > Christiania,<@refnote 1/>
+
 > Kungsgatan 38.
 
 <@pagebreak 4/>
@@ -473,7 +476,7 @@ Und dort flammte jetzt für Sekunden ein Lichtschein auf.
 »Harald!« flüsterte ich nochmals, obwohl ich bereits den ersten Schritt auf die
 Tür zu getan hatte.
 
-Kleine Antwort. Ich eilte rascher auf die Tür zu, faßte in die Tasche. Hatte
+Keine Antwort. Ich eilte rascher auf die Tür zu, faßte in die Tasche. Hatte
 die kleine elektrische Lampe in der Hand, suchte mit dem Daumen den Knopf.
 
 Und fühlte von rückwärts zwei Hände um meinen Hals, erhielt einen Stoß, flog
@@ -639,7 +642,7 @@ die Preußen einholen!« –
 Der Hotelbesitzer Dankert stellte uns sein Motorboot zur Verfügung. Außerdem
 wurde die Preußen durch Funkspruch verständigt, daß wir an Bord wollten.
 
-Um 1/212 mittags war das Fährschiff abgedampft. Um <@pagebreak 18/> 12 jagten
+Um ½12 mittags war das Fährschiff abgedampft. Um <@pagebreak 18/> 12 jagten
 wir vier – Bließke hatte durchaus mitkommen wollen – und Dankert hinterdrein.
 
 Wir saßen in der kleinen Kajüte. Dankert steuerte und gab auf den Motor acht.

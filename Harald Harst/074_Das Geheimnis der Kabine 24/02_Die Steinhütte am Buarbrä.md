@@ -191,7 +191,7 @@ lehnte sich an das Fenster und las.
 
 Ich tat dasselbe mit Schradlers Brief.
 
-> Berlin, den 5. April 19.
+> Berlin, den 5. April 19...
 
 > Sehr geehrter Herr Harst!
 
