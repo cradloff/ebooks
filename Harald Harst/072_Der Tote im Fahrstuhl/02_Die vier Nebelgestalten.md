@@ -175,7 +175,7 @@ Dienstauto, das langsam hinter uns drein gefahren war.
 »Auf Wiedersehen!« rief er noch. Dann rollte der Kraftwagen
 davon.
 
-Harald sah nach der Uhr, »Halb zwölf. Da können
+Harald sah nach der Uhr. »Halb zwölf. Da können
 wir der Frau Konsul Hersfeld einen Besuch abstatten —«
 
 Wir fuhren nach dem Wittenbergplatz, — »Du hegst
@@ -188,7 +188,7 @@ vielleicht zu finden ist. Vorläufig sind die vier Leute für
 uns in der Tat Nebelgestalten — ungreifbar! Das einzige,
 was als winzige Fährte anzusehen ist, wäre Emil Damms
 <@pagebreak/>
-Vorsicht bei seinen Aussagen. Ich bleibe dabei: er lügt:
+Vorsicht bei seinen Aussagen. Ich bleibe dabei: er lügt;
 er kennt die Leute, die sein Auto stahlen!«
 
 Die Konsulin, eine sechzigjährige Dame von imponierender
@@ -362,7 +362,7 @@ der Apotheke geschickt hätte, da sie an starker Migräne litt.
 Der Gärtner war ein guter Bekannter des Kellners.
 
 Harst gab diesem hundert Mark. »Bestellen Sie irgendwie
-den Gärtner hierher.« bat er. »Aber sofort! Dann
+den Gärtner hierher,« bat er. »Aber sofort! Dann
 bekommen Sie noch hundert Mark.«
 
 Eine halbe Stunde später war Muhl zur Stelle.
@@ -525,7 +525,7 @@ hin. »Die ganze Art, wie dieser Herr von Bronk
 die Streichhölzer wegwarf, nachdem er sie kaum angezündet
 hatte, war ebenso ungeschickt wie auffallend.«
 
-»Also eine Nachricht für dem Herrn mit den Schmissen,«
+»Also eine Nachricht für den Herrn mit den Schmissen,«
 sagte ich darauf. »Eine sehr eigentümliche Nachricht, die
 nur den einen Schluß zuläßt, daß die beiden Herren scharf
 beobachtet werden und nicht wagen, anderswie Mitteilungen
@@ -588,7 +588,7 @@ eingehakt gelassen hatte. Harst flüsterte ihm jedoch seinen
 Namen zu, und das zerstreute alle Aengstlichkeit Herrn
 Aubners.
 
-Er führte und in sein Atelier.
+Er führte uns in sein Atelier.
 
 »Herr Aubner,« sagte Harald, »Ihr Name ist mir nicht
 fremd. Sie sind Illustrator für medizinische Werke. Sie
@@ -749,7 +749,7 @@ Lenk. Die Geschichte ist eine Mirakulum wert.«
 Er begann zu rauchen. Wir umstanden schweigend das
 Feldbett.
 
-Nach einer Welle sah Harst nach der Uhr. »Bereits
+Nach einer Weile sah Harst nach der Uhr. »Bereits
 halb zwölf!« sagte er und erhob sich. »Es war Leim!
 Sie, lieber Lenk, erhielten einen Brief, und Schraut und ich
 sammelten sieben Zündhölzer auf. Man hat uns beide geleimt!«
@@ -829,7 +829,7 @@ erwiderte Müller. »Renborn war vor zehn Minuten hier
 und sagte mir, Sie möchten doch aufs Boot kommen, es
 gebe so allerlei zu berichten.«
 
-Wir machten kehrt und umrundeten Ben See, der ja
+Wir machten kehrt und umrundeten den See, der ja
 nur am Südufer bebaut ist. Der Waldpfad zieht sich dicht
 am Wasser hin. Sehr bald bemerkten wir einen dunklen
 Gegenstand unweit des Ufers. Eine Erle war hier unterspült
@@ -848,7 +848,7 @@ in sein mageres Gesicht, dessen intelligente Züge und
 lebhafte Augen einen Mann von besonderer Intelligenz
 verrieten.
 
-»Los, Renborn!« meinte Lenk, »Was haben Sie beobachtet?«
+»Los, Renborn!« meinte Lenk. »Was haben Sie beobachtet?«
 
 »Kurz vor elf Uhr näherte sich von Osten her eine
 kleine Motorjacht,« begann der Beamte. »Ich wurde auf
@@ -877,7 +877,7 @@ Schriftstellerin nichts mitgeteilt hatte.
 »Ganz recht, Herr Harst,« nickte Renborn. »Auch der
 Herr auf dem Kajütaufbau lies dann eine elektrische
 Taschenlampe eine Weile länger und kürzer aufleuchten.
-Hierauf wurden die Fenster wieder dunkel. Aber die Zacke
+Hierauf wurden die Fenster wieder dunkel. Aber die Jacht
 blieb noch auf demselben Fleck liegen, entfernte sich erst,
 nachdem drüben mit dem Vorhang wieder ein paar Signale
 gegeben worden waren. Sie entfernte sich so plötzlich,
@@ -1053,7 +1053,7 @@ Ihnen bleibt.«
 »Weil der Koffer mit den anderthalb Millionen noch
 immer fehlt, gnädige Frau,« erklärte Harald höflich. »Es
 wäre wirklich besser, Sie würden endlich der Wahrheit die
-Ehre geben. Sie wollten vorhin, mit der Motorjacht entfliehen.
+Ehre geben. Sie wollten vorhin mit der Motorjacht entfliehen.
 Wir werden hier im Hause Ihre noch schmutzigen
 Schuhe, den regenfeuchten Mantel und den Lackhut finden.«
 
@@ -1066,7 +1066,7 @@ Lenk und Harald zögerten noch. Dann sagte Harald:
 waren, bereits auf dem Landwege die Villa wieder
 erreicht haben, gnädige Frau —«
 
-»Ich schwöre es, Ihnen: ich war hier in der Villa!«
+»Ich schwöre es Ihnen: ich war hier in der Villa!«
 <@pagebreak/>
 rief sie da, und es kam mir vor, als ob sie jetzt nur deshalb
 ganz ruhig war, weil sie wußte, daß wir den Flüchtling
@@ -1108,7 +1108,7 @@ War das wieder einmal eine Nacht! Erst das Mansardenerlebnis
 in Steglitz, dann die Verfolgung auf dem
 Griebnitz-See und die Suche im dunklen Walde; nun
 abermals ein neuer Schauplatz — diese vornehme Villa,
-deren Besitzer sich selbst dem Tod gegeben. — Weshalb hatte
+deren Besitzer sich selbst den Tod gegeben. — Weshalb hatte
 Peter Niendorf wohl die Hand an sich gelegt — weshalb?!
 Wirklich aus Furcht vor dem Strafrichter?! — Ich begann
 zu grübeln. — Und weiter: weshalb hatte Dora Komtesse
@@ -1129,7 +1129,7 @@ hatte.
 
 Frau Niendorf schnellte jäh in die Höhe.
 
-Ehre Augen waren starr auf das gerichtet, das sich
+Ihre Augen waren starr auf das gerichtet, das sich
 hinter mir befinden mußte.
 
 Ich saß in einem Sessel, mit dem Rücken nach der
@@ -1176,7 +1176,7 @@ Ich berechnete trotzdem den Hieb mit der linken Hand nach
 aufwärts ganz genau, schlug zu — mit aller Kraft.
 
 Und traf das Handgelenk — sah den Revolver nach
-oben fliegen. — schlug zum zweiten Male zu, dem Menschen
+oben fliegen, — schlug zum zweiten Male zu, dem Menschen
 gerade unter das Kinn, griff gleichzeitig nach dem Schein,
 erwischte ihn auch.
 
@@ -1213,7 +1213,7 @@ Schloß. Ich brauchte also nur aufzuschließen.
 Als ich den beiden nun in aller Hast mein Abenteuer
 <@pagebreak/>
 erzählte, als frohlockend den Gepäckaufbewahrungsschein
-ihnen zweigte, pfiff Harald leise durch die Zähne und
+ihnen zeigte, pfiff Harald leise durch die Zähne und
 meinte:
 
 »Ach so — ich begreife! Sie wollen den Koffer loswerden,
@@ -1422,7 +1422,7 @@ der Komtesse haben beobachten können — eben von den
 eigenen Wohnungsfenstern aus.« —
 
 Dieses Haus war bald ermittelt. Und — es war ein
-recht altes Gebäude, das in einem großen, nacht hinten sich
+recht altes Gebäude, das in einem großen, nach hinten sich
 erstreckenden Garten stand. — Die Uhr zeigte auf sieben, als
 wir das Haus betraten. Der Portier putzte gerade das
 Treppengeländer.

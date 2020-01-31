@@ -239,7 +239,7 @@ Der Schluß des Briefes meines Freundes ist für Sie,
 verehrtester Herr Harst, und für die Beurteilung dieser
 meines Erachtens etwas merkwürdigen Geschichte ohne Bedeutung.
 
-Ich weiß nicht, ob Sie meiner Meinung sind. Herr
+Ich weiß nicht, ob Sie meiner Meinung sind, Herr
 Harst, und ob Sie, lediglich aus dem Inhalt von Hilmars
 Brief, wie ich annehme, daß der Baron damals tatsächlich
 einen Toten gesehen hat, den man heimlich aus dem
@@ -270,7 +270,7 @@ Dann wandte er den Kopf, schaute mich an und sagte:
 
 »Wenn es wirklich ein Wink wäre, wo jener Mann,
 den die Zeitungsschreiber auf der Flucht ins Ausland vermuten,
-geblieben, dann — dann könnte man hier von einen
+geblieben, dann — dann könnte man hier von einem
 seltenen Zufall sprechen!«
 
 Ich verstand seine Andeutung sofort. »Meinst Du etwa
@@ -317,7 +317,7 @@ Der Diener Braek, ganz der Typ des langjährigen Bedienten
 eines Feudalgeschlechts, öffnete.
 
 »Der Herr Baron ist heute früh weggegangen und noch
-nicht heimgekehrt.« erklärte er in mäßigem Deutsch, aber
+nicht heimgekehrt,« erklärte er in mäßigem Deutsch, aber
 mit desto eindrucksvollerer Unruhe. »Ich bin bereits in
 Sorge um den Herrn Baron. Er hat nämlich gestern einen
 Brief erhalten, der von einem recht fragwürdigen Menschen,
@@ -427,7 +427,7 @@ Diwan eingeschlafen war und Hut und Stock im Fahrstuhl
 vergessen hatte. Ich werde Herrn Allin fortan nicht mehr
 kennen. Ich —«
 
-»Das werden Sie nicht, Braek!« meinte, Harald schnell.
+»Das werden Sie nicht, Braek!« meinte Harald schnell.
 »Im Gegenteil: Sie werden so tun, als ob Sie Herrn
 Allin nach wie vor als Zufallsbekanntschaft sehr angenehm
 fänden. — Braek, im Vertrauen: Ihr Herr hat damals
@@ -457,7 +457,7 @@ wohnte mit seiner ledigen Tochter Ella, 25 Jahre alt, zusammen! —
 Und abermals schritten wir Arm in Arm von der Polizeiwache
 die Straßen des Berliner Westens entlang.
 
-»Ich dachte zuerst am eine Tochter,« meinte Harald,
+»Ich dachte zuerst an eine Tochter,« meinte Harald,
 »weil der lackierte Fingernagel auf Eitelkeit und verfeinerte
 Lebensgewohnheiten, auf Jugend und Wohlhabenheit hindeuteten.
 — Wir werden nun nach der Musketierstraße
@@ -624,7 +624,7 @@ noch Duplikatschlüssel zu den Türen gefunden hatte.«
 <h2>3. Kapitel.</h2>
 
 Harald hatte sich eine Zigarette angezündet. Er starrte
-in die glitzernde Schusterkugel, die den Alte nach anderswo
+in die glitzernde Schusterkugel, die der Alte nach anderswo
 längst entschlafenem Brauch noch benutzte.
 
 Dann sagte er, indem er sich erhob: »Wir werden das
@@ -673,7 +673,7 @@ nur einen winzigen Strahl zur zeitweisen Beleuchtung
 unseres Weges hindurchgelassen hatte, und flüsterte: »Achtung!«
 
 Wir standen im Dunkeln. »Du meinst, das Auto könnte
-jemand gebracht haben, der hier —« — Weiter kamt ich mit
+jemand gebracht haben, der hier —« — Weiter kam ich mit
 dieser zweifeldurchwehten Frage nicht.
 
 Ich vernahm Geräusche, die mir bewiesen, daß Harst wieder
@@ -944,7 +944,7 @@ blieb vorläufig bei Meister Rehbein. Wir beide verabschiedeten
 uns. Der Gnom ließ uns hinaus. Wir schritten
 die Musketierstraße hinab.
 
-»Jetzt kommt der Rentner Eduard Allin nebst Tochter,
+»Jetzt kommt der Rentner Eduard Allin nebst Tochter
 an die Reihe,« meinte Harald lebhaft. »Die Geschichte ist
 nun geklärt bis auf Kleinigkeiten. Das von mir konstruierte
 <@pagebreak/>
@@ -1020,7 +1020,7 @@ Toornward nächtliches Abenteuer.
 das Nebenhaus in ein Auto oder einen Wagen bringen mit
 Hilfe des Fahrstuhls. — Ueberlege Dir das Erlebnis des
 Barons. Es spricht durchaus für diese Annahme. Die
-Verschleierte, Sie ihn wachrüttelte, war Fräulein Ella Allin.
+Verschleierte, die ihn wachrüttelte, war Fräulein Ella Allin.
 Man fuhr die Leiche dann nach der Musketierstraße in
 Willberg-Niendorfs Keller, in dem die Mörder ihrem Opfer
 eben die Schlüssel abgenommen hatten, falls sie sich nicht
@@ -1122,7 +1122,7 @@ den Keller schon vorher verlassen haben. Er ist leer.«
 
 Der Mann trat weiter vor. Wir sahen ihn nun. Es
 war ein kleiner Mensch mit einer Chauffeurbrille, aber
-ohne Kragen und schäbig angezogen. Und den Hals trug er
+ohne Kragen und schäbig angezogen. Um den Hals trug er
 ein buntes Seidentuch. Aber seine Sprache war nicht die
 der Stammgäste der Berliner Kaschemmen, ebenso wie in
 seiner Körperhaltung und seinen Bewegungen jene gewollt
@@ -1314,7 +1314,7 @@ auch meinen Vater. Wir waren noch vor einem Jahre
 reich. Dann verlor mein Vater durch ihn zwei Drittel
 seines Geldes. Wir mußten unser Leben völlig anders einrichten.
 Mein Vater strengte gegen Niendorf einen
-Prozeß an, den er aber gerade Tage vor jener entsetzlichen
+Prozeß an, den er aber gerade zwei Tage vor jener entsetzlichen
 Nacht auch in letzter Instanz verlor. Damals am
 22\. August waren wir im Theater gewesen, also am
 21\. August, genauer ausgedrückt. Wir kehrten gegen halb
@@ -1349,7 +1349,7 @@ nur geträumt? Ich denke, so wird es sein —«
 »Es ist so, Herr Harst. Ich war mit dem Toten im
 Fahrstuhl bis ins Erdgeschoß gefahren, da mein Vater inzwischen
 mir erklärt hatte, es sei besser, die Leiche auf die
-Straße zu bringen —« — Sie erschauerte, — »Oh — wir
+Straße zu bringen —« — Sie erschauerte. — »Oh — wir
 beide waren damals ja kaum zurechnungsfähig; wir handelten
 in der Angst und Ueberstürzung wie Toren; wir zitterten
 <@pagebreak/>
@@ -1379,7 +1379,7 @@ völlig still verhalten hatte. Nun wurde ich unbemerkt Zeugin,
 wie mehrere Leute den Toten davontrugen — zum
 Hause hinaus —«
 
-»Genug davon,« meinte Harald, »Wir wollen Sie
+»Genug davon,« meinte Harald. »Wir wollen Sie
 nicht unnötig quälen. — Sie haben natürlich keine Ahnung,
 wer die Leiche in Ihres Vaters Zimmer geschafft haben
 kann?«
@@ -1418,7 +1418,7 @@ festzukrallen suchte.«
 
 Allin nickte eifrig. »Ja, Herr Harst, auf genau dieselbe
 Vermutung bin auch ich schon gekommen. Jedenfalls
-waren diese Krater vor jener entsetzlichen Nacht nicht vorhanden
+waren diese Kratzer vor jener entsetzlichen Nacht nicht vorhanden
 —«
 
 »Dann hat Niendorf noch gelebt, als man ihn hier aufknüpfte,«
@@ -1441,7 +1441,7 @@ Das junge Mädchen machte da eine besondere Handbewegung.
 »Ich hörte sie vorhin heimkehren, als wir hier
 in dieses Zimmer hinübergingen,« flüsterte sie.
 
-»Nun — dann werden wir uns sofort Gewißheit verschaffen.«
+»Nun — dann werden wir uns sofort Gewißheit verschaffen,«
 sagte Lenk energisch. »Nicht wahr, Herr Harst,
 wir sehen uns die beiden sofort einmal an.« —
 
@@ -1490,7 +1490,7 @@ mir. Lassen Sie aber bitte den Baron und Rehbein sofort
 frei und verfolgen Sie des Barons Verfehlung hinsichtlich
 des Mannes mit dem »rechten« Herzen nicht weiter.« —
 
-So begann für uns das Abenteuer mit dem — vier
+So begann für uns das Abenteuer mit den — vier
 Nebelgestalten.
 
 
