@@ -142,7 +142,7 @@ Nun — dieser Dieb wirkte sehr harmlos. Es war
 so der Typ des jungen, etwas überpatent gekleideten Kaufmanns.
 Das Gesicht war ganz sympathisch.
 
-»Setzen Sie sich<<, sagte Harald freundlich und deutete
+»Setzen Sie sich«, sagte Harald freundlich und deutete
 auf den Klubsessel links vom Sofatisch.
 
 »Ist er wirklich weg?« fragte der junge Mensch
@@ -373,12 +373,12 @@ Dann verschwanden Sie im Hühnerstall —«
 Fragen. Die sechs leeren Briefbogen interessieren mich.
 Vielleicht waren sie mit einer Geheimschrift beschrieben?«
 
-»Nein. Das glaube ich nicht. Sklave einen der Bogen
+»Nein. Das glaube ich nicht. Ich habe einen der Bogen
 in die pralle Sonne gelegt, habe ihn mit einem starken
-Vergrößerungsglas geprüft, habe ihn über Schweseldampf
-gehalten. Es war feine Spur von Schrift darauf.«
+Vergrößerungsglas geprüft, habe ihn über Schwefeldampf
+gehalten. Es war keine Spur von Schrift darauf.«
 
-»Was für Papier war es!
+»Was für Papier war es?«
 
 »Sehr eigenartiges Briefpapier. Braungelb und
 nicht zu stark.«
@@ -388,81 +388,82 @@ nicht zu stark.«
 »Der nur in der Mitte gefaltete Bogen mag 14 mal
 22 Zentimeter groß gewesen sein.«
 
-»Und die Umschläge? War ein Absender vermerkt »
+»Und die Umschläge? War ein Absender vermerkt?«
 
 »Nein. Die Adresse war mit Maschine geschrieben.
-Die Umschläge waren grobe, starke, gelbe Geschäitsum-ichläge.
+Die Umschläge waren grobe, starke, gelbe Geschäftsumschläge.
 
 »Haben Sie die leeren Briefbogen nochmals irgendwie
-zu Gesicht bekommen y«
+zu Gesicht bekommen?«
 
 »Nein.«
 
-»Weshalb fürcteten Sie sich vor ihrem Chef so sehr,
+»Weshalb fürchteten Sie sich vor ihrem Chef so sehr,
 daß Sie sich im Hühnerstall verbargen?«
 
 »Oh — der Mann ist sehr jähzornig. Ueberhaupt —
 man muß vor ihm Angst haben. Er — er hat grausame,
 tödliche Augen.«
 
-»Sie scheinen nicht gerade zu den Mutigen zu acht«
-ren, Herr Lehmann —«
+»Sie scheinen nicht gerade zu den Mutigen zu gehören,
+Herr Lehmann —«
 
 »Ich bin keineswegs feige, Herr Harst. Es handelt
 sich hier doch auch darum, daß ich meine Stellung zu verlieren
-fürchte. Heutzutage ist es schwer, ein neue zu ne
-den. Und doch habe ich dieses Risiko auf mich genommen.
-ch habe eben das deutliche Gefühl, daß die ganze Firma
+fürchte. Heutzutage ist es schwer, ein neue zu finden.
+Und doch habe ich dieses Risiko auf mich genommen.
+Ich habe eben das deutliche Gefühl, daß die ganze Firma
 Alemannia irgendwie faul ist.«
 
-»Sollte Uhr Chef Sie nun morgen ausforschen, wo
+»Sollte Ihr Chef Sie nun morgen ausforschen, wo
 Sie heute abend gewesen sind, — was werden Sie dann
+tun?«
 
 »Ich wollte ihm zuvorkommen und ihm morgen ganz
-harmlos erzählen, daß ich bei Ahnen war. Er weiß, daß
+harmlos erzählen, daß ich bei Ihnen war. Er weiß, daß
 <@pagebreak/>
-mir vor vier Tagen aus meinem Schreibtisch bei ran
+mir vor vier Tagen aus meinem Schreibtisch bei Frau
 Nölde, meiner Wirtin, außer dreihundert Mark auch sämtliche
-MA ABBIE gestohlen worden sind. Ich bin
-Spalte, Herr Harst. Mein Vater hatte so eine Art Familienchronik
-angelegt und von verstorbenen Verwandten olle
+Familienpapiere gestohlen worden sind. Ich bin
+Waise, Herr Harst. Mein Vater hatte so eine Art Familienchronik
+angelegt und von verstorbenen Verwandten alle
 Papiere gesammelt. Es waren vier umfangreiche Päckchen.
-ch habe damals den Diebstahl der Polizei gemeldet und
-auch eigens zu Gumlowsky gesagt, daß es fade sel,
+Ich habe damals den Diebstahl der Polizei gemeldet und
+auch eigens zu Gumlowsky gesagt, daß es schade sei,
 daß Sie in Norwegen wären; sonst hätte ich Sie gebeten,
 den Dieb zu suchen. — Vorgestern las ich dann, daß Sie
 heimgekehrt seien, und da schoß es mir heute nachmittag
-so durch den Kopf, ich könnte eigentlich Ahnen die Sackte
+so durch den Kopf, ich könnte eigentlich Ihnen die Sache
 mit den sechs leeren Briefbogen mal vortragen.«
 
 »Eine Sache, der Sie zu viel Bedeutung beilegen, Herr
-Lehmann. Es wird sich fraglos um etwas ganz Belang-lojes
-handeln. Um nun aber Style fromme, für Guni-towsfky
+Lehmann. Es wird sich fraglos um etwas ganz Belangloses
+handeln. Um nun aber Ihre fromme, für Gumlowsky
 bereit gehaltene Lüge zu unterstützen, werden wir
 Sie nach nach Ihrer Wohnung begleiten und uns den
 Schreibtisch ansehen. Es ist ziemlich wahrscheinlich, daß
-Ihr Chef iebßt vor dem Hause Sie erwartet. Wir wollen
+Ihr Chef jetzt vor dem Hause Sie erwartet. Wir wollen
 daher auch in zwei Partien mein Heim verlassen. Schraut
 mag durch den Gemüsegarten gehen, und wir beide benutzen
 den Vorderausgang. Wir treffen mit meinem Freunde
-dann wieder vor hrsg Nr. 36 zusammen.«
+dann wieder vor Kantstraße Nr. 36 zusammen.«
 
-— das ist ein sehr guter Gedanke, Herr Harst!
-Gunilowat wird mir so eher Glauben schenken.
+»Oh — das ist ein sehr guter Gedanke, Herr Harst!
+Gumlowsky wird mir so eher Glauben schenken.«
 
 »Hoffentlich —« —
 
-Dr in den Génilisegarten sehr langsam. Als
-ich in den Feldweg einbog, agewahrte ich einen Mann, des
+Ich durchschritt den Gemüsegarten sehr langsam. Als
+ich in den Feldweg einbog, gewahrte ich einen Mann, der
 im Schatten eines Baumes auf einem Wege des Laubengeländes
 stand. Der Mann folgte mir. Ich drehte mich
-nicht um. Aber ich ließ meinen Grazie Tod einmal fallen
-und blickte beim Bücken zurück. Der Wann blieb weiter
+nicht um. Aber ich ließ meinen Spazierstock einmal fallen
+und blickte beim Bücken zurück. Der Mann blieb weiter
 hinter mir, bis zur Kantstraße. Auf der Straßenbahn
-ad! er sich aus die vordere Plattform gestellt.
+hatte er sich auf die vordere Plattform gestellt.
 
-Als ich mich: Harald und »ab Karl-Ernst Lehmann
-ERRIRMAINE Hier. sagte Harst sofort
+Als ich mit Harald und Herrn Karl-Ernst Lehmann
+zusammentraf, sagte Harst sofort:
 
 »Natürlich war auch hinter Dir jemand her?«
 
@@ -471,85 +472,84 @@ Ich war überrascht.
 <@pagebreak/>
 »Gumlowsky verfolgte mich!« erklärte ich sehr bestimmt.
 
-Lehmann schüttelte den Kopf. »Das ist wohl ausge-schschlossen,
+Lehmann schüttelte den Kopf. »Das ist wohl ausgeschlossen,
 Herr Schraut. Gumlowsky hatten Herr Harst und
 ich als Verfolger.«
 
 »Oeffnen Sie erst die Haustür,« meinte Harald. »Es
 gibt dann eben zwei Gumlowskys.«
 
-Die Geschichte der solche Briefsbvgen wurde interesant.
+Die Geschichte der sechs Briefbogen wurde interessant.
 
-Oben in Lehmanns nett möblierten Zimmer flehte
+Oben in Lehmanns nett möbliertem Zimmer setzte
 Harald sich sofort vor den Schreibtisch.
 
 »Wo lagen das Geld und die Papiere?« fragte er.
 
-»So der Mittelschublade. Sie hat ein Sicherheitsschloß,
+»In der Mittelschublade. Sie hat ein Sicherheitsschloß,
 das ich selbst einlegen ließ. Alle Wirtinnen sind
-das Ich mag meine Sachen nicht durhichnüsicln
-Gassen.
+neugierig. Ich mag meine Sachen nicht durchschnüffeln
+lassen.«
 
 Er gab Harald den Schlüssel.
 
 »Ah — ein vortreffliches Schloß,« meinte Harst. »Da
 war mit Nachschlüsseln nichts auszurichten.«
 
-Er nahm einen kleinen Schraubenzicher aus seinem
+Er nahm einen kleinen Schraubenzieher aus seinem
 Etui und schraubte nun das Schloß heraus, schraubte es
-auseinander und besichtigte es von inne.
+auseinander und besichtigte es von innen.
 
 »Hm — das dürfte mit dem richtigen Schlüssel geöffnet
-worden je Herr Lehmann. — Wann wurde der Diebstahl
+worden sein, Herr Lehmann. — Wann wurde der Diebstahl
 verübt?«
 
-»Vormittags guten zehn und Zwist Uhr, als Frau
-Nölde aus dem erwacht war.«
+»Vormittags zwischen zehn und zwölf Uhr, als Frau
+Nölde auf dem Wochenmarkt war.«
 
 »Besinnen Sie sich mal —« — Harst setzte das Schloß
-wieder ein. — »War Herr Gumlowslky an jenem Vormittag
+wieder ein. — »War Herr Gumlowsky an jenem Vormittag
 im Geschäft oder ausgegangen?«
 
-»Du — richtig, er war anderthalb Stunden weg.«
+»Hm — richtig, er war anderthalb Stunden weg.«
 
-»Hätte er Dr Schlüsselbund mitnehmen können —
+»Hätte er Ihr Schlüsselbund mitnehmen können —
 also auch diesen Schlüssel?«
 
 Karl-Ernst Lehmann starrte Harald sprachlos an.
 
-»Glauben Sie etwa, daß Gumlowsky ter Dich war?«
-fragte er hastig. »Agent, wo Sie mich auf diese Möglichkeit
+»Glauben Sie etwa, daß Gumlowsky der Dieb war?«
+fragte er hastig. »Jetzt, wo Sie mich auf diese Möglichkeit
 hinweisen, erscheint sie mir insofern nicht ganz unbegründet,
-als ich im Büro ein Schränkchen für vorige Bürojacke
-und die Schubßmanschetten habe und morgens dort die
-Schlüssel im Schloß flehen lallte — das ganze Schlüsselbund
+als ich im Büro ein Schränkchen für meine Bürojacke
+und die Schutzmanschetten habe und morgens dort die
+Schlüssel im Schloß stecken lasse — das ganze Schlüsselbund
 <@pagebreak/>
-Lasso. Ob es damals vormittags da war, weiß ich nicht.
-Oh achte nie darauf.«
+also. Ob es damals vormittags da war, weiß ich nicht.
+Ich achte nie darauf.«
 
-Harald lehnte sich im Schreibsessel
+Harald lehnte sich im Schreibsessel zurück.
 
-»Hat Gumlowsky gewußt, daß M er viel Familien-bapiere
-Besitzen, Herr Lehmann?«
+»Hat Gumlowsky gewußt, daß Sie so viel Familienpapiere
+besitzen, Herr Lehmann?«
 
-USA ZI strahlte es ihm mal gelegentlich.«
+»Ja. Ich erzählte es ihm mal gelegentlich.«
 
-»Wurde hier in der Wohnung damals noch etwas sei
-stahlen?«
+»Wurde hier in der Wohnung damals noch etwas gestohlen?«
 
-»Ja — aus der Speisekammer ein Stück Bord und
-eine halbe Dauertourst.«
+»Ja — aus der Speisekammer ein Stück Speck und
+eine halbe Dauerwurst.«
 
-»Da Sie an dem Schlüsselring auch den Sicherheitsschlösser
-der Flurtür haben, hätte Ihr Chef hier sehr bei
-Turm Es Ersonnen. Bord und Wurst wurden nur
-zum Schein mitgenommen, ebenso die dreihundert« Mark.
-Der Da Bade es auf die Papiere abgesehen.
+»Da Sie an dem Schlüsselring auch den Sicherheitsschlüssel
+der Flurtür haben, hätte Ihr Chef hier sehr bequem
+eindringen können. Speck und Wurst wurden nur
+zum Schein mitgenommen, ebenso die dreihundert Mark.
+Der Dieb hatte es auf die Papiere abgesehen.«
 
-Herr Harst — was sollten die ihm wohl für einen
+»Herr Harst — was sollten die ihm wohl für einen
 Vorteil bringen?«
 
-»Das bleibt aufzuklären, Herr Lehmann., — MW die
+»Das bleibt aufzuklären, Herr Lehmann. — Ist die
 Familienchronik ebenfalls verschwunden?«
 
 »Nein. Die steht dort im Bücherschrank.«
@@ -557,20 +557,19 @@ Familienchronik ebenfalls verschwunden?«
 »Falls ein Stammbaum dabei ist, könnten Sie ihn mir
 mitgeben und einige Zeit überlassen.«
 
-Lehmann holte die Chronik und nahm ein einzeln-S8
-Park Heraus. »Bitte, Herr Harst. Dies ist der Stamm
-Baum
+Lehmann holte die Chronik und nahm ein einzelnes
+Blatt heraus. »Bitte, Herr Harst. Dies ist der Stammbaum.«
 
-Smart flechte ihn in die Tasche.
+Harald steckte ihn in die Tasche.
 
-»Sie werden also morgen Dichtem Chef erzählen, he da
-Eile bei mir waren, daß ein Unbekannter Sie rieb
-hätte und daß Sie von uns aus dem Hühnerstall heran
-geholt wurden. Von den beiden Leuten, die dann rauh
-und uns beiden auf dem kramen auf den Fersen blieben,
-natürlich fein Wort. ch hoffe, daß auf diese Weise GBum-lowslys
+»Sie werden also morgen Ihrem Chef erzählen, daß
+Sie bei mir waren, daß ein Unbekannter Sie verfolgt
+hätte und daß Sie von uns aus dem Hühnerstall herausgeholt
+wurden. Von den beiden Leuten, die dann Schraut
+und uns beiden auf dem Herwege auf den Fersen blieben,
+natürlich kein Wort. Ich hoffe, daß auf diese Weise Gumlowskys
 Argwohn zerstreut werden wird. Sollte er fragen,
-was ich hier bei Ihnen ruhige eilt hätte, Es erklären
+was ich hier bei Ihnen festgestellt hätte, so erklären
 Sie, ich wäre der Meinung, der Dieb habe hier mit Nachschlüsseln
 gearbeitet, sei aber gestört worden, sonst hätte er
 wohl mehr gestohlen.«
@@ -578,26 +577,26 @@ wohl mehr gestohlen.«
 »Gut, Herr Harst. Und — und was halten Sie von
 den sechs leeren Briefbogen und den beiden Männern, die
 <@pagebreak/>
-offenbar beide ganz gleich anstoßen? Ich meine unsere
+offenbar beide ganz gleich aussahen? Ich meine unsere
 Verfolger —«
 
-Das kann ich Ihnen heute noch nicht sagen. — Sollte
-im Geschäft sich noch etwas Auffälliges ereignen, so kam
-men Sie nicht zu mir, sondern telephonieren Sie, aber nicht
+»Das kann ich Ihnen heute noch nicht sagen. — Sollte
+im Geschäft sich noch etwas Auffälliges ereignen, so kommen
+Sie nicht zu mir, sondern telephonieren Sie, aber nicht
 vom Geschäft aus. Und — seien Sie etwas vorsichtig,
-Herr Lehmann! ich gebe zu, dieser Gumlowsky ist nicht
+Herr Lehmann! Ich gebe zu, dieser Gumlowsky ist nicht
 ganz sauber. Halten Sie die Augen offen, spielen Sie aber
 den Harmlos-Vergnügten, singen Sie möglichst kräftige
-Loblieder auf Harald Harst, feine Liebenswürdigkeit, feine
+Loblieder auf Harald Harst, seine Liebenswürdigkeit, seine
 Zigaretten, seinen Kognak, und ziehen Sie den ganzen Besuch
-bei mir lud Scherzhafte. — Noch etwas, Herr Lehmann:
+bei mir ins Scherzhafte. — Noch etwas, Herr Lehmann:
 Mit wem verkehrt Gumlowsky? Was treibt er
-nach Geschäftäschluß?«
+nach Geschäftsschluß?«
 
-»Verkehr bat er mit niemand, Herr Harst. Er ist eifriger
-Segler. Er besitzt eine kleine Jacht namens Vorne,
+»Verkehr hat er mit niemand, Herr Harst. Er ist eifriger
+Segler. Er besitzt eine kleine Jacht namens Möwe,
 die im Großen Wannsee vor Anker liegt. Meist fährt
-Gumlowéky um halb sechs nachmittag noch mit seiner
+Gumlowsky um halb sechs nachmittag noch mit seiner
 Frau nach Wannsee, nimmt Abendbrot mit und segelt.
 Einige Male hatte er mich eingeladen.«
 
@@ -606,133 +605,133 @@ Herr Lehmann. Wir wissen vorläufig genug.«
 
 Vor der Haustür noch zwei kräftige Händedrücke, und
 dann schritten wir langsam die Kantstraße in Richtung
-Prosa Garten hinab, bestiegen hier ein Auto und
-ren heim.
+Zoologischer Garten hinab, bestiegen hier ein Auto und
+fuhren heim.
 
-Als das Auto floh kaum in Bewegung Esse! hatte —
-es Wat ein offener Waren —, Beine Harald einen und
+Als das Auto sich kaum in Bewegung gesetzt hatte —
+es war ein offener Wagen —, klemmte Harald seinen mit
 einer Klammer versehenen Hohlspiegel unten auf die
-Zwinge des Spaziersloc(s, hob den Spiegel über den Kraterrand
-des Wagens hinaus, lehnte sich zurück und Dr«
-Beobachtete, ob ein anderes Auto uns folgte.
+Zwinge des Spazierstocks, hob den Spiegel über den Hinterrand
+des Wagens hinaus, lehnte sich zurück und
+beobachtete, ob ein anderes Auto uns folgte.
 
 »Natürlich!« sagte er nach einer Weile. »Natürlich ist
-abermals jemand hinter uns, mein Liter!l« Er steckte den
-Spiegel wieder in die Tasche und lege mir die Hand auf
-das nie. »Du — das wird eine ganz große Sache! Dieser
-Karl-Ernst Lehmann ahnt nicht, wie ‘wichtig seine Mitteilungen
+abermals jemand hinter uns, mein Alter!« Er steckte den
+Spiegel wieder in die Tasche und legte mir die Hand auf
+das Knie. »Du — das wird eine ganz große Sache! Dieser
+Karl-Ernst Lehmann ahnt nicht, wie wichtig seine Mitteilungen
 sind!«
 
-»So?! — Gumlowsky ist ein Verlor:her, nicht Ware
-Seine Bekanntschaft mit dem »schwarzen Mai« —.
+»So?! — Gumlowsky ist ein Verbrecher, nicht wahr?
+Seine Bekanntschaft mit dem »schwarzen Max« — doch
 <@pagebreak/>
-fraglos ein Kaschemmenspivname! — schpricht allein schon
-eigenen ihn.«
+fraglos ein Kaschemmenspitzname! — spricht allein schon
+gegen ihn.«
 
-»Das stimmt. Noch belastender ist aber all Bad andere:
-die leeren Briefbogen, der Brief an Dir, Auftinnadh Bonbon,
-der Diebstahl der Ramilienpapiere und die Verfolgung
+»Das stimmt. Noch belastender ist aber all das andere:
+die leeren Briefbogen, der Brief an Mr. Austin nach London,
+der Diebstahl der Familienpapiere und die Verfolgung
 durch zwei verkleidete Männer, die sich dieselbe Maske zurechtgemacht
 haben. Die Frau, die unsern Freund Karl-Ernst
 heute gegen zwei Uhr nachmittags im Geschäftslokal der
 Allemannia verschwinden sah, war sehr wahrscheinlich der
-schwarze Mai.«
+schwarze Max.«
 
 »Und die leeren Briefbogen?«
 
-»Da H, mir eine Vermutung gekommen, die mit Gumlowskys
-Segelciser zusammenhängt, außerdem mit der
-braven Mathilde letztem gewaltigen Wehes — »
+»Da ist mir eine Vermutung gekommen, die mit Gumlowskys
+Segeleifer zusammenhängt, außerdem mit der
+braven Mathilde letztem gewaltigen Aerger — <<
 
 »Wie — heute mit dem Hühnerdieb?«
 
 »Nein, lieber Alter. Dieser Aerger liegt weiter zurück.
 Zerbrich Dir aber nicht den Kopf. Die gute Mathilde
-schimpst so oft auf dies und jenes, daß die Auswahl zu
-groß ist. — Wir werden jetzt daheim zu Bett geben und
+schimpft so oft auf dies und jenes, daß die Auswahl zu
+groß ist. — Wir werden jetzt daheim zu Bett gehen und
 um halb drei Uhr morgens wieder auffielen, werden uns
-zwwecentsprehend verändern und uns Kantstraße Nr. 303
+zweckentsprechend verändern und uns Kantstraße Nr. 308
 gegenüber einmieten, damit wir Herrn Gumlowsky stets
 in der Nähe haben. Das weitere findet sich dann schon.
-Ich bitte Dich, hegt nicht mit tausend Fragen über mich
+Ich bitte Dich, jetzt nicht mit tausend Fragen über mich
 herzufallen. Ich bin völlig taub!«
 
 Ich mußte mir die tausend Fragen also leider verkneifen.
-PBafür überlegte ich mir nun nochmals die
-Wagnisse des heutigen Abends und — überlegte mir alles Co
+Dafür überlegte ich mir nun nochmals die
+Ereignisse des heutigen Abends und — überlegte mir alles so
 gründlich, daß ich mir zum Schluß eingestand: »Du hättest
 Dir diese Gedankenarbeit sparen können! Du bist um
-nichts fügen geworben!« —
+nichts klüger geworben!« —
 
 Das Auto hielt. Wie wir den Flur des Erdgeschosses
 betraten, kam uns Mathilde brummig entgegen.
 
-»Hier — dies hab’ ich oben aus dem Körnerboden
-überm Hühnerstall hinterm Maissack aefunden1»
+»Hier — dies hab’ ich oben auf dem Körnerboden
+überm Hühnerstall hinterm Maissack gefunden!«
 
-na Sie u. log ich »In Beitungspabier gewickeltes
-Endchen von etwa Buchgröße.
+Sie gab Harald ein in Zeitungspapier gewickeltes
+Päckchen von etwa Buchgröße.
 
-»ich wollt! doch mal Gla, ob der Mensch sich auch
-nicht die Taschen mit Mahl vollgesteckt hat,« brummte sie
+»Ich wollt’ doch mal sehn, ob der Mensch sich auch
+nicht die Taschen mit Mais vollgesteckt hat,« brummte sie
 <@pagebreak/>
 weiter, »Der war doch nicht harmlos! Der Ajax liegt
-auch Tanne matt in seiner Hütte.«
+auch ganz matt in seiner Hütte.«
 
-ne den Hund haben wir ganz vergessen,« meinte
-Karat Ade »Es ist gut, Mathilde. Gute Nacht.«
+»Ah — den Hund haben wir ganz vergessen,« meinte
+Harald zerstreut. »Es ist gut, Mathilde. Gute Nacht.«
 
-ngeu in Harsts Stubierzimmier.
+Wir gingen in Harsts Studierzimmer.
 
-Das äcfhen wurde nun geöffnet. Und — in der
+Das Päckchen wurde nun geöffnet. Und — in der
 kleinen Pappschachtel lag Papiergeld: Hundertmarkscheine,
-Fünf scheine, Wo Eigen keine!
+Fünfzigmarkscheine, Zwanzigmarkscheine!
 
-nd genau an Mark,« sagte Harald.
+»Es sind genau 2140 Mark,« sagte Harald.
 
-»Ob ein Bei das Fädchen Hinter den
+»Ob Karl-Ernst Lehmann das Päckchen hinter den
 Maissack geschoben hat?«
 
 Harst antwortete nicht. Er hatte die Zeitung, in die
 das Schächtelchen gehüllt gewesen, glatt gestrichen.
 
-&3 war eine alte Nummer der Smwinemünder Zeit
+Es war eine alte Nummer der Swinemünder Zeitung
 — vom 10. April des vorigen Jahres. Oben rechts
-er Ecke über dem Titel stand nur noch schwer lesbar
-mit gen in
+in der Ecke über dem Titel stand nur noch schwer lesbar
+mit Bleistift geschrieben:
 
-Mied Da 3 Mk., Licht 18 Mr, Gas
-14 M »War 19 Mk.; zusammen 136 Mk. für April
+Miete 62 Mk., Steuern 23 Mk., Licht 18 Mk., Gas
+14 Mk., Wäsche 19 Mk.; zusammen 136 Mk. für April.
 
-ld schlug die Zeitung auf. Unten links sah man
-hinteren purer. wer vergilbt: der Abdruck eines Namens!
+Harald schlug die Zeitung auf. Unten links sah man
+Tintenspuren, bereits vergilbt: der Abdruck eines Namens!
 
-einen Spiegel vor den Namen hielt, lasen
-wir
+Als Harald einen Spiegel vor den Namen hielt, lasen
+wir deutlich:
 
 > Lehmann
 
-Es war eine sehr ne schmuudlose Schrift.
+Es war eine sehr energische, schmucklose Schrift.
 
 »Hm,« meinte Harald, »ganz interessant. Die Schrift
-unseres Sctreibüiscd ei schwang ist es nicht. Ich sah auf seinem
-Bier fh ein offenes Buch liegen. Auf dem Titel-blatt
-stand fein Name. — Dies hier rührt von einem anderen
+unseres Karl-Ernst Lehmann ist es nicht. Ich sah auf seinem
+Schreibtisch ein offenes Buch liegen. Auf dem Titelblatt
+stand sein Name. — Dies hier rührt von einem anderen
 Lehmann her. Falls unser —«
 
-Er schwieg. Es hatte draußen geläutet. »
+Er schwieg. Es hatte draußen geläutet.
 
-»Vielleicht Herr Gumlowsky, der uns von feiner Biederkeit
-log will,« sagte Harald dann.
+»Vielleicht Herr Gumlowsky, der uns von seiner Biederkeit
+überzeugen will,« sagte Harald dann.
 
-Ich ging öffnen. Vor mir — der Rotbärtige, Kolonie
-tatsächlich der Herr Chef!
+Ich ging öffnen. Vor mir — der Rotbärtige, Korpulente, —
+also tatsächlich der Herr Chef!
 
-Dorn,« »Meute er sich vor. Privatdetektiv August
-er —« — Er lächelte dabei.
+»Prießkorn,« stellte er sich vor. Privatdetektiv August
+Prießkorn —« — Er lächelte dabei.
 
-Ich bekam keinen schlechten Schied. Denn Prießkorn
-kannten wir. Wir hatten ihn wiederholt Beschäftigt, wenn
+Ich bekam keinen schlechten Schreck. Denn Prießkorn
+kannten wir. Wir hatten ihn wiederholt beschäftigt, wenn
 <@pagebreak/>
 wir beide die Ermittlungen in einer umfangreichen Sache
 nicht allein erledigen konnten.
@@ -743,271 +742,276 @@ hatte Karl-Ernst Lehmann uns vielleicht gehörig angelogen.
 
 <h2>3. Kapitel.</h2>
 
-Es war August Prießkorn. Er saß in der Tatort.
-rauchte eine von Harsts besten Braunen und berichtete:
+Es war August Prießkorn. Er saß in der Sofaecke,
+rauchte eine von Harsts besten Zigarren und berichtete:
 
 »Heute nachmittag gegen halb drei Uhr war ein Agent
-Max Gumlowsky bei mir und Beauftragte mich, feinen
-Prokuristen Karl-Ernst he arg u beobachten, den er im
-Verdacht hatte, dauernd Grog Er An:
-Stnöbeiondere soll Lehmann Ei dies wat mlowsfys
-Grippeerk Er getan haben. Gumlowsêty Sog daher
-verschiedene Hundert- netten wir mal nach gezeichnet.«
+Max Gumlowsky bei mir und beauftragte mich, seinen
+Prokuristen Karl-Ernst Lehmann zu beobachten, den er im
+Verdacht hatte, dauernd kleinere Beträge zu unterschlagen.
+Insbesondere soll Lehmann dies während Gumlowskys
+Grippeerkrankung getan haben. Gumlowskty hat daher
+verschiedene Hundert- und Fünfzigmarkscheine gezeichnet.«
 
-»Halt!« rief Ha Bad
+»Halt!« rief Harst. »Sehen wir mal nach —«
 
-&r öffnete das avide und prüfte die Scheine,
+Er öffnete das Pappkästchen und prüfte die Scheine,
 reichte sie dann Prießkorn.
 
-a9 Auto aha M (hm Naldiäiwap-pen
+»Hier sind 23 darunter, die ein M. G. im Reichswappen
 haben.«
 
-Prießkorn nickte. »Dann stimmt das Schon. Woher
-haben Sie die Kassenscheine, Herr Hoffst?«
+Prießkorn nickte. »Dann stimmt das schon. Woher
+haben Sie die Kassenscheine, Herr Harst?«
 
 »Erzählen Sie mal erst weiter, Kollege!«
 
 »Ich begann dann heute sofort mit der »Beschattung«,
-wie wir es nennen. Sich sollte fahl lich feststellen, oh
-Lehmann teure Bars besucht und Lebemann In
-Ich blau, einen meiner Angestellten 1 die gleiche
-Reitet
+wie wir es nennen. Ich sollte hauptsächlich feststellen, ob
+Lehmann teure Bars besucht und den Lebemann spielt.
+Ich hatte einen meiner Angestellten in die gleiche Maske
+gesteckt —«
 
-»da 1. machte et. »Und Sie ans kann -
-man bis hierher um folgten uns auch bis an sei
+»Aha!« machte Harst. »Und Sie folgten dann Lehmann
+bis hierher zu zweien, folgten uns auch bis zu seiner
+Wohnung.«
 
-nein. So iss. Ich blieb dann im Auto hinter
+»Ja. So ist’s. Ich blieb dann im Auto hinter
+Ihnen —«
 
 »Wissen wir alles. — Nun sollen Sie erfahren, was
-er Lehmann hier wollte. Er ist vor da Tagen
-von worden und hat uns, den Dieb zu suchen
+Karl-Ernst Lehmann hier wollte. Er ist vor vier Tagen
+bestohlen worden und bat uns, den Dieb zu suchen!«
 
 <@pagebreak/>
 Prießkorn lachte. »So ein frecher Halunke! Von dem
-Diebstahl hat er auch Herrn Gumlowsfky Mitteilung gemacht.
+Diebstahl hat er auch Herrn Gumlowsky Mitteilung gemacht.
 Natürlich alles Schwindel.«
 
 »Hm — wollen Sie mir dann vielleicht erklären, was
 er hier bei uns beabsichtigte?«
 
-»Vielleicht wollte er seinen Chef irgendwie an-ichwärzen!«
+»Vielleicht wollte er seinen Chef irgendwie anschwärzen!«
 
 »Bewahre! Im Gegenteil, er hat sehr nett von Herrn
 Gumlowsky gesprochen. — Also — was wollte er hier?«
-Prießkorn ‘blickte auf die Kassenscheine. »Wo fanden
-Sie die Dinger, Herr Harst?« antwortete er mit einer We-genfrage.
+Prießkorn blickte auf die Kassenscheine. »Wo fanden
+Sie die Dinger, Herr Harst?« antwortete er mit einer
+Gegenfrage.
 
 »Auf dem Boden über dem Hühnerstall!« Er schilderte
 was für den Fund des Geldpäckchens in Betracht kam.
 
-»So so!« meinte der Berufssdetektiv. »Jedenfalls ist
+»So so!« meinte der Berufsdetektiv. »Jedenfalls ist
 Karl-Ernst Lehmann jetzt des Diebstahls überführt. Dieses
-Geld hat er Gumlowssfy gestohlen.«
+Geld hat er Gumlowsky gestohlen.«
 
 »Sehr wahrscheinlich. Er wollte es los werden und
 verbarg es hinter dem Maissack,« erklärte Harst völlig
 ernst.
 
-Ich verbiß mir mühsam ein Lächeln. Der gute Bleich.-
-Korn merkte nicht, daß Harald ihn sehr sein »cinwikelte«.
+Ich verbiß mir mühsam ein Lächeln. Der gute Prießkorn
+merkte nicht, daß Harald ihn sehr fein »einwickelte«.
 
-»Nehmen Sie das Geld nur mit,« sägte Harst hinzu.
+»Nehmen Sie das Geld nur mit,« fügte Harst hinzu.
 »Es gehört ohne Zweifel Herrn Gumlowsky. Ob er den
-Lehmann gerichtlich behangen lassen wird?«
+Lehmann gerichtlich belangen lassen wird?«
 
-»Nein. Er will ihn nur an die ruft leben.«
+»Nein. Er will ihn nur an die Luft setzen.«
 
 Harald gähnte. Prießkorn verstand den Wink und
-verabschiedete sich, Das Pappschächtelchen mit dem Gelde
+verabschiedete sich. Das Pappschächtelchen mit dem Gelde
 steckte er ein. Die Zeitung aber hatte Harald unauffällig
 bei Seite gelegt.
 
-Wir begleiteten den Kollegen bis an Die Tür des Vorgartens.
+Wir begleiteten den Kollegen bis an die Tür des Vorgartens.
 
-»Ihre Maske ist übrigens auspezcichnet, Prießkorn,«
-sagte Harald noch. Dann stieg der Detektiv lau das wartende
+»Ihre Maske ist übrigens ausgezeichnet, Prießkorn,«
+sagte Harald noch. Dann stieg der Detektiv in das wartende
 Auto und fuhr davon.
 
 Harst schaute dem Auto nach, meinte leise:
 
 »Ich wußte es! Eine ganz große Sache —! Nun
 werden wir das Stück Fleisch mal auf Gift untersuchen.
-Den Umständen nach müßte entweder Karl-Ernst oder ei
-er der beiden Detektive es Ajax hingeworfen haben.«
+Den Umständen nach müßte entweder Karl-Ernst oder einer
+der beiden Detektive es Ajax hingeworfen haben.«
 
 <@pagebreak/>
-»Unsinn! Daran glaubst Du Selbst nicht!« gern es
+»Unsinn! Daran glaubst Du selbst nicht!« entfuhr es
 mir. »Gumlowsky ist eben als dritter bei uns im Garten
-gewesen und hat zu, als wir mit dem jungen Menschen-ins
-Haus gegangen waren, das Fädchen auf dem Körnerboden
+gewesen und hat auch, als wir mit dem jungen Menschen
+ins Haus gegangen waren, das Päckchen auf dem Körnerboden
 versteckt, um Karl-Ernst Lehmann in Verdacht des
 Diebstahls zu bringen.«
 
 »Dann sind wir einig, mein Alter. Karl-Ernst hat
 uns nicht belogen, in keinem Punkte! Der Lügner ist
-Gumlowsky — ein ganz gefährlicher Schurke! Ausgerechneè
-heute nachmittag nach dem FENCHRONNEINTD gen dem
-schwarzen Mai und Lehmann, durch das Gumlowsky
-schwer bloßgestellt wurde, eilt er zu Brieflein!«
+Gumlowsky — ein ganz gefährlicher Schurke! Ausgerechnet
+heute nachmittag nach dem Telephongespräch zwischen dem
+schwarzen Max und Lehmann, durch das Gumlowsky
+schwer bloßgestellt wurde, eilt er zu Prießkorn!«
 
 Wir waren langsam auf das Haus zugeschritten.
 
-Manne blieb plötzlich sieben, packe meinen Arm.
+Harald blieb plötzlich stehen, packe meinen Arm.
 
-— das Fenster!«
+»Da — das Fenster!«
 
-fing ich sah, wie über den Vorhang des einen erlecuch-teten
-Fensters von Harsts Gen blitzschnell ein
-schwacher Schatten hinaglitt.
+Und ich sah, wie über den Vorhang des einen erleuchteten
+Fensters von Harsts Arbeitszimmer blitzschnell ein
+schwacher Schatten hinglitt.
 
-»Was bedeutet das?« re
+»Was bedeutet das?«
 
-Wir hätten die Dar: goß anlehnen, sondern
-ins Klo drücken ne Es ist jemand bei uns eingedrungen,
-und — wir haben. nicht mal unsere Pistolen bei
-rang! Vielleicht ist es — der schwarze Mai, der vielleicht
-mit — Ottmar Orstra identisch ist!«
+»Wir hätten die Haustür nicht bloß anlehnen, sondern
+ins Schloß drücken sollen! Es ist jemand bei uns eingedrungen,
+und — wir haben nicht mal unsere Pistolen bei
+uns! Vielleicht ist es — der schwarze Max, der vielleicht
+mit — *Ottmar* Orstra identisch ist!«
 
 »Wie — Orstra?!«
 
-»Vielleicht! — Gehen wir erst mal in oft Flur —
+»Vielleicht! — Gehen wir erst mal in den Flur —«
 
-Wir traten ein. Die Flurampel braun
+Wir traten ein. Die Flurampel brannte.
 
-Harst zog die Tür zu, schloß ab, legte die Sicherheit
-fette vor, gute ganz halt:
+Harst zog die Tür zu, schloß ab, legte die Sicherheitskette
+vor, sagte ganz laut:
 
-»Der Koffer steht in Deinem Zimmer! Geben wir
+»Der Koffer steht in Deinem Zimmer! Gehen wir
 und —«
 
-en Er hatte die Tür rechts, die zu meinen beiden Räumen
+Er hatte die Tür rechts, die zu meinen beiden Räumen
 führte, geöffnet.
 
 Wir standen jetzt in meinem Wohnzimmer. Harst
-He die Tür zu, schob den Riegel vor.
+drückte die Tür zu, schob den Riegel vor.
 
 Durch das Schlafstubenfenster in den Hof!« flüsterte er.
 
 Wir sprangen in den Hof hinab. Harst holte die Leiter,
 lehnte sie an das Sims seines Schlafstubenfensters
-und streifta rasch die Schuhe ab.
+und streifte rasch die Schuhe ab.
 
 <@pagebreak/>
-tat dasselbe. Dann stiegen me durch den offenen
-Fenster eine in das Gchlafzimmter ein.
+Ich tat dasselbe. Dann stiegen wir durch den offenen
+Fensterflügel in das Schlafzimmer ein.
 
-Harst zog nagt fort die Nachttifchfchublabe auf und
-Clement heraus.
+Harst zog ganz sacht die Nachttischschublade auf und
+nahm die neunschüssige Clement heraus.
 
-rx holte die
+Er holte tief Atem.
 
 »So — nun steht die Partie gleich!« meinte er. »Nun
 werden wir uns den Gast näher ansehen!«
 
 Meine Pistole lag leider auf Harsts Schreibtisch, wo
-Dr sie nach der Entvetung bei Hühmerbiebes hingelegt
-hatte
+ich sie nach der Entdeckung des Hühnerdiebes hingelegt
+hatte.
 
-da Art I, jetzt die Tür nach feinem Arbeitszimmer auf,
-trat sehr? und — zielte auch schon auf den Menschen,
-der Kinn in derselben Sofaecke sah wie vorhin Kollege
-Prießkorn
+Harst riß jetzt die Tür nach seinem Arbeitszimmer auf,
+trat schnell ein und — zielte auch schon auf den Menschen,
+der genau in derselben Sofaecke saß wie vorhin Kollege
+Prießkorn.
 
-derselben Sofaecke — und genau derselbe Mensch.
+In derselben Sofaecke — und genau derselbe Mensch.
 
-genau dieselbe Wallte — nur der Anzug war dunkler,
+Genau dieselbe Maske — nur der Anzug war dunkler,
 und die Krawatte schwarz.
 
 Der Mann hielt die rechte Hand zwanglos im Schoß,
-und y er Hand eine lange, klobige Pistole.
+und in dieser Hand eine lange, klobige Pistole.
 
-Rühren Sie sich nicht!« warnte Harald.
-Per Mensch lächelte und — hob den rechten Arm.
+»Rühren Sie sich nicht!« warnte Harald.
 
-Harst drückte
+Der Mensch lächelte und — hob den rechten Arm.
 
-As Sohle on »Clement gab einen metallifhen Klang,
+Harst drückte ab.
+
+Das Schloß der Clement gab einen metallischen Klang,
 als der Schlagbolzen vor schnellte.
 
-Dr war alles. Kein Schuß,
+Das war alles. Kein Schuß.
 
-Vor Rache men enthält nur Patronenattrapy-pen,«
-vorn Mensch ohne Eden Hohn. »Meine Pi
-Den pries den Vorzug, lautlos zu schießen!
-Sklave schon zwei Bete äurechtgerüdt. Sehen
-Sie Ton, a bin war Orstras«
+»Der Patronenrahmen enthält nur Patronenattrappen,«
+sagte Mensch ohne jeden Hohn. »Meine Pistole
+aber ist geladen und hat den Vorzug, lautlos zu schießen!
+— Da — ich habe schon zwei Sessel zurechtgerückt. Setzen
+Sie sich! Ich bin Ottmar Orstra!«
 
-Oft Ließ den Arm sinken.
+Harst ließ den Arm sinken.
 
-Hain Recherchen, Orstra,« erklärte er ebenso gelassen.
-»Ich ‘habe mit Ihnen zu reden.«
+»Wir gehorchen, Orstra,« erklärte er ebenso gelassen.
+»Ich habe mit Ihnen zu reden.«
 
 »Machen Sie keine Dummheiten!« warnte Orstra.
-Ich müßte abdrücken. Es acht um meinen Kopf, wenn
-so mich festnehmen. Das weiß ich. Und deshalb darf
-ich Sie ne schonen
+»Ich müßte abdrücken. Es geht um meinen Kopf, wenn
+Sie mich festnehmen. Das weiß ich. Und deshalb darf
+ich Sie nicht schonen.«
 
-ir festen ne in die beiden Klubsessel Orstra Gegenden.
+Wir setzten uns in die beiden Klubsessel Orstra gegenüber.
 
 »Das Verhältnis zwischen ihnen, meine Herren, und
 <@pagebreak/>
 mir muß jetzt endgültig geklärt werden,« begann der Verbrecher
 etwa in demselben Ton, als säße er in einem Salon
 mit zwei Gästen zusammen, die auf äußerste Höflichkeit
-Anspruch hatten. eben wir die Verhandlungen: bei
-beginnen, möchte ich mich gegen Ihre flehe neu ersonnenen
-ersonnen unschädlich zu machen, nach Mögliche.
+Anspruch hatten. »Bevor wir die Verhandlungen
+beginnen, möchte ich mich gegen Ihre stets neu ersonnenen
+Tricks, einen Gegner unschädlich zu machen, nach Möglichkeit
+schützen.
 
 Er faßte mit der Linken in die Tasche und warf mir
 eine kleine Rolle etwa millimeterstarken Drahtes zu.
 
-»Herr Schraut, Sie werden Ihrem Freunde die è Sande
-fesseln,« verlangte er etwas energischen Tones. mD
-Sei beide nochmals, Die Waffe, die ich hier auf Sie
-tet halte, ist eine Kg jemals nd Luftpistole System
-Die Durchschlagskraft kam; r einer gewöhnlichen Sehe
-beupistole gleich. Bei der baumelte verdächtigen Bier
-anno — Doch nein, ich will nicht drohen! Sie werden nicht
-so unvorsichtig sein, hoffe ich. — Also bitte, Herr ro
+»Herr Schraut, Sie werden Ihrem Freunde die Hände
+fesseln,« verlangte er etwas energischen Tones. »Ich warne
+Sei beide nochmals. Die Waffe, die ich hier auf Sie
+gerichtet halte, ist eine doppelläufige Luftpistole System Maux.
+Die Durchschlagskraft kommt der einer gewöhnlichen Scheibenpistole
+gleich. Bei der geringsten verdächtigen Bewegung
+— doch nein, ich will nicht drohen! Sie werden nicht
+so unvorsichtig sein, hoffe ich. — Also bitte, Herr Schraut!«
 
-»zu’8 nur!« meinte Harst.
+»Du’s nur!« meinte Harst.
 
-Was blieb mir anderes übrig als By ehe
+Was blieb mir anderes übrig als zu gehorchen?
 
-ch stand auf, See die Rolle Draht auf. ’daralb
-hielt mir die Hände
+Ich stand auf, wickelte die Rolle Draht auf. Harald
+hielt mir die Hände hin.
 
-»Etwas seziert« da Orstra dann. »So — das ne
+»Etwas fester!« sagte Orstra dann. »So — das genügt.«
 
-Der Nest der Drahtrolle, noch neuen drei Meter, fiel
+Der Rest der Drahtrolle, noch gegen drei Meter, fiel
 auf den Teppich.
 
-Det or  werten Leck mir den Draht zu, Herr Schraut,«
-dein ra Mag edu
+»Nein — werfen Sie mir den Draht zu, Herr Schraut,«
+befahl Orstra ungeduldig.
 
-Ich tat es. Er acht danach mit der u und anno
-das VBraktende in der Hand. Der übrige Draht, he
-mit Haralds Hand Ofen verbunden war, bildete u »he
+Ich tat es. Er griff danach mit der Linken und behielt
+das Drahtende in der Hand. Der übrige Draht, der noch
+mit Haralds Handgelenken verbunden war, bildete auf der
 Tischdecke große Spiralen.
 
-»So,« meinte Orstra. »Seh also zum Thema. — Sie
+»So,« meinte Orstra. »Jetzt also zum Thema. — Sie
 Herr Harst, haben mir in Norwegen bei vier verschiedenen
-Gelegenheiten eine Beute von insgesamt etwa sechs Markieren
-Kronen entzogen. Sie selbst ein weit » ins
-informiert bin, rund sieben Millionen
+Gelegenheiten eine Beute von insgesamt etwa sechs Millionen
+Kronen entzogen. Sie selbst besitzen, so weit ich
+informiert bin, rund sieben Millionen Mark.«
 
-»Sieben und eine halbe,« ’ verbesserte rafft.
+»Sieben und eine halbe,« verbesserte Harst.
 
 »Gut, also sieben und eine halbe. Ich könnte Sie
-beide hier über den Haufen schießen. Zwei Stirnschülsse —
+beide hier über den Haufen schießen. Zwei Stirnschüsse —
 und die Polizei könnte sich umsonst den Kopf zerbrechen,
 <@pagebreak/>
 wer Sie beide beseitigt hat. Diese Art von Rache widerstrebt
-mir. Ich fordere folgendes von Ahnen, Herr Harst,
+mir. Ich fordere folgendes von Ihnen, Herr Harst.
 Sie werden mir die ehrenwörtliche Zusage machen, mir
 binnen acht Tagen die Summe von fünf Millionen in
-Taufenbruarffcheinen auszuhändigen, also am 11. September
-Kahne ein halb zwölf Uhr in diesem Zimmer. Sie
+Tausendmarkscheinen auszuhändigen, also am 11. September
+nachts ein halb zwölf Uhr in diesem Zimmer. Sie
 müssen mir weiter versprechen, in der Zwischenzeit nichts
 gegen mich zu unternehmen, auch nicht etwa die Hilfe der
 Polizei oder anderer Leute anzurufen. Ferner müssen
@@ -1017,7 +1021,7 @@ habe. Gehen Sie hierauf nicht ein, so muß ich leider
 nachher ein Trauerhaus verlassen, in dem man zwei Tote
 beweinen wird.«
 
-Dies war eine rilcksicht8volle Umschreibung für: »Muß«
+Dies war eine rücksichtsvolle Umschreibung für: »Muß
 ich Sie niederknallen!«
 
 Und — Orstra würde dies tun! Daran zweifelte ich
@@ -1026,82 +1030,82 @@ erwarten hatten.
 
 Harald erwiderte jetzt: »Fünf Millionen bares Geld
 in acht Tagen zu beschaffen, wird nicht ganz leicht sein —
-Kur mir nicht! Wirklich, Orstra, Sie stellen sich das einfacher
+selbst mir nicht! Wirklich, Orstra, Sie stellen sich das einfacher
 vor, als es ist. Ich müßte das Geld gerade stehlen!«
 
 »Dann stehlen Sie es! — Erhalte ich Ihre ehrenwörtliche
 Zusicherung nicht binnen zehn Minuten, so —, na, Sie
 verstehen mich!«
 
-»Vollkommen, Orstra »vollkommen! — Einen Augenblick.
+»Vollkommen, Orstra, vollkommen! — Einen Augenblick.
 Ich muß nachdenken —«
 
-Stille — Totenstille im ganzen Hange.
+Stille — Totenstille im ganzen Hause.
 
 Oben im ersten Stock schliefen Harsts Mutter und die
-treue Mathilde. Sie ahnten nicht, daß hier im Erdg-schos.
-ein Spiel um Sein oder Nicht sein gespielt wurde.
+treue Mathilde. Sie ahnten nicht, daß hier im Erdgeschoss
+ein Spiel um Sein oder Nichtsein gespielt wurde.
 
 Dann sagte Harald:
 
 »Es geht nicht, Orstra! Acht Tage sind eine zu kurze
 Frist. Gewähren Sie mir drei Wochen, dann will ich —«
 
-»Keine Rede Davon!« fiel Orstra ihm ins Wort. »Acht
-Tage — na, sagen wir vierzehn Lage ist das Höchstmaß!«
+»Keine Rede davon!« fiel Orstra ihm ins Wort. »Acht
+Tage — na, sagen wir vierzehn Tage ist das Höchstmaß!«
 
-»Müssen es gerade 1000-Markscheine sein? — Nie
+»Müssen es gerade 1000-Markscheine sein? — Ich
 werde das Geld vielleicht wirklich — stehlen müssen, Orstra.
-Und — vielleicht erwische ich auch ausländifihe Banknoten.«
+Und — vielleicht erwische ich auch ausländische Banknoten.«
 
 <@pagebreak/>
-Orstra blickte Harald scharf an. »Sie belieben Wie
-zu! machen, Herr Harst!« Dar
+Orstra blickte Harald scharf an. »Sie belieben Witze
+zu machen, Herr Harst!«
 
-»Durchaus nicht. Wenn nötig kommt es mir auf
-einen Diebstahl nicht an. Ah kann Ihnen Bad Gelb nach
-her ja wieder abnehmen.«
+»Durchaus nicht. Wenn nötig, kommt es mir auf
+einen Diebstahl nicht an. Ich kann Ihnen das Geld nachher
+ja wieder abnehmen.«
 
-»2 a irgend einen Hintergedanken bei alledem,
-Herr Hai
+»Sie haben irgend einen Hintergedanken bei alledem,
+Herr Harst!«
 
 »Nur den einen, das ich mich vielleicht als Dieb versuchen
-werde. — Sind Sie auch mit ausländischen Darbieten
+werde. — Sind Sie auch mit ausländischen Banknoten
 zufrieden?«
 
 »Ja. — Und Sie geben Ihr Ehrenwort — auch darauf,
 daß Sie mich unbehelligt jetzt weggehen lassen?«
 
-»Natürlich, Orstra. Wach darauf. Also — vierzehn
-[Tage »riet und die Erlaubnis, daß ich las Gelb stehlen
-da
+»Natürlich, Orstra. Auch darauf. Also — vierzehn
+Tage Frist und die Erlaubnis, daß ich das Geld stehlen
+darf?«
 
-À es Kinos wird kein. Mensch klug! Ja denn! Also
-abgemacht!« du
+»Aus Ihnen wird kein Mensch klug! Ja denn! Also
+abgemacht!«
 
 »Abgemacht, Orstra. Sie sind vierzehn Tage und vier
-Stunden, bis zum. | 18. September morgens dreiviertel
-über, vor uns sicher.« -
+Stunden, bis zum 18. September morgens dreiviertel
+Uhr, vor uns sicher.«
 
 Orstra verbeugte ich. »Ich habe einen Gentleman
-or mir! — Herr Schraut, nehmen Sie Ihrem Freunde
-ie Fesseln ab —«
+vor mir! — Herr Schraut, nehmen Sie Ihrem Freunde
+die Fesseln ab —«
 
-»Halt!« erklärte Harst da. »Noch einen Moment. An
-möchte Ihnen jetzt nur noch beweisen, daß ich mein CEhren-wort
+»Halt!« erklärte Harst da. »Noch einen Moment. Ich
+möchte Ihnen jetzt nur noch beweisen, daß ich mein Ehrenwort
 gar nicht hätte zu geben brauchen.«
 
 Er hatte blitzschnell die Arme gehoben, hatte sie nach
 rechts geschwenkt.
 
 Die Spiralen des Drahtes glitten über den Lauf der
-langen Pistole. Dann ruhte Harst mit den Armen zu —
+langen Pistole. Dann ruckte Harst mit den Armen zu —
 und die sich um den Pistolenlauf schmiegenden Spiralen
-Riffen die Mündung nach oben.
+rissen die Mündung nach oben.
 
-So — wenn Schraut jetzt zusprinat und Ihnen an
-den Hals fährt, gehen Ihre Kugeln in die Zimmerdee,«
-faule Harald lächelnd. »Sie sehen — ich hätte Sie überwältigen
+So — wenn Schraut jetzt zuspringt und Ihnen an
+den Hals fährt, gehen Ihre Kugeln in die Zimmerdecke,«
+sagte Harald lächelnd. »Sie sehen — ich hätte Sie überwältigen
 können. Aber ich verzichtete darauf, weil ich —
 anderes mit Ihnen vorhabe!«
 
@@ -1109,29 +1113,29 @@ Orstras Verblüffung war so groß, daß er zunächst gar
 nichts sagte. Dann meinte er kopfschüttelnd:
 
 <@pagebreak/>
-»Boy Ahnen kann man lernen! Sehr viel lernen! —
+»Von Ihnen kann man lernen! Sehr viel lernen! —
 Was haben Sie denn mit mir vor?«
 
 »Oh — ich möchte Ihnen nochmals beweisen, daß Sie
-mir doch nicht entgehen. Jedenfalls: zwischen 113 herrscùt
-jetzt Waffenstillstand! Schraut — nimm wir die Fesseln ab.«
+mir doch nicht entgehen. Jedenfalls: zwischen uns herrscht
+jetzt Waffenstillstand! Schraut — nimm mir die Fesseln ab.«
 
 <h2>4. Kapitel.</h2>
 
 Harald langte in die Tasche und holte sein Zigarettenetui
-hervor, rauchte sich eine Mirakulum zu und meinte:
+hervor, rauchte sich eine Mirakulum an und meinte:
 
 »Wie kamen Sie dazu, gerade diese Verkleidung zu
 wählen, Orstra?«
 
-Nun, weil zwei Leute in derselben Aufmachung vorhin
-Uhr Haus umschlichen, Herr Harst«
+»Nun, weil zwei Leute in derselben Aufmachung vorhin
+Ihr Haus umschlichen, Herr Harst.«
 
 »Ah — der Kollege Prießkorn und sein Gehilfe! —
-Ganz recht. Die hatten es auf einen armseligen Desraus-danten
+Ganz recht. Die hatten es auf einen armseligen Defraudanten
 abgesehen.«
 
-»So?! Und ich glaubte, es wären Leute, die Ahnen
+»So?! Und ich glaubte, es wären Leute, die Ihnen
 eins auswischen wollten —«
 
 »Nein. Es ist die Wahrheit: es handelte sich um zwei
@@ -1139,14 +1143,14 @@ Berufsdetektive!« —
 
 Es war ein Genuß, Haralds so ganz echt wirkenden
 Worten zu lauschen und sein Benehmen, seine Gesten, sein
-Mienenspiel zu beobachten. Seine Absicht war mir klar!
+Mienenspiel zu beobachten. Seine Absicht war mir klar:
 er wollte Orstra um keinen Preis merken lassen, daß er
 dessen Verbindung mit Max Gumlowsky kannte.
 
 »So war der junge Mensch der Defraudant?« fragte
 Orstra mit etwas lauerndem Blick. »Ich sah Sie nämlich
 gegen halb zehn mit ihm davongehen. So hatte ich Zeit,
-mich umzukostümieren. Sich wohne hier ganz in der Nähe.
+mich umzukostümieren. Ich wohne hier ganz in der Nähe.«
 
 Harald lächelte wieder.
 
@@ -1154,386 +1158,390 @@ Harald lächelte wieder.
 
 »Werde mich hüten! Mir stehen genug tadellose Ausweispapiere
 zur Verfügung — mit allen möglichen Namen.
-— Was wollte denn der junge Defraudant bei Ahnen,
+— Was wollte denn der junge Defraudant bei Ihnen,
 Herr Harst?«
 
-»Das ist mir noch unklar. Er: — Latte hier bewahrt
+»Das ist mir noch unklar. Er — hatte hier heimlich
 Geld deponiert.«
 
-»So?! — Etwa die unterschlageune Turme?«
+»So?! — Etwa die unterschlagene Summe?«
 
 <@pagebreak/>
-»Ich möchte Darüber nicht erben, Der &
-Tale Bug. QUE Anzeige nur mich ist ade
+»Ich möchte darüber nicht sprechen. Der Geschädigte
+will von einer Anzeige absehen. Für mich ist die Geschichte
+erledigt.«
 
-Orstra erhob rum
-van: Mr es In als nicht Linsen stören, Herr
+Orstra erhob sich. »Ich will nicht länger stören, Herr
+Harst. Wir sind uns also einig: Am 17. September um
+halb zwölf finde ich mich hier ein und erhalte fünf Millionen
+in Banknoten. Erst am 18. September morgens
 nach halb drei Uhr —«
 
-»Bitte — meinetwegen auch vier Uhr
+»Bitte — meinetwegen auch vier Uhr —«
 
-»Gut — also dann elf dürfen Sie Arzt Verfolgung
-He
+»Gut — also dann erst dürfen Sie meine Verfolgung
+aufnehmen!«
 
-»Stimmt — wir sind einig. Auf Wiedersehen, Bring.
-Schraut, begleite den Herrn hinaus
+»Stimmt — wir sind einig. Auf Wiedersehen, Orstra.
+Schraut, begleite den Herrn hinaus.« —
 
-»Als ich vor der Haustür Orstras Verbeugung etwas
-knapp erwiderte, sagte er frei:
+Als ich vor der Haustür Orstras Verbeugung etwas
+knapp erwiderte, sagte er schnell:
 
 »Glauben Sie mir, Herr Schraut, der Tod war Ihnen
-trotz der Drahtspiralen heute Lug nahe! Sorgen Bis
-dafür, daß das Geld zur rechten Reif da
+trotz der Drahtspiralen heute recht nahe! Sorgen Sie
+dafür, daß das Geld zur rechten Zeit da ist —«
 
 Dann eilte er davon. Ich kehrte ins Zimmer zurück
-und fand Harald beim Studium bot Stanımbaumd der
+und fand Harald beim Studium des Stammbaums der
 Familie Lehmann.
 
-ch frühe mich mit beiden Händen auf den Tisch und
-rate:
+Ich stützte mich mit beiden Händen auf den Tisch und
+fragte:
 
-»Weshalb ließest Du ‘Dich auf biegen Handel ein?!
-Wir ‘hätten Orstra doch ganz bequem überwältigen können.
-Der Trick mit den Moses wäre verlädt. Ich ahnte
-Dr daß etwas erfolgen würde; ne ssprungbereit da —«
+»Weshalb ließest Du Dich auf diesen Handel ein?!
+Wir hätten Orstra doch ganz bequem überwältigen können.
+Der Trick mit den Drahtschlingen wäre geglückt. Ich ahnte
+ja, daß etwas erfolgen würde; ich saß sprungbereit da —«
 
-Dr heben lie, sollte ich uns die Ausficht auf den feinsten
+»Lieber Alter, sollte ich uns die Aussicht auf den feinsten
 Streich, den wir je Verbrechern gespielt haben, verderben?!
-— Nein — das wäre Schade verwesen!«
+— Nein — das wäre schade verwesen!«
 
-feste gilt.
+Ich setzte mich.
 
-Würdest Du mir nicht erklären, was Du vorhast?«
-Bai ich gefror
+»Würdest Du mir nicht erklären, was Du vorhast?«
+bat ich gespannt.
 
-50 ch »die fünf See stehlen — ‘tatsächlich!
+»Ich will die fünf Millionen stehlen — tatsächlich!«
 
-Schwur unser
+Da wurde ich ungemütlich.
 
-LL »Laß es den Haken den in; auch Orstra damit
-irgendwie en wolltest, — bei!!
+»Laß doch den Unsinn! Wenn Du auch Orstra damit
+irgendwie blassen wolltest, — bei mir —«
 
-LL Ad Die will @ genau so wenig! — Nun brühe
-eine Tasse Kaffee
+»— bei Dir will ich’s genau so wenig! — Nun brühe
+eine Tasse Kaffee auf —«
 
-Qc holte die Kaffeemaschine. Der Spiritus Flamme
+Ich holte die Kaffeemaschine. Der Spiritus flammte
 <@pagebreak/>
-By Und wieder konnte ich mich nicht beherrschen und
-e:
+auf. Und wieder konnte ich mich nicht beherrschen und
+fragte:
 
 »Gumlowsky und Orstra sind alte Bekannte und —«
 
 Harald unterbrach mich: »Ja — und nicht Gumlowsky,
-sondern Orstra war bei uns im Garten und im Hühner
-all und hat das Geld hinter den Maissack gelegt. — Nun
-Höre mich nicht. Der Stammbaum is recht interessant.
-As den Namen der verstorbenen Mitglieder der Familie
+sondern Orstra war bei uns im Garten und im Hühnerstall
+und hat das Geld hinter den Maissack gelegt. — Nun
+störe mich nicht. Der Stammbaum ist recht interessant.
+Aus den Namen der verstorbenen Mitglieder der Familie
 habe ich mir schon vier herausgesucht —«
 
 »Weshalb?«
 
-»Nun — Gumlowsky bat die Familienpapiere doch
-nur gestohlen, um echte Ausdrehte in die Finger zu bekonm-men.
+»Nun — Gumlowsky hat die Familienpapiere doch
+nur gestohlen, um echte Aus weise in die Finger zu bekommen.
 Vielleicht hat er von diesen Legitimationspapieren
 einige seinem Freunde Orstra heute überlassen, der mit
-ihrer Hilfe sich als biederer Bürger namens Albert Lebemann
-oder Feil Schütze oder Heinrich Gellte — Seltene
+ihrer Hilfe sich als biederer Bürger namens Albert Lehmann
+oder Fritz Schütze oder Heinrich Gohlke — letztere
 beide sind Schwiegersöhne eines Onkels von Karl-Ernst
 Lehmann gewesen — ausgeben kann. Wenn Orstra sich
-jetzt zum Beispiel irgendwo in Berlin als Feil Schütze
-aus Hüsteln ein Zimmer mietet und dort sehr solide lebt,
-wird niemand ‘ihn belästigen. Höchstens werden wir es
+jetzt zum Beispiel irgendwo in Berlin als Fritz Schütze
+aus Küstrin ein Zimmer mietet und dort sehr solide lebt,
+wird niemand ihn belästigen. Höchstens werden wir es
 tun — nach dem. 17. September.«
 
 »Aha — mir geht ein Licht auf! Du hofft Orstra auf
-diese Weise schnell zu finden und ihm die Millionen wie
-der abzunehmen.«
+diese Weise schnell zu finden und ihm die Millionen wieder
+abzunehmen.«
 
-»Co — denn er wird nach dem 1». nicht sofort fliehen,
+»Ja — denn er wird nach dem 17. nicht sofort fliehen,
 sondern als solider Herr weiter wohnen bleiben, wo er
 wohnt, und niemand würde ihn dann beargwöhnen.«
 
 »Hm — und die sechs leeren Briefbogen?«
 
-»Oh — die spielen nach) wie vor die Hauptrolle!«
+»Oh — die spielen nach wie vor die Hauptrolle!«
 
-»Buch bei dem Streich, durch den Du Orstra am 17.
+»Auch bei dem Streich, durch den Du Orstra am 17.
 hineinlegen willst?«
 
-»so, auch dabei.«
+»Ja, auch dabei.«
 
 »Das ist mir unklar!«
 
-»Weil Du feinen — Farbeujinu hast!
+»Weil Du keinen — Farbensinn hast!
 
-ch begann zu grübeln. — Farbensinu?k! Was solle
-das nun wieder kl —
+Ich begann zu grübeln. — Farbensinn?! Was sollte
+das nun wieder?! —
 
-Harald war an seinen Schreibtisch gegangen und un-wrfuchte
+Harald war an seinen Schreibtisch gegangen und untersuchte
 das Stück Fleisch.
 
 »Es ist wirklich vergiftet,« erklärte er. »Armer Ajax,
 <@pagebreak/>
-hoffentlich hat die Einspritzung Dir geholfen! Ich wir
-doch mal auf den Hof Sachen und nachschaue
+hoffentlich hat die Einspritzung Dir geholfen! Ich will
+doch mal auf den Hof gehen und nachschauen.<<
 
-Er fehlte sehr bald zurück.
+Er kehrte sehr bald zurück.
 
 »Ajax wird am Leben bleiben, mein Alter. —
-nun eine- Tasse Kaffee. Dann werde ich einen Brief na
+nun eine Tasse Kaffee. Dann werde ich einen Brief nach
 Swinemünde schreiben. Dort muß es einen Magistratssekretär
-Albert Lehmann gegeben haben, der am 15. Zahlt
+Albert Lehmann gegeben haben, der am 19. Juli
 des Vorjahres verstorben ist und zwar als Junggeselle, der
 62 Mark Miete gezahlt hat und monatlich 23 Mark Steuern.
-Dieser Lehmann wäre heute 45 Takte alt, und —
-im gleichen Alter etwa. ist Orstra. Falls sich die Papiere
+Dieser Lehmann wäre heute 45 Jahre alt, und —
+im gleichen Alter etwa ist Orstra. Falls sich die Papiere
 dieses Lehmann ebenfalls unter der Sammlung befunden
 haben, dann könnte Orstra vielleicht diese Papiere gewählt
 und sich für die nächsten Wochen in Albert Lehmann umgetauft
-haben. Mein Brief bezweckt folgendes: ich wir
+haben. Mein Brief bezweckt folgendes: ich will
 vom Magistrat Swinemünde schwarz auf weiß bestätigt
 haben, daß Albert Lehmann tot ist! — Wenn Orstra dann
-hier als Herr Magistratssekretär auftritt, werde ich, ihm Vor
-fort im geeigneten Moment beweisen, daß er dieser Herr
+hier als Herr Magistratssekretär auftritt, werde ich ihm sofort
+im geeigneten Moment beweisen, daß er dieser Herr
 nicht sein kann und daß ich — Halt — das darf ich ja
 nicht! Der Brief muß unterbleiben, denn dieses Schreiben
 verstieße gegen den Inhalt meines ehrenwörtlichen
 Versprechens!« —
 
-Am Vormittag erschien dann ‘ein Herr aus Frankfurt
-am Mohn bei uns, ein bekannter Großindustrieller. am
-Waren die Zeichnungen für einen neuen Motor gestohlen
-worden, Wende fuhren wir nach Frankfurt. in 14,
+Am Vormittag erschien dann ein Herr aus Frankfurt
+am Main bei uns, ein bekannter Großindustrieller. Ihm
+waren die Zeichnungen für einen neuen Motor gestohlen
+worden. Abends fuhren wir nach Frankfurt. Am 14.
 hatte Harst den Dieb der Zeichnungen in Zürich ermittelt
 und die Skizzen ihm abgenommen. Am 15. abends waren
 wir wieder in Berlin. Als wir gegen elf Uhr auf dem
-Anhalter Bahnhof in Berlin eingetroffen waren, alt mir
+Anhalter Bahnhof in Berlin eingetroffen waren, als wir
 mit unseren beiden Koffern ein Auto bestiegen hatten und
 er dem Chauffeur als Ziel »Wannsee, Pension Seeblick«
-nannte, da merkte ich, daß es jetzt Heim Gumlomäty an
-den Kragen Da sollte! Denn — in Wannsee lag &Gumlowskys
+nannte, da merkte ich, daß es jetzt Herrn Gumlowsky an
+den Kragen gehen sollte! Denn — in Wannsee lag Gumlowskys
 Jacht.
 
-Das Pensionat war nur noch sschwach besetzt. Wir
+Das Pensionat war nur noch schwach besetzt. Wir
 nahmen zwei Parterrezimmer. Unterwegs im Auto hatten
 wir uns bereits ein wenig verwandelt. Der Chauffeur
-hielt uns sicher für Kriminalbeamte, Wir gaben andere
+hielt uns sicher für Kriminalbeamte. Wir gaben andere
 <@pagebreak/>
 Namen an, aßen in unserem Wohnsalon und ruderten am
 16\. nachmittags mit einem dem Pensionat gehörigen Boot
-Ruf dem Großen Wannsee umher, bis wir Gumlowskys
-»Jacht »Vorne« gefunden hatten.
+auf dem Großen Wannsee umher, bis wir Gumlowskys
+Jacht »Möwe« gefunden hatten.
 
-Gegen halb fünf begab sich Herr Gumlowsfky nebst
+Gegen halb fünf begab sich Herr Gumlowsky nebst
 Gattin an Bord der Jacht und machte sie klar zur Fahrt.
-Wir vertaäischten das Ruderboot smell gegen eine Segel-ioffe
-und hielten uns stets hinter der Vorne, die ich! Durch
-den Kanal in: den Kleinen Wannsee einbog und dann an
-einen! Bootssteg am Nordufer bei den Schien Häusern Des
+Wir vertauschten das Ruderboot schnell gegen eine Segeljolle
+und hielten uns stets hinter der Möwe, die jetzt durch
+den Kanal in den kleinen Wannsee einbog und dann an
+einem Bootssteg am Nordufer bei den letzten Häusern des
 Villenortes anlegte.
 
 Harald hatte sein Fernglas mit. Nachdem er das Ehepaar
-in einem Häuschen dicht am Ufer hatte verschwinden -
+in einem Häuschen dicht am Ufer hatte verschwinden
 sehen, kehrten wir um.
 
-acht alles ganz Progratiunäßin,« meinte Harst
+»Es geht alles ganz programmäßig,« meinte Harst
 gutgelaunt. —
 
 Gegen neun Uhr abends — es war sehr dunkel und
 windig — lagen wir beide in einem Gebüsch in der Nähe
 desselben Häuschens, das seiner Zeit wohl als größere
 Sommerlaube errichtet und nachher durch zwei Anbauten
-und Verdoppelung der Wände in eine Dauerwohnung ins
-gestaltet worden war. Es hatte ein Pappdach, zwei Schonung
-Steine und überall Laden vor. den kleinen Fenstern. Das
-dazu he Gartengrundstück war nur Hein und der Gute
-ten völlig verwildert, Es war so eine Restparzele mit
-Seekrank, mit der nichts Rechtes »naylangen war, da sie
-nur nen schmalen Daran zwischen Zäunen hindurch von
-der nächsten Straße hätte,
+und Verdoppelung der Wände in eine Dauerwohnung umgestaltet
+worden war. Es hatte ein Pappdach, zwei Schornsteine
+und überall Laden vor den kleinen Fenstern. Das
+dazu gehörige Gartengrundstück war nur klein und der Garten
+völlig verwildert. Es war so eine Restparzelle mit
+Seefront, mit der nichts Rechtes anzufangen war, da sie
+nur einen schmalen Zugang zwischen Zäunen hindurch von
+der nächsten Straße hatte.
 
 Es mußte notwendig auffallen, daß der Zaun des
 Grundstücks recht neu und durch starke Stacheldrähte oben
 verlängert war. Das Ueberklettern dieses Zaunes hatte
 uns denn auch einige Zeit aufgehalten.
 
-Nach der Wasserseite, der Haupifront, durften wir uns
-nicht wagen, weil vor!, wie Haralds Fernglas schon nachmittags
+Nach der Wasserseite, der Hauptfront, durften wir uns
+nicht wagen, weil dort, wie Haralds Fernglas schon nachmittags
 festgestellt hatte, ein winziger Stall sich befand, vor
-dem ein großer Hund angekettet gar.
+dem ein großer Hund angekettet war.
 
-Harst kroch jetzt allein weiter, lehrte dann sehr bald
+Harst kroch jetzt allein weiter, kehrte dann sehr bald
 zurück und flüsterte: »Wir können verschwinden. Alles
 nach Wunsch erledigt.«
 
-Abermals der Zaun mit den ekligen Stacheldrähten!
+Abermals der Zaun mit den ekligen Stacheldrähten;
 <@pagebreak/>
-aber wir kamen auch) jetzt ohne Löcher in den Anzügen hinüber.
-Dann schnitten wir Die Straße entlang, und Harald
-sagte mit seltsamer Nr: »Morgen abend werden
+aber wir kamen auch jetzt ohne Löcher in den Anzügen hinüber.
+Dann schritten wir die Straße entlang, und Harald
+sagte mit seltsamer Betonung: »Morgen abend werden
 wir die Millionen stehlen, mein Alter! Gumlowsky glaubt,
 wir wären noch in der Schweiz. Die Zeitungen brachten
 ja die Meldung, daß ich hinter den Frankfurter Dieben
-der bin. hebt wollen wir den Gemeindevorsteher ein
+her bin. Jetzt wollen wir den Gemeindevorsteher ein
 wenig ausfragen.«
 
-Der Herr Gemeindevorsteher sah sich Hoffst Lenitima-He
-genau an. Dann wurde er die Liebenswürdigkeit
+Der Herr Gemeindevorsteher sah sich Harsts Legitimation
+sehr genau an. Dann wurde er die Liebenswürdigkeit
 selbst.
 
 »Fragen Sie, Herr Harst. Auf meine unbedingte Verschwiegenheit
 können Sie rechnen.«
 
-»Wem gehört das kleine, verwilderte Geearunbitild
+»Wem gehört das kleine, verwilderte Seegrundstück
 am Nordufer des Kleinen Wannsees am Westende des
 Ortes? Ich meine das mit dem schmalen Zugang und
 dem Holzhause —«
 
-»Weiß schon, Herr Harst. Einer alten Dame, nehört’s,
-einer Schriftstellerin, Die dort ganz für sich einsam haust.
+»Weiß schon, Herr Harst. Einer alten Dame, gehört’s,
+einer Schriftstellerin, die dort ganz für sich einsam haust.
 Man sieht und hört kaum etwas von ihr. Sie erwarb das
-Grundstück im vorigen Herbst. Klara Sanken heißt sie.
-»Ein harmloses altes Fräulein, nur etwas menschenscheu.«
+Grundstück im vorigen Herbst. Klara Sanden heißt sie.
+Ein harmloses altes Fräulein, nur etwas menschenscheu.«
+
 »Danke. — Nicht wahr, Sie sprechen zu niemand darüber,
 daß ich mich nach der Dame erkundigt habe.«
 
-Dann verabschiedeten wir uns,
+Dann verabschiedeten wir uns.
 
-<h2>6. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
-Morgens — also am 17. weigert — Bezahlten wir
+Morgens — also am 17. morgens — bezahlten wir
 unsere Rechnung im Seeblick, fuhren im Auto nach Berlin
-zum Anhalter Bahnhof, warteten die Ankunft eines Fern-zuaes
+zum Anhalter Bahnhof, warteten die Ankunft eines Fernzuges
 im Wartesaal ab und spielten dann die soeben erst
 eingetroffenen Reisenden, nahmen wieder ein Auto und
 waren um elf Uhr vormittags in der Blücherstraße in
-wo Harald dann — Herrn Gumlowsky
-anlief.
+Schmargendorf, wo Harald dann — Herrn Gumlowsky
+anrief.
 
 »Hier Harst — Harald Harst. Ich bin soeben aus der
 Schweiz zurückgekehrt, Herr Gumlowsky. Ich wollte nur
 fragen, was aus der Sache Karl-Ernst Lehmann geworden
 <@pagebreak/>
-ist. — So — Sie haben Schon einen neuen Buchhalter. Na
-— es war sehr anständig von Ahnen, daß Sie den Lech-mann
+ist. — So — Sie haben schon einen neuen Buchhalter. Na
+— es war sehr anständig von Ihnen, daß Sie den Lehmann
 nicht anzeigten. Denken Sie, der junge Mensch hat
-schon wieder was beeilten. Ich fand hier einen Brief vor,
-der — Doch, das möchte ich Bringen mündlich mitteilen.
+schon wieder was berissen. Ich fand hier einen Brief vor,
+der — Doch, das möchte ich Ihnen mündlich mitteilen.
 Könnten Sie heute gegen neun Uhr abends zu mir kommen?
-— Ich- würde Sie gern selbst besuchen, habe mir aber
-vorhin im Garten den Fuß euras verstaucht, — Also bitte
-um neun Nur für eine Viertelstunde. Länger werde ich)
-Ei nicht aufhalten. — Danke vielmals. Auf Fieberchen
+— Ich würde Sie gern selbst besuchen, habe mir aber
+vorhin im Garten den Fuß etwas verstaucht. — Also bitte
+um neun. Nur für eine Viertelstunde. Länger werde ich
+Sie nicht aufhalten. — Danke vielmals. Auf Wiedersehen
 —«
 
 »So,« lächelte Harald dann, »Herr Max Gumlowsky
 wird heute also nicht in Wannsee sein. Wenn er um neun
-herkommt, Bund die brave Mathilde ihm einen Brief von
-mir aushändigen, in dem ich mich Wwortreich entjdmldinen
+herkommt, wird die brave Mathilde ihm einen Brief von
+mir aushändigen, in dem ich mich wortreich entschuldigen
 werde; ich sei leider telephonisch abgerufen worden; er
 möge doch morgen früh wiederkommen.« —
 
-Um halb acht — wir bellen das Harstsche Haus unter
-den größten Veritsmahreseln verhüllen — bestiegen wir
-den nach ver Haleuseer Brücke bestellten geschlossenen Kette
-wagen Um ein viertel neun ehren wir dicht zu den
-schmalen Wege zum Gruidsücf der harmlosen Schrifstfteite-rin
-Klara Sanken aus und kletterten dann über den scheußz-lichen
+Um halb acht — wir hatten das Harstsche Haus unter
+den größten Vorsichtsmaßregeln verlassen — bestiegen wir
+den nach der Halenseer Brücke bestellten geschlossenen Kraftwagen.
+Um ein viertel neun stiegen wir dicht an dem
+schmalen Wege zum Grundstück der harmlosen Schrifstellerin
+Klara Sanden aus und kletterten dann über den scheußlichen
 Zaun.
 
-Harald schlich zunächst allein mit dem Wurstpaket weil
-ter, Zwei kleine Leberwürste waren darin.
+Harald schlich zunächst allein mit dem Wurstpaket weiter.
+Zwei kleine Leberwürste waren darin.
 
-So blieb ich Damm eine Weile mir selbst überlassen, ch
-Blitzte noch immer nicht, weshalb Harald jetzt hier »eilt
-brechen« wollte. An einen Diebstahl aglauble ich nicht. Das
+So blieb ich denn eine Weile mir selbst überlassen. Ich
+wußte noch immer nicht, weshalb Harald jetzt hier »einbrechen«
+wollte. An einen Diebstahl glaubte ich nicht. Das
 war natürlich ein Scherz. Wie sollte Gumlowsky auch
-wohl Wirtinnen zur Berfiiauma lobend! Weshalb sollte
+wohl Millionen zur Verfügung haben! Weshalb sollte
 er das Geld, falls er es besaß, hier verwahrt halten?! —
 Und dann — heute war doch der 17.! Heute um halb
 zwölf nachts würde Orstra bei uns erscheinen! Da sollte
-Harald fünf Wikinger zur Verfügung haben! Gewiß —
-er hatte heute nachmittag gegen zwei Uhr seine Mutter nicht
+Harald fünf Millionen zur Verfügung haben! Gewiß —
+er hatte heute nachmittag gegen zwei Uhr seine Mutter mit
 irgend einem Austrag, den er mir verschwieg, weggeschickt.
 Ob Frau Harst etwa auf der Bank gewesen war und Geld
-geholt hatte?! — Auto — für mich war die Sachlage völlig
+geholt hatte?! — Kurz — für mich war die Sachlage völlig
 ungeklärt. —
 
 <@pagebreak/>
-Harst tauchte auf. »Der Maler hat die Wurst gierig
-verschlungen,« sagte er. »Ich warf sie ihm stückweise zu
-Nun wird er in zehn Minuten ganz es! schlafen — am
-Feuern bis morgen früh!«
+Harst tauchte auf. »Der Köter hat die Wurst gierig
+verschlungen,« sagte er. »Ich warf sie ihm stückweise zu.
+Nun wird er in zehn Minuten ganz fest schlafen — mindestens
+bis morgen früh!«
 
-zehn Feier zogen wie an verstehe der Hinab;
-ach ir hörten sie im Flur bimmeln. Niemand kam.
-Dann arbeitete der Patentdietrih. Das laß/ war gut,
+Nach zehn Minuten zogen wir an der Glocke der Hintertür.
+Wir hörten sie im Flur bimmeln. Niemand kam.
+Dann arbeitete der Patentdietrich. Das Schloß war gut,
 aber doch nur ein Schloß. Wir traten ein. Ich mußte im
 Flur Wache stehen. Harst erschien erst nach einer Stunde
-— Mut drei Paketen.
+— mit drei Paketen.
 
-Mit Ok mein Alter!« lachte er FMDRLTa,
+»Erledigt, mein Alter!« lachte er triumphierend.
 
-»Wie, hast Du Brieflich Geld gesunde
+»Wie, hast Du wirklich Geld gefunden?«
 
-— über acht Millionen. — Kouun’, die Sache Mr
-nun u. Gang,«
+»Ja — über acht Millionen. — Komm’, die Sache geht
+nun ihren Gang.«
 
-Mir fuhren nach Berlin, nach Hause. Meine Fragen
+Wir fuhren nach Berlin, nach Hause. Meine Fragen
 blieben unbeantwortet. Ich saß und grübelte.
 
-Und kamt — ein Geistesblitz! » Nein — war ich nur
+Und dann — ein Geistesblitz! Nein — war ich nur
 begriffsstutzig gewesen!
 
-»Du — tobt bin ich im Bilde!« rief ich.
+»Du — jetzt bin ich im Bilde!« rief ich.
 
 »Dann freue Dich! Hoffentlich ist Orstra nicht ebenso
 schlau!«
 
-Denn sah ich Orstras Besuch mit Vergnügen entgegen. An
+Jetzt sah ich Orstras Besuch mit Vergnügen entgegen. In
 der Tat — das würde ein Spaß werden! —
 
-Und es wurde ein Sog
+Und es wurde ein Spaß. —
 
-Punkt halb zwölf läutete es. Ah Lieb Orstra ein. Er
-trug wieder die Maske wie am 3. September
+Punkt halb zwölf läutete es. Ich ließ Orstra ein. Er
+trug wieder die Maske wie am 3. September.
 
-»Guten Arg Orstra,« sagte Harald AewmilUich, »gehe
-men Sie Blaß —«
+»Guten Abend, Orstra,« sagte Harald gemütlich. »Nehmen
+Sie Platz —«
 
 Orstra war doch etwas mißtrauisch.
 
-»Haben Sie keine Angst,« beruhigte Harst ihn.
-habe mein Wort ich in allen Stücken gehalten. Das seh’ ja
-Pein
+»Haben Sie keine Angst,« beruhigte Harst ihn. »Ich
+habe mein Wort ich in allen Stücken gehalten. Das ist ja
+selbstverständlich.«
 
 »Und das Geld?« fragte Orstra hastig.
 
-»Werde ich Ahnen sofort aufzählen. — Sehen Sie sich
-Wir können das in aller Behaglichkeit erledigen.
+»Werde ich Ihnen sofort aufzählen. — Setzen Sie sich
+doch. Wir können das in aller Behaglichkeit erledigen.«
 
-»Orstra nun im Klubsessel am Sofatische Pfad.
+Orstra nahm im Klubsessel am Sofatische Platz.
 
 Auf dem Tische lagen die drei Pakete.
 
 Harald rieb ein Zündholz an und hielt es an die
-Spitze der Mirakulum, rauchte ein paar Zu ne
+Spitze der Mirakulum, rauchte ein paar Züge.
 
-»Oh habe das Gern gestohlen, »Riten,« Rate er dann
+»Ich habe das Geld gestohlen, Orstra,« sagte er dann.
 
 <@pagebreak/>
-»Das — das ist Doch Blech!« meinte der Verbrecher
-Ne ich »Bitte Ok roh na er
+»Das — das ist doch Blech!« meinte der Verbrecher
+ungeduldig. »Bitte — zählen Sie mir das Geld vor.«
 
-»Bestohlen — einem gewissen Gumlowsky!« fuhr Ha
-Poren an ne
+»Gestohlen — einem gewissen Gumlowsky!« fuhr Harst
+schmunzelnd fort.
 
-Orstra guckte zusammen.
+Orstra zuckte zusammen.
 
 »Wem — Gumlowsky?!«
 
-Da — Ihrem alten Freunde, bei dem Sie sich als
-der schwarze Mai am 3. September anmelveten.«
+»Ja — Ihrem alten Freunde, bei dem Sie sich als
+der schwarze Max am 3. September anmeldeten.«
 
 Orstras Hände begannen nervös zu flattern.
 
@@ -1541,17 +1549,18 @@ Orstras Hände begannen nervös zu flattern.
 hervor.
 
 »Dort, wo ich es zu finden hoffte. — Als Karl-Ernst
-Lehmann mir hier von sechs leeren Briefbogen und bei
+Lehmann mir hier von sechs leeren Briefbogen und der
 gelbbraunen Farbe und von der besonderen Beschaffenheit
-des Papiers Mitteilung machte, als er mir weiter er
-zählte, daß Gumlowsky von den Warenproben Nr. 5 und
-bei Smart Austin in London größere Posten bestellt hätte,
+des Papiers Mitteilung machte, als er mir weiter erzählte,
+daß Gumlowsky von den Warenproben Nr. 5 und
+6 bei Stuart Austin in London größere Posten bestellt hätte,
+da —«
 
 Orstra tupfte sich den Schweiß von der Stirn. Und
 Harald hatte plötzlich die Clement in der Rechten.
 
-« — da wußte ich schon so ziemlich sicher, daß die leck?
-Briefbogen nichts als Papierproben für Banknotensäl-schungen
+»— da wußte ich schon so ziemlich sicher, daß die sechs
+Briefbogen nichts als Papierproben für Banknotenfälschungen
 waren, die über dem Umweg über Danzig durch
 einen Mittelsmann Gumlowsky vorgelegt worden waren.«
 
@@ -1559,71 +1568,72 @@ Orstra stierte auf die Pistole.
 
 »Ich depeschierte nach London — meine Mutter besorgte
 die Depesche. Die Antwort der Londoner Polizei
-lautete: Stuart Austin besitzt in der Bakerstreet eine Meine
-Bapterfabrit! — Es stimmte also. Außerdem aber waren
-auch drei der Hundertuarkschelue, die zuzumuten mit dem
-anderen Gelbe hinter dem WVaissack versteckt waren, falsch.«
+lautete: Stuart Austin besitzt in der Bakerstreet eine kleine
+Papierfabrik! — Es stimmte also. Außerdem aber waren
+auch drei der Hundertmarkscheine, die zusammen mit dem
+anderen Gelde hinter dem Maissack versteckt waren, falsch.«
 
 Der Verbrecher wollte sich erheben.
 
-»Bleiben Sie sitzen!« rief Harst. »ch werde Sie vor
+»Bleiben Sie sitzen!« rief Harst. »Ich werde Sie vor
 vier Uhr morgens nicht verfolgen. Aber erst will ich Ihnen
-beweisen, daß Sie in:ch unterschätzt haben!«
+beweisen, daß Sie mich unterschätzt haben!«
 
-Orstra sauf in den Sessel zurück.
+Orstra sank in den Sessel zurück.
 
-»Im Keller des Häuschens in Wannsee fand ich eins
+»Im Keller des Häuschens in Wannsee fand ich eine
 tadellos gearbeitete Geheimtür, die in die »Druckerei«
-übers,« erklärte Harald weiter. »Dort lag auch die fertige
-Vase:  Tausendmarkscheine, englische Lundertpfundnoteu
+führte,« erklärte Harald weiter. »Dort lag auch die fertige
+Ware:  Tausendmarkscheine, englische Hundertpfundnoten
 <@pagebreak/>
-und Fünfhundertkronenscheine, im ganzen etwa acht Mir
-Millionen. So habe dieses Geld gestohlen. Sie hatten mir
-erlaubt zu Hellen, — wenn nur die fünf Millionen für Sie
+und Fünfhundertkronenscheine, im ganzen etwa acht
+Millionen. Ich habe dieses Geld gestohlen. Sie hatten mir
+erlaubt zu stehlen, — wenn nur die fünf Millionen für Sie
 zur Stelle wären. Daß die Banknoten falsch sind, dafür
-Raum ich nicht verantwortlich gemacht werden.«
-Ne Orstra lächelte verzerrt,
+kann ich nicht verantwortlich gemacht werden.«
+
+Orstra lächelte verzerrt.
 
 »Sie — Sie sind — ein —«
 
-»— ein Dann, der auch) Beine Scherze Licht, Orstra. —
-So diesem Moment ist das Häuschen in Wannsee bereits
-von der Berliner Polizei umstellt, die ich benachzichtiat
-»habe. Auch Gumlowsky ‘nebst Frau wird bewacht. Aber
+»— ein Mann, der auch kleine Scherze liebt, Orstra. —
+In diesem Moment ist das Häuschen in Wannsee bereits
+von der Berliner Polizei umstellt, die ich benachrichtigt
+habe. Auch Gumlowsky nebst Frau wird bewacht. Aber
 die Polizei greift erst um vier Uhr morgens zu. Das
-»habe ich verlangt. Von Ihnen erwähnte ich nichts. Sie
+habe ich verlangt. Von Ihnen erwähnte ich nichts. Sie
 sind bis vier Uhr sicher. — So, nun können Sie die fünf
-Wikinger haben. Uebrigens — ich habe auch fünf echte
+Millionen haben. Uebrigens — ich habe auch fünf echte
 Millionen bereit — für den Fall, daß ich in Wannsee doch
 nicht genug Geld gefunden hätte. Meine Mutter hat das
 Geld geholt. Aber — da Sie die Scheine in diesen Paketen
 da als echt verausgaben wollten, wird es Ihnen ja —«
 
-»ich, bin besiegt, Herr Harst! Leben Sie wohl! Wir
+»Ich bin besiegt, Herr Harst! Leben Sie wohl! Wir
 sehen uns wieder!«
 
 »Es wäre für Sie besser, wir würden uns nicht wiedersehen!«
 
-Orstra eilte hinaus. Wir folgten ihm. Draußen krank
+Orstra eilte hinaus. Wir folgten ihm. Draußen stand
 ein Auto. Er fuhr davon. —
 
-Punkt vier Uhr morgens erschien fingen Freund, Kri-migalfommissar
-Becher!, bei uns.
+Punkt vier Uhr morgens erschien unser Freund, Kriminalkommissar
+Bechert, bei uns.
 
 Harst weihte ihn jetzt in alles ein. Wir begleiteten ihn
-Baum Präsidium. Alle verfügbaren Beamten tauchen aus
-eschicft, alle Polizeireviere angefragt, ob irgendwo ein
-Btagistratsfsetretär Albert Lehmann oder ein Bei Schütze
-oder ein Heinrich Gellte nach dem 3. September als Unu-terzmieter
+zum Präsidium. Alle verfügbaren Beamten wurden ausgeschickt,
+alle Polizeireviere angefragt, ob irgendwo ein
+Magistratssekretär Albert Lehmann oder ein Fritz Schütze
+oder ein Heinrich Gohlke nach dem 3. September als Untermieter
 polizeilich gemeldet worden waren.
 
 Um sechs Uhr bereits erhielten wir nach Becherts
 Dienstzimmer die Meldung, daß ein Magistratssekretär Albert
-Rann »Dauernde 324 bei Munk wohnte — fest
-ein 4. September.
+Lehmann Kantstraße 324 bei Munk wohnte — seit
+dem 4. September.
 
 »Aha!« sagte Harald lachend. »Also doch Albert
-Lehmann! I«
+Lehmann!«
 
 <@pagebreak/>
 Wir fuhren nach Kantstraße 324.
@@ -1631,31 +1641,31 @@ Wir fuhren nach Kantstraße 324.
 Und — dann lachte Harald nicht mehr!
 
 In Lehmanns Zimmer auf dem Schreibtisch lag ein
-noch tintenseuchter Brief an Harst.
+noch tintenfeuchter Brief an Harst.
 
-> Herr Harsts!
+> Herr Harst!
 
 > Sie haben nicht gesiegt! Ich habe inzwischen Ihre
-- Mutter gezwungen, mir die echten fünf Millionen aus«
-händigen. Nun suchen Sie mich! Daß Sie mich hier
-en würden, ahnte ich. Daher — ich reise!
+Mutter gezwungen, mir die echten fünf Millionen auszuhändigen.
+Nun suchen Sie mich! Daß Sie mich hier
+finden würden, ahnte ich. Daher — ich reise!
 
 > Ottmar Orstra.
 
-Mu drei standen tatsächlich sekundenlang wie ge-mt
+Wir drei standen tatsächlich sekundenlang wie gelähmt
 da.
 
-Dann rief Hart:
+Dann rief Harst:
 
 »Nach Hause!« —
 
 Inzwischen war das Ehepaar Gumlowsky bereits
 verhaftet worden. Gumlowsky entpuppte sich als ein bereits
 vorbestrafter Falschmünzer namens Gerstel. Seine
-Frau hatte die Schriststelerin Klara Sanken gespielt.
+Frau hatte die Schriftstellerin Klara Sanden gespielt.
 
-Karl-Ernst Lehmann hat eine sehr gute Anstellung an-derôwo
-gesunder. Hin und wieder, besucht er uns noch. —
+Karl-Ernst Lehmann hat eine sehr gute Anstellung anderswo
+gefunden. Hin und wieder besucht er uns noch. —
 
 Wir fuhren also nach Hause.
 
