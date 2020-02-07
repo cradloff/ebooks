@@ -3,13 +3,13 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (Pflichtangabe) -->
-<entry key="UUID">IDIDIDIDIDIDIDIDIDIDIDIDIDIDIDIDID</entry>
+<entry key="UUID">8267221a-cd19-4ae8-8e05-53566a69efcd</entry>
 <!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
 <entry key="secondaryID"></entry>
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">TITELTITELTITELTITELTITEL</entry>
+<entry key="title">Das Licht in der Eiche</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -17,19 +17,45 @@
 <!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
 <!-- Position innerhalb der Sammlung (Band-Nummer) -->
-<entry key="group-position">BANDBANDBANDBANDBAND</entry>
+<entry key="group-position">78</entry>
 <!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
 <entry key="edition"></entry>
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG</entry>
+<entry key="description">
+Sechs leere Briefbogen
+
+»Herr Harst, — Herr Harst, es ist ein Hühnerdieb im Stall!« —
+
+Dies war der Alarmruf, der unser Abenteuer mit den sechs leeren Briefbogen einleitete.
+
+Damals, als die brave alte Mathilde, die Harstsche Köchin mit diesem Alarmruf erschrocken und empört in Harald Harsts Arbeitszimmer gestürmt kam, waren wir gerade vor vier Tagen aus Göteborg in Schweden heimgekehrt.
+
+Wir hatten in Haralds Studierzimmer am Sofatisch gesessen und beim Lichte der elektrischen Stehlampe Abendzeitungen durchgesehen.
+
+Es mochte halb neun gewesen sein, als Mathilde uns dann aus der beschaulichen Ruhe aufrüttelte.
+
+»Na, na, liebe Mathilde, — ein Dieb in unserem Hühnerstall!« meinte Harald zweifelnd, »Das muß denn gerade ein Mensch sein, der nicht weiß, wer hier wohnt!«
+
+Das Licht in der Eiche
+
+Wir hatten mit Bechert kaum gegen halb fünf das Haus verlassen gehabt, als es vorn geläutet hatte. Die Köchin war, notdürftig angekleidet, öffnen gegangen.
+
+»Kriminalwachtmeister Schöttler,« hatte sich der Mann genannt, der Einlaß begehrte. »Ich soll Frau Harst etwas persönlich bestellen,« hatte er erklärt.
+
+Die arglose Mathilde führte ihn in Haralds Studierzimmer.  Hier hatte Orstra dann sofort das Telephon unbrauchbar gemacht, ebenso im Flur.
+
+Als Frau Harst mit Mathilde die Treppe herabkam, stand Orstra ihnen mit einem Revolver gegenüber.
+
+Sehr energisch, hatte er die Herausgabe der fünf Millionen verlangt, war aber stets höflich geblieben. Als er seinen wahren Namen nannte, hatte Frau Harst sofort erkannt, daß sie gehorchen müßte. Sie wußte ja, wer Orstra war.
+</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (BANDBAND) TITELTITELTITELTITEL.epub</entry>
+<entry key="filename">Kabel, Walther - (078) Das Licht in der Eiche.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
