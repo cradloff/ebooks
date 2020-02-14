@@ -21,7 +21,7 @@ neun Uhr erklärte, er würde nun sofort zu Bett gehen.
 
 Wir saßen in Harsts mit ausgesprochener Eigenart
 eingerichtetem Arbelitszimmer, und Harald hatte soeben, ein
-Gähnen unterdrückend, nochmals gesagt: >>Ja -- ich muß
+Gähnen unterdrückend, nochmals gesagt: »Ja — ich muß
 schlafen gehen. Mir sind die Augenlider wie Blei!« Da
 schlug die Flurglocke an.
 
@@ -81,7 +81,7 @@ in ein grauenhaft verzerrtes, blasses Gesicht.
 
 Dann lallte der Fremde in gebrochenem Deutsch:
 
->>Master — Harst — retten — Sie — mich — Gift —
+»Master — Harst — retten — Sie — mich — Gift —
 Gift!«
 
 Kaum hatte er das letzte Wort hervor gequält, als er
@@ -108,7 +108,7 @@ Fußtour durch Montenegro unternommen. Nach zweiwöchiger
 Wanderung geriet er in einem Dorfe mit
 ein paar Montenegrinern in Streit. Aus Notwehr erschoß
 er einen älteren Mann, der ihn angegriffen hatte. Da er
-wußte, daß die Bluttache in den Schwarzen Bergen noch
+wußte, daß die Blutrache in den Schwarzen Bergen noch
 immer Nationalunsitte war, floh er schleunigst und begab
 sich nach Venedig, wo man auf ihn ein Attentat versuchte.
 Ein vermummter Mensch wollte ihn in einem dunklen
@@ -160,7 +160,7 @@ bewenden, sondern verlangte noch die Nummer der
 Bahnhofswirtschaft des Anhalter Bahnhofs, sprach mit
 dem betreffenden Kellner und hörte von diesem ebenfalls
 genau das, was Godalper erzählt hatte: ein Fremder hatte
-dOrt den Kellner Godalper gegenüber gespielt und ihm die
+dort den Kellner Godalper gegenüber gespielt und ihm die
 Tasse Kaffee gebracht, die der Unbekannte sich vom Büfett
 geholt hatte. —
 
@@ -187,7 +187,7 @@ erster Klasse an Godalper abtraten und uns in unserer
 <@pagebreak/>
 Kabine das zweite Bett herrichten ließen.
 
-Die Verbindungstür zynischen beiden Kabinen blieb
+Die Verbindungstür zwischen beiden Kabinen blieb
 offen. Harald nahm das obere Bett. Um 12 Uhr sagten
 wir uns Gute Nacht.
 
@@ -196,468 +196,488 @@ der verdunkelten Kabine zu mir herab und setzte sich auf
 meinen Bettrand, beugte sich ganz tief über mich und
 flüsterte:
 
-Tau ¿Achtung — nicht Schlafen! Der Godalper hat einen
-Fehler begangen: er bat den Wartesaal bereits eine Minute
-vor Ankunft des Münchener D-Zuges betreten, sagte, mir
-der Kellner! Mithin kann Godvalper nicht heute abend hier
-eingetroffen fein. Mithin hat er in. Dunkle *verstimmt*
-gelogen, und in den anderen *fehle wahrhaft!*
-Der »graue« Kellner wird ein guter
-kannten von ihm gewesen sein. Seine Jung ist Bluff
-und das Magen brennen natürlich auch. 8 Brechmittel
-sollte mich noch mehr in Sicherheit würgen. — Nimm an,
-daß Lady Barnlay beobachtet wurde,  sie in Rolombs
+»Achtung — nicht schlafen! Der Godalper hat einen
+Fehler begangen: er hat den Wartesaal bereits eine Minute
+vor Ankunft des Münchener D-Zuges betreten, sagte mir
+der Kellner! Mithin kann Godalper nicht heute abend hier
+eingetroffen sein. Mithin hat er in einem Punkte *bestimmt*
+gelogen, und in den anderen *sehr wahrscheinlich!*
+Der »graue« Kellner wird ein guter Bekannter
+von ihm gewesen sein. Seine Schilderung ist Bluff
+und das Magenbrennen natürlich auch. Das Brechmittel
+sollte mich noch mehr in Sicherheit wiegen. — Nimm an,
+daß Lady Barnlay beobachtet wurde, als sie in Kolombo
 diese Depesche an mich aufgab und daß dann sofort jemand
 eine zweite Depesche hier an Godalper absandte. Dann
-kann Godalper, falls die ‘an ihn Gerte Depesche als
-»dringend« befördert wurde, diese Bemühte leicht vorbereitet
+kann Godalper, falls die an ihn gerichtete Depesche als
+»dringend« befördert wurde, diese Komödie leicht vorbereitet
 haben. Ich bin überzeugt: er war nie in Montenegro!
 Alles ist eben Schwindel. Also — nicht schlafen, mein Alter!
 Es passiert bestimmt irgend etwas.
 
-Van turnte er wieder nach oben auf sein eigenes Bett
+Dann turnte er wieder nach oben auf sein eigenes Bett
 zurück.
 
 Ich lag ganz still und dachte nach.
 
 Wirklich — dieses Abenteuer fing spannend an. Wir
-wurden na Ceylon gerufen, um einen Mord aufzuklären,
-und hier in Berlin suchte uns ein Freund der Mörder ober
-des Mörders Lord Bombays Schwierigkeiten zu machen!
+wurden nach Ceylon gerufen, um einen Mord aufzuklären,
+und hier in Berlin suchte uns ein Freund der Mörder oder
+des Mörders Lord Barnlays Schwierigkeiten zu machen!
 
 Nein — an Schlafen war nicht mehr zu denken. —
 
 Eine Stunde verging.
 
-Dann tauchte im Dänmmerliht der Kabinenverbim
-Verbindungstür ein Schatten auf.
+Dann tauchte im Dänmmerlicht der Kabinenverbindungstür
+ein Schatten auf.
 
 Seltsam: — der Mann da konnte doch nur Godalper
-sein und trug jetzt — ein Bares Erriet, den »Mibeltde
-Anzug« der Hoteldiebe, dazu eine Schmarre Maske,
+sein und trug jetzt — ein schwarzes Trikot, den »Arbeitsanzug«
+der Hoteldiebe, dazu eine schwarze Maske.
 
 <@pagebreak/>
-an femarchte entfernt — zum Schein!
+Harst schnarchte rasselnd — zum Schein!
 
-he lauschte eine Weile. ne gehört, daß
-wir hege waren. Er glaubte daher auch, wir
-(dein
+Godalper lauschte eine Weile. Er hatte gehört, daß
+wir beide todmüde waren. Er glaubte daher auch, wir
+schliefen fest.
 
-uns Sang Bad 2 öffnete er nun die Gangtür feiner Kabine
+Ganz sacht öffnete er nun die Gangtür seiner Kabine
+und huschte hinaus.
 
-dahin 1s war E Moment wieder zu »meinem Bettrand.
+Harald war im Moment wieder auf meinem Bettrand.
 
-abwarten — nichts rege gua flüsterte er und
-wie rasch auf sein
+»Abwarten — nichts unternehmen!« flüsterte er und
+kletterte rasch auf sein Bett zurück.
 
 <h2>2. Kapitel.</h2>
-<h3>Der Diamantendiebftahl.</h3>
+<h3>Der Diamantendiebstahl.</h3>
 
-seh Mr Minuten mochten verstrichen sein
+Zehn Minuten mochten verstrichen sein.
 
-Godalper war wie ein Dar Fleck in seine
-vg geglitten und schien wieder. sein Lager aufgesucht
+Da — Godalper war wie ein dunkler Fleck in seine
+Kabine geglitten und schien wieder sein Lager aufgesucht
+zu haben.
 
 Eine Viertelstunde lauerte ich mit angespannten
-en.
+Sinnen.
 
-Nr — nichts
+Nichts — nichts —
 
-Co er erschien »nicht wieder.
+Godalper erschien nicht wieder.
 
 Was bedeutete das?
 
-Schlief er wirklich? Hatte er das schwarze Leidet wiegen
-Was hatte er hier im Fehlging er in den
+Schlief er wirklich? Hatte er das schwarze Trikot wieder
+abgelegt? Was hatte er hier im Schlafwagen in den
+zehn Minuten seiner Abwesenheit unternommen?
 
-Allgemach spürt: ich, daß ich Flor Dielen fruchtiofen
-Grübeln wieder Trübe wurde.
+Allgemach spürte ich, daß ich über diesem fruchtlosen
+Grübeln wieder müde wurde.
 
-ul — ich schlummerte ein.
+Und — ich schlummerte ein.
 
-Hirn rüttelte ch jemand. 8 war Harst. Er war
-By a angezogen Durch das Fenster schien die Sonne in
+Dann rüttelte mich jemand. Es war Harst. Er war
+fertig angezogen. Durch das Fenster schien die Sonne in
+die enge Kabine.
 
-gibt schon im Speisewagen, mein Ne
-»ter,« ‘sagte Harald mit einem merkwürdig zerstreuten Gen
-fichtsausdruk.
+»Mr. Godalper sitzt schon im Speisewagen, mein Alter,«
+sagte Harald mit einem merkwürdig zerstreuten Gesichtsausdruck.
 
-«5st — ist — denn nichts mehr passiert während der
-Nacht? fragte ich schuld bewußt. Ich war ja eingeschlafen,
-und Harald hatte ohne Zweifel gemacht.
+»Ist — ist — denn nichts mehr passiert während der
+Nacht?« fragte ich schuldbewußt. Ich war ja eingeschlafen,
+und Harald hatte ohne Zweifel gewacht.
 
-»Wehes,« meinte er mit einem abwesenden Blick darf
-
+»Nichts,« meinte er mit einem abwesenden Blick durch
 <@pagebreak/>
-Er so! er. ¡Ah Wände es By etwas Natur a -
+das Fenster. »Ich wünschte es wäre etwas passiert. Ich —«
 
-nur Waren? erfand...
+Er schwieg.
 
-bin Er a Bau So fragt du gewann
+Im Gange des Wagens ein Schrei.
+
+Ein Schrei — so schrill und überlaut, daß sogar Harst
 zusammenzuckte.
 
-eilte 1 Qa
-& ‘agu eilte er Sehen in u den ehe Er: | Qs dran!
+Dann eilte er schon in den Gang hinaus. Ich begann
+mich anzukleiden. Selten wohl habe ich mich so schnell
+rasiert wie damals. Gerade als ich mir das Haar scheitelte,
+kehrte er zurück.
 
-Was. er nun 1a ich ein nur. =:
+»Was gibt’s?« fragte ich gespannt.
 
-a in Gesicht ne: arg
-die 7 arg Wien wo Roter, & holte rum Fein ach
-es ‚iaarettenetul erbot und Harrte in einer Minute
-nicht bedächtigen Begraben den Javas fehl,
+Sein Gesicht war noch nachdenklicher geworden. Er
+setzte sich auf einen unserer Koffer, holte langsam sein goldenes
+Zigarettenetui hervor und klopfte in einer Mirakulum
+mit bedächtigen Bewegungen den Tabak fest.
 
-in rund 10, Gen ‘uwesentalien ‘gefahren
-rar Hatten x. € Regte
-unter dem Kopfkissen hervor, (Aus! Engländerin namens
-bin Gram I einem — ja — älteren Fräulein. Sie
-gar es, die bei dieser Entdeckung den Schrei ausstieß —«
+»Man hat einer Dame aus der Schlafkabine Nr. 11
+(wir hatten Nr. 15 und 16) einen Juwelenkasten gestohlen
+— unter dem Kopfkissen hervor, einer Engländerin namens
+Lydia Glarnston einem — ja — älteren Fräulein. Sie
+war es, die bei dieser Entdeckung den Schrei ausstieß —«
 
-Er n durchaus das Los in der Bare waren. als Ob seine und
+Er sprach das alles in einem Tone, als ob seine Gedanken
+durchaus nicht bei der Sache waren.
 
-Dann jodalper es getan,« entfuhr es mir
+»Dann hat Godalper es getan,« entfuhr es mir.
 
-Darf rieb sein Feuerzeug an und wo rauchte ein paar
+Harst rieb sein Feuerzeug an und rauchte ein paar
+Züge.
 
-»Hüte Dich vor voreiligen Schüssen, war Wien, die
-In ich ganz Rade es sein.
+»Hüte Dich vor voreiligen Schüssen, mein Alter, die
+Sache kann auch ganz anders sein.«
 
-ie
+»Wie denn?«
 
-»Der Du Diebstahl kann denselben häßliches Hintergruap
-fl wie 6 Ei Ans Da. he. da ió ne
+»Der Diebstahl kann denselben häßliches Hintergrund
+haben wie — die montenegrinische Blutrache.«
 
-Ließ die
-egal binden sollen, fallen, so daß sie. mir um kam
-lose herabhingen
+Ich ließ die beiden Enden meiner Krawatte, die ich gerade
+hatte binden wollen, fallen, so daß sie mir um den
+Kragen lose herabhingen.
 
-»Wie — *auch* Komödie?!« fragte I ungläubig.
+»Wie — *auch* Komödie?!« fragte ich ungläubig.
 
-Da betrat Godalper feine Kabine, rieb uns durch die
+Da betrat Godalper seine Kabine, rief uns durch die
+offene Tür sofort zu:
 
-jene gaben, meine Herren? Es sind für eine
-Union Brillanten gestohlen meinen. Die Dame,
-ne (traue wurden, ist eine
-habe iÿr gesagt, daß Sie sich
+»Wissen Sie schon, meine Herren? Es sind für eine
+Million Brillanten gestohlen worden. Die Dame, der die
+Steine geraubt wurden, ist eine Landsmännin von mir.
+Ich habe ihr gesagt, daß Sie sich hier im Zuge befinden,
 <@pagebreak/>
-Mr. Beet, Miß Glarnston läßt Sie bitten, sich doch ein
+Mr. Harst. Miß Glarnston läßt Sie bitten, sich doch ein
 mal ihre Kabine anzusehen.«
 
-Harald nickte. »Das will ich gern tun.« Er krankt auf
+Harald nickte. »Das will ich gern tun.« Er stand auf
 und folgte Godalper in den Gang.
 
-Sich beeilte mich, schlüpfte in die Jacke und kam gerade
+Ich beeilte mich, schlüpfte in die Jacke und kam gerade
 hinzu, als die Weinende, hagere Engländerin Harst erklärte,
-sie e Tür nicht nur von innen verriegelt, sondern Dr
-er noch mit dickem Draht angebunden gehabt hätte.
+daß sie ihre Tür nicht nur von innen verriegelt, sondern sogar
+noch mit dickem Draht zugebunden gehabt hätte.
 
 Sie stand in der Kabinentür, während Harald sich in
-der Kabine umgebaute.
+der Kabine umschaute.
 
-»Der Jutvelenkasten lag also unter Ihrem Kopfkissen,
-Mrs,« meinte Harst nun. »War das Fenster geschlossen x«
+»Der Juwelenkasten lag also unter Ihrem Kopfkissen,
+Miß,« meinte Harst nun. »War das Fenster geschlossen?«
 
-»so. Genau so wie jetzt.«
+»Ja. Genau so wie jetzt.«
 
 »Und die Verbindungstür nach Kabine Nr. 12?«
 
-»Hatte ich aleichjals mit Draht angebunden, Mr.
-r
+»Hatte ich gleichfalls mit Draht zugebunden, Mr.
+Harst.«
 
 Es war eine Kabine mit nur einem Bett, die Nr. 11,
 und bei den Vorsichtsmaßregeln, die Miß Glarnston getroffen
 hatte, erschien es völlig unerklärlich, wie jemand hier
-Hatte eindringen können.
+hatte eindringen können.
 
 Harald besichtigte das Fenster, ließ sich den Draht
-geben, den Miß Glarnston benagt hatte, Lichts ferner
-von ‘ihr zeigen, wie sie die Türen damit von innen bei
-befestigt | hatte und meinte nun:
+geben, den Miß Glarnston benutzt hatte, ließ sich ferner
+von ihr zeigen, wie sie die Türen damit von innen
+befestigt hatte und meinte nun:
 
-sind Schiebetüren, und es ist ganz ausgeschlossen,
-daß Tau! hier hineingelangt sein kann. Es bleibt nur
+»Es sind Schiebetüren, und es ist ganz ausgeschlossen,
+daß jemand hier hineingelangt sein kann. Es bleibt nur
 noch eine Möglichkeit, da auch das Fenster unbeschädigt
-ist und nichts darauf hindeutet, saß es von außen herabgelassen
-und Wieder geschlossen wurde. Wie sah der Kasten
-aus, Miß Glarnston
+ist und nichts darauf hindeutet, daß es von außen herabgelassen
+und wieder geschlossen wurde. Wie sah der Kasten
+aus, Miß Glarnston?«
 
 »Es war ein schwarzer, flacher Blechkasten, etwa dreißig
 Zentimeter lang, achtzehn breit und sieben hoch. Er war
-mit einem Kunstschloß versehen und innen mit Watte sei
-Éxempia Bei lagen 112 Diamanten, alles ausgesucht schöne
+mit einem Kunstschloß versehen und innen mit Watte gefüllt.
+Darin lagen 112 Diamanten, alles ausgesucht schöne
+Exemplare.«
 
-ne »alten hatte Beschläge? Wicheicht Klapparisse
-Zaun beiden Seiten?«
+»Der Kasten hatte Beschläge? Vielleicht Klappgriffe
+an beiden Seiten?«
 
-Dr Klappariff e.«
+»Ja, Klappgriffe.«
 
-blickte zu den Bentilationsfenftiern nach oben.
+Harst blickte zu den Ventilationsfenstern nach oben.
 
-Harst scschlaïen sehr feil, Miß?« thronte er dann.
+»Sie schlafen sehr fest, Miß?« fragte er dann.
 
 <@pagebreak/>
-Sie wurde rot und verlegen. -«
+Sie wurde rot und verlegen.
 
-»Ja, sehr feil.«
+»Ja, sehr fest.«
 
-so — sind DMorphiniftin, Miß —
+»Sie — sind Morphinistin, Miß —«
 
-Hai war ganz leise geflüstert, war Na Tage, schon«.
-Behauptung. es
+Das war ganz leise geflüstert, war keine Frage, sondern
+eine Behauptung.
 
-» hauchte sie.
+»Ja —« hauchte sie.
 
-so Weg sieht es Ihren Pupillen an, die für Licht by
-mbfindfich sind. Sie hatten sich gestern abend eine Jn-jektion
-Agg brav
+»Man sieht es Ihren Pupillen an, die für Licht sehr
+empfindlich sind. Sie hatten sich gestern abend eine Injektion
+gemacht?«
 
-Da lebt im Gange die Neugierigen ich Immer mehr.
-fragten, winkte er das vielleicht er! neu Jahre alte
-Fräulein n die Kabine und schob die Tür zu, so daß wir
-beide mit Je nun allein waren.
+Da jetzt im Gange die Neugierigen sich immer mehr
+stauten, winkte er das vielleicht fünfundvierzig Jahre alte
+Fräulein in die Kabine und schob die Tür zu, so daß wir
+beide mit ihr nun allein waren.
 
-Mr echt Bremen Sie ganz offen, Miß Glarnston
-er ebenswürdig hinzu. Aber diese en
-rbigfeit hatte etwas Bedenkliches an, sich. Sich kannte
-diese Freundlichkeit an Harst nur zu mit. Sie war ein
-will von kg überlegenen Ruhe und Siegergefü
+»So, jetzt sprechen Sie ganz offen, Miß Glarnston,«
+fügte er liebenswürdig hinzu. Aber diese Liebenswürdigkeit
+hatte etwas Bedrohliches an sich. Ich kannte
+diese Freundlichkeit an Harst nur zu gut. Sie war ein
+Gemisch von Nachsicht, überlegener Ruhe und Siegergefühl.
 
-Arme Miß!« dachte Au Du schon entlarytl«
+»Arme Miß!« dachte ich. »Du bist schon entlarvt!«
 
-»Meine Nerven sind sehr he Leuten grinste sie
-zögernd. »Seit zwei Monaten bin ich — dem Morphium-laster
-verfallen. Gestern. abend kurz nach der Abfahrt aus
+»Meine Nerven sind sehr herunter,« erklärte sie
+zögernd. »Seit zwei Monaten bin ich — dem Morphiumlaster
+verfallen. Gestern abend kurz nach der Abfahrt aus
 Berlin machte ich mir eine Einspritzung, um schlafen zu
-»können. Dann sicherte ich die Türen durch den zu diesem
-M. Rieb ı Ne Gen Draht und legte mich nieder.«
+können. Dann sicherte ich die Türen durch den zu diesem
+Zweck mitgenommenen Draht und legte mich nieder.«
 
-Wodurch As Ihre Nerven so nachsagt! en worden?«
+»Wodurch sind Ihre Nerven so angegriffen worden?«
 
-Miß Lydia Sangen schaute wie hilf oho he Boden,
+Miß Lydia Glarnston schaute wie hilflos zu Boden.
 
-ur — uns Aufregungen,« stamme
+»Durch — durch Aufregungen,« stammelte sie.
 
-Sie log natürlich
+Sie log natürlich.
 
-»Welcher Art waren diese Aufregungen?« fragte Bar
-rasch Ja war by Rede
+»Welcher Art waren diese Aufregungen?« fragte Harald
+unbarmherzig weiter.
 
-Turnte e n flehen
+Sie seufzte und blickte ihn flehend an.
 
-er Sie In steter Angst schwebe, die Seh
-feine könnten ausfragten werden.«
+»Weil — weil ich in steter Angst schwebe, die Edelsteine
+könnten gestohlen werden.«
 
-»Sie Peng ihnen?«
+»Sie gehören ihnen?«
 
+»— Ja —«
 
-Das fang so unsicher, daß es mehr wie ein Nein war.
+Das klang so unsicher, daß es mehr wie ein Nein war.
 
-Hm — weshalb wollen Sie nicht die Wahrheit sagen,
-ist » meinte Harald wie warnend. »Daß Sie der Brite
-planten wegen nervös geworden und daß Sie Diebe fürch-um
+»Hm — weshalb wollen Sie nicht die Wahrheit sagen,
+Miß?« meinte Harald wie warnend. »Daß Sie der Brillanten
+wegen nervös geworden und daß Sie Diebe fürchteten,
 <@pagebreak/>
-die Tür ib. Sie Haben ja den Draht Mr sich geführt,
-he Türen besonders gut zu sichern. Also rechneten
-Sie mit dem Versuch. eines Raubes, Aber — daß die
-Steine E Eigentum, sind, bezweifle ich.«
+glaube ich. Sie haben ja den Draht mit sich geführt,
+um die Türen besonders gut zu sichern. Also rechneten
+Sie mit dem Versuch eines Raubes. Aber — daß die
+Steine Ihr Eigentum sind, bezweifle ich.«
 
-Erde die Sache noch dunkler. — Harald glaubte
-Teilt Das begriff ich nicht,
+Jetzt wurde die Sache noch dunkler. — Harald glaubte
+ihr zum Teil?! Das begriff ich nicht.
 
-»Doch — Ei sie sind mein Eigentum!« beharrte sie es
-ihrer Scheuern,
+»Doch — sie sind mein Eigentum!« beharrte sie bei
+ihrer Behauptung.
 
-gut —
+»Nun gut —«
 
-und dann kam jene Bemerkuná Harsts, die auf die
-Dinge, ein noch rätfelhafteres. Licht
+Und dann kam jene Bemerkung Harsts, die auf die
+Dinge ein noch rätselhafteres Licht warf.
 
-»Nun her — Weshalb, E Stamıffon, waren Sie
-gern abend 1 in der Druckerei vor meinem Hause, als
-ich nach dem Bahndsf fahren wollten und als
-das gelte he dann erschien ï«
+»Nun gut. — Weshalb, Miß Glarnston, waren Sie
+gestern abend in der Druckerei vor meinem Hause, als
+Schraut und ich nach dem Bahnhof fahren wollten und als
+das zweite Auto dann erschien?«
 
-ie war An mit Glut übergossen. Sitte Lippen
-lebten nervös. re Finger spielten am Schloß ihrer Zur
-Seberiafche, Vororten es auf und zu. Ihr Gesicht war noch
-er als vorhin.
+Sie war jetzt wie mit Glut übergossen. Ihre Lippen
+bebten nervös. Ihre Finger spielten am Schloß ihrer Lackledertasche,
+knipsten es auf und zu. Ihr Gesicht war noch
+hilfloser als vorhin.
 
-Es — (er Es die Blücherstraße gar nicht,« stotterte
+»Ich — ich kenne die Blücherstraße gar nicht,« stotterte
+sie.
 
-Sarg ¡Antlitz wurde streng.
+Haralds Antlitz wurde streng.
 
-»Miß Glarnston, Sie waren dort! Sie trugen den-neftreiften
-Ulster mit hellem. Felskoloß, der dort
-na!, auch denselben Zeberhut, Und Ihr Auto hielt
-eher per von meinem Hause, Sie vergessen,
-sprechen, ovale um einmal die
-mifichteit, mehr zu Sehen als andere. Es faltet mich
-ein u. und man verhaftet Sie,
+»Miß Glarnston, Sie waren dort! Sie trugen denselben
+gestreiften Ulster mit hellem Pelzbesatz, der dort
+hängt, auch denselben Lederhut. Und Ihr Auto hielt
+150 Meter weiter links von meinem Hause. Sie vergessen,
+daß Sie mit Harst sprechen. Ich habe nun einmal die
+Eigentümlichkeit, mehr zu sehen als andere. Es kostet mich
+ein Wort, und man verhaftet Sie.«
 
-— nur das nicht!« Sie lehnte sich wie in einem
-Anfall Du Schwäche ran die Tür. »Nur d das nicht. Dann
-wäre der — der Feiern gq gerade —« — Sie schwieg.
-Brüllt war ein Zug Verzweifelter Energie in ihrem je
-Kg probieren.
+»Oh — nur das nicht!« Sie lehnte sich wie in einem
+Anfall von Schwäche an die Tür. »Nur das nicht. Dann
+— dann wäre der — der Erfolg gerade —« — Sie schwieg.
+Plötzlich war ein Zug verzweifelter Energie in ihrem Gesicht
+erschienen.
 
-»Die Steine gehören mir!« rief sie. »Ich kann 2 be
-er S 5 by sie vor einem halben Jahr in Indien
-gekauft! — hier ist die Quittung des Verkäufers!«
+»Die Steine gehören mir!« rief sie. »Ich kann es beweisen.
+Ich habe sie vor einem halben Jahr in Indien
+gekauft! Hier — hier ist die Quittung des Verkäufers!«
 
-Sie a in. ihrer Werden Lacklederhandtasche und
-nun ein Papier hin.
+Sie kramte in ihrer großen Lacklederhandtasche und
+hielt Harst nun ein Papier hin.
 
-ab, wie Haralds Gesicht beim Lesen erst einen er-À
+Ich sah, wie Haralds Gesicht beim Lesen erst einen erstaunten,
 <@pagebreak/>
-träumen, kann einen stark nachdenklichen
+dann einen stark nachdenklichen Zug annahmen.
 
-ie mir das Platt, eine Meile Quittung: fang.
-(2 € ne
+Er reichte mir das Blatt, eine richtige Quittung.
+Sie war englisch geschrieben.
 
-> Kolombo, den 2. März: 19. As
+> Kolombo, den 2. März 19..
 
-Gelombel lila Gewinn — also der Saubtbaïta die!
+Schon da stutzte auch ich.
+
+Kolombo! Also Ceylon — also der Haupthafen der
 paradiesischen Insel, dieses südlichen Anhängsel von
+Vorderindien!
 
-Lord eertwürdig.— Ceylon! Und der all Barnlay tot
-uns gleichfalls nach Ceylon führen! y da
+Merkwürdig — Ceylon! Und der Fall Barnlay sollte
+uns gleichfalls nach Ceylon führen!
 
-> Mr den 2. März 19
+> Kolombo den 2. März 19..
 
-> Der Elefantenjä Auge wo, des Schreibens un!
-Würdig, erklärt vor ja Distriktsbeamte das FS von:
-Miß Lydia Glarnston, Musiklehrerin ’ in
-213 Diamanten insgesamt 2000 Pfund freilag
-Kaufpreis heute richtig erhalten hat und he
-unten stehenden Kreuze als seine Unterschrift gen!
-Dienstsiegel als Da
+> Der Elefantenjäger Kadugawa, des Schreibens unkundig,
+erklärt vor mir als Distriktsbeamten, das er von
+Miß Lydia Glarnston, Musiklehrerin in Kolombo, für
+112 Diamanten insgesamt 2000 Pfund Sterling als
+Kaufpreis heute richtig erhalten hat und daß die drei
+unten stehenden Kreuze als seine Unterschrift gelten sollen.
+Dienstsiegel
 
 > † † †
 
-> Edward Palling, Rinne ch5
+> Edward Palling,
 
-> Distrikt8beamter, Kolombo.. er
+> Distriktsbeamter, Kolombo.
 
-Ob Musiklehrerin! Hm — seltsam!« Eine
-die für 2000 nd Edelsteine kauft! —
+Musiklehrerin! Hm — seltsam! Eine Musiklehrerin,
+die für 2000 Pfund Edelsteine kauft! —
 
-Glarnston die Quittung sich
+Ich gab Miß Glarnston die Quittung zurück.
 
-»Eid 6 b Sie n Male In be, dar, Bucklig Dr Aus ach,
+»Sind Sie nun überzeugt, Mr. Harst?« fragte sie.
 
-Ofen » Bai wollen na
+»Nein. Sie waren in der Blücherstraße — ohne Zweifel!
+Was wollten Sie dort?«
 
-ch wollt
-Bindanta Straße Nr. 10 Zu a berühmt ‘geworben
+»Ich — ich wollte mir Ihr Haus ansehen, tatsächlich!
+Blücherstraße Nr. 10 ist doch berühmt geworden — wie
+Sie, Mr. Harst.«
 
-Harald nachsichtig. 6 18
+Harald lächelte nachsichtig.
 
-»Miß Charakter, Sie werden ja Bach mit Dr men
-zur herausrücken müssen! — As anderes: was
-jene Berlin und wohin wollten Sie reifen?«
+»Miß Glarnston, Sie werden ja doch mit der Wahrheit
+herausrücken müssen! — Etwas anderes: was taten
+Sie in Berlin und wohin wollten Sie reisen?«
 
-wohnte in Berlin seit dem 4. April dieses Jahres.
-Jetzt in Däne Eid guckte in Kolombo besuchen.« ur
+»Ich wohnte in Berlin seit dem 4. April dieses Jahres.
+Jetzt wollte ich Freunde in Kolombo besuchen.«
 
-Werft und ich zucken in gleicher Weise zusammen. er
+Harst und ich zuckten in gleicher Weise zusammen.
 
 Wieder Kolombo!
 
 <@pagebreak/>
 »Ein merkwürdiger Zufall!« murmelte Harald. Dann
+lauter:
 
-»he fürchteten für Ihre Diamanten, Miß. Sind denn
-betete Versuche gemacht worden, Ihnen die Edelsteine zu
-rauben? er, jemand, daß Sie. ein Vermögen in Brillanten
+»Sie fürchteten für Ihre Diamanten, Miß. Sind denn
+bereits Versuche gemacht worden, Ihnen die Edelsteine zu
+rauben? Wußte jemand, daß Sie ein Vermögen in Brillanten
 besaßen?«
 
-Man Ok— man hat es täglich versucht,«
+»Man — man hat es täglich versucht.«
 
 »Wer?«
 
-»Das kann ich nicht sagen. Ja wurde dauernd beobachtet.
-Daher wechselte q auch beständig die Hotels und
-Pensionate. Die beiden Leute, he, stets hinter mir her
-waren, so Ton jeden Tag anders aus.
+»Das kann ich nicht sagen. Ich wurde dauernd beobachtet.
+Daher wechselte ich auch beständig die Hotels und
+Pensionate. Die beiden Leute, die stets hinter mir her
+waren, sahen jeden Tag anders aus.«
 
 »Also wußten diese beiden, daß Sie Edelsteine mit sich
-führten »Weshalb wandten Sie sich nicht an die Polizei 2»
+führten. Weshalb wandten Sie sich nicht an die Polizei?«
 
-»Oh — a Leute belästigten mich, ja nicht geradezu.
-Rein, sie behielten mich nur im Auge
+»Oh — die Leute belästigten mich ja nicht geradezu.
+Nein, sie behielten mich nur im Auge.«
 
-»Hatten Sie den Aumelentaften stets bei sich?«
+»Hatten Sie den Juwelenkasten stets bei sich?«
 
-»Nein. Es »Sag bis gestern nachmittag im Tresor der
-Deutschen
+»Nein. Es lag bis gestern nachmittag im Tresor der
+Deutschen Bank!«
 
 Harst blickte Miß Glarnston jetzt durchdringend an
 und sagte:
 
-Gestern erhielten Sie eine Depesche, nicht wahr?«
+»Gestern erhielten Sie eine Depesche, nicht wahr?«
 
 Sie schüttelte den Kopf, wurde jedoch wieder sehr rot
 und schwieg, wohl in der Erkenntnis, daß Harst ihr doch
-rieb u würde,
+nicht glauben würde.
 
-tolle & Ran, Ei Eine Depesche aus Kolombo,
-uk sprich mbo,
-in Ei dieser Dr Eiche wegen holten Sie den ich na Wen von der
+»Miß Glarnston, Sie erhielten eine Depesche!« wiederholte
+Harald streng. »Eine Depesche aus Kolombo.
+Und dieser Depesche wegen holten Sie den Juwelenkasten von der
 Bank und — kamen nach der Blücherstraße! Leugnen Sie
 nicht.«
 
-Lauf he fern die Lippen fester zusammen. Sie wollte
-Busche
+Sie presste die Lippen fester zusammen. Sie wollte
+nichts zugeben.
 
 Harald winkte mir heimlich mit den Augen zu und
-deutete aus Miß Glarnstons Lackledertasche.
+deutete auf Miß Glarnstons Lackledertasche.
 
 Dann — griff er danach, riß ihr die Tasche aus der
-Hauch und meinte, während ich ihr rasch den Weg vertrat:
+Hand und meinte, während ich ihr rasch den Weg vertrat:
 
-»Sie gestatten, daß ich die Depesche heraus nehme, die
-vorhin bemerkte, als Sie nach der Quittung suchten.«
+»Sie gestatten, daß ich die Depesche herausnehme, die
+ich vorhin bemerkte, als Sie nach der Quittung suchten.«
 
 Sie begann zu weinen, rührte sich aber nicht.
 
-Harst fand das Telegramm. Es war wirklich in Konto
+Harst fand das Telegramm. Es war wirklich in Kolombo
 <@pagebreak/>
-en und gestern in Berlin naámitiaas in
-eingetroffen.
+aufgegeben und gestern in Berlin nachmittags fünf
+Uhr eingetroffen.
 
-mutete:
+Es lautete:
 
 > Miß Lydia Glarnston, Berlin, Deutschland,
 
-> Straße 832
+> Motzstraße 32
 
-> Per anfallen.
+> Pension Färber.
 
-> XXX
-> Herzlichst Skat, 5 He
+> Erwarte Dich hier mit Gepäck. Habe mich an ihn
+> gewandt. Die halbe Wahrheit soll an den Tag kommen.
+> Herzlichst Edlay.
 
-Hai gab Miß Lydia die Depesche zu
+Harst gab Miß Lydia die Depesche zurück.
 
-bin jetzt so ziemlich im Bilde, ich sagte er
-»Sache ist, was Style Person betrifft, harmlos. Der
-während ist geangelt worden — Last eines langer
-Ferien Eifendrabted dort durch die offene Luftscheibe
-Gaben sehr seit ageslafen, und Tee Die by es den Haken
-unter das Kopfkissen in einen der Eis Lord Nur so
-ein. Sprechen Sie aber zu niemandem bierüb er. Vielleicht
-erhalten Sie die Steine sehr bald wieder Trüge
-sen sofort in Nie sein. Unterbrechen Sie dort die
-Fahrt. Kümmern Sie sich aber weiter nicht um uns
-werde so tun, als hätte Es a ausgerichtet He
-töten noch von und. Er Agra Zoo en
-am Bahnhof ab. Auf Wiedersehen, Mich Glarnston.?
+»Ich bin jetzt so ziemlich im Bilde, Miß,« sagte er.
+»Die Sache ist, was Ihre Person betrifft, harmlos. Der
+Juwelenkasten ist geangelt worden — mit Hilfe eines langen
+starken Eisendrahtes dort durch die offene Luftscheibe.
+Sie haben sehr fest geschlafen, und der Dieb schob den Haken
+unter das Kopfkissen in einen der Bügel. Es kann nur so
+sein. Sprechen Sie aber zu niemandem hierüber. Vielleicht
+erhalten Sie die Steine sehr bald wieder. Wir müssen
+sofort in München sein. Unterbrechen Sie dort die
+Fahrt. Kümmern Sie sich aber weiter nicht um uns. Ich
+werde so tun, als hätte ich hier nichts ausgerichtet. Sie
+hören noch von uns. Steigen Sie im Hotel Wittelsbach
+am Bahnhof ab. Auf Wiedersehen, Miß Glarnston.«
 
 Wahrhaftig — er gab ihr ganz freundschaftlich die
+Hand!
 
-gebt wußte ist schon gar nicht mehr, was ich von ie
+Jetzt wußte ist schon gar nicht mehr, was ich von alledem
 denken sollte!
 
 <h2>3. Kapitel.</h2>
-<h3>Stuart Baßly, ein neuer Mitspielen.</h3>
+<h3>Stuart Baßly, ein neuer Mitspieler.</h3>
 
 Wir traten wieder in den Gang des Schlafwagen
 Neugierigen hatten sich zerstreut. ’ -
@@ -726,7 +746,7 @@ Den, — gestohlen! A 0. muß durch das das An
 
 he Dem Bei her 1 engen, »Busche ußerbem in fein!
 wahr, ne sie fest?« Und Godalpers A jene war
-echt »elbanntched auteresse. Seine Angst war merkwür-Much.
+echt »elbanntched aufsteige. Seine Angst war Verkauf-Mach.
 verflogen. See Maus war Er ein
 Ei | Nabe ne Lage
 
@@ -817,7 +837,7 @@ wäre lebendig geworden.
 
 Ich wagte viel, als ich die Arme sinken Ließ und mit
 einem blipichnellen Schlau von unten her denn Revolver und
-Sodalpers rechte Hand zu treffen suchte.
+Godalpers rechte Hand zu treffen suchte.
 
 <@pagebreak/>
 Dorf — er war schneller. Er ließ die Waffe taten und
@@ -895,7 +915,7 @@ Nase Fenster hinausgestiegen war, hattest Du Dich
 By uns a nette Den öffnen und) aleidhalls hinausklettern
 es!, daß nur noch in einer Kabine Anlagen
 y Dame unverhilllt brannte: in Nr. 141
-Einziger Spalt Y wischen Vorhangrand und Fenster-Teifte
+Einziger Spalt Y wischen Vorhangrand und Fenster-Teilte
 ließ mich einen Mann erkennen, der sich gerade einen
 By Brillant verklebte. Ich hatte genug gesehen.
 Morgen zu auf den Nähmen und habe dann bis zum.
@@ -925,7 +945,7 @@ Ja. — Was hältst Du eigentlich von Godalper, Baßly
 und Miß Glarnston? »
 
 »Das werde ich Dir in Kolombo sagen, lieber Alter.
-Jedenfalls: der EHEERURINBER Kadugawa ist die Haupt-person
+Jedenfalls: der EHEERURINBER Kadugawa ist die Hauptperson
 bei alledem!
 
 Jetzt saß ich mit einem fraglos sehr wenig geistvollen
@@ -964,7 +984,7 @@ nein, das verstehe ich nicht!«
 
 »Du wirst es verstehen — wenn wir in Kolombso
 sind! — Weiter hat Miß Glarnston noch zugegeb daß:
-der Elefanteniäger Kadugawa ein Vertrauter Lady
+der Elefantenjäger Kadugawa ein Vertrauter Lady
 lang ist. e 18 ich sie dann fragte/ ob he bereits eingehender
 über den Mord an dem Gatten der Lady unterrichtet
 sei, verstummte sie neblig, weinte und erklärte nur schlu
@@ -1004,7 +1024,7 @@ unh Baßsßly, die übrigens als älteres Ehepaar drei, nicht
 aus den Angeht lassen. Sie ahnen nicht, daß ich bereits
 zum: weiß, wer Mr. Motors Boden nebst Gattin ist.
 
-Im selben Moment flog die Kabinentürc auf, E daß
+Im selben Moment flog die Kabinentüre auf, E daß
 vorher angeklopft worden war.
 
 Zwei elegante nie traten ein.
@@ -1140,7 +1160,7 @@ Linsen hervor.
 
 »Es sind dies recht alte Blies, Ei Ragte er. »R
 alt Nämlich vom März dieses a 9 »Ich er
-beim Schiffszahlmeifter, der zum je bin Weg (an
+beim Schiffszahlmeister, der zum je bin Weg (an
 tomboer ein Herz gesammelt u Und in diesen
 Î Stangen sind die Artikel über einen Reue
 enthalten. — Ab — Sie werden blaß, a. ei
@@ -1200,7 +1220,7 @@ Barnlay ermordet?«
 Der Beine Antreffen seufzte
 
 »Das ist ein ganz aussichtslosen Fall, Mr. Harst.
-Wirklich. Der Lord wurde hier im Garten seines Som-merhauses
+Wirklich. Der Lord wurde hier im Garten seines Sommerhauses
 tot, aber ohne Kopf, aufgefunden, und zwar
 früh morgens am 12. September. die Lady erklärte, es
 ei ihr Gatte, obwohl der Kopf fehlte. Auch die Dienerschaft
@@ -1212,7 +1232,7 @@ sonst wohl sein?!«
 
 Der Wagen rollte durch saubere, breite Straßen. Mir
 war Kolombo nicht fremd. Und doch packte es mich wieder
-wie ein Rausch beim Anblick der Rieseusächerpalmen, der
+wie ein Rausch beim Anblick der Riesenfächerpalmen, der
 ganzen jvundervollen tropischen Pslauzemvelt.
 
 ist der Kopf also nicht gesunken worden?« fragte
@@ -1306,13 +1326,13 @@ zwingen —«
 
 »Ah — und das wäre?«
 
-»Ein Elefantenjäner namens Kadugawa —«
+»Ein Elefantenjäger namens Kadugawa —«
 
 »Wie?! Kadugawa?! Der berühmteste Wildes
 Euer Gehirns?! Ein ehrwürdigen Greis von siebzig
 Ehren — ausgeschlossen! Ganz ausgeschlossen!«
 
-»Sagen Sie das nicht, Biberitonl Sir Kadugawa
+»Sagen Sie das nicht, Biberstons Sir Kadugawa
 nicht mit Lady Barnlay befreundet?«
 
 »Befreundet ist zu Verlag, Mr. Hart. Kadugawa
@@ -1385,7 +1405,7 @@ Bambushütte.
 Steh am Kadugawa aus einem mächtigen, zahmen
 Elegante
 
-Der »berühurte Efefantenläner mußte soeben
+Der »berühurte Elefantenjäger mußte soeben
 Er Die e Den an. weg ei! Arzte Fo
 Brülle in aller aber sowohl
 
@@ -1409,7 +1429,7 @@ wiederholte den Befehl an den Elefanten, der denn
 <@pagebreak/>
 auch Miene machte, davonzitrennen.
 
-Harald wollte jetzt mit einem Saß den Arm Kadu-aawas
+Harald wollte jetzt mit einem Saß den Arm Kadugawas
 packen und den Greis von dem Tiere herab zerren.
 
 Wollte
@@ -1439,14 +1459,14 @@ in recht fließendem Englisch zu dem ihm von Ansehen recht
 gut Mrs Detektivinspektor:
 
 »Biberston, Uhr behandelt mich wie einen Mörder!
-Wetten beschuldigt man mich?« — Er gab sich jetzt völ-Na
+Wetten beschuldigt man mich?« — Er gab sich jetzt vor-Na
 als gebildeter Mensch. So feinem ganzen Auftreten
 sagen Würde und eine gewisse natürliche Vornehmheit.
 
 klärt ne Eure Ei Mr. Harst vorhalten, Kadugawa,« er-Ä
 eitel
 
-Der klaren, führen Augen des Elefantenjäners ruhten
+Der klaren, führen Augen des Elefantenjägers ruhten
 seltsam durchdringend auf Haralds von der Tropensonne
 bereits wieder leicht gebräuntem Gesicht.
 
@@ -1475,7 +1495,7 @@ dann:
 Dr Frohe hörten einen Schuß, als wir und Deiner Hütte
 näherten. Wer hat den Schuß abgefeuert?«
 
-»Ich,« Und der Elesantenjägér zog einen Revolver
+»Ich,« Und der Elefantenjäger zog einen Revolver
 aus feinem losen Obergewand. »Es war etwas an der
 Waise in Unordnung. Ich wollte sie ausprobieren. Ich
 hatte sie gerade ausgebessert.«
@@ -1533,7 +1553,7 @@ durchbohrt. Man hat vorhin auf Dich geschossen, als wir
 den hörten. Wo sind die Detektive Godalper und
 Baßly? Einer von ihnen feuerte auf Dich.«
 
-Der Elefantenjäner schwieg undbiidte durch die
+Der Elefantenjäger schwieg undbiidte durch die
 Baumkronen nach Westen zu, wo die Sonne sich quietschte
 im Meere zu vereinten. Kadugawas Blick hatte dabei
 etwas seltsam Ueberirdisches.
@@ -1559,7 +1579,7 @@ Sohn Barnlay in Gefahr, trotz allem noch verhaftet zu
 werden. Damit er diesem Schicksal entaumage. brachte! Not
 <@pagebreak/>
 Minen Verrieben Toten, einen. Europäer, dem gleichfalls der
-eine linke Finger fehlte, in den Garten des Varnlayschen
+eine linke Finger fehlte, in den Garten des Barnlayscher
 omuæerhauses, Der Lord selbst hat sich anderswohin bei
 geben, bat sich eben für Immer von seiner Frau Den
 der a und allein daran lag, von dem Namen Barnla
@@ -1628,7 +1648,7 @@ Das Geheimnis des Elefantenjägers geht weiter.
 Der Diamantenraub, der Mord und die Rolle, die Kadu-iva
 bei beiden spielte, sind in der Hauptsache erledigt.
 beginnt die Fortsetzung. Und sie beginnt in des Ehe
-fantenjägers ärnmlicher, aber sauberer Bambushütte, die
+Elefantenjägers ärnmlicher, aber sauberer Bambushütte, die
 durch Querwände in zwei Wohnräume und eine Küche zerlegt
 war.
 
@@ -1688,7 +1708,7 @@ Wir hörten ja noch den Schuß — E Quittung auf
 Binnen Gerwalttat. — Und wo? — Nun, ich denke,
 es wird in der Hütte gewesen sein. Der Schuß klang ne
 gedämpft. Er fiel nicht im Freien. — Deshalb durchsuchten
-wir die Hütte, sahen, daß der Boden aus festgeftampftem
+wir die Hütte, sahen, daß der Boden aus festgestampftem
 Lehm besteht und daß diese Star nichts von geheimen
 Türen oder dergleichen enthalten kann. — Und doch:
 irgendwo muß es in der Hütte etwas derartiges geben —
@@ -1719,7 +1739,7 @@ Spinne dort?. Ihr Körper ist eine feuchte, glatte Matte
 erworben. Nur die Beine bewegen sich noch. Es sind
 tustelzudungen keine Lebensäußermigen mehr. Jeden-fans:
 das Tierchen hat noch vor einer halben Stunde -
-gebellt»
+gebellt«
 
 Haralds logiere Augen hatten wieder einmal mehr
 erspäht als. die meinen,
@@ -1844,7 +1864,7 @@ merke € raus den Vorsprung erklimmen. Es
 muß abirren eine Fortgang neben.«
 
 eine Vermutung zu, Es war da ein schrägen
-Schacht vorhanden, der ie eine Seitengrötté führte.
+Schacht vorhanden, der ie eine Seitengrotte führte.
 Eier Junge t. in bietet Beinen Nebenhöhle nach; elf
 
 Bin lag daher Mr Mr Hauptarotte zurück. Der
@@ -1889,7 +1909,7 @@ Den Ich glaubte, er hätte dasselbe a was
 Untat: Miß Lydia Glarnston, die rechts von
 hinter ein paar Palmen aufgetaucht war.
 
-ei Glarnftoni« flüsterte ich.
+ei Glarnstons« flüsterte ich.
 
 werfen — nicht sehen lassen!«
 
@@ -1927,7 +1947,7 @@ Baume, dessen Aeste fast bis zum Boden binabreichten.
 Wir erkletterten den Baum und hatten nun Lydia
 Glarnston etwa zwanzig Meter vor uns.
 
-bat das Auslenerboot beobachtet,« sagte Harst,
+bat das Auslegerboot beobachtet,« sagte Harst,
 als Dr oben auf einem Ast hockten. »Sie wartet, daß
 ne erben soll. Und — »*nun sich Aktie da*« —
 na Es war auf Godalper und Baßly, wette ich.«
@@ -1935,7 +1955,7 @@ na Es war auf Godalper und Baßly, wette ich.«
 immer dunkler. Aber die ruhende Tropennacht
 brachte auch das Heer der Sterne herbei, ließ den
 funkeln und [ruhen und zeigte uns weiter Lydia
-larnstons schmächtige Gestalt.
+Glarnstons schmächtige Gestalt.
 
 Es daran jetzt etwa neun Uhr abends. Miß Glarustlou
 na geduldig bis halb zehn. Dann ging sie Davon. Sie
@@ -1943,7 +1963,7 @@ ging wie jemand, der jeden Fuß breit Boden kennt, der
 en Weg auch im Dunkeln häufig zurückgelegt hat.
 
 Wir blieben hinter ihr. Und nach zehn Minuten kamen
-wir an eine weiß gestrichene Parkmauer, an ein Psört-Sen,
+wir an eine weiß gestrichene Parkmauer, an ein Fjord-Gen,
 durch das Lydia Glarnston verschwunden war.
 
 »Der Barnlaysche Garten,« meinte Harald leise. »Klettern
@@ -1992,7 +2012,7 @@ eben wir getan. Wir kennen daher auch die Wen Aus
 fanumenhänge, wie ich sicher betonte, und wir sind in ‘der
 Lage zu beweisen, daß Lord John Barnlay die Edelsteine
 Ming Fo geraubt und daß Miß Glarnston sie mit Hilfe
-Lady Strichs und des Elesautenjägers nach Berlin brachte.«
+Lady Strichs und des Elefantenjägers nach Berlin brachte.«
 
 Lord Wohnortes hageres, vornehmes Gesicht blieb
 kühl und ablehnend,
@@ -2235,7 +2255,7 @@ Die EnOßrennäkker prüften erst sehr umständlich
 bevor. sie triumphierend davongingen.
 
 <h2>3. Kapitel.</h2>
-<h3>Auf der Motorpinaffe.</h3>
+<h3>Auf der Motorpinasse.</h3>
 
 einen hatten wir den Garten verlassen, Wir
 standen 4 her Steg ‚B erspähen der Dauptplorte und
@@ -2294,9 +2314,9 @@ Wir trafen einen Wagen, der uns bis zum 608
 brachte. Ein Boot setzte uns nach der Jacht über.
 
 Lord Wohnortes neue Motoryacht Zugabe war eines
-elegantesten Lustsahrzeuge, das ich he betreten habe.
+elegantesten Luftfahrzeuge, das ich he betreten habe.
 Der Lord und feine Gattin Seeartige saßen noch im Sag
-on. Als die Deckwache uns angemeldet hatte, kam Wol-Þoore
+on. Als die Deckwache uns angemeldet hatte, kam Wolpoore
 uns die Treppe empor entgegengeeilt, Beschloß By
 in feine Arme und führte uns bocherfzeut in den
 wo Lady Seeartige uns nicht minder herzlich begrüßte
@@ -2378,7 +2398,7 @@ Bungalow vor.«
 E, À Glauben Sie, daß Lady. Edith ihren Mann noch
 Lebt » ¡
 
-»Ohne Zweifelt»
+»Ohne Zweifelt«
 
 »Dann — dann leihen Sie uns wohl für biete Nacht
 Dichte Motorpinasse, lieber Wolpoore,«
@@ -2388,7 +2408,7 @@ wozu Harst sie gebrauchte. Aber man sah« ihm anu, daß
 Frage ihm auf der Zunge brannte,
 
 Harald alle lebt unser Abenteuer in der Grotte,
-È quitt von Kabunamas Hütte bis zu jener Meeresbucht
+È quitt von Kadugawas Hütte bis zu jener Meeresbucht
 rang.: î
 
 »ich dachte zuerst, daß der Hund den Mann verfolgte,
@@ -2421,7 +2441,7 @@ nachher am Buchtgestade erschien. ihr sogenannter Span
 = arg so spät abends muß doch wohl ganz bestimmte
 Gründe gehabt haben. Kadugawa sprach von Geheimnissen.
 Ich glaube, daß das seltsamste Geheimnis, weh
-Baches mit der Person des Elefantenjäners und den Ereignissen
+Baches mit der Person des Elefantenjägers und den Ereignissen
 vorher zusammenhängt, uns noch völlig verborgen
 
 Haralds scharfgeschnittenes, energisches Gesicht hatte
@@ -2524,7 +2544,7 @@ werden Schmuggler fein.«
 <@pagebreak/>
 »Hm — vielleicht,« murmelte Harst. »Werfen Sie den
 Motor wieder an, Wolpoore. Wir werden uns mit der
-Krauste hier - dicht am Nordufer der Halbinsel entlang-schleichen,
+Krauste hier - dicht am Nordufer der Halbinsel entlangschleichen,
 in die Bucht einlaufen und das Eiland von der
 gegossenen See abgelehnten Seite betreten.«
 
@@ -2549,7 +2569,7 @@ größtem Geheimnis sein,« fügte er hinzu.
 Ach blickte in die finstere Nacht hinaus.
 
 Da — drüben auf dem Schoner erschien wieder ein
-anstieg grünes Licht, das hin und her geshwenkt wurde.
+anstieg grünes Licht, das hin und her geschwenkt wurde.
 
 Harald drückte die Winzige dicht am Ufer der Halbinsel
 entlang.
@@ -2738,7 +2758,7 @@ Deshalb fragte ich scheinbar As
 
 he denn
 
-¿Wir » saßen en Mann in einem Auslener-Hoot,
+¿Wir » saßen en Mann in einem Ausleger-Boot,
 in dem zu
 
 Der Riese .. An das »ist der Spion. Er hatte
@@ -2795,7 +2815,7 @@ Buch werde Dir es auf dem Schoner sagen« erklärte
 in »Es ist ein großes Geheimnis. Kadugawa ist
 oh, Und —
 
-ch hatte mehr auf gut Glück den Namen des Ele-santeniägers
+ch hatte mehr auf gut Glück den Namen des Elefantenjägers
 erwähnt. Ki
 
 Aber — die Wirkung war stärker, als ich es he vermutet
@@ -2836,7 +2856,7 @@ Man half uns an 1 He Steinplatte und weiter in
 Gang, der etwa zwei Meter hoch um stellenweise zu
 Maurer war. Nach vielleicht zwanzig Meter Erweiterte
 der Gang zu einer kreisrunden Halle. Die grell bemalten
-Göpenftatuen, die plumpen Reliesbilder und anderes heraus,
+Göpenftatuen, die plumpen Reliefbilder und anderes heraus,
 daß wir uns in einem Höhlentempel befanden.
 
 Und — hier — saß, vom Li mehrerer Bahnsteigen
@@ -3055,11 +3075,11 @@ aufmerksam e, das keine fünfzehn Eintritt weiter freches
 zwischen Geröll unbeschädigt verborgen war.
 
 <@pagebreak/>
-»Es hat jemand mit dem Auskegerboot das Eiland
+»Es hat jemand mit dem Auslegerboot das Eiland
 erreichen wollen,« meinte Harald. »Bei dem Unwetter
 trieb das Boot jedoch ab, als der einlasse kaum ausgestiegen
 war, und Hund und Nachen sahen wir daher führerlos
-mitten in der Bucht schwimmen. Ich holte das Ausleger-boot,
+mitten in der Bucht schwimmen. Ich holte das Auslegerboot,
 kam im Dunkeln aus der Richtung und geriet neben
 den Schoner, wo die Inder über mich herzlichen. Das
 Boot befestigten sie an dem Schoner, wo der Besitzer, der
@@ -3073,7 +3093,7 @@ uns der Hund nützen, Mr. Harst, und — was haben Sie
 
 will einen. Toten lebendig machen, will« eine
 Lebende über engen, daß das Eingeständnis der Wahrheit
-hier das Richtig sie ist, will Kabugawas größtes Geheimnis
+hier das Richtig sie ist, will Kadugawas größtes Geheimnis
 enthüllen und E klarstellen, Was der Schoner hier
 wollte. —
 
@@ -3112,14 +3132,14 @@ plôöulich neben ihm zwei Köpfe.
 Und »Lord VBarnlayie rief Biberston
 
 Es war das Ehepaar Barnlay, das jetzt mit Harst
-See fähig. Biberita wi.
+See fähig. Biberstons.
 
 Bann sagte Harald zu n: »Bewachen
 bitte die drei Erpresser, Biberston. — Wolpoore, Schraut
 — empor mit Euch!«
 
 Auch hier gab es eine breite Oeffnung, die von oben
-»in eine kleine Seiteuhöhle führte. Und diese Höhle- war
+»in eine kleine Seitenhöhle führte. Und diese Höhle- war
 ein Tempel — wie auf der en drüben, war jedoch ein
 Hindutempel, ein dem Gatte Brahma geweihtes Heiligtum.
 
@@ -3152,7 +3172,7 @@ d
 »Das wissen wir alles, Mylord. ihre Gattin war
 der Mann im Auslegerboot, wollte feststellen, ob Makuro
 heute nacht mit dem Schoner erscheinen würde, wollte ihn
-wegschicken. Sie werden die Strafe für den Diamanten-raub
+wegschicken. Sie werden die Strafe für den Diamantenraub
 tragen, Mylord. Und die Liebe Ihrer Gattin wird
 Ihnen über alles Schwere hinweahelsen, bis für Sie
 Seide wieder allidlichere Zeiten kommen.« —
