@@ -143,8 +143,7 @@ Sofatisch.
 Harst beschrieb Blörne nun das Gesicht am Fenster.
 
 <@pagebreak/>
-Der Wirt dachte nach. Dann erklärte er sehr der
-stimmt:
+Der Wirt dachte nach. Dann erklärte er sehr bestimmt:
 
 »Das kann nur einer der beiden Herren sein, die gegen
 halb acht Uhr mit ihren Frauen zu Fuß eintrafen.«
@@ -235,7 +234,7 @@ Mitteilung machen.«
 Prang keineswegs empfindlich. »Gehen wir, Herr Blörne.«
 
 »Nein!« entschied Harald. »Sie und Herr Blörne
-werden gegen so diskret sein wie wir, lieber Prang.
+werden genau so diskret sein wie wir, lieber Prang.
 Mr. Goldner, erleichtern Sie also Ihr Herz. — Einen Augenblick
 noch!« —
 
@@ -312,7 +311,7 @@ Streich darstellt.«
 
 Harald legte die Zeitung weg.
 
-»So, nun wissen wir ja, was vorgefallen ist. Mr.
+»So, nun wissen wir ja, was vorgefallen ist, Mr.
 Goldner,« meinte er. »Wann erfuhren Sie von dem Diebstahl?«
 
 »Am vergangenen Abend gegen acht Uhr. Ich holte
@@ -363,7 +362,7 @@ Kaum waren wir hier allein, als Harald mir beide
 Hände auf die Schultern legte und flüsterte:
 
 »Du — das wird eine große Sache! Der brave Goldner
-mag ein schlauer Börsenjobber fein; für andere Dinge
+mag ein schlauer Börsenjobber sein; für andere Dinge
 reicht es weniger — nämlich das Hirn!«
 
 Ich blickte ihn fragend an. Da lächelte er fein, setzte
@@ -682,7 +681,7 @@ konnte.
 
 Ins Deutsche übertragen lauteten sie:
 
-> Miß glückt Andere dasselbe Bleiben hinterdrein
+> Mißglückt Andere dasselbe Bleiben hinterdrein
 Kurs In östl Kragerö.
 
 »Die westlich von Christiania gelegene Hafenstadt Kragerö
@@ -903,7 +902,7 @@ Wenn ich den Klöppel der Glocke für kurze Zeit ruhen
 ließ, bohrte ich meine Augen desto schärfer in die graue
 Nebelmauer vor uns ein.
 
-Fischkutter glitten zuweilen - lautlos wie Gespensterschiffe,
+Fischkutter glitten zuweilen — lautlos wie Gespensterschiffe,
 undeutlich zu erkennen und scheinbar riesengroß, an
 uns vorüber. Dampfersirenen heulten bald hier, bald dort.
 
@@ -930,7 +929,7 @@ wäre das —«
 Er schwieg.
 
 Von vorn aus dem Nebel kam ein helles, taktmäßiges
-Kling — kling — kling - kling -
+Kling — kling — kling — kling —
 
 Wir hatten es gleichzeitig gehört.
 
@@ -977,7 +976,7 @@ Nochmals rief Harald — dann noch ein drittes Mal.
 Wieder nichts!
 
 »Dort drüben ist ein Fahrzeug ohne Besatzung,« erklärte
-er jetzt. »Wir wollen im Kreise, fahren. Dann müssen
+er jetzt. »Wir wollen im Kreise fahren. Dann müssen
 wir es finden! Geh’ und sage Prang Bescheid!«
 
 Die Miramare beschrieb einen Bogen.
@@ -995,7 +994,7 @@ Bootshaken.
 Da wuchs auch schon vor uns aus den Nebelschleiern
 eine Schiffswand empor.
 
-Der Bootshafen krachte gegen die Planken. Ich packte
+Der Bootshaken krachte gegen die Planken. Ich packte
 mit zu.
 
 So glitt unsere Miramare denn an dem fremden
@@ -1013,7 +1012,7 @@ hoch, kletterte hinüber, verschwand.
 »Teufel, was mag das für ein Kahn sein?« flüsterte
 Prang.
 
-Und die Antwort gab Harst. Wir sahen ihn nicht; wir -
+Und die Antwort gab Harst. Wir sahen ihn nicht; wir —
 hörten nur seine Stimme.
 
 »Es ist die Kattegatt Goldners! Die beiden Masten
@@ -1100,7 +1099,7 @@ Die Brise frischte immer mehr auf. Wir segelten vor
 dem Winde östlichen Kurs, Richtung Christiania. Um acht
 Uhr signalisierten wir einen Fischkutter heran, der einen
 Motor hatte. Ueber den Schlepplohn waren wir mit den
-Leuten halb einig. Der Kutter spannte sich vor die Kattegatt,
+Leuten bald einig. Der Kutter spannte sich vor die Kattegatt,
 und wir brauchten nicht mehr jede Minute zu fürchten,
 daß die notdürftig geflickten Masten samt den Segeln über
 Bord gingen.
@@ -1316,7 +1315,7 @@ Kanäle abzweigten. Wir gelangten dann in einen Kanal,
 der zum Teil zwischen Gemüsegärten, Schneidemühlen
 und von Unkraut umwucherten Müllplätzen sich hinzog.
 <@pagebreak/>
-Einzelne bescheidene Häuser standen an hier inmitten von
+Einzelne bescheidene Häuser standen auch hier inmitten von
 Buchen- und Erlengehölzen. Es war eine Gegend, die
 man nachts besser gemieden hätte.
 
@@ -1331,7 +1330,7 @@ wie eine Offenbarung für mich.
 
 Ein Teil des Dunkels lichtete sich. Karlsström, dieser
 anrüchige Mensch, konnte ganz gut ein Mitglied von
-Orstras Bande sein. Vielleicht war es es gewesen, der den
+Orstras Bande sein. Vielleicht war er es gewesen, der den
 Plan entworfen hatte, die Jacht seines Stiefvaters zu
 stehlen.
 
@@ -1379,7 +1378,7 @@ aufblitzen. Unten rechts von der Treppe lag eine
 eiserne, feuersichere Flügeltür, noch weiter rechts eine ganz
 schmale, ebenfalls aus Eisen.
 
-»Die zweite dürfte in das Psörtnerhäuschen führen,«
+»Die zweite dürfte in das Pförtnerhäuschen führen,«
 flüsterte Harst und huschte die Stufen abwärts.
 
 Hier war alles merkwürdigerweise sauber gefegt. In
@@ -1531,7 +1530,7 @@ mit Ihrer Gattin. Orstra und die anderen fünf zogen sich
 mit dem Geldkoffer drüben in das andere Zimmer zurück,
 wollten dann Karlsström um seinen Anteil betrügen und
 wurden von uns, als sie durch den Speicher sich zu entfernen
-gedachten, überrascht: - Baron Karlsström, Sie sind
+gedachten, überrascht: — Baron Karlsström, Sie sind
 ein betrogener Betrüger! Auch Orstra wollte Sie hintergehen!
 Er wollte die gute Gelegenheit, wahrnehmen, als Ihre
 Mutter Sie hier anflehte, das Geld herauszugeben, zur
@@ -1552,7 +1551,7 @@ unterirdisch weiterläuft —« —
 Baron Karlsström mußte mit zur Polizei und sitzt
 heute noch im Zuchthaus.
 
-Orstras Bande war jetzt bis auf den letzten Mann -
+Orstras Bande war jetzt bis auf den letzten Mann —
 mit Ausnahme des Anführers — unschädlich gemacht
 worden.
 

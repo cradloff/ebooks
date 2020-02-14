@@ -90,7 +90,7 @@ kamen die beiden rasch am Seeufer entlang.
 Sie waren noch jung, hatten regelmäßige Gesichter und
 machten auf den ersten Blick einen vornehmen Eindruck.
 
-Auch Harald und Prang waren ausgestanden.
+Auch Harald und Prang waren aufgestanden.
 
 »Es sind Klienten!« sagte Prang, »Sie sind beide erregt.
 <@pagebreak/>
@@ -115,7 +115,7 @@ her. In der letzten Nummer waren Ihr Herr Vater,
 Sie und Ihre Schwester dreimal abgebildet.«
 
 »Colding ist der Eisenbahnmagnat aus St. Louis,
-vierfachen Milliardär,« flüsterte Prang.
+vierfacher Milliardär,« flüsterte Prang.
 
 Dann stellte Harst uns den Schwestern vor, und wir
 fünf nahmen am Frühstückstisch wieder Platz.
@@ -128,7 +128,7 @@ wegen viel zu sehr in Unruhe,« erklärte sie. »Master Harst,
 wir hörten von Touristen, die gestern in der Haukeli-Sennhütte
 eintrafen, daß Sie sich hier befänden. Da sind wir
 denn sofort hierher geeilt. Pa ist nämlich seit vorgestern
-verschwunden,«
+verschwunden.«
 
 »Sie wohnten in der Haukeli-Hütte, Miß Colding?«
 
@@ -268,7 +268,7 @@ sagte jetzt:
 dadurch, daß wir Sie aufsuchten, nur in Gefahr gebracht!
 Ich habe das Jane gleich vorgehalten, als Professor Lörax
 uns den Rat gab, Sie um Hilfe zu bitten. Es kommt
-doch auf drei Millionen nicht zu!«
+doch auf drei Millionen nicht an!«
 
 Jane, offenbar die ältere, warf der Schwester einen
 unfreundlichen Blick zu.
@@ -297,7 +297,7 @@ verübt. Ist man ihnen nie auf die Spur gekommen?«
 
 »Nie!« erwiderte Jane Colding. »Unsere besten Detektive
 haben alles Mögliche versucht, diese Geheimorganisation
-zu sprengen« —
+zu sprengen.« —
 
 Gleich darauf verabschiedeten die Schwestern sich. Harst
 begleitete sie noch bis zum Auto.
@@ -352,7 +352,7 @@ diese Skandalgeschichten. — Wollen Sie mich mit nach Haukeli
 nehmen, Harst?«
 
 »Nein, lieber Prang. Ich will — Sie vorausschicken.
-Wir wollten in folgender Weise die Rollen verteilen. Sie,
+Wir wollen in folgender Weise die Rollen verteilen. Sie,
 Prang, reisen heute mittag zum Schein nach Osten mit
 dem Dampfer ab, steigen aber schon drüben am Südufer
 <@pagebreak/>
@@ -424,7 +424,7 @@ Harald.
 »Würde ich sonst nachts hier herumrennen! Natürlich
 ist was passiert! Jane Colding hat abends um acht Uhr
 einen Brief in ihrem Zimmer gefunden — einen neuen
-Drohbrief, aus den hervorgeht daß die Banditen wissen,
+Drohbrief, aus dem hervorgeht daß die Banditen wissen,
 wer hier eintrifft. Ich habe den Brief mit.«
 
 Die Bergstraße mündete jetzt auf die Haukeli-Hochebene.
@@ -617,7 +617,7 @@ Drohbrief behalten hatte!«
 »Hm, nicht ganz von der Hand zu weisen,« meinte ich.
 
 »Ja, — und wenn Mary nun wirklich diesen zweiten
-Drohbrief fabriziert hat, dann - dann brauchten wir gar
+Drohbrief fabriziert hat, dann — dann brauchten wir gar
 nicht auf eine weitere Arbeit hier zu verzichten! Dann könnten
 wir hier bleiben und den Masken-Brüdern einen dicken
 Strich durch die Rechnung machen!«
@@ -650,7 +650,7 @@ schräg gegenüber. Zwei Decken hatten wir als
 Matratzen benutzt, die beiden anderen über uns gebreitet.
 
 Als ich die Kerzen ausgelöscht und mich ausgestreckt
-hatte als nur noch Haralds glimmende Zigarette wie ein
+hatte, als nur noch Haralds glimmende Zigarette wie ein
 Glühwürmchen leuchtete, da hörte ich ein leises Knacken.
 
 Ich kannte es.
@@ -721,7 +721,7 @@ eifrig betätigt und gegen fünf Millionen in kurzer Zeit
 »verdient«. Als man die Bande schließlich abfaßte, stellte
 sich heraus, daß ihr Oberhaupt einer der angesehensten
 Aerzte Neuyorks war, der seine Kenntnis intimer Familienverhältnisse
-dazu benutzt hatte, neu Erpresserbriefen auch allerlei
+dazu benutzt hatte, den Erpresserbriefen auch allerlei
 Tatsachen einzufügen, die den Opfern höchst peinlich
 sein mußten.«
 
@@ -900,7 +900,7 @@ Nein — doch nicht völlige Stille.
 
 <@pagebreak/>
 Da waren leise klingende Geräusche — bald nah, bald
-fern; da war ein regelmäßiges Tak — tak - tak —
+fern; da war ein regelmäßiges Tak — tak — tak —
 
 Wassertropfen — fallende Wassertropfen!
 
@@ -913,7 +913,7 @@ einem der Gletscher! —
 
 Dann wieder das krampfhafte Röcheln neben mir.
 
-Harald versuchte sich zu befreien. -
+Harald versuchte sich zu befreien. —
 
 Und — wieder mißlang es!
 
@@ -938,7 +938,7 @@ Der weiße Lichtkegel glitt nach links.
 
 Meine Augen erkannten Einzelheiten. Ringsum
 glitzerndes Eis. Und — die Gestalt eines Mannes, der
-die Taschenlampe in der Linken hielt. Zu der halb erhobenen
+die Taschenlampe in der Linken hielt. In der halb erhobenen
 Rechten glänzte es metallisch: ein Revolver!
 
 Der Mann war schlank und mittelgroß, hatte vor dem
@@ -1043,7 +1043,7 @@ Stimme.
 »Ich werde Ihnen beiden die Knebel abnehmen. Hier
 hört Sie niemand!«
 
-Er tat es, trat, wieder zurück,
+Er tat es, trat wieder zurück.
 
 »Es tut mir leid, daß es nun so weit gekommen ist,«
 fuhr er fort. »Der Kampf mit Ihnen, Herr Harst, war für
@@ -1065,7 +1065,7 @@ Das sind wir Deutschen!«
 
 Eine kleine Pause.
 
-»Der Milliardär wird von meinen Leuten gut, bewacht.
+»Der Milliardär wird von meinen Leuten gut bewacht.
 Die Angst vor den Brüdern der grünen Maske ist
 so groß, daß die Schwestern Colding die drei Millionen
 jetzt widerstandslos opfern werden. Professor Lörax hat
@@ -1315,7 +1315,7 @@ Harst rief sie leise an.
 
 »Oh — Sie!« entfuhr es Jane. Und fügte überstürzt
 hinzu: »Der Konsul schickte heute ein zweites Telegramm.
-Ein Herr auch Odda bringt das Geld im eigenen Autos her.
+Ein Herr aus Odda bringt das Geld im eigenen Autos her.
 Das Auto sollte um Mitternacht hier sein. Jetzt ist es bereits
 ein halb eins —«
 
@@ -1341,7 +1341,7 @@ Die Falltür flog auf.
 
 Eine steile Treppe: unten drei Verschläge: und in dem
 letzten auf Stroh und Säcken — der reichste Mann Amerikas:
-Colding! Gebunden. geknebelt —!
+Colding! Gebunden, geknebelt —!
 
 Harsts Messer fuhr durch die Stricke.
 
@@ -1402,7 +1402,7 @@ folgte.
 Der Radler war abgesprungen, drehte das Rad um,
 wollte sich in den Sattel schwingen.
 
-Der flache Stein flog im Bogen, senkte sich, trat — traf
+Der flache Stein flog im Bogen, senkte sich, traf — traf
 den Kopf des Mannes.
 
 Taumelnd, in die Luft greifend, halb betäubt torkelte
@@ -1451,7 +1451,7 @@ Abermals schrie ich auf.
 
 Wir lauschten dann.
 
-Ob wir den Ausschlag des Körpers hören würden?
+Ob wir den Aufschlag des Körpers hören würden?
 Ob der furchtbare Ton bis zu uns empor dringen würde?
 
 Dann schon ein Krachen und Splittern.
@@ -1543,7 +1543,7 @@ Jetzt seltsame Laute — Weinen, Schluchzen.
 
 Das war ein Weib, die da neben dem Toten kniete,
 ein Weib, ohne jedes Interesse für die Umgebung, ganz
-ausgelöst in Trauer und Schmerz.
+aufgelöst in Trauer und Schmerz.
 
 »Die andere Seite des Dramas!« flüsterte Harald, der
 mit seiner Hand schnell meine Taschenlampe bedeckt hatte.
@@ -1628,7 +1628,7 @@ die Person geblieben, die hier die Gattin des Professors
 gespielt hatte? Wer war diese Person gewesen? Wirklich
 ein Weib?
 
-Diese Fragen kann ich erst in bei folgenden Erzählung
+Diese Fragen kann ich erst in der folgenden Erzählung
 beantworten ...
 
 
