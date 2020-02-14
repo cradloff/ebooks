@@ -23,7 +23,7 @@ Es mochte halb neun gewesen sein, als Mathilde uns
 dann aus der beschaulichen Ruhe aufrüttelte.
 
 »Na, na, liebe Mathilde, — ein Dieb in unserem Hühnerstall!«
-meinte Harald zweifelnd, »Das muß denn gerade
+meinte Harald zweifelnd. »Das muß denn gerade
 ein Mensch sein, der nicht weiß, wer hier wohnt!«
 
 Mathilde wurde böse.
@@ -176,7 +176,7 @@ Wort.
 
 »In Charlottenburg, Kantstraße 308, in der Nähe des
 Amtsgerichts, Erdgeschoß vorn rechts. Ich meldete mich
-Herrn Gumlowsky auf sein Inserat bin. Er suchte einen
+Herrn Gumlowsky auf sein Inserat hin. Er suchte einen
 Buchhalter, der auch französisch und englisch korrespondieren
 könne. Da meine Gehaltsforderung bescheiden war,
 stellte er mich an.«
@@ -295,7 +295,7 @@ fragte jemand, ob Herr Gumlowsky zu sprechen sei. Ich
 rief zurück: »Hier Max Gumlowsky u. Komp.« — Darauf
 der Fremde: »Du — ich bin wieder in Berlin! Habe soeben
 Deine Nummer im neuen Telephonbuchnachtrag gefunden
-— Mensch — rate mal, wer mit Dir spricht?« -
+— Mensch — rate mal, wer mit Dir spricht?« —
 Dann lachte der Fremde und fügte hinzu: »Das rätst Du
 nie! Der schwarze Max ist’s! Nachmittags um zwei Uhr
 komme ich zu Dir. Halte die Luft rein! Auf Wiedersehn,
@@ -410,7 +410,7 @@ Herr Lehmann —«
 
 »Ich bin keineswegs feige, Herr Harst. Es handelt
 sich hier doch auch darum, daß ich meine Stellung zu verlieren
-fürchte. Heutzutage ist es schwer, ein neue zu finden.
+fürchte. Heutzutage ist es schwer, eine neue zu finden.
 Und doch habe ich dieses Risiko auf mich genommen.
 Ich habe eben das deutliche Gefühl, daß die ganze Firma
 Alemannia irgendwie faul ist.«
@@ -649,7 +649,7 @@ braven Mathilde letztem gewaltigen Aerger — «
 Zerbrich Dir aber nicht den Kopf. Die gute Mathilde
 schimpft so oft auf dies und jenes, daß die Auswahl zu
 groß ist. — Wir werden jetzt daheim zu Bett gehen und
-um halb drei Uhr morgens wieder auffielen, werden uns
+um halb drei Uhr morgens wieder aufstehen, werden uns
 zweckentsprechend verändern und uns Kantstraße Nr. 308
 gegenüber einmieten, damit wir Herrn Gumlowsky stets
 in der Nähe haben. Das weitere findet sich dann schon.
@@ -661,7 +661,7 @@ Dafür überlegte ich mir nun nochmals die
 Ereignisse des heutigen Abends und — überlegte mir alles so
 gründlich, daß ich mir zum Schluß eingestand: »Du hättest
 Dir diese Gedankenarbeit sparen können! Du bist um
-nichts klüger geworben!« —
+nichts klüger geworden!« —
 
 Das Auto hielt. Wie wir den Flur des Erdgeschosses
 betraten, kam uns Mathilde brummig entgegen.
@@ -675,7 +675,7 @@ Päckchen von etwa Buchgröße.
 »Ich wollt’ doch mal sehn, ob der Mensch sich auch
 nicht die Taschen mit Mais vollgesteckt hat,« brummte sie
 <@pagebreak/>
-weiter, »Der war doch nicht harmlos! Der Ajax liegt
+weiter. »Der war doch nicht harmlos! Der Ajax liegt
 auch ganz matt in seiner Hütte.«
 
 »Ah — den Hund haben wir ganz vergessen,« meinte
@@ -854,7 +854,7 @@ schwer bloßgestellt wurde, eilt er zu Prießkorn!«
 
 Wir waren langsam auf das Haus zugeschritten.
 
-Harald blieb plötzlich stehen, packe meinen Arm.
+Harald blieb plötzlich stehen, packte meinen Arm.
 
 »Da — das Fenster!«
 
@@ -868,7 +868,7 @@ schwacher Schatten hinglitt.
 ins Schloß drücken sollen! Es ist jemand bei uns eingedrungen,
 und — wir haben nicht mal unsere Pistolen bei
 uns! Vielleicht ist es — der schwarze Max, der vielleicht
-mit — *Ottmar* Orstra identisch ist!«
+mit — *Ottmar Orstra* identisch ist!«
 
 »Wie — Orstra?!«
 
@@ -930,7 +930,7 @@ Der Mensch lächelte und — hob den rechten Arm.
 Harst drückte ab.
 
 Das Schloß der Clement gab einen metallischen Klang,
-als der Schlagbolzen vor schnellte.
+als der Schlagbolzen vorschnellte.
 
 Das war alles. Kein Schuß.
 
@@ -974,7 +974,7 @@ gleich. Bei der geringsten verdächtigen Bewegung
 — doch nein, ich will nicht drohen! Sie werden nicht
 so unvorsichtig sein, hoffe ich. — Also bitte, Herr Schraut!«
 
-»Du’s nur!« meinte Harst.
+»Tu’s nur!« meinte Harst.
 
 Was blieb mir anderes übrig als zu gehorchen?
 
@@ -1085,9 +1085,9 @@ abgemacht!«
 
 »Abgemacht, Orstra. Sie sind vierzehn Tage und vier
 Stunden, bis zum 18. September morgens dreiviertel
-Uhr, vor uns sicher.«
+vier Uhr, vor uns sicher.«
 
-Orstra verbeugte ich. »Ich habe einen Gentleman
+Orstra verbeugte sich. »Ich habe einen Gentleman
 vor mir! — Herr Schraut, nehmen Sie Ihrem Freunde
 die Fesseln ab —«
 
@@ -1206,7 +1206,7 @@ ja, daß etwas erfolgen würde; ich saß sprungbereit da —«
 
 »Lieber Alter, sollte ich uns die Aussicht auf den feinsten
 Streich, den wir je Verbrechern gespielt haben, verderben?!
-— Nein — das wäre schade verwesen!«
+— Nein — das wäre schade gewesen!«
 
 Ich setzte mich.
 
@@ -1218,7 +1218,7 @@ bat ich gespannt.
 Da wurde ich ungemütlich.
 
 »Laß doch den Unsinn! Wenn Du auch Orstra damit
-irgendwie blassen wolltest, — bei mir —«
+irgendwie bluffen wolltest, — bei mir —«
 
 »— bei Dir will ich’s genau so wenig! — Nun brühe
 eine Tasse Kaffee auf —«
@@ -1250,9 +1250,9 @@ Lehmann gewesen — ausgeben kann. Wenn Orstra sich
 jetzt zum Beispiel irgendwo in Berlin als Fritz Schütze
 aus Küstrin ein Zimmer mietet und dort sehr solide lebt,
 wird niemand ihn belästigen. Höchstens werden wir es
-tun — nach dem. 17. September.«
+tun — nach dem 17. September.«
 
-»Aha — mir geht ein Licht auf! Du hofft Orstra auf
+»Aha — mir geht ein Licht auf! Du hoffst Orstra auf
 diese Weise schnell zu finden und ihm die Millionen wieder
 abzunehmen.«
 
@@ -1286,7 +1286,7 @@ doch mal auf den Hof gehen und nachschauen.«
 
 Er kehrte sehr bald zurück.
 
-»Ajax wird am Leben bleiben, mein Alter. —
+»Ajax wird am Leben bleiben, mein Alter. — So,
 nun eine Tasse Kaffee. Dann werde ich einen Brief nach
 Swinemünde schreiben. Dort muß es einen Magistratssekretär
 Albert Lehmann gegeben haben, der am 19. Juli
@@ -1462,7 +1462,7 @@ Und dann — heute war doch der 17.! Heute um halb
 zwölf nachts würde Orstra bei uns erscheinen! Da sollte
 Harald fünf Millionen zur Verfügung haben! Gewiß —
 er hatte heute nachmittag gegen zwei Uhr seine Mutter mit
-irgend einem Austrag, den er mir verschwieg, weggeschickt.
+irgend einem Auftrag, den er mir verschwieg, weggeschickt.
 Ob Frau Harst etwa auf der Bank gewesen war und Geld
 geholt hatte?! — Kurz — für mich war die Sachlage völlig
 ungeklärt. —
@@ -1512,7 +1512,7 @@ Sie Platz —«
 Orstra war doch etwas mißtrauisch.
 
 »Haben Sie keine Angst,« beruhigte Harst ihn. »Ich
-habe mein Wort ich in allen Stücken gehalten. Das ist ja
+habe mein Wort in allen Stücken gehalten. Das ist ja
 selbstverständlich.«
 
 »Und das Geld?« fragte Orstra hastig.

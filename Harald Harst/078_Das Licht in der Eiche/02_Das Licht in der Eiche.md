@@ -11,7 +11,7 @@ daß sie keine Nerven kannte.
 
 Gewiß — das schwarze Spitzenhäubchen saß schief auf
 dem grauen Scheitel. Auch etwas blaß war die alte
-Dame
+Dame.
 
 Aber ruhig und übersichtlich erzählte sie das Vorgefallene.
 
@@ -30,7 +30,7 @@ gemacht, ebenso im Flur.
 Als Frau Harst mit Mathilde die Treppe herabkam,
 stand Orstra ihnen mit einem Revolver gegenüber.
 
-Sehr energisch, hatte er die Herausgabe der fünf Millionen
+Sehr energisch hatte er die Herausgabe der fünf Millionen
 verlangt, war aber stets höflich geblieben. Als
 er seinen wahren Namen nannte, hatte Frau Harst sofort
 erkannt, daß sie gehorchen müßte. Sie wußte ja, wer Orstra
@@ -52,7 +52,7 @@ Bechert war mitgekommen. Eine flüchtige Besichtigung
 der Räume, die Orstra betreten hatte, ergab nichts besonderes.
 Aber in Harsts Schlafzimmer entdeckten wir doch
 etwas: Orstra hatte aus unserem Requisitenkoffer einige
-Perücken, Bärte, Schminken und Hautfärbemittel mitgenommen
+Perücken, Bärte, Schminken und Hautfärbemittel mitgenommen.
 
 Bechert verabschiedete sich dann. Er versprach, sofort
 alle Bahnhöfe überwachen zu lassen. »Ich werde die großangelegteste
@@ -91,7 +91,7 @@ Er setzte sich auf den Bettrand.
 »Ich habe das von Orstra bewohnte Zimmer sehr genau
 durchsucht — sehr genau. Auch den Koffer mit den
 Kleidungsstücken, den er dort zurückgelassen hat. In einem
-Anzug in der Westentasche fand ich dies -«
+Anzug in der Westentasche fand ich dies —«
 
 Er reichte mir einen Kassenzettel des Warenhauses
 Wertheim.
@@ -141,11 +141,11 @@ Dame muß lauten:
 > Schlank, etwas über mittelgroß, blond oder dunkelblond,
 grüngraues Sportkostüm, gleichfarbene Sportmütze,
 dichter Schleier, heisere, leise Stimme, feine, schmale
-Hände, stark gepudert
+Hände, stark gepudert.
 
 Mit diesem Signalement läßt sich schon etwas ausrichten.
 Ohne Schleier wird Orstra sich nicht zeigen. Und
-gepudert wir er auch sein, damit das Gesicht durch den
+gepudert wird er auch sein, damit das Gesicht durch den
 Schleier zarter wirkt.«
 
 »Allerdings — da könnten Nachfragen Erfolg haben.«
@@ -176,7 +176,7 @@ geschehen konnte —«
 
 »Und das wäre?«
 
-»Ja - ich möchte einen Verbrecher gegen den anderen
+»Ja — ich möchte einen Verbrecher gegen den anderen
 ausspielen —«
 
 »Wie das?«
@@ -368,7 +368,7 @@ Sie also gerade Zeit haben, kommen Sie doch bitte her
 und prüfen Sie mal, ob etwa das Schloßgespenst zu irgend
 welchem Unfug benutzt wird.
 
-Mein Chauffeur ist sechs Jahren bei mir und
+Mein Chauffeur ist seit sechs Jahren bei mir und
 unbedingt zuverlässig. Nur er weiß, daß ich an Sie geschrieben
 habe. Falls Sie hier unerkannt auftreten wollen,
 spielen Sie doch die Rolle von Tapezierern. Ich wollte
@@ -451,7 +451,7 @@ Treppe hinan in den zweiten Stock — Stufe für Stufe.
 Wir wollten auf die Turmplattform.
 
 Harald war mir stets zwei Stufen voran, versuchte
-schwer erst, ob die Stufen knarrten. So waren wir fast
+immer erst, ob die Stufen knarrten. So waren wir fast
 bis ins zweite Stockwerk gelangt, als durch den Schacht
 <@pagebreak/>
 des großen Treppenhauses ein Geräusch zu uns empor
@@ -508,7 +508,7 @@ uns — im Flur des ersten Stockwerks.
 
 Noch weiter beugten wir uns über das Geländer.
 
-Das Geräusch war- so deutlich, daß wir den, der es
+Das Geräusch war so deutlich, daß wir den, der es
 erzeugte, unbedingt hätten sehen müssen.
 
 Ja — wir hörten sogar das Tappen von Schritten
@@ -756,7 +756,7 @@ Und — was war das für ein Kampf gewesen! Ueberreich
 an Aufregungen, Ueberraschungen, Gefahren! Und
 doch — bei alledem hatte der poetische Reiz des Zauberlandes
 Indien das Häßliche so stark abgeschwächt, daß ich
-im diesem Augenblick, wo die Vergangenheit so lebendig
+in diesem Augenblick, wo die Vergangenheit so lebendig
 in mir wurde, eine leise Sehnsucht nach dem fernen Wunderreiche
 der phantastischen Marmortempel in mir aufsteigen
 fühlte. — Dann besann ich mich: Domke war ja in
@@ -842,7 +842,7 @@ noch weiter.
 »Dort unten war ich noch nicht,« sagte Harst leise.
 
 Die Treppe war so eng, daß man die Ellenbogen an
-den Leib drüben mußte. Als wir nach unserer Berechnung
+den Leib drücken mußte. Als wir nach unserer Berechnung
 im Erdgeschoß waren, zog sich wieder ein Gang nach
 rechts hin. Dann abermals vier Stufen; abermals die
 Rückwand eines in die Mauer eingefügten Eichenholzschrankes.
@@ -936,7 +936,7 @@ den Spuk sagte, sollst Du sofort erfahren. Als Domke das
 Schloß vor zwei Jahren kaufte, spukte es noch nicht. Aber
 — es hatte früher gespukt, und zwar sollte der hingerichtete
 Herr von Argendecher nachts unsichtbar mit Ketten beladen
-durch die Flure wandern, wobei man nur die Ketten Klirren
+durch die Flure wandern, wobei man nur die Ketten klirren
 hörte. Diese Geräusche lebten jetzt erst vor zwei
 Monaten wieder auf. — So, das wäre das Schloßgespenst.
 Nun zu den Schloßbewohnern. Da ist Nummer eins,
@@ -1038,7 +1038,7 @@ Bauern jeben nich so leicht was ohne Berappung bei —«
 hat zwei Mädelchen.«
 
 »Und nadierlich schwere Moneten! Ja, ja — die Bauern
-heutzutage! Die haben’s besser als wir, Handwerker,
+heutzutage! Die haben’s besser als wir Handwerker,
 Fräuleinchen. Wir sind nämlich Tapezierer und sollen da
 drieben bei Domke zwee Zimmer auf neu aufwichsen. Aber
 die Tapeten sind noch nich da —«
@@ -1107,7 +1107,7 @@ ausgeschwiegen. Nun erklärte er unvermittelt:
 »Du siehst jetzt wohl ein, daß Elly Schenk diejenige
 war, die Erwin Balks Lichtdepesche in Empfang nahm
 und erwiderte. Traust Du ihr etwas Schlechtes zu? Wohl
-kaum! Ah auch nicht!«
+kaum! Ich auch nicht!«
 
 »Aber — wozu denn in aller Welt diese Heimlichkeiten?!
 Sie mag Balks Verlobte sein. Weshalb —«
@@ -1325,7 +1325,7 @@ Indien. Ich habe sie dort selbst gefunden.«
 »Nur einer wußte davon: der alte greise Krämer, der
 Stellmacher. Ihn zog ich ins Vertrauen. Mit seiner Hilfe
 schuf ich ein Versteck für die Statue, einen geheimen Wandschrank
-neben den Kamin in der Vorhalle.«
+neben dem Kamin in der Vorhalle.«
 
 »So — das genügt mir, Herr Domke. Nun wollen
 wir Frau Krämer aufsuchen und sie fragen, ob sie nicht
@@ -1402,7 +1402,7 @@ mit in den Wald?«
 tun. Erst wollte sie nicht. Sie ist ja überhaupt ’ne komische
 Person. Gottlieb sollte sich lieber nicht mit ihr abgeben.
 So ’ne heisere Stimme, und dann — dann wollte
-sie sich von niemand sehen, lassen. Grad so, als ob sie aus
+sie sich von niemand sehen lassen. Grad so, als ob sie aus
 Berlin ausgerückt wär —«
 
 »Also nochmals vielen Dank, Frau Krämer —«
@@ -1437,7 +1437,7 @@ daß an dem Spuk etwas Tatsächliches daran sein müßte.
 und —«
 
 »— Auch das kommt noch heran, Herr Domke. Das ist
-das weniger Wichtigste.«
+das weniger Wichtige.«
 
 Wir betraten das Schloß durch einen Seiteneingang,
 gingen erst in die Küche.
