@@ -679,113 +679,120 @@ denken sollte!
 <h2>3. Kapitel.</h2>
 <h3>Stuart Baßly, ein neuer Mitspieler.</h3>
 
-Wir traten wieder in den Gang des Schlafwagen
-Neugierigen hatten sich zerstreut. ’ -
+Wir traten wieder in den Gang des Schlafwagens.
+Die Neugierigen hatten sich zerstreut.
 
-Nur der Qee erwartete und.
+Nur der Zugführer erwartete uns.
 
-Sie etwas ermittelt, Herr Harst?« ade er.
+>>Haben Sie etwas ermittelt, Herr Harst?« fragte er.
 
-richeinlih war das Den x nicht gar allen
+>>Wahrscheinlich war das Fenster nicht ganz geschlossen.<<
 <@pagebreak/>
 meinte, Harald. »Der Dieb dürfte diesen Weg gewählt
+haben.<<
 
-»Jedenfalls müssen alle Reisenden bei Ankunft im
-Von durchsucht werden, nicht wahr?«
+»Jedenfalls müssen alle Reisenden bei Ankunft in
+München durchsucht werden, nicht wahr?«
 
-= As wäre anschob. Der Aus hat doch mehrmals
-gehalten. Der Dieb fahl kann vor einer Station begangen
-worden feil. Der Dieb ist sicherlich nicht mehr im Zuge.«
+>>Das wäre zwecklos. Der Zug hat doch mehrmals
+gehalten. Der Diebstahl kann vor einer Station begangen
+worden sein. Der Dieb ist sicherlich nicht mehr im Zuge.«
 
-Als wir dann in unsere Kabine kamen, deren Tür je
+Als wir dann in unsere Kabine kamen, deren Tür
 jemand zugeschoben hatte, saß Mr. Bannimoore Godalper
 auf meinem Bett, hielt einen Revolver in der Rechten und
-gierte uns wie zwei Gespenster an.
+stierte uns wie zwei Gespenster an.
 
-Da — da!« rief er, und fein Gesicht war wie eine
--Maske wildester Angst, »— da — das bat man mir in
-se in den Hals schießen wollen!«
+>>Da — da!« rief er, und sein Gesicht war wie eine
+Maske wildester Angst, »— da — das hat man mir in
+-- in den Hals schießen wollen!«
 
-Er He auf einen Blasrohrpfeil, der auf dem Tisch
+Er zeigte auf einen Blasrohrpfeil, der auf dem Tischchen
+vor dem Bett lag.
 
-zur der Spitze ist — ist etwas Braunes — natürlich
-Gift, Gute er hinzu. »Als ich im Gange stand, flog mir
+>>An der Spitze ist — ist etwas Braunes — natürlich
+Gift,<< fügte er hinzu. »Als ich im Gange stand, flog mir
 dieser Pfeil in den Stehkragen. Hier — hier ist noch das
-in! Ein Zufall war’s, daß er nicht in den Hals
-a
+Löchlein! Ein Zufall war’s, daß er nicht in den Hals
+drang!<<
 
-»Harald nahm den Pfeil.
+Harald nahm den Pfeil.
 
 »Allerdings, das scheint Gift zu sein,« nickte er. »Haben
 Sie denn nicht feststellen können, wer und wie man
-den Pfeil ablehnt?«
+den Pfeil abschoß?«
 
 »Es stand ja eine Mauer von Neugierigen um die Tür
 von Nr. 11 herum, Mr. Harst. Aber — etwas ist mir doch
-aufgefallen. Da war ein Herr mit einer sehr langen Als
-garrenspize. Vielleicht wurde die als Blasrohr benutzt.«
+aufgefallen. Da war ein Herr mit einer sehr langen Zi-
+garrenspitze. Vielleicht wurde die als Blasrohr benutzt.«
 
 »Wie sah der Herr aus?«
 
 »Er trug blaue Brille, dunkelblonden Vollbart und
-hatte eine gellende sheußkliche Krawatte.«
+hatte eine gelbrote scheußliche Krawatte.«
 
 »Die er jetzt längst weggeworfen haben wird, genau
-wie die Brille und den Vollbart. Wir würden also um-dem
-Menschen suchen. — Mr. Godalper, Sie tun
-in, Am besten ist, Sie steigen mit uns
-- Summen in München im Hotel d’Angleterre am Bahnhof
-ab und nehmen ein Zwangen neben uns. Wir dürften Aktie
-Verfolger bald ermitteln und festnehmen lassen. 36 will
-nein meine Reise nach Ceylon ein paar Tage verschieben.«
+wie die Brille und den Vollbart. Wir würden also umsonst
+nach dem Menschen suchen. — Mr. Godalper, Sie tun
+mir aufrichtig leid. Am besten ist, Sie steigen mit uns
+zusammen in München im Hotel d’Angleterre am Bahnhof
+ab und nehmen ein Zimmer neben uns. Wir dürften Ihre
+Verfolger bald ermitteln und festnehmen lassen. Ich will
+gern meine Reise nach Ceylon ein paar Tage verschieben.«
 
 <@pagebreak/>
-»Ja, du Sie es, M Ruhe wi
-als schebenb | vor oval. — Esel See mit n nicke zarte Co
-Den, — gestohlen! A 0. muß durch das das An
+»Ja, tun Sie es, Mr. Harst. Ich bin wieder mehr tot
+als lebendig vor Angst. -- Wie stehtÄs mit Miß Glarnstons
+Diamanten?<<
 
-he Dem Bei her 1 engen, »Busche ußerbem in fein!
-wahr, ne sie fest?« Und Godalpers A jene war
-echt »elbanntched aufsteige. Seine Angst war Verkauf-Mach.
-verflogen. See Maus war Er ein
-Ei | Nabe ne Lage
+>>Weg -- gestohlen! Der Dieb muß durch das Fenster
+eingestiegen sein. Ich habe jetzt nicht Zeit, mich mit
+diesem Diebstahl zu beschäftigten. Außerdem schein Miß
+Glarnston nicht gerade viel Gewicht darauf zu legen, daß
+ich mich für sie bemühe.<<
 
-ö y wir Fang in Ruhe, bei zu Weist mir er u er
+>>Wie das, Mr. Harst?<< Und Godalpers Gesicht war
+jetzt gespanntestes Interesse. Seine Angst war merkwürdig
+schnell verflogen. Der Mann war ohne Frage ein
+guter, aber kein erstklassiger Komödiant.
 
-Sofort ans fngelanat, ha
+>>Sie suchte mich, glaube ich, zu belügen. Doch -- lassen
+wird die Miß in Ruhe. Sie ist mir herzlich uninteressant.
+-- Wir sind auch sofort angelangt. Beim Aussteigen
+nehmen wir Sie in die Mitte, Mr. Godalper. Im
+Hotel bleiben Sie besser auf Ihrem Zimmer oder gehen
+doch jedenfalls nur in unserer Begleitung aus.<< --
 
-aha n nehmen wir Sie ich in
-Hotel bleiben Sie besser auf Ihnen e Mag oder
-doch jedenfalls nur in unserer Stellung zu
+Das kleine Hotel d’Angleterre in München hatte noch
+genügend Zimmer frei. Wir wohnten im ersten Stock auf
+Nr. 18 und 19, während Godalper Nr. 17 belegt hatte.
 
-Das kleine Hotel d’Angleterre in München hatte ans
-genügend Cm. Wir wohnten im ersten Grob am
+Nachmittag gegen fünf Uhr kehrte Harald von einem
+Spaziergang zurück. Ich hatte mit Godalper eine Partie
+Schach gespielt. Leider war ich bisher nicht in der Lage
+gewesen, mit Harst mich an die Ereignisse im D-Zug
+auszusprechen. Ich tappte also noch immer völlig im
+Dunkeln, was den Diebstahl und das Telegramm an Miß
+Glarnston betraf. Nur eins wußte ich: das Giftpfeilattentat
+war natürlich Schwindel! Ich argwöhnte, daß
+Godalper es nur erfunden hatte, um einen Anlaß zu haben
+weiter noch mit uns als schutzbedürftiger Verfolgter
+zusammenbleiben zu können.
 
-Nachmittag »gegen fünf Uhr ehrte Harald von einem
-Spaziergang zu Kb hatte mit Godalper eine Partie
-Schach gespielt. Leider war ich bisher nicht in in »D-Zug
-gewesen, mit — mich an die Drein enge
-auszusprechen. ch hab ad noch zum: völlig im
-Tafeln, was he lebftaht das T elegramma an
-Glarnston bete Nur eins wußte ich: das Biltwseilatten-tat
-war natürlich Schwindel! £ argwöhnte, daß Gas
-Godalper es nur erfunden hatte, um einen
-weiter noch mit und als schuybedürftiger Alle
-sammenbleiben zu können.
+Harald hatte also angeklopft und und Godalpers Zimmer
+betreten. Er war etwa drei Stunden weggewesen.
 
-Harald hatte also angeklopft uns und Wodalpers Rissen
-Er trat etwa drei Stunden ewwesen.
+>>Der Mann ist verhaftet,« sagte er, nachdem er uns
+kurz begrüßt hatte.
 
-er Pfiff verhaftet,« Tanks er, nachher 6 uns.
-begrüßt hatte.
-
-As Tod der Tale empor, Ich See noch je fein L’ha Weh
-By Er Er: nur oh, grauer hie Da
-er Eis?
-Breites Lächeln zustande und fragte u unglaublich« Eid
+Godalper fuhr empor. Ich sehe noch sein entsetztes
+Gesicht vor mir. Er stierte Harald an, merkte dann wohl,
+daß er doch eigentlich erfreut sein müßte, brachte ein verzerrtes
+Lächeln zustande und fragte unglaublich töricht:
 
 <@pagebreak/>
-Wer?! Der Dieb?!«
+>>Wer?! Der Dieb?!«
 
 Man stelle sich vor: er, dessen Leben angeblich jede
 Minute in Gefahr war, fragte nach dem Diebe und nicht
@@ -794,8 +801,8 @@ nach einem der Attentäter!
 Harald stand da, beide Hände in den Manteltaschen,
 und lächelte jetzt Godalper seinerseits an.
 
-Ganz recht: Stuart Baßly, der Dieb! Master Godalper.
-gleichzeitig auch der falsche Kellner aus dem
+>>Ganz recht: Stuart Baßly, der Dieb! Master Godalper.
+Gleichzeitig auch der falsche Kellner aus dem
 Wartesaal des Anhalter Bahnhofs, der Ihnen den — vergifteten
 Kaffee brachte.«
 
@@ -803,8 +810,8 @@ Godalpers Unterkiefer fiel vor Schreck herab. Ein
 Röcheln kam aus seiner Kehle.
 
 »Gleichzeitig auch der Insasse der Kabine Nr. 14 aus
-unserem Schlafwagen,« fügte Harald hinzu. »Der Dann
-bat bereits ein Geständnis abgelegt. Und Sie täten gut,
+unserem Schlafwagen,« fügte Harald hinzu. »Der Mann
+hat bereits ein Geständnis abgelegt. Und Sie täten gut,
 dasselbe zu —«
 
 Ah — jetzt zeigte sich, daß Bannimoore Godalpers
@@ -814,78 +821,78 @@ hatten — weit gefährlicher.
 
 Der Boxhieb, den Harst jetzt von dem eleganten Godalper
 gegen die Herzgrube erhielt, hätte einen Riesen
-hieberneltredt.
+niedergestreckt.
 
 Harald sank zur Seite um, und Godalper hielt mir im
-selben Moment einen Revolver vor die
+selben Moment einen Revolver vor die Stirn.
 
 »Bleiben Sie sitzen!« fauchte er mich an. »Heben Sie die
 Arme hoch. — So, nun Mund auf!«
 
 Er faßte mit der Linken in die Westentasche, brachte
-ein Fläschchen zum Vorschein, zog den Slasitöpfel mit den
-Kähnen heraus.
+ein Fläschchen zum Vorschein, zog den Glasstöpsel mit den
+Zähnen heraus.
 
-»Sie werden 24 Stunden nach diesen klopfen wie ein
+»Sie werden 24 Stunden nach diesen Tropfen wie ein
 Toter schlafen. Das ist alles!« erklärte er. »24 Stunden
 Vorsprung genügen uns vollauf. Wenn Sie die Tropfen
-luden, drücke ich ab!«
+nicht schlucken, drücke ich ab!«
 
-er Schurke hatte vielleicht Gift in dem Fläschchen.
-Und. — er würde sich hüten zu schießen. Das ganze Hotel
+Der Schurke hatte vielleicht Gift in dem Fläschchen.
+Und — er würde sich hüten zu schießen. Das ganze Hotel
 wäre lebendig geworden.
 
-Ich wagte viel, als ich die Arme sinken Ließ und mit
-einem blipichnellen Schlau von unten her denn Revolver und
+Ich wagte viel, als ich die Arme sinken ließ und mit
+einem blitzschnellen Schlag von unten her den Revolver und
 Godalpers rechte Hand zu treffen suchte.
 
 <@pagebreak/>
-Dorf — er war schneller. Er ließ die Waffe taten und
-— derselbe Boxhieb strebte mich zu Boden.
+Doch — er war schneller. Er ließ die Waffe fallen und
+— derselbe Boxhieb streckte mich zu Boden.
 
-Später stellte sich dann heraus, daß Godalper und
-tatsächlich einen GSchlaftrunt eingeflößt hatte. Man  fand
+Später stellte sich dann heraus, daß Godalper uns
+tatsächlich einen Schlaftrunk eingeflößt hatte. Man fand
 uns erst nach vierzehn Stunden in Godalpers verschlossenem
 Zimmer. Unsere Abwesenheit war aufgefallen, da der
-Münchener Kriminalinspektor Lodlermayer wiederholt na
+Münchener Kriminalinspektor Lodlermayer wiederholt nach
 uns gefragt hatte. So wurde denn am folgenden Morgen
-um sieben Uhr Godalpers Zimmer gewaltsam geöffnet
-Ich ran auf dem Diwan, Harald auf dem Bett.
+um sieben Uhr Godalpers Zimmer gewaltsam geöffnet.
+Ich lag auf dem Diwan, Harald auf dem Bett.
 
-Aber erst gegen drei Uhr nadmittand gebaut 28 den
+Aber erst gegen drei Uhr nachmittags gelang es den
 Aerzten, uns wieder ins Bewußtsein zurückzurufen. Starker
-Kaffee machte uns sehr bald vernehmungsfähig
+Kaffee machte uns sehr bald vernehmungsfähig.
 
 Lodlermayers erste Frage an Harald lautete:
 
 »Waren Sie’s oder waren Sie’s nicht, der gestern
-abend um acht Uhr verkleidet bei mir ersten und bat,
-ihm den verhafteten Stuart Baßly Um He den, da Sie
-ihn zur Ueberführung Godalpers brauchten?« j!
+abend um acht Uhr verkleidet bei mir erschien und bat,
+ihm den verhafteten Stuart Baßly mitzugeben, da Sie
+ihn zur Ueberführung Godalpers brauchten?«
 
 »Ich war es nicht!« sagte Harald dumpf. »Ich habe
-mich diesmal — blamiert! Nun sind sie beide entwischt?«
+mich diesmal — blamiert! Nun sind sie beide entwischt!«
 
-»Ja, das sind sie,« nickte Lodlermayer verärgert.
-habe keine Schuld daran. Godalper hatte Ach so fade
+»Ja, das sind sie,« nickte Lodlermayer verärgert. >>Ich
+habe keine Schuld daran. Godalper hatte sich so tadellos
 verkleidet, daß ich unter der Maske eines behäbigen alten
-Herrn Sie tatsächlich wiederzuerkennen glaubte, Herr Hart,
-harrte nicht, Stuart Baßly ihm anzuvertrauen,
+Herrn Sie tatsächlich wiederzuerkennen glaubte, Herr Harst.
+Ich zögerte nicht, Stuart Baßly ihm anzuvertrauen.<<
 
-na über Wen Sir Geheftete innerlich regt,
-er er diese re Starre
+Harald sagte gar nichts mehr. Ich merkte, wie sehr
+er sich über diesen Streich Godalpers innerlich erregte.
 
-fl er in die Telephonzelle doch Hotels und
-am nach wenigen Minuten zurück.
+Dann ging er in die Telephonzelle des Hotels und
+kam nach wenigen Minuten zurück.
 
-»Miß Glarnston ist heute früh Er erklärte
+»Miß Glarnston ist heute früh weitergereist,<< erklärte
 er. »Auch wir verlassen München sofort. Sie hören noch
-»von mir, Herr Lodlermayer. Auf Wiedersehen.« ’—
+von mir, Herr Lodlermayer. Auf Wiedersehen.« —
 
-Harald schritt im Zimmer unruhig hin und der und:
+Harald schritt im Zimmer unruhig hin und her und
 rauchte bereits die dritte Mirakulum.
 
-»Was ist denn aus den Edelsteinen geworben?« fragte
+»Was ist denn aus den Edelsteinen geworden?« fragte
 ich aus meinem Sessel heraus, da Harst stumm blieb.
 
 Er machte vor mir halt.
@@ -893,112 +900,113 @@ Er machte vor mir halt.
 »Die habe ich Miß Glarnston zurückgegeben, nachdem
 ich sie dem angeblichen Stuart Baßly abgenommen hatte.«
 
-»Richtig!« und ich fuhr mir mit der Hand Über die
+»Richtig!« und ich fuhr mir mit der Hand über die
 <@pagebreak/>
-wie Ast Du sie ihm abaenonmıen?
-Wie Die As D 2. auf d diesen arg? Warst Du schon vorher
-auf Du zu rum geworden?«
+Stirn. >>Richtig -- *wie* hast Du sie ihm abgenommen?
+Wie kamst Du auf diesen Mann? Warst Du schon vorher
+auf ihn aufmerksam geworden?<<
 
-Der eins kopfshlittelnd an. »Lieber Alter, manch-zei
-bis Du von einer verblüffenden Gedankenträgheit!
-Leser angebliche Bahn — Gott weiß, wie er nichts
-aßen mag! — war es der Mann im schwarzen Leidet
-Sieg glaubtest, es sei Godbalper. Das stimmte
-nicht. arg im Leidet hatte Godalpers Kabine durch
-das er betreten. ich hörte, tote jemand dort bei Gossen
-an u He. pochte, hörte dann das Herablassen
-Nachdem der Mann im Leidet nach dem
-duzen Kabine wieder verlassen hatte, nachdem er
-Minuten später dorthin zurückgekehrt und offen-jom
-Nase Fenster hinausgestiegen war, hattest Du Dich
-übermorgen lassen und schliefst sogar so fest,
-By uns a nette Den öffnen und) aleidhalls hinausklettern
-es!, daß nur noch in einer Kabine Anlagen
-y Dame unverhilllt brannte: in Nr. 141
-Einziger Spalt Y wischen Vorhangrand und Fenster-Teilte
+Er blickte mich kopfschüttelnd an. »Lieber Alter, manchmal
+bist Du von einer verblüffenden Gedankenträgheit!
+Dieser angebliche Baßly — Gott weiß, wie er richtig
+heißen mag! — war doch der Mann im schwarzen Trikot!
+Du allerdings glaubtest, es sei Godalper. Das stimmte
+nicht. Der Mann im Trikot hatte Godalpers Kabine durch
+das Fenster betreten. Ich hörte, wie jemand dort bei Godalper
+an die Scheibe pochte, hörte dann das Herablassen
+des Fensters. Nachdem der Mann im Trikot nach dem
+Gange zu die Kabine wieder verlassen hatte, nachdem er
+dann Minuten später dorthin zurückgekehrt und offenbar
+durch das Fenster hinausgestiegen war, hattest Du Dich
+vom Schlafe übermannen lassen und schliefst sogar so fest,
+daß ich unser Fenster öffnen und gleichfalls hinausklettern
+konnte. Ich stellte fest, daß nur noch in einer Kabine unseres
+Wagens die Lampe unverhüllt brannte: in Nr. 14!
+Ein winziger Spalt zwischen Vorhangrand und Fensterleiste
 ließ mich einen Mann erkennen, der sich gerade einen
-By Brillant verklebte. Ich hatte genug gesehen.
-Morgen zu auf den Nähmen und habe dann bis zum.
-size! gen. Dann kam Mr Entdecku des
-»Edel sie M Ich wußte, wer sie gestohlen
-€ Eifer] Wozu er Dir
-Er Mr 0 hat es dem bot Maul Dr ver, ich,
-Na spazieren gegangen war, in lie der Pein
-einer Pension hier ganz in der Nähe anmböbere
-Fo Wackelsteinen lag in einem Geheimfach
-Koffers. Der Mann Hatte sich aha Stuart Bahn
-Taschenbuch eingetragen. Aber — ich habe Total
-nachher getäuscht, als ich behauptete, Baßly hätte eine
-Bildnis abgelegt! Nein, das ist nicht der Fall en
-Baßly bat hartnäckig aefchiwienen. Da er keinerlei Papiere
-bei he ist hatte, konnten wir ihm nicht nachweisen, wer er
-war. Dann trug ich den Kasten mit den Diamanten
-Miß Glarnston hin, die mir vor Dankbarkeit beinahe um
-den Hals fiel. Ich riet ihr, n in München zu bleiben,
-Seh wollte ihr am nächsten Tage sichert geben, wann wir
+schwarzen Spitzbart vorklebte. Ich hatte genug gesehen. Ich
+machte mich auf den Rückweg und habe dann bis zum
+Morgen gut geschlafen. Dann kam die Entdeckung des
+Diebstahls der Edelsteine. Ich wußte, wer sie gestohlen
+hatte: der Mann im Trikot! Und das mußte der Mann
+aus Nr. 14 sein. So war es denn nicht weiter schwer, ihn,
+als ich angeblich spazieren gegangen war, mit Hilfe der Polizei
+in einer Pension hier ganz in der Nähe aufzustöbern.
+Der Kasten mit den Edelsteinen lag in einem Geheimfach
+seines Koffers. Der Mann hatte sich als Stuart Baßly
+ins Fremdenbuch eingetragen. Aber — ich habe Godalper
+nachher getäuscht, als ich behauptete, Baßly hätte ein
+Geständnis abgelegt! Nein, das ist nicht der Fall gewesen.
+Baßly hat hartnäckig geschwiegen. Da er keinerlei Papiere
+bei sich hatte, konnten wir ihm nicht nachweisen, wer er
+wirklich war. Dann trug ich den Kasten mit den Diamanten
+zu Miß Glarnston hin, die mir vor Dankbarkeit beinahe um
+den Hals fiel. Ich riet ihr, noch in München zu bleiben.
+Ich wollte ihr am nächsten Tage Bescheid geben, wann wir
 <@pagebreak/>
-Heide weiterreisen würden. Da dieser Bescheid von meiner
-Seite nicht erfolgte, ist sie eben abgedampft. —
-Frack
+beide weiterreisen würden. Da dieser Bescheid von meiner
+Seite nicht erfolgte, ist sie eben abgedampft. — Noch eine
+Frage?<<
 
-Ja. — Was hältst Du eigentlich von Godalper, Baßly
-und Miß Glarnston? »
+>>Ja. — Was hältst Du eigentlich von Godalper, Baßly
+und Miß Glarnston?<<
 
 »Das werde ich Dir in Kolombo sagen, lieber Alter.
-Jedenfalls: der EHEERURINBER Kadugawa ist die Hauptperson
-bei alledem!
+Jedenfalls: der Elefantenjäger Kadugawa ist die Hauptperson
+bei alledem!<<
 
 Jetzt saß ich mit einem fraglos sehr wenig geistvollen
-Gesicht a er er He falte die Haupt-eben!
-sein — Das — das mochte ein anderer beraten!
-na war doch È der Verkäufer der Bug
-dieser Eingeborene, der seinen Namen durch drei
-en gemalt hatte, sollte —
+Gesicht da. Der Elefantenjäger Kadugawa sollte die Hauptperson
+sein —?! Das — das mochte ein anderer verstehen!
+Kadugawa war doch der Verkäufer der Edelsteine.
+Und dieser Eingeborene, der seinen Namen durch drei
+Kreuze gemalt hatte, sollte —
 
-Da 5 Harald hinzu
+Da fügte Harald hinzu:
 
-»Miß Glarnston ich wirr nämlich vorgestern gegen:
+»Miß Glarnston hat mir nämlich vorgestern gegen
 vier Uhr, als ich ihr die Edelsteine gebracht hatte, etwas
-bestätigen müssen, was ich breite ahnte: daß sie eine intime
-Langes Lady Edith Bombays ist!«
+bestätigen müssen, was ich bereits ahnte: daß sie eine intime
+Bekannte Lady Edith Barnlays ist!«
 
-»Wie?!« rief ich. »Lady Bombays?! Die Dir die
+»Wie?!« rief ich. »Lady Barnlays?! Die Dir die
 Depesche aus Ceylon schickte?«
 
-»Fo — und die vorher an Miß Glarnston ebenfalls
-eine Depesche gesandt hatte, nämlich die, von deren Inhalt:
+»Ja — und die vorher an Miß Glarnston ebenfalls
+eine Depesche gesandt hatte, nämlich die, von deren Inhalt
 wir uns halb gewaltsam Kenntnis verschafften —«
 
-»Ah — die Bersten, die mit Es unterzeichnet war«,
+»Ah — die Depesche, die mit Edlay unterzeichnet war.«
 
-Na — ED — Dr — Edith Barnlay!«
+>>Ja — Ed — lay — Edith Barnlay!«
 
-Ä sorgt!
+Ich sprang auf.
 
-in irre vorbei: mich ne ans
-Und: »Habe mich an ihn gewandt« hieß: an Harst!
+>>Oh -- ich begreife verschiedenes, Harald! >>Erwarte
+Dich hier mit Gepäck<< -- das hieß: mit den Edelsteinen!
+Und: »Habe mich an ihn gewandt« hieß: an Harst! Und --<<
 
-— stoppte ich ab, faule langsamer: »
-dann »die halbe Wahrheit gen an den Tag See -
+Da — stoppte ich ab, sagte langsamer: »Hm -- und
+dann »die halbe Wahrheit soll an den Tag kommen.<< --
 nein, das verstehe ich nicht!«
 
-»Du wirst es verstehen — wenn wir in Kolombso
-sind! — Weiter hat Miß Glarnston noch zugegeb daß:
-der Elefantenjäger Kadugawa ein Vertrauter Lady
-lang ist. e 18 ich sie dann fragte/ ob he bereits eingehender
+»Du wirst es verstehen — wenn wir in Kolombo
+sind! — Weiter hat Miß Glarnston noch zugegeben, daß:
+der Elefantenjäger Kadugawa ein Vertrauter Lady Barnlays
+ist. Als ich sie dann fragte, ob sie bereits eingehender
 über den Mord an dem Gatten der Lady unterrichtet
-sei, verstummte sie neblig, weinte und erklärte nur schlu
-reizend: »Quälen Sie mich nicht, Mr. Harst! Ich darf
+sei, verstummte sie völlig, weinte und erklärte nur schluchzend:
+»Quälen Sie mich nicht, Mr. Harst! Ich darf nicht
 <@pagebreak/>
-sprechen!« Lord Das ist alles, was ich Dir noch zu berichten
-hatte, mein Alter. — So, jetzt wollen wir als Koffer
-packen. Abends elf Uhr - geht unser Zug. Bis Kolombo
+sprechen!« -- Das ist alles, was ich Dir noch zu berichten
+hatte, mein Alter. — So, jetzt wollen wir unsere Koffer
+packen. Abends elf Uhr geht unser Zug. Bis Kolombo
 bitte ich mich weder an Lady Barnlay noch an Lydia
-Glarnston noch an E Baßly zu erfinden — mit
-feiner Silbe!«
+Glarnston noch an Godalper-Baßly zu erinnern — mit
+keiner Silbe!«
 
 <h2>4. Kapitel.</h2>
-<h3>Zwei; die sich als Kollegen entrannen.</h3>
+<h3>Zwei, die sich als Kollegen entpuppen.</h3>
 
 In der deutschen Heimat hatten wir den Winter vor
 der Tür gehabt. Im. Indischen Ozean erlebten wir 40
