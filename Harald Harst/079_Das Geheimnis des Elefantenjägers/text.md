@@ -743,7 +743,7 @@ gern meine Reise nach Ceylon ein paar Tage verschieben.«
 
 <@pagebreak/>
 »Ja, tun Sie es, Mr. Harst. Ich bin wieder mehr tot
-als lebendig vor Angst. — Wie steht's mit Miß Glarnstons
+als lebendig vor Angst. — Wie steht’s mit Miß Glarnstons
 Diamanten?«
 
 »Weg — gestohlen! Der Dieb muß durch das Fenster
@@ -1652,364 +1652,374 @@ Geschichte des Auslegerbootes.
 <h3>Was wir fanden.</h3>
 
 Der Leser mag den Schluß des vorigen Abenteuers
-etwas unbesriedigeud gefunden haben.
+etwas unbefriedigend gefunden haben.
 
 Und doch: sollte ich den Tatsachen Gewalt antun und
 in anderer Reihenfolge schildern, nur um dem ersten
-Teil an beiden Probleme ein wirkungsvolleres Ende
+Teil dieser beiden Probleme ein wirkungsvolleres Ende
 zu geben?! —
 
 Das Geheimnis des Elefantenjägers geht weiter.
-Der Diamantenraub, der Mord und die Rolle, die Kadu-iva
+Der Diamantenraub, der Mord und die Rolle, die Kadugawa
 bei beiden spielte, sind in der Hauptsache erledigt.
-beginnt die Fortsetzung. Und sie beginnt in des Ehe
-Elefantenjägers ärnmlicher, aber sauberer Bambushütte, die
+Es beginnt die Fortsetzung. Und sie beginnt in des
+Elefantenjägers ärmlicher, aber sauberer Bambushütte, die
 durch Querwände in zwei Wohnräume und eine Küche zerlegt
 war.
 
 Wir hatten diese drei Räume mit jener Genauigkeit
-untersucht, die bei unserem Beruf schließlich Telbitverftänd«-
-lich wird. Wir hatten festgestellt, daß die Hütte sich auf
+untersucht, die bei unserem Beruf schließlich selbstverständlich
+wird. Wir hatten festgestellt, daß die Hütte sich auf
 einer mit einer dünnen Schicht fruchtbaren Erde bedeckten
-rate erhob, hatten dann auch den Meinen Garten,
+Felsplatte erhob, hatten dann auch den kleinen Garten,
 Stall und das angrenzende Feld in Augenschein genommen,
-hatten mit twachiender Enttäuschung die Sonne.
-immer mehr finden kochen und dachten bereits an den Rückweg,
+hatten mit wachsender Enttäuschung die Sonne
+immer mehr sinken sehen und dachten bereits an den Rückweg,
 als Harald unvermittelt sagte:
 
-»xh Leibe dabei! Er hat sie irgendwo verschwinden
-en
+»Ich bleibe dabei! Er hat sie irgendwo verschwinden
+lassen!«
 
-»Godalper und Dahin?«
+»Godalper und Baßly?«
 
-»Den sonst?! — Weshalb erschoß er sich wohl? —
+»Wen sonst?! — Weshalb erschoß er sich wohl? —
 <@pagebreak 35/>
-Es war die letzte Folge weg der Lady geleisteten Der:
-Versprechens. Godalper und. Baßly kamen her und sagten ihm
-auf den Kopf zu: »Du, Kadugawa weißt, n der Lord
+Es war die letzte Folge seines der Lady geleisteten
+Versprechens. Godalper und Baßly kamen her und sagten ihm
+auf den Kopf zu: »Du, Kadugawa weißt, daß der Lord
 die Diamanten raubte! Du hast der Lady geholfen, den
 Sachverhalt zu verschleiern. Damit ist es nun aus! Wir
-werden Dich sestnchnmen, und die Behörden werden die
-Wahrheit aus Dir herauspressen!« — Da haè Kadugawa
+werden Dich festnehmen, und die Behörden werden die
+Wahrheit aus Dir herauspressen!« — Da hat Kadugawa
 eingesehen, daß das große Geheimnis nur bewahrt bleiben
 könnte, wenn Godalper und Baßly verschwänden, da hat
 er sie eben verschwinden lassen, hat die Kugel als Quittung
 erhalten und glaubte: »Nun hast Du Deinen Schwur
 beherzigt! Nun wird alles ein Geheimnis bleiben!« —
-Dann tauchten wir auf, dann fiel mein Name, dann na sah
+Dann tauchten wir auf, dann fiel mein Name, dann sah
 Kadugawa den Mann vor sich, den Lady Edith zu Hilfe
-gerufen ... vn. die Läfterzungen hier zum meinen
-gebracht wir Und da erkannte er, daß nun doch nichts
-mehr zu er ‘or daß er reden müsse, und — lieber elf
-schoß er sich, als etwas zu verraten. Du Er per
-mein Alter: in diesem Kadugawa ein
-entsinne! Es war der blinde Heroismus des »alten ihr
-den des von der Er teilweise ha ach Es
+gerufen hatte, damit die Lästerzungen hier zum Schweigen
+gebracht würden. Und da erkannte er, daß nun doch nichts
+mehr zu retten war, daß er reden müsse, und — lieber erschoß
+er sich, als etwas zu verraten. Du wirst zugeben,
+mein Alter: in diesem Kadugawa steckte ein gut Teil Heroismus!
+Es war der blinde Heroismus des halben Wilden
+des von der Kultur teilweise Angekränkelten. —
 Wo ließ er Godalper und Baßly verschwinden? Und —
 wie und wann?«
 
-fanden gl per der er Hintertür der Bambushittte,
-der Tür, Ei
+Wir standen jetzt vor der Hintertür der Bambushütte,
+vor der Tür, die in die kleine Küche führte.
 
-»Dr er und entzweiten. na Da en tropische Dom
-seltsamem Blä ttersmud; he An Von grau
-Asien sehr den Zweigen, halb
-mabend, schnatternd und en nur Mr über sinke in
-ter.
+Ueber uns wisperten und rauschten tropische Bäume
+mit seltsamem Blätterschmuck; über uns turnten graugrüne
+Affen in den Zweigen, halb zahm, daher frech und anmaßend,
+schnatternd und wild erregt über die fremden
+Gesichter.
 
-»Wann?« twiederholte Harald die sich selbst gestellte
-Tone. »Nun — jedenfalls kurz vor unserem Anlangen
-Wir hörten ja noch den Schuß — E Quittung auf
-Binnen Gerwalttat. — Und wo? — Nun, ich denke,
-es wird in der Hütte gewesen sein. Der Schuß klang ne
+»Wann?« wiederholte Harald die sich selbst gestellte
+Frage. »Nun — jedenfalls kurz vor unserem Anlangen
+hier. Wir hörten ja noch den Schuß — die Quittung auf
+Kadugawas Gewalttat. — Und wo? — Nun, ich denke,
+es wird in der Hütte gewesen sein. Der Schuß klang
 gedämpft. Er fiel nicht im Freien. — Deshalb durchsuchten
 wir die Hütte, sahen, daß der Boden aus festgestampftem
-Lehm besteht und daß diese Star nichts von geheimen
+Lehm besteht und daß diese Lehmschicht nichts von geheimen
 Türen oder dergleichen enthalten kann. — Und doch:
 irgendwo muß es in der Hütte etwas derartiges geben —
 <@pagebreak/>
 Du! Wo sind Godalper und Baßly sonst geblieben?!«
 
 Er schaute jetzt in den Küchenverschlag hinein, schaute
-mit jenem abiwefehden, Zerstreuten Eid auf den aus Lebnu
-Riegeln etwa nach europäischer Art errichteten Herd, daß
-ich genau wußte: er sieht jetzt gar nicht den Herd, er sich!
-etwas ganz anderes — irgend ein Bild, das er ich in je
-danken konstruiert hat. —
+mit jenem abwesenden, zerstreuten Blick auf den aus
+Lehmziegeln etwa nach europäischer Art errichteten Herd, daß
+ich genau wußte: er sieht jetzt gar nicht den Herd, er sieht
+etwas ganz anderes — irgend ein Bild, das er sich in Gedanken
+konstruiert hat. —
 
-Da täuschte mich.
+Ich täuschte mich.
 
-jeder ganz unvermittelt sägte er hinzu:
+Wieder ganz unvermittelt fügte er hinzu:
 
 »Der Herd ist auf Brettern aufgemauert!«
 
-»ra — auf einer Unterlage von Brettern —«
+»Ja — auf einer Unterlage von Brettern —«
 
-"— Die auf drei runden Pfählen ruht — vielleicht,
+»— Die auf drei runden Pfählen ruht — vielleicht,
 damit man den ganzen Lehmherd von der Wand bequem
 wegrollen kann. Versuchen wir es. Der Lehmboden vor
-dem Herde verrät, daß die Salzwasser noch vor kurzem
-darüber hinwegageaglitten sind. Siehst Du die breitgedriickte
-Spinne dort?. Ihr Körper ist eine feuchte, glatte Matte
-erworben. Nur die Beine bewegen sich noch. Es sind
-tustelzudungen keine Lebensäußermigen mehr. Jeden-fans:
-das Tierchen hat noch vor einer halben Stunde -
-gebellt«
+dem Herde verrät, daß die Holzwalzen noch vor kurzem
+darüber hinweggeglitten sind. Siehst Du die breitgedrückte
+Spinne dort? Ihr Körper ist eine feuchte, glatte Masse
+geworden. Nur die Beine bewegen sich noch. Es sind
+Muskelzuckungen, keine Lebensäußerungen mehr. Jedenfalls:
+das Tierchen hat noch vor einer halben Stunde
+gelebt!«
 
-Haralds logiere Augen hatten wieder einmal mehr
-erspäht als. die meinen,
+Haralds scharfe Augen hatten wieder einmal mehr
+erspäht als die meinen,
 
 Wirklich: da war außer der Spinne aus dem Lehmboden
 noch etwas wie eine breite, glatte Schramme zu
-wert bis sl bis zu der vordersten Wales fortseutel
+bemerken, die sich bis zu der vordersten Walze fortsetzte!
 
-Papas den Herd an den Vordersten,
+Harst packte den Herd an den Vorderecken.
 
-in Ruck — noch einer.
+Ein Ruck — noch einer.
 
-Und ver Herd rollte von der Wand ab und gab ein
-quadratisches Loch im Boden roh, ein Loch in der Felsplatte,
+Und der Herd rollte von der Wand ab und gab ein
+quadratisches Loch im Boden frei, ein Loch in der Felsplatte,
 auf der die Hütte stand.
 
 Haralds Taschenlampe blitzte auf. Der Lichtkegel
-tauchte in die Oeffnung ein, zeigte eine Bau:Zustellen und
-einen Schacht mal zackigen Wänden von gut acht Meter
+tauchte in die Oeffnung ein, zeigte eine Bambusleiter und
+einen Schacht mit zackigen Wänden von gut acht Meter
 Tiefe.
 
 »Eine primitive Geheimtür,« meinte Harald. »Der
-bewegliche Herd entspricht dem Bilbungsarade und der Ans.
+bewegliche Herd entspricht dem Bildungsgrade und der
 natürlichen Klugheit Kadugawas. — Steigen wir hinab —«
 
-Hoffst kletterte voran. Eine Bambusleiter ist nicht ne
-Rade für zwei Europäer berechnet.
+Harst kletterte voran. Eine Bambusleiter ist nicht gerade
+für zwei Europäer berechnet.
 
 <@pagebreak/>
 »Warte oben,« rief Harald mir zu. - »Diese Leiter
 scheint wenig fest zu sein —«
 
-ZJ wartete also, hatte auch meine Taschenlampe ein«,
-geschaltet und beobachtete Harst, der sehr vorsichtig ne
-en
+Ich wartete also, hatte auch meine Taschenlampe eingeschaltet
+und beobachtete Harst, der sehr vorsichtig
+hinabstieg.
 
 Nun war er unten, meldete sich wieder:
 
-»Hier geht es rechts weiter in die Tiefe: hier In ne
-zweite Leiter in einem neuen natürlichen Schacht. schFür-wahr
-— das reine Bergwerk! Freilich, Bad Dorf Laternen;
-liegt sehr Hob. — Du kannst mir nun folgen, mein
+»Hier geht es rechts weiter in die Tiefe: hier ist eine
+zweite Leiter in einem neuen natürlichen Schacht. Fürwahr
+— das reine Bergwerk! Freilich, das Dorf Palemkima
+liegt sehr hoch. — Du kannst mir nun folgen, mein
 Alter.«
 
-Ich tat es. — Ich stand gleich darauf neben Langst
+Ich tat es. — Ich stand gleich darauf neben Harald
 auf der Sohle des zweiten Schachtes, der sich nach Süden
-hin als breiter Besitzung fortsetzte.
+hin als breiter Felsgang fortsetzte.
 
-Harald bücke sich und hob ein Zündholz auf, besser:.
+Harald bückte sich und hob ein Zündholz auf, besser:
 den winzigen Rest eines weißen Zündhölzchens, das bis
 auf ein einen Zentimeter langes Stück abgebrannt war.
 
 Harst roch daran.
 
-»Es liegt hier erst kurze Zeit. Ich Mr Godalper
-oder Baßly haben es als Leuchte benutzt
+»Es liegt hier erst kurze Zeit. Ich glaube, Godalper
+oder Baßly haben es als Leuchte benutzt.«
 
-Er trat in den Besitzung ein, schritt weiter, fand ein
+Er trat in den Felsgang ein, schritt weiter, fand ein
 zweites Zündholz.
 
 »Wir sind auf ihrer Fährte,« sagte er nur.
 
-Wir kamen in eine niedrige Grotte, ‘die in bieten
-weiter erstreckte sich anscheinend in By Hauptrichtung
-weiter erste
+Wir kamen in eine niedrige Grotte, die in vielfachen
+Windungen sich anscheinend in westlicher Hauptrichtung
+weiter erstreckte.
 
-He 8 von 9 24. Mr hatte — Kgenäört
+Wieder ein Zündholz — abermals eins.
 
-XXX
+Nun waren es schon 24. Ich hatte mitgezählt.
 
-»Wenn die Grotte Ei je ‘Richtung beide gelangen
-wir in die Nähe der Küste,« erklärte Harald und lächelte
-sich noch dem 25. Zünnholzreft. »Ach Habe noch in keinem
-einzigen Mr über Ceylon diese Höhle erwähnt gefunden.
-Sie naht also Kadugawas alleiniges Geheimnis sein —
-eins ist x ehemalige!«
+»Wenn die Grotte diese Richtung beibehält, gelangen
+wir in die Nähe der Küste,« erklärte Harald und bückte
+sich nach dem 25. Zündholzrest. »Ich habe noch in keinem
+einzigen Buche über Ceylon diese Höhle erwähnt gefunden.
+Sie muß also Kadugawas alleiniges Geheimnis sein —
+eins seiner Geheimnisse!«
 
-nun auch klar, wie er die beiden Detektive
-ne ließ,« fuhr Harald fort. »Er hat sie in den
-Schacht gelockt und die erste Leiter dann Angler. Da
-- schoß einer der beiden auf ihn, und ja dem Schacht verstärkte
-sich der Knall des esse zu einer solchen Detonation,
+»Mir ist nun auch klar, wie er die beiden Detektive
+verschwinden ließ,« fuhr Harald fort. »Er hat sie in den
+Schacht gelockt und die erste Leiter dann hochgezogen. Da
+- schoß einer der beiden auf ihn, und in dem Schacht verstärkte
+sich der Knall des Schusses zu einer solchen Detonation,
 daß auch wir sie hörten.«
 
 <@pagebreak/>
-»So fiele: ich mir den Hergang ebenfalls vor,« nickte
-um »Findest Du nicht, daß die Luft jetzt wärmer wird?«
+»So stelle ich mir den Hergang ebenfalls vor,« nickte
+ich. »Findest Du nicht, daß die Luft jetzt wärmer wird?«
 
-wir nähern uns dem Ausgang.«
+»Ja, wir nähern uns dem Ausgang.«
 
-Harst wollte offenbar noch etwas hinzufügen
+Harst wollte offenbar noch etwas hinzufügen.
 
 Aber — es ereignete sich ganz plötzlich etwas höchst
-Seltsames: ein Mann kam » wilden Süßen die Grotte
-entlang uns entgegengestürmt, hinter ihm drein ein mäch-ziger
-Hund, ein prachtvolles 4 Axemptar von einem Auffischen
-Windhundkt
+Seltsames: ein Mann kam in wilden Sätzen die Grotte
+entlang uns entgegengestürmt, hinter ihm drein ein mächtiger
+Hund, ein prachtvolles Exemplar von einem russischen
+Windhund!
 
-Mann war Eis Eingeborener.
+Der Mann war ein Eingeborener.
 
-— kaum zehn Schritte vor uns — erreichte er,
-in Ne zur Seite verlegt, in fräftinem Sah einen
-orfpruma an der Sinken Grottenwand, schien sich Dort nie
-re und war im Moment verschwunden.
+Jetzt — kaum zehn Schritte vor uns — erreichte er,
+sich plötzlich zur Seite werfend, in kräftigem Satz einen
+Vorsprung an der linken Grottenwand, schien sich dort niederzuwerfen
+und war im Moment verschwunden.
 
-Auch der Hund hatte halt gemacht, lauerte dumpf
-und brate, uns.
+Auch der Hund hatte halt gemacht, knurrte dumpf
+und beäugte uns.
 
-erst rief ihn an, sprach zu ihn.
+Harst rief ihn an, sprach zu ihm.
 
-ie buschige Rufe des Tieres begann freundlich hin
-und der zu pendeln.
+Die buschige Rute des Tieres begann freundlich hin
+und her zu pendeln.
 
-So kam. er näher, ließ sich den Kopf fireiheln wich
-richtete sich dann. an der Wand hoch, indem er ein nerk-würdiges
-Mist! gen ließ.
+So kam er näher, ließ sich den Kopf streicheln und
+richtete sich dann an der Wand hoch, indem er ein merkwürdiges
+Winseln hören ließ.
 
-Harst wo ch halb um und meinte, während er
-eben Hund im je stiert:
+Harst wandte sich halb um und meinte, während er
+den Hund im Auge behielt:
 
-merke € raus den Vorsprung erklimmen. Es
-muß abirren eine Fortgang neben.«
+»Ich werde ebenfalls den Vorsprung erklimmen. Es
+muß dahinter eine Oeffnung geben.«
 
-eine Vermutung zu, Es war da ein schrägen
-Schacht vorhanden, der ie eine Seitengrotte führte.
-Eier Junge t. in bietet Beinen Nebenhöhle nach; elf
+Seine Vermutung traf zu. Es war da ein schräger
+Schacht vorhanden, der in eine Seitengrotte führte. Aber
+umsonst suchten wir in dieser kleinen Nebenhöhle nach einem
+Ausgang.
 
-Bin lag daher Mr Mr Hauptarotte zurück. Der
-Hund aber war nicht
+Wir kehrten daher in die Hauptgrotte zurück. Der
+Hund aber war nicht mehr da.
 
 Und wieder nach zehn Minuten hörten wir das Branden
-des »esse traten aus einer schmalen Felsspalte in
-20e Bete segelt ade einer breiten Meeresbucht hinaus,
-die van paar Felseilande nach der See hin abzog
+des Meeres, traten aus einer schmalen Felsspalte in
+das zerklüftete Gestade einer breiten Meeresbucht hinaus,
+die durch ein paar Felseilande nach der See hin abgegrenzt
+war.
 
-van Feier Wind jagte uns den Gift der Brandung
-ins Golf
+Ein frischer Wind jagte uns den Gischt der Brandung
+ins Gesicht.
 
-Roh war So nicht nötig bunte!.
+Noch war es nicht völlig dunkel.
 
 <@pagebreak/>
-Und wir beide ‘erblickten nun gleichzei kg Jenseits des
-»weißen Brandungsftceisens ein sogenanntes Auslegerboot,
-er erbt einen Nachen der a ein Pfahl behielt an dem, um
-As Kippen zu verhindern, noch befestigt war.
-gut ein zweiter Bis edel,
+Und wir beide erblickten nun gleichzeitig jenseits des
+weißen Brandungsstreifens ein sogenanntes Auslegerboot,
+das heißt einen Nachen der Eingeborenen, an dem, um
+das Kippen zu verhindern, noch ein Pfahl befestigt war,
+gleichsam ein zweiter Bootskörper.
 
-diesem Nachen saß ein Mensch — ob Mann oder
-Leib, war nicht mehr zu erkennen — und gebrauchte te
-schickt ein Paddelruder, während vorn Boote ein
-hocke: der Windhund, dessen weißes Fo durch die Dann
+In diesem Nachen saß ein Mensch — ob Mann oder
+Weib, war nicht mehr zu erkennen — und gebrauchte geschickt
+ein Paddelruder, während vorn im Boote ein Tier
+hockte: der Windhund, dessen weißes Fell durch die Dämmerung
+leuchtete wie Brandungsschaum.
 
-XXX
+Wir standen und schauten dem entschwindenden Boote
+nach.
 
-»Vielleicht Kadugawas Da »Geheimnis, irre
-Anfall. »Wichtiger | Und@t: Kollegen
+»Vielleicht Kadugawas zweites Geheimnis,« meinte
+Harald. »Wichtiger ist zunächst: wo sind die Kollegen
+Godalper und Baßly?«
 
-Dr 1 ad Da ur« Dr ich Mr ich mus
-atmenden Dunkelheit.
+Das Auslegerboot verschwand in der rasch zunehmenden
+Dunkelheit.
 
-Jenseits der ja Wen Felseilande flamante der Horizouc
-hoch in fernhalten
+Jenseits der kahlen Felseilande flammte der Horizont
+noch in feurigem Rot.
 
-Und Hange Gesicht hatte bei dieser in
-Mg Knirschen Bronceton erhalten. © sie in da:
-Den Ich glaubte, er hätte dasselbe a was
-Untat: Miß Lydia Glarnston, die rechts von
+Und Haralds Gesicht hatte bei dieser Beleuchtung einen
+förmlichen Bronceton erhalten. Ich blickte ihn fragend
+an. Ich glaubte, er hätte dasselbe gesehen, was ich
+soeben sah: Miß Lydia Glarnston, die rechts von uns
 hinter ein paar Palmen aufgetaucht war.
 
-ei Glarnstons« flüsterte ich.
+»Die Glarnston!« flüsterte ich.
 
-werfen — nicht sehen lassen!«
+»Hinwerfen — nicht sehen lassen!«
 
-XXX
-wischen sie, u Ei an ritten sich he. und Harald Langsam auf Mit Wendig zu,
+Wir lagen zwischen feuchten Steinen, schmiegten uns
+zwischen sie, und Harald kroch langsam auf Miß Lydia zu.
 
-ne den sie. R eine der Palmen auf der Uferhöhe
-€ als ein — weh
+Sie hatte sich an eine der Palmen auf der Uferhöhe
+gelehnt und — weinte!
 
-— sie hatte | ehe viel es Fett wir sie kennen
-hatten. Sie hatte ähnlich w Kadugawa für
-Edith Barnlay gekämpft und ihre Doteimtai verteidigt.
+Oh — sie hatte sehr viel geweint, seit wir sie kennen
+gelernt hatten. Sie hatte ähnlich wie Kadugawa für
+Edith Barnlay gekämpft und ihre Geheimnisse verteidigt.
 
-mus aber mal In es noch As an aber
+Und abermals schoß es mir jetzt durch den Kopf:
 
-by für oval
-reif sein, es die enden enge treu u ihr
+»Was muß diese Edith Barnlay doch für eine besondere
+Frau sein, daß diese Menschen so treu zu ihr stehen!«
 
-Ja richtete es so ein, daß wir hinter Mehr
+Ja — ich war gespannt auf Lady Edith — sehr
+gespannt! —
+
+Harst richtete es so ein, daß wir hinter die Palme
 gelangten.
 
 <@pagebreak/>
-Wir erhoben uns lautlos. Lydia Starrst knetete,
-Er wiederholt die Tränen und feiern rt
-mein Gott — mir sind sie da!«
+Wir erhoben uns lautlos. Lydia Glarnston schluchzte,
+trocknete wiederholt die Tränen und rief klagenden Tones:
+
+»O mein Gott — nun sind sie da!«
 
 <h2>2. Kapitel.</h2>
-<h3>An Erpreflerhänden.</h3>
+<h3>In Erpresserhänden.</h3>
 
 Harald machte mir ein Zeichen. Wir entfernten uns
 wieder, krochen hinter ein paar Büsche, erhoben uns und
-gen weiter landeinwärts bis zu einem einzelnen hohen
-Baume, dessen Aeste fast bis zum Boden binabreichten.
+gingen weiter landeinwärts bis zu einem einzelnen hohen
+Baume, dessen Aeste fast bis zum Boden hinabreichten.
 
 Wir erkletterten den Baum und hatten nun Lydia
 Glarnston etwa zwanzig Meter vor uns.
 
-bat das Auslegerboot beobachtet,« sagte Harst,
-als Dr oben auf einem Ast hockten. »Sie wartet, daß
-ne erben soll. Und — »*nun sich Aktie da*« —
-na Es war auf Godalper und Baßly, wette ich.«
+»Sie hat das Auslegerboot beobachtet,« sagte Harst,
+als wir oben auf einem Ast hockten. »Sie wartet, daß
+es zurückkehren soll. Und — »*nun sind sie da*« —
+das ging auf Godalper und Baßly, wette ich.«
 
-immer dunkler. Aber die ruhende Tropennacht
+Es wurde immer dunkler. Aber die nahende Tropennacht
 brachte auch das Heer der Sterne herbei, ließ den
-funkeln und [ruhen und zeigte uns weiter Lydia
+Himmel funkeln und sprühen und zeigte uns weiter Lydia
 Glarnstons schmächtige Gestalt.
 
-Es daran jetzt etwa neun Uhr abends. Miß Glarustlou
-na geduldig bis halb zehn. Dann ging sie Davon. Sie
+Es war jetzt etwa neun Uhr abends. Miß Glarnston
+wartete geduldig bis halb zehn. Dann ging sie davon. Sie
 ging wie jemand, der jeden Fuß breit Boden kennt, der
-en Weg auch im Dunkeln häufig zurückgelegt hat.
+diesen Weg auch im Dunkeln häufig zurückgelegt hat.
 
 Wir blieben hinter ihr. Und nach zehn Minuten kamen
-wir an eine weiß gestrichene Parkmauer, an ein Fjord-Gen,
+wir an eine weiß gestrichene Parkmauer, an ein Pförtchen,
 durch das Lydia Glarnston verschwunden war.
 
 »Der Barnlaysche Garten,« meinte Harald leise. »Klettern
-wir über die Mauer. Die Pforte hat ein Sicherheits-
+wir über die Mauer. Die Pforte hat ein Sicherheitsschloß.«
 
 Der Barnlaysche Garten?! Ob das wohl zutraf?
-= Allerdings, es sprach ja ehe viel für diese Annahme.
+— Allerdings, es sprach ja sehr viel für diese Annahme.
 
-a0 sagte nichts weiter. Wir schwangen uns oben auf
-He quer. er paar weit überhängende Zweige schützten
+Ich sagte nichts weiter. Wir schwangen uns oben auf
+die Mauer. Ein paar weit überhängende Zweige schützten
+uns gegen Sicht.
 
-As Euer so ‚eine Weile nebeneinander naß spähten
-den Bar hing
+Wir saßen so eine Weile nebeneinander und spähten
+in den Park hinab.
 
 <@pagebreak/>
-Hunde da sind, kann die Sache midlih werden,
-“« Tanne Harst. »Trotzdem — es muß sein! Ich
-werde zuerst ist hinabspringen.«
+»Wenn Hunde da sind, kann die Sache mißlich werden,«
+flüsterte Harst. »Trotzdem — es muß sein! Ich
+werde zuerst hinabspringen.«
 
 Seine Sorge war überflüssig gewesen. Wir erreichten
-das weiße, Iannncredie Sommerhaus, ei einen so spannten
-Monde - überdachten, breiter Veranda, ohne, jeden
-sicheren
+das weiße, langgestreckte Sommerhaus, einen sogenannten
+Bungalow mit überdachter, breiter Veranda, ohne jeden
+Zwischenfall.
 
-Vier Fenster nach vorn. heraus waren erleuchtet. Sie
+Vier Fenster nach vorn heraus waren erleuchtet. Sie
 lagen nebeneinander. Als wir uns auf die Veranda
-schlichen hatten, als wir uns nun unter dem ersten Fenster
-aufrichteten, sahen wir Godalper und Baßly- an einem
-Sosfatisch in Rohrsesseln sitzen und auf dem Bar Anes
-alten Bekannten Lord Edward Wolpoore, auf ’ ich
-Lady Barnlay in ihrer Depesche an Harst Er, hatte.
+geschlichen hatten, als wir uns nun unter dem ersten Fenster
+aufrichteten, sahen wir Godalper und Baßly an einem
+Sofatisch in Rohrsesseln sitzen und auf dem Sofa unseren
+alten Bekannten Lord Edward Wolpoore, auf den sich
+Lady Barnlay in ihrer Depesche an Harst berufen hatte.
 
 Die Vorhänge waren nicht zugezogen. Wir konnten
 die Drei in aller Ruhe beobachten. Da außerdem der eine
@@ -2020,38 +2030,38 @@ Zimmer gesessen hätten.
 Bannimoore Godalper sagte jetzt gerade zu Wolpoore:
 
 »Mylord, wir sind keine Beamten. Wären wir es,
-»würden wir hier ganz anders auftreten. Wir sind Flurs
-Detektive, die von einem Privatmann den Au egal
-ten, ihm feine Diamanten hinsehen zu beschaffen. los bar
-eben wir getan. Wir kennen daher auch die Wen Aus
-fanumenhänge, wie ich sicher betonte, und wir sind in ‘der
+würden wir hier ganz anders auftreten. Wir sind Privatdetektive,
+die von einem Privatmann den Auftrag erhielten,
+ihm seine Diamanten wieder zu beschaffen. Dies haben
+wir getan. Wir kennen daher auch die ganzen
+Zusammenhänge, wie ich schon betonte, und wir sind in der
 Lage zu beweisen, daß Lord John Barnlay die Edelsteine
 Ming Fo geraubt und daß Miß Glarnston sie mit Hilfe
-Lady Strichs und des Elefantenjägers nach Berlin brachte.«
+Lady Ediths und des Elefantenjägers nach Berlin brachte.«
 
 Lord Wohnortes hageres, vornehmes Gesicht blieb
-kühl und ablehnend,
+kühl und ablehnend.
 
-»Ming Fo verlangt jetzt also eine Neu Schmerzes
-en ihre er. »Wissen Sie auch, daß dies glatte Er]
-pressunag
+»Ming Fo verlangt jetzt also eine Million Schmerzensgeld,«
+meinte er. »Wissen Sie auch, daß dies glatte Erpressung
+ist?«
 
-»Sie irren, Mylord,« sagte der Meine Baßly recht am
-maß enden Tones. »Ming Fo hätte die Diamanten in
+»Sie irren, Mylord,« sagte der kleine Baßly recht anmaßenden
+Tones. »Ming Fo hätte die Diamanten im
 März dieses Jahres weit günstiger als heute verkaufen
-können. Er Hundert nichts als den Ersah des ihm enigan-uen
-Seminar
+können. Er fordert nichts als den Ersatz des ihm entgangenen
+Gewinnes.«
 
-»Eine es Umschreibung,« erklärte Wolpoore wie
+»Eine feine Umschreibung,« erklärte Wolpoore mit
 <@pagebreak/>
-Dreck Verachtung: »Nun, wir werden ja sehen, wie
-Lady Edith sich dazu stet. Sie muß sehr bald von ihrem
-umso Zurückreiten. Miß Glarnston ist ihn nach
+deutlicher Verachtung: »Nun, wir werden ja sehen, wie
+Lady Edith sich dazu stellt. Sie muß sehr bald von ihrem
+Spaziergang zurückkehren. Miß Glarnston ist ihr nachgeeilt.«
 
-[leicht ist Lady Barnlay bei Kadugawa,« meinte
-Basıh »spöttisch Bei dem berühmten Elefantenjäger, der
-uns ich Schacht hin abstieß, dieser — heimtückische Ha
-bunte! der die Beulen, die wir uns geschlagen Lade
+»Vielleicht ist Lady Barnlay bei Kadugawa,« meinte
+Baßly spöttisch. »Bei dem berühmten Elefantenjäger, der
+uns in den Schacht hinabstieß, dieser — heimtückische Halunke!
+Nun, die Beulen, die wir uns geschlagen haben,
 wird er teuer bezahlen müssen!«
 
 »Wohl auch mit einer Million,« warf Wolpoore
@@ -2059,314 +2069,323 @@ trocken hin.
 
 Da brauste Godalper auf:
 
-»Mylord, wir sind keine Erpresser! Ach verbitte mir
-diese »Anzüglichkeiten. Wir handeln im Auftrage des Chinesen
+»Mylord, wir sind keine Erpresser! Ich verbitte mir
+diese Anzüglichkeiten. Wir handeln im Auftrage des Chinesen
 — nichts weiter. Wenn Lady Barnlay nicht in einer
 halben Stunde hier ist, werden wir den ganzen Sachverhalt
-chFnspektor Biberston unterbreiten, und Ming Fo wird
-seine er im Wege der Zwillinge ach
-wütend machen.«
+Inspektor Biberston unterbreiten, und Ming Fo wird
+seine Schadenersatzansprüche im Wege der Zivilklage geltend
+machen.«
 
 »Sie vergessen, daß Lord John tot ist und daß er
-röche nichts besaß. Alles, was Barnlayscher Besitz ist, gemeiner
-Gattin. Lord John hat als leidenschaftlicher
-viele sogar einen Teil des Barvermö wo feiner Frau
-verbraucht. u Das ist alles hier in Kolombo öffentliches
+selbst nichts besaß. Alles, was Barnlayscher Besitz ist, gehört
+seiner Gattin. Lord John hat als leidenschaftlicher
+Spieler sogar einen Teil des Barvermögens seiner Frau
+verbraucht. Das ist alles hier in Kolombo öffentliches
+Geheimnis.«
 
-Ne — und noch mehr als das!« höhnte Baßly in bissigen
+»Ja — und noch mehr als das!« höhnte Baßly in bissiger
 Ironie.
 
-Sie spielen auf das alberne Gerede an, daß Lauscht
-ganz unschuldig an Lord Paß hat Tod sein
-Wen. ¡nur Wolpoore nun mit so eisiger Verachtung, daß
+»Oh, Sie spielen auf das alberne Gerede an, daß Lady
+Edith ganz unschuldig an Lord Johns Tod sein
+soll.« sagte Wolpoore nun mit so eisiger Verachtung, daß
 die beiden Kollegen da drinnen vor Wut die Hände zu
-häuften Merke. »Wir wissen, daß Harald
-hier ist. Er wird beweisen, was — *Sie* nicht beweisen
+Fäusten zusammenkrampften. »Wir wissen, daß Harald
+Harst hier ist. Er wird beweisen, was — *Sie* nicht beweisen
 können!« fügte unser Freund Edward mit erhobener
-Ottomane hinzu
+Stimme hinzu.
 
-Sanskrit Mr Die internationale Berühmtheit!«
-Mr euch gelingen, ie Wahrheit ne verfahren.«
-As Ad engen, solcher
+»Harst — Harst! Die internationale Berühmtheit!«
+rief Baßly. »Na — uns kann er nicht imponieren. Auch
+ihm wird es nicht gelingen, die Wahrheit zu vertuschen.«
 
-Wolpoore ölte eine te hochmütige
+Wolpoore machte eine unnachahmlich hochmütige
 Handbewegung.
 
 <@pagebreak/>
-»Ich verzichte zu e »Sei ebung dieses Gesprächs,«
-sagte er. »Handeln ie wollen. Lady so
-wird ja allerdings wo Tag Million bezahlen, um die
+»Ich verzichte auf die Fortsetzung dieses Gesprächs,«
+sagte er. »Handeln Sie, wie Sie wollen. Lady Edith
+wird ja allerdings wohl die Million bezahlen, um die
 Ehre des Namens Barnlay zu retten.«
 
 Er erhob sich und schritt der Tür zu.
 
-»Aha — wird bezahlen!« höhnte Des Fischers Zahlt
-wieder
+»Aha — wird bezahlen!« höhnte der frechere Baßly
+wieder.
 
-Godalper meinte: »Natürlich wird sie be
-He Sonst könnte na Abtun werden aus
-zusagen, wo er sich in der Nacht befand, als Lord Wohin
-ermordet wurde und als man per den Kopf abgelegt
-en Verbrechen einen noch geheimisvolleren Ratte
-neben —«
+Und auch Godalper meinte: »Natürlich wird sie bezahlen!
+Sonst könnte Kadugawa gezwungen werden auszusagen,
+wo er sich in der Nacht befand, als Lord John
+ermordet wurde und als man ihm den Kopf abschnitt, um
+dem Verbrechen einen noch geheimnisvolleren Anstrich zu
+geben —«
 
-Wolpoore hatte die Tür zum Nebenzimmer hinter Mich
-Dr geschlossen
+Wolpoore hatte die Tür zum Nebenzimmer hinter sich
+bereits geschlossen
 
-Baßly und »Godalper rücken jetzt mit ihren Sesseln
-sag Es na er By an allildien
+Baßly und Godalper rücken jetzt mit ihren Sesseln
+näher aneinander und flüsterten eifrig.
 
-Harald frech auf allen Vieren dem Neu Neues
-zu, froh weiter bis zum dritten Fenster, das zu den
+Harald kroch auf allen Vieren dem nächsten Neues
+zu, kroch weiter bis zum dritten Fenster, das zu dem
 Nebenzimmer gehörte.
 
-ch folgte ihn. Auch hier waren die Wort an
-Und Fiel saß Lydia Glarnston in einem Beiboot
-zu Wolpoore empor, der vor ihr stand und »he
-Miesvreen schien.
+Ich folgte ihn. Auch hier waren die Vorhänge offen.
+Und hier saß Lydia Glarnston in einem Seidensessel und
+schaute zu Wolpoore empor, der vor ihr stand und ihr
+Mut zuzusprechen schien.
 
-hatte ihre beiden Hände in die seinen genommen
-und Er er Tau, War, nicht Antwort Seen. Nu
+Er hatte ihre beiden Hände in die seinen genommen
+und nickte ihr aufmunternd zu.
 
-müssen An mich ‘Mit Lydiás u n aweintäl Oh
+Was er sagte, war nicht zu verstehen. Nur in den
+kurzen Antworten Miß Lydias kam zweimal Harsts Name
+vor.
 
-Dann sprach Mit Glarnston Bin. en paar Süße,
-worauf Lord Edward anscheinend Sann »unangenehmste
-überrascht Mehrten! und jetzt lauter er!
+Dann sprach Mit Glarnston leise ein paar Sätze,
+worauf Lord Edward anscheinend aufs unangenehmste
+überrascht zurücktrat und jetzt lauter erklärte:
 
-»Unter diesen Umständen werde recht »meiner Frau
-Folgen, die ige auf meine on Najade Bergen eben
-fl. Empfehlen Sie mich bitte Lady Edith, Miß Training
-he Vers tun Haus sofort verlassen. ein. Gewehr
-den.
+»Unter diesen Umständen werde ich meiner Frau
+folgen, die bereits auf meine Jacht Najade übergesiedelt
+ist. Empfehlen Sie mich bitte Lady Edith, Miß Glarnston.
+Ich werde das Haus sofort verlassen. Mein Gepäck
+wird abgeholt werden.«
 
-Er x verneinte sich sehr knapp und Ei ging durch die zweite
-Tür, die in den Flur führte,
+Er verneinte sich sehr knapp und ging durch die zweite
+Tür, die in den Flur führte, hinaus.
 
-Miß Lydia arg die Tränen reichlich über die Wangen.
+Miß Lydia rannen die Tränen reichlich über die Wangen.
 <@pagebreak/>
 Sie bot ein Bild trostlosester Verzweiflung dar.
 
-o abermals« dachte ich:
+Und abermals dachte ich:
 
-As muß doch diese Lady Edith für eine berüdende
-Persönlichkeit je, By 2 Lydia Glarnston all dies streiten
-Fo ich
+»Was muß doch diese Lady Edith für eine berückende
+Persönlichkeit sein, daß Lydia Glarnston all dies ihretwegen
+auf sich nimmt!«
 
-Tiefe Wen wurden jedoch scharf durch die dreht
-riefe Frage verdrängt: »Was mochte die Glarnston
-Edward anvertraut haben? Was trieb ihn jetzt aus
+Diese Gedanken wurden jedoch schnell durch die weit
+wichtigere Frage verdrängt: »Was mochte die Glarnston
+Lord Edward anvertraut haben? Was trieb ihn jetzt aus
+dem Hause?« —
 
-am der Ei mich am Aermel.
+Harald zupfte mich am Aermel.
 
-Wir müssen uns dort hinter den Palmenkübeln versetze,
-‘tl flüsterte er. »Wenn Wolpoore das Haus Berliner
-wir bemerkt werden. Wolpoore wird uns
-ne ter das »die schon mitteilen. Es iﬅ mir sehr lieb,
-Jae Najade hier im Hafen liegt.«
+Wir müssen uns dort hinter den Palmenkübeln verbergen,«
+flüsterte er. »Wenn Wolpoore das Haus verläßt,
+können wir bemerkt werden. Wolpoore wird uns
+später das Nötige schon mitteilen. Es ist mir sehr lieb,
+daß seine Jacht Najade hier im Hafen liegt.«
 
-schlug untreu hinter die auf der Veranda flehenden
-an » übel und warteten, bis der Lord, von einem
+Wir schlüpften hinter die auf der Veranda stehenden
+riesigen Kübel und warteten, bis der Lord, von einem
 braunen Diener begleitet, die Veranda überschritten hatte,
-noch zwar dem Hauptwege nach der Raffinierte zu verschwand
+und auf dem Hauptwege nach der Parkpforte zu verschwunden
+war.
 
 Der Diener kehrte sehr bald zurück.
 
-Nun wir unseren Lauscherposten unter dem
-Morsen Der Eine, iwo ‘Baßly und Godalper saßen,
+Nun durften wir unseren Lauscherposten unter dem
+Fenster des Zimmers, wo ‘Baßly und Godalper saßen,
+wieder beziehen.
 
-By« Tritt. lange aus Lady Strichs Ersetzt
+Wir brauchten nicht lange auf Lady Ediths Erscheinen
+zu harren.
 
-her des großen Erwuchs tat ich auf,
-ha Zwang he strebende Schmarre ne Ad
+Die Flurtür des großen Gemachs tat sich auf, und
+eine schlanke Frau, ganz in fließende schwarze Seide gekleidet,
+trat ein.
 
-zu: So iibötterend, Echo Wendend schön
-hatte ein. ist vorgestell
+Ich gebe zu: So imponierend, so berückend schön
+hatte ich sie mir nicht vorgestellt!
 
-Sie war noch fang; a fünfundzwanzig Jahre
-Sie hatte wundervolles aschblondes ‘Haar,
-Negligee dunkle langbewimperte Augen und ebenso starke
-alle Bog
+Sie war noch jung; etwa fünfundzwanzig Jahre
+schätzte ich. Sie hatte wundervolles aschblondes Haar,
+große dunkle langbewimperte Augen und ebenso starke
+dunkle Brauen.
 
 Die Marmorblässe ihres Gesichts wurde durch das
-schwarze Kleid mit dem hohen Spibenfragen noch stärker
-Lachen.
+schwarze Kleid mit dem hohen Spitzenkragen noch stärker
+unterstrichen.
 
 Godalper und Baßly waren bei ihrem Eintritt rasch
+aufgestanden.
 
 <@pagebreak/>
-Sie neigte zur Begrüßung Links merkflich das Blonde
+Sie neigte zur Begrüßung kaum merklich das blonde
 Haupt, schritt auf einen dritten Sessel zu, schob ihn lässig
-näher an den Tisch heran und fette Dich.
+näher an den Tisch heran und setzte sich.
 
-»Sie verlangen also eine Million e begann sie sofort:
-»Wir wollen die Angelegenheit schnell erledigen. en.
-malen das Gelb haben.. Ich werd Je en einen Scheck
-die Indra Bank in Bombay
+»Sie verlangen also eine Million,« begann sie sofort.
+»Wir wollen die Angelegenheit schnell erledigen. Sie sollen
+das Gelb haben. Ich werde Ihnen einen Scheck für
+die Indra Bank in Bombay geben.«
 
-»Noch einen Augenblick, platt. sagte Godalper Tal:
-»Lord Wolpoore nannte uns Erpresser. Wir sind: alles
-Taue Aderenden na
+»Noch einen Augenblick, Mylady,« sagte Godalper da.
+»Lord Wolpoore nannte uns Erpresser. Wir sind alles
+andere als das. Wir —«
 
-andere als Bei | interessier rt mich nicht. Ming Fo Hat die.
-Diamanten By platten und bekommt noch eine ik
-Million dazu. nen beiden. werde ich Bau.
-Sterling na als — Schmerzensgeld für
-Schacht geben.
+»Das alles interessiert mich nicht. Ming Fo hat die
+Diamanten zurückerhalten und bekommt noch eine
+Million dazu. Ihnen beiden werde ich fünftausend Pfund
+Sterling als — Schmerzensgeld für den Sturz in den
+Schacht geben.«
 
-Baßilys bei Gesicht hätte jetzt mit Ohrfeigen.
-Anker N werden müssen
+Baßlys grinsendes Gesicht hätte jetzt mit Ohrfeigen
+bepflastert werden müssen.
 
-»Mylady,« sagte er mit scheinbarer D wir.
-nen uns, Sie darauf aufmerksam machen, daß
-unseren Freund Schneller hier in Kolombo zu cücfgelassen
-hatten, damit er hier beobachtete, was die — die
-Genauen taten.«
+»Mylady,« sagte er mit scheinbarer Höflichkeit, »wir
+gestatten uns, Sie darauf aufmerksam machen, daß wir
+unseren Freund Godweller hier in Kolombo zu zurückgelassen
+hatten, damit er hier beobachtete, was die — die beteiligten
+Personen taten.«
 
-wirkte. Lady Edith zuckte merklich zusammen.
+Das wirkte. Lady Edith zuckte merklich zusammen.
 
-»Jedenfalls hat unser Freund und Kollege Schneller
-folgendes am 12, September nachts ein Uhr vier 55 Kai
-Garn verließ seine Hütte mit eine Um;
-Süden, in bog ein ody Fo Gebet volle arg
-trug den zu Umwegen 4 »7
-den Garten. Als abweisen dann auch seinerzeit
-Gartenmauer überklettert hatte, standen Sie, Mir Sog, las
-der Veranda mit Kadugawa unter einem Baume in sie
-erregtem Gespräch. Sie hielten ahnten großen auffischen
-Windhund am Halsband. Dann kehrten Sie lud Haus
+»Jedenfalls hat unser Freund und Kollege Godweller
+folgendes am 12. September nachts ein Uhr gesehen. Kadugawa
+verließ seine Hütte mit einem Sack auf dem
+Rücken, in dem offenbar ein menschlicher Körper sich befand.
+Er trug den Sack auf Umwegen hierher — also hier in
+den Garten. Als Godweller dann auch seinerseits die
+Gartenmauer überklettert hatte, standen Sie, Mylady, vor
+der Veranda mit Kadugawa unter einem Baume in
+erregtem Gespräch. Sie hielten Ihren großen russischen
+Windhund am Halsband. Dann kehrten Sie ins Haus
 zurück, während der Elefantenjäger den Hund nahm und
 den Garten durchstreifte, um lästige Zeugen, die vielleicht
-anwesend sein könnten, aufzustöbern. o mußte denn auch
-Godwweller An Garten schleunigst Frage, Mrs der Hund
-ihn nicht witterte. Am Morgen wurde Ihres Marter
-Leiche ohne Kopf im tiefsten Winkel des Partei an
-Ostmaner entdeckt.«
+anwesend sein könnten, aufzustöbern. So mußte denn auch
+Godwweller den Garten schleunigst verlassen, damit der Hund
+ihn nicht witterte. Am Morgen wurde Ihres Gatten
+Leiche ohne Kopf im tiefsten Winkel des Parkes an der
+Ostmauer entdeckt.«
 
 <@pagebreak/>
-Lady Edith hatte das blonde Haupt in die Linke ne
-ht und die Augen bedeckt. Man sah deutlich, daß ins
-wer wieder ein Zittern ihren Körper überflog.
+Lady Edith hatte das blonde Haupt in die Linke gestützt
+und die Augen bedeckt. Man sah deutlich, daß immer
+wieder ein Zittern ihren Körper überflog.
 
 Nun hob sie den Kopf und sagte tonlos:
 
-Ich — Ich werde auch Binnen beiden einen Scheck
-über eine Million ausftlellen. Mein Guthaben auf der schZ1n-dia
+Ich — ich werde auch Ihnen beiden einen Scheck
+über eine Million ausstellen. Mein Guthaben auf der India
 Bank beträgt genau zwei Millionen. Dann — dann
-behalte ich nichts als die, »Golby-Plantage und dieses
-Haus. Sind Sie Zufrieden?«
+behalte ich nichts als die, Golby-Plantage und dieses
+Haus. Sind Sie zufrieden?«
 
 Godalper und Baßly regten sich nicht. Sie wollten
 ja angeblich nichts erpressen, diese Halunken! Sie schwiegen,
 damit der Schein bewahrt bliebe.
 
 Lady Edith ging zum Schreibtisch, schaltete hier die
-Lampe ein und füllte zwei Scheckfornulare aus.
+Lampe ein und füllte zwei Scheckformulare aus.
 
-vorlog reichte ie dieselben nun Godalper und deute
-dann auf die
+Wortlos reichte sie dieselben nun Godalper und deutete
+dann auf die Tür.
 
-Die EnOßrennäkker prüften erst sehr umständlich
-bevor. sie triumphierend davongingen.
+Die beiden Ehrenmänner prüften erst sehr umständlich
+die Schecks, bevor sie triumphierend davongingen.
 
 <h2>3. Kapitel.</h2>
 <h3>Auf der Motorpinasse.</h3>
 
-einen hatten wir den Garten verlassen, Wir
-standen 4 her Steg ‚B erspähen der Dauptplorte und
-tief Mine, bis Gödbälpeïr und Baäßly
-Teer ren.
+Noch vor ihnen hatten wir den Garten verlassen. Wir
+standen auf der Straße gegenüber der Hauptpforte und
+warteten im Schatten der Bäume, bis Godalper und Baßly
+vorüber waren.
 
-Bann läutete Harald nach einer Weile an der Pforte.
+Dann läutete Harald nach einer Weile an der Pforte.
 
 Ein Diener erschien und führte uns in die Vorhalle
-Grabes Bungalow. Er sollte uns Lady Edith melden, kehrte
+des Bungalow. Er sollte uns Lady Edith melden, kehrte
 nun mit folgendem Bescheid zurück:
 
-»Mylady bedauert, die Herren stirbt empfangen zu können,
-und Der Mr. Harst diesen u. —
+»Mylady bedauert, die Herren nicht empfangen zu können,
+und sendet Mr. Harst diesen Brief.« —
 
-schlugen den Weg nach der Stadt ein, nachdem
+Wir schlugen den Weg nach der Stadt ein, nachdem
 der Diener uns bis zur Hauptpforte geleitet hatte.
 
 Harald blieb dann stehen. Der Mond war längst
-ausgegangen.
+aufgegangen.
 
-E las den Brief, reichte ihn mir dann.
+Er las den Brief, reichte ihn mir dann.
 
 <@pagebreak/>
 > Sehr geehrter Mr. Harst!
 
-Besondere Umstände zwingen mich, Neu (0e Trüber
-geradezu undanfkbar zu erscheinen. Ich e verglich,
-diese ganze Angelegenheit ruhen zu allen
-Ihnen feine Frage beantworten, die Sie an in 5 hier
-würden. sich werde mein Sommer baue und meine VP
-plane verlaufen und mir eine neue Heimat suchen. Mag
-man in Kolombo »As Agra, daß ich mit schuld an
-Dem Tode. meines Gatten sei: mir ist dies Gerede recht
-gleichgültig! Der treue Fadugawa ist tot, und, Wenn
-Sie noch um eins bitten bürste, I sorgen Sie dafür, da
-an fein freiwilliges Ende nicht rede geholt
-werden, die mir Dosierungen Peru könnten. As
-weiß, daß Sie als reicher Mann — Erftattun na Sitten
-Reisekoffer ablehnen würden. - Ich werde neue
-26 He in Kolombo dreitausend Blank
+> Besondere Umstände zwingen mich, Ihnen gegenüber
+geradezu undankbar zu erscheinen. Ich bitte Sie herzlich,
+diese ganze Angelegenheit ruhen zu lassen. Ich könnte
+Ihnen keine Frage beantworten, die Sie an mich richten
+würden. Ich werde mein Sommerhaus und meine Plantage
+verkaufen und mir eine neue Heimat suchen. Mag
+man in Kolombo auch annehmen, daß ich mit schuld an
+dem Tode meines Gatten sei: mir ist dies Gerede recht
+gleichgültig! Der treue Kadugawa ist tot, und, wenn ich
+Sie noch um eins bitten dürfte, so sorgen Sie dafür, daß
+an sein freiwilliges Ende nicht Vermutungen geknüpft
+werden, die mir Dosierungen verursachen könnten. Ich
+weiß, daß Sie als reicher Mann jede Erstarrung Ihrer
+Reisekosten ablehnen würden. - Ich werde deshalb dem
+Waisen hause in Kolombo dreitausend Pfund als Spende
 zugehen lassen.
 
-Seien Sie überzeugt, bat ich Ihrer stets in Danïbar-jeit
-mich erinnern wer
+> Seien Sie überzeugt, daß ich Ihrer stets in Dankbarkeit
+mich erinnern werde.
 
 > Ihre Edith Barnlay.
 
-Nachdem ich den Brief gelesen e rieb Harald er
-Feuerzeug an und DEOFEENNIE. ihn bis auf den Fo.
+Nachdem ich den Brief gelesen hatte, rieb Harald sein
+Feuerzeug an und verbrannte ihn bis auf den letzten Rest.
 
-»Nun zur Najade!« meinte er. 7 olpgore
+»Nun zur Najade!« meinte er. »Wolpoore dürfte
 wach sein. Ich muß ihn sprechen.«
 
-Wir trafen einen Wagen, der uns bis zum 608
+Wir trafen einen Wagen, der uns bis zum Hafen
 brachte. Ein Boot setzte uns nach der Jacht über.
 
-Lord Wohnortes neue Motoryacht Zugabe war eines
-elegantesten Luftfahrzeuge, das ich he betreten habe.
-Der Lord und feine Gattin Seeartige saßen noch im Sag
-on. Als die Deckwache uns angemeldet hatte, kam Wolpoore
-uns die Treppe empor entgegengeeilt, Beschloß By
-in feine Arme und führte uns bocherfzeut in den
-wo Lady Seeartige uns nicht minder herzlich begrüßte
+Lord Wohnortes neue Motoryacht Najade war eines
+der elegantesten Lustfahrzeuge, das ich je betreten habe.
+Der Lord und seine Gattin Geraldine saßen noch im Salon.
+Als die Deckwache uns angemeldet hatte, kam Wolpoore
+uns die Treppe empor entgegengeeilt, schloß Harald
+in seine Arme und führte uns hocherfreut in den Salon,
+wo Lady Geraldine uns nicht minder herzlich begrüßte.
 
-Dann ließ der Lord schnell für uns einen zzumpbiß hew-richten.
-Die Lady utschuldigte sich bald und Jeu sich Anrede
-Sie Merke wohl, daß Harz ‚ihren Gatten allein
-sprechen wollte
+Dann ließ der Lord schnell für uns einen Imbiß herrichten.
+Die Lady entschuldigte sich bald und zog sich zurück.
+Sie merkte wohl, daß Harald ihren Gatten allein
+sprechen wollte.
 
-»Wolpoore, eine Frage,« begann Harst denn auch ja
-fort. »Weshalb verließen Sie so plötzlich den Bungalow
-Roh Bombays?«
+»Wolpoore, eine Frage,« begann Harst denn auch sofort.
+»Weshalb verließen Sie so plötzlich den Bungalow
+Edith Barnlays?«
 
 <@pagebreak/>
-¿Ab — Sie haben mich und Miß Glarnston derb
+»Ah — Sie haben mich und Miß Glarnston beobachtet?«
 
-»Fo, Wolpoore.«
+»Ja, Wolpoore.«
 
-»Nun, Miß Lydia sagte zu mir, als ich sie glättete,
-denn ich war ja von Lady Edith als Sohne alter Freund
+»Nun, Miß Lydia sagte zu mir, als ich sie tröstete,
+denn ich war ja von Lady Edith als Johns alter Freund
 in alles eingeweiht worden: »Mylord,« sagte sie mit
-gen Lippen, »trösten Sie nicht! Hier gibt es feinen
-Rost! Hier gibt es weit mehr Geheimnisse, als Sie und
+zuckenden Lippen, »trösten Sie nicht! Hier gibt es keinen
+Trost! Hier gibt es weit mehr Geheimnisse, als Sie und
 ich ahnen! Edith — hat uns belogen, glaube ich! Sie
-weiß mehr über den Tod Sohne, als sie selbst mir verraten
+weiß mehr über den Tod Johns, als sie selbst mir verraten
 hat!« Dabei blickte Lydia Glarnston mich mit Augen
-in denen ein förmliches Grauen lag, lieber Harst! Ich
+an, in denen ein förmliches Grauen lag, lieber Harst! Ich
 las in diesen Augen eine furchtbare Anklage gegen Edith.«
 
 Harald schüttelte langsam den Kopf.
 
 »Lieber Wolpoore, Sie vermuten hier etwas völlig
-Arg Es ist gut, daß ich jetzt darüber unterrichtet bin,
-ß Lady Edith selbst Lydia Glarnston nicht in alles
-eingeweiht bat. Lord Kahn Barnlay ist — gar nicht tot!«
+Falsches. Es ist gut, daß ich jetzt darüber unterrichtet bin,
+daß Lady Edith selbst Lydia Glarnston nicht in alles
+eingeweiht hat. Lord John Barnlay ist — gar nicht tot!«
 
 Wolpoore starrte Harst ungläubig an.
 
@@ -2375,94 +2394,99 @@ gekommen sei, daß Lady Edith hier nur mit Hilfe
 Kadugawas einen Mord vorgetäuscht habe.
 
 »Aber — aber John — Lord Barnlay?! Ob dieser
-unselige Mensch, dieser durch den Spielteufel völlig Ent-aleiste,
-damit einverstanden gewesen ist«
+unselige Mensch, dieser durch den Spielteufel völlig Entgleiste,
+damit einverstanden gewesen ist?«
 
 »Das ist freilich eine noch offene Frage, lieber Wolpoore.«
 
-nein
+»Inwiefern?«
 
 »Weil die Möglichkeit vorliegt, daß man ihn auch
 gewaltsam aus Kolombo entfernt hat.«
 
 »Also Edith und Kadugawa?«
 
-Ja — die beiden.«
+»Ja — die beiden.«
 
-»cm — und der Tote ohne Kopf?«
+»Hm — und der Tote ohne Kopf?«
 
 »Auch dessen Persönlichkeit wird zu ermitteln sein.
-Der e von Ahnen, Wolpoore, nun einiges über die
-Barnlay Ehe erfahren.«
+Ich möchte von Ihnen, Wolpoore, nun einiges über die
+Barnlaysche Ehe erfahren.«
 
-te As ich weiß — gern! Lady Edith ist die
-einzige Tochter des verstorbenen Planlos?ubesivers Ref-field,
+»Bitte. Was ich weiß — gern! Lady Edith ist die
+einzige Tochter des verstorbenen Plantagenbesitzers Reffield,
 der sehr reich war. Sie hat Barnlay aus Liebe geheiratet.
-Er selbst besaß nur seinen Lordtitel und fein
+Er selbst besaß nur seinen Lordtitel und sein
 <@pagebreak/>
-hübsches Gesicht und seine alle Welt! bezaubernden Umgangsformen.
-Die Ehe war zuerst überaus glückt
-Dann gewöhnte John sich das Spielen an. Da war
-mit dem Glück aus. Er soll von ne Vermögen
-drei bis vier Millionen vertrat haben. Wir, Seeartige und
+hübsches Gesicht und seine alle Welt bezaubernden Umgangsformen.
+Die Ehe war zuerst überaus glücklich.
+Dann gewöhnte John sich das Spielen an. Da war’s
+mit dem Glück aus. Er soll von Lady Ediths Vermögen
+drei bis vier Millionen verjeut haben. Wir, Geraldine und
 ich, ahnten hiervon nichts. John hatte uns schon längst
-eingeladen, und am 9. in a trafen wir hier ein,
-fanden aber sehr ungemütliche Verhältnisse in dem Barn-layscheu
+eingeladen, und am 9. September trafen wir hier ein,
+fanden aber sehr ungemütliche Verhältnisse in dem Barnlayschen
 Bungalow vor.«
 
-E, À Glauben Sie, daß Lady. Edith ihren Mann noch
-Lebt » ¡
+»Glauben Sie, daß Lady Edith ihren Mann noch
+liebt?«
 
-»Ohne Zweifelt«
+»Ohne Zweifel!«
 
-»Dann — dann leihen Sie uns wohl für biete Nacht
-Dichte Motorpinasse, lieber Wolpoore,«
+»Dann — dann leihen Sie uns wohl für diese Nacht
+Ihre Motorpinasse, lieber Wolpoore.«
 
-Motorpinaflet — Gewiß!« — Er mochte nicht fragen,
-wozu Harst sie gebrauchte. Aber man sah« ihm anu, daß
-Frage ihm auf der Zunge brannte,
+»Motorpinasse? — Gewiß!« — Er mochte nicht fragen,
+wozu Harst sie gebrauchte. Aber man sah ihm an, daß
+die Frage ihm auf der Zunge brannte.
 
-Harald alle lebt unser Abenteuer in der Grotte,
-È quitt von Kadugawas Hütte bis zu jener Meeresbucht
-rang.: î
+Harald erzählte jetzt unser Abenteuer in der Grotte,
+die sich von Kadugawas Hütte bis zu jener Meeresbucht
+hinzog.
 
-»ich dachte zuerst, daß der Hund den Mann verfolgte,
-der in der Grotte auf uns anlief,« fuhr Harald nun fort.
-»Das stimmte nicht, »Mann und Hund waren gut Freund.
+»Ich dachte zuerst, daß der Hund den Mann verfolgte,
+der in der Grotte auf uns zulief,« fuhr Harald nun fort.
+»Das stimmte nicht. Mann und Hund waren gut Freund.
 Der Mann ist dann durch die Nebengrotte irgendwie in
 die Haupthöhle zurück gelangt, hat den Hund mitgenommen
-Amt kehrte zum Strande der Bucht zurück, woher er auch
+und kehrte zum Strande der Bucht zurück, woher er auch
+gekommen war.«
 
-See mehr gute ne
+Jetzt meldete ich mich.
 
 »Dann war es auch derselbe Mensch der nachher im
-Auslegerboot saß,« meinte ich las.
+Auslegerboot saß,« meinte ich rasch.
 
-»Er muß es wohl gewesen sein,« nickte Harald. »Diebe
+»Er muß es wohl gewesen sein,« nickte Harald. »Dieses
 Auslegerboot, lieber Wolpoore, steuerte auf die kahlen
-In begrenzt wird, S9 kam es uns aus den Augen
+Feldeilande zu, von denen die Bucht nach der offenen See
+zu begrenzt wird. So kam es uns aus den Augen.«
 
-um na wollen Sie mit der Motorpinasse die Java
+»Und nun wollen Sie mit der Motorpinasse die Inseln
+besuchen?«
 
-»Ja, Wolpoore. Ach möchte *genau* wissen, wer der
-Erlag war ja Goß Barnlay als ‘Ein
-geborener verkleidet. — Zweitens? es kann zu Lady Edith
+»Ja, Wolpoore. Ich möchte *genau* wissen, wer der
+Mann im Auslegerboot war. Es gibt da zwei Möglichkeiten.
+Erstens: es war Lord John Barnlay, als Eingeborener
+verkleidet. — Zweitens: es kann auch Lady Edith
 <@pagebreak/>
 gewesen sein, ebenfalls verkleidet und mit einer braunen,
-völlig hautähnlihen Gazemaske vor dem Gesicht. Solche
-Musiker gibt es bekanntlich. Daß es die Lady gewesen sein
-spricht der Anstand, daß Lydia Glarnston
-nachher am Buchtgestade erschien. ihr sogenannter Span
-= arg so spät abends muß doch wohl ganz bestimmte
+völlig hautähnlichen Gazemaske vor dem Gesicht. Solche
+Masken gibt es bekanntlich. Daß es die Lady gewesen sein
+kann, dafür spricht der Umstand, daß Lydia Glarnston
+nachher am Buchtgestade erschien. Ihr sogenannter Spaziergang
+so spät abends muß doch wohl ganz bestimmte
 Gründe gehabt haben. Kadugawa sprach von Geheimnissen.
-Ich glaube, daß das seltsamste Geheimnis, weh
-Baches mit der Person des Elefantenjägers und den Ereignissen
+Ich glaube, daß das seltsamste Geheimnis, welches
+mit der Person des Elefantenjägers und den Ereignissen
 vorher zusammenhängt, uns noch völlig verborgen
+ist.«
 
 Haralds scharfgeschnittenes, energisches Gesicht hatte
-wieder jenen Verbat Innen Ausdruck angenommen,
-als ob er nicht mit den Gehörorganen, sondern mit feinen
-nimmermiden Gedanken in weite Fernen hiueinhorhte. —
+wieder jenen geistesabwesenden Ausdruck angenommen,
+als ob er nicht mit den Gehörorganen, sondern mit seinen
+nimmermüden Gedanken in weite Fernen hineinhorchte. —
 
 »Harst, tun Sie mir einen Gefallen,« bat er. »Nehmen
 Sie mich mit!«
@@ -2473,167 +2497,166 @@ drei. Wer weiß, was wir finden, wer — weiß —!«
 Das klang ebenso düster wie geheimnisvoll.
 
 Wolpoore ging seiner Gattin Bescheid sagen, daß er
-und begleiten wolle, und auch Befehl geben, daß die Pfennige
+uns begleiten wolle, und auch Befehl geben, daß die Pinasse
 mit genügend Benzin versehen würde.
 
-Gleich darauf machte die schlanke Winzige knatternd
+Gleich darauf machte die schlanke Pinasse knatternd
 von der Jacht los.
 
 Harald steuerte. Wolpoore bediente den Motor. Das
 elegante Boot hatte vorn eine kleine Kajüte und war aus
 dunkel poliertem Mahagoniholz gebaut.
 
-Ein es erkaltet hielt uns an der Molenspive
-an. Es wird in Kolombo recht viel geschmuggelt. Wohnortes
-Name genügte. Wir dursten weiter.
+Ein Hafenpolizeikutter hielt uns an der Molenspitze
+an. Es wird in Kolombo recht viel geschmuggelt. Wolpoores
+Name genügte. Wir durften weiter.
 
 Die Nacht war nicht mehr so hell als vorhin. Der
-Himmel hatte sich leicht bewölkt. Eine drückende Schule
-Gerte über der nur leicht bewegten See. Von Westen
-der eine schwarze Wolkenbank auf.
+Himmel hatte sich leicht bewölkt. Eine drückende Schwüle
+lagerte über der nur leicht bewegten See. Von Westen
+her zog eine schwarze Wolkenbank auf.
 
 Ich lehnte neben Harald am Steuer und blickte über
-das finstere, grau schwarz erscheinende Wasser hin. Auch
-Wolpoore kam nach achtern und Weinte:
+das finstere, grauschwarz erscheinende Wasser hin. Auch
+Wolpoore kam nach achtern und meinte:
 
 »Der Motor arbeitet tadellos. Es gibt ein Unwetter.«
-Er deutete na Weiten.
+Er deutete nach Westen.
 
 <@pagebreak/>
 »Ein Gewitter,« nickte Harst.
 
-Da flog auch Schon das erste grelle Leuchten über die
-MWolkenwand hin, in deren Mitte für den Bruchteil einer
-Sekunde die Aidzadlinie eines Bildes zu sehen war.
+Da flog auch schon das erste grelle Leuchten über die
+Wolkenwand hin, in deren Mitte für den Bruchteil einer
+Sekunde die Zickzacklinie eines Blitzes zu sehen war.
 
 »Wie haben es nicht weit,« meinte Harald. »Wenn
 wir die Halbinsel dort umrundet haben, müssen wir die
 Felseneilande bereits bemerken. — Wolpoore, löschen Sie
 bitte die Positionslaternen aus und schließen Sie die Tür
-des Maschinenkasiens. Wir wollen auch noch Decken darüber
+des Maschinenkastens. Wir wollen auch noch Decken darüber
 legen, damit das Arbeiten des Motors nicht so stark
 und weit gehört wird.«
 
 Die in der Luft lastende elektrische Spannung und
 die Aussicht auf ein Abenteuer besonderer Art erzeugten
-bei mir jene Schwer zu unterdrüdende Erregung, von der
+bei mir jene schwer zu unterdrückende Erregung, von der
 nur Harst bei solchen Gelegenheiten nie etwas verspürt.
 
-Auch Wolpoore, dem ich beim Bedecken des Motor
-Gartens half, sagte zu mir:
+Auch Wolpoore, dem ich beim Bedecken des Motorkastens
+half, sagte zu mir:
 
-»Wissen Sie, Schraut, diese Nacht Fordert wieder so
+»Wissen Sie, Schraut, diese Nacht prickelt wieder so
 angenehm die Nerven wie — wie —« — Er fand nicht
-so sckchwell einen richtigen Vergleich.
+so schnell einen richtigen Vergleich.
 
-Dann auch schon Harsts Stimmen
+Dann auch schon Harsts Stimme:
 
-Starren — sofort starren!«
+»Stoppen — sofort stoppen!«
 
-Wolpoore blöde sich und riß den Hebel ha. Der
+Wolpoore bückte sich und riß den Hebel hoch. Der
 Motor verstummte.
 
-»Zum Teufel, was gibt’s?« fragte der Lord,
+»Zum Teufel, was gibt’s?« fragte der Lord.
 
-Arzt hatte ein Nactglas vor den Augen. Die Pier
-nasse war soeben um die Spitze der bewaldeten Halbinsel
-Gonlaxatsch| herumaealitten. Co Er
+Harst hatte ein Nachtglas vor den Augen. Die Pinasse
+war soeben um die Spitze der bewaldeten Halbinsel
+Gontaratschi herumgeglitten.
 
-Rechts von uns, etwa tausend Meter Satze erblicke
-ten wir jetzt beim Aufzucken eines neuen Bildes die Reihe
-der kahlen, zerklüfteten Eilande vor der tief ins Land eins
-schneidenden Bucht.
+Rechts von uns, etwa tausend entfernt, erblickten
+wir jetzt beim Aufzucken eines neuen Blitzes die Reihe
+der kahlen, zerklüfteten Eilande vor der tief ins Land einschneidenden
+Bucht.
 
-Das Licht des fernen Bildes hatte aber auch genügt,
-mir ein Fahrzeug zu zeigen, das vor dem mittelsten Ehe
-Land lag — ein Schrift mit qw Masten. —
+Das Licht des fernen Blitzes hatte aber auch genügt,
+mir ein Fahrzeug zu zeigen, das vor dem mittelsten Eiland
+lag — ein Schiff mit zwei Masten. —
 
-Harald erwiderte jetzt auf Wohnortes Frage:
+Harald erwiderte jetzt auf Wolpoores Frage:
 
 »Der Schoner dort vor dem Eiland signalisiert mit
 einer grünen Laterne —«
 
-— jetzt sehe ich’s auch!« meinte der Lord. »Es
-werden Schmuggler fein.«
+»Ah — jetzt sehe ich’s auch!« meinte der Lord. »Es
+werden Schmuggler sein.«
 
 <@pagebreak/>
 »Hm — vielleicht,« murmelte Harst. »Werfen Sie den
 Motor wieder an, Wolpoore. Wir werden uns mit der
-Krauste hier - dicht am Nordufer der Halbinsel entlangschleichen,
+Pinasse hier dicht am Nordufer der Halbinsel entlangschleichen,
 in die Bucht einlaufen und das Eiland von der
-gegossenen See abgelehnten Seite betreten.«
+der offenen See abgekehrten Seite betreten.«
 
 »Also das Eiland, vor dem der Schoner ankert? Was
-acht uns das Schiff an?“.
+geht uns das Schiff an?«
 
-Vielleicht sehr Pfeil —«
+»Vielleicht sehr viel —«
 
-Der Lord ließ den Motor an. ch war neben Ha«
-Halb geblieben.
+Der Lord ließ den Motor an. Ich war neben Harald
+geblieben.
 
 »Es ist dasselbe Eiland, auf das der Auslegernachen
 zusteuerte,« sagte Harald kurz.
 
-verstand: er brachte bereits den Schoner, das
+Ich verstand: er brachte bereits den Schoner, das
 Eiland und das Auslegerboot nebst Insassen miteinander
 in Verbindung.
 
-»Der Schoner dürfte ein Bestand teil von Kadugawas
+»Der Schoner dürfte ein Bestandteil von Kadugawas
 größtem Geheimnis sein,« fügte er hinzu.
 
-Ach blickte in die finstere Nacht hinaus.
+Ich blickte in die finstere Nacht hinaus.
 
 Da — drüben auf dem Schoner erschien wieder ein
-anstieg grünes Licht, das hin und her geschwenkt wurde.
+grelles grünes Licht, das hin und her geschwenkt wurde.
 
-Harald drückte die Winzige dicht am Ufer der Halbinsel
+Harald drückte die Pinasse dicht am Ufer der Halbinsel
 entlang.
 
 »Werft noch die Notsegel über den Motorkasten,« sagte
 er. »Sonst verrät das Knattern uns zu früh.«
 
-ein neuer Blitz verriet uns, daß der Schoner vor dem
-ausstehenden [| feinen Ankerplatz wechselte und
-um das Eiland herum das Innere der Bucht Garn,
+Ein neuer Blitz verriet uns, daß der Schoner vor dem
+aufziehenden Unwetter seinen Ankerplatz wechselte und
+um das Eiland herum das Innere der Bucht aufsuchte.
 
-»Es trieb einen gehörigen Planlosen geben,« meinte
+»Es wird einen gehörigen Platzregen geben,« meinte
 Wolpoore, als wir nun sogar den Teppich aus der Kajüte
 über den Motorkasten legten. Nur die Abzuglöcher für
 die Dämpfe ließen wir frei.
 
 Dann mußte einer von uns nach vorn, um besser Ausschau
 halten zu können. Die Finsternis lastete um uns her
-wie fhimarze Schleier. Der Lord stand an der Spitze der
-Winzige und rief mir die Weisungen halblaut zu, die ich an
-Harst Weideland. Wir fuhren alte noch mit halber Kraft.
+wie schwarze Schleier. Der Lord stand an der Spitze der
+Pinasse und rief mir die Weisungen halblaut zu, die ich an
+Harst weitergab. Wir fuhren nur noch mit halber Kraft.
 Und auch das war bei dieser Dunkelheit beinahe Leichtsinn.
 
-Ein brütenden Windstoß fegte jetzt über die See hin.
-Ein Bündel von Bilden zuckte auf.
+Ein heulender Windstoß fegte jetzt über die See hin.
+Ein Bündel von Blitzen zuckte auf.
 
-Da: war dicht vor uns das- südlichste der Eilande.
+Dann war dicht vor uns das südlichste der Eilande.
 <@pagebreak/>
-Harald steuerte zwischen ihm und der Halbinsel hi
-Enge Minuten folgten. Wenn es hier Riffe gab, wenn
-wir auf ein solches Riff ausliefen, war die sie ver
-ren
+Harald steuerte zwischen ihm und der Halbinsel hindurch.
+Bange Minuten folgten. Wenn es hier Riffe gab, wenn
+wir auf ein solches Riff aufliefen, war die Pinasse verloren.
 
-Nichts sei
+Nichts geschah.
 
-Wieder Tollste. Wir Bares im nein der.
-ht.
+Wieder ein paar Blitze. Wir waren im Inneren der
+Bucht.
 
-Und dort links lag sieht der Schoner dicht Ufer
-des Eilandes; dort blinkten ein paar Laternen. denke
+Und dort links lag jetzt der Schoner dicht am Ufer
+des Eilandes; dort blinkten ein paar Laternen. Huschende
 Lichter eilten hierhin und dorthin.
 
-Ein ohrbetäubenden Donnerschlag jetzt.
+Ein ohrbetäubender Donnerschlag jetzt.
 
-Und Harald packte meinen Arm, deutete nach nebst
-— nach der Bucht zu
+Und Harald packte meinen Arm, deutete nach rechts
+— nach der Bucht zu.
 
-Ich sah das Außlenerbost Und darin darin [As —
-der prachtvolle, ne: riesige russische indhund.
+Ich sah das Auslegerboot. Und darin darin saß — nur
+der prachtvolle, langhaarige riesige russische Windhund.
 
 Auch Wolpoore hatte das Boot bemerkt.
 
@@ -2641,322 +2664,331 @@ Auch Wolpoore hatte das Boot bemerkt.
 
 »Schon gut. Wir werden es holen —«
 
-Im Nu hatte er die Oberkleider und 5 Schuhe abgereist
-ließ armes Wasser gleiten, befahl nur roh:
-È nächsten E im Schuhe des Steilufers an!«
+Im Nu hatte er die Oberkleider und Schuhe abgestreift,
+ließ sich ins Wasser gleiten, befahl nur noch: »Legt
+am nächsten Eiland im Schutze des Steilufers an!«
 
-Dann E im Wasser, als es zu regnen begann.
+Kaum war im Wasser, als es zu regnen begann.
 Es war eine Sintflut, ein richtiger tropischer Platzregen.
-Es schüttete wie aus Eimern herab,
+Es schüttete wie aus Eimern herab.
 
-elfte Fahrt sei Wolpoore hatte den Motor
-bestellt. Kai lautlos glitt die
-roh die en 0 Ha ich Diele Ha das
-glänzenden Wassermassen nicht Das
-ne unmerflicher Lichtschein eng uns
-Schattierung.
+Ich steuerte jetzt. Wolpoore hatte den Motor auf
+schwächste Fahrt gestellt. Fast lautlos glitt die Pinasse
+durch das Toben des Unwetters dem Eilande zu. Selbst
+die Blitze durchdrangen mit ihrer Lichtflut diese Vorhänge
+der stürzenden Wassermassen nicht mehr. Nur noch ein
+ganz unmerklicher Lichtschein gestattete uns die Orientierung.
 
-Der Lord stand mit dem Bootshafen ganz vorn und
-wollte einen Anprall gegen Er Steilufer verbllten.
+Der Lord stand mit dem Bootshaken ganz vorn und
+wollte einen Anprall gegen das Steilufer verhüten.
 
 Dann ein leichter Ruck.
 
-Traue zu eure den Mrs E Ÿ
+Ich sprang zu, stellte den Motor ab.
 
-Gatten den ren Liege noch alten
-über uns die steil aus dein Meere auf steige er
-die na leicht wölbte. Wir hörten den tterfturm
-den brüsten des Eilandes Heulen. Wir waren er
-verdauten die Fragile an ein paar Vorsprüngen und gingen
+Wir hatten den sicheren Liegeplatz erreicht, hatten
+über uns die steil aus dem Meere aufsteigende Felswand,
+die sich leicht wölbte. Wir hörten den Gewittersturm in
+den Klüften des Eilandes heulen. Wir waren geborgen,
+vertäuten die Pinasse an ein paar Vorsprüngen und gingen
 <@pagebreak/>
 in die Kajüte, wo wir die Fensterläden und die Vorhänge
 dicht schlossen und dann erst Licht machten.
 
-sah nach der Uhr.
+Ich sah nach der Uhr.
 
-war zwei Uhr morgens.
-
+Es war zwei Uhr morgens.
 
 <h2>4. Kapitel.</h2>
 <h3>Im Buddhatempel.</h3>
 
 Lord Wolpoore zog den nassen Gummimantel aus.
-Auch ich warf den in rot ab, den ich zu Beginn des Regens
-Ans
+Auch ich warf den Oelrock ab, den ich zu Beginn des Regens
+übergestreift hatte.
 
-»Hai Er den zwei Jahren, seit ich ihn zum
-leben Male ie auch LL die Spur verändert,« He
-der Lord und nahm auf denn Wandsofa Brust. »Er ist,
+»Harst hat sich in den zwei Jahren, seit ich ihn zum
+letzten Male sah, auch nicht die Spur verändert,« meinte
+der Lord und nahm auf dem Wandsofa Platz. »Er ist,
 scheint’s, noch jünger und beweglicher geworden. — Wenn
 er nur erst mit dem Auslegerboot wieder hier wäre,« fügte
-er etwas besorgt hinzu. »Die Haie Reben ja diese Abschied
-E Buchten nicht, obwohl —
+er etwas besorgt hinzu. »Die Haie lieben ja diese abgeschiedenen
+Buchten nicht, obwohl —«
 
-die Winzige fchiwantie..
+Da — die Pinasse schwankte.
 
 Es mußte jemand sich an der Reling hochgezogen
+haben.
 
-Je Diner e Tür ein wo
+Ich öffnete die Tür ein wenig.
 
-fünf — reger Werk, wollte die
-Tier u Ei er in Den riesigen ver
-Zeit
+Und — sah fünf — sechs braune Kerle, wollte die
+Tür wieder zudrücken, wurde von einem riesigen Inder
+mit großem Turban beiseite gestoßen.
 
-»R Angreifer Waren nahen lackierten mit an
-vöólvern umher, Weber óbton uns mit ihren dolchähnlichen
-Messern und machten doch ans den Trockene, als ob ihnen
-ihre Rolle als Banditen, Schnuiggler oder dergleichen nicht
-lag.
+Die Angreifer waren bewaffnet, fuchtelten mit Revolvern
+umher, bedrohten uns mit ihren dolchähnlichen
+Messern und machten doch ganz den Eindruck, als ob ihnen
+ihre Rolle als Banditen, Schmuggler oder dergleichen nicht
+recht lag.
 
-Es waren im ganzen sechs von diesen e msgeteann
-fdmatternden Burschen, die liebt alle auf einmal uns mit
+Es waren im ganzen sechs von diesen aufgeregten,
+schnatternden Burschen, die jetzt alle auf einmal uns mit
 Fragen bestürmten.
 
-Wolpoore war mit echt kritischem Phlegma auf dem
-Wandsofa sitzen geblichen, lächelte die Bande an und
+Wolpoore war mit echt britischem Phlegma auf dem
+Wandsofa sitzen geblieben, lächelte die Bande an und
 rauchte friedlich seine Zigarre weiter.
 
 Mir kam es ganz so vor, als ob die sechs vor uns weit
 mehr Angst hatten als wir vor ihnen. Schließlich, nachdem
 <@pagebreak/>
-ich neben Wolpoore Plus genommen hatte, pflanzte
-sich der riesige Kerl mit d mierinen ‚roten Turban war
-13 auf und »ran Zeit fließendem Englisch:
+ich neben Wolpoore Platz genommen hatte, pflanzte
+sich der riesige Kerl mit dem schmierigen roten Turban vor
+uns auf und sagte in recht fließendem Englisch:
 
-Wer seid
+»Wer seid Ihr?«
 
 Das hatten wir ihnen nun bereits einige Male erklärt:
 Leute aus Kolombo, die vor dem Unwetter mit
-Motorpinasse hierher geflüchtet sehen!
+der Motorpinasse hierher geflüchtet seien!
 
-wiederholte es also nochanals.
+Ich wiederholte es also nochmals.
 
-Male beugte sich vor.
+Der Riese beugte sich vor.
 
-»ihr seid Polizeibeamte! he habt ihn wverhastet
-a. und auflauern]«
+»Ihr seid Polizeibeamte! Ihr habt ihn verhaftet
+und wollt uns auflauern!«
 
-wurde stutzig.
+Ich wurde stutzig.
 
-n« verhaftet — »ihn«?! Was hieß das?!
+»Ihn« verhaftet — »ihn«?! Was hieß das?!
 
-Ich mußte an Haralds Worte denken, daß John re
-sah vielleicht einen neuen. Streich geplant und daß Lud
+Ich mußte an Haralds Worte denken, daß John Barnlay
+vielleicht einen neuen Streich geplant und daß Lady
 Edith dieses Vorhaben vielleicht verhindert hätte.
 
-Sollten diese braunen Burschen Verbündete Bombays
+Sollten diese braunen Burschen Verbündete Barnlays
 sein, die vielleicht von der Küste Vorderindiens mit dem
-Schoner herübergekommen: waren?! —
+Schoner herübergekommen waren?! —
 
-antwortete Wolpoore schon;
+Da antwortete Wolpoore schon:
 
-Mr Sir A *nicht* Polizeibeamte! Was ich sage, iﬀ
-die Wahrte
+»Wir sind *nicht* Polizeibeamte! Was ich sage, ist
+die Wahrheit.«
 
 Seine ganze Art machte auf den Riesen offenbar
+Eindruck.
 
 Die sechs berieten sich leise.
 
 Dann sagte der Lange wieder:
 
-»Wir müssen Euch fesseln ad mitnehmen. Nachher
-erbe! he wieder freigelassen. Aber der, den wir eben
-von gefangen haben, ist He neu Toter aha werden
+»Wir müssen Euch fesseln und mitnehmen. Nachher
+werdet ihr wieder freigelassen. Aber der, den wir eben
+schon gefangen haben, ist ein Polizeibeamter. Ihn werden
 wir ersäufen. Es ist ein Spion. Ihr werdet schwören,
-daß by und nickt Krieg
+daß Ihr uns nicht verratet.«
 
 Der andere?! Etwa Harald?!
 
-Deshalb fragte ich scheinbar As
+Deshalb fragte ich scheinbar gleichgültig:
 
-»Das ist na in dem Hunde
+»Das ist wohl der mit dem Hunde?«
 
-he denn
+»Ah — Ihr kennt ihn?«
 
-¿Wir » saßen en Mann in einem Auslegerboot,
-in dem zu
+»Wir sahen vorhin einen Mann in einem Auslegerboot,
+in dem auch ein Hund saß.«
 
-Der Riese .. An das »ist der Spion. Er hatte
-*seinen* Hund mich x betonte das »Feinen« roch
-wer
+Der Riese nickte. »Ja, das ist der Spion. Er hatte
+*seinen* Hund mit —« Er betonte das »seinen« recht
+merklich.
 
 <@pagebreak/>
 
-Nun mußte ich es ja: Barnlay hatte mit diesen braunen
+Nun wußte ich es ja: Barnlay hatte mit diesen braunen
 Piraten tatsächlich gemeinsame Sache gemacht! Und
 Harald befand sich in der Gewalt dieser Kerle, befand sich
-wahrscheinlich auf dem Schienen!
+wahrscheinlich auf dem Schoner!
 
-»Nichts konnte mir lieber sein, als wenn die Halunken
+Nichts konnte mir lieber sein, als wenn die Halunken
 uns gleichfalls dorthin brachten.
 
-Ich Direkte also meine Hände aus und sagte:
+Ich streckte also meine Hände aus und sagte:
 
-»Da — fesselt mich! Wir sind feine Beamten!«
+»Da — fesselt mich! Wir sind keine Beamten!«
 
-Auch Wolpoore faßte die Situation durchaus humo-ristisch
+Auch Wolpoore faßte die Situation durchaus humoristisch
 auf und meinte:
 
 »Bitte — auch meine Handgelenke stehen zur Verfügung!«
 
-Eile Kerle hatten im Fesseln ohne Zweifel einige
+Die Kerle hatten im Fesseln ohne Zweifel einige
 Uebung.
 
 Und — als wir nun wirklich wehrlos waren und als
-der lange Bursche in Rosiger Brieftasche, die er sehr rasch
+der lange Bursche in meiner Brieftasche, die er sehr rasch
 nach irgend etwas durchsuchte, meinen Ausweis nebst
-Lichtbild und den vielen Stempeln gesunder hatte, da
-kann’s mit denn Humor vorbei.
+Lichtbild und den vielen Stempeln gefunden hatte, da
+war’s mit denn Humor vorbei.
 
 Er hielt nur den Ausweis unter die Nase und brüllte,
-während ein neuer Donner die Kajütenfenster Klirren
-e:
+während ein neuer Donner die Kajütenfenster klirren
+machte:
 
 »Doch ein Polizist — ein Detektiv! Ah — Ihr habt
-gelogen! Uhr habt uns doch aufagelauert!«
+gelogen! Ihr habt uns doch aufgelauert!«
 
-Sein Gesicht verzerrte sich plötzlich vor jäh aujlodern-ut.
+Sein Gesicht verzerrte sich plötzlich vor jäh auflodernder
+Wut.
 
-Er setzte mir den Dolch, ein Prachtstück von altertüu-licher
+Er setzte mir den Dolch, ein Prachtstück von altertümlicher
 Waffe, auf die Kehle, drückte mich gegen die Rücklehne
-des Sofas und brüllte Roh lauter:
+des Sofas und brüllte noch lauter:
 
 »Weißer Hund, elender Giaur (Ungläubiger), wo
 haltet Ihr *ihn* gefangen? Sprich — oder ich stoße zu!«
 
 Der Kerl war jetzt gefährlich.
 
-Buch werde Dir es auf dem Schoner sagen« erklärte
-in »Es ist ein großes Geheimnis. Kadugawa ist
-oh, Und —
+»Ich werde Dir es auf dem Schoner sagen,« erklärte
+ich rasch. »Es ist ein großes Geheimnis. Kadugawa ist
+tot, und —«
 
-ch hatte mehr auf gut Glück den Namen des Elefantenjägers
-erwähnt. Ki
+Ich hatte mehr auf gut Glück den Namen des Elefantenjägers
+erwähnt.
 
-Aber — die Wirkung war stärker, als ich es he vermutet
+Aber — die Wirkung war stärker, als ich es je vermutet
 hätte.
 
 Der lange Bursche prallte zurück.
 
 <@pagebreak/>
-all mich na. in noch Co Sag
+»Tot?!« murmelte er, als ob er sich erst besinnen
+müßte, was das Wort bedeutete.
 
-da. E Er hat sich selbst erschossen,« sagte. ich sehr be
+»Ja. Er hat sich selbst erschossen,« sagte ich sehr bestimmt.
 
-Tee See Sag er,
+Der Riese starrte mich an.
 
-auch n »in
+»Lügst Du auch nicht?« meinte er zögernd.
 
-raten wollte. Er erschoß sich, weil — vor
+»Nein. Er erschoß sich, weil — weil er nichts verraten
+wollte.«
 
-Da schüttelte der braune Gestalt den Kopf, wir
-den anderen fünf und trat: mit Ihnen auf die. Treppe bin
+Da schüttelte der braune Goliath den Kopf, winkte
+den anderen fünf und trat mit Ihnen auf die Treppe hinaus,
+wo sie eifrig flüsterten.
 
-Dann nahmen As je vor der Daxhlten in hie Mitte
-By brachen uns in ein an der Pinafl € Steg in d Ruderboot,
+Dann nahmen uns je zwei der Banditen in die Mitte
+und brachten uns in ein an der Pinasse vertäutes Ruderboot,
 
-Das Boot schoß nur so dahin, erreiäte bald das
-Mittelste Eiland und bog hier unweit des M Platzes des
-Schoners bei noch immer strömendem Ne eine ganz
-enge Einfahrt ein, die wir ein Kanon I hoben stellen
+Das Boot schoß nur so dahin, erreichte bald das
+mittelste Eiland und bog hier unweit des Liegeplatzes des
+Schoners bei noch immer strömendem Regen in eine ganz
+enge Einfahrt ein, die wie ein Kanon mit hohen steilen
 Wänden in mehrfachen Krümmungen sich bis zur Mitte
-der Felseninsel fortieute.
+der Felseninsel fortsetzte.
 
-Hier legte das Boot an einer Steinplatte an, Au um
-unserem Staunen flimmerte über der Steinplatte ein großer,
-Ging halbireisförmiger leck: die erleuchtete Oeffnung
+Hier legte das Boot an einer Steinplatte an. Zu
+unserem Staunen schimmerte über der Steinplatte ein großer,
+etwa halbkreisförmiger Fleck: die erleuchtete Oeffnung
 eines in das Gestein sich hinein ziehenden Ganges.
 
-Man half uns an 1 He Steinplatte und weiter in
-Gang, der etwa zwei Meter hoch um stellenweise zu
-Maurer war. Nach vielleicht zwanzig Meter Erweiterte
+Man half uns auf die Steinplatte und weiter in den
+Gang, der etwa zwei Meter hoch und stellenweise ausgemauert
+war. Nach vielleicht zwanzig Meter erweiterte sich
 der Gang zu einer kreisrunden Halle. Die grell bemalten
-Göpenftatuen, die plumpen Reliefbilder und anderes heraus,
-daß wir uns in einem Höhlentempel befanden.
+Götzenstatuen, die plumpen Reliefbilder und anderes verrieten
+uns, daß wir uns in einem Höhlentempel befanden.
 
-Und — hier — saß, vom Li mehrerer Bahnsteigen
+Und — hier — saß, vom Lichte mehrerer Schiffslaternen
 beschienen, auf einer großen Holzkiste an Armen und
-Beinen vielfach gefesselt Karat ‘nach in triefenden Uns
-terfleidern. ug Er Herr ihm saß — der prachtvolle,
+Beinen vielfach gefesselt Harald Harst in triefenden
+Unterkleidern. Und dicht neben ihm saß — der prachtvolle,
+riesige russische Windhund.
 
-in außerdem noch vier andern
-en« en »Fo ab ehe Seemannstr Bau
-beiden he Kg + See Ei wir Sockel einer
-Fand grau ihre Beqladzer pomadig Da
+Hier befanden sich aber außerdem noch vier andere
+Leute, darunter zwei Europäer in Seemannstracht. Diese
+beiden lehnten in einer Ecke am Sockel einer Buddhafigur
+und rauchten als stille Beobachter pomadig ihre kurzen
+Pfeifen.
 
 <@pagebreak/>
-Der lange Kerl trat jetzt vor Harst bin und fuhr ihn
+Der lange Kerl trat jetzt vor Harst hin und fuhr ihn
 an:
 
 »Weißer Hund, Du hast gelogen! Du warst nicht allein!
-Da sind die beiden anderen! — Wo habt Uhr ihn
+Da sind die beiden anderen! — Wo habt Ihr ihn
 eingesperrt — wo?! Ich werde Dir die Füße rösten, wenn
 Du nicht die Wahrheit sagst!«
 
-Bau wandte den Kopf. Ich nickte ihm zu. ch Hatte
+Harald wandte den Kopf. Ich nickte ihm zu. Ich hatte
 bereits dem Riesen gegenüber halb und halb zugegeben,
 daß wir wüßten, wer »er« war.
 
-- »Wenn Du Lord John Barnlay meinst,« sagte Harst
-sehr gelassen, »so kann ich Dir nicht verraten, wo er sich belog
-ich es selbst nicht weiß. Wann habt Ihr ihn
-zum lebten Mal gesprochen?«
+»Wenn Du Lord John Barnlay meinst,« sagte Harst
+sehr gelassen, »so kann ich Dir nicht verraten, wo er sich befindet,
+da ich es selbst nicht weiß. Wann habt Ihr ihn
+zum letzten Mal gesprochen?«
 
-»Vor sechs Wochen. Heute wollte er hier fein —
-heute in dieser. Nacht. Uhr habt ihn gefangen nenonumen!«
+»Vor sechs Wochen. Heute wollte er hier sein —
+heute in dieser Nacht. Ihr habt ihn gefangen genommen!«
 
 Der Kerl sprach jetzt mit so unheimlicher Ruhe und
 in so verbissener Wut, daß man jeden Moment mit einer
-Genialität rechnen konnte.
+Gewalttat rechnen konnte.
 
-Harald schabte die Stimumng dieses langen
+Auch Harald schätzte die Stimmung dieses langen
 braunen Banditen richtig ein, denn er erklärte nun in
-freundschaftlich überreden dem Tone:
+freundschaftlich überredendem Tone:
 
 »Du kannst uns glauben. Wir wissen nicht, wo er
 ist. Er soll ermordet worden sein. Liest Du keine Zeitungen?
 Es hat in allen Blättern gestanden.«
 
-Topf näherten sich die beiden weißen Seeleute, kräftige,
+Jetzt näherten sich die beiden weißen Seeleute, kräftige,
 bärtige Männer mit verschlagenen Gesichtern.
-Der eine sagte, ohne die Pfeife aus cm Mundwinkel
+
+Der eine sagte, ohne die Pfeife aus dem Mundwinkel
 zu nehmen:
 
 »Uns geht die Geschichte hier nichts an. Wir sind
-mit unserem Schoner für eine Krachtfahrt verpflichtet morden.
-Aber, hör’ mal, Makuro,« wandte er an den Langem,
-was dieser Master da behauptet, stimmt: in der Zeitung
+mit unserem Schoner für eine Frachtfahrt verpflichtet worden.
+Aber, hör’ mal, Makuro,« wandte er an den Langen,
+»was dieser Master da behauptet, stimmt: in der Zeitung
 stand, daß Lord John Barnlay ermordet worden ist! Und
-¿war vor reichlich drei Wochen. Du kannst wahrscheinlich
-lesen, Makuro. Daher hast Du von Lord Bangalore
-auch feine Ahnung. Diese drei Herren können ihn
+zwar vor reichlich drei Wochen. Du kannst wahrscheinlich
+nicht lesen, Makuro. Daher hast Du von Lord Barnlays
+Tod auch keine Ahnung. Diese drei Herren können ihn
 also gar nicht gefangen genommen haben.«
 
-Walküre blickte Harald nachdeukllih an.
+Makuro blickte Harald nachdenklich an.
 
 »Auch Kadugawa soll tot sein,« meinte er. »Und —
-4s war doch Kaduagawas Geheimnis, behauptete der Lord.
+es war doch Kaduagawas Geheimnis, behauptete der Lord.«
 
 <@pagebreak/>
 Dann schwieg er wieder. Seine braunen Untergebenen
-er war ja zweifellos der Anführer) braut. sich um ihn.
+(er war ja zweifellos der Anführer) drängten sich um ihn.
 In ihren Mienen las man nichts als schwere Enttäuschung.
 
-Auch Makler schien jetzt Aehnliches zu empfinden und
-war außerordentlich unsicher und verlegen, wie er ich nun
-uns gegenüber benehmen sollte, die Sir doch offenbar uns
-Kamera nicht vergriffen hatten, da er ja ermordet woran.
+Auch Makuro schien jetzt Aehnliches zu empfinden und
+war außerordentlich unsicher und verlegen, wie er sich nun
+uns gegenüber benehmen sollte, die wir doch offenbar uns
+an Barnlay nicht vergriffen hatten, da er ja ermordet worden
+war.
 
-Dann fragte er Harald in ganz anderem Tones
+Dann fragte er Harald in ganz anderem Tone:
 
-Sahib, wer ermordete den Lord?«
+»Sahib, wer ermordete den Lord?«
 
-Hie Antwort kam nicht von Harst.
+Die Antwort kam nicht von Harst.
 
 Nein — sie kam aus dem Felsengange.
 
 <h2>5. Kapitel.</h2>
-<h3>Die drei Kollegen blamieren ich.</h3>
+<h3>Die drei Kollegen blamieren sich.</h3>
 
 Und diese Antwort war der scharfe Befehl:
 
@@ -3200,7 +3232,7 @@ wegen Erpressung. John Barnlay wurde zu einem Zahl
 Torheit verurteilt, die er auch verläßt hat. Er lebt
 mit seiner Frau unter anderem Namen in Australien.
 
-Kadugawas Goldschäge stehen im Museuny in Kolombo,
+Kadugawas Goldschätze stehen im Museuny in Kolombo,
 wo sie jeder besichtigen kann.
 
 Das Auslegerboot a Lord Wolpoore als Andenken
