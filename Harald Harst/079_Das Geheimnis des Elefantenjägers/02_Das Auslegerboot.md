@@ -80,7 +80,7 @@ Lehm besteht und daß diese Lehmschicht nichts von geheimen
 Türen oder dergleichen enthalten kann. — Und doch:
 irgendwo muß es in der Hütte etwas derartiges geben —
 <@pagebreak/>
-Du! Wo sind Godalper und Baßly sonst geblieben?!«
+muß! Wo sind Godalper und Baßly sonst geblieben?!«
 
 Er schaute jetzt in den Küchenverschlag hinein, schaute
 mit jenem abwesenden, zerstreuten Blick auf den aus
@@ -109,9 +109,9 @@ das Tierchen hat noch vor einer halben Stunde
 gelebt!«
 
 Haralds scharfe Augen hatten wieder einmal mehr
-erspäht als die meinen,
+erspäht als die meinen.
 
-Wirklich: da war außer der Spinne aus dem Lehmboden
+Wirklich: da war außer der Spinne auf dem Lehmboden
 noch etwas wie eine breite, glatte Schramme zu
 bemerken, die sich bis zu der vordersten Walze fortsetzte!
 
@@ -187,7 +187,7 @@ eins seiner Geheimnisse!«
 »Mir ist nun auch klar, wie er die beiden Detektive
 verschwinden ließ,« fuhr Harald fort. »Er hat sie in den
 Schacht gelockt und die erste Leiter dann hochgezogen. Da
-- schoß einer der beiden auf ihn, und in dem Schacht verstärkte
+schoß einer der beiden auf ihn, und in dem Schacht verstärkte
 sich der Knall des Schusses zu einer solchen Detonation,
 daß auch wir sie hörten.«
 
@@ -335,7 +335,7 @@ Glarnstons schmächtige Gestalt.
 
 Es war jetzt etwa neun Uhr abends. Miß Glarnston
 wartete geduldig bis halb zehn. Dann ging sie davon. Sie
-ging wie jemand, der jeden Fuß breit Boden kennt, der
+ging wie jemand, der jeden Fußbreit Boden kennt, der
 diesen Weg auch im Dunkeln häufig zurückgelegt hat.
 
 Wir blieben hinter ihr. Und nach zehn Minuten kamen
@@ -391,7 +391,7 @@ Lage zu beweisen, daß Lord John Barnlay die Edelsteine
 Ming Fo geraubt und daß Miß Glarnston sie mit Hilfe
 Lady Ediths und des Elefantenjägers nach Berlin brachte.«
 
-Lord Wohnortes hageres, vornehmes Gesicht blieb
+Lord Wolpoores hageres, vornehmes Gesicht blieb
 kühl und ablehnend.
 
 »Ming Fo verlangt jetzt also eine Million Schmerzensgeld,«
@@ -476,14 +476,14 @@ geben —«
 Wolpoore hatte die Tür zum Nebenzimmer hinter sich
 bereits geschlossen
 
-Baßly und Godalper rücken jetzt mit ihren Sesseln
+Baßly und Godalper rückten jetzt mit ihren Sesseln
 näher aneinander und flüsterten eifrig.
 
 Harald kroch auf allen Vieren dem nächsten Fenster
 zu, kroch weiter bis zum dritten Fenster, das zu dem
 Nebenzimmer gehörte.
 
-Ich folgte ihn. Auch hier waren die Vorhänge offen.
+Ich folgte ihm. Auch hier waren die Vorhänge offen.
 Und hier saß Lydia Glarnston in einem Seidensessel und
 schaute zu Wolpoore empor, der vor ihr stand und ihr
 Mut zuzusprechen schien.
@@ -505,7 +505,7 @@ ist. Empfehlen Sie mich bitte Lady Edith, Miß Glarnston.
 Ich werde das Haus sofort verlassen. Mein Gepäck
 wird abgeholt werden.«
 
-Er verneinte sich sehr knapp und ging durch die zweite
+Er verneigte sich sehr knapp und ging durch die zweite
 Tür, die in den Flur führte, hinaus.
 
 Miß Lydia rannen die Tränen reichlich über die Wangen.
@@ -540,7 +540,7 @@ war.
 Der Diener kehrte sehr bald zurück.
 
 Nun durften wir unseren Lauscherposten unter dem
-Fenster des Zimmers, wo ‘Baßly und Godalper saßen,
+Fenster des Zimmers, wo Baßly und Godalper saßen,
 wieder beziehen.
 
 Wir brauchten nicht lange auf Lady Ediths Erscheinen
@@ -590,7 +590,7 @@ bepflastert werden müssen.
 
 »Mylady,« sagte er mit scheinbarer Höflichkeit, »wir
 gestatten uns, Sie darauf aufmerksam machen, daß wir
-unseren Freund Godweller hier in Kolombo zu zurückgelassen
+unseren Freund Godweller hier in Kolombo zurückgelassen
 hatten, damit er hier beobachtete, was die — die beteiligten
 Personen taten.«
 
@@ -624,7 +624,7 @@ Nun hob sie den Kopf und sagte tonlos:
 »Ich — ich werde auch Ihnen beiden einen Scheck
 über eine Million ausstellen. Mein Guthaben auf der India
 Bank beträgt genau zwei Millionen. Dann — dann
-behalte ich nichts als die, Golby-Plantage und dieses
+behalte ich nichts als die Golby-Plantage und dieses
 Haus. Sind Sie zufrieden?«
 
 Godalper und Baßly regten sich nicht. Sie wollten
@@ -666,6 +666,7 @@ aufgegangen.
 Er las den Brief, reichte ihn mir dann.
 
 <@pagebreak/>
+
 > Sehr geehrter Mr. Harst!
 
 > Besondere Umstände zwingen mich, Ihnen gegenüber
@@ -679,10 +680,10 @@ dem Tode meines Gatten sei: mir ist dies Gerede recht
 gleichgültig! Der treue Kadugawa ist tot, und, wenn ich
 Sie noch um eins bitten dürfte, so sorgen Sie dafür, daß
 an sein freiwilliges Ende nicht Vermutungen geknüpft
-werden, die mir Dosierungen verursachen könnten. Ich
-weiß, daß Sie als reicher Mann jede Erstarrung Ihrer
-Reisekosten ablehnen würden. - Ich werde deshalb dem
-Waisen hause in Kolombo dreitausend Pfund als Spende
+werden, die mir Weiterungen verursachen könnten. Ich
+weiß, daß Sie als reicher Mann jede Erstattung Ihrer
+Reisekosten ablehnen würden. Ich werde deshalb dem
+Waisenhause in Kolombo dreitausend Pfund als Spende
 zugehen lassen.
 
 > Seien Sie überzeugt, daß ich Ihrer stets in Dankbarkeit
@@ -699,7 +700,7 @@ wach sein. Ich muß ihn sprechen.«
 Wir trafen einen Wagen, der uns bis zum Hafen
 brachte. Ein Boot setzte uns nach der Jacht über.
 
-Lord Wohnortes neue Motoryacht Najade war eines
+Lord Wolpoores neue Motoryacht Najade war eines
 der elegantesten Lustfahrzeuge, das ich je betreten habe.
 Der Lord und seine Gattin Geraldine saßen noch im Salon.
 Als die Deckwache uns angemeldet hatte, kam Wolpoore
@@ -915,7 +916,7 @@ Harst hatte ein Nachtglas vor den Augen. Die Pinasse
 war soeben um die Spitze der bewaldeten Halbinsel
 Gontaratschi herumgeglitten.
 
-Rechts von uns, etwa tausend entfernt, erblickten
+Rechts von uns, etwa tausend Meter entfernt, erblickten
 wir jetzt beim Aufzucken eines neuen Blitzes die Reihe
 der kahlen, zerklüfteten Eilande vor der tief ins Land einschneidenden
 Bucht.
@@ -1007,7 +1008,7 @@ Ein ohrbetäubender Donnerschlag jetzt.
 Und Harald packte meinen Arm, deutete nach rechts
 — nach der Bucht zu.
 
-Ich sah das Auslegerboot. Und darin darin saß — nur
+Ich sah das Auslegerboot. Und darin saß — nur
 der prachtvolle, langhaarige riesige russische Windhund.
 
 Auch Wolpoore hatte das Boot bemerkt.
@@ -1020,7 +1021,7 @@ Im Nu hatte er die Oberkleider und Schuhe abgestreift,
 ließ sich ins Wasser gleiten, befahl nur noch: »Legt
 am nächsten Eiland im Schutze des Steilufers an!«
 
-Kaum war im Wasser, als es zu regnen begann.
+Kaum war er im Wasser, als es zu regnen begann.
 Es war eine Sintflut, ein richtiger tropischer Platzregen.
 Es schüttete wie aus Eimern herab.
 
@@ -1182,9 +1183,9 @@ Und — als wir nun wirklich wehrlos waren und als
 der lange Bursche in meiner Brieftasche, die er sehr rasch
 nach irgend etwas durchsuchte, meinen Ausweis nebst
 Lichtbild und den vielen Stempeln gefunden hatte, da
-war’s mit denn Humor vorbei.
+war’s mit dem Humor vorbei.
 
-Er hielt nur den Ausweis unter die Nase und brüllte,
+Er hielt mir den Ausweis unter die Nase und brüllte,
 während ein neuer Donner die Kajütenfenster klirren
 machte:
 
@@ -1233,7 +1234,7 @@ den anderen fünf und trat mit Ihnen auf die Treppe hinaus,
 wo sie eifrig flüsterten.
 
 Dann nahmen uns je zwei der Banditen in die Mitte
-und brachten uns in ein an der Pinasse vertäutes Ruderboot,
+und brachten uns in ein an der Pinasse vertäutes Ruderboot.
 
 Das Boot schoß nur so dahin, erreichte bald das
 mittelste Eiland und bog hier unweit des Liegeplatzes des
@@ -1307,7 +1308,7 @@ zu nehmen:
 
 »Uns geht die Geschichte hier nichts an. Wir sind
 mit unserem Schoner für eine Frachtfahrt verpflichtet worden.
-Aber, hör’ mal, Makuro,« wandte er an den Langen,
+Aber, hör’ mal, Makuro,« wandte er sich an den Langen,
 »was dieser Master da behauptet, stimmt: in der Zeitung
 stand, daß Lord John Barnlay ermordet worden ist! Und
 zwar vor reichlich drei Wochen. Du kannst wahrscheinlich
@@ -1375,7 +1376,7 @@ Dann wandte er sich an Harst:
 Schraut verhaften. Sie haben den alten Kadugawa
 erschossen. Mr. Godalper und Mr. Baßly haben es beobachtet.
 <@pagebreak/>
-Wir haben Kadugawas Leiche nach das Polizeidirektion
+Wir haben Kadugawas Leiche nach der Polizeidirektion
 geschafft.«
 
 Wolpoore lachte kurz auf. »Mr. Biberston, Sie kennen

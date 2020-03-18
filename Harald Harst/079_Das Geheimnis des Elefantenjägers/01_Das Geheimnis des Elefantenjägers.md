@@ -58,7 +58,7 @@ daran sein. Ich denke, wir reisen, mein Alter.«
 Eine Stunde später waren wir mit den Reisezurüstungen fertig.
 Das telephonisch bestellte Taxameterauto fuhr
 kurz vor zehn Uhr vor unserem Hause vor. Der Chauffeur
-holte die ihn Koffer, und Frau Auguste Harst, Haralds
+holte die beiden Koffer, und Frau Auguste Harst, Haralds
 Mutter, umarmte ihren Einzigen zum Abschied nochmals
 aufs zärtlichste, als ein anderer Kraftwagen in rasender
 Fahrt die Blücherstraße daherkam und vor dem Taxameterauto
@@ -97,12 +97,12 @@ Bannimoore Godalper vor Harst geradezu auf die Knie
 sank und flehentlich bat, ihn nicht im Stich zu lassen.
 Ohne uns sei er ein Kind des Todes.
 
-Nachdem er drei Glas den Kognak getrunken hatte,
+Nachdem er drei Gläschen Kognak getrunken hatte,
 konnte er uns, auf dem Diwan liegend, seine Leidensgeschichte
 erzählen.
 
 Bannimoore Godalper war, wie er uns nun mitteilte,
-Engländer, Junggeselle, sehr leid und ein leidenschaftlicher
+Engländer, Junggeselle, sehr reich und ein leidenschaftlicher
 Bergsteiger. Vor vier Wochen hatte er eine
 Fußtour durch Montenegro unternommen. Nach zweiwöchiger
 Wanderung geriet er in einem Dorfe mit
@@ -128,7 +128,7 @@ war.
 Gleich nach der nach Ankunft des D-Zuges hatte er sich in den
 Wartesaal des Anhalter Bahnhofes begeben, um eine Tasse
 Kaffee zu trinken. Er bestellte sie bei einem Kellner. Ein
-anderer Kellner (wenigstens hatte er den Mann für
+anderer Kellner (wenigstens hatte er den Mann für einen
 Kellner gehalten) brachte ihm das Verlangte. Kaum hatte
 er ein paar Schlucke getrunken, als er im Magen ein furchtbares
 Brennen verspürte. Da erst fiel ihm ein, daß der
@@ -326,7 +326,7 @@ durchaus nicht bei der Sache waren.
 Harst rieb sein Feuerzeug an und rauchte ein paar
 Züge.
 
-»Hüte Dich vor voreiligen Schüssen, mein Alter, die
+»Hüte Dich vor voreiligen Schlüssen, mein Alter, die
 Sache kann auch ganz anders sein.«
 
 »Wie denn?«
@@ -348,14 +348,14 @@ Million Brillanten gestohlen worden. Die Dame, der die
 Steine geraubt wurden, ist eine Landsmännin von mir.
 Ich habe ihr gesagt, daß Sie sich hier im Zuge befinden,
 <@pagebreak/>
-Mr. Harst. Miß Glarnston läßt Sie bitten, sich doch ein
-mal ihre Kabine anzusehen.«
+Mr. Harst. Miß Glarnston läßt Sie bitten, sich doch einmal
+ihre Kabine anzusehen.«
 
 Harald nickte. »Das will ich gern tun.« Er stand auf
 und folgte Godalper in den Gang.
 
 Ich beeilte mich, schlüpfte in die Jacke und kam gerade
-hinzu, als die Weinende, hagere Engländerin Harst erklärte,
+hinzu, als die weinende, hagere Engländerin Harst erklärte,
 daß sie ihre Tür nicht nur von innen verriegelt, sondern sogar
 noch mit dickem Draht zugebunden gehabt hätte.
 
@@ -771,7 +771,7 @@ Nr. 18 und 19, während Godalper Nr. 17 belegt hatte.
 Nachmittag gegen fünf Uhr kehrte Harald von einem
 Spaziergang zurück. Ich hatte mit Godalper eine Partie
 Schach gespielt. Leider war ich bisher nicht in der Lage
-gewesen, mit Harst mich an die Ereignisse im D-Zug
+gewesen, mit Harst mich über die Ereignisse im D-Zug
 auszusprechen. Ich tappte also noch immer völlig im
 Dunkeln, was den Diebstahl und das Telegramm an Miß
 Glarnston betraf. Nur eins wußte ich: das Giftpfeilattentat
@@ -991,7 +991,7 @@ dann »die halbe Wahrheit soll an den Tag kommen.« —
 nein, das verstehe ich nicht!«
 
 »Du wirst es verstehen — wenn wir in Kolombo
-sind! — Weiter hat Miß Glarnston noch zugegeben, daß:
+sind! — Weiter hat Miß Glarnston noch zugegeben, daß
 der Elefantenjäger Kadugawa ein Vertrauter Lady Barnlays
 ist. Als ich sie dann fragte, ob sie bereits eingehender
 über den Mord an dem Gatten der Lady unterrichtet
@@ -1017,7 +1017,7 @@ Als der Dampfer im Hafen festgemacht hatte, als wir
 vor unseren gepackten Koffern in der Kabine standen, da
 schaute Harald mich augenzwinkernd an und meinte:
 
-»So. — angelangt! Zu — fünfen!«
+»So — angelangt! Zu — fünfen!«
 
 »Zu fünfen?! Dann befinden sich Miß Glarnston und
 Godalper-Baßly gleichfalls an Bord!«
@@ -1182,8 +1182,8 @@ Lydia Glarnston saß leise schluchzend im Korbsessel.
 Ich stand wie ein blinder Tor dabei. Wenn ich doch
 nur etwas von alledem begriffen hätte.
 
-»Ich darf nicht!« stöhnte die Miß kläglich.
-»Quälen Sie mich ich doch nicht wieder, Mr. Harst! Ich darf
+»Ich — ich darf nicht!« stöhnte die Miß kläglich.
+»Quälen Sie mich doch nicht wieder, Mr. Harst! Ich darf
 wirklich nicht!«
 
 »Geben Sie zu, daß zwischen Ihnen und Lady Barnlay
@@ -1231,7 +1231,7 @@ Barnlay ermordet?«
 
 Der kleine Inspektor seufzte.
 
-»Das ist ein ganz aussichtslosen Fall, Mr. Harst.
+»Das ist ein ganz aussichtsloser Fall, Mr. Harst.
 Wirklich. Der Lord wurde hier im Garten seines Sommerhauses
 tot, aber ohne Kopf, aufgefunden, und zwar
 früh morgens am 12. September. Die Lady erklärte, es
@@ -1323,9 +1323,11 @@ Berlin verfolgt —«
 
 »Donnerwetter — bis Berlin!«
 
-»Ha — bis zum Tresor der dortigen Deutschen Bank.
+»Ja — bis zum Tresor der dortigen Deutschen Bank.
 Und hier in Kolombo hat Ming Fo den Anhang des Räubers
 im Auge behalten.«
+
+»Anhang?«
 
 <@pagebreak/>
 »Ja, dessen Verwandte, meine ich —«
@@ -1342,7 +1344,7 @@ zwingen —«
 »Ein Elefantenjäger namens Kadugawa —«
 
 »Wie?! Kadugawa?! Der berühmteste Elefantenjäger
-Ceylons?! Ein ehrwürdigen Greis von siebzig
+Ceylons?! Ein ehrwürdiger Greis von siebzig
 Jahren — ausgeschlossen! Ganz ausgeschlossen!«
 
 »Sagen Sie das nicht, Biberston! Ist Kadugawa
