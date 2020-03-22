@@ -4,7 +4,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Ein geheimnisvolles Testament.</h3>
 
-Wir wohnten in Kolombo, dem Haupthafen des Jn-sclparadieses
+Wir wohnten in Kolombo, dem Haupthafen des Inselparadieses
 Ceylon, im Mount Lavinia-Hotel, welches
 etwa sieben Kilometer südlich von der eigentlichen Stadt
 auf einem steil aus dem Meere emporragenden Felsen liegt
@@ -12,14 +12,14 @@ und eines der elegantesten Hotels der Welt ist.
 
 Am 14. Oktober war’s, als uns einer der Hotelboys
 eine Depesche nach den Tennisplätzen brachte. Wir hatten
-mit zwei englischen Damen in der ersrishenden Seebhrise
-bereits mehrere Spiele erledigt, und trovdm meinte Miß
+mit zwei englischen Damen in der erfrischenden Seebrise
+bereits mehrere Spiele erledigt, und trotzdem meinte Miß
 Colvenor, die Tochter des Gouverneurs von Kolombo,
-in el Zone zu mir, während Harald Harst die
+in bedauerndem Tone zu mir, während Harald Harst die
 Depesche überflog:
 
-»Nun wird es wohl für Sie beide wieder Arbeit ne-
-Ben Mr. Schraut. Schade, es waren so interessante
+»Nun wird es wohl für Sie beide wieder Arbeit geben,
+Mr. Schraut. Schade, es waren so interessante
 Stunden. Sie verstehen so prächtig zu erzählen, und man
 ist doch gern mit einem Gentlemandetektiv von Mr. Harald
 Harsts Berühmtheit zusammen.«
@@ -28,6 +28,7 @@ Miß Daisy Colvenor sollte recht behalten.
 
 »Meine Damen,« erklärte Harst, indem er mir die Depesche
 reichte, »mein Freund Boßwell aus Bombay ruft
+mich dorthin. Wir müssen uns verabschieden. Abends um
 neun Uhr verläßt der Dampfer India den Hafen, den
 wir benutzen müssen —«
 
@@ -44,205 +45,241 @@ Verfügung. Bitte zu kommen, falls irgend möglich.
 
 So begann das Myntor-Problem für uns.
 
-Durst neun Uhr lichtete die hakte, der Tourdampfer
-Kolombo-Bombay, die Anker. Mix wurde der Abschied
-sehr schwer. Wer Ceylon kennt, wird. das begreifen.
+Punkt neun Uhr lichtete die India, der Tourdampfer
+Kolombo-Bombay, die Anker. Mir wurde der Abschied
+sehr schwer. Wer Ceylon kennt, wird das begreifen.
 
-Wir hatten auf der Indra die beiden Stantöfabinen
+Wir hatten auf der India die beiden Staatskabinen
 belegt. Ein Mann in Haralds Vermögensverhältnissen
 kann sich das leisten.
 
 Ein wundervolles Abendrot tauchte die Küste von
 Kolombo mit ihren berühmten Palmenhainen in rosige
 Farben, ließ die Fenster der weißen Villen der Europäer
-aufleuchten und verwandelte das sonst bewegte Leer in
+aufleuchten und verwandelte das sonst bewegte Meer in
 einen rot schillernden Teppich.
 
-Die. Mole und der Leuchtturm Mensch)banden nun ebenfalls
-unter dem Horizont. Wir standen an der verfing
-und unwillkürlich sprach ich leise vor mich hin;
+Die Mole und der Leuchtturm verschwanden nun ebenfalls
+unter dem Horizont. Wir standen an der Reling,
+und unwillkürlich sprach ich leise vor mich hin:
 
 »Wann werden wir wohl Kolombo wiedersehen?«
 
-Wir beide ahnen nicht, daß Dies früher geschehen
+Wir beide ahnen nicht, daß dies früher geschehen
 sollte, als wir auch nur im entferntesten annehmen konnten.
 
-Hang schlug die Glocke an Deck gellend ihr Signal
-zum Souper,
+Dann schlug die Glocke an Deck gellend ihr Signal
+zum Souper.
 
 Wir fanden im Speisesaal ganz angenehme Gesellschaft:
-einen schwedischen Forschunagsreisenden, der Zunuer-ceylon
+einen schwedischen Forschungsreisenden, der Innerceylon
 bis in die entlegensten Winkel monatelang durchwandert
 hatte und viel Interessantes zu berichten wußte.
 
-Es hatte sich an Bord sehr bald berungejprocden, daß
+Es hatte sich an Bord sehr bald herumgesprochen, daß
 der deutsche Liebhaberdetektiv Harst auf dem Schiffe war.
 Kein Wunder also, daß wir beide dauernd mit ziemlicher
 Ungeniertheit angestarrt wurden.
 
 Schräg gegenüber von uns an der Tafel saß ein älterer,
-graubärtiger Herr, der dieses Ausharren als einer der
-wenigen in disfroterer Weise tat.
+graubärtiger Herr, der dieses Anstarren als einer der
+wenigen in diskreterer Weise tat.
 
-Er fiel mir auf, weil er fast nicht? genoß und weil
+Er fiel mir auf, weil er fast nichts genoß und weil
 <@pagebreak/>
-gut seinem Gesicht eine gewisse Schwermut lagerte. Außerdem
-beteiligte er sich mit feiner Silbe an der Unterhal-mung.
+auf seinem Gesicht eine gewisse Schwermut lagerte. Außerdem
+beteiligte er sich mit keiner Silbe an der Unterhaltung.
 Der Blick, der uns durch die Gläser einer Hornbrille
-zuweilen streifte, hatte auch etwas geradezu Welt-entrücktes
+zuweilen streifte, hatte auch etwas geradezu Weltentrücktes
 an sich.
 
 Nachdem der Kapitän die Tafel aufgehoben hatte,
-wollten ‘wir beide uns in unsere Kabinen zurückziehen.
+wollten wir beide uns in unsere Kabinen zurückziehen.
 
 Da trat der Herr auf uns zu, stellte sich als Advokat
 Grosby aus Bombay vor und bat Harst, ihm eine Unterredung
 zu gewähren.
 
-»Vielleicht gehen wir in meine Kabine,« fügte er Zins
-zu. »ich möchte Ihnen gleich erklären, Mr. Harst, daß es
+»Vielleicht gehen wir in meine Kabine,« fügte er hinzu.
+»Ich möchte Ihnen gleich erklären, Mr. Harst, daß es
 sich um ein Testament einer Lady Myntor handelt. Ich
 bin ihr Anwalt gewesen, hatte in Kolombo zu tun und
 möchte nun, da ich zufällig mit Ihnen zusammengetroffen
-hin, Ihnen einmal eine Abschrift des Testaments zeigen.«
+bin, Ihnen einmal eine Abschrift des Testaments zeigen.«
 
 »Gern, Mr. Grosby,« erwiderte Harst. »Gehen wir
-Ihre Kabine.«
+in Ihre Kabine.«
 
 Auch der Advokat hatte eine der größeren Kabinen
-Winter der Sionmandobrücde belegt, und zwar Nr. 4, während
-unsere Staatsfabinen die Nummern 1 und 2 hatten.
+unter der Kommandobrücke belegt, und zwar Nr. 4, während
+unsere Staatskabinen die Nummern 1 und 2 hatten.
 
 Wir setzten uns um den kleinen Tisch herum, Grosby
-oh uns Zigarren an und begann nun: +
+bot uns Zigarren an und begann nun:
 
 »Lady Myntor ist für Bombay eine Art Berühmtheit
-gefressen. Ihr Gatte war vor amanıia, Jahren dort Vou-jerneur.
-Seit fünfzehn Jahren ist ordne und bewohnt
-Minen alten Hindutempel auf den Malabar Hilfe, der zur
-Wohnhause umgebaut worden ist, Sie hielt sich, obwoh
-Wehr begütert, feine weitere Bedienung als eine Sachlage
-Inderin namens Jane Busselt und zwei farbige Diener. Die
+gewesen. Ihr Gatte war vor zwanzig Jahren dort Gouverneur.
+Seit fünfzehn Jahren ist sie Witwe und bewohnt
+einen alten Hindutempel auf den Malabar Hills, der zum
+Wohnhause umgebaut worden ist. Sie hielt sich, obwohl
+sehr begütert, keine weitere Bedienung als eine Engländerin
+namens Jane Busselt und zwei farbige Diener. Die
 Lady hat ein Alter von 75 Jahren erreicht. Sie verkehrte
-Profit niemandem. Wenn sie ausfuhr, was selten geschah,
-erbte sie ihren Ponywagen selbst und war stets dicht verschleiert.
+mit niemandem. Wenn sie ausfuhr, was selten geschah,
+lenkte sie ihren Ponywagen selbst und war stets dicht verschleiert.
 Ihr Testament, das sie ein Jahr nach dem Tode
-bares Gatten errichtete, lag in meinem Tresor in Verwah-tem
-versiegelten Umschlag mir übergab, fern ich sie zum
-setzten Male von Angesicht zu Angesicht, Was wir später
-in zu erledigen. hatten, geschah durch den Fernsprecher. —
-na. Damals, als sie diese letztwillige Verfügung in Eis
+ihres Gatten errichtete, lag in meinem Tresor in Verwahrung.
+Damals, als sie diese letztwillige Verfügung in einem
+versiegelten Umschlag mir übergab, sprach ich sie zum
+letzten Male von Angesicht zu Angesicht. Was wir späterhin
+zu erledigen hatten, geschah durch den Fernsprecher. —
 <@pagebreak/>
-So, das Es wohl genügen, Mr. Harst. — Nun zu dem
-Testament
+So, das dürfte wohl genügen, Mr. Harst. — Nun zu dem
+Testament —«
 
 Er faßte in die innere Westentasche und holte einen
-zufammengefsalteten Bogen heraus, den er vor sich auf den
-Tisch senke.
+zusammengefalteten Bogen heraus, den er vor sich auf den
+Tisch legte.
 
 »Auf dem versiegelten Leinenumschlag hatte Lady
 Myntor vermerkt, daß das Testament fünf Tage nach ihrem
 Ableben geöffnet werden sollte,« fuhr Mr. Grosby fort.
-»Als jieugen sollten der Eröffnung beiwohnen: ihre Nichte
+»Als Zeugen sollten der Eröffnung beiwohnen: ihre Nichte
 Honoria Myntor, ein höherer Polizeibeamter, die Wirtschafterin
-Jane Fälscht und ich: — So geschah es auch.«
+Jane Busselt und ich. — So geschah es auch.«
 
 »Eine Frage,« warf Harald ein. »Hatte Lady Myntor
-feine N.
+keine Kinder?«
 
 »Nein.«
 
 Der Advokat faltete nun den Bogen auseinander.
 
-»Es ist dies eine ganz genaue Kopie des Originál-testaments,
-Mr. Harst —
+»Es ist dies eine ganz genaue Kopie des Originaltestaments,
+Mr. Harst —«
 
 »Verzeihung, Mr. Grosby. Wer war der Polizeibeamte,
-der hinzugezogeti wurde?«
+der hinzugezogen wurde?«
 
-»Detektivinspektor Boßwell, eim Mann von tadellosem
-Ruf, der mir per nahesteht. Ah glaube, Sie kennen
+»Detektivinspektor Boßwell, ein Mann von tadellosem
+Ruf, der mir persönlich nahesteht. Ich glaube, Sie kennen
 ihn, Mr. Harst?«
 
-»Ja. Mir hatten gemeinsam ein paar Fälle bearbeitet.
-Auch ich störe Hohnvoll sehr hoch.
+»Ja. Wir hatten gemeinsam ein paar Fälle bearbeitet.
+Auch ich schätze Boßwell sehr hoch.«
 
-Merkwürdig: Harald Gen »Boßwell Bereitet
+Merkwürdig: Harald verschwieg Boßwells Depesche!
 Das mußte einen Grund haben!
 
-»Bitte, hier ist die Klopfe, meine Herren,« sagte G&regeln
-merklich zögernd und reite sie Harst ebenso zögernd
-den Tisch hin. Es Wer ganz den Eindruck, als
-ne er sie. ungern aus der Hand
+»Bitte, hier ist die Kopie, meine Herren,« sagte Grosby
+merklich zögernd und reichte sie Harst ebenso zögernd
+über den Tisch hin. Es machte ganz den Eindruck, als
+gäbe er sie ungern aus der Hand.
 
-Ich richte meine  Gefiel nähern an den Harkte heran.
-Dann, lasen wir
+Ich rückte meinen Sessel nähern an den Harsts heran.
+Dann, lasen wir:
 
 > Bombay, den 10. April 1907
 
 > Myntor-Palais,
 
-> er Malabar Hilfe.
+> Malabar Hills.
 
 > Mein Testament.
 
-> Eigenhändig und im Beil ungetrübten Geiftesträfte
+Eigenhändig und im Besitz ungetrübten Geisteskräfte
 bestimme ich folgendes:
 
 <@pagebreak/>
+
 Nach meinem Tode soll meine Leiche nach Seemannsart
-im Meere versenkt werden, nachdem sie kunstgerecht ein-balsamiert
+im Meere versenkt werden, nachdem sie kunstgerecht einbalsamiert
 worden ist. Als Ort der Versenkung nenne ich
 die südliche Bucht der kleinen Felseninsel, die nördlich von
-Houtban dicht zu der Küste im einer Höhe mit dem Dorfe
-Wangiprana liegt. Die Apfel heißt bei den Küsteufischern
+Bombay dicht an der Küste in einer Höhe mit dem Dorfe
+Wangiprana liegt. Die Insel heißt bei den Küsteufischern
 Schotakadscha, singender Fels, weil nördlich der genannten
-Bucht aus den Rissen des Gesteins Gase mit pfeifen-em
+Bucht aus den Rissen des Gesteins Gase mit pfeifendem
 Geräusch austreten.
 
 Der Versenkung haben dieselben Personen beizuwohnen
 wie der Testamentseröffnung. Ihre Unkosten sind
-Tauen aus der Erbschastsmasse zu erstatten. Die Felsenloch
-soll erst einen Brennt nach meinem Tode stattfinden.
+ihnen aus der Erbschaftsmasse zu erstatten. Die Versenkung
+soll erst einen Monat nach meinem Tode stattfinden.
 
 Mein Vermögen vermache ich meiner Nichte Honoria
-Munter, zur Zeit in Goa wohnhaft, Es besteht aus:
+Myntor, zur Zeit in Goa wohnhaft. Es besteht aus:
 
-1. dem MontorBalais nebst Einrichtung,
-2. der Plantage Verlohnt bei Karat,. á
+1. dem Myntor-Palais nebst Einrichtung,
+2. der Plantage Derryback bei Surat,
 3. Bargeld und Wertpapieren, deponiert in meinem
-Safe bei der hiesigen Indra-Bank, im Gefanıtbe-trage
-von 10000 Bund Sterling:
+Safe bei der hiesigen India-Bank, im Gesamtbetrage
+von 10000 Pfund Sterling.
 
-Meine Erbin bat meine Wirtschafterin Jane kuriert
-zu deren Tode bei sich. aufzunehmen und ihr jährlich
-Taschengeld von 100 Pfund zu neben.. Außerdem soll
+Meine Erbin hat meine Wirtschafterin Jane Busselt
+bis zu deren Tode bei sich aufzunehmen und ihr jährlich
+ein Taschengeld von 100 Pfund zu geben. Außerdem soll
 Jane Busselt all meine Garderobe und die Hälfte meiner
-chnmucksaheu erhalten.
+Schmucksachen erhalten.
 
-Dann noch mein Fechter Wunsch. Ah gebe ihm eine
-Besondere Form, Sollte sich niemand finden, der den Juli
+Dann noch mein letzter Wunsch. Ich gebe ihm eine
+besondere Form. Sollte sich niemand finden, der den Inhalt
 des Silbenkreuzes entziffert, so kann dieser Wunsch
-erfüllt werden, der gleichzeitig für mich eine schwere
-Errettung meines Charakters enthält. ch überlasse es
-er der Fügung des Schicksals, ob das, was mein Gemimt
-gebietet, verwirklicht werden soll,
+nicht erfüllt werden, der gleichzeitig für mich eine schwere
+Bloßstellung meines Charakters enthält. Ich überlasse es
+daher der Fügung des Schicksals, ob das, was mein Gewissen
+mir gebietet, verwirklicht werden soll.
 
-nen, Mr. Grosby, meinem langjährigen Rechtsbel-stelle
-ich anheim, was Sie tun wollen, um das Silberne
-zu entziffern. Leicht wird Dies nicht, fein. Sich
-be mir alle Mühe gegeben, etwas zu ersinnen, das war
-Genie lösen starr, Und Genies sind selten.
+Ihnen, Mr. Grosby, meinem langjährigen Rechtsbeistand,
+stelle ich anheim, was Sie tun wollen, um das Silbenkreuz
+zu entziffern. Leicht wird dies nicht sein. Ich
+habe mir alle Mühe gegeben, etwas zu ersinnen, das nur
+ein Genie lösen kann. Und Genies sind selten.
 
 <@pagebreak/>
 
-XXX Silbenkreuz XXX
+<table>
+<tr class="pre">
+  <td style="height: 100px;"></td>
+  <td rowspan="3">Wo
+nen
+ein
+Stei
+Kre
+den
+uz
+ter
+in
+un
+Buch
+sel
+tfel
+kap</td>
+  <td></td>
+</tr>
+<tr class="pre">
+  <td style="transform: rotate(-90deg); width: 100px; text-align: center;">sen
+Blei
+ein
+egt
+gem</td>
+  <td style="transform: rotate(-90deg); width: 100px; text-align: center;">li
+eiß
+da
+elt
+ist</td>
+</tr>
+<tr class="pre">
+  <td></td>
+  <td></td>
+</tr>
+</table>
 
-Das ist alles, was ich wünsche. -
+Das ist alles, was ich wünsche.
 
-> Lady Maria Torhüter,
+> Lady Maria Myntor,
 
-> goß. Bolicxrsetty.
+> geb. Bollerfetty.
 
 <h2>2. Kapitel.</h2>
 
@@ -255,42 +292,42 @@ herauslesen, so zum Beispiel, daß Lady Maria einst irgend
 eine schwere Schuld auf ihre Seele geladen hatte, die sie
 nach ihrem Tode wiedergutmachen wollte. —
 
-Harald legte die Vertraut den Tisch zurück.
+Harald legte die Kopie auf den Tisch zurück.
 
 »Ich hätte lieber das Original geprüft,« sagte er nachdenklich.
 »Es ist doch noch vorhanden?«
 
 »Gewiß. Nur — nur der Umschlag ist leider abhanden
-gekommen.« -
+gekommen.«
 
 Komisch: Grosby war bei diesen Worten rot und verlegen
-geworden und bürste sich jetzt rasch, als müsse er
+geworden und bückte sich jetzt rasch, als müsse er
 seine Schuhsenkel fester binden.
 
 Harald warf mir einen langen Blick zu.
 
-»Oh — der Umschlang ist umwichtia.« meinte er dann
+»Oh — der Umschlang ist unwichtig,« meinte er dann
 <@pagebreak/>
-leichthin. »Sie Tröpfchen also, Mr. Grosby, daß ich das
-Poltern zu losem versuche, nicht wahr?«
+leichthin. »Sie wünschen also, Mr. Grosby, daß ich das
+Silbenkreuz zu lösen versuche, nicht wahr?«
 
 »Ja — wenn Sie so liebenswürdig sein wollten —«
-Madrid Jede. je wieder auf. »Ich wäre Ahnen sehr Zig
-Das R By ne! He zu hissen.
+Er richtete sich wieder auf. »Ich wäre Ihnen sehr dankbar,
+Mr. Harst, sehr dankbar.«
 
-»ach e mir die Kopie hierin»
+»Dann müssen Sie mir die Kopie hierlassen.«
 
-»Aber gewiß. — Meinen Sie, da e Entzifferung
-Sieg engen Mr»
+»Aber gewiß. — Meinen Sie, daß die Entzifferung
+Ihnen gelingen wird?«
 
 »Ganz bestimmt!«
 
-»Sog ne — In Boßwell erklärte, er hatte bereits Ende
-[die ge an numeriert, um die Silben richtig zu
+»So?! — Und Boßwell erklärte, er hatte bereits endlose
+Berechnungen angestellt, um die Silben richtig zu
 vereinen, — ohne Erfolg!«
 
 »Hm — vielleicht hat er Schwierigkeiten gesucht, wo
-Mine vorhanden sind, Das tut man häufig. — Da Spann
+keine vorhanden sind. Das tut man häufig. — Seit wann
 waren Sie eigentlich in Kolombo, Mr. Grosby?«
 
 »Seit heute mittag. Ich war mit dem Tourdampfer
@@ -298,36 +335,36 @@ Octopus eingetroffen.«
 
 »So. Weshalb kamen Sie nicht zu uns ins Mount
 Lavinia-Hotel? Wußten Sie nicht, daß ich dort wohnte?
-es stand doch in allen Zeitungen.«
+Es stand doch in allen Zeitungen.«
 
 »Ich — ich wollte Sie nicht belästigen, Mr. Harst!«
 
-inne war ohne Zweifel gelogen. Ich vermutete etwas
-Tanz andere
+Das war ohne Zweifel gelogen. Ich vermutete etwas
+ganz anderes.
 
-Wir verabschiedeten uns darauf scholl bald. Harald
-Kante noch: ir haben Jahres Tage Zeit, Mr. Grosby,
-Riese Dinge durchzusprechen, nein, sogar vier Tage, so lange
-dauert ja die Ueberfahrt bis Bombay. Juzroischen werde
-wohl das Silbenkreuz entziffert haben. Vielleicht, Mr.
+Wir verabschiedeten uns darauf sehr bald. Harald
+sagte noch: »Wir haben ja drei Tage Zeit, Mr. Grosby,
+diese Dinge durchzusprechen, nein, sogar vier Tage, so lange
+dauert ja die Ueberfahrt bis Bombay. Inzwischen werde
+ich wohl das Silbenkreuz entziffert haben. Vielleicht, Mr.
 Grosby,« — und hier hob Harald die Stimme etwas —
-haben Sie sich dann auch überlegt, ob es nicht nichts er
-Wäre, wenn Sie uns *alles* andertrauten, was Sie
+»haben Sie sich dann auch überlegt, ob es nicht richtiger
+wäre, wenn Sie uns *alles* anvertrauten, was Sie drückt.«
 
 Der Advokat wurde abermals verlegen, blickte zu
-Boden, schüttelte uns kräftig die Hand und blieb allein
+Boden, schüttelte uns kräftig die Hand und blieb allein in
 seiner Kabine Nr. 4 zurück.
 
-Wir hatten bis zu unserer Wohntkabine Nr. 2 mal
-Beute« Schritte. Harald [schloß hinter uns ab. Dr durch
-ne Schiebetür mit Nr. 2 verbundene Schlafrau Na
-ls aufs eleganteste ausgestattet, hatte keine besondere für
-ch) dem Gang hinaus.
+Wir hatten bis zu unserer Wohnkabine Nr. 2 nur
+wenige Schritte. Harald schloß hinter uns ab. Der durch
+eine Schiebetür mit Nr. 2 verbundene Schlafraum, ebenfalls
+aufs eleganteste ausgestattet, hatte keine besondere Tür
+nach dem Gang hinaus.
 
-Er Benehmen fand ich etwas merkwürdig. Nachdem
+Harsts Benehmen fand ich etwas merkwürdig. Nachdem
 <@pagebreak/>
 er die Tür sorgfältig verriegelt hatte, ging er in unsere
-allem Schlafkabine und schaute Hi) auch dort Vorsichtig
+gemeinsame Schlafkabine und schaute sich auch dort vorsichtig
 um.
 
 »Was gibt’s?!« fragte ich leise, als er sich nun neben
@@ -337,191 +374,194 @@ hervorholte.
 Er hielt es mir hin.
 
 »Bediene Dich bitte.« — Es geschah selten, daß er mir
-eine seiner Miraklulum anbot. Er war damit sehr sparsam.
+eine seiner Mirakulum anbot. Er war damit sehr sparsam.
 
-Er rieb sein Feuerzeug zu und flüsterte noch leiser:
+Er rieb sein Feuerzeug an und flüsterte noch leiser:
 
 »Wir wurden bei Grosby belauscht —«
 
-Diese ganze Teslamentsgeschichte fängt recht vielver-schprechend
+»Diese ganze Testamentsgeschichte fängt recht vielversprechend
 an —« fügte er hinzu.
 
-Daá Wandsofa stand der Tür gegenüber. Mithin
+Daß Wandsofa stand der Tür gegenüber. Mithin
 hatten wir rechts von uns die Wand nach der Nachbarkabine
-Nr. 3, links des Eingang zum Schlafraum,
+Nr. 3, links den Eingang zum Schlafraum.
 
-Haralds Unser glitten Tanne unauffällig immer wieder
-über die Wand rechter Hand prüfend hin. Bord stand
-ein Keiner Diplomatenschreibtisch, über den eine Seekarte
-des Peng Ozeans und der Erreichen Länder hing.
+Haralds Augen glitten ganz unauffällig immer wieder
+über die Wand rechter Hand prüfend hin. Dort stand
+ein kleiner Diplomatenschreibtisch, über den eine Seekarte
+des Indischen Ozeans und der angrenzenden Länder hing.
 
-Bann lachte Harst ganz graut $ auf und sagte lauter
+Dann lachte Harst ganz grundlos auf und sagte lauter
 als bisher:
 
-»xh glaube, Lady Myntor hat den ‘braven Grosby
-Narren gehalten mit diesem lebten Wunsch Sie muß
-eine recht fchrullenhafte Dame gelassen sein, und es ist
+»Ich glaube, Lady Myntor hat den braven Grosby
+zum Narren gehalten mit diesem letzten Wunsch. Sie muß
+eine recht schrullenhafte Dame gewesen sein, und es ist
 ihr schon zuzutrauen, daß sie sowohl Grosby als auch die
 anderen Herrschaften, die nun von den Bestimmungen des
-Testaments Kenntnis haben, so etwas ausziehen wollte.«
+Testaments Kenntnis haben, so etwas aufziehen wollte.«
 
 Ich merkte ganz genau: Harald mußte jetzt entdeckt
 haben, daß auch wir belauscht wurden. Es ist ja nicht gerade
 schwer, durch die trennende Wand zweier Kabinen,
-die zumeist aus zwei Holzwänden und einer Einlage en
-Kork besteht, ein Loch zu bohren, wenn man nur Wo
-Zeuge zur Verfügung hat.
+die zumeist aus zwei Holzwänden und einer Einlage von
+Kork besteht, ein Loch zu bohren, wenn man nur Werkzeuge
+zur Verfügung hat.
 
 Der Lauscher konnte nur der Bewohner der Kabine
-Mr. 3 sein. — Gewiß: ich hatte diesen Nachbar bereits
+Nr. 3 sein. — Gewiß: ich hatte diesen Nachbar bereits
 zweimal flüchtig gesehen. Er hatte bei der Tafel ganz am
-unteren Ende gesessen. Es war ein Mann in mittleren Folgen
-mit Schwarzen Vollbart und gelbbrauner Gesichtsfarbe,
-El auf einen Mischling hindeutete.
+unteren Ende gesessen. Es war ein Mann in mittleren Jahren
+mit schwarzem Vollbart und gelbbrauner Gesichtsfarbe,
+die auf einen Mischling hindeutete.
 
 <@pagebreak/>
 »Ich habe Mr. Grosby von dieser meiner Vermutung
-absichtlich geschwiegen,« hatte Harald nach kurzer Narr
-ne Farm mich ja auch irren. Vielleicht ist
-dieser »fehlte Wunsch« ernst gemeint. Das wird sich ja 2 herausstellen,
-wenn ich mich über Die Entzifferung bei Silben
-Stengel hermache. Reiche mir doch mal Papier vom Schreibtisch.
-ir können es ja sofort versuchen.«
+absichtlich geschwiegen,« hatte Harald nach kurzer Pause
+hinzugefügt. »Ich kann mich ja auch irren. Vielleicht ist
+dieser »letzte Wunsch« ernst gemeint. Das wird sich ja herausstellen,
+wenn ich mich über die Entzifferung des Silbenkreuzes
+hermache. Reiche mir doch mal Papier vom Schreibtisch.
+Wir können es ja sofort versuchen.«
 
-Er legte das Testament, die Kopie, vor floh hin,
+Er legte das Testament, die Kopie, vor sich hin,
 nahm einen Bleistift und sagte: »Störe mich jetzt eine Weile
 nicht.«
 
 Ich las Zeitung. Hin und wieder blickte ich aber
 doch flüchtig auf den Bogen Papier, den Harst bereits halb
-mit Zeilen gefüllt hatte
+mit Zeilen gefüllt hatte.
 
-So verging etwa Eine halbe Stunde
+So verging etwa eine halbe Stunde.
 
-»ich hab’s tief er da. »Ich wußte, daß die Sache
+»Ich hab’s!« rief er da. »Ich wußte, daß die Sache
 nur schwer ausschaute! Bitte — Du kannst hier auf dem
-Blatt genau verfolgen, wie ich die um eorbnnet habe.«
+Blatt genau verfolgen, wie ich die Silben geordnet habe.«
 
-Ich griff recht begierig nach dem © Papier, während
-Harald eine neue Mirakulum sich er
+Ich griff recht begierig nach dem Stück Papier, während
+Harald eine neue Mirakulum sich anzündete.
 
-Und — ich las folgendes;
+Und — ich las folgendes:
 
-Grosby dürfte mit dem Schwarzbärtigen aus Nr. 8,
+Grosby dürfte mit dem Schwarzbärtigen aus Nr. 3,
 der übrigens Boncard heißt, wie der Steward mir verriet,
-hatte sich im Ventilationsrohr
+unter einer Decke stecken. Boncard hatte sich im Ventilationsrohr
 versteckt, als wir bei Grosby waren. Ich sah
-Minen Männerstiefel hinter dem engen Ventilationsgitter
-ter der Decke, mordet y bat er in die Verbindungstwand
-hier zu uns hin ein Loch gebohrt und by Karte bot An
-Nischen Ozeans an der Stelle, wo etwa die Ran Baroba
-hegt. ebenfalls techtedia eingerissen, so By Ehrlichen
+einen Männerstiefel hinter dem engen Ventilationsgitter
+unter der Decke. Vorher hat er in die Verbindungswand
+hier zu uns hin ein Loch gebohrt und die Karte des
+Indischen Ozeans an der Stelle, wo etwa die Stadt Baroda
+liegt, ebenfalls rechteckig eingerissen, so daß das Eckstückchen
 hochstand und noch hochsteht. Er verließ den Speisesaal
-bereits vor dem lebten Gang, und da man in den Ventile
-lationsschacht nur aus Grosbys Kabine gelangen kann, da
-wäre das Nötigste zu Deiner Anforma-tion,
-mein Alter. So könnte höchstens noch hinzufügen,
+bereits vor dem letzten Gang, und da man in den Ventilationsschacht
+nur aus Grosbys Kabine gelangen kann, da
+Grosby außerdem ebenfalls vor dem letzten Gang für drei
+Minuten kurz nach diesem Boncard sich aus dem Speisesaal
+entfernte, dürfte der Advokat ihn bei sich eingeschlossen
+haben. Das wäre das Nötigste zu Deiner Information,
+mein Alter. Ich könnte höchstens noch hinzufügen,
 daß das rechteckige Loch in der Seekarte noch nicht vorhanden
-war, als wir uns zum
-Essen in den Speisesaal
-Mithin dürfte meine Behauptung, bat riß auch
+war, als wir uns zum Essen in den Speisesaal
+begaben. Mithin dürfte meine Behauptung, daß sich auch
 <@pagebreak/>
-in der Wand ein Bohrloch besuchst, wo urteilen.
-»Wie gefällt Dir meine a er Harald
+in der Wand ein Bohrloch befindet, wohl zutreffen.
+
+»Wie gefällt Dir meine Lösungsart?« fragte Harald
 jetzt.
 
 Natürlich war auch dies nur für den Lauscher bestimmt,
 und daher erwiderte ich:
 
-»Vorzüglich! — Noch einen Aunenblil. Ich bin Vor
-fort aha
+»Vorzüglich! — Noch einen Augenblick. Ich bin sofort
+fertig.«
 
 Ich las weiter:
 
-Nun zu Grosbys Person und zu feinem Verhalten.
-Ich glaube, er wird nur unseretwegen nach Kolombo ne
-reist sein. Er mag zunächst wirklich die Absicht gehabt
-haben,. meine Hilfe in Anspruch zu nehmen. Aus irgend
-welchen Gründen änderte er feinen Entschluß in Kolombo
+Nun zu Grosbys Person und zu seinem Verhalten.
+Ich glaube, er wird nur unseretwegen nach Kolombo gereist
+sein. Er mag zunächst wirklich die Absicht gehabt
+haben, meine Hilfe in Anspruch zu nehmen. Aus irgend
+welchen Gründen änderte er seinen Entschluß in Kolombo
 und wollte, als er irgendwie erfuhr, daß auch wir heute
-nach Bombay reifen würden, ein zufälliges Zusammensteckten
+nach Bombay reisen würden, ein zufälliges Zusammentreffen
 vortäuschen. Am wichtigsten ist, daß er so offensichtlich
-verwirrt wurde, als er erwähnte, der Umschlag des Ori-nalteslaments
+verwirrt wurde, als er erwähnte, der Umschlag des Originaltestaments
 sei verschwunden. Ich nehme an, mit diesem
-Umschlag hat es eine besondere Bewandtnis. Au dies
+Umschlag hat es eine besondere Bewandtnis. All dies
 wird sich aufklären lassen.
 
-Das Silbenkreuz läßt sich ohne. sehe Berehmmng und
-Anstrengung herunterlesen. Lady Minuten hat bei der Erfand
-dieser Geheimschrift nichts gerade übermäßig viel
-Barkasse verraten. Lies von oben, mit »Wo« anfangend,
-Rede zweite Silbe, See dies von links am Querbalken des
-Kreuzes fort, und. Du erhältst:
+Das Silbenkreuz läßt sich ohne jede Berechnung und
+Anstrengung herunterlesen. Lady Myntor hat bei der Erfindung
+dieser Geheimschrift nicht gerade übermäßig viel
+Phantasie verraten. Lies von oben, mit »Wo« anfangend,
+jede zweite Silbe, setze dies von links am Querbalken des
+Kreuzes fort, und Du erhältst:
 
-Wo ein Klo uz in Buch Esel sen ein gern riß elf
+Wo ein Kre uz in Buch tfel sen ein gem eiß elt
 
 Also: »Wo ein Kreuz in Buchtfelsen eingemeißelt«. —
 Dann dasselbe am Querbalken von rechts nach links und
 am Längsbalken von unten nach oben:
 
-ist da Biegt Blei Kap getan ter den Steh nen,
+ist da li egt Blei Kap sel un ter den Stei nen,
 
-also: »ist, da Dient Bleikapfel unter den Steinen«.
+also: »ist, da liegt Bleikapsel unter den Steinen«.
 
 Freund Boßwell und alle anderen haben eben, wie ich
 schon Grosby gegenüber betonte, Schwierigkeiten gesucht,
-Zoo feine vorhanden sind, und daher feinen Erfolg gehabt.
+wo keine vorhanden sind, und daher keinen Erfolg gehabt.
 
-Um nun die Sachlage hier: zu klären, schreibe Du
+Um nun die Sachlage hier zu klären, schreibe Du
 scheinbar zur Unterstützung Deines Gedächtnisses, die Lösung
-auf ein anderes Matt Papier und falle das PVapier
+auf ein anderes Blatt Papier und lasse das Papier
 <@pagebreak/>
-auf dem Schreibtisch Liegen, wenn wir — scheinbar —
+auf dem Schreibtisch liegen, wenn wir — scheinbar —
 zu Bett gehen. Meine Niederschrift werde ich verbrennen.
-Wir dürfen den Lauscher auf keinen Fall Ne
+Wir dürfen den Lauscher auf keinen Fall mißtrauisch
 machen.
 
 Hiermit endete Haralds Mitteilung.
 
-»Verblüffend einfach!« faule ich nun und fügte rasch
-hinzu; als er das Blatt Papier zweimal durch riß:
+»Verblüffend einfach!« sagte ich nun und fügte rasch
+hinzu, als er das Blatt Papier zweimal durchriß:
 
-»Halt ich möchte mir den Wortlaut der Lösung
+»Halt — ich möchte mir den Wortlaut der Lösung
 abschreiben.«
 
-Ich tat es. Harst verbrannte dann die Stücke feiner.
+Ich tat es. Harst verbrannte dann die Stücke seiner
 Niederschrift, gähnte und meinte:
 
 »Ueber die Lösung und ihre Bedeutung wollen wir
 uns morgen unterhalten. Jetzt bin ich zu müde.«
 
 Ich legte, genau wie Harald es gewünscht hatte, das
-Papier auf den Schreibtisch. Dann begannen wir uns in.
+Papier auf den Schreibtisch. Dann begannen wir uns in
 der Schlafkabine zu entkleiden. Wir hatten die Schiebetür
 weit offen gelassen.
 
-»Gute Nacht, mein Alter,« rief Harald. von u.
-Bett aus und drehte Die Deckenlampe aus
+»Gute Nacht, mein Alter,« rief Harald von seinem
+Bett aus und drehte die Deckenlampe aus.
 
 Dunkelheit.
 
 Dunkelheit und drückende Hitze.
 
 Dazu das leise Surren der Ventilatoren und das
-ferne gleichmäßige Stampfen der Sciffsmafchinen.
+ferne gleichmäßige Stampfen der Schiffsmaschinen.
 
-Ich hatte mich im Bett sofort aufrecht gelebt. Wenn
-ich mich etwa nach links bog, konnte ich durch Die obere
+Ich hatte mich im Bett sofort aufrecht gesetzt. Wenn
+ich mich etwas nach links bog, konnte ich durch die obere
 Schiebetür den Schreibtisch sehen. Das heißt: ich hätte
 ihn gesehen, wenn im Wohnraum Licht gebrannt hätte. —
 
-Nach einer Weile war es mir, als ob ich ein
+Nach einer Weile war es mir, als ob ich ein Geräusch
 in der Wohnkabine hörte.
 
 Es klang wie ein leises Klirren.
 
-Ich erhob mich lautlos, huschte zu Haralds Bett hinüber,«
-tastete mit der Hand Über die Kissen.
+Ich erhob mich lautlos, huschte zu Haralds Bett hinüber,
+tastete mit der Hand über die Kissen.
 
 Es war leer.
 
@@ -531,26 +571,26 @@ Auch nicht eine winzige Spur von Licht, von Helle
 irgendwo.
 
 Mit bloßen Füßen schlich ich über den feinen, buntem
-Bastteppich zur Schiebetür, blieb sicher, lauschte.
+Bastteppich zur Schiebetür, blieb stehen, lauschte.
 
 Nichts — nichts —
 
 Wo war Harald?! Wo nur?!
 
 <@pagebreak/>
-Ab tat noch zwei Schritte vorwärts,
+Ich tat noch zwei Schritte vorwärts.
 
 Da wieder das Klirren.
 
 Und nun schoß plötzlich aus der Finsternis wie ein
-greller Strich ein dünner bohrenden heraus und fiel gerade
-auf den Schreibtisch, nur eine Stelle der Platte be-leuchtend.
+greller Strich ein dünner Lichtfaden heraus und fiel gerade
+auf den Schreibtisch, nur eine Stelle der Platte beleuchtend.
 
-Und — erlosch schon na
+Und — erlosch schon wieder.
 
-Das war so schnell an, daß ich kaum wahrgenommen
-hatte, ob der weh ichtsirahl wirklich aus dem
-Loche der Seekarte Getrauten Zuvor.
+Das war so schnell gegangen, daß ich kaum wahrgenommen
+hatte, ob der weiße Lichtstrahl wirklich aus dem
+Loche der Seekarte gekommen war.
 
 Abermals nichts als das Surren der Ventilatoren,
 das Stampfen der Maschinen und das Schlappen der
@@ -562,70 +602,71 @@ Dicht vor mir.
 
 »Harald,« hauchte ich.
 
-und als Antwort umkrallte eine Hand meinen Arm
+Und als Antwort umkrallte eine Hand meinen Arm.
 
 Nun an meinem Ohr der leichte Luftzug eines hastig
 atmenden Mundes.
 
 Nun die Worte — wie ein Wehen nur:
 
-»Ich hoffte, er Er hier einzudringen versuche
-begreife nicht, was —«
+»Ich hoffte, er würde hier einzudringen versuchen.
+Ich begreife nicht, was —«
 
 Da — ein Knistern, als ob ein Gegenstand rasch den
-Rand eines Papierblattes speist.
+Rand eines Papierblattes streift.
 
-»Stil!!« hauchte Harst, »Hier geht etwas vor, das
-mir noch unklar ist
+»Still!« hauchte Harst. »Hier geht etwas vor, das
+mir noch unklar ist —«
 
-Ein Anden wir und warteten — warteten,
+So standen wir und warteten — warteten.
 
-standen so wohl eile Viertelstunde.
+Standen so wohl eile Viertelstunde.
 
 Nichts mehr jetzt — nichts.
 
-genoß As mein ‘Herz klopfen, hörte das Blut in wer
-ren fingen.
+Ich hörte mein Herz klopfen, hörte das Blut in meinen
+Ohren singen.
 
 Ich wollte mir nichts entgehen lassen, strengte meine
 Sinne an.
 
 Dann — es mochte jetzt eine halbe Stunde vergangen
-— dann in der Nähe irgendwo ein dumpfer, kurzer
-Ehre
+sein — dann in der Nähe irgendwo ein dumpfer, kurzer
+Schrei.
 
-»Und wieder Haralds Stimme unmittelbar an meinem
+Und wieder Haralds Stimme unmittelbar an meinem
 Ohr:
 
-Hörtest Du?! Was mag das zu bedeuten haben?
+»Hörtest Du?! Was mag das zu bedeuten haben?
 Es war —«
 
 <@pagebreak/>
-Jetzt raunten draußen Im Gange zwei Leute vorüber
-mit fchtweren Stiefeln.
+Jetzt rannten draußen im Gange zwei Leute vorüber
+mit schweren Stiefeln.
 
-Er Ruf — undeutlich nur — irgendwo in der Nähe
-D
+Ein Ruf — undeutlich nur — irgendwo in der Nähe
+an Deck:
 
-»Mann über Bord — Paar über Beißt«
+»Mann über Bord — Mann über Bord!«
 
-Da ließ Hart Hand meinen Arm frei. he
-Cm der Wohnkabine flammte das Licht auf.
+Da ließ Harsts Hand meinen Arm frei.
+
+In der Wohnkabine flammte das Licht auf.
 
 <h2>3. Kapitel.</h2>
 <h3>Um Lady Lydias Reichtümer.</h3>
 
-So die Uns Rarer« rief Harald leise. »An Der!«
+»In die Gummimäntel!« rief Harald leise. »An Deck!«
 
-Er hatte das Licht Kmaeinekten ‚Er reiste lebt mit
-Ei Schein Blick die eibtischplaite.
+Er hatte das Licht eingeschaltet. Er streifte jetzt mit
+raschem Blick die Schreibtischplatte.
 
-Mach ich schaute hin.
+Auch ich schaute hin.
 
 Der Zettel war verschwunden — der Zettel mit der
 Lösung des Silbenkreuzes!
 
-Verschiounden — aber wie — wie nur?!
+Verschwunden — aber wie — wie nur?!
 
 Harald sprang schon zur Gangtür, untersuchte Schloß
 und Riegel, entdeckte nichts.
@@ -635,23 +676,23 @@ klappten die Kragen hoch, verließen die Kabine, schlossen
 hinter uns ab und fanden auf Deck den Ersten Offizier und
 mehrere Matrosen an der Backbordreling stehen.
 
-Einer der Matrosen beteuerte nochmals: »Es ist be
-stimmt ein Mann über Bord gesprungen. Ich sah, wie er
-sich auf die Reling schwang und sich in die See Biene«
-Die Nacht war außerordentlich dunkel. Der mit die!:
-Gewölk bedeckte Himmel schien Über dem dabei
-wütenden Schiffe wie eine schwarze Glocke zu wehen.
-ne es e konnte man die Wellenfänmie als Mut
+Einer der Matrosen beteuerte nochmals: »Es ist bestimmt
+ein Mann über Bord gesprungen. Ich sah, wie er
+sich auf die Reling schwang und sich in die See stürzte.«
+Die Nacht war außerordentlich dunkel. Der mit dichtem
+Gewölk bedeckte Himmel schien Über dem dahingleitenden
+Schiffe wie eine schwarze Glocke zu schweben. Nur
+in nächster Nähe konnte man die Wellenkämme als helle,
+bewegliche Striche erkennen.
 
-Der Erste se Dreisten, wandte ich an Harald:
+Der Erste Offizier, wandte sich an Harald:
 
-»Mr. Harst, was halten Sie von der Sache? Es bat
-wohl ¡ cf Zweck, daß ich beidrehen lasse —« (Beidrehen
+»Mr. Harst, was halten Sie von der Sache? Es hat
+wohl kaum Zweck, daß ich beidrehen lasse —« (Beidrehen
 — das Schiff beschreibt dann einen Bogen und läuft auf
 dem bisherigen Kurse zurück.)
 
 <@pagebreak/>
-
 »Nein, es hat keinen Zweck,« erklärte Harald. »Wollen
 Sie mir mal Ihr Nachtglas geben —«
 
@@ -659,22 +700,22 @@ Er stellte dann das Glas ein und suchte so die Umgebung
 des Dampfers ab, ging bis ans Heck und spähte
 auf das düstere Meer hinaus.
 
-»Es muß doch einer der Passagiere Selbsturord beabsichtigt
+»Es muß doch einer der Passagiere Selbstmord beabsichtigt
 haben,« meinte der Erste Offizier zu mir. »Der
 Mann hätte doch im Wasser um Hilfe gerufen. Der Matrose
 müßte die Rufe gehört haben. — Wenn Sie nur nicht
 im Halbschlaf geträumt haben, Tom,« wandte er sich an
 den Matrosen.
 
-Verdammt!« hinmalte der. »Ich schlafe auf Wache
+»Verdammt!« brummte der. »Ich schlafe auf Wache
 nicht! Es sprang jemand über Bord!«
 
 Harald gab dem Ersten Offizier das Glas zurück.
 
-»Es wird ein Selbstmörder getreten fein,« Tante er
-scheinbar ohne besonderes Interesse. »Gute Wacht. Worden
+»Es wird ein Selbstmörder gewesen sein,« sagte er
+scheinbar ohne besonderes Interesse. »Gute Nacht. Morgen
 früh können Sie leicht feststellen, ob jemand von den
-Meer oder der Bejahung fehlt.« —
+Passagieren oder der Besatzung fehlt.« —
 
 Wir kehrten in unsere Kabine zurück.
 
@@ -685,114 +726,116 @@ Ich hatte mir bereits eine Ansicht gebildet.
 
 »Boncard ist entflohen?« fragte ich.
 
-»Ja — naht der Lösung! Ziehen wir uns zu!«
+»Ja — mit der Lösung! Ziehen wir uns an!«
 
 Wir gingen in die Schlafkabine, fuhren in die Kleider.
 
 »Wie stahl er sie?« wollte ich wissen.
 
 »Durch das Loch mit Hilfe eines spitzen Drahtes,
-der einen Haken hatte. Du hörtest doch das Abirren. Er
+der einen Haken hatte. Du hörtest doch das klirren. Er
 stieß mit dem Draht gegen den Aschbecher. Dann wagte
 er, als er ohne Licht den Zettel nicht fand, die Schreibtischplatte
 zu beleuchten. Das Loch in der Wand muß also
-bedeutend größer fein, als ich anfänglich annahm. Du
-sahst, daß die Seekarte jetzt viel weiter ausgerissen war —«
+bedeutend größer sein, als ich anfänglich annahm. Du
+sahst, daß die Seekarte jetzt viel weiter aufgerissen war —«
 
 »Nein. Ich sah nur, daß der Zettel fehlte —«
 
-Harst zog die Narr über, griff nach der Mütze.
+Harst zog die Jacke über, griff nach der Mütze.
 
 »Ich fürchte, wir werden Grosby tot vorfinden. Auch
-in diesem Punkte habe ich Diesmal falsch kombiniert. Der
-Advokat war wechsel mit Boncard im Bunde. Er verließ
+in diesem Punkte habe ich diesmal falsch kombiniert. Der
+Advokat war nicht mit Boncard im Bunde. Er verließ
 den Speisesaal, um Boncard zu beobachten. Er muß ihn
 gekannt und für gefährlich gehalten haben. Vielleicht war
 <@pagebreak/>
-Wo Land, ‘ver natürlich gar anders heißen dürfte, ihm
-ach Kolombo gefolgt, und Grosby suchte uns aus Furcht
-or Boncard im Mount Lapinia-Hotel nicht auf —«
+Boncard, der natürlich ganz anders heißen dürfte, ihm
+nach Kolombo gefolgt, und Grosby suchte uns aus Furcht
+vor Boncard im Mount Lavinia-Hotel nicht auf —«
 
-Harald öffnete unseren Requisitenkoffer und Zig ein
-Dietriche heraus.
+Harald öffnete unseren Requisitenkoffer und nahm ein
+paar Dietriche heraus.
 
-Auch ich war jetzt fertig, zog die Müde über den Kopf
-betrat Hinter Harst die Wohnkabine.
+Auch ich war jetzt fertig, zog die Mütze über den Kopf
+und betrat hinter Harst die Wohnkabine.
 
-Er stieg aus den Schreibtisch.
+Er stieg auf den Schreibtisch.
 
-»Uebrigens, mein Alter, ib habe vorhin mit dem
-tacbiglase ein Fahrzeug entdeckt, das Boncard aufgefischt
-gaben dürfte,« tagte er, als er. sieht die Seekarte von
+»Uebrigens, mein Alter, ich habe vorhin mit dem
+Nachtglase ein Fahrzeug entdeckt, das Boncard aufgefischt
+haben dürfte,« sagte er, als er jetzt die Seekarte von der
 Wand entfernte.
 
-»Du dem rotbraun Lackierten Holze sah man die weißen
+In dem rotbraun lackierten Holze sah man die weißen
 Bänder eines quadratischen Loches, das gerade groß genug
 war, um die Hand hindurchzuschieben.
 
-Harst hängte wortlos die Karte wieder an,
+Harst hängte wortlos die Karte wieder an.
 
 »Nun zu Grosby —!«
 
-Wir hatten es ja nicht men bis zur Kabine Nr. 4.
-Sie war He a 3 steckte fein Schlüssel von
-By an per Haralds Taschenlampe Fliehe nur für
-gebunden zu
+Wir hatten es ja nicht weit bis zur Kabine Nr. 4.
 
-»Nun schob er einen Dietrich ins Schloß. Ein Knaben
+Sie war verschlossen. Es steckte kein Schlüssel von
+innen im Schloß. Haralds Taschenlampe blitzte nur für
+Sekunden auf.
+
+Nun schob er einen Dietrich ins Schloß. Ein Knacken
 — noch ein Knacken — die Tür war offen.
 
-Wir zogen sie hinter uns zu. A.. nach dem
-Verhalf ¿
+Wir zogen sie hinter uns zu. Ich tastete nach dem
+Lichtschalter.
 
 Strahlende Helle.
 
-Unsere Augen glitten  nachher.
+Unsere Augen glitten umher.
 
 Nichts — leer!
 
-»Merkwürdig!« meinte Harald. »Sollte etwa Grog
-Bad und feine Blicke flogen zu dem Ventilationsgitter
+»Merkwürdig!« meinte Harald. »Sollte etwa Grosby —«
+und seine Blicke flogen zu dem Ventilationsgitter
+empor.
 
-Es war herabaefklappt. Und in der Oeffnung sahen
+Es war herabgeklappt. Und in der Oeffnung sahen
 wir die mit hellen Seidenstrümpfen bekleideten Füße eines
-langes, der offenbar in dem Ventilationsrohr zusammen
-unten quer sichtbar war eine Hand am oberen he
-13 eifnuna Na an wo
+Mannes, der offenbar in dem Ventilationsrohr zusammengesunken
+war, da auch eine Hand am oberen Rande
+der Oeffnung noch sichtbar war.
 
-¿Akt Grosby!1» gute »Harald leise. »Der tote
-ro
+»Advokat Grosby!« sagte Harald leise. »Der tote
+Grosby!«
 
-Ich her noch erklärend einfügen, daß die India
-ein ie ampier ich war Und: daß. die Ventilationsvor-richtungen
+Ich muß hier noch erklärend einfügen, daß die India
+ein älterer Dampfer war und daß die Ventilationsvorrichtungen
 <@pagebreak/>
 ihre großen Mängel hatten, da immer ein Rohr
-zu zwei Kabinen gehörte, so daß man, wenn die Schubagit-ter
+zu zwei Kabinen gehörte, so daß man, wenn die Schutzgitter
 herabgeklappt waren, ohne besondere Schwierigkeit
 aus einer Kabine in die andere gelangen konnte.
 
-Unter der Ventilationsöffnung stand noch, neuen die
+Unter der Ventilationsöffnung stand noch, gegen die
 Wand gelehnt, Grosbys Koffer, den er wohl als Tritt
-derart hatte.
+benutzt hatte.
 
-es war nicht ganz leicht, den Körper des Advokaten
+Es war nicht ganz leicht, den Körper des Advokaten
 aus dem engen Rohr herauszuholen.
 
 Als wir ihn dann mitten in die Kabine auf den Bastteppich
-legten, schlafen wir beide vor dem Gesichtsausdruck
-der noch warnen Leiche unwillkürlich zurück.
+legten, schraken wir beide vor dem Gesichtsausdruck
+der noch warmen Leiche unwillkürlich zurück.
 
 Dieses Gesicht war wie eine Maske wildesten Entsetzens.
-Die herausgequolleunen Augen, die etwas heraus
+Die herausgequollenen Augen, die etwas heraus
 hängende Zunge und die offenbar in höchster Todesangst
-blutig gebijsseue Unterlippe wirkten mehr als abschreckend.
+blutig gebissene Unterlippe wirkten mehr als abschreckend.
 
-Harst schaute mich zu.
+Harst schaute mich an.
 
 »Erstickt,« meinte er. »Durch ein Gas — durch irgend
-ein Teuselsgemenge, wahrscheinlich eine Gaspatrone, die
-angefeuchtet worden ist und das Gas dann nach oben aus«
-strömen ließ.«
+ein Teufelsgemenge, wahrscheinlich eine Gaspatrone, die
+angefeuchtet worden ist und das Gas dann nach oben ausströmen
+ließ.«
 
 Er bückte sich und fühlte nach dem Puls des stummen,
 stillen Mannes.
@@ -801,11 +844,11 @@ stillen Mannes.
 Arm des Toten wieder auf den Teppich. — »Nun nach
 Nr. 3. Dann müssen wir dem Kapitän den Mord melden.
 
-er Nr. 3 war verschlossen, auch hier fehlte der
-el.
+Auch Nr. 3 war verschlossen, auch hier fehlte der
+Schlüssel.
 
 Als wir eintraten, spürten wir sofort einen scharfen
-Gans der uns zum Hüsteln zwang.
+Geruch, der uns zum Hüsteln zwang.
 
 »Lüften wir erst mal,« sagte Harald.
 
@@ -813,16 +856,16 @@ Ich hatte das Licht sofort eingeschaltet, öffnete nun
 die Tür ganz weit und blieb dicht daneben stehen, während
 Harald das runde Fenster aufzog.
 
-Links neben dem Waschtisch standen VBoncards Koffer
-und Reisetasche aus dem Kosservock. Unter der Ventilationsöffnung
-(auch hier war das Schubgitter herabgeklappt)
-sag auf den gewachsten Dielen ein kleiner Blechzylinder,
+Links neben dem Waschtisch standen Boncards Koffer
+und Reisetasche auf dem Kofferbock. Unter der Ventilationsöffnung
+(auch hier war das Schutzgitter herabgeklappt)
+lag auf den gewachsten Dielen ein kleiner Blechzylinder,
 ähnlich einer Zahnpastentube.
 
 Harald, der jetzt diesen Zylinder aufhob, taumelte
 <@pagebreak/>
-plötzlich, warf ihn von sich und wankte der Tür Er
-an blaß geworden und holte röchelnd Atem. Ich tröste
+plötzlich, warf ihn von sich und wankte der Tür zu. Er
+war blaß geworden und holte röchelnd Atem. Ich stützte
 ihn.
 
 »Der — Gaszylinder!« sagte er undeutlich. »Es muß
@@ -835,13 +878,13 @@ Da — hinter uns des Kapitäns Stimme:
 
 Harst hatte sich schon wieder erholt.
 
-»Mr. Bureau,« erklärte er leise, da im Gange auch
+»Mr. Duncam,« erklärte er leise, da im Gange auch
 ein paar Matrosen sichtbar wurden, »es ist ein Mord verübt
 worden. Advokat Grosby ist tot, und der Insasse dieser
 Kabine ist der Mann, der vorhin über Bord sprang.«
 
-Kapitän PDuncam, ein rotbärtiger, stiernackiger
-Fänden, Schicke die Matrosen weg.
+Kapitän Duncam, ein rotbärtiger, stiernackiger
+Irländer, schickte die Matrosen weg.
 
 Die Zugluft hatte die Kabine von Gasen gereinigt.
 Wir traten ein.
@@ -854,151 +897,150 @@ Dort kann die Polizei die Leiche von Bord holen und
 dort werde ich zu Protokoll geben, was ich weiß.«
 
 Duncam war froh, daß er sich mit der Sache nicht
-weiter zu befallen brauchte,
+weiter zu befassen brauchte.
 
-Hai schleckte dann folgende Dapelcde nach dem Hafen
-Flut (an der Malabar-Küste Vorderindiens) bare
-aus:
+Harst schickte dann folgende Depesche nach dem Hafen
+von Kalikut (an der Malabar-Küste Vorderindiens) voraus:
 
 > Polizeibehörde Kalikut.
 
-> Bitte fchnelftes Schiff des Hafens, möglichst Motoryacht,
-mit Beamten Tourdampfer Jundia entgegenzu-senden
+> Bitte schnellstes Schiff des Hafens, möglichst Motorjacht,
+mit Beamten Tourdampfer India entgegenzusenden
 und für längere Fahrt auszurüsten. Kosten
 trage ich. Hier an Bord der India Advokat Grosby aus
 Bombay ermordet worden. Bitte besonders dringend
-Darum, daß der Anhalt dieser Depesche geheim bleibt
+darum, daß der Inhalt dieser Depesche geheim bleibt
 und daß ebenso Abfahrt und Zweck des verlangten
-Fahrımn8 verheimlicht wird,
+Fahrzeugs verheimlicht wird.
 
 > Harald Harst. Detektiv.
 
 <@pagebreak/>
 
-> zur Zeit an Bord der Artig auf der Höhe von Alleppi.
+> zur Zeit an Bord der India auf der Höhe von Alleppi.
 
-Gegen ein Uhr morgens waren wir in unserer Beruhige
+Gegen ein Uhr morgens waren wir in unserer Kabine
 wieder allein, nachdem Harald Mr. Duncam noch bei der
-Auslegung des vorgeschriebenen Protokolls über den Mord
+Aufsetzung des vorgeschriebenen Protokolls über den Mord
 geholfen hatte.
 
-Duncam schickte uns jetzt und durch einen Steward
-den Kaffee, um den Harst gebeten hatte, Der Steward
-verschwand, und ich füllte aus der großen Nickellanne die
+Duncam schickte uns jetzt auch durch einen Steward
+den Kaffee, um den Harst gebeten hatte. Der Steward
+verschwand, und ich füllte aus der großen Nickelkanne die
 beiden Tassen.
 
-Harald saß in. der. Sofacke mit der leicht qualmenden
-Mirakufunt zwischen neu Fingern und sagte mir:
+Harald saß in der Sofacke mit der leicht qualmenden
+Mirakulum zwischen den Fingern und sagte nur:
 
-»Du solltest lieber strafen gehen und Vorrat folgten.
-Es dürften uns sehr anstrengende Tasse bevorslchen. Es
-genügt, wenn ich mriblermc und mir diese seltsame Geschichte
+»Du solltest lieber schlafen gehen und Vorrat schlafen.
+Es dürften uns sehr anstrengende Tage bevorstehen. Es
+genügt, wenn ich aufbleibe und mir diese seltsame Geschichte
 durch den Kopf gehen lasse.«
 
-»Wobei ich Dir gern Geselschost leiste,« meinte ich
-und Kahne neben ihm laß. »Zumal ich gern einiges na
-Damals.«
+»Wobei ich Dir gern Gesellschaft leiste,« meinte ich
+und nahm neben ihm Platz. »Zumal ich gern einiges fragen
+möchte.«
 
-Harst tauchte Er Stückchen Zucker iù den Kaffee.
+Harst tauchte ein Stückchen Zucker in den Kaffee.
 
-ne ne Art:
+»Bitte — frage!«
 
-»Wer mag dieser angeblich Bereut Ben?«
+»Wer mag dieser angeblich Boncard sein?«
 
-Palast zerkaute erst das Zuckerstückchen und spülte es
+Harald zerkaute erst das Zuckerstückchen und spülte es
 mit einem Schluck Kaffee hinab.
 
-»Ein Mann, der entweder Lady Myntor gut formte
-oder den Advokaten. HZedensalls ein Mann, der wußte,
-das die Lady bei Grosby ein Tesiconent verrostet hatte
-und der sich vielleicht schon per Bein Tode der Litt Mond
-Wagnis von den Inhalt des versiegelten Umso Zig verscnalll
-háâtte, also vielleicht ein Angestellter des Anwalts oder dar
-ein naher Verwandter von ihm.«  By
+»Ein Mann, der entweder Lady Myntor gut kannte
+oder den Advokaten. Jedenfalls ein Mann, der wußte,
+das die Lady bei Grosby ein Testament deponiert hatte
+und der sich vielleicht schon vor dem Tode der Lady Kenntnis
+von dem Inhalt des versiegelten Umschlags verschafft
+hatte, also vielleicht ein Angestellter des Anwalts oder gar
+ein naher Verwandter von ihm.«
 
-»Ah — Du fragtest den Kapitän nach Grosbys 7a-
-urifienverhältniffen ans —«
+»Ah — Du fragtest den Kapitän nach Grosbys
+Familienverhältnissen aus —«
 
-»Da — und Du hörtest, daß Gereiht einen Ton hat
-der schmälere Ebenen bereitet, einen Etieflenn. Maus
-Albert Dracon. Wenn Du den Namen Boncard von eile
-abwärts liest, ergibt das Stachel. Das hat große Klang-ähnlichfeit
-mit Froren«
+»Ja — und Du hörtest, daß Grosby einen Sohn hat
+der ihm große Sorgen bereitet, einen Stiefsohn namens
+Albert Dracon. Wenn Du den Namen Boncard von rückwärts
+liest, ergibt das Dracnob. Das hat große Klangähnlichkeit
+mit Dracon.«
 
-»Das spricht für Deine Veruntung — allerdings.«
+»Das spricht für Deine Vermutung — allerdings.«
 
-»Außerdem spricht dasiür zu CGroébys trauriges Wesen.
-das mir fern an der Abendtafel auffiel. Er ahnte
+»Außerdem spricht dafür auch Grosbys trauriges Wesen,
+das mir schon an der Abendtafel auffiel. Er ahnte
 <@pagebreak/>
-eben, daß fein Stiefsohn derjenige war, der den Umschlag
+eben, daß sein Stiefsohn derjenige war, der den Umschlag
 des Testaments heimlich geöffnet hat, was er — Grosby
-— Dahriceinlich erst kurz vor der Testamentserö zwang
-merkte. Er sah, daß die Siegel vorsichtig abgelö
-wieder aufgeklebt waren. Damit dies Log jetzt noch heitert.
-er Nr den Umschlag vernichtet.«
+— wahrscheinlich erst kurz vor der Testamentseröffnung
+merkte. Er sah, daß die Siegel vorsichtig abgelöst und
+wieder aufgeklebt waren. Damit dies nicht jetzt noch herauskäme,
+hat er selbst den Umschlag vernichtet.«
 
-lb seine Verlegenheit! Das leuchtet
+»Bravo! — Deshalb seine Verlegenheit! Das leuchtet
 ein!«
 
 »Es wird sich kaum anders verhalten. Du hörtest
-aber »auch noch weiter von Duncam, der ja in Bombay
-feinen Betritt bat, daß in Bombay alle Welt über die geringe.
+aber auch noch weiter von Duncam, der ja in Bombay
+seinen Wohnsitz hat, daß in Bombay alle Welt über die geringe
 Hinterlassenschaft Lady Myntors enttäuscht und verwundert
 ist. Man hielt sie allgemein für enorm reich.
 Auch dies hat Grosby uns verschwiegen.«
 
 »Und der Grund dafür?«
 
-»Weil er eben argwöhnte, sein Stiefsohn n wolle den
-»letzten Wunsch« der Lady für sich ausbeuten.
+»Weil er eben argwöhnte, sein Stiefsohn wolle den
+»letzten Wunsch« der Lady für sich ausbeuten.«
 
 Ich dachte nach, sagte dann:
 
 »Du nimmst an, Lady Myntor hat den größten Teil
-ihres Erben in der Bleikapfel in der » Bucht verborgen?«
+ihres Vermögens in der Bleikapsel in der Bucht verborgen?«
 
-»Ja und nein! — Das Silbenkreuz und die Säße des
+»Ja und nein! — Das Silbenkreuz und die Sätze des
 Testaments:
 
-> — der gleichzeitig für mich eine schwere Bloß-elfuna
-meines Gharalterd enthält. So überlasse es
-daher der Fügung des Schicksals, ob das, er mein
-Gewissen mir gebietet verwirklicht Erden soll —
+> — der gleichzeitig für mich eine schwere Bloßstellung
+meines Charakters enthält. Ich überlasse es
+daher der Fügung des Schicksals, ob das, was mein
+Gewissen mir gebietet verwirklicht werden soll —
 
 deuten mit aller Bestimmtheit darauf hin, daß Lady
-Maria Myntor einst eitle schwere Ich riß a zu geladen hat
-und daß sie, u ich schon vorher betont habe,
-dadurch wettmachen wollte, daß sie nach he Sag Ben
-oder die Geschädigten irgendwie durch ein Vermä
-verlohnte. Jetzt, wo Duncam von dem Reichtum je
-Marias gesprochen hat, wird man hier fraglos ein Gesld-bermächtnis
+Maria Myntor einst eine schwere Schuld sich aufgeladen hat
+und daß sie, wie ich schon vorher betont habe, diese Schuld
+dadurch wettmachen wollte, daß sie nach ihrem Tode den
+oder die Geschädigten irgendwie durch ein Vermächtnis
+versöhnte. Jetzt, wo Duncam von dem Reichtum Lady
+Marias gesprochen hat, wird man hier fraglos ein Geldvermächtnis
 annehmen können.«
 
-»Ganz meine Meinung,« erklärte ich, als Harald wie
-der einen Schluck Kaffee trank. »Ich möchte sogar rt
+»Ganz meine Meinung,« erklärte ich, als Harald wieder
+einen Schluck Kaffee trank. »Ich möchte sogar
 behaupten,« fuhr ich fort, »daß ihre Leiche nur deshalb in
-der Bucht der Schotakadscha-Fusel ihrem Wunsche nach
-»versenkt werden soll. kauft man [leichter merkt, welcher
+der Bucht der Schotakadscha-Insel ihrem Wunsche nach
+versenkt werden soll, damit man leichter merkt, welcher
 <@pagebreak/>
 *Buchtfelsen* in dem Silbenkreuz gemeint ist, — ein
-gen, also an einer Bucht mit einem einnemeißelten
-neun!«
+Felsen also an einer Bucht mit einem eingemeißelten
+Kreuz!«
 
 Harald nickte.
 
 »Du sprichst meine Gedanken aus. Das Kreuz in
-dem Felsen ist in der Bucht der Angel Schotakadscha zu
-suchen. Und dort unter. den Steinen unterhalb des Ureu-zes
-ruht eine Bleikapfel, die wahrscheinlich ein anderes
-Schriftstück von Lady Marias Hand enthält, worin sich ihre
+dem Felsen ist in der Bucht der Insel Schotakadscha zu
+suchen. Und dort unter den Steinen unterhalb des Kreuzes
+ruht eine Bleikapsel, die wahrscheinlich ein anderes
+Schriftstück von Lady Marias Hand enthält, worin sie ihre
 einstige Verfehlung genau angibt und auch Bestimmungen
-getroffen bat, wie der größte, anderswo verborgene
-ihres Vermögens denen zugute kommen soll, die sie
-einst [Endigte.
+getroffen hat, wie der größte, anderswo verborgene
+Teil ihres Vermögens denen zugute kommen soll, die sie
+einst schädigte.«
 
-»Also — eitle Schabsuchergeschichte.«
+»Also — eine Schatzsuchergeschichte.«
 
-»in gewissem Sinne ja.«
+»In gewissem Sinne ja.« —
 
 »Etwas anderes, Harald,« meinte ich, nachdem ich
 mir eine Zigarre angezündet hatte. »Weshalb ermordete
@@ -1007,97 +1049,97 @@ Boncard-Dracon den Anwalt?«
 »Damit Grosby nicht den Verdacht auf Dracon, der
 natürlich verkleidet war, lenken könnte, wenn Dracon die
 Bleikapsel nun gestohlen hat, nachdem er die Lösung des
-Silbenkreuzes kennt.. Dracon wird tust dem: Fahrzeug,
-das ihn ausstreckte, und mit seinen Helfershelfern sofort
-nach der Bei Bares Jahren
+Silbenkreuzes kennt. Dracon wird mit dem Fahrzeug,
+das ihn auffischte, und mit seinen Helfershelfern sofort
+nach der Insel fahren —«
 
-ne  Btlftienbenterkung. sie Ritzen
-ist ne der »bin von Stolombo aus gefolgt
+»Halt — eine Zwischenbemerkung. Dieses Fahrzeug
+ist also der India von Kolombo aus gefolgt?«
 
-»Ja. Es brachte Dracon nach Uolombo und kreuzte
-draußen in So bis die Indra den Hafen verließ. und
-Dracon feinen Verbündeten. ein Zeichen gab, daß sie der
-Indra folgen sollten, weil Harst an Bord wäre, an den
+»Ja. Es brachte Dracon nach Kolombo und kreuzte
+draußen in See, bis die India den Hafen verließ und
+Dracon seinen Verbündeten ein Zeichen gab, daß sie der
+India folgen sollten, weil Harst an Bord wäre, an den
 sich Grosby des Testaments wegen wenden wollte. Es
 liegt hier also ein bis ins kleinste vorbereiteter Plan vor,
 Lady Myntors verborgene Reichtümer zu stehlen.«
 
-»So — auch das ist umm klar. Ich verstehe jetzt auch,
-weshalb Du aus Wohltat ein recht schnelles Schiff verlangt
+»So — auch das ist nun klar. Ich verstehe jetzt auch,
+weshalb Du aus Kalikut ein recht schnelles Schiff verlangt
 hast. Du willst hinter Dracons Fahrzeug her.«
 
 »Natürlich.«
 
 »Wäre es nicht einfacher, an Inspektor Boßwell nach
-Bombay zu telcagravhieren, daß er die Bucht bewachen so!?«
+Bombay zu telegraphieren, daß er die Bucht bewachen so!?«
 
-»Nein, mein vier. Dracon Da! fraglos auch in Yom-bay
+»Nein, mein Alter. Dracon hat fraglos auch in Bombay
 <@pagebreak/>
-noch Helierähelfer, und an kann nie Linien ob diese
-nicht sogar Boßwell ehe im Auge behalten. Kurz: eine
+noch Helfershelfer, und man kann nie wissen, ob diese
+nicht sogar Boßwell stets im Auge behalten. Kurz: eine
 Depesche an Boßwell wäre zu unsicher. Ich würde sie nur
 absenden, wenn man mir aus Kalikut ein allzu langsames
-Seist sendet. Du mußt folgendes in Betracht ziehen:
-Wir mit der Sah fahren nordwärts. Auch Dracons
-Fahrzeug — ich halte es für eine kleine Dampsiacht —
-maß nordwärts nach Schotakadscha steuern, mithin kann
+Schiff sendet. Du mußt folgendes in Betracht ziehen:
+Wir mit der India fahren nordwärts. Auch Dracons
+Fahrzeug — ich halte es für eine kleine Dampfjacht —
+muß nordwärts nach Schotakadscha steuern, mithin kann
 Dracon nur einen geringen Vorsprung gewinnen, falls
 er nicht gerade über eine außerordentlich schnell laufende
 Jacht verfügt. Ich hoffe jedenfalls, wir werden ihn einholen.
-Ja Kalikut wohnen viele Reihe Kaufleute, die sich
-Untersuchten halten und denen es eine Ehre sein wird
+In Kalikut wohnen viele reiche Kaufleute, die sich
+Motorjachten halten und denen es eine Ehre sein wird,
 mir zu helfen.
 
-»Hm — unter biegen Arrestanten ist es doch recht über
-As iq, daß Du nicht zu Du schlafen legst. Beschau
-willst Du wach bleiben k«
+»Hm — unter diesen Umständen ist es doch recht überflüssig,
+daß Du nicht auch Dich schlafen legst. Weshalb
+willst Du wach bleiben?«
 
-Harald blies sehr langsam ein paar Rauchrinuge.
+Harald blies sehr langsam ein paar Rauchringe.
 
 »Weil ich etwas befürchte —«
 
 »Und das wäre?«
 
-»Daß Dracons Fahrzeug funkentelegraphische Ein
-Richtung an Bord hat und daß er daher die Lösung doch
-Silbenkreuzes seinen Hilsershelsern nach Bombay
-Darbietet könnte —«
+»Daß Dracons Fahrzeug funkentelegraphische Einrichtung
+an Bord hat und daß er daher die Lösung des
+Silbenkreuzes seinen Helfershelfern nach Bombay
+depeschieren könnte —«
 
-Ah — Du flüstertest vorhin mit dem Funkentele-rapbisten
+»Ah — Du flüstertest vorhin mit dem Funkentelegraphisten
 der India —«
 
-»Allerdings. Ich bat ihn, genau aufzupassen, ob fein
+»Allerdings. Ich bat ihn, genau aufzupassen, ob sein
 Apparat telegraphische Zeichen, die von einem anderen
-Schiffe gegeben werden, anstaunt. Er soll die Zeichen getan
+Schiffe gegeben werden, auffängt. Er soll die Zeichen genau
 aufnehmen. Ich warte also auf eine Meldung von
-un.«
+ihm.«
 
 »Freilich, dann —«
 
-»— Ja, dann muß ich ch an Boßwell und auch an die
+»— Ja, dann muß *ich* an Boßwell und auch an die
 Polizeidirektion in Bombay, ebenso an Lady Myntors Erbin,
-an Miß Honoria Myntor, sichteten, die jetzt das
+an Miß Honoria Myntor, depeschieren, die jetzt das
 Myntor-Palais bewohnt. Dann müssen eben andere den
-Laub der Bleikapsel zu verhüten suchen.«
+Raub der Bleikapsel zu verhüten suchen.«
 
-Ich füllte mir die Waffe aufs Neue, denn ich wollte
-ausgier bleiben.
+Ich füllte mir die Tasse aufs Neue, denn ich wollte
+munter bleiben.
 
 Harald lächelte.
 
 <@pagebreak/>
-»Lieber Alter, ich kenne Dich. Naß einer halben
-Stunde bist Du in der Sofaecke eingenickt. Da Eilst aller
+»Lieber Alter, ich kenne Dich. Nach einer halben
+Stunde bist Du in der Sofaecke eingenickt. Da hilft aller
 Kaffee nichts.«
 
 Und — er behielt recht!
 
-Ich merkte es Selbft kaum, daß ich einfchlief. Und als
+Ich merkte es selbst kaum, daß ich einschlief. Und als
 Harald mich dann wachrüttelte, war es bereits heller
 Morgen.
 
-»Die Motorjacht ist da,« sagte er strahlend »Und
-Dracon bat nicht depeschiert!«
+»Die Motorjacht ist da,« sagte er strahlend. »Und
+Dracon hat nicht depeschiert!«
 
 <h2>4. Kapitel.</h2>
 <h3>Miß Honoria Myntor.</h3>
@@ -1172,7 +1214,7 @@ Dann fragte er:
 
 »Hat Miß Honoria ins eigene Jacht? ich,
 
-vn »Bampfiacht namens Shallow,«
+un »Dampfjacht namens Shallow,«
 
 »So — so —«
 
@@ -1185,7 +1227,7 @@ Japitän
 »Nein. Jedenfalls nicht mehr in Goa, seit Miß Honoria,
 nach Bombay übergesiedelt ist.«
 
-»Wieviel Knoten läuft die Sumpfige lt.
+»Wieviel Knoten läuft die Sumpfige li.
 
 »Höchstens sechzehn.«
 
@@ -1251,7 +1293,7 @@ Unsere Positionslaternen flammten auf.
 Der Albatroß änderte den Kurs und hielt auf die
 Küste zu.
 
-Dann war die Nebelbauk plötzlich um uns der wie ein
+Dann war die Nebelbank plötzlich um uns der wie ein
 unheimlich dichtes, feuchtes Gewebe.
 
 Plötzlich dicht vor uns das Ergangen eines Schisss-anzafchine.
@@ -1363,7 +1405,7 @@ Die Erachtens Markt der schmalen Hakennase nickte nur.
 
 Gleich darauf wurde erst Bar! von zwei Andern samt
 beim Stuhle wéggeträgen, Tanks brachte ran auch Mich ist
-eine der Kabinen des Mittelschisses, und ein brauner Matrose
+eine der Kabinen des Mittelschiffes, und ein brauner Matrose
 übernahm bei mir die Wache
 
 Die Jacht rollte bereits stark, Ich hörte schwere Brecher
@@ -1396,7 +1438,7 @@ sehr ehe
 »Dann — dann plötzlich oben an Deck ein so schriller
 Schrei, daß auch mein Wächter lauschend den Kopf Lob.
 
-Es war eine Meiberfiimme. Es konnte nur Honorîia
+Es war eine Wellenkämme. Es konnte nur Honorîia
 Myntor gewesen sein.
 
 Der Schrei war nur ein einziges Mal erklungen. Nun
@@ -1410,7 +1452,7 @@ Schmerzen mehr empfindet — nur den einen Wunsch, schlafen
 
 Mein Wächter wurde abgelöst. Ich achtete kaum nen
 E’ 3 achtete rief weniger auf die Sonnenstrahlen, die
-ah das runde Kabinenfenster hincindrangen und aus dem
+ah das runde Kabinenfenster hincIndiangen und aus dem
 Ade, Bastteppich einen ovalen aleibenben frisch berbor-zauberten.
 
 Von ich Berichten weh vor Horn emp um
@@ -1435,11 +1477,11 @@ mich ganz entschieden es zu tun!«
 
 Nun wußte ich ja auch, was der Schrei zu bedeuten gehabt
 hatte! Dieser Schurke hatte sich seiner bisherigen
-Vertrauten bemächtiat, hatte sie schmählich verraten!
+Vertrauten bemächtigt, hatte sie schmählich verraten!
 
 »Oh. — Sie werden es bedauern,« meinte Dracon mit
 erneutem Grinsen. »Die Insel Kiltara ist unbewohnt und
-lege außerhalb jeder Schisfslinie. Wenn wir Sie hier aus
+lege außerhalb jeder Schiffslinie. Wenn wir Sie hier aus
 ücflassen, können Sie jahrelang Religion spielen — Sie,
 Harst und die dumme Miß, die sich eingebildet hat, ich
 würde sie heiraten, wenn wir erst die Muyntorschen Millionen
@@ -1511,7 +1553,7 @@ weniger glaubwürdig ist als wir.« re
 so auf matt aus das Geröll.
 
 Dann trug der Wind uns das Geräusch der arbeitenden
-Schisssmotoren zu.
+Schiffsmotoren zu.
 
 »Sie fahren ab, »schrillte Miß Honorias heisere
 Stimme.
@@ -1540,7 +1582,7 @@ Von Harald und Mit Munter trat nichts zu sehen.
 Dr nach einer Viertelstunde erschienen sie von Not.
 er.
 
-Harst rief schon von weitem; »Es wird ein ganz er-trägliches
+Harst rief schon von weitem; »Es wird ein ganz erträgliches
 Yobinsonleben hier auf Kiltara werden. Dort
 im Norden gibt es in einem kleinen fruchtbaren Tale Trinkwasser,
 Kdpospalmen, Gebüsch und dicht dabei in einer
@@ -1598,14 +1640,14 @@ in den »Perlenshmugalern«
 <h1>Der Perlenschmuggler.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Der Schoner</h3>
+<h3>Der Schoner.</h3>
 
 Für manch einen der Leser wäre es ja vielleicht ganz
 nieressant, zu hören, wie wir uns unser Leben auf Kiltara
 eingerichtet hatten, nachdem Haralds - Voraussage, daß die
 Feucht Albatroß mit Albert Dracon sehr bald wieder er
 kommen würde, nicht eingetroffen war. Aber — ich schreibe
-hier feine Robinfonaden,. sondern Detektivabenteuer, und
+hier feine Robinsonaden,. sondern Detektivabenteuer, und
 Deshalb muß ich er weglassen, was nicht unbedingt zum
 Thema zu rechnen ist. —
 
@@ -1672,8 +1714,8 @@ eine Anzahl Privatjachten und Regierungsdampfer die
 Küstengewässer nach dem Albatroß aufs forgfältiefte abgesucht
 haben — ohne Erfolg! Wir haben auch darauf hingewiesen,
 daß das Verschwinden des Albatroß von vielen.
-Riten in ernste Verbindung mit dem an Bord des Tour-dampfers
-Indra begangenen Morde an dem Advokaten
+Riten in ernste Verbindung mit dem an Bord des Tourdampfers
+India begangenen Morde an dem Advokaten
 Grosby gebracht worden ist, obwohl diese Annahme eines
 verbrecherischen Anschlages auf die Motorjacht sich doch lediglich
 auf Mutmaßungen stützte. Man hat denn auch diese,
@@ -1712,7 +1754,7 @@ andere Beweise dafür, daß Unberufene die Staniol vor bäte
 hatten. Miß Honoria Monitor, die Erbin Lady Marias
 <@pagebreak/>
 konnte diese Fahrt nach der Fusel nicht mitmachen, da sie
-bereite vor drei Wochen mit ihrer Dampfiacht Shallow
+bereite vor drei Wochen mit ihrer Dampfjacht Shallow
 Bombay verlassen hat, um, wie es heißt, nach England zu
 reisen.. Auffallend ist nun, daß auch die Jacht Shallow,
 worauf man liebt erst aufmerksam geworden ist, seit ihrer
@@ -1745,7 +1787,7 @@ mit etwas Phantasie Begabte sich die zwischen den Dinger
 nen Vorgänge fehlenden Stücke, also die verbindenden
 Tatsachen, nach Belieben aufs vielgestaltigste ergänzen kann.
 Zu diesen »fehlenden Stücken« gehört auch insbesondere die
-Aufklärung des Mordes auf der Indra. Wer war der Mörder?
+Aufklärung des Mordes auf der India. Wer war der Mörder?
 War es wirklich Albert Dracon, wie Harst Kapitän
 Duntcam gegenüber angedeutet hat? Weshalb der Mord?
 Wo ist Dracon geblieben? Ertrank er, als er sich über die
@@ -1785,7 +1827,7 @@ eilige Aenderung unserer Daseinsführung! Ich fühle zig
 frisch wie — wie verjüngt! Und — auch die Stunde der
 Befreiung wird kommen! Nur Geduld!«
 
-Am sechsundzwanziasten Tage war ich mit Harald
+Am sechsundzwanzigsten Tage war ich mit Harald
 kurz nach Sonnenaufgang zum gewohnten Bade »in
 stand binabaneftienen, Nie wir by die Nüdenfloffe
 als uns warnte, nun rasch an Land kletterten und uns
@@ -1914,7 +1956,7 @@ alt fein und sah so etwas heruntergekommen aus.
 blonder Spitzbart war offenbar durch Spirituofenrefte
 stellenweise ganz fuchsig geworden. »
 
-Verdammt!« brüllte er mit einen waschechten Whisky-Bak.
+Verdammt!« brüllte er mit einen waschechten Whisky-Baß.
 »Berdanumt, was treiben Sie denn hier auf dem
 gottverlassenen Kiltara?! Schiffbrüchige können Sie kaum
 fein! Dazu sehen Sie zu patent angezogen aus!«
@@ -1944,7 +1986,7 @@ dann.
 ne Stunde verloren. Also dann bitte — ı ins Boot.«
 
 Während der Fahrt zum El Toro w nicht viel gesprochen.
-Boltrell schien nicht sehr Neugier» 1 sein. Harald
+Boltrell schien nicht sehr Neugier« 1 sein. Harald
 erzählte ihm dann ohne Aufforderung ganz kurz, daß
 wir drei infolge einer Wette einen Monat lang auf Kiltara
 die Robinsons gespielt hätten.
@@ -2038,7 +2080,7 @@ Eis hatte.
 Ich denke, ich hab’s in die mittelste gelegt.«
 
 Harst da die Schieblade auf, faßte hinein und rollte
-ein Blatt Cm Quartaröße glatt, lebte sich dann und
+ein Blatt Cm Quartgröße glatt, lebte sich dann und
 betrachtete das
 
 »Soll ich Nase mal versuchen, das Geschriebene zu
@@ -2109,7 +2151,7 @@ Schrift, die ebenso schmucklos wie energisch war.
 er Blatt stand folgendes:
 
 artig iches Mynma, wardie merke Raucher fommg
-Habed ledige ug wardnen small Verrat verbat regten —
+Habed ledige uz wardnen small Verrat verbat regten —
 ums weite
 
 hätte sei
@@ -2129,7 +2171,7 @@ XXX
 Als ich jetzt mit her ‘Flicken auf diese Wörter deutete,
 sagte Bares leise:
 
-»Bravo! Also auch Du hast das Myntor [on ent-Man
+»Bravo! Also auch Du hast das Myntor [Orient-Man
 kann auch diese kindliche Geleimt ist ebenso
 glatt herunterlesen wie das Silbenkreuz.«
 
@@ -2197,14 +2239,14 @@ gute kommen. Maria Myntor.«
 
 »Du könntest den Text gleich für Miß Honoria auf die
 Rückseite des Blattes schreiben,« meinte Harald nun. »Honoria
-wird staunen, glaube ich!»
+wird staunen, glaube ich!«
 
 Ich tat es. Dann gingen wir beide auf Deck auf und
 ab. Miß Myntor hatte sich in ihrer Kammer auf das Bett
 gelegt und war eingeschlafen.
 
 Nach einer Weile erschien denn auch Kapitän Boltrell,
-rieb sich gähnend die Augen, schaute nach der Segelftellung,
+rieb sich gähnend die Augen, schaute nach der Segelstellung,
 schnauzte den Steuermann an und sagte zu uns:
 
 »Ich habe beim Koch ein warmes Frühstück bestellt.
@@ -2359,7 +2401,7 @@ en.
 
 »Woraus?! Womit?! Mit unseren Taschenmessern? 1»
 
-»Aus ‚Ben Palmenftämmen, die wir mit Feuer fällen
+»Aus ‚Ben Palmenstämmen, die wir mit Feuer fällen
 den.«
 
 »Ah! Und dann?!«
@@ -2385,7 +2427,7 @@ Die Gefahr, daß ein Sturm losbrecheu könnte, war
 nicht so erheblich. Wir hatten vor zwei Tagen einen klaren
 heftigen Orkan gehabt und die Erfahrung lehrt, dar zur
 Zeit der Vorlage nach einem falten Sturm mäindesleus
-eine Woche unverändert schönes Wetter herrscht. Ki
+eine Woche unverändert schönes Wetter herrscht. li
 
 Unser Floß, sieben Meter fang und fünf Meter breit,
 bestand aus zwei Lagen von Stämmen. Das Segel, nach
@@ -2406,7 +2448,7 @@ mehr zu entdecken..
 Sechs Tage durchbohren wir das Fernrohr Einerlei
 Nieser Floßfahrt bei mindestens dreißig Grad Wärme
 durchschnittlich. Harst und ich lösten uns alle vier Stunden
-an der primitiven Gteuerborrichtung ab. Honoria und der
+an der primitiven Steuervorrichtung ab. Honoria und der
 von uns beiden gerade Dienstliche blieben dandüber zumeist
 in den Ameinbütten.
 
@@ -2457,7 +2499,7 @@ Muscheln sicher hat. Da mag er feine anfänglichen Gut
 Schlüsse geändert und sich dafür entschieden haben, uns drei
 für alle Zeiten als höchst unbequeme Mitwisser stumm zu
 machen. Die Jacht wird vor Kiltara geankert haben.
-Man hat die Fusel nach uns durchsucht, hat die Palmen-stümpfe
+Man hat die Fusel nach uns durchsucht, hat die Palmenstümpfe
 gefunden und daraus geschlossen, daß wir auf ei
 jenem es geflüchtet sind.«
 
@@ -2520,7 +2562,7 @@ Die Jacht fuhr jetzt zu unserem Glück sehr- lau
 Kapitän Boltrell (auch ich Hatte den alten Gauner erkannt,
 der nun die Shallow kommandierte) schien Verdacht ne.
 schöpft zu haben, weil auf dem Floß kein Mensch mehr es
-ri) den gt
+li) den gt
 
 Wir drei ruderten mit geradezu verzweifelter Haft,
 ist ging » ums Reben! Davon waren wir drei fest über
@@ -2581,7 +2623,7 @@ Vom Her hing ein Stück Tau herab.
 
 ch folgte,
 
-Bei Steuerbordrelina dicht an der Brücke stand
+Bei Steuerbordreling dicht an der Brücke stand
 Boltrell, die Pfeife im Munde, dreht vorgebeugt. Ja der
 Wege Wen en Revolver, Ein zweiter lag neben
 auf he na.
@@ -2594,7 +2636,7 @@ an der Menschensuche zu beteiligen.
 
 BVoltrell brüllte jetzt hinab: An
 
-»Satuma (das war der Steuermann bei El Toro ge:
+»Sakuma (das war der Steuermann bei El Toro ge:
 Wesen), sollten die drei etwa davongeschwommen sein?!«
 
 Harst und ich standen hinter dem Kapitän.
@@ -2613,7 +2655,7 @@ Dann beugte er sich über die Reling.
 
 Seine klarte Stimme hallte nach unten.
 
-un. »Safuma, laß das Tau los, mit dem Du das Floß
+un. »Sakuma, laß das Tau los, mit dem Du das Floß
 festhältst 1»
 
 Ein wirres Geschrei.
@@ -2822,7 +2864,7 @@ Mir begann das Herz rascher zu klopfen.
 
 Nun 7 Maftroffi war dann wsirda Ans also
 <@pagebreak/>
-Tanz geben. Und er war es fror Die beiden Schorn-Bam.
+Tanz geben. Und er war es fror Die beiden Schein-kam.
 verrieten sich jetzt abermals ur zwei Funkengarben,
 Der Kutter steuerte offenbar im Bogen um uns herum, denn
 die Aden zeigten Ich mehr nach Tun Da
@@ -2939,7 +2981,7 @@ Dieser Ueberraschung wegen habe ich diesen ¿zweiten
 Zeit auch »Die Perlenschmuggler« betitelt.
 
 <h2>5. Kapitel.</h2>
-<h3>Dracons Tod,</h3>
+<h3>Dracons Tod.</h3>
 
 Dem Leser dürfte bekannt sein, daß an den Geflohen
 Vorderindiens sich an vielen Stellen sogenannte Perlengründe,
@@ -2949,7 +2991,7 @@ die diese ade durch Taucher ausbeuten lassen, recht der
 » trächtliche Steuern. Um diese Steuern zu Acta, als
 Schicht es häufig, daß neu entdeckte Perlengründe ängstlich
 verheimlicht werden. Diese »wilden« Perlenfischer, die ner
-Jungen sind, die gewonnenen Perlen in die gen en Per-enverkaufsorte
+Jungen sind, die gewonnenen Perlen in die gen en Perlenverkaufsorte
 wie Kolombo, Negapatam und Echo weiter
 zwecks Veräußerung an Ebbe Händler einzushmuggeln, nennt
 man baden durchweg Werlenichnuanler,
@@ -3032,7 +3074,7 @@ den Kutter mit den beiden kurzen Eiern Schornsteinen cm
 kennen.
 
 Der Albatroß — und auch der Kutter! Wirklich, ich
-traute meinen Augen nicht! Albert Dracon Ran also tro«
+traute meinen Augen nicht! Albert Dracon Ran also ter«
 der Warnung durch Boltrell nicht geflüchtet?!
 
 »Verstehst Du das?« fragte ich Harald leise.
@@ -3047,10 +3089,10 @@ ragen
 »Nein. Ich denke mir, daß er chinesische Perlentaucher
 angeworben haben wird, die dann ihn und seine
 überfallen haben. Als Boltrell eintraf, und dies kann erst
-vor kurzem geschehen sein, vielleicht infolge eines Maschi-nenschadens
+vor kurzem geschehen sein, vielleicht infolge eines Maschinenschadens
 des Kutters, wurde auch er mit den Malaien
 eng Das waren Dr Schüsse, die wir soeben hörten,
-und das Triumphaeschrei
+und das Triumphgeschrei
 
 Er hatte noch mehr hinzufügen wollen, ne Bord
 u. beutete halb nach recht? auf das Schiffer
