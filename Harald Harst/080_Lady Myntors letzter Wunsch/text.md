@@ -197,7 +197,7 @@ im Meere versenkt werden, nachdem sie kunstgerecht einbalsamiert
 worden ist. Als Ort der Versenkung nenne ich
 die südliche Bucht der kleinen Felseninsel, die nördlich von
 Bombay dicht an der Küste in einer Höhe mit dem Dorfe
-Wangiprana liegt. Die Insel heißt bei den Küsteufischern
+Wangiprana liegt. Die Insel heißt bei den Küstenfischern
 Schotakadscha, singender Fels, weil nördlich der genannten
 Bucht aus den Rissen des Gesteins Gase mit pfeifendem
 Geräusch austreten.
@@ -1144,110 +1144,111 @@ Dracon hat nicht depeschiert!«
 <h2>4. Kapitel.</h2>
 <h3>Miß Honoria Myntor.</h3>
 
-Die Jacht »Albatroß« gehörte hege Vicegouverneur
-auch dem als Sportsmann berühmten Sir Howard
-ù Riten.
+Die Jacht »Albatroß« gehörte dem Vicegouverneur
+von Kalikut, dem als Sportsmann berühmten Sir Howard
+Jepperston.
 
-Ein besseres Fahrzeug konnten ‘wir uns für unsere
+Ein besseres Fahrzeug konnten wir uns für unsere
 Zwecke kaum wünschen. Der Albatroß lief 22 Knoten,
 hatte fünf Mann Besatzung, war für zehn Tage verproviantiert,
-hatte Funkeneiurihtung, war überaus luxuriös
-zuögneflattet und besaß in dem kleinen frunmmbeinigen
+hatte Funkeneinrichtung, war überaus luxuriös
+ausgestattet und besaß in dem kleinen krummbeinigen
 Schotten Mr. Thomas Baccern einen Kapitän, mit dem
 wir uns sofort anfreundeten. —
 
-Um acht Uhr morgens gingen wir an Bord des Albva-iroß,
+Um acht Uhr morgens gingen wir an Bord des Albatroß,
 der dann sofort wieder Kurs nach Norden nahm.
 
 Nun konnten wir uns in aller Behaglichkeit ausruhen.
-Bot dem folgenden Ehrlos konnten wir ja die Insel, unser
-Bier, nicht erreichen.
+Vor dem folgenden Mittag konnten wir ja die Insel, unser
+Ziel, nicht erreichen.
 
 Harald schlief bis gegen drei Uhr nachmittags. Dann
-aßen wir mit Baccern in der Staatskajüte und diuierteuz
+aßen wir mit Baccern in der Staatskajüte und dinierten;
 dann faulenzten wir in Liegestühlen auf dem Achterdeck.
 
-Ueber uns klarer Sonuneuhimmel. Dabei leichte Brise,
+Ueber uns klarer Sonnenhimmel. Dabei leichte Brise,
 vergnügte Matrosen, die vorn Ziehharmonika spielten.
 
-»Fein, Mr. Harst, wie?!« schmunuzelte Baccern. »Ich
-wünschte, wir blieben Roh recht lange zusanmen. Man
-pochte doch gab mal was erleben.«
+»Fein, Mr. Harst, wie?!« schmunzelte Baccern. »Ich
+wünschte, wir blieben noch recht lange zusammen. Man
+möchte doch auch mal was erleben.«
 
 »Das werden wir schon, Kapitän,« nickte Harald.
 »Uebrigens eine Frage: sind Sie in Goa bekannt? Dort
 <@pagebreak/>
-hat ja Lady Myntors Erbin zuletzt gelebt, ihre Nichte Ha
-en 2 Bann.
+hat ja Lady Myntors Erbin zuletzt gelebt, ihre Nichte Honoria
+Myntor.«
 
-ich Goa kenne — natürlich!. Und auch die verfrühte
-Bist Sehr gut sogar. Sie war in Goa genau so
-rrühnıt wie ihre Tante in Bombay!«
+»Ob ich Goa kenne — natürlich! Und auch die verrückte
+Miß. Sehr gut sogar. Sie war in Goa genau so
+berühmt wie ihre Tante in Bombay!«
 
-»Erzählen Sie. enger verrückt »
+»Erzählen Sie. Weshalb verrückt?«
 
-»Weil sie doch immer in Männerkleidern berumliet
+»Weil sie doch immer in Männerkleidern herumlief
 und eine eifrige Vorkämpferin des Frauenwahlrechts war.
-Mebenbei war sie: auf ihrer P Sprriilin, »betrieb jeden Sport
-zähmte Tiger auf ihrer Traurige.
+Nebenbei war sie überzeugte Spiritistin, betrieb jeden Sport
+und zähmte Tiger auf ihrer Plantage.«
 
-»Was Sie sagen! — Wie alt ist: »u Honoria denn?«
+»Was Sie sagen! — Wie alt ist Miß Honoria denn?«
 
-»Na — so um die vierzig herum. eng Sie sie neben:
-Harst, glauben Sie kaum, ein Weib vor sich zu habe
+»Na — so um die vierzig herum. Wenn Sie sie sehen,
+Mr. Harst, glauben Sie kaum, ein Weib vor sich zu haben.«
 
 »Sie ist unverheiratet —«
 
-»Wer ninumt sich eine magere Vogelscheuche?! Nur
-nen Freund hat sie, den sie Major gen soll, so einen richtigen
-Windhund von Menschen! Sie werden Bannen: es
-ist der Stiefsohn Grosbys!
+»Wer nimmt sich eine magere Vogelscheuche?! Nur
+einen Freund hat sie, den sie unterstützen soll, so einen richtigen
+Windhund von Menschen! Sie werden staunen: es
+ist der Stiefsohn Grosbys!«
 
-»Wirklichk] | Albert Dracon?k?!«
+»Wirklich?! — Albert Dracon?!«
 
-»Zange — Albert Dracgn! Das ist ein böses Früchte
+»Tatsache — Albert Dracon! Das ist ein böses Früchtchen,
+Mr. Harst!«
 
-je Peking: N nachdenklich den Mlagarattenslummel Über
-China
+Harald warf nachdenklich den Zigarettenstummel Über
+die Reling.
 
 Dann fragte er:
 
-»Hat Miß Honoria ins eigene Jacht? ich,
+»Hat Miß Honoria eine eigene Jacht?«
 
-un »Dampfjacht namens Shallow,«
+»Ja. Eine Dampfjacht namens Shallow.«
 
 »So — so —«
 
-Und darf lauschte mit mir einen besonderen Blick
+Und Harst tauschte mit mir einen besonderen Blick
 aus.
 
-»Bissen Sie, wo die »Shallow sich seht befindet,
-Japitän
+»Wissen Sie, wo die Shallow sich jetzt befindet,
+Kapitän?«
 
-»Nein. Jedenfalls nicht mehr in Goa, seit Miß Honoria,
+»Nein. Jedenfalls nicht mehr in Goa, seit Miß Honoria
 nach Bombay übergesiedelt ist.«
 
-»Wieviel Knoten läuft die Sumpfige li.
+»Wieviel Knoten läuft die Dampfjacht?«
 
 »Höchstens sechzehn.«
 
-der Dampfer Endigt«
+»Und der Dampfer India?«
 
-= D — so wegen vierzehn. »
+»Na — so gegen vierzehn.«
 
-¿Co — he
+»So — so —«
 
-Harst klopfte è den Tabak einer neuen Mirakulum tot
+Harst klopfte den Tabak einer neuen Mirakulum fest.
 
 <@pagebreak/>
-»Weshalb fragen Sie dies alles, M. Harst?« meinte
+»Weshalb fragen Sie dies alles, Mr. Harst?« meinte
 Baccern neugierig.
 
 »Weil — weil es nicht ausgeschlossen ist, daß Dracon
-mit Mit Honoria hier gemeinsame Sache Tracht und die
-Shallow benutzt.
+mit Miß Honoria hier gemeinsame Sache macht und die
+Shallow benutzt.«
 
-»Ah — verstehe! — Wenn dem so ist, dann klemmen
+»Ah — verstehe! — Wenn dem so ist, dann kommen
 wir als erste am Ziele an. Unser Albatroß ist das schnellste
 Schiff hier im Arabischen Meer.«
 
@@ -1258,17 +1259,17 @@ hüllten den nördlichen Horizont ein.
 
 Es wurde sehr schnell dunkel.
 
-Baccern schielte einen Eintrafen in feine Kabine. Der
-Mann ne nach dem Wetteralase sehen.
+Baccern schickte einen Matrosen in seine Kabine. Der
+Mann sollte nach dem Wetterglase sehen.
 
-»Es gibt Sturm,« sagte Baccern. »Die Duustuassen
-Tenne ich!«
+»Es gibt Sturm,« sagte Baccern. »Die Dunstmassen
+kenne ich!«
 
 Der Matrose kam zurück.
 
 »Um acht Strich gefallen, Kapitän,« meldete er.
 
-Baccern fragte sich den Kopf.
+Baccern kratzte sich den Kopf.
 
 »Acht Strich! Dann wird’s ein Orkan! Wir tun gut,
 näher an die Küste heranzugehen, wo wir dann noch rechtzeitig
@@ -1285,8 +1286,7 @@ Gleichzeitig schob sich eine dunkle Wolke von Nordwest
 Baccern trat an den Steuermann heran und flüsterte
 mit ihm. Es war bereits zu dunkel, um ihre Gesichter
 zu erkennen. Es machte aber auf mich den Eindruck, als
-ob die beiden Seeleute dem Unwetter voll Sorgen entgegen
-sahen.
+ob die beiden Seeleute dem Unwetter voll Sorgen entgegensahen.
 
 Unsere Positionslaternen flammten auf.
 
@@ -1296,130 +1296,130 @@ Küste zu.
 Dann war die Nebelbank plötzlich um uns der wie ein
 unheimlich dichtes, feuchtes Gewebe.
 
-Plötzlich dicht vor uns das Ergangen eines Schisss-anzafchine.
+Plötzlich dicht vor uns das Stampfen einer Schiffsmaschine.
 
-Harald fuär empor.
+Harald fuhr empor.
 
 <@pagebreak/>
-»Die Shallow!« rief er mir zu. »Rast — unsere,
-Holen!
+»Die Shallow!« rief er mir zu. »Rasch — unsere
+Pistolen!«
 
 Wir stürzten die Treppe hinab in die Kajüte — an
 unsere Koffer.
 
-Da — eine fihwere Erschütterung ging durch den,
-Stahlleib der Motoryacht.
+Da — eine schwere Erschütterung ging durch den
+Stahlleib der Motorjacht.
 
-Oben an Der lautes Geschrei.
+Oben an Deck lautes Geschrei.
 
 Harst riß den Kofferdeckel hoch.
 
-Obenauf lagen Ben Clementpistolen.
+Obenauf lagen unsere Clementpistolen.
 
-Zu spät — zu fpä
+Zu spät — zu spät.
 
-Hinter uns war ie Kajütentür aufgeflogen.
+Hinter uns war die Kajütentür aufgeflogen.
 
 Hinter uns eine Stimme:
 
-»Liegen lassen die Dinger! Hände hohl?
+»Liegen lassen die Dinger! Hände hoch!«
 
 Dann ein Knall — noch einer.
 
-Unsere Hände fuhren wieder empor. Die Pistolen:
+Unsere Hände fuhren wieder empor. Die Pistolen
 kollerten auf den Teppich.
 
-Es waren zwei Meisterschüsse gewesen, die uns im fegten
+Es waren zwei Meisterschüsse gewesen, die uns im letzten
 Moment noch die Waffen entzogen hatten.
 
 Wir richteten uns auf, drehten uns um. —
 
-der Tür standen zwei Männer — hager, stank
-— dorthin
+An der Tür standen zwei Männer — hager, schlank
+— bartlos.
 
-Ÿ Abermals der Befehl: »Hände hoch!«
+Abermals der Befehl: »Hände hoch!«
 
-Wir m’»ten gehorchen. Ein paar farbige Matrosen
-drangen durch die zweite Tür ein, packen u Man
-Gerte uns mit seinem Kupferdraht an zwei Stühle, Wir
-konnten nur von Bann Kopf deine
+Wir mußten gehorchen. Ein paar farbige Matrosen
+drangen durch die zweite Tür ein, packten uns. Man
+fesselte uns mit feinem Kupferdraht an zwei Stühle. Wir
+konnten nur noch den Kopf bewegen.
 
-Uns gegenüber in Ben meiden. Launen a qu.
-nun« die beiden Hand seh Männer, Nein — nicht sve
-wer. Der, der uns Lot ansprach, hatte eine Weiber un
-war Nr
+Uns gegenüber in in den weichen Schiffssesseln saßen
+nun die beiden hageren Männer. Nein — nicht zwei Männer.
+Der, der uns jetzt ansprach, hatte eine Weiberstimme,
+war Honoria Myntor.
 
-also das ist Tee berühmte Harst!« sagte »mit« neu
+»Also das ist der berühmte Harst!« sagte sie spöttisch.
 
-Und der andere, ein verlebter Mensch dann
-Hindernden Nur nickte hohnartinsend
+Und der andere, ein verlebter Mensch mit unruhig
+flackernden Augen, nickte hohngrinsend:
 
-»Da — Sag’ ist der Silbenrater!«
+»Ja — das ist der Silbenrater!«
 
 Es war — Albert Dracon! —
 
-Die farbigen Matrosen hatten sich wieder seiten
-Bei Albatroß setzte seine Fahrt ununterbrochen fort. Die
-Motoren arbeiteten wie bisher
+Die farbigen Matrosen hatten sich wieder entfernt.
+Der Albatroß setzte seine Fahrt ununterbrochen fort. Die
+Motoren arbeiteten wie bisher.
 
 Miß Honoria Myntor nahm eine Zigarre und begann
 zu rauchen.
 
 <@pagebreak/>
 »Sie könnten oben mal nach dem Rechten sehen,« sagte
-sie zu Dracon. »Bindet soll Sorgfalt - steuern. Wir müssen
+sie zu Dracon. »Timbry soll sorgfältig steuern. Wir müssen
 vor dem Orkan Kiltara erreichen.«
 
 Dracon erhob sich gehorsam und verließ die Kajüte.
 
-Harald schaute das merkwürdige Mannmveib fest zu.
+Harald schaute das merkwürdige Mannweib fest an.
 
-»Miß Myntor,« meinte er, »sind Sie sich auch Hai bare
-über, daß Sie mit Ihrem Leben spielen?! Dieser Ueberfall
+»Miß Myntor,« meinte er, »sind Sie sich auch klar darüber,
+daß Sie mit Ihrem Leben spielen?! Dieser Ueberfall
 ist Piraterei und wird nach dem internationalen Seerecht
-mit dem Tode bestraft. Außerdem hat Dracon feinen
+mit dem Tode bestraft. Außerdem hat Dracon seinen
 Stiefvater ermordet.«
 
-»Das — Das ist nicht wahr!« rief sie. »Glauben Sie
-nicht, hab ich mich durch so plumpe Machenschaften einschüchtern
-lasse. Grosby hat Dick vergiftet »
+»Das — das ist nicht wahr!« rief sie. »Glauben Sie
+nicht, daß ich mich durch so plumpe Machenschaften einschüchtern
+lasse. Grosby hat sich vergiftet.«
 
 »Dann wissen Sie es scheinbar besser als ich,« sagte
-Harst As
+Harst gelassen.
 
-»Ob, Grosby war mein Feind! Nur er hat meine
+»Oh, Grosby war mein Feind! Nur er hat meine
 Tante dazu bestimmt, ihr Vermögen zu verbergen. Tante
 Maria besaß mindestens fünfzig Millionen!«
 
-Da trat Dracon schon wieder ein. Seine Augen Blick
-ten Miß Honoria scheu-forschend an.
+Da trat Dracon schon wieder ein. Seine Augen blickten
+Miß Honoria scheu-forschend an.
 
-Es war klar: er hatte sie belogen? Sie ahnte nichts
-von dem Morde,
+Es war klar: er hatte sie belogen! Sie ahnte nichts
+von dem Morde.
 
 »Wir wollen die beiden getrennt einsperren,« sagte er
-hastig. »Sie sind gefährlich, Man muß sie dauernd bei
-wachen. Hier steht zu viel aus dem Spiel!«
+hastig. »Sie sind gefährlich. Man muß sie dauernd bewachen.
+Hier steht zu viel auf dem Spiel!«
 
-Die Erachtens Markt der schmalen Hakennase nickte nur.
+Die trockene Miß mit der schmalen Hakennase nickte nur.
 
-Gleich darauf wurde erst Bar! von zwei Andern samt
-beim Stuhle wéggeträgen, Tanks brachte ran auch Mich ist
+Gleich darauf wurde erst Harst von zwei Indern samt
+dem Stuhle weggetragen. Dann brachte man auch mich in
 eine der Kabinen des Mittelschiffes, und ein brauner Matrose
-übernahm bei mir die Wache
+übernahm bei mir die Wache.
 
-Die Jacht rollte bereits stark, Ich hörte schwere Brecher
+Die Jacht rollte bereits stark. Ich hörte schwere Brecher
 über Deck klatschen. Der Wind heulte in den beiden Masten.
 
 Doch — ganz plötzlich mußte der Albatroß dann ruhiges
 Wasser erreicht haben.
 
-Sich merkte, wie der Anker rasselnd in die Tiefe ging,
-wie die Schratiben rückwärts schlugen, wie die vieren
-verstummdten.
+Ich merkte, wie der Anker rasselnd in die Tiefe ging,
+wie die Schrauben rückwärts schlugen, wie die Motoren
+verstummten.
 
-Wir waren also in eine Bach! der Zipfel Kiltara, an
-der nördliche;Steg der Lakkadiven-Gruppe, eingelaufen.
+Wir waren also in eine Bucht der Insel Kiltara, eine
+der nördlichsten der Lakkadiven-Gruppe, eingelaufen. Der
 Orkan konnte uns nichts mehr anhaben.
 
 <@pagebreak/>
@@ -1427,50 +1427,50 @@ Orkan konnte uns nichts mehr anhaben.
 <h2>5. Kapitel.</h2>
 <h3>Der größte Schurkenstreich.</h3>
 
-Die Naht verging — verging mir in endloser Lands
-Regsamkeit in qualvollen Schmerzen.
+Die Nacht verging — verging mir in endloser Langsamkeit
+unter qualvollen Schmerzen.
 
 Hin und wieder nickte ich ein. Aber die mit brutaler
-Gewalt um die Handgelenke feitreronenen Drähte, die bei
-By anderer. ins Fleisch einfchnittent, weckten mich fiele
-sehr ehe
+Gewalt um die Handgelenke festgezogenen Drähte, die bei
+jeder Bewegung ins Fleisch einschnitten, weckten mich stets
+sehr bald wieder.
 
-»Dann — dann plötzlich oben an Deck ein so schriller
-Schrei, daß auch mein Wächter lauschend den Kopf Lob.
+Dann — dann plötzlich oben an Deck ein so schriller
+Schrei, daß auch mein Wächter lauschend den Kopf hob.
 
-Es war eine Wellenkämme. Es konnte nur Honorîia
+Es war eine Weiberstimme. Es konnte nur Honoria
 Myntor gewesen sein.
 
 Der Schrei war nur ein einziges Mal erklungen. Nun
-es Stils — nur noch hastiges Hin- und Herlaufen an
+wieder Stille — nur noch hastiges Hin- und Herlaufen an
 Deck.
 
-vermute versank ich in jenen Zustand stumpfer Gleich«
-ültigfeit, bei bei on man nicht Hunger, nicht Durst, auch keine
+Abermals versank ich in jenen Zustand stumpfer Gleichgültigkeit,
+bei dem man nicht Hunger, nicht Durst, auch keine
 Schmerzen mehr empfindet — nur den einen Wunsch, schlafen
-(By können, sich bequem auszustrecken.
+zu können, sich bequem auszustrecken.
 
-Mein Wächter wurde abgelöst. Ich achtete kaum nen
-E’ 3 achtete rief weniger auf die Sonnenstrahlen, die
-ah das runde Kabinenfenster hincIndiangen und aus dem
-Ade, Bastteppich einen ovalen aleibenben frisch berbor-zauberten.
+Mein Wächter wurde abgelöst. Ich achtete kaum darauf.
+Ich achtete noch weniger auf die Sonnenstrahlen, die
+durch das runde Kabinenfenster hineindrangen und auf dem
+zarten Bastteppich einen ovalen gleißenden Fleck hervorzauberten.
 
-Von ich Berichten weh vor Horn emp um
+Dann trat Albert Dracon ein. Das Antlitz des verkommenen
+Menschen strahlte vor höllischem Triumph.
 
-pochte wohl Berge allen sein, aß er
-ah 2 mit Besen höhnischen, Überlegenen Grinsen
-rieche
+Was — was mochte wohl vorgefallen sein, daß er
+mich nun mit diesem höhnischen, überlegenen Grinsen
+musterte?!
 
-Schraut,« begann er hat leierte Oel in einem
-Bettelns mir gegenüber, »ich frage Sie, Sie he
-Ehrenwort geben wollen, über die Ereignisse der lebten
-vier Tage ein halbes Jahr lang zu schweigen und ne ebenso
-lange mit dem Myutorschen Testament nicht Schaf«
-artigen? Uhr Freund Harst und Miß Honoria ah die.
-mir er geworben ist, haben diese Zusage bereits ad.
-gegeben.«
+»Mr. Schraut,« begann er und rekelte sich in einem
+Polsterstuhl mir gegenüber, »ich frage Sie, ob Sie Ihr
+Ehrenwort geben wollen, über die Ereignisse der letzten
+vier Tage ein halbes Jahr lang zu schweigen und sich ebenso
+lange mit dem Myntorschen Testament nicht zu beschäftigen?
+Ihr Freund Harst und Miß Honoria Myntor, die
+mir unbequem geworden ist, haben diese Zusage bereits abgegeben.«
 
-»Das — das. ist gelogen!« platte ich heraus. »Harald
+»Das — das ist gelogen!« platzte ich heraus. »Harald
 <@pagebreak/>
 würde derartiges nie versprechen! Und auch ich weigere
 mich ganz entschieden es zu tun!«
@@ -1481,161 +1481,162 @@ Vertrauten bemächtigt, hatte sie schmählich verraten!
 
 »Oh. — Sie werden es bedauern,« meinte Dracon mit
 erneutem Grinsen. »Die Insel Kiltara ist unbewohnt und
-lege außerhalb jeder Schiffslinie. Wenn wir Sie hier aus
-ücflassen, können Sie jahrelang Religion spielen — Sie,
+liegt außerhalb jeder Schiffslinie. Wenn wir Sie hier zurücklassen,
+können Sie jahrelang Robinson spielen — Sie,
 Harst und die dumme Miß, die sich eingebildet hat, ich
-würde sie heiraten, wenn wir erst die Muyntorschen Millionen
+würde sie heiraten, wenn wir erst die Myntorschen Millionen
 für uns — beschlagnahmt hätten!«
 
-Ich wandte den Kopf zur Seite und schhwiîieg. Dieser
-Elender war keine Antwort wert.
+Ich wandte den Kopf zur Seite und schwieg. Dieser
+Elende war keine Antwort wert.
 
-nochmals versuchte Dracon mich umzustimmen. Ihm
-schien doch sehr viel daran zu Treuen, daß ich mich zu der
-Zusage absoluten Schstveigens und völliger Untätigkeit verlud.
+Nochmals versuchte Dracon mich umzustimmen. Ihm
+schien doch sehr viel daran zu liegen, daß ich mich zu der
+Zusage absoluten Schweigens und völliger Untätigkeit verstand.
 
 »Kapitän Baccern und die Matrosen des Albatroß
-dürsten © treu kaum irgendwie helfen können, Mr. Schraut.
-ir haben sie in dem Rettunäsboot ihrem Schicksal überlassen
-— sehr gegen der zartbesgiteton Honoria Wunsch, die
-nun fürchtet, Die fünf Mann könnten angekommen fein,
-was bei dem Orkan der verflossenen Nacht ja auch wahr:
-je falsch ist, Seien Sie also vernünftig und geben Sie
-»he Ehrenwort, Dann nehme Ich Sie mit nach Scheine
-Kur, und Sie können Zeuge sein, wie wir die Bleikapsel
+dürften Ihnen kaum irgendwie helfen können, Mr. Schraut.
+Wir haben sie in dem Rettungsboot ihrem Schicksal überlassen
+— sehr gegen der zartbeseiteten Honoria Wunsch, die
+nun fürchtet, die fünf Mann könnten umgekommen sein,
+was bei dem Orkan der verflossenen Nacht ja auch wahrscheinlich
+ist. Seien Sie also vernünftig und geben Sie
+Ihr Ehrenwort. Dann nehme ich Sie mit nach Schotakadscha,
+und Sie können Zeuge sein, wie wir die Bleikapsel
+finden!«
 
-Ein lauernder Blick traf mich — Ah — jetzt begriff
-ich den Schurken! Er mochte. sü:echten, oho unsere Hilfe
-aus Schotakadscha vergeblich zu suchen! Er wollte uns bei
-sich) haben, weil er uns brauchte!
+Ein lauernder Blick traf mich. — Ah — jetzt begriff
+ich den Schurken! Er mochte fürchten, ohne unsere Hilfe
+auf Schotakadscha vergeblich zu suchen! Er wollte uns bei
+sich haben, weil er uns brauchte!
 
-Ich schaute ihn nur verächtlich
+Ich schaute ihn nur verächtlich an.
 
-Da sprang er wütend auf. »Gut ch — dann verhungern
+Da sprang er wütend auf. »Gut — dann verhungern
 Sie hier, Sie Narr!«
 
 Er verließ die Kabine. Wenige Minuten später erschienen
 drei Inder mit Stricken und brachten mich an Deck und
-über die Laufplanke an Laub.
+über die Laufplanke an Land.
 
-An der frischen Lust besieh mich eine Ohnmachtsan-wondluing.
+An der frischen Luft befiel mich eine Ohnmachtsanwandlung.
 Die Inder mußten mich stützen.
 
 <@pagebreak/>
-Ich sah nun, daß in dieser engen Bucht, die ftelenwweise
-hochragende Felsufer Fade, nur der Albatroß Wirr Dr
+Ich sah nun, daß in dieser engen Bucht, die stellenweise
+hochragende Felsufer hatte, nur der Albatroß lag. Dem
 Stande der Sonne nach mußte es neun Uhr vormittag sein.
 
-Man führte Es eine Schlucht hinan und dann in ein
-fahles, steiniges Tal.
+Man führte mich eine Schlucht hinan und dann in ein
+kahles, steiniges Tal.
 
-Hier — laden auf Steingeröl Miß Honoria und
+Hier — saßen auf Steingeröll Miß Honoria und
 Harald.
 
-Die Miß war aschfahl- im Gesicht. Ihre Augen waren
-er trauten.
+Die Miß war aschfahl im Gesicht. Ihre Augen waren
+blutunterlaufen.
 
 »Ihr sollt es büßen!« kreischte sie den Indern
-zu und es drohend die gefesselten Hände.
+zu und hob drohend die gefesselten Hände.
 
 Die braunen Matrosen, junge, kräftige Burschen, entfernten
-sich schleunigst, als ob ihr er Gewissen sie
-davontriebe. Mich ließen sie einfach fiele
+sich schleunigst, als ob ihr schlechtes Gewissen sie
+davontriebe. Mich ließen sie einfach stehen.
 
-Harald hatte mir mit einem Teltleikiatis Lächeln zugenickt.
+Harald hatte mir mit einem mitleidigen Lächeln zugenickt.
 
-»las Myntor-Testament ist uns schlecht bekommen,«
-fegte er. »Seh Dich, Dar, Alter. Du liebst erbärmlid
+»Das Myntor-Testament ist uns schlecht bekommen,«
+sagte er. »Setz Dich, mein Alter. Du siehst erbärmlich
 elend aus. Ich habe mit Miß Honoria bereits Frieden geschlossen.
-Sie hat: eingesehen, daß Albert Dracon
-weniger glaubwürdig ist als wir.« re
+Sie hat eingesehen, daß Albert Dracon doch
+weniger glaubwürdig ist als wir.«
 
-so auf matt aus das Geröll.
+Ich sank matt auf das Geröll.
 
 Dann trug der Wind uns das Geräusch der arbeitenden
 Schiffsmotoren zu.
 
-»Sie fahren ab, »schrillte Miß Honorias heisere
+»Sie fahren ab,« schrillte Miß Honorias heisere
 Stimme.
 
-Sie war ausgestanden und rannte mit ihren gefesselten
+Sie war aufgestanden und rannte mit ihren gefesselten
 Händen das Tal entlang der Bucht zu.
 
-Aber sehr bald blieb sie stehen. Sie fahl bog Zwecklose
+Aber sehr bald blieb sie stehen. Sie sah das Zwecklose
 ihrer Handlungsweise ein, kehrte zu uns zurück und begann,
 da ihr die Hände vor dem Leibe zusammengebunden
-waren, unsere Fesseln Du l den.
+waren, unsere Fesseln zu lösen.
 
-Wir waren frei. »a pst warf ich und nieder und
-die Augen. Ich schlief im Moment ein.
+Wir waren frei. Erschöpft warf ich mich nieder und
+schloß die Augen. Ich schlief im Moment ein.
 
-litt erwachte, war die Sonne bereits im Sinken
+Als ich erwachte, war die Sonne bereits im Sinken
 begriffen. Ich hatte ein Graspolster unter dem Kopfe.
-»Neben nur stand eine a x reife Kokoönuß, Ich
-trank begierig die fühle süßliche Kokosmilh, nahm mein
-aldenmeiier und schnitt Stücke des Ein Kolkosfleisches
+Neben mir stand eine aufgeschlagene reife Kokosnuß. Ich
+trank begierig die kühle süßliche Kokosmilch, nahm mein
+Taschenmesser und schnitt Stücke des weißen Kokosfleisches
 heraus.
 
 <@pagebreak/>
-Von Harald und Mit Munter trat nichts zu sehen.
+Von Harald und Miß Myntor war nichts zu sehen.
 
-Dr nach einer Viertelstunde erschienen sie von Not.
-er.
+Erst nach einer Viertelstunde erschienen sie von Norden
+her.
 
-Harst rief schon von weitem; »Es wird ein ganz erträgliches
-Yobinsonleben hier auf Kiltara werden. Dort
+Harst rief schon von weitem: »Es wird ein ganz erträgliches
+Robinsonleben hier auf Kiltara werden. Dort
 im Norden gibt es in einem kleinen fruchtbaren Tale Trinkwasser,
-Kdpospalmen, Gebüsch und dicht dabei in einer
+Kokospalmen, Gebüsch und dicht dabei in einer
 Bucht eine Menge Schildkröten.«
 
 Miß Honuoria reichte mir die Hand.
 
-»Auf gute staneradfchaft, Mr. Schraut,« sagte sie beinahe
-herzlich. »Ich wir Ihnen beiden nun erzählen, wie
-ich zu der Gemeinschaft mit diesem Scharfen von Dracon
-gekommen bin. Eines Tages, vor etwa einem halben Zahle
-war’s, besuchte er mich in Goa und teilte mir nicht, daß er
+»Auf gute Kameradschaft, Mr. Schraut,« sagte sie beinahe
+herzlich. »Ich will Ihnen beiden nun erzählen, wie
+ich zu der Gemeinschaft mit diesem Schurken von Dracon
+gekommen bin. Eines Tages, vor etwa einem halben Jahre
+war’s, besuchte er mich in Goa und teilte mir mit, daß er
 einmal heimlich Zeuge eines Gesprächs zwischen meiner
-Tante Maria und feinem Stiefvater Grosby gewesen ich.
+Tante Maria und seinem Stiefvater Grosby gewesen sei.
 Meine Tante und Grosby hätten über das Testament sich
-unterhalten, und so hätte er erfahren, daß Lady Li paar
-den größten Teil ihrer Reichtümer versteckt hätte Wo —
+unterhalten, und so hätte er erfahren, daß Lady Myntor
+den größten Teil ihrer Reichtümer versteckt hätte. Wo —
 das wäre nur dadurch zu ermitteln, daß man das Testament
-heimlich öffnete. — Ich muß nun einfügen, daß weh
+heimlich öffnete. — Ich muß nun einfügen, daß mein
 Vater John Myntor mit seinem älteren Bruder Lord Myntor
 sehr schlecht stand und daß ich sowohl gegen meinen
 Onkel wie gegen meine Tante eine starke Abneigung empfand,
 die wohl auf Gegenseitigkeit beruhte. Mein Vater
 machte mir gegenüber häufig Andeutungen, daß sein älterer
-Bruder ihn um grobe Summen betrogen hätte. Jedenfalls
-nahm ich an, daß Taute Maria mir den gröberen
-Teil des Erbes voreuthaltenu wolle und kam mit Albert
-Dracon überein, gemeiuschastlich altes Nötige zu unternehmen,
+Bruder ihn um große Summen betrogen hätte. Jedenfalls
+nahm ich an, daß Tante Maria mir den größeren
+Teil des Erbes vorenthalten wolle und kam mit Albert
+Dracon überein, gemeinschaftlich alles Nötige zu unternehmen,
 um uns die ganze Erbschaft zu sichern. Dracon hat
 dann das Testament heimlich geöffnet. Wir wußten jedoch
-mit den! Silbenkreuz nichts anzufangen und mußten bis zu,
-Sandes Tode warten, damit wir dann freiere Hand hätten,
-das Geheimnis irgendwie zu unserem Rühren zu ergründen.
-Alles weitere ist Ahnen bekannt.«
+mit dem Silbenkreuz nichts anzufangen und mußten bis zu
+Tantes Tode warten, damit wir dann freiere Hand hätten,
+das Geheimnis irgendwie zu unserem Nutzen zu ergründen.
+Alles weitere ist Ihnen bekannt.«
 
 »Natürlich hat Dracon Sie belogen, Miß Honoria,«
 meinte Harald, der ganz behaglich eine Mirakulum rauchte.
-Er hatte das Testament bereits eingesehen, bevor er zig
-vorkam. Nun — er wird von Lady Myntors letztem
+»Er hatte das Testament bereits eingesehen, bevor er zu
+Ihnen kam. Nun — er wird von Lady Myntors letztem
 <@pagebreak/>
-Wunsch feinen Vorteil haben. Ich bin Arena daß die
-Bleikapsel eine zweite Geheimschrift enthält, an- der Ans
-umsonst sein Hirn arbeiten lassen wird. Und — Dieb befürchtet
-er auch! Deshalb wollte er uns gern un nach
-Bete tateatttn nehmen! Und — Deshalb ie, er hierher
-rückfkehren! Dich behaupte, wir werden hier keine zehn
-Tage auszuharren brauchen! Dann — Werden wir wie
-der die Herren der Jacht sein!«
+Wunsch keinen Vorteil haben. Ich bin überzeugt, daß die
+Bleikapsel eine zweite Geheimschrift enthält, an der Dracon
+umsonst sein Hirn arbeiten lassen wird. Und — dies befürchtet
+er auch! Deshalb wollte er uns gern mit nach
+Schotakadscha nehmen! Und — Deshalb wird er hierher
+zurückkehren! Ich behaupte, wir werden hier keine zehn
+Tage auszuharren brauchen! Dann — werden wir wieder
+die Herren der Jacht sein!«
 
-Es kam enge anders.
+Es kam etwas anders.
 
-Wie es kam, schildere ich im zweiten Teil dieser Schat-geschichte,
-in den »Perlenshmugalern«
+Wie es kam, schildere ich im zweiten Teil dieser Schatzgeschichte,
+in den »Perlenschmugglern«.
 
 <h1>Der Perlenschmuggler.</h1>
 
@@ -1953,7 +1954,7 @@ Wäre mit einer einst blank gewesenen Goldtresse, die leid
 in allen Farben schillerte. Der Mann mochte fünfzig Jahre
 alt fein und sah so etwas heruntergekommen aus.
 <@pagebreak/>
-blonder Spitzbart war offenbar durch Spirituofenrefte
+blonder Spitzbart war offenbar durch Spirituosenreste
 stellenweise ganz fuchsig geworden. »
 
 Verdammt!« brüllte er mit einen waschechten Whisky-Baß.
@@ -2810,7 +2811,7 @@ Dunkelheit des endlosen Ozeans hinein.
 
 Taktmäßig arbeiteten unten die Maschinen. Die Luke
 des Maschinenraumes vor der Brücke stand offen. Ich hörte
-Harald Kohlen schauseln Er pfiff dabei einen Marsch.
+Harald Kohlen schaufeln Er pfiff dabei einen Marsch.
 
 Ein paar große Haubenmöven begleiteten uns schon
 seit einigen Stunden. Zuweilen ruhten sie sich auf der
