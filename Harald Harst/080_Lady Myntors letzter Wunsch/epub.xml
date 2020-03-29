@@ -3,13 +3,13 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (Pflichtangabe) -->
-<entry key="UUID">IDIDIDIDIDIDIDIDIDIDIDIDIDIDIDIDID</entry>
+<entry key="UUID">498ab442-71dc-11ea-82c3-27f1c24a1699</entry>
 <!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
 <entry key="secondaryID"></entry>
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">TITELTITELTITELTITELTITEL</entry>
+<entry key="title">Lady Myntors letzter Wunsch</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -17,19 +17,31 @@
 <!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
 <!-- Position innerhalb der Sammlung (Band-Nummer) -->
-<entry key="group-position">BANDBANDBANDBANDBAND</entry>
+<entry key="group-position">80</entry>
 <!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
 <entry key="edition"></entry>
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">BESCHREIBUNGBESCHREIBUNGBESCHREIBUNG</entry>
+<entry key="description">Lady Myntors letzter Wunsch.
+
+Am 14. Oktober war’s, als uns einer der Hotelboys eine Depesche nach den Tennisplätzen brachte. Wir hatten mit zwei englischen Damen in der erfrischenden Seebrise bereits mehrere Spiele erledigt, und trotzdem meinte Miß Colvenor, die Tochter des Gouverneurs von Kolombo, in bedauerndem Tone zu mir, während Harald Harst die Depesche überflog:
+
+»Nun wird es wohl für Sie beide wieder Arbeit geben, Mr. Schraut. Schade, es waren so interessante Stunden. Sie verstehen so prächtig zu erzählen, und man ist doch gern mit einem Gentlemandetektiv von Mr. Harald Harsts Berühmtheit zusammen.«
+
+Miß Daisy Colvenor sollte recht behalten.
+
+Der Perlenschmuggler.
+
+Nachdem zwölf Tage verstrichen waren und wir auch am dreizehnten Tage wieder umsonst auf dem höchsten Berge der kleinen Insel nach allen Seiten abwechselnd Ausschau nach einem nahenden Schiffe gehalten hatten, wurde Harald etwas wortkarg und erklärte dann am Morgen des vierzehnten Tages, daß wir uns nun doch wohl auf eine längere Verbannung gefaßt machen müßten.
+
+Miß Honoria war jetzt stets recht schlechter Laune. Sie war ein sehr unausgeglichener Charakter und schien es Harald geradezu nachzutragen, daß die Jacht nicht auftauchte.</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (BANDBAND) TITELTITELTITELTITEL.epub</entry>
+<entry key="filename">Kabel, Walther - (080) Lady Myntors letzter Wunsch.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
