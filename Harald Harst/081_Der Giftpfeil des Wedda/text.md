@@ -504,7 +504,7 @@ sagte ich leise. »Bemerktest Du an Makris Sandalen Spuren
 von Puder?«
 
 Harst lächelte etwas. »Nein, keine Spur von Puder.
-Aber ich sah den Sohlenflick an der rechten Sandalenspitze,
+Aber ich sah den Sohlenflick an der rechten Sandalen spitze,
 der sich in der Puderschicht mit abgezeichnet hatte. Makri
 war also der Horcher, was ich übrigens gleich vermutet
 hatte, da er damals vor acht Jahren keine Hilferufe gehört
@@ -730,33 +730,34 @@ Wir schraubten ihn los.
 
 <h3>Der erste Pfeil.</h3>
 
-Als wir gerade den Deckel abheben wollten, zuckte Karat)
+Als wir gerade den Deckel abheben wollten, zuckte Harald
 plötzlich zusammen — stieß einen seltsamen Ton aus.
-»Schaute hin.
 
-Er hatte sich soeben einen. Blasrohrpfeil aus der
-Zange gezogen.
+Ich schaute hin.
 
-Es war ein aus einer verständigen, Hinweg Fischgräte
-und einer Sicherung zu Fl aumjebern gefertigten, etwa
+Er hatte sich soeben einen Blasrohrpfeil aus der
+Wange gezogen.
+
+Es war ein aus einer breit kantigen, spitzen Fischgräte
+und einer Fiederung aus Flaumfedern gefertigten, etwa
 sechs Zentimeter langer Pfeil.
 
-ab stand wie erstarrt und hielt den Pfeil dicht an
-engen
+Harald stand wie erstarrt und hielt den Pfeil dicht an
+die Augen.
 
-Dann rief er: »Schnell — es geh4 ums Leben! Eilen
-r Rreuafchnitt über »die Wunde! Da sie gehörig aus!?
+Dann rief er: »Schnell — es geht ums Leben! Einen
+Kreuzschnitt über die Wunde! Gange sie gehörig aus!«
 
 <@pagebreak/>
 So begannen jene aufregenden Tage, in denen wir
-Leinen Augenblick unseres Lebens sicher waren.
+keinen Augenblick unseres Lebens sicher waren.
 
-Mein Taschenmesser schrillte die Wange auf. Ich sog,
+Mein Taschenmesser schlitzte die Wange auf. Ich sog,
 spie das Blut aus, sog wieder.
 
 Dann schicke Harald mich nach übermangansaurem
-Kali ins Haus. Er selbst wollte sich möglichst wenig be
-wegen, um den Blutkreislauf nicht zu beschleunigen.
+Kali ins Haus. Er selbst wollte sich möglichst wenig bewegen,
+um den Blutkreislauf nicht zu beschleunigen.
 
 Ich rannte, wie ich selten gerannt bin. Und — in
 unserem Wohnsalon lag mitten auf dem Teppich ein Blatt
@@ -766,90 +767,91 @@ Papier, mit Maschine beschrieben.
 
 stand darauf, nichts weiter!
 
-Ich stopfte das VBlati in die Tasche, riß den Koffer auf,
+Ich stopfte das Blatt in die Tasche, riß den Koffer auf,
 riß die Reiseapotheke heraus, jagte zurück.
 
 Harald stand vor der Tür des alten Gemäuers und
-hatte die Clementpistole in der schlafe herabhängende Rechten.
+hatte die Clementpistole in der schlaff herabhängende Rechten.
 Seine ganze Haltung drückte tiefste Erschöpfung aus.
 
-ehren die Schnittwunde nochmals aus, schüttete dann
+Ich sog die Schnittwunde nochmals aus, schüttete dann
 ein paar der lila Körnchen hinein.
 
-Aus Harsts Munde kamen Worte wie ein Haut —
-aber gerade deshalb wie nervenauspeitschende Geräusche.
+Aus Harsts Munde kamen Worte wie ein Hauch —
+aber gerade deshalb wie nervenaufpeitschende Geräusche.
 
-»ich werde sehr Drauf werden. Trage mich ins Haus.
+»Ich werde sehr krank werden. Trage mich ins Haus.
 Dann schicke Makri nach einem Arzt, sobald er mit dem
 Ponywagen zurück ist. Er wird Greebrac holen.«
 
-löblich sank er mir wie in einem Schwächeanfall hm
+Plötzlich sank er mir wie in einem Schwächeanfall in
 die Arme.
 
 Da kam auch schon Miß Honoria mit zwei Dienern
-herbei. Sie hatte mich in so wilder Hast das Haus v..+
-sehen und war mir gefolgt, weil sie irgend ein ist
-Beil vermutete.
+herbei. Sie hatte mich in so wilder Hast das Haus verlassen
+sehen und war mir gefolgt, weil sie irgend ein Unheil
+vermutete.
 
 Die Diener trugen Harald in unseren Salon auf den
 Diwan.
 
-ich war ihnen vorausgeeilt.
+Ich war ihnen vorausgeeilt.
 
-Und — ich fand so auf dem Teppich ein zweite: dem
-anderen völlig gleiches Blatt, ebenfalls und lila Weinyines-christ,
+Und — ich fand so auf dem Teppich ein zweites, dem
+anderen völlig gleiches Blatt, ebenfalls und lila Maschinenschrift,
 ebenfalls nur wenige Worte:
 
-> Zweite Wann? g!
+> Zweite Warnung!
 
-> Stellst beim!
+> Kehret heim!
 
 <@pagebreak/>
 Auch dieses Blatt stopfte ich in die Tasche. Dann erschien
 auch schon Honoria Myntor; gleich darauf die Diener
 mit Harald.
 
-Ich tat, als ordnete ich die Kissen auf dem Diwan?
-Strengte meine Verwirrung vor Honoria nur schwer Fernen.
-Denn — dickes »Stellst heim!« und diese ganze
-Art der Warnungen hatte »etwas so Eindruck volles an sich,
-daß ich nur einen Wunsch hatte: mit Harald hätt’ allein
-zu sein und mit ihm dieses neue Ereignis u besprechen.
+Ich tat, als ordnete ich die Kissen auf dem Diwan.
+Ich konnte meine Verwirrung vor Honoria nur schwer verbergen.
+Denn — dieses »Kehret heim!« und diese ganze
+Art der Warnungen hatte etwas so Eindruckvolles an sich,
+daß ich nur einen Wunsch hatte: mit Harald bald allein
+zu sein und mit ihm dieses neue Ereignis zu besprechen.
 
 Die Diener entfernten sich. Harst verlangte starken
-NKoanaf. Sein Gesicht sah wie durch einen Krampf der
+Kognak. Sein Gesicht sah wie durch einen Krampf der
 Gesichtsmuskeln geradezu abschreckend verzerrt aus.
 
 Honoria eilte davon, um eine Flasche Kognak zu holen.
 
-Ich hatte geglaubt, diese Bewegt ei lediglich
-eine mimische Bravourleistung Harald ch hatte
-mich geirrt Zu meinem ungeheuren u ‘stieß er jetzt
-folgende Worte hervor — kaum noch verständlich: -
+Ich hatte geglaubt, diese Gesichtsverzerrung sei lediglich
+eine mimische Bravourleistung Haralds. Ich hatte
+mich geirrt. Zu meinem ungeheuren Schreck stieß er jetzt
+folgende Worte hervor — kaum noch verständlich:
 
-Reiseapotheke — Flasche mit Ausfahrt  ne
-Pfeil By ne Taues mit Lipara. Schnell!
+»Reiseapotheke — Flasche mit reinem Alkohol — schnell!
+Pfeil — vergiftet mit Lipara. Schnell!«
 
 Lipara!
 
-He ekle verließ mein Aufriß. Ich bin Wider Asche
-fahl Ade
+Alles Blut verließ mein Antlitz. Ich bin sicher aschfahl
+geworden.
 
-ist bebenden Händen zog ich den Glasftöpsel aus der
-Ei hob Haralds Kopf, fehle Ihm die Flasche ax den
+Mit bebenden Händen zog ich den Glasstöpsel aus der
+Flasche, hob Haralds Kopf, setzte ihm die Flasche an den
+Mund.
 
-Er trank — er trank.—! Mk wollte die Flasche wegnehmen.
+Er trank — er trank —! Ich wollte die Flasche wegnehmen.
 
-Hein — alles!« Lallte er.
+»Nein — alles!« lallte er.
 
-Es war mindestens ein halber Liter reiner Altfohol!
+Es war mindestens ein halber Liter reiner Alkohol!
 
 Nun lag Harst mit geschlossenen Augen da; nun kehrte
-Mr Apporte zurück; nun deutete Ich stumm auf die leere
-Flasche
+Miß Honoria zurück; nun deutete ich stumm auf die leere
+Flasche.
 
-Miß Muyuntor nickte nur. »Je mehr, je besser, Mr.
-Schraut. Wir kennen hier in Indien den ‘Strolch als recht
+Miß Myntor nickte nur. »Je mehr, je besser, Mr.
+Schraut. Wir kennen hier in Indien den Alkohol als recht
 zuverlässiges Mittel gegen alle Nervengifte.«
 
 Ich hörte draußen auf dem Hauptwege des Parkes
@@ -857,236 +859,237 @@ das Rollen der heimkehrenden Ponywagens.
 
 »Miß Honoria, bitte mag Makri sofort irgend einen
 Arzt holen, » sagte ich hastig. »Irgend einen, wenn es nur
-Schnell acht —«
+schnell geht —«
 
 <@pagebreak/>
 Und wieder war ich mit Harald allein — mit Harald,
-der fahlen, verzerrten Gesichts regungslos auf demn Diwan
+der fahlen, verzerrten Gesichts regungslos auf dem Diwan
+ruhte.
 
-Ich rückte mir einen Stuhl an das Starrende; ich saß
+Ich rückte mir einen Stuhl an das Kopfende; ich saß
 und beobachtete sein von ein paar Sonnenstrahlen, die
-durch das Laubdach der Bäume draußen fielen, grell bei
-schieneres, mir so teures Antlitz.
+durch das Laubdach der Bäume draußen fielen, grell be-schienenes,
+mir so teures Antlitz.
 
-Sich saß so eine volle Stunde. Und ich sah, wie die
-Nöte langsam iù die Wangen serviere, wie das Herz offenbar
+Ich saß so eine volle Stunde. Und ich sah, wie die
+Röte langsam in die Wangen flutete, wie das Herz offenbar
 wieder kräftiger arbeitete, wie der Krampf der Muskeln
 nachließ.
 
 Honoria war inzwischen zweimal im Zimmer gewesen,
-fiel aber wieder lautlos hinausgeschlichen.
+stets aber wieder lautlos hinausgeschlichen.
 
 Dann Wagenrollen — Geräusche im Flur.
 
 Nun stand ich Doktor Austin Greebrac zum ersten Male
-— demselben Greebrac, der uns monatelang in
+gegenüber — demselben Greebrac, der uns monatelang in
 Atem halten sollte, — demselben Manne, im Vergleich zu
-dem unser einstiger Gegner Sechs Warbatty ein haruloses
+dem unser einstiger Gegner Sechs Warbatty ein harmloses
 Lämmchen gewesen war.
 
-Er war allein eingetreten. Er hielt den weißen, breit
-farbigen Strohhut in der Linken, in der Rechten eine kleine
+Er war allein eingetreten. Er hielt den weißen, breitrandigen
+Strohhut in der Linken, in der Rechten eine kleine
 Arzttasche. Sein grauer Flanellanzug, die tadellose Wäsche,
 der Brillant in der mattblauen Krawatte, alles verriet den
 Mann von verfeinertem Geschmack, der etwas auf sich hält.
 
-Und dann feine Getrabt, fein Gesicht.
+Und dann seine Gestalt, sein Gesicht.
 
-Etwas über Mttetaros, stank, tadellos Amen!
-Rede Bewegung von zwang als Sicherheit und unbeabsicl-ater
-Vornehmheit — ein geborener Gentleman, eine Vers
-nlichleit! — Das Gesicht reinigt, die Nase, China.: groß,
-dünn wie ein Messer; darunter ein Mund mit innen
+Etwas über mittelgroß, schlank, tadellos gewachsen;
+jede Bewegung von zwangloser Sicherheit und unbeabsichtigter
+Vornehmheit — ein geborener Gentleman, eine Persönlichkeit!
+— Das Gesicht schmal, die Nase, etwas groß,
+dünn wie ein Messer; darunter ein Mund mit dünnen
 Lippen; der Unterkiefer ein wenig vorgebaut, breit, massig.
-Die Augen tief in den Höhlen unter feingeshwutgencn,
+Die Augen tief in den Höhlen unter feingeschwungenen,
 farblos blonden Brauen, unbestimmt in der Farbe, aber
-mit seltsam herrlichen Eid. Das stark gerichtete blonde
-Haupthaar gescheitelt und eine eine Stirn freigelegt,
-deren blendend zarte Hand zu dem frischen Braun des Gesichts
-in schärfstens Kontrast stand.
+mit seltsam herrischem Blick. Das stark gerichtete blonde
+Haupthaar gescheitelt und eine eckige Stirn freigebend,
+deren blendend zarte Haut zu dem frischen Braun des Gesichts
+in schärfstem Kontrast stand.
 
-»Doktor Greebrac,« stellte er sich mit einer »wohllauten-den,
-»aber leicht verschleierten Stimme war. »Ah bedauere
+»Doktor Greebrac,« stellte er sich mit einer »wohllautenden,
+aber leicht verschleierten Stimme war. »Ich bedauere
 aufrichtig, Ihren berühmten Freund Harst nicht bei einer
 <@pagebreak/>
-angenehmeren Gelegenheit kennen gelernt zu haben elf biete
-es ist. Miß Myntor berichtete mir bereits, ne Mr. Harst
-Durch einen Blasrohrpfeil verwundet worden
+angenehmeren Gelegenheit kennen gelernt zu haben als diese
+es ist. Miß Myntor berichtete mir bereits, daß Mr. Harst
+durch einen Blasrohrpfeil verwundet worden ist.«
 
 Er legte Hut und Tasche auf einen Sessel und trat an
 den Diwan heran.
 
 Ich ließ ihn nicht einen Moment aus den Augen.
 
-&r fühlte Harald den Puls. Mir schien es, als ob er
+Er fühlte Harald den Puls. Mir schien es, als ob er
 enttäuscht war. Er hatte wohl auf einen schwächeren Herzschlag
 gehofft.
 
 »Ich habe Harst etwa ein halbes Liter reinen Alkohol
-trinken Boy, erklärte ich.
+trinken lassen,« erklärte ich.
 
-Er hob die Augenlider hoch. Die Pupillen wagten
-stark Gotha Aber der Blick war glanzlos, ohne Leben,
+Er hob die Augenlider hoch. Die Pupillen waren
+stark gerötet. Aber der Blick war glanzlos, ohne Leben.
 
-»Hm — ich möchte Ihrem Freunde doch noch eine Als
+»Hm — ich möchte Ihrem Freunde doch noch eine
 Injektion machen,« meinte er nun.
 
-Oh eine vermag Durfte ich das zulassen?!
-Wenn er Harald nun ein 2» in die Blutbahn einführte.
+Oh — eine Einspritzung? Durfte ich das zulassen?!
+Wenn er Harald nun ein Gift in die Blutbahn einführte,
 ein langsam wirkendes Gift!
 
 Er war, ohne eine Antwort abzuwarten, an den Tisch
-Wen packte seine Tasche aus.
+getreten, packte seine Tasche aus.
 
 Gott sei Dank: Honoria erschien! Nun — nun würde
 es mir möglich sein, das zu tun, was blitzartig in meinem
-Dick. Per aufgesucht war.
+Hirn als besonderer Plan aufgesucht war.
 
 Und — es gelang!
 
-Wo will hier nicht die Einzelheiten schildern, wie ich
-brachte, Greebracs mit He wasserklaren lüssig-felt
-‘gellte jCelsprive gegen unsere nötig gleich Angst
-rang auf sei Spritze zu Dr quaestüsterte während
-Honoria, u fh alles durch ein paar ne Orte
-begreifend, Greebracs Aufmerksamkeit Da rx geschickt- ablenkte
-und ihn er für drei Minuten mit sich in den A nahm,
-wo sie ich in bar äußerst besorgt fragte, ob Lebensgefahr
+Ich will hier nicht die Einzelheiten schildern, wie ich
+es fertig brachte, Greebracs mit einer wasserklaren Flüssigkeit
+gefüllte Nickelspritze gegen unsere völlig gleich aussehende,
+mit Wasser gefüllte Spritze zu vertauschen, während
+Honoria, rasch alles durch ein paar ihr zugeflüsterte Worte
+begreifend, Greebracs Aufmerksamkeit sehr geschickt ablenkte
+und ihn sogar für drei Minuten mit sich in den Flur nahm,
+wo sie ihn scheinbar äußerst besorgt fragte, ob Lebensgefahr
 vorhanden sei.
 
-Dann folgte die unglückliche Injektion in den linken
-Teilchen, He gehe Austin Greehbrac:
+Dann folgte die unschädliche Injektion in den linken
+Ober arm, dann sagte Austin Greebrac:
 
-Klo Freund wird morgen wieder
-ie fein. rein bei solchen Vergiftungen treten auch
-Bau Komplikationen ein, ungeahnte erichlimmerungen.
-denke aber, wir haben Mr. Harst über den Veto.«
+»So — ich hoffe, Ihr Freund wird morgen wieder
+gesund sein. Freilich, bei solchen Vergiftungen treten auch
+häufig Komplikationen ein, ungeahnte Verschlimmerungen.
+Ich denke aber, wir haben Mr. Harst über den Berg.«
 
-Er packte feine Anftrumente wieder ein. lärmten unsere
+Er packte seine Instrumente wieder ein, darunter unsere
 <@pagebreak/>
-Spritze. Geige eigene noch gefüllte lag unter ein paar
-Zeitungen aus einem Rauchlischthen.
+Spritze. Seine eigene noch gefüllte lag unter ein paar
+Zeitungen auf einem Rauchtischchen.
 
-Dann verabschiedete ordne »Ich werde abends Mode
-damals nach dem Patienten leben.«
+Dann verabschiedete er sich. »Ich werde abends nochmals
+nach dem Patienten sehen.«
 
-Miß Myntor rief cu:rasieren herbei. Es war Makri.
+Miß Myntor rief einen Diener herbei. Es war Makri.
 Dieser sollte den Doktor wieder nach Hause fahren.
 
 Kaum rollte der Wagen davon, als Honoria schon
 meine Hand ergriff und fragte:
 
-Mißtrauten Sie ihm wirklich? Weshalb?«
+»Mißtrauten Sie ihm wirklich? Weshalb?«
 
 Da — vom Diwan her Haralds Stimme:
 
 »Vorsicht — Vorsicht! Kein lautes Wort hier oder im
 Hause! Nur im Freien offen zueinander sein!«
 
-Wir beugten uns tief über ihn. An seinen Augen war
-das Flirren halber Trunkenheit, gezögert durch die enorme
+Wir beugten uns tief über ihn. In seinen Augen war
+das Flirren halber Trunkenheit, gezügelt durch die enorme
 Energie, die nur ein Harst aufbringen konnte.
 
-»ich habe den Mann gesehen, der den Pfeil abschoß,
-zu er. »Es war ein Farbiger, aber feiner der Diener
-dieses Hauses, ein magerer Mensch von wahrer Afsenge-wandtheit.
-Er sah wie ein Bettler ‘aus, hatte ehe zahlte
-en Bart und eine dicke Negernase. Ich hätte ihr und der
-Pistole aus der Baumkrone berablinten können. Aber —
-dann wäre die Aufveckluna des Anschlags zu früh erfolgt.
-Sich wollte ihn flüchten lassen —«
+»Ich habe den Mann gesehen, der den Pfeil abschoß,
+flüsterte er. »Es war ein Farbiger, aber keiner der Diener
+dieses Hauses, ein magerer Mensch von wahrer Affengewandtheit.
+Er sah wie ein Bettler aus, hatte einen zottigen
+Bart und eine dicke Negernase. Ich hätte ihn mit der
+Pistole aus der Baumkrone herabholen können. Aber —
+dann wäre die Aufdeckung des Anschlags zu früh erfolgt.
+Ich wollte ihn flüchten lassen —«
 
 Er hielt erschöpft inne.
 
-»Kognak,« bitte!« fuhr er dann fort. »Ad will ein paar
-Stunden laden, es Ulsters jemand bei mir, bleiben,
-rx Diwan soll a 1 die Terrasse uwbracht werden, Hier
-dañen die Wände Ohren »
+»Kognak,« bitte!« fuhr er dann fort. »Ich will ein paar
+Stunden schlafen. Es muß stets jemand bei mir bleiben.
+Der Diwan soll auf die Terrasse gebracht werden. Hier
+haben die Wände Ohren —»
 
-Als er dann Rasch der Terrasse sich befand, als nun
-Mistreß ie. und Honoria hier von mich auf seinen
+Als er dann auf der Terrasse sich befand, als nun
+Mistreß Busselt und Honoria hier von mir auf seinen
 Wunsch in alles eingeweiht worden waren, sagte er, bevor
-er ich zum Schlafe auf die Seite legte:
+er sich zum Schlafe auf die Seite legte:
 
 »Mein Alter, Du mußt die Grabkapelle Lydias jetzt sofort
-»aussuchen. Bringe die Spritze auch besser eingewickelt
-hierher. Sei aber überaus vorsichtig. Der Kerl stet vielleicht
-noch In der Datımilroie.«
+aufsuchen. Bringe die Spritze auch besser eingewickelt
+hierher. Sei aber überaus vorsichtig. Der Kerl steckt vielleicht
+noch in der Baumkrone.«
 
-Da erst fielen mir die beiden Warnungen ein. ch
-zeigte sie Harald und den Damen. Sollt mehrte nur:
+Da erst fielen mir die beiden Warnungen ein. Ich
+zeigte sie Harald und den Damen. Harst meinte nur:
 
-»Das hat der Blasrohrschüße erledigt. Er leerte die
+»Das hat der Blasrohrschütze erledigt. Er legte die
 <@pagebreak/>
 beiden Zettel hin. Er kennt mehr von diesem früheren
 Hindutempel als wir.«
 
-Ich holte die Sperre. Honoria kam mit in den Park
-und in das alte Gemäuer. ich habe über Honoria Myntor
+Ich holte die Spritze. Honoria kam mit in den Park
+und in das alte Gemäuer. Ich habe über Honoria Myntor
 mich hier noch nicht näher geäußert. Der Leser kennt sie
-»ja aus dem vorigen Band: ein Mannweib, Note
-fliehe in einem Sportanzug mit Kniehosen, ein Weib,
-deren Belastung die Natur sich den Wie geleistet hatte, es
-nen Mann als Weib zu formen.
+ja aus dem vorigen Band: ein Mannweib, sportgeübt,
+stets in einem Sportanzug mit Kniehosen, ein Weib, bei
+deren Schaffung die Natur sich den Witz geleistet hatte, einen
+Mann als Weib zu formen.
 
-Honoria hatte einen Revolver mitgenommen, Sie
+Honoria hatte einen Revolver mitgenommen. Sie
 blieb als Wache draußen, während ich die Kapelle betrat.
-»Vor der Tür im Grase hatte noch Haralds Pistole gelegen,
-he He, Händen entglitten war.
+Vor der Tür im Grase hatte noch Haralds Pistole gelegen,
+wie sie seinen Händen entglitten war.
 
-! ach im Innern des alten Heinen Baniverfd war alles
+Auch im Innern des alten kleinen Bauwerks war alles
 so geblieben, wie wir es zurückgelassen hatten.
 
-Dort in der Ecke auf den Steinflicesen der Blasrohr-peil;
+Dort in der Ecke auf den Steinfliesen der Blasrohrpfeil;
 dorthin hatte Harald ihn geschleudert. Die Flügelschrauben
-Grabes Sargdeckels waren noch heransgedreht. Scheck
-Bunte den Deckel unschwer beiseite schieben.
+des Sargdeckels waren noch herausgedreht. Ich
+konnte den Deckel unschwer beiseite schieben.
 
-Bellen: Ich wollte es!
+Besser: Ich wollte es!
 
-Denn als ich mich gerade dagegen fterrumte und dabei
-den Kopf senkte. spürte Ich am Schirm der Sportinälbe
-entzog wie einen leichten Schlag.
+Denn als ich mich gerade dagegen stemmte und dabei
+den Kopf senkte, spürte ich am Schirm der Sportmütze
+etwas wie einen leichten Schlag.
 
-ch riß sie herab.
+Ich riß sie herab.
 
-»Ein Blick: in dem Schirm flehte ein gelten Gistpseill!
+Ein Blick: in dem Schirm steckte ein zweiter Giftpfeil!
 Einer, der mir gegolten hatte.
 
-ne Mit zwei Sätzen war ich im Freien. So, wie ich am
+Mit zwei Sätzen war ich im Freien. So, wie ich am
 Sarge soeben gestanden hatte, konnte der Pfeil nur durch
-das östliche runde Feonsterchen gekommen fein.
+das östliche runde Fensterchen gekommen sein.
 
-&mmerbin, so fihnell ich auch war, eine halbe Minute
-hatte der Blasrohrschüue doch Vorsprung. Ich mußte erst
-oh um eine Menge stachliger Büsche herum. Dann sah
-das Fensterchen, konnte über dünne Gräser bis dicht an
-ie Mauer heran.
+Immerhin, so schnell ich auch war, eine halbe Minute
+hatte der Blasrohrschütze doch Vorsprung. Ich mußte erst
+noch um eine Menge stachliger Büsche herum. Dann sah
+ich das Fensterchen, konnte über dünne Gräser bis dicht an
+die Mauer heran.
 
-Honoria an hinter mir drein gestürmt.
+Honoria war hinter mir drein gestürmt.
 
-Was gibt’s, Mr. Schraut?« keuchte sie.
+»Was gibt’s, Mr. Schraut?« keuchte sie.
 
-Ich antwortete nicht sofort. Ach suchte nach den Radspuren
-des Schüren. Ach fand nur Anzeichen dafür, daß
-aus dem Mauerabsay gestanden und so durch die xen-össnuna
-mir den D zugesandt hatte.
+Ich antwortete nicht sofort. Ich suchte nach den Fußspuren
+des Schützen. Ich fand nur Anzeichen dafür, daß
+er auf dem Mauerabsatz gestanden und so durch die Fensteröffnung
+mir den Pfeil zugesandt hatte.
 
 <@pagebreak/>
-Sann erwiderte ich:
+Dann erwiderte ich:
 
-»Miß Honoria, ein zweiter Pfeil war jetzt mir Auge
-bedacht. Hätte ich rieb nicht im selben Moment gebückt, dann
-wäre das Giltding mir in die Stirn gefahren!«
+»Miß Honoria, ein zweiter Pfeil war jetzt mir zugedacht.
+Hätte ich mich nicht im selben Moment gebückt, dann
+wäre das Giftding mir in die Stirn gefahren!«
 
 Honoria schrie leise auf. Diese Aeußerung ihres Schrecks
-war doch echt weißlich.
+war doch echt weiblich.
 
-Und nun eine N, Stimme:
+Und nun eine wohlbekannte Stimme:
 
 »Der Kognak hat mir ganz auf die Beine geholfen!«
-Hinter uns stand Harald, der sich auf Mistreß Purzelte
-Arg: stützte.
+Hinter uns stand Harald, der sich auf Mistreß Busselts
+Arm stützte.
 
 <h2>4. Kapitel.</h2>
 <h3>Der dritte Pfeil.</h3>
@@ -1103,7 +1106,7 @@ Harald lächelte begütigend.
 Man hat also auch Dich bedenken wollen. mein Alter!
 Und nun wunderst Du Dich, daß Du keine Spuren findest.«
 
-»Bitte, hier auf dem Mauerabsayß hat ein Mensch ne
+»Bitte, hier auf dem Mauerabsatz hat ein Mensch ne
 standen —«
 
 »Soweit ich von hier sehen kann, ist der Mensch auf
@@ -1282,7 +1285,7 @@ As halten, warnen Taucher, ja auf der Hut zu fein
 »die Wahrheit, Makri. Es acht hier vielleicht ums Leben.«
 
 oh Im grau verfärbten Gesicht des Radschputen malte: sich
-deutlich ein schwerer Seelenfampf.
+deutlich ein schwerer Seelenkampf.
 
 Y: Dann dann sahen wir alle, wie er zusammenzuckte,
 Mole sein Antlitz die Farbe des schmutzigen Fleis bekam.
@@ -1304,7 +1307,7 @@ Dann ein Knall — ein Aufkreischen der Damen.
 
 Noch ein Klar.
 
-Das Poltern des durch den stürzenden Inder umge-rissenen
+Das Poltern des durch den stürzenden Inder umgerissenen
 Tisches und Es Klirren des zersplitternden Por-zellans
 wurde noch übertönt durch einen dumpfen Klo
 eines auf die Terrasse reger anstieg Körpers, der
@@ -1430,8 +1433,8 @@ Harald war sehr schweigsam und in sich gekehrt. ich
 mußte, was ihn beunruhigte: er fürchtet, wir könnten
 zu spät in Battikaloa eintreffen und Austin Greebrac könnte
 Mittel und Wege gefunden haben, trotz der über Tom
-Brackpoll in Battikaloa angeordneten Depescheusperre eine
-Nachricht dorthin gelangen zu lassen. Von einer  tele-Farin
+Brackpoll in Battikaloa angeordneten Depeschensperre eine
+Nachricht dorthin gelangen zu lassen. Von einer  tote-Darin
 Nulforderima an die Polizei in Battikaloa, Tom
 radpod aus der Plantage Plus zu verhaften
 dort nach Lydia zu suchen, hatte BVoßwell auf Haralds deine
@@ -1479,7 +1482,7 @@ sonst noch Kraftwagen bemerkt worden?« fragte
 »Gewiß. Verdächtig war uns zum Beispiel ein by
 Vergnügen Wagen der von einem chinesischen Chauffeur ne
 steuert wurde. Die Insassen, ein Weißer und zwei Damen,
-konnten sich jedoch aweilelöfrei alt der Bombayer Ober-richter
+konnten sich jedoch aweilelöfrei alt der Bombayer Oberrichter
 Sir Lonworld nebst Gattin und Tochter ausweisen.«
 
 »Waren die Damen verschleiert?«
@@ -1579,7 +1582,7 @@ ach
 
 Vierzehn runden später lag unser Kutter in der La-gunennändung
 unweit der Buch Bojen oh na ach
-Fahrriune an einem Meinen Spielten vor Unser. ‚Du
+Fahrrinne an einem Meinen Spielten vor Unser. ‚Du
 sel hatte eine felsige Spitze, von der aus man Diwans
 Fernglas die breite Wasserfläche bequem überschauen
 Bannte. — Die Sonne war soeben aufgegangen. Harst und
@@ -1592,7 +1595,7 @@ Harald war es, der gegen sieben Uhr dann den Wların-ruf
 hinab zum Kutter fischte: »Hallo — Gocklin! Aus
 fertig! Sie braunen!« -
 
-Das Rennboot hielt sich dicht am Festlanduser. Wir
+Das Rennboot hielt sich dicht am Festlandufer. Wir
 überquerten die Lagune und verschwanden hinter zwei be-Wwaldeten
 Eilanden. Das Rennboot mußte hier vorüber,
 wenn es nicht gerade den Kurs änderte. Wir hatten zwei
@@ -1689,7 +1692,7 @@ zu,«
 pi »Oder besser: lügen sie!« meinte Harst und blickte den
 einen Wunder noch schärfer an. »Du hast Deine Augen
 schlecht in der Gewalt!« sprach er ironisch zu dem größeren
-der Diener, einem braunen Kerl von athletishem Körper-bau.
+der Diener, einem braunen Kerl von athletischem Körperbau.
 Agra Augen glomm der Hohn auf. Greebrac
 war an Bord!«
 
@@ -1775,7 +1778,7 @@ Glase das Boot beobachtete, winkte uns ärgerlich in:
 
 Auch ich hatte dies schon befürchtet. Und des Anders
 Aenußerung war nur so zu verstehen, daß er auf diesen nicht
-einzubolenden Vorsprung irrt hatte.
+einzuholenden Vorsprung irrt hatte.
 
 Wieder meldete sich Gocklin:
 
@@ -1802,8 +1805,8 @@ Dann hatte der gefährliche Bursche sich schon über die
 Lebtag ins Walzer fallen lassen.
 
 <@pagebreak/>
-@3: war Nur: er wollte uns nur zwingen, ihn aufzu-Pac
-wollte dem Fischerboote so das Entkommen Drei»:
+@3: war Nur: er wollte uns nur zwingen, ihn Rufen-Bar
+wollte dem Fischerboote so das Entkommen Drei«:
 in.
 
 Harst war schon wieder auf den Füßen.
@@ -1938,7 +1941,7 @@ ch hinterdrein.
 Kaum war ich die Treppe empor, als in der Kaufte
 ein furchtbarer Knall ertönte.
 
-Der Lustdruck durch die zersplitternde Tür packte mich
+Der Luftdruck durch die zersplitternde Tür packte mich
 noch so stark, daß löst vorn überfiel und mit dem Kopf gegen
 die eiserne Reling flog.
 
@@ -1949,7 +1952,7 @@ Ich verlor das Bewußtsein.
 
 Und erwachte — als Gefangener Doktor Austin Greebracs,
 erwachte in einer weiten Halle, in der Gras zwischen
-den Bodenfliefen wucherte und in die heller Sonnenfcheim
+den Bodenfliesen wucherte und in die heller Sonnenfcheim
 durch das teilweise eingestürzte Dach hineinfluteie. —
 
 As war geschehen?
@@ -2117,7 +2120,7 @@ Er rief schon den Chinesen herbei.
 von Éllora begleiten zu dürfen. Mir brechen In gebar
 Minuten auf!«
 
-Das Schlibaeficht verzog sich zur Teufelsfrabe.
+Das Schlibaeficht verzog sich zur Teufelsfratze.
 
 »ich weiß, Sahib, — der Tiger!« nickte er.
 
@@ -2164,7 +2167,7 @@ gefährlicher als der Bruder.
 
 Dann erschien Tamar Dach, der Athlet, hob mich empor
 und trug mich ins. Freie und in einen der landesüblichen
-Ochsenwagen,« wo ich in einem Winkel des Wagenkostens
+Ochsenwagen,« wo ich in einem Winkel des Wagenkastens
 unter Decken versteht wurde, nachdem der Inder mir noch
 einen Knebel in den Mund gepreßt und ihn im Genick festgebunden
 hatte. M ¡
@@ -2327,7 +2330,7 @@ Austin wandte den Kopf.
 »Boy der Existenz dieses Felsentempels wissen Kurz
 Weddas etwas, Mr. Schraut. Sie hüten dieses he
 gesinnte wie manches: andere, zum Beispiel das der Zug
-ammensevung ihres Pfeilaiftes namens Lipara. Die Wirkung
+ammensevung ihres Pfeilgiftes namens Lipara. Die Wirkung
 kennt man. Nicht wahr, Mr. Schraut? Sie doch auch?
 Grazie sagten ja, wie Harst trotz des Aussaugeus der Wunde
 durch Sie schwach wurde, Nun — die ganze Wirkung
@@ -2386,7 +2389,7 @@ Ich biß die Zähne zusammen. Und — kam gräflich
 unten an.
 
 Alle Wunder allindiscer Baukunst taten sich vor mir
-auf; Märcheuträume wurden verwirklicht, wurden zu den
+auf; Märchenträume wurden verwirklicht, wurden zu den
 erhabenen, phantastischen Formen eines aus weißem und
 schwarzem Marmor erbauten Tempels, den ich im Scheine
 zahlloser brennender Fackeln durch einen trichterförmig sich
@@ -2411,7 +2414,7 @@ Besitztum, wurden dabei unterstübßt von dem Tropfte der
 Weddas. Hier hielten sie im geheimen dann ihre religiösen
 Feiern ab. In den vielen Jahrhunderten ging kann uaf-nählich
 die Kenntnis, von diesem Felsentempel verloren,
-blieb nur noch als Familiengeheimuis bei einigen Weddas
+blieb nur noch als Familiengeheimnis bei einigen Weddas
 bestehen. Und fest — trat ist der Brahmatempel die Nordens
 einer anderen Gottheit, eines anderen was, eile
 Fürsten der Nacht, der Dunkelheit, — *meine* Residenz,
@@ -2426,7 +2429,7 @@ Gabeln.
 
 »Was ist ein Harst im Vergleich zu mir?!« fügte er
 ach tiefen Atemholen hinzu. »Ein Nichte — ein armseliger
-Tor, der sich König von Genieland dünkt und Die Heber-Zeugung
+Tor, der sich König von Genieland dünkt und Die Hebel-Zeugung
 seines geistigen Uebergewichts doch nur aus den
 Niederlagen kläglicher Durchschnittsverbrecher geschöpft hat.«
 
@@ -2538,7 +2541,7 @@ Gab:
 
 Adi lächelte — lächelte mich
 
-Die da so ein Lächeln auf einem Mädchenaesicht die
+Die da so ein Lächeln auf einem Mädchengesicht die
 »ganze Gemeinheit einer verworrener Seele widerspiegeln
 Bann! Und — wie llebrelzend hatte Ich liefe Komödiantin
 »zuerst gesunder, als wir sie aus dem ‘Wasser gezogen hohe
@@ -2563,7 +2566,7 @@ Biene bereits passiert.
 
 <@pagebreak/>
 Und über ihm schwebten drei andere Männer. Ich erkannte
-Tamar Balz herfulische Gestalt, erkannte den blitzenden
+Tamar Balz herkulische Gestalt, erkannte den blitzenden
 Revolver in seiner Rechten.
 
 Auf den flachen Tempeldache aber zwischen den vier
@@ -2574,7 +2577,7 @@ Anschlag.
 »Seine Stimumie klang wie ein Dröhnen, als er nun rief:
 
 »Ach heiße Sie willkommen, Fix. Harst! Bemühen Sie
-sich an Ihrem selbstgeslochtenen Lianentan nur liefen herab!«
+sich an Ihrem selbstgeflochtenen Lianentan nur liefen herab!«
 
 Adi wandte den Topf. »Sie Dünnen »Ihren Freund
 gleich oben auf dem Dache begrüßen. — ihre — mir voran!
@@ -2610,7 +2613,7 @@ nen können, kein Grübeln, keine Pläne! —
 Ein Schritt auf dem harten Gestein, ein elastischer steiler
 Schritt: Harst!
 
-»Tag, mein Alter!»
+»Tag, mein Alter!«
 
 ich schnellte Loch.
 
@@ -2642,7 +2645,7 @@ zweifle aufmerksam.
 »Die echte Lydia,« flüsterte Harald.
 
 Man glaubte eine Singbalefin, eine Eingeborene Gen
-sang, vor sich zu haben. Das tiefgebrännte Gesicht, das
+sang, vor sich zu haben. Das tiefgebräunte Gesicht, das
 bunte Kovinitch, der mantelartige Ueberwurf, die Sandalen
 an den flc:nen Füßen — alles deutete auf eine Farbige
 bin. Und doch war es eine Europäerin. Das schmale Gefecht,
@@ -2729,7 +2732,7 @@ weg!« Das war an uns gerichtet. »Pistolen mit leere
 Patronenrabnen müden ihnen nichts! — Sie dürfen jetzt
 noch eine halbe Stunde mit Lydia Ramand interessante
 Neuigkeiten austauschen.« Seine Stimme höhnte wieder.
-»Dort neben dem steinernen Glefantengöben an der Grottenwand
+»Dort neben dem steinernen Elefantengötzen an der Grottenwand
 steht eine Steinbank. Dort — durchleben »Sie
 Ihre lebte halbe Stunde. Bitte!« Er verbeugte sich ironisch,
 wies auf die Steinbank und rief den Tiger zu sich heran.
@@ -2759,7 +2762,7 @@ Harald umfaßte Æ sanft.
 Kinos, von Ihrer Großmutter erzählen, möchte Sie einiges
 Tagen
 
-Eile ließ sich quer durch die Höhle auf den Elefanten-aögen
+Eile ließ sich quer durch die Höhle auf den Elefantengötzen
 zuführen.
 
 Hier gab es in der Felswand eine muschelsörmige
@@ -2770,7 +2773,7 @@ Umstände ihrer Verschleppung, auf die sie sich noch ganz
 
 Am Vormittag jenes Tages, als sie verschwand, hatte
 Albert Dracçon, der ihr auch geraten hatte, böse Kais in den
-geheimen Kellergelassen u verbergen, die von Makri enut-Dedit
+geheimen Kellergelassen u verbergen, die von Makri Baut-Dehli
 geworben waren, im Park ihr ein Schächtelchen forscht
 zugesteckt und gesagt, sie solle davon aber nur naschen, wenn
 sie bei ihrem Härchen seh. Nachmittags gegen zwei Uhr
@@ -2817,7 +2820,7 @@ Greebracs und Dracons Stimmen. Sie fühlte die
 Schwankungen eines Schiffes, fühlte, daß man ihr etwas
 in den Mund goß, daß ein Feucstrom ihr vom Munde
 durch den Körper ging, und — konnte die ¡Surren Lider
-plötzlich öffnen. Sie war aus dem Starrlx»p| erwacht.
+plötzlich öffnen. Sie war aus dem Starrlxp| erwacht.
 jedoch nur, um nach all den leer;scheu Foltern von einem
 schweren Norwegischer befallen zu werden, das sie monatelang
 Fang Bett fesselte. ls sie leidlich genesen, war ihr
@@ -3060,7 +3063,7 @@ Dann winkte Greebrac Tamar Dak heikel.
 
 Der Inder eilte hinweg. Man schleppte und zechta
 neben den Elesantengöbßen an die Wald, fesselte uns mit
-ausgebreiteten Armen an Eisenringe, die in den Fels ein-gegossen
+ausgebreiteten Armen an Eisenringe, die in den Fels eingegossen
 waren. Ich stand dicht neben dem Götzen; Harald
 links von mir.
 
@@ -3071,7 +3074,7 @@ bei den Genickfsalten des Festes gepackt.
 
 »Nun der Verräter Lamiru!« befahl Greebrac wieder.
 
-Der athletishe Tamar Dak kehrte sehr bald mit einem
+Der athletische Tamar Dak kehrte sehr bald mit einem
 gefesselten Diener über dem Rücken zurück.
 
 <@pagebreak/>
