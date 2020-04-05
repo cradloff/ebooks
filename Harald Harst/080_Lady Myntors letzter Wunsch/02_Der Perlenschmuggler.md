@@ -404,7 +404,7 @@ auf das eine große Flasche festgebunden war.
 Boltrell sah, daß das Brett uns interessierte.
 
 »Ach so — der Rudersitz da!« meinte er. »Wir haben
-ihn vor vier Tagen aufgetischt.«
+ihn vor vier Tagen aufgefischt.«
 
 Dann sog er weiter an seiner kurzen Pfeife.
 
@@ -545,7 +545,7 @@ Nun — ich versuchte es! Aber es glückte mir nicht.
 <@pagebreak/>
 »Die ersten Reihen enthalten den Anfang und das Ende
 des Textes,« half Harald mir. »Oder noch genauer: das
-Ende und den Anhang! »Torria Mynma« ist eben die
+Ende und den Anfang! »Torria Mynma« ist eben die
 Unterschrift, also Maria Myntor. Und »iches« ist der Anfang
 des Ganzen. Lies jetzt mal zuerst von den Wörtern
 
@@ -655,7 +655,7 @@ Ich erhob mich halb, stierte blöde umher.
 
 Teufel — was bedeutete das?! Dies hier war ja
 unsere Zweighütte auf Kiltara, — und dort saß ja Harst
-auf seinen Graslager, — und dort im Hütteneingang stand
+auf seinem Graslager, — und dort im Hütteneingang stand
 Honoria mit weit aufgerissenen Augen und — schrie:
 
 »Haben wir denn nur geträumt, daß wir auf dem Schoner
@@ -694,7 +694,7 @@ Da — da ging auch mir ein Licht auf!
 entzifferst!«
 
 »Ja — das wollte man. Und dann gab man uns den
-Schlaftrunk. dann wendete der Schoner und fuhr nach Kiltara
+Schlaftrunk, dann wendete der Schoner und fuhr nach Kiltara
 <@pagebreak/>
 zurück! Oh — mich so hineinzulegen! So —! Argwöhnisch
 war ich zuerst ja, weil es mir schien, als beachte
@@ -842,7 +842,7 @@ nicht unnötig wecken. So eilte ich denn zu der Hütte Honorias
 und rief Ihr zu, sie solle doch mal herauskommen;
 es sei da ein Dampfer aufgetaucht, der mir verdächtig erschiene.
 
-Miß Myntor schaute dann eine ganze Welle nach dem
+Miß Myntor schaute dann eine ganze Weile nach dem
 Dampfer aus.
 
 »Es ist die Shallow,« sagte sie nun. »Man hat ihr
@@ -1109,7 +1109,7 @@ Schotakadscha.
 
 Jetzt kamen wir endlich etwas zu Atem — endlich!
 Die beiden farbigen Matrosen des Zollkutters waren sehr
-arbeitsfreudige Leute: die durch die von Harst ihnen in
+arbeitsfreudige Leute, die durch die von Harst ihnen in
 Aussicht gestellte Belohnung uns doppelt eifrig bei allem
 halfen, so daß Harald und ich jetzt in der Schiffsküche uns
 um die Zubereitung einer Mahlzeit kümmern konnten.
@@ -1169,7 +1169,7 @@ Brücke, zugleich das der Deckwache.
 Unsere Positionslaternen brannten. Ueber dem Kompaß
 glomm die kleine elektrische Birne.
 
-Die Nacht wahr sehr dunkel. Leichtes Gewölk zog tiefhängend
+Die Nacht war sehr dunkel. Leichtes Gewölk zog tiefhängend
 dahin. Der Wind war völlig eingeschlafen.
 
 Ich lehnte am Steuerrad, blickte hin und wieder auf
@@ -1266,7 +1266,7 @@ Wasserwüste.
 »Der Kutter ist verschwunden,« erklärte Harald, der
 abermals mit dem Glase Ausschau gehalten hatte.
 
-»Ich denke, der Kutter wird uns nach der Westbucht,
+»Ich denke, der Kutter wird uns nach der Westbucht
 von Schotakadscha vorauseilen und Albert Dracon warnen.
 Wir werden ihn und seine Helfershelfer anderswo suchen
 müssen. Der Kutter läuft mindestens fünf Knoten mehr
@@ -1308,7 +1308,7 @@ stimmt mich wenig zuversichtlich.«
 Spuren zu hinterlassen. Selbst das Meer nimmt Spuren
 an. Man muß sie nur mit geistigem Auge zu lesen wissen.«
 
-»Wäre es nicht besser, anstatt noch Schotakadscha zu
+»Wäre es nicht besser, anstatt nach Schotakadscha zu
 fahren, sofort Kurs auf Bombay zu nehmen und von dort
 aus durch Depeschen die Küstenstädte auf diese Piratenbande
 aufmerksam zu machen?!« sagte Honoria nach kurzer Pause.
@@ -1342,7 +1342,7 @@ auch das Telegramm besorgte.
 
 Und fünf Stunden später —
 
-Da — das muß ich genauer schildern. Denn das,
+Doch — das muß ich genauer schildern. Denn das,
 was uns am Abend zustieß, war vielleicht die größte Ueberraschung
 des Myntor-Problems.
 
@@ -1370,7 +1370,7 @@ vorausschicken. —
 
 Abends gegen sieben Uhr ging ein recht schweres Gewitter
 nieder. Der das Unwetter begleitende Orkan zwang
-uns im Osten der Insel Schotakadscha hinter den hoben
+uns im Osten der Insel Schotakadscha hinter den hohen
 Ufern Schutz zu suchen. Um halb neun hatte das Gewitter
 ausgetobt. Der Wind sprang um, und bei sanftem Regen
 konnten wir nun nach Norden zu die Insel umrunden.

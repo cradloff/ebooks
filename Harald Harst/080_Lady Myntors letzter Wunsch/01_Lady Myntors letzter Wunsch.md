@@ -176,8 +176,8 @@ merklich zögernd und reichte sie Harst ebenso zögernd
 über den Tisch hin. Es machte ganz den Eindruck, als
 gäbe er sie ungern aus der Hand.
 
-Ich rückte meinen Sessel nähern an den Harsts heran.
-Dann, lasen wir:
+Ich rückte meinen Sessel näher an den Harsts heran.
+Dann lasen wir:
 
 > Bombay, den 10. April 1907
 
@@ -570,7 +570,7 @@ Ringsum die dichteste Finsternis.
 Auch nicht eine winzige Spur von Licht, von Helle
 irgendwo.
 
-Mit bloßen Füßen schlich ich über den feinen, buntem
+Mit bloßen Füßen schlich ich über den feinen, bunten
 Bastteppich zur Schiebetür, blieb stehen, lauschte.
 
 Nichts — nichts —
@@ -620,7 +620,7 @@ mir noch unklar ist —«
 
 So standen wir und warteten — warteten.
 
-Standen so wohl eile Viertelstunde.
+Standen so wohl eine Viertelstunde.
 
 Nichts mehr jetzt — nichts.
 
@@ -733,7 +733,7 @@ Wir gingen in die Schlafkabine, fuhren in die Kleider.
 »Wie stahl er sie?« wollte ich wissen.
 
 »Durch das Loch mit Hilfe eines spitzen Drahtes,
-der einen Haken hatte. Du hörtest doch das klirren. Er
+der einen Haken hatte. Du hörtest doch das Klirren. Er
 stieß mit dem Draht gegen den Aschbecher. Dann wagte
 er, als er ohne Licht den Zettel nicht fand, die Schreibtischplatte
 zu beleuchten. Das Loch in der Wand muß also
@@ -1293,7 +1293,7 @@ Unsere Positionslaternen flammten auf.
 Der Albatroß änderte den Kurs und hielt auf die
 Küste zu.
 
-Dann war die Nebelbank plötzlich um uns der wie ein
+Dann war die Nebelbank plötzlich um uns her wie ein
 unheimlich dichtes, feuchtes Gewebe.
 
 Plötzlich dicht vor uns das Stampfen einer Schiffsmaschine.
