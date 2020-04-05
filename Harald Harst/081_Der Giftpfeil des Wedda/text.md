@@ -2,7 +2,7 @@
 
 <h1>Der Giftpfeil des Wedda.</h1>
 
-<h2>3. Kapitel.</h2>
+<h2>1. Kapitel.</h2>
 <h3>Lydia und die Katze.</h3>
 
 Miß Honoria Myntor, der wir das Erbe ihrer Tante
@@ -10,31 +10,31 @@ Maria Myntor glücklich gegenüber den Anschlägen eines
 schlauen Verbrechers gesichert hatten, wie ich im vorigen
 Band erzählt habe, war eine sehr liebenswürdige und aufmerksame
 Wirtin. Sie hatte nicht eher geruht, bis wir ihre
-Einladung, ein paar Tage ihre Gäste zu fein, angenommen
+Einladung, ein paar Tage ihre Gäste zu sein, angenommen
 hatten. Das seltsame Haus, das sie in Bombay bewohnte,
 hatte sie gleichfalls von ihrer Tante geerbt. Es war einst
 ein Hindutempel gewesen und dann zum palastartigen Europäerheim
 umgebaut worden. Es lag auf den Westabhängen
 der Malabar Hills inmitten eines großen romantischen
 Parkes, der nicht weniger als zwölf Terrassen hatte
-und bis zum Meere hinabreichte,
+und bis zum Meere hinab reichte.
 
 Es war am 14. Februar, als Harst beim Frühstück auf
-der Westterrasse Miß Honoria fragte, ‘ob Albert Dracon
+der Westterrasse Miß Honoria fragte, ob Albert Dracon
 (das war ja der Name des großen Verbrechers, der
 Honoria um die Erbschaft hatte betrügen wollen) ihr gegenüber,
 als sie beide noch Freunde gewesen, jemals ein Mädchen
 namens Lydia und den Küstenort Battikaloa auf
 Ceylon erwähnt habe.
 
-»Kurz vor seinem Tode,« fügte Harald erklärend hinzu
+»Kurz vor seinem Tode,« fügte Harald erklärend hinzu,
 »hat Dracon uns noch gesagt, daß er eine Bitte hätte:
-In Battikaloa wird Miß Lydia —« — Mehr konnte er
+»In Battikaloa wird Miß Lydia —« — Mehr konnte er
 nicht über die bereits erkaltenden Lippen bringen. Deshalb
-flüchte Nr von Ihnen wissen, ob Sie, Miß Honoria, fein ne
+möchte ich von Ihnen wissen, ob Sie, Miß Honoria, irgend
 <@pagebreak/>
-eine Lydia kennen, die zu! Dracon in irgend welchen Beziehungen
-er bat.«
+eine Lydia kennen, die zu Dracon in irgend welchen Beziehungen
+gestanden hat.«
 
 Miß Myntor schüttelte den Kopf.
 
@@ -45,313 +45,315 @@ wer weiß, was er Ihnen anvertrauen wollte.«
 Harald schob die hauchdünne chinesische Teetasse zurück
 und griff nach einer Zigarre in die silberne Schale.
 
-»Wie würden Sie. denn, Miß Honoria, den Sah
-»In »Battikaloa wird Miß Lydia —« beenden?« fragte er.
+»Wie würden Sie denn, Miß Honoria, den Satz
+»In Battikaloa wird Miß Lydia —« beenden?« fragte er.
 
 »Aber ich bitte Sie, wie soll man das wohl ergänzen?«
 
 »Nun — zunächst sollte wohl auf das »Lydia« als
 Vorname noch der Vatersnamne folgen, dann notwendig
-das zu »knurrt« gehörige Vorkam, etwa — »gelangen halten»,
+das zu »wird« gehörige Verbum, etwa — »gefangen halten«,
 also »wird gefangen gehalten«. Es ist nämlich schwer,
-ein Vorkam zu finden, das man außer bviesem hier einfügen
+ein Verbum zu finden, das man außer diesem hier einfügen
 könnte.«
 
-Allerdings,« meinte sie nachdenklich.
+»Allerdings,« meinte sie nachdenklich.
 
-Mich interessierte dieses Gespräch genau so stark wo
-Miß Myntor, da Harald nur gegenüber Dracons lebte
+Mich interessierte dieses Gespräch genau so stark wie
+Miß Myntor, da Harald mir gegenüber Dracons letzte
 Aeußerung bisher nicht weiter erwähnt hatte.
 
-Jetzt betrat ¿ans Busselt. die alte Wiktschafterin Lady
+Jetzt betrat Jane Busselt, die alte Wirtschafterin Lady
 Myntors, die Terrasse. Sie hatte ihrer verstorbenen Herrin
 über zwanzig Jahre treu gedient und war stets mit zur
-Maus worden,
+Familie gerechnet worden.
 
-Da richtete Honoria sich In Ihren Sessel aus und rief:
+Da richtete Honoria sich in ihren Sessel auf und rief:
 
-Janes Erscheinen erinnert muß, daran, daß hier im
-Hause S einst eine Lydia gelebt bat. Sagen he, liebe Las,
-hieß Ihre Enkelin nicht Unklar«
+»Janes Erscheinen erinnert mich daran, daß hier im
+Hause einst eine Lydia gelebt hat. — Sagen Sie, liebe Jane,
+hieß Ihre Enkelin nicht Lydia?«
 
-Die grauhaarige Matrone Mitte traurig.
+Die grauhaarige Matrone nickte traurig.
 
-»Ja, Lydia Ramand hieß sie. Beine einzige Tochter
+»Ja, Lydia Ramand hieß sie. Meine einzige Tochter
 war mit einem Doktor Ramand verheiratet. Nach dem
-Tode der Eltern, die gleichzeitig starben, nahm ich LMA,
+Tode der Eltern, die gleichzeitig starben, nahm ich Lydia
 zu mir.«
 
 Jane Busselt rückte sich einen Sessel an den Tisch.
-Warst schaute Honoria bedeutungsvoll an und tote
-warnend den Zeigefinger aus die Lippen.
 
-Ich merkte: Harald wollte Miß Minuten einen Wink
-geben, vor Jane nicht von Dracons Leuten Worten
-forschen.
+Harst schaute Honoria bedeutungsvoll an und legte
+warnend den Zeigefinger auf die Lippen.
+
+Ich merkte: Harald wollte Miß Myntor einen Wink
+geben, vor Jane nicht von Dracons letzten Worten zu
+sprechen.
 
 <@pagebreak/>
 Der alten Frau war Honorias Frage jedoch bereits
-Belegen. Sie schaute ihre neue Herrin wie prüfend an
-nd meinte:
+aufgefallen. Sie schaute ihre neue Herrin wie prüfend an
+und meinte:
 
-an »n Sie lebt gerade auf meine Enkelin gekom-Miß?«
+»Wie sind Sie jetzt gerade auf meine Enkelin gekommen,
+Miß?«
 
-Honoria war keine Schauspielerin, wurde etwas berufen
+Honoria war keine Schauspielerin, wurde etwas verlegen
 und erwiderte viel zu hastig, um überzeugend zu
-Ferien:
+wirken:
 
-»Ob, mir fiel Lydia gerade so ein, Siebe Sinne —«
+»Oh, mir fiel Lydia gerade so ein, liebe Jane —«
 
 Die Matrone blickte zu Harst hinüber.
 
-Hat Miß Myntor Ihnen etwas von dem merfwürbi«-
-des Kindes erzählt, Dir. Harst?« fragte sie gebannt.
+»Hat Miß Myntor Ihnen etwas von dem merkwürdigen
+Tode des Kindes erzählt, Mr. Harst?« fragte sie gespannt.
 
 »Nein. Aber Sie könnten es mir berichten, Mistreß
-Flieht. Alles was merkwürdig ist, höre ich gern. Falls
-Wortes O trübe gestimmt werden sollten, verzichte
-natürlich.
+Busselt. Alles was merkwürdig ist, höre ich gern. Falls
+Sie dadurch jedoch trübe gestimmt werden sollten, verzichte
+ich natürlich.«
 
-»Jeder Schmerz wird durch die Reif geheilt, Mr. Harst.
+»Jeder Schmerz wird durch die Zeit geheilt, Mr. Harst.
 Ich hätte Ihnen jenes traurige Ereignis ohnedies einmal
 mitgeteilt. Ich weiß nicht, wie es kommt, aber ich werde
-As Gefühl nicht los, als sei mit Lydias Tode ein besonderes
+das Gefühl nicht los, als sei mit Lydias Tode ein besonderes
 Geheimnis verknüpft.«
 
-Sie seufzte, schaute sinnend über den gedeckten Frith-Müctstifch
-hinten in den Malen, fonnburchalübten Tropen.
-Himmel und begann dann:
+Sie seufzte, schaute sinnend über den gedeckten Frühstückstisch
+hinweg in den klaren, sonndurchglühten Tropenhimmel
+und begann dann:
 
-»Meine Enkelin wäre jetzt ARSIHBLTANE Jahre alt.
-Vor acht ¡Fahren starb sie, Sie war ein reizendes Kai,
-hatte blonde Locken und ein seines, kluges »Gesilchtcher mit
+»Meine Enkelin wäre jetzt zweiundzwanzig Jahre alt.
+Vor acht Jahren starb sie. Sie war ein reizendes Kind,
+hatte blonde Locken und ein feines, kluges Gesichtchen mit
 sehr ausdrucksvollen dunklen Augen. Lady Myntor liebte
-Kleine über alles. Lydias schönstes Vergnügen war
-n, in den weiten Kellerräumen dieses ehemaligen Hin-tempels
-die dort noch zurücdgebliebenen alten‘ Göben-atuen,
-Tempelgeräte und Waffen zu besichtigen. So. und
-oft bat sie entweder Lady Myntor oder mich,« eine Laterne
-zu nehmen und mit sehr in die Jahrhunderte alten
-Gewölbe hinabzusteigen. Sie Selbft durfte dort niemals al-hinab,
-obwohl sie schon als Dreizehnjährige überaus
-ständig war. Lady Myntor hatte es eben verboten, und
+die Kleine über alles. Lydias schönstes Vergnügen war
+nun, in den weiten Kellerräumen dieses ehemaligen Hindutempels
+die dort noch zurückgebliebenen alten Götzenstatuen,
+Tempelgeräte und Waffen zu besichtigen. So und
+so oft bat sie entweder Lady Myntor oder mich, eine Laterne
+zu nehmen und mit ihr in die Jahrhunderte alten
+Gewölbe hinabzusteigen. Sie selbst durfte dort niemals allein
+hinab, obwohl sie schon als Dreizehnjährige überaus
+verständig war. Lady Myntor hatte es eben verboten, und
 Lydia hat es lange Zeit auch nie gewagt, diesem Verbot
-wider zu handeln, Vierzehn Tage vor ihrem vierzebnten
+zuwider zu handeln. Vierzehn Tage vor ihrem vierzehnten
 <@pagebreak/>
-Geburtstag liberraschte ich sie darf, wie sie die Schlüssel zu
-den Gewölben heimlich in Lady Munterte Schreibtisch, wo
-sie stets eingeschlossen waren, zurückllegie. Als ich ihr vorwarf,
-sie sei wohl allein in den Keller gewesen, leugnete
+Geburtstag überraschte ich sie dann, wie sie die Schlüssel zu
+den Gewölben heimlich in Lady Myntors Schreibtisch, wo
+sie stets eingeschlossen waren, zurücklegte. Als ich ihr vorwarf,
+sie sei wohl allein in dem Keller gewesen, leugnete
 sie, machte Ausflüchte und wurde dabei so verwirrt und so
 rot, daß ich ihr auf den Kopf zusagte, sie lüge. Seltsamerweise
-beharrte sie jedoch, bei ihrem zwecklosen Leugnen.
+beharrte sie jedoch bei ihrem zwecklosen Leugnen.
 Dies war um so unbegreiflicher, als sie sonst niemals bei
-einer Unwahrheit von rate ertappt worden war. Mich
-schränkte ihre Unausrichtigkeit sehr, und ich fragte mich schon
-damals, 1908 wohl das Kind veranlaßt haben könnte, ohne
-Begleitung die Gewölbe zu besucveu.«
+einer Unwahrheit von mir ertappt worden war. Mich
+kränkte ihre Unaufrichtigkeit sehr, und ich fragte mich schon
+damals, was wohl das Kind veranlaßt haben könnte, ohne
+Begleitung die Gewölbe zu besuchen.«
 
-Harald, ‘der rechts von Honoria mit dem Rücken nach
+Harald, der rechts von Honoria mit dem Rücken nach
 dem Garten saß, hob jetzt die Hand und brachte Jane so
 zum Schweigen.
 
-»Einen Augenblick,« sagte er. »Ah möchte das je
-hörte erst im Gedächtnis etwas befestigen.«
+»Einen Augenblick,« sagte er. »Ich möchte das Gehörte
+erst im Gedächtnis etwas befestigen.«
 
 Er kniff auch wie in scharfem Nachdenken die Augen
-fast ganz zu und Blicke so zu der weißen Leinwand der
-schrägen Markise empor, die oho drei Viertel der Terrasse
-als Sonnenschits. überspannte.
+fast ganz zu und blickte so zu der weißen Leinwand der
+schrägen Markise empor, die etwa drei Viertel der Terrasse
+als Sonnenschutz überspannte.
 
-Nach einer Weile bat er Jane dann, Herzufallen.
+Nach einer Weile bat er Jane dann, fortzufahren.
 
 »Zwei Tage nach diesem Vorfall,« erzählte die Matrone
-weiter, »war Lydia verschwunden, Wir vermißten
+weiter, »war Lydia verschwunden. Wir vermißten
 sie gegen sechs Uhr nachmittags. Mir fiel sehr bald ein, daß
 sie vielleicht wieder in die Gewölbe hinabgestiegen sein
-könnte, Als Lady Myntor nachgab, ob die Schlüssel Im
-Schreibtisch lägen, waren sie nicht da, Wir eilten also die
-Treppe hinab, Sandes den Haupteingang zu den Kellern sei -
-doch verschlossen. Es steckte auch von innen fein Schlüssel
+könnte. Als Lady Myntor nachsah, ob die Schlüssel im
+Schreibtisch lägen, waren sie nicht da. Wir eilten also die
+Treppe hinab, fanden den Haupteingang zu den Kellern jedoch
+verschlossen. Es steckte auch von innen kein Schlüssel
 im Schloß. Trotzdem ließ Lady Myntor einen Schlosser
-holen und die Tür öffnen. Wir durchsuchten alle Räume, -
+holen und die Tür öffnen. Wir durchsuchten alle Räume.
 Von Lydia nirgends eine Spur. — Um acht Uhr abends
-rief die Lady die Polizei und ihren Necytsbeistand, den
+rief die Lady die Polizei und ihren Rechtsbeistand, den
 Mr. Grosby, zu Hilfe.«
 
 Ich will gleich an dieser Stelle einfügen, daß Albert
-Dracon der Stiefsohn Groll‘ 16 war,
+Dracon der Stiefsohn Grosbys war.
 
-»Grosby brachte noch den ¡ext als gefährlichen Schurken
-entlarvten klarem mit,« ihr »Jane Busselt fort. »Dracon
-quält damals noch als ein ehrenwerter imtaer Mann,
+»Grosby brachte noch den jetzt als gefährlichen Schurken
+entlarvten Dracon mit,« fuhr Jane Busselt fort. »Dracon
+galt damals noch als ein ehrenwerter junger Mann,
 <@pagebreak/>
-cu er auch bereit? manchen leichlinninen Streit verübt
+wenn er auch bereits manchen leichtsinnigen Streich verübt
 hatte. Er war mit Lydia sozusagen befreundet, und sie
 bildete sich etwas darauf ein, daß er sie schon so halb als
 Dame behandelte. Die Polizei, Grosby, Dracon und wir
 durchstöberten jetzt nochmals das ganze Haus, auch die Keller.
 Selbst Mr. Boßwell, unser Bombayer Detektivinspektor,
-See teilt Dabei. Aber — es blieb alles umsonst.
-ó wurde Mitternacht. Wir fanden Lydia nicht —
+beteiligte sich dabei. Aber — es blieb alles umsonst.
+Es wurde Mitternacht. Wir fanden Lydia nicht —«
 
 Sie seufzte abermals, die alte, würdige Frau, und rief
-kann in fteigendver Berechnung:
+dann in steigender Erregung:
 
-h, Sprich furchtbare Nacht war es Dame«!stak! Um
-ein Uhr morgens legte ich mich weinend und völlig schlüpft
-auf mein Bett. Ich hatte lau damals dieselben beiden
-»Zimmer, die ich noch heute bewohne, hier im Erdgeschoß
-nach hinten heraus neben der Küche. Ab konnte natürlich
-»nicht einschlafen. Nein, ich lag völlig munter da. Plötzlich,
-es mag gegen Brei Uhr morgens gewesen fein, glaubte
-ich Hilferufe zu hören, ganz Verse, verihwonmene Rufe.
-Lila er Und betrat den Flur, lauschte hier.
+»Oh, welch furchtbare Nacht war es damals doch! Um
+ein Uhr morgens legte ich mich weinend und völlig erschöpft
+auf mein Bett. Ich hatte schon damals dieselben beiden
+Zimmer, die ich noch heute bewohne, hier im Erdgeschoß
+nach hinten heraus neben der Küche. Ich konnte natürlich
+nicht einschlafen. Nein, ich lag völlig munter da. Plötzlich,
+es mag gegen drei Uhr morgens gewesen sein, glaubte
+ich Hilferufe zu hören, ganz leise, verschwommene Rufe.
+Ich sprang empor und betrat den Flur, lauschte hier.
 
-— mich
+Nichts — nichts.
 
-Wieder Teure ich mich nieder; wieder glaubte ich die
+Wieder legte ich mich nieder; wieder glaubte ich die
 Hilferufe zu vernehmen.
 
 Und wieder eilte ich in den Flur, horchte.
 
-Da weckte ich denn Lady Turnen, Sie fand mit in mein
-Schlafzimmer. Aber — alles blieb still,
+Da weckte ich denn Lady Myntor. Sie kam mit in mein
+Schlafzimmer. Aber — alles blieb still.
 
-»Jane, Sie werden sich nur ein ebildet haben, daß
+»Jane, Sie werden sich nur eingebildet haben, daß
 jemand rief,« sagte Mylady schließlich und begab sich in
-hie Räume zurück.
+ihre Räume zurück.
 
-»So bämmterte der neue Tag der,
+So dämmerte der neue Tag herauf.
 
-Er verging. Lydia war nicht He
+Er verging. Lydia war nicht zu finden.
 
-Und wieder kam die Nacht. ¡teuer lag ich lauschend
+Und wieder kam die Nacht. Wieder lag ich lauschend
 da. Wieder die fernen, fernen Rufe.
 
 Aber jetzt war ich nicht ohne einen Verbündeten mit
 jüngeren Ohren, als Lady Myntor und ich sie besaßen.
-hatte den Diener Makri, einen erst fünfundvierzig Fahre
-alten Hindu, in einem Naben Zimmer für die Nacht unter
-gebracht, alte ihn und. bat ihn, genau achtzugeben, ob er
-etwa €
+Ich hatte den Diener Makri, einen erst fünfundvierzig Jahre
+alten Hindu, in einem Nebenzimmer für die Nacht untergebracht,
+holte ihn und bat ihn, genau achtzugeben, ob er
+etwas hörte.
 
 Nein — Makri vernahm nichts — gar nichts, obwohl
-RDENINMB Sprechend dasaß. -
+er stundenlang horchend dasaß. -
 
 <@pagebreak/>
 Nun glaubte ich bestimmt, ich müßte mich getäuscht
-haben
+haben.
 
-Und die dritte Nacht kam. Umwillfürlich Lauschte ich
-wiederum mit angespanntester Aufmerksamkeit. Und wies
-der tauschten mich meine überreizten Nerven.
+Und die dritte Nacht kam. Unwillkürlich lauschte ich
+wiederum mit angespanntester Aufmerksamkeit. Und wieder
+täuschten mich meine überreizten Nerven.
 
 Dann die vierte Nacht.
 
 Und da — da kein Laut mehr.
 
-Um fünften Tage fand sich Mr. Boßwell ganz von selbst
+Am fünften Tage fand sich Mr. Boßwell ganz von selbst
 bei uns ein und erklärte, er wolle die Kellergewölbe doch
 nochmals durchsuchen. Womöglich gäbe es dort Geheimtüren
-oder dergleichen, durch die Lydia in uns noch uibe-fannte
+oder dergleichen, durch die Lydia in uns noch unbekannte
 Räume geraten sei.
 
-Da, Mr. Harst, — ja, Mr. Boßwell war leider, leider
-Garn Tag zu spät auf den Gedanken gekommen, auf solche
+Ja, Mr. Harst, — ja, Mr. Boßwell war leider, leider
+einen Tag zu spät auf den Gedanken gekommen, auf solche
 Geheimtüren hin die Keller zu prüfen —«
 
-So ihren Augen schimmerten jetzt Tränen.
+In ihren Augen schimmerten jetzt Tränen.
 
 »Boßwell entdeckte im oberen Kellergeschoß — die Gewölbe
-Seen zwei Stockwerke — wwirflich zwei Steinquadern,
+haben zwei Stockwerke — wirklich zwei Steinquadern,
 die als Geheimtür gearbeitet waren und sich leicht
-nach innen aufdrücken ließen, wenn man einen Heinen,
+nach innen aufdrücken ließen, wenn man einen kleinen,
 kaum sichtbaren Riegel an der Wand zurückschob. Hinter
-dieser Türöffnung, lag eine Steintreppe, die in zwei kleine
-leere Gewölbe übers. Auf der Treppe, auf den untersten
+dieser Türöffnung lag eine Steintreppe, die in zwei kleine
+leere Gewölbe führte. Auf der Treppe, auf den untersten
 Stufen, fanden wir meine bewußtlose Enkelin. Und neben
-ihr hohe, völlig abgemagert, eine Katze —«
+ihr hockte, völlig abgemagert, eine Katze —«
 
-Gerade an dieser Badenden Stelle fiel Harald der Matrone
-wieder lud Wort
+Gerade an dieser packenden Stelle fiel Harald der Matrone
+wieder ins Wort.
 
-»Gestatten Sie, Bis ließ, ich möchte mir einiges n9-tieren,«
-sagte er, riß ein Blatt aus seinem Taschenbuche herben
+»Gestatten Sie, Mistreß, ich möchte mir einiges notieren,«
+sagte er, riß ein Blatt aus seinem Taschenbuche heraus
 und schrieb eine Weile, reichte mir das Blatt und
 meinte:
 
-»Da — ich brate, dies sind die Hauptsachen.«
+»Da — ich denke, dies sind die Hauptsachen.«
 
-Ich begriff lohnt: es war nichts als eine wichtige Mitteilung
-für auch
+Ich begriff sofort: es war nichts als eine wichtige Mitteilung
+für mich!
 
-So) las wo auch folgendes;
+Ich las denn auch folgendes:
 
-Wir werden belauscht. Es Dient jemand im offenen
+Wir werden belauscht. Es liegt jemand im offenen
 Fenster des Flurs der ersten Etage, das sich gerade über
-der Markise befindet. Der Betreffende hat sich so leid zum
+der Markise befindet. Der Betreffende hat sich so weit zum
 Fenster hinausgelehnt, daß sein Kopf, der dicht über der
-Leinwand sich befindet, einen schwachen Schatten cm die
+Leinwand sich befindet, einen schwachen Schatten auf die
 <@pagebreak/>
-reiße Leinwand wirst. Ich möchte feststellen, wer es ist.
-Ach werde Dich daher auf unsere Zimmer schicken, damit
+weiße Leinwand wirft. Ich möchte feststellen, wer es ist.
+Ich werde Dich daher auf unsere Zimmer schicken, damit
 Du mir Zigaretten holst. Nimm aus dem Koffer 3 den
-essbraunen Puder und bestreue damit die unteren Stufen
-er Haupttreppe, die der Betreffende auf dem Rückwege
-rasieren muß. Er soll nicht merken, daß wir auf ihn aufmerksam
+hellbraunen Puder und bestreue damit die unteren Stufen
+der Haupttreppe, die der Betreffende auf dem Rückwege
+passieren muß. Er soll nicht merken, daß wir auf ihn aufmerksam
 geworden sind.
 
-Auswischen hatte Jane Busselt weiter erzählt:
+Inzwischen hatte Jane Busselt weiter erzählt:
 
-»Die Haie und zwei leere Näpfchen mit winzigen
-Freigelegten ercflärteu alles. Lydia hatte die Fade vor vier
+»Die Katze und zwei leere Näpfchen mit winzigen
+Speiseresten erklärten alles. Lydia hatte die Katze vor vier
 Wochen krank im Parke gefunden und gesund gepflegt. Sie
-liebte Tiere über alles, Lady Myntor jedoch haßte Hupe
-und hatte verlangt, daß das Tier, als es wieder vor Uralten
+liebte Tiere über alles. Lady Myntor jedoch haßte Katzen
+und hatte verlangt, daß das Tier, als es wieder bei Kräften
 war, verschenkt würde. Lydia hatte denn auch behauptet,
-die Hupe einem unbekannten Wanne übergeben zu haben.
-In Wahrheit hatte sie das Tier in die beiden gebeten
+die Katze einem unbekannten Manne übergeben zu haben.
+In Wahrheit hatte sie das Tier in die beiden geheimen
 Kellerräume gebracht und hier gefüttert. Aus irgend
-einem niemals aufgeklärten Grunde hatte sie dann, wie
-Mr. Boßwell annahm, die Gehecimtür von innen damals
-nicht wieder öffnen können und war vor Schied hierüber
+einem niemals aufgeklärter Grunde hatte sie dann, wie
+Mr. Boßwell annahm, die Geheimtür von innen damals
+nicht wieder öffnen können und war vor Schreck hierüber
 ohnmächtig geworden, muß auch sehr lange bewußtlos gewesen
 sein, sonst hätte sie sich ja gemeldet als wir die Gewölbe
 absuchten —«
 
-»Einen Moment, Mildere,« rief Harald da scheinbar
-Tanz erregt durch diesen Bericht, »ch pflege, wenn ich
+»Einen Moment, Mistreß,« rief Harald da scheinbar
+ganz erregt durch diesen Bericht. »Ich pflege, wenn ich
 etwas so Spannendes höre, gern meine eigenen Zigaretten
 zu rauchen. Schraut wird so liebenswürdig sein, und mir
 mein Zigarettenetui holen.«
 
-»Sehr gern,« meinte. ich, erhob mich rasch und eilte
-die Vorhalle in den Flur und nach rechts in unsere
-immer.
+»Sehr gern,« meinte ich, erhob mich rasch und eilte
+durch die Vorhalle in den Flur und nach rechts in unsere
+Zimmer.
 
-Dann handelte Ich genau nach Harsts Anweisung, bei
-sträubte die Morgen Stufen ganz leicht und war sehr
-Bald wieder auf der Terrasse.
+Dann handelte ich genau nach Harsts Anweisung, bestäubte
+die braungebeizten Stufen ganz leicht und war sehr
+bald wieder auf der Terrasse.
 
 »Bitte, hier ist Dein Étui, Harald.«
 
 »Danke. Es ist alles in Ordnung.«
 
-Hoch verstand ihn: der Lauscher hatte keinerlei Argwohn
-[Schöpft und war auf feinen Horcherposten geblieben.
+Ich verstand ihn: der Lauscher hatte keinerlei Argwohn
+geschöpft und war auf seinem Horcherposten geblieben.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Die drei Verpachtsmontente.</h3>
+<h3>Die drei Verdachtsmomente.</h3>
 
 »So, Mistreß, nun bitte weiter,« sagte Harst und blies
 ein paar Rauchringe.
 
 »Es gibt nicht mehr viel zu berichten,« meinte die Matrone
-und trocknete die träuenseuhten Augen. »Sich fühle,
-daß mich all Diele Erinnerungen doch sehr angreifen. Ja
+und trocknete die tränenfeuchten Augen. »Ich fühle,
+daß mich all diese Erinnerungen doch sehr angreifen. Ich
 möchte mich daher ganz kurz fassen. Lydia starb zwei Tage
 später an Entkräftung, ohne die klare Besinnung auch nur
 einen Augenblick zurückerlangt zu haben. Sie wurde hier
@@ -366,232 +368,231 @@ Als sie sich wieder beruhigt hatte, fragte Harst:
 »Weshalb glauben Sie nun, daß bei alledem irgend
 ein Geheimnis mitspielt?«
 
-so, das ist schwer zu beantworten. Es ist das mehr
-Gesühlssache, Mr. Harst. Freilich, auch Mr. Boßwell hat
-Fleis betont, daß er einfach nicht begreife, daß Lydia die je- -
-yeimtür nicht hätte öffnen können, deren Mechanismus ihr
-doch vertraut gewesen, da sie die Nabe ja schon vorher
+»Ja, das ist schwer zu beantworten. Es ist das mehr
+Gefühlssache, Mr. Harst. Freilich, auch Mr. Boßwell hat
+stets betont, daß er einfach nicht begreife, daß Lydia die Geheimtür
+nicht hätte öffnen können, deren Mechanismus ihr
+doch vertraut gewesen, da sie die Katze ja schon vorher
 wahrscheinlich jeden Tag besucht und gefüttert habe.«
 
-»Hm — ich kann nichts Unerflärliches dabei finden,«
+»Hm — ich kann nichts Unerklärliches dabei finden,«
 erwiderte Harald nun recht laut und bestimmt. Daß diese
 Worte von dem Lauscher vernommen werden sollten, unterlag
-für mich feinem Zweifel. »Nein, Umstieß, es ist doch sehr
-wahrscheinlich, daß ein Folter Jahrhunderte alter Mechanismus
-einmal versagt und nachher da völlig einwandfrei
+für mich keinem Zweifel. »Nein, Mistreß, es ist doch sehr
+wahrscheinlich, daß ein solcher Jahrhunderte alter Mechanismus
+einmal versagt und nachher doch völlig einwandfrei
 zu arbeiten scheint. Außerdem: weshalb sollte wohl jemand
-Ehre Enkelin dort eingesperrt haben?! — Nein, wirklich
-Mister;, Sie müssen solchen Grübeleien nicht nachhängen.
-Ich glaubte, Ihre Schilderung würde irgendwie geheiumis-voll
+Ihre Enkelin dort eingesperrt haben?! — Nein, wirklich
+Mistreß, Sie müssen solchen Grübeleien nicht nachhängen.
+Ich glaubte, Ihre Schilderung würde irgendwie geheimnisvoll
 endigen. Dies ist nicht der Fall.«
 
 Die Matrone nickte. »Ich werde es nicht mehr tun,
-Mr. Hart. Ich wollte ja auch nur deshalb Ihre Meinung
+Mr. Harst. Ich wollte ja auch nur deshalb Ihre Meinung
 hören, damit ich mir diese Gedanken, als könnte hier etwas
-alt mich! erraten Dingen zugegangen sein. aus dem Kopf
+nicht mit rechten Dingen zugegangen sein, aus dem Kopf
 <@pagebreak/>
 schlage. Ich danke Ihnen vielmals. Wenn ein Mann wie
-Sie feinen Argwohn schöpft, dann —«
+Sie keinen Argwohn schöpft, dann —«
 
-»Nein, nein, von Argwohn oder Nickst he kann Leine
-Rede sein, Mistreß Und wenn ich Sie nun bitte, Schraut
+»Nein, nein, von Argwohn oder dergleichen kann keine
+Rede sein, Mistreß. Und wenn ich Sie nun bitte, Schraut
 und mir nachher die Schlüssel zu dem Gewölben auszuhändigen,
 so geschieht es nur, weil ich mir die alten Statuen
 und Gerätschaften ansehen möchte. — Haben die Gewölbe
 mehrere Ausgänge?«
 
 »Zwei nur, Mr. Harst. Einen vom Seitenflügel, der
-en wurde, und den Haupteingang im hinteren Mit
-Gehilfin.«
+die benutzt wurde, und den Haupteingang im hinteren
+Mittelflur.«
 
-Dann lenkte Harald das Gespräch auf ‘andere Dinge.
+Dann lenkte Harald das Gespräch auf andere Dinge.
 
-Ich hatte meinen Sessel ‘etwas gedreht und b2zobach-tete
+Ich hatte meinen Sessel etwas gedreht und beobachtete
 verstohlen den oberen Markisenteil.
 
-Seh sah denn auch den schwachen Schatten, der sich bin
+Ich sah denn auch den schwachen Schatten, der sich hin
 und wieder bewegte.
 
-Ja — es war ein Mensch. Und — dieser Horcher ver
-schwand jetzt. Ich glaubte das Kreischen eines Fensterrie-gels
+Ja — es war ein Mensch. Und — dieser Horcher verschwand
+jetzt. Ich glaubte das Kreischen eines Fensterriegels
 zu hören. Der Mann hatte also das Fenster geschlossen.
 Unser jetziges Gespräch war ihm uninteressant.
 
 Ein Mann war es, nicht etwa eine der Dienerinnen
 Miß Honorias, denn der Lauscher hatte, wie der Schatten
-verriet, ein Turbantııch um den Kopf getragen. Es mußte
-also entweder ein fremder Finder oder der Partner ober ebener
-der fünf Diener gewesen fein,
+verriet, ein Turbantuch um den Kopf getragen. Es mußte
+also entweder ein fremder Inder oder der Gärtner oder einer
+der fünf Diener gewesen sein.
 
-Bart fand plötzlich auf.
+Harst stand plötzlich auf.
 
 »Die Damen entschuldigen uns,« sagte er. »Wir wollen
-noch vormittags in die Stadt. Au iederschen.«
+noch vormittags in die Stadt. Auf Wiedersehen.«
 
-Im Flur paßte ich dann auf, da niemand Hart der
-obachiete, wie er nun die Stufen prüfte und nachher den
-Puder mit dem Tafcentuch weamwiichte.
+Im Flur paßte ich dann auf, daß niemand Harst
+beobachtete, wie er nun die Stufen prüfte und nachher den
+Puder mit dem Taschentuch wegwischte.
 
-So unserem Wohnsalon flüsterte er mir zu:
+In unserem Wohnsalon flüsterte er mir zu:
 
 »Kein Wort hier von alledem!« Und fügte laut hinzu:
 
 »Mistreß Busselt sollte lieber keine Geheimnisse aus
-durchsichtigen Tatsachen hcrauskonstruieren wollen. Der
+durchsichtigen Tatsachen herauskonstruieren wollen. Der
 Tod ihrer Enkelin enthält sehr viel tragische Momente,
 weiter aber auch nichts. Am tragischsten ist vielleicht, daß
-die Großmutter die Hilferufe ihrer Enkelin tatsächlich geahnt,
-ohne zu ahnen, daß sie aus den Kellerräumen
-men.
+die Großmutter die Hilferufe ihrer Enkelin tatsächlich gehört
+hat, ohne zu ahnen, daß sie aus den Kellerräumen
+kämen.
 
 <@pagebreak/>
-Auch diese Haare waren fraglos für einen Horcher hemmt.
+Auch diese Sätze waren fraglos für einen Horcher bestimmt.
 
 Wir machten uns zum Ausgehen fertig und fuhren mit
-Miß Honorias uns stets zur Verfügung stehendem« Ponygespann
+Miß Honorias uns stets zur Verfügung stechendem Ponygespann
 und dem würdigen Kutscher Makri, demselben
-Hindu, der schon bei Lady Myntor Diener gelassen, in die
-Dr.
+Hindu, der schon bei Lady Myntor Diener gewesen, in die
+Stadt.
 
-Eine kleine Szene beim Einsteigen hatte nie zu denken
+Eine kleine Szene beim Einsteigen hatte mir zu denken
 gegeben. Makri saß, als wir das Haus verließen und dem
 vor der Terrassentreppe haltenden Wagen zuschritten,
-regungslos und kerzengerade vorn auf dem Bock, ballte Die
-mit Sandalen bekleideten Füße gegen das karierte Lordor-breit
-geklemmt und begrüßte uns würdevoll durch Senken
-der langen Schwipppeitiche.
+regungslos und kerzengerade vorn auf dem Bock, hatte die
+mit Sandalen bekleideten Füße gegen das karierte Vorderbrett
+gestemmt und begrüßte uns würdevoll durch Senken
+der langen Schwipppeitsche.
 
 Ich stieg ein. Harald aber trat an Makri heran und
 spielte dabei mit seinem goldenen Zigarettenetui, das er
-in übermütiger Lange in die Lust warf und wieder
+in übermütiger Laune in die Luft warf und wieder
 auffing.
 
-Da — das Auffangen mißlang. und der Vorgeschichte
-Griff Harsts schleuderte das Etui Makri vor die Füße, tue
+Da — das Auffangen mißlang, und der ungeschickte
+Griff Harsts schleuderte das Etui Makri vor die Füße, wo
 es aufsprang und die Zigaretten entleerte.
 
-Makri wollte sich bücken und beim Auslesen der Zigaretten
-en fein. Harald rief jedoch:
+Makri wollte sich bücken und beim Auflesen der Zigaretten
+behilflich sein. Harald rief jedoch:
 
-Nicht doch, Makri, Du zeriritift wirr ja Die Dinner!«
+»Nicht doch, Makri, Du zertrittst mir ja die Dinger!«
 
-So blieb der braune Aufseher denn still sitzen, und Harst
-RT die ihm so kostbaren Mirakulum wieder in das
-Stu Bares, sagte dabei: »Fahre zuerst nach der Davon
-Da wir dort längere Zelt zu tun haben, sollt Du
-Zi dem Wagen nicht draußen warten, sondern die Pferde
+So blieb der braune Kutscher denn still sitzen, und Harst
+sammelte die ihm so kostbaren Mirakulum wieder in das
+Etui zurück, sagte dabei: »Fahre zuerst nach der Hauptpost,
+Makri. Da wir dort längere Zeit zu tun haben, sollst Du
+mit dem Wagen nicht draußen warten, sondern die Pferde
 etwas bewegen. Hole uns dann also nach einer halben
 Stunde etwa von der Polizeidirektion ab.«
 
-Da! »Sehr wohl, Sahib Harst,« bestätigte Makri diese Anleitung
+»Sehr wohl, Sahib Harst,« bestätigte Makri diese Anweisung.
 
 Nun erst setzte sich Harald neben mich.
 
 Ich habe Bombay als Stadt schon in früheren Bänden
-wiederholt beschrieben. In den Bormitlansftunden herrscht
-dort in den Hauptstraßen ein oft lebensgesährliches Gedränge
+wiederholt beschrieben. In den Vormittagsstunden herrscht
+dort in den Hauptstraßen ein oft lebensgefährliches Gedränge
 und ein Wagen- und Autoverkehr wie in einer europäischen
 Metropole.
 
 <@pagebreak/>
 Nachdem wir eine Strecke gefahren waren, neigte ich
-mich zu Harald näher bin
+mich zu Harald näher hin.
 
 »Du hast die Zigaretten sehr geschickt fallen lassen,«
-sagte« ich leise. »Bemerktest Du an Makri Sandalen Spw
-ren von Puder?«
+sagte ich leise. »Bemerktest Du an Makris Sandalen Spuren
+von Puder?«
 
-Harst lächelte etwas. »Nein, feine Spur von Puder.
-Aber ich sah den Sohlenffid an der rechten Sandalenfpige,
-der sich in der Puderschicht mit abgezeichnet hatte. Maler
+Harst lächelte etwas. »Nein, keine Spur von Puder.
+Aber ich sah den Sohlenflick an der rechten Sandalenspitze,
+der sich in der Puderschicht mit abgezeichnet hatte. Makri
 war also der Horcher, was ich übrigens gleich vermutet
-hatte. da er damals vor acht Jahren feine Hyierufe gehört
+hatte, da er damals vor acht Jahren keine Hilferufe gehört
 haben wollte, als Mistreß Busselt ihn in der Nacht lauschen
-ließ. Dabei ist doch ohne Frage etwas zu hören gewesen,
-Daß Lady Myntor nichts vernahm, wird natürlicze Uns
-Sachen aecbabt haben: Schwerhöriafeit infolge hohen Alters!
-— Wir haben gegen Makri bisher also zwei Verdächtige-.
-Momente: erstens das Ableugnen der Hilferufe der!lehnen
-Lydia, Westens fein Antereffe für unser Gesprä Mk
-Mistreß Busselt. ir sind heute erst den dritten las Gäste
-Honoria Muyntors, und da maga er, zumal er ja gleichzeitig
+ließ. Dabei ist doch ohne Frage etwas zu hören gewesen.
+Daß Lady Myntor nichts vernahm, wird natürliche Ursachen
+gehabt haben: Schwerhörigkeit infolge hohen Alters!
+— Wir haben gegen Makri bisher also zwei Verdachtsmomente:
+erstens das Ableugnen der Hilferufe der kleinen
+Lydia, zweitens sein Interesse für unser Gespräch mit
+Mistreß Busselt. Wir sind heute erst den dritten Tag Gäste
+Honoria Muyntors, und da mag er, zumal er ja gleichzeitig
 auch als Diener im Hause verwendet wird, jedes Mal den
-Horcher gespielt haben, wenn er befürchtete. bittet Busselt
-könnte uns diese höchst verdächtige Tragödie der Heinen
-Kaßtzenfreundin erzählen. Das dritte Verdachtsmoment
+Horcher gespielt haben, wenn er befürchtete, Mistreß Busselt
+könnte uns diese höchst verdächtige Tragödie der kleinen
+Katzenfreundin erzählen. Das dritte Verdachtsmoment
 werden wir jetzt sofort herbeiführen.«
 
 »Wie denn?«
 
-Warte alt. Makri wird sich stark beunruhigt fühlen,
-weil wir von der Post zur Polizei gehen, Diese Beunruhigung
-wollte Ich hervorrufen.«
+»Warte alt. Makri wird sich stark beunruhigt fühlen,
+weil wir von der Post zur Polizei gehen. Diese Beunruhigung
+wollte ich hervorrufen.«
 
-»Tun nimnmist also hier ein Verbrechen an, was den Tod
+»Du nimmst also hier ein Verbrechen an, was den Tod
 Lydias betrifft?«
 
 »Den Tod, mein Alter?! Ich behaupte etwas ganz
 anderes, nämlich: man hat sie verschwinden lassen. Sie
-Tobt also noch. Es müssen mindestens drei Leute dabei beteiligt
+lebt also noch. Es müssen mindestens drei Leute dabei beteiligt
 gewesen sein, Dracon, Makri und ein Arzt, der dafür
-folgte, daß das Kind den Eindruck eines Toten machte
+sorgte, daß das Kind den Eindruck eines Toten machte.
 Du verstehst: es war doch die Todesursache zu bescheinigen!
-Dieser Arzt wird ein Bekannter Dracons gewesen fein oder
+Dieser Arzt wird ein Bekannter Dracons gewesen sein oder
 ein Lump, der sich bestechen ließ. Dracon war Lydias
 Freund, und er mag den Arzt empfohlen Haben, der das
-Kind bis zuletzt behandelt hat.«
+Kind bis zuletzt behandelt hat.« —
 
 <@pagebreak/>
-
 Der Leser mag bei diesem Problem, worauf ich ihn
-besonders aufmerksam Rache, die eifrige der wie ein tadellos
-fun’tionierendes Räderiverf ineinander areifenden einzelnen
-Érmittlungen beachten. Das Fratze, logische Deuten
+besonders aufmerksam mache, die Erfolge der wie ein tadellos
+funktionierendes Räderwerk ineinander greifenden einzelnen
+Ermittlungen beachten. Das scharfe, logische Denken
 meines Freundes wird bei diesem Fall des Giftpfeiles des
-Wedda aufs hellste beleuchtet. —
+Wedda aufs hellere beleuchtet. —
 
-Mehr ist es unverständlich,« meinte ich, weshalb man
-ein Mädel von vierzehn Jahren, eine doch offenbar unbe-mittelte
+»Mir ist es unverständlich,« meinte ich, weshalb man
+ein Mädel von vierzehn Jahren, eine doch offenbar unbemittelte
 Waise, für wertvoll genug hielt, um sie durch eine
-Reibe raffinierter Mittel zu entführen oder besser scheinbar
-sterben zu lassen«
+Reihe raffinierter Mittel zu entführen oder besser scheinbar
+sterben zu lassen.«
 
-»Das ist auch mir noch völlig unklar, Fieber Wider.
-Tatsache. Mit dem Motiv können wir uns erst später bei
-Schattigen. Sich möchte aber bemerken, Tun Vierter Þpbuipp
+»Das ist auch mir noch völlig unklar, lieber Alter.
+Tatsache. Mit dem Motiv können wir uns erst später beschäftigen.
+Ich möchte aber bemerken, das Doktor Phillip
 Ramand, Lydias Vater, berühmte Werke über die Geschichte
-und Kultur Ceylons geschrieben bat nun daß flach 11-
-längst in einer englischen Zeitschrift Du Kot; (und, die zu
+und Kultur Ceylons geschrieben hat und daß ich noch unlängst
+in einer englischen Zeitschrift eine Notiz stand, die an
 das tragische Ende des Ehepaares Ramand in den Urwäldern
-Ceylons erinnerte. Doktor Ramand volle in 2 oft
-jemals, dem zweiten größeren Hafen zu Ceylons Ostküste.
-Der andere Hafen ist — Battikfaloa!«
+Ceylons erinnerte. Doktor Ramand wohnte in Trinkomali,
+dem zweiten größeren Hafen an Ceylons Ostküste.
+Der andere Hafen ist — Battikaloa!«
 
 »Ah — Battikaloa! Und den erwähnte Albert Dracon.«
 
-»Na. Dir siehst also, daß die verbindenden Fäden sich
+»Ja. Du siehst also, daß die verbindenden Fäden sich
 mehren. — Wir sind gleich angelangt -«
 
-Der Agra hielt, Wir stiegen aus und- betraten das
+Der Wagen hielt. Wir stiegen aus und betraten das
 große Postgebäude.
 
-Dann blieb Harald stehen, schlanke durch die Glastür
-auf die Straße zurück, Winkel fuhr mit dem Ponywagen
+Dann blieb Harald stehen, schaute durch die Glastür
+auf die Straße zurück. Makri fuhr mit dem Ponywagen
 langsam davon.
 
 Wir eilten wieder auf den Bürgersteig hinaus. Ein
-Auto wurde gerade frei. Harst sagte dem Chauffeur Bei
+Auto wurde gerade frei. Harst sagte dem Chauffeur
 Bescheid und drückte ihm ein Trinkgeld in die Hand.
 
 Der Mann schlug das Vorderdeck hoch. So saßen wir
-denn geschützt. Wenn Makri sich« umschaute, konnte er uns
-nicht begreifen:
+denn geschützt. Wenn Makri sich umschaute, konnte er uns
+nicht bemerken.
 
 Unser Auto blieb stets etwa dreißig Meter hinter dem
 Ponywagen, der bald in ruhige Seitenstraßen einbog und
-dann die elegante Viktoria-Street hinabigate. Hier hielt
-Makri vor einem kleineren Bungalow einslöckiges Som-awerbaus)
-an. rief einen Heinen braunen Meiner herbei und
+dann die elegante Viktoria-Street hinabraste. Hier hielt
+Makri vor einem kleineren Bungalow (einstöckiges Sommerhaus)
+an, rief einen kleinen braunen Bengel herbei und
 <@pagebreak/>
 ließ ihn die Pferde halten. Er selbst lief sehr eilig durch
 den Vorgarten in das Haus.
@@ -599,131 +600,131 @@ den Vorgarten in das Haus.
 Unser Auto hatte gleichfalls halt gemacht. Harald
 fragte den Chauffeur, ob er wüßte, wer dort wohne.
 
-»so, Sahib. Doktor Greebrac, ein Arzt.«
+»Ja, Sahib. Doktor Greebrac, ein Arzt.«
 
 »Kehren Sie um — nach der Polizeidirektion!«
 
 Unser Freund Detektivinspektor Boßwell befand sich in
-feinem Dienstzimmer.
+seinem Dienstzimmer.
 
 »Boßwell, ich möchte Sie einiges fragen,« begann Harald,
-nachdem wir Plan genommen hatten. »Sie besinnen
-»sich doch auf Lydia Ramands Tod. Mistreß Busselt hat
-»Uns vorhin diese Tragödie mitgeteilt. Mir ist dabei einiges
-aufgefallen. Wie war’s mit dem Schloß der Gebeimuür,
-das nach Ihrer Meinung sich von innen plöplich nicht öffnen
+nachdem wir Platz genommen hatten. »Sie besinnen
+sich doch auf Lydia Ramands Tod. Mistreß Busselt hat
+uns vorhin diese Tragödie mitgeteilt. Mir ist dabei einiges
+aufgefallen. Wie war’s mit dem Schloß der Geheimtür,
+das nach Ihrer Meinung sich von innen plötzlich nicht öffnen
 ließ und so die kleine Lydia gefangen hielt?«
 
-am — es muß versagt haben. Es ist recht kompliziert.
+»Hm — es muß versagt haben. Es ist recht kompliziert.«
 
-»War es frisch geölt, als Sie es untersuchten f«
+»War es frisch geölt, als Sie es untersuchten?«
 
-»so. Das wird Lydia befolgt haben. Sie war ha
+»Ja. Das wird Lydia besorgt haben. Sie war ja
 ein sehr kluges und praktisches Mädchen.«
 
-»Maus sein. Ob diese Klugheit ausreichte, die nicht
-Da u Myntor bekannte Geheimtür zu finden, by
-zweifle Sl
+»Mag sein. Ob diese Klugheit angesichts, die nicht
+einmal Lady Myntor bekannte Geheimtür zu finden, bezweifle
+ich.«
 
-PN »UAllervings. Auch mir ist das merkwürdig erschienen,
-Sie vermuten also, ed bat ihr jemand Bad Fenster für die
-Rate gelehnt?«
+»Allerdings. Auch mir ist das merkwürdig erschienen.
+Sie vermuten also, es hat ihr jemand das Versteck für die
+Katze gezeigt?«
 
-»a. Ich kenne Priesen Jemand auch bereits. Es
+»Ja. Ich kenne diesen Jemand auch bereits. Es
 kann nur der Diener Makri getan haben. Man hat Lydia
-also sozusagen in die beiden geheimen Räume bineingelodt,
+also sozusagen in die beiden geheimen Räume hineingelockt,
 und später hat Makri sie dort dann irgendwie betäubt, eben
 an jenem Tage, als sie verschwand. Man wird ihr ein starkes
 Schlafmittel beigebracht haben. Das Türschloß wird in
 Ordnung gewesen sein. Sie sollte sich eben nicht melden können,
 als nach ihr gesucht wurde. — Kennen Sie Doktor
-Greebrac genauer? War er der Arzt, der Lydia bangte
-handelt hat?«
+Greebrac genauer? War er der Arzt, der Lydia damals
+behandelt hat?«
 
-»Allerdings, Greebrac- war damals erst kurze Zeit in
-Bonbon. Er war mit’ Dracon befreundet, und Dracon
-»empfahl ihn, wie ib hörte. Dieser 6reebrac ist ein recht
-elfelhaîïtes Subjekt, lieber Harst: Spieler, Morphinist,
+»Allerdings, Greebrac war damals erst kurze Zeit in
+Bombay. Er war mit Dracon befreundet, und Dracon
+empfahl ihn, wie ich hörte. Dieser Greebrac ist ein recht
+zweifelhaftes Subjekt, lieber Harst: Spieler, Morphinist,
 <@pagebreak/>
-aber sehr gesucht liebt, weil er seinen Glauben gewechselt
+aber sehr gesucht jetzt, weil er seinen Glauben gewechselt
 hat und Hindu geworden ist.«
 
 »Sie könnten mir einen Gefallen tun, Boßwell. Schicken
 Sie abends einen Ihrer Beamten als Depeschenboten mit
 einem Telegramm für mich nach dem Myntor-Palais. Die
-Depesche soll aus Dalag kommen und mich dringend dorthin
+Depesche soll aus Patna kommen und mich dringend dorthin
 zu Ihrem Kollegen Emmersett rufen. Ich will nämlich
 noch heute nacht nach — Ceylon abreisen, nach Battikaloa.«
 
-»Verstehe. ihr Zerfetztes soll geheim bleiben. Was
+»Verstehe. Ihr Reiseziel soll geheim bleiben. Was
 wollen Sie in Battikaloa?«
 
-Das erzählte ihm jetzt Dracons lebte Aecußerung.
+Harst erzählte ihm jetzt Dracons letzte Aeußerung.
 
-Boßwell war derart! überrascht, daß er zunächst schwieg.
+Boßwell war derart überrascht, daß er zunächst schwieg.
 Dann rief er:
 
 »Auch ich bin jetzt überzeugt, daß Lydia Ramand lebt!«
 
 »Während unserer Abwesenheit lassen Sie Doktor Greebrac
 und Makri dauernd beobachten, Boßwell. Ereignet
+sich etwas, dann telegraphische Nachricht an Mr. Holky nach
+Battikaloa postlagernd.«
 
-ch etwas, dann telegraphische Nachricht zu Dr. Hofft nach
-attifaloa postlagernd.«
-
-»Wird prompt erledigt werden, lieber Hart. Was
+»Wird prompt erledigt werden, lieber Harst. Was
 halten Sie von dieser ganzen Geschichte?«
 
-»Die Eltern Lydias fand man tot und befreite halb
-verharrt men von ZTrintomali in den Urwäldern unter
+»Die Eltern Lydias fand man tot und bereits halb
+derweil westlich von Trinkomali in den Urwäldern unter
 einer vom Blitz zerspaltenen Palme auf. Man nahm Tod
-durch Blitzschlag an. Co vermute, daß sie anderswie
-
-Farben. Das Kind war damals elf Jahre alt. Lady
-¿unter soll es über alles geliebt haben. Da sie mit ihrer
+durch Blitzschlag an. Ich vermute, daß sie anderswie
+starben. Das Kind war damals elf Jahre alt. Lady
+Myntor soll es über alles geliebt haben. Da sie mit ihrer
 Nichte Honoria halb und halb verfeindet war, mag Dracon,
 der es ja schon jahrelang auf die Erbschaft abgesehen hatte,
-gefürchtet haben, die Lady könnte Lydia zur Erbin einlegen,
-was all seine Pläne durchkreuzt hätte, die sich nur verwwärk-lichen
+gefürchtet haben, die Lady könnte Lydia zur Erbin einsetzen,
+was all seine Pläne durchkreuzt hätte, die sich nur verwirklichen
 ließen, wenn Honoria Myntor Erbin blieb. Dies
 wäre ein Motiv für Lydias Entführung. Es ist allerdings
-schwach begründet, daß ich selbst es nicht für richtig halte.
-ist nur ein Verlenenbeitsinotiv. — Auf Wiedersehen,
-Boßwell. Sorgen Sie dafür, daß Greebrac und Ma
+so schwach begründet, daß ich selbst es nicht für richtig halte.
+Es ist nur ein Verlegenheitsmotiv. — Auf Wiedersehen,
+Boßwell. Sorgen Sie dafür, daß Greebrac und Makri
 nicht merken, daß sie »beschattet« werden. Und zu sieben Uhr
 abends die Depesche.«
 
 Als wir die Straße betraten, war der Ponywagen
-noch nicht von. Es fehlten noch jung Minuten an der halben
+noch nicht da. Es fehlten noch zehn Minuten an der halben
 Stunde.
 
 <@pagebreak/>
 »Die beiden beraten, was sie unternehmen sollen,«
-vereinte Harald in Bezug auf den Geist und unseren Kutscher.
-»Rafft wird Halt — ein Gebautes! — Er rief den
-VPiôrtner ur »Polizeidirektion herbei:
+meinte Harald in Bezug auf den Arzt und unseren Kutscher.
+»Makri wird — Halt — ein Gedanke! — Er rief den
+Pförtner der Polizeidirektion herbei:
 
-»Wenn ein Ponywagen hier verfährt, so bestelle dem
-Kutscher, Makri heißt Dr er soll hier eine Stunde warten.
-»Wenn wir uns bis dahin nicht eingefunden haben, soll er
-As Dr Hause fahren.«
+»Wenn ein Ponywagen hier vorfährt, so bestelle dem
+Kutscher, Makri heißt er, er soll hier eine Stunde warten.
+Wenn wir uns bis dahin nicht eingefunden haben, soll er
+nach Hause fahren.«
 
-Pförtner erhielt ein As Wir nahmen ein
-ut Und sausten die Prachtstraße mach den Malabar Hilf
+Der Pförtner erhielt ein Trinkgeld. Wir nahmen ein
+Auto und sausten die Prachtstraße mach den Malabar Hills
+hinab.
 
-Gegen angelt Uhr betraten wir den Myntor-Park und
-wandten uns sofort denk Heinen Steingebäude zu, wo Lydia
-Ramands Sarg wie in einer Er Fantapene ausgestellt war.
+Gegen zwölf Uhr betraten wir den Myntor-Park und
+wandten uns sofort dem kleinen Steingebäude zu, wo Lydia
+Ramands Sarg wie in einer Grabkapelle aufgestellt war.
 
-Die schwere kupferbeschlaaene Mahagonitür war unver-Palonen,
-Wir ließen sie offen, damit wir mehr Sicht
+Die schwere kupferbeschlagene Mahagonitür war unverschlossen.
+Wir ließen sie offen, damit wir mehr Licht
+hatten.
 
 Auf einem Unterbau von poliertem Stein stand ein
-reich verzierter Sarg aus einem jener nie faulenden, wohl-rieqenden
-Tropenhölzer, Der Deckel war mit Filügele
-schrauben befestigt.
+reich verzierten Sarg aus einem jener nie faulenden, wohlriechenden
+Tropenhölzer. Der Deckel war mit Flügelschrauben
+befestigt.
 
-Wir [Schraubten ihn los.
+Wir schraubten ihn los.
 
 <h2>3. Kapitel.</h2>
 
