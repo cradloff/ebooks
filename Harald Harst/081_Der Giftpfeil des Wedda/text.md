@@ -868,7 +868,7 @@ ruhte.
 
 Ich rückte mir einen Stuhl an das Kopfende; ich saß
 und beobachtete sein von ein paar Sonnenstrahlen, die
-durch das Laubdach der Bäume draußen fielen, grell be-schienenes,
+durch das Laubdach der Bäume draußen fielen, grell beschienenes,
 mir so teures Antlitz.
 
 Ich saß so eine volle Stunde. Und ich sah, wie die
@@ -1095,227 +1095,224 @@ Arm stützte.
 <h3>Der dritte Pfeil.</h3>
 
 »Welcher Leichtsinn, Mr. Harst!« meinte, Honoria.
-»Jane, Sie hätten nicht dulden sollen, daß -
+»Jane, Sie hätten nicht dulden sollen, daß —«
 
-»Oh — machen Sie doch etwas, wenn ein ‘Harst sagt,
+»Oh — machen Sie doch etwas, wenn ein Harst sagt,
 er *müsse* in den Park!«
 
 Harald lächelte begütigend.
 
 »Daß ich hier sehr nötig bin, beweist ja diese Situation.
-Man hat also auch Dich bedenken wollen. mein Alter!
+Man hat also auch Dich bedenken wollen, mein Alter!
 Und nun wunderst Du Dich, daß Du keine Spuren findest.«
 
-»Bitte, hier auf dem Mauerabsatz hat ein Mensch ne
-standen —«
+»Bitte, hier auf dem Mauerabsatz hat ein Mensch gestanden —«
 
 »Soweit ich von hier sehen kann, ist der Mensch auf
-dem Diauerabfaß nach Tinte weiter gegangen.«
+dem Mauerabsatz nach links weiter gegangen.«
 
-Er machte sich von Mistreß Ballerte Arm frei und Ei ad
-unsicheren Schrittes dicht an die Mauer heran, bog, wo
-folgend, nach links ab und rief uns Teile zu:
+Er machte sich von Mistreß Busselts Arm frei und trat
+unsicheren Schrittes dicht an die Mauer heran, bog, ihr
+folgend, nach links ab und rief uns leise zu:
 
-Stehen bleiben, bitte!«
+»Stehen bleiben, bitte!«
 
 Nachdem er das achteckige Miniaturtempelchen umrundet
-und sich uns wieder zugesellt Halle, faule er Welt Sykomoren,
+und sich uns wieder zugesellt hatte, sagte er weit lebhafter:
 
-So — nun der Sarg!«
+»So — nun der Sarg!«
 
 Wir beide und die Matrone traten in die Grabkapelle
-ein und hatten draußen Honoria als aufmerksame Malerin.
+ein und hatten draußen Honoria als aufmerksame Wächterin.
 Sie war freiwillig zurückgeblieben.
 
-»Kramen Sie nur, Miß Honoria,« meinte Harst Schund.
+»Kommen Sie nur, Miß Honoria,« meinte Harst jedoch.
 »Die Gefahr ist vorüber — vorläufig!«
 
 <@pagebreak/>
 Wir schoben den Deckel zurück.
 
-Wir hatten bestimmt erwartet, der Sara würde leer
-in.
+Wir hatten bestimmt erwartet, der Sarg würde leer
+sein.
 
-Es war nicht der Fall. Sinn Sarge lau ein mit Stoffe
-Zeiten halb bedecktes Gerippe — das Skelett eines Kindes
+Es war nicht der Fall. Im Sarge lag ein mit Stoffresten
+halb bedecktes Gerippe — das Skelett eines Kindes
 der Größe nach.
 
-Dann rief zu Schon die Matrose:
+Dann rief auch schon die Matrone:
 
 »Oh — da ist noch Lydias Ring an der linken Hand!
-By: ‚ist Tat; Du: Harst, Sie haben sich leider, leider geirrt.
-he a 0 Zwar
+Sie ist es! Mr. Harst, Sie haben sich leider, leider geirrt.
+Lydia ist tot!«
 
 Wie enttäuscht Jane Busselt war! Arme Frau! Sie
 hatte auf ein Wiedersehen gehofft. Und nun war jede
-Hoffnung dahin! Jede?
+Hoffnung dahin! Jede!
 
 »Es scheint so,« meinte Harald. »Meine Kombinationen
-sparen irrig. Der Sara ist nicht Teer.«
+waren irrig. Der Sarg ist nicht leer.«
 
-Wer Harst kennt, achtet aus jedes feiner Worte. Und
+Wer Harst kennt, achtet auf jedes seiner Worte. Und
 — hier sprach er erst von »es scheint so« und dann von den
-leeren Sara, dem seine unrichtigen Kombinationen gegolten
-hatten. Er sprach aber nicht davon, daß dies Skelett wird
-lich das Lydia Ramands sei Küsse.
+leeren Sarg, dem seine unrichtigen Kombinationen gegolten
+hatten. Er sprach aber nicht davon, daß dies Skelett wirklich
+das Lydia Ramands sein müsse.
 
 Nachdem der Deckel wieder aufgeschraubt war, kehrten
-wir nach der Terrasse zurück,
+wir nach der Terrasse zurück.
 
 Ein Diener hatte inzwischen den Kaffee, um den Harst
-Mistreß Busselt gebeten, sondiert.
+Mistreß Busselt gebeten, serviert.
 
-»Bringe mir eins der jungen Jchneumons (Schlangen-heißer,
-eine Hattenart), die der Gärtner sich hält,« sagte
-Harald zu dem Diener. Du
+»Bringe mir eins der jungen Ichneumons (Schlangenbeißer,
+eine Rattenart), die der Gärtner sich hält,« sagte
+Harald zu dem Diener.
 
-Der Finder eilte Davon, und Harst erklärte: »Der Ratlos
-kann vergiftet fein.«
+Der Inder eilte davon, und Harst erklärte: »Der Kaffee
+kann vergiftet sein.«
 
-ist ausgeschlossen!« meinte Honoria gar eure
+»Das ist ausgeschlossen!« meinte Honoria ganz entrüstet.
 
-08 er ist nichts ausgeschlossen, Miß. Warten Sie ab!«
+»Hier ist nichts ausgeschlossen, Miß. Warten Sie ab!«
 
-Er goß etwas alle in eine Untertasse, fühlte ihn
-durch ‘Blasen ab und Küßte Ihm sehr Krösus.
+Er goß etwas Kaffee in eine Untertasse, kühlte ihn
+durch Blasen ab und süßte ihn sehr kräftig.
 
-Der Diener kam mit dem Tierchen auf dem Arm zur
-rät. Es war ganz zahm, Fehneumons werden ja als
-Pngezieter. und Schlangenjäger in so vielen indischen Häusern
-gehalten. die
+Der Diener kam mit dem Tierchen auf dem Arm zurück.
+Es war ganz zahm. Ichneumons werden ja als
+Ungeziefer- und Schlangenjäger in so vielen indischen Häusern
+gehalten.
 
-ist Das Tierchen wurde von Harst mit dem Näschen in
-Kaffee gedrückt. Gierig lebe es dann den Kaffee aus.
+Das Tierchen wurde von Harst mit dem Näschen in
+den Kaffee gedrückt. Gierig leckte es dann den Kaffee aus.
 <@pagebreak/>
 Es war noch nicht ganz fertig damit, als es zu taumeln begann,
-auf die Seite fiel, ein paarmal noch fkranpshast
-guckte und dann stille lag. Es war tot.
+auf die Seite fiel, ein paarmal noch krampfhaft
+zuckte und dann stille lag. Es war tot.
 
 Honoria und die Matrone hatten sich verfärbt.
 
 »Maueli, die Kaffeekanne hat hier eine Weile unbeobachtet
 gestanden, nicht wahr?« fragte Harst den Diener.
 
-»Da, Sahib. Ich holte noch das Gebäck und die
-Auderichale.«
+»Ja, Sahib. Ich holte noch das Gebäck und die
+Zuckerschale.«
 
-Es ist gut, Maueli.«
+»Es ist gut, Maueli.«
 
-Ran dem Parktor her das Noblen des Ponywagens.
+Von dem Parktor her das Rollen des Ponywagens.
 
 »Maueli, geh’, halte die Pferde,« befahl Harald, »und
 sende uns Makri her. Er muß gleich zur Apotheke fahren.«
 
 »Miß Honoria,« wandte er sich dann an die Hausherrin,
 »schneiden Sie doch rasch dort das lange Ende von
-der Zuaschnur der Markise ah.«
+der Zugschnur der Markise ah.«
 
 Honoria zögerte.
 
-rum ist nicht tot,« fiel Harst ihr ins Wort. »Wenig
-
-»Lydia ist nicht tot,« fiel Harst ihr ins Wort. Wenigstens«
-ist es fein Skelett eines weißen Mädchens, das dort
-Sarge liegt. Es ist das Gerippe einer Farbigen, einer
-Inderin, und zwar eines Mädchens aus dem Bezirk barsch,
+»Lydia ist nicht tot,« fiel Harst ihr ins Wort. Wenigstens
+ist es kein Skelett eines weißen Mädchens, das dort
+im Sarge liegt. Es ist das Gerippe einer Farbigen, einer
+Inderin, und zwar eines Mädchens aus dem Bezirk Katsch,
 wo noch heute der Brauch besteht, den neugeborenen Kindern
 weiblichen Geschlechts den Schädel durch eine Art
-Presse nach hinten spitz zu formen. Stein Schädel einer
-Europäerin bat eine falle Form — niemals. Man bat
+Presse nach hinten spitz zu formen. Kein Schädel einer
+Europäerin hat eine solche Form — niemals. Man hat
 eine tote Eingeborene in den Sarg gelegt und ihr den Ring
 angesteckt.«
 
 Makri erschien auf der Treppe. Es war ein stattlicher,
-schwarzbärtiger Mann mit den dunklen Ausdruck…ereilen Augen,
-wie sie die meisten Inder beirren.
+schwarzbärtiger Mann mit den dunklen ausdrucksvollen Augen,
+wie sie die meisten Inder besitzen.
 
 Ohne jede Scheu näherte er sich dem Tische, blieb
-eben kreuzte die Arme über der Brust und fragte:
+stehen, kreuzte die Arme über der Brust und fragte:
 
-Sahib Harst, Du begreifst?«
+»Sahib Harst, Du befiehlst?«
 
 In Haralds rechter Hand lag etwas metallisch Blinkendes:
-seine Clemenutpistole!
+seine Clementpistole!
 
 »Wenn Du auch nur einen Fuß anders stellst, Makri,
-schließe ich,« erklärte er ernst. »Wo warst Du rot?«
+schieße ich,« erklärte er ernst. »Wo warst Du jetzt?«
 
-»Ich habe Sahib Greebrac nach Hause gefahren,« Sahib
-erst. — Was habe ich verschuldet, daß ich hier wie ein
+»Ich habe Sahib Greebrac nach Hause gefahren, Sahib
+Harst. — Was habe ich verschuldet, daß ich hier wie ein
 <@pagebreak/>
-Verbrecher behandelt werde?« Seine Augen alommen in
-Haß und Stolz größer auf. »Ach bin ein NRadschpute, ein
-Sohn der Star. Ich werde dieses Haus sofort verlassen.«
+Verbrecher behandelt werde?« Seine Augen glommen in
+Haß und Stolz größer auf. »Ich bin ein Radschpute, ein
+Sohn der Thar. Ich werde dieses Haus sofort verlassen.«
 
-na als Polizeigefangener!« meinte Harald kühl.
+»Ja, — als Polizeigefangener!« meinte Harald kühl.
 »Wo warst Du, nachdem Du den Doktor nach Hause gebracht
 hattest?«
 
-Die Augen bot Inder wurden stumpfer. Der Achse
+Die Augen des Inders wurden stumpfer. Der stolze
 Blick verkroch sich wieder.
 
-»Ich fuhr hierher,« erwiderte er en: alcihmfitig.
+»Ich fuhr hierher,« erwiderte er scheinbar gleichmütig.
 
 »Du lügst Makri. Du warst auf dem Hauptpostamt.
-Du kamst dort vorbei, brauchtest keinen Umweg zu machen. »
+Du kamst dort vorbei, brauchtest keinen Umweg zu machen.«
 
-»Ah war nicht dort, Sahib,« beharrte der Anden mit
-erneutem Haßblik.
+»Ich war nicht dort, Sahib,« beharrte der Inder mit
+erneutem Haßblick.
 
 »Seltsam, an Deinen Sandalen, deren Sohlen die
 Feuchtigkeit der frisch gesprengten Bürgersteige annahmen,
-Heben ein paar Stückchen der aummiertey Streifen von
+kleben ein paar Stückchen der gummierten Streifen von
 Briefmarken. Du warst auf der Post!«
 
-Makri schaute scheu auf feine Sandalen. Unter der
-Sohle leuchteten drei weiße Papierstreischen.
+Makri schaute scheu auf seine Sandalen. Unter der
+Sohle leuchteten drei weiße Papierstreifchen.
 
 »Du hast eine Depesche dort aufgegeben,« fuhr Harald
 fort. »Nach Battikaloa!«
 
-À Majors Unterkiefer klappte vor Schreck herab. Und
-schhm entfuhr es: y; Kg
+Makris Unterkiefer klappte vor Schreck herab. Und
+ihm entfuhr es:
 
-Du warf! hinter mir, Sahib —?«
+»Du warst hinter mir, Sahib —?«
 
-È »Ja — mein geistiges Ich folgte Dir. da Du te, da
-Uhr Eure Helferäbelfer In Battikaloa, die, by ja Roman
-As halten, warnen Taucher, ja auf der Hut zu fein
-»Was hat Greebrac depeschiert? Und an wen? — Sage
-»die Wahrheit, Makri. Es acht hier vielleicht ums Leben.«
+»Ja — mein geistiges Ich folgte Dir. Ich wußte, daß
+Ihr Eure Helfershelfer in Battikaloa, die Lydia Ramand
+gefangen halten, warnen würdet, ja auf der Hut zu sein.
+Was hat Greebrac depeschiert? Und an wen? — Sage
+die Wahrheit, Makri. Es geht hier vielleicht ums Leben.«
 
-oh Im grau verfärbten Gesicht des Radschputen malte: sich
+Im grau verfärbten Gesicht des Radschputen malte sich
 deutlich ein schwerer Seelenkampf.
 
-Y: Dann dann sahen wir alle, wie er zusammenzuckte,
-Mole sein Antlitz die Farbe des schmutzigen Fleis bekam.
+Dann dann sahen wir alle, wie er zusammenzuckte,
+wie sein Antlitz die Farbe des schmutzigen Bleis bekam.
 
-Wir ahnten nicht, was geschehen. Wir sahen Wetter,
-»wie die Brust des Inders sich In krampfhafter Atemzügen
-hob, wie sein Gesicht zur Brave wurde.
+Wir ahnten nicht, was geschehen. Wir sahen weiter,
+wie die Brust des Inders sich in krampfhaften Atemzügen
+hob, wie sein Gesicht zur Fratze wurde.
 
 Dann lohten seine Augen auf. Der ganze unendliche,
-er Stil verborgene Haß der braunen Söhne des Zauberlandes
-Indien flacerte in den schillernden, weißumran-beten
+stets still verborgene Haß der braunen Söhne des Zauberlandes
+Indien flackerte in den schillernden, weißumrandeten
 Pupillen.
 
 <@pagebreak/>
 
-Seine zu. fuhr Blipfchnell unter Die Tote Leinenjacke.
+Seine Hand fuhr blitzschnell unter die lose Leinenjacke.
 
 Dann ein Knall — ein Aufkreischen der Damen.
 
-Noch ein Klar.
+Noch ein Knall.
 
 Das Poltern des durch den stürzenden Inder umgerissenen
-Tisches und Es Klirren des zersplitternden Por-zellans
-wurde noch übertönt durch einen dumpfen Klo
-eines auf die Terrasse reger anstieg Körpers, der
-die ja herabgerutscht kam:
+Tisches und das Klirren des zersplitternden Porzellans
+wurde noch übertönt durch einen dumpfen Krach
+eines auf die Terrasse aufschlagenden zweiten Körpers, der
+die Markise herabgerutscht kam.
 
-schaute hin. Es war der zoddelbärtige Bettler,
-a Er hielt das Blasrohr noch in der
-en.
+Ich schaute hin. Es war der zottelbärtige Bettler,
+der Blasrohrschütze. Er hielt das Blasrohr noch in der
+Rechten.
 
 Die Frauen flüchteten ins Haus.
 
@@ -1323,41 +1320,41 @@ Dann sauste schon ein Auto den Hauptweg daher, hielt,
 und Inspektor Boßwell war mit drei Sätzen die Terrassentreppe
 hinan.
 
-Aktes Tau Greebrac,« rief Harst sofort. »Verhaften
+»Fahren Sie zu Greebrac,« rief Harst sofort. »Verhaften
 Sie ihn, Boßwell. Er ist reif dazu!«
 
-»Bat, Harst. — Hier diese Depesche ist die erste Frucht
-unserer Ueberwachung Malers und des Doktors. Ich habe
+»Gut, Harst. — Hier diese Depesche ist die erste Frucht
+unserer Ueberwachung Makris und des Doktors. Ich habe
 das Telegramm nicht abgehen lassen. — Auf Wiedersehen.«
 
-Er stürmte die Stufen hinab. Der Motor fknacrte.
-Eine Dom Staubwolke zog sich hinter dem davonjiagenden
-Auto drein
+Er stürmte die Stufen hinab. Der Motor knarrte.
+Eine leichte Staubwolke zog sich hinter dem davonjagenden
+Auto drein.
 
-Co re die um zwei Patronen erleichterte Stein
+Harald steckte die um zwei Patronen erleichterte Clement
+in die Tasche.
 
-Da — Markes hat einen Blasrohrpfeil im Genick, Und
-vorne n seiner Hand sollte mich auslöschen.«
+»Da — Makri hat einen Blasrohrpfeil im Genick. Und
+der Dolch in seiner Hand sollte mich auslöschen.«
 
-zeigte er nach oben.
+Er zeigte er nach oben.
 
-An schattige klaffte ein dreieckiges Loch an derselben
+In der Markise klaffte ein dreieckiges Loch an derselben
 Stelle, wo wir vor fünf Stunden den Schatten von
-Mündels Kopf bemerkt hatten.
+Makris Kopf bemerkt hatten.
 
-Drei Diener schschlihen scheu durch die Tür auf die Tom
-Grase.
+Drei Diener schlichen scheu durch die Tür auf die Terrasse.
 
-»Geht wieder!« befahl Harst. »Hier muß alles
+»Geht wieder!« befahl Harst. »Hier muß alles so
 bleiben, bis Boßwell zurückkehrt.«
 
-Harst trat an den ebenfalls durch den Kopf artete
+Harst trat an den ebenfalls durch den Kopf geschossenen
 Bettler heran.
 
-Es ist ein. Wedda,« sagte er sinnend. »Ein Ureinwohner
+»Es ist ein Wedda,« sagte er sinnend. »Ein Ureinwohner
 Ceylons.«
 
-Dann entfaltete er Die Fevpefche.
+Dann entfaltete er die Depesche.
 
 <@pagebreak/>
 
@@ -1368,166 +1365,166 @@ Ich schaute ihm über die Schulter.
 > bei Battikaloa, Ceylon.
 
 > Habe für die so lange aufbewahrt gewesene Maschine
-feine Verwendung und bitte sie daher umgehend gut per
-paar an die Adresse in Ellora abzusenden. Austin.
+keine Verwendung und bitte sie daher umgehend gut verpackt
+an die Adresse in Ellora abzusenden. Austin.
 
-Bin, diese »Maschine« war, stand nun- fest: Lydia
-Ramand
+Wer diese »Maschine« war, stand nun fest: Lydia
+Ramand!
 
-»Sehen wir in unseren Wohnsalon,« meinte Haraln.
-»Wir werden den geheimen Berbindunadaang nach
-Grabkapelle suchen, tue ich in der Westmauer eine Geheimtür
+»Gehen wir in unseren Wohnsalon,« meinte Harald.
+»Wir werden den geheimen Verbindungsgang nach der
+Grabkapelle suchen, wo ich in der Westmauer eine Geheimtür
 fand, durch die der Wedda Dir entkam.«
 
-Wir entdeckten im Salon in einer Nische eine sorg—sältig
+Wir entdeckten im Salon in einer Nische eine sorgfältig
 versteckte Tür, entdeckten auch den unterirdischen Gang.
-Als wir ihn durchschritten hatten, kam Boßwells Auto an«
+Als wir ihn durchschritten hatten, kam Boßwells Auto angerast.
 
-Mr Mr Entwischt!« rief der Inspektor und schwenkte ein
+»Entwischt!« rief der Inspektor und schwenkte ein
 Blatt Papier.
 
 Darauf stand in lila Maschinenschrift:
 
 > Dritte Warnung!
 
-> Die Spritze warnt *mich* fehlt
+> Die Spritze warnt *mich* jetzt!
 
 > Sie sind ein toter Mann!
 
-»Besorgen Sie mir das schneller Auto, las Sie aus
-reiben vorn, 9 er!« gute oft ne Trregu
-in heißt es, einem gefährlichen Schurken Mais Nr
+»Besorgen Sie mir das schnellste Auto, das Sie auftreiben
+können, Boßwell!« sagte Harst ohne jede Erregung.
+»Nun heißt es, einem gefährlichen Schurken zuvorzukommen.«
 
 <h2>5. Kapitel.</h2>
-<h3>Lydia Ramand,</h3>
+<h3>Lydia Ramand.</h3>
 
-Die Leichen Malers und des Weddas waren ne
-Schont und die Terrasse gesäubert worden. Wir hatten und
-inzieiichen in dem Bungalow Doktor Greebracs gründlich.
-»umgesehen, hatten dessen beide Diener und den chinesischen
-Zoo) vernommen, eine Menge Papiere durchstöbert und,
-obwohl tust doch zu dreien, eben mit Boßwell, all dies erledigten,
+Die Leichen Makris und des Weddas waren fortgeschafft
+und die Terrasse gesäubert worden. Wir hatten uns
+inzwischen in dem Bungalow Doktor Greebracs gründlich
+umgesehen, hatten dessen beide Diener und den chinesischen
+Koch vernommen, eine Menge Papiere durchstöbert und,
+obwohl wir doch zu dreien, eben mit Boßwell, all dies erledigten,
 <@pagebreak/>
-fror aller Gründlichkeit nichts Wichtiaed ne
-Wunden oder ermittelt. Die Diener und der Koch behaupteten,
-von einen! Wedda nie etwas gehört zu haben. Ein
+trotz aller Gründlichkeit nichts Wichtiges gefunden
+oder ermittelt. Die Diener und der Koch behaupteten,
+von einem Wedda nie etwas gehört zu haben. Ein
 solcher Mann habe mit ihrem Sahib nicht verkehrt.
 
-Wir saßen nun wieder zu fünfen aus der Terrasse des
-Myntor-Palais. Es war sechs. Uhr nachmittags. Wir
-hatten ein vorzügliches Diner hinter uns, und die Blutlachen,
+Wir saßen nun wieder zu fünfen auf der Terrasse des
+Myntor-Palais. Es war sechs Uhr nachmittags. Wir
+hatten ein vorzügliches Diner hinter uns, und die blutigen,
 erst so wenige Stunden zurückliegenden Ereignisse erschienen
 mit in der Erinnerung bereits so verschwommen wie
-grauer Träume.
+grause Träume.
 
 Harst hatte Boßwell gebeten, die Diener und den Koch
-sowie auch Greebracs Haus scharf, aber unauffällig bei
-wachen zu lassen. Das Auto war besorgt. es war ein
-großer Rennwagen, dessen Besitzer, ein englischer Planke
-Mann, es sich) zur Ehre anredmete, uns den Wagen auf Der
-na zu stellen und ihn selbst zu steuern Um sieben
-ihr wollte dieser Mr. Rann, ein Bekannter Boßwells, sich
-einfinden. »
+sowie auch Greebracs Haus scharf, aber unauffällig bewachen
+zu lassen. Das Auto war besorgt. Es war ein
+großer Rennwagen, dessen Besitzer, ein englischer Kaufmann,
+es sich zur Ehre anrechnete, uns den Wagen zur Verfügung
+zu stellen und ihn selbst zu steuern. Um sieben
+Uhr wollte dieser Mr. Roop, ein Bekannter Boßwells, sich
+einfinden.
 
-Harald war sehr schweigsam und in sich gekehrt. ich
-mußte, was ihn beunruhigte: er fürchtet, wir könnten
+Harald war sehr schweigsam und in sich gekehrt. Ich
+wußte, was ihn beunruhigte: er fürchte, wir könnten
 zu spät in Battikaloa eintreffen und Austin Greebrac könnte
 Mittel und Wege gefunden haben, trotz der über Tom
 Brackpoll in Battikaloa angeordneten Depeschensperre eine
-Nachricht dorthin gelangen zu lassen. Von einer  tote-Darin
-Nulforderima an die Polizei in Battikaloa, Tom
-radpod aus der Plantage Plus zu verhaften
-dort nach Lydia zu suchen, hatte BVoßwell auf Haralds deine
-tagenden Na! Abstand genonuen, Harst war nämlich überzeugt,
-daß Lydia so an! verborgen gehalten würde und auch
-wahrscheinlich nicht direkt auf der Plantage, daß die Port
+Nachricht dorthin gelangen zu lassen. Von einer telegraphischen
+Aufforderung an die Polizei in Battikaloa, Tom
+Brackpoll auf der Plantage Gurrasawa zu verhaften und
+dort nach Lydia zu suchen, hatte Boßwell auf Haralds dringenden
+Rat Abstand genommen. Harst war nämlich überzeugt,
+daß Lydia so gut verborgen gehalten würde und auch
+wahrscheinlich nicht direkt auf der Plantage, daß die
 Polizei nichts ausrichten könnte, sondern durch ihr Eingreifen
 für uns die Arbeit nur erschwert würde. —
 
 Honoria Myntor und Mistreß Busselt erhoben sich jetzt
 und verließen die Terrasse, um persönlich für uns einen
-Korb Proviant für drei Tage zusammenzupacken. Kam
-waren wir allein, als ein rundlichen. Geheimpolizist auf einem
-Motorrad angekauft kam und meldete, Greebracs Diener
-und der chinesische Mach seien in dem Iourenmwanen ihres
-Herrn ganz plügslich entflohen. Der Chinese habe am
-Steuer des Autos gesessen und sei mit einer solchen Schach
+Korb Proviant für drei Tage zusammenzupacken. Kaum
+waren wir allein, als ein indischer Geheimpolizist auf einem
+Motorrad angesaust kam und meldete, Greebracs Diener
+und der chinesische Koch seien in dem Tourenwagen ihres
+Herrn ganz plötzlich entflohen. Der Chinese habe am
+Steuer des Autos gesessen und sei mit einer solchen Schnelligkeit
 <@pagebreak/>
-Diniert Davon gefahren, daß jede Verfolgung aussichtslos
+davon gefahren, daß jede Verfolgung aussichtslos
 gewesen sei.
 
 Sofort begann jetzt der Telegraph nach allen Seiten
-zu spielen Der hellgraue Kraftwagen solle ausgehalten
-noch die Einlassen verhaftet werden.
+zu spielen. Der hellgraue Kraftwagen solle aufgehalten
+und die Einlassen verhaftet werden.
 
-»Vielleicht glückt e6,« meinte Harst, der In mit langen
+»Vielleicht glückt es,« meinte Harst, der jetzt mit langen
 Schritten die Terrasse durchmaß. »Vielleicht — obwohl
-ich nicht recht zu hassen wage.«
+ich nicht recht zu hoffen wage.«
 
-Kurz vor sieben Uhr meldete die Polizei aus Piano,
-dem Eisenbahutunotenpunkt südöstlich von Bombay, daß ein
-hellgraues Auto soeben angehalten worden sei. Die Zufassen,
+Kurz vor sieben Uhr meldete die Polizei aus Dhana,
+dem Eisenbahnknotenpunkt südöstlich von Bombay, daß ein
+hellgraues Auto soeben angehalten worden sei. Die Insassen,
 ein europäisches Ehepaar nebst Chauffeur und Diener,
-hätten sich jedoch als ein Kaufmann Todesarten aus
-Bombay nebst Bedienung auggelvieien.
+hätten sich jedoch als ein Kaufmann Woorgarter aus
+Bombay nebst Bedienung ausgewiesen.
 
-Harst nahm selbst den ZTelepbonbörer und sprach mit
-dem Beamten in Piano, wo jedes Auto durchnußte, daß die
+Harst nahm selbst den Telephonhörer und sprach mit
+dem Beamten in Dhana, wo jedes Auto durchmußte, daß die
 Südküste Vorderindiens erreichen wollte und dort einen der
-Häfen, von denen man nach Ceylon überlegen konnte.
+Häfen, von denen man nach Ceylon übersetzten konnte.
 
-sonst noch Kraftwagen bemerkt worden?« fragte
-»Palast. h »
+»Sind sonst noch Kraftwagen bemerkt worden?« fragte
+Harald.
 
-»Gewiß. Verdächtig war uns zum Beispiel ein by
-Vergnügen Wagen der von einem chinesischen Chauffeur ne
-steuert wurde. Die Insassen, ein Weißer und zwei Damen,
-konnten sich jedoch aweilelöfrei alt der Bombayer Oberrichter
+»Gewiß. Verdächtig war uns zum Beispiel ein dunkelgrüner
+Wagen der von einem chinesischen Chauffeur gesteuert
+wurde. Die Insassen, ein Weißer und zwei Damen,
+konnten sich jedoch zweifelsfrei als der Bombayer Oberrichter
 Sir Lonworld nebst Gattin und Tochter ausweisen.«
 
 »Waren die Damen verschleiert?«
 
-»ja — vollständig.«
+»Ja — vollständig.«
 
-»Bleiben Sie am Apparat, Ach will ’nur hier Ein
-anmerkte Nummer anrufen.«
+»Bleiben Sie am Apparat. Ich will nur hier Sir
+Lonworlds Nummer anrufen.«
 
 Und — so stellte sich heraus, daß Sir Lonworld Bombay
-Haar nicht verlassen hatte!
+gar nicht verlassen hatte!
 
 »Also Greebrac mit seinen Getreuen war’s!« sagte
-Harst mit gefurchter Stirn. »Der Wagen wird zwei Anstrichs
-übereinander gehabt haben, und der obere, der Zollhaus,
+Harst mit gefurchter Stirn. »Der Wagen wird zwei Anstriche
+übereinander gehabt haben, und der obere, der hellgraue,
 war abwaschbar.«
 
-Abermals spielte der Telegraph. Es war jetzt festgehakt,
+Abermals spielte der Telegraph. Es war jetzt festgestellt,
 daß Greebrac nach Süden floh. Wieder wurden alle
-Autos fahrbaren Straßen gesperrt.
+für Autos fahrbaren Straßen gesperrt.
 
-Dann fuhr Mr. Narr mit seinem Rennwagen war.
-ach kurzem Abschied sausten wir Davon.
+Dann fuhr Mr. Roop mit seinem Rennwagen vor.
+Nach kurzem Abschied sausten wir davon.
 
 <@pagebreak/>
-Die anderthalbtänine Reise bis Negapatam an der südlichen
-Koromandelküste verlief ohne Amifchenfäue. Hier
+Die anderthalbtätige Reise bis Negapatam an der südlichen
+Koromandelküste verlief ohne Zwischenfälle. Hier
 fanden wir auf der Polizei eine Depesche Boßwell vor,
-Grabes Einhalte, daß Greebrac entschlüpft sei. Sein Auto war
-nirgends mehr gelichtet worden.
+des Inhalts, daß Greebrac entschlüpft sei. Sein Auto war
+nirgends mehr gesichtet worden.
 
 Der für uns durch Boßwell bestellte Motorkutter lag
-im Hafen schon bereit. Wir Rinnen logiert an Bord. Dir
-tags ein Uhr verließen wir den Hafen.
+im Hafen schon bereit. Wir gingen sogleich an Bord. Mittags
+ein Uhr verließen wir den Hafen.
 
-Der verdeckte Butter, ein Fahrzeug der Hafenpolizei,
+Der verdeckte Kutter, ein Fahrzeug der Hafenpolizei,
 hatte fünf Mann Besatzung. Der Kapitän war ein junger,
-netter Engländer namens Gocklin, mit dem wir uns Schach
+netter Engländer namens Gocklin, mit dem wir uns schnell
 anfreundeten.
 
 Harst hatte genau berechnet, daß wir mit diesem Kutter,
 der bis zu 18 Knoten lief, vor Greebrac in Negapatan ankommen
 müßten.
 
-Als wir nachmittags gegen fünf in der Kajüte mich
+Als wir nachmittags gegen fünf in der Kajüte mit
 Gocklin zu Mittag speisten, kam für uns jedoch die böse Enttäuschung:
 Gocklin erwähnte so nebenbei, daß er heute
 vormittag gegen zehn Uhr Zeuge gewesen sei, wie ein
@@ -1535,9 +1532,9 @@ Amerikaner in Negapatan ein Motorrennboot für einen
 geradezu unsinnigen Preis einem indischen Perlenhändler
 abgekauft habe. Es sei ein großes Rennboot gewesen, und
 der Amerikaner habe denn auch sofort damit eine Probefahrt
-See unternommen.
+in See unternommen.
 
-Harst lechzte Messer und Gabel hin.
+Harst legte Messer und Gabel hin.
 
 »War der Amerikaner allein?« fragte er gepreßt.
 
@@ -1546,94 +1543,94 @@ seinen chinesischen Diener bei sich.«
 
 »Und — diese vier Personen unternahmen die Probefahrt?«
 
-Da. — Was für ein Gesicht machen Sie aber, Mr.
-Harst?! Stimmt etwas bei dieser Geschichte nicht 2»
+»Ja. — Was für ein Gesicht machen Sie aber, Mr.
+Harst?! Stimmt etwas bei dieser Geschichte nicht?«
 
-»O ja — es stimmt schon. Rum ist uns Greebrac mit
+»O ja — es stimmt schon. Nun ist uns Greebrac mit
 seinen Getreuen doch voraus! Wie ungeheuer wertvoll
-muß wohl Lydia Ramands Person fein, wenn Greebrac -
+muß wohl Lydia Ramands Person sein, wenn Greebrac
 ihretwegen solche Summen opfert und so viel Verschlagenheit
-antwortet! Ach glaube, mit diesem Mädchen ist ein See
-beinmis von solcher Wichtigkeit verknüpft, daß wir dessen
+aufwendet! Ich glaube, mit diesem Mädchen ist ein Geheimnis
+von solcher Wichtigkeit verknüpft, daß wir dessen
 Bedeutung noch nicht im entferntesten ahnen!«
 
-Harst stand auf, holte eine Seekarte von der Wand.
+Harst stand auf, holte eine Seekarte von der Wand,
 <@pagebreak/>
-hing sich um die Tat nicht mehr und studierte
-lediglich biete Karte der Ostküste Ceylons,
+kümmerte sich um die Mahlzeit nicht mehr und studierte
+lediglich diese Karte der Ostküste Ceylons.
 
 »Wann können wir in Battikaloa sein?« fragte er dann
 den freundlichen Gocklin.
 
 »Gegen Morgen, Dr. Harst.«
 
-»Bat. Jb sehe, daß Battikaloa auf einer Angel liegt,
+»Gut. Ich sehe, daß Battikaloa auf einer Insel liegt,
 vor die sich nach See zu wie ein Wall, die Battikaloa-Lagune
-vom Derer irennend, eine endlose Halbinsel enutlangret.
+vom Meere trennend, eine endlose Halbinsel entlangreckt.
 Man muß also erst meilenweit durch eine Art Kanal zwischen
 Halbinsel und Festland dahinfahren, ehe man die Stadt
 erreicht. Die Plantage Gurrasawa aber liegt weit südlich
 an der Lagune. Wenn Greebrac also Lydia Ramand mit
-Dem Motorrennbot abholen und anderswvohin. etwa nach
-& Vorn, bringen will, muß er diesen Kanal knieten passieren.
-Wir werden uns also dort auf die Lauer Grau. Greebrac
-ahnt ja nicht, daß wir nun willen, Daß er aber ein Wloior-tennboot
-ach
+dem Motorrennbot abholen und anderswohin, etwa nach
+Ellora, bringen will, muß er diesen Kanal wieder passieren.
+Wir werden uns also dort auf die Lauer legen. Greebrac
+ahnt ja nicht, daß wir nun wissen, daß er über ein Motorrennboot
+verfügt.« —
 
-Vierzehn runden später lag unser Kutter in der La-gunennändung
-unweit der Buch Bojen oh na ach
-Fahrrinne an einem Meinen Spielten vor Unser. ‚Du
-sel hatte eine felsige Spitze, von der aus man Diwans
+Vierzehn Stunden später lag unser Kutter in der Lagunenmündung
+unweit der durch Bojen gekennzeichneten
+Fahrrinne an einem kleinen Inselchen vor Anker. Die Insel
+hatte eine felsige Spitze, von der aus man mit einem
 Fernglas die breite Wasserfläche bequem überschauen
-Bannte. — Die Sonne war soeben aufgegangen. Harst und
+konnte. — Die Sonne war soeben aufgegangen. Harst und
 ich lagen oben auf dem Felsen, jeder mit einem Fernglas
-empor den Augen. Wir spähten. andauernd gen Süden, w.-
-wir über die Palmentwipsel zwei Türme der alten Festung
-Battikaloa hinweagragen sahen.
+vor den Augen. Wir spähten andauernd gen Süden, wo
+wir über die Palmenwipfel zwei Türme der alten Festung
+Battikaloa hinwegragen sahen.
 
-Harald war es, der gegen sieben Uhr dann den Wların-ruf
-hinab zum Kutter fischte: »Hallo — Gocklin! Aus
-fertig! Sie braunen!« -
+Harald war es, der gegen sieben Uhr dann den Warnruf
+hinab zum Kutter schickte: »Hallo — Gocklin! Alles
+fertig! Sie kommen!«
 
 Das Rennboot hielt sich dicht am Festlandufer. Wir
-überquerten die Lagune und verschwanden hinter zwei be-Wwaldeten
+überquerten die Lagune und verschwanden hinter zwei bewaldeten
 Eilanden. Das Rennboot mußte hier vorüber,
 wenn es nicht gerade den Kurs änderte. Wir hatten zwei
-Militärgewehre zu Bord, und Harald beabsichtigte, kam
-das Rennboot uns nicht davouliese, nötigenfalls von diesen
-weitiragenden Wasser Gebrauch zu machen.
+Militärgewehre an Bord, und Harald beabsichtigte, damit
+das Rennboot uns nicht davonliefe, nötigenfalls von diesen
+weittragenden Waffen Gebrauch zu machen.
 
-Um den Butter zu maskieren, hatten wir vorn und
-zwei Hausen von Mann ans gen Verursachte
+Um den Kutter zu maskieren, hatten wir vorn und
+am Heck zwei Haufen von Palmenzweigen aufgeschichtet.
 <@pagebreak/>
 Unser Fahrzeug konnte so für ein Lastboot gelten, dessen
-Deckladung zum Schuh gegen die Sonne bedeckt worden
+Deckladung zum Schutz gegen die Sonne bedeckt worden
 war. Als das Rennboot nahte, fuhren wir ihm langsam
-entgegen. Gocklin steuerte so Geschick, daß wir es sehr
+entgegen. Gocklin steuerte so geschickt, daß wir es sehr
 bald etwa fünfzig Meter schräg vor uns hatten. Harst rief
-jetzt die vier Jnfsassen an und befahl zu stoppen. Die An
-Wort war ein Revolverschuß und eine blitzschnelle Wendung
+jetzt die vier Insassen an und befahl zu stoppen. Die Antwort
+war ein Revolverschuß und eine blitzschnelle Wendung
 des Rennbootes.
 
-Topf knallten bei uns vier — fünf Schüsse. Auch Gocklin
-hatte zu einem Gewehr aecariffen.
+Jetzt knallten bei uns vier — fünf Schüsse. Auch Gocklin
+hatte zu einem Gewehr gegriffen.
 
-Dann eine starke Explosion drüben. Der VBenzin-behälter
-war ausgeflogen. Das Boot sank.
+Dann eine starke Explosion drüben. Der Benzinbehälter
+war aufgeflogen. Das Boot sank.
 
 Wir fischten Greebracs Diener, den Chinesen und ein
 blondes, schlankes Mädchen aus dem Wasser auf. Wir
-hatten Lydia Ramand, die in der kleinen Bugkajüte versteht
+hatten Lydia Ramand, die in der kleinen Bugkajüte versteckt
 gewesen war, also gefunden. Aber Austin Greebrac
 fanden wir nicht. —
 
-Was Lydia uns dann berichtete, bringe Ich im zweiten
+Was Lydia uns dann berichtete, bringe ich im zweiten
 Teil dieses Abenteuers.
 
 Seltsam genug war die Erzählung Lydias. Noch seltsamer,
-daß sie allerlei zu verheimlichen trachtete und Daß
+daß sie allerlei zu verheimlichen trachtete und daß
 ihr Hauptinteresse dem Ringe galt, den wir am Finger des
-Skeletts in der Grabkapelle des Myntor-Pranke bemerkt
+Skeletts in der Grabkapelle des Myntor-Parks bemerkt
 hatten.
 
 <h1>Der Felsentempel von Ellora.</h1>
@@ -1968,7 +1965,7 @@ As »ich, so töten wollen.
 
 er —
 
-Ein Blick nach dem Halleneingana hin ließ mich Lydia
+Ein Blick nach dem Halleneingang hin ließ mich Lydia
 Ramand mit einer Zigarette im Mundwinkel neben Greebrac
 und dem Fader Tamar Dak erkennen.
 
@@ -2040,7 +2037,7 @@ Händen gehabt hätte, würde er vielleicht auf das Bild von
 Hoftor Austin Carbreeg aufmerksam geworden sein. Das
 ist ein ganz junger Londoner Arzt gewesen, der schon als
 Student sich zum vielseitigen Verbrecher ausgebildet hatte
-und der dann eine Baute von Gleichgesinuten um sich ver-samnielte,
+und der dann eine Baute von Gleichgesinnten um sich ver-samnielte,
 mit deren Hilfe er unter anderem die Bank von
 England um fünf Millionen erleichterte. Als man ihm dann
 auf die Spur kam, verschwand er, fälschte feine Papiere und
@@ -2240,7 +2237,7 @@ Da schwieg er wieder. —
 <@pagebreak/>
 Also um fünf goldene Statuen ging es hier. Fraglos
 um Statuen, die Doktor Ramand, Lydias Vater, einst
-irgendwo in einem ruinenhasten Tempel im mein Ceylons
+irgendwo in einem ruinenhaften Tempel im mein Ceylons
 cnitdeckt haben Modelle.
 
 Aber - wie hatte Austin Greebrac hiervon Kenntnis
@@ -2309,7 +2306,7 @@ Bringe die Koffer hinab,« befahl er.
 
 Dann löste er mir die Fußfesseln, entfernte den Knebel.
 
-»Mr. Schraut, ich würde ZJhnen raten, sich die Sonne
+»Mr. Schraut, ich würde Ihnen raten, sich die Sonne
 noch zum letzten Mal recht genau anzusehen.«
 
 Seh blickte wirklich nach den schillernden Strahlen bin,
@@ -2332,7 +2329,7 @@ Weddas etwas, Mr. Schraut. Sie hüten dieses he
 gesinnte wie manches: andere, zum Beispiel das der Zug
 ammensevung ihres Pfeilgiftes namens Lipara. Die Wirkung
 kennt man. Nicht wahr, Mr. Schraut? Sie doch auch?
-Grazie sagten ja, wie Harst trotz des Aussaugeus der Wunde
+Grazie sagten ja, wie Harst trotz des Aussaugens der Wunde
 durch Sie schwach wurde, Nun — die ganze Wirkung
 Wird Sie schmerzlos sterben lassen!«
 
@@ -2443,7 +2440,7 @@ getan hatte. — »
 
 Die aus poliertem Metall offenbar bestehende Flügeltür
 bot Wunberbautertd hatte sich lautlos geöffnet. Eine
-enge farbiger Diener, alle gleich gekleidet in rote Ueber-würse,
+enge farbiger Diener, alle gleich gekleidet in rote Ueberwürfe,
 mit roten, weißinmranbeien Sandalen und weiden
 Gürteln, entquollen dem Eingang. Vier baden trugen einen
 auf Stangen befestigten Elfenbeinsessel. Ihnen voraus
@@ -2513,7 +2510,7 @@ dort zog der Qualm ins Freie.
 
 Da — der helfe leck verengerte sich.
 
-Da war etwas, das wie eine NRiefenfpinne in den
+Da war etwas, das wie eine Riefenfpinne in den
 nachschauten sich bewegte: ein Mann an einem Seil!
 
 Ein Mann — ein Au der heimlich hier eindringen
@@ -2534,7 +2531,7 @@ empor starren sollen, Mr. Schraut. Am übrigen haben wir
 Krokodiltod sehr geschickt uns vorgetäuscht haben. Nun
 wird er —«
 
-Mein gellender Warnunasfchrei zerriß den begonnenen
+Mein gellender Warnungsschrei zerriß den begonnenen
 Gab:
 
 »Harald — zankt! per -.
@@ -2652,7 +2649,7 @@ bin. Und doch war es eine Europäerin. Das schmale Gefecht,
 die aurüdfbringenden Backenknochen und die Augen
 verrieten er
 
-Bald- öner, bald wieder mit seltsam hastigen Schritten
+Bald- Teuer, bald wieder mit seltsam hastigen Schritten
 näherte sie sich, stand vor uns. «
 
 Zwei helle »verängstigte Augen musterten uns.
@@ -2690,7 +2687,7 @@ Adi Greebrac erschien.
 
 Neben ihr stand der Tiger, den sie an Halsband hielt.
 
-Lydia Ramands Gestalt Überlief ein Zittern, Aber
+Lydia Ramands Gestalt überlief ein Zittern, Aber
 irrte gehorchte. Sie farritt die Marmorfslusen hinan.
 
 Am selben Moment fiel mir ein, was ich in dem
@@ -2722,7 +2719,7 @@ bunter Adi war Austin (verlege aufgetaucht.
 
 Boschan — Town! Log! Die!
 
-Das galt dem Tiger, der LUCidónett nach dem beroch«
+Das galt dem Tiger, der Cidónett nach dem beroch«
 blichen Sprunge herungecsahren war, der schon zum neuen
 Sprung aufsetzte, der ‘jetzt aber scheu sich lang nieder tat.
 
@@ -2765,7 +2762,7 @@ Tagen
 Eile ließ sich quer durch die Höhle auf den Elefantengötzen
 zuführen.
 
-Hier gab es in der Felswand eine muschelsörmige
+Hier gab es in der Felswand eine muschelförmige
 Kinbuchtuna, eine winzige Nebengrotte. Hier stand eine
 plumpe Steinbank; hier erzählte Lydia, die infolge Harsts
 Anspruch sich langsam beruhigte, folgendes über die näheren
@@ -2824,7 +2821,7 @@ plötzlich öffnen. Sie war aus dem Starrlxp| erwacht.
 jedoch nur, um nach all den leer;scheu Foltern von einem
 schweren Norwegischer befallen zu werden, das sie monatelang
 Fang Bett fesselte. ls sie leidlich genesen, war ihr
-SBedäclinis völlig tot. Sie glaubte vi Greebrac, ihrer
+Bedäclinis völlig tot. Sie glaubte vi Greebrac, ihrer
 Pflegerin, daher ohne weiteres. daß sie eine Einghalcsin
 ich und Richtig heiße. Doch beeile nach einer: Jahr lau?
 Flor langsam die Grumermia an ihre Klarheit wuräd. Ne
@@ -2863,7 +2860,7 @@ daß diese Schurken sie töten würden, sobald sie wußten,
 wo die Statuen sich versanken.
 
 So vergingen die Fahre. Stets aufs neue wiederholten
-diese Elenden ihre rohen Versuche, das heranreifeude
+diese Elenden ihre rohen Versuche, das heranreifende
 junge Mädchen zur Preisgabe ihres Geheimnisses zu
 zwingen.
 
@@ -2925,7 +2922,7 @@ eines Lauschers rechnete und als ob er mit dieser lauten
 Gegenfrage einen mir unbekannten Zweck verfolgte.
 
 »ha, Mr. Neu: stieß Lydia nach kurzen! Zögern
-Hervor. »Da — so ist’s! ZFhnen — nur Ihnen beiden will
+Hervor. »Da — so ist’s! Ihnen — nur Ihnen beiden will
 lehnt die volle Wahrheit sagen: ich weiß gar nicht, wo die
 <@pagebreak/>
 fünf Statuen versteht sind! An meinem elften Geburtdtaa
@@ -2983,7 +2980,7 @@ um. Mir faden niemand.
 
 Harald erhob sich trat ebenfalls, schüttelte die Faust
 nach der anderen Groltenseite hin, Zoo ich erst ich! eine der
-unseren genau gleiche muschelsörmige Einbuchtung be
+unseren genau gleiche muschelförmige Einbuchtung be
 Mehr
 
 Dort — dort steifen sie!« faule Harst. »Dort hinter
@@ -3028,7 +3025,7 @@ nehmen lassen und —«
 
 »Abnehmen — den Ring?!« fiel Harst dem großen
 Verbrecher ins Wort. »Sie irren, Greebrac! Sie werden
-den Ring bei mir nicht finden — Überhaupt nicht finden,
+den Ring bei mir nicht finden — überhaupt nicht finden,
 erhaltene nicht ohne uns!«
 
 Und — da begriff ich Haralds Geniestreich; da merkte
@@ -3201,7 +3198,7 @@ Steletthand steckte und das es Harst nur darauf angekonm-men
 war, Zeit Tu’ gewinnen. —
 
 Der Ring wurde nun aus dem Sarge herausgeholt,
-nachdem Lydia und Mistreß rasiert ein sreudentränenrei-hes
+nachdem Lydia und Mistreß rasiert ein freudentränenreiches
 Wiedersehen gefeiert hatten.
 
 Harst vergrößerte die Mikrophotographie. Doktor Ramand,
