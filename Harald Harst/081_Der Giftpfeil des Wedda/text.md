@@ -1639,7 +1639,7 @@ hatten.
 <h3>Wie wir geleimt wurden.</h3>
 
 Das Rennboot war gesunken. Nur ein schillernder
-Geistert auf der Wasseroberfläche bezeichnete noch die Stelle,
+Oelfleck auf der Wasseroberfläche bezeichnete noch die Stelle,
 wo das kostbare Fahrzeug nun auf dem Schlammgrunde
 der Lagunenmündung lag.
 
@@ -1651,57 +1651,57 @@ wären.
 
 Das junge Mädchen hatte durchaus nicht den Eindruck
 einer verschüchterten Gefangenen gemacht. Auch ihr Anzug
-halte verraten, daß man sie gut behandelt und bei der Ein
-fleidung ihres äußeren Menschen nicht gespart hatte.
+hatte verraten, daß man sie gut behandelt und bei der Ein-
+kleidung ihres äußeren Menschen nicht gespart hatte.
 
 Mit einer herzgewinnenden natürlichen, zwanglosen
-N. Art waren ihr warme Worte des Dankes über die Lippen
+Art waren ihr warme Worte des Dankes über die Lippen
 gekommen. Ebenso freimütig hatte sie sofort nach unseren
-Namen und den näheren Umständen ihrer Tee
-Ï fragt. Harald hatte ihr nur kurz acantrwoortet, da ein er
-Ufer Seewind über die Lagunenmündung strich und Lydia
-mitten nassen Kleidern sich der Zugluft an Deck nicht lange
-aussehen sollte.
+Namen und den näheren Umständen ihrer Befreiung ge-
+fragt. Harald hatte ihr nur kurz geantwortet, da ein scharfer
+Seewind über die Lagunenmündung strich und Lydia
+in ihren nassen Kleidern sich der Zugluft an Deck nicht lange
+aussetzen sollte.
 
 Nun war sie in der Kajüte verschwunden. Nun kehrte
-Harald zu mir auf das Achterdeck zurück, wo ich kochen die
+Harald zu mir auf das Achterdeck zurück, wo ich soeben die
 beiden Diener und den Chinesen ausgefragt hatte, jedoch
-nur wieder hörte, daß Austin Greebrac nicht mit an. Bord
+nur wieder hörte, daß Austin Greebrac nicht mit an Bord
 des Rennbootes gewesen sei. Auf alle anderen Fragen
-Bann sie hartnäckig jede Auskunft.
+verweigerten sie hartnäckig jede Auskunft.
 
-Sie standen mit auf den Nöten gefesselten Händen
-è vor mir, diese drei Leute, die ohne Zweifel sehr die; von
-den Geheimnissen ihres Herrn wußten. Als Harald nun hintrat,
+Sie standen mit auf den Rücken gefesselten Händen
+vor mir, diese drei Leute, die ohne Zweifel sehr viel von
+den Geheimnissen ihres Herrn wußten. Als Harald nun hinzutrat,
 richteten sich drei Augenpaare mit ganz besonderem
-Musprucd auf das jemals, uns Der meines Freundes.
-suchte diesen Ausdruck zu zerlegen, Es fehlen he!mischen
-daß, Furcht und auch wieder stiller Triumph in diesem
-Wider zu liegen.
+Ausdruck auf das schmale, kluge Gesicht meines Freundes.
+Ich suchte diesen Ausdruck zu zerlegen. Es schien heimlicher
+Haß, Furcht und auch wieder stiller Triumph in diesen
+Blicken zu liegen.
 
-Haralds große durchdringende Augen- ruhten nacheinander
+Haralds große durchdringende Augen ruhten nacheinander
 auf den unbelebten Asiatengesichtern.
 
-»Sie verweigern jede -Auskunft,« erklärte ich. »Nur
+»Sie verweigern jede Auskunft,« erklärte ich. »Nur
 daß Greebrac nicht an Bord des Rennbootes war, geben
-zu,«
+sie zu.«
 
-pi »Oder besser: lügen sie!« meinte Harst und blickte den
-einen Wunder noch schärfer an. »Du hast Deine Augen
+»Oder besser: lügen sie!« meinte Harst und blickte den
+einen Inder noch schärfer an. »Du hast Deine Augen
 schlecht in der Gewalt!« sprach er ironisch zu dem größeren
 der Diener, einem braunen Kerl von athletischem Körperbau.
-Agra Augen glomm der Hohn auf. Greebrac
+"In Deinen Augen glomm der Hohn auf. Greebrac
 war an Bord!«
 
 <@pagebreak/>
-Mach Kapitän Goceklin trat gespannt näher.
+Auch Kapitän Gocklin trat gespannt näher.
 
-Harald wandte sich halb um und übverschaute die leicht
+Harald wandte sich halb um und überschaute die leicht
 bewegte Wasserfläche. Der Kutter trieb noch mit ruhenden
 Schrauben. Seit der Explosion des Rennbootes mochten
-fünf Minuten vexganáen sein. Bis zum Ufer der Jusel-füste
-betrug die Entfernung vielleicht dreihundert eher,
-er Um Strande der Lagunenhalbinsel etwa zweitausend
+fünf Minuten vergangen sein. Bis zum Ufer der Inselküste
+betrug die Entfernung vielleicht dreihundert Meter,
+bis zum Strande der Lagunenhalbinsel etwa zweitausend
 Meter.
 
 »Meinen Sie, daß Greebrac entflohen ist?« fragte
@@ -1710,121 +1710,120 @@ Gocklin Harst in seiner bescheidenen Art.
 »Ja, das nehme ich jetzt sogar mit aller Bestimmtheit
 an. Ein Mann wie er kennt tausend Schliche. Wir hier
 auf dem Kutter wurden durch die Explosion und durch das
-rasche Sinken des Rennbootes überrascht. Wir hatten mal
-Augen für die vier im Wasser schwimmenden Menschen,
-Ich hätte früher an —« — und. da wandte er sich dem braunen
+rasche Sinken des Rennbootes überrascht. Wir hatten nur
+Augen für die vier im Wasser schwimmenden Menschen.
+Ich hätte früher an —« — und da wandte er sich dem braunen
 Athleten wieder zu — »an die vielen schwimmenden
-Glasstücke und Sträucher denken sollen.«
+Grasstücke und Sträucher denken sollen.«
 
-Des Anders Gesicht veränderte sich für einen Moment.
+Des Inders Gesicht veränderte sich für einen Moment.
 Der Ausdruck baldigen Schrecks glitt darüber hin wie der
-Schatten einer rasch scacluden Wolke.
+Schatten einer rasch segelnden Wolke.
 
 »Gocklin — ans Steuer bitte!« befahl Harst da. »Wenn
-ich in Greebracs Lage gewesen wäre, hätte ich im Schuhe
+ich in Greebracs Lage gewesen wäre, hätte ich im Schutze
 eines treibenden Busches das Ufer der Lagunenhalbinsel
 zu erreichen gesucht, weil mich nach der Richtung hin niemand
-vermutet hätte, von die andere Wüste ja weit näher
-Hegt und jeder angenommen hätte, ich mühte gerade biete
-schlang nach der nächsten Uferstelle gewählt haben?
+vermutet hätte, von die andere Küste ja weit näher
+liegt und jeder angenommen hätte, ich müßte gerade diese
+Richtung nach der nächsten Uferstelle gewählt haben."
 
-Godcflin ließ. die Motoren schon anspringen, Der te
+Godcflin ließ die Motoren schon anspringen. Der
 Kutter begann alle auf der Oberfläche schwimmenden noch so
-harmlos erscheinenden: Dinge anzusteuern, die nach Osten
+harmlos erscheinenden Dinge anzusteuern, die nach Osten
 zu zu sehen waren.
 
 Diesmal war ich es, der Harst sehr bald auf ein Fischerboot
-aufmerksam machte, das bisher etwa tanzend Meter
-ab seine Neue ausgeworfen hatte, ich! aber mit vollen So
-Segeln nach Südwest der Znselküste zustrebte.
+aufmerksam machte, das bisher etwa tausend Meter
+ab seine Netze ausgeworfen hatte, jetzt aber mit vollen
+Segeln nach Südwest der Inselküste zustrebte.
 
-»Das Boot hat sein Netz gar nicht cinagezogen,“« sagte
-Ob. »Sich sah genau, daß die beiden Fischer es ins Wasser
-gleiten ließen und las) das Großseaec! hißten.«
+»Das Boot hat sein Netz gar nicht eingezogen,« sagte
+ich. »Ich sah genau, daß die beiden Fischer es ins Wasser
+gleiten ließen und rasch das Großsegel hißten.«
 
-»Gocklin — dem Fischerboote nach!« rief Harald
+»Gocklin — dem Fischerboote nach!« rief Harald.
 
 <@pagebreak/>
 Und wieder hatte er dabei den großen, starken Inder
-¡in Auge behalten.
+im Auge behalten.
 
 »Ah — es gefällt Dir nicht, daß wir dem Boote folgen!
 Bursche, jetzt hast Du Dich verraten!«
 
 Des Inders Blicke waren wie Dolchklingen geworden.
-»Aber er beherrschte sich. Der unendliche Grimm und Haß
-erlosch in seinen Augen ebenso rasch, und mit einer gesogen-’
-Ofen Verachtung sagte er zu Harst:
+Aber er beherrschte sich. Der unendliche Grimm und Haß
+erlosch in seinen Augen ebenso rasch, und mit einer grenzenlosen
+Verachtung sagte er zu Harst:
 
 »Fange den Adler, wenn Du es kannst! Sahib Austin
-Greebrac spottet Seiner!«
+Greebrac spottet Deiner!«
 
-Das war für einen Fader eine geradezu unerhört anmutende
+Das war für einen Inder eine geradezu unerhört anmaßende
 Sprache. Sie mußte wohl einen guten Grund
 haben.
 
 Unsere Blicke flogen wieder nach dem Fischerboote
-hinüber. Es lag ganz schief unter dem Druck der: Segel.
-»Es war fein primitiver Eingeborenennachen, sondern ein
-»modernes, wenn auch breit gebautes Plankenboot. -
+hinüber. Es lag ganz schief unter dem Druck der Segel.
+Es war kein primitiver Eingeborenennachen, sondern ein
+modernes, wenn auch breit gebautes Plankenboot.
 
 Gocklin, der vom erhöhten Steuerstand aus mit einem
-Glase das Boot beobachtete, winkte uns ärgerlich in:
+Glase das Boot beobachtete, winkte uns ärgerlich zu:
 
 »Sie entkommen! Der Vorsprung ist zu groß!«
 
-Auch ich hatte dies schon befürchtet. Und des Anders
-Aenußerung war nur so zu verstehen, daß er auf diesen nicht
-einzuholenden Vorsprung irrt hatte.
+Auch ich hatte dies schon befürchtet. Und des Inders
+Aeußerung war nur so zu verstehen, daß er auf diesen nicht
+einzuholenden Vorsprung angespielt hatte.
 
 Wieder meldete sich Gocklin:
 
-»ich sehe vier Leute dort im Boot. Einer gibt ganz
-tief bunter den Flschtörben, Es ist ein Europäer.«
+»Ich sehe vier Leute dort im Boot. Einer sitzt ganz
+tief hinter den Fischkörben. Es ist ein Europäer.«
 
-rl griff mich einem der Gewehre, die noch an der
-Kajüteintreppé lehnten.
+Harst griff mich einem der Gewehre, die noch an der
+Kajütentreppe lehnten.
 
-»Vieleicht tun dies!« sagte er mit einer. Stimme, die
-drohend und gereizt te
+»Vielleicht hilft dies!« sagte er mit einer Stimme, die
+drohend und gereizt klang.
 
-Er trat an die Reling, legte an, zielte Tanne, sende
+Er trat an die Reling, legte an, zielte lange, setzte
 wieder ab, klappte das Visier hoch zog die Waffe wieder in
 die Schulter ein.
 
 Da — der Inder war mit einem wahren Panthersatz
-zugesprungen, hatte Harald mit vorgebeuatem Kopf einen
-sollen Stoß in die Achselhöhle verlebt, daß Harst lang auf
-die Den schlug. Der Schuß ging irgendwohin in
-die Zu
+zugesprungen, hatte Harald mit vorgebeugtem Kopf einen
+solchen Stoß in die Achselhöhle versetzt, daß Harst lang auf
+die Deckplanken schlug. Der Schuß ging irgendwohin in
+die Luft.
 
 Dann hatte der gefährliche Bursche sich schon über die
-Lebtag ins Walzer fallen lassen.
+Reling ins Wasser fallen lassen.
 
 <@pagebreak/>
-@3: war Nur: er wollte uns nur zwingen, ihn Rufen-Bar
-wollte dem Fischerboote so das Entkommen Drei«:
-in.
+Es war klar: er wollte uns nur zwingen, ihn aufzufischen,
+wollte dem Fischerboote so das Entkommen erleichtern.
 
 Harst war schon wieder auf den Füßen.
 
-he befahl er. »Die weitere Verfolgung ist
-zwecklos« -
+"Wenden!" befahl er. »Die weitere Verfolgung ist
+zwecklos.«
 
-Der Butter beschrieb einen Bogen. Der Inder wurde
+Der Kutter beschrieb einen Bogen. Der Inder wurde
 an Deck gezogen.
 
 »Wie heißt Du?« fragte Harst ihn mit einer gewissen
 Freundlichkeit.
 
-»Tamar Tat,« faule der triefende Kerl stolz.
+»Tamar Dak,« sagte der triefende Kerl stolz.
 
 »Du gefällst mir, Tamar Dak. Es ist schade, daß Du
 baumeln mußt. Für die Teilnahme an einem Mordanschlag
 gegen Europäer gibt es für Eingeborene den Strang.«
 
-Dr, Zunder starrte gleichgültig an Harst vorüber auf
-das Barg das hinter einer Landzunge verschwand.
+Der Inder starrte gleichgültig an Harst vorüber auf
+das Boot das hinter einer Landzunge verschwand.
 
 Gocklin hatte von selbst den früheren Kurs wieder aufgenommen.
 Wir waren etwa drei Minuten später an derselben
@@ -1832,97 +1831,98 @@ Landzunge, hinter der ein Flüßchen in die Lagune
 mündete.
 
 Da sahen wir am rechten Ufer des Flüßchens das mit
-trocenem Strauchwerk umschichtete Boot in Flammen
-stehen. Die Lohe schoß an. den Segeln hoch, und der an
+trockenem Strauchwerk umschichtete Boot in Flammen
+stehen. Die Lohe schoß an den Segeln hoch, und der an
 Stärke zunehmende Seewind fachte die Glut zu langen,
 roten Feuerzungen an.
 
-wir umweht bei brennenden Bootes an Land sonnigen,
-als wir nun dem Boote Auslesen und im Grase bald
-die Fährten Greebracs« und der Fischer gefunden hatten,
+Als wir unweit des brennenden Bootes an Land sprangen,
+als wir nun dem Boote zuliefen und im Grase bald
+die Fährten Greebracs und der Fischer gefunden hatten,
 als wir diesen Spuren bis in ein Palmengehölz gefolgt waren
-und dicht dabei die hohen Mauern eines durch Schlips?
-Pflanzen völlig durchzogecnen Urwalds bemerkten, schrie
+und dicht dabei die hohen Mauern eines durch Schling-
+Pflanzen völlig durchzogenen Urwalds bemerkten, kehrte
 Harald um.
 
 »Fahren wir weiter nach Battikaloa und in die Lagune
 hinein bis zur Gurrasawa-Plantage,« meinte er. »Der
-Adler ist uns wirklich entgingen. Wir werden ihn natürlich
+Adler ist uns wirklich entgangen. Wir werden ihn natürlich
 auch auf der Plantage nicht finden. Ich möchte aber mit
-deren Bettler Tom Bracspoll ein: Wörtchen reden.« —
+deren Besitzer Tom Brackpoll ein Wörtchen reden.« —
 
 Als wir noch etwa eine Meile von Battikaloa entfernt
-waren, erhellten Lydia Ramand wieder an Deck. Ihre
+waren, erschien Lydia Ramand wieder an Deck. Ihre
 <@pagebreak/>
-leider waren trocken. Die Sonne des Indischen Ozeans
+Kleider waren trocken. Die Sonne des Indischen Ozeans
 brennt heißer als die unserer deutschen Heimat.
 
-»Ich habe Dom Kajütenfenster alles beobachtet, Mr.
-Harst,« sagte das blonde, re es Mädchen mit leuchtenden
-duzen. »Doktor Greebrac ist entwischt. Ob Sie ihn wie
-» x fangen werden?«
+»Ich habe vom Kajütenfenster alles beobachtet, Mr.
+Harst,« sagte das blonde, reizvolle Mädchen mit leuchtenden
+Augen. »Doktor Greebrac ist entwischt. Ob Sie ihn wieder
+fangen werden?«
 
-Ich war erstaunt über den Ton, in dem sie diese Sähe
+Ich war erstaunt über den Ton, in dem sie diese Sätze
 vorbrachte. Ob ich mich verhört hatte. Wirklich — es klang
-ganz so, als hoffte sie, wir würden Greebrac u ich echt fangen
-können
+ganz so, als hoffte sie, wir würden Greebrac *nicht* fangen
+können!
 
-E, He schaute sie Denn ebenfal3 überrascht zu und
+Harald schaute sie denn ebenfalls überrascht an und
 meinte:
 
-»Das wird nicht ganz leicht sein, Miß Ramand,«
+»Das wird nicht ganz leicht sein, Miß Ramand.«
 
-er ist jeher, sehr klug,« sprach sie zerstreut vor sich
+"Ja -- ist sehr, sehr klug,« sprach sie zerstreut vor sich
 hin. Irgend etwas schien ihren Gedanken eine andere
-Richtung gegeben zu haben. Dann Drängte sie hastig:
+Richtung gegeben zu haben. Dann fragte sie hastig:
 
-Tot werden Sie mit den drei Gefangenen tun, Mr.
+"Was werden Sie mit den drei Gefangenen tun, Mr.
+Harst?"
 
-As dem Vizegouverneur in: Daintalas vorläufig über
+"Sie dem Vizegouverneur in Battikaloa vorläufig übergeben."
 
-Und Sie selbst?«
+"Und Sie selbst?«
 
 »Wir fahren nach Brackpolls Plantage.«
 
 »Kommen Sie,« meinte sie, den Kopf halb zurückdrehend.
-»sich möchte Sie beide ohne Zeugen sprechen.«
+»Ich möchte Sie beide ohne Zeugen sprechen.«
 
 Als wir in der Kajüte Platz genommen hatten, lächelte
-ie plötzlich Moses und sagte zögernd:
+sie plötzlich verlegen und sagte zögernd:
 
-ch habe Bangen, Mr Harst. Ich werde mir
-ich« etwas »ja Essen von Mr. Gocklin geben lassen. Nein
-— bleiben Sie sitzen, Mr. Schraut. Ich bin flinker als Eile.«
+"Ich -- ich habe Hunger, Mr Harst. Ich werde mir
+rasch etwas zum Essen von Mr. Gocklin geben lassen. Nein
+— bleiben Sie sitzen, Mr. Schraut. Ich bin flinker als Sie.«
 
-Und ie huschte lachend zur Kajüte hinaus.
+Und sie huschte lachend zur Kajüte hinaus.
 
-blickte Harald Kopf in Dietrich an, Aber Harst starrte
-mit aefrausier Stirn vor
+Ich blickte Harald kopfschüttelnd an. Aber Harst starrte
+mit gekrauster Stirn vor sich hin.
 
-»Daß sie Hunger hat en »ihr uns doch auch auf Der
-beraten,« meinte ich.
+»Daß sie Hunger hat könnte sie uns doch auch auf Deck
+verraten,« meinte ich.
 
-Harst rührte sich nicht, blieb Dumm,
+Harst rührte sich nicht, blieb stumm.
 
-Dann hob er den Wich.
+Dann hob er den Blick.
 
-»Sie ist etwas eigentümlich"« faule er. »Wenn das,
-Das mir da kochen als scheinbar unsinnige Veruutung durch
-un Kopf schoß, zuträfe, wären wir auf unglaubliche Uns
-Trennt
+»Sie ist etwas eigentümlich,« sagte er. »Wenn das,
+was mir da soeben als scheinbar unsinnige Vermutung durch
+den Kopf schoß, zuträfe, wären wir auf unglaubliche Art
+geleimt worden!"
 
 <@pagebreak/>
-Bei den lebten Worten stand er auf und ging rasch der
-Tür Dr wollte sie aufziehen.
+Bei den letzten Worten stand er auf und ging rasch der
+Tür zu, wollte sie aufziehen.
 
-fuhr herum.
+Er fuhr herum.
 
 »Eingeschlossen!« rief er. »Der Schlüssel ist von draußen
 umgedreht worden!«
 
 Da — an Deck lautes Geschrei.
 
-Schlips dröhnende Stimme dazwischen;
+Gocklins dröhnende Stimme dazwischen:
 
 »Miß, sind Sie des Teufels!«
 
@@ -1933,13 +1933,13 @@ Die obere Füllung sprang heraus.
 
 Er kroch hindurch.
 
-ch hinterdrein.
+Ich hinterdrein.
 
-Kaum war ich die Treppe empor, als in der Kaufte
+Kaum war ich die Treppe empor, als in der Kajüte
 ein furchtbarer Knall ertönte.
 
 Der Luftdruck durch die zersplitternde Tür packte mich
-noch so stark, daß löst vorn überfiel und mit dem Kopf gegen
+noch so stark, daß ich vornüberfiel und mit dem Kopf gegen
 die eiserne Reling flog.
 
 Ich verlor das Bewußtsein.
@@ -1949,192 +1949,193 @@ Ich verlor das Bewußtsein.
 
 Und erwachte — als Gefangener Doktor Austin Greebracs,
 erwachte in einer weiten Halle, in der Gras zwischen
-den Bodenfliesen wucherte und in die heller Sonnenfcheim
-durch das teilweise eingestürzte Dach hineinfluteie. —
+den Bodenfliesen wucherte und in die heller Sonnenschein
+durch das teilweise eingestürzte Dach hineinflutete. —
 
-As war geschehen?
+Was war geschehen?
 
 Ich will mich ganz kurz fassen, denn das Problem des
 Ellora-Tempels ist so überreich an Verwicklungen, daß ich
-manche Einzelheiten notgedrungen übergehen umß.
+manche Einzelheiten notgedrungen übergehen muß.
 
-Was war gestehen? — Ein Sprengkörper war in der
-Kajüte des Matrone explodiert. Wer hatte ihn dorthin gebracht,
-wer den Zünder in Braut gesetzt, — wer hatte Harald
-As »ich, so töten wollen.
+Was war geschehen? — Ein Sprengkörper war in der
+Kajüte des Kutters explodiert. Wer hatte ihn dorthin gebracht,
+wer den Zünder in Brand gesetzt, — wer hatte Harald
+und mich, so töten wollen.
 
-er —
+Wer —?!
 
 Ein Blick nach dem Halleneingang hin ließ mich Lydia
 Ramand mit einer Zigarette im Mundwinkel neben Greebrac
-und dem Fader Tamar Dak erkennen.
+und dem Inder Tamar Dak erkennen.
 
 <@pagebreak/>
 Ein zweiter Blick in die Runde zeigte mir, daß ich
-war — der einzige Gefangene
+allein war — der einzige Gefangene.
 
-Wo war Hart? Tot etwa? Ermordet?!
+Wo war Harst? Tot etwa? Ermordet?!
 
 Und diese jäh erwachte Angst machte mich vollends
-Winter. Ich Schüttelte alles von mir ab, was ich noch an
-Rechneten der tiefen Betäubung empfand.
+munter. Ich schüttelte alles von mir ab, was ich noch an
+Nachwehen der tiefen Betäubung empfand.
 
-Dr drehte den Kopf na rechts dem er bei en
+Ich drehte den Kopf nach rechts dem Eingang zu.
 
-Cm hatte Lydia bemerkt, daß ich wieder bei raubt
+Da hatte Lydia bemerkt, daß ich wieder bei Bewußtsein
+war.
 
-Sie und Greebrac kamen auf mich aunelchleudert. So
-hatte e mich aufgerichtet Ach sah die beiden lächeln, Tal
-Lydias Lippen sich höhnisch wollen.
+Sie und Greebrac kamen auf mich zugeschlendert. Ich
+hatte mich aufgerichtet. Ich sah die beiden lächeln, sah
+Lydias Lippen sich höhnisch wölben.
 
-»Ja, Vx. Schraut,« sagte Greebrac nun, vor mir fielen
-[sitzend, a, das ist eine nette Heberrafdnina, nicht wohl
-je gestatten, daß ich Ihnen hier warne Schwester Adelaidı
-erstere. Sie werden schon als Freund des berühmten
+»Ja, Mr. Schraut,« sagte Greebrac nun, vor mir stehen
+bleibend, "ja, das ist eine nette Ueberraschung, nicht wahr?
+Sie gestatten, daß ich Ihnen hier meine Schwester Adelaide
+vorstelle. Sie werden schon als Freund des berühmten
 Harst auf die durchaus richtige Vermutung gekommen sein,
-As ich mir erlaubt habe, Ihnen durch Adi, meine Schwester,
-Ins Falle stellen zu lassen. Lydia umgab, die Sie holen
-sollten, befindet sich längst anderswo. Aber jetzt — habe
-Sie beide mir geholt. Das heißt: Harst hat Pech angibt.
-Eines der Lanunentrofopile — Ceylon ist ja vier
-Gerade arm an diesen liebenswürdigen Bestien — zog ihn
-die Tiefe. Schade, Sie Witz ihn nur um Hilfe rufen -
-Hören sollen! Ja — so ein, Krokodil »ad! fest zu. Wir
-nahen, wie verzweifelt er sich wehrte, wie er aber doch lang-versank.
-»Die Bestie hatte wohl einen Fuß zu fallen
-stammen
+das ich mir erlaubt habe, Ihnen durch Adi, meine Schwester,
+eine Falle stellen zu lassen. Lydia Ramand, die Sie holen
+wollten, befindet sich längst anderswo. Aber jetzt — habe
+ich Sie beide mir geholt. Das heißt: Harst hat Pech gehabt.
+Eines der Lagunenkrokodile — Ceylon ist ja nicht
+gerade arm an diesen liebenswürdigen Bestien — zog ihn
+in die Tiefe. Schade, Sie hätten ihn nur um Hilfe rufen
+hören sollen! Ja — so ein Krokodil packt fest zu. Wir
+sahen, wie verzweifelt er sich wehrte, wie er aber doch langsam
+versank. Die Bestie hatte wohl einen Fuß zu fassen
+bekommen."
 
 Dieser satanische Hohn trieb mir das Blut ins Gesicht.
 
-»Schurke, Sie werden der gerechten Strafe nicht erhaben
-» brüllte ich ihn an.
+»Schurke, Sie werden der gerechten Strafe nicht entgehen,"
+brüllte ich ihn an.
 
-Tore beiden wollten sich ausschütten vor Lachen. Und
-los Greebrac sagte dann:
+Die beiden wollten sich ausschütten vor Lachen. Und
+Adi Greebrac sagte dann:
 
 »Sie werden mir bescheinigen müssen, daß ich meine
-oué vorzüglich gespielt habe, Schade daß Sie beide so
-el die Kajüte verließen.«
+Rolle vorzüglich gespielt habe. Schade daß Sie beide so
+schnell die Kajüte verließen.«
 
-»Oh, Mr. Schraut kann sich dafür leid selbst die Todes-auswählen,«
-höhnte Greebrac, der wieder genau so
-1s(ah, wie er mir im Myntor-Palais gegenübergestanden
-Ei »Bevor Sie sterben, möchte ich Sie einfand fragen,
+»Oh, Mr. Schraut kann sich dafür jetzt selbst die Todesart
+auswählen,« höhnte Greebrac, der wieder genau so
+aussah, wie er mir im Myntor-Palais gegenübergestanden
+hatte. »Bevor Sie sterben, möchte ich Sie einiges fragen.
 <@pagebreak/>
-Da! der superkluge Harst mein Haus durchsucht? — Antworten
+Hat der superkluge Harst mein Haus durchsucht? — Antworten
 Sie doch! — Nun — sicherlich hat er’s getan. Und
-doch übersät er den Taubeustall im Hofgebäude und die
-Brieftauben darin, von denen drei meinem Freunde Bruders
+doch übersah er den Taubenstall im Hofgebäude und die
+Brieftauben darin, von denen drei meinem Freunde Brackpoll
 die Warnung zutrugen, als ich merkte daß man die
-Depesche nicht hatte abagchen lassen —«
+Depesche nicht hatte abgehen lassen —«
 
 »Dann zweitens, Mr. Schraut: weiß Harst, wer ich bin?
 Ahnt er es wenigstens? Hat er jemals das Verbrecheralbum
 von Scotland Yard in Händen gehabt, wo in Band
-eins die »Kanonen« zu sehen sind, die ganz großen Künust-ler
+eins die »Kanonen« zu sehen sind, die ganz großen Künstler
 im Kampf gegen fremdes Eigentum? Wenn er es in
 Händen gehabt hätte, würde er vielleicht auf das Bild von
-Hoftor Austin Carbreeg aufmerksam geworden sein. Das
+Doktor Austin Carbreeg aufmerksam geworden sein. Das
 ist ein ganz junger Londoner Arzt gewesen, der schon als
 Student sich zum vielseitigen Verbrecher ausgebildet hatte
-und der dann eine Baute von Gleichgesinnten um sich ver-samnielte,
+und der dann eine Bande von Gleichgesinnten um sich versammelte,
 mit deren Hilfe er unter anderem die Bank von
 England um fünf Millionen erleichterte. Als man ihm dann
-auf die Spur kam, verschwand er, fälschte feine Papiere und
+auf die Spur kam, verschwand er, fälschte seine Papiere und
 ließ sich in Bombay als Greebrac nieder, nachdem er dafür
-erregt hatte, daß alle Welt ihn für tot hielt. Seit acht
-ren wilde ich nun hier in Indien, Mr. Schraut. Als
+gesorgt hatte, daß alle Welt ihn für tot hielt. Seit acht
+Jahren wirke ich nun hier in Indien, Mr. Schraut. Als
 Sie und Harst hier den großen Warbatty jagten, hielt ich
-mich etwas zurück. Dann jedoch mehrten sich die Wickelte,
-Raubanfälle und so weiter. Kurz, ich bin. derselbe
-artig Garbreeg, der einst der Schrecken Englands war, ich
-bin derselbe Carbreea, der es versteht, fünf Leben gleich
-¿fing zu leben. So zum Beispiel gibt es gar keinen Tom
-cadpoll. Ich bin Brackpoll, der so selten seine Plantage
+mich etwas zurück. Dann jedoch mehrten sich die Diebstähle,
+Raubanfälle und so weiter. Kurz, ich bin derselbe
+Austin Carbreeg, der einst der Schrecken Englands war, ich
+bin derselbe Carbreea, der es versteht, fünf Leben gleich-
+zeitig zu leben. So zum Beispiel gibt es gar keinen Tom
+Brackpoll. Ich bin Brackpoll, der so selten seine Plantage
 Gurrasawa besucht, dessen Schwester aber auf der Plantage
-wohnte und Lydia -Ramand bewachte. Gewiß - es wäre
-für Hart ein großer Fang gewesen, wenn er mich entlarvt
+wohnte und Lydia Ramand bewachte. Gewiß -- es wäre
+für Harst ein großer Fang gewesen, wenn er mich entlarvt
 hätte, wenn er meine Leute gleichfalls an den Galgen gebracht
-hätte. Es wird nie geschehen. » Die Jultelligenz eines
-Warbatty-‘Palperlon war zu gering zum Kampfe gegen Fix
-[ren Freund. Die meinige reichte aus. Harst ist tot!«
+hätte. Es wird nie geschehen. Die Intelligenz eines
+Warbatty-Palperlon war zu gering zum Kampfe gegen Ihren
+Freund. Die meinige reichte aus. Harst ist tot!«
 
-Er sprach die lebten Worte mit einem leichten Achsel-widen.
+Er sprach die letzten Worte mit einem leichten Achselzucken.
 
 »Er hätte eben auf die Warnungen hören sollen,« fügte
-22 hinzu.
+er hinzu.
 
 <@pagebreak/>
-Y, Und — im selben Moment geschah etwas sehr sendet
+Und — im selben Moment geschah etwas sehr sonder-
 bares.
 
-Durch ein Loch des Baches dieser Halle, eines ‘uralter
-unbenutzten Tempels, flatterte ein grober buntichillernber
+Durch ein Loch des Daches dieser Halle, eines uralten,
+unbenutzten Tempels, flatterte ein grober buntschillernder
 Schmetterling matt herab, fiel mir gerade in den Schoß und
-verendete unter zitternden Flügelschläge:;.
+verendete unter zitternden Flügelschlägen.
 
-Es war einer jener tropischen Biefenichmetierfinge,
-deren Srlüneldeden wie goldene Kreise schimmern.
+Es war einer jener tropischen Riesenschmetterlinge,
+deren Flügeldecken wie goldene Kreise schimmern.
 
 Ich hatte den Kopf unwillkürlich vorgebeugt, blickte
 auf das tote Tierchen herab.
 
 Und — sah — sah —
 
-Da sprach Austin Greebrac schon mit Ironischem Mitleid:
+Da sprach Austin Greebrac schon mit ironischem Mitleid:
 
-»Ihr Schicksal zeigt Ahnen dieser Kalter an, x.
-Schraut. — Wie wollen Sie Dr Eine u Bann Gift?
-Oder ein Strick um den Hals Wählen
+»Ihr Schicksal zeigt Ihnen dieser Falter an, Mr.
+Schraut. — Wie wollen Sie sterben? Eine Kugel? Gift?
+Oder ein Strick um den Hals? -- Wählen Sie!"
 
-È ich schaute Greebrac an. Mein Herz log
+Ich schaute Greebrac an. Mein Herz jagte.
 
-Nur schlau fein fort! Nur nicht merken lassen, wie
+Nur schlau sein jetzt! Nur nicht merken lassen, wie
 die Freude das Blut schneller durch die Adern treibt!
 
 »Ich weiß, daß Sie mich nicht schonen werden,
-schonen dürfen! Eine Bitte habe ich aber, bevor ich — Ei
-schlucke — freiwillig: ich möchte Lydia Ramand ein erste
-Bars Mal sehen! Lydias wegen ist Harst gestorben, Lydias
-wegen muß ich dem Dasein lebewohl sagen, Weine Bitte
-il begreife, Ww
+schonen dürfen! Eine Bitte habe ich aber, bevor ich — Gift
+schlucke — freiwillig: ich möchte Lydia Ramand ein einziges
+Mal sehen! Lydias wegen ist Harst gestorben, Lydias
+wegen muß ich dem Dasein lebewohl sagen. Meine Bitte
+ist begreiflich."
 
-Sunda. lächelte er eisig. »Sie wollen einen
-van per Hinrichtung erwirken. Sie hassen, rot
-Heben zu »können, Ich würde Ei v4 Bitte ablehnen, wenn
-Hie Sie auch nur die geringste Aussicht bestände zu entkommen.
+"Sie sind schlau," lächelte er eisig. »Sie wollen einen
+Aufschub der Hinrichtung erwirken. Sie hoffen, entfliehen
+zu können. Ich würde diese Bitte ablehnen, wenn
+für Sie auch nur die geringste Aussicht bestände zu entkommen.
 Da dies nicht der Fall ist, sage ich: Ja — Sie sollen
 Lydia Ramand sehen — noch heute!«
 
 Adi, seine Schwester, machte eine unwillige Handbewegung.
 
-»Das ist ein Unsinn, Austin! »Wozu das?! Beruht
-nicht, »daß wir vorsichtig sein müssen.«
+»Das ist ein Unsinn, Austin! Wozu das?! Vergiß
+nicht, daß wir vorsichtig sein müssen.«
 
 Er rief schon den Chinesen herbei.
 
 »Lipahu, Mr. Schraut wünscht, uns nach dem Felsentempel
-von Éllora begleiten zu dürfen. Mir brechen In gebar
+von Ellora begleiten zu dürfen. Wir brechen in zehn
 Minuten auf!«
 
-Das Schlibaeficht verzog sich zur Teufelsfratze.
+Das Schlitzgesicht verzog sich zur Teufelsfratze.
 
-»ich weiß, Sahib, — der Tiger!« nickte er.
+»Ich weiß, Sahib, — der Tiger!« nickte er.
 
 <@pagebreak/>
 »Nicht doch, Lipahu! Mr. Schraut hat sich für Gift
-entschieden,« — »irre Dreckige. »Scher’ Ei jetzt.  Bereite
+entschieden,« — meinte Greebrac. »Scher’ Dich jetzt. Bereite
 alles vor. Bring’ mir den kleinen Koffer.«
 
-Ich wurde Benutze, wie die Geschwister sich jetzt in kurzem
-in zwei Singhalesinnen verwandelten, wie sie ihre Gefärbten
+Ich wurde Zeuge, wie die Geschwister sich jetzt in kurzem
+in zwei Singhalesinnen verwandelten, wie sie ihre Gesichter
 und Schleier vor die braunen Wangen
-Anden.
+banden.
 
-Und — in Verslein Schoße lag noch immer der arme
-schillernde Falter, auf dessen Flügel innen über die gefrorenen
-Ringe je ein kaum benterkbares großes lateinisches
-mit M Tintenstift gemalt war.
+Und — in meinem Schoße lag noch immer der arme
+schillernde Falter, auf dessen Flügel innen über die goldenen
+Ringe je ein kaum bemerkbares großes lateinisches H
+mit einem lila Tintenstift gemalt war.
 
 Ein H —!
 
@@ -2142,606 +2143,608 @@ Harst — H — Harst — Harald Harst — auf jedem
 Flügel ein H!
 
 Er lebte! Jetzt wußte ich, weshalb er im Wasser um
-Hilfe grasen hatte und dann versunken war.
+Hilfe gerufen hatte und dann versunken war.
 
-Ich konnte mir die Szene ganz deutlich ausmalen. (Dr
-war, als er feine andere Rettung sah, ins Wasser achırın-gen
-— vielleicht neben ein soeben anfgetauchtes Krokodil.
-Und dann hatte er den Tod durch die agcpanzerte Bestie mit
-scheuen Geschicklichkeit vorgetäuscht, die ihm allein einen. —
+Ich konnte mir die Szene ganz deutlich ausmalen. Er
+war, als er keine andere Rettung sah, ins Wasser gesprungen
+— vielleicht neben ein soeben aufgetauchtes Krokodil.
+Und dann hatte er den Tod durch die gepanzerte Bestie mit
+jener Geschicklichkeit vorgetäuscht, die ihm allein eigen. —
 
 Er lebte! Das war die Hauptsache. Er lebte und lag
-oben auf dem Dache. - Mr
+oben auf dem Dache.
 
 Ich konnte mir ihn vorstellen da oben: die Clement in
 der Hand, jeden Moment bereit, diese Schurken hier niederzuknallen,
 falls sie mich hätten umbringen wollen! —
 
-Lipahu kam und meldete, daß der Wagen bereit sel,
+Lipahu kam und meldete, daß der Wagen bereit sei.
 
 Adi warf mir einen bösen Blick zu. Dieses Weib war
 gefährlicher als der Bruder.
 
-Dann erschien Tamar Dach, der Athlet, hob mich empor
-und trug mich ins. Freie und in einen der landesüblichen
-Ochsenwagen,« wo ich in einem Winkel des Wagenkastens
+Dann erschien Tamar Dak, der Athlet, hob mich empor
+und trug mich ins Freie und in einen der landesüblichen
+Ochsenwagen, wo ich in einem Winkel des Wagenkastens
 unter Decken versteht wurde, nachdem der Inder mir noch
 einen Knebel in den Mund gepreßt und ihn im Genick festgebunden
-hatte. M ¡
+hatte.
 
 Das plumpe Gefährt rollte eine holprige Bergstraße
 entlang.
 
-Adi und ihr Bruder saßen im Wagen unter dem Bot«
-Sonnendach. ch hörte sie frech;en, Die beiden Inder und Der
-Chinese schienen in Nr u! neben
+Adi und ihr Bruder saßen im Wagen unter dem
+Sonnendach. Ich hörte sie sprechen. Die beiden Inder und der
+Chinese schienen zu Fuß zu gehen.
 
 <@pagebreak/>
 Manches verstand ich, was die beiden verhandelten. Ich
-mir aus diesen Bruchstücken leicht das Fehlende er
-ganzen.
+konnte mir aus diesen Bruchstücken leicht das Fehlende er-
+gänzen.
 
 Es ging um Lydia. Adi verlangte, daß man jetzt endlich
 Ernst mache.
 
-»Sie hat, denke ich, acnmug gehungert,« erwiderte Greebrac.
+»Sie hat, denke ich, genug gehungert,« erwiderte Greebrac.
 »Sie verrät nichts, und wenn wir sie töten würden.«
 
-Lächerlich! Gibt es nicht bessere Mittel?! Rest, wo
-sie Revier in den Gewölben des Steins ist, braucht
-man sie nur mit dem Tiger zusammen eine, Nacht einen.
-sperren — so, daß die Bestie sie nicht erreicht
+"Lächerlich! Gibt es nicht bessere Mittel?! Jetzt, wo
+sie ohnedies in den Gewölben des Felsentempels ist, braucht
+man sie nur mit dem Tiger zusammen eine Nacht einzu-
+sperren — so, daß die Bestie sie nicht erreicht."
 
 »Meinst Du?! Da kennst Du sie schlecht! Auch das
 bringt uns nicht weiter. Ich — weiß etwas Besseres —«
 
-Er Latte schrill.
+Er lachte schrill.
 
 »Wir werden Schraut das Leben schenken, wenn sie
 endlich das Geheimnis ihres Vaters Preis gibt. Wir werden
 ihr vorhalten, daß Schraut sich befreien wollte und daß
-es ihre Pflicht sei, ihn dadurch zu retten, daß, sie endlich
+es ihre Pflicht sei, ihn dadurch zu retten, daß sie endlich
 verrät, wo ihr Vater die fünf goldenen Buddhastatuen vergraben
 hat — oder sonstwie verborgen.«
 
 »Austin — die Idee ist einzig!«
 
-Zumal Schraut nallirlich nachher doch sterben wird —
-und sie mit ihre!« höhnte er.
+"Zumal Schraut natürlich nachher doch sterben wird —
+und sie mit ihm!« höhnte er.
 
 »Das ist selbstverständlich!«
 
-Star Verarge wir Indien, Adi, und gehen mach
-Amerika —
+"Dann verlassen wir Indien, Adi, und gehen nach
+Amerika —"
 
 »Wo Du auch das Gold der Statuen verspielen wirst
 Du — Du Schwächling!«
 
 Er schwieg dazu. —
 
-Razzia — ein Spieler sollte er ja sein, das hatte Schwer
-betont
+Ja — ein Spieler sollte er ja sein, das hatte Boßwell
+betont.
 
 »Das Spiel ist noch das einzige, was mich aufregt,«
 sagte er nun. »Es ist besser als Weiber und Sekt. Es ist
-ein Jungbrunnen für mich. Im Sþiel schöpfe ich | neue
-Kräfte — zu neuen Taten! Haft Du schon gedacht, Adi,
+ein Jungbrunnen für mich. Im Spiel schöpfe ich neue
+Kräfte — zu neuen Taten! Hast Du schon gedarbt, Adi,
 weil ich Spieler bin? Hast Du nicht stets alles im Ueberfluß
-gehabt? Folgtest Du nicht auf der Plantage wie
+gehabt? Wohntest Du nicht auf der Plantage wie
 eine indische Fürstin?«
 
-Beil ich ch das Geld zufanımenhicht, das. mir auffand.«
+"Weil *ich* das Geld zusammenhielt, das mir zustand.«
 
 Da schwieg er wieder. —
 
 <@pagebreak/>
 Also um fünf goldene Statuen ging es hier. Fraglos
 um Statuen, die Doktor Ramand, Lydias Vater, einst
-irgendwo in einem ruinenhaften Tempel im mein Ceylons
-cnitdeckt haben Modelle.
+irgendwo in einem ruinenhaften Tempel im Innern Ceylons
+entdeckt haben mochte.
 
-Aber - wie hatte Austin Greebrac hiervon Kenntnis
+Aber -- wie hatte Austin Greebrac hiervon Kenntnis
 erhalten? Wie nur? Etwa durch Albert Dracon? Dracon
-wär iá mit Lydia befreundet gewesen. Ob sie ihm
+wär ja mit Lydia befreundet gewesen. Ob sie ihm
 die Hälfte des Geheimnisses freiwillig als Kind anvertraut
-hatte? Lb sie ihm erzählt hatte, daß ihr Vater ihr einst
-von diesen Statuen. verharrt halte, die er gefunden und
+hatte? Ob sie ihm erzählt hatte, daß ihr Vater ihr einst
+von diesen Statuen berichtet hatte, die er gefunden und
 für sich irgendwo verborgen hatte?
 
-&s wunde wohl so sein. Boy Dracon hatte Greebrac
-dies alles erfahren, und: dann hatten sie Lydia entführt, das
-mit sie sich Bringen könnten, ihnen den Ort zu verraten,
-wo die Statuen hinaeschasst worden waren. —
+Es mußte wohl so sein. Von Dracon hatte Greebrac
+dies alles erfahren, und dann hatten sie Lydia entführt, da-
+mit sie sie zwingen könnten, ihnen den Ort zu verraten,
+wo die Statuen hingeschafft worden waren. —
 
-Weiter und weiter  Humpelte der Ocbsemwagen | —
-Rundenlana.
+Weiter und weiter rumpelte der Ochsenwagen —
+stundenlang.
 
-Einsame Berapfade zog er dahin, denn nur Selten der
-Gegners uns ein anderes Gefährt.
+Einsame Bergpfade zog er dahin, denn nur selten begegnete
+uns ein anderes Gefährt.
 
 Wo mochte Harald sein, wo nur?! Ob er uns folgte?
-Ob er uns vorausagceilt war? Ob er etwa irgendwo aus
-einer Ortschaft Hilfe holte?. —
+Ob er uns vorausgeeilt war? Ob er etwa irgendwo aus
+einer Ortschaft Hilfe holte? —
 
-Der Wagen fuhr ist über weichen Waldboden. Wohl
-eine halbe Erde, Dann hielt er.
+Der Wagen fuhr jetzt über weichen Waldboden. Wohl
+eine halbe Stunde. Dann hielt er.
 
-Eine fremde Zlimmme meldete Greebrac:
+Eine fremde Stimme meldete Greebrac:
 
-»Sahib, es ist altes in Ordnung, Das Mädchen ist
-hier. »Die Gebäude der Plantage sie niedergebrannt, Biß
-Achse Zuwelenlasten steht unten in der Vorhalle.«
+»Sahib, es ist alles in Ordnung. Das Mädchen ist
+hier. »Die Gebäude der Plantage sie niedergebrannt. Miß
+Adis Juwelenkasten steht unten in der Vorhalle.«
 
 <h2>3. Kapitel.</h2>
 <h3>Der Fürst der Nacht.</h3>
 
 Wir waren also am Ziele angelangt.
 
-Eiern! — Sie Höhlentempel von Ellora in zerrten
-sind berühmt — weltberühmt. Von Ellora-Felseuteuwpeln
-aus Ceylon hatte ich noch nie etwas gelesen.
+Ellora! — Die Höhlentempel von Ellora in Indien
+sind berühmt — weltberühmt. Von Ellora-Felsentempeln
+auf Ceylon hatte ich noch nie etwas gelesen.
 
-Man entfernte die Decken., Der Athlet hob ins aus
-Den Wagen.
+Man entfernte die Decken. Der Athlet hob mich aus
+dem Wagen.
 
 <@pagebreak/>
-Eine Uctwaldlichtung. Am Osten die Sonne im Sinn.
+Eine Urwaldlichtung. Im Osten die Sonne im Sinken.
 Der Abend nahte.
 
 Auf der Lichtung ganze Hügel von Steintrümmern,
-ist Das umgeben, dicht eingesponnen in stachlige
-Kanten. ¿
+mit Unkraut umgeben, dicht eingesponnen in stachlige
+Ranken.
 
 Vor einem solchen Hügel stand der Wagen. Und in
-See Düne Hallte ein acwölbtes Loch, lief schräg in die
+diesem Hügel klaffte ein gewölbtes Loch, lief schräg in die
 Tiefe hinab. —
 
-Die beiden oder, der Chinese Lipahu und zwei braune
-Kerle, von Schwur Haltend, Weddas offenbar, hatten las
+Die beiden Inder, der Chinese Lipahu und zwei braune
+Kerle, von Schmutz starrend, Weddas offenbar, hatten rasch
 Harzfackeln angezündet.
 
-Austin nahm eine der tadeln.
+Austin nahm eine der Fackeln.
 
-Bringe die Koffer hinab,« befahl er.
+"Bringe die Koffer hinab,« befahl er.
 
 Dann löste er mir die Fußfesseln, entfernte den Knebel.
 
 »Mr. Schraut, ich würde Ihnen raten, sich die Sonne
 noch zum letzten Mal recht genau anzusehen.«
 
-Seh blickte wirklich nach den schillernden Strahlen bin,
+Ich blickte wirklich nach den schillernden Strahlen hin,
 die durch die Kronen der Urwaldriesen funkelten.
 
-Sie scheinen sich in Uhr Schicksal ergeben zu haben,«
+"Sie scheinen sich in Ihr Schicksal ergeben zu haben,«
 sagte Austin wieder.
 
 »Das habe ich.«
 
-Gut. Folgen Sie mir!«
+"Gut. Folgen Sie mir!«
 
 Er schritt in den dunklen Schlund hinein. Hinter mir
 her kam Adi, mit zwei Fackeln.
 
 Austin wandte den Kopf.
 
-»Boy der Existenz dieses Felsentempels wissen Kurz
-Weddas etwas, Mr. Schraut. Sie hüten dieses he
-gesinnte wie manches: andere, zum Beispiel das der Zug
-ammensevung ihres Pfeilgiftes namens Lipara. Die Wirkung
+»Von der Existenz dieses Felsentempels wissen nur
+die Weddas etwas, Mr. Schraut. Sie hüten dieses Geheimnis
+wie manches andere, zum Beispiel das der Zusammensetzung
+ihres Pfeilgiftes namens Lipara. Die Wirkung
 kennt man. Nicht wahr, Mr. Schraut? Sie doch auch?
-Grazie sagten ja, wie Harst trotz des Aussaugens der Wunde
-durch Sie schwach wurde, Nun — die ganze Wirkung
-Wird Sie schmerzlos sterben lassen!«
+Sie sagten ja, wie Harst trotz des Aussaugens der Wunde
+durch Sie schwach wurde. Nun — die ganze Wirkung
+wird Sie schmerzlos sterben lassen!«
 
 Das war kein Teufel, dieser Mensch! Das war mehr
-ls ein Satan, das war eine Bestie von Grausamkeit, ein
-Anlief von
+als ein Satan, das war eine Bestie von Grausamkeit, ein
+Untier von Tücke!
 
 Der schräge Tunnel hatte plötzlich ein Ende.
 
-— Ringsum kahler Fels, ringsum an den dunklen Wänden
-gräßlich bemalte Götzenbilder, über deren Scheußlich-it
-das flackernde Fackellicht hintanäte.
+Ringsum kahler Fels, ringsum an den dunklen Wänden
+gräßlich bemalte Götzenbilder, über deren Scheußlichkeit
+das flackernde Fackellicht hintanzte.
 
 <@pagebreak/>
 »Nicht wahr, Mr. Schraut, wer hierher kommt, denkt:
 nun ist die Welt mit Brettern vernagelt!« sagte Austin. »Es
 scheint nur so. Geben Sie acht!«
 
-Er trat an den einen Gängen heran, drehte ihn auf dem
-Postamenut zweimal um sich selbst.
+Er trat an den einen Götzen heran, drehte ihn auf dem
+Postament zweimal um sich selbst.
 
-Da verjagt an der Hinterwand ein zackiges Bodenstück.
+Da versank an der Hinterwand ein zackiges Bodenstück.
 
 Und — da sank auch mir plötzlich der Mut —!
 
-Wie sollte Harald mir hier zu Hilfe Vornamen?! Wie
-falte er entdecken, daß von diesen etwa achtzehn Götzen gerade
+Wie sollte Harald mir hier zu Hilfe kommen?! Wie
+sollte er entdecken, daß von diesen etwa achtzehn Götzen gerade
 dieser eine gedreht werden müßte, daß dann erst das
 Loch im Felsboden sich öffnete?!
 
-Adi Greebrac stieg lau eine für mich noch unsichtbare
+Adi Greebrac stieg schon eine für mich noch unsichtbare
 Treppe hinab.
 
-Heiße, stickige Luft Flug mir entgegen, als ich nun am
-eben Rand des Loches trat. Ob ich je wieder hier stehen
-würde? Ob ich die Sonne wirklich zum lebten Mal geschaut
+Heiße, stickige Luft schlug mir entgegen, als ich nun an
+den Rand des Loches trat. Ob ich je wieder hier stehen
+würde? Ob ich die Sonne wirklich zum letzten Mal geschaut
 hatte?
 
-Eine schier endlose. Zickzacktreppe führte in einem
+Eine schier endlose Zickzacktreppe führte in einem
 regelmäßig weiten Schachte abwärts. Eine Treppe von
-Steinblöcken, schmal, ohne Geländer. Wer hier nicht schoin-delfrei
-war, sauste hinab, brach alle Narren.
+Steinblöcken, schmal, ohne Geländer. Wer hier nicht schwindelfrei
+war, sauste hinab, brach alle Knochen.
 
 Hinter mir höhnte Austin:
 
 »Haben Sie Angst? Nur vorwärts! Lassen Sie sich
-durch Lydias Doppelgängerin nicht verhauen!«
+durch Lydias Doppelgängerin nicht beschämen!«
 
 Mit gefesselten Händen — rechts die grausige Tiefe.
 
 Ein Stolpern — und ich war verloren!
 
-Ich biß die Zähne zusammen. Und — kam gräflich
+Ich biß die Zähne zusammen. Und — kam glücklich
 unten an.
 
-Alle Wunder allindiscer Baukunst taten sich vor mir
+Alle Wunder altindischer Baukunst taten sich vor mir
 auf; Märchenträume wurden verwirklicht, wurden zu den
 erhabenen, phantastischen Formen eines aus weißem und
 schwarzem Marmor erbauten Tempels, den ich im Scheine
 zahlloser brennender Fackeln durch einen trichterförmig sich
-erweiternden Eingang in einer riesigen Höhle gut dDreibune
-Albert Meter entfernt vor mir gab.
+erweiternden Eingang in einer riesigen Höhle gut dreihundert
+Meter entfernt vor mir sah.
 
-Die Fackeln waren in die Riffe der Relswände bineln-aebrildt,
-brannten mit Maler Alanıme. Es waren Nil
-bestens zweihundert.
+Die Fackeln waren in die Risse der Felswände hineingedrückt,
+brannten mit klarer Flamme. Es waren mindestens
+zweihundert.
 
 »Ich habe mir erlaubt, Sie würdig zu empfangen,«
 sagte Austin Greebrac nach einer Weile neben mir.
 
 <@pagebreak/>
-Jeder Hohn aus seiner Stimme war verschwunde1.
-lichte als ein maßloser Stolz klang durch seine Worte.
+Jeder Hohn aus seiner Stimme war verschwunden.
+Nichts als ein maßloser Stolz klang durch seine Worte.
 
 »Dieser Brahmatempel ist zu einer Zeit entstanden,
-als der Buodhiémus in Ceylon den Brahmanismus verbissen
-wollte. Damals grasen gläubige Brahmanen dieses
-Besitztum, wurden dabei unterstübßt von dem Tropfte der
+als der Buddhismus in Ceylon den Brahmanismus vertilgen
+wollte. Damals schufen gläubige Brahmanen dieses
+Besitztum, wurden dabei unterstützt von dem Urvolke der
 Weddas. Hier hielten sie im geheimen dann ihre religiösen
-Feiern ab. In den vielen Jahrhunderten ging kann uaf-nählich
+Feiern ab. In den vielen Jahrhunderten ging dann allmählich
 die Kenntnis, von diesem Felsentempel verloren,
 blieb nur noch als Familiengeheimnis bei einigen Weddas
-bestehen. Und fest — trat ist der Brahmatempel die Nordens
-einer anderen Gottheit, eines anderen was, eile
+bestehen. Und jetzt — jetzt ist der Brahmatempel die Residenz
+einer anderen Gottheit, eines anderen Königs, eines
 Fürsten der Nacht, der Dunkelheit, — *meine* Residenz,
 *mein* Schloß!«
 
-Ich blickte diesen Verbrecher an, der jetzt in der tot
-en Haltung eines Gebieters über Leben und Tod, über
-Heer willenloser Geschöpfe vor mir stand.
+Ich blickte diesen Verbrecher an, der jetzt in der stolzen
+Haltung eines Gebieters über Leben und Tod, über
+ein Heer willenloser Geschöpfe vor mir stand.
 
 Adi Greebrac war verschwunden. Wir beide waren
-Gabeln.
+allein.
 
 »Was ist ein Harst im Vergleich zu mir?!« fügte er
-ach tiefen Atemholen hinzu. »Ein Nichte — ein armseliger
-Tor, der sich König von Genieland dünkt und Die Hebel-Zeugung
+nach tiefem Atemholen hinzu. »Ein Nichts — ein armseliger
+Tor, der sich König von Genieland dünkt und die Ueberzeugung
 seines geistigen Uebergewichts doch nur aus den
 Niederlagen kläglicher Durchschnittsverbrecher geschöpft hat.«
 
-Eine krankhafte Ueberhebung! dachte ich. Und durch:
-diesem Moment hatte Austin Sterbens etwas fast Sims
-jonierendcs in Haltung, Sprache und Gesichtsausdruck. in
-Herein Moment begriff ich, a die Leute, die er sich als
-Sklaven geworben für seine finsterer Pläne, für diesen
-] Bug den Hob gingen, wie es Makri, der Radschpute,
-getan hatte. — »
+Eine krankhafte Ueberhebung! dachte ich. Und doch:
+in diesem Moment hatte Austin Greebrac etwas fast Imponierendes
+in Haltung, Sprache und Gesichtsausdruck; in
+diesem Moment begriff ich, daß die Leute, die er sich als
+Sklaven geworben für seine finsteren Pläne, für diesen
+Mann den Tod gingen, wie es Makri, der Radschpute,
+getan hatte. —
 
 Die aus poliertem Metall offenbar bestehende Flügeltür
-bot Wunberbautertd hatte sich lautlos geöffnet. Eine
-enge farbiger Diener, alle gleich gekleidet in rote Ueberwürfe,
-mit roten, weißinmranbeien Sandalen und weiden
-Gürteln, entquollen dem Eingang. Vier baden trugen einen
+des Wunderbauwerks hatte sich lautlos geöffnet. Eine
+Menge farbiger Diener, alle gleich gekleidet in rote Ueberwürfe,
+mit roten, weißumrandeten Sandalen und weißen
+Gürteln, entquollen dem Eingang. Vier davon trugen einen
 auf Stangen befestigten Elfenbeinsessel. Ihnen voraus
-Schritt ein weißbärtiger Greis. Der Zug ordnete ich rasch,
-Islam auf Greebrac zu.
+schritt ein weißbärtiger Greis. Der Zug ordnete sich rasch,
+kam auf Greebrac zu.
 
-Dieser trat trat zwei Schritte vor. in Halbkreis um
+Dieser trat jetzt zwei Schritte vor. Im Halbkreis um
 <@pagebreak/>
-ihn herum ordneten floh die roten Gestalten. Die Sessel-träger
+ihn herum ordneten sich die roten Gestalten. Die Sesselträger
 ließen ihre Last zu Boden; der Alte und alle übrigen
 verneigten sich dreimal.
 
 »Sei gegrüßt, Sahib!« erklang es in freudigem Ruf,
-den die Deckenwölbung zu einem Zofen von Stimmen berate.
+den die Deckenwölbung zu einem Tosen von Stimmen verstärkte.
 
-»Dr danke Euch!« sagte Greebrac mit einer wahrhaft
+»Ich danke Euch!« sagte Greebrac mit einer wahrhaft
 hoheitsvollen Handbewegung.
 
 Dann bestieg er den Sessel; dann — schlängelte sich ein
 prachtvoller Königstiger durch die Menschenschar, drückte
-ach Kopf an Greebracs Leute und ließ sich den Kopf
-brauen.
+den Kopf an Greebracs Lende und ließ sich den Kopf
+krauen.
 
-Das ganze Bild hatte etwas so Un1virkliches, Traumhaftes
+Das ganze Bild hatte etwas so Unwirkliches, Traumhaftes
 an sich, daß ich mir immer wieder klar machen mußte,
-hier ein wahrhastes Erlebnis von höchster Seltsanuelt
+hier ein wahrhaftes Erlebnis von höchster Seltsamkeit
 durchzukosten.
 
-Dann Hob der Tiger wie witternd den Topf.
+Dann hob der Tiger wie witternd den Kopf.
 
-Seine gelben funkelnder Augen Gespalten mich. Sein
-Leib dulde sich zusammen.
+Seine gelben funkelnder Augen erspähten mich. Sein
+Leib duckte sich zusammen.
 
-»Ardscha, nimm ihn!« befahl Greebrac. zl
+»Ardscha, nimm ihn!« befahl Greebrac.
 
 Der Alte packte den Tiger an einem Ohr und führte
 ihn in den Tempel zurück.
 
 Der Zug setzte sich in Bewegung. Die metallne Flügeltür
-schloß sich hinter dem lebten der Diener.
+schloß sich hinter dem letzten der Diener.
 
-20 war zurückgeblieben. Niemand hatte mich weiter
-Dachtet.
+Ich war zurückgeblieben. Niemand hatte mich weiter
+beachtet.
 
 Minutenlang stand ich und überlegte.
 
-Wenn ich jetzt Die Treppe wieder emporeilte, wenn
+Wenn ich jetzt die Treppe wieder emporeilte, wenn
+ich --
 
 Doch nein! — Mein Blick war rückwärts in dem
-Schacht der Treppe empor geglitten. Ich sah, wie dort oben
+Schacht der Treppe emporgeglitten. Ich sah, wie dort oben
 das zackige Loch, als heller Fleck erkennbar, sich immer mehr
 verkleinerte, sich wieder füllte mit dem Deckel, der vorhin
 versunken war.
 
 Nein — daß ich auf diese Weise nicht flüchten konnte,
-war gewiß! Ich hätte nur Greebracs Hohn he. usge—fordert.
+war gewiß! Ich hätte nur Greebracs Hohn herausgefordert.
 
-Langsam betrat ich Die Biefenbüble.
+Langsam betrat ich die Riesenhöhle.
 
-Der Hauch der Nadeln vereinigte sich oben zu wallenden
+Der Rauch der Fackeln vereinigte sich oben zu wallenden
 Gebilden. Und über diesen Wolken von Rauch schimmerte
 <@pagebreak/>
-es bei! wie die Sonne, die hinter Dunstmassen Dr
+es hell wie die Sonne, die hinter Dunstmassen scheint.
 
-Dort oben also befand sich eine Fortgang in der Hö landete;
+Dort oben also befand sich eine Oeffnung in der Höhlendecke;
 dort zog der Qualm ins Freie.
 
-Da — der helfe leck verengerte sich.
+Da — der helle Fleck verengerte sich.
 
-Da war etwas, das wie eine Riefenfpinne in den
-nachschauten sich bewegte: ein Mann an einem Seil!
+Da war etwas, das wie eine Riesenspinne in den
+Rauchschwaden sich bewegte: ein Mann an einem Seil!
 
-Ein Mann — ein Au der heimlich hier eindringen
-Rotte: Harst — Harst!
+Ein Mann — ein Mensch der heimlich hier eindringen
+wollte: Harst — Harst!
 
-ch senkte rasch den Kopf, ging weiter. Nur niemand
-entsann machen auf das, was dort in der Höhe vors
-ging
+Ich senkte rasch den Kopf, ging weiter. Nur niemand
+aufmersam machen auf das, was dort in der Höhe vor-
+ging!
 
-Um erben Tenıbelbforte blieb ich fielen.
+Vor der Tempelpforte blieb ich stehen.
 
-Mit einem Male hinter mir die Stimme Adi. Greebracs
-— bohnaetränft, erfüllt von Schadenfreude:
+Mit einem Male hinter mir die Stimme Adi Greebracs
+— hohngetränkt, erfüllt von Schadenfreude:
 
 »Sie hätten nicht so überrascht zur Deckenöffnung
-empor starren sollen, Mr. Schraut. Am übrigen haben wir
-- überall Alarmvorrichtungen. Ihr listenreicher Freund mag
-Krokodiltod sehr geschickt uns vorgetäuscht haben. Nun
+empor starren sollen, Mr. Schraut. Im übrigen haben wir
+überall Alarmvorrichtungen. Ihr listenreicher Freund mag
+den Krokodiltod sehr geschickt uns vorgetäuscht haben. Nun
 wird er —«
 
 Mein gellender Warnungsschrei zerriß den begonnenen
-Gab:
+Satz:
 
-»Harald — zankt! per -.
+»Harald — zurück! Zurück!"
 
-Adi lächelte — lächelte mich
+Adi lächelte — lächelte mich an.
 
-Die da so ein Lächeln auf einem Mädchengesicht die
-»ganze Gemeinheit einer verworrener Seele widerspiegeln
-Bann! Und — wie llebrelzend hatte Ich liefe Komödiantin
-»zuerst gesunder, als wir sie aus dem ‘Wasser gezogen hohe
-»ten, als sie uns dankte und — dabei schon den Sprengkörper
-in ihren Kleidern verborgen trug, mit dem fix uns
-»in der Korkte töten Ade
+Wie doch so ein Lächeln auf einem Mädchengesicht die
+ganze Gemeinheit einer verworfenen Seele widerspiegeln
+kann! Und — wie liebreizend hatte ich diese Komödiantin
+zuerst gefunden, als wir sie aus dem Wasser gezogen hatten,
+als sie uns dankte und — dabei schon den Sprengkörper
+in ihren Kleidern verborgen trug, mit dem sie uns
+in der Kajüte töten wollte.
 
-»Au spät, Mr. Schraut, — zu spät!« sagte sie. »kommen
-Sie — zehn Schritt weiter anno, damit Sie das Dach
+»Zu spät, Mr. Schraut, — zu spät!« sagte sie. »Kommen
+Sie — zehn Schritt weiter zurück, damit Sie das Dach
 des Tempels überblicken können.«
 
-Da Mir war das Blut in den Adern wie gefroren vor
+Mir war das Blut in den Adern wie gefroren vor
+Schreck.
 
-ha halber Mein folgte ich ihr.
+In halber Betäubung folgte ich ihr.
 
-Und stierte nach oben,
+Und stierte nach oben.
 
-Da waren liebt drei — vier Riesenspinnen.
+Da waren jetzt drei — vier Riesenspinnen.
 
-H: Eine, die am tiefsten hing, war Harald. Er hatte die
-Biene bereits passiert.
+Eine, die am tiefsten hing, war Harald. Er hatte die
+Rauchwolke bereits passiert.
 
 <@pagebreak/>
 Und über ihm schwebten drei andere Männer. Ich erkannte
-Tamar Balz herkulische Gestalt, erkannte den blitzenden
+Tamar Daks herkulische Gestalt, erkannte den blitzenden
 Revolver in seiner Rechten.
 
-Auf den flachen Tempeldache aber zwischen den vier
-Ecffuppeln stand inmitten eines Stützende seiner Diener der
-Für der Jacht — Austin Greebrac — eine Büchse hoch im
+Auf dem flachen Tempeldache aber zwischen den vier
+Eckkuppeln stand inmitten eines Dutzends seiner Diener der
+Fürst der Nacht — Austin Greebrac — eine Büchse hoch im
 Anschlag.
 
-»Seine Stimumie klang wie ein Dröhnen, als er nun rief:
+Seine Stimme klang wie ein Dröhnen, als er nun rief:
 
-»Ach heiße Sie willkommen, Fix. Harst! Bemühen Sie
-sich an Ihrem selbstgeflochtenen Lianentan nur liefen herab!«
+»Ich heiße Sie willkommen, Mr. Harst! Bemühen Sie
+sich an Ihrem selbstgeflochtenen Lianentau nur tiefer herab!«
 
-Adi wandte den Topf. »Sie Dünnen »Ihren Freund
-gleich oben auf dem Dache begrüßen. — ihre — mir voran!
+Adi wandte den Topf. »Sie können Ihren Freund
+gleich oben auf dem Dache begrüßen. — Bitte — mir voran!
 Die Tempeltür linker Hand ist offen.«
 
-Namenloser Grimm würgte mir Die Stehle enger.
+Namenloser Grimm würgte mir die Kehle enger.
 
-»Sie — Sie Teufelin!« cœirgelte ich, Mr
+»Sie — Sie Teufelin!« gurgelte ich.
 
 »Meinetwegen bleiben Sie auch hier!« Und sie schritt
-linke um nun keunderwawiurrt herum, verschwand.
+links um das Wunderbauwerk herum, verschwand.
 
-Die Knie begannen nie zu zittern. Die Pferden verfaulen.
-Ja fdnpantte zu den Stuten der Marmeortreppe
-vor der Hauptpforte, sank dort aus das fühle Gestein.
+Die Knie begannen mir zu zittern. Die Nerven versagten.
+Ich schwankte zu den Stufen der Marmortreppe
+vor der Hauptpforte, sank dort auf das kühle Gestein.
 
-Also verloren« — wirklich verloren! Auch Harst gefangen!
+Also verloren — wirklich verloren! Auch Harst gefangen!
 
 Nochmals ein Anfall sinnloser Wut. Ich zerrte an den
-Fesseln. ch malt;te — mußte die Hände frei bekommen!
+Fesseln. Ich mußte — mußte die Hände frei bekommen!
 Ich spürte ja noch in der Schlüsseltasche der Beinkleider den
-Druck der 6lementpistole, Ich hatte eine Wasser!
+Druck der Clementpistole. Ich hatte eine Waffe!
 
 Die Vernunft gewann wieder die Ueberhand. Was
-minder mir hier Die neun Schuß der Clement?! Was hat
-es, wenn ich vielleicht ein paar der Diener niebertnalls?
+nutzten mir hier die neun Schuß der Clement?! Was half
+es, wenn ich vielleicht ein paar der Diener niederknallte?
 
-So saß ich und wartete, Saß und dachte an gar nichts
+So saß ich und wartete. Saß und dachte an gar nichts
 mehr. Alles Denken war hier einerlei, war ein Anrennen
-gegen ein Gefängnis, das nur eine Polizeimacht hätte oft
+gegen ein Gefängnis, das nur eine Polizeimacht hätte öff-
 nen können, kein Grübeln, keine Pläne! —
 
-Ein Schritt auf dem harten Gestein, ein elastischer steiler
+Ein Schritt auf dem harten Gestein, ein elastischer freier
 Schritt: Harst!
 
 »Tag, mein Alter!«
 
-ich schnellte Loch.
+Ich schnellte hoch.
 
-»Ungefesselt, Harald®«
+»Ungefesselt, Harald?«
 
-»Ja. Sogar bewaffnet,« nickte er trübe, aber — In
-feinen Augen war ein Leuchten.
+»Ja. Sogar bewaffnet,« nickte er trübe, aber — in
+seinen Augen war ein Leuchten.
 
 <@pagebreak/>
-ch darf Dir auch die Steile abnehmen,« fuhr er
-rt. »Dreckige sagte mir, wir könnten uns bis acht Uhr
+Ich darf Dir auch die Stricke abnehmen,« fuhr er
+fort. »Greebrac sagte mir, wir könnten uns bis acht Uhr
 abends hier in der Grotte frei bewegen. Dann — dann —«
-schwieg
+Er schwieg.
 
 »Dann müssen wir sterben,« ergänzte ich.
 
-»Ja!« Es klang bar! und kalt, so, als ob ein starker
-Karaffen sich in enge Unabänderliches ergeben hat.
+»Ja!« Es klang hart und kalt, so, als ob ein starker
+Charakter sich in etwas Unabänderliches ergeben hat.
 
 Und ebenso hart war nun sein kurzes Auflachen.
 
-»Greebrac holst vielleicht, daß wir in der Schien Nr.
-Gatte um Gnade winseln werden! Er irrt sich! Ich -
+»Greebrac hofft vielleicht, daß wir in der letzten Minute
+um Gnade winseln werden! Er irrt sich! Ich --"
 
-Eine Gestalt war hinter der rechten Tempelecke rar
-getaucht. Harsts plöpliches Verstummen Male mich auf
-zweifle aufmerksam.
+Eine Gestalt war hinter der rechten Tempelecke auf-
+getaucht. Harsts plötzliches Verstummen machte mich auf
+sie aufmerksam.
 
 »Die echte Lydia,« flüsterte Harald.
 
-Man glaubte eine Singbalefin, eine Eingeborene Gen
-sang, vor sich zu haben. Das tiefgebräunte Gesicht, das
-bunte Kovinitch, der mantelartige Ueberwurf, die Sandalen
-an den flc:nen Füßen — alles deutete auf eine Farbige
-bin. Und doch war es eine Europäerin. Das schmale Gefecht,
-die aurüdfbringenden Backenknochen und die Augen
-verrieten er
+Man glaubte eine Singhalesin, eine Eingeborene Ceylons,
+vor sich zu haben. Das tiefgebräunte Gesicht, das
+bunte Kopftuch, der mantelartige Ueberwurf, die Sandalen
+an den kleinen Füßen — alles deutete auf eine Farbige
+hin. Und doch war es eine Europäerin. Das schmale Gesicht,
+die zurückspringenden Backenknochen und die Augen
+verrieten es.
 
-Bald- Teuer, bald wieder mit seltsam hastigen Schritten
-näherte sie sich, stand vor uns. «
+Bald zögernd, bald wieder mit seltsam hastigen Schritten
+näherte sie sich, stand vor uns.
 
-Zwei helle »verängstigte Augen musterten uns.
+Zwei helle verängstigte Augen musterten uns.
 
-»ich — ich — bin Lydia Ramand,« flüsterte sie dann.
+»Ich — ich — bin Lydia Ramand,« flüsterte sie dann.
 »Er — er sagte mir, daß Sie beide mich hätten befreien
-tollen, daß Sie Mr. Harst und Mr. Schraut sind, deren
-Namen mir ja ans den Zeitungen so vertraut waren, Sind
+wollen, daß Sie Mr. Harst und Mr. Schraut sind, deren
+Namen mir ja aus den Zeitungen so vertraut waren. Sind
 Sie es wirklich?«
 
 Ihre schmalen Hände umklammerten Haralds Arm.
 
-Trügen Sie mich nicht,« flehte sie. »Wer sind Sie?«
+"Belügen Sie mich nicht,« flehte sie. »Wer sind Sie?«
 
-Harst und Schraut, Miß.« Haralds Stimme war
-Türkin« und ftreichelnd.
+"Harst und Schraut, Miß.« Haralds Stimme war
+mild und streichelnd.
 
 »Dann — dann, wenn es wahr ist, werden Sie mir
-Steg Anfang von Schillers berühmtestem Gedicht hersagen
-»können. Jeder Deutsche kann es. Ein — ein Ausländer
-selten. Das soll mir der Beweis fein, daß Sie mich nicht
+den Anfang von Schillers berühmtestem Gedicht hersagen
+können. Jeder Deutsche kann es. Ein — ein Ausländer
+selten. Das soll mir der Beweis sein, daß Sie mich nicht
 täuschen.« Ihr Englisch war fließend und fehlerfrei. Sie
-pt in der Gefangenschaft nichts verlernt.
+hatte in der Gefangenschaft nichts verlernt.
 
 <@pagebreak/>
 Und Harald sagte den ersten Vers von Schillers »Glocke«
-Bei. —
+her. —
 
-Er war noch nicht ganz zu Ende, als die R: Anpacken
-fh auffchob.
+Er war noch nicht ganz zu Ende, als die Tempeltür
+sich aufschob.
 
 Adi Greebrac erschien.
 
 »Lydia — hierher! Sofort!« befahl sie.
 
-Neben ihr stand der Tiger, den sie an Halsband hielt.
+Neben ihr stand der Tiger, den sie am Halsband hielt.
 
-Lydia Ramands Gestalt überlief ein Zittern, Aber
-irrte gehorchte. Sie farritt die Marmorfslusen hinan.
+Lydia Ramands Gestalt überlief ein Zittern. Aber
+sie gehorchte. Sie schritt die Marmorstufen hinan.
 
-Am selben Moment fiel mir ein, was ich in dem
-Ochsenkarren erlauscht Hatte,
+Im selben Moment fiel mir ein, was ich in dem
+Ochsenkarren erlauscht hatte.
 
-Wollte Lydia etwa, um uns zu reiten, ihr Geheinutis
+Wollte Lydia etwa, um uns zu retten, ihr Geheimnis
 preisgeben?
 
-Ach besann mich nicht lange.
+Ich besann mich nicht lange.
 
 »Miß Ramand, verraten Sie nichts über die fünf goldenen
-Statuen! Man wird uns trocken: töten!« rief ich
+Statuen! Man wird uns trotzdem töten!« rief ich
 überlaut. »Ich habe Greebrac und Adi vorhin belauscht.
 Es handelt sich —«
 
-Da hatte Adi den Tiger losgelassen, hohe ihm- irgend
-ein Wort zugeraunt — einen Reicht.
+Da hatte Adi den Tiger losgelassen, hatte ihm irgend
+ein Wort zugeraunt — einen Befehl.
 
-Eine gelbe Linie schoß dürr die Luft auf mich.
+Eine gelbe Linie schoß durch die Luft auf mich.
 
-cfu Ich stierte der Bestie entgegen. Ich trat wie zu Stein
-€ rot.
+Ich stierte der Bestie entgegen. Ich war wie zu Stein
+erstarrt.
 
 Harst riß mich zur Seite.
 
-Riß die Clement aus der Tasche,
+Riß die Clement aus der Tasche.
 
-bunter Adi war Austin (verlege aufgetaucht.
+Hinter Adi war Austin Greebrac aufgetaucht.
 
-Boschan — Town! Log! Die!
+"Boschan — down! Leg' Dich!"
 
-Das galt dem Tiger, der Cidónett nach dem beroch«
-blichen Sprunge herungecsahren war, der schon zum neuen
-Sprung aufsetzte, der ‘jetzt aber scheu sich lang nieder tat.
+Das galt dem Tiger, der blitzschnell nach dem verge-
+blichen Sprunge herumgefahren war, der schon zum neuen
+Sprung ansetzte, der jetzt aber scheu sich lang nieder tat.
 
-»Wir haben, andere Mittel, Lydia zum Sprechen zu
-bringen!« sagte Austin zu mich«. Stern Sie Ihre Pistolen
-weg!« Das war an uns gerichtet. »Pistolen mit leere
-Patronenrabnen müden ihnen nichts! — Sie dürfen jetzt
+»Wir haben andere Mittel, Lydia zum Sprechen zu
+bringen!« sagte Austin zu mir. "Stecken Sie Ihre Pistolen
+weg!« Das war an uns gerichtet. »Pistolen mit leeren
+Patronenrahmen nützen ihnen nichts! — Sie dürfen jetzt
 noch eine halbe Stunde mit Lydia Ramand interessante
 Neuigkeiten austauschen.« Seine Stimme höhnte wieder.
 »Dort neben dem steinernen Elefantengötzen an der Grottenwand
-steht eine Steinbank. Dort — durchleben »Sie
-Ihre lebte halbe Stunde. Bitte!« Er verbeugte sich ironisch,
+steht eine Steinbank. Dort — durchleben Sie
+Ihre letzte halbe Stunde. Bitte!« Er verbeugte sich ironisch,
 wies auf die Steinbank und rief den Tiger zu sich heran.
 
 <@pagebreak/>
-Die Doppeltür schloß sich hinter den & n und
-gelben Niefenlape. eséwiker
+Die Doppeltür schloß sich hinter den Geschwistern und
+der gelben Riesenkatze.
 
 <h2>4. Kapitel.</h2>
 <h3>Die fünf goldenen Götzen.</h3>
 
-Lydia Ramand schluchzte
+Lydia Ramand schluchzte.
 
 »Kommen Sie, Miß,« bat Harald und berührte ihren
 cm. »Kommen Sie. Lassen Sie uns die Feil nützen —
