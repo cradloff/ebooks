@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">ac71b97e-7ce1-11ea-8c67-3ffa235ffc70</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Giftpfeil des Wedda</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">81</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Giftpfeil des Wedda.
+
+Es war am 14. Februar, als Harst beim Frühstück auf der Westterrasse Miß Honoria fragte, ob Albert Dracon (das war ja der Name des großen Verbrechers, der Honoria um die Erbschaft hatte betrügen wollen) ihr gegenüber, als sie beide noch Freunde gewesen, jemals ein Mädchen namens Lydia und den Küstenort Battikaloa auf Ceylon erwähnt habe.
+
+»Kurz vor seinem Tode,« fügte Harald erklärend hinzu, »hat Dracon uns noch gesagt, daß er eine Bitte hätte: »In Battikaloa wird Miß Lydia —« — Mehr konnte er nicht über die bereits erkaltenden Lippen bringen. Deshalb möchte ich von Ihnen wissen, ob Sie, Miß Honoria, irgend eine Lydia kennen, die zu Dracon in irgend welchen Beziehungen gestanden hat.«
+
+Miß Myntor schüttelte den Kopf.
+
+Der Felsentempel von Ellora.
+
+Das Rennboot war gesunken. Nur ein schillernder Oelfleck auf der Wasseroberfläche bezeichnete noch die Stelle, wo das kostbare Fahrzeug nun auf dem Schlammgrunde der Lagunenmündung lag.
+
+Harst hatte die liebreizende Lydia in die Kajüte des Kutters geführt, damit sie sich hier allein aufhielte, bis ihre Kleider, die sie uns herausreichen sollte, an Deck getrocknet wären.
+
+Das junge Mädchen hatte durchaus nicht den Eindruck einer verschüchterten Gefangenen gemacht. Auch ihr Anzug hatte verraten, daß man sie gut behandelt und bei der Einkleidung ihres äußeren Menschen nicht gespart hatte.
+
+Mit einer herzgewinnenden natürlichen, zwanglosen Art waren ihr warme Worte des Dankes über die Lippen gekommen. Ebenso freimütig hatte sie sofort nach unseren Namen und den näheren Umständen ihrer Befreiung gefragt.  Harald hatte ihr nur kurz geantwortet, da ein scharfer Seewind über die Lagunenmündung strich und Lydia in ihren nassen Kleidern sich der Zugluft an Deck nicht lange aussetzen sollte.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (081) Der Giftpfeil des Wedda.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
