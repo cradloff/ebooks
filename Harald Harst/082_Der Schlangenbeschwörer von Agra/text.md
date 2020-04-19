@@ -6,7 +6,7 @@
 <h3>Der gefälschte Zettel.</h3>
 
 Ende Februar 19.. brachte die indische Zeitung »Bombay
-Post» folgenden Artikel:
+Post« folgenden Artikel:
 
 Dem Leben wiedergegeben. Der hier bei uns in Indien
 ebenfalls rühmlichst bekannte deutsche Liebhaberdetektiv
@@ -1563,93 +1563,94 @@ Nachttischlampe gibt über alles Aufschluß.
 
 »Ah — Oberst Dalcolm! Ein Happen für Sie, Harst!«
 
-So hatte Detektivinspektor Lockpor am Telephon gesagt!.
+So hatte Detektivinspektor Lockpor am Telephon gesagt.
 
 Wenn jemand Harst gegenüber in dieser Weise von
-einem Happen spricht, dann fang es sich dabei nur um el
-nen Kriminalfall Tanne besonderer Art handeln.
+einem Happen spricht, dann kann es sich dabei nur um einen
+Kriminalfall ganz besonderer Art handeln.
 
 So war es denn auch. — Nachdem Lockpor Harald die
 Perlenkette übergeben hatte, kehrten wir beide auf die Jacht
-Der Stolperten wollte uns dort sehr bald wieder
+zurück. Der Inspektor wollte uns dort sehr bald wieder
 besuchen.
 
 Inzwischen war es neun Uhr vormittags geworden.
-Hart und ich suchten Die Vootsbrüde wieder auf. wo wir
-Male Des Polizeigebäudes Araber waren,
+Harst und ich suchten die Bootsbrücke wieder auf, wo wir
+das kleine Beiboot vertäut hatten, mit dem wir bis in die
+Nähe des Polizeigebäudes gerudert waren.
 
 Das Boot war noch da. Aber — es saß jemand auf
-dem Hochhielt, — eine kleine Inderin mit langem schavarzen
-an, Sag Kind in einem nicht ganz sauberen langen blauen
-Denn
+dem Heckbrett, — eine kleine Inderin mit langem schwarzen
+Haar, ein Kind in einem nicht ganz sauberen langen blauen
+Gewand.
 
 Das Mädchen drehte uns den Rücken zu und spielte
-mit einer Pappschachtel, die es als Schleichen an einer
+mit einer Pappschachtel, die es als Schiffchen an einer
 Schnur im Wasser schwimmen ließ.
 
 Harald rief das Kind an. Da drehte es langsam den
-Topf und zeigte uns ein seltsam saftiges unkindliches Gesicht.
+Kopf und zeigte uns ein seltsam faltiges unkindliches Gesicht.
 
-»Es war Sistri, der Zwerg; Sistri, oh ne Bart.
+Es war Sistri, der Zwerg; Sistri, *ohne* Bart.
 
-Er riß rasch die Pappschachtel an sich und kletterte zu
-den Steg, ganz so wie ein Kind, das etwas Unerlaub-fem
+Er riß rasch die Pappschachtel an sich und kletterte auf
+den Steg, ganz so wie ein Kind, das bei etwas Unerlaubtem
 ertappt ist.
 
 <@pagebreak/>
-»Vorsicht!« raunte Sistri uns zu, als er an uns vor
-Aber an Land lief.
+»Vorsicht!« raunte Sistri uns zu, als er an uns vorüber
+an Land lief.
 
-Dann verschwand er in einer engen Gasse des Ufer-biertelg.
+Dann verschwand er in einer engen Gasse des Uferviertels.
 
-Auf der Beklagt aber fanden ie einen kleinen mit
-einer Stecknadel an das Holz gespiesiten Zettel, den Harter
-ganz 1cnaufsällig an sich nahm und ebenso unauffällig las,
+Auf der Heckbank aber fanden wir einen kleinen mit
+einer Stecknadel an das Holz gespießten Zettel, den Harst
+ganz unauffällig an sich nahm und ebenso unauffällig las,
 während ich das Boot loskettete.
 
-Ich ergriff die Ruder und lebte mich Langsam glitten
-wir zwischen den aunferuden Kähnen hindurch uns den
-Fluß hinaus. Harst steuerte. ob merkte Jede, spie teure
-Augen dauernd hin und her flogen, aha ob er alt irgend
+Ich ergriff die Ruder und setzte mich. Langsam glitten
+wir zwischen den ankernden Kähnen hindurch auf den
+Fluß hinaus. Harst steuerte. Ich merkte jedoch, wie seine
+Augen dauernd hin und her flogen, als ob er auf irgend
 etwas wartete.
 
-»Was stand auf dem Zelle!?« fragte ich schließlich, als
-er stumm blieb,
+»Was stand auf dem Zettel?« fragte ich schließlich, als
+er stumm blieb.
 
 »Nur wenige Worte, mein Alter:
 
 > Ihr wurdet von der Jacht bis zum Polizeigebäude
-von zwei verschleierten Inderinnen versorgt. Vorsicht!
+von zwei verschleierten Inderinnen verfolgt. Vorsicht!
 
-Du siehst also, Sistri ist die beste Schubwwache, die
-man sich wünschen kann. Greebrac hat den Beitrag er
-gebrochen. Nur feine Kreaturen können diese Spione fein!
-Ich werde mir mithin sehr genau überlegen, was ich hm
+Du siehst also, Sistri ist die beste Schutzwache, die
+man sich wünschen kann. Greebrac hat den Vertrag
+gebrochen. Nur seine Kreaturen können diese Spione sein!
+Ich werde mir mithin sehr genau überlegen, was ich tun
 werde —«
 
 Eine kleine Pause.
 
 Seine Augen hafteten auf einem offenen Motorboot,
 das pfeilschnell herbeigeschossen kam — offenbar auf uns
-zu. Ja dem Boote waren nur zwei Leute sichtbar, Werk
-merkwürdigerweise zwei verschleierte Weiber, also mohauuneda-nische
-Inderinnen, denn nur Vahanmedaneriunen tragen
+zu. In dem Boote waren nur zwei Leute sichtbar,
+merkwürdigerweise zwei verschleierte Weiber, also mohammedanische
+Inderinnen, denn nur Mohammedanerinnen tragen
 dort den Gesichtsschleier.
 
-Harst griff unaufssällig in die Tasche.
+Harst griff unauffällig in die Tasche.
 
-»Schade, daß unsere Clementpistole im Bombay geblieben
-sind,« sagte er mit jenem Ausbilden seiner Trauern
-Augen, das stets irgend eine Katastrophe vorausfaqnt —
+»Schade, daß unsere Clementpistolen im Bombay geblieben
+sind,« sagte er mit jenem Aufblitzen seiner grauen
+Augen, das stets irgend eine Katastrophe voraussagt —
 eine Katastrophe für andere.
 
 »Rudere schneller!« befahl er dann. »Unser Boot wird
-den! beabsichtigten Manumnoß mir durch gesehicltes Mg-növrieren
+dem beabsichtigten Rammstoß nur durch geschicktes Manövrieren
 entgehen.«
 
-Das Vüotorboot war noch zwanzig Meter emsecut,
+Das Motorboot war noch zwanzig Meter entfernt,
 <@pagebreak/>
-nmaußte uns so, wie wir fuhren, auf Backbord treffen.
+mußte uns so, wie wir fuhren, auf Backbord treffen.
 
 Da — ein Druck des Steuers.
 
@@ -1657,124 +1658,124 @@ Unser Kahn flog herum, in ganz kurzem Bogen, dem
 Angreifer entgegen.
 
 Sofort beschrieb auch das Motorboot eine Kurve, um
-»uns wieder von der Seite packen zu können.
+uns wieder von der Seite packen zu können.
 
-Und jetzt, wo kaum noch acht Bieter die beiden Fahrzeuge
+Und jetzt, wo kaum noch acht Meter die beiden Fahrzeuge
 trennten, bückte sich das Weib, das drüben steuerte,
 hob mit der Rechten einen kurzen Bootshaken auf und schleuderte
-ihn na Harst.
+ihn nach Harst.
 
 Das ging so blitzschnell, daß Harald kaum Zeit fand,
-sich .. nach vorn fallen zu lassen.
+sich lang nach vorn fallen zu lassen.
 
-Der Wurf war, trotzdem beide Boote ich In Bewegung
+Der Wurf war, trotzdem beide Boote sich in Bewegung
 befanden, so tadellos berechnet gewesen, daß die
-Spitze des Bootshakens sich in den Rand des Hekbrettes
+Spitze des Bootshakens sich in den Rand des Heckbrettes
 einbohrte.
 
-Harald feuerte jetzt
+Harald feuerte jetzt.
 
-Da das Weib am Steuer sich tief zusamanengeducti
+Da das Weib am Steuer sich tief zusammengeduckt
 hatte, nutzte Harst die andere Verschleierte, die außerdem
-kochen aus dem faltigen Gewande ein blinkendes breites
-asghanisches Wurfmesser zum Vorschein gebracht hatte, aufs
+soeben aus dem faltigen Gewande ein blinkendes breites
+afghanisches Wurfmesser zum Vorschein gebracht hatte, aufs
 Korn nehmen.
 
 Mit einem leisen Aufschrei taumelte das Weib zurück,
-Amurte über irgend ein Hindernis und fiel Rückkauf lud
-er
+stolperte über irgend ein Hindernis und fiel rücklings ins
+Wasser.
 
-»Morde ten,
+Das Motorboot flüchtete.
 
-He wir die Verwunde quer traf formten, wagten
-Ihre Ihr ber bereits voll Wallen:gelogen.  Sie verfügt.
+Bevor wir die Verwundete herausfischen konnten, waren
+ihre Kleider bereits voll Wasser gesogen. Sie versank.
 
-Harst sprang über Bord, tauchte — und kam mit denkt
+Harst sprang über Bord, tauchte — und kam mit dem
 Weibe wieder zum Vorschein.
 
-Wir zogen sie ins Boot. Dabei verrutfchten Kopftuch
+Wir zogen sie ins Boot. Dabei verrutschten Kopftuch
 und Gesichtsschleier.
 
 Und wir sahen das braune, von einem kurzen krausen
-Vollbart umgebene Gesicht eines jüngeren Bruders —!
+Vollbart umgebene Gesicht eines jüngeren Inders —!
 
 »Wundert Dich das?!« meinte Harald. »Glaubtest Du
 wirklich, daß zwei Frauen es auf die Perlenkette abgesehen
-»gehabt haben könnten?! — Der Zusammenhang ist doch
-Star. Ich bin verpflichtet, Greebrac die Perlen zu verschaffen.
-Also läßt er- mich trat der entaenenftchenden
-ereinbaruna beobachten. Die Ge die verkleidete Getreuen
+gehabt haben könnten?! — Der Zusammenhang ist doch
+klar. Ich bin verpflichtet, Greebrac die Perlen zu verschaffen.
+Also läßt er mich trotz der entgegenstehenden
+Vereinbarung beobachten. Die Weiber, die verkleidete Getreuen
 <@pagebreak/>
-Greebracs, haben fraglos auch niätangeschen, wie in
-Zirkus Garten der Kasten ausgegraben wurde. Sie sagten
+Greebracs, haben fraglos auch mitangesehen, wie in
+Chilkas Garten der Kasten ausgegraben wurde. Sie sagten
 sich: in dem Kasten ist die Kette enthalten gewesen. Harst
-wund sie an sich nehmen. Also — rauben wir sich ihm!«
+wird sie an sich nehmen. Also — rauben wir sie ihm!«
 
-Ich ruderte bereits mit aller Uralt der Jacht zu.
-Harald fesselte den Inder, dem die Revotkverkngel in die
-linke Schulter axedcungen war und im Gelenk saß, wie
-Harald rafıb fejtnchelt Kahle.
+Ich ruderte bereits mit aller Kraft der Jacht zu.
+Harald fesselte den Inder, dem die Revolverkugel in die
+linke Schulter gedrungen war und im Gelenk saß, wie
+Harald rasch festgestellt hatte.
 
-Der Zyankali war, obwohl einige Lafikfähne in der
+Der Vorfall war, obwohl einige Lastkähne in der
 Nähe lagen, nicht weiter beachtet worden. Ein Schuß auf
 dem Wasser ist nichts besonderes. Außerdem konnte auch
 niemand, der die Vorgänge nicht von Anfang mitangesehen,
 bei der blitzschnellen Aufeinanderfolge der Hauptereignisse
-irgendwelche Schlüsse ziehen, was eigentlich cesckschehen war.
+irgendwelche Schlüsse ziehen, was eigentlich geschehen war.
 
-Wir legten an per Sacht an.
+Wir legten an der Jacht an.
 
-Ozeana erschien all Deck.
+Ozeana erschien an Deck.
 
-»Oh — auch Sie boten etwas erlebt!« rief sich. »Ach
+»Oh — auch Sie haben etwas erlebt!« rief sie. »Ich
 bin froh, daß Sie wieder hier sind, meine Herren!«
 
-Sie half den Bruder n die Kajüte tragen. Ich ver
-vertäute das Beiboot und stieg Um ebenfalls in die kleine
+Sie half den Inder in die Kajüte tragen. Ich
+vertäute das Beiboot und stieg nun ebenfalls in die kleine
 Kajüte hinab.
 
-Ozeana und Harald hatten den Berwundeteit auf eine
-Decke auf das Wandsofa gelegt. Gerade als Harst Um
-die Wunde Austausch, fand sich Lockpor ein.
+Ozeana und Harald hatten den Verwundeten auf eine
+Decke auf das Wandsofa gelegt. Gerade als Harst nun
+die Wunde auswusch, fand sich Lockpor ein.
 
 Der dicke Inspektor war sprachlos, als er hörte, was
-jung begegnet war,
+uns begegnet war.
 
 »Lassen Sie jetzt erst Miß Wattner berichten,« meinte
-Harald, da Tresore wieder unzählige Fragen stellte.
+Harald, da Lockpor wieder unzählige Fragen stellte.
 
 »Das ist bald erzählt,« sagte die blonde Artistin in
-ihrer frischen, fern Art. »Heck hatte mich in Kleidern auf
-das Bett meiner ruhige gelegt, konnte jedoch nicht einschlafen.
-Nachdem Sie beide die »acht verlassen hatten,
-Hand ich sehr bald auf, sehe mich hier in die Kajüte, früh
-flüchte und Wachte dahin an Der, als ich hörte, wie ein Mr
-Motorboot sich der Jacht näherte. C: sahen zwei verschleierte
-Weiber in diesem Boot. Sie vermochten mich, fuhren im
+ihrer frischen, kecken Art. »Ich hatte mich in Kleidern auf
+das Bett meiner Kabine gelegt, konnte jedoch nicht einschlafen.
+Nachdem Sie beide die Jacht verlassen hatten,
+stand ich sehr bald auf, setzte mich hier in die Kajüte, frühstückte
+und wollte dann an Deck, als ich hörte, wie ein
+Motorboot sich der Jacht näherte. Es saßen zwei verschleierte
+Weiber in diesem Boot. Sie bemerkten mich, fuhren im
 Bogen um die Jacht herum und wollten mir scheinbar den
-Weg nach dem Laube abschneiden, da ich dar zweite Beiboot
-inzwischen an ‘der Leine herangeholl Halle.
-nicht ängstlich, Unsereiner lernt die Seefahrt verachten. Ich
+Weg nach dem Lande abschneiden, da ich das zweite Beiboot
+inzwischen an der Leine herangeholt hatte. Ich bin
+nicht ängstlich. Unsereiner lernt die Gefahr verachten. Ich
 <@pagebreak/>
-faßte ruhig in die Tasche und entsicherte mein Sprossen
-von Damenrevolver. Diese Waffe war ber Weibern weh
-Versage, Das Motorboot jagte davon. Das ist alles.«
+faßte ruhig in die Tasche und entsicherte mein Spielzeug
+von Damenrevolver. Diese Waffe war den Weibern wohl
+unangenehm. Das Motorboot jagte davon. Das ist alles.«
 
-Harst schaute den bärtigen Zunder an.
+Harst schaute den bärtigen Inder an.
 
 »Also war das Motorboot vorher hier,« meinte er
-nachdenkflih. »Kennen Sie diesen Wunder, Lockpor? Der
+nachdenklich. »Kennen Sie diesen Inder, Lockpor? Der
 Mann ist übrigens längst wieder bei Bewußtsein. Er heuchelt
 nur noch eine tiefe Ohnmacht.«
 
 »Nein, ich kenne ihn nicht,« erwiderte der Inspektor.
-ich Dann brüllte er den Mann an:
+Dann brüllte er den Mann an:
 
-Bursche, es wäre besser, Du würdest die Augen und
-un Mund aufmachen und ein Geständnis. ablegen. Wer
+»Bursche, es wäre besser, Du würdest die Augen und
+den Mund aufmachen und ein Geständnis ablegen. Wer
 bist Du?«
 
-Der Verwundete regte sich nicht. -Und doch war er
+Der Verwundete regte sich nicht. Und doch war er
 wach. Das sah man an dem Zittern seiner Augenlider, die
 er krampfhaft geschlossen hielt.
 
@@ -1782,144 +1783,144 @@ Lockpor richtete nichts aus. Der Kerl war für alle
 Drohungen unempfänglich.
 
 »Lassen Sie ihn!« sagte Harald. »Setzen wir uns.
-dich Zur 4 würde Dir dankbar sein, wolltest Du noch Tee
-aufbrü
+Schraut, ich würde Dir dankbar sein, wolltest Du noch Tee
+aufbrühen.«
 
-Die »Spiritusslamme puffte auf.
+Die Spirituslampe puffte auf.
 
-0s — nun der Fall Dalcolm, lieber Lockpor,« bat
-Harald
+»So — nun der Fall Dalcolm, lieber Lockpor,« bat
+Harald.
 
 Lockpor nickte, »Gern. — Hier sind meine Zigaretten,
-hi Harfe, Bedienen Sie sich. Wollen Sie ‘sich nicht erst umgesehen
+Harst. Bedienen Sie sich. Wollen Sie sich nicht erst umziehen?«
 
 »In Agra? Vormittags? Bei 27 Grad Wärme?
 Nein, da sind nasse Sachen eine Wohltat.«
 
-hi Auch Ozeana nahm eine Zigarette. Dann begann
-ber Detektivinspektor:
+Auch Ozeana nahm eine Zigarette. Dann begann
+der Detektivinspektor:
 
 »Oberst a. D. Dalcolm ist einer der vielen Engländer,
-»die durch den Dienst auf einsamen Posten schließlich zu
-»Sonderlingen werden. Er wohnt hier in Agra weit draußen
-in der Nähe des Seuchenlazaret(s dicht am Fluß in
-einer alten Entgehe von Bungalow zusamanen mit drei Dienern.
-In der Stadt läßt er sich nie scheu. Er Verkehrt
-mit niemandem. Sçine Zerstreuung 11 die Jagd und die
+die durch den Dienst auf einsamen Posten schließlich zu
+Sonderlingen werden. Er wohnt hier in Agra weit draußen
+in der Nähe des Seuchenlazaretts dicht am Fluß in
+einer alten Baracke von Bungalow zusammen mit drei Dienern.
+In der Stadt läßt er sich nie sehen. Er verkehrt
+mit niemandem. Seine Zerstreuung ist die Jagd und die
 Dressur von allerlei Getier. Ich selbst hatte Dalcolm bis
-empor zwei Tagen stets nur von seine gesehen. Dann aber
+vor zwei Tagen stets nur von ferne gesehen. Dann aber
 <@pagebreak/>
-ereignete. sich folnended. Ein Diener Dalcolms kam morgens
-zu ir und Kleinere, fein Herr habe in der Nacht einen
+ereignete sich folgendes. Ein Diener Dalcolms kam morgens
+zu mir und meldete, sein Herr habe in der Nacht einen
 Einbrecher erschossen. Ich möchte doch zu Dalcolm
 kommen und den Tatbestand aufnehmen.
 
-Sich fuhr also hinaus. - Der tote Einbrecher, ein älterer
-Hindu, sag auf der Veranda vor Dalcolms Schlafzimmer.
+Ich fuhr also hinaus. Der tote Einbrecher, ein älterer
+Hindu, lag auf der Veranda vor Dalcolms Schlafzimmer.
 Der Oberst hatte den Mann bei der Flucht durchs Fenster
 niedergestreckt. Die Kugel war in den Hinterkopf eingedrungen.
 
-Dalcolm, eine schlanke, Strafe Erscheinung mit blondem
+Dalcolm, eine schlanke, straffe Erscheinung mit blondem
 Spitzbart, erklärte, daß er nachts gegen ein Uhr darüber
-aufgewacht sei, wie seine Nachitischlgampe plötzlich aufflammte.
-Da habe er an einem Schrank rechts neben sei]
-jenem Bett einen Mann bemerkt, der entsetzt nach der ehe
-elektrischen Lampe Staffierte und dann zum Fenster sprang. Da
+aufgewacht sei, wie seine Nachttischlampe plötzlich aufflammte.
+Da habe er an einem Schrank rechts neben seinem
+Bett einen Mann bemerkt, der entsetzt nach der
+elektrischen Lampe hinstierte und dann zum Fenster sprang. Da
 rief Dalcolm dreimal halt und schoß. Das wäre alles.«
 
 Nun — mir erschien dieser Fall recht alltäglich. Auch
 Ozeana Wattner meinte:
 
-»Oh — ich bin enttäuscht, Dir. Lockpor!«
+»Oh — ich bin enttäuscht, Mr. Lockpor!«
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Der Hauptpunkt.</h3>
 
-Harald saß Co, daß er von feinem Wanbdfofaplas unseren
-stummen Gefangenen im Auge behalten konnte. Ei
-hatte denn auch, während Tropen die langweilige Geschichte
-vortrug, sich kaum betreut und dauernd nach dem Verwundeten
-binaeblidt.
+Harald saß so, daß er von seinem Wandsofaplatz unseren
+stummen Gefangenen im Auge behalten konnte. Er
+hatte denn auch, während Lockpor die langweilige Geschichte
+vortrug, sich kaum bewegt und dauernd nach dem Verwundeten
+hingeblickt.
 
 »Weshalb sind Sie enttäuscht, Miß?« fragte er nun.
-»Entweder hat ber Oberst gelogen oder der Fall liegt wirklich
+»Entweder hat der Oberst gelogen oder der Fall liegt wirklich
 sehr merkwürdig.«
 
-Lockpor lächelte, »Aha — Harst hat den Hauptpunkt ganzes
+Lockpor lächelte. »Aha — Harst hat den Hauptpunkt natürlich
 herausgefunden!«
 
-Wenn Sie damit den Umstand meinen, daß die Nachttischlampe
+»Wenn Sie damit den Umstand meinen, daß die Nachttischlampe
 doch weder von Dalcolm noch von dem Einbrecher
-eluaeicalie! worden sein kann, dann allerdings!«
+eingeschaltet worden sein kann, dann allerdings!«
 
 »Stimmt! Dalcolm betonte wiederholt, es sei ihm
-unbegreiflich, wer dies getan haben strömte. Es war darüber
-sehr aufgelegt.«
+unbegreiflich, wer dies getan haben könnte. Es war darüber
+sehr aufgeregt.«
 
 »Worüber?«
 
-»Daß noch ein anderer »Mann im Schlafzimmer versteckt
-‘gewesen sein müsse, dem er infolge eigener Nachlässigkeit
+»Daß noch ein anderer Mann im Schlafzimmer versteckt
+gewesen sein müsse, dem er infolge eigener Nachlässigkeit
 Zeit zum Entschlüpfen ließ. Als ihm einfiel, außer
-dem Diebe, der vor dem offenen Schranke kniete, sei den:
-fraglos noch ein weiterer Eindringling dagewesen, war tv
+dem Diebe, der vor dem offenen Schranke kniete, sei doch
+fraglos noch ein weiterer Eindringling dagewesen, war es
 zu spät nachzusuchen.«
 
 »Wie war der Einbrecher ins Zimmer gelangt?«
 
 »Durch das Fenster, dessen rechter Flügel nur mit
-Drahîagaze bespannt war. Diese hatte er zerschnitten«
+Drahtagaze bespannt war. Diese hatte er zerschnitten.«
 
 <@pagebreak/>
 »Kannte jemand diesen Einbrecher?«
 
 »Ja. Er gehörte mit zu den Leuten, die bei Chilka
-Ungar verkehrten.«
+Ragan verkehrten.«
 
 »Ah — das ist wichtig.«
 
-»Es war ein Mann, der schon oft im Gefängnis getroffen
+»Es war ein Mann, der schon oft im Gefängnis gesessen
 hatte, ein gewerbsmäßiger Dieb, ein sehr gefährlicher
-Mensch. Ere hieß Ahmed Ambak.«
+Mensch. Er hieß Ahmed Ambak.«
 
-»Was wollte er stehlen? Hatte er schon Beute zusammengeduckt?«
+»Was wollte er stehlen? Hatte er schon Beute zusammengepackt?«
 
-»Nein. offenbar gedachte er erst den Inhalt des
+»Nein. Offenbar gedachte er erst den Inhalt des
 Schrankes zu untersuchen. Er hatte eine Taschenlampe bei
 sich. Sie war ganz neu.«
 
 »Was telephonierte der Oberst Ihnen vorhin, Lockpor?«
 
-Daß er einen zweiten Einbrecher erschosjseu hat — unter
+»Daß er einen zweiten Einbrecher erschossen hat — unter
 genau denselben Umständen.«
 
 Nun gewann der Fall allerdings ein ganz anderes
 Aussehen.
 
-»Sie werden sich zu Salontür begeben?« franko Harst
-den Inspektor ne kurzer Pause.
+»Sie werden sich zu Dalcolm begeben?« fragte Harst
+den Inspektor nach kurzer Pause.
 
 »Ja. Sofort. Wollen Sie mit?«
 
 »Ich will mit Schraut allein hin, wenn es Ihnen recht
-ist, lieber Lockpor.. Einer von uns muß den Gefangenen
+ist, lieber Lockpor. Einer von uns muß den Gefangenen
 hier bewachen.«
 
 »Oh, ich bin einverstanden. Wenn ich einen Harst als
-Vertreter sende, dürfte niemand dagegen etwas einzuwewck
-den haben.
+Vertreter sende, dürfte niemand dagegen etwas einzuwenden
+haben.
 
 »Gut, dann wollen wir aufbrechen.« Das galt mir.
-»Legen wir die Bärte und Perücken ab, mein Aber. Mein
-Bart ist ohnedies halb abgewweicht.«
+»Legen wir die Bärte und Perücken ab, mein Alter. Mein
+Bart ist ohnedies halb abgeweicht.«
 
 Gleich darauf bestiegen wir das Boot, nachdem Harald
 die Perlenkette Lockpor vorläufig übergeben hatte.
 
 Wir hatten uns dann kaum dreißig Meter von der
-Jacht entfernt, als Harald, der wieder am Steuer saß, ¡ehe
+Jacht entfernt, als Harald, der wieder am Steuer saß, sehr
 ernst sagte:
 
 »Der Fall Dalcolmn ist wichtiger, als Du glaubst. Wir
@@ -1928,96 +1929,96 @@ müssen — sehr! Es ist falsch, was ich vorhin annahm: das
 Motorboot und die beiden verkleideten Männer gehören
 nicht zu Greebracs Garde.«
 
-»Wobei weißt Du das?
+»Wobei weißt Du das?«
 
 <@pagebreak/>
 »Durch den Verwundeten. Frage jetzt nichts. Wir
 werden diesem Dalcolm sehr scharf auf den Zahn fühlen.«
+
 Lockpor hatte uns den zu dem Grundstück des Obersten
 gehörigen Landungssteg genau beschrieben. Nach einer
-Viertelstunde waren wir angelangt, Wir vertäuten unser
+Viertelstunde waren wir angelangt. Wir vertäuten unser
 Boot. An dem weit ins Wasser reichenden Stege lagen
 drei Ruderboote und eine kleine Segeljacht.
 
-Harst stand jetzt neben mir auf den Planten bei Steges
+Harst stand jetzt neben mir auf den Planken des Steges
 und meinte:
 
 »Weit und breit kein zweiter Bootssteg! Diese kleine
-Bus Dr für Leute, die im Trüben fischen wollen, sehr
-günstig
+Bucht liegt für Leute, die im Trüben fischen wollen, sehr
+günstig!«
 
 Und nach kurzer Pause: »Uebrigens fehlt hier ein
-Fahirzeua, das sonst stets hier vertäut war Da — die beiden
-Pfähle sind oben durch die Taue ganz aus gescheuert.
-Und - - ja, hier haben Seltsamen aus den Planken gestanden.
-Sehr oft. Beachte das. Oel! man ein Ruderboot,
-ne Nacht?« Dr
+Fahrzeug, das sonst stets hier vertäut war. Da — die beiden
+Pfähle sind oben durch die Taue ganz ausgescheuert.
+Und — ja, hier haben Oelkannen auf den Planken gestanden.
+Sehr oft. Beachte das. Oelt man ein Ruderboot,
+eine Jacht?«
 
-»Nein. Aber ein Wiotorboot zum Verspielt« sagte ich
-tafıh, da ich Harsts Andeutungen sofort begriffen hatte.
+»Nein. Aber ein Motorboot zum Beispiel!« sagte ich
+rasch, da ich Harsts Andeutungen sofort begriffen hatte.
 
-»Ja. ein Motorboot fehlt. Und -+ und unser Gefangener
-guckte vor Schied zusamanen, als ich sagte, wir beide
-würden uns zu Dalcolm beerben. Mithin —«
+»Ja — ein Motorboot fehlt. Und — und unser Gefangener
+zuckte vor Schreck zusammen, als ich sagte, wir beide
+würden uns zu Dalcolm begeben. Mithin —«
 
 »— mithin kann Dalcolms Motorboot zu dem Ueberfall
-gegen ums benutzt worden sein.«
+gegen uns benutzt worden sein.«
 
-»Da — und mithin kann Dalcolm, der Jäger und
+»Ja — und mithin kann Dalcolm, der Jäger und
 Freiherr, nebenbei sich noch als Pirat versuchen. Der Mann,
 der den Bootshaken so trefflich schleuderte, war — ein Europäer!
-Beim Werfen verrieb sich der Aermel. Die Haut
-des Unkenntnis war blendend zart.« -
+Beim Werfen verschob sich der Aermel. Die Haut
+des Unterarms war blendend zart.«
 
-M0 Antoine Blicke wandten sich dem Ufer und dem Garten
+Haralds Blicke wandten sich dem Ufer und dem Garten
 Dalcolms zu.
 
-»Wir werden beobachtet,« meinte er kann. »Es ist
+»Wir werden beobachtet,« meinte er dann. »Es ist
 Dalcolm. Ich halte es —«
 
-da — er hatte nett zur Seite gerissen — mit solcher
+Da — er hatte mich zur Seite gerissen — mit solcher
 Kraft, daß wir ins Wasser fielen, da der Steg nur an einer
 Seite ein Geländer hatte.
 
 Und doch hatte ich noch das Pfeifen von drei — vier
-Kugeln gehört, — von Kugeln, die uns gegolten hatten
+Kugeln gehört, — von Kugeln, die uns gegolten hatten.
 
-Wir waren nun im Schuß der Pfahlreihe des Sturzes
+Wir waren nun im Schutz der Pfahlreihe des Steges
 <@pagebreak/>
 geborgen, standen bis zu den Schultern im Wasser und
-hatten nur eins zu fürchten: die Dschamnuakrokudile, die im
+hatten nur eins zu fürchten: die Dschamnakrokodile, die im
 Gegensatz zu den gemütlichen Gangesbestien gleicher Art
-er Angriffstuft und steten Hunger unvorteilhaft aus«
-zeichnen. È
+sich durch Angriffslust und stetem Hunger unvorteilhaft auszeichnen.
 
 »Es war Dalcolm,« flüsterte Harald. »Er schoß mit
-einer Repetierbüchse. - Warten Sie, Herr Oberst, das so!
+einer Repetierbüchse. — Warten Sie, Herr Oberst, das soll
 Ihnen teuer zu stehen kommen.«
 
 Dann sehen ein lauter Ruf:
 
-»Sie sind doch hosjientlich nicht verwundet!«
+»Sie sind doch hoffentlich nicht verwundet!«
 
 Schritte dröhnten auf den Planken.
 
 Ueber uns stand ein vornehm aussehender Mann im
-weißen Yeinenanzin.
+weißen Leinenanzug.
 
-»Wer sind Sie, meine Herren? — Je) bin entsetzt,
-daß ich beinahe Unheil angerichtet hätte,« sagte er sein
-bar ganz zerfuirshl. »Heck werde Ahnen nach oben helfen.«
+»Wer sind Sie, meine Herren? — Ich bin entsetzt,
+daß ich beinahe Unheil angerichtet hätte,« sagte er scheinbar
+ganz zerknirscht. »Ich werde Ihnen nach oben helfen.«
 
 Nun schauten wir uns Oberst Harry Dalcolm aus
 nächster Nähe an.
 
 Der Eindruck ruhiger Vornehmheit blieb.
 
-»Ich feuerte auf eine Möwe,« Saale er, indem er eine
+»Ich feuerte auf eine Möwe,« sagte er, indem er eine
 ungewisse Handbewegung nach dem Flusse hin machte. »Zu
 spät bemerkte ich Sie beide. Entschuldigen Sie —«
 
 »Das tut nichts, Mr. Dalcolm. Sie gestatten: ich bin
-Harald Harst Das dort mein Freund Schraut. Inspektor
+Harald Harst. Das dort mein Freund Schraut. Inspektor
 Lockpor schickt uns.«
 
 »Weswegen, wenn ich fragen darf?«
@@ -2028,38 +2029,38 @@ Lockpor schickt uns.«
 untersuchen wollen, Mr. Harst. Bitte, gehen wir. Der
 Tote liegt noch auf der Veranda.«
 
-Dieser Dalcolm mußte ein ganz gerissener Halunke sein
+Dieser Dalcolm mußte ein ganz gerissener Halunke sein.
 Er hatte sich tadellos in der Gewalt und schauspielerte in
 der Vollendung.
 
 Als wir den Garten durchschritten, erzählte Dalcolm,
 daß er in dieser Nacht abermals durch das Aufflammen der
-Nachttischlampe geweckt worden sei uv daß wieder ein
+Nachttischlampe geweckt worden sei und daß wieder ein
 brauner Kerl vor dem Kleiderschrank gekniet hätte. —
 
 Jedenfalls war dieser zweite Einbruch mit den für den
-Sich so traurigen Folgen in nichts von dem ersten verschieden.
+Dieb so traurigen Folgen in nichts von dem ersten verschieden.
 
 <@pagebreak/>
 Ich kann daher alles Nebensächliche weglassen.
 
-Der Erschossene war wieder ein älterer Sinken. Ein
-Polizist, den Dalcolm sofort nach dem blutigen Andrang
-dieses Diebstahlversucys von der Straße bereinnerufen hatte,
+Der Erschossene war wieder ein älterer Inder. Ein
+Polizist, den Dalcolm sofort nach dem blutigen Ausgang
+dieses Diebstahlversuchs von der Straße hereingerufen hatte,
 war jetzt wieder zur Stelle und erklärte Harst, es handele
 sich hier ebenfalls um einen gewerbsmäßigen Einbrecher,
-auch zu Chilka Ragans nächtlichen Besuchern gehört
-hallte.
+der auch zu Chilka Ragans nächtlichen Besuchern gehört
+hätte.
 
-ins tust Um in Dalcolms Schlafzinmer standen, fragte
+Als wir nun in Dalcolms Schlafzinmer standen, fragte
 Harald den Oberst:
 
 »Haben Sie diesmal nach dem Manne gesucht, der die
 Lampe eingeschaltet hat?«
 
-»zu, Mir. Harst, — sofort! Aber ich fand niemand.«
+»Ja, Mr. Harst, — sofort! Aber ich fand niemand.«
 
-Harald besichtigte die Nachttischlampe, die einen fckchwe-ren
+Harald besichtigte die Nachttischlampe, die einen schweren
 Bronzefuß hatte und den elektrischen Strom aus einer
 Steckdose hinter dem Nachttisch erhielt.
 
@@ -2067,86 +2068,86 @@ Dalcolm versicherte nochmals, daß er die Lampe vor
 dem Einschlafen ausgedreht hätte.
 
 Harst trat vor den Kleiderschrank, nachdem er unter
-er Bett geflohen war und die Dielen Dort abgeleuchtet
+das Bett gekrochen war und die Dielen dort abgeleuchtet
 hatte.
 
-»Der Schlüssel stet stets in diesem Schrank?« fragte er.
+»Der Schlüssel steckt stets in diesem Schrank?« fragte er.
 
 »Ja. In dem Schrank hängen Kleider.«
 
 Harald öffnete ihn.
 
-Kniete der Dieb wiederum vor ‘dem geöffneten
+»Kniete der Dieb wiederum vor dem geöffneten
 Schranke wie das erste Mal?«
 
-»Ja, Genau so, Mr. Harst«
+»Ja. Genau so, Mr. Harst«
 
-Was steht vors unten?«
+»Was steht dort unten?«
 
-N) Harald deutete aus ein paar Pappschachteln, die am
+Harald deutete auf ein paar Pappschachteln, die am
 Boden des Schrankes aufgeschichtet waren.
 
 »Meine photographische Kamera und mein Vergrößerungsapparat.
-Sich bin sehr eifriger Amateurphotograph.«
+Ich bin sehr eifriger Amateurphotograph.«
 
-Bei dem Worte Verarößerumasapparat blickte ich Harald
-umwillfürlich an. ich erinnerte mich an das, was
-Hart in Bombay Inspektor Boßwell geraten hatte: es
+Bei dem Worte Vergrößerungsapparat blickte ich Harald
+unwillkürlich an. Ich erinnerte mich an das, was
+Harst in Bombay Inspektor Boßwell geraten hatte: es
 sollten alle einschlägigen Geschäfte angefragt werden, ob in
-den lebten Tagen ein Vergrößerungsapparat verkauft worden
+den letzten Tagen ein Vergrößerungsapparat verkauft worden
 sei. Greebrac brauchte ja einen solchen Apparat, wenn
 er die Mikrophotographie aus dem Rubinring lesbar
 machen wollte.
 
 <@pagebreak/>
-So kam endlich wieder der Rubinring zu feinem Recht.
+So kam endlich wieder der Rubinring zu seinem Recht.
 Endlich wurde er wieder durch diesen Kleiderschrank uns
-nähergerücft.
+nähergerückt.
 
 Harald hatte meinen Blick aufgegangen und durch ein
-unmerflices Stopffchütteln erwidert. Ich verstand, was
+unmerkliches Kopfschütteln erwidert. Ich verstand, was
 er damit ausdrücken wollte: der Ring sollte nicht erwähnt
-werden! —Sich hätte es auch ohne diesen Wirft nicht ge:an.
+werden! Ich hätte es auch ohne diesen Wink nicht getan.
 
-»ich begreife nicht, was der Dieb oder die leisen
+»Ich begreife nicht, was der Dieb oder die beiden
 Diebe hier stehlen wollten,« sagte Harald nun und drehte
-sich langsam um. »Es ist ja klar, daß sich es auf denselben
+sich langsam um. »Es ist ja klar, daß sie es auf denselben
 Gegenstand abgesehen hatten. Sind in diesen Schranke
 vielleicht Wertsachen verborgen. Mr. Dalcolm?«
 
-Harst spielte $tomödie. Er wußte ebenso gut wie ich,
+Harst spielte Komödie. Er wußte ebenso gut wie ich,
 worauf die Einbrecher es abgesehen gehabt hatten. Sie
-waren eben Mitglieder von Austin (Greebracs Bande und
-wollten den Veragrößerungsapparat sicölen, den Greebrac
+waren eben Mitglieder von Austin Greebracs Bande und
+wollten den Vergrößerungsapparat stehlen, den Greebrac
 nicht zu kaufen wagte, weil er damit rechnete, daß die Polizei
 jeden Käufer eines solchen Apparats nicht mehr aus
 den Augen lassen würde. Er mußte irgendwie erfahren
 haben, daß Dalcolm einen Vergrößerungsapparat besaß,
 und so hatte er denn so kurz hintereinander zwei seiner Getreuen,
-die sich hierzu eigneten, ausgeschickt!, damit sie den
+die sich hierzu eigneten, ausgeschickt, damit sie den
 für ihn so überaus nötigen Gegenstand holten. Wir wußten
 ja von Ceylon her, wie blindlings die Mitglieder dieser
 Bande ihrem Anführer ergeben waren, wußten auch durch
 unser Erlebnis mit Sistri in Bombay, daß es bei dieser
-Verbrecheraenossenschalt keinen Widerspruch gegen einen
-Bete ich ab: ui
+Verbrechergenossenschaft keinen Widerspruch gegen einen
+Befehl gab. —
 
-Oberst erwiderte auf Harsts Frage in feiner
-(lebenswürdigen Art:
+Der Oberst erwiderte auf Harsts Frage in seiner
+liebenswürdigen Art:
 
-»Wirklich nicht, Mr. Harst. Mach nicht ein Wertstück
+»Wirklich nicht, Mr. Harst. Auch nicht ein Wertstück
 ist darin. Was die Kerle in dem Schranke suchten, ist mir
-genau so schleierhaft wie Ahnen.« Anno
+genau so schleierhaft wie Ihnen.«
 
-bat nun, Die Diener Dalcolms verhören zu
-Ferien.
+Harald bat nun, die Diener Dalcolms verhören zu
+dürfen.
 
-Dies geschah in Dalcolms Arbeitszimmer.  Mochte
-der Bungalow auch noch so bansällig sein, die Fimeneiun-richtung
+Dies geschah in Dalcolms Arbeitszimmer. Mochte
+der Bungalow auch noch so baufällig sein, die Inneneinrichtung
 war äußerst gediegen, geschmackvoll und verriet viel
 Sinn für ein hübsches Heim.
 
-Die drei Diener des Obersten waren ältere Anden
+Die drei Diener des Obersten waren ältere Inder
 <@pagebreak/>
 mit steinernen Asiatengesichtern. Da war alles Fragen
 und Bohren zwecklos.
@@ -2156,36 +2157,36 @@ bewegt, ob die Diener Beziehungen zu irgend welchen Leuten
 aus Agra unterhielten.
 
 Dalcolm bot uns jetzt Zigarren, Zigaretten und ein
-Glas Eispunsch an. Hin
+Glas Eispunsch an.
 
-Wir saßen in feinem Arbeitäzimmer um einen türkischen
+Wir saßen in seinem Arbeitszimmer um einen türkischen
 Rauchtisch in behaglichen Sesseln und taten ganz so,
 als ob wir uns gegenseitig sehr sympathisch wären. Und
 dabei hatte der Oberst uns erschießen wollen, und wir beide
 wieder hatten ihn und seine Gefährlichkeit längst durchschaut.
 
-Die Unterhaltung drehte sich noch immer umbie beiden
+Die Unterhaltung drehte sich noch immer um die beiden
 Einbrüche. Man merkte ganz deutlich, daß der Oberst stets
 sehr unruhig und erregt wurde, wenn die Rede auf die
 Nachttischlampe und den Mann kam, der sie angedreht
 hatte. Daß er zwei Menschen erschossen hatte, daß nun
 zweimal kurz hintereinander jemand bei ihm eingedrungen
-»War, ließ den Oberst ganz kalt. Nur dieser rätselhafte
+war, ließ den Oberst ganz kalt. Nur dieser rätselhafte
 Mann regte ihn auf. Immer wieder fragte er Harst, wie
 dieser sich den Zusammenhang der Dinge erkläre.
 
-»Der Mann muß doch irgend ein ¡Interesse dann gehabt
-haben, die Diebstähle zu verhüten,« sagte Dsolcolm
-unter anderen,
+»Der Mann muß doch irgend ein Interesse daran gehabt
+haben, die Diebstähle zu verhüten,« sagte Dalcolm
+unter anderem.
 
-»Ganz gewiß!« nickte Harst. »Leider kann I die
-Sache jedoch vorläufig auch nicht aufklären, Sie mühten
+»Ganz gewiß!« nickte Harst. »Leider kann ich die
+Sache jedoch vorläufig auch nicht aufklären. Sie müssen
 mir etwas Zeit lassen, Mr. Dalcolm.«
 
-Dieser Gebellt wurde mir in der Tat immer intereflan
-der. Zuweilen, wenn ich so heimlich ihn und seine ganze
-so vornchm-rubine Art beobachtete, wenn ich fein faltiges,
-tief mebräuntes Gesicht mit den müden, elfmal schläfrigen
+Dieser Oberst wurde mir in der Tat immer interessanter.
+Zuweilen, wenn ich so heimlich ihn und seine ganze
+so vornehm-ruhige Art beobachtete, wenn ich sein faltiges,
+tief gebräuntes Gesicht mit den müden, etwas schläfrigen
 Augen und dem bereits leicht ergrauten Spitzbart prüfend
 betrachtete, schien es mir undenkbar, daß dieser tadellose
 Gentleman ein Verbrecher sein sollte, noch undenkbarer, daß
@@ -2194,23 +2195,23 @@ hatte rammen wollen und nach Harst den Bootshaken mit
 so unheimlicher Sicherheit geschleudert hatte. —
 
 »Vielleicht unternehmen die Leute, die es hier auf Sie
-Abzeichen haben, einen dritten Einbruch,« fügte Harald hinzu.
+abgesehen haben, einen dritten Einbruch,« fügte Harald hinzu.
 <@pagebreak/>
 »Ausgeschlossen ist es jedenfalls nicht. Dann könnten
 wir auch den Mann abfassen, der die Lampe einschaltet.«
 
-»Sie wollen sich dann also hier verbergen, Mr. Hart?«
+»Sie wollen sich dann also hier verbergen, Mr. Harst?«
 fragte Dalcolm gespannt.
 
-»Ja. An Ihrem Schlafzimmer. Und zwar in demselben
+»Ja. In Ihrem Schlafzimmer. Und zwar in demselben
 Schrank.«
 
-»Ab. — ein glänzender Gedanke. Ich bin durchaus
+»Ah — ein glänzender Gedanke. Ich bin durchaus
 einverstanden damit.«
 
-Die Unterhaltuitg Ring weiter. Harst verabredete, daß
-soll uns heute abend gegen elf Uhr heimlich einlassen
-rollte.
+Die Unterhaltung ging weiter. Harst verabredete, daß
+der Oberst uns heute abend gegen elf Uhr heimlich einlassen
+sollte.
 
 Im Laufe des Gesprächs erwähnte Harald auch den
 Ueberfall auf dem Flusse mit ein paar ironischen Redewendungen.
@@ -2218,36 +2219,36 @@ Ueberfall auf dem Flusse mit ein paar ironischen Redewendungen.
 »Denken Sie, Mr. Dalcolm, man wollte uns vorhin
 auf der Dschamna so etwas in Grund bohren. Da waren
 zwei verkleidete Kerle in einem Motorboot, die nur vergessen
-hatten, daß wir beide an solle Scherze gewöhnt
-nd. Uns ist derlei nichts Neues.«
+hatten, daß wir beide an solche Scherze gewöhnt
+sind. Uns ist derlei nichts Neues.«
 
-Dalcolm spielte den. Neugierigen geradezu glänzend.
+Dalcolm spielte den Neugierigen geradezu glänzend.
 
 »Erzählen Sie doch!« meinte er. »Also ein Attentat?«
 
-Ja. Einen der Burschen haben wir gefaßt. Er wir
-seinen Kameraden Der Y verraten. ber ich werde ihm doch
-den Mund öffnen. Der Polizei sind ja Mittel wie Suggestion.
-also die Erpressung eines Gesländuisses durch Hypnose,
-verboten. Für mich gibt es Hielt Braune nicht, Sich suche
-die Wer wo und wie ich sich
+»Ja. Einen der Burschen haben wir gefaßt. Er will
+seinen Kameraden nicht verraten. Aber ich werde ihm doch
+den Mund öffnen. Der Polizei sind ja Mittel wie Suggestion,
+also die Erpressung eines Geständnisses durch Hypnose,
+verboten. Für mich gibt es diese Verbote nicht. Ich suche
+die Wahrheit, wo und wie ich sie finde.«
 
-Zei sah deutlich, wie Silos Gesicht sich Dr einen
+Ich sah deutlich, wie Dalcolms Gesicht sich für einen
 Moment schreckhaft verzog.
 
-Haralds Hieb hallte also gesessen. Der Oberst fürchtete
+Haralds Hieb hatte also gesessen. Der Oberst fürchtete
 nun, daß der Inder unter dem Zwange der Hypnose alles
 beantworten würde, was Harst ihn fragte.
 
 Dalcolm war jetzt bis wir uns verabschiedeten, sehr
 zerstreut. Es fiel ihm schwer, sich nicht anmerken zu lassen,
-wie stark ihn Harsts Arge:Drang beunrithigte.
+wie stark ihn Harsts Aeußerung beunruhigte.
 
-Er begleitete uns dann bis zum Boot und drückte und
+Er begleitete uns dann bis zum Boot und drückte uns
 kräftig die Hand.
 
 »Auf Wiedersehen, meine Herren,« rief er uns noch
-hinab.
+nach.
 
 <@pagebreak/>
 
@@ -2823,7 +2824,7 @@ bleiben. — Darf ich einmal Ihren Fernsprecher begruben?«
 
 Er rief dann Dalcolms Nummer an.
 
-»Hier Hart. — Guten Abend, Mr. Dalcolm. ch
+»Hier Harst. — Guten Abend, Mr. Dalcolm. ch
 wollte Ihnen nur mitteilen, daß ich mir die Sacke anders
 überlegt habe. Schraut und ich werden Ihre Schlafstubenfenster
 diese Nacht vom Garten aus als Inder verkleidet
@@ -2954,7 +2955,7 @@ und ähnlichen Scherzen und wurden erst still, wie sie Oberst
 Dalcolms schlanke Gestalt auf dem Hauptwege erblickten.
 
 Dalcolm kam gemessenen Schrittes näher, ließ sich Durch
-Hart den Damen vorstellen und bat uns beide dann um
+Harst den Damen vorstellen und bat uns beide dann um
 eine kurze Unterredung.
 
 Wir schritten tiefer in den Garten hinein.
@@ -3020,8 +3021,8 @@ beseitigen lassen Dünnen.«
 Die maßlose Ueberhebung dieses Menschen war wirkt
 (ich fast krankhaft. ei
 
-»Bat, wie Sie wollen,« meinte Hart »Auf Wieder
-sehen, Greebrac. Ich werde hinter ihnen bleiben, und Zwerg
+»Bat, wie Sie wollen,« meinte Harst »Auf Wiedersehen,
+Greebrac. Ich werde hinter ihnen bleiben, und Zwerg
 Sie bis ans Ende der Welt fliehen falten!«
 
 »Und ich — ich werde Sie morgen den Dschamna-frofodilen
