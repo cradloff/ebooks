@@ -89,7 +89,7 @@ Schatten einer rasch segelnden Wolke.
 ich in Greebracs Lage gewesen wäre, hätte ich im Schutze
 eines treibenden Busches das Ufer der Lagunenhalbinsel
 zu erreichen gesucht, weil mich nach der Richtung hin niemand
-vermutet hätte, von die andere Küste ja weit näher
+vermutet hätte, da die andere Küste ja weit näher
 liegt und jeder angenommen hätte, ich müßte gerade diese
 Richtung nach der nächsten Uferstelle gewählt haben.«
 
@@ -147,14 +147,14 @@ Wieder meldete sich Gocklin:
 »Ich sehe vier Leute dort im Boot. Einer sitzt ganz
 tief hinter den Fischkörben. Es ist ein Europäer.«
 
-Harst griff mich einem der Gewehre, die noch an der
+Harst griff nach einem der Gewehre, die noch an der
 Kajütentreppe lehnten.
 
 »Vielleicht hilft dies!« sagte er mit einer Stimme, die
 drohend und gereizt klang.
 
 Er trat an die Reling, legte an, zielte lange, setzte
-wieder ab, klappte das Visier hoch zog die Waffe wieder in
+wieder ab, klappte das Visier hoch, zog die Waffe wieder in
 die Schulter ein.
 
 Da — der Inder war mit einem wahren Panthersatz
@@ -236,7 +236,7 @@ meinte:
 
 »Das wird nicht ganz leicht sein, Miß Ramand.«
 
-»Ja — ist sehr, sehr klug,« sprach sie zerstreut vor sich
+»Ja — er ist sehr, sehr klug,« sprach sie zerstreut vor sich
 hin. Irgend etwas schien ihren Gedanken eine andere
 Richtung gegeben zu haben. Dann fragte sie hastig:
 
@@ -326,7 +326,7 @@ manche Einzelheiten notgedrungen übergehen muß.
 Was war geschehen? — Ein Sprengkörper war in der
 Kajüte des Kutters explodiert. Wer hatte ihn dorthin gebracht,
 wer den Zünder in Brand gesetzt, — wer hatte Harald
-und mich, so töten wollen.
+und mich so töten wollen.
 
 Wer —?!
 
@@ -434,7 +434,7 @@ er hinzu.
 Und — im selben Moment geschah etwas sehr sonderbares.
 
 Durch ein Loch des Daches dieser Halle, eines uralten,
-unbenutzten Tempels, flatterte ein grober buntschillernder
+unbenutzten Tempels, flatterte ein großer buntschillernder
 Schmetterling matt herab, fiel mir gerade in den Schoß und
 verendete unter zitternden Flügelschlägen.
 
@@ -530,7 +530,7 @@ gefährlicher als der Bruder.
 Dann erschien Tamar Dak, der Athlet, hob mich empor
 und trug mich ins Freie und in einen der landesüblichen
 Ochsenwagen, wo ich in einem Winkel des Wagenkastens
-unter Decken versteht wurde, nachdem der Inder mir noch
+unter Decken versteckt wurde, nachdem der Inder mir noch
 einen Knebel in den Mund gepreßt und ihn im Genick festgebunden
 hatte.
 
@@ -606,7 +606,7 @@ entdeckt haben mochte.
 
 Aber — wie hatte Austin Greebrac hiervon Kenntnis
 erhalten? Wie nur? Etwa durch Albert Dracon? Dracon
-wär ja mit Lydia befreundet gewesen. Ob sie ihm
+war ja mit Lydia befreundet gewesen. Ob sie ihm
 die Hälfte des Geheimnisses freiwillig als Kind anvertraut
 hatte? Ob sie ihm erzählt hatte, daß ihr Vater ihr einst
 von diesen Statuen berichtet hatte, die er gefunden und
@@ -633,7 +633,7 @@ eine halbe Stunde. Dann hielt er.
 Eine fremde Stimme meldete Greebrac:
 
 »Sahib, es ist alles in Ordnung. Das Mädchen ist
-hier. Die Gebäude der Plantage sie niedergebrannt. Miß
+hier. Die Gebäude der Plantage sind niedergebrannt. Miß
 Adis Juwelenkasten steht unten in der Vorhalle.«
 
 <h2>3. Kapitel.</h2>
@@ -774,7 +774,7 @@ wollte. Damals schufen gläubige Brahmanen dieses
 Besitztum, wurden dabei unterstützt von dem Urvolke der
 Weddas. Hier hielten sie im geheimen dann ihre religiösen
 Feiern ab. In den vielen Jahrhunderten ging dann allmählich
-die Kenntnis, von diesem Felsentempel verloren,
+die Kenntnis von diesem Felsentempel verloren,
 blieb nur noch als Familiengeheimnis bei einigen Weddas
 bestehen. Und jetzt — jetzt ist der Brahmatempel die Residenz
 einer anderen Gottheit, eines anderen Königs, eines
@@ -799,7 +799,7 @@ in diesem Moment hatte Austin Greebrac etwas fast Imponierendes
 in Haltung, Sprache und Gesichtsausdruck; in
 diesem Moment begriff ich, daß die Leute, die er sich als
 Sklaven geworben für seine finsteren Pläne, für diesen
-Mann den Tod gingen, wie es Makri, der Radschpute,
+Mann in den Tod gingen, wie es Makri, der Radschpute,
 getan hatte. —
 
 Die aus poliertem Metall offenbar bestehende Flügeltür
@@ -1146,7 +1146,7 @@ Müdigkeit, setzte sich auf die unterste Treppenstufe und
 wollte etwas ausruhen.
 
 Aus tiefem Schlaf erwachend, sah sie sich in völliger
-Dunkelheit. Die Kerze, die sich mitgenommen hatte, war
+Dunkelheit. Die Kerze, die sie mitgenommen hatte, war
 <@pagebreak/>
 völlig herabgebrannt. Sie rüttelte nun an der Geheimtür.
 Aber der innere Riegel ließ sich nicht bewegen. In ihrer
@@ -1239,7 +1239,7 @@ Lydia war mit ihrem Bericht zu Ende. Nun begann
 sie Fragen zu stellen. Alles wollte sie wissen: wie es Mistreß
 Busselt, ihrer Großmutter, ginge, wie Harald der
 <@pagebreak/>
-Wahrheit über ihren Tod auf die Spur ankommen sei, ob
+Wahrheit über ihren Tod auf die Spur gekommen sei, ob
 denn im Sarge eine andere Tote nachher gelegen habe —
 und vieles mehr.
 
@@ -1343,7 +1343,7 @@ Es war ein doppeltes Lachen: das eines Mannes und
 eines Weibes!
 
 Lydia und ich sprangen auf, schauten uns fast entsetzt
-um. Wir faden niemand.
+um. Wir fanden niemand.
 
 Harald erhob sich jetzt ebenfalls, schüttelte die Faust
 nach der anderen Grottenseite hin, wo ich erst jetzt eine der
@@ -1512,7 +1512,7 @@ Greebrac und seine Schwester, hinter ihnen der Tiger,
 kamen auf uns zu.
 
 »Nun, ich hoffe, Sie werden verständig genug sein,
-Mr Harst,« begann Greebrac in liebenswürdig-überredendem
+Mr. Harst,« begann Greebrac in liebenswürdig-überredendem
 Tone, »Ihr und Ihres Freundes sowie Lydias Leben
 nicht unnötig aufs Spiel zu setzen. Ich gebe Ihnen mein
 Ehrenwort, daß Sie drei unbelästigt diese Höhle verlassen
@@ -1524,7 +1524,7 @@ Von oben her ein dumpfer Schrei.
 
 Dann krachte ein menschlicher Körper aus der Deckenöffnung
 herab, schlug unweit der Tempelpforte auf dem harten
-Felsboden.
+Felsboden auf.
 
 »Verrat!« gellte Adi und riß ihren Bruder zur Seite.
 
@@ -1558,7 +1558,7 @@ einer tagelangen Hetze.
 
 Inzwischen waren wir mit Lydia längst unterwegs
 nach Bombay; inzwischen hatte Lydia auch erfahren, daß
-der Ring mit den Rubin noch immer am Finger der
+der Ring mit dem Rubin noch immer am Finger der
 <@pagebreak/>
 Skeletthand steckte und das es Harst nur darauf angekommen
 war, Zeit zu gewinnen. —

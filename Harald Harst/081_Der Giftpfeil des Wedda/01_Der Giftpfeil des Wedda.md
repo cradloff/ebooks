@@ -403,7 +403,7 @@ und Gerätschaften ansehen möchte. — Haben die Gewölbe
 mehrere Ausgänge?«
 
 »Zwei nur, Mr. Harst. Einen vom Seitenflügel, der
-die benutzt wurde, und den Haupteingang im hinteren
+nie benutzt wurde, und den Haupteingang im hinteren
 Mittelflur.«
 
 Dann lenkte Harald das Gespräch auf andere Dinge.
@@ -450,7 +450,7 @@ kämen.«
 Auch diese Sätze waren fraglos für einen Horcher bestimmt.
 
 Wir machten uns zum Ausgehen fertig und fuhren mit
-Miß Honorias uns stets zur Verfügung stechendem Ponygespann
+Miß Honorias uns stets zur Verfügung stehendem Ponygespann
 und dem würdigen Kutscher Makri, demselben
 Hindu, der schon bei Lady Myntor Diener gewesen, in die
 Stadt.
@@ -504,7 +504,7 @@ sagte ich leise. »Bemerktest Du an Makris Sandalen Spuren
 von Puder?«
 
 Harst lächelte etwas. »Nein, keine Spur von Puder.
-Aber ich sah den Sohlenflick an der rechten Sandalen spitze,
+Aber ich sah den Sohlenflick an der rechten Sandalenspitze,
 der sich in der Puderschicht mit abgezeichnet hatte. Makri
 war also der Horcher, was ich übrigens gleich vermutet
 hatte, da er damals vor acht Jahren keine Hilferufe gehört
@@ -525,7 +525,7 @@ werden wir jetzt sofort herbeiführen.«
 
 »Wie denn?«
 
-»Warte alt. Makri wird sich stark beunruhigt fühlen,
+»Warte ab. Makri wird sich stark beunruhigt fühlen,
 weil wir von der Post zur Polizei gehen. Diese Beunruhigung
 wollte ich hervorrufen.«
 
@@ -549,7 +549,7 @@ besonders aufmerksam mache, die Erfolge der wie ein tadellos
 funktionierendes Räderwerk ineinander greifenden einzelnen
 Ermittlungen beachten. Das scharfe, logische Denken
 meines Freundes wird bei diesem Fall des Giftpfeiles des
-Wedda aufs hellere beleuchtet. —
+Wedda aufs hellste beleuchtet. —
 
 »Mir ist es unverständlich,« meinte ich, »weshalb man
 ein Mädel von vierzehn Jahren, eine doch offenbar unbemittelte
@@ -562,7 +562,7 @@ Tatsache. Mit dem Motiv können wir uns erst später beschäftigen.
 Ich möchte aber bemerken, das Doktor Phillip
 Ramand, Lydias Vater, berühmte Werke über die Geschichte
 und Kultur Ceylons geschrieben hat und daß ich noch unlängst
-in einer englischen Zeitschrift eine Notiz stand, die an
+in einer englischen Zeitschrift eine Notiz fand, die an
 das tragische Ende des Ehepaares Ramand in den Urwäldern
 Ceylons erinnerte. Doktor Ramand wohnte in Trinkomali,
 dem zweiten größeren Hafen an Ceylons Ostküste.
@@ -622,7 +622,7 @@ ließ und so die kleine Lydia gefangen hielt?«
 »Ja. Das wird Lydia besorgt haben. Sie war ja
 ein sehr kluges und praktisches Mädchen.«
 
-»Mag sein. Ob diese Klugheit angesichts, die nicht
+»Mag sein. Ob diese Klugheit ausreichte, die nicht
 einmal Lady Myntor bekannte Geheimtür zu finden, bezweifle
 ich.«
 
@@ -675,7 +675,7 @@ Battikaloa postlagernd.«
 halten Sie von dieser ganzen Geschichte?«
 
 »Die Eltern Lydias fand man tot und bereits halb
-derweil westlich von Trinkomali in den Urwäldern unter
+verwest westlich von Trinkomali in den Urwäldern unter
 einer vom Blitz zerspaltenen Palme auf. Man nahm Tod
 durch Blitzschlag an. Ich vermute, daß sie anderswie
 starben. Das Kind war damals elf Jahre alt. Lady
@@ -708,7 +708,7 @@ Wenn wir uns bis dahin nicht eingefunden haben, soll er
 nach Hause fahren.«
 
 Der Pförtner erhielt ein Trinkgeld. Wir nahmen ein
-Auto und sausten die Prachtstraße mach den Malabar Hills
+Auto und sausten die Prachtstraße nach den Malabar Hills
 hinab.
 
 Gegen zwölf Uhr betraten wir den Myntor-Park und
@@ -738,15 +738,15 @@ Ich schaute hin.
 Er hatte sich soeben einen Blasrohrpfeil aus der
 Wange gezogen.
 
-Es war ein aus einer breit kantigen, spitzen Fischgräte
-und einer Fiederung aus Flaumfedern gefertigten, etwa
+Es war ein aus einer breitkantigen, spitzen Fischgräte
+und einer Fiederung aus Flaumfedern gefertigter, etwa
 sechs Zentimeter langer Pfeil.
 
 Harald stand wie erstarrt und hielt den Pfeil dicht an
 die Augen.
 
 Dann rief er: »Schnell — es geht ums Leben! Einen
-Kreuzschnitt über die Wunde! Gange sie gehörig aus!«
+Kreuzschnitt über die Wunde! Sauge sie gehörig aus!«
 
 <@pagebreak/>
 So begannen jene aufregenden Tage, in denen wir
@@ -798,7 +798,7 @@ Diwan.
 Ich war ihnen vorausgeeilt.
 
 Und — ich fand so auf dem Teppich ein zweites, dem
-anderen völlig gleiches Blatt, ebenfalls und lila Maschinenschrift,
+anderen völlig gleiches Blatt, ebenfalls mit lila Maschinenschrift,
 ebenfalls nur wenige Worte:
 
 > Zweite Warnung!
@@ -903,13 +903,13 @@ dünn wie ein Messer; darunter ein Mund mit dünnen
 Lippen; der Unterkiefer ein wenig vorgebaut, breit, massig.
 Die Augen tief in den Höhlen unter feingeschwungenen,
 farblos blonden Brauen, unbestimmt in der Farbe, aber
-mit seltsam herrischem Blick. Das stark gerichtete blonde
+mit seltsam herrischem Blick. Das stark gelichtete blonde
 Haupthaar gescheitelt und eine eckige Stirn freigebend,
 deren blendend zarte Haut zu dem frischen Braun des Gesichts
 in schärfstem Kontrast stand.
 
 »Doktor Greebrac,« stellte er sich mit einer wohllautenden,
-aber leicht verschleierten Stimme war. »Ich bedauere
+aber leicht verschleierten Stimme vor. »Ich bedauere
 aufrichtig, Ihren berühmten Freund Harst nicht bei einer
 <@pagebreak/>
 angenehmeren Gelegenheit kennen gelernt zu haben als diese
@@ -958,7 +958,7 @@ wo sie ihn scheinbar äußerst besorgt fragte, ob Lebensgefahr
 vorhanden sei.
 
 Dann folgte die unschädliche Injektion in den linken
-Ober arm, dann sagte Austin Greebrac:
+Oberarm, dann sagte Austin Greebrac:
 
 »So — ich hoffe, Ihr Freund wird morgen wieder
 gesund sein. Freilich, bei solchen Vergiftungen treten auch
@@ -1284,7 +1284,7 @@ die Wahrheit, Makri. Es geht hier vielleicht ums Leben.«
 Im grau verfärbten Gesicht des Radschputen malte sich
 deutlich ein schwerer Seelenkampf.
 
-Dann dann sahen wir alle, wie er zusammenzuckte,
+Dann — dann sahen wir alle, wie er zusammenzuckte,
 wie sein Antlitz die Farbe des schmutzigen Bleis bekam.
 
 Wir ahnten nicht, was geschehen. Wir sahen weiter,
@@ -1414,7 +1414,7 @@ Wir saßen nun wieder zu fünfen auf der Terrasse des
 Myntor-Palais. Es war sechs Uhr nachmittags. Wir
 hatten ein vorzügliches Diner hinter uns, und die blutigen,
 erst so wenige Stunden zurückliegenden Ereignisse erschienen
-mit in der Erinnerung bereits so verschwommen wie
+mir in der Erinnerung bereits so verschwommen wie
 grause Träume.
 
 Harst hatte Boßwell gebeten, die Diener und den Koch
@@ -1427,7 +1427,7 @@ Uhr wollte dieser Mr. Roop, ein Bekannter Boßwells, sich
 einfinden.
 
 Harald war sehr schweigsam und in sich gekehrt. Ich
-wußte, was ihn beunruhigte: er fürchte, wir könnten
+wußte, was ihn beunruhigte: er fürchtete, wir könnten
 zu spät in Battikaloa eintreffen und Austin Greebrac könnte
 Mittel und Wege gefunden haben, trotz der über Tom
 Brackpoll in Battikaloa angeordneten Depeschensperre eine
@@ -1507,7 +1507,7 @@ Nach kurzem Abschied sausten wir davon.
 <@pagebreak/>
 Die anderthalbtägige Reise bis Negapatam an der südlichen
 Koromandelküste verlief ohne Zwischenfälle. Hier
-fanden wir auf der Polizei eine Depesche Boßwell vor,
+fanden wir auf der Polizei eine Depesche Boßwells vor,
 des Inhalts, daß Greebrac entschlüpft sei. Sein Auto war
 nirgends mehr gesichtet worden.
 
@@ -1562,7 +1562,7 @@ lediglich diese Karte der Ostküste Ceylons.
 »Wann können wir in Battikaloa sein?« fragte er dann
 den freundlichen Gocklin.
 
-»Gegen Morgen, Dr. Harst.«
+»Gegen Morgen, Mr. Harst.«
 
 »Gut. Ich sehe, daß Battikaloa auf einer Insel liegt,
 vor die sich nach See zu wie ein Wall, die Battikaloa-Lagune
