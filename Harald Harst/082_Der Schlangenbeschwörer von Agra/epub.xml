@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">52405154-825e-11ea-9b08-3f4e36144d68</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Schlangenbeschwörer von Agra</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">82</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Schlangenbeschwörer von Agra.
+
+Ende Februar 19.. brachte die indische Zeitung »Bombay Post« folgenden Artikel:
+
+Dem Leben wiedergegeben. Der hier bei uns in Indien ebenfalls rühmlichst bekannte deutsche Liebhaberdetektiv Harald Harst hatte vor einigen Tagen ein neues Verbrechen aufgeklärt, indem er den Aufenthaltsort der vor acht Jahren scheinbar verstorbenen einzigen Tochter des Forschungsreisenden Doktor Ramand ermittelte und das seiner Zeit im Alter von vierzehn Jahren durch die Verbrecherbande Doktor Austin Greebracs entführte junge Mädchen unter höchster eigener Lebensgefahr aus dem Felsentempel von Ellora auf Ceylon befreite. Leider ist Austin Greebrac und seine Schwester Adelaide, kurz Adi genannt, mit den meisten Mitgliedern der weitverzweigten Bande entkommen.  Wie wir hören, hatte es Greebrac bei der damaligen Entführung Lydia Ramands auf fünf goldene Götzenstatuen abgesehen, die der Forscher insgeheim vergraben und deren Versteck er seinem Kinde auf besondere Art anvertraut hatte.
+
+Harald Harst, sein Freund und ständiger Begleiter Max Schraut und Lydia Ramand sind gestern hier in Bombay eingetroffen und haben im Myntor-Palais bei Miß Honoria Myntor Wohnung genommen, wo die Großmutter Miß Lydias, Mistreß Busselt, seit Jahren die Stellung einer Hausdame innehat. — Morgen hoffen wir unseren Lesern weitere Einzelheiten über diese Entführungsgeschichte berichten zu können.
+
+Oberst Dalcolms Nachttischlampe.
+
+»Ah — Oberst Dalcolm! Ein Happen für Sie, Harst!«
+
+So hatte Detektivinspektor Lockpor am Telephon gesagt.
+
+Wenn jemand Harst gegenüber in dieser Weise von einem Happen spricht, dann kann es sich dabei nur um einen Kriminalfall ganz besonderer Art handeln.
+
+So war es denn auch. — Nachdem Lockpor Harald die Perlenkette übergeben hatte, kehrten wir beide auf die Jacht zurück. Der Inspektor wollte uns dort sehr bald wieder besuchen.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (082) Der Schlangenbeschwörer von Agra.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
