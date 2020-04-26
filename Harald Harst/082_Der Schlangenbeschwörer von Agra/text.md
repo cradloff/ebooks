@@ -2256,52 +2256,52 @@ nach.
 <h3>Das Giftfläschchen.</h3>
 
 Als wir die Jacht erreicht hatten, war Lockpor gerade
-aus der Kajüte an Deck gekommen und fragte in sofort,
+aus der Kajüte an Deck gekommen und fragte nun sofort,
 was wir bei Dalcolm ausgerichtet hätten.
 
-È »Benin,« meinte Harst achselzuckend. Lassen Sie jetzt
-den Erschossenen fortschaffen, Trocknet. Und wenn Ihre
-Gattin Miß Wattner bei sich im Hause ausnehmen will,
-so wäre es mir lieb. Wir beide möchten aus der »Bach
+»Wenig,« meinte Harst achselzuckend. Lassen Sie jetzt
+den Erschossenen fortschaffen, Lockpor. Und wenn Ihre
+Gattin Miß Wattner bei sich im Hause aufnehmen will,
+so wäre es mir lieb. Wir beide möchten auf der Jacht
 allein sein. Es könnte sich doch so allerlei ereignen, was
 nicht gerade für die Nerven einer Frau geeignet ist. Einen
-Vorgacschmack haben wir ja bereits durch den Ueberfall
-dem Fluß erhalten.«
+Vorgeschmack haben wir ja bereits durch den Ueberfall
+auf dem Fluß erhalten.«
 
 »Gern, gern nehmen wir die Miß zu uns ins Haus,«
-beteuerte der dicke Inspektor. »Was sog Bars dem Gesfan-genen
+beteuerte der dicke Inspektor. »Was soll mit dem Gefangenen
 geschehen, Harst?«
 
-À Ich möchte ihn nochmals ausforschen. Am besten ist,
+»Ich möchte ihn nochmals ausforschen. Am besten ist,
 Sie nehmen Miß Ozeana gleich mit.«
 
 Bereits fünf Minuten später warten wir auf der Jacht
-dem Verwundeten in der Kajüte allein. Der Dann
-lag noch rannen mit gesibtoltenew ugen da. Harst sprach
-Ihn an, erhielt feine Antwort
+mit dem Verwundeten in der Kajüte allein. Der Mann
+lag noch immer mit geschlossenen Augen da. Harst sprach
+Ihn an, erhielt keine Antwort.
 
-Und wieder fünf Minuten später N ein Ruderer
-Darin saßen Dalcolm und zwei feiner Diener.
+Und wieder fünf Minuten später nahte ein Ruderboot.
+Darin saßen Dalcolm und zwei seiner Diener.
 
 Wir standen auf der Kaijütentreppe, blickten dem Boot
-Legen. Dalcolm winkte.
+entgegen. Dalcolm winkte.
 
-»Die Hypnose treibt ihn her,« flüsterte Harst »Wir
-Erden sehr vorsichtig sein müssen.«
+»Die Hypnose treibt ihn her,« flüsterte Harst. »Wir
+werden sehr vorsichtig sein müssen.«
 
-Das Boot legte an. Dalçolm kletterte auf Des.
+Das Boot legte an. Dalçolm kletterte auf Deck.
 
 <@pagebreak/>
-»Ich habe Ihnen etwas Neues zu melden, meine Her
-ren,« rief er, und seine Augen waren durchaus nicht mehr
-so ichläftin wie bisher. »Wartet auf mich!« befahl er seinen
+»Ich habe Ihnen etwas Neues zu melden, meine Herren,«
+rief er, und seine Augen waren durchaus nicht mehr
+so schläfrig wie bisher. »Wartet auf mich!« befahl er seinen
 Dienern.
 
-Eine Bitte, Mr. Dalcolm,« meinte Harald da. »ärgsten
+»Eine Bitte, Mr. Dalcolm,« meinte Harald da. »Könnten
 ihre Leute uns nicht aus der Stadt Zigaretten holen?
-Unser Vorort ist verbraucht.«
+Unser Vorrat ist verbraucht.«
 
-»Gewiß, gewiß. - Ihr werdet für Sahib Harst die
+»Gewiß, gewiß. — Ihr werdet für Sahib Harst die
 Besorgung erledigen. Beeilt Euch!«
 
 So wurden wir das Boot los. Nun hatten wir es
@@ -2312,7 +2312,7 @@ Harst bat ihn in die Kajüte hinab.
 Der Oberst musterte den Verwundeten flüchtig.
 
 »Ein richtiges Verbrechergesicht,« meinte er und setzte
-in »Aber — ich mu den Mann schon gesehen haben,«
+sich. »Aber — ich muß den Mann schon gesehen haben,«
 fügte er grüblerisch hinzu. Dann stand er plötzlich wieder
 auf und trat dicht an den Mann heran, beugte sich über ihn
 und sagte:
@@ -2320,111 +2320,111 @@ und sagte:
 »Bursche, Dich habe ich doch zweimal aus meinem
 Garten verscheucht!«
 
-Der Inder blieb Sturm.
+Der Inder blieb stumm.
 
-Dalcolm nahm wieder Blaß. »Ohne Zweifel — es
+Dalcolm nahm wieder Platz. »Ohne Zweifel — es
 ist derselbe Kerl!« erklärte er. »Der Mensch wollte bei mir
-damals wahrsceinlich nur die Gelegenheit zu einem Diebstahl
-ausfundschyasten.«
+damals wahrscheinlich nur die Gelegenheit zu einem Diebstahl
+auskundschaften.«
 
-Harald hatte sich nicht gelebt, sondern sich an die Tür
-gelehnt, und sagte man:
+Harald hatte sich nicht gesetzt, sondern sich an die Tür
+gelehnt, und sagte nun:
 
-»Was geschah denn bei Ahnen, Mr. Daherkam?«
+»Was geschah denn bei Ihnen, Mr. Dalcolm?«
 
 Der Oberst winkte. »Setzen Sie sich doch, Mr. Harst. Ich
 liebe es, alles in Ruhe zu erledigen.«
 
 »Bedauere. Inspektor Lockpor hat mich gebeten, den
 Verwundeten nicht einen Moment aus dem Auge zu lassen.
-Wenn ich size, kann der Mann mit seiner einen nicht ge
-fesselten Hand irgend eine Teufelei begehen. Er spielt noch
-immer den Bewaußtlosen.«
+Wenn ich sitze, kann der Mann mit seiner einen nicht gefesselten
+Hand irgend eine Teufelei begehen. Er spielt noch
+immer den Bewußtlosen.«
 
 Dalcolm zuckte die Achseln. »Sie beide waren doch
-soeben auf Deck.« st Au
+soeben auf Deck.«
 
-»Bitte, nur auf der Treppe, von wo aus ich den So
-ber Sehen konnte. Was ist also geschehen, Wir. Dalcolm?«
+»Bitte, nur auf der Treppe, von wo aus ich den Inder
+sehen konnte. Was ist also geschehen, Mr. Dalcolm?«
 
 Dieses kurze Gespräch bewies mir, daß Harald aus
 <@pagebreak/>
-irgend einem Grunde ein noch Stärkeres Mißtrauen als
-Bisher gegen den Oberst und den Verwundeten berate.
+irgend einem Grunde ein noch stärkeres Mißtrauen als
+bisher gegen den Oberst und den Verwundeten hegte.
 
-0Db» erklärte Taſcolm nun, und abermals hatten
+»Oh,« erklärte Dalcolm nun, und abermals hatten
 seine Augen alles Müde verloren, »oh, da hatte sich ein
-kleines Eingeborencumädel in mein Schlafzimmer eingeschlichen,
+kleines Eingeborenenmädel in mein Schlafzimmer eingeschlichen,
 als ich Sie beide zum Bootssteg begleitete. Einer
 meiner Diener faßte das Kind ab, als es wieder zum
-Fenster hinausstieg. Es entfloh ]stach mit unheimlicher
+Fenster hinausstieg. Es entfloh jedoch mit unheimlicher
 Schnelligkeit.«
 
 »Und das erscheint Ihnen so bedeutungsvoll?«
 
-»Da, natürlich. Vielleicht ist es gar dasselbe Mädchen
+»Ja, natürlich. Vielleicht ist es gar dasselbe Mädchen
 gewesen, das die Lampe die beiden Male eingeschaltet hat.«
 
-»Möglich wäre das —« — Harst Schien angestrengt
-sachaubenfen.
+»Möglich wäre das —« — Harst schien angestrengt
+nachzudenken.
 
-Tanz fragte er:
+Dann fragte er:
 
 »War es ein größeres Mädchen?«
 
-»Nein, ein Kind mit langem Haar, ber Größe nach
-etna Sieben bis acht Jahre alt.«
+»Nein, ein Kind mit langem Haar, der Größe nach
+etwa sieben bis acht Jahre alt.«
 
-Ich hätte Dalcolm ebenso gut wie Harst Sagen können,
-wer das Kind gewesen: Abdullah Sistri, der« Zwerg! —
-Aber ich hütete mich, auch nur durch meinen Geſichtsaus-Tun,
-zu verraten, daß ich dieses »Mädchen« Sehr wohl
-Kante. —
+Ich hätte Dalcolm ebenso gut wie Harst sagen können,
+wer das Kind gewesen: Abdullah Sistri, der Zwerg! —
+Aber ich hütete mich, auch nur durch meinen Gesichtsausdruck
+zu verraten, daß ich dieses »Mädchen« sehr wohl
+kannte. —
 
-þ Dann — dann kam für Harst und mich jedoch eine
+Dann — dann kam für Harst und mich jedoch eine
 andere Ueberraschung.
 
-Dalcolm erwähnte, daß er heute früh In Agra ge
-»Gossen war, und er nannte genau dieselbe Zeit, zu der wir
-auf dem lasse überfallen worden waren,
+Dalcolm erwähnte, daß er heute früh in Agra gewesen
+war, und er nannte genau dieselbe Zeit, zu der wir
+auf dem Flusse überfallen worden waren.
 
 »Mir ist das erst nachträglich eingefallen,« meinte er.
-»Sich hatte mich von meinen Dienern bis in die Nähe der
-Blutig-Bank rudern lassen, wo ich Geld abhob. Das Gespräch
-mit dem Bankdirektor zog Sich etwas in die Länge
-Als ich, wieder im Boot, heimkehrte, Nuß ich da ziemlich
-anseilen Zeit dort an jener Stelle gewesen Sein, wo das
+»Ich hatte mich von meinen Dienern bis in die Nähe der
+India-Bank rudern lassen, wo ich Geld abhob. Das Gespräch
+mit dem Bankdirektor zog sich etwas in die Länge.
+Als ich wieder im Boot heimkehrte, muß ich doch ziemlich
+zur selben Zeit dort an jener Stelle gewesen sein, wo das
 Motorboot Sie rammen wollte.«
 
-»Oh — die Sache dauerte ja alles in allem feine zwei
-Minuten,« Sagte Harald mit einem ironischen Lächeln.
+»Oh — die Sache dauerte ja alles in allem keine zwei
+Minuten,« sagte Harald mit einem ironischen Lächeln.
 »Ebenso plötzlich wie der Angriff erfolgte, wurde er auch
 abgeschlagen.«
 
-Es konnte feinem Zweifel unterliegen: Dalcolm wo
+Es konnte keinem Zweifel unterliegen: Dalcolm war
 <@pagebreak/>
-feindlich auf der Bank gewesen! Wie hätte er dies behaupten
+wirklich auf der Bank gewesen! Wie hätte er dies behaupten
 dürfen, wo wir uns dort doch jede Minute erkundigen
 konnten!
 
-Nein — hier hatte Harald versagt, hier hatte er falls
+Nein — hier hatte Harald versagt, hier hatte er falsch
 kombiniert! Ob nicht vielleicht gar der ganze Verdacht
-hinfällig war? Ob wir Dalcolm nicht Unrecht ¿Aden ê! —
+hinfällig war? Ob wir Dalcolm nicht Unrecht taten?! --
 
-Gleich darauf fehlte Dalcolms Boot zurück.
+Gleich darauf kehrte Dalcolms Boot zurück.
 
-Gib dem Oberst das »Geleit an Deck,« bat Harst mich.
+"Gib dem Oberst das Geleit an Deck,« bat Harst mich.
 
 Dalcolm drückte Harald die Hand. »Auf Wiedersehen,
-lieber Mr. Harst. Also dann heute abend ch Sand auf
-eben geheimnisvollen Lampeneinschalter!«
+lieber Mr. Harst. Also dann heute abend -- Jagd auf
+den geheimnisvollen Lampeneinschalter!«
 
-Sollte das ein Biß sein?! Bisher hatte doch gerade
-dieser »Lanweneinfchalter« den Oberst sehr beunruhigt?!
-Was hieb | das man Wieder?!
+Sollte das ein Witz sein?! Bisher hatte doch gerade
+dieser »Lampeneinschalter« den Oberst sehr beunruhigt?!
+Was hieß das nun wieder?!
 
-Sherry fand trat neben mir an Deck. Harald war
-in Ber ‘Ungute geblieben.
+Der Oberst stand jetzt neben mir an Deck. Harald war
+in der Kajüte geblieben.
 
 Dann — dann die neue Ueberraschung.
 
@@ -2432,98 +2432,98 @@ Dalcolm rief plötzlich — nein, er brüllte:
 
 »Dort — dort, — sehen Sie!«
 
-Er hatte den rechten Armı gehoben und auf den in
-binausgedeutet.
+Er hatte den rechten Arm gehoben und auf den Fluß
+hinausgedeutet.
 
 Nun ein Schrei.
 
-Nun ein Hochwerfen beider Arme, und der Oho
-stürzte ins Boot hinab, wo ihn feine Diener zum Blut
+Nun ein Hochwerfen beider Arme, und der Oberst
+stürzte ins Boot hinab, wo ihn seine Diener zum Glück
 auffingen.
 
 »Harald! Hierher! — Harald!«
 
-Neue Harst erschien.
+Kein Harst erschien.
 
 Dalcolm saß jetzt zitternd auf einer Ruderbank.
 
-»Was sahen Sie denn auf dem Flusse?« traute los
+»Was sahen Sie denn auf dem Flusse?« fragte ich.
 
-&erhielte mich blöde an.
+Er stierte mich blöde an.
 
 »Harst — soll — kommen!« lallte er.
 
-Ich eilte Die Treppe hinab.
+Ich eilte die Treppe hinab.
 
-»Komme Je rief Harald mir zu. Und flüsterte:
+»Komme schon!" rief Harald mir zu. Und flüsterte:
 »Komödie! Hier!«
 
-Und er zeigte mir in der linken hohlen Hand ein ‚wir
-einziges Fläschchen mit Glasstöpsel.
+Und er zeigte mir in der linken hohlen Hand ein winziges
+Fläschchen mit Glasstöpsel.
 
-Dann war er schon an Weh.
+Dann war er schon an Deck.
 
-Ich blieb hinter ihm. Dalcolm schien sich bereits en
-»holt zu haben.
+Ich blieb hinter ihm. Dalcolm schien sich bereits erholt
+zu haben.
 
-Ich — »ich leide zu — € (Ungute, M Bares
+»Ich — ich leide an -- Sinnestäuschungen," stammelte
 <@pagebreak/>
-er. »Sich habe die Kämpfe neuen Afghanistan feiner Zeit
+er. »Ich habe die Kämpfe gegen Afghanistan seiner Zeit
 mitgemacht und in einer Nacht etwas erlebt —« — er
-»unsere zusammen — »etwas erlebt, das mich als Schreckens,
-acht noch heute verfolgt. Entsculdigen Sie, daß ich mich
-nicht besser zusammennehmen konnte. Auf Wiedersehen!
+kauerte zusammen — »etwas erlebt, das mich als Schreckgesicht
+noch heute verfolgt. Entschuldigen Sie, daß ich mich
+nicht besser zusammennehmen konnte. Auf Wiedersehen!"
 
 Er gab den Dienern einen Wink. Das Boot schoß
 davon.
 
 Wir gingen wieder in die Kajüte. Dort lag noch der
-Inder. Aber — jetzt hatte er die Augen offen; seh? ruhen
-Em Blicke voll unaussprechlicher Angst auf Haralds
+Inder. Aber — jetzt hatte er die Augen offen; jetzt ruhten
+seine Blicke voll unaussprechlicher Angst auf Haralds
 Gesicht.
 
-»Sklave ihm das Behält;hohen wieder abgenommen,
-das Dalcolm ihm in die unaescsselte Hand gleiten ließ, als
-er sich über ihn beugte,« Tante Harst, den Mann scharf
+»Ich habe ihm das Fläschchen wieder abgenommen,
+das Dalcolm ihm in die ungefesselte Hand gleiten ließ, als
+er sich über ihn beugte,« sagte Harst, den Mann scharf
 fixierend. »Der Oberst ist nur deshalb hierher gekommen.
-» Das eingeborene Mädchen naß ihm eine willkommene Veranlassung
+Das eingeborene Mädchen gab ihm eine willkommene Veranlassung
 zu diesem Besuch, mit dem ich gerechnet hatte.
-Deshalb hatte ich ja auch von Hypnose gesprochen nur
+Deshalb hatte ich ja auch von Hypnose gesprochen -- nur
 deshalb! Der Verwundete sollte sich vergiften. Und die
-Komödie soeben, der Schrei, sollte mich an Deck loben, damit
-der Mann hier das Gift trinken könnte. Er bei ich
-» wie ein Verzweifelter gewehrt, als ich ihm das Fläschchen
-abnahm. — Wie heißt Du?« Das galt dem Sauber.
+Komödie soeben, der Schrei, sollte mich an Deck locken, damit
+der Mann hier das Gift trinken könnte. Er hat sich
+wie ein Verzweifelter gewehrt, als ich ihm das Fläschchen
+abnahm. — Wie heißt Du?« Das galt dem Inder.
 
 Da — die Augenlider senkten sich herab.
 
-00 Und — mir bekamen ab nicht ein Wort aus dem
+Und — wir bekamen ab nicht ein Wort aus dem
 Manne heraus — nicht eins! —
 
-»Rudere jetzt zu Lockpors Vorhätten,« befahl Harald
-mir dann. »Dieser Zunder soll zum Schein tot sein — soll
+»Rudere jetzt zu Lockpors Bootssteg,« befahl Harald
+mir dann. »Dieser Inder soll zum Schein tot sein — soll
 als Toter, eingehüllt in eine Decke, in die Leichenkammer
-ver Polizeidirektion Geschäft werden. Bestelle Lockpor, daß
+der Polizeidirektion geschafft werden. Bestelle Lockpor, daß
 sehr viel davon abhängt, daß der Oberst annimmt, sein
-»Streich sei geglückt und der Mann eine Leiche.« —
+Streich sei geglückt und der Mann eine Leiche.« —
 
 Als ich durch den Garten Lockpors dem Hause zuschritt,
 huschte plötzlich aus einem Gebüsch Sistri heraus, unser
-Heiner Sistri.
+kleiner Sistri.
 
-»Herr Schraut,« raunte er mir zu, »ich hatte Eile drei bei
-Dalcolm im Schlafzimmer belauscht. sich habe nachher den
-Schrank durchsucht. Es ist gelogen, daß sich dort tu’ den
-Pappschachteln ein Vergrößerungsapparat befindet. Ja
+»Herr Schraut,« raunte er mir zu, »ich hatte Sie drei bei
+Dalcolm im Schlafzimmer belauscht. Ich habe nachher den
+Schrank durchsucht. Es ist gelogen, daß sich dort in den
+Pappschachteln ein Vergrößerungsapparat befindet. In
 <@pagebreak/>
-eben & dein liegen vderbinad eine Da mein, Kap
-men und dergleichen, aber fein Verurößerungsapparat.
+den Schachteln liegen allerdings eine Kamera, Kopierrahmen
+und dergleichen, aber kein Vergrößerungsapparat. Ich
 werde auch weiter aufpassen.«
 
-Er tauchte ebenso ras in den Büschen unter
+Er tauchte ebenso rasch in den Büschen unter.
 
-Lockpor war noch) nicht wieder daheim. Seh
-Ere Gattin Amen 5 Nötige.. Dann kehrte ich in ‘Ei
+Lockpor war noch nicht wieder daheim. Ich bestellte
+seiner Gattin alles Nötige. Dann kehrte ich auf die Jacht
 zurück.
 
 <@pagebreak/>
@@ -3031,7 +3031,7 @@ als Nachtmahl servieren! Auf Wiedersehen,« —
 Wir gingen heim. — Kurz vor elf Uhr begaben wir
 uns zu Dalcolm,
 
-&r empfing und überaus Nebenstwärbia.
+er empfing und überaus Nebenstwärbia.
 
 »Wen! Sie nur Das Märker meiner Nachtlischlanpe
 töten, Dir. Harst, schenke ich jedem von Ahnen einen ber
