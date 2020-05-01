@@ -4,173 +4,173 @@
 <h2>1. Kapitel.</h2>
 <h3>Der Eckturm.</h3>
 
-Der Leser mag eine Wandkarte Vorderindiens Bar Hand
-Reim nordwestlichen Teile des Mond s Indien
-wird er aus der Karte einen große andern Gleiten,
-Hl ran Ast quasi) Ofen leck finden; die Thar Wüste!
+Der Leser mag eine Wandkarte Vorderindiens zur Hand
+nehmen. Im nordwestlichen Teile des Riesenreiches Indien
+wird er auf der Karte einen großen, unbesiedelten,
+also fast gänzlich leeren Fleck finden: die Thar-Wüste!
 
-eine Gerann durdscneldel diese
-Sand Und Bein he von Nord nach Saupb
-Hatten dieser Strecke ist die Stadt Bikaner.
+Nur eine einzige Eisenbahnlinie durchschneidet diese
+Sand und Felseinöde von Nord nach Süd. Die Hauptstation
+dieser Strecke ist die Stadt Bikaner.
 
-Zwei Kameltagesritte von Bikaner nach Südiweflen
-bin liegt ein winziges Städtchen, Tallamara mit Namen,
-bekannt durch feine Kamelzüchterei und durch die nördlich
-der Stadt in einem Tale auf mächtigem Granitwürsel sich
+Zwei Kameltagesritte von Bikaner nach Südwesten
+hin liegt ein winziges Städtchen, Tallamara mit Namen,
+bekannt durch seine Kamelzüchterei und durch die nördlich
+der Stadt in einem Tale auf mächtigem Granitwürfel sich
 erhebende uralte, aber von dem Kamelzüchter Hektor Olgerdyn
 modern umgebaute Radschputenburg Tallamara (Talla
 Mara, Adlerhorst).
 
-Den einzigen Zugang zu diese! Daran, deren Umfass
-funasmauer an den Eden vier schlanke Türme bat, die wieder
+Den einzigen Zugang zu dieser Burg, deren Umfassungsmauer
+an den Eden vier schlanke Türme hat, die wieder
 <@pagebreak/>
-von den Brei dicken Burntürmen überragt werden, bis
-redet eine eiserne Hängebrücke, die von der westlichen hohen
-ne a einer Höhe von dreißig Meter zum Burgtor
-hinüber —
+von den drei dicken Burgtürmen überragt werden, bildet
+eine eiserne Hängebrücke, die von der westlichen hohen
+Talwand in einer Höhe von dreißig Meter zum Burgtor
+hinüberführt. —
 
-Das imposante Bauwerk mit feinen blinkenden Fett-Mere
-feinen kupfeznen Dächern, zierlichen Erkern und
-bantaftiihen Steinfiguren war soeben der Schauplatz des
-diente:s eines ernsten Dramas gewesen: Hektor Olgerdyn,
+Das imposante Bauwerk mit seinen blinkenden Fensterreihen,
+seinen kupfernen Dächern, zierlichen Erkern und
+phantastischen Steinfiguren war soeben der Schauplatz des
+Vorspiels eines ernsten Dramas gewesen: Hektor Olgerdyn,
 der Kamelzüchter von Tallamara, war von meinem
-rennt. dem. Liebhaberdetektiv Harald Harst, als gemeiner
-arawanenräuber entlarvt worden und hatte zusammen
+Freunde, dem Liebhaberdetektiv Harald Harst, als gemeiner
+Karawanenräuber entlarvt worden und hatte zusammen
 mit seinem Genossen, dem verbrecherischen Arzte Doktor
 Albert Greebrac, die Flucht ergriffen.
 
-Wir, Hofft und ich, fein Bieter Begleiter, standen am
-erster des Arbeitszimmers Olgerdyns und schauten den
-den nach, wie sie in wilder Hast über die Brücke stürmten,
-deren zierliche Eisenkonstruktion auch den Beifall des an-fpruchsvollften
-europäischen Sinnenieurs gefunden hätte.
+Wir, Harst und ich, sein steter Begleiter, standen am
+Fenster des Arbeitszimmers Olgerdyns und schauten den
+beiden nach, wie sie in wilder Hast über die Brücke stürmten,
+deren zierliche Eisenkonstruktion auch den Beifall des
+anspruchsvollsten europäischen Ingenieurs gefunden hätte.
 
 »Willst Du sie entkommen lassen?« fragte ich Harald
-etwas ha, »Bedenke, daß Detektivinspektor Lockpor
+etwas erstaunt. »Bedenke, daß Detektivinspektor Lockpor
 bereits von Dehli nach hier unterwegs ist, um die beiden
 Verbrecher zu verhaften. Wie willst Du es Lockpor, unserem
 alten Bekannten, gegenüber vertreten, daß Du ihre
-Flucht nicht hinterlegt? 1»
+Flucht nicht hindertest?!«
 
-Ich hatte den Sah kaum beendet, als ein Zwischenfall
+Ich hatte den Satz kaum beendet, als ein Zwischenfall
 eintrat, den wir niemals erwartet hätten.
 
-Olgerbdyn hatte drüben auf der Höhe der Talwanh haltgemacht,
-hatte und am Fenster des Oberstocks bemerkt und
-tobend die Hand erhoben.
+Olgerdyn hatte drüben auf der Höhe der Talwand haltgemacht,
+hatte uns am Fenster des Oberstocks bemerkt und
+drohend die Hand erhoben.
 
-Er stand neben einem einzelnen dicken, krummgewachse-nen
+Er stand neben einem einzelnen dicken, krummgewachsenen
 Baume, bückte sich jetzt und schien am Fuße des Baumes
 etwas zu suchen.
 
 Dann ein dumpfer Krach.
 
-Die Fenster klirrten; ein paar Scheiben barsten —
+Die Fenster klirrten; ein paar Scheiben barsten.
 
-Dort, wo die Hängebrücke an der. Talwand den
-war, erhob sich eine Staubwolke, flogen Sträucher, Je
-Stücke und Steine in die Luft.
+Dort, wo die Hängebrücke an der Talwand verankert
+war, erhob sich eine Staubwolke, flogen Sträucher, Felsstücke
+und Steine in die Luft.
 
-»Die Brüder« rief Harald und umklammerte meinen
+»Die Brücke!« rief Harald und umklammerte meinen
 Arm.  »Da er hat sie gesprengt! Das Talende der
-Brille Profil!
+Brücke sinkt!«
 
 <@pagebreak/>
-Ich starrte wie agcbannt auf dieses Schauspiel.
+Ich starrte wie gebannt auf dieses Schauspiel.
 
-Mit einem furchtbaren Knall schlug jetzt das berab-fallende
-Ende unten auf die Talsohle auf
+Mit einem furchtbaren Knall schlug jetzt das herabfallende
+Ende unten auf die Talsohle auf.
 
 Ein neuer Krach — eine seltsame Vermengung von
-er am kennen Geräuschen, und auch das hochstrebende,
-an dem Würselfelsen verankerte Ende ren ab, und die
-ganze Brücke kippte nach Süden zu um
+nervenaufpeitschenden Geräuschen, und auch das hochstrebende,
+an dem Würfelfelsen verankerte Ende brach ab, und die
+ganze Brücke kippte nach Süden zu um.
 
-Jede Verbindung mit dem Laie, mit der Außenwelt,
-war Seele abgeschnitten.
+Jede Verbindung mit dem Tale, mit der Außenwelt,
+war vorläufig abgeschnitten.
 
-Hm rötlichen Glanz des Abenbhbimmels lau die Hängebrücke
+Im rötlichen Glanz des Abendhimmels lag die Hängebrücke
 als ein wüstes Gewirr von Eisenschienen dort unten
 auf dem dunklen, kahlen Gestein.
 
 Einige Meter weiter nach links, und sie wäre gerade
-auf das Hauptitallgnebäube der Aüchterei, deren Baulichkeiten
-sich im Tale um den Ganitwürfel gruppierten, gerät
+auf das Hauptstallgebäude der Züchterei, deren Baulichkeiten
+sich im Tale um den Granitwürfel gruppierten, gestürzt.
 
 Wir sahen, wie die Angestellten Olgerdyns, sämtlich
 zum Stamme der Radschputen gehörig, herbeigeeilt kamen,
-sonstwie sie den Eisentrümmerhaufen umstanden, lebhaft, ganz
-Tages ihre sonstige Art, miteinandr sprachen und dann zur
-Talwand emborblidten, wo ihr Herr noch immer neben dem
-verkrüppelten Baume verharrte und regungölos zu uns
+wie sie den Eisentrümmerhaufen umstanden, lebhaft, ganz
+gegen ihre sonstige Art, miteinander sprachen und dann zur
+Talwand emporblickten, wo ihr Herr noch immer neben dem
+verkrüppelten Baume verharrte und regungslos zu uns
 hinüberschaute.
 
-Er Sieg sich von seiner Burg, feinem - stolzen Beile,
-nicht Bau zu können,
+Er schien sich von seiner Burg, seinem stolzen Besitz,
+nicht trennen zu können.
 
 Greebrac war längst verschwunden. Wahrscheinlich
-Gaste er ein brav e Thar Eine zur Rortichung der Flucht
-die Mär an hinein, Dort fühlten die beiden ich
-fraglos am sichersten.: Dar!, wo Olgerdyn die Handels
-zwangen eurer nie: van kannte der seltsame
-Dr und großzügiger Kaufmann zugleich, ohne Amel-Mi
-genug Schlupftwinterl.
+holte er ein paar Reitdromedare zur Fortsetzung der Flucht
+in die wilde, öde Thar hinein. Dort fühlten die beiden sich
+fraglos am sichersten. Dort, wo Olgerdyn die Handelskarawanen
+ausgeplündert hatte, kannte der seltsame Mann,
+Räuber und großzügiger Kaufmann zugleich, ohne Zweifel
+genug Schlupfwinkel.
 
-Seht wandte auch er sich um und schritt eilends davon,
-bog um ein paar Frelsblöde und entschwand ebenfalls Rufe
-verblichen.
+Jetzt wandte auch er sich um und schritt eilends davon,
+bog um ein paar Felsblöcke und entschwand ebenfalls unseren
+Blicken.
 
-»So,« meinte Harald, »nun wird sich Bier raus,
-stellen, wie die zahlreiche Dienerschaft der ich und
-Kind. mich verhält. Ein Teil der Leute, die Na! e, wie keimt
-R Hingabe Olgaerdyn zugetan sind, ist Ran
+»So,« meinte Harald, »nun wird sich sofort herausstellen,
+wie die zahlreiche Dienerschaft der Burg sich uns
+gegenüber verhält. Ein Teil der Leute, die ja alle, wie bekannt
+mit größter Hingabe Olgaerdyn zugetan sind, ist ganz
 <@pagebreak/>
-her in seine Geheimnisse eingeweiht, Die Radschputen
-so ein äußerst fkriegeriscex, stolzer Volksstamm von Alters
-der, sah geübter teriduigle Kunden gewesen und haben
+sicher in seine Geheimnisse eingeweiht. Die Radschputen
+sind ein äußerst kriegerischer, stolzer Volksstamm von alters
+her, sind früher berüchtigte Räuber gewesen und haben
 wohl mit Freuden wieder in aller Heimlichkeit das Handwerk
 ihrer Vorväter ergriffen. Es dürfte sich empfehlen,
-daß wir uns schleunigst in eitle:t der Ecktürme der Mauer
-zurückziehen, wo wir uns Sehnig;ließen können. Dort will ich
+daß wir uns schleunigst in einen der Ecktürme der Mauer
+zurückziehen, wo wir uns einschließen können. Dort will ich
 Dir auch mitteilen, weshalb ich Greebrac und Olgerdyn
 entweichen ließ.«
 
 Wir nahmen unsere Pistolen und eilten in den Flur
-hinaus,
+hinaus.
 
-Auf der Haupttreppe, die auf den Weinfaß windete,
+Auf der Haupttreppe, die auf den Vorplatz mündete,
 begegneten wir Olgerdyns Diener Robert Scamarack, einen
 älteren, bartlosen Engländer mit undurchdringlichem Gesicht.
 
-Robert war fehl bleich. Beine. farblosen Augen musterten
-und mit einem schwer zu enträtfeinden Ausdruck,
+Robert war sehr bleich. Seine farblosen Augen musterten
+uns mit einem schwer zu enträtselnden Ausdruck.
 
-Master Harst, ‘die Brühe ist —«
+»Master Harst, die Brücke ist —«
 
-Wir waren schon an ihm vorüber, hörten nichts mehr
+Wir waren schon an ihm vorüber, hörten nichts mehr,
 stürmten durch die offenstehende Flügeltür und liefen auf
-den südlichen Eckturm u...
+den südlichen Eckturm zu.
 
-ie schmale, erholt ins ri Tür war zum Glüeck nicht
-verschlossen. Der-Schlüssel fette von außen.
+Die schmale, eisenbeschlagene Tür war zum Glück nicht
+verschlossen. Der Schlüssel steckte von außen.
 
-ir versperrten die Tür hinter uns, ließen Ben
+Wir versperrten die Tür hinter uns, ließen den
 Schlüssel von innen im Schloß und blieben tief aufatmend
-stehen,
+stehen.
 
-Ah asum er Narr kannten die Burg
-Hain elf heute, hatten sie vor kaum zu Stunde betreten,
-wußten nur, daß ich in den Ecktürmen der als
-funasmauer Büroräume befanden, denn Olgerdyns Da
-Meuterei erforderte einen großen Verwaltungsapparat —
+Ringsum tiefe Dunkelheit. Wir kannten die Burg
+erst seit heute, hatten sie vor kaum einer Stunde betreten,
+wußten nur, daß sich in den Ecktürmen der
+Umfassungsmauer Büroräume befanden, denn Olgerdyns Züchterei
+erforderte einen großen Verwaltungsapparat —
 
 Haralds Taschenlampe flammte auf.
 
-or uns lief eine steile Steintreppe hm Stoffsack empor.
+Vor uns lief eine steile Steintreppe im Zickzack empor.
 Hier unten im Erdgeschoß des Turmes gab es lediglich eine
-Anzahl Kisten und Fässer, kein Tue 9 Möbelstück.
+Anzahl Kisten und Fässer, kein einziges Möbelstück.
 
-Harst untersuchte die Fässer. ie enthielten Maschli-nendl,
+Harst untersuchte die Fässer. Sie enthielten Maschinenöl,
 Petroleum und Zement.
 
 »Schichten wir sie vor der Tür auf,« meinte er. »Ich
@@ -179,36 +179,35 @@ müssen wir uns hier verteidigen, falls nötig. Auf
 <@pagebreak/>
 Hilfe von den Einwohnern der Stadt ist nicht zu rechnen.
 Olgerdyn beschäftigt gegen dreihundert Leute, und es gibt
-feinen Radschputen, ver nicht Wasser Heirat.«
+keinen Radschputen, der nicht Waffen besitzt.«
 
 Das waren ja wenig rosige Aussichten!
 
-Doch — was half’s ich pochte mit zu und in wenigen
+Doch — was half’s ich packte mit zu und in wenigen
 Minuten hatten wir vor der starken Tür eine nur schwer
 wegzuräumende Barrikade errichtet.
 
 Dann schritten wir die Treppe hinan.
 
 Das Turmgemach des ersten Stocks mit drei vergitterten
-Bogensenstern enthielt nichts als  Vüromoöbel: zwei
-Schränke, zwei Tische, fünf Stühle und drei lechzte.
+Bogenfenstern enthielt nichts als Büromöbel: zwei
+Schränke, zwei Tische, fünf Stühle und drei Regale.
 
-Eine Treppe höher, dicht unter dem klaren Dach,
+Eine Treppe höher, dicht unter dem flachen Dach,
 wohnte offenbar einer von Olgerdyns Beamten. Dieser
-Ran, zu dem eine Wendeltreppe hochlief, war als Leinwand
-Schlafzimmer bescheiden ausageslattet.
+Raum, zu dem eine Wendeltreppe hochlief, war als Wohn\-
+und Schlafzimmer bescheiden ausgestattet.
 
-Ja der Decke dieses Gemachs bemerkten wir eine vier-Bw
-Falltür. Man konnte also auf Bad Bad hinaufgegangen.
-—
+In der Decke dieses Gemachs bemerkten wir eine viereckige
+Falltür. Man konnte also auf das Dach hinaufgegangen.  —
 
-Wir blickten durch die Schmalen Fenster in den Hof der
-Burg hinab. Nichts regte sich dort. Kein Mensch spät zu
-Gehen.
+Wir blickten durch die schmalen Fenster in den Hof der
+Burg hinab. Nichts regte sich dort. Kein Mensch war zu
+sehen.
 
-»Stille vor dem Sturm!«. meinte Harst, »Robert
-Scamrads Gesicht gefiel mir nicht. Der Steil bat eine
-Bringe, die an einen Giitmörder gewahrt.«
+»Stille vor dem Sturm!« meinte Harst. »Robert
+Scamracks Gesicht gefiel mir nicht. Der Kerl hat eine
+Visage, die an einen Giftmörder gemahnt.«
 
 Dann schauten wir zum anderen Fenster nach der zertrümmerten
 Brücke und den Radschputen aus.
@@ -217,48 +216,48 @@ Die Leute waren sämtlich verschwunden.
 
 »Ach sehr bedenklich!« sagte Harald sinnend. »Freilich
 — es wäre ja eigentlich eine ungeheure Dummheit von den
-Menschen, wenn sie ihre Mittäterfhaft durch ein feindseliges
-»Verhalten uns gegenüber verraten würden. über —«»
+Menschen, wenn sie ihre Mittäterschaft durch ein feindseliges
+Verhalten uns gegenüber verraten würden. Aber —«
 
 Er schwieg.
 
-Vom Hose her eine Stimme, die des Dieners Robert.
+Vom Hofe her eine Stimme, die des Dieners Robert.
 
 »Mr. Harst — Mr. Harst!«
 
-Harald trat an das Fenster heran, zeigte sich gaben nicht,
+Harald trat an das Fenster heran, zeigte sich aber nicht,
 sondern rief zurück: —
 
 »Hallo — was gibt’s«
 
 »Ich wollte nur fragen, weshalb Mr. Olgerdyn die
-Burg verlassen hat. und was geschehen ist. Der Einsturz
+Burg verlassen hat und was geschehen ist. Der Einsturz
 <@pagebreak/>
-der Brücke hat alle Telephoudrähte zerrissen. Ach habe vergebens
+der Brücke hat alle Telephondrähte zerrissen. Ich habe vergebens
 die Stallungen unten angeläutet.«
 
 »Aha!« meinte Harald leise zu mir, »die Bande will
 die Harmlosen spielen!«
 
-nd dann gab er Scamarack Antwort:
+Und dann gab er Scamarack Antwort:
 
-»Was Ersticken ist, werden Sie später erfahren. Wir
+»Was geschehen ist, werden Sie später erfahren. Wir
 beide bleiben hier im Turm, bis Detektivinspektor Lockpor
-»mit einer Abteilung berittener Polizei hier eintrifft. Packen
+mit einer Abteilung berittener Polizei hier eintrifft. Packen
 Sie Eßwaren und Behälter mit Trinkwasser in ein paar
-Körbe. Wir werden aus dem Fenster des ersten Stocks Lehnen
+Körbe. Wir werden aus dem Fenster des ersten Stocks Leinen
 hinablassen und die Körbe hochziehen.«
 
 »Sehr wohl, Mr. Harst. Wird sofort alles besorgt
 werden, obgleich ich nicht verstehe, weshalb die beiden Herren
 nicht lieber —«
 
-»Das ist unsere Sache!« rief Harald sehr Energie.
+»Das ist unsere Sache!« rief Harald sehr energisch.
 
-Bann nichts mehr. Scamarack hatte sich entfernt.
+Dann nichts mehr. Scamarack hatte sich entfernt.
 
 »Eine sehr ungemütliche Geschichte,« sagte Harst und
-feste sich auf einen der Rohrstühle.
+setzte sich auf einen der Rohrstühle.
 
 »Allerdings!« nickte ich. »Und — weshalb lag Dir
 nichts daran, Greebrac und Olgerdyn hier festzuhalten? Du
@@ -266,17 +265,17 @@ hättest es doch tun können.«
 
 »Gewiß. Ich wollte es jedoch nicht.«
 
-er zog eine Zeitung aus der Tasche seines Sporthem-des
+Er zog eine Zeitung aus der Tasche seines Sporthemdes
 hervor, besser — nur ein Stück einer Zeitung.
 
-»Dieses Blatt habe ich in Dehli im Hotel Jmperial
+»Dieses Blatt habe ich in Dehli im Hotel Imperial
 zu mir gesteckt, nachdem Olgerdyn uns dort besucht hatte,«
-erklärte er. »Schon damals vor vier Tagen hegte ich gegen -
-Olagerdyn Verdacht. Ich vurchblätterte, wie Du weißt, die
-legten Nummern der Dehli-Post und fand dies hier —«
+erklärte er. »Schon damals vor vier Tagen hegte ich gegen
+Olagerdyn Verdacht. Ich durchblätterte, wie Du weißt, die
+letzten Nummern der Dehli-Post und fand dies hier —«
 
-Tor hielt mir das Stück kenne hin und deutete auf
-obige besonders seht agedruckdte Ueberschrift.
+Er hielt mir das Stück Zeitung hin und deutete auf
+eine besonders fett gedruckte Ueberschrift.
 
 <@pagebreak/>
 
@@ -285,141 +284,141 @@ obige besonders seht agedruckdte Ueberschrift.
 
 Diese Ueberschrift lautete:
 
-> Eine Jagdagesellschast in der Thar umgekommen.
+> Eine Jagdgesellschaft in der Thar umgekommen.
 
-Der darunter stehende Artikel handelte von dem Verenden
-Lord Allan Breßforts, feiner Gattin und bot
-Moos Da ancroof von der indischen Kolonialarmee
-an- e.
+Der darunter stehende Artikel handelte von dem Verschwinden
+Lord Allan Breßforts, seiner Gattin und des
+Majors Ernest Pancroof von der indischen Kolonialarmee
+in der Thar-Wüste.
 
-Die genannten drei Personen,« hieß es dort weiter,
+»Die genannten drei Personen,« hieß es dort weiter,
 »waren vor drei Wochen mit fünf Radschputen und vier
 Dienern von Ghosgarh aus aufgebrochen, um in den Bergen
-von Karat Co Uhr zu lagen, Lord Breßfort »
-hört zu den reichsten Aristokraten Englands und befand
-mit feiner sportliebenden Gattin, einer geborenen Mr
-Pancroof, auf der Hochzeitsreise. Die fünf von dem Lot
-Führer angeworbenen Radschputen, langjährige Ka-rawanenbegleiter,
-kennen die Thar in allen Teilen so Mk,
-das man kaum annehmen kann, die Jagdgesellschaft sollte
-verirrt haben und durch Wassermangel. umgekommen
+von Kanod Bergziegen zu jagen, Lord Breßfort gehört
+zu den reichsten Aristokraten Englands und befand sich
+mit seiner sportliebenden Gattin, einer geborenen Miß
+Pancroof, auf der Hochzeitsreise. Die fünf von dem Lord
+als Führer angeworbenen Radschputen, langjährige Karawanenbegleiter,
+kennen die Thar in allen Teilen so gut,
+daß man kaum annehmen kann, die Jagdgesellschaft sollte
+sich verirrt haben und durch Wassermangel umgekommen
 <@pagebreak/>
-sein. Man wird vielmehr mit irgend einemNaturereianis,
-etwa mit einem Sandsturm, zu reinen haben, denn eine
-Los anderthalb Wochen aus der Thar in Ehrbaren zugeraunte
-Farawane wurde« südlich der wilden Karat-Berge
-oberfaul durch einen falten Sandsturm in die größte je
-Gefahr gebracht. ne von Ghosgarh aus abaeichidten an
-Polizeipatrouillen vom Kamelrciterfkorps haben nicht Die geringste
-Spur ob »den Verschwundenen entdeckt. Major
+sein. Man wird vielmehr mit irgend einem Naturereignis,
+etwa mit einem Sandsturm, zu rechnen haben, denn eine
+vor anderthalb Wochen aus der Thar in Bikaner angelangte
+Karawane wurde südlich der wilden Kanod-Berge
+ebenfalls durch einen solchen Sandsturm in die größte
+Gefahr gebracht. Die von Ghosgarh aus abgeschickten
+Streifpatrouillen vom Kamelreiterkorps haben nicht die geringste
+Spur von den Verschwundenen entdeckt. Major
 Pancroof, Kommandeur der in Ghosgarh stehenden Abteilung
-dieses Korps, war Ne eifriger Jäger und
-wußte in der Thar gut Begehe
+dieses Korps, war ebenfalls eifriger Jäger und
+wußte in der Thar gut Bescheid —«
 
-Der Rest des Artikels entließ nichts Wichtiges.
+Der Rest des Artikels enthielt nichts Wichtiges.
 
-ja gab Harald das Blatt zurück.
+Ich gab Harald das Blatt zurück.
 
 »Ich glaube Deine Gedanken halb und halb erraten zu
 haben,« meinte ich. »Du nimmst an, daß Olgerdyn die
-Mr überfallen hat.«
+Jagdgesellschaft überfallen hat.«
 
-Lord Breßfort ist unermeßlich reich, und ein
-Mann von der Geldgier Olgerdyns ist nicht Malers
-wird auch zum Erpresser eines Lösegeldes. es sollte mich
+»Ja. Lord Breßfort ist unermeßlich reich, und ein
+Mann von der Geldgier Olgerdyns ist nicht wählerisch,
+wird auch zum Erpresser eines Lösegeldes. Es sollte mich
 nicht wundern, wenn nicht plötzlich in Ghosgarh bei Pancroofs
 Kameraden ein Brief eintrifft, in dem die Erpresser
 sich melden — natürlich unter xbeliebigen Namen.«
 
 »Hm — und der Zusammenhang zwischen der Tatsache,
-Du Olgerdyn und Greebrac entwischen ließest, und
-die cm Verschwinden der zwölf Personen?«
+daß Du Olgerdyn und Greebrac entwischen ließest, und
+diesem Verschwinden der zwölf Personen?«
 
 »Dieser Zusammenhang besteht darin, daß ich durch
-und Greebracs Spuren Lord Breßfort zu finden
+Olgerdyns und Greebracs Spuren Lord Breßfort zu finden
 hoffe.«
 
-— trotzdem wär jetzt hier eingeschlossen sind?!«
+»Ah — trotzdem wir jetzt hier eingeschlossen sind?!«
 
-»Allerdings. Denn — wir werden noch in dieser Nach!
-As Wohngemach oben enthält genug Decken,
-um. Dr. Stricke zu drehen.«
+»Allerdings. Denn — wir werden noch in dieser Nacht
+entweichen. Das Wohngemach oben enthält genug Decken,
+um daraus Stricke zu drehen.«
 
-= ie Du willst Dich in das Tal hinablassen.«
+»Verstehe: Du willst Dich in das Tal hinablassen.«
 
-»Gewiß. Dann werden wir uns Reittiere, Wasser-Bu
-und Gewehre beschaffen und wieder einmal Kais
-Es Romantik höchstselbst durchmachen: Wültenritt, Verfolgung
-— und be weiter.«
+»Gewiß. Dann werden wir uns Reittiere, Wasserschläuche
+und Gewehre beschaffen und wieder einmal Karl
+Mays Romantik höchstselbst durchmachen: Wüstenritt, Verfolgung
+— und so weiter.«
 
-ie Mr. bar er abermals Robert Scamaracks Stimme:
+Vom Hofe her abermals Robert Scamaracks Stimme:
 
-Art — bitte, die Körbe sind bereit!«
+»Mr. Harst — bitte, die Körbe sind bereit!«
 
 <@pagebreak/>
-Rein Minuten Idee Bein wir Trinkwasser und he
-Mr Da in Hüfte und
+Zehn Minuten später hatten wir Trinkwasser und Lebensmittel
+in Hülle und Fülle.
 
 Mir kamen die Eßvorräte sehr auslegen. Ich hatte
-en Während ich eine er öffnete, stier
-Harald die Treppe in das Erdgeschoß
+Hunger. Während ich eine Konservenbüchse öffnete, stieg
+Harald die Treppe in das Erdgeschoß hinab.
 
-Ich aß mit gutem Appetit. Es las eine Viertel-Bu
-und mehr Harst kehrte nicht Mr Er hatte die
-für des Turmgemaches hinter sich ins Schloß gedrückt,
+Ich aß mit gutem Appetit. Es verging eine Viertelstunde
+und mehr. Harst kehrte nicht zurück. Er hatte die
+Tür des Turmgemaches hinter sich ins Schloß gedrückt,
 als er hinabging. Erst hatte ich noch allerhand Geräusche
 von unten gehört. Er wollte ja die Barrikade verstärken.
 
-Seht vernahm ich keinen Laut Mg Und plötzlich
-besieh mich eine ungewisse Angst. Tand schnell auf,
-schaltete meine Taschenlampe ein Fi urmgemac hatte
-Ben! Beleuchtung wie die ganze Burg) und folgte
-Hai
+Jetzt vernahm ich keinen Laut mehr. Und plötzlich
+befiel mich eine ungewisse Angst. Ich stand schnell auf,
+schaltete meine Taschenlampe ein (das Turmgemach hatte
+elektrische Beleuchtung wie die ganze Burg) und folgte
+Harald.
 
-So Erdgeschoß schaute ich mich umsonst nach Ihm um.
+Im Erdgeschoß schaute ich mich umsonst nach ihm um.
 
-er hatte auch die Kisten noch auf die Fässer gestellt
-»und — wo war er jebßt?!
+Er hatte auch die Kisten noch auf die Fässer gestellt
+und — wo war er jetzt?!
 
-Ringasum kahle Mauern, Granitquadern. Nur vor der
+Ringsum kahle Mauern, Granitquadern. Nur vor der
 Tür der Stapel Kisten und Fässer.
 
 Wo war Harst?!
 
-Eine einzige Möglichkeit gab es, sein Verschwinden aufs
-Bären: ich mußte die Steinwände genau untersuchen!k
-mußte hier Ging Geheimtür geben!
+Eine einzige Möglichkeit gab es, sein Verschwinden aufzuklären:
+ich mußte die Steinwände genau untersuchen!
+Es mußte hier eine Geheimtür geben!
 
-fand sie auch, An der Ostseite, wo die Umfaffunad
-Mauer Burg mit y Turmwand zusammenstieß, waren
-viel quer ehe ihr gelte t in vorn eisernen Rabe
-Nachbar und nach außen gut brüten, der
-wenden ‘ eine für In dicken, rostigen Angel!.
+Ich fand sie auch. An der Ostseite, wo die Umfassungsmauer
+der Burg mit der Turmwand zusammenstieß, waren
+vier der Steinquadern sehr geschickt in einen eisernen Rahmen
+eingefügt und ließen sich nach außen aufdrücken, bewegten
+sich wie eine Tür in dicken, rostigen Angeln.
 
-Winter lag ein kaum mannshoher, schmaler Gang,
-der Mauer Fortgang.
+Dahinter lag ein kaum mannshoher, schmaler Gang,
+der in der Mauer entlanglief.
 
-» Eine dicke Schicht von Staub belebte den Boden. An
-Ufer Scheren Staubdede sah ich die Spuren von Männer-schuhen:
-hier war Harald weiter auf Entdecklungsreisen
-nachgegangen!
+Eine dicke Schicht von Staub bedeckte den Boden. In
+dieser lockeren Staubdecke sah ich die Spuren von Männerschuhen:
+hier war Harald weiter auf Entdeckungsreisen
+ausgegangen!
 
-wußte nicht recht, was ich tun sollte. Ihm folgen?!
-Durfte ich den Turm unbewacht lassen?! Norden der
-Diener Robert und die übrigen Leute der Burg uns wird
-lich unbehelligt lassen?
+Ich wußte nicht recht, was ich tun sollte. Ihm folgen?!
+Durfte ich den Turm unbewacht lassen?! Würden der
+Diener Robert und die übrigen Leute der Burg uns wirklich
+unbehelligt lassen?
 
 <@pagebreak/>
-Ich kehrte also zunächst nach oben In das Bürozimmer
-aurü, schaltete das Licht aus und spähte in den Hof hinab.
-Unten alles still wie blühen, Die Dunkelheit hatte
+Ich kehrte also zunächst nach oben in das Bürozimmer
+zurück, schaltete das Licht aus und spähte in den Hof hinab.
+Unten alles still wie bisher. Die Dunkelheit hatte
 rasch zugenommen.
 
-Dann überlegte ich mir, daß Ei? Geheimtür und der
+Dann überlegte ich mir, daß die Geheimtür und der
 Gang fraglos seit Jahrzehnten, der Staubschicht nach zu
 urteilen, nicht benutzt worden waren. Olgerdyn kannte
-dieses Geheimnis der alten Radschputenburg wahr scheine
-lich gar nicht. Er hatte ja nur die Burg selbst in den. oberen
+dieses Geheimnis der alten Radschputenburg wahrscheinlich
+gar nicht. Er hatte ja nur die Burg selbst in den oberen
 Teilen umbauen lassen.
 
 Wenn ich die Lebensmittel und das Trinkwasser mitnahm,
@@ -433,30 +432,32 @@ und ließ nun das Licht brennen.
 Nachdem ich die Geheimtür wieder zugedrückt hatte,
 begann ich die Wanderung ins Unbekannte hinein.
 
-Der Gang mündete in den östlichen Eckturm. 39
-mußte diesen also im Erdgeschoß durchschreiten und
-einer zweiten Geheimtür in der Nordmauer suchen,
+Der Gang mündete in den östlichen Eckturm. Ich
+mußte diesen also im Erdgeschoß durchschreiten und nach
+einer zweiten Geheimtür in der Nordmauer suchen.
 
 Dieser Turm war verschlossen und unten gänzlich leer.
 Meine Annahme, Harald hätte denselben Weg gewählt,
 bestätigte sich. Ich fand die zweite Geheimtür, den Zugang
-zu der Fortsetzung des An Weges in der hohlen Mauer.
-Ach war hier jedoch n eine zehn Schritt vorgedrungen,
-der Bann pipenl aufhörte,
+zu der Fortsetzung des Weges in der hohlen Mauer.
+Ich war hier jedoch noch keine zehn Schritt vorgedrungen,
+als der Gang plötzlich aufhörte.
 
-Das Licht der Taschenlampe fiel auf den Bodens, zu
-Haralds Spuren und — auf eine viereckige Eisenplatte
+Das Licht der Taschenlampe fiel auf den Boden, auf
+Haralds Spuren und — auf eine viereckige Eisenplatte mit
 einem Ringe.
 
-Mir sie. Es kostete Anstrengung genug, sie
+Ich lüftete sie. Es kostete Anstrengung genug, sie
+hochzukippen.
 
 Darunter ein unregelmäßiger Schacht, offenbar eine
 natürliche Felsspalte des Granitwürsels, auf dem die Burg
+stand.
 
 In dieser Spalte lief eine Treppe abwärts. Nach
 vierunddreißig Stufen hörte die Spalte auf und ich befand
 mich in einer Höhle, die schräg nach Norden zu abfiel. Sie
-war kaum fünf Meter breit. Auch hier Haralds Spuren.
+war kaum fünf Meter breit. Auch hier Haralds Spuren,
 die mir die Richtung wiesen.
 
 <@pagebreak/>
@@ -464,163 +465,165 @@ Die Höhle verengerte sich. Ein neuer Schacht, eine
 neue Treppe.
 
 Und dann — dann kahles Gestein ringsum. Aber
-auf dem Boden lau das Zeitungsblatt, in Bieilform ge
-Mit. Am Rande stand:
+auf dem Boden lag das Zeitungsblatt, in Pfeilform geknifft.
+Am Rande stand:
 
-> Warte hier
+> Warte hier!
 
-Uns hatte Harald he ans daß ich ihn surren
+Also hatte Harald damit gerechnet, daß ich ihn suchen
+würde.
 
-setzte mich, legte das Bündel neben mich.
+Ich setzte mich, legte das Bündel neben mich.
 
 Eine volle Stunde verstrich.
 
-Nun ein scharrendes Genaue
+Nun ein scharrendes Geräusch.
 
-Und dort, wohin der Paplerpseil gezeigt hatte, bemerke
+Und dort, wohin der Papierpfeil gezeigt hatte, bewegte
 sich ein Teil des Gesteins.
 
-Dort wieder eine Geheimtür — lud Freie, in ein ha.
-nahes Dornengestrüpp, das am Fuße des Buraselsens wuchs.
+Dort wieder eine Geheimtür — ins Freie, in ein hohes
+Dornengestrüpp, das am Fuße des Burgfelsens wuchs.
 
-An vi tief gebückt ein, winkte.
+Harald trat tief gebückt ein, winkte.
 
-drum
+»Komm’!«
 
-Er der kräftigere von uns fcdhulterte jetzt das Bündel.
-Draußen Abendduntel, ein Kamelacehene mit jungen
-en
+Er der kräftigere von uns schulterte jetzt das Bündel.
+Draußen Abenddunkel, ein Kamelgehege mit jungen
+Tieren.
 
 Wir schlichen weiter — bis an die westliche Talwand.
 
 Niemand begegnete uns. Wir erklommen die Anhöhe,
-durchquerten eine Schlucht, kamen in die Wüste, auf siein-besäten
-Boden,
+durchquerten eine Schlucht, kamen in die Wüste, auf steinbesäten
+Boden.
 
-Vor und eine Reihe von Hügeln und ein einsames
-Licht. an blieb sie
+Vor uns eine Reihe von Hügeln und ein einsames
+Licht. Harst blieb stehen.
 
-In jener | ‘besinden sich Greebrac und Ob Orkan.
-Wünsche er er, vd weh Relitdromedare lud weh Da Siamese
-der Hütte angebunden. Sie tollen um
-Mitternacht Mk fliehen. Ich entdeckte die Da, als ich. Dr
+»In jener Hütte befinden sich Greebrac und Olgerdyn,«
+flüsterte er. »Zwei Reitdromedare und zwei Lastkamele
+sind hinter der Hütte angebunden. Sie wollen um
+Mitternacht aufbrechen. Ich entdeckte die Hütte, als ich für
 uns beide Reittiere heimlich aus einem Gehege holte. Auch
-alte Unmenge und zwei Gewehre habe ich gestohlen —
+Sättel, Zaumzeuge und zwei Gewehre habe ich gestohlen —
 aus der Wohnung eines Aufsehers. Was Greebrac und
 Olagerdyn sprachen, konnte ich nur zum Teil verstehen.
-Wichtig war, daß Lord Allan Breßforts Name dreimal sie
-wähnt wurde und daß ich nun weiß, wo die Patentzeich-nungen
-Zement Murpbifong, denen an enden eine
-Woche lang naciagnen (Vergl. Wo. trat des
-Doktor Murphison«) sich befinden. loses hat sie noch
+Wichtig war, daß Lord Allan Breßforts Name dreimal erwähnt
+wurde und daß ich nun weiß, wo die Patentzeichnungen
+Doktor Murphisons, denen wir jetzt schon eine
+Woche lang nachjagen (Vergl. Bd. 83a »Das Patent des
+Doktor Murphison«) sich befinden. Greebrac hat sie noch
 <@pagebreak/>
-immer bei sich. — So — Weiter nach links. Dort in einer
+immer bei sich. — So — weiter nach links. Dort in einer
 kleinen Schlucht stehen unsere Reitkamele. Ich habe die
-besten Tiere ausgesucht —
+besten Tiere ausgesucht —« —
 
 Anderthalb Stunden später ging der Mond auf.
 
-Auswischen hatte Harald mir noch mitgeteilt, Daß er
-Ab, was das Schicksal der Jagdgesellschaft des Lords
-treffe, doch geirrt zu haben scheine.
+Inzwischen hatte Harald mir noch mitgeteilt, daß er
+sich, was das Schicksal der Jagdgesellschaft des Lords
+betreffe, doch geirrt zu haben scheine.
 
-»Leider sprachen Olgerdyn und Greebrac sehr bei
-hatte er gesagt. »Olgerdyn äußerte einmal wörtlich:
-Geschichte dort mit Lord Breßfort muß im ein Ende he
-Kracht werden!« Was Greebrac erwiderte, war noch um
-klarer: »Das kostet viel Blut. Sie sind zäh!« — Ach finde
-mich da nicht Anrecht, mein Alter. Es scheint so, als ob
-Blieb;fort den Schuster entschlüpft ist und sich irgendwo verteidigt,
+»Leider sprachen Olgerdyn und Greebrac sehr leise,«
+hatte er gesagt. »Olgerdyn äußerte einmal wörtlich: »Der
+Geschichte dort mit Lord Breßfort muß nun ein Ende gemacht
+werden!« Was Greebrac erwiderte, war noch unklarer:
+»Das kostet viel Blut. Sie sind zäh!« — Ich finde
+mich da nicht zurecht, mein Alter. Es scheint so, als ob
+Breßfort den Schurken entschlüpft ist und sich irgendwo verteidigt,
 also belagert wird.
 
-»Das ist ist wohl ausgeschlossen,« erklärte ich »Die Bar
-Polizeipatrouillen des Kamelreiterkorps hätten dies wohl aëmertkt - —
+»Das ist ist wohl ausgeschlossen,« erklärte ich. »Die
+Patrouillen des Kamelreiterkorps hätten dies wohl gemerkt —
 durch den Knall von Schüssen wären sie auf die nach Deiner
-Ansicht Unzinaelten aufmerksam geworden.«
+Ansicht Umzingelten aufmerksam geworden.«
 
-»Ganz recht. Und dennoch: was heißt das; »Es kostet
-viel Blut. Sie sind zäh!« — Deute mir diese Säge besser,
-wenn Du Gestalt!«
+»Ganz recht. Und dennoch: was heißt das: »Es kostet
+viel Blut. Sie sind zäh!« — Deute mir diese Sätze besser,
+wenn Du es kannst!«
 
-»Vielleicht sollte Breßfort einen Brief des Tdtegeives
+»Vielleicht sollte Breßfort einen Brief des Lösegeldes
 wegen an irgend jemand schreiben und hat sich bisher
-weigert, Man wir ihn nun vielleicht mit dem Tode oh
-hohen, So mag Greebraecs Aeußerung zustande gekont-sein,
+geweigert. Man wir ihn nun vielleicht mit dem Tode bedrohen.
+So mag Greebraecs Aeußerung zustande gekommen
+sein.«
 
-Wen nk der andauernd nach der hie Kinliberaelpaht
-hatte, die im Mondenschein als hellerer Fleck etwa Fünf
-hundert. Meter nach rechts zu erkennen war, rief jetzt erregt:
+Harald, der andauernd nach der Hütte hinübergespäht
+hatte, die im Mondenschein als hellerer Fleck etwa fünfhundert
+Meter nach rechts zu erkennen war, rief jetzt erregt:
 
-»Sie brechen aus! Aber — da haben sich vorbei vier
-Weggleiten eingefunden. — Sechs Gegner also! Etwas viel!«
+»Sie brechen auf! Aber — da haben sich noch vier
+Begleiter eingefunden. — Sechs Gegner also! Etwas viel!«
 
 Ich erhob mich. Auch ich sah die sechs Kamelreiter und
-die beiden Lasttiere, Sie ritten gerade über einen Hügel-kamm
-— nach Welten zu, also in die ödesten Teile der
+die beiden Lasttiere. Sie ritten gerade über einen Hügelkamm
+— nach Westen zu, also in die ödesten Teile der
 Thar hinein.
 
 »Die Romantik beginnt,« sagte Harald. »Wir bleiben
-nicht hinter, sondern neben ihnen. s ist sicherer.«
+nicht hinter, sondern neben ihnen. Das ist sicherer.«
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Als Fährtensuchex.</h3>
+<h3>Als Fährtensucher.</h3>
 
 Wir waren an das Reiten im Kamelsattel gewöhnt.
-nach Tallamara waren wir ja doch zu Kamel gelangt.
+Auch nach Tallamara waren wir ja doch zu Kamel gelangt.
 
-Haralds kundigen Blick baue wirklich erstklassige Tiere
-Lgewählt. Da die recht Verfolgten mit Ihren bedachten
-Baftpromedaren nur Trab reiten konnten, hatten wir sehr
-Bald links von ihnen ihren Vorsprung eingeholt.
+Haralds kundiger Blick hatte wirklich erstklassige Tiere
+ausgewählt. Da die sechs Verfolgten mit Ihren bepackten
+Lastdromedaren nur Trab reiten konnten, hatten wir sehr
+bald links von ihnen ihren Vorsprung eingeholt.
 
-Wir hüteten uns, ihnen allzu nahe zu rücken. Es gen
-rate ja auch, wenn wir sie hin und wieder zu Gesicht
-men.
+Wir hüteten uns, ihnen allzu nahe zu rücken. Es genügte
+ja auch, wenn wir sie hin und wieder zu Gesicht
+bekamen.
 
-So aging es fortgesetzt in gerader Richtung nach Westen
-Längst lag der fruchtbare Zeit der Wüste mit feinen
-Biehiweiden, die Gegend um Tallamara, hinter uns. Als«
-er Morgen graute, mußten wir den Zwischenraum zusehen
-uns dem Reitertrupp erweitern, um nicht bemerkt zu
-n.
+So ging es fortgesetzt in gerader Richtung nach Westen
+zu. Längst lag der fruchtbare Teil der Wüste mit seinen
+Viehweiden, die Gegend um Tallamara, hinter uns. Als
+der Morgen graute, mußten wir den Zwischenraum zwischen
+uns und dem Reitertrupp erweitern, um nicht bemerkt zu
+werden.
 
 In der Ferne tauchten jetzt vor uns die ersten kahlen
-abhoben auf. Die Unwirilichkeit dieser wildzerklüsteten
+Bergkuppen auf. Die Unwirklichkeit dieser wildzerklüfteten
 <@pagebreak/>
-Öbenzüne der Thar übertrifft noch an schauerlicher Düfter-eit
+Höhenzüge der Thar übertrifft noch an schauerlicher Düsterkeit
 und Unfruchtbarkeit die Gebirgszüge der Sahara.
 
 Die sechs Reiter hatten morgens bei Sonnenaufgang
 die ersten Vorhügel erreicht und verschwanden in den Felsmassen.
-Fleht mußten wir doch notgedrungen ihre Fährten
+Jetzt mußten wir doch notgedrungen ihre Fährten
 suchen und auf ihren Spuren bleiben. Wir warteten eine
-halbe Stunde. Dann ritten wir aus die Stelle zu, wo wir
+halbe Stunde. Dann ritten wir auf die Stelle zu, wo wir
 die sechs zuletzt gesehen hatten.
 
 Aber — bald kam die bittere Enttäuschung: Im Sande
 der Wüste war die vielfache Fährte scharf ausgeprägt. Auf
 dem schwarzen Felsboden des Tales, in das die sechs eingebogen
 waren, ließ sich nichts mehr erkennen — nichts!
-Anfangs sanken wir noch ein paar von den Hufen zermalmte
-Gen, Ran suchten wir zwei Stunden und erutdedten
-—
+Anfangs fanden wir noch ein paar von den Hufen zermalmte
+Steinchen. Dann suchten wir zwei Stunden und entdeckten
+nichts — nichts!
 
 Ich schaute Harald ratlos an.
 
-»Sie rechnen ja damit, versorgt zu werden,« meinte er.
-»Deshalb sind sie vorsichtig gewesen. Ein Mann wie Obige
+»Sie rechnen ja damit, verfolgt zu werden,« meinte er.
+»Deshalb sind sie vorsichtig gewesen. Ein Mann wie Olgerdyn,
 der ein Jahrzehnt heimlich den Buschklepper der
-Thar gespielt hat, kennt alle Schliche und Listen. Trotzdem: -
-wir werden die Spuren finden! Natürlich haben sie na
-altem Rezept die Hufe der Tiere mit Decken umwicelt.
+Thar gespielt hat, kennt alle Schliche und Listen. Trotzdem:
+wir werden die Spuren finden! Natürlich haben sie nach
+altem Rezept die Hufe der Tiere mit Decken umwickelt. Es
 soll ihnen nichts helfen. Wir werden uns hier nicht weiter
 abmühen. Frühstücken wir zunächst, dann aber umreiten
 wir den Höhenzug und wenn es einen ganzen Tag dauern
 sollte.
 
-»Ich war nicht sehr hossnungsfroh. Ich ahnte weitere
+Ich war nicht sehr hoffnungsfroh. Ich ahnte weitere
 Schwierigkeiten. Und — ich hatte recht damit!
 
 Als wir um die Mittagszeit bei sengender Hitze mit
@@ -628,157 +631,157 @@ müden Tieren den südlichsten Teil der Bergmassen erreicht
 hatten, stießen wir auf die Fährte von vier Kamelen.
 
 Harald stieg ab und untersuchte die Spuren, sagte
-na:
+dann:
 
-»Sich wette, sie haben sich getrennt. Drei sind nach anderer
+»Ich wette, sie haben sich getrennt. Drei sind nach anderer
 Richtung mit dem einen Lastkamel weiter geritten, die
 anderen drei mit dem zweiten Packtier haben wir hier vor
 uns. Rasten wir dort im Schatten der Felsen. Ich werde
 dieser Fährte eine Strecke zu Fuß folgen.«
 
-— -Harst kehrte nach einer halben Stunde zurück. Seinem
+Harst kehrte nach einer halben Stunde zurück. Seinem
 <@pagebreak/>
-Gesicht sah As Lord Heften er Schlauheit unfeine
-neue Per gegeben ha
+Gesicht sah ich an, daß Hektor Olgerdyns Schlauheit uns
+eine neue Nuß zu knacken gegeben hatte.
 
-»Die vier Fährten trennen sich Sees hinten in einen.
-steinigen Tale abermals,« erklärte er und feste sich neben
-»mich. »Wenn unser Wasservorrat nicht lediglich drei Tag:
-würde, wäre das alles nicht weiter »schlimm So
-aber müssen wir mit Leder Minute Eigen —«
+»Die vier Fährten trennen sich dort hinten in einem
+steinigen Tale abermals,« erklärte er und setzte sich neben
+mich. »Wenn unser Wasservorrat nicht lediglich drei Tage
+reichen würde, wäre das alles nicht weiter schlimm. So
+aber müssen wir mit jeder Minute geizen —«
 
-— Nachdenklich begann er etwas Büchsenfleisch zu essen.
+Nachdenklich begann er etwas Büchsenfleisch zu essen.
 
-Dann — ganz plötzlich eine hastige Handbewegung.
-Mk also dar fror
+Dann — ganz plötzlich eine hastige Handbewegung. Er
+warf die leere Büchse fort.
 
-Mein Alter, wir müssen nun schoben allein weiter Mr
-en beiden Fährten na Merke Dir eins« achte auf
-Venen, wo die Neider ausstiegen sind. Entbehrt Du Kais:
-ndrüde von Stiefeln mit Hacken, so handelt es sich um:
-kostbar und Greebrac. Die — vier auderxeu waren li
-Eingeborene, waren Radschputen. Wir beide werden un.
-wieder zusammenfinden.«
+»Mein Alter, wir müssen nun jeder allein weiter diesen
+beiden Fährten nach. Merke Dir eins: achte auf die
+Stellen, wo die Reiter abgestiegen sind. Entdeckst Du die
+Schuheindrücke von Stiefeln mit Hacken, so handelt es sich um
+Olgerdyn und Greebrac. Die — vier anderen waren ja
+Eingeborene, waren Radschputen. Wir beide werden uns
+schon wieder zusammenfinden.«
 
-Gegen drei Uhr nachmittags sagten wir uns in den
-steinigen Tal lebewohl. Noch ein Händedruck, und ihn
-sprengte nach Süden zu, während Kannst nach Norden da
+Gegen drei Uhr nachmittags sagten wir uns in dem
+steinigen Tal lebewohl. Noch ein Händedruck, und ich
+sprengte nach Süden zu, während Harald nach Norden davonritt.
 
-1E Die Spuren vor mir waren leicht zu erkennen. Weh.
+Die Spuren vor mir waren leicht zu erkennen. Mein
 Reittier, gut ausgeruht, schlug jenen flüchtigen Trab ein
-Lesers u aaloppiecend gerochen ich nach an ab
-senkte sich, ging in die sandige e über ahnte Wo,
-allmählich mehr ans See um Nach einer Stunde aber
-Kanals ein tiefes he aha Stäbchen, vereinzelte:
-PinnEEON und ärmliche stenpslanzen.
+dem ein Pferd nur galoppierend gewachsen ist. Das Tal
+senkte sich, ging in die sandige Wüste über. Die Fährte bog
+allmählich mehr nach Osten um. Nach einer Stunde abermals
+ein tiefes Tal und glatter Felsboden, vereinzeltes
+Steingeröll und ärmliche Wüstenpflanzen.
 
-hier — hier auf dem nahten Gestein waren Ei
-»Reiter abgestiegen. Hier wandte ich nun all meine!
-Scharfsinn an; hier entdecke ich im frischen Kamelkot ans
-Schnöde verschieden grober Stiefelabfäße. Also — wo
-urobäer, e 2 Gesuchten
+Und hier — hier auf dem nackten Gestein waren die
+beiden Reiter abgestiegen. Hier wandte ich nun all meinen
+Scharfsinn an; hier entdecke ich im frischen Kamelkot zwei
+Abdrücke verschieden grober Stiefelabsätze. Also — zwei
+Europäer, die Gesuchten!
 
-Aber — dann ab jegliche ahnte wieder auf.
+Aber — dann hörte jegliche Fährte wieder auf.
 
-Meilenweit log sich das Tal hin mit zahllosen Neben
-Tälern. Ueberall kahler Fels. Nirgends eine Fährte ade:
-tw) das als Fährte zu deuten war.
+Meilenweit zog sich das Tal hin mit zahllosen Nebentälern.
+Ueberall kahler Fels. Nirgends eine Fährte oder
+etwas, das als Fährte zu deuten war.
 
-Ich führte mein Tier am Zügel und ging tief Gebäck.
-fürchte — suchte —
+Ich führte mein Tier am Zügel und ging tief gebückt
+— suchte — suchte —
 
 <@pagebreak/>
-Nichts — nichts! Ich war förmlich verzweifelt,
+Nichts — nichts! Ich war förmlich verzweifelt.
 Noch ein paar Stunden dann kam die Nacht, dann verloren
-kwir-foftbare, untviderbringaliche Zeit!
+wir kostbare, unwiederbringliche Zeit!
 
-löslich hinter mir Hufschläge — ein lauter Ruf.
+Plötzlich hinter mir Hufschläge — ein lauter Ruf.
 
-Zwar Harst.
+Es war Harst.
 
-ich habe sie vor mir,« berichtete ich fliegenden Atems.
+»Ich habe sie vor mir,« berichtete ich fliegenden Atems.
 
 »Die, denen ich gefolgt war, sind zwei Radschputen,«
-Kante. er und ließ fein Tier niederknien. »Es ist dick wird
-ich Kais Mais Fndianerromautik fast, ‘die uns alle als
+sagte er und ließ sein Tier niederknien. »Es ist dies wirklich
+Karl Mays Indianerromantik fast, die uns alle als
 Jungen in Bann geschlagen hat.«
 
-Er war He bis in Gottes freier Natur ein ganz anderer.
+Er war hier in Gottes freier Natur ein ganz anderer.
 Er lebte hier in kurzem förmlich auf. Aus dem eleganten
 Weltmann und grüblerischen Detektiv wurde ein froher
-Sie Na mit blitzenden Augen und fast kindlichem
+Steppenbewohner mit blitzenden Augen und fast kindlichem
 Lachen.
 
 Er lachte tatsächlich.
 
-»Die beiden Verbrecher glauben die Satte sehr schlau
+»Die beiden Verbrecher glauben die Sache sehr schlau
 angefangen zu haben,« fuhr er fort. »Sie irren sich. Wir
 werden dieses Talgebiet nach Norden zu umkreisen. Nach
-den en du suchen hat keinen Zweck. Wir können so
-das ene Tempo einschlagen.«
+den Fährten zu suchen hat keinen Zweck. Wir können so
+das schnellste Tempo einschlagen.«
 
-ir taten es — taten es mit überrashendem Erfolgt
-bereits nach einer Viertelstunde stießen wir aus die Spur
-eines ‘einzelnen Reiters, die noch recht frisch war.
-ter hatte sich nach Norden gewandt — wieder auf jene Verse
+Wir taten es — taten es mit überraschendem Erfolg:
+bereits nach einer Viertelstunde stießen wir auf die Spur
+eines einzelnen Reiters, die noch recht frisch war. Der
+Reiter hatte sich nach Norden gewandt — wieder auf jene Berge
 zu, wo uns die Fährte vormittags verloren gegangen war.
 
-»So — nun vorwärts!« rieb Harald. »Nun ist es klar,
+»So — nun vorwärts!« rief Harald. »Nun ist es klar,
 daß Greebrac und Olgerdyn sich später wieder vereinen
-Erde
+werden!«
 
 Wir blieben also auf dieser Spur, gelangten kurz vor
-Dunkelwerden fast genau an dieselbe Stelle, wo wir mit
-tags gelagert hatten. Vor uns türmten sich wieder düster
-und räiselvoll die gewaltigen dunklen Bergmassen auf.
+Dunkelwerden fast genau an dieselbe Stelle, wo wir mittags
+gelagert hatten. Vor uns türmten sich wieder düster
+und rätselvoll die gewaltigen dunklen Bergmassen auf.
 
 Die Fährte des Reiters — inzwischen war er zweimal
-abgestiegen und zweimal hatten wir die Eindrücke von Stier
-Moder bemerkt — führte in einem sandigen, steilen
-Male aufwärts. Da der Betreffende — ob Greebrac oder
-Olgerdyn, konnten wir rieb: wissen — den Spuren nach
-Steine Viertelstunde Vorsprung hatte, ließ Palast mich mit
+abgestiegen und zweimal hatten wir die Eindrücke von Stiefelabsätzen
+bemerkt — führte in einem sandigen, steilen
+Tale aufwärts. Da der Betreffende — ob Greebrac oder
+Olgerdyn, konnten wir nicht wissen — den Spuren nach
+keine Viertelstunde Vorsprung hatte, ließ Harald mich mit
 <@pagebreak/>
-den Tieren zurück und erffonm allein die nördliche Talwand,
-berihiwand zwischen zwei steilen, enapabähnlichen
-Holzwänden.
+den Tieren zurück und erklomm allein die nördliche Talwand,
+verschwand zwischen zwei steilen, engpaßähnlichen
+Felswänden.
 
-Nach einer halben Stunde kehrte er zurück,
+Nach einer halben Stunde kehrte er zurück.
 
 Er — lächelte wieder!
 
-»Ein Nie sagte er kurz. Er lagert drüben.
+»Ein Radschpute!« sagte er kurz. Er lagert drüben.
 »Aber — ein Radschpute mit Reitstiefeln, die ihm unbequem
-geworden sind. Er hat sie neben sich gestellt. Du sieh
-dieser Buschklepper Olgerdyn ist mit allen Hunden gelebt
-Er will uns dumm machen. r weiß, daß wir sehr bald
+geworden sind. Er hat sie neben sich gestellt. Du siehst,
+dieser Buschklepper Olgerdyn ist mit allen Hunden gehetzt!
+Er will uns dumm machen. Er weiß, daß wir sehr bald
 hinter ihm her sein werden.«
 
-»Wie — und Du bist dabei so ruhig?!« meinte Ich
+»Wie — und Du bist dabei so ruhig?!« meinte ich
 kopfschüttelnd.
 
-Gewiß. Der Radschpute fühlt ich ganz sicher. Daß
+»Gewiß. Der Radschpute fühlt ich ganz sicher. Daß
 wir ihm bereits im Nacken sitzen, kann er nicht im entferntesten
 ahnen. Morgen mag Olgerdyn und seine Bande uns
 hier vielleicht erwarten. Heute niemals.«
 
-»Und wenn der Kerl jetzt feinem Tiere die Hufe wieder
-umwickelt und »dann mit bloßen Füßen ohne eine: Spur zu
+»Und wenn der Kerl jetzt seinem Tiere die Hufe wieder
+umwickelt und dann mit bloßen Füßen ohne eine Spur zu
 hinterlassen —«
 
-»O das hat er schon getan. Die Hufe seines Dromedare
+»Oh — das hat er schon getan. Die Hufe seines Dromedars
 sind umwickelt. Er wird auch sehr bald aufbrechen
-— ohne Frage. Mag er! Wir finden ihn Von noch —
+— ohne Frage. Mag er! Wir finden ihn schon noch —
 und ebenso Olgerdyn und die übrigen, die auf Umwegen
-Bog hm hier wieder zusammenkommen,«
+wohl ebenfalls hier wieder zusammenkommen.«
 
-konnte nur pbermal By Kopf schütteln.
+Ich konnte nur abermals den Kopf schütteln.
 
-Regt nickte sich zu
+Harald nickte mir pfiffig zu.
 
-erschien na ich plötzlich noch ein zweiter Nadsch-bute
-»in der Schlucht,« füáte er hinzu. »Ein bis auf die
-er bewaffneter Bursche, der den linken Arm freilich in
+»Es erschien nämlich plötzlich noch ein zweiter Radschpute
+in der Schlucht,« fügte er hinzu. »Ein bis auf die
+Zähne bewaffneter Bursche, der den linken Arm freilich in
 einer Schlinge trug, weil, wie er dem Kameraden mitteilte,
 eine Kugel ihm durch den Unterarm gegangen war. Der
 Kamelreiter hatte vorher ein — bengalisches Zündholz in
@@ -792,43 +795,43 @@ sprachlos.
 »Sollte etwa Lord Breßfort hier —«
 
 <@pagebreak/>
-Er ließ mich nicht antreten,
+Er ließ mich nicht ausreden.
 
-Die Kugel ist aus Breßforts Büchse gekommen. Der
-Radschpute mit dem durchschossenen Arm sagte es beim anno,«
+»Die Kugel ist aus Breßforts Büchse gekommen. Der
+Radschpute mit dem durchschossenen Arm sagte es dem anderen.«
 
-Nun begriff ich alles: Der Kork und feine Verleitet
+Nun begriff ich alles: Der Lord und seine Begleiter
 befanden sich wirklich in der Nähe! — Das Abenteuer wurde
 aufregender.
 
 »Wir wollen irgend ein gutes Versteck für unsere Tiere
-suchen, ‚bevor ed ganz dunkel ist,« meinte Harald nun.
-Folge mir! Wie mögen uns mehr nach Nordwest, mitten
-die Berge ‘hinein, regten.«
+suchen, bevor es ganz dunkel ist,« meinte Harald nun.
+»Folge mir! Wir müssen uns mehr nach Nordwest, mitten
+in die Berge hinein, wenden.«
 
 Bei schnell zunehmender Dämmerung bogen wir in eine
-lanaaekireitie Schlund. zig, erkletterten dann linker Hand
-Palmenhaine in Terrassen ansteigende Wand und gelangten, als wir
-um eine Bekannte Gehe bauen, neben der ein Abgrund in
-blauscavarzer Finsternis gähnte, in einen von hohen Wänden
+langgereckte Schlucht ein, erkletterten dann linker Hand
+eine in Terrassen ansteigende Wand und gelangten, als wir
+um eine schmale Ecke bogen, neben der ein Abgrund in
+blauschwarzer Finsternis gähnte, in einen von hohen Wänden
 eingeschlossenen kleinen Talkessel.
 
-»Hier bleiben wir!« entschied aralb. »Wenn wir den
-ab Grog an der scharfen Biegung Dort mit Fjord«
-den berrammeln, ahnt niemand, daß man hier in einen
-tadelte weg Schlupfwinkel —«
+»Hier bleiben wir!« entschied Harald. »Wenn wir den
+schmalen Steig an der scharfen Biegung dort mit Felsstücken
+verrammeln, ahnt niemand, daß man hier in einen
+so tadellosen Schlupfwinkel —«
 
-en. He
+Er schwieg.
 
-griff unwillkürlich nach der Doppelbüchse.
+Ich griff unwillkürlich nach der Doppelbüchse.
 
-in seltsamer Toù durch zitierte das enge Tal,
+Ein seltsamer Ton durchzitterte das enge Tal,
 
-»Was war das?« flüsterte ich atemlos,
+»Was war das?« flüsterte ich atemlos.
 
-ist!
+»Still!«
 
-Harst hatte feine Büchse schußfertig gemacht
+Auch Harst hatte seine Büchse schußfertig gemacht.
 
 <@pagebreak/>
 
@@ -836,171 +839,173 @@ Harst hatte feine Büchse schußfertig gemacht
 
 <h3>Gefunden.</h3>
 
-Und abermals durchzilterte der unheimliche, Aanenbe
+Und abermals durchzitterte der unheimliche, klagende
 Laut die Stille des kleinen Felsenkessels.
 
-»Ein Kind!« flüsterte
+»Ein Kind!« flüsterte ich.
 
-Meine Worte wurden übertönt von einem [ämmerlichen
-idealen.
+Meine Worte wurden übertönt von einem jämmerlichen
+Aufheulen.
 
-»Ein Hund,« faule Harald rasch. »Es ist ein Hund]!
-Oeffne Dich: in dem Artikel der Dehli-Post war am Schlu
-noch erwähnt, daß Major -Pancroof seinen Foxterrier (a
-mit aus die Jagdexpedition genommen hätte. Die
+»Ein Hund,« sagte Harald rasch. »Es ist ein Hund!
+Besinne Dich: in dem Artikel der Dehli-Post war am Schluß
+noch erwähnt, daß Major Pancroof seinen Foxterrier »Maniter«
+mit auf die Jagdexpedition genommen hätte. Vielleicht —«
 
-Da — abermals das klagende trauten.
+Da — abermals das klagende Jaulen.
 
-Harald war’s mir Ben Zügel seines Reitdromedare
-alt, schritt nach rechts hinüber, wo an der steilen Felswand
-ne Geröllhalde wie ein mächtiger Schuttberg lag.
+Harald warf mir den Zügel seines Reitdromedars
+zu, schritt nach rechts hinüber, wo an der steilen Felswand
+eine Geröllhalde wie ein mächtiger Schuttberg lag.
 
-ch folgte ihm. Ich war gespannt, was wir finden
+Ich folgte ihm. Ich war gespannt, was wir finden
 würden.
 
-Nochmals — nochmals3 das heisere, lkläglihe Heulen.
+Nochmals — nochmals das heisere, klägliche Heulen.
 
 Und dann — wir blieben gleichzeitig stehen — dann
-schlug nun ein betäubender Verwesungsgeruch ins Gesicht.
+schlug uns ein betäubender Verwesungsgeruch ins Gesicht.
 
-»Eine Leiche — der Major wahrscheinlich!l« meinte
+»Eine Leiche — der Major wahrscheinlich!« meinte
 Harald leise.
 
-ch band die Zügel der Kamele zusammen. Sich wollte
+Ich band die Zügel der Kamele zusammen. Ich wollte
 <@pagebreak/>
-dabei fein, wenn Harst Ben Schuttberg überklettert hatte.
+dabei sein, wenn Harst den Schuttberg überklettert hatte.
 
 Und zwischen Felswand und dem Steingeröll fanden
-wir so dicht vor einer grottenartigen Finbuchtung wirklich
+wir so dicht vor einer grottenartigen Einbuchtung wirklich
 eine stark verweste Leiche, daneben einen zum Skelett abgemagerten,
-hochbeinigen Foxterrier, ver bereits so matt
+hochbeinigen Foxterrier, der bereits so matt
 war, daß er sich kaum noch kriechend bewegen konnte.
 
-Als er uns erblickte, als Harter ihn freundlich mit »Man.
-Rar: stieß der Hund ein marferichütterndes Geheul
+Als er uns erblickte, als Harst ihn freundlich mit »Maniter»
+anrief, stieß der Hund ein markerschütterndes Geheul
 aus.
 
-Harst deutete auf »ein paar Knochenreste in der Nähe.
+Harst deutete auf ein paar Knochenreste in der Nähe.
 
-Boy hat sich »on Bergratten genährt,« sagte er.
-»Es muß hier aber nun) Wasser in der Nähe geben.«
+»Der Fox hat sich von Bergratten genährt,« sagte er.
+»Es muß hier aber auch Wasser in der Nähe geben.«
 
-Er nahm das treue Tier, das die Leiche feines: Herrn
-nicht verlassen hatte, in die Arme und trug es nach der gegenüberliegenden
-Felswand, —
+Er nahm das treue Tier, das die Leiche seines Herrn
+nicht verlassen hatte, in die Arme und trug es nach der
+gegenüberliegenden Felswand. —
 
-Die Untersuchung des in einen Fagdanzug gekleideten
-Taten ergab, daß der Major dürr einen Lungenschuß ne
-tötet worden war, Neben ihm lag noch unversehrt feine
+Die Untersuchung des in einen Jagdanzug gekleideten
+Toten ergab, daß der Major durch einen Lungenschuß getötet
+worden war. Neben ihm lag noch unversehrt seine
 Winchesterbüchse. Wir nahmen ihm alles ab, was er bei
-ch trug: Revolver Jagdmesser, Brieftasche und anderes.
-Bann häuften wir große Steine um die Leiche auf, bauten
+sich trug: Revolver, Jagdmesser, Brieftasche und anderes.
+Dann häuften wir große Steine um die Leiche auf, bauten
 so ein flaches Grab und füllten die Ritzen mit Steingrus
-aus Bald wölbte sich ein vollständiger Hügel über dem
-Toten,
+aus. Bald wölbte sich ein vollständiger Hügel über dem
+Toten.
 
 »Er ist fraglos verwundet worden und hat sich noch bis
-he geschleppt,« meinte Harald während der peinvollen
+hierher geschleppt,« meinte Harald während der peinvollen
+Arbeit.
 
-na durchsuchten wir die Grotte Hier fanden wir
+Dann durchsuchten wir die Grotte. Hier fanden wir
 des Majors Tropenhelm und am Rande einer Felsspalte,
-aus der uns seuchtlühle Lust eninenenwehte, einen Aluminiumbecher.
+aus der uns feuchtkühle Luft entgegenwehte, einen Aluminiumbecher.
 
 Die Felsspalte war eine natürliche Zisterne. Das Wasser
 darin erwies sich trotz leichten Natrongehalts als durchaus
 trinkbar. —
 
 Der Foxterrier war völlig ausgehungert, erholte sich
-aber feiner, nachdem er eine kräftige Mahlzeit erhalten
-hatte. Nach zwei Stunden war er bereits so gestärkt, da
-er eilends zum Grabe rief Herrn zurücktrabte. Er Ehe
-dort jedoch nur kurze Zeit, kam dann zu unserem Lag2ew
+aber schnell, nachdem er eine kräftige Mahlzeit erhalten
+hatte. Nach zwei Stunden war er bereits so gestärkt, daß
+er eilends zum Grabe seines Herrn zurücktrabte. Er blieb
+dort jedoch nur kurze Zeit, kam dann zu unserem Lagerplatz
 <@pagebreak/>
-As zurück und legte sich neben Harald nieder, der ihn auch
-erörtert hatte. Durch allerlei Zeichen gab er zu verstehen,
-ß er nunmehr Harst als seinen neuen Herrn anerkannte.
+zurück und legte sich neben Harald nieder, der ihn auch
+gefüttert hatte. Durch allerlei Zeichen gab er zu verstehen,
+daß er nunmehr Harst als seinen neuen Herrn anerkannte.
 
 Gegen elf Uhr ging der Mond auf. Wir hatten etwa
-bei Stunden geschlafen und fühlten uns jetzt frisch Regung,
-nicht Ran ungefährlicher Auudfchafteraana zu wagen.
+zwei Stunden geschlafen und fühlten uns jetzt frisch genug,
+den nicht ganz ungefährlichen Kundschaftergang zu wagen.
 
-Den Hund banden mir neben unteren Neittieren fest.
-aralb streichelte ihm den Kopf und legte sehne Brieftasche
-Ben ihn, nachdem er sie ihn hatte beschnuppern lassen.
+Den Hund banden mir neben unseren Reittieren fest.
+Harald streichelte ihm den Kopf und legte seine Brieftasche
+neben ihn, nachdem er sie ihn hatte beschnuppern lassen.
 
-»Er weiß nun, daß wir wieder formen,« meinte er.
+»Er weiß nun, daß wir wieder kommen,« meinte er.
 »Er wird sich nicht losreißen.«
 
-Wir nahmen unsere Büchsen mit. in lebten Augenblick
-hatte Harald seine Doppelslinte des Aussehens aus
-Tallamara noch mit der Repetierbüchse des. Majors ver
-tauscht. — »Sieben Schuß sind besser als zwei!« sagte er.
+Wir nahmen unsere Büchsen mit. Im letzten Augenblick
+hatte Harald seine Doppelflinte des Aufsehers aus
+Tallamara noch mit der Repetierbüchse des Majors vertauscht.
+— »Sieben Schuß sind besser als zwei!« sagte er.
 
 Wir fanden die Stelle, wo der Radschpute gelagert und
-der andere sich zu ihm gaeséllt hatte, ohne besondere Schiwie-rigfeit.
-Dann wollten wir genug ferne Steilwand: Streich:n
-auf deren Edelstein terrassenartigen Vorsprung Harald Bad
-weite grüne Licht Reichen hatte.
+der andere sich zu ihm gesellt hatte, ohne besondere Schwierigkeit.
+Dann wollten wir jene ferne Steilwand erreichen,
+auf deren oberstem terrassenartigen Vorsprung Harald das
+zweite grüne Licht gesehen hatte.
 
 Harst schritt stets voran. Wo wir Deckung fanden,
 gingen wir aufrecht. Mußten wir Stellen passieren, die im
-hellen Mondlicht dalagen, krochen: wir auf allen Vieren.
+hellen Mondlicht dalagen, krochen wir auf allen Vieren.
 
 In dieser Weise versuchten wir es wohl zwei Stunden
-lang, einen Zugang zu jener’ jetzt vom Nachtgestirn beschieden
-recht zu finden.
+lang, einen Zugang zu jener jetzt vom Nachtgestirn beschienen
+Felsterrasse zu finden.
 
-es gab feinen Zugang. Wenigstens keinen solchen der
-nachts zu finden war. ..
+Es gab keinen Zugang. Wenigstens keinen solchen der
+nachts zu finden war.
 
-Still, einsam und Ungar in seiner magischen Beleuchtung
-durch den Mond lagen die zerklüfteten Verse da.
+Still, einsam und großartig in seiner magischen Beleuchtung
+durch den Mond lagen die zerklüfteten Berge da.
 Nirgends auch nur das geringste Anzeichen, daß Menschen
-der Nähe waren.
+in der Nähe waren.
 
-— Der Berg, an dessen Ostseite die Terrasse lau, Hellte wie
-wir bald erkannten, eine ungeheure fechsedine, abgestumpite
-Pyramide dar. Diese Pyramide von gut vierhundert Des
-ter Höhe suchten wir nun auch nach Norden zu umschleifen.
+Der Berg, an dessen Ostseite die Terrasse lag, stellte wie
+wir bald erkannten, eine ungeheure sechseckige, abgestumpfte
+Pyramide dar. Diese Pyramide von gut vierhundert Meter
+Höhe suchten wir nun auch nach Norden zu umschreiten.
 
 Schluchten, Täler, Geröllhügel passierten wir. Wir
-Neu uns die Hände blutig; wir fühlten die Beinmuskeln
+rissen uns die Hände blutig; wir fühlten die Beinmuskeln
 unter der ungeheuren, ungewohnten Anstrengung förmlich
 <@pagebreak/>
-en Aber Harst kannte keine Rücksicht auf unsere
+erstarren. Aber Harst kannte keine Rücksicht auf unsere
+Körper.
 
 So erreichten wir schließlich ein ausgedehntes Felsplateau
-nördlich des Berges, der sich offenbar von feiner
+nördlich des Berges, der sich offenbar von keiner
 Seite ersteigen ließ.
 
 Der kaum spürbare Nachtwind kam von Osten und
-wehte über« die Hochebene hinweg.
+wehte über die Hochebene hinweg.
 
 Wir lagen jetzt hinter ein paar Steinen, um etwas
 auszuruhen.
 
-Da — ich roch deutlich den beizenden Qualm den
+Da — ich roch deutlich den beizenden Qualm von
 trockenem Kamelmist.
 
-Als ich. Harald darauf aumerksam machte, meinte er
+Als ich Harald darauf aufmerksam machte, meinte er
 nur: »Den Qualm merkte ich schon vor fünf Minuten. Ich
-hoffe, er wird uns zu dem Lagerplaby unserer vielbegehrten
-Freunde Olagerdyn und Greebrac sühnen.« —
+hoffe, er wird uns zu dem Lagerplatz unserer vielbegehrten
+Freunde Olagerdyn und Greebrac führen.« —
 
 Wir setzten also unseren Weg kriechend über das Plateau
 fort — dem Winde entgegen.
 
-er Qualm wurde stärker, der Geruch immer deutlicher.
-Wir näherten uns einem eure
+Der Qualm wurde stärker, der Geruch immer deutlicher.
+Wir näherten uns einem Feuer.
 
-Noch war nichts zu je en. Eine Reihe enormer Feld.
-Nadeln begrenzte das Plateau noch Nordost. Sie sahen
-aus wie zu Stein erstarrte Niesentannen. Es war ein
+Noch war nichts zu sehen. Eine Reihe enormer Felsnadeln
+begrenzte das Plateau noch Nordost. Sie sahen
+aus wie zu Stein erstarrte Riesentannen. Es war ein
 förmlicher Wald derartiger Felsgebilde.
 
-Harst, der wieder ein paar Schritt voraus war, boga
-nach Norden ab. Als wir die ersten Felsnadeln ‘erreicht
-hatten, ‘hemerfien wir einen rötlichen Lichtschein. Er kam
+Harst, der wieder ein paar Schritt voraus war, bog
+nach Norden ab. Als wir die ersten Felsnadeln erreicht
+hatten, bemerkten wir einen rötlichen Lichtschein. Er kam
 aus einer Schlucht jenseits dieses erstarrten Waldes.
 
 Wir schoben uns jetzt mit allergrößter Behutsamkeit
@@ -1010,97 +1015,98 @@ störte und hinderte uns, zwang uns zu allerlei Umwegen.
 
 Dann winkte Harald mir zu. Ich kroch neben ihn.
 
-Dort links steht ein Posten,« sagte er, indem er mir
+»Dort links steht ein Posten,« sagte er, indem er mir
 die Worte ins Ohr raunte.
 
-Auch ich bemerkte den Mann jetzt. Er lehnte an ein
-[der vordersten Felsnadeln etwa zwanzig Schritt
-en zu.
+Auch ich bemerkte den Mann jetzt. Er lehnte an einer
+der vordersten Felsnadeln etwa zwanzig Schritt nach
+Osten zu.
 
-»in Wir brauchen ihn nicht mehr zu fürchten. Du hat!
-jetzt die Schattenseite der westlichen Schluchiwand
+Wir brauchen ihn nicht mehr zu fürchten. Wir hatten
+jetzt die Schattenseite der westlichen Schluchtwand dicht
 <@pagebreak/>
-neben uns. Noch wenige Meter, und wir lagen. am Rande
-jenes e Abhangs. Grade unter und hier Feuer,
-rum by ein Es, von denen drei Europäer waren:
-Greebrac und der Diener Robert. Mehr im
-An standen vier große braune Zelte. Dahinter
-Je ganze Menge Dromedare.
+neben uns. Noch wenige Meter, und wir lagen am Rande
+jenes kleinen Abhangs. Gerade unter uns vier Feuer,
+darum vierzehn Männer, von denen drei Europäer waren:
+Olagerdyn, Greebrac und der Diener Robert. Mehr im
+Hintergrund standen vier große braune Zelte. Dahinter
+eine ganze Menge Dromedare.
 
-ie drei Weißen saßen an dem Feuer, das dem Abhang
-am Er Nr, he A Glut Sultan rammt:
-Neptun und Greebrac rauchten Zigarren.
-er! schüttete gerade Tee in den Kessel.
+Die drei Weißen saßen an dem Feuer, das dem Abhang
+am nächsten war. Ueber der Glut hing ein Aluminiumkessel.
+Olgerdyn und Greebrac rauchten Zigarren. Robert
+schüttete gerade Tee in den Kessel.
 
-Die Habichputen an Ben anderen Feuern waren sämt-Lac
-Zornige Gestalten, alle bewaffnet mit je
-Ueble
+Die Radschputen an den anderen Feuern waren sämtlich
+ausgesucht kräftige Gestalten, alle bewaffnet mit Gewehren
+und Revolvern.
 
-Greebrac hielt sich leise mit dem Kamelzüchter.
-ur hin und wieder war ein Wort zu. Lang
+Greebrac unterhielt sich leise mit dem Kamelzüchter.
+Nur hin und wieder war ein Wort zu verstehen.
 
-Dann sagte Olgerdyn scheinbar Pugebushia
+Dann sagte Olgerdyn scheinbar ungeduldig:
 
 »Es wird gelingen, wenn nur der Wind an Morgen
-umspringt. Zumeist geht 5 nach Südost herum. Warum
-sollte er es Treue nicht tun?! Dann treibt er den Qualm
-durch den Gang hinein, und geworben sich ergeben müssen.
-Das tun fang fein Blut! Breßfort wird seine Frau nicht
+umspringt. Zumeist geht er nach Südost herum. Warum
+sollte er es heute nicht tun?! Dann treibt er den Qualm
+durch den Gang hinein, und sie werden sich ergeben müssen.
+Das kostet kein Blut! Breßfort wird seine Frau nicht
+ersticken lassen.«
 
-Star die ein und schreien.
+Greebrac zuckte die Achseln und schwieg.
 
-pd Harst mich am Aermel. ir krochen au-rü
-n den Posten wieder und lagen nun etwa
-achtzig r vor dem Felsnadelwalde zwischen Steinblöcken
+Dann zupfte Harst mich am Aermel. Wir krochen zurück,
+umschlichen den Posten wieder und lagen nun etwa
+achtzig Meter vor dem Felsnadelwalde zwischen Steinblöcken.
 
-Haft Du gehört? Sie wollen den Lord ausräuchern.
+»Hast Du gehört? Sie wollen den Lord ausräuchern.
 Wir werden ihnen den Spaß verderben,« flüsterte Harald.
-Ohne Zweite zu sie am) dort, tue der Lord belagert
-wird, Posten ausgelstellt, die sie doch ablösen müssen. Die-Ablösung
-werden wir folgen.« -
+»Ohne Zweifel haben sie auch dort, wo der Lord belagert
+wird, Posten aufgestellt, die sie doch ablösen müssen. Dieser
+Ablösung werden wir folgen.«
 
-»Es war jetzt zwei Uhr morgens.
+Es war jetzt zwei Uhr morgens.
 
-Sehr bald zeigte es sich, wie richtig Harst das Krampe
-vorausgesaagt hatte: fünf Radschputen erschienen
-Und schlenderten recht sorglos an uns vorüber über das
-Plateau auf den Pyramidenbera zu.
+Sehr bald zeigte es sich, wie richtig Harst das Kommende
+vorausgesagt hatte: fünf Radschputen erschienen
+und schlenderten recht sorglos an uns vorüber über das
+Plateau auf den Pyramidenberg zu.
 
-Der Mond hatte sich hinter den Beraalpfeln versteht
-Die Ratternden fühlten sich ganz sicher, war rieb
-Baron. sich umzuschaus«
+Der Mond hatte sich hinter den Berggipfeln versteckt.
+Die Radschputen fühlten sich ganz sicher, dachten gar nicht
+daran, sich umzuschauen.
 
 <@pagebreak/>
-Sie Kommen einen schmalen Pfad einher, den wir
-kaum am Tage als nangbaren Weg erkannt hätten, betraten
+Sie klommen einen schmalen Pfad empor, den wir
+kaum am Tage als gangbaren Weg erkannt hätten, betraten
 eine tunnelartige Höhle, zündeten hier ein paar Pechfackeln
 an und gelangten über die zweite Bergterrasse in eine neue
-Hohle, die steil aufsteigend auf der Ostterrasse mündete.
+Höhle, die steil aufsteigend auf der Ostterrasse mündete.
 
 Als auch wir hier oben ankamen, wo Harald das
-Assam Lichtsignal bemerkt hatte, hörten wir laute Stimmen.
-ie zerflüstete Rückwand der Terrasse öffnete sich hinter
-einer issenartig vorgeschobenen Steinmauer zu einer
+grüne Lichtsignal bemerkt hatte, hörten wir laute Stimmen.
+Die zerklüftete Rückwand der Terrasse öffnete sich hinter
+einer kulissenartig vorgeschobenen Steinmauer zu einer
 neuen Höhle mit sehr hohem und breitem Eingang.
 
-Wir Jenen uns kaum in die nächste Spalte klemmen
-en als die abgelösten fünf Radschputen die Terrasse
-gießen.
+Wir hatten uns kaum in die nächste Spalte klemmen
+können, als die abgelösten fünf Radschputen die Terrasse
+verließen.
 
-ir warteten noch eine geraume Weile.
+Wir warteten noch eine geraume Weile.
 
 Dann krochen wir in die Höhle hinein. Um uns her
 tiefste Finsternis. Es ging ziemlich steil abwärts. Ein
-greifbarer Luftzug strich durch diese Grotte. Nach drei kurz
-¿en Biegungen ein schworen Lichtschimmer vor uns.
+fühlbarer Luftzug strich durch diese Grotte. Nach drei kurzen
+Biegungen ein schwacher Lichtschimmer vor uns.
 
 Und nun — nun erklärte uns der flackernde Schein
-qualmenden Kabeln, die in die Allen der Wände gesteht
+qualmenden Fackeln, die in die Ritzen der Wände gesteckt
 worden waren, das Geheimnis dieses Ortes: dort vor
 uns verengerte sich die Höhle bis auf vielleicht anderthalb
 Meter. An dieser Stelle war sie mit Felsblöcken verrammelt.
-Und hier bohren auch hinter aufgeschichteten Steim-wänden
-die fünf Wächter.  ..
+Und hier hockten auch hinter aufgeschichteten Steinwänden
+die fünf Wächter.
 
 <@pagebreak/>
 
@@ -1115,17 +1121,18 @@ Halte Dich bereit!«
 
 Ich entsicherte die Büchse.
 
-»Schal bald auch nur einer der Buschklepper ‘nah der Waffe
-grell schießt Du,« sägte er noch hinzu
+»Sobald auch nur einer der Buschklepper nach der Waffe
+greift, schießt Du,« fügte er noch hinzu.
 
-na, und die Sterbe flogen wie die Gummibälle bei)
+Dann, und die Kerle flogen wie die Gummibälle hoch:
 
-Hände »M Hier Polizei!« rief Harst absichtlich mich!
-Nebelig te
+»Hände hoch! Hier Polizei!« rief Harst absichtlich mit
+überlauter Stimme.
 
-1, ahne gehorchten Pelze,
+Die fünf gehorchten zögernd.
 
-Dann meldete sich hinter der Felsbarrilkade eine an-Stimme:
+Dann meldete sich hinter der Felsbarrikade eine andere
+Stimme:
 
 »Hallo — hier Allan Breßfort!«
 
@@ -1140,208 +1147,209 @@ vier Männer über den Felshaufen gestiegen: der Lord
 und drei Inder, keine Radschputen.
 
 <@pagebreak/>
-Nu waren die fünf Buschklepper gebunden.
+Im Nu waren die fünf Buschklepper gebunden.
 
-ir hatten Breßfort kraftlos die Hand geschüttelt. Seligen
-Dank wehrte Harald ab. -
+Wir hatten Breßfort kräftig die Hand geschüttelt. Seinen
+Dank wehrte Harald ab.
 
 »Es gibt noch mehr zu tun, Mylord,« meinte er. »Sind
-Ihre Fest gab an a Stak Wich
+Ihre drei Diener bewaffnet?«
 
-»Gewiß. meine Frau. Steinen viel zu
+»Gewiß. Auch meine Frau. Ich habe Ihnen viel zu
 erzählen, Mr. Harst. Eine so ungeheuerliche Schurkerei
+wie —«
 
 »Später — später!« fiel Harald ihm ins Wort. »Wird
-Als Gattin Gern, Es u! Radschputen zu bewachen?«
-schon Ls
+Ihre Gattin genügen, die fünf Radschputen zu bewachen?«
 
-Gewiß, Da ist
+»Gewiß. Da ist sie schon —«
 
-Eine blonde schlanke Frau in einem enaltfählebernen
-Saabkoftüm mit Kniehosen war über die Barrikade ner
+Eine blonde schlanke Frau in einem englischledernen
+Jagdkostüm mit Kniehosen war über die Barrikade gesprungen. —
 
-du müssen also hier bleiben,« sagte Harald nach
-kurzer Bog na. »Wir sind jetzt sechs Männer. Das
-wonach die schschklepperbande festzunehmen.«
+»Mylady müssen also hier bleiben,« sagte Harald nach
+kurzer Begrüßung. »Wir sind jetzt sechs Männer. Das
+genügt, die Buschklepperbande festzunehmen.«
 
-an! u Daisy Breßfort, die ebenso frisch wie ihr Gatte
-a
-nickte,
+Lady Daisy Breßfort, die ebenso frisch wie ihr Gatte
+aussah, nickte.
 
-der gewiß, Mr. Harst. ne hole nur meine Fischer,««
+»Aber gewiß, Mr. Harst. Ich hole nur meine Büchse.«
 
-er war im Augenblick zurück.
+Er war im Augenblick zurück.
 
-Harst drängte zur Eile. Wir roh begannen den Nück-mwer
-nach dem Lager der Tharräuber,
+Harst drängte zur Eile. Wir sechs begannen den Rückweg
+nach dem Lager der Tharräuber.
 
-Allan Breßfort fand jetzt Zeit, uns King feine Erlebnisse
-An u n.
+Allan Breßfort fand jetzt Zeit, uns kurz seine Erlebnisse
+zu schildern.
 
-heim! Radschputen, die er als Führer in Ghosgarh
-angeworben Schall Watte, waren nichts anderes als Vail-diten
-gewesen, die die ahnungslose Zagdagesellschafst zwar
-Ma den Staunt-Bergen, dann aber bis hier in die
-Nähe des Hauptschlupfwinkels der Buschklepper unter ältere
-Blei Vorwänden gebracht hatten, wo sie dann den Lord eines
+Die fünf Radschputen, die er als Führer in Ghosgarh
+angeworben gehabt hatte, waren nichts anderes als Banditen
+gewesen, die die ahnungslose Jagdgesellschaft zwar
+erst nach den Kanod-Bergen, dann aber bis hier in die
+Nähe des Hauptschlupfwinkels der Buschklepper unter allerlei
+Vorwänden gebracht hatten, wo sie dann den Lord eines
 Nachts überfielen und zwar in dem westlichen Tunnel
 des Pyramidenberges. Außer den fünf Führern beteiligten
-Du dabei noch vier andere Radschputen. Die geplante
+sich dabei noch vier andere Radschputen. Die geplante
 Ueberrumpelung mißglückte jedoch, da der Major Pancroof
-schon vorher Verdacht gestopft hatte, - Co kam es, daß der
-Bord, feine Gattin und drei Diener unverwundct durch den
+schon vorher Verdacht geschöpft hatte. So kam es, daß der
+Lord, seine Gattin und drei Diener unverwundet durch den
 Tunnel auf die oberste Ostterrasse und durch die Höhle
-weigere in das Innere des Berges gelangten, der sich zu ihr
+weiter in das Innere des Berges gelangten, der sich zu ihrem
 <@pagebreak/>
-Harem Erstaunen kraterähnlich ausgehöhlt zeigte, also einen
-Vorkeller mit nach innen etwas vorgeneiaten Wänden
-bildete
+Erstaunen kraterähnlich ausgehöhlt zeigte, also einen
+Talkessel mit nach innen etwas vorgeneigten Wänden
+bildete.
 
 Und hier in diesem Krater fanden sie nicht nur eine
-ne: sondern auch mehrere Zelte und Lebensmittel aller
-rt vor.
+Zisterne, sondern auch mehrere Zelte und Lebensmittel aller
+Art vor.
 
-Der energische Lord hatte sofort den schmalen Ungar
+Der energische Lord hatte sofort den schmalen Zugang
 zu diesem Schlupfwinkel durch Kugeln verteidigt, hatte
-Ihn verrammelt und jeden weiteren Angriff blutig Da
-As ahnst Da die Banditen von oben in den Krater nicht
-hinabgelangen konnten, mußten sie sich auf eine Velagerung
-beichränt
+ihn verrammelt und jeden weiteren Angriff blutig abgeschlagen.
+Da die Banditen von oben in den Krater nicht
+hinabgelangen konnten, mußten sie sich auf eine Belagerung
+beschränken.
 
-Wo Volle 25 Tage hatten die fünf Personen so in dem
-By Unstetes ausgeharrt, hatten bestimmt auf endliche Befreiung
-QE —
+Volle 25 Tage hatten die fünf Personen so in dem
+Talkessel ausgeharrt, hatten bestimmt auf endliche Befreiung
+gehofft. —
 
-Als Harald nun erwähnte, daß wir des Majors
-Mr gefunden hätten und auch den treuen Maniter, wurde he
-Lord sehr en hm schien feines? Schwager -Tod rede
-nahe Dr gehen. —
+Als Harald nun erwähnte, daß wir des Majors Leiche
+gefunden hätten und auch den treuen Maniter, wurde der
+Lord sehr still. Ihm schien seines Schwager Tod recht
+nahe zu gehen. —
 
-N. hinabeilen und dem Plateau. Harald und ne
-der indischen Diener des Lords ge lebt voraus,
-den Wachtposten vor der Schlucht lautlos zu übertwältigen.
+Wir näherten uns dem Plateau. Harald und einer
+der indischen Diener des Lords schlichen jetzt voraus, um
+den Wachtposten vor der Schlucht lautlos zu überwältigen.
 
 Es gelang auch. Der Diener holte uns dann herbei.
 
 Alles schien nach Wunsch zu gehen. Aber — Maniter
-Brav? neben vollen Atem,
+verdarb uns den vollen Erfolg.
 
-ch los en, kam gerade Beriet
-barer Mai Hie aber da Ok, Ja Etui rot Da
+Er hatte sich losgerissen, kam gerade bellend auf unserer
+Fährte über das Plateau gejagt, als Harald die Buschklepper
+anrufen wollte.
 
-Das by des Hundes scheuchte den allein noch am
-glimmenden freuen sitzenden Greebrac auf. Er ahnte wohl,
-hab Ma hier nur Ging Möglichkeit der Rettung gab: die
+Das Gebell des Hundes scheuchte den allein noch am
+glimmenden Feuer sitzenden Greebrac auf. Er ahnte wohl,
+daß es hier nur eine Möglichkeit der Rettung gab: die
+Flucht!
 
-Er stürmte in Den. Hintergrund der Schlucht, feuerte
-dabei seinen Revolver ab
+Er stürmte in den Hintergrund der Schlucht, feuerte
+dabei seinen Revolver ab.
 
 Aus den Zelten tauchten die Radschputen auf.
 
 Olgerdyns Stimme erklang.
 
-Haralds Drohung, jeden ed der Gegenwehr Bund
-Schüsse zu vereiteln, kam zu spä
+Haralds Drohung, jeden Versuch der Gegenwehr durch
+Schüsse zu vereiteln, kam zu spät.
 
-Uns, die wir vor der Schlucht agedeckt lagen, Pfiffen
+Uns, die wir vor der Schlucht gedeckt lagen, pfiffen
 Kugeln um die Ohren.
 
 <@pagebreak/>
-Tand Breßfort feuerte zuerst.
+Lord Breßfort feuerte zuerst.
 
-Auch er hatte eine Nepeltierbüchse. Und — er schoß
-gut froh des seh:leckten Lichts,
+Auch er hatte eine Repetierbüchse. Und — er schoß
+gut trotz des schlechten Lichts.
 
-Dunkle Gestalten suchten die Nückfwand der Schlucht
-erklimmen.
+Dunkle Gestalten suchten die Rückwand der Schlucht
+zu erklimmen.
 
-Mach die drei Diener schossen ich!.
+Auch die drei Diener schossen jetzt.
 
-Die Dromedare der Biuschklepper rissen sich los, galoppierten
+Die Dromedare der Buschklepper rissen sich los, galoppierten
 hin und her. —
 
 Der Tod Major Pancroofs wurde blutig gerächt. Nach
-zehn Minuten ‘ergaben sich die noch lebenden vier Radschputen.
+zehn Minuten ergaben sich die noch lebenden vier Radschputen.
 
-Auch Hektor Olgerdyn- der berühmte Kamelzüchter
-von Tallamara, lag mit Kopffdm neben einem toten Dromedar.
+Auch Hektor Olgerdyn, der berühmte Kamelzüchter
+von Tallamara, lag mit Kopfschuß neben einem toten Dromedar.
 
-Aber — Greebrac und Robert Scamarack waren entwickelt
+Aber — Greebrac und Robert Scamarack waren entwischt
 — als einzige! Daran war Maniter, der Foxterrier,
-Schuld. Und doch sagte niemand dem Tiere ein böses Wort.
-friere, die er seinem Herrn bewiesen hatte, machte
+schuld. Und doch sagte niemand dem Tiere ein böses Wort.
+Die Treue, die er seinem Herrn bewiesen hatte, machte
 alles gut. —
 
 Die vier lebenden Radschputen mußten dann bei Tagesanbruch
-Die Leichen beerdigen. Um freche Uhr früh was
-ren wir wieder in dem Talkessel des Pyramidenberges.
+die Leichen beerdigen. Um sechs Uhr früh waren
+wir wieder in dem Talkessel des Pyramidenberges.
 
 Lady Breßfort entlockte die Nachricht von dem Tode
-ihres Bruders heiße Tränen,
+ihres Bruders heiße Tränen.
 
-Wir beide überließenes ihrem Gatten, je zu trösten,
+Wir beide überließen es ihrem Gatten, sie zu trösten,
 holten unsere Reittiere aus dem anderen Tale herbei und
-der sieh Ton, anlief bin und As begleitet,
-von Bar mehr trennen 00
+wurden abermals von Maniter hin und zurück begleitet,
+der sich von Harst nicht mehr trennen wollte.
 
-bereits um acht Uhr vormittags brachen dann das
-Ehepaar Breßfort und die Brei Diener mit den neun Co
+Bereits um acht Uhr vormittags brachen dann das
+Ehepaar Breßfort und die drei Diener mit den neun
 Gefangenen, die auf ihre Reittiere gefesselt wurden, nach Tallamara
 auf, wo sie spätestens gegen fünf Uhr nachmittags
 eintreffen mußten.
 
-ir gaben ihnen ein Stück das Geleit. Lord Breßfort
+Wir gaben ihnen ein Stück das Geleit. Lord Breßfort
 hatte Maniter am Sattelknopf an langer Leine festgebunden.
 Wir konnten den Foxterrier bei der weiteren Verfolgung
 Greebracs nicht brauchen.
 
-Der Abschied von dem Ehepaare war überaus Bei:
-Drohtest wollte sich nach Qudnom begeben, wo feine
+Der Abschied von dem Ehepaare war überaus herzlich.
+Breßfort wollte sich nach Lucknow begeben, wo seine
 <@pagebreak/>
-Platin eine Freundin, Miß Bennerton, besuchen wollte, die in
-folgenden Band noch eine Rolle spielt, was wir damals
+Gattin eine Freundin, Miß Bennerton, besuchen wollte, die in
+dem folgenden Band noch eine Rolle spielt, was wir damals
 freilich nicht voraussehen konnten. Er bat uns, mit
-in Lucknow wieder zusammenzutreffen. Harst versprach
-auch.
+ihm in Lucknow wieder zusammenzutreffen. Harst versprach
+es auch.
 
-»Dann ritt der Trupp nach Westen zu in die sonnbe-hienene
+Dann ritt der Trupp nach Westen zu in die sonnbeschienene
 Thar hinein, entschwand bald unseren Blicken.
 
-Wir kehrten um und besuchten nochmals den Scblupf-nkel
+Wir kehrten um und besuchten nochmals den Schlupfwinkel
 der Buschklepper, um unsere Wasserschläuche aus der
-Sterne zu füllen.
+Zisterne zu füllen.
 
-Harald hatte dem toten Olgerdyn die Brieftasche ab-nommen.
+Harald hatte dem toten Olgerdyn die Brieftasche abgenommen.
 Während ich die Schläuche füllte, hielt er auf
-Ostterrasse Wache, da wir ‘ja damit rechnen mußten,
-»Paß Greebrac und Robert Scamarack versuchen würden,
-uns. hinterrüfs zu überfallen.
+der Ostterrasse Wache, da wir ja damit rechnen mußten,
+daß Greebrac und Robert Scamarack versuchen würden,
+uns hinterrücks zu überfallen.
 
 Als ich mit vier Wasserschleucheu schwer beladen, draußen
-Hof Terrasse erschien, hielt. mir Harald ein Blatt
+auf der Terrasse erschien, hielt mir Harald ein Blatt
 Papier hin.
 
 »Da — dies fand ich in Olgerdyns Brieftasche,«
-Kante er.
+sagte er.
 
-in Wichtiges?« meinte ich ohne besonderes Interesse.
+»Etwas Wichtiges?« meinte ich ohne besonderes Interesse.
 
-»Das wird sich erst herausstellen. Es ist ein sehr mert-pürdiger
+»Das wird sich erst herausstellen. Es ist ein sehr merkwürdiger
 Brief. Du kannst ihn nachher lesen.«
 
-Ich ging und holte die übrigen vier he
+Ich ging und holte die übrigen vier Schläuche.
 
 Harald hatte den Brief noch immer in der Hand.
 
-»Eine geheimnisvolle Geschichte,« (gute er  sinnend.
-ut wollen wir erst einmal diesen ungemütlichen Plan
+»Eine geheimnisvolle Geschichte,« sagte er sinnend.
+»Jetzt wollen wir erst einmal diesen ungemütlichen Platz
 lassen und zusehen, ob Greebrac und Scamarack vielleicht
 aus den Bergen bereits in die Ebene geflüchtet sind.« —
 
 Was der Brief enthielt und wie wir Roland den
 Zwerg kennen lernten, wie auch Haralds Vorsicht gegenüber
-der verbrecherischen Schlauheit Greebracs versagte.
-all das in dem folgenden Abenteuer.
+der verbrecherischen Schlauheit Greebracs versagte,
+— all das in dem folgenden Abenteuer.
 
 <@pagebreak/>
 
@@ -1462,7 +1470,7 @@ Ah — also »ist das seltsame Geschäft perfekt gewann
 für Kleinigkeiten in allen Tonarten. Auch Noland Hartleport
 ist eine solle »Kleinigkeit«, raubt zur Zeit der
 kleinste Mann der Welt. Er mißt nur 98 Zentimeter, ist
-nebenbei ein vor unsicher Yarterrcatrobat, Schlangenmenich
+nebenbei ein vor unsicher Yarterrcatrobat, Schlangenmensch
 und Jongleur. ie zweite »Kleinigkeit«, an die mich fein
 Name erinnert, ist folgende. An den verfangen Bombays
 — Wir weilten ja Februar gerade in Bombay — war zu
@@ -1540,7 +1548,7 @@ In dieser slimmernden Wüstenlufi ist nichts Verkennen,«
 Meine Müdigkeit war verflogen, Sehr bald lag ich
 neben Harst aus dem sonndurchalühten, abgeplätiteten Felsen.
 
-Der Neider tauchte soeben wieder aus einer Talsenlung
+Der Neider tauchte soeben wieder aus einer Talsenkung
 auf, Gut rüber und näher.
 
 »Das ist gar an Je erst Mann,« meinte Harald
@@ -1624,7 +1632,7 @@ folgendes:
 »was den Grund meiner Reise in diese Einöde betrifft, zum
 Schweigen verpflichtet. Ich will nur andeuten, daß ich der
 geschäftlich zu tun hatte. Die Sache zerschlug sich jedoch,
-»und auf dem Rückwege Rede ich von räubcrischen Radschputen
+»und auf dem Rückwege Rede ich von räuberischen Radschputen
 vor erwog zweiundeinhalb Monaten gefangen aenome
 »men, ausgeplündert und bis —« — er machte eine« kurze
 Pause — »bis vorgestern in einem einzelnen Gelöst weit
@@ -1651,7 +1659,7 @@ abrebet,« fügte er hinzu. »Wir morden Bergschafe lagen
 Unsere Freunde sind jedoch scheinbar falsch geritten. Wir
 müssen sie Nachen suchen.«
 
-Die weitere Unterhaltung drehte ich um das Räuber-unmefen
+Die weitere Unterhaltung drehte ich um das Räuberunwesen
 In der Thar, wobei Harald auf des Majors Winchesterbüchse
 deutete, die Lord Breßfort ihm geschenkt hatte,
 »und lachend erklärte, mit so einer Repetierbüchse sei man
@@ -1712,7 +1720,7 @@ er so aufregende Stunden als Verfolgter durchgemacht
 hat, wird niemals so verständig jede Einzelheit umgehen,
 wie er es tat. Seine Eines war so gehalten, daß
 ich, falls *wir* nachher nach maskierten fragten, nicht
-Widersprüche verwideln konnte.«
+Widersprüche verwickeln konnte.«
 
 »Nun gut — das maga alles fein. Wo kam der Zwerg
 her?«
@@ -1763,7 +1771,7 @@ Harald 1 See sich halb u, schaute mich an.
 
 auf dem kleineren Felsen hinter den
 einbrocken 1 Tee oh die Sonne zu tun Es By Ja all
-Wo e nennt man — Lichttelegraphie!»
+Wo e nennt man — Lichttelegraphie!«
 Uraltem, versonnenem Gehißt,: -
 
 <@pagebreak/>
@@ -1772,7 +1780,7 @@ gläubig,
 
 »Wenn wir das wüßten! Gewiß, es bestände die
 Möglichkeit, daß der Kleine ganz zu Olgerdyn übergegangen
-ist und daß er fort mit Greebrac und Robert Scauma-Aue
+ist und daß er fort mit Greebrac und Robert Trauung-Aus
 umtinjame Sache gegen uns gemacht hat, das heißt
 also, daß die beiden Verbrecher ihn zu uns gehorcht haben.
 Sehr bietet spricht dafür — sogar zu vieles fast! Aber
@@ -1793,7 +1801,7 @@ andere Lösung geben — muß! Ach finde sie nur nicht.«
 lenkt fault sie ne nicht fein,« nicke ich kopfschüttelnd.
 »Dieser Noland ist ein kleines großes Rätsel.«
 
-»Mit — Handspicgel!« murmelte Harst, in Nachdenken«
+»Mit — Handspiegel!« murmelte Harst, in Nachdenken«
 versunken. »Wem galten die Lichtblitze, die ich der
 meiste — wem nur!«
 
@@ -1834,7 +1842,7 @@ barer Danke,« erwiderte Roland kurz. Das Hang recht und
 
 lächelte fein.
 
-As ist denn eigentlich aus e. Geschäft mit Hel-Ölaerdyn
+As ist denn eigentlich aus e. Geschäft mit He!-Ölaerdyn
 geworden, Mr. Harüleport
 
 hin Kleine preßte die Bis 1 Alammen und schaute
@@ -2066,7 +2074,7 @@ in Funkenregen flog Greebrac ins Gesicht.
 
 Dann schnellte sich der Kleine gegen Scamaracks Füße,
 brachte ihn zu Fall, erfklomm die Talwand mit wahrer
-Assengeschwindigkeit und — war vorläufig gerettet.
+Affengeschwindigkeit und — war vorläufig gerettet.
 
 Albert Greebracs Flüche änderten an der Sache nichts.
 Bevor er auf die Beine kam und sich die Augen gereinigt
@@ -2121,7 +2129,7 @@ Feind
 Wir Kur roh auf den’ Boden geworfen.
 
 Dann deutete Greebrac auf ein paar armselige Balken
-an deren Fuß einige Wüstenpslanzen sich angesiedelt
+an deren Fuß einige Wüstenpflanzen sich angesiedelt
 
 Grabe zwei mannstiese« Löcher, Robert!«
 
@@ -2186,7 +2194,7 @@ Ekbnäpse, mit Wasser geschärft, hinstellen, damit der Anblick
 des Wassers ihre Qualen erhöht. Sie verdienen diesen
 Tod! Sie haben mich bis hierher gejagt, von Stadt zu
 Stadt, haben mir alles genommen: das Weib, das ich lichte,
-meine Reichtümer — alles! Ich befinde nur noch diese Pa-tentzcihnungen
+meine Reichtümer — alles! Ich befinde nur noch diese Patentzeichnungen
 Doktor Murphisons.«
 
 Er wart ein Meines Bündel- Papiere in den Sand.
@@ -2196,7 +2204,7 @@ verfaulen. Ab würde mich dabei der Gefahr aussetzen,
 verhaftet zu werden. — Sie sollen diese Zeichnungen mit
 so Ihr Grab nehmen. Und wenn einmal ein Zuruf
 <@pagebreak/>
-Menschen hier vorübersührt, wenn Ihre Totenschädel die
+Menschen hier vorüberführt, wenn Ihre Totenschädel die
 Neugier wachrufen und man Ihre Gebeine ausgräbt, wich
 vielleicht von diesen Zeichnungen noch so viel übrig sein,
 daß man ermittelt, nur Harst und Schraut können an dieser
@@ -2316,7 +2324,7 @@ Sie schliefen.
 
 <@pagebreak/>
 
-»seh’ wohl — mein —alter!« quälte Harald mühsam
+»seh’ wohl — mein Alter!« quälte Harald mühsam
 Herd or. »Wir — werden — gerächt — werden! Hartleport
 wird — Freund Lockpor — alles —»
 
@@ -2402,7 +2410,7 @@ Dann ging er wieder davon.
 Und brachte den zweiten gehörten Schlauch.
 
 Auch Maniter erhielt feinen Teil. Himmel wieder
-sireichelten wir unseren vierbeiniaen Wetter.
+sireichelten wir unseren vierbeinigen Retter.
 
 Er hat sich losgerissen und. ist unserer Fährte gefolgt,«
 einte Harald. »Major Pancroof hatte ihn stets mit auf
@@ -2458,7 +2466,7 @@ Der Morgen dämmerte.
 
 Ein fahles Licht lag über den Sanddünen der Thar.
 Dann stier die Sonne empor, in Dunst gehüllt, schüttelte
-die trüben Schleier ab und warf ihre Strablenbündel über
+die trüben Schleier ab und warf ihre Strahlenbündel über
 die weite Einsamkeit hin, in der wir drei dahintrabten.
 
 Wir umritten die Hügel, in denen Greebrac uns entkommen
@@ -2494,7 +2502,7 @@ wie an einem Faden hängend
 Harald zeigte nach Osten, wo sich, kann zwei Meilen
 entfernt, ein düsterer Gebirgsftock zustürmte.
 
-»Dort liegt der Puramidenberg und das Kinderlos.
+»Dort liegt der Pyramidenberg und das Kinderlos.
 ch ‘erfenne die Konturen der Südausläufer Liede:
 Und —
 
@@ -2533,7 +2541,7 @@ Greebrac und Hartleport.
 
 Wir nahmen hier die zweite Satt derer ein.
 
-es! erst Durchblätierte Harst das Bündel Zeichnungen,
+es! erst Durchblätterte Harst das Bündel Zeichnungen,
 das »Dreckige ihm in die Innentasche der Jacke geschoben
 hatte, bevor wir eingegraben )wurden.
 
@@ -2553,7 +2561,7 @@ Eine Stunde Rast — dann Aufbruch, Ans Faches auf
 der Fährte weiter — bis in die Sandwüste hinab
 
 Schnurgerade lief die Doppelspur auf den Nordteil
-ab Betonen alt. Greebrac verstand es, die Richtung ein-Aubalten
+ab Betonen alt. Greebrac verstand es, die Richtung ein-Anhalten
 
 Bald bogen wir weit nach links ab, ritten parallel zu
 der Fährte, überholten die beiden Wanderer unweit der er
@@ -2612,7 +2620,7 @@ eine Hochebene, gelangte in ein enges Tal.
 
 Dann begann bog Unwetter.
 
-Dunkle Nacht — Bündel von Bissen — tausendsältia
+Dunkle Nacht — Bündel von Bissen — tausendfältig
 verstärkter Donner in den tiefen Tälern.
 
 Ein kurzer Wolkenbruch jetzt. Es goß wie in Strömen.
@@ -2621,7 +2629,7 @@ Keine Hand vor Augen war mehr zu sehen.
 Und da — verloren wir die beiden aus dem Gesicht;
 da ne zu Maniters seine Nase.
 
-Wir wurden bis auf die Haut durdnäßt.
+Wir wurden bis auf die Haut durchnäßt.
 
 Ebenso plötzlich fein Tropfen mehr — Stille, Risse in
 der schwarzen Wollenalode und Sonnenschein, grinsend
@@ -2640,7 +2648,7 @@ ab ein, he düster und auf der
 mit oh belebt, ‘nach Süden zu ein großer terrassenartiger
 Vorsprung.
 
-Harst hatte sich gerade noch niederwersen und mir zuwinken
+Harst hatte sich gerade noch niederwerfen und mir zuwinken
 können: dort oben befand sich Greebrac, fesselte
 Roland den Zwerg gerade an einen großen Stein, schnürte
 ihn Da fest, das Gesicht noch oben.
@@ -2798,7 +2806,7 @@ Ueberfallen auf Karawanen gehört. —
 
 Eine Woche blichen wir in der Burg Tallamara.
 
-Dann traf Lord Breßforts Depesche aus Luctuow ein
+Dann traf Lord Breßforts Depesche aus Lucknow ein
 
 Hierüber später Näheres.
 
