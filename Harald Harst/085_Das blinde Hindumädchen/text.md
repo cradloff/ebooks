@@ -4,889 +4,905 @@
 
 <h2>1. Kapitel.</h2>
 
-»Es ist heute morgen nach dem Regen etwas Mister.
+»Es ist heute morgen nach dem Regen etwas kühler.
 Wir könnten einen Spaziergang unternehmen,« sagte Harald
-Harst zu mir, als wir nun vom Frühstücktisch erhoben.
+Harst zu mir, als wir uns vom Frühstücktisch erhoben.
+
 Wir weilten damals seit Tagen in dem wundervollen
 Prachtbau von Burg eines der eigenartigsten Menschen,
-dem wir je begegnet waren, eines Mannes von ‘seltener
-Energie, kaufmännischem Schändlich und abenteuerlichem
-Unternehmungögeift. Leider waren ja die Charaktermerkmale
+dem wir je begegnet waren, eines Mannes von seltener
+Energie, kaufmännischem Scharfblick und abenteuerlichem
+Unternehmungsgeist. Leider waren ja die Charaktermerkmale
 Hektor Olgerdyns mit diesen vorzüglichen Eigenschaften
 nicht erschöpft, wie dem Leser des vorigen Bandes noch
-in Erinnerung fein dürfte. Dieser weitshauende Begründer
+in Erinnerung sein dürfte. Dieser weitschauende Begründer
 der größten Kamelzüchterei Zentralindiens, dieser geschmackvolle
 Erneuerer der uralten Radschputenburg Tallamara,
-mitten in der Star-Wüste gelegen, war nebenbei einer der
+mitten in der Thar-Wüste gelegen, war nebenbei einer der
 gefährlichsten Störenfriede der öffentlichen Ordnung und
-Sicherheit. Daß schihn schließlich die Büchsenkugel Lord Allan
+Sicherheit. Daß ihn schließlich die Büchsenkugel Lord Allan
 Breßforts tot niedergestreckt hatte, war immerhin für ihn
 ein anständigeres Ende als etwa der ihm gebührende Hanfstrick
-des Henkers. Mr
+des Henkers.
+
 Die Burg Tallamara beherbergte uns also an jenem
 Tage, wo mein Freund plötzlich das Bedürfnis nach einem
 Morgenspaziergang verspürte.
-Harst hatte bis dahin am Frühstückstisch in. älter Pergamentrollen
-herumgeftöbert, die er am Tage vorher in einem
+
+Harst hatte bis dahin am Frühstückstisch in alten Pergamentrollen
+herumgestöbert, die er am Tage vorher in einem
 wurmstichigen Schrank eines der Ecktürme der Burg
-»entleert hatte. —
+entdeckt hatte. —
 
 <@pagebreak/>
-Wir nahmen unsere Sportmüyen und schritten die breite
-Freitreppe in den Hof hinab. Hier begrüßte uns Mr. Jene
-- Waggon, der langjährige Elefant der Kamelzüchterei jenes
+Wir nahmen unsere Sportmützen und schritten die breite
+Freitreppe in den Hof hinab. Hier begrüßte uns Mr. Jenningson,
+der langjährige Tierarzt der Kamelzüchterei jenes
 Olgerdyn, dessen Tochter nunmehr sowohl die Burg als auch
 die weiten Ländereien geerbt hatte.
 
 »Morgen, Jenningson,« meinte Harald und drückte dem
-Tierarzt kräftig die Hand. »Sie. kommen mir wie gerufen.
+Tierarzt kräftig die Hand. »Sie kommen mir wie gerufen.
 Sie kennen doch die nähere Umgebung von Tallamara wie
-
 Ihre eigene Tasche. Gibt es hier ein Tal oder überhaupt
-einen Ort, den die Bewohner der Star-Wüste, die Radschputen,
-Duran. Taiman, Steine der Tränen, nennen?«
+einen Ort, den die Bewohner der Thar-Wüste, die Radschputen,
+Duran Taiman, Steine der Tränen, nennen?«
 
-Fenningson schüttelte den Kopf. »Habe nie davon gehört,
+Jenningson schüttelte den Kopf. »Habe nie davon gehört,
 Mr. Harst. Aber ich würde Ihnen raten, mal nach
-dem Radschputendorse Girwali hinüberzupilgern, das ja
+dem Radschputendorfe Girwali hinüberzupilgern, das ja
 in einer halben Stunde zu Fuß bequem zu erreichen ist.
 Dort leben ein paar sehr alte Bhats. Die können Ihnen
-
 vielleicht Auskunft geben.«
-Unter Bhat versieht man in Radschputana einen gelehrten
-Mann, der Priester, Zeichendeuter, Arzt und noch manches
-andere ist, Der Einfluß dieser Bhats, auch Tscharans
-genannt, übertrifft hier den der eigentlichen Priester, der
-Brahmanen, Er bedeutend,
-Bis,
 
-enninafon,« ist ‚ »genau dasselbe
-‘wollie An den ach wie Wir
+Unter Bhat versteht man in Radschputana einen gelehrten
+Mann, der Priester, Zeichendeuter, Arzt und noch manches
+andere ist. Der Einfluß dieser Bhats, auch Tscharans
+genannt, übertrifft hier den der eigentlichen Priester, der
+Brahmanen, ganz bedeutend.
+
+»Gehen Sie, Jenningson,« lächelte Harst‚ »genau dasselbe
+wollte auch ich soeben tun: wir wollten nach Girwali.«
 
 Ah — nach Girwali! Es würde also fraglos kein
-harmloser Spaziergang werden! Mit den Duran Talwand,
-weg der Tränen, mußte es eine besondere Bewandt-
+harmloser Spaziergang werden! Mit den Duran Taiman,
+den Steinen der Tränen, mußte es eine besondere Bewandtnis
+haben.
 
-Wir verabschiedeten uns von Fenningson und waren
-zehn Minuten später in einem der Riefengehege, wo die
+Wir verabschiedeten uns von Jenningson und waren
+zehn Minuten später in einem der Riesengehege, wo die
 Rassekamele der Züchterei gehalten wurden. Wir kürzten
 unseren Weg bedeutend ab, wenn wir es passierten.
 
-Ich hat!: Harald natürlich gefragt, was es mit den
+Ich hatte Harald natürlich gefragt, was es mit den
 Duran Taiman auf sich hätte.
 
-! »Weiß ich nicht, mein Alter,« Haie er erwidert. »Floh
-
+»Weiß ich nicht, mein Alter,« hatte er erwidert. »Ich
 <@pagebreak/>
-999999999900 5 990990999050.
-- fand biete Bezeichnung in einem der Pergamente, das ich
-[eitel nur in Bruchstücken ins Deutsche übertragen konnte,
-da scheinbar irgend ein Käfer das Pergament übel zucken
-tet hatte. Hier — dies sind die Bruchstücke. Ich habe
+fand diese Bezeichnung in einem der Pergamente, das ich
+leider nur in Bruchstücken ins Deutsche übertragen konnte,
+da scheinbar irgend ein Käfer das Pergament übel zugerichtet
+hatte. Hier — dies sind die Bruchstücke. Ich habe sie
 auf diesen Briefumschlag geschrieben.«
 
 Ich las folgendes:
 
-Paschkur dar Singri, Fürst von Bikaner, hat als —
-Ermordung der Einzieher der Maisftener — von Chattagarh
+> Paschkur dar Singri, Fürst von Bikaner, hat als —
+Ermordung der Einzieher der Maissteuer — von Chattagarh
 — niedermachen lassen. Seitdem heißt — Duran
 Taiman. Der Bhat des Fürsten Paschkur berichtet, daß
 damals vor dem Blut, die Frauen aus Chattagarh ihre
 — in den — Brunnen —, so daß der Fürst, dessen Habgier
-berüchtigt — verlustig ging. tun jenen — noch immer
+berüchtigt — verlustig ging. In jenen — noch immer
 — verborgen sein, ohne daß es — Nichts hat die
 Seelen der Männer, denen — als gerade die Hoffnung
-— Duran Taiman bewahrten ihre —, und — nichts gen
+— Duran Taiman bewahrten ihre —, und — nichts gefunden.
 
-befunden.
-Es als » meinte ich, »das Hing! ja wie ein düsteres Geheimnis.«
-Boxen
-» »Jt es auch ohne Zweifel. Wir werden in dem Dorfe
+»Hm,« meinte ich, »das klingt ja wie ein düsteres Geheimnis.«
+
+»Ist es auch ohne Zweifel. Wir werden in dem Dorfe
 Girwali —« — Er unterbrach sich. »Ah — ein Kampf
-zwischen zwei Kamelhengsten!« rief er lebhafter, »Ein seltenes
+zwischen zwei Kamelhengsten!« rief er lebhafter. »Ein seltenes
 Schauspiel! Wer traut wohl diesen so melancholisch
 dreinblickenden Tieren eine so rasende Wut zu! Da — der
-lichtere He hat dem anderen wahrhaftig ein großes
+kleinere Hengst hat dem anderen wahrhaftig ein großes
 Stück Haut herausgebissen!«
-Die beiden Kämpfer hatten sich jetzt auf den Hinter«
-Beinen aufgerichtet, hielten sich gleichsam umklammert. Sie
+
+Die beiden Kämpfer hatten sich jetzt auf den Hinterbeinen
+aufgerichtet, hielten sich gleichsam umklammert. Sie
 bluteten bereits aus verschiedenen Bißwunden.
-Die übrige Herde, gut fünfhaundert Kamele, hatte einen
+
+Die übrige Herde, gut fünfhundert Kamele, hatte einen
 weiten Kreis um sie gebildet.
-Wir standen hm treu von ein paar Palmen. Der
+
+Wir standen im Schatten von ein paar Palmen. Der
 Anblick der in ihrer Wut fast abschreckend wirkenden beiden
-Tiere fesselte uns derart, daß wir gar nicht bemerkten, tote
-Bassin greisenhaften Hindbu, der blühen Stamelbünger in einen
-Handkoffer gesammelt hatte, sehr behende für fein Alter
-
+Tiere fesselte uns derart, daß wir gar nicht bemerkten, wie
+ein greisenhafter Hindu, der bisher Kameldünger in einen
+Handkarren gesammelt hatte, sehr behende für sein Alter
 <@pagebreak/>
-200900009090 5 2000060900008
-
-herbeigelaufen kam. Erst als er an uns borliberhaflete,
+herbeigelaufen kam. Erst als er an uns vorüberhastete,
 wurden wir gewahr, daß er offenbar die Absicht hatte, die
-beiden Hengste zu reinen.
+beiden Hengste zu trennen.
 
-Unwilllfürlich rief ich ihm eine Warnung zu. Die
-Kämpfer bearbeiteten sich jetzt, Hinten austeilend und den
-Kopf tief gesenkt, mit den Hintertüren.
+Unwillkürlich rief ich ihm eine Warnung zu. Die
+Kämpfer bearbeiteten sich jetzt, hinten austeilend und den
+Kopf tief gesenkt, mit den Hinterhufen.
 
-Seltsam genug: Harald legte mir rasch Die Hand auf
+Seltsam genug: Harald legte mir rasch die Hand auf
 den Arm.
 
 »Laß den Greis nur machen!« meinte er. »Warte ab!«
 
-Noch seltsamer: der lieblich dicht neben den Tieren
-sieben und zog eine jener Bambusflöten aus dem Gewand,
-wie sie die Kanteltreiber der Karawanen in der Star zu
-ihrer Unterhaltung mit fix zu führen pflegen.
+Noch seltsamer: der Alte blieb dicht neben den Tieren
+stehen und zog eine jener Bambusflöten aus dem Gewand,
+wie sie die Kameltreiber der Karawanen in der Thar zu
+ihrer Unterhaltung mit sich zu führen pflegen.
 
 Er begann zu spielen. Erst ein paar schrille Töne, dann
-etwa acht Takte einer Art Melodie, eintönig, geradezu be-sänstigend
-in ihrer Tonfolge.
+etwa acht Takte einer Art Melodie, eintönig, geradezu
+besänftigend in ihrer Tonfolge.
 
-Diese acht Takte wiederholten sich) dauernd.
+Diese acht Takte wiederholten sich dauernd.
 
 Und — merkwürdig genug — es schien, als ob die
-Kamelhengste plötzlich seltener auskeilzen, als ob ihre
-grimme Wut infolge dieser Musik. nachließ.
+Kamelhengste plötzlich seltener auskeilten, als ob ihre
+grimme Wut infolge dieser Musik nachließ.
 
 Dann wandten sie die Köpfe nach dem Greise hin,
-verhielten sich eine Weile reglos und — leeren sich ebenso
-plötzlich Nr die blutenden Wunden.
+verhielten sich eine Weile reglos und — leckten sich ebenso
+plötzlich gegenseitig die blutenden Wunden.
 
-Ein Bhat,« Saale Harald leise,
+»Ein Bhat,« sagte Harald leise.
 
-Mir war die Kaste der Bhats nicht mehr srembd. Schon
-Ne hatten wir mit einem Bhat in Radschputana zu tun
-gehabt. Not Rot
+Mir war die Kaste der Bhats nicht mehr fremd. Schon
+einmal hatten wir mit einem Bhat in Radschputana zu tun
+gehabt.
+
 Als die Kamelhengste jetzt sogar nach verschiedenen
-Seiten der Herde wieder entfalten, stellte der Alte die
-Bambusflöte. wieder weg, machte lehrt und wollte im Bog
-
-gen um uns herum zu seinem Karren zurück.
+Seiten der Herde wieder zutrabten, steckte der Alte die
+Bambusflöte wieder weg, machte kehrt und wollte im Bogen
+um uns herum zu seinem Karren zurück.
 
 Harald rief ihn an, schritt auf ihn zu.
 
 Jetzt erst sah ich so recht, wie hager und faltig das Gesicht
-doch Steife« und wie zerrissen fein mantelartiges,
-schwieriges Gewand war. Der weiße, lange Bart verlieh
-dem Umgangen Artist etwas Chrw ledige?. Aus feuere
+des Greises und wie zerrissen sein mantelartiges,
+schmieriges Gewand war. Der weiße, lange Bart verlieh
+dem runzeligen Antlitz etwas Ehrwürdiges. Aus den großen
 <@pagebreak/>
-9699E.0090504 7 Gab
+klaren Schwärmeraugen blitzten jedoch eine jugendliche
+Intelligenz und eine nicht alltägliche Energie.
 
-nahen Hafen Schwärmeraugen brieten jedoch eine ndl
-Jutzelligenz und eine nicht alltägliche Energie. Mrs
-P: Er musterte uns sehr scharf. Die stolze Haltung, die
-»allen Radschputen eigen ist, war bei diesem mindestens
-siebzigjührigen Manne noch schärfer ausgeprägt In dem
-- Zulief, der immer wieder über uns hinglitt, lag etwas wie
-hochanütige Verachtung. VN
-zu sog die Sportmütze zu ehrerbietigem Gruß. Dann
-ragte er:
-»Du bist ein Bhat, ein Weisen kf«
-»Du sagst es!« wirkte ver Greis. Er unterließ die
-übliche Anrede »Saghib« (Herr) Auch das war bezeichnend
+Er musterte uns sehr scharf. Die stolze Haltung, die
+allen Radschputen eigen ist, war bei diesem mindestens
+siebzigjährigen Manne noch schärfer ausgeprägt. In dem
+Blick, der immer wieder über uns hinglitt, lag etwas wie
+hochmütige Verachtung.
+
+Harst sog die Sportmütze zu ehrerbietigem Gruß. Dann
+fragte er:
+
+»Du bist ein Bhat, ein Weiser?«
+
+»Du sagst es!« nickte der Greis. Er unterließ die
+übliche Anrede »Sahib« (Herr). Auch das war bezeichnend
 für den Stolz des Alten.
-Darf ich wissen, wo Du wohnst?« frage Harald
-weiter.
-»Drüben hinter den Felshügeln in Girwali.«
-Auch wir wollen dorthin. Du hast hier Kameldünger
 
+»Darf ich wissen, wo Du wohnst?« frage Harald
+weiter.
+
+»Drüben hinter den Felshügeln in Girwali.«
+
+»Auch wir wollen dorthin. Du hast hier Kameldünger
 für Dein Herdfeuer gesammelt. Dein Karren ist gefüllt.
 Wir werden Dir den Karren ziehen. Es dürfte Dir Mühe
 machen, ihn in dem tiefen Sande vorwärtszubringen.«
+
 Der Alte schüttelte leicht den Kopf. Er schien angenehm
-überrascht zu fein, daß ein Europäer sich so weit hervorhob,
+überrascht zu sein, daß ein Europäer sich so weit herabließ,
 einen Karren zu ziehen. Das war für Indien, wo
-ah Weiße sich ein paar Diener hält, etwas geradezu Un-érhörtes.
-Ri »Es darf nicht sein, Sahib,« meinte er. »Kein nickst
+jeder Weiße sich ein paar Diener hält, etwas geradezu Unerhörtes.
+
+»Es darf nicht sein, Sahib,« meinte er. »Kein Inglist
 (Engländer) tut so etwas.«
-h; »Wir sind Deutsche,« erklärte Harst einfach, »Wie heiß!
+
+»Wir sind Deutsche,« erklärte Harst einfach. »Wie heißt
 Du, mein Vater?«
-»Omar bar Singri, Sahib.«
-Dar Singri? — Ich horchte auf. Paschkur bar
-Singri war ja der Kaute jenes Fürsten von Bikaner,
+
+»Omar dar Singri, Sahib.«
+
+Dar Singri? — Ich horchte auf. Paschkur *dar
+Singri* war ja der Name jenes Fürsten von Bikaner,
 der mit dem Inhalt der zerstörten Urkunde irgendwie in
 Zusammenhang stand.
 
 Auch über Harsts tief gebräuntes Gesicht glitt ein
-
-Ausdruck des Staunens. Er schwieg jedoch und schritt weil
-
+Ausdruck des Staunens. Er schwieg jedoch und schritt weiter
 <@pagebreak/>
-
-Lager 8 999995090926
-
-ab das darin zu. Als er die dünne Deichsel und den
+auf den Karren zu. Als er die dünne Deichsel und den
 Zugstrick ergriff, suchte ihn der Greis beiseite zu drängen.
+
 »Sahib, ein so berühmter Mann wie Du darfst Dich
-nicht so erniedrigen,« meinte der Alte rasch. »ch weiß,
-er L Mr He aßen wieder vernäht uns
-arawanenftrtaßen wieder Dr von
-Bedrohungen durch die Räuber.«
-lustige als, rt Die I Da be
-nur a er zu un
+nicht so erniedrigen,« meinte der Alte rasch. »Ich weiß,
+wer Ihr seid. Ihr habt Sahib Olgerdyn in der Thar umzingelt
+und die Karrenstraßen wieder frei gemacht von
+den Bedrohungen durch die Räuber.«
+
+Ich hatte schon mit angefaßt. Da Harald den Greis
+nur belustigt anlächelte, trat dieser zurück und stapfte dann
 neben uns durch den Sand.
-- Nach einer Weile begann Harst dann:
-Wir hörten in Tallamara, daß es hier einen Ort nahe
-Duran Taiman geben soll. Weißt Du etwas dar-Omar
-dar Singri?«
-» Die Wirkung dieser Frage war seltsam genug.
-»Der Alte blieb stehen und schaute Harst finster
-so finster und drohend, daß Harald feiner hinzufügte:
-hast vielleicht gehört, daß ich es liebe, Geheimnisse e heißerer
+
+Nach einer Weile begann Harst dann:
+
+»Wir hörten in Tallamara, daß es hier einen Ort namens
+Duran Taiman geben soll. Weißt Du etwas darüber,
+Omar dar Singri?«
+
+Die Wirkung dieser Frage war seltsam genug.
+
+Der Alte blieb stehen und schaute Harst finster an —
+so finster und drohend, daß Harald schnell hinzufügte: »Du
+hast vielleicht gehört, daß ich es liebe, Geheimnisse besonderer
 Art aufzuklären. Ich möchte erfahren, was es mit den
-Steinen der Tränen auf sich hat.«
+*Steinen der Tränen* auf sich hat.«
+
 »Wer sprach zu Dir von den Duran Taiman?« fragte
 der Bhat kurz.
-»ein Pergament,« erwiderte Harald ebenso kurz.
-Der 9 Alte mochte dies »Pergament« für die Bezeichnen
-2 bestimmten Berufsklasse halten. Er sann nach.
-Sein Gesicht hatte jetzt jede Spur von Freundlichkeit vor
 
-In Schicke ihn mir,« sagte er dann. »Ich muß mit ihm
-er Dort kommt auch meine Urenkelin. Sie wird
+»Ein Pergament,« erwiderte Harald ebenso kurz.
+
+Der Alte mochte dies »Pergament« für die Bezeichnen
+einer bestimmten Berufsklasse halten. Er sann nach.
+Sein Gesicht hatte jetzt jede Spur von Freundlichkeit verloren.
+
+»Schicke ihn mir,« sagte er dann. »Ich muß mit ihm
+sprechen. — Dort kommt auch meine Urenkelin. Sie wird
 den Wagen ziehen. Ich danke Euch!«
 
 Ueber eine von den Kamelen völlig zerstampfte Rasenfläche
-‘nahte sich ein braunes Hindumädchen.
+nahte sich ein braunes Hindumädchen.
 
-Sie hatte in der Rechten einen langen ‘Sto, den sie
-tastend he! jedem Schritt vor sich über den Boden gleiten
+Sie hatte in der Rechten einen langen Stock, den sie
+tastend bei jedem Schritt vor sich über den Boden gleiten
+ließ.
 
-Oman sah es aus der Ferne fern: sie war blind.
-
-A
+Man sah es aus der Ferne schon: sie war blind.
 
 <@pagebreak/>
-
-2990909292292 9)! 99099929999
-Größtem kam sie Dr As näher, Sie
-trug das Zwange, straffe Haar in der Mitte gescheitelt und
-»ein loses Gewand aus roter, feingefponnener Mole. Ja
-eben Ohrläppchen hingen breite, altertümliche Ringe mit
+Trotzdem kam sie verhältnismäßig rasch näher. Sie
+trug das schwarze, straffe Haar in der Mitte gescheitelt und
+ein loses Gewand aus roter, feingesponnener Wolle. In
+den Ohrläppchen hingen breite, altertümliche Ringe mit
 Anhängern, die mit Steinen verziert waren. Um den Hals
-hatte sie zwei goldene Geschmeide aus antiken Münzer gelegt.
-Sogar die Unterarme waren mit Armbändern gen
+hatte sie zwei goldene Geschmeide aus antiken Münzen gelegt.
+Sogar die Unterarme waren mit Armbändern geschmückt.
 
-Der Greis rief ihr etwas im Rabfhputendialelt zu.
+Der Greis rief ihr etwas im Radschputendialekt zu.
 Daraufhin blieb sie stehen. Ihr Gesicht zeigte edle Züge.
-Die Augen waren fest geschlossen. Mix schien es, als ob
+Die Augen waren fest geschlossen. Mir schien es, als ob
 die Lider stark entzündet wären.
 
 Harald hatte Deichsel und Zugstrick losgelassen.
 
-»seh’ wohl, Omar dar Singri,« meinte er nun. »Das
+»Leb’ wohl, Omar dar Singri,« meinte er nun. »Das
 Pergament wird zu Dir kommen. Ich merke, Du wünschest
 nicht, daß wir Dich begleiten. Wann soll das Pergament
 kommen.«
 
 Der Greis achtete nicht darauf, daß Harst »das« Pergament
-sagte. Er blieb bei dem Glauben, es bartlose sich
-»um irgend eine Person.
+sagte. Er blieb bei dem Glauben, es handele sich
+um irgend eine Person.
 
 »Heute abend,« antwortete der Bhat wieder recht kurz.
-He könnt ihn begleiten.«
+»Ihr könnt ihn begleiten.«
 
-Dann ergriff er Deichsel und AZugftrid-undb fuhr davon
-— auf seine blinde Urenkelin zz.
+Dann ergriff er Deichsel und Zugstrick und fuhr davon
+— auf seine blinde Urenkelin zu.
 
-Vor
-3. Kapitel.
+<h2>2. Kapitel.</h2>
+
 Harald sagte leise:
-»Kehren wir um — zum Schein. Dort Hinter jener
-Bobentoelle sind tust gelebt.«
-na war gespannt, was nun folgen würde.
-Baum hatten wir das Tal erreicht, als Harald zu
+
+»Kehren wir um — zum Schein. Dort hinter jener
+Bodenwelle sind wir gedeckt.«
+
+Ich war gespannt, was nun folgen würde.
+
+Kaum hatten wir das Tal erreicht, als Harald zu
 laufen begann. Wir trabten die Senkung entlang nach
-
-Nordwest, kamen an den Drahtzaun des Kaanelgehegaes,
-(iberkletterten ihn, kamen in ein noch tieferes steiniges er
-
+Nordwest, kamen an den Drahtzaun des Kamelgeheges,
+überkletterten ihn, kamen in ein noch tieferes steiniges
 <@pagebreak/>
-
-992992999999 1 »Koste re
-
-damaliges Flußbett und verfolgten es bis an die ersten Aus
-[Läufer der kahlen Felshügel nach Nordost hin. Hier nahe.
-men uns nun die Anhöhen schhübßend auf. Nachdem wir
+ehemaliges Flußbett und verfolgten es bis an die ersten Ausläufer
+der kahlen Felshügel nach Nordost hin. Hier nahmen
+uns nun die Anhöhen schützend auf. Nachdem wir
 eine Schlucht passiert und ein steiles Plateau erklommen
 hatten, konnten wir auf das in der Ebene liegende Dorf
--Girwali hinabblicken.
+Girwali hinabblicken.
 
-Wir hatten es vorgestern aus einem Spazierritt bereits
+Wir hatten es vorgestern auf einem Spazierritt bereits
 kennengelernt. Es bestand aus dreißig Steinhütten, die
-sich um einen stark salzhaltigeu Teil herum gruppierten.
+sich um einen stark salzhaltigen Teich herum gruppierten.
 Es wohnten hier alles radschputische Viehzüchter, zumeist
 recht begüterte Leute, was man schon an der Sauberkeit
 der einzelnen Gehöfte erkannte.
 
 »Bleiben wir hier oben,« meinte Harald.
 
-Er strebte sich hinter ein paar Bifteffträuhern am
-en des Abhangs aus und holte sein Zigarettenetui
+Er strebte sich hinter ein paar Distelsträuchern am
+Rande des Abhangs aus und holte sein Zigarettenetui
+hervor.
 
-erbat
+Ich lagerte mich neben ihm. Er bot mir eine Mirakulum
+an.
 
-na Ich lagerte mich neben ihm. Er bot mir eine Mira-fu
-
-»Was hältst Du von dem Bhat?« fragte er nach dem
-ersten Zügen. è
+»Was hältst Du von dem Bhat?« fragte er nach den
+ersten Zügen.
 
 »Schwer zu sagen. Jedenfalls muß er mit dem Geheimnis
 des Pergamentblattes vertraut sein.«
+
 Harald nickte, knöpfte die Sportjacke auf und entnahm
-der Innentasche cm — Pergamentblatt, das dreimal gefaltet
+der Innentasche ein — Pergamentblatt, das dreimal gefaltet
 war.
-wi »Sieh es Dir an — oder ihn, den Herrn Pergament,«
+
+»Sieh es Dir an — oder ihn, den Herrn Pergament,«
 lächelte er gutgelaunt.
 
 Das Lederblatt, etwa vierzig mal vierzig Zentimeter
 im Quadrat, war nur auf der einen Seite beschrieben. Ich
 konnte die altindischen Schriftzeichen nicht lesen. Für mich
 hatten lediglich die blaue Indigotinte und die Zierlichkeit
-der Buchstaben Antereffe, außerdem die das Pergament
-durchziehenden großen Löcher, die zum mindesten ein Dortiger
-her Schrijtzeilen vernichtet hatten.
+der Buchstaben Interesse, außerdem die das Pergament
+durchziehenden großen Löcher, die zum mindesten ein Drittel
+der Schriftzeilen vernichtet hatten.
 
-Riecht wahr — künstlich!« sagte Harald dann.
+»Nicht wahr — künstlich!« sagte Harald dann.
 
-by schaute auf.
+Ich schaute auf.
 
 <@pagebreak/>
-9929999990922 1 999992993
-
 »Du meinst künstlerisch?«
 
-»Nein — künstlich! Die Löcher nämlich. Der Käfer
+»Nein — künstlich! Die Löcher nämlich. Der *Käfer*
 war ein Mensch, der zerstörende Käfer.«
 
-»Ah — jemand hat das Pergament absichtlich so zu
-gerichtet?«
+»Ah — jemand hat das Pergament absichtlich so zugerichtet?«
 
 »Fraglos! Damit das Geheimnis bewahrt bliebe.«
 
 Ich prüfte die Löcher jetzt genauer.
 
-Ja,« erklärte ich dann, »sie sind herausgeschnitten
-worden, und die Ränder hat man mit der Messerklinge be-ichabt,
+»Ja,« erklärte ich dann, »sie sind herausgeschnitten
+worden, und die Ränder hat man mit der Messerklinge beschabt,
 damit die Schnittflächen nicht allzu glatt erschienen.
-Außerdem sind diese Schnittflächen mit Schmal leicht überzogen
+Außerdem sind diese Schnittflächen mit Schmutz leicht überzogen
 worden!«
 
 »Ja — mit Staub, den man angefeuchtet hatte. — Ich
-möchte Dir nun auch die Vorgeschichte dieses Morgenspa-
-
-ziergangs erzählen, mein Alter. Gestern früh, als Du noch
-
+möchte Dir nun auch die Vorgeschichte dieses Morgenspaziergangs
+erzählen, mein Alter. Gestern früh, als Du noch
 schliefst, sah ich den Bhat Omar Singri die Burg betreten
-
 und mit dem Hausmeister Tossan sprechen, der vor dem
-
 Alten in Ehrfurcht erstarb. Die beiden gingen dann über
-
 den Hof in den nördlichen Eckturm, wobei sie sich mehrmals
-
-Dörfchen Rundlichen. Dies fiel mir auf. Sie kehrten erst nach
+scheu umblickten. Dies fiel mir auf. Sie kehrten erst nach
 einer halben Stunde zurück. Der Bhat verließ Die Burg,
-und Tossan, der alte Hausmeister, betrat den Turm aber-meals,
-erschien sehr bald wieder und schloß die Turmtür ab,
-
-Den Schlüssel nahm er mit, Als Tossan ittags im
-
-Städtchen Tallamara Einkläuse machte, dein ich den
-
+und Tossan, der alte Hausmeister, betrat den Turm abermals,
+erschien sehr bald wieder und schloß die Turmtür ab.
+Den Schlüssel nahm er mit. Als Tossan mittags im
+Städtchen Tallamara Einkäufe machte, besuchte ich den
 Turm, fand im oberen Gemach drei Schränke und öffnete
-
-sie ebenfalls mit einem Dietrich, Ein paar winzige Bergab
-
-mentfchnigel auf dem Steinboden bei Gemach hatten mir
+sie ebenfalls mit einem Dietrich. Ein paar winzige
+Pergamentschnitzel auf dem Steinboden des Gemachs hatten mir
 bereits so ungefähr verraten, was Tossan und der Bhat
 hier getrieben hatten. In einer Mappe — Du weißt, daß
-
-Olgerdyn sich auch als Altertumsforscher betätigte — eure
-
-deckte ich dieses Blatt. Auf dem Schildchen der Mappe
-
+Olgerdyn sich auch als Altertumsforscher betätigte — entdeckte
+ich dieses Blatt. Auf dem Schildchen der Mappe
 stand:
-24 Stück Pergamentblätter,
-und darunter kurze Angaben über ihr vermutliched Alter.«
+
+> 24 Stück Pergamentblätter,
+
+und darunter kurze Angaben über ihr vermutliches Alter.«
+
 Ich hörte ganz andächtig zu.
 
 <@pagebreak/>
-Rose 12 Dr
-es Pflug an und der Bhat hatten also,« fuhr Harald fort,
-es eine, gerade das älteste Blatt beschädigt, eben die
+»Tossan und der Bhat hatten also,« fuhr Harald fort,
+»dieses eine, gerade das älteste Blatt beschädigt, eben die
 hineingeschnitten. Olgerdyn hat es fraglos nicht
-ne können, da die Schriftzeichen dieser Art sehr erklärte
-er es entziffert, und Damals war ja vs
-Enge Text vorhat den, so wirke er dem Geheimni
-Er ‚Soil selbst nachgespürt haben. — Ich siedle das
-dann zu mir und entfernte mich genau so unbemerkt
-dem Turme, wie ich ihn betreten hatte. Nun weißt
-Tue, weshalb wir heute nach Girwali wollten. Daß Omar
+entziffern können, da die Schriftzeichen dieser Art sehr selten
+sind. Hätte er es entziffert, und damals war ja noch
+der ganze Text vorhanden, so würde er dem Geheimnis
+ohne Zweifel selbst nachgespürt haben. — Ich steckte das
+Blatt dann zu mir und entfernte mich genau so unbemerkt
+aus dem Turme, wie ich ihn betreten hatte. Nun weißt
+Du, weshalb wir heute nach Girwali wollten. Daß Omar
 dar Singri der gestrige Besucher der Burg gewesen, erfuhr
 ich gestern abend von einem der Diener so ganz nebenbei,
-Besuch daß Omar in Girwali wohnt. Fenningson fragte ps
-Mr beöbalb nach den Duran Taiman, um festzustellen, ob
+auch daß Omar in Girwali wohnt. Jenningson fragte ich
+nur deshalb nach den Duran Taiman, um festzustellen, ob
 er vielleicht einmal die alten Pergamente durchgesehen hat.
-Denn Jenningson, glaube ich, hätte Die Schriftzeichen erhaben
-können. Er betreibt ja ebenfalls in feiner Mußezeit
-artige Studien. — Ah — da kommen auch Omar und
-Cm Urenkelin den Weg aus den Hügeln entlang. Merkst
-zweifle drehen sich immer wieder um! Sie fürchten, wir
+Denn Jenningson, glaube ich, hätte die Schriftzeichen entziffern
+können. Er betreibt ja ebenfalls in seiner Mußezeit
+derartige Studien. — Ah — da kommen auch Omar und
+seine Urenkelin den Weg aus den Hügeln entlang. Merkst
+Du: sie drehen sich immer wieder um! Sie fürchten, wir
 könnten ihnen folgen!«
+
 Der Greis und das schlanke Mädchen bogen jetzt nach
 links ab und zogen mit dem Karren in die Sanddünen
-nördlich des es hinein bis zu einer stachen, steinigen
-Kuppe, auf der eine einzelne Steinhlitte und dahinter ein
+nördlich des Dorfes hinein bis zu einer flachen, steinigen
+Kuppe, auf der eine einzelne Steinhütte und dahinter ein
 winziger Stall, außerdem noch ein kleiner Tempel mit Säulenvorbau
 standen. Etwa zwei Dutzend Palmen und einige
 Büsche wuchsen auf dieser Kuppe, die nach Süden zu gut
 zehn Mieter tief abfiel. Dieser Abhang war höchstens vierzig
 Meter lang und ging allmählich wieder in die kahlen
 Sanddünen über.
-Der Bhat und das Mädchen schafften den Karren Hm
-Ventile Hütte und entschwaunven unseren Blicken.
+
+Der Bhat und das Mädchen schafften den Karren hinter
+die Hütte und entschwanden unseren Blicken.
+
 So verstrichen gut zehn Minuten.
+
 Nichts geschah. Die beiden erschienen nicht wieder.
-»Seltsam,« sagte Harald. »Wirklich seltsam!« -
+»Seltsam,« sagte Harald. »Wirklich seltsam!«
 
 <@pagebreak/>
-
-Dr 18 »o.000000000
-
-»Was denn?« fragte ich erstaunt,
+»Was denn?« fragte ich erstaunt.
 
 »Daß die beiden noch immer hinter der Hütte bleiben.
-Der Eingang der Hütte Liegt nach Süden zu. Wir sehen
+Der Eingang der Hütte liegt nach Süden zu. Wir sehen
 ihn. Ein zweiter ist nicht vorhanden. Das weiß ich von
-unserem Spagziérritt her. Die einsame Hütte dort oben erregte
+unserem Spazierritt her. Die einsame Hütte dort oben erregte
 schon damals meine Aufmerksamkeit.«
 
 »Vielleicht laden sie den Karren ab.«
 
-»Das wäre im Augenblick getan gewesen. Der Kamelen.
-E ja nur in der Sonne zum Trocknen auszog
-
-breit
+»Das wäre im Augenblick getan gewesen. Der Kameldünger
+wird ja nur in der Sonne zum Trocknen ausgebreitet.
 
 Wieder vergingen reichlich zehn Minuten.
 
-»Die Sache wird immer schleierhafter,« meinte Harst
+»Die Sache wird immer schleierhafter,« meinte Harst.
 
 Und wieder eine Viertelstunde nichts.
 
-Harald gähnte. »Langweilig! Gib mal auf bat So
-Gehöft acht, mein Alter. Ich wir Dir mal die Vieberfegung
-des Pergament? ergänzen. Höre an
+Harald gähnte. »Langweilig! Gib mal auf das
+Gehöft acht, mein Alter. Ich will Dir mal die Uebersetzung
+des Pergaments ergänzen. Höre zu.«
 
-Er zog das Blatt Papier mit der worin wo
-der Tasche und las mit verschiedener
+Er zog das Blatt Papier mit der Uebersetzung aus
+der Tasche und las mit verschiedener Betonung, indem er
 seine Ergänzungen stärker hervorhob:
 
-»  »Paschkur dar Singri, Fürst von Statuen, per ‘als Vergeltung
-für die Ermordung der Einzieher der Maisfteuer
+»Paschkur dar Singri, Fürst von Bikaner, hat als Vergeltung
+für die Ermordung der Einzieher der Maissteuer
 die Bewohner von Chattagarh gefangen wegführen und
-ämtlih niedermachen lassen. Seitdem heißt der Ort, Ok
-loses Blutbad stattfand, Duran Taiman, Der Bhat des
+sämtlich niedermachen lassen. Seitdem heißt der Ort, wo
+dieses Blutbad stattfand, Duran Taiman. Der Bhat des
 Fürsten Paschkur berichtet, daß damals vor dem Blutbad
 an den Duran Taiman die Frauen aus Chattagarh ihre
 Kostbarkeiten, die sie am Körper verborgen bei sich trugen,
 in den als überaus tief bekannten Brunnen von (hier muß
-ich eine Lücke lassen, fügte er ein)? hineingeworfen haben,
+ich eine Lücke lassen, fügte er ein)\ ? hineingeworfen haben,
 so daß der Fürst, dessen Habgier berüchtigt war, all dieser
 Kleinodien verlustig ging. In jenem tiefen Brunnen sollen
 die Kostbarkeiten noch immer seit jenem Blutbade verborgen
 sein, ohne daß es bisher gelungen wäre, die Frage
-nachjuprüfen, was Wahres an dieser halbem Sage je.
-Nichts hat die Seelen der Männer, denen biete Gage bekannt
-war, mehr erregt als gerade die Hoffnung, die Schätz
-
+nachzuprüfen, was Wahres an dieser halbem Sage sei.
+Nichts hat die Seelen der Männer, denen diese Sage bekannt
+war, mehr erregt als gerade die Hoffnung, die Schätze
 <@pagebreak/>
-Da 4 Tennis
-finden. Aber die Duran Taiman bewahrten ihre ja
-eimniffe, und blühen Oft in dem Brunnen nichts gefunden.
-»Du wirst zugeben,« erklärte Harald dann, »daß diese
-Ergänzungen zwanglos und nicht allzu phantastisch sind,
+zu finden. Aber die Duran Taiman bewahrten ihre Geheimnisse,
+und bisher ist in dem Brunnen nichts gefunden.
+
+Du wirst zugeben,« erklärte Harald dann, »daß diese
+Ergänzungen zwanglos und nicht allzu phantastisch sind.
 Wir haben es hier mit einem Geheimnis zu tun, das etwa
-neunhundert Zahle alt ist. Es muß sich dabei nicht lediglich
+neunhundert Jahre alt ist. Es muß sich dabei nicht lediglich
 um eine Sage handeln. Dies beweist das merkwürdige
-Verhalten des Bhat Omar, der ganz sicher ein Nöchkomme
+Verhalten des Bhat Omar, der ganz sicher ein Nachkomme
 der ehemaligen Fürsten von Bikaner ist. Er hätte das Pergamentblatt
 wohl auch vernichtet, wenn der Hausmeister
-Tossan es. zugelassen hätte. Omar ist nach der Burg ne
-kommen, weil er wußte, daß dort gerade dieses Pergamentblatt
-vorhanden war und daß wir beide, besonders ich, fahl
-es mir in die Hände geriete, dem Geheirinis nachspüren
+Tossan es zugelassen hätte. Omar ist nach der Burg gekommen,
+weil er wußte, daß dort gerade dieses Pergamentblatt
+vorhanden war und daß wir beide, besonders ich, falls
+es mir in die Hände geriete, dem Geheimnis nachspüren
 würden. Er gab ja zu, daß er von uns bereits gehört
-Hätte. Du siehst, ich habe nun alles, was mit den Duran
-Taiman zusammenhängt, Dir vorgetragen. Weine
+hätte. Du siehst, ich habe nun alles, was mit den Duran
+Taiman zusammenhängt, Dir vorgetragen. Meine
 Weisheit ist nun vorläufig zu Ende. Wir müssen den Brunnen,
 die Steine der Tränen und die Verbindung zwischen
 der angeblichen Sage und dem auffälligen Verhalten Omars
-suchen. Wir werden dabei ohne Frage auf allerlei Ueber-zafchungen
+suchen. Wir werden dabei ohne Frage auf allerlei Ueberraschungen
 stoßen. Die erste ist bereits da: wo sind Omar
-und seine Urenkelin geblieben?« +
+und seine Urenkelin geblieben?«
+
 »Mal ein Fall, der nicht mit einem Verbrechen beginnt,«
-meinte Ich nachdenklich,
+meinte ich nachdenklich.
+
 »So?! Kein Verbrechen?! Und das Blutbad, dem
-die Bewohner von Chattagarh zum Opfer fielen?! je
-gewiß — dieses Verbrechen liegt fast ein Jahrtausend zurück.
+die Bewohner von Chattagarh zum Opfer fielen?!
+Gewiß — dieses Verbrechen liegt fast ein Jahrtausend zurück.
 Seine Folgen aber können bis in die Gegenwart hineinreichen.
-— ist noch immer alles Stil bei Omars Hütte?«
+— ist noch immer alles Still bei Omars Hütte?«
+
 »Ja — nichts regt sich. Nur aus dem Kamin steigt
-Jetzt Rauch auf.«
+jetzt Rauch auf.«
+
 »Immerhin etwas! Wenn man nur näher heran
+könnte! Aber —«
 
-könntet Aber —«
 Ein Geräusch hinter uns ließ uns gleichzeitig die Köpfe
-
 drehen.
 
 <@pagebreak/>
+Da hatten wir ja Ueberraschung Nummer zwei:
 
-269069990920 15 © ich &
-Da hatten wir ja Ueberraschung Gen weh:
 Fünf Radschputen, die Gesichter durch Tücher verhüllt,
-standen kaum acht Schritt hinter uns mit | — angelegten
-Borberlabergeivehren!
+standen kaum acht Schritt hinter uns mit — angelegten
+Vorderladergewehren!
 
-Harald seÿte sich gemächlich aufrecht. Ich tat Bad
+Harald setzte sich gemächlich aufrecht. Ich tat dasselbe.
 
 Die fünf Kerle zielten weiter auf uns.
 
 Sie standen an der Rückwand des kleinen Felsplateaus
-vor einem engen Höhleneingang, den wir vorhin nicht be
-merkt hatten. Links neben dem dunklen Felsloche lehnte
-»eine mächtige Steinplatte von unregelmäßigen - Form, die
-offenbar das Loch verlebt hatte.
+vor einem engen Höhleneingang, den wir vorhin nicht bemerkt
+hatten. Links neben dem dunklen Felsloche lehnte
+eine mächtige Steinplatte von unregelmäßiger Form, die
+offenbar das Loch verdeckt hatte.
 
-Und aus dieser kaum männlichen schmalen Oeffnung
+Und aus dieser kaum mannshohen schmalen Oeffnung
 trat nun das — Hindumädchen heraus, tastete sich mit dem
 Stocke noch ein paar Schritt vorwärts, blieb neben den
-Seen Gesellen stehen und sagte dann in fließenden
-
-na
+fünf braunen Gesellen stehen und sagte dann in fließenden
+Englisch:
 
 »Sahib Harst, Ihr beide werdet Euch gefangen geben.
 Wenn Ihr nicht gehorcht, schießen die Männer.«
 
-Sich sah jetzt, daß die Augenlider des Mädchens in der
+Ich sah jetzt, daß die Augenlider des Mädchens in der
 Tat stark entzündet und wie durch Eiter verklebt waren.
 
-tun erwiderte sofort:
+Harald erwiderte sofort:
 
-Weshalb wollt Ihr uns gefangen nehmen?«
-teil Ihr Sahib Olgerdyn getötet habt.«
-Das ist nicht wahr. Jemand anders erschoß ihn.«
-»he seid schuld an seinem Tode. Wir halten treu zu
+»Weshalb wollt Ihr uns gefangen nehmen?«
+
+»Weil Ihr Sahib Olgerdyn getötet habt.«
+
+»Das ist nicht wahr. Jemand anders erschoß ihn.«
+
+»Ihr seid schuld an seinem Tode. Wir halten treu zu
 ihm, auch wenn er tot ist,« erklärte die Blinde ohne jede
-Erregung. »Ihr müßt gehören. Ihr habt Eure Pistolen
+Erregung. »Ihr müßt gehorchen. Ihr habt Eure Pistolen
 mit, und wer von Euch in die Tasche greift, bekommt eine
+Kugel.«
 
-el.«
 Dieser Ueberfall war recht harmlos. Der Abhang, den
-»wir jetzt hinter uns hatten, war nicht so steil, daß wir es
+wir jetzt hinter uns hatten, war nicht so steil, daß wir es
 nicht hätten wagen dürfen, ihn hinabzurutschen. Wir
-brauchten und nur biiyichnel nach hinten zu werfen und
-wären dann wohl sicher entwist.
+brauchten uns nur blitzschnell nach hinten zu werfen und
+wären dann wohl sicher entwischt.
 
 <@pagebreak/>
 
-Per 15 00449900000,
+<h2>3. Kapitel.</h2>
 
-8. Kapitel.
+Aber Harst schien diesem Abenteuer eine andere Wendung
+geben zu wollen.
 
-Aber Harst schien diesem Abenteuer eine andere Wen
-Ladung geben zu wollen.
-»Was wird An mit uns geschehen?« fragte er nach
-Oper Pause.
-Das werdet he später erfahren,« erklärte das Mäd-hint
-Er, so gelassen. »Zuerst muß Sahib Schraut sich
-ne meinte Harald. »Es wird ja den Kopf nicke
+»Was wird nachher mit uns geschehen?« fragte er nach
+kurzer Pause.
 
-Was stand auf und trat auf die fünf Radschputen zu zu.
-Ei legten ihre Gewehre hin und banden mir die
+»Das werdet ihr später erfahren,« erklärte das Mädchen
+genau so gelassen. »Zuerst muß Sahib Schraut sich
+binden lassen.«
+
+»Tu’s!« meinte Harald. »Es wird ja den Kopf nicht
+kosten.«
+
+Ich stand auf und trat auf die fünf Radschputen zu.
+
+Zwei legten ihre Gewehre hin und banden mir die
 Arme und Hände mit Riemen auf dem Rücken zusammen.
-Dann kulipfien sie mir ein Tuch um den Kopf.
-Ich hörte, wie O Harald jetzt in derselben Weise
+Dann knüpften sie mir ein Tuch um den Kopf.
 
+Ich hörte, wie auch Harald jetzt in derselben Weise
 wehrlos gemacht wurde.
+
 Die Geschichte war durchaus nicht nach meinem Geschmack.
 Ich ahnte ja dunkel, daß das Mädchen gelogen
 hatte und daß es sich hier keineswegs um eine Rache für
 den Tod Olgerdyns, sondern um das Geheimnis des Pergamentblattes
-radelte. Immerhin war es meines Erachtens
+handelte. Immerhin war es meines Erachtens
 ein Leichtsinn, sich diesen Leuten derart auf Gnade und
 Ungnade auszuliefern.
-»Die folgenden Ereignisse bewiesen denn auch, daß ich
-déesmal recht gehabt hatte.
 
-»Die Radschputen führten uns in das Felsloch hinein,
+Die folgenden Ereignisse bewiesen denn auch, daß ich
+diesmal recht gehabt hatte.
+
+Die Radschputen führten uns in das Felsloch hinein,
 das sich, dem Klange der Schritte nach zu urteilen, zu
-
 einer großen Höhle sehr bald erweiterte.
-Der- Marsch durch diese Höhle dauerte etwa zehn Mir
+
+Der Marsch durch diese Höhle dauerte etwa zehn Minuten.
 
 Dann drücke man mich zu Boden und fesselte mich
 sitzend an einen großen Stein, entfernte das Tuch von meinem
-Bericht und gab mir so die Auslief in eine enge Schlucht
+Gesicht und gab mir so die Aussicht in eine enge Schlucht
+mit turmhohen Wänden frei.
 
-Du turmhohen Wänden frei.
-Harald sah dicht neben mir, auch ohne Tuch vor den
-
+Harald saß dicht neben mir, auch ohne Tuch vor den
 <@pagebreak/>
-Bin
-Dr:
-
-000000909000 17 E09.
-
 Augen. Es gab hier vor einem gleichfalls recht engen
-eng Zu An Bann, Du See
-am Gang rosige en. Drei Schritt vor uns auf der
-Steinkanzel hohle die Blinde.
+Höhlenausgang eine Art Felsenbalkon. Wir waren dicht
+am Ausgang festgebunden. Drei Schritt vor uns auf der
+Steinkanzel hockte die Blinde.
+
 Diese Steinkanzel oder dieser Felsenbalkon lag über
-einem tiefen Abgrund und warte von einem einzelnen
-Baume bar beschattet, der Linie von der Kanzel in
+einem tiefen Abgrund und wurde von einem einzelnen
+Baume halb beschattet, der links von der Kanzel in
 einer Spalte des Gesteins Wurzel geschlagen hatte. Offenbar
 besaß die Schlucht da vor uns keinerlei Zugang. Sonst
-hätte das Hindumädchen wohl kaum a hier so in
-nächster Nähe des Dorfes Girwali und der Kg und der
-Tallamara auf dieser Felskanzel mit Harst zu
-Handeln.
-Sie begann seit, immer mit derselben etwas mono-sonen
+hätte das Hindumädchen wohl kaum gewagt, hier so in
+nächster Nähe des Dorfes Girwali und der Burg und des
+Städtchens Tallamara auf dieser Felskanzel mit Harst zu
+verhandeln.
+
+Sie begann jetzt, immer mit derselben etwas monotonen
 Stimme:
+
 »Sahib Harst, Ihr beide müßt sterben. Sahib Olgerdyn
 hat hier noch viele Anhänger. Diese fürchten, daß Ihr
-entbehren könntet, wer mit Sahib Olgerdyn verbündet gewesen.
-Sie würden dann entweder getrollt oder ins Gefängnis
+entdecken könntet, wer mit Sahib Olgerdyn verbündet gewesen.
+Sie würden dann entweder gehenkt oder ins Gefängnis
 geworfen werden.«
 
-Mrs schwieg. Hi
-Gange Pause. Die Blinde hatte Wahl irgend eine Antwort
-erwartet. + Co
-in Fang Folgende Hang daher auch etwas zögernd und
-Nu LT. st
-»Ihr grüßt freches — noch heute. Man wird Euch
-in die See Woge ha
-Auch ehe na auf Harst.
-Wieder eine längere Baute. Dann — noch zögernder:
-»Omar bar Singri aber möchte Euch reiten Wenn
-Ihr beide treu würdet, Indien sofort zu verlassen und
-vor zwei ren nicht wieder hierher zurückkehren, soll
-He frei sein. Ihr dürftet jedoch auch niemandem muittci-ee
-Geld
-»Aha also darauf sag es den Herrschaften an! Wir
+Harald schwieg.
 
+Lange Pause. Die Blinde hatte wohl irgend eine Antwort
+erwartet.
+
+Das Folgende klang daher auch etwas zögernd und
+unsicher.
+
+»Ihr müßt sterben — noch heute. Man wird Euch
+in die Thar schaffen und erschießen!«
+
+Auch das blieb ohne Wirkung auf Harst.
+
+Wieder eine längere Pause. Dann — noch zögernder:
+
+»Omar dar Singri aber möchte Euch retten. Wenn
+Ihr beide schwören würdet, Indien sofort zu verlassen und
+vor zwei Jahren nicht wieder hierher zurückkehren, sollt
+Ihr frei sein. Ihr dürftet jedoch auch niemandem mitteilen,
+was Ihr jetzt erlebt habt. Der heutige Tag muß aus
+Eurem Gedächtnis ausgelöscht werden.«
+
+Aha — also darauf kam es den Herrschaften an! Wir
 <@pagebreak/>
-See 15 00000000000.
-
-sollten dem Duran-Taiman-Geheimnis nicht weiter nachfpd-ven.
+sollten dem Duran-Taiman-Geheimnis nicht weiter nachspüren.
 Olgerdyns Person diente hier nur als Vorwand.
-Na Heu Schwur lehnen wir ab,« sagte Harald jetzt
 
-Hindumädchen, das überraschend fließend das
+»Diesen Schwur lehnen wir ab,« sagte Harald jetzt
+bestimmt.
+
+Das Hindumädchen, das überraschend fließend das
 Englische beherrschte, machte eine ärgerliche Handbewegung.
+
 »Ihr seid sehr töricht,« rief sie jetzt weit lebhafter.
-»Wir — wär werden Euch zwingen, zu schwören!«
+»Wir — wir werden Euch zwingen, zu schwören!«
 
 Harald blieb stumm.
 
-Die Blinde hob einen Meinen Stein auf und warf ihn
+Die Blinde hob einen kleinen Stein auf und warf ihn
 in den Höhleneingang hinein.
 
 Sofort erschienen drei der vermummten Radschputen,
 banden Harst von dem Erbstück los und schoben ihn bis
+dicht an den Rand der Kanzel vor.
 
-an den Rand der Kanzel vor.
-
-Boy oben kam ein Tau herab.
+Von oben kam ein Tau herab.
 
 Die Kerle banden es Harald um die Brust.
-Meine Aufmerksamkeit war jetzt recht geteilt, denn ebener
+
+Meine Aufmerksamkeit war jetzt recht geteilt, denn einer
 der braunen, hochgewachsenen Burschen hatte nicht gemerkt,
 daß ihm das kurze Messer aus dem Gürtel glitt,
-(oft 5 1 zu Harst herabgebüdt und den einen Riemen gemalte
+als er sich zu Harst herabgebückt und den einen Riemen gelöst
+hatte.
+
 Das Messer war zwischen zwei Steine gefallen. Niemand
 achtete auf mich. Die Füße waren mir nicht gefesselt
 worden, und so konnte ich denn mit dem linken Stiefel das
 Messer langsam zu mir herzuziehen, konnte es auch, etwas
 nach vorn rutschend, mit den gebundenen Händen ergreifen.
-Es war zum Glück sehr scharf und zweischneidig. —
-»Schwöre, Sahib Harst!« rief die Blinde wieder.
-»Schwöre, oder Du wirst in die Schlucht hinabgeftürzti
 
-Harald gab keinen Laut von sich. Seine Sportmige
+Es war zum Glück sehr scharf und zweischneidig. —
+
+»Schwöre, Sahib Harst!« rief die Blinde wieder.
+»Schwöre, oder Du wirst in die Schlucht hinabgestürzt!«
+
+Harald gab keinen Laut von sich. Seine Sportmütze
 war ihm vom Kopf geglitten. Zwei der Leute hielten ihn
-he!. den Armen fest.
+bei den Armen fest.
 
 »An den Baum!« befahl die Blinde da. »An den
 Baum!«
 
-las Tau warte oben über dem Höhleneingang von
+Das Tau warte oben über dem Höhleneingang von
+unsichtbaren Händen straff gespannt.
 
-Uunsichtóaren Händen straff gestaunt.
 <@pagebreak/>
-299990099990 19 000000000000
-
 Harst schwebte — schwebte nach links.
 
-Ach sah ihn nicht mehr.
-Ich versuchte die Riemen zu durchschneiden. Es war
-dies vielleicht die Fette Möglichkeit, frei zu kommen.
-Endlich — endlich war ich die Riemen los, konnte die
-pme y gebrauchen.
+Ich sah ihn nicht mehr.
 
-— drei Schnitte — und ich an tiefer in den
-en hinein. —
+Ich versuchte die Riemen zu durchschneiden. Es war
+dies vielleicht die letzte Möglichkeit, frei zu kommen.
+Endlich — endlich war ich die Riemen los, konnte die
+Hände gebrauchen.
+
+Zwei — drei Schnitte — und ich glitt tiefer in den
+Höhleneingang hinein. —
 
 Ohne Taschenlampe und Clementpistole gingen wir
-nie aus. Man hatte. uns die Taschen nicht ausgeräumt.
+nie aus. Man hatte uns die Taschen nicht ausgeräumt.
 Ich ließ die kleine Leuchte aufblitzen, lief weiter, kam in
-eine hohe Grotte, sah, das die rissigen Wände- mit ihren
+eine hohe Grotte, sah, das die rissigen Wände mit ihren
 Vorsprüngen gute Verstecke boten, verzichtete auf eine Fortsetzung
-der Flucht, erfklomm die rechte Wand und warf mich
-hinter einer mächtigen Fel8zacke nieder, hörte auch schon die
-gellenden Rufe der Radschputen. -
+der Flucht, erklomm die rechte Wand und warf mich
+hinter einer mächtigen Felszacke nieder, hörte auch schon die
+gellenden Rufe der Radschputen.
 
-Mein Entweichen. war bemerkt worden.
+Mein Entweichen war bemerkt worden.
 
 Der Schein einer Fackel tanzte über die Höhlendecke hin.
+
 Die fünf Radschputen waren nicht die einzigen Verfolger.
-Ich vernahm Omar dar Singris Stimme. Ich verrannt
-qu Worte nicht. Die Leute waren in Ranke
+Ich vernahm Omar dar Singris Stimme. Ich verstand
+die Worte nicht. Die Leute waren in wildester Aufregung.
 
-er rechte den Kopf vor,
+Ich rechte den Kopf vor.
 
-ringsum schwärzeste Finsternis, ‘Aber als die Augen
+Ringsum schwärzeste Finsternis. Aber als die Augen
 sich an das Dunkel mehr gewöhnt hatten, gewahrte ich doch
-Da neben meinem Versteck einen ganz schwachen Lichtschimmer.
+links neben meinem Versteck einen ganz schwachen Lichtschimmer.
 
 Er konnte nicht durch den Höhlenausgang hereinfallen,
 dieser längliche Schimmer der Tageshelle! Nein — es
-mußte dort eine breite Spalte geben, die nach) oben führte
+mußte dort eine breite Spalte geben, die nach oben führte
 — nach oben über die Felskanzel, woher ja vorhin das Tau
-herabgeglitten war. -
+herabgeglitten war.
 
-Ich erhob mich. Ich wagte es, die Taschenlampe Will
+Ich erhob mich. Ich wagte es, die Taschenlampe für
 Sekunden einzuschalten. Ich kletterte hinab, kletterte acht
 Schritt weiter in die Spalte hinein.
-Es war leicht genug, fidel darin (Parse, Zelt
 
+Es war leicht genug, sich darin emporzuarbeiten. Jetzt
 <@pagebreak/>
-
-Resolute ob Dr
 schob ich den Kopf ins Freie. Ein Blick ringsum. Eine
-Leine Felsterrasse. Vor mir der Abgrund und der Baum.
+kleine Felsterrasse. Vor mir der Abgrund und der Baum.
+
 Dort mußte Harald hängen — über dem Abgrund.
+
 Ich kroch vorwärts, bis ich auch die Blinde sah. Sie
-hohe noch immer auf demselben Fleck.
+hocke noch immer auf demselben Fleck.
+
 Ich zog die Clement. Ich hatte mich bereits entschieden,
 was ich tun wollte.
-Behutsam stieg ich bis zum Fuße des Baumes hinab,
-» versuchte, ob Ich die Kanzel mit Kugeln bestreichen könnte,
-zielte zur en auf die Blinde.
-ich mich herab, hing halb über dem Ab
 
-Das Messer glitt Tun Haralds Riemen.
-Er packe das Tau — war im Reitsitz auf dem Baume,
-Faltete Bad Tau los.
-Ein Sprung noch — und er stand neben mich oben auf
+Behutsam stieg ich bis zum Fuße des Baumes hinab,
+versuchte, ob ich die Kanzel mit Kugeln bestreichen könnte,
+zielte zur Probe auf die Blinde.
+
+Dann beugte ich mich herab, hing halb über dem Abhang.
+
+Das Messer glitt durch Haralds Riemen.
+
+Er packte das Tau — war im Reitsitz auf dem Baume,
+knotete das Tau los.
+
+Ein Sprung noch — und er stand neben mir oben auf
 der Felsterrasse.
+
 Und er lächelte mich an.
-Spiegelfechterei!« flüsterte er.
-en Da na Schusses.
+
+»Spiegelfechterei!« flüsterte er.
+
+Da — der Knall eines Schusses.
+
 Eine Kugel klatschte links von uns auf einen Stein.
 
-Bleisplitter Wien uns die Hände.
-Wieder
-euch wie zurück bis bit an die Nückwanh der
+Bleisplitter ritzten uns die Hände.
 
-Aus feinem Irren Wermel tropfte Blut auf das tobte
+Wieder zwei Schüsse.
 
+Harald riß mich zurück bis dicht an die Rückwand der
+Terrasse.
+
+Aus seinem linken Aermel tropfte Blut auf das kahle
 Gestein.
-»° »Also doch Ernst!« meinte er. »Nur ein Streifschuß,
-mein. Alter. Fidele mir Dein Taschentuch um den Unter
 
-& (hob den Holmes hoch. Da war eine drei Zentimeter
-lange Fleischwounde. Seh verband sie rasch.
+»Also doch Ernst!« meinte er. »Nur ein Streifschuß,
+mein Alter. Wickele mir Dein Taschentuch um den Unterarm.«
 
-So, wie wir standen, konnten die Süßen nicht an uns
+Er schob den Aermel hoch. Da war eine drei Zentimeter
+lange Fleischwunde. Ich verband sie rasch.
+
+So, wie wir standen, konnten die Schützen nicht an uns
 heran. Eine halbe Stunde verging. Wir beobachteten die
-Spalte vor uns. Wir hatten die Pistolen entsichert.
-Terrasse war mus durch die Spalte zu Kern
+Spalte vor uns. Wir hatten die Pistolen entsichert. Diese
+Terrasse war nur durch die Spalte zu erreichen.
 
 <@pagebreak/>
-900000309090 21 Eisenbügel
-
 Dann jenseits der Schlucht zwei Radschputen. Sie
 warfen sich hinter Steine. Die Mündungen ihrer Flinten
 drohten. Wir warfen uns nieder.
 
-Kein Schuß fiel
+Kein Schuß fiel.
 
 »Die Kerle verziehen sich,« sagte Harald dann.
 
-a, As tauchte drüben weiter nach links der Tierarzt
-
+Plötzlich tauchte drüben weiter nach links der Tierarzt
 Mr. Jenningson auf. Er, der eifrige Jäger, war wohl
-durch die Schüsse herbeigelockdt worden. Er war nicht allein.
+durch die Schüsse herbeigelockt worden. Er war nicht allein.
 Er hatte seine beiden englischen Doggen mit.
 
-Wir erhoben und.
+Wir erhoben uns.
 
-Die Schlucht war kaum fünfzig Meter breit
+Die Schlucht war kaum fünfzig Meter breit.
 
-»Hallo!« rief Jenningson und windig »Was war
+»Hallo!« rief Jenningson und winkte. »Was war
 denn hier —«
 
 Im selben Moment wieder zwei Schüsse.
 
-Meine Wäre wirbelte herab. Und Harald fiel langsam.
-nach vorn über auf das nackte Gestein. -’
+Meine Mütze wirbelte herab. Und Harald fiel langsam
+nach vorn über auf das nackte Gestein.
 
-Ich bückte mich. Der Herzschlag flehte mir vor Sehne.
+Ich bückte mich. Der Herzschlag stockte mir vor Schreck.
 
-Harst lag aus dem Gesicht.
+Harst lag auf dem Gesicht.
 
-bin tot — verstanden!« hörte ich e schildern,
-»Meile Fenningson ein. Ich muß tot bin, Bande:
+»Ich bin tot — verstanden!« hörte ich ihn flüstern.
+»Weihe Jenningson ein. Ich muß tot sein. Die Bande
 muß betrogen werden!«
 
-Abermals Renningfons Stimme;
+Abermals Jenningsons Stimme:
 
-Teufel, was bedeutet das alles, Mr. Schraut?!«
+»Teufel, was bedeutet das alles, Mr. Schraut?!«
 
-Dann hegte er seine Doggen auf irgend eine Fährte, —
-Und eine halbe Stunde später trugen Fennlingson und
-Ab auf einer aus Baumziweigen hergestellten Bahre den
-mit bei. ade bedecken toten Harst nach der Burg.
+Dann hetzte er seine Doggen auf irgend eine Fährte. —
+Und eine halbe Stunde später trugen Jenningson und
+ich auf einer aus Baumzweigen hergestellten Bahre den
+mit bei meiner Jacke bedeckten toten Harst nach der Burg.
 
 Die beiden Doggen, die die Fährte der beiden Radschputen
-nur eine kurze Streckte hatten verfolgen können, waren
-bald vor und bald hinter uns und sicherten so den Tran
-
-Port.
+nur eine kurze Strecke hatten verfolgen können, waren
+bald vor und bald hinter uns und sicherten so den Transport.
 
 Als wir dann die felsigen Anhöhen hinter uns hatten
 und auf das Kamelgehege mit unserer Bahre zuschritten,
 als wir uns eine Weile ausruhten, da gab Harald uns noch
-Seit Wind Gewachste Stak, ohne sich im übrigen zu
+allerlei Verhaltungsmaßregeln, ohne sich im übrigen zu
+rühren.
 
 <@pagebreak/>
-0000000000200 9 209000000000
-
 Der brave Jenningson schüttelte immer wieder den
-als ich ihm nun alles mehr im Zusammenhang er
+Kopf, als ich ihm nun alles mehr im Zusammenhang erzählte.
 
-te.
 »Die Blinde kenne ich, aber nur von ferne,« meinte
-er. »Omar hat sie erst vor zwei Monaten zu sich genonm-men.
+er. »Omar hat sie erst vor zwei Monaten zu sich genommen.
 Bis dahin lebte er ganz allein in seiner Hütte. Das
-Mädchen heißt Einzeln.«
+Mädchen heißt Sirischa.«
 
-Wir passierten fort mit der Bahre das Kamelgehege.
+Wir passierten jetzt mit der Bahre das Kamelgehege.
 Hier waren wir vor Spionen sicher. Ich konnte Harst die
 Jacke vom Gesicht ziehen.
 
@@ -894,31 +910,32 @@ Na — er sah nach allem anderen nur nicht nach einer
 Leiche aus.
 
 »Mr. Jenningson,« sagte er fast strahlend, »Sie werden
-sich wundern, wie diese Geschichte endet! Einzeln ist
-nämlich gar feine »Inderin, ist auch nicht blind, sondern eine
+sich wundern, wie diese Geschichte endet! Sirischa ist
+nämlich gar keine Inderin, ist auch nicht blind, sondern eine
 gefärbte Europäerin!«
 
-Der Tierarzt und ich rieten in gleichem Atem:
+Der Tierarzt und ich riefen in gleichem Atem:
 
 »Unmöglich! Eine Weiße?!«
 
 »Ja — so gewiß ich auch ein Weißer bin und auch
 nicht blind!«
 
-Nochmals stärkte er uns genau ein, wie und wo er
-in der Burg untergebracht sein wollte,
+Nochmals schärfte er uns genau ein, wie und wo er
+in der Burg untergebracht sein wollte.
 
 »Dann schließt Ihr das Zimmer ab und laßt den
 Schlüssel von außen stecken,« fügte er hinzu. »Ihr beide
-könnt nachher durch den Nebenraum wieder hineingelangen,
-Ich wette jede. Summe, daß der Hausneifter Tossan uns
+könnt nachher durch den Nebenraum wieder hineingelangen.
+Ich wette jede Summe, daß der Hausmeister Tossan uns
 auf den Leim geht!«
-4. Kapitel
+
+<h2>4. Kapitel.</h2>
 
 Ein paar Diener kamen uns jetzt aus der Burg entgegengeeilt.
 Kamelhüter und fütterst verließen die Stallungen
 und Scharten sich um uns. Tausend Fragen sollten
-wir beantworten. Fenningson wiederholte stets nur das
+wir beantworten. Jenningson wiederholte stets nur das
 
 selbe:
 
@@ -929,10 +946,10 @@ sich ganz Harst ist von räuberischen Radschputen erschossen
 werde
 Vor der unlängst notdürftig wiederhergestelten Hängebrücke,
 die von der Halsband nach der auf einem Ungeheuern
-Felsen erbauten Burg hinüberjührte, empfingen uns
+Felsen erbauten Burg hinüberführte, empfingen uns
 der graubärtige Hausmeister Tossan und die jetzige Herrin
 der Burg, bei toten Olgerdyn Tochter.
-Fenningson und ich hatten die Bahre jetzt zwei Dienern
+Jenningson und ich hatten die Bahre jetzt zwei Dienern
 überlassen, hielten uns aber stets in der Nähe. Niemand
 wagte die Jace zu lüften, die Haralds Kopf und
 Dberleib belebte.
@@ -944,7 +961,7 @@ vom Flur, den anderen durch Olgerdyns früheres
 Arbeitszimmer, das seine Tochter jetzt für. turnen abgeschlossen
 Hatte. Sie wollte es nicht mehr Betreten. Sie
 mochte durch nichts mehr an ihren Vater erinnert sein,
-»der auch an ihr wenig väterlih gehandelt hatte. Der Leser
+»der auch an ihr wenig väterlich gehandelt hatte. Der Leser
 der vorhergehenden Bände wird sich unschwer an Olgerdyns
 selbstsüchtiges Verhalten feinem einzigen Kinde
 »gegenüber erinnern. —
@@ -952,7 +969,7 @@ selbstsüchtiges Verhalten feinem einzigen Kinde
 bei Miß Olgerdyn mit ihr und Tossan alles Nötige
 für die Bestattung Haralds. Es war nicht ganz leicht,
 diese Komödie möglichst rot durchzuführen. »Sich mußte den
-teöftlichen Freund Zusehen. Auch Fenningson zeigte sich
+teöftlichen Freund Zusehen. Auch Jenningson zeigte sich
 zum Glück der Aufgabe, Trauer zu heucheln, leidlich gen
 
 n.
@@ -1056,7 +1073,7 @@ eher.
 
 se »Mit einem Manne in Entwarf telephonierte er,« fuhr
 Harst fort. »Einem Manne namens Dauli Abel. Das
-Yespräch klang ganz harmlos. (euch belauschte es dort von
+Gespräch klang ganz harmlos. (euch belauschte es dort von
 der Geheimtür aus. Und doch desto es von uns. Tossan
 meldet: meinen Tod, fügte aber auch hinzu, hab »man«
 Blauem vorsichtig fein wüßte, Er würde zur Besprechung
@@ -1068,7 +1085,7 @@ Blauem vorsichtig fein wüßte, Er würde zur Besprechung
 sofort nach Girwali kommen. — Au das war in das ungute
 fällige Gewand einer Unterredung wegen eines Kamelver-
 
-kaufe.gekleidet.«
+kaufe gekleidet.«
 Er begann sich jetzt hastig umzuziehen und Maske zu
 
 in
@@ -1080,8 +1097,8 @@ zum Zeit hohle Innere des Burgselsens hinab und von da
 ins Freie. Diesen Ausgang kennen wir ja bereits.«
 
 Zehn Minuten später befanden wir uns auf einer
-Weide, wo Kamelfohlen das spärliche Gras abrupsten. Wir
-hatten Glück. Die Nachmittagshiße hielt alle Leute der
+Weide, wo Kamelfohlen das spärliche Gras abrupften. Wir
+hatten Glück. Die Nachmittagshitze hielt alle Leute der
 Kamelzüchterei in den Stallungen zurück. Um schneller
 nach Girwali zu kommen, fingen wir in einem Tale zwei
 Dromedare ein, die bereits zum Neiden bemalt worden
@@ -1260,7 +1277,7 @@ Schließlich wandte er sich dem Ziegenverschlag zu. Neben
 diesem war ein Berg Heu aufgeschichtet. Auch stand da
 ein großer Holzkasten mit Deckel. Harst hob den Deckel
 empor. Ich blickte ihm über Die Schulter. Der flache Kauften
-schwor mit Maisförnern gelöst. Der Mais war jedoch
+schwor mit Maiskörnern gelöst. Der Mais war jedoch
 ganz nach der einen Seite hin aufgeschichtet.
 
 Als Harald jeÿt den Kasten wegzurücken versuchte,
@@ -1306,7 +1323,7 @@ Im selben Moment ein oval — ein Schuß.
 Eine Kugel klatschte gegen den eisernen Rahmen der
 
 Dummköpfe!« lachte Harald achselzuckend.
-Dann rief er, vorsichtig sich zurüdbiegend:
+Dann rief er, vorsichtig sich zurückbiegend:
 »Omar dar Singri, Da erkennst meine Stimme. Ihr
 hoch da zu acht Mann auf der schmalen Felszunge über dem
 »kleinen unterirdischen Gewässer, über der Zisterne. Die
@@ -1359,7 +1376,7 @@ den Tag stieg sie hier hinab und überlegte, wie sie die
 der Wüste nach der Burg zurückkehrtest, hatte sie festgestellt,
 daß der unterirdische Teich nach Osten zu auf dem Grunde
 noch eine schmale tiefere Stelle, eine Spalte hatte. Sie
-hatte sich ein Blechgesäß mit einen Protziger hinten angefertigt
+hatte sich ein Blechgefäß mit einen Protziger hinten angefertigt
 und es an drei zusammengebundenen Stangen befestigt.
 So fischte sie aus der Spalte mehrere goldene Arm
 gerungen, Halsketten und anderes heraus. Sie war vor
@@ -1451,7 +1468,7 @@ hoch zu Kamel ostwärts von Girwali in der offenen
 Wüste die Spuren zweier Dromedare entdeckt und diese
 Fährte bis in einen steinigen Höhenzug versorgt, wo wir in
 einer Schlucht unter Felsstücken einen leeren Reisekoffer
-fanden. Daneben lag ein Bündel: das Kleid des Hindu-mädchens!
+fanden. Daneben lag ein Bündel: das Kleid des Hindumädchens!
 
 »Hier hat die Namenlose sich wieder in eine Engländerin
 verwandelt,« erklärte Harald. »Du siehst hier noch
@@ -1484,7 +1501,7 @@ Scheu!
 Und — um diese Schenkel war ein dünner Draht befestigt,
 an dem noch die Reste einer Zündschnur hingen, die
 » gebrannt und die Haut der Tiere versengt hatte.
-»Deshalb sind Die Viecher also wie toll weitergeraft!«
+»Deshalb sind Die Viecher also wie toll weitergerast!«
 meinte Harald. »Der Schmerz trieb sie vorwärts. Das
 
 Weib ist fraglos in den Felshügeln geblieben und hat zu
@@ -1495,7 +1512,7 @@ Sehr! Nehmen wir Witzig Kamele mit.« —
 In den Hügeln suchten wir umsonst nach Spuren. Es
 wurde dunkel. Wir mußten nach Tallamara zurück.
 
-Bei Tagesanbruch waren mir beide mit Fenningson
+Bei Tagesanbruch waren mir beide mit Jenningson
 Leder in der Schlucht, wo wir den leeren Koffer gefunden
 hatten.
 Und — abermals durchstöberten wir Täler und Hügel
@@ -1515,7 +1532,7 @@ Dann Wweftvärtd — nach dem Städtchen Tallamara hin.
 Gegen elf Uhr vormittags stand fest, daß die Frau in
 der Schlacht Männerkleidung angelegt und einen falschen
 Bart vorgeklebt hatte. So trat sie in Tallamara he! einem
-Kamelhä.ihrer gewesen und hatte nachts ein Uhr zwei Tiere
+Kamelhäihrer gewesen und hatte nachts ein Uhr zwei Tiere
 gekauft. Der Händler bestätigte, daß der blondbärtige
 Engländer einen schweren Nuckfsack getragen hätte. —
 Jetzt, wo wir wußten, daß die Frau ihren Vorsprung
@@ -1534,7 +1551,7 @@ Tallamara hatten bleiben ollen, volle vier Tage.
 Am Abend dieses vierten Tages traf eins Depesche Lord
 Breßforts aus Lucknow für Harst ein
 Lord Breßfort und seine Gattin Hatten ix mitten sehr
-der Star kennengelernt und zwar unter ganz besonderen
+der Thar kennengelernt und zwar unter ganz besonderen
 »Umständen. Jedenfalls war er Harald sehr zu Dank verpflichtet.
 Wir hatten mit ihm verabredet, in Lucknow, wo
 feine Gattin eine Freundin besuchen wollte, wieder zusammenzutreffen.
@@ -1660,7 +1677,7 @@ Miß Norton in der Burg vorhanden sei, beantwortete Tossan
 dahin, daß die Memsahib Norton sich nie photographieren
 ließ. Sie hätte eine Abneigung dagegen gehabt, und es -
 gäbe nur ein einziges Bild, eine Ansicht der Burg, auf der
-sie vor dem Burgtor stände, jedoch so klein, daß die Gesichts-zlige
+sie vor dem Burgtor stände, jedoch so klein, daß die Gesichtszüge
 nicht zu erkennen seien.«
 
 Ich verlor nicht eine Silbe dieser hochinteressanten
@@ -1671,7 +1688,7 @@ N.
 
 wo »Natürlich heimlich,« lächelte er. »Denn eine Miß
 Noten, deren Namen so etwas an Bennerton erinnert
-und die eine starke- Kamst gegen das Photogra-phiertwerden
+und die eine starke- Kamst gegen das Photographiertwerden
 hegt, mußte mir wohl verdächtig vorkommen.
 Ich habe aus dem Bilde dann das uns wichtige Stüc,
 das Tor mit der Figur der Norton, herausgeschnitten und
@@ -1800,7 +1817,7 @@ Ihr Baten war in Kalkutta General und Gouverneur.
 Als er vor drei Jahren starb, siedelte Olivia, nunmehr
 Waise, nach ihrer Geburtsstadt Lucknow über. Miß Bennerton
 ist selbst für indische Verhältnisse sehr reich. Ihre
-Hauptleidenschast ist die Jagd. Es ist richtig: sie reiste
+Hauptleidenschaft ist die Jagd. Es ist richtig: sie reiste
 vor ein paar Wochen nach Nepal, um: dort Tiger zu
 stießen.«
 
@@ -1809,7 +1826,7 @@ stießen.«
 
 »Oh — das ist Monate her. Sie hat sehr viele Bekannte
 und verbringt die heiße Jahreszeit zumeist irgendwo
-in den Himalayaftaaten.« ich;
+in den Himalayastaaten.« ich;
 
 Hm — also seit Monaten war sie von Lucknow abwesend!
 Auch das stimmte! —
@@ -1902,7 +1919,7 @@ Kiste an. Sie war leer.
 00009009299 44 99090029900.
 
 »Du siehst, mein Alter, — alles war genau verheert
-tet. Einer Schaltete den Haupihebel der Lichtanlage aus,
+tet. Einer Schaltete den Haupthebel der Lichtanlage aus,
 der zweite spielte den Gepäckträger und der dritte wird
 von Ragaur aus, wo er uns und den Depeschenboten be
 lauschte, den telegraphischen Befehl zu diesem Streit vergeben
@@ -1971,7 +1988,7 @@ Im Auto erstatte ich Bericht.« —
 
 Lucknow, indisch Lakhnau, zieht sich acht Kilometer
 am rechten Ufer des Gumti-Flusses hin.  Die Stadt war
-während des großen indischen Ausstandes 1857 der Mittelpunkt
+während des großen indischen Aufstandes 1857 der Mittelpunkt
 der Rebellion. 2000 Engländer wurden damals
 niedergemetzelt. Das heutige Lucknow mit, seiner Vierte(-
 Million Einwohner ist in der Hauptsache ein elendes,
@@ -2115,7 +2132,7 @@ Daß er dies nur äußerte, um Breßforts Mißtrauen
 gegen Olivia Bennerton einzuschläfern, war klar.
 Doch der Lord begann sich sofort wortreich zu verteidigen.
 »Gestatten Sie, bester Harst: ich habe das Tier
-als Riesenafsen deutlich erkannt! Das werden Sie mir
+als Riesenaffen deutlich erkannt! Das werden Sie mir
 nicht ausreden! Das wollte Olivia auch! Nein, ich habe
 gute Nerven, und auf dem flachen Hausdach, das weiß
 gestrichen »ist, konnte ich die Umrisse der fliehenden
@@ -2148,7 +2165,7 @@ auf Ceylon nicht Schöner gesehen habe.
 Bisher war Aber die Frage, wo wir hier in Lucknow
 »wohnen würden, noch kein Wort gesprochen worden. Ich
 konnte. mir nicht recht denken, daß Harald die Gastfreundlichkeit
-der hettlägerigen Miß Vermeiden in Anspruch nehmen
+der bettlägerigen Miß Vermeiden in Anspruch nehmen
 tastete. Wir kannten sie nicht, und dazu war sie jetzt
 noch unsere Gegnerin,. Harst würde sich hier auf Olivias
 Eigentum wohl nur ein wenig umschaun, nahm ich an, und
@@ -2321,7 +2338,7 @@ bat feiner Welt In Tallamara als Miß Norton gewohnt und
 Jeyt’ als Hindumädchen die Kostbarkeiten aus dem Brate
 nen an sich gebracht. — Die dritte: Sie ist nur mitschuldig,
 
-Ist war Mitwisserin!»-
+Ist war Mitwisserin!«-
 na Das leitete wollte Weber Breßfort noch mir in den
 Ab
 
@@ -2357,7 +2374,7 @@ gar nicht zugetraut.«
 »Und wir war’s mit der Tür, die Sie im Keller zufallen
 hörten? Besinnen Sie. sich einmal ganz genau.
 »Aus welchem Flügel des Hauses kam das Geräusch?«
-N; Breßfort liberlegte. »Aus dem linken elf
+N; Breßfort überlegte. »Aus dem linken elf
 ich. Dort liegt die Küche. Die Keller sind sehr hoch und
 luftig. Außer der Küche befinden sich dort noch die Stuben
 der Diener und ein paar Räume für besondere Zwecke:
@@ -2402,7 +2419,7 @@ in die Erbe hineinreichten und vergitterte, breite Bogenfenster
 hatten.
 
 Dann erschien. Tomaru wie zufällig aus der Kellertreppe,
-Islam eilsertig herbei und riskierte:
+Islam eilfertig herbei und riskierte:
 
 »Die Memsahib schläft. Oh, unsere Herrin hat böse
 Nächte hinter sich.« — Er wollte durch diese Worte uns gebt
@@ -2447,7 +2464,7 @@ Harst schob ihn etwas zur Seite, so daß die offene
 »Tür sich frei bewegen konnte.
 
 - Die Zugluft war so flach, daß die Tür immer schneller
-guzuschlagen drohte.
+zuzuschlagen drohte.
 
 Tomaru griff hastig nach dem Drüber. »Sahib, der
 Knall würde im ganzen Hause gehört werden,« sagte er
@@ -2476,7 +2493,7 @@ indischen Affen) nicht.«
 
 Der Alte zögerte ettvad. Dann ließ er uns in feine
 Schläfst ade ein und riß eine schmale Tür auf. Dahinter
-lag ein nur einfenftriger, halbdunkler Keller. Ein Draht
+lag ein nur einfenstriger, halbdunkler Keller. Ein Draht
 guter teilte ihn und bildete einen sehr geräumigen Käfig.
 Nach dem Fenster zu hocken die hier Sekte am Boden
 Er wollte näher herangehen. Da hielt der Alte ihn
@@ -2512,7 +2529,7 @@ Zum Verständnis der Worte Tomarus sei hier daran
 erinnert, daß die Hindureligion, der Brahmanismus, in
 dem Glauben an die Seelenwanderung gipfelt. Die Seele
 des toten Hindu schlüpft je nach dem Verdienste ihrer ‘Ta-
-ten entweder in den Leib eines Tieres oder eines neu-geborenen
+ten entweder in den Leib eines Tieres oder eines neugeborenen
 Kindes. Tomaru hatte also angedeutet, daß
 der Orang-Utan die Seele seines Großvaters Berge. —
 
@@ -2774,11 +2791,11 @@ Olivia preßte einen Moment die Lippen zusammen.
 0000000200000 2 000090000000
 Hält Mr. Webster Sie hier denn für bedroht?« meinte
 
-Harald machte nur eine nihtssagende dbewegung.
+Harald machte nur eine nichtssagende dbewegung.
 Brot te jedoch rief etwas er barg überall
 
 wußte - bisher nichts von dieser Leibwache. Ich
-war jedoch liberzeugt, daß Harald sie bei Webster geradezu
+war jedoch überzeugt, daß Harald sie bei Webster geradezu
 bestellt hatte, aber als Wache für andere Zwecke.
 
 Nach Tisch trennten wir un« sehr bald. Olivia schütte
@@ -2828,7 +2845,7 @@ Der Alte war aschfahl geworden. »
 In dem Käfigraum Hörten wir sprechen.
 Harst drängte Tomaru beiseite. Dann riß er die Tür
 
-Hier brannte eine Rade Rarbiblaterne, hier — prallte
+Hier brannte eine Rade Karbidlaterne, hier — prallte
 Surfen Bennerton jetzt bei unserem Kur mit leisem
 Schrei Bund
 
@@ -2846,9 +2863,9 @@ bedacht hätten, daß ein Orang-Utan dieses Drahtgeflecht spielend
 leicht abreißen könnte, wenn Sie das Tier also hinter
 starken Eisenstäben eingesperrt hätten, kann wäre die Täuschung
 geglückt. Aber so — so neu wie dieses Drahtgeflecht
-aussieht und so Mr. widerfiandssähig, wie es ist, mußte
+aussieht und so Mr. widerstandsfähig, wie es ist, mußte
 es mich stutzig mache
-»Was — was heißt das?!» fragte Olivia tonlos.
+»Was — was heißt das?!« fragte Olivia tonlos.
 
 Der Drang bebte wieder hinten auf dem Baumstumpf,
 drehte den Kopf hin und her und grunzte gereizt.
@@ -2885,7 +2902,7 @@ im Park sollte Ihre Flucht verhindern, weiß aber nicht,
 auf wen ich gähnte. ch werde sie wegschicken.«
 Olivia ließ die Hände sinken. »Mr. Harst wollen Sie
 wirklich so Es sein?! Daisy wird tun, was Sie
-wünschen. Außerdem habe ich die Schmuckstücke Selbft in
+wünschen. Außerdem habe ich die Schmuckstücke Selbst in
 Verwahrung genommen, habe sie Daisy mit Gewalt —«
 
 »Da meldete die Abenteuerin sich. Da flog der Affen
