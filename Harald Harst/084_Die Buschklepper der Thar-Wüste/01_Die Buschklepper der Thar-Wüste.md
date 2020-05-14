@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-<h1>Roland, der Zwerg.</h1>
+<h1>Die Buschklepper der Thar-Wüste.</h1>
 <h2>1. Kapitel.</h2>
 <h3>Der Eckturm.</h3>
 
@@ -123,7 +123,7 @@ Blicken.
 »So,« meinte Harald, »nun wird sich sofort herausstellen,
 wie die zahlreiche Dienerschaft der Burg sich uns
 gegenüber verhält. Ein Teil der Leute, die ja alle, wie bekannt
-mit größter Hingabe Olgaerdyn zugetan sind, ist ganz
+mit größter Hingabe Olgerdyn zugetan sind, ist ganz
 <@pagebreak/>
 sicher in seine Geheimnisse eingeweiht. Die Radschputen
 sind ein äußerst kriegerischer, stolzer Volksstamm von alters
@@ -199,7 +199,7 @@ Raum, zu dem eine Wendeltreppe hochlief, war als Wohn\-
 und Schlafzimmer bescheiden ausgestattet.
 
 In der Decke dieses Gemachs bemerkten wir eine viereckige
-Falltür. Man konnte also auf das Dach hinaufgegangen.  —
+Falltür. Man konnte also auf das Dach hinaufgelangen.  —
 
 Wir blickten durch die schmalen Fenster in den Hof der
 Burg hinab. Nichts regte sich dort. Kein Mensch war zu
@@ -228,7 +228,7 @@ Vom Hofe her eine Stimme, die des Dieners Robert.
 Harald trat an das Fenster heran, zeigte sich aber nicht,
 sondern rief zurück: —
 
-»Hallo — was gibt’s«
+»Hallo — was gibt’s?«
 
 »Ich wollte nur fragen, weshalb Mr. Olgerdyn die
 Burg verlassen hat und was geschehen ist. Der Einsturz
@@ -271,7 +271,7 @@ hervor, besser — nur ein Stück einer Zeitung.
 »Dieses Blatt habe ich in Dehli im Hotel Imperial
 zu mir gesteckt, nachdem Olgerdyn uns dort besucht hatte,«
 erklärte er. »Schon damals vor vier Tagen hegte ich gegen
-Olagerdyn Verdacht. Ich durchblätterte, wie Du weißt, die
+Olgerdyn Verdacht. Ich durchblätterte, wie Du weißt, die
 letzten Nummern der Dehli-Post und fand dies hier —«
 
 Er hielt mir das Stück Zeitung hin und deutete auf
@@ -280,7 +280,7 @@ eine besonders fett gedruckte Ueberschrift.
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>An die Thar hinein.</h3>
+<h3>In die Thar hinein.</h3>
 
 Diese Ueberschrift lautete:
 
@@ -359,7 +359,7 @@ Vom Hofe her abermals Robert Scamaracks Stimme:
 Zehn Minuten später hatten wir Trinkwasser und Lebensmittel
 in Hülle und Fülle.
 
-Mir kamen die Eßvorräte sehr auslegen. Ich hatte
+Mir kamen die Eßvorräte sehr gelegen. Ich hatte
 Hunger. Während ich eine Konservenbüchse öffnete, stieg
 Harald die Treppe in das Erdgeschoß hinab.
 
@@ -426,7 +426,7 @@ waren wir in den unterirdischen Räumen, die es
 hier fraglos gab, sicherer als hier im Turme und konnten
 vielleicht auch irgendwie von dort ins Freie gelangen.
 
-Ich packe alles in zwei Decken, schulterte das Bündel
+Ich packte alles in zwei Decken, schulterte das Bündel
 und ließ nun das Licht brennen.
 
 Nachdem ich die Geheimtür wieder zugedrückt hatte,
@@ -451,7 +451,7 @@ Ich lüftete sie. Es kostete Anstrengung genug, sie
 hochzukippen.
 
 Darunter ein unregelmäßiger Schacht, offenbar eine
-natürliche Felsspalte des Granitwürsels, auf dem die Burg
+natürliche Felsspalte des Granitwürfels, auf dem die Burg
 stand.
 
 In dieser Spalte lief eine Treppe abwärts. Nach
@@ -509,7 +509,7 @@ Mitternacht aufbrechen. Ich entdeckte die Hütte, als ich für
 uns beide Reittiere heimlich aus einem Gehege holte. Auch
 Sättel, Zaumzeuge und zwei Gewehre habe ich gestohlen —
 aus der Wohnung eines Aufsehers. Was Greebrac und
-Olagerdyn sprachen, konnte ich nur zum Teil verstehen.
+Olgerdyn sprachen, konnte ich nur zum Teil verstehen.
 Wichtig war, daß Lord Allan Breßforts Name dreimal erwähnt
 wurde und daß ich nun weiß, wo die Patentzeichnungen
 Doktor Murphisons, denen wir jetzt schon eine
@@ -546,7 +546,7 @@ wenn Du es kannst!«
 
 »Vielleicht sollte Breßfort einen Brief des Lösegeldes
 wegen an irgend jemand schreiben und hat sich bisher
-geweigert. Man wir ihn nun vielleicht mit dem Tode bedrohen.
+geweigert. Man wird ihn nun vielleicht mit dem Tode bedrohen.
 So mag Greebraecs Aeußerung zustande gekommen
 sein.«
 
@@ -678,7 +678,7 @@ Steingeröll und ärmliche Wüstenpflanzen.
 Und hier — hier auf dem nackten Gestein waren die
 beiden Reiter abgestiegen. Hier wandte ich nun all meinen
 Scharfsinn an; hier entdecke ich im frischen Kamelkot zwei
-Abdrücke verschieden grober Stiefelabsätze. Also — zwei
+Abdrücke verschieden großer Stiefelabsätze. Also — zwei
 Europäer, die Gesuchten!
 
 Aber — dann hörte jegliche Fährte wieder auf.
@@ -787,7 +787,7 @@ eine Kugel ihm durch den Unterarm gegangen war. Der
 Kamelreiter hatte vorher ein — bengalisches Zündholz in
 Brand gesetzt, mit grüner Flamme. Und dieses Signal
 wurde, bevor der braune Bandit auftauchte, von der Höhe
-einer entfernten Bergterrasse in gleicher Weite beantwortet.«
+einer entfernten Bergterrasse in gleicher Weise beantwortet.«
 
 Ueber diese Mitteilung war ich mit Recht geradezu
 sprachlos.
@@ -825,7 +825,7 @@ Er schwieg.
 
 Ich griff unwillkürlich nach der Doppelbüchse.
 
-Ein seltsamer Ton durchzitterte das enge Tal,
+Ein seltsamer Ton durchzitterte das enge Tal.
 
 »Was war das?« flüsterte ich atemlos.
 
@@ -928,7 +928,7 @@ Gegen elf Uhr ging der Mond auf. Wir hatten etwa
 zwei Stunden geschlafen und fühlten uns jetzt frisch genug,
 den nicht ganz ungefährlichen Kundschaftergang zu wagen.
 
-Den Hund banden mir neben unseren Reittieren fest.
+Den Hund banden wir neben unseren Reittieren fest.
 Harald streichelte ihm den Kopf und legte seine Brieftasche
 neben ihn, nachdem er sie ihn hatte beschnuppern lassen.
 
@@ -990,7 +990,7 @@ trockenem Kamelmist.
 Als ich Harald darauf aufmerksam machte, meinte er
 nur: »Den Qualm merkte ich schon vor fünf Minuten. Ich
 hoffe, er wird uns zu dem Lagerplatz unserer vielbegehrten
-Freunde Olagerdyn und Greebrac führen.« —
+Freunde Olgerdyn und Greebrac führen.« —
 
 Wir setzten also unseren Weg kriechend über das Plateau
 fort — dem Winde entgegen.
@@ -999,7 +999,7 @@ Der Qualm wurde stärker, der Geruch immer deutlicher.
 Wir näherten uns einem Feuer.
 
 Noch war nichts zu sehen. Eine Reihe enormer Felsnadeln
-begrenzte das Plateau noch Nordost. Sie sahen
+begrenzte das Plateau nach Nordost. Sie sahen
 aus wie zu Stein erstarrte Riesentannen. Es war ein
 förmlicher Wald derartiger Felsgebilde.
 
@@ -1022,13 +1022,13 @@ Auch ich bemerkte den Mann jetzt. Er lehnte an einer
 der vordersten Felsnadeln etwa zwanzig Schritt nach
 Osten zu.
 
-Wir brauchen ihn nicht mehr zu fürchten. Wir hatten
+Wir brauchten ihn nicht mehr zu fürchten. Wir hatten
 jetzt die Schattenseite der westlichen Schluchtwand dicht
 <@pagebreak/>
 neben uns. Noch wenige Meter, und wir lagen am Rande
 jenes kleinen Abhangs. Gerade unter uns vier Feuer,
 darum vierzehn Männer, von denen drei Europäer waren:
-Olagerdyn, Greebrac und der Diener Robert. Mehr im
+Olgerdyn, Greebrac und der Diener Robert. Mehr im
 Hintergrund standen vier große braune Zelte. Dahinter
 eine ganze Menge Dromedare.
 
@@ -1325,7 +1325,7 @@ der Ostterrasse Wache, da wir ja damit rechnen mußten,
 daß Greebrac und Robert Scamarack versuchen würden,
 uns hinterrücks zu überfallen.
 
-Als ich mit vier Wasserschleuchen schwer beladen, draußen
+Als ich mit vier Wasserschläuchen schwer beladen, draußen
 auf der Terrasse erschien, hielt mir Harald ein Blatt
 Papier hin.
 
@@ -1343,7 +1343,7 @@ Harald hatte den Brief noch immer in der Hand.
 
 »Eine geheimnisvolle Geschichte,« sagte er sinnend.
 »Jetzt wollen wir erst einmal diesen ungemütlichen Platz
-lassen und zusehen, ob Greebrac und Scamarack vielleicht
+verlassen und zusehen, ob Greebrac und Scamarack vielleicht
 aus den Bergen bereits in die Ebene geflüchtet sind.« —
 
 Was der Brief enthielt und wie wir Roland den

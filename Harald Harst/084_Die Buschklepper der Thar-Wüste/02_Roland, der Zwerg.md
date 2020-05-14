@@ -1,6 +1,6 @@
 <@pagebreak 32/>
 
-<h1>Die Buschklepper der Thar-Wüste.</h1>
+<h1>Roland, der Zwerg.</h1>
 <h2>1. Kapitel.</h2>
 <h3>Der kleine Kamelreiter.</h3>
 
@@ -89,7 +89,7 @@ Er öffnete eines der Zigarettenpäckchen, die Lord Breßfort
 ihm geschenkt hatte, da Haralds Zigarettenvorrat längst
 verbraucht war.
 
-Mit dem Behagen des Leidenschaftlichen Verehrers papierumhüllter
+Mit dem Behagen des leidenschaftlichen Verehrers papierumhüllter
 Tabakröllchen sog er den Rauch dann ein und
 fügte hinzu:
 
@@ -170,7 +170,7 @@ beseitigt. So spart Olgerdyn die 100 000 Rupien und ist
 trotzdem in Besitz der Juwelen gelangt. Da Roland sein
 Versprechen, über das ganze Geschäft tiefstes Schweigen zu
 <@pagebreak/>
-wahren, gehalten hat, gilt er nunmehr als verschwunden.«
+bewahren, gehalten hat, gilt er nunmehr als verschwunden.«
 
 »Eine Theorie, die vieles für sich hat,« nickte ich zustimmend.
 »Vorhin sagtest Du doch, daß der Brief unklar
@@ -200,7 +200,7 @@ auf, kam näher und näher.
 »Das ist gar kein erwachsener Mann,« meinte Harald
 bedächtig. »Das ist ein Kind —«
 
-»Da — ein reiner Knirps. Und vom Reiten hat er
+»Ja — ein reiner Knirps. Und vom Reiten hat er
 wenig Ahnung,« fügte ich hinzu.
 
 Plötzlich preßte Harst meinen Arm.
@@ -249,7 +249,7 @@ stets mit allem irgend einen verborgenen Zweck im Auge.
 »Gestatten Sie, daß ich bei Ihnen lagere?« rief Roland
 jetzt herüber. Sein tiefer Baß wirkte überaus komisch.
 
-»Gewiß!« erklärte Harald, »Kommen Sie nur, Master.
+»Gewiß!« erklärte Harald. »Kommen Sie nur, Master.
 Wir haben sogar ein Zelt zur Verfügung.«
 
 Wir kletterten von dem Felsblock herab. Der Kleine
@@ -560,7 +560,7 @@ schwand.
 Ich erwachte erst am folgenden Abend: Mir war
 sterbenselend zu Mute. Ich konnte kaum die Lider heben.
 Fortgesetzt quälte mich ein starker Brechreiz. In meinem
-Hirn bohrten die wahnsinnigster Schmerzen.
+Hirn bohrten die wahnsinnigsten Schmerzen.
 
 Jemand beugte sich über mich.
 
@@ -659,7 +659,7 @@ durch einen seiner Leute bewachen.«
 
 »Oh — lassen Sie nur. — Olgerdyn hoffte, Sie durch
 diese Gefangenschaft mürbe und gefügig zu machen. Sie
-zeigten aber eine beiwunderuswerte Ausdauer. Gegen elf
+zeigten aber eine bewundernswerte Ausdauer. Gegen elf
 Wochen saßen Sie dort in der kleinen Höhle. Dann gelang
 es Harst und Schraut —«
 
@@ -800,7 +800,7 @@ dieses Tal erreichen?! —
 
 Greebrac hatte die Kamele an eine Palme gebunden,
 hatte wieder zur Rumflasche gegriffen. Er saß im Schatten
-Talwand. Wir lagen in der prallen Sonne.
+der Talwand. Wir lagen in der prallen Sonne.
 
 <@pagebreak/>
 Hunger, Durst, ungewisse Angst, sengende Hitze quälten
@@ -811,7 +811,7 @@ Auch ich schloß die Augen.
 Blitzartig tauchte ein Bild vor mir auf: wie wir damals
 vor etwa zwei Jahren an der Küste Südarabiens
 auf einen schmalen Felsgrat gefesselt worden waren, auch
-in glühender Sonnenhitze, rechts und linke von uns ein
+in glühender Sonnenhitze, rechts und links von uns ein
 Abgrund, und wir beide langgereckt an einem dicken Tau.
 
 Auch damals glaubte ich wie schon so oft, daß unser
@@ -882,7 +882,7 @@ Köpfe hernieder — so unbarmherzig, daß ich genau
 wußte: noch eine Stunde, und in Euren Adern rast Fieberglut!
 Nach drei Stunden habt Ihr sicherlich ausgelitten.
 
-Harald wandte den Kopf. Sein traurig-ernfter Blick
+Harald wandte den Kopf. Sein traurig-ernster Blick
 ruhte lange auf meinem schweißfeuchten Gesicht.
 
 Dann drehte er den Kopf wieder geradeaus.
@@ -890,7 +890,7 @@ Dann drehte er den Kopf wieder geradeaus.
 Mir war’s, als hätte er so von mir Abschied genommen
 — wortlos, ergeben in sein Schicksal.
 
-Wortlos, weil auch er keine Hof rang hatte, wir könnten
+Wortlos, weil auch er keine Hoffnung hatte, wir könnten
 gerettet werden.
 
 Wieder schloß ich die Augen. In meinen Ohren sang
@@ -911,7 +911,7 @@ Raketenbündel.
 
 <@pagebreak/>
 Dann — ein Schrei entrang sich meiner Kehle — ein
-irrsinnigen Schrei.
+irrsinniger Schrei.
 
 Ich riß die Augen auf.
 
@@ -1087,7 +1087,7 @@ Aber Haralds sonst so sichere Hand versagte heute.
 Greebrac schwang sich bereits von Fels zu Fels die
 Talwand empor.
 
-Sein trunkener Gefährte war nun ebenfalls aus den
+Sein trunkener Gefährte war nun ebenfalls auf den
 Beinen.
 
 »Hierher, Scamarack!« befahl Harst drohend.
@@ -1181,7 +1181,7 @@ Ein Gedanke dann.
 »Etwa Greebrac und Hartleport?« fragte ich zögernd.
 
 »Wahrscheinlich. Und Roland als Gefangener. Sind
-sie es, dann wird Greebuac den Zwerg dorthin führen,
+sie es, dann wird Greebrac den Zwerg dorthin führen,
 wo die Goldbarren liegen. — Weiter also!«
 
 Und Maniter lief wieder voran, lief durch Täler und
@@ -1206,7 +1206,7 @@ zurückgeglitten zu sein! Fast war’s schon wie etwas
 Unwirkliches, nie Gewesenes.
 
 Aber — dort zu unseren Füßen lag Maniter und ließ
-sich das Konserven Fleisch schmecken.
+sich das Konservenfleisch schmecken.
 
 Wohl ihm! Uns schmeckte es nicht mehr. Es roch wie
 ranziger Talg. —
@@ -1306,7 +1306,7 @@ Vorsprung.
 Harst hatte sich gerade noch niederwerfen und mir zuwinken
 können: dort oben befand sich Greebrac, fesselte
 Roland den Zwerg gerade an einen großen Stein, schnürte
-ihn darauf fest, das Gesicht noch oben.
+ihn darauf fest, das Gesicht nach oben.
 
 Dann verschwand er.
 
@@ -1465,5 +1465,6 @@ Dann traf Lord Breßforts Depesche aus Lucknow ein.
 Hierüber später Näheres.
 
 Nächster Band:
+
 __Das blinde Hindumädchen.__
 
