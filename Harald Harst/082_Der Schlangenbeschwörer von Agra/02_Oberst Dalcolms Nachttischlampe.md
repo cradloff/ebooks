@@ -120,7 +120,7 @@ einbohrte.
 Harald feuerte jetzt.
 
 Da das Weib am Steuer sich tief zusammengeduckt
-hatte, nutzte Harst die andere Verschleierte, die außerdem
+hatte, mußte Harst die andere Verschleierte, die außerdem
 soeben aus dem faltigen Gewande ein blinkendes breites
 afghanisches Wurfmesser zum Vorschein gebracht hatte, aufs
 Korn nehmen.
@@ -433,13 +433,13 @@ Wir waren nun im Schutz der Pfahlreihe des Steges
 geborgen, standen bis zu den Schultern im Wasser und
 hatten nur eins zu fürchten: die Dschamnakrokodile, die im
 Gegensatz zu den gemütlichen Gangesbestien gleicher Art
-sich durch Angriffslust und stetem Hunger unvorteilhaft auszeichnen.
+sich durch Angriffslust und steten Hunger unvorteilhaft auszeichnen.
 
 »Es war Dalcolm,« flüsterte Harald. »Er schoß mit
 einer Repetierbüchse. — Warten Sie, Herr Oberst, das soll
 Ihnen teuer zu stehen kommen.«
 
-Dann sehen ein lauter Ruf:
+Dann schon ein lauter Ruf:
 
 »Sie sind doch hoffentlich nicht verwundet!«
 
@@ -524,7 +524,7 @@ Harald öffnete ihn.
 »Kniete der Dieb wiederum vor dem geöffneten
 Schranke wie das erste Mal?«
 
-»Ja. Genau so, Mr. Harst«
+»Ja. Genau so, Mr. Harst.«
 
 »Was steht dort unten?«
 
@@ -548,7 +548,7 @@ So kam endlich wieder der Rubinring zu seinem Recht.
 Endlich wurde er wieder durch diesen Kleiderschrank uns
 nähergerückt.
 
-Harald hatte meinen Blick aufgegangen und durch ein
+Harald hatte meinen Blick aufgefangen und durch ein
 unmerkliches Kopfschütteln erwidert. Ich verstand, was
 er damit ausdrücken wollte: der Ring sollte nicht erwähnt
 werden! Ich hätte es auch ohne diesen Wink nicht getan.
@@ -556,7 +556,7 @@ werden! Ich hätte es auch ohne diesen Wink nicht getan.
 »Ich begreife nicht, was der Dieb oder die beiden
 Diebe hier stehlen wollten,« sagte Harald nun und drehte
 sich langsam um. »Es ist ja klar, daß sie es auf denselben
-Gegenstand abgesehen hatten. Sind in diesen Schranke
+Gegenstand abgesehen hatten. Sind in diesem Schranke
 vielleicht Wertsachen verborgen. Mr. Dalcolm?«
 
 Harst spielte Komödie. Er wußte ebenso gut wie ich,
@@ -733,7 +733,7 @@ entgegen. Dalcolm winkte.
 »Die Hypnose treibt ihn her,« flüsterte Harst. »Wir
 werden sehr vorsichtig sein müssen.«
 
-Das Boot legte an. Dalçolm kletterte auf Deck.
+Das Boot legte an. Dalcolm kletterte auf Deck.
 
 <@pagebreak/>
 »Ich habe Ihnen etwas Neues zu melden, meine Herren,«
@@ -941,7 +941,7 @@ abnahm. — Wie heißt Du?« Das galt dem Inder.
 
 Da — die Augenlider senkten sich herab.
 
-Und — wir bekamen ab nicht ein Wort aus dem
+Und — wir bekamen auch nicht ein Wort aus dem
 Manne heraus — nicht eins! —
 
 »Rudere jetzt zu Lockpors Bootssteg,« befahl Harald
@@ -1135,12 +1135,12 @@ sagte er. »Sie sind mir jetzt unbequem. Wir wollen mal
 in der Leichenkammer der Polizeidirektion uns etwas umsehen.
 Lockpor erwähnte, daß sie leer sei und daß man den
 Inder dort ganz gut ein paar Tage einsperren könne. Ich
-hege nämlich die ernstester Besorgnisse um das Leben des
+hege nämlich die ernstesten Besorgnisse um das Leben des
 Verwundeten!«
 
 »Weil die drei Radler dem Leichenwagen gefolgt sind?«
 
-»Ja. — Wir werden fort folgendes tun: Drüben ist
+»Ja. — Wir werden jetzt folgendes tun: Drüben ist
 eine Autohaltestelle. Wir besteigen eines und lassen uns über
 die Dschamna-Brücke nach dem rechten Ufer des Flusses
 zum Tadschmachal fahren, dem Mausoleum Schah Dschehans
@@ -1164,7 +1164,7 @@ Brücke wieder zu, kamen dicht an dem Radler vorüber.
 Da — der Kraftwagen hielt.
 
 Unser Chauffeur war mit einem Satz heraus, trat auf
-den Spion zu, gab ihm einen Stoß, brachte das Rad und
+den Spion zu, gab ihm einen Stoß, packte das Rad und
 schlug es auf die Steine.
 
 Wir sausten weiter.
@@ -1306,7 +1306,7 @@ Mitternacht mochte es sein.
 Durch die Atelierfenster grinste der Mond auf den
 großen Apparat herab, der friedlich in einer Ecke stand.
 
-Wir hocken hinter einem gemalten Schirm in nächster
+Wir hockten hinter einem gemalten Schirm in nächster
 Nähe.
 
 Soeben hatten wir vom Vorraum her ein Geräusch
@@ -1438,7 +1438,7 @@ Greebrac verabredeten Zeit nach dem Bahnhof.
 Es war bereits dunkel. Auf dem Vorplatz sprach uns
 ein alter zerlumpter Bettler an.
 
-»Ich bin’s, Greebracs —«
+»Ich bin’s, Greebrac —«
 
 »Haben Sie auch das Uebereinkommen gehalten, Greebrac?«
 meinte Harald, indem er die in Seidenpapier gewickelte
@@ -1454,7 +1454,7 @@ befindet, wieder auszuhändigen.«
 
 Der Verbrecher lachte.
 
-»Etwa aus Angst vor Ihnen?!« höhnte er, »Sie
+»Etwa aus Angst vor Ihnen?!« höhnte er. »Sie
 machen sich lächerlich! Sie vergessen, daß Sie im Vergleich
 zu mir ein Nichts sind! Wenn ich gewollt hätte, lebten
 Sie beide nicht mehr. Viermal hätte ich Sie inzwischen

@@ -424,7 +424,7 @@ ließen die Tür offen.
 »Sistri ist ohne Zweifel ein Helfershelfer Greebracs,«
 flüsterte Harst. »Den Ring hat er natürlich schon gestern
 oder vorgestern gestohlen und bis zum Eintreffen Greebracs
-oder weitere Befehle gut versteckt. Wir müssen ihn überlisten.
+oder weiterer Befehle gut versteckt. Wir müssen ihn überlisten.
 Halte Dich nachher im Bett jeden Moment bereit,
 Sistri folgen zu können. Damit er nicht etwa argwöhnisch
 wird, müssen wir uns richtig entkleiden und die Schlafanzüge
@@ -456,7 +456,7 @@ Der Kleine schwieg.
 
 Die Deckenlampe erlosch.
 
-»Gute Nacht, ein Alter,« rief Harst mir zu. —
+»Gute Nacht, mein Alter,« rief Harst mir zu. —
 
 Ich war gespannt, wie dieser Ueberlistungsversuch
 enden würde.
@@ -528,7 +528,7 @@ Diese habe ihm Geld gegeben. Dann hatte Sistri
 in der Poststelle des Bahnhofs eine Depesche geschrieben
 und zur Beförderung dem Schalterbeamten ausgehändigt.
 Kaum war er dann wieder im Wartesaal verschwunden,
-als Barcam am Postschalter sich legitimiere und die Depesche
+als Barcam am Postschalter sich legitimierte und die Depesche
 zur Durchsicht verlangt hatte.
 
 »Ich habe sie abgeschrieben und befohlen, daß sie vorläufig
@@ -773,7 +773,7 @@ ab, und — ich habe den Ring! Und — Sie beide dazu!«
 
 Die letzten Worte spuckte er Harst vor wahnwitzigem
 Haß geradezu ins Gesicht. Seine Augen waren weit aufgerissen,
-das Weiße darin verständig mit roten Blutäderchen
+das Weiße darin vollständig mit roten Blutäderchen
 durchsetzt. Sie quollen ihm förmlich aus dem Kopf,
 diese vor Rachgier, Mordgier, Haß und erstickender Wut
 glotzenden Augen.
@@ -894,7 +894,7 @@ Harst ab. Sahib Harst wird Dich bestrafen!«
 Er beugte die Knie, hockte sich auf den Teppich hin,
 schaute auf die Fremde, sagte lauter — wie befehlend:
 
-»Schweig! Verstehst Du mich, — schweige! Erbaute
+»Schweig! Verstehst Du mich, — schweige! Erkaufe
 Dir Dein Leben durch das Geheimnis, das ich nicht kenne!«
 
 Sein Oberleib begann hin und her zu pendeln. Ein
@@ -938,7 +938,7 @@ Da mischte sich Harst ein.
 nicht zu reizen,« meinte er.
 
 Die halb irren Augen des blonden Weibes ruhten auf
-Haralds gleichmütigem Gesicht
+Haralds gleichmütigem Gesicht.
 
 <@pagebreak/>
 Wieder lachten die Geschwister.
@@ -953,7 +953,7 @@ der Dschamna versenken.«
 Die Blonde holte ein paarmal hastig Atem. Sie rang
 mit einem Entschluß.
 
-Dann — dann hörten wir ihr Geheimnis
+Dann — dann hörten wir ihr Geheimnis.
 
 <h2>4. Kapitel.</h2>
 <h3>Die Perlenkette der Herzogin von Ixstadt.</h3>
@@ -1021,7 +1021,7 @@ fuhr nach Bombay. Vor einer Woche traf ich dort ein.
 Mein erster Gang war zu Sistri, der ein kleines Häuschen
 im Eingeborenenviertel bewohnte.
 
-Sistri war erst sehr bestürzt, alt er mich sah. Dann
+Sistri war erst sehr bestürzt, als er mich sah. Dann
 behielt er mich aber doch als Gast bei sich. Nur bat er mich,
 eine Verkleidung anzulegen. Als Europäerin würde ich
 in seiner Hütte zu sehr auffallen.
@@ -1039,7 +1039,7 @@ Dich als verschwiegen und zuverlässig.« — Sistri nahm den
 <@pagebreak/>
 Brief, konnte ihn mir aber erst viele Monate später aushändigen.
 
-Mehr wußte auch Sistri nicht. Ich hatte ihm von den
+Mehr wußte auch Sistri nicht. Ich hatte ihm von dem
 schriftlichen Geständnis meines Vaters nichts gesagt, hatte
 ihm nur die Geheimschrift gezeigt. Auch er versuchte
 vergebens, sie zu entziffern.
@@ -1317,13 +1317,13 @@ Wir eilten schweigend weiter. Harst voran, dann
 Ozeana, dann ich. Harald legte ein Tempo vor, das deutlich
 verriet, wie stark er mit einer Sinnesänderung Greebracs
 rechnete, vielleicht infolge der Einflüsterungen Tamar
-Daks, der bei ihn viel vermochte.
+Daks, der bei ihm viel vermochte.
 
 Wir kamen auf eine Landstraße, an ein größeres Gebäude.
 Es lag inmitten eines Riesenparkes, hatte zahlreiche
 barackenähnliche Nebenhäuser.
 
-An der Gitterpforte macht Harald halt.
+An der Gitterpforte machte Harald halt.
 
 »So — nun können wir erst verschnaufen,« meinte er.
 »Es ist das Seuchenkrankenhaus Agras. Bis zur Stadt
@@ -1356,7 +1356,7 @@ hatte.
 
 »Amibar, ich bin Harst,« sagte Harald.
 
-»Ab — endlich, Sahib, endlich! Wir sind Euretwegen
+»Ah — endlich, Sahib, endlich! Wir sind Euretwegen
 <@pagebreak/>
 schon sehr in Sorge gewesen. Sahib Boßwell hatte schon
 vorgestern telephoniert, und —«
