@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">af1de922-8cb3-11ea-a1f1-7f1c9bb17a47</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Buschklepper der Thar-Wüste</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">84</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Roland, der Zwerg.
+
+Das imposante Bauwerk mit seinen blinkenden Fensterreihen, seinen kupfernen Dächern, zierlichen Erkern und phantastischen Steinfiguren war soeben der Schauplatz des Vorspiels eines ernsten Dramas gewesen: Hektor Olgerdyn, der Kamelzüchter von Tallamara, war von meinem Freunde, dem Liebhaberdetektiv Harald Harst, als gemeiner Karawanenräuber entlarvt worden und hatte zusammen mit seinem Genossen, dem verbrecherischen Arzte Doktor Albert Greebrac, die Flucht ergriffen.
+
+Wir, Harst und ich, sein steter Begleiter, standen am Fenster des Arbeitszimmers Olgerdyns und schauten den beiden nach, wie sie in wilder Hast über die Brücke stürmten, deren zierliche Eisenkonstruktion auch den Beifall des anspruchsvollsten europäischen Ingenieurs gefunden hätte.
+
+»Willst Du sie entkommen lassen?« fragte ich Harald etwas erstaunt. »Bedenke, daß Detektivinspektor Lockpor bereits von Dehli nach hier unterwegs ist, um die beiden Verbrecher zu verhaften. Wie willst Du es Lockpor, unserem alten Bekannten, gegenüber vertreten, daß Du ihre Flucht nicht hindertest?!«
+
+Die Buschklepper der Thar-Wüste.
+
+Wir lagerten gegen elf Uhr vormittags auf der Schattenseite einer kleinen Felsgruppe südlich der Berge, da Harald es für nicht ratsam hielt, inmitten der unübersichtlichen Anhöhen den versäumten Nachtschlaf nachzuholen.  Die Felsgruppe war von den letzten Ausläufern des Bergzuges etwa eine Viertelmeile entfernt, lag auf einem Hügel und bot den Vorteil eines weiten Rundblickes über die Sandwüste.
+
+Unsere Suche nach Greebracs und Scamaracks Spuren hatten wir sehr bald aufgegeben. Wir hätten ja, wenn wir sorgfältig sein wollten, die ganze Bergkette umrunden müssen, und dazu waren wir zu müde.
+
+Wir hatten eins der Zelte aus dem Krater mitgenommen und es im Schatten der Felsen aufgestellt.
+
+Während wir jetzt frühstückten, holte Harst wieder den Brief hervor.
+
+»Lies ihn nicht mit den Augen, sondern mit dem Verstande,« sagte er. »Ich will einmal Ausschau halten, ob sich etwas Lebendes zeigt.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (084) Die Buschklepper der Thar-Wüste.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
