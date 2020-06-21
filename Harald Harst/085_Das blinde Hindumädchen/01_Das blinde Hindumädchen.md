@@ -180,7 +180,7 @@ siebzigjährigen Manne noch schärfer ausgeprägt. In dem
 Blick, der immer wieder über uns hinglitt, lag etwas wie
 hochmütige Verachtung.
 
-Harst sog die Sportmütze zu ehrerbietigem Gruß. Dann
+Harst zog die Sportmütze zu ehrerbietigem Gruß. Dann
 fragte er:
 
 »Du bist ein Bhat, ein Weiser?«
@@ -330,7 +330,7 @@ der einzelnen Gehöfte erkannte.
 
 »Bleiben wir hier oben,« meinte Harald.
 
-Er strebte sich hinter ein paar Distelsträuchern am
+Er streckte sich hinter ein paar Distelsträuchern am
 Rande des Abhangs aus und holte sein Zigarettenetui
 hervor.
 
@@ -411,7 +411,7 @@ Ich hörte ganz andächtig zu.
 <@pagebreak/>
 »Tossan und der Bhat hatten also,« fuhr Harald fort,
 »dieses eine, gerade das älteste Blatt beschädigt, eben die
-hineingeschnitten. Olgerdyn hat es fraglos nicht
+Löcher hineingeschnitten. Olgerdyn hat es fraglos nicht
 entziffern können, da die Schriftzeichen dieser Art sehr selten
 sind. Hätte er es entziffert, und damals war ja noch
 der ganze Text vorhanden, so würde er dem Geheimnis
@@ -438,7 +438,7 @@ Kuppe, auf der eine einzelne Steinhütte und dahinter ein
 winziger Stall, außerdem noch ein kleiner Tempel mit Säulenvorbau
 standen. Etwa zwei Dutzend Palmen und einige
 Büsche wuchsen auf dieser Kuppe, die nach Süden zu gut
-zehn Mieter tief abfiel. Dieser Abhang war höchstens vierzig
+zehn Meter tief abfiel. Dieser Abhang war höchstens vierzig
 Meter lang und ging allmählich wieder in die kahlen
 Sanddünen über.
 
@@ -492,7 +492,7 @@ so daß der Fürst, dessen Habgier berüchtigt war, all dieser
 Kleinodien verlustig ging. In jenem tiefen Brunnen sollen
 die Kostbarkeiten noch immer seit jenem Blutbade verborgen
 sein, ohne daß es bisher gelungen wäre, die Frage
-nachzuprüfen, was Wahres an dieser halbem Sage sei.
+nachzuprüfen, was Wahres an dieser halben Sage sei.
 Nichts hat die Seelen der Männer, denen diese Sage bekannt
 war, mehr erregt als gerade die Hoffnung, die Schätze
 <@pagebreak/>
@@ -704,7 +704,7 @@ Die Blinde hob einen kleinen Stein auf und warf ihn
 in den Höhleneingang hinein.
 
 Sofort erschienen drei der vermummten Radschputen,
-banden Harst von dem Erbstück los und schoben ihn bis
+banden Harst von dem Felsstück los und schoben ihn bis
 dicht an den Rand der Kanzel vor.
 
 Von oben kam ein Tau herab.
@@ -735,7 +735,7 @@ bei den Armen fest.
 »An den Baum!« befahl die Blinde da. »An den
 Baum!«
 
-Das Tau warte oben über dem Höhleneingang von
+Das Tau wurde oben über dem Höhleneingang von
 unsichtbaren Händen straff gespannt.
 
 <@pagebreak/>
@@ -768,7 +768,7 @@ Die fünf Radschputen waren nicht die einzigen Verfolger.
 Ich vernahm Omar dar Singris Stimme. Ich verstand
 die Worte nicht. Die Leute waren in wildester Aufregung.
 
-Ich rechte den Kopf vor.
+Ich reckte den Kopf vor.
 
 Ringsum schwärzeste Finsternis. Aber als die Augen
 sich an das Dunkel mehr gewöhnt hatten, gewahrte ich doch
@@ -792,7 +792,7 @@ kleine Felsterrasse. Vor mir der Abgrund und der Baum.
 Dort mußte Harald hängen — über dem Abgrund.
 
 Ich kroch vorwärts, bis ich auch die Blinde sah. Sie
-hocke noch immer auf demselben Fleck.
+hockte noch immer auf demselben Fleck.
 
 Ich zog die Clement. Ich hatte mich bereits entschieden,
 was ich tun wollte.
@@ -933,7 +933,7 @@ auf den Leim geht!«
 <h2>4. Kapitel.</h2>
 
 Ein paar Diener kamen uns jetzt aus der Burg entgegengeeilt.
-Kamelhüter und fütterer verließen die Stallungen
+Kamelhüter und -fütterer verließen die Stallungen
 und scharten sich um uns. Tausend Fragen sollten
 wir beantworten. Jenningson wiederholte stets nur dasselbe:
 

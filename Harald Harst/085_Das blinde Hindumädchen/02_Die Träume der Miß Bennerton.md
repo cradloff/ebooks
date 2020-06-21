@@ -208,7 +208,7 @@ hätte?! —
 In diese meine kritischen Erwägungen platzte Haralds
 Frage hinein:
 
-»Nicht wahr, mein. Alter, nun suchst Du die Brücke, die
+»Nicht wahr, mein Alter, nun suchst Du die Brücke, die
 von Miß Bennerton nach Tallamara hinüberleitet oder
 besser nach dem Dorfe Girwali und nach Omars Hütte?«
 
@@ -264,7 +264,7 @@ Daisy Norton stand auf der Photographie ohne Hut
 im grellen Sonnenlicht da. Ihr Kopf war etwa reiskorngroß.
 Aber das Objektiv des Apparats mußte
 <@pagebreak/>
-außerordentlich scharf gewesen fein. Mit Hilfe des Vergrößerungsglases
+außerordentlich scharf gewesen sein. Mit Hilfe des Vergrößerungsglases
 nahm der Kopf die Größe eines Fünfpfennigstückes
 an. Und das genügte, um die Einzelheiten des
 Gesichts deutlich zu erkennen.
@@ -349,7 +349,7 @@ Miß Bennerton näheres erfahren zu können, ließ Harald
 sich natürlich nicht entgehen. Er lud das Ehepaar ein, unser
 reserviertes Abteil zu benutzen.
 
-Im Laufe des Gesprächs erwähnte Harst kann so nebenher,
+Im Laufe des Gesprächs erwähnte Harst dann so nebenher,
 daß wir mit Lord Breßfort und Frau in Lucknow
 zusammentreffen wollten, die dort bei einer Miß Bennerton,
 <@pagebreak/>
@@ -413,7 +413,7 @@ doch jetzt nach Lucknow unterwegs sind, Mr. Harst?«
 
 »Ich glaube dies bestimmt,« erklärte Harald. »Das
 Telegramm wird von Breßfort ebenfalls abgeschickt worden
-sein. Nun — noch zehn Minuten, und wir werden es im
+sein. Nun — noch zehn Minuten, und wir werden es in
 Jaipur ausgehändigt erhalten.«
 
 Auf dem Bahnhof in Jaipur prüfte der Beamte Harsts
@@ -432,7 +432,7 @@ bereits gegen halb elf abends war, dazu ein regnerischer
 Himmel, ward es stockdunkel.
 
 Und — noch etwas ereignete sich: ein indischer Gepäckträger,
-der eine Kiste aus dem Rücken trug, rannte Harald
+der eine Kiste auf dem Rücken trug, rannte Harald
 von der Seite an, so daß dieser lang auf den Steinboden
 des Bahnsteigs flog.
 
@@ -484,7 +484,7 @@ Frau Dorbram grüblerisch,
 
 Morgens um fünf waren wir in Agra angelangt.
 Schon vorher hatte Harald mir gesagt, daß er hier nur
-eine Depesche zu Breßfort aufgeben wollte, ohne weiter
+eine Depesche an Breßfort aufgeben wollte, ohne weiter
 Aufenthalt zu nehmen.
 
 Das Telegramm zeigte dem Lord nur unsere Ankunft
@@ -506,7 +506,7 @@ Breßforts zweite Depesche hatte gelautet:
 > »Unbedingt sofort kommen. Miß Bennerton ist
 erkrankt infolge der aufregenden Träume, die meines
 Erachtens keine Träume gewesen sein können. Habe
-selbst einen mächtigen Orang-Utan der das Dach flüchten
+selbst einen mächtigen Orang-Utan über das Dach flüchten
 sehen und auf das Tier geschossen, auch noch mehr
 beobachtet.«
 
@@ -555,7 +555,7 @@ Er stürzte in den Garten und erkannte jetzt einen riesigen
 Affen, der blitzschnell über das flache Dach verschwand. Er
 feuerte drei Schüsse ab, ohne in der Aufregung zu treffen.
 Die Dienerschaft half nach dem Untier suchen. Aber man
-entdecke es nirgends. Miß Bennerton lag halb bewußtlos
+entdeckte es nirgends. Miß Bennerton lag halb bewußtlos
 in ihrem Bett und konnte nur angeben, daß sie sofort eingeschlafen
 sei und dann einen gräßlichen Traum gehabt
 habe, in dem ein riesiger Affe eine Rolle spielte. Als der
@@ -584,7 +584,7 @@ aufgeriegelt haben.«
 veranlaßte mich, an Sie zu depeschieren, obwohl Olivia nichts
 davon wissen wollte. Sie meinte, ich machte viel zu viel
 Aufhebens von der Sache. Sie war sogar verstimmt, als
-ich kann heimlich die Depesche doch abgehen ließ. Am
+ich dann heimlich die Depesche doch abgehen ließ. Am
 <@pagebreak/>
 nächsten Abend blieben wir nur bis gegen zehn Uhr zusammen.
 Etwa um Mitternacht erwachte ich, weil meine
@@ -727,7 +727,7 @@ es war ohne Zweifel unser blindes Hindumädchen! —
 Sie hatte uns die Hand gereicht und uns dann gebeten,
 bei ihr zu wohnen. »Mein Haus ist so sehr groß. Ich
 habe acht Fremdenzimmer. Weshalb wollen Sie in ein
-ungemütliches Hotel gehen, Mr. Harsts?! Freilich —« und
+ungemütliches Hotel gehen, Mr. Harst?! Freilich —« und
 <@pagebreak/>
 sie zwang sich zu einer Art Lächeln — »freilich ist mein Haus
 durch Freund Breßfort etwas in Verruf gekommen. Hier
@@ -1001,7 +1001,7 @@ hinter meinem Schlafraum. Sie dürfen nur abends
 in den Park. Die Memsahib liebt die Selke (die graugrünen
 indischen Affen) nicht.«
 
-»Zeige sie und mal, Tomaru.«
+»Zeige sie uns mal, Tomaru.«
 
 Der Alte zögerte etwas. Dann ließ er uns in seine
 Schlafstube ein und riß eine schmale Tür auf. Dahinter
@@ -1225,7 +1225,7 @@ und sagte dann zu ihrer Freundin:
 »In den Zeitungen fand ich bereits einige Andeutungen
 über diese ungewöhnliche Schatzgeschichte.« Dann
 blickte sie Harald an und fügte hinzu: »Es soll da ja eine
-gefährliche Abenteurerin in beim kleinen Dorfe eine Gastrolle
+gefährliche Abenteurerin in dem kleinen Dorfe eine Gastrolle
 gegeben haben.«
 
 »Freilich,« meinte Harst. »Ein Weib war’s, das sich
