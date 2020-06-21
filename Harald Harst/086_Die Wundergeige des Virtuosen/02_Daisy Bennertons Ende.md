@@ -91,7 +91,7 @@ herab- und auf die Steinfliesen des Kellers geschoben
 hatte.
 
 Meine Hände waren noch ungefesselt. Wenn ich nicht
-gerade Künstler wäre und mehr Energie und rasche (Entschlußfähigkeit
+gerade Künstler wäre und mehr Energie und rasche Entschlußfähigkeit
 besessen hätte, würde ich den Inder vielleicht
 überwältigt haben. Aber ein Mann, der wie ich
 ganz auf die Kunst eingestellt ist, bleibt in schwierigen Lebenslagen
@@ -139,7 +139,7 @@ dem Schnittpunkt zurückkehrte (durch welchen der Gänge ich
 hier in diesem merkwürdigen Raum gewaltsam hineingelangt
 war, konnte ich nicht mehr herausfinden, da ich beim
 Hinfallen mich gedreht hatte), als ich mit einem neuen halb
-abgebrannten Zündholz in bei Fingern in wachsender
+abgebrannten Zündholz in den Fingern in wachsender
 Angst und Bestürzung mich diesem Mittelpunkt näherte,
 gewahrte ich dort eine weibliche Gestalt.
 
@@ -645,7 +645,7 @@ war es gerade ein Uhr, Mittagspause?«
 *Iwannow:* »Das kann stimmen.«
 
 *Harst:* »In dem Tale dürften also drei Fabriken
-liegen. Die Sirenen klangen ja verschieden, — Geben Sie
+liegen. Die Sirenen klangen ja verschieden. — Geben Sie
 nun genau acht: Fuhr das Auto über zahlreiche Brücken?
 — Sie müßten das an dem Geräusch, das die Räder verursachten,
 gemerkt haben.«
@@ -696,7 +696,7 @@ erklärte er.
 
 Der Geiger gehorchte.
 
-Webster reichte Harz zweierlei: ein schmales Pappschächtelchen
+Webster reichte Harst zweierlei: ein schmales Pappschächtelchen
 und eine große, lange aufgerollte Landkarte.
 
 Harst entnahm dem Schächtelchen ein Parfümfläschchen,
@@ -724,7 +724,7 @@ Es war eine Karte des Landschaftsvierecks zwischen
 den Städten Lucknow, Banda, Benares, Gorakhpur.
 
 In der Südosteckle lag Benares, oben in der Nordwestseite
-Lucknow am Gumti-Fluß. Die Elisenvahnlinie
+Lucknow am Gumti-Fluß. Die Eisenbahnlinie
 Lucknow-Benares durchschnitt das Viereck als Diagonale.
 
 Die Karte zeigte jedes Dorf, jedes Gehöft, jeden Hauptbewässerungsgraben.
@@ -763,7 +763,7 @@ Bahnhöfen zwischen Benares und Rai Bareli — denn auf
 dieser Hälfte der Strecke muß Mr. Iwannow ja betäubt
 worden sein, nachzuforschen, ob dort nicht ein angeblich
 Kranker aus dem Zuge in ein Auto getragen wurde. Den
-Schaffner das Zuges habe ich ja bereits befragt. Er besinnt
+Schaffner des Zuges habe ich ja bereits befragt. Er besinnt
 sich auf nichts. Er hat geglaubt, die beiden Herren
 aus dem Abteil 1. Klasse wären in Manikpur ausgestiegen.«
 
@@ -1092,7 +1092,7 @@ Virtuosen.
 Mir kam dieses durchgeistigte Künstlerantlitz merkwürdig
 bekannt vor.
 
-Dann — die ein Hauch Haralds Stimme: »Ein Toter
+Dann — wie ein Hauch Haralds Stimme: »Ein Toter
 ist’s — ein für die Welt Toter! Ein von gehässiger
 Kritik Ermordeter! Es ist — der englische Geigenvirtuos
 Frank Elton. So lautete sein Künstlername. Niemand
@@ -1245,7 +1245,7 @@ Unsere Taschenlampen blitzten auf.
 Wir passierten den ersten leeren Keller. Aber die
 Fußbodenplatte senkte sich in den vier Gleitschienen auch
 durch den Boden dieses Kellers weiter hinab. Die Steinfliesen
-hatten sich eine doppelte Falltür, nach unten
+hatten sich, eine doppelte Falltür, nach unten
 geöffnet.
 
 Dann der nächste Kellerraum — auch leer. Hier hatte

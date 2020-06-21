@@ -72,7 +72,7 @@ eben das völlige Versagen seiner Sprachwerkzeuge,
 mochte seine Künstlerseele noch mehr beeinflussen, als dies
 bei einem gewöhnlichen Sterblichen der Fall gewesen wäre.
 Er reiste stets mit seiner Schwester Xenia, die, eine echt
-slawische Schönheit, an dem berühmten Bruder mit schwärmerischen
+slawische Schönheit, an dem berühmten Bruder mit schwärmerischer
 <@pagebreak/>
 Liebe hing. Diesmal war sie jedoch in Benares
 zurückgeblieben, da sie an Malaria leicht erkrankt war.
@@ -133,7 +133,7 @@ Harst erhob sich schon.
 Ich folgte ihm auf das Podium. Seine Exzellenz
 streckte Harald mit hilfloser Gebärde die Hand entgegen.
 
-»Mein Lieber Mr. Harst, Iwannow ist wie vernichtet!
+»Mein lieber Mr. Harst, Iwannow ist wie vernichtet!
 Die Geige ist nicht zu ersetzen —«
 
 Er öffnete die Tür und schlug die innen angebrachten
@@ -186,7 +186,7 @@ Iwannow ein wenig aus.« Er deutete auf einen Diwan
 an der anderen Wand. »Als ich vorhin ihn holen wollte,
 fand ich ihn fest schlafend. Er ermunterte sich schnell, schloß
 den Tresor auf und nahm den Geigenkasten heraus, machte
-sofort eine Bewegung höchsten Schrecks und suchte mit zitterten
+sofort eine Bewegung höchsten Schrecks und suchte mit zittenden
 Händen nach dem Schlüssel des Geigenkastens, öffnete
 diesen, und — der Kasten war leer —«
 
@@ -197,7 +197,7 @@ Stahltür noch offen war.
 In welcher Tasche?« fragte er kurz.
 
 »In der rechten Beinkleidtasche,« erwiderte der General
-Olivia. »Dieses Zimmer hat nur den einen Zugang
+eifrig. »Dieses Zimmer hat nur den einen Zugang
 durch den Salon dort, der wieder nur vom Saale aus betreten
 werden kann. Vor jener Tür aber hatte ich einen
 der Diener postiert, die ich Iwannow zugeteilt hatte. Der
@@ -272,7 +272,7 @@ leise und versuchte zu lächeln. »Durch einen Geigenbogen
 also! Und — bei Deiner Frage blieb die Oberfläche
 glatt. Das hieß also: Wir beide werden überhaupt nicht
 die Heimat wiedersehen! Wir beide nicht! Nur — einer
-von uns — Du also. — Du weißt: Daß es Schiwamatu lügt
+von uns — Du also. — Du weißt: das Schiwamatu lügt
 nicht! Und deshalb erblaßte Olivia auch. Sie wird durch
 einen Tiger den Tod finden. Sie ist ja eifrige Jägerin.«
 
@@ -356,16 +356,16 @@ Gouverneur.
 »Exzellenz, bitte schicken Sie mir den Diener, den Sie
 draußen aufgestellt hatten, dort ins Schlafzimmer.«
 
-Mir kehrten in das Schlafgemach zurück. Wenige
+Wir kehrten in das Schlafgemach zurück. Wenige
 Minuten später trat der Inder ein, eine prächtige, würdevolle
-Erscheinung mit langen, leicht ergrautem Bart.
+Erscheinung mit langem, leicht ergrautem Bart.
 
 »Sahib, Du befiehlst?« fragte er Harst, indem er sich
 tief verneigte.
 
 »Wie heißt Du?«
 
-»Chotan Gurra, Sahib,«
+»Chotan Gurra, Sahib.«
 
 »Du hast Deine Herrin an Dir vorüber in diese beiden
 Gemächer eingelassen!«
@@ -429,7 +429,7 @@ uns in die Gemächer der jungen Gemahlin des
 Gouverneurs hinaufführen, nachdem wir zum Schein andere Zimmer
 durchschritten hatten.
 
-»Sie können gehen, Mr, Wootprell,« sagte Harst dann
+»Sie können gehen, Mr. Wootprell,« sagte Harst dann
 zu dem Mischling, der eine Art Phantasieuniform trug.
 
 Wir befanden uns in dem Wohnsalon Ihrer Exzellenz.
@@ -492,7 +492,7 @@ Handel kommt.
 
 Plötzlich hinter uns ein Geräusch.
 
-In der Flurtür stand — Ihre Exzellenz, die zugekehrte
+In der Flurtür stand — Ihre Exzellenz, die angebetete
 jugendliche Gattin des Generals.
 
 <@pagebreak/>
@@ -532,7 +532,7 @@ halblaut vor.
 Schwester eine Bitte vortrage. Iwan hat seine Eigenheiten.
 So auch eine krankhafte Abneigung gegen Vasen.
 Wenn Sie also seine Stimmung nicht beeinträchtigen
-wollen, so entfernen Sie aus seinen Gastzimmer jede
+wollen, so entfernen Sie aus seinem Gastzimmer jede
 Vase. Entschuldigen Sie bitte gütigst dieses Ihnen vielleicht
 seltsam erscheinende Ansinnen.
 
@@ -580,12 +580,12 @@ Spitzentücher heute abhanden gekommen ist. Ich weiß bestimmt:
 beim Abendessen hatte ich es noch. Nachher vermißte
 ich es und nahm ein anderes.«
 
-Harst verbeugte sich wieder, »Exzellenz, wir dürfen
+Harst verbeugte sich wieder. »Exzellenz, wir dürfen
 hier wohl noch eine Weile bleiben. Ihre Abwesenheit
 dürfte im Festsaal auffallen.«
 
 <@pagebreak/>
-Sie blickte Harald unsicher an, »Glauben Sie etwa,
+Sie blickte Harald unsicher an. »Glauben Sie etwa,
 ich hätte Iwannows Wundergeige in der Vase versteckt aus
 dem Salon entfernt, Mr. Harst?« fragte sie nun.
 
@@ -595,7 +595,7 @@ das Gewicht einer Geige hätten Sie kaum herausgemerkt,
 Exzellenz. — Haben Sie in die Vase hineingeschaut, als
 Sie sie hinaustrugen?«
 
-»Ja — hier in meinem Zimmer, Sie enthielt — nur
+»Ja — hier in meinem Zimmer. Sie enthielt — nur
 dies!«
 
 Und sie nahm wieder etwas von der Schreibtischplatte
@@ -705,7 +705,7 @@ Ich erkannte die Chotan Gurras.
 ärgerlich.
 
 Ich rutschte weiter, berührte mit den Fußspitzen den
-Rasen streifen an der Hauswand, ließ das Seil los.
+Rasenstreifen an der Hauswand, ließ das Seil los.
 
 Oben im ersten Stock hatte Seine Exzellenz jetzt das
 Fenster aufgemacht, beugte sich hinaus und brüllte mit
@@ -783,7 +783,7 @@ in die Schlüsseltasche der Beinkleider. Als ich das kühle
 Metall der Repetierpistole in den Fingern spürte, fiel der
 letzte Rest von Entsetzen über diesen Mord von mir ab.
 Mit kalter, kritischer Ueberlegung schaute ich mißtrauisch
-geradeaus. Der Lärm der plätschern den Fontäne zwang
+geradeaus. Der Lärm der plätschernden Fontäne zwang
 mich, ganz laut zu sprechen.
 
 »Harald, Frau Bitry trug Deinen Mantel und
@@ -805,7 +805,7 @@ Schiwamatu!«
 Wir hatten den Springbrunnen nach rechts umrundet.
 Und nun — nun sahen wir dort dicht am Bassin im vollen
 Mondlicht eine Gestalt liegen — auf dem Gesicht, die Arme
-ausgebreitet, die Hände in den feuchten Rasen getrollt.
+ausgebreitet, die Hände in den feuchten Rasen gekrallt.
 
 Neben der rechten Hand blitzte etwas im Grase: ein
 kleiner Damenrevolver mit weißem Elfenbeinkolben. —
@@ -856,7 +856,7 @@ Gerade jetzt tauchte der graubärtige Chotan auf.
 ich zähme sie. Gib acht!«
 
 Er wand seinen Turban ab, einen endlos langen
-wollenen Stoff streifen, schwennkte ihn etwa wie ein Lasso und
+wollenen Stoffstreifen, schwenkte ihn etwa wie ein Lasso und
 ließ das freie Ende dicht über die Kobra hin fliegen. Sie
 schnappte sofort danach, und die Schleifen des Stoffes sanken
 über sie hin und hüllten sie fast ganz ein.
@@ -1145,7 +1145,7 @@ was es uns angedroht hatte — alles! —
 
 Um halb eins langten wir im Bungalow Miß Olivias
 an. Um halb zwei schlichen wir bei leichtem, nebelartigem
-Regen dem Gouverneurpalast durch menschenleeren Straßen
+Regen dem Gouverneurpalast durch menschenleere Straßen
 wieder zu.
 
 Umsonst waren alle meine Warnungen gewesen.
