@@ -1173,22 +1173,22 @@ wirklich, Harst?«
 »Wir sind’s. Treten wir in diese Türnische. — Was
 tun Sie hier, Bechert?«
 
-»Oh — ich lasse seit halb acht abends nach Ihnen bei-
-den suchen. Jetzt warte ich hier als Professor Grimm auf
+»Oh — ich lasse seit halb acht abends nach Ihnen beiden
+suchen. Jetzt warte ich hier als Professor Grimm auf
 einen Doktor Tolkin, der bei der Wargenheim jede Sitzung
 mitmacht. Die Wargenheim hat den früheren Betrieb wieder
 aufgenommen, ist nur vorsichtiger geworden. Viermal
 war ich bereits als Grimm bei ihr, weil ich hoffe, so endlich
 herauszubekommen, wie der Spiegelzauber befingert wird.
 Jedenfalls ist die Wargenheim an dem Morde Wilcword
-in keiner Weise beteiligt. Der Mörder ist einer der damali-
-gen Teilnehmer jener Sitzung. Er hat Wilcword einfach
-erdolche, als das Spukbild zufällig die Armbewegung
+in keiner Weise beteiligt. Der Mörder ist einer der damaligen
+Teilnehmer jener Sitzung. Er hat Wilcword einfach
+erdolcht, als das Spukbild zufällig die Armbewegung
 machte. Bei der Spannung, mit der alle auf den Spiegel
 blickten, ist der Dolchstoß allen entgangen. Aber — wer
 der Mörder sein mag — es kommen ja zwanzig Personen
-in Betracht, ließ ich nicht ergründen. Der einzige der Teil-
-nehmer, der den Milliardär persönlich kannte, war Doktor
+in Betracht, ließ ich nicht ergründen. Der einzige der Teilnehmer,
+der den Milliardär persönlich kannte, war Doktor
 Tolkin, ein bekannter Arzt, den Wilcword hier konsultiert
 hatte. Tolkin kam mit ihm gelegentlich in ein Gespräch
 über Spiritismus und Okkultismus, und da entpuppte
@@ -1277,12 +1277,12 @@ Harald besichtigte den Spiegel nur ganz oberflächlich.
 Dann krochen wir unter das Sofa. Da kein Tisch davor
 stand, konnten wir die Spiegelscheibe bequem beobachten.
 
-Nun lagen wir im Dunkeln dicht an die Wand ge-
-drückt da und warteten.
+Nun lagen wir im Dunkeln dicht an die Wand gedrückt
+da und warteten.
 
 Zehn Minuten vergingen. Dann im Flur flüchtige
-Schritte. Dann ein Geräusch, als würde im Flur ein schwer-
-es Möbelstück, das auf Rollen lief, vor die Tür des Geisterzimmers
+Schritte. Dann ein Geräusch, als würde im Flur ein schweres
+Möbelstück, das auf Rollen lief, vor die Tür des Geisterzimmers
 geschoben.
 
 Die Schritte entfernten sich.
@@ -1293,7 +1293,7 @@ vor unsere Tür gerückt.«
 
 »Wozu das?«
 
-»Begreifst Du es nicht?»
+»Begreifst Du es nicht?«
 
 Da — Schritte im Flur — Stimmen.
 
@@ -1302,8 +1302,7 @@ Dann Stille.
 Dann wieder Stimmen und Schritte — Stille.
 
 Kaum Sekunden dauerte es: wieder das rollende Geräusch!
-— Der Schrank wurde an die alte Stelle zurück-
-geschoben.
+— Der Schrank wurde an die alte Stelle zurückgeschoben.
 
 <@pagebreak/>
 Jetzt auch schon Gemurmel vieler Personen.
@@ -1320,8 +1319,8 @@ Licht.
 Frau Wargenheim stellte ein Kohlenbecken auf die
 Dielen, während Doktor Tolkin feierlich sagte: »Wir haben
 uns soeben wieder überzeugt, daß jede Täuschung hier ausgeschlossen
-ist. In andächtiger Stimmung wollen wir ent-
-gegennehmen, was die geheime Kunst der persischen Magier
+ist. In andächtiger Stimmung wollen wir entgegennehmen,
+was die geheime Kunst der persischen Magier
 uns zeigen wird. Damals als das Unheil eines
 Mordes diese Stätte entweihte, ist auf dem Spiegel das
 Bild meiner Frau erschienen, die sich in geistiger Umnachtung
@@ -1364,18 +1363,18 @@ Harst sagte jetzt zu ihr, indem er sich an die Tür stellte:
 »Sie täten gut, ein Geständnis abzulegen. Frau Wilcword
 ist entflohen. Ich bin Harald Harst.«
 
-Die Margenheim stand mit schlaff herabhängenden
+Die Wargenheim stand mit schlaff herabhängenden
 Armen da. Sie war wie versteinert vor Entsetzen.
 
 »Um auch gleich den plumpen Schwindel hier aufzudecken,«
 fuhr Harald fort, »mögen Sie, Bechert, den großen
 Schrank im Flur ein Stück weiterrollen. Sie werden dahinter
-eine Stubentür finden, die in ein genau so eingerich-
-tetes Zimmer wie dieses führt, werden aber auch in der
+eine Stubentür finden, die in ein genau so eingerichtetes
+Zimmer wie dieses führt, werden aber auch in der
 Wand, wo drüben der Wandleuchter hängt, irgend eine
 Oeffnung entdecken, durch die man auf diesem Spiegel hier
-mit einem kleinen kinematographischen Apparat Bilder er-
-scheinen lassen kann, da dieser Spiegel die Eigentümlichkeit
+mit einem kleinen kinematographischen Apparat Bilder erscheinen
+lassen kann, da dieser Spiegel die Eigentümlichkeit
 der bekannten chinesischen Zauberspiegel hat: durchsichtig zu
 sein und doch auf der anderen Seite alles widerzuspiegeln.
 In dem zweiten Kabinett dort steckt auch Frau Wargenheims
@@ -1393,8 +1392,8 @@ sich jetzt hinüber und — kehrten dann mit einem jungen,
 blassen Menschen zurück, der niemandem der Gäste bekannt
 war.
 
-Im ganzen waren außer uns und Bechert noch vier-
-zehn Personen anwesend.
+Im ganzen waren außer uns und Bechert noch vierzehn
+Personen anwesend.
 
 Harst fragte Tolkin nun, ob in jener Mordnacht, als
 Wilcword starb, einer der heute hier Erschienenen ebenfalls
@@ -1432,181 +1431,181 @@ Ein Geheimnis anderer Art wird der Leser hier kennenlernen.
 Das Geheimnis eines Toten, der ein Mädchen
 aus adligen Kreisen als Gattin heimzuführen glaubte, sich
 durch deren äußere Vorzüge bestechen ließ und dann erst, als
-es zu spät war, merkte, daß er einer gefährlichen, Gefühl.
-losen Abenteurerin feinen in ganz Amerika so angesehenen
+es zu spät war, merkte, daß er einer gefährlichen, gefühllosen
+Abenteurerin seinen in ganz Amerika so angesehenen
 Namen Wilcword gegeben hatte. —
 
-Luzie Wargenheim war vor Mufrenung und Angst nach
-Beim Wurzelt Aufschrei, der den Suftauninland ihres Winer-ftandes
+Luzie Wargenheim war vor Aufregung und Angst nach
+dem kurzen Aufschrei, der den Zusammenbruch ihres Widerstandes
 gegen ein offenes Geständnis angekündet hatte,
 ohnmächtig umgesunken.
 
 <@pagebreak/>
 Sie, jener Otto Lottmöller und der blasse junge Mensch,
-der sich Herbert Herrin nannte, wurden dann nach dem
-Polizeipräfidiun gebracht.
+der sich Herbert Konlin nannte, wurden dann nach dem
+Polizeipräsidium gebracht.
 
-Lottmöller und Herrin verweigerten jede Passage,
-Jnziwoischen hatte sich Frau Wargenheim jedoch so weit elf
-holt, daß sie vernommen werden konnte.
+Lottmöller und Konlin verweigerten jede Aussage.
+Inzwischen hatte sich Frau Wargenheim jedoch so weit erholt,
+daß sie vernommen werden konnte.
 
 Dieser Vernehmung wohnten wir, Harst und ich, auf
-ausdrückslihen Wunsch Becherts bei.
+ausdrücklichen Wunsch Becherts bei.
 
 Ich will die Angaben der Wargenheim hier in knappster
 Form wiederholen, will jedoch noch bemerken, daß
 Bechert sofort die nötigen Befehle zur Verfolgung Evelyn
-Wilcwords und deren Komplicen gegeben hatte. — è
+Wilcwords und deren Komplicen gegeben hatte. —
 
-Eva Rißhübler, so lautete ja der Vatersnante Evelyn
-Wilcwords, hatte einer internationalen Bande von Hochs
+Eva Rißhübler, so lautete ja der Vatersname Evelyn
+Wilcwords, hatte einer internationalen Bande von
 Hochstaplern und Juwelendieben bereits als Artistin angehört.
-Sie war damals die Geliebte eines gewissen Martin den
-Abraham gewesen, der sich später Marmaduc Battenham nannte.
-Ihre Stiefsschwester Luzie Jong hatte einen Konsulatsbeamten
+Sie war damals die Geliebte eines gewissen Martin Tenham
+gewesen, der sich später Marmaduc Battenham nannte.
+Ihre Stiefschwester Luzie Jong hatte einen Konsulatsbeamten
 namens Wargenheim geheiratet und sich von ihr
-völlig losgesagt. Ihr Stiefbruder Herbert wieder, d’r je
+völlig losgesagt. Ihr Stiefbruder Herbert wieder, der je
 nach Bedarf den Namen wechselte und hier in Berlin als
-Herbert Herrin aufgetreten war, hatte im Gegensatz zu Fels
-ner Schwester Luzie die Beziehungen zu Eva auch nach
+Herbert Konlin aufgetreten war, hatte im Gegensatz zu seiner
+Schwester Luzie die Beziehungen zu Eva auch nach
 deren Verheiratung nie völlig aufgegeben. Er war auch —
-das wußte Luzie nicht genau — offenbar noch immer ritt
-Glied jener Bande.
+das wußte Luzie nicht genau — offenbar noch immer Mitglied
+jener Bande.
 
-Als Eva oder Evelyn Wilcword dann in Neuyork uns
-möglich geworben war und sich nach Berlin mit ihrem
-Kinde begeben hätte, wohnte Luzie Wargenheim bereits als
+Als Eva oder Evelyn Wilcword dann in Neuyork unmöglich
+geworden war und sich nach Berlin mit ihrem
+Kinde begeben hatte, wohnte Luzie Wargenheim bereits als
 Witwe in der Eisenacherstraße Nr. 170 und ernährte sich
-durch das Halten von Pensionären, wobei Ihr Die ge Alte
-lehmige Wohnung sehr von Vorteil war. Sie hatte tv der
-von ihrem Bruder Herbert noch von ihrer Stiefsohn fiel
-Eva seit Jahren etwas gehört Mit der nach dem À eli-friege
-ständig steigender Teuerung wurde Luzie Waren
-Heims pekuniäre Lage immer schwieriger. Ihre nur Wichtig
+durch das Halten von Pensionären, wobei Ihr die geräumige
+Wohnung sehr von Vorteil war. Sie hatte weder
+von ihrem Bruder Herbert noch von ihrer Stiefschwester
+Eva seit Jahren etwas gehört. Mit der nach dem Weltkriege
+ständig steigender Teuerung wurde Luzie Wargenheims
+pekuniäre Lage immer schwieriger. Ihre nur dürftig
 <@pagebreak/>
 ausgestattete Wohnung eignete sich nicht zum Vermieten
-an gut zahlende Personen. Im Dezember 1921 erschien
-»dann eines Tages Martin herkam alias Battenham bei.
-Uhr und riet ihr, die Neigung weiter Kreise zu Geheime
-fünften, Spiritisnus und Okkultismus, auszunutzen, Sie
+an gutzahlende Personen. Im Dezember 1921 erschien
+dann eines Tages Martin Tenham alias Battenham bei
+ihr und riet ihr, die Neigung weiter Kreise zu Geheimkünsten,
+Spiritismus und Okkultismus, auszunutzen. Sie
 ließ sich auch dazu bestimmen, als Geisterbeschwörerin ihre
 Einnahmen zu vergrößern. Battenham war der »Erfinder«
 der beiden völlig gleichen Zimmer, des rollenden
-Schrankes und des Geisterspiegels. Da der Konsulatshe-ainte
-Wargenheim acht Fahre in Persien dienstlich tätig gewesen,
+Schrankes und des Geisterspiegels. Da der Konsulatsbeamte
+Wargenheim acht Jahre in Persien dienstlich tätig gewesen,
 mußten persische Magier ihm angeblich ihre Beschwörungsmittel
-verraten haben,
+verraten haben.
 
-So geriet Luzie denn in Battenhams Klauen, Noch
-wußte sie nichts von Eva Wilcwords Anwesenheit in Berlin,
+So geriet Luzie denn in Battenhams Klauen. Noch
+wußte sie nichts von Eva Wilcwords Anwesenheit in Berlin.
 Erst als durch Doktor Tolkin John Wilcword bei ihr
 eingeführt wurde, und das war vier Tage vor der nächsten
 Geistersitzung, fragte sie Battenham über Evas Ergehen
-»aus. Er sagte ihr die Wahrheit: daß Wilcword die Schei-dungsflage
+aus. Er sagte ihr die Wahrheit: daß Wilcword die Scheidungsklage
 angestrengt hätte und dieserhalb auch nach Berlin
 gekommen sei, wo Eva-Evelyn in Westend jetzt eine
-eigene Villa mit ihrem Töchterchen Jage bewohne,
+eigene Villa mit ihrem Töchterchen Inge bewohne.
 
-Luzie ahnte nichts Böses, Mittlerweile hatte Da!
+Luzie ahnte nichts Böses. Mittlerweile hatte
 Battenham ihr auch Herbert, ihren Bruder, als Gehilfen für
 die Geistersitzungen und ebenso Otto Lottmöller, ebenfalls
-ein Mitglied der internationalen Bande, z| an
+ein Mitglied der internationalen Bande, zugeführt.
 
-Die entscheidende Sitzung kam, Sohn Steward brach
-plötzliche mit einem Schrei zusammen. Ein langer Spionin-Dolch
-steckte noch in seinem Herzen.
+Die entscheidende Sitzung kam, John Wilcword brach
+plötzlich mit einem Schrei zusammen. Ein langer orientalischer
+Dolch steckte noch in seinem Herzen.
 
 Da erst wurde Luzie Wargenheim klar, weshalb Battenham
 vor dieser Sitzung für den kinematographischen
 Apparat das Bild der verschleierten Frau in der Weise
 vorbereitet hatte, daß diese Frau, der man eine entfernte
 Aehnlichkeit mit Tolkins verstorbener Gattin gegeben hatte,
-einen Dolch wie zum Waise erhob. Da erst sah sie ein, daß
+einen Dolch wie zum Wurfe erhob. Da erst sah sie ein, daß
 es sich hier um ein sorgfältig vorbereitetes Verbrechen
 handelte. Sie erkannte aber auch, daß es ihr schwerfallen
 <@pagebreak/>
 würde, Ihre Schuldlosigkeit vor der Polizei darzutun, falls
 sie ihren Verdacht gegenüber Bechert, daß es von vornherein
 nur auf John Wilcwords Ermordung abgesehen gewesen,
-irgendwie äußerte, Daher verheimlichte sie alles, verschwieg
-auch ihre verwandischastlichen Beziehungen zu alles
+irgendwie äußerte. Daher verheimlichte sie alles, verschwieg
+auch ihre verwandschaftlichen Beziehungen zu
 Wilcword und erreichte, daß die Polizei dieser Tragödie nicht
-auf den Grund kommen konnte,
+auf den Grund kommen konnte.
 
 Sie wurde nicht einmal verhaftet. Sie hatte vor
-Bechert sehr geschickt die völlig Harnuilose gespielt und später
-auf Battenhams Na! auch die Geistersitzungen wieder auf
-genommen, zumal Die Polizei sie nicht weiter belästigte, da
-Bechert hoffte, durch Teilnahme an den Drohungen irgendwie
+Bechert sehr geschickt die völlig Harmlose gespielt und später
+auf Battenhams Rat auch die Geistersitzungen wieder aufgenommen,
+zumal die Polizei sie nicht weiter belästigte, da
+Bechert hoffte, durch Teilnahme an den Sitzungen irgendwie
 das Geheimnis dieses Mordes aufklären zu können.
 Gegen Frau Evelyn Wilcword hatte Bechert nie Argwohn
-geschöpft, da sie bereits drei Wochen vor dem Morde alt
-ihrem Kinde nach Aegypten gereist war, —
+geschöpft, da sie bereits drei Wochen vor dem Morde mit
+ihrem Kinde nach Aegypten gereist war. —
 
 Auf Becherts Frage, wieviel Mitglieder der Bande sich
-wohl noch in Berlin befänden, erklärte Luzie Wargonheinm,
-sie könnte hierüber keine Auskunft geben, Sie betonte, daß
-sie trat alles, was sie wisse, ausgesagt habe, Ueber die
-Vergiftung Battenhams könne sie nichts angeben,
+wohl noch in Berlin befänden, erklärte Luzie Wargenheim,
+sie könnte hierüber keine Auskunft geben. Sie betonte, daß
+sie jetzt alles, was sie wisse, ausgesagt habe. Ueber die
+Vergiftung Battenhams könne sie nichts angeben.
 
-Bechert ließ sie nunmehr in eine Zelle des Polizei
-Gefängnisses bringen,
+Bechert ließ sie nunmehr in eine Zelle des Polizeigefängnisses
+bringen.
 
-Der Leser wird nach diesem Geständnis Luzie Ware
-Tones. zweierlei zugeben müssen: erstens, daß diese bei
-den Verbrechen ohne Harsts Eingreifen wahrscheinlich stets
+Der Leser wird nach diesem Geständnis Luzie Wargenheims
+zweierlei zugeben müssen: erstens, daß diese beiden
+Verbrechen ohne Harsts Eingreifen wahrscheinlich stets
 in tiefstes Dunkel gehüllt geblieben wären, und zweitens,
 daß wohl selten zur Beseitigung eines Menschen, nämlich
-John Wilcwords, ein solcher fein ausagellügelter Plan Ende
-geworfen wurde, wobei die Hauptmacher, Battenham und
-Eva: Evelyn, sehr schlau Wilcwords Neigung für Geheime
-Wissenschaften mit berechnet hatten.
+John Wilcwords, ein solcher fein ausgeklügelter Plan
+entworfen wurde, wobei die Hauptmacher, Battenham und
+Eva-Evelyn, sehr schlau Wilcwords Neigung für Geheimwissenschaften
+mit berechnet hatten.
 
 Nicht nur um so auf meines Freundes geniales Kombinationstalent
 hinzuweisen (Harald hatte ja diesen Plan
 bereits in Bombay durchschaut!), sondern auch um Eva
-Wilcwords moralische Verderbtheit lud rechte Licht zu
+Wilcwords moralische Verderbtheit ins rechte Licht zu
 <@pagebreak/>
-rücken, habe ich hier Luzies Aussage wiedergegeben, Von
+rücken, habe ich hier Luzies Aussage wiedergegeben. Von
 dieser Verderbtheit und Evas gefährlichen Talenten sollten
 ja gerade wir beide sehr bald recht unangenehme Proben
 zu kosten bekommen. —
 
-Seht wurde Herbert Jong alias Herrin vorgeführt,
+Jetzt wurde Herbert Jong alias Konlin vorgeführt.
 Bechert erklärte ihm, daß gegen ihn wegen Beihilfe zum
 Morde Anklage erhoben werden würde und las ihm Luzies
-Geständnis teilweise vor,
+Geständnis teilweise vor.
 
 Jong sah nun wohl ein, daß die Sache sehr schlecht
-für ihn stehe, Er suchte zu retten, was noch zu retten war,
+für ihn stehe. Er suchte zu retten, was noch zu retten war,
 und gab zu Protokoll, daß Battenham auch ihm über die
 Mordabsichten im unklaren gelassen habe.
 
-Dies war ohne Zweifel gelogen,
+Dies war ohne Zweifel gelogen.
 
-Dagegen seien die weitere Aussage Javas über Eva
+Dagegen schien die weitere Aussage Jongs über Eva
 Wilcwords Helfershelfer und über den Mord an Battenham
-der Wahrheit zu entsprechen, Er behauptete, daß das
-Tone Debientenperfonal der Villa Eva Wilcwords aus
-Mitgliedern der Bande bestanden habe, Der Diener, der
+der Wahrheit zu entsprechen. Er behauptete, daß das
+ganze Bedientenpersonal der Villa Eva Wilcwords aus
+Mitgliedern der Bande bestanden habe. Der Diener, der
 Chauffeur, die Köchin und die Zofe seien frühere Bekannte
 Evas gewesen. Von diesen vier Personen sei der Diener
-ein gewisser Lauer Holdstein, am meisten Evas Vertrauter
-Holdstein habe auch Battenham vergiftet — aus
-Kiferfucht, da er schon immer Eva mit Liebesbeteuerungen
-verfolgt habe und Battienhams intimen Beziehungen zu
-Eva ein Ende machen wollte, — Er schilderte diesen Xaver
-ha der jahrelang als Verwandlungsfkünstler die
-»Weltstädte bereist habe, als einen außerordentlich schlauen,
-rücfichtöiofen Menschen. Gerade Holdstein hätte zuletzt die
+ein gewisser Xaver Holdstein, am meisten Evas Vertrauter
+gewesen. Holdstein habe auch Battenham vergiftet — aus
+Eifersucht, da er schon immer Eva mit Liebesbeteuerungen
+verfolgt habe und Battenhams intimen Beziehungen zu
+Eva ein Ende machen wollte. — Er schilderte diesen Xaver
+Holdstein, der jahrelang als Verwandlungskünstler die
+Weltstädte bereist habe, als einen außerordentlich schlauen,
+rücksichtslosen Menschen. Gerade Holdstein hätte zuletzt die
 Leitung der Bande an sich gerissen gehabt. Holdstein und
 der Chauffeur waren es auch, die als Sipo-Beamte Harst
 und mich in Becherts Wohnung überwältigt hatten, während
 die Köchin Evas Becherts Haushälterin gespielt hatte.
 
-Die Falle in Becherts Wohnung war ebenfalls fern:
-fällig vorbereitet worden. Holdstein hatte zu diesem Zweck
-auf demselben Flur bei einer alten Dame ein Zimmer gewehrt,
+Die Falle in Becherts Wohnung war ebenfalls sorgfältig
+vorbereitet worden. Holdstein hatte zu diesem Zweck
+auf demselben Flur bei einer alten Dame ein Zimmer gemietet,
 damit wir zuerst dorthin geschafft werden könnten.
 <@pagebreak/>
 In diesem Zimmer waren wir dann in die bereitgehaltenen
@@ -1615,11 +1614,11 @@ Geschäftsreisender durch Evas Chauffeur auf einem Handwagen
 nach der Villa in Westend bringen ließ.
 
 Nun war also auch das Rätsel aufgeklärt, weshalb
-man Weber im noch vor dem Hause von. den beiden
-falschen Sipo-Beamten und ihren Arrestanten etwas be
-merkt hatte, —
+man weder im noch vor dem Hause von den beiden
+falschen Sipo-Beamten und ihren Arrestanten etwas bemerkt
+hatte. —
 
-Auch diese Einzelheit bewies Aura neue die großzügige
+Auch diese Einzelheit bewies aufs neue die großzügige
 »Arbeitsmethode« dieser Verbrecher. —
 
 Dann wurde Herbert Jong von Harst gefragt, wer
@@ -1627,79 +1626,80 @@ das blonde Mädchen gewesen sei, die in Bombay bei den
 Attentaten gegen uns mitgeholfen hatte. Jong erklärte,
 es handele sich hier um kein Mädchen, sondern um den sehr
 hübschen Knaben der Köchin Evas, der bereits ein Jahr in
-einer Parterreakrobaten-Truppe mit tätig gewesen, Die
-Da heiße Anastasia Gromper, der Knabe mit Vornamen
+einer Parterreakrobaten-Truppe mit tätig gewesen. Die
+Köchin heiße Anastasia Gromper, der Knabe mit Vornamen
 Joseph. —
 
 Abermals ließ Bechert nun Otto Lottmöller, den
 Mörder Wilcwords, vorführen. Lottmöller antwortete
-auch jetzt auf keine Frage. Als er dann nach seiten Zelle
-zurüägedrachi wurde, unternahm er einen Fluchtversuch
-und Türe ckch schließlich vom Dach des Seitenflügels in
-Korridore Hof hinab, lebte uy noch zehn Minuten und starb in
+auch jetzt auf keine Frage. Als er dann nach seiner Zelle
+zurückgebracht wurde, unternahm er einen Fluchtversuch
+und stürzte sich schließlich vom Dach des Seitenflügels in
+den Hof hinab, lebte nur noch zehn Minuten und starb in
 unserer Gegenwart ohne ein Zeichen von Reue bei vollem
-Bewußtsein. Seine legten Worte waren:
+Bewußtsein. Seine letzten Worte waren:
 
 »Sie werden an uns denken!« — Dabei schaute er Harst
 mit einem so haßerfüllten Blick an, daß Bechert nachher zu
 Harald sagte:
 
-»Ich würde Ihnen doch raten, lieber Harst, recht vor«
-umsichtig zu fein, So lange Eva Wilcword und die anderen
+»Ich würde Ihnen doch raten, lieber Harst, recht vorsichtig
+zu sein. So lange Eva Wilcword und die anderen
 Mitglieder der Bande noch in Freiheit sich befinden, dürften
 Sie auf jede mögliche Weise versuchen, sich zu rächen!«
 
-»Das weiß ich, Bechert. Ich werde mich danach rieche
-ten,« meinte Harald,
+»Das weiß ich, Bechert. Ich werde mich danach richten,«
+meinte Harald.
 
-Dann fuhren wir nach unserem Hotel am Nlcranderplak,
+Dann fuhren wir nach unserem Hotel am Alexanderplatz,
 <@pagebreak/>
-Alten unsere Koffer ab und begaben uns nach Hause, nach
-hohem Harstschen Familiensitz, der Blücherstraße Nr. 10 in
+holten unsere Koffer ab und begaben uns nach Hause, nach
+dem Harstschen Familiensitz, der Blücherstraße Nr. 10 in
 Schmargendorf.
 
 Und — dann begann das Geheimnis der großen,
-Lumpen Porzellantasse.
+plumpen Porzellantasse.
 
 <h2>2. Kapitel.</h2>
 <h3>Advokat Drywater.</h3>
 
-Gegen halb sieben Uhr morgens langten wie daheim
-— nach achtmonatiger Abwesenheit, nach acht Monaten,
+Gegen halb sieben Uhr morgens langten wir daheim
+an — nach achtmonatiger Abwesenheit, nach acht Monaten,
 die wir in Indien zugebracht hatten.
 
 Frau Auguste Harst war bereits aufgestanden. Auch
 Mathilde, das alte Faktotum des Hauses, wirtschaftete bereits
 in der Küche herum.
 
-Die freudige Ueberrasc@uns der Mutter Haralds, hie
+Die freudige Ueberraschung der Mutter Haralds, die
 Herzlichkeit, mit der sie auch mich begrüßte, standen in so
-hltuendem Gegensatz zu all dem Häßlichen, das mir
+wohltuendem Gegensatz zu all dem Häßlichen, das wir
 eben mit erlebt und mit angehört hatten.
 
-Wir sahen kann in der nach dem Obstgarten hinaus-enden
+Wir saßen dann in der nach dem Obstgarten hinausgehenden
 Veranda und frühstückten. Die Maisonne schien
-warm und freundlich, Wir waren daheim, und wir vergaßen
+warm und freundlich. Wir waren daheim, und wir vergaßen
 Eva Wilcword und ihren Anhang über dem heiteren
-Geplauder der alten Dar, die uns ja so viel Neues
-berichten hatte nach diesen ah Monaten in der Fremde.
-Bär brieten uns, Frau Harst etwas von den Geschehen
+Geplauder der alten Dame, die uns ja so viel Neues
+zu berichten hatte nach diesen acht Monaten in der Fremde.
+
+Wir hüteten uns, Frau Harst etwas von den Geschehnissen
 dieser Nacht zu erzählen. Wir taten, als hätte uns
-Heimweh nach Berlin zurücgesührt. Denn wozu solle
-wir das treue Linsen! M mit den Sorgen unserer
-Sicherheit wegen belasten! vier würden ja die Gefahren.
-uns vielleicht von Eva iliwarb drohen, Den ob
-zeitig erkennen.
+Heimweh nach Berlin zurückgeführt. Denn wozu sollten
+wir das treue Mutterherz mit den Sorgen unserer
+Sicherheit wegen belasten! Wir würden ja die Gefahren,
+die uns vielleicht von Eva Wilcword drohten, schon rechtzeitig
+erkennen.
 
 Gegen halb neun betrat dann die alte Mathilde die
-Neranda mit einem Brief in der Hand.
+Veranda mit einem Brief in der Hand.
 
 <@pagebreak/>
-»Der Postbote hat ihn soeben in den Briefspalt ge
-morsen,« exilärte sie.
+»Der Postbote hat ihn soeben in den Briefspalt geschoben,«
+erklärte sie.
 
 Harald prüfte den Umschlag. »Aus Neuyork!« sagte
-er dann und streifte mich mit einem besonderen Blick, »Ja
+er dann und streifte mich mit einem besonderen Blick. »Ja
 — das dürfte Zeit haben!« Und er schob den Brief in die
 Tasche.
 
@@ -1707,97 +1707,101 @@ Eine halbe Stunde drauf schlenderten wir beide durch
 den Garten.
 
 Da stand unter einem alten Apfelbaum eine weiße
-Holzbank. Sehr fetten und ch wußte, daß jetzt der Brief
-aus Neuyork heraufkommen würde.
+Holzbank. Wir setzten uns. Ich wußte, daß jetzt der Brief
+aus Neuyork herankommen würde.
 
-Harald reichte ihn mir denn auch,
+Harald reichte ihn mir denn auch.
 
-»Bitte — sieh ihn Dir zu!«
+»Bitte — sieh ihn Dir an!«
 
-als Absender war auf dem Umschlag vermerkt:
+Als Absender war auf dem Umschlag vermerkt:
 
 > Dr. Abraham Drywater, Rechtsanwalt,
 
 > Neuyork, 112. Straße Nr. 68.
 
-Die beiden amerikanischen Briefmarken waren Es
+Die beiden amerikanischen Briefmarken waren so
 schlecht abgestempelt, daß sich aus dem Stempel der Tag der
-Absendung sich! entziffern ließ.
+Absendung nicht entziffern ließ.
 
-»Oeffne ihn und lies vor,« meinte Harst, indem, er sich
+»Oeffne ihn und lies vor,« meinte Harst, indem er sich
 eine Mirakulum anzündete.
 
 Ich schnitt den Umschlag sorgfältig auf und zog den
 mehrfach gefalteten Briefbogen überseeischen Briefpapiers
 heraus.
 
-Oben links stand Drywaters Name, Titel und Woche
-Ahnung, Telephonnuummer und Sprechzeit gedruckt,
+Oben links stand Drywaters Name, Titel und Wohnung,
+Telephonnummer und Sprechzeit gedruckt.
 
 Ich las:
 
-»Neuyork, den 21. März 1922, — Herrn Harald Harst,
+»Neuyork, den 21. März 1922. — Herrn Harald Harst,
 Berlin-Schmargendorf, Blücherstraße 10. — Sie gestatten,
 daß ich mich in einer Angelegenheit an Sie um Rat wende,
-die meinen langjährigen Freund und Klient John Wirre
-Wilcword betrifft. Wilcword ist am 19, Februar in Berlin unter
+die meinen langjährigen Freund und Klient John
+Wilcword betrifft. Wilcword ist am 19. Februar in Berlin unter
 recht eigentümlichen Umständen ermordet worden. Ich
-nehme an, daß diese Umstände Ihren aus den Zeitungsmeldungen
-noch gegenwärtig sind Sie als Liebhaberdetektiv
+nehme an, daß diese Umstände Ihnen aus den Zeitungsmeldungen
+noch gegenwärtig sind. Sie als Liebhaberdetektiv
 dürften sich vielleicht längst für den Fall interessiert haben.
 <@pagebreak/>
 — Ich wurde nun von Wilcword im Herbst des Vorjahres
-beauftragt, die Ehescheidungéflage gegen seine Frau
+beauftragt, die Ehescheidungsklage gegen seine Frau
 einzureichen. Wilcword erklärte mir dann ein paar Wochen
-sein 8 daß er in aller Stille seine Fabriken verkauft und
-fein gesamtes Vermögen oder doch den weitaus größten
-Teil flüssig gemacht und der hiesigen Epelfteinhandlung
-Sudan Haaren Ordne gegeben Habe, für ihn die kostbarsten
+später, daß er in aller Stille seine Fabriken verkauft und
+sein gesamtes Vermögen oder doch den weitaus größten
+Teil flüssig gemacht und der hiesigen Edelsteinhandlung
+von Haalen Ordre gegeben habe, für ihn die kostbarsten
 Edelsteine aufzukaufen, die nur irgend zu haben seien. Von
-mir befragt, weshalb er so ungeheure Summen in Beitrags
-ten anlegen wolle, erwiderte er ausweichend, er habe Das
-bei einen ganz beftinmien Brust im Auge. Mehr war
+mir befragt, weshalb er so ungeheure Summen in Brillanten
+anlegen wolle, erwiderte er ausweichend, er habe dabei
+einen ganz bestimmten Zweck im Auge. Mehr war
 von ihm nicht zu erfahren.
 
-Es vergingen sodann drei Monate, Da erhielt ich die
+Es vergingen sodann drei Monate. Da erhielt ich die
 Nachricht von Wilcwords Ermordung. Ich besaß nun von
 ihm eine Generalvollmacht, die er vor seiner Abreise nach
 Europa ausgefertigt hatte. Diese Vollmacht genügte auch,
 mich als Verwalter seines Nachlasses zu legitimieren. Die
-Schlüssel zu dem Tresor im Keller feines palastartigen Hauses
-in der Lincolnstraße harte er bei mir ebenfalls deponiert.
-in dem Tresor fand ich, als dieser in Gegenwart
+Schlüssel zu dem Tresor im Keller seines palastartigen Hauses
+in der Lincolnstraße hatte er bei mir ebenfalls deponiert.
+In dem Tresor fand ich, als dieser in Gegenwart
 von drei richterlichen Beamten geöffnet wurde, eine Art
-Keftautent, das folgenden Wortlaut hatte:
+Testament, das folgenden Wortlaut hatte:
 
-»Ich, John Gabriel Ad am Wilcword, bestimme für
+»Ich, John Gabriel Adam Wilcword, bestimme für
 den Fall meines Todes, daß mein Freund, der Advokat
 Abraham Drywater, Vormund meines einzigen Kindes
-Enge werden soll. Ich lasse Dryivoater völlig freie Hand,
-den Nest meines Vermögens im Beträge von 52 Millionen
-eisenhändie als Kunsttöpfer hergestellt bat. Sie steht im
-Tresor in einem mit Samt ausgeschagenen Ebenholz
-falschen. Drywater soll diese Tasse Hoch in Ehren halten
-Und den eingebrannten Spruch beherzigen. — John
+Inge werden soll. Ich lasse Drywater völlig freie Hand,
+den Rest meines Vermögens im Betrage von 52 Millionen
+Dollar irgendwie nutzbringend anzulegen. Ihm selbst vermache
+ich den Betrag von zehn Millionen, die in einem
+besonderen Umschlag in meinem Tresor liegen, außerdem
+die alte Wilcwordsche Familientasse, die mein Großvater
+eigenhändig als Kunsttöpfer hergestellt hat. Sie steht im
+Tresor in einem mit Samt ausgeschlagenen Ebenholzkästchen.
+Drywater soll diese Tasse hoch in Ehren halten
+und den eingebrannten Spruch beherzigen. — John
 Wilcword.«
 
 <@pagebreak/>
-Es fanden sich denn ac wirklich in den Tresor sowohl
+Es fanden sich denn auch wirklich in den Tresor sowohl
 die zehn Millionen für mich, als auch Wertpapiere
-er von 52 Millionen und die erwähnte Familientasse
+im Betrage von 52 Millionen und die erwähnte Familientasse
 vor.
 
 Ich ging sodann, um den Verbleib der fehlenden
-Riesensummen (Wilcwvord mußte mindestens eine volle
+Riesensummen (Wilcword mußte mindestens eine volle
 Milliarde besessen haben!) festzustellen, zu der Firma van
-Haaren, die mir an Hand ihrer Geschäftsbücher nachwies,
+Haalen, die mir an Hand ihrer Geschäftsbücher nachwies,
 daß sie für John Wilcword im ganzen für 978 Millionen
 Dollar in Indien und China hatte Edelsteine aufkaufen
-und die Steine, im ganzen 682, ihm auch übergeben
+lassen und die Steine, im ganzen 682, ihm auch übergeben
 hatte.
 
 Ich beauftragte nun sofort durch Kabeldepesche die
-Berliner Anwälte Albin und Greift, sich mit der Polizei in
+Berliner Anwälte Albin und Gneist, sich mit der Polizei in
 Berlin in Verbindung zu setzen, damit nachgeforscht würde,
 ob Wilcwword die Edelsteine etwa mit nach dort genommen
 und in Berlin bei einer Bank in Verwahrung gegeben habe.«
@@ -1808,7 +1812,7 @@ Als ich so weit gelesen hatte, meinte Harald lebhaft:
 Es muß ihm wohl unwichtig erschienen sein. — Bitte
 weiter —«
 
-Und ich las jetzt bedeutend hastiger, denn biete 682
+Und ich las jetzt bedeutend hastiger, denn diese 682
 Steine begannen mich zu interessieren:
 
 »Ueber den Verbleib der Diamanten konnte jedoch bis
@@ -1816,24 +1820,24 @@ auf den heutigen Tag nichts festgestellt werden. Sie sind
 verschwunden. — Würden Sie nun, Herr Harst, vielleicht
 die Freundlichkeit haben, diese Angelegenheit zu untersuchen?
 Ich glaube fast, daß die Familientasse der Wilcwords
-zu dem Verschwinden der Steine irgendwie in he
-ziebung steht, denn der Spruch auf der Tasse, den fest beherzigen
+zu dem Verschwinden der Steine irgendwie in Beziehung
+steht, denn der Spruch auf der Tasse, den ich beherzigen
 soll, ist seltsamerweise nur eine fortlaufende Reihe,
-oder besser einer Reihen, von wiltürlich aneinandergefügten
+oder besser zwei Reihen, von willkürlich aneinandergefügten
 Buchstaben ohne jeden Sinn, aus denen ich nur an einer
-Stelle »Siam« als Anfang des Wortes Diamant Format-Arena
-Ich schreibe den merkwürdigen »Spruch«
-er so!
+Stelle »Diam« als Anfang des Wortes Diamant vermutlich
+herausfand. Ich schreibe den merkwürdigen »Spruch«
+hier ab:
 
 <@pagebreak/>
-> Utschssueddidiamnntae, oflfaeedst
+> Utchssueddidiamnntae, oslfaeedst
 
 > Aestfanlfl, nudnditrwfleükgfneri!
 
-Die vier Buchstaben »Siam« habe ich unterstrichen,
+Die vier Buchstaben »Diam« habe ich unterstrichen,
 
 Meine Bemühungen, diese Geheimschrift (es muß sich
-um eine solche handeln!) zu erteilen, waren ergebnislos.
+um eine solche handeln!) zu entziffern, waren ergebnislos.
 
 Ich kann mir nun anderseits nicht recht denken, daß
 die Familientasse, die doch von dem Großvater John Wilcwords
@@ -1841,12 +1845,12 @@ stammen soll, eine Aufschrift enthalten kann, die
 auf so viel Jahrzehnte später eingetretene Ereignisse, eben
 auf den Diamantenankauf und auf das Verschwinden der
 Steine, Bezug haben sollte. Kurz: all diese Fragen gehen
-über mein Spürtalent hinaus, Deshalb bitte ich Sie noch
-damals, diesen Austrag zu übernehmen, geehrter Herr Harst,
+über mein Spürtalent hinaus. Deshalb bitte ich Sie nochmals,
+diesen Auftrag zu übernehmen, geehrter Herr Harst.
 
 Den Zeitungsnachrichten zufolge sollen Sie sich jetzt
-Ich hoffe, daß Ihnen dieser Brief
-Ich bin — Ihr ergebener Abraham
+in Indien befinden. Ich hoffe, daß Ihnen dieser Brief
+nachgesandt wird. — Ich bin — Ihr ergebener Abraham
 Drywater.«
 
 Harald warf seinen Zigarettenrest weg und nahm mir
@@ -1854,34 +1858,34 @@ diesen inhaltsreichen Brief ab, las ihn nochmals ganz langsam,
 ließ seinen Blick minutenlang auf der Geheimschrift
 ruhen und sagte dann:
 
-»Die meisten Adokaten werden mit der Zeit zu nüchternen,
+»Die meisten Advokaten werden mit der Zeit zu nüchternen,
 phantasielosen Affenmenschen! — Du gibst doch zu,
-in Alter, Daß Drywater bei einiger geistiger Regsamkeit
+mein Alter, daß Drywater bei einiger geistiger Regsamkeit
 John Wilcwords Absichten hätte durchschauen müssen!«
 
-»Ich gebe nichts zu,« meinte ich Seminar. »Diese sei«
-ne Regsamkeit fehlt auch mir offenbar — leider!«
+»Ich gebe nichts zu,« meinte ich kleinlaut. »Diese geistige
+Regsamkeit fehlt auch mir offenbar — leider!«
 
 Die alte Mathilde kam da eilends den Weg vom Hause
-und schwenkte eine Das rief:
+und schwenkte eine Visitenkarte, rief:
 
 »Besuch — Besuch! Ein Amerikaner! Na — der
-ein Deutsch zusammen! Und Rasseln tut er wie
-Alle,« —
+spricht ein Deutsch zusammen! Und aussehn tut er wie
+ein Affe.« —
 
-Die Karte hatte den Ausdruck: »Dr. Abraham Brillanter,
-Neuyork«,
+Die Karte hatte den Aufdruck: »Dr. Abraham Drywater,
+Neuyork«.
 
-»So lernten wir nun denn auch den »Affen« kennen,
-die brave Mathilde den kleinen, hageren, Luftiger Der
+So lernten wir nun denn auch den »Affen« kennen,
+wie die brave Mathilde den kleinen, hageren, bärtigen Drywater
 <@pagebreak/>
-Drywater sehr respektlos bezeichnet hatte, was ihr insofern
+sehr respektlos bezeichnet hatte, was ihr insofern
 nicht zu verargen war, als Abraham Drywater entschieden
-seiner Gesichtsbildung nach unseren Urahnen, den Menschenmassen,
-einige Stufen näher stand al& wir.
+seiner Gesichtsbildung nach unseren Urahnen, den Menschenaffen,
+einige Stufen näher stand als wir.
 
 Harst bat ihn, nachdem wir ihn in Haralds Arbeitszimmer
-begrüßt hatten, wieder Plan zu nehmen.
+begrüßt hatten, wieder Platz zu nehmen.
 
 »Ich beherrsche Ihre Sprache etwas mangelhaft, meine
 Herren,« sagte der kleine Advokat nun. »Aber wir werden
@@ -1890,111 +1894,111 @@ meinen Brief erhalten, Herr Harst? — Ja, heute erst?!
 Merkwürdig! — Nun, jedenfalls hatte ich ihn kaum abgeschickt,
 als ich mir überlegte, daß es doch wohl richtiger
 sei, mit Ihnen persönlich zu sprechen. Ich reiste also mit
-dem nächsten Steamer nach Europa. Holte ich Sie hier
-nicht angetroffen, wäre ich Ihnen bis Indien gesorgt, denn
+dem nächsten Steamer nach Europa. Hätte ich Sie hier
+nicht angetroffen, wäre ich Ihnen bis Indien gefolgt, denn
 — für eine Milliarde Edelsteine ist doch keine Kleinigkeit,«
 
-»Allerdings nicht, — Haben Sie die Familientasse
+»Allerdings nicht. — Haben Sie die Familientasse
 mitgebracht?«
 
-»Ja, natürlich! — Was sagen Sie zu der Aufschrift?st
+»Ja, natürlich! — Was sagen Sie zu der Aufschrift?!
 Haben Sie sie entziffern können? »
 
 »Nein, bisher nicht.«
 
-»Wird es Ihnen gelingen? »
+»Wird es Ihnen gelingen?«
 
-»sich hoffe, — Wo befindet sich die Tasse?«
+»Ich hoffe. — Wo befindet sich die Tasse?«
 
-»In meinem Koffer im Hotel Atlantic,«
+»In meinem Koffer im Hotel Atlantic.«
 
-Harald schwieg eine Weile, Dann ging er an seinen
-Schreibtisch und — holte feine Clementpistole aus der per
-ten Schublade, setzte sich wieder zu uns an den Sofatisch,
+Harald schwieg eine Weile. Dann ging er an seinen
+Schreibtisch und — holte seine Clementpistole aus der rechten
+Schublade, setzte sich wieder zu uns an den Sofatisch,
 legte die Pistole vor sich auf den Tisch und sagte:
 
 »Herr Drywater, es haben sich hier in der vergangenen
-Nacht Ereignisse abgespielt, die uns zur Vorsicht mahnen,
+Nacht Ereignisse abgespielt, die uns zur Vorsicht mahnen.
 Noch mehr mahnt mich hierzu die Tatsache, daß die Stempel
 auf den Briefmarken Ihres Briefes offenbar absichtlich
 durch Stempelfarbe unleserlich gemacht worden sind, so daß
 dies im Verein mit einer anderen Beobachtung von mir,
 nämlich der, daß der Brief ohne Zweifel geöffnet und wieder
-zugeklebt Norden ist, den Verdacht rechtfertigt, Sie könnten
+zugeklebt worden ist, den Verdacht rechtfertigt, Sie könnten
 <@pagebreak/>
 nicht Abraham Drywater, sondern ein Helfershelfer
 Evelyn Wilcswords sein, die an der Ermordung ihres
-jenes mit beteiligt ist und alle Ursache hat, uns viel!
-ade zu lieben. Vielleicht hat sie unter den Angestellten
+Mannes mit beteiligt ist und alle Ursache hat, uns nicht
+gerade zu lieben. Vielleicht hat sie unter den Angestellten
 Drywaters einen bezahlten Spion, der den Brief —«
 
-Abraham Drywater lachte schalten« und zwang Haft
+Abraham Drywater lachte schallend und zwang Harald
 so zum Schweigen, holte seine Brieftasche hervor und
-leitete vor Harald einen Paß mit abgestempelter Photographie
-und genauer Personalbeschreibung formte andere
-Papiere aus,
+breitete vor Harald einen Paß mit abgestempelter Photographie
+und genauer Personalbeschreibung sowie andere
+Papiere aus.
 
 »Da — prüfen Sie, Herr Harst,« meinte er schmunzelnd.
-Ich nehme Ihnen Ihr Mißtrauen nicht übel.«
+»Ich nehme Ihnen Ihr Mißtrauen nicht übel.«
 
-Der Paß und die Papiere waren zweifellos echt. Ehemann
-war Drywater.
+Der Paß und die Papiere waren zweifellos echt. Dieser
+Mann war Drywater.
 
-»So, man wäre die Sache ja geordnet,« lächelte auch
-Harald. »Steten Sie »ihre Papiere nur wieder ein. Und
-will ich. Sinnen auch gleich folgendes erklären: die ärmliche
-alte Familientasse hat John Wilcword sehr unheimlich
-in seiner Fabrik herstellen lassen. Die Chiffre-ift
-auf der Tasse ist seine Erfindung. Ich Bitte Sie, die
-esse uns recht bald zu bringen. Dann will ich Ihnen lesen,
-was ich hier soeben behazupiete,«
+»So, nun wäre die Sache ja geordnet,« lächelte auch
+Harald. »Stecken Sie ihre Papiere nur wieder ein. Und
+jetzt will ich Ihnen auch gleich folgendes erklären: die ärmliche
+alte Familientasse hat John Wilcword sehr wahrscheinlich
+in seiner Fabrik herstellen lassen. Die Chiffreschrift
+auf der Tasse ist seine Erfindung. Ich bitte Sie, die
+Tasse uns recht bald zu bringen. Dann will ich Ihnen beweisen,
+was ich hier soeben behauptete.«
 
 Drywater sprang wie elektrisiert auf.
 
-»Gut — ich hole sie, Herr Hart! In einer Stunde bin
-ch wieder hier.«
+»Gut — ich hole sie, Herr Harst! In einer Stunde bin
+ich wieder hier.«
 
-»Nun, So eilig ist Dies, gerade nicht. Geschleppt und ich
-Nächten erst noch ein paar Stunden schlafen. Wir haben
-da vierundzwanzig Stunden kein Auge zugetan, Wenn
-um drei Uhr nachmittags uns also besuchen wollten —«
+»Nun, so eilig ist dies gerade nicht. Schraut und ich
+möchten erst noch ein paar Stunden schlafen. Wir haben
+etwa vierundzwanzig Stunden kein Auge zugetan. Wenn
+Sie um drei Uhr nachmittags uns also besuchen wollten —«
 
-»Gern, — Da will ich auch nicht länger stören, meine
-deinen. — Hm — noch eine Frage: Sie glauben also wirklich,
+»Gern. — Da will ich auch nicht länger stören, meine
+Herren. — Hm — noch eine Frage: Sie glauben also wirklich,
 Herr Harst, daß der Brief unbefugt geöffnet worden
 ist?«
 
-»Ja, Dies kann nur in Neuyork geschehen sein. —
-he wissen Sie noch, wie der Brief zur Post gegeben
+»Ja. Dies kann nur in Neuyork geschehen sein. —
+Vielleicht wissen Sie noch, wie der Brief zur Post gegeben
 wurde?«
 
 <@pagebreak/>
-»Ich Schichte meinen Bürodiener mit dem Brief gleich
-zum Hafenpoftam.«
+»Ich schickte meinen Bürodiener mit dem Brief gleich
+zum Hafenpostamt.«
 
-»Dann ran nur dieser Diener ein Helfershelfer Dies
-Von Hilcworbe fein, a Drywater. Der Diener hat zu
-wahrscheinlich einen. Postbeamten, nachdem er den Brief
+»Dann kann nur dieser Diener ein Helfershelfer Evelyn
+Wilcwords sein, Herr Drywater. Der Diener hat auch
+wahrscheinlich einen Postbeamten, nachdem er den Brief
 kopiert hatte, bestochen, damit der Beamte die Briefstempel
-recht undeutlich machte, Die Verzögerung der Abstempelung
+recht undeutlich machte. Die Verzögerung der Abstempelung
 sollte verheimlicht werden.«
 
-Drywater rieb sich nachdenklich feine breite Nase,
+Drywater rieb sich nachdenklich seine breite Nase.
 
-»hm — der Bürodiener! Ja, ja, der Mensch bat schon
-manches befreien — harmlose Dummheiten! Da kann man
+»Hm — der Bürodiener! Ja, ja, der Mensch hat schon
+manches berissen — harmlose Dummheiten! Da kann man
 ihm auch eine größere Schurkerei zutrauen,« brummte der
 kleine Advokat.
 
 Dann verabschiedete er sich und bestieg sein Mietauto,
 das er draußen vor dem Hause hatte warten lassen.
 
-Harald aber sagte mir sofort gute Nacht und vors
-schwand in seinem Schlafzimmer.
+Harald aber sagte mir sofort gute Nacht und verschwand
+in seinem Schlafzimmer.
 
-Meine beiden Räume jenseits des Flurs hatte war
+Meine beiden Räume jenseits des Flurs hatte
 Mathilde inzwischen ebenfalls in Ordnung gebracht. Ich legte
-mich auf den Diwan und schlieft auch sehr bald ein,
+mich auf den Diwan und schlief auch sehr bald ein.
 
 <h2>3. Kapitel.</h2>
 <h3>Ein Beinbruch.</h3>
@@ -2448,7 +2452,7 @@ Sir, Herrn Habgier und Eid noch Sieben er Hegt
 besonders zu strafen, Zudem er scheinbar der Lasse das Geheimnis
 des Verbleibe der Diamanten anvertraute In
 vom einer Chiffreschrift, die nur zwei lesbare Silben aufwies.
-»Di—am« als Anfang des Wortes Diamanten! So
+»Di-am« als Anfang des Wortes Diamanten! So
 <@pagebreak/>
 wollte er Ihr Verlangen nach den verschwundenen Edelsteinen
 noch tieferen, wollte in Uhr Dasein die fiele Unlust
