@@ -2014,14 +2014,14 @@ feierten können, denn — er saß bereits am Schreibtisch
 und — verbrannte jetzt gerade einen Zettel über dem Wir
 Du,
 
-Auch schon munter?« meinte er, »Drywater wird
-pünktlich fein, ch bin auf die Tasse sehr Wenn Wenn
+»Auch schon munter?« meinte er, »Drywater wird
+pünktlich sein, ich bin auf die Tasse sehr Wenn Wenn
 <@pagebreak/>
 er sie nur nicht fallen läßt und sie zerschlägt. Es wäre
-he darum, Die Tasse ist n ihrer Art fraglos eine
-Rarität,«
+schade darum. Die Tasse ist in ihrer Art fraglos eine
+Rarität.«
 
-Was hast Du da eben verbrannt?« fragte ich miß-wish.
+»Was hast Du da eben verbrannt?« fragte ich mißtrauisch.
 »Etwa die Lösung der Chiffreschrift?«
 
 »Geraten!«
@@ -2030,7 +2030,7 @@ Was hast Du da eben verbrannt?« fragte ich miß-wish.
 
 »Du machst Dir Deine Sache zu bequem, mein Alter.
 grüble Dir nur selbst etwas den Nr! — Hier ist Drittens
-Brief,«
+Brief.«
 
 Zum Glück rief Mathilde uns jetzt zum Mittagessen.
 entging ich der ohne Zweifel zwecklosen Arbeit,
@@ -2043,13 +2043,13 @@ Dann jedoch schrillte das Telephon.
 Harald meldete sich, lauschte.
 
 »Gut, Herr Sanitätsrat, wir kommen,« sagte er nach
-er Weile und legte den Hörer auf die Stützen zurück.
+einer Weile und legte den Hörer auf die Stützen zurück.
 
 Darauf wandte er sich mir zu. »Drywater ist in der
 Hafenstraße ausgeglitten, hat sich ein Bein gebrochen und
-st in die Wohnung des Sanitätsrats Hohler, Birkenstr. 12,
+ist in die Wohnung des Sanitätsrats Hohler, Birkenstr. 12,
 geschafft worden. Der Sanitätsrat bat mich, wir sollten
-Ertappten dort besuchen. Er möchte mir die Tasse über
+Drywater dort besuchen. Er möchte mir die Tasse über-
 geben. Sie sei zum Glück bei dem Sturz ganz geblieben.«
 
 Er blätterte jetzt im Berliner Adreßbuch.
@@ -2057,11 +2057,11 @@ Er blätterte jetzt im Berliner Adreßbuch.
 »Ah — hier steht’s: Hohler, Friedrich, prall, Arzt,
 Sanitätsrat, Birkenstraße 12 Arg, 88 stimmt
 o, Es ist keine Falle unserer Gegnerin Eva! Denn —
-Bug ja eine Falle fein können. Eva-Evelyn weiß sicher,
+Bug ja eine Falle sein können. Eva-Evelyn weiß sicher,
 in dem Briefe stand, und weiß auch ohne Zweifel,
 braten Drywater jetzt in Berlin ist, vielleicht auch,
-laß er Schon bei uns wart, — Immerhin: Ortes
-Vorsichtig sein! Die Maste »als $ Telephonarbeiter haben
+daß er schon bei uns wart, — Immerhin: Ortes
+Vorsichtig sein! Die Maske als $ Telephonarbeiter haben
 lange nicht getragen. Also — vorwärts: umziehen!«
 
 Um halb fünf verließen zwei Telepbostarbeiter mit
@@ -2072,7 +2072,7 @@ das sich hier am Rande der Großstadt mit schmucken Gärtchen
 und wunderlichen Holzbuden hinzieht.
 
 Der größere, schlankere der beiden blieb dann plötzlich
-flehen und klopfte seine Holzpsecise an einem Zaun
+stlehen und klopfte seine Holzpfeife an einem Zaun
 Pforten aus.
 
 »Der Junge — hinter uns als Spion!« flüsterte er.
@@ -2081,11 +2081,11 @@ Pforten aus.
 Und Harst bog nun in einen der Querwege des Laubengeländes
 ein, bis wir am Schnittpunkt mit dem nächsten
 Längswege uns hinter einem unkrautumtwucherten
-Komposthaufen zusammenducken konnten,
+Komposthaufen zusammenducken konnten.
 
 Nun sah auch ich sehr bald den Jungen — den kleinen
 en dessen sich Eva Wilcword schon in Bombay bedient
-hatte
+hatte.
 
 Nun stand der kleine Halunke an der anderen Seite
 des Kompostberges und blickte sich verdutzt um, da er uns
@@ -2099,26 +2099,26 @@ Der Bengel schlug um sich.
 
 »Was wollen Sie von mir!« kreischte er.
 
-Harst drückte ihm die Hand auf den Mund,
+Harst drückte ihm die Hand auf den Mund.
 
-»Verhafte Dich ruhig, Joseph Gromper,« drohte er.
-»du wirft sonst sofort zur Polizei gebracht!«
+»Verhalte Dich ruhig, Joseph Gromper,« drohte er.
+»du wirst sonst sofort zur Polizei gebracht!«
 
-Das half. Der junge ließ sich ruhig mitnehmen. Wir
+Das half. Der Junge ließ sich ruhig mitnehmen. Wir
 führten ihn in das Harstsche Haus zurück und sperrten ihn
 in einen sicheren Kellerraum ein. —
 
-Dann fuhren wir mit der Elektrischen nach dem Tier
+Dann fuhren wir mit der Elektrischen nach dem Tier-
 aartenviertel, waren gegen halb sechs in der stillen Birkenstraße
 und sahen uns Nr. 12 erst mal von draußen an.
 
 Es war ein sehr altes Haus ohne die verunzierenden
 Vogelkäfige von Balkons, so ein recht behagliches Haus mit
-blanken Spiegelscheiben und einer reichgeshnißten Haustür.
+blanken Spiegelscheiben und einer reichgeschnitzten Haustür.
 
 Diese Haustür klang offen. Wir stiegen die Treppe
 <@pagebreak/>
-hi Im Hochpartéèrre links an der Flurtür ein Porzellanschild:
+hi Im Hochparterre links an der Flurtür ein Porzellanschild:
 
 > Hohler,
 
@@ -2126,18 +2126,18 @@ hi Im Hochpartéèrre links an der Flurtür ein Porzellanschild:
 
 > 9-11, 3-5, nicht Sonntage.
 
-Harfe läutete und sehr bald öffnete ein Stubenmädchen
+Harst läutete und sehr bald öffnete ein Stubenmädchen
 mit weißer Schürze und Häubchen.
 
 »Wir müssen mal die Leitung nachsehen, Fräulein,« erwarte
-Harst, »Das Telephonamt schickt uns,«
+Harst, »Das Telephonamt schickt uns.«
 
-Arten Sie. Ich muß erst Fragen, ob Sie den Herrn
+»Warten Sie. Ich muß erst Fragen, ob Sie den Herrn
 Buch nicht stören.«
 
 Sie schlug die Tür wieder zu.
 
-Harmlos!« meinte Harald ganz leise
+»Harmlos!« meinte Harald ganz leise.
 
 kann kam das Mädchen und sagte kurz:
 
@@ -2151,9 +2151,9 @@ Sie öffnete die zweite Tür linker Hand.
 Sie ließ uns eintreten. Es war das Sprechzimmer
 eines Arztes — man roch es!
 
-»Ost der Herr Sanitätsrat zu Hause?« fragte Harald.
+»Ist der Herr Sanitätsrat zu Hause?« fragte Harald.
 
-Das Mädchen nickte, »Ich werde ihn rufen.«
+Das Mädchen nickte. »Ich werde ihn rufen.«
 
 Harsts Blicke ruhten starr auf dem am linken Fenster
 stehenden Schreibtisch.
@@ -2167,7 +2167,7 @@ Ich war neben ihn getreten.
 
 Hinter uns ein Geräusch — eine Stimme:
 
-an | fällt Ihnen ein! Stellen Sie die Tasse wieder
+»Was fällt Ihnen ein! Stellen Sie die Tasse wieder
 
 Ein hagerer graubärtiger Herr mit Höldener Brille
 hatte uns dies empört zugerufen.
@@ -2184,13 +2184,13 @@ Seltsam: der alte Herr lächelte jetzt geradezu shenßlith.
 zu durchschauen, fällt gerade mir nicht schwer. Ich bin
 nämlich Verwandlungskünstler von Beruf!«
 
-Das war das lebte, was ich hörte.
+Das war das letzte, was ich hörte.
 
 Da mußten hinter den Fensterportieren zwei Leute gestanden
-haben, die uns jetzt bligichnel niederschlugen —
+haben, die uns jetzt blitzschnell niederschlugen —
 mit Sandsäcken — wie gestern abend.
 
-Der legte Eindruck, den ich empfing, bevor ich in tiefe
+Der letzte Eindruck, den ich empfing, bevor ich in tiefe
 Bewußtlosigkeit fiel, war der, daß kräftige Arme mich ums
 ne und mich langsam auf den Teppich nieder gleiten
 ließen.
@@ -2200,20 +2200,20 @@ als ich wieder zu mir kam, darüber konnte ich mir nicht klar
 werden. Erst später stellte sich heraus, daß ich etwa anderthalb
 Stunden besinnungslos gewesen.
 
-Ich kam also zu mir, — hilflos, wehrlos, gefesselt, ge-kfnebelt,
+Ich kam also zu mir, — hilflos, wehrlos, gefesselt, geknebelt,
 festgebunden auf einem alten hochlehnigen Röhre
 Sessel, der bei jeder Bewegung leise knarrte.
 
-Da mußte sich hinter mir eine Lampe befinden, &
+Da mußte sich hinter mir eine Lampe befinden,
 an der Wand. Ein mildes Licht fiel durch den Raum, Bus
 ein Zimmer mit vielen Stühlen an den Wänden.
 
 »Ein Wartezimmer!« blitzte in meinem trägen, schmerzenden
-Hirn ein Gedanke auf. »Das Wartezimmer Saale
+Hirn ein Gedanke auf. »Das Wartezimmer Saale-
 tâtsrat Horters!«
 
-Hohler —! Mit einem Sschlage wurden die jüngsten
-Ereignisse in meiner Erinnerung lebendig, — blikartiig —
+Hohler —! Mit einem Schlage wurden die jüngsten
+Ereignisse in meiner Erinnerung lebendig, — blitzartig —
 so, als ob man ein grell beschienenes Panorama sieht.
 
 Hohler! — Ja — wir beide, Harald und ich, waren
@@ -2221,10 +2221,10 @@ als Telephonarbeiter zu Hohler gegangen, weil Ubrahars
 Drywater uns hatte sprechen wollen — angeblich! —, weil
 er sich das Bein gebrochen haben sollte! So — so waren
 wir in diese Falle geraten. Wir waren nicht blindlings
-hineingetappt, nein, — wir hatten es an Vorsicht wahrlith
+hineingetappt, nein, — wir hatten es an Vorsicht wahrlich
 <@pagebreak/>
 nicht fehlen lassen! Aber — die Gegner waren noch
-Schlauer gewesen. Da hatte das Mädchen uns geöffnet —
+schlauer gewesen. Da hatte das Mädchen uns geöffnet —
 hatte die Tasse auf dem Schreibtisch gestanden! Da —
 diese Schurken hatten uns Motor daß sie derartige falten
 gut zu inszenieren wußten!
@@ -2234,28 +2234,28 @@ gen jetzt starr auf etwas Da vor mir gerichtet waren —
 etwas, das an der dunklen Tapete hing, oben mit einem
 hellen »Seh,
 
-löblich riß mein Gedankenfagden jäh entzwei.
+Plötzlich riß mein Gedankenfaden jäh entzwei.
 
-hielt den Atem an. Ich hatte das Etwas erkannt:
+Ich hielt den Atem an. Ich hatte das Etwas erkannt:
 Mensch hing da an der Wand in einer Schlinge, den
 Mund halb geöffnet, — ein verzerrtes fahles Totengesicht,
-die Augen geschlossen. — -
+die Augen geschlossen. —
 
 Träumte ich nur?! war ich noch gar nicht erwacht?!
 War das da wirklich Drywaters breite Nase, sein rötlicher,
 struppiger Bart und das borstige Haupthaar?!
 
-Ich blickte zur Seite, schloß die Lider. na
+Ich blickte zur Seite, schloß die Lider.
 
-Vertrete sie: —: das Bild blieb dasselbde. Dort hing.
+Vertrete sie: —: das Bild blieb dasselbde. Dort hing
 der tote Drywater — ein entsetzlicher Anblick, eine furchtbare
 Drohung für uns beide die wir uns in der Gewalt
 Eva Wilcwords befanden!
 
 Dann warnte rechts von mir ein Uhr Sessel.
 
-Mühsam drehte ich den Kopf: Harald saß da — Hilf
-los, wehrlos spie ich!
+Mühsam drehte ich den Kopf: Harald saß da — Hilf-
+los, wehrlos wie ich!
 
 Unsere Blicke trafen sich. Unsere Gesichter lagen im
 Schatten der hohen Rohrsessellehnen und der Kopfpolster.
@@ -2265,26 +2265,26 @@ ganz wenig?
 
 Eine plötzliche Uebelkeit als Folge der Gehirnerschütterung,
 eine Art Ohnmachtsanfall zauberte feurige Stern
-nahen anstelle des Muffiges meines fraglos,
+nahen anstelle des Muffiges meines fraglos.
 
-Der Anfall ging vorüber, Ich Dämpfte noch gegen das
+Der Anfall ging vorüber. Ich kämpfte noch gegen das
 Bestreben meines Magens, sich zu entleeren, als ein Schatten
-vor mir auf die hellen Dielen fiel,
+vor mir auf die hellen Dielen fiel.
 
 Eva Wilcword mußte he nk Sesseln gewartet
 <@pagebreak/>
 haben, bis wir erwacht waren, Nun zeigte sie sich, Wehte
-sich rechts auf einen der Stühle,
+sich rechts auf einen der Stühle.
 
-Es war Eva Wilcword, Sie trug jetzt freilich Männerkleider
-und eine weiche Mike, Die ihr Haar verbarg,
+Es war Eva Wilcword. Sie trug jetzt freilich Männerkleider
+und eine weiche Mike, Die ihr Haar verbarg.
 Aber dieses schmale Gesicht mit den großen Augen vergaß
-man nicht, wenn man 0s auch nur einmal gesehen halte,
+man nicht, wenn man es auch nur einmal gesehen hatte.
 Und ich — ich sah Eva legt zum dritten Male: Bombay,
 Westend-Villa, — jetzt hier in der Wohnung des Arztes!
 
 Die kalten großen Augen waren auf Harst gerichtet.
-Das Gesicht zeigte denselben hochmiütigen Zug wie in der
+Das Gesicht zeigte denselben hochmütigen Zug wie in der
 verflossenen Nacht.
 
 Die Augen wanderten dann nach rechts hin, wo der
@@ -2293,25 +2293,25 @@ arme Drywwater hing.
 Und kehrten zu uns zurück — ebenso langsam, wie
 Eva jetzt sagte:
 
-»Nun werden wir abrechnen, Herr Harsts Sie haben
-uns schwer geschädigt, besonders mich, Die Feigheit meist
-per Freunde schütte Sie gestern, Wäre es nach mir gegangen,
+»Nun werden wir abrechnen, Herr Harst. Sie haben
+uns schwer geschädigt, besonders mich. Die Feigheit meist
+per Freunde schützte Sie gestern. Wäre es nach mir gegangen,
 so hätte man Harald Harst und Max Schraut tot
 aus der Spree gezogen, dann würde der Geisterspiegel noch
-jetzt ihrem Bekannten Bechert ein Rätsel sein, dann Mär
+jetzt ihrem Bekannten Bechert ein Rätsel sein, dann wär-
 ren Luzie Wargenheim und die andern noch frei! Jetzt bin
-ich eine Verfolgte, jetzt sind mir die Wilewordschen Visite
-Kronen eniglittien — durch Ihre Schuld, Herr Harst! Und
+ich eine Verfolgte, jetzt sind mir die Wilcwordschen Visite
+Kronen entglitten — durch Ihre Schuld, Herr Harst! Und
 auch — Durch die Schuld Dieses da!« Sie zeigte mit gen
-ringfhöbiger Handbewegung auf Schlendere Leiche,
+ringfhöbiger Handbewegung auf Schlendere Leiche.
 
-Sie schwieg eine Weile,
+Sie schwieg eine Weile.
 
 Draußen auf der Birkenstraße marterte ein Motorrad
 vorüber, und der müde Husschlag eitel an
-klapperte auf dem harten Asphalt,
+klapperte auf dem harten Asphalt.
 
-Dann winkte Eva Wilcword,
+Dann winkte Eva Wilcword.
 
 Und hinter unseren Sesseln!am der falsche Sanitätsrat
 Holler hervor.
@@ -2319,16 +2319,16 @@ Holler hervor.
 Er ließ sich neben Eva nieder.
 
 »Herr Harst, dies ist Xaver Holdstein,« sagte das Weib
-in Ihrer monotonen Art, »Derselbe Holdstein, den die Po-ibehörden
+in Ihrer monotonen Art. »Derselbe Holdstein, den die Polizeibehörden
 <@pagebreak/>
-aller Länder seit Fahren suchen und natürlich
-finden. Wie sollten sie auch?! Holvdstein hat tausend
+aller Länder seit Jahren suchen und natürlich
+finden. Wie sollten sie auch?! Holdstein hat tausend
 Gesichter.«
 
-Holdstein kehrte da den Kopf von und ab, griff mit
-den Händen nach dem Gesicht, drehte den Fort zu uns bin.
+Holdstein kehrte da den Kopf von uns ab, griff mit
+den Händen nach dem Gesicht, drehte den Fort zu uns hin.
 
-Ich war verblüfft: er glich jetzt völlig einem ältliwen
+Ich war verblüfft: er glich jetzt völlig einem ältlichen
 Lager mit kurzem Schnurrbart, hatte einen dünnen Scherze
 und ein Monokel im schläfrigen Auge.
 
@@ -2339,11 +2339,11 @@ Und nun saß da ein Herr mit blondem Spitzbart und
 tiefer Glatze, eine Brille vor den kleinen Schweinsäuglein.
 
 »Xaver,« befahl Eva Wilcword jetzt, »bringe die
-Drähte an. »Dann zu uns, während Holdstein hinter unten
+Drähte an. Dann zu uns, während Holdstein hinter unten
 Sesseln verschwand:
 
 »Ich will Ihnen beiden die Knebel abnehmen, nach
-dem wir einige Vorfichtämaßregein getroffen haben. Sollten
+dem wir einige Vorsichtsmaßregeln getroffen haben. Sollten
 Sie um Hilfe zu rufen wagen, so wird bei dem ersten
 unlauteren Ton Ihr Lebensflämmchen erlöschen.«
 
@@ -2351,10 +2351,10 @@ Hinter uns begann ein tiefes Summen, steigerte sich,
 verstummte wieder: irgend ein elektrischer Apparat!
 
 Dann kam Holdstein und wickelte und ums Die rechten,
-der Brust feftaefnoteten Hände starken blanken Kupter-irabt,
+der Brust festgeknoteten Hände starken blanken Kupterdraht,
 dessen besponnener Teil sich unter den Sesseln nach
 Di schlängelte, Andere Drähte wickelte er uns um die
-Stirn,
+Stirn.
 
 »Fertig!« sagte er nun und trat wieder hinter die
 Sessel.
@@ -2362,11 +2362,11 @@ Sessel.
 Eva erhob sich und nahm uns die durch Bindfäden gestohlenen
 Knebel ab.
 
-Sie fette sich wieder.
+Sie setzte sich wieder.
 
 »Vielleicht werden wir handelseinig, Herr Harst,«
 Finte sie und entnahm einem silbernen Etui eine Zigarette,
-mündete sie an und fügte hinzu: »Wenn nicht, wird Xaver
+zündete sie an und fügte hinzu: »Wenn nicht, wird Xaver
 Stromkreis schließen, und Sie enden hier, wie in Ums
 ifa drüben die zum Tode Verurteilten enden.«
 
@@ -2377,7 +2377,7 @@ Da sagte Harst:
 
 »Ich weiß was Sie verlangen werden: ich soll die
 Chiffreschrift auf der Familientasse für Sie lösen! — Habe
-Ich recht? »
+Ich recht?»
 
 »Ja —!«
 
@@ -2392,61 +2392,61 @@ Entscheidung folgen soll.
 
 Eva Wilcword schien eine Antwort Harsts erwartet
 zu haben. Harst schwieg. Ich schaute ihn von der Seite an.
-Seine Blicke waren auf den armen Drywater gerichtet,
+Seine Blicke waren auf den armen Drywater gerichtet.
 Diese Blicke, starr und wie durch die Leiche hindurch in
-weite Fernen bringend, behielten auch dieselbe Richtung
-bei, als Eva nun sich wieder meldete,
+weite Fernen dringend, behielten auch dieselbe Richtung
+bei, als Eva nun sich wieder meldete.
 
-»Wir haben feine Veranlassung, hier vor Ihnen mit
+»Wir haben keine Veranlassung, hier vor Ihnen mit
 verdecken Karten zu spielen, Herr Harst.« Sie sprach
-etwas fürchtet, etwas nervös, Haralds fühle Gleichgültigkeit
-fehlen ihr unangenehm, zu sein, »Wir hatten unter
+etwas fürchtet, etwas nervös, Haralds kühle Gleichgültigkeit
+fehlen ihr unangenehm zu sein. »Wir hatten unter
 Drywaters Angestellten einen Spion, der —«
 
-»— der den Brief an mich öffnete, Der Spion war
+»— der den Brief an mich öffnete. Der Spion war
 der Bürodiener,« beendete Harald diese Erklärung.
 
-Sein Blick ruhte ]eßt auf Eva Wilcwords Antlitz. Und
-dieses Antlitz verriet Verwirrung, Staunen,
+Sein Blick ruhte jetzt auf Eva Wilcwords Antlitz. Und
+dieses Antlitz verriet Verwirrung, Staunen.
 
 Und Harst sprach weiter — mit spöttischer Ueberlegenheit:
 
-Sie müssen mich nicht zu betrügen suchen, Frau Wirr«
+»Sie müssen mich nicht zu betrügen suchen, Frau Wirr«
 Wilcword. Weshalb Sie uns in der verflossenen Nacht entkommen
 ließen, wurde mir klar, als ich Drywaters Brief gebratenes
 <@pagebreak/>
-Ei Ihr Spion in Neuyork hat Ihnen eine Abschrift
+Ihr Spion in Neuyork hat Ihnen eine Abschrift
 dieses Briefes gesandt, und dieses Schreiben erhielten Sie
 gestern abend. Da überlegten Sie sich die Sache anders, da
-wehten Sie erst Drywaters Ankunft planten, dessen ab.
+wehten Sie erst Drywaters Ankunft planten, dessen ab-
 reife Ihr Spion Ihnen gleichfalls mitgeteilt hatte. Sie
 wollten auch die Tasse in Ihren Besitz bringen — Vertrag
 Manier wegen. Wenn Sie die Tasse hätten, sollten auch
 wir wieder Ihnen nützlich sein. So erleichterten Sie uns
 die Flucht, entflohen selbst, denn — Ich sollte doch daheim
 Drywaters Brief in Empfang nehmen können und mir in
-Ruhe diese recht merkwürdige Dianrantengeschichte überlegen,
+Ruhe diese recht merkwürdige Diamantengeschichte überlegen,
 sollte — vielleicht! — gar den Spruch auf der Tasse
 schon entziffert haben, wenn Sie mich wieder — einfingen!
 — Ihr Spiel, Frau Wilcword, entbehrt nicht der Feinheiten.
-Leider aber haben Sie mich übershäßt. Die Chiffre
-Christ ist mir bisher noch genau so wie Ihnen ein Rätsel.«
+Leider aber haben Sie mich überschätzt. Die Chiffre-
+sChrist ist mir bisher noch genau so wie Ihnen ein Rätsel.«
 
 Ah — er log! Er kannte die Lösung bereits. Er
-wollte diese Schurken einwäiceln!
+wollte diese Schurken einwickeln!
 
-»Vielleicht, Frau Wilcword, — vielleicht hat die Auf
-tritt auf der Obertasse überhaupt feinen Sinn. Daß es
-keine »alle Familientasse« ist, wird Ihnen wohl selbst schon
-Star geworden sein. Ich nehme an, daß John Wilcword
-sie Hat herstellen Laffen, nachdem er sein Vermögen in Ehe
-angelegt hatte, die er dann irgenbiye vergraben ober
-versenkt Haben mag, um — Ihnen, die er haßte und verrate,
+»Vielleicht, Frau Wilcword, — vielleicht hat die Auf-
+tritt auf der Obertasse überhaupt keinen Sinn. Daß es
+keine »alte Familientasse« ist, wird Ihnen wohl selbst schon
+klar geworden sein. Ich nehme an, daß John Wilcword
+sie hat herstellen lassen, nachdem er sein Vermögen in Ehe
+angelegt hatte, die er dann irgendiye vergraben oder
+versenkt haben mag, um — Ihnen, die er haßte und verrate,
 diese Werte für alte Fälle zu entziehen. Er rede
 ordnete vielleicht mit einem Anschlag auf sein Leben. Er wußte,
-Tabak, falls er stürbe, Sie als Mutter der Erbin, der Heinen
+Tabak, falls er stürbe, Sie als Mutter der Erbin, der kleinen
 Inge, oefeglich Verwalterin des Riesenvermögens merken
-Würden, es sei denn, daß die Scheidung bereits vollzogen
+würden, es sei denn, daß die Scheidung bereits vollzogen
 war. Haß und Verachtung gaben ihm den Gedanken ein,
 Sir, Herrn Habgier und Eid noch Sieben er Hegt
 besonders zu strafen, Zudem er scheinbar der Lasse das Geheimnis
@@ -2455,34 +2455,34 @@ vom einer Chiffreschrift, die nur zwei lesbare Silben aufwies.
 »Di-am« als Anfang des Wortes Diamanten! So
 <@pagebreak/>
 wollte er Ihr Verlangen nach den verschwundenen Edelsteinen
-noch tieferen, wollte in Uhr Dasein die fiele Unlust
+noch tieferen, wollte in Ihr Dasein die fiele Unlust
 fruchtlosen Nachgrübelns über die Lösung des Spruches hineinpflanzen!
 — Schon Sie, so stelle ich mir den Zusammenhang
 vor! Ich kann mich täuschen — gewiß! Alles
-kann anders sein, aber ich glaube es nicht! »Es ist so! der
+kann anders sein, aber ich glaube es nicht! Es ist so! der
 Spruch ist eine sinnlose Aneinanderreihung von Marabu
 ist eine Strafe für Sie!«
 
-Eva Wilcword hatte sich vorgebeugt. Der eisige Hochs
+Eva Wilcword hatte sich vorgebeugt. Der eisige Hoch-
 Mut aus ihrem Gesicht war wie weggewischt. Enttäuschung,
 Aerger, Wut verrieten ihre Züge.
 
-»Sie meinen also, die Liamanten lassen sich nicht aufs
+»Sie meinen also, die Diamanten lassen sich nicht auf-
 finden?« stieß sie jetzt atemlos hervor. »Haben Sie denn
 bereits genügend versucht, den Spruch zu dechiffrieren?
 Haben Sie die Ueberzeugung gewonnen, daß eine ne
 nicht möglich ist?!
 
-»ich habe es versucht, gewiß«
+»Ich habe es versucht, gewiß«
 
 »Dann versuchen Sie’s nochmals.«
 
 Harst lachte auf. »Und wenn es gelänge?! Dann —
 dann würden Sie uns beide stumm machen, wie Drywater
-dort, würden die Diamanten holen und — Ihr Spiel ge
+dort, würden die Diamanten holen und — Ihr Spiel
 gewonnen haben!« —
 
-Jetzt begriff ich Haralds Taktik! er hatte Eva Wilc-ivlorb
+Jetzt begriff ich Haralds Taktik! er hatte Eva Wilcword
 vorerst nur die Ueberzeugung beibringen wollen, daß
 er bisher die Lösung nicht echt gefunden, sich aber auch in
 der Annahme, es handele sich bei dem Spruch lediglich um
@@ -2496,9 +2496,9 @@ werden!« meinte sie bedächtig. »Was geht es Sie
 schließlich an, ob wir in Besitz der Edelsteine gelangen!
 he und ihres Freundes Leben dürfte Ihnen wertvoller
 Da als der Belog uns die Diamanten vorenthalten zu
-haben.
+haben."
 
-»Vielleicht! — Ach möchte Ihnen einen Vorschlag
+»Vielleicht! — Ich möchte Ihnen einen Vorschlag
 <@pagebreak/>
 machen, Frau Wilcword. Sie verlassen mit Ihren Freunden
 diese Wohnung, die Sie wahrscheinlich in ähnlicher
@@ -2506,50 +2506,50 @@ Weise für Ihre Zwecke beschlagnahmt haben wie gestern
 Becherts Wohnung.«
 
 »Nein. Der Sanitätsrat hat sie heute an Holdstein
-für drei Wochen vermietet. Er ist ins Bad gereist,«
+für drei Wochen vermietet. Er ist ins Bad gereist.«
 
 »Nun — jedenfalls: Sie geben uns hier Gelegenheit,
-in Ruhe die Dechiffrierung nochmals zu versuczen. Wir
+in Ruhe die Dechiffrierung nochmals zu versuchen. Wir
 versprechen, nicht etwa die Kriminalpolizei anzulaufen und
-Sie zu verraten. Gelingt uns die Dechissriecrung, so werfe
-ich Ihnen einen Bette! mit dem Wortlaut der Lösung auf
+Sie zu verraten. Gelingt uns die Dechiffrierung, so werfe
+ich Ihnen einen Zettel mit dem Wortlaut der Lösung auf
 die Straße hinab. Dann sind wir beide frei, dann haben
 Sie jedoch noch 2 Stunden Zeit, bevor ich Ihre Verfolgung
-aufnehme, — Finde ich die Lösung nicht, und das wird sich
+aufnehme. — Finde ich die Lösung nicht, und das wird sich
 in spätestens einer Stunde entscheiden, wenn Schraut und
 ich gemeinsam daran arbeiten, so gebe ich Ihnen nach einer
 Stunde hier vom Fenster aus ein Zeichen — Winke mit der-Taschentuch.
 Auch dann sind wir frei. Auch dann sollen
 Sie noch zwei Stunden Ruhe vor mir haben. — Sie sehen,
 meine Vorschläge sind für beide Teile gleich günstig. Auf
-Andere Lasse ich Milch nicht ein. Ueberlegen Sie sich’s!«
+andere lasse ich mich nicht ein. Ueberlegen Sie sich’s!«
 
-Eva Wilcword stand auf und trat Hinter die Sessel.
+Eva Wilcword stand auf und trat hinter die Sessel.
 Sie flüsterte dort mit Holdstein. Dann kam sie wieder nach
-Dorn und fragte Harst:
+vorn und fragte Harst:
 
-»Gesetzt den Fall, Sie finden die Lösung und in Dies
+»Gesetzt den Fall, Sie finden die Lösung und in Die-
 ser das Versteck der Diamanten angegeben. Werden Sie
-dann war Ablauf der zwei Stunden sofort Schritte tun,
+dann vor Ablauf der zwei Stunden sofort Schritte tun,
 Eile Edelsteine in Sicherheit bringen zu lassen?«
 
 »Das ist wohl selbstverstänölich.«
 
 »Dann ist die Frist zu kurz. Verlängern Sie sie auf
-Wachs Stunden, und wir sind eng Wir wissen ja, daß
-Wir he Versprechen Halten erben. Was nun Tone
+sechs Stunden, und wir sind eng. Wir wissen ja, daß
+Wir he Versprechen halten werden. Was nun Tone
 ie Dechiffrierung nicht glückt, sind Die Diamanten ohnedies
 für uns wie für jeden andern verloren. Wir haben dann
 also kein Interesse mehr an ihrem Tode.«
 
-»Sechs Stunden?!« meinte Harald zögernd, »Sie verlangen
+»Sechs Stunden?!« meinte Harald zögernd. »Sie verlangen
 <@pagebreak/>
 sehr viel!« Er wiegte unschlüssig den Kopf hin und
-der. »Sagen wir vier Stunden, Frau Wileworb1» rot
-schied er kann,
+her. »Sagen wir vier Stunden, Frau Wilcworb!» rot
+schied er dann.
 
 »Nun gut — vier! Und — Sie verraten uns nicht,
-unternehmen jetzt nichts gegen und, wenn wir Sie losbinden?«
+unternehmen jetzt nichts gegen uns, wenn wir Sie losbinden?«
 
 »Nein — nichts! Nur — ich ie. daß As
 Vaters Leiche bleibt, wo sie ist!«
@@ -2562,46 +2562,46 @@ nur zurechtgeschminkt und mit einem Strick um die Boy
 der unter seinem Noch liegt, an die Wand gehängt. Die
 Schlinge um den Hals liegt ja ganz lose. Der Hals müßte
 viel länger gereckt sein, wenn Drywater feindlich aufgeknüpft
-worden wäre, — Ueberlassen Sie es uns, ihn herabzuheben.
+worden wäre. — Ueberlassen Sie es uns, ihn herabzuheben.
 Ich verspreche auch in seinem Namen das gleiche: kein Verrat
 und Einhalten der Frist! — Der Trick, Drywater dort
 an der Wand als ernste Mahnung für uns in Szene zu
-fegen, Echo — So — sind wir einig?«
+setzen, Echo — So — sind wir einig?«
 
 »Ja!«
 
 »Dann befreien Sie uns, geben Sie uns noch die
 Familientasse, die ich vielleicht bei der Dechiffrierung nötig
-Habe, und empfehlen Sie sich,«
+habe, und empfehlen Sie sich.«
 
 Ja an erschien neben Eva.
 
 »Wir haben also Ihr Ehrenwort, er. Harst?« fragte
-er. Buch für Schraut und Vermutet?«
+er. Auch für Schraut und Vermutet?«
 
 »Gewiß!« —
 
-He Minuten später wurde die Flurtilx, leise Zuge
+He Minuten später wurde die Flurtür, leise Zuge
 bricht
 
 Wir standen der Fesseln ledig und lauschten.
 
 Jetzt warne auch die Haustür unten geschlossen, Eva
 und Holdstein trafen gegangen. Nach einer Stunde solides
-sie sich wieder vor dem Hause einfinden So war es abgemacht,
+sie sich wieder vor dem Hause einfinden. So war es abgemacht.
 
 <@pagebreak/>
 Harald knöpfte seinen Kittel auf und sah na der
 Uhr.
 
-Es war fünf Minuten nach halb zehn,
+Es war fünf Minuten nach halb zehn.
 
 <h2>5. Kapitel.</h2>
 <h3>Als die Tasse fiel.</h3>
 
 »Durchsuche die Wohnung und schließe die Klaffte ab,«
-sagte ne dann, »Ich werde Drywater in Horters
-Sprechzimmer auf den Diwan tragen,«
+sagte ne dann. »Ich werde Drywater in Horters
+Sprechzimmer auf den Diwan tragen.«
 
 Drywater kam infolge Harsts Bemühungen nach zehn
 Minuten zu sich, stierte uns wild an und keuchte:
@@ -2612,7 +2612,7 @@ Er erkannte uns nicht.
 
 »Wir sind Harst und Schraut, und Sie sind tot, Herr
 Drywater,« entgegnete Harald gemütlich, nahm einen Spiegel
-von der Wand und hielt ihn dem Anwalt vor das lel-chenhaft
+von der Wand und hielt ihn dem Anwalt vor das leichenhaft
 geschminkte Gesicht.
 
 »Verdammt — wie sehe ich aus!« rief Abraham Drywater
@@ -2623,13 +2623,13 @@ Sie sich. Ich werde Ihnen erzählen, was hier passiert ist.«
 
 Drywater richtete sich dann mit einem Ruck auf.
 
-»Das dulde ich nicht!« sagte er wütend, »Niemals
+»Das dulde ich nicht!« sagte er wütend. »Niemals
 dulde ich es, daß Sie, falls Sie die Lösung finden, diesen
 Schuster den Zettel zuwerfen! Wie konnten Sie eine solche
 Abwechung mit diesen Halunken treffen?! Wie dürfen Sie
 John Wilcwords Edelsteine diesen Schurken ausliefern! —
 Ob Sie auch für mich das Versperrt en, diesen Pakt einzuhalten,
-abgegeben haben, ist mir sehr gleichgültig! ch
+abgegeben haben, ist mir sehr gleichgültig! Ich
 fühle mich dadurch nicht gebunden. Ich —«
 
 Er schwieg. Haralds Lächeln brachte ihn aus kein
@@ -2642,15 +2642,15 @@ Interessen hier wahrzunehmen!«
 
 Harst legte ihm begütigend die Hand auf den Arm.
 
-»Warten« Sie doch erst mal ab, Herr Drywater! Ich
+»Warten Sie doch erst mal ab, Herr Drywater! Ich
 habe zwei Trümpfe im Spiel, von denen Sie nichts ahnen,
 — Wie hat man Sie denn hierher gelockt?«
 
-»Oh — man telephonierte mich um zwei Uhr nachhalf
+»Oh — man telephonierte mich um zwei Uhr nachhalf-
 tags im Hotel an. Angeblich waren Sie’s, Herr Harst. Sie
-jagten mir, ich solle hier zu Sanitätsrat Hohler mit der
-Tasse kommen — sofort! Sie hätten sich: ein Bein gebrochen
-und lägen hier im Gipsverband, Ich fiel auch darauf rein,
+sagten mir, ich solle hier zu Sanitätsrat Hohler mit der
+Tasse kommen — sofort! Sie hätten sich ein Bein gebrochen
+und lägen hier im Gipsverband. Ich fiel auch darauf rein,
 fuhr her und wurde schon im Wohnungsflur von zwei sterben
 überwältigt. Nachher haben sie mich chloroformiert, Die
 Schufte. — So — wie steht’s nun mit Ihren Trümpfen?«
@@ -2664,27 +2664,27 @@ ein Herr Harst, oder ich läute die Polizei an!«
 
 Harald blieb fest. »Wenn ich Ihnen sage, daß wir
 mit Hilfe dieser Trümpfe die Partie gewinnen werden,
-dann ist es so! Und wenn Sie nicht tun, was ich ch will,
-werten Sie Sohn Wilcwords Edelsteine nie finden, Also
-seien Sie hübsch verständig, Herr Drywater.“-
+dann ist es so! Und wenn Sie nicht tun, was ich will,
+werden Sie John Wilcwords Edelsteine nie finden. Also
+seien Sie hübsch verständig, Herr Drywater.<<
 
 Er zog abermals seine Uhr.
 
-»Wir Haben noch 25 Minuten Zeit. Nach zwanzig wie
-Minuten werde i© ihnen zeigen, wie man den Spruch auf
-der Halse entziffert. — Sprechen wir von etwas anderem
+»Wir Haben noch 25 Minuten Zeit. Nach zwanzig
+Minuten werde ich Ihnen zeigen, wie man den Spruch auf
+der Tasse entziffert. — Sprechen wir von etwas anderem
 bis dahin.« —
 
-Die Zeit war um Harald holte die Obertasse. vom
-Schreibtisch und fette sich neben Drywater auf den Diwan.
+Die Zeit war um Harald holte die Obertasse vom
+Schreibtisch und setzte sich neben Drywater auf den Diwan.
 
-»Die Sache ist gar nicht so schwierig,« begann er. »Lohn
-Wilecword hat Durch den Anfang des Wortes »Diamant«
+»Die Sache ist gar nicht so schwierig,« begann er. »John
+Wilecword hat durch den Anfang des Wortes »Diamant«
 oder »Diamanten«, jedenfalls durch die Silben »Di« und
 »am« einen Anhalt für die Dechiffrierung gegeben. — he
-traten wir mal die auf »Siam« folgenden fünf Buchstaben.
+traten wir mal die auf »Diam« folgenden fünf Buchstaben,
 <@pagebreak/>
-auf die dann ein Komma folgt. — Oh schreibe auf diesen
+auf die dann ein Komma folgt. — Ich schreibe auf diesen
 Zettel:
 
 > brummige,
@@ -2719,8 +2719,8 @@ bringt die Lösung:
 > Tasse Dahin, und Du wirst klüger sein!«
 
 »Das hätte ich nie rausgekriegt!« meinte Abraham
-Drywater ehrlich, »Offen gesagt: die Lösung ist eine böse
-Enttäuschung für mich, Was heißt Das; »— so lasse die
+Drywater ehrlich. »Offen gesagt: die Lösung ist eine böse
+Enttäuschung für mich. Was heißt Das; »— so lasse die
 Tasse Hallo« —?!«
 
 Harald erwiderte nichts, ging zum Schreibtisch und
@@ -2738,7 +2738,7 @@ Ich schaltete die Krone aus, und Drywater und Ich ne
 ten neben so an das ene Fenster.
 
 <@pagebreak/>
-Harald hatte den Zettel in der Rechten, in der Linsen
+Harald hatte den Zettel in der Rechten, in der Linken
 die dicke, plumpe Obertasse.
 
 Wir sahen unten vor dem Hause eine Dame und einen
@@ -2764,7 +2764,7 @@ tausend Scherben zerschellte.
 Lachend drehte er ich nach uns um:
 
 »Meine Schuld ist es nicht, daß die beiden mit dem halben
-Geheimnis jetzt davonsausen! Ich wollte ihnen Die Tasse
+Geheimnis jetzt davonsausen! Ich wollte ihnen die Tasse
 mit auf den Weg geben! —Schraut — Licht! Dann hinab
 auf die Straße!«
 
@@ -2774,10 +2774,10 @@ lag da ein — ein rundes Stück Silberblech.
 Das hob Harald auf.
 
 »Dies hier ist das Geheimnis der Tasse,« meinte er
-schmunzelnd, »Als ich sie in der Hand hatte, bevor wir
-miedergeschlagen wurden, hielt ich sie gegen das Licht, Sie
+schmunzelnd. »Als ich sie in der Hand hatte, bevor wir
+miedergeschlagen wurden, hielt ich sie gegen das Licht. Sie
 war dich, aber feinstes, durchsichtiges Porzellan. Nur der
-Boden, sah ich, war undurchsichtig. in den Boden war
+Boden, sah ich, war undurchsichtig. In den Boden war
 also etwas mit einaefchntolgen — dieses Stück Silberblech!
 Deshalb auch Wilcwords Weisung, man solle die Tasse
 fallen lassen.« —
@@ -2788,20 +2788,20 @@ Silberblech folgendes tief eingekratzt:
 > »im Garten meines Hauses in der Lincolnstraße
 im hintersten Winkel der Tropfsteingrotte ein Meter in
 <@pagebreak/>
-der Erde liegen meine Diamanten, die ich dem scheute,
+der Erde liegen meine Diamanten, die ich dem schenke,
 der sie findet. Hoffentlich findet sie niemand.«
 
 »Ich habe sie gefunden — für Inge Wilcword,« sagte
 Harald kurz. »Bohrers wir jetzt zu mir nach Hause. Nun
-kommt nach hier Stunden Frist der zweite Trumpf heran!«
+kommt nach vier Stunden Frist der zweite Trumpf heran!«
 
 Nach vier Stunden, im fünf Minuten nach hab drei
-morgens, gingen wir zu unserem Heinen Gefangenen in den
-Fehler hinab.
+morgens, gingen wir zu unserem kleinen Gefangenen in den
+Keller hinab.
 
-Alles war zwischen uns genau vereinbart krochen.
-Joseph Gromper wurde nach oben in Haralds Arbeitszinms
-wer gebracht. Er bekam zu offen und zu trinken. Harst ließ
+Alles war zwischen uns genau vereinbart worden.
+Joseph Gromper wurde nach oben in Haralds Arbeitszim-
+wer gebracht. Er bekam zu essen und zu trinken. Harst ließ
 ihn dann eine Weile allein. Ich wartete schon mit Spitzbarts
 Da auf der Straße, jeder ein Fahrrad bereit
 haltend.
@@ -2809,12 +2809,12 @@ haltend.
 Der kleine Bengel sprang denn auch wirklich zum Fenster
 hinaus, entfloh.
 
-Wir blieben unbemerkt Hinter ihm, Wir hofften, daß
-éx uns zu dem Unterschlupf Eva Wilcwords führen würde.
+Wir blieben unbemerkt hinter ihm. Wir hofften, daß
+er uns zu dem Unterschlupf Eva Wilcwords führen würde.
 
-Der Junge machte nach halbsiünviger Wanderung in
+Der Junge machte nach halbstündiger Wanderung in
 der Krummen Gasse in Charlottenburg vor einem älteren
-Hause mit nièévrigen Parterxefenftern halt und klopfte hier
+Hause mit niedrigen Parterrefenstern halt und klopfte hier
 an den Rolladen des eines Fensters.
 
 Der Rolladen wurde sofort etwas hochgezogen.
@@ -2827,8 +2827,8 @@ blonden Mädchens.
 So — fanden wir John Wilcwords Tochter, fanden
 aber im übrigen das Nest leer. Eva, Holdstein und die
 engem noch auf freiem Fuße befindlichen Mitglieder der
-Bande Hatten bereits das Weite gesucht und Inge in den
-beiden hier gemieteten Zimmern allein gelassen, Da das
+Bande hatten bereits das Weite gesucht und Inge in den
+beiden hier gemieteten Zimmern allein gelassen. Da das
 Fing ihnen mir noch lästig gewesen wäre. —
 
 Hiermit dann ich als Gab! der Wiegt Das
