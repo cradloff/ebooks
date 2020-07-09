@@ -158,7 +158,7 @@ ihm eine Depesche gereicht.
 
 Harst öffnete sie, las und rief dann leise:
 
-»ich nehme die Bezeichnung Albernheit zurück. Kriminalkommissar
+»Ich nehme die Bezeichnung Albernheit zurück. Kriminalkommissar
 Bechert telegraphiert hier:
 
 Harald Harst, Bombay, Excelsior, nachsenden.
@@ -396,7 +396,7 @@ Der Hoteldirektor erschien dann persönlich bei uns, entschuldigte
 sich, wurde von Harald zum Platznehnmen aufgefordert
 und leise ausgeforscht.
 
-»Wer wohnt über uns?« fragte Harst,
+»Wer wohnt über uns?« fragte Harst.
 
 Der geschmeidige Herr sah seine Liste ein.
 
@@ -1149,7 +1149,7 @@ Schleier, die einen Teil dieser Verbrechen und ihrer Begleitumstände
 so unklar hatten erscheinen lassen. —
 
 Das Auto hielt vor Eisenacherstr. 150. Wir stiegen aus,
-Harst bezahlte von Chauffeur, und dann gingen wir langsam
+Harst bezahlte den Chauffeur, und dann gingen wir langsam
 die Straße hinab.
 
 Kurz vor Nr. 170 begegneten wir einem alten weißbärtigen
@@ -1187,7 +1187,7 @@ erdolcht, als das Spukbild zufällig die Armbewegung
 machte. Bei der Spannung, mit der alle auf den Spiegel
 blickten, ist der Dolchstoß allen entgangen. Aber — wer
 der Mörder sein mag — es kommen ja zwanzig Personen
-in Betracht, ließ ich nicht ergründen. Der einzige der Teilnehmer,
+in Betracht, ließ sich nicht ergründen. Der einzige der Teilnehmer,
 der den Milliardär persönlich kannte, war Doktor
 Tolkin, ein bekannter Arzt, den Wilcword hier konsultiert
 hatte. Tolkin kam mit ihm gelegentlich in ein Gespräch
@@ -1206,7 +1206,7 @@ noch unaufgeklärt.«
 
 <@pagebreak/>
 »Nur ganz flüchtig. Er hat Wilcword jedoch Tolkin
-als Arzt empfohlen,«
+als Arzt empfohlen.«
 
 »Aha! Also das ist der Zusammenhang: Battenham
 wußte, daß Tolkin bei der Wargenheim aus und ein geht,
@@ -1215,7 +1215,7 @@ dieser den Milliardär bei der Wargenheim einführte!
 Sehr fein!«
 
 Bechert blickte jetzt scharf nach einem kleinen Herrn aus,
-der sich langsam näherte,
+der sich langsam näherte.
 
 »Es ist Tolkin,« meinte er.
 
@@ -1263,7 +1263,7 @@ wir das Summen zahlreicher Stimmen.
 
 Harst zog mich rasch wieder von dieser Tür weg.
 Bechert hatte uns gesagt, daß das »Geisterzimmer« eins der
-Hinterzimmer sei,
+Hinterzimmer sei.
 
 Wir fanden die Türen unverschlossen. Die dritte, die
 wir öffneten, führte in den Geisterraum hinein.

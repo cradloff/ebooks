@@ -56,7 +56,7 @@ durch das Halten von Pensionären, wobei Ihr die geräumige
 Wohnung sehr von Vorteil war. Sie hatte weder
 von ihrem Bruder Herbert noch von ihrer Stiefschwester
 Eva seit Jahren etwas gehört. Mit der nach dem Weltkriege
-ständig steigender Teuerung wurde Luzie Wargenheims
+ständig steigenden Teuerung wurde Luzie Wargenheims
 pekuniäre Lage immer schwieriger. Ihre nur dürftig
 <@pagebreak/>
 ausgestattete Wohnung eignete sich nicht zum Vermieten
@@ -362,7 +362,7 @@ und den eingebrannten Spruch beherzigen. — John
 Wilcword.«
 
 <@pagebreak/>
-Es fanden sich denn auch wirklich in den Tresor sowohl
+Es fanden sich denn auch wirklich in dem Tresor sowohl
 die zehn Millionen für mich, als auch Wertpapiere
 im Betrage von 52 Millionen und die erwähnte Familientasse
 vor.
@@ -406,11 +406,12 @@ herausfand. Ich schreibe den merkwürdigen »Spruch«
 hier ab:
 
 <@pagebreak/>
+
 > Utchssueddidiamnntae, oslfaeedst
 
 > Aestfanlfl, nudnditrwfleükgfneri!
 
-Die vier Buchstaben »Diam« habe ich unterstrichen,
+Die vier Buchstaben »Diam« habe ich unterstrichen.
 
 Meine Bemühungen, diese Geheimschrift (es muß sich
 um eine solche handeln!) zu entziffern, waren ergebnislos.
@@ -472,7 +473,7 @@ als ich mir überlegte, daß es doch wohl richtiger
 sei, mit Ihnen persönlich zu sprechen. Ich reiste also mit
 dem nächsten Steamer nach Europa. Hätte ich Sie hier
 nicht angetroffen, wäre ich Ihnen bis Indien gefolgt, denn
-— für eine Milliarde Edelsteine ist doch keine Kleinigkeit,«
+— für eine Milliarde Edelsteine ist doch keine Kleinigkeit.«
 
 »Allerdings nicht. — Haben Sie die Familientasse
 mitgebracht?«
@@ -928,7 +929,7 @@ unlauteren Ton Ihr Lebensflämmchen erlöschen.«
 Hinter uns begann ein tiefes Summen, steigerte sich,
 verstummte wieder: irgend ein elektrischer Apparat!
 
-Dann kam Holdstein und wickelte und um die rechten,
+Dann kam Holdstein und wickelte uns um die rechten,
 auf der Brust festgeknoteten Hände starken blanken Kupferdraht,
 dessen besponnener Teil sich unter den Sesseln nach
 hinten schlängelte. Andere Drähte wickelte er uns um die
@@ -1096,7 +1097,7 @@ Sie jedoch noch 2 Stunden Zeit, bevor ich Ihre Verfolgung
 aufnehme. — Finde ich die Lösung nicht, und das wird sich
 in spätestens einer Stunde entscheiden, wenn Schraut und
 ich gemeinsam daran arbeiten, so gebe ich Ihnen nach einer
-Stunde hier vom Fenster aus ein Zeichen — Winke mit dem
+Stunde hier vom Fenster aus ein Zeichen — winke mit dem
 Taschentuch. Auch dann sind wir frei. Auch dann sollen
 Sie noch zwei Stunden Ruhe vor mir haben. — Sie sehen,
 meine Vorschläge sind für beide Teile gleich günstig. Auf
@@ -1338,7 +1339,7 @@ Und nun — nun geschah das Seltsame — Unglaubliche:
 Harst schleuderte die Tasse auf die Straße, wo sie in
 tausend Scherben zerschellte.
 
-Lachend drehte er ich nach uns um:
+Lachend drehte er sich nach uns um:
 
 »Meine Schuld ist es nicht, daß die beiden mit dem halben
 Geheimnis jetzt davonsausen! Ich wollte ihnen die Tasse
@@ -1372,7 +1373,7 @@ der sie findet. Hoffentlich findet sie niemand.«
 Harald kurz. »Fahren wir jetzt zu mir nach Hause. Nun
 kommt nach vier Stunden Frist der zweite Trumpf heran!«
 
-Nach vier Stunden, um fünf Minuten nach hab drei
+Nach vier Stunden, um fünf Minuten nach halb drei
 morgens, gingen wir zu unserem kleinen Gefangenen in den
 Keller hinab.
 
@@ -1391,20 +1392,20 @@ er uns zu dem Unterschlupf Eva Wilcwords führen würde.
 Der Junge machte nach halbstündiger Wanderung in
 der Krummen Gasse in Charlottenburg vor einem älteren
 Hause mit niedrigen Parterrefenstern halt und klopfte hier
-an den Rolladen des eines Fensters.
+an den Rolladen des einen Fensters.
 
 Der Rolladen wurde sofort etwas hochgezogen.
 
 Wir sahen im offenen Fenster den Kopf eines kleinen
 blonden Mädchens.
 
-»Inge!« fütterte Drywater. »Inge Wilcword!«
+»Inge!« flüsterte Drywater. »Inge Wilcword!«
 
 So — fanden wir John Wilcwords Tochter, fanden
 aber im übrigen das Nest leer. Eva, Holdstein und die
 übrigen noch auf freiem Fuße befindlichen Mitglieder der
 Bande hatten bereits das Weite gesucht und Inge in den
-beiden hier gemieteten Zimmern allein gelassen. Da das
+beiden hier gemieteten Zimmern allein gelassen, da das
 Kind ihnen nur noch lästig gewesen wäre. —
 
 Hiermit kann ich die Geschichte der Wilcwordschen Familientasse
