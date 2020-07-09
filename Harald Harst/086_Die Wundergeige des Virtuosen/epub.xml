@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">bcadb8d2-a2b7-11ea-b608-3361c336f3cd</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Wundergeige des Virtuosen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">86</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Wundergeige des Virtuosen.
+
+Wir wohnten als Gäste bei Miß Olivia Bennerton, deren Zwillingsschwester Daisy von Harst hier in großmütigster Weise geschont worden war, obwohl sie uns aus verwerflicher Goldgier ernsthaft nach dem Leben getrachtet hatte. (Vergl. den vorigen Band Das blinde Hindumädchen).
+
+Zwischen den Schwestern, die Waisen waren, bestand seit vielen Jahren keinerlei Verbindung mehr. Miß Olivia hatte nur noch dem Namen nach eine Schwester.
+
+Drei Tage waren jetzt seit jener Nacht vergangen, als Harst vor dem Affenkäfig in den Kellerräumen des schönen Bungalow Miß Olivias der Abenteurerin Daisy warnend zugerufen hatte: »Kreuzen Sie nie wieder meinen Weg!« — Wir hatten über diese Vorgänge nicht mehr gesprochen.
+
+Daisy Bennertons Ende.
+
+Der stumme Künstler hatte uns bedeutet, daß er sein Erlebnis uns schriftlich schildern würde. Am Nachmittag erschien er dann im Bungalow Olivia Bennertons und überreichte Harst ein paar eng beschriebene Bogen Papier.
+
+Inzwischen hatte Inspektor Webster uns bereits seinen Anteil an diesem Erlebnis und die Vorgänge hier in Lucknow, die damit zusammenhingen, eingehend erzählt.
+
+Ich gebe zunächst Iwannows Schilderung stark gekürzt wieder. —
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (086) Die Wundergeige des Virtuosen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

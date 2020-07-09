@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">69beeec0-93c6-11ea-8705-df57440c398d</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das blinde Hindumädchen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">85</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das blinde Hindumädchen.
+
+»Es ist heute morgen nach dem Regen etwas kühler.  Wir könnten einen Spaziergang unternehmen,« sagte Harald Harst zu mir, als wir uns vom Frühstücktisch erhoben.
+
+Wir weilten damals seit Tagen in dem wundervollen Prachtbau von Burg eines der eigenartigsten Menschen, dem wir je begegnet waren, eines Mannes von seltener Energie, kaufmännischem Scharfblick und abenteuerlichem Unternehmungsgeist. Leider waren ja die Charaktermerkmale Hektor Olgerdyns mit diesen vorzüglichen Eigenschaften nicht erschöpft, wie dem Leser des vorigen Bandes noch in Erinnerung sein dürfte. Dieser weitschauende Begründer der größten Kamelzüchterei Zentralindiens, dieser geschmackvolle Erneuerer der uralten Radschputenburg Tallamara, mitten in der Thar-Wüste gelegen, war nebenbei einer der gefährlichsten Störenfriede der öffentlichen Ordnung und Sicherheit. Daß ihn schließlich die Büchsenkugel Lord Allan Breßforts tot niedergestreckt hatte, war immerhin für ihn ein anständigeres Ende als etwa der ihm gebührende Hanfstrick des Henkers.
+
+Die Träume der Miß Bennerton.
+
+Wir atmeten wie befreit auf, als wir aus der dumpfen Luft dieser Ruinenbehausung wieder in den strahlenden Nachmittagssonnenschein hinaustraten.
+
+Harald hielt den aus einem Notizbuch ausgerissenen Zettel der Namenlosen noch in der Hand.
+
+Er prüfte jetzt die Schriftzüge.
+
+»Die reine Männerhandschrift,« meinte er. »Steil, schmucklos, dick auslaufende Grundstriche: energischer, herrschsüchtiger Charakter, etwas zur großen Pose neigend, ehrgeizig, stets bestrebt, irgendwie eine Rolle zu spielen! — Das wäre also unsere neueste Gegnerin, mein Alter. Suchen wir sie.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (085) Das blinde Hindumädchen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
