@@ -4,50 +4,50 @@
 
 <h2>1. Kapitel.</h2>
 
-Sporifretinbe werden sich noch der großen Erregung In
-Geniere und Nupderfreifen erinnertbie vor einem Jahr
+Sportfreunde werden sich noch der großen Erregung in
+Segler- und Ruderkreisen erinnern, die vor einem Jahr
 durch die rätselhaften Diebstähle auf und am Wannsee bei
 Berlin hervorgerufen wurde.
 
-Fatale gab es Zaum ein Klubhaus, Darin eine Jacht,
+Damals gab es kaum ein Klubhaus, kaum eine Jacht,
 kaum ein Wohnschiff, die nicht in den Frühjahrswochen
-ausgeplündert Bleiben und dies mit einer Frechheit, Kies
-sichtölofigkeit und einem Geschick, von denen die Behörden
-ebenso verblüfft waren, die sich ihre Machtmittel zur Uhr-
-terbintbiing dieses Treibens einer offenbar tadellos geistigem
-Eitbrecherbande als unzulänglich erwiesen.
+ausgeplündert wurden und dies mit einer Frechheit,
+Rücksichtslosigkeit und einem Geschick, von denen die Behörden
+ebenso verblüfft waren, die sich ihre Machtmittel zur
+Unterbindung dieses Treibens einer offenbar tadellos geleiteten
+Einbrecherbande als unzulänglich erwiesen.
 
 Wir, Harst und ich, waren damals mit einer anderen
-Hebeininienoten Sache derart beschäftigt, laß- wir darin
-Zeit fanden, einen Eid in die Zeitungen zu werfen. Diese
-Bellachinis so R in Anspruch nebmende myse1idse Angelegen-tit,
+geheimnisvollen Sache derart beschäftigt, daß wir kaum
+Zeit fanden, einen Blick in die Zeitungen zu werfen. Diese
+uns so stark in Anspruch nehmende mysteriöse Angelegenheit,
 die ich in dieser Zusammenstellung von Harald Harsts
-tbenieitetn leider nicht aufnehmen kann, da politische
-Ginge dabei miterlebten, war am 15, Mai glüetlith erledigt.
+Abenteuern leider nicht aufnehmen kann, da politische
+Dinge dabei mitspielten, war am 15. Mai glücklich erledigt.
 Die Schuldigen saßen in Untersuchungshaft, und wir beide
-sanften nach dieser Hepjaab wieder etwas Lust schöpfen.
+konnten nach dieser Hetzjagd wieder etwas Luft schöpfen.
 
-Harald bitte ver alten Köchin feiner Mutter am 16.
+Harald hatte der alten Köchin seiner Mutter am 15.
 abends strenge Anweisung gegeben, jeden Besucher in den
-ttachfien drei Tagen erbarmiminslos abzuweisen so in WW
-— Häfen, wir seien noch in Petersbutg.
+nächsten drei Tagen erbarmungslos abzuweisen und zu erklären,
+wir seien noch in Petersburg.
 
-Am 16, morgens acht Uhr kam ich in den großen Ge-miüfegarten,
+Am 16. morgens acht Uhr kam ich in den großen Gemüsegarten,
 <@pagebreak/>
-der sich hinter dem Harstschen Familierthause
+der sich hinter dem Harstschen Familienhause
 bis an ein Laubengelände hinzieht.
 
 Ich hatte mit Frau Auguste Harst, Haralds Mutter,
 auf der Veranda Kaffee getrunken und meine mütterliche
 Freundin hatte mir erklärt, Harald sei bereits im Garten
-mit Kalken der Obstbäume beschäftigt, Er hatte mit dieser
+mit Kalken der Obstbäume beschäftigt. Er hatte mit dieser
 Arbeit bereits gestern begonnen, gleich nach unserer Rückkehr
 aus Rußland.
 
 Ich schlenderte den Hauptweg entlang. Nachdem ich
 die großen Fliederbüsche umgangen hatte, sah ich Harald
 vor dem ältesten und dicksten unserer Kirschbäume stehen,
-den Kalkpinsel in der Rechten, im Mundwinkel die bereut
+den Kalkpinsel in der Rechten, im Mundwinkel die leicht
 qualmende Mirakulum.
 
 Er stand und starrte regungslos auf den prächtigen,
@@ -56,9 +56,9 @@ glatten Stamm, den er schon gestern abend geweißt hatte.
 Sein feines energisches Profil hob sich scharf gegen den
 hellen Hintergrund des Baumes ab.
 
-Wie so oft dachte ich jetzt, welch prächtige imponierenbe
-Erscheinung mein Freund selbst in dem bestreiten Arbeitsanzug
-Doch war.
+Wie so oft dachte ich jetzt, welch prächtige imponierende
+Erscheinung mein Freund selbst in dem befleckten Arbeitsanzug
+doch war.
 
 Er hatte meine Schritte gehört und sagte, ohne sich
 zu regen:
@@ -71,8 +71,8 @@ Ich wurde aufmerksam. Wie kam Harald ausgerechnet
 auf den König von Siam?! Und — wer hatte den Weg zu
 ihm gefunden?
 
-vla Un1willkürlih folgte ich der Richtung seiner starren
-e.
+Unwillkürlich folgte ich der Richtung seiner starren
+Blicke.
 
 Da — die zweite Ueberraschung: in die Kalkschicht der
 Baumrinde war offenbar mit einer glatten Nadel etwas
@@ -84,146 +84,146 @@ Pinsel hier am Kirschbaum stehen lassen, und da hat der
 <@pagebreak/>
 Zeichner dieser Skizze wohl gehofft, ich würde die Skizze
 morgen bemerken. Hieraus geht wieder hervor, daß
-Eltern abend bei der Unklarheit beobachtet worden bin.
-verstehst: Hätte ein Gärtner die Bäume hier gehofft,
-Erde ver »Zeichner« kaum damit haben rechnen Dünnen,
-sein Werk beachtet würde. Aber er sah mich mit dem
-el hantieren, sah, daß ich Eimer und Pinsel hier zunächst,
+ich gestern abend bei der Kalkarbeit beobachtet worden bin.
+Du verstehst: hätte ein Gärtner die Bäume hier gekalkt,
+würde der »Zeichner« kaum damit haben rechnen können,
+daß sein Werk beachtet würde. Aber er sah mich mit dem
+Pinsel hantieren, sah, daß ich Eimer und Pinsel hier zurückließ,
 und wartete, bis es dunkel und der Kalk getrocknet
 war. Dann ging er an die Arbeit.«
 
-8b trat näher und besichtigte die Zeichnung.
+Ich trat näher und besichtigte die Zeichnung.
 
-Hm, was mag das darstellen sollen, Harald?«
+»Hm, was mag das darstellen sollen, Harald?«
 
-»Den Wannsee, mein Alter. Dies hier ist die Bohrte«
-Berlin-Wannsee, dies die Autorenubahn, dies her
-Vorort Nicolassee, hier die Brühe, Die den Großen und
-»Kleinen Wannsee trennt, und die —« — er machte eine
-je.
+»Den Wannsee, mein Alter. Dies hier ist die Bahnlinie
+Berlin-Wannsee, dies die Autorennbahn, dies der
+Vorort Nicolassee, hier die Brücke, die den Großen und
+Kleinen Wannsee trennt, und die —« — er machte eine
+Pause.
 
-Ich bücke mich.
+Ich bückte mich.
 
-»Ah, — Dies ist ein Kreide am Westende des Kleinen
-Wannsees, ein Kreuz mitten im Wasser, und drei runde
-gierte Linien führen Auge Nord, Süd und West von den
-Kern zu dem Kreuz. Neben den punktierten Linien stehen
+»Ah. — Dies ist ein Kreuz am Westende des Kleinen
+Wannsees, ein Kreuz mitten im Wasser, und drei punktierte
+Linien führen aus Nord, Süd und West von den
+Ufern zu dem Kreuz. Neben den punktierten Linien stehen
 Zahlen.«
 
-»Stimmt — Zahlen! Also steten die Linien Folgerungen
-dar. Das Kreuz Liegt nach der Skizze 80 Meter
-Westufer, 17 Meter Dom Nordufer und 200 Mieter vom
-hattet entfernt. Dort, wo die Linien das Ufer treffen,
-Kind einzelne Bäume angedeutet, wahrscheinlich sehr hohe
-Name, die man leicht findet. Das wäre alles. Das heißt:
-acht alles, denn der »Zeichner«, um auch Dies zu erwähnen,
-ist ein Weib mit sehr Beinen zierlichen Füßen gewesen, ein
-shblondes Weib mit tadellos gepflegten Händen und Die
-in silbernen Handtaschen von jenen. Beheba« ¿
+»Stimmt — Zahlen! Also stellen die Linien Entfernungen
+dar. Das Kreuz liegt nach der Skizze 80 Meter
+vom Westufer, 17 Meter vom Nordufer und 200 Meter vom
+Südufer entfernt. Dort, wo die Linien das Ufer treffen,
+sind einzelne Bäume angedeutet, wahrscheinlich sehr hohe
+Bäume, die man leicht findet. Das wäre alles. Das heißt:
+nicht alles, denn der »Zeichner«, um auch dies zu erwähnen,
+ist ein Weib mit sehr kleinen zierlichen Füßen gewesen, ein
+aschblondes Weib mit tadellos gepflegten Händen und einem
+silbernen Handtäschchen von feinem Geflecht.«
 
 Ich war über diese Angaben keineswegs überrascht.
-»Wer Haralds Freund und steter Begleiter ist, gewöhnt sich
-das Staunen bald ab. Und ich hatte nun bereits uns
-fahre Mann das SF zu verlernen und anderes
+Wer Haralds Freund und steter Begleiter ist, gewöhnt sich
+das Staunen bald ab. Und ich hatte nun bereits fünf
+Jahre Zeit gehabt, das Staunen zu verlernen und anderes
 <@pagebreak/>
-hinzuzulerneti, so etwas her Haralds seiner ins!.
+hinzuzulernen, so etwas von Haralds feiner Kunst.
 
-Ich besichtigte also der Flogen ui den Warnt herum.
-Sehr bald fand ich auch die Fußspuren derartiger, Ah
-forttrug, das war ein beweisen, Schnabel Stiefel, ein die
-je! mit Gummiabfäpen, die ohne Baue Ran 1h Anreize
-schlagen waren, drum an eitlen Stelle hatte sich dieser Mbfay
-so scharf In einer Nalffäche abocnfidt wie ein Stempel
-Ich konnte sogar entsichern, bar die Gunnmiabsäye bei
-Namen »Adens« trugen. | je
+Ich besichtigte also den Boden um den Baum herum.
+Sehr bald fand ich auch die Fußspuren der Zeichnerin.
+Allerdings, das war ein winziger, schmaler Stiefel, ein Stiefel
+mit Gummiabsätzen, die ohne Frage ganz frisch untergeschlagen
+waren, denn an einer Stelle hatte sich dieser Absatz
+so scharf in einer Kalklache abgedrückt wie ein Stempel.
+Ich konnte sogar entziffern, daß die Gummiabsätze den
+Namen »Ideal« trugen.
 
-Neben dem Baume in einer anderen Malftache aber
-sah ich ein feines Gitterimfter eingepreßt Hier halbe die
-Frau ihr Handtäschchen niedergelegt gehabt. Mr
+Neben dem Baume in einer anderen Kalklache aber
+sah ich ein feines Gittermuster eingepreßt. Hier hatte die
+Frau ihr Handtäschchen niedergelegt gehabt.
 
-Harald faule jetzt: »Zwei aschblonde Harren Hörnern
-da in der rissigen Rinde, lieber Schraut, He war windig
-in der Nacht, und da Hat der niwillige Wind sie Dort festgeklemmt,
-Hier aber in der Kalkschiicht des Monokel hat die
-Frau den Abdruck ihrer linken Hand zurüctgelasseit, als sie
-sich an den Stamm flüchte. Du siehst, daß die Fingernägel
-sehr lang und spie geschnitten waren. Die Nägel haben mit
-winzige Punkte hervorgerufen. Die Hätte der ran rot
-sprechen den Füßen: klein, schmal, wolilgesörmi. Diese
-Frau ist noch jung und fportgeibt, Sie hat dort links den
-Zaum überklettert und ist von oben herabgesprungen Die
-Spuren ihrer Kletterpartie zeigen, daß ihr dies fehlte Mühe
+Harald sagte jetzt: »Zwei aschblonde Härchen hängen
+da in der rissigen Rinde, lieber Schraut. Es war windig
+in der Nacht, und da hat der mutwillige Wind sie dort festgeklemmt.
+Hier aber in der Kalkschicht des Baumes hat die
+Frau den Abdruck ihrer linken Hand zurückgelassen, als sie
+sich an den Stamm stützte. Du siehst, daß die Fingernägel
+sehr lang und spitz geschnitten waren. Die Nägel haben nur
+winzige Punkte hervorgerufen. Die Hände der Frau entsprechen
+den Füßen: klein, schmal, wohlgeformt. Diese
+Frau ist noch jung und sportgeübt. Sie hat dort links den
+Zaun überklettert und ist von oben herabgesprungen. Die
+Spuren ihrer Kletterpartie zeigen, daß ihr dies keine Mühe
 gemacht hat.«
 
 »Das wären also die Tatsachen,« meinte ich. »Nun
-kommt Die Theorie,«
+kommt die Theorie.«
 
-»Noch nicht alle Tatsachen, mein Alter Gestern abend
+»Noch nicht alle Tatsachen, mein Alter. Gestern abend
 im Bett las ich noch die angesammelten Zeitungen. Auf
-dem Wannsee haust feil vierzehn Tagen eine Diebesbattde.
-Du kannst die Artikel nachher birchfehen. Diese Diebstähle
-könnten mia dieser Skizze ist Zuüsämnmenhang seh
+dem Wannsee haust seit vierzehn Tagen eine Diebesbande.
+Du kannst die Artikel nachher durchsehen. Diese Diebstähle
+könnten mit dieser Skizze in Zusammenhang stehen.«
 
-»Sah! Inwiefern?«
+»So?! Inwiefern?«
 
-»Das wirft Du in der kommenden Nacht schon merken,
-Wir werden unsere Erholungstage in Wagnisse zubringen. »
+»Das wirst Du in der kommenden Nacht schon merken.
+Wir werden unsere Erholungstage in Wannsee zubringen.«
 
 »Nette Erholungstage werden das sein!«
 
 <@pagebreak/>
-»Fraglos, mein Alter, Und interessante, Die Artikel
-Aber Die Diebstähle verraten mir so manches, Man muß
-Huf ab kombinieren willen, - Ron’, rüsten wir und für
-Wannsee, Diese Skizze habe ich bereits abgezeichnet, Das
-Blatt liegt in meiner Brieftasche. Wir werden als schwe-DN
-Vergnügungérei ne in Wannsee uns einmieten, als
-Schwedische Gäste sind in Deutschland stets beliebt
-gewesen.«
+»Fraglos, mein Alter. Und interessante. Die Artikel
+über die Diebstähle verraten mir so manches. Man muß
+nur zu kombinieren wissen. — Komm’, rüsten wir uns für
+Wannsee. Diese Skizze habe ich bereits abgezeichnet. Das
+Blatt liegt in meiner Brieftasche. Wir werden als schwedische
+Vergnügungsreisende in Wannsee uns einmieten, als
+Maler. Schwedische Gäste sind in Deutschland stets beliebt
+gewesen.« —
 
-Um zehn Uhr verliehen zwei blondbärtige Herren mit
-würdigen Sornbrilfen das Harstsche Haus durch den Gar
-ten, bogen, ihre Koffer tragend, in den Weg am Zaudernd
+Um zehn Uhr verließen zwei blondbärtige Herren mit
+würdigen Hornbrillen das Harstsche Haus durch den Garten,
+bogen, ihre Koffer tragend, in den Weg am Laubengelände
 entlang ein und nahmen am Ende der Blücher
-Fraße ein Auto, das sie zum Bahnhof Charlottenburg
-achte,
+Straße ein Auto, das sie zum Bahnhof Charlottenburg
+brachte.
 
-Die beiden Herren tappten Harst und meine Wenigkeit,
-Max Schraut, ehemals Schmierenfkomödiant, jetzt Freund
-und Privatsekretär einer Weltberühmtheit,
+Die beiden Herren waren Harst und meine Wenigkeit,
+Max Schraut, ehemals Schmierenkomödiant, jetzt Freund
+und Privatsekretär einer Weltberühmtheit.
 
 <h2>2. Kapitel.</h2>
 
-Die schschwedisschen Maler Hörgar und Schlottgör mieteten
-am Nordufer des Kleinen Wannsees bei der verwite-weten
-Frau Oberwachtyeister Müllbrodt zwei Zimmer im
+Die schwedischen Maler Hörgar und Schlottgör mieteten
+am Nordufer des Kleinen Wannsees bei der verwitweten
+Frau Oberwachtmeister Müllbrodt zwei Zimmer im
 Erdgeschoß des bescheidenen Häuschens, zahlte für acht
 Tage voraus und mieteten naher ebenfalls für acht Tage
-von einem Bootsverleiher eine hübsche Jolle, hinterleusen
-als Sicherheit eine stattliche Summe und dursten die Jolle
+von einem Bootsverleiher eine hübsche Jolle, hinterlegten
+als Sicherheit eine stattliche Summe und durften die Jolle
 daher an dem zum Garten der Frau Müllbrodt gehörigen
-ist Vootésleg vertäuen, Sie sprachen das Deutsche etwas sehe
-fehlerhaft, machten aber einen so vertrauenerweckenden- Eine
-daß selbst der mirrishe Verwalter des Klubhauses
+Bootssteg vertäuen. Sie sprachen das Deutsche etwas
+fehlerhaft, machten aber einen so vertrauenerweckenden Eindruck,
+daß selbst der mürrische Verwalter des Klubhauses
 das Seglervereins Poseidon, den sie von ihrer Jolle aus
-nachmittags Anlagen mit ihnen eine bafbftimdine Unter-basing
-führte, bei der Solange:-Harst den braven Dann gehörig
+nachmittags ansprachen, mit ihnen eine halbstündige Unterhaltung
+führte, bei der Hörgar-Harst den braven Mann gehörig
 <@pagebreak/>
-über Die näheren Winkt. ıde des vorgestern Im Klubhause
-begangenen Einbruchs « ushorchte.
+über die näheren Umstände des vorgestern im Klubhause
+begangenen Einbruchs aushorchte.
 
-Dran segelten wir weite,
+Dann segelten wir weiter.
 
-Der überaus scharfe Wachhund der Poseidon-Leute ist
+»Der überaus scharfe Wachhund der Poseidon-Leute ist
 also ebenfalls erwürgt worden, ohne vorher großen Lärm
-verübt zu haben,« meinte Hat: ld nachdenklich, »Es ist der
-vierte Hund, der so von den Lieben beseitigt wurde. Und
+verübt zu haben,« meinte Harald nachdenklich. »Es ist der
+vierte Hund, der so von den Dieben beseitigt wurde. Und
 auch diesmal haben die Diebe die Hälfte der Ehrenpreise
-des Klubs stehen lassen, obwoh! es alles wertvolle Bot
-Sachen waren. Sehr merkwürdig.«
+des Klubs stehen lassen, obwohl es alles wertvolle Silbersachen
+waren. Sehr merkwürdig.«
 
 »Gewiß. Weshalb nahmen sie nicht alles mit? War
-ihnen die Beute zu wo, zu schlecht wegzufichleppen?«
+ihnen die Beute zu schwer, zu schlecht wegzuschleppen?«
 
 Harald antwortete nicht.
 
@@ -232,334 +232,334 @@ Wannsee.
 
 Jacht an Jacht lag hier verankert. Ein Dampfer der
 Stern-Gesellschaft rauschte vorüber — mit einem Verein an
-Bord, mit fröhlichen Wer sehen, alle den Maitaumel in den
+Bord, mit fröhlichen Menschen, alle den Maitaumel in den
 Augen.
 
-Und Aber dem wart: und villenumkränzten See die
-strahlende Sonne; das Fr’ibad Wannsee bereits überfüllt.
-Männlein und Weiblein un Badetrikot drängten sich dort
+Und über dem wald- und villenumkränzten See die
+strahlende Sonne; das Freibad Wannsee bereits überfüllt.
+Männlein und Weiblein im Badetrikot drängten sich dort
 am hellen Ufer zusammen — eine Symphonie der Lebenslust,
 des Lebenstriebes.
 
-Da sagte Harst vom Steuer der in feiner träumerischen
-Ruhe?
+Da sagte Harst vom Steuer her in seiner träumerischen
+Ruhe:
 
-»Du wirft drüben in Nicolassee aussteigen und eine
+»Du wirst drüben in Nicolassee aussteigen und eine
 Wäscheleine von dreißig Meter Länge kaufen, ebenso ein
-Dutzend starke Hechtangelbaken und Draht.«
+Dutzend starke Hechtangelhaken und Draht.«
 
-Das war wie ein eisiger Gut für meine um,
+Das war wie ein eisiger Guß für meine Stimmung.
 
 Meine Gedanken kehrten zu der Skizze und unserem
 Vorhaben zurück. Wie durch einen Blitzstrahl war mir jetzt
 die Erkenntnis gekommen, daß wir in der Nacht an der
 durch das Kreuz bezeichneten Stelle im Kleinen Wannsee
 mit der Leine und den Hechthaken nach irgend etwas angeln
-Blinden, das auf beim Grunde des Sees ruhte.
+würden, das auf dem Grunde des Sees ruhte.
 
 <@pagebreak/>
-Haräalo hatte mein Gesicht beobachtet und sprach vor
+Harald hatte mein Gesicht beobachtet und sprach vor
 sich hin — gleichsam als Ergänzung meiner Gedanken:
 
 »Nach der Beute!«
 
-Ich hauchte ihn an — verwirrt, fast vollkommen. lila
-weilen ivar’& mir fast unheimlich, wie gut er meine je
-banden erriet
+Ich schaute ihn an — verwirrt, fast beklommen. Bisweilen
+war’s mir fast unheimlich, wie gut er meine Gedanken
+erriet.
 
 »Also nach der Beute!« wiederholte ich unwillkürlich.
 
-»Sag, mein Alter, nach der Diebesbeute. Nach den gestohlenen
-Alubpreifen, nach den Bechern und Pokalen, den
-silbernen Gefttüslern und —«
+»Ja, mein Alter, nach der Diebesbeute. Nach den gestohlenen
+Klubpreisen, nach den Bechern und Pokalen, den
+silbernen Sektkühlern und —«
 
 Er schwieg plötzlich, scheinbar ohne Grund.
 
-Aber meine Augen sorgten nun der Richtung der feinen.
+Aber meine Augen folgten nun der Richtung der seinen.
 
-Da kam eine Motorjacht daher, ein bligfauberes, elegantes
-Föhrzeua.
+Da kam eine Motorjacht daher, ein blitzsauberes, elegantes
+Fahrzeug.
 
 Am Steuer eine Dame im Seglerdreß — aschblond,
-jung, er
+jung, totenblaß.
 
-By — wie vergrämt sie aussah! Und doch wie wage
-108 beim Blick streifte uns, Wir waren Luft für sie,
+Oh — wie vergrämt sie aussah! Und doch wie maßlos
+stolz. Kein Blick streifte uns. Wir waren Luft für sie.
 
-Die Jacht fuhr sehr genarrt, Der Wassershwalch hinter
-— Uhr ließ unsere Jolle tanzen.
+Die Jacht fuhr sehr schnell. Der Wasserschwalch hinter
+ihr ließ unsere Jolle tanzen.
 
-»Ein seltsamer Name,« meinte Kanal nun.
+»Ein seltsamer Name,« meinte Harald nun.
 
-Da rauche mir erst klar, daß ich ja ebenfalls den Namen
-der schlanken Sacht gelesen hatte:
+Da wurde mir erst klar, daß ich ja ebenfalls den Namen
+der schlanken Jacht gelesen hatte:
 
 > Hagen von Tronje!
 
 Schulerinnerungen tauchten auf — Nibelungensage —
 der finstere Hagen von Tronje, der erbarmungslose, Werkzeug
-der Rache eines blutlüsternen Pfeiles!
+der Rache eines blutlüsternen Weibes!
 
 »Allerdings — ein merkwürdiger Name für eine Jacht,«
 nickte ich.
 
-»uns *das* Gesicht der Frau!« murmelte Harald.
+»Und *das* Gesicht der Frau!« murmelte Harald.
 
 Dann legte er plötzlich das Steuer herum. Unsere
-Jolle neigte sich unter dem Winodruck, schoß dann hinter
-der Molorieuht drein, die freilich den Gilt: Verlangt Betritt
+Jolle neigte sich unter dem Winddruck, schoß dann hinter
+der Motorjacht drein, die freilich den Brückenkanal bereits
 passiert hatte.
 
 Als wir wieder in den Kleinen Wannsee gelangt waren,
-Nun wir lange nach ihr Ausschau halten, bevor wir
+mußten wir lange nach ihr Ausschau halten, bevor wir
 <@pagebreak/>
-sie entdecken. Sie lag am @üdufer unweit einer neuen
-kleinen, blendend weiß Anno Anlegebrücke vor Anker.
+sie entdeckten. Sie lag am Südufer unweit einer neuen
+kleinen, blendend weiß gestrichenen Anlegebrücke vor Anker.
 Von der blassen Frau war nichts mehr zu sehen.
 
 Die Brücke gehörte offenbar zu einer ebenfalls neuen
-Villa, die oben auf der Userhöhe zwischen Buchengrün hervorlugte.
+Villa, die oben auf der Uferhöhe zwischen Buchengrün hervorlugte.
 Eine Holztreppe schlängelte sich von da oben zur
-Usfermauer hinab. In der Mauer war eine Pforte, Durch
-die man auf die Anlegebrücke kam. die Pforte war geschlossen.
-Auf der Jacht Hagen von Tronje regte sich nichts,
+Ufermauer hinab. In der Mauer war eine Pforte, durch
+die man auf die Anlegebrücke kam. Die Pforte war geschlossen.
+Auf der Jacht Hagen von Tronje regte sich nichts.
 
 Wir kreuzten zum Nordufer hinüber, vertäuten unsere
 Jolle am Bootssteg unserer Wirtin und fanden diese im
-Garten bei ihren Eparaelbeeten beschäftigt.
+Garten bei ihren Spargelbeeten beschäftigt.
 
-Die Frau Oberwachtmeister Umdreht war einer Unterhaltung
+Die Frau Oberwachtmeister Müllbrodt war einer Unterhaltung
 nicht abgeneigt. Harald kam sehr bald auf die
-neue Villa drüben am Südufer zu sprechen,
+neue Villa drüben am Südufer zu sprechen.
 
 »Ach — die!« sagte die alte hagere Frau wegwerfend.
 »Die gefällt Ihnen, Herr Hörgar? — Kriegsschieber!«
 
 Wie verächtlich das klang.
 
-»Ripplow heißt Vorbesitzer, Fritz Ripplow! Eine
-Schande ist’s, daß der hier in Wannsee sich Hingeprotzt hat.«
+»Ripplow heißt der Besitzer, Fritz Ripplow! Eine
+Schande ist’s, daß der hier in Wannsee sich hingeprotzt hat.«
 
 Hingeprotzt — nicht schlecht gesagt! Ein Protz, der
-sich irgendwo Winzig unsanft, Prost sich) hin! — Ich lächelte.
+sich irgendwo protzig ankauft, protzt sich hin! — Ich lächelte.
 
 Harst blieb ernst.
 
 »Der Ruf des Herrn ist also nicht gut?« meinte er.
 
-»Bul — gut?! Miserablicht is er!« steigerte die Frau
-Gendarmerieoberwachtmeister sich. »Drei Monate bat er
+»Gut — gut?! Miserablicht is er!« ereiferte die Frau
+Gendarmerieoberwachtmeister sich. »Drei Monate hat er
 in Untersuchungsöhast gesessen. Aber der is schlauer als
 alle Staatsanwälte. Den haben sie wieder laufen lassen
-müssen, Kanonen soll er nach der Polackei verschoben haben,
+müssen. Kanonen soll er nach der Polackei verschoben haben,
 und so mit Landesverrat war auch was dabei.«
 
 Harst blickte durch die Bäume über den im Sonnenlicht
-Birnen See zu der Villa hinüber.
+gleißenden See zu der Villa hinüber.
 
-Da sehe ich eine Dame im Garten,« sagte er lebhafter.
-»Wohl Nipplows Frau?«
+»Da sehe ich eine Dame im Garten,« sagte er lebhafter.
+»Wohl Ripplows Frau?«
 
-Er log. Von einer Dame dar feine Spur zu bemerken,
+Er log. Von einer Dame war keine Spur zu bemerken.
 Aber er erreichte seinen Zweck.
 
 <@pagebreak/>
 »Ne, der alle Schieber is Witwer und hat nur eine
 Tochter,« erklärte die Witwe sofort. »Das arme Ding kann
-einem Leidtun, Herr Hölzer, Mit dem Ripplow is nicht
-zu spaßen,«
+einem leidtun, Herr Hörgar. Mit dem Ripplow is nicht
+zu spaßen.«
 
-»inwiefern denn, Frau Müllbrodt?«
+»Inwiefern denn, Frau Müllbrodt?«
 
 »Na, da darf keiner mucksen, auch die Irene nicht. Sie
-ist übrigens da in Asien wo gehören, in so Gnom Neger-ftaat.
-— Zahm oder so ähnlich beißt das Land,«
+ist übrigens da in Asien wo gehören, in so ’nem Negerstaat.
+— Saim oder so ähnlich heißt das Land.«
 
-»Sie meinen wohl Siam, liebe Frau Miülbrodt!«
+»Sie meinen wohl Siam, liebe Frau Müllbrodt!«
 
-Ah — Siam — Siam! — Ob horchte auf, Harald
-»hatte ja heute morgen den König von Sinn in eine Be-merkfung
-mit eingeflochten, War das ein Zufall gewesen?
+Ah — Siam — Siam! — Ich horchte auf. Harald
+hatte ja heute morgen den König von Siam in eine Bemerkung
+mit eingeflochten. War das ein Zufall gewesen?
 Oder hatte er bereits gewußt, daß die »Zeichnerin« diese
-Irene Ripplow gewesen und daß sie in Siam das sich«
-der Welt endlich hatte? —
+Irene Ripplow gewesen und daß sie in Siam das Licht
+der Welt erblickt hatte? —
 
 »Ja — ja! Siam — Siam! Das ist’s!« rief unsere
-Wirtin hastig. »Der Nipplow war dort in jungen Fahren
-als Kaufmann tätig. Seine Villa drüben soll ganz voll-nerropft
-mit A aus mieden Kram sein. Und Viehzeug
-hält er sich, sag’ ich Ihnen, Herr Hörgar, — Schlangen,
+Wirtin hastig. »Der Ripplow war dort in jungen Jahren
+als Kaufmann tätig. Seine Villa drüben soll ganz vollgepropft
+mit allerlei ausländischem Kram sein. Und Viehzeug
+hält er sich, sag’ ich Ihnen, Herr Hörgar; — Schlangen,
 Affen, zwei Panther und all so ’ne gruseligen Biester.«
 
 Harald rauchte gedankenvoll ein paar Züge aus seiner
 Mirakulum.
 
 »Er hat hier wohl gar keinen Verkehr?« meinte er nun,
-»indem er sich bückte und einen Spargelfovyf Breiteste.
+indem er sich bückte und einen Spargelkopf freilegte.
 
-»Der?! Nein! Wer rauche mit den: verlebten! All
-feine Bekannten haben sich von ihm zur»lossagen.«
+»Der?! Nein! Wer würde mit dem verkehren! All
+seine Bekannten haben sich von ihm zurückgezogen.«
 
-Harald nahm das Spargelmesser und schallt den Spargel
-fkunstgerecit ab.
+Harald nahm das Spargelmesser und schnitt den Spargel
+kunstgerecht ab.
 
 Dann gab er Frau Müllbrodt allerlei gute Ratschläge,
-wie man die gestochenen Spargel am besten seist erhielte.
+wie man die gestochenen Spargel am besten frisch erhielte.
 Das Thema Ripplow war für ihn erledigt. Er wußte
-eben wahrscheinlich genmug.
+eben wahrscheinlich genug.
 
 Als wir dann unser Wohnzimmer betraten, als Harst
-As in einen der alten Rannen ans war’s und behaglich
+sich in einen der alten hohen Rohrsessel warf und behaglich
 <@pagebreak/>
-die Beine weit von sich streckte, fragte ich, indem wt mich
-dicht vor ihm aus pflanzte;:
+die Beine weit von sich streckte, fragte ich, indem ich mich
+dicht vor ihm aufpflanzte:
 
-»Ist Sirene Ripplow die Zeichnerin?«
+»Ist Irene Ripplow die Zeichnerin?«
 
 Er lächelte mich an.
 
 »Hast Du’s also gemerkt?«
 
-»Ja. Der König von Siam machte mich Willig.«
+»Ja. Der König von Siam machte mich stutzig.«
 
-Da faßte er in die Tasche, holte seine elegante rechten«
-Brieftasche hervor und reichte mir ein Elfenbeinstäbchen,
-das an einem Ende spie zulief, während das andere sich
-verbreiterte und entzücfsonde Schnikereien zeigte,
+Da faßte er in die Tasche, holte seine elegante Juchtenbrieftasche
+hervor und reichte mir ein Elfenbeinstäbchen,
+das an einem Ende spitz zulief, während das andere sich
+verbreiterte und entzückende Schnitzereien zeigte.
 
 »Dies Stäbchen fand ich neben dem Kirschbaum, mein
 Alter.«
 
-»Ja — ein siamesisches Eßstäbchen!« nickte ich, Und je
-ran wußte ich, wie er auf den Ironischen Siam gelommien
-Vi
+»Ja — ein siamesisches Eßstäbchen!« nickte ich. Und
+nun wußte ich, wie er auf den König von Siam gekommen
+war.
 
-»Man hat es zum Standen der Zeichnung berührt,«
-meinte er berfon®n. »Und dann verlor man es. In
-kam 283 mir in Die Hände, Ich glaube, wir gehen nie!
-fehl, wenn wir nach alledem annehmen, daß Irene Ri, y-low
-gestern nacht bei uns im Gemiüfenarten war.«
+»Man hat es zum Einritzen der Zeichnung benutzt,«
+meinte er versonnen. »Und dann verlor man es. So
+kam es mir in die Hände. Ich glaube, wir gehen nicht
+fehl, wenn wir nach alledem annehmen, daß Irene Ripplow
+gestern nacht bei uns im Gemüsegarten war.«
 
-Ich setzte mich in den andern Rohrsessel,
+Ich setzte mich in den andern Rohrsessel.
 
 Harald sprach weiter: »Ich weiß, Du willst jetzt mit
-Fragen über mich herfallen, Du wirft mich) darauf auf«
+Fragen über mich herfallen. Du willst mich darauf
 aufmerksam machen, daß ein Mann von dem Reichtum dieses
-Klavier es nicht nötig hat, Einbrecher zu spielen. Spare
+Ripplow es nicht nötig hat, Einbrecher zu spielen. Spare
 Dir das alles und hole uns die Leine, die Hechthaken und
-den Draht. Ich habe anderes zu tun, ch umsehe die aus
-geplünderten »Klubhäuser besuchen, werde als Schwede Interesse
+den Draht. Ich habe anderes zu tun. Ich werde die ausgeplünderten
+Klubhäuser besuchen, werde als Schwede Interesse
 für deren Einrichtung heucheln und dabei alles erfahren,
-was ich zu wissen wünsche. Der Fall ver Baum-«
-rizidenzeidnung liegt für mich ziemlich war. ch möchte
-mir meine Theorie nur noch von anderer Seite« bestätigen
+was ich zu wissen wünsche. Der Fall der Baumrindenzeichnung
+liegt für mich ziemlich klar. Ich möchte
+mir meine Theorie nur noch von anderer Seite bestätigen
 lassen.«
 
-Er erhob sich. Strengte nicht? Liede (58 wäre ein
-los galt a Forscht nur, wenn er will.
+Er erhob sich. Ich fragte nichts mehr. Es wäre zwecklos
+gewesen. Harst spricht nur, wenn *er* will.
 
 <@pagebreak/>
-Ich trennte mich von ihm, nachdem mir noch ein Stück
+Ich trennte mich von ihm, nachdem wir noch ein Stück
 die Straße entlanggegangen waren.
 
-An der Chaussee fand ich ein Geschäft, tao ich meine
+An der Chaussee fand ich ein Geschäft, wo ich meine
 Einkäufe erledigen konnte.
 
-Der Inhaber war eine geschwäbßige Seele, Vom Angeklopft
-kamen wir auf den Fifchreichhim bot Wannsees zu
-brechen, vom Kleinen Wannsee auf die Villen, von den
+Der Inhaber war eine geschwätzige Seele. Vom Angelsport
+kamen wir auf den Fischreichtum des Wannsees zu
+sprechen, vom Kleinen Wannsee auf die Villen, von den
 Villen auf die Neubauten und auf Fritz Ripplow.
 
-Aber — seltsam! — hier bei dem Inhaber des Kram-adens
+Aber — seltsam! — hier bei dem Inhaber des Kramladens
 fand ich eine etwas andere Beurteilung der Person
-Ripplows, eine mildere, gerechiere vielleicht,
+Ripplows, eine mildere, gerechtere vielleicht.
 
 Hier hieß es nicht so verächtlich »Schieber«! sondern
-großzügiger Geschäftsmann«, den Konkurrenzneid in Ungelegenheiten
+»großzügiger Geschäftsmann«, den Konkurrenzneid in Ungelegenheiten
 gebracht hätte.
 
 Hier hörte ich, daß man Ripplows Vermögen auf etwa
-ne Milliarde Papiermark schätzte.
+eine Milliarde Papiermark schätzte.
 
-Als ich wieder im -Häuschen Mutter Müllbrodts einmal,
+Als ich wieder im Häuschen Mutter Müllbrodts eintraf,
 war Harald noch nicht da. Er hatte mich noch gebeten,
 von der Post aus seiner Mutter telephonisch unsere hiesige
-Wohnung anzugeben, Ich begab mich also zum Postamt.
-Moum hatte ich mich durch »Max« als Max Schraut der
+Wohnung anzugeben. Ich begab mich also zum Postamt.
+Kaum hatte ich mich durch »Max« als Max Schraut der
 alten Köchin zu erkennen gegeben, als sie schon rief:
 
 »Eine junge Dame war nachmittags um drei Uhr hier.
-wollte sie abweisen. Aber sie flehte so lange, bis ich
-sie der gnädigen ran meldete. Ach sah noch, wie sie sich
-he zu Füßen warf und hörte, wie sie rief: »Frau Harst,
-muß ihren Sohn sprechen! Mein Leben hängt davon
-ab! — Die gnädige Frau hat ihr jedoch, eingedenk her
+Ich wollte sie abweisen. Aber sie flehte so lange, bis ich
+sie der gnädigen Frau meldete. Ich sah noch, wie sie sich
+ihr zu Füßen warf und hörte, wie sie rief: »Frau Harst,
+ich muß Ihren Sohn sprechen! Mein Leben hängt davon
+ab! — Die gnädige Frau hat ihr jedoch, eingedenk der
 Warnung Herrn Haralds, nicht verraten, wohin Sie beide
-gereift sind und sagte »ins Ausland«, Wohin, wüßte sie
-Selbst nicht Da schlich die Blonde ganz gebrochen davon.«
+gereist sind und sagte »ins Ausland«. Wohin, wüßte sie
+selbst nicht. Da schlich die Blonde ganz gebrochen davon.«
 
-seh dachte sofort am Irene Nipplow.
+Ich dachte sofort am Irene Ripplow.
 
-»Trug die Dame eine weiße Wollmliye und ein blaues
-Sportkostüm?« fragte ich las,
+»Trug die Dame eine weiße Wollmütze und ein blaues
+Sportkostüm?« fragte ich rasch.
 
-»an — ja! Und aschblond war sie, und so blaß —
-rot wie in die Da Serzenätummer hat.«
+»Ja — ja! Und aschblond war sie, und so blaß —
+so recht wie eine, die großen Herzenskummer hat.«
 
 <@pagebreak/>
-Mk — alle wirklich Irene Nipplow!l —
+Ah — also wirklich Irene Ripplow! —
 
-Als ich Harald dies alles mitteilte — er saß schon ink
-Garten beim Abendbrot —, legte sich seine Stirn In tiefe
+Als ich Harald dies alles mitteilte — er saß schon im
+Garten beim Abendbrot —, legte sich seine Stirn in tiefe
 Falten.
 
-»noflenilich ereignen sich feine weiteren Zwischenfälle,«
-meinte er, »Sirene Nipplow ist offenbar mit der Rache!
-bis Berlin gefahren, As wir sie trafen, muß sie sich auf
+»Hoffentlich ereignen sich keine weiteren Zwischenfälle,«
+meinte er. »Irene Ripplow ist offenbar mit der Jacht
+bis Berlin gefahren. Als wir sie trafen, muß sie sich auf
 dem Rückweg befunden haben. Wenn ich sie nur sprechen
-konntet« Ro
+könnte!«
 
-Von Westen her kam jetzt abermals ein Dumpfes Groß
-malen herüber. An
+Von Westen her kam jetzt abermals ein dumpfes Grollen
+herüber.
 
-Ein Gewitter zog auf, Zehn Minuten Schäfer war
-der Himmel pehschwarz, Ein Windstoß fuhr heulend durch
+Ein Gewitter zog auf. Zehn Minuten später war
+der Himmel pechschwarz. Ein Windstoß fuhr heulend durch
 die Bäume als Vorzeichen des kommenden Regens.
 
-Frau Müllbrodt stürzte herbei,
+Frau Müllbrodt stürzte herbei.
 
 »Was — die Herren sitzen noch hier unter der Eiche?!«
-rief sie entsetzt und stellte Wink das Geschirr auf ein Niesen-tablett,
-»Ich werde in Ihrem Wohnzimmer beben, Sie
+rief sie entsetzt und stellte flink das Geschirr auf ein Riesentablett.
+»Ich werde in Ihrem Wohnzimmer decken. Sie
 sollen sich in Ruhe satt essen —«
 
-»Bar sind satt, liebe Frau Müllbrodt. Wir werden
-mit der Jolle ein wenig sspazicern Jahren,« sagte Harald
+»Wir sind satt, liebe Frau Müllbrodt. Wir werden
+mit der Jolle ein wenig spazieren fahren,« sagte Harald
 und blinzelte mir zu.
 
-Frau Müllbrodt starrte uns entgeistert nach, Wir holten
-unsere Gummimäntel und Verhöre,
+Frau Müllbrodt starrte uns entgeistert nach. Wir holten
+unsere Gummimäntel und Oelhüte.
 
-Filz wir die Jolle losmachien, zerriß ein Bündel von
-Dünen den ischwarzen Horizont, und in geisterhafter Beleuchtung
+Als wir die Jolle losmachten, zerriß ein Bündel von
+Blitzen den schwarzen Horizont, und in geisterhafter Beleuchtung
 tauchte für einen Moment drüben das andere Ufer auf
 — die Jacht Hagen von Tronje und ein Teil der neuen
-Villa Fritz Ripplows.,
+Villa Fritz Ripplows.
 
-Es goß in Strömen jetzt, Harald ruderte. Sehr bald
-legten wir am Ripplowschen Bootäftege an.
+Es goß in Strömen jetzt. Harald ruderte. Sehr bald
+legten wir am Ripplowschen Bootsstege an.
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
 
-Und wir fliegen aus, vertäuten die Jolle
+Und wir stiegen aus, vertäuten die Jolle.
 
 Wie die Einbrecher benahmen wir uns, kletterten auf
 die Mauer, sprangen auf den Kiesweg hinab.
 
-»Es werden Hunde vorhanden sein,« flüsterte Harst,
-»West halten sich alle Villenbesiver Hunde.«
+»Es werden Hunde vorhanden sein,« flüsterte Harst.
+»Jetzt halten sich alle Villenbesitzer Hunde.«
 
 Wir standen und starrten in die regendurchpeitschte
 Finsternis hinein.
@@ -568,14 +568,14 @@ Dann ging Harald voran die gewundene Holztreppe
 empor.
 
 Der Uferberg hatte drei Terrassen, deren Böschungen
-mit großen Steinen belegt waren, zwischen Venen man
-exotische Riesensarne angepslanzi hatte.
+mit großen Steinen belegt waren, zwischen denen man
+exotische Riesenfarne angepflanzt hatte.
 
-Nun befanden wir uns auf ver zweiten Terrasse. Nun
-sich Haralds Hand mit eisernem Druck um meinen
-in.
+Nun befanden wir uns auf der zweiten Terrasse. Nun
+legte sich Haralds Hand mit eisernem Druck um meinen
+Arm.
 
-Da kam etwas Dunkles dich am Boden entlangge-frohen
+Da kam etwas Dunkles dicht am Boden entlanggekrochen
 — etwas wie ein Schatten, der über den hellen
 Kies glitt.
 
@@ -583,69 +583,71 @@ Da hörte ich Harsts gehauchte Warnung:
 
 »Ein Panther!«
 
-Die grüne Lichter ver Kayenbestie verharrten seh!
-regungslos,
+Die grüne Lichter der Katzenbestie verharrten jetzt
+regungslos.
 
-»Lupa tao!« sagte Harald plötzlich Halblaut, aber die
-Worte energisch redend,
+»Lupa tao!« sagte Harald plötzlich halblaut, aber die
+Worte energisch redend.
 
-Und — die so oft eine Kleinigkeit in uns (Aerger ver
-saubere Erinnerungsbilder hervorzaubert, taten’s bei mir
-diese beiden siamesischen Worte,
+Und — wie so oft eine Kleinigkeit in uns längst versunkene
+Erinnerungsbilder hervorzaubert, taten’s bei mir
+diese beiden siamesischen Worte.
 
-In Bangkok, der Hauptstadt Siam, Hatten Zeit vor
-Zwei Jahren eine Gefährliche Ahehinrerinbefämptt
-Bangkok auf dem gelben Menamistuffe hatten wir im
-Wohunboot seltsame Dinge erlebt. In Bangkok hatten wir
-den Künsten einheimischen Raubitierdresseure zugeschaut, Batavia
-fd oft den Zuruf »Lupa tao!« gehört — »leg’
+In Bangkok, der Hauptstadt Siam, hatten wir vor
+zwei Jahren eine gefährliche Abenteuererin bekämpft. In
+Bangkok auf dem gelben Menam-Flusse hatten wir im
+Wohnboot seltsame Dinge erlebt. In Bangkok hatten wir
+den Künsten einheimischer Raubitierdresseure zugeschaut, hatten
+dabei oft den Zuruf »Lupa tao!« gehört — »leg’
 Dich!«
 
 <@pagebreak/>
 Und hier nun — hier versuchte Harald, ob der Panther
-auf den Beseht achten würde.
+auf den Befehl achten würde.
 
-Ich sah, wie das grünliche Schillern der Paniheraugen
-raschem Farbenspiel in ein leuchtendes Rot überging.
+Ich sah, wie das grünliche Schillern der Pantheraugen
+in raschem Farbenspiel in ein leuchtendes Rot überging.
 
-Und abermals Harsts Beseht:
+Und abermals Harsts Befehl:
 
 »Lupa tao!«
 
-»Der Panther lag auf dem Bauch, pendelte mit dem
-Schweige hin und her, Das Rot in seinen Augen blieb.
+Der Panther lag auf dem Bauch, pendelte mit dem
+Schweife hin und her. Das Rot in seinen Augen blieb.
 Seine Angriffslust war durch den Befehl in der Sprache
-seiner fernen afiatifhen Heimat verflogen.
+seiner fernen asiatischen Heimat verflogen.
 
 Zum dritten Male Haralds Stimme:
 
-»Paschwa tao!« («Scher’ Dich! »)
+»Paschwa tao!« (»Scher’ Dich!«)
 
 Der Panther kroch davon, verschwand.
 
 Harald atmete tief auf.
 
-»Weiter!« flüsterte er. »Zeit Ripplows Plergenngs
+»Weiter!« flüsterte er. »Fritz Ripplows vierbeinige
 Wächter sind uns ungefährlich.«
 
 Wir kamen auf die oberste Terrasse.
 
 Wieder ein Blitz.
 
-aC für den Bruchteil einer Sekunde geisterhaftes
+Wieder für den Bruchteil einer Sekunde geisterhaftes
+Licht.
 
-wieder Haralds Finger um meinen Arm.
-Wink
+Und — wieder Haralds Finger um meinen Arm.
 
-Ich blickte hin, Die Helle erlosch schicken.
+»Links!«
 
-Ich sah eine Kulisse von Tannen, dahinter in der Stein-böschung
+Ich blickte hin. Die Helle erlosch schon.
+
+Ich sah eine Kulisse von Tannen, dahinter in der Steinböschung
 eine Grotte, mit breiten Glastüren, Gitterstäbe
 vor den matten Scheiben.
 
-Dann wieder die drückende Finsternis, die Negenfluten,
-Aktie uns umrauschten, und der keuchende Donner der elektrischen
-Entlarvung.
+Dann wieder die drückende Finsternis, die Regenfluten,
+die uns umrauschten, und der keuchende Donner der elektrischen
+Entladung.
 
 Aber — hinter den matten Scheiben dort schimmerte
 Licht — ganz schwach.
@@ -653,55 +655,55 @@ Licht — ganz schwach.
 Dort brannte eine Lampe, dort befanden sich vielleicht
 Menschen.
 
-Harst glitt auf die hohe, breite Gartentür zu. ich blieb
-Moabit Es ihm
+Harst glitt auf die hohe, breite Gartentür zu. Ich blieb
+dicht hinter ihm.
 
 <@pagebreak/>
-Nun standen wir im Trocknen, über uns die Stein-wölbung,
-vor und die matten Scheiben.
+Nun standen wir im Trocknen, über uns die Steinwölbung,
+vor uns die matten Scheiben.
 
 Haralds Dietrich suchte das Schlüsselloch. Aber der
-Schlüssel flechte von innen.
+Schlüssel steckte von innen.
 
-»Er schob den Dietrich in die Tasche zurück, holte die
-Seine Zange mit den Lösselwangen hervor, stellte sie auf
-Weite des Schlüsselloches ein und drehte den Schlüsse!
+Er schob den Dietrich in die Tasche zurück, holte die
+kleine Zange mit den Löffelwangen hervor, stellte sie auf
+die Weite des Schlüsselloches ein und drehte den Schlüssel
 langsam zweimal herum.
 
-Seine Hand legte sich auf den Meffingbräder der Tür.
-Der öffnete sie nur gerade so weit, daß er den Pier hin-Durchliecten
-konnte.
+Seine Hand legte sich auf den Messingdrücker der Tür.
+Er öffnete sie nur gerade so weit, daß er den Kopf
+hindurchstecken konnte.
 
 Dann zog er sie vollends auf.
 
-»Schnell — Hinein!!
+»Schnell — hinein!!
 
-Ich drückte mich an ihm vorbei. Ich stand — - Bannte.
+Ich drückte mich an ihm vorbei. Ich stand — staunte.
 Meine Augen weiteten sich.
 
 Ein Palmenhaus war diese Grotte, ein Traum von
 Eigenart und Schönheit.
 
-Tropische Pflanzen überall. Die Luft feudtivarm, erfüllt
+Tropische Pflanzen überall. Die Luft feuchtwarm, erfüllt
 von betäubenden Blütendüften. Ueber schlanken Palmen
 ein künstlicher Sternhimmel — unzählige Glühbirnen.
-Verschlafene Papageien auf den Bereisen der Bäume. In
-bei Ferne das Schluchzen einer Bul-Bul, der indischen
-Nachtigall. Geradeaus ein breiter Weg, Ein Springbrunnen
-mit uralten Marmorfiguren, Götzenbildern..
+Verschlafene Papageien auf den Zweigen der Bäume. In
+der Ferne das Schluchzen einer Bul-Bul, der indischen
+Nachtigall. Geradeaus ein breiter Weg, ein Springbrunnen
+mit uralten Marmorfiguren, Götzenbildern.
 
 Harst neben mir — ganz andächtig:
 
-»Der Mann hat Geschmack. Der Mann ist kein »Klaffte«
-ober »Neureich« der Wißblätter!«
+»Der Mann hat Geschmack. Der Mann ist kein »Raffke«
+ober »Neureich« der Witzblätter!«
 
 In diese Zauberwelt drang kein störender Laut des
-obere der Elemente da draußen herein. Hier war Frieden,
+Tobens der Elemente da draußen herein. Hier war Frieden,
 Stille, Stimmung.
 
 Harald zog mich nach links in einen schmalen Seitenweg.
-Weißer Seesand wickelte Leim Strohhut wider
-unseren schleichender Schritten.
+Weißer Seesand knirschte kaum vernehmlich unter
+unseren schleichenden Schritten.
 
 Nun lag der Springbrunnen rechts von uns. Nun
 sahen wir auf der weißen Bank die Gestalt eines Weibes.
@@ -710,155 +712,156 @@ Irene Ripplow!
 
 <@pagebreak/>
 Sie saß ganz vornübergebeugt, die Arme auf die Knie
-geritzt, das Bericht in den Händen vergraben.
+gestützt, das Gesicht in den Händen vergraben.
 
 Sie saß wie eine Statue. Und neben ihr — lag in
-einem Kinderwagen mit heräbgeklappieni Verdeck ein wir
-obiges Menschlein, ein Säugling, den Daumen im Munde,
+einem Kinderwagen mit herabgeklapptem Verdeck ein winziges
+Menschlein, ein Säugling, den Daumen im Munde,
 selig schlummernd. —
 
-Harsts Atem ging hörbar. irgend etwas mußte seine
-Seele bis auf den Grund erregen,
+Harsts Atem ging hörbar. Irgend etwas mußte seine
+Seele bis auf den Grund erregen.
 
-Dann:!
+Dann:
 
 »Armes Weib!«
 
-Und das gab mir Klarheit,
+Und das gab mir Klarheit.
 
-»vdldaaiei Frau — nicht seine Tochter?« flüsterte
+»Ripplows Frau — nicht seine Tochter?« flüsterte ich
 zurück.
 
 Die Bul-Bul schluchzte ihr wehes Lied dort drüben in
-den Büschen, Wie oft hatte ich dem Gesang des Beinen
+den Büschen. Wie oft hatte ich dem Gesang des kleinen
 Nachtvögleins in indischen Gärten gelauscht — wie oft!
 
-Hier war das wehe Lied wie eine erhabene Begleit-musik
-zu dem tiefen Schmerz der jungen Mutter, die Da in
+Hier war das wehe Lied wie eine erhabene Begleitmusik
+zu dem tiefen Schmerz der jungen Mutter, die da in
 namenloser Verzweiflung wie versteinert verharrte. —
 
-Harald winkte, Wieder bogen wir links ab, kamen endlich
-an die ne Tür des Gröottenhauses, Urheber eine
+Harald winkte. Wieder bogen wir links ab, kamen endlich
+an die zweite Tür des Grottenhauses. Wieder eine
 vergitterte Glastür. Und Harst drehte den Schlüssel herum,
-schloß ab. Nun waren wir mit Irene Nipplow allein.
+schloß ab. Nun waren wir mit Irene Ripplow allein.
 
 Harst kehrte zu dem Springbrunnen zurück.
 
 Unsere Schritte, nicht mehr gedämpft durch die Absicht,
-unbemerkt zu bleiben, ließen Irene aufblieen.
+unbemerkt zu bleiben, ließen Irene aufblicken.
 
 In ihren Augen war ein müdes Staunen — nichts
-weiter. -
+weiter.
 
-Harald blieb vor ihr stehen, zog den nassen Verbat,
+Harald blieb vor ihr stehen, zog den nassen Oelhut.
 
-»Sie waren heute nachmittag bei mir,« sagte er schlicht
+»Sie waren heute nachmittag bei mir,« sagte er schlicht.
 »Nun bin ich hier.«
 
 Auch ich verbeugte mich.
 
-Irene lehnte sich zurück. Ihr seines Gesicht blieb klare.
+Irene lehnte sich zurück. Ihr seines Gesicht blieb starr.
 
 »Ich verstehe Sie nicht, mein Herr,« erwiderte sie, und
-sehr Mund war Hochnut, ihr Tot! abweisende Kälte. »Wer
+ihr Mund war Hochmut, ihr Ton abweisende Kälte. »Wer
 <@pagebreak/>
-wo All begreife nicht, wie Sie hier haben eindringen
-können«
+sind Sie? Ich begreife nicht, wie Sie hier haben eindringen
+können.«
 
-Harst nahm eine zwanglose Haltung an,
+Harst nahm eine zwanglose Haltung an.
 
-»Sie scheinen Klirren Weg zu mir zu bereuen,« meinte
-er bedächtig. »Ihr Leugnen ist zwecklos, Sie waren es,
-die Skizze in die Sralfichiehbt des Baumes mit der Spitze
-eines siamesischen Ehftäbchens einnickte. Sie waren es, die
+»Sie scheinen Ihren Weg zu mir zu bereuen,« meinte
+er bedächtig. »Ihr Leugnen ist zwecklos. Sie waren es,
+die die Skizze in die Kalkschicht des Baumes mit der Spitze
+eines siamesischen Eßstäbchens einritzte. Sie waren es, die
 heute meine Mutter anflehte, Ihnen mitzuteilen, wo ich
-weilte, Sie brauchten mich also, um irgend ein Unheil zu
+weilte. Sie brauchten mich also, um irgend ein Unheil zu
 verhüten, nehme ich an.«
 
-Sie zuckte Zaum merklich Die Achseln.
+Sie zuckte kaum merklich die Achseln.
 
 »Wollen Sie mir nicht endlich erklären, wer Sie sind!«
-jagte sie hart und fast drohend,
+sagte sie hart und fast drohend.
 
 »Vielleicht werden Sie diese Szene einst noch mehr bereuen
 als die Tatsache, mich ausgesucht zu haben,« meinte
-Palast mit warmer Freundlichkeit, »Sie sollten lieber
-Vertrauen zu mir haben, Meine Brust birgt Geheimnisse,
-die wohl noch tragischer als das Style sind, und mein
-Freund Schraut versteht das Schweigen ebenso gut wie ich,«
+Harald mit warmer Freundlichkeit. »Sie sollten lieber
+Vertrauen zu mir haben. Meine Brust birgt Geheimnisse,
+die wohl noch tragischer als das Ihre sind, und mein
+Freund Schraut versteht das Schweigen ebenso gut wie ich.«
 
-Ein Papagei kreischte im Schlafe auf, Andere wurden
+Ein Papagei kreischte im Schlafe auf. Andere wurden
 munter, meldeten sich.
 
-Der weite Raum war plôöblich erfüllt von, dem häßlichen
-Krächzen der bunten Vögel,
+Der weite Raum war plötzlich erfüllt von dem häßlichen
+Krächzen der bunten Vögel.
 
 In diesen Lärm mischten sich dumpfe Schläge.
 
-Da fuhr Irene Nipplow empor,
+Da fuhr Irene Ripplow empor.
 
 Sie zitterte, ihre Augen glitten dorthin, wo die
-Du« Tür sich befand, Die Harst von innen abgeschlossen
-te,
+zweite Tür sich befand, die Harst von innen abgeschlossen
+hatte.
 
-Ferner Sie Will« keuchte See — »Entfernen
+»Entfernen Sie sich!« keuchte sie — »Entfernen
+Sie sich!«
 
-ihre Blicke verrieten irre Angst,
+Ihre Blicke verrieten irre Angst.
 
 »Nicht eher, bis Sie die Wahrheit sagen,« entgegnete
-Harst und griff nach ihrer Hand, »Seien @jeder verständig!
-Ich will Ihnen doch mir helfen!«
+Harst und griff nach ihrer Hand. »Seien Sie doch verständig!
+Ich will Ihnen doch nur helfen!«
 
 Zwei Tränen rollten ihr über die Wangen.
 
-Es — es ist zu spät!« stöhnte sie aus,
+»Es — es ist zu spät!« stöhnte sie auf.
 
 <@pagebreak/>
 Das war eine Bestätigung, das war ein Geständnis.
 
 Harst verneigte sich. Wir eilten den Seitenweg entlang
-zur anderen Tür — Dorthin, woher wir gekommen.
-»rege flog wie gehetzt geradeaus, um den von Bar ver«
-sperrten Eingang zu öffnen.
+zur anderen Tür — dorthin, woher wir gekommen.
+Irene flog wie gehetzt geradeaus, um den von Harst versperrten
+Eingang zu öffnen.
 
 Harald blieb sehr bald stehen.
 
-zurück — hinter die Bank«
+»Zurück — hinter die Bank!«
 
-Und — es glühte.
+Und — es glückte.
 
-Die Papageien vollführten einen »Höllenlärm. Hie
+Die Papageien vollführten einen Höllenlärm. Die
 Schläge gegen die Tür hatten sie erregt. So gelangten wir
-trotz der rauschenden Büsche in das Dunkel scharf: duftender
+trotz der rauschenden Büsche in das Dunkel scharf duftender
 Zimtbäumchen.
 
 Nun sahen wir Fritz Ripplow zum ersten Male. Neben
 Irene kam er den Hauptweg daher. Noch verstanden wir
-seine erregten Worte nicht, Nur seine jähen Handbewegungen
+seine erregten Worte nicht. Nur seine jähen Handbewegungen
 verrieten eine namenlose Wut und der Ausdruck seines
-sonngebräunten, bartlosen, schmalen. Gesicht« mit der hohen,
-ledigen Stirn und der etwas vorgebauten Kinnpartie.
+sonngebräunten, bartlosen, schmalen Gesichts mit der hohen,
+eckigen Stirn und der etwas vorgebauten Kinnpartie.
 
-Unter dicken dunklen Brauen lagen da ein Bar Augen,
-in denen der Wahnwitz stammte.
+Unter dicken dunklen Brauen lagen da ein Paar Augen,
+in denen der Wahnwitz flammte.
 
-Er packte treues Handgelenk.
+Er packte Irenes Handgelenk.
 
 »Gestehe — Du tatst es!« rief er.
 
 Sie waren vor dem Kinderwagen angelangt.
 
-Klar und erfüllt von ungeheurer Bitierfoit erwiderte
-die Frau, auf das schlafende Kind mit der Freie Rechten
+Klar und erfüllt von ungeheurer Bitterkeit erwiderte
+die Frau, auf das schlafende Kind mit der freien Rechten
 deutend:
 
-»Ich Skat es um unsere? Kindes willen! Ich mußte
+»Ich tat es um unseres Kindes willen! Ich mußte
 es tun!«
 
-Dann schluchzte sie auf, glitt in die Sie, umklammerte
+Dann schluchzte sie auf, glitt in die Knie, umklammerte
 den Mann:
 
-»Fritz— Fritz, — kehre dorthin auzüd, wo! u Ruhe
+»Fritz — Fritz, — kehre dorthin zurück, wo Du Ruhe
 vor Dir selber hattest!«
 
 Ein schneidendes Auflachen.
@@ -866,52 +869,51 @@ Ein schneidendes Auflachen.
 »Damit der Schurke weiter triumphiert — nicht
 wahr?! Damit Du mich los wirst!«
 
-Das Wind erwachte, begann zu weinen.
+Das Kind erwachte, begann zu weinen.
 
 <@pagebreak/>
-Seltsam — mit einem Schlage veränderte sich da Ripp-foiw&
-Gesicht,
+Seltsam — mit einem Schlage veränderte sich da Ripplows
+Gesicht.
 
-Er hob Irene empor, nahm das Kind aus dem Wagen
+Er hob Irene empor, nahm das Kind aus dem Wagen.
 
 Zärtliche Weichheit strahlte aus seinen Zügen.
 
-Und weit war seine Stimme, als er sagte:
+Und weich war seine Stimme, als er sagte:
 
-»Irene, um unseres Kindes willen werde ich siegen?
+»Irene, um unseres Kindes willen werde ich siegen!
 Das Wie überlasse mir! Der Mann hat tausendfach den
 Tod verdient! Er wird sterben, wenn er nicht gehorcht.«
 
-Sie. war auf die Bank gesunken,
+Sie war auf die Bank gesunken.
 
-Ripplow Erbaute starr auf Das Kind herab. Dann
+Ripplow schaute starr auf das Kind herab. Dann
 sprach er weiter:
 
 »Irene, Du wirst mich nie verstehen, nie! Ich habe
-fünfzehn Jahre dort in Siam auf einsamer Plantage wir
+fünfzehn Jahre dort in Siam auf einsamer Plantage wie
 in der Wildnis gehaust, wie ein Herr — über Leben und
-Tod! Einen Mann wie mich schrecken papierne Gesetze nicht
+Tod! Einen Mann wie mich schrecken papierne Gesetze nicht.
 Ein Mann wie ich trägt das Gesetz in sich
-— Beruhige Dich, Irene! Wenn Du meine Liebe nicht ver-’
-polieren willst »laß mir freie Hand, mit jenem Elenden oben
-rechnen.«
+— Beruhige Dich, Irene! Wenn Du meine Liebe nicht verlieren
+willst, laß mir freie Hand, mit jenem Elenden abzurechnen.«
 
-Das Kind war still geworden. Mit unendlicher Dr
+Das Kind war still geworden. Mit unendlicher
 Behutsamkeit legte er es in den Wagen zurück.
 
-Dann zog er Sirene an sich, küßte sie, nahm sie und
-eben Wagen mit sich — den Hauptweg hinab,
+Dann zog er Irene an sich, küßte sie, nahm sie und
+den Wagen mit sich — den Hauptweg hinab.
 
-Die künstlichen Sterne über uns erloschen. wir standen
+Die künstlichen Sterne über uns erloschen. Wir standen
 in tiefster Finsternis.
 
 Und ich — ich begriff nichts von alledem, was ich hier
 soeben erlauscht hatte — nichts!
 
-Rätsel über Rätsel schienen mir dieses seltsame Kies
-eöpaar in dichte Schleier zu hüllen, Wenn ich mir Berge
-Mr Räder n was wir bisher von Irene wußten, wurden
-die Rätsel noch- dunkler, noch undurchdringlicher.
+Rätsel über Rätsel schienen mir dieses seltsame Liebespaar
+in dichte Schleier zu hüllen. Wenn ich mir vergegenwärtigte
+was wir bisher von Irene wußten, wurden
+die Rätsel noch dunkler, noch undurchdringlicher.
 
 Harald sagte leise:
 
@@ -919,218 +921,217 @@ Harald sagte leise:
 
 Er — er wußte alles — alles! — Was wußte er?!
 
-Wir N die Auch die am die Ton führte.
+Wir erreichten die Tür, die auf die Terrasse führte.
 
 <@pagebreak/>
-Das Gewitter hatte ausgetobt, Ein Lauer dünner
-Regen violette gleichmäßig herab.
+Das Gewitter hatte ausgetobt. Ein lauer dünner
+Regen rieselte gleichmäßig herab.
 
-Es war halb zehn Absatz,
+Es war halb zehn abends.
 
-Mir fanden unsere Jolle halb mit Regenwasser sei
-füllt, schöpften sie leer und fuhren durch bin. tiefe Dämmerung
-des Regongbonds dieses ereignisreichen Vordaches dem
+Wir fanden unsere Jolle halb mit Regenwasser gefüllt,
+schöpften sie leer und fuhren durch die tiefe Dämmerung
+des Regenabends dieses ereignisreichen Maitages dem
 Nordufer zu.
 
-Wie ein Traum lag das kochen Erlebte hinter mir,
-Schon legt nahm es in vor Erinnerung enge Umwirkliches
-an, Ich sagte mir; »Morgen wirst Du alles anzweifeln,
-als wärest Du nie in der Palmengrotte- gewesen!«
+Wie ein Traum lag das soeben Erlebte hinter mir.
+Schon jetzt nahm es in der Erinnerung etwas Unwirkliches
+an. Ich sagte mir: »Morgen wirst Du alles anzweifeln,
+als wärest Du nie in der Palmengrotte gewesen!«
 
 Harald sorgte dafür, daß es anders kam.
 
-Er blieb in der Jolle zurück, Dieb mußte die Leine und
-die los den Draht und zwei Nesorvebatterien für unsere
+Er blieb in der Jolle zurück. Ich mußte die Leine und
+die Haken, den Draht und zwei Reservebatterien für unsere
 Taschenlampen holen.
 
 Dann saßen wir im Boot, schnitten die Leine in zwei
-gleich lange Stücke, befestigten an einem Ende der Elbe
+gleich lange Stücke, befestigten an einem Ende der beiden
 Leinen die starken Hechthaken und ein Stück Ziegelstein mit
-Draht und ruderten wieder auf den See hinaus,
+Draht und ruderten wieder auf den See hinaus.
 
 <h2>4. Kapitel.</h2>
 
 Während wir die Angeln vorbereiteten, hatte Harald
-Barte erklärt:
+mir erklärt:
 
-»ich habe die drei hohen Bäume der Skizze bereits
-nachmittags bewacht und auf die Untiemmmgen abaeichägt,
-so fand ich, daß die Erlebte, Die las Arena der Stiege andeutet,
-etwa da zu suchen ist, wo eine Stange Aber das
-Wasser hinausjagt, die vielleicht ein Fischer dort zum Bar
-festigen feiner gebe in den Seegrund getrieben. hat » —
+»Ich habe die drei hohen Bäume der Skizze bereits
+nachmittags bemerkt und auf die Entfernungen abgeschätzt.
+So fand ich, daß die Stelle, die Kreuz der Skizze andeutet,
+etwa da zu suchen ist, wo eine Stange über das
+Wasser hinausragt, die vielleicht ein Fischer dort zum Befestigen
+seiner Netze in den Seegrund getrieben hat.« —
 
-Wir suchten also die Stange,
+Wir suchten also die Stange.
 
-Haralds vorzüglicher Ortösinn bewährte sich wieder.
-Wir fanden sie traf der Nebelschleier, tro der rasch zunehmenden
-Dunkelheit,
+Haralds vorzüglicher Ortssinn bewährte sich wieder.
+Wir fanden sie trotz der Nebelschleier, trotz der rasch zunehmenden
+Dunkelheit.
 
 Wir warfen unsere Grundangeln aus, fuhren hin und
 <@pagebreak/>
-gt Wir fischten Aeste und Zweck ge heraus, schwer, voll
-Wasser gezogen. Wir erwischten das Skelett eines Hundes,
-Wir runden nicht Ungediltig, beschrieben einen wer pro
-leeren Kreis um die Stange.
+her. Wir fischten Aeste und Zweige heraus, schwer, voll
+Wasser gezogen. Wir erwischten das Skelett eines Hundes.
+Wir runden nicht ungeduldig, beschrieben einen immer größeren
+Kreis um die Stange.
 
-Dann halten die Haben der einen Leine sich abermals
-in der Tiefe iegcndworan feftgebifien.
+Dann hatten die Haken der einen Leine sich abermals
+in der Tiefe irgendworan festgebissen.
 
-zog die Leine ein,
+Ich zog die Leine ein.
 
-Ein Sack kam zum Vorschein, Sandige und runde je:
-geiiftände waren darin
+Ein Sack kam zum Vorschein. Kantige und runde Gegenstände
+waren darin.
 
-Ji schnitt ihn aus!: Cilberfachen der Anhalt — die
-Beute der geheimnisvollen WannjeesDichel
+Ich schnitt ihn auf: Silbersachen der Inhalt — die
+Beute der geheimnisvollen Wannsee-Diebe!
 
-»Weiter!« sagte Harald. An
+»Weiter!« sagte Harald.
 
-Wir angelten an derselben Stelle noch zwei Säcke der
-aus. Wir hatten den letzten genügte von den Haken gelöst,
-als das Knattern eines Vootsmotóors, rasch sich nähernd,
-uns warnte,
+Wir angelten an derselben Stelle noch zwei Säcke heraus.
+Wir hatten den letzten gerade von den Haken gelöst,
+als das Knattern eines Bootsmotors, rasch sich nähernd,
+uns warnte.
 
 Harald trieb die Jolle mit langen, ruhigen Schlägen
-den Ufer zu, legte die Ruder beiseite, warf Mantel, Rock,
-Weste und Schuhe ab und ließ sich ins Wasser gleiten,
+dem Ufer zu, legte die Ruder beiseite, warf Mantel, Rock,
+Weste und Schuhe ab und ließ sich ins Wasser gleiten.
 
-Das Beräufch des arbeitenden Motors war. euva dort
-verstummt, ab ix die Säcke vielleigzt zehn Meter südlich
-der Stange herauêégefischi bohren.
+Das Geräusch des arbeitenden Motors war etwa dort
+verstummt, wo wir die Säcke vielleicht zehn Meter südlich
+der Stange herausgefischt hatten.
 
-»Worte hier,« sagte Harst nur,
+»Warte hier,« sagte Harst nur.
 
-Er scewamm davon, verschwand In den Nenenfchleiern.
+Er schwamm davon, verschwand in den Nebelschleiern.
 
 Warten! Sollte ich mich ausschalten lassen?!
 
-ZJ ließ den kleinen Anker fallen, band das Untertan
-Tanz kurz jetzt, zog Mantel, Jacke, Weste, Schuhe aus und
-— jehlvanın in das Dunkel hinein.
+Ich ließ den kleinen Anker fallen, band das Ankertau
+ganz kurz jetzt, zog Mantel, Jacke, Weste, Schuhe aus und
+— schwamm in das Dunkel hinein.
 
-ch hatte noch feine zwanzig Meter zurückgelegt, als
-ich weit vor mir das Aufsplaischen des Wassers hörte, dann
-Aktie tun,
+Ich hatte noch keine zwanzig Meter zurückgelegt, als
+ich weit vor mir das Aufplatschen des Wassers hörte, dann
+Motorgeknatter.
 
-Heck warnte kehrt, Das Motorboot dort war Fraglos
-üble Arg von Tronje. Ich konnte sie nicht einholen.
+Ich machte kehrt. Das Motorboot dort war fraglos
+die Jacht Hagen von Tronje. Ich konnte sie nicht einholen.
 
-Bald hatte ich dièé Jolle erreicht, schwang mich hinein,
-Schotte den Anker ein und ruderte langsam in Wohnung der
-lange trister,
+Bald hatte ich die Jolle erreicht, schwang mich hinein,
+holte den Anker ein und ruderte langsam in Richtung der
+Stange weiter.
 
 <@pagebreak/>
-Bis ein schwacher Ruf an mein Ohr drang
+Bis ein schwacher Ruf an mein Ohr drang:
 
 »Schraut — Schraut — hierher!«
 
-er fünf kräftige Ruderschläge.
+Noch fünf kräftige Ruderschläge.
 
-Dann dicht vor mir derselbe Ruf, — dann half ich Bar
+Dann dicht vor mir derselbe Ruf, — dann half ich Harst,
 der einen besinnungslosen Mann im linken Arm festhielt,
-diesen Mann in die Jolle beben.
+diesen Mann in die Jolle heben.
 
-Harald kletterte nun gleichfalls über den Bootärand
-und Anrede neben dem Fremden, leuchtete ihm mit der
+Harald kletterte nun gleichfalls über den Bootsrand
+und kniete neben dem Fremden, leuchtete ihm mit der
 Taschenlampe ins Gesicht.
 
 Der Mann war klein, hager, hatte ein abschreckend mageres
-Gesicht und eine dies, fleischige Nase, Negerlippen-und
-eine vollkommene Glatze.
+Gesicht und eine dicke, fleischige Nase, Negerlippen
+und eine vollkommene Glatze.
 
 Harst faßte ihm in die Innentasche der Jacke, brachte
-ein dickes Portefeuille zum Vorschein und ließ! mich die einzelnen
-durhnäßten Papiere beleuchten, damit er den Inhalt
+ein dickes Portefeuille zum Vorschein und ließ mich die einzelnen
+durchnäßten Papiere beleuchten, damit er den Inhalt
 prüfen könne.
 
 »Kommerzienrat Machtaler — Julius Machtaler!«
 sagte er leise.
 
-»Wer ist denn das nun danieder?« entfuhr es mir.
+»Wer ist denn das nun wieder?« entfuhr es mir.
 
-»Ein Mann, den Fritz Nipplow ersäufen knallte, den
-er in einen großen Bad eingebunden über Bord Smart Ich
+»Ein Mann, den Fritz Ripplow ersäufen wollte, den
+er in einen großen Sack eingebunden über Bord warf. Ich
 konnte gerade noch tauchen, konnte gerade noch das Messer
-aus der Beinkleidtasche hervorziehen und den Sack austren-ven.
-Mir sauste bereits das Blut in den Ohren. Ach war
+aus der Beinkleidtasche hervorziehen und den Sack auftrennen.
+Mir sauste bereits das Blut in den Ohren. Ich war
 einer Ohnmacht nahe. Endlich schoß ich mit dem Geretteten
 an die Oberfläche.«
 
 »Unmöglich!« stammelte ich. »Ripplow — wollte ihn
 ersäufen?!«
 
-»das sonst?! — Nun wollen wir die Geschichte leid«,
-sich Irene zur Liebe in Ordnung bringen.«
+»Was sonst?! — Nun wollen wir die Geschichte leidlich
+Irene zur Liebe in Ordnung bringen.«
 
-Er begann Machtalers Arme talinäßig zu heben und
+Er begann Machtalers Arme taktmäßig zu heben und
 zu senken, um die Lunge zum Arbeiten zu zwingen.
 
-Machtaler kam zu sich. Harst sehe ihn aufrecht, sehr
+Machtaler kam zu sich. Harst setzte ihn aufrecht, lehnte
 ihn an die Ruderbank.
 
-Minuten vergingen. Dann flüsterte der Gu-at,
+Minuten vergingen. Dann flüsterte der Kommerzienrat,
 <@pagebreak/>
-und In dieser erloschenen Stimme vibrierte noch das
-odeögrauen!
+und in dieser erloschenen Stimme vibrierte noch das
+Todesgrauen!
 
 »Ich — ich will alles — alles schriftlich geben!«
 
-Er wurde immer kräftiger, friere. Er schaute sich um,
-merkte, daß er sich nicht mehr an Bord der Miotorjacht des
-und, und Braune plötzlich in ganz anderem Tone:
+Er wurde immer kräftiger, frischer. Er schaute sich um,
+merkte, daß er sich nicht mehr an Bord der Motorjacht befand,
+und fragte plötzlich in ganz anderem Tone:
 
 »Wer sind Sie beide?«
 
-»Nipplows Freunde,« brummte Harald undeutlich,
+»Ripplows Freunde,« brummte Harald undeutlich.
 »Er hat uns beauftragt, mit Ihnen weiter zu verhandeln.
-Er ja, daß das nasse Bad Sie zur Vernunft bringen
-würde.
+Er erwartete, daß das nasse Bad Sie zur Vernunft bringen
+würde.«
 
-Machtaler Berufes. Der Meine Lichtkegel von Harsts
-ashenlampe lag dauernd auf seinem widerlichen Gesicht.
+Machtaler schwieg. Der kleine Lichtkegel von Harsts
+Taschenlampe lag dauernd auf seinem widerlichen Gesicht.
 
 »Das — das war ein Mordversuch!« stieß Machtaler
 dann hervor. »Das — soll Ripplow bereuen!«
 
-Harald hatte mit einem Male feine Clementpistole in
+Harald hatte mit einem Male seine Clementpistole in
 der Hand und hielt sie dem Kommerzienrat vor die Stirn.
 
 »Wenn Sie etwa um Hilfe rufen, drücke ich ab!« sagte
-rascher mit verstellter Stimme. »Wollen Sie jetzt gehorchen?
-Wenn nicht — mir, kann Schlucken Sie wieder
-Wasser. — Von Mordversuch kann hier feine Rede fein. An
+er wieder mit verstellter Stimme. »Wollen Sie jetzt gehorchen?
+Wenn nicht — nun, kann schlucken Sie wieder
+Wasser. — Von Mordversuch kann hier keine Rede sein. An
 dem Sack war ja ein Tau befestigt.«
 
 Machtalers Gesicht verzerrte sich.
 
-»Bul — ich gehorche!« meinte er, und ohnmächtige Wut
-leuchtete aus feinen kleinen tückischen Augen.
+»Gut — ich gehorche!« meinte er, und ohnmächtige Wut
+leuchtete aus seinen kleinen tückischen Augen.
 
 »Rudere an Land!« befahl Harald mir da. »An unsre
-Brille,«
+Brücke.«
 
 Wir führten Machtaler dann in die Glaslaube des
 Gartens unserer Wirtin. Harst flüsterte mir zu, ich solle
-er und eine Schreibunterlage aus unserem Zimmer
-Molen,
+Papier und eine Schreibunterlage aus unserem Zimmer
+holen.
 
-ich beeilte mich, 309 nur den Minder hervor Krebs
-Holt unserer falschen Bärte Hatte gut gehalten. Mein Bart
-Wir noch unversehrt, Machtaler würde uns später kaum
-Brennen.
+Ich beeilte mich, zog nur den Mantel über. Der Klebstoff
+unserer falschen Bärte hatte gut gehalten. Mein Bart
+war noch unversehrt. Machtaler würde uns später kaum
+erkennen.
 
 <@pagebreak/>
-Bann war ich mit Papier und einer Zeitung als Unterlage
+Dann war ich mit Papier und einer Zeitung als Unterlage
 wieder zur Stelle.
 
 Harald saß in der Laube Machtaler gegenüber an dem
-kleinen Holztisch und hatte die Hand mit der Clement aus
-die Tischplatte gestört,
+kleinen Holztisch und hatte die Hand mit der Clement auf
+die Tischplatte gestützt.
 
-»Los denn!« forderte er Machtaler mir zum Schreiben
-auf. »Nehmen Sie Ihren Füllfederhalter aus der Briefe
-Tasche!«
+»Los denn!« forderte er Machtaler nun zum Schreiben
+auf. »Nehmen Sie Ihren Füllfederhalter aus der Brieftasche!«
 
 Der kleine Kommerzienrat zögerte.
 
@@ -1151,13 +1152,13 @@ Harst — ein Blick!
 Dann schrieb er.
 
 »Vergessen Sie nichts!« sagte Harald wieder. »Auch
-was Nipplow verlangt. Wir auch. Nur ein Wort zu
+was Ripplow verlangt. Wir auch. Nur ein Wort zu
 wenig, und — Na — Sie kennen uns ja!«
 
 Machtaler schrieb.
 
-Harald leuchtete ihm. Ich lehnte an der. Tür. Die
-Glaslaube hatte Fensterläden. Sie waren geschlossen, So,
+Harald leuchtete ihm. Ich lehnte an der Tür. Die
+Glaslaube hatte Fensterläden. Sie waren geschlossen. So,
 wie ich stand, verhinderte ich, daß ein Lichtschein in den
 Garten fiel.
 
@@ -1166,85 +1167,85 @@ die Zeugen!«
 
 »Zeugen?« fragte der Kommerzienrat giftig.
 
-»Na — die Mitwisser, — das ist dasselbe!« MU
+»Na — die Mitwisser, — das ist dasselbe!« meinte
 Harst gleichmütig.
 
 Machtaler schrieb.
 
 Er zitterte jetzt vor Kälte in seinen nassen Kleidern.
 
-Er füllte zwei Bogen mir feiner Verglichen Schrift
+Er füllte zwei Bogen mit seiner kritzlichen Schrift.
 
 <@pagebreak/>
-Dann legte er den Haltet hin, Er halte seinen Namen
-nicht Schwung unter das merfwwürdige Dokument gesetzt.
+Dann legte er den Halter hin. Er hatte seinen Namen
+mit Schwung unter das merkwürdige Dokument gesetzt.
 
-»Lies in! es erst mal durch, (mit! sagte Harst zu mir, -
+»Lies Du es erst mal durch, Emil!« sagte Harst zu mir.
 
-An beugte mich über den Tisch. Mit Gier las ich,
+Ich beugte mich über den Tisch. Mit Gier las ich,
 verschlang die Zeilen,
 
 > Wannsee, den 16. Mai 1922.
 
 Aus eigenem Antrieb erkläre ich hier folgendes:
 
-Im Jahre 1920 habe ich aus Konkurrenzneid, Da Die
-on Herrn Fritz Ripplow mit Holland eingeleiteten Han-elSheziehungen
-mir die Anbahnung ähnlicher Geschästs-schlüsse
-erschwerten und da meine Firma infolgedessen zu-Hickging,
+Im Jahre 1920 habe ich aus Konkurrenzneid, da die
+von Herrn Fritz Ripplow mit Holland eingeleiteten Handelsbeziehungen
+mir die Anbahnung ähnlicher Geschäftsabschlüsse
+erschwerten und da meine Firma infolgedessen zurückging,
 mit Vorbedacht durch Bestechung der Beamten
-einiger Kriegêgesellschasten lud Durch Fälschung von Fracht-riesen
-und anderen Schriftstücken, schließlich Durch Denun-ationen
-die Verhaftung Herrn Ripplows wegen Verschie-ung
-von Heercêgut herbeigeführt,
+einiger Kriegsgesellschaften und durch Fälschung von Frachtbriefen
+und anderen Schriftstücken, schließlich durch Denunziationen
+die Verhaftung Herrn Ripplows wegen Verschiebung
+von Heeresgut herbeigeführt.
 
-Mit beteiligt waren ab« meine Helfer hierbei: der Portier
-Ernst kaum, Berlin-Steglitz, Friedrichsruher Mag 8,
-er Korrespondent Jakob Bnißki, Berlin, Alte Fahnden, 14,
-er Eisenbahnassisient Felix Tauchten, Berlin, Wilönacker-xaße
-69, und die Telephonistin Anno Ordnet, Sonderbar
-Bergstraße 21,
+Mit beteiligt waren als meine Helfer hierbei: der Portier
+Ernst Daum, Berlin-Steglitz, Friedrichsruher Platz 3,
+der Korrespondent Jakob Bnitzki, Berlin, Alte Jakobstr. 14,
+der Eisenbahnassistent Felix Tourbier, Berlin, Wilsnackerstraße
+69, und die Telephonistin Anna Erkner, Hardenbergstraße 21.
 
-Nr gerankt waren seiner meine Frau und mein Schwager
+Eingeweiht waren seiner meine Frau und mein Schwager
 Justus Rode.
 
-Es sorgte nun eine genaue Schilderung, wie diese dunklen
-Ehrenmänner es angestellt hatten,- Ripplow selbst noch
+Es folgte nun eine genaue Schilderung, wie diese dunklen
+Ehrenmänner es angestellt hatten, Ripplow selbst noch
 während der Untersuchungshaft zu schädigen.
 
 Dann hieß es weiter:
 
 Ich gebe ferner zu, daß auf mein Betreiben Herr Ripplow
 aus den Wassersportvereinen, denen er als Mitglied
-angehörte oder bei denen er verkehrte, au2geschlossen wurde
-Kind daß die wie ich hier in Wannsee ansässigen Familien
-ich von Herrn Ripplow durch meine Ausftreuungen zur
-bogen, so daß er nach feiner Enthaftuing von allen frühe:
-Haar gemieden wurde und gesellschaftlich erledigt
+angehörte oder bei denen er verkehrte, ausgeschlossen wurde
+und daß die wie ich hier in Wannsee ansässigen Familien
+sich von Herrn Ripplow durch meine Anstrengungen zurückzogen,
+so daß er nach seiner Enthaftung von allen früheren
+Bekannten gemieden wurde und gesellschaftlich erledigt
 war.
 
 <@pagebreak/>
 Ich verpflichte mich, Herrn Ripplows Ehre dadurch
-wateten herzustellen, daß ich meine Schuld offen bekenne und
+wieder herzustellen, daß ich meine Schuld offen bekenne und
 mich selbst den Gerichten stelle.
 
 > Julius Machtaler,
 
-> Wannsee, Scestraße 58,
+> Wannsee, Seestraße 58.
 
 <h2>5. Kapitel.</h2>
 
-Schweigend reichte ich jetzt Harald das Dokument,
+Schweigend reichte ich jetzt Harald das Dokument.
 
-Also dieser Machtaler war ver Mann, von dem NRipp-low
-in der Palmengrotte mit so wildem Ha« gesprochen
+Also dieser Machtaler war der Mann, von dem Ripplow
+in der Palmengrotte mit so wildem Haß gesprochen
 hatte.
 
 Vieles war durch dieses Bekenntnis des Kommerzienrats
-jetzt aufgeklärt. über — gerade die Hauptsache blieb dunkel:
+jetzt aufgeklärt. Aber — gerade die Hauptsache blieb dunkel:
 weshalb hatte Ripplow hier auf dem Wannsee den
-Dieb gespielt, weshalb hatte er all die Silberpreise gefiel«
-nahe u — um gab er Sirene hier für seine Tochter
+Dieb gespielt, weshalb hatte er all die Silberpreise gestohlen,
+und — weshalb gab er Irene hier für seine Tochter
+aus?! —
 
 Harald hatte das Schuldbekenntnis dieses widerwärtigen
 Schurken sehr langsam gelesen.
@@ -1254,178 +1255,177 @@ Machtaler saß zähneklappernd da und fauchte jetzt:
 »Soll ich mir vielleicht den Tod holen?! Wie lange
 gedenken Sie mich hier noch festzuhalten?!«
 
-»Oh — Wir werden Sie- sofort in der Nähe der See
-Straße an Land schon, Herr Kommerzienrat,« brummte
-Harst, indem er das Dokument zusanmmenfaltete, »Ernst,
+»Oh — Wir werden Sie sofort in der Nähe der Seestraße
+an Land setzen, Herr Kommerzienrat,« brummte
+Harst, indem er das Dokument zusammenfaltete. »Emil,
 ich bin gleich wieder da!« — Das galt mir.
 
 Er verließ die Laube. Ich hatte jetzt meine eigene
 Clement in der Hand.
 
 Machtaler trommelte mit den Fingerspitzen einen
-Marsch auf dem Tisch, Ach beobachtete ihn genau. ch
-traute ihm jede Heimtücke zu,
+Marsch auf dem Tisch. Ich beobachtete ihn genau. Ich
+traute ihm jede Heimtücke zu.
 
-Aber — es geschah nichts! Harst kehrte zurück, Er
-hatte ein sauberes Taschentuch in der Hand. Die Ehe mit
+Aber — es geschah nichts! Harst kehrte zurück. Er
+hatte ein sauberes Taschentuch in der Hand. Die Ecke mit
 dem Monogramm war herausgerissen.
 
 <@pagebreak/>
 »Ich muß Ihnen die Augen verbinden,« sagte er zu
-Machtaler, »Stehen @ie auf! — So — nun lassen Sie sich
-auch die Hände auf dem Nicken etwas zusammecnkuoten.
-Vorsicht ist besser als Nachsicht. — Los, Ernst, zum Boot!
+Machtaler. »Stehen Sie auf! — So — nun lassen Sie sich
+auch die Hände auf dem Rücken etwas zusammenknoten.
+Vorsicht ist besser als Nachsicht. — Los, Emil, zum Boot!
 Der Herr Kommerzienrat friert!«
 
-Gleich darauf stieß die Jolle von der kleinen Brücke ab,
-Harald steuerte, Machtaler verhielt sich ganz ruhig.
+Gleich darauf stieß die Jolle von der kleinen Brücke ab.
+Harald steuerte. Machtaler verhielt sich ganz ruhig.
 
-Harst hatte, als wir aus der Laube heraustraien, ein
-Bündel aufgehoben, daß er dort dicht an der Lauben-Bene
-niedergelegt hatte, Dieses Bündel lag jetzt vorn im
+Harst hatte, als wir aus der Laube heraustraten, ein
+Bündel aufgehoben, daß er dort dicht an der Laubenwand
+niedergelegt hatte. Dieses Bündel lag jetzt vorn im
 Boot. —
 
-Es regnete noch immer, Wir legten an der Dampser-brücke
-unterhalb des Schultheiß-Restaurants an,
+Es regnete noch immer. Wir legten an der Dampferbrücke
+unterhalb des Schultheiß-Restaurants an.
 
-Harald führte Mordgier die Treppen empor bis auf
+Harald führte Machtaler die Treppen empor bis auf
 die Straße. Dann nahm er ihm die Augenbinde und
-die Handfesseln ab und lief eiligst zu mir in die Jolle zurück,
-[Ein paar leise Ruderschläge brachten uns in den Verbin-dungskanal
+die Handfesseln ab und lief eiligst zu mir in die Jolle zurück.
+Ein paar leise Ruderschläge brachten uns in den Verbindungskanal
 der beiden Seen.
 
 Hier, wo es stockdunkel war, machte Harst unser Boot
-Commis Hilfe des Ankers fest und flüsterte:
+mit Hilfe des Ankers fest und flüsterte:
 
-»Schnell — umziehen! Das Bündel her. Es- enthält
-Er sei« Nötige,«
+»Schnell — umziehen! Das Bündel her. Es enthält
+alles Nötige.«
 
-Die Jolle hatte achtern ein Klappverbdeck aus Weibergewand,
+Die Jolle hatte achtern ein Klappverdeck aus Oelleinwand.
 Unter diesem Verdeck wurden wir beim Schein einer
 Taschenlampe wieder Harst und Schraut — ohne falsche
 Bärte — in trockenen Anzügen, mit blendend zarter Wäsche.
 
-Selbst unsere Ulster hatte Harst in dem Bündel ver:
-verstaut gehabt,
+Selbst unsere Ulster hatte Harst in dem Bündel verstaut
+gehabt.
 
 So ließen wir die Jolle unter der Brücke, gingen die
-kurze Stier zum Bahnhof Wannsee, bestiegen hier ein Auto,
+kurze Streckte zum Bahnhof Wannsee, bestiegen hier ein Auto.
 
-»Bai 58!« hatte Harald dem Chauffeur Augen
+»Seestraße 58!« hatte Harald dem Chauffeur zugerufen.
 
-Ein Vorortzug aus Berlin, der Sekte, war gerade eingelaufen
+Ein Vorortzug aus Berlin, der letzte, war gerade eingelaufen.
 
 Fünf Minuten später hielten wir vor der Gartenpforte
-Villa nbbitiiidd Y Hochparterre der Villa waren
+der Villa Machtaler. Im Hochparterre der Villa waren
 <@pagebreak/>
-vier Fenster erleuchtet, Schatten glitten über die Bar-,
-hänge hin.
+vier Fenster erleuchtet, Schatten glitten über die Vorhänge
+hin.
 
-Wir läuteten, nachdem das Auto wieder bábondéfahe
-ren war. Ein Diener kam und fragte durch die Gitterstäbe,
-wer mir seien und was wir Wanne:
+Wir läuteten, nachdem das Auto wieder davongefahren
+war. Ein Diener kam und fragte durch die Gitterstäbe,
+wer wir seien und was wir wünschten.
 
-Harst nannte unsere Namen, »Zagen Ehe dem Herrn
+Harst nannte unsere Namen. »Sagen Sie dem Herrn
 Kommerzienrat, daß wir ihn unbedingt sofort in einer sehr
 wichtigen Angelegenheit sprechen müssen.«
 
 Der Diener hastete davon, kam wieder — es waren
-nur wenige Minuten vergangen — zurückgelausen und öffnete
+nur wenige Minuten vergangen — zurückgelaufen und öffnete
 die Pforte.
 
-»Der Herr Kommerzienrat läßt bitten,«
+»Der Herr Kommerzienrat läßt bitten.«
 
-In einer Vorhalle von findigster Aufmachung
+In einer Vorhalle von kinohafter Aufmachung
 empfing Machtaler uns.
 
 »Oh — Sie sendet mir der Himmel, Herr Harst!«
 krähte er. Sein Gesicht zuckte vor ungeheurer Aufregung.
-»Kommen Sie in mein Avrbeitszimmer — kommen Sie!«
+»Kommen Sie in mein Arbeitszimmer — kommen Sie!«
 
 Keine Spur von Verdacht stieg in ihm auf, daß wir
-Heide es gewesen, die soeben das Geständnis von ihm erpreßt
+beide es gewesen, die soeben das Geständnis von ihm erpreßt
 hatten.
 
 Wir saßen in weichen Klubsesseln. Machtaler lehnte
-zappelig am Tisch,
+zappelig am Tisch.
 
-»Wir kommen soeben mit dem Mk Baue aus Berlin,«
-»erklärte Harald mit seiner vornehmen Ruhe, »Wir
-sind von jemand, dessen Namen ich nicht nennen Darf, des
-beauftragt, hier über einen gewissen Fein Ripplow Erlaubte
-Regungen einzuziehen, Ach hörte, daß Sie mit dazu beigetragen
-haben, die dunkeln Machenschaften dieses Mannes aufs
-Herr Kommerzienrat, Würden Sie mir viel-!
-Je! —«
+»Wir kommen soeben mit dem letzten Zuge aus Berlin,«
+erklärte Harald mit seiner vornehmen Ruhe. »Wir
+sind von jemand, dessen Namen ich nicht nennen darf,
+beauftragt, hier über einen gewissen Fritz Ripplow Erkundigungen
+einzuziehen. Ich hörte, daß Sie mit dazu beigetragen
+haben, die dunkeln Machenschaften dieses Mannes aufzudecken,
+Herr Kommerzienrat. Würden Sie mir vielleicht —«
 
 Machtaler tat einen wahren Freudensprung. »Ah —
-dacht’ ich’& Doch! Dacht’ ich’s doch!« jubelte ge »Also Sie
-sind dem Halunken jetzt auf der Fährte! Das trifft sich).
+dacht’ ich’s doch! Dacht’ ich’s doch!« jubelte er. »Also Sie
+sind dem Halunken jetzt auf der Fährte! Das trifft sich
 gut — ausgezeichnet! — Hören Sie, was mir in dieser
-Nacht passiert ist! Ich kam gegen halb zehn von einer Ge-meinderatésißung.
-Ich bin seit Fahren ehrenomillich Ge-meindefchöffe.
+Nacht passiert ist! Ich kam gegen halb zehn von einer Gemeinderatssitzung.
+Ich bin seit Jahren ehrenamtlich Gemeindeschöffe.
 <@pagebreak/>
 Da fiel mich im strömenden Regen in der
-Erstaunen Bergstraße dieser Nipplow an —«
+einsamen Bergstraße dieser Ripplow an —«
 
 »Nicht möglich!« meinte Harald, den Erstaunten
 spielend.
 
-»Ja, ja — es traf so! Der Kerl hatte einen Rekorder
+»Ja, ja — es war so! Der Kerl hatte einen Revolver
 in der Hand und verlangte von mir, ich solle sofort auf
 der Polizeiwache ein Geständnis ablegen, daß ich es gewesen,
 der seinen guten Ruf vernichtet hätte. — Ripplow
-sich nun bereits einmal in einer Nervenheilanstalt gewesen.«
+ist nun bereits einmal in einer Nervenheilanstalt gewesen.«
 
-»Ah — Brieflich?!«
+»Ah — wirklich?!«
 
 »Tatsache, Herr Harst!! —
 
-Da fielen mir treues seltsame Worte ein — ihre Bitte,
+Da fielen mir Irenes seltsame Worte ein — ihre Bitte,
 daß ihr Gatte sich dorthin wieder begeben solle, wo er Ruhe
 und Frieden finden würde. — So ähnlich hatte sie in der
 Palmengrotte gesprochen. Nun wußte ich: sie hatte eine
 Nervenheilanstalt gemeint! —
 
 »Tatsache!« wiederholte Machtaler. »Dieser Ripplow
-ist zuweilen nicht ganz zurechnungsfähig. Die Unterlag
-Arm schalt bat feine Nerven zerrüttet, Jedenfalls: ich sagte
-hin bei diesem unglaublichen Verlangen Nipplows gleich,
+ist zuweilen nicht ganz zurechnungsfähig. Die Untersuchungshaft
+hat seine Nerven zerrüttet. Jedenfalls: ich sagte
+mir bei diesem unglaublichen Verlangen Ripplows gleich,
 daß er nicht ganz bei Sinnen sei. Ich suchte ihn zu beruhigen.
 Da geriet er immer mehr in Wut und — drückte auf
-viel ab! der nur die Zündhütchen dreier Patronen
-strahlten! — Er war so verblüfft, daß er mich entfliehen ließ.
+mich ab! Aber nur die Zündhütchen dreier Patronen
+knallten! — Er war so verblüfft, daß er mich entfliehen ließ.
 Ich rannte blindlings davon —«
 
 »Zur Polizeiwache natürlich?« fragte Harald kühl.
 
 Machtaler wurde verlegen. »Hm — nein, an die Polizei
-dachte ib in Kleiner Mufreming gar nicht!« Er sprach
-immer bärtiger. »Dann merkte ich, d hab mir zwei Leute auf
-den Fersen waren, Ripplow hat zwei Diener, zwei Sig-miesen,
+dachte ich in meiner Aufregung gar nicht!« Er sprach
+immer hastiger. »Dann merkte ich, daß mir zwei Leute auf
+den Fersen waren. Ripplow hat zwei Diener, zwei Siamesen,
 die für ihn einen Mord begehen würden. Diese
-Banditen erwischten mich, anno, hielten mir ein
-mit Chloroform getränktes Tuch an die Kur und schleppten
-mich auf Ripplows Motorjacht. An ich wieder zu mir kam,
-befand sich auch Ripplow in der Kajüte. Er drohte nie,
-im in einem Land zu ersäufen, wenn ich nicht Ins
+Banditen erwischten mich, würgten mich, hielten mir ein
+mit Chloroform getränktes Tuch an die Nase und schleppten
+mich auf Ripplows Motorjacht. Als ich wieder zu mir kam,
+befand sich auch Ripplow in der Kajüte. Er drohte mir,
+mich in einem Sack zu ersäufen, wenn ich nicht schriftlich
 <@pagebreak/>
 ein sogenanntes Geständnis ablegte —« — Was er dann
-weiter erzählte, war uns bekannt Er berichtete, wie er von
+weiter erzählte, war uns bekannt. Er berichtete, wie er von
 zwei Männern in die Laube eines Gartens gebracht worden
 sei und fügte hinzu: »Was sollte ich unter diesen Umständen
 tun?! Ich schrieb wirklich eine Art Geständnis
 nieder, nannte auch Helfershelfer — natürlich alles Unsinn,
 wenn die Namen auch stimmen! — Wie ich dann vor einer
 Viertelstunde heimkehrte, schickte ich sofort meinen Gärtner
-zur Polizei, Ripplow muß unbedingt in eine Irrenanstalt
+zur Polizei. Ripplow muß unbedingt in eine Irrenanstalt
 geschafft werden. Er ist gemeingefährlich.«
 
 »Merkwürdig!« sagte Harald kopfschüttelnd. »Auf dem
 Bahnhof drängte sich vorhin ein Mann an mich heran und
 drückte mir ein paar beschriebene Blätter in die Hand. Ich
 habe im Auto auf der Herfahrt dann nur die ersten Zeilen
-gelesen.« Er faßte in die Brusttasche und holte das Dokus-ment
+gelesen.« Er faßte in die Brusttasche und holte das Dokument
 hervor.
 
 Wie ein Habicht, der auf eine Beute stößt, sprang Machtaler
@@ -1438,26 +1438,26 @@ Ich war sprachlos: Harald ließ das Dokument ruhig
 vernichten! Wie konnte er nur?! —
 
 Machtaler lachte — lachte wie ein Verrückter, zerrieb
-die Asche, — krähte triumphierend: »So — Nun ist der
+die Asche, — krähte triumphierend: »So — nun ist der
 Unsinn vernichtet!«
 
-»Schade!« meinte Harst eisig. »Ich an Sherry Stelle
-Hätte dies Dokument doch lieber als Beweis gegen Ripplow
-bemalt« — Er stand langsam auf. »Herr Komunerx-.
-Kommerzienrat, Ihr stehen Griff nach diesen Papieren, ferner die
-Eile, Mk ver Sie viecselben vernichteten, sprechen gegen Sie!
+»Schade!« meinte Harst eisig. »Ich an Ihrer Stelle
+hätte dies Dokument doch lieber als Beweis gegen Ripplow
+benutzt!« — Er stand langsam auf. »Herr Kommerzienrat,
+Ihr frecher Griff nach diesen Papieren, ferner die
+Eile, mit der Sie dieselben vernichteten, sprechen gegen Sie!
 Hätte das Dokument lediglich erfundene Dinge enthalten,
 würden Sie es nie verbrannt haben.«
 
-Und — er holte legt aus der anderen Brusttasche oberfaule
+Und — er holte jetzt aus der anderen Brusttasche abermals
 zusammengefaltete Bogen heraus.
 
 »Dies sind die, auf denen Ihr Schuldbekenntnis steht!«
 sagte er noch eisiger. »Mag die Art und Weise, wie Ripplow
 <@pagebreak/>
-sich Dieb Geständnis von Ahnen verschaffte, ftrafwilr-dig
-fein: noch ftrafwürdiger sind die Ränke, durch die Sie
-Nipplow moralisch töteten!«
+sich dies Geständnis von Ihnen verschaffte, strafwürdig
+sein: noch strafwürdiger sind die Ränke, durch die Sie
+Ripplow moralisch töteten!«
 
 Er steckte die Papiere wieder ein. »Sie sehen, daß ich
 Sie überlistet habe. Mein Zeugnis wird gegen Sie
@@ -1467,51 +1467,51 @@ Machtaler war wie in einem Anfall von Schwäche in
 einen Sessel gesunken.
 
 Wir verließen die Villa. An der Pforte begegneten
-wir einen Polizeiwachlucister. — Harald nannte feinen
-Namen, »Der Kommerzienrat wird Sie nicht mehr braunen,«
-meinte er,
+wir einem Polizeiwachtmeister. — Harald nannte seinen
+Namen. »Der Kommerzienrat wird Sie nicht mehr brauchen,«
+meinte er.
 
 Wie richtig er den Seelenzustand Machtalers eingeschätzt
 hatte, bewies ein Knall, der von der Villa herüberschallte.
-— Wir eilten wieder in des Fouumerzieurats Arbeitszimmer
-zurück; wir fanden einen Toten =! —
+— Wir eilten wieder in des Kommerzienrats Arbeitszimmer
+zurück; wir fanden einen Toten —! —
 
-Halb zwei Uhr morgens war’s, als die Jolle uns, legt
-bei bleichem Momdenschein, über den stillen See zu Ripplows
-Landungsbrücke führte,
+Halb zwei Uhr morgens war’s, als die Jolle uns, jetzt
+bei bleichem Mondenschein, über den stillen See zu Ripplows
+Landungsbrücke führte.
 
 Und zum zweiten Mal in dieser Nacht betraten wir die
 Palmengrotte.
 
-Der künstliche Sternenhiutmel strahlte.
+Der künstliche Sternenhimmel strahlte.
 
 Am Springbrunnen auf der weißen Bank lag ein
-Brief — an Harst adressiert,
+Brief — an Harst adressiert.
 
 »Ich weiß, was er enthält,« meinte Harald leise. »Sie
-sind entflohen, — er und Sperre und das Kind, Du sahst
-»nicht, was ich sah: daß draußen im Regen Irene eine
-»Welle vor der (Glastür der Laube stand! Sirene, die aus
-»Angst ihren Gatten beobachtet und von einem Boote aus
-»beobachtet hatte, was sich aus dem See abspielte. Da hat
-sie denn ihren Dann nachher gewarnt, da — sind sie entflohen!
-Den Brief können wir daheim lesen,«
+sind entflohen, — er und Irene und das Kind. Du sahst
+nicht, was ich sah: daß draußen im Regen Irene eine
+Weile vor der Glastür der Laube stand! Irene, die aus
+Angst ihren Gatten beobachtet und von einem Boote aus
+beobachtet hatte, was sich auf dem See abspielte. Da hat
+sie denn ihren Mann nachher gewarnt, da — sind sie entflohen!
+Den Brief können wir daheim lesen.«
 
-Noch in derselben Nacht fuhren wie in Mir nach
-Berlin zurück. Und als der ztraflwagen durch die ollen
-Er da Wannsee heimwärts glitt, fragte ich Harald Nu
+Noch in derselben Nacht fuhren wir im Auto nach
+Berlin zurück. Und als der Kraftwagen durch die Villenstraße
+von Wannsee heimwärts glitt, fragte ich Harald nach
 <@pagebreak/>
-dem Motiv der doch so widersinnig erscheinenden Tick
-Ställe Nipplows.
+dem Motiv der doch so widersinnig erscheinenden Diebstähle
+Ripplows.
 
 »Widersinnig?!« entgegnete Harald. »Bedenke: Ripplow
-wurde aus allen Sportvereinen auêsgeschlossen, denen
+wurde aus allen Sportvereinen ausgeschlossen, denen
 er so und so viele Preise gewinnen half! Nur diese Silberpreise
-hat er sich zurückgeholt — nur die! »Seine Hinwiesen
+hat er sich zurückgeholt — nur die! Seine Siamesen
 halfen ihm, erwürgten die Wachhunde. Und diese
 Beute versenkte er im See — er, der Geächtete, der Kranke,
-nicht voll Zurechnungssähige, krank geworden durch schuldlos
-durchlittene Untersuchungshaft! — Der wich den ersten
+nicht voll Zurechnungsfähige, krank geworden durch schuldlos
+durchlittene Untersuchungshaft! — Wer will den ersten
 Stein auf ihn werfen?« —
 
 Mit Irene Ripplows Brief will ich den zweiten Teil
@@ -1526,7 +1526,7 @@ Auch ein Harst kann sich zuweilen irren.
 <h2>1. Kapitel.</h2>
 
 Morgens um fünf Uhr waren wir wieder daheim —
-ver Blücherstraße Ne. 10 in Schmargendorf, dem weichen
+in der Blücherstraße Ne. 10 in Schmargendorf, dem weichen
 Berliner Vorort.
 
 Daheim in Harsts altem Familienhause, in Knallte
@@ -1594,7 +1594,7 @@ tiefen gegenseitigen Neigung.
 Ich lernte Fritz Ripplow lieben trotz all feiner Schwächen
 und trotz der Geheimnisse, die ihn umgaben. Er war jäh«
 zornig, war ein Herrenmensch, war brutal. Seine Persönlichkeit
-war wie Mit undurchsichtigen Schleiern zum Teil ver
+war wie Mit undurchsichtigen Schleiern zum Teil der
 hüllt. Da gab es Dinge, über die er nie sprach — nie!
 Fragte ich ihn nach Einzelheiten seiner Flucht, so sagte er
 nur; »Alles war abenteuerlich, gefährlich, eine Reihe Für
@@ -1604,7 +1604,7 @@ ich fühlte, da waren irgendwelche Geschehnisse, die er
 verschweigen wollte,
 
 Dann verlobten wir uns — heimlich zuerst, denn. schon
-damals begann sich das Gewitter über seinem taugte zu-sammenzuziehen,
+damals begann sich das Gewitter über seinem taugte zusammenzuziehen,
 dessen schwarze Wolken der Schuft Machtaler
 lenkte. Ich mußte nun auf Werd’ Wunsch meine Stehe
 Zahlung in seinem Geschäft ausgeben, Ich zog nach der Kolonie
@@ -1717,7 +1717,7 @@ totaler in feine Gewalt bringen wollte und ihm nach dem
 Loben trachtete. By
 
 An diesem Abend, der soeben vergangen, habe ich aus
-seinem Revolver die Kugeln und das Pulver ver Patronen
+seinem Revolver die Kugeln und das Pulver der Patronen
 entfernt, So rettete ich Machtaler das Leben. In dieser
 Nacht jedoch, nach einer heftigen Szene in der Palntengrotte,
 nach einer Aussöhnung, Die nur oberflächlich blieb, kam
@@ -1839,7 +1839,7 @@ muß den füllen See zur Linken weiße Schwäne im Mai-abenddämmer
 vahinzogen wie leuchtende Punkte, sprach
 Harst den ersten Saß während der Fahrt:
 
-»Der Fall Nipplow beginnt erst!«
+»Der Fall Ripplow beginnt erst!«
 
 Welche Aussichten schöneren diese fünf Worte!
 
@@ -1851,7 +1851,7 @@ weben, sollen geklärt werden! —
 Und wieder versank er in Schweigen. Erst als das
 Auto vor. dem Hause hielt, der zweite Sah:
 
-»es wird ein Fall Nipplow-Stern werden!«
+»es wird ein Fall Ripplow-Stern werden!«
 
 Hamburg —! ch ahnte, wir würden Hamburg wies
 verleben! —
@@ -1880,10 +1880,10 @@ Mag log N — Unbegreiflich! —
 Dann waren wir wieder am Japantischchen in der
 Fensterecke zu zweien.
 
-Haralds versonnenen Blick lag auf meinem abgespann-ten
+Haralds versonnenen Blick lag auf meinem abgespannten
 Gesicht.
 
-»es roch so schön im Küchenfiur,« sagte er.
+»es roch so schön im Küchenflur,« sagte er.
 
 Was sollte das?!
 
@@ -1910,11 +1910,11 @@ Ich dachte an Edgar Stern, den zweiten Geheimnisvollen.
 Um neun Uhr vormittags entführte uns der D-Zug
 nach Hamburg. Im drei Uhr nachmittags mieteten sich zwei
 bärtige Maler als Sommergäste bei Klaus Störten im
-Dorswirtshaus von Napproeje ein, denn — dort in der
+Dorfwirtshaus von Napproeje ein, denn — dort in der
 Nähe hatten wir Edgar Stern aufgestöbert, dort lag sein
 Sinnbild. —
 
-Der alte Kneipwirt Klaus Störten trug den Nachmit-tagstaffee
+Der alte Kneipwirt Klaus Störten trug den Nachmittagskaffee
 auf. Wir saßen in der Veranda. Hundert Meter
 nach öfter blinkte der Elbsirom im Sonnenschein.
 
@@ -1956,7 +1956,7 @@ Klaus Störten erklärte mit überlegener Miene:
 
 »Ne, Herr Holmer, so was — das ist nichts für Herrn
 Stern! Der hält’s so mit der höheren Magie, so mich
-Spiritismus, Offultismus und wie der unheimliche Kram
+Spiritismus, Okkultismus und wie der unheimliche Kram
 sonst noch heißt. Decke Woche zweimal kommen abends zu
 ihm die feinsten Leute aus Hamburg heraus, alles so ’ne
 Gritierbefhwörer, In Autos kommen sie, und reich müssen
@@ -1968,7 +1968,7 @@ So — so! — Na — für Spiritismus habe ich nichts
 Auf Wiedersehen, Herr Störten,«
 
 Wir schlenderten die Dorfstraße hinab. Ich schleppte
-weiß mit einem Malkasten. Harald trug die Klappstasselei.,
+weiß mit einem Malkasten. Harald trug die Klappstaffelei.,
 
 Siweibundert Meter von den legten Häusern des Dorfes
 ab lag an einem Feldwege näher nach der Elbe hin das
@@ -1985,7 +1985,7 @@ Garten einen Mann mit schwarzem Seidenkäppchen auf
 dem taugte, gehüllt in einen gelben Leinennmantel, aufs
 tauchen. Er hatte einen Spaten in der Rechten und in der
 Linken — ja — in der Linien eine tote Kais, die er am
-Schwanz gepackt hatte. Er trat in eine Lücke der Weiden-büfche
+Schwanz gepackt hatte. Er trat in eine Lücke der Weidenbüsche
 dicht am Zaun und warf die Habe auf den Boden,
 ein Loch und stieß das tote Tier hinein, fehilttete das
 »Loch wieder zu und stampfte die Erde fest, Um uns beide
@@ -2031,25 +2031,25 @@ enthielten, und erklärte dann:
 schöpft hat und in dem Singenbalg etwas mit vergraben
 hat, das er gern beiseite schaffen wollte,«
 
-»Ja. Er flaltuliert so; wir werden das Kaßenhe-gräbnis
+»Ja. Er flaltuliert so; wir werden das Katzenbegräbnis
 für harmlos ansehen, und daher in dem Erdloche
 nicht suchen.«
 
 »Suchen?! Wie kämen wir denn überhaupt dazu, in
 dem Häuschen etwas zu suchen?! Gewiß: wir vermuten
-Neid Nipplow hier. Du willst, wie Du mir erklärtest, ihn
+Neid Ripplow hier. Du willst, wie Du mir erklärtest, ihn
 sprechen, willst ihn gleichsam über den Tod feiner ran und
 feines Kindes trösten und ihm auch mitteilen, daß wir seine
-ganze Silberbeute vorgestern nacht im Garten des Poseidon-
-Klubhauses niedergelegt haben, wo sie auch bereist gefunden
+ganze Silberbeute vorgestern nacht im Garten des Poseidon-Klubhauses
+niedergelegt haben, wo sie auch bereist gefunden
 ist,«
 
 Harald malte ruhig weiter, »Ich will noch weit mehr,«
 meinte er. »Ich will Dir beweisen, daß »unsereiner auf
-alles achten muß, selbst auf Hüchendüfte —«
+alles achten muß, selbst auf Küchendüfte —«
 
 Da dachte ich zu feine Bemerkung: »Es roch so schön
-im Küchenslur!«
+im Küchenflur!«
 
 "— und nervöse Unruhe der Mitbewohner —«
 
@@ -2066,7 +2066,7 @@ Pviederholte: "— Milch?!«
 »Um aber auf Vorige andere Zwischenfrage zurückzukommen,
 mein Alter,« fuhr er schnell fort, »auf die Frage,
 das wir hier suchen sollten — zu suchen hätten, so möchte«
-ich Dich daran erinnern, daß die Polizei die Villa Nipplow
+ich Dich daran erinnern, daß die Polizei die Villa Ripplow
 in Wannsee gänzlich verlassen vorfand. Die beiden Siamesen
 Diener, die Köchin, der Gärtner, das Stubenmädchen
 + alle waren auf und davon, Und in Fritz Ripplows in
@@ -2075,13 +2075,13 @@ die Wand eingemamertem Insofern: lagen lediglich ach!
 leere Als von Schmucksachen, Etuis von so kostbarer, Eis
 genarliger Ausstattung, daß der Blick des Kenners sofort
 sah, daß es sich um Kästchen handelte, die in Singapore, der
-Zentrale der afiatifhen Perlenausfuhr bevorsteht waren.«
+Zentrale der asiatischen Perlenausfuhr bevorsteht waren.«
 
 »Allerdings. Das war sogar feinste chinesische Arbeit,
 aus dem Chinesenviertel Singapores stammend.«
 
 »Ja — Und auf der Unterseite dieser Etuis waren
-zerkratzte Stellen. Dort hatten die Geschäitszeichen der Her
+zerkratzte Stellen. Dort hatten die Geschäftszeichen der Her
 Hersteller gestanden, die Fabrikmarken sozusagen, Man hatte
 sie entfernt. Weshalb wohl?«
 
@@ -2107,7 +2107,7 @@ Gesicht nichts aufgefallen?«
 »Nein —« — Ich sprach es sehr nachdenklich hin. Ich
 bemibte mich, hinter Harsts stille Gedanken zu kommen.
 
-Er trat jetzt wieder ein paar Schritt von der Stase-Pefet
+Er trat jetzt wieder ein paar Schritt von der Grase-Betet
 zurück und musterte prüfenp fein Bild,
 
 Dann fügte er hinzu: »Wir werden auch noch von
@@ -2121,7 +2121,7 @@ kostbares Spiegelfernglas bei sich hat,«
 »Noch ein Fernglas?!«
 
 »Isa noch eins! — Der Mann trat schicken da, als
-wir hier erschienen. fürchte, um Nipplows Haupt Ballen
+wir hier erschienen. fürchte, um Ripplows Haupt Ballen
 sich dunklere Wolken zusammen, als er auch nur im
 eittfernlesten ahnt.« — Er begann einzupacken.
 
@@ -2189,7 +2189,7 @@ wieder und meinte leise:
 eingeschlossen Ja dem Rucksack befinden sich als Die Requisiten,
 die zur Maskierung als Strolch nötig sind, ebenso
 das tadellose Fernglas. Kühn, war also Pennheuder,
-ver Sterns Häuschen beobachtete.«
+der Sterns Häuschen beobachtete.«
 
 »Donnerwetter!« entfuhr es mir.
 
@@ -2212,16 +2212,16 @@ Das konnte ja eine interessante Nacht werden!
 Schluß geben wolltest,« bat ich nun. »Kühn Lohn doch bereits
 <@pagebreak/>
 eine Woche lang hier. Vor einer Woche hatte die Polizei
-noch keinerlei Veranlassung, sich mit Fritz Nipplow zu
+noch keinerlei Veranlassung, sich mit Fritz Ripplow zu
 beschäftigen. Auch Privatpersonen hatten hierzu keinen
-Grund. Nipplow war ja damals noch in Wannsee, Kühn
+Grund. Ripplow war ja damals noch in Wannsee, Kühn
 hat also lediglich Edgar Stern alias Ballatini beobachtet.
 Weshalb tut! er dies? Was liegt gegen Stern vor? — Mir
 scheint, du weißt es«
 
 »Nein, ich weiß es nicht. Ich vermute e& nur, und
 zwar auf Grund des geheimnisvollen Wundert, das Stern
-und Nipploiw umgibt. Wenn Du Nipplows eigenartiges
+und Nipploiw umgibt. Wenn Du Ripplows eigenartiges
 Verhalten, was seine Eheschließung mit Irene betrifft, in
 deren Brief sehr sorgfältig geprüft hättest, wärest Du wahrscheinlich
 zu demselben Ergebnis wie ich gekommen. Besonders
@@ -2232,7 +2232,7 @@ seine Schwester ausgab,«
 Bitte, Woge ganz offen, was Du vermutest,«
 
 »Nun — es Eltern und Ripplow Haben genau
-denselben Gesichtsschnitt, dieselbe Nasensorm, dieselbe Größe.
+denselben Gesichtsschnitt, dieselbe Nasenform, dieselbe Größe.
 Ich halte sie für Vater und Sohn.«
 
 »Ah — Du maóst recht haben!«
@@ -2255,10 +2255,10 @@ Siam und von Ferner abenteuerlichen Flucht aus dem Jn-ternierungêlager
 <@pagebreak/>
 stets nur in allgemeinen Redensarten
 sprach, - - dann — dann gelangst Du wohl wie auch ich zu
-dem Ergebnis: Nipplow hat existiert? Es gab einen ein
+dem Ergebnis: Ripplow hat existiert? Es gab einen ein
 Ripplow, der auf einer Plantage in Siam viele Jahre gelebt
 hat. Aber dieser Fritz Ripplow ist nicht — unser Ripplow!
-Kurz: Fernes Gatte spielt hier nur jenen Nipplow,
+Kurz: Fernes Gatte spielt hier nur jenen Ripplow,
 bürste sich dessen Papiere, Kostbarkeiten und Vermögen viele
 leicht — vielleicht! — angeeignet haben und ist in Wirilich-keit
 Sterns Sohn.«
@@ -2291,8 +2291,8 @@ Sehr leise wurde die Tür zugebracht Dann hörten
 An nichts mehr, so scharf wir auch horchten,
 
 Draußen im Wirtshausgarten (die Zimmer lagen nach
-ver Seite hinaus) rauschten die Binden. Von der Elbe her
-kam immer wieder das dumpfe Geheul von Dampsersirenen
+der Seite hinaus) rauschten die Binden. Von der Elbe her
+kam immer wieder das dumpfe Geheul von Dampfersirenen
 herüber, Der Himmel hatte sich bewölkt,
 
 <@pagebreak/>
@@ -2327,12 +2327,12 @@ Leise Geräusche.
 Kühn grub — grub die Rate aus.
 
 Wir schoben uns noch näher heran, Das Gras stand
-hier recht hoch, Ein paar Distelstauden und. Brombeer-sträucher
+hier recht hoch, Ein paar Distelstauden und. Brombeersträucher
 verbargen uns,
 
 Nun sahen wir Kühn deutlicher. Er hatte wieder das
 Strolchkostüm angelegt. Er kniete und — ließ jetzt den
-schmalen Lichtstreis einer halb von der Hand verhüllten
+schmalen Lichtstreif einer halb von der Hand verhüllten
 Taschenlampe auf den auêsgegrabenen Kadaver sollen.
 
 »Verdammt — wirklich ein totes Vieh!« brummte er.
@@ -2354,12 +2354,12 @@ Weiter von dem Erdloche ab auf den Boden.
 
 <@pagebreak/>
 Dann tastete er in dem Loche umher, hielt dabei den
-Atem an, brachte — einen Zinkblechzylinder von Unter-armlänge
+Atem an, brachte — einen Zinkblechzylinder von Unterarmlänge
 zum Vorschein, Der Zylinder hatte oben einen
 Hebelverschluß, Offenbar hatte Kühn den Hebel herabass
-drückt und dadurch irgend ein geruhloses Gas ausftrönen
-lassen. Der Zylinder war also mit einem chemischen Ge-menge
-gefüllt. Seit dem Weltlriege war ja die Chemie in
+drückt und dadurch irgend ein geruchloses Gas ausftrönen
+lassen. Der Zylinder war also mit einem chemischen Gemenge
+gefüllt. Seit dem Weltkriege war ja die Chemie in
 der Herstellung derartiger Präparate sehr weit vorgeschritten.
 
 Dann warf Harald den Zylinder ein Stück entfernt in
@@ -2371,7 +2371,7 @@ Bauche des Kadavers aufzutrennen,
 Ich beugte mich tief herab.
 
 Watte — Watte, — und dann ein längliches Päckchen
-holte er aus dem Kayenbauch hervor,
+holte er aus dem Katzenbauch hervor,
 
 »Leuchte vorsichtig!« flüsterte er.
 
@@ -2434,7 +2434,7 @@ um Erfahrung bringen,«
 
 Dann mischte sich eine dritte Stimme ein. Und da erst
 bemerkte ich auch Herrn Kollegen Kühn, der im Gegensatz
-zu uns gefesselt in einem zweiten Lehnsessel vor einem vier-teiligen,
+zu uns gefesselt in einem zweiten Lehnsessel vor einem vierteiligen,
 reich mit silbernen Vögeln verzierten japanischen
 Wandschirm saß und zwar uns schräg gegenüber anbei
 anderen Zimmerseite.
@@ -2475,7 +2475,7 @@ Das Zimmer war sehr eigenartig eingerichtet. Beträte
 ein Museum. Da waren Andenken aus aller Herren
 Ländern vertreten. Da hingen an den Wänden kostbare See
 betteppiche mit Dortigem Glanz, Waffen, Tanzmasten von
-Negerftänmeen, Zigerfelle, ein präparierter Elesanteukopf
+Negerftänmeen, Zigerfelle, ein präparierter Elefantenkopf
 mit den Stoßzähnen und anderes.
 
 Stern ließ plötzlich ein überraschtes »Ja der Tat!«
@@ -2512,7 +2512,7 @@ Sie aufmerksam, Herr Stern.«
 
 »Und — was haben Sie bisher erforscht?«
 
-»So gut wie nichts. Lediglich das eine, daß Nipplows
+»So gut wie nichts. Lediglich das eine, daß Ripplows
 angebliche Schwester in Wahrheit feine Gattin und
 laß der Ehe ein Kind entiproffen ist.«
 
@@ -2552,7 +2552,7 @@ getrost an.«
 also,« Herr Stern: ich werde schweigen!« is
 
 Stern nahm ihm die Fesseln (es war gelbe Gardinenschnur)
-ab und holte aus dem Nebenzimmer eine Blech-kassette,
+ab und holte aus dem Nebenzimmer eine Blechkassette,
 zahlte Dreßler das Geld aus und sagte: »Bitte
 — klettern Sie durch das Fenster!«
 
@@ -2596,9 +2596,9 @@ Zögernd.
 
 »Erscheint Ihnen das so unmöglich? Hat Ihnen Ihr
 — Sohn nicht erzählt, daß Frau Irene he! mir war und
-daß sie und beobachtete, wie wir Machtaler in ver Laube
+daß sie und beobachtete, wie wir Machtaler in der Laube
 Male Gefangenen behandelten? Liegt es da weg sehr nahe,
-daß wir Ihren — Sohn hier bei Ihnen suchten?!»
+daß wir Ihren — Sohn hier bei Ihnen suchten?!«
 
 Edgar Stern lehnte sich wieder zurück und ließ wie mutlos
 den Kopf sinken.
@@ -2606,7 +2606,7 @@ den Kopf sinken.
 Dann meinte er nach einer Weile mit einer Stimme,
 die ganz verändert schien:
 
-Wie kommen Sie darauf, daß Nipplow mein Sohn
+Wie kommen Sie darauf, daß Ripplow mein Sohn
 sei, Herr Zi
 
 »Durch die Aehnlichkeit mit Sinnen.«
@@ -2630,7 +2630,7 @@ Edgar Stern klirrte Hart blöde an.
 Und — und hinter dem japanischen Wandschirm kam
 jetzt verbog wie ein dumpfer Schrei hervor.
 
-»Herr Ripplorv, zeigen Sie sich nur!« sagte Harald Da.
+»Herr Magiern, zeigen Sie sich nur!« sagte Harald Da.
 Ripplow erhob sich.
 
 Selten sah ich ein so verstörtes, fehmerzberzerrtes Miän-neranilih
@@ -2644,7 +2644,7 @@ Da mit gegen abgefilht. Wir haben nichts gen
 Anden.
 
 <@pagebreak/>
-Nipplow sank in den nächsten Stuhl.
+Ripplow sank in den nächsten Stuhl.
 
 »Und — und Sie meinen wirklich, daß Irene tot ist?«
 fragte er wieder.
@@ -2658,11 +2658,11 @@ mehr mit aller Deutlichkeit zu Tage!
 »Ich weiß es nicht, Herr Stern,« erklärte Harald
 freundlich. Er redete Ripplow jetzt mit Stern an.
 
-Und — Nipplow achtete gar nicht darauf.
+Und — Ripplow achtete gar nicht darauf.
 
 »ich weiß e nicht,« wiederholte Harst. »JY hoffe,
 daß die Liebe zu Ihnen sie noch im lohten Moment von
-diesem Schritt zurückgehalten hat. Jedenfalls ist sie ver
+diesem Schritt zurückgehalten hat. Jedenfalls ist sie der
 geschwunden. Die Villa ist leer. Wo Ihre Dienerschaft sich
 befindet, willen Sie ja: auf beim Fischkutter draußen! Ihre
 Siamesen sind nur mäßig als Fischer herattögepugt.«
@@ -2701,11 +2701,11 @@ Harald deckte jetzt die große Teebüchse mit einer des
 <@pagebreak/>
 wissen ironischen Bedächtigkeit wieder zu und sagte: »Ich
 will Ihnen all die Beweise auszahlen, Die ich dafür habe,
-daß Sie, Herr Stern junior, nur die Rolle des Fritz Nipplow
+daß Sie, Herr Stern junior, nur die Rolle des Fritz Ripplow
 hier spielen,« — Er entwickelte diese Beweise dann weit
 eingehender, als eines mir gegenüber getan hatte, Er war
 in diesem Moment ein genialer Staatsanwalt, der mit der
-ganzen Ueberlegenheit des fühl-fritishen, logischen Ver-slandesmenschen
+ganzen Ueberlegenheit des fühl-fritishen, logischen Verstandesmenschen
 einem Angeklagten vorhält, da gegenüber
 einem so erprüdenpen Beweismaterial ein Geständnis das
 einzig Vernünftige sei, — »Ich zweifle nicht daran, daß Sie
@@ -2820,7 +2820,7 @@ Harald küßte sie, »Mutter, ich wußte es ja, daß Irene
 mit Ihrem Kinde hier M Dir geflüchtet war, Du hattest
 sie wohl am Tage vorher sehr lieb behandelt. Du kannst
 ed, Mut N Du gewinnst Dir die in im Sturm! —
-Wenn es im Küchenslur nach Geflügelsuppe riecht, wenn
+Wenn es im Küchenflur nach Geflügelsuppe riecht, wenn
 unsere alte brave Mathilde plötzlich so viel Milch fault wie
 nie blühen, dann war es für Deinen großen Jungen nicht
 Schwer, auf den Besuch und die Gäste oben in Deinen Räumen
@@ -2859,7 +2859,7 @@ war leer,
 
 Der Affe ist verschwunden,« sagte einer der beiden
 Beamten. »Es war ein riesiger Schimpanse, Er soll sehr
-zahm gewesen fein und an der Schwester Nipplows mit
+zahm gewesen fein und an der Schwester Ripplows mit
 großer Treue gehangen haben.«
 
 Ja — Schwester Ripplows! Irene! Die suchten wir,
@@ -2959,17 +2959,17 @@ feine Nerven mehr zerrüttet als Machtalers infame Im
 Intrigen! —
 
 Das versöhnte Ehepaar begab sich vorläufig nicht feinem
-Kinde nach Holland, wo Bei Nipplow, in Wahrheit Herr
+Kinde nach Holland, wo Bei Ripplow, in Wahrheit Herr
 erobert Stern, den Erfolg von Harsts Bemühungen abwariete,
 ihn vor einer abermaligen Berhaftiung zu schützen.
 
 Harald wandte sich an die zuständigen Behörden, wies
 nach, daß Ripplowos Testament doch gültig sei, beseitigte
 alle anderen Schwierigkeiten und erreichte, daß Herbert
--ehren nachher lediglich in eine Geidfirafe wegen Führung
+ehren nachher lediglich in eine Geidfirafe wegen Führung
 eines falschen Namens genommen wurde. —
 
-von den Juwelen, die ver Kabßenbauch enthielt, machte
+von den Juwelen, die der Kabßenbauch enthielt, machte
 unser Freund Herbert uns je eine kostbare Perle als Krà-tonttennadel
 zum Geschenk. Aber — wär beide tragen diese
 Andenken Wie! Wir sind vorsichtig: den diese Perlen
