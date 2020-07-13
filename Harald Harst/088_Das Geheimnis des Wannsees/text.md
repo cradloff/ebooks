@@ -1526,258 +1526,258 @@ Auch ein Harst kann sich zuweilen irren.
 <h2>1. Kapitel.</h2>
 
 Morgens um fünf Uhr waren wir wieder daheim —
-in der Blücherstraße Ne. 10 in Schmargendorf, dem weichen
+in der Blücherstraße Nr. 10 in Schmargendorf, dem westlichen
 Berliner Vorort.
 
-Daheim in Harsts altem Familienhause, in Knallte
+Daheim in Harsts altem Familienhause, in Harsts
 vornehmem Arbeitszimmer.
 
 Saßen in der Fensterecke an dem japanischen Tischchen,
-unter der bunten japaitishen Seidenampel, Nur die Teemaschine
-summte ihr trauliches Lied, während e Du
-Nun in der Helle des rauen Tages die öde
-Ahnten. —
+unter der bunten japanischen Seidenampel. Nur die Teemaschine
+summte ihr trauliches Lied, während draußen im
+Vorgarten in der Helle des neuen Tages die Spatzen
+lärmten. —
 
 Harst schnitt den Briefumschlag auf.
 
 <@pagebreak 35/>
-Vor ihm auf der Michenfchale, der Schädeldecke eines
-von ihm in Stadien erlegten Tigers, lag die qualmende
-»Mirakulum und sandte einen Rauchfaden in blaugrauen
-Spiralen zur Ampel empor,
+Vor ihm auf der Aschenschale, der Schädeldecke eines
+von ihm in Indien erlegten Tigers, lag die qualmende
+Mirakulum und sandte einen Rauchfaden in blaugrauen
+Spiralen zur Ampel empor.
 
-Harald las;
+Harald las:
 
 »Herr Harst,
 
-Wenn Sie diese Heilen erhalten, bin ich dem großen Rätsel
-es Jenseits nähergekommen —«
+Wenn Sie diese Zeilen erhalten, bin ich dem großen Rätsel
+des Jenseits nähergekommen —«
 
-Mach hielt inne, ließ die Hand mit dem Briefbogen
-sinken,
+Er hielt inne, ließ die Hand mit dem Briefbogen
+sinken.
 
 »Mein Gott!« entfuhr es ihm. »Sollte — sollte ich
-die Dinge doch falsch beurteilt haben k«
+die Dinge doch falsch beurteilt haben!«
 
-Mach Ich hatte mich vorgebeugt,
+Auch ich hatte mich vorgebeugt.
 
-»Weiter!« bat ich tonlos,
+»Weiter!« bat ich tonlos.
 
-Und er las wieder — scheu, anafiven fast:
+Und er las wieder — scheu, angstvoll fast:
 
 »Sie sollen die Geschichte meiner Liebe kennenlernen,
 Sie sollen begreifen, weshalb ich das Leben von mir warf
-nd mein Kind mit in den Tod nahm.
+und mein Kind mit in den Tod nahm.
 
-Ich war seit meinem achten Lebensjahr Waise, Meine
-Jugend wurde Durch zwei uralte, weltfremde Damen vergittert,
-bei denen ich aufwuchs, Ich bin nie richtig jung
-gewesen, durfte es nicht fein. — Mit achtzehn Fahren trat
-als Korrespondentin in das soeben erst von Fritz Ripplow
+Ich war seit meinem achten Lebensjahr Waise. Meine
+Jugend wurde durch zwei uralte, weltfremde Damen verbittert,
+bei denen ich aufwuchs. Ich bin nie richtig jung
+gewesen, durfte es nicht sein. — Mit achtzehn Jahren trat
+ich als Korrespondentin in das soeben erst von Fritz Ripplow
 gegründete Geschäft ein. Er war auf abenteuerliche
-Ich aus einen Gefangenenlager in Bangkok entflohen und
-919 im Januar nach endlosen Mäßigten nach Berlin gesagt,
+Art aus einen Gefangenenlager in Bangkok entflohen und
+1919 im Januar nach endlosen Mühsalen nach Berlin gelangt.
 Der Weltkrieg war aus. Ripplow, der ein sehr
-Floßes Guthaben bei der Bank von England und in London
-und Ansterdam viele Geschäftsfreunde von früher besaß,
-richtete feine Firma in großzügigster Weise ein. Sehr
-Old wurde ich seine Privatsekretärin. Er brauchte einen
-Menschen, dem er viefhaltlos vertrauen konnte, Meine
-Mr Art, meine Zurückhaltung und eine mir eigene rasche
-Ussassungsgabe ließen seine Wahl auf mich fallen. ch
-er in alles eingeweiht, Wir wurden die besten Kamera-Unser
-häufiges Alleinsein und die genas Art unserer
+großes Guthaben bei der Bank von England und in London
+und Amsterdam viele Geschäftsfreunde von früher besaß,
+richtete seine Firma in großzügigster Weise ein. Sehr
+bald wurde ich seine Privatsekretärin. Er brauchte einen
+Menschen, dem er rückhaltlos vertrauen konnte. Meine
+stille Art, meine Zurückhaltung und eine mir eigene rasche
+Auffassungsgabe ließen seine Wahl auf mich fallen. Ich
+war in alles eingeweiht. Wir wurden die besten Kameraden.
+Unser häufiges Alleinsein und die ganze Art unserer
 <@pagebreak/>
-Beziehungen zueinander forderten das Uniformen einer
+Beziehungen zueinander förderten das Aufkeimen einer
 tiefen gegenseitigen Neigung.
 
-Ich lernte Fritz Ripplow lieben trotz all feiner Schwächen
-und trotz der Geheimnisse, die ihn umgaben. Er war jäh«
-zornig, war ein Herrenmensch, war brutal. Seine Persönlichkeit
-war wie Mit undurchsichtigen Schleiern zum Teil der
-hüllt. Da gab es Dinge, über die er nie sprach — nie!
+Ich lernte Fritz Ripplow lieben trotz all seiner Schwächen
+und trotz der Geheimnisse, die ihn umgaben. Er war jähzornig,
+war ein Herrenmensch, war brutal. Seine Persönlichkeit
+war wie mit undurchsichtigen Schleiern zum Teil verhüllt.
+Da gab es Dinge, über die er nie sprach — nie!
 Fragte ich ihn nach Einzelheiten seiner Flucht, so sagte er
-nur; »Alles war abenteuerlich, gefährlich, eine Reihe Für
+nur: »Alles war abenteuerlich, gefährlich, eine Reihe
 körperlicher und seelischer Strapazen!« — Fragte ich ihn nach
-seinem Leben in Siam, so antwortete er ähnlich, Jedenfalls:
+seinem Leben in Siam, so antwortete er ähnlich. Jedenfalls:
 ich fühlte, da waren irgendwelche Geschehnisse, die er
-verschweigen wollte,
+verschweigen wollte.
 
-Dann verlobten wir uns — heimlich zuerst, denn. schon
-damals begann sich das Gewitter über seinem taugte zusammenzuziehen,
+Dann verlobten wir uns — heimlich zuerst, denn schon
+damals begann sich das Gewitter über seinem Haupte zusammenzuziehen,
 dessen schwarze Wolken der Schuft Machtaler
-lenkte. Ich mußte nun auf Werd’ Wunsch meine Stehe
-Zahlung in seinem Geschäft ausgeben, Ich zog nach der Kolonie
-Grunewald hinaus, Ich blühte auf im Sonnenschein
+lenkte. Ich mußte nun auf Fritz’ Wunsch meine Stellung
+in seinem Geschäft aufgeben. Ich zog nach der Kolonie
+Grunewald hinaus. Ich blühte auf im Sonnenschein
 dieser Liebe.
 
 Nur zu schnell kamen dann die harten Schläge des
-Schicksals: Fritz wurde verhaftet Er konnte mir gerade
+Schicksals: Fritz wurde verhaftet. Er konnte mir gerade
 noch heimlich einen Brief senden: ich solle mich sofort nach
 Hamburg begeben zu einem Freunde von ihm und dort
 das weitere abwarten.
 
-Ich Hatte in dem Pensionat der Villenkolonie Grunewald
-als Werd’ Schwester gewohnt, Er hatte es so See.
-wollt. ch packte also meine Koffer und fuhr nach Hamburg
+Ich hatte in dem Pensionat der Villenkolonie Grunewald
+als Fritz’ Schwester gewohnt. Er hatte es so gewollt.
+Ich packte also meine Koffer und fuhr nach Hamburg
 zu Edgar Stern.
 
-Noch nie hatte er diesen Freund bisher vor mir cm
-wähnt. Ich hatte geglaubt, Fritz besäße weder Verwandte
+Noch nie hatte er diesen Freund bisher vor mir erwähnt.
+Ich hatte geglaubt, Fritz besäße weder Verwandte
 noch Freunde in Deutschland.
 
 Stern holte mich vom Bahnhof ab.
 
 Denken Sie mein Erstaunen, als ein altes Männchen,
-bartlos, faltig, weißhaarig und gebückt von der Last der.
-Jahre, auf mich zutraf und sich als Edgar Stern vorstellte,
+bartlos, faltig, weißhaarig und gebückt von der Last der
+Jahre, auf mich zutrat und sich als Edgar Stern vorstellte.
 <@pagebreak/>
 Er brachte mich im Auto nach seinem nördlich von
-»Hamburg am Elbufer Gelegenen Häuschen,
+Hamburg am Elbufer gelegenen Häuschen.
 
-Das heißt: Lupa: |: brachte er mich in ein Meines
+Das heißt: zunächst brachte er mich in ein kleines
 Restaurant, wo wir bis zur Dunkelheit blieben. Dann erst
-fuhren wir nach feinen Heim.
+fuhren wir nach seinem Heim.
 
-»Ihre Spur plus, vermischt werden,« erklärte er mir.
+»Ihre Spur muß verwischt werden,« erklärte er mir.
 
 Und als ich ihn fragte, wie er mich denn auf dem Bahnsteig
 sofort erkannt hätte, erwiderte er: »Fritz hat mir Ihre
 Photographie geschickt.«
 
 Abends um halb elf langten wir bei seinem einsamen
-Grund Druck an. Er hauste dort ganz allein, Ich erhielt das
-beste Zimmer angenieteten. Er behandelte mich mit rührender
+Grundstück an. Er hauste dort ganz allein. Ich erhielt das
+beste Zimmer zugewiesen. Er behandelte mich mit rührender
 Fürsorge. Und doch: auch hier etwas Geheimnisvolles,
 auch hier gewisse Fragen, auf die Edgar Stern nur
 mit Redensarten antwortete.
 
-Von ihm erfuhr ich erst, daß Berg tatsächlich eine
-€ Bewegter gehabt hätte, die jedoch während der Flucht von
-Siam verstorben sei, Sie hätte ebenfalls — ein Lupa
+Von ihm erfuhr ich erst, daß Fritz tatsächlich eine
+Schwester gehabt hätte, die jedoch während der Flucht von
+Siam verstorben sei. Sie hätte ebenfalls — ein Zufall! —
 Irene, geheißen.
 
-Fünf Monate blieb ich he! Edgar Stern —: fünf Monate,
+Fünf Monate blieb ich bei Edgar Stern — fünf Monate,
 und doch weiß ich noch heute nicht, welchen Beruf
 er einst ausgeübt hatte.
 
 Dann traf Fritz eines Tages ein. Seine Unschuld
 war zwar nicht erwiesen, aber aus Mangel an Beweisen
-hatte man ihn ans der Untersuchungshaft entlassen müssen,
+hatte man ihn aus der Untersuchungshaft entlassen müssen.
 
-Als ein völlig Veränderter trat er mir gegenüber,
-Mine Liebe war die gleiche geblieben, Er selbst war seelisch
+Als ein völlig Veränderter trat er mir gegenüber.
+Seine Liebe war die gleiche geblieben. Er selbst war seelisch
 gebrochen.
 
-Mir gelang es, ihn wieder auszurichten, Wir heirateten
-in Hamburg, wohnten bei Edgar Stern weiter. Bei
-fuhr Sehr häufig nach Berlin, wo er feine möblierte Uebung
-beibehalten hatte. Sein Geschäft hatte er aufgelöst,
-Dein ganzes Sinnen und Trachten ging jetzt dahin, den
+Mir gelang es, ihn wieder aufzurichten. Wir heirateten
+in Hamburg, wohnten bei Edgar Stern weiter. Fritz
+fuhr sehr häufig nach Berlin, wo er seine möblierte Wohnung
+beibehalten hatte. Sein Geschäft hatte er aufgelöst.
+Sein ganzes Sinnen und Trachten ging jetzt dahin, den
 heimlichen Feind zu finden, der ihn denunziert hatte.
 
-Unser sind wurde geboren. Und vierzehn Tage später
+Unser Kind wurde geboren. Und vierzehn Tage später
 <@pagebreak/>
-brachte Fritz mich in die neue Wannsee-Villa, die er in«
-zwischen hatte erbauen lassen,
+brachte Fritz mich in die neue Wannsee-Villa, die er inzwischen
+hatte erbauen lassen.
 
-Ich galt weiter als seine Heiterster, Unser Kind aber
-als das unserer Köchin. Da dvix mit niemandem verkehrten,
+Ich galt weiter als seine Schwester. Unser Kind aber
+als das unserer Köchin. Da wir mit niemandem verkehrten,
 blieb die Wahrheit verborgen.
 
 Fritz ermittelte schließlich, daß Machtaler aus Konkurrenzneid
 ihn an den Pranger gestellt hatte. Aber an
-Miachtaler war nicht heranzukommen. Sein Einfluß reichte
+Machtaler war nicht heranzukommen. Sein Einfluß reichte
 bis zu den höchsten Regierungsstellen hinauf.
 
-Fritz hegte gegen diese widerlihe Kreatur einen kranke
-haften Haß. Er haßte in Machtaler alle die, die sich von
-ihm abgewandt hatten, als er in Haft sah. Er haßte mit
-einer verbissener Energie, Dieser Haß war furchtbar. Sein
-Nervensystem litt darunter, Ach bewog ihn, ein Sanatorium
-aufzusuchen. Zwei Monate blieb er dort, kehrte sei«
-jeher, ruhiger zurück,
+Fritz hegte gegen diese widerliche Kreatur einen krankhaften
+Haß. Er haßte in Machtaler alle die, die sich von
+ihm abgewandt hatten, als er in Haft saß. Er haßte mit
+einer verbissener Energie. Dieser Haß war furchtbar. Sein
+Nervensystem litt darunter. Ich bewog ihn, ein Sanatorium
+aufzusuchen. Zwei Monate blieb er dort, kehrte frischer,
+ruhiger zurück.
 
-As aber begann er sein unheimliches Treiben als
-— Die
+Dann aber begann er sein unheimliches Treiben als
+— Dieb!
 
-Banabu und Chitawoa, unsere siamesischen Diener, Die
-er aus London sich geholt hatte, halfen ihm. Als ich dar
-hinter kam, daß er die Preise stahl, die er gewinnen geholfen
-hatte, flehte ich ihn Iniefällig an, sich) nicht in Gefahr zu
-begeben um ein Nichts,
+Banabu und Chitawoa, unsere siamesischen Diener, die
+er aus London sich geholt hatte, halfen ihm. Als ich dahinter
+kam, daß er die Preise stahl, die er gewinnen geholfen
+hatte, flehte ich ihn kniefällig an, sich nicht in Gefahr zu
+begeben um ein Nichts.
 
-er war bar! und lieblos damals zu mir, seh fühlte
-is! er Bälle Fb in Bitte wahnteigige See verrannt, und nur
-feine Nervosität machte ihn meinen Bitten unzugänglich,
-Aber — er. wurde mir doch entfremdet.
+Er war hart und lieblos damals zu mir. Ich fühlte
+ja: er hatte sich in eine wahnwitzige Idee verrannt, und nur
+seine Nervosität machte ihn meinen Bitten unzugänglich.
+Aber — er wurde mir doch entfremdet.
 
-Noch mehr geschah dies, als ich merkte, daß er Mache
-totaler in feine Gewalt bringen wollte und ihm nach dem
-Loben trachtete. By
+Noch mehr geschah dies, als ich merkte, daß er Machtaler
+in seine Gewalt bringen wollte und ihm nach dem
+Leben trachtete.
 
 An diesem Abend, der soeben vergangen, habe ich aus
 seinem Revolver die Kugeln und das Pulver der Patronen
-entfernt, So rettete ich Machtaler das Leben. In dieser
-Nacht jedoch, nach einer heftigen Szene in der Palntengrotte,
-nach einer Aussöhnung, Die nur oberflächlich blieb, kam
+entfernt. So rettete ich Machtaler das Leben. In dieser
+Nacht jedoch, nach einer heftigen Szene in der Palmengrotte,
+nach einer Aussöhnung, die nur oberflächlich blieb, kam
 Banabu und holte Fritz weg.
 
 <@pagebreak/>
-(Sich schlich ihnen nach, Ich kettete Bad Meine Boot los,
-Ich wurde Zeugin, wie Machtaler über Bord in den See
-geworfen wurde,
+Ich schlich ihnen nach. Ich kettete das kleine Boot los,
+ich wurde Zeugin, wie Machtaler über Bord in den See
+geworfen wurde.
 
 Ohnmächtig brach ich in meinem Boot zusammen.
 
 Dann, als ich wieder erwachte, sah ich Ihre Jolle und
 — sah Machtaler ebenfalls darin!
 
-Sack weiter, wie Sie Machtaler zu der Nieverfihrift in
+Sah weiter, wie Sie Machtaler zu der Niederschrift in
 der Laube zwangen.
 
 Ich ruderte über den See zurück — wie Im Traum!
 Ich wiederholte mir im Geiste stets dasselbe:
 
-»Er bat Machtaler ertränken wollen. Aber Machtaler
+»Er hat Machtaler ertränken wollen. Aber Machtaler
 lebt, und Fritz wird ins Zuchthaus wandern!«
 
 Ich kam heim, fand meinen Gatten am Bett unseres
-Kindes, hielt ihm fein Verbrechen vor, gestand ihm, daß ich
-am vorigen Abend heimlich die Villa verlassen und die Zeich-mung
-in die Rinde des Nirfehbaumes von Harald Harsts
+Kindes, hielt ihm sein Verbrechen vor, gestand ihm, daß ich
+am vorigen Abend heimlich die Villa verlassen und die Zeichnung
+in die Rinde des Kirschbaumes von Harald Harsts
 Garten eingeritzt hätte, damit Harst die Diebesbeute fände
-und sie den Eigentümern wieder zustelle, — daß ich nach
-mittags nochmals bei Harst gewesen, um ihn anzuflehen,
-meinten Gatten zu flogen, falls er den Dieben auf die
+und sie den Eigentümern wieder zustelle, — daß ich nachmittags
+nochmals bei Harst gewesen, um ihn anzuflehen,
+meinten Gatten zu schonen, falls er den Dieben auf die
 Spur käme.
 
-Er stierte mich bei bieten Eröfimungen so will am,
+Er stierte mich bei diesen Eröffnungen so wild an,
 daß ich vor ihm zurückwich.
 
-Ich will nicht wiedergeben, was dann geschah,
+Ich will nicht wiedergeben, was dann geschah.
 
-Ich trage Fritz dies alles nicht nach. Er ist ein Kranker,
-Ich habe tausend Entschuldigungsgründe für ihn,
+Ich trage Fritz dies alles nicht nach. Er ist ein Kranker.
+Ich habe tausend Entschuldigungsgründe für ihn.
 
-ne Aber — ich kann jetzt nicht mehr weiterleben. Ich
-mit sterben. Fritz ist entflohen. Ich versprach ihm zum
+Aber — ich kann jetzt nicht mehr weiterleben. Ich
+will sterben. Fritz ist entflohen. Ich versprach ihm zum
 Schein, ihm zu folgen. —
 
-oh bin allein mit meinem Kinde. Wir beide werden
-bald Ruhe und Frieden haben: Je Hals nicht mehr ja
-Knallt, Ihnen meinen Seelenzustand zu frieren, Herr
-Hart. Eine Eine noch: Sorgen Sie dafür, daß Machtaler
-seiner Strafe nicht entgeht! Er hat unser Glückt zertrünt-mert,
-er wette meines (alten Mordagedanken, er mordet
+Ich bin allein mit meinem Kinde. Wir beide werden
+bald Ruhe und Frieden haben: Ich habe nicht mehr die
+Kraft, Ihnen meinen Seelenzustand zu schildern, Herr
+Harst. Eine Bitte noch: Sorgen Sie dafür, daß Machtaler
+seiner Strafe nicht entgeht! Er hat unser Glück zertrümmert,
+*er* weckte meines Gatten Mordgedanken, *er* mordet
 mich und mein Kind!
 
 <@pagebreak/>
-Wenn die Sonne aufgeht, wird man mein Meines es
-den irgendwo auf dem See treibend finden
+Wenn die Sonne aufgeht, wird man mein kleines Ruderboot
+irgendwo auf dem See treibend finden.
 
 Sollten unsere Leichen aus dem Wasser geborgen werden,
-so wünsche. ich mit meinem Kinde in der Palmengrotte
+so wünsche ich mit meinem Kinde in der Palmengrotte
 beerdigt zu werden.
 
 Fritz ist unterwegs ins Ausland. Ein Mann wie er
@@ -1785,96 +1785,95 @@ weiß jede Spur hinter sich auszulöschen.
 
 Ich verzeihe ihm, denn — ich liebe ihn!
 
-> nun Ripplow, seh. Albyn.«
+> Irene Ripplow, geb. Albyn.«
 
 <h2>2. Kapitel.</h2>
 
 Harald legte den Brief mit seltsam müder Bewegung
 auf den Tisch zurück.
 
-»Armes — armes Weib!« sagte er, uns in feiner
+»Armes — armes Weib!« sagte er, und in seiner
 Stimme war ein Schmerz, als wäre ihm selbst in diesem
 jungen Weibe etwas Liebes gestorben.
 
-Ich selbst—?! Ich schwieg. Ich war zu erschüttert,
-um durch irgend eine Bemerkung der Stimmung in ne!
-jenem Bügeln Ausdruck verleihen zu können,
+Ich selbst —?! Ich schwieg. Ich war zu erschüttert,
+um durch irgend eine Bemerkung der Stimmung in meinem
+Innern Ausdruck verleihen zu können.
 
-Ich füllte die hauchdünnen chinesischen Teetassen wie
-hörte draußen den Lärm der leeren, liebestollen Sperlinge.
+Ich füllte die hauchdünnen chinesischen Teetassen und
+hörte draußen den Lärm der frechen, liebestollen Sperlinge.
 
-Es Bar ja Mai — es war Wonnemond.
+Es war ja Mai — es war Wonnemond.
 
-Und dort im Wannsee ruhten jetzt auf schlanmigem
+Und dort im Wannsee ruhten jetzt auf schlammigem
 Grunde Mutter und Kind.
 
-Ein schwacher Trost: Machtaler war tot! — Er hüte
+Ein schwacher Trost: Machtaler war tot! — Er hätte
 anders sterben sollen — langsamer, qualvoller. Er hatte
 es reichlich verdient! —
 
-Dann Harsts Stimme: »Fahren wir nach warmer
-zurüc!«
+Dann Harsts Stimme: »Fahren wir nach Wannsee
+zurück!«
 
 Wir fuhren — durch Sonnenschein und frisches Grün.
 Wir waren dabei, als das kleine, leere Boot gefunden
-wurde. Nur ein — Kinvermüßclen lag darin.
+wurde. Nur ein — Kindermützchen lag darin.
 
-Waren dabei, als der kleine Wannsee abgesischt wurde.
+Waren dabei, als der kleine Wannsee abgefischt wurde.
 
-bis Her Abend blieben wir. Wenn fand Dr Leichen
+Bis zum Abend blieben wir. Man fand die Leichen
 <@pagebreak/>
 nicht. — Die Polizei hatte von Harald den Brief verlangt.
 Harald hatte ihn jedoch bereits verbrannt, und das, was
-er über den Inhalt zugab, war sehr — sehr wenig — ir
+er über den Inhalt zugab, war sehr — sehr wenig — nur
 das Nötigste.
 
 Abends um zehn kehrten wir heim.
 
-Harst sag im Auto mit geschlossenen Augen, rauchte
+Harst saß im Auto mit geschlossenen Augen, rauchte
 eine Mirakulum nach der andern.
 
-Aïs wir kam durch die Villenkolonie Grunewald kamen,
-als wir die Königsallee entlang sausten und beugten
-muß den füllen See zur Linken weiße Schwäne im Mai-abenddämmer
-vahinzogen wie leuchtende Punkte, sprach
-Harst den ersten Saß während der Fahrt:
+Als wir kam durch die Villenkolonie Grunewald kamen,
+als wir die Königsallee entlang sausten und drunten
+auf dem stillen See zur Linken weiße Schwäne im Maiabenddämmer
+dahinzogen wie leuchtende Punkte, sprach
+Harst den ersten Satz während der Fahrt:
 
 »Der Fall Ripplow beginnt erst!«
 
-Welche Aussichten schöneren diese fünf Worte!
+Welche Aussichten eröffneten diese fünf Worte!
 
 Beginnt erst!
 
-Das hieß; die Geheimnisse, die Ripplows Person uns
-weben, sollen geklärt werden! —
+Das hieß: die Geheimnisse, die Ripplows Person umweben,
+sollen geklärt werden! —
 
 Und wieder versank er in Schweigen. Erst als das
-Auto vor. dem Hause hielt, der zweite Sah:
+Auto vor dem Hause hielt, der zweite Satz:
 
-»es wird ein Fall Ripplow-Stern werden!«
+»Es wird ein Fall Ripplow-Stern werden!«
 
-Hamburg —! ch ahnte, wir würden Hamburg wies
-verleben! —
+Hamburg —! Ich ahnte, wir würden Hamburg wiedersehen! —
 
 Frau Auguste Harst kam uns im Flur entgegen.
 
-Tausend Fragen flehte sie. Sie war so seltsam nervös. -
-Sie fragte, wartete feine Antwort ab, rückte ihr Seiden-häubcen
-auf dem grauen Scheitel bald hierhin, bald dorthin,
+Tausend Fragen stellte sie. Sie war so seltsam nervös.
+Sie fragte, wartete keine Antwort ab, rückte ihr Seidenhäubchen
+auf dem grauen Scheitel bald hierhin, bald dorthin.
 
-»Was fehlt Dir, Mutter » meinte Harald am Abendbrottisch.
+»Was fehlt Dir, Mutter« meinte Harald am Abendbrottisch.
 
-»Nichts — nichts! Ich — ich folge mich um Eure
-Gesundheit. Seit vierundzwanzig Stunden fein Ihr nicht
-ins Bett! gekommen.«
+»Nichts — nichts! Ich — ich sorge mich um Eure
+Gesundheit. Seit vierundzwanzig Stunden seid ihr nicht
+ins Bett gekommen.«
 
-Er klirrte sie prüfen an;
+Er blickte sie prüfen an.
 
-»Dafür werden wir uns legt auch im Gebirge acht Tage
-erholen,« fädelte er. »Schraut und ich haben Sehnsucht
-nach Meister Rübezahl — nach dem Nun
+»Dafür werden wir uns jetzt auch im Gebirge acht Tage
+erholen,« lächelte er. »Schraut und ich haben Sehnsucht
+nach Meister Rübezahl — nach dem Riesengebirge —« —
 
-Mag log N — Unbegreiflich! —
+Weshalb log er?! — Unbegreiflich! —
 
 <@pagebreak/>
 Dann waren wir wieder am Japantischchen in der
@@ -1883,7 +1882,7 @@ Fensterecke zu zweien.
 Haralds versonnenen Blick lag auf meinem abgespannten
 Gesicht.
 
-»es roch so schön im Küchenflur,« sagte er.
+»Es roch so schön im Küchenflur,« sagte er.
 
 Was sollte das?!
 
@@ -1902,21 +1901,21 @@ Aber — Harald gähnte jetzt.
 »Gehen wir schlagen, mein Alter. Morgen früh reisen
 wir zu Rübezahl — vom Lehrter Bahnhof!«
 
-von Lehrter fährt man nach Hamburg.
+Vom Lehrter fährt man nach Hamburg.
 
 Ich dachte an Edgar Stern, den zweiten Geheimnisvollen.
 —
 
 Um neun Uhr vormittags entführte uns der D-Zug
-nach Hamburg. Im drei Uhr nachmittags mieteten sich zwei
+nach Hamburg. Um drei Uhr nachmittags mieteten sich zwei
 bärtige Maler als Sommergäste bei Klaus Störten im
-Dorfwirtshaus von Napproeje ein, denn — dort in der
+Dorfwirtshaus von Rappreese ein, denn — dort in der
 Nähe hatten wir Edgar Stern aufgestöbert, dort lag sein
-Sinnbild. —
+Grundstück. —
 
 Der alte Kneipwirt Klaus Störten trug den Nachmittagskaffee
 auf. Wir saßen in der Veranda. Hundert Meter
-nach öfter blinkte der Elbsirom im Sonnenschein.
+nach Osten blinkte der Elbstrom im Sonnenschein.
 
 Harst verstand es wie stets, die Unterhaltung dorthin
 zu lenken, wohin er sie haben wollte.
@@ -1925,80 +1924,80 @@ Störten als früherer Seemann war redselig und ohne
 Arg.
 
 »Dja, das gelbe Häuschen!« meinte er. »Da wohnt
-ein Herr Stern drin, Herr Holmer.« (So hatte Harald ich
-hier genannt, während ich mich in Schurke umgetauft hatte).
-»Ein interessanter aller Herr, der Edgar Stern. Kennt wie
-ah die ganze Welt. Sie werden sich wundern, wenn Oh
+ein Herr Stern drin, Herr Holmer.« (So hatte Harald sich
+hier genannt, während ich mich in Schülke umgetauft hatte).
+»Ein interessanter alter Herr, der Edgar Stern. Kennt wie
+ich die ganze Welt. Sie werden sich wundern, wenn ich
 <@pagebreak/>
-Ihnen sage, was er war, Sie taten’s nie!« Er lächelte
+Ihnen sage, was er war. Sie raten’s nie!« Er lächelte
 und sog an seiner Pfeife »Dja — raten Sie doch mal!«
 Er nickte Harald zu.
 
-Der lehnte sich in feinem Rohrsessel behaglich zurück.
-seh verstehe mich schlecht aufs raten, Herr Störten. Also
+Der lehnte sich in seinem Rohrsessel behaglich zurück.
+»Ich verstehe mich schlecht aufs raten, Herr Störten. Also
 schießen Sie los!«
 
-»Zauberkünstler war er!« platte der gemütliche Gafb-wirt
+»Zauberkünstler war er!« platzte der gemütliche Gastwirt
 heraus.
 
-»Nicht möglich!« rief Harst. »Zauberkünstler! Weh!
+»Nicht möglich!« rief Harst. »Zauberkünstler! Wohl
 ein sehr berühmter?«
 
-»Und ob! Er trat unter dem Namen Ballatini am
-und war feiner Zeit Bellachinis schärfster Konkurrent,«
+»Und ob! Er trat unter dem Namen Ballatini auf
+und war seiner Zeit Bellachinis schärfster Konkurrent,«
 
-»Er verkehrt hier wohl bei Ihnen? — Da könnte 6x
-arg mal Kartenkunststücke zeigen,« meinte Harald lebhaft.
-»JH kann selbst ein Dutzend Kartenkunststücke machen, ich
+»Er verkehrt hier wohl bei Ihnen? — Da könnte er
+uns mal Kartenkunststücke zeigen,« meinte Harald lebhaft.
+»Ich kann selbst ein Dutzend Kartenkunststücke machen. Ich
 möchte was dazulernen.«
 
 Klaus Störten erklärte mit überlegener Miene:
 
 »Ne, Herr Holmer, so was — das ist nichts für Herrn
-Stern! Der hält’s so mit der höheren Magie, so mich
+Stern! Der hält’s so mit der höheren Magie, so mit
 Spiritismus, Okkultismus und wie der unheimliche Kram
-sonst noch heißt. Decke Woche zweimal kommen abends zu
+sonst noch heißt. Jede Woche zweimal kommen abends zu
 ihm die feinsten Leute aus Hamburg heraus, alles so ’ne
-Gritierbefhwörer, In Autos kommen sie, und reich müssen
-sie alte fein. Was die dann bei Stern treiben, weiß niemand,
-Unser Lehrer hier meint, es ist ein Spiritiftenzirfet.«
+Geisterbeschwörer. In Autos kommen sie, und reich müssen
+sie alle sein. Was die dann bei Stern treiben, weiß niemand.
+Unser Lehrer hier meint, es ist ein Spiritistenzirkel.«
 
-So — so! — Na — für Spiritismus habe ich nichts
-übrig, — Jetzt werden wir noch ein Stück spazieren laufen.
+»So — so! — Na — für Spiritismus habe ich nichts
+übrig. — Jetzt werden wir noch ein Stück spazieren laufen.
 Auf Wiedersehen, Herr Störten,«
 
 Wir schlenderten die Dorfstraße hinab. Ich schleppte
-weiß mit einem Malkasten. Harald trug die Klappstaffelei.,
+mich mit einem Malkasten. Harald trug die Klappstaffelei.
 
-Siweibundert Meter von den legten Häusern des Dorfes
+Zweihundert Meter von den letzten Häusern des Dorfes
 ab lag an einem Feldwege näher nach der Elbe hin das
-gelbgestrichene Häuschen inmitten eines großen Obftgarteng,
+gelbgestrichene Häuschen inmitten eines großen Obstgartens,
 
-Mir gingen vorüber und bauten die Staffelei hart am
+Wir gingen vorüber und bauten die Staffelei hart am
 Ufer auf. Während Harald das Häuschen zu malen begann,
 <@pagebreak/>
 lag ich im Grase und schaute ihm zu. Er hoffte, auf
 diese Weise mit Edgar Stern bekannt zu werden,
 
-Eine halbe Stunde verging. Dann sah ich drüben hm
+Eine halbe Stunde verging. Dann sah ich drüben im
 Garten einen Mann mit schwarzem Seidenkäppchen auf
-dem taugte, gehüllt in einen gelben Leinennmantel, aufs
-tauchen. Er hatte einen Spaten in der Rechten und in der
-Linken — ja — in der Linien eine tote Kais, die er am
+dem Haupte, gehüllt in einen gelben Leinennmantel, auftauchen.
+Er hatte einen Spaten in der Rechten und in der
+Linken — ja — in der Linien eine tote Katze, die er am
 Schwanz gepackt hatte. Er trat in eine Lücke der Weidenbüsche
-dicht am Zaun und warf die Habe auf den Boden,
-ein Loch und stieß das tote Tier hinein, fehilttete das
-»Loch wieder zu und stampfte die Erde fest, Um uns beide
-kümmerte er sich, nicht, obwohl er un« gesehen haben mußte.
+dicht am Zaun und warf die Katze auf den Boden,
+grub ein Loch und stieß das tote Tier hinein, schüttete das
+Loch wieder zu und stampfte die Erde fest. Um uns beide
+kümmerte er sich nicht, obwohl er uns gesehen haben mußte.
 Dann ging er dem Häuschen wieder zu und verschwand
 hinter den Büschen.
 
-»Arme Kais!« sagte Harald.
+»Arme Katze!« sagte Harald.
 
-Ich horchte auf, In dem Ton seiner Stimme war ein
+Ich horchte auf. In dem Ton seiner Stimme war ein
 besonderer Klang gewesen.
 
-»Ich denke, Du kannst Saßen nicht leiden,« meinte ich
+»Ich denke, Du kannst Katzen nicht leiden,« meinte ich
 tastend.
 
 »Doch — ausgestopfte ja!«
@@ -2006,113 +2005,113 @@ tastend.
 Man muß Harst kennen, um seine feinen Andeutungen
 sofort zu begreifen.
 
-»Stern vergrub also eine ausgestopfte Habe,« sagte ich,
+»Stern vergrub also eine ausgestopfte Katze,« sagte ich.
 »Es war zweifellos Edgar Stern alias Ballatini. Woran
-erkanntest Du, daß sie ausgestopft’ war?«
+erkanntest Du, daß sie ausgestopft war?«
 
-»Weil sie nur noch ein Glasauge halte und weil eine
-in. Rate die Beine nicht so steif vom Leibe abgeftredt
+»Weil sie nur noch ein Glasauge hatte und weil eine
+tote Katze die Beine nicht so steif vom Leibe abgestreckt
 hätte.«
 
 »Der Kadaver kann sich noch in der Todesstarre befunden
 haben.«
 
 »Möglich wäre das vielleicht, wenn man uns nicht hinter
-den Gardinen des Giebelfensters hervor mit einem Borneos
+den Gardinen des Giebelfensters hervor mit einem Fernglas
 zehn Minuten lang beobachtet hätte. Das Sonnenlicht
-blinkte in den Linsen des Fernglases, Sonst wäre
+blinkte in den Linsen des Fernglases. Sonst wäre ich
 kaum darauf aufmerksam gesprochen.«
 
 <@pagebreak/>
-Ich üiberleate mir Diese Gäbe, Die eine Fülle neuer Andeutungen
+Ich überlegte mir diese Sätze, die eine Fülle neuer Andeutungen
 enthielten, und erklärte dann:
 
-»Du nimmst an, daß Ballatini Verdacht gegen und ge
-schöpft hat und in dem Singenbalg etwas mit vergraben
+»Du nimmst an, daß Ballatini Verdacht gegen uns geschöpft
+hat und in dem Katzenbalg etwas mit vergraben
 hat, das er gern beiseite schaffen wollte,«
 
-»Ja. Er flaltuliert so; wir werden das Katzenbegräbnis
+»Ja. Er kalkuliert so: wir werden das Katzenbegräbnis
 für harmlos ansehen, und daher in dem Erdloche
 nicht suchen.«
 
 »Suchen?! Wie kämen wir denn überhaupt dazu, in
 dem Häuschen etwas zu suchen?! Gewiß: wir vermuten
-Neid Ripplow hier. Du willst, wie Du mir erklärtest, ihn
-sprechen, willst ihn gleichsam über den Tod feiner ran und
-feines Kindes trösten und ihm auch mitteilen, daß wir seine
+Fritz Ripplow hier. Du willst, wie Du mir erklärtest, ihn
+sprechen, willst ihn gleichsam über den Tod seiner Frau und
+seines Kindes trösten und ihm auch mitteilen, daß wir seine
 ganze Silberbeute vorgestern nacht im Garten des Poseidon-Klubhauses
-niedergelegt haben, wo sie auch bereist gefunden
+niedergelegt haben, wo sie auch bereits gefunden
 ist,«
 
-Harald malte ruhig weiter, »Ich will noch weit mehr,«
-meinte er. »Ich will Dir beweisen, daß »unsereiner auf
+Harald malte ruhig weiter. »Ich will noch weit mehr,«
+meinte er. »Ich will Dir beweisen, daß unsereiner auf
 alles achten muß, selbst auf Küchendüfte —«
 
-Da dachte ich zu feine Bemerkung: »Es roch so schön
+Da dachte ich an seine Bemerkung: »Es roch so schön
 im Küchenflur!«
 
-"— und nervöse Unruhe der Mitbewohner —«
+»— und nervöse Unruhe der Mitbewohner —«
 
 Ah — er meinte seine Mutter!
 
 »— und auf unsere alte Köchin, die drei Liter Milch
 vom Bollewagen holte —«
 
-Ah nahm meine Zigarre aus dem Munde.
+Ich nahm meine Zigarre aus dem Munde.
 
-»Milch?!« — ch war so verdutzt, daß ich nochmals
-Pviederholte: "— Milch?!«
+»Milch?!« — Ich war so verdutzt, daß ich nochmals
+wiederholte: »— Milch?!«
 
-»Um aber auf Vorige andere Zwischenfrage zurückzukommen,
+»Um aber auf Deine andere Zwischenfrage zurückzukommen,
 mein Alter,« fuhr er schnell fort, »auf die Frage,
-das wir hier suchen sollten — zu suchen hätten, so möchte«
+was wir hier suchen sollten — zu suchen hätten, so möchte
 ich Dich daran erinnern, daß die Polizei die Villa Ripplow
-in Wannsee gänzlich verlassen vorfand. Die beiden Siamesen
+in Wannsee gänzlich verlassen vorfand. Die beiden siamesischen
 Diener, die Köchin, der Gärtner, das Stubenmädchen
-+ alle waren auf und davon, Und in Fritz Ripplows in
-die Wand eingemamertem Insofern: lagen lediglich ach!
+— alle waren auf und davon. Und in Fritz Ripplows in
+die Wand eingemauertem Geheimschrank lagen lediglich acht
 <@pagebreak/>
-leere Als von Schmucksachen, Etuis von so kostbarer, Eis
-genarliger Ausstattung, daß der Blick des Kenners sofort
+leere Etuis von Schmucksachen, Etuis von so kostbarer, eigenartiger
+Ausstattung, daß der Blick des Kenners sofort
 sah, daß es sich um Kästchen handelte, die in Singapore, der
-Zentrale der asiatischen Perlenausfuhr bevorsteht waren.«
+Zentrale der asiatischen Perlenausfuhr hergestellt waren.«
 
 »Allerdings. Das war sogar feinste chinesische Arbeit,
 aus dem Chinesenviertel Singapores stammend.«
 
 »Ja — Und auf der Unterseite dieser Etuis waren
-zerkratzte Stellen. Dort hatten die Geschäftszeichen der Her
-Hersteller gestanden, die Fabrikmarken sozusagen, Man hatte
+zerkratzte Stellen. Dort hatten die Geschäftszeichen der
+Hersteller gestanden, die Fabrikmarken sozusagen. Man hatte
 sie entfernt. Weshalb wohl?«
 
 »Gestohlen etwa?!«
 
-»Das weiß ich nicht. Dedenfalls nehme Ich aber an,
+»Das weiß ich nicht. Jedenfalls nehme ich aber an,
 daß diese Etuis irgendwie mit dem Geheimnis dieser beiden
-Männer zusammenhängen, Denke an treues Worte von
-liebem teilweisen Dunkel, das Ripplow und auch den alten
-Stern umgab und umgibt, Denke ferner daran, daß Salons
+Männer zusammenhängen. Denke an Irenes Worte von
+dem teilweisen Dunkel, das Ripplow und auch den alten
+Stern umgab und umgibt. Denke ferner daran, daß Irene
 ihrem Gatten mitteilte, sie sei bei mir gewesen — zweimal!
-Er weiß also, daß ich mich mit seiner Person beschäftige,
+Er weiß also, daß ich mich mit seiner Person beschäftige.
 Er mag jetzt dort im gelben Häuschen verborgen sein, mag
 uns bemerkt haben, mag an Harst und Schraut gedacht haben,
 beobachtete uns mit dem Fernglas, um festzustellen,
-ob wir wirklich Maler oder ob wir etwa Spione seiten.
-Er wollte sicher gehen, und so ließ er Tieren mit dem
-Kaßvenbalg zugleich das vergraben, was er hierher mit-gradi
-hatte: vielleicht den Anhalt der leeren Singapore-Sie!
-— zu Dir im übrigen an des alten Bauberfiünft-lers
+ob wir wirklich Maler oder ob wir etwa Spione seien.
+Er wollte sicher gehen, und so ließ er Stern mit dem
+Katzenbalg zugleich das vergraben, was er hierher mitgebracht
+hatte: vielleicht den Inhalt der leeren Singapore-Etuis!
+— Ist Dir im übrigen an des alten Zauberkünstlers
 Gesicht nichts aufgefallen?«
 
 »Nein —« — Ich sprach es sehr nachdenklich hin. Ich
-bemibte mich, hinter Harsts stille Gedanken zu kommen.
+bemühte mich, hinter Harsts stille Gedanken zu kommen.
 
-Er trat jetzt wieder ein paar Schritt von der Grase-Betet
-zurück und musterte prüfenp fein Bild,
+Er trat jetzt wieder ein paar Schritt von der Staffelei
+zurück und musterte prüfend sein Bild,
 
 Dann fügte er hinzu: »Wir werden auch noch von
-anderer Seite beobachte!, mein Alter, Tut! mir aber einen
-Gefallen und drei! Dich nicht um, Rechts von uns liegt
+anderer Seite beobachtet, mein Alter. Tu’ mir aber einen
+Gefallen und dreh’ Dich nicht um. Rechts von uns liegt
 unter den Weidenbüschen am Rande eines Wessergrabens
 <@pagebreak/>
 ein zerlumpter Strolch im Grase, der jedoch ein merkwürdig
@@ -2120,75 +2119,76 @@ kostbares Spiegelfernglas bei sich hat,«
 
 »Noch ein Fernglas?!«
 
-»Isa noch eins! — Der Mann trat schicken da, als
-wir hier erschienen. fürchte, um Ripplows Haupt Ballen
+»Ja noch eins! — Der Mann war schon da, als
+wir hier erschienen. Ich fürchte, um Ripplows Haupt ballen
 sich dunklere Wolken zusammen, als er auch nur im
-eittfernlesten ahnt.« — Er begann einzupacken.
+entferntesten ahnt.« — Er begann einzupacken.
 
 Ich erhob mich, legte die Staffelei zusammen und
-schaute dabei vorsichtig nach dem Strolch aus, bemerkte ig-doch
+schaute dabei vorsichtig nach dem Strolch aus, bemerkte jedoch
 nichts.
 
-Harald verschloß den Malkasten. »Auch bis Elbe ist
+Harald verschloß den Malkasten. »Auch die Elbe ist
 interessant,« sagte er mit besonderer Betonung. »Da liegt
 ein kleiner gedeckter Kutter, ein Fischereifahrzeug, anscheinend
 durch den flauen Wind zum Ankern gezwungen. Die
-drei Fischer auf dem Kutter kommen nie jedoch stark aha
-Maskenball vor, genau wie der Strolch mit dem Triéder-binokel.
-Das reine Massenausgevot von Spionen! und
+drei Fischer auf dem Kutter kommen mir jedoch stark a la
+Maskenball vor, genau wie der Strolch mit dem Triederbinokel.
+Das reine Massenaufgebot von Spionen! Und
 doch, glaube ich, haben Edgar Stern und Fritz Ripplow nur
 gegen uns Argwohn geschöpft. Sie täten besser, den Strolch
 und den Kutter im Auge zu behalten. Wir beide sind die
-ungesähßhrlicheren in diesem Falle.«
+ungefährlicheren in diesem Falle.«
 
-Auch den Kutter sah Ich mir jetzt etwas schärfer an.
-Er lag eng fünfzig Meter vom Ufer entfernt. Auf dem
-Kajütaufbau saßen zwei ältere Männer. Der eine Blickte
-ein Weg, der andere schalte Kartoffeln. Ein jüngerer
+Auch den Kutter sah ich mir jetzt etwas schärfer an.
+Er lag etwa fünfzig Meter vom Ufer entfernt. Auf dem
+Kajütaufbau saßen zwei ältere Männer. Der eine flickte
+ein Netz, der andere schälte Kartoffeln. Ein jüngerer
 Bursche aber lehnte am Mast und las eine Zeitung. Das
 sah alles sehr, sehr harmlos aus.
 
-Au meinte Harald, Wir gingen langsam dem
+»Komm’,« meinte Harald. Wir gingen langsam dem
 Dorfe zu.
 
-Das Wirtshaus zum goldenen Unter hatte nur vier
+Das Wirtshaus zum goldenen Anker hatte nur vier
 Fremdenzimmer. Zwei davon hatten wir belegt. Klaus
-Störten Hatte uns schon vorhin mitgeleite, ab nun brav
-beseht seien. Neben uns wohne ein Herr Kühn aus Käme
-Burg, ein Kaufmann, der sich hier erholen wolle. Kühn
-sog bereits eine Woche hier und ein sehr zugänglicher Mensch.
-Wir fegten uns in die Veranda. Es gab Aal zum
+Störten hatte uns schon vorhin mitgeteilt, daß nun drei
+besetzt seien. Neben uns wohne ein Herr Kühn aus Hamburg,
+ein Kaufmann, der sich hier erholen wolle. Kühn
+sei bereits eine Woche hier und ein sehr zugänglicher Mensch.
+
+Wir setzten uns in die Veranda. Es gab Aal zum
 <@pagebreak/>
 Abendbrot. Als wir gerade aßen, trat ein gutgekleideter
-bartloser Herr mit einem Nachsah auf den Rücken ein und
-wurde von Klaus Störten mit, den Worten begrüßt:
+bartloser Herr mit einem Rucksack auf den Rücken ein und
+wurde von Klaus Störten mit den Worten begrüßt:
 
-»Na, Sie haben heute aber Wieder eine Lange Wanderung
+»Na, Sie haben heute aber wieder eine lange Wanderung
 gemacht, Herr Kühn!«
 
 Also das war unser Zimmernachbar!
 
-Er nahm zwei Tische weiter Platz, nachdem er feinen
-Rucksack auf fein Zimmer gebracht hatte.
+Er nahm zwei Tische weiter Platz, nachdem er seinen
+Rucksack auf sein Zimmer gebracht hatte.
 
-»Findest Du, mein Alter, daß, Herr Kähne Schuhe
+»Findest Du, mein Alter, daß Herr Kühns Schuhe
 nach einer langen Wanderung aussahen?« meinte Harald,
 als der Hamburger Kaufmann sich jetzt eifrig mit Klaus
 Störten unterhielt.
 
-JH schaute Harst prüfend an. »Was denkst Du?«
+Ich schaute Harst prüfend an. »Was denkst Du?«
 
 »Daß es zweckmäßig wäre, mal nach oben zu gehen.«
 Er stand auf und sagte ganz laut: »Ich hole nur mein
 Zigarettenetui.«
 
-Er kehrte nach vielleicht fünf Mimmten zurück, feste sich
+Er kehrte nach vielleicht fünf Minuten zurück, setzte sich
 wieder und meinte leise:
 
-»Es Staunt. Kühn hatte den Nachsah in feinem Koffer
-eingeschlossen Ja dem Rucksack befinden sich als Die Requisiten,
+»Es stimmt. Kühn hatte den Rucksack in seinem Koffer
+eingeschlossen. In dem Rucksack befinden sich alle die Requisiten,
 die zur Maskierung als Strolch nötig sind, ebenso
-das tadellose Fernglas. Kühn, war also Pennheuder,
+das tadellose Fernglas. Kühn war also Pennbruder,
 der Sterns Häuschen beobachtete.«
 
 »Donnerwetter!« entfuhr es mir.
@@ -2196,71 +2196,70 @@ der Sterns Häuschen beobachtete.«
 Harald lächelte ein wenig.
 
 »Der Kollege Kühn wird wahrscheinlich nachts das
-selbe planen wie wir, mein Alter. Er ist ja fraglos Des
-rufsdeiektiv, vielleicht gar ein Arınimalbeanier Und da
-dürfte er genau wie mir für Die tote Tage Interesse haben.«
+selbe planen wie wir, mein Alter. Er ist ja fraglos
+Berufsdetektiv, vielleicht gar ein Kriminalbeamter. Und da
+dürfte er genau wie wir für die tote Katze Interesse haben.«
 
 »Er wird sie ausgraben?«
 
-»Ja. Er wird jedoch nur noch die Kais finden. Wir
-werden ihm auvorlonmiuen und das andere —,befchlage
-nahmen.«
+»Ja. Er wird jedoch nur noch die Katze finden. Wir
+werden ihm zuvorkommen und das andere — beschlagnahmen.«
 
 Das konnte ja eine interessante Nacht werden!
 
-»Es wäre mir lieb, wenn Du mir über folgendes Aufs
-Schluß geben wolltest,« bat ich nun. »Kühn Lohn doch bereits
+»Es wäre mir lieb, wenn Du mir über folgendes Aufschluß
+geben wolltest,« bat ich nun. »Kühn wohnt doch bereits
 <@pagebreak/>
 eine Woche lang hier. Vor einer Woche hatte die Polizei
 noch keinerlei Veranlassung, sich mit Fritz Ripplow zu
 beschäftigen. Auch Privatpersonen hatten hierzu keinen
-Grund. Ripplow war ja damals noch in Wannsee, Kühn
+Grund. Ripplow war ja damals noch in Wannsee. Kühn
 hat also lediglich Edgar Stern alias Ballatini beobachtet.
-Weshalb tut! er dies? Was liegt gegen Stern vor? — Mir
-scheint, du weißt es«
+Weshalb tut er dies? Was liegt gegen Stern vor? — Mir
+scheint, du weißt es.«
 
-»Nein, ich weiß es nicht. Ich vermute e& nur, und
-zwar auf Grund des geheimnisvollen Wundert, das Stern
-und Nipploiw umgibt. Wenn Du Ripplows eigenartiges
+»Nein, ich weiß es nicht. Ich vermute es nur, und
+zwar auf Grund des geheimnisvollen Dunkels, das Stern
+und Ripplow umgibt. Wenn Du Ripplows eigenartiges
 Verhalten, was seine Eheschließung mit Irene betrifft, in
 deren Brief sehr sorgfältig geprüft hättest, wärest Du wahrscheinlich
 zu demselben Ergebnis wie ich gekommen. Besonders
 auffallend ist doch der Umstand, daß er Irene für
-seine Schwester ausgab,«
+seine Schwester ausgab.«
 
 »Dies alles macht mich um nichts klüger, Harald.
-Bitte, Woge ganz offen, was Du vermutest,«
+Bitte, sage ganz offen, was Du vermutest,«
 
-»Nun — es Eltern und Ripplow Haben genau
+»Nun — es sei. Stern und Ripplow haben genau
 denselben Gesichtsschnitt, dieselbe Nasenform, dieselbe Größe.
 Ich halte sie für Vater und Sohn.«
 
-»Ah — Du maóst recht haben!«
+»Ah — Du magst recht haben!«
 
-»Für diese Naben verwandtschaftlichen Beziehungen
+»Für diese nahen verwandtschaftlichen Beziehungen
 spricht auch die Tatsache, daß Ripplow Irene zu Stern
-schichte ol& er verhaftet werden sollte, Wenn Ripplow nun
+schichte als er verhaftet werden sollte. Wenn Ripplow nun
 Sterns Sohn ist, dann kann zweierlei vorliegen. Erstens:
-Sogar Stern alias Ballatini heißt in Wahrheit Ripplow,
-oder aber Fritz Prahlen, in Wahrheit Stern heitert, hat
-sich ans besonderen Gründen den Namen Ripplow zugelegt,
-Wenn Du hierbei nach das als bèlasicnes Moment berüt-sichiiast,
-daß Bei Mivvlom vor seiner ¿lucht wert nur die
-Etuis in dem geheimen Wandschrank leerte, die aus Sinn:
-Boote klammern, uns Paß die Polizei ich der Bis Miba
-sehr Wannsee auch nicht ein Stückchen Papier fand, das aus!
-Ripplows Vergangenheit sich bezog, wenn Du schließlich bedeutet,
-daß er Treue gegenüber von feinem Aufenthalt in
-Siam und von Ferner abenteuerlichen Flucht aus dem Jn-ternierungêlager
+Edgar Stern alias Ballatini heißt in Wahrheit Ripplow,
+oder aber Fritz Ripplow, in Wahrheit Stern heißend, hat
+sich aus besonderen Gründen den Namen Ripplow zugelegt.
+Wenn Du hierbei nach das als belastendes Moment berücksichtigst,
+daß Fritz Ripplow vor seiner Flucht nicht nur die
+Etuis in dem geheimen Wandschrank leerte, die aus Singapore
+stammen, uns daß die Polizei ich der Villa Ripplows
+in Wannsee auch nicht ein Stückchen Papier fand, das auf
+Ripplows Vergangenheit sich bezog, wenn Du schließlich bedenkst,
+daß er Irene gegenüber von seinem Aufenthalt in
+Siam und von seiner abenteuerlichen Flucht aus dem Internierungslager
 <@pagebreak/>
 stets nur in allgemeinen Redensarten
-sprach, - - dann — dann gelangst Du wohl wie auch ich zu
-dem Ergebnis: Ripplow hat existiert? Es gab einen ein
+sprach, — dann — dann gelangst Du wohl wie auch ich zu
+dem Ergebnis: Ripplow hat existiert! Es gab einen Fritz
 Ripplow, der auf einer Plantage in Siam viele Jahre gelebt
 hat. Aber dieser Fritz Ripplow ist nicht — unser Ripplow!
-Kurz: Fernes Gatte spielt hier nur jenen Ripplow,
-bürste sich dessen Papiere, Kostbarkeiten und Vermögen viele
-leicht — vielleicht! — angeeignet haben und ist in Wirilich-keit
+Kurz: Irenes Gatte spielt hier nur jenen Ripplow,
+dürfte sich dessen Papiere, Kostbarkeiten und Vermögen vielleicht
+— vielleicht! — angeeignet haben und ist in Wirklichkeit
 Sterns Sohn.«
 
 <h2>3. Kapitel.</h2>
@@ -2420,7 +2419,7 @@ nen.
 Da sah ich denn zuerst in das, mattgelbe Licht einer
 elektrischen Hängelampe mit seidenem Schirm hinein. Da
 glitt mein Blick weiter und fand- die Gestalt des alten Haus
-berkünstlers, der in einem altmodischen hohen Lehnsessel
+Zauberkünstlers, der in einem altmodischen hohen Lehnsessel
 saß. Da sah ich Harald neben mir in der anderen Erstarrte,
 
 Ich hörte neben mir das schwere, träge Erden einer
@@ -2640,7 +2639,7 @@ wie das seine. Fast taumelnd kam er auf uns zu.
 
 »hie Dorthin Ginsertieh wie eben Dja), Darf bei
 es zum Schluß, daß sie den Tod suchen würde. Wir haben!
-Da mit gegen abgefilht. Wir haben nichts gen
+Da mit gegen abgefischt. Wir haben nichts gen
 Anden.
 
 <@pagebreak/>
