@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">aacb07c0-c619-11ea-8cb0-f3c6a5b8c6d7</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis des Wannsees</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">88</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Geheimnis des Wannsees.
+
+Sportfreunde werden sich noch der großen Erregung in Segler- und Ruderkreisen erinnern, die vor einem Jahr durch die rätselhaften Diebstähle auf und am Wannsee bei Berlin hervorgerufen wurde.
+
+Damals gab es kaum ein Klubhaus, kaum eine Jacht, kaum ein Wohnschiff, die nicht in den Frühjahrswochen ausgeplündert wurden und dies mit einer Frechheit, Rücksichtslosigkeit und einem Geschick, von denen die Behörden ebenso verblüfft waren, die sich ihre Machtmittel zur Unterbindung dieses Treibens einer offenbar tadellos geleiteten Einbrecherbande als unzulänglich erwiesen.
+
+Der Zauberkünstler Ballatini.
+
+Harst schnitt den Briefumschlag auf.
+
+Vor ihm auf der Aschenschale, der Schädeldecke eines von ihm in Indien erlegten Tigers, lag die qualmende Mirakulum und sandte einen Rauchfaden in blaugrauen Spiralen zur Ampel empor.
+
+Harald las:
+
+»Herr Harst,
+
+Wenn Sie diese Zeilen erhalten, bin ich dem großen Rätsel des Jenseits nähergekommen —«
+
+Er hielt inne, ließ die Hand mit dem Briefbogen sinken.
+
+»Mein Gott!« entfuhr es ihm. »Sollte — sollte ich die Dinge doch falsch beurteilt haben!«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (088) Das Geheimnis des Wannsees.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
