@@ -52,7 +52,7 @@ bei denen ich aufwuchs. Ich bin nie richtig jung
 gewesen, durfte es nicht sein. — Mit achtzehn Jahren trat
 ich als Korrespondentin in das soeben erst von Fritz Ripplow
 gegründete Geschäft ein. Er war auf abenteuerliche
-Art aus einen Gefangenenlager in Bangkok entflohen und
+Art aus einem Gefangenenlager in Bangkok entflohen und
 1919 im Januar nach endlosen Mühsalen nach Berlin gelangt.
 Der Weltkrieg war aus. Ripplow, der ein sehr
 großes Guthaben bei der Bank von England und in London
@@ -170,7 +170,7 @@ bis zu den höchsten Regierungsstellen hinauf.
 Fritz hegte gegen diese widerliche Kreatur einen krankhaften
 Haß. Er haßte in Machtaler alle die, die sich von
 ihm abgewandt hatten, als er in Haft saß. Er haßte mit
-einer verbissener Energie. Dieser Haß war furchtbar. Sein
+einer verbissenen Energie. Dieser Haß war furchtbar. Sein
 Nervensystem litt darunter. Ich bewog ihn, ein Sanatorium
 aufzusuchen. Zwei Monate blieb er dort, kehrte frischer,
 ruhiger zurück.
@@ -226,7 +226,7 @@ in die Rinde des Kirschbaumes von Harald Harsts
 Garten eingeritzt hätte, damit Harst die Diebesbeute fände
 und sie den Eigentümern wieder zustelle, — daß ich nachmittags
 nochmals bei Harst gewesen, um ihn anzuflehen,
-meinten Gatten zu schonen, falls er den Dieben auf die
+meinen Gatten zu schonen, falls er den Dieben auf die
 Spur käme.
 
 Er stierte mich bei diesen Eröffnungen so wild an,
@@ -356,7 +356,7 @@ Weshalb log er?! — Unbegreiflich! —
 Dann waren wir wieder am Japantischchen in der
 Fensterecke zu zweien.
 
-Haralds versonnenen Blick lag auf meinem abgespannten
+Haralds versonnener Blick lag auf meinem abgespannten
 Gesicht.
 
 »Es roch so schön im Küchenflur,« sagte er.
@@ -375,7 +375,7 @@ Grund haben.
 
 Aber — Harald gähnte jetzt.
 
-»Gehen wir schlagen, mein Alter. Morgen früh reisen
+»Gehen wir schlafen, mein Alter. Morgen früh reisen
 wir zu Rübezahl — vom Lehrter Bahnhof!«
 
 Vom Lehrter fährt man nach Hamburg.
@@ -411,7 +411,7 @@ und sog an seiner Pfeife »Dja — raten Sie doch mal!«
 Er nickte Harald zu.
 
 Der lehnte sich in seinem Rohrsessel behaglich zurück.
-»Ich verstehe mich schlecht aufs raten, Herr Störten. Also
+»Ich verstehe mich schlecht aufs Raten, Herr Störten. Also
 schießen Sie los!«
 
 »Zauberkünstler war er!« platzte der gemütliche Gastwirt
@@ -460,7 +460,7 @@ Eine halbe Stunde verging. Dann sah ich drüben im
 Garten einen Mann mit schwarzem Seidenkäppchen auf
 dem Haupte, gehüllt in einen gelben Leinenmantel, auftauchen.
 Er hatte einen Spaten in der Rechten und in der
-Linken — ja — in der Linien eine tote Katze, die er am
+Linken — ja — in der Linken eine tote Katze, die er am
 Schwanz gepackt hatte. Er trat in eine Lücke der Weidenbüsche
 dicht am Zaun und warf die Katze auf den Boden,
 grub ein Loch und stieß das tote Tier hinein, schüttete das
@@ -497,7 +497,7 @@ haben.«
 den Gardinen des Giebelfensters hervor mit einem Fernglas
 zehn Minuten lang beobachtet hätte. Das Sonnenlicht
 blinkte in den Linsen des Fernglases. Sonst wäre ich
-kaum darauf aufmerksam gesprochen.«
+kaum darauf aufmerksam geworden.«
 
 <@pagebreak/>
 Ich überlegte mir diese Sätze, die eine Fülle neuer Andeutungen
@@ -637,7 +637,7 @@ sei bereits eine Woche hier und ein sehr zugänglicher Mensch.
 Wir setzten uns in die Veranda. Es gab Aal zum
 <@pagebreak/>
 Abendbrot. Als wir gerade aßen, trat ein gutgekleideter
-bartloser Herr mit einem Rucksack auf den Rücken ein und
+bartloser Herr mit einem Rucksack auf dem Rücken ein und
 wurde von Klaus Störten mit den Worten begrüßt:
 
 »Na, Sie haben heute aber wieder eine lange Wanderung
@@ -715,15 +715,15 @@ Ich halte sie für Vater und Sohn.«
 
 »Für diese nahen verwandtschaftlichen Beziehungen
 spricht auch die Tatsache, daß Ripplow Irene zu Stern
-schichte als er verhaftet werden sollte. Wenn Ripplow nun
+schickte als er verhaftet werden sollte. Wenn Ripplow nun
 Sterns Sohn ist, dann kann zweierlei vorliegen. Erstens:
 Edgar Stern alias Ballatini heißt in Wahrheit Ripplow,
 oder aber Fritz Ripplow, in Wahrheit Stern heißend, hat
 sich aus besonderen Gründen den Namen Ripplow zugelegt.
-Wenn Du hierbei nach das als belastendes Moment berücksichtigst,
+Wenn Du hierbei noch das als belastendes Moment berücksichtigst,
 daß Fritz Ripplow vor seiner Flucht nicht nur die
 Etuis in dem geheimen Wandschrank leerte, die aus Singapore
-stammen, uns daß die Polizei ich der Villa Ripplows
+stammen, uns daß die Polizei in der Villa Ripplows
 in Wannsee auch nicht ein Stückchen Papier fand, das auf
 Ripplows Vergangenheit sich bezog, wenn Du schließlich bedenkst,
 daß er Irene gegenüber von seinem Aufenthalt in
@@ -1144,7 +1144,7 @@ Siamesen sind nur mäßig als Fischer herausgeputzt.«
 
 Ripplow starrte vor sich hin.
 
-Dann stand er auf ihn zog den alten Herrn in eine
+Dann stand er auf und zog den alten Herrn in eine
 Ecke. Sie sprachen flüsternd miteinander.
 
 Inzwischen nahm Harald die seltsam geformte Blechbüchse

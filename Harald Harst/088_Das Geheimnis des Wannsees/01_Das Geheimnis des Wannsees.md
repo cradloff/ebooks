@@ -197,7 +197,7 @@ und Privatsekretär einer Weltberühmtheit.
 Die schwedischen Maler Hörgar und Schlottgör mieteten
 am Nordufer des Kleinen Wannsees bei der verwitweten
 Frau Oberwachtmeister Müllbrodt zwei Zimmer im
-Erdgeschoß des bescheidenen Häuschens, zahlte für acht
+Erdgeschoß des bescheidenen Häuschens, zahlten für acht
 Tage voraus und mieteten naher ebenfalls für acht Tage
 von einem Bootsverleiher eine hübsche Jolle, hinterlegten
 als Sicherheit eine stattliche Summe und durften die Jolle
@@ -205,7 +205,7 @@ daher an dem zum Garten der Frau Müllbrodt gehörigen
 Bootssteg vertäuen. Sie sprachen das Deutsche etwas
 fehlerhaft, machten aber einen so vertrauenerweckenden Eindruck,
 daß selbst der mürrische Verwalter des Klubhauses
-das Seglervereins Poseidon, den sie von ihrer Jolle aus
+des Seglervereins Poseidon, den sie von ihrer Jolle aus
 nachmittags ansprachen, mit ihnen eine halbstündige Unterhaltung
 führte, bei der Hörgar-Harst den braven Mann gehörig
 <@pagebreak/>
@@ -583,7 +583,7 @@ Da hörte ich Harsts gehauchte Warnung:
 
 »Ein Panther!«
 
-Die grüne Lichter der Katzenbestie verharrten jetzt
+Die grünen Lichter der Katzenbestie verharrten jetzt
 regungslos.
 
 »Lupa tao!« sagte Harald plötzlich halblaut, aber die
@@ -593,7 +593,7 @@ Und — wie so oft eine Kleinigkeit in uns längst versunkene
 Erinnerungsbilder hervorzaubert, taten’s bei mir
 diese beiden siamesischen Worte.
 
-In Bangkok, der Hauptstadt Siam, hatten wir vor
+In Bangkok, der Hauptstadt Siams, hatten wir vor
 zwei Jahren eine gefährliche Abenteuererin bekämpft. In
 Bangkok auf dem gelben Menam-Flusse hatten wir im
 Wohnboot seltsame Dinge erlebt. In Bangkok hatten wir
@@ -759,7 +759,7 @@ Harald blieb vor ihr stehen, zog den nassen Oelhut.
 
 Auch ich verbeugte mich.
 
-Irene lehnte sich zurück. Ihr seines Gesicht blieb starr.
+Irene lehnte sich zurück. Ihr feines Gesicht blieb starr.
 
 »Ich verstehe Sie nicht, mein Herr,« erwiderte sie, und
 ihr Mund war Hochmut, ihr Ton abweisende Kälte. »Wer
@@ -783,7 +783,7 @@ Sie zuckte kaum merklich die Achseln.
 sagte sie hart und fast drohend.
 
 »Vielleicht werden Sie diese Szene einst noch mehr bereuen
-als die Tatsache, mich ausgesucht zu haben,« meinte
+als die Tatsache, mich aufgesucht zu haben,« meinte
 Harald mit warmer Freundlichkeit. »Sie sollten lieber
 Vertrauen zu mir haben. Meine Brust birgt Geheimnisse,
 die wohl noch tragischer als das Ihre sind, und mein
@@ -957,7 +957,7 @@ mir erklärt:
 
 »Ich habe die drei hohen Bäume der Skizze bereits
 nachmittags bemerkt und auf die Entfernungen abgeschätzt.
-So fand ich, daß die Stelle, die Kreuz der Skizze andeutet,
+So fand ich, daß die Stelle, die das Kreuz der Skizze andeutet,
 etwa da zu suchen ist, wo eine Stange über das
 Wasser hinausragt, die vielleicht ein Fischer dort zum Befestigen
 seiner Netze in den Seegrund getrieben hat.« —
@@ -972,7 +972,7 @@ Wir warfen unsere Grundangeln aus, fuhren hin und
 <@pagebreak/>
 her. Wir fischten Aeste und Zweige heraus, schwer, voll
 Wasser gezogen. Wir erwischten das Skelett eines Hundes.
-Wir runden nicht ungeduldig, beschrieben einen immer größeren
+Wir wurden nicht ungeduldig, beschrieben einen immer größeren
 Kreis um die Stange.
 
 Dann hatten die Haken der einen Leine sich abermals
@@ -1100,7 +1100,7 @@ der Hand und hielt sie dem Kommerzienrat vor die Stirn.
 
 »Wenn Sie etwa um Hilfe rufen, drücke ich ab!« sagte
 er wieder mit verstellter Stimme. »Wollen Sie jetzt gehorchen?
-Wenn nicht — nun, kann schlucken Sie wieder
+Wenn nicht — nun, dann schlucken Sie wieder
 Wasser. — Von Mordversuch kann hier keine Rede sein. An
 dem Sack war ja ein Tau befestigt.«
 
@@ -1205,7 +1205,7 @@ der Korrespondent Jakob Bnitzki, Berlin, Alte Jakobstr. 14,
 der Eisenbahnassistent Felix Tourbier, Berlin, Wilsnackerstraße
 69, und die Telephonistin Anna Erkner, Hardenbergstraße 21.
 
-Eingeweiht waren seiner meine Frau und mein Schwager
+Eingeweiht waren ferner meine Frau und mein Schwager
 Justus Rode.
 
 Es folgte nun eine genaue Schilderung, wie diese dunklen
