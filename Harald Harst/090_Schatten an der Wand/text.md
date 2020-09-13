@@ -15,7 +15,7 @@ Opfer der berüchtigten Eva Wilcword.
 
 Am Alexanderplatz kaufte auch der eine von zwei älteren,
 Rucksäcke tragenden Arbeitern solch eine Zeitung. Die
-beiden Arbeiter waren soeben durch eine Nebenpforte aus
+beiden Arbeiter waren soeben durch eine Nebengrotte aus
 dem Polizeipräsidium gekommen. Sie gingen mit müden,
 schweren Schritten die Treppen zum Stadtbahnhof Alexanderplatz
 empor und pferchten sich mit in ein überfülltes Abteil
@@ -51,7 +51,7 @@ und Schraut seien dort in der Lehmgrube absichtlich ver-
 schüttet worden. Es soll nun sofort mit Nachgrabungen
 begonnen werden.«
 
-"So — so, — sehr interessant!« meinte der alte Herr.
+»So — so, — sehr interessant!« meinte der alte Herr.
 »Hm — und jene Eva Wilcword?«
 
 »Die ist entwischt. Niemand weiß wo sie steckt. Niemand
@@ -115,7 +115,7 @@ längst verabredetes Zeichen: ich sollte ihn nicht ansprechen!
 Ich blieb vor der Plakatsäule stehen und prägte mir
 den Aufdruck des roten Zettels recht genau ein:
 
-> S. S. Olsch — Burgsand!
+> S. S. Olsch — Empfand!
 
 > Brief lagert. Alles mitbringen. Justus Rat erledigt.
 Auto für 1. Juni bestimmt. — Das Wort.
@@ -129,8 +129,8 @@ bedeutet: »Ich werde verfolgt!«
 Hieran dachte ich erst jetzt, als ich einen Depeschenboten
 mit Dienstmütze und Armbinde gewahrte, der ein Rad vor
 <@pagebreak/>
-sich hin schob. Im übrigen war die Straße nur von spie-
-Lenden Kindern belebt.
+sich hin schob. Im übrigen war die Straße nur von spielenden
+Kindern belebt.
 
 Nur dieser Depeschenbote konnte der Verfolger sein, also
 ein Spion, der das Harstsche Haus bewacht hatte. Dies
@@ -145,7 +145,7 @@ zwecklos in diesen letzten vier Tagen dauernd die
 Masken gewechselt und uns mit einer Vorsicht bewegt, als
 wäre ein Heer von Spionen stets um uns, dann waren wir
 so wenig auch nur eine Minute unseres Lebens
-sicher wie bisher. --
+sicher wie bisher. —
 
 Harst war stehen geblieben und hatte den Rucksack abgenommen,
 verstaute die Sachen darin anders und schaute
@@ -205,12 +205,12 @@ Deutsch:
 
 Ich hatte längst begriffen: hier hatte ich Anschluß an
 einen Mann gefunden, der zu einer geheimen Vereinigung
-gehörte, die als geheimes Erkennungszeichen »Das Wort<<
+gehörte, die als geheimes Erkennungszeichen »Das Wort«
 gebrauchten.
 
-»In Pankow,« sagte ich auf gut Glück. »Und Du?<<
+»In Pankow,« sagte ich auf gut Glück. »Und Du?«
 
-»In der Kolonie in der Tieckstraße --"
+»In der Kolonie in der Tieckstraße —«
 
 Er lachte wieder. »Da bist Du auch umsonst hergekommen
 — wie ich! Das ist nichts für uns!« Er machte eine
@@ -257,8 +257,8 @@ waren, Verbrechen und Laster ein Stelldichein. —
 
 Harst war jetzt nach rechts in einen schmalen Gang
 zwischen zwei Zäunen eingebogen und verschwunden. Der
-Spion hatte sich bisher noch nicht ein einziges Mal um-
-geschaut. Ich fand das von ihm reichlich unbegabt. Der
+Spion hatte sich bisher noch nicht ein einziges Mal umgeschaut.
+Ich fand das von ihm reichlich unbegabt. Der
 Mann hatte derartige Aufträge sicherlich noch nicht oft
 erledigt.
 
@@ -296,317 +296,316 @@ hatte uns beobachtet.
 
 Da lagen genug Mauertrümmer umher.
 
-»Sehen Sie sich,« sagte Harst zu dem Manne, der zu@
-Gesichts der Pistole sofort gehorchte. Dann riß er ihm den
-(Schein. Bart ab. Ein beliebtes junges Gesicht kam zum.
-r
+»Setzen Sie sich,« sagte Harst zu dem Manne, der auch
+angesichts der Pistole sofort gehorchte. Dann riß er ihm den
+falschen Bart ab. Ein verlebtes junges Gesicht kam zum
+Vorschein.
 
 »Wer sind Sie?« fragte Harald.
 
 Keine Antwort.
 
-Da begann Harst ihm die Kleider zu durcsucen.
-schließlich nahm er ihm auch die Dienftmüye ab
+Da begann Harst ihm die Kleider zu durchsuchen.
+Schließlich nahm er ihm auch die Dienstmütze ab.
 
 Der Mensch, bisher teilnahmslos, ward unruhig.
 
-Unter dem durchschnitten Futter der März vn
-es mit Umschlag. -
+Unter dem durchschwitzten Futter der Mütze lag ein
+Brief mit Umschlag.
 
 Der Verlebte fuhr jetzt hoch.
 
-»Was wollen Sie von mir?!« flüsterte er es
+»Was wollen Sie von mir?!« flüsterte er unsicher.
 
-Es war nur ein kläglicher Versuch, das Geheimnis
-es zu schüren.
+Es war nur ein kläglicher Versuch, das Geheimnis des
+Briefes zu schützen.
 
-»Lies am sagte Harst zu mir und reichte wie den
-er. Zu dem. Manne; »Seen Sie sich wirst? &
+»Lies vor!« sagte Harst zu mir und reichte mir den
+Brief. Zu dem Manne: »Setzen Sie sich wieder!«
 
 <@pagebreak/>
-Der Mensch war blaß geworden und sauf matt auf
-den Mauerkloy zurück.
+Der Mensch war blaß geworden und sank matt auf
+den Mauerklotz zurück.
 
-Die Adresse »an! dem Umschlag lautete:
+Die Adresse auf dem Umschlag lautete:
 
-> Au
+> Herrn
 
 > Ernst-Edgar von Reppen
 
 > Berlin W, Passauerstr. 18. 1.
 
-Die Marke war arm 25. Mai dieses Jahres in Herings-ARE
-Evas abgestempelt worden.
+Die Marke war am 25. Mai dieses Jahres in Heringsdorf-Seebad
+abgestempelt worden.
 
 Dann der Brief selbst:
 
-> Schloß ©., d. 24. 5. 22.
+> Schloß S., d. 24. 5. 22.
 
 > Lieber Erngar!
 
 Das Scheusal hat gestern abend an den Berliner Detektiv
 Harald Harst geschrieben — aus Angst! Du mußt
-nun unbedingt feststellen, ob Harst auf den Brief hin herzu-fonmen
+nun unbedingt feststellen, ob Harst auf den Brief hin herzukommen
 gedenkt. Wenn irgend möglich, lasse Harst nicht
-aus den Augen. sollte er sich einmischen, dann müssen wir
-- die Sache vorläufig aufgeben. Am besten wäre es ja, wenn
-» man den Brief an Harst abfangen könnte. Aber wie?!
+aus den Augen. Sollte er sich einmischen, dann müssen wir
+die Sache vorläufig aufgeben. Am besten wäre es ja, wenn
+man den Brief an Harst abfangen könnte. Aber wie?!
 Dazu, glaube ich, sind wir kaum imstande. Sollte Dir ein
-guter Gedanke einfuhren, dann versuch’s. Aber um Himmels
-willen Vorsicht! Nur nicht alles durch eine Unklug-heit
-aufs Spiel sehen! Nur nicht! — Im übrigen klappt
-tu’ alles tadellos. Das Scheusal schleicht blaß und über-nächtig
-umher. Man sieht, wie ihm das Gewissen zuletzt.
-Das ganze Dorf spricht von nichts anderem als von dem.
+guter Gedanke einfallen, dann versuch’s. Aber um Himmels
+willen Vorsicht! Nur nicht alles durch eine Unklugheit
+aufs Spiel setzen! Nur nicht! — Im übrigen klappt
+ja alles tadellos. Das Scheusal schleicht blaß und übernächtig
+umher. Man sieht, wie ihm das Gewissen zusetzt.
+Das ganze Dorf spricht von nichts anderem als von dem
 alten General! Kein Mensch wagt sich abends den Weg
 entlang.
 
 Schreibe mir sofort, falls Harst Miene macht, abzureisen.
-Oder besser, sitze mir ein harmloses Telegramm. Bekomme
+Oder besser, schicke mir ein harmloses Telegramm. Bekomme
 ich keine Nachricht, so bleibt es bei unserem Plan.
-Das Scheusal wird Seen kapitulieren.
+Das Scheusal wird schon kapitulieren.
 
-Innigst Deine Karla.
+> Innigst Deine Karla.
 
-»Als ich mit Vorlesen fertig war, sag:e Harald zu unserem
+Als ich mit Vorlesen fertig war, sagte Harald zu unserem
 Gefangenen:
 
 »Ihre tadellos gepflegten Hände lassen die Vermutung
 <@pagebreak/>
-daß Sie selbst Ernst-Edgar von Nie
-10 na fl Ernst-Edgar Portionen sind, — kam
+zu, daß Sie selbst Ernst-Edgar von Reppen sind. — Aeußern
+Sie sich.«
 
 Keine Antwort.
 
 »Herr von Reppen, das ist sehr töricht von Ihnen —
-1» fuhr Harald fort. »Zumal es Ihnen nicht gelungen
-eben Brief, der heute früh für mich eintraf, meiner Mai
-wieder abzushwindeln. Ich habe bieten Brief, der
-Unfalls den Boftftenipel Heringsdorf trägt, hier in des
-Asche. Gelesen habe ich ihn noch rieb.«
+sehr!« fuhr Harald fort. »Zumal es Ihnen nicht gelungen
+ist, den Brief, der heute früh für mich eintraf, meiner Mutter
+wieder abzuschwindeln. Ich habe diesen Brief, der
+ebenfalls den Poststempel Heringsdorf trägt, hier in des
+Tasche. Gelesen habe ich ihn noch nicht.«
 
-Er holte den Brief hervor, der noch nicht geöffnet was,
+Er holte den Brief hervor, der noch nicht geöffnet war,
 
-he ihn jetzt aber lesen, Herr von Mengen —
-esse, —
+»Ich werde ihn jetzt aber lesen, Herr von Reppen. —
+Ich hoffe, daß —«
 
-Der Gefangene hatte plötzlich die Hände roh, war zur
-gerungen, hatte Harst den Brief entrissen und Rapide ihn
-schnell in den Mund. «-
+Der Gefangene hatte plötzlich die Hände frei, war zugesprungen,
+hatte Harst den Brief entrissen und stopfte ihn
+schnell in den Mund.
 
-Ich wollte ihm an die Kehle. Er falte den Brief
+Ich wollte ihm an die Kehle. Er sollte den Brief
 wieder hergeben!
 
-»Laß Wohl Wozu?!« sagte Harst da. Und lächelte.
-Tulpen ironisch an. »Schmeckt der Bissen?! Kauen Sie
-Ich brauche den Brief nicht! Glauben Sie denn,
-werde Schloß ©. in der Nähe von Heringsdorf nicht
-Anden?! Und glauben Sie, das »Scheusal« wird mir nicht
-Blitz wiederholen, was in dem Briefe gestanden hat?«
+»Laß doch! Wozu?!« sagte Harst da. Und lächelte
+Reppen ironisch an. »Schmeckt der Bissen?! Kauen Sie
+nur! Ich brauche den Brief nicht! Glauben Sie denn,
+ich werde Schloß S. in der Nähe von Heringsdorf nicht
+finden?! Und glauben Sie, das »Scheusal« wird mir nicht
+mündlich wiederholen, was in dem Briefe gestanden hat?«
 
 Da spie der junge Mensch den Brief wieder aus.
 
 Harst wurde ernst. »Heben Sie ihn auf und lesen Sie
-— Vorwärts! Oder wünschen Sie, daß ich Sie den
-Polizei übergebe? 1»
+vor! — Vorwärts! Oder wünschen Sie, daß ich Sie der
+Polizei übergebe?!«
 
-Der Mann gehorchte, glättete den Brief, riß den Unklug
+Der Mann gehorchte, glättete den Brief, riß den Umschlag
 auf und las:
 
-»Schloß Sandburg, Insel Usedom, bei Seebad He
-Heringsdorf, den 23. 5. 1922. — Sehr geehrter Herr! Gallig
-ten etwa durch Zeitungsgeshwäy etwas von den vor
-erbten bekannt werden uns sollten Sie, der so gern
-bannte Rätsel löst, die Absicht haben, sich mit dem toten
-geneigt von Reppen zu beschäftigen, das heißt, hier an
-und Stelle nachschnüfselp wollen, was zu der Sache
+»Schloß Sandburg, Insel Usedom, bei Seebad
+Heringsdorf, den 23. 5. 1922. — Sehr geehrter Herr! Sollte
+Ihnen etwa durch Zeitungsgeschwätz etwas von den Vorgängen
+hier bekannt werden und sollten Sie, der so gern
+sogenannte Rätsel löst, die Absicht haben, sich mit dem toten
+General von Reppen zu beschäftigen, das heißt, hier an
+Ort und Stelle nachschnüffeln wollen, was an der Sache
 <@pagebreak/>
-eigentlich daran, ist, so erkläre ich Ahnen schon jetzt, daß ich
+eigentlich daran ist, so erkläre ich Ihnen schon jetzt, daß ich
 für Sie nicht zu sprechen bin. — Ergebenst — Holger von
 Reppen, Majoratsherr auf Sandburg.«
 
-Das Gesicht unterst Gefangenen war zum Malen, als
+Das Gesicht unseres Gefangenen war zum Malen, als
 er dies immer langsamer vorlas.
 
-»Ah — Eiskalten etwas anderes erwartet, Herr Ernst-Edgar
-von Reppen,« sagte Harald nun. »Ich ah —
-offen gefiandeni— Wer ist dieses »Scheusal«, dieser Holger
-von Klepper? Ihr Verwandter, Ihr Onkel etwa?«
+»Ah — Sie hatten etwas anderes erwartet, Herr Ernst-Edgar
+von Reppen,« sagte Harald nun. »Ich auch —
+offen gestanden! — Wer ist dieses »Scheusal«, dieser Holger
+von Reppen? Ihr Verwandter, Ihr Onkel etwa?«
 
 Keine Antwort.
 
 Da wurde Harst böse. »Wir können uns mit Ihnen
-hier nicht lange aufhalten!« meinte er kurz. »Schraut, seh«
-und läute Becher! an. Er soll »Reppen von hier sofort ohne
+hier nicht lange aufhalten!« meinte er kurz. »Schraut, geh’
+und läute Bechert an. Er soll Reppen von hier sofort ohne
 alles Aufsehen abholen lassen.«
 
-Diese Säule hatten eine merkwürdige Wirkung. Der
-Mann begann zu zittern, schnappte nach Lust und stieß dann
+Diese Sätze hatten eine merkwürdige Wirkung. Der
+Mann begann zu zittern, schnappte nach Luft und stieß dann
 hervor:
 
-Per en — nur das nicht! Herr Harst — Res Sie Er
-en!«
+»Nur — nur das nicht! Herr Harst — haben Sie Erbarmen!«
 
-er Er Sie Griff-Edgar von Reppen?«
+»Sind Sie Ernst-Edgar von Reppen?«
 
 »Ja —«
 
 »Kennen Sie eine gewisse Eva Wilcword?«
 
-Reppen schüttelte den Kopf. »Auf Ehrenwort — nein!k«
+Reppen schüttelte den Kopf. »Auf Ehrenwort — nein!«
 
 »Das dachte ich mir. Es ist Ihr Glück, Herr von
-Ragen! Ich hielt Sie erst für einen Spion anderer Leute.
+Reppen! Ich hielt Sie erst für einen Spion anderer Leute.
 Was haben Sie da in Sandburg vor?«
 
 »Oh — nichts!«
 
 »Seien Sie nicht albern, Herr! — Wer ist Karla?
-es Schwester k«
+Ihre Schwester?«
 
 »Ja —«
 
-»an gut. Ich habe nicht Zeit, mich mit Ihren Angelegenheiten
-zu beschäftigen. Hören Sie genau hin: Schleife
-es wagen, Ihre Schwester zu warnen, so sind Sie
+»Nun gut. Ich habe nicht Zeit, mich mit Ihren Angelegenheiten
+zu beschäftigen. Hören Sie genau hin: Sollten
+Sie es wagen, Ihre Schwester zu warnen, so sind Sie
 ein paar Stunden drauf Polizeigefangener. Sie bleiben
-hier hm Heran und Spring nichts! Warnen
+hier in Berlin und unternehmen nichts! Verstanden?!«
 
 »Ja —«
 
 <@pagebreak/>
-
 »Also merken Sie sich: Keine Depesche, kein Brief
-ach Sandburg und hier bleiben! — Sie begeben sich seh«
+nach Sandburg und hier bleiben! — Sie begeben sich jetzt
 nach Ihrer Wohnung. Sie werden fortan beobachtet werden.
-— So — wir sind vorläufig miteinander E Dort
+— So — wir sind vorläufig miteinander fertig. Dort
 ist Ihr Rad.«
 
-Reppen stand blaß und verschüchtert da. So
+Reppen stand blaß und verschüchtert da.
 
-»Schonen Sie uns, Herr Harst!« Da er: vor
-damals. »Wir — wir — kämpfen um unser Recht!« -
+»Schonen Sie uns, Herr Harst!« stammelte er nochmals.
+»Wir — wir — kämpfen um unser Recht!«
 
 »Das wird sich herausstellen. — Auf Wiedersehen.«
 
-Reppen machte eine tadellose Verbeugung und ver
-Diwan
+Reppen machte eine tadellose Verbeugung und verschwand.
 
-»Das war ein böser Schreclkschuß, mein Alter,« sagte
+»Das war ein böser Schreckschuß, mein Alter,« sagte
 Harald leise. »Ich fürchtete wirklich, Evas Trabanten könnten
-wieder hinter uns her sein und alle ab wäre umsonst
+wieder hinter uns her sein und alle Vorsicht wäre umsonst
 gewesen.«
 
-»Das fürchtete ich auch: — Nun könntest Du mir eigens
-lich gleich Deinen Feldzugsplan gegen Eva Wilcword New
-e: falls ich Dir nicht erst berichten soll, Ins un
-Gabe.«
+»Das fürchtete ich auch. — Nun könntest Du mir eigentlich
+gleich Deinen Feldzugsplan gegen Eva Wilcword verraten,
+falls ich Dir nicht erst berichten soll, was ich erlebt
+habe.«
 
 »Du hast etwas erlebt?«
 
-»Etwas recht Merkwürdiges!« Ach erzählte As gar
-Harst die Zigarrentüte, auf die ich den Anhalt des in
+»Etwas recht Merkwürdiges!« Ich erzählte und gab
+Harst die Zigarrentüte, auf die ich den Inhalt des Plakats
 geschrieben hatte.
 
-Bau las die Bleistiftzeilen,
+Harald las die Bleistiftzeilen,
 
-An ist ganz genau alles Orts tragen
+»Du hast ganz genau alles abgeschrieben?« fragte er
+plötzlich.
 
 »Ganz genau!«
 
-Und Du kannst mir dies Dein Erlebnis so gelassen er
-wählen?! Wie ist Das möglich?! Wie konntest Du nicke
-sofort, als Reppen den Brief vorlas an diese Ueberschrifs
-des Plakats »S. S. Glich — Empfand!« denken! Das«
+»Und Du kannst mir dies Dein Erlebnis so gelassen erzählen?!
+Wie ist das möglich?! Wie konntest Du nicht
+sofort, als Reppen den Brief vorlas an diese Ueberschrift
+des Plakats »S. S. Olsch — Burgsand!« denken! Das heißt
 doch, von hinten gelesen »Schloß Sandburg« —! —
 Schraut, Du wirst nie ein Genie werden! Nie!«
 
-Weiß der Henker: ich wurde rot — ich schämte mit wt
-Und Harald sprach weiter. Die grauen Augen grub
+Weiß der Henker: ich wurde rot — ich schämte mich!
+
+Und Harald sprach weiter. Die grauen Augen strahlten.
 <@pagebreak/>
-ten. Er war die Verkörperung von Energie und Scharfsinn
+Er war die Verkörperung von Energie und Scharfsinn
 in diesem Moment.
 
-»war Schraut, blindestes aller Hühner, Du ahnst ja
+»Max Schraut, blindestes aller Hühner, Du ahnst ja
 gar nicht, was uns der Zufall da in den Schoß geworfen
-war Schraut, Du fragtest nach meinem Feldzugsplans
-Ich hatte feinen.: Ich wollte warten, bis Eva Wilcword
+hat! Max Schraut, Du fragtest nach meinem Feldzugsplan!
+Ich hatte keinen. Ich wollte warten, bis Eva Wilcword
 irgendwo auftauchte, sich bemerkbar machte! Sie hat ja zugegeben,
-laß sie »ein großes Ding drehen will«! Und nun
+daß sie »ein großes Ding drehen will«! Und nun
 — nun haben wir eine Spur von ihr, denn dies Plakat ist
 ja nichts anderes als ein Befehl an bestimmte Mitglieder
 ihrer Bande! Vergleiche, was der »Ungar« mit Dir sprach:
 daraus geht hervor, daß die Bande die Befehle stets durch
 solche Plakate erhält, die wahrscheinlich nur an wenigen
 Säulen oder gar nur an einer unbefugt angeklebt werden!
-Wo dies geschieht, wird den Mitgliedern durch Zeitungs-annonce
+Wo dies geschieht, wird den Mitgliedern durch Zeitungsannonce
 vielleicht mitgeteilt. Der Ungar sagte zu Dir »Das
-ist aus für uns!« — Das heißt also: er ersah aus dem
-Inhalt doch Plakats, daß diese Befehle ihn nichts angingen,
+ist nichts für uns!« — Das heißt also: er ersah aus dem
+Inhalt des Plakats, daß diese Befehle ihn nichts angingen,
 daß sie vielmehr nur für erlesene Mitglieder bestimmt waren.
-— Was »Brief lagert« und »alles mitbringen« bedecu-tet,
-das weiß ich nicht. Aber »Zuging Rat erledigt« — das
-kann nur heißen: der Justizrat ist tot! Der Justizrat Plant
-— ¿Muto für 1. Juni bestimmt« bedarf keiner Erläuterung.
+— Was »Brief lagert« und »alles mitbringen« bedeutet,
+das weiß ich nicht. Aber »Justus Rat erledigt« — das
+kann nur heißen: der Justizrat ist tot! Der Justizrat Plotz!
+— »Auto für 1. Juni bestimmt« bedarf keiner Erläuterung.
 Und dann: »Das Wort«! — Max Schraut — geheimes Erkennungszeichen
 »Das Wort«! Das hast Du ja selbst festgestellt.
 Und Eva Wilcword — Wilc — word — Wort, —
 da hast Du den Gleichklang! Begreifst Du: »Das Wort«
 ist Eva, die Feindin! Und das wichtigste — die Ueberschrift:
 Schloß Sandburg! Begreift Du: Dort will Eva etwas
-unternehmen — stehlen, t9ciß Gott was! In Sandburg,
+unternehmen — stehlen, weiß Gott was! In Sandburg,
 wo auch die Geschwister Reppen im Trüben fischen! — Das
 ist noch nicht alles, mein Alter: Dein »Ungar« sagte, er
-wohne in der Kolonie in der Tiedftrage. — Tieckstraße —
-Norden Berlins — galante Gegend, Studenten- und Zi-geunerviertel
+wohne in der Kolonie in der Tieckstraße. — Tieckstraße —
+Norden Berlins — galante Gegend, Studenten- und Zigeunerviertel
 — Zigeuner! Denn in der Tieckstraße gibt’s
-in paar Mietskasernen, in denen nur Zigeuner hausen!
+ein paar Mietskasernen, in denen nur Zigeuner hausen!
 <@pagebreak/>
 Zigeuner war Dein »Ungar«! — Und weiter: besinne Dich
-Nr die Schredensnacht in der Lehmgrube! Da tanzte Eva
-Lagerfeuer einer Zigeunerbande!«
+auf die Schreckens nacht in der Lehmgrube! Da tanzte Eva
+am Lagerfeuer einer Zigeunerbande!«
 
-Ich stand da und ließ all das sich in mein Hirn einbrachten
-wie die Leuchilugeln eines Raketenschwarms.
+Ich stand da und ließ all das sich in mein Hirn einbohren
+wie die Leuchtkugeln eines Raketenschwarms.
 
-So stand und freute mich: dies Raketenseuee hatte ich
+Ich stand und freute mich: dies Raketenfeuer hatte ich
 ja entfacht — ich durch das Plakat!
 
-Harald blühte mir die Hand.
+Harald drückte mir die Hand.
 
-»Hast Deine Sache doch gut gemacht, Widert Haft den
-gar fein bemogelt. — Nun los denn — an die Widert..
-Kasten wechseln!,Heraus mit den Lumpen aus dem Ruck!
+»Hast Deine Sache doch gut gemacht, Alter! Hast den
+fein bemogelt. — Nun los denn — an die Arbeit.
+Masken wechseln! Heraus mit den Lumpen aus dem Rucksack!
 Wenn uns jemand in den Kostümen erkennt, will ich
-Gift schlucken!« — Ne
+Gift schlucken!« —
 
-Eine halbe Stunde drauf waren die’ biederen Arbeiter
-Vagabunden geworden. Kein Zuviel war an der Ma
-Kaperung. Sie war darauf berechnet, daß uns nicht etwa je-Grüne
-sofort aufs Korn nahm. — unsere Rucksäcke nicke
-ten wir mit Erde und Kalklstaub so her, bat auch sie zum
-klebrigen paßten. Dann gingen wir durch die Pracht des
-aiabendó dem düsteren Mietskasernen viertel im Norden
+Eine halbe Stunde drauf waren die biederen Arbeiter
+Vagabunden geworden. Kein Zuviel war an der Maskierung.
+Sie war darauf berechnet, daß uns nicht etwa jeder
+Grüne sofort aufs Korn nahm. — unsere Rucksäcke richteten
+wir mit Erde und Kalklstaub so her, daß auch sie zum
+Uebrigen paßten. Dann gingen wir durch die Pracht des
+Maiabends dem düsteren Mietskasernenviertel im Norden
 Berlins zu.
 
-<h2>3, Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
-Gegen ah Uhr standen wir im Hose des ersten Hauses
-Zigeunerkolonie. Unsern Ungar hier herauszufinden,
-an ein Kunststück. Aber wir kannten ja ein Zauberwort,
-uns Anschluß verschaffen mußte:
+Gegen acht Uhr standen wir im Hofe des ersten Hauses
+der Zigeunerkolonie. Unsern Ungar hier herauszufinden,
+war ein Kunststück. Aber wir kannten ja ein Zauberwort,
+das uns Anschluß verschaffen mußte:
 
 > Das Wort!
 
-Harst scheute sich um. Hier im Hofe war der reine
+Harst schaute sich um. Hier im Hofe war der reine
 Jahrmarkt: In Gruppen feilschten abenteuerliche Gestalten
-um allerhand Dinge. Goldene Uhren blinkten, Ringe, Army
-Bänder. — Tuchballen wurden geprüft. Seidenstoffe zeigten
+um allerhand Dinge. Goldene Uhren blinkten, Ringe, Armbänder.
+— Tuchballen wurden geprüft. Seidenstoffe zeigten
 ihren Glanz —: Zigeunerbörse — meist gestohlenes Gut
-von auswärts. er
+von auswärts.
 
 <@pagebreak/>
-Wir standen, bis ein alter Wider Zigeuner, der jedem
+Wir standen, bis ein alter dicker Zigeuner, der jedem
 Maler als Modell wertvoll gewesen, auf uns zukam —
 Mißtrauen in den durchdringenden schwarzen Augen, Kraft
 in jeder Bewegung, Schlauheit um die Mundwinkel.
@@ -614,13 +613,13 @@ in jeder Bewegung, Schlauheit um die Mundwinkel.
 »He — was soll’s?« fragte er und pflanzte sich vor
 uns auf.
 
-»Das Wort!« flüsterte Harald mit Nachdruck
+»Das Wort!« flüsterte Harald mit Nachdruck.
 
-Der Zigeuner Beruhte, flüsterte hastig zurück:
+Der Zigeuner stutzte, flüsterte hastig zurück:
 
 »Das Wort! — Was gibt’s?«
 
-»Erst Dein Name. Der Beschreibung nach bist Du’s!
+»Erst Dein Name. Der Beschreibung nach bist Du’s!«
 
 »Joseph Jenkel.«
 
@@ -629,22 +628,22 @@ sprechen.«
 
 Der Zigeuner winkte. »Kommt!«
 
-Er ging uns voran ins« Vorderhaus, zwei Ledigen
+Er ging uns voran ins Vorderhaus, zwei Treppen
 empor. Da war rechts an der Flurtür ein Pappschild:
 
 > Joseph Jenkel,
 
 > Pferdehändler.
 
-Er schloß die Flurtür auf und brachte und in ein
+Er schloß die Flurtür auf und brachte uns in ein
 peinlich sauberes, einfach möbliertes Zimmer, halb Kontor.
 
 »Setzt Euch!« — Er holte eine Flasche Schnaps und
-drei Blässe aus dem Schrank schenkte ein.
+drei Gläser aus dem Schrank schenkte ein.
 
 »Prosit!«
 
-Wir tranken, Es war ein tadelloser Kirschlikör,
+Wir tranken. Es war ein tadelloser Kirschlikör,
 
 »Nun los!« sagte Jenkel dann zu Harst. »Wer seid
 Ihr? Woher kommt Ihr? »
@@ -653,100 +652,101 @@ Er ging und zog die Fenstervorhänge zu, zündete die
 Gaslampe an und setzte sich wieder.
 
 »Von der Landstraße kommen wir,« erwiderte Harald.
-»Fahrende sind wir, — Kochemer! (Ausdruck aus der Gau-nersprache,
+»Fahrende sind wir, — Kochemer! (Ausdruck aus der Gaunersprache,
 gleich »Kluge«, »Schlaue«). Wir fanden viel
 schofele Winde (Leute die Bettlern nichts geben), mußten
 malochen (arbeiten, um Essen zu bekommen) und hatten nur
-Selten einen Stuppen (Dummen) zum Vorführen (im
+selten einen Stuppen (Dummen) zum Vorführen (im
 Falschspiel das Geld abnehmen). Auch mit dem Krampfzug
 (Stehlen) war’s nichts. Wir mußten meist platt machen
 <@pagebreak/>
-Freien schlafen), hatten nie Münze! und meist den
-en zu (Hunger), bis wir die feine Schickte ( ums)
-n.«
+(im Freien schlafen), hatten nie Münze und meist den
+Riemen zu (Hunger), bis wir die feine Schickse (Dame)
+trafen.«
 
 »Wo war das?«
 
-»In Pommern — vorgestern, na das im Walde. Sie
-uns Münze und schickte uns her. Erst wollte sie uns
-Schwarzwifh (Brief).mitgeben für Dich. Dann sagt?
-ich solle Dir mündlich ausrichten, Bad Zulauf dem roten
-erpicht gemacht werden soll« ist
+»In Pommern — vorgestern, nachts im Walde. Sie
+gab uns Münze und schickte uns her. Erst wollte sie uns
+einen Schwarzwisch (Brief) mitgeben für Dich. Dann sagte
+sie, ich solle Dir mündlich ausrichten, daß das auf dem roten
+Zettel nicht gemacht werden soll.«
 
 »Weshalb nicht?«
 
-»Weiß ich nicht. Wir sollen’s hinbringen, Wir kennen
+»Weiß ich nicht. Wir sollen’s hinbringen. Wir kennen
 Gegend da genau. Wir haben voriges Jahr in Sandbank
-Ernte gearbeitet. Mein Freund da ist Chauffeur
-en, hat vier Jahr Knast gehabt (im Gefängnis ge
+auf Ernte gearbeitet. Mein Freund da ist Chauffeur
+gewesen, hat vier Jahr Knast gehabt (im Gefängnis gesessen).«
 
-Senke! überlegte. »
+Jenkel überlegte.
 
-»Sold Ihr das Auto also auch hinbringen?*,
+Sollt Ihr das Auto also auch hinbringen?«
 
-Tanz. Gleich, hat die feine Schlosser gesagt.*.
+»Ja. Gleich, hat die feine Schickse gesagt.«
 
-Wehr beide allein?« — In dieser Frage lag gelindes
-Tauen.
+»Ihr beide allein?« — In dieser Frage lag gelindes
+Mißtrauen.
 
-»Nein, mit Die. Die Schickse traut uns nicht.
+»Nein, mit Dir. Die Schickse traut uns nicht.«
 
 Jenkel war beruhigt.
 
-»Einkluften (bessere Kleider geben) sonst Du uns auch,«
+»Einkluften (bessere Kleider geben) sollst Du uns auch,«
 
-»Das ist selbstverständliche Jenkel stand auf und
-diente aus den Schreibtisch, nahm den Hörer vom Telephon, » »tw
+»Das ist selbstverständlich.« Jenkel stand auf und trat
+an den Schreibtisch, nahm den Hörer vom Telephon,
 
 »Norden 18 163,« verlangte er. Dann:
 
-»Wer doch — hier Jenkel — Das Wort! — Gut, das
-! — Janos, das Auto steht in einer Stunde vor dem
-Du brauchst nicht mit. Packe aber alles ja die Roh
-Ein hat die Befehle geändert. Ich fahre mit, Witz
-einer Stunde.«
+»Wer dort — hier Jenkel — Das Wort! — Gut, das
+Wort! — Janos, das Auto steht in einer Stunde vor dem
+Hause. Du brauchst nicht mit. Packe aber alles in die Koffer.
+Sie hat die Befehle geändert. Ich fahre mit. Also
+in einer Stunde.«
 
-Er legte den Hörer auf die Stücken und sagte zu uns;
+Er legte den Hörer auf die Stützen und sagte zu uns:
 
 »Kommt — einkluften!«
 
-Er führte uns in ein Hinterzimmer. Da standen mus
-Tränke und ein großer Spiegel mit Gaslampen zu beiden
+Er führte uns in ein Hinterzimmer. Da standen nur
+Schränke und ein großer Spiegel mit Gaslampen zu beiden
 <@pagebreak/>
-Selten. Das Gas puffte auf. Strudel schaute uns prüfend
-an, Operierte unsere Größe. Die Schränke enthielten
-ur Anzüge Da war alles vertreten: Fräcke, Schnöde,
-Es Je Seide, anlehnte, Ulster, Hüte aller Art, Schuhe,
+Seiten. Das Gas puffte auf. Jenkel schaute uns prüfend
+an, taxierte unsere Größe. Die Schränke enthielten
+nur Anzüge. Da war alles vertreten: Fräcke, Gehröcke,
+fein auf Seide, Paletots, Ulster, Hüte aller Art, Schuhe,
+Wäsche.
 
-Wir paßten Lodenanzüge an, bekamen Wäsche, Mühen,
-bange gelbe Staubmäntel.
+Wir paßten Lodenanzüge an, bekamen Wäsche, Mützen,
+lange gelbe Staubmäntel.
 
-»Zieht Euch um. Ich Hole Ausweispapiere für Euch.
+»Zieht Euch um. Ich hole Ausweispapiere für Euch.
 Da sind Scheren. Beschneidet Euch die Bärte.« Dann
 ging Jenkel hinaus.
 
-zu flüsterte rasch: »Tritt freier auf! Du bist zu
-00
+Harst flüsterte rasch: »Tritt frecher auf! Du bist zu
+doof!«
 
-Als wir gerade umgestaltet waren; kam Strudel zurück,
+Als wir gerade umgestaltet waren, kam Jenkel zurück,
 musterte uns,
 
-»Gut so! Ihr versteht’s!»
+»Gut so! Ihr versteht’s!«
 
 »Haben früher Patte malocht (Taschendiebstähle ausgeführt),«
 grinste Harst.
 
 Jenkel begann nun selbst mit der Toilette. Auch er
 war ein Verwandlungskünstler. Der vornehme alte Herr,
-der durch den goldenen Kneifer so kühl dreinschaute, se
-mit Jenkel nur noch wenig ‘Aehnlichkeit.
+der durch den goldenen Kneifer so kühl dreinschaute, hatte
+mit Jenkel nur noch wenig Aehnlichkeit.
 
 »Wollt Ihr noch etwas essen?« fragte er.
 
 Harst bejahte.
 
 In einem ebenfalls peinlich sauberen Speisezimmer
-Leber Jenkel uns leckere Dinge vor, dazu eine halbe Flasche
+setzte Jenkel uns leckere Dinge vor, dazu eine halbe Flasche
 Wein.
 
 Harst erzählte ihm im Gaunerjargon von unseren
@@ -754,125 +754,125 @@ Harst erzählte ihm im Gaunerjargon von unseren
 Auto meldete sich unten.
 
 Wir fanden vor dem Hause einen großen Tourenwagen
-vor. Der Chauffeur stand Daneben, offenbar auch ein Zimmer.
+vor. Der Chauffeur stand daneben, offenbar auch ein Zigeuner.
 
-Hilflos auf den Führersitz, band die Autobrille vor.
-Da sah ich, daß rechts. auf dem Fahrdauun der »Ungar«
+Ich stieg auf den Führersitz, band die Autobrille vor.
+Da sah ich, daß rechts auf dem Fahrdamm der »Ungar«
 sich mit einem Mädchen unterhielt, jetzt aber scharf nach mir
 <@pagebreak/>
-injchaute. Unsere Blies trafen sich. Ich zog rasch bis Aus
-Brille höher, hatte sie fest, wollte »anhalten » Bei
+hinschaute. Unsere Blicke trafen sich. Ich zog rasch die Autobrille
+höher, hakte sie fest, wollte anfahren.
 
 Der »Ungar« war schon neben mir,
 
-»Seher Dich!« rief Seeufer ihn zu.
+»Scher’ Dich!« rief Jenkel ihm zu.
 
-Der Wagen rufe an, lief davon. À
+Der Wagen ruckte an, lief davon.
 
 Mir klopfte das Herz bis in den Hals hinein. Das
-noch im lebten Moment entwischt. Der »Ungar« hätte
-da eine nette Suppe einbrocken können! offenbar hatte
-mich an meinem kurzen Hab’ und den hohen Schultern
-kennt. Vielleicht auch an der Nase. —
+noch im letzten Moment entwischt. Der »Ungar« hätte
+uns da eine nette Suppe einbrocken können! Offenbar hatte
+er mich an meinem kurzen Hals und den hohen Schultern
+erkannt. Vielleicht auch an der Nase. —
 
-Mine halbe Stunde drauf kauften wir schon die Chaussee
-Eberswalde entlang. ist
+Eine halbe Stunde drauf sausten wir schon die Chaussee
+nach Eberswalde entlang.
 
 Um halb zwölf nachts passierten wir Pasewalk.
 
 Jenseits der Stadt lief die Chaussee eine weite Strecke
-schnurgerade. Die Nacht war mondhell. -
+schnurgerade. Die Nacht war mondhell.
 
-Da erschien plötzliche Harsts Kopf neben mir.
+Da erschien plötzlich Harsts Kopf neben mir.
 
-»sendet schläft,« rief er. »Ich habe ihm eine Opium-rette
-gegeben. Wiege in den nächsten Walbiweg ein.«
+»Jenkel schläft,« rief er. »Ich habe ihm eine Opiumzigarette
+gegeben. Biege in den nächsten Waldweg ein.«
 
 Vor uns lag die schwarze Wand eines Forstes. Ich
-langsamer. Dann nahm der Wald uns auf, dann
-wir auf einem schmalen Wege.
+fuhr langsamer. Dann nahm der Wald uns auf, dann
+hielten wir auf einem schmalen Wege.
 
 Harst sprang ab, löschte die Laternen und Scheinwerfer.
 
-»Jetzt werden wir den Inhalt der drei Koffer unteren,
+»Jetzt werden wir den Inhalt der drei Koffer untersuchen,
 mein Alter. — Dieser Jenkel spielt in Evas Bande
-los eine Hauptrolle. Seglers Wohnung scheint das
-Hauptquartier zu sein. Welch ein Triumph, wenn wir die.
+fraglos eine Hauptrolle. Jenkels Wohnung scheint das
+Hauptquartier zu sein. Welch ein Triumph, wenn wir die
 Geheimnisse dieses Verbrecherbundes enthüllen!«
 
-Die Koffer waren hinten aufgeschnallt. Unsere Ruck-hatten
-wir mitgenommen. Jenkel hatte sie keines
-es gewürdigt. Er lag im Wagen und schlief.
+Die Koffer waren hinten aufgeschnallt. Unsere Rucksäcke
+hatten wir mitgenommen. Jenkel hatte sie keines
+Blickes gewürdigt. Er lag im Wagen und schlief.
 
 Wir schnallten die bestaubten Koffer los, und Harst
-ß den ersten mit den Schlüsseln auf, die er Jenkel aus
-Tasche genommen hatte.
+schloß den ersten mit den Schlüsseln auf, die er Jenkel aus
+der Tasche genommen hatte.
 
 Der Mond stand schräg über uns. Ein Wagen ratterte
-he Suigetlapper auf der nahen Chaussee vorüber. Dann
-Auto.?
+unter Hufgeklapper auf der nahen Chaussee vorüber. Dann
+ein Auto.
 
 <@pagebreak/>
-Harst hob den Kofferdeckel. Zwei Sauerfioffftahlilafchen
-lagen darin
+Harst hob den Kofferdeckel. Zwei Sauerstoffstahlflaschen
+lagen darin.
 
-»Das genügt,« meinte Harald und schaltete feine
+»Das genügt,« meinte Harald und schaltete seine
 Taschenlampe wieder aus. »Einbruch — Geldschrank
-runden! Eva Wilcword macht alles.«
+knacken! Eva Wilcword macht alles.«
 
-Er fhlo& den Koffer wieder zu. Wir schnallten ihm
+Er schloß den Koffer wieder zu. Wir schnallten ihn
 fest, standen mit dem Rücken nach der Chaussee hin.
 
-Da tu’,
+Da kam’s.
 
-Da waren wie die Teufel fünf — sechs sitze
-Kerle über uns, drücken uns zu Boden, lagen auf uns.
+Da waren wie die Teufel fünf — sechs geschmeidige
+Kerle über uns, drückten uns zu Boden, lagen auf uns.
 
-Eine, Mefferfpige richte mir die Genidhaut,
+Eine Messerspitze ritzte mir die Genickhaut,
 
-»Lies! still, Hund!«
+»Lieg’ still, Hund!«
 
-im Nu waren wir wehrlose Bündel.
+Im Nu waren wir wehrlose Bündel.
 
-»Macht Ihr das Maul auf, fährt Euch der Stahl im
+»Macht Ihr das Maul auf, fährt Euch der Stahl in
 die Rippen!« drohte dieselbe Stimme,
 
-Es war die des Mannes von der Ufers
+Es war die des Mannes von der Plakatsäule.
 
 Man riß uns hoch.
 
 »Mund auf!«
 
-Die Messer drohten. Man schloß uns Knebel zwischen
+Die Messer drohten. Man schob uns Knebel zwischen
 die Zähne, band sie im Genick fest, warf uns in das Auto,
-warf Seen darüber.
+warf Decken darüber.
 
-Jenkel war erwacht. Seine diese Stimme kam durch
-die Oeden:
+Jenkel war erwacht. Seine tiefe Stimme kam durch
+die Decken:
 
-»Ersäufen werden wir Euch —  ersäufen!«
+»Ersäufen werden wir Euch — ersäufen!«
 
-So fuhren wir weiter. Ich hörte, daß ein zweites.
-Auto dicht vor uns war. ch begriff alles: das andere
+So fuhren wir weiter. Ich hörte, daß ein zweites
+Auto dicht vor uns war. Ich begriff alles: das andere
 Auto hatte uns verfolgt auf Veranlassung des Ungarn!
 
 Ersäufen wollten sie uns! — Ob sie wußten, wer wir
-ne — Nein — sie mochten uns für Kriminalbeanue
-ten. —
+waren? — Nein — sie mochten uns für Kriminalbeamte
+halten. —
 
 Wir lagen nebeneinander, die Rücken halb gegen die
-Seltentwand getrübt.
+Seitenwand gestützt.
 
 Ersäufen! So weit war’s noch nicht! Harst stieß mich
 mit dem Ellenbogen an.
 
 Dann sein Mund dicht an meinem rechten Ohr.
 
-Dann: »ich habe die Hände frei! Die Idioten sollten
+Dann: »Ich habe die Hände frei! Die Idioten sollten
 <@pagebreak/>
-Unterricht im Fesseln nehmen! — schmecke Dir die
-Stricke lockern. Wir Laffen uns ruhig ins Wasser werfen,
-Sie tun’s sicher von irgend einer. Brücke aus —« —
+Unterricht im Fesseln nehmen! — Ich werde Dir die
+Stricke lockern. Wir lassen uns ruhig ins Wasser werfen.
+Sie tun’s sicher von irgend einer Brücke aus —« —
 
 Harst hatte das richtige vermutet. Das Auto hielt.
 Die Decken wurden weggerissen. Mann zerrte uns heraus,
@@ -889,38 +889,38 @@ Das Wasser spritzte auf. Ich hatte die Hände schon
 aus den Schlingen heraus, zog den Knebel aus dem Munde,
 versank, blieb ruhig, streifte die Fußfesseln ab.
 
-Ein paar Schwimmstöße. Oben war ich — die Brühe
-mir. Ein- Kahn lag da vertäut. Ich hielt mich fest.
+Ein paar Schwimmstöße. Oben war ich — die Brücke
+über mir. Ein Kahn lag da vertäut. Ich hielt mich fest.
 
-Da war auch Harald Von. Zwei Bündel zog er kindlich
-her, unsere Rucksäce, die die Leute uns nachgeworsen
-en. —
+Da war auch Harald schon. Zwei Bündel zog er hinter
+sich her, unsere Rucksäcke, die die Leute uns nachgeworfen
+hatten. —
 
 Der Morgen kam. Die Sonne trocknete unsere Kleider.
-XX
-XX
+Wir saßen an einem Feldrain, und um uns her lagen die
+Requisiten für das neue Kostüm.
 
-Harald war glänzender Laune. » »Mein Alter — das
-wird der größte Fang werden, den wir je gemacht haben,
-seh Stete an Becher!, Zehn Mann muß er mithilft
-= das wird eine große Sache! in!
+Harald war glänzender Laune. »Mein Alter — das
+wird der größte Fang werden, den wir je gemacht haben.
+Ich depeschiere an Bechert. Zehn Mann muß er mitbringen.
+Oh — das wird eine große Sache!«
 
 <h2>4. Kapitel.</h2>
 
-In der Schankstube des Wirtshauses - des Dorfes
-Sandburg saßen zwei einfach geleitete Herren und verzehrten
+In der Schankstube des Wirtshauses des Dorfes
+Sandburg saßen zwei einfach gekleidete Herren und verzehrten
 ihr Abendbrot. Sie waren einzeln gekommen, schienen
-ch nicht zu kennen. Hifenbar waren es Badegäste aus dem
-daher Heringsdorf.
+sich nicht zu kennen. Offenbar waren es Badegäste aus dem
+nahen Heringsdorf.
 
 Der Wirt brachte ihnen jetzt den Nachtisch, Butter und
-Käse, nahm am Tische des kleineren der beiden Plan und
+Käse, nahm am Tische des kleineren der beiden Platz und
 <@pagebreak/>
 begann mit ihm ein Gespräch. Da stand der andere auf und
 kam an denselben Tisch.
 
-»Sie gestatten — darf ich mich zu, Ihnen fegen? —
-Stabtjetretär Müller aus Stettin,« stellte er sich vor.
+»Sie gestatten — darf ich mich zu Ihnen setzen? —
+Stadtsekretär Müller aus Stettin,« stellte er sich vor.
 
 »Zahntechniker Schrock,« sagte der Kleinere. »Angenehm.
 Bitte —«
@@ -943,19 +943,19 @@ Sandburg soll’s ja spuken, Herr Wirt. Was ist eigentlich
 Wahres daran? Stimmt es, daß sich an der Mauer des
 Schloßparkes des Herrn von Reppen nachts beim Mondschein
 der Schatten des Generals von Reppen zeigt, der im
-dreißigjährigen Kriege oben im Schloß von seinem Beutel
+dreißigjährigen Kriege oben im Schloß von seinem Bruder
 ermordet wurde? — Zunächst bringen Sie uns aber mal
 eine Flasche Rotwein, Herr Wirt, — nein, gleich zwei, und
 drei Gläser. Der Gang hierher hat mich durstig gemacht.«
 
-Der Wirt holte Sag’ Gewünschte.
+Der Wirt holte das Gewünschte.
 
 Müller beugte sich über den Tisch.
 
-»Du, Becher! hat telephoniert,« flüsterte er. »Sie kommen
+»Du, Bechert hat telephoniert,« flüsterte er. »Sie kommen
 in Autos.«
 
-Ich, der Zahntechniker Schon, erwiderte:
+Ich, der Zahntechniker Schrock, erwiderte:
 
 »Die Zigeunerbande lagert hinter dem Wirtshaus auf
 der Wiese. Der Wirt erzählte es mir.«
@@ -963,63 +963,65 @@ der Wiese. Der Wirt erzählte es mir.«
 Da kehrte der Wirt zurück und stellte die Flaschen auf
 den Tisch.
 
-Nach dem ersten Glase und nachdem Wir uns jeder noch
+Nach dem ersten Glase und nachdem wir uns jeder noch
 eine Zigarre angesteckt hatten, begann der Wirt:
 
 <@pagebreak/>
-»Die Herren müssen mich- Dr auslachen.. Aber der
-Spur existiert wirklich.«
+»Die Herren müssen mich nicht auslachen. Aber der
+Spuk existiert wirklich.«
 
-»Daran zweifele ich nicht,« warf Bart ernsthaft ein.
+»Daran zweifele ich nicht,« warf Harst ernsthaft ein.
 
 Wir beide hatten ja bereit in Heringsdorf, wo wir
-Glücklich abgestiegen waren, von dem »Schatten an der
+tatsächlich abgestiegen waren, von dem »Schatten an der
 Wand«, wie der Spuk hier in der Gegend allgemein hieß,
 manches gehört. Hinzu kam noch der Brief des Majoratsherrn
 Holger von Reppen an Harst. Aus diesem Brief war
-manches Ungesagte herauszulesen gewesen. Der Schloß-sißer
+manches Ungesagte herauszulesen gewesen. Der Schloßbesitzer
 von Sandburg hatte offenbar sehr triftige Gründe,
-gilt fernzuhalten. Wenn diese »Spukgeschichte« hier für
+Harst fernzuhalten. Wenn diese »Spukgeschichte« hier für
 uns auch nur eine Nebenrolle spielte, so wollten wir sie
-ach ebenfalls mit erledigen, wo wir schon einmal hier
-Waren.
+doch ebenfalls mit erledigen, wo wir schon einmal hier
+waren.
 
 »Es gibt auch nichts daran zu zweifeln, Herr Müller,«
-Fuhr der Wirt fort. »Ich habe den Schatten vor einer Woche
+fuhr der Wirt fort. »Ich habe den Schatten vor einer Woche
 mit eigenen Augen gesehen. — Die Sache ist die, meine
-Herren. Der General Kais von Reppen, so heißt es in den
-alten Strömten, brachte aus dem Dreißigjährigen Kriege
-große Schätze mit. »Er war so ein richtiger Abenteurer gewesen
+Herren. Der General Karl von Reppen, so heißt es in den
+alten Chroniken, brachte aus dem Dreißigjährigen Kriege
+große Schätze mit. Er war so ein richtiger Abenteurer gewesen
 und wollte sich dann bei seinem Bruder hier auf
-Schloß Sandburg ausruhen. Erraten, Holger mit
-Vornamen wie der jetzige fettete, der er ist,
-[all nun den General der he wegen
+Schloß Sandburg ausruhen. Dieser Bruder, Holger mit
+Vornamen wie der jetzige Schloßherr, der Jungeselle ist,
+soll nun den General der Schätze wegen ermordet haben.
+Jedenfalls war der General eines Tages spurlos verschwunden.
+Sehr bald soll sich dann der Schatten an der Mauer
 des Schloßparks gezeigt haben, und zwar so deutlich, daß
 man in dem Schatten den General in seiner Tracht aus der
-Zeit Wallensteins genau twiedererfanntee — Nun kommt
-»das Grausige der Geschichte, meine Herren. Der General
-»hatte aus dem Kriege auch ein mwunberfchöned Weib mitgebracht,
-eine Italienerin soll’s gewesen fein. Auch die war
+Zeit Wallensteins genau wiedererkannte. — Nun kommt
+das Grausige der Geschichte, meine Herren. Der General
+hatte aus dem Kriege auch ein wunderschönes Weib mitgebracht,
+eine Italienerin soll’s gewesen sein. Auch die war
 verschwunden. Das Schattenbild des Generals an der
 Parkmauer — geben Sie acht! — trug nun in den vorgestreckten
 Händen den Kopf einer Frau mit lose herabhängendem
-Haar. Auch diesen. Kopf will man als den der Aufs:
+Haar. Auch diesen Kopf will man als den der Italienerin
 <@pagebreak/>
-Dienerin erkannt haben. — Jahrhunderte vergingen. Der
-Spur meldete sich nicht wieder, bis — bis er vor ach
+erkannt haben. — Jahrhunderte vergingen. Der
+Spuk meldete sich nicht wieder, bis — bis er vor acht
 Wochen etwa wieder auflebte — an derselben Stelle der
 Mauer wie damals nach dem Dreißigjährigen Kriege. Er
-zeigt ich nur in mondhellen Nächten, wenn der Mond die
+zeigt sich nur in mondhellen Nächten, wenn der Mond die
 Mauer bescheint. Der jetzige Schloßherr Holger von Reppen,
-ein Geizhals, dabei enorm reich, ist infolge des Wicher-auftauchend
+ein Geizhals, dabei enorm reich, ist infolge des Wiederauftauchens
 des Spuks schon ganz krank geworden. Wir
 hier im Dorfe hielten diese Gespenstermär aus den alten
-Strömten stets für eine Sage. Nun sind wir eines besseren
+Chroniken stets für eine Sage. Nun sind wir eines besseren
 belehrt worden. Wie ich schon erwähnte: ich habe den
-Spuk selbe: gesehen! Er zeigt sich an der Südseite des Bug
-&enberges, auf dem das Schloß liegt. Dort läuft ein Feldweg
-an durch Parkmauer entlang. Gegenüber liegt die neue
-Dorfschule. Wenn man ir1 Obstgarten unseres Lehrers am
+Spuk selber gesehen! Er zeigt sich an der Südseite des Buchenberges,
+auf dem das Schloß liegt. Dort läuft ein Feldweg
+an der Parkmauer entlang. Gegenüber liegt die neue
+Dorfschule. Wenn man im Obstgarten unseres Lehrers am
 Zaun steht, kann man den Schatten genau erkennen. Meist
 erscheint er genau um Mitternacht, bleibt eine Weile sichtbar
 und verschwindet wieder. — So, meine Herren, das
@@ -1029,75 +1031,75 @@ wäre alles.«
 Spuk denn so sehr auf, Herr Wirt?« fragte Harald, indem
 er die Gläser wieder füllte.
 
-»Dja — ganz unter uns! — Der Majoratsherr Ist hier
-sehr unbeliebt, an munkelt, er habe seinen jüngeren
+»Dja — ganz unter uns! — Der Majoratsherr ist hier
+sehr unbeliebt, man munkelt, er habe seinen jüngeren
 Bruder um die Erbschaft betrogen. Die Eltern der beiden
 Brüder hatten ein Testament errichtet und dem jüngeren
 Sohn, der ja das Gut und das Schloß nicht bekommen
-konnte, die berühmte Regnerische Münzensammlung Vollmacht.
+konnte, die berühmte Reppentsche Münzensammlung vermacht.
 Diese Sammlung, viele Millionen wert, ist nach
-liebem Tode der Eltern, die gleichzeitig am Typhus starben,
-nicht aufzufinden gelassen. Holger von Reppen soll sie bei
+dem Tode der Eltern, die gleichzeitig am Typhus starben,
+nicht aufzufinden gewesen. Holger von Reppen soll sie bei
 Seite geschafft haben — soll! Wenn es wahr ist, hat er
-seinen Bruder Orte tatsächlich betrogen. Hier im Dorfe
+seinen Bruder Otto tatsächlich betrogen. Hier im Dorfe
 geht nun das Gerücht um, daß der alte General sich nur
-dann als »Schatten an ver Wand« zeigt, wenn ein Reppen
-ein Zurecht an einem anderen des Geschlechts begangen
+dann als »Schatten an der Wand« zeigt, wenn ein Reppen
+ein Unrecht an einem anderen des Geschlechts begangen
 <@pagebreak/>
-Hat. Vielleicht — vielleicht ist der Magd als ein Ei
-XX
+hat. Vielleicht — vielleicht ist der Majoratsherr aus
+Gewissensbissen halb krank geworden.«
 
-»Der arge zögere x wohl.  Hegt ab jene Brühe um wo hm an
-einte Harst-Wällen,
+»Der angeblich betrogene Bruder ist wohl schon tot?«
+meinte Harst-Müller.
 
-Er soll vor fünf Jahren gestorben sein und zwei
-Puder hinterlassen haben. Die Brüder sind seit dem Tode
-per Eltern, das war 1910, nie mehr zusammengekommen.«
+»Ja. Er soll vor fünf Jahren gestorben sein und zwei
+Kinder hinterlassen haben. Die Brüder sind seit dem Tode
+der Eltern, das war 1910, nie mehr zusammengekommen.«
 
 Harald blies nachdenklich den Zigarrenrauch von sich.
 
 »Der Lehrer wohnt also der Parkmauer gegenüber,«
-te er dann. »Hat er nicht Bein? Eine Dame? Art
-Erde in Heringsdorf so etwas erzählt.«
+sagte er dann. »Hat er nicht Besuch? Eine Dame? Mir
+wurde in Heringsdorf so etwas erzählt.«
 
-»3a — eine Malerin aus Berlin. Die wohnt bei ihm
-schon drei Monate. Sie malt meist Heibebilber untere
-he. Ein rettet junges. Malochen ifl’d. Karg Naht
-By sie — Reich mit Oh. Karg — ein komischer Lorgnon!«
+»Ja — eine Malerin aus Berlin. Die wohnt bei ihm
+schon drei Monate. Sie malt meist Heidebilder und Seestücke.
+Ein nettes junges Mädchen ist’s. Kara Roth
+heißt sie — Roth mit th. Kara — ein komischer Vorname!«
 
-Harst blinzelte mich zu, Ich verstand: Karg — Karla,
-ernst-Etappe Schwester! — Ich verstand jetzt überhaupt
-die Geschwister wollten ihren Onkel durch he Spuk
-Herausgabe der Münzensammlung zwingen. Karla
-Gatte den Spuk inszeniert. Vor acht Wochen war er wieder
-gelebt, und Karla war seit drei Monaten hier! Das
-Lunte alles sehr gut. Nur — wie ließ sie den alten je
-ab erscheinen? Das war noch zu ergründen!
+Harst blinzelte mich zu. Ich verstand: Karg — Karla,
+Ernst-Edgars Schwester! — Ich verstand jetzt überhaupt
+alles: die Geschwister wollten ihren Onkel durch den Spuk
+zur Herausgabe der Münzensammlung zwingen. Karla
+hatte den Spuk inszeniert. Vor acht Wochen war er wieder
+aufgelebt, und Karla war seit drei Monaten hier! Das
+stimmte alles sehr gut. Nur — wie ließ sie den alten General
+erscheinen? Das war noch zu ergründen!
 
-Harst prostete uns zu. Dann meinte er; »Ich Schah be
+Harst prostete uns zu. Dann meinte er: »Ich sah da
 Zigeuner drüben auf der Wiese lagern, Herr Wirt.«
 
 »Ja — es sind harmlose Landstreicher. Sie stehlen
 ausnahmsweise nicht. Sie lagern dort schon zwei Tage
-geben abends Vorstellung. Da ist ein Weib dabei, eine
+und geben abends Vorstellung. Da ist ein Weib dabei, eine
 Tänzerin! Großartig! Sie müßten sich die mal ansehen!«
 
 Harald und ich bezahlten unsere Zeche. Wir wanderten
-Wiese zu. Weit war es nicht.
+der Wiese zu. Weit war es nicht.
 
-»Wie die Karla Reppen den Schatten wohl hervorruft«
-Tränke ich Harst. »Durch einen Projeltiondappe-it
-etwa
+»Wie die Karla Reppen den Schatten wohl hervorbringt?«
+fragte ich Harst. »Durch einen Projektionsapparat
+etwa?«
 
 »Nein, ausgeschlossen! Bedenke, daß die Linse eines
-sehen Apparates einen. hellen Lichtkreis gibt. ige Gitters
+solchen Apparates einen hellen Lichtkreis gibt. Dieser Lichtkreis
 <@pagebreak/>
 würde den Schwindel sofort verraten. Karla von
 Reppen macht es anders. Wir haben heute Mondlicht. Da
 hoffe ich Dir zeigen zu können, wie sie’s macht!«
 
 Wir hatten die Wiese erreicht. Da stand ein großer
-[Kreis von Dörflern um den Zigeunerwagen herum. Es
+Kreis von Dörflern um den Zigeunerwagen herum. Es
 war derselbe Wagen, den wir schon einmal gesehen hatten:
 in der Lehmgrube bei Lichterfelde, als Eva Wilcword in
 Schleier gehüllt am Lagerfeuer getanzt hatte,
@@ -1108,89 +1110,89 @@ brachen auf!
 Mit einem Male erkannte ich unter ihnen meinen
 »Ungar«, der jetzt ganz zigeunermäßig aussah, und im selben
 Moment flüsterte Harst mir zu: »Joseph Jenkel steht
-zwei » den Pferden — in Zigeunertracht! — Verschwin
+dort bei den Pferden — in Zigeunertracht! — Verschwinden
 wir!«
 
 Als wir den Garten des Wirtshauses durchschritten,
 schien Harald aus tiefem Sinnen zu erwachen.
 
-»Edle haben es auf die Münzensammlung abgesehen,«
+»Sie haben es auf die Münzensammlung abgesehen,«
 sagte er unvermittelt. »Eva mag irgendwie von dem Spuk
-gehört haben und auch von dem betrogenen Erben. an
+gehört haben und auch von dem betrogenen Erben. An
 alledem ist ja fraglos etwas Wahres. Vielleicht hat sie
-einen ihrer beginne nach Schloß Sandburg geschickt. Der
+einen ihrer Spione nach Schloß Sandburg geschickt. Der
 mag den Majoratsherrn nicht aus den Augen gelassen haben,
 auch nachts nicht. Das böse Gewissen, wachgerufen
 durch den »Schatten an der Wand« wird Holger von Reppen
 dorthin getrieben haben, wo er die Münzensammlung
 verborgen hat. Dieses Versteck muß ein Eisenbehälter sein,
-Art Leute mit dem Sauerstoffgebläse zu Leibe gehen
+dem Evas Leute mit dem Sauerstoffgebläse zu Leibe gehen
 wollen —«
 
-So entrollte er in wenigen Sähen ein vollständiges
+So entrollte er in wenigen Sätzen ein vollständiges
 Bild von Evas Plänen, stellte auch die einzig mögliche Verbindung
 zwischen dem Vorhaben der Geschwister von Reppen
 und dem Bunde »Das Wort« her.
 
 »Du bleibst jetzt in der Wirtsstube, fuhr er fort. »Ich
 folge den Zigeunern von weitem. Sie werden kaum sehr
-weit wandern — nur bis dorthin, wo Joseph Seglers
+weit wandern — nur bis dorthin, wo Joseph Jenkels
 <@pagebreak/>
-Autos halten — irgendwo an einer einsamen Miete,
-genügt, wenn ich allein hinter Ihnen bleibe, »
-wollte Becher! sich hier im Wirtishaus einst
-ich bis dahin nicht zurück fein, so bestelle ihn,
-Beute für diese Nacht bereithält. Sie sollen
-Südecke des Gartens des Lehrers verbergen.
-Seen ein Versteck geben. Becher! mag bei ich
+Autos halten — irgendwo an einer einsamen Stelle. Es
+genügt, wenn ich allein hinter Ihnen bleibe. Um elf Uhr
+wollte Bechert sich hier im Wirtshaus einfinden. Sollte
+ich bis dahin nicht zurück sein, so bestelle ihm, daß er seine
+Leute für diese Nacht bereithält. Sie sollen sich an der
+Südecke des Gartens des Lehrers verbergen. Es wird dort
+schon ein Versteck geben. Bechert mag bei ihnen bleiben.«
 
-Er drücke mir die Hand. »Wiedersehen,
+Er drücke mir die Hand. »Wiedersehen, mein Alter!«
 
 »Sei vorsichtig, Harald,« warnte ich.
 
-»Reine Sorge! Eva hält uns für tief
-raubt, zwei Kriminalbeamte ersäuft zu Zäh
+»Keine Sorge! Eva hält uns für tot, und Jenkel
+glaubt, zwei Kriminalbeamte ersäuft zu haben.«
 
 Dann schritt er wieder der Wiese zu.
 
-Es war jetzt Saft zehn hx geworden. 1. hier
-Tube saßen ein paar Bauern und ein einzelner As
-eben sich einen großen Hausiererkasten stehen
+Es war jetzt fast zehn Uhr geworden. In der Wirtsstube
+saßen ein paar Bauern und ein einzelner Mann, der
+neben sich einen großen Hausiererkasten stehen hatte.
 
-Ich Seite mich abseits. Der an mit
-putzte umständlich seine Brille. Ohne«
-war es — Haus Becher!! — Er klappte seinen  Kasten auf
-und nahm ein paar Bücher heraus. Dann lau @ zu mir,
-XX
-XX
+Ich setzte mich abseits. Der Mann mit dem Hausiererkasten
+putzte umständlich seine Brille. Ohne die Brille
+war es — Haus Bechert! — Er klappte seinen  Kasten auf
+und nahm ein paar Bücher heraus. Dann kam er zu mir,
+pries mir die Schriften an, flüsterte zwischenein: »Wo ist
+Harst?«
 
-Ich bat ihn Plan zu Mr
-er erst ansehen.« Und dann tat Ich, als
-Reise auf etwas in dem einen Buche ’aufnarfsam, freier
-dabei Harsts Auftrag aus.
+Ich bat ihn Platz zu nehmen. »Ich muß mir die Bücher
+erst ansehen.« Und dann tat ich, als machte ich ihn
+leise auf etwas in dem einen Buche aufmerksam, richtete
+ihm dabei Harsts Auftrag aus.
 
-Ich bezahlte ein Buch, und er ging an feinen zu Eva
-Bald darauf verließ er mit seinem Kasten die
+Ich bezahlte ein Buch, und er ging an seinen Tisch zurück.
+Bald darauf verließ er mit seinem Kasten die Wirtsstube.
 
-Ich trank ein Glas Bier. Ich fühlte, wie die Ertrag,
-die Erwartung sich steigender. Harald nahm fraglos
-Rad Eva in dieser Nacht ins Schloß einher@in wollte.
-Zigeuner waren abgezogen, damit der Wo nicht
-sie fiele, den Einbruch ausgeführt zu haben.
+Ich trank ein Glas Bier. Ich fühlte, wie die Erregung,
+die Erwartung sich steigerten. Harald nahm fraglos
+an, daß Eva in dieser Nacht ins Schloß einbrechen wollte.
+Die Zigeuner waren abgezogen, damit der Verdacht nicht
+auf sie fiele, den Einbruch ausgeführt zu haben.
 
-Die Bauern entfernten sich zu Der Wirt wollte das
-ab schließen. Um ihm etwas zu verdienen zz geben,
-bellte ich wieder Rotwein. Wir waren bei her zweiten
+Die Bauern entfernten sich auch. Der Wirt wollte das
+Lokal schließen. Um ihm etwas zu verdienen zu geben,
+bestellte ich wieder Rotwein. Wir waren bei der zweiten
 <@pagebreak/>
-Flasche, und er hatte mir noch mancherlei über den Schloßherr
+Flasche, und er hatte mir noch mancherlei über den Schloßherrn
 erzählt, als Harald erschien.
 
 Der Wirt war einer von den pfiffigen Pommern. Er
 lächelte und meinte: »Die Herren können mir ruhig die
-Wahrheit sagen. Sie sind Polizeibeamte. Ich bin ver-fhtwiegen.«
+Wahrheit sagen. Sie sind Polizeibeamte. Ich bin verschwiegen.«
 
-Harald gab es zu. »Begleiten Sie uns zum Lehrer.
-Garten,« bat er. »Aber führen Sie uns über die Felder.«
+Harald gab es zu. »Begleiten Sie uns zum Lehrergarten,«
+bat er. »Aber führen Sie uns über die Felder.«
 
 »Gern, meine Herren. Meiner sind Sie sicher. Ich
 bin hier gleichzeitig Gemeindevorsteher.«
@@ -1198,106 +1200,105 @@ bin hier gleichzeitig Gemeindevorsteher.«
 Es war dreiviertel zwölf, als wir aufbrachen. Harald
 hatte mir nur über den Verbleib der Zigeuner ganz
 kurz erklärt: »Sie lagern in einer Schlucht in der Heide.
-Eva ist bei ihnen. Die beiden Autos stehen in einem je
-Frisch am Waldrande fünfhundert Meter weiter. Sie hatten
+Eva ist bei ihnen. Die beiden Autos stehen in einem Gebüsch
+am Waldrande fünfhundert Meter weiter. Sie hatten
 Wachen ausgestellt. Die Sauerstoffgebläse halten sie
 bereit.«
 
 <h2>5. Kapitel.</h2>
 
-Das Dorf zieht sich an einer Kreischaussce hin. Es ist
-In ausgedehnt, und das Wirtshaus liegt etwa in der
-Bitte. — Wir gingen zwischen einigen Scheunen hindurch
+Das Dorf zieht sich an einer Kreischaussee hin. Es ist
+sehr ausgedehnt, und das Wirtshaus liegt etwa in der
+Mitte. — Wir gingen zwischen einigen Scheunen hindurch
 und an einem mit Gestrüpp bewachsenen Grabenrand entlang.
 Der Wirt erwähnte noch, daß sich jetzt niemand mehr
 dort an die Parkmauer nachts heranwage. Der Weg dort
 würde nach Dunkelwerden ängstlich gemieden.
 
-Nach zehn Minuten lag das Lehrergehöst vor uns.
+Nach zehn Minuten lag das Lehrergehöft vor uns.
 Das rote Ziegeldach ragte über die Obstbäume hinweg. Der
 Garten war sehr groß. Als wir die Südecke des Zaunes
-erreicht hatten, richtete sich Becher! auf. Er und feine Leute
-hatten ich in einem Strohschober verborgen gehabt.
+erreicht hatten, richtete sich Bechert auf. Er und seine Leute
+hatten sich in einem Strohschober verborgen gehabt.
 
-»n Abend, Harst!« Sie schüttelten sich Die Hand. »Wie
-steht 3 denn nun?« en
+»’n Abend, Harst!« Sie schüttelten sich die Hand. »Wie
+steht’s denn nun?«
 
-Harald deutete auf eine Wolkenwand. die von Westen
+Harald deutete auf eine Wolkenwand, die von Westen
 <@pagebreak/>
-heraufzog. »Nach einer halben -Stunde regnet es. Eva
-wird in dieser Nacht losschlugen. Die Zigeuner werden den
-Regen abwarten. Dann gehört wie Dunkelheit sie. Postierten
-Sie Ihre Leute dicht um das Schloß heruſn. - _ Haben 3
-Sie sich bei dem Majoratöheren angemeldet?®  -
+heraufzog. »Nach einer halben Stunde regnet es. Eva
+wird in dieser Nacht losschlagen. Die Zigeuner werden den
+Regen abwarten. Dann schützt die Dunkelheit sie. Postierten
+Sie Ihre Leute dicht um das Schloß herum. — Haben
+Sie sich bei dem Majoratsherrn angemeldet?«
 
-»Ja — wie Sie es wünschten.« A
+»Ja — wie Sie es wünschten.«
 
 »Und die Hunde sind eingesperrt?«
 
 »Ich bat Reppen darum.«
 
-»Gut —! dann also dicht ans Schloß heran, Bogen.
-Vettern Sie irgendwo über die Mauer.«;
+»Gut — dann also dicht ans Schloß heran, Bechert.
+Klettern Sie irgendwo über die Mauer.«
 
-»Habe mir die Stelle Schon ausgesucht.….— Und Sie?«
+»Habe mir die Stelle schon ausgesucht. — Und Sie?«
 
 »Wir folgen sehr bald. — Wiedersehen!«
 
-Becher! mit Seinen zehn Beamten verschwand,
+Bechert mit seinen zehn Beamten verschwand,
 
-»Wir danken Ihnen’ nun,« Sagte wo zu dem Wirt.
+»Wir danken Ihnen nun,« sagte Harst zu dem Wirt.
 
-»Hm — darf ich nicht mit mach Ich bin hier doch
-ie Derben Da Däne Lire: Sein. Ib habe
-Aktien Namen Soeben gehört, Herr —
+»Hm — darf ich nicht mit machen? Ich bin hier doch
+Polizeiperson. Es würde mir eine Ehre sein. Ich habe
+Ihren Namen soeben gehört, Herr Harst —«
 
-»Gut. — Gehen Sie voran. »Aber leise. Oh möchte
-Spuk Sehen.«
+»Gut. — Gehen Sie voran. Aber leise. Ich möchte
+den Spuk sehen.«
 
-Der Wirt Stieg Aber den: Conte M den E
-Arten. n
+Der Wirt stieg über den Staketenzaun in den Obstgarten.
 
-»Leiser!« mahnte Hoffst,.
+»Leiser!« mahnte Harst.
 
-Wir schlichen, einer hinter dem A von. Baum zu
-Haupt. Dann Standen da vor uns Haſelnußſträucher mu
-er herabhängenden Zweigen.;
+Wir schlichen, einer hinter dem andern, von Baum zu
+Baum. Dann standen da vor uns Haselnußsträucher mit
+tief herabhängenden Zweigen.
 
 »Dort — geradeaus!« flüsterte der Wirt.
 
-Wir sahen noch nichts. Wir Schoben uns. unter den
+Wir sahen noch nichts. Wir schoben uns unter den
 Aesten hindurch, richteten uns halb auf.
 
-Ah — Da war die hohe, gekalkte Ziegelmauer jenseits
+Ah — da war die hohe, gekalkte Ziegelmauer jenseits
 des Feldweges.
 
 Und da — sechs Meter vor uns! — da war der dunkle
 Schatten an der Mauer — der Spuk!
 
 Ich gebe ehrlich zu: es wirkte unheimlich, selbst für
-«aufgeklärte Gemüter! Das Unheimliche war es Frauen-kopf
-in den Händen des Generals und der Sofort aufblitzende
+aufgeklärte Gemüter! Das Unheimliche war der Frauenkopf
+in den Händen des Generals und der sofort aufblitzende
 <@pagebreak/>
-Gedanke: wie kann dieser Schatten mit seinen scharfen Umritten
-auf der Mauer entflohen?! —
+Gedanke: wie kann dieser Schatten mit seinen scharfen Umrissen
+auf der Mauer entstehen?! —
 
 Der Wirt war zurückgeblieben.
 
-Harald brachte feinen Mund dicht an mein Ohr: »Es
+Harald brachte seinen Mund dicht an mein Ohr: »Es ist
 so, wie ich dachte, genau so! Sieh Dir die riesige Kastanie
 jenseits der Mauer —«
 
-Er schschtwieg.
+Er schwieg.
 
-Da war ein kurzer geben Aufschrei erklungen.
+Da war ein kurzer gellender Aufschrei erklungen.
 
 Dann ein Prasseln, Rauschen von Zweigen.
 
 Ich blickte empor.
 
-Dröhnen aus den Aesten der Kastanie, die weit über
-die Mauer binwegragten, fiel — ein Weib herab, fiel in
-eben dicken staubigen Sand des Feldweges.
+Drüben aus den Aesten der Kastanie, die weit über
+die Mauer hinwegragten, fiel — ein Weib herab, fiel in
+den dicken staubigen Sand des Feldweges.
 
 Der Staub wirbelte hoch in schweren Wolken, wehte
 zur Seite.
@@ -1310,11 +1311,11 @@ Sie lag auf dem Gesicht, regte sich nicht.
 
 Ja — da lugte ein Gesicht über die Mauer — ein Zigeuner.
 Schwang sich hoch, als er sich sicher wähnte, war
-mit einem Sah unten, stand neben Karla von Reppen.
+mit einem Satz unten, stand neben Karla von Reppen.
 
-Er bückte sich), schien zu horchen, ob sie noch atmete.
+Er bückte sich, schien zu horchen, ob sie noch atmete.
 Dann trat er an die Mauer heran, reckte den Arm, stand gerade
-vor Bein Schatten.
+vor dem Schatten.
 
 Und — riß den Schatten herunter, knüllte ihn zusammen.
 
@@ -1323,161 +1324,167 @@ riesige Silhouette gewesen! Und Karla hatte sie
 aus der Krone der Kastanie an der Mauer an Schnüren hinabgelassen.
 Unten war die Silhouette fraglos irgendwie
 beschwert gewesen, damit sie glatt hinge. — Verblüffend
-einfach! »Bin genialer Gedanke.
+einfach! Ein genialer Gedanke.
 
-Der Zigetiner warf jetzt den zerknüllten Stoff über die
-Mauer antrat, nahm einen Anlauf, sprang an der Mauer
-empor und Wollte offenbar mit den Händen die Mauerkrone
-baden Das erste Mal mißlang es ihm. Dann
+Der Zigeuner warf jetzt den zerknüllten Stoff über die
+Mauer zurück, nahm einen Anlauf, sprang an der Mauer
+empor und wollte offenbar mit den Händen die Mauerkrone
+packen. Das erste Mal mißlang es ihm. Dann
 <@pagebreak/>
-XX
+glückte es, und mit affenartiger Gewandtheit zog er sich nun
+vollends empor und verschwand wieder im Schloßpark.
 
 »Er war allein,« sagte Harald leise. Er sprach die
-Orte so langsam, als läge zwischen jedem eine Unmenge
+Worte so langsam, als läge zwischen jedem eine Unmenge
 unausgesprochener Gedanken.
 
-»Ran Schwang er sich über den Zaun, hob das Mäd-XXX
+Dann schwang er sich über den Zaun, hob das Mädchen
+und ihr Filzhütchen auf und reichte sie mir über den
+Zaun zu. Ich trug sie tiefer in den Obstgarten hinein an
+eine mondhelle Stelle.
 
-Der Wirt und Gemeindenporfteher Hatte ebenfalls alles
-beobachtet. Er war noch ganz starr vor
+Der Wirt und Gemeindevorsteher hatte ebenfalls alles
+beobachtet. Er war noch ganz starr vor Schreck.
 
 Wir untersuchten Karla von Reppen. Eine Kugel war
-in die linke Schläfe gegangen. Sie war tot. Selbst
-er der Staubschicht, die ihr Gesicht bekehrte, erkannte
-n, daß sie nicht mehr ganz jung gewesen.
+ihr in die linke Schläfe gegangen. Sie war tot. Selbst
+unter der Staubschicht, die ihr Gesicht bedeckte, erkannte
+man, daß sie nicht mehr ganz jung gewesen.
 
 »Herr Gemeindevorsteher,« sagte Harst sehr ernst, »Sie
-gen die Leiche jetzt lud Lehrerhaus. Sie erklären dem
-barer, Sie wären zufällig des Weges ’bahergelommen und
+tragen die Leiche jetzt ins Lehrerhaus. Sie erklären dem
+Lehrer, Sie wären zufällig des Weges dahergekommen und
 hätten die Tote so gefunden. Mehr wissen Sie nicht. Verstanden?!
 Kein Wort von uns beiden oder der Kriminalpolizei.
 Im Vertrauen: Ihr Dorf wird berühmt werden!
-Zier wird man die gefährlichste Verbrecherbande festnehmen,
-die Deutschland seit vielen Jahrzehnten in einer soll
-en Großzügigkeit nicht gekannt hat!«
+Hier wird man die gefährlichste Verbrecherbande festnehmen,
+die Deutschland seit vielen Jahrzehnten in einer solchen
+Großzügigkeit nicht gekannt hat!«
 
 Er blickte durch die Obstbaumzweige zum Himmel
+empor.
 
 Die Wolkenwand stand jetzt fast über uns.
 
 »Vorwärts!« — Das galt mir.
 
 Dann half er mir über die Mauer. Ich zog ihn von
-eben empor. Ein indianischer Fährtensucher hätte sich be
-beschämt gefühlt, wenn er beobachtet hätte, wie wir jetzt der@
+oben empor. Ein indianischer Fährtensucher hätte sich
+beschämt gefühlt, wenn er beobachtet hätte, wie wir jetzt bergan
 schlichen — dem Schlosse zu!
 
 Noch schien der Mond. Aber jeden Augenblick konnte
-hinter dem Getwoölk verschwinden.
+er hinter dem Gewölk verschwinden.
 
 Ein hohler Regenwind, der Vorbote der fallenden
-Zapfen, sauste durch die Bäume des Parkes. Wir hatten
+Tropfen, sauste durch die Bäume des Parkes. Wir hatten
 <@pagebreak/>
-nun die flache weite Bergkuppe erreicht. vor uns, umso
-eben von Nofenfläden und Tarusheden nach englischer Art,
-sag der mächtige uralte düstere Bau. Der Mond verschwand
+nun die flache weite Bergkuppe erreicht. Vor uns, umgeben
+von Rasenflächen und Taxushecken nach englischer Art,
+lag der mächtige uralte düstere Bau. Der Mond verschwand
 jetzt — ganz allmählich. Ein seltsamer Anblick, wie das
 Nachtgestirn, je mehr es verhüllt wurde, langsam die Erde
 in Dunkelheit tauchte, wie das Schloß uns ferner und ferner
-zu rücken schien, weil seine Umrisse und Fensterreihen Mehr
+zu rücken schien, weil seine Umrisse und Fensterreihen mehr
 und mehr an Klarheit verloren.
 
 Nun war das Mondlicht völlig abgesperrt.
 
-Finsternis bete die Erde. Der Regenwind pfiff um
-die Turmzinnen. Die Parklbäume ächzten. Wie Brandungsgeräusch
+Finsternis deckte die Erde. Der Regenwind pfiff um
+die Turmzinnen. Die Parkbäume ächzten. Wie Brandungsgeräusch
 schwoll das Rauschen des Blättermeeres an.
 
 Wir standen dicht vor einer Fontäne. Wir mußten
-jetzt Becher! oder einen seiner Leute finden.
+jetzt Bechert oder einen seiner Leute finden.
 
 Da — wie aus dem Boden gewachsen eine Gestalt neben
-uns. Die dunkle Hebe alt Hintergrund schütte uns vor
-dem Erkanmtwerden.
+uns. Die dunkle Hecke als Hintergrund schützte uns vor
+dem Erkanntwerden.
 
 »Das Wort!« flüsterte die Gestalt.
 
-»Das Wort!« flüsterte Harald Hund.
+»Das Wort!« flüsterte Harald zurück.
 
-Der Stimme nach, auch der kaum alt dunkleren leck
+Der Stimme nach, auch der kaum als dunklerer Fleck
 wahrnehmbaren Figur nach war es Joseph Jenkel.
 
-»Lauft und teilt den andern mit, laß nichts unternommen
-»werden soll,« feuchte Jenkel. »Soeben Meldung von
+»Lauft und teilt den andern mit, daß nichts unternommen
+werden soll,« keuchte Jenkel. »Soeben Meldung von
 der Wache auf dem Wege nach Heringsdorf, daß elf Greifer
-(Polizeibeamte) nach Sandburg kamen. Rast! Wer
-redet Ihr angehalten, schießt Ihr!«
+(Polizeibeamte) nach Sandburg kamen. Rasch! Werdet
+Ihr angehalten, schießt Ihr!«
 
-Harst sprang zu, hatte Seglers Hals umkrallt.
+Harst sprang zu, hatte Jenkels Hals umkrallt.
 
-2» — mit dem Pistolenkolben. Jenkel
-zunickte in die Knie. Im Nu war er geknebelt und gefesselt.
-Wir legten ihn in das Bassin der Fontäne. Es war wasser-leex
+Ich schlug zu — mit dem Pistolenkolben. Jenkel
+knickte in die Knie. Im Nu war er geknebelt und gefesselt.
+Wir legten ihn in das Bassin der Fontäne. Es war wasserleer
 und sehr tief. —
 
 Wir fanden einen von Becherts Leuten.
 
-»Dort Sinkt herum, Herr Harst,« flüsterte er. »so bin
-auf dieser Seite allein. Ein Diener hat ge Kerle in den
+»Dort links herum, Herr Harst,« flüsterte er. »Ich bin
+auf dieser Seite allein. Ein Diener hat sechs Kerle in den
 Keller des Ostflügels eingelassen.«
 
 <@pagebreak/>
-Ein Diner! — Also hatte Harald 3 gehabt: Eva
-hatte einen Verbündeten hier! 9» er N -
+Ein Diener! — Also hatte Harald recht gehabt: Eva
+hatte einen Verbündeten hier!
 
-Wir huschten weiter. Der Ostflügel schien her älteste
-il des Schlosses zu sein.
+Wir huschten weiter. Der Ostflügel schien der älteste
+Teil des Schlosses zu sein.
 
-Da War eine überdachte Kellertreppe. Da war bei
-weite Siriminalbeamte — neben einem gefesselt am hohen
-Liegenden Braune, der hier offenbar Posten gestanden hatte.
+Da war eine überdachte Kellertreppe. Da war der
+zweite Kriminalbeamte — neben einem gefesselt am Boden
+liegenden Manne, der hier offenbar Posten gestanden hatte.
 
-»Im Keller geradeaus, dann rechts,« gab ver Beamte
+»Im Keller geradeaus, dann rechts,« gab der Beamte
 Bescheid. »Die Schufte fühlen sich ganz sicher.«
 
-Wir kamen gerade noch zur rechten Zeit. in einem
+Wir kamen gerade noch zur rechten Zeit. In einem
 Hofraum, angefüllt mit leeren Fässern, stand ein großer
-eiserner Kasten in der Bitte, eine sogenannte Kriegskasse,
+eiserner Kasten in der Mitte, eine sogenannte Kriegskasse,
 Das Sauerstoffgebläse fauchte Schmelzglut auf das Eisen.
-Das Schloß des Kastens gab na. Der Deck flog hoch.
-übrige Hände hoben drei schwarze Holzkasten betone.
+Das Schloß des Kastens gab nach. Der Deckel flog hoch.
+Gierige Hände hoben drei schwarze Holzkästen heraus.
 
 Dann ein leiser Befehl Becherts.
 
-Saiernenfchein blickte auf. Dienstpistolen hielten die
+Laternenschein blitzte auf. Dienstpistolen hielten die
 Ueberraschten in Schach. Handschellen schnappten zu.
-waren fünf Zigeuner und der Diener. —
+Es waren fünf Zigeuner und der Diener. —
 
-Die Münzenfanmlung war gefunden. Gefunden war
-ch Karla von Reppens Mörder, einer der fünf Zigeuner.
-Du raucht der er sie erschossen hatte, trug er mach
+Die Münzensammlung war gefunden. Gefunden war
+auch Karla von Reppens Mörder, einer der fünf Zigeuner.
+Die Luftpistole, mit der er sie erschossen hatte, trug er noch
+bei sich.
 
-Becher!, wir und acht Beamte eilten durch Finsternis
-gegen sofort in die Heide.
+Bechert, wir und acht Beamte eilten durch Finsternis
+und Regen sofort in die Heide.
 
 Wir trafen den Rest der Zigeuner noch an: sechs Leute,
-Weiber darunter, und vier Kinder.
+drei Weiber darunter, und vier Kinder.
 
-Aber eins der am Waldrande versteckt gewesenen Anstellte.
+Aber eins der am Waldrande versteckt gewesenen Autos fehlte.
 Mit diesem Auto war »das Wort« entflohen. —
 
 Telephon und Telegraph spielten. Eva konnte noch
-weit gekommen sein. Als Wege wurden gesperrt.
+nicht weit gekommen sein. Alle Wege wurden gesperrt.
 
 Am Morgen fand man das Auto herrenlos dicht bei
-Heringsdorf im Walde. Eva war entspricht.
+Heringsdorf im Walde. Eva war entwischt.
 
-Und — morgens fand man »Bad Treulos«, den Male
-von Sandburg, in seinem Herrenzimzuex erschossen
+Und — morgens fand man »das Scheusal«, den Majoratsherrn
+von Sandburg, in seinem Herrenzimmer erschossen
 <@pagebreak/>
-auf. Er hatte den Tod der Schande, sich als Erbschasts-Betrüger
+auf. Er hatte den Tod der Schande, sich als Erbschaftsbetrüger
 entlarvt zu sehen, vorgezogen.
 
-Einer: der verhafteten Zigeuner, der einzige, verriet ab
-Tales, was er über die Organisation des Verbrecherbundes
-wußte. tun Berlin und in anderen Städten wurden noch
-Commis Personen verhaftet. Eva Wilcword hatte jetzt fei-Rückhalt
-mehr an irgend welchen Verbündeten. Sie
+Einer der verhafteten Zigeuner, der einzige, verriet alles,
+was er über die Organisation des Verbrecherbundes
+wußte. In Berlin und in anderen Städten wurden noch
+dreißig Personen verhaftet. Eva Wilcword hatte jetzt keinen
+Rückhalt mehr an irgend welchen Verbündeten. Sie
 stand allein da.
 
 Und doch —!
@@ -1490,16 +1497,16 @@ wurde, wird der Leser im »rätselhaften Klub« finden.
 <h2>1. Kapitel.</h2>
 
 Wir erfuhren Holger von Reppens. Tod, als wir mit
-Becher! im Dorfwirtshaus beim Frühstück saßen.
+Bechert im Dorfwirtshaus beim Frühstück saßen.
 
 Um zehn Uhr vormittags waren wir oben im Schloß.
 Der Oberinspektor Reppens, ein älterer Herr, teilte uns,
 mit, daß Sandburg mit seinen drei Vorwerken nunmehr an
 Ernst-Edgar von Reppen gefallen sei. Er würde den neuen
-Majoratsbesißer sofort telegraphisch benachrichtigen und
+Majoratsbesitzer sofort telegraphisch benachrichtigen und
 ihm auch den Tod seiner einzigen Schwester schonend mitteilen.
 
-Harald erwiderte darauf: »Ueberlassen Sie die Ab-fassung
+Harald erwiderte darauf: »Ueberlassen Sie die Abfassung
 dieser Depesche bitte mir. Ich habe Herrn von
 Reppen noch anderes zu melden.«
 
@@ -1519,7 +1526,7 @@ Treffe abends 8 Uhr Swinemünde ein. Bitte Auto
 zur Bahn und Harst. — Reppen.
 
 Mit Holger von Reppens Auto fuhren wie um flehen
-Uhr von Sandburg ab. Becher! war bereits nach Berlin
+Uhr von Sandburg ab. Bechert war bereits nach Berlin
 zurückgekehrt. Um drei Viertel acht hielten wir vor dem
 Hauptbahnhof des großen Seebades.
 
@@ -1624,7 +1631,7 @@ Er log. Er machte Redensarten. Nr
 
 »Steigen wir ein,« sagte Harald.
 
-Reppen hatte jetzt offenbar fein inneres Gleichgewicht
+Reppen hatte jetzt offenbar fein Inneres Gleichgewicht
 jeder gewonnen.
 
 Das Auto glitt die Chaussee nach Heringdborf entlang
@@ -1694,7 +1701,7 @@ Ah so!« — Er hatte weiter kein Interesse dafür.
 Harst blieb unerbittlich. »Wenn Sie den angeblichen
 Portier nicht kannten, Herr von Reppen, so müssen Sie doch
 aus dem, was er sprach, besondere Schlüsse gezogen haben.
-Sehen Sie, ich bin schwer zu täuschen. Mein selbstgewähl-ter
+Sehen Sie, ich bin schwer zu täuschen. Mein selbstgewählter
 Beruf schärft Augen und Ohren.«
 
 Ernst-Edgar wurde rot.
@@ -1822,7 +1829,7 @@ Man soll ihn nicht unterschäßenl«
 Dann bat Reppen uns, ihn zu begleiten.
 
 Mr speisten zu acht im großen Speisesaal. Da hingen
-an den Wänden die Oelaemälde derer von Reppen.
+an den Wänden die Oelgemälde derer von Reppen.
 
 <@pagebreak/>
 Als die Tafel um un Uhr von Reppen aufgehoben
@@ -1934,7 +1941,7 @@ Wird es Zeit gelingen, neuen Anhang zu finden.«
 
 - Da kam Knuth und meldete, die Räder Ständen bereit.
 Es gibt Zustände, in denen man wie im Traum handelt,
-Zustände einer so tiefen geistigen und körperlichen Abge-panntheit,
+Zustände einer so tiefen geistigen und körperlichen Abgespanntheit,
 daß alles eigene‘Tun wie im Traum dahinglet-
 1, daß wir wie ausgezogene Automaten die Bewegungen
 nd Worte herunterleiern, die der Versertlger des Autoräder
@@ -1972,14 +1979,14 @@ Weg war er. —
 Die Bahnhofstraße in Heringsdorf läuft völlig eben.
 Ich stieg wieder auf. Von Harst war nichts mehr zu sehen.
 
-Die Badesgison hatte hier noch nicht richtig. begonnen.
+Die Badesaison hatte hier noch nicht richtig. begonnen.
 Die Straße war leer. Dann der Bahnhof, eingebettet
-zwischen bewaldeten Hügeln. Im Wartesaal nur zwei Ho-telportiers,
+zwischen bewaldeten Hügeln. Im Wartesaal nur zwei Hotelportiers,
 die sich an einem Schnaps labten. — Wo war
 Harald?!
 
 Ich fragte den Bahnhofswirt, ob ein schlanker Herr
-zwei Tassen Bohnenkafsee, extra stark, befreit habe. —
+zwei Tassen Bohnenkaffee, extra stark, befreit habe. —
 Nein — kein Herr sei da gewesen.
 
 »Bitte also zwei Tassen. Ich werde gleich bezahlen.
@@ -2000,7 +2007,7 @@ dieses Reisens war wie ein Faden, an dem ich mich nun
 gleichkam weitertaftete. Ich Hatte die Radlaterne abgenommen
 und beleuchtete den schmalen Radlerweg, schritt
 langsam Liede dem Bahnhof zu. Kurz vor dem Bahn
-Hof bog eine gepflasterte Straße nach rechts in den Buchen-wald
+Hof bog eine gepflasterte Straße nach rechts in den Buchenwald
 an. Sie war mir von einigen Villen flankiert und
 verlor sich bald als tief ausgefahrener Waldweg zwischen
 den alten Bäumen.
@@ -2188,7 +2195,7 @@ Wer?!« — Meine Frage war überflüssig gewesen.
 »Zähle!« erwiderte Harald.
 
 Da kamen sie schon auf dem Hauptwege entlang, einer
-hinter dem andern, tieferen Männer, jeder eine tief herab-reichende
+hinter dem andern, tieferen Männer, jeder eine tief herabreichende
 Seidenmaske wo: dem Gesicht.
 
 Dreizehn Dinner! Gerade dreizehn!
@@ -2372,7 +2379,7 @@ packte mich auch schon die Angst um seine Sicherheit.
 Mir fiel ein, daß er heute schon einmal hatte befestigt werden
 sollen. Die Angst trieb mich zu einem Entschluß. Ich
 doch mich an a Eisendraht ein Stück empor, bis mein Fuß
-auf einem der Haken des Blihableiters Halt fand. Ich
+auf einem der Haken des Blitzableiters Halt fand. Ich
 gab mir die größte Mühe, jedes Geräusch zu vermeiden.
 kam höher und höher.
 
@@ -2439,7 +2446,7 @@ Erden. — Schmelter und Glatten, wollt Uhr gestehen?«
 den Kopf.
 
 <@pagebreak/>
-»«Ihr kennt die Beweise, die der Klub gegen Euch zu-sammengetragen
+»«Ihr kennt die Beweise, die der Klub gegen Euch zusammengetragen
 hat!« fuhr die Tochter der Generalin erregt
 fort. »Ihr habt Zeit genug gehabt, Euch zu überlegen,
 ob Leugnen hier noch einen« Zweck hat! Hofft hier
@@ -2451,7 +2458,7 @@ sie freigesprochen hatte! In Wahrheit ist sie von uns abgeurteilt
 worden. Sie ist — tot! Nummer eins hat das
 Urteil vollstreckt]« —
 
-sich besann mich, sowohl über den Fall he ja Che-vallerie
+sich besann mich, sowohl über den Fall he ja Chevallerie
 als auch über den Giftmordprozeß Zurannte etwas
 in den By, gelesen zu haben. Wir hatten damals
 gab in Indien uns mit Doktor Greebrac beschäftigt, jenem
@@ -2465,9 +2472,9 @@ aufzublicken.
 Die Tochter der Generalin wartete ein paar Minuten.
 Dann sagte sie — und ihre Stimme klang hart und erbarmungslos:
 
-»ich beantrage a diese beiden Mörder die Todes-firafe.
+»ich beantrage a diese beiden Mörder die Todesstrafe.
 Nicht ohne Grund fest dieser Turm von uns für
-biete Gerichtäfigung auserwählt worden. Es ist ein Wasser-turm.
+biete Gerichtäfigung auserwählt worden. Es ist ein Wasserturm.
 Unten im Erdgeschoß steht ein Elektromotor. Wir
 haben hier also die Möglichkeit, eine Hinrichtung durch
 elektrische Hochspannung zu vollziehen. Das Grundstück ist
@@ -2487,7 +2494,7 @@ nach oben!«
 
 Nun war es für uns höchste Zeit, uns zu verbergen.
 Harald zog mich mit sich fort. Seine Taschenlampe blitzte
-auf, erlosch wieder. Da standen zwei riesige eiserne Wassêr-behälter.
+auf, erlosch wieder. Da standen zwei riesige eiserne Wasserbehälter.
 Sie füllten fast den ganzen Raum hier oben aus
 Nur in der Mitte, wo die Leiter an der Dachluke lehnte,
 war ein schmaler Durchgang bis zur Treppe.
@@ -2570,7 +2577,7 @@ an ich in diesem Moment schon gewußt hätte, welch
 en Plan von ihm jetzt eingeleitet wurde und wie
 vollständig er alles, was hier geschah, durchschaut hatte,
 dann werde ich, um das Risiko dieses gewagten Unterfangens
-zu verfleinern, ganz. anders gehandelt haben. Aber
+zu verkleinern, ganz. anders gehandelt haben. Aber
 mein Hirn hatte nicht die ungeheure Regsamkeit des seinen!
 Sein Sinn nahm die Tatsachen ohne jede scharfe Bar
 <@pagebreak/>
@@ -2587,7 +2594,7 @@ tote Karla von Reppen gedacht?
 Ich glaube nicht! ne
 
 So mag der Leser denn auch das weitere auf sich wir
-Ofen lassen wie einen jäh heruiederſchießenden Stuxzbach
+Ofen lassen wie einen jäh heruiederſchießenden Sturzbach
 von unerhörten Vorgängen.
 
 <h2>4. Kapitel.</h2>
@@ -2595,7 +2602,7 @@ von unerhörten Vorgängen.
 Harald Stand nun dicht vor den beiden @erstrebten
 
 war’s mir, als roter und
-er mich, als 06 Hinter und plöy Ectiulche
+er mich, als 06 Hinter und Plotz Ectiulche
 machten — bedrohliche Geräusche. 6 ne
 
 Ich wollte mich umdrehen. Ich ahnte eine Gefaßt
@@ -2650,7 +2657,7 @@ Ich merkte ja: das Tuch über meinem Kopf hing lang
 Herab, hüllte mich ein.
 
 Wie sollten die dreizehn erkennen, daß ich, daß Harst
-nicht die waren, die hier vor fünf Minuten sich hatten ver-antworten
+nicht die waren, die hier vor fünf Minuten sich hatten verantworten
 sollen ?]
 
 Doch nein: Eva Wilcword mußte unter diesen dreizehn
@@ -2661,7 +2668,7 @@ sollte ja der Henker sein! —
 
 Dar sprach der Mann schon weiter:
 
-»Nummer zwei, Dir übergebe ich jetzt die beiden Ver-urteilten!
+»Nummer zwei, Dir übergebe ich jetzt die beiden Verurteilten!
 Du kennst Deine Pflicht!«
 
 »Niemals!«
@@ -2672,7 +2679,7 @@ Niemals!« hervorgestoßen hatte.
 
 Nein — ich tue es nicht!« fügte er hinzu. »Ich bitte,
 mir den Auftritt aus dem Klub zu gestatten. Ich ahnte
-nicht, daß der Klub auch derartige Eingriffe in die Justiz-autorität
+nicht, daß der Klub auch derartige Eingriffe in die Justizautorität
 Erbes Staates. wagen würde! Als ich vor scheute
 Mitglied wurde, scheren Ich Gehorsam auf die Statuten,
 die man. mir vorgelesen hatte. In diesen Statuten
@@ -2717,7 +2724,7 @@ Eva Wilcword als treibende Kraft steckte! Ich
 vergaß über diesen Gedanken vorkommen unsere eigene Lage
 ich das, was uns drohte.
 
-»ch tue ed nicht!« wiederholte Reppen da in verbis-Trou
+»ch tue ed nicht!« wiederholte Reppen da in rechts-Treu
 »Sucht Euch einen anderen Henker!«
 
 <@pagebreak/>
@@ -2876,7 +2883,7 @@ Und — noch er kein Laut von drinnen.
 
 Harst kam zu
 
-»Was hältst Ok davon t°
+»Was hältst Ok davon th
 
 »Weiß nicht!«
 
@@ -3007,7 +3014,7 @@ ins Gefängnis gab Swinemünde. Landjäger begleiteten
 den Transport. War fuhren in Reppens Aufs
 voraus.
 
-Freund Becher! traf aus Berlin mittags Im:Kraftwagen
+Freund Bechert traf aus Berlin mittags Im:Kraftwagen
 ein und verhörte die Gefangenen. Eva als lebte.
 Wir waren dabei. Eva leugnete nichts, gab auch zu, daß
 Karla von Mengen auf ihren Befehl hin erschossen worden
@@ -3015,7 +3022,7 @@ war, gab Weiter zu, daß sie Reppen hatte völlig ausplilss
 albern wollen, nachdem er uns hätte »hinrichten« müssen.
 
 Die zynische Offenheit dieses Weibes wirkte so ab
-stehend, daß selbst Becher!, der da genug Verworfenheit
+stehend, daß selbst Bechert, der da genug Verworfenheit
 in seinem Leben kennengelernt hatte, empört die;
 
 »Weshalb dieser Mord an dem jungen Mädchen, Sie
