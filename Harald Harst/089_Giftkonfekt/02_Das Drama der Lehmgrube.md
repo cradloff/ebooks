@@ -38,7 +38,7 @@ es ist eine Organisation, geleitet von genialen Köpfen! Der
 genialste mag Holdstein nicht gewesen sein. Ich halte Eva
 für gefährlicher. Es wird Zeit, daß man sie lahmlegt. Ich
 <@pagebreak/>
-habe mit ihr abzurechnen. Der heißt es: Sie oder ich!
+habe mit ihr abzurechnen. Hier heißt es: Sie oder ich!
 Davon bin ich überzeugt. Mein Leben ist wie das eines
 Käfers, der über eine Promenade durch ein Menschengewühl
 läuft: jeden Augenblick kann es zertreten werden!
@@ -246,7 +246,7 @@ Ihnen nicht helfen: ich kenne Holdstein nur ganz flüchtig
 etwas wissen wollen, fragen Sie getrost. Ich bin besser als
 mein Ruf.«
 
-Bechert schaute Harst an, Harst zuckte nur die Achseln
+Bechert schaute Harst an. Harst zuckte nur die Achseln
 und sagte: »Wir können gehen.«
 
 »Verzeihung,« bat Plotz da, »was ist denn eigentlich
@@ -513,7 +513,7 @@ Deshalb schlich ich in der folgenden Nacht wieder
 dorthin. Es war dieselbe Nacht, als das schwere Gewitter
 gegen elf Uhr niederging.«
 
-Harst warf mir einen Blick zu. Ich verstand; in der
+Harst warf mir einen Blick zu. Ich verstand: in der
 Nacht war Galley ermordet worden!
 
 »Ich hatte meine Lodenpelerine mit,« fuhr der Forstgehilfe
@@ -615,7 +615,7 @@ Dame — eine Malerin —«
 
 »Ich war dreimal mit ihr zusammen. Sie malte die
 Lehmgrube. Hatte Ihre Staffelei oben am Westrand
-des Abhangs neben der Fichte ausgestellt gehabt, die nun
+des Abhangs neben der Fichte aufgestellt gehabt, die nun
 entwurzelt ist. Ich möchte Sie bitten, Herr Harst, daß Sie
 ihr einen Gruß von mir ausrichten.«
 
@@ -642,7 +642,7 @@ ja ganz in der Nähe der Grube im Schweizerhäuschen gewohnt —
 
 Borstel erwiderte mit schwachem Lächeln: »Nein, Geheimnisvolles
 war nicht dabei. Es war am 4. Mai, als
-ich morgens acht Uhr an Waldrande daherkam. Ich glaubte
+ich morgens acht Uhr am Waldrande daherkam. Ich glaubte
 plötzlich aus der Richtung der Lehmgrube Axthiebe oder
 dergleichen zu hören. Ich schlich näher heran. Da sah ich
 die Malerin stehen. Sie sang ganz laut, bemerkte mich
@@ -662,8 +662,8 @@ zu hören.«
 
 »Ja. Sie fragte, ob es verboten sei, hier zu malen.
 Wir kamen dann ins Gespräch. Nach einer halben Stunde
-schickte sie mich weg. Sie meinte, ich könnte ihrem guten
-Rufe Schaden, wenn man uns zusammensähe. Ich beruhigte
+schickte sie mich weg. Sie meinte, es könnte ihrem guten
+Rufe schaden, wenn man uns zusammensähe. Ich beruhigte
 sie. Dort nach der Lehmgrube kommt so selten jemand. Sie
 gab mir die Hand und sagte: »Auf Wiedersehen. Wenn
 Sie wieder mal hier vorbeikommen, pfeifen Sie Bitte schon
@@ -744,7 +744,7 @@ heran.«
 »Borstels nächtliche Erlebnisse hängen natürlich mit
 dem Geheimnis der Lehmgrube eng zusammen«, erklärte
 ich. »Der Hund hat in der Grube etwas gewittert, stürmte
-dorthin und wurde von einen Menschen erstochen.«
+dorthin und wurde von einem Menschen erstochen.«
 
 »Wo blieb der Mensch?«
 
@@ -1135,7 +1135,7 @@ Wilcwords! Dann noch das goldene Tafelservice Uhlborns!
 auf dunklen Pfaden wandelt. Jetzt — werden Sie beide
 niemandem mehr schaden.
 
-»Ahnten Sie, weshalb Borstel niedergeschossen wurde,
+Ahnten Sie, weshalb Borstel niedergeschossen wurde,
 <@pagebreak/>
 weshalb Xaver und ich Ihnen damals entkamen?«
 
@@ -1302,7 +1302,7 @@ Die drei Fünkchen waren verschwunden.
 Pflöcken loszuwuchten,« sagte Harald. »Besser, Du überläßt
 das mir. Warte —«
 
-Ich hörte seine Anstrengungen, hörte den Stuhl knarren
+Ich hörte seine Anstrengungen, hörte den Stuhl knarren,
 hörte Harst keuchen.
 
 Dann ruhte er sich aus.
@@ -1311,7 +1311,7 @@ Dann ruhte er sich aus.
 müssen wir uns. Ich schätze, daß bisher eine halbe Stunde
 vergangen ist. Die Spione Evas sollen nicht umsonst aufpassen.«
 
-Ich verstand, ihn nicht ganz. Er arbeitete wieder,
+Ich verstand ihn nicht ganz. Er arbeitete wieder,
 keuchte.
 
 Dann ein leiser Krach.
@@ -1419,7 +1419,7 @@ auf und ab gehen. Er weiß schon Bescheid.«
 
 Der Beamte verließ die Kneipe.
 
-Wie frühstücken, übergaben die Koffer dem Wirt und
+Wir frühstücken, übergaben die Koffer dem Wirt und
 bestiegen wieder ein Auto. —
 
 In der Steinmetzstraße schlenderte ein älterer Telephonarbeiter

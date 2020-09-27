@@ -74,7 +74,7 @@ diesen Zettel stutzig wurde. Der junge Hauslehrer dürfte
 ein sehr streng moralischer Mensch gewesen sein, dem Uhlborn
 eben keine Liebschaft zutraute.«
 
-»Ganz recht!« nickte Bechert. - »Dieser Heinz Galley
+»Ganz recht!« nickte Bechert. »Dieser Heinz Galley
 <@pagebreak/>
 steht über jedem Verdacht, sich im Garten seines Brotherrn
 Stelldicheins gegeben zu haben. Das betonte Uhlborn immer
@@ -90,7 +90,7 @@ sondern lediglich: »— wie stets unter der Buche.« — Der
 parkartige Garten hat eine sehr hohe Mauer. Außer dem
 Haupteingang gibt es da in der östlichen Mauer noch eine
 kleine eiserne Pforte mit einem Patentschloß, die auf einen
-schmalen Zufuhr weg mündet. Galley als einziger benutzte
+schmalen Zufuhrweg mündet. Galley als einziger benutzte
 diese Pforte zuweilen und hatte auch einen Schlüssel dazu.
 Den Schlüssel fand ich in seiner Beinkleidtasche.«
 
@@ -168,7 +168,7 @@ mir zu erklären —«
 »Oh — das werde ich, Herr Kommerzienrat,« fiel Harst
 dem Erregten ins Wort. »Also — kennen Sie diese Schrift?«
 
-»Nein. Wie sollte ich wohl?!« -
+»Nein. Wie sollte ich wohl?!«
 
 »Wo pflegen Sie Ihr eleganteres Briefpapier
 zu kaufen?«
@@ -180,8 +180,8 @@ Ah — abermals verfärbte Uhlborn sich!
 Sie jetzt vielleicht —«
 
 »Sofort. — Nur noch eine Frage: Waren Sie in der
-vergangenen Nacht im Park? - Und zwar während des
-Gewitters, also gehen ein Viertel zwölf?«
+vergangenen Nacht im Park? Und zwar während des
+Gewitters, also gegen ein Viertel zwölf?«
 
 Uhlborns Gesicht verzerrte sich.
 
@@ -283,7 +283,7 @@ Uhlborn:
 
 »Weshalb führten Sie uns auf einem Umwege hierher?
 Wir hätten doch dort den Weg entlanggehen können,
-Herr Kommerzienrat«.
+Herr Kommerzienrat.«
 
 <@pagebreak/>
 Uhlborns Augen verdunkelten sich in jäh aufsteigender
@@ -465,7 +465,7 @@ verschweigen wollen, weil Sie das Stelldichein unter
 der Buche nicht zugeben dürfen — als verheirateter
 Mann.«
 
-»Er hatte seine Stimme bis zum Flüstern gedämpft.«
+Er hatte seine Stimme bis zum Flüstern gedämpft.
 
 Auf Uhlborns Stirn lagen jetzt dicke Schweißperlen.
 Er stierte auf den seidig glänzenden Perser hinab, regte
@@ -475,7 +475,7 @@ sich nicht.
 fügte Harst eindringlich hinzu, »dann könnten Sie
 doch aussagen, was Sie wissen.«
 
-»Die Skandalpresse erfährt, ja doch alles!« murmelte
+»Die Skandalpresse erfährt ja doch alles!« murmelte
 Uhlborn wie verzweifelt.
 
 »Sie irren sich. Niemand wird etwas erfahren. Reden
@@ -556,7 +556,7 @@ daß er keinen Grund zur Eifersucht hätte. Im strömenden
 Regen verließen wir drei den Park durch die Pforte. Ethelkas
 Gatte, der Joseph Heinsold heißt, bedankte sich noch bei
 mir, daß ich ihm und seiner Frau das Häuschen in Lichterfelde
-fehl überlassen hätte,« lila
+überlassen hätte.«
 
 »Merkwürdig!« warf Harst ein.
 
@@ -661,7 +661,7 @@ Karl Herms, eines noch jungen Menschen mit energischem,
 klugen Gesicht, betrifft.
 
 Harst durchsuchte die Stube des Chauffeurs und fand
-eine Schachtel mit Resten, von Weihnachtskerzen. Diese
+eine Schachtel mit Resten von Weihnachtskerzen. Diese
 Kerzen waren genau so geriffelt wie das grüne Stümpfchen
 aus dem Pavillon.
 
@@ -669,7 +669,7 @@ Herms leugnete natürlich. Er mußte dann seine leicht
 eingefetteten Fingerspitzen auf ein Blatt Papier drücken.
 
 Diese Abdrücke verglich Harst mit der Lupe mit dem
-Abdruck aus dem Lichtstumpf. Das Muster war genau dasselbe
+Abdruck auf dem Lichtstumpf. Das Muster war genau dasselbe
 wie das von Herms’ linkem Zeigefinger.
 
 So wurde Herms denn von Bechert verhaftet, der ihn
@@ -778,7 +778,7 @@ beschrieben.
 
 Während der Fahrt konnten wir in den weiten unbebauten
 Straßenzügen den Fall Galley in aller Ruhe durchsprechen.
-Vieles an diesem Morde war wir noch unklar.
+Vieles an diesem Morde war mir noch unklar.
 Die Tat selbst erschien mir äußerst kompliziert, und das Tatmotiv
 lag für mich völlig im Dunkeln.
 
@@ -830,7 +830,7 @@ glaubst also, sie erwarten uns?«
 »Vielleicht tun sie es. Wenn sie zum Beispiel vor der
 Villa Uhlborn einen Spion postiert hatten, können sie jetzt
 längst wissen, daß wir beide allein in einem Auto davongefahren
-sind. Und — es war ein Spion da: ein alles
+sind. Und — es war ein Spion da: ein altes
 Weib als Zündholzverkäuferin herausstaffiert! Als wir
 in Uhlborns Arbeitszimmer saßen, konnte ich von meinem
 Platz aus durch das Fenster die Derfflingerstraße ein Stück
@@ -901,7 +901,7 @@ war der reine Taubenschlag.«
 »Doch — doch! Die Reserveschlüssel. Wenn Sie rein
 wollen — ich hole die Schlüssel.«
 
-Wir begleiteten ihn bis zu denn Anbau, in dem er mit
+Wir begleiteten ihn bis zu dem Anbau, in dem er mit
 seiner Frau wohnte. Hinter dem Hause zog sich ein
 Gemüsegarten bis zum Walde hin. Im Garten arbeitete eine
 alte Frau in einem Erdbeerenbeet. Sie hatte eine große
@@ -1138,7 +1138,7 @@ In der Lehmgrube stand eine windschiefe Bretterbude.
 Davor lagen zwei Karren ohne Räder und ein paar Feldbahnschienen.
 
 Die Bäume standen licht, und die Fliehenden hatten
-kaum noch dreißig Schrift Vorsprung gehabt.
+kaum noch dreißig Schritt Vorsprung gehabt.
 
 Wo waren sie? Wo nur?!
 
@@ -1201,7 +1201,7 @@ Und jenseits des Drahtes meldete sich Eva Wilcword!
 »— Der Förster läßt grüßen! Das nächste Mal werden
 wir dafür sorgen, daß Sie den Mund nicht mehr zu einem
 <@pagebreak/>
-einige Wort auftun können, Herr Harst! Auf Wiedersehen!« —
+einzigen Wort auftun können, Herr Harst! Auf Wiedersehen!« —
 
 Wir holten unser Auto und fuhren nach Berlin zurück.
 Harald war stumm. Diese Niederlage ärgerte ihn.
@@ -1296,9 +1296,9 @@ Fall Galley sprach.
 »Ob die Leiche Galleys schon seziert sein mag?« fragte
 ich. »Ob man wohl Spuren von Gift gefunden hat?«
 
-»Ganz, bestimmt!« nicke Harst und griff lebhaft nach
+»Ganz, bestimmt!« nickte Harst und griff lebhaft nach
 einer frischen Mirakulum. »Ich habe jetzt wieder Interesse
-für Eva, Xaver und dieses Verbrechen, Lieber Alter. Ich
+für Eva, Xaver und dieses Verbrechen, lieber Alter. Ich
 mußte erst mein inneres Gleichgewicht zurückgewinnen.
 Becherts Benehmen hat mich sehr gekränkt. — Galley ist
 ohne Zweifel vergiftet worden. Ich stelle mir die Ereignisse
@@ -1328,7 +1328,7 @@ zur Verfügung gestellt bekommen? — Nein! Sie
 <@pagebreak/>
 wollte mehr, behaupte ich. Sie wollte sowohl den Patentschlüssel
 zu der Pforte sich beschaffen als auch den Park
-nachts besuchen dürfen, das heißt, sie wollte Herms, dem
+nachts besuchen dürfen, das heißt, sie wollte Herms, den
 Chauffeur, in der Garage auch nachts sprechen können. Kurz:
 sie planten etwas — gegen die Villa Uhlborns, etwas, wobei
 ihnen Galley hinderlich war. — Weshalb nun hinderlich?
@@ -1410,7 +1410,7 @@ Harst fragte, ob Plotz ein gerissener Anwalt sei.
 dem sieht die Rechte nicht, was die Linke tut. Anständje
 Leute jehn kaum zu ihm. Bei seinen Kollegen ist er sehr
 <@pagebreak/>
-in Verruf, der olle Junggeselle, über wenn Sie mal so
+in Verruf, der olle Junggeselle. Aber wenn Sie mal so
 recht in der Tinte sitzen — der wäscht Sie rein! Der besorgt
 Alibizeugen, Stück zu zwanzigtausend Märker, und
 macht — Na — ich will mir nicht das Maul verbrennen.«
