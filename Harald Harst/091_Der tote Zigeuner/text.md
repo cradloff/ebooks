@@ -16,50 +16,50 @@ Max Schraut
 <h2>1. Kapitel</h2>
 
 »Die Unsicherheit in Berlin nimmt in erschreckender
-Weise zu,« sagte zart Harst zu mir, als er die Abendzeitungen
-durchgesehen hatte »In der verflossenen Nacht
-ist reicher ein Herr auf offener Straße ausgeplündert worden,
-abgesehen von dem täglichen Milioneneinbruh Au
-das ist nichts für uns, mein Alter. Da liegen zwar wie
-
-der drei Briefe Bestohlenen, die ihr Silberzeug Durch mich
-zurückerhalten möchten. über — zu solcher Arbeit gehört
+Weise zu,« sagte Harald Harst zu mir, als er die Abendzeitungen
+durchgesehen hatte. »In der verflossenen Nacht
+ist wieder ein Herr auf offener Straße ausgeplündert worden,
+abgesehen von dem täglichen Millioneneinbruch. All
+das ist nichts für uns, mein Alter. Da liegen zwar wieder
+drei Briefe Bestohlener, die ihr Silberzeug durch mich
+zurückerhalten möchten. Aber — zu solcher Arbeit gehört
 der gewaltige Apparat der Kriminalpolizei. Da können
-wir beide nicht mit, Wir sind auf — Feinmechanik eingestellt,«
+wir beide nicht mit. Wir sind auf — Feinmechanik eingestellt,«
 
 Er saß im Rohrsessel und schaute durch die offenen
-Fenster der Gartenveranda des alten Harstschen Familien-hauses
-auf die vom Abendrot vergoldeten Kronen he.
+Fenster der Gartenveranda des alten Harstschen Familienhauses
+auf die vom Abendrot vergoldeten Kronen der
 Bäume. Seine Zigarette, die er zwischen den Fingern der
-Rechten hielt, sandte einen gekräuselten Qualmfäden in die
-- Höhe und hatte den... eine lange Afchenfpige, Ich ums
-»Werte mich, daß er sie Autos weiter glimmen ließ, wunderte
-mich noch mehr, daß er die Augen immer mehr zur
-fammenfniff, als gäbe es da draußen in den Linden«
-»Kronen etwas besonderes zu sehen.
+Rechten hielt, sandte einen gekräuselten Qualmfaden in die
+Höhe und hatte bereits eine lange Aschenspitze. Ich wunderte
+mich, daß er sie nutzlos weiter glimmen ließ, wunderte
+mich noch mehr, daß er die Augen immer mehr zusammenkniff,
+als gäbe es da draußen in den Lindenkronen
+etwas besonderes zu sehen.
 
-ich: Auch ich blickte nun hinaus,
-ug war in dem Grün der einen Winkel etwas tote
+Auch ich blickte nun hinaus,
+
+Da war in dem Grün der einen Linde etwas wie
 <@pagebreak/>
-Einzelne punktierte Linie, die im Winde hin und her schwang.
+eine punktierte Linie, die im Winde hin und her schwang.
 
 »Ein Drachenschwanz,« meinte Harald.
 
-Ja — er hatte recht: ed war der Schwanz eines Das
-pierpruchens, ein Bindfaden, in den Papierslücke in Ereignen
-wischenräumeu eingebunden waren,
+Ja — er hatte recht: es war der Schwanz eines
+Papierdrachens, ein Bindfaden, in den Papierstücke in gleichen
+Zwischenräumen eingebunden waren,
 
-»Vor unserem Nachinittaaëspaziergang war er noch
+»Vor unserem Nachmittagsspaziergang war er noch
 nicht da,« sagte Harald wieder. »Der Drachen muß inzwischen
-in der Lindenfrone gelandet sein.«
+in der Lindenkrone gelandet sein.«
 
 Die alte Mathilde, des Hauses rundliche langjährige
 Köchin, war soeben in der Veranda erschienen und räumte
 den Abendbrottisch ab,
 
-»Eine Dame und ein Funde ließen den Drachen hinten
+»Eine Dame und ein Knabe ließen den Drachen hinten
 auf dem Feldweg an unserem Gartenzaun steigen,«
-erklärte Mathilde. »Ich las gerade Raupen vom Vorteil
+erklärte Mathilde. »Ich las gerade Raupen vom Rotkohl
 ab. Als der Drachen dann zu uns in den Garten fiel,
 wollte ich die beiden durch die Pforte einlassen, damit sie
 ihn sich holten. Aber da zog die Dame den Knaben schnell
@@ -70,152 +70,157 @@ stieß den Rauch von sich und fragte:
 
 »Schnell — schnell zog sie den Knaben mit sich fort?«
 
-»Ja — sehr schnell, Ueberhaupt, Herr Harst, die
-Dame war so dicht verschleiert und sah so sein ans, daß
-ich mehr recht verstand, wie sie an der Drachenfliegerei Gestalten
-finden könnte und weshalb sie nein Knaben nicht ein
+»Ja — sehr schnell. Ueberhaupt, Herr Harst, die
+Dame war so dicht verschleiert und sah so fein ans, daß
+ich mehr recht verstand, wie sie an der Drachenfliegerei Gefallen
+finden könnte und weshalb sie dem Knaben nicht ein
 einziges Mal die Schnur in die Hand gab, als das Ding
-endlich doch in der Luft schwebte. »
+endlich hoch in der Luft schwebte.«
 
 Harst stand schweigend auf und verließ die Veranda.
 
 Mathilde fragte mich erstaunt: »Was hat er denn,
-Herr Schraut? »
+Herr Schraut?«
 
-»Einen Verdacht hat er. — Da -!« Und ich deutete
+»Einen Verdacht hat er. — Da —!« Und ich deutete
 in den Hof hinab, wo Harald gerade die Leiter von der
-Stanwand abholte und sie nun zu der Linde trug. —
+Stallwand abholte und sie nun zu der Linde trug. —
 
 Gleich darauf standen wir in Harsts Arbeitszimmer
-unter der elektrischen Krone und besicotigten den Drachen,
+unter der elektrischen Krone und besichtigten den Drachen,
 
-Van sah. es war ein fertig gekauften, Er war beider
+Man sah, es war ein fertig gekaufter. Er war beiderseits
 <@pagebreak/>
-fehle mit einer komisch erspare befiehl die jedoch in den
-Wanmiästenn ein paar große Löcher bekommen hatte
+mit einer komischen Fratze beklebt, die jedoch in den
+Baumästen ein paar große Löcher bekommen hatte.
 
-Harald riß die Locker noch weilen auf, Da kam zwischen
-kein beidem Bapierfeirhten ein platt ausgebreîtetes
-Zeietiuch mit klein ab ui Vorschein.
+Harald riß die Löcher noch weiter auf. Da kam zwischen
+den beidem Papierschichten ein glatt ausgebreitetes
+Taschentuch mit blauem Rand zum Vorschein.
 
-Harst zog es vorsiwlig heraus. An einer ade des
-großen Herrentoschentuch- war mit einer Stecknadel ein
-Zeitungsausschnitt besetzter.
+Harst zog es vorsichtig heraus. An einer Ecke des
+großen Herrentaschentuchs war mit einer Stecknadel ein
+Zeitungsausschnitt befestigt.
 
-»Ganz interessant, Vorfand, mein Alter,« lächelte
+»Ganz interessante Botschaft, mein Alter,« lächelte
 Harst. »Hm — dies ist ja genau derselbe Zeitungsartikel
-über den Raubansall der vergangenen Nacht, von dem ich
+über den Raubanfall der vergangenen Nacht, von dem ich
 vorhin sprach.«
 
-Er machte den Zeltung3auêëschniti los und reichte ihn
+Er machte den Zeitungsausschnitt los und reichte ihn
 mir.
 
 Ich überflog den kurzen Bericht:
 
+<@spacer/>
+
 > »In der verflossenen Nacht wurde der Fabrikbesitzer
-R., als er vom Bahnhof Schlachtensee gegen zwöl
+R., als er vom Bahnhof Schlachtensee gegen zwölf
 Uhr seiner etwas abgelegenen Villa zuschritt, ganz plötzlich
 überfallen, niedergeschlagen und völlig ausgeplündert.
 Außer einer goldenen Uhr mit Platinkette und
-Brillantringen vernäht Herr R. eine Brieftasche mit
-250 000 Mark Inhalt, seiner einen Briefumschlag mit
+Brillantringen vermißt Herr R. eine Brieftasche mit
+250 000 Mark Inhalt, ferner einen Briefumschlag mit
 Papieren, die er in der inneren Westentasche bei sich trug.
-Herr N. hat für die Wiederherbeischaffung dieser Gegenstände,
-hauptsächlich des Briefumschlags, eine Erscheinung
-von fünf Millionen ausgetobt«
+Herr R. hat für die Wiederherbeischaffung dieser Gegenstände,
+hauptsächlich des Briefumschlags, eine Belohnung
+von fünf Millionen ausgesetzt.«
 
-»Donnerwetter — fünf Millionen!« entfuhr es mir
+<@spacer/>
+
+»Donnerwetter — fünf Millionen!« entfuhr es mir.
 Denn diese Summe war ja selbst heutzutage ein ganzer
-Pater Gelb, Da mußten Uhr und Nette und. Mr Ahne
-sehr wertvoll genesen fein! —
+Batzen Geld. Da mußten Uhr und Kette und die Ringe
+sehr wertvoll gewesen sein! —
 
 Harst hatte nach Mathilde geläutet. Die Alte kam,
-tkrodlnete sich noch die Lande an der Küchenschürze ab und
-brummte etwas von »Hebe zu tun, mu, abwaschen"“«
-Nur ein paar Fragen, liebe Mathilde,« meinte Harald
+trocknete sich noch die Hände an der Küchenschürze ab und
+brummte etwas von »Habe zu tun, muß abwaschen«
+
+»Nur ein paar Fragen, liebe Mathilde,« meinte Harald
 <@pagebreak/>
 besänftigend. »War die Dame von kleiner zierlicher
-Gestalt« Wie war der Knabe angezogen?«
+Gestalt? Wie war der Knabe angezogen?«
 
-»Ja - in reines Püppchen war’s bloß, Herr Harst.
-Und der Junge - na, der sah ziemlich abgerissen aus,
-paßte gar Mr zu der Dame, nein, gar nicht.«
+»Ja — ’n reines Püppchen war’s bloß, Herr Harst.
+Und der Junge — na, der sah ziemlich abgerissen aus,
+paßte gar nicht zu der Dame, nein, gar nicht.«
 
-»Danke, liebe Vollste —« —
+»Danke, liebe Mathilde —« —
 
 Wir waren wieder allein.
 
 Harald ging auf und ab, den Kopf gesenkt. Ich schaute
-mir das Taschentuch an Es in ein Baltisttuh ohne
+mir das Taschentuch an. Es war ein Batisttuch ohne
 Monogramm und roch leicht nach — ja, nach Apotheke, wie
 man zu sagen pflegt.
 
 Dann blieb Harst neben mir am Sofatisch stehen.
 
 »Es wird eine Chinesin oder Japanerin gewesen sein,«
-meinte er sinnend. »In China und Japan ist der Drachen-fport
+meinte er sinnend. »In China und Japan ist der Drachensport
 allgemein verbreitet. Eine Europäerin wäre nie auf
 den Gedanken gekommen, uns durch einen Drachen das
 Taschentuch zuzustellen und durch den daran festgesteckten
-Zeitungsausschnitt zum Musdruck zu bringen, daß das
-Batisttuch mit dem Arzigernch zu den Raubansall in Beziehung
+Zeitungsausschnitt zum Ausdruck zu bringen, daß das
+Batisttuch mit dem Arztgeruch zu dem Raubanfall in Beziehung
 steht.«
 
-ich nickte. Ich dachte an Mathilde, die die Dame als
-»Püppchen« bezeichnet hatte Chiucsinnen und Fapane-rinnen
-sind ja meistens sehr klein und zierüich.
+Ich nickte. Ich dachte an Mathilde, die die Dame als
+»Püppchen« bezeichnet hatte. Chinesinnen und Japanerinnen
+sind ja meistens sehr klein und zierlich.
 
 »Wie wär’s, wenn wir mal zu Herrn R. nach Schlachtensee
-hinausfahren würden, mein Alter?« ritzte Harald
-hinzu »Dieser Naubanfall dürfte doch nichts Alltägliches
-fein Natürlich werden wir Herrn R. nicht als Harst und
-Schraut gegenübertreten. Nein, das würde unsere Starren
+hinausfahren würden, mein Alter?« fügte Harald
+hinzu. »Dieser Raubanfall dürfte doch nichts Alltägliches
+sein. Natürlich werden wir Herrn R. nicht als Harst und
+Schraut gegenübertreten. Nein, das würde unsere Chancen
 verringern,«
 
-Um halb neun abends an diesem prächtigen Frühe
-berbfttane fliegen am Bahnhof Schlachtensee zwei Herren
+Um halb neun abends an diesem prächtigen Frühherbsttage
+stiegen am Bahnhof Schlachtensee zwei Herren
 aus einem Mietauto, befahlen dem Chauffeur zu warten,
-betraten den Bahnhof und erfuhren hier von einem Bahn
-Beamten den vollen Namen des Fabrikbesißers R. und ließen
+betraten den Bahnhof und erfuhren hier von einem Bahnbeamten
+den vollen Namen des Fabrikbesitzers R. und ließen
 sich auch den Weg nach dessen Villa beschreiben.
 
 <@pagebreak/>
-Der Name lautete Otto Riemer Die beiden Herren
-sparen Harst und ich
+Der Name lautete Otto Riemer. Die beiden Herren
+waren Harst und ich.
 
-Sir wanderten denn am Ufer des Schlachtensces
-entlang, fliegen rum so nahen Weg die Uferböschung hinan
-und standen vor Ter Gitterpforte einer zwischen Baumschlangen
-ganz versteckt liegenden Villa
+Wir wanderten dann am Ufer des Schlachtensees
+entlang, stiegen einen schmalen Weg die Uferböschung hinan
+und standen vor der Gitterpforte einer zwischen Baumgruppen
+ganz versteckt liegenden Villa.
 
-Es war inzwischen dunkel geworden, Trotzdem ließ
-sich das Messingschild rechts neben der Pforte noch erfahre
-fern. Es slimnte:
+Es war inzwischen dunkel geworden. Trotzdem ließ
+sich das Messingschild rechts neben der Pforte noch entziffern.
+Es stimmte:
 
 > Otto Riemer.
 
 Harst drückte auf den Klingelknopf.
 
-Nach einer Weile stammten über dem Hauptwege zur
+Nach einer Weile flammten über dem Hauptwege zur
 Villa ein paar Glühbirnen auf, und ein dürrer, großer
-»Herr in Hut und hellem Ulster kam hastig auf die Pforte zu
-Er halte ein mageres Gesicht mit platter Nase und dünnem
-blonden Bart
+Herr in Hut und hellem Ulster kam hastig auf die Pforte zu.
+Er hatte ein mageres Gesicht mit platter Nase und dünnem
+blonden Bart.
 
 »Sie wünschen?« fragte er unfreundlich.
 
-»Sie gestalten: Herr Riemer selbst?« meinte Harald
+»Sie gestatten: Herr Riemer selbst?« meinte Harald
 
-»Ja. — Ich habe nicht viel Zeit Also —«
+»Ja. — Ich habe nicht viel Zeit. Also —«
 
-»Wir sind die Junhaber ver Detektei Wüte und zahlte,
+»Wir sind die Inhaber der Detektei Würz und Gohlke,
 Herr Riemer. Wir sind bereit, den Raubüberfall —«
 
 Da unterbrach Riemer Harald schon. »Ich danke Ihnen.
 Die Sache ruht bereits in guten Händen. — Guten
 Abend —«
 
-»Noch einen Augenblick, Herr Riemer Wir glauben
+»Noch einen Augenblick, Herr Riemer. Wir glauben
 da gewisse Anhaltspunkte gefunden zu haben, die den Ueberfall
 als ein sogenanntes Scheinverbrechen —«
 
@@ -223,107 +228,107 @@ Der Fabrikbesitzer trat schnell wieder an die Pforte
 heran.
 
 »Wie meinen Sie das?« fiel er Harst wieder ins
-Ort,
+Wort,
 
-»Nun, Kb meine, daß wir Äticñiüter 3 Wir auf die
+»Nun, ich meine, daß der Attentäter es nur auf die
 Papiere abgesehen hatte —«
 
 »Unsinn — Unsinn!« rief Riemer da. »Wie kommen
 Sie denn darauf?«
 
-Sein Benehmen war merkwürdig Es machte durch
+Sein Benehmen war merkwürdig. Es machte durchaus
 <@pagebreak/>
-aus den Sinnend, als wäre es ihm höchst peinlich,
-daß ernährt auf den Seekarten gekommen, der Uebversal
-sei nur der logiere wegen ausgeführt Werden,
+den Eindruck, als wäre es ihm höchst peinlich,
+daß jemand auf den Gedanken gekommen, der Ueberfall
+sei nur der Papiere wegen ausgeführt worden,
 
-segelt erwiderte achemmmisvolt:
+Harst erwiderte geheimnisvoll:
 
-»Ja, Herr Riemer, da — da spielt eine Ausländern
-doch ins Rolle —«
+»Ja, Herr Riemer, da — da spielt eine Ausländerin
+doch eine Rolle —«
 
-Das war ein Fühler, — nur ein Fühler, ob der das
-beifbeiiger etwas von einer Chinesin oder Japanerin
-wüßte
+Das war ein Fühler, — nur ein Fühler, ob der Fabrikbesitzer
+etwas von einer Chinesin oder Japanerin
+wüßte.
 
-Bremen prallte denn auch förmlich zurück, faßte sich
-jedoch Hohnvoll, lachte ärgerlich und sagte schroff:
+Riemer prallte denn auch förmlich zurück, faßte sich
+jedoch schnell, lachte ärgerlich und sagte schroff:
 
 »Ausländer gibt es jetzt genug in Berlin. — Ich bedauere,
 für Ihre Dienste keine Verwendung zu haben.«
 
-Er griff nachlôssig an den Hut und eilte der Villa
+Er griff nachlässig an den Hut und eilte der Villa
 wieder zu.
 
-Die Glühbirnen erlesen. Und Harald flüsterte leise:
+Die Glühbirnen erloschen. Und Harald flüsterte leise:
 
-»Herr Riemer, die Sache ist jetzt kg in guten
+»Herr Riemer, die Sache ist jetzt wirklich in guten
 Händen!«
 
-las Hang recht drohend.
+Das klang recht drohend.
 
 »Sehen wir zu, mein Alter, ob das Grundstück noch
-einen zweiten Ausgang hat,« fuhr er fort. »Mir. scheint,
-Riemer wird das Haus sehr bald verlassen, Lang werden
-mir ihm folgen.« —
+einen zweiten Ausgang hat,« fuhr er fort. »Mir scheint,
+Riemer wird das Haus sehr bald verlassen. Dann werden
+wir ihm folgen.« —
 
-E83 war fein zweiter Rundgang vorhanden,
+Es war kein zweiter Ausgang vorhanden,
 
-Harst Poliert. recht: Riemer kam mit einem kleinen
+Harst behielt recht: Riemer kam mit einem kleinen
 Handkoffer und wandte sich dem Bahnhof zu.
 
-Leuten wie uns ist es ein =eicites, unbemerkt jemandem
+Leuten wie uns ist es ein leichtes, unbemerkt jemandem
 zu folgen. — Riemer löste auf dem Bahnhof eine Karte
-bis Berlin, Vannseebabnhos. Wir bestiegen denselben
+bis Berlin, Wannseebahnhof. Wir bestiegen denselben
 Zug. Um zehn Uhr forderte Riemer am Schalter für den
-zzernverfchr des Stettiner Bahnhofs eine Fahrkarte nach
+Fernverkehr des Stettiner Bahnhofs eine Fahrkarte nach
 Eberswalde.
 
 Gleich darauf sprach ihn oben in der Halle ein Bekannter
 an, als er sich eine Zeitung kaufte,
 
-Harald, jetzt ohne falschen Backenbart, hörte, daß Nie
-wer dem Bekannten mitteilte, er müßte aus seinem Gute
+Harald, jetzt ohne falschen Backenbart, hörte, daß Riemer
+dem Bekannten mitteilte, er müßte auf seinem Gute
 <@pagebreak/>
 Eberswalde etwas erledigen und würde morgen abend
-jeder in Berlin fein,
+wieder in Berlin sein,
 
 »Dann brauchen wir ihn nicht zu begleiten,« meinte
-Harst, »Kehren wir heim.«
+Harst. »Kehren wir heim.«
 
 <h2>2. Kapitel.</h2>
 
 Am nächsten Morgen fuhren wir abermals nach
-élachtensee hinaus, Was er dort wollte, sagte Harald
+Schlachtensee hinaus. Was er dort wollte, sagte Harald
 mir nicht. —
 
-Auf dem Potsdamer Plan verließen wir die Straßenbahn
-und gingen die. Gatte zum Wannfeebahnbof hinab,
-Harald steckte sich eine feiner Zigaretten an, Er rauchte
-nur seine Spezialmarke Mirakulum, obivohtl — auch Dies
-aß erwähnt werden — der Preis der süßlich duftenden
-Dinger jetzt feine Verhältnisse weit überstieg, Der Krieg
-nd dessen Folgen hatten ja aus dem Millionär Harald
-Harst einen bescheidenen Rentner gemacht, Was galten
-jetzt noch Millionen?! Bisher Hatte Harald freilich Harst-nädia
+Auf dem Potsdamer Platz verließen wir die Straßenbahn
+und gingen die Gasse zum Wannseebahnhof hinab.
+Harald steckte sich eine seiner Zigaretten an. Er rauchte
+nur seine Spezialmarke Mirakulum, obwohl — auch dies
+muß erwähnt werden — der Preis der süßlich duftenden
+Dinger jetzt seine Verhältnisse weit überstieg. Der Krieg
+und dessen Folgen hatten ja aus dem Millionär Harald
+Harst einen bescheidenen Rentner gemacht. Was galten
+jetzt noch Millionen?! Bisher hatte Harald freilich hartnäckig
 daran festgehalten, jede Honorierung seiner Dienste
-»als Detektiv abzulehnen, Doch daß dies sehr bald ein
+als Detektiv abzulehnen. Doch daß dies sehr bald ein
 Ende haben müßte, daß auch er also notgedrungen seine genialen
 Fähigkeiten zum Erwerb ausnutzen mußte, hatte
-er selbst eingesehen, Und noch an diesem Morgen hatte
-er zu mir beim Frühstück in Gegenwart seiner Mutter Gemach!
-»rieben Alter, mit diesen »Drachen: Fall« soll der
-Wendepunkt in. unserem Leben eintreten. Der Liebhaber
-Detektiv wird begraben, und der Berufäpeteftiv Harald Harst
-erjcheinnt. Ich habe meine Vermögenslage heute früh übers
-prüft und erkannt, daß es nicht anders geht.« —
+er selbst eingesehen. Und noch an diesem Morgen hatte
+er zu mir beim Frühstück in Gegenwart seiner Mutter gesagt:
+»Lieber Alter, mit diesem »Drachen-Fall« soll der
+Wendepunkt in unserem Leben eintreten. Der Liebhaberdetektiv
+wird begraben, und der Berufsdetektiv Harald Harst
+erscheint. Ich habe meine Vermögenslage heute früh überprüft
+und erkannt, daß es nicht anders geht.« —
 
 Er rauchte seine Miraklulum, schob den leichten Filzhut
-mehr ins Genie und erklärte plötzlich:
+mehr ins Genick und erklärte plötzlich:
 
-»Du hast im Straßenbahnwagen anstatt Das war
-falsch, Es war ein Motorrad mit einem zweiten Horde
-auf dem Zuraunen«.
+»Du hast im Straßenbahnwagen gesucht. Das war
+falsch. Es war ein Motorrad mit einem zweiten Japaner
+auf dem Anhängesitz.«
 
 <@pagebreak/>
 Ich, gewohnt an solche Ueberraschungen meinte nur:
@@ -333,36 +338,36 @@ liegt ja das Harstsche Grundstück.)
 
 »Ja —«
 
-»Zaun ist auch die Drachen-Dame eine Japanerin.«
+»Dann ist auch die Drachen-Dame eine Japanerin.«
 
-»Wahrscheinlich. Uebrigens wird sie sich den Fangen,
-eben sie gestern mithaite, von der Straße gegen ein Trinkgeld
+»Wahrscheinlich. Uebrigens wird sie sich den Jungen,
+den sie gestern mithatte, von der Straße gegen ein Trinkgeld
 mitgenommen haben.«
 
 Wir lösten Fahrkarten, bestiegen den Zug und sahen
-kann sofort einen elegant gekleideten jüngeren Japaner
+dann sofort einen elegant gekleideten jüngeren Japaner
 an unserem Abteil Zweiter vorübergehen.
 
 Harald lächelte mich an.
 
 »Du, das sind Anfänger, blutige Anfänger,«
 
-Wieder stritt der Japaner vorbei, wurde dann gerade
+Wieder schritt der Japaner vorbei, wurde dann gerade
 vor dem Abteil von einem älteren Herrn mit Spitzbart angesprochen,
 der ihm kräftig die Hand schüttelte,
 
-Harst machte ein überraschtes Gesicht, Die Beinen
+Harst machte ein überraschtes Gesicht. Die Beinen
 draußen gingen weiter.
 
 »Weißt Du, wer der andere war, mein Alter?« fragte
-Harald. »Das war der schwedische Gesandte Graf Löwen-vorn.
+Harald. »Das war der schwedische Gesandte Graf Löwenbörn.
 Der Japaner muß fraglos eine angesehene Persönlichkeit
-sein Unser Fall verspricht immer mehr,«
+sein. Unser Fall verspricht immer mehr.«
 
-Der Zug Deute sich in Bewegung,
+Der Zug setzte sich in Bewegung,
 
 In Schlachtensee auf dem Bahnhof blieb unser Japaner
-unsichtbar, Wir suchten das Gemeindeamt auf. Harst
+unsichtbar. Wir suchten das Gemeindeamt auf. Harst
 fragte, ob in Schlachtensee japanische Staatsangehörige
 wohnten,
 
@@ -375,9 +380,9 @@ der Beamte, dem Harst seine Legitimation gezeigt hatte.
 
 »Sechsundzwanzig.«
 
-»Sauer er Motorrad?«
+»Fährt er Motorrad?«
 
-»Nein. Er selbst nicht, aber fein Adjutant, ein japanischer
+»Nein. Er selbst nicht, aber sein Adjutant, ein japanischer
 Hauptmann,«
 
 <@pagebreak/>
@@ -386,120 +391,119 @@ Hauptmann,«
 »Die Frau des Adjutanten und deren Dienerin,«
 
 »Danke vielmals. — Wieviel Aerzte, Zahnärzte,
-Ab Verhaltet und Apotheker gibt es hier?«
+Zahntechniker und Apotheker gibt es hier?«
 
-Harald notierte sich die. Namen und die Adressen
-abermals bedankte er sich, und wir verließen das Gemeindeamt.
+Harald notierte sich die Namen und die Adressen.
+Abermals bedankte er sich, und wir verließen das Gemeindeamt.
 
-Baum waren wir um. die nächste Ehe der Villen-raße
+Kaum waren wir um die nächste Ecke der Villenstraße
 gebogen, als Harst wieder lächelnd sagte:
 
-Nun ist die Japanerin hinter uns — verschleiert! Wir
-sind eine halbe Funde auf dem Amt gewesen, Da hat der
-3, der uns also doch gesorgt ist, sie telephonisch her-eigcuufen,
-damit sie ihn ablöse, Tun wir so, alt ob Sir
-Mitleids merkten.«
+»Nun ist die Japanerin hinter uns — verschleiert! Wir
+sind eine halbe Stunde auf dem Amt gewesen. Da hat der
+Prinz, der uns also doch gefolgt ist, sie telephonisch
+herbeigerufen, damit sie ihn ablöse, Tun wir so, als ob wir
+nichts merkten.«
 
-»Der Prinz war also der Mann auf dem Anhängefig?«
+»Der Prinz war also der Mann auf dem Anhängesitz?«
 
 »Ohne Frage, lieber Alter. — Weißt Du, was ich in
-jedem wittere? eine politische Sache. Otto Riemer war
-1.221 deutscher Konsul in Kotschi, der Hafenstadt an der
-törichte der japanischen Unser Schikoku. Diese Konsul-riere
-mußte er aufheben Japan verlangte, daß er das
+alledem wittere? Eine politische Sache. Otto Riemer war
+bis 1921 deutscher Konsul in Kotschi, der Hafenstadt an der
+Ostküste der japanischen Insel Schikoku. Diese Konsulkarriere
+mußte er aufgeben. Japan verlangte, daß er das
 Land verließe. Weshalb, blieb unbekannt,«
 
-»Woher weißt zu das alles?«
+»Woher weißt Du das alles?«
 
-»Durch Freund Verirrt den ich heute in aller Frühe
-telephonisch anrief.« (Krimminalfommissar Becher! dürfte
+»Durch Freund Bechert, den ich heute in aller Frühe
+telephonisch anrief.« (Kriminalkommissar Bechert dürfte
 dem Leser von früher her bekannt sein.)
 
 »Und Du bringst die Japaner hier mit seiner damaligen
 Tätigkeit als Konsul in Verbindung?«
 
 »Mit seinem Aufenthalt in Japan, genau so wie ich
-betupfte, Daß der Prinz Hotowatu nur deshalb hier die -
-Lila vor zwei Wochen gemietet hat, um Riemer 11 der
-Nähe zu haben. Riemer wieder weiß, Daß ich Japaner
-sehr unangenehm werden können, Du sahst ja, daß er
-gestern abend geradezu zuruücfprallte. als ich von Aussage
-Adern sprach, die mit dem Diebstahl etwas zu tun haben
-könnten, Wir haben also bereits recht viel erreicht.«
+vermute, daß der Prinz Hotowatu nur deshalb hier die
+Villa vor zwei Wochen gemietet hat, um Riemer in der
+Nähe zu haben. Riemer wieder weiß, daß ihm Japaner
+sehr unangenehm werden können. Du sahst ja, daß er
+gestern abend geradezu zurückprallte, als ich von Ausländern
+sprach, die mit dem Diebstahl etwas zu tun haben
+könnten. Wir haben also bereits recht viel erreicht.«
 
 <@pagebreak/>
-Er technisch und sah nach der Nummer des nächsten
-Bengel.
+Er schwieg und sah nach der Nummer des nächsten
+Hauses.
 
 »Warte bitte —« — Und er betrat das Haus, neben
 dessen Tür das Porzellanschild eines Arztes hing,
 
 Ich wußte, was er nun beabsichtigte: er wollte feststellen,
-oh das Taschentuch mit dem Apothekergeruch ihn
+ob das Taschentuch mit dem Apothekergeruch ihn
 vielleicht auf die Spur eines Arztes, Zahnarztes und so
-weiter führen würde, Er nahm eben an, Daß es einem
+weiter führen würde. Er nahm eben an, daß es einem
 Manne gehörte, der hier ansässig war und einen dieser
-Berufe ausübte, Die mit scharf riechenden Medikamenten
+Berufe ausübte, die mit scharf riechenden Medikamenten
 zu tun hatten,
 
 Ich will mich hier nicht lange mit der Schilderung
-dieser Suche nach dem Besitzer des Taschentuches aufhalten,
-Wir Hungerten ganz Schlachtensee ab, Die verschleierte
-Seine Japanerin blieb beständig hinter uns, Wir brach
-¿eten sie nicht. Scgließlich stand auf Haralds Zettel nur
-noch eine Adresse, die eines Zaßntechnikers namens Willi
+dieser Suche nach dem Besitzer des Taschentuches aufhalten.
+Wir klapperten ganz Schlachtensee ab. Die verschleierte
+kleine Japanerin blieb beständig hinter uns. Wir beachteten
+sie nicht. Schließlich stand auf Haralds Zettel nur
+noch eine Adresse, die eines Zahntechnikers namens Willi
 Pronke, der hier nicht praktizierte, sondern in Berlin bei
-einem Zahnarzt beschästig war und hier nur möbliert
-Verbote.
+einem Zahnarzt beschäftigt war und hier nur möbliert
+wohnte.
 
 »Komm jetzt mit,« meinte Hand vor dem Hause,
-das namhaft des Bahnhofs lag. »Willi Pronke kann unser
-Mann sein, her Bannte sagte ja aus dem Gemeindeamt,
-Pronke sei noch manch. Ein älterer Herr trägt solche Ba-isitüchee
-mit buntem Raube kaum. Nur die Jugend ist
-lachst eitel,«
+das unweit des Bahnhofs lag. »Willi Pronke kann unser
+Mann sein. Der Bannte sagte ja auf dem Gemeindeamt,
+Pronke sei noch jung. Ein älterer Herr trägt solche Batsitücher
+mit buntem Rande kaum. Nur die Jugend ist
+meist eitel,«
 
-Wir Leutchen in der zweiten Etage der der Witwe
-Sammler an Dort wohnte Pronke. Seine Visitenkarte
-Albing an der Tür.
+Wir leuteten in der zweiten Etage bei der Witwe
+Kammler an. Dort wohnte Pronke. Seine Visitenkarte
+hing an der Tür.
 
-Eine ältere Frau öffnete, Harst fragte, ob hier ein
+Eine ältere Frau öffnete. Harst fragte, ob hier ein
 möbliertes Zimmer zu haben sei.
 
 »Nein, bedauere —«
 
-»Ich hörte, Herr Tropfte wollte ausziehen —«
+»Ich hörte, Herr Pronke wollte ausziehen —«
 
-»Ah — weil er ohne Ztuellung ist? — Nein, er hat
-mir nichts gesagt sind Sie ein Bekannter von ihm? Er
-ist gestern abend Mitteilt.«
+»Ah — weil er ohne Stellung ist? — Nein, er hat
+mir nichts gesagt. Sind Sie ein Bekannter von ihm? Er
+ist gestern abend verreist.«
 
 <@pagebreak/>
-»Das nicht gerade Ich kenne ihn nur ganz Alichtig
-dem Zahnarzt her, bei dem er arbeitete Uebrigens
-er dort ein Taschentuch vergessen, ein seines Banjtuuch
-ist dunkelblauem Rand »
+»Das nicht gerade. Ich kenne ihn nur ganz flüchtig
+von dem Zahnarzt her, bei dem er arbeitete. Uebrigens
+hat er dort ein Taschentuch vergessen, ein feines Batisttuch
+mit dunkelblauem Rand.«
 
-»Das ist schon möglich. Er ist sehr nachlässig Triebe
-Bücher hat er ein neues Dutzend.«
+»Das ist schon möglich. Er ist sehr nachlässig. Solche
+Tücher hat er ein neues Dutzend.«
 
-Wohin Oft Herr Pronke gereist? Vielleicht würde er
-mir sein Zimmer abtreten Ich soll in frischer Luft wohnen.«
+»Wohin ist Herr Pronke gereist? Vielleicht würde er
+mir sein Zimmer abtreten. Ich soll in frischer Luft wohnen.«
 
-»Wohin, das sagte er nicht. Er nahm aber einen Hand«
-fassen mit und Meute, er würde wohl ein paar Tage fort
-bleiben.«
+»Wohin, das sagte er nicht. Er nahm aber einen Handkoffer
+mit und meinte, er würde wohl ein paar Tage fortbleiben.«
 
-—«Na, dann komme ich später mal wieder - Guten
-Morgen’ —
+»Na, dann komme ich später mal wieder — Guten
+Morgen.« —
 
-Auf der Straße faßte Harst mich unter
+Auf der Straße faßte Harst mich unter.
 
-»nein, was« schmunzelte er »Das nennt man
+»Fein, was« schmunzelte er. »Das nennt man
 Dusel haben. Ungeheuren Dusel. Willi Pronke, zur Zeit
 ohne Stellung, eitel, anspruchsvoll, jung! Da kann er
 aus Mangel an Kleingeld recht gut mal versuchsweise den
-Stege;erlauben gespielt haben! — Aber - was nun?!«
+Straßenräuber gespielt haben! — Aber — was nun?!«
 
 Wir standen vor dem Bahnhof.
 
@@ -508,20 +512,20 @@ Wir standen vor dem Bahnhof.
 Er schwieg plötzlich.
 
 »Nein, wir werden den Stier bei den Hörnern
-packen!« fügte er hinzu »Wir werden den Prinzen aufs
-suchen. Was soll das Versteckspiel zwischen ihm und ums?!
-Seh Werde ihm sagen, daß die Drachengeschichte von mir
-bereits durchschaut ist — Los denn!«
+packen!« fügte er hinzu. »Wir werden den Prinzen aufsuchen.
+Was soll das Versteckspiel zwischen ihm und uns?!
+Ich werde ihm sagen, daß die Drachengeschichte von mir
+bereits durchschaut ist. — Los denn!«
 
-Wir kehrten um, fragten bieten und jenen und kamen
-fihlichlich auch war die richtige Villa, die nur durch drei
-Grundstücke von der Riemers getrennt war Sie lag so,
-daß sie von Brei Seiten von Wald umgeben war, den man
-nicht zum Garten zurechtgestutzt harte, Suppe Pater un
-sehr groß. st
+Wir kehrten um, fragten diesen und jenen und kamen
+schließlich auch vor die richtige Villa, die nur durch drei
+Grundstücke von der Riemers getrennt war. Sie lag so,
+daß sie von drei Seiten von Wald umgeben war, den man
+nicht zum Garten zurechtgestutzt hatte. Dieser Garten war
+sehr groß.
 
-Gleich darauf führte uns ein Japaner in Diener
-Livree von der Pforte in die mittelgroße Villa und in ein
+Gleich darauf führte uns ein Japaner in Dienerlivree
+von der Pforte in die mittelgroße Villa und in ein
 mäßig elegant eingerichtetes Herrenzimmer.
 
 <@pagebreak/>
@@ -529,207 +533,207 @@ mäßig elegant eingerichtetes Herrenzimmer.
 <h2>3. Kapitel.</h2>
 
 Hier brauchten wir nicht lange zu warten. Der Prinz,
-dem »gilt feine alte durch den Treuer hatte überreichen
+dem Harst seine Karte durch den Diener hatte überreichen
 lassen, trat ein.
 
-In tadellosem Englisch begrüßte er uns sehr bodenlos
-bat uns, wieder Plan zu N und sagte zu
-&arald:
+In tadellosem Englisch begrüßte er uns sehr liebenswürdig,
+bat uns, wieder Platz zu nehmen, und sagte zu
+Harald:
 
 »Ihr Name ist mir nicht fremd, Mr. Harst.« Er wollte
 wohl einige Schmeicheleien anschließen, doch Harald fiel
-ihm los Wort.
+ihm ins Wort.
 
-»Das wußte lh, Hoheit. Wenn ich Ihnen fremd ne
-Juwelen hätten Sie ja kaum die Gattin Ihres Adjutanten
-»Manipulationen mit dem Papicrodrachen auch führen
-lassen »
+»Das wußte ich, Hoheit. Wenn ich Ihnen fremd gewesen,
+hätten Sie ja kaum die Gattin Ihres Adjutanten
+die Manipulationen mit dem Papierdrachen ausführen
+lassen.«
 
-Ter elegante Japaner zuckte zusammen.
+Der elegante Japaner zuckte zusammen.
 
-»Ah Sie wissen?« stamu’elle er — Er tat mir
-leid Er war so verblüfft, daß er« geradezu komisch wirkte.
+»Ah — Sie wissen?« stammelte er. — Er tat mir
+leid. Er war so verblüfft, daß er geradezu komisch wirkte.
 
-»Nun, Sie geben alles zu, Hoheit Das klärt die Lage.
-Ich den für Bürge Mir- die logiere die dem früheren
-»plus Riegel in der dorveranmaenen Nacht mit geraubt
-werden, sind von zunterefh für Zier«
+»Nun, Sie geben alles zu, Hoheit. Das klärt die Lage.
+Ich bin für Kürze. Also die Papiere, die dem früheren
+Konsul Riemer in der vorvergangenen Nacht mit geraubt
+wurden, sind von Interesse für Sie?«
 
-Der Prinz hatte sich gefaßt. Er klirrte zu Boden und
+Der Prinz hatte sich gefaßt. Er blickte zu Boden und
 überlegte.
 
-Nun schaute er Harald mit etwas  ceriiwarnnenem
-Kacheln an.
+Nun schaute er Harald mit etwas erzwungenem
+Lächeln an.
 
-»Ja, Mr Harst, Die Papiere sind zur mich wertvoll,«
-lösche er »Wenn Sitze nur dieselben verschaffen, er
-ballten Sie — eine halbe Million,«
+»Ja, Mr. Harst. Die Papiere sind für mich wertvoll,«
+erwiderte er. »Wenn Sie mir dieselben verschaffen, erhalten
+Sie — eine halbe Million,«
 
-»Mark 7» fragte Harald kühl,
+»Mark?« fragte Harald kühl,
 
 »Nein, nein, — wollen sagen — zwei Millionen
 Mark,«
 
 »Und die Papiere sind Ihr Eigentum, Hoheit?«
 
-Sicher. wandte der bring a Kopf zur Seite,
+Wieder wandte der Prinz den Kopf zur Seite,
 
-»Hm das nicht, Mr. Harst Aber sie geben mir
+»Hm — das nicht, Mr. Harst. Aber sie gehen nur
 mich etwas an.«
 
 <@pagebreak/>
-in demselben Augenblick Markte es
+In demselben Augenblick klopfte es.
 
 Der Diener erschien, trat auf den Prinzen zu und
-rte ihm etwas ins Ihr
+flüsterte ihm etwas ins Ohr.
 
-Ich sah, daß diese Meldung den Japaner einte
-doch auch überraschte.
+Ich sah, daß diese Meldung den Japaner erfreute
+und doch auch überraschte.
 
-xr erhob sich frei »Entschuldigen Sie mich litt: ein
-Minuten,« sagte er mit höflicher Verbeugung und
-erriet das Zimnuier, gefolgt von dem Diener, der uns noch
-en eigentümlich sprechenden Blick zuwarf.
+Er erhob sich schnell. »Entschuldigen Sie mich bitte ein
+paar Minuten,« sagte er mit höflicher Verbeugung und
+verließ das Zimmer, gefolgt von dem Diener, der uns noch
+einen eigentümlich forschenden Blick zuwarf.
 
-Wir waren allein Harald schaute mich über den Tisch
-an, der zwischen uns stand, und flüsterte
+Wir waren allein. Harald schaute mich über den Tisch
+an, der zwischen uns stand, und flüsterte:
 
 »Wir haben eine große Dummheit gemacht. Hörtest
-n, daß soeben jemand die Villa betrat« Das wird die
-Javanerin gewesen sein »
+Du, daß soeben jemand die Villa betrat? Das wird die
+Japanerin gewesen sein.«
 
 Ich schüttelte leicht den Kopf. »Dummheit? Welche?«
+
 »Warte nur ab. Wenn der Prinz zurückkehrt, wirst
-es merken.«
+Du es merken.«
 
-Er lehnte sich in den Klubsessel mehr zurück, knöpfte »
-Ulster aus und — ich erschrak etwas und faßte in
-linke Brusttasche seiner Jacke, tat, als holte er- dort
-Taschentuch hervor und nahm zugleich mit diesem die
-eine Clementpistole heraus, legte sie sich in den Schoß
-deckte den Mantel vorüber Dann schneuzte er sich
-hastig, nickte mir ernst zu und freche das Tuch wieder in
-Tasche.
+Er lehnte sich in den Klubsessel mehr zurück, knöpfte
+den Ulster auf und — ich erschrak etwas — und faßte in
+die linke Brusttasche seiner Jacke, tat, als holte er dort
+sein Taschentuch hervor und nahm zugleich mit diesem die
+kleine Clementpistole heraus, legte sie sich in den Schoß
+und deckte den Mantel vorüber. Dann schneuzte er sich
+kräftig, nickte mir ernst zu und steckte das Tuch wieder in
+die Tasche.
 
-Du ging die 2 Zu schon of, und der Diener erschien mit
-jenem Teebrett, auf dem eine kostbare japanische Teekanne
-11s Alisilber und drei silberne winzige Gäßchen standen he
+Da ging die Tür schon auf, und der Diener erschien mit
+einem Teebrett, auf dem eine kostbare japanische Teekanne
+aus Altsilber und drei silberne winzige Täßchen standen.
 
-Aus dem kurzen Halse der Teekanne stieg Damp! auf.
-ie war also gefüllt Drei Tassen dazu der Prinz wollte
-ist See anbieten.
+Aus dem kurzen Halse der Teekanne stieg Dampf auf.
+Sie war also gefüllt. Drei Tassen dazu — der Prinz wollte
+uns Tee anbieten.
 
-Harald Bilde seltsam War Auf das sie Seine
-Augen schroffen sich halb an! seinen Mund zuckte es ironisch,
+Harald blickte seltsam starr auf das Tischchen. Seine
+Augen schlossen sich halb. Um seinen Mund zuckte es ironisch,
 
-Wieder das Geräusch der ausgehenden Tür Diesmal
+Wieder das Geräusch der aufgehenden Tür. Diesmal
 war er der Prinz.
 
-Er re
+Er nahm Platz.
 
 <@pagebreak/>
-»Sie gestatten, daß ich Ihnen einfchente —«
+»Sie gestatten, daß ich Ihnen einschenke —«
 
-er halte feinen Erriet nähergeroltt, füllte die Gäßchen,
-stellte sie vor uns tun,
+Er hatte seinen Sessel nähergerollt, füllte die Täßchen,
+stellte sie vor uns hin,
 
 »Es ist alte Landessitte bei uns, Verhandlungen in
-dieser Weise angenehmer zu gestalten,« sagte er licbens-mnürt
-1g.
+dieser Weise angenehmer zu gestalten,« sagte er liebenswürdig.
 
-Er faßte sein Tasteten etwas geziert an und hob es
-nach uns lin, etwa wie beim Zutrinken.
+Er faßte sein Täßchen etwas geziert an und hob es
+nach uns hin, etwa wie beim Zutrinken.
 
-segelt regte sich nicht. — Der Prinz wurde verlegen,
+Harst regte sich nicht. — Der Prinz wurde verlegen,
 stellte langsam die Tasse wieder hin.
 
 »Es — es ist bester chinesischer Tee, Mr. Harst,« meinte
-er, während fein Gesicht wieder ein harmloses Lächeln
-zeigte
+er, während sein Gesicht wieder ein harmloses Lächeln
+zeigte.
 
 Harst beugte sich vor.
 
-»Ihre Tasse hat ein so, Durchlaucht,« sagte er
-gleichmütig, Direkte die Hand aus und griff rasch nach des
+»Ihre Tasse hat ein Loch, Durchlaucht,« sagte er
+gleichmütig, streckte die Hand aus und griff rasch nach des
 Prinzen Tasse. »Da — ein Loch im Boden — und leer!
-Der Tee ist durch ein Loch in der Oberschicht der Unter
-Tasse in ten Hohlraum dieser bineingefloffen.«
+Der Tee ist durch ein Loch in der Oberschicht der Untertasse
+in den Hohlraum dieser hineingeflossen.«
 
 Hotowatu war grau im Gesicht geworden. Er stierte
 Harst böse an.
 
-»Oh - ein — Versehen,« erklärte er gepreßt.
+»Oh — ein — Versehen,« erklärte er gepreßt.
 
 Harst stand auf, hatte die Clement jetzt in der Linken
-in des Manteltasche.
+in der Manteltasche.
 
 Was nun geschah, ging blitzschnell,
 
-Er griff mit der Rechten nach feinem Gäßchen und —
+Er griff mit der Rechten nach seinem Täßchen und —
 goß einen Teil des Inhalts auf sein Taschentuch, das er
 vorhin auf die breite Lehne des Klubsessels gelegt hatte,
 steckte das feuchte Tuch zu sich, winkte mir mit dem Kopfe
-und sagte zu dem die versteinert dasitzenden Prinzen:
+und sagte zu dem wie versteinert dasitzenden Prinzen:
 
 »Hoheit, diese Tassen mit Loch und hohler Untertasse
-den »schon zu den Requisiten türkischer CGistlieh-aber
+gehörten schon zu den Requisiten türkischer Giftliebhaber
 —«
 
-Ich hatte rasch gleichfalls meine Clement in Die Dinge
-Weltalls genommen Auf mich achtete der Prinz gar nicht.
+Ich hatte rasch gleichfalls meine Clement in die Manteltasche
+genommen. Auf mich achtete der Prinz gar nicht.
 
-Der Meine schlanke Hetorwatu fuhr hebt hoch.
+Der kleine schlanke Hotowatu fuhr jetzt hoch.
 
 <@pagebreak/>
-»Mr. Harst, Sie — he —«
+»Mr. Harst, Sie — Sie —«
 
-Harald nahm die Clement hervor, nahm sie sehr lang:
-die rechte Hand.
+Harald nahm die Clement hervor, nahm sie sehr langsam
+in die rechte Hand.
 
-Bitte, Hoheit, wie ist es mir Mut den Bapıerent
-en Sie sich’s anders überlegt?«
+»Bitte, Hoheit, wie ist es nun mit den Papieren?
+Haben Sie sich’s anders überlegt?«
 
-er Prinz schnappte nach Lust, Aber diese Asiaten
-meist Nerven wie Taue, Er wurde Au Moment Freudig.
-Er lächelte sogar.
+Der Prinz schnappte nach Luft. Aber diese Asiaten
+haben meist Nerven wie Taue. Er wurde im Moment wieder
+ruhig. Er lächelte sogar.
 
-»Sie scheinen diesen kleinen Zwischenfall recht eins:
-schwer,« meinte er »Mein Diener bat aus Ungefch:s
-diese Vexiertasse gewählt, Mr, Saft —«
+»Sie scheinen diesen kleinen Zwischenfall recht ernst
+zu nehmen,« meinte er. »Mein Diener hat aus Ungeschick
+diese Vexiertasse gewählt, Mr. Harst —«
 
-Harst war plötzlich mit zwei Sähen am Fenster Je!,
-je ihm Nun standen Sir nebeneinander, Nun hatten
-»den Krücken gedeckt.
+Harst war plötzlich mit zwei Sätzen am Fenster. Ich
+folgte ihm. Nun standen wir nebeneinander. Nun hatten
+wir den Rücken gedeckt.
 
-Wer Prinz lächelte noch immer. Es war jetzt ein.
-wen, wie es satanisches kaum sein konnte.
+Der Prinz lächelte noch immer. Es war jetzt ein
+Grinsen, wie es satanischer kaum sein konnte.
 
 »Meine Herren,« sagte er sehr laut, »nehmen Sie
-Feder Plan, Es ist besser für Sie - wirxrllich!«
+wieder Platz. Es ist besser für Sie — wirklich!«
 
-ch mußte sofort: der Tee war nicht Das einzige Mit
-das Hotowvatu bereit hatte, um uns hier festzuhalten
+Ich mußte sofort: der Tee war nicht das einzige Mittel,
+das Hotowatu bereit hatte, um uns hier festzuhalten.
 
-Auch Harst fürchtete wohl neue Ueberraschungen
+Auch Harst fürchtete wohl neue Ueberraschungen.
 
-»Seien Sie Ein!« by hl er dem Japaner barschen
-Tones. »Scharren Sie!«
+»Setzen Sie sich!« befahl er dem Japaner barschen
+Tones. »Gehorchen Sie!«
 
 Hotowatu deutete nach rechts — nach der zweiten Tür,
-der ein dicker Fricévo1, ug hing,
+vor der ein dicker Friesvorhang hing,
 
-Aus diesem roten ne lang ragten zwei Nahte her
-— zwei Blasrohre, er’gunte ich auf den ersten Blick
+Aus diesem roten Vorhang ragten zwei Rohre hervor
+— zwei Blasrohre, erkannte ich auf den ersten Blick.
 
-»Mr. Harst,« meinte ver Prinz hohnvoll, »ein Wink
-mir, und die’ vergifteten Blasrohrpfeile werden Ihrer
-der Leben wesentlich verkürzen. Außerdem s.,„. vrau-mein
-Adjutant mit einem Revolver vor den Feuern,
+»Mr. Harst,« meinte der Prinz hohnvoll, »ein Wink
+von mir, und die vergifteten Blasrohrpfeile werden Ihrer
+beider Leben wesentlich verkürzen. Außerdem steht draußen
+mein Adjutant mit einem Revolver vor den Fenstern.
 Die Nachbarn sind gewohnt, daß wir nach der
-Scheibe schienen. L212 Fenster gehen nach- dem Walde
-Ina: — Und drittens« — er machte eine Pause
-Willens hätte ich noch ein stärkeres Mittel, Sie beide unschädlich
-zu Waden, nachher Sie leider den Tee nicht getrunken
+Scheibe schießen. Die Fenster gehen nach dem Walde
+hinaus. — Und drittens« — er machte eine Pause —
+»drittens hätte ich noch ein stärkeres Mittel, Sie beide unschädlich
+zu machen, nachdem Sie leider den Tee nicht getrunken
 <@pagebreak/>
 haben, der Sie nur betäubt hätte. Dieses dritte
 Mittel ist — dort oben.«
@@ -739,17 +743,17 @@ Er zeigte zur Decke empor.
 Unwillkürlich schauten wir nach oben.
 
 Dies benutzte der geriebene Japaner dazu, mit einem
-langen Sprung die andere Tür zu erreichen, Sie schlug
+langen Sprung die andere Tür zu erreichen. Sie schlug
 hinter ihm zu.
 
 Harst hatte den Arm gehoben, hatte gezielt, doch nicht
 abgedrückt.
 
-sei vom Vorhang her eine andere Stimme:
+Jetzt vom Vorhang her eine andere Stimme:
 
-»Mr, Harst, hätten Sie geschossen, so —«
+»Mr. Harst, hätten Sie geschossen, so —«
 
-Der Saß wurde nicht beendet. Er war auch so Hart
+Der Satz wurde nicht beendet. Er war auch so klar:
 Blasrohrpfeile!
 
 Harald lachte ärgerlich auf,
@@ -757,486 +761,483 @@ Harald lachte ärgerlich auf,
 »Was wünschen Sie dem eigentlich von uns?«
 
 »Daß Sie sich vorläufig ruhig verhalten, bis die Polizei
-»da he
+da ist.«
 
-Harst zuckte die Achseln. »Mir solle recht sein! Wenn
-der Prinz glaubt, daß die Polizei ihm beistehen wird, im
-er sich »
+Harst zuckte die Achseln. »Mir soll’s recht sein! Wenn
+der Prinz glaubt, daß die Polizei ihm beistehen wird, irrt
+er sich.«
 
 Er kreuzte die Arme über der Brust und schwieg.
 
 Wir hörten nun sehr bald von der Vorderseite das
-Geräusch eines sich aniennenpden Autos,
+Geräusch eines sich entfernenden Autos,
 
 Wir warteten,
 
-Die Blasrohr. Birmanen drohten weiter,
+Die Blasrohrmündungen drohten weiter,
 
 So vergingen gut fünf Minuten,
 
 Plötzlich ließ Harst — wir lehnten am Fensterbrett —
-die Arme sinken und schaute mich an
+die Arme sinken und schaute mich an.
 
 »Merkst Du was?« fragte er hastig.
 
-Er deutete mit vor Clement aus den Vorhang.
+Er deutete mit der Clement auf den Vorhang.
 
-Die Lloërobre drohten noch immer.
+Die Blasrohre drohten noch immer.
 
-»Wenn zu dort erkanntest und ums bewachtest, mein
-Alter, wiroch zu da die Virzrobre so still halten Tonnen,
+»Wenn Du dort ständest und ums bewachtest, mein
+Alter, würdest Du da die Blasrohre so still halten können,
 daß der Vorhang sich nicht die Spur bewegt?!« fügte er
 hinzu. »Vorhin bewegte er sich noch. Dann nicht mehr!«
 
 <@pagebreak/>
-»Und er trinkt aus den roten Irre ¿vorbang zu und -
-ib He angeblichen Bl stak.re heraus,
+Und er schritt auf den roten Friesvorhang zu und —
+riß die angeblichen Blasrohre heraus,
 
-Es waren runde, braun schellte - Gardinenftangen,
-an den Enden Leer zum Einschrauben von Holz-wöpien
+Es waren runde, braun gebeizte — Gardinenstangen,
+die an den Enden Löcher zum Einschrauben von Holzknöpfen
 hatten!
 
 »Die Bande!« meinte Harald. »Uns so hineinzulegen!
-un sind sie ausgerüct!«
+Nun sind sie ausgerückt!«
 
-Die Stangen hatten in den Vorhonolöchern vorn einen
-Slügpunft gehabt und waren hinten auf eine Erwischten
-belegt gewesen, die in der geöffneten Tür stand. —
+Die Stangen hatten in den Vorhanglöchern vorn einen
+Stützpunkt gehabt und waren hinten auf eine Trittleiter
+gelegt gewesen, die in der geöffneten Tür stand. —
 
 Die Villa war leer.
 
 <h2>4. Kapitel.</h2>
 
-Als wir um ein Uhr nachmittags daheim wird. anlangten,
-nachdem wir noch auf der japanischen Vor’chaft
-erbeten waren, fanden wir Freund Beckens in der Voran
+Als wir um ein Uhr nachmittags daheim wieder anlangten,
+nachdem wir noch auf der japanischen Botschaft
+gewesen waren, fanden wir Freund Bechert in der Veranda
 vor, der sich mit Haralds Mutter unterhielt.
 
-»Harst, ich habe da soeben eine Depesche aus Ebene
-Halde von meinem Freunde Ringler, dem da So:
-Nizeiinfpeltor, erhalten,« begann Becher! sofort. »Heute früh
-ach! Uhr ist von Waldarbeitern ein toter Zigeuner alias
-Hunden worden. Der Mann ist ermordet — Durch einen
-chrotschuß in den Hals. »malen bat wen Amt Tatorte,
-er Versichert, etwas sehr Merkwürdiger entdeckt. Was
+»Harst, ich habe da soeben eine Depesche aus Eberswalde
+von meinem Freunde Ringler, dem dortigen Polizeiinspektor,
+erhalten,« begann Bechert sofort. »Heute früh
+acht Uhr ist von Waldarbeitern ein toter Zigeuner aufgefunden
+worden. Der Mann ist ermordet — durch einen
+Schrotschuß in den Hals. Ringler hat nun am Tatorte,
+wie er depeschiert, etwas sehr Merkwürdiger entdeckt. Was
 — verschweigt er. Er bittet mich aber, mir den Tatort
-einmal anzusehen. Bauen Sie mit?«
+einmal anzusehen. Wollen Sie mit?«
 
-Harst schaute zu L ‘© er! vorbei durch das offene he
-Autofenster auf die Kındanfronen, nickte und Pistazie;
+Harst schaute an Bechert vorbei durch das offene Verandafenster
+auf die Lindenkronen, nickte und meinte:
 
-»Eberswalde! a da alten wir mich«
+»Eberswalde! Ja, da fahren wir mit!«
 
-Ein Auto brachte uns n einer Zuge ab der 1dyl:
-riechen Hinkt, brutal As Wellen Nerbleeftie Die An he
-Rand eines Waldes, wo wir ausstiegen und von Jnspelk-tor
-Ringler von dem Landwege an den Rand einer Empörung
-getötet wurden.
+Ein Auto brachte uns in einer Stunde nach der idyllischen
+Stadt, brachte uns weiter nordwestlich bis an den
+Rand eines Waldes, wo wir ausstiegen und von Inspektor
+Ringler von dem Landwege an den Rand einer Schonung
+geführt wurden.
 
 <@pagebreak/>
-Hier dicht neben einer verwitterten Bart aus Vuchen-holz
+Hier dicht neben einer verwitterten Bank aus Buchenholz
 am Rande einer Böschung lag der von zwei Polizeibeamten
 bewachte Tote.
 
 Ringler hatte uns bereits mitgeteilt, daß er mit dem
-Polizeibund nichts ausgerichtet hätte und daß auf dem
+Polizeihund nichts ausgerichtet hätte und daß auf dem
 harten Boden keinerlei Spuren zu bemerken gewesen.
 
 Harst trat nun allein an die Leiche heran.
 
 Der Tote war vielleicht dreißig Jahre alt, hatte einen
 kleinen schwarzen Schnurrbart, wirres dunkles Haar und
-trug ein etwas phantastisches Zigeunerkostüm, recht des
-schabt, aber sauber. Hals und Kinn bildeten samt dem
-rot seidenen Halstuch eine einzige braunschwarze, zeige te
-Masse, — geronncnes, versärbies Blut.
+trug ein etwas phantastisches Zigeunerkostüm, recht beschabt,
+aber sauber. Hals und Kinn bildeten samt dem
+rotseidenen Halstuch eine einzige braunschwarze, zerfetzte
+Masse, — geronnenes, verfärbtes Blut.
 
-Haralds Untersuchung dauerte nicht fange. Er War
-neben der Leiche nicdergekniect und wandte nun den ch9]
+Haralds Untersuchung dauerte nicht lange. Er war
+neben der Leiche niedergekniet und wandte nun den Kopf
 nach uns hin, die wir ihn aufmerksam beobachtet hatten.
 
-»Was haben Sie Merkwürdiges gefunden, Herr Winselt?«
-fragte er nun, denn der Antreffen hatte sich bienüser
+»Was haben Sie Merkwürdiges gefunden, Herr Ringler?«
+fragte er nun, denn der Inspektor hatte sich hierüber
 bisher in Schweigen gehüllt,
 
-Ki »a Und Ringler reichte Harst etwas winziges
-erstes
+»Dies!« Und Ringler reichte Harst etwas winziges
+Weißes.
 
 Hast erhob sich, legte das Weiße in die flache Hand
 und sagte:
 
 »Die Krone eines Vorderzahns —«
 
-»Ja — eines angestoclten,« fügte Ringler hinzu, »Dort
-lag der Zahn.« Und er deutete links neben den Toten uns
-ter die Bank.
+»Ja — eines angestockten,« fügte Ringler hinzu. »Dort
+lag der Zahn.« Und er deutete links neben den Toten unter
+die Bank.
 
-»Sie nehmen an, laß es das Stück eines Zahnes des
+»Sie nehmen an, daß es das Stück eines Zahnes des
 Mörders ist, Herr Ringler?« fragte Harald.
 
-»Ja. Gc denke, der Ermordete wird sich gewehrt
-haben. Vielleicht hat er dem Mörder den Bahn ausgeschlagen,«
+»Ja. Ich denke, der Ermordete wird sich gewehrt
+haben. Vielleicht hat er dem Mörder den Zahn ausgeschlagen,«
 
-»Sind denn Zi eurer in dieser Gegend in den leiten
-Tagen gesehen wohnen?« fragte Harst weiter,
+»Sind denn Zigeuner in dieser Gegend in den letzten
+Tagen gesehen worden?« fragte Harst weiter,
 
-»Ein kleiner Trupp kam gestern durch die Stadt, zwei -
-Wagen. Ach habe diese Zigeuner Leiter noch nicht Anschein
+»Ein kleiner Trupp kam gestern durch die Stadt, zwei
+Wagen. Ich habe diese Zigeuner leider noch nicht aufstöbern
 <@pagebreak/>
 können. Aber es wird nach Ihnen gesucht.«
 
-Harst steckte den Hahn in die Tasche
+Harst steckte den Zahn in die Tasche.
 
-»Sie können die bei e wegschaffen lassen, Herr ging
-Die Geridrsfonimulten war ja bereits hier. Ich
-he, wenn Sir gestatten, den Nord auf meine Weise un
-stachen. Der Mann hier ist erst heute früh erschossen
-Orden, Oder hat der Gerichtsarzt ctna anderes angezogen?«
+»Sie können die Leiche wegschaffen lassen, Herr Ringler.
+Die Gerichtskommision war ja bereits hier. Ich
+werde, wenn Sie gestatten, den Mord auf meine Weise untersuchen.
+Der Mann hier ist erst heute früh erschossen
+worden. Oder hat der Gerichtsarzt etwas anderes angenommen?«
 
-»Nein, Herr Harst, heute erinnern sechs und sieben
-Morgens, sagte der Sanitätsrat.«
+»Nein, Herr Harst, heute zwischen sechs und sieben
+morgens, sagte der Sanitätsrat.«
 
-Eine Viertelsinde drauf waren wir bei der Buchen-al
-f allein, Es dämmerte fern, Harald hatte erklärt, wir
-Färben zu Fuß nach Eberswalde zurüesfchren. Ringler
-und Becher! sollten nur vorauésabren.
+Eine Viertelstunde drauf waren wir bei der Buchenbank
+allein. Es dämmerte schon. Harald hatte erklärt, wir
+würden zu Fuß nach Eberswalde zurückkehren. Ringler
+und Bechert sollten nur vorausfahren.
 
-Mir fehlen uns auf die Bank, Harst gab mir eine
-rette, reihte mir das brennende he
+Wir setzten uns auf die Bank. Harst gab mir eine
+Zigarette, reichte mir das brennende Zündholz.
 
-»Na, mein Alter, nun rede!« meinte er Der Fall
-ja erledigt, Der Mörder ist nur nach zu wo lag
+»Na, mein Alter, nun rede!« meinte er. »Der Fall
+ist ja erledigt. Der Mörder ist nur noch zu verhaften.«
 
-schaute ihn von der Seite an »Tor! In wer
+Ich schaute ihn von der Seite an »So?! Und wer
 ist’s?«
 
-Sie Riemer —«
+»Otto Riemer —«
 
-»Riemer — der — der Konsul a, D?
+»Riemer — der — der Konsul a. D.?«
 
 »Ja —«
 
 Ein altes Weiblein, ein Bündel Reisig auf dem Rücken,
-am vorüber, wünschte uns guten Abend und wollte weiter
+kam vorüber, wünschte uns guten Abend und wollte weiter.
 
 Harst sprach sie an. »Einen Augenblick —« — Er
-Rahm einen Fünfhundertmarkschein, »Da, Mutter, Ihr
-onnt’a wohl brauchen —«
+nahm einen Fünfhundertmarkschein. »Da, Mutter, Ihr
+könnt’s wohl brauchen —«
 
-»Und ob!« Sie strahlte, »auf auch vielmals, Herr
-Dort lohn’3!«
+»Und ob!« Sie strahlte. »Dank’ auch vielmals, Herr.
+Gott lohn’s!«
 
-»Sagen Sie, wem gehört hier der Wald?« fragte Haie
-zutraulich, »Wohl dem Gutsbvesißer Riemer,
-spie
+»Sagen Sie, wem gehört hier der Wald?« fragte Harald
+zutraulich. »Wohl dem Gutsbesitzer Riemer,
+wie?«
 
-ans her
+»Ja Herr —«
 
-»so liegt das Gutéhaus?«
+»Wo liegt das Gutshaus?«
 
 <@pagebreak/>
-»Drüben hinter dem Buchenwalde. Herr. »ne Viertels
-gesunde ist’s bis dahin.«
+»Drüben hinter dem Buchenwalde, Herr. ’ne Viertelstunde
+ist’s bis dahin.«
 
 »Da seid Ihr wohl kreuz und quer gegangen, Mutter?
-naht Ihr vielleicht Zigeuner gesehen — zwei Wagen?«
+Habt Ihr vielleicht Zigeuner gesehen — zwei Wagen?«
 
-»Und ob, und ob, Herr. Vor ’ner Kälbern Stunde
-China. Sie lagerten. Ich machte, daß ich wegkam. Sir
-schlechtes Wall, Herr. Stiehlt und spürend herum.«
+»Und ob, und ob, Herr. Vor ’ner halben Stunde
+etwa. Sie lagerten. Ich machte, daß ich wegkam. Ist
+schlechtes Volk, Herr. Stiehlt und gaunert herum.«
 
-»Würdet Uhr uns mal hinführen, Mutter? Ich habe
+»Würdet Ihr uns mal hinführen, Mutter? Ich habe
 noch nie Zigeuner aus der Nähe gesehen. Ihr bekommt
-auch noch fünsbhundert Mark, Mutter.«
+auch noch fünfhundert Mark, Mutter.«
 
 »Gern, Herr, sehr gern —« —
 
-Sie wußte im Walde sehr gut Bescheid. Auf Haralds3
-besorgte Frage, ob sie denn auch in der Dunkelheit zurinf-finden
+Sie wußte im Walde sehr gut Bescheid. Auf Haralds
+besorgte Frage, ob sie denn auch in der Dunkelheit zurückfinden
 würde, meinte sie:
 
-»Herr, wer sich hier feil labten sein bißchen Fenerung
-zusammensammelt, der weiß Pier auch nachts Bescheid.«
+»Herr, wer sich hier seit Jahren sein bißchen Feuerung
+zusammensammelt, der weiß hier auch nachts Bescheid.«
 
-Weiter erfuhren wir von ihr auch den Rauen des
-Gutes des Konsuls, Buch England, und daß Riemer das
-Gut erst zwei Jahre besäße Ueber ihn folgst konnte sie
-ritzte angeben nur das: er Leidenschaftlicher Jäger war
+Weiter erfuhren wir von ihr auch den Namen des
+Gutes des Konsuls, Buchengrund, und daß Riemer das
+Gut erst zwei Jahre besäße. Ueber ihn selbst konnte sie
+nichts angeben. Nur daß er leidenschaftlicher Jäger war
 und gegen Holzdiebe sehr streng, das sei hier bekannt. Sie
-liebem ans ihm öêsicrs im Walde Gegen alte Leute sei er
+begegne ihm öfters im Walde. Gegen alte Leute sei er
 nachsichtig.
 
-Dann blieb sie stehen »So, wenn die Herren nun hier
-diesen Pfad munter geradeaus gehen, werden Sie an eine
-Famoser drinnen.« erklärte sie »An der Schnelle zehn
-lernt in »vi hieb da lagern die Zigeuner auf Eis
-ner Lichnung
+Dann blieb sie stehen. »So, wenn die Herren nun hier
+diesen Pfad immer geradeaus gehen, werden Sie an eine
+Schneise kommen,« erklärte sie. »An der Schneise gehn
+Sie rechts in den Wald. Da lagern die Zigeuner auf einer
+Lichtung.«
 
-Wir Fortan Im uns Harald gab ihr tausend Mark
-statt der vereint »ten fünfhundert, und, von den freudigen
-Dankesworten drei Weibleins etwas gerührt, selten wir
+Wir bedankten uns. Harald gab ihr tausend Mark
+statt der vereinbarten fünfhundert, und, von den freudigen
+Dankesworten des Weibleins etwas gerührt, setzten wir
 unseren Weg fort.
 
-Bald stammelte dann auch der Schein eines fkleiven
-Feuers durch die hier recht dicken Haselbübe Wir
-fanden Nähe. Ran; behuiam, frechen das Leute Stück,
-Horn er komme, Die sehr laut van einarinalich fang,
+Bald schimmerte dann auch der Schein eines kleinen
+Feuers durch die hier recht dicken Haselbüsche. Wir
+schlichen näher, ganz behutsam, krochen das letzte Stück,
+hörten eine Stimme, die sehr laut und eindringlich klang,
 <@pagebreak/>
-steten uns hinter einem Strauche auf und sahen zu uns
-rx Ueberraschung den Konsul a. D. Riemer im Jagd-anzug
+richteten uns hinter einem Strauche auf und sahen zu unserer
+Ueberraschung den Konsul a. D. Riemer im Jagdanzug
 mit umgehängter Flinte vor einem Zigeuner und
-er Zigeunerin stehen, die neben dem Feuer im Grase
+einer Zigeunerin stehen, die neben dem Feuer im Grase
 saßen.
 
-Der Zigeuner hatte den sinken Arm auf die Erde jetzt
+Der Zigeuner hatte den linken Arm auf die Erde gestützt
 und rauchte eine Pfeife mit langem Mundstück. Die
-zu aber hatte das Gesicht in den Händen vergraben und
-en zu weinen.
+Frau aber hatte das Gesicht in den Händen vergraben und
+schien zu weinen.
 
-Riemer schwieg jetzt. Er Behagte den Zigeuner fra«
-er machte dann eine ungeduldige Handbewegung
-Serie
+Riemer schwieg jetzt. Er schaute den Zigeuner fragend
+an, machte dann eine ungeduldige Handbewegung
+und rief:
 
 »Ihr seid ein Narr, Mann! Eure beiden Wagen samt
-alt und die Gäule sind nicht die Hälfte wert!«
+Inhalt und die Gäule sind nicht die Hälfte wert!«
 
 Die Frau ließ jetzt ihr Gesicht sehen. »Jankel,« sagte
-in, ihrem Manne, »Jankel, ins! Ein so schönes Stüc
-Ei«
+sie zu ihrem Manne, »Jankel, tu’s! Ein so schönes Stück
+Geld!«
 
-Riemer 308 feine Brieftasche hervor »Ach lege noch
-50 000 Mark zu,« erklärte er »Nun, entweder - oder!«
+Riemer zog seine Brieftasche hervor. »Ich lege noch
+250 000 Mark zu,« erklärte er. »Nun, entweder — oder!«
 
 Da nickte der Zigeuner. »Gut denn, Herr. Es sei!«
 
 »Und Ihr verlaßt mit Euren Kindern sofort diese
-regend ganz heimlich und fehlt niemals zurück!« sagte
+Gegend ganz heimlich und kehrt niemals zurück!« sagte
 Riemer fast drohend.
 
-»Gut, gut, Herr Wir nehmen nur das Nötigste mit
-verwischen wird ja auch unser ältester Sohn sich wieder
-eingefunden haben. Wir pudern gleich zusammen, was
+»Gut, gut, Herr. Wir nehmen nur das Nötigste mit.
+Inzwischen wird ja auch unser ältester Sohn sich wieder
+eingefunden haben. Wir packen gleich zusammen, was
 nötig ist!«
 
-Jankel und fein Weib schritten zu den Wagen. Riemer
-Bette sich auf einen Baumstumps. —
+Jankel und sein Weib schritten zu den Wagen. Riemer
+setzte sich auf einen Baumstumpf. —
 
-Ich durliscuuw Riemer: der Ermordete konnte nur der
+Ich durchschaute Riemer: der Ermordete konnte nur der
 älteste Sohn des Ehepaares sein, und Riemer wollte die
-icht8ahnenden Eltern mit schien anderen Kindern nun
+nichtsahnenden Eltern mit ihren anderen Kindern nun
 schnell von hier entfernen, bevor sie etwas von dem Tode
-Sohnes erfuhren
+des Sohnes erfuhren.
 
 Doch — wie verkehrt diese Annahme war, sollte ich
-Heu in den nächsten Minuten einsehen.
+schon in den nächsten Minuten einsehen.
 
 <@pagebreak/>
 Plötzlich betrat ein schlanker, kaum achtzehnjähriger
-Bursche die Lichtung, Jankel rief ihn sofort an.
+Bursche die Lichtung. Jankel rief ihn sofort an.
 
 »Komm, hilf uns, Matthis, — rasch!«
 
-So war dieser Matthis also der Erwartete, — Wer
+So war dieser Matthis also der Erwartete. — Wer
 aber war der Tote?! Ich hätte Harald so gern einiges
-gefragt. Ich wagte es nicht, Riemer ging jetzt ungeduldig
+gefragt. Ich wagte es nicht. Riemer ging jetzt ungeduldig
 auf und ab, und Harst hatte mir warnend zugeraunt:
 »Achtung — daß wir jeden Augenblick verschwinden
 können!«
 
-Endlich war die Gesellschaft dann fertig, Jeder trug
+Endlich war die Gesellschaft dann fertig. Jeder trug
 ein mächtiges Bündel auf dem Rücken. Selbst der kleinste
 Knirps schleppte sich mit einem gefüllten Sack.
 
 Riemer bezahlte nun Jankel den Kaufpreis für die
-Wagen, Vision und Geschirre Ich traute meinen Ohren
-ah. es waren zwei und eine Viertel Million!
+Wagen, Pferde und Geschirre. Ich traute meinen Ohren
+nicht. Es waren zwei und eine Viertel Million!
 
-Die Bande verschwand Im Gänsemarsch, der Sohn
-Matthis als leckten, tauchten sie im Dunkel des Waldes
-unter
+Die Bande verschwand im Gänsemarsch, der Sohn
+Matthis als letzter, tauchten sie im Dunkel des Waldes
+unter.
 
 »Warte!« raunte Harald mir zu.
 
-dann Schild er davon, war im Nu mir aus Peru
-Jungen
+Dann schlich er davon, war im Nu mir aus den
+Augen.
 
-Ich ahnte: er wollte den grün nach! — Weshalb
-vor? Der tote Zigeuner mußte doch zu einem anderen
-41upp geboren! —
+Ich ahnte: er wollte den Zigeunern nach! — Weshalb
+aber? Der tote Zigeuner mußte doch zu einem anderen
+Trupp gehören! —
 
-An regste mich jetzt unter den Busch ins Gras,
+Ich legte mich jetzt unter den Busch ins Gras,
 
-Riemer sah nach der Uhr, Seit dem Abmarsch der
-Bonne Mochte etwa eine Viertelstunde vergangen sein,
+Riemer sah nach der Uhr. Seit dem Abmarsch der
+Bande mochte etwa eine Viertelstunde vergangen sein,
 
-Er erhob sich. — Die beiden Wagen waren ancinander-nnmen
-Den hinteren Wagen, ein nur kleines Kasten-wayeleten
-mit Leinentuch, schob er etwas zurück, Dann
-spannte er vor jeden Magen einen der Gäule.
+Er erhob sich. — Die beiden Wagen waren aneinandergebunden.
+Den hinteren Wagen, ein nur kleines Kastenwägelchen
+mit Leinendach, schob er etwas zurück. Dann
+spannte er vor jeden Wagen einen der Gäule.
 
 Und nun geschah das, was ich nicht begreifen konnte:
 er führte den einen Wagen durch den Wald auf einen
-Gnaden Feldweg, Ich blieb hinterdrein, Und gerade gab
-Riemer legt mit dem Gaul und dem Wagen querfeldein Sie
-jenem dunklen Geländestrich, der durch die aufgeschichteten
+nahen Feldweg. Ich blieb hinterdrein. Und gerade als
+Riemer jetzt mit dem Gaul und dem Wagen querfeldein einem
+dunklen Geländestrich, der durch die aufgeschichteten
 <@pagebreak/>
-Pausen Leicht als See an erfolgen war, aufhielte,
-mir Ter flüchtige € »Sank, Riemer könne die Wagen
-die Pferde Freiheit 14 dort in einem wassergesüllteu
-orsstichloche versenken,
+Torfhaufen leicht als Torfbruch zu erkennen war, zustrebte,
+kam mir der flüchtige Gedanke, Riemer könne die Wagen
+und die Pferde vielleicht dort in einem wassergefüllten
+Torfstichloche versenken,
 
-»Was sollte ich tun? Ihn daran hindern? — Durfte
-Kies? Verrieb ich so nicht unsere Anwesenheit?
+Was sollte ich tun? Ihn daran hindern? — Durfte
+ich dies? Verriet ich so nicht unsere Anwesenheit?
 
-ch lag jetzt hinter Den Buschstreifen eines Feldrains.
-gab, wie Riemer rein Sterne ¿lö lich mit dem Flinten-in
-die Weichen Stich, wie der arme Gaul mit dem
-Magen blindlinçch vorn alte rate
+Ich lag jetzt hinter den Buschstreifen eines Feldrains.
+Ich sah, wie Riemer dem Pferde plötzlich mit dem Flintenkolben
+in die Weichen stieß, wie der arme Gaul mit dem
+Wagen blindlings vorwärtsraste.
 
-»Dann waren Fjord und he gen plöôulih verschwun-wic
-weggewischt,
+Dann waren Pferd und Wagen plötzlich verschwunden,
+wie weggewischt,
 
-Also doch! Bremsen dazu sie versenkt!
+Also doch! Riemer hatte sie versenkt!
 
-Er eilte schon wir er Vl Walde zu, Mich dauerte
-Ausweise Pferd. Sir ich +? el. winkte ersäufen lassen?
+Er eilte schon wieder dem Walde zu. Mich dauerte
+das zweite Pferd. Sollte ich es ebenfalls ersäufen lassen?
 
-Wenn Mr ja Na er Willens he by
-vorher von seinen Wenn oft ist genau Unternehmer.
-Tau eure Grau Nr so gen. Bl
-zu Inserat!
+Wenn nur Harald dagewesen wäre! Wenn er mich
+nur vorher von seinen Verdachtsgründen genau unterrichtet
+hätte! Dann wäre es mir leicht gewesen, einen Entschluß
+zu fassen!
 
-zu. ran Takte, Seine Neu Co na ich
-handelt rot: Riemer nahte in Tiwa He Pferde und
-ı Mäpgelchem.
+Ich war an derselben Stelle stehengeblieben. Und ich
+behielt recht: Riemer nahte mit dem zweiten Pferde und
+dem Wägelchen.
 
-Genau dasselbe wie vorhin geschah na, mir vor Eis
-offenen Harstsche: der wie Sanft »Gram ein paar
-he Keil Erlös,e und jagte weither Teil Tue entgegen,
-freie samt dem Wagen über Der Rande der senkrechten
-otswandp in die braune feuchte Tiefe. —
+Genau dasselbe wie vorhin geschah nun, nur vor einem
+anderen Torfloche: der arme Gaul bekam ein paar
+rohe Kolbenstöße und jagte weiter — dem Tode entgegen,
+stürzte samt dem Wagen über den Rand der senkrechten
+Torfwand in die braune feuchte Tiefe. —
 
-zu ie Sand berührte meinen Arm.
+Eine Hand berührte meinen Arm.
 
-Harst -!
+Harst —!
 
-Er nickte mir zu. »Jeu sah noch Das Ende vertrug
-tun Chef
+Er nickte mir zu. »Ich sah noch das Ende der Tragödie,«
+flüsterte er.
 
-= Binnen mir dritter ne
+»Ja — die armen Tiere! Hättest Du nicht wieder wie
+stets Geheimniskrämerei getrieben, dann —«
 
-en diesen Tod tief czspuerca formen. je gebt hier um mehr
-um den einen Ward
-
-nun die im en Tiere! Hättest zu nicht wichen wie,
-XX
-
-Verlud) Gemach, mein Alter! Ach hätte den Pferd
+»Gemach — gemach, mein Alter! Ich hätte den Pferden
+diesen Tod nicht ersparen können. Es geht hier um mehr
+als um den einen Mord.«
 
 <@pagebreak/>
-einer stand am Rande des Torsstihs und wandte
-sich trat abermals: dem Walde zu. Wir schlichen ihm nach
-Er wirf trockene Aeste auf das Feuer und suchte nun na
-Möglich Zeit die Spuren des Lagerplatzes zu beseitigen,
-verbranmte von den Zigeunern weggeworfene Lumpen,
-fragte den Yierdedinger auseinander und deckte schließlich
+Riemer stand am Rande des Torfstichs und wandte
+sich jetzt abermals dem Walde zu. Wir schlichen ihm nach.
+Er warf trockene Aeste auf das Feuer und suchte nun nach
+Möglichkeit die Spuren des Lagerplatzes zu beseitigen,
+verbrannte von den Zigeunern weggeworfene Lumpen,
+kratzte den Pferdedünger auseinander und deckte schließlich
 das Feuer mit Erde und Laub zu.
 
 Dann schritt er davon — pfeifend, vergnügt pfeifend.
 
-Die schritten Tone des Markise, den er pfiff, entfsern-ten
-sich, kerftummiten.
+Die schrillen Töne des Marsches, den er pfiff, entfernten
+sich, verstummten.
 
 Harst richtete sich hinter den Büschen auf.
 
-»So — nun haben wir ihn!« meinte er. »armer
-den wir nach dem Dorfe Buchengrund geben und von da
-nach Gheröwalde telephonieren.«
+»So — nun haben wir ihn!« meinte er. »Nun werden
+wir nach dem Dorfe Buchengrund gehen und von da
+nach Eberswalde telephonieren.«
 
-»Und - wer ist der Tote?« fragte ich gereist Ach
-warx es satt, im Dunkeln zu tappen.
+»Und — wer ist der Tote?« fragte ich gereizt. Ich
+war es satt, im Dunkeln zu tappen.
 
-»Weißt zu es wirklich nicht, lieber Alter? Ich hege,
-die Sache liegt doch so Hai. Wir waren doch heute mit
-2g auf der japanischen Botschaft in Berlin und sprachen
-mit einem Barsch gelernt über den Pilgern Hotowatu,«
+»Weißt zu es wirklich nicht, lieber Alter? Ich denke,
+die Sache liegt doch so klar. Wir waren doch heute mittag
+auf der japanischen Botschaft in Berlin und sprachen
+mit einem Botschaftsrat über den Prinzen Hotowatu,«
 
-»Allerdings zu erklärtest dem Herrn, daß die Frau
-des Ntijutanten des Grinsen nach uns bei der Wirtin des
-gebot ämtifers Willi Pronke gewesen sei und von dieser
-genau daéselbe erfahren habe, was wir aus ihr heraus
-abloten daß Pronke das Batistuch gehöre und daß er
+»Allerdings. Du erklärtest dem Herrn, daß die Frau
+des Adjutanten des Prinzen nach uns bei der Wirtin des
+Zahntechnikers Willi Pronke gewesen sei und von dieser
+genau dasselbe erfahren habe, was wir aus ihr herauslockten,
+daß Pronke das Batisttuch gehöre und daß er
 gestern abend verreist sei,«
 
-»0 — und ich fügte hinzu: »Während wir mit dem
-Prinzen berbantilin kehrte diese Japanerin zurück, ließ Hotowatu
-herauèzrufen und teilte ihm mit, daß Pronke den
-Ei ansah beraubt habe Daraufhin beschloß der Prinz, der
-nun Durch ans, ganz wie er gehofft hatte, auf die Spur des
-Straßınränbers und des- jetzigen Besitzers der Papiere
-geleiten worden war uns für ewige Zeit auszuschaältien.
-Er wollte uns dürr den Tee betäuben und in der Villa bis
-auf Briefes gefangen Zaun, bis er eben die Papiere
-Trank abgenommen und sich und sein befolge in Sicherheit
+»Ja — und ich fügte hinzu: »Während wir mit dem
+Prinzen verhandelten, kehrte diese Japanerin zurück, ließ Hotowatu
+herausrufen und teilte ihm mit, daß Pronke den
+Konsul beraubt habe. Daraufhin beschloß der Prinz, der
+nun durch uns, ganz wie er gehofft hatte, auf die Spur des
+Straßenräubers und des jetzigen Besitzers der Papiere
+geleitet worden war, uns für ewige Zeit auszuschalten.
+Er wollte uns durch den Tee betäuben und in der Villa bis
+auf weiteres gefangen halten, bis er eben die Papiere
+Pronke abgenommen und sich und sein Gefolge in Sicherheit
 <@pagebreak/>
-acht a. Ich rate Ihnen daher, sofort in 7 Span
-áphisch anzufragen, ob nicht etwa ein Betrüger hier
-Prinzen gespielt he - So sprach ich zu dem Herrn —«
+gebracht hatte. Ich rate Ihnen daher, sofort in Japan
+telegraphisch anzufragen, ob nicht etwa ein Betrüger hier
+den Prinzen gespielt hat.« — So sprach ich zu dem Herrn —«
 
-ir war jetzt plötzlich ein Licht ausgegangen,
+Mir war jetzt plötzlich ein Licht ausgegangen,
 
-»Harald — der Zigeuner ist Pronke!« rief ith Teile,
+»Harald — der Zigeuner ist Pronke!« rief ich leise.
 
-a, mein Alter. Und der angesichts Zahn fehlt in
-Aktes Mund, Es ist ein Zahn, der plombiert war sie
-Bier mit Goldplomben sind immerhin eine Seltenheit.
-Ußerdem waren des Zigeuners Hände trotz des Schmarre
-v3 gepflegt.«
+»Ja, mein Alter. Und der angestockte Zahn fehlt in
+Pronkes Mund. Es ist ein Zahn, der plombiert war. Zigeuner
+mit Goldplomben sind immerhin eine Seltenheit.
+Außerdem waren des Zigeuners Hände trotz des Schmutzes
+tadellos gepflegt.«
 
-ch wär durch diese Falle von Eröffnungen ganz beten.
+Ich war durch diese Fülle von Eröffnungen ganz benommen.
 
-Harst 309 mich weiter, »Gehen wir. Unsere Arbeit
-oh nicht getan«
+Harst zog mich weiter. »Gehen wir. Unsere Arbeit
+ist noch nicht getan.«
 
 <h2>5. Kapitel.</h2>
 
-Im Dorfkruge in Buchengsund telephonierte Harst nach
-tstmalde an Inspektor Ringler, der denn auch sofort mit
-er! im Auto herauskommen Wollte
+Im Dorfkruge in Buchengrund telephonierte Harst nach
+Eberswalde an Inspektor Ringler, der denn auch sofort mit
+Bechert im Auto herauskommen wollte.
 
-Wir apen rasch etwas zu Abend und wandten uns
-dem nahen Gute zu. Es war jetzt entzog nun cl
-Der Mond war soeben über dem Wäaldrande auf
-Uhr. Leichter Nebel lag hier im Tale es war kühl
-Orden. Der Herbst meldete sich. Einzelne Blätter
-Lebten schon von den Bäumen des Guiogartens herab,
-an dessen Zaun wir jetzt langsam dabinfchluwien.
+Wir aßen rasch etwas zu Abend und wandten uns
+dem nahen Gute zu. Es war jetzt etwas nach elf
+Uhr. Der Mond war soeben über dem Waldrande aufgetaucht.
+Leichter Nebel lag hier im Tale. Es war kühl
+geworden. Der Herbst meldete sich. Einzelne Blätter
+schwebten schon von den Bäumen des Gutsgartens herab,
+an dessen Zaun wir jetzt langsam dahinschlichen.
 
-Bald sahen wir das einfache Fachwerkbaus mit ver
-den Glasveranda vor uns. Wir standen am Zaune
-spähten hinüber am Erdgeschoß nach vorn waren 1vei
-ter eïleuhiet. Ueber die hellen Notiz As zur hast
-er der Schatten eines rastlos wandernden Mannes,
+Bald sahen wir das einfache Fachwerkhaus mit der
+großen Glasveranda vor uns. Wir standen am Zaune
+und spähten hinüber. Im Erdgeschoß nach vorn waren zwei
+Fenster erleuchtet. Ueber die hellen Vorhänge glitt immer
+wieder der Schatten eines rastlos wandernden Mannes,
 
-Otto Riemer war s. Vielleicht trieb ihn das Gewissen
-und der; vielleicht erwog er anderes in seinem Leichenscheu
-Hirn. st
+Otto Riemer war’s. Vielleicht trieb ihn das Gewissen
+hin und her; vielleicht erwog er anderes in seinem verbrecherischen
+Hirn.
 
 <@pagebreak/>
-Plötzlich hörten mir ein Geräusch, als ob seiner Hagel
-gegen eine Glasfcdieibe geplagt.
+Plötzlich hörten wir ein Geräusch, als ob feiner Hagel
+gegen eine Glasscheibe schlägt.
 
-Ter wandernde Schatten machte halt, näherte sich dem
-linken Fenster. immer klarer wurden die Umrisse der
-Gestalt. Man erkannte deutlich, wie Riemer mit der hin«
-Ofen den Vorhang auszog. Dann öffnete er den einen Fensterflügel
+Der wandernde Schatten machte halt, näherte sich dem
+linken Fenster. Immer klarer wurden die Umrisse der
+Gestalt. Man erkannte deutlich, wie Riemer mit der Linken
+den Vorhang aufzog. Dann öffnete er den einen Fensterflügel
 und beugte sich hinaus.
 
 »Ist dort jemand?« fragte er nicht allzu laut.
 
-Mit einem Male bückte er sich rudartig ganz tief. Wir
+Mit einem Male bückte er sich ruckartig ganz tief. Wir
 sahen wir noch seine Beine. Er rutschte dann völlig nach
-draußen, richtete sich vor dem Fenster aus, kletterte blitzschnell
+draußen, richtete sich vor dem Fenster auf, kletterte blitzschnell
 hinein und verschwand,
 
 Harst packte meinen Arm. »Du — die Japaner! Der
@@ -1249,219 +1250,219 @@ Dann ein kurzes Aufheulen.
 
 Stille.
 
-»Ueber den Zaun! Borwärts’« flüsterte Harald.
+»Ueber den Zaun! Vorwärts!« flüsterte Harald.
 
 Doch der Staketenzaun war hoch, hatte oben vier Reihen
-Stacheldrähte. es ging nicht so schnell, wie’s hier
-nun trainiert gewesen wäre.
+Stacheldrähte. Es ging nicht so schnell, wie’s hier
+wünschenswert gewesen wäre.
 
-Da gewahrte ich n » drei schattengleiche Gestalten, die
-der $ auplpforte zuhujchten.
+Da gewahrte ich noch drei schattengleiche Gestalten, die
+der Hauptpforte zuhuschten.
 
 »Herunter, Harald, sie fliehen bereits!« rief ich leise,
 
 »Verwünschte Drähte!«
 
-Mit einem Sah war er wieder neben mir.
+Mit einem Satz war er wieder neben mir.
 
 Wir rannten am Zaune entlang der Straße zu.
 
 Als wir sie erreichten, hörten wir links von der
-Shiuffee her das Surren eines aufgeworfenen Automotors,
+Chaussee her das Surren eines angeworfenen Automotors,
 
-Dann flammicen dort Scheinwerfer auf.
+Dann flammten dort Scheinwerfer auf.
 
-Der Arastivagen stak davon.
+Der Kraftwagen stob davon.
 
-»Verdammt!« entfuhr es Harald »Zu spät!«
+»Verdammt!« entfuhr es Harald. »Zu spät!«
 
-Wir liegen in die Gartenpforte hinein, die Lindenallee
+Wir liefen in die Gartenpforte hinein, die Lindenallee
 entlang.
 
 <@pagebreak/>
-Stimmen kamen uns entgegen Laternenschein um
-Gerte uns,
+Stimmen kamen uns entgegen. Laternenschein umflackerte
+uns,
 
-Eine rauhe Stimme brüllte: »Halt« Stehen bleiben!«
+Eine rauhe Stimme brüllte: »Halt! Stehen bleiben!«
 
-Zwei Männer in Joppen mit Jagdbüchsen, der Entfalten
+Zwei Männer in Joppen mit Jagdbüchsen, der Gutsverwalter
 und der Inspektor, glaubten schon die richtigen
-ßt zu haben,
+gefaßt zu haben,
 
-Ein paar Anrechte, notdürftig angezogen, stürmten
-ei.
+Ein paar Knechte, notdürftig angezogen, stürmten
+herbei.
 
-Harst Härte die Sachlage sehr schnell.
+Harst klärte die Sachlage sehr schnell.
 
-»Der Wolfshund ist tot — erstochen,« meinte der Vetter
-ingrimmig, »Der Herr Konsul ist wohl hinter den
+»Der Wolfshund ist tot — erstochen,« meinte der Verwalter
+ingrimmig. »Der Herr Konsul ist wohl hinter den
 Dieben her?«
 
-»Nein,« erwiderte Harald, »Ich fürchte, auch er ist
-— erwürgt durch eine Schlinge, betäubt durch einen
-As auf den Kopf, als er sich zum Diensten hinaus bog —«
+»Nein,« erwiderte Harald. »Ich fürchte, auch er ist
+tot, — erwürgt durch eine Schlinge, betäubt durch einen
+Schlag auf den Kopf, als er sich zum Fenster hinausbog —«
 
-Ein lautes Hupensignal von der Gartenpforte her
-strahlten zwei Scheinwerfer.
+Ein lautes Hupensignal von der Gartenpforte her.
+Dort strahlten zwei Scheinwerfer.
 
-»Becher!!« rief Harst.
+»Bechert!« rief Harst.
 
 »Hallo — da sind wir!«
 
-Becher! und Ringler nol’ten hastig, Wieder genügten
-paar Stäbe Haralds Dann nahm er dem Inspektor die
-ne ab. schritt nein Hause zu, Der niederen Sie vor den
-Kern,
+Bechert und Ringler nahten hastig. Wieder genügten
+ein paar Sätze Haralds. Dann nahm er dem Inspektor die
+Laterne ab, schritt dem Hause zu, der niederen Hecke vor den
+Fenster.
 
 Und im Schatten der Hecke lag Otto Riemer — tot
-bürgt, mit halb zertrümmertem Schädel,
+erwürgt, mit halb zertrümmertem Schädel,
 
 Harald schaute sich die Leiche nur flüchtig an.
 
 »Herr Ringler,« wandte er sich an den Polizeiinspektor,
-beginnt Ihre Arbeit, Die Mörder sind Japaner
+»nun beginnt Ihre Arbeit. Die Mörder sind Japaner.
 Lassen Sie Depeschen fliegen — nach überall hin. Lassen
-alle Straßen sperren, Die Japaner sind entflohen vor
-um vier Minuten, — Sie wissen nun Bescheid,«
+Sie alle Straßen sperren. Die Japaner sind entflohen vor
+kaum vier Minuten. — Sie wissen nun Bescheid,«
 
-Ringler eilte ins zu das aus Telephon.
+Ringler eilte ins Gutshaus ans Telephon.
 
 Wir anderen betraten dann Riemers Herrenzimmer —
-sehr alirväterl ckch eingerichtet war je war dies das
+das sehr altväterlich eingerichtet war. Es war dies dasselbe
 Zimmer, dessen Fenster vorhin erleuchtet gewesen,
 
-Der Schreibtisch zwischen den Uraltem war durchwübhlt,
+Der Schreibtisch zwischen den Fenstern war durchwühlt.
 <@pagebreak/>
-Papiere und unteres ran auf dem Boden herum,
+Papiere und anderes lag auf dem Boden herum,
 
-Harst befahl wehte anzuführen, bis Verdeck und Simpler
-kämen. Becher! war ebenfalls in das Gutskomor gelaufen,
-um grinsten Lausche Winke über die Absperrung
+Harst befahl nichts anzurühren, bis Bechert und Ringler
+kämen. Bechert war ebenfalls in das Gutskontor gelaufen,
+um Ringler einige Winke über die Absperrung
 der Straßen zu geben.
 
-Harald überflog das Zimmer immer wieder mit Drückenden
-Blicken. Endlich erschienen Becher! und Ringler,
+Harald überflog das Zimmer immer wieder mit spähenden
+Blicken. Endlich erschienen Bechert und Ringler,
 
-Becher! meinte: »Haben Sie sich schon umgesehen hier,
-Ueber Harst?«
+Bechert meinte: »Haben Sie sich schon umgesehen hier,
+lieber Harst?«
 
-»Ja. Im übrigen gibt es hier nicht? zu sehen, Die
+»Ja. Im übrigen gibt es hier nichts zu sehen. Die
 Japaner haben sich geholt, was sie haben wollten, eben
 die Papiere, die Riemer mit den anderen Sachen vorgestern
-nacht geraubt worden sind »
+nacht geraubt worden sind.«
 
-Er schilderte dann Tanne kurz die Entwicklung dieses
-Falles, wie Sir sie miterlebt und herbeigeführt Gatten, be
-Gaul mit dem Starren mit unserem Besuch bei Riemer und
-lügst das andere Loch an Sonne Darstellung wirkte so
-überzeugend, daß der Gyioverwalter jetzt rief:
+Er schilderte dann ganz kurz die Entwicklung dieses
+Falles, wie wir sie miterlebt und herbeigeführt hatten, begann
+mit dem Drachen und unserem Besuch bei Riemer und
+fügte das andere logisch an. Seine Darstellung wirkte so
+überzeugend, daß der Gutsverwalter jetzt rief:
 
-»Ja, lag der Konsul war heute schon ganz früh auf
-den Ausland ergangen er hatte eine Vüchsslinte mit
-Um die kritischer dort im Erlengrund sind zum Teil vier
-Wer 17 von voll Wasser Da verschwinden Pferd und
-»Da. en ganz bequem.«
+»Ja, ja der Konsul war heute schon ganz früh auf
+den Anstand gegangen. Er hatte eine Büchsflinte mit.
+Und die Torflöcher dort im Erlengrund sind zum Teil vier
+Meter hoch voll Wasser. Da verschwinden Pferd und
+Wagen ganz bequem.«
 
-Becher! brachte Harst jetzt die Hand.
+Bechert drückte Harst jetzt die Hand.
 
-Eine Stunde drauf traf die Gerichisfommission aus
-Eberswalde ein
+Eine Stunde drauf traf die Gerichtskommission aus
+Eberswalde ein.
 
 Harald gab alles zu Protokoll. Der die Untersuchung
-führende Achtel war nur mit einer von Harsts logischen
-Folgerungen nicht ganz einverstanden: Daß Riemer die Sie
-armer so hastig weggeschickt hätte, damit diese nicht verrieten,
-daß der Zahntechniker ihnen den Zigeuneranzug ade
-gekauft hatte.
+führende Richter war nur mit einer von Harsts logischen
+Folgerungen nicht ganz einverstanden: Daß Riemer die Zigeuner
+so hastig weggeschickt hätte, damit diese nicht verrieten,
+daß der Zahntechniker ihnen den Zigeuneranzug abgekauft
+hatte.
 
 Harald erwiderte dem Herrn sehr liebenswürdig:
 
-»Ich habe den Zigeuner Blanker bewogen, mit den
+»Ich habe den Zigeuner Jankel bewogen, mit den
 Seinen am Südrande des Dorfes zu lagern, also die Gegend
 <@pagebreak/>
-nicht 211 verlassen Vielleicht holt das eine Auto Sand
-[ herbei, Ich bin bereit, mitzufahren »
+nicht zu verlassen. Vielleicht holt das eine Auto Jankel
+herbei. Ich bin bereit, mitzufahren.«
 
-ir holten Sanfter,
+Wir holten Jankel.
 
 Nach einigem Zögern gab er zu, daß er einem Herrn
-— also Willi Pronke - für hunderttausend Mark den An
-Zug verkauft und das Firmen ihm dies dann auf den $i opî
-zugesagt hatte, wobei Riemer betonte, der Anzuofkäufor
-tote fraglos in dieser Verkleidung ein Verbrechen be
-gehen, und Jankel täte daher gut, von hier zu verschwinden,
-da er sonst noch in den Verdacht der Beihilfe geriete
+— also Willi Pronke - für hunderttausend Mark den Anzug
+verkauft und das Riemer ihm dies dann auf den Kopf
+zugesagt hatte, wobei Riemer betonte, der Anzugkäufer
+wollte fraglos in dieser Verkleidung ein Verbrechen begehen,
+und Jankel täte daher gut, von hier zu verschwinden,
+da er sonst noch in den Verdacht der Beihilfe geriete.
 
-Hiermit war der Fall vollkommen klar gestellt
+Hiermit war der Fall vollkommen klar gestellt.
 
-Nur die Haupifeche fehlte die Baronet »und die
-Muntere!
+Nur die Hauptsache fehlte — die Japaner und die
+Papiere!
 
 Gegen zwei Uhr morgens meldete ein Landjäger aus
 Kloster Chorin, daß er auf der Chaussee ein herrenloses
-Auto gefunden habe, Farbe dunkelbraun
+Auto gefunden habe, Farbe dunkelbraun.
 
 Es stimmte: es war dies das Auto des falschen Prinzen
 Hotowatu,
 
-Die Japaner waren mithin zu Fuß weitergeflücßtet
+Die Japaner waren mithin zu Fuß weitergeflüchtet.
 
-Wieder spielte der Telegraph nach allen Himmels
-Richtungen. Wieder begann nun die Treibjagd auf die
-sicher Japaner Ringler meinte, man wurde die sieben
-sehr bald haben. Japaner fielen ja überall auf Die könnten
-sich schwer verbergen
+Wieder spielte der Telegraph nach allen Himmelsrichtungen.
+Wieder begann nun die Treibjagd auf die
+sieben Japaner. Ringler meinte, man würde die sieben
+sehr bald haben. Japaner fielen ja überall auf. Die könnten
+sich schwer verbergen.
 
-Harald lächelte zweifelnd »Sie können ein zweites
-Auto bereitgehalten haben vergessen Sie das nicht, Herr
-Inspektor, Vielleicht ein Lastauto —«
+Harald lächelte zweifelnd. »Sie können ein zweites
+Auto bereitgehalten haben — vergessen Sie das nicht, Herr
+Inspektor. Vielleicht ein Lastauto —«
 
-Ringler griff diesen Wink sofort auf Abermals
+Ringler griff diesen Wink sofort auf. Abermals
 telephonierte er.
 
-Dann kehrten wir mit den Herren der Gerichtskom-mission
-nach Eberswalde zurück Mittags waren wir fahre
-der daheim, Im sechs Uhr nachmittags besuchte uns der
-satanische Vntiehuiternt Graf Sadokato und bat Harald
-im Auftrage der 1opanischen Regierung nach dem Prinzen
-Steward zu suchen, der doch offenbar während der Ueberfahrt
+Dann kehrten wir mit den Herren der Gerichtskommission
+nach Eberswalde zurück. Mittags waren wir wieder
+daheim. Um sechs Uhr nachmittags besuchte uns der
+japanische Botschaftsrat Graf Sadokato und bat Harald
+im Auftrage der japanischen Regierung nach dem Prinzen
+Hotowatu zu suchen, der doch offenbar während der Ueberfahrt
 <@pagebreak/>
-von Japan nach Europa samt feinem und sechs Köpfen
-bellt Wenden Gefolge irgendwie beseitigt worden sei.
+von Japan nach Europa samt seinem und sechs Köpfen
+bestehenden Gefolge irgendwie beseitigt worden sei.
 
 »Der Prinz, der einer Nebenlinie des Kaiserhauses angehört,
-die in Fässer Zurückgezogenheit in Kotschi lebt, war
-Laune allen hier unbvefannt,« fügte er hinzu »Wir zweifelten
-daher feinen Augenblick, daß der Prinz, der sich uns
-vor ziert Werden vorstellte, tatsächlich Hohnvoll je. Nun
-erst nahen wir durch Depeschen nach Kotschi festgestellt, daß
-Wir ehe Prinz ein untrügliches Kennzeichen hat: eine
+die in stiller Zurückgezogenheit in Kotschi lebt, war
+uns allen hier unbekannt,« fügte er hinzu. »Wir zweifelten
+daher keinen Augenblick, daß der Prinz, der sich uns
+vor zwei Wochen vorstellte, tatsächlich Hotowatu sei. Nun
+erst haben wir durch Depeschen nach Kotschi festgestellt, daß
+der echte Prinz ein untrügliches Kennzeichen hat: eine
 breite Narbe am Kinn.« —
 
-so begann für uns der zweite Teil des Problems
-»Ter tote Zigeuner«.
+So begann für uns der zweite Teil des Problems
+»Der tote Zigeuner«.
 
 Harst nahm den Auftrag an.
 
 Abends kam eine Depesche aus Eberswalde von
-ich. I07°
+Ringler.
 
-> »sieben Papagei mit Vertäute voll leerer Kisten in
-Enrnemünde eingetroffen und Dort an Bord einer gar
-panischer Jacht gegangen. Jacht sofort in See, Nabe
-fängt wohin Habe Verfolgung veranlaßt, Zwei Statisten
-Minenfuchboote sofort Verfolgung ausgenommen.
+> »Sieben Japaner mit Lastauto voll leerer Kisten in
+Swinemünde eingetroffen und dort an Bord einer japanischen
+Jacht gegangen. Jacht sofort in See, unbekannt
+wohin. Habe Verfolgung veranlaßt. Zwei Flottillen
+Minensuchboote sofort Verfolgung aufgenommen.
 
 Gruß — Ringler,«
 
-»Eine große Farbe muß es sein. sehr groß,« meinte
+»Eine große Sache muß es sein — sehr groß,« meinte
 Harald sinnend. »Die Papiere müssen viele Millionen wert
-sein Eine Villa in Schlachtensee, zwei Autos, Motorrad,
-eine Dach!: mit welchen Wittern arbeiten diese sieben!
-Groß lgia!« —
+sein. Eine Villa in Schlachtensee, zwei Autos, Motorrad,
+eine Jacht: mit welchen Mitteln arbeiten diese sieben!
+Großzügig!« —
 
-allerdings — großzügig! - Mit wem wir jetzt den
-Kampf ausnahmen, ahnten wir damals noch nicht.
+Allerdings — großzügig! — Mit wem wir jetzt den
+Kampf aufnahmen, ahnten wir damals noch nicht.
 
 <@pagebreak 31/>
 
@@ -1469,28 +1470,28 @@ Kampf ausnahmen, ahnten wir damals noch nicht.
 
 <h2>1. Kapitel.</h2>
 
-Graf Sadokato, der Botschastérat, wurde etwas ver:
-gen, als Harald fragte, weshalb feiner un Du Japan
-je Abberufung des Konsuls Riegel gefordert worden war
+Graf Sadokato, der Botschaftsrat, wurde etwas verlegen,
+als Harald fragte, weshalb seiner Zeit von Japan
+die Abberufung des Konsuls Riemer gefordert worden war.
 
-Der Botschastsrat erwiderte schließlich?
+Der Botschaftsrat erwiderte schließlich:
 
-»Riemer kümmerte sich zu viel um Dinge, die ihn Nichte
-gingen, Mr. Harst.«
+»Riemer kümmerte sich zu viel um Dinge, die ihn nichts
+angingen, Mr. Harst.«
 
 »Welcher Art waren diese Dinge?«
 
-Darüber darf ich nicht sprechen.?ebenfalls wieder
-»© ich, daß meine Regierung Ihnen für die Kufflarung
-es Verschwindens des Prinzen zehn L:klingen Mark und
-ir die Herbeifehaffung jener Papiere fünfundzwanzig Millionen
+»Darüber darf ich nicht sprechen. Jedenfalls wiederhole
+ich, daß meine Regierung Ihnen für die Aufklärung
+des Verschwindens des Prinzen zehn Millionen Mark und
+für die Herbeischaffung jener Papiere fünfundzwanzig Millionen
 neben Ersatz aller Unkosten zahlt — für Sie und
-Ehren Freund. Sie Brauch nicht zu sparen, Mr. Harst.
-Vergeuden Sie Geld, wenn es nötig ist, Morgen erhalten
+Ihren Freund. Sie brauchen nicht zu sparen, Mr. Harst.
+Vergeuden Sie Geld, wenn es nötig ist. Morgen erhalten
 Sie einen Vorschuß im Betrage von zehn Millionen. Wie
-Sie die Sachen anpacken, ist uns gleichgültig. Unsere Befänden
+Sie die Sachen anpacken, ist uns gleichgültig. Unsere Behörden
 werden Ihnen überall in jeder Weise auf Ihren
-Punsch behilflich sein.«
+Wunsch behilflich sein.«
 
 Gleich darauf verabschiedete der Graf sich und fuhr in
 seinem Auto davon. —
@@ -1498,143 +1499,143 @@ seinem Auto davon. —
 Harst rauchte und schritt im Zimmer auf und ab.
 
 »Ein feines Geschäft, mein Alter,« sagte er nach einer
-Reife, »Nur — schwer, sehr lahmen wie sollen wir ber-usbetsitimen,
-wo man den Prinzen samt Gefolge hat verhärmten
-lassen x!«
+Weile. »Nur — schwer, sehr schwer. Wie sollen wir herausbekommen,
+wo man den Prinzen samt Gefolge hat verschwinden
+lassen?!«
 
-er Kali den Zettel vorn Tisch, auf dem er sich notiert
-tote, was der Graf über Die Weise Hotowatus baue an
-geben können.
+Er nahm den Zettel vom Tisch, auf dem er sich notiert
+hatte, was der Graf über die Reise Hotowatus hatte angeben
+können.
 
-»Also: am 18. Juli dieses Jahres verläßt Hohem aha
-Graphit dem Dampfer Tedu Maru den Hafen von Kotschi. Am
+»Also: am 18. Juli dieses Jahres verläßt Hotowatu
+mit dem Dampfer Tedu Maru den Hafen von Kotschi. Am
 <@pagebreak/>
-27\. Null geht er in Hongkong an Bord des englischen Nie
-fendampseré City of London, trifft am 29. August in Dover
-ein und reift mit Gefolge fidel Holland nach Berlin — uns
-höflich um Riemer die Papiere abzunehmen. Mit dieser
-Absicht kam er so vierter. - Wo hat nun der Wechsel der
-Personen stak:gefunden? Wo konnten die sieben Verbrecher
+27\. Juli geht er in Hongkong an Bord des englischen Riesendampfers
+City of London, trifft am 29. August in Dover
+ein und reist mit Gefolge über Holland nach Berlin — natürlich
+um Riemer die Papiere abzunehmen. Mit dieser
+Absicht kam er ja hierher. — Wo hat nun der Wechsel der
+Personen stattgefunden? Wo konnten die sieben Verbrecher
 den Prinzen samt Gefolge beseitigen? Wo ließen sie die
-Reihen? — Schwer — sehr Witwer, aber — nicht unmöglich!
-So behaupte, daß dieser Wechsel in An fterdam ausgeführt
-wurde, wo der Prinz fünf Tage inkognito im Hotel Gras
-Knien wohnte -: in Hongkong rate ob es den Verbrechern
-kaum gelungen. Dort wohnen zu viel »grauer. Dort hätte
-ein Anschlag zu viel Schwierigkeiten ge! ab!. Auf der He
-reise war der Wechsel ebenfalls kaum zu bewerkstelligeti.
-Bleibt mir Antftersom — Morgen fahlen mit nach Holland,«
+Leichen? — Schwer — sehr schwer, aber — nicht unmöglich!
+Ich behaupte, daß dieser Wechsel in Amsterdam ausgeführt
+wurde, wo der Prinz fünf Tage inkognito im Hotel Oranien
+wohnte. — In Hongkong wäre dies den Verbrechern
+kaum gelungen. Dort wohnen zu viel Japaner. Dort hätte
+ein Anschlag zu viel Schwierigkeiten gehabt. Auf der Seereise
+war der Wechsel ebenfalls kaum zu bewerkstelligen.
+Bleibt nur Amsterdam. — Morgen fahren wir nach Holland,«
 
-Er rieb sich die Hände. »Max Schraut — es geht dein
-Orient wieder zu!« Max Schraut, Nu dort gibt es Rö
-Mann Berlin ist nüchtern wie ein Brautleuten. Deutschland
+Er rieb sich die Hände. »Max Schraut — es geht dem
+Orient wieder zu! Max Schraut, nur dort gibt es Romantik.
+Berlin ist nüchtern wie ein Blaukreuzer. Deutschland
 ebenso.«
 
-Es läutete draußen. Klosters vorhin schon erwähnte
+Es läutete draußen. Ringlers vorhin schon erwähnte
 Depesche wurde abgegeben.
 
-Harst las sie — las sie nochniala.
+Harst las sie — las sie nochmals.
 
-Und dann sprach er die Merkwürdigen Worte von der
-- großen Sache, von den Papieren, die Millionen wert
+Und dann sprach er die denkwürdigen Worte von der
+— großen Sache, von den Papieren, die Millionen wert
 sein müßten.
 
-Er fehle sich mir gegenüber in die Sofaecke. -
+Er setzte sich mir gegenüber in die Sofaecke.
 
-»Hm — also eine Jacht, sogar eine- Jacht,« sagte er
-wieder. »Die Kerle müssen Gelb wie Heu haben —«
+»Hm — also eine Jacht, sogar eine Jacht,« sagte er
+wieder. »Die Kerle müssen Geld wie Heu haben —«
 
-Es lautete abermals, Die Köchin Mathilde kam und
+Es läutete abermals. Die Köchin Mathilde kam und
 brachte eine Karte.
 
-»ein Herr möchte Sie sprechen, Herr Haft —«
+»Ein Herr möchte Sie sprechen, Herr Harst —«
 
-Auf der Karte fand:
+Auf der Karte stand:
 
-> Tibur Chamal Tortur,
+> Tibur Chamal Darwi,
 
-> Verirrt der Oh S.
+> Vertreter der T. K. S.
 
-»Ah lasse bitten,« erklärte Harald
+»Ich lasse bitten,« erklärte Harald.
 
 <@pagebreak/>
-Dann saß, Mr Tibur Chamal Darwi im Klubsessel
-empor uns.
+Dann saß Mr. Tibur Chamal Darwi im Klubsessel
+vor uns.
 
-Ein Mann um die Vierzig, klein, hager muskulsöss, Darlehns,
-ein Gesicht mit dicken Wulsten, kleinen hastigen Aeug-klein
-und einem eingesrorenen Lächeln um die Nenerlipven
+Ein Mann um die Vierzig, klein, hager muskulös, bartlos,
+ein Gesicht mit dicken Wulsten, kleinen hastigen Aeuglein
+und einem eingefrorenen Lächeln um die Negerlippen.
 
-»Mr. Harst,« begann er, »mein Name sagt Fahnen
-fern, daß ich Eurasier (Mischling zwischen Europäer und
-Afiatin) bin. Ich bin Buddhist, und zwar Sektierer. Unsere
+»Mr. Harst,« begann er, »mein Name sagt Ihnen
+schon, daß ich Eurasier (Mischling zwischen Europäer und
+Asiatin) bin. Ich bin Buddhist, und zwar Sektierer. Unsere
 Sekte nennt sich Tiwa Kami Sakka — Blume des reinen
 Glaubens.«
 
 »Das ist japanisch, Mr. Darwi?«
 
-»Nein, ein Gemisch von mehreren Sprachen, — Ich bin
+»Nein, ein Gemisch von mehreren Sprachen. — Ich bin
 Vertreter des Tiwa Kami Sakka für Europa; so eine Art
-Wanderprediger. Wir leiten unsere besonderen Glaub: ns-arundfäge
-aus dem handschristlico niedergelegten Beil.ut-is
-eines Buddbifienmiöndes ab. Diese Handschrift ist ans
-Gelobten worden — Durch den Konsul Riemer »
+Wanderprediger. Wir leiten unsere besonderen Glaubensgrundsätze
+aus dem handschriftlich niedergelegten Bekenntnis
+eines Buddhistenmönches ab. Diese Handschrift ist uns
+gestohlen worden — durch den Konsul Riemer.«
 
-Harst und ich beugten uns gespannt vor
+Harst und ich beugten uns gespannt vor.
 
 »Die japanische Regierung hat nun das größte Interesse
-daran, diese Handschrift für immer verschwunden zu
-Gassen, da sie unsere Sekte ausrotten möchte Japan ist ja
+daran, diese Handschrift für immer verschwinden zu
+lassen, da sie unsere Sekte ausrotten möchte. Japan ist ja
 durchweg allen Aenderungen des althergebrachten heimischen
-Religionsbekenutuisses abhold. Wir haben nun
-die Vorgänge der lebten Tage sehr genau versorgt. Wir
-wwaißten, daß der Bei Holowvatu dem Konsul Die Hand«
-Schrift mit Lift oder mit Gewalt abnehmen sollte, Wir frage
-den bereits mit Riemer in Unterhaudlung und hatten ihm
+Religionsbekenntnisses abhold. Wir haben nun
+die Vorgänge der letzten Tage sehr genau verfolgt. Wir
+wußten, daß der Prinz Hotowatu dem Konsul die Handschrift
+mit List oder mit Gewalt abnehmen sollte. Wir standen
+bereits mit Riemer in Unterhandlung und hatten ihm
 fünfzig Millionen Mark für das heilige Büchlein geboten.
-Neider kam uns ein anderer zuvor: der Zahntechniker Willi
-Dienste. — Wir wissen weiter, daß der Votjchaftsrat Graf
-Sadokato Ihnen soeben ein sehr günstiges Angebot sei
-Macht hat Wir bieten Ahnen mehr — Das Doppelte.
+Leider kam uns ein anderer zuvor: der Zahntechniker Willi
+Pronke. — Wir wissen weiter, daß der Botschaftsrat Graf
+Sadokato Ihnen soeben ein sehr günstiges Angebot gemacht
+hat. Wir bieten Ihnen mehr — das Doppelte.«
 
-Finger Wanderprediger Warte den Stier gleich bei bei!
+Dieser Wanderprediger packte den Stier gleich bei den
 Hörnern, machte nicht viel Umschweife.
 
-sei Sie uns die Handschrift verschaffen, Mr. Harst,
+»Wenn Sie uns die Handschrift verschaffen, Mr. Harst,
 <@pagebreak/>
-erhalten Sie fünfzig Visionen Mark, die Leute, die sie
-ehe im Besitz haben, würden von 1113 mindestens ebensoviel
-erpressen, Weshalb brachten sie das Büchlein nur an
-Besuch Also, Mr Harst, — bitte äußern Sie sich —«
+erhalten Sie fünfzig Millionen Mark. Die Leute, die sie
+jetzt im Besitz haben, würden von uns mindestens ebensoviel
+erpressen. Deshalb brachten sie das Büchlein nur an
+sich. Also, Mr. Harst, — bitte äußern Sie sich —«
 
-»Bedauere, Nr Darwi. Dich habe bereits zugesagt.«
+»Bedauere, Mr. Darwi. Ich habe bereits zugesagt.«
 
 »Und das ist Ihr letztes Wort?
 
 »Ja.«
 
-»Dann hätte freilich weitere Reden keinen Zweck,«
+»Dann hätte freilich weiteres Reden keinen Zweck.«
 Er erhob sich. Seine Augen schlossen sich noch mehr. »Mr.
-Harst, es wird her leid hm. Guten Abend —«
+Harst, es wird Ihnen leid tun. Guten Abend —«
 
-Gı verbeugte sich) und ging hinaus Ich öffnete ihm
-die Haustür Er geritzt durch den Vorgarten dem Muntere
-den Auto zu, stieg ein, drehte sich im Auto halb um und
+Er verbeugte sich und ging hinaus. Ich öffnete ihm
+die Haustür. Er schritt durch den Vorgarten dem wartenden
+Auto zu, stieg ein, drehte sich im Auto halb um und
 machte mit der Linken eine merkwürdige Handbewegung.
 
-Im selben Mundwerk stieß Harst mich bei Seite, raste
-an mir vorbei, dies Stufen hinab den Weg entlang.
+Im selben Moment stieß Harst mich bei Seite, raste
+an mir vorbei, die Stufen hinab — den Weg entlang.
 
-Das Auto raste noch ferneren.
+Das Auto raste noch schneller.
 
-Harst blieb mitten aus der Straße stehen, zuckte die
+Harst blieb mitten auf der Straße stehen, zuckte die
 Achseln und betrat wieder den Vorgarten.
 
 »Was sollte das?« rief ich ihm zu.
 
 Er hielt in der Linken einen zerknitterten Zettel.
 
-»Da - das lag als Papierkugel vor dem Klubsessel!«
+»Da — das lag als Papierkugel vor dem Klubsessel!«
 
 Ich las:
 
@@ -1644,65 +1645,67 @@ Prinzen nachsenden. T. K. S.
 
 »Dieser Darwi hat die Drohung bereit gehalten,
 falls ich ablehnen sollte,« sagte Harald, tief Atem holend.
-»Weißt Du, mein Alter, nun freue ich viel gar nicht mehr
+»Weißt Du, mein Alter, nun freue ich mich gar nicht mehr
 auf den Orient, denn asiatische Sektierer sind erbarmungslos
 wie Tiger.«
 
-»am — und wenn der Kerl nur ein Spion der sieben
-Vor es wäre? Wenn es Tiwa Kami Sakka gar nicht
-gäbe
+»Hm — und wenn der Kerl nur ein Spion der sieben
+gewesen wäre? Wenn es Tiwa Kami Sakka gar nicht
+gäbe?«
 
-Mr habe ich ja auch schon gedacht. Aber — ein
+»Daran habe ich ja auch schon gedacht. Aber — ein
+Eurasier?!«
+
 <@pagebreak/>
 »Sahst Du die seltsame Handbewegung im Auto?«
 
 »Nein. Wie war Die denn?«
 
-»Darauf beschrieb mit der Linken einen Bogen in der
-Duft »und riß die- Hand dann senkrecht herunter »
+»Darwi beschrieb mit der Linken einen Bogen in der
+Luft und riß die Hand dann senkrecht herunter.«
 
-So — so’ Ich werde mal Die ungarische Botschaft
-rufen,«
+»So — so! — Ich werde mal die japanische Botschaft
+anrufen,«
 
 Vier Minuten später wußten wir, daß Tiwa Kami
-also eine geniale Erfindung deé Mr. Darwi war, der
-natürlich Lediglich hatte feststellen rollen, ob Harald den
-rastlos angenommen hatte,
+Sakka eine geniale Erfindung des Mr. Darwi war, der
+natürlich lediglich hatte feststellen wollen, ob Harald den
+Auftrag angenommen hatte,
 
 Harst lehnte noch am Schreibtisch, wo das Telephon
-Tand, und meinte nun:
+stand, und meinte nun:
 
-Die Geschichte ist ungemütlich, mein Alter. Die sieben
-Gaben also noch Helfershelfer hier in Berlin, die nicht
-Japaner sind. Wir werden nachts uns fortschleichen, verleidet,
+»Die Geschichte ist ungemütlich, mein Alter. Die sieben
+haben also noch Helfershelfer hier in Berlin, die nicht
+Japaner sind. Wir werden nachts uns fortschleichen, verkleidet,
 durch den Gemüsegarten. Wir warten nicht bis
-morgen, Die Bande besitzt einen unheimlichen Erfindungsgeist.
+morgen. Die Bande besitzt einen unheimlichen Erfindungsgeist.
 Der Schwindel mit der Sekte klang so wahrscheinlich,
-daß ich kaum daran zu zweifeln wagte - Uebrigens
-war das Auto Darwis ein hellgrauer kleiner Wagen »
+daß ich kaum daran zu zweifeln wagte. — Uebrigens
+war das Auto Darwis ein hellgrauer kleiner Wagen.«
 
-ne der Chauffeur ein breitschultriger rotbärtiger
+»Und der Chauffeur ein breitschultriger rotbärtiger
 Kerl.«
 
-8a, — ja, sie Tuben Geld, die sieben! Sie lassen
-sich’s was foften’« ...
+»Ja, — ja, sie haben Geld, die sieben! Sie lassen
+sich’s was kosten!« ...
 
 Mathilde rief uns zum Abendessen.
 
 <h2>2. Kapitel.</h2>
 
 Im Hotel Oranien in Amsterdam war Hochbetrieb.
-Da konnten die beiden deutschen Prosessoren, die dort Den
+Da konnten die beiden deutschen Professoren, die dort seit
 gestern abend wohnten, kaum auffallen, zumal ihre äußere
-Erscheinung so bescheiden und so alltäglich war, Daß jeder
-der sich hinweg schaute.
+Erscheinung so bescheiden und so alltäglich war, daß jeder
+über sie hinwegschaute.
 
-Heute früh saßen sie nun in ihrem gemennfamn Rohr
-Salon beim Miprgenfaffee und hatten sich den Hoteldirektor
+Heute früh saßen sie nun in ihrem gemeinsamen Wohn-
+Salon beim Morgenkaffee und hatten sich den Hoteldirektor
 <@pagebreak/>
-beraufbitten lassen, der jetzt zwei Ausweise nebst Lichtbil-dern
-sich sehr genau anschaute und ebenso ein englisch ge-schchriebenes
-Papier. das oben links den Aufdruck: Kuriert,
+heraufbitten lassen, der jetzt zwei Ausweise nebst Lichtbildern
+sich sehr genau anschaute und ebenso ein englisch geschriebenes
+Papier, das oben links den Aufdruck: Kaiserl.,
 japanische Botschaft, Berlin trug.
 
 Der Direktor gab nun dem größeren der beiden Gelehrten
@@ -1711,7 +1714,7 @@ die Papiere zurück und flüsterte:
 »Ich stehe ganz zu Diensten, Herr Harst,«
 
 »Bitte — bleiben wir bei dem »Professor Rast«, Herr
-Direktor. — Sehen Sie sich. Hat der Prinz hier Ausflüge
+Direktor. — Setzen Sie sich. Hat der Prinz hier Ausflüge
 gemacht?«
 
 »Ja.«
@@ -1722,249 +1725,249 @@ gemacht?«
 Die übrigen Japaner wohnten in einem Pensionat dritten
 Ranges, ich glaube in der Calver-Straße.«
 
-»Willen Sie, wohin der Prinz Ausflüge unternahm?«
+»Wissen Sie, wohin der Prinz Ausflüge unternahm?«
 
-»Darüber könnte Ihnen mein Sekretär genauer Auf«
-Schluß geben alle ich, Mr, Harst, Der Hotelselretär ist ein
-Landsmann von Ihnen. Darf ich Ihnen Mir, Albing ber-aufichieten?«
+»Darüber könnte Ihnen mein Sekretär genauer Auf-
+Schluß geben als ich, Mr. Harst. Der Hotelsekretär ist ein
+Landsmann von Ihnen. Darf ich Ihnen Mr. Albing heraufschicken?«
 —
 
 Fritz Albing kam. Ein junges vergnügtes Kerlchen,
-erst 24 Fahre alt, so ein Haus Dampf in allen Gassen, gerieben,
-ehrlich, zutraulich, Er wollte nur noch ein paar
-Donau in Holland bleiben »wollte nur die Landessprache
+erst 24 Jahre alt, so ein Hans Dampf in allen Gassen, gerieben,
+ehrlich, zutraulich. Er wollte nur noch ein paar
+Monate in Holland bleiben, wollte nur die Landessprache
 erlernen,
 
 »Das ist dann die fünfte fremde Sprache, die ich beherrsche,
 Herr — Professor,« erklärte er vergnügt. »Dann
-geht’s ins Ausland, ganz wer wer, als Korrespondent, viel
+geht’s ins Ausland, ganz weit weg, als Korrespondent, viel
 Geld verdienen,«
 
 Harst weihte ihn zum Teil in unser Vorhaben ein.
 
 Als der Name des Prinzen Hotowatu genannt wurde,
-nickte Seil Albing eifrig.
+nickte Fritz Albing eifrig.
 
-»Den Tenne ich sehr gut, Herr — Professor. »Ich bin
+»Den kenne ich sehr gut, Herr — Professor. Ich bin
 nämlich auch im Japanischen firm. Das Hotel gab mich dem
 Prinzen als Dolmetscher mit.«
 
-»Erzählen Sie, Herr Albing. Beschwerden Sie uns
+»Erzählen Sie, Herr Albing. Beschreiben Sie uns
 <@pagebreak/>
 die Ausflüge. Ganz genau bitte. Auf jede Einzelheit
-kommst es an.«
+kommt es an.«
 
-&o erfuhren wir denn die wertvolle Tatsache, daß der
-Ring bei einer Tour nach Buitenzoorg mit einem Landsmann
+So erfuhren wir denn die wertvolle Tatsache, daß der
+Prinz bei einer Tour nach Buitenzoorg mit einem Landsmann
 bekannt geworden war, einem älteren japanischen
 Arzt, der sich auf einer Studienreise nach Europa befunden
-und den Torweg auf der Jacht eines Großkaufmanns aus
-Tokio zurückgelegt hatte, Diese Jacht hatte damals ebenfalls
+und den Seeweg auf der Jacht eines Großkaufmanns aus
+Tokio zurückgelegt hatte. Diese Jacht hatte damals ebenfalls
 im Hafen von Amsterdam geankert, und der Prinz
-an eines Tages von dem Besitzer eingeladen worden, eine
-Fahrt durch die Kanalschleusen in die Nordsee mitzumachen
-dieser Fahrt hatte Albing nicht teilgenommen. Der
+war eines Tages von dem Besitzer eingeladen worden, eine
+Fahrt durch die Kanalschleusen in die Nordsee mitzumachen.
+An dieser Fahrt hatte Albing nicht teilgenommen. Der
 Prinz, der Adjutant und dessen Gattin waren an jenem
-»Lage erst gab Mitternacht in? Hotel zurückgekehrt. Der
-Portier hatte sie eingelassen und wurde von dem durch See
-ansieht noch arg mitgenommenen Prinzen bk, ::klingt, so
+Tage erst gab Mitternacht ins Hotel zurückgekehrt. Der
+Portier hatte sie eingelassen und wurde von dem durch Seekrankheit
+noch arg mitgenommenen Prinzen beauftragt, sofo-
 rt die Hotelrechnung ausstellen zu lassen, da die Japaner
-ch entschlossen hatten, schon mit dem Frühzuge nach der
-weiter zu reisen, Der Portier weckte Albing, der denn -
-ich die Rechnung fertig machte. Er bekam Hotowatu viel
-er zu Gesicht Die drei Japaner hatten sich schon in aller
-Grüße zum Bangkok begeben, —
+sich entschlossen hatten, schon mit dem Frühzuge nach Berlin
+weiter zu reisen. Der Portier weckte Albing, der denn
+auch die Rechnung fertig machte. Er bekam Hotowatu nicht
+wider zu Gesicht. Die drei Japaner hatten sich schon in aller
+Frühe zum Bahnhof begeben. —
 
-Harst hatte den Sekretär durch keine Frage unter
-gebrochen. Abging war schon von selbst auf den Gedanken
-Mlommen, daß in jener Nacht nicht der Prinz, sondern
-in anderer das Hotel knieten betreten hatte, denn Albings
-erfaßte lauteten: »Der Nachtportier kannte die Japa-faum
-von Ansehen, Es ist also sehr möglich, daß das
-[3 der Wechsel der Personen stattgefunden hat »
+Harst hatte den Sekretär durch keine Frage unter-
+brochen. Albing war schon von selbst auf den Gedanken
+gekommen, daß in jener Nacht nicht der Prinz, sondern
+ein anderer das Hotel wieder betreten hatte, denn Albings
+letzte Sätze lauteten: »Der Nachtportier kannte die Japaner
+kaum von Ansehen. Es ist also sehr möglich, daß damals
+der Wechsel der Personen stattgefunden hat.»
 
-Bald erwiderte nur: »Sie sprechen meine Gedanken
-As, Herr Albing. Wo wohnten die anderen Leute des
-einiges? »
+Harald erwiderte nur: »Sie sprechen meine Gedanken
+aus, Herr Albing. Wo wohnten die anderen Leute des
+Gefolges?»
 
 »In der Pension Vanderfelde in der Calver-Straße
 Nummer 42,«
 
-Im Fremdenheun Vanderfelde hatte sich Aehnliches abspielt.
-Auch dort waren die vier Japaner sehr spät lehmige?
+Im Fremdenheim Vanderfelde hatte sich Aehnliches abspielt.
+Auch dort waren die vier Japaner sehr spät heimgek-
 <@pagebreak/>
-ehrt, waren von dem verschlafener Pförtner eingelassen
-werten, hh, von die verklang verstaucht und das Geld dem
-Trister Dar die chürspalte hieraus gereicht. Eine
-Zier oder schon verliehen sie mit ihren Koffern das
-raus in alter Bulle, Der 4jormer erklärte uns, die Leute
-harten es sehr eilig 6! by
+ehrt, waren von dem verschlafenen Pförtner eingelassen
+worden, hatten die Rechnung verlangt und das Geld dem
+Pensionsbesitzer durch die Türspalte herausgereicht. Eine
+Stunde später schon verließen sie mit ihren Koffern das
+Haus in aller Stille. Der Pförtner erklärte uns, die Leute
+hatten es sehr eilig gehabt.
 
-Harst um ich schlenderten dann dem nahen Hafen zu.
+Harst und ich schlenderten dann dem nahen Hafen zu.
 
 »Wir haben Glück gehabt, mein Alter, großes Glück,«
-meinte Harald »Wer hätte gedacht, daß wir so schnell exe
-Mitteln würden, wo- man den Prinzen nebst Gefolge hat
-verschwinden lassen. Ich möchte jetzt mal auf dem Hafen
-am! nachfragen, wer als Eigentümer der Jacht Rania
+meinte Harald. »Wer hätte gedacht, daß wir so schnell er-
+Mitteln würden, wo man den Prinzen nebst Gefolge hat
+verschwinden lassen. Ich möchte jetzt mal auf dem Hafen-
+amt nachfragen, wer als Eigentümer der Jacht Rania
 Maru sich hier ausgewiesen hat,«
 
-Diese Feststellung machte weiter keine Schwierigkeiten,
+Diese Feststellung machte weiter keine Schwierigkeiten.
 Die Jacht war als Eigentum des japanischen Kaufmanns
-Aktien mit dem Heimathafen Y Racheakt gemeldet worden,
+Atsiru mit dem Heimathafen Nagasaki gemeldet worden.
 Die Papiere waren in bester Ordnung gewesen,
 
-Harald war auch hiermit noch nicht zufrieden. »Bett
-Lachen wir noch zu dem japanischen Konsul. Man muß
-gründlich sein »
+Harald war auch hiermit noch nicht zufrieden. »Jetzt
+gehen wir noch zu dem japanischen Konsul. Man muß
+gründlich sein.»
 
 Der vornehme Holländer, der hier die Interessen
-Japans vertrat, wurde noch liebenéwürdiger, als er das
-In den der javanischen Botschaft, Berlin gesehen hatte.
+Japans vertrat, wurde noch liebenswürdiger, als er das
+Schreiben der japanischen Botschaft, Berlin gesehen hatte.
 
-»Vorlügen Sie vollständig über mich und meine Wenn
-den, So of« sagte er im tadellosem Deutsch,
+»Verfügen Sie vollständig über mich und meine Beam-
+den, Herr Harst,« sagte er im tadellosem Deutsch,
 
 Harald teilte ihm mit, was wir hier über den Prinzen
-eirunder hatten. »Wir nehmen an, Herr (ansah, daß der
-Bring an jenem Tage — es war der 3. September - auf
-der Jacht Rania Maru gewaltsam mit feiner gesamten Begleitung
-zurückgehalten worden ist, falls nmckbt sogar Seh hing
-Schlimmeres sich ereignet hat. Sechs andere männliche Japaner
-und eine Japanerin spielten dann Die Rolle des Prinzen
-und des Gesetzes, kehrten in das Hotel und hat Pensionat
-zurück und reisten schleunigst ab, Dieser Austausch der
-Personen erforderte ohne Trage von Steifen der Verbrecher
-»graue Vorbereitungen, sehr viel Gewandtheit und Kühnheit.
+erkundet hatten. »Wir nehmen an, Herr Konsul, daß der
+Prinz an jenem Tage — es war der 3. September -- auf
+der Jacht Rania Maru gewaltsam mit seiner gesamten Begleitung
+zurückgehalten worden ist, falls nicht sogar Schlimmeres
+sich ereignet hat. Sechs andere männliche Japaner
+und eine Japanerin spielten dann die Rolle des Prinzen
+und des Gefolges, kehrten in das Hotel und das Pensionat
+zurück und reisten schleunigst ab. Dieser Austausch der
+Personen erforderte ohne Frage von Seiten der Verbrecher
+große Vorbereitungen, sehr viel Gewandtheit und Kühnheit.
 <@pagebreak/>
 — Ich möchte nun wissen, ob Sie irgend etwas über die
-Tracht Rania Maru und d¿ren Besatzung, vielleicht auch
-über den angeblichen japaninhen Arzt willen, der sich an
+Jacht Rania Maru und deren Besatzung, vielleicht auch
+über den angeblichen japanischen Arzt wissen, der sich an
 den Prinzen herangeschlängelt hatte.«
 
-Der Holländer so Neueste Hegt lächelnd den Kopf. »So
-leid es nie tut, Herr Harst, — ich muß Ihnen eine Enttäuschung
-bereiten. Es ist msgeschlossen, daß jener Arzt
-für die Verbrecher den Schloß per spielte und daß der Prinz
-durch ihn in eine Falle Geld! wurde. Doktor Tokatu wohnt
-noch hier in Lnisterdam. Er hat draußen in Nieuwendam
-ein N gemietet. Ich war bereits zweimal bei
-Sinn zu Gast,«
+Der Holländer schüttelte jetzt lächelnd den Kopf. »So
+leid es mir tut, Herr Harst, — ich muß Ihnen eine Enttäuschung
+bereiten. Es ist ausgeschlossen, daß jener Arzt
+für die Verbrecher den Schlepper spielte und daß der Prinz
+durch ihn in eine Falle gelockt wurde. Doktor Tokatu wohnt
+noch hier in Amsterdam. Er hat draußen in Nieuwendam
+ein Landhäuschen gemietet. Ich war bereits zweimal bei
+ihm zu Gast,«
 
-»Allerdings - Dann bin ich auf falscher Spur,« lächelte
-nun auch) Derart seinerseits »Ich möchte nicht weiter
-Poren Je! ehe, Sie sind beschäftigt. Nur noch eine Bitte:
-ie bitvabren über all dies tiefstes Stillschweigen. Die
-See ist ja so halb und halb amtlich.« —
+»Allerdings -- dann bin ich auf falscher Spur,« lächelte
+nun auch Harald seinerseits. »Ich möchte nicht weiter
+stören. Ich sehe, Sie sind beschäftigt. Nur noch eine Bitte:
+Sie bewahren über all dies tiefstes Stillschweigen. Die
+Sache ist ja so halb und halb amtlich.« —
 
-Stiefel schnelle Ausgeben eines sicher begründeten Vi obdachlos
-machte auf mich) sofort den Strome einer beabsidp
-bieten Täuschung. Harald sagte dein auch zu mir, als wir
-Hindus Haus des Konsuls kaum verlassen hatten: »Doktor
+Dieses schnelle Aufgeben eines sicher begründeten Verdachtes
+machte auf mich sofort den Eindruck einer beabsichtigten
+Täuschung. Harald sagte denn auch zu mir, als wir
+das Haus des Konsuls kaum verlassen hatten: »Doktor
 Tokatu wird abends die Ehre haben, uns bei sich zu sehen.«
 
-las genügte mir. Harst war also ganz meiner Meint,
-oh gehörte Grog allem zu den Entführern des
+Das genügte mir. Harst war also ganz meiner Meinung.
+Tokatu gehörte trotz allem zu den Entführern des
 Prinzen! —
 
 Bei Anbruch der Dämmerung brachte uns die Fähre
-der den Hafen. Am Zollhaus mieteten die beiden Dieses
-ren einen Wagen und fuhren den Dammes nach Atem
-Nieuwendam entlang. Zu beiden Seiten Viehweiden, in Nebel]
-stützt, darauf unzählige Rinder, alle zum Schuß gegen
-vorführe mit den landesüblichen Matratzen auf dem
-Süden las dumpfe Brüllen der Tiere perlte aus.
-Villen und Häufen von Niewveitdan austänczien. Vor
-er ersten Adonis hießen wir den Wagen halten. Ter zu!
+über den Hafen. Am Zollhaus mieteten die beiden Professo-
+ren einen Wagen und fuhren den Dammweg nach
+Nieuwendam entlang. Zu beiden Seiten Viehweiden, in Nebel
+gehüllt, darauf unzählige Rinder, alle zum Schutz gegen
+die Nachtkühle mit den landesüblichen Matratzen auf dem
+Rücken. Das dumpfe Brüllen der Tiere begleitete uns bis
+die Villen und Häuser von Nieuwendam auftauchten. Vor
+der ersten Schenke ließen wir den Wagen halten. Der Kutscher
 sollte hier warten. Harald bezahlte ihn auch für die
-Havel um voraus.
+Rückfahrt im voraus.
 
 <@pagebreak/>
-Dann fragten wir einen der Crtöpolizifien nach dem
+Dann fragten wir einen der Ortspolizisten nach dem
 Hause Doktor Tokatus. Der Mann wußte Bescheid. »Am
-Ostende des rief, Das Fegte Grundstück »
+Ostende des Ortes, das letzte Grundstück.»
 
-Wi wanderten weiter. Es wurde dunkel. Auch hier
+Wir wanderten weiter. Es wurde dunkel. Auch hier
 in den Straßen dünner Nebel. Der war uns gerade recht.
 
 Und dann hinter Linden, Gebüsch und einer Ziegelmauer
 versteckt das weiße kleine Landhaus. Wir schauten
 durch das Gitter der Pforte die kurze Allee entlang. Alle
-Fenster dunkel. Harst drückte aus den Stlingeltuopf neben
-einem nicht mehr leëbaren Porzellanschild.
+Fenster dunkel. Harst drückte auf den Klingelknopf neben
+einem nicht mehr lesbaren Porzellanschild.
 
-Eine Frau trieb drei Kühe vorüber, deren Glocken unerledigt
-Zigaretten. Harald trat auf die alte Holländerin
-zu. — »Hier wohnt da ein Japaner?« fragte er.
+Eine Frau trieb drei Kühe vorüber, deren Glocken melodisch
+bimmelten. Harald trat auf die alte Holländerin
+zu. — »Hier wohnt doch ein Japaner?« fragte er.
 
-»Ja, Mynheer Sehr ein guter Mann ist. Meine
-Kühe laßt er mich auf der Wiese hinten weiden —« — Sie
-eilte il’ien Tieren nach.
+»Ja, Mynheer. Sehr ein guter Mann ist's. Meine
+Kühe läßt er mich auf der Wiese hinten weiden —« — Sie
+eilte ihren Tieren nach.
 
-Harald läutete nochmals, Niemand kam.
+Harald läutete nochmals. Niemand kam.
 
 Ein scharfer Wind erhob sich plötzlich. Er fegte von
-der Nordsee herüber, brachte noch dichteren Nebel mit
+der Nordsee herüber, brachte noch dichteren Nebel mit.
 
 Und zum dritten Male drückte Harst auf den Knopf
 der elektrischen Glocke,
 
-Wir Stauden hier nun bereits fünf Turnten.
+Wir standen hier nun bereits fünf Minuten.
 
-»Na — dann aus andere Art,« meinte Harald.
+»Na — dann auf andere Art,« meinte Harald.
 
 Er ging mir voran, nach rechts um die Gartenmauer
 herum, bis wir die Nordseite der Mauer erreicht hatten und
-eine lerne eingezäunte Wiese. Ueber die Mauer ragten hier
-die Schiejerdächer von Stallungen hinweg,
+eine kleine eingezäunte Wiese. Ueber die Mauer ragten hier
+die Schieferdächer von Stallungen hinweg,
 
-»Hulsestellung,« befahl Harald.
+»Hilfestellung,« befahl Harald.
 
 Ich lehnte mich an die Mauer, und der graubärtige
-Professor Rast war mit verblüffender Fauxigkeit oben auf
-der Mauirkrone
+Professor Rast war mit verblüffender Fixigkeit oben auf
+der Mauerkrone.
 
-Er Hals auch mir nun hinauf. Dann sprang er als
-erster in den nebelgesüllten Hof hinab
+Er half auch mir nun hinauf. Dann sprang er als
+erster in den nebelgefüllten Hof hinab.
 
-Bar umschlich en das snnuctlose uns.
+Wir umschlichen das schmucklose Haus.
 
-Nirgends ein Lichtschimmer - nirgends, —
+Nirgends ein Lichtschimmer -- nirgends. —
 
-es war erst halb zehn Uhr abends und daher wohl
+Es war erst halb zehn Uhr abends und daher wohl
 <@pagebreak/>
-kaum anzunehmen, daß Tokatu und seine Bedienung des
+kaum anzunehmen, daß Tokatu und seine Bedienung
 bereits zur Ruhe gegangen sei.
 
-»Suchen wir hiueinzukommen,« meinte Harald, »Ich
-will mich nur ganz kurz im Hause umsehen, ob vor! etwa
+»Suchen wir hineinzukommen,« meinte Harald. »Ich
+will mich nur ganz kurz im Hause umsehen, ob dort etwa
 der Prinz mit den Seinen gefangen gehalten wird, was
-ch jedoch nicht glaube.«
+ich jedoch nicht glaube.«
 
-Das Einließ der Hintertür war Duzernwbware. Und
+Das Schloß der Hintertür war Dutzendware. Und
 wenn es ein Patentschloß gewesen, — wir waren auf alles
 vorbereitet. Wir besaßen besseres Handwerkszeug als erstklassige
 Einbrecher.
 
 Die Tür wurde von innen wieder verschlossen. Harsts
 Taschenlampe zeigte uns den Weg. Gleich im ersten Zimmer
-rechter Hand fanden wir (ed war ein einfaches Schlafzimmer)
-zwei Koffer vor dem Bett stehen. Sie waren sei
-stillt und verschlossen.
+rechter Hand fanden wir (es war ein einfaches Schlafzimmer)
+zwei Koffer vor dem Bett stehen. Sie waren gefüllt
+und verschlossen.
 
-Arm nächsten Raume, einem der drei Vorderzimmer,
-As auf dem Schreibtisch eine — Berliner Zeitung. Der
+Im nächsten Raume, einem der drei Vorderzimmer,
+lag auf dem Schreibtisch eine — Berliner Zeitung. Der
 Artikel über den toten Zigeuner war rot angestrichen.
 
 Harst hatte dies sofort bemerkt. »Aha!« meinte er
-nur, »Gerade diese Nummer ist’s! Die von gestern morgen.«
+nur. »Gerade diese Nummer ist’s! Die von gestern morgen.«
 
 Er drehte die Zeitung um und stutzte,
 
-»Du — die ist in Berlin gefauftl Merkroürdig! Im
-Cafee Winter. Da ist der Reklamestempel des Cafeces. Also
+»Du — die ist in Berlin gekauft! Merkwürdig! Im
+Cafee Winter. Da ist der Reklamestempel des Cafees. Also
 muß jemand diese Zeitung aus Berlin mitgebracht haben,
-schleicht der famose Sektierer Darwi, Vertreter des T. K.
+vielleicht der famose Sektierer Darwi, Vertreter des T. K. S.,
 Spion im Dienste —«
 
 Seine Taschenlampe erlosch plötzlich.
@@ -1974,28 +1977,28 @@ Seine Taschenlampe erlosch plötzlich.
 Ja — ein Auto kam die Gartenallee entlang.
 
 Die beiden Fenster des Zimmers, deren Vorhänge nicht
-Fuge zogen waren strahlten im grellen Lichte v1 Scheine
-Scheinwerfer aus. Das Zimmer war im Vorort 12,978,
+zugezogen waren strahlten im grellen Lichte der
+Scheinwerfer auf. Das Zimmer war im Moment taghell.
 
-— Wir hatten uns niedergeworfen, krochen durch den
-¿schnitt des schräg vor einer Ecke fliehenden Schreibtisches
-in das enge Versteck, Wir waren hier leidlich sicher.
-Tier Diplomateunschreibtisch war hinten mit einer Reibe
+Wir hatten uns niedergeworfen, krochen durch den
+Ausschnitt des schräg vor einer Ecke stehenden Schreibtisches
+in das enge Versteck. Wir waren hier leidlich sicher.
+Der Diplomatenschreibtisch war hinten mit einer Reihe
 <@pagebreak/>
 Bücher bestellt, auf denen noch andere lagen. An der Rückseite
 des Ausschnittes hing eine Decke, die ich nun wieder
-herabgleiten ließ
+herabgleiten ließ.
 
-»Sehr unangenehm!« flüsterte Harald, »Eine böse
+»Sehr unangenehm!« flüsterte Harald. »Eine böse
 Mausefalle!«
 
 Dann schon Schritte und Stimmen. Eine Tür knarrte.
 
-»Dort im Nebenzimmer sind die Stoffen,« jagte jemand.
+»Dort im Nebenzimmer sind die Koffer,« sagte jemand.
 
 Harald drückte meinen Arm.
 
-E38 wäre ihre nicht nötig grinsten: auch Ich hatte Darwis
+Es wäre dies nicht nötig gewesen: auch ich hatte Darwis
 Stimme erkannt.
 
 Das elektrische Licht war aufgeflammt.
@@ -2011,35 +2014,35 @@ Auto davonfahren.
 Dann kam Darwi zurück. Und erst jetzt merkten wir,
 daß er nicht allein war.
 
-»Weshalb nehmen Sie nicht Plan, Hotowatu?« sagte
+»Weshalb nehmen Sie nicht Platz, Hotowatu?« sagte
 er kurz. »Bitte — hier sind Zigaretten.«
 
 »Danke —« — Ein Zündholz knisterte.
 
 »Ich wünschte, wir wären erst auf offener See,« sagte
-der, tun Darwi mit dem Namen des Prinzen angeredet
-hatte. »Es beunruhigt mich, daß Harst aus Berlin ver
-ichwwunden ist, Man kann diesem Menschen alles zutrauen.«
-Auch er benutzte die englische Sprache, Die Stimme klang
+der, den Darwi mit dem Namen des Prinzen angeredet
+hatte. »Es beunruhigt mich, daß Harst aus Berlin ver-
+schwunden ist. Man kann diesem Menschen alles zutrauen.«
+Auch er benutzte die englische Sprache. Die Stimme klang
 ganz anders als die des falschen Prinzen, der uns in
-Schlachtensee überlistet harte. »Wie leicht können wir in
+Schlachtensee überlistet hatte. »Wie leicht können wir in
 Verdacht kommen, den Konsul Riemer ermordet zu haben.
-Und wie leicht Dann dieser Harst alles aufdecken.«
+Und wie leicht kann dieser Harst alles aufdecken.«
 
-»Lieber Hotowatu, daß Dieb nicht geschickt, dafür
+»Lieber Hotowatu, daß dies *nicht* geschieht, dafür
 lassen Sie nur mich sorgen. — Ich will jetzt nur noch den
-Schreibtisch ausräumen und alte Papiere verbrennen. Doktor
-Tokatu darf nichts zurücklassen, das ihn verraten könnte »
-Er rate etwas wohlgefällig. »Entschuldigen Ei. sie
+Schreibtisch ausräumen und alle Papiere verbrennen. Doktor
+Tokatu darf nichts zurücklassen, das ihn verraten könnte.»
+Er lachte etwas wohlgefällig. »Entschuldigen Sie also
 <@pagebreak/>
-bitte, Prinz, Hier ist übrigens auch die Zeitung ans Per
-Gräfin. Wollen Sie lesen? — Ab so — Sie sind des Deutschen
+bitte, Prinz. Hier ist übrigens auch die Zeitung aus Berlin.
+Wollen Sie lesen? — Ah so — Sie sind des Deutschen
 so weit nicht mächtig.«
 
 Er begann nun die Fächer des Schreibtisches zu durchsuchen,
 stopfte Papiere in den Ofen, zündete sie an. —
 
-ch war geradezu starr vor Staunen. Und vor Staunen
+Ich war geradezu starr vor Staunen. Und vor Staunen
 vergaß ich ganz, daß dieser rätselhafte Darwi sich nur
 ein einziges Mal etwas weiter über den Schreibtisch zu
 beugen brauchte, und er hatte uns entdeckt.
@@ -2047,25 +2050,26 @@ beugen brauchte, und er hatte uns entdeckt.
 Hotowatu, der echte Prinz, hier in Amsterdam als
 Freund Darwis?! Was hieß das nun wieder?!
 
-Da sagte Darwi schon wieder: »Die Jacht ist doch Verdächtig,
+Da sagte Darwi schon wieder: »Die Jacht ist doch seetüchtig,
 Prinz? — Der Preis erscheint mir etwas niedrig.«
 
-»ahnte — es ist ein tadelloses Schifflein, Shaccam,
+»O bitte — es ist ein tadelloses Schifflein, Shaccam,
 das beste, das in Kopenhagen aufzutreiben war. Anderthalb
-Millionen Kronen war durchaus aufgegessen.« —
+Millionen Kronen war durchaus angemessen.« —
 
-also Shaccam hieß dieser Mischling.
+Also Shaccam hieß dieser Mischling.
+
 Er trug wieder einige Papiere in den Ofen. »Ich
 bin sehr gespannt auf die Jacht. Wenn sie nur schneller
-als die Rania Maru ist, mit der Die Bande von Swinemünde
+als die Rania Maru ist, mit der die Bande von Swinemünde
 ihre Flucht fortsetzte.«
 
 »Sie läuft achtzehn Knoten, und die Rania Maru
-den: fünfzehn. Wir werden die Schurken sehr voll
+höchstens fünfzehn. Wir werden die Schurken sehr bald
 haben!«
 
-»Da, das hoffe ich auch. — Nun möchte ich noch etwas
-Mr duckt offen, Hotowattı, Kommen Sie bitte mit ins
+»Ja, das hoffe ich auch. — Nun möchte ich noch etwas
+zur Nacht essen, Hotowatu. Kommen Sie bitte mit ins
 Speisezimmer hinüber.«
 
 Sie verließen diesen Raum. Die Tür fiel ins Schloß.
@@ -2078,74 +2082,74 @@ Das Licht hatte Shaccam ausgedreht.
 »Wir müssen es wagen,« flüsterte Harald. »Wir müssen
 die Jacht finden!«
 
-Das hieß also: schleunigst hier weg und nach Umfiel
-Potsdam zurück.
+Das hieß also: schleunigst hier weg und nach Amsterdam
+zurück.
 
-Harald roch bereits im Dunkeln der Tür des Schlas-ziumers
+Harald kroch bereits im Dunkeln der Tür des Schlafzimmers
 zu.
 
-Wir gelangten unbemerkt in den Hinterflur, Harst
+Wir gelangten unbemerkt in den Hinterflur. Harst
 hatte auch schon den Dietrich ins Türschloß eingeführt, als
-die Vordertür nach dem Vorderflurxr hin quietschte.
+die Vordertür nach dem Vorderflur hin quietschte.
 
-Ein Lichtschein tauchte auf
+Ein Lichtschein tauchte auf.
 
 »Shaccam!« raunte ich warnend.
 
-Harald hatte feine Taschenlampe traf auägefehattet,
+Harald hatte seine Taschenlampe rasch ausgeschaltet.
 
 Der kleine Shaccam, einen Leuchter in der Hand,
 wollte nach der Küche abbiegen.
 
 Da gewahrte er uns, prallte zurück.
 
-Und griff Blitzschnell In die Schlüsseltasche seiner Beinkleider.
+Und griff blitzschnell in die Schlüsseltasche seiner Beinkleider.
 
 Die Tür flog jedoch bereits auf, Harst gab mir einen
 Stoß, sprang hinter mir drein, packte mich am linken Aermel,
 
 Zwei — drei Schüsse knallten.
 
-Der Nebel schütte uns.
+Der Nebel schützte uns.
 
-Wir Tiefen nach vorm der Straße zu, Die Pforte
-fand weit offen Liefen durch die falten feuchten Schleier
+Wir liefen nach vorn der Straße zu. Die Pforte
+stand weit offen. Liefen durch die kalten feuchten Schleier
 weiter, hörten noch Shaccam irgend etwas brüllen, gingen
 langsamer, erreichten unseren Wagen, holten den Kutscher
 aus der Schenke und ließen uns nach Amsterdam bringen.
 
-Harst hatte dem Kutscher ein Trinkgeld versprochen,
+Harst hatte dem Kutscher ein Trinkgeld versprochen.
 Der Mann ließ die Pferde ordentlich ausgreifen,
 
 Ich war noch ganz atemlos.
 
-»Begreifst Dar das alles?« fragte ich Harald.
+»Begreifst Du das alles?« fragte ich Harald.
 
-»Nur halb nur halb!« Er grübelte vor sich hin und
-hatte sich als Nervenberuhigung eine Mirakulum angezündet
-»Tatsache nur halb mein Alter! Und dies Halbe
-bedeutet: wir sind was den Bunten angeht, Bibel: vßêilia
+»Nur halb -- nur halb!« Er grübelte vor sich hin und
+hatte sich als Nervenberuhigung eine Mirakulum angezündet.
+»Tatsache -- nur halb mein Alter! Und dies Halbe
+bedeutet: wir sind was den Prinzen angeht, bisher völlig
 <@pagebreak/>
-auf dem Sofaecke antreten. Wir müssen alles, was mit
+auf dem Irrwege gewesen. Wir müssen alles, was mit
 diesen Papieren zusammenhängt, die Riemer fraglos in
-Japan an sich brachte und die ihm von Japanern nun Wies
-der abgenommen wurden, gründlich nachprüfen So e1in-fach,
+Japan an sich brachte und die ihm von Japanern nun wie-
+der abgenommen wurden, gründlich nachprüfen. So einfach,
 wir die Vorgeschichte dieses Abenteuers zu sein schien,
 ist sie nicht. Nein noch lange nicht! Bedenke, daß wir
-Diesmal den echten Prinzen vor uns hatten, daß Shaccam
-uns die Drohung hinterließ, der hier den Sapanecı Tokatu
+diesmal den echten Prinzen vor uns hatten, daß Shaccam
+uns die Drohung hinterließ, der hier den Japaner Tokatu
 gespielt hatte, daß der Prinz inzwischen in Kopenhagen
 eine Jacht gekauft und — daß er ruhig geduldet hat, daß
 ein anderer in Berlin seine Rolle spielte! Dies letztere
-ist so verblüffend, daß ich einsah vor einem Rätsel stehe!«
+ist so verblüffend, daß ich einfach vor einem Rätsel stehe!«
 
 Harst hatte ganz recht: ein Rätsel!
 
-immer näher kam der Hafenlärm
+Immer näher kam der Hafenlärm.
 
 Dann die Fähre — dann Amsterdam — ein Auto,
-das mit uns zum Hafenamt jagte Hier Fragen nach einer
-Jacht, die von Kopenhagen gekommen sein müßte
+das mit uns zum Hafenamt jagte. Hier Fragen nach einer
+Jacht, die von Kopenhagen gekommen sein müßte.
 
 Antwort des Beamten: »Jacht Kung Christian, in
 Besitz des japanischen Kaufmanns Shaccam übergegangen,
@@ -2158,136 +2162,135 @@ Wir wieder ins Auto.
 
 Der Kraftwagen hatte es nicht weit. Wir stiegen aus,
 zahlten. Rechter Hand der Hafen — ein Mastenwald, eine
-Nebelflut, in der Schisssschatten hin und her glitten.
+Nebelflut, in der Schiffsschatten hin und her glitten.
 
 Wir fragten uns durch, fragten Zollbeamte, Lotsen.
 
-Kamen am Bollwerk bis zu einer leeren Stelle Dann
+Kamen am Bollwerk bis zu einer leeren Stelle. Dann
 — sahen wir die Motorjacht mit dem dicken schrägen kurzen
-Schornstein, den beiden Notmasten, dem gewölbten Seh,
+Schornstein, den beiden Notmasten, dem gewölbten Deck,
 
 »Warte hier,« flüsterte Harald und schob mich in den
 Schatten eines Kistenstapels,
 
-Er eilte einem Zollbeamten na,
+Er eilte einem Zollbeamten nach,
 
 Als er wieder erschien, wischte er gerade seinen Füllfederhalter
-trocken
+trocken.
 
-«So — nun vorwärts!«
+»So — nun vorwärts!«
 
 <@pagebreak/>
-Ich war erstaunt. Wie anders Hang feine Stimme
-plögylich.
+Ich war erstaunt. Wie anders klang seine Stimme
+plötzlich.
 
 »Was denn?« fragte ich unsicher. »Vorwärts?! Wohin?«
 
 »Auf die Jacht! Aber — als blinde Passagiere!«
 
-Er zog mich mit sich fort. Wir fanden In einem nahen
-Bootshafen einen Nachen, ein armseliges Ding aus Brettern
-Ersuchen ein. Harst ruderte. Die beiden Riemen
+Er zog mich mit sich fort. Wir fanden in einem nahen
+Bootshafen einen Nachen, ein armseliges Ding aus Brettern.
+Stiegen ein. Harst ruderte. Die beiden Riemen
 waren ebenso kläglich.
 
-Langsam pirschten wir und an den Kung Christian
-heran Nach dem Wasser zu hing das Fallreep, Ein winziges
+Langsam pirschten wir uns an den Kung Christian
+heran. Nach dem Wasser zu hing das Fallreep. Ein winziges
 Motorboot war daran vertäut.
 
-Mir sahen an Deck keine Seele — Seine Wache, nichts,
+Wir sahen an Deck keine Seele — keine Wache, nichts,
 
 Wir wagten es, stiegen das Fallreep empor, ließen den
-Nachen treiben, schlichen über das Tod zur Treppe der
-Hectaiüte, die Treppe hinab.
+Nachen treiben, schlichen über das Deck zur Treppe der
+Heckkajüte, die Treppe hinab.
 
 Die Flügeltür des Treppenverschlusses stand offen, in
-dem schmalen Gange brannte an der Decke eine Glühbirne,
+dem schmalen Gange brannte an der Decke eine Glühbirne.
 Vier Türen waren zu erkennen. Wir hörten sprechen,
-lachen, Dann begann ein Grammophon zu fraßen,
+lachen. Dann begann ein Grammophon zu kratzen.
 
 Harst kroch unter die Treppe, wo ja zumeist kleinere
-Vorschläge ihren Zugang haben.
+Verschläge ihren Zugang haben.
 
-Ei Er riegelte Die schmale niedere Tür auf, schob sich
-nein,
+Er riegelte die schmale niedere Tür auf, schob sich
+hinein,
 
-Ich folgte Feier miderfirebend, Hatte Harald denn
+Ich folgte sehr widerstrebend. Hatte Harald denn
 ganz vergessen, daß die Jacht wahrscheinlich sehr bald in
-See ging?! Shaccam hatte Doch feine Koffer bereits an
+See ging?! Shaccam hatte doch seine Koffer bereits an
 Bord bringen lassen.
 
 Harst zog die Tür zu. Sie klemmte. Sie hielt auch
 ohne den Riegel.
 
-Seine Lampe leuchtete auf, zeigte uns  Segelballen,
-kam ollen, Kisten, Fässer, »
+Seine Lampe leuchtete auf, zeigte uns Segelballen,
+Taurollen, Kisten, Fässer.
 
-Wir fanden dahinter ein gutes Verfiel, — Ich konnte
-nun nicht länger an mich halten,
+Wir fanden dahinter ein gutes Versteck. — Ich konnte
+nun nicht länger an mich halten.
 
-»Harald, die Fach! wird den Heu vielleicht noch in
-dieser nacht verlassen —«
+»Harald, die Jacht wird den Hafen vielleicht noch in
+dieser Nacht verlassen —«
 
 <@pagebreak/>
-»Hossentit), zum Alter - mit uns an Bord!«
+»Hoffentlich, mein Alter -- mit uns an Bord!«
 
-»ist das nicht sehr viel gewagt?« meinte ich warnend
+»Ist das nicht sehr viel gewagt?« meinte ich warnend.
 
-»Bewagnt?! — Man fein! See ging nicht anders »
+»Gewagt?! — Mag sein! Es ging nicht anders.»
 
-Er hatte die Taschenlampe wieder zu erhaltet Wir
-saßen nebeneinander hinter den Kisten in Feuriger Dunkelheit.
+Er hatte die Taschenlampe wieder angeschaltet. Wir
+saßen nebeneinander hinter den Kisten in völliger Dunkelheit.
 
-»Was — Moos hattest Du auf dem Kai noch geschrieben?
-Du stecktest Deine Füllfeder weg Einen Brief an wen?«
+»Was — was hattest Du auf dem Kai noch geschrieben?
+Du stecktest Deine Füllfeder weg. Einen Brief -- an wen?«
 
 »An den Konsul Ter Leewen, den hiesigen Konsul Japans.
-Er soll unsere Hotelrechnung bezahlen Und — und
+Er soll unsere Hotelrechnung bezahlen. Und — und
 noch etwas —«
 
-»Was denn? »
+»Was denn?»
 
-»Es ist nicht gut, daß der Mut allein sei! — Aha
+»Es ist nicht gut, daß der Mensch allein sei! — Aha
 hörst Du? Da kommt jemand die Treppe hinab — nein,
 zwei Personen. Vielleicht Shaccam und der Prinz. Es
 ist halb zwölf. Um elf wollte Shaccam abgeholt werden.«
 
-Î Eine Tür klappte Stimmen, Zurufe Stille.
+Eine Tür klappte. Stimmen, Zurufe, Stille.
 
-Ihres wieder Schritte — dann eine Trillerpfeife an
+Dann wieder Schritte — dann eine Trillerpfeife an
 Deck. —
 
-È Mir war keineswegs wohl bei alledem, feineäwegs!
-[Harald spielte hier ein sehr gefährliches Spiel. Waren mir
-erst auf hoher See, dann mußten wir hier endeckt werden.
-dann mußten. wir von selbst diesen Verschlag verhalfen
-Wir mußten essen und trinken
+Mir war keineswegs wohl bei alledem, keineswegs!
+Harald spielte hier ein sehr gefährliches Spiel. Waren mir
+erst auf hoher See, dann mußten wir hier entdeckt werden,
+dann mußten wir von selbst diesen Verschlag verlassen.
+Wir mußten essen und trinken.
 
-Wie dachte sich Harald die Fortsetzung dieses Aden
-Steuers?!
+Wie dachte sich Harald die Fortsetzung dieses Abenteuers?!
 
-»Die Sache wird böse ablaufen,« meinte ist) wieder
+»Die Sache wird böse ablaufen,« meinte ich wieder.
 
-»in Gegenteil. Nur so werden wir ans viel grau
+»Im Gegenteil. Nur so werden wir ans Ziel gelangen.
 Nur so!«
 
-Da schwieg ich. — Und die Zeit schlich weiter. Au
-war es recht lebendig, Auch im Gange und auf der
-Treppe war ein ständiges Sehen und brenne
+Da schwieg ich. — Und die Zeit schlich weiter. Auf
+Deck war es recht lebendig. Auch im Gange und auf der
+Treppe war ein ständiges Gehen und Kommen.
 
-»Ein Uhr morgens,« meldete Harald und hie!) mü
-das Leuchtzifferblatt seiner Taschenuhr vor Augen
+»Ein Uhr morgens,« meldete Harald und hielt mir
+das Leuchtzifferblatt seiner Taschenuhr vor Augen.
 
-Plötzlich ein Surren und Schütteln. Die Jacht bebte
+Plötzlich ein Surren und Schütteln. Die Jacht bebte.
 
 <@pagebreak/>
 »Aha — die Motoren! Es geht vorwärts!« flüsterte
-Harst. -
+Harst. --
 
 Und wieder sah ich das Leuchtzifferblatt: drei Uhr
 morgens!
 
 Wir merkten, wir waren in der Nordsee. Die Jacht
-wiegte ich kräftig, rollte etwas.
+wiegte sich kräftig, rollte etwas.
 
 »Also nun Antrittsvisite!« sagte Harald.
 
@@ -2296,7 +2299,7 @@ Seine Lampe blitzte auf.
 »Du kannst Dir Bart und Perücke abnehmen, wie ich es
 tue. — So! Folge mir —«
 
-Was falte das?! Wollte er etwa —
+Was sollte das?! Wollte er etwa —
 
 Da hatte Harst schon die Tür des Verschlages aufgedrückt,
 stand schon im Gang, klopfte schon kräftig an eine
@@ -2305,42 +2308,42 @@ der Türen, hinter der auch ich Stimmen hörte.
 Und — stieß die Tür auf, trat ein.
 
 Shaccam und drei Japaner saßen da um einen Tisch
-des kleinen Jachtsalons- herum.
+des kleinen Jachtsalons herum.
 
 Ein Gelächter empfing uns — ein wieherndes Gelächter.
 
-Er:gerann rief
+Shaccam rief:
 
 »Willkommen, Mr. Harst! Abermals sind Sie uns auf
 den Leim gekrochen! Lassen Sie nur Ihre Clementpistole
-in der Tasche, Verehrtester! Wir sind vorbereitet, Dort
-stehen wer, die rascher abdrücken, als Sie Ihre Waffe entsichert
+in der Tasche, Verehrtester! Wir sind vorbereitet. Dort
+stehen zwei, die rascher abdrücken, als Sie Ihre Waffe entsichert
 haben.«
 
-Ja — in der rechten Ehe lehnten an der Wand noch
-zwei Japaner Ihre Revolver bedrohten uns.
+Ja — in der rechten Ecke lehnten an der Wand noch
+zwei Japaner. Ihre Revolver bedrohten uns.
 
 Harst zog die Hand leer aus der Tasche zurück.
 
-»Wir werden einig werden,« meinte er kühl, »Sie
-gestatten, daß wir uns fegen — »
+»Wir werden einig werden,« meinte er kühl. »Sie
+gestatten, daß wir uns setzen —»
 
-»bitte!« Shaccam deutete auf zwei Korbjsessel an der
-einen Echmalsecite des Tisches. Seine Höflichkeit triefte von
+»Bitte!« Shaccam deutete auf zwei Korbsessel an der
+einen Schmalseite des Tisches. Seine Höflichkeit triefte von
 Hohn.
 
-Wir nahmen Plan. Ich kam mir wie ein wehrlofed
-Wild vor, das die Jäger eingekreist Hahn.
+Wir nahmen Platz. Ich kam mir wie ein wehrloses
+Wild vor, das die Jäger eingekreist haben.
 
 Shaccam sagte schon von neuem: »Also willkommen,
-Mr Harst! Damit die Lage allseits gekippt wird: wir sind
+Mr. Harst! Damit die Lage allseits geklärt wird: wir sind
 <@pagebreak/>
-Ihnen beiden auch im Hotel Oranien nahe gerne! n Will
-rechneten damit, daß Sie Doktor Tatorts Landhau Ihnen
-würden, Wir beobachteten Sie, als Sie Ins Haus eindrangen,
-Was dann unserseits geschah, war XL oft, So
-möchte, sollte Sie nur hier auf den Kung Christi! locken,
-der [her manchen Namen als ach geführt bar und he)
+Ihnen beiden auch im Hotel Oranien nahe gewesen! Wir
+rechneten damit, daß Sie Doktor Tokatus Landhaus finden
+würden. Wir beobachteten Sie, als Sie ins Haus eindrangen.
+Was dann unserseits geschah, war Theater, Kömodie,
+sollte Sie nur hier auf den Kung Christian locken,
+der schon manchen Namen als Jacht geführt hat und der
 reine Verwandlungskünstler ist,«
 
 Harst hatte sich bequem zurückgelehnt.
@@ -2348,100 +2351,99 @@ Harst hatte sich bequem zurückgelehnt.
 »Das haben Sie gut gemacht, Mr. Shaccam. Meine
 Anerkennung!«
 
-»Danke, — Und wie stellen Sie sich nun das Ende vor«
+»Danke. — Und wie stellen Sie sich nun das Ende vor?«
 
-»am — Ich nehme an, Sie werden Schraut, noch und
-den Prinzen nebst Gefolge irgendwo auslegen auf einem
-Inselchen, von wo wir nicht so leicht wieder wegkommen »
+»Hm — Ich nehme an, Sie werden Schraut, mich und
+den Prinzen nebst Gefolge irgendwo aussetzen -- auf einem
+Inselchen, von wo wir nicht so leicht wieder wegkommen.»
 
-Shaccam wurde ernst, »Sie glauben also, wir hab
-den echten Hotowatu arm Bord?«
+Shaccam wurde ernst. »Sie glauben also, wir haben
+den echten Hotowatu an Bord?«
 
-»Ich glaube ja, Er wird wohl bisher in dem Land
-Haus gefangen gehalten worden sein. Und diese Jacht fl
-dieselbe, die in Swinemünde die Flüchtlinge Auto in »
+»Ich glaube ja. Er wird wohl bisher in dem Land-
+Haus gefangen gehalten worden sein. Und diese Jacht ist
+dieselbe, die in Swinemünde die Flüchtlinge aufnahm."
 
-»ganz recht, Dir Harst,« Shaccam blieb holt um
-ernsthaft. »Wir mußten auch Sie Beine haben Es: lahm
-uns frönen können. »— Wir sind keine am öfter Tat ma
-Riemer töteten, war ein Art der Vergeltung Er »grx ein
-Schurke, ein Feigling. Wenn Sie Bude Ehrenwort ich wer:
-sprechen, hier an Bord nichts Gewaltsanies zu un sehr/1
-Tönen Ehe sich hier als unsere Säfte fühlen Bis wir so
-alle angebraten werden, und zwar auf per Gummi, mich
-250 Meilen östlich von Japan, wo Sie alles eine in wird
-um ein paar Monate als 7 Ran leben zu sei 4 Ihre
-Vermutung war also richtig, cu wollen Eis bete, den
-Prinzen und Gefolge Nr
+»Ganz recht, Mr. Harst,« Shaccam blieb höflich und
+ernsthaft. »Wir mußten auch Sie beide haben. Sie hätten
+uns stören können. — Wir sind keine Mörder. Daß wir
+Riemer töteten, war ein Akt der Vergeltung. Er war ein
+Schurke, ein Feigling. Wenn Sie beide ehrenwörtlich ver-
+sprechen, hier an Bord nichts Gewaltsames zu unternehmen,
+können Sie sich hier als unsere Gäste fühlen. Bis wir Sie
+alle ausbooten werden, und zwar auf der kamura, etwa
+250 Meilen östlich von Japan, wo Sie alles finden werden,
+um ein paar Monate als Insulaner leben zu können. Ihre
+Vermutung war also richtig. Wir wollen Sie beide, den
+Prinzen und Gefolge loswerden."
 
-»Und Sie selbst werden mit Hilfe ver geraubten Da
-Papiere« Millionen gewinnen!«
+»Und Sie selbst werden mit Hilfe der geraubten
+Papiere Millionen gewinnen!«
 
-»Ja — etwa dreißig Millionen, Mr Harst, Holde
-smart-Riskieren!«
+»Ja — etwa dreißig Millionen, Mr. Harst, -- Goldmark-Millionen!"
 
-Er winkte jetzt den Heiden Annoncen an Der Tone zu
+Er winkte jetzt den beiden Japanern an der Wand zu.
 <@pagebreak/>
-Wir Leute gingen hinaus. Dafür nahm Shaccam nun
-pst Tue Browning In die Hand und entsicherte sie.
+Die Leute gingen hinaus. Dafür nahm Shaccam nun
+jetzt eine Browning in die Hand und entsicherte sie.
 
-Oh hatte in einem der drei Japaner bereits den Mann
+Ich hatte in einem der drei Japaner bereits den Mann
 wiedererkannt, der den Prinzen in Schlachtensee gespielt
-Watte, Diese drei Japaner verhielten sich völlig schweigsam,
+hatte. Diese drei Japaner verhielten sich völlig schweigsam,
 rauchten Zigaretten und beobachteten uns still. Sie
-Amen mir wie Statisten vor, die dieser Shaccam kommandierte,
+kAmen mir wie Statisten vor, die dieser Shaccam kommandierte,
 
 »Wie ist es nun, Mr. Harst?« wandte Shaccam sich
 uns wieder zu. »Wollen Sie Ihre ehrenwörtliche Zusage
 geben?«
 
-»ich werde ed mir überlegen. Sie haben mich über
-überlistet, Shaccam. ch möchte die Scharte auswetzen! Er
+»Ich werde ed mir überlegen. Sie haben mich über-
+überlistet, Shaccam. Ich möchte die Scharte auswetzen!" Er
 sah nach der Uhr. »Es ist halb fünf morgens. Gewähren
 Sie mir eine Stunde nur. Dann sage ich Ihnen Bescheid.
-»bis dahin aber werden Schraut und ich nichts gegen Sie
+Bis dahin aber werden Schraut und ich nichts gegen Sie
 unternehmen, weder gegen Sie noch Ihre Verbündeten noch
 die Jacht.«
 
-Shaccam lächelte »Das heißt also, Sie werden diese
-Stunde Dazu bewachen, einen Ihrer feinen Streiche auszutüfteln,
-Der. Harst! Verstehe!«
+Shaccam lächelte. »Das heißt also, Sie werden diese
+Stunde dazu benutzen, einen Ihrer feinen Streiche auszutüfteln,
+Mr. Harst! Verstehe!«
 
-»Oh — der Streich kann auch schon unterwegs fein,«
+»Oh — der Streich kann auch schon unterwegs sein,«
 lächelte Harald ebenfalls.
 
-Der rätselhafte Shaccam schütteue den Kopf. »Solche
-Drohungen verfangen hier nicht, Mr Harst. Wirklich nicht!
-Sie sind, nachdem wir uns in dem Land hause von Ihnen
-belauschen ließen, mir aus dem Hafenamt gewesen. Was
+Der rätselhafte Shaccam schüttelte den Kopf. »Solche
+Drohungen verfangen hier nicht, Mr. Harst. Wirklich nicht!
+Sie sind, nachdem wir uns in dem Landhause von Ihnen
+belauschen ließen, nur auf dem Hafenamt gewesen. Was
 Sie dort gefragt haben, könnte ich Ihnen Wort für Wort
-wiederholen Dann haben Sie einen Zollbeamten mit einem
-Brief nach Ihrem Hotel gefesselt, damit Ihr Fernbleiben
-dort mit aufstehe, Der Beamte sollte auch Ihre
-Rechnung bealeicen und den Hoteldirektor ersuchen, Ihre
-Koffer aufzubar»hier Dem Briefe sägten Sie Geld bei.
-Der Beamte Ein. dann auch Befugt zum Hotel Oranien und
-erledigte den Austrag. Sie haben mit feinem Menschen
+wiederholen. Dann haben Sie einen Zollbeamten mit einem
+Brief nach Ihrem Hotel geschickt, damit Ihr Fernbleiben
+dort nicht auffiele. Der Beamte sollte auch Ihre
+Rechnung begleichen und den Hoteldirektor ersuchen, Ihre
+Koffer aufzubewahren. Dem Briefe fügten Sie Geld bei.
+Der Beamte ging dann auch sofort zum Hotel Oranien und
+erledigte den Auftrag. Sie haben mit keinem Menschen
 <@pagebreak/>
-weiter gesprochen, nachdem meine Tau wisse Sie beide M0
-aus dem Landhaus verjagt hatten.« ii
+weiter gesprochen, nachdem meine Schreckschüsse Sie beide
+aus dem Landhaus verjagt hatten.«
 
-»Allerdings nicht, Honorar —« an
+»Allerdings nicht, Shaccam —«
 
 »Also kann der Streich nur in Ihrem Hirn unterwegs
-fein.,Das ist möglich, — Nun, ich bilde nix ein, ebene
+sein. Das ist möglich. — Nun, ich bilde mir ein, eben-
 falls leidlich intelligent zu sein. Ihren Spitzfindigkeiten bin
-ich gewachsen, — Sie werden also bis halb sechs morgens
-nichts gegen uns unternehmen — nicht 7»
+ich gewachsen. — Sie werden also bis halb sechs morgens
+nichts gegen uns unternehmen — nichts?»
 
-»Nein. Wir beide nicht, also Schraut mit eingerechnet.« von
+»Nein. Wir beide nicht, also Schraut mit eingerechnet.«
 
-Shaccam schob die Bildete in die Tasche. »Gut. Sie
+Shaccam schob die Pistole in die Tasche. »Gut. Sie
 können sich bis dahin frei auf Deck bewegen, meine Herren.
 Sie dürfen aber nicht etwa einem Schiffe zuwinken.«
 
-»Das wäre gegen die Abrede,« meinte Harald achtet
-Rudert, erhob sich und griff nach feiner Reisemütze,
+»Das wäre gegen die Abrede,« meinte Harald achselzuckend,
+erhob sich und griff nach seiner Reisemütze,
 
 <h2>4. Kapitel.</h2>
 
@@ -2743,7 +2745,7 @@ sehen bestehenden Besatzung abermals den Kurs westwärts
 genommen. Als Passagiere befanden glich an Bord: der
 Prinz nebst Gefolge, Harald und ich,
 
-Die Reife ging nach Mittelamerika, durch den Pana-malanal
+Die Reife ging nach Mittelamerika, durch den Panamakanal
 in den Stillen Ozean und dann nach Japan Wir
 verlebten so zwei überaus behagliche Wochen las Reiten
 war günstig. Angenehmere Gesellschaft alle »erneuten
@@ -2751,7 +2753,7 @@ und den Hauptmann Sato können wir uns »zum wünschen
 
 Schon von Amsterdamm war ein langes Telegramm
 an die Polizei in Tokio abgegangen, in dem Harald um
-Ueberwachung des Hauses Shaccams und Beschlaanahme
+Ueberwachung des Hauses Shaccams und Beschlagnahme
 sämtlicher dort vorhandener Schriftstücke des Mischlings gebeten
 hatte. In Panama, der berühmten Kanalstadt, lag
 eine Antwortdepesche für Harst bereit, Ihr Inhalt besagte,
@@ -2796,7 +2798,7 @@ wir den Motor des (Leinen Kutters Anwälten und ihr langsam
 folgten Der Kutter hatte ein aujllappbares Dasitzende!
 mit Toltuchvorbängen In dieser zeltartigen las
 Haie verwandelten wir uns einer nach dem andern in sei
-japanische Hafenfulis, färbten uns Gesicht, Nacken und
+japanische Hafenkulis, färbten uns Gesicht, Nacken und
 Hals, gaben unseren Zügen durch kleine Funsigrisfse Mon-golentvp,
 stellten unsere Clementpistolen und manches ans
 andere in die I ’fchen der schmierigen Peinenanziüne und Was
@@ -2813,7 +2815,7 @@ Ich ist die nächsten Ereignisse kurz zusammenfassen:
 der Prinz fuhr im Auto nach dem in den nahen Bergen
 liegenden burgähnlichen Stamnmsiße seines Vaters hinaus.
 Wir blieben in einem zweiten Auto hinter ihm, Das moderne
-Japan. Koffer einbegriffen, ist ja auch in Verkehrs-sachen
+Japan. Koffer einbegriffen, ist ja auch in Verkehrssachen
 völlig europäisiert. — Vorbei an großen Papierfabriken
 (das Kotschi-Papier ist berühmt) und zierlichen
 Häuschen, Tempeln und Verlängern ging’s durch Gärten,
@@ -2835,11 +2837,11 @@ Trinkgeld. Der Mama versprach zu warten.
 Dann auf uns eine große Cutiüuseung: es war nicht
 möglich, in das von einer beben Steinmauer umgebene
 Gebäude einzudringen! Da kläfften hinter der Maul Li
-nur Hunde, sondern wir sahen auch Factelschein die Bäume
+nur Hunde, sondern wir sahen auch Fackelschein die Bäume
 mit blutigem Glanz überziehen.
 
 Trotzdem verbargen wir uns gegenüber der Mauerpforte,
-deren zierliche Veschläge auf dem dunklen neue wie
+deren zierliche Beschläge auf dem dunklen neue wie
 goldene Arabesken leuchteten, im jenseitigen Etrakengras
 den hinter einer leeren gruseligen Hülle, —
 
@@ -2870,7 +2872,7 @@ gekehrt.
 
 Ich hielt mich stets etwa zehn Meter von der Mauer
 entfernt, Es gab hier viele Büsche, einzelne Bäume und
-zahlreiche Feléblöcke, die mir genügend Deckung boten. Als
+zahlreiche Felsblöcke, die mir genügend Deckung boten. Als
 ich das Ende der Südseite der Mauer erreicht hatte, war ich
 so hoch gestiegen, daß ich nun auf den merkwürdigen Steinkasten
 von Haus herabbliden konnte. — Kotschi wird von
@@ -2906,7 +2908,7 @@ zu einem hoch über der Erde liegenden Fenster zu gelangen
 Die Scheiben waren nicht aus Glas, sondern »As Oelpapier.
 Ein Gitter aus Bronze schütte dieses Fenster. — Ich sah,
 daß in dem Tempel Licht himmerte, sah weiter, daß eine
-der Delpapierfcheiben rechtwinfline Schnitte hatte. Ich
+der Oelpapierscheiben rechtwinfline Schnitte hatte. Ich
 f[Zwang mich auf den Fenstervorsprung, Unechte Harald
 Platz, der nun sofort neben mir erschien.
 
@@ -2916,7 +2918,7 @@ Der Schnitt stammte also von feinem Messer.
 
 ch tat’s, Und nun konnte ich die hell erleuchtete
 Tempelhalle überblicken. Da brannten in zwei Dutzend
-bronzenen Pfannen wohlriehende Harte, deren Qualm die
+bronzenen Pfannen wohlriechende Harte, deren Qualm die
 Zempeldede völlig einhüllte. Da saßen in der Mitte der
 Halle etwa zehn Japaner aller Altersstufen, darunter auch
 Prinz Hotowatu neben einem weißbärtigen Manne, der die
@@ -2942,7 +2944,7 @@ Harakiri!
 <@pagebreak/>
 Mix wurde fast Schwach bei diesem Anblick. Oh sah
 ja, daß das Gesicht des Japaners vor Schmerzen dauernd
-frampfartig zarte, daß er sich die Lippen blutig biß, um
+krampfartig zarte, daß er sich die Lippen blutig biß, um
 jeden Schmerzenélaut zu unterdrücken.
 
 Ich Hatte schon manches miterlebt: in China vier Hin-rihtnigen
@@ -3071,7 +3073,7 @@ Viertel t! —
 Wenn der Leser dies wenige mit den hier geschilderten
 Vorgängen vergleicht, wird er unschwer viele Punkte fing
 den, die Harsts Lösung: bestätigen, so besonders Der Ins
-stand, daß man ins glänzend für unsere Tätigkeit hono-rierte,
+stand, daß man ins glänzend für unsere Tätigkeit honorierte,
 jedoch in Diner Weise ins Vertrauen zog. Es gar
 Hi Tamilienangelegenbeit, die totgeschwiegen wer den
 rollte. —
