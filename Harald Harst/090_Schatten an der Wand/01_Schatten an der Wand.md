@@ -15,7 +15,7 @@ Opfer der berüchtigten Eva Wilcword.
 
 Am Alexanderplatz kaufte auch der eine von zwei älteren,
 Rucksäcke tragenden Arbeitern solch eine Zeitung. Die
-beiden Arbeiter waren soeben durch eine Nebengrotte aus
+beiden Arbeiter waren soeben durch eine Nebenpforte aus
 dem Polizeipräsidium gekommen. Sie gingen mit müden,
 schweren Schritten die Treppen zum Stadtbahnhof Alexanderplatz
 empor und pferchten sich mit in ein überfülltes Abteil
@@ -47,8 +47,8 @@ Plotz erschoß sich, hat aber nach den Zeitungsberichten noch
 ein teilweises Geständnis abgelegt, und so ist man auf eine
 rätselhafte Explosion in einer Lehmgrube im Walde bei
 Lichterfelde aufmerksam geworden. Man befürchtet, Harst
-und Schraut seien dort in der Lehmgrube absichtlich ver- 
-schüttet worden. Es soll nun sofort mit Nachgrabungen
+und Schraut seien dort in der Lehmgrube absichtlich verschüttet
+worden. Es soll nun sofort mit Nachgrabungen
 begonnen werden.«
 
 »So — so, — sehr interessant!« meinte der alte Herr.
@@ -67,7 +67,7 @@ wurden zerpflückt. Man stellte allerhand Vermutungen auf,
 wie Harst und Schraut wohl in jene Falle gelockt worden
 sein könnten.
 
-Dann hielt der Zug im Vorort Halensee. Die beide
+Dann hielt der Zug im Vorort Halensee. Die beiden
 Arbeiter stiegen aus und wanderten die Ringbahnstraße
 hinab nach Schmargendorf.
 
@@ -96,7 +96,7 @@ Sie näherten sich der Blücherstraße.
 will nur meine Mutter beruhigen und mitbringen, was wir
 noch brauchen.«
 
-Ich blieb allein an einer Plakatsäule sehen und studierte
+Ich blieb allein an einer Plakatsäule stehen und studierte
 die bunten Ankündigungen, um mir die Zeit zu vertreiben.
 
 Da war auch ein grellroter Zettel mit schwarzem Druck.
@@ -198,7 +198,7 @@ Und dann — es war die Eingebung eines Augenblicks
 »Das Wort!«
 
 Da lächelte er und ließ tadellose Zähne sehen, gab mir
-die Hand, ich die ich auch schleunigst drückte, und sagte in hartem
+die Hand, die ich auch schleunigst drückte, und sagte in hartem
 Deutsch:
 
 »Etwas umständlich diesmal! — Wo wohnst Du denn?«
@@ -236,7 +236,7 @@ noch, und er fuhr davon.
 Das war in der Tat ein merkwürdiges Erlebnis!
 
 Ich hatte jedoch nicht Zeit, weiter daran zu denken.
-Harst wanderte die Straße hinab, der Depeschenbote folgte -
+Harst wanderte die Straße hinab, der Depeschenbote folgte
 und ich ebenfalls.
 
 So bewegten wir uns in Zwischenräumen von etwa
@@ -382,7 +382,7 @@ Keine Antwort.
 sehr!« fuhr Harald fort. »Zumal es Ihnen nicht gelungen
 ist, den Brief, der heute früh für mich eintraf, meiner Mutter
 wieder abzuschwindeln. Ich habe diesen Brief, der
-ebenfalls den Poststempel Heringsdorf trägt, hier in des
+ebenfalls den Poststempel Heringsdorf trägt, hier in der
 Tasche. Gelesen habe ich ihn noch nicht.«
 
 Er holte den Brief hervor, der noch nicht geöffnet war.
@@ -562,7 +562,7 @@ Norden Berlins — galante Gegend, Studenten- und Zigeunerviertel
 ein paar Mietskasernen, in denen nur Zigeuner hausen!
 <@pagebreak/>
 Zigeuner war Dein »Ungar«! — Und weiter: besinne Dich
-auf die Schreckens nacht in der Lehmgrube! Da tanzte Eva
+auf die Schreckensnacht in der Lehmgrube! Da tanzte Eva
 am Lagerfeuer einer Zigeunerbande!«
 
 Ich stand da und ließ all das sich in mein Hirn einbohren
@@ -770,7 +770,7 @@ Der »Ungar« war schon neben mir.
 Der Wagen ruckte an, lief davon.
 
 Mir klopfte das Herz bis in den Hals hinein. Das
-noch im letzten Moment entwischt. Der »Ungar« hätte
+war noch im letzten Moment entwischt. Der »Ungar« hätte
 uns da eine nette Suppe einbrocken können! Offenbar hatte
 er mich an meinem kurzen Hals und den hohen Schultern
 erkannt. Vielleicht auch an der Nase. —
@@ -875,7 +875,7 @@ Stricke lockern. Wir lassen uns ruhig ins Wasser werfen.
 Sie tun’s sicher von irgend einer Brücke aus —« —
 
 Harst hatte das richtige vermutet. Das Auto hielt.
-Die Decken wurden weggerissen. Mann zerrte uns heraus.
+Die Decken wurden weggerissen. Man zerrte uns heraus.
 
 Alles ging so blitzschnell, daß ich gar nicht recht zur
 Besinnung kam.
@@ -972,7 +972,7 @@ Spuk existiert wirklich.«
 
 »Daran zweifele ich nicht,« warf Harst ernsthaft ein.
 
-Wir beide hatten ja bereit in Heringsdorf, wo wir
+Wir beide hatten ja bereits in Heringsdorf, wo wir
 tatsächlich abgestiegen waren, von dem »Schatten an der
 Wand«, wie der Spuk hier in der Gegend allgemein hieß,
 manches gehört. Hinzu kam noch der Brief des Majoratsherrn
@@ -1067,7 +1067,7 @@ schon drei Monate. Sie malt meist Heidebilder und Seestücke.
 Ein nettes junges Mädchen ist’s. Kara Roth
 heißt sie — Roth mit th. Kara — ein komischer Vorname!«
 
-Harst blinzelte mich zu. Ich verstand: Karg — Karla,
+Harst blinzelte mich zu. Ich verstand: Kara — Karla,
 Ernst-Edgars Schwester! — Ich verstand jetzt überhaupt
 alles: die Geschwister wollten ihren Onkel durch den Spuk
 zur Herausgabe der Münzensammlung zwingen. Karla
@@ -1161,7 +1161,7 @@ neben sich einen großen Hausiererkasten stehen hatte.
 
 Ich setzte mich abseits. Der Mann mit dem Hausiererkasten
 putzte umständlich seine Brille. Ohne die Brille
-war es — Haus Bechert! — Er klappte seinen  Kasten auf
+war es — Hans Bechert! — Er klappte seinen  Kasten auf
 und nahm ein paar Bücher heraus. Dann kam er zu mir,
 pries mir die Schriften an, flüsterte zwischenein: »Wo ist
 Harst?«

@@ -31,14 +31,14 @@ Um drei Uhr nachmittags kam seine Antwort:
 > Treffe abends 8 Uhr Swinemünde ein. Bitte Auto
 zur Bahn und Harst. — Reppen.
 
-Mit Holger von Reppens Auto fuhren wie um sieben
+Mit Holger von Reppens Auto fuhren wir um sieben
 Uhr von Sandburg ab. Bechert war bereits nach Berlin
 zurückgekehrt. Um drei Viertel acht hielten wir vor dem
 Hauptbahnhof des großen Seebades.
 
 Der Zug lief ein. Wir hatten uns an der Sperre aufgestellt.
 Reppen, einen kleinen Handkoffer in der Hand, war
-der letzten. Tief gebeugt, blaß und verstört, kam er
+einer der letzten. Tief gebeugt, blaß und verstört, kam er
 langsam daher.
 
 Wir trugen keine Verkleidung. Daß wir dem Dynamitattentat
@@ -120,7 +120,7 @@ Harald tauchte auf der Treppe zu den Schalterräumen
 auf. Als er vor uns stand, sagte er kurz:
 
 <@pagebreak/>
-»Der Kerl ist weg — wie in den, Boden gesunken, —
+»Der Kerl ist weg — wie in den Boden gesunken, —
 kannten Sie ihn, Herr von Reppen?«
 
 »Nein — nein — woher denn?«
@@ -374,7 +374,7 @@ angeklebten grauen Bart schlecht abgerissen in der Eile.
 Am linken Ohr war noch ein Stückchen Bart haften
 geblieben.«
 
-»Was hältst Du von dem Portier und der »13?«’«
+»Was hältst Du von dem Portier und der »13«?«
 forschte ich gespannt weiter.
 
 »Sehr viel! Reppen hat Geheimnisse zu hüten, die
@@ -785,12 +785,12 @@ durch Haralds Berührung gleichsam erwachte.
 
 »Wie meinst Du das?« fragte ich mißtrauisch.
 
-»Das wirft Du sehen! — Die drei sind im Turme verschwunden.
+»Das wirst Du sehen! — Die drei sind im Turme verschwunden.
 Versuchen wir, ob wir ebenfalls in den Turm
 hineingelangen können.«
 
 »Was bedeutet das alles?!« flüsterte ich gespannt. »Du
-scheinst darüber mehr zu wissen, als Du nur verraten willst.«
+scheinst darüber mehr zu wissen, als Du mir verraten willst.«
 
 »Ich weiß nichts. Ich vermute nur etwas. Wäre diese
 Vermutung richtig, dann hätte ich Eva Wilcword sogar
@@ -895,13 +895,13 @@ auf einem der Haken des Blitzableiters Halt fand. Ich
 gab mir die größte Mühe, jedes Geräusch zu vermeiden.
 Ich kam höher und höher.
 
-Dann über mir Haralds Stimme;
+Dann über mir Haralds Stimme:
 
 »Hand her!«
 
 Er half mir vollends empor.
 
-»Port die Dachluke war nur zugeklappt, nicht verschlossen,«
+»Dort die Dachluke war nur zugeklappt, nicht verschlossen,«
 meinte er. »Ich war schon unten. Eine Leiter führt
 in das oberste Stockwerk hinab. Die dreizehn sitzen im
 zweiten Stock. Die Fenster haben sie dicht verhängt. Die
@@ -997,7 +997,7 @@ Urteil zu vollstrecken. Er ist an der Reihe.«
 Sie setzte sich wieder.
 
 Der Sprecher schaute hinter seiner Maske hervor die
-Angeklagten eine Weile an. Dann erkläre er:
+Angeklagten eine Weile an. Dann erklärte er:
 
 <@pagebreak/>
 »Wir werden abstimmen! Führt die beiden wieder
@@ -1086,10 +1086,10 @@ Gefahr, den Henker spielen zu müssen, überhoben?!
 Wenn ich in diesem Moment schon gewußt hätte, welch
 verwegener Plan von ihm jetzt eingeleitet wurde und wie
 vollständig er alles, was hier geschah, durchschaut hatte,
-dann werde ich, um das Risiko dieses gewagten Unterfangens
+dann würde ich, um das Risiko dieses gewagten Unterfangens
 zu verkleinern, ganz anders gehandelt haben. Aber
 mein Hirn hatte nicht die ungeheure Regsamkeit des seinen!
-Mein Sinn nahm die Tatsachen ohne jede scharfe Prüfung
+Mein Hirn nahm die Tatsachen ohne jede scharfe Prüfung
 <@pagebreak/>
 aller Einzelheiten hin, wie Harst sie bereits vollendet hatte.
 Und diese Prüfung hatte ihm die Gewißheit gegeben: So
@@ -1124,7 +1124,7 @@ Ich fühlte Hände, die blitzschnell meinen Hals umspannten,
 fühlte andere Hände an Armen und Beinen, wurde hochgehoben,
 wurde gewürgt, wurde halb bewußtlos.
 
-Ein schweres Tuch glitt mit über das Gesicht.
+Ein schweres Tuch glitt mir über das Gesicht.
 
 Eine Hand preßte mir einen Knebel in den Mund.
 
@@ -1426,7 +1426,7 @@ hier, wo ich meine Rache bestimmt vollenden zu können
 gehofft hatte. — Sie werden den Zusammenhang
 längst begriffen haben: ich hatte außer dem großen Verbrecherbund
 noch diesen zweiten Klub gegründet — nur
-Reppens wegen! Die Klubmitglieder sind, bis auf Reppen
+Reppens wegen! Die Klubmitglieder sind, bis auf Reppen,
 meine Kreaturen. »Freunde der Gerechtigkeit« nannten
 wir uns, um Reppen an uns zu locken. »Freunde der
 Rache« waren wir. Reppen sollte Majoratsherr werden,
@@ -1478,7 +1478,7 @@ Die Dogge flog die Stufen bellend empor.
 
 Verschwand.
 
-Harst war stechen geblieben, schaute mich an.
+Harst war stehen geblieben, schaute mich an.
 
 Die Dogge bellte oben noch lauter.
 
