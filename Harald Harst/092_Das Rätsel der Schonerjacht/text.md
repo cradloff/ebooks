@@ -21,7 +21,7 @@ Wir waren in Japan.
 
 Wir hatten uns Tokio gründlich angesehen, waren wieder
 nach Nagasaki zurückgekehrt und hörten hier, daß die
-Motorjacht Rania Maru inzwischen Von dem amerizuischen
+Motorjacht Rania Maru inzwischen von dem amerikanischen
 Milliardär Pierpont Narrow angekauft worden war.
 
 Die Rania Maru hatte ihre Geschichte. Mit einem toten
@@ -32,8 +32,8 @@ Wir trafen am Kai in Nagasaki Landsmann Schlenter,
 den Kapitän der Rania Maru. Der erzählte uns sofort,
 daß die Jacht nun in anderen Besitz übergegangen sei.
 
-»Ihre Koffer sind noch ah Bord, meine Herren. Narrow
-Legt Weit darauf, daß Sie die offen persönlich holen.
+»Ihre Koffer sind noch an Bord, meine Herren. Narrow
+legt Wert darauf, daß Sie die Koffer persönlich holen.
 Weshalb weiß ich nicht. Er hat die ganze Besatzung mit
 übernommen, mich eingerechnet. Mir soll’s recht sein. Er
 bezahlt anständig.«
@@ -41,51 +41,51 @@ bezahlt anständig.«
 Schlenter hatte den Motorkutter der Jacht am Kai
 bereit. Die Rania Maru lag weiter draußen vor Anker.
 Als wir an Bord kamen, war es acht Uhr abends. Wir
-ahnten nicht. daß wir eine Viertelstunde später eine Oel
-schichte hören sollten, die noch weit merfiwüärdig: »Mr aha die
-& toten Zigeuners.
+ahnten nicht, daß wir eine Viertelstunde später eine Ge-
+schichte hören sollten, die noch weit merkwürdiger war als die
+des toten Zigeuners.
 
-en ein Witwer von einigen fünf? Jahren, empfing
+Narrow, ein Witwer von einigen fünfzig Jahren, empfing
 <@pagebreak/>
-nun überaus liebenswürdig. Er saß gerade mit feinem
+uns überaus liebenswürdig. Er saß gerade mit seinem
 Privatsekretär John Laccemoor bei der Arbeit, das
-heißt, er diktierte Briefe, Depeschen und ließ seine Millionäre
+heißt, er diktierte Briefe, Depeschen und ließ seine Milliarden
 eben wie ein Heer zum Kampf aufmarschieren.
 
-War mußten Plan nehmen. »Warten Sie einen Augenblick.
+Wir mußten Platz nehmen. »Warten Sie einen Augenblick.
 Ich bin sofort fertig,« sagte er und wandte sich
 wieder an Laccemoor, einen geradezu verhungert aussehenden
-Menschen mit dem Gesicht eines Näschen.
+Menschen mit dem Gesicht eines Asketen.
 
 Dann war Narrow frei. »Gott sei Dank!« meinte er
 aufatmend und reckte die massige Gestalt. »Gott sei Dank
 — nun kommen meine Privatangelegenheiten heran! —
 Eine Frage zunächst, Mr. Harst: Sind Sie als Detektiv zur
-Zeit unbefhäftigit — Ja? Das trifft sich gut, sehr gut sogar.
+Zeit unbeschäftigt? — Ja? Das trifft sich gut, sehr gut sogar.
 Ich kann Sie brauchen. Mir ist da etwas zugestoßen,
-Das einfach unglaublich ist. Laccemoor weiß Bescheid.
+das einfach unglaublich ist. Laccemoor weiß Bescheid.
 Sonst noch niemand. Also — meine Schonerjacht Nevada
-tt verschwunden, mit der ganzen Besatzung, mit meiner
+ist verschwunden, mit der ganzen Besatzung, mit meiner
 Nichte Evelyn, deren Gesellschafterin Miß Graner und der
-Zofe Lugte Ward.«
+Zofe Luzie Ward.«
 
 »Wo?« fragte Harald, indem er sich eine Zigarette aus
 der Schale nahm, die Narrow ihm hinhielt.
 
 »Das weiß ich nicht!« —
 
-Auch ich bediente mich. Laccentoor reichte und Feuer.
+Auch ich bediente mich. Laccemoor reichte uns Feuer.
 Wir saßen jetzt um den Tisch im Salon herum.
 
 »Ich will Ihnen alles im Zusammenhang erzählen,«
-fuhr Karre fort. »Wir waren zuletzt mit der Nevada in
+fuhr Narrow fort. »Wir waren zuletzt mit der Nevada in
 Bombay. Dort erhielt ich eine Depesche, daß hier in Japan
 eine große Sache schwebte. Ich wollte mich beteiligen.
 Laccemoor und ich fuhren am 6. Oktober mit einem
 Dampfer hier nach Tokio. Evelyn blieb mit der Nevada
 in Bombay, wollte uns dann von hier abholen. Das war
 vor zwei Wochen, Mr. Harst. Die Nevada verließ Bombay
-am zehnten Oktober. Seitdem hat sie fein Meute mehr gen
+am zehnten Oktober. Seitdem hat sie kein Mensch mehr ge-
 sehen — nur gehört, das heißt, ich erhielt hier eine drahtlose
 Depesche von der Nevada, ein Chiffretelegramm, das
 etwa lautete:
@@ -95,44 +95,44 @@ etwa lautete:
 > Besondere Umstände zwingen mich, mit der Nevada
 zu verschwinden. Laß nicht nach uns suchen. Evelyn.
 
-Sir das nicht geradezu toll, Mr. Harst? 1»
+Ist das nicht geradezu toll, Mr. Harst?!»
 
-»Wann erhielten Sie die Depesche € »
+»Wann erhielten Sie die Depesche?»
 
 »Am 13. Oktober abends — ausgerechnet, am dreizehnten!«
 
 »Die Nevada hat also Funksprucheinrichtung. — Ueber
-eben Absendeort der Depesche ist nichts bekannt?«
+den Absendeort der Depesche ist nichts bekannt?«
 
 »Nichts. — Ich beauftragte dann —«
 
-»Einen Augenblick, Mr. Narrow. Ich bin noch
-sehr sorgfältig vorzugehen. Teer erst noch einige andere
-Fragen. — Hatten Sie mit Ihrer. Nichte besondere geheime
-Chiffren für den Telegrammaustaufch vereinbart? Wenn
-ja — wer langte außer Ihrer Nichte diesen geheimen
+»Einen Augenblick, Mr. Narrow. Ich bin gewohnt,
+sehr sorgfältig vorzugehen. Daher erst noch einige andere
+Fragen. — Hatten Sie mit Ihrer Nichte besondere geheime
+Chiffren für den Telegrammaustausch vereinbart? Wenn
+ja — wer kannte außer Ihrer Nichte diesen geheimen
 Kode noch?«
 
 »Ich merke, Sie wollen feststellen, Mr. Harst, ob Evelyn
 auch wirklich die Absenderin der Depesche ist. — Meine
 Nichte — ich bin Witwer und habe keine eigenen Kinder —
-ist die Tochter meines einzigen Bruders Schwand und erbt
+ist die Tochter meines einzigen Bruders Edward und erbt
 einmal mein Vermögen. Sie lebt seit zehn Jahren in
-meinem Hause Unser gegenseitiges Verhältnis ist überaus
+meinem Hause. Unser gegenseitiges Verhältnis ist überaus
 herzlich. Evelyn und ich benutzen stets einen geheimen
-Hohe für Depeschen, den nur tote beide kennen und den rohe
+Kode für Depeschen, den nur wir beide kennen und den wir
 häufiger wechseln. Es ist daher ausgeschlossen, daß nicht
-»Evelyn, sondern jemand anders die Depesche abgeschickt
+Evelyn, sondern jemand anders die Depesche abgeschickt
 haben könnte.«
 
-»Danke, Mr. Narrow. Nun fahren Sie fort —
+»Danke, Mr. Narrow. Nun fahren Sie fort —<<
 
 »Nach Empfang dieses merkwürdigen Telegramms beriet
 ich mich mit Laccemoor. Ich beauftragte dann die
 Leiter meiner Zweigniederlassungen in Bombay, Kolombo,
-»Madras und Singapore, in aller Stille nach dem Verbleib
-der Nevada zu forschen. Nur der Bombayer melde:: soll
-klagendes. Hier ist die Uebertragung seiner Oase
+Madras und Singapore, in aller Stille nach dem Verbleib
+der Nevada zu forschen. Nur der Bombayer meldete folgendes.
+Hier ist die Uebertragung seiner Chiffredepesche --<<
 
 Er reichte Harald ein mit Bleistift beschriebenes Blatt.
 
@@ -143,50 +143,50 @@ zweier Herren gesehen. Europäer, mir und hier
 unbekannt. Einmal begegnete ich Miß E. tief verschleiert
 zu Fuß im Eingeborenenviertel. Sie kam aus dem
 Laden eines bekannten Wucherers, eines Persers Hassan
-he Schickte zu Mirza hiesigen zuverlässigen Detektiv
-igm Connword; konnte nichts ermitteln. Sonst nichts.
+Mirza. Schickte zu Mirza hiesigen zuverlässigen Detektiv
+Chester Connword; konnte nichts ermitteln. Sonst nichts.
 — Ermig.«
 
 »Und weiter wissen auch Sie nichts, Mr. Narrow?«
 meinte Harald nun.
 
 »Nein. Die Nevada ist also jetzt neun Tage überfällig,
-Mr. Harst, — Grund, genug zu ernstester Beunruhigung. Ich
+Mr. Harst, — Grund genug zu ernstester Beunruhigung. Ich
 habe hier nun die Rania Maru gekauft. Sie ist das
-an Schiff in Ostasien. Sagen Sie, was geschehen
+schnellste Schiff in Ostasien. Sagen Sie, was geschehen
 soll —«
 
-Narrows kurze Art war ganz nach) Haralds Geschmack
+Narrows kurze Art war ganz nach Haralds Geschmack.
 
-»Nach Bombay, Mr. Narrow —
+»Nach Bombay, Mr. Narrow —<<
 
-e, bleiben gleich an Bord?«
+>>Sie bleiben gleich an Bord?«
 
 »Ja.«
 
-an gehen wir um Mitternacht in See —« —
+"Dann gehen wir um Mitternacht in See —« —
 
-Wir behielten unsere Kabine auf der Rania Maru
+Wir behielten unsere Kabine auf der Rania Maru.
 Wir waren hier an Bord so gut wie zu Hause.
 
-Um neun Uhr soupierten wir mit Narrow, Sélenterfl
+Um neun Uhr soupierten wir mit Narrow, Schlenter
 und Laccemoor. Um zehn traf eine neue Chiffredepesche
-des Bombayer Vertreters Ermig ein, der nebenbei ein«
-Deutscher war, wie der Milliardär uns noch mitgeteilt ne
+des Bombayer Vertreters Ermig ein, der nebenbei ein
+Deutscher war, wie der Milliardär uns noch mitgeteilt hatte.
 
 Die Depesche lautete:
 
 > »Detektiv Connword hat durch Bestechung eines
-Angestellten Mirzas festgestellt, daß Miß E. dreimal be«
-dem Wucherer war und dort ihren Schmuck berpfände
-hat. Sie erhielt dafür 20 000 Pfund Sterling. Coup«
-Connword behauptet, daß Liebesgeschichte mitspielt. — Ermig.
+Angestellten Mirzas festgestellt, daß Miß E. dreimal bei
+dem Wucherer war und dort ihren Schmuck verpfändet
+hat. Sie erhielt dafür 20 000 Pfund Sterling.
+Connword behauptet, daß Liebesgeschichte mitspielt. — Ermig.<<
 
-Laccemoor hatte die Depesche übertragen. Als Nur«
-Narrow sie las, erbleichte er, sprang auf und lief im Safe
+Laccemoor hatte die Depesche übertragen. Als
+Narrow sie las, erbleichte er, sprang auf und lief im Salon
 <@pagebreak/>
-erregt hin und der. Er beherrschte sich jedoch sehr bald,
-nahm wieder Plan und sagte ärgerlich:
+erregt hin und her. Er beherrschte sich jedoch sehr bald,
+nahm wieder Platz und sagte ärgerlich:
 
 »Dieser Connword ist ein Narr. Ein Mädchen von
 dreiunddreißig Jahren wie Evelyn hat die Zeit der Romantik
@@ -195,54 +195,54 @@ und Schwärmerei hinter sich.«
 Harst, der in der Sofaecke saß, fragte dann:
 
 »Miß Evelyn erhält von Ihnen doch wohl ein sehr
-reichlich;es Taschengeld, Mr Narrow?«
+reichliches Taschengeld, Mr. Narrow?«
 
 »Allerdings! Sie hat’s wahrlich nicht nötig, Schmuck
-zu verlegen! — Wie konnte sie nur! Wozu brauchte sie
-20 000 Pfund?!«!
+zu versetzen! — Wie konnte sie nur! Wozu brauchte sie
+20 000 Pfund?!«
 
 Der stattliche Mann grübelte finster vor sich hin.
 
-Kahn Laccemoor, der fpinvdeldürre Sekretär, strich ich
-Pfg über den kurz geschorenen, schon leicht ergrauten
+John Laccemoor, der spindeldürre Sekretär, strich sich
+bedächtig über den kurz geschorenen, schon leicht ergrauten
 Kopf.
 
 »Miß Evelyn sammelt Altertümer,« warf er leise ein.
 
-»Unsinn, ’Laccemoor, — Unsinn! Wenn Evelyn Geld
-»brauchte, hätte sie doch zu Ermig gehen können!« Er
+»Unsinn, Laccemoor, — Unsinn! Wenn Evelyn Geld
+brauchte, hätte sie doch zu Ermig gehen können!« Er
 schlug sich mit der geballten Faust auf den Schenkel. »Das
 alles muß aufgeklärt werden — muß! Sie werden es tun,
 Mr. Harst. Ich habe Vertrauen zu Ihnen. Laccemoor
 hält zwar von allen Detektiven nichts, aber ich habe meinen
-Kopf für mit«
+Kopf für mich!«
 
-Der Sekretär lächelte. »Mr. Harst w’:© jetzt denken,
-ich hätte Ihnen abgeraten, sich an ihn zu in. sen, Mr. Narr
-rote, was doch keineswegs der Fall ist.«
+Der Sekretär lächelte. »Mr. Harst wird jetzt denken,
+ich hätte Ihnen abgeraten, sich an ihn zu wenden, Mr. Narrow,
+was doch keineswegs der Fall ist.«
 
 »Na — zugeredet haben Sie mir auf nicht gerade,
 Laccemoor! Wir wollen ruhig bei der Wahrheit bleiben.
 Mr. Harst ist sicherlich nicht empfindlich.«
 
-»Keinesiwegs’ nickte Harald ıumd gähnte verstohlen.
+»Keineswegs,<< nickte Harald und gähnte verstohlen.
 
 Wir gingen dann in unsere Kabine hinüber. Sie lag
-dem Jachtsalon gerade gegenüber. Neben und. wohnte
-Laccemoor, nach dem Heck zu, auf der anderen Seite bei
+dem Jachtsalon gerade gegenüber. Neben uns wohnte
+Laccemoor, nach dem Heck zu, auf der anderen Seite be-
 fanden sich die beiden Räume Narrows.
 
 Harald schaltete die Deckenlampe ein, blieb mitten in
-Der Kabine stehen und horchte nach dem Gang hinaus.
+der Kabine stehen und horchte nach dem Gang hinaus.
 
 <@pagebreak/>
-»Laccemoor sprach von Mltertümern,« flüsterte er. »Also
-wollte er uns wohl auf eine falsche Spur Leuten, was Miß
+»Laccemoor sprach von Altertümern,« flüsterte er. »Also
+wollte er uns wohl auf eine falsche Spur lenken, was Miß
 Evelyns Geldausgaben betrifft.«
 
-»Denselben Eindruck hatte auch ich —
+»Denselben Eindruck hatte auch ich —<<
 
-»Er weiß etwas, mein Alter, — As weiß er etwas.
+»Er weiß etwas, mein Alter, — fraglos weiß er etwas.
 Er riet Narrow ab, uns heranzuziehen. Wir werden mit
 diesem Laccemoor die Arbeit anfangen. Wir schlafen abwechselnd.
 Einer wacht stets. Laccemoor muß beobachtet
@@ -253,22 +253,22 @@ die reine Fuchsvisage. Hinter den Gläsern seiner Brille
 lauerten ein Paar Augen, die viel zu ausdruckslos waren,
 um harmlos sein zu können. —
 
-Bald Tag ich im Bett. Harald Hatte sich einen Stuhl
+Bald lag ich im Bett. Harald hatte sich einen Stuhl
 an die Kabinentür gerückt und das Licht wieder ausgedreht.
 
 Ich konnte nicht einschlafen. Die Depesche Evelyns an
 ihren Onkel beschäftigte mich immer wieder.
 
-"— zwingen mich, mit der Nevada zu verschwinden.
+>>— zwingen mich, mit der Nevada zu verschwinden.
 Laß nicht nach uns suchen.«
 
 Ja — Narrow hatte ganz recht: die Depesche war ein
-Volles Stück! — Und dann Evelyn in Bombay: zwei fremde
-Europäer, der Wucherer Hassan Mirza! — Da war Schwer
-ein Vers drauf zu machen! —
+tolles Stück! — Und dann Evelyn in Bombay: zwei fremde
+Europäer, der Wucherer Hassan Mirza! — Da war schwer
+ein Vers draus zu machen! —
 
 Kurz vor zwölf hörte ich, daß die Ankerketten der Rania
-Maru durch die Klüger rasselten. Dann begannen die
+Maru durch die Klüsen rasselten. Dann begannen die
 Motoren zu arbeiten. Die Jacht verließ den Hafen. Bald
 schaukelte sie draußen auf offener See.
 
@@ -277,73 +277,73 @@ jemand: Harst!
 
 »Viel Neues, mein Alter,« flüsterte er im Dunkeln
 neben mir. »Laccemoor schlich vorhin an Deck auf die
-Brücke und- — ins Marconihäuschen. — Begreifst Du?!
+Brücke und — ins Marconihäuschen. — Begreifst Du?!
 Er hat telegraphiert! Er blieb eine halbe Stunde drinnen.
 Steuermann Germer hatte die Wache auf der Brücke. Als
 Laccemoor verschwunden war, fragte ich Germer aus. Er
-bald zu und. Er ist verschwiegen. Laccemoor hat ihm gesagt,
+hält zu uns. Er ist verschwiegen. Laccemoor hat ihm gesagt,
 <@pagebreak/>
 er wolle nur probieren, ob die Apparate der Rania
 Maru ebenso gut sind wie die der Schonerjacht. — Schwindel
 natürlich. Germer hat gehört: es wurde telegraphiert!
 Wir sind also schon einen Schritt weiter, lieber Alter.«
 
-Hegt war ich) an der Reihe, Harst abzulösen. Ich kreiste
+Jetzt war ich an der Reihe, Harst abzulösen. Ich kleidete
 mich rasch an.
 
-Gegen vier Uhr morgens — ich) Hatte unsere Kabinentür
+Gegen vier Uhr morgens — ich hatte unsere Kabinentür
 eine Handbreit geöffnet — huschte Laccemoor der
 Treppe zu.
 
-Ich ihm nach. — Und — Wieder stieg er auf die
+Ich ihm nach. — Und — wieder stieg er auf die
 Brücke. Wieder betrat er die Marconizelle.
 
 Mir genügte diese Feststellung: ich war überzeugt, daß
-XXX
+er die Antwort auf seine Depesche entgegengenommen hatte.
 
 Ich weckte Harald.
 
 »Gut, gut,« meinte er. »Lege Dich jetzt nur ebenfalls
-Bett. Es muß gleich hell werden.«
+zu Bett. Es muß gleich hell werden.«
 
 »Ich will doch lieber noch warten —« — Und so saß
-ich denn abermals neben der Tür und spähte in den mal
-erleuchteten Gang hinaus
+ich denn abermals neben der Tür und spähte in den matt
+erleuchteten Gang hinaus.
 
-Laccemoor kehrte bald zurück. Kaum war er in feiner
+Laccemoor kehrte bald zurück. Kaum war er in seiner
 Kabine verschwunden, als ein zweiter Mann, diesmal nicht
-Jeu der Treppe, sondern von der Schiffsküche her, erschien
-Und bei Laccemoor leise anpochte. Er wurde sofort eingelassen.
+von der Treppe, sondern von der Schiffsküche her, erschien
+und bei Laccemoor leise anpochte. Er wurde sofort eingelassen.
 Dieser Mann war der neue Schiffskoch, den Laccemoor
 in Nagasaki besorgt hatte, ein Chinese!
 
 Als ich Harald mitteilte, wer jetzt bei Laccemoor weilte,
-fette er sich im Bett aufrecht!
+setzte er sich im Bett aufrecht!
 
 »Schraut, Schraut, — die Geschichte wird vielversprechend.
 Laccemoor hat den Koch besorgt, also ist der
-Fach ein alter Bekannter von ihm.«
+Koch ein alter Bekannter von ihm.«
 
 »Hm — der Sekretär ist doch aber bereits über fünfzehn
-Fahre bei Narrow und genießt dessen vollstes Vertrauen.«
+Jahre bei Narrow und genießt dessen vollstes Vertrauen.«
 
-Trabten kann’s ein Schuft fein, mein Alter —« Er
-machte eine Pause. »Der Mann somit mir her he der
+"Trotzdem kann’s ein Schuft sein, mein Alter —« Er
+machte eine Pause. »Der Mann kommt mir vor wie der
 <@pagebreak/>
-berüchtigte Jntrigant aus einem Volksstück. Ich mag ihm
+berüchtigte Intrigant aus einem Volksstück. Ich mag ihm
 Unrecht tun. Vorläufig spricht alles gegen ihn.«
 
 »Und die Depesche Evelyns?«
 
 »Sollte Laccemoor den zwischen Narrow und Evelyn
-vereinbarten Hohe nicht kennen? Er als Privatsekretär! —
+vereinbarten Kode nicht kennen? Er als Privatsekretär! —
 Nimm mal an, Laccemoor habe Sorgen — Geldsorgen.
 Er mag spekuliert haben. Er mag auf andere Dummheiten
-verfallen- sein. Jedenfalls: diesen Mann bedrückt etwas.
+verfallen sein. Jedenfalls: diesen Mann bedrückt etwas.
 Er hat ein schlechtes Gewissen. Wenn Du ihn unauffällig
-beobachte! hättest, würdest Du —«
+beobachtet hättest, würdest Du —«
 
-Die Unterbrechung, Die Haralds Ausführungen hier
+Die Unterbrechung, die Haralds Ausführungen hier
 beendete, war so eigenartig, daß auch wohl Harst vor Verlegenheit
 genau so rot wurde wie ich.
 
@@ -352,30 +352,30 @@ nach Laccemoors Kabine hin. — Die Kabinenwände waren
 auch hier wie sehr oft auf Jachten aus zwei Holzwänden
 mit einer Korkschicht dazwischen hergestellt. Das sah man
 über der Tür am Ventilatorenausschnitt. Das Holz war
-dunkelrot poliert und bis zu anderthalb Meter Höhe nur
+dunkelrot poliert und bis zu anderthalb Meter Höhe mit
 einem hellen, bunten Bastgeflecht bespannt, welches als
 Abschluß eine Goldleiste hatte.
 
 Durch dieses Bastgeflecht erklang nun von Laccemoors
-Seite her plögßlih die Stimme des Sekretärs:
+Seite her plötzlich die Stimme des Sekretärs:
 
-»Sie irren, Mr. Harst. Ich Habe fein schlechtes Gewissen,
+»Sie irren, Mr. Harst. Ich habe kein schlechtes Gewissen,
 habe weder betrogen noch spekuliert. — Verzeihen
 Sie, daß ich gelauscht habe. Ich mußte es tun. Als ich
 mich vorhin zu Bett legte, stieß ich mit dem Ellenbogen
 gegen die Wand, gegen die Bastbespannung. Mein Bett
 steht gerade an dieser gemeinsamen Wand. Da klappte,
 durch den Stoß gelöst, ein viereckiges Stück der Wand herab.
-Sie beide waren von mir daher mir noch durch die
+Sie beide waren von mir daher nur noch durch die
 Bastbespannung auf Ihrer Seite getrennt. Obwohl Sie
-nur frisierten, mußte ich Doch jedes Wort verstehen. Ich
-Da meinen Namen nennen. Wer hätte da wohl der
+nur flüsterten, mußte ich doch jedes Wort verstehen. Ich
+hörte meinen Namen nennen. Wer hätte da wohl der
 Versuchung widerstanden, den Lauscher zu spielen, zumal
-die lebten Ereignisse mich so stark beunruhigt haben?! —
+die letzten Ereignisse mich so stark beunruhigt haben?! —
 <@pagebreak/>
 Wenn Sie gestatten, komme ich sofort zu Ihnen hinüber.
 Ich möchte Ihnen so manches anvertrauen, damit Sie sehen,
-daß ich fein — Schuft bin.«
+daß ich kein — Schuft bin.«
 
 »Kommen Sie,« erklärte Harald. »Sie hätten sofort
 Vertrauen zu uns haben sollen.«
@@ -3092,7 +3092,7 @@ Schluß will ich hier nur noch erwähnen, daß aus Evelyn
 und Vierp’ont Narrow doch noch ein glückliches Ehepaar geworden
 ist.
 
-Nächster Wand:
+Nächster Band:
 
 __Die tote Karawane.__
 
