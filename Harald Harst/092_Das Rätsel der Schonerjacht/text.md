@@ -41,8 +41,8 @@ bezahlt anständig.«
 Schlenter hatte den Motorkutter der Jacht am Kai
 bereit. Die Rania Maru lag weiter draußen vor Anker.
 Als wir an Bord kamen, war es acht Uhr abends. Wir
-ahnten nicht, daß wir eine Viertelstunde später eine Ge-
-schichte hören sollten, die noch weit merkwürdiger war als die
+ahnten nicht, daß wir eine Viertelstunde später eine Geschichte
+hören sollten, die noch weit merkwürdiger war als die
 des toten Zigeuners.
 
 Narrow, ein Witwer von einigen fünfzig Jahren, empfing
@@ -85,8 +85,8 @@ Laccemoor und ich fuhren am 6. Oktober mit einem
 Dampfer hier nach Tokio. Evelyn blieb mit der Nevada
 in Bombay, wollte uns dann von hier abholen. Das war
 vor zwei Wochen, Mr. Harst. Die Nevada verließ Bombay
-am zehnten Oktober. Seitdem hat sie kein Mensch mehr ge-
-sehen — nur gehört, das heißt, ich erhielt hier eine drahtlose
+am zehnten Oktober. Seitdem hat sie kein Mensch mehr gesehen
+— nur gehört, das heißt, ich erhielt hier eine drahtlose
 Depesche von der Nevada, ein Chiffretelegramm, das
 etwa lautete:
 
@@ -95,9 +95,9 @@ etwa lautete:
 > Besondere Umstände zwingen mich, mit der Nevada
 zu verschwinden. Laß nicht nach uns suchen. Evelyn.
 
-Ist das nicht geradezu toll, Mr. Harst?!»
+Ist das nicht geradezu toll, Mr. Harst?!«
 
-»Wann erhielten Sie die Depesche?»
+»Wann erhielten Sie die Depesche?«
 
 »Am 13. Oktober abends — ausgerechnet, am dreizehnten!«
 
@@ -125,14 +125,14 @@ häufiger wechseln. Es ist daher ausgeschlossen, daß nicht
 Evelyn, sondern jemand anders die Depesche abgeschickt
 haben könnte.«
 
-»Danke, Mr. Narrow. Nun fahren Sie fort —<<
+»Danke, Mr. Narrow. Nun fahren Sie fort —«
 
 »Nach Empfang dieses merkwürdigen Telegramms beriet
 ich mich mit Laccemoor. Ich beauftragte dann die
 Leiter meiner Zweigniederlassungen in Bombay, Kolombo,
 Madras und Singapore, in aller Stille nach dem Verbleib
 der Nevada zu forschen. Nur der Bombayer meldete folgendes.
-Hier ist die Uebertragung seiner Chiffredepesche --<<
+Hier ist die Uebertragung seiner Chiffredepesche —«
 
 Er reichte Harald ein mit Bleistift beschriebenes Blatt.
 
@@ -158,13 +158,13 @@ soll —«
 
 Narrows kurze Art war ganz nach Haralds Geschmack.
 
-»Nach Bombay, Mr. Narrow —<<
+»Nach Bombay, Mr. Narrow —«
 
->>Sie bleiben gleich an Bord?«
+»Sie bleiben gleich an Bord?«
 
 »Ja.«
 
-"Dann gehen wir um Mitternacht in See —« —
+»Dann gehen wir um Mitternacht in See —« —
 
 Wir behielten unsere Kabine auf der Rania Maru.
 Wir waren hier an Bord so gut wie zu Hause.
@@ -180,7 +180,7 @@ Die Depesche lautete:
 Angestellten Mirzas festgestellt, daß Miß E. dreimal bei
 dem Wucherer war und dort ihren Schmuck verpfändet
 hat. Sie erhielt dafür 20 000 Pfund Sterling.
-Connword behauptet, daß Liebesgeschichte mitspielt. — Ermig.<<
+Connword behauptet, daß Liebesgeschichte mitspielt. — Ermig.«
 
 Laccemoor hatte die Depesche übertragen. Als
 Narrow sie las, erbleichte er, sprang auf und lief im Salon
@@ -225,12 +225,12 @@ was doch keineswegs der Fall ist.«
 Laccemoor! Wir wollen ruhig bei der Wahrheit bleiben.
 Mr. Harst ist sicherlich nicht empfindlich.«
 
-»Keineswegs,<< nickte Harald und gähnte verstohlen.
+»Keineswegs,« nickte Harald und gähnte verstohlen.
 
 Wir gingen dann in unsere Kabine hinüber. Sie lag
 dem Jachtsalon gerade gegenüber. Neben uns wohnte
-Laccemoor, nach dem Heck zu, auf der anderen Seite be-
-fanden sich die beiden Räume Narrows.
+Laccemoor, nach dem Heck zu, auf der anderen Seite befanden
+sich die beiden Räume Narrows.
 
 Harald schaltete die Deckenlampe ein, blieb mitten in
 der Kabine stehen und horchte nach dem Gang hinaus.
@@ -240,7 +240,7 @@ der Kabine stehen und horchte nach dem Gang hinaus.
 wollte er uns wohl auf eine falsche Spur lenken, was Miß
 Evelyns Geldausgaben betrifft.«
 
-»Denselben Eindruck hatte auch ich —<<
+»Denselben Eindruck hatte auch ich —«
 
 »Er weiß etwas, mein Alter, — fraglos weiß er etwas.
 Er riet Narrow ab, uns heranzuziehen. Wir werden mit
@@ -259,13 +259,13 @@ an die Kabinentür gerückt und das Licht wieder ausgedreht.
 Ich konnte nicht einschlafen. Die Depesche Evelyns an
 ihren Onkel beschäftigte mich immer wieder.
 
->>— zwingen mich, mit der Nevada zu verschwinden.
+»— zwingen mich, mit der Nevada zu verschwinden.
 Laß nicht nach uns suchen.«
 
 Ja — Narrow hatte ganz recht: die Depesche war ein
 tolles Stück! — Und dann Evelyn in Bombay: zwei fremde
 Europäer, der Wucherer Hassan Mirza! — Da war schwer
-ein Vers draus zu machen! —
+ein Vers drauf zu machen! —
 
 Kurz vor zwölf hörte ich, daß die Ankerketten der Rania
 Maru durch die Klüsen rasselten. Dann begannen die
@@ -327,7 +327,7 @@ Koch ein alter Bekannter von ihm.«
 »Hm — der Sekretär ist doch aber bereits über fünfzehn
 Jahre bei Narrow und genießt dessen vollstes Vertrauen.«
 
-"Trotzdem kann’s ein Schuft sein, mein Alter —« Er
+»Trotzdem kann’s ein Schuft sein, mein Alter —« Er
 machte eine Pause. »Der Mann kommt mir vor wie der
 <@pagebreak/>
 berüchtigte Intrigant aus einem Volksstück. Ich mag ihm
@@ -383,35 +383,35 @@ Vertrauen zu uns haben sollen.«
 <h2>2. Kapitel.</h2>
 <h3>Ein Piratenstreich.</h3>
 
-Harst schaltete das Wir ein.
+Harst schaltete das Licht ein.
 
-Laccemoor klopfte und trat ein. Er trug einen Berg
-seidenen Schlafanzug, der ihm sehr komisch um die dürren
-Glieder scheiterte.
+Laccemoor klopfte und trat ein. Er trug einen schwarzseidenen
+Schlafanzug, der ihm sehr komisch um die dürren
+Glieder schlotterte.
 
 Ich blieb im Bett liegen. Harald und der Sekretär
-fegten sich zu mir.
+setzten sich zu mir.
 
 Laccemoor begann dann — ebenfalls in einer Art
-Felegramamnftil, den er sich wohl von Narrow angewöhnt
+Telegrammstil, den er sich wohl von Narrow angewöhnt
 hatte — oder umgekehrt Narrow von ihm.
 
-»Miß Evelyn ist jetzt zehn Jahre bei Mr. Narrow, Vor
-zusagen alt Adoptivfind. Schon vor drei Jahren merkte
-ch, daß sie insgeheim zu Leuten in Beziehung stand, die sie
-ur unter großen Vorsichtsmaßregeln besuchte. Narrow
-lohnt ja zumeist in Neuyork. Außer diesen Beziehungen
-jenen Männern fiel mir uns) auf, daß sie selbst für ihre
-zeigen sehr bescheiden war und trotzdem plötzlich große
-Dummen ausgab — scheinbar für Antiquitäten. Ich stellte
+»Miß Evelyn ist jetzt zehn Jahre bei Mr. Narrow, sozusagen
+als Adoptivkind. Schon vor drei Jahren merkte
+ich, daß sie insgeheim zu Leuten in Beziehung stand, die sie
+nur unter großen Vorsichtsmaßregeln besuchte. Narrow
+wohnt ja zumeist in Neuyork. Außer diesen Beziehungen
+zu jenen Männern fiel mir noch auf, daß sie selbst für ihre
+Person sehr bescheiden war und trotzdem plötzlich große
+Summen ausgab — scheinbar für Antiquitäten. Ich stellte
 fest, daß sie die Preise für diese Altertümer Narrow stets
 falsch angab. Regelmäßig hatte sie nur die Hälfte von
-cm bezahlt, was sie Narrow als Kaufpreis nannte, Ich
-wußte annehmen, daß das übrige Geld jenen beiden Herren
-zuließ. Es werden dies dieselben fein, mit Szenen Ehering
-jetzt in Bombay gesehen wurde. Meine L suche herauszubringen,
-wer diese Leute waren, schlug fehl. Die
-Beiden waren auch bald aus Neuyork Vers@Buden. Doch
+dem bezahlt, was sie Narrow als Kaufpreis nannte. Ich
+mußte annehmen, daß das übrige Geld jenen beiden Herren
+zufloß. Es werden dies dieselben sein, mit denen Evelyn
+jetzt in Bombay gesehen wurde. Meine Versuche herauszubringen,
+wer diese Leute waren, schlugen fehl. Die
+beiden waren auch bald aus Neuyork verschwunden. Doch
 <@pagebreak/>
 — die Geldausgaben blieben dieselben. Evelyn sandte
 heimlich hohe Beträge an einen Mr. William Prenn nach
@@ -426,28 +426,28 @@ Liebschaft gehabt?«
 hübsches, frisches Mädchen ist, nur stets sehr ernst. — Also
 — nach drei Jahren, und das war Mitte September dieses
 Jahres, wollte Evelyn durchaus wieder einmal nach Indien.
-Kaltem hatte sich inzwischen die Schonerjacht Nevada bauen
+Narrow hatte sich inzwischen die Schonerjacht Nevada bauen
 lassen. Da er Evelyn keinen Wunsch abschlägt —«
 
 »— weil er vielleicht in seine Nichte verliebt ist,« warf
 Harald ein.
 
-»Ja — es scheint so, Mr. Harst. Jedenfalls — mir
+»Ja — es scheint so, Mr. Harst. Jedenfalls — wir
 segelten mit der Nevada erst nach Kalkutta, dann nach Bombay,
 weil Evelyn angeblich Bombay von allen indischen
 Städten am interessantesten fand. Diese Sehnsucht nach
-Bombay, wohin sich ja so und so oft Geld an William
+Bombay, wohin sie ja so und so oft Geld an William
 Prenn gesandt hatte, kam mir so verdächtig vor, daß ich den
 zweiten Koch der Nevada, einen mir sehr ergebenen Chinesen,
 vor unserer Abreise nach Japan — Narrow und
 ich fuhren ja allein hierher — dazu bestimmte, seine Stellung
-zu kündigen und als mein Spion in Bombay zurüd-zubleiben.
+zu kündigen und als mein Spion in Bombay zurückzubleiben.
 Jeder an meiner Stelle hätte so gehandelt. Ich
 hielt mich als Vertrauter meines Herrn für verpflichtet,
 Evelyns dunkle Beziehungen aufzuklären. Der zweite Koch,
-Koch Jung mit Namen, schickte mir dann einen Trennt
+Kwei Jang mit Namen, schickte mir dann einen Freund
 nach, weil er Wichtiges erkundet hatte. Dieser Freund ist
-unser Schiffskoch Eintrug. Zwei Jung hatte ihm mündlich
+unser Schiffskoch Tsulin. Kwei Jang hatte ihm mündlich
 genau aufgetragen, was er mir ausrichten sollte. — Es war
 dies folgendes: Evelyn hatte in Bombay sofort nach unserer
 Abreise sich in ein Hotel begeben, wo zwei Amerikaner,
@@ -455,34 +455,34 @@ William Prenn und Allan Orkry, wohnten. Diese beiden
 waren dann, nachdem Evelyn ihnen die 20 000 Pfund, den
 Erlös aus der Verpfändung ihrer Juwelen, übergeben
 <@pagebreak/>
-hatte, mit einem Heuerba3 in Verbindung getreten, der für
+hatte, mit einem Heuerbas in Verbindung getreten, der für
 sie acht zuverlässige Matrosen anwerben mußte. Diese acht
 Leute segelten am 10. Oktober abends in einem Kutter mit
-ihren Schiffstiften in die offene See hinaus. Eine Stunde
+ihren Schiffskisten in die offene See hinaus. Eine Stunde
 später verließ die Nevada dann den Hafen. — Dies waren
-die vielsagenden Nachrichten, die ist von Einer Fang erhielt.
-Außerdem sollte ich aber heimlich Durch Marconidepefchhe in
-Hongkong bei Zwei Sarge Bruder nach weiteren Netig-keiten
+die vielsagenden Nachrichten, die ich von Kwei Jang erhielt.
+Außerdem sollte ich aber heimlich durch Marconidepesche in
+Hongkong bei Kwei Jangs Bruder nach weiteren Neuigkeiten
 nachfragen. Dies tat ich vorhin um zwei Uhr morgens.
-zwei Sarge Bruder ist Marconitelegraphift bei der
-internationalen Marconiari:unscharf und konnte mir Daher
-lau nach zwei Stunden "«warnt senden. — Hier Oft sie.
+Kwei Jangs Bruder ist Marconitelegraphist bei der
+internationalen Marconigesellschaft und konnte mir daher
+schon nach zwei Stunden Antwort senden. — Hier ist sie.
 Ich werde sie Ihnen vorlesen:
 
 > Aus Bombay nur das eine, daß der Segelkutter der
 acht Matrosen herrenlos treibend aufgefischt worden ist.
 
 Sie sehen also, Mr. Harst, daß all das, was Sie als
-mich verdähtigend sich ausgelegt haben, mich nur insofern
+mich verdächtigend sich ausgelegt haben, mich nur insofern
 bloßstellt, als ich Evelyn eben habe beobachten lassen. Ich
 tat recht damit, wie die Entwicklung der Dinge zeigt. Evelyn,
-behaupte ich, hat mit Hilfe Prenns, Orkrys und he?
+behaupte ich, hat mit Hilfe Prenns, Orkrys und der
 acht Matrosen die Nevada — gekapert, in ihren Besitz gebracht
 und entführt. Dies mag noch so unwahrscheinlich
-ah Aber — geben Sie mir eine bessere Lösung, Mr.
-Hart.
+klingen. Aber — geben Sie mir eine bessere Lösung, Mr.
+Harst.
 
-»Das kann Ich nicht. Ich bin wie Sie überzeugt, das
+»Das kann ich nicht. Ich bin wie Sie überzeugt, das
 die Nevada durch Evelyn geraubt wurde,« erklärte Harald
 ohne Zögern.
 
@@ -491,121 +491,123 @@ Sie, daß wir Sie so übel eingeschätzt haben. Es tut mir
 aufrichtig leid.«
 
 »Oh — das trage ich Ihnen wirklich nicht nach, Mr.
-Harst.« Er seufzte leicht. »Nur — helfen Sie wir, Narrow
-dieses Unheil zu verheimlichen! Fraglos liest! -:r feine
-Nichte, nicht als Onkel, sondern als Mann. Beben Sie,
-»wie furchtbar ihn die Enttäuschung treffen muß, Prenn er
-erfährt, Daß er einer Undankbaren, einer Abenteurerin —«
+Harst.« Er seufzte leicht. »Nur — helfen Sie mir, Narrow
+dieses Unheil zu verheimlichen! Fraglos liebt er seine
+Nichte, nicht als Onkel, sondern als Mann. Bedenken Sie,
+wie furchtbar ihn die Enttäuschung treffen muß, wenn er
+erfährt, daß er einer Undankbaren, einer Abenteurerin —«
 
 <@pagebreak/>
-»Stopp, Stopp — soweit sind wir noch nicht, lieber
+»Stopp, stopp — soweit sind wir noch nicht, lieber
 Laccemoor. Verfallen Sie nicht in denselben Fehler, den
-ich sechsen vorhin, was ihre Person angeht, gemacht habe:
-verfeinerte Beurteilung der Motive der Handlungsweise
+ich schon vorhin, was ihre Person angeht, gemacht habe:
+vorschnelle Beurteilung der Motive der Handlungsweise
 eines Menschen! — Sie sprachen da soeben das Wort Abenteurerin
 aus. Ich möchte Ihnen vorhalten, daß Evelyn ein
 glänzendes Leben führte, daß sie Anwartschaft auf eine
-Miltiardenerbichaft hatte! Wer wird bei so günstigen aus
-tunft3augfichten sich auf fragwürdige — Abenteuer einlassen?!
+Milliardenerbschaft hatte! Wer wird bei so günstigen
+Zukunftsaussichten sich auf fragwürdige — Abenteuer einlassen?!
 Es müßte dies denn gerade ein sehr unruhiger
 Charakter sein, dem das friedliche Genießen des Daseins
-zu langweilig ist! — Sf Evelyn ein solcher Charakter?«
+zu langweilig ist! — Ist Evelyn ein solcher Charakter?«
 
 »Nein. Wenigstens schätze ich sie so nicht ein, obwohl
-— ja, obwohl ihr Vater Schwand Narrow noch heute in
-Klondyke als Goldgräber sich herumtreibt und M ein lebhaftes
+— ja, obwohl ihr Vater Edward Narrow noch heute in
+Klondyke als Goldgräber sich herumtreibt und für ein seßhaftes
 Leben verloren ist.«
 
-Wir beide Hatten Laccemoor überrascht angeschaut.
+Wir beide hatten Laccemoor überrascht angeschaut.
 Ein Goldgräber als Bruder des weltbekannten Milliardärs
 Pierpont Narrow war eine Kuriosität.
 
-»Es ist so, meine Herren,« nickte der Sekretär. »Steward
+»Es ist so, meine Herren,« nickte der Sekretär. »Edward
 Narrow hat in seinem Leben wohl nur in Blockhütten
 und Zelten geschlafen. Die Brüder haben sich seit
-Jahrzehnten nicht mehr gesehen. Schwand, der bedeutend -,
+Jahrzehnten nicht mehr gesehen. Edward, der bedeutend
 ältere, war froh, als Pierpont ihm sein einziges Kind Evelyn
-abnahm, die in der Wildnis in Klondyke passe
-wachsen ist.«
+abnahm, die in der Wildnis in Klondyke aufgewachsen
+ist.«
 
 Harald blickte sinnend durch das runde Kabinenfenster
 auf das Meer hinaus. Der Tag war bereits angebrochen.
 
-»Sie meinen also. Laccemoor, daß Evelyn zu viel von
+»Sie meinen also, Laccemoor, daß Evelyn zu viel von
 dem Abenteurerblut des Vaters in den Adern haben
 könnte?« fragte er bedächtig.
 
-»Ja — traf soll ich Ihnen da antworten?! Ich glaube
-es — Ich glaube es auch nicht! Wenn ich ohne jede Voreingenommenheit
-urteilen soll, dann sage ich: Nein — Tue
-Evelyn ist Dame von Welt, hat sehr wenig Phantastisches, Romantisches
+»Ja — was soll ich Ihnen da antworten?! Ich glaube
+es — ich glaube es auch nicht! Wenn ich ohne jede Voreingenommenheit
+urteilen soll, dann sage ich: Nein — Evelyn
+ist Dame von Welt, hat sehr wenig Phantastisches, Romantisches
 an sich!«
 
 <@pagebreak/>
 »Desto unerklärlicher wäre die Entführung der Nevada!
 — Evelyn muß damit doch einen bestimmten Zweck im
-Auge gehabt haben! Waren denn am Bord der Nevada
+Auge gehabt haben! Waren denn an Bord der Nevada
 Sachen von großem Wert?«
 
 »Nein!«
 
 »Nun also! Will Evelyn moderne Piratin spielen?!
-Der gebaute ist zu lächerlich! — Weshalb also der Diebstahl
+Der Gedanke ist zu lächerlich! — Weshalb also der Diebstahl
 der Jacht?!«
 
-»Wenn man das wüßte!« Und Sohn Laccemoor
+»Wenn man das wüßte!« Und John Laccemoor
 seufzte kläglich. Fügte hinzu: »Nun wird Ihnen auch
 verständlich sein, weshalb ich Sie und Mr. Schraut nicht
-»gern als Helfer durch Narrow herbeigerufen Haben zwölfte.
-P? fürchtete, Sie würden —«
+gern als Helfer durch Narrow herbeigerufen haben wollte.
+Ich fürchtete, Sie würden —«
 
 Er schwieg.
 
 Da war jemand soeben die Treppe herabgekommen,
-Harrte bei Raccemoor an.
+klopfte bei Laccemoor an.
 
 Der Sekretär eilte zur Tür, öffnete und winkte.
 
 Kapitän Schlenter trat ein, machte große Augen und
 sagte dann zögernd:
 
-»Es ist soeben eine Chiffredepesche für Sie eingehen«
-Ofen, Mr Laccemoor —«
+»Es ist soeben eine Chiffredepesche für Sie eingetroffen,
+Mr. Laccemoor —«
 
-Der Sekretär setzte sich sofort an den Tisch- »und übertrug
+Der Sekretär setzte sich sofort an den Tisch und übertrug
 das Telegramm.
 
 Inzwischen weihte Harald den Landsmann Schlenter
-alles ein.
+in alles ein.
 
 Schlenter, ein noch junger Mann, war einer von den
-Kapitänen Der neuen Zeit, ein feingebildeter Mensch von
+Kapitänen der neuen Zeit, ein feingebildeter Mensch von
 tadellosen Umgangsformen.
 
 Still hörte er zu.
 
 »Sie fragen mich um meine Ansicht als Seemann, Herr
-Harst, » meinte er mum achselzuckend. »Ja — auch ich kann
-nur sagen: Schiff8raub!«
+Harst,« meinte er nun achselzuckend. »Ja — auch ich kann
+nur sagen: Schiffsraub!«
 
 Da drehte Laccenoor sich um.
 
-»Hören Sie, meine Herren. fiel Jungs 7 her mehr
-er folgendes:
+»Hören Sie, meine Herren. Kwei Jangs Bruder meldet
+folgendes:
 
 <@pagebreak/>
 
 > Besatzung der Schonerjacht in Aden gelandet. Gibt
 an, daß die Nevada gleich nach Ausfahrt von Bombay
-am 10. Oktober abends acht Matrosen, angeblich Schiffer
-brüchige, an Bord nahm. Besatzung wurde durch Schlaftrunk
-wehrlos gemacht und fand sich auf einsamer Fusel
-der Lakkadiven-Gruppe nach Erwachen am Strande lie
-gen. Fracht war verschwunden. Zugleich mit der Jacht,
+am 10. Oktober abends acht Matrosen, angeblich Schiffbrüchige,
+an Bord nahm. Besatzung wurde durch Schlaftrunk
+wehrlos gemacht und fand sich auf einsamer Insel
+der Lakkadiven-Gruppe nach Erwachen am Strande liegen.
+Jacht war verschwunden. Zugleich mit der Jacht,
 nimmt Hafenbehörde Aden an, wurden Evelyn und die
 beiden anderen Frauen entführt, um von Narrow Lösegeld
 zu erpressen. — Besatzung, alle sieben Leute, unterwegs
 nach Bombay. Meldung an Narrow steht bevor.«
+
+<@spacer/>
 
 »Unglaublich!« meinte Schlenter. »Die Miß hat also
 tatsächlich die Nevada gekapert.«
@@ -613,18 +615,18 @@ tatsächlich die Nevada gekapert.«
 Harst blickte Laccemoor an.
 
 »Ob wir Narrow nicht lieber die Wahrheit mitteilen?
-Weshalb sollen wir ihn in dem Glauben belassen, daß Eben
-Von entführt wurde?! Mir widerstrebt das!«
+Weshalb sollen wir ihn in dem Glauben belassen, daß Evelyn
+entführt wurde?! Mir widerstrebt das!«
 
 »Dann tun Sie es, Mr. Harst. Narrow wird unter
 diesem Schlag zusammenbrechen. Ich kenne ihn. Seine
-Leidenschaft für Evelyn ist. stärker als Sie ahnen.«
+Leidenschaft für Evelyn ist stärker als Sie ahnen.«
 
 »Und doch: einmal muß er es erfahren. — Gut, ich
 übernehme es, ihm die Augen zu öffnen —« —
 
 Wir trennten uns dann. Harald und ich schliefen noch
-ein paar Stunden. Vormittags um neun fanden wir und
+ein paar Stunden. Vormittags um neun fanden wir uns
 im Salon zum Frühstück ein. Laccemoor drückte sich, als
 wir eintraten.
 
@@ -632,22 +634,22 @@ Was er vorausgesagt hatte, geschah: Narrow stierte
 Harst wie einen Verrückten an! Der Schweiß lief ihm über
 das fahle Gesicht.
 
-Dann schnappte er nach Lust, goß sich ein Wasserglas
+Dann schnappte er nach Luft, goß sich ein Wasserglas
 voll Kognak und stürzte es hinab.
 
-Er bot einen bejammernswerten Anblick bar.
+Er bot einen bejammernswerten Anblick dar.
 
 »Das — das ist das verfluchte Blut meines Bruders!«
-stöhnte er. »Das ist Schwache Tochter — das Kind des
-Kbenteurers.«
+stöhnte er. »Das ist Edwards Tochter — das Kind des
+Abenteurers.«
 
 <@pagebreak/>
 Wir erhoben uns und ließen ihn allein. Es war am
 besten so. Mochte er mit dieser Enttäuschung allein ohne
 Zeugen fertig werden. —
 
-Eine halbe Stunde drauf erschien 2x an Deck. Er
-schwankte etwas. Er war — betrunken. Aber fein Geist
+Eine halbe Stunde drauf erschien er an Deck. Er
+schwankte etwas. Er war — betrunken. Aber sein Geist
 war klar.
 
 »Mr. Harst,« sagte er eisig, »die Wahrheit bleibt geheim
@@ -658,16 +660,16 @@ diese —«
 Er drehte sich kurz um und trat an die Reling. —
 
 Eine Stunde später fingen die Apparate der Rania
-Maru eine Depesche auf. Oh war die Mitteilung an Karre,
-daß die Nevada gekapert und die Besatzung ausgelegt
+Maru eine Depesche auf. Es war die Mitteilung an Narrow,
+daß die Nevada gekapert und die Besatzung ausgesetzt
 worden sei. Der Hafenkommandant in Aden hatte sofort
-denn Kreuzer ausgeschickt, die die Schonerjacht suchen
+drei Kreuzer ausgeschickt, die die Schonerjacht suchen
 sollten. —
 
-Nattern erklärte Hierzu finster: »Hoffentlich haben sie
-feinen Erfolg! Mir soll die Blamage erspart werden, daß
-»meine Nichte mich so schmählich hintergangen hat. Ich
-»will mit Evelyn allein abrechnen. Mr. Harst, Sie können
+Narrow erklärte hierzu finster: »Hoffentlich haben sie
+keinen Erfolg! Mir soll die Blamage erspart werden, daß
+meine Nichte mich so schmählich hintergangen hat. Ich
+will mit Evelyn allein abrechnen. Mr. Harst, Sie können
 mein halbes Vermögen haben: suchen *Sie* die Nevada!«
 
 »Das werde ich, Mr. Narrow. Ich möchte aber schon
@@ -680,7 +682,7 @@ Geheimnis kann das sein?! Bitte —«
 
 »Das weiß ich — noch nicht. Ich werde es wissen.
 Und dann werden Sie an meine Worte denken: Evelyn
-Narrow ist keine Abenteurerin 1»
+Narrow ist keine Abenteurerin!«
 
 »Soll mich freuen!«
 
@@ -889,7 +891,7 @@ Connword gab sich geschlagen. »Gut denn — anderer
 Art! Aber — welcher Art?« —. Und er wandte sich mit
 dieser Frage an Harald, der jetzt mit halb geschlossenen
 Augen vor sich hinstarrte. Seine hohe Stirn lag in Falten.
-Sein energisches, geistvolles Gesicht verriet angespann-teste
+Sein energisches, geistvolles Gesicht verriet angespannteste
 Gedankenarheit.
 
 »Es — gäbe schon eine solche Art von Geheimnis,«
@@ -904,7 +906,7 @@ hatten, erzeugen unwillkürlich ein gewisses Jagdfieber
 
 Auch Harald war heute nicht frei Davon. als wir beide
 nun nun in unserer Kabine für den Gang zu Hassan Mirza
-umfleideten, sagte Harst zu Laccemoor, der voller Interesse
+umkleideten, sagte Harst zu Laccemoor, der voller Interesse
 zuschaute, wie wir immer mehr zwei ältere bärtige Seeleute
 wurden von jener Sorte, die den Grog stets ohne Wasser
 trinken:
@@ -1366,7 +1368,7 @@ auch ohne Sie finden!«
 <@pagebreak/>
 Narrow konnte nicht länger an Tisch halten. »Der
 Mann bleibt hier!« erklärte er wutbebend. »Sie sind der
-Beihilfe zum Schisssraub verdächtig, Mr. Orkry. Ich lasse
+Beihilfe zum Schiffsraub verdächtig, Mr. Orkry. Ich lasse
 Sie in Eisen legen! Hier auf meiner Jacht spiele ich ch die
 Polizei!«
 
@@ -1458,11 +1460,11 @@ Scheich und drohte mit der Linken nach der Brücke hin.
 So kamen wir denn glücklich mit dem Er ich zur Jacht
 Zurück, wo Narrow den Revolver besichtigte »2 sofort erklärte,
 <@pagebreak/>
-die Waffe Sturme aus dem Wassenschrank der
+die Waffe Sturme aus dem Waffenschrank der
 Nevada.
 
 Der Scheich schwieg sich aus. Stolz und verächtlich
-blickte er uns an. In seinen Augen war der ganze Rassen-haß
+blickte er uns an. In seinen Augen war der ganze Rassenhaß
 zu lesen, den der freie Araber noch Heute für den Europäer
 empfindet.
 
@@ -1473,7 +1475,7 @@ seelenruhig eine Zigarre rauchen.
 »Mr. Orkry,« sagte Harald ernst, »wir haben soeben
 den Scheich des Araberdorfes, das Sie und Prenn so oft
 besuchten, gefangen genommen. Der Scheich hat einen
-Revolver bei sich, der aus dem Waffenfchranf der Nevada
+Revolver bei sich, der aus dem Waffenschrank der Nevada
 stammt. Ich frage Sie: Halten Sie es für wahrfaieinfich,
 daß jemand diesen Revolver dem Scheich geschenkt hat?«
 
@@ -1633,7 +1635,7 @@ Bericht hier verkürzt wiedergeben. —
 Vor drei Jahren hatte Evelyn, die mit Thomas Armart
 heimlich verlobt gewesen, ohne dies jemandem anzuvertrauen,
 rundlich ein Lebenszeichen von Armart erhalten,
-der mit Hilfe des Stipendiums nach Arabien in der wohl-begründeten
+der mit Hilfe des Stipendiums nach Arabien in der wohlbegründeten
 Hoffnung gegangen war, durch die Ergebnisse
 seiner Forschungsreise sich eine Professur an einer Ums
 Universität zu erringen.
@@ -1693,7 +1695,7 @@ wo Armart vor Antritt feiner Forschungsreise gewohnt
 hatte. Von Bombay erfolgten dann auch Prenns und
 Orkrys weitere Ermittlungen, die zwei Jahre lang ohne
 twefentlichen Erfolg blieben. Sie brachten nur heraus, daß
-die Araber jenes Küstendorses ohne Zweifel etwas über
+die Araber jenes Küstendorfes ohne Zweifel etwas über
 das Schicksal Armarts wüßten. Endlich konnten sie einen
 Araber dieses Dorfes bestechen. Er verriet, daß in einem
 Gebirgszuge Jnnerarabiens ein Stamm hause, der offenbar
@@ -1991,7 +1993,7 @@ verstört. —
 
 Harald zog die Reisemütze, verbeugte sich.
 
-»Miß Narrow, Uhr Onkel weiß alles. Qrfrn ist am
+»Miß Narrow, Uhr Onkel weiß alles. Orkry ist am
 Bord der Rania Maru. Sie brauchen nicht zu fürchten,
 daß Master. Narrow Sie mit Yoriväirfen empfängt. Er ist
 sehr besorgt um Ihr Schicksal. Hier mein Freund Schraut
@@ -2062,7 +2064,7 @@ Nach zwei Stunden halte sich die allgemeine Auslegung
 an Bord gelegt. Die Frauen waren im Salon, den
 <@pagebreak/>
 sie vorläufig bewohnen sollten. Narrow hatte den Wohnraum
-feiner Doppelkabine als gemeinsamen Ausenthalts-raum
+feiner Doppelkabine als gemeinsamen Aufenthaltsraum
 freiwillig hergegeben.
 
 Hier saßen wir Stangen nun und warteten auf Narrow,
@@ -2735,7 +2737,7 @@ gründlich vom Zelte her ein Zuruf.
 
 »Caesar — hierher!«
 
-»Deutsch — rl vieles. befehlen ne »Hierher!« der
+»Deutsch — el vieles. befehlen ne »Hierher!« der
 Sultana.
 
 Alles andere war vergessen. War’s eine Deutsche, die
@@ -2789,7 +2791,7 @@ kaum bemerkbar machte, drangen die Beduinen in diese trotz
 allem großartige tote Bergwelt ein.
 
 So wurde es dunkel. Vorsichtig tappten die Kamele
-in ein enges Tal hinab, in dem drei Feuer uns entgegen-leuchteten.
+in ein enges Tal hinab, in dem drei Feuer uns entgegenleuchteten.
 
 Menschen bewegten sich um die Feuer.
 
@@ -3035,7 +3037,7 @@ war, der Evelyn Narrows Liebe nie wert gewesen. —
 
 Die Sultana riß sich von ihm los.
 
-Mit einem Kläglicher Winkeln, unmännlid, ekelhaft,
+Mit einem Kläglicher Winkeln, unmännlich, ekelhaft,
 Duschte er nach ihrer Hand.
 
 Ob nun der Löwe Caesar diesen Mann, der feiner
