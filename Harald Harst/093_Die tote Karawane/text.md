@@ -587,7 +587,7 @@ vermocht. — Meine Bitte geht dahin: nehmen Sie
 mich mit heute abend, wenn Sie mit Oberst Jefferson in die
 Wüste hinausreiten! Nehmen Sie mich als Diener mit.
 Ich werde meine Verkleidung so einrichten, daß Jefferson
-nicht ahnen soll, ein Weib sei der Diener Tom Bulbry, ein
+nicht Ihnen soll, ein Weib sei der Diener Tom Bulbry, ein
 alter Matrose, den Sie angeblich von früher her kennen.«
 
 Dieser höchst eigenartige Vorschlag, Durch nichts näher
@@ -1286,187 +1286,187 @@ So — kam ich Ihnen auf die Spur!«
 
 Auch Harald hatte sich jetzt erhoben,
 
-Er trat ganz Dir vor Jefferson hin. »Daß Sie damals
+Er trat ganz dicht vor Jefferson hin. »Daß Sie damals
 Die Karawanenräuber niederknallten und sich selbst
-dann als Held auifpielten, Mr. Jefferson, würde zu entschuldigen
+dann als Held aufspielten, Mr. Jefferson, würde zu entschuldigen
 sein. Es waren Mörder, die Sie erschossen
-Gaben, und es mal Sitte krankhafte Sucht, berühmt zu wer«
-3, Blech die Sie zu Ihrer Seihlinerberrfichung verführt -
-nahen. Daß Sir dann aber aus Gekonnt andere Pläne
-entwarfen, besuchst, wie sehr Sie bereits auf die Bahn des
-Verbrechens abngealitten sind. Daß Sie schließlich in der
+haben, und es war Ihre krankhafte Sucht, berühmt zu werden,
+durch die Sie zu Ihrer Selbstverherrlichung verführt
+wurden. Daß Sie dann aber aus Geldnot andere Pläne
+entwarfen, beweist, wie sehr Sie bereits auf die Bahn des
+Verbrechens abgeglitten sind. Daß Sie schließlich in der
 vergangenen Nacht in den Tee ein Schlafmittel mischten
-und beim Auslösen der Wachen den kürzesten Papierstreifen
-ja ziehen verstanden, damit Sie unbemerkt das Lager verholfen
+und beim Auslosen der Wachen den kürzesten Papierstreifen
+zu ziehen verstanden, damit Sie unbemerkt das Lager verlassen
 könnten, — dies beweist, wie nahe Abenteuersucht und
 Verbrechertum aneinander grenzen —«
 
-Jeffersons Kopf war mit einem Ruck hochgeflo en,
-Selbst Frau Henbri&s Enthüllungen hatten nicht diese
-Wirkung ausgeruht wie Sorglos Leute Säße,
+Jeffersons Kopf war mit einem Ruck hochgeflogen.
+Selbst Frau Hendricks Enthüllungen hatten nicht diese
+Wirkung ausgeübt wie Haralds letzte Sätze.
 
-xetterson stierte Harst jetzt halb her an.
+Jefferson stierte Harst jetzt halb irr an.
 
-haben den Inder und den Chinesen erschossen,
-Zefferfon1» rief Harald mit flacher Stimme, »Sie am! ß
+»Sie haben den Inder und den Chinesen erschossen,
+Jefferson!« rief Harald mit starker Stimme. »Sie wußten
 <@pagebreak/>
-daß die beiden hinter uns geblieben waren! Mahnte
-schliefen, ritten Sie zurück und knallten Die beschämt
-ihren Tieren über den Haufen! Denn — ich
-nicht! Ich folgte Ahnen! Die beiden Morde konnte
-ich! mehr verhindern! ich Schwieg. Ich sparte mir
-re Abrechnung bis jetzt aus!«
+daß die beiden hinter uns geblieben waren! Während
+wir schliefen, ritten Sie zurück und knallten Die beiden
+samt ihren Tieren über den Haufen! Denn — *ich*
+schlief nicht! Ich folgte Ihnen! Die beiden Morde konnte
+ich nicht mehr verhindern! ich Schwieg. Ich sparte mir
+unsere Abrechnung bis jetzt auf!«
 
-Jeffersons Augen waren stumpf und alasia geworden.
+Jeffersons Augen waren stumpf und glasig geworden.
 
 Er begann wie ein Verrückter zu lachen.
 
 Dieses Lachen klang so entsetzlich, so unnatürlich, daß
-Hendrick rief:
+Frau Hendrick rief:
 
 »Mein Gott — er hat den Verstand verloren!«
 
 Dann wurde Jefferson plötzlich ohnmächtig. Haltlos
-er in den Stricken, Wir mußten ihn losbinden, Wir
-ten ihn in den Sand, flößten Ihm kalten Tee ein, Er
-sich wieder zu sich, starrte uns blöde an — plapperte un-feimies
+hing er in den Stricken. Wir mußten ihn losbinden. Wir
+legten ihn in den Sand, flößten ihm kalten Tee ein. Er
+kam wieder zu sich, starrte uns blöde an — plapperte ungereimtes
 Zeug vor sich hin.
 
 Er war tatsächlich wahnsinnig geworden! Vielleicht
-der Irrsinn längst in ihm geshlummeri, Vielleicht
-duzen sein übertriebener Hang nach Abenteuern und seine
-ich!, sich irgendwie einen Namen zu machen, bereits auf
-en verborgenen geistigen Defekt zurückzuführen.
+hatte der Irrsinn längst in ihm geschlummert. Vielleicht
+waren sein übertriebener Hang nach Abenteuern und seine
+Sucht, sich irgendwie einen Namen zu machen, bereits auf
+einen verborgenen geistigen Defekt zurückzuführen.
 
-(Gehorsam aß er dann, was wir ihm reichten. Er er
-drang nicht, Er hielt uns offenbar für Araber, in
-Ofen Gewalt er geraten. —
+Gehorsam aß er dann, was wir ihm reichten. Er erkannte
+uns nicht. Er hielt uns offenbar für Araber, in
+deren Gewalt er geraten. —
 
 Der Morgen graute. Wir saßen ist mit unserer
-Landsmännin Antonie Sendest unter der anderen Palmen-Þpe.
+Landsmännin Antonie Hendrick unter der anderen Palmengruppe.
 
 Sie erzählte uns jetzt mit allen Einzelheiten ihre
 Abenteuer hier in Südarabien.
 
 Aber — seltsam! — über Zweck und Ziel der kleinen
 Karawane, die ihr Gatte ausgerüstet hatte, bewahrte sie
-ilschweigen, Harald drang auch nicht weiter in sie.
+Stillschweigen. Harald drang auch nicht weiter in sie.
 
-»Wir hatten auf Jefferson nicht mehr geachtet. Wir
-vier, er wäre drüben unter den Palmen vor Erwog
-Losung eingeschlafen,
+Wir hatten auf Jefferson nicht mehr geachtet. Wir
+glaubten, er wäre drüben unter den Palmen vor Erschöpfung
+eingeschlafen,
 
-Bann war es Frau Hendrick, die plötzlich rief:
+Dann war es Frau Hendrick, die plötzlich rief:
 
 »Jefferson ist verschwunden!«
 
 Wir sprangen auf, liefen hinüber,
 
-erteilen hatte sich an der Westseite des Hügels in
+Jefferson hatte sich an der Westseite des Hügels in
 <@pagebreak/>
-das Tal hinabaerollt, hatte bereits die nur lose geschnürten
-Fußfesseln bald abageltreist.
+das Tal hinabgerollt, hatte bereits die nur lose geschnürten
+Fußfesseln bald abgestreift.
 
-Wir zwangen ihn, an den Lagerplatz. zurückzukehren.
+Wir zwangen ihn, an den Lagerplatz zurückzukehren.
 Da wir ihn nicht an den Baum fesseln mochten, setzten wir
-an gen Sattel seines Reitkamels und banden ihn
-Ort fest.
+ihn in den Sattel seines Reitkamels und banden ihn
+dort fest.
 
-Das Tier nahmen wir dann mit zu ver Stelle, wo die
+Das Tier nahmen wir dann mit zu der Stelle, wo die
 Mitglieder der Karawane im Sande halb verschüttet lagen.
 
-Während wir beide nun die Leiche Narr Hendricks
-mit Ben Händen hergusschaufelten. schaute Jefferson uns
+Während wir beide nun die Leiche Karl Hendricks
+mit den Händen herausschaufelten, schaute Jefferson uns
 teilnahmlos zu.
 
 Frau Hendrick hatte uns mitgeteilt, daß ihr Gatte eine
-Anzahl kostbarer Schmuckstücke in seine Welle eingenäht
-he! sich trüge.
+Anzahl kostbarer Schmuckstücke in seine Weste eingenäht
+bei sich trüge.
 
 Wir fanden Die Pretiosen auch, hüllten Die Leiche in
 eine Decke und trugen sie nach den Palmen, wo sie in einer
 Felsspalte bestattet werden sollte. Auch die fünf Araber,
-die Begleiter Hendricks, wollten wir naher beerdigen.
+die Begleiter Hendricks, wollten wir nachher beerdigen.
 
-Fefsserson, gießt minutenlang sich selbst überlassen, des
-nur diese Gelegenheit, sein Reittier Durch Zurufe aufzutreiben.
-Das Dromedar setzte sich denn zu in Trab.
-Bläulich hatte der Oberst auch die Hände frei, sagte nun in
+Jefferson, jetzt minutenlang sich selbst überlassen, benutzte
+diese Gelegenheit, sein Reittier Durch Zurufe anzutreiben.
+Das Dromedar setzte sich denn auch in Trab.
+Plötzlich hatte der Oberst auch die Hände frei, jagte nun in
 die Wüste hinaus.
 
-Unsere Tiere waren unaelattelt. Bevor wir ihm soll
-Magen konnten, hatte er fast zweitausend weiter Vorsprung
+Unsere Tiere waren ungesattelt. Bevor wir ihm folgen
+konnten, hatte er fast zweitausend Meter Vorsprung
 gewonnen und verschwand in einer nordwärts gelegenen
-Hinstierte,
+Hügelkette.
 
 Ihn, der das bei weitem beste Tier besaß, einzuholen,
-war unmöglich., Als Harst und ich die Hügel erreicht half
-ten, faden wir den Oberst im Galopp weit draußen dahinjagen.
+war unmöglich. Als Harst und ich die Hügel erreicht hatten,
+faden wir den Oberst im Galopp weit draußen dahinjagen.
 
 Harald machte sich jetzt die schwersten Vorwürfe, auf
 den Wahnsinnigen nicht besser achtgegeben zu haben.
 
-»Er wird elend Uniformen,« meinte er. »Und — das
+»Er wird elend umkommen,« meinte er. »Und — das
 Schicksal hat er als Kranker nicht verdient!«
 
 Niedergeschlagen kehrten wir zu den Palmen zurück,
-wo Frau Boudoir! unweit der Leiche ihres Gatten auf
-einem Erbstück saß.
+wo Frau Hendrick unweit der Leiche ihres Gatten auf
+einem Felsstück saß.
 
-Wir legten den Toten in die Felsspalte, Ein stilles
-Ueber noch, und der berühmte Hart Hendrick hatte hier
+Wir legten den Toten in die Felsspalte. Ein stilles
+Gebet noch, und der berühmte Karl Hendrick hatte hier
 <@pagebreak/>
-einer Heimat mitten in der Wüste eine letzte Ruhestätte
-Anden,
+fern der Heimat mitten in der Wüste eine letzte Ruhestätte
+gefunden.
 
 Seine Gattin errichtete auf dem Grabe ein Kreuz aus
-Steinen, das sich an eine schräge Felsplatte glühte.
+Steinen, das sich an eine schräge Felsplatte stützte.
 
 Wir ließen sie dann mit ihrem Schmerze allein und
-gelbroten las die fünf Araber in einer anderen Fels
-[Falte. — Die erschossenen Räuber lagen hundert Meter
+beerdigten rasch die fünf Araber in einer anderen Felsspalte.
+— Die erschossenen Räuber lagen hundert Meter
 weiter in einer Talmulde. Sie hatten sämtlich Kopfschüsse
-halten. Bei einem der Leute fanden wir eine Brieftasche,
+erhalten. Bei einem der Leute fanden wir eine Brieftasche,
 die eine Menge Papiere enthielt. Harst blätterte
-Riese zunächst nur flüchtig durch. Die elegante Brieftasche -
-hatte einem Engländer namens &Fohn Barring gehört, der
+diese zunächst nur flüchtig durch. Die elegante Brieftasche
+hatte einem Engländer namens John Barring gehört, der
 Offenbar von den Räubern ermordet und ausgeplündert
-Orden war. Diese Papiere und ein seltsames Gedicht
-Alten uns später na Indien führen, wo wir in der
-ten Stadt Baron dann ein Geheimnis aufdeckten, das
-in Band 94 («Das Wunder von Baron«) schildern will,
+worden war. Diese Papiere und ein seltsames Gedicht
+sollten uns später nach Indien führen, wo wir in der
+alten Stadt Patna dann ein Geheimnis aufdeckten, das
+ich in Band 94 (»Das Wunder von Patna«) schildern will,
 
 Die toten Banditen bestatteten wir gleichfalls.
-ideritrebte uns, die Leichenreste offen Treuen zu lassen.
+Es widerstrebte uns, die Leichenreste offen liegen zu lassen.
 
 Nachdem auch diese schauerliche Arbeit getan war, die
-Uns nicht geringe Ueberwindung lüftete und die wir war
-mit der brennenden Zigarette im Munde erledigen Zone
-Wien, kehrten wir zu Frau Hendrick zurück,
+Uns nicht geringe Ueberwindung kostete und die wir nur
+mit der brennenden Zigarette im Munde erledigen konnten,
+kehrten wir zu Frau Hendrick zurück,
 
 Sie hatte jetzt bereits an unsere Mahlzeit gedacht, saß
-neben dem Hadernden Spirituskocher und empfing uns wie
+neben dem flackernden Spirituskocher und empfing uns mit
 den Worten:
 
 »Ich habe mir inzwischen manches überlegt, Herr
-Harst. Sie sollen jetzt wi erfahren — alles! ich sagte
-ihnen ja schon, daß ich hier nach Arabien gekommen bin,
-um ahnst mir teure Menschen zu suchen. Der eine war
-mein Mann, Die zweite — mein einziges Kind, meine
+Harst. Sie sollen jetzt alles erfahren — alles! ich sagte
+Ihnen ja schon, daß ich hier nach Arabien gekommen bin,
+um zwei mir teure Menschen zu suchen. Der eine war
+mein Mann. Die zweite — mein einziges Kind, meine
 Tochter Luzie!«
 
-»Liebe Frau Sendest,« erklärte Harald mitfühlend,
-»mich ohne diese ihre Andeutungen cäâtte ich Ihnen sage
-LS daß Sie ihre Zehen wwieberfinben wollten —
-ré Tochter Luzie He Beil, die — Stute sie Genies
-er Arakruzier!«
+»Liebe Frau Hendrick,« erklärte Harald mitfühlend,
+»auch ohne diese Ihre Andeutungen hätte ich Ihnen sagen
+können, daß Sie ihre Tochter wiederfinden wollten —
+Ihre Tochter Luzie Hendrick, die — Sultana des Stammes
+der Arakruzier!«
 
 Die Gattin des berühmten Löwenbändigers nickte
-Stramm,
+traurig.
 
-die erraten die Gedanken der Menschen, lieber Her
+»Sie erraten die Gedanken der Menschen, lieber Herr
 <@pagebreak/>
-Bart! Ja — meine Tochter Luzie, die vor zehn Jahren
+Harst! Ja — meine Tochter Luzie, die vor zehn Jahren
 als Neunzehnjährige hier in Arabien verschwunden ist.«
 
 »Und die sich jetzt Sultana Eizul nennt — Eizul, eine
@@ -1475,12 +1475,12 @@ Umstellung des Namens Luzie!« —
 Hiermit begann der zweite Teil der Geschichte von der
 toten Karawane.
 
-Ich selbst hatte bisher nichts davon geahnt, daß las
+Ich selbst hatte bisher nichts davon geahnt, daß
 Harald das Rätsel der Herkunft jener Frau, die uns bei unserer
 Begegnung vor einem Monat in deutscher Sprache
 angeredet hatte, längst gelöst und bereits einen Teil ihrer
 Schicksale auf Grund kleiner Tatsachen sich richtig zusammengereimt
-hatte, —
+hatte. —
 
 Der Leser mag an diesen zweiten Abschnitt nicht mit
 zu großen Erwartungen herangehen. Die Sultana Eizul
@@ -1489,101 +1489,101 @@ der Anfang dies kaum vermuten läßt.
 
 <@pagebreak 33/>
 
-<h1>Die Quelle des Dscheitan</h1>
+<h1>Die Quelle des Dscheitan.</h1>
 
-<h2>1. Kapitel,</h2>
-<h3>Dem Tode nahe,</h3>
+<h2>1. Kapitel.</h2>
+<h3>Dem Tode nahe.</h3>
 
-Frau Zutraute Hendrick erzählte uns folgendes:
+Frau Antonie Hendrick erzählte uns folgendes:
 
-»Im Jahre 1911 waren meinem Munde an einer uns
-bekannten Seuche vier seiner Löwen eingegangen. Da
-uns Tumult bereits unsere Ersparnisse größere Geldausgaben
-gestatteten, lese) mein Mann, abermals selbst
-Hexensabbath Arabien zu reisen und den Beduinenstamm der Sinn
-an zu besuchen, von dem er schon früher drei prächtige
-ngé Löwen bezogen hatte, Unsere Tochter Luzie drängte
-und bat so lange, bis nein Mann einverstanden War, sie
-intuunchmen, Co) hatte zur selben Zeit ein sehr günstiges
+»Im Jahre 1911 waren meinem Manne an einer unbekannten
+Seuche vier seiner Löwen eingegangen. Da
+uns damals bereits unsere Ersparnisse größere Geldausgaben
+gestatteten, beschloß mein Mann, abermals selbst
+nach Arabien zu reisen und den Beduinenstamm der Singari
+zu besuchen, von dem er schon früher drei prächtige
+junge Löwen bezogen hatte. Unsere Tochter Luzie drängte
+und bat so lange, bis mein Mann einverstanden war, sie
+mitzunehmen. Ich hatte zur selben Zeit ein sehr günstiges
 Engagement an der Alhambra in London und ließ die
-beiden allein reisen Sie langten auch wohlbehalten im
-Herbst 1911 bei den Ernannt on, wurden freundlich aufs
-genommen und hörten sehr bald, daß bei einer weit üblich
-lohnenden Nebenabteilung des Stammes vier junge Lohnen
+beiden allein reisen. Sie langten auch wohlbehalten im
+Herbst 1911 bei den Singari an, wurden freundlich aufgenommen
+und hörten sehr bald, daß bei einer weit südlich
+wohnenden Nebenabteilung des Stammes vier junge Löwen
 gehalten würden, brachen dorthin auf, fanden die
-Unagaben bestätigt, faulen die Tiere und ließen von den
-schlauem sofort die nötigen Transportkäsfige herstellen,
+Angaben bestätigt, kauften die Tiere und ließen von den
+Arabern sofort die nötigen Transportkäfige herstellen,
 
-»Bis dahin waren die vier Löwen in einer großen
-Felsschlucht untergebracht gewesen, Es waren Tiere
-in Alter von etwa dreien raten, fast ausgeworfen
-und in Am hinaus, he 15s ne So Teil So
-Auge hofftest gestattete,
+Bis dahin waren die vier Löwen in einer großen
+Felsschlucht untergebracht gewesen. Es waren Tiere
+im Alter von etwa dreizehn Monaten, fast ausgewachsen
+und in prächtigem Zustand, da ihnen sie Schlucht volle
+Bewegungsfreiheit gestattete,
 
-Luzie, die von meinem Manne wohl die Schwein Dirigent
-nötige Ruhe und den durchdringenden Blick geerbt hat,
-» Ei Morgens allein in die Schlucht hinab, um Ja
+Luzie, die von meinem Manne wohl die jedem Dresseur
+so nötige Ruhe und den durchdringenden Blick geerbt hat,
+stieg eines Morgens allein in die Schlucht hinab, um ihrem
 <@pagebreak/>
 Vater durch diese Kühnheit zu beweisen, daß sie einzig und
-allein für den Beruf der- Tierdressur tauche. Es gelang
-ihr auch, da stärksten ver drei männlichen Löwen schon
-nach fünf Tagen so an sich zu fesseln. van das brüchige
-Tier ihr auf Schritt und Tritt folgte. Fuwieweit hierbei
-der Umstand mithalf, daß Luzies Augen und Stimme Von
-stets ganz besonders auf die Dressurzöalinge meines Mannes
+allein für den Beruf der Tierdressur tauge. Es gelang
+ihr auch, den stärksten der drei männlichen Löwen schon
+nach fünf Tagen so an sich zu fesseln, daß das prächtige
+Tier ihr auf Schritt und Tritt folgte. Inwieweit hierbei
+der Umstand mithalf, daß Luzies Augen und Stimme schon
+stets ganz besonders auf die Dressurzöglinge meines Mannes
 eingewirkt hatten, weiß ich nicht. Jedenfalls durfte es
-Luzie wagen, den Löwen Caesar mit in ihr Welt zu noch
-men, durfte ihn bei Ritten in die Wüste neben sich her traben
-Laffen und wurde daher auch von den Beduinen wie ein
+Luzie wagen, den Löwen Caesar mit in ihr Zelt zu nehmen,
+durfte ihn bei Ritten in die Wüste neben sich her traben
+lassen und wurde daher auch von den Beduinen wie ein
 übernatürliches Wesen angestaunt.
 
 Eines Tages jedoch, als sie wieder mit Caesar nach
 Süden in die Hochlandwüste hinausgeritten war, kehrte sie
-nicht mehr zurück, Volle vier Wochen hat mein Mann nach
-ihr gesucht. Die Ernannt halfen ihm. in ver steinigen
-Wüste mit schien kahlen Felsplateaus und ebenso fallen
+nicht mehr zurück. Volle vier Wochen hat mein Mann nach
+ihr gesucht. Die Singari halfen ihm. In der steinigen
+Wüste mit ihren kahlen Felsplateaus und ebenso kahlen
 Tälern, mit ihrem gleichmäßig harten Steinboden war nirgends
-eine Fährte zu entdecken. — Die Sinagari kamen
+eine Fährte zu entdecken. — Die Singari kamen
 meinem Manne trotz ihrer Hilfsbereitschaft verdächtig vor.
 Wenn er fragte, ob sie denn nicht irgend einen benachbarten
 Stamm im Verdacht hätten, Luzie geraubt zu haben,
 versicherten sie stets mit verlegenem Uebereifer, daß ihre
 Nachbarn keine Räuber seien. Vielleicht — vielleicht seien
-es persische Mädchenhändler gewesen, die ja bin und wieder
+es persische Mädchenhändler gewesen, die ja hin und wieder
 über den Persischen Meerbusen kämen und junge Araberinnen
 zu stehlen versuchten. —
 
-in trostloser Stimmung trat mein Mann schließliche
+In trostloser Stimmung trat mein Mann schließlich
 die Heimreise wieder an. Von dem Tage, als ich erfuhr,
 Luzie sei verschwunden, habe ich mein graues Haar. ich
 war durch den übergroßen Schmerz in wenigen Stunden
-zur Greisin geteerten.
+zur Greisin geworden.
 
-Wir Beauftragten dann einen in Bombay ansässigen
+Wir beauftragten dann einen in Bombay ansässigen
 Detektiv mit Nachforschungen, der denn auch, nach einigen
 Jahren freilich erst, in einen Briefe andeutete, daß Luzie
-vielleicht von dem innitiecu des Dschebel Wohnsitz hausenden
+vielleicht von dem inmitten des Dschebel Menakib hausenden
 sagenhaften Stamme der Arakruzier entführt worden
 sein könnte,
 
 Abermals nach vier Jahren schrieb er, die neuesten
-Forschungen hätten so gut wie erwiesen, daß dieses Vor?
+Forschungen hätten so gut wie erwiesen, daß dieses Volk
 <@pagebreak/>
-Arakruzier wirklich vorhanden sei. Abm seien auch per
-richte zu Ohren gekommen, die Arakruzier hätten eine
-Bann, die Sultana Eizul genannt würde. Er machte
-ins aus die Besonderheit des Namens Eizul aufmerksam
-nd riet meinem Manne, persönlich nach Südarabien zu
-[0 Bug um von da aus in die endlose Steinwüste einzudringen.
+der Arakruzier wirklich vorhanden sei. Ihm seien auch Berichte
+zu Ohren gekommen, die Arakruzier hätten eine
+Sultanin, die Sultana Eizul genannt würde. Er machte
+uns auf die Besonderheit des Namens Eizul aufmerksam
+und riet meinem Manne, persönlich nach Südarabien zu
+kommen, um von da aus in die endlose Steinwüste einzudringen.
 
 Wir beschlossen, dem Rate des Bombayer Detektivs,
-in selbstloser Weise gegen geringes Honorar über neun
-Fahre lang und sogar während des Weltkrieges die Nach-oriäiungen
-betrieben hatte, ungesäumt zu folgen, Narr,
-mein Dann, nahm meine Schmucksachen und neun Geld
+der in selbstloser Weise gegen geringes Honorar über neun
+Jahre lang und sogar während des Weltkrieges die Nachforschungen
+betrieben hatte, ungesäumt zu folgen. Karl,
+mein Mann, nahm meine Schmucksachen und reichlich Geld
 mit. — Alles weitere wissen Sie, Herr Harst. Er hat die
-Diebe zu seinem Kinde mit dem Leben bezahlt, Meine
-Ausgabe war es dann, als von ihm keinerlei Nachricht mehr
+Liebe zu seinem Kinde mit dem Leben bezahlt. Meine
+Aufgabe war es dann, als von ihm keinerlei Nachricht mehr
 eintraf, sowohl ihn als Luzie zu suchen. Ich wollte Gewißheit
 über beider Schicksal haben.«
 
@@ -1595,129 +1595,129 @@ Harald reichte ihr die Hand,
 
 »Frau Hendrick, was in meiner Macht steht, Sie mit
 Ihrem Kinde wieder zu vereinen, soll geschehen,« sagte er
-herzlich, »Wir, Schraut und ich, haben die Sultana Eizul
+herzlich. »Wir, Schraut und ich, haben die Sultana Eizul
 gesehen und gesprochen —«
 
-mich weiß!« nickte sie, »ZJ begreife nur nicht, weshalb
+»Ich weiß!« nickte sie. »Ich begreife nur nicht, weshalb
 Luzie uns niemals Nachricht gegeben hat, weshalb
-je freiwillig dort bei den Beduinen blieb —«
+sie freiwillig dort bei den Beduinen blieb —«
 
-Wir konnten ihr hierauf nichts antworten, Es war
-noch so viel Rätselhaïtes an der Geschichte der Sultana
+Wir konnten ihr hierauf nichts antworten. Es war
+noch so viel Rätselhaftes an der Geschichte der Sultana
 Eizul, so sehr viel Rätselhaftes —
 
 Kurz vor Tagesanbruch verließen wir drei dann die
-Palmen und das Grab Narr Hendricks, um den Ritt nach
-Orden fortzusetzen,
+Palmen und das Grab Karl Hendricks, um den Ritt nach
+Norden fortzusetzen,
 
 Wir orientierten uns lediglich nach dem Kompaß und
 einer Karte Arabiens.
 
 Gegen zehn Uhr vormittags mußten wir der Hitze
-Ebenen ein Lager beziehen, Um elf vertrottelte sich der
-Sturmes, Ein furchtbares Gewitter ging nieder. Leider
-Tapete es nur wenig. Tumerhin konnten wir so viel e-aemwalfer
+wegen ein Lager beziehen. Um elf verfinsterte sich der
+Himmel. Ein furchtbares Gewitter ging nieder. Leider
+regnete es nur wenig. Immerhin konnten wir so viel Regenwasser
 <@pagebreak/>
 auffangen, daß wir unsere Schläuche sämtlich
-[Mich füllten, Um freche Ihr wurde dieser Lagerplatz der
-(allen, Wir gedachten die ganze Nacht ununterbrochen weiter
-zu reiten, Es kam jedoch anders. Ueber die steinige
-Hochlandiwüste strich ein heißer, von Norden kommender
-Wind hin, der jede Hoffnung auf näcztliche Kühle vereitelte.
-Nur wer jemals Das Note Meer mit seiner berüchtigten
+frisch füllten. Um sechs Uhr wurde dieser Lagerplatz verlassen.
+Wir gedachten die ganze Nacht ununterbrochen weiter
+zu reiten. Es kam jedoch anders. Ueber die steinige
+Hochlandwüste strich ein heißer, von Norden kommender
+Wind hin, der jede Hoffnung auf nächtliche Kühle vereitelte.
+Nur wer jemals das Rote Meer mit seiner berüchtigten
 Backofenglut kennengelernt hat, kann sich eine Vorstellung
 von den ungeheuren Wärmegraden dieses trockenen
-Reißen Sturmes machen, der uns fjortgesebt seine scharfe
-teiniplitter lud Gesicht trieb, Da half kein Schleier, kein
-Gesichtstuch, da half sein Yussuchen dieser Täler. Unsere
-Reittiere hielten die Augen seit geschlossen, schritten unsicher
-dahin, feuchten ängstlich, stolperten, bis wir absteigen
+heißen Sturmes machen, der uns fortgesetzt seine scharfen
+Steinsplitter ins Gesicht trieb. Da half kein Schleier, kein
+Gesichtstuch, da half kein Aufsuchen tiefer Täler. Unsere
+Reittiere hielten die Augen fest geschlossen, schritten unsicher
+dahin, keuchten ängstlich, stolperten, bis wir absteigen
 mußten. Wir führten sie nun am Zügel in eine Schlucht,
-die uns einigen Schuß bot, Bier verbrachten wir die
-Nacht, Die Hitze hatte uns so erschöpft, Daß wir darauf
-vernichteten, abwechselnd zu wachen. Mir schliefen ein. Und
+die uns einigen Schutz bot. Hier verbrachten wir die
+Nacht. Die Hitze hatte uns so erschöpft, Daß wir darauf
+verzichteten, abwechselnd zu wachen. Wir schliefen ein. Und
 — morgens derselbe Sturm, nur etwas schwächer,
 
 Trotzdem mußten wir weiter.
 
 Abermals nun durch die schauerliche Einöde der Steinwüste
-— abermaiïs nichts als Felsen, Steine, Geröll,
+— abermals nichts als Felsen, Steine, Geröll,
 
-Kein Mensch, kein Tier, seine grüne Pflanze. Nur
-ein paar armselige Wüstensträucher, farblos, wie tot, Gemächer.
+Kein Mensch, kein Tier, keine grüne Pflanze. Nur
+ein paar armselige Wüstensträucher, farblos, wie tot, Gewächse,
 von denen man nicht begreift, wie sie diesem Boden
 Nahrung entziehen können, wo sie die nötige Feuchtigkeit
 zu ihrem Gedeihen hernehmen,
 
-»Ein Knittel Lager dann in dieser Einöde, Und —
-hier die nilcversämeiternve Entdeckung, das unser Trinke
-malen Durch Die Hitze ungeniedber geworden, Es stank
-geradezu verwest, Es erzeugte Uebelkeit und Erbrechen,
-Nur die Kamele sollen es voller Gier,
+Ein drittes Lager dann in dieser Einöde. Und —
+hier die niederschmetternde Entdeckung, das unser Trinkwasser
+durch die Hitze ungenießbar geworden. Es stank
+geradezu verwest. Es erzeugte Uebelkeit und Erbrechen.
+Nur die Kamele soffen es voller Gier,
 
-Wir flochten Tee damit. Es war ein Notbehelf, Der
+Wir kochten Tee damit. Es war ein Notbehelf. Der
 schreckliche Geruch blieb.
 
-Und doch sprach seiner von uns von Umstellen, Daran
-gedacht haben wir wohl, Aber — wer wollte den Gedanken
-auöfpreden?
+Und doch sprach keiner von uns von Umkehren. Daran
+gedacht haben wir wohl. Aber — wer wollte den Gedanken
+aussprechen?
 
-Rbermald Ausbruch — abermals hinein ins Ungewisse.
-Der Tropenhimmel leuchtete uns, Eine Sandwüste Hob
-sich hier auf Abwechslung in die Steitebenen ein. Der
+Abermals Aufbruch — abermals hinein ins Ungewisse.
+Der Tropenhimmel leuchtete uns. Eine Sandwüste schob
+sich hier zur Abwechslung in die Steinebenen ein. Der
 <@pagebreak/>
 Mond erschien. Wir ritten einen scharfen Trab. Vorwärts
 — nur vorwärts! Nur im Dschebel Menakib winkte
 die Rettung,
 
 Wir waren kaum eine Stunde unterwegs, als Frau
-Sendest bewußtlos aus dem Sattel sank. Zum Glück
+Hendrick bewußtlos aus dem Sattel sank. Zum Glück
 schadete ihr der Sturz nichts, da sie in den weichen Sand
-Auch Harald und ich kämpften entzogen Ohnmachtsanfälle
-an. Das verdorbene Wasser rächte sich, Ohne
-ist war das Regenwasser an allem schuld.
+fiel. Auch Harald und ich kämpften dauernd gegen Ohnmachtsanfälle
+an. Das verdorbene Wasser rächte sich. Ohne
+Zweifel war das Regenwasser an allem schuld.
 
 Wir mußten halt machen. Unsere Tiere taten sich sofort
 nieder. Wir bemühten uns um die Ohnmächtige, flößten
-ihr Whisky ein, Oberst Jefferson hatte fünf Flaschen
-unter Ben Proviantvorräten mitgenommen.
+ihr Whisky ein. Oberst Jefferson hatte fünf Flaschen
+unter den Proviantvorräten mitgenommen.
 
-Unsere Lage war berziweilelt, Frau Hendrick war
-offenbar schwer krank. Sie lag jebßt völlig teilnahmlos da,
+Unsere Lage war verzweifelt. Frau Hendrick war
+offenbar schwer krank. Sie lag jetzt völlig teilnahmlos da,
 von Fieberschauern geschüttelt. Und uns beiden ging es
-nicht viel besser, Eiserne Energie gehörte dazu, sich auch
+nicht viel besser. Eiserne Energie gehörte dazu, sich auch
 nur aufrecht zu halten,
 
 Harald reichte mir aus Jeffersons Reiseapotheke
 Opiumtabletten. Sie halfen ein wenig. Wir stellten für
-die graute eine Art Hängematte der, die wir zwischen zwei
+die Kranke eine Art Hängematte her, die wir zwischen zwei
 der Lastkamele befestigten. Wir konnten hier in der Sandwüste
 nicht bleiben.
 
-in Schritt, setzte sich unser trauriger Zug - wieder in
-Marsch. Ich führte die Lastkamele, Harst ritt stets eine
+Im Schritt setzte sich unser trauriger Zug wieder in
+Marsch. Ich führte die Lastkamele. Harst ritt stets eine
 Strecke voraus.
 
-Die Sandwlüste hatte bald ein Ende, Nun abermals
-Rot en — Steine — Felsen
+Die Sandwüste hatte bald ein Ende. Nun abermals
+Felsen — Steine — Felsen.
 
-Lot »da Mondlicht lag 4 friedlich über der grauenvollen
-Einöde
+Das Mondlicht lag so friedlich über der grauenvollen
+Einöde.
 
 Ich ging wie im Traum. Frau Hendrick stöhnte,
 schrie häufig in Fieber auf,
 
-E. Die Tiere waren matt und faul, blieben alle fünf
+Die Tiere waren matt und faul, blieben alle fünf
 Minuten stehen.
 
-&o und so oft Blicke ich sehnsüchtig nach einer schmalen
-Wolkenwand aus, Ein Gewitter hätte uns Blaurot,
-As frische Regenwasser wäre genießbar gewesen,
+So und so oft blickte ich sehnsüchtig nach einer schmalen
+Wolkenwand aus. Ein Gewitter hätte uns erquickt.
+Das frische Regenwasser wäre genießbar gewesen,
 
 Nichts von Wolke. Klarer Sternhimmel, die Mondscheibe
 als leuchtende Lampe.
 
-Weiter — mir weiter! —
+Weiter — nur weiter! —
 
 <@pagebreak/>
 Harald war ebenfalls abgestiegen, erwartete uns,
@@ -1725,22 +1725,22 @@ Harald war ebenfalls abgestiegen, erwartete uns,
 »Ich vertrage das Reiten nicht mehr,« sagte er dumpf.
 »Ich werde wieder Opium nehmen —«
 
-Hinter uns sschnatterte und lachte Prau Hendrick im
+Hinter uns schnatterte und lachte Frau Hendrick im
 Fieberwahn.
 
 schrie gellend den Namen ihres Kindes, —
 
-Ein Eiseshauch froh mir über den Rücken,
+Ein Eiseshauch kroch mir über den Rücken,
 
-Frech spürte die Nähe des Todes.
+Ich spürte die Nähe des Todes.
 
-Und — suchte Belebung in der Whisklyslasche.
+Und — suchte Belebung in der Whiskyflasche.
 
-»Trink! nicht!« warnte Harald.
+»Trink’ nicht!« warnte Harald.
 
-Dann — suche er die Achseln.
+Dann — zuckte er die Achseln.
 
-»Vielleicht hast Du recht! — Gib her!« — Und um
+»Vielleicht hast Du recht! — Gib her!« — Und auch
 er trank.
 
 So taumelten wir weiter.
@@ -1748,20 +1748,20 @@ So taumelten wir weiter.
 Bis die Sterne verblaßten — bis die Mondscheibe
 verschwand.
 
-Der neue Tag kam. Vielleicht unser lebten. —
+Der neue Tag kam. Vielleicht unser letzter. —
 
-Vielleicht?! eshalb sich selbst belügen?! Weshalb
-Na be eingestehen, daß nur ver Alkohol uns beide noch
-auf den. Füßen hielt?! Wenn erst die Sonne da war,
+Vielleicht?! Weshalb sich selbst belügen?! Weshalb
+sich nicht eingestehen, daß nur der Alkohol uns beide noch
+auf den Füßen hielt?! Wenn erst die Sonne da war,
 wenn die Felsen die sengenden Strahlen mit verdoppelter
-Kraft zurükwarfen, wenn wir erst wieder durch die flim-mernde
-Luft unsäglicher Glut dahinschseichen Färben, kann
+Kraft zurückwarfen, wenn wir erst wieder durch die flimmernde
+Luft unsäglicher Glut dahinschleichen würden, dann
 — dann würde erst der eine von uns umsinken, liegen bleiben.
 Und der andere würde nicht mehr die Kraft haben,
 den Freund irgendwohin in den Schatten zu schleppen.
 
 <h2>2. Kapitel.</h2>
-<h3>Die Quelle des Dscheitan,</h3>
+<h3>Die Quelle des Dscheitan.</h3>
 
 »Schraut!«
 
@@ -1774,27 +1774,26 @@ Das machte munter. Das machte den Blick wieder klar.
 In Haralds Stimme lag Hoffnung, Freude,
 
 Und ich sah, daß die Kamele die Köpfe hochreckten,
-Ein Luft einsogen, vs es wie Unruhe über sie kam.
+die Luft einsogen, daß es wie Unruhe über sie kam.
 
 <@pagebreak/>
-»Sie wittern Wasser!« sagte Harald. »Morivärtäl«
+»Sie wittern Wasser!« sagte Harald. »Vorwärts!«
 
-Oh — wie das eine Wort mich efeftrifierte! Wasser
-- Wasser — I Wie alles andere verzeihen war: Völlig
-Freitag, Uebelkeit, Verziveislsuna, Gleich
-rate
+Oh — wie das eine Wort mich elektrisierte! Wasser
+— Wasser —! Wie alles andere vergessen war: Mattigkeit,
+Todesgedanken, Uebelkeit, Verzweiflung, Gleichgültigkeit.
 
-Wasser — Wasser! Ja — wie flüchtig verlohnt
+Wasser — Wasser! Ja — wie flüchtig der Schritt
 der Tiere wurde, wie sie vorwärts drängten!
 
-Harst mit dem Reitkamel war, wieder voran, hielt es
+Harst mit dem Reitkamel war wieder voran, hielt es
 am Zügel, ließ es die Richtung wählen.
 
-Signora über Geröll, über eine Ebene, — hinein in die
-Pereinintach) eine steile Wand empor.
+Hinweg über Geröll, über eine Ebene, — hinein in die
+Steinhügel, eine steile Wand empor.
 
-dann — dann standen wir oben und schauten Zins
-Bin das kleine grüne Tal mit dem kniend zwischen Dattelpalmen.
+Und dann — dann standen wir oben und schauten hinab
+in das kleine grüne Tal mit dem Dutzend wilder Dattelpalmen.
 
 Schauten — und krampften die Hand um die Zügel,
 die Tiere festzuhalten.
@@ -1803,15 +1802,13 @@ Fühlten das Blut aus den Wangen weichen, fühlten
 das Erblassen.
 
 Dort unten ein winziges Wasserbecken in der Mitte
-Eins schüsselartigen, aus dem Sande emporragenden Fels
-platte.
+einer schüsselartigen, aus dem Sande emporragenden Felsplatte.
 
-Dort unten schneeweiß nebleichte Gerippe von Tieren
-und Vlenfchen, abitediend von dem Laternen Grün des Gras
-Dies hausen weise Wirt übereinander.
+Dort unten schneeweiß gebleichte Gerippe von Tieren
+und Menschen, abstechend von dem lockenden Grün des Grases
+— haufenweise — wirr übereinander.
 
-Ei Das Tal wie besät mit diesen Reihen der Vorgängers
-Zeit.
+Das Tal wie besät mit diesen Reihen der Vergänglichkeit.
 
 »Die Quelle des Dscheitan — die Teufelsquelle!«
 murmelte Harald vor sich hin.
@@ -1819,28 +1816,27 @@ murmelte Harald vor sich hin.
 Da begriff ich, da wußte ich: das war die Quelle, vor
 der man uns schon in Aden gewarnt hatte! Das war die
 Quelle, die auf der Karte Südarabiens mit einem roten
-Kreuz versehen war! Und neben dem Kreuz stand die
- gedruckt!:
+Kreuz versehen war! Und neben dem Kreuz stand dick
+gedruckt!:
 
-> Ungenießbar! Ging!
+> Ungenießbar! Giftig!
 
-Gras Er noch) flott weg, raus Sir jeden Ok
+— Das war noch nicht alles, was wir sahen.
 
-Nein — da beugte sich gerade ein Mann zu her Feier.
-weg hinab, Schöpfte das Waffen mit einem Wluminliums
-Becher
+Nein — da beugte sich gerade ein Mann zu der Felsschüssel
+hinab, Schöpfte das Wasser mit einem Aluminiumbecher.
 
 Da war auf der anderen Seite der Todesschüssel ein
 <@pagebreak/>
 gesatteltes Reitkamel, das die Schnauze schon tief in das
 verderbliche Naß gesenkt hatte.
 
-»Fesselung — nicht trinken!« brüllte Harald dem
+»Jefferson — nicht trinken!« brüllte Harald dem
 Manne zu.
 
 Ja — es war der Oberst.
 
-Er hob den Kopf — erkannte und, winkte ladend mit
+Er hob den Kopf — erkannte uns, winkte lachend mit
 dem vollen Becher,
 
 Und — trank — trank,
@@ -1852,9 +1848,9 @@ Uns lief der kalte Schweiß über das Gesicht,
 
 Wir hatten nicht mehr die Kraft, die Tiere zu halten.
 
-Sie rissen uns mit, schleisten uns,
+Sie rissen uns mit, schleiften uns,
 
-Und drängten sich um die Steinschüssel, Bissen nach
+Und drängten sich um die Steinschüssel, bissen nach
 uns, als wir verzweifelt sie wegzuscheuchen suchten.
 
 Harst war fahl im Gesicht.
@@ -1862,7 +1858,7 @@ Harst war fahl im Gesicht.
 »Mag das Verhängnis seinen Lauf nehmen,« sagte er
 dumpf. »Tragen wir Frau Hendrick beiseite!«
 
-Wir »Boden sie aus ver Hängematte.
+Wir hoben sie aus der Hängematte.
 
 Wir legten sie abseits unter einen Busch, —
 
@@ -1870,150 +1866,150 @@ Welch grausame Ironie: diese Quelle hatte hier eine
 die Augen labende Vegetation hervorgezaubert! Aber —
 Mensch und Tier brachte sie den Tod,
 
-Wir festen uns neben die Stoppte nieder, nachdem wir
+Wir setzten uns neben die Kranke nieder, nachdem wir
 den Lastkamelen die Weidenkörbe abgenommen hatten.
 
 Stumm, hilflos schauten wir zu, wie die armen Tiere
-noch immer das giftige Naß schlüpften, wie sie dann zu
+noch immer das giftige Naß schlürften, wie sie dann zu
 grasen begannen.
 
-Eine stumpfe Gleichgültigkeit hatte und befallen,
+Eine stumpfe Gleichgültigkeit hatte uns befallen,
 
 Harald packte mit trägen Bewegungen den Proviant
-aus, richtete den Spirituskocher her, nahm ein Stück Harst-spiritus
+aus, richtete den Spirituskocher her, nahm ein Stück Hartspiritus
 aus der Büchse und zündete es an, tat von dem
 stinkenden Wasser etwas in den Kessel, warf den Wasserschlauch
 beiseite.
 
-Die Lust in diesem Tale war kühler. Ich sah, daß
+Die Luft in diesem Tale war kühler. Ich sah, daß
 die Dattelpalmen voller Früchte hingen. Ob man es
 wagen durfte, sie zu essen?
 
 Frau Hendrick hatte den Kopf etwas gehoben, ihr
 Blick fiel auf die Gerippe — die menschlichen
-Skelette
+Skelette.
 
 <@pagebreak/>
-einem Aechzen sank sie wieder zurück und Kahne
-Daunen —
+Mit einem Aechzen sank sie wieder zurück und schloß
+die Augen. —
 
-Harald war jetzt an das Wasserbecken erangetreten.
-Mr. natürliche Steinschüssel halte zwei Löcher, zwei
+Harald war jetzt an das Wasserbecken herangetreten.
+Diese natürliche Steinschüssel hatte zwei Löcher, zwei
 Spalten.
 
 — Aus der einen sprudelte das Wasser hervor, durch die
-rudere floh wieder so viel ab, daß nur gerade beständig ein
-jenes Rinnsal über den Rand glitt und im Boden verbietet
+andere floß wieder so viel ab, daß nur gerade beständig ein
+dünnes Rinnsal über den Rand glitt und im Boden versickerte.
 
-arfı setzte ich wieder und beobachtete still die Kamele,
-sich jetzt eins nach dem andern niedertaten.
+Harst setzte sich wieder und beobachtete still die Kamele,
+die sich jetzt eins nach dem andern niedertaten.
 
-Nicht lange, und sie sprangen empor, taumelten ums!,
-fielen um, rafften sich wieder hoch, fliehen Klagende
-Tone aus, rollten abermals ins Gras. —
+Nicht lange, und sie sprangen empor, taumelten umher,
+fielen um, rafften sich wieder hoch, stießen klagende
+Töne aus, rollten abermals ins Gras. —
 
 Harald seufzte.
 
-ie »van müßte ihnen Ben Todeskamyf erleichtern. Sie
-en!«
+»Man müßte ihnen den Todeskampf erleichtern. Sie
+leiden!«
 
 Er nahm die Clement.
 
-»Frau Hendrick, erforschen Eile nicht!« rief er die
-Kolonie an. »Ich werde schießen!«
+»Frau Hendrick, erschrecken Sie nicht!« rief er die
+Kranke an. »Ich werde schießen!«
 
 Sie richtete sich wieder auf.
 
-Sitte Augen hatten Leben. Es ging ihr besser. Sie
-fehlte sich kräftiger,
+Ihre Augen hatten Leben. Es ging ihr besser. Sie
+fühlte sich kräftiger,
 
 Harst erschoß die sieben Tiere. Jedes erhielt eine
 Kugel hinter das Ohr.
 
-Ran Hendrick fragte.
+Frau Hendrick fragte.
 
-ich erzählte lockend.
+ich erzählte stockend.
 
-Entsetzliches Land!« meinte sie Schaukeln
+»Entsetzliches Land!« meinte sie schaudernd.
 
-ne schob ihr einen der Weidenkörbe als Gase in Ben
-Süden
+Ich schob ihr einen der Weidenkörbe als Stütze in den
+Rücken.
 
-van auftraten wir ein paar Zwiebacke und strong
-üchsenfleish hinunter.
+Dann würgten wir ein paar Zwiebacke und etwas
+Büchsenfleisch hinunter.
 
-tröstete Frau Hendrick, »Wir haben die Tale
-Sie enthalten Tüchtigkeit. Sie können
-ja sein. ur was!«
+Harald tröstete Frau Hendrick. »Wir haben die Datteln.
+Sie enthalten Feuchtigkeit. Sie können unmöglich
+giftig sein. Nur Mut!«
 
-Das Wasser aus dem Esel sollen wir wie. Es war
-Koch ungenießbarer als gestern.
+Das Wasser aus dem Kessel sollen wir aus. Es war
+noch ungenießbarer als gestern.
 
-Wir holten ein Haar Datteln, Sie schmeckten an
-anders als diese Früchte eben seist vom Baume schmecken
+Wir holten ein paar Datteln. Sie schmeckten nicht
+anders als diese Früchte eben frisch vom Baume schmecken.
 
 Dann schleppten wir die Kadaver der Kamele mühsam
 <@pagebreak/>
 in das nächste Tal, warfen sie hier in eine tiefe, breite
-Relsipalte. Ein Wunder war’s, daß unsere Kräfte dazu
+Felsspalte. Ein Wunder war’s, daß unsere Kräfte dazu
 ausreichen.
 
-»Wollen uns einmal nach Jefferson umsehen, Er
-dann nicht weit gekommen sein, der Reihe,« meinte las
+»Wollen uns einmal nach Jefferson umsehen. Er
+dann nicht weit gekommen sein, der Aermste,« meinte
 Harald und stieg die Talwand empor.
 
-Wir fanden ihn, nachdem wir den Spuren seines dies
-Los etwa eine Viertelstunde lang gefolgt waren. Er war
-fraglos aus dem Sattel gestürzt, hatte sich das Genick ge«
-gebrochen. Sein Reitkamel lag tausend Meter weiter ver
-endet es den Steinen einer Schlucht.
+Wir fanden ihn, nachdem wir den Spuren seines Tieres
+etwa eine Viertelstunde lang gefolgt waren. Er war
+fraglos aus dem Sattel gestürzt, hatte sich das Genick
+gebrochen. Sein Reitkamel lag tausend Meter weiter verendet
+zwischen den Steinen einer Schlucht.
 
 Wir begruben Jefferson, häuften Steine über dem
-Felsloche auf und wandten uns der Quelle des Discheitan
+Felsloche auf und wandten uns der Quelle des Dscheitan
 wieder zu.
 
-aus Wir so aus dem Rückwege ein sandiges Tal durch
-schritten, als Harald mir gerade erklärte, daß wir hier in
+Als wir so auf dem Rückwege ein sandiges Tal durchschritten,
+als Harald mir gerade erklärte, daß wir hier in
 der Einöde nichts mehr zu hoffen hätten, als wir um eine
 hohe Gruppe von Felsen bogen, — standen wir der Sultana
 Eizul gegenüber.
 
 Sie war’s.
 
-Sie saß aus ihrem hellgrauen Reitkamel in der türkischen,
-phantastischen Tracht, wie wir sie schon einmal
-sehen, die leichte Büchse in ver Linken.
+Sie saß auf ihrem hellgrauen Reitkamel in der türkischen,
+phantastischen Tracht, wie wir sie schon einmal gesehen,
+die leichte Büchse in der Linken.
 
 Sie hatte uns ohne Zweifel hier erwartet.
 
-»Ich freue mich, Sie wiederzusehen,« sagte sie mit Eis
-jenem »leichten Neigen des Hauptes.
+»Ich freue mich, Sie wiederzusehen,« sagte sie mit einem
+leichten Neigen des Hauptes.
 
-Wir hatten nach der ersten Ueberraschung höflich ne
-grüßt. wir strahlten beide,
+Wir hatten nach der ersten Ueberraschung höflich gegrüßt.
+Wir strahlten beide,
 
 Soeben noch das Bewußtsein, daß wir verloren seien!
-Und nun die sichere Aussicht auf Rettung! — Der Im
-schlag unserer Stimmung mußte sich in unseren Mieten
+Und nun die sichere Aussicht auf Rettung! — Der Umschlag
+unserer Stimmung mußte sich in unseren Mienen
 widerspiegeln.
 
 Die seltsame Frau dort vor uns fügte jetzt hinzu:
 
-»Ich danke Ihnen! Ich wünsche Ihnen beiden Glück
-gliche Heimkehr! Leben Sie wohl!«
+»Ich danke Ihnen! Ich wünsche Ihnen beiden glückliche
+Heimkehr! Leben Sie wohl!«
 
-Koch eine grüßende Berweauna mit der rechten Hand,
-und sie n ihr Tier herum und jagte nach links in ein
-Seitental mein, verschwand hinter einer Krümmung.
+Noch eine grüßende Bewegung mit der rechten Hand,
+und sie riß ihr Tier herum und jagte nach links in ein
+Seitental hinein, verschwand hinter einer Krümmung.
 
-»Komm!« meinte Harald. »Mir werden Frau Hendrick
+»Komm!« meinte Harald. »Wir werden Frau Hendrick
 <@pagebreak/>
 nicht mehr vorfinden, glaube ich! Dafür aber manches
-andere! -
+andere!«
 
-Er behielt recht: Frau Sendest war inzwischen weggeschafft
-worden Außerdem war die Felsenschüssel mit
-mächtigen Steinen völlig bedeckt, An einer Palme standen
+Er behielt recht: Frau Hendrick war inzwischen weggeschafft
+worden. Außerdem war die Felsenschüssel mit
+mächtigen Steinen völlig bedeckt. An einer Palme standen
 vier Kamele, zwei Reittiere und ein Lastdromedar: Daneben
 lagen acht volle Wasserschläuche und ein kleiner Korb
 mit Früchten,
@@ -2022,231 +2018,232 @@ Die Spuren im Tale verrieten, daß ein Reitertrupp
 von einigen vierzig Leuten hier gewesen.
 
 »Arakruzier!« sagte Harald und setzte sich im Schatten
-der Büsche nieder. »Wir werden die Sultana Geheul
-»heute wohl zum letzten Male in unserem Leben gesehen
-haben, Ich nehme an, daß wir schon gestern von den Beduinen
-beobachtet worden sind, Gestern morgen schien es
-nie einmal so, als oh ich rechts von uns Das Kopftuch
-eines Beduinen zwischen den Felsen bemerkte. ich —«
+der Büsche nieder. »Wir werden die Sultana Eizul
+heute wohl zum letzten Male in unserem Leben gesehen
+haben. Ich nehme an, daß wir schon gestern von den Beduinen
+beobachtet worden sind. Gestern morgen schien es
+mir einmal so, als oh ich rechts von uns das Kopftuch
+eines Beduinen zwischen den Felsen bemerkte. Ich —«
 
 Er schwieg, hob ein kleines Paket aus dem Grase neben
-Ben Spirituskocher hoch.
+dem Spirituskocher hoch.
 
 Es war ein Stück Seide, in das zwei Götzenstatuen
 aus gelblichem Golde eingewickelt waren, Statuen von
-etwa schon so Zentimeter Höhe, einen auf einem Throne
-Gott nach Art der altägyptischen Gottheiten dar
+etwa vierzig Zentimeter Höhe, einen auf einem Throne
+sitzenden Gott nach Art der altägyptischen Gottheiten darstellend.
 
-in friere Geschenke, mein Alter!« lächelte Harald. »Die
-Sultana hat uns sehr sein zu verstehen gegeben, daß wir
-als Gäste im Lande Der Arakruzier nicht willkommen
-Kind. Der Stamm will seine strenge Abaecschlossenheit bewahren.
-Nun gut: wir beide werden Armlehnen! Dieses
+»Unsere Geschenke, mein Alter!« lächelte Harald. »Die
+Sultana hat uns sehr fein zu verstehen gegeben, daß wir
+als Gäste im Lande der Arakruzier nicht willkommen
+sind. Der Stamm will seine strenge Abgeschlossenheit bewahren.
+Nun gut: wir beide werden umkehren! Dieses
 Abenteuer ist zu Ende!«
 
 <@pagebreak/>
 
-<h2>3, Kapitel,</h2>
-<h3>Das Gerippe mit Den Goldplomben,</h3>
+<h2>3. Kapitel.</h2>
+<h3>Das Gerippe mit den Goldplomben.</h3>
 
-Nein — ed war nicht zu Endet Es ging erst an. Daß
-wir Frau Hendrick Ihrem Sinne angeführt hatten, bildete
+Nein — es war nicht zu Ende! Es fing erst an. Daß
+wir Frau Hendrick Ihrem Kinde zugeführt hatten, bildete
 nur die Einleitung, —
 
 In ganz anderer Stimmung als vorhin bereiteten wir
 uns nun eine Mahlzeit. Das heißt, ich spielte den Koch,
-und Harald schlenderte in dem Meinen Tale hin und her,
-sich die Versehene und Xierifeiette an und rief dann
-plötzlich
+und Harald schlenderte in dem kleinen Tale hin und her,
+schaute sich die Menschen- und Tierskelette an und rief dann
+plötzlich:
 
 »Komm’ doch einmal her!«
 
-Oh nahm den Topf mit der Fleischbrühe vom Feuer,
+Ich nahm den Topf mit der Fleischbrühe vom Feuer,
 stellte ihn ins Gras und ging dorthin, wo Harald vor einem
-am nördlichen Vorlande halb aufrecht sitzenden Menge
-blichen Skelett Star.
+am nördlichen Talrande halb aufrecht sitzenden menschlichen
+Skelett stand.
 
-ren meinte er kurz,
+»Ein Europäer,« meinte er kurz,
+
+»So?!«
 
 »Ja. Plombierte Zähne — Goldplomben!«
 
-Nun Tal ich die Plomben ebenfalls,
+Nun sah ich die Plomben ebenfalls,
 
-»Und dort« Harald wies auf einen Stein neben
+»Und dort« — Harald wies auf einen Stein neben
 dem Gerippe — »dort unter dem Stein liegt eine mit Filz
-überzogene Sektflasche. Der Mann muß sie vor seinem
-Tone unter den Stein gnelchoben haben, Die Gräser Vers
-Werfen sie. Sonst hätten Berühren sie wohl längst mitgenommen.«
+überzogene Feldflasche. Der Mann muß sie vor seinem
+Tode unter den Stein geschoben haben. Die Gräser verdecken
+sie. Sonst hätten Beduinen sie wohl längst mitgenommen.«
 
-Er bückte ich und hob die Flasche auf, Sie war ver
-hofft. Er schüttelte sie, Da flog der zusammengetrocnete
-Kork heraus und — eine Rolle Papier faul zum Vorschein,
+Er bückte ich und hob die Flasche auf. Sie war verkorkt.
+Er schüttelte sie. Da flog der zusammengetrocknete
+Kork heraus und — eine Rolle Papier kam zum Vorschein,
 
-»Etwas Aehnliches Dachte ich mir!« nickte Harald,
+»Etwas Aehnliches dachte ich mir!« nickte Harald,
 
 Das Papier war ein zusammengerollter und von einer
-Stecknadel zusammengcehaltener Briefbogen,
+Stecknadel zusammengehaltener Briefbogen,
 
 »Den wollen wir uns in aller Ruhe ansehen, mein
-Alter,« sagte Harst, »Er ist mit Bleistift beschrieben, Es
+Alter,« sagte Harst. »Er ist mit Bleistift beschrieben. Es
 wird wohl eine Art Testament des Mannes mit den Goldplomben
 sein.« —
 
-E83 war sein Testament, Es war etwas Welt Werk
-würdigeres. ich -
+Es war kein Testament. Es war etwas weit merkwürdigeres.
 
 <@pagebreak/>
 Wir beide hatten erst unsere Mahlzeit eingenommen,
-bevor wir den Briefbogen besichtigten, Harald hatte sehr
-vorsichtig die Stecknadel herausgezogen. Es war Leine ge
+bevor wir den Briefbogen besichtigten. Harald hatte sehr
+vorsichtig die Stecknadel herausgezogen. Es war keine
 gewöhnliche Stecknadel. Sie hatte als Kopf eine kleine echte
 Perle und bestand aus Gold. Die Spitze war pfeilartig
-breit Stammelt.
+breit gehämmert.
 
-»Eine indische Schmudnabel zum Befestigen des Kopftuches,«
-meinte Harst und lechzte die Nadel in seine Briefe
+»Eine indische Schmucknadel zum Befestigen des Kopftuches,«
+meinte Harst und legte die Nadel in seine Brieftasche.
 
 Dann rollte er den Briefbogen auf.
 
-Auf der Außenseite, deren kurze Einschnitt man zum
-Zeit auch schon bei dem zusammengerollten Bogen hatte
-»lesen können, standen folgende Worte in lateinischer, aber
-sehr zitteriger Soda
+Auf der Außenseite, deren kurze Inschrift man zum
+Teil auch schon bei dem zusammengerollten Bogen hatte
+lesen können, standen folgende Worte in lateinischer, aber
+sehr zitteriger Schrift:
 
 > Der, die ich suchte!
 
-»a — Deutsch, wirklich Deutsche Worte!« rief ich er
+»Ah — Deutsch, wirklich Deutsche Worte!« rief ich erstaunt.
 
-»Anfall schlug den Bogen auseinander,
+Harald schlug den Bogen auseinander,
 
-Und wieder rief ich;
+Und wieder rief ich:
 
-Ein Gedicht!«
+»Ein Gedicht!«
 
 Man sah dies ja sofort an der Anordnung der Zeilen.
 
 Harst las leise:
 
-> Meiner Sehnsucht a Flügel
+> Meiner Sehnsucht nimmermüde Flügel
 Trieben über Tal und Hügel
-die Einsamkeit hinein
-ich allein.
+In die Einsamkeit hinein
+Mich allein.
 
-> Meines Reichtums zwoecklos goldne Scherben
+> Meines Reichtums zwecklos goldne Scherben
 Wußt’ am Fuße ich zu bergen
-Einer Gottheit Stutzen Leibes,
+Einer Gottheit blutgen Leibes,
 Eines Weibes.
 
-> In der Wäldern Felsenspalte
-Dofert’ einst dem Stutzen Gatte
-in der Wahnideen Trug
+> In der düstern Felsengrotte
+Opfert’ einst dem blutgen Gotte
+In der Wahnideen Trug
 Jeder Thug.
 
 > Wo der Dschamna trübe Wellen
-Dicht umklappen Beherzte!Wen,
+Dicht umdrängen Felsenstellen,
 <@pagebreak/>
-raubt, was Menschengeilst
-Eitel greift,
+Ruht, was Menschengeist
+Eitel preist.
 
 > Meines Lebens leere Tage
-Endet hier die Echielfaldwan.
+Endet hier die Schicksalswaage.
 Wer euch findet, eitle Scherben,
 Soll euch erben.
 
 > R. R.
 
-»Der, die ich suchte!«« wiederholte Harald dann nach«
-deutlich. »Vielleicht die Sultana Eizul — Luzie Sendest,
-die schone, bezaubernde Luzie, deren Augen Löwen zu
+»Der, die ich suchte!« wiederholte Harald dann nachdenklich.
+»Vielleicht die Sultana Eizul — Luzie Hendrick,
+die schöne, bezaubernde Luzie, deren Augen Löwen zu
 Lämmern machten. Was mögen diese Augen erst in Männerherzen
 angerichtet haben! — Ein Dokument der Liebe
-ist dieses Gedicht, Ein Testament, eine Verheißung. —
-Wer mag dieser R. R, gewesen sein, der hier den Tod
-nahen fühlte, der hier Ben giïtiaen Trank der Teufels«
-Quelle In blinder Gier geschlürft hatte, der mit den legten
+ist dieses Gedicht. Ein Testament, eine Verheißung. —
+Wer mag dieser R. R. gewesen sein, der hier den Tod
+nahen fühlte, der hier den giftigen Trank der Teufelsquelle
+in blinder Gier geschlürft hatte, der mit den letzten
 Regungen seines Geistes diese Verse flüchtig auf das Papier
 warf?«
 
 »Der Name dieses Landsmannes wird sich ermitteln
-lassen«, meinte ich hoffnunagsîroh.
+lassen«, meinte ich hoffnungsfroh.
 
-»Vielleicht!« Und er las abermals: »— An der
+»Vielleicht!« Und er las abermals: »— In der
 Wahnideen Trug — jeder Thug! — Thug, Mehrzahl davon
-Einsah, religiöse indische Sekte, Anbeter der blutigen
-Göttin Kali, ver zu Ehren sie Menschen erdrosselten. Vor«
-versetze, mit der wir ebenfalls schon zu tun gehabt haben,
+Thagal, religiöse indische Sekte, Anbeter der blutigen
+Göttin Kali, der zu Ehren sie Menschen erdrosselten. Mördersekte,
+mit der wir ebenfalls schon zu tun gehabt haben,
 mein Alter.«
 
 Ich nickte. Ob ich mich darauf besann! Derartiges
 vergißt man nicht. Das haftet im Gedächtnis wie eingemeißelt,
 
 »Also am Fuße der Statue der Göttin Kali hat dieser
-N. R, seines Reichtums goldne Scherben vergraben,« fuhr
-Harald sinnend fort, »Offenbar tat er es. bevor er hier
+R. R. seines Reichtums goldne Scherben vergraben,« fuhr
+Harald sinnend fort. »Offenbar tat er es, bevor er hier
 nach Arabien kam, um seine große Liebe zu suchen. Das
-wird Luzie Hendrick gewesen sein, denke ich, Und — dieses
+wird Luzie Hendrick gewesen sein, denke ich. Und — dieses
 Testament in Versen gilt ihr! Er mag gehofft haben, daß
-ihr das Gedicht in die Hände /geraten würde! Er wollte
-er sein Nermöaen hinterlassen. Kg zweiter Linie erst dem,
+ihr das Gedicht in die Hände geraten würde! Ihr wollte
+er sein Vermögen hinterlassen. In zweiter Linie erst dem,
 der das Gedicht und — die goldenen Scherben fände. Der
 <@pagebreak/>
-— Kalkutta Eizul also müßten wir R. R’s Reichtümer ankern
-men lassen, falls wir diese entoeceii sollten, Und — das
-werden wir, An der Dschamna in Senkten also so der
+Sultana Eizul also müßten wir R. R’s Reichtümer zukommen
+lassen, falls wir diese entdecken sollten. Und — das
+werden wir. An der Dschamna in Indien also soll der
 Höhlentempel der Kali liegen. Vielleicht hat R. R. dort
-auch noch etwas Schriftliches niedergelegt — »vielleicht!
-— Fasse Hoffnung reizt mich mehr als das Gold!«
+auch noch etwas Schriftliches niedergelegt — vielleicht!
+— Diese Hoffnung reizt mich mehr als das Gold!«
 
-»Und — sperr wir es finden, wie sollen wir es der
-Sultana Mr. meinte ich zweifelnd.
+»Und — wenn wir es finden, wie sollen wir es der
+Sultana zustellen?« meinte ich zweifelnd.
 
-»xja — das ist wohl das See dabei, mein Alter.
-Da — zuerst müssen wir es haben!«
+»Ja — das ist wohl das Schwierigste dabei, mein Alter.
+Doch — zuerst müssen wir es haben!«
 
-Er steckte den Briefbogen in die Tasche, »Lassen wir
+Er steckte den Briefbogen in die Tasche. »Lassen wir
 dieses Geheimnis jetzt vorläufig ruhen. Wir werden in
-einer Stunde ausbrechen.
+einer Stunde aufbrechen.
 
-ich rate den Spirituskocher und den Proviant in den
-Tragkorb zurück. sich sattelte die beiden Reitkamele. Harald
+Ich packte den Spirituskocher und den Proviant in den
+Tragkorb zurück. Ich sattelte die beiden Reitkamele. Harald
 saß noch immer im Schatten der Büsche. Er hatte die
-elegante Brieftasche in den Händen, die wir bei einem ver
+elegante Brieftasche in den Händen, die wir bei einem der
 toten Karawanenräuber gefunden hatten. Die Papiere
-dieses John Barring, dennoch offenbar von Anruf Nazirs
-Leuten ermordet worden war, schienen sein Hinhorchte
-derart in Anspruch zu nehmen, daß er völlig vergaß, mir -
+dieses John Barring, der doch offenbar von Jussuf Nazirs
+Leuten ermordet worden war, schienen sein Interesse
+derart in Anspruch zu nehmen, daß er völlig vergaß, mir
 zu helfen. Das war sonst nicht seine Art,
 
 Dann rief er mich an.
 
-»Einen Augenblick, lieber Alter. Entschuldige (von,
-E. Da! ich Dir allein die ganze Arbeit überlasse. Hier ist ie
-doch unter Barrings Papieren der Rest eines Briefes, den
-Ah Dir seinen möchte —«
+»Einen Augenblick, lieber Alter. Entschuldige schon,
+daß ich Dir allein die ganze Arbeit überlasse. Hier ist jedoch
+unter Barrings Papieren der Rest eines Briefes, den
+ich Dir zeigen möchte —«
 
-By kam und feste mich wieder neben Ihn.
+Ich kam und setzte mich wieder neben ihn.
 
-anfing war Kaufmann und wohnte in Agra an ver
-Dschamna!« erklärte er nun.
+»Barring war Kaufmann und wohnte in Agra an der
+— Dschamna!« erklärte er nun.
 
-Sahara — Dichamma — und R. R’s Gedicht erwähnt
-Biete Lug! fiel ich ihm ins Wort.
+»Agra — Dschamna — und R. R’s Gedicht erwähnt
+diesen Fluß!« fiel ich ihm ins Wort.
 
-bist auf der richtigen Fährte. Sohn Barring
-und Mr. n. müssen Freunde, gewesen sein. — Sieh hier hier
-2s Gilt eines Briefes, Bus Sie Bitte der ¿cidre
-Lug ist es. Der obere und der untere Teil sind abgerissen.
+»Du bist auf der richtigen Fährte. John Barring
+und R. R. müssen Freunde gewesen sein. — Sieh hier dieses
+Stück eines Briefes. Nur die Mitte des einfachen Bogens
+ist es. Der obere und der untere Teil sind abgerissen.
 Der Brief —«
 
-»Ok 4t in Er Sprache abgefaßt, aber die Handschrift
-ist die R. R’s
+»ist in englischer Sprache abgefaßt, aber die Handschrift
+ist die R. R’s.«
 
 <@pagebreak/>
-»Ganz recht. Zweifellos die R. R’s. Ah will Dir
+»Ganz recht. Zweifellos die R. R’s. Ich will Dir
 das Brieffragment vorlesen —
 
-> »— Brüder hinter mir abaebrocdhen. Mein Leben
-soll nur der einen Aufgabe gewidmet sein, Drei Jahre
+> »— Brücken hinter mir abgebrochen. Mein Leben
+soll nur der einen Aufgabe gewidmet sein. Drei Jahre
 sind es her, als der Vater allein heimkehrte, als die
 ganze Welt voller Teilnahme erfuhr, daß dieses seltene
 Geschöpf, dem gegenüber ich stets nur den wohlmeinenden
@@ -2258,85 +2255,84 @@ Hier fehlte die Fortsetzung, wie auch der Anfang fehlte.
 »Natürlich bezieht sich das alles auf Luzie Hendrick,«
 erklärte ich.
 
-»Höre weiter — die Rüttelte;
+»Höre weiter — die Rückseite:
 
-> »— da die Ausputz Tran wächst, allen Grund, mich
-zu beeilen. Ah weiß, daß Du, mein lieber John, Deinen
+> »— da die Kriegsgefahr wächst, allen Grund, mich
+zu beeilen. Ich weiß, daß Du, mein lieber John, Deinen
 alten Freund trotz der politischen Spannung zwischen
+unseren Heimatländern freudig willkommen heißen wirst.
+Mit Dir will ich beratschlagen, was ich unternehmen
+soll. Mein Vermögen habe ich an die India-Bank in
+Agra überweisen lassen. An Geld soll es nicht mangeln,
+den —
 
-unseren Heimatländern freudig willkommen heißen wirft.
-Mit Dir will ich beratfchlanen, was ich unternehmen
-soll. Mein Vermögen habe ich an die Indra-Bank in
-Ben überweisen lassen. An Geld soll es nicht mangeln,
-en —
-
-»Das wäre das Brieffragment — N. in. bat also die
+»Das wäre das Brieffragment — R. R. hat also die
 Absicht gehabt, Barring zu besuchen, ist auch fraglos in
 Agra gewesen, wo er vor seiner Abreise nach Arabien sein
 offenbar in Gold umgewechseltes Vermögen verborgen hat.
 Er ging allein nach Arabien. Dies beweist einmal die
 Tatsache, daß er hier allein den Tod fand, dort aber auch
-diese Hotelrechnung hier, ausgestellt im Hotel Ailaitie in
+diese Hotelrechnung hier, ausgestellt im Hotel Atlantic in
 Aden am 16. April 1915 für Mr. John Barring. Auf
 der Rückseite der Rechnung findet sich eine Notiz, wie Du
 siehst, ein Depeschenentwurf:
 
-Reginald Barring, Agra, Sonorer-Ernster 18,
+Reginald Barring, Agra, Scarper-Street 18.
 Bisher nichts ermittelt. — R. dürfte umgekommen sein.
 
-Ich kehre mit nächster Gelegenheit zurück, — am
+Ich kehre mit nächster Gelegenheit zurück. — John.
 
 »Mithin hat John von Aden aus nach R. R. Nachforschungen
-angestellt, mein Aber. Er hat den Freund
-alte nicht begleitet, — Es fragt sich um, ob Sohn Barring
+angestellt, mein Alter. Er hat den Freund
+also nicht begleitet. — Es fragt sich nun, ob John Barring
 <@pagebreak/>
-raubte, wo N. N. das Gold versteht Hatte Wie denkst
-hierüber?«
+wußte, wo R. R. das Gold versteckt hatte. Wie denkst
+Du hierüber?«
 
-»Ich meine, er wußte es nicht, sonst wäre in dieses
-stamenti, dieses Gedicht, Tanne überflüssig gewesen, Hätte
-Barring brummig von —«
+»Ich meine, er wußte es nicht, sonst wäre ja dieses
+Testament, dieses Gedicht, ganz überflüssig gewesen. Hätte
+John Barring Kenntnis von —«
 
-Schon Gut. Ich bin derselben Ansicht. — Und jetzt
-Aufbrucz!« —
+»Schon gut. Ich bin derselben Ansicht. — Und jetzt
+Aufbruch!« —
 
-Fünf Tage später waren wir in Aden. »Hier gaben
-irrst der Polizei zu Protokoll, was wir inzwischen erzielt
-hatten, Oberst X essersons dunkle Machenschaften und
-einen Tod durften wir nicht unterschlagen, cbensorwenig
-den Verbleib Frau Herrische. Ueber John Barring und
-N. R. schwiegen wir.
+Fünf Tage später waren wir in Aden. Hier gaben
+wir vor der Polizei zu Protokoll, was wir inzwischen erlebt
+hatten. Oberst Jeffersons dunkle Machenschaften und
+seinen Tod durften wir nicht unterschlagen, ebensowenig
+den Verbleib Frau Hendricks. Ueber John Barring und
+R. R. schwiegen wir.
 
-nur zweiten Tage nach unserer Ankunft wurde dann
-im Hob von einem Araber ein Brief für uns abgegeben.
-Der ja hatte sich sehr eilig jeder entfernt.
+Am zweiten Tage nach unserer Ankunft wurde dann
+im Hotel von einem Araber ein Brief für uns abgegeben.
+Der Araber hatte sich sehr eilig wieder entfernt.
 
-Brief kam von Frau Antonie Hendricé, Ich will
+Brief kam von Frau Antonie Hendrick, Ich will
 daraus nur folgendes wörtlich anführen:
 
-"— Bei dem Mischvolke bestand seit Jahrhunderten der
-Haube, daß eines Tages eine weiße Bau mit einem
-»Löwen Sultanin des Stammes werden würde. Ein Zufall
+»— Bei dem Mischvolke bestand seit Jahrhunderten der
+Glaube, daß eines Tages eine weiße Frau mit einem
+Löwen Sultanin des Stammes werden würde. Ein Zufall
 führte damals Luzie und Caesar einen Trupp Arakruzier
-in den Wozu. Die Leute, der Verheißung eingedenk,
-Annoncen Luzie, sie zu begleiten, Sie wurde in der ersten
-eilt dann streng bewacht, Sie schrieb zwei Briefe an uns,
+in den Weg. Die Leute, der Verheißung eingedenk,
+zwangen Luzie, sie zu begleiten. Sie wurde in der ersten
+Zeit dann streng bewacht. Sie schrieb zwei Briefe an uns,
 die angeblich durch Boten auch nach Aden befördert wurden.
 Sie glaubte, wir seien über ihr Schicksal unterrichtet.
-Wehr bald lebte sie sich bei dem Stamme völlig ein, Die
-Verehrung, die ihr vor! zuteil wurde, rührte sie. Der Gedanke,
+Sehr bald lebte sie sich bei dem Stamme völlig ein. Die
+Verehrung, die ihr dort zuteil wurde, rührte sie. Der Gedanke,
 über ein Volk zu gebieten, das mit dem Schleier des
-beiminiffes umrunden war und bellen reine Strafen ebenso
-Wehr ihrem eigenen moralischen Empfinden entsprachen wie
-dieses neue bphantastisch-romantische Dasein ihrem Hange
-Außeracwöhnlichem, — dieser Gedanke war stärker
-Bad Heimntweh, Rügen beiden, Weihe Toren, ins
-ich es hie vergessen, das Sie lich wieder mit Uhrwerk Kippe
+Geheimnisses umwoben war und dessen reine Sitten ebenso
+sehr ihrem eigenen moralischen Empfinden entsprachen wie
+dieses neue phantastisch-romantische Dasein ihrem Hange
+nach Außergewöhnlichem, — dieser Gedanke war stärker
+als das Heimweh. — Ihnen beiden, meine Herren, werde
+ich es nie vergessen, das Sie mich wieder mit meinem Kinde
 vereinigt haben.« —
 
-Tags Zu bestiegen wir einen nach Bombay be
-mimten Stampfen Von Bombay Keiften wir mit der
-Bahn weiter nach Mann.
+Tags darauf bestiegen wir einen nach Bombay bestimmten
+Dampfer. Von Bombay reisten wir mit der
+Bahn weiter nach Agra.
 
 <@pagebreak/>
 
@@ -2353,8 +2349,8 @@ Dunkel war auch das kleine Boot gestrichen, das sich
 geräuschlos unter dem Druck der beiden Ruder, die der
 größere der Inder führte, vorwärtsbewegte.
 
-Die Nacht war wolkig und gewittershwül. Tief und
-regenshwer zog das schwaärze Gewölk dahin. im Westen
+Die Nacht war wolkig und gewitterschwül. Tief und
+regenschwer zog das schwarze Gewölk dahin. im Westen
 log hin und wieder ein fahler Schein über den Horizont: -
 Wetterleuchten.
 
@@ -2973,7 +2969,7 @@ getreten sind. War
 Trab zu nehmen): »JF habe Sie hergebeten, um Ihnen
 diese Brieftasche persönlich auszuhändigen, die eine Polizei
 Patrouille bei einem der erschossenen Karagwanenräuber
-gefunden hat, wie ich Ahnen schon telephonisch mitteilte,
+gefunden hat, wie ich Ihnen schon telephonisch mitteilte,
 sich soll Sie nun noch im Auftrage der Polizei in Aden
 verschiedenes fragen, Dieselbe Patrouille hat nämlich noch
 das Skelett eines Europäers an einer anderen Stelle rot
@@ -3038,9 +3034,9 @@ Fenster aus gerade noch als den falschen Talamba Erbgruft
 ten. Das Auto raste davon. Die Verfolgung Getriebe
 ergebnislos, Außerhalb her Stadt wurde das Auto leer auf
 dem Wege nach Blutspur gefunden John und der
-Chauffeur waren zu Fuß weitèrgeslüchtet.
+Chauffeur waren zu Fuß weitergeflüchtet.
 
-Der verhaftete Reginald Barring beguemte sich zu erstem
+Der verhaftete Reginald Barring bequemte sich zu erstem
 Geständnis Er bestätigte alles, was Harst bereits
 über Robert Neineda Schah vermutet hatte Schreck hatte
 »sein Vernidagen, gegen drei Millionen, in goldenen Schmucksachen

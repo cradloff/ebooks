@@ -11,6 +11,7 @@
 \bFusel\b	Insel
 \bHart\b	Harst
 \blebten	letzten
+\blegte	letzte
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bSaß\b	Satz
