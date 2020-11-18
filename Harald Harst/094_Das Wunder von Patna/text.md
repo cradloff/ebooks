@@ -991,21 +991,22 @@ die alte Lage zurück,
 <h2>4. Kapitel.</h2>
 <h3>Der Fakir Rawura.</h3>
 
-Harald fette sich.
+Harald setzte sich.
 
 »Wir bleiben,« meinte er. Und dann sehr laut und
 scharf: »Rawura, tritt nur aus dem Schranke hervor!
 Du hast gelauscht!«
 
 Es waren drei große hohe Schränke in diesem Raume.
-Zwei standen uns gegenüber an der anderen Wand
+Zwei standen uns gegenüber an der anderen Wand.
 <@pagebreak/>
-Redlichen ihnen befand sich die verhängte Tür, die Ich bisher
+Zwischen ihnen befand sich die verhängte Tür, die Ich bisher
 nur für eine Wanddekoration gehalten hatte, da auf
-dem Vorhang ein paar alte Wasser befestigt waren. Der
+dem Vorhang ein paar alte Waffen befestigt waren. Der
 dritte Schrank befand sich linker Hand an der Längswand.
 
 Auf diesen Schrank schlug Harald jetzt mit der Pistole
+an.
 
 »Rawura, ich zähle bis —«
 
@@ -1018,19 +1019,19 @@ trat heraus, drückte die Tür wieder zu, kreuzte die Arme
 »Sahib, Du wirst mich nicht verraten. Ich wohne hier
 heimlich. Mylady Gulbrar —«
 
-Auch dieser Saß wurde nicht beendet.
+Auch dieser Satz wurde nicht beendet.
 
 Es ereignete sich etwas, das wieder einmal bewies,
-daß diese alten nicken Paläste weit sinnreichere geheime
-Vorrichtungen bargen als die deutschen Raubritterburagen.
+daß diese alten indischen Paläste weit sinnreichere geheime
+Vorrichtungen bargen als die deutschen Raubritterburgen.
 
 vor uns hob sich ein Teil des mit Marmorfliesen belegten
 Fußbodens blitzschnell wie eine mächtige Klappe
-hoch und bildete eine neue Wand, Die unsere Ehe in eine
+hoch und bildete eine neue Wand, Die unsere Ecke in eine
 enge Zelle verwandelte — in eine dreieckige, rechtwinklige
-Zelle — dunkel, eng — ein festes Gesänagnis.
+Zelle — dunkel, eng — ein festes Gefängnis.
 
-Diese neue Wand legte sich an einen Querbalken bei
+Diese neue Wand legte sich an einen Querbalken der
 Decke so fest an, daß auch nicht mehr ein einziger Lichtstrahl
 in die Zelle fiel.
 
@@ -1046,15 +1047,15 @@ Da erlosch der weiße Lichtkegel bereits.
 
 Eine Hand packte mich, stieß mich zur Seite.
 
-»Hinwerfen!« feuchte. Harst.
+»Hinwerfen!« keuchte Harst.
 
-Wir lagen nebeneinander auf dem Meinen Bastteppich
+Wir lagen nebeneinander auf dem kleinen Bastteppich.
 als ich mich hatte nach vorn fallen lassen, war irgend etwas
-Eng meinen Kopf hinmwegaeitrichen wie ein heftiger kurzen
-Mittag.
+über meinen Kopf hinweggestrichen wie ein heftiger kurzer
+Luftzug.
 
 Und hinter mir an der Fensterwand hatte es einen
-arbeiten scharfen Ton gegeben, als Schläge man mit einem
+hellen scharfen Ton gegeben, als schlüge man mit einem
 Eisenstück gegen die Mauer.
 
 <@pagebreak/>
@@ -1069,12 +1070,12 @@ einer unsichtbaren Fledermaus.
 Ein Pfeil — ein Pfeil mit einer Eisenspitze — vergiftet
 vielleicht!
 
-Ich schob mich vorwärts. Sich hörte Harald neben
-mir atmen. Ach fühlte feine Hand.
+Ich schob mich vorwärts. ich hörte Harald neben
+mir atmen. Ich fühlte seine Hand.
 
 »Halt — hier sind wir sicher!« Es war nur ein Hauch,
 der mein Ohr erreichte. »Das Loch, durch das sie die
-bereinjenden, liegt über uns! Hier geht es hart auf
+Pfeile hereinsenden, liegt über uns! Hier geht es hart auf
 hart!«
 
 Mir war’s dann, als ob Harald sich aufrichtete.
@@ -1082,7 +1083,7 @@ Mir war’s dann, als ob Harald sich aufrichtete.
 Ich hob den Kopf etwas.
 
 Da war in der schwarzen Finsternis etwas wie ein
-handgroßen grauer Fleck.
+handgroßer grauer Fleck.
 
 Und in dem Fleck etwas, das sich bewegte — etwas
 wie ein Strich — ein Pfeil.
@@ -1097,8 +1098,8 @@ Draußen ein gellender Schrei.
 Draußen wütende Rufe. Stille.
 
 »Einer hat dran glauben müssen!« sagte Harald nicht
-allzu leise. »Der Bogenschütze! Sie werden diese lin
-indischen Versuche nun wohl einstellen! Ich werde sie schon
+allzu leise. »Der Bogenschütze! Sie werden diese linkischen
+Versuche nun wohl einstellen! Ich werde sie schon
 einschüchtern!«
 
 Ich sah, daß Harald die Hand in das Mauerloch hob.
@@ -1112,7 +1113,7 @@ im Rahmen waren.
 Dann riß er draußen einen vor dem Loche hängenden
 Stoffetzen weg, rief hinaus:
 
-»Rawura, Du wirst uns sofort freigeben — fordert«
+»Rawura, Du wirst uns sofort freigeben — sofort!«
 
 Keine Antwort.
 
@@ -1123,18 +1124,18 @@ Abermals drohte Harst.
 <@pagebreak/>
 Und jetzt eine Antwort — in schlechtem Englisch:
 
-»Du wirft Rawura nicht mehr lebend wiedersehen,
-weder ihn noch Tapalo, feine Tochter!«
+»Du wirst Rawura nicht mehr lebend wiedersehen,
+weder ihn noch Tapalo, seine Tochter!«
 
 Höllischer Triumph, satanische Grausamkeit vibrierten
 in dieser Stimme.
 
 Dann nichts mehr — nichts.
 
-Zurufen schleppten sich träge hin, wurden zur Viertelstunde
+Minuten schleppten sich träge hin, wurden zur Viertelstunde
 — zur halben Stunde.
 
-liebt von draußen ein leiser Schrei:
+jetzt von draußen ein leiser Schrei:
 
 »Rawura!«
 
@@ -1148,14 +1149,14 @@ Mauerloch.
 daß wir Sie für mitschuldig halten, lassen Sie den
 beweglichen Teil des Fußbodens wieder zurücksinken!«
 
-»ich hatte mich aufgerichtet. Durch das Loch spähten
+ich hatte mich aufgerichtet. Durch das Loch spähten
 wir beide nun hinaus, sahen einen Teil der gegenüberliegenden
-Zimmerwand, sahen Lady Gulbrar im Bettlers
+Zimmerwand, sahen Lady Gulbrar im Sehkreis
 des Loches erscheinen.
 
 Sahen, daß sie leichenblaß war, daß sie zitterte.
 
-»Mein Gott, was ist hier geschehen?!« Wangen sie
+»Mein Gott, was ist hier geschehen?!« stammelte sie
 und stierte auf die Maueröffnung.
 
 Von der Seite eine andere Stimme:
@@ -1163,16 +1164,16 @@ Von der Seite eine andere Stimme:
 »Mylady — dort an der Wand links von der Tür
 hinter dem Schranke befindet sich der Hebel!«
 
-ist Mann Stimme war die des Fakirs. Sie klang wie erstochen
+Die Stimme war die des Fakirs. Sie klang wie erstorben.
 
-Lady Gulbrar verschwand Wir vernahmen heftiges
+Lady Gulbrar verschwand. Wir vernahmen heftiges
 Hin und Her von Fragen und Anklopften.
 
 Dann — dann senkte sich die Wand — erst langsam,
 immer schneller — paßte sich genau wieder in den Fußboden
 ein.
 
-Nun hatten wir freien Ausblik über den ganzen
+Nun hatten wir freien Ausblick über den ganzen
 Raum — nun war dieser Raum wieder nur ein einziges
 Gemach.
 
@@ -1180,25 +1181,25 @@ Dort stand Lady Gulbrar, band gerade der Tochter
 des Fakirs die Hände los.
 
 <@pagebreak/>
-Dort saß Rawura in einem der Korbsessel neben feinem
+Dort saß Rawura in einem der Korbsessel neben seinem
 Kinde — gefesselt.
 
 Vor ihm auf dem Boden lag ein Knebel.
 
-Auch Tapalo, die junge Jnunderin, hatte noch einen
+Auch Tapalo, die junge Inderin, hatte noch einen
 Knebel im Munde.
 
 Und vor den Sesseln von Vater und Tochter eine
-große Blechkanne. Um diese herum Papier. trockenes Laub,
+große Blechkanne. Um diese herum Papier, trockenes Laub,
 trockene Zweige.
 
-Es war eine gefüllte Benzinkanne von mindeftens-awanzia
-, Liter Anhalt. Eine Zündschnur lief auf den
-Fliesen des Bodens zu einer tellergroßen Fläche. die mit
+Es war eine gefüllte Benzinkanne von mindestens
+zwanzig Liter Inhalt. Eine Zündschnur lief auf den
+Fliesen des Bodens zu einer tellergroßen Fläche, die mit
 Schwarzpulver bestreut war. Die Zündschnur war tot —
-verkohlte nicht mehr Lady Gulbrar hatte sie ausgetreten. —
+verkohlte nicht mehr. Lady Gulbrar hatte sie ausgetreten. —
 
-Wir halfen Rawura und das Mädchen losbinden..
+Wir halfen Rawura und das Mädchen losbinden.
 
 Dann erzählte Lady Elisabeth folgendes:
 
@@ -1212,77 +1213,78 @@ Dorthin begeben.
 
 Da hatte die Unruhe sie sofort aus dem Hotel getrieben.
 Ein Mietauto brachte sie in rascher Fahrt an den
-Haupteingang des Parkes. Sie eilte durch den ihr des
-kannten Gang in die Ruine und sah hier in diesem Raume
+Haupteingang des Parkes. Sie eilte durch den ihr bekannten
+Gang in die Ruine und sah hier in diesem Raume
 nun sofort die glimmende Zündschnur, das Pulver, das
 Papier, die Benzinkanne, trat die Zündschnur aus, riß
 Rawura den Knebel aus dem Munde, hörte Harsts
 Stimme. —
 
-Alles weitere wußten wir: Rarwoura hatte ihr erklärt,
+Alles weitere wußten wir: Rawura hatte ihr erklärt,
 wo der Hebel zu suchen, und sie hatte den Fußboden
 wieder zurückgleiten lassen. —
 
 Dann hatte auch der Fakir sich von der ausgestandenen
-Angst gegen
+Angst erholt.
 
 »Sahib Harst,« sagte er matt, »man wollte Tapalo
-und mich aus Rache verbrennen!« Sein Bis irrte zu der
+und mich aus Rache verbrennen!« Sein Blick irrte zu der
 Benzinkanne hin.
 
-»Wer wollte das?« fragte Harald, der. noch immer in
+»Wer wollte das?« fragte Harald, der noch immer in
 <@pagebreak/>
-der Rechten die Clement hielt, in die er einen anderen Patronenrahmen
-geschoben hatte
+der Rechten die Clement hielt, in die er einen anderen
+Patronenrahmen geschoben hatte.
 
-»ich Tenne die Leute nicht, Sahib. Ich will Dir al-genau
-berichten. Heute morgen kam ein Mann, ein Fahrer,
-zu mir, den ich Hoch nie gesehen hatte. Er sagte mir,
-aha Gulbrar wurde mich Aerger elf Uhr vormittags Frisuren.
-Er müïe mit der Lady reden. Er fette sich dann
+»ich kenne die Leute nicht, Sahib. Ich will Dir alles
+genau berichten. Heute morgen kam ein Mann, ein Fahrer,
+zu mir, den ich noch nie gesehen hatte. Er sagte mir,
+Lady Gulbrar wurde mich gegen elf Uhr vormittags besuchen.
+Er müsse mit der Lady reden. Er setzte sich dann
 Dort in das Nebengemach. Die Lady kam und fragte sofort,
-ob ein Fader sich hier erwarte. ich zeigte auf das
+ob ein Inder sie hier erwarte. ich zeigte auf das
 Nebemgemach. Sie ging hinein und —«
 
 »Halt,« meinte Lady Elisabeth da. »Ich muß hier
 einfügen, daß ich morgens im Hotel einen Brief erhalten,
-dem ein Unbekannter mir schrieb, ich würde mein fil:
-silbernes Handtäschchen mit: dem gesamten Inhalt zurüdbe-fommen,
-wenn ich dafür 250 000 Rupien zahlen würde. Sich
+in dem ein Unbekannter mir schrieb, ich würde mein
+silbernes Handtäschchen mit dem gesamten Inhalt zurückbekommen,
+wenn ich dafür 250 000 Rupien zahlen würde. ich
 sollte mich mit dem Gelde hier allein einfinden. Würde
-ich etwa die Polizei oder. Mr. Harst benachrichtigen, so
-Gönnte ich sicher mit baldigem Tode rechnen. Ich traf dann
-Ort im Nebengemach einen fremden -Inder, der das Hand-schchen
+ich etwa die Polizei oder Mr. Harst benachrichtigen, so
+könnte ich sicher mit baldigem Tode rechnen. Ich traf dann
+dort im Nebengemach einen fremden Inder, der das Handtäschchen
 tatsächlich bei sich hatte. Da der Inhalt vollständig
 vorhanden, zahlte ich die Viertelmillion Rupien und
 sah noch, wie der Inder sich durch eine mir bis dahin nie
 aufgefallene Geheimtür in der Wand entfernte. Rawura
 und Tapalo begleiteten mich dann ins Freie. Rawura sah
 in der Staubschicht der Treppe, die in den früheren Raubtierzwinger
-führt, die Spuren Ihrer Schuhe, Mr. Harst
+führt, die Spuren Ihrer Schuhe, Mr. Harst.
 So wußte ich denn, daß nur Sie und ihr Freund hier
 eingedrungen, mir also gefolgt sein konnten. Ich kehrte
 auf Rawuras Bitten um. Er beschwor mich, Sie beide
 zu veranlassen, sein Versteck hier zu verschweigen. Leider
-stellte ich dies etwas verfehlt an, Mr. Harst. Wir gerieten!
+stellte ich dies etwas verfehlt an, Mr. Harst. Wir gerieten
 so etwas aneinander und schieden im Zorn. Ich verließ
-Ruine und fuhr ins Hotel Windsor zurück.«
+die Ruine und fuhr ins Hotel Windsor zurück.«
 
 Rawura, der jetzt in demütigster Haltung vor uns
+stand, erklärte weiter:
 
 »Ich hatte dort im Schranke gelauscht. Der Schrank
 ist nichts als eine Tür in einen anderen Raum. Tapalo
-war Dicht neben mir. Da rief Sahib Harst mich an. Ad
-Rat aus dem Schranke heraus, Und — dann hob sich
+war Dicht neben mir. Da rief Sahib Harst mich an. Ich
+trat aus dem Schranke heraus. Und — dann hob sich
 <@pagebreak/>
-plöplich der Fußboden. Ich habe nie etwas von dieser
-Einrichtung geahnt. Ach war starr vor Kehre. Kaum
-war das Fußbodenstückk oben gegen den Ballen der Decke
+plötzlich der Fußboden. Ich habe nie etwas von dieser
+Einrichtung geahnt. Ich war starr vor Schreck. Kaum
+war das Fußbodenstück oben gegen den Ballen der Decke
 geklappt, als ein paar Leute, die dort hinter dem Vorhang
-hervorkamen, mich packten und niederrissen, Während einer
+hervorkamen, mich packten und niederrissen. Während einer
 dann mit einem Bogen eine Menge Pfeile —«
 
-»Danke, Rawura. Es fest jetzt alles klar,« unterbrach
+»Danke, Rawura. Es ist jetzt alles klar,« unterbrach
 Harald ihn. »Völlig klar. — Der Bogenschütze ist tot?«
 
 »Nein, Sahib. Die Kugel drang ihm in die Schulter.«
@@ -1293,26 +1295,26 @@ Harald ihn. »Völlig klar. — Der Bogenschütze ist tot?«
 trugen alle große Bärte. Aber die Bärte waren falsch.«
 
 »Dann sind es Mitglieder des Batta-Mampu-Bundes
-gewesen —
+gewesen —«
 
 Rawura lächelte mit einem Male und schüttelte langsam
 den Kopf.
 
 »Sahib, nur die Polizei glaubt an diesen Bund der
-Diebe. Die Polizei behauptet, es gebe einen sollen Bund.
-Sie behauptet es, weil sie feinen der Diebe fängt, die —«
+Diebe. Die Polizei behauptet, es gebe einen solchen Bund.
+Sie behauptet es, weil sie keinen der Diebe fängt, die —«
 
 »Ganz meine Ansicht!« fiel Harald ihm ins Wort.
-Sie nur hören, wie Du über den Batta Mampu
-denkst.
+»Ich wollte nur hören, wie Du über den Batta Mampu
+denkst.«
 
-— 5. Kapitel.
-— Es war kein Wunder mehr.
+<h2>5. Kapitel.</h2>
+<h3>Es war kein Wunder mehr.</h3>
 
 Alles, was sich hier jetzt abspielte, begriff ich nur zum
-geringsten Teil. ch hatte das Gefühl, daß Rawura log,
-daß die Lady Yoga, daß sie unter einer Decke steckten! —
-Aber — weshalb all das?! Weshalb feste sich eine Frau
+geringsten Teil. Ich hatte das Gefühl, daß Rawura log,
+daß die Lady log, daß sie unter einer Decke steckten! —
+Aber — weshalb all das?! Weshalb setzte sich eine Frau
 wie Elisabeth Gulbrar in ein so zweifelhaftes Licht?! —
 
 <@pagebreak/>
@@ -1321,41 +1323,41 @@ Rawura.
 
 »Wie steht es nun mit dem Wunder von Patna?«
 
-Er sah den Raffe dabei scharf an.
+Er sah den Fakir dabei scharf an.
 
-Merkwürdig: wie mit einem Schlaue fiel alles Unterwürfige
+Merkwürdig: wie mit einem Schlage fiel alles Unterwürfige
 von Rawura ab. Seine Gestalt schien zu wachsen.
 Sein Auge ward stolz und abweisend.
 
 »Sahib Harst,« sagte er würdevoll, »Du bist ein berühmter
-Mann. Du kennst meine Heimat Indien. he
-Europäer nennt Indien das Zauberhand. Hältst Du mich
+Mann. Du kennst meine Heimat Indien. Ihr
+Europäer nennt Indien das Zauberland. Hältst Du mich
 für einen Taschenspieler, für einen Eurer Zauberkünstler?!
-Das Zauberhand Indien, Sahib Hoffst, hat mehr Geheimnisse
-aufzuweisen, als all Eure großen Gelehrten sie entglitten
+Das Zauberland Indien, Sahib Harst, hat mehr Geheimnisse
+aufzuweisen, als all Eure großen Gelehrten sie enthüllen
 könnten. Du sollst das Wunder sehen — heute,
 wenn die Sonne gesunken ist! Du sollst neben mir stehen,
 abseits von den Scharen der Neugierigen, Du und Dein
-Freund! Finde Dich um. halb acht abends vor der Ruine
+Freund! Finde Dich um halb acht abends vor der Ruine
 des Palastes in der Nähe des alten Raubtierhauses ein.«
 
 »Gut, Rawura. — Und — wenn ich Dir dann nachher
 sagen werde, wie Du Deine Tochter Tapalo oben auf
-By Na gen der wasserspeienden Tiger schweben
-Tal?!«
+den Wasserstrahlen der wasserspeienden Tiger schweben
+läßt?!«
 
 »Du wirst nichts sagen, Sahib, nichts!«
 
-»ich glaube so schwer an Wunder, Rawura. Sich kenne
+»ich glaube so schwer an Wunder, Rawura. ich kenne
 bisher nur ein einziges: das Schiwamatu!« (Vergl. Band
 Nr. 86, Die Wundergeige des Virtuosen.)
 
-»Du wirft almıben lernen, Sahib.« —
+»Du wirst glauben lernen, Sahib.« —
 
 Dann verließen wir mit Lady Gulbrar die Ruine,
-nachdem Harst noch festgestellt hatte, daß die Eisenspiven der
+nachdem Harst noch festgestellt hatte, daß die Eisenspitzen der
 Pfeile wirklich vergiftet worden waren und er Rawura
-»noch versprochen hatte, niemandem zu verraten, wo der
+noch versprochen hatte, niemandem zu verraten, wo der
 Fakir und sein Kind hausten.
 
 Wir schritten neben Lady Gulbrar Durch den jetzt in
@@ -1368,18 +1370,18 @@ ihr Mietauto wartete. Sie stieg ein und fuhr davon
 Wir gingen und suchten den Ponywagen auf.
 
 <@pagebreak/>
-Harst war schweigsam — krumm.
+Harst war schweigsam — stumm.
 
-Dann Ran unvermittelt:
+Dann ganz unvermittelt:
 
 »Sind wir beide wirklich solche Ausnahmen, oder —
-sind die anderen Menschen tatsächlich so sehr beariffäftugia?
+sind die anderen Menschen tatsächlich so sehr begriffsstutzig?
 Wie konnten Rawura und die Lady nur annehmen, ich
 würde das Spiel nicht durchschauen?! — Mein lieber Alter:
 diese Frau muß eine entsetzliche Angst davor haben,
 daß das Geheimnis des Schlangenringes ihres Gatten an
 den Tag kommen könnte! Des Ringes wegen log sie —
-unterstübßte fremdes Lügen! »Aber — es half ihr nichts —
+unterstützte fremdes Lügen! Aber — es half ihr nichts —
 gar nichts! Wir werden das Wunder von Patna enträtseln
 — und dann das Geheimnis des Schlangenringes!
 Und Dazu noch mehr! Aber — darüber abends!« —
@@ -1395,7 +1397,7 @@ Der Mann drückte die Tür zu, lächelte mich an.
 Ich sprang auf die Füße. Der Argwohn lenkte meine
 Hand rasch in die Tasche.
 
-»Lassen Sie die Pistole nur stehen, Dir. Schraut. Ich
+»Lassen Sie die Pistole nur stecken, Mr. Schraut. Ich
 bin Edward Breßfort!«
 
 Breßfort! Freund Breßfort, Polizeigewaltiger von
@@ -1404,26 +1406,27 @@ Patna! Perle aller Detektivinspektoren!
 Ich streckte ihm beide Hände bin. »Tag, lieber Breßfort!
 Wie kommen Sie denn hierher?«
 
-er bat mich beibehielt — auf sehr geheimnisvolle
+»Harst hat mich herbestellt — auf sehr geheimnisvolle
+Art.«
 
-Da trat Bau auch schon ein,
+Da trat Harald auch schon ein,
 
-»Aha — Breßfort! Willkommen! — Segen Sie sich.
+»Aha — Breßfort! Willkommen! — Setzen Sie sich.
 Bin zufrieden mit Ihnen. Zigarette gefällig? — So nun
 an die Arbeit! — Also, lieber Breßfort, erzählen Sie mal,
 wie Sie die Razzien gegen die Taschendiebe angestellt hatten,
 die dort beim Wunderspringbrunnen »arbeiteten«?«
 
-»Da ist nicht viel zu erzählen. Sklave durch eingeborene
+»Da ist nicht viel zu erzählen. Ich habe durch eingeborene
 Geheimpolizisten, die als harmlose Neugierige
 verkleidet waren, an vier Abenden die kleine Lichtung, auf
 der das Wunder sich abspielt, umzingeln lassen und nach
 <@pagebreak/>
 »Schluß der Vorstellung« das gesamte Publikum auf Herz
 und Nieren geprüft. Jeder, ob Europäer, ob Farbiger,
-mußte einzeln an mir vorüber. Feder wurde durchsucht.
+mußte einzeln an mir vorüber. Jeder wurde durchsucht.
 Aber obwohl an den vier Abenden wieder eine ganze Anzahl
-Tasthendiebstähle vorgekommen waren, wurde auch
+Taschendiebstähle vorgekommen waren, wurde auch
 nicht ein einziges Stück der Beute bei einem der dergestalt
 scharf »Durchgesiebten« entdeckt.«
 
@@ -1433,20 +1436,20 @@ lassen?«
 »Und ob — und ob! Keine Maus wäre entschlüpft.«
 
 »So — so! Dann gebe ich Ihnen für heute abend
-folgenden Rat: mögen Ihre Leute abermals diese Umzin-aelunag
+folgenden Rat: mögen Ihre Leute abermals diese Umzingelung
 vornehmen, aber dabei genau achtgeben, ob nicht
 jemand vielleicht — etwas in den Springbrunnen wirft!
-Die Diebesbeute dürfte nämlich dort sehr sicher unterzog
-brach! gewesen fein. — Und dann, Breßfort: Sie selbst
+Die Diebesbeute dürfte nämlich dort sehr sicher untergebracht
+gewesen sein. — Und dann, Breßfort: Sie selbst
 und vielleicht noch zwei ihrer Kollegen verkleiden sich als
-Touristen, passen genau aus. wo Schraut und ich mit na
+Touristen, passen genau auf, wo Schraut und ich mit
 Rawura in den Büschen stehen und schleichen sich sehr vorsichtig
 hinter uns. Wie Sie das machen, ist ihre Sache. —
 Nun verschwinden Sie wieder, lieber Freund, sonst fällt
 es den Spionen hier im Hotel auf, daß ein Kellner so sehr
 lange bei uns weilt. Spione sind hier nämlich vorhanden
 — fünf Leute, die die reichen Kaufleute aus Kalkutta spielen
-— alles Batta MampusBrüder!«
+— alles Batta Mampu-Brüder!«
 
 Breßfort verabschiedete sich. »Diese Batta Mampu-Bande
 müßte hängen!« sagte er ingrimmig. »Aber —
@@ -1454,12 +1457,12 @@ glaubt man mal den Richtigen erwischt zu haben — stets
 ist es ein ganz harmloser Mensch!«
 
 »Scheinbar harmlos, lieber Freund! Das größte Geheimnis
-des Bundes dürfte darin bestehen, daß die Milde
+des Bundes dürfte darin bestehen, daß die Mitglieder
 — ehrbare Angehörige geachteter Berufsklassen
-Kind!« —
+sind!« —
 
 Der Abend nahte. Wir fanden uns rechtzeitig vor der
-Palastruine ein. Rawura hatte uns schon erwartet, Er
+Palastruine ein. Rawura hatte uns schon erwartet. Er
 trug genau dasselbe reiche Kostüm wie vormittags.
 
 »Folgt mir,« sagte er nur.
@@ -1470,32 +1473,32 @@ fünfzehn Schritt, durch Büsche gedeckt, gegenüber.
 <@pagebreak/>
 Wir hatten unsere Ferngläser mitgebracht. Noch spritzten
 die fünf Steintiger auf dem Brunnenrand ihre Wasserstrahlen
-nicht in die Höhe; noch war der Brunnen nicht als
-ein halb mit Wasser gefülltes altertümliches Bassin von«
+nicht in die Höhe; noch war der Brunnen nichts als
+ein halb mit Wasser gefülltes altertümliches Bassin von
 großem Umfang.
 
-Rawura halte sich hinter uns an einen Baum gelehnt.
+Rawura hatte sich hinter uns an einen Baum gelehnt.
 Die Sonne war längst versunken. in der Lichtung vor
 dem Brunnen sammelten sich immer mehr Neugierige an.
-Ich schäbßte die Menge auf vielleicht dreihundert Personen.
-Und ständig vermehrte sie sich noch. Es wurde rasch -
+Ich schätzte die Menge auf vielleicht dreihundert Personen.
+Und ständig vermehrte sie sich noch. Es wurde rasch
 dämmerig.
 
 Dann sprangen plötzlich die fünf dicken Wasserstrahlen
-aus den Tigermäulern hoch, vereinigten sich oben zu einer«
-sprudelnden, abwärtöftürzenden Flut und bildeten eine«
+aus den Tigermäulern hoch, vereinigten sich oben zu einer
+sprudelnden, abwärtsstürzenden Flut und bildeten eine
 schillernde Glocke aus feinstem Tropfenregen, der so dünn
 an der Außenseite war, daß man ohne Mühe hindurchblicken
-konnte. Mit Hilfe des Glases überzeugte Ich mich«
+konnte. Mit Hilfe des Glases überzeugte Ich mich
 jetzt und auch nachher, daß keinerlei fester Gegenstand sich
-in der Wafleralogle befand — keine Stangen, keine Stäbe, -
+in der Wasserglocke befand — keine Stangen, keine Stäbe,
 auf denen Tapalo hätte sitzen können.
 
 Und — nun erschien auch schon die Inderin, in ein
 dünnes Gewand gehüllt.
 
 Sie hatte eine ganz leichte Bambusleiter mit, lehnte
-die Leiter jetzt an den Art, der über der Wasserstrahlenkrone
+die Leiter jetzt an den Ast, der über der Wasserstrahlenkrone
 hinlief, und — war im Nu oben — saß im Nu mit untergeschlagenen
 Beinen auf der Höhe der Wasserstrahlen, umsprudelt
 von den Wasserspritzern.
@@ -1506,10 +1509,10 @@ gar nicht auf Harald achtete.
 Ich fuhr erst erschrocken zusammen, als dreierlei fast
 gleichzeitig geschah:
 
-Harst schloß mit der Clement — rasch hintereinander
+Harst schoß mit der Clement — rasch hintereinander
 drei — vier Mal.
 
-Schon nach dem zweiten Schuß stürzte drüben die An
+Schon nach dem zweiten Schuß stürzte drüben die
 Inderin in das Bassin hinab.
 
 Und hinter uns brüllte Edward Breßfort:
@@ -1517,12 +1520,12 @@ Und hinter uns brüllte Edward Breßfort:
 »Wir halten ihn! Er hatte schon den Dolch gezogen,
 wollte zustoßen!«
 
-Ratwoura suchte sich vergebens freizumachen. Er schäumte
+Rawura suchte sich vergebens freizumachen. Er schäumte
 <@pagebreak/>
-vor Wut. Er sah, daß Harst auf den Tuend en aus
-lief. Er wollte hinterdrein. Ein paar von Breßforts des
+vor Wut. Er sah, daß Harst auf den Springbrunnen zulief.
+Er wollte hinterdrein. Ein paar von Breßforts
 Beamten hielten die Inderin fest, die schnell aus dem Bassin
-herausgestieaen war. Dann sanken die fünf Strahlen in
+herausgestiegen war. Dann sanken die fünf Strahlen in
 sich zusammen. Dann holte Harald aus dem Bassin —
 drei Stücke von durchsichtigen Glasröhren heraus, die etwa
 armdick waren. —
@@ -1541,8 +1544,8 @@ jene zwanglose sitzende Stellung einnehmen konnte. —
 Die Sache war also höchst einfach: der Trick beruhte auf der
 Durchsichtigkeit der Glasröhren — nur darauf! — Harst
 hatte zwei der Röhren zerschossen, und da war Die junge
-»Inderin hinab ins Wasser gefallen, weil sie sich auf der
-Nase der dritten allein nicht im Gleichgewicht halten
+Inderin hinab ins Wasser gefallen, weil sie sich auf der
+Spitze der dritten allein nicht im Gleichgewicht halten
 konnte.
 
 Das Wunder von Patna war kein Wunder mehr.
@@ -1553,29 +1556,29 @@ und zwei Geldbörsen, die den Besitzern heute hier gestohlen
 worden waren. —
 
 Hiermit schließe Ich den ersten Teil des Wunders von
-Patna. Der zweite Teil bringt die Lösung all der am
-oberen noch offen gebliebenen Fragen,
+Patna. Der zweite Teil bringt die Lösung all der
+anderen noch offen gebliebenen Fragen,
 
 <@pagebreak 34/>
 
-= Der Schlangenring.
+<h1>Der Schlangenring.</h1>
 
-— 1. Kapitel.
-— Harsts drei Fragen.
+<h2>1. Kapitel.</h2>
+<h3>Harsts drei Fragen.</h3>
 
 Die Zuschauer, umringt von Breßforts Leuten, mußten
 sich gedulden. Große Karbidlaternen wurden der zunehmenden
 Dunkelheit wegen herbeigebracht. Dann mußten
-Dlännlein und Weiblein einzeln an Harst, mir und
+Männlein und Weiblein einzeln an Harst, mir und
 Breßfort vorüber.
 
-Schon den dritten Finder hielt Harald an.
+Schon den dritten Inder hielt Harald an.
 
-Tritt beiseite!« befahl er kurz.
+»Tritt beiseite!« befahl er kurz.
 
 So suchte er im ganzen dreizehn Inder heraus.
 
-*Wie* er sie heraussuchte, weshalb ihm gerade biete
+*Wie* er sie heraussuchte, weshalb ihm gerade diese
 dreizehn verdächtig erschienen, sagte er nicht.
 
 Sie sowohl als auch Rawura, dessen Tochter und der
@@ -1586,58 +1589,58 @@ antreten, abermals umringt von Beamten.
 in Breßforts großem Dienstzimmer spielte sich nun
 sofort eine sehr bewegte Szene ab. Harst trat nämlich auf
 einen der Inder zu, die übrigens sämtlich gut gekleidet waren,
-und zog ihn mehr nach vorn unter das Licht ver elektrischen
+und zog ihn mehr nach vorn unter das Licht der elektrischen
 Deckenlampen.
 
 »Breßfort, sehen Sie sich diesen Inder mal genauer
 an,« meinte er.
 
 <@pagebreak/>
-Der Deietipinfpeftor Edward Breßfort war einer der
-Platten Beamten, die wir kannten. Er Stellte Sich dicht
+Der Detektivinspektor Edward Breßfort war einer der
+fähigsten Beamten, die wir kannten. Er Stellte Sich dicht
 vor den Inder hin.
 
 »Der Bart ist falsch,« Sagte er. »Der Mann ist ein
 Europäer.«
 
-»Da — wahrscheinlich der gesuchte John Barring!«
+»Ja — wahrscheinlich der gesuchte John Barring!«
 
-Es war so. Als man dem oder Bart, Perücke und
-Fade, Weste und Hemd abgenommen hatte, zeigte es Sich,
+Es war so. Als man dem Inder Bart, Perücke und
+Jacke, Weste und Hemd abgenommen hatte, zeigte es Sich,
 daß wir tatsächlich John Barring erwischt hatten.
-Barring, der den eigenen Freund aufs schmählichſte
+Barring, der den eigenen Freund aufs schmählichste
 betrogen hatte (vergl. Band 93, Die tote Karawane), der
 uns auf heimtückische Art zu ermorden versucht hatte, der
-dann aus Dem Polizeigebäude in Mann mit Seinem Chauffeur
+dann aus Dem Polizeigebäude in Agra mit Seinem Chauffeur
 entflohen war, — dieser John Barring brach jetzt völlig
 zusammen.
 
 Noch nie hatte ich es erlebt, daß einen Verbrecher, der
-ch plötzlich entlarvt und gefangen Sah, die Angst vor der
-Strafe und vor der aefellichaitlihen Lockung mit Solcher
-Gewalt packe wie diesen Mann, der in der Europäerkolo-
-[nie in Agra eine gewisse Rolle gespielt hatte.
+sich plötzlich entlarvt und gefangen Sah, die Angst vor der
+Strafe und vor der gesellschaftlichen Aechtung mit Solcher
+Gewalt packte wie diesen Mann, der in der Europäerkolonie
+in Agra eine gewisse Rolle gespielt hatte.
 
 Ohne Zweifel hätte er in dieser Stimmung, die nahe
-Reue grenzte, ein offenes Geständnis abgelegt, wenn
-nicht Rawura, der Kairo, ihm ein einziges Wort zugerufen
+an Reue grenzte, ein offenes Geständnis abgelegt, wenn
+nicht Rawura, der Fakir, ihm ein einziges Wort zugerufen
 hätte, das ich nicht verstand, das aber auf Barring eine
 Wirkung ausübte, als ob man ihm etwa Sein Todesurteil
-Bekundete.
+verkündete.
 
 Er fuhr zusammen, ließ die Hände vom Gesicht Sinken
-nd zeigte uns ein leichenfahles, verzerrtes Antlitz, aus dem
+und zeigte uns ein leichenfahles, verzerrtes Antlitz, aus dem
 geradezu grauenvolles Entsetzen Sprach.
 
 Sofort ließ Inspektor Breßfort John Barring in das
-Es war jedoch bereits zu Spät.
-XX
-»dringlichen Zureden gegenüber mit einer Hartnäckigkeit, die
+Nebenzimmer führen. Es war jedoch bereits zu Spät.
+Barring schwieg hier all unseren Fragen und unserem
+eindringlichen Zureden gegenüber mit einer Hartnäckigkeit, die
 fraglos durch — Angst hervorgerufen war — durch Angst
-Dorn Fakir.
+vor dem Fakir.
 
-un — dann auf andere Weise!« meinte Harald
-ich »Gehen wir wieder hinüber! Ach werde Rawura
+»Nun — dann auf andere Weise!« meinte Harald
+schließlich. »Gehen wir wieder hinüber! Ich werde Rawura
 nun vollends entlarven.«
 
 Die dreizehn Inder, der Fakir und dessen Tochter waren
@@ -1648,84 +1651,84 @@ dem großen Dienstzimmer zurückgeblieben.
 Wir traten wieder ein. Wir beide hatten Barring in
 die Mitte genommen.
 
-Harst schob ihm dann einen Stuhl hin. »Sehen Sie
-sich,« sagte er kurz. »Rawura,« wandte er sich an den Ne
-der, greift vor! ich werde drei Fragen an Dich richten —«
+Harst schob ihm dann einen Stuhl hin. »Setzen Sie
+sich,« sagte er kurz. »Rawura,« wandte er sich an den Inder,
+»tritt vor! ich werde drei Fragen an Dich richten —«
 
-Bassin demselben Moment wurde die Tür nach dem Flur
+In demselben Moment wurde die Tür nach dem Flur
 aufgerissen und Mr. Horace Taffarell, der Polizeichef von
 Patna, erschien in höchsteigener Person.
 
 Breßfort erstattete ihm nun zunächst Meldung von den
-Geschehnissen, die den quecksilbriger Mr. Taffarell eilends
+Geschehnissen, die den quecksilbrigen Mr. Taffarell eilends
 herbeigelockt hatten.
 
-Dann begrüßte dieser auch Harst und mich in zuvor-fommendster
+Dann begrüßte dieser auch Harst und mich in zuvorkommendster
 Weise.
 
 »ich habe Sie durch meinen Eintritt gestört, Mr.
 Harst,« meinte er. »Bitte — tun Sie, was Ihnen beliebt.
-Zu einer Autorität, wie Sie es sind, beugen wir uns in
-emut.
+Vor einer Autorität, wie Sie es sind, beugen wir uns in
+Demut.«
 
 Das war nicht etwa versteckte Ironie. Nein, das war
 eine scherzhafte Anerkennung des geistigen Uebergewichts
-meines geistvollen Srreundes.
+meines geistvollen Freundes.
 
 Harald verbeugte sich denn auch leicht und erwiderte:
 
-««Ich danke Ihnen, Mr. Taffarell. — Ich habe diese
-vierzehn Inder scheinbar willkürlich herausgesucht. 63
+»Ich danke Ihnen, Mr. Taffarell. — Ich habe diese
+vierzehn Inder scheinbar willkürlich herausgesucht. Es
 sind sämtlich, wie bereits feststeht, Fremde, Leute aus anderen
 Städten und hier unbekannt. Ich behaupte, daß sie
 sämtlich dem Batta Mampu-Bunde angehören.«
 
 Der kleine hagere Polizeichef von Patna, der trotz seiner
-wenig imvyonierenden Figur doch in den grauen Augen
+wenig imponierenden Figur doch in den grauen Augen
 einen Ausdruck hatte, als ob er über sehr viel zielbewußte
 Energie verfügte, blickte Harst überrascht an.
 
 »Wirklich, Sie glauben, diese Leute —« Dann eine
 kurze Handbewegung. »Ich vergesse ganz, daß ein Harald
-Harst diese Behauptung aufftellt —«
+Harst diese Behauptung aufstellt —«
 
 Harald schaute jetzt den Fakir scharf an.
 
 »Drei Fragen wollte ich an Dich richten,« sagte er
-Sorgsam. »Du hast lieber geschwiegen —«
+langsam. »Du hast lieber geschwiegen —«
 
 »Das tue ich weiter!« in diesen Worten Rawuras
 <@pagebreak/>
-an eine ungeheure Anmaßung, eine bodenlose Frechheit,
-Mine Herausforderung geradezu.
+lag eine ungeheure Anmaßung, eine bodenlose Frechheit,
+eine Herausforderung geradezu.
 
 »Du wirst *nicht* schweigen!« meinte Harald kalt.
 Also die erste Frage: wie kommt es, daß die dreizehn
-a, ferner John Barring, Deine Tochter und Du selbst, -
+da, ferner John Barring, Deine Tochter und Du selbst, —
 also daß Ihr alle im Haar des Hinterkopfes eine weiße
 Strähne habt, einen weißen Fleck, den auch die Göttin der
-Siebe, erzwang, die Schlaue, am hinterlegt als besonderes
+Diebe, Pravana, die Schlaue, am Hinterkopf als besonderes
 Kennzeichen trägt, da dieser weiße Haarbüschel bei Euch
 künstlich gebleicht, das Symbol erprobter Schlauheit ist?«
 
 Rawuras Augenlider sanken rasch herab. Aber nicht
-schnell genug. Der Blick, der Hörst getroffen, war bestürzt,
+schnell genug. Der Blick, der Harst getroffen, war bestürzt,
 ängstlich, scheu.
 
 Der Fakir hob die Lider und lächelte jetzt — ein genau
 so freches Lächeln wie es soeben seine Worte gewesen.
 
-Und — er schwiegag.
+Und — er schwieg.
 
-Da Dante Harald: »Du hast schon geantwortet, Kanons
-Auge des Menschen ist der Spiegel der Gebeine
-Gedanken waren aufgescheucht vor Schied,
-»als Du sie zu verbergen suchtest. — Meine zweite Frage:
-Haft en dies geschrieben?«
+Da sagte Harald: »Du hast schon geantwortet, Rawura.
+Das Auge des Menschen ist der Spiegel der Gedanken.
+Deine Gedanken waren aufgescheucht vor Schreck,
+als Du sie zu verbergen suchtest. — Meine zweite Frage:
+Hast Du dies geschrieben?«
 
 Er hatte schnell ein Blatt Papier hervorgeholt. Es
-an das Titelblatt eines Buches. Auf dem Blatt stand
-irre oben in lateinischer Schrift:
+war das Titelblatt eines Buches. Auf dem Blatt stand
+links oben in lateinischer Schrift:
 
 > Doktor Ahmed Aruwar dem weißen Freunde.
 
@@ -1735,27 +1738,27 @@ Der Titel des Buches lautete:
 von Doktor Ahmed Aruwar, zur Zeit Bibliothekar des
 ehrwürdigen Lord Cecil Gulbrar.
 
-»Diese ihrerseits,« fügte Harald hinzu, »riß ich aus
+»Diese Titelseite,« fügte Harald hinzu, »riß ich aus
 einem Buche heraus, das in der Ruine Schah Arganis
-unter den Zeitungen aus dem Tischchen lag, an dem
-Schraut und ich Pro genommen hatten. Die Räume dort
-ewohntest Du, Rawura, der Du hier den Fakir spieltest.
-Hoftor Aruwar und Rawura sind, worauf schon die Umschlang
+unter den Zeitungen auf dem Tischchen lag, an dem
+Schraut und ich Platz genommen hatten. Die Räume dort
+bewohntest Du, Rawura, der Du hier den Fakir spieltest.
+Doktor Aruwar und Rawura sind, worauf schon die Umkehrung
 der Namen hinweist, ein und dieselbe Person. Der
-heiße Freund der Buchwidmung dürfte Barring sein. —
-»ich wiederhole die zweite Frage: hast Du diese Widmung
-Dietrichen?«
+weiße Freund der Buchwidmung dürfte Barring sein. —
+Ich wiederhole die zweite Frage: hast Du diese Widmung
+geschrieben?«
 
 <@pagebreak/>
-Des Fakirs Gesicht ward zur Rabe ohnmächtiger Wut.
+Des Fakirs Gesicht ward zur Fratze ohnmächtiger Wut.
 Selten nur verliert ein Inder die Gewalt über sich und
-seine Gesichtsmuskeln. Das Asiatenblut wollt heiß, aber
-es wart heimlich.
+seine Gesichtsmuskeln. Das Asiatenblut wallt heiß, aber
+es wallt heimlich.
 
 Und — wieder schwieg Rawura.
 
 wieder sagte Harst: »Du hast schon geantwortet —
-durch Dein Artist! Du bist Doktor Aruwar.«
+durch Dein Antlitz! Du bist Doktor Aruwar.«
 
 Abermals griff er in die Tasche und — zog das Blatt
 Papier hervor, das an einem Zweig des Baumverhaus
@@ -1764,49 +1767,49 @@ Batta Mampu« und auf der Rückseite die Zeichnung des
 Schlangenringes enthielt.
 
 »Hier diese Schrift mit lila Tintenstift, Doktor Aruwar,
-gleicht der des Titelblattes so sehr, daß man getrost bete
+gleicht der des Titelblattes so sehr, daß man getrost behaupten
 kann: es ist dieselbe Schrift! Und — der Schreiber
-bist Du
+bist Du!«
 
-ja tief Langsam ein Blutstropfen von der Unterlippe
+Aruwar tief Langsam ein Blutstropfen von der Unterlippe
 Das Kinn hinab in den dunklen Bart, — so fest
 hatte der frühere Bibliothekar des Gatten Lady Elisabeth
 Gulbrars die Zähne in die Lippe gepreßt.
 
 »Die dritte Frage —« fuhr Harst fort. »weshalb
-hast zu, Doktor Aruwar, am Hinterköpfe zwei gebleichte
-Strähnen? Alle anderen Verhafteten haben mir eine, Du
+hast zu, Doktor Aruwar, am Hinterkopfe *zwei* gebleichte
+Strähnen? Alle anderen Verhafteten haben nur eine, Du
 allein zwei! — Als ich heute nachmittag mich etwas genauer
 nach dem Batta Mampu erkundigte, erzählte man mir,
 dieser berüchtigte nie zu fassende Bund der Diebe soll ein
 geheimnisvolles Oberhaupt haben.«
 
-Fett lachte Aruwar höhnisch auf. Er ließ insofern
+Jetzt lachte Aruwar höhnisch auf. Er ließ insofern
 die Maske fallen, als er sich nun als studierter Eingeborener,
 als gebildeter Mann, nicht mehr der unterwürfigen Anrede
-an bediente, sondern Harst als Gleichaeftellten behandelte
+»Sahib<< bediente, sondern Harst als Gleichgestellten behandelte.
 
-»Mr. Harst,« meinte er achselzucklend, »der Batta
-Mampu existiert nur in der Phantasie überhibter, erfolgloser
+»Mr. Harst,« meinte er achselzuckend, »der Batta
+Mampu existiert nur in der Phantasie überhitzter, erfolgloser
 Polizeiköpfe. Das betonte ich ihnen gegenüber schon
 einmal. Ich hätte wirklich mehr von ihrer Intelligenz
 erwartet — weit mehr!«
 
-»Eine Unverschämtheit!« rief Horace Unklaren.
+»Eine Unverschämtheit!« rief Horace Taffarell.
 
-Harst blieb ruhig. »Ammerbin hat Doktor Aruwar
+Harst blieb ruhig. »Immerhin hat Doktor Aruwar
 <@pagebreak/>
-geantwortet, Mr. Taffarell. Ach Finde diese Ansprach genügend,
+geantwortet, Mr. Taffarell. Ich Finde diese Antwort genügend.
 Wer etwas in solcher Weise ableugnet, wie Aruwar
 es hinsichtlich des Bundes der Diebe tat, gibt das
-Abgeleugnete in Wahrheit zu. — Ach bin mit Trumpf
-und dem Batta Miampu fertig Mr. Taffarell. Aruwar
-ist das Oberhaupt des Bundes, und diese dreizehn Finder,
+Abgeleugnete in Wahrheit zu. — Ich bin mit Aruwar
+und dem Batta Mampu fertig, Mr. Taffarell. Aruwar
+ist das Oberhaupt des Bundes, und diese dreizehn Inder,
 Barring und das Mädchen sind Mitglieder der Geheimorganisation.
 ich will jetzt auch noch das Wort klar aussprechen,
 das vorhin aus Aruwars Munde John Barring
 so sehr einschüchterte. Es war — der Name der Göttin
-der. Diebe, Bezwang, aber — in anderer Mundart, so. wie
+der Diebe, Pravana, aber — in anderer Mundart, so, wie
 er in Südindien ausgesprochen wird:
 
 > Prastvina,
@@ -1817,13 +1820,13 @@ Ihnen, Mr. Taffarell, sofort an alle größeren Städte Indiens
 zu depeschieren und alle Leute verhaften zu lassen,
 die am Hinterkopf weiße Haarsträhnen haben.«
 
-— 2. Kapitel.
-— Die vier Scheinwerfer.
+<h2>2. Kapitel.</h2>
+<h2>Die vier Scheinwerfer.</h2>
 
-Der Polizeichef ließ die Wunder ins Polizeigefängnis
+Der Polizeichef ließ die Inder ins Polizeigefängnis
 bringen, nachdem er sowohl Doktor Aruwar als auch jeden
-der anderen einzeln betraut hatte, ob sie durch ein Geständnis
-seit eine mildere Bestrafung sichern wollten. Sie
+der anderen einzeln befragt hatte, ob sie durch ein Geständnis
+sich eine mildere Bestrafung sichern wollten. Sie
 blieben stumm. Aruwar allein hatte die Kühnheit, Harst
 einen Blick zuzuwerfen, der in seiner verächtlichen Kälte
 dennoch einen glühenden Haß verriet.
@@ -1832,72 +1835,72 @@ Dann waren wir vier — der Polizeichef, Breßfort und
 wir beide — mit John Barring allein.
 
 <@pagebreak/>
-Barring saß zusammengesunken da, die Arme auf Ei
+Barring saß zusammengesunken da, die Arme auf die
 Schenkel gestützt, den Oberkörper vorgebeugt. Von der
 leuchtend weißen Stirn tropfte langsam der Schweiß in
 dicken Perlen.
 
-Dieser Vöann bot ein fast unheimliches Bild in feiner
+Dieser Mann bot ein fast unheimliches Bild in seiner
 verzweifelten Mutlosigkeit dar.
 
 Harst trat auf ihn zu. »Barring, nun reden Sie!«
 sagte er mitleidig.
 
-Dieser Mensch, der uns vor wenigen Tagen in war
-hatte beseitigen wollen, probierte kein Mitleid. Und
-— es war ein jammervoller Anblick, wie er so gleich an
-Kanne zum Tode Verurteilten ftumpifinmia vor sich bin
-gierte.
+Dieser Mensch, der uns vor wenigen Tagen in Agra
+hatte beseitigen wollen, verdiente kein Mitleid. Und
+— es war ein jammervoller Anblick, wie er so gleich einem
+bereits zum Tode Verurteilten stumpfsinnig vor sich hin
+stierte.
 
 Wie ein Automat hob er jetzt den Kopf, setzte sich aufrecht,
-daß Harst mit leeren Augen an und erklärte tonlos;
+sah Harst mit leeren Augen an und erklärte tonlos:
 
-»so — ich werde reden. Ich bin ja doch verloren.
-Sie miönen mich hinbringen, in Sie wollen, Mr. Harst; der
+»Ja — ich werde reden. Ich bin ja doch verloren.
+Sie können mich hinbringen, wo Sie wollen, Mr. Harst; der
 Batta Mampu erreicht mich doch!«
 
-Diese 3 N gerade durch ihre Schlich:e
-Art überaus Geschüttet
+Diese Behauptung wirkte gerade durch ihre schlichte
+Art überaus erschütternd.
 
-Taffarell glaubte glich schuldig zu fein, mit eine:
+Taffarell glaubte es sich schuldig zu sein, mit einem
 Auflachen zu erwidern:
 
-»Barring, das ist doch Unsinn! Im Bolizeigefänani:
+»Barring, das ist doch Unsinn! Im Polizeigefängnis
 sind Sie sicherer als anderswo!«
 
 »Glauben Sie?! Da kennen Sie den Bund schlecht.
 Ich werde morgen früh nicht mehr leben.«
 
-Harald mischte sich ein. »Das bleibt abzuwart:n
+Harald mischte sich ein. »Das bleibt abzuwarten.
 Wenn ich Ihnen sage, daß Ihnen nichts geschehen wird,
 können Sie mit aller Ruhe allem weiteren entgegensehen.
 — Wie kam es, daß Sie Mitglied des Bundes wurden?«
 
-»Doktor Aruwar und ich waren seit Fahren befreundet.
-»ich ahnte nicht, daß er das Oberhaupt des Batta Martin
-war. Bis er mir dann vor einem halben Jahr, als
-in großer Geldverlegenheit ihn um ein Darlehn be«,
-sich mir anvertraute und mich in den Bund aufnahm. Ei
+»Doktor Aruwar und ich waren seit Jahren befreundet.
+»ich ahnte nicht, daß er das Oberhaupt des Batta Mampu
+war. Bis er mir dann vor einem halben Jahr, als ich
+in großer Geldverlegenheit ihn um ein Darlehn bat,
+sich mir anvertraute und mich in den Bund aufnahm. Er
 wußte, daß ich ihn nicht verraten würde. Er war ja über
 alles unterrichtet, was meine — meine Treulosigkeit an
 meinem Freunde betraf. Er hatte mich völlig in der Hand.«
 
-»Kennen Sie die Organisation des Batta ampu
-genarrt?«
+»Kennen Sie die Organisation des Batta Mampu
+genauer?«
 
 <@pagebreak/>
-»Nein. Erst nach dreijähriger Mitaliedfchait kommt
+»Nein. Erst nach dreijähriger Mitgliedschaft kommt
 man in den sogenannten Ring der Zweifleckigen, das sind
 eben die wirklich Eingeweihten. ich kann nur eins aussagen:
 daß der Bund an dreitausend Mitglieder zählt.«
 
 »Aruwar hat hier den Fakir nur deshalb gespielt, damit
-die Fremden, die das Wunder von Patna auszunutzen,
+die Fremden, die das Wunder von Patna anstaunten,
 ausgeplündert werden könnten —«
 
-»30,10 Ut es.«
+»Ja, so ist es.«
 
-»Wissen Sie etwas über Lady aufbrach Beziehungen
+»Wissen Sie etwas über Lady Gulbrars Beziehungen
 zu Doktor Aruwar?«
 
 »Wenig, Mr. Harst. Aruwar ist der Lady fremd.
@@ -1909,92 +1912,92 @@ wie Breßfort schon bestätigt hat. Seltsam ist es,
 daß die Lady mir dies bis zuletzt verschwiegen hat. Ahnen
 Sie, weshalb?«
 
-»Nein, Mir. Harst. Ich kann nur folgendes über die
+»Nein, Mr. Harst. Ich kann nur folgendes über die
 Lady und das Silbertäschchen angeben: Aruwar hat die
 Lady zu heute vormittag in die Ruine bestellt gehabt. Sie
 hat für die Rückgabe des Täschchens einen ungeheuren
 Preis bezahlt. Aruwar kann auf sie jeden beliebigen Druck
 ausüben. Er weiß irgend etwas aus der Vergangenheit
-ihres Gatten — etwas, das mit dem Schlangenring aus
-sammenhänat. Er sagte zu mir, er könnte die Lady vernichten,
-wenn er wollte — Das ist alles, was ich hier
+ihres Gatten — etwas, das mit dem Schlangenring
+zusammenhängt. Er sagte zu mir, er könnte die Lady vernichten,
+wenn er wollte. — Das ist alles, was ich hier
 zu Protokoll geben und nötigenfalls beschwören kann —
 wirklich alles! Ich lüge nicht. Ich halte mit nichts zurück.
 ich — werde sterben. Das weiß ich!«
 
 Trostloseste Mutlosigkeit ließ sein Gesicht wie verfallen
-erscheinen.!
+erscheinen.
 
 »So hat also Aruwar die Lady auch gezwungen, wieder
 umzukehren und das Gemach zu betreten, wo wir uns
 befanden?«
 
-»Co —
+»Ja —«
 
 »Und was sollte Lady Gulbrar von uns erreichen?«
 
-««Sie- sollten Patna verlassen —«
+»Sie sollten Patna verlassen —«
 
-»Oh — das hat sie dann aber sehr Ungeschick angestellt!« —
+»Oh — das hat sie dann aber sehr ungeschickt angestellt!« —
 
 <@pagebreak/>
-Harald winkte uns dreien. Wir traten in eine Ehe
+Harald winkte uns dreien. Wir traten in eine Ecke
 und hörten nun seine uns völlig überraschenden Vorschläge
 an.
 
 Taffarell war sofort einverstanden.
 
-Hoffst aging zu John Barring.
+Harst ging zu John Barring.
 
 »Wir werden Sie jetzt in einen uniformierten Polizeibeamten
 verwandeln,« erklärte er leise. »Dann nimmt
-Mr. Breßfort Sie mit in feine Wohmına. Ich aber werde
-Style Rolle hier spielen.«
+Mr. Breßfort Sie mit in seine Wohnung. Ich aber werde
+Ihre Rolle hier spielen.«
 
 Barring begriff nicht sofort. Dann rief er: »Nein —
-na das darf nicht sein! Man wird Sie töten Mr.
-erst!
+nein, das darf nicht sein! Man wird Sie töten Mr.
+Harst!«
 
 »Diese Gefahr abzuwenden, überlassen Sie nur mir,
 Barring. — Breßfort, bitte besorgen Sie alles Nötige.« —
 
 Eine Viertelstunde drauf fuhr Breßfort in seinem
 Dienstauto heim. Vorn neben dem Chauffeur saß ein eingeborener
-Polizist: Sohn Barring.
+Polizist: John Barring.
 
 Harst wieder wurde von zwei Beamten, nachdem er
 sich Barrings Sportkostüm angezogen und sich Gesicht, Hals,
-Naben und Hände braun gefärbt hatte, in eine Zelle des
+Nacken und Hände braun gefärbt hatte, in eine Zelle des
 Polizeigefängnisses geführt.
 
-in diesen Verfonenaustaufh war nur noch ein Polizeidetektiv
+in diesen Personenaustausch war nur noch ein Polizeidetektiv
 namens Wilbry eingeweiht worden, ein junger
 Engländer, der aus reiner Neigung diesen Beruf erwählt
 hatte. Auch er war von Harald für die bevorstehenden Ereignisse
-derart masfkiert worden, daß er für einen flüchtigen
+derart maskiert worden, daß er für einen flüchtigen
 Beobachter ganz jenem Herrn glich, der mit mir im Hotel
 Viktoria in Bankipur als Holländer van Haarken abgestiegen
 war.
 
-Mit diesem Beende-Haarken bestieg ich dann ein Mietauto,
+Mit diesem Pseudo-Haarken bestieg ich dann ein Mietauto,
 das uns in rascher Fahrt die Prachtstraße entlang
-noch dem Hotel Viktoria brachte.
+nach dem Hotel Viktoria brachte.
 
 Wilbry, der hier nun Harst-Haarken spielte, benahm
 sich tadellos. Er besaß Talent zum Detektiv. Wir blieben
 bis Mitternacht auf unseren Zimmern. Wir hatten uns
 inzwischen in Inder der ärmsten Volksschichten verwandelt,
-verließen das Hotel durch einen Seitenausgang und fang
-den Taffarells Auto dicht vor Bankipur an der vereinbarten
+verließen das Hotel durch einen Seitenausgang und fanden
+Taffarells Auto dicht vor Bankipur an der vereinbarten
 Stelle. — Taffarell lenkte den Wagen selbst, als
 <@pagebreak/>
-Chauffeur verkleidet in raschestem Tempo sausten wir die
-»wenig belebte Straße dahin. Wir waren jetzt unserer
+Chauffeur verkleidet. in raschestem Tempo sausten wir die
+wenig belebte Straße dahin. Wir waren jetzt unserer
 Sache sicher: es war niemand hinter uns! Niemand von
 den übrigen Mitgliedern des Batta Mampu, die Harald
 hier in Patna noch vermutete.
 
-»In einer Seitenstraße des großen Gebäudevieres,
+In einer Seitenstraße des großen Gebäudevierecks,
 dessen Vorderfront der Polizeipalast bildete, stiegen wir aus.
 Er steuerte das Auto dann weiter in eine entferntere
 Straße.
@@ -2005,7 +2008,7 @@ die Augen überall.
 
 Das Polizeigefängnis nahm den linken Seiten- und
 den Hinterflügel ein. Es war von einer sehr hohen glatten
-Mauer umgeben, die. oben durch nach außen gewölbte
+Mauer umgeben, die oben durch nach außen gewölbte
 spitze Gitter verlängert war.
 
 Sollte wirklich ein Versuch unternommen werden,
@@ -2026,44 +2029,44 @@ Wir blieben dann in einer Tornische stehen.
 Die Nacht war heiß und gewitterschwül.
 
 Am Himmel war nicht ein einziger Stern zu sehen.
-ur Rirmament erschien fcehiwarz wie eine schwarze Tuche.
+Das Firmament erschien schwarz wie eine schwarze Tuchglocke.
 
 Das Licht der wenigen Straßenlaternen hier in den
 engen Gassen, die zumeist Warenspeicher enthielten, deren
 hohe Giebel sich der Gefängnismauer gegenüber gleichmäßig
 wie nach einer Schablone gebaut in die Finsternis
-emporrectten, — dieses Licht kämpfte mit wenig Erfolg
+emporreckten, — dieses Licht kämpfte mit wenig Erfolg
 gegen die Dunkelheit an.
 
-»Eine scheußliche Recht!« flüsterte Wilbry neben mir.
-»Die elektrische Sältiguna der Luft fährt einem in die
-Nerven! ich bin doch sonst. recht hundeschnäuziag. Heute
-ist’s mir. als müßte jeden Moment etwas passieren.«
+»Eine scheußliche Nacht!« flüsterte Wilbry neben mir.
+»Die elektrische Sättigung der Luft fährt einem in die
+Nerven! ich bin doch sonst recht hundeschnäuzig. Heute
+ist’s mir, als müßte jeden Moment etwas passieren.«
 
 <@pagebreak/>
 Wilbry sprach nur das aus, was Ich selbst empfand.
 
-»Beginnen wir die Runde von neuem,« meine ich nur
+»Beginnen wir die Runde von neuem,« meinte ich nur
 
 Wir traten aus der Tornische heraus.
 
 Da kam von links ein Auto mit zwei grellen Scheinwerfern
-herbei. Es fuhr langsam. Es hustete uns in blendende
+herbei. Es fuhr langsam. Es hüllte uns in blendende
 Lichtfluten.
 
 Dann hielt es — kaum fünf Sekunden.
 
-Fuhr schmachtet — fuhr an uns vorüber.
+Fuhr schneller — fuhr an uns vorüber.
 
 Wir unterschieden drei Gestalten darin.
 
-Schon war es vorbei — bog um die Ehe.
+Schon war es vorbei — bog um die Ecke.
 
 »Verdammt — man sieht nichts!« schimpfte Wilbry.
 »Diese Scheinwerfer —«
 
 Ich hatte ihm die Hand um den Arm gelegt, hatte fest
-zugehakt.
+zupackt.
 
 »Was haben Sie, Mr. Schraut?« fragte der Detektiv
 hastig.
@@ -2075,49 +2078,49 @@ Wir liefen. Unsere geblendeten Augen unterschieden
 wieder alle Einzelheiten ringsum, so weit die schwache Beleuchtung
 dies zuließ.
 
-Aber — die Mauer war leer! Roh mußte mich geirrt
+Aber — die Mauer war leer! Ich mußte mich geirrt
 haben. in der Straße war ja auch, bevor das Auto nahte,
-fein Mensch zu sehen gewesen.
+kein Mensch zu sehen gewesen.
 
 Und doch: sollte ich mich so sehr getäuscht haben?! ich
 hatte da oben über dem Eisengitter der Mauerkrone eine
-Gestalt zu bemerken aecalaubt. Sollten mir meine durch
-das grelle Scheinwerferlicht übecrreizten Sehnerven diese
-Gestalt nur voraeagaufelt haben?!
+Gestalt zu bemerken geglaubt. Sollten mir meine durch
+das grelle Scheinwerferlicht überreizten Sehnerven diese
+Gestalt nur vorgegaukelt haben?!
 
-Ich blieb an der Stelle stehen, wo ich das Verdächtioe
+Ich blieb an der Stelle stehen, wo ich das Verdächtige
 wahrgenommen hatte.
 
-»Hier sah ich’ê,« flüsterte ich Wilbry zu.
+»Hier sah ich’s,« flüsterte ich Wilbry zu.
 
-»Also er Verirren? in
+»Also einen Menschen?«
 
-»Ja E. Zelle ihr —
+»Ja — vielleicht —«
 
-Das ist ausgeschlossen, Mr Schraut. Wo soll der
+»Das ist ausgeschlossen, Mr. Schraut. Wo soll der
 Mensch hergekommen sein?!«
 
 »Aus dem Auto,« erwiderte ich sinnend.
 
 »Aber — aber, diese Mauer läßt sich doch nicht in
-Sef’unden erklettern!«
+Sekunden erklettern!«
 
 <@pagebreak/>
-»Mit einer Leiter Tal Die Leiter kann im Auto Ne
-offenen haben —«
+»Mit einer Leiter ja! Die Leiter kann im Auto gelegen
+haben —«
 
 »Dann muß sie ganz kurz gewesen sein. Im Auto war
-feine Leiter. Und eine kurze hätte hier nichts genügt.«
+keine Leiter. Und eine kurze hätte hier nichts genützt.«
 
-Von der anderen Seite nahte Breßfort in seiner in-dischenst
-Kulimaske. »Er machte bei uns halt.
+Von der anderen Seite nahte Breßfort in seiner indischen
+Kulimaske. Er machte bei uns halt.
 
 »Etwas Neues?«
 
 Ich teilte ihm meine Beobachtung mit.
 
-»Hm — das Auto hatte auch hinten zwei Schein.
-Scheinwerfer, die dann freilich sehr bald erloschen,« meinte er
+»Hm — das Auto hatte auch hinten zwei Scheinwerfer,
+die dann freilich sehr bald erloschen,« meinte er
 nachdenklich.
 
 »Wann erloschen sie?« fragte ich schnell
@@ -2126,55 +2129,55 @@ nachdenklich.
 
 Diese Antwort sagte mir alles.
 
-Sich war jahrelang Haralds Begleiter, Haralds Schüler
+ich war jahrelang Haralds Begleiter, Haralds Schüler
 gewesen. Ich hatte manches von ihm gelernt — von
-feiner a, das Hirn zu gebrauchen.
+seiner Kunst, das Hirn zu gebrauchen.
 
-Dann haben die Leute im Auto mit den, vier Schein-wckxsern
+»Dann haben die Leute im Auto mit den vier Scheinwerfern
 nur beabsichtigt, jeden zu blenden, der vor oder hinter
-ihnen war,« erklärte ihfchnell. »Dann haben sie, als
+ihnen war,« erklärte ich schnell. »Dann haben sie, als
 sie hielten, einen von ihnen über die Mauer geschickt. Wenn
-»dieser Mann zum Beispiel sich einer jener leichten ausziehbaren
+dieser Mann zum Beispiel sich einer jener leichten ausziehbaren
 Bambusleitern bedient hat, wie sie hier so viel in
-Gebrauch sind, kann ein ageschifter Mensch sehr leicht in ein
+Gebrauch sind, kann ein geschickter Mensch sehr leicht in ein
 paar Sekunden vom Auto aus mit Hilfe der Leiter auch
-über die boraeneiaten Eifenipigenbinüber und kann drüben
-in den Gefängnishof »Binabaeiprungen oder an einer
-Keine hinabgeklettert fein.«
+über die vorgeneigten Eisenspitzen hinüber und kann drüben
+in den Gefängnishof hinabgesprungen oder an einer
+Leine hinabgeklettert sein.«
 
-Dies leuchtete Breßfort und Wilbry ein. st
+Dies leuchtete Breßfort und Wilbry ein.
 
 Breßfort nickte. »Lieber Schraut, Sie werden wohl
 recht haben! Mag Wilbry hierbleiben. Wir beide eilen
 ins Gefängnis.«
 
-Wir schritten rasch dahin. Wir betraten das Hauptgebäude,
-Der Nachtpförtner schloß uns die Tür zum Ge-fänanisfldael
-auf. Wir läuteten hier den wacht habenden
-Aussehen des Aufnahmebüros heraus. Der Beamte ließ
-uns ein, Ok uns die Schlüssel mit.
+Wir schritten rasch dahin. Wir betraten das Hauptgebäude.
+Der Nachtpförtner schloß uns die Tür zum Gefängnisflügel
+auf. Wir läuteten hier den wachthabenden
+Aufseher des Aufnahmebüros heraus. Der Beamte ließ
+uns ein, gab uns die Schlüssel mit.
 
-Zappelte Zelle lag im Hinterflügel, Dante die Nr. 61.
+Haralds Zelle lag im Hinterflügel, hatte die Nr. 61.
 In Nr. 65 saß Doktor Aruwar.
 
 <@pagebreak/>
 Der Schließer des Hinterflügels begleitete uns. Leise
 schlichen wir den Flur im Erdgeschoß entlang, die Treppe
 empor. Hier im ersten Stock standen wir drei nun vor
-Harxalds Zelle.
+Haralds Zelle.
 
 ich hob den Schieber des Guckloches. Oben an der
 Decke der Zelle brannte eine matte elektrische Birne. Ich
 mußte meine Augen anstrengen. Dann — dann sah ich,
 daß Harald vor dem eisernen Bett auf den Steinfliesen lag.
 
-Aerger — ausschließen!« feuchte ich vor jäher
-na
+»Aufschließen — aufschließen!« keuchte ich vor jäher
+Angst.
 
 Da war ja ohne Zweifel etwas geschehen.
 
-He mußte bereits eine Teufelei ausgeführt worden
-ah
+Da mußte bereits eine Teufelei ausgeführt worden
+sein! —
 
 Die Zellentür ging auf.
 
@@ -2184,36 +2187,36 @@ Taumelte zurück.
 
 Erstickender beißender Geruch drang mir in die Nase.
 
-Sich hielt den Atem an, sprang vor, hob Harst auf,
+ich hielt den Atem an, sprang vor, hob Harst auf,
 schleppte ihn in den Flur.
 
 Er regte sich nicht. Er war wie tot.
 
 Der Gefängnisarzt wurde geholt. Ein Beamter jagte
-mit einem Rade zum Krankenhaus nach einem Eauerfiofi-apparat.
+mit einem Rade zum Krankenhaus nach einem Sauerstoffapparat.
 —
 
 Bis früh gegen fünf Uhr kämpften wir mit dem Tode,
 der Harst schon halb in den Klauen hatte.
 
-Dann war die Gefahr befestigt.
+Dann war die Gefahr beseitigt.
 
 im Büro des Gefängnisses lag Harst auf einem Diwan.
 Wir standen um ihn herum. Auch Taffarell hatte
-sich einachınden. Drei Aerzte waren anwesend. Wir hatten
+sich eingefunden. Drei Aerzte waren anwesend. Wir hatten
 inzwischen in der Zelle auch die Gaspatrone gefunden,
 die Harald beinahe ins Jenseits befördert hatte. Es war
 — eine sogenannte »Pestpatrone« zum Ausschwefeln der
-Käufer bei einer Pestepidemie. Das agistige Gas, das der
+Häuser bei einer Pestepidemie. Das giftige Gas, das der
 Bleihülse nach Entfernung des Verschlusses entströmte,
-hätte agenüat, ein paar Dutzend Menschen zu töten. Wären
+hätte genügt, ein paar Dutzend Menschen zu töten. Wären
 wir auch nur einige Minuten später in die Zelle eingedrungen,
 dann wäre Harald nicht mehr zu retten gewesen.
 
 <@pagebreak/>
 
-— 3. Kapitel.
-— Die Jagd auf das Oberhaupt.
+<h2>3. Kapitel.</h2>
+<h2>Die Jagd auf das Oberhaupt.</h2>
 
 Harsts robuster Körper hatte die Wirkungen des Gases
 lebt so weit überwunden, daß seine Lippen bereits einzelne
@@ -2322,7 +2325,7 @@ und schrieb:
 
 und — kaum hatte ich dies gelesen, als mir seine Abgeht
 verständlich wurde: er nahm an, daß sich unter den
-eingeborenen Gesängnisbeamten ein Mitglied des Batta
+eingeborenen Gefängnisbeamten ein Mitglied des Batta
 Mampu befand! Er wollte diesen Mann, der inzwischen
 aus Vorsicht die weiße Haarsträhne dunkel gefärbt haben
 any durch Wasser und Seife entlarven! —
@@ -2425,7 +2428,7 @@ besonderer Art, und die Zukunft lehrte auch, daß ihre Erwartungen
 noch übertroffen wurden. Breßfort erklärte,
 Harald würde schon mit ihm zufrieden sein. Den Urlaub
 würde Taffarell unter diesen Umständen ohne weiteres bewilligen.
-— Dann verließen Breßfort und Wilbry uns.
+<h2>Dann verließen Breßfort und Wilbry uns.</h2>
 Harst und Ich waren kaum allein, als auch schon für uns
 das begann, was der Polizeichef von Patna zunächst »nur
 he Ein betreiben!« sollte: die Jagd auf Doktor Ahmed
@@ -2444,11 +2447,11 @@ Mitglied des Bundes.«
 »Und weiter: kannst Du Dir nicht einen or, denken,
 wo Äruwar vor allen Nachstellungen sicher wäre?«
 
-— die Ruine des Palastes Schah Arganis!«
+<h2>die Ruine des Palastes Schah Arganis!«</h2>
 
 »Hm — der Gedanke ist an sich nicht schlecht. Die
 Ruine kann noch mehr bewohnbare Räume haben. Aber
-— ich selbst vermute Aruwar anderswo.«
+<h2>ich selbst vermute Aruwar anderswo.«</h2>
 
 »Und Das wäre?«
 
@@ -2530,8 +2533,8 @@ Beruf hatten.
 
 <@pagebreak/>
 
-— 4. Kapitel.
-— Der Jugendfreund Partisan.
+<h2>4. Kapitel.</h2>
+<h2>Der Jugendfreund Partisan.</h2>
 
 Harald hatte mir noch nicht mitgeteilt, wo er bis
 morgen nach! zu bleiben gedachte. ich selbst wäre kaum
@@ -2560,10 +2563,10 @@ Falltür, ein Meisterstück derartiger Anlagen, entgangen.
 In diesen Kellern war Diebesgut aller Art aufgeschichtet.
 <@pagebreak/>
 Aus diesen Beutestücken ging klar hervor, daß die Bande
-auch Frachtschisse und Eisenbahnwagen geplündert hatten
+auch Frachtschiffe und Eisenbahnwagen geplündert hatten
 und daß ihr Hauptquartier fraglos Patna war. Diese
 ungeheure Beute wurde nachher von der Polizei Beschlagnahme.
-— Was Harald dort in den Kellern außerdem noch
+<h2>Was Harald dort in den Kellern außerdem noch</h2>
 gefunden, sollte ich erst später und zwar in einer Lage erfahren,
 die vielleicht nie sich derart zu unseren Gunsten
 gewendet hätte, wenn Harst nicht — Doch — ich will
@@ -2755,10 +2758,10 @@ nd noch erleide — noch! — Viel kann ich nicht berichten.
 im Ne beichtete mir auï feinem Sterbelager
 nen
 
-— 5. Kapitel.
-— Das halbe Geheimnis.
+<h2>5. Kapitel.</h2>
+<h2>Das halbe Geheimnis.</h2>
 
-»Im Fahre 1890 ließ er die Schmalspurvayn von
+»Im Fahre 1890 ließ er die Schmalspurbahn von
 Biraniri nach Kanten bauen. Dabei mußte ein Bergvorsprung
 durch einen Tunnel durchbrochen werden. Als Dschungel
 halb fertig war, kam ein greisen Inder zu weitem
@@ -2794,7 +2797,7 @@ Jedenfalls: der Ring ist mir wie ein stetes —«
 Sie vollendete den Gab nicht.
 
 Der Türvorhang war zuridaeichoben worden. Und
-— sehr rasch traten jetzt drei Inder ein.
+<h2>sehr rasch traten jetzt drei Inder ein.</h2>
 
 Drei — als erster — Doktor Ahmed Aruwar, aha
 zweiter John Barrings Chauffeur Diwan Bandes, und als
@@ -2809,7 +2812,7 @@ heute benutzt werden.
 Jeder hielt einen Pfeil auf der Sehne bereit — einen
 Pfeil mit derselben Eisenspitze, wie wir diese schon bei den
 Geschossen in der Palastruine in Patna gesehen hatten —
-vergiftete Eifenfpigen!
+vergiftete Eisenspitzen!
 
 Aruwar, der hier Dienertracht anhatte, sagte sofort:
 
