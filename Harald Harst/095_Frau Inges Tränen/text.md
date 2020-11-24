@@ -13,56 +13,56 @@ gegen die Mächte der Finsternis bezeichnen kann.
 
 Am Abend eines glutheißen Tages saßen wir beide
 mit unserer liebenswürdigen Wirtin auf der Terrasse, vor
-uns die Palmenallee, die durch weite Rasenslächen bis zum
+uns die Palmenallee, die durch weite Rasenflächen bis zum
 Parktor hinlief.
 
 Auf dem kurz geschorenen grünen Teppich standen die Gestelle
 der Drehzerstäuber mit ihren Schlauchleitungen und
 warfen unaufhörlich feinsten Sprühregen über die ausgedörrten
 Gräser. Die Sonne, soeben hinter den dunklen
-Linien des Dschungels versunken, spendete noch als lebte
+Linien des Dschungels versunken, spendete noch als letzte
 Grüße ihre wunderbaren rötlichen Farben dem prächtigen
-Landschastsbilde, übergoß es mit einer unwahrscheinlichen
+Landschaftsbilde, übergoß es mit einer unwahrscheinlichen
 Fülle rosigen Lichtes und ließ den Staubregen der Rasensprenger
 wie farbenfrohe Wolken auf die in künstlicher
-Frische neu auflebenden Halme herahsinken.
+Frische neu auflebenden Halme herabsinken.
 
 Wir drei schwiegen.
 
 Eine gewisse Andacht hielt uns in Bann. Wir beide,
 unstäte Wanderer auf diesem unserem winzigen Planeten,
 liebten die Natur mit derselben frommen Freude an ihrer
-nie Eden Vielseitigkeit wie Lady Gulbrar, deren feines
+nie ersterbenden Vielseitigkeit wie Lady Gulbrar, deren feines
 <@pagebreak/>
 Profil in dieses Gemälde so stimmungsvoll hineinpaßte.
 
-Wir fchiwienen.
+Wir schwiegen.
 
-Bis da: drüben am Parktor, das für uns nicht sichtbar
+Bis dort drüben am Parktor, das für uns nicht sichtbar
 war, die Glocke anschlug.
 
-»Ein Radler kam die Straße von Finanzen entlang,«
+»Ein Radler kam die Straße von Biranara entlang,«
 sagte Harald leise. »Es können auch zwei gewesen
-in.
+sein.«
 
 Lady Gulbrar blickte auf. Dieser Blick bat um eine
 Erklärung, wie Harald den oder die Radler gesehen haben
-könnte, da wir Doch nur die Kronen ver die Straße flan-tierenden
+könnte, da wir Doch nur die Kronen der die Straße flankierenden
 Bäume von hier aus zu erkennen vermochten,
 
-»Es saßen Schwärme von Tschakras (indische Starr) in
-den Winseln derPlatanen, Mylady,« meinte Harst. »Die
+»Es saßen Schwärme von Tschakras (indische Stare) in
+den Wipfeln der Platanen, Mylady,« meinte Harst. »Die
 Vögel flogen in einer Weise von den einzelnen Bäumen auf,
 daß nur ein Läufer oder ein Radler sie emporgescheucht
 haben kann. Einen Wagen oder ein Auto hätten wir bei
 dieser Stille hören müssen.«
 
 »Also Besuch für uns,« sagte die Lady. »Hassan, der
-Torwärter, wird bereits schlafen gegangen fein. Soeben
+Torwärter, wird bereits schlafen gegangen sein. Soeben
 schlug die Glocke abermals an.«
 
-Harald hatte sich plötzlich in feinem Rohrsessel etwas
-hochagereckt und sich vorgebeugt.
+Harald hatte sich plötzlich in seinem Rohrsessel etwas
+hochgereckt und sich vorgebeugt.
 
 Auch mir war’s, als bemerkte ich am Ende der Rasenfläche
 hinter den Sträuchern eine Gestalt, die der Palmenallee
@@ -76,10 +76,10 @@ mag wohl unsere Ruhe hier —«
 
 Sie schnellte plötzlich hoch.
 
-Auch wir waren emporagesprungen.
+Auch wir waren emporgesprungen.
 
 Wir drei hatten ja gleichzeitig gesehen, daß der Inder
-in der Allee mit einem Male die Arme in die Lust geworfen
+in der Allee mit einem Male die Arme in die Luft geworfen
 hatte und dann verschwunden war — geradezu blitzartig.
 
 Ebenso schnell stürmte jetzt Harst die Stufen der Terrasse
@@ -89,10 +89,10 @@ im Laufen zwei — drei Schüsse ab, die doch nur den Zweck
 haben konnten, irgend jemand zu verscheuchen.
 
 <@pagebreak/>
-Auch ich beste hinter Harald drein.
+Auch ich hetzte hinter Harald drein.
 
 Bald standen wir hinter einem blütenbesäten hohen
-Strauche. neben dem der indische Postbote, um den Hals
+Strauche, neben dem der indische Postbote, um den Hals
 die Schlinge einer dünnen langen Hanfschnur und im Herzen
 bis zum Holzgriff ein billiges Dolchmesser, regungslos
 auf dem Rücken lag.
@@ -104,17 +104,17 @@ hübschen Häuschen wohnte.
 Er fand die Pforte noch offen, fand das Rad des Toten,
 schwang sich hinauf und folgte dem anderen Radler, der
 in schnellstem Tempo nach dem Städtchen Biraniri wieder
-zurück sauste.
+zurücksauste.
 
 Dann sprang Harst ab, machte kehrt und kam mit dem
-Rade langsam aus uns zu.
+Rade langsam auf uns zu.
 
 Hassan und ich standen vor dem Parktor. Lady Gulbrar
 gesellte sich zu uns, als Harald gerade rief:
 
 »Die Schläuche sind zerschnitten. Der Mörder ist entkommen.«
 
-Die Lady war bleich. Auch sie ballte ja den Toten
+Die Lady war bleich. Auch sie hatte ja den Toten
 bemerkt.
 
 »Ein Verbrechen — hier in meinem Park!« meinte
@@ -126,14 +126,14 @@ Mylady. Vielleicht haben meine Schüsse den Raub
 verhindert.«
 
 Wir gingen hastig die Allee hinab. Harald kniete neben
-dem Toten, fand dann auch in der Innentasche des Lei-nenrockes
+dem Toten, fand dann auch in der Innentasche des Leinenrockes
 des Inders ein Telegramm.
 
 es war — an Harald Harst gerichtet, war ihm von
 Patna aus, wo wir im Atlantic-Hotel gewohnt hatten,
-nacoeichidt worden.
+nachgeschickt worden.
 
-Er öffnete es, überflog es, reihte es mir.
+Er öffnete es, überflog es, reichte es mir.
 
 »Da, mein Alter, — Arbeit für uns, in Berlin,«
 
@@ -150,7 +150,7 @@ Es lautete:
 > Bitte Sie dringend um Hilfe. Kommen Sie sofort.
 Vielleicht können Sie das Verhängnis noch abwenden.
 Habe an India-Bank in Patna telegraphisch für Sie 100
-Pfund Sterling angewiesen. — Baronin Jage Alfström,
+Pfund Sterling angewiesen. — Baronin Inge Alfström,
 Berlin W, Kufsteinerstraße 161.
 
 Harald wandte sich an Lady Gulbrar.
@@ -167,7 +167,7 @@ Du über die beiden Radler?«
 Glocke geweckt wurde, als ich dann öffnen wollte, stand
 nur der Postbote mit seinem Rade draußen.«
 
-»Den anderen »Inder sahst Du nicht?«
+»Den anderen Inder sahst Du nicht?«
 
 »Nein, Sahib.« —
 
@@ -177,13 +177,13 @@ sollte unsere Koffer packen.
 Nach einer Stunde war Harst zurück,
 
 »Der Polizeimeister ist unten bei dem Toten,« erklärte
-er. »ein Biraniri war nichts über den anderen Inder zu
+er. »In Biraniri war nichts über den anderen Inder zu
 erfahren. Ich habe damit auch gar nicht gerechnet.«
 
-für stand neben dem Koffer, der bereits bis oben gefüllt
+Ich stand neben dem Koffer, der bereits bis oben gefüllt
 war.
 
-»Die Fäden des Da Alfström reichen bis hierher?«
+»Die Fäden des Falles Alfström reichen bis hierher?«
 fragte ich. »Nicht wahr, Du solltest die Depesche nicht erhalten,
 damit wir uns nicht mit dieser Sache beschäftigen
 könnten.«
@@ -193,16 +193,16 @@ könnten.«
 Es hatte geklopft. Der Polizeimeister Mr. Edward
 Pearl trat ein. Ich kannte ihn schon, den gemütlichen
 alten Herrn, der diesen entlegenen Posten nur angenommen
-hatte, weil Biraniris Umgegend. ein vorzügliches
-Jagdschloß auf Tiger, Wasserbüffel und indische Wild-schweine
+hatte, weil Biraniris Umgegend ein vorzügliches
+Jagdgebiet auf Tiger, Wasserbüffel und indische Wildschweine
 war.
 
-Pearl E uns die Mordiwaffe entgegen.
+Pearl hielt uns die Mordwaffe entgegen.
 
 »Da — ein Dolch der Sarawana-Brüderschaft, meine
 Herren. Also ein Verbrechen, das eine Strafe für den
-Toten 2 Bundes für diesen Shamdi Bana, der die Geheimnisse
-des Bundes nicht streng genug gekittet haben mag.«
+Toten darstellt, für diesen Shamdi Bana, der die Geheimnisse
+des Bundes nicht streng genug gehütet haben mag.«
 
 <@pagebreak/>
 Harald nahm den blutigen einfachen Dolch und nickte.
@@ -210,27 +210,27 @@ Harald nahm den blutigen einfachen Dolch und nickte.
 »Hier im Griff ist beiderseits das plumpe Bild einer
 sich hochbäumenden Kobra eingeschnitten. Die Sarawana-Leute
 sind so etwas wie politische Geheimbündler, Kämpfer
-für ein freies Fñüdien.«
+für ein freies Indien.«
 
 »Das sind sie,« seufzte Pearl kläglich. »Nun ist meine
-idyllische Ruhe dahin. Man wird. mir fraglos Detektive
+idyllische Ruhe dahin. Man wird mir fraglos Detektive
 aus Kalkutta senden. Die Regierung dürfte mit aller Energie
 den Mord aufzuklären suchen.«
 
 »Hm — Sie meinen, den Täter wird sie suchen lassen.
 Der Mord selbst ist in allen Punkten klar. Der Mörder
 folgte Shamdi Bana mit dem Rade, ließ dem Postboten
-dann einen kurzen Vorsprung zerschnitt die Pneumatiks
+dann einen kurzen Vorsprung, zerschnitt die Pneumatiks
 des am Gittertor lehnenden Rades, kletterte über das Gitter,
 lief bis zur Krümmung der Allee und riß Shamdi mit
-der Hanfschlinge zu sich hin. Muß ein vorzüglicher Lasso-werfer
+der Hanfschlinge zu sich hin. Muß ein vorzüglicher Lassowerfer
 gewesen sein, dieser Mörder.«
 
 In dem Tonfall Haralds war etwas, das mich stutzig
-achte.
+machte.
 
 Pearl sagte jedoch nur: »Ja, so muß es gewesen
-fein.
+sein.«
 
 Harst schüttelte den Kopf. »Sie irren, so war es nicht.
 Es war ganz anders.«
@@ -244,42 +244,42 @@ Gitterpforte. Und die Pneumatiks waren noch unversehrt,
 als Shamdi die Allee hinabging, müssen noch unversehrt
 gewesen sein. Erst als Hassans Aufmerksamkeit durch meine
 Schüsse scharf auf das Schloß gelenkt wurde, kam der andere
-über die Straße geknickt, zerschnitt die Schläuche,
-Ihiwana sich auf das weiter nordwärts lehnende Rad des
-Mörders und kam am Parktor langsam vorüber —
-langsam. Mr. Pearl, damit Staate- Verfolger ihn und
+über die Straße gelenkt, zerschnitt die Schläuche,
+schwang sich auf das weiter nordwärts lehnende Rad des
+Mörders und kam am Parktor *langsam* vorüber —
+langsam. Mr. Pearl, damit etwaige Verfolger ihn und
 nicht den Täter aufs Korn nehmen sollten. Diese Finte ist
 mir leider zu spät eingefallen. Ich habe vorhin bei meiner
 Rückkehr die Stelle in den Büschen jenseits der Straße
 gefunden, wo dieser andere gekniet hat. Und — das war
-fein Inder, nur ein verkleideter Inder, Mr. Pearl. Die
+kein Inder, nur ein verkleideter Inder, Mr. Pearl. Die
 <@pagebreak/>
-Füße des Mannes waren winzig, Ich möchte behaupten,
-hier haben ein Weib und ein Wann zusammengearbeitet,
-Das Weib deckte dem Täter den Nücken. Und dieser Täter
-war ein Europäer mit Halbichuben mit aecfteppten Sohlen.
+Füße des Mannes waren winzig. Ich möchte behaupten,
+hier haben ein Weib und ein Mann zusammengearbeitet.
+Das Weib deckte dem Täter den Rücken. Und dieser Täter
+war ein Europäer mit Halbschuhen mit gesteppten Sohlen.
 Sie werden dies ebenfalls aus den Spuren herausfinden.
 — Gestatten Sie, daß wir uns auch gleich verabschieden.
 Das Auto Lady Gulbrars bringt uns in zehn
-Minuten nach ver nächsten Bahnstation. Ich habe in der
-lin zu tun, Die Schönen Zeiten, wo ich als Liebhaberdetektiv
-nur eine Arbeit übernahm, die mir zusagte, sind ja seit -
-den! Tiesslande der deutschen Papiermark vorüber. Ich bin
+Minuten nach der nächsten Bahnstation. Ich habe in Berlin
+zu tun. Die schönen Zeiten, wo ich als Liebhaberdetektiv
+nur eine Arbeit übernahm, die mir zusagte, sind ja seit
+dem Tiefstande der deutschen Papiermark vorüber. Ich bin
 arm geworden. In zwölf Tagen hoffe ich mit Freund
 Schraut daheim in Berlin-Schmargendorf zu sein,« —
 
-Am 24 Mai landeten wir denn auch wohlbehalten in
+Am 24. Mai landeten wir denn auch wohlbehalten in
 Brindisi und fuhren weiter mit Der Bahn der deutschen
 Heimat zu. Ueber die Ermordung des Postboten im Parke
 von Biraniri hatte Harald kaum mehr ein Wort verloren.
 
 <h2>2. Kapitel.</h2>
-<h3>Der Herr ver Mächte der Finsternis.</h3>
+<h3>Der Herr der Mächte der Finsternis.</h3>
 
 »Frau Baronin lassen fragen, in welcher Angelegenheit
 die Herren sie zu sprechen wünschen,« sagte das zierliche
 Kammerzöfchen an der Flurtür in etwas schnippischem
-Tone zu uns und schaute dabei geringschätzig auf die Will
+Tone zu uns und schaute dabei geringschätzig auf die
 Visitenkarte, die sie noch in der Hand hielt und auf der nichts
 als »Harald Harst« stand.
 
@@ -291,7 +291,7 @@ Max Schraut. Bitte — melden Sie uns nochmals bei
 Ihrer Herrin.
 
 Die Flurtür schlug zu, und wieder waren wir im
-dar Trepvenfilir allein.
+Treppenflur allein.
 
 <@pagebreak/>
 Harst blickte mich seltsam an, schwieg jedoch.
@@ -299,12 +299,12 @@ Harst blickte mich seltsam an, schwieg jedoch.
 Und das Zöfchen kehrte zurück — sehr bald.
 
 »Frau Baronin läßt bedauern. Sie hat weder Herrn
-Rasamala Ei Depesche noch Geld gesandt.«
+Harst eine Depesche noch Geld gesandt.«
 
 Knall — flog die Tür wieder ins Schloß.
 
-Harald drehte sich kurz um und schritt die beläuferte -
-Treppe hinab. Als wir nun die Aufsteigen Straße nach
+Harald drehte sich kurz um und schritt die beläuferte
+Treppe hinab. Als wir nun die Kufsteiner Straße nach
 Friedenau zu entlanggingen, sagte er leise:
 
 »Lieber Alter, wir werden die Arbeit auf nicht ganz
@@ -312,16 +312,16 @@ alltägliche Weise beginnen und die Baronin beobachten —
 also unsere angebliche Auftraggeberin. Ich denke, sie wird,
 falls tatsächlich das Telegramm nicht von ihr herrührt, wohl
 ahnen, wer es in ihrem Interesse abgeschickt hat und diesen
-Steward sehr bald aufsuchen. Trennen Wir uns und bleiben
+Jemand sehr bald aufsuchen. Trennen Wir uns und bleiben
 wir in der Nähe des Hauses Nr. 161.«
 
 Nach kaum zehn Minuten verließ eine verschleierte
 schlanke blonde Dame sehr eilig Nr. 161 und bestieg am
 Bayrischen Platz ein Mietauto.
 
-Weitere fünfzehn Minmute drauf wußten wir, daß sie
+Weitere fünfzehn Minuten drauf wußten wir, daß sie
 den Rechtsanwalt Doktor Berthold Finster, Elßholzstraße
-Nr. 2, Hochparterre rechts, mit ihrem Besuch beeilt hatte.
+Nr. 2, Hochparterre rechts, mit ihrem Besuch beehrt hatte.
 
 Sie blieb dort eine volle Stunde, bis gegen sechs Uhr
 nachmittags.
@@ -331,43 +331,43 @@ in den nahen Kleistpark eingebogen, als wir an der Flurtür
 Doktor Finsters läuteten.
 
 Vor dieser Tür lagen etwas Holzwolle, etwas Heu und
-Dr. Diese Unsauberkeit deutete auf einen Um«
-Zug hin.
+Strohhalme. Diese Unsauberkeit deutete auf einen Umzug
+hin.
 
 Ein altes Männchen mit struppigem Bart und dünnen
 grauen Haarsträhnen über dem spitzen Schädel, hinter dem
-rechten Ohr einen Federhalter, gekleidet in einen Sprossen
+rechten Ohr einen Federhalter, gekleidet in einen speckigen
 Bratenrock, um den dürren Hals einen Gummikragen, um
 den ein schwarzer Binder strickartig geschlungen war, krähte
 uns mit hoher Stimme an, nachdem er die Tür halb geöffnet
 hatte:
 
 »ich halte heute keine Sprechstunde ab. Vielleicht bemühen
-Sie sich morgen in meine neue Wohnung, Golß-straße
-18. Sie sind doch die Vertreter der Bonbonsfabrik
-Mir und Schrotmann. meine Herren, nicht wahr?«
+Sie sich morgen in meine neue Wohnung, Goltzstraße
+18\. Sie sind doch die Vertreter der Bonbonfabrik
+Mir und Schrotmann, meine Herren, nicht wahr?«
 
 <@pagebreak/>
 Dabei Hob er seine goldene Brille mit einem Ruck
-bis auf die Spie der dicken Nase und blinzelte uns über
+bis auf die Spitze der dicken Nase und blinzelte uns über
 den Gläserrand prüfend an.
 
 »Mein Name ist Hirt« stellte Harald sich vor und
-kühlere den Sah, »Ab möchte nur einige Fragen an Sie
+lüftete den Hut. »Ich möchte nur einige Fragen an Sie
 richten, Herr Justizrat. Es dauert höchstens ein paar
 Minuten.«
 
-»cm — na gut. Bitte, irrten Sie ein.«
+»Hm — na gut. Bitte, treten Sie ein.«
 
 Doktor Finster stieß eine Tür auf und fügte hinzu:
 
 »Stühle gibt es nicht mehr, meine Herren. Sie müssen
-schon auf einer Kiste Pro nehmen.«
+schon auf einer Kiste Platz nehmen.«
 
-in dem zweifenstrigen Zimmer standen nur ein paar
+In dem zweifenstrigen Zimmer standen nur ein paar
 bereits zugenagelte Kisten. Die Stabjalousien waren herabgelassen
-und schräg gestellt, Daher herrschte hier ein
-Los Zwielicht, an das man sich erst gewöhnen
+und schräg gestellt. Daher herrschte hier ein
+ungewisses Zwielicht, an das man sich erst gewöhnen
 mußte. —
 
 Wir beide waren mittags in Berlin eingetroffen,
@@ -375,23 +375,23 @@ hatten ein wenig geruht und waren dann nach der Kufsteiner
 Straße zu der Baronin Inge Alfström geeilt, um
 von ihr uns mitteilen zu lassen was wir für sie tun könnten.
 Wir wußten bisher nichts über das »Verhängnis«,
-von dem sie sich bedroht fühlte. Wir wußten auch jetzt noch)
-nichts von dem Austrag, den wir erwartet hatten, wußten
-nur, daß sie uns durch die Zofe weaggeschickt und dann diesen
-uns ebenfalls gänzlich unbekannten Anwalt ausgesucht
-halte, dem Harald feinen wahren Namen wohl nur deshalb
+von dem sie sich bedroht fühlte. Wir wußten auch jetzt noch
+nichts von dem Auftrag, den wir erwartet hatten, wußten
+nur, daß sie uns durch die Zofe weggeschickt und dann diesen
+uns ebenfalls gänzlich unbekannten Anwalt aufgesucht
+halte, dem Harald seinen wahren Namen wohl nur deshalb
 verschweigen zu müssen glaubte, weil er auf geradem
-Menge von Doktor Finster nichts über die Baronin zu erfahren
+Wege von Doktor Finster nichts über die Baronin zu erfahren
 befürchtete,
 
-Abfiel in allem: dieses Abenteuer, dessen Auftakt in Indien
+Alles in allem: dieses Abenteuer, dessen Auftakt in Indien
 sich abgespielt hatte, begann auch hier in Berlin einigermaßen
 vielversprechend, —
 
 Der greise Justizrat hatte inzwischen auf eine riesige
-Kiste gewiesen und uns zum Plabnehmen aufgefordert.
+Kiste gewiesen und uns zum Platznehmen aufgefordert.
 
-Wir festen uns denn auch, nachdem Harst mich als
+Wir setzten uns denn auch, nachdem Harst mich als
 »Herr Schrott, mein Kollege« vorgestellt hatte.
 
 Berthold Finster lehnte zwei Schritt vor uns an der
@@ -404,7 +404,7 @@ zur Zeit mit einigen Widerwärtigkeiten zu kämpfen hat,
 Herr Justizrat.«
 
 »So so,« meinte der Sonderling von Anwalt mit einem
-modernden Auflachen. Sie haben gehört! Von wem
+meckernden Auflachen. »Sie haben gehört! Von wem
 denn?! Da bin ich wirklich gespannt. Sie beide sind wohl
 Leute, die aus fremdem Unglück Kapital schlagen — wie?!«
 
@@ -413,22 +413,22 @@ Leute, die aus fremdem Unglück Kapital schlagen — wie?!«
 Der Justizrat grinste.
 
 »Das weiß ich, Herr Harst,« erklärte er ironisch. »ich
-weiß noch mehr, zum Beispiel das eine, Bad jetzt hinter
+weiß noch mehr, zum Beispiel das eine, daß jetzt hinter
 Ihnen beiden zwei Männer stehen, die sofort zuschlagen,
 wenn Sie nicht ganz artig sein sollten. Drehen Sie sich
-nicht um. Das ist nicht erlaubt. Sitzen Sie still. Sich werde
+nicht um. Das ist nicht erlaubt. Sitzen Sie still. ich werde
 Ihnen zeigen, was Sie sehen sollen.«
 
-Und er hob einen großen Spiegel, der hinter einer arm
-deren Kiste gelehnt hatte, empor und hielt Ihn so, daß wir
-nun tatsächlich im Spiegelaglase zwei bärtige stiernackige
-Kerle bemerkten, Die jeder eine kurze dicke Eisenstange Sich
-bereit in der Hand hatten.
+Und er hob einen großen Spiegel, der hinter einer anderen
+Kiste gelehnt hatte, empor und hielt Ihn so, daß wir
+nun tatsächlich im Spiegelglase zwei bärtige stiernackige
+Kerle bemerkten, Die jeder eine kurze dicke Eisenstange hiebbereit
+in der Hand hatten.
 
 Dann stellte er den Spiegel wieder weg und fuhr fort:
 
-»Es liegen besondere Umstände vor, die mich zwängen,
-Sie beide für vierzehn Tage verschwinden zu lassen Wenn
+»Es liegen besondere Umstände vor, die mich zwingen,
+Sie beide für vierzehn Tage verschwinden zu lassen. Wenn
 Sie vernünftig sind, wird sich alles in einer für Sie durchaus
 angenehmen Weise abwickeln.« — Er sprach jetzt vollkommen
 ernst und mit einer trockenen Sachlichkeit, als handelte
@@ -440,16 +440,16 @@ bereitet. Sie werden dort gut verpflegt und —«
 
 »Halt — gestatten Sie eine Zwischenfrage,« meinte
 Harald da. »Würden Sie uns diese Gefangenschaft nicht
-ersparen können, Herr Justizrat? Wir wollen Omen —«
+ersparen können, Herr Justizrat? Wir wollen Ihnen —«
 
-»Nein, nein, Herr Harst,« quäkte der alte Herr. Das
-zwischen. »Ich kenne Sie und Ihre Schliche. E& handelt
-sich bei alledem, das versichere ich Ahnen, um kein Verbrechen
+»Nein, nein, Herr Harst,« quäkte der alte Herr Dazwischen.
+»Ich kenne Sie und Ihre Schliche. Es handelt
+sich bei alledem, das versichere ich Ihnen, um kein Verbrechen
 oder dergleichen, vielmehr um eine reine Privatangelegenheit,
-bei der man Ihre Einmischung als Moor
+bei der man Ihre Einmischung als geradezu
 <@pagebreak/>
-fatastrophal ansieht. Deshalb müssen Sie beide eben aus«
-geschaltet werden.«
+katastrophal ansieht. Deshalb müssen Sie beide eben ausgeschaltet
+werden.«
 
 »Das muß ja eine eigentümliche Privatangelegenheit
 sein,« sagte Harst mit leichtem Kopfschütteln.
@@ -466,18 +466,18 @@ hastig voller Unruhe.
 
 »Vielleicht!«
 
-Sich merkte jetzt, was Harald beabsichtigte: er wollte
+ich merkte jetzt, was Harald beabsichtigte: er wollte
 Herrn Finster so nahe heranlocken, daß er ihn packen und
 sich selbst durch einen raschen Sprung aus dem Bereich der
 drohenden Eisenstangen bringen könnte.
 
 Ich tat das meinige, ihn dabei zu unterstützen, lächelte
-Gaul dar gleichfalls an und sackte halb zu Harald gesandt:
+den Justizrat gleichfalls an und sagte halb zu Harald gewandt:
 
 »O ja — vielleicht!«
 
 Herr Berthold Finster war jedoch vorsichtig, lehnte sich
-wieder an die Wand und erklärte kühl: »Ich betone nachdem
+wieder an die Wand und erklärte kühl: »Ich betone nochmals
 Herr Harst: ich kenne Ihre Tricks! Mich fangen Sie
 nicht!«
 
@@ -486,10 +486,10 @@ zu unserem Empfang vorbereitet gehabt hatte.
 
 Er hüstelte dreimal.
 
-Und urplötzlich kippte da die Niefenkifte, auf der mir
+Und urplötzlich kippte da die Riesenkiste, auf der wir
 saßen, nach vorn um. Gleichzeitig versank der Deckel, so
 daß die Kiste uns nun völlig bedeckte.
-Nicht genug hiermit: im lebten Moment hatten die beiden
+Nicht genug hiermit: im letzten Moment hatten die beiden
 Kerle hinter uns zugeschlagen. Nicht mit den Eisenstangen.
 Nein, mit Sandsäcken, deren Hieb gerade hinreichte, uns
 für kurze Zeit zu betäuben.
@@ -499,46 +499,46 @@ vor sich gegangen — ganz so, als ob man diesen
 Ueberfall sorgfältig vorher ausprobiert hatte.
 
 Das Letzte, was mein schwindendes Bewußtsein an
-Gage empfing, war Berthold Finsters meckerndes
-n.
+Eindrücken empfing, war Berthold Finsters meckerndes
+Lachen.
 
 <@pagebreak/>
-Und das Erste, was ich wieder beim Erwachen wahr
-nahm, war ein leises Schaukeln und Plätschern.
+Und das Erste, was ich wieder beim Erwachen wahrnahm,
+war ein leises Schaukeln und Plätschern.
 
 Ringsum tiefste Dunkelheit. Und außer dem Geräusch
-vorbeigleitender Wassermengen noch ein tafkimäßiges Stampfen:
-eine Schisssmaschine — ein Bootsmotor, ohne Zweifel!
+vorbeigleitender Wassermengen noch ein taktmäßiges Stampfen:
+eine Schiffsmaschine — ein Bootsmotor, ohne Zweifel!
 
 Dann neben mir Haralds Stimme:
 
 »Wir fahren bereits eine halbe Stunde, mein Alter. —
-Brummt ah Schädel sehr?«
+Brummt Dir der Schädel sehr?«
 
-geht —«
+»Es geht —«
 
 »Herrn Finsters Freunde haben sich also recht anständig
-benommen. Die Hiebe mit den Eandbeuteln sind milde
+benommen. Die Hiebe mit den Sandbeuteln sind milde
 ausgefallen.« Und noch gedämpfter: »im übrigen war’s
 natürlich nicht der Justizrat, mit dem wir es zu tun hatten.
-Du hast wohl ebecnsalls bemerkt, daß der Mensch verkleidet
+Du hast wohl ebenfalls bemerkt, daß der Mensch verkleidet
 war. Bei dem Dämmerlicht im Zimmer sah ich es erst,
 als er den Kopf vorreckte und die Perücke sich dabei im Genick
-Lüftete. Ich hatte ja ohnedies von vornherein bezioei-felt,
+lüftete. Ich hatte ja ohnedies von vornherein bezweifelt,
 daß wir dem Justizrat gegenüberstanden.
 
 Harald sprach nur das aus, was ich ebenfalls dunkel
 geahnt hatte. Wo hätte sich wohl ein Mann in solcher Stellung,
 ein Anwalt, auf derartige Dinge eingelassen?!
 
-inzwischen hatte ich bereits feftnefieit, daß wir nebeneinander
-ungefeïselt auf einem schmalen Sofa saßen, hatte
-auch rechts von uns einen winzigen hellen leck wahrgenommen:
-ein länalices Löchlein, durch das Tageslicht her-eindrang.
+inzwischen hatte ich bereits festgestellt, daß wir nebeneinander
+ungefesselt auf einem schmalen Sofa saßen, hatte
+auch rechts von uns einen winzigen hellen Fleck wahrgenommen:
+ein längliches Löchlein, durch das Tageslicht hereindrang.
 
 »Eine Motorjacht beherbergt uns,« fügte Harald nach
 einer Weile hinzu. »Wir befinden uns in der Heckkajüte,
-die man sorgfältig verdunkelt bat. Dort rechts ist die Tür.«
+die man sorgfältig verdunkelt hat. Dort rechts ist die Tür.«
 
 Ich streckte tastend die Arme aus. Vor uns stand ein
 Tisch. Meine Finger berührten ein Schächtelchen.
@@ -547,11 +547,11 @@ Tisch. Meine Finger berührten ein Schächtelchen.
 
 »Gut — reibe eins an.«
 
-Das Hölzchen stammte auf.
+Das Hölzchen flammte auf.
 
 Und bei dem flackernden Lichtschein sahen wir, daß
 uns gegenüber auf dem anderen Wandsofa der Kajüte der
-Mann saß, der fıh als Justizrat Finster ausgegeben hatte.
+Mann saß, der sich als Justizrat Finster ausgegeben hatte.
 
 Im selben Moment schaltete er eine elektrische Taschenlampe
 ein und sagte mit seiner krächzenden Stimme:
@@ -561,103 +561,103 @@ ein und sagte mit seiner krächzenden Stimme:
 Herren!«!
 
 Die Taschenlampe hielt er in der Linken, in der Rechten
-aber ein schwarzes, matt glänzendes Etwas; eine Brow-ningpistole.
+aber ein schwarzes, matt glänzendes Etwas: eine Browningpistole.
 
 <h2>3. Kapitel.</h2>
 <h3>Die weinende Frau.</h3>
 
-Er legte die Lampe auf eine aus dem Tische stehende
-Zigarrenkiste und pries nach einer Tischglocke, deren helles
-Gebimmel draußen aus der Kajüttreppe schwere Schritte laut
+Er legte die Lampe auf eine auf dem Tische stehende
+Zigarrenkiste und griff nach einer Tischglocke, deren helles
+Gebimmel draußen auf der Kajüttreppe schwere Schritte laut
 werden ließ. Die Tür ging auf. Ein dunkelbärtiger Mann
 in einer Art Sportkostüm trat ein, zündete wortlos die über
-ie hängende Pendellampe an und verschwand
+dem Tische hängende Pendellampe an und verschwand
 wieder.
 
 Nun war es völlig hell in dem länglichen schmalen
 Raume. nun nickte »Herr Finster« uns gemütlich zu und
-meinte: »&o, jetzt können wir uns weiter unterhalten,
-Herr Harst. Ach möchte Sie zunächst von einem Irrtum des
-freien: ich bin Justizrat Berthold Finster.« Seine Stimme
-bekam etwas feindseliges, Brutales. »Derselbe Berthold
+meinte: »So, jetzt können wir uns weiter unterhalten,
+Herr Harst. Ich möchte Sie zunächst von einem Irrtum befreien:
+ich bin Justizrat Berthold Finster.« Seine Stimme
+bekam etwas Feindseliges, Brutales. »Derselbe Berthold
 Finster, der seit drei Wochen durch einen Spruch der Anwaltskammer
 von der Liste der Notare und Rechtsanwälte
 wegen — Unzuverlässigkeit gestrichen worden ist!« Er lachte
-schrill auf. »Derselbe Doktor Berthold Finster, der den ver-sahrensten
-Prozeß wieder ins rechte Gebell brachte, den die
+schrill auf. »Derselbe Doktor Berthold Finster, der den verfahrensten
+Prozeß wieder ins rechte Geleis brachte, den die
 Kollegen fürchteten, den dunkle Ehrenmänner liebten. Derselbe
-Finster, der durchaus fein größerer Lump ist,
+Finster, der durchaus kein größerer Lump ist,
 als die übrige heutige Menschheit, die sich nun erfrecht hat,
 ihn gesellschaftlich tot zu machen! Oh — sie soll meine
 Rache schon spüren, diese feine Gesellschaft! Man hat mich
-aus die Bahn des Verbrechens gedrängt. Gut denn: ich
+auf die Bahn des Verbrechens gedrängt. Gut denn: ich
 habe diese Bahn beschritten! Ich werde den Gesetzen und
 ihren Gaunern von Hütern den Krieg erklären — einen
-Krieg bis aufs Messer! Ich habe Beziehungen zu den Ka-fhbenimen
+Krieg bis aufs Messer! Ich habe Beziehungen zu den Kaschemmen
 <@pagebreak/>
-und ihren Stammaäften, zu Leuten, die Ihre ae-Ichivorenen
+und ihren Stammgästen, zu Leuten, die Ihre geschworenen
 Gegner Sind, Herr Harst —«
 
-Er geiferte jetzt. förmlich vor Wut und Haß.
+Er geiferte jetzt förmlich vor Wut und Haß.
 
 »Und diese Beziehungen reichen bis Indien,« warf Harald
-gleichmütig ein. »Sie haben den indischen Poſltbeam-ten
+gleichmütig ein. »Sie haben den indischen Postbeamten
 ermorden lassen, damit ich die Depesche der Baronin
-nicht erhielte. Der Streich mißaglückte. Ich weiß jetzt alles,
+nicht erhielte. Der Streich mißglückte. Ich weiß jetzt alles,
 Herr Finster, — alles!«
 
 Der Justizrat zuckte höhnisch die Achseln.
 
-»Geschwätz — Nenommifterei! Sie wissen nichts!
+»Geschwätz — Renommisterei! Sie wissen nichts!
 Genau So wenig, wie ich etwas von einem ermordeten Postbeamten
 weiß.«
 
 »Und von Sarawana ebenfalls nichts?«
 
-Ah — das traf! Das Saß! — Mochte Doktor Finster
+Ah — das traf! Das saß! — Mochte Doktor Finster
 sich auch noch so gut in der Gewalt haben: das Wort Sarawana,
 die Bezeichnung für jenen indischen Freiheitsbund,
 ließ ihn halb von dem Sofa hochfahren.
 
 Aber ebenso geschickt bemäntelte er diese jähe Bewegung
-höchster Ueberraschung und Bestürzung, indem er voll
-abends aufstand und wegwerfend Sagte: »Ich bin mein Lebtag
+höchster Ueberraschung und Bestürzung, indem er vollends
+aufstand und wegwerfend Sagte: »Ich bin mein Lebtag
 nicht in Indien gewesen, Herr Harst. Sobald Sie vernünftig
 mit mir reden wollen, brauchen Sie nur zu läuten.«
 
 Er deutete auf die Tischglocke und schritt rückwärts zur
 Tür, uns dauernd im Auge behaltend. Mit der Linken öffnete
-er Sie dann. Wir Sahen, daß draußen die Abenddämmerung
+er sie dann. Wir Sahen, daß draußen die Abenddämmerung
 angebrochen war. Die Tür fiel zu. Der Schlüssel
 wurde von außen im Schloß umgedreht. Wir waren allein.
 
-Aber von links her, wo eine zweite kleinere Tür wahr
-fcheinlih in eine winzige Schiffsküche führte, kam jetzt durch
+Aber von links her, wo eine zweite kleinere Tür wahrscheinlich
+in eine winzige Schiffsküche führte, kam jetzt durch
 eine Schmale Klappe in der oberen Türfüllung eine Stimme,
 die uns warnte:
 
 »Sie werden Ständig beobachtet! Verhalten Sie sich
 ruhig!
 
-»Das werden wir, lieber Freund,« nickte Harald aufgebaut
+»Das werden wir, lieber Freund,« nickte Harald gutgelaunt
 dem Unsichtbaren zu. »Bisher fühlen wir uns hier
 ganz wohl«
 
 Dann befühlte er Seine Taschen, fand Sein Zigarettenetui
 und bot auch mir eine Seiner Mirakulum an.
 
-Schweigend rauchten weil, hingen unseren Gedanken
+Schweigend rauchten wir, hingen unseren Gedanken
 nach und warfen hin und wieder einen Blick auf die Klappe
 <@pagebreak/>
 der Türfüllung, hinter deren Oeffnung undeutlich ein heller
-leck — das Gesicht eines Mannes — zu erkennen war.
+Fleck — das Gesicht eines Mannes — zu erkennen war.
 
 Das Geräusch des Motors verstummte dann. Oben
 auf Deck huschten leise Schritte hin und her. Das Plätschern
 an den Bordwänden erstarb.
 
 Harald rauchte bereits die fünfte Mirakulum. Er hatte
-sich bequem in die Salzsee zurückgelehnt und die Augen
+sich bequem in die Sofaecke zurückgelehnt und die Augen
 halb geschlossen. Sein schmales Gesicht mit der hohen intelligenten
 Stirn zeigte einen Ausdruck fast beschaulicher
 Ruhe. Er tat gerade so, als ob diese ganze Gefangennahme
@@ -666,13 +666,13 @@ an dieses Abenteuer mit einer Gleichgültigkeit, was eine
 Gefahr für uns anlangte, behandelt, die mir ein wenig unangebracht
 erschien. Denn — was wußten wir von Doktor
 Finster?! Eigentlich so gut wie nichts. Was wußten wir
-von ver Baronin Alfström und ihren Nöten: gar nichts!
-— Oder — war Harald etsva tatsächlich über diese Frau
+von der Baronin Alfström und ihren Nöten: gar nichts!
+— Oder — war Harald etwa tatsächlich über diese Frau
 weit besser unterrichtet als auch ich es ahnte? Wenn ja —
 woher hatte er diese Kenntnis erlangt?
 
 Ich gebe zu: schon so mancher Fall hatte für uns in
-recht eigentümslicher Weise begonnen. So wie dieser jedoch
+recht eigentümlicher Weise begonnen. So wie dieser jedoch
 noch kein einziger! Man hatte uns sehr raffiniert gefangen
 genommen. Man hatte uns auf diese Jacht verschleppt.
 Weshalb — weshalb wohl?!
@@ -683,23 +683,23 @@ Ich schrak zusammen.
 
 »So still, daß man vermuten könnte, die Leute haben
 die Jacht verlassen,« fügte er hinzu und blickte scharf nach
-der Türxklappe hin, »Die verdächtige Unbeweglichkeit des
-Ton Alster der s8lappenössuung spricht ebenfalls für
+der Türklappe hin. »Die verdächtige Unbeweglichkeit des
+Gesichtes hinter der Klappenöffnung spricht ebenfalls für
 eine —«
 
 Er schwieg.
 
 Auch ich hatte jetzt ein lautes qualvolles Aufschluchzen
-gehört, dem ein verzweifeltes Weinen, untermischt mit diesen
+gehört, dem ein verzweifeltes Weinen, untermischt mit tiefen
 Seufzern, folgte,
 
-So legte mir Die Hand auf den Arm und richtete
-zu
+Harst legte mir Die Hand auf den Arm und richtete
+sich auf.
 
 »Eine Frau!« flüsterte er.
 
 Dann erhob er sich, schritt auf die Tür links zu und
-— griff Dar die Klavyerösfnn=» l’indu!ich,
+— griff durch die Klappenöffnung hindurch.
 
 <@pagebreak/>
 »Bitte!« sagte er ironisch und warf eine Larve mit
@@ -721,15 +721,15 @@ Eisenblech benagelt! — Wir sind hier jetzt allein — zu dreien.
 Die Kerle haben die Jacht geräumt.«
 
 Der Ton seiner Stimme klang ganz anders. Es war
-etwas Die jäh erwachende Besorgnis darin.
+etwas wie jäh erwachende Besorgnis darin.
 
 Ein heulender Windstoß fuhr über die Jacht hin. Sie
 schwankte träge, lag wieder still.
 
 Dann kam ein wolkenbruchartiger Regen herab. in
-das fknatternde Prasseln der hekabstürzenden Wassermassen
-Kern sich nervenaufpeitschend ein kurzer jammervoller
-ei.
+das knatternde Prasseln der herabstürzenden Wassermassen
+mengte sich nervenaufpeitschend ein kurzer jammervoller
+Schrei.
 
 Ich war aufgesprungen.
 
@@ -737,47 +737,47 @@ Ich war aufgesprungen.
 Harald hastig. Wir müssen die Tür aufbrechen.«
 
 Er hatte dabei in die Schlüsseltasche der Beinkleider gefaßt
-und die winzige Glemenpistole hervorgeholt.
+und die winzige Clemenpistole hervorgeholt.
 
 »Ah — die Patronen sind aus dem Rahmen entfernt,«
 meinte er achselzuckend und steckte die Waffe wieder weg.
 
-Er half mir suchen. Die Wandschränke der Kajüte was
-regiert, ebenso die Hälften unter den Holprigen.
+Er half mir suchen. Die Wandschränke der Kajüte waren
+leer, ebenso die Kästen unter den Sofasitzen.
 
 inzwischen hatte das Unwetter draußen noch mehr zugenommen.
-Das ferne Grollen eines Gewitters, Die zur
-weilen zu leisem Wimmern ersterbenden- Klagelaute der
-Arena, die offenbar im Vorderschisf irgendwo eingesperrt
-war, dazu das Prasseln des Negers und das Heulen der
+Das ferne Grollen eines Gewitters, Die zuweilen
+zu leisem Wimmern ersterbenden Klagelaute der
+Frau, die offenbar im Vorderschiff irgendwo eingesperrt
+war, dazu das Prasseln des Regens und das Heulen der
 Windstöße regten auch uns in solchem Maße auf, daß wir
 bei der hier in der Kajüte herrschenden stickigen Schwüle
-mit schweißfeuchten Gesichbern ratlos und gequält von einer
-»ngevissen Angst dastanden.
+mit schweißfeuchten Gesichtern ratlos und gequält von einer
+ungewissen Angst dastanden.
 
-Sanfte Auen glitten bin und der.
+Harsts Augen glitten hin und her.
 
 <@pagebreak/>
 »Wuchten wir die Tischplatte los — vorwärts!« meinte
-er mit einer Amme, die seltsam heiser (lang.
+er mit einer Stimme, die seltsam heiser klang.
 
-Ich schaute ihn an. Da war etwas in feinem Blick,
+Ich schaute ihn an. Da war etwas in seinem Blick,
 das mich aufmerksam machte. Da war ohne Zweifel eine
 Gefahr, Die ich noch nicht kannte.
 
-Er senkte den Kopf. Und seine Hand wies aus die
+Er senkte den Kopf. Und seine Hand wies auf die
 Dielen der Kajüte.
 
-Und — zwischen den Ahnen der Dielen quoll Wasser
+Und — zwischen den Ritzen der Dielen quoll Wasser
 hervor, sprudelte wie winzige Fontänen höher und höher.
 
 »Die Jacht sinkt,« sagte er mit verbissener Wut. »Die
 Schufte haben uns hier eingesperrt, wollen uns und die
-erkennen — 203 denn — herunter mit der Tischplatte!«
+Frau ersäufen. — Los denn — herunter mit der Tischplatte!«
 
-Eine eisige Hand schien mir den Rücken entlangzu-streichen
+Eine eisige Hand schien mir den Rücken entlangzustreichen
 
-»So saß Doch mit an!« meinte Harald ungeduldig.
+»So faß Doch mit an!« meinte Harald ungeduldig.
 
 Ein Ruck — noch einer, und die schwere Tischplatte
 war losgerissen.
@@ -790,23 +790,23 @@ zusammen.
 
 Die obere Füllung zersplitterte.
 
-na na drei — vier Hiebe, und auch das Eisenblech
-ölte sich
+Noch drei — vier Hiebe, und auch das Eisenblech
+löste sich
 
-Harald stieß es vollends nach außen, Ans sich durch
-die vg
+Harald stieß es vollends nach außen, zwängte sich durch
+die Oeffnung.
 
-Die Taschenlampe her!«
+»Die Taschenlampe her!«
 
-Berthold Finster hatte sie auf dem Tische liegen lasse
-sich hatte sie auf das Sofa gelegt, reichte sie Harst. Er ha
-mir durch das Loch. Unsere Stiefel waren naß.
+Berthold Finster hatte sie auf dem Tische liegen lassen.
+ich hatte sie auf das Sofa gelegt, reichte sie Harst. Er half
+mir durch das Loch. Unsere Stiefel waren naß. Das
 Wasser stand bereits eine Handhoch in der Kajüte.
 
 Nun befanden wir uns in der winzigen Küche, befanden
 uns vor einer neuen Tür.
 
-Hörten jenseits das Weinen der Frau — ein so jam-mevrvolles
+Hörten jenseits das Weinen der Frau — ein so jammervolles
 Weinen, daß Harald keuchend flüsterte:
 
 »Das ist mehr als Todesangst! Das ist der verzweifelte
@@ -821,7 +821,7 @@ Donner.
 
 Und noch ein Schrei.
 
-Bis Harald den Kopf durch die Oeffnung schob un in
+Bis Harald den Kopf durch die Oeffnung schob und in
 die kleine Segelkammer hineinleuchtete.
 
 »Leer — leer!«
@@ -829,48 +829,48 @@ die kleine Segelkammer hineinleuchtete.
 Er kroch hindurch. ich blieb dicht Hinter ihn!
 
 Die Segelkammer war wirklich leer. Aber dort — dort
-stand die kleine Tür nach dem. Vorschiff offen. Dort war
-das Schloß der Tür mit irgend einem Instrument heraus
-gebrochen worden.
+stand die kleine Tür nach dem Vorschiff offen. Dort war
+das Schloß der Tür mit irgend einem Instrument herausgebrochen
+worden.
 
 Harald bückte sich, hob aus dem auch hier auf dem Fußboden
-hin und der fchvappenden Waffen die Eisenspitze eines
+hin und der schwappenden Wasser die Eisenspitze eines
 Bootshakens auf.
 
 Sagte kopfschüttelnd: »Ich rate stets daneben, mein
 Alter! Die Frau war eine Gefangene wie wir, war keine
 Lebensmüde!«
 
-Und dann ging’s durch die offene Vorderluke an Der
+Und dann ging’s durch die offene Vorderluke an Deck
 — hinaus in den Platzregen des tobenden Gewitters.
 
 Blitze zuckten herab. Ihr Lichtschein erstarb nur zu
 schnell in den dichten Schleiern der stürzenden Wassergarben.
 
 Die Frau war nicht mehr an Bord. Sie mußte die
-Kleider abgeworfen und sich auf ihre Schvimmtunit un
+Kleider abgeworfen und sich auf ihre Schwimmkunst und
 Ausdauer verlassen haben.
 
 Die Jacht sank jetzt zusehends.
 
 »Runter mit den Sachen!« meinte Harald. »Uhr,
-Bau und so weiter im Hemde auf dem Kopf befestigen!«
+Brieftasche und so weiter im Hemde auf dem Kopf befestigen!«
 
-in darauf ließen wir uns völlig nackt ins Wasser
+Gleich darauf ließen wir uns völlig nackt ins Wasser
 gleiten.
 
 Wir wußten nicht, wo wir uns befanden — ob auf
-einen See, einem ne ankauft wo, Wie schwammen
-aufs Geratewohl nach)
+einem See, einem Fluß oder sonst wo. Wir schwammen
+aufs Geratewohl nach Süden.
 
-Eine Viertelstunde Maus erreichten wir basWien, stier
-gen an Land. Das Unwetter war vorüber.
+Eine Viertelstunde drauf erreichten wir das Ufer, stiegen
+an Land. Das Unwetter war vorüber.
 
 »Ein See,« sagte Harald und deutete auf ein paar ferne
 Lichtpünktchen.
 
-Nur mit dem Hemde bekleidet, Merkten wir den He
-fidel des Fährgasthauses des Dorfes Kaputh heraus. Der
+Nur mit dem Hemde bekleidet, klopften wir den Besitzer
+des Fährgasthauses des Dorfes Kaputh heraus. Der
 Mann glaubte uns ohne weiteres, daß unser Ruderboot bei
 <@pagebreak/>
 dem Gewitter umgeschlagen sei, half uns mit Kleidern aus
@@ -1017,7 +1017,7 @@ war
 »Ja — deshalb. Doktor Finster, glaube ich, wird uns
 »hier in die Arme laufen.«
 
-Er zog die Clement aus ver Schlüsseltasche, schob die
+Er zog die Clement aus der Schlüsseltasche, schob die
 Sicherung zurück und steckte die Heine Mehrlademwmafie in
 die rechte Jackentasche.
 
@@ -1148,9 +1148,9 @@ Sie trat zögernd ein, warf einen scheuen Blick auf die
 Schläferin und sank mit einem trostlosen Aufschluchzen in
 den nächsten Sessel.
 
-Dieses Weinen, diese verzweifelte, hemmunaslose Trä-nenflut,
+Dieses Weinen, diese verzweifelte, hemmungslose Tränenflut,
 rief mir sofort die Szenen in der Kajüte der gesunkenen
-Jacht ins Gedächtnis. zurück.
+Jacht ins Gedächtnis zurück.
 
 Daß die Baronin uns zu täuschen suchte, daß sie niemals
 den Inder herbestellt hatte und daß sie es gewesen,
@@ -1209,8 +1209,8 @@ hatte dicht vor dem Inder halt gemacht.
 Wie kommst Du zu der Bekanntschaft mit Doktor Finster
 ?« fragte er den mit stoischer Ruhe geradeaus ins Leere
 dreinblickenden. »Sage die Wahrheit und ich will gestatten,
-daß die Baronin mit Dir im Nebenzimmer allein — ver
-Handelt.« Dieses »verhandelt« klang ironisch, klang so, als
+daß die Baronin mit Dir im Nebenzimmer allein — verhandelt.«
+Dieses »verhandelt« klang ironisch, klang so, als
 wollte Harald andeuten; »ich weiß was Ihr beide zu besprechen
 habt!«
 
@@ -1240,7 +1240,7 @@ Und der Inder antwortete hastig:
 »Ja — es ist So!«
 
 Harald Sah dem Manne merkwürdig forschend in das
-undurchdringliche Aſiatengeſicht.
+undurchdringliche Asiatengesicht.
 
 »Es ist gut. Du darfst die Baronin Sprechen,« erklärte
 er darauf, nahm ihm das als Handfessel benutzte Taschentuch
@@ -1273,7 +1273,7 @@ auf der Hut zu Sein.«
 Wir trennten uns, um weniger aufzufallen. Der It
 der wandte sich der Berliner Straße zu, bog dann rechts
 nach dem Bayrischen Platz ab. Er Schritt Sehr Schnell dahin,
-kam in die Fnnsbrucker Straße und klopfte hier gegen den
+kam in die Innsbrucker Straße und klopfte hier gegen den
 herabgelassenen Rollvorhang eines Erdaeſchoßſenſlers. Nach
 einer Weile verschwand er in der Haustür, die jemand ihm
 aufgeschlossen hatte.
@@ -1306,7 +1306,7 @@ bringen.«
 Dann lief er wieder zurück dem Hause zu.
 
 »Endlich — endlich!« meinte Harald. »Also das Kind
-haben die Schurken ebenfalls geraubt — Frau Inges acht-jähriges
+haben die Schurken ebenfalls geraubt — Frau Inges achtjähriges
 Töchterchen. — Heraus mit den Pistolen, mein
 Alter! Die Schufte sollen sich wundern!« -
 
@@ -1321,7 +1321,7 @@ Im selben Moment richtete ich mich auf.
 
 »Halt!« rief Harst drohend.
 
-Es war ein Zufall, daß eine Patrouille der Schuh-polizei
+Es war ein Zufall, daß eine Patrouille der Schutzpolizei
 gerade jetzt vom Stadtpark her die Straße entlanggerudert
 kam. Auch ohne die Hilfe der beiden Beamten
 hätten wir die zwei Inder auf der nächsten Polizeiwache
@@ -1409,7 +1409,7 @@ meinte Harst in freundlich überredendem Tone.
 »Niemals!« und Gunvor schlug die Hände vor das
 Gesicht und weinte — weinte so trostlos, daß mit ihr nichts
 anzufangen war. Ihre Nerven versagten eben. Und diese
-Nerven waren durch den häufigen Gebrauch des verderb-lichen
+Nerven waren durch den häufigen Gebrauch des verderblichen
 Giftes völlig zerstört.
 
 Dann erschien Frau Inge
@@ -1468,7 +1468,7 @@ nicht aufzublicken.
 von Ihnen, Frau Baronin?« fragte Harald nun. »Die
 Leute müssen doch offenbar irgend etwas von Ihnen verlangt
 haben — auch von ihrem Gatten, — etwas, das
-vielleicht unersüllbar war.«
+vielleicht unerfüllbar war.«
 
 Frau Inge rannen ein paar Tränen über die Wangen.
 
@@ -1555,7 +1555,7 @@ stärker einzuschüchtern. Gegen diese Verbrecher werden wir
 Sie stützen. Und die Schuß hat schon jetzt begonnen.
 die Wohnung hier wich polizeilich beobachtet Sie selbst
 werden in ihrem Interesse ständig überwacht. Soeben
-hörten auch Sie wohl auf der Straße unten das helle Hu-pensignal
+hörten auch Sie wohl auf der Straße unten das helle Hupensignal
 Es ist ein Zeichen für mich gewesen. Mein
 Freund Kriminalkommissar Bechert ist zur Stelle, Ihre Zofe
 wird sofort verhaftet werden.«
@@ -1654,10 +1654,10 @@ Kalkutta kennengelernt. Dort hatten sie auch geheiratet.
 Der Baron Holger Alfström war um fünfzehn Kahle älter
 als seine Frau. Die Ehe gestaltete sich trocknen sehr glücklich.
 Dann hatte der Generalkonsul das Unglück, beim
-Ausprobieren einer neuen Repetierpistole seinen Lieblings-diener
+Ausprobieren einer neuen Repetierpistole seinen Lieblingsdiener
 Ahmed zu erschießen. Nach dessen Tode erst stellte
 sich heraus, daß Ahmed Mitglied des Sarawana-Bundes
-gewesen, über den mancherlei unbewiesene Schauernerüchte
+gewesen, über den mancherlei unbewiesene Schauergerüchte
 umgingen. Der Baron entschädigte die Angehörigen Ahmeds
 überreich. Der Bund selbst nahm damals April 1920
 von dem Vorfall keinerlei Notiz. Es war eben ein unseliges
@@ -1689,7 +1689,7 @@ soll Dir verziehen sein. Andernfalls wirst Du
 sterben. Solltest Du die Polizei zu Deinem Schuß anrufen,
 so werden Dein Weib und Dein Kind Dein Schicksal
 teilen. Lege das Opernglas in den großen eisernen Briefkasten,
-der sich an der Imponierte des Voraartengitters
+der sich an der Imponierte des Vorgartengitters
 Derart Hauses befindet.«
 
 Auf dieses Schreiben hin begann der Baron, der seiner
@@ -1726,7 +1726,7 @@ davon Willen. Auch er hatte über den Sarawana mancherlei
 gehört. was ganz dazu angetan war, seine Angst vor
 den Andern noch zu erhöhen. immer wieder betonte er seiner
 Frau gegenüber, daß er nicht wüßte, was es mit dem
-Perlmutteralafe feiner Mutter auf sich haben könnte. Er
+Perlmutterglase feiner Mutter auf sich haben könnte. Er
 sowohl wie seine Gattin besannen sich sehr gut auf dieses
 Glas, das der komm’ feiner Zeit als Geschenk in Kalkutta
 bei einem Juwelier gekauft hatte. Wo es geblieben, war
@@ -1763,7 +1763,7 @@ der qualvollen Auffrischung dieser Erinnerungen erst etwas
 3m erholen, fragte Harald in rücksichtsvollster Weise nach
 verschiedenen Einzelheiten.
 
-Es ergab sich so, daß auch das Personal ver Villa an
+Es ergab sich so, daß auch das Personal der Villa an
 jenem Morgen des 13. März über unnatürliche Mattigkeit
 ersucht hatte, wie die Baronin, durch die eigene Müdigkeit
 staubig geworden, durch vorsichtige Fragen festgestellt hatte.
@@ -1873,7 +1873,7 @@ kommen.«
 
 »Sie hatten das Geld bei sich?«
 
-»Ja. In Hunderttausendmarkschcinen. — Der eine
+»Ja. In Hunderttausendmarkscheinen. — Der eine
 der Männer bat mich, auf der Bank am Steuer neben ihm
 <@pagebreak/>
 Platz zu nehmen, Er hatte eine sehr unangenehme Stimme,
@@ -1926,7 +1926,7 @@ dazu das Splittern von Holz. In meiner besinnungslosen
 Furcht stürmte ich an Deck, zumal ich ja merkte, daß
 die Jacht sank. So riß mir die Kleider vom Leibe, warf
 sie ins Wasser und schwamm auf gut Glück, umtobt von dem
-Unwetter, davon, erreichte eine einzelne. Villa, fand mild-tätige
+Unwetter, davon, erreichte eine einzelne. Villa, fand mildtätige
 Seelen, die mir mit Kleidungsstücken aushalfen und
 mich liebevoll bemwirteten. Ich gab mich für eine vom Gewitter
 überraschte Teufelin aus. Dann kehrte ich nach
@@ -1960,7 +1960,7 @@ Einer der Beamten erschien, meldete, daß das Polizeiauto
 unterwegs in einer der engen Straßen am Alexanderplatz
 mit einem anderen kollidiert sei, daß die vier Insassen
 dieses Autos mit Gummiknütteln Anna Holm gewaltsam
-befreit hätten und mit ihr davongejaat seien. »Wir
+befreit hätten und mit ihr davongejagt seien. »Wir
 kamen gar nicht dazu, unsere Dienstpistolen zu ziehen,
 er Kriminalkommissar,« erklärte der Beamte. »Das
 Ganze spielte sich so fabelhaft schnell ab, daß wir erst so
@@ -1993,7 +1993,7 @@ die zweite Ueberraschuno gesorgt haben
 Nun — Harald behielt recht. Die Wache hatte vor
 einer Viertelstunde telephonisch den Befehl erhalten, die
 Inder im Mietauto nach dem Präsidium zu schaffen. Zwei
-Schipobaamte waren mitnefahren. Dann hatte sich schon in
+Schipobaamte waren mitgefahren. Dann hatte sich schon in
 der dritten Querstraße genau dasselbe ereignet wie beim
 Transport Anna Holms: die Verhafteten waren gewaltsam
 befreit worden. —
@@ -2030,7 +2030,7 @@ Und — das Opernglas der Baronin Sigrid spielt auch bei
 diesem Morde eine Hauptrolle, behaupte ich weiter.«
 
 Diese Ausführungen Haralds hatten fraglos sehr viel
-für sich. Sie leuchteten mir durchaus ein. Nur dieses Perl-mutteropernglas
+für sich. Sie leuchteten mir durchaus ein. Nur dieses Perlmutteropernglas
 kam mir bei alledem ebenso kläglich vor
 wie der Hosenknopf, den Sherlock Holmes am Tatorte
 findet, eben zu phantastisch, zu romanhaft! — Ein Opern
@@ -2067,7 +2067,7 @@ Das Auto hielt.
 
 Gier darauf saßen tote in Haralds vornehmem Arbeitszimmer
 in der gemütlichen japanischen Ecke vor dem
-singenden, von der Gpiritusflanme unfunmtn Nickel-fessel
+singenden, von der Gpiritusflanme unfunmtn Nickelfessel
 <@pagebreak/>
 In der Kaffeekanne dufteten die früh gemalte
 nen Stafleebohnen.
@@ -2141,12 +2141,12 @@ in der Türöffnung nach dem Bibliothekszimmer hin
 stand zwischen den schweren türkischen Vorhängen ein graubärtiger
 Mann in Briefträgeruniform.
 
-In der Rechten eine jener flachen kleinen Weften-taschenrepetierpistolen,
+In der Rechten eine jener flachen kleinen Westentaschenrepetierpistolen,
 wie die Waffenindustrie sie neuerdings
 als nützliche Bealeitgegenslände für die schubßbe-dürftige
 Menschheit in diesen unsicheren Nachkriegszeiten
 herstellt — Spielzeuge scheinbar, und doch trotz des geringen
-Kalibers Nickelmantelgeschosse fassend, die beide Schä-delwände
+Kalibers Nickelmantelgeschosse fassend, die beide Schädelwände
 glatt durchschlagen.
 
 »Guten Morgen,« sagte Doktor Finster krächzend.
@@ -2166,7 +2166,7 @@ hinzu:
 »Sie beide haben nun einen Vorgeschmack dessen bekommen,
 was ich zu leisten imstande bin. Man hat mich,
 den bisherigen Verteidiger dunkler Existenzen, in die
-Dunkelheit hinabgedränat. Die Menschheit wird den.
+Dunkelheit hinabgedrängt. Die Menschheit wird den.
 Spruch der Anwaltskammer bereuen, der mir das — hm
 — das ehrliche Brot raubte. Das Wohnungsamt hat mich
 aus meiner Behausung gejagt, da ich die fünf Zimmer als
@@ -2242,7 +2242,7 @@ gespannt.
 »Ja. Die Bedingungen wären: Beantwortung von
 Sechs Kragen —  mahrheitsaetreue Beantwortung. Dann
 werde ich das Opernglas, sobald ich es gefunden, in den
-Briefkasten der Alsströmschen Villa in Südende legen, ohne
+Briefkasten der Alfströmschen Villa in Südende legen, ohne
 Ihnen dabei eine Falle zu stellen.«
 
 »Gut. Sechs Fragen. Los denn!«
@@ -2330,7 +2330,7 @@ Und dabei floß die heiße Mokkabrühe aus der Tülle
 Der Kaffeekanne auf die Untertasse, daß es nur so plätscherte.
 
 »Oh!« rief Harst. »Das Tischtuch —! Schraut, rasch
-eine Serviette her. Die japanische Seidendede befomumt
+eine Serviette her. Die japanische Seidendecke befomumt
 sonst Flecken!«
 
 Im Moment hatte Ich begriffen.
@@ -2392,7 +2392,7 @@ Sie zu einem bestimmten Grade zu meinem Vorteil zu
 <@pagebreak/>
 Augen zu wollen. Ich halte unseren Pakt für abgeschlossen,
 verlange nur noch einige Antworten. — Anna Holm hat
-am 13.. März die Bewohner der Alsströmschen Villa durch
+am 13.. März die Bewohner der Alfströmschen Villa durch
 Schlafmittel betäubt gehabt und dann die Mörder eingelassen,
 Wer waren diese Mörder?«
 
@@ -2521,7 +2521,7 @@ drei Tische weiter saß Harald.
 Und um uns herum scheinbar Leute, die uns nichts
 angingen — scheinbar!
 
-Ein Kellner umshlängelte meinen Tisch. Sich bestellte
+Ein Kellner umschlängelte meinen Tisch. Sich bestellte
 Bouillon.
 
 Dann kam ein Dienstmann, legte einen Gepäckschein
@@ -2570,7 +2570,7 @@ vorbestrafte Taschendiebe von elegantem Aeußeren
 waren. —
 
 Im Aschinger war großer Betrieb. Diese Massen-fpeifunasftätten
-wurden in diesen Zeiten des Papiermark-jchwundes
+wurden in diesen Zeiten des Papiermarkschwundes
 mehr denn je auch von dem besseren Publikum in
 Anspruch genommen.
 
@@ -2591,7 +2591,7 @@ rücken schon noch schon bitten zusammen.«
 einer Weile flüsterte Bechert mir dann zu:
 
 »Der dritte am Tische ist der Geheimrat Hoßberg, der
-Mieter der Alsströmschen Villa. Harst hat ihn telephonisch
+Mieter der Alfströmschen Villa. Harst hat ihn telephonisch
 herbestellt. Wir müssen außerordentlich vorsichtig fein,
 Finsters Garde ist zahlreicher, als wir anfangs ahnten,
 »In der Blücherstraße allein haben wir vier Spione festgestellt.
@@ -2699,7 +2699,7 @@ Und eine halbe Stunde später saßen Harald und ich in
 derselben wenig beneidenäwerten äußeren Verfassung auf
 dem grünen harten Plüschsofa von Zimmer Nr. 18: mit
 gefesselten Händen, jeder einen gut gesicherten Knebel im
-Munde, jeder mit den Füßen an eins der vorderen Sosa-beine
+Munde, jeder mit den Füßen an eins der vorderen Sofabeine
 Unten,
 
 Saßen mit benommenem Schädel da, waren soeben
@@ -2711,7 +2711,7 @@ Jetzt wirkte er um gut fünfzehn Jahre jünger.
 
 Er verstand sich zu maskieren. Das mußte man ihm
 lassen. Und — er verstand sich auch auf andere Dinge —
-leider! Das sagte er uns jetzt in hobntriefender Rede,
+leider! Das sagte er uns jetzt in hohntriefender Rede,
 bewies uns, daß er zwei harmlose Taschendiebe auf dem
 Stettiner Bahnhof nur dazu benutzt hatte, seine wirklichen
 Spione ganz im Dunkeln zu halten.
@@ -2782,11 +2782,11 @@ wir uns nicht unschwer befreien können?!
 
 Haralds Blick richtete sich zuerst als Antwort auf die
 Kante des großen Aerztliches dicht vor uns. Der Tisch
-war sehr Dicht an das Sofa herangerüdt worden. Und —
+war sehr Dicht an das Sofa herangerückt worden. Und —
 jetzt sah ich erst: man hatte in die Kante offenbar feine
 Löcher gebohrt, hatte in die Löcher in Abständen von etwa
 <@pagebreak/>
-fünf Zentimeter starke, spitze Stopsnadeln mit den Spitzen
+fünf Zentimeter starke, spitze Stopfnadeln mit den Spitzen
 nach uns zu hineingedrückt.
 
 Und — diese Spitzen schillerten matt grünlich, hatten
@@ -2856,14 +2856,14 @@ Falten schlug. Auf dem Schenkel glänzte der Stoff.
 63 war eine altaediente Hofe. Der Mann konnte nur eine
 recht schäbige Kluft tragen.
 
-Hm, — Semamel-Ede sollte sein Spivname sein.
+Hm, — Semamel-Ede sollte sein Spitzname sein.
 
 Semmel-Ede! Den Namen hatte ich doch bereits gehört.
 »Semmel« — also war der Mann wahrscheinlich
 blond. Und Ede — Steward also! Der oder ein blonder
 Eduard!
 
-Mit einem Male klirrten die Sprungsedern des Sofas
+Mit einem Male klirrten die Sprungfedern des Sofas
 leise. Harst hatte sich bewegt.
 
 Ich schaute hin.
@@ -2925,7 +2925,7 @@ hier im Schranke saßen, sagte mir die Dienstmannshose,
 deren Alterspatina mir schon auf dem Bahnhof imponiert
 hatte. Außerdem fiel mir nachher ein, daß ich auch mal
 Ihren Spivbnamen gehört hatte. Semmel-Ede klingt nur
-zu harmlos für Sie blonden Verbrechergreiser — viel zu
+zu harmlos für Sie blonden Verbrechergreifer — viel zu
 harmlos. — So, nun werden Schraut und ich uns erst mal
 die Stahlfesseln abnehmen. Es sind ja nur Schnappfesseln.«
 
@@ -2965,7 +2965,7 @@ or ne Nachtstunden dürften dann die Entscheidung
 bringen!« —
 
 Ja — sie brachten die Entscheidung, brachten die
-lebten aufregenden Momente des Problems »Perlmutter-opernalas».
+lebten aufregenden Momente des Problems »Perlmutteropernglas».
 —
 
 Um neun Uhr ging ein schweres Gewitter über den
@@ -2974,7 +2974,7 @@ dabei wie mit Eimern. Abermals goß es so. Schon am
 Nachmittag hatte Berlin eine solche Sintflut erlebt, die uns
 das Verlassen des Hotels erleichtert hatte. Und dieser neue
 Wolkenbruch machte es uns möglich, eine der uralten hin
-Vorgarten der Alfftrömichen Villa unbemerkt zu
+Vorgarten der Alfströmschen Villa unbemerkt zu
 erklettern.
 
 Nachdem das Unwetter gegen halb elf endlich vorüber
@@ -3047,7 +3047,7 @@ um die halb ohnmächtige Frau Junge in Empfang zu nehmen.
 Wir brachten sie in den Salon. Sie gab jetzt jeden
 Widerstand auf, das traurige Geheimnis weiter zu hüten:
 ihr Mann hatte den Diener Ahmed erschossen, weil dieser
-ihn dabei überrascht hatte, wie er, aus Leidenschaft Edel-steinsammler,
+ihn dabei überrascht hatte, wie er, aus Leidenschaft Edelsteinsammler,
 zwei von Einem Hehler gekaufte Diamanten,
 die aus dem Museum in Kalkutta gestohlen waren, in
 Watte verpackt in den Rohren des Opernglases verbarg.
