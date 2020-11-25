@@ -888,12 +888,12 @@ der Kufsteiner Straße.
 
 »Wenn wir Glück haben, sind wir vor der Baronin
 zur Stelle,« meinte Harald, der sich genau wie ich eine
-Maske als A bescheiden gefkfleideter Herr zurechtgemacht
+Maske als älterer bescheiden gekleideter Herr zurechtgemacht
 hatte. »ich nehme bestimmt an, daß sie es war, die vor
 uns schwimmend flüchtete. Freilich — bisher ist bei diesem
 Abenteuer stets das Gegenteil von dem eingetroffen, was
 ich vermutete. Vielleicht wird’s auch in diesem Punkte so
-fein.«
+sein.«
 
 »Und — der Kern des Ganzen? Du kennst ihn?«
 fragte ich gespannt.
@@ -902,23 +902,23 @@ fragte ich gespannt.
 habe während der Ueberfahrt von Bombay nach Brindisi
 alle erreichbaren älteren Zeitungen nach altem Rezept durchstöbert
 und dabei etwas gefunden: eine kurze Notiz über
-den Selbstmord des Barons ’ Holger Alfström, ehemaligen
+den Selbstmord des Barons Holger Alfström, ehemaligen
 schwedischen Generalkonsuls in Kalkutta in Indien. Er
 hat sich aufgeknüpft. Für einen Baron eine etwas schlichte
-Todesart. Ausfaeknüpft in dem Arbeitszimmer seiner Villa
+Todesart. Aufgeknüpft in dem Arbeitszimmer seiner Villa
 in Südende-Berlin. Das geschah am 13. März. Und am
-20. April erhielten wir in Biraniri die Depesche seiner Gattin
+20\. April erhielten wir in Biraniri die Depesche seiner Gattin
 Inge geborenen Malling, Tochter des verstorbenen deutschen
-Konsuls Malling. Sohn mit Vornamen. Niemand
-weiß, weshalb Holger Alfström sich den Zoo gegeben hat.
+Konsuls Malling. John mit Vornamen. Niemand
+weiß, weshalb Holger Alfström sich den Tod gegeben hat.
 <@pagebreak/>
-Glänzende Vermögensverhältnisse, eine glückte, wenn
+Glänzende Vermögensverhältnisse, eine glückliche, wenn
 auch kinderlose Ehe und ein angesehener Name machten den
 Selbstmord nach jener Zeitungsnotiz zum vollkommenen
 Rätsel. — So, mehr weiß auch ich nicht. Alles übrige sind
-Vermutungen. — Ah — das Auto hält Steigen wir aus.«
+Vermutungen. — Ah — das Auto hält. Steigen wir aus.«
 
-Harst bezahlte den Chauffeur Dann gingen wir weiter
+Harst bezahlte den Chauffeur. Dann gingen wir weiter
 die Kufsteiner entlang bis Nr. 161, dem vornehmen
 Miethaus, in dem die Witwe Holger Alfströms nunmehr
 die rechte Seite der zweiten Etage bewohnte.
@@ -952,8 +952,8 @@ schrammte auf Metall. Dann ein Knacken, und die
 Tür ging auf.
 
 »Nur der Drücker war’s,« meinte Harald. »Seltsam
-genug — nur der Drüber! Und nicht einmal Die Sperre
-fette ist vorgelegt.«
+genug — nur der Drücker! Und nicht einmal Die Sperrkette
+ist vorgelegt.«
 
 Wir traten ein, schlossen die Flurtür, fanden den
 Schalter und ließen die Ampel des Korridors aufflammen.
@@ -963,18 +963,18 @@ das neben der Badestube lag. Das Bett war zugedeckt.
 Der Raum sah unbewohnt aus.
 
 »Nun die anderen Räume,« sagte er halblaut. »Die
-Baronin dürfte wirklich nicht hier fein, obwohl —«
+Baronin dürfte wirklich nicht hier sein, obwohl —«
 Er hatte eine Flügeltür geöffnet, hatte den Lichtkegel in
 das Dunkel hineinfallen lassen.
 
 <@pagebreak/>
-Und der grelle Lichtkreis lag legt gib — lag aus dem
+Und der grelle Lichtkreis lag jetzt still — lag auf dem
 Diwan rechts an der Wand.
 
 Ich drängte mich weiter vor.
 
 Dort ruhte eine blonde Frau in kostbarem gestickten
-dunkelroten Kimono. Die linke Hand hing schlaft herunter.
+dunkelroten Kimono. Die linke Hand hing schlaff herunter.
 Und auf dem Felle vor dem Diwan blinkte eine winzige
 Spritze, während auf dem Tischchen dicht dabei das
 Kästchen für diese Spritze und ein Fläschchen stand.
@@ -984,7 +984,7 @@ vielleicht Vergessen durch das verführerische Gift.«
 
 Wir betrachteten die blonde Frau, deren Brust sich
 regelmäßig hob und senkte, mit einer Spannung, als
-müßte sie jeden Augenblick, durch den Lichtschein geweht,
+müßte sie jeden Augenblick, durch den Lichtschein geweckt,
 sich aufrichten.
 
 Nichts geschah.
@@ -993,43 +993,43 @@ Da schritt Harald weiter, winkte mir zu, die Tür ins
 Schloß zu drücken.
 
 Das Zimmer war als Damensalon eingerichtet. Kostbare
-Perser, Gobelins, ftilechte, wundervolle Rokokomöbel
+Perser, Gobelins, stilechte, wundervolle Rokokomöbel
 bis auf den modernen Diwan, Gemälde, ein paar indische
-Baten — alles verriet Geschmack und Reichtum.
+Vasen — alles verriet Geschmack und Reichtum.
 
 Harst setzte sich in einen der kleinen Sessel, nachdem er
-die Stehlampe aus dem Schreibtisch eingeschaltet hatte.
-Der aelbjeidene Schirm dämpfte das Licht so stark, daß nur
-die Schreibtifchhlatte hell beleuchtet war. Der übrige Raum
+die Stehlampe auf dem Schreibtisch eingeschaltet hatte.
+Der gelbseidene Schirm dämpfte das Licht so stark, daß nur
+die Schreibtischplatte hell beleuchtet war. Der übrige Raum
 lag im Halbdunkel da.
 
 Ich zog einen Stuhl neben Haralds Sessel.
 
-»Weshalb West Du sie nicht?«
+»Weshalb weckst Du sie nicht?«
 
 »Weil — weil ich vermute daß sie Besuch erwartet.
 Sobald wir hören, daß jemand kommt, verschwinden wir
 hinter den seidenen Fenstervorhängen.«
 
 »Besuch? Weil die Tür nicht durch die Kette gesichert
-war
+war?«
 
 »Ja — deshalb. Doktor Finster, glaube ich, wird uns
-»hier in die Arme laufen.«
+hier in die Arme laufen.«
 
 Er zog die Clement aus der Schlüsseltasche, schob die
-Sicherung zurück und steckte die Heine Mehrlademwmafie in
+Sicherung zurück und steckte die kleine Mehrladewaffe in
 die rechte Jackentasche.
 
 Dann horchten wir. Wenn unten auf der Straße ein
 <@pagebreak/>
-Auto vorüberfuhr oder eine müde Droschke Den gen,
-gaben wir doppelt scarf auf jedes Geräusch acht.
+Auto vorüberfuhr oder eine müde Droschke vorbeiklapperte,
+gaben wir doppelt scharf auf jedes Geräusch acht.
 
 Harst gähnte leise.
 
 »Wenn man rauchen dürfte,« meinte er flüsternd. Und
-wollte noch etwas hinzufügen ruckte Ins drückte meinen
+wollte noch etwas hinzufügen, ruckte zusammen, drückte meinen
 Arm, schob den Kopf vor.
 
 »Kommt jemand?« fragte ich.
@@ -1042,34 +1042,34 @@ Und er stand rasch auf.
 
 Drei Schritt zum Schreibtisch — Die Lampe erlosch.
 
-Dann mehr links ein weißer Lichtbliß.
+Dann mehr links ein weißer Lichtblitz.
 
-Harald hatte die Portiere zur Seite gerissen, hatte Dich
+Harald hatte die Portiere zur Seite gerissen, hatte Die
 Taschenlampe eingeschaltet zwischen den Zähnen, hielt dem
-Manne, der mit tief ins Gesicht gezogener Schlappmiürbe
-Starr vor Schreck dastand, die Clement entgegen und sagte
+Manne, der mit tief ins Gesicht gezogener Schlappmütze
+starr vor Schreck dastand, die Clement entgegen und sagte
 gedämpften Tones:
 
-»Ihre Stiefelspitzen warst sichtbar, Verehrtester! —
-Streben Sie mal die Arme aus. So —! — Schraut, Dein
+»Ihre Stiefelspitzen waren sichtbar, Verehrtester! —
+Strecken Sie mal die Arme aus. So —! — Schraut, Dein
 Taschentuch als Handfessel!«
 
 Der Mann gehorchte.
 
 Während ich ihm das Taschentuch kunstgerecht um die
-Handgelenke knotete, fügte Harst hinzu
+Handgelenke knotete, fügte Harst hinzu:
 
 »Ein Inder der Hautfarbe nach! — Wer bist Du?«
 
-Die lebten Worte sprach or englisch. Er hielt die
+Die letzten Worte sprach er englisch. Er hielt die
 Taschenlampe jetzt in der Linken und schob dem Manne
-rasch die Müde aus der Stirn.
+rasch die Mütze aus der Stirn.
 
-Inder war ein graubärtiger, mittelgroßer Mensch,
-trug einen dunklen leichten Ulster E einen grünen weichen
-Kronen zum aleichfarbenen Elenden!
+Der Inder war ein graubärtiger, mittelgroßer Mensch,
+trug einen dunklen leichten Ulster und einen grünen weichen
+Kragen zum gleichfarbenen Oberhemd.
 
-kam schwarzen starren Augen gen fest auf Haralds
+Seine schwarzen starren Augen ruhten fest auf Haralds
 Gesicht.
 
 »Wer bist Du, Sahib?« erwiderte er langsam, ohne
@@ -1078,13 +1078,13 @@ ohne jede Verlegenheit — fast in herausforderndem Tone.
 »Keiner vom Sarawana-Bunde wie Du!« sagte Harst leise,
 aber nicht minder drohend.
 
-las »Sarawana« wirkte auch hier. Der Inder fuhr
-fihtlin zusammen.
+Das »Sarawana« wirkte auch hier. Der Inder fuhr
+sichtlich zusammen.
 
 <@pagebreak/>
-»Wie viele fein he hier in Berlin?« forschte Harald
+»Wie viele seid ihr hier in Berlin?« forschte Harald
 weiter. »Lüge nicht! Ihr habt den Baron Alfström aus
-»Arena aha Ihr seid Abgesandte des Sarawana-Bundes!«
+Rache ermordet. Ihr seid Abgesandte des Sarawana-Bundes!«
 
 Ueber das wieder völlig teilnahmlose Gesicht des Inders
 flog ein verächtliches Lächeln.
@@ -1098,15 +1098,15 @@ bewies, daß der Inder auch eine Verhaftung nicht fürchtete.
 
 Harald winkte mir. »Bewache ihn!«
 
-Und zu dem Gefesselten: »Da — Seh’ Dich in die
-Gefastet Gehorche!«
+Und zu dem Gefesselten: »Da — setz’ Dich in die
+Sofaecke! Gehorche!«
 
-Der Mann überlegte. Seine Augen war zu der
+Der Mann überlegte. Seine Augen eilten zu der
 Schläferin hin, kehrten zu Harsts Gesicht zurück.
 
-Dann feste er sich wirklich.
+Dann setzte er sich wirklich.
 
-Harst gab mir die Taschenlampe. ich hatte meine Element
+Harst gab mir die Taschenlampe. ich hatte meine Clement
 schon bereit.
 
 Er schaltete nun die Kristallkrone ein — alle neun
@@ -1124,15 +1124,15 @@ Harst hatte den Kopf gedreht.
 
 »Bitte, Frau Baronin, treten Sie näher,« sagte er mit
 leichter Verbeugung. »Mein Name ist Harald Harst. Sie
-kommen zur rechten Zeit. Dort mein Freund Schraut be
-wacht einen der Mörder Ihres Gatten.«
+kommen zur rechten Zeit. Dort mein Freund Schraut bewacht
+einen der Mörder Ihres Gatten.«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 <h3>Das Kind.</h3>
 
-Die Verschleierte taumelte wie in einem hinsah von
+Die Verschleierte taumelte wie in einem Anfall von
 Schwäche gegen die Türfüllung, blieb stumm.
 
 Und raffte sich auf, schlug den Schleier hoch.
@@ -1172,68 +1172,68 @@ der Zunge bannte.
 
 »Ihre Zofe, der Sie offenbar blindlings vertraut
 haben, Frau Baronin, verdient keine Schonung,« meinte
-Wirr ernst, indem er den Kopf nach Frau Inge zurül-wandte.
+Harald ernst, indem er den Kopf nach Frau Inge zurückwandte.
 
 Dann betrachtete er den winzigen, in einem zierlichen
-Ladidhuh steckenden Fuß der Schläferin, der unter dem
-Farm Kimono Ferborfichaute
+Lackschuh steckenden Fuß der Schläferin, der unter dem
+kostbaren Kimono hervorschaute.
 
 <@pagebreak/>
 »Wie lange war dieses Weib verreist, Frau Baronin?«
 fragte er darauf und schritt auf den Inder zu.
 
-Frau Inge Alfström war aufgesprungen. he Gesicht
+Frau Inge Alfström war aufgesprungen. Ihr Gesicht
 verriet, daß sie zu einem Entschluß gekommen war. Ihre
 Augen verrieten es gleichfalls. Es war ein Ausdruck darin,
 als ob die Verzweiflung sie zu einer Entscheidung
 drängte.
 
 »Herr Harst, ich muß den Inder eine Weile allein
-sprechen,« rief sie fast bereist. »Ach wiederhole: von
+sprechen,« rief sie fast herrisch. »Ich wiederhole: von
 Mord oder dergleichen ist hier keine Rede! Geben Sie den
 Mann frei! Nachher sollen Sie erfahren, weshalb ich Ihnen
-die Depesche nach Patna schickte, da ich Fürchtete, Gunvor
+die Depesche nach Patna schickte, da ich fürchtete, Gunvor
 könnte Sie nicht mehr rechtzeitig erreichen.«
 
 Ah, — Gunvor — Gunvor! Das war die Zofe! Und
 sie war also fraglos tatsächlich in Indien gewesen.
 
 im selben Moment fiel mir auch ein, daß Harald dem
-Das Pearl gegenüber ein Weib erwähnt hatte,
-bei der Ermordung des Postboten mit die Hand im
-Spiele e haben sollte. —
+Polizeimeister Pearl gegenüber ein Weib erwähnt hatte,
+das bei der Ermordung des Postboten mit die Hand im
+Spiele gehabt haben sollte. —
 
 Harst schien Frau Inges Worte überhört zu haben. Er
 hatte dicht vor dem Inder halt gemacht.
 
-Wie kommst Du zu der Bekanntschaft mit Doktor Finster
-?« fragte er den mit stoischer Ruhe geradeaus ins Leere
+»Wie kommst Du zu der Bekanntschaft mit Doktor Finster?«
+fragte er den mit stoischer Ruhe geradeaus ins Leere
 dreinblickenden. »Sage die Wahrheit und ich will gestatten,
 daß die Baronin mit Dir im Nebenzimmer allein — verhandelt.«
 Dieses »verhandelt« klang ironisch, klang so, als
-wollte Harald andeuten; »ich weiß was Ihr beide zu besprechen
+wollte Harald andeuten: »ich weiß was Ihr beide zu besprechen
 habt!«
 
 Der Inder schloß die Lider — nur den Bruchteil einer
 Sekunde. Und warf dann einen raschen Blick zu der Baronin
-hinüber, Ich beobachtete genau, daß Frau Inge
+hinüber. Ich beobachtete genau, daß Frau Inge
 ihm keinerlei Zeichen gab, daß in ihrem feinen Antlitz nur
 ein ungläubiges Staunen war. Und sie flüsterte wie jemand,
-der einen Namen zum ersten Male hört und nach
-grübelt, ob er diesen Namen nicht doch bereits irgendwann
+der einen Namen zum ersten Male hört und nachgrübelt,
+ob er diesen Namen nicht doch bereits irgendwann
 vernommen habe:
 
-»Doktor finster — Doktor Finster —?«
+»Doktor Finster — Doktor Finster —?«
 
 Da erwiderte der Inder auf Harsts Frage:
 
-»Der Anwalt wurde mir von Freunden einen
+»Der Anwalt wurde mir von Freunden empfohlen.«
 
-Von Brüdern des Sarawana-Bundes?«
+»Von Brüdern des Sarawana-Bundes?«
 
 <@pagebreak/>
 Ein ganz leiser halb erstickter Schrei von Frau Inges
-Zweifel der. Der Schrei galt dem Earamanı,
+Sessel her. Der Schrei galt dem Sarawana.
 
 Und der Inder antwortete hastig:
 
@@ -1242,21 +1242,21 @@ Und der Inder antwortete hastig:
 Harald Sah dem Manne merkwürdig forschend in das
 undurchdringliche Asiatengesicht.
 
-»Es ist gut. Du darfst die Baronin Sprechen,« erklärte
+»Es ist gut. Du darfst die Baronin sprechen,« erklärte
 er darauf, nahm ihm das als Handfessel benutzte Taschentuch
 ab und verbeugte sich vor Frau Inge.
 
-Die erhob sich schnell. Ueber ihr Antlitz flog ein Auf
-Leuchten der Befriedigung.
+Die erhob sich schnell. Ueber ihr Antlitz flog ein Aufleuchten
+der Befriedigung.
 
-Dann schloß sich die Tür des Nebenzimmers. hinter
+Dann schloß sich die Tür des Nebenzimmers hinter
 den beiden.
 
-Harald glitt über den Teppich. lauschte an derselben
+Harald glitt über den Teppich, lauschte an derselben
 Tür, winkte mir zu, öffnete die andere nach dem Flur ohne
 jedes Geräusch und ebenso die Flurtür.
 
-Wir hafteten die Treppen hinahß, nachdem Harst mit
+Wir hasteten die Treppen hinab, nachdem Harst mit
 dem Dietrich die Flurtür wieder lautlos ins Schloß gezogen
 hatte. Wir gelangten auf die Straße, Stellten uns gegenüber
 in eine Türnische.
@@ -1267,20 +1267,20 @@ fraglos von diesen Leuten ermordet worden. Bei alledem
 Spielt jedoch noch ein Geheimnis mit, das wir bisher nicht
 kennen. — Ah — da ist unser Mann! Nun hinter ihm
 drein! Aber Vorsicht! Er glaubt zwar, daß wir noch
-oben im Salon Frau Inges sitzen. Fumerhin ist es ratsam,
+oben im Salon Frau Inges sitzen. Immerhin ist es ratsam,
 auf der Hut zu Sein.«
 
-Wir trennten uns, um weniger aufzufallen. Der It
-der wandte sich der Berliner Straße zu, bog dann rechts
-nach dem Bayrischen Platz ab. Er Schritt Sehr Schnell dahin,
+Wir trennten uns, um weniger aufzufallen. Der Inder
+wandte sich der Berliner Straße zu, bog dann rechts
+nach dem Bayrischen Platz ab. Er schritt Sehr Schnell dahin,
 kam in die Innsbrucker Straße und klopfte hier gegen den
-herabgelassenen Rollvorhang eines Erdaeſchoßſenſlers. Nach
+herabgelassenen Rollvorhang eines Erdgeschoßfensters. Nach
 einer Weile verschwand er in der Haustür, die jemand ihm
 aufgeschlossen hatte.
 
 Harald schickte mich nach dem Bayrischen Platz zurück.
 
-»Hole ein Auto. Es Soll zehn Schritt vor dem Hause
+»Hole ein Auto. Es soll zehn Schritt vor dem Hause
 halten. Beeile Dich. Wir müssen für alle Fälle einen
 Kraftwagen zur Hand haben.«
 
@@ -1300,7 +1300,7 @@ hörten, wie der Inder den Chauffeur fragte ob er frei sei.
 Der Mann bejahte.
 
 »Fahren Sie dort vor Nummer 123 vor,« sagte der
-Inder kurz. »Wir müssen ein Starkes Kind zum Arzt
+Inder kurz. »Wir müssen ein krankes Kind zum Arzt
 bringen.«
 
 Dann lief er wieder zurück dem Hause zu.
@@ -1308,13 +1308,13 @@ Dann lief er wieder zurück dem Hause zu.
 »Endlich — endlich!« meinte Harald. »Also das Kind
 haben die Schurken ebenfalls geraubt — Frau Inges achtjähriges
 Töchterchen. — Heraus mit den Pistolen, mein
-Alter! Die Schufte sollen sich wundern!« -
+Alter! Die Schufte sollen sich wundern!«
 
 Wir duckten uns im Innern des Wagens ganz tief zusammen.
 
 Dann wurde die Tür aufgerissen.
 
-Uhr im selben Moment schlüpfte Harald auf anderen
+Und im selben Moment schlüpfte Harald zur anderen
 hinaus.
 
 Im selben Moment richtete ich mich auf.
@@ -1322,10 +1322,10 @@ Im selben Moment richtete ich mich auf.
 »Halt!« rief Harst drohend.
 
 Es war ein Zufall, daß eine Patrouille der Schutzpolizei
-gerade jetzt vom Stadtpark her die Straße entlanggerudert
+gerade jetzt vom Stadtpark her die Straße entlanggeradelt
 kam. Auch ohne die Hilfe der beiden Beamten
 hätten wir die zwei Inder auf der nächsten Polizeiwache
-Reger — die Inder und das in eine Decke gehüllte
+eingeliefert — die Inder und das in eine Decke gehüllte
 Kind.
 
 Die Inder (es war der Graubart und ein jüngerer
@@ -1344,14 +1344,14 @@ Straße zu.
 Harst sprach liebevoll auf das völlig verschüchterte
 Töchterchen Frau Inges ein.
 
-»ich bringe Dich jetzt zu Deiner Mama zurück,. Du
+»ich bringe Dich jetzt zu Deiner Mama zurück. Du
 brauchst keine Angst vor uns zu haben. Wie heißt Du?
 Seit wann hat man Dich Deiner Mutter entführt?«
 
 Das Kind wurde rasch zutraulich. Asta hieß sie, und
 seit drei Tagen hatte sie sich in der Gewalt der beiden
 Inder befunden, die sie der Zofe Gunvor gewaltsam entrissen
-hatten. als diese mit dem Kinde im Laubengelände
+hatten, als diese mit dem Kinde im Laubengelände
 am Westteile des Stadtparks spazieren gegangen war. —
 
 Als wir uns dem Hause Nr. 161 näherten, als wir zu
@@ -1372,7 +1372,7 @@ war ein Ausruf heftigsten Schrecks.
 Die kleine Asta winkte der Mutter fröhlich zu.
 
 Wir betraten das Haus, waren nun oben im zweiten
-Stock. Frau Junge lehnte in der aecöffneten Flurtür.
+Stock. Frau Inge lehnte in der geöffneten Flurtür.
 
 Und weinte.
 
@@ -1391,8 +1391,8 @@ dem Diwan.
 Harald begann sie zu rütteln. Er ließ nicht nach, bis
 die Morphiumbetäubung wich.
 
-Das Mädchen setzte sich aufrecht, stierte nun blöde an.
-Sie mußte nicht. wen jeder sich hatte. Ihr Gesicht blieb
+Das Mädchen setzte sich aufrecht, stierte uns blöde an.
+Sie wußte nicht, wen sie vor sich hatte. Ihr Gesicht blieb
 stumpf, bis Harald sehr eindringlich sagte:
 
 »ich bin Harald Harst! Verstehen Sie, Gunvor, —
@@ -1417,7 +1417,7 @@ Dann erschien Frau Inge
 Harald wies auf einen Sessel. »Bitte, Frau Baronin,
 wollen Sie Platz nehmen. — Ahnten Sie, daß auch wir
 beide, mein Freund Schraut und ich, heute nacht dort mit
-der Wand versenkt werden sollten?«
+der Jacht versenkt werden sollten?«
 
 Sie hielt den Kopf tief gebeugt. Sie hatte die Hände
 im Schoße ineinander geschlungen.
@@ -1425,21 +1425,21 @@ im Schoße ineinander geschlungen.
 »ich — ich weiß nichts von einer Jacht, Herr Harst,«
 meinte sie leise.
 
-So?! Und Ihr noch immer nasses Haar, Frau
+»So?! Und Ihr noch immer nasses Haar, Frau
 Baronin? Sie haben es bei der Schwimmtour an Land
-nicht vor dem Wasser, vor dem. Regen schützten können. —
-Hören Sie mich an. Ach will Sie kurz über das aufklären,
-was ich weiß. he Gatte wurde ermordet, nachdem er
+nicht vor dem Wasser, vor dem Regen schützten können. —
+Hören Sie mich an. Ich will Sie kurz über das aufklären,
+was ich weiß. Ihr Gatte wurde ermordet, nachdem er
 wahrscheinlich verschiedene Drohbriefe erhalten hatte —«
 
-Sie nickte stand.
+Sie nickte schwach.
 
 »Briefe, die angeblich von dem indischen Geheimbunde
 kamen,« fuhr Harald fort. »von der Sarawana-Brüderschaft,
-mit der Ihr Gatte während feines Aufenthaltes in
+mit der Ihr Gatte während seines Aufenthaltes in
 Indien zusammengeraten sein mag — irgendwie —«
 
-Abermals nickte Frau Junge. »Er hat aus Unachtsamkeit
+Abermals nickte Frau Inge. »Er hat aus Unachtsamkeit
 einen seiner Diener damals erschossen, der dem Bunde angehörte,
 wie sich später herausstellte.«
 
@@ -1449,9 +1449,9 @@ Kindes Leben —
 
 »Ja —«
 
-»Sie Stielen dann Ihre Zofe nach Indien — zu mir.
+»Sie schickten dann Ihre Zofe nach Indien — zu mir.
 Sie vertrauten ihr blindlings. Gunvor sollte mich in alles
-einweihen. da Sie nicht wagten, mir einen Brief zu senden.
+einweihen, da Sie nicht wagten, mir einen Brief zu senden.
 <@pagebreak/>
 — Aber dieses Mädchen war in Wahrheit im Bunde mit
 Ihren Gegnern, Frau Baronin. Sie half den Postbeamten
@@ -1473,15 +1473,15 @@ vielleicht unerfüllbar war.«
 Frau Inge rannen ein paar Tränen über die Wangen.
 
 »Ein — ein Opernglas sollten wir ihnen aushändigen,«
-erklärte sie stockend. »Ja — ein Opernaglas! Es hat der
+erklärte sie stockend. »Ja — ein Opernglas! Es hat der
 Mutter meines Mannes gehört, der Baronin Sigrid Alfström,
 die 1920 in Kalkutta verstorben und beerdigt worden
 ist. Alles — alles hing für uns von diesem Opernglase ab,
 Herr Harst. Die Sarawana-Leute glaubten, wir wollten
-»es ihnen vorenthalten. Aber — wir wissen doch nicht, wo
-»es geblieben ist. Und da — da haben sie eben meinen
+es ihnen vorenthalten. Aber — wir wissen doch nicht, wo
+es geblieben ist. Und da — da haben sie eben meinen
 Mann ermordet, um mich zu schrecken — einzuschüchtern.
-Und — und Ihre Einmischung, Herr Harst, ist ist jetzt
+Und — und Ihre Einmischung, Herr Harst, ist — ist jetzt
 für mich kein Segen mehr! Nein, ein Unglück. Sie kennen
 die Macht der Brüderschaft nicht, Herr Harst.«
 
@@ -1489,14 +1489,14 @@ Da geschah etwas, das den Dingen mit einem Schlage
 ein anderes Aussehen gab.
 
 Was nun geschah, soll die Einleitung für den zweiten
-Teil dieses unseres Abenteuers bilden. für — »Das Opernglas
+Teil dieses unseres Abenteuers bilden, für — »Das Opernglas
 der Baronin«.
 
 Und in diesem zweiten Teil wird der Leser all die dunklen
 Fragen restlos geklärt finden, die jetzt noch genau so
 als unheimliches Rätsel in der Luft schweben wie die Gestalt
 unseres neuen Gegners Doktor Berthold Finster, des
-Seien der Mächte der Finsternis.
+Herrn der Mächte der Finsternis.
 
 <@pagebreak 32/>
 
@@ -1532,7 +1532,7 @@ daß der Bund zu men Führern er gehöre, jede Genialität
 verabscheue und daß der Dolch mit dem Schlangenzeichen
 am Griff, der dem Ermordeten in der tödlichen Wunde
 siehe, eine plumpe Nachahmung des stets nur als Erkennungszeichen
-benubßten echten Sarawana-Dolches sei. —
+benutzten echten Sarawana-Dolches sei. —
 Ich habe keinen Grund, an der Wahrheit dieser Mitteilung
 Doktor Vasenas zu zweifeln. Mehr noch: unsere Erlebnisse
 hier geben mir die Gewißheit, daß die beiden
@@ -1601,7 +1601,7 @@ irgend eine weitverzweigte Geheimgesellschaft!« Sie lachte
 Oh, »Sie werden bald merken, was wir sind! Sehr
 bald!«
 
-Bechert, dieser umübertrefflihe Menschenkenner und
+Bechert, dieser unübertreffliche Menschenkenner und
 glänzende Kriminalist, wandte sich mit einem Male an die
 Baronin.
 
@@ -1617,7 +1617,7 @@ Herr Kommissar.«
 Baronin. — Nicht wahr, Anna Holm, das stimmt doch? —
 Oh — Sie wundern sich über mein gutes Personengedächtnis?!
 Ich habe ja bereits zweimal mit Ahnen mich des
-fassen müssen. Zulebßt aus Anlaß des gegen Jusftizrat
+fassen müssen. Zuletzt aus Anlaß des gegen Jusftizrat
 Finster eingeleiteten Verfahrens. Sie waren Tippfräulein
 bei Doktor Finster. Au vor einem Jahr hatte ich Sie aufs
 Korn genommen, weil Sie im By Au als ungarische
@@ -1633,7 +1633,7 @@ noch nicht verurteilt! — Ich redlichste zu willen, weshalb
 ich verhaftet werden soll.« -
 
 »Zunächst weder Beihilfe ein Kinderraub, Anna
-Holm,« meinte Bechert kühl, dem Harst schnell etwas zuoe-lüstert
+Holm,« meinte Bechert kühl, dem Harst schnell etwas zugeflüstert
 hatte.
 
 <@pagebreak/>
@@ -1649,7 +1649,7 @@ zusammenhängt,« sagte Harst zu Frau Inge.
 Ich will diese Schilderung hier nur in den Haupt
 Punkten wiedergeben, —
 
-Frau Junge, geborene Malling, hatte ihren Gatten in
+Frau Inge, geborene Malling, hatte ihren Gatten in
 Kalkutta kennengelernt. Dort hatten sie auch geheiratet.
 Der Baron Holger Alfström war um fünfzehn Kahle älter
 als seine Frau. Die Ehe gestaltete sich trocknen sehr glücklich.
@@ -1773,7 +1773,7 @@ die Zofe Anna Holm sich mit den drei Hunden sehr angefreundet
 gehabt hatte. —
 
 Ich begriff sofort, was Harst ergründen wollte: ob
-dieses aecfäbrliche junge Weib etwa den anderen Bewohnern
+dieses aecfäbrliche Inge Weib etwa den anderen Bewohnern
 der Lila Schlafmittel ins Essen gemischt und die Anden
 <@pagebreak/>
 eingelassen hätte. Nur so war ja der Mord zu erklären. —
@@ -1863,7 +1863,7 @@ Verbindung setzen, die Sie agcwarnt oder veranlaßt hatten,
 mich nicht zu empfangen. So kamen wir in die leere Wohnung,
 so fielen wir Finster in die Hände.«
 
-Frau Junge nickte. »Ja, es wird wohl so fein, Herr
+Frau Inge nickte. »Ja, es wird wohl so fein, Herr
 Harst. Lassen Sie mich nun weiter berichten. Genau um
 zehn Uhr kam eine Motorjacht von Berlin her und legte
 kurze Zeit an dem Dampferiteae an. Auf Deck waren zwei
@@ -1913,7 +1913,7 @@ Tisch machen.« Nun beriet er sich leise mit dem andern
 Manne. Mit einem Male warfen sie mir einen
 schweren Mantel über den Kopf und schleppten mich durch
 die Vorderlufkfe in die kleine Segelkammer. Hier erst kam
-mir zum Bewußtsein, was die aemurmelten Worte dieses
+mir zum Bewußtsein, was die gemurmelten Worte dieses
 Ungeheuers zu bedeuten haben könnten: die Absicht, mich zu
 ermorden! — In meiner Todesangst begann ich wie sinnlos
 zu weinen und zu Schluchzen. Die Gedanken an mein
@@ -1939,7 +1939,7 @@ Dank dafür sorgen sollte, daß man Ihnen das Kind zu-rüdgäbe.«
 
 Frau Sinne blickte zu Boden und nickte schwach. »Es
 war der verzweifelte Entschluß Qe Mutter, Herr Harst.
-Sie dürfen mir das nicht verargtn.«
+Sie dürfen mir das nicht verargen.«
 
 »Tue ich auch nicht, Frau Baronin —«
 
@@ -1980,7 +1980,7 @@ Wir bestiegen das unten haltende Auto.
 
 Als es sich in Bewegung feste, sagte Harald halblaut
 wie zu sich selbst: »Ich fürchte Berthold Finster wird für
-die zweite Ueberraschuno gesorgt haben
+die zweite Ueberraschung gesorgt haben
 
 »Wie meinen Sie »das, lieber Harst 2» rief Bechert beunruhigt.
 
@@ -2143,7 +2143,7 @@ Mann in Briefträgeruniform.
 
 In der Rechten eine jener flachen kleinen Westentaschenrepetierpistolen,
 wie die Waffenindustrie sie neuerdings
-als nützliche Bealeitgegenslände für die schubßbe-dürftige
+als nützliche Begleitgegenstände für die schutzbedürftige
 Menschheit in diesen unsicheren Nachkriegszeiten
 herstellt — Spielzeuge scheinbar, und doch trotz des geringen
 Kalibers Nickelmantelgeschosse fassend, die beide Schädelwände
@@ -2424,7 +2424,7 @@ daß aus einem Saulus bei mir kein Paulus nicht wird.
 Ausgeschlossen! — Darf ich nun gehen?«
 
 »Das dürfen Sie. Hier ist Ihre Waffe.« Er ließ den
-Batronenrahbmen berausfchnellen und reichte Finster die
+Batronenrahbmen herausschnellen und reichte Finster die
 Pistole. »Diesmal Lebe ich Sie noch frei, und auch nur
 deshalb, weil der Baron Alfström selbst ein Mörder war,
 was ich übrigens nach der Schilderung feiner Gattin gleich
@@ -2446,11 +2446,11 @@ Dann entschwand er unseren Blicken.
 
 Harald, der neben mir am Fenster stand, sagte leise:
 
-»Ich weiß, daß Du nicht recht begreifst, weähalb ich ihn
+»Ich weiß, daß Du nicht recht begreifst, weshalb ich ihn
 laufen ließ, mein Alter. Ohne ihn finden wir seine Kumpane
 nicht, von denen wir vorläufig nur die Inder und
 Anna Holm kennen. Und — die Fader sind die ungefährlicheren.
-Er hat noch andere Hilfäfräfte, eine ganze wohl
+Er hat noch andere Hilfskräfte, eine ganze wohl
 organisierte Bande, behaupte ich. Die will ich gleichzeitig
 fassen — alle! Es hätte keinen Zweck gehabt, Finster
 hier zu behalten, während seine Garde noch in voller Freiheit
@@ -2535,7 +2535,7 @@ Ich zahlte, horchte.
 
 Bechert flüsterte:
 
-»Sie können jebßt wieder nach Hause fahren, lieber
+»Sie können jetzt wieder nach Hause fahren, lieber
 Schraut. Die beiden Spione kenne ich nun. Sind gefährliche
 Brüder — Finsters Gardisten!«
 
@@ -2569,7 +2569,7 @@ aller Stille verhaftet worden und daß es zwei gewerbsmäßige
 vorbestrafte Taschendiebe von elegantem Aeußeren
 waren. —
 
-Im Aschinger war großer Betrieb. Diese Massen-fpeifunasftätten
+Im Aschinger war großer Betrieb. Diese Massenspeisungsstätten
 wurden in diesen Zeiten des Papiermarkschwundes
 mehr denn je auch von dem besseren Publikum in
 Anspruch genommen.
@@ -2696,7 +2696,7 @@ Durch jede Buchhandlung zu beziehen.
 <h3>Das traurige Geheimnis.</h3>
 
 Und eine halbe Stunde später saßen Harald und ich in
-derselben wenig beneidenäwerten äußeren Verfassung auf
+derselben wenig beneidenswerten äußeren Verfassung auf
 dem grünen harten Plüschsofa von Zimmer Nr. 18: mit
 gefesselten Händen, jeder einen gut gesicherten Knebel im
 Munde, jeder mit den Füßen an eins der vorderen Sofabeine
@@ -2791,7 +2791,7 @@ nach uns zu hineingedrückt.
 
 Und — diese Spitzen schillerten matt grünlich, hatten
 irgend einen Ueberzug von Säure oder dergleichen — ’nack
-natürlich ein Giftftofi!
+natürlich ein Giftstoff!
 
 Der Zweck dieser spitzen Harke war klar: wir hätten
 den Tisch, wenn wir uns vorgebeugt haben würden, leicht
@@ -2800,7 +2800,7 @@ so viel Lärm machen können, daß wir unbedingt mit der
 Zeit das Hotelpersonal aufmerksam gemacht hätten. Das
 war nun unmöglich. Die »Harke« zwang uns, die Tischplatte
 nicht zu berühren. Wir hätten uns sonst die Nadeln
-durch die Kleider in die Haut und in das Fleisch des Brust-taltens
+durch die Kleider in die Haut und in das Fleisch des Brustkastens
 getrieben Nur mit der Brust konnten wir ja bei
 der Art unserer Fesselung den Versuch machen, den Tisch zu
 bewegen.
@@ -2965,7 +2965,7 @@ or ne Nachtstunden dürften dann die Entscheidung
 bringen!« —
 
 Ja — sie brachten die Entscheidung, brachten die
-lebten aufregenden Momente des Problems »Perlmutteropernglas».
+lebten aufregenden Momente des Problems »Perlmutteropernglas«.
 —
 
 Um neun Uhr ging ein schweres Gewitter über den
@@ -3043,7 +3043,7 @@ aus der Mansardenstube. —
 
 Wir kamen gerade noch zur rechten Zeit nach unten,
 <@pagebreak/>
-um die halb ohnmächtige Frau Junge in Empfang zu nehmen.
+um die halb ohnmächtige Frau Inge in Empfang zu nehmen.
 Wir brachten sie in den Salon. Sie gab jetzt jeden
 Widerstand auf, das traurige Geheimnis weiter zu hüten:
 ihr Mann hatte den Diener Ahmed erschossen, weil dieser
