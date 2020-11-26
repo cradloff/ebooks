@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">4e90d47e-3033-11eb-a230-f729a324937a</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Frau Inges Tränen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">95</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Frau Inges Tränen.
+
+»Eine Depesche,« meinte Lady Gulbrar gespannt. »Wer mag wohl unsere Ruhe hier —«
+
+Sie schnellte plötzlich hoch.
+
+Auch wir waren emporgesprungen.
+
+Wir drei hatten ja gleichzeitig gesehen, daß der Inder in der Allee mit einem Male die Arme in die Luft geworfen hatte und dann verschwunden war — geradezu blitzartig.
+
+Ebenso schnell stürmte jetzt Harst die Stufen der Terrasse hinab und die Allee hinunter, riß dabei die Clementpistole aus der Schlüsseltasche der Beinkleider und feuerte im Laufen zwei — drei Schüsse ab, die doch nur den Zweck haben konnten, irgend jemand zu verscheuchen.
+
+Das Opernglas der Baronin.
+
+Harst stellte Bechert der Baronin vor. Als er dann hinzufügte, indem er auf Gunvor deutete: »Lassen Sie das Mädchen nach dem Präsidium bringen,« schnellte die Zofe empor. Ihr hübsches Gesicht war verzerrt. Ihre Augen sprühten Harald in tückischer Wut an.
+
+»Sie werden diese Stunde bereuen, Herr Harst,« zischte sie ihn wie eine gefährliche Katze haßerfüllt an. »Sie denken, wir wären harmloser als jener Bund — harmloser als irgend eine weitverzweigte Geheimgesellschaft!« Sie lachte schrill. »Sie werden bald merken, was wir sind! Sehr bald!«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (095) Frau Inges Tränen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
