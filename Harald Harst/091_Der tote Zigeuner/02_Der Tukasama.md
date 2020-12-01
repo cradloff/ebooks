@@ -302,14 +302,14 @@ war eines Tages von dem Besitzer eingeladen worden, eine
 Fahrt durch die Kanalschleusen in die Nordsee mitzumachen.
 An dieser Fahrt hatte Albing nicht teilgenommen. Der
 Prinz, der Adjutant und dessen Gattin waren an jenem
-Tage erst gab Mitternacht ins Hotel zurückgekehrt. Der
+Tage erst nach Mitternacht ins Hotel zurückgekehrt. Der
 Portier hatte sie eingelassen und wurde von dem durch Seekrankheit
 noch arg mitgenommenen Prinzen beauftragt, sofort
 die Hotelrechnung ausstellen zu lassen, da die Japaner
 sich entschlossen hatten, schon mit dem Frühzuge nach Berlin
 weiter zu reisen. Der Portier weckte Albing, der denn
 auch die Rechnung fertig machte. Er bekam Hotowatu nicht
-wider zu Gesicht. Die drei Japaner hatten sich schon in aller
+mehr zu Gesicht. Die drei Japaner hatten sich schon in aller
 Frühe zum Bahnhof begeben. —
 
 Harst hatte den Sekretär durch keine Frage unterbrochen.
@@ -360,7 +360,7 @@ Japans vertrat, wurde noch liebenswürdiger, als er das
 Schreiben der japanischen Botschaft, Berlin gesehen hatte.
 
 »Verfügen Sie vollständig über mich und meine Beamten,
-Herr Harst,« sagte er im tadellosem Deutsch.
+Herr Harst,« sagte er in tadellosem Deutsch.
 
 Harald teilte ihm mit, was wir hier über den Prinzen
 erkundet hatten. »Wir nehmen an, Herr Konsul, daß der
@@ -688,7 +688,7 @@ Jacht, die von Kopenhagen gekommen sein müßte.
 Antwort des Beamten: »Jacht Kung Christian, in
 Besitz des japanischen Kaufmanns Shaccam übergegangen,
 liegt mit japanischer Besatzung seit heute nachmittag am
-Kai in der Nähe des Wester-Docks,« —
+Kai in der Nähe des Wester-Docks.« —
 
 Wir wieder ins Auto.
 
@@ -795,7 +795,7 @@ Dann wieder Schritte — dann eine Trillerpfeife an
 Deck. —
 
 Mir war keineswegs wohl bei alledem, keineswegs!
-Harald spielte hier ein sehr gefährliches Spiel. Waren mir
+Harald spielte hier ein sehr gefährliches Spiel. Waren wir
 erst auf hoher See, dann mußten wir hier entdeckt werden,
 dann mußten wir von selbst diesen Verschlag verlassen.
 Wir mußten essen und trinken.
@@ -1127,7 +1127,7 @@ hinzu.
 
 Abermals das dreimalige Aufheulen der Sirenen.
 
-Der Japaner verbeugte sich rasch. »Mr, Harst, meine
+Der Japaner verbeugte sich rasch. »Mr. Harst, meine
 Befehle lauten anders. Ich muß gehorchen.« — Er hatte
 Lebensart. Das hatten wir ja bereits in der Villa in
 Schlachtensee festgestellt.
@@ -1281,7 +1281,7 @@ Die Reise ging nach Mittelamerika, durch den Panamakanal
 in den Stillen Ozean und dann nach Japan. Wir
 verlebten so zwei überaus behagliche Wochen. Das Wetter
 war günstig. Angenehmere Gesellschaft als den Prinzen
-und den Hauptmann Sato konnten wir uns kaum wünschen
+und den Hauptmann Sato konnten wir uns kaum wünschen.
 
 Schon von Amsterdam war ein langes Telegramm
 an die Polizei in Tokio abgegangen, in dem Harald um
@@ -1331,7 +1331,7 @@ folgten. Der Kutter hatte ein aufklappbares Bugverdeck
 mit Oeltuchvorhängen. In dieser zeltartigen Kabine
 verwandelten wir uns einer nach dem andern in zwei
 japanische Hafenkulis, färbten uns Gesicht, Nacken und
-Hals, gaben unseren Zügen durch kleine Kunstgriffe Mongolentvp,
+Hals, gaben unseren Zügen durch kleine Kunstgriffe Mongolentyp,
 steckten unsere Clementpistolen und manches
 andere in die Taschen der schmierigen Leinenanzüge und waren
 so darauf vorbereitet, dem Prinzen heimlich bis zum
@@ -1485,7 +1485,7 @@ Jäger völlig zerfleischte.
 
 All das war ein Nichts gegenüber diesem Schauspiel.
 
-Ich lag den Kopf zurück. Ich wollte nichts mehr
+Ich bog den Kopf zurück. Ich wollte nichts mehr
 sehen.
 
 Harst drängte mich zur Seite, schaute durch das Loch
@@ -1586,7 +1586,7 @@ gesprochen, die dieser Fall für uns darstellte. Ja —
 so war’s: wir konnten nie feststellen, was all das bedeutete,
 was wir jetzt zuletzt hier mit angesehen. Wir standen den
 Ereignissen sozusagen völlig fern, wir rieten nur, um was
-es sich handeln könnte, —
+es sich handeln könnte. —
 
 Ich will Haralds Lösung hier kurz anführen: Ein Sohn
 des alten Prinzen, des Vaters Hotowatus, war dem Tukasama

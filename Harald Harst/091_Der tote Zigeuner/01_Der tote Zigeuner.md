@@ -71,8 +71,8 @@ stieß den Rauch von sich und fragte:
 »Schnell — schnell zog sie den Knaben mit sich fort?«
 
 »Ja — sehr schnell. Ueberhaupt, Herr Harst, die
-Dame war so dicht verschleiert und sah so fein ans, daß
-ich mehr recht verstand, wie sie an der Drachenfliegerei Gefallen
+Dame war so dicht verschleiert und sah so fein aus, daß
+ich nicht recht verstand, wie sie an der Drachenfliegerei Gefallen
 finden könnte und weshalb sie dem Knaben nicht ein
 einziges Mal die Schnur in die Hand gab, als das Ding
 endlich hoch in der Luft schwebte.«
@@ -135,7 +135,7 @@ sehr wertvoll gewesen sein! —
 
 Harst hatte nach Mathilde geläutet. Die Alte kam,
 trocknete sich noch die Hände an der Küchenschürze ab und
-brummte etwas von »Habe zu tun, muß abwaschen«
+brummte etwas von »Habe zu tun, muß abwaschen!«
 
 »Nur ein paar Fragen, liebe Mathilde,« meinte Harald
 <@pagebreak/>
@@ -209,7 +209,7 @@ blonden Bart.
 
 »Sie wünschen?« fragte er unfreundlich.
 
-»Sie gestatten: Herr Riemer selbst?« meinte Harald
+»Sie gestatten: Herr Riemer selbst?« meinte Harald.
 
 »Ja. — Ich habe nicht viel Zeit. Also —«
 
@@ -356,7 +356,7 @@ Wieder schritt der Japaner vorbei, wurde dann gerade
 vor dem Abteil von einem älteren Herrn mit Spitzbart angesprochen,
 der ihm kräftig die Hand schüttelte.
 
-Harst machte ein überraschtes Gesicht. Die Beinen
+Harst machte ein überraschtes Gesicht. Die beiden
 draußen gingen weiter.
 
 »Weißt Du, wer der andere war, mein Alter?« fragte
@@ -402,7 +402,7 @@ gebogen, als Harst wieder lächelnd sagte:
 »Nun ist die Japanerin hinter uns — verschleiert! Wir
 sind eine halbe Stunde auf dem Amt gewesen. Da hat der
 Prinz, der uns also doch gefolgt ist, sie telephonisch
-herbeigerufen, damit sie ihn ablöse, Tun wir so, als ob wir
+herbeigerufen, damit sie ihn ablöse. Tun wir so, als ob wir
 nichts merkten.«
 
 »Der Prinz war also der Mann auf dem Anhängesitz?«
@@ -628,7 +628,7 @@ Harald blickte seltsam starr auf das Tischchen. Seine
 Augen schlossen sich halb. Um seinen Mund zuckte es ironisch.
 
 Wieder das Geräusch der aufgehenden Tür. Diesmal
-war er der Prinz.
+war es der Prinz.
 
 Er nahm Platz.
 
@@ -711,7 +711,7 @@ Grinsen, wie es satanischer kaum sein konnte.
 »Meine Herren,« sagte er sehr laut, »nehmen Sie
 wieder Platz. Es ist besser für Sie — wirklich!«
 
-Ich mußte sofort: der Tee war nicht das einzige Mittel,
+Ich wußte sofort: der Tee war nicht das einzige Mittel,
 das Hotowatu bereit hatte, um uns hier festzuhalten.
 
 Auch Harst fürchtete wohl neue Ueberraschungen.
@@ -758,7 +758,7 @@ Blasrohrpfeile!
 
 Harald lachte ärgerlich auf.
 
-»Was wünschen Sie dem eigentlich von uns?«
+»Was wünschen Sie denn eigentlich von uns?«
 
 »Daß Sie sich vorläufig ruhig verhalten, bis die Polizei
 da ist.«
@@ -787,7 +787,7 @@ Er deutete mit der Clement auf den Vorhang.
 
 Die Blasrohre drohten noch immer.
 
-»Wenn Du dort ständest und ums bewachtest, mein
+»Wenn Du dort ständest und uns bewachtest, mein
 Alter, würdest Du da die Blasrohre so still halten können,
 daß der Vorhang sich nicht die Spur bewegt?!« fügte er
 hinzu. »Vorhin bewegte er sich noch. Dann nicht mehr!«
@@ -1184,7 +1184,7 @@ gebracht hatte. Ich rate Ihnen daher, sofort in Japan
 telegraphisch anzufragen, ob nicht etwa ein Betrüger hier
 den Prinzen gespielt hat.« — So sprach ich zu dem Herrn —«
 
-Mir war jetzt plötzlich ein Licht ausgegangen.
+Mir war jetzt plötzlich ein Licht aufgegangen.
 
 »Harald — der Zigeuner ist Pronke!« rief ich leise.
 
@@ -1386,7 +1386,7 @@ herbei. Ich bin bereit, mitzufahren.«
 Wir holten Jankel.
 
 Nach einigem Zögern gab er zu, daß er einem Herrn
-— also Willi Pronke - für hunderttausend Mark den Anzug
+— also Willi Pronke — für hunderttausend Mark den Anzug
 verkauft und das Riemer ihm dies dann auf den Kopf
 zugesagt hatte, wobei Riemer betonte, der Anzugkäufer
 wollte fraglos in dieser Verkleidung ein Verbrechen begehen,
@@ -1427,7 +1427,7 @@ japanische Botschaftsrat Graf Sadokato und bat Harald
 im Auftrage der japanischen Regierung nach dem Prinzen
 Hotowatu zu suchen, der doch offenbar während der Ueberfahrt
 <@pagebreak/>
-von Japan nach Europa samt seinem und sechs Köpfen
+von Japan nach Europa samt seinem aus sechs Köpfen
 bestehenden Gefolge irgendwie beseitigt worden sei.
 
 »Der Prinz, der einer Nebenlinie des Kaiserhauses angehört,
@@ -1453,7 +1453,7 @@ Jacht gegangen. Jacht sofort in See, unbekannt
 wohin. Habe Verfolgung veranlaßt. Zwei Flottillen
 Minensuchboote sofort Verfolgung aufgenommen.
 
-Gruß — Ringler.«
+> Gruß — Ringler.«
 
 »Eine große Sache muß es sein — sehr groß,« meinte
 Harald sinnend. »Die Papiere müssen viele Millionen wert
@@ -1463,5 +1463,4 @@ Großzügig!« —
 
 Allerdings — großzügig! — Mit wem wir jetzt den
 Kampf aufnahmen, ahnten wir damals noch nicht.
-
 
