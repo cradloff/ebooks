@@ -28,7 +28,7 @@ Arabern sofort die nötigen Transportkäfige herstellen.
 Bis dahin waren die vier Löwen in einer großen
 Felsschlucht untergebracht gewesen. Es waren Tiere
 im Alter von etwa dreizehn Monaten, fast ausgewachsen
-und in prächtigem Zustand, da ihnen sie Schlucht volle
+und in prächtigem Zustand, da ihnen die Schlucht volle
 Bewegungsfreiheit gestattete.
 
 Luzie, die von meinem Manne wohl die jedem Dresseur
@@ -328,7 +328,7 @@ Da begriff ich, da wußte ich: das war die Quelle, vor
 der man uns schon in Aden gewarnt hatte! Das war die
 Quelle, die auf der Karte Südarabiens mit einem roten
 Kreuz versehen war! Und neben dem Kreuz stand dick
-gedruckt!:
+gedruckt:
 
 > Ungenießbar! Giftig!
 
@@ -453,7 +453,7 @@ Harald tröstete Frau Hendrick. »Wir haben die Datteln.
 Sie enthalten Feuchtigkeit. Sie können unmöglich
 giftig sein. Nur Mut!«
 
-Das Wasser aus dem Kessel sollen wir aus. Es war
+Das Wasser aus dem Kessel gossen wir aus. Es war
 noch ungenießbarer als gestern.
 
 Wir holten ein paar Datteln. Sie schmeckten nicht
@@ -463,10 +463,10 @@ Dann schleppten wir die Kadaver der Kamele mühsam
 <@pagebreak/>
 in das nächste Tal, warfen sie hier in eine tiefe, breite
 Felsspalte. Ein Wunder war’s, daß unsere Kräfte dazu
-ausreichen.
+ausreichten.
 
 »Wollen uns einmal nach Jefferson umsehen. Er
-dann nicht weit gekommen sein, der Aermste,« meinte
+kann nicht weit gekommen sein, der Aermste,« meinte
 Harald und stieg die Talwand empor.
 
 Wir fanden ihn, nachdem wir den Spuren seines Tieres
@@ -533,7 +533,7 @@ der Büsche nieder. »Wir werden die Sultana Eizul
 heute wohl zum letzten Male in unserem Leben gesehen
 haben. Ich nehme an, daß wir schon gestern von den Beduinen
 beobachtet worden sind. Gestern morgen schien es
-mir einmal so, als oh ich rechts von uns das Kopftuch
+mir einmal so, als ob ich rechts von uns das Kopftuch
 eines Beduinen zwischen den Felsen bemerkte. Ich —«
 
 Er schwieg, hob ein kleines Paket aus dem Grase neben
@@ -558,7 +558,7 @@ Abenteuer ist zu Ende!«
 
 Nein — es war nicht zu Ende! Es fing erst an. Daß
 wir Frau Hendrick Ihrem Kinde zugeführt hatten, bildete
-nur die Einleitung, —
+nur die Einleitung. —
 
 In ganz anderer Stimmung als vorhin bereiteten wir
 uns nun eine Mahlzeit. Das heißt, ich spielte den Koch,
@@ -587,7 +587,7 @@ dem Gerippe — »dort unter dem Stein liegt eine mit Filz
 Tode unter den Stein geschoben haben. Die Gräser verdecken
 sie. Sonst hätten Beduinen sie wohl längst mitgenommen.«
 
-Er bückte ich und hob die Flasche auf. Sie war verkorkt.
+Er bückte sich und hob die Flasche auf. Sie war verkorkt.
 Er schüttelte sie. Da flog der zusammengetrocknete
 Kork heraus und — eine Rolle Papier kam zum Vorschein.
 
@@ -623,7 +623,7 @@ sehr zitteriger Schrift:
 
 > Der, die ich suchte!
 
-»Ah — Deutsch, wirklich Deutsche Worte!« rief ich erstaunt.
+»Ah — Deutsch, wirklich deutsche Worte!« rief ich erstaunt.
 
 Harald schlug den Bogen auseinander.
 
@@ -635,30 +635,30 @@ Man sah dies ja sofort an der Anordnung der Zeilen.
 
 Harst las leise:
 
-> Meiner Sehnsucht nimmermüde Flügel
-Trieben über Tal und Hügel
-In die Einsamkeit hinein
+> Meiner Sehnsucht nimmermüde Flügel<br/>
+Trieben über Tal und Hügel<br/>
+In die Einsamkeit hinein<br/>
 Mich allein.
 
-> Meines Reichtums zwecklos goldne Scherben
-Wußt’ am Fuße ich zu bergen
-Einer Gottheit blutgen Leibes,
+> Meines Reichtums zwecklos goldne Scherben<br/>
+Wußt’ am Fuße ich zu bergen<br/>
+Einer Gottheit blutgen Leibes,<br/>
 Eines Weibes.
 
-> In der düstern Felsengrotte
-Opfert’ einst dem blutgen Gotte
-In der Wahnideen Trug
+> In der düstern Felsengrotte<br/>
+Opfert’ einst dem blutgen Gotte<br/>
+In der Wahnideen Trug<br/>
 Jeder Thug.
 
-> Wo der Dschamna trübe Wellen
-Dicht umdrängen Felsenstellen,
+> Wo der Dschamna trübe Wellen<br/>
+Dicht umdrängen Felsenstellen,<br/>
 <@pagebreak/>
-Ruht, was Menschengeist
+Ruht, was Menschengeist<br/>
 Eitel preist.
 
-> Meines Lebens leere Tage
-Endet hier die Schicksalswaage.
-Wer euch findet, eitle Scherben,
+> Meines Lebens leere Tage<br/>
+Endet hier die Schicksalswaage.<br/>
+Wer euch findet, eitle Scherben,<br/>
 Soll euch erben.
 
 > R. R.
@@ -782,7 +782,7 @@ Absicht gehabt, Barring zu besuchen, ist auch fraglos in
 Agra gewesen, wo er vor seiner Abreise nach Arabien sein
 offenbar in Gold umgewechseltes Vermögen verborgen hat.
 Er ging allein nach Arabien. Dies beweist einmal die
-Tatsache, daß er hier allein den Tod fand, dort aber auch
+Tatsache, daß er hier allein den Tod fand, dann aber auch
 diese Hotelrechnung hier, ausgestellt im Hotel Atlantic in
 Aden am 16. April 1915 für Mr. John Barring. Auf
 der Rückseite der Rechnung findet sich eine Notiz, wie Du
@@ -1007,7 +1007,7 @@ benutzt wurde. In der Grotte sollte im Hintergrunde ein
 altes Steinbild der Kali stehen.
 
 Wir landeten unterhalb der Felsblöcke, wo hohes Gebüsch
-sich fast bis zum Wasserspiegel neigte, Harst sprang
+sich fast bis zum Wasserspiegel neigte. Harst sprang
 ans Ufer, wir zogen das Boot in die Büsche und traten
 dann wieder so weit vor, daß wir den Fluß etwa dreißig
 Meter im Umkreise überblicken konnten.
@@ -1111,7 +1111,7 @@ Meter Seitenlänge, schien massiv zu sein.
 Harald betastete ihn.
 
 Wir hatten schon oft hier in Indien merkwürdige Beweise
-des erfinderischer Geistes der Erbauer alter Burgen
+des erfinderischen Geistes der Erbauer alter Burgen
 und Tempel erhalten. Wir hatten einen Höhlentempel besucht,
 der drei Stockwerke besaß, jedes mit einer Falltür,
 die geradezu raffiniert angelegt gewesen. Auch jener Höhlentempel
@@ -1142,7 +1142,7 @@ Dann ein heiserer Schrei.
 
 Stille nun.
 
-Uns abermals Harst, der einen Menschen gepackt hielt.
+Und abermals Harst, der einen Menschen gepackt hielt.
 
 »Licht!« rief er mir zu.
 
@@ -1191,7 +1191,7 @@ Harst sah ein, daß dieser Talamba ein harmloser
 Bursche war. Er nahm ihm selbst das als Strick benutzte
 Turbantuch ab und schenkte ihm ein Zehnrupienstück.
 
-»Da — dies als Entschädigung, Talamba, — Sage
+»Da — dies als Entschädigung, Talamba. — Sage
 mal, bist Du schon öfters hier in dieser Grotte gewesen?«
 
 »Sehr oft, Sahib. Wenn die Kobras sich paaren,
@@ -1209,7 +1209,7 @@ in der Grotte ist doch vor vier Monaten eine weiße Lady
 tot aufgefunden worden — ermordet.«
 
 »Das wissen wir —« — Harald log: wir hatten keine
-Ahnung von diesen Mord!
+Ahnung von diesem Mord!
 
 »Wolltet Ihr nach unten gehen, Sahib?« meinte der
 <@pagebreak/>
@@ -1344,7 +1344,7 @@ ward anders gestimmt. Daß hier in Agra keine Weiße
 ermordet war, wußte ich. Ein Mensch, der Zeitungen so
 genau liest wie ich und so viele Zeitungen, hätte etwas
 über den Mord in einem indischen Blatte finden müssen.
-Mir wäre eine solche Notiz nie entgangen, — Talambas
+Mir wäre eine solche Notiz nie entgangen. — Talambas
 eigenes Geistesprodukt mag dieser Mord als Ueberleitung
 zu der Höhle unter der Grotte nicht gewesen sein. Die
 Barrings werden ihm genau vorgeschrieben haben, was

@@ -59,7 +59,7 @@ beobachtete, wie Sie hier am Tische Platz nahmen, Mr.
 Jefferson.«
 
 Der Oberst hatte sich von dem ersten Schreck wieder erholt.
-Sein farbloses Antlitz war trat kupferrot. Das Blut
+Sein farbloses Antlitz war jetzt kupferrot. Das Blut
 war ihm in heißer Welle in die Wangen geschossen.
 
 Der hagere Herr besaß Energie, ohne Zweifel! Das
@@ -117,7 +117,7 @@ Meuchelmörder entgangen sind, so kann vielleicht heute Ihnen
 die Schicksalsstunde nahen, Mr. Jefferson!«
 
 Der hagere, sehnige Oberst warf Harst einen Blick zu,
-in dem deutlich wieder etwas die Angst zu lesen war.
+in dem deutlich wieder etwas wie Angst zu lesen war.
 
 »Hm — möglich, daß es mich mal erwischt, das Schicksal,«
 sagte er leiser. »Ich bin Fatalist. Ich bilde mir ein,
@@ -190,7 +190,7 @@ einen Revolver, den er nun rasch in die Tasche schob.
 »Wieder entwischt!« sagte er grimmig. »Der Chinese
 <@pagebreak/>
 sprang mich an, wollte mir einen Messerstich versetzen, traf
-vorbei. Leiser schoß auch ich daneben —«
+vorbei. Leider schoß auch ich daneben —«
 
 Die Schufte hatten ein paar Neugierige und einen Polizeibeamten
 herbeigelockt.
@@ -438,7 +438,7 @@ Da setzte er sich wieder zu mir.
 
 »Sie wünschen?« fragte er laut.
 
-Und abermals dieselbe Stimme, die bald aus der rechte,
+Und abermals dieselbe Stimme, die bald aus der rechten,
 bald aus der linken, bald aus den Ecken hinter uns zu
 kommen schien.
 
@@ -464,7 +464,7 @@ Gegnern gegenüber anwendet. Haben Sie Vertrauen zu
 mir. Es wird nicht getäuscht werden.«
 
 Harst wandte noch immer genau so wie ich den Kopf
-suchend hin und her
+suchend hin und her.
 
 »Der nördliche Krater ist gefährlich, Mistreß,« sagte
 er nun. »Ist Ihnen dies bekannt?«
@@ -541,7 +541,7 @@ wir bis zur halben Höhe der Ostwand emporgestiegen.
 Wir hatten keinen trockenen Faden mehr am Leibe. Wir
 waren erschöpft, einem Hitzschlage nahe. Es war keine
 <@pagebreak/>
-Kleinigkeit gewesen, die stellen Pfade des Dschebel Schamschan
+Kleinigkeit gewesen, die steilen Pfade des Dschebel Schamschan
 zu erklettern.
 
 Im Schatten eines mächtigen Steinblocks setzten wir
@@ -587,7 +587,7 @@ vermocht. — Meine Bitte geht dahin: nehmen Sie
 mich mit heute abend, wenn Sie mit Oberst Jefferson in die
 Wüste hinausreiten! Nehmen Sie mich als Diener mit.
 Ich werde meine Verkleidung so einrichten, daß Jefferson
-nicht Ihnen soll, ein Weib sei der Diener Tom Bulbry, ein
+nicht ahnen soll, ein Weib sei der Diener Tom Bulbry, ein
 alter Matrose, den Sie angeblich von früher her kennen.«
 
 Dieser höchst eigenartige Vorschlag, durch nichts näher
@@ -689,7 +689,7 @@ sagte er denn, als Sie ihm mitteilten, ich käme mit?«
 
 »Ihm war’s erst recht unangenehm —«
 
-»Kann ich mir denken!« nicke Bulbry, wobei seine
+»Kann ich mir denken!« nickte Bulbry, wobei seine
 zusammengekniffenen Augen sich einen Moment weiteten
 und so ihre ganze Ausdrucksfähigkeit verrieten. —
 
@@ -840,7 +840,7 @@ in ein Nebental ein, das mit Felsblöcken übersät war und
 sich nach Nordost hinzog. Gegen Mitternacht wich Jefferson
 abermals in ein Quertal ab. Und eine halbe
 Stunde später kletterten unsere Tiere über Steingeröll in
-die offene Wüste hinauf
+die offene Wüste hinauf.
 
 Abermals ging’s nun abwechselnd im Schritt und
 Trab weiter nach Nordost. Erst als der Morgen graute
@@ -869,7 +869,7 @@ außerdem auch zu müde, mich mit Gedanken abzugeben, ob
 Jefferson etwa Wert auf die erste Wache legte.
 
 Auch Harald gähnte immer häufiger. So streckten wir
-uns denn aus unsere Decken aus, benutzten die Sättel als
+uns denn auf unsere Decken aus, benutzten die Sättel als
 Kopfkissen und sahen noch, daß der Oberst mit seiner
 Repetierbüchse im Arm einen nahen Hügel erkletterte.
 
@@ -903,7 +903,7 @@ lag. Wir hatten bei der Mahlzeit darüber gesprochen, und
 Jefferson hatte erklärt, wir würden die Straße jetzt bald
 kreuzen.
 
-Dann saß ich im Westen etwas anderes: Aasgeier, mindestens
+Dann sah ich im Westen etwas anderes: Aasgeier, mindestens
 zwanzig, die eine Meile entfernt über ein paar
 Felshügeln schwebten und sich langsam niederließen.
 
@@ -913,7 +913,7 @@ aus jener Richtung gekommen und hatten nichts
 von Kadavern bemerkt.
 
 <@pagebreak/>
-ich vergaß die eklen Vögel wieder. Die Hitze trieb
+Ich vergaß die eklen Vögel wieder. Die Hitze trieb
 mich in den Schatten zurück. —
 
 Nachmittags fünf Uhr hatte Tom Bulbry die zweite
@@ -969,7 +969,7 @@ So drängte ich denn mein Tier wieder neben Harald.
 Jefferson eigentlich hältst?« fragte ich ein wenig ärgerlich.
 »Ich denke, Du —«
 
-»Lieber Alter,« fiel er mir ins Wort. »Du soll es
+»Lieber Alter,« fiel er mir ins Wort. »Du sollst es
 wissen: Jefferson ist ein vielfacher Mörder.«
 
 Ich wollte schon auffahren und mir derartige Scherze
@@ -1088,7 +1088,7 @@ Jefferson ließ sein Tier niederknien und sprang aus
 dem Sattel.
 
 »Sie werden sich dieser Frechheiten wegen zu verantworten
-haben!« sagte er jetzt mit scheinbarer Ruhe zu Harst,
+haben!« sagte er jetzt mit scheinbarer Ruhe zu Harst.
 »Sie vergessen, daß ich einen hochgeachteten Namen trage
 und daß —«
 
@@ -1117,11 +1117,11 @@ Frau Hendrick. Wir werden ihm seine Schandtaten vorhalten.«
 
 Die Frau blickte Harald überrascht an.
 
-»Hendrick? Sie kennen meinen Namen, Mr, Harst?«
+»Hendrick? Sie kennen meinen Namen, Mr. Harst?«
 rief sie leise.
 
 »Ja. Ich vermutete, daß Sie Frau Antonie Hendrick
-sein müßten, die Gattin des berühmten Raubtierdresseurs,
+sein müßten, die Gattin des berühmten Raubtierdresseurs.
 — Kommen Sie! Jefferson soll alles mit anhören!«
 
 Vor den Palmen lagen genügend Felsblöcke, die uns
@@ -1190,15 +1190,14 @@ das auch mir seiner Zeit auffiel. Es lautete etwa:
 > __1000 Pfund Belohnung__
 
 dem der mir über den Verbleib meines Mannes, des
-»Dompteurs Karl Hendrick, genaue Auskunft geben kann.
+Dompteurs Karl Hendrick, genaue Auskunft geben kann.
 Hendrick hielt sich im Februar d. J. in der südarabischen
 Küstenstadt Mirbat auf, von wo er mit einer Expedition
 ins Innere aufbrechen wollte. Er führte beträchtliche Werte
 bei sich. In Mirbat konnte ich nur in Erfahrung bringen,
 daß er die Stadt unbekannt wohin allein verlassen hat.
 Seitdem fehlt jede Nachricht von ihm. — Frau Antonie
-
-> Hendrick, zur Zeit Hotel Atlantic, Aden.
+Hendrick, zur Zeit Hotel Atlantic, Aden.
 
 Diese Anzeige veranlaßte Sie, nach Aden zu eilen.
 Sie fanden Frau Hendrick hier jedoch nicht mehr vor. Sie
@@ -1235,7 +1234,7 @@ Harst blieb kalt und unbewegt.
 »Inzwischen war Frau Hendrick in Mirbat gewesen
 und hatte dort den Inder und den Chinesen kennengelernt,
 zwei der geflüchteten Mitglieder der Bande Jussuf Nazirs,
-die sich ihr genähert hatten, weit sie ebenfalls wußten, daß
+die sich ihr genähert hatten, weil sie ebenfalls wußten, daß
 Karl Hendrick jene kleine Karawane ausgerüstet gehabt
 hatte, die dann überfallen wurde —«
 
@@ -1342,7 +1341,7 @@ Gehorsam aß er dann, was wir ihm reichten. Er erkannte
 uns nicht. Er hielt uns offenbar für Araber, in
 deren Gewalt er geraten. —
 
-Der Morgen graute. Wir saßen ist mit unserer
+Der Morgen graute. Wir saßen jetzt mit unserer
 Landsmännin Antonie Hendrick unter der anderen Palmengruppe.
 
 Sie erzählte uns jetzt mit allen Einzelheiten ihre
@@ -1401,7 +1400,7 @@ Hügelkette.
 
 Ihn, der das bei weitem beste Tier besaß, einzuholen,
 war unmöglich. Als Harst und ich die Hügel erreicht hatten,
-faden wir den Oberst im Galopp weit draußen dahinjagen.
+sahen wir den Oberst im Galopp weit draußen dahinjagen.
 
 Harald machte sich jetzt die schwersten Vorwürfe, auf
 den Wahnsinnigen nicht besser achtgegeben zu haben.

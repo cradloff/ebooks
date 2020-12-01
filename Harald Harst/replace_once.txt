@@ -1,9 +1,9 @@
 \bAch\b	Ich
 \bAhnen\b	Ihnen
 \bBieter\b	Meter
+\bElement\b	Clement
 \bFahr\b	Jahr
 \bFahren\b	Jahren
-\bfegten	setzten
 \bfegte	setzte
 \bfein	sein
 \bfette\b	setzte
@@ -17,4 +17,5 @@
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bTer\b	Der
+\bver\b	der
 \bvor!\b	dort
