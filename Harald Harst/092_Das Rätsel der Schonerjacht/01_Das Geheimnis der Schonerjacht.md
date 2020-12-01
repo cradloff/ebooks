@@ -1,6 +1,6 @@
 <@pagebreak/>
 
-<div style="border: solid black 1px; font-size: x-large; text-align: center;">
+<div style="font-size: x-large; text-align: center;">
 Harald Harst: Aus meinem Leben
 </div>
 
@@ -221,7 +221,7 @@ Der Sekretär lächelte. »Mr. Harst wird jetzt denken,
 ich hätte Ihnen abgeraten, sich an ihn zu wenden, Mr. Narrow,
 was doch keineswegs der Fall ist.«
 
-»Na — zugeredet haben Sie mir auf nicht gerade,
+»Na — zugeredet haben Sie mir auch nicht gerade,
 Laccemoor! Wir wollen ruhig bei der Wahrheit bleiben.
 Mr. Harst ist sicherlich nicht empfindlich.«
 
@@ -482,7 +482,7 @@ und entführt. Dies mag noch so unwahrscheinlich
 klingen. Aber — geben Sie mir eine bessere Lösung, Mr.
 Harst.«
 
-»Das kann ich nicht. Ich bin wie Sie überzeugt, das
+»Das kann ich nicht. Ich bin wie Sie überzeugt, daß
 die Nevada durch Evelyn geraubt wurde,« erklärte Harald
 ohne Zögern.
 
@@ -588,7 +588,7 @@ Still hörte er zu.
 Harst,« meinte er nun achselzuckend. »Ja — auch ich kann
 nur sagen: Schiffsraub!«
 
-Da drehte Laccenoor sich um.
+Da drehte Laccemoor sich um.
 
 »Hören Sie, meine Herren. Kwei Jangs Bruder meldet
 folgendes:
@@ -821,7 +821,7 @@ verlegen. Auch er ahnte wohl, daß Chester Connword
 das Richtige mutmaßte.
 
 Connword erklärte nun gelassen: »Die Betäubung
-der Bejahung der Nevada konnte nur gelingen, wenn Miß
+der Besatzung der Nevada konnte nur gelingen, wenn Miß
 Evelyn darum wußte, also dabei mithalf. Die Annahme
 der hiesigen Polizei, daß Miß Evelyn die Depesche mit der
 Aufforderung, nicht nach der Nevada zu suchen, gezwungenermaßen
@@ -1062,7 +1062,7 @@ Ich sah es.
 
 Ich sah es aber nur noch wie durch Schleier hindurch.
 
-Ich hatte das Gefühl, als ob der ganzen Raum sich
+Ich hatte das Gefühl, als ob der ganze Raum sich
 mit einem Male zu drehen begann — immer rascher.
 
 Harst tat einen Satz — wollte die Tür erreichen.
@@ -1324,7 +1324,7 @@ Unsere Augen maßen immer wieder den Zwischenraum.
 Unsere Hände führten immer wieder die Ferngläser
 hoch.
 
-Wir rücken rasch auf. Ich erkannte bereit vier Personen
+Wir rückten rasch auf. Ich erkannte bereits vier Personen
 an Deck der kleinen Jacht. Drei waren Asiaten, einer
 ein Europäer.
 

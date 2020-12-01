@@ -200,7 +200,7 @@ bleiben.
 
 Als der Milliardär den Salon verlassen hatte, kam die
 Rede notwendig wieder auf Thomas Armart und auf den
-geheimnisvollen Brief des Dänen Spvenborg, der, wie Harald
+geheimnisvollen Brief des Dänen Svenborg, der, wie Harald
 betonte, doch offenbar jenem Volke in Innerarabien
 entwichen war und von dort noch die goldenen Geräte mitgenommen
 hatte.
@@ -213,7 +213,7 @@ dessen Existenz nicht zu zweifeln.
 Wir alle rauchten und hatten den Salon schnell in
 dicke Qualmschwaden gehüllt. In diesem Zigarren- und
 Zigarettennebel erschien jetzt plötzlich, ohne anzuklopfen
-hereinstürzend der Deutsche Matrose Möller, ein Hamburger
+hereinstürzend der deutsche Matrose Möller, ein Hamburger
 <@pagebreak/>
 Jung mit einem Mundwerk für zwei, aber brauchbar und
 zuverlässig.
@@ -284,7 +284,7 @@ sagte ich mir dies selbst. Hierzu hatte ich reichlich Gelegenheit,
 als wir nun die in all ihren Innenräumen aufs traurigste
 verwüstete Nevada durchsuchten.
 
-Harst schritt voran — Schritt über zertrümmerte Türen
+Harst schritt voran — schritt über zertrümmerte Türen
 und Möbel hinweg, über zerbrochene Kisten, Scherben und
 Stoffetzen. Sogar die Wandbespannungen hatten die Araber
 herabgerissen.
@@ -572,7 +572,7 @@ machte! Er wollte gar nicht befreit sein.
 
 »Dies wußte ich sofort, als Orkry uns den Inhalt des
 Briefes mitgeteilt hatte,« fügte Harald hinzu. »Wir werden
-jedoch Schweigen. Ich will jetzt mehr den Forscher als den
+jedoch schweigen. Ich will jetzt mehr den Forscher als den
 Detektiv spielen. Jenes geheimnisvolle Volk interessiert
 mich.«
 
@@ -718,7 +718,7 @@ aufregenden Abenteuer und hatten doch gehofft, diese Nacht
 noch in unserer Kabine auf der Rania Maru zubringen zu
 können.
 
-Harst ritt stets stets fünfzig Meter voran. Die Fährte
+Harst ritt jetzt stets fünfzig Meter voran. Die Fährte
 führte nach Südost in die wellige Sandwüste hinein — bis
 in ein Tal, wo die Spuren eines Lagers verrieten, daß die
 Kamelreiter hier längere Zeit, sicher mehrere Tage, geweilt
@@ -752,7 +752,7 @@ etwa zwei Stunden!«
 
 Er schritt den Fährten nach. Wir kamen bald an eine
 Stelle, wo der Sandalenträger ein Kamel bestiegen hatte
-und nach Süden geritten war. Die Löwenspur blies stets
+und nach Süden geritten war. Die Löwenspur blieb stets
 dicht neben dem Reiter.
 
 Wieder machte Harald halt.
@@ -795,7 +795,7 @@ Nach rechts die endlose Wüste. Und vor und hinter
 uns kahle Berge, Felsen, Steingeröll in weiten Feldern.
 
 <@pagebreak/>
-»Herab, eine Frage!« bat ich laut.
+»Harald, eine Frage!« bat ich laut.
 
 Da riß er sein Tier zurück.
 
@@ -806,7 +806,7 @@ die Einöde belebt.
 
 Eine endlose Linie von Kamelreitern kam auf uns zu
 gejagt — mit flatternden weißen Burnussen; flatternden
-Kopftüchern, deren rote breite Seiten von weitem leuchtete,
+Kopftüchern, deren rote breite Einfassung von weitem leuchtete,
 — mit roten Schärpen um die Hüften, Gewehren in
 den Händen.
 
@@ -1226,7 +1226,7 @@ fragte dann:
 
 »Etwa Mr. Harst?«
 
-»Ja. Und Sie sind William Brenn!«
+»Ja. Und Sie sind William Prenn!«
 
 »Der bin ich! — Also auch Sie gefangen, Mr. Harst!
 Seien Sie froh, daß Sie dem Tode entronnen sind — vorläufig!«
@@ -1498,7 +1498,7 @@ und Gelehrten bestürmt, näheres über den geheimnisvollsten
 Stamm im Interesse der Wissenschaft anzugeben.
 Vielleicht sind dem Leser kurze Notizen in der Presse
 vor die Augen gekommen, des Inhalts, daß unsere Erlebnisse
-endlich Ausschluß über die Frage verschafft hätten,
+endlich Aufschluß über die Frage verschafft hätten,
 ob das sagenhafte Volk existiere oder nicht. Besonders eingehend
 hat Professor Balfeer sich im »Strand Magazine«
 vom 1. April 1922 mit den Arakruziern beschäftigt und diese
