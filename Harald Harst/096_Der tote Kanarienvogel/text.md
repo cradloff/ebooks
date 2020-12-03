@@ -5,163 +5,163 @@
 <h2>1. Kapitel.</h2>
 
 »Dort hängt schon einer der Steckbriefe,« sagte Harald
-Hart am Warnen des 11. Mai früh sieben Uhr zu mir,
+Harst am Morgen des 11. Mai früh sieben Uhr zu mir,
 als wir uns auf dem Wege zur Alfströmschen Villa befanden,
 wo uns in der vergangenen Nacht Doktor Berthold
-Finster entwischt war, »Die Polizei arbeitet fabelhaft
-schnell. Sehen wir uns den Stecbries mal an«.
+Finster entwischt war. »Die Polizei arbeitet fabelhaft
+schnell. Sehen wir uns den Steckbrief mal an«.
 
 Das rotumrandete Plakat war an der Litfaßsäule von
-sehr harmlosen Refklamezetteln eingerahmt, hing zwischen
-Anpreifunaenbon Gardinen, Ghbefteden, Hosenträgern
+sehr harmlosen Reklamezetteln eingerahmt, hing zwischen
+Anpreisungen von Gardinen, Eßbestecken, Hosenträgern
 und »staunend billigen Anzügen«,
 
 An den beiden Ecken befanden sich Bilder Berthold
-Finsters, eins mit, eins ohne Bart, Das. intelligente Gesicht
+Finsters, eins mit, eins ohne Bart. Das intelligente Gesicht
 des Verbrechers mit dem höhnisch-überlegenen Ausdruck
 um den Mund war uns beiden nur zu gut bekannt.
 
-Dann der gedruckte Teil;
+Dann der gedruckte Teil:
 
 > Gegen den unten beschriebenen früheren Rechtsanwalt
 und Notar, Doktor der Rechte, Justizrat Berthold
-August Oskar Finster, goß. zu Naugard am 2, Juni 1870,
+August Oskar Finster, geb. zu Naugard am 2. Juni 1870,
 der flüchtig ist und sich verborgen hält, wird wegen Mordversuchs,
 Kindesentführung, Freiheitsberaubung — und
-so weiter,
+so weiter.
 
 Alter: 52 Jahre. Statur: mittelgroß, etwas gebückte
-Haltung, hager, Gesicht: länglich, bartlos. Augen;
+Haltung, hager. Gesicht: länglich, bartlos. Augen:
 dunkel, etwas zugekniffen. Nase: schmal, gut geformt.
 Haar: grau meliert, dünner Scheitel. Besondere Kennzeichen:
 unangenehme heisere Stimme, höhnischer Zug im
-Star.
+Gesicht.
 
 Finster dürfte eine Verkleidung angelegt haben und
-weit jünger anstoßen.
+weit jünger aussehen.
 
 <@pagebreak/>
 Auf seine Ergreifung wird eine Belohnung von 50 000
-Mark ausgefegt, — und so weiter.
+Mark ausgesetzt, — und so weiter.
 
 Besonders zu beachten: Finster hat eine noch frische
 Schußwunde an der rechten Hand, wird also die Hand
 verbunden tragen.
 
 »Eigentlich müßte man ihn hiernach doch finden,«
-meinte Harald sinnend, »Dieses Gesicht prägt sich doch sofort
-ein. Man hätte außer der Schußwunde noch auf Bin
-friere etwas große längliche Ohren hinweisen sollen.«
+meinte Harald sinnend. »Dieses Gesicht prägt sich doch sofort
+ein. Man hätte außer der Schußwunde noch auf Finsters
+etwas große längliche Ohren hinweisen sollen.«
 
 Wir gingen weiter. »Die erste meiner Kugeln gestern
-abend traf nicht, Die zweite durchichlua den Handrücken
+abend traf nicht. Die zweite durchschlug den Handrücken
 und muß auch einen Finger gestreift haben,« sagte Harald,
-indem er sein Zigarettenetui hervorholte. »Aus diesen zweiten
+indem er sein Zigarettenetui hervorholte. »Auf diesen zweiten
 Schuß flog auch Finster das Taschenmesser aus der
 Hand, und Frau Inge Alfström war gerettet.« (Vergl.
-Band 95 »Frau spare Tränen«) —
+Band 95 »Frau Inges Tränen«.) —
 
 Dieser wirklich köstliche Maimorgen war so recht für
 einen längeren Spaziergang geschaffen. Um acht Uhr hatten
-wir uns mit Kommissar Bechert vor derAlsströmschen
+wir uns mit Kommissar Bechert vor der Alfströmschen
 Villa in Südende-Berlin verabredet. Wir drei wollten in
 aller Ruhe jetzt am hellen Tage feststellen, wie Berthold
 Finster es möglich gemacht hatte, Becherts Beamten zu
 entschlüpfen, die doch die Villa eng umstellt gehabt hatten
-und denen von Finsters Bande auch fünf als Sicherheits-poften
-ausgestellte Leute In Die Hände gefallen waren.
+und denen von Finsters Bande auch fünf als Sicherheitsposten
+aufgestellte Leute in die Hände gefallen waren.
 
 Wir kamen jetzt über ein Stück unbebautes Gelände in
 der Nähe des Bahnhofs Steglitz hinweg. Harald hielt die
-Zigarette noch unangezzüindei zwischen den Fingern.
+Zigarette noch unangezündet zwischen den Fingern.
 
 Und meinte plötzlich: »Nun wird sich ja zeigen, ob der
 Mann hinter uns wirklich Berthold Finster ist.«
 
-Das traf mich wie eine eilige Durchs, Die Maimor-genftimmung
-war wie weggewischt..
+Das traf mich wie eine eisige Dusche. Die Maimorgenstimmung
+war wie weggewischt.
 
 »Finster?« entfuhr es mir.
 
 »Vielleicht, mein Alter. Es ist da jemand von der
 Blücherstraße, von unserem Hause an hinter uns. Dort
-vor uns mündet dieser Weg in einen Häuserblock, Dort
+vor uns mündet dieser Weg in einen Häuserblock. Dort
 hinter der Biegung werden wir in eine Haustür schlüpfen.
 
 »Hat der Mann denn eine verbundene rechte Hand.«
 
 »Er hat gar keine. Der rechte Arm scheint ihm zu
-fehlen. Au der rechten Tasche der graugrünen Jägerioppe
+fehlen. In der rechten Tasche der graugrünen Jägerjoppe
 <@pagebreak/>
-rot das Ende des leeren Aermels. Aber Du weißt: ein
-vorhandener Arm läßt sich verbergen, und ein geblendet
-»Arm läßt sich vortäuschen.«
+steckt das Ende des leeren Aermels. Aber Du weißt: ein
+vorhandener Arm läßt sich verbergen, und ein fehlender
+Arm läßt sich vortäuschen.«
 
-Hegt feste er Die Zigarette in Brand.
+Jetzt setzte er Die Zigarette in Brand.
 
-As einem Felde links von uns stieg eine Lerche ruhigen
-einem Laubengärten auf der anderer
-? Dachpappe auf fein Haut
-en und pst dazu sschmetternd einen Marsch, Ringsun-Frühling.
-Es war schade, daß Die ganze
-torgenstimmung nun verdorben war, ausgerechnet Berthold
-Finsters wegen, eines Menschen, der in jeden Beziehung
-meine Sympathien der scherzt hatte, nachdem er
-gestern nacht Frau Inge auf den Eisenspigen einer Gittertür
-hatte ausersehen wollen.
+Aus einem Felde links von uns stieg eine Lerche jubilierend
+hoch. In einem Laubengarten auf der anderen
+Seite nagelte ein Mann neue Dachpappe auf sein Häuschen
+und pfiff dazu schmetternd einen Marsch. Ringsum
+duftete es nach Frühling. Es war schade, daß Die ganze
+Morgenstimmung nun verdorben war, ausgerechnet Berthold
+Finsters wegen, eines Menschen, der in jeder Beziehung
+meine Sympathien verscherzt hatte, nachdem er
+gestern nacht Frau Inge auf den Eisenspitzen einer Gittertür
+hatte aufspießen wollen.
 
 Dann Harald: »Vorwärts — hier hinein!«
 
 Und wir schlüpften in die offene Haustür,
 
-»Du ddertrittit ihm den Weg,« fügte Harst hinzu. »sich
+»Du vertrittst ihm den Weg,« fügte Harst hinzu. »ich
 will ihm in den Rücken. Der Hof dieses Hauses öffnet sich
-an Norden in das Laubengelände, wie ich soeben gesehen
+nach Norden in das Laubengelände, wie ich soeben gesehen
 habe.«
 
-Arm weiter durch den Flur. Ich blieb dicht an der
-Lachen.
+Er eilte weiter durch den Flur. Ich blieb dicht an der
+Tür stehen.
 
 Hörte dann wuchtige Schritte,
 
-Sah den Mann in der oane von rechts nahen, war
-in zwei Schritten vor ihm, hatte ihn’ nun mir dicht genommen.
+Sah den Mann in der Joppe von rechts nahen, war
+in zwei Schritten vor ihm, hatte ihn nun mir dicht gegenüber.
 
-Die Größe, die Hagerkeit stimmten, Der schwarze
-langgezogene Schnurrbart und die dicken Schwarzen Augenbrauen
-besagten gar nichts, ebensowenig die zigeunerhast
-rotbraune Gesichtsfarbe, Nur die Nase — die launische
-Wildererhakennase — die stimmte nicht! Nein, Pokern
-Finsters etwas negermäßiges Riechorgan ließ sich uns
-Deutsch derart Angelhaken.
+Die Größe, die Hagerkeit stimmten. Der schwarze
+langgezogene Schnurrbart und die dicken schwarzen Augenbrauen
+besagten gar nichts, ebensowenig die zigeunerhaft
+rotbraune Gesichtsfarbe. Nur die Nase — die launische
+Wildererhakennase — die stimmte nicht! Nein, Doktor
+Finsters etwas negermäßiges Riechorgan ließ sich unmöglich
+derart umgestalten.
 
-»Guten Morgen,« jagte ich kurz, die rechte Hand in
-er Jackentasche um die Clement gelegt. Man konnte ja
-ii willen! E82 konnte einer von Finsters Bande sein.
+»Guten Morgen,« sagte ich kurz, die rechte Hand in
+der Jackentasche um die Clement gelegt. Man konnte ja
+nie wissen! Es konnte einer von Finsters Bande sein.
 »Guten Morgen. Sie wünschen von uns?«
 
-Der Mann schrak zurück, war verlegen, riß das gallige
-olerhiltchen vom Kopf und stammelte:
+Der Mann schrak zurück, war verlegen, riß das grüne
+Tirolerhütchen vom Kopf und stammelte:
 
-»Verzeihn’s, Herr. F hob nit gaewoaat, Sie anzu-fhrechn,
+»Verzeihn’s, Herr. I hob nit gewoagt, Sie anzusprechn.
 <@pagebreak/>
-J hätt a Anliegen an den Herrn Harst, an den
-berihmt’n Detektiven, Jakob Pfishuber ich moan Nam’,
-Herr, — Schaubudenbesitzer Koloß Miithuber —«
+I hätt’ a Anliegen an den Herrn Harst, an den
+berihmt’n Detektiven, Jakob Pfitzhuber is moan Nam’,
+Herr. — Schaubudenbesitzer Jakob Pfitzhuber —«
 
 Harald näherte sich.
 
-»Segen Sie Uhren Hut nur wieder auf, Herr Pfitzhuber,«
-meinte ich, »Falls Sie echt sind, wird mein Freund
-he gern anhören,«
+»Setzen Sie Ihren Hut nur wieder auf, Herr Pfitzhuber,«
+meinte ich. »Falls Sie echt sind, wird mein Freund
+Sie gern anhören,«
 
-Harst schlug ihm fett von hinten leicht auf die rechte -
-Schuster.
+Harst schlug ihm jetzt von hinten leicht auf die rechte
+Schulter.
 
-Der Arm fehlt wirklich,« nickte er mir zu.
+»Der Arm fehlt wirklich,« nickte er mir zu.
 
 Jakob Pfitzhuber lüftete abermals den Filz. »Ah —
-der Herr Harst, 5 hätt! a Anliegen, Herr, von wegen
+der Herr Harst. I hätt’ a Anliegen, Herr, von wegen
 moan gelben Kinstler, Herr —«
 
 »Bedecken Sie sich,« sagte Harst freundlich,
@@ -170,32 +170,32 @@ moan gelben Kinstler, Herr —«
 »Schaubudenbesitzer. Er hat sich nicht recht getraut, zu
 uns zu kommen.«
 
-»Freili — nit getraut hob! ich mi, Herr Harst,« rief
-Alphabet offen, »’8 moan bot nur von wegen moan
-anarienfänger, Herr Harst, und andres i8 für an’ Mann
-wie Sie doch koan Gegenstany —«
+»Freili — nit getraut hob’ ich mi, Herr Harst,« rief
+Pfitzhuber offen. »’s woar doch nur von wegen moan
+Kanariensänger, Herr Harst, und a Vogel is für an’ Mann
+wie Sie doch koan Gegenstand —«
 
 »hm — das kommt darauf an, Herr Pfitzhuber. Gehen
-wir weiter, Erleichtern Sie Ihr Herz. Der Kanagrien-vogel
+wir weiter. Erleichtern Sie Ihr Herz. Der Kanarienvogel
 war wohl dressiert und ist Ihnen gestohlen worden?«
 
 Pfitzhuber berichtete folgendes:
 
 Seine Schaubude und sein Wohnwagen standen seit
-vier Wochen aus dem Rummelplatz an der Ecke der Potsdamerstraße
-und Grunewaldstraße, Er war, nachdem er
-im Kriege den rechten Arm verloren hatte, Zierbreffeur
-geworden. Seine viele und zweibeinigen Künstler waren
-Awerabunde, Kauen, Kaninchen, Tauben, zwei Raben,
-vier Papageien und der Kanarienvogel Muß. Mit unendlicher
-Geduld hatte er gerade Muß eine Reihe von verhüllte
-laufenden Kunststücken beigebracht. — Sein Geschäft Arna gut,
-purer er nebenbei noch Amerahunbe, Ausgegraben und
-Kaninchen Fürchtete, ein der verflossenen Nacht war Ihm
-nun Mai kamt dem Vogelbauer, das in dem Wohnraum
+vier Wochen auf dem Rummelplatz an der Ecke der Potsdamerstraße
+und Grunewaldstraße. Er war, nachdem er
+im Kriege den rechten Arm verloren hatte, Tierdresseur
+geworden. Seine vier- und zweibeinigen Künstler waren
+Zwerghunde, Katzen, Kaninchen, Tauben, zwei Raben,
+vier Papageien und der Kanarienvogel Mutz. Mit unendlicher
+Geduld hatte er gerade Mutz eine Reihe von verblüffenden
+Kunststücken beigebracht. — Sein Geschäft ging gut,
+zumal er nebenbei noch Zwerghunde, Angorakatzen und
+Kaninchen züchtete. in der verflossenen Nacht war ihm
+nun Mutz samt dem Vogelbauer, das in dem Wohnraum
 des fahrenden Heims an der Wand gehangen hatte, gestohlen
-worden. Er betonte, daß dies nur durch das offen See
-Kaserne Fenster geschehen sein könnte, Der Dieb wäre draußen
+worden. Er betonte, daß dies nur durch das offen gelassene
+Fenster geschehen sein könnte. Der Dieb wäre draußen
 <@pagebreak/>
 auf eine Kiste gestiegen und hätte durch das Fenster
 bequem hineingelangen können,
@@ -203,62 +203,63 @@ bequem hineingelangen können,
 Der brave Jakob Pfitzhuber war ganz untröstlich über
 diesen Verlust.
 
-Bedvenken’s, Herr Harst, der Diebstahl ischt für moan
-hätt mit an’ Ausfall von sehr viel Göld Vaknipft, Der
-aus ad jeden Abend aus an Kästchen Brieferl mit Zu-unftsvoraussagen
-aussi gezogen, und die Brieferl wurd’n
-bezahlt. ich Seh’ Ihnen gern a an Tausender,
-wann’s Sie mir den Muß herbei Schaffen. J hoab die Spuren
-von den Kerl, wo den Mai g’stohlen hoat, mit Breiter
-gedeckt, damit Sie sich die Spuren anschaun könn’n.«
+»Bedenken’s, Herr Harst, der Diebstahl ischt für moan
+Geschäft mit an’ Ausfall von sehr viel Göld vaknipft. Der
+Mutz hat jeden Abend aus an Kästchen Brieferl mit
+Zukunftsvoraussagen aussi gezogen, und die Brieferl wurd’n
+bezahlt. ich geb’ Ihnen gern a paar Tausender,
+wann’s Sie mir den Mutz herbeischaffen. I hoab die Spuren
+von den Kerl, wo den Mutz g’stohlen hoat, mit Bretter
+zugedeckt, damit Sie sich die Spuren anschaun könn’n.«
 
-»Sehr gut, Herr Biishuber — Haben Sie gegen je
-nd Verdacht?«
+»Sehr gut, Herr Pfitzhuber. — Haben Sie gegen jemand
+Verdacht?«
 
-»Nein, Herr Harst, koan Verdacht hoab’ | net. Woher
-? Wir Schausteller san allens anstänvge Zeit«.
+»Nein, Herr Harst, koan Verdacht hoab’ i net. Woher
+auch? Wir Schausteller san allens anständge Leit’. Wir
 hoab’n so a Korpsgeist. Do stiehlt koaner.«
 
 »Schön. Ich werde mit meinem Freunde Schraut noch
-heute vormittag zu Ihnen kommen. Sie müssen aber nie
-wanden Java daß Sie sich an mich gewandt haben.
+heute vormittag zu Ihnen kommen. Sie müssen aber niemanden
+sagen, daß Sie sich an mich gewandt haben.
 hoffentlich hat Ihre Frau nicht geplaudert.«
 
-»Die Zenzi redt nix, Herr Harst, und Bad Bronerl,
-in Tochter, erst recht nix.«
+»Die Zenzi redt nix, Herr Harst, und das Vronerl,
+mein Tochter, erst recht nix.«
 
 »Dann also auf Wiedersehen. Vielleicht haben wir
+Glück.«
 
 Harald war stehen geblieben und reichte Pfitzhuber
 die Hand. »Hm — haben Sie noch etwas auf dem Herzen?«
 fragte er dann.
 
 »Die Polizei, Herr Harst, — net woahr, die Polizei
-lass’n’ wir doch aus dem Spiel,« meinte er sichtlich verlegen
-»und schaute zu Boden. »ZJ mag mit dera Polizei leiten nix
+lass’n wir doch aus dem Spiel,« meinte er sichtlich verlegen
+und schaute zu Boden. »I mag mit dera Polizeileiten nix
 zu tun hab’n —«
 
 »Keine Sorge. Die Sache bleibt ganz unter uns.
 Weshalb können Sie denn die Polizei nicht leiden, Herr
 Pfitzhuber?«
 
-»Oh — ich hoab amal bei oane Schlauere: abfiel
-derb »hreina’ droschen, Herr Harst, wo hoat man mi für
-Tabletts Wochen eingespirrt, Seitdem Zwist ich von dera Polizeiamt
-Gerichtsleiten nix mehr Priesen
+»Oh — ich hoab amal bei oane Schlägerei a bissel zu
+derb dreing’droschen, Herr Harst. Do hoat man mi für
+zwoa Wochen eingespirrt. Seitdem will i von dera Polizei
+und Gerichtsleiten nix mehr wissen.«
 
-Harald lachte, »Was begreiflich ist!«
+Harald lachte. »Was begreiflich ist!«
 
 <@pagebreak/>
 Dann bog Jakob Pfitzhuber nach links ab, während
-wir unseren Wozu nach Südende fortsetzen, —
+wir unseren Weg nach Südende fortsetzen, —
 
 So überaus harmlos und gemütlich begann das
 Problem des toten Kanarienvogels, denn — es wurde ein
-Problem, wurde eine bunte, haftende. Reihe seltsamer Eis
-eianiffe, Die durchaus nichts miteinander zu tun Nr As
-schienen und zwischen denen doch ein geheimes
-fand, ein unsichtbares Band: die verbrecherische ne
+Problem, wurde eine bunte, hastende Reihe seltsamer
+Ereignisse, Die durchaus nichts miteinander zu tun zu haben
+schienen und zwischen denen doch ein geheimes Band
+bestand, ein unsichtbares Band: die verbrecherische Intelligenz
 eines Einzelnen, dessen Spuren wir auch jetzt weiter nachgehen
 wollten, jetzt, als wir die Alfströmsche Villa vor uns
 sahen und dazu Freund Bechert, der vor der Gittertür auf
@@ -271,50 +272,49 @@ den alten Bekannten.
 
 »Allerdings. Etwas sehr Wichtiges. Meine Beamten
 haben den letzten Schlupfwinkel von Finsters weiblichem
-Generalstaböchef, der Hochstaplerin Anna Holm, ermittelt,
+Generalstabschef, der Hochstaplerin Anna Holm, ermittelt.
 Sie wohnte zu derselben Zeit, als sie Zofe bei der
 Baronin Inge Alfström war, unter dem Namen Sennora
 Carla Matiosta im Hause Elßholzstraße Nr. 2 möbliert
 bei einer ehrbaren alten Dame, also in demselben Hause,
 in dem Finster zuletzt seine Büroräume im Hochparterre
-hatte, bis die Anwaltskammer ihn Jaltstellte und er nicht
+hatte, bis die Anwaltskammer ihn kaltstellte und er nicht
 mehr seine Praxis ausüben durfte.«
 
-Ah — Elßholzstraße Nr. 21 Sieh an! Da waren
+»Ah — Elßholzstraße Nr. 2! Sieh an! Da waren
 die beiden sich stets nahe.«
 
 »Ja — und die Sennora Matiosta ist jetzt seit fünf
 Tagen, wie sie ihrer Wirtin weisgemacht hat, verreist. Ich
-hoffe, sie wird in ihr dortiges Heim zurück ehren, da sie
-jetzt doch ebenfalls scharf gesucht wird. Tut lie es, dann
+hoffe, sie wird in ihr dortiges Heim zurückkehren, da sie
+jetzt doch ebenfalls scharf gesucht wird. Tut sie es, dann
 haben wir sie.«
 
-»Nein, hebe Bechert: nicht verhaften lassen in diesem
+»Nein, lieber Bechert: nicht verhaften lassen in diesem
 Falle — nur nicht! Die Holm ist uns in Freiheit wertvoller,
 Finsters wegen.«
 
-»Hm — Sie mögen recht haben, Harst, Also nicht
+»Hm — Sie mögen recht haben, Harst. Also nicht
 <@pagebreak/>
-verhaften Soll geschehen. — So, nun wollen wir hier
-unsere Arbeit beginnen, Ich bin gespannt, wie Berthold
-e, es angestellt haben mag, uns gestern nacht zu Ende
-Tupfen.«
+verhaften. Soll geschehen. — So, nun wollen wir hier
+unsere Arbeit beginnen. Ich bin gespannt, wie Berthold
+Finster es angestellt haben mag, uns gestern nacht zu entschlüpfen.«
 
 Die Villa war bis auf drei Räume Im Oberstock an
 einen Geheimrat Hoßberg vermietet,
 
 Wir begaben uns sofort in die Mansardenstube hinauf,
-der Berthold Finster geflüchtet war, nachdem Harald
+aus der Berthold Finster geflüchtet war, nachdem Harald
 ihm von der Linde vor dem Hause die Hand zerschossen
 und so den Tod der Baronin Alfström verhindert hatte.
 
 Von dieser Stube führte eine Spur von Blutflecken
-auf den Boden und bis an die Treppe, Hier jedoch hörten die
-Blutstropfen aus. Hier hatte auch der Polizeihund versagt,
+auf den Boden und bis an die Treppe. Hier jedoch hörten die
+Blutstropfen auf. Hier hatte auch der Polizeihund versagt,
 den wir in der Nacht noch auf Finsters Fährte gelegt hatten.
 
-Harald betrachtete sinnend die lebten der beamteten
-kleinen Flecken, die sich von den hellen Dielen scharf abhoben,
+Harald betrachtete sinnend die letzten der braunroten
+kleinen Flecken, die sich von den hellen Dielen scharf abhoben.
 Dann blickte er nach oben. Doch die Luke, die vom
 Vorboden unter das Dach führte, lag drei Meter weiter
 links und war außerdem verschlossen gewesen.
@@ -322,40 +322,39 @@ links und war außerdem verschlossen gewesen.
 Plötzlich sagte Harst dann, und seine Augen ruhten
 nun auf dem hellgelben, polierten breiten Treppengeländer:
 
-China gestern nacht Doch recht abgespannt gewesen
-fein. Diner ist natürlich auf dem Geländer abwärts ner
-rutscht,«
+»Ich muß gestern nacht Doch recht abgespannt gewesen
+sein. Finster ist natürlich auf dem Geländer abwärts gerutscht,«
 
 Und er bückte sich und deutete auf einen feinen bräunlichen
 Strich an der Außenseite des Geländers. »Da ist die
-Ton Hand als Stütze benutzt worden, — Weiter
+verwundete Hand als Stütze benutzt worden. — Weiter
 also!«
 
 Wir gingen die Treppen hinab. An manchen Stellen
-des Geländers fehlte die Blutspur, Aber unten im Erdgeschoß
-fanden wir dafür auf der Matte vor dem Bade-zinmier
-einige deutliche Tropfen. -
+des Geländers fehlte die Blutspur. Aber unten im Erdgeschoß
+fanden wir dafür auf der Matte vor dem Badezimmer
+einige deutliche Tropfen.
 
 »Harst öffnete die Tür. Wir traten ein. Gleich links
-Island ein runder Deckelforb für schmutzige Wäsche, Auch
-er Deckel zeigte geringe Blutspuren, und in dem Korbe
-lagen ganz lief unter Wäschestücken ein Beinkleid, eine
-Weste, eine Note, eine Nramaneı dick Witze hatte Vert5b
-Fenster gestern angebohrt Mir erkannten die Sachen sofort
+stand ein runder Deckelkorb für schmutzige Wäsche. Auch
+der Deckel zeigte geringe Blutspuren, und in dem Korbe
+lagen ganz tief unter Wäschestücken ein Beinkleid, eine
+Weste, eine Jacke, eine Krawatte: alles dies hatte Berthold
+Finster gestern angehabt! Wir erkannten die Sachen sofort
 wieder.
 
 »Er hat einen zweiten Anzug getragen,« meinte Harald.
 <@pagebreak/>
-»Einen zweiten unter diesem, bat kann hier auch
+»Einen zweiten unter diesem, hat kann hier auch
 eine andere Krawatte umgelegt —«
 
-»und soll so die Kette meiner Leute passiert Badeort!
-sagte Bechert kopfschüttelnd, »Das ist wohl ausgeschlossen.
-a: Eis sein verdächtiger Mensch die Villa verlassen, lieber
-ach.«
+»und soll so die Kette meiner Leute passiert haben?!«
+sagte Bechert kopfschüttelnd. »Das ist wohl ausgeschlossen.
+Es hat kein verdächtiger Mensch die Villa verlassen, lieber
+Harst.«
 
-»In der Nacht nicht, Aber morgens vielleicht, als Sie
-die Suche aufgegeben hatten, Becher.«
+»In der Nacht nicht. Aber morgens vielleicht, als Sie
+die Suche aufgegeben hatten, Bechert.«
 
 »Und wo soll Finster so lange gesteckt haben?«
 
@@ -363,14 +362,14 @@ die Suche aufgegeben hatten, Becher.«
 fragen wir mal den Geheimrat einiges.«
 
 Der alte vornehme Herr war nach den Aufregungen
-der Nacht noch recht angegriffen, Harald richtete an ihn
+der Nacht noch recht angegriffen. Harald richtete an ihn
 allerlei Fragen.
 
-»Ja, erklärte Herr Hoßberg da, »als Sie oben die
+»Ja,« erklärte Herr Hoßberg da, »als Sie oben die
 Räume durchsuchten und als ich mit meiner Frau hier im
 Salon saß, während wir die Baronin In meinem Zimmer
-auf den Diwan gebettet hatten, klopfte es und ein Fel-tungdreporter
-trat ein —«
+auf den Diwan gebettet hatten, klopfte es und ein
+Zeitungsreporter trat ein —«
 
 »Aha!« machte Harst.
 
@@ -381,39 +380,39 @@ Anzug —«
 nicht die geringste Aehnlichkeit?«
 
 »Nein. — Er bat um einige Angaben über das, was
-hier geschehen. Ich weigerte mich. ihm irgendwelche Mitteilungen
-zu machen. Da bat er mich, Glut wenigstens von
-draußen das Manfardenfenfter zu zeigen, durch das die Baronin
-geflüchtet war, Ich arg mi ihm hinaus.«
+hier geschehen. Ich weigerte mich, ihm irgendwelche Mitteilungen
+zu machen. Da bat er mich, ihm wenigstens von
+draußen das Mansardenfenster zu zeigen, durch das die Baronin
+geflüchtet war. Ich ging mit ihm hinaus.«
 
 »Und an den beiden Beamten vorbei, die an der Vordertür
-Händen?«
+standen?«
 
-»Ja. Der eine fragte noch, wer der Herr sel. Der
-Reporter erwiderte statt meiner, was ich Alemflich Anna
-Denk fand, er wäre ein außer Bekannter von mir,«
+»Ja. Der eine fragte noch, wer der Herr sei. Der
+Reporter erwiderte statt meiner, was ich ziemlich anmaßend
+fand, er wäre ein guter Bekannter von mir,«
 
 »Und so passierte der Mann die Sperre —«
 
-»Allerdings. Ich zeigte ihm vom Vorgarten das Man-sardensenster
+»Allerdings. Ich zeigte ihm vom Vorgarten das Mansardenfenster
 —«
 
-»— Und er verabschiedete sich und verdunstete. —
+»— Und er verabschiedete sich und verduftete. —
 Herr Geheimrat, der Mann war Berthold Finster!«
 
-»Unmöglich«
+»Unmöglich!«
 
 <@pagebreak/>
 »Leider ist es so,« sagte nun auch Bechert. »Dieser
-Justizrat hat uns gründlich geleimt, Während wir hier
+Justizrat hat uns gründlich geleimt. Während wir hier
 noch jeden Winkel durchstöberten, war er längst über alle
-Berge, Der Kerl versteht seinen Kram.«
+Berge. Der Kerl versteht seinen Kram.«
 
 Harald hatte den Anzug über dem Arm, den er in dem
 Wäschekorb gefunden, und begann nun die Taschen sorgsam
 durchsuchen. Sie waren leer — leer bis auf einen
 winzigen Gegenstand, der kaum der Beachtung wert erschien
-die e ihm schenkte.
+die Harst ihm schenkte.
 
 Es war eine kleine, aus dünnem verzinktem Draht gebogene
 Rosette, nichts weiter. Sie hatte in der rechten
@@ -422,140 +421,141 @@ oberen Westentasche gesteckt,
 Harald trat damit ans Fenster. Dann reichte er sie
 Bechert. »Bitte — falls Sie Interesse dafür haben.«
 
-»Kaum, Immerhin werde ich das Ding wieder in die
-Nr zurückziehen,« meinte der Kommissar Scherzend,
+»Kaum. Immerhin werde ich das Ding wieder in die
+Westentasche zurückstecken,« meinte der Kommissar achselzuckend.
 
 Dann verabschiedeten wir uns von dem Geheimrat
 und wanderten dem Bahnhof Südende zu. Der elektrische
-Vorortzug brachte uns drei nach dem Potshamer Bahnhof.
-Hier trennte sich Bechert von uns, Er wollte heim und die
+Vorortzug brachte uns drei nach dem Potsdamer Bahnhof.
+Hier trennte sich Bechert von uns. Er wollte heim und die
 versäumte Nachtruhe nachholen,
 
-Wir fuhren mit der Straßenbahn nach Hause, Es war
-legt halb zehn Uhr vormittand Harald beabsichtigte, in
-der Blücherstraße erst ein wenig in frühstücken und kann den
-immelplap zu besuchen, natürlich in Maske.
+Wir fuhren mit der Straßenbahn nach Hause. Es war
+jetzt halb zehn Uhr vormittags. Harald beabsichtigte, in
+der Blücherstraße erst ein wenig zu frühstücken und dann den
+Rummelplatz zu besuchen, natürlich in Maske.
 
 »Am besten wählen wir wohl die Verkleidung von
 Postbeamten, mein Alter,« sagte er leise in der leeren
-Straßenbahn zu mir, Nur uns gegenüber saß ein altes
-Frauchen mit einer Markttasche auf dem Schoße. »Briefe
-kluger fallen nirgends auf Jakob Pfitzhubers Kanarienvogel
-ist es wert, einige Umstärsve zu Macher,«
+Straßenbahn zu mir. Nur uns gegenüber saß ein altes
+Frauchen mit einer Markttasche auf dem Schoße. »Briefträger
+fallen nirgends auf. Jakob Pfitzhubers Kanarienvogel
+ist es wert, einige Umstände zu machen,«
 
-Dieser Nachsatz klang so ganz anders als das übrige,
-Da war etwas im Ton von Haralds gcdämpvster Stimme,
-Das mich aufmerksam machte, Bevor ich noch fragen konnte,
-was diese besondere Betonung bedeutete, feste er fern
+Dieser Nachsatz klang so ganz anders als das übrige.
+Da war etwas im Ton von Haralds gedämpfter Stimme,
+Das mich aufmerksam machte. Bevor ich noch fragen konnte,
+was diese besondere Betonung bedeutete, setzte er schon
 hinzu:
 
-»Die Zinfdrahtrosette war eine von einem Vogelbauerx
-losgerissene Verzierung. Es saß noch etwas Bogelschnmuy
+»Die Zinkdrahtrosette war eine von einem Vogelbauer
+losgerissene Verzierung. Es saß noch etwas Vogelschmutz
 <@pagebreak/>
-daran, der »jedoch losbrôdelte, als ich am Fenster des Hoß-berafchen
+daran, der jedoch losbröckelte, als ich am Fenster des Hoßbergschen
 Salons mir das Ding besah.«
 
 Vogelbauer — Verzierung! — Jedem wäre da Pfitzhubers
-nelebhriner Mai eingefallen, — jeder hätte da uns
-willkürlich gedacht: vielleicht hat Berthold Finster den Wun-dervogel
-Aura
+gelehriger Mutz eingefallen, — jeder hätte da unwillkürlich
+gedacht: vielleicht hat Berthold Finster den Wundervogel
+gestohlen!
 
-kann ja feine Rede davon sein, daß Finster der
-Vieh »ist,« sprach Harald schon weiter, »Denn per ist
-seit. gestern nachmittag bis heute nacht gegen ein Viertel
+»Es kann ja keine Rede davon sein, daß Finster der
+Dieb ist,« sprach Harald schon weiter. »Denn Finster ist
+seit gestern nachmittag bis heute nacht gegen ein Viertel
 eins in der Villa Alfström gewesen, wie wir bestimmt wissen.
 Den Anzug hat er im Badezimmer etwa Um Mitternacht
 abgelegt. Und da steckte die Rosette schon in der
-Westentasche, während Muß doch in der vergangenen Nacht
+Westentasche, während Mutz doch in der vergangenen Nacht
 erst samt dem Bauer verschwunden ist,«
 
 »Allerdings,« nickte ich. »Und doch bleibt es auffällig,
 daß wir in der Weste ausgerechnet die Verzierung
-eines Nr gefunden haben.«
+eines Vogelbauers gefunden haben.«
 
-Ohne Zweifel — auffällig ist das. Ich möchte —«
+»Ohne Zweifel — auffällig ist das. Ich möchte —«
 
-im den Moment geschah etwas sehr Unerwartetes,
+im selben Moment geschah etwas sehr Unerwartetes,
 
-Harald harte sich erhoben, der Wagen Schleuderte etwas
-in einer Kurve, und zu fiel halb zur Seite auf Die alte
+Harald hatte sich erhoben, der Wagen schleuderte etwas
+in einer Kurve, und Harst fiel halb zur Seite auf Die alte
 Frau, streifte ihren Kopf mit der Hand und — riß ihr
 eine graue Scheitelperücke samt dem armseligen Strohhut
 tief ins Genick.
 
-Unter der Perücke kam so blondes, straff zurückgekämm-tes
+Unter der Perücke kam so blondes, straff zurückgekämmtes
 Haar zum Vorschein.
 
-Die Frau schob rasch Perücke und Mut wieder nach
-vorn, laß Harst, der Kb wortreich eniiculbiate, giftig an
-und verließ rasch den Wagen, der gerade am Wilmers-dorier
+Die Frau schob rasch Perücke und Hut wieder nach
+vorn, sah Harst, der sich wortreich entschuldigte, giftig an
+und verließ rasch den Wagen, der gerade am Wilmersdorfer
 Rathaus hielt,
 
 »ihr nach!« meinte Harst hastig. »Das Weib hat uns
 zu belauschen versucht,«
 
 Leider stiegen ein paar Damen mit Kindern ein. Wir
-verloren zwei kostbare Minuten, Als wir endlich auf der
+verloren zwei kostbare Minuten. Als wir endlich auf der
 Straße standen, war die Blonde, Verkleidete spurlos verschwunden.
 
-Harald war wütend, »So ein Pech! Das kann
+Harald war wütend. »So ein Pech! Das kann
 Anna Holm gewesen sein, mein Alter!«
 
-Er fragte einen vor der Ladentür stehenden Zigarren-ndler,
+Er fragte einen vor der Ladentür stehenden Zigarrenhändler,
 <@pagebreak/>
 ob der nicht die Alte mit der Markttasche bemerkt
+habe.
 
 Der Mann erwiderte, die Frau sei dort in jenes Haus
-Neinnenangen,
+hineingegangen,
 
-Wir sofort hinterdrein, Ich blieb unten im Flur.
+Wir sofort hinterdrein. Ich blieb unten im Flur.
 Harst eilte die Treppen empor,
 
 Und — kehrte mit einer Markttasche zurück, die oben
-zweiten Stock auf dem Fensterkopf gestanden hatte, In
-der Tasche lagen der Hut und das zerlöcherte Umschlage-tuch
+im zweiten Stock auf dem Fensterkopf gestanden hatte. In
+der Tasche lagen der Hut und das zerlöcherte Umschlagetuch
 des armseligen Weibleins.
 
-»Entwischt!! Sie hat das Haus sofort wieder in anderer
-Aufmachung verlassen,« meinte Harald achselzuckend,
-Nehmen wir den Fund mit, Immerhin etwas!«
+»Entwischt! Sie hat das Haus sofort wieder in anderer
+Aufmachung verlassen,« meinte Harald achselzuckend.
+Nehmen wir den Fund mit. Immerhin etwas!«
 
-Gleich voran waren wir daheim im Harstschen Familienhause
+Gleich darauf waren wir daheim im Harstschen Familienhause
 in der Blücherstraße — in Haralds Arbeitszimmer,
 
-Und packten die Markttasche aus; Strohhut mit fahlen
-Blumen, Umfchlaaetuh und — noch ein Zigaretten-farton
-für hundert Zigaretten — schon Zigaretten jetzt,
+Und packten die Markttasche aus: Strohhut mit fahlen
+Blumen, Umschlagetuch und — noch ein Zigarettenkarton
+für hundert Zigaretten — ohne Zigaretten jetzt,
 als Inhalt — einen toten Kanarienvogel!
 
 <h2>3. Kapitel.</h2>
 
 Haralds verdutztes Gesicht beim Anblick des toten gelben
 Tierchens war mir ein Trost: ich selbst hatte ja vor
-Zu erna ebenfalls kaum sehr geistreich. ausgesehen!
+Ueberraschung ebenfalls kaum sehr geistreich ausgesehen!
 
 »Donnerwetter — wieder der Vogel!« meinte ich dann,
 
 Das Tierchen lag auf dem Rücken. Harst hob es an
-einem Bein heraus, legte es wieder in die achtel zurück
+einem Bein heraus, legte es wieder in die Schachtel zurück
 und sagte:
 
 »Merkwürdig!«
 
 »Was denn?«
 
-»Mine — übéieuge Dich Verbitte
+»Bitte — überzeuge Dich selbst!«
 
-Ich acht zu, Kam den Vogel an dem einen Bein
-hoch und besichtigte ich
+Ich griff zu, nahm den Vogel an dem einen Bein
+hoch und besichtigte ihn.
 
-»Bedauere — ich finde nichts Merkwürdiges, Ein toter
+»Bedauere — ich finde nichts Merkwürdiges. Ein toter
 Kanarienvogel sieht wie der andere aus, höchstens die
 Farbe mag etwas verschieden sein,«
 
 <@pagebreak/>
-»Dann tue ihn nur quitt in feinen Pappsarg, mein
-über, und komm’ mit in den Garten,«
+»Dann tue ihn nur zurück in seinen Pappsarg, mein
+Alter, und komm’ mit in den Garten,«
 
 Er trat an den einen Schrank heran und Suchte aus den
 dort untergebrachten Waffen eine Luftbüchse hervor.
@@ -564,132 +564,132 @@ dort untergebrachten Waffen eine Luftbüchse hervor.
 
 »Einen Sperling schießen. Komm,«
 
-Ein frecher Spatz mußte wirklich fein Leben lassen,
+Ein frecher Spatz mußte wirklich sein Leben lassen,
 
-Und wieder standen wir nun in Harsts Arbeitszim-nu,
-und neben dem Pappysarga des gelben Kanarienhähne
-lag aus einer Zeitung der tote Sperling.
+Und wieder standen wir nun in Harsts Arbeitszimmer,
+und neben dem Pappsarg des gelben Kanarienhahns
+lag auf einer Zeitung der tote Sperling.
 
 »Vielleicht nimmst Du mal die Briefwaage und wiegst
 die beiden Vogelleichen, die doch So ziemlich dieselbe Größe
 haben,« sagte er, den Rauch von sich stoßend.
 
-Ich tat es — Tal es mit einer gewissen Spannung,
+Ich tat es — tat es mit einer gewissen Spannung,
 
 Seltsam: obwohl der Kanarienvogel fraglos etwas
-feiner uns Do als der Sperling war, noch er doch
+kleiner und magerer als der Sperling war, wog er doch
 32 Gramm mehr!
 
-»Da — das wirkte ich Dir vor Augen Den mein
-Alter,« nickte Harald ernst »32 Gramm sind eine Gewichts-bifferenz,
-die nicht unbedeutend ist, Der Kanarienvogel
-Nr mit sofort zu schwer vor, Er muß eine Füllung
+»Da — das wollte ich Dir vor Augen führen, mein
+Alter,« nickte Harald ernst »32 Gramm sind eine Gewichtsdifferenz,
+die nicht unbedeutend ist. Der Kanarienvogel
+kam mir sofort zu schwer vor. Er muß eine Füllung
 haben.«
 
-Und er nahm Ihn und blies das Gefieder am Unterteil
-auseinander, so zeigte es sich, daß der Leib ausgeschnitten
-war, So stellten wir fest, daß die Eingeweids
+Und er nahm ihn und blies das Gefieder am Unterteil
+auseinander. So zeigte es sich, daß der Leib aufgeschnitten
+war. So stellten wir fest, daß die Eingeweide
 und die anderen inneren Organe entfernt worden waren
-und in dem hohlen Leibe ein kleines Päckchen stelle; eine
-in Neun goldene Rinne Mär,
+und in dem hohlen Leibe ein kleines Päckchen steckte; eine
+in Fettpapier eingewickelte goldene dünne Damenuhrkette!
 
-»Interessant!« meinte Harst nachdenklich, »Gefüllte
-Tauben und Krammetsvögel kenne ich, Goldgefilllte Kanarienhähne
+»Interessant!« meinte Harst nachdenklich. »Gefüllte
+Tauben und Krammetsvögel kenne ich. Goldgefüllte Kanarienhähne
 reizen meinen Appetit noch mehr — meinen
-Appetit als Rätsellöser, Und dies ist ein Rätsel, Gegen
+Appetit als Rätsellöser. Und dies ist ein Rätsel. Gegen
 halb acht morgens erzählt man uns etwas von einem gestohlenen
-Kanarientier, neuen Brei Viertel neun finden wir
-die Verzierung eines rk, A um halb zehn läßt
-eine verkleidete weibliche Person auf he Flucht der und
-diesen Nanarienhabn gebt Störung im net von
-Berlinerfivaße Nr, 208 zurück. Interessant!«
+Kanarientier, gegen drei Viertel neun finden wir
+die Verzierung eines Vogelbauers, und um halb zehn läßt
+eine verkleidete weibliche Person auf der Flucht vor uns
+diesen Kanarienhahn nebst Füllung im Treppenhause von
+Berlinerstraße Nr. 208 zurück. Interessant!«
 
-Salons da nicht Zufälle mitspielen,« warf ich ein,
+»Falls da nicht Zufälle mitspielen,« warf ich ein,
 
-»Zufälle?! Gleich drei?! Und so hintereinander ?]«
+»Zufälle?! Gleich drei?! Und so hintereinander?!«
 
 <@pagebreak/>
-»Dann Mrs bitte die Üivbinduna ansehen den drei
-esdwhni ist Vor
+»Dann stelle bitte die Verbindung zwischen den drei
+Geschehnissen her —«
 
-Harald harte sich in den Kubsesfel gesetzt und die Wir
-gen Den,
+Harald hatte sich in den Klubsessel gesetzt und die Augen
+geschlossen.
 
-Gedulde Dich.« meinte er grübelnd.
+»Gedulde Dich,« meinte er grübelnd.
 
-Die Zigarette in seinem Mundtwoinkel wippte auf
+Die Zigarette in seinem Mundwinkel wippte auf
 und ab.
 
-Cm wartete, Und Ich legte die Uhrkette auf die Wage.
-jenen 36 Gramm
+Ich wartete. Und Ich legte die Uhrkette auf die Wage.
+Sie wog 36 Gramm
 
-Dann nahm ich das Stückchen Fettpapier. rieb es
+Dann nahm ich das Stückchen Fettpapier, strich es
 glatt.
 
-»Net so, mein Alter!« murmelte Harst. »Etwas
-Inneres zu sehen?«
+»Recht so, mein Alter!« murmelte Harst. »Etwas
+Besonderes zu sehen?«
 
-Nur — nur ein paar blutige Finaerabdritcke,«
+»Nur — nur ein paar blutige Fingerabdrücke,«
 
-Da sprang er auf. »Setz’ einmal her!«
+Da sprang er auf. »Zeig’ einmal her!«
 
-Und sehr langsam: »Das sind Abdrücke einer Männer.
-Wir haben ja Berthold Direktors Fingerstempel zur
-Berilaungd. Vergleichen wir,«
+Und sehr langsam: »Das sind Abdrücke einer Männerhand.
+Wir haben ja Berthold Finsters Fingerstempel zur
+Verfügung. Vergleichen wir,«
 
-Es zeigte sich. dar die blutigen Abbrückte von Wertvoll
-he rechter Hand herrührten. Als wir das feftaefteit
-»Hatten, schauten wir uns eine Weile starr an, Wir hatten
-diesen Erfolg Beine nicht vorausgesehen
+Es zeigte sich, daß die blutigen Abdrücke von Berthold
+Finsters rechter Hand herrührten. Als wir das festgestellt
+Hatten, schauten wir uns eine Weile starr an. Wir hatten
+diesen Erfolg beide nicht vorausgesehen
 
-»Unalaublihl« meinte Annahm. »Wirklich unglauß«
-ich! Mk Finster hat hierbei wirklich —«
+»Unglaublich!« meinte Harald. »Wirklich unglaublich!
+Also Finster hat hierbei wirklich —«
 
-Er schrien
+Er schwieg.
 
-Das Telephon schrillte — schschrillte ununterbrochen.
+Das Telephon schrillte — schrillte ununterbrochen.
 
 Harst eilte zum Schreibtisch, nahm den Hörer von den
-täten und meldete sich
+Stützen und meldete sich
 
 »Tag, Bechert. — Wie?! Das ist ja unmöglich. —
-Takte Erzählen Sie nochmals. Das muß man erst
+Tatsache? Erzählen Sie nochmals. Das muß man erst
 verdauen —«
 
-ran einer Weile:
+Nach einer Weile:
 
-Gut — soll geschehen, lieber Bechert. Wiedersehen!«
+»Gut — soll geschehen, lieber Bechert. Wiedersehen!«
 
-er legte den Hörer den, wandte sich um, lehnte sich an
-eben Schreibt,
+er legte den Hörer weg, wandte sich um, lehnte sich an
+den Schreibtisch.
 
-»Denke Dir, die Ermitiflunaen fta dem Verstarb
-Berthold Finsters haben ergeben, daß seine Nerfonalpapiert
-zumeist nefäffdn sind. Er Oft 1912 angeblich aus Stettin
-ie Berlin gekommen, in Stettin hat es tatsächlich einen
-N« 8autwalt Doktor lassen gegeben. Der ist jedoch 1914
+»Denke Dir, die Ermittlungen nach dem Vorleben
+Berthold Finsters haben ergeben, daß seine Personalpapiere
+zumeist gefälscht sind. Er ist 1912 angeblich aus Stettin
+nach Berlin gekommen. in Stettin hat es tatsächlich einen
+Rechtsanwalt Doktor Finster gegeben. Der ist jedoch 1912
 <@pagebreak/>
 verstorben. Unser Finster hat dann hier den Toten wieder
-aufleben fassen, ist als Anwalt eingetragen worden und
-hat zehn Fahre lang als Folter eine recht fragwüÿrdi
-Klientel gehabt, Er ist also ein Schwindler von Ha! se aus.
+aufleben lassen, ist als Anwalt eingetragen worden und
+hat zehn Jahre lang als Finster eine recht fragwürdige
+Klientel gehabt. Er ist also ein Schwindler von Hause aus.
 Wer er ist, weiß niemand. Jedenfalls nicht Doktor Berthold
 Finster. Bechert bat mich nun, doch nach Stettin zu reisen
-und dort Nachforschungen anzustellen, Das werden wir
-tun, Dieser angebliche Finster wird mir immer intereffan«
-ter. Zunächst wollen wir aber Jakob Pfitzhuber einen Besuch
+und dort Nachforschungen anzustellen. Das werden wir
+tun. Dieser angebliche Finster wird mir immer interessanter.
+Zunächst wollen wir aber Jakob Pfitzhuber einen Besuch
 abstatten. Ich glaube, das dürfte lohnend sein. Also
-vorwärts — Brieitränertoftüme, und dann durch den Gemüsegarten
+vorwärts — Briefträgerkostüme, und dann durch den Gemüsegarten
 einzeln ins Freie, da die Vorderseite unseres
 Hauses vielleicht beobachtet werden dürfte! —
 
 Der Rummelplatz an der Ecke Potsdamerstraße und
-Grunetwaldstraße war jetzt am Tage geschlossen. Nur eine
+Grunewaldstraße war jetzt am Tage geschlossen. Nur eine
 Seitenpforte gestattete uns den Eintritt.
 
-Wir sschlenderten an dem Karussell, an der Lustschaukel
+Wir schlenderten an dem Karussell, an der Luftschaukel
 und ein paar Buden vorüber, sahen dann in der hintersten
-Ehe nach dem Kleistpark zu Pfitzhubers Zelt mit dem Riesenschild
+Ecke nach dem Kleistpark zu Pfitzhubers Zelt mit dem Riesenschild
 über dem Eingang:
 
 > Menagerie dressierter Haustiere!
@@ -697,49 +697,49 @@ Ehe nach dem Kleistpark zu Pfitzhubers Zelt mit dem Riesenschild
 > Staunenerregend! Noch nie dagewesen!
 
 > Der rechnende Kanarienvogel, die klavierspielende Katze,
-zwei sprechende Raben, Wunderpapageien, boxende Zwerg-pintscher!
+zwei sprechende Raben, Wunderpapageien, boxende Zwergpintscher!
 Ab sechs Uhr nachmittags ununterbrochen Vorstellung.
-Besitzer: Jakob Pfivbhuber aus Bayern.
+Besitzer: Jakob Pfitzhuber aus Bayern.
 
-»Allerhand!« meinte ich mit einem Di auf das Schild,
+»Allerhand!« meinte ich mit einem Blick auf das Schild,
 
 Dann kam ein stiernackiger Kerl auf uns zu.
 
-»Sie wünschen?« fragte er Darin.
+»Sie wünschen?« fragte er patzig.
 
 »Wir möchten von Herrn Pfitzhuber Kaninchen kaufen,«
 erklärte Harald.
 
-»So?! Na, Pfiphuber wird kaum Luft zu ’nem Geschäft
+»So?! Na, Pfiphuber wird kaum Lust zu ’nem Geschäft
 haben. Sein Mutz ist weg.«
 
-»Ach per?! Der rechnende Kanarienvogel?«
+»Ach nee?! Der rechnende Kanarienvogel?«
 
 »Derselbe.« Der Kerl spuckte ins Weite. »Gehn’ Sie
-man hinter das Zelt, Da steht Pfitzhubers Wagen — da
-am Zaun, Er schält gerade Kartoffeln.«
+man hinter das Zelt. Da steht Pfitzhubers Wagen — da
+am Zaun. Er schält gerade Kartoffeln.«
 
 »Danke.« — Und wir schritten weiter, bogen um das
 Zelt. Da saß Pfitzhuber in Hemdärmeln auf der Treppe
-feines Wohnwagens, hatte eine Kartoffel zwischen die Knie
+seines Wohnwagens, hatte eine Kartoffel zwischen die Knie
 <@pagebreak/>
-geklemmt und schälte sie auf diese Weg mit feiner einen
-Hand verblüffend schnell und gefehlt
+geklemmt und schälte sie auf diese Weg mit seiner einen
+Hand verblüffend schnell und geschickt.
 
-Er schaute auf, erkannte uns gib, Wie sollte er auch?!
+Er schaute auf, erkannte uns nicht. Wie sollte er auch?!
 
 »Morjen!« grüßte Harald. »Könnten wir mal Ihre
-Karnickel As ansehen, Herr Pfitzhuber?
+Karnickel uns ansehen, Herr Pfitzhuber?«
 
-»Aber görn. Dar Moment bitt’ hart x bin gleich
-ferti hier.« Er warf die gepubte Kartoffel in eine Schüssel
+»Aber görn. Oan Moment bitt’ scheen. I bin gleich
+ferti hier.« Er warf die geputzte Kartoffel in eine Schüssel
 
-Wir sahen, daß halb hinter dem Wohnwagen der Mrs:
-obere Gerätewagen stand, Dort waren Leinen bis zum
-Zaun gespannt. Ein nicht mehr ganz junges In von
-zierlicher, üppiger Gestalt hängte dort Wäsche
+Wir sahen, daß halb hinter dem Wohnwagen der kleinere
+Gerätewagen stand. Dort waren Leinen bis zum
+Zaun gespannt. Ein nicht mehr ganz junges Mädchen von
+zierlicher, üppiger Gestalt hängte dort Wäsche auf.
 
-»Moan! Tochter Vroni,« erklärte Pst Ki
+»Moan' Tochter Vroni,« erklärte Pfitzhuber.
 
 Dann eine tiefe Baßstimme aus dem Wagen:
 
@@ -750,22 +750,22 @@ musterte uns und fragte:
 
 »Woas ist’s mit die Herren, Voater?«
 
-»Kaninchen wollen’s kaufen, Bein.«
+»Kaninchen wollen’s kaufen, Zenzi.«
 
-Frau Psfibhuber nickte uns zu, »Oh, — echte Weaner
-san A die Herren, ganz echte! Dann werd! ich weiter
+Frau Pfitzhuber nickte uns zu, »Oh, — echte Weaner
+san da, die Herren, ganz echte! Dann werd’ ich weiter
 schäl’n, Voater,«
 
-Mishuber stand auf. »Bitt’ scheen — konmmen’s nur
+Pfitzhuber stand auf. »Bitt’ scheen — kommen’s nur
 mit,« meinte er zu uns.
 
-Die helle freundliche Vorsorge lag über dem Rummelplatz.
+Die helle freundliche Maisonne lag über dem Rummelplatz.
 Auf dem Geländer des Vorbaues des Wohnwagens
 duftete Goldlack in vielen Töpfen.
 
 Wir betraten das Zelt durch den Hintereingang. Rechter
 Hand war ein Raum abgeteilt. Da standen die Käfige mit
-den Tieren, Vier Hündchen sprangen uns kläffend entgegen.
+den Tieren. Vier Hündchen sprangen uns kläffend entgegen.
 
 »Herr Pfitzhuber, wir sind Harst und Schraut,« sagte
 Harald gedämpft,
@@ -773,21 +773,21 @@ Harald gedämpft,
 »Nit meeglich! Der Herr Harst!«
 
 »Leise — leise! — Sie müssen nachher so tun, als ob
-Sie uns von dem Diebstahl erzählt, hätten, und, den Kamin
-chentäusern, und als ob wir aus Kenner Die Baren ihm
+Sie uns von dem Diebstahl erzählt hätten, uns, den
+Kaninchenkäufern, und als ob wir aus Neugier die Spuren uns
 ansehen wollten. Sie verstehen! Ihrer Frauen wegen!«
 
-»Oh ich versteh’! Wird gemacht, Herr Harst!«
+»Oh i versteh’! Wird gemacht, Herr Harst!«
 
-Harald hielt ihm plötzlich, auch ganz überaschend
+Harald hielt ihm plötzlich, auch ganz überraschend für
 mich, die goldene Kette hin.
 
 <@pagebreak/>
-»Da — kennen Sie die vielleicht, Herr Vilshuber?«
+»Da — kennen Sie die vielleicht, Herr Pfitzhuber?«
 
 »Hm. — Teufi, dös ist ja meiner Frau Uhrkette, Herr
 Harst! Hier — diese Stell’ hoab ich selbst mit Blumendraht
-angeflickt, die boaden Glieder. Wie sein’s denn zu Aerzte
+angeflickt, die boaden Glieder. Wie sein’s denn zu Zenzis
 Kette gekommen, Herr Harst?«
 
 »es ist bestimmt die Kette Ihrer Frau?
@@ -799,8 +799,8 @@ Harald das Thema,
 
 Jakob Pfitzhuber starrte noch immer die Kette an.
 
-»Hm — a Kennzeichen? a — die Farb’ vom Mutz
-wir so mehr a Gelbgrün, wie bei die echten Kanarienhähne.
+»Hm — a Kennzeichen? Ja — die Farb’ vom Mutz
+wir so mehr a Gelbgrün, wie bei die echten Kanarienhähne.«
 
 Wieder faßte Harald in die Tasche und brachte die
 Zigarettenschachtel zum Vorschein, öffnete sie.
@@ -810,17 +810,17 @@ Zigarettenschachtel zum Vorschein, öffnete sie.
 Pfitzhuber schrak zusammen, war aber schnell wieder
 beruhigt.
 
-»Nô — dös 18 a fremder Vogel, Herr Harst.«
+»Nö — dös is a fremder Vogel, Herr Harst.«
 
 »Rauchen Sie Senta-Zigaretten? Diese Schachtel
 enthielt mal hundert Stück Senta.«
 
-»I mag kenne Zigaretten, nur moan Kurze Pfeif’. —
+»I mag koane Zigaretten, nur moan kurze Pfeif’. —
 Woher haben’s den toten Vogel, Herr Harst, und die Kette?«
 
-»Das möchte ich Ihnen später sagen. Jedenfalls übers
-lassen Sie mir die Kette noch ein paar Tage, Herr Pfitzhuber,
-und schweigen Sie Ihrer Frau und Tochter genommen.
+»Das möchte ich Ihnen später sagen. Jedenfalls überlassen
+Sie mir die Kette noch ein paar Tage, Herr Pfitzhuber,
+und schweigen Sie Ihrer Frau und Tochter gegenüber.«
 
 Pfitzhubers Gesicht ward ängstlich.
 
@@ -828,72 +828,73 @@ Pfitzhubers Gesicht ward ängstlich.
 
 »Um den Mutz — mit um den Mutz. Nun zeigen
 Sie uns die Spuren. Zum Schein werde ich zwei junge
-Wiener kaufen und mitnehmen« Und er steckte Kette,
+Wiener kaufen und mitnehmen.« Und er steckte Kette,
 Schachtel und Vogel wieder ein.
 
 Jakob Pfitzhuber schüttelte den Kopf. »Herr Harst, Sie
-verschweigen mir was, glaub’ ich, Die Kett’ von moan Zenzi
+verschweigen mir was, glaub’ ich. Die Kett’ von moan Zenzi
 kann doch —«
 
 »Darüber reden wir ein andermal.«
 
 Wir gingen wieder ins Freie. Pfitzhubers Tochter
-N, lebe auf der Wagentreppe und spielte mit einem
-Waggons.
+saß jetzt auf der Wagentreppe und spielte mit einem
+Pappagei.
 
 An der Seite des Wohnwagens nach dem Zaune zu
 <@pagebreak/>
-standen ein paar Kisten, Daneben lagen drei Bretter auf
-der Erde, Vsivbhuber hob sie auf,
+standen ein paar Kisten. Daneben lagen drei Bretter auf
+der Erde. Pfitzhuber hob sie auf,
 
-An dem vom Nachtrenen feuchten schwarzen Erdreich
-man die unklaren Eindrücke von zierlichen Schuhen.
-einen Fachmann war es leicht, sofort zu erkennen,
-ß dies die Fährte einer weiblichen Person nur,
+In dem vom Nachtregen feuchten schwarzen Erdreich
+sah man die unklaren Eindrücke von zierlichen Schuhen.
+Für einen Fachmann war es leicht, sofort zu erkennen,
+daß dies die Fährte einer weiblichen Person war.
 
-Frau Pfitzhuber erschien am Bogenfenster, Der
-Bau selber rief ihr zu, daß er uns von dem Diebstahl erbe
+Frau Pfitzhuber erschien am Bogenfenster. Der
+Schausteller rief ihr zu, daß er uns von dem Diebstahl erzählt
+hätte.
 
-Herren hoab’n zwoa von unsere Weaner gehaust,
+»Die Herren hoab’n zwoa von unsere Weaner gekauft,
 Zenzi,« fügte er hinzu.
 
-Und zu uns; »Dös san die Spuren von dem Dieb,
-Wann’s’sch den Ziert derwischen tät, dem sollt
-guat genau
+Und zu uns: »Dös san die Spuren von dem Dieb,
+die Herren. Wann’s i den Kierl derwischen tät, dem sollt’s
+guat genga!«
 
-Harst zuckte die Achseln, »Melden Sie’s der Polizei,
-Herr Pfitzhuber.« Das war für die ran und Tochter
-bestimmt, Und ganz leise; »Es ist gut, Herr Pfitzhuber.
-Ah weiß genug. Sie brauchen die Bretter nicht mehr
-überboten.« Und abermals ganz laut: »Vielleicht leihen
-uns ein Kistchen zum Transport der Kaninchen —«
+Harst zuckte die Achseln. »Melden Sie’s der Polizei,
+Herr Pfitzhuber.« Das war für die Frau und Tochter
+bestimmt. Und ganz leise: »Es ist gut, Herr Pfitzhuber.
+Ich weiß genug. Sie brauchen die Bretter nicht mehr
+überdecken.« Und abermals ganz laut: »Vielleicht leihen
+Sie uns ein Kistchen zum Transport der Kaninchen —«
 
 Dann betraten wir zum zweiten Male das Zelt.
 
-»Woas wissen’s denn, Herr Harst?« flüsterte Pfishuber
-ganz ausgefegt.
+»Woas wissen’s denn, Herr Harst?« flüsterte Pfitzhuber
+ganz aufgeregt.
 
-ich werde Ihnen morgen alles sagen, — Eine Frage!
+»ich werde Ihnen morgen alles sagen. — Eine Frage:
 kennen Sie Stettin?«
 
-»Stettin? — Und oh ich ’s denn! x war »dort fünf
-Jahr Arm auf a Nittergut, Herr Harst,«
+»Stettin? — Und ob i ’s kenn’! I war dort fünf
+Jahr Oberschweizer auf a Rittergut, Herr Harst,«
 
 »Wann?«
 
-»Hm — so von 1907 die 1912.«
+»Hm — so von 1907 bis 1912.«
 
-»Haben Sie schon mi den Namen Finster gehört —
+»Haben Sie schon mal den Namen Finster gehört —
 Doktor Berthold Finster?«
 
-»Koan schöner Nam’ Herr Hart. Finster! Nö —
-an’ Namen kenn’ ich net.
+»Koan schöner Nam’ Herr Harst. Finster! Nö —
+so an’ Namen kenn’ ich net.«
 
 »Bitte behalten Sie also für sich, was wir hier verhandelt
-haben, Herr Pfitzhuber, Nun die Kaninchen bitte,
+haben, Herr Pfitzhuber. Nun die Kaninchen bitte.
 Was kosten sie?«
 
-Jakob trabte sich den Kopf.
+Jakob kratzte sich den Kopf.
 
 »Ich zahle wie jeder andere,« meinte Harald.
 
@@ -901,7 +902,7 @@ Dann zogen wir mit einen Kistchen und zwei blaugrauen
 <@pagebreak/>
 Wienern ab, nachdem Harald von Pfitzhuber sich
 noch hatte erzählen lassen, wie der Wohnwagen eingerichtet
-war und wo die Familie ihre Lagerstätten flehen hatte,
+war und wo die Familie ihre Lagerstätten stehen hatte,
 
 <h2> 4. Kapitel.</h2>
 
@@ -941,7 +942,7 @@ he die Straße, machte vor der Säule halt und las halblaut:
 
 »Besonders zu beachten: Finster hat eine noch frische
 Schußwunde an der rechten Hand, wird also die Hand der
-gebunden tragen. Er versucht sich auch als Heiratêschwindler.«
+gebunden tragen. Er versucht sich auch als Heiratsschwindler.«
 
 Ich starrte auf den Trocknet, »Wo steht denn dieser
 Raub?« meinte ich rasch. »Ich sehe nichts davon.«
@@ -956,7 +957,7 @@ Bann ging er weiter. »Es ist niemand hinter uns. Wir
 innen die Straßenbahn benutzen,« erklärte er,
 
 Stumm saßen wir in der Bahn nebeneinander. ich
-achte nur an Mr »Heiratssschhwindler« Was sollte das?!
+achte nur an Mr »Heiratsschwindler« Was sollte das?!
 Harald hatte den Saß aus eigenem den Steckbri wag
 inzuaefünt. Das mußte einen Grund haben. Welchen?
 
@@ -966,11 +967,11 @@ war doch seltsam, daß die blonde Verkleidete (und sie war
 tadellos als altes Weiblein zurechtgeschminkt gewesen!)
 ie Markttasche *mit* der Zigarettenschachtel hatte im
 Sternenklar stehen lassen. Die Uhrkette hatte doch einen
-per! heutzutage, war sogar 900 gestempelt, also Dukaten-gold.
+per! heutzutage, war sogar 900 gestempelt, also Dukatengold.
 
 Unwillkürlich hatte Ich bei diesen Gedanken zwei
 Ironie meines Postuniformrockes geôössnêt und nach meiner
-steifleinenen Violette gefühlt Es war das so eine Art Reslex-handlung
+steifleinenen Violette gefühlt Es war das so eine Art Reflexhandlung
 gewesen.
 
 Und da sagte Harald leise neben mir: »Trick!«
@@ -987,7 +988,7 @@ den werden. Das wird heute abend geschehen, wenn
 roh Pfitzhuber und die Seinen in der Menagaerie tätig
 Bis dahin gibt es nur ein paar Telephongesprächs
 erledigen und einen Stall für die beiden Wiener zu
-Tauen. Sie sollen es gut haben bei uns — als Erinne-VGG
+Tauen. Sie sollen es gut haben bei uns — als Spinne-Tag
 Ei an das Abenteuer mit dem toten Kanarien-one
 
 Frau Kaufte Harst, Haralsds Mutter, fand die Kaninchen
@@ -1002,7 +1003,7 @@ er sich noch mit unserem Bekannten, dem Stettiner Privatdetektiv
 Doktor Gröker verbinden und bat ihn, folgendes
 schleunigst zu ermitteln:
 
-1. Namen und Alter des Vüropersonals des in Stettin
+1. Namen und Alter des Büropersonals des in Stettin
 1912 verstorbenen Anwalts Doktor Berthold Finster zur
 Zeit dessen Todes,
 
@@ -1064,7 +1065,7 @@ Auch Jakob lachte.
 »I bin u närr’sch!« meinte er. »Wie konnte ich nur!
 als es san g’stohlen: meine goldene Uhr nebst dicker
 er zwoa Ringe, einer mit in Brillant, Aerzte
-goldene Brosche, aus drei Zwanzigfrankstückl b’stehend, Zen-Panzerarmband,
+goldene Brosche, aus drei Zwanzigfrankstückl b’stehend, gen-Panzerarmband,
 58öziger Gold, und a Beutel mit drei
 Silbertaler.«
 
@@ -1073,7 +1074,7 @@ wirklich eine schwere Menge. Wo hatten Sie die Sachen
 denn verwahrt?«
 
 »Alles in so a Wandversteck in der Küchen, Herr Harst,
-Winter a Cmaillepfannen, — In a Versteck, das des Teufis
+Winter a Emaillepfannen, — In a Versteck, das des Teufis
 fe’ Großmutter nit g’funden hätt. aber der Malefizaaus
 ner, wo den Muß stahl, hoat’s doch aussigespäht, der elend
 trabte Lump Die Sachen san weg — weg, — futsch!«
@@ -1117,7 +1118,7 @@ Wir eilten in Haralds Arbeitêszimmer. Stettin meldete
 sich. — Kollege Doktor Gröker. Harald diktierte mir
 kurz, was Gröker zu melden hatte.
 
-1. Von dem Vüropersonal interessierte uns nur ein
+1. Von dem Büropersonal interessierte uns nur ein
 Mann: der ehemalige Bürovorsteher Doktor Finsters namens
 *Gisbert Parnack*. Dieser Parnack war seit
 dem Tode Finsters verschwunden. Er war 1876 geboren,
@@ -1200,7 +1201,7 @@ ist ein Gegner, dem Mai Glied zutrauen kann. ich werde
 mich danach zu richten leisten,«
 
 Um ein Viertel zehn brachen wir auf. Wir hatten die
-Masken älterer Leute aus den Arbeiterstanve gewählt,
+Masken älterer Leute aus den Arbeiterstande gewählt,
 Was Harald vorhatte, ahnte ich nicht, Er war sehr schweigsam
 und in sich gekehrt — ganz so, als hätten wir einen
 schweren Gang vor uns.
@@ -1218,13 +1219,13 @@ Mr den Feldweg am Laubengelgnde entlang und be
 Ziegen an der Ecke der Blücherstraße die Straßenbahn, Kurz
 nach halb zehn waren wir in der Potsdamer, betraten den
 in vollstem Betrieb befindlichen Rummelplatz und drängten
-uns durch die in echter Maislimmung hin und her sinkende
+uns durch die in echter Maistimmung hin und her sinkende
 Menge bis zu Pfitzhubers Zelt hindurch,
 
-An der Kasse saß Frau Zenzi in einer Art Tiroler-tracht,
-Vroni, ebenfalls im Tirolerkostiim, auf der Linken
+An der Kasse saß Frau Zenzi in einer Art Tirolertracht,
+Vroni, ebenfalls im Tirolerkostüm, auf der Linken
 einen zahmen Papagei, lud das geehrte Publikum mit bis
-Den, ie zum Besuch der phänome-nalen
+Den, ie zum Besuch der phänomenalen
 Zeitungen ein,
 
 beobachteten sie eine Weile, Die Lichtnarben des
@@ -1251,7 +1252,7 @@ versperrten Parkzugangs, Der Park war bereits geschlossen,
 Drückten uns links an den Büschen des Zaunes Eis
 ter, tief geduckt, blieben stehen, ließen eine Polizeipatrouille
 vorüber, die soeben ein Pärchen hinauswies. Es war ja
-Mai, und die Liebe suchte derschwiegene Plänchen,
+Mai, und die Liebe suchte verschwiegene Plänchen,
 
 Schlichen abermals nach Knicks die zementierte schmale
 Umanebungäftraße des Parkes dahin, die nach Dunkelwere
@@ -1286,7 +1287,7 @@ Harst reckte sich, hoch, packte die Kanalamts, zog sich
 empor, glitt drüben herab,
 
 ch folgte ihm, Mir fiel’s schwerer, rasch über den
-Zaun hinweazukommen,
+Zaun hinwegzukommen,
 
 Nun standen wir hinter dem Gerätewagen. Es roch
 scharf nach Teer, Pfitzhuber hatte das Dach frisch gen
@@ -1438,11 +1439,11 @@ Selbst trug einen blonden Schnurrbart, war fällt Hinterhalt
 Schreines, Die rechte Hand hielt er in der Racdentaiche verborgen,
 
 »Sollten Sie gab nur einen einzigen Laut von sich
-geben, Herr Harst, sind Ehe erledintl« warnte er mit I1o«
+geben, Herr Harst, sind Ehe erledintl« warnte er mit Irr«
 Riecher Gelassenheit,
 
-ij Der eine der Kerle Seite sich neben Harst, ein offenes
-langes Klappmeiser in der Hand.
+is Der eine der Kerle Seite sich neben Harst, ein offenes
+langes Klappmesser in der Hand.
 
 Harald, von der Lichtfülle einer Karbidlaterne heil See
 strahlt, erflôrie nicht minder afetebniltia;
@@ -1471,7 +1472,7 @@ be, Unser Wachidienft versagt heute nicht. Sie beide
 Er gekommen, Und «— wäre die Vor vp erschienen,
 Bark, dann hätte sie das Nest leer gefunden, Wir
 man alle auf alles eingerichtet — verstehen Sie mich!
-Nes!«
+Nee!«
 
 »Möglich!« meinte Harald kühl, »Ich vermag das
 noch nicht zu Uebrige Den
@@ -1535,7 +1536,7 @@ dar lleiertasiens Fest nahim,
 
 Achseln, meinte! »Es läßt
 
-oan anno ab ich Mr fegte Betet sschhreibe,
+oan anno ab ich Mr fegte Betet schreibe,
 sich Aber?« fragt Ok hastig,
 MU
 
@@ -1553,7 +1554,7 @@ Mi nennen sein, As 1 ch mit ob
 Bete unreifer intéertifi plane, Ehe werden sie ja lesen,
 wo Mi an Spannung zu:
 Da ehe ra entwickeln:
-»Oh ist iè Nix Ehrenwort, daß die Briefe unter
+»Oh ist is Nix Ehrenwort, daß die Briefe unter
 
 anfänglich fein wo
 Wenn 10 na er sind sie unverfänglich, Mein
@@ -1588,7 +1589,7 @@ Habe und gab sie ihm in die Hand.
 
 Harst Bai um einen Kistendeckel als xhreibunterlane,
 Man gab ihm einen länglichen Deckel, den er fihb auf die
-hochgezracnen nie legte
+hochgezogenen nie legte
 
 »Ziehe gleichfalls- Mumie am,« sagte er zu mir. »Der
 Deckel hat zu wenig $
@@ -1636,7 +1637,7 @@ Und Harsts geballte Faust fuhr dem Manne mit dem
 Messer unter das Sinn, warf ihn in die andere Ehe.
 
 Barnad und der zweite waren Infolge der Explosion
-des Füllsederhalters zurückgetaumelt. Die Karbidlaterne
+des Füllfederhalters zurückgetaumelt. Die Karbidlaterne
 lag am Boden,
 
 Bevor einer der drei noch etwas gegen uns unternehmen
@@ -1670,11 +1671,11 @@ und in einer Kiste des Wagens fanden wir den Käfig,
 fanden wir Mut, den rechnenden Kanarienvogel dazu die
 gesltohlenen Wertsachen.
 
-Broni Pfitzhuber über und der *tote* Kanarienvogel —
+Vroni Pfitzhuber über und der *tote* Kanarienvogel —
 
 Doch davon im zweiten Teil.
 
-Rakete Rriminalbücher. Sand 5:
+Rakete Kriminalbücher. Sand 5:
 Die Schildkröte
 Durch lebe Buchhandlung zu bestehen.
 
@@ -1693,7 +1694,7 @@ Gasse Kaffee zubereiten,
 — Bechert hatte sein Weiberkostüm abgelegt, Darunter
 nun er einen dunklen Sportanzug,
 
-Das Bronerl hatte Ich in die Türleiste Ehe zurücde
+Das Vronerl hatte Ich in die Türleiste Ehe zurücde
 Bogen. Sie war nicht in der äußeren Verfassung, sich Män-terbliclen
 allzu Nabe zeigen zu können, da Vater Jakob
 die moralische Entgleisung seines Kindes sofort durch einige
@@ -1706,7 +1707,7 @@ Parnack hier viele Jahre als Justizrat Finster gelebt hatte,
 Er war tatsächlich eine alte Liebe von ihr aus Stettin,
 und so war es ihm seit geworden, Vroni vollständig für
 sich zu acipinnen, hatte sich als die von Harald Harst verfolgte
-Unschuld ausgespielt, Bronerl die: Ehe’ versprochen
+Unschuld ausgespielt, Vronerl die: Ehe’ versprochen
 nd sie für seine Pläne schamlos ausaenußgtt,-
 
 Als auch Bechert nun die Geschichte des gefüllten toten
@@ -1768,7 +1769,7 @@ können die Herr’n schon trinken —«
 
 Es war recht agemütlich hier in Pfitzhubers kleinem Blitz«
 ich Bad bin Wohbngemach ie meisten Schausteller sind vn
-äußerst orbnungsliebende und peinlich saubere Leute, An
+äußerst ordnungsliebende und peinlich saubere Leute, An
 der Wand an einem Nagel hing trat Mub’ Vogelbauner, lud
 <@pagebreak/>
 der kleine aelbarüne Künstler hüpfte vergnügt von einer
@@ -1864,7 +1865,7 @@ Zwei Tore in, blätterte darin, sagte:
 Nr. 99 wohnt keine Frau Sturz, Meine Mutter Stürzte von
 Anna Bahn, Parnacks Vertrauter, getäuscht worden sein,
 68 Rad sich nun: weshalb holte die Holm den toten Los
-Hagel? Sicher nicht aus dem Ls um ihn »liebevoll
+Hagel? Sicher nicht aus dem is um ihn »liebevoll
 bestatten« zu können, Bestärkt also?«
 
 Er blickte sinnend vor sich hin. »ich will Doch mal
@@ -1925,10 +1926,10 @@ Vorsicht etwas übertrieben vor.
 
 Ab daß es, und — er Millionen schweren Klubsessel
 im, Hüfte sich und beschaute die Unterseite, wache Strafen
-Gurte die Sprunasedern hielten.
+Gurte die Sprungfedern hielten.
 
 Dann pfiff er leise durch die Zähne, kniete nieder und
-holte zwischen den Gurten und Sprungsedern eine längliche
+holte zwischen den Gurten und Sprungfedern eine längliche
 <@pagebreak/>
 Blechbüchse hervor, etwa von der Größe einer Anreiz
 Stunde Evaraelbüüchie,
@@ -1940,10 +1941,10 @@ Haft!
 
 Er betrachtete die Büchse. Ed war eine klopfendem.
 Büchse,. Der eine Deckel war rund berausaeichninen und
-durch ein aufgelöretes Stück Blech Orient worden, die
+durch ein aufgelötetes Stück Blech Orient worden, die
 Lötstellen bildeten Weinte fortlaufende Linie, sondern nur
 hier und dort hatte man etwas Löuzinn mit dem Kolben
-aufgemalt, so daß 26 nicht schwer fallen tönte, das Blech-stüd
+aufgemalt, so daß 26 nicht schwer fallen tönte, das Blechstück
 abzureißen.
 
 Plötzlich klopfte 8 kurz an die Tür nach dem Flur, und
@@ -1961,13 +1962,13 @@ in ihr Schlafzimmer zuckte,
 
 Harst blätterte schon im Adreßbuch.
 
-»Ah — wirklich: Frau Anna Sturz, dertolimete Ned-nunasrat.”«
+»Ah — wirklich: Frau Anna Sturz, dertolimete Rechnungsrat.”«
 
 Und Harald schaute mich verblüfft an, fügte bin:
 
 »Nun kommt 83 aus zweierlei an: erstens. ob diese
-Rebnunasrätin wirklich die Vesucherin war, und zweitens,
-was diese Büchse enthält!»
+Rebnunasrätin wirklich die Besucherin war, und zweitens,
+was diese Büchse enthält!«
 
 <h2>2. Kapitel.</h2>
 
@@ -1990,7 +1991,7 @@ nicht wissen!«
 
 Er nahm einen Blechschneider und schnitt mit größer
 er Behutsamkeit aus der Seitenwand ein Stück heraus,
-vergrößerte die Oeffnung, bis er den Blechzylinder zer-trennt
+vergrößerte die Oeffnung, bis er den Blechzylinder zertrennt
 hatte,
 
 Mu Zog er die Teile, nachdem er den in Papier gar«
@@ -2040,7 +2041,7 @@ ah beugte mich vor. Der Fleck war ein Stempelt
 Hart schüttelte den Kopf,
 
 <@pagebreak/>
-»Unbegreiflich! also willst Sturz — Nechnungs-rätin
+»Unbegreiflich! also willst Sturz — Rechnungsrätin
 Sturz!«
 
 Mieder nahm er den einen Teil der zerschnittenen
@@ -2082,7 +2083,7 @@ Hochstaplerin —«
 
 »Intoitesern?«
 
-»Ob die Nechnunasrätin oder Anna Holm hier war
+»Ob die Rechnungsrätin oder Anna Holm hier war
 — darauf kommt es an! Sich möchte mich für die Rätin
 entscheiden. Dann stimmt meine Theorie.«
 
@@ -2126,7 +2127,7 @@ brachte Freund Pfitzhuber wieder etwas zu sich,
 Wir erfuhren Dann folgendes;
 
 Er hatte bei Hellwerden seinen Wohnwagen verlassen,
-um in einem Komposthaufen an der Nordwestecke des Kleist-parks
+um in einem Komposthaufen an der Nordwestecke des Kleistparks
 nach Regenwürmern zu suchen, die er als leidenschaftlicher
 Angler brauchte, Am Tage durfte er an den
 Komposthaufen nicht heran, Es war verboten und kostete
@@ -2134,7 +2135,7 @@ rate,
 
 Als er sich dem Komposthaufen auf Seitenwegen genähert
 hatte, war ihm ein auf einer Bank sitzender Mann
-aufgefallen, dessen zusammenaesunkene Haltung seinen Arge
+aufgefallen, dessen zusammengesunkene Haltung seinen Arge
 Argwohn erregte. Er trat an den Menschen heran stieß ihm
 den Hut aus dem Gesicht und sah sofort, daß der Mann tot
 an, Außerdem bemerkte er aber auch an der linken Halsseite
@@ -2178,7 +2179,7 @@ Nr —
 Neben und war Jakob Psinhuber erschienen, rief leise:
 
 Ah — die Bestie — die Durstig!«
-wollte vorwärtsftürmen, wurde von Harald am Arm gepackt,
+wollte vorwärtsstürmen, wurde von Harald am Arm gepackt,
 zurückgehalten.
 
 »Pfitzhuber, es ist eine Giftschlange,. eine ägyptische.
@@ -2217,7 +2218,7 @@ Sie sollten mir lieber die Wahrheit sagen —«
 
 Da hatte der stämmige Mann einen Saß nach vorwärts
 getan, hatte sich frei gemacht, stürmte um die Bank herum
-nd hob ein mächtiges Stück Schlucke von einer Beetein-assung
+nd hob ein mächtiges Stück Schlucke von einer Beeteinfassung
 empor. Dann verschwand er hinter den Sträuchern
 Ich dem Komposthaufen zu.
 
@@ -2262,7 +2263,7 @@ holt hatte, Er trat rasch an uns heran
 <@pagebreak/>
 grob nickte zufrieden und schritt weiter,
 
-Wir begaben uns auf den Echaubudenplaß, fanden
+Wir begaben uns auf den Schaubudenplatz, fanden
 Frau Zenzi bereits in der Wagenküche vor und wurden in
 den Wohnraum gebeten.
 
@@ -2274,7 +2275,7 @@ bis Harald meinte:
 »Sie sollten mir besser keine Komödie vorspielen. Ihr
 Mann hat Ihnen erzählt, daß er die Viper gefunden hat,
 nicht wahr? Ich habe der Polizei gegenüber von der Gift
-Schlange geschwiegen, die ja sschlieklich mit dem Morde im
+Schlange geschwiegen, die ja schließlich mit dem Morde im
 Kleistpark nichts zu tun hat.«
 
 Da rannen der rechneten Frau Zenzi zwei dicke Dankes
@@ -2289,11 +2290,11 @@ statob Pfitzhuber hatte das Reptil vor drei Wochen
 von einem Bekannten, ebenfalls einem Schausteller, in
 Zahlung genommen für ein Darlehn, das dieser ihm nicht
 zurückerstatten konnte, Er hatte gehofft, die Sandviper später
-mit Vorteil weiterderäußern zu können, Vor fünf las
+mit Vorteil weiterveräußern zu können, Vor fünf las
 gen hatte die Schlange sich jedoch aus ihrer Kiste nacıta
-befreit und war Trübem dersschwunden gewesen. Pfitzhuber
+befreit und war Trübem verschwunden gewesen. Pfitzhuber
 hatte mit seiner Frau den ganzen Park uns auch die nahen
-Laubengärten abgesucht — angeblich nach einem entlausenen
+Laubengärten abgesucht — angeblich nach einem entlaufenen
 jungen Kaninchen, Heute nun hatte Jakob endlich das
 »Missvieh« erwischt und hatte sie getötet. —
 
@@ -2402,7 +2403,7 @@ sagend war wie all die übrigen des Parkes
 Nur meine Phantasie zauberte mir das Bild des aus
 fammenaefunten dasitzenden Toten wieder vor Augen, das
 zu den Kanarienvogel auf dem Schenkel und die langsam
-dahinkriehenve Viper.
+dahinkriechende Viper.
 
 Der Kanarienvogel! — Seltsam, nicht ein einziges
 Wort hatte Harald bisher über dieses Tierchen geäußert!
@@ -2469,7 +2470,7 @@ Mein empörten Blick entlockte ihm ein Lächeln. »Lieber
 er, die beiden legten Satze bezogen Ah nicht auf den
 Pakt, Zaubern auf den Toten, in Gehorche ich«
 
-Das, derblüsfte mich noch mehr.
+Das, verblüffte mich noch mehr.
 
 »wie — Du hast den alten Mann wiedererkannt —
 dem auêd ack8pollen Gesicht?!« rief (ch ungläubig. »Du
@@ -2493,14 +2494,14 @@ mehr!«
 
 Und das tat er wirklich.
 
-Wir saßen mit Frau Harst in der Veranda bei hoch-ezogenen
+Wir saßen mit Frau Harst in der Veranda bei hochgezogenen
 Fenstern und freuten uns über die vielen Schwarzen,
 die im Sonnenschein dahinschossen und die erst vor
 den Tagen aus dem Süden wieder bei uns erschienen
 Maren
 
 Wir, Frau Auguste und ich, sprachen über die Pech
-nungsrätin, die ihren toten Liebling abgeholt hatte, und
+Rechnungsrätin, die ihren toten Liebling abgeholt hatte, und
 über das Verbrechen im Kleistpark.
 
 Harald blieb stumm, rauchte, trank Tee, sah hin und
@@ -2604,7 +2605,7 @@ Vexierphotos da verraten, — Ein noch einige Fragen. Hat man
 an der Leiche sonst! noch Wunden oder sonstige auffällige
 Erscheinungen bemerkt?«
 
-»Nur die Haläwunde, Außerdem eine Quetschung an
+»Nur die Halswunde, Außerdem eine Quetschung an
 der Linsen Wade. Ich habe mir die Tote se(bei angesehen,«
 
 »Die Quueischung — hm, also eine Schwellung, die
@@ -2612,7 +2613,7 @@ stark verfärbt war,«
 
 Nu — grünlich-blau.«
 
-«So — so!
+»So — so!
 
 Halten Sie’s für keine Quetschung, Harst?«
 
@@ -2664,7 +2665,7 @@ Rolle spielt die Holm he! alledem?«
 
 Verirrt nickte, »Verzwickt — Verzwickt, zumal Sie noch
 behaupten, daß die Begleiterin der Rätin also die Holm
-nach Ihrer Annahme, *nicht* die Urheberin: der Hals-wunde
+nach Ihrer Annahme, *nicht* die Urheberin: der Halswunde
 ist,«
 
 »Oh — das weiß ich bestimmt. Die Wunde hat ein
@@ -2697,8 +2698,8 @@ kommen! Und dann — haben wir sie fest. Es bleibt also
 dabei, Bechert: wir drei und Ihre Leute führen den Schlag.
 Und — seien Sie genau so vorsichtig wie gestern abend,
 Vergessen Sie keinen Augenblick, daß Gisbert Parnack ein
-außerordentlich gefährlicher, sschlauer und rücksichtsloser
-Mensch ist!»
+außerordentlich gefährlicher, schlauer und rücksichtsloser
+Mensch ist!«
 
 Bechert machte ein mißmutiges Gesicht.
 
@@ -2751,7 +2752,7 @@ Di Tinte geschriebene Visitenkarte »Georg Arna, Agent«
 a
 
 hatte er vor dieser Tür ein paar Sekunden jemand
-»ls sie sich öffnete und u rasch eintrat.
+»is sie sich öffnete und u rasch eintrat.
 
 Der Briefträger war ich, der Oeffnende war Harst,
 der schon fünf Minuten vor mir als »Gasableser« sich hier
@@ -2832,7 +2833,7 @@ Dingen, deren Preis mit dem Dollar ins Unendliche zu
 steigen drohte.
 
 Aus dem Hängeboden des Badezimmers förderte er
-dann auch einen sorgsam in Leinwand gehüllten Vogel-käfia
+dann auch einen sorgsam in Leinwand gehüllten Vogelkäfig
 <@pagebreak/>
 ans Taágeslicht, in! ihn mir und machte mich baren
 aufmerksam, daß bei diesem Käfig eine Drahtrosette
@@ -2872,7 +2873,7 @@ hatten wir nicht mehr gesprochen,
 Nun saßen wir auf dem kleinen Sofa,
 
 Die Tür des einen Schrankes stand offen, damit wir
-sofort hineinsschhlüpfen könnten, nachdem wir die Alarm-pref
+sofort hineinschlüpfen könnten, nachdem wir die Alarm-pref
 und die Batterie rasch von den Drähten losgerissen
 hatten.
 
@@ -2899,7 +2900,7 @@ bleibt sich schließlich gleich.«
 
 Wirklich — er schnitt den Umschlag sauber aus, zog einen
 Briefbogen heraus, der eng beschrieben war — mit
-derselben fischten Greisinnenschrist wie »Mein Testament«.
+derselben fischten Greisinnenschrift wie »Mein Testament«.
 
 Und wir lasen mit wachsender Spannung folgendes —
 einen ganzen Roman;
@@ -2912,9 +2913,9 @@ einen ganzen Roman;
 
 Ich, Anna Maria Josephine Sturz, geborene von
 Bonnzaart, in kinderloser Ehe verheiratet gewesen mit Herrichtung,
-zulegt Rechnungsrat bei der Domänenderwal-tung,
-ohne nähere Verwandte, bestimme, daß meine Ver-mögenswerte,
-insbesondere die fünf goldenen Familien-löffel
+zulegt Rechnungsrat bei der Domänenverwaltung,
+ohne nähere Verwandte, bestimme, daß meine Vermögenswerte,
+insbesondere die fünf goldenen Familienlöffel
 der Bonnzaarts, dem Bankbeamten, früheren Hauptmann
 Ernst Schönborn, Berlin so 26, Elisabethufer 39
 wohnhaft, zufallen sollen,
@@ -2927,7 +2928,7 @@ den Oberst Schönborn, damals Leutnant, über alles gelebt.
 Als er eine andere wählte, habe ich aus Trotz, ohne
 Ueberlegung die bescheidene Werbung meines späteren
 Gatten angenommen, Mein Leben blieb arm an Glück.
-Meine sschhönsten Erinnerungen waren die an jene mit Leute
+Meine schönsten Erinnerungen waren die an jene mit Leute
 Leutnant Schönborn in harmloser Jugendsröhlichkeit verlebten
 Stunden, So ist es lebten Endes doch der heimlich See
 liebte gewesen, der mich innerlich ein wenig reich gemacht
@@ -3027,7 +3028,7 @@ Di Oh will Dir jetzt auch mitteilen, mein Alter, nie man
 Freili
 beseitigt hat,« begann er, nachdem er eine Weile
 stumm neben mir geleiten hatte. »Nur eine weltfremde,
-dertrauensselige, grundaütige Frau, wie es diese Rätin
+vertrauensselige, grundgütige Frau, wie es diese Rätin
 gewesen, konnte den elenden Schurken zum Opfer fallen.
 <@pagebreak/>
 Du hast von Bechert gehört, daß die Rätin allein bis zur
@@ -3052,7 +3053,7 @@ geahnt, daß es ein Schlangenbiß war. ebenfalls: sie
 bleibt Eigen! — Vielleicht hat sie auch Das Kern ah
 Da man eine Schreclähnuma eingetreten fein. — Das
 Gift einer gereizten Giftschlange wirkt nun weit stärker als
-das eines mehr im ersten Flieht zushnappenden Tieres —«
+das eines mehr im ersten Flieht zuschnappenden Tieres —«
 
 Er sprach immer leiser.
 
@@ -3069,7 +3070,7 @@ er Clement, mein Alter! Aber keine hastige Bewegung,
 Und — sollte sich was Tote, (reden wir zuerst! Ich
 aufs dafür, Parnack nochmals in die Hände zu fallen!«
 
-Ein zweisaches leises Knacken. Die Waffen waren
+Ein zweifaches leises Knacken. Die Waffen waren
 bespannt, entsichert, ruhten in unserem Schoße in den rechten
 Händen,
 
@@ -3152,7 +3153,7 @@ Und — *wie* haben Wir damals gesucht — viel
 
 Haben bis sieben Uhr abends jeden Winkel des Häufiges
 durchstöbert; bekamen noch Verstärkung vom Präsidium.
-Bassin der Zutrauen war ein Menichenauflauf wie bei einem
+Bassin der Zutrauen war ein Menschenauflauf wie bei einem
 Dachstuhlbrand.
 
 Nichts — kein Parnack! Und dabei hatte der Mensch
@@ -3225,5 +3226,5 @@ Hierüber im nächsten Band,
 
 Nächster Band:
 
-__Der Obsikahn am Elisabethufer.__
+__Der Obstkahn am Elisabethufer.__
 

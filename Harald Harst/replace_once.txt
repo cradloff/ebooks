@@ -14,8 +14,10 @@
 \blegte	letzte
 \bMr,	Mr.
 \bMr\s	Mr. 
+\bnicke\b	nickte
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bTer\b	Der
 \bver\b	der
 \bvor!\b	dort
+\bMir\b	Wir
