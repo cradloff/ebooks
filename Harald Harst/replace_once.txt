@@ -1,5 +1,6 @@
 \bAch\b	Ich
 \bAhnen\b	Ihnen
+\bBann\b	Dann
 \bBieter\b	Meter
 \bElement\b	Clement
 \bFahr\b	Jahr
