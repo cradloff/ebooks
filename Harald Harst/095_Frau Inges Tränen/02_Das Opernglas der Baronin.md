@@ -13,7 +13,7 @@ Harald war dicht an die Baronin herangetreten.
 
 Und sie blickte zu ihm auf — erwartungsvoll, mit einem
 gewissen Schimmer stillen Hoffens auf eine günstige
-Neuigkeit in den von Tränen verschleierten Augen
+Neuigkeit in den von Tränen verschleierten Augen.
 
 »Frau Baronin,« sagte Harst leise, »Sie sind schändlich
 hintergangen worden. Der Sarawana-Bund hat mit alledem
@@ -52,7 +52,7 @@ Sarawana-Brüdern, sondern von ganz gewöhnlichen Verbrechern
 bedroht worden, Frau Baronin, die den Namen
 Sarawana nur benutzen, um Ihren Gatten und Sie noch
 stärker einzuschüchtern. Gegen diese Verbrecher werden wir
-Sie schützen. Und dieser Schuß hat schon jetzt begonnen.
+Sie schützen. Und dieser Schutz hat schon jetzt begonnen.
 Ihre Wohnung hier wird polizeilich beobachtet. Sie selbst
 werden in ihrem Interesse ständig überwacht. Soeben
 hörten auch Sie wohl auf der Straße unten das helle Hupensignal.
@@ -147,7 +147,7 @@ alles dessen, was mit der Ermordung Ihres Gatten
 zusammenhängt,« sagte Harst zu Frau Inge.
 
 Ich will diese Schilderung hier nur in den Hauptpunkten
-wiedergeben, —
+wiedergeben. —
 
 Frau Inge, geborene Malling, hatte ihren Gatten in
 Kalkutta kennengelernt. Dort hatten sie auch geheiratet.
@@ -346,7 +346,7 @@ persönlich zu verhandeln.
 Sie begab sich also gestern abend zur bestimmten Zeit
 nach Potsdam auf die Anlegebrücke, nachdem sie bereits den
 Nachmittag auf Anna Holms Anraten in Potsdam zugebracht
-hatte. Als wir naher nachmittags bei ihr in der
+hatte. Als wir nachher nachmittags bei ihr in der
 Kufsteiner Straße erschienen, war sie gar nicht daheim, und
 Anna Holm hatte uns offenbar absichtlich in dieser schnippischem
 Art weggeschickt, um uns, was ja auch eintraf, zu
@@ -385,7 +385,7 @@ dann?«
 Sarawana. Er gab ohne weiteres zu, daß er mein Kind
 habe entführen lassen. »Ich wollte den Druck verstärken,«
 meinte er höhnisch. »Sie haben das Opernglas. Ein solches
-Glas verlegt man nicht verschenkt man nicht. Ihr
+Glas verlegt man nicht, verschenkt man nicht. Ihr
 Mann wird Sie wohl eingeweiht haben, und nun treiben
 Sie dasselbe für Sie so gefährliche Spiel wie er.« — Umsonst
 flehte ich ihn an, doch barmherzig zu sein. Ich würde
@@ -470,7 +470,7 @@ gelähmten Armen dastanden.«
 
 Bechert blickte Harst fragend an.
 
-»Zur Polizeiwache — zu den beiden Andern,« meinte
+»Zur Polizeiwache — zu den beiden Indern,« meinte
 Harald kurz. »Frau Baronin, Sie entschuldigen uns. Gehen
 Sie jetzt zur Ruhe. Die Kriminalbeamten sollen für alle
 Fälle hier in der Wohnung bleiben.« —
@@ -553,7 +553,7 @@ Bewandtnis haben. Den Leuten liegt wirklich unendlich
 viel daran, es in ihren Besitz zu bringen. Dafür könnte
 ich eine Menge Beweise anführen.«
 
-»Allerdings. So zum Beispiel Berthold, Finsters Verhalten
+»Allerdings. So zum Beispiel Berthold Finsters Verhalten
 der Baronin gegenüber auf der Jacht.«
 
 »Ja — und dann die Tatsache, daß Anna Holm sich als
@@ -659,7 +659,7 @@ Platz.«
 »Das werde ich — auch ohne ihre Aufforderung.
 Jetzt bin ich hier Hausherr und Herr der Situation.«
 
-Er setzte seit in den Korbsessel nahe der Tür, ließ uns
+Er setzte sich in den Korbsessel nahe der Tür, ließ uns
 nicht einen Moment aus den Augen, grinste heiter und fügte
 hinzu:
 
@@ -730,7 +730,7 @@ suchen wollten, Herr Harst.«
 »Allerdings nicht.«
 
 <@pagebreak/>
-»und das würden Sie auch unter keinen Umständen
+»Und das würden Sie auch unter keinen Umständen
 tun?«
 
 »Vielleicht —« Und Harald nahm eine Mirakulum
@@ -747,7 +747,7 @@ Ihnen dabei eine Falle zu stellen.«
 
 »Gut. Sechs Fragen. Los denn!«
 
-»Die erste: wie sind Sie mit den Andern bekannt geworden?«
+»Die erste: wie sind Sie mit den Indern bekannt geworden?«
 
 »Durch Empfehlung. Die beiden Inder suchten einen
 intelligenten Herrn von etwas weitem Gewissen, der ihnen
@@ -857,7 +857,7 @@ entfernen?! Am liebsten hätte ich Sie niedergeknallt.«
 
 Ich reichte Harald die Serviette, wandte mich gleichzeitig
 an Berthold Finster und meinte: »Ich hatte ganz
-Vergessen, daß Sie Ernst machen könnten. Nun ist ja alles
+vergessen, daß Sie Ernst machen könnten. Nun ist ja alles
 in Ordnung!«
 
 Das stimmte: Harst hatte jetzt die Serviette und die
@@ -912,7 +912,7 @@ sind ein Anfänger, Herr Justizrat. Ich will annehmen, daß
 Ihr Pech vor der Anwaltskammer Sie stark aus dem moralischen
 Gleichgewicht gebracht hat. Vielleicht sind Sie
 doch noch zu retten. Ich rate Ihnen, sich der Polizei freiwillig
-zu stellen. Sie sehen, ich gewähre ihnen die besten
+zu stellen. Sie sehen, ich gewähre Ihnen die besten
 Chancen, den Kopf noch aus der Schlinge zu ziehen.«
 
 Berthold Finster starrte Harald ungläubig an. »Sie
@@ -1166,9 +1166,9 @@ etwas anderes war, bewies es mir durch ein infames
 Grinsen, meckerte ironisch und — hielt mir blitzschnell eine
 mir bereits bekannte kleine Repetierpistole vors Gesicht.
 
-»Gruß Gott, Herr Schraut,« krähte er. »Feine Ueberraschung
+»Grüß Gott, Herr Schraut,« krähte er. »Feine Ueberraschung
 — wie?! Dja — Ihr Freund Harst ist doch nicht
-so schlau, wie er sich Selbst einschätzt.«
+so schlau, wie er sich selbst einschätzt.«
 
 Dann winkte er mit der Linken. Hinter mir knarrte
 die Kleiderschranktür. Irgend jemand packte meine Handgelenke,
@@ -1212,7 +1212,7 @@ Stettiner Bahnhof nur dazu benutzt hatte, seine wirklichen
 Spione ganz im Dunkeln zu halten.
 
 Renommierte ein wenig mit seiner Macht, faßte mir
-die linke Brusttasche und holte einen Zettel hervor, fügte
+in die linke Brusttasche und holte einen Zettel hervor, fügte
 hinzu:
 
 »Da — dies steckte der angetrunkene Geck Ihnen zu,
@@ -1230,7 +1230,7 @@ Schraut! Anna Holm!« Er meckerte fröhlich. »Ja —
 und der Geheimrat Hoßberg wird nun tatsächlich nachmittags
 Gäste bekommen. Nur Sie beide nicht. Im Gegenteil.
 Und dann werde ich persönlich die auf dem Boden der
-Villa stehenden Möbel der alten Baronin nochmals
+Villa stehenden Möbel der alten Baronin nochmals nach
 dem Opernglas durchsuchen. Was Sie ja ebenfalls tun
 <@pagebreak/>
 wollten, Herr Harst,« wandte er sich an Harald. »Sie hatten
@@ -1311,7 +1311,7 @@ war durch die andere Hälfte der Tür verdeckt.
 Ich blickte scharf hin. Ich dachte sofort an die Larve,
 die hinter der Klappenöffnung in der versenkten Jacht aufgehängt
 gewesen war. — Auch dieser »Wächter« da im
-Schranke konnte eine Puppe sein
+Schranke konnte eine Puppe sein.
 
 Nein — doch nicht! Die Knie hatten sich soeben etwas
 bewegt, hatten sich gehoben, hatten sich etwas gespreizt.
@@ -1324,7 +1324,7 @@ Also doch ein Wächter!
 Harald nickte mir kurz zu. Das hieß ebenfalls: diesmal
 ist wirklich jemand zu unserer Bewachung hiergeblieben.
 
-Dann Schloß er die Augen, lehnte sich in die Sofaecke,
+Dann schloß er die Augen, lehnte sich in die Sofaecke,
 so weit dies die auf den Rücken gefesselten Hände zuließen,
 und schien sich in sein Schicksal ergeben zu haben.
 
@@ -1486,7 +1486,7 @@ mit mir selbst, mit Max Schraut, hatte.
 des Geheimrats,« flüsterte Harald. »Und mit Frau Inge
 im Bunde! Begreifst Du nun alles, mein Alter? Begreifst
 Du nun, was ich längst begriffen habe! Frau Inge weiß,
-daß ihr Mann den Diener Ahmed ermordet bat, sie kennt
+daß ihr Mann den Diener Ahmed ermordet hat, sie kennt
 <@pagebreak/>
 auch das Versteck des rätselvollen Opernglases. Sie wollte
 es nicht ausliefern! Sie hat bis zum äußersten gekämpft.

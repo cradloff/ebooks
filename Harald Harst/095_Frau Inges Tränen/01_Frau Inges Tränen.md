@@ -247,7 +247,7 @@ Schüsse scharf auf das Schloß gelenkt wurde, kam der andere
 über die Straße gelenkt, zerschnitt die Schläuche,
 schwang sich auf das weiter nordwärts lehnende Rad des
 Mörders und kam am Parktor *langsam* vorüber —
-langsam. Mr. Pearl, damit etwaige Verfolger ihn und
+langsam, Mr. Pearl, damit etwaige Verfolger ihn und
 nicht den Täter aufs Korn nehmen sollten. Diese Finte ist
 mir leider zu spät eingefallen. Ich habe vorhin bei meiner
 Rückkehr die Stelle in den Büschen jenseits der Straße
@@ -266,7 +266,7 @@ zu tun. Die schönen Zeiten, wo ich als Liebhaberdetektiv
 nur eine Arbeit übernahm, die mir zusagte, sind ja seit
 dem Tiefstande der deutschen Papiermark vorüber. Ich bin
 arm geworden. In zwölf Tagen hoffe ich mit Freund
-Schraut daheim in Berlin-Schmargendorf zu sein,« —
+Schraut daheim in Berlin-Schmargendorf zu sein.« —
 
 Am 24. Mai landeten wir denn auch wohlbehalten in
 Brindisi und fuhren weiter mit der Bahn der deutschen
@@ -386,7 +386,7 @@ befürchtete.
 
 Alles in allem: dieses Abenteuer, dessen Auftakt in Indien
 sich abgespielt hatte, begann auch hier in Berlin einigermaßen
-vielversprechend, —
+vielversprechend. —
 
 Der greise Justizrat hatte inzwischen auf eine riesige
 Kiste gewiesen und uns zum Platznehmen aufgefordert.
@@ -558,7 +558,7 @@ ein und sagte mit seiner krächzenden Stimme:
 
 <@pagebreak/>
 »Ihr Gespräch war mir leidlich interessant, meine
-Herren!«!
+Herren!«
 
 Die Taschenlampe hielt er in der Linken, in der Rechten
 aber ein schwarzes, matt glänzendes Etwas: eine Browningpistole.
@@ -641,10 +641,10 @@ ruhig!«
 
 »Das werden wir, lieber Freund,« nickte Harald gutgelaunt
 dem Unsichtbaren zu. »Bisher fühlen wir uns hier
-ganz wohl«
+ganz wohl.«
 
-Dann befühlte er Seine Taschen, fand Sein Zigarettenetui
-und bot auch mir eine Seiner Mirakulum an.
+Dann befühlte er seine Taschen, fand sein Zigarettenetui
+und bot auch mir eine seiner Mirakulum an.
 
 Schweigend rauchten wir, hingen unseren Gedanken
 nach und warfen hin und wieder einen Blick auf die Klappe
@@ -775,7 +775,7 @@ hervor, sprudelte wie winzige Fontänen höher und höher.
 Schufte haben uns hier eingesperrt, wollen uns und die
 Frau ersäufen. — Los denn — herunter mit der Tischplatte!«
 
-Eine eisige Hand schien mir den Rücken entlangzustreichen
+Eine eisige Hand schien mir den Rücken entlangzustreichen.
 
 »So faß doch mit an!« meinte Harald ungeduldig.
 
@@ -791,7 +791,7 @@ zusammen.
 Die obere Füllung zersplitterte.
 
 Noch drei — vier Hiebe, und auch das Eisenblech
-löste sich
+löste sich.
 
 Harald stieß es vollends nach außen, zwängte sich durch
 die Oeffnung.
@@ -826,7 +826,7 @@ die kleine Segelkammer hineinleuchtete.
 
 »Leer — leer!«
 
-Er kroch hindurch. Ich blieb dicht hinter ihn!
+Er kroch hindurch. Ich blieb dicht hinter ihm.
 
 Die Segelkammer war wirklich leer. Aber dort — dort
 stand die kleine Tür nach dem Vorschiff offen. Dort war
@@ -834,7 +834,7 @@ das Schloß der Tür mit irgend einem Instrument herausgebrochen
 worden.
 
 Harald bückte sich, hob aus dem auch hier auf dem Fußboden
-hin und der schwappenden Wasser die Eisenspitze eines
+hin und her schwappenden Wasser die Eisenspitze eines
 Bootshakens auf.
 
 Sagte kopfschüttelnd: »Ich rate stets daneben, mein
@@ -1040,7 +1040,7 @@ haben. Schau’ nicht hin! Vorsicht!«
 
 Und er stand rasch auf.
 
-Drei Schritt zum Schreibtisch — Die Lampe erlosch.
+Drei Schritt zum Schreibtisch — die Lampe erlosch.
 
 Dann mehr links ein weißer Lichtblitz.
 
@@ -1268,7 +1268,7 @@ spielt jedoch noch ein Geheimnis mit, das wir bisher nicht
 kennen. — Ah — da ist unser Mann! Nun hinter ihm
 drein! Aber Vorsicht! Er glaubt zwar, daß wir noch
 oben im Salon Frau Inges sitzen. Immerhin ist es ratsam,
-auf der Hut zu Sein.«
+auf der Hut zu sein.«
 
 Wir trennten uns, um weniger aufzufallen. Der Inder
 wandte sich der Berliner Straße zu, bog dann rechts
@@ -1412,7 +1412,7 @@ anzufangen war. Ihre Nerven versagten eben. Und diese
 Nerven waren durch den häufigen Gebrauch des verderblichen
 Giftes völlig zerstört.
 
-Dann erschien Frau Inge
+Dann erschien Frau Inge.
 
 Harald wies auf einen Sessel. »Bitte, Frau Baronin,
 wollen Sie Platz nehmen. — Ahnten Sie, daß auch wir
