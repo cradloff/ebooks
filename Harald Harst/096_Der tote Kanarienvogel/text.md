@@ -1686,51 +1686,52 @@ Durch jede Buchhandlung zu beziehen.
 
 <h2>1. Kapitel.</h2>
 
-Elf Uhr abends war’s und wir saßen nach der er-ebnisofen
-Verfolgung Gisbert Parnacks in Jakob Pfit-jubers
-Wohnwagen; Bechert, der Schausteller, Vroni und
-Dir beide. — Frau Zenzi wollte uns in der Küche eine gute
-Gasse Kaffee zubereiten,
+Elf Uhr abends war’s und wir saßen nach der ergebnislosen
+Verfolgung Gisbert Parnacks in Jakob Pfitzhubers
+Wohnwagen: Bechert, der Schausteller, Vroni und
+Wir beide. — Frau Zenzi wollte uns in der Küche eine gute
+Tasse Kaffee zubereiten,
 
-— Bechert hatte sein Weiberkostüm abgelegt, Darunter
-nun er einen dunklen Sportanzug,
+Bechert hatte sein Weiberkostüm abgelegt. Darunter
+trug er einen dunklen Sportanzug,
 
-Das Vronerl hatte Ich in die Türleiste Ehe zurücde
-Bogen. Sie war nicht in der äußeren Verfassung, sich Män-terbliclen
-allzu Nabe zeigen zu können, da Vater Jakob
+Das Vronerl hatte sich in die dunkelste Ecke zurückgezogen.
+Sie war nicht in der äußeren Verfassung, sich Männerblicken
+allzu nahe zeigen zu können, da Vater Jakob
 die moralische Entgleisung seines Kindes sofort durch einige
-überaus kräftige Ohrtachieln geahndet hatte, die der regelmäßigen
+überaus kräftige Ohrtachteln geahndet hatte, die der regelmäßigen
 Rundung des Gesichtes Vronis nicht vorteilhaft
-Ferien waren.
+gewesen waren.
 
 Sie hatte keine Ahnung davon gehabt, daß Gisbert
-Parnack hier viele Jahre als Justizrat Finster gelebt hatte,
+Parnack hier viele Jahre als Justizrat Finster gelebt hatte.
 Er war tatsächlich eine alte Liebe von ihr aus Stettin,
-und so war es ihm seit geworden, Vroni vollständig für
-sich zu acipinnen, hatte sich als die von Harald Harst verfolgte
-Unschuld ausgespielt, Vronerl die: Ehe’ versprochen
-nd sie für seine Pläne schamlos ausaenußgtt,-
+und so war es ihm leicht geworden, Vroni vollständig für
+sich zu gewinnen, hatte sich als die von Harald Harst verfolgte
+Unschuld aufgespielt, Vronerl die Ehe versprochen
+und sie für seine Pläne schamlos ausgenutzt.
 
 Als auch Bechert nun die Geschichte des gefüllten toten
 Kanarienvogels mit allen Einzelheiten Hörte, meinte er
 kopfschüttelnd:
 
-»Es ist wirklich ein Wanden, daß diesem raffinierten
-Kerl und seiner Garde unsere Anwesenheit auf dem Runm-melplay
-entgangen ist, Als Sie mich nachmittags anriefen,
-Fieber Harst, und mich mit drei Beamten hierher bestellten,
-mir Au saufen acht zu lassen Deshalb kamen wir
-Buch in Weiberkleidern.«
+»Es ist wirklich ein Wunder, daß diesem raffinierten
+Kerl und seiner Garde unsere Anwesenheit auf dem Rummelplatz
+entgangen ist. Als Sie mich nachmittags anriefen,
+lieber Harst, und mich mit drei Beamten hierher bestellten,
+hatten Sie mich allerdings dringend gewarnt, ja keine
+Vorsichtsmaßregeln außer acht zu lassen. Deshalb kamen wir
+auch in Weiberkleidern.«
 
 Von diesem Telephongespräch mit Bechert hatte ich
 <@pagebreak/>
-nichts gewußt, Harald hatte mich ja noch kurz vor dem
-Einbringen in den Gerätewagen bei dem Glauben belassen,
+nichts gewußt. Harald hatte mich ja noch kurz vor dem
+Eindringen in den Gerätewagen bei dem Glauben belassen,
 Bechert sei von unserem Vorhaben nicht unterrichtet, —
 
-Nun meldete sich Jakob Pfitzhuber, Er wollte Durch
-aus wissen, wie der Füllfederhalter hatte explodieren sonorer,
-ohne Harald die rechte Hand zu verlegen,
+Nun meldete sich Jakob Pfitzhuber. Er wollte Durchaus
+wissen, wie der Füllfederhalter hatte explodieren können,
+ohne Harald die rechte Hand zu verletzen,
 
 »Sehr einfach, Herr Pfitzhuber,« erklärte Harst bereitwilligst.
 »Ich hatte den Halter so eingerichtet, daß die
@@ -1738,25 +1739,25 @@ Pikrinsäure sich entzünden mußte, sobald ich die Schutzhülle
 über der Feder entfernte. Technische Einzelheiten ersparen
 Sie mir wohl. Ich hatte aber auch dafür gesorgt,
 daß die Explosion nicht augenblicklich, sondern erst nach drei
-Sekunden erfolgte, sich ließ den Halter also fallen, nachdem
-ich die Schutzhülle abgestreift hatte, zog die Hand hin
-ter den Kistendeckel und kippte diesen hoch, damit unsere
-Gesichter geschützt seien Der Halter explodierte, wie ich
-vorausgesehen, beim Herabfallen dicht über dem Boden,
-Pifkrinsäure ist alt Sprengstoff weit kräftiger als Dynamit,
+Sekunden erfolgte. ich ließ den Halter also fallen, nachdem
+ich die Schutzhülle abgestreift hatte, zog die Hand hinter
+den Kistendeckel und kippte diesen hoch, damit unsere
+Gesichter geschützt seien. Der Halter explodierte, wie ich
+vorausgesehen, beim Herabfallen dicht über dem Boden.
+Pikrinsäure ist als Sprengstoff weit kräftiger als Dynamit.
 Ich rechnete bestimmt damit, daß unsere Gegner zurücktaumeln
-würden, Auf den Knall hin aber sollte Bechert
-eindringen. So war es verabredet,«
+würden. Auf den Knall hin aber sollte Bechert
+eindringen. So war es verabredet.«
 
-Er tauchte ein paar Züge und wandte sich Dann an
+Er rauchte ein paar Züge und wandte sich Dann an
 mich.
 
 »Lieber Alter, um die Erklärungen völlig zu beenden:
 ich sprach zu Dir von den fehlenden Gliedern der Kette, von
-dem fehlenden Verschlußstück, Dieses Fehlende war eben
-Parnacks Absicht, durch uns wieder in Beile der beiden
-Enelsteine zu gelangen, Sich sah voraus, daß er nur d0s-hald
-uns in [eine Gewalt bekommen wollte, um uns zu
+dem fehlenden Verschlußstück. Dieses Fehlende war eben
+Parnacks Absicht, durch uns wieder in Besitz der beiden
+Edelsteine zu gelangen. ich sah voraus, daß er nur deshalb
+uns in seine Gewalt bekommen wollte, um uns zu
 zwingen, ihm die Diamanten zu verschaffen,
 
 Frau Zenzi erschien mit einem Tablett, stellte Tassen
@@ -1765,84 +1766,84 @@ Duft entströmte,
 
 Sie füllte die Tassen und meinte:
 
-»Dös ischt tun Abwaschwalsser, die Herren, Den Kaffee
+»Dös ischt kan Abwaschwasser, die Herren. Den Kaffee
 können die Herr’n schon trinken —«
 
-Es war recht agemütlich hier in Pfitzhubers kleinem Blitz«
-ich Bad bin Wohbngemach ie meisten Schausteller sind vn
-äußerst ordnungsliebende und peinlich saubere Leute, An
-der Wand an einem Nagel hing trat Mub’ Vogelbauner, lud
+Es war recht gemütlich hier in Pfitzhubers kleinem blitzsauberen
+Wohngemach. Die meisten Schausteller sind ja
+äußerst ordnungsliebende und peinlich saubere Leute. An
+der Wand an einem Nagel hing jetzt Mutz’ Vogelbauer, und
 <@pagebreak/>
-der kleine aelbarüne Künstler hüpfte vergnügt von einer
+der kleine gelbgrüne Künstler hüpfte vergnügt von einer
 Stange auf die andere, fuhr zuweilen mit dem Schnabel
-Aber die Gitterstäbe bin wie über Die Hatten einer. Harte
-und schien froh, daß feine Örfangenfchatt im Gerätewagen
+über die Gitterstäbe hin wie über Die Saiten einer Harfe
+und schien froh, daß feine Gefangenschaft im Gerätewagen
 beendet war,
 
-Harald erhob sich präzise, nachdem fein Blick eine
-Reise sinnend auf dem Käfig geruht Hatte,
+Harald erhob sich plötzlich, nachdem sein Blick eine
+Weile sinnend auf dem Käfig geruht Hatte,
 
 Trat an das Bauer heran, besichtigte es genau und
-fragte dann in die dunkle Ehe hinein;
+fragte dann in die dunkle Ecke hinein:
 
-»Fróulein Vroni, hat Parnack diesen Käfig in der Hand
+»Fräulein Vroni, hat Parnack diesen Käfig in der Hand
 gehabt, bevor Sie ihn in der vergangenen Nacht verschwinden
-ließen? — Wir haben da nämlich in Formats Westentasche
-eine Pinfprabtrofeite gefunden, die nur von einem
-Vogelbauer stammen kann, Ob sie an diesem Käfig hier
+ließen? — Wir haben da nämlich in Parnacks Westentasche
+eine Zinkdrahtrosette gefunden, die nur von einem
+Vogelbauer stammen kann. Ob sie an diesem Käfig hier
 fehlt, vermag ich so schnell nicht festzustellen,«
 
-Jakob Pfitzhuber rief sofort;
+Jakob Pfitzhuber rief sofort:
 
 »Nehmen’s den Käfig doch herab, Herr Harst.«
 
-Harald tat es und brachte ihn an. den Tisch. Vroni
+Harald tat es und brachte ihn an den Tisch. Vroni
 erklärte jetzt:
 
-»Parnack hat Mutz nie beachtet. Die Rosette mit von
-einem anderen Voagelbauer herrühren,«
+»Parnack hat Mutz nie beachtet. Die Rosette muß von
+einem anderen Vogelbauer herrühren,«
 
-»Allerdings, das sehe ich trat ebenfalls,« nickte Harald,
-»Hier an Mutz’ Bauer schlich kein Stückchen,«
+»Allerdings, das sehe ich jetzt ebenfalls,« nickte Harald.
+»Hier an Mutz’ Bauer fehlt kein Stückchen,«
 
 Dann trug er den Käfig wieder zurück und meinte:
 
-Die Drahtrosette kann uns ja auch gleichgültig sein.«
+»Die Drahtrosette kann uns ja auch gleichgültig sein.«
 
-Das Gespräch nahm eine andere Weggang. Frau Zeugnisse
-war wirklich vorzüglich, an halb zwölf verabschiedeten
-wir uns, Auch Bechert sagte uns auf der Yogis«
-Warner gute Nacht, sprang aus einen Autobus und fuhr
+Das Gespräch nahm eine andere Wendung. Frau Zenzis
+Kaffee war wirklich vorzüglich. Um halb zwölf verabschiedeten
+wir uns. Auch Bechert sagte uns auf der Potsdamer
+gute Nacht, sprang auf einen Autobus und fuhr
 davon.
 
 Harald hatte vorhin, als wir Pfitzhubers Wohnwagen
 verließen, Vroni noch besonders die Hand gedrückt und mit
 ihr geflüstert.
 
-Als wir nun an der Ecke der nahen Golsftraße auf un«
+Als wir nun an der Ecke der nahen Goltzstraße auf
 unsere Elektrische warteten, sagte er unvermittelt:
 
-»Ich habe Vroni gefragt, wem der tote Kangrien-vogel’
-Er e Sie versicherte mir, sie wüßte es nicht.
-Mag sein. — Glaubst Du, daß die Kali tagrosette aus als
-nahe Nejtertafche artig bepentunasins ist?«
+»Ich habe Vroni gefragt, wem der tote Kanarienvogel
+gehört hat. Sie versicherte mir, sie wüßte es nicht.
+Mag sein. — Glaubst Du, daß die Käfigrosette aus Parnacks
+Westentasche ganz bedeutungslos ist?«
 
 <@pagebreak/>
-Nein. Daß sie es nicht ist, merkte ich sitzen daran,
-daß Du sie als bedeutungs!los hinzustellen suchtest,«
+»Nein. Daß sie es nicht ist, merkte ich schon daran,
+daß Du sie als bedeutungslos hinzustellen suchtest,«
 
-Punsch, werde sie Bechert Abteilungen,« murmelte Harst,
-und es klang, als seien seine Erstaunten seinen Worten weit
+»Ich werde sie Bechert abverlangen,« murmelte Harst,
+und es klang, als seien seine Gedanken seinen Worten weit
 voraus. »Wer steckt wohl eine Drahtrosette von einem
-Rasamala Au ich?! Westufer! Um sie aufambeivahren?!
-Weshalb aufbewahren? »und — woher stammte der tote
+Käfig zu sich?! Weshalb?! Um sie aufzubewahren?!
+Weshalb aufbewahren? Und — woher stammte der tote
 Kanarienvogel — woher? — Parnack muß doch einen
-Tue hier in Berlin haben, einen Tanne sicheren
-Bau! Winkel —«
+Schlupfwinkel hier in Berlin haben, einen ganz sicheren
+Schlupfwinkel —«
 
-Bann Schwieg er,
+Dann Schwieg er,
 
-Unsere Straßenbahn kam Wir stiegen ein, Um
+Unsere Straßenbahn kam. Wir stiegen ein. Um
 Mitternacht waren wir in der Blücherstraße, in Haralds
 Arbeitszimmer.
 
@@ -1852,186 +1853,185 @@ Auguste Harsts Hand:
 > Lieber Harald, abends um zehn war ein altes
 Frauchen hier, die mich unter Tränen um den toten Kanarienvogel
 bat, ihren Liebling, den ihr ein Mann gestohlen
-und getötet hätte, der bei ihr möbliert wohnte,
-Sie nannte sich Frau Sturz, Berlin W, Passauerstr. 299,
-Gartenhaus, Die Bremste war so unglücklich, daß ich
-Reihe den toten Vogel schließlich aushändigte Sie wollte
+und getötet hätte, der bei ihr möbliert wohnte.
+Sie nannte sich Frau Sturz, Berlin W. Passauerstr. 299,
+Gartenhaus. Die Aermste war so unglücklich, daß ich
+ihr den toten Vogel schließlich aushändigte. Sie wollte
 ihn in einem großen Blumentopf liebevoll bestatten.
 — Deine Mutter.
 
-Harst hatte halblaut vorgelesen, nahm nun das der
-Zwei Tore in, blätterte darin, sagte:
+Harst hatte halblaut vorgelesen, nahm nun das Berliner
+Adreßbuch, blätterte darin, sagte:
 
-»Die Passauerstraße hat Leine Nummer 299, Auch in
-Nr. 99 wohnt keine Frau Sturz, Meine Mutter Stürzte von
-Anna Bahn, Parnacks Vertrauter, getäuscht worden sein,
-68 Rad sich nun: weshalb holte die Holm den toten Los
-Hagel? Sicher nicht aus dem is um ihn »liebevoll
-bestatten« zu können, Bestärkt also?«
+»Die Passauerstraße hat keine Nummer 299. Auch in
+Nr. 99 wohnt keine Frau Sturz. Meine Mutter dürfte von
+Anna Holm, Parnacks Vertrauter, getäuscht worden sein.
+Es fragt sich nun: weshalb holte die Holm den toten Vogel?
+Sicher nicht aus dem Grunde, um ihn »liebevoll
+bestatten« zu können. Weshalb also?«
 
 Er blickte sinnend vor sich hin. »ich will Doch mal
 meine Mutter wecken,« meinte er Dann. »Es erscheint mir
-wichtig, festzustellen, wo sie mit dieser angeblichen Frau -
-Sturz gesprochen hat Entschuldige mich ein paar Minuten.
-Du könntest inzwischen für alle Fälle- mal das Zimmer hier
+wichtig, festzustellen, wo sie mit dieser angeblichen Frau
+Sturz gesprochen hat. Entschuldige mich ein paar Minuten.
+Du könntest inzwischen für alle Fälle mal das Zimmer hier
 <@pagebreak/>
 durchsuchen denn wahrscheinlich hat meine Mutter die
 »Sturz« hier empfangen«
 
 Er ging hinaus. ich hörte Ihn Die Treppe emporsteigen.
 
-Zimmer durchsuchen?!! Hm — ob Harald fürchtete.
+Zimmer durchsuchen?!! Hm — ob Harald fürchtete,
 die »Sturz« könne für uns irgend eine Ueberraschung zurückgelassen
 haben?!
 
-Wenn ja, dann mußte ich weh! zunächst na! unter die
-Klubsessel und unter das Ledersofa Schaum.
+Wenn ja, dann mußte ich wohl zunächst mal unter die
+Klubsessel und unter das Ledersofa schaun.
 
 ich tat es mit Hilfe der eingeschalteten Taschenlampe.
 
-Nein — der Fußboden war leer, Da stand keine Höllenmaschine
+Nein — der Fußboden war leer. Da stand keine Höllenmaschine
 — nichts dergleichen,
 
 Ich suchte weiter.
 
-Nirgends etwas Verdächtiges! — Bete mich in den
-»einen Sessel. zündete mir eine Zigarre an und lachte an die
-Ktäfiarosetzte, den Vogel und den entlohenen Verbrecher,
-dessen Spur im Aleifivar! der Polizeihund bis zur Pallas-siraße
+Nirgends etwas Verdächtiges! — Setzte mich in den
+einen Sessel, zündete mir eine Zigarre an und dachte an die
+Käfigrosette, den Vogel und den entflohenen Verbrecher,
+dessen Spur im Kleistpark der Polizeihund bis zur Pallasstraße
 über den Hof eines Baugeschäftes verfolgt und dann
 verloren hatte.
 
-Harst kehrte zurück — lebhafter in Gang und Ha!
-jung als vorhin,
+Harst kehrte zurück — lebhafter in Gang und Haltung
+als vorhin,
 
 »Die Sturz ist hier einige Zeit allein im Zimmer gewesen,«
 erklärte er. »Das legt uns die Pflicht auf, das
-Zimmer aufs genaueste zu durchstöbern. Ich bin trat
+Zimmer aufs genaueste zu durchstöbern. Ich bin jetzt
 überzeugt: das Weib war Anna Holm, niemand anders!
-Oane uns fraglos hier irgend eine Teufelei zurückgelassen.
+Und sie hat uns fraglos hier irgend eine Teufelei zurückgelassen.
 
-»Seh habe bereits gesucht,« meinte sich,
+»Ich habe bereits gesucht,« meinte ich,
 
-Harald blickte auch an,
+Harald blickte mich an,
 
 »Auch genau?«
 
-am ich denke.«
+»Hm — ich denke.«
 
-Die Sturz hat dort gesessen, wo Du trat sind«
+»Die Sturz hat dort gesessen, wo Du jetzt sitzt.«
 
-sich »Auf dem Fußboden liegt nichts« — Mix kam Haralds
+»Auf dem Fußboden liegt nichts« — Mir kam Haralds
 Vorsicht etwas übertrieben vor.
 
-»erst doch, einmal auf Betet ..
+»Steh’ doch einmal auf, bitte.«
 
-Ab daß es, und — er Millionen schweren Klubsessel
-im, Hüfte sich und beschaute die Unterseite, wache Strafen
+Ich tat es, und — er kippte den schweren Klubsessel
+um, bückte sich und beschaute die Unterseite, wo die straffen
 Gurte die Sprungfedern hielten.
 
 Dann pfiff er leise durch die Zähne, kniete nieder und
 holte zwischen den Gurten und Sprungfedern eine längliche
 <@pagebreak/>
-Blechbüchse hervor, etwa von der Größe einer Anreiz
-Stunde Evaraelbüüchie,
+Blechbüchse hervor, etwa von der Größe einer
+Zweipfund-Spargelbüchse.
 
-»Donnerwetter — also doch!« entfuhr e& mir,
+»Donnerwetter — also doch!« entfuhr es mir,
 
-in »5a — also doch, mein Alster! Wie sein Du gesucht
-Haft!
+»Ja — also doch, mein Alter! Wie fein Du gesucht
+hast!«
 
-Er betrachtete die Büchse. Ed war eine klopfendem.
-Büchse,. Der eine Deckel war rund berausaeichninen und
-durch ein aufgelötetes Stück Blech Orient worden, die
-Lötstellen bildeten Weinte fortlaufende Linie, sondern nur
-hier und dort hatte man etwas Löuzinn mit dem Kolben
-aufgemalt, so daß 26 nicht schwer fallen tönte, das Blechstück
+Er betrachtete die Büchse. Es war eine Konservenbüchse.
+Der eine Deckel war rund herausgeschnitten und
+durch ein aufgelötetes Stück Blech ersetzt worden. die
+Lötstellen bildeten keine fortlaufende Linie, sondern nur
+hier und dort hatte man etwas Lötzinn mit dem Kolben
+aufgetupft, so daß es nicht schwer fallen konnte, das Blechstück
 abzureißen.
 
-Plötzlich klopfte 8 kurz an die Tür nach dem Flur, und
+Plötzlich klopfte es kurz an die Tür nach dem Flur, und
 Frau Harst trat ein,
 
-»Entschuldigt,« meinte die alte Dame ein wenig auf
-geregt. »Ich habe mir den Besuch der Frau nochmals durch
-den Kopf gehen lallen, Harald. ich glaube, ich habe Wir
-da auf dem Zettel eine unrichtige Nummer angegeben. sie
-Frau nannte mir die Hausnumaner Nr. 119, Nun weiß
-ih’s ganz bestimmt — 119, nicht 299,«
+»Entschuldigt,« meinte die alte Dame ein wenig aufgeregt.
+»Ich habe mir den Besuch der Frau nochmals durch
+den Kopf gehen lassen, Harald. ich glaube, ich habe Dir
+da auf dem Zettel eine unrichtige Nummer angegeben. Die
+Frau nannte mir die Hausnummer Nr. 119. Nun weiß
+ich’s ganz bestimmt — 119, nicht 299,«
 
-Dann nickte sie und zu und.!ehrte wieder nach oben
-in ihr Schlafzimmer zuckte,
+Dann nickte sie uns zu und kehrte wieder nach oben
+in ihr Schlafzimmer zurück.
 
 Harst blätterte schon im Adreßbuch.
 
-»Ah — wirklich: Frau Anna Sturz, dertolimete Rechnungsrat.”«
+»Ah — wirklich: Frau Anna Sturz, verwitwete Rechnungsrat.«
 
-Und Harald schaute mich verblüfft an, fügte bin:
+Und Harald schaute mich verblüfft an, fügte hinzu:
 
-»Nun kommt 83 aus zweierlei an: erstens. ob diese
-Rebnunasrätin wirklich die Besucherin war, und zweitens,
+»Nun kommt es auf zweierlei an: erstens, ob diese
+Rechnungsrätin wirklich die Besucherin war, und zweitens,
 was diese Büchse enthält!«
 
 <h2>2. Kapitel.</h2>
 
-Harald setzte ich.
+Harald setzte sich.
 
-»Hole mir bitte den Hanbdwerlêlasfen, mein Alter, —
-So, Tante. Nun rücke mir die Stehlampe näher und nimm
-die Siebe ab,«
+»Hole mir bitte den Handwerkskasten, mein Alter. —
+So, danke. Nun rücke mir die Stehlampe näher und nimm
+die Glocke ab,«
 
-Dann untersuchte er die Spargelbüchse auf feine Art.
+Dann untersuchte er die Spargelbüchse auf seine Art.
 
-»Gewicht etwa arg und cm halb am) M Di M,
+»Gewicht etwa zwei und ein halb Pfund,« erklärte er.
 <@pagebreak/>
-All bis auf den Aufkeimen Ersagdecel nichts Vers
-jähtigreé.
+»Außen bis auf den aufgelöteten Ersatzdeckel nichts Verdächtiges.«
 
-er hielt sie an das Ohr, Kein tidendes Uhrwerk zu
-en. — Schütteln möchte ich sie Der; Lieber nicht. Man
-nicht wissen!«
+er hielt sie an das Ohr. »Kein tickendes Uhrwerk zu
+hören. — Schütteln möchte ich sie doch lieber nicht. Man
+kann nicht wissen!«
 
-Er nahm einen Blechschneider und schnitt mit größer
-er Behutsamkeit aus der Seitenwand ein Stück heraus,
+Er nahm einen Blechschneider und schnitt mit größter
+Behutsamkeit aus der Seitenwand ein Stück heraus,
 vergrößerte die Oeffnung, bis er den Blechzylinder zertrennt
 hatte,
 
-Mu Zog er die Teile, nachdem er den in Papier gar«
-stellen Inhalt befühlt hatte, auseinander und legte das
-gliche Märchen auf den Tisch
+Nun Zog er die Teile, nachdem er den in Papier gewickelten
+Inhalt befühlt hatte, auseinander und legte das
+längliche Päckchen auf den Tisch.
 
-ich hatte mit einer gewissen nervösen Spannung aus
-Haut, Der Bedaure an eine Höllenmaschine hatte mich
+ich hatte mit einer gewissen nervösen Spannung zugeschaut.
+Der Gedanke an eine Höllenmaschine hatte mich
 nicht verlassen.
 
 Ich atmete auf, als Harald mit einem merkwürdigen
-da sagte:
+Lächeln sagte:
 
-Das Päckchen enthält Eßlöffel.«
+»Das Päckchen enthält Eßlöffel.«
 
 Und er entfernte die vielfachen Lagen Seidenpapier,
-1tthüllte — fünf offenbar sehr alte, goldene Eßlöffel mit
-Wappen und dem Agra
+enthüllte — fünf offenbar sehr alte, goldene Eßlöffel mit
+Wappen und dem Monogramm:
 
 > H. v. B.
 
-Log — Mal vors, vors sagte er
+»Gold — wahrhaftig Gold, nicht vergoldet,« sagte er
 langsam. »Mein Alter — begreifst Du das?! Eine Frau
-kurz holt einen toten Vogel ab und läßt dafür Ach
-sel hier, die in eine Spargelbüchse eingelötet sind!
+Sturz holt einen toten Vogel ab und läßt dafür Eßlöffel
+hier, die in eine Spargelbüchse eingelötet sind!«
 
-Ich hatte mir einen Sucht berangerüch und prüfte die
+Ich hatte mir einen Stuhl herangerückt und prüfte die
 Löffel.
 
-»Ich schätze ihr Alter auf zweihlinbert Jahre,« meinte
+»Ich schätze ihr Alter auf zweihundert Jahre,« meinte
 Harald versonnen. »Sie sind heute viele, viele Millionen
-tt.
+wert.«
 
 Dann strich er das Seidenpapier glatt.
 
-Stunde, deutete mit beim Finger auf einen lila Fleck
-Erbes Papiers.
+Stutzte, deutete mit beim Finger auf einen lila Fleck
+des Papiers.
 
-ah beugte mich vor. Der Fleck war ein Stempelt
+Ich beugte mich vor. Der Fleck war ein Stempel:
 
 > Heinrich Sturz,
 
@@ -2039,114 +2039,113 @@ ah beugte mich vor. Der Fleck war ein Stempelt
 
 > Berlin, Passauerstraße 119.
 
-Hart schüttelte den Kopf,
+Harst schüttelte den Kopf,
 
 <@pagebreak/>
-»Unbegreiflich! also willst Sturz — Rechnungsrätin
+»Unbegreiflich! also wirklich Sturz — Rechnungsrätin
 Sturz!«
 
-Mieder nahm er den einen Teil der zerschnittenen
-nur, in die Hand, besichtigte den atıfaeläteten Deckel.
+Wieder nahm er den einen Teil der zerschnittenen
+Büchse in die Hand, besichtigte den aufgelöteten Deckel.
 
-Diese Lötarbeit rührt von einem Laien her, ist sehr
-alt, liegt Fahre zurück. Das sieht man. Die Löffel ruhen
+»Diese Lötarbeit rührt von einem Laien her, ist sehr
+alt, liegt Jahre zurück. Das sieht man. Die Löffel ruhen
 also schon lange Zeit in der Büchse.«
 
-Er griff nach dem silbernen Zigarettenkasten, Er cm
-Arme an, lehnte sich zurück, tauchte mit geschlossenen
+Er griff nach dem silbernen Zigarettenkasten, strich ein
+Zündholz an, lehnte sich zurück, rauchte mit geschlossenen
 Augen,
 
 Die Wangenmuskeln seines hageren geistvollen Gesichts
 spielten. Auf der Stirn erschienen Falten.
 
-»Di gäbe eine Theorie — eine Erklärung,« murmelte
-Sie könnte stimmen, wenn —«
+»Es gäbe eine Theorie — eine Erklärung,« murmelte
+er. »Sie könnte stimmen, wenn —«
 
-das weitere verstand ich nit.
+das weitere verstand ich nicht.
 
 Dann öffnete er die Augen,
 
-»ich wünschte, es wäre Nr wieder Tag, lieber Alter,
+»ich wünschte, es wäre erst wieder Tag, lieber Alter,
 und wir könnten Frau Sturz besuchen und ausfragen. Ich
-werde ja doch nicht schlafen können, Wie sollte ich ’s bei
-dieser Per von An, die mich beschäftigen!«
+werde ja doch nicht schlafen können. Wie sollte ich’s bei
+dieser Fülle von Fragen, die mich beschäftigen!«
 
 »Und Du hast eine Erklärung für dies alles bereit —
-es toten Kanarienvogel bis hin zu den goldenen
-Gabeln
+für den toten Kanarienvogel bis hin zu den goldenen
+Löffeln?«
 
-»ja. Eigen schlich gibt es ja nur eine einzige Erklärung,
-denke ich, wenn man die Geschehnisse logisch prüft und ans
-einander reiht. Aber diese meine Theorie steht und fällt mit
-Anna Holm, mit unseres Gegners Gisbert Parnack Herrn
-na mit »dieser gerissenen, gebildeten, sprach!artigen
+»ja. Eigentlich gibt es ja nur eine einzige Erklärung,
+denke ich, wenn man die Geschehnisse logisch prüft und
+aneinander reiht. Aber diese meine Theorie steht und fällt mit
+Anna Holm, mit unseres Gegners Gisbert Parnack Helfershelferin,
+mit dieser gerissenen, gebildeten, sprachkundigen
 Hochstaplerin —«
 
-»Intoitesern?«
+»Inwiefern?«
 
 »Ob die Rechnungsrätin oder Anna Holm hier war
-— darauf kommt es an! Sich möchte mich für die Rätin
+— darauf kommt es an! ich möchte mich für die Rätin
 entscheiden. Dann stimmt meine Theorie.«
 
-»Und die träfe?«
+»Und die wäre?«
 
 »Ein neues Rätsel!«
 
-Dann gähnte er. »Wollen sichtbaren beben! ie
-Nacht, Max laut! Mach? kein kg enttäuschtes Oel
-Die Geschichte mit den Löffeln ist vielleicht so derblfiftend
+Dann gähnte er. »Wollen schlafen gehen! Gute
+Nacht, Max Schraut! Mach’ kein so enttäuschtes Gesicht.
+Die Geschichte mit den Löffeln ist vielleicht so verblüffend
 einfach, daß Du um jede Begeisterung für den neuen Fall
-fandest, wollte Ab Dir meine Theorie entwickeln. Freue
+kämest, wollte ich Dir meine Theorie entwickeln. Freue
 <@pagebreak/>
-ich auf morgen. Da wird es Arbeit geben, wie wir sie
-gen. Gute Nacht,«
+Dich auf morgen. Da wird es Arbeit geben, wie wir sie
+schätzen. Gute Nacht,«
 
-Er nahm die Teile der Spargelbüchse, das Goldsucher
+Er nahm die Teile der Spargelbüchse, das Seidenpapier
 und die fünf Löffel mit in sein Schlafzimmer, —
 
-Seh war kaum erst eingeschlafen, da ich noch im Bett
+Ich war kaum erst eingeschlafen, da ich noch im Bett
 die Abendzeitungen durchgesehen hatte, als (es war morgens
-Uhr fünfundzwanzig Minuten) ich im Flur die Glocke
-un hörte — so andauernd, Daß ich sechs bald wach
-Erde.
+drei Uhr fünfundzwanzig Minuten) ich im Flur die Glocke
+schrillen hörte — so andauernd, Daß ich sehr bald wach
+wurde.
 
-sich zog den Schlafrock über, eilte in den Flur, und im
-en Moment trat auch Harald aus seinem Arbeitern.
+ich zog den Schlafrock über, eilte in den Flur, und im
+selben Moment trat auch Harald aus seinem Arbeitszimmer.
 
 Der frühe Besucher, den wir jetzt beim Morgengrauen
-einhieben, war — Kapitel Pfitzhuber.
+einließen, war — Jakob Pfitzhuber.
 
-= Armer Jakob! Ganz verstört war er, stellte sein Fahrrad
+Armer Jakob! Ganz verstört war er, stellte sein Fahrrad
 in den Flur und stammelte etwas von einem Toten,
-der auf einer Bank im Kleistpark säße und, auf dessen
+der auf einer Bank im Kleistpark säße und auf dessen
 Schenkel ein toter Kanarienvogel mit ausgebreiteten Flügeln
-ge,
+läge.
 
 Ein Kognak in Harsts Arbeitszimmer im Sessel genossen
 brachte Freund Pfitzhuber wieder etwas zu sich,
 
-Wir erfuhren Dann folgendes;
+Wir erfuhren Dann folgendes:
 
 Er hatte bei Hellwerden seinen Wohnwagen verlassen,
 um in einem Komposthaufen an der Nordwestecke des Kleistparks
 nach Regenwürmern zu suchen, die er als leidenschaftlicher
-Angler brauchte, Am Tage durfte er an den
-Komposthaufen nicht heran, Es war verboten und kostete
-rate,
+Angler brauchte. Am Tage durfte er an den
+Komposthaufen nicht heran. Es war verboten und kostete
+Strafe.
 
 Als er sich dem Komposthaufen auf Seitenwegen genähert
 hatte, war ihm ein auf einer Bank sitzender Mann
-aufgefallen, dessen zusammengesunkene Haltung seinen Arge
+aufgefallen, dessen zusammengesunkene Haltung seinen
 Argwohn erregte. Er trat an den Menschen heran stieß ihm
 den Hut aus dem Gesicht und sah sofort, daß der Mann tot
-an, Außerdem bemerkte er aber auch an der linken Halsseite
-unter dem blutdurchweichten Kragen eine Stichwunde,
-Da hatte er dem Toten den Gut wieder ins Gesicht gedrückt,
-he u feinem Wagen zurückgreift und hier zu uns gerudert,
--
+war. Außerdem bemerkte er aber auch an der linken Halsseite
+unter dem blutdurchweichten Kragen eine Stichwunde.
+Da hatte er dem Toten den Hut wieder ins Gesicht gedrückt,
+war zu seinem Wagen zurückgeeilt und hier zu uns geradelt. —
 
-Di Er befand einen zweiten Kognak und eine Zigarre,
-holte ein Auto dorther, so daß wir beide kaum mit Umziehen
+Er bekam einen zweiten Kognak und eine Zigarre,
+holte ein Auto herbei, so daß wir beide kaum mit Anziehen
 <@pagebreak/>
 fertig sofort davonfahren konnten,
 
@@ -2154,79 +2153,79 @@ Als wir in der Potsdamerstraße ausstiegen, war die
 Sonne gerade aufgegangen.
 
 Wir trafen einen Polizeibeamten, den wir mit der
-Meldung von dem borausfichtlichen Verbrechen zur nächsten
+Meldung von dem voraussichtlichen Verbrechen zur nächsten
 Wache schickten.
 
 Dann betraten wir den Park, fanden auch die in der
-Nähe des Spielplatzes stehende Bau!, machten in einiger
+Nähe des Spielplatzes stehende Bank, machten in einiger
 Entfernung halt,
 
 »Wir wollen warten, bis die Polizei eintrifft,« meinte
 Harald. »Wir dürfen die Fußspuren nicht durch unsere
-Spuren derwischen.«
+Spuren verwischen.«
 
 Er hatte ein Fernglas mitgenommen, stellte es ein,
 
 Und — da sah auch ich, daß auf dem rechten Schenkel
-des Toten ein Kanarienvogel lag und daß aus dem per
-Eid links der Bau! eine größere um Schlange
+des Toten ein Kanarienvogel lag und daß aus dem Gebüsch
+links der Bank eine größere grünbraune Schlange
 langsam hervorkroch,
 
-Harst setzte das Glas
+Harst setzte das Glas ab.
 
-»Das ist fein inländiides Reptil,« meinte er. »Es ist
-Nr —
+»Das ist kein inländisches Reptil,« meinte er. »Es ist
+eine —«
 
-Neben und war Jakob Psinhuber erschienen, rief leise:
+Neben und war Jakob Pfitzhuber erschienen, rief leise:
 
-Ah — die Bestie — die Durstig!«
+»Ah — die Bestie — die Bestie!«,
 wollte vorwärtsstürmen, wurde von Harald am Arm gepackt,
 zurückgehalten.
 
-»Pfitzhuber, es ist eine Giftschlange,. eine ägyptische.
-per
+»Pfitzhuber, es ist eine Giftschlange, eine ägyptische
+Viper.«
 
 Der Schausteller drehte uns sein bleiches Gesicht zu,
 keuchte wütend:
 
-»Lassen’s mit 108, Herr Hart!«
+»Lassen’s mi los, Herr Harst!«
 
-Das Di Vroni ihn scharf. »Gehört die Viper etwa
-Ihnen, Mann
+Harald fixierte ihn scharf. »Gehört die Viper etwa
+Ihnen, Mann?«
 
 Pfitzhuber lächelte plötzlich blöde.
 
-»Ob das Mistvieh —k? mir davon — nix davon! Herr
-Harst, ich bin so a wengerl besuff’n, Die beiden Kognälker
-dort bei Eahna — so auf nüchtern Menschen!«
+»Ob das Mistvieh —? Nix davon — nix davon! Herr
+Harst, i bin so a wengerl besuff’n. Die beiden Kognäker
+dort bei Eahna — so auf nüchtern Moagen!«
 
 Er log, er log ohne Zweifel. Er zitterte ja, und das
 Lächeln war versteckte Angst,
 
-»Keine Ausreden, bester Pfithuhber,« flaute Harald ernst,
-»mich täuschen Sie nicht! Die Viper ist Oliven entflohen!
+»Keine Ausreden, bester Pfitzhuhber,« sagte Harald ernst,
+»mich täuschen Sie nicht! Die Viper ist Ihnen entflohen!
 Sie ist Ihr Eigentum,«
 
 <@pagebreak/>
-»Sie san verrückt, Herr!« Krauste der bisher so be
-irdene Jakob auf, »Lassen’s mi los! Teufi noch mal"«
+»Sie san verrückt, Herr!« brauste der bisher so bescheidene
+Jakob auf, »Lassen’s mi los! Teufi noch mal!«
 
-Die Schlange kroch wert dicht an dem Toten vorü
-jeder ins (Gebüsch zurück.
+Die Schlange kroch jetzt dicht an dem Toten vorüber
+wieder ins Gebüsch zurück.
 
 »Herr Pfitzhuber,« meinte Harald noch eindringlicher.
 Sie sollten mir lieber die Wahrheit sagen —«
 
-Da hatte der stämmige Mann einen Saß nach vorwärts
+Da hatte der stämmige Mann einen Satz nach vorwärts
 getan, hatte sich frei gemacht, stürmte um die Bank herum
-nd hob ein mächtiges Stück Schlucke von einer Beeteinfassung
+und hob ein mächtiges Stück Schlacke von einer Beeteinfassung
 empor. Dann verschwand er hinter den Sträuchern
-Ich dem Komposthaufen zu.
+nach dem Komposthaufen zu.
 
 Harald zuckte die Achseln.
 
-»Wir werden uns Freund Jakob nachher Ade
-dein »Wunder, daß er die Viper als fein Eigentum verleugnet,
+»Wir werden uns Freund Jakob nachher vornehmen.
+Kein Wunder, daß er die Viper als sein Eigentum verleugnet.
 Diese Sandvipern sind außerordentlich giftig. Ich
 verstehe nur nicht, wie er in seiner harmlosen Menagerie sich
 Giftschlange halten konnte,«
@@ -2234,69 +2233,68 @@ Giftschlange halten konnte,«
 Pfitzhuber erschien nicht mehr,
 
 Zehn Minuten später war die Mordkommission zur
-Felle. Die beiden Kriminalkomnmissare kannten wir nur
-berflächlih. Man merkte, daß sie keinen Wert auf unsere
-[nwesenheit legten. Jmmierhin gestatteten sie, Daß wir uns
-eben Toten ansahen, der tatsächlich durch einen Stich in die
-Linke Halsschlagader verblutet war. Es lag ohne Zweifel
+Stelle. Die beiden Kriminalkommissare kannten wir nur
+oberflächlich. Man merkte, daß sie keinen Wert auf unsere
+Anwesenheit legten. Immerhin gestatteten sie, Daß wir uns
+den Toten ansahen, der tatsächlich durch einen Stich in die
+linke Halsschlagader verblutet war. Es lag ohne Zweifel
 Mord vor. Der Polizeiarzt erklärte, der Tod sei zwischen
-zwei und vier Uhr morgens eingetreten, — Den Kanarien-pe
-ne! hatte einer der Beamten bereits in Papier gewickelt
-Kind in die Tasche gesteckt,
+zwei und vier Uhr morgens eingetreten. — Den Kanarienvogel
+hatte einer der Beamten bereits in Papier gewickelt
+und in die Tasche gesteckt,
 
-Der Ermordete hatte ein hageres, Vollstes Gesicht, war
-haltlos, hatte sehr dünnes graues Haar und trug einen
-
-Flocht sitzenden Anzug, dessen Taschen auch nicht die geschulte
+Der Ermordete hatte ein hageres, faltiges Gesicht, war
+bartlos, hatte sehr dünnes graues Haar und trug einen
+schlecht sitzenden Anzug, dessen Taschen auch nicht die geringste
 Kleinigkeit enthielten,
 
-Wir beide kamen uns hier am Tatort bald sehr über
-ich vor. Wir hatten ausgesagt, was wir wußten, hat-jedoch
-in Rücksicht auf Pfitzhuber die Sandviper verschwiegen,
+Wir beide kamen uns hier am Tatort bald sehr überflüssig
+vor. Wir hatten ausgesagt, was wir wußten, hatten
+jedoch in Rücksicht auf Pfitzhuber die Sandviper verschwiegen.
 Gerade als wir davongingen, kam Freund
-Anhob in Begleitung eine Kriminalbeamten herbei, der ihn
-holt hatte, Er trat rasch an uns heran
+Jakob in Begleitung eine Kriminalbeamten herbei, der ihn
+geholt hatte. Er trat rasch an uns heran
 
-»Hab’n, ’s Mistvieh erwähnt?« fragte er Erobert
+»Hab’n ’s Mistvieh erwähnt?« fragte er stockend.
 
-»Nein,« erklärte Raum eng
+»Nein,« erklärte Harst ebenso leise.
 
 <@pagebreak/>
-grob nickte zufrieden und schritt weiter,
+Jakob nickte zufrieden und schritt weiter,
 
 Wir begaben uns auf den Schaubudenplatz, fanden
 Frau Zenzi bereits in der Wagenküche vor und wurden in
 den Wohnraum gebeten.
 
 Frau Pfitzhuber suchte ihre Verlegenheit unter einem
-Schwall vorn Worten zu verbergen.
+Schwall von Worten zu verbergen.
 
 bis Harald meinte:
 
 »Sie sollten mir besser keine Komödie vorspielen. Ihr
 Mann hat Ihnen erzählt, daß er die Viper gefunden hat,
-nicht wahr? Ich habe der Polizei gegenüber von der Gift
-Schlange geschwiegen, die ja schließlich mit dem Morde im
+nicht wahr? Ich habe der Polizei gegenüber von der Giftschlange
+geschwiegen, die ja schließlich mit dem Morde im
 Kleistpark nichts zu tun hat.«
 
-Da rannen der rechneten Frau Zenzi zwei dicke Dankes
-Tränen über die Wangen.
+Da rannen der robusten Frau Zenzi zwei dicke Dankestränen
+über die Wangen.
 
-Vergelt’s Gott, Herr Harst, Vergelt’s Gott!« schluchzte
-sie, Und sie berichtete dann von all der furchtbaren Angst,
-die Ne und ihr Mann der Schlange wegen ausgestanden
-Gatten,
+»Vergelt’s Gott, Herr Harst, vergelt’s Gott!« schluchzte
+sie. Und sie berichtete dann von all der furchtbaren Angst,
+die sie und ihr Mann der Schlange wegen ausgestanden
+hatten,
 
-statob Pfitzhuber hatte das Reptil vor drei Wochen
+Jakob Pfitzhuber hatte das Reptil vor drei Wochen
 von einem Bekannten, ebenfalls einem Schausteller, in
 Zahlung genommen für ein Darlehn, das dieser ihm nicht
-zurückerstatten konnte, Er hatte gehofft, die Sandviper später
-mit Vorteil weiterveräußern zu können, Vor fünf las
-gen hatte die Schlange sich jedoch aus ihrer Kiste nacıta
-befreit und war Trübem verschwunden gewesen. Pfitzhuber
-hatte mit seiner Frau den ganzen Park uns auch die nahen
+zurückerstatten konnte. Er hatte gehofft, die Sandviper später
+mit Vorteil weiterveräußern zu können. Vor fünf Tagen
+hatte die Schlange sich jedoch aus ihrer Kiste nachts
+befreit und war seitdem verschwunden gewesen. Pfitzhuber
+hatte mit seiner Frau den ganzen Park und auch die nahen
 Laubengärten abgesucht — angeblich nach einem entlaufenen
-jungen Kaninchen, Heute nun hatte Jakob endlich das
+jungen Kaninchen. Heute nun hatte Jakob endlich das
 »Mistvieh« erwischt und hatte sie getötet. —
 
 Frau Zenzi war gerade mit der lebhaften Schilderung
@@ -2304,37 +2302,37 @@ zu Ende gekommen, als Jakob Pfitzhuber erschien.
 
 Was sich nun ereignete, war eine etwas veränderte
 Wiederholung jener Szene von vorhin im Kleistpark, als
-Pfitzhuber ich aus Harsts Umklammerung loszureißen
-u
+Pfitzhuber sich aus Harsts Umklammerung loszureißen
+suchte.
 
 Kaum hatte er uns begrüßt, kaum hatte Harald durch
 ein paar Worte angedeutet, daß uns die Geschichte der
-Sandviper nun bekannt sei, aha Jakob wie ein Irrsinnigen
-auf seine Frau loëschoß, sie bei den Schultern packte und
+Sandviper nun bekannt sei, als Jakob wie ein Irrsinniger
+auf seine Frau losschoß, sie bei den Schultern packte und
 hin und her schüttelte,
 
 <@pagebreak/>
-Sein Sicht 1woar blaurot vor Wut — seine Stimme
-sagte vor ungeheurer Aufregung.
+Sein Gesicht war blaurot vor Wut — seine Stimme
+versagte vor ungeheurer Aufregung.
 
 Harald sprang zu, schob ihn kraftvoll zurück.
 
-»Mann — sind Sie denn wirklich Uebergeschnappt!«
-er ihn an »Was schadet es, daß die Frau uns
-Beiles eingestanden hohl! Die Viper hat doch zum Glück
-einerlei Unheil angerichtet!«
+»Mann — sind Sie denn wirklich übergeschnappt!«
+fuhr er ihn an. »Was schadet es, daß die Frau uns
+alles eingestanden hat! Die Viper hat doch zum Glück
+keinerlei Unheil angerichtet!«
 
-j: ne lachte schrill, »Ding standen — etng’stan-Koan
-Wort ist wahr davon. Nr net hoab’n wir so
-Vieh b’sessen — nicht net! Und Sie beid’, scheren sich zum
-Profil Raus mit so zwoa Schnüffler — raus!«
+Pfitzhuber lachte schrill. »Eing’standen — eing’standen?
+Koan Wort ist wahr davon. Ni net hoab’n wir so
+an Vieh b’sessen — ni net! Und Sie beid’, scheren sich zum
+Teifi! Raus mit so zwoa Schnüffler — raus!«
 
 Harald nahm gelassen seinen Hut, winkte mir, und
-Wir verließen den Wagen und den Runuanelplaß.
+wir verließen den Wagen und den Rummelplatz.
 
 <h2>3. Kapitel.</h2>
 
-»Undankbar und unverschämt!! sagte ich draußen
+»Undankbar und unverschämt!« sagte ich draußen
 Reise zu Harald in Bezug aus unseren Jakob, der plötzlich so
 wenig angenehme Charakterseiten enthüllt hatte.
 
@@ -2722,7 +2720,7 @@ anderes Aura her —« st
 
 *Jetzt* kam mir die Erleuchtung.
 
-Die Sandviper!« rief ich. »Gilt — Schlanaenaift!
+Die Sandviper!« rief ich. »Gift — Schlangengift!
 Die Quetschung an der Wade ist ein Schlangenbiß!«
 
 »Endlich!« meinte Harald. »Endlich bist Du auf dem

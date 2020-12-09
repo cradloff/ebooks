@@ -16,6 +16,7 @@
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bnicke\b	nickte
+\bober\b	oder
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bTer\b	Der
