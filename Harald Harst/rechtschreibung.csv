@@ -1,35 +1,35 @@
-,"	,«
-,“	,«
-,”	,«
 !"	!«
 !“	!«
 !”	!«
+"	»
+,"	,«
+,“	,«
+,”	,«
+."	.«
+.“	.«
+.”	.«
 ?!"	?!«
 ?!“	?!«
 ?!”	?!«
 ?"	?«
 ?“	?«
 ?”	?«
-."	.«
-.“	.«
-.”	.«
-"	»
-“,	«,
-“.“	«.«
-“.	«.
-“	«
-”.	«.
-”	«
 —!"	—!«
 —"	—«
 —“	—«
 —”	—«
-„—	»—
+“	«
+“,	«,
+“.	«.
+“.“	«.«
+”	«
+”.	«.
 „	»
+„—	»—
+€3	Es
 0h	Oh
 1ch	ich
 3eigt	Zeigt
-€3	Es
 5chraut	Schraut
 aanz	ganz
 Abemnals	Abermals
@@ -85,6 +85,7 @@ Ahnngslosen	Ahnugslosen
 Ahre	Ihre
 Ahrem	Ihrem
 Ahren	Ihren
+Ahr	Ihr
 aht	acht
 ahzeichnete	abzeichnete
 Aiich	Auch
@@ -93,6 +94,7 @@ aile	alle
 Ain	Am
 ais	als
 aites	altes
+al	all
 alänzend	glänzend
 Albntros	Albatros
 alden	alten
@@ -350,6 +352,7 @@ Berufsdetelitiv	Berufsdetektiv
 Berus	Beruf
 Besabung	Besatzung
 besahl	befahl
+Besahung	Besatzung
 Besaljung	Besatzung
 besanden	befanden
 besassen	besaßen
@@ -402,6 +405,7 @@ Biische	Büsche
 Biischen	Büschen
 binein	hinein
 binterlistige	hinterlistige
+biöher	bisher
 biond	blond
 bionde	blonde
 bir	wir
@@ -415,6 +419,7 @@ Bleistist	Bleistift
 Blichen	Blicken
 Blicli	Blick
 Bliclre	Blicke
+blicte	blickte
 Blide	Blicke
 Bliden	Blicken
 Bliicherstraße	Blücherstraße
@@ -475,6 +480,7 @@ Bsahnhof	Bahnhof
 Bubenstiick	Bubenstück
 bübfch	hübsch
 büclilingte	bücklingte
+bücte	bückte
 büdte	bückte
 Bulidoggen	Bulldoggen
 bümmere	kümmere
@@ -498,6 +504,7 @@ Chausfeur	Chauffeur
 Chausseur	Chauffeur
 Chemilier	Chemiker
 Chesingenieur	Chefingenieur
+ch	ich
 Chinefe	Chinese
 chinesifche	chinesische
 Chjnese	Chinese
@@ -841,6 +848,7 @@ Dy	Du
 ebenfo	ebenso
 Eche	Ecke
 Eclie	Ecke
+Ede	Ecke
 ed	es
 Edwsard	Edward
 Eecil	Cecil
@@ -1034,6 +1042,7 @@ Fahres	Jahres
 Fahr	Jahr
 fah	sah
 fahve	fahre
+Fa	Ja
 falfchen	falschen
 falien	fallen
 Falltiir	Falltür
@@ -1133,6 +1142,7 @@ follten	sollten
 follte	sollte
 fol	soll
 fondern	sondern
+fonft	sonst
 fo	so
 fövmlich	förmlich
 fowohl	sowohl
@@ -1156,9 +1166,11 @@ fronnnen	frommen
 fruher	früher
 frühstiicbten	frühstückten
 fschen	sehen
+fsraglos	fraglos
 ftand	stand
 ftark	stark
 ftecke	stecke
+ftecte	steckte
 ftede	stecke
 ftedie	steckte
 ftedten	steckten
@@ -1187,6 +1199,7 @@ fvaglos	fraglos
 fvagte	fragte
 fvagwiirdige	fragwürdige
 fvische	frische
+gaanz	ganz
 gah	gab
 Gahib	Sahib
 Gahrzeug	Fahrzeug
@@ -1469,6 +1482,7 @@ hannst	kannst
 Hans	Haus
 Hansmeister	Hausmeister
 Harabd	Harald
+Harad	Harald
 Haralb	Harald
 Harald2	Haralds
 harald	Harald
@@ -1478,6 +1492,7 @@ Haralsd	Harald
 Harals	Harald
 hären	hören
 Harfi	Harst
+Harfst	Harst
 Harft	Harst
 Harfts	Harsts
 Hargld	Harald
@@ -1807,6 +1822,7 @@ Iestabend	Festabend
 Iestessen	Festessen
 Iest	Fest
 Iestigbeit	Festigkeit
+iest	jetzt
 Iestlichkeiten	Festlichkeiten
 Iestnahme	Festnahme
 Ietngläser	Ferngläser
@@ -1966,6 +1982,7 @@ Ilut	Flut
 imwer	immer
 inaii	man
 inan	man
+ind	ins
 Ind	Und
 Indva	Indra
 ineinen	meinen
@@ -2141,6 +2158,7 @@ jevi	jetzt
 jevt	jetzt
 jeyt	jetzt
 jezt	jetzt
+JFnder	Inder
 jft	ist
 Jh	Ich
 Jhm	Ihm
@@ -2259,6 +2277,7 @@ Juß	Fuß
 Jusze	Fuße
 Juszfesseln	Fußfesseln
 Jweifel	Zweifel
+JZnder	Inder
 Kabinentiir	Kabinentür
 Kadine	Kabine
 Kagnak	Kognak
@@ -2329,6 +2348,7 @@ Kohlenbahn	Kohlenkahn
 komnen	kommen
 Konisere	Konifere
 Kon	Kopf
+konmt	kommt
 konnen	können
 Konnnissar	Kommissar
 kopfschiittelnd	kopfschüttelnd
@@ -2517,6 +2537,7 @@ lllarbattys	Warbattys
 lllir	Wir
 Lloyddampsers	Lloyddampfers
 llun	Nun
+locen	locken
 Loiial	Lokal
 Lon	Lord
 Lordfchaft	Lordschaft
@@ -2707,6 +2728,7 @@ Münden	München
 Mundung	Mündung
 murde	wurde
 murinelte	murmelte
+mur	nur
 Musliulatur	Muskulatur
 Müße	Mütze
 muss	muß
@@ -2715,6 +2737,8 @@ muszte	mußte
 Mvnheer	Mynheer
 Myiord	Mylord
 Mylordi	Mylord!
+nabe	nahe
+naber	nacher
 Nacbtzug	Nachtzug
 Nachbarschast	Nachbarschaft
 nächfte	nächste
@@ -2779,6 +2803,7 @@ nici	nicht
 nickde	nickte
 niclist	nickst
 niclite	nickte
+nicte	nickte
 nict	nicht
 nid	nicht
 nidte	nickte
@@ -2967,10 +2992,13 @@ Pistolenkdlben	Pistolenkolben
 Plab	Platz
 Plandagenbesitzer	Plantagenbesitzer
 Plandagen	Plantagen
+Plaß	Platz
+platen	platzen
 Platschern	Plätschern
 Plattforin	Plattform
 Pläve	Plätze
 Plav	Platz
+Play	Platz
 pliindern	plündern
 plöglich	plötzlich
 plöslich	plötzlich
@@ -3057,6 +3085,7 @@ rechnesi	rechnest
 reclite	reckte
 recten	rechten
 rect	recht
+redte	reckte
 Regelmäszigkeit	Regelmäßigkeit
 reichsie	reichste
 reihen	reichen
@@ -3128,6 +3157,7 @@ rüden	rücken
 Rüden	Rücken
 Rüdfeite	Rückseite
 Rud	Ruck
+rudte	ruckte
 Ruhmesliranz	Ruhmeskranz
 Rundsahrt	Rundfahrt
 run	nun
@@ -3216,6 +3246,7 @@ Schläfenlochen	Schläfenlocken
 Schlafzinnner	Schlafzimmer
 Schlafzinnwer	Schlafzimmer
 Schlanlre	Schlanke
+schlasen	schlafen
 schlase	schlafe
 Schlasgemach	Schlafgemach
 Schlaspuloer	Schlafpulver
@@ -3264,6 +3295,7 @@ Schraui	Schraut
 Schrautf	Schraut!
 Schrauti	Schraut!
 Schrautl	Schraut!
+Schred	Schreck
 Schreibnmschine	Schreibmaschine
 Schreibtifches	Schreibtisches
 Schreibtifch	Schreibtisch
@@ -3337,6 +3369,7 @@ Selsblöche	Felsblöcke
 Selsen	Felsen
 selsigen	felsigen
 sem	sein
+Sept	Jetzt
 seroiert	serviert
 sertig	fertig
 sestes	festes
@@ -3350,6 +3383,7 @@ sete	setzte
 sette	setzte
 seuern	feuern
 seuerte	feuerte
+sfraglos	fraglos
 shon	schon
 Shren	Ihren
 Shr	Ihr
@@ -3397,6 +3431,7 @@ siiszlichen	süßlichen
 sijr	für
 Silih	Sikh
 sinden	finden
+Sinder	Inder
 sindet	findet
 sinnlase	sinnlose
 sinsteres	finsteres
@@ -3550,6 +3585,7 @@ Taschenmejser	Taschenmesser
 Taschentiicher	Taschentücher
 Taschentnch	Taschentuch
 Taschienlampe	Taschenlampe
+Tas	Das
 Tas	las
 tatfächlic	tatsächlich
 tatjächlich	tatsächlich
@@ -3600,6 +3636,7 @@ Titelseide	Titelseite
 Tluto	Auto
 Todgemeihten	Todgeweihten
 Todseind	Todfeind
+toir	wir
 Torwölhung	Torwölbung
 Totengriiber	Totengräber
 Tourdainpfer	Tourdampfer
@@ -3624,6 +3661,7 @@ trunliener	trunkener
 Türdriicker	Türdrücker
 Türdrüchern	Türdrückern
 Türfliigel	Türflügel
+tür	für
 Türlilopfer	Türklopfer
 Türössnung	Türöffnung
 Tur	Tür
@@ -3909,6 +3947,7 @@ verbiirgten	verbürgten
 verbliihtes	verblühtes
 verbvecherischen	verbrecherischen
 Verdannnt	Verdammt
+ver	der
 Ver	Der
 verfchleierte	verschleierte
 verfchwunden	verschwunden
@@ -4085,6 +4124,7 @@ Westhasen	Westhafen
 Westiiiiste	Westküste
 Westkiiste	Westküste
 Westslügel	Westflügel
+wetter	weiter
 wevden	werden
 wghl	wohl
 Wiarbattys	Warbattys
@@ -4199,6 +4239,7 @@ zii	zu
 Zimimer	Zimmer
 Zimmertiir	Zimmertür
 Zimwer	Zimmer
+zinder	Inder
 Zinmern	Zimmern
 Zinnner	Zimmer
 Zinnnier	Zimmer
@@ -4216,6 +4257,7 @@ zsu	zu
 Zucherrohr	Zuckerrohr
 zuchte	zuckte
 zuciiend	zuckend
+zucte	zuckte
 Zuder	Inder
 zudrüclite	zudrückte
 zufällia	zufällig
