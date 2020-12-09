@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">a34a05a6-2c48-11eb-897d-8b71dd37646e</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Wunder von Patna</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">94</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Wunder von Patna.
+
+Detektivinspektor Edward Dalbam hatte uns morgens im Continental-Hotel in Agra besucht und uns das Ergebnis seiner Nachforschungen nach dem flüchtigen Agraer Kaufmann John Barring mitgeteilt, der uns vorgestern nacht ein Stück außerhalb der Stadt in einem Grottentempel hatte unschädlich machen wollen, um zu verhüten, daß wir seine Schandtaten aufdeckten.
+
+Dalbam war recht niedergeschlagen gewesen und hatte zum Schluß gesagt:
+
+»Lieber Harst, wenn Sie nicht helfen, John Barring einzufangen, werden wir ihn nie vor Gericht stellen können.«
+
+Der Schlangenring.
+
+Die Zuschauer, umringt von Breßforts Leuten, mußten sich gedulden. Große Karbidlaternen wurden der zunehmenden Dunkelheit wegen herbeigebracht. Dann mußten Männlein und Weiblein einzeln an Harst, mir und Breßfort vorüber.
+
+Schon den dritten Inder hielt Harald an.
+
+»Tritt beiseite!« befahl er kurz.
+
+So suchte er im ganzen dreizehn Inder heraus.
+
+Sie sowohl als auch Rawura, dessen Tochter und der in der Kammer unter dem Springbrunnen vorgefundene Inder mußten jetzt in einem Lastauto den Weg zum Polizeigebäude antreten, abermals umringt von Beamten.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (094) Das Wunder von Patna.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
