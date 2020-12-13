@@ -1,8 +1,10 @@
 \bAch\b	Ich
 \bAhnen\b	Ihnen
+\bau!	auf
 \bBieter\b	Meter
 \bElement\b	Clement
 \bFahr\b	Jahr
+\bFahre\b	Jahre
 \bFahren\b	Jahren
 \bfegte	setzte
 \bfein	sein
@@ -12,6 +14,7 @@
 \bHart\b	Harst
 \blebten	letzten
 \blegte	letzte
+\blett\b	jetzt
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bSaß\b	Satz

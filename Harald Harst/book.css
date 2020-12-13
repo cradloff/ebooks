@@ -120,3 +120,18 @@ hr {
 	background: #333; 
 	background-image: linear-gradient(to right, #eee, #333, #eee);
 }
+
+/* Werbe-Block "Kabels Kriminalbücher" */
+div.kkb {
+	border: 8px ridge lightgray;
+	white-space: pre-wrap;
+	text-align: center;
+	margin: 2em;
+	padding: 2em;
+}
+.kkb .reihe {
+	font-size: large;
+}
+.kkb .titel {
+	font-size: x-large;
+}

@@ -1180,9 +1180,10 @@ ich nun einatmete, es war ein neueres Narkosemittel, und
 es wirkte nur zu prompt. Schon nach zwei krampfhaften
 Atemzügen wurde ich bewußtlos.
 
-<div style="border: 8px ridge lightgray; white-space: pre-wrap; text-align: center; margin: 2em; padding: 2em;"><div style="font-size: large;">Kabels Kriminalbücher.</div>Band 7:
-<div style="font-size: x-large;">Das Teekästchen</div>
-Durch jede Buchhandlung zu beziehen.
+<div class="kkb">
+<div><span class="reihe">Kabels Kriminalbücher.</span> <span class="band">Band 7:</span></div>
+<div class="titel">Das Teekästchen</div>
+<div class="bezug">Durch jede Buchhandlung zu beziehen.</div>
 </div>
 
 <@pagebreak/>
