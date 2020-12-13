@@ -2,93 +2,95 @@
 
 Das geheimnisvolle Fenster
 
-1. Kapitel.
+<h2>1. Kapitel.</h2>
 
 > Klara Rittler,
+
 > Malerin,
+
 > Berlin W, Paulsbornerstraße 211,
 
-stand mit Tinte geschrieben aus der Visiten Karte, die uns Mathilde
-die Harstsche Köchin, am Nachmittag des 16 Mai
+stand mit Tinte geschrieben aus der Visitenkarte, die uns Mathilde,
+die Harstsche Köchin, am Nachmittag des 16. Mai
 1922 in den Gemüsegarten brachte.
 
 Harald Harst, auf den Spaten gelehnt, mit dem er
-soeben ein Beet umgearaben hatte, zog die Stirn kraus.
+soeben ein Beet umgegraben hatte, zog die Stirn kraus.
 
 »Sagen Sie der Dame, daß ich erst übermorgen neue
-Aufträge annehme, Mathilde. ich muß mich unbedingt Rad)
-diesen letzten Tagen etwas ausruhen, Der Leuten Tage Qual
-wir groß — zu groß! Einen Gisbert Parnack zur Strecke
-bringen, ist schlimmer, als Omen, liebe Mathilde klar zu
-machen, Daß eine berriemftlihe Köchin Klienten nicht in
-Eiter so schmierigen Küchenschürze die Tür öffnet.«
+Aufträge annehme, Mathilde. ich muß mich unbedingt nach
+diesen letzten Tagen etwas ausruhen. Der letzten Tage Qual
+war groß — zu groß! Einen Gisbert Parnack zur Strecke
+bringen, ist schlimmer, als Ihnen, liebe Mathilde klar zu
+machen, Daß eine herrschaftliche Köchin Klienten nicht in
+einer so schmierigen Küchenschürze die Tür öffnet.«
 
 Die behäbige Mathilde wurde blaurot, schnappte nach
 Luft und trottete davon,
 
-Harald blickte mich an, »Dieses Fräulein Rittler
-kenne ich,« meinte er bedächtig, »Sie ist mehr. Zeichnerin
-als Malerin Ihre Illustrationen galanter Romane sind
-künstlerisch — Das heißt: periönfic kenne ich, sie nicht,
-die Rittler, Ihren Illustrationen muß sie schick, grau
-188 pifant sein.« Ei
+Harald blickte mich an. »Dieses Fräulein Rittler
+kenne ich,« meinte er bedächtig. »Sie ist mehr Zeichnerin
+als Malerin. Ihre Illustrationen galanter Romane sind
+künstlerisch. — Das heißt: persönlich kenne ich sie nicht,
+die Rittler. Ihren Illustrationen muß sie schick, graziös,
+pikant sein.«
 
 <@pagebreak/>
 Dann grub er weiter, und ich häufte Erde über die
-allzu vorwitzig herausragenden Spargellköpse
+allzu vorwitzig herausragenden Spargelköpfe.
 
-Bis Teuflische, jetzt mit weißer Schürze, zurückkehrte
-und meldete;
+Bis Mathilde, jetzt mit weißer Schürze, zurückkehrte
+und meldete:
 
-»Das Fräulein schick hier nochmals Die Karte, Sie
+»Das Fräulein schickt hier nochmals Die Karte. Sie
 hat nun noch hinten was draufgeschrieben.«
 
 Und das war:
 
 > Sehr geehrter Herr Harst, vielleicht besuchen Sie
-mich heute abend gegen zehn Uhr, Ich werde Sie vor
+mich heute abend gegen zehn Uhr. Ich werde Sie vor
 dem Hause erwarten. Es handelt sich vielleicht um
-Ihnen Gisbert Parnack, der nach einer Notiz in der heutigen
-Berliner Mittagspost in der verflossenen Nach! von
-Ihnen und der Kriminalpolizei verhaftet warnen
+jenen Gisbert Parnack, der nach einer Notiz in der heutigen
+Berliner Mittagspost in der verflossenen Nacht von
+Ihnen und der Kriminalpolizei verhaftet worden ist.
 
 > Kl. R.
 
-»ad in Dame Von fortgegangen, Mathilde?« fragte
+»Ist die Dame Von fortgegangen, Mathilde?« fragte
 Harald
 
-»sich,
+»Ja.«
 
 »War sie jung?«
 
 »Ja.«
 
-»die sind ja glänzender Laune, Vorhabe! Wer Turmruine
-wegen? 1»
+»Sie sind ja glänzender Laune, Mathilde! Der Schürze
+wegen?!«
 
-Mathilde, Znventarstück des Harstschen Hauses Deut
-Dreißig Jahren, knurrte ablenkend:
+Mathilde, Inventarstück des Harstschen Hauses seit
+dreißig Jahren, knurrte ablenkend:
 
-»Herr Bechert bat eben angerufen, Herr Harst möchte
-doch recht bald aufs Präsidium kommen, des Vorrat me
-gen, Er läßt bestellen, daß der in der Zankt Verhaftete
+»Herr Bechert hat eben angerufen. Herr Harst möchte
+doch recht bald aufs Präsidium kommen, des Parnack wegen.
+Er läßt bestellen, daß der in der Nacht Verhaftete
 gar nicht Gisbert Parnack ist,«
 
 Harsts Gesicht war zum Malen.
 
-Dann faßte er sich, »Ein Auto Mathilde ... In
-zehn Minuten muß es in der Tür stehen.«
+Dann faßte er sich. »Ein Auto Mathilde... In
+zehn Minuten muß es vor der Tür stehen.«
 
 Mathilde eilte davon.
 
-Und Harald hätte Fleck wieder lange an.
+Und Harald blickte mich wieder lange an.
 
-»Weißt zu, mein Alter. sonderbar kam es »4
+»Weißt zu, mein Alter, sonderbar kam es mir in
 der Nacht ja vor, daß Parnack sich so ruhig verhaften ließ,«
-sagte er schließlich. »Trotzdem: es war Parnack!! Ich bin
-meiner Sache ganz Aber, Wenn Ich ein Gesicht ein einzig
-arg Mal bei hellem Tageslicht minutenlang betrachtet habe,
-erkenne ich es fiele wieder, Und Parnack sah ich des
+sagte er schließlich. »Trotzdem: es war Parnack! Ich bin
+meiner Sache ganz sicher. Wenn Ich ein Gesicht ein einziges
+Mal bei hellem Tageslicht minutenlang betrachtet habe,
+erkenne ich es stets wieder. Und Parnack sah ich des
 <@pagebreak/>
 öfteren unmaskiert bei guter Beleuchtung. — Fahren wir
 also zu Bechert.« —
@@ -100,170 +102,171 @@ Und rückte hier näher an mich heran...
 
 »Es gäbe eine Möglichkeit,« meinte er grüblerisch,
 
-»Wofür?
+»Wofür?«
 
 Keine Antwort.
 
 »Und dann wäre die Rittler wichtig,« sagte er erst an
-Der Streuung der Weinglase- und Friedrichstraße,
+Der Kreuzung der Leipziger- und Friedrichstraße,
 
 »Also eine Möglichkeit, daß er doch nicht unser Parnack
 wäre.«
 
 »Ja.«
 
-»Hm — da bin ich gespannt, Auch ich habe ihn genau
-wiedererkannt. Ich sah ihn ja damals in.,«
+»Hm — da bin ich gespannt. Auch ich habe ihn genau
+wiedererkannt. Ich sah ihn ja damals in...«
 
-»Ob und wie Du ihn fahl!, kommt bei meiner Mög-Nichfeit
+»Ob und wie Du ihn sahst, kommt bei meiner Möglichkeit
 gar nicht in Betracht, — Warten wir ab.« —
 
 in Kriminalkommissar Becherts Dienstzimmer fanden
-wir unseren Parnack, einen Protofolfiührer und einen Alte
-minolbeamten außer Bechert selbst vor,
+wir unseren Parnack, einen Protokollführer und einen
+Kriminalbeamten außer Bechert selbst vor,
 
-»Hier ist das Aktenstück Parnack, Lieber Harst,« sagte
-Freund Bechert nervös, »Lesen Sie mal die ersten Seiten,«
+»Hier ist das Aktenstück Parnack, lieber Harst,« sagte
+Freund Bechert nervös. »Lesen Sie mal die ersten Seiten,«
 
-ir beide lasen gemeinsam;
+Wir beide lasen gemeinsam;
 
-»Parnack, Ernst, Gustav, Gisbert, geboren am ...,
-Sohn des ..., mit vierzehn Jahren Fürsorgezögling, mit
+»Parnack, Ernst, Gustav, Gisbert, geboren am...,
+Sohn des..., mit vierzehn Jahren Fürsorgezögling, mit
 fünfzehn entwichen, tauchte mit zwanzig Jahren wieder in
-Stettin auf, war Agent, dann vorbestraft wegen Heirats-Ichwinbeleien,
-Betruges, versuchten Erpressung mit sechs
-Monaten Gefängnis, mit 24 Jahren wegen Hoteldichs-fahl
+Stettin auf, war Agent, dann vorbestraft wegen Heiratsschwindeleien,
+Betruges, versuchter Erpressung mit sechs
+Monaten Gefängnis, mit 24 Jahren wegen Hoteldiebstahl
 zwei Jahre Gefängnis, mit 27 Jahren angeblich nach
 Amerika ausgewandert, mit 32 Schreiber bei Rechtsanwalt
-Finster. Stettin, später dessen Bürovorsteher, mit 45
-Jahren entlarvt als »Justizrat Finster,« Berlin. .. —
-Erfennunasfarte Nr, 19706, A, B, 8C, besondere Kennzeichen;
+Finster, Stettin, später dessen Bürovorsteher, mit 45
+Jahren entlarvt als »Justizrat Finster,« Berlin... —
+Erkennungskarte Nr. 19706, A, B, 8C, besondere Kennzeichen:
 Fünf falsche Zähne, Stiftzähne, im Oberkiefer vorn,
-tiefe breite mintellörmiae Narbe am hinten Oberarm und
+tiefe breite winkelförmige Narbe am linken Oberarm und
 Operationsnarbe von einer Blinddarmoperation,«
 
-Harst hatte genug gelesen. reichte das Aktenstück Bechert
-ward und fragte:
+Harst hatte genug gelesen, reichte das Aktenstück Bechert
+zurück und fragte:
 
-»Unser Parnack dort hat also keins dieser Drei betteten
+»Unser Parnack dort hat also keins dieser drei besonderen
 <@pagebreak/>
-Renngeicen?«
+Erkennungszeichen?«
 
-»Nein, lieber Harst, nicht ein Glatte es ist wirr
-hin auch nicht Gisbert Parnack«
+»Nein, lieber Harst, nicht ein einziges. Es ist mithin
+auch nicht Gisbert Parnack«
 
 Der Mann, der nicht Parnack war (das stand ja nun
 fest) saß mit gefesselten Händen und gesenktem Kopfe da,
 
-In seiner ganzen Haltung drückte sich, aß im Gen
-genial zu seinem Verhalten bei seiner Verhaftung, eine
-Linie. Niedergeschlagenheit aus.
+In seiner ganzen Haltung drückte sich, ganz im Gegensatz
+zu seinem Verhalten bei seiner Verhaftung, eine
+tiefe Niedergeschlagenheit aus.
 
-Harald sprach ihn an. »Wer sind Sie nun eigentlich 8»
+Harald sprach ihn an. »Wer sind Sie nun eigentlich?«
 fragte er freundlich und zog einen Stuhl dicht vor den Unbekannten,
-nahm Platz und wendete sich an Bechert, »Vielleicht
+nahm Platz und wendete sich an Bechert. »Vielleicht
 machen Sie dem Manne die Handgelenke frei. Und
-Potsdam lassen Sie uns beide mal mit ihm allein,«
+dann lassen Sie uns beide mal mit ihm allein,«
 
 Bechert zögerte erst, tat schließlich doch, was Harst
-wünschte und entfernte sich mit dem Kriminalbeamten in Ne
+wünschte und entfernte sich mit dem Kriminalbeamten in
 das Nebenzimmer,
 
 Wir waren nun allein mit diesem Menschen, dessen
-Gesicht, Größe und Stimme denen des echten Parnack [9
+Gesicht, Größe und Stimme denen des echten Parnack so
 völlig glichen.
 
-Der Unbekannte schaute auch un nicht auf.
+Der Unbekannte schaute auch jetzt nicht auf.
 
 Seine Hände ruhten noch im Schoße, als trügen sie
 noch immer die Handfesseln,
 
-»Sie sind Zigarettenraucher, wie ich sehe,« sagte An
-Harald in leichtem Plauderton, »Er rechter. Zeigefingers
-Nagel ist gelb gebeizt von Nun. — Bitte
+»Sie sind Zigarettenraucher, wie ich sehe,« sagte
+Harald in leichtem Plauderton. »Ihr rechter Zeigefingernagel
+ist gelb gebeizt von Rauch. — Bitte..."
 
-Und er hielt ihm sein geöffnetes Merkt Klug 0.
+Und er hielt ihm sein geöffnetes goldenes Etui hin.
 
-Mann hob etwas den Kopf, starrte begierig uf
-Ne Zigaretten.
+Der Mann hob etwas den Kopf, starrte begierig auf
+die Zigaretten...
 
-Und — Art zu, stammelte ein heiseres: »Danke, Herr
-erst,
+Und — griff zu, stammelte ein heiseres: »Danke, Herr
+Harst.«
 
 Ich gab ihm Feuer. Er hatte den Kopf nun völlig aufgerichtet.
-Auch sein Körper strafte ich, Keine Augen
-aber wichen den unseren aus. Es war in diesen graue
-blauen Augen, die in vor Farbe agcncu mit denen Parnack
-übereinstimmten, ein Ausdruck von Melancholie und Vers
-Narrheit, der niemals erheuchelt sein formte
+Auch sein Körper straffte sich. Seine Augen
+aber wichen den unseren aus. Es war in diesen graublauen
+Augen, die in der Farbe genau mit denen Parnacks
+übereinstimmten, ein Ausdruck von Melancholie und Verzagtheit,
+der niemals erheuchelt sein konnte.
 
-»Wer sind Ehe?« fragte Harald erneut, »nachdem der
-Mann hastig einige Züge geraucht hatte, »Sprechen Sie
-»ganz offen zu mir, Wie kamen Sie dazu, Parnacks Rolle
+»Wer sind Sie?« fragte Harald erneut, nachdem der
+Mann hastig einige Züge geraucht hatte. »Sprechen Sie
+ganz offen zu mir. Wie kamen Sie dazu, Parnacks Rolle
 zu spielen?«
 
 <@pagebreak/>
 Jetzt blickte der Unbekannte Harst an, und dieser scheue
-Eid war so verzweifelt, so trostlos, daß er mich geradezu
+Blick war so verzweifelt, so trostlos, daß er mich geradezu
 rührte.
 
-»Ich ... ich kenne keinen Parnack, Herr Harst,« erwiderte
+»Ich... ich kenne keinen Parnack, Herr Harst,« erwiderte
 er leise.
 
 Dann rollte die Zigarette auf den Fußboden, der Mann
 schlug die Hände vor das Gesicht und schluchzte fast lautlos
-in sich hinein. Sein Körper, von ruckartigen Befreiungen
-neichüntelt, schwankte wie kraftlos hin und her.
+in sich hinein. Sein Körper, von ruckartigen Bewegungen
+geschüttelt, schwankte wie kraftlos hin und her.
 
 Harald wartete, bis der Mensch sich etwas beruhigt
 hatte.
 
-»Nehmen Sie hier A 1 setzte Wagners,« sagte er
-firm. »Rauchen Sie Mr f Sie vorläufig durch
+»Nehmen Sie hier eine frische Zigarette,« sagte er
+gütig. »Rauchen Sie...! Ich will Sie vorläufig durch
 Fragen nicht belästigen.«
 
-Der Bring bückte sich rasch, hob die Zigarette auf,
+Der Mann bückte sich rasch, hob die Zigarette auf,
 wischte das Mundstück ab und murmelte:
 
-genügt ja. Sie brennt noch, — Sie sind sehr
+»Die genügt ja. Sie brennt noch. — Sie sind sehr
 gütig zu mir, Herr Harst.«
 
-Harald tat ans Fenster, winkte mir. Wo stellte mich
-eben ihn. en, einer Weile sagte er halblaut:
+Harald trat ans Fenster, winkte mir. Ich stellte mich
+neben ihn. Nach einer Weile sagte er halblaut:
 
 »Der Mann hat fraglos einen von Parnacks Anzügen
-trägt vielleicht auch dessen Wäsche und Schuhe. Nur
-ist e zu erklären, Daß der Hund ihn in der Nacht in
-»dem Versteck schaut, der doch Parnacks Witterung genommen
-da (Vergl. Band 97, »Der Obftlahn am Elisabeth-er
+an, trägt vielleicht auch dessen Wäsche und Schuhe. Nur
+so ist es zu erklären, Daß der Hund ihn in der Nacht in
+dem Versteck fand, der doch Parnacks Witterung genommen
+hatte.« (Vergl. Band 97, »Der Obstkahn am Elisabethufer«)
 
-Hinter uns da der Unbekannte!
+Hinter uns da der Unbekannte:
 
-»Herr Harst, ich kenne wirklich keinen Parnack.« er
+»Herr Harst, ich kenne wirklich keinen Parnack.«
 
-Wir drehten uns um Ran setzte sich wieder auf den
+Wir drehten uns um. Harst setzte sich wieder auf den
 Stuhl dicht vor den Rätselhaften.
 
-»Wie heißen Sie?« fragte erhaben er dem Menschen
-Hand leicht auf den Schenkel legte. -
+»Wie heißen Sie?« fragte er, indem er dem Menschen
+die Hand leicht auf den Schenkel legte.
 
-»Ein hilfloser, jammervoller Blick des Freuten irrte
-nen Gesicht hin. Dann sank der Kopf auf die
+Ein hilfloser, jammervoller Blick des Fremden irrte
+über Haralds Gesicht hin. Dann sank der Kopf auf die
+Brust herab.
 
-Ka Instinkte es her He! der Gifte q, Amerika
-Pistole, fuhr Vorstadt oft y. bei Erhebe zu beriet,
-die 08 wie Sie Mut nur mir meinen, daß ich diesen Parnack
-Mr kenne, daß ich den Namen mach in der verflossenen
-acht mit Male im als da verhaftet wurde
+»Ich schwöre es Ihnen bei der Liebe zu... zu meiner..."
+Er stockte, fuhr hastiger fort: "... bei der Liebe zu denen,
+die es wie Sie gut mit mir meinen, daß ich diesen Parnack
+nicht kenne, daß ich den Namen Parnack in der verflossenen
+Nacht zum ersten Male hörte, als ich verhaftet wurde.«
 
 <@pagebreak/>
-Sein eis8graues, ganz kurz aeschorenes Kopfhaar als
-toter genau so silbern wie das des großen Verbrechers.
-Witze blendende Helle des Viaitages flutete ungehindert durch
+Sein eisgraues, ganz kurz geschorenes Kopfhaar glänzte
+genau so silbern wie das des großen Verbrechers.
+Die blendende Helle des Maitages flutete ungehindert durch
 die hohen Fenster in das ernste Zimmer hinein, zeigte
 uns jetzt auch auf dem Scheitel dieses gesenkten Kopfes
 eine etwas wulstige Narbe, genau in Form eines Kreuzes,
-wie von einem schlecht verheilten Kreuzscmitt herrührend.
+wie von einem schlecht verheilten Kreuzschnitt herrührend.
 
 »Ihren Namen wollen Sie also nicht nennen.« sagte
 Harald in demselben milden Tone. »Geben Sie zu, daß
@@ -271,62 +274,62 @@ Parnack Sie irgendwie dazu bestimmt hat, seine Rolle
 zu spielen, daß er...«
 
 »ich bereue nichts — nichts!« war die merkwürdige
-Nr die Harst den begonnenen Gab zu beenden
+Unterbrechung, die Harst den begonnenen Satz zu beenden
 hinderte.
 
-Der Mann hob den Kopf mit jäher Bewegung. in sein
-nen Augen war ein ganz anderer Ausdruck: ein Strahlen
-— ein Leuchten gleich dem Widerschein einer tief Inneren
-Glüdcfseliafeit
+Der Mann hob den Kopf mit jäher Bewegung. in seinen
+Augen war ein ganz anderer Ausdruck: ein Strahlen
+— ein Leuchten gleich dem Widerschein einer tief inneren
+Glückseligkeit...
 
-»Nie werde ich bereuen, was auch kommen mag, Herr.
-Harst.! Und — — nie werde ich verraten, wer ich bin!«
+»Nie werde ich bereuen, was auch kommen mag, Herr
+Harst...! Und — — nie werde ich verraten, wer ich bin!«
 
 Allmählich trat wieder der traurige, weltschmerzliche
-Aus in sein schmales, etwas faltiges Gesicht.
+Zug in sein schmales, etwas faltiges Gesicht.
 
 »Was auch kommen mag!« wiederholte er leise. Dann
 pressten sich seine Lippen fest zusammen. Und doch hörten
 wir noch den Seufzer, der sich qualvoll aus der Brust dieses
-unbegreislicen Menschen losrang.
+unbegreiflichen Menschen losrang.
 
 Harald stand auf.
 
 »ich werde Ihr Geheimnis aufdecken,« meinte er ernst.
 »Sie täten besser, sich mir und meinem Freunde anzuvertrauen.
 Sollten Sie in der Einsamkeit Ihrer Zelle das
-Verlangen versauern, sich mit jemandem auszusprechen, der
-in seinem Leben vieles ntiterlebt hat, was ihn die Schalterraum
-Arena Er lehrte, so bitten
+Verlangen verspüren, sich mit jemandem auszusprechen, der
+in seinem Leben vieles miterlebt hat, was ihn die Schattenseiten
+der menschlichen Seele verstehen lehrte, so bitten
 Sie, daß ich zu Ihnen gerufen werde.
 
-Ein dankbarer Blick trat Haralds geistvolles Gesicht.
+Ein dankbarer Blick traf Haralds geistvolles Gesicht.
 
-Doch — der Mann fernher, schaute wieder zu Loben,
+Doch — der Mann schwieg, schaute wieder zu Boden,
 rauchte die Zigarette weiter und ließ sich dann durch den
 Beamten ebenso wortlos wieder abführen. —
 
 Bechert saß vor seinem Schreibtisch.
 
-»Mir bat er überhaupt nicht acantiortet,« sagte er
+»Mir hat er überhaupt nicht geantwortet,« sagte er
 <@pagebreak/>
 kurz. »Und was er Ihnen da erzählt hat, lieber Harst,
 war — Komödie.«
 
-»Glauben Sie?« Harald lehnte rechts an der Warst
-im »reifen Sonnenlicht. »Glauben Sie?! Trauer des
-vrücktsein läßt sich vielleicht heucheln, nicht aber. der Glanz,
-der aus vielen graublauen Augen hervorbrach. Das war
-er, Bechert, das war echtes Empfinden. Sich rate ihnen, Ja
-einmal in Steinig nachzuiorscen, ob Gisbert Parnack mich
-vielleicht einen. Zwillingsbruder gehabt hat. In dem Als
-zerstört Sicht Rippe, daß Parnack das einzige Kind des Hände
-Malers August Parnack ist. Aber — genauere Ermittlungen
+»Glauben Sie?« Harald lehnte rechts an der Wand
+im grellen Sonnenlicht. »Glauben Sie?! Trauer, Bedrücktsein
+läßt sich vielleicht heucheln, nicht aber der Glanz,
+der aus diesen graublauen Augen hervorbrach. Das war
+echt, Bechert, das war echtes Empfinden. ich rate ihnen,
+einmal in Stettin nachzuforschen, ob Gisbert Parnack nicht
+vielleicht einen Zwillingsbruder gehabt hat. In dem Aktenstück
+steht zwar, daß Parnack das einzige Kind des Händlers
+August Parnack ist. Aber — genauere Ermittlungen
 werden vielleicht etwas anderes ergeben. — Jedenfalls:
-behandelt Sie den Mann gut, Bechert. Durch Ihre Poli-zcimeıhod:
-erwachenden Verhöre werden Sie nichts aus« Prau
-schien. Sollte der Dann mich zu sprechen wünschen, so
-benachrichtigen Eile mich. Und — spenden Sie ihm bin
+behandeln Sie den Mann gut, Bechert. Durch Ihre Polizeimethode
+ermüdender Verhöre werden Sie nichts ausrichten.
+Sollte der Mann mich zu sprechen wünschen, so
+benachrichtigen Sie mich. Und — spenden Sie ihm hin
 und wieder Zigaretten. Er ist leidenschaftlicher Raucher.«
 
 Bechert nickte nur.
@@ -334,55 +337,57 @@ Bechert nickte nur.
 Harald nahm eine Zigarette. Nach den ersten Zügen
 dann:
 
-»Wirf hatte er in seinen Taschen? Haben Sie ihn
-genau durefucht?«
+»Was hatte er in seinen Taschen? Haben Sie ihn
+genau durchsucht?«
 
 »Das ist wohl selbstverständlich, lieber Harst. Er hatte
 nichts außer zehntausend Mark bei sich, in Tausendern.
 Sonst auch nicht mal ein Taschentuch.«
 
 »Und die Gemüsehändlerin in der Wiener Straße,
-in beten Keller wir den Dann verhafteten und die Sie
-ebiübren ließen, da sie jede Aussage verweilte?
+in dessen Keller wir den Mann verhafteten und die Sie
+gleichfalls abführen ließen, da sie jede Aussage verweigerte?«
 
-Aha Gesamte Bist und wird sitzen, bis sie den Mund
-alıfmindn. Zither tat sie es nicht, Alle diese Verbilndeten
-uns ist. barmächner im Schweigen als es uns lieb
+»Frau Ronisch sitzt und wird sitzen, bis sie den Mund
+aufmacht. Bisher tat sie es nicht. Alle diese Verbündeten
+Parnacks sind hartnäckiger im Schweigen als es uns lieb
+ist.«
 
-Harald blies einen Ranhtenef in die gleißende Ton
-neitbabn hinein,
+Harald blies einen Rauchkegel in die gleißende Tannenhain
+hinein,
 
 »Was Parnack wohl damit bezweckt haben mag, daß
-den Unbefonneen da in dem Erdloch unter dem Fußboden
+er den Unbekannten da in dem Erdloch unter dem Fußboden
 des Schlafzimmers der Ronisch verbarg,« meinte er
-arübelırd. »Etwas hat er bezweckt ,.. Aber was?!« -
+grübelnd. »Etwas hat er bezweckt... Aber was?!«
 
-Bechert« zuckte die Achseln. Ich denke. der Zweck
+Bechert zuckte die Achseln. Ich denke, der Zweck ist
 <@pagebreak/>
-War, Er wollte eben, daß sein Doppelgänger weiter für
-Parnack gehalten würde. Er hoffte, wir würden den Berlin
+klar. Er wollte eben, daß sein Doppelgänger weiter für
+Parnack gehalten würde. Er hoffte, wir würden den Betrug
 nicht aufdecken. Er wollte Ruhe vor Ihnen und
-uns haben, lieber Harst, — Bewegungsfreiheit!«
+uns haben, lieber Harst. — Bewegungsfreiheit!«
 
 »Möglich!« Harald schaute versonnen auf die rotbraune
-Ziegelmauer, — diese klägliche Ausficht aus Becherts Reue
-Führern. »Möglich — aber nicht wahrscheinlich. Wenn es sich
-ja nur nicht um das Sag zu einem neuen Parnack-ichen
-Streiche handellt Parnack ii ein Schmwinblergenie
-ersten Ranges. Er man..«
+Ziegelmauer, — diese klägliche Aussicht aus Becherts Fenstern.
+»Möglich — aber nicht wahrscheinlich. Wenn es sich
+da nur nicht um das Vorspiel zu einem neuen Parnackschen
+Streiche handelt. Parnack ist ein Schmwindlergenie
+ersten Ranges. Er mag...«
 
-indem klopfte Co. »Ein Beamter trat ein, meldete:
+indem klopfte es. Ein Beamter trat ein, meldete:
 
-»Die Ronisch bat sich in ihrer Zelle erhängt, Herr Kri-minalfonmmissar.«
+»Die Ronisch hat sich in ihrer Zelle erhängt, Herr
+Kriminalkommissar.«
 
 
-2. Kapitel.
+<h2>2. Kapitel.</h2>
 
 Die Frau war tot. Alle Wiederbelebungsversuche
 blieben vergeblich.
 
-Harald, Bechert, ein Arzt und ich standen in der Zelle,
-Die Leiche lag aus dem Bett.
+Harald, Bechert, ein Arzt und ich standen in der Zelle.
+Die Leiche lag auf dem Bett.
 
 »Weshalb gab sie sich freiwillig den Tod?« murmelte
 Bechert und blickte Harst von der Seite fragend an.
@@ -391,20 +396,20 @@ Das grauenvoll verquollene und verfärbte Gesicht des
 schlampigen Weibes verriet nichts.
 
 »Ich denke, wir fahren nach der Wiener Straße in
-ihren Keller,« sagte Harald, sich kurz umwendend, wird
-schritt in den Gang hinaus. -
+ihren Keller,« sagte Harald, sich kurz umwendend, und
+schritt in den Gang hinaus.
 
-Bechert sorgte uns. »Sie glauben, daß die Los ir
-ne acata Und Emdeclung gefürchtet hat?«
+Bechert folgte uns. »Sie glauben, daß die Ronisch irgend
+eine unausbleibliche Entdeckung gefürchtet hat?« fragte
 er leise
 
 »Fahren wir!« erwiderte Harst nur. —
 
-Bechert nahm zwei Beamte mit las Dienstauto hielt
-Aha Görlitzer Bahnhof. Wir gingen die Leute Strecke
+Bechert nahm zwei Beamte mit. Das Dienstauto hielt
+vor dem Görlitzer Bahnhof. Wir gingen die letzte Strecke
 zu Fuß.
 
-Einer der Beamten schloß den Eingang auf, Die
+Einer der Beamten schloß den Eingang auf. Die
 Ronisch hatte hier seit Jahren ganz allein gehaust. Bechert
 betonte, daß sie bei den Nachbarn beliebt gewesen sei. Sie
 <@pagebreak/>
@@ -412,79 +417,78 @@ habe nie jemand übervorteilt, habe den Aermsten der Armen
 manches billiger abgelassen. Freilich sei sie stets sehr
 zurückhaltend gewesen. Verkehr habe sie nie gehabt.
 
-Harst hoch die beiden Pielenftüde aus, Die in der
-Schlafstube den Zugang zu dem mit Brettern auögeichlar
-eigenen Erdloch bildeten, und kletterte hinab,
+Harst hoch die beiden Dielenstücke aus, Die in der
+Schlafstube den Zugang zu dem mit Brettern ausgeschlagenen
+Erdloch bildeten, und kletterte hinab,
 
 Ich folgte ihm. Bechert wollte die anderen Räume
 nochmals genau durchsuchen,
 
 Harald kniete mit eingeschalteter Taschenlampe auf
-den Rum dieses feuchten, von Moderduft erfüllte Schlupfwinkels.
+den Dielen dieses feuchten, von Moderduft erfüllten Schlupfwinkels.
 
 »Ah — also doch!« rief er mit einem Male. Und
 faßte mit dem Finger in ein Astloch der Bretter hinein,
-hob so eine Auftritt hoch, lehnte sie an die Wand und leuchtete
+hob so eine Falltür hoch, lehnte sie an die Wand und leuchtete
 in das Loch hinein.
 
-Da führte ein kurzer, unten mit einem Deckel verschloß,
-offener Schacht noch weiter abwärts, Der Deckel hatte einen
-Eisernen Ring, Harst bückte sich, ruckte an dem Ringe, kippe
-1e den etwas gebogenen Deckel hoch,
+Da führte ein kurzer, unten mit einem Deckel verschlossener
+Schacht noch weiter abwärts. Der Deckel hatte einen
+eisernen Ring. Harst bückte sich, ruckte an dem Ringe, kippte
+den etwas gebogenen Deckel hoch,
 
 Die Unterseite des Holzes war gestrichen. Man hatte
-sehr geschickt das Aussehen alten Mauerwerks. vorgetäuscht,
+sehr geschickt das Aussehen alten Mauerwerks vorgetäuscht,
 
-in der These schimmerte es metallisch glänzend; die
-Oberfläche trüben Kanalwassers! ik
+in der Tiefe schimmerte es metallisch glänzend; die
+Oberfläche trüben Kanalwassers!
 
-»Einer der Hauptfanäle Der Manalifation,« meinte
-Harst, »Hole doch mal eine Stange, einen Besenstiel, der-aleichert.«
-; st
+»Einer der Hauptkanäle Der Kanalisation,« meinte
+Harst. »Hole doch mal eine Stange, einen Besenstiel, dergleichen.«
 
 Bechert kam jetzt ebenfalls mit nach unten.
 
 Harald band die beiden Besenstiele, die ich gefunden
 hatte, aneinander und trieb dann einen langen Nagel durch
-Die Spitze des einen. Mit diesem primitiven Sprengte
-holte er vom Grunde des gewölbten Kanzlei jedoch nicht
-als einen langen, sschlanmmtriesenden Mantel heraus,
+Die Spitze des einen. Mit diesem primitiven Hakenstock
+holte er vom Grunde des gewölbten Kanales jedoch nichts
+als einen langen, schlammtriefenden Mantel heraus,
 
 Es war ein Damenregenmantel aus Lodenstoff, wie sich
-naher zeigte, ein billiges, abgetragenes Stück, in dessen
+nachher zeigte, ein billiges, abgetragenes Stück, in dessen
 einer Tasche ein Paar wollene, vielfach gestopfte Handschuhe
 steckten.
 
-»Lassen Sie die Kanäle sorgfältig durchforschen, L’7-Mert,«
-meinte Harst, nachdem er den Mantel und die launische
+»Lassen Sie die Kanäle sorgfältig durchforschen, Bechert,«
+meinte Harst, nachdem er den Mantel und die Handschuhe
 <@pagebreak/>
-oben in der Schlafstube in Augenschein aenome-wien
-Dattel »Ich will mich hier noch sich etwas umsehen.«
+oben in der Schlafstube in Augenschein genommen
+hatte! »Ich will mich hier noch so etwas umsehen.«
 
-Vorn im Verfaussraum stand ein altes Shreibmuft
-mit grünem Ginfiibezun.
+Vorn im Verkaufsraum stand ein altes Schreibpult
+mit grünem Stoffbezug.
 
-Aus dem Pulte lag eine Zeitung als Schreibunterlage,
+Auf dem Pulte lag eine Zeitung als Schreibunterlage,
 daneben ein lila Tintenstift,
 
-Harst verweilte ausfallend lange bei dem Pult. -
+Harst verweilte auffallend lange bei dem Pult.
 
 Dann rief er mich herbei.
 
-»Bitte — was siehst Du hier auf dem weißen Unite-rand’
+»Bitte — was siehst Du hier auf dem weißen Unterrand
 der Zeitung, mein Alter?« forschte er leise und beleuchtete
 die Stelle mit der Taschenlampe.
 
-»Hm — hier bat jemand etwas geschrieben und zwar
+»Hm — hier hat jemand etwas geschrieben und zwar
 mit Bleistift, hat beim Schreiben stark aufgedrückt und so
-selbst auf dieser  Schreibunterlage Schriftzüge hervorgerufen:
+selbst auf dieser Schreibunterlage Schriftzüge hervorgerufen:
 die Schrift wurde durchgedrückt! Entziffern lassen
-sich nur einzelne Buchstaben, so ein großes St, ein kleines
-und a, dann... ja, das heißt »Ritt«, glaube ich, Darunter.
-ein großes M, ein kleines a und ich und n ..."
+sich nur einzelne Buchstaben, so ein großes K, ein kleines r
+und a, dann... ja, das heißt »Ritt«, glaube ich, Darunter
+ein großes M, ein kleines a und i und n..."
 
 »Genügt Dir das nicht, zumal hier weiter rechts noch
-»Paul« durchgedrückt ist?« — Er sah mich dabei drin
+»Paul« durchgedrückt ist?« — Er sah mich dabei
 triumphierend an.
 
 Bechert kam eilig herbei.
@@ -493,31 +497,31 @@ Bechert kam eilig herbei.
 
 Er hielt ein Bündel Kleider in der Hand.
 
-»Hier ein Strällinagonzua, eine Zrräilinastappe!7
-Aber alle Zeichen aufgetrennt. Das Zeug hing im« Alkoven
-hinter der Küche, wo auch ein Bett sieht,«
+»Hier ein Sträflingsanzug, eine Sträflingskappe...!
+Aber alle Zeichen aufgetrennt. Das Zeug hing im Alkoven
+hinter der Küche, wo auch ein Bett steht,«
 
-»Die Ronisch wird wohl vieles aus dem Kerbholz
+»Die Ronisch wird wohl vieles auf dem Kerbholz
 gehabt haben,« meinte Harst gleichgültig. »Sie wird auch
-entsprungene Strajaefangene beherbergt habenm ii
+entsprungene Strafgefangene beherbergt haben.«
 
 »Harst — der Verhaftete, der Doppelgänger Parnacks!
-Vielleicht ist’s ebenfalls ein solcher Flüchtling, Vielleicht gehört
-ihm dieser Anzug, Der furzgeschorone Kopf, das hartnäckige
+Vielleicht ist’s ebenfalls ein solcher Flüchtling. Vielleicht gehört
+ihm dieser Anzug. Der kurzgeschorene Kopf, das hartnäckige
 Schweigen des Menschen..."
 
-»Und sein seltsames Wesen,« nickte Harald, Mr
-ich ist’s schon. daß Ihre Annahme stimmt. Lassen Sie den
-Mann den Anzug doch mal anprobieren, Pakt er ihm der
-Größe nach, so dürfte es praktisch sein, mal bei den Ge-fängisfen
+»Und sein seltsames Wesen,« nickte Harald. »Möglich
+ist’s schon, daß Ihre Annahme stimmt. Lassen Sie den
+Mann den Anzug doch mal anprobieren. Paßt er ihm der
+Größe nach, so dürfte es praktisch sein, mal bei den Gefängnissen
 <@pagebreak/>
-und Ruchthäufern nachzufragen, ob der Rätselhafte
-dort irgendwo musnefniffen ist, obwohl...«
+und Zuchthäusern nachzufragen, ob der Rätselhafte
+dort irgendwo ausgekniffen ist, obwohl...«
 
 »nun — obwohl?« Bechert blickte Harst gespannt an.
 
 »Obwohl ich’s nicht glaube, daß ein entsprungener
-Gefangener seinen Anstoltsanzua bis hierher mitschleppen
+Gefangener seinen Anstaltsanzug bis hierher mitschleppen
 wird, lieber Bechert. Einen solchen Anzug wird man
 doch schleunigst wegwerfen,«
 
@@ -527,581 +531,581 @@ jeden Preis!«
 
 »ich ebenfalls,« sagte Harald schlicht.
 
-Dann verließen Harald und ich, den Keller, nahmen
+Dann verließen Harald und ich den Keller, nahmen
 ein Auto und fuhren heim.
 
 Unterwegs — es war gerade auf dem Fehrbelliner
 Platz — sagte Harst in seiner sprunghaften Art und in einem
 Tone, der nichts mehr von einem Dichter an sich hatte:
 
-»Die durchaevrückten Buchstaben und Wortteile auf
-der Aeitunasunterlage waren die Fragmente des Namens
+»Die durchgedrückten Buchstaben und Wortteile auf
+der Zeitungsunterlage waren die Fragmente des Namens
 und der Adresse der Frau, die sich heute nachmittag vier
-Uhr bei uns melden ließ: Klara, Rittler, Baulsbormer
-Straße 211,« -
+Uhr bei uns melden ließ: Klara Rittler, Paulsborner
+Straße 211,«
 
-Mein Kopf fuhr herum ,.
+Mein Kopf fuhr herum...
 
-»Ah — und Rückseite ihrer Karte enthielt nach
-der den Namen Parnack! Und Parnack kannte die Ronisch,
-Mr Keller, und in diesem Keller fandest Du den Namen
-Rittler aus einer Schreibunterlage. Mithin ist die Rittler
-ebenfalls eine der vielen heimlich Verbündeten. des großen
+»Ah — und Rückseite ihrer Karte enthielt nachher
+den Namen Parnack! Und Parnack kannte die Ronisch,
+den Keller, und in diesem Keller fandest Du den Namen
+Rittler auf einer Schreibunterlage. Mithin ist die Rittler
+ebenfalls eine der vielen heimlich Verbündeten, des großen
 Verbrechers.«
 
-»Das bleibt abzuwarten, lieber Alter. Wir müden
-und Punkt zehn vor dem Hause Paulésborner Straße 211
-einfinden. Dann wird sich herausfielen, was Parnack
+»Das bleibt abzuwarten, lieber Alter. Wir werden
+uns Punkt zehn vor dem Hause Paulsborner Straße 211
+einfinden. Dann wird sich herausstellen, was Parnack
 und die Rittler planen,«
 
 Für den Rest des Weges blieb er stumm.
 
-Daheim kramte er bis zum Abendbrot in alten Ne
+Daheim kramte er bis zum Abendbrot in alten
 Zeitungen, die bei uns sorgfältig nach Monaten geheftet und
 gelagert wurden.
 
-»Um neun Uhr rief dann Fritz Bechert an.
+Um neun Uhr rief dann Fritz Bechert an.
 
 »Bechert wird uns mitteilen, daß man in einem der
-Haupilanäle die Leiche einer alten Frau gefunden hat,«
+Hauptkanäle die Leiche einer alten Frau gefunden hat,«
 <@pagebreak/>
 sagte Harald kurz,
 
 Dann nahm er den Hörer
 
-»Hier Harald Harst ... — ’n Abend, Bechert
-— So — die Leiche eines älteren, bewachsenen Weibes? —
+»Hier Harald Harst... — ’n Abend, Bechert...
+— So — die Leiche eines älteren, verwachsenen Weibes? —
 Was meint der Arzt? Wie lange hat die Tote dort gelegen?
-— Etwa einen Monat ..? So, so! Dann dürfte der
-Lodenmantel hx vielleicht gehören, Und die Todesart?
+— Etwa einen Monat...? So... so! Dann dürfte der
+Lodenmantel ihr vielleicht gehören, Und die Todesart?
 Sind äußere Verletzungen vorhanden? — Nicht? — Ja —
-baldiaste Obduktion, Bechert. Ich hatte diesen Fund er
-Kapitel. Morgen erfahren Sie mehr, Wiedersehen.«
+baldigste Obduktion, Bechert. Ich hatte diesen Fund erwartet.
+Morgen erfahren Sie mehr, Wiedersehen.«
 
-Er legte den Hörer auf die Gabel, schaute mich an unh
+Er legte den Hörer auf die Gabel, schaute mich an und
 meinte:
 
 »Ich hatte diesen Fund wirklich erwartet. Am 14.
-April ist, wie Du in der Berliner Post vom 17, und 18.
-April lesen kannst, hier eine ältere, verwachsene Dame verschwunden,
-eine Witwe Sophie Gerhardi. Sie trug am 14.
+April ist, wie Du in der Berliner Post vom 17. und 18.
+April lesen kannst, hier eine ältere, verwachsene Dame
+verschwunden, eine Witwe Sophie Gerhardi. Sie trug am 14.
 April einen Lodenmantel.«
 
 ich hörte mit äußerster Spannung zu,
 
-»Ein Mord Parnacks?« »fragte ich dann.
+»Ein Mord Parnacks?« fragte ich dann.
 
 »Offenbar. Die Ronisch rechnete mit der Entdeckung
-der Leiche und erhängte sich aus Angst, Läge nicht Mord
-vor: weshalb entleibte sie sich seschbst? Sie war Mittäterin,
+der Leiche und erhängte sich aus Angst. Läge nicht Mord
+vor: weshalb entleibte sie sich selbst? Sie war Mittäterin.
 Vorwärts, treffen wir noch einige Vorbereitungen! Liegt
 die Möglichkeit vor, Parnack zu begegnen, so tut man gut,
-alle Eventualitäten ins Auge zu fassen. Einen Teil Rufe.
-barer Meinen Fritz, ihm ein Schnippchen zu schlagen,
-fort er. ob habe errang Neues ersonnen. Nur Aber er-finhgrisch
+alle Eventualitäten ins Auge zu fassen. Einen Teil unserer
+kleinen Tricks, ihm ein Schnippchen zu schlagen,
+kennt er. Ich habe etwas Neues ersonnen. Nur wer erfinderisch
 ist, verblüfft den Gegner,«
 
 Wir verzichteten auf jede Maskierung.
 
 Harsts neue Erfindung aber imponierte mir. Daß
 wir von ihr in ganz anderer Weise Gebrauch machen würden,
-konnten wir beim besten Willen nicht ahnen.
+konnten wir beim besten Wissen nicht ahnen.
 
-3. Kapitel.
+<h2>3. Kapitel.</h2>
 
-Ein Block hellbraun gestrichener Milerätafernen. Vor
-diesem Block schlenderten wir von drei Viertel sein Ihr
+Ein Block hellbraun gestrichener Mietskasernen. Vor
+diesem Block schlenderten wir von drei Viertel zehn Uhr
 <@pagebreak/>
-abends Aura wie Leute auf und ab, die nichts anderes wohl
-malen, als die sanfte Mainbendluft hier in der Stille des
+abends ganz wie Leute auf und ab, die nichts anderes wollen,
+als die sanfte Maiabendluft hier in der Stille des
 Vorortes zu genießen.
 
-»Hinter dem Block, das stellten mir bald fest, zog sich
-Streifen Laubenland hin. Die Vorbergebäude hatten
+Hinter dem Block, das stellten wir bald fest, zog sich
+ein Streifen Laubenland hin. Die Vordergebäude hatten
 sogenannte Gartenhäuser, deren winzige Balkons und
 Loggien an diesem milden Abend zumeist erleuchtet waren.
 
 Aber — es wurde halb elf und Fräulein Klara Ritter
 erschien nicht. Es wurde drei Viertel, es wurde elf
-he: noch immer öffnete sich die nun von Nr.211 nicht!
+Uhr: noch immer öffnete sich die Haustür von Nr. 211 nicht!
 
 Leer die Straße. Balkons und Loggien wurden dunkel.
 
 Harst war merkwürdig geduldig. Und um elf sagte
-dann: »Lieber Alter, sie hat sich die Sache überlegt,«
+er dann: »Lieber Alter, sie hat sich die Sache überlegt,«
 
 Wir gingen bis zur Brieger Straße, schritten sie hinab,
-Schmargendorf zu. Haralds der, plumper Bambus-fpazierftocd
-Hang beim Mattroten auf die Steine des Bür-gersteiges
-merkwürdig hell, Es war ein ausziehbarer Anbetet
+Schmargendorf zu. Haralds dicker, plumper Bambusspazierstock
+klang beim Aufstoßen auf die Steine des Bürgersteiges
+merkwürdig hell. Es war ein ausziehbarer Angelstock
 von fast fünf Meter Länge. Dreimal blieb Harst
-Lachen, rieb ein Zündholz an und hielt es an die Zigarette,
-noch brannte, Er wollte nur die Straße hinter uns
-Mustern, ob uns jemand folgte. Nach dem vierten Art
-So:; sagte Harald: »Parnack verzichtet darauf, uns beobachten
+stehen, rieb ein Zündholz an und hielt es an die Zigarette,
+die noch brannte. Er wollte nur die Straße hinter uns
+mustern, ob uns jemand folgte. Nach dem vierten Zündholz
+sagte Harald: »Parnack verzichtet darauf, uns beobachten
 zu lassen. Es ist niemand hinter uns. Kehren wir um.«
 
 Und zehn Minuten später standen wir dort, wo wir
-Gute schon einmal gestanden hatten: an einem schiefen
-Drahtzaun der Laubengärten sein der Parallelstraße der
-auléborier!l
+heute schon einmal gestanden hatten: an einem schiefen
+Drahtzaun der Laubengärten in der Parallelstraße der
+Paulsborner!
 
 Siebzig Meter vor uns die Rückfront von Nr. 211:
 eine ungeheure, nach uns hinten offene Schachtel lag
-da das Haus mit seinen beiden Gartetiflügesn. In den
-Hinten Gartensiügel schimmerte ein großes, helles Fenster
-dem leichtgeneigten Dach das Fenster eines Ateliers!
+da das Haus mit seinen beiden Gartenflügeln. In den
+linken Gartenflügel schimmerte ein großes, helles Fenster
+in dem leichtgeneigten Dach: das Fenster eines Ateliers!
 
-Die Tut eines der Zaobencltttin he Ware Teils
+Die Tür eines der Laubengärten war nicht verschlossen,
 es gab hier nichts zu stehlen offenbar.
 
-Bald ragte vor uns die Mauer empor, die den Hof
-Baum von Nr. 211 absperrte.
+Bald ragte vor uns die Mauer empor, die den Hofraum
+von Nr. 211 absperrte.
 
-gern zog den Angelstock aus, befestigte an der Satte
-Eisenhaken der dünnen Hanfleine, die wir gleichfalls
+Harst zog den Angelstock aus, befestigte an der Spitze
+den Eisenhaken der dünnen Hanfleine, die wir gleichfalls
 <@pagebreak/>
-oritaebracht hatten (eine zweite Leine steckte in meiner
-Tasche) und letzte so mit Hilfe des Stockes den Haken hinter
+mitgebracht hatten (eine zweite Leine steckte in meiner
+Tasche) und legte so mit Hilfe des Stockes den Haken hinter
 eine der Eisenspitzen des in die Mauerkrone eingelassenen
 Gitters.
 
 Kletterte empor, half mir nach oben.
 
-War standen nun hinter den Fliedersträuchern. Harst
+Wir standen nun hinter den Fliedersträuchern. Harst
 schob den Angelstock zusammen. Ich lugte nach den Fenstern
 aus. nur in der ersten und dritten Etage war noch Licht.
 
-Die Tür zum linken Seitenflügel war unverfcloffen.
+Die Tür zum linken Seitenflügel war unverschlossen.
 Wir eilten die Treppen empor. Nun waren wir oben im
 Vorraum der Mansarde.
 
-Unsere braunen Segeltuchschuhe mit  Gummisohlen
-huschten über Es Dielen. Drei Türen hier eine
-davon aus Eile
+Unsere braunen Segeltuchschuhe mit Gummisohlen
+huschten über abgetretene Dielen. Drei Türen hier eine
+davon aus Eisen.
 
-Ein dünner Lichtstrahl aus Harsts linker Hand erleiche-terte
+Ein dünner Lichtstrahl aus Harsts linker Hand erleichterte
 uns die Orientierung.
 
-Die eiserne Er geradeaus führte auf den I oben
+Die eiserne Tür geradeaus führte auf den Boden
 des Hauses; die rechts von uns baue ein Blechschild
-»Waschküche«: die dritte linker Hand eine Visitenkarte, mit
-Messingnägeln neben dem Briefkasten beseitigt, zeigte den
+»Waschküche«; die dritte linker Hand eine Visitenkarte, mit
+Messingnägeln neben dem Briefkasten befestigt, zeigte den
 Namen der Frau, die nicht gekommen war.
 
-Harst wandte sich der Boventür zu. Der Dietrich fuhr
-Ding Schlüsselloch, schrammte, faßte. Der Sperriegel schob
+Harst wandte sich der Federhut zu. Der Dietrich fuhr
+ins Schlüsselloch, schrammte, faßte. Der Sperriegel schob
 sich zurück.
 
 Wir schlossen hinter uns wieder ab.
 
 Unter der Dachluke fanden wir die Leiter an der Bretterwand
-der Bodenverschläae hängen. Die Luke war von
+der Bodenverschläge hängen. Die Luke war von
 innen nur verriegelt. Harst lehnte sie zurück, stieg als
-erster auf das flache Dach, von dem sich recht und links die
-schwach aeneiatenichieferbefleideten Einkleiden herabsenkten.
+erster auf das flache Dach, von dem sich rechts und links die
+schwach geneigten, schieferbekleideten Durchfeilen herabsenkten.
 
 Auf allen vieren krochen wir zum nächsten Schornstein,
 hatten nun das noch immer erleuchtete Atelierfenster mit
 den matten Scheiben schräg unter uns — und weiterhin
-er Abnehmt des Hofes — Aber uns den düsteren Nachthimmel.
+den Abgrund des Hofes — über uns den düsteren Nachthimmel.
 
 In dieser Dunkelheit wirkte das wimmernde Weinen,
-das durch die offene Luftscheibe des Atelierfensters zu un
-empor drang. wie Laute ageheimnisvoller Gnomen As
-Heimnisvollen Trotteten.
+das durch die offene Luftscheibe des Atelierfensters zu uns
+empor drang, wie Laute geheimnisvoller Gnomen aus
+geimnisvollen Erblicken.
 
 <@pagebreak/>
 »Sie weint« flüsterte Harst. »Ob sie noch um den
 Verlust ihrer Stiefmutter weint, mit der sie den Zeitungsnotizen
-nach je innig gestanden haben muß?««
+nach sehr innig gestanden haben muß?««
 
-Unsere Köpfe ruhten nebeneinander über dem Maule
-Schieserbaches, »ich blickte Harald an. »a Witwe
-Tale, war à
+Unsere Köpfe ruhten nebeneinander über dem Rande
+des Schieferdaches. ich blickte Harald an. »Die Witwe
+Sophie Gerhardi?«
 
-»Ja, die ..."
+»Ja, die..."
 
-»Weshalb taghell Du mir das nicht gleich? Das A)
-en Hinweis uf;«
+»Weshalb sagtest Du mir das nicht gleich? Das gibt
+einen Hinweis auf..."
 
 Ich schwieg.
 
-Eine Stinimne kam durch die Luftscheibe — undeutlich,
-ie Wenn bibrierend:
+Eine Stimme kam durch die Luftscheibe — undeutlich,
+geisterhaft vibrierend:
 
-»Oh — Du hattest das nie tun sollen, Art! Ich hätte
-so an Dich geglaubt.«
+»Oh — Du hättest das nie tun sollen, Fritz! Ich hätte
+auch so an Dich geglaubt.«
 
 Ein Murmeln folgte
 
 Und über das matte Atelierfenster glitt der verzerrte
-Gatten eines Mannes hin.
+Schatten eines Mannes hin.
 
-»Parnack?« hauchte ich, Und nur einem Male kam da
-rreaung. Mit einem Male! der Name Parnack war
-ne As der die Nerven aufpeitschte, De!
-me Parnack in dieser Umgebung war die Gefahr, die
-sticht auf hundert Teufeleien, Zwar wie unzählige der.
-he. Gehangen.
+»Parnack?« hauchte ich. Und mit einem Male kam da
+die Erregung. Mit einem Male! der Name Parnack war
+der galvanische Strom, der die Nerven aufpeitschte. Der
+Name Parnack in dieser Umgebung war die Gefahr, die
+Aussicht auf hundert Teufeleien, war wie unzählige versteckte
+Drohungen.
 
-»gebleicht, mein Wider,. .", erforderte Harst neben
-x.
+»Vielleicht, mein Alter...", erwiderte Harst neben
+mir.
 
-»Sie nennt Ihn Fritz. Und Parnacks Vorname ist
-gib,« warf klein
+»Sie nennt ihn Fritz. Und Parnacks Vorname ist
+Gisbert,« warf ich ein.
 
 Harst blieb stumm.
 
-Von unten das Murmeln zweier Stimmten, erlöfchend,
-rieben aussehend. Hin und wieder des Mannes Schatten.
+Von unten das Murmeln zweier Stimmen, erlöschend,
+wieder auflebend. Hin und wieder des Mannes Schatten.
 
-Ad tun er, Aus. »ja Nelunbtduh
+Dann ein schluchzender Aufschrei...
 
-Not am Dir mich mehr geben Seen
+Ich kann Dir nicht mehr geben als Freundschaft,
+Fritz...! Ich kann nicht! Das andere ist tot!«
 
-Per ii Ich kann nicht! Das Albert ist tot!«
+Pause...
 
-nickte
+»Wir sind uns fremd geworden, Fritz. Du bist mir
+nur noch..."
 
-»Wir sind uns fror gemordet, Fritz. Du bist an
+Ein heftiger Zwischenruf:
 
-& ich heftige Amifchenruf:
+»Ah — das ist Dein Dank! Ich — ich Narr!«
 
-= das ist Dein Dank! © Dein ich Narr!
+Der Schatten bewegte sich heftiger.
 
-Mr Schatten bereute sich heftiger.
-
-der Fing Brillen ein Kopf...
+In der Luftscheibe erschien ein Kopf...
 
 <@pagebreak/>
 Und unsere Köpfe schnellten zurück,
 
-Unter dem Druck meiner Hand, die den übertönen
-zurüchränate, löste sich am Rande ein Stückchen Mörtel,
-kollerte Sinnend das Schieferdach hinab — in den Abgrund,
+Unter dem Druck meiner Hand, die den Oberkörper
+zurückdrängte, löste sich am Rande ein Stückchen Mörtel,
+kollerte klingend das Schieferdach hinab — in den Abgrund,
 
-Harst packte meinen Arm. »Der Bach vorsichtig. Er
-darin Verdacht schöpfen!«
+Harst packte meinen Arm. »Sei doch vorsichtig. Er
+kann Verdacht schöpfen!«
 
-Hinter dem Schornstein richtete er sich auf. blickte Hi
-ab, duckte sich wieder.
+Hinter dem Schornstein richtete er sich auf, blickte hinab,
+duckte sich wieder.
 
-»Er steht nicht mehr an der Luftscheibe, ren! t im Atelier
+»Er steht nicht mehr an der Luftscheibe, rennt im Atelier
 wieder auf und ab.«
 
-Wir nahmen die vorige Stellung wieder cm
+Wir nahmen die vorige Stellung wieder ein.
 
 Und wieder die murmelnden Stimmen, der Schatten.
 
 Bis die Männerstimme anschwoll:
 
-»Gut, dann gehe ich, Klara, Auf niederlegen morden
-.«
+»Gut, dann gehe ich, Klara. Auf Wiedersehen morgen
+früh...«
 
 Und nach einer Weile undeutlicher: »Gute Nacht! Es
 wird alles wieder werden wie einst, Klara. Es ist das Neue,
-das Dich überraschte, Wie könnten wir beide uns fremd
+das Dich überraschte. Wie könnten wir beide uns fremd
 geworden sein?«
 
-Dann klappte eine Für...
+Dann klappte eine Tür...
 
-Und wenig später hörten wir unten im Hofe ten hatte
-gen Schritt eines Menschen, das Kreischen der Nr zehn der
-schmoren Tür des Hofeingangas.
+Und wenig später hörten wir unten im Hofe den hastigen
+Schritt eines Menschen, das Kreischen der Angeln der
+erschwerten Tür des Hofeingangas.
 
 Harst zog die Hanfleine hervor, schlang das eine Ende
 um den Schornstein, warf das andere am linken Rande des
-Atelierfensters hinab, wo schmale Steigeisen, leicht Ne
-ist eingelassen waren.
+Atelierfensters hinab, wo schmale Steigeisen, leicht gekrümmt,
+eingelassen waren.
 
-Nun ist sie allein, die Frau, die nicht da war,«
+»Nun ist sie allein, die Frau, die nicht da war,«
 flüsterte er.
 
 Er schob die Leine über den Rand hinweg bis zum
 ersten Steigeisen, hielt sich an der Leine fest, klomm tiefer.
 
-Prüfte Dann die Festigkeit der Dachrinne, schritt ratsam,
-die Leine als Halt benutzend, bis zu der. Rufticheihr
+Prüfte Dann die Festigkeit der Dachrinne, schritt langsam,
+die Leine als Halt benutzend, bis zu der Luftscheibe.
 
-Und schob den Oberkörper in die Scheibendlimuun
-bog ihn wieder zurüc, winkte mir hastig, schwang sich in das
+Und schob den Oberkörper in die Scheibenöffnung,
+bog ihn wieder zurück, winkte mir hastig, schwang sich in das
 Atelier hinein.
 
 Ich folgte ihm auf demselben gefährlichen Pfade. ich
 biß die Zähne zusammen, wollte nicht an den Abgrund unter
-mir denken, — und langte fehweiktriefend im Atelier nun.
+mir denken, — und langte schweißtriefend im Atelier an.
 
-Der mittelgroße Raum. erleuchtet durch eine eintrat
+Der mittelgroße Raum, erleuchtet durch eine einzige
 <@pagebreak/>
-Hlühbirne an der Decke, war ärmlich möbliert,
+Glühbirne an der Decke, war ärmlich möbliert,
 
 Die Tür neben dem Sofa nur angelehnt. Dahinter
-Wohl der Flur, die Küche.
+wohl der Flur, die Küche.
 
 Wir hörten das Klappern von Geschirr, das Rauschen
 einer Wasserleitung.
 
 Harst drückte die Tür langsam auf, huschte die wenigen
-Bitte bis zur Außentür, Da lag die Sperrkette vor,
+Schritte bis zur Außentür. Da lag die Sperrkette vor,
 war auch ein großer Riegel vorgeschoben,
 
 Durch die matten Glasscheiben der erleuchteten Küche
-el genügend Licht in den Flur,
+fiel genügend Licht in den Flur,
 
-Mr! letzte die Hand aus den Drücker der Küchentür
+Harald legte die Hand auf den Drücker der Küchentür
 — öffnete...
 
-en ein leiser Aufschrei
+Drinnen ein leiser Aufschrei...
 
 »Erschrecken Sie nicht,« sagte Harst rasch. »ich bin
-den Sie e zehn un hierher baten; Harald Harst!«
+der, den Sie für zehn Uhr hierher baten: Harald Harst!«
 
-M4 stand Klara Visiten, groß, schlank, mit mundeten
-Blondhaar, nicht mehr ganz jung, aber doch ein be-gehrenswertes
-Weib
+Da stand Klara Rittler, groß, schlank, mit wundervollem
+Blondhaar, nicht mehr ganz jung, aber doch ein begehrenswertes
+Weib...
 
 Harst fügte rasch hinzu:
 
-»ich muß Sie bitten, mir einige Fragen zu beaniwor-m,
+»ich muß Sie bitten, mir einige Fragen zu beantworten,
 Fräulein Rittler. Aber in Ihrem Interesse rate Ich
-hne’, mir Rede und Antwort zu stehen. Kommen Sie
-Gatte ins Atelier, Was wir zu verhandeln haben, soll in
+Ihnen, mir Rede und Antwort zu stehen. Kommen Sie
+bitte ins Atelier. Was wir zu verhandeln haben, soll in
 Ruhe geschehen,«
 
 »Wann sind Sie denn hier eingedrungen, Herr Harst?«
-Resultate sie, und die Stimme seien eine gewisse Angst zu der
+fragte sie, und die Stimme schien eine gewisse Angst zu
+verraten.
 
-an Er vor zwei Minuten, durch die Luftscheibe
-es Atelierfensters,«
+»Soeben — vor zwei Minuten, durch die Luftscheibe
+des Atelierfensters,«
 
 »Ah — und Sie haben vor dieser Luftscheibe vorher
-lauscht?«
+gelauscht?«
 
-»Nein, wir hörten nur, daß jemand Sie verließ, nachhalf
-durch die Dachluke auf das Dach gelangt wo. n.
-werten begreifen, daß die Zeilen auf Ihrer Visiten
-(1 M besonders der Name Parnack, mich zwangen, von
-nahen schleunigst Ausschluß über das zu verlangen, was
-die Zeilen anvecuteten,«
+»Nein, wir hörten nur, daß jemand Sie verließ, nachdem
+wir durch die Dachluke auf das Dach gelangt waren.
+Sie werden begreifen, daß die Zeilen auf Ihrer Visitenkarte,
+besonders der Name Parnack, mich zwangen, von
+Ihnen schleunigst Aufschluß über das zu verlangen, was
+die Zeilen andeuteten,«
 
-Sie nickte, Und es schien mir, als ob sie erleichtert in
-Gedanken ausatmete, daß wir sie und den Mann anbiß
+Sie nickte. Und es schien mir, als ob sie erleichtert in
+Gedanken aufatmete, daß wir sie und den Mann angeblich
 nicht belauscht hätten,
 
 <@pagebreak/>
-Sehr hastig sagte Ne: »ahnt Mansardenfenster
-drüben im anderen Artiges. en Sie denn meinen
-Rohrpostbrief nicht mehr Erhalten? Au schrieb Ihnen doch,
-daß Ab heute plant nicht Zeit hatte.«
+Sehr hastig sagte Sie: »Ja — das Mansardenfenster
+drüben im anderen Flügel...! Hatten Sie denn meinen
+Rohrpostbrief nicht mehr erhalten? Ich schrieb Ihnen doch,
+daß ich heute abend nicht Zeit hätte.«
 
-»Nein, ich habe nichts erxhalien, — Sie sandten mir
+»Nein, ich habe nichts erhalten. — Sie sandten mir
 die Absage, weil Sie Besuch bekamen, nicht wahr?«
 
-»Ja, ...« Und noch zögernder. »Ein... ein Kollege
+»Ja...« Und noch zögernder. »Ein... ein Kollege
 hatte sich angemeldet, der mir Arbeit besorgen wollte. Uns
-Zeichnern acht e heutzutage soll:recht, sehr schlecht, Sie hat
-eben wohl bereits meiner Atelioreinrichtung angemerkt, Herr
-Harst, daß die besten Mord verfault sind, So ärmlich sah
-es früher bei mir nicht aus
+Zeichnern geht es heutzutage schlecht, sehr schlecht, Sie haben
+wohl bereits meiner Ateliereinrichtung angemerkt, Herr
+Harst, daß die besten Möbel verkauft sind. So ärmlich sah
+es früher bei mir nicht aus.«
 
-Ihre zwanglose Not Sagtest wirkte nicht ganz echt; —
+Ihre zwanglose Aufrichtigkeit wirkte nicht ganz echt. —
 
 Harald machte eine Handbewegung noch dem Atelier
-hin. Und Klara Rittler nickte wieder, ging an uns Hole
-Dom setzte sich in eine Ecke des Glanzledersosas und meine
+hin. Und Klara Rittler nickte wieder, ging an uns vorüber,
+setzte sich in eine Ecke des Glanzledersofas und meinte:
 »Bitte, nehmen Sie Platz, meine Herren.«
 
-Das blonde Weib mit dem scharf ausgeprägten Lei-denszua
+Das blonde Weib mit dem scharf ausgeprägten Leidenszug
 um den blassen Mund starrte Harst dann fragend
 an.
 
 »Zunächst das Mansardenfenster drüben, Fräulein
-Rittler .., — Was ist’s damit? Was hat der Verbrecher
-nach damit zu uns begann Harald
+Rittler... — Was ist’s damit? Was hat der Verbrecher
+Parnack damit zu tun?« begann Harald
 
-4, Kapitel.
+<h2>4. Kapitel.</h2>
 
-Ihr Gesicht veränderte sich wieder Robe Kochherde
-und verlor alles Unwahre, Sorıöbionbafie,
+Ihr Gesicht veränderte sich wieder, wurde nachdenklich
+und verlor alles Unwahre, Komödienhafte.
 
-»Ja, das All ein merkwürdige Geschichte, Herr Harst,!
-erwiderte sie, mit gedämpfter Stimme, As ob sie eine sein
-geheimnisvolle Angelegenheit zu erörtern begann, »Das
-Mansardenftensler dort Gehört zu einer Stube, die von unserem
-Portier als Abstellraum für Möbelstücke und Der.
-Geräte benutzt wird, Das Fenster bat von innen graue Vorhänge,
-die zugezogen sinkt, In Brei verschiedenen Nächten,
+»Ja, das ist eine merkwürdige Geschichte, Herr Harst,«
+erwiderte sie mit gedämpfter Stimme, als ob sie eine sehr
+geheimnisvolle Angelegenheit zu erörtern begann. »Das
+Mansardenfenster dort Gehört zu einer Stube, die von unserem
+Portier als Abstellraum für Möbelstücke und
+Geräte benutzt wird. Das Fenster hat von innen graue Vorhänge,
+die zugezogen sind. In drei verschiedenen Nächten,
 zuletzt in der verflossenen, war die Stube erleuchtet, und
-aus den Vorhängen zeichnete sich der Schatten eines Man
-jenes ziemlich scharf ab! der in einer Schlinge hing, Der Haus
-vor fang ausaerert durch den Strick«
+auf den Vorhängen zeichnete sich der Schatten eines Mannes
+ziemlich scharf ab, der in einer Schlinge hing. Der Hals
+war lang ausgereckt durch den Strick«
 
 <@pagebreak/>
 Harald lächelte mit einem Male,
 
-»Fräulein Dörfler, ich heiße Harald Harst,« sagte er
-acht von, »Wir muß man derartige Berlenenbeits -
-sehen nicht auftischen,«
+»Fräulein Rittler, ich heiße Harald Harst,« sagte er
+leicht ironisch. »Mir muß man derartige Verlegenheitsmärchen
+nicht auftischen,«
 
 Die blonde Malerin beugte sich vor,
 
-»Das würde ich wohl kaum wagen, Herr Harst, Was
-Ihnen erzähle, sind Tatsachen, Ich würde darauf jeder
+»Das würde ich wohl kaum wagen, Herr Harst. Was
+ich Ihnen erzähle, sind Tatsachen. Ich würde darauf jeder
 Zeit einen Eid ablegen,«
 
-»er ich — weiter, Fräulein Rittler,«
+»Gut — weiter, Fräulein Rittler,«
 
 »Am 3. Mai war’s, als ich das Fenster drüben zum
-ersten Die erleuchtet und den Gehenkten sah, ich leide an
-hlailojinfeit, seit meine Mutter mir genommen ist ».«
-Ehre Stimme zitterte leicht.
+ersten Male erleuchtet und den Gehenkten sah, ich leide an
+Schlaflosigkeit, seit meine Mutter mir genommen ist...«
+Ihre Stimme zitterte leicht.
 
 »ihre Stiefmutter,« warf Harst leise ein.
 
 »Sie wissen davon?«
 
-Log ja« in Den Zeitungen einiges über das Verschwinden
+»Ich las ja in Den Zeitungen einiges über das Verschwinden
 der Frau Gerhardi,«
 
-Die Malerin seufzte, »Hätte ich genügend Geld besessen,
-Herr Harst, so wäre ich damals zu Ihnen gekommen
+Die Malerin seufzte. »Hätte ich genügend Geld besessen,
+Herr Harst, so wäre ich damals zu Ihnen gekommen.
 Sie waren gerade aus Indien zurückgekehrt. Vielleicht
 hätten Sie meine Mutter gefunden.«
 
-»Haben Sie ie gehört, De Harald Harst jemand abgewiesen
-hat, nur weil er sein Honorar zahlen konnte?!«
+»Haben Sie je gehört, daß Harald Harst jemand abgewiesen
+hat, nur weil er kein Honorar zahlen konnte?!«
 
-»Nein. — In diesen Zeiten jedoch, kann man seine Armreif
+»Nein. — In diesen Zeiten jedoch, kann man keine Arbeit
 umsonst verlangen, Herr Harst,«
 
-»in ihrer liebe sah ich Delikatessen, Fräulein Ritt-sogar
-Rangs,
+»in Ihrer Küche sah ich Delikatessen, Fräulein Rittler,
+sogar Kaviar..."
 
-je Malerin wurde flammend rot,
+Die Malerin wurde flammend rot,
 
-in Freund Du!f mir,« stammelte sie, -
+»Ein Freund half mir,« stammelte sie.
 
-»Er schicke Sogen Geld
+»Er schickte Ihnen Geld?«
 
-»fra, ich Setz’ ı Geld,« Irre leichthin, »Hörten Sie
-bricht auch kraus n / etwas wie einen Schrei?« fix sie
-hastig hinzu, — so wollte sie ihr Hochschnellen bemänteln.
+»Ja, ich bekam Geld,« sagte sie leichthin. »Hörten Sie
+nicht auch draußen etwas wie einen Schrei?« fügte sie
+hastig hinzu. — So wollte sie ihr Hochschnellen bemänteln.
 Wie ungeschickt!
 
 »Ich hörte nichts, Fräulein Rittler, — Also das Fenster
-— das acheimniövole Fenster,,? Wir sind vom
+— das geheimnisvolle Fenster...? Wir sind vom
 Thema abgekommen,«
 
-Mit unendlich müder Beweaquna strich sie sich über die
+Mit unendlich müder Bewegung strich sie sich über die
 Stirn
 
-»Das Fenster, ja, — ich war damals am 3. Mai a?
+»Das Fenster, ja, — ich war damals am 3. Mai aufgestanden,
 <@pagebreak/>
-aecfianden, weil ich nicht Schlafen konnte. Ich schaute bin
-Rendezvous.,. Und da erblicke ich den hellen Vorhang und den
-Mann in doch Schlinge, den Schatten. — Etwa ihn Mir
-Minuten blieb das Fenster hell,« Dann erlosch der Lichtschein,
-ja Atem noch eine halbe Stunde. Das Fenster blieb
-unstet.
+weil ich nicht schlafen konnte. Ich schaute hinaus...
+Und da erblickte ich den hellen Vorhang und den
+Mann in der Schlinge, den Schatten. — Etwa zehn
+Minuten blieb das Fenster hell. Dann erlosch der Lichtschein.
+Ich wartete noch eine halbe Stunde. Das Fenster blieb
+dunkel.«
 
 »Sie sprachen mit niemandem darüber?«
 
-»Doch! Ich erzählte morgens dem Portier Meinke davon,
+»Doch! Ich erzählte morgens dem Portier Meinke davon.
 Wir gingen nach oben. Meinke hatte nur gegrinst.
-Er schloß die Tür der Stube auf und sagt: »Ich war nämlich
+Er schloß die Tür der Stube auf und sagte: »Ich war nämlich
 um sieben schon mal hier, und Da war genau so wenig
-ein Gehenkter wie fett, Fräulein Rittler, Sie haben eben
-geträumt,« — Meinke ist ein sehr unangenehmer Mensch,
-Herr Harst, ob Schwieg zu seinen höhnischen Redensarten.
+ein Gehenkter wie jetzt, Fräulein Rittler. Sie haben eben
+geträumt.« — Meinke ist ein sehr unangenehmer Mensch,
+Herr Harst. Ich schwieg zu seinen höhnischen Redensarten.
 Man darf sich mit ihm nicht verfeinden. Er kassiert
 die Mieten, und ich war stets im Rückstande.«
 
-»Die heutigen 170000 Mark halfen auch in dieser Beziehung
+»Die heutigen 170000 Mark halfen auch in dieser Beziehung.«
 
-»Mein Gott! Sie.,.« Das verkörperte Entsetzen saß
+»Mein Gott! Sie...« Das verkörperte Entsetzen saß
 da in der Sofsgecke.
 
-»ich weiß auch das, Fräulein Rittler, Beruhigen Sie
-sich, — Sie haben den Gehenkten dann also noch zweimal
+»ich weiß auch das, Fräulein Rittler. Beruhigen Sie
+sich. — Sie haben den Gehenkten dann also noch zweimal
 wahrgenommen, — um diese Geschichte erst zu beenden.«
 
-Die Malerin nickte nur. Man. sah, sie wollte den
-lähmenden Schreck über die Fahl, die Bart Annahm hatte,
-
+Die Malerin nickte nur. Man sah, sie wollte den
+lähmenden Schreck über die Zahl, die Harst genannt hatte,
 also über dessen Kenntnis der Höhe des Geldbetrages mit
-aller Macht rasch wieder abschitteln. Sie blieb jedoch zerstreut,
-zerfallen und unsicher Sie suchte Die Warte mühsam
-zusammen und wienerbalte dulde Sätze, als sei sie mit
-ihren Gedanken andherêmo,
+aller Macht rasch wieder abschütteln. Sie blieb jedoch zerstreut,
+zerfahren und unsicher. Sie suchte Die Worte mühsam
+zusammen und wiederholte halbe Sätze, als sei sie mit
+ihren Gedanken anderswo,
 
 Aber das eine blieb doch bestehen: sie besaß weit, weit
-mehr Energie als Dr Durchschnitt der Frauen! Wenn die
+mehr Energie als der Durchschnitt der Frauen! Wenn die
 Falte über der Nasenwurzel auf ihrer Stirn erschien, wenn
 sie eine Pause machte, und Harald zerstreut anschaute, so,
-als sähe sie dort gut dem Stuhle anstatt seiner anno andere
+als sähe sie dort auf dem Stuhle anstatt seiner ganz andere
 Dinge, wenn sie die Lippen jäh zusammenpreßte und ihre
-schmalen seinen Hände in nervösem Spiel gib krampfhaft
-ballten und öffneten und barg auch triste blinkten schenkte
-zog Augen von von Lidern bis zu einem schmalen Schlitze
+schmalen feinen Hände in nervösem Spiel sich krampfhaft
+ballten und öffneten und dann auch diese dunklen lebendigen
+Augen von den Lidern bis zu einem schmalen Schlitz
 verdeckt wurden — in solchen Momenten sagte Ich mir, daß
 <@pagebreak/>
-eine äußerst gefährliche Gegnerin sei, die auch fraglos
+sie eine äußerst gefährliche Gegnerin sei, die auch fraglos
 äußerst gefährliche Geheimnisse zu hüten hatte!
 
-Welcher Art können diese jedoch sein?! — ich wußte
-wenig, um den Kern der Geschehnisse bereits herausfühlen
-zu können. ich dachte nur schaudernd;, daß Diele
-des in allem durchaus nicht unsympathische Person viel
-Art gar als geübte Komödiantin die Rührung bei der Erwähnung
+Welcher Art konnten diese jedoch sein?! — ich wußte
+zu wenig, um den Kern der Geschehnisse bereits herausfühlen
+zu können. ich dachte nur schaudernd, daß diese
+alles in allem durchaus nicht unsympathische Person vielleicht
+gar als geübte Komödiantin die Rührung bei der Erwähnung
 ihrer Stiefmutter ebenfalls nur geheuchelt und
-ah sie als haben könnte, die verwachsene Frau
-erichtoinden zu lassen, die Parnack auf seinem Gewissen
-plane, und Pumpe trat Sitzen Rittlers heutiger Besuch an
-Wien! Das stand ja für mich fest, nachdem ich seine Ab-hiedêworte
-aechöôrt u Das war seine Stimme gewesen!
-Hand hätte ich Dafür ins Feuer gelegt! — Und da
-Harald hier nicht eine Falle Sir uns vermutet?!
-er mir die zweite, Präparierte Keine gegeben, deren
+daß sie mitgeholfen haben könnte, die verwachsene Frau
+verschwinden zu lassen, die Parnack auf seinem Gewissen
+hatte, und Parnack war Klara Rittlers heutiger Besuch gewesen!
+Das stand ja für mich fest, nachdem ich seine Abschiedsworte
+gehört hatte! Das war seine Stimme gewesen!
+Die Hand hätte ich Dafür ins Feuer gelegt! — Und doch:
+hatte Harald hier nicht eine Falle für uns vermutet?!
+Hatte er mir die zweite, präparierte Leine gegeben, deren
 eines Ende mir aus der Inneren Jackentasche herausragte?
-— Da waren Viperiprüche über Widersprüche, da war
-Appetit, was ich nicht begriff,
+— Da waren Widersprüche über Widersprüche, da war
+vieles, was ich nicht begriff,
 
 Was sollte bei alledem das geheimnisvolle Fenster,
-As der Gehenkte?! Soeben hatte die Malerin uns ge-chckchilldert,
+was der Gehenkte?! Soeben hatte die Malerin uns geschildert,
 wie sie in den beiden anderen Nächten wieder
 gegen ein Uhr den hellen Vorhang und den Schatten des
-Mr mit dem Strick um den Hals wahrgenommen taugt
-wie der Gehenkte in der verflossenen Nacht sogar
-dem Strick hin und her gependvelt Der.! Daß sie aber
+Mannes mit dem Strick um den Hals wahrgenommen hatte
+und wie der Gehenkte in der verflossenen Nacht sogar
+an dem Strick hin und her gependelt sei...! Daß sie aber
 mit niemandem mehr über diese Beobachtung gesprochen hatte
-da sie den Portier Meinke nicht reizen mochte, den Sand-brann
-War diese ganze Sie erlogen? War auch
-Meinte mit Parnack und der Malerin im Bunde? Wollte
-uns etwa in die Mansardenstube locken?
+da sie den Portier Meinke nicht reizen mochte, den Haustyrann!
+War diese ganze Geschichte erlogen? War auch
+Meinke mit Parnack und der Malerin im Bunde? Wollte
+man uns etwa in die Mansardenstube locken?
 
-jetzt schwieg sie. Jetzt Stand Harst auf und wie sehe
-Stuhl dicht vor sie bin, setzte sich, fragte mit Betonung:
+jetzt schwieg sie. Jetzt stand Harst auf und rückte seinen
+Stuhl dicht vor sie hin, setzte sich, fragte mit Betonung:
 
 »Wie kamen Sie denn auf den Gedanken, der Gehenkte
-und nach Händen in Fraß Nr. Beziehungen Aus
-anderer As Angel Eure ten rot a Bug: Da
-vielleicht mit um diesen Parnack. Hao vintivorten Sie!«
+und Parnack ständen in irgendwelchen Beziehungen zueinander?
+Auf Ihrer Karte war zu lesen: »Es handelt sich
+vielleicht mit um diesen Parnack...« — Antworten Sie!«
 
 »Weil ich den Namen »Parnack« in der vergangenen
-in gehört zu haben glaubte, als der Schatten dort Ne
-Ahahibar War,« eriwiberte sie ohne Zögern, »Ich bat
+Nacht gehört zu haben glaubte, als der Schatten dort drüben
+sichtbar war,« erwiderte sie ohne Zögern. »Ich hatte
 <@pagebreak/>
-den einen Stenfterfiiiael meiner Schlafkammer dort nebenan
-Schöner. Ich stand im Dunkeln, Und da war es mir
-als riefe jemand in der Mansardenstube: »Parnack, hier?
+den einen Fensterflügel meiner Schlafkammer dort nebenan
+geöffnet. Ich stand im Dunkeln. Und da war es mir,
+als riefe jemand in der Mansardenstube: »Parnack, hier.«
 Das weitere entging mir, weil ein neuer Regenschauer herabkam.
-— Nein, nein, ich will nicht jagen: »da war’s
-mir!« Nein — ich habe die beiden Morde gehört, den war
-men und das »hier«... — Zweifeln Sie nicht an meinen
+— Nein, nein, ich will nicht sagen: »Da war’s
+mir!« Nein — ich habe die beiden Worte gehört, den Namen
+und das »hier«... — Zweifeln Sie nicht an meinen
 Worten, Herr Harst! Sie sollen das nicht! Ich schwöre
 Ihnen bei dem Andenken an meine Stiefmutter, die ich
-geliebt und verehrt habe wie ..."
+geliebt und verehrt habe wie..."
 
 Plötzlich ein seltsamer Laut, der den begonnenen
 Satz beschloß
@@ -1109,159 +1113,159 @@ Satz beschloß
 Ihre Rechte hob sich, deutete geradeaus — auf die
 Luftscheibe, die noch offen war
 
-»Da — — da ist der Gehenkte abermals.,« flüsterte
+»Da — — da ist der Gehenkte abermals... flüsterte
+sie.
 
-Wir blieben sitzen — schauten und an, —  Mibtraie
-en in den Augen.
+Wir blieben sitzen — schauten uns an. —  Mißtrauen
+in den Augen.
 
 Dann Harst: »Setz Dich neben Fräulein Rittler, mein
 Alter! Schnell! — Sie werden sich nicht bewegen,« wandte
-er sich an die Malerin, »Verargen Sie uns nicht, daß wir
+er sich an die Malerin. »Verargen Sie uns nicht, daß wir
 vorsichtig sind. Die Dinge liegen noch zu verworren, als
-daß mir Ihnen volles Vertrauen schenken können, Ich
-werde das Litt hier ausschalten, — Schraut, nimm Des
-ne Taschenlampe
+daß wir Ihnen volles Vertrauen schenken können. Ich
+werde das Licht hier ausschalten. — Schraut, nimm Deine
+Taschenlampe..."
 
 Ich verstand ihn.
 
 Das Deckenlicht erlosch. Meiner Lampe weißer
-Strahlenkegel ruhte auf den Händen Klara Autor die
+Strahlenkegel ruhte auf den Händen Klara Rittlers, die
 regungslos in ihrem Schoße lagen.
 
 Harst trat an die Luftscheibe.
 
 Drei Minuten blieb er dort. Dann löste er mich ab.
-Die Malerin rührte sich nicht. Nur ihre Stimme cm
-Mann aus dem Dunkel über dem grellen Pichtiled: »Nun
-Cuxhaven Sie sich von der Wahrheit meiner Worte »selbst
+Die Malerin rührte sich nicht. Nur ihre Stimme erklang
+aus dem Dunkel über dem grellen Lichtfleck: »Nun,
+haben Sie sich von der Wahrheit meiner Worte selbst
 überzeugt, Herr Harst?«
 
-Sie meinen: von der Tatsache, daß jetzt dort drüben
-auf dem Vorhang der Schatten Suez Gehenkten sichtbar ist?
-Und :- dieZetiace deckt nicht alle Ihre Angaben, Fräulein
-Rittler«
+»Sie meinen: von der Tatsache, daß jetzt dort drüben
+auf dem Vorhang der Schatten eines Gehenkten sichtbar ist?
+Und — die Tatsache deckt nicht alle Ihre Angaben, Fräulein
+Rittler.«
 
-Ich schlich zu! Bufticheibe, starrte hinüber
+Ich schlich zur Luftscheibe, starrte hinüber...
 
 <@pagebreak/>
-Das Eid dort war unheimlich genug. Der Mann in -
-Schlinge hing da wie ein gräßlicher Spuk als Schatten
+Das Bild dort war unheimlich genug. Der Mann in
+der Schlinge hing da wie ein gräßlicher Spuk als Schattenbild.
 
-Hinter wie hörte ich Harst die Malerin fragen:
+Hinter mir hörte ich Harst die Malerin fragen:
 
 »Von wem erhielten Sie die 170000 Mark zugeschickt,
 Fräulein Rittler?«
 
-As lenkte mich ab.
+Das lenkte mich ab.
 
-Jetzt sonnte auch das Mansardenfenster mit einem
-plane dunkel.
+Jetzt wurde auch das Mansardenfenster mit einem
+Schlage dunkel.
 
-wo einem Kollegen, Herr Harst, ertwiberte sie habe
-er
+»Von einem Kollegen, Herr Harst,« erwiderte sie widerwillig.
 
-»Und den Postantweisunasabschnitt haben Sie noch!«
+»Und den Postanweisungsabschnitt haben Sie noch?«
 
-»Hein. den habe ich verbrannt,«
+»Nein, den habe ich verbrannt,«
 
-»So — so, c& war also eine Pg.
+»So — so, es war also eine Postanweisung..."
 
-vielleicht auch nicht,« Und sie lachte ironisch auf. »ehe
-trauen mir ja! Sie sollen dies mit Recht zu
+»vielleicht auch nicht.« Und sie lachte ironisch auf. »Sie
+mißtrauen mir ja! Sie sollen dies mit Recht tun.«
 
-»Licht!« befahl Harald, — Ich drehte den Schalten
-rot herum.
+»Licht!« befahl Harald. — Ich drehte den Schalterknopf
+herum.
 
-Harst saß vor der Malerin, sagte sehr ernst: »Sie wer
-in dieser Nacht erfahren, daß ich alles weiß. ich
-hinkte Ahnen jetzt schon die Augen öffnen, — Bitte, gehen
-ie nicht schlafen, Eine Stunde, vielleicht anderthalb. un
-sind wieder hier. Wir werden Klara den Mann drin
-Aller hier bei ihnen war.«
+Harst saß vor der Malerin, sagte sehr ernst: »Sie werden
+noch in dieser Nacht erfahren, daß ich alles weiß. ich
+könnte Ihnen jetzt schon die Augen öffnen. — Bitte, gehen
+Sie nicht schlafen. Eine Stunde, vielleicht anderthalb, und
+wir sind wieder hier. Wir werden Ihnen den Mann bringen,
+der hier bei Ihnen war.«
 
 Der überlegene Spott schwand aus ihren Zügen. Sie
-de unruhig.
+wurde unruhig.
 
-Harst erhob Mich »ich rate nen dringend, Ihre
-ohnuma nicht zu verlassen,« fügte er hinzu, »Möglich,
-Sie willen, wo Parnack sich verborgen hält, wo er Oel
-en Schlupfwinkel hat. Möglich, bat Sie ihn warnen wohl
-Versuchen Sie es nicht, Fräulein Visiten, Er Haus
-Arm Ls und Sie würden sich große Ungelegenheiten
-Gehen.«
+Harst erhob sich. »ich rate Ihnen dringend, Ihre
+Wohnung nicht zu verlassen,« fügte er hinzu. »Möglich,
+Sie wissen, wo Parnack sich verborgen hält, wo er seinen
+Schlupfwinkel hat. Möglich, daß Sie ihn warnen wollen.
+Versuchen Sie es nicht, Fräulein Rittler. Ihr Haus
+wird bewacht und Sie würden sich große Ungelegenheiten
+zuziehen.«
 
-»Er winkte mir. »Klettere voran,.! Mir befinden
-Leder an Den über das Dach.«
+Er winkte mir. »Klettere voran...! Wir benutzen
+wieder den Weg über das Dach.«
 
-Mr â Dächte, »Wir können noch aus Bus bis
+Ich zögerte. »Wir können doch auch durch die Flurtür..."
 
-Sinke das Dach!« sagte er kurz
+»Ueber das Dach!« sagte er kurz
 
-sah ich ein, daß dieser gefährliche am von ihm ab
-Strich genial lt wurde.
+Da sah ich ein, daß dieser gefährliche Weg von ihm absichtlich
+gewählt wurde.
 
 <@pagebreak/>
 
-5. Kapitel,
+<h2>5. Kapitel.</h2>
 
 Es regnete ganz wenig. Aber die Dachrinne war
-feucht und schlüpfrig. Die Steigeisen wessen vor Nässe,
-und die Hanfleine war hart vor eingefoaener Feuchtigkeit.
+feucht und schlüpfrig. Die Steigeisen troffen vor Nässe,
+und die Hanfleine war hart vor eingesogener Feuchtigkeit.
 
 ich hielt mich krampfhaft an der Leine fest, ergriff das
 nächste Steigeisen am Rande des Atelierfensters, trat mit
 dem linken Fuß in das untere der Eisen, klomm höher,
-packte das zweite von oben ...
+packte das zweite von oben...
 
 Und — es brach ab — es blieb mir in den Fingern,
 ich rutschte, verlor auch mit den Füßen den Halt, umklammerte
-die Leine Desto fetter...
+die Leine Desto fester...
 
 Eisige Schauer jagten mir über den Leib...
 
-Unten der Abnehmt des zerflatterten Hofes...
+Unten der Abgrund des gepflasterten Hofes...
 
 Dort unten würde ich zerschellen wie eine reife Frucht,
 wenn die Leine riß...
 
-Satz Stimme dicht neben mir: »Keine Angst — ich
-Stütze Dich!« — Und ich fühlte den Druck seiner Hand in
+Harsts Stimme dicht neben mir: »Keine Angst — ich
+stütze Dich!« — Und ich fühlte den Druck seiner Hand in
 meiner linken Achselhöhle...
 
-Dann ein andere Summe über uns — gesättigt von
-satanischen Hohn:
+Dann ein andere Stimme über uns — gesättigt von
+satanischem Hohn:
 
-»Willkommen, die Herren! Wenn Ne sich nicht ruhig
-verhalten, feuern Sie in die Tiefe...!"
+»Willkommen, die Herren! Wenn Sie sich nicht ruhig
+verhalten, segeln Sie in die Tiefe...!"
 
-Eine Fahnenstange mit rundem opi erschien, dd
-te sich mir leicht Jenen die Brust...
+Eine Fahnenstange mit rundem Knopf erschien, legte
+sich mir leicht gegen die Brust...
 
 Mein Kopf beugte sich rückwärts...
 
-Da oben auf dem flachen Tuachteil zwei Männer —
-kniend, der eine mit einem hellen Zeugfetzen vor dem Oel
+Da oben auf dem flachen Dachteil zwei Männer —
+kniend, der eine mit einem hellen Zeugfetzen vor dem Gesicht.
 
-Der andere ... Gisbert Parnack, der Feind, der cm
-ne Gegner.
+Der andere... Gisbert Parnack, der Feind, der erbarmungslose
+Gegner.
 
 »Zuerst Sie, Herr Schraut!« befahl er. »Kommen Sie!«
 
-Die Fahnenstange, die mich jeden Augenblick hinabließen
+Die Fahnenstange, die mich jeden Augenblick hinabstoßen
 konnte, wich zur Seite.
 
-Und neben mir ein taumelt — hastiges Flüstern:
+Und neben mir ein Raunen — hastiges Flüstern:
 
 »Denk an die zweite Leine!«
 
 Ich wurde von Harst halb gehoben, wurde von dem
-Manne nicht dem Zeugfetzen als Maske emvoragezogen. wußte
+Manne mit dem Zeugfetzen als Maske emporgezogen, wußte
 es so einzurichten, daß ich die Leine in meine Brusttasche
-sichtbaren machte, daß das freie Ende mehr herausragte...
+sichtbarer machte, daß das freie Ende mehr herausragte...
 
 <@pagebreak/>
-Hörte Parnack droben: »Herr Harst — ein Stoß, und
-Sie sind erledigt!« — lag aus dem Bauche, fühlte, wie der
+Hörte Parnack drohen: »Herr Harst — ein Stoß, und
+Sie sind erledigt!« — lag auf dem Bauche, fühlte, wie der
 andere Kerl mir die Leine aus der Tasche riß, wie er mir
 die Hände auf dem Rücken band,
 
@@ -1271,18 +1275,18 @@ Rest der Hanfleine ab,
 Dann mußte Harald empor, mußte sich gleichfalls fesseln
 lassen,
 
-Parnacks Cihlaamafte, eine, eiserne kurze Stange,
+Parnacks Schlagwaffe, eine eiserne kurze Stange,
 schwebte hiebbereit über unseren Köpfen,
 
 Der Kerl mit dem Zeugfetzen riß mich hoch, stieß mich
-Paris — die Leiter hinab — bis zu Klara Rittlers
-Flurtür ...
+vorwärts — die Leiter hinab — bis zu Klara Rittlers
+Flurtür...
 
 Und Parnack folgte mit Harst, läutete jetzt, ließ uns
 nicht aus den Augen, hatte eine Taschenlampe vor die Brust
-etnöpft, ließ uns seinen Moment darüber im Zweifel
-ß er uns den Schädel einschlagen würde, falls wir auch
-ur laut husteten,
+geknöpft, ließ uns keinen Moment darüber im Zweifel,
+daß er uns den Schädel einschlagen würde, falls wir auch
+nur laut husteten,
 
 Die Rittler fragte durch die Tür, wer draußen sei
 
@@ -1290,8 +1294,8 @@ Die Rittler fragte durch die Tür, wer draußen sei
 
 Sie stand dann vor uns — geisterbleich — stumm
 
-»Geh’ in Deine Schlafstube,« flüsterte Parnack Zeitig,
-Geh’, ich werde ...«
+»Geh’ in Deine Schlafstube,« flüsterte Parnack heftig.
+Geh’, ich werde...«
 
 Sie gehorchte Schon — verschwand...
 
@@ -1300,40 +1304,40 @@ auf das Sofa,
 
 Parnack spielte mit der Eisenstange.
 
-»Hof Die andere Leine vom Dach,« Tante er zu dem
-seinen, stiernackiger Kerl, »Wir werden die Schnüffler
+»Hol’ die andere Leine vom Dach,« sagte er zu dem
+kleinen, stiernackiger Kerl. »Wir werden die Schnüffler
 fortschaffen, erst noch sicherer binden, — rasch!«
 
 Der Mann schlich davon,
 
-Nun zeigte sich, daß Haralds Erfindung sich bewährte,
+Nun zeigte sich, daß Haralds Erfindung sich bewährte.
 Nun gelang das, was sonst niemals gelungen wäre: die
-aus vier Teilen zusammenaevrehte Hanfleine riß, als Harst
-mit seiner enormen Muskelkrast die Fesseln zu sprengen
+aus vier Teilen zusammengedrehte Hanfleine riß, als Harst
+mit seiner enormen Muskelkraft die Fesseln zu sprengen
 suchte! Die vier Teile waren an verschiedenen Stellen von
-»im daheim mit dem Messer dünner geschaltet worden — fü
-an, daß sie bei genstacudem Druck reißen mußten!
+ihm daheim mit dem Messer dünner geschabt worden — so
+dünn, daß sie bei genügendem Druck reißen mußten!
 
-sich spürte die leichte Erschütterung, als Harald so seine
-Ende frei machte...
+ich spürte die leichte Erschütterung, als Harald so seine
+Hände frei machte...
 
 <@pagebreak/>
-Ich sah, daß in Parnacks Aus: las Mißtrauen aufglomm...
+Ich sah, daß in Parnacks Augen das Mißtrauen aufglomm...
 
-Mai die Eisenstange hochfahren — sah Harte linken
-Arm blitzschnell emporschießon — hörte den Fausthieb,
-der anderen Hand, Die’ Barnıda Herzarube traf.
+Sah die Eisenstange hochfahren — sah Harsts linken
+Arm blitzschnell emporschießen — hörte den Fausthieb,
+der anderen Hand, die Parnacks Herzgrube traf.
 
-Wie ein Kloß schlug der Verbrecher nach hinten um,
+Wie ein Klotz schlug der Verbrecher nach hinten um,
 
 Harst war schon über ihm, warf ihn auf den Bauch,
-An die Arme des Halbbenmftloien nach hinten, knotete
+riß die Arme des Halbbewußtlosen nach hinten, knotete
 sein Taschentuch um die Gelenke...
 
 Und befreite dann auch mich, eilte in den Flur, auf
-den Vorboden ...
+den Vorboden...
 
-am mit dem Stiernackigen zurück, hielt ihn mit der
+Kam mit dem Stiernackigen zurück, hielt ihn mit der
 Clement in Schach.
 
 Nun saßen da zwei andere auf dem Sofa. An der
@@ -1341,182 +1345,184 @@ Wand lehnte die blasse, verstörte Malerin.
 
 Parnack schnappte nach Luft, erholte sich langsam,
 
-ein Griff — der Zeuglappen fiel, und Bar Ironie
+ein Griff — der Zeuglappen fiel, und Harst fragte
 die Blonde:
 
 »Kennen Sie den Mann?«
 
 »Portier Meinke,« hauchte sie,
 
-»Und der.., 2 Harst wies auf Parnack. — Er be
-antwortete dann selbst die Frage: »Sie befinden sich
+»Und der...?« Harst wies auf Parnack. — Er beantwortete
+dann selbst die Frage: »Sie befinden sich in
 einem Irrtum, Fräulein Rittler, wenn Sie diesen Mann
-für ihren alten Bekannten mit dem Vornamen Fritz haben,
+für ihren alten Bekannten mit dem Vornamen Fritz halten.
 Dieser Mann ist in Wahrheit der wegen Mordes,
-Raubes und anderer Delikte gesuchte ehemalige Bürovor-eber
+Raubes und anderer Delikte gesuchte ehemalige Bürovorsteher
 Gisbert Parnack,«
 
-Die blonde Malerin fand wieder ihr leicht Den
-Lächeln, »Das ist wohl ausaeschlolseon, Herr Harst, Ich
-Tenne ihn von Jugend an. Wir sind zusammen ausgewachsen.
+Die blonde Malerin fand wieder ihr leicht ironisches
+Lächeln. »Das ist wohl ausgeschlossen, Herr Harst. Ich
+kenne ihn von Jugend an. Wir sind zusammen aufgewachsen.
 Er kann schon deshalb nicht jener Parnack sein,
-weil er...« Sie schwieg plötzlich. wurde verlegen
+weil er...« Sie schwieg plötzlich, wurde verlegen
 
-»Sie meinen, weil er soeben erst aus einer Sitrasan-Fatt
-entflohen ist, nicht wahr? — Sich fand nämlich in die
-jenem Gemüsekeller. in einem  2erbrecdherichlunfwinfef in!
-Südosten Berlins außer der buchasdrüchen Adresse einer
-mit Fintenftiit ausgefüllten Postanweisung, die an Sie See
-richtet war und über, 170000  Blatt faulste, und einem
-Siräflinasanma...
+»Sie meinen, weil er soeben erst aus einer Strafanstalt
+entflohen ist, nicht wahr? — Ich fand nämlich in einem
+Gemüsekeller, in einem Verbrecherschlupfwinkel im
+Südosten Berlins außer der durchgedrückten Adresse einer
+mit Tintenstift ausgefüllten Postanweisung, die an Sie gerichtet
+war und über, 170000 Mark lautete, auch einen
+Sträflingsanzug...«
 
-Blind Mitleid fmeidentes Auflachen A Bart Fernen.
+Klara Rittlers schneidendes Auflachen ließ Harst verstummen.
 <@pagebreak/>
 »Was reden Sie noch über diesen Mann?! Er
-Vorrat sein, und Parnack ist doch verhaftet worden!
-übrigen habe ich jetzt auch seinen Grund mehr, dies
-innig weiter zu hüten: der Mann ist Fritz Gerhardi,
-Neffe meiner verschwundenen Stiefmutter Nun wissen
+soll Parnack sein, und Parnack ist doch verhaftet worden!
+Im übrigen habe ich jetzt auch keinen Grund mehr, dies
+Geheimnis weiter zu hüten: der Mann ist Fritz Gerhardi,
+der Neffe meiner verschwundenen Stiefmutter. Nun wissen
 Sie es, Herr Harst! Vielleicht wissen Sie auch, daß
 Gerhardi 1920 zu fünf Jahren Gefängnis wegen
 des — Straßenraubes — verurteilt wurde, obwohl
-sei Goß mir Neune, an dem für die Tat in Betracht
-ahnenden Abend hier bei uns geweilt hat, Doch wir,
-Tier und Ich. wurden damals als Zeugen nicht vereidigt
-glaubte uns nicht,«
+er, da sei Gott mir Zeuge, an dem für die Tat in Betracht
+kommenden Abend hier bei uns geweilt hat. Doch wir,
+Mutter und ich, wurden damals als Zeugen nicht vereidigt.
+Man glaubte uns nicht,«
 
 »Endlich!« sagte Harst aufatmend. »Endlich entwirrt
-der Knoten, liebes Fräulein Rittler Hätten Sie nur
-zu mir Vertrauen gehabt, Dann. wäre es Ihnen er
-geblieben, sich hier mit Aufgebot all Ihrer festlichen
-te stützend vor Den entwichener. Siuaendfreund zu fiel:
-— Das beißt. für dessen Doppelgänger! Denn der da
-ch1 Fritz Gerhardi. Gerhardi sind im Polizeigefängnis
-nach hat besondere Kennzeichen, die an dem Verhagi-dor
-vergangenen Macht nicht gefunden wurden Die
+sich der Knoten, liebes Fräulein Rittler. Hätten Sie nur
+zu mir Vertrauen gehabt, Dann wäre es Ihnen erspart
+geblieben, sich hier mit Aufgebot all Ihrer seelischen
+Kräfte schützend vor den entwichenen Jugendfreund zu stellen
+— das heißt, für dessen Doppelgänger! Denn der da ist
+*nicht* Fritz Gerhardi. Gerhardi sitzt im Polizeigefängnis.
+Parnack hat besondere Kennzeichen, die an dem verhafteten
+der vergangenen Macht nicht gefunden wurden. Dieser
 Verhaftete, dieser Doppelgänger Parnacks, benahm sich
-dem Verhör so seltsam, daß Ich sehr bald aus den Gerufen
+bei dem Verhör so seltsam, daß Ich sehr bald auf den Gedanken
 kam, er könnte sich von Parnack durch Geld dazu
-verleiten lassen, Parnacks Rolle zu spielen. sich für
-verhaften zu lassen! Für Geld, Fräulein Rittler!!
-wußte, daß Sie, die er liebte, in Not waren. Er wir!
-ist In alles Nähere über seine Flucht und sein Zusammen-fiien
-Commis Parnack jetzt angeben. Jedenfalls: den probiert
-der Summe, die er von Parnack erhielt, sandte
-nen zu, Und dann — esse Parnack alt Fritz Gen
-Hilfen bei Seiten den schändlichen Betrug fort, vor
-Glich ohne Gerhardis Wissen Parnack kam baute zu Ihr
-— als Ihr Jugendbekannter! Ich habe Zeile ihres
-Gespräch mit ihm belauscht, Er Der Ihnen fremd geworden,
-äußerten Sie Gewiß; weil er eben nur äußerlich
-riß Gerhardi war!«
+haben verleiten lassen, Parnacks Rolle zu spielen, sich für
+diesen verhaften zu lassen! Für Geld, Fräulein Rittler!!
+Er wußte, daß Sie, die er liebte, in Not waren. Er wird
+uns ja alles Nähere über seine Flucht und sein Zusammentreffen
+mit Parnack jetzt angeben. Jedenfalls: den größten
+Teil der Summe, die er von Parnack erhielt, sandte
+er Ihnen zu. Und dann — setzte Parnack als Fritz Gerhardi
+hier bei Ihnen den schändlichen Betrug fort, natürlich
+ohne Gerhardis Wissen. Parnack kam heute zu Ihnen
+— als Ihr Jugendbekannter! Ich habe Teile Ihres
+Gespräch mit ihm belauscht. Er sei Ihnen fremd geworden,
+äußerten Sie. Gewiß: weil er eben nur äußerlich
+Fritz Gerhardi war!«
 
 »Mein Gott!« rief die blonde Malerin und starrte
-graue lange an »Das — Das alles kann ja nicht sein!
-(sie Mebnlichleit — diese Stimme,. |»
+Parnack lange an. »Das — das alles kann ja nicht sein!
+Diese Aehnlichkeit — diese Stimme...!«
 
 <@pagebreak/>
-»Es ist so, Fräulein Visiten! — Schraut wird ist
-sofort das Präsidium anläuten Gerhardi wird Meer
-gebracht werden, Dann können Sie sich durch den Bin: ie
-Schein überzeugen, daß, die beiden Männer — — Amiliiiiie-brüder
-fein müssen!!!« Nur unter Aufbringen findet nun
+»Es ist so, Fräulein Rittler! — Schraut wird jetzt
+sofort das Präsidium anläuten. Gerhardi wird hierher
+gebracht werden. Dann können Sie sich durch den Augenschein
+überzeugen, daß die beiden Männer — — Zwillingsbrüder
+sein müssen!! Nur unter Zwillingen findet man
 diese Aehnlichkeit, Die sich bis auf die Stimme, einzelne
-orafteriftiiche Bewegungen und Gleichheit der Aura
-Farbe Grinst, — eine Frage noch: Voran besuchte Sie
-heute als ri Gerhardi zum ersten Male seit seiner
-lud f« y;
+charakteristische Bewegungen und Gleichheit der Augenfarbe
+erstreckt. — Eine Frage noch: Parnack besuchte Sie
+heute als Fritz Gerhardi zum ersten Male seit seiner
+Flucht?«
 
-»Ja... Er kam gegen sieben Uhr abends zu mir Mitsamt
-hatte ich das Geld Erhalten. Als Absender stand
-Fritz Sacht auf dem Vostgbschnmtt, Dich hatte Die Sehr
-sofort erkannt, wußte ja auch. daß Fritz sich als Freche
-Spieler Gardi zuweilen genannt hatte Ich empfing
-mit aufrichtiger Freude, mit größter aha an das
-heißt, den anderen, den Mann da, den Parnack Ich
-ahnte ja nicht, daß er nicht Fritz sei Nur — nur ein umso
-flärliches Gefühl »grünlich aufkeimender Abneigung hielt
-mich sehr bald in Bann. rot begreife ich in wie es Nie
-standen ist, jetzt Endlich/»
+»Ja... Er kam gegen sieben Uhr abends zu mir. Mittags
+hatte ich das Geld erhalten. Als Absender stand
+Fritz Gardi auf dem Postabschnitt. ich hatte Die Schrift
+sofort erkannt, wußte ja auch, daß Fritz sich als Kinoschauspieler
+Gardi zuweilen genannt hatte. Ich empfing ihn
+mit aufrichtiger Freude, mit größter Herzlichkeit, — das
+heißt, den anderen, den Mann da, den... Parnack. Ich
+ahnte ja nicht, daß er nicht Fritz sei. Nur — nur ein
+unerklärliches Gefühl plötzlich aufkeimender Abneigung hielt
+mich sehr bald in Bann. Jetzt begreife ich ja, wie es
+entstanden ist, jetzt endlich.«
 
-»Und was faule Parnack-Gerhardi Ihnen über die
-Denk des Geldes, von dem er Ihnen einen Teil tun
-taucht hatte?«
+»Und was sagte Parnack-Gerhardi Ihnen über die
+Herkunft des Geldes, von dem er Ihnen einen Teil zugeschickt
+hatte?«
 
-»Er behauptete, er habe ein Bantnoienpafer in der
-Mann gefunden.«
+»Er behauptete, er habe ein Banknotenpaket in der
+Stadtbahn gefunden.«
 
-— sehr einfach! — Und dann Bekenne er Sie
-zum Kl mit Liebesanträagen. ehe triefen ihn ab.«
+»Ah so — sehr einfach! — Und dann bestürmte er Sie
+zum Schluß mit Liebesanträgen. Sie wiesen ihn ab.«
 
-Sie errötete, nickte, »ja — das Heult der Entfremdung
-hatte sich noch gesteigert — zum Glück, Mein Herz
-er mir gesagt, bat es nicht Fritz sei Nun ist mir alles
-an,«
+Sie errötete, nickte. »Ja — das Gefühl der Entfremdung
+hatte sich noch gesteigert — zum Glück. Mein Herz
+hat mir gesagt, daß es nicht Fritz sei. Nun ist mir alles
+klar.«
 
-»Und »was verlangte Parnack noch von Ihnen?«
-Daß ich ihn bei mir verbergen hoffe ’ Er behauptete.
-Harst und Bekommt seien hinter ihm, dem entsprungenen
-träflina, her. Da erst fiel mir ein, daß ich Sie verarbeiten
-hatte, Herr Harst, Da schrieb Ab Ihnen den Mohr
-Wertbrief. Das war gegen acht Uhr. Ne versprach dem
-dem Betrüger da, ihm Unterschlupf zu gewähren, Ich Mußte
-vom natürlich mitteilen, weshalb ich Sie besucht hätte —
+»Und was verlangte Parnack noch von Ihnen?«
+
+Daß ich ihn bei mir verbergen solle. Er behauptete,
+Harst und Schraut seien hinter ihm, dem entsprungenen
+Sträfling, her. Da erst fiel mir ein, daß ich Sie hergebeten
+hatte, Herr Harst. Da schrieb ich Ihnen den Rohrpostbrief.
+Das war gegen acht Uhr. Ich versprach dem
+dem Betrüger da, ihm Unterschlupf zu gewähren. Ich Mußte
+ihm natürlich mitteilen, weshalb ich Sie besucht hätte —
 <@pagebreak/>
-eben des acheimméêvollen Anstifters Deren Und er — er
+eben des geheimnisvollen Fensters wegen. Und er — er
 lächelte dann so eigentümlich, meinte: »Die beiden
-werden formen — Zeitraum konnten sie! Ich werde mich
-ist ihnen erringen« Nachher, als er einmal: an die Luke
-Scheibe trat, hörte er etwas das fhhräne Exhielerdah blonde
-rollen Da sagte er mit. daß Sie beide ihm auflauerten
+werden kommen — bestimmt kommen sie! Ich werde mich
+mit ihnen einigen.« Nachher, als er einmal an die Luftscheibe
+trat, hörte er etwas das schräge Schieferdach hinabrollen.
+Da sagte er mir, daß Sie beide ihm auflauerten
 und daß er sich zum Schein entfernen würde. ich war
-ihm zu Dank verpflichten, Herr Harst. schick breit ihn für
-Keil Gerhardi — bis jetzt! Härte ich auch nur im rattern
-testen die Wahrheit meabnt, so würde ich mich anders des
-benommen haben.«
+ihm zu Dank verpflichtet, Herr Harst. Ich hielt ihn für
+Fritz Gerhardi — bis jetzt! Hätte ich auch nur im entferntesten
+die Wahrheit geahnt, so würde ich mich anders benommen
+haben.«
 
 »Sie sind durchaus entschuldigt, Fräulein Rittler,«
-strafte Harst gütig »in jeder Beziehung — zumal der
-Parnack, der Doppelgänger,
-er nutzte
-Hob Gerhardi einsperren und —
-wird ihn jetzt durch seine Helfershelfer haben betreten
-Essen, um ihn hier weiter für seine Zurufen Anrede schlau:-
-Oh zu können, deren erster der war, Gerhardi an seiner
-»Stelle der Polizei in die Hände zu vielen »-« hier bei
-Rügen als Gerhardi auftreten zu Sonnen. Parnack sollte
-»eben Scheinbar unibädlich gemacht sein, damit der echte
-Vorrat weiter im Trüben fischen könnte, unbelästigt durch
-Bart und Schraut! riß Gerhardi wird über hat. was
-bei alledem noch dunkel, Aufschluß neben«
+erklärte Harst gütig. »in jeder Beziehung — zumal
+Gerhardi unschuldig und Parnack, der Doppelgänger, jenen
+Straßenraub ausgeführt haben wird. Er kannte eben Gerhardis
+Aehnlichkeit mit seiner eigenen Person, er nutzte
+diese Aehnlichkeit aus, ließ Gerhardi einsperren und —
+wird ihn jetzt durch seine Helfershelfer haben befreien
+lassen, um ihn hier weiter für seine dunklen Zwecke gebrauchen
+zu können, deren erster der war, Gerhardi an seiner
+Stelle der Polizei in die Hände zu spielen und hier bei
+Ihnen als Gerhardi auftreten zu können. Parnack sollte
+eben scheinbar unschädlich gemacht sein, damit der echte
+Parnack weiter im Trüben fischen könnte, unbelästigt durch
+Harst und Schraut! Fritz Gerhardi wird über das was
+bei alledem noch dunkel, Aufschluß geben«
 
-Er wandte ich Gisbert Voran und dem Portier zu.
+Er wandte sich Gisbert Parnack und dem Portier zu.
 
-Parnack das Schicksal bat Sie nun ereilt,« sagte er
-sehr »ernst. »Was Ihrer barer, wissen Sie. Wollen Sie
-eingestehen. weshalb Sie Gerhardi die Freiheit verschafften
-und was Ihre weiteren Absichten waren? Ja komme
+»Parnack, das Schicksal hat Sie nun ereilt,« sagte er
+sehr ernst. »Was Ihrer harrt, wissen Sie. Wollen Sie
+eingestehen, weshalb Sie Gerhardi die Freiheit verschafften
+und was Ihre weiteren Absichten waren? Ich komme
 ja doch dahinter.« Parnack grinste. Die ganze teuflische
-Verworfenheit seines Charakters log in diesem ge
-einen Grinsen. Nr,
+Verworfenheit seines Charakters lag in diesem gemeinen
+Grinsen.
 
-mach Marode lud ist, Bad einaunehieben,« weint
-er Ei überlegenem Hohn »Nu! eins sollen Sie willen:
-Keil Berhbarbi ist mein Zwillingsbruder den unsere ob
-hierin ganz jung Fremden Leuten an Kindes Statt überließen,
-— seine Befreiung vor drei Tagen ist mein Wert!«
+»Ich werde mich hüten, etwas einzugestehen,« meinte
+er mit überlegenem Hohn. »Nur eins sollen Sie wissen:
+Fritz Gerhardi ist mein Zwillingsbruder den unsere Eltern
+ganz jung Fremden Leuten an Kindes Statt überließen,
+und — seine Befreiung vor drei Tagen ist mein Werk!«
 
-»Und das Mansardenfenster drüben. der Gehenkte!«
+»Und das Mansardenfenster drüben, der Gehenkte?«
 
 <@pagebreak/>
-Parnack rate. »Unsinn! Das Weib faselt, hat geträumt!
-Ein Gebenkterk! Lächerlich! Jedenfalls habe
+Parnack lachte. »Unsinn! Das Weib faselt, hat geträumt!
+Ein Gehenkter?! Lächerlich! Jedenfalls habe ich
 damit nichts zu schaffen!«
 
-»Wie Sie wollen! — Schraut. seh« und telephoniere
+»Wie Sie wollen! — Schraut, geh’ und telephoniere
 an die Polizei. Bechert soll kommen. Hier« — und seine
-Sir schwoll an — »hier wird der Gehenkte durch wohl
-eimae& verraten! Das geheimnisvolle Fenster wird wohl
+Stimme schwoll an — »hier wird der Gehenkte durch wohl
+einiges verraten! Das geheimnisvolle Fenster wird wohl
 die Ueberleitung zu der Aufklärung des Motives der Ermordung
 Frau Gerhardis sein, deren Leiche nun endlich
 gefunden ist!«
@@ -1527,14 +1533,14 @@ Parnack aber wurde aschfahl
 
 Ich ging bis zur nächsten Polizeiwache.
 
-Und damit Jäger der zweite Teil dieses Abenteuers-oan,
-das uns noch durch zwei Weltteile hetzen sollte.
+Und damit fängt der zweite Teil dieses Abenteuers
+an, das uns noch durch zwei Weltteile hetzen sollte.
 
 <@pagebreak/>
 
 <h1>Der Mann mit dem Klumpfuß.</h1>
 
-1. Kapitel.
+<h2>1. Kapitel.</h2>
 
 »Bank derselben regnerischen Aden 16
 ten zum 7 die! morgens zwei Uhr.
@@ -1596,7 +1602,7 @@ Meinke von Herüber langte, daß ich Fräulein Blitzten hier
 des öfteren sah und mich in sie verliebe,«
 
 »Und da haben Sie Frau Gerhardi, die Tante ihres
-Awillingsbruders, beseitigt, weil Sie fürchteten, diese könnte
+Zwillingsbruders, beseitigt, weil Sie fürchteten, diese könnte
 merken, daß Sie nicht Fritz Gerhardi waren!«
 
 »So ist’s,« erklärte Parnack mit verdächtiger Bereits
@@ -1616,7 +1622,7 @@ geben Sie ebenfalls zu?«
 Filz Gerhardi stieß vor jäh aufsteigenden Grimm
 einen röchelnnen Laut aus,
 
-»Beamte — Schurke, — Und ich... ich..."
+»Beamte — Schurke, — Und ich... ich...«
 
 Harald legte ihm rasch die Hand auf die Lautlos,
 
@@ -1809,13 +1815,13 @@ schmutzigen Fenstervorhangs.
 
 Noch zwei Schritte der Mitte des Raumes zu.
 
-Dann sahen wir ... den Gehenkten, haben auch das
+Dann sahen wir... den Gehenkten, haben auch das
 Frohe Astloch in der Bretterwand, aus dem vom Neben
 räume der ein breiter, greller Schein in die Stube hinein«
 fiel — zwischen den Puppenstuben hindurch, die wir gar
 nicht beachtet hatten...
 
-Und in diesem Licótkeael hing eine halbarmlanae
+Und in diesem Licótkeael hing eine halbarmlange
 Kuppe — einen Mann darstellend — an einem Bindfaden,
 der um den Hals geschlungen war, von dem einen Rade
 eines Puppenwagens herab, hing frei in der Luft, etwa
@@ -1866,9 +1872,9 @@ Wir dichten die Radlaterne aus und gingen wieder
 Bis den Vorboden.
 
 Und da — da hörten war plötzlich den schwachen
-Saal von drei — vier Schütten ...
+Saal von drei — vier Schütten...
 
-2. Kapitel.
+<h2>2. Kapitel.</h2>
 
 Vorrat!« riet Harst leise. »Parnack flieht... 1°
 
@@ -1970,7 +1976,7 @@ S/n! Bild eines Schriftstücks,
 
 ich mir die Platten nachher genau besah, gab ich
 Harald recht: die Buchstaben und Worte des verarötertien
-Schreibens glichen etwa denen der Abdrücke einer Tinten-Mt
+Schreibens glichen etwa denen der Abdrücke einer hinten-Mr
 auf einem sehr © Loscblatt, Das falsch! As
 »Wesen und auf dem die Abdrücke bis zu völliger Nattern:-
 Schreit verlaufen waren
@@ -1982,12 +1988,12 @@ Brate Harald eignet!
 Aststück von Pumpe zu einer Gaunerei großen Stils
 nutzt werden sollte.«
 
-Er formte einen großen Rauchrina, blies einen Heiseren
+Er formte einen großen Rauchring, blies einen Heiseren
 hindurch und fuhr fort:
 
 Ah allweise, wir hätten das Bildchen gefunden,
 on dem diese Platten die Verarößerutigen darstellen, mein
-Ufer, — dem, um 02 gleich zu betonen: Dieses sind Wer ı
+Ufer, — dem, um 02 gleich zu betonen: Dieses sind Wer I
 belangen einer eittzjlaen Photographie eines Schrillte,
 Mr des Schriftliches selbst,«
 
@@ -2120,7 +2126,7 @@ Auf unseren Karten, die wir ihm hineingeschiclt hatten,
 waren wir Amsterdamer Detektive namens van Booren
 und van ten Groot.
 
-Die Unterhaltung wurde In sranmzö"«-r Sprache geführt.
+Die Unterhaltung wurde In sranmzö«-r Sprache geführt.
 Holländisch verstand der Advokat zum Glück nicht.
 Frech nämlich auch nicht,
 
@@ -2190,7 +2196,7 @@ Der Notar machte einen Luftsprung vor Entzücken.
 Sie und ein Genie, Herr van Booren, ein echtes Toter
 
 »ich müde nun, da ich ein Verbrechen hinter diesen«
-ermröherunge des Photoorammé des Schriftstücks wir
+ermröherunge des Photogramms des Schriftstücks wir
 gern ein Titeln, was Diele gestempelte Urkunde entsank
 un’ere Diskretion. können Sie sich platten,«
 
@@ -2208,7 +2214,7 @@ E17 stand aus, schloß den Stahlschrank auf und nahm
 <@pagebreak/>
 an Mltenläüd heraus. lächelte abermals pfiffig und er
 Warte: »Ich bin erst Ten Amen- Fahren »Notar, die Zahl
-der Testamente All nicht alizuaroß, wie Sie schon, Suchen
+der Testamente All nicht allzugroß, wie Sie schon, Suchen
 wir von Wir I an, Zinn dasUruhere meiner Abschritt
 muß uns die Arbeit erleichtern, da ich Diele Abschriften in
 der Anordnung der Zeilen und so weiter genau dem Ok:
@@ -2235,7 +2241,7 @@ Er war Bälle betrauert, der Meine, dürre Mann,
 Und dann lasen wir die in französischer Sprache ab
 @erachte letztwillige Verfügung Mut wachsender Spannung.
 
-3. Kapitel.
+<h2>3. Kapitel.</h2>
 
 > Maler,
 
@@ -2273,8 +2279,8 @@ ward meinem Erben dann die auf die Tempelruine As
 Eichen Papiere und alles andere aushändigen. — Ich des
 Wo Wie die, daß ich seinerzeit aus Abenteuerlust meine Mutter
 verlassen habe, hoffe jedoch, vbs! sie von mir dem
-bebenden Geldunterstüßungen abgelehnt hat, durch dieses
-Testament ihren Lébensabend sorglos Au gestalten und ihr
+bebenden Geldunterstützungen abgelehnt hat, durch dieses
+Testament ihren Lebensabend sorglos Au gestalten und ihr
 beweisen, daß ich ihrer stets in Liebe gedacht habe. Mr
 Jenem lösten Gruß für meine Mutter und meine Bare,
 Wenig für meinen Vetter Fritz Gerhardi schliefe ich diese
@@ -2282,7 +2288,7 @@ rásfligen Beslmnrtunaen.
 
 Dieses Testament so! dem Erben erst nach meinem
 è zugehen, Bis dahin soll der Notar, der meine Unter
-ist bealaubtat, es in sicherem Gewahrsam Rum uns
+ist beglaubigt, es in sicherem Gewahrsam Rum uns
 nie einem Unberufener zeigen.
 
 > @ten erbe. Blond.
@@ -2291,7 +2297,7 @@ nie einem Unberufener zeigen.
 
 > des Korporals Branker erschwert.
 
-> wird bealaubiat.
+> wird beglaubigt.
 
 > Dr. Jean de Sartarella. Notar.
 
@@ -2300,7 +2306,7 @@ Harald legte die Urkunde war sich auf den Tisch,
 
 »Bezahlter ist also besüimmt verstorben?« fragte er.
 
-»Ja, Herr van Booren, — am Sumpsficber in Indochina
+»Ja, Herr van Booren, — am Sumpffieber in Indochina
 alt $ Januar dieses Jahres.«
 
 »Und wem sandten Sie das Testament?«
@@ -2377,7 +2383,7 @@ schritt Schweigend neben mir der.
 Namen wieder auf den Boulevard de ja Republique.
 Wir waren wieder auf der schattigen Mittelpromentade,
 glitten den Saälzaeruch des Meeres, Bad da vor uns jen-eitó
-der steinernen Hasendänane im Sonnenalast schillerte.
+der steinernen Hasendänane im Sonnenglast schillerte.
 
 Und da war’s, daß Harald mich vlôulih Unterkaste,
 weinen Arm drückte
@@ -2406,7 +2412,7 @@ der Reifen des bissigen Wollseiarfänanilied zieren«
 
 <@pagebreak/>
 Wir lernten Algier kennen. Der Mann stampfte durch
-alle belebteren Strafen. Augenscheinlicd suchte er wich,
+alle belebteren Strafen. Augenscheinlich suchte er mich,
 sich jemand! und beide!
 
 Bis er In der Rue de Orleans in einem maurischen
@@ -2472,7 +2478,7 @@ sie ihre wohlgespiciien Por1efeuilles
 
 Alles schrie, brüllte aus die Polizeibeamten ein
 
-Alles deutete auf Harald, dessen falscher blonder Hol-Tänderbart
+Alles deutete auf Harald, dessen falscher blonder Hob-Landschaft
 sich zum Unglück auf der einen Seine gelöst
 E
 
@@ -2497,7 +2503,7 @@ so entgegenkommend. daß sie Harald gestatteten, den
 Notar Dr. Sartarcella anzurufen
 
 Sartarella benahm sich sehr. anständig, kam sofort auf
-Woche und erreichte, daß man uns unter einigen füh-Entichuldiqunoësworten
+Woche und erreichte, daß man uns unter einigen jäh-Entichuldiqunoësworten
 wieder freiließ.
 
 Mir fuhren ins Hotel. Harsts Schädel war unsförmia
@@ -2525,7 +2531,7 @@ Horizont zu erblicken war, sagte Harst mit verbissener Wut:
 »So — nun nach Tonkin! damit wir den Schuften
 dort zuvorkommen!« &
 
-4. Kapitel.
+<h2>4. Kapitel.</h2>
 
 Wir hatten Glück, Als der Dampfer in der Kanalstadt
 Suez ankerte, machte Harald mich auf eine elegante
@@ -2643,7 +2649,7 @@ Malaien! Und — fanden Sie nicht auch, daß dieser Mr. Bunt
 barsch Weber einer uns mit seinem Matorfuttexr entgeagene
 Islam — Ran; so, als hätte er auf und gewartet?! Und —
 sahen Sie, wie kraftvoll der Sah war, mit dem er vom
-Fallreep auf sein Boot hinübersprana, und wie das Boot
+Fallreep auf sein Boot hinübersprang, und wie das Boot
 Dann plötzlich auf dem Rückweage zur Bucht eine Flagge
 dicke?! Geschah das uns zu hier?!«
 
@@ -2692,7 +2698,7 @@ sei, stimmt nicht. Ich Raube sein erhitzt aus. Ich
 verlange nur eine — na sagen wir.. eine Steuer, je nach
 »Größe des Schiffes, Ich bin auch erst [riß kurzem hier in
 der verlassenen Plantage ansässig, die des Fiebers wegen
-geräumt worden ist. Mein Arbeitsield liegt jenseits
+geräumt worden ist. Mein Arbeitsfeld liegt jenseits
 der Spiel Hainan — dort im Osten.«
 
 »was verlangen Er?« fragte Wulpoore rasch. »Ich
@@ -2753,7 +2759,7 @@ Ehracsühl appelliert.«
 Niemand glaubte ihm das. Niemand wagte derb.
 ihn noch mit Fragen zu bestürmen.
 
-5. Kapitel.
+<h2>5. Kapitel.</h2>
 
 Morgens um a weckte Harald mich.
 
@@ -2783,7 +2789,7 @@ Per-Kanons lag. Von Per-Kanons Führt
 ein fester, fahrbarer Weg nach der Westküste der Insel, die
 von hier nur eine Stunde entfernt war.
 
-Der Tempel Selbft, aus schwarzen Felsblöcken erbaut:
+Der Tempel Selbst, aus schwarzen Felsblöcken erbaut:
 Und mit einem bereits sehr schadhafter Balkendache versehen,
 stand auf einer Bergterrasse inmitten haushohen
 Dornengestrüpps und zeigte die Architektur all dieser alten
@@ -2819,7 +2825,7 @@ doch. Daneben war aus Zweigen eine Hütte errichtet.
 
 Der hin kletterte auf den unförmmia Eisen Bauch
 <@pagebreak/>
-des Gottes und ... hob den wie ein Keil in den Rumpf
+des Gottes und... hob den wie ein Keil in den Rumpf
 eingesetzten Kopf und Hals des Götzen herab, reichte ihn
 jung und griff dann mit der Rechten in das Loch des
 Kampfes hinein, holte zwei längliche Lederbeutel hervor,
@@ -2840,7 +2846,7 @@ rate.
 
 Duncanly lehnte noch draußen an der Säule. Er
 traute nichts, rauchte eine Zigarette und war nur einen
-flüchtigen Bad auf unsere Schulterlaften.
+flüchtigen Bad auf unsere Schulterlasten.
 
 Ich hatte betet durch Berühren festgestellt, daß sich
 4n dem Safe, den ich auf der Schulter schleppte, eine in
@@ -2879,7 +2885,7 @@ Korporal Branker seinen Erben geraten, sich bis Tonkin
 A bemühen?! — Nun, mir ist das gleichgültig. Wie
 lange sollen wir denn noch hier in der Bucht bleiben?«
 
-Vielleicht drei bis vier Tage, Wolpoore, Bis Par-Abaesandte,
+Vielleicht drei bis vier Tage, Wolpoore, Bis War-Abgesandte,
 Die mir ja das Erfennungsiwort Durch
 mir gestohlene Abschrift des Testaments wissen, hier
 maskierten sind. Ehe werden den Tempel von der Verteilte
@@ -2911,7 +2917,7 @@ ner Selbstladepistole in der Hand, — sahen auch Bureau
 In& zehn Piraten, die mit ihren Karabinern hinter Felsstücken
 vor der Tempeltreppe Boden.
 
-Das war also eine reaelrechte Belagerung. Das war
+Das war also eine regelrechte Belagerung. Das war
 nach diesen Tagen des öden Eigenheit an Bord der India
 eine angenehme Abwechslung,
 
@@ -2983,7 +2989,7 @@ Er schnellte vorwärts — riß einen Revolver hervor.
 In »Halt. Schurke. Mörder!« brüllte er mit einem Gen, fl
 <@pagebreak/>
 menaufwand, daß der Klumpfuß unwillkürlich im Laufe
-innehielt ...
+innehielt...
 
 Und — er brüllte die Worte in Deutscher Sprache
 
@@ -3008,7 +3014,7 @@ Teltamenidabicktift.
 Duncanly hatte schweigend zugesehen, wie Harst dem
 Toten den falschen Bart und die Perücke abnahm. Dann
 hatte er sich megaewandt und war Davongegangen, schicke
-uns aus dem Dorfe Per-langst den weißen Polizeimeister
+uns aus dem Dorfe Verlangst den weißen Polizeimeister
 und vier Männer. Seine Malaien und der alte Tonkinese
 verschwanden Damm ebenfalls. —
 
@@ -3025,7 +3031,7 @@ von »Korporal Branker«) wurden die beiden
 Nebensache geöffnet, Die beiden Götzenstatuen waren aus
 Holz geschnitzt und zum Teil sehr dick mit Gold ausgelegt.
 Sie stehen heute im Museum für Völkerkunde. Das
-Museum kaufte sie Klara Rittler für eine Phantosiesumme
+Museum kaufte sie Klara Rittler für eine Phantasiesumme
 ab, die ein unaenannter Gönner zur Verfügung stellte.
 
 Die blonde Malerin ist längst Frau Gerhardi.
@@ -3047,7 +3053,7 @@ Nächster Band:
 __Anita gewandt Verhängnis.__
 
 
-Wir weiten alle Freunde der Bis Harsi-Abenteuer
+Wir weiten alle Freunde der Bis Harst-Abenteuer
 darauf hin, daß aus Anlaß der
 Herausgabe des 100sten Harslbanbdes
 
