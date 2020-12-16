@@ -95,7 +95,7 @@ der Wand an einem Nagel hing jetzt Mutz’ Vogelbauer, und
 der kleine gelbgrüne Künstler hüpfte vergnügt von einer
 Stange auf die andere, fuhr zuweilen mit dem Schnabel
 über die Gitterstäbe hin wie über die Saiten einer Harfe
-und schien froh, daß feine Gefangenschaft im Gerätewagen
+und schien froh, daß seine Gefangenschaft im Gerätewagen
 beendet war.
 
 Harald erhob sich plötzlich, nachdem sein Blick eine
@@ -346,14 +346,14 @@ wert.«
 
 Dann strich er das Seidenpapier glatt.
 
-Stutzte, deutete mit beim Finger auf einen lila Fleck
+Stutzte, deutete mit dem Finger auf einen lila Fleck
 des Papiers.
 
 Ich beugte mich vor. Der Fleck war ein Stempel:
 
-> Heinrich Sturz.
+> Heinrich Sturz,
 
-> Rechnungsrat.
+> Rechnungsrat,
 
 > Berlin, Passauerstraße 119.
 
@@ -455,7 +455,7 @@ Strafe.
 Als er sich dem Komposthaufen auf Seitenwegen genähert
 hatte, war ihm ein auf einer Bank sitzender Mann
 aufgefallen, dessen zusammengesunkene Haltung seinen
-Argwohn erregte. Er trat an den Menschen heran stieß ihm
+Argwohn erregte. Er trat an den Menschen heran, schob ihm
 den Hut aus dem Gesicht und sah sofort, daß der Mann tot
 war. Außerdem bemerkte er aber auch an der linken Halsseite
 unter dem blutdurchweichten Kragen eine Stichwunde.
@@ -494,7 +494,7 @@ Harst setzte das Glas ab.
 »Das ist kein inländisches Reptil,« meinte er. »Es ist
 eine —«
 
-Neben und war Jakob Pfitzhuber erschienen, rief leise:
+Neben uns war Jakob Pfitzhuber erschienen, rief leise:
 
 »Ah — die Bestie — die Bestie!«,
 wollte vorwärtsstürmen, wurde von Harald am Arm gepackt,
@@ -570,7 +570,7 @@ Wir beide kamen uns hier am Tatort bald sehr überflüssig
 vor. Wir hatten ausgesagt, was wir wußten, hatten
 jedoch in Rücksicht auf Pfitzhuber die Sandviper verschwiegen.
 Gerade als wir davongingen, kam Freund
-Jakob in Begleitung eine Kriminalbeamten herbei, der ihn
+Jakob in Begleitung eines Kriminalbeamten herbei, der ihn
 geholt hatte. Er trat rasch an uns heran.
 
 »Hab’n ’s Mistvieh erwähnt?« fragte er stockend.
@@ -651,7 +651,7 @@ wir verließen den Wagen und den Rummelplatz.
 <h2>3. Kapitel.</h2>
 
 »Undankbar und unverschämt!« sagte ich draußen
-Reise zu Harald in Bezug auf unseren Jakob, der plötzlich so
+leise zu Harald in Bezug auf unseren Jakob, der plötzlich so
 wenig angenehme Charakterseiten enthüllt hatte.
 
 »Hm —!« machte Harst nur.
@@ -745,10 +745,10 @@ mir das freie Ende unter die Augen.
 
 »Ja. Ein blasiger Schleim —«
 
-»Vergiß das nicht: blutiger Schleim! — So, nun wollen
+»Vergiß das nicht: blasiger Schleim! — So, nun wollen
 wir versuchen, Pfitzhubers Spuren zu folgen, die er
 hervorrief, als er vorhin die Viper suchte und das Stück
-Schlucke aufhob. Vielleicht hat er die Schlange gleich irgendwo
+Schlacke aufhob. Vielleicht hat er die Schlange gleich irgendwo
 verscharrt. Ich möchte sie mir gern ansehen.«
 
 Es war nicht ganz leicht, die Stelle in dem Komposthaufen
@@ -770,7 +770,7 @@ erwachenden Straßen nach Schmargendorf hinaus.
 Ich glaubte nun endlich eine Einzelheit zur Erörterung
 stellen zu können, über die Harald bisher völlig achtlos
 hinweggegangen war, wie ich schon erwähnt habe: den
-toten Kanarienvogel auf dem rechten Schenkel des Ermorden!
+toten Kanarienvogel auf dem rechten Schenkel des Ermordeten!
 
 »Wie denkst Du über den Vogel,« begann ich. »Es war
 doch ein Kanarienvogel, und gerade diese Vogelart hat
@@ -958,7 +958,7 @@ war, sagte ich mir heute dort im Park gleich: es ist die
 Rätin — keine andere! — Sie haben mir nun die
 Gewißheit gebracht, lieber Bechert.«
 
-»Und Sie der Polizei den unschätzbarem Dienst geleistet,
+»Und Sie der Polizei den unschätzbaren Dienst geleistet,
 Namen und Wohnung der Ermordeten festgestellt zu haben.«
 
 »Was vorläufig unbedingt geheim bleiben muß! Verstehen
@@ -1005,7 +1005,7 @@ recht gehört.
 <@pagebreak/>
 hinzu. »Und Schraut und ich werden sie zu fangen suchen,
 während Sie mit ihren Leuten, lieber Bechert, nur das
-Haus Passauerstraße, 119 umstellt halten. Wir beide werden
+Haus Passauerstraße 119 umstellt halten. Wir beide werden
 uns sehr bald in die Wohnung der Sturz begeben,
 werden dort ausharren, bis die Mörder erscheinen, um das
 zu suchen, was sich bei mir im Gewahrsam befindet: die
@@ -1137,7 +1137,7 @@ das Wohnzimmer heran. Du mußt also schon noch eine
 Weile Wache halten.«
 
 Die Ausbeute des Wohnzimmers war nicht üppiger:
-Harst entdecke lediglich in einer chinesischen Vexiervase mit
+Harst entdeckte lediglich in einer chinesischen Vexiervase mit
 doppeltem Boden einen versiegelten Umschlag mit der
 Aufschrift »Mein Testament«.
 
@@ -1258,10 +1258,10 @@ Ein besonderer Anlaß hat mir jetzt die Feder in die Hand
 gedrückt. Seit der verflossenen Nacht ist mein Kanarienvogel,
 meine einzige Freude, verschwunden. Heute früh
 <@pagebreak/>
-fand ich der Käfig im Wohnzimmer leer. Ich habe meinen
+fand ich den Käfig im Wohnzimmer leer. Ich habe meinen
 neuen Mieter Georg Arna im Verdacht, das Tierchen
 aus Rache beseitigt zu haben, da ich ihm gestern gekündigt
-habe, weil ich ihm dabei überraschte, wie er in meinem
+habe, weil ich ihn dabei überraschte, wie er in meinem
 Schlafzimmer den einen Schrank durchsuchte. Aus dem
 Geheimfach des anderen Schrankes hatte er bereits drei
 dort verborgene Aktien der Mexikanischen Silbergruben-Gesellschaft
@@ -1310,7 +1310,7 @@ den Kleistpark kommen, wo er mir die Aktien aushändigen
 werde.
 
 Das junge Mädchen erklärte mir noch, Arna müßte die
-Aktion erst von einem Bekannten zurückverlangen, dem er
+Aktien erst von einem Bekannten zurückverlangen, dem er
 sie übergeben. Sie versprach mir, mich zu begleiten. Da sie
 auf mich einen sehr guten Eindruck machte, werde ich mich in
 ihrer Begleitung in den Park wagen. Sie will mich abends
@@ -1377,7 +1377,7 @@ Er sprach immer leiser.
 Wechselte plötzlich das Thema.
 
 »Du — die Alarmglocke versagt. Es sind Menschen im
-Flur. Die Glastür des Speisezimmers wirft aus die der
+Flur. Die Glastür des Speisezimmers wirft auf die der
 Schlafstube hier einen so hellen Schein, daß ich dieses Helle
 durch das Schlüsselloch, in dem kein Schlüssel steckt, bemerken
 kann. Und dieses Helle da wurde jetzt wiederholt verdunkelt,
@@ -1423,7 +1423,7 @@ Flog auf ohne Geräusch.
 Zwei Kerle dort im Türrahmen; von Parnacks Garde!
 Mit Revolvern in den Pranken.
 
-Hinter ihnen Parnack — ist als blondbärtiger Biedermann.
+Hinter ihnen Parnack — jetzt als blondbärtiger Biedermann.
 Neben ihm ein junger hübscher Bengel, — Geck mit
 Monokel: Anna Holm!
 
@@ -1440,7 +1440,7 @@ Und Parnack und Anna Holm verschwanden — flüchteten.
 
 Die Holm erwischte Harst, als sie hinter Parnack her
 durch den Kleiderschrank »Georg Arnas« und durch das
-in der Mauer in die Nebenwohnung hineinwollte,
+Loch in der Mauer in die Nebenwohnung hineinwollte,
 woher die Bande auch gekommen war.
 
 Er erwischte sie, war unhöflich genug, ihr durch einen

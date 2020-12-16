@@ -243,7 +243,7 @@ zu tun hab’n —«
 Weshalb können Sie denn die Polizei nicht leiden, Herr
 Pfitzhuber?«
 
-»Oh — ich hoab amal bei oane Schlägerei a bissel zu
+»Oh — i hoab amal bei oane Schlägerei a bissel zu
 derb dreing’droschen, Herr Harst. Do hoat man mi für
 zwoa Wochen eingespirrt. Seitdem will i von dera Polizei
 und Gerichtsleiten nix mehr wissen.«
@@ -345,7 +345,7 @@ wieder.
 
 »Er hat einen zweiten Anzug getragen,« meinte Harald.
 <@pagebreak/>
-»Einen zweiten unter diesem, hat kann hier auch
+»Einen zweiten unter diesem, hat dann hier auch
 eine andere Krawatte umgelegt —«
 
 »Und soll so die Kette meiner Leute passiert haben?!«
@@ -571,7 +571,7 @@ und neben dem Pappsarg des gelben Kanarienhahns
 lag auf einer Zeitung der tote Sperling.
 
 »Vielleicht nimmst Du mal die Briefwaage und wiegst
-die beiden Vogelleichen, die doch So ziemlich dieselbe Größe
+die beiden Vogelleichen, die doch so ziemlich dieselbe Größe
 haben,« sagte er, den Rauch von sich stoßend.
 
 Ich tat es — tat es mit einer gewissen Spannung.
@@ -580,8 +580,8 @@ Seltsam: obwohl der Kanarienvogel fraglos etwas
 kleiner und magerer als der Sperling war, wog er doch
 32 Gramm mehr!
 
-»Da — das wollte ich Dir vor Augen führen, mein
-Alter,« nickte Harald ernst »32 Gramm sind eine Gewichtsdifferenz,
+»Ja — das wollte ich Dir vor Augen führen, mein
+Alter,« nickte Harald ernst. »32 Gramm sind eine Gewichtsdifferenz,
 die nicht unbedeutend ist. Der Kanarienvogel
 kam mir sofort zu schwer vor. Er muß eine Füllung
 haben.«
@@ -786,7 +786,7 @@ mich, die goldene Kette hin.
 »Da — kennen Sie die vielleicht, Herr Pfitzhuber?«
 
 »Hm. — Teufi, dös ist ja meiner Frau Uhrkette, Herr
-Harst! Hier — diese Stell’ hoab ich selbst mit Blumendraht
+Harst! Hier — diese Stell’ hoab i selbst mit Blumendraht
 angeflickt, die boaden Glieder. Wie sein’s denn zu Zenzis
 Kette gekommen, Herr Harst?«
 
@@ -800,7 +800,7 @@ Harald das Thema.
 Jakob Pfitzhuber starrte noch immer die Kette an.
 
 »Hm — a Kennzeichen? Ja — die Farb’ vom Mutz
-wir so mehr a gelbgrün, wie bei die echten Kanarienhähne.«
+war so mehr a gelbgrün, wie bei die echten Kanarienhähne.«
 
 Wieder faßte Harald in die Tasche und brachte die
 Zigarettenschachtel zum Vorschein, öffnete sie.
@@ -888,7 +888,7 @@ Jahr Oberschweizer auf a Rittergut, Herr Harst.«
 Doktor Berthold Finster?«
 
 »Koan schöner Nam’ Herr Harst. Finster! Nö —
-so an’ Namen kenn’ ich net.«
+so an’ Namen kenn’ i net.«
 
 »Bitte behalten Sie also für sich, was wir hier verhandelt
 haben, Herr Pfitzhuber. Nun die Kaninchen bitte.
@@ -961,7 +961,7 @@ dachte nur an den »Heiratsschwindler«. Was sollte das?!
 Harald hatte den Satz aus eigenem den Steckbriefangaben
 hinzugefügt. Das mußte einen Grund haben. Welchen?
 
-Und als ich so vor mich bin grübelte, fiel mir der tote
+Und als ich so vor mich hin grübelte, fiel mir der tote
 Kanarienvogel wieder ein — dieser gefüllte Vogel! Es
 war doch seltsam, daß die blonde Verkleidete (und sie war
 tadellos als altes Weiblein zurechtgeschminkt gewesen!)
@@ -1325,7 +1325,7 @@ Der Wohnwagen verdeckte mit seiner ganzen Breite
 die Aussicht nach dem Rummelplatz, sperrte jeden Lichtstrahl
 der Buden und des Karussells ab.
 
-Währen Harald den Dietrich im Schloß der Wagentür
+Während Harald den Dietrich im Schloß der Wagentür
 probierte, schaute ich mich argwöhnisch um.
 
 Keine fünfzehn Schritt weiter eine lebenslustige Menschenmenge
@@ -1392,7 +1392,7 @@ Schaltete die Lampe aus, schloß die Tür wieder ab.
 »Er wird kommen!« flüsterte er. »Riechst Du es? Er
 war hier!«
 
-Ja — es roch hier noch Jodoform, nicht allzu aufdringlich,
+Ja — es roch hier nach Jodoform, nicht allzu aufdringlich,
 da der Teerduft überwog. Parnack mußte einen
 Verband tragen. Da war Jodoformgaze so naheliegend.
 
@@ -1423,7 +1423,7 @@ den Strick packen.
 Auch er bekam ein paar Hiebe über die Handgelenke
 — auch ihm schwanden die Sinne.
 
-Für Minuten nur. Dann waren mir schon gefesselt,
+Für Minuten nur. Dann waren wir schon gefesselt,
 geknebelt, saßen auf dem Bett, mit dem Rücken an der
 Wagenwand, sahen vor uns bei rasch wiederkehrendem
 Bewußtsein drei Männer, hörten Parnack-Finsters meckerndes
@@ -1512,7 +1512,7 @@ wenn Sie nicht aufs genaueste befolgen, was wir
 verlangen.«
 
 »Sie sind ein Schurke,« sagte Harald kalt. »Ich traue
-Ihnen alles zu. Unser Augenlich ist mehr wert als zwei
+Ihnen alles zu. Unser Augenlicht ist mehr wert als zwei
 Edelsteine. — Was verlangen Sie?«
 
 Ich horchte auf. Haralds Nachgiebigkeit kam mir denn
@@ -1598,7 +1598,7 @@ Parnack, die Karbidlaterne in der Linken, trat näher.
 Der zweite Mann hielt einen großen eisernen Schraubenschlüssel
 zum Zuschlagen über Harsts Kopf.
 
-Harald rücke das Brett zurecht. Wir saßen nun eng
+Harald rückte das Brett zurecht. Wir saßen nun eng
 nebeneinander. Dicht vor uns hatten wir die Köpfe der
 drei Gegner, die jede Bewegung Harsts mißtrauisch belauerten.
 Sie waren überaus vorsichtig, die drei. Und
@@ -1668,7 +1668,7 @@ Schüsse knallten hinter ihm drein. —
 Er entkam. Nur die beiden anderen wurden verhaftet.
 
 Und in einer Kiste des Wagens fanden wir den Käfig,
-fanden wir Mutz, den rechnenden Kanarienvogel dazu die
+fanden wir Mutz, den rechnenden Kanarienvogel, dazu die
 gestohlenen Wertsachen.
 
 Vroni Pfitzhuber aber und der *tote* Kanarienvogel —
