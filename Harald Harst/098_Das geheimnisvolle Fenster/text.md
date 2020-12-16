@@ -1542,166 +1542,166 @@ an, das uns noch durch zwei Weltteile hetzen sollte.
 
 <h2>1. Kapitel.</h2>
 
-»Bank derselben regnerischen Aden 16
-ten zum 7 die! morgens zwei Uhr.
+Es war in derselben regnerischen Mainacht vom 16ten
+zum 17ten morgens zwei Uhr.
 
-Ein Polizeiauto hielt vor dem Hause Bau gut Wir.
-erwartet, begrüßte den eile:
-sich Bechert und« nickte dem von zwei Bin unten essen.
-Reist Gerhardi freundlich An Ei
+Ein Polizeiauto hielt vor dem Hause Paulsbornerstr.
+211\. Ich hatte es erwartet, begrüßte den eilig aussteigenden
+Bechert und nickte dem von zwei Kriminalbeamten eskortierten
+Fritz Gerhardi freundlich zu.
 
-»Sie: werden die Sandsäcken. hoffentlich, voll los
-Herr Gerhardi.« sagte ich nur.
+»Sie werden die Handschellen hoffentlich bald los
+sein, Herr Gerhardi,« sagte ich nur.
 
-Dankes betraten wir das Haus. fliegen im Séiténftü-die
-Treppen empor und standen nun im Atelier.
+Dann betraten wir das Haus, stiegen im Seitenflügel
+die Treppen empor und standen nun im Atelier.
 
-Hier! hätte! sich nichts verändert.
+Hier hatte sich nichts verändert.
 
 Harald und Klara Rittler saßen vor dem Sofa,
-As dem Sofa Parnack und Meinke.
+auf dem Sofa Parnack und Meinke.
 
-Was ran, folgte, war weit weniger dramatisch, als man
-den Rannen Anfragten nach hätte annehmen Dünnen.
+Was dann folgte, war weit weniger dramatisch, als man
+den ganzen Umständen nach hätte annehmen können.
 
 Die blonde Malerin schritt zögernd auf Gerhardi zu,
-der ihr strahlend entacaenblicte.
+der ihr strahlend entgegenblickte.
 
-Harst Bechert: und die Beamten kümmerten sich nicht
-die beiden, die eifrig ntiteinander flüsterten. Ich, war
-Eine neun, die Visiten zu beobachten. In Seen, Alte
-Anmmeren Tränen. Sie hunderte Berharbit Mit
-n, lehnte ich an ihn
+Harst, Bechert und die Beamten kümmerten sich nicht
+um die beiden, die eifrig miteinander flüsterten. Ich war
+indiskret genug, die Rittler zu beobachten. In ihren Augen
+schimmerten Tränen. Sie streichelte Gerhardis Wangen,
+lehnte sich an ihn.
 
-Und- dann sagte Verdacht Dann Na 0...
+Und dann sagte Gerhardi plötzlich laut:
 
-Seh’ möchte die Situation sofort klären, Herr Harst.
-bin schon im Handgroße gestern ist
+Ich möchte die Situation sofort klären, Herr Harst.
+Sie sind schon im Polizeigebäude gestern nachmittag so
 <@pagebreak/>
-überaus gütig zu mir gewesen. daß ich undankbar wäre,
-tolle ich ehe trat auch nur im geringsten belügen,«
+überaus gütig zu mir gewesen, daß ich undankbar wäre,
+wollte ich Sie jetzt auch nur im geringsten belügen,«
 
-(er trat näher an den Tisch heran, schaute Parnack eine
-Weile mit wach senden Staunen in das Gesicht und schätz,
-Stelle seit den $ opi.
+er trat näher an den Tisch heran, schaute Parnack eine
+Weile mit wachsendem Staunen in das Gesicht und schüttelte
+leicht den Kopf.
 
-»lie das ist mein Doppelgänger!« meinte er unsicher.
+»Also das ist mein Doppelgänger!« meinte er unsicher.
 
 »Das ist aber niemals derselbe Mann, der mich aus
-der Strafanstalt befreien ließ und der mich im Gemüses
-Keller der Frau Ronisch In der Wiener Straße dazu des
-Juni hat, mich als Parnack vorläufig verhaften zu lassen.«
+der Strafanstalt befreien ließ und der mich im Gemüse-
+Keller der Frau Ronisch In der Wiener Straße dazu bestimmt
+hat, mich als Parnack vorläufig verhaften zu lassen.«
 
-Harald mischte sich ein, »Sie vergessen, daß Parnack
-ein Verwandlungskünstler ersten Ranges ist, Herr Gerhardi,
+Harald mischte sich ein. »Sie vergessen, daß Parnack
+ein Verwandlungskünstler ersten Ranges ist, Herr Gerhardi.
 Glauben Sie mir, er war’s!«
 
-»ich leugne das ja paar nicht,« meldete sich Parnack
-hastig. »Ah will auch zugeben, daß ich hier den Portier
-Meinke von Herüber langte, daß ich Fräulein Blitzten hier
-des öfteren sah und mich in sie verliebe,«
+»ich leugne das ja gar nicht,« meldete sich Parnack
+hastig. »Ih will auch zugeben, daß ich hier den Portier
+Meinke von früher kannte, daß ich Fräulein Rittler hier
+des öfteren sah und mich in sie verliebte,«
 
 »Und da haben Sie Frau Gerhardi, die Tante ihres
 Zwillingsbruders, beseitigt, weil Sie fürchteten, diese könnte
 merken, daß Sie nicht Fritz Gerhardi waren!«
 
-»So ist’s,« erklärte Parnack mit verdächtiger Bereits
-tmilftateit, nichts mehr zu verhehlen. »Nur der Ausdruck
-»beseitigen« trifft nicht zu Wir haben sie damals allerdings
-gewaltsam nach dem Heller der Ronisch geschafft,
-haben sie dort nur bis aus weiteres gelangen halten wohl
-malen, Trotz außer Pflege starb sie leider sehr bald an Gut
-Brüstung. Sie war ja nur noch Haut und Knochen. Die
+»So ist’s,« erklärte Parnack mit verdächtiger Bereitwilligkeit,
+nichts mehr zu verhehlen. »Nur der Ausdruck
+»beseitigen« trifft nicht zu. Wir haben sie damals allerdings
+gewaltsam nach dem Keller der Ronisch geschafft,
+haben sie dort nur bis auf weiteres gefangen halten wollen.
+Trotz guter Pflege starb sie leider sehr bald an Entkräftung.
+Sie war ja nur noch Haut und Knochen. Die
 Sektion der Leiche wird dies beweisen,«
 
 »Und den Raubanfall, der Gerhardi ins Gefängnis
-geben Sie ebenfalls zu?«
+brachte, geben Sie ebenfalls zu?«
 
 »Ja.«
 
-Filz Gerhardi stieß vor jäh aufsteigenden Grimm
-einen röchelnnen Laut aus,
+Fritz Gerhardi stieß vor jäh aufsteigenden Grimm
+einen röchelnden Laut aus,
 
-»Beamte — Schurke, — Und ich... ich...«
+»Schurke — Schurke, — und ich... ich...«
 
-Harald legte ihm rasch die Hand auf die Lautlos,
+Harald legte ihm rasch die Hand auf die Schulter.
 
-»Der Mensch ist es nicht wert, daß Sie sich Vorgetragen
-erregen,« sagte er ernst, »Was an er Ihnen denn
-vor, als er ihnen das Geld gab, um Er allein Ritter helfen
+»Der Mensch ist es nicht wert, daß Sie sich seinetwegen
+erregen,« sagte er ernst. »Was log er Ihnen denn
+vor, als er ihnen das Geld gab, um Fräulein Ritter helfen
 zu können?«
 
-»Er sagte, ich fegte mich als ein gewisser Parnack
+»Er sagte, ich sollte mich als ein gewisser Parnack
 <@pagebreak/>
-verhaften fassen, E83 handele sich höchsten« um ein
-Molen Haft, Daß ich nicht Parnack sei, würde ja
-Ab an den ran an Mine Regnen verbat er sich,
-Wir lag nur daran, daß Ich Geld In die Bringen bekam,
-Tanz hatte ja wiederholt in ihren Briefen. die ich in der
-Ei ausgehändigt erhielt, über ihre trostlose Lage geklagt.«
+ruhig verhaften lassen. Es handele sich höchstens um ein
+paar Wochen Haft. Daß ich nicht Parnack sei, würde ja
+bald an den Tag kommen. Weitere Fragen verbat er sich.
+Mir lag nur daran, daß Ich Geld In die Finger bekam.
+Klara hatte ja wiederholt in ihren Briefen, die ich in der
+Anstalt ausgehändigt erhielt, über ihre trostlose Lage geklagt.«
 
 Bechert gab einem seiner Beamten rasch einen Wink,
 
 Man nahm Gerhardi die Handschellen ab. — »Sie
-nd frei. Herr Gerhardi,« sagte Becher herzlich. »Sie
+sind frei. Herr Gerhardi,« sagte Becher herzlich. »Sie
 müssen sich nur noch uns zur Verfügung stellen, damit Sie
-Ehre Aussagen genau zu Protokoll geben,«
+Ihre Aussagen genau zu Protokoll geben,«
 
-Harst hatte sich wieder gelebt,
+Harst hatte sich wieder gesetzt.
 
-Hm Hintergrunde des A’eliers an der offenen L1ft-heibe
-standen die blonde Malerin und Gerhardi, eng anfragten
-aecsckchimteat,
+Im Hintergrunde des Ateliers an der offenen Luftscheibe
+standen die blonde Malerin und Gerhardi, eng aneinander
+geschmiegt,
 
-Mach minntenlonmer Griffe beugte Harald sich dann
-hat her den Sofatisch und Fischte Palme fest an
+Nach minutenlanger Stille beugte Harald sich dann
+etwas über den Sofatisch und blickte Parnack fest an.
 
-»Sie haben gelogen!« erklärte er lang »Nr Der
-Königin ist ohne, mma Sie Absichten Jenen »N -Unfein
-Rittler und Gerhardi betrifft, Sie — Ehe matten sich aus
-gebe Fräulein Visiten genähert und biete Vorname hier
-ufertührt haben, ach Liebe, Sie, der Mensch mit den
-neitfehatenben verbrecherischen Klären?! wer soll Ihnen
+»Sie haben gelogen!« erklärte er langsam. "Ihr
+Geständnis ist Lüge, was Ihre Absichten gegen Fräulein
+Rittler und Gerhardi betrifft. Sie — Sie wollen sich aus
+Liebe Fräulein Rittler genähert und diese Komödie hier
+aufgeführt haben, aus Liebe. Sie, der Mensch mit den
+weitschauenden verbrecherischen Plänen?! wer soll Ihnen
 das wohl glauben?! ich etwa?
 
-Er merkte sich an den Wider wer
+Er wandte sich an den stiernackigen Meinke.
 
-»wie steht’s mit »einen? Wollen Sie ja sein?
-Schenken Sie. Hab Parnack schon angedeutet hat, Sie hat
-on bei der Verschleppung Frau Gerhardis mitgeholfen,
-Und — die alte treu ist ermordet worden! N’elloicht
-Den. Sie auch dafür aha Mittäter in Betracht, wer
-er
+»wie steht’s mit Ihnen? Wollen Sie aufrichtig sein?
+Bedenken Sie, daß Parnack schon angedeutet hat, Sie hätten
+bei der Verschleppung Frau Gerhardis mitgeholfen.
+Und — die alte Frau ist ermordet worden! Vielleicht
+kommen Sie auch dafür als Mittäter in Betracht. Reden
+Sie!"
 
-Es war die alte verhielte wie bei allen bisher verhafteten
-SelsferêPesfern Parnoacds: Meinke schwieg! Nicht
-in Wort war ans sein heranêänfaten!
+Es war die alte Geschichte wie bei allen bisher verhafteten
+Helfershelfern Parnacks: Meinke schwieg! Nicht
+ein Wort war aus ihm herauszulocken!
 
-Harst Sah als weiteren versuche schließlich Nr,
+Harst gab alle weiteren Versuche schließlich auf.
 
-»Ballen Sie die Heiden abführen, Bechert, Wir Vers
-eben jetzt das geheimnisvolle Feuer untersuchen, Ich
-Hoffe, dort manches zu finden, Papas so! mehr, etwas
-ist dem Gehenkten zu tun zu haben... — All — weshalb
+»Lassen Sie die beiden abführen, Bechert. Wir werden
+jetzt das geheimnisvolle Fenster untersuchen. Ich
+Hoffe, dort manches zu finden. Parnack leugnete, etwas
+mit dem Gehenkten zu tun zu haben... — Ah — weshalb
 <@pagebreak/>
-schickt Tier plötzlich- das Blut zu Kopfe, Parnack? Und
-Sie, Meinke, Brettchen die Zähne, als ob Sie mir an die
+schießt Ihnen plötzlich das Blut zu Kopfe, Parnack? Und
+Sie, Meinke, fletschen die Zähne, als ob Sie mir an die
 Kehle wollten! Die Mansardenstube drüben fällt Ihnen
 beiden auf die Nerven, scheint’s! Nun — da mögen Sie
-besser noch hier bleiben,« Und zu den beiden Krimninalbe-amten:
-»Geben Sie gut aus die Verhafteten acht!« —
+besser noch hier bleiben.« Und zu den beiden Kriminalbeamten:
+»Geben Sie gut auf die Verhafteten acht!« —
 
-Wir drei fliegen die Treppe hinab,
+Wir drei stiegen die Treppe hinab,
 
-Im anderen Seitenflügel fanden wir an der Flure
-Am Wohnung, die gerade unter der Mansarde- lag, eine
+Im anderen Seitenflügel fanden wir an der Flurtür
+der Wohnung, die gerade unter der Mansarde lag, eine
 Visitenkarte:
 
-> Otto Helmesburger »Kl
+> Otto Helmesburger,
 
-> Serichtäfelretär.
+> Gerichtssekretär.
 
-¿Vielleicht werden wir Herrn - Hbfme kurzer nach
+"Vielleicht werden wir Herrn - Hbfme kurzer nach
 Schweden müssen,« meinte Harz
 
 »!. Dein standen mir vor der Flurtür wir Manta
