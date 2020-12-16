@@ -1588,8 +1588,8 @@ leicht den Kopf.
 »Also das ist mein Doppelgänger!« meinte er unsicher.
 
 »Das ist aber niemals derselbe Mann, der mich aus
-der Strafanstalt befreien ließ und der mich im Gemüse-
-Keller der Frau Ronisch In der Wiener Straße dazu bestimmt
+der Strafanstalt befreien ließ und der mich im Gemüsekeller
+der Frau Ronisch In der Wiener Straße dazu bestimmt
 hat, mich als Parnack vorläufig verhaften zu lassen.«
 
 Harald mischte sich ein. »Sie vergessen, daß Parnack
@@ -1597,7 +1597,7 @@ ein Verwandlungskünstler ersten Ranges ist, Herr Gerhardi.
 Glauben Sie mir, er war’s!«
 
 »ich leugne das ja gar nicht,« meldete sich Parnack
-hastig. »Ih will auch zugeben, daß ich hier den Portier
+hastig. »Ich will auch zugeben, daß ich hier den Portier
 Meinke von früher kannte, daß ich Fräulein Rittler hier
 des öfteren sah und mich in sie verliebte,«
 
@@ -1656,7 +1656,7 @@ geschmiegt,
 Nach minutenlanger Stille beugte Harald sich dann
 etwas über den Sofatisch und blickte Parnack fest an.
 
-»Sie haben gelogen!« erklärte er langsam. "Ihr
+»Sie haben gelogen!« erklärte er langsam. »Ihr
 Geständnis ist Lüge, was Ihre Absichten gegen Fräulein
 Rittler und Gerhardi betrifft. Sie — Sie wollen sich aus
 Liebe Fräulein Rittler genähert und diese Komödie hier
@@ -1671,7 +1671,7 @@ Bedenken Sie, daß Parnack schon angedeutet hat, Sie hätten
 bei der Verschleppung Frau Gerhardis mitgeholfen.
 Und — die alte Frau ist ermordet worden! Vielleicht
 kommen Sie auch dafür als Mittäter in Betracht. Reden
-Sie!"
+Sie!«
 
 Es war die alte Geschichte wie bei allen bisher verhafteten
 Helfershelfern Parnacks: Meinke schwieg! Nicht
@@ -1701,545 +1701,546 @@ Visitenkarte:
 
 > Gerichtssekretär.
 
-"Vielleicht werden wir Herrn - Hbfme kurzer nach
-Schweden müssen,« meinte Harz
+»Vielleicht werden wir Herrn Helmesburger nachher
+wecken müssen,« meinte Harst.
 
-»!. Dein standen mir vor der Flurtür wir Manta
-See die Meinke für Bring Zwecke mit »Beschlag See
-X
+Dann standen wir vor der Flurtür der Mansardenwohnung,
+die Meinke für seine Zwecke mit Beschlag belegt
+hatte.
 
-»Harald Dietrich öffnete. die Tür.
+Haralds Dietrich öffnete die Tür.
 
-Flur war genau so ein wie drüben bei der Ritt
-(er! Der Raum, der sichert im anderen »Dachäoïchoß Atelier
-war, zeigte sich hier als einfenstrige Mulpelfanmmes
-mit rohen: nur geweißten Bretterwänden.
+Der Flur war genau so klein wie drüben bei der Rittler.
+Der Raum, der jedoch im anderen Dachgeschoß Atelier
+war, zeigte sich hier als einfenstrige Rumpelkammer
+mit rohen, nur geweißten Bretterwänden.
 
-Unsere Taschenlampen un«  Becherts ‘Karbidtawene
+Unsere Taschenlampen und Becherts Karbidlaterne
 spendeten genügend Licht, all dies Gerümpel, das da an
-den Minder ausgestellt war, in Augenschoiï’zu nehmen.
+den Wänden ausgestellt war, in Augenschein zu nehmen.
 
-Da waren zwei als Schränke, alte, Stoffen, Kisten,
-Wahn« achteln, Nupbenimben, ein Ynmeniboaten,
+Da waren zwei alte Schränke, alte Koffer, Kisten,
+Pappschachteln, Puppenstuben, ein Puppentheater.
 
-Da war viel Staub auf all den Zucken sich@taub auf
-der Eiter des Fußbodens, Spinugemchenfinwintie Haus
-spinnen, die inmitten ihres Reges doch, umgeben | von
-Ne rot treffen.
+Da war viel Staub auf all den Sachen. Staub auf
+den Dielen des Fußbodens, Spinnengewebe, schwarze Hausspinnen,
+die inmitten ihres Netzes hockten, umgeben von
+Fliegenüberresten.
 
-und darauf, die! »Früheren. Behält-niffe
-herauszusuchen, In denen die!leicht center sehe um
-vorne »seit. Fäulnis, in fand Ne
+Wir beschränkten uns darauf, die größeren Behältnisse
+herauszusuchen, In denen vielleicht eine Leiche verborgen
+sein könnte.
 
-das heißt! nur Bechert und ich wollene mal
+das heißt: nur Bechert und ich suchten.
 
-Hielt hatte mit einem Blick zur Der der Stube er«
-Mär«, Des ist nicht mal ein Haken, wo las bäte aufs
-achänat’’ werden können!«
+Harst hatte mit einem Blick zur Decke der Stube erklärt:
+»Da ist nicht mal ein Haken, wo jemand hätte aufgehängt
+werden können!«
 
-Und Bechert hatte erwidert:. Aber es Ader ein
+Und Bechert hatte erwidert: »Aber es muß doch ein
 <@pagebreak/>
 Mensch hier gehangen haben! Wie kam sonst der Schatten
 zustande?«
 
 Da hatte Harst dann geschwiegen, hatte sich an das
 Fenster gelehnt, eine Zigarette geraucht und uns angeschaut
-— mit einer merMuilrdiaen Gleichgüsltiakeit,
+— mit einer merkwürdigen Gleichgültigkeit,
 
-Nun drückte Freund Bechert den einen großen Kostet wieder
-zu
+Nun drückte Freund Bechert den einen großen Koffer wieder
+zu.
 
-»a hat keinen Zweck hier weiter in dem alten Kram
-berumanftöbern,« meinte er.
+»Es hat keinen Zweck hier weiter in dem alten Kram
+herumzustöbern,« meinte er.
 
 Und — da kam’s! da sagte Harst:
 
-»Nein, das hat keinen Zweck, obwohl der in alte da
-ist! »Bitte:,falls Ihr beide doch mal die. Zu
-eine Treppe tiefer und Düngers Herrn bete Klangen heraus,
+»Nein, das hat keinen Zweck, obwohl der Gehenkte da
+ist! »Bitte: schafft Ihr beide doch mal die Bodenleiter
+eine Treppe tiefer und klingelt Herrn Helmesburger heraus,
 damit er Euch mit der Leiter auf den Balkon läßt,
-er gerade unter’ diesem Fenster liegt, Und. dann, lieber
-Bechert. bemühen Sie sich« freundlichst wieder ¿ins
-hinauf stellen sich an die Luftscheibe und sehen: lichte See
-ersten an, — Gebt bitte: De Aufklärung erfo| he
+der gerade unter diesem Fenster liegt. Und dann, lieber
+Bechert, bemühen Sie sich freundlichst wieder ins Atelier
+hinauf, stellen sich an die Luftscheibe und sehen sich den
+Gehenkten an. — Geht bitte. Die Aufklärung erfolgt nachher.«
 
-Bechert war mißtrauisch. »Ein u Du Vorerst?
+Bechert war mißtrauisch. »Ein — ein Witz, Harst?«
 
-»Nie war ich ernster als jetzt. —
+»Nie war ich ernster als jetzt — geht!«
 
-Und wir gingen, nahmen die Leiter Mr »bete: Gern
-Selmesburaere Träume, lernten In ihm einen unten
-von vorbildlicher Unhöflichkeit kennen und. Mhtebnien die
-Eiter auf den Balkon. lehnten sie an Die Dausiaand an
-nterbalb des Mansardenfensters
+Und wir gingen, nahmen die Leiter mit, störten Herrn
+Helmesburgers Träume, lernten In ihm einen Beamten
+von vorbildlicher Unhöflichkeit kennen und schleppten die
+Leiter auf den Balkon, lehnten sie an Die Hauswand unterhalb
+des Mansardenfensters
 
-Dann blieb ich auf Den untersten Leitersprossen Her
-en und Becher: begab sich hinüber ins Atelier -
+Dann blieb ich auf Den untersten Leitersprossen stehen
+und Bechert begab sich hinüber ins Atelier
 
-seh starrte zu dem Fenster empor — Au: Bein dunklen
-Fenster, das ich »Das geheimnisvolle« genannt: habe,
+Ich starrte zu dem Fenster empor — zu dem dunklen
+Fenster, das ich »das geheimnisvolle« genannt habe,
 
-»Ich war gespannt auf das, was geschehen; würde.
+Ich war gespannt auf das, was geschehen würde.
 
-Funk Minuten vergingen. 174,99
+Fünf Minuten vergingen.
 
-Da wurde das Fenster hell — und auf dem cm Vorhang
-erschien ialeichzeitia der Schatten des Man der, in
-Schlinge hing, Not Aha
+Da wurde das Fenster hell — und auf dem Vorhang
+erschien gleichzeitig der Schatten des Mannes, der in der
+Schlinge hing.
 
-Harst) tauchte in der Balkontür auf, Es
+Harst tauchte in der Balkontür auf.
 
-»Etwas Seher hinauf mein Alter... — - So, 3 anbot
-Roch: habe da In der Nebenkammer ein Chin
-(18 ich Bechert vorläufig unterschlagen mò so
-hatte eine Pappschachtel Der Marine As achte
-Felle also nachher oben Leine Manöver Fragen.
+»Etwas höher hinauf mein Alter... — So, nun hör
+zu. — Ich habe da In der Nebenkammer etwas gefunden,
+das ich Bechert vorläufig unterschlagen möchte. Ich habe
+es in die eine Pappschachtel Der Mansardenstube gelegt.
+Stelle also nachher oben keine unnützen Fragen.«
 
 <@pagebreak/>
 Dann drehte er den Kopf, rief;
 
-»Zufrieden, Bechert? — Kommen Sie Wien herüber,
+»Zufrieden, Bechert? — Kommen Sie wieder herüber.
 Sie sollen den Gehenkten Raus nächster Nähe sehen,«
 
-Wir drei waren vor der Flurtür der Mansarde, Nun
-Ne 7 Harst sie, »Bitte — eintreten! Die Vorstellung
-Satan
+Wir drei waren vor der Flurtür der Mansarde. Nun
+öffnete Harst sie. »Bitte — eintreten! Die Vorstellung
+beginnt.«
 
-na betraten Bechert und ich die matt erleuchtete
+Zögernd betraten Bechert und ich die matt erleuchtete
 Stube.
 
 Da hing nichts — nichts
 
 Da war nur der Schatten des Gehenkten auf dem
-schmutzigen Fenstervorhangs.
+schmutzigen Fenstervorhang.
 
 Noch zwei Schritte der Mitte des Raumes zu.
 
-Dann sahen wir... den Gehenkten, haben auch das
-Frohe Astloch in der Bretterwand, aus dem vom Neben
-räume der ein breiter, greller Schein in die Stube hinein«
-fiel — zwischen den Puppenstuben hindurch, die wir gar
+Dann sahen wir... den Gehenkten, sahen auch das
+große Astloch in der Bretterwand, aus dem vom Nebenraume
+her ein breiter, greller Schein in die Stube hineinlief
+— zwischen den Puppenstuben hindurch, die wir gar
 nicht beachtet hatten...
 
-Und in diesem Licótkeael hing eine halbarmlange
-Kuppe — einen Mann darstellend — an einem Bindfaden,
+Und in diesem Lichtkegel hing eine halbarmlange
+Puppe — einen Mann darstellend — an einem Bindfaden,
 der um den Hals geschlungen war, von dem einen Rade
 eines Puppenwagens herab, hing frei in der Luft, etwa
 ein Meter über dem Boden.
 
 Der Schatten der Puppe aber fiel auf den Vorhang,
-und das Kern einer Statuen- Hausspinne zog sich von der
-Puppe nach einer an die Wand gelehrten Gardinenstange
-bin. Bewegte die Spinne das gen, schschwankie auch die
-Puppe. Das war das Lächerliche (Geheimnis des erstere,
+und das Netz einer großen Hausspinne zog sich von der
+Puppe nach einer an die Wand gelehnten Gardinenstange
+hin. Bewegte die Spinne das Netz, schwankte auch die
+Puppe. Das war das lächerliche Geheimnis des Fensters.
 
-ja — war es prallt lächerlich, Dies Weber innig fl
+ja — war es wirklich lächerlich, Dies Geheimnis?!
 
-Gewiß — Vorort lachte
+Gewiß — Bechert lachte
 
-»Das hätte ich nie acahnt’«
+»Das hätte ich nie geahnt!«
 
-Aber Harst sagte Gruft:,Nun in die Bobenlammer,
+Aber Harst sagte ernst: »Nun in die Bodenkammer,
 wo die Laterne brennt!«
 
 Wir gingen wieder auf den Vorboden, gingen in die
-Waschküche. Von dicker Raus führte hier eine kleine Holz
-für in einen Verschlag, durch den ein dicker Schornstein
-hindurchlief
+Waschküche. Von dieser aus führte hier eine kleine Holztür
+in einen Verschlag, durch den ein dicker Schornstein
+hindurchlief.
 
-Und dieser Verschlag war leer bis auf e n Finden
-Tischchen an der linken Bretterwand.
+Und dieser Verschlag war leer bis auf ein Kindertischchen
+an der linken Bretterwand.
 
-Das Tischchen stand gerade vor dem As 1 und Wl
+Das Tischchen stand gerade vor dem Astloch, und auf
 <@pagebreak/>
-Tischchen brannte eine mittelgroße Nadblaterne —
-arbiniaterne,
+dem Tischchen brannte eine mittelgroße Radlaterne —
+eine Karbidlaterne,
 
-schert Gab sich hier sehr Donau um, fand aber nickte
+Bechert sah sich hier sehr genau um, fand aber nichts
 mehr.
 
-»Was mögen Mein!e und Parnack hier getrieben bar
-Er u er fälschlich Harald. »Edel glauben Sie,
-einte
+»Was mögen Meinke und Parnack hier getrieben haben?«
+fragte er schließlich Harald. »Oder glauben Sie,
+daß Meinke und..."
 
-»Sie Bau hier etwas getrieben,« nickte Harst, »Was,
-in erst.«
+»Sie haben hier etwas getrieben,« nickte Harst. »Was,
+weiß ich nicht.«
 
-werde sie schon ausauetîschen1» erklärte Bechert.
-PP müssen reden«
+»Ich werde sie schon ausquetschen« erklärte Bechert.
+Die Burschen müssen reden«
 
-Wir dichten die Radlaterne aus und gingen wieder
-Bis den Vorboden.
+Wir löschten die Radlaterne aus und gingen wieder
+auf den Vorboden.
 
-Und da — da hörten war plötzlich den schwachen
-Saal von drei — vier Schütten...
+Und da — da hörten wir plötzlich den schwachen
+Knall von drei — vier Schüssen...
 
 <h2>2. Kapitel.</h2>
 
-Vorrat!« riet Harst leise. »Parnack flieht... 1°
+»Parnack!« rief Harst leise. »Parnack flieht...!"
 
-Bechert hatte schon die Treppe hinab.
+Bechert raste schon die Treppe hinab.
 
-Harald war mich drei Sprüngen am Manfarbenien-ra
-von Vorhang zurück, riß es aus.
+Harald war mit drei Sprüngen am Mansardenfenster,
+riß den Vorhang zurück, riß es auf.
 
 Wir lehnten uns hinaus.
 
 Wir erkannten drüben im Rahmen der offenen Luftscheibe
-Paris Verdachts Gesicht
+Fritz Gerhardis Gesicht
 
-»Parnack ich entflohen, Herr Harst...« meldete er
-im. »Alt die beiden Kriminalbeamten für einen An
-Blick hier an die Luftscheibe getreten waren, um sich den
-Hatten des Gehentkicn Inzwischen, sprang er plötzlich empor...
-Er harte die Fesseln abgestreift. er Zaune in den
-Ankertau! Bad Dach
+»Parnack ist entflohen, Herr Harst...« meldete er
+erregt. »Als die beiden Kriminalbeamten für einen Augenblick
+hier an die Luftscheibe getreten waren, um sich den
+Schatten des Gehenkten anzusehen, sprang er plötzlich empor...
+Er hatte die Fesseln abgestreift, er rannte in den
+Flur — auf das Dach..."
 
-unendlichen wir ebenfalls rechter Hand auf dem
-ach des Vorderhauses ein paar Gestalten…
+Nun erblickten wir ebenfalls rechter Hand auf dem
+Dach des Vorderhauses ein paar Gestalten…
 
-Eine davon schwmana sich auf das Nebendach
+Eine davon schwang sich auf das Nebendach...
 
-Dann ein drohender Burnus — ein Schuß ..
+Dann ein drohender Zuruf — ein Schuß...
 
 <@pagebreak/>
 
-As Parnack floh weiter — verschwand. +.
+Und Parnack floh weiter — verschwand. —
 
-schert alarmierte die Polizeiwache, der Häuserblock
+Bechert alarmierte die Polizeiwache. der Häuserblock
 wurde umstellt.
 
-Wir ballten suchen. Wir suchten bis sechs Uhr Voriges.«
-Das. ganze. Viertel fror munter geworden,
+Wir halfen suchen. Wir suchten bis sechs Uhr morgens.
+Das ganze Viertel war munter geworden,
 
-Und über den Dächern lachte die Maisoutte, lachte der
-junge Morgen Oh
+Und über den Dächern lachte die Maisonne, lachte der
+junge Morgen
 
-»An diesem Morgen entkam Gisbert Parnack, —
+An diesem Morgen entkam Gisbert Parnack, —
 
-Punkte, »abgelegt, beschmutzt fanden wir schließlich
-Braun Lebewohl, der immer noch nicht vom Platt weichen
-Prallte. Man
+Müde, abgehetzt, beschmutzt sagten wir schließlich
+Bechert lebewohl, der immer noch nicht vom Platze weichen
+wollte.
 
-Wir zusagen zunächst wieder in die Mansardenstube —
-gingen und holten aus dem Pappkarton das, las Harst
-dort. verborgen hatte, steckten es in einen anderen, Meines
-ren Karton, den wir mit und nahmen. Den
+Wir gingen zunächst wieder in die Mansardenstube —
+gingen und holten aus dem Pappkarton das, was Harst
+dort verborgen hatte, steckten es in einen anderen, kleineren
+Karton, den wir mit uns nahmen.
 
 Die Kette der Schupoleute ließ uns durch. »Bechert
-war mich zu sehen. Er durchstöberte noch ein paar Wohnungen
+war nicht zu sehen. Er durchstöberte noch ein paar Wohnungen
 des Blockes.
 
-Zwanzig Minuten später, kurz nach halb flehen, was
-ren wir daheim mit unserem Rauhe.
+Zwanzig Minuten später, kurz nach halb sieben, waren
+wir daheim mit unserem Raube.
 
-Und — das war nichts anderes als ein photographischen
-Verarökerunasapparat, ein paar entwickelte Platten
-uns Fläschchen mit Chemikalien, drei flache Glas schalen
+Und — das war nichts anderes als ein photographischer
+Vergrößerungsapparat, ein paar entwickelte Platten
+und Fläschchen mit Chemikalien, drei flache Glasschalen
 und eine Schiefertafel kleinsten Formats.
 
-»Brühe uns Kaffee auf, mein Alter,« »bat »Harald.
-»Ich muß munter bleiben, bis ich weiß, weht« Meinke
-und Parnack! »und der dritte mit dem Klumpfuß dort in der
-Bodvenkammer neben der Waschküche, wo sie obgleich die
-Wasserleitung zur Verfügung hatten, so insgeheim- Floßes
-arabhiiche Vergrößerungen hergestellt haben, ohne zu als
-nen, daß, Voran sie ihre Radlaterne in Weltwunder PHich-tuna
-ist das Tischchen stellten, der Gehenkte auf dem
-Vorhang erschien. Denn — das haben sie nicht gewußt
-mein Alter, Der Schatten des Gehenkten war ein Spiel
-des Zufalls,« an
+»Brühe uns Kaffee auf, mein Alter,« bat Harald.
+»Ich muß munter bleiben, bis ich weiß, weshalb Meinke
+und Parnack! und der dritte mit dem Klumpfuß dort in der
+Bodenkammer neben der Waschküche, wo sie gleich die
+Wasserleitung zur Verfügung hatten, so insgeheim photographische
+Vergrößerungen hergestellt haben, ohne zu ahnen,
+daß, wenn sie ihre Radlaterne in bestimmter Richtung
+auf das Tischchen stellten, der Gehenkte auf dem
+Vorhang erschien. Denn — das haben sie nicht gewußt,
+mein Alter. Der Schatten des Gehenkten war ein Spiel
+des Zufalls,«
 
-So blickte Harst an. »Man sein. Aber — der »dritte«,
-fand Du?! Ein Mann mit dem Klumpfuß?« Arm
+Ich blickte Harst an. »Man sein. Aber — der »dritte«,
+sagst Du?! Ein Mann mit dem Klumpfuß?«
 
-»Fà — in der Stcaubschicht der Kammer neben dem
+»Ja — in der Staubschicht der Kammer neben dem
 Schornstein und außerdem in einer angetrockneten Lache
-einer Kameras den Diele fand ich diese Spur ..«
+einer Säure auf den Diele fand ich diese Spur...«
 
 <@pagebreak/>
-»Er holte ein Blatt Lauter hervor, — und auf diesem -
-Blatt waren e Kreise zu sehen, ein seiner und ein Granit
-Bleistift gezeichnet! der Abdruck des Schuhes Sie
-es Venen mit vorkrüppeltert Fuß!
+Er holte ein Blatt Papier hervor, — und auf diesem
+Blatt waren zwei Kreise zu sehen, ein kleiner und ein großer,
+mit Bleistift gezeichnet: der Abdruck des Schuhes eines
+Menschen mit verkrüppeltem Fuß!
 
-»Es war also noch ein dritter bei den Verarößerungs-perimenten
+»Es war also noch ein dritter bei den Vergrößerungsexperimenten
 beteiligt,« meinte Harald. »Eben der Mann
-ist dem Afumpiuh — So, nun Kaste- Glieder Alter.«
-Frech stellte die Kaffeemaschine auf den javanischen
-ich wahrte Kaffee Der Spiritus brozelte unter
-in Kessel, und Harst besichtigte die  entwickelten
-Gatten.
+mit dem Klumpfuß. — So, nun Kaffee, lieber Alter.«
+
+Ich stellte die Kaffeemaschine auf den japanischen
+Tisch. Ich mahlte Kaffee. Der Spiritus brozelte unter
+dem Kessel, und Harst besichtigte die entwickelten
+Platten.
 
 Es waren sieben Platten. Und alle zeigten das völlig
-S/n! Bild eines Schriftstücks,
+verschwommene Bild eines Schriftstücks,
 
-ich mir die Platten nachher genau besah, gab ich
-Harald recht: die Buchstaben und Worte des verarötertien
-Schreibens glichen etwa denen der Abdrücke einer hinten-Mr
-auf einem sehr © Loscblatt, Das falsch! As
-»Wesen und auf dem die Abdrücke bis zu völliger Nattern:-
-Schreit verlaufen waren
+Als ich mir die Platten nachher genau besah, gab ich
+Harald recht: die Buchstaben und Worte des vergrößerten
+Schreibens glichen etwa denen der Abdrücke einer Tintenschrift
+auf einem sehr alten Löschblatt, Das feucht gewesen
+und auf dem die Abdrücke bis zu völliger Unkenntlichkeit
+verlaufen waren
 
 Bei der ersten Tasse Mokka und der ersten Zigarette
-Brate Harald eignet!
+sagte Harald sinnend:
 
-»Roh gehe jede Wette ein, daß dieses unleserliche
-Aststück von Pumpe zu einer Gaunerei großen Stils
-nutzt werden sollte.«
+»Ich gehe jede Wette ein, daß dieses unleserliche
+Schriftstück von Parnack zu einer Gaunerei großen Stils
+benutzt werden sollte.«
 
-Er formte einen großen Rauchring, blies einen Heiseren
+Er formte einen großen Rauchring, blies einen kleineren
 hindurch und fuhr fort:
 
-Ah allweise, wir hätten das Bildchen gefunden,
-on dem diese Platten die Verarößerutigen darstellen, mein
-Ufer, — dem, um 02 gleich zu betonen: Dieses sind Wer I
-belangen einer eittzjlaen Photographie eines Schrillte,
-Mr des Schriftliches selbst,«
+»Ich wünschte, wir hätten das Bildchen gefunden,
+von dem diese Platten die Vergrößerungen darstellen, mein
+Alter, — dem, um es gleich zu betonen: dieses sind Vergrößerungen
+einer einzigen Photographie eines Schriftstücks,
+nichts des Schriftstückes selbst,«
 
-Dann Visite er sich ist Schweigen, nahm die matten
-Rentner wieder zur Hand und hielt sie gegen das Licht, Es
-handelte sich ja im Photographie ehe Megative.
+Dann hüllte er sich in Schweigen, nahm die Platten
+immer wieder zur Hand und hielt sie gegen das Licht. Es
+handelte sich ja um photographische Negative.
 
-Meere Tale, rot ten, noch
+Ich trank nur eine Tasse, gähnte verstohlen.
 
-Harald wär bereits bei der drittens.
+Harald war bereits bei der dritten.
 
-Jetzt war schlafen,« meinte er da.
+»Geh’ nur schlafen,« meinte er da.
 
-Wenn man neun Jahre älter als D Harald Harst
-entbehrt man den Schlaf nicht so leicht,
+Wenn man neun Jahre älter als ein Harald Harst
+ist, entbehrt man den Schlaf nicht so leicht,
 
 <@pagebreak/>
-Ich sagte Harald aufs Nacht und ging in meine ein
-guter hinüber.
+Ich sagte Harald gute Nacht und ging in meine Zimmer
+hinüber.
 
-Ich war noch beim Ausreißen. als es klopfte: Harst!
+Ich war noch beim Auskleiden, als es klopfte: Harst!
 
-»Du — ich« Dich nur wieder alt,« sagte er äußerst
-Eng »Wir reisen. 1 Noch heute — nach. Nordafrika.«
+»Du — zieh’ Dich nur wieder an,« sagte er äußerst
+lebendig. »Wir reisen...! Noch heute — nach Nordafrika.«
 
 Ich saß auf dem Bettrand,
 
 »Wohin?«
 
-»Nach Nord — afri — ja! Werde munter! Wir reisen
-als Holländer, denn in Mlr’r würde man uns als
+»Nach Nord — afri — ka! Werde munter! Wir reisen
+als Holländer, denn in Algier würde man uns als
 Deutsche kaum mit offenen Armen aufnehmen.«
 
-Dann machte er kehrt. rief noch. bevor er die Tür aus
-schlug: »Ich werde packen. Um elf geht ein Zug nach
-Mönchen. Also — Triebe unter die Tue, damit Du erst
-im Zuge wieder einschläft.« — è
+Dann machte er kehrt, rief noch bevor er die Tür zuschlug:
+»Ich werde packen. Um elf geht ein Zug nach
+München. Also — krieche unter die Dusche, damit Du erst
+im Zuge wieder einschläfst.« —
 
-Wir brannten rundlich den Es-Uhr- Aha: das heißt,
+Wir benutzten wirklich den Elf-Uhr-Zug; das heißt,
 es waren nicht Harst und Schraut, die ein Abteil zweiter
-Klasse bestiegen. Es waren zwei wäürdiae blondbärtige
-An die uns kaum alten. Der Spätere trug einen
-reisen. der kleinere korpulente eine Gornbrille.
+Klasse bestiegen. Es waren zwei würdige blondbärtige
+Herren, die uns kaum glichen. Der größere trug einen
+Kneifer, der kleinere korpulente eine Hornbrille.
 
 Meine Fragen, was wir in Algier sollten, blieben —
 natürlich! — unbeantwortet.
 
 »Warte ab!« Damit mußte ich mich begnügen.
 
-Loch schlief beinahe bis München in meiner Ecke.
+Ich schlief beinahe bis München in meiner Ecke.
 
-Als ich er« »re, glühte Das Fenster des Abteils in
+Als ich erwachte, glühte Das Fenster des Abteils in
 feurigem Rot: Abendröte.
 
-Haralds Platz neben mir war leer. Aber eine Eng
+Haralds Platz neben mir war leer. Aber eine
 Engländerin mir gegenüber erklärte, Mr. van Booren sei im
 Speisewagen
 
 ich verspürte wütenden Hunger. Speisewagen —
-das hakte mir!
+das paßte mir!
 
-Aber — Dir. kam Booren war nicht daß — Mr flehte
-er?! — Ah He mich im Raucherabteil an ein Tischchen.
+Aber — Mr. van Booren war nicht da! — Wo steckte
+er?! — Ich setzte mich im Raucherabteil an ein Tischchen,
 bestellte belegte Brötchen, Rührei
 
 Und dann kam Harald, kam, nahm Platz, beugte sich
-Aber den Tisch.; in
+über den Tisch.
 
-»Der Alumwiuk war im Ade« flüsterte er, »Die
-Sache ich Wien?!lich. Der Kerl ist uns fraglos aus den!
+»Der Klumpfuß war im Zuge,« flüsterte er. »Die
+Sache wird brenzlich. Der Kerl ist uns fraglos auf den
 Fersen ab Berlin!«
 
 <@pagebreak/>
-»Wie munkelt Du denn als ihn aufmerksam.« fragte
-um« schob den Fetter beiseite
+»Wie wurdest Du denn auf ihn aufmerksam.« fragte
+ich und schob den Teller beiseite
 
 »Weil er stark hinkte und dreimal an unsrem Abteil
-orübrrfam Ein scschmnarzbartiger Mensch ist’s, ein Mrs
-biltpaeficht. blaß gut gekleidet, Als ich ihm beim dritten
-Male nacheilte. hielt der Lauernde in Bändern, und die
-ooinsteiaenden versperrten mir den Weg. Nun ist der
+vorüberkam. Ein schwarzbärtiger Mensch ist’s, ein Mephistogesicht,
+blaß, gut gekleidet. Als ich ihm beim dritten
+Male nacheilte, hielt der Zug gerade in Bamberg, und die
+Neueinsteigenden versperrten mir den Weg. Nun ist der
 Mensch verschwunden«
 
-»Also nicht mehr im Auge?
+»Also nicht mehr im Zuge?
 
-»Wer weiß?! — Nebengasse — er hatte einen Klump-fint&
-genau so einen. wir ihn meine Zeichnung wie-ergibt.
-Mir werden in Plänchen daher sofort spurlos
-verduften. fahren mit einem Auto bis zur Gegen?Station« —
+»Wer weiß?! — Jedenfalls — er hatte einen Klumpfuß
+links, genau so einen, wie ihn meine Zeichnung wiedergibt.
+Wir werden in München daher sofort spurlos
+verduften, fahren mit einem Auto bis zur Grenzstation.« —
 
-Ich kann mir Einzelheiten unserer Weiterreise sag
-Der Klumpfuß war abgeschüttelt. Am 22 ten mit
-As landeten wir in Algier — auf afrifkfanischem Boden,
-nd noch immer wußte ich nicht, was wir hier sollten. Ich
-ahnte ja, daß 08 sich um das »verlaufene« Schrisfistiück kam
-Zelte, Ich hatte das auch zu Harst gesagt, und er hatte er
-der!: »Dann bist Du ja im Bilde!«
+Ich kann mir Einzelheiten unserer Weiterreise sparen.
+Der Klumpfuß war abgeschüttelt. Am 22ten mittags
+landeten wir in Algier — auf afrikanischem Boden.
+Und noch immer wußte ich nicht, was wir hier sollten. Ich
+ahnte ja, daß es sich um das »verlaufene« Schriftstück handelte.
+Ich hatte das auch zu Harst gesagt, und er hatte erwidert:
+»Dann bist Du ja im Bilde!«
 
-Ich kannte Algier nicht, Und — war zwei Stunden
-später entzückt, begeistert, berauscht, Hand auf dem Bou-vardde
-kg Republique, dieser Prachtstraße, war inmitten
-Schnee Treibens, wi es bunter keine indische Hafenstadt biegen
+Ich kannte Algier nicht. Und — war zwei Stunden
+später entzückt, begeistert, berauscht, stand auf dem Boulevard
+de la Republique, dieser Prachtstraße, war inmitten
+eines Treibens, wie es bunter keine indische Hafenstadt bieten
 kann.
 
 Wir hatten im Hotel rasch gefrühstückt, hatten uns dann
-Minen Führer aecfauft, schlenderten nun den Boulevard
-nilana und Brannten die alte maurische Moschee Lschama
-Dischedid mit sehnsüchtigen Augen an — mit Augen,
-ie diese Moschee mit indischen Prachtbauten vergl!her,
+einen Führer gekauft, schlenderten nun den Boulevard
+entlang und staunten die alte maurische Moschee Dschama
+el Dschedid mit sehnsüchtigen Augen an — mit Augen,
+die diese Moschee mit indischen Prachtbauten verglichen.
 
-Harst bog dann, den gedruckten Führer zu Rate Bietest,
-nach links ab — am Theater vorbei — In eine Bar
-Filiale hinein — in die Rue de Kasba.
+Harst bog dann, den gedruckten Führer zu Rate ziehend,
+nach links ab — am Theater vorbei. — In eine Basarstraße
+hinein — in die Rue de Kasba.
 
-»Wir sind am Ziel!« sagte Harst freudig und deu-auf
-ein Porzellanschild neben der Haustür eines großen
+»Wir sind am Ziel!« sagte Harst freudig und deutete
+auf ein Porzellanschild neben der Haustür eines großen
 modernen Hauses:
 
 > Dr. Jean de Sartarella,
 
-> Advolkai und Notar.
+> Advokat und Notar.
 
 <@pagebreak/>
 
 Monsieur Dr. Jean de Sartarella war in seinem Büro.
 
-Ein kleines, dürres Männchen, zappelig, überhob sich.
+Ein kleines, dürres Männchen, zappelig, überhöflich.
 
-Auf unseren Karten, die wir ihm hineingeschiclt hatten,
+Auf unseren Karten, die wir ihm hineingeschickt hatten,
 waren wir Amsterdamer Detektive namens van Booren
 und van ten Groot.
 
-Die Unterhaltung wurde In sranmzö«-r Sprache geführt.
+Die Unterhaltung wurde In französischer Sprache geführt.
 Holländisch verstand der Advokat zum Glück nicht.
-Frech nämlich auch nicht,
+Ich nämlich auch nicht.
 
 Harst zog einen Bogen Papier hervor,
 
-»Herr de Sartarella, bei einem in ne bekam verbal
-steten »Verbrecher fanden wir photographische Negative eignet
+»Herr de Sartarella, bei einem in Amsterdam verhafteten
+Verbrecher fanden wir photographische Negative eines
 Schriftstücks,« begann er. »Es waren ohne Frage
-Vergrößerungen eines winzigen Photogramms - eines
-handschriftlich abgelassen Schreibens, Sie sehen hier auf
+Vergrößerungen eines winzigen Photogramms, eines
+handschriftlich abgefaßten Schreibens. Sie sehen hier auf
 diesem Bogen die von mir genau nachgezeichneten völlig
-versunkenen Schriftzeichen. Worte lassen sich daraus am
-mehr entziffern. über hier oben rechts Stehen fraglos
-Straße und Datum. Der Name des Ortes scheint A.
-Billig zu um Der erste Buchstabe ist vielleicht ein lateinisches
-A, sagte ich mir bei Prüfung der — Lichtzeichen.
-Unter diesem ersten Namen, daß wohl die Ortsangabe.
-sind in Zwischenräumen vier kurze Buchstaben- oder sah
-Zeuglappen zu oben, Der erste Buchstabe der ersten Grüne
-mag ein lateinisches R sein. Ich riet auf Tue — die
-französische Bezeichnung für Stabe, Also war anzunoh-meint,
+verlaufenen Schriftzeichen. Worte lassen sich daraus nicht
+mehr entziffern. Aber hier oben rechts stehen fraglos
+Straße und Datum. Der Name des Ortes scheint zweisilbig
+zu sein. Der erste Buchstabe ist vielleicht ein lateinisches
+A, sagte ich mir bei Prüfung der Schriftzeichen.
+Unter diesem ersten Namen, doch wohl die Ortsangabe,
+sind in Zwischenräumen vier kurze Buchstaben- oder
+Zahlengruppen zu sehen. Der erste Buchstabe der ersten Gruppe
+mag ein lateinisches R sein. Ich riet auf Rue — die
+französische Bezeichnung für Straße. Also war anzunehmen,
 daß auf dieses Rue der Name der Straße und die
 Nummer des Hauses folgte.«
 
-»Höchst an« wart der Advokat ein. »Nur wer
-Komplex, Herr van Planten,«
+»Höchst interessant,« warf der Advokat ein. »Nur weiter,
+Herr van Booren.«
 
-»Auf Nur folgen nur zwei Buchstaben — vielleicht
-»der also Rue de Dann die dritte Buchstabenarunpe.
-- Davon sind die beiden letzten Buchstaben zweifellos ein
-und ein a. Also Nur de da. Die vierte Gruppe also
-mußte wohl die Kanänunmmer sein und War eine Zwei
-zierliche sei. — Nachdem ich Soweit Die. Ziehriimilae er
-raten hatte, kam mir meine Kemtinig Französischer na
-Romanen zu Hilfe, Roh bin heute nicht zum ersten Mal
-in Algier, Sich wußte, daß es hier eine Rue de Masba
-gibt. und da ja der Ortsname- anscheinend mit einen
-begann, Prüfte ich, ob Die Zahl der versunkenen Buchstaben
+»Auf Rue folgen nur zwei Buchstaben — vielleicht
+»de» also Rue de... Dann die dritte Buchstabengruppe.
+Davon sind die beiden letzten Buchstaben zweifellos ein b
+und ein a. Also Rue de ...ba. Die vierte Gruppe also
+mußte wohl die Hausnummer sein und zwar eine Zweistellige
+Zahl. — Nachdem ich Soweit Die Schriftzüge erraten
+hatte, kam mir meine Kenntnis französischer Straßennamen
+zu Hilfe. Ich bin heute nicht zum ersten Mal
+in Algier. ich wußte, daß es hier eine Rue de Kasba
+gibt, und da ja der Ortsname anscheinend mit einem A
+begann, Prüfte ich, ob Die Zahl der verlaufenen Buchstaben
 <@pagebreak/>
-Diele Namens mir Minder übereinstimmte Und —
+dieses Namens mit Algier übereinstimmte. Und —
 es stimmte!«
 
 »Glänzend — glänzend!« lächelte der zappelige Anwalt.
 
 »Da nun auch die Zahl der Buchstaben des Straßennamens
-Aasba, wie ich, ihn erraten, Im diese Kombination
-hineinpaßte. war ich meiner ade so ziemlich sicher, daß
+Kasba, wie ich ihn erraten, in diese Kombination
+hineinpaßte, war ich meiner Sache so ziemlich sicher, daß
 das Schriftstück hier in Algier ausgefertigt sein müßte.
-Wir, mein, Kollege und ich. sind daher sofort noch Algier
+Wir, mein Kollege und ich, sind daher sofort noch Algier
 gereist.«
 
-»fabelhaft!« grinste Sartarella, »Aber wie kamen
+»fabelhaft!« grinste Sartarella. »Aber wie kamen
 Sie auf meine Person?«
 
-»Bitte — hier unter dem Text ’ des Schriftstücks sieht
+»Bitte — hier unter dem Text des Schriftstücks sieht
 man rechts eine Unterschrift, Vor- und Zuname, unleserlich.
 Links ein paar Zeilen, darunter ein Siegel und ebenfalls
-ne Unterschrift Diese zweite Unterschrift kann, sagte ich
-ir, die eines Notars sein Und sie zeigt vier Buchsta-enaruppen,
+eine Unterschrift. Diese zweite Unterschrift kann, sagte ich
+mir, die eines Notars sein. Und sie zeigt vier Buchstabengruppen,
 die erste nur zwei Buchstaben, dann vier, dann
-dann zehn, Und als ich nun vorhin mit meinem
+zwei, dann zehn. Und als ich nun vorhin mir die Schilder der
 Notare ansah, es waren nur vier stellte ich fest, daß Ihr
-Dame Dr. Jean de Sartarella genau der Anzahl der vier
-huchltinbenariipven Durchbrach,«
+Name Dr. Jean de Sartarella genau der Anzahl der vier
+Buchstabengruppen entsprach,«
 
 Der Notar machte einen Luftsprung vor Entzücken.
-Sie und ein Genie, Herr van Booren, ein echtes Toter
+»Sie sind ein Genie, Herr van Booren, ein echtes Detektivgenie!«
 
-»ich müde nun, da ich ein Verbrechen hinter diesen«
-ermröherunge des Photogramms des Schriftstücks wir
-gern ein Titeln, was Diele gestempelte Urkunde entsank
-un’ere Diskretion. können Sie sich platten,«
+»ich möchte nun, da ich ein Verbrechen hinter diesen
+Vergrößerungen des Photogramms des Schriftstücks wittere,
+gern ermitteln, was diese gestempelte Urkunde enthält.
+Auf unsere Diskretion können Sie sich verlassen,«
 
-Sartarella lächelte wititin. »Nest will ich mu des
-sen, das: a1 ich ich kombinieren kann, Herr van Von [n
-Schrislstü! ist ein Testament, das vor mir als Voran
-legt wurde. Der cjacntlicve Text hol’ - en. An!;te
-— »bat lh) er. auf Athlet Nachzeichnung der verlaufen
-söberuma 42 Zeilen, Da ich von jedem Erstaunen
-n0 geraume Albischrist zu meinen Geheimakten nehme, wer
-sowohl das richtige Testament Durch die Zeilenan-hl
+Sartarella lächelte pfiffig. »Jetzt will ich Ihnen beweisen,
+daß auch ich ich kombinieren kann, Herr van Booren.
+Dieses Schriftstück ist ein Testament, das von mir als Notar
+aufgesetzt wurde. Der eigentliche Text hat<< — er zählte
+rasch — »hat hier auf Ihrer Nachzeichnung der verlaufenen
+Vergrößerung 42 Zeilen. Da ich von jedem Testament
+eine genau Abschrift zu meinen Geheimakten nehme, werden
+wir wohl das richtige Testament Durch die Zeilenanzahl
 herausfinden,«
 
-E17 stand aus, schloß den Stahlschrank auf und nahm
+Er stand auf, schloß den Stahlschrank auf und nahm
 <@pagebreak/>
-an Mltenläüd heraus. lächelte abermals pfiffig und er
-Warte: »Ich bin erst Ten Amen- Fahren »Notar, die Zahl
-der Testamente All nicht allzugroß, wie Sie schon, Suchen
-wir von Wir I an, Zinn dasUruhere meiner Abschritt
-muß uns die Arbeit erleichtern, da ich Diele Abschriften in
-der Anordnung der Zeilen und so weiter genau dem Ok:
-ging! entsprechend Ausreise, ganz genau
+ein Aktenstück heraus, lächelte abermals pfiffig und erklärte:
+»Ich bin erst seit zwei Jahren Notar. die Zahl
+der Testamente ist nicht allzugroß, wie Sie sehen. Suchen
+wir von Nr. 1 an. Schon das Aeußere meiner Abschrift
+muß uns die Arbeit erleichtern, da ich diese Abschriften in
+der Anordnung der Zeilen und so weiter genau dem Original
+entsprechend anfertige, ganz genau.«
 
-Er begann zu blauem. Bein achtzehnten Blatt findet
-t,
+Er begann zu blättern. Beim achtzehnten Blatt stutzte
+er.
 
-»Wir haben’s Schau’« rief er, »Wir haben’s schon! —
+»Wir haben’s schon!« rief er. »Wir haben’s schon! —
 Hier — bitte!« Er löste das Blatt aus dem Patentordner
-und — Stute,
+und — stutzte.
 
-»Verdammt — hier eine Nein von mir. Ich habe
-das Criainalichoment am $ April dieses Jahres, nachdem
-der Tod doch Grblaliere mir bekannt geworden, dem (Es
-eben zugeschickt, heller, Der Erbin Sollte das Verbrechen,
-das Sie argwöhnen, Herr van Booren, mit diesem festzog
-men in nacht einer Beziehung stehen?«
+»Verdammt — hier eine Notiz von mir. Ich habe
+das Originaltestament am 5. April dieses Jahres, nachdem
+der Tod des Erblassers mir bekannt geworden, dem Erben
+zugeschickt, besser, Der Erbin. Sollte das Verbrechen,
+das Sie argwöhnen, Herr van Booren, mit diesem Testament
+in irgend einer Beziehung stehen?«
 
-Er war Bälle betrauert, der Meine, dürre Mann,
+Er war völlig verdattert, der kleine, dürre Mann,
 
-»Geben Sie der,« meinte Paris unnenuldia,
+»Geben Sie her,« meinte Harst ungeduldig.
 
-Und dann lasen wir die in französischer Sprache ab
-@erachte letztwillige Verfügung Mut wachsender Spannung.
+Und dann lasen wir die in französischer Sprache abgefaßte
+letztwillige Verfügung mit wachsender Spannung.
 
 <h2>3. Kapitel.</h2>
 
@@ -2359,7 +2360,7 @@ aus, so daß Pumpe, der Freund Meinkes, das für ihn
 fraglos sehr wichtige Erkennungswort »Kapo-ratta-Präparat
 <@pagebreak/>
 nicht mehr entziffern konnte. Ich behaupte, daß die
-beiden Die Photographie nur dieses (Grkennungswortes
+beiden Die Photographie nur dieses Erkennungswortes
 wegen so oft vergrößert haben. Denn alles andere hatte
 linke gut behalten: 199 das Gelb Tonerde, mw es glauben
 war, Parnack bat das Geld dann ja geholt, natür-ch
@@ -2424,7 +2425,7 @@ Ein Haufe Touristen schob sich an uns vorbei in das
 alte langgestreckte Haus hinein. Wir Monaten nun rasch
 unter die holde Weiblichkeit der Globetrotter. wir erblickten
 unseren Klumpfuß an einem Tischchen an einer der
-Zteinfäulen sitzen.
+Steinsäulen sitzen.
 
 Zwei Häuserreihen flößten den dreifach gewölbten
 niederen Raum, Angenehm kühl war e& hier. Seltsame
@@ -2436,7 +2437,7 @@ im Hintergrunde aus einem Podium eine Musikkapelle,
 der Kapellmeister im Fracht
 
 Wir fanden noch zwei freie Stühle an einem von drei
-Männern in Steuermannätracht besessen Tische, eben hinter
+Männern in Steuermannstracht besessen Tische, eben hinter
 einer der diesen gemauerten Säulen. Die drei Seeleute
 hatten sich eben erst niedergelassen, Harst hatte in
 holländischer Spyrache gefragt. ob wir Mag nehmen Tür sehen.
@@ -2595,7 +2596,7 @@ ein Wir Famos Duncanly
 
 Er — — warnte uns,
 
-»Vorgestern ist an der Festlandfküste ein Dampfer geändert
+»Vorgestern ist an der Festlandsküste ein Dampfer geändert
 und verbrannt worden, seit einem Monat der
 probierte. Jahre nach fällt auf, Mylord. Ich hielt es für
 meine Pflicht, Sie zu warnen.« je
@@ -2794,7 +2795,7 @@ Und mit einem bereits sehr schadhafter Balkendache versehen,
 stand auf einer Bergterrasse inmitten haushohen
 Dornengestrüpps und zeigte die Architektur all dieser alten
 Bauwerke; eine nach Osten zu offene Halle, davor vier Reiben
-Sieinfäulen und eine breite Seintreppe.
+Steinsäulen und eine breite Steintreppe.
 
 Kaum waren wir bis an den Fuß der Treppe ner
 langt, als unter den Säulen ein älterer Tonkinese mit riesigen
@@ -2986,7 +2987,7 @@ aus wie ein Weiticbenbieh,
 
 Er schnellte vorwärts — riß einen Revolver hervor.
 
-In »Halt. Schurke. Mörder!« brüllte er mit einem Gen, fl
+In »Halt. Schurke. Mörder!« brüllte er mit einem Stim-
 <@pagebreak/>
 menaufwand, daß der Klumpfuß unwillkürlich im Laufe
 innehielt...
@@ -3032,7 +3033,7 @@ Nebensache geöffnet, Die beiden Götzenstatuen waren aus
 Holz geschnitzt und zum Teil sehr dick mit Gold ausgelegt.
 Sie stehen heute im Museum für Völkerkunde. Das
 Museum kaufte sie Klara Rittler für eine Phantasiesumme
-ab, die ein unaenannter Gönner zur Verfügung stellte.
+ab, die ein ungenannter Gönner zur Verfügung stellte.
 
 Die blonde Malerin ist längst Frau Gerhardi.
 
