@@ -2156,7 +2156,7 @@ Nummer des Hauses folgte.«
 Herr van Booren.«
 
 »Auf Rue folgen nur zwei Buchstaben — vielleicht
-»de» also Rue de... Dann die dritte Buchstabengruppe.
+»de« also Rue de... Dann die dritte Buchstabengruppe.
 Davon sind die beiden letzten Buchstaben zweifellos ein b
 und ein a. Also Rue de ...ba. Die vierte Gruppe also
 mußte wohl die Hausnummer sein und zwar eine Zweistellige
@@ -2204,7 +2204,7 @@ Auf unsere Diskretion können Sie sich verlassen,«
 Sartarella lächelte pfiffig. »Jetzt will ich Ihnen beweisen,
 daß auch ich ich kombinieren kann, Herr van Booren.
 Dieses Schriftstück ist ein Testament, das von mir als Notar
-aufgesetzt wurde. Der eigentliche Text hat<< — er zählte
+aufgesetzt wurde. Der eigentliche Text hat« — er zählte
 rasch — »hat hier auf Ihrer Nachzeichnung der verlaufenen
 Vergrößerung 42 Zeilen. Da ich von jedem Testament
 eine genau Abschrift zu meinen Geheimakten nehme, werden
@@ -2244,71 +2244,72 @@ letztwillige Verfügung mit wachsender Spannung.
 
 <h2>3. Kapitel.</h2>
 
-> Maler,
+> Algier,
 
-> Rue de Afrika 64
+> Rue de Kasba 64
 
-> den 2 September 1921,
+> den 2. September 1921.
 
-Vor dem unterzeichneten Notar erschien heute der Kot
-Korporal der Fremdenileaion Sätze Herbert Geplant Branker
-und erklärte, vor seinem Angelten noch fintocina
-seinen letzten Willen zu Finsterer geben zu wollen. (Es
-folgten hier Brankers Personalien, aus denen in
+Vor dem unterzeichneten Notar erschien heute der
+Korporal der Fremdenlegion Oskar Herbert Gerhard Branker
+und erklärte, vor seinem Ausrücken nach Indochina
+seinen letzten Willen zu Protokoll geben zu wollen. (Es
+folgten hier Brankers Personalien, aus denen lediglich
 <@pagebreak/>
-emerlenäwer ist, daß sehne Mutter in zweiter Ehe mit
-Kaufmann Franz Gerhardi, Berlin, verheiratet ge
-speien fror Dann begann das eigentliche Testament)
+bemerkenswert ist, daß seine Mutter in zweiter Ehe mit
+dem Kaufmann Franz Gerhardi, Berlin, verheiratet gewesen
+war. Dann begann das eigentliche Testament)
 
-8b Geplant Benutzten, bestimme. daß meine auf der
-bissigen Bank lagernden Ersparnisse im Betrage von 5800
-Francs Du Mutter, berenelictien und verwitweten
-Frau Sophie Gerhardi, Berlin-Wilnerövori, Pauslsbor-mer
+Ich, Gerhard Branker, bestimme, daß meine auf der
+hiesigen Bank lagernden Ersparnisse im Betrage von 5800
+Francs meiner Mutter, verehelichten und verwitweten
+Frau Sophie Gerhardi, Berlin-Wilmersdorf, Paulsborner
 Straße 211 zuletzt wohnhaft, im Falle meines Todes
-ausgezahlt werden sollen. Sollte meine Mutter vor mich
-sterben, so soll meine Vase, die Malerin Klara Rittler, ebene
-da wohnhaîït, meine Steinige Erbin sein, Außer oben elf
-Hm Heldbetraa hin!erlasse ich als Andenken an meine
-erste Dienitieit in Mach-Wink in Tonkin den Meinen Bude
-Buddha-Tempel auf der Angel Per südlich von Mach-Sind,
+ausgezahlt werden sollen. Sollte meine Mutter vor mir
+sterben, so soll meine Base, die Malerin Klara Rittler, ebenda
+wohnhaft, meine alleinige Erbin sein. Außer oben erwähntem
+Geldbetrag hinterlasse ich als Andenken an meine
+erste Dienstzeit in Ninh-Binh in Tonkin den kleinen
+Buddha-Tempel auf der Insel Nee südlich von Ninh-Binh,
 den ich 1919 käuflich erwarb und in dem der Tonkinese
-Lain-Hao als mein Verwalter wohnt, Ich rate dringend,
-Mine Nertrauenaverion nach meinem Lohe dorthin zu Der
-en, die dem Tonkinesen nur das Wort, Kapo-ratta-Braun«
-Man Erkennungszeichen anzugeben braucht. Lain-Hao
-ward meinem Erben dann die auf die Tempelruine As
-Eichen Papiere und alles andere aushändigen. — Ich des
-Wo Wie die, daß ich seinerzeit aus Abenteuerlust meine Mutter
-verlassen habe, hoffe jedoch, vbs! sie von mir dem
-bebenden Geldunterstützungen abgelehnt hat, durch dieses
-Testament ihren Lebensabend sorglos Au gestalten und ihr
-beweisen, daß ich ihrer stets in Liebe gedacht habe. Mr
-Jenem lösten Gruß für meine Mutter und meine Bare,
-Wenig für meinen Vetter Fritz Gerhardi schliefe ich diese
-rásfligen Beslmnrtunaen.
+Lain-Hao als mein Verwalter wohnt. Ich rate dringend,
+eine Vertrauensperson nach meinem Tode dorthin zu senden,
+die dem Tonkinesen nur das Wort, »Kapo-ratta-Branka«
+als Erkennungszeichen anzugeben braucht. Lain-Hao
+wird meinem Erben dann die auf die Tempelruine bezüglichen
+Papiere und alles andere aushändigen. — Ich bedauere
+tief, daß ich seinerzeit aus Abenteuerlust meine Mutter
+verlassen habe, hoffe jedoch, obwohl sie von mir dem
+Lebenden Geldunterstützungen abgelehnt hat, durch dieses
+Testament ihren Lebensabend sorglos zu gestalten und ihr
+zu beweisen, daß ich ihrer stets in Liebe gedacht habe. Mit
+einem letzten Gruß für meine Mutter und meine Base,
+ebenso für meinen Vetter Fritz Gerhardi schließe ich diese
+letztwilligen Bestimmungen.
 
-Dieses Testament so! dem Erben erst nach meinem
-è zugehen, Bis dahin soll der Notar, der meine Unter
-ist beglaubigt, es in sicherem Gewahrsam Rum uns
-nie einem Unberufener zeigen.
+Dieses Testament soll dem Erben erst nach meinem
+Tode zugehen. Bis dahin soll der Notar, der meine Unterschrift
+beglaubigt, es in sicherem Gewahrsam halten und
+nie einem Unberufenen zeigen.
 
-> @ten erbe. Blond.
-
-> Bau Lain Mord Börporal ist 1. Freud
-
-> des Korporals Branker erschwert.
-
-> wird beglaubigt.
-
-> Dr. Jean de Sartarella. Notar.
+<table border="0">
+<tr><td style="line-break: pre-wrap; text-align: center;">Siegel,
+die eigenhändige Unterschrift
+des Korporals Branker
+wird beglaubigt.
+Dr. Jean de Sartarella. Notar.</td>
+<td style="line-break: pre-wrap; text-align: center;">Gerhard Branker
+Korporal im 1. Fremden\-
+regiment.</td></tr>
+</table>
 
 <@pagebreak/>
 Harald legte die Urkunde war sich auf den Tisch,
 
-»Bezahlter ist also besüimmt verstorben?« fragte er.
+»Branker ist also bestimmt verstorben?« fragte er.
 
 »Ja, Herr van Booren, — am Sumpffieber in Indochina
-alt $ Januar dieses Jahres.«
+am 3. Januar dieses Jahres.«
 
 »Und wem sandten Sie das Testament?«
 
@@ -2316,221 +2317,221 @@ alt $ Januar dieses Jahres.«
 
 »Sind die 5800 Francs abgehoben worden?«
 
-Ehrlich gesagt: das weiß ich nicht. Sich babe’ der
+»Ehrlich gesagt: das weiß ich nicht. ich habe der
 hiesigen Filiale der Bank de Paris nur mitgeteilt, daß
-Frau Gerhardi die Burg leiten er ist,«
+Frau Gerhardi die Empfangsberechtigte ist,«
 
-Harst kann eine Weile vor sich bin. kann erklärte er:
+Harst sann eine Weile vor sich hin, dann erklärte er:
 
-»ich möchte Sie bitten, einmal de Bank telephonisch
+»ich möchte Sie bitten, einmal die Bank telephonisch
 anzufragen, Herr Notar.«
 
 »Gern — sofort.« Und der kleine Zappelige hatte den
-Hörer Er in der Hand.
+Hörer schon in der Hand.
 
 »Hier Notar Dr. Sartarella...« Er stellte die Frage
-sehr umständlich, »Gut — ich warte...« Minuten der-ainacı.
+sehr umständlich. »Gut — ich warte...« Minuten vergingen.
 Dann der Bescheid: Ein Bevollmächtigter Frau
-Gertiacdis hatte das Geld am 24. April abgehoben Er
-nachschaue sich Durch verschiedene Papiere, insbesondere Dar
-eine anhaftete Vollmacht Der Erbin vom 19. April nen
-aend ausgewiesen. Sein Name war. Gisbert Parnack
+Gerhardis hatte das Geld am 24. April abgehoben. Er
+hatte sich Durch verschiedene Papiere, insbesondere durch
+eine notarielle Vollmacht Der Erbin vom 19. April genügend
+ausgewiesen. Sein Name war... Gisbert Parnack!
 
 Harald und ich tauschten einen langen Blick,
 
 Also wirklich Parnack!
 
-Sartarella feste sich wieder.
+Sartarella setzte sich wieder.
 
 Harst ließ nun die Maske fallen, legte dem Notar seinen
-Ausweis als Privatdetektiv Hara’d Harst aus Bett
-lin vor und weile ihn in alles ein.
+Ausweis als Privatdetektiv Harald Harst aus Berlin
+vor und weihte ihn in alles ein.
 
-»ich bin überzeugt, daß Uhr Eines eeibebrict mit dem
-Testament irgendwie von dem Portier Neigte abgefangen
+»ich bin überzeugt, daß Ihr Einschreibebrief mit dem
+Testament irgendwie von dem Portier Meinke abgefangen
 worden ist,« erklärte er, nachdem die Vorgeschichte unserer
-Neffe hierher erledigt war. »Oder Meinke bat sich zum
-mindesten Kenntnis von dem Anhalt des Testaments verschafft
-Er mag es photographiert haben, Ja, so wird
-sein. Das paßt besser in die ganzen Ereignisse hinein.
-photographierte es. Dann wurde è vernichtet,
-Meinke oder Frau Gerhardi dies getan bat, muß noch
-aufgeklärt werden, Die Photographie fiel sehr unscharf
-aus, so daß Pumpe, der Freund Meinkes, das für ihn
-fraglos sehr wichtige Erkennungswort »Kapo-ratta-Präparat
+Reise hierher erledigt war. »Oder Meinke hat sich zum
+mindesten Kenntnis von dem Inhalt des Testaments verschafft.
+Er mag es photographiert haben. Ja, so wird es
+sein. Das paßt besser in die ganzen Ereignisse hinein. Er
+photographierte es. Dann wurde es vernichtet. Ob
+Meinke oder Frau Gerhardi dies getan hat, muß noch
+aufgeklärt werden. Die Photographie fiel sehr unscharf
+aus, so daß Parnack, der Freund Meinkes, das für ihn
+fraglos sehr wichtige Erkennungswort »Kapo-ratta-Branka«
 <@pagebreak/>
 nicht mehr entziffern konnte. Ich behaupte, daß die
 beiden Die Photographie nur dieses Erkennungswortes
 wegen so oft vergrößert haben. Denn alles andere hatte
-linke gut behalten: 199 das Gelb Tonerde, mw es glauben
-war, Parnack bat das Geld dann ja geholt, natür-ch
-mit Hilfe von ihm aefälidner Papiere. ich behaupte
-weiter, daß Frau Gerharbdi nur weshalb am 14, April be-ieutlat
+Meinke gut behalten: wo das Geld lagerte, wo es abzuholen
+war. Parnack hat das Geld dann ja geholt, natürlich
+mit Hilfe von ihm gefälschter Papiere. ich behaupte
+weiter, daß Frau Gerhardi nur weshalb am 14. April beseitigt
 wurde, damit sie, die das Testament erhalten und
-belesen hatte, verschwände, Am 5: April schicken Sie es
-ab, wert Notar, am 14, verschwhknd die Frau. Ich denke,
+gelesen hatte, verschwände. Am 5. April schickten Sie es
+ab, Herr Notar, am 14. verschwand die Frau. Ich denke,
 da gibt es kaum einen Zweifel über die Zusammenhänge.«
 
-»Allerdings nicht,« nickte Sartarella Ich ernst. »Sie
+»Allerdings nicht,« nickte Sartarella sehr ernst. »Sie
 glauben nicht, wie froh ich bin, Herr Harst, daß ich Die
-naeleaenbeit in so guten Händen weiß. Falls Sie die
-Abschrift mimehmen wollen — bitte sehr!«
+Angelegenheit in so guten Händen weiß. Falls Sie die
+Abschrift mitnehmen wollen — bitte sehr!«
 
-Gier darauf traten ragte wieder auf die Rue de Kasba
+Gleich darauf traten wir wieder auf die Rue de Kasba
 hinaus.
 
-schritt Schweigend neben mir der.
+Harald schritt Schweigend neben mir her.
 
-Namen wieder auf den Boulevard de ja Republique.
-Wir waren wieder auf der schattigen Mittelpromentade,
-glitten den Saälzaeruch des Meeres, Bad da vor uns jen-eitó
-der steinernen Hasendänane im Sonnenglast schillerte.
+Wir kamen wieder auf den Boulevard de la Republique.
+Wir waren wieder auf der schattigen Mittelpromenade,
+spürten den Salzgeruch des Meeres, das da vor uns jenseits
+der steinernen Hafendämme im Sonnenglast schillerte.
 
-Und da war’s, daß Harald mich vlôulih Unterkaste,
-weinen Arm drückte
+Und da war’s, daß Harald mich plötzlich unterfaßte,
+meinen Arm drückte.
 
-»Der Dann mit dem Alumptuk.. I« flüsterte er.
+»Der Mann mit dem Klumpfuß...!« flüsterte er.
 
-Bus war noch stärker als das Westufers. Das war
-Mähnruf: »Parnack über auch!«
+Das war noch stärker als das Testament. Das war
+ein Mahnruf: »Parnack über Euch!«
 
-und nun sah ich Ihn ebenfalls, den hinkenden, Feld
-eerwachtenen Menschen. Die linke Schulter stand etwas
-gröber, und schwer stünde er sich beim Geben auf einen Star
-en, eleganten Spazierstock.
+und nun sah ich ihn ebenfalls, den hinkenden, leicht
+verwachsenen Menschen. Die linke Schulter stand etwas
+höher, und schwer stützte er sich beim Gehen auf einen starken,
+eleganten Spazierstock.
 
-»Er ft’ôl« sagte Harald leise. »Er ls bestimmt!
-e61 fällt mir auch ein, laß er Satanas bucklig war. Sieh
-Unten Stiefel, mein Alter! Er ifl’al«
+»Er ist’s!« sagte Harald leise. »Er ist’s bestimmt!
+Jetzt fällt mir auch ein, daß er etwas bucklig war. Sieh
+den linken Stiefel, mein Alter! Er ist’s!«
 
-Der Mann trug einen hellen Anzug, dazu einen da
-Pramáabuk Er ging der uns, Kranke he!. Bart anbestertit.
-»bis und der. als oder nach jénmánd ausspähte,
+Der Mann trug einen hellen Anzug, dazu einen Panamahut.
+Er ging vor uns, wandte den Kopf andauernd
+hin und her, als ob er nach jemand ausspähte,
 
-»Er sucht uns — weiten!« flüsterte Harst, »Nun
-reiben wir hinter ihm. Sag Knick er wohl sehr bald eine
-der Reifen des bissigen Wollseiarfänanilied zieren«
+»Er sucht uns — wetten!« flüsterte Harst. »Nun
+bleiben wir hinter ihm. Nun wird er wohl sehr bald eine
+der Zellen des hiesigen Polizeigefängnisses zieren«
 
 <@pagebreak/>
 Wir lernten Algier kennen. Der Mann stampfte durch
-alle belebteren Strafen. Augenscheinlich suchte er mich,
-sich jemand! und beide!
+alle belebteren Straßen. Augenscheinlich suchte er wirklich
+jemand: uns beide!
 
 Bis er In der Rue de Orleans in einem maurischen
 Cafee verschwand,
 
-»Ihm mach’« meinte Harald kamvflustia. Î
+»Ihm nach!« meinte Harald kampflustig.
 
 Ein Haufe Touristen schob sich an uns vorbei in das
-alte langgestreckte Haus hinein. Wir Monaten nun rasch
-unter die holde Weiblichkeit der Globetrotter. wir erblickten
+alte langgestreckte Haus hinein. Wir mengten uns rasch
+unter die holde Weiblichkeit der Globetrotter, wir erblickten
 unseren Klumpfuß an einem Tischchen an einer der
 Steinsäulen sitzen.
 
-Zwei Häuserreihen flößten den dreifach gewölbten
-niederen Raum, Angenehm kühl war e& hier. Seltsame
+Zwei Häuserreihen stützten den dreifach gewölbten
+niederen Raum. Angenehm kühl war es hier. Seltsame
 Oellampen spendeten noch seltsamere Beleuchtung. Das
-Appetit Indra parfümierte Oel erfüllte die Lust mit einem
-Gruft, als befände man sich in einer Moschee.
+mit Ambra parfümierte Oel erfüllte die Luft mit einem
+Duft, als befände man sich in einer Moschee.
 
-im Hintergrunde aus einem Podium eine Musikkapelle,
-der Kapellmeister im Fracht
+im Hintergrunde auf einem Podium eine Musikkapelle,
+der Kapellmeister im Frack...
 
 Wir fanden noch zwei freie Stühle an einem von drei
-Männern in Steuermannstracht besessen Tische, eben hinter
+Männern in Steuermannstracht besetzten Tische, eben hinter
 einer der diesen gemauerten Säulen. Die drei Seeleute
-hatten sich eben erst niedergelassen, Harst hatte in
-holländischer Spyrache gefragt. ob wir Mag nehmen Tür sehen.
+hatten sich eben erst niedergelassen. Harst hatte in
+holländischer Sprache gefragt, ob wir Platz nehmen dürften.
 Die drei Rauhbeine antworteten nicht. Sie schienen
-bereits einige andere Lokale besucht zu haben, waren oïffen-bar
+bereits einige andere Lokale besucht zu haben, waren offenbar
 angetrunken.
 
 Wie es dann kam, daß der eine Harald plötzlich grob
-anfuhr und behauptete. ihn mit dem Fuße gestoßen zu
-haben, War mir nicht redn war, ich hatte mir die Umflorten
+anfuhr und behauptete, ihn mit dem Fuße gestoßen zu
+haben, War mir nicht recht klar. ich hatte mir die Umsitzenden
 angeschaut, wurde erst aufmerksam, als der Tisch
 mir auf den Leib kippte, als mir heißer Kaffee ins Gesicht
 floß und Harst von einem der Kerle mit einem Stuhl zu
-Boden aesclaaen wurde.
+Boden geschlagen wurde.
 
-All das spielte sich so blitzschnell ab. daß ich erst zu!
+All das spielte sich so blitzschnell ab, daß ich erst auf
 die Beine kam, als sich über Harsts Leib schon ein wüster
-minder von Kellnern, Gästen und raus lustigen Farblosen de
-bildet hatte,
+Knäuel von Kellnern, Gästen und rauflustigen Farbigen gebildet
+hatte,
 
 Ich begriff noch immer nicht, daß die ganze Rauferei
-gestellte Arbeit gewesen.
+bestellte Arbeit gewesen.
 
-Erst Ok? drei Polizeibeamte ersonnenen, mla der Anhaftet
+Erst als drei Polizeibeamte erschienen, als der Knäuel
 <@pagebreak/>
-entwirrte, als die Eeccleute spurlos verichmmnden
-gern, als Harst taumelnd sich erhob und jene Taschen In
-fühle, als sich so zeige, daß ihm Uhr nebst Kette, Bau
-etienetus und Vricftai be gestohlen waren als ich mir
-in ab eripadendem Verdacht. nach dem Mann mit de.
-hunwiuk umsah und ihn nirgends mehr erblickte, da erst
-winselte mir Die Wahrheit auf...
+sich entwirrte, als die Seeleute spurlos verschwunden
+waren, als Harst taumelnd sich erhob und seine Taschen
+befühlte, als sich so zeigte, daß ihm Uhr nebst Kette,
+Zigarettenetui und Brieftasche gestohlen waren — als ich mir
+in jäh erwachendem Verdacht nach dem Mann mit dem
+Klumpfuß umsah und ihn nirgends mehr erblickte, da erst
+dämmerte mir Die Wahrheit auf...
 
 Und — nicht nur Harst war bestohlen worden.
 
-kamen an ebenfalls umgestürzten Uebertrieben wir
-faßten ihre Handtaschen, Kellner ihre Hörten, männfice
-sie ihre wohlgespiciien Por1efeuilles
+Damen an ebenfalls umgestürzten Nebentischen vermißten
+ihre Handtaschen, Kellner ihre Börsen, männliche
+Gäste ihre wohlgespickten Portefeuilles.
 
-Alles schrie, brüllte aus die Polizeibeamten ein
+Alles schrie, brüllte auf die Polizeibeamten ein
 
-Alles deutete auf Harald, dessen falscher blonder Hob-Landschaft
-sich zum Unglück auf der einen Seine gelöst
-E
+Alles deutete auf Harald, dessen falscher blonder Holländerbart
+sich zum Unglück auf der einen Seite gelöst
+hatte.
 
 Ein Amerikaner sprach zuerst den Verdacht aus, wir
-Heide gehörten mit zu den Gaunern
+beide gehörten mit zu den Gaunern
 
-Kurz: wir wurden verhaltet, machten abgeführt!
+Kurz: wir wurden verhaftet, wurden abgeführt!
 
-»Harst ließ alles geschehen, Eine Droschke brachte
-As zur nächsten Polizeistation.
+Harst ließ alles geschehen. Eine Droschke brachte
+uns zur nächsten Polizeistation.
 
-Haralds Aufsuche, die Testamentsabschrift — auch
+Haralds Ausweis, die Testamentsabschrift — auch
 Das war mit der Brieftasche den Schurken in die Hände
-Gefallen, Und diese Kerle, darüber konnte sein Zweifel begehen,
+gefallen. Und diese Kerle, darüber konnte sein Zweifel bestehen,
 waren Kreaturen gewesen, die der Mann mit dem
-lumvpiuk angeworben hatte,
+Klumpfuß angeworben hatte,
 
-Als Harst aus der Polizeiwache unsere Namen nannte,
-wenzastens ich mich als Max Schraut, Privatdetektiv,
-Berlin, legitimieren konnte, waren die Beamten twweniqa-ftens
-so entgegenkommend. daß sie Harald gestatteten, den
-Notar Dr. Sartarcella anzurufen
+Als Harst auf der Polizeiwache unsere Namen nannte,
+als wenigstens ich mich als Max Schraut, Privatdetektiv,
+Berlin, legitimieren konnte, waren die Beamten wenigstens
+so entgegenkommend, daß sie Harald gestatteten, den
+Notar Dr. Sartarella anzurufen
 
-Sartarella benahm sich sehr. anständig, kam sofort auf
-Woche und erreichte, daß man uns unter einigen jäh-Entichuldiqunoësworten
-wieder freiließ.
+Sartarella benahm sich sehr anständig, kam sofort auf
+die Wache und erreichte, daß man uns unter einigen kühlen
+Entschuldigungsworten wieder freiließ.
 
-Mir fuhren ins Hotel. Harsts Schädel war unsförmia
-zusaeschwollen. — Er lerne sich sofort zu Bett Mü: Hilfe
-on Eiéheuteln gelang e& mir, die Folgen des Etuhlbie-
-& bis zum nächsten Morgen so weit zu beseitigen, daß wir
+Wir fuhren ins Hotel. Harsts Schädel war unförmig
+aufgeschwollen. — Er legte sich sofort zu Bett. Mit Hilfe
+von Eisbeuteln gelang es mir, die Folgen des Stuhlhiebes
+bis zum nächsten Morgen so weit zu beseitigen, daß wir
 abreisen konnten.
 
 Die Polizei hatte die Nacht über ganz Algier nach dem
-Bann mit dem Kliumpsuß abgesucht. natürlich umsonst
+Mann mit dem Klumpfuß abgesucht, natürlich umsonst
 
 <@pagebreak/>
-An der nach Euer bestimmte Dampfer den Hafen von
-Maler verließ, stand Jean de. Sartarella auf dem Kai
-und wippte uns nach.
+Als der nach Suez bestimmte Dampfer den Hafen von
+Algier verließ, stand Jean de Sartarella auf dem Kai
+und winkte uns nach.
 
-Wär lohnten an der Reling
+Wir lehnten an der Reling
 
-China Raus entschwand die Küste Afrikas unseren
-Beiden,
+Allmählich entschwand die Küste Afrikas unseren
+Blicken.
 
-Und als sie nur noch wie ein dunkler Strich am Du
+Und als sie nur noch wie ein dunkler Strich am
 Horizont zu erblicken war, sagte Harst mit verbissener Wut:
 
 »So — nun nach Tonkin! damit wir den Schuften
-dort zuvorkommen!« &
+dort zuvorkommen!«
 
 <h2>4. Kapitel.</h2>
 
@@ -2987,9 +2988,9 @@ aus wie ein Weiticbenbieh,
 
 Er schnellte vorwärts — riß einen Revolver hervor.
 
-In »Halt. Schurke. Mörder!« brüllte er mit einem Stim-
+In »Halt. Schurke. Mörder!« brüllte er mit einem Stimmenaufwand,
 <@pagebreak/>
-menaufwand, daß der Klumpfuß unwillkürlich im Laufe
+daß der Klumpfuß unwillkürlich im Laufe
 innehielt...
 
 Und — er brüllte die Worte in Deutscher Sprache
@@ -3042,7 +3043,7 @@ Und Duncanly, der Pirat? — Er starb am 3. Dezember
 Nordamerika als einfacher Bergmann. Er war sein Rade
 barer als Geplant Branker, der Abenteurerdir Komme:
 <@pagebreak/>
-der Fremdenkeaion, den man in Tonkin bei einem Gewalt-mari
+der Fremdenlegion, den man in Tonkin bei einem Gewalt-mari
 für tot in der Bergwildnis zurückgelassen hatte,
 
 Er war’s also gewesen, der den ja seiner Mutter,
