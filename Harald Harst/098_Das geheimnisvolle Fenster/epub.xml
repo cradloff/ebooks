@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">9cd6a0ca-4157-11eb-b9e8-d7a27cada294</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das geheimnisvolle Fenster</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">98</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das geheimnisvolle Fenster.
+
+Klara Rittler,
+Malerin,
+Berlin W, Paulsbornerstraße 211.
+
+stand mit Tinte geschrieben aus der Visitenkarte, die uns Mathilde, die Harstsche Köchin, am Nachmittag des 16. Mai 1922 in den Gemüsegarten brachte.
+
+Harald Harst, auf den Spaten gelehnt, mit dem er soeben ein Beet umgegraben hatte, zog die Stirn kraus.
+
+»Sagen Sie der Dame, daß ich erst übermorgen neue Aufträge annehme, Mathilde. Ich muß mich unbedingt nach diesen letzten Tagen etwas ausruhen. Der letzten Tage Qual war groß — zu groß! Einen Gisbert Parnack zur Strecke bringen, ist schlimmer, als Ihnen, liebe Mathilde klar zu machen, daß eine herrschaftliche Köchin Klienten nicht in einer so schmierigen Küchenschürze die Tür öffnet.«
+
+Die behäbige Mathilde wurde blaurot, schnappte nach Luft und trottete davon.
+
+Der Mann mit dem Klumpfuß.
+
+Es war in derselben regnerischen Mainacht vom 16ten zum 17ten morgens zwei Uhr.
+
+Ein Polizeiauto hielt vor dem Hause Paulsbornerstr. 211. Ich hatte es erwartet, begrüßte den eilig aussteigenden Bechert und nickte dem von zwei Kriminalbeamten eskortierten Fritz Gerhardi freundlich zu.
+
+»Sie werden die Handschellen hoffentlich bald los sein, Herr Gerhardi,« sagte ich nur.
+
+Dann betraten wir das Haus, stiegen im Seitenflügel die Treppen empor und standen nun im Atelier.
+
+Hier hatte sich nichts verändert.
+
+Harald und Klara Rittler saßen vor dem Sofa, auf dem Sofa Parnack und Meinke.
+
+Was dann folgte, war weit weniger dramatisch, als man den ganzen Umständen nach hätte annehmen können.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (098) Das geheimnisvolle Fenster.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
