@@ -1,6 +1,7 @@
 \bAch\b	Ich
 \bAhnen\b	Ihnen
 \bau!	auf
+\bBann\b	Dann
 \bBieter\b	Meter
 \bElement\b	Clement
 \bFahr\b	Jahr
@@ -15,8 +16,11 @@
 \blebten	letzten
 \blegte	letzte
 \blett\b	jetzt
+\bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
+\bnicke\b	nickte
+\bober\b	oder
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bTer\b	Der
