@@ -1,18 +1,14 @@
 <@pagebreak 1/>
 
-Harald Harst: Aus meinem Leben
+<#include "*/intro_short.ftl">
 
-Unser 100, Abenteuer
+<h2>1. Kapitel.</h2>
+<h3>Die Tochter des Ministers.</h3>
 
-Erzählt von
-Max Schraut
-
-Die Tochter des Ministers,
-
-Es war am 28. An! 1922 nach jener Nacht, in der
-by: Verbrecherin Jane Brack als Postbeamter verkleidet der
+Es war am 28. Juni 1922 nach jener Nacht, in der
+die Verbrecherin Jane Brack als Postbeamter verkleidet der
 polizeilichen Einkreisung entkam, in der wir ihren Vater,
-der jahrelang als harmlose Witwe und gegenüber in der
+der jahrelang als harmlose Witwe uns gegenüber in der
 Mansarde des Hauses Blücherstraße 68 gewohnt hatte, der
 Polizei übergeben konnten. Antonie Lenk hatte er sich genannt.
 Anton Lenk hieß er in Wirklichkeit.
@@ -21,25 +17,25 @@ Noch mehr war ja in dieser Nacht geschehen. Für den
 von Jane Bracks Bande gefangen gehaltenen Deutschamerikaner
 Stuart Dramar hatte die Befreiungsstunde geschlagen.
 Und die drei Männer, die dem jungen Weibe blindlings
-ergeben gewesen, waren nun gleichfalls sorgsam he-hitiete
+ergeben gewesen, waren nun gleichfalls sorgsam behütete
 Gäste des Berliner Polizeipräsidiums,
 
 Nach dieser Nacht hatten wir beide, Harald und ich,
 versäumten Schlaf am Tage nachgeholt und saßen gegen
-Brei Uhr nacmnittags nun bei einer Tasse Mokka In Haralds
+drei Uhr nachmittags nun bei einer Tasse Mokka In Haralds
 Arbeitszimmer.
 
 Harst hatte sich soeben an seinen Schreibtisch gesetzt
-machte einige Eintragungen in sein Tagebuch, sagte
-um plötzlich!
+und machte einige Eintragungen in sein Tagebuch, sagte
+dann plötzlich:
 
-»Bei Du auch, mein Aller, Daß Der Ehe Detektivabenteuer
+»Weißt Du auch, mein Aller, Daß unser nächstes Detektivabenteuer
 hier in meinem Buche unter Nummer hundert
 <@pagebreak/>
 verzeichnet werden wird? Hoffentlich wird dieses
-Erlebnis der Fubiläumszahl Hundert entsprechend etwas Besonderes!«
+Erlebnis der Jubiläumszahl Hundert entsprechend etwas Besonderes!«
 
-Er lehnte sich im Schreibtischsessel zurück und führte
+Er lehnte sich im Schreibtischsessel zurück und führte die
 Zigarette zum Munde,
 
 Ich sah von meinem Sessel aus sein scharfes Profil,
@@ -47,116 +43,116 @@ freute mich wieder einmal über die kraftvolle und doch so
 durchgeistigte Schönheit dieses Männergesichts und...
 
 Ja — und wunderte mich, daß Harald sich allmähtch
-UG Du vorbeugte und starr geradeaus auf das Fenster
+immer mehr vorbeugte und starr geradeaus auf das Fenster
 blickte.
 
 Dann stand er auf, schlug den handgeknüpften Vorhang
 beiseite und sagte leise:
 
-»Ein Gruß von Jane Brack, mein Alter, eingeritzt
-außen in die rechte untere Scheibe
+»Ein Gruß von Jane Brack, mein Alter, eingeritzt von
+außen in die rechte untere Scheibe...
 
 > Sie werden noch heute in meiner Gewalt sein,
 
-> Sie beide! — Jane. 28, 6. 1922,
+> Sie beide! — Jane. 28. 6. 1922.
 
 Eingeritzt mit einem Diamanten — unauslöschbar! Man
 müßte denn gerade die Scheibe zertrümmern. Und das
-werden wir nicht tun. Wir werden nur sehr« dar ) is
+werden wir nicht tun. Wir werden nur sehr vorsichtig
 sein. Jane hat diesen Gruß fraglos in der verflossenen
-Nacht kurz na ihrer Flucht hier in die Scheibe eingegraben.
+Nacht kurz nach ihrer Flucht hier in die Scheibe eingegraben.
 Sie wird wohl bereits einen bestimmten Plan
-ihrem erfinderischen Köpfchen ausgebrütet...
+ihrem erfinderischen Köpfchen ausgebrütet..."
 
 Er schwieg. Draußen war ein Auto vor dem Harstschen
 Familienhause vorgefahren.
 
 Harald trat schnell vom Fenster zurück.
 
-»Du, ein Klient! Und — rate, wer es ist, der
-durch« den Vorgarten auf die Haustür zueilt? Es ist
-Minister Thomas Melmexr, vor sechs Jahren noch Vorarbeiter
+»Du, ein Klient! Und — rate, wer es ist, der jetzt
+durch den Vorgarten auf die Haustür zueilt? Es ist der
+Minister Thomas Melmer, vor sechs Jahren noch Vorarbeiter
 In der Eisengießerei von Pinkes und Kompagnie,
 — ein Mann der neuen Zeit! — Da läutet es schon.«
 
-Die Köchin Mathilde stampfte durch den Flur,
-hörten ihr rauhes Fortissimo-Organ
+Die Köchin Mathilde stampfte durch den Flur. Wir
+hörten ihr rauhes Fortissimo-Organ...
 
-»Ne, Herr, das ist hier nicht Grau
+»Ne, Herr, das ist hier nicht erlaubt...!"
 
 <@pagebreak/>
 Dann schon ein kurzes hartes Pochen an die Tür
 
 Die Tür flog auf. Thomas Melmer trat ein — groß,
-hager, mit dem bekannten finsteren Gesicht ».
+hager, mit dem bekannten finsteren Gesicht...
 
 Man behauptete von Melmer, daß ihm selbst das leiseste
-Lächeln unbekannt sei, Man erzählte sich mancherlei
+Lächeln unbekannt sei. Man erzählte sich mancherlei
 über diesen Mann, der vierzehn Stunden arbeitete und
 nur vier Stunden Schlaf brauchte,
 
-»Entschuldigen Sie,« sagte er kalt. »Ich Habe seine
-Zeit, Ihnen erst noch eine Karte Durch Ihre Bedienung
+»Entschuldigen Sie,« sagte er kalt. »Ich habe keine
+Zeit, Ihnen erst noch eine Karte durch Ihre Bedienung
 hereinzuschicken, Herr Harst.«
 
 Dann warf er die Tür ins Schloß und machte uns eine
 knappe Verbeugung
 
-»Ich bin der Minister Melmer, Herr Harst, Haben Sie
-Zeit, mich anzuhören?!
+»Ich bin der Minister Melmer, Herr Harst. Haben Sie
+Zeit, mich anzuhören?!"
 
-Gewiß, Wollen Sie bitte Platz nehmen, Herr Minister.
+"Gewiß, Wollen Sie bitte Platz nehmen, Herr Minister.
 — Hier mein Freund Schraut,« stellte er mich vor
 
 Wir setzten uns gleichfalls,
 
 Melmer saß kerzengerade im Sessel und stützte die
-Hände gegen die Tischkante, Es sah aus, als müßte er sich
-Ne um nicht zu schwanken, Sein Gesicht war vor
-mimjurleigebrängter Erregung leichenfahl geworden,
+Hände gegen die Tischkante. Es sah aus, als müßte er sich
+festhalten um nicht zu schwanken. Sein Gesicht war vor
+mühsam zurückgedrängter Erregung leichenfahl geworden,
 
 »Meine Tochter, mein einziges Kind, ist entflohen und
-bat eine Mappe mit Papieren von Höchster Wichtigkeit mitgenommen,«
+hat eine Mappe mit Papieren von höchster Wichtigkeit mitgenommen,«
 stieß er hervor,
 
 »Politische Papiere?« fragte Harald sehr gedehnt,
 
 »Ja...!"
 
-in, ja ich leider davon Abstand nehmen, Ihnen
-helfen, Herr »Minister, Ich mische mich grundsätzlich nicht
-Politik ein,«
+"Dann muß ich leider davon Abstand nehmen, Ihnen
+zu helfen, Herr »Minister. Ich mische mich grundsätzlich nicht
+in Politik ein,«
 
 »Das weiß ich. Trotzdem werden Sie Diesmal eine
-Ausnahme machen, Regierungsrat Queißner schickt mich
-Ihnen. Er als Leiter der Abteilung R der Kriminalpolizei
-sieht sich dieser Aufgabe nicht gewachsen, Es spielen
+Ausnahme machen. Regierungsrat Queißner schickt mich
+zu Ihnen. Er als Leiter der Abteilung R der Kriminalpolizei
+sieht sich dieser Aufgabe nicht gewachsen. Es spielen
 da Begleitumstände mit hinein, die selbst ein so nüchterner
 <@pagebreak/>
-Verftanpesmenfeh wie Queißner als rätselhaft bezeichnet,«
+Verstandesmensch wie Queißner als rätselhaft bezeichnet,«
 
-Das helle Tageslicht hieß jene Linie dieses faltigen,
-bleichen Asketengesichts klar hervortreten, Die Stirn bete
+Das helle Tageslicht ließ jede Linie dieses faltigen,
+bleichen Asketengesichts klar hervortreten. Die Stirn bedeckte
 sich mit immer dickeren Schweißperlen. Die Lippen
 zuckten, konnten die Worte kaum formen.
 
 »Wenn Sie mit Politik nichts zu schaffen haben wollen,
-dann … vorn suchen Sie eben lediglich meine Tochter,
+dann … dann suchen Sie eben lediglich meine Tochter,
 Herr Harst,« fügte er ebenso eisigen Tones hinzu,
 
 »Das wäre etwas anderes,« meinte Harald.
 
-Melmer erhob sich feinen, is;
+Melmer erhob sich schnell.
 
-»Begleiten, Sie mich, Jede Minute Zeitverlust ist hier
-vielleicht
+»Begleiten, Sie mich. Jede Minute Zeitverlust ist hier
+vielleicht..."
 
-Er ie plötzlich, sank in den Sessel zurück, raffte
+Er taumelte plötzlich, sank in den Sessel zurück, raffte
 sich wieder auf
 
 »Der Diener Hallmark ist erschossen worden — anscheinend
 von Helene...« erklärte er rauh, als wollte er
-uns verständlich machen, bei er mit seiner Kraft am
+uns verständlich machen, daß er mit seiner Kraft am
 Rande sei,
 
 »Wir begleiten Sie,« sagte Harald kurz.
@@ -164,38 +160,38 @@ Rande sei,
 Und drei Minuten Später glitt das geschlossene Auto
 des Ministers mit uns davon.
 
-»Ich will Ihnen Um sofort einen Ueberblick über die
-Geschichte geben,« begann Melmer mit fichtlicher Anstrengung,
+»Ich will Ihnen nun sofort einen Ueberblick über die
+Geschichte geben,« begann Melmer mit sichtlicher Anstrengung.
 »Ich wollte mit Frau und Kind heute abend nach
-Hamburg reisen — auf Urlaub, Als ich um drei Uhr nach
-Hause kam, hörte ich im Salon einen Schuß fallen, Der
-Salon liegt der Flurtür gegenüber, Ich fand die Salontür
+Hamburg reisen — auf Urlaub. Als ich um drei Uhr nach
+Hause kam, hörte ich im Salon einen Schuß fallen. Der
+Salon liegt der Flurtür gegenüber. Ich fand die Salontür
 verschlossen, warf mich dagegen, sprengte sie auf und
-stolperte über Hallmarks Leiche, Im Salon standen die
-beiden Koffer, die Helene mit aus die Flehte nehmen wollte,
+stolperte über Hallmarks Leiche. Im Salon standen die
+beiden Koffer, die Helene mit auf die Reise nehmen wollte.
 Da ich hier niemand außer dem aus einer Stirnwunde
 blutenden Diener sah, eilte ich durch die übrigen Zimmer
 bis in die Küche, wo ich das Stubenmädchen und die
 Köchin, die den Schuß nicht vernommen hatten, antraf. Sie
 <@pagebreak/>
-fasten nur, daß meine Frau vor einer halten Stunde ausgegangen
+sagten nur, daß meine Frau vor einer halben Stunde ausgegangen
 sei und daß sich Helene in der Wohnung außer
-ihnen und Hallmark allein befände, ich hatte meint Ak-tenmappe,
+ihnen und Hallmark allein befände. ich hatte meine Aktenmappe,
 die mir vor Schreck im Salon entfallen war,
-dort auf ein Tischchen gelegt, Als ich nun Helene suchte,
+dort auf ein Tischchen gelegt. Als ich nun Helene suchte,
 war auch die Aktentasche verschwunden. Die beiden Mädchen
 behaupteten, meine Tochter sei noch vor wenigen Minuten
 im Hauskleid in der Küche gewesen. Und — nun
-war sie nicht mehr da, Das Haus l’onnte sie nicht Deren
-haben. Der Pförtner stand ja vor der Tür, Er bat Helene
+war sie nicht mehr da. Das Haus konnte sie nicht verlassen
+haben. Der Pförtner stand ja vor der Tür. Er hat Helene
 nicht gesehen. Einen zweiten Ausgang hat das Haus
-nicht, — Sich telephonierte die Polizei, Abteilung R, an.
-In fünfzehn Minuten waren acht Beamte da, auch Queißner,
+nicht. — ich telephonierte die Polizei, Abteilung R, an.
+In fünfzehn Minuten waren acht Beamte da, auch Queißner.
 Die Polizei konnte nur feststellen, daß Hallmark durch
 Nahschuß getötet und Aktentasche und meine Tochter sich
 nicht mehr im Hause befanden.«
 
-»Und Die Miordmwaffe?« fragte Harald,
+»Und Die Mordwaffe?« fragte Harald,
 
 »Ist ebenfalls nicht entdeckt worden,«
 
@@ -206,21 +202,21 @@ nicht mehr im Hause befanden.«
 »Haben Sie im Benehmen Ihrer Tochter in letzter Zeit
 Veränderungen bemerkt?«
 
-Nichts, — Helene ist eine sehr frostige Natur, stets sich
+"Nichts. — Helene ist eine sehr frostige Natur, stets sich
 gleichbleibend, sehr menschenscheu und verschlossen.«
 
 »Wie alt?«
 
 »Vierundzwanzig.«
 
-»Was können Sie über Hallmark angeben, Herr Mi-mistar?«
+»Was können Sie über Hallmark angeben, Herr Minister?«
 
-»Fünfzig Jahre- alt, seit zehn Monaten bei mir in
-Futter, vorher achtzehn Jahre Diener beim Grafen 9cd-
-Pi, Gin ruhiger, bescheidener Mann ohne jeden Anhang
-mit Besten wen, sehr belesen, sehr gewandt,«
+»Fünfzig Jahre alt, seit zehn Monaten bei mir in
+Stellung, vorher achtzehn Jahre Diener beim Grafen Nedlitz.
+Ein ruhiger, bescheidener Mann ohne jeden Anhang
+mit besten Empfehlungen, sehr belesen, sehr gewandt,«
 
-»Nu Die beiden Mädchen?«
+»Und Die beiden Mädchen?«
 
 »Sind seit zwei Jahren bei uns, zuverlässig, treu anhänglich.«
 
@@ -228,23 +224,23 @@ mit Besten wen, sehr belesen, sehr gewandt,«
 »wer teilte außer diesen Personen noch mit Ihnen die
 Wohnung?«
 
-»Niemand sonst, — Das Haus enthält nur Büros mit
+»Niemand sonst. — Das Haus enthält nur Büros mit
 Ausnahme der ersten Etage, meiner Wohnung, die jedoch
-einen besonderen Zugang durch Portal eins hat Das
+einen besonderen Zugang durch Portal eins hat. Das
 ist ja eben das unerklärliche: wo blieb Helene?! Sie hat
-nur die Treppe hinabeilen können, als ich in der Küche war,
-und doch; der Pförtner hat sie nicht gesehen! — Queißner
+nur die Treppe hinabeilen können, als ich in der Küche war.
+und doch: der Pförtner hat sie nicht gesehen! — Queißner
 steht vor einem Rätsel«
 
 »Und nimmt an, daß Ihre Tochter mit der Aktentasche
-entflohen ist, nachdem sie den Tenor niedergeschossen hatte?«
+entflohen ist, nachdem sie den Diener niedergeschossen hatte?«
 
-»Nein, Wenigstens hat er mir gegenüber Mr davon
+»Nein. Wenigstens hat er mir gegenüber nichts davon
 geäußert,«
 
 Das Auto hielt
 
-Der Pförtner kam herbei gesprungen un öffnete die
+Der Pförtner kam herbei gesprungen und öffnete die
 Tür.
 
 Harst winkte den Mann in das Portal,
@@ -254,7 +250,7 @@ Harst winkte den Mann in das Portal,
 »Schenk«
 
 »Dann hören Sie mal genau hin, Herr Schenk. Der
-Herr Minister kehrte um drei Uhr heim, Wer betrat vorher
+Herr Minister kehrte um drei Uhr heim. Wer betrat vorher
 das Haus durch diesen Eingang?«
 
 »Gegen zwei Uhr das Fräulein mit ein paar Paketen,«
@@ -266,9 +262,9 @@ Minister ungeduldig.
 
 »Gegen eins nur ein Postbote.«
 
-»Kannten Sie ihn von Umsehen?«
+»Kannten Sie ihn von Ansehen?«
 
-»Nein Es war ein junger Mensch mit einem Rohrpostbrief
+»Nein. Es war ein junger Mensch mit einem Rohrpostbrief
 für das Fräulein.«
 
 »Und vor ein Uhr?«
@@ -278,19 +274,19 @@ hatte. Es war so gegen drei Viertel eins,«
 
 »Zwei Leute?«
 
-»so, Zwei Angestellte der Firma Hodler.
+»Ja. Zwei Angestellte der Firma Hodler.
 
 <@pagebreak/>
-»Es ist ein sehr großer Schranftoffer, Herr Harst,«
-war der Behaarten noch ungeduldiger ein. »Mk dies bat
-Queißner fern notiert, Gehen wir doch nach oben.«
+»Es ist ein sehr großer Schrankkoffer, Herr Harst,«
+warf der Minister noch ungeduldiger ein. »All dies hat
+Queißner schon notiert. Gehen wir doch nach oben.«
 
-»Wenn ie bitte vorauseilen wollten, Herr Minister,
-und mir aneignen hinabschicken würden. Ich möchte ihn
-»spitzes hier fragen. Ich arbeite fiel? nach meiner Bleibende
-und stets nur mit meinem Freunde Schraut zufammernt,«
+»Wenn Sie bitte vorauseilen wollten, Herr Minister,
+und mir Queißner hinabschicken würden. Ich möchte ihn
+einiges hier fragen. Ich arbeite stets nach meiner Methode
+und stets nur mit meinem Freunde Schraut zusammen,«
 
-»wie Sie wünschen ..,!« — Melmer ließ uns mit
+»wie Sie wünschen ...!« — Melmer ließ uns mit
 dem Pförtner allein.
 
 »Besinnen Sie sich einmal genau, Herr Schenk,« sagte
@@ -298,14 +294,14 @@ Harald hastig. »Haben auch beide Männer, die den Koffer
 nach oben brachten, das Haus wieder verlassen?«
 
 »Ganz bestimmt,« versicherte der Pförtner, schränkte
-dies aber sofort mit jäh verlegen werdendem Gesicht rollenden
+dies aber sofort mit jäh verlegen werdendem Gesicht wieder
 ein: »Das heißt, wenn ich’s beschwören sollte, dann
 habe ich nur den einen Mann so richtig gesehen. Der andere
-Tief nämlich prompte nach oben, da er seine ¿igarre
+lief nämlich nochmals nach oben, da er seine Zigarre
 oben auf dem Treppenabsatz vergessen hatte. Während sein
 Kollege dann von mir sich ein Glas Wasser dort in der
-Loge geben ließ, wird der andere wohl schon wieder run-tergelonmen
-sein.«
+Loge geben ließ, wird der andere wohl schon wieder
+runtergekommen sein.«
 
 »Danke, Herr Schenk,« nickte Harald.
 
@@ -313,116 +309,114 @@ Regierungsrat Queißner war im Treppenaufgang
 erschienen.
 
 Wir kannten ihn noch nicht: Er bedankte sich sehr
-liebenswürdig bei Harald für dessen bercitwillige Hilfe
-und fragte dann geradezu bescheiden, die Harst den Fall
-beurteile, 1 -
+liebenswürdig bei Harald für dessen bereitwillige Hilfe
+und fragte dann geradezu bescheiden, wie Harst den Fall
+beurteile.
 
 »Darüber vermag ich mich beim besten Willen noch
-nicht zu äußern,« erwiderte Harald ebenso höflich, »ich
+nicht zu äußern,« erwiderte Harald ebenso höflich. »ich
 wollte zunächst nur wissen, ob Sie den Postboten, der den
-Mobrpostbiiei für Fräulein Mesmer gebracht, hat, und die
-arbeiten Männer, die den Koffer beim Minister ablieferten,
+Rohrpostbrief für Fräulein Melmer gebracht hat, und die
+beiden Männer, die den Koffer beim Minister ablieferten,
 haben herbeiholen lassen.«
 
 <@pagebreak/>
-»Gewiß, Herr Harst. Die drei Leute sind soeben elf
-Vororten.«
+»Gewiß, Herr Harst. Die drei Leute sind soeben eingetroffen."
 
-»Ah — alle Brei?! Nun, das wäre dann die erste Vorging.
-Sehen wir nach oben.«
+»Ah — alle drei?! Nun, das wäre dann die erste Enttäuschung...!
+-- Gehen wir nach oben.«
 
-Kapitel.
+<h2>2. Kapitel.</h2>
 
-Wie Harst Eingriff,
+<h3>Wie Harst eingriff.</h3>
 
-Doch — er machte auf den Zreppeuantag des ersieht
-Todes vor der Flurtür des Ministers nich! kalt, sondern
-Ofen BB in die zweite Etage empor. Hier war die breite
+Doch — er machte auf dem Treppenabsatz des ersten
+Stockes vor der Flurtür des Ministers nicht halt, sondern
+stieg bis in die zweite Etage empor. Hier war die breite
 Flügeltür durch ein starkes Eisengitter völlig abgesperrt.
-Genau so war es im dritten und vierten Stock. Selbst alt
+Genau so war es im dritten und vierten Stock. Selbst die
 Bodentür zeigte sich in derselben Weise gesichert. Die Wohnung
-des Ministers war mithin von dem übrigen QE
-hier im Vorderausgang vollständig abgeschnitten.
+des Ministers war mithin von dem übrigen Hause
+hier im Vorderaufgang vollständig abgeschnitten.
 
-Harald hatte Wiese Eisengitter sämtlich untersucht. Sie
-waren in die Masern, in Aufhoben und Degen tief eine
+Harald hatte diese Eisengitter sämtlich untersucht. Sie
+waren in die Mauern, in Fußböden und Decken tief ein-
 gelassen und unversehrt.
 
-»Dasselbe habe ich ebenfalls schon getan,« bestände
-Queißner vor dem Gitter der Bodentür, »Der nach »Ben
-kann Fräulein Mesmer nicht O sein. nach vors
+»Dasselbe habe ich ebenfalls schon getan,« erklärte
+Queißner vor dem Gitter der Bodentür. »Hier nach oBen
+kann Fräulein Mesmer nicht geflüchtet sein. nach unten
 auch nicht, denn dann hätte der Pförtner sie sehen müssen.«
 
 »Falls er nicht in seiner Loge war, Herr Regierungsrat.«
 
-»Da war er nicht, Herr Harst Er hat sogar unten
+»Da war er nicht, Herr Harst. Er hat sogar unten
 am Fuße der Treppe gestanden und den Schuß gehört, wenn
-auch ganz schwach. Der Knall hatte ihn mißtrauisch gemacht,
-Er blieb an der Treppe, bis der Minister ihn noch
-den rief und mräfranle, Es ist eben völlig unbegreiflich,
-ins Fräulein Eherner geblieben sein ran.«
+auch ganz schwach. Der Knall hatte ihn mißtrauisch gemacht.
+Er blieb an der Treppe, bis der Minister ihn nach
+oben rief und ausfragte. Es ist eben völlig unbegreiflich,
+wo Fräulein Melmer geblieben sein kann.«
 
-Harald Schlafes.
+Harald schwieg.
 
 Dann betraten wir den Salon. Durch die drei hohen
 Fenster drang eine Ueberfülle von Licht herein.
 
 <@pagebreak/>
 An einem der Fenster standen drei Kriminalbeamte.
-Die Leiche des Dieners lag auf dem Rücken redend der Dürr.
+Die Leiche des Dieners lag auf dem Rücken neben der Tür.
 
-Hofft bat, daß man uns beide hier vorläufig allein
-lassen möchte, Queißner und die Beamten eutsecnmten sich
+Harst bat, daß man uns beide hier vorläufig allein
+lassen möchte. Queißner und die Beamten entfernten sich
 nach rechts zu. Dort lag Das Herrenzimmer, wie wir später
 sahen,
 
-»Seh! sich, mein Alter,« meinte Harald und deutete
+»Setz' dich, mein Alter,« meinte Harald und deutete
 auf einen der Seidensessel
 
-Dann besann er den Salon zu durchsucen. Er tat es
-ziemlich flüchtig. Sehr bald nahm nur 1. der neue habe
-S(vrankkosser, ein braungesves Ungetüm mit Messingbe-sschlägen,
-sein Aeußerster in Anspruch,
+Dann begann er den Salon zu durchsuchen. Er tat es
+ziemlich flüchtig. Sehr bald nahm nur noch der neue hohe
+Schrankkoffer, ein braungelbes Ungetüm mit Messingbeschlägen,
+sein Interesse in Anspruch,
 
 Die Kofferschlüssel waren mit einer Schnur an dem
 einen Ledergriff befestigt.
 
-Harst stehle« den Koffer As.
+Harst schloß den Koffer auf.
 
-Umso — bückte sich), sagte Fabel:
+Und — bückte sich, sagte dabei:
 
-Die Aktentasche is! bereits gefunden.«
+Die Aktentasche ist bereits gefunden.«
 
-Das war denn vor zu wichtig. Ich eilte zu ihm hin.
+Das war denn doch zu wichtig. Ich eilte zu ihm hin.
 Er hatte die Ledermappe bereits geöffnet.
 
-»Ziert dringe Alenbündel,« meinte er. »Da — trage
-Die Tasche ins Nebenzimmer, Queißner mag »Ben Minister
-fragen, ob dies die vermißten Papiere Mr
+»Zwei dünne Akenbündel,« meinte er. »Da — trage
+Die Tasche ins Nebenzimmer. Queißner mag den Minister
+fragen, ob dies die vermißten Papiere sind."
 
 So wurde ich denn Zeuge, wie Thomas Melmer,
-»dieser gewaltige Redner und Politiker, vor Freude errötete,
-als er so wieder in Selig der kostbaren Dokumente gelang
-18
+dieser gewaltige Redner und Politiker, vor Freude errötete,
+als er so wieder in Besitz der kostbaren Dokumente gelangte.
 
 Queißner machte dazu ein sehr längliches Gesicht. Ihm
-war 08 unangenehm, weil er den neuen Koffer nicht beachtet
+war es unangenehm, weil er den neuen Koffer nicht beachtet
 hatte. Um über seine Verlegenheit hinwegzukommen,
 sagte er zu Thomas Melmer:
 
-Leiber ist das Verschwinden ehren koketten und der
-Mord an dem Diener gen! noch runter und geistvoller
-geworden, Herr Minister, — Wer hat die Aktentasche
+"Leider ist das Verschwinden Ihrer Tochter und der
+Mord an dem Diener jetzt noch dunkler und geheimnisvoller
+geworden, Herr Minister. — Wer hat die Aktentasche
 in den Schranftoffer eingeschlossen und zu welchem Zweck?
 <@pagebreak/>
-Das ist eine Frage, die auch Herrn Harst einiges erbrechen
+Das ist eine Frage, die auch Herrn Harst einiges Kopfzerbrechen
 bereiten wird, denke ich,«
 
 Es war ein Zufall, daß Harald im selben Moment
 das Herrenzimmer betrat und nun die Anwesenden mit
 prüfenden Blicken musterte, besonders die bescheiden neben
 der Tür sitzenden beiden Angestellten der weltbekannten
-Kofsersirma Hodler und Kann. und den Postboten.
+Kofferfirma Hodler und Komp. und den Postboten.
 
 Er ging auf diese drei zu und fragte ohne jede Einleitung:
 
@@ -432,80 +426,80 @@ um die Zigarre zu holen?«
 Der eine Hodler-Mann erhob sich zögernd. Es war
 ein Mensch mit einem frischen bartlosen Gesicht. Er trug
 wie der andere die Livree der Hausdiener der Firma. Der
-Mann war offensichtlich sehr befangen, wich Harald Augen
+Mann war offensichtlich sehr befangen, wich Haralds Augen
 aus und meinte stockend:
 
-»Es war ja nur ’n Zigarrenstummel, den ich da weggelegt«
-Bade...«
+»Es war ja nur ’n Zigarrenstummel, den ich da weggelegt
+hatte...«
 
 »Sie haben also geraucht, als Sie den Koffer brachten?«
 fragte Harst weiter.
 
-»Nu ja …. Warum nich?«
+»Nu ja … Warum nich?«
 
 »Auch noch auf der Treppe?«
 
-»Nur ’n paar Lüge. Soll det etwa ’n Verbrechen sein?
-— Er wurde aus Nerleaenheit patzig und fast grob.
+»Nur ’n paar Züge. Soll det etwa ’n Verbrechen sein?"
+— Er wurde aus Verlegenheit patzig und fast grob.
 
-»Dann zeigen Sie mir die Stelle, wo Sie den Aluar-renftummel
-weaggelegt haben. Begleiten Sie mich! Vorwärts!«
+»Dann zeigen Sie mir die Stelle, wo Sie den Zigarrenstummel
+weggelegt haben. Begleiten Sie mich! Vorwärts!«
 — Harald gab mir mit den Augen einen Wink.
 Ich folgte Ihm und dem Hanusdiener.
 
 Vor der Flurtür deutete der Mann auf eine Stelle
-Erbes geschnitzten Geländers. Er tat es jedoch erst, nachdem
+des geschnitzten Geländers. Er tat es jedoch erst, nachdem
 er sich wie suchend umgeschaut hatte.
 
-Harst bückte sich, nahm die Taschenlampe Kerker und
+Harst bückte sich, nahm die Taschenlampe hervor und
 beleuchtete die Stelle.
 
-»Keine Spur von Zigarrenasche,« sagte er Kein
-»Sie lügen, Mann! Hier hat keine Zigarre gelegen
+»Keine Spur von Zigarrenasche,« sagte er leichthin.
+»Sie lügen, Mann! Hier hat keine Zigarre gelegen."
 
 <@pagebreak/>
 »Oho!« fuhr der Hausdiener auf. »Oho — ich hab
-mit’n SchnuppSuch die Asche- weggegrault.«
+mit’n Schnuppstuch die Asche weggegstäubt.«
 
-Harald lief psöplich die Treppe hinab und lernte in Begleitung
+Harald lief plötzlich die Treppe hinab und kehrte in Begleitung
 des Pförtners Schenk zurück,
 
 »Herr Schenk, sehen Sie sich diesen Mann mal genau
-an,« meinte er ernst, »Ist dies einer der beiden, die den
-Soffen brachten?«
+an,« meinte er ernst. »Ist dies einer der beiden, die den
+Koffer brachten?«
 
-»Hm — ich möchte fast sagen: Nein, dies is! ein anderer
-Verrieb! Denn die beiden Hausdiener waren nur Hein und
-stämmig, Dieser ist schlank.«
+»Hm — ich möchte fast sagen: Nein, dies ist ein anderer
+Mensch! Denn die beiden Hausdiener waren nur klein und
+stämmig. Dieser ist schlank.«
 
 »Gut — folgen Sie uns ins Zimmer, Herr Schenk,«
 befahl Harst.
 
-Im Herrenzimmer mußten fi$ Die beiden Hausdiener
-nebeneinander Sieben,
+Im Herrenzimmer mußten sich Die beiden Hausdiener
+nebeneinander setzen.
 
-Da erklärte der Stürmen mir sehr bestimmt: »Dieser
-Lange da ist nicht der, den ich nachher nicht weggehen sah.
+Da erklärte der Pförtner nun sehr bestimmt: »Dieser
+Lange da ist nicht der, den ich nachher nicht weggehen sah."
 
-Harst nickte befriedigt. »Ich danke Ihnen, Herr Schenk
+Harst nickte befriedigt. »Ich danke Ihnen, Herr Schenk.
 Ihre Anwesenheit hier ist nicht mehr nötig.«
 
-Der Pförtner verlieh das Herrenzimmer wieder.
+Der Pförtner verließ das Herrenzimmer wieder.
 
 »Wollen Sie beide nun ehrlich sein?« wandte sich
 Harald an die Hausdiener. »Sie haben von einem Fremden
-Geld erhalten, und dieser Fremde zog sich Ihre Livree-jade
+Geld erhalten, und dieser Fremde zog sich Ihre Livreejacke
 an, half dann den Koffer hierher bringen, während
 Sie in einer Kneipe warteten.« Er blickte den Schlanken
 dabei starr an.
 
-Der Mann scschluckte und würgte an einer Antwort
+Der Mann schluckte und würgte an einer Antwort,
 bis sein Kollege ärgerlich rief:
 
-»liebste, Justav, ick hab’ det doch jleich jeahnt!! Wir
-hätten uns auf den faulen Zauber nicht einlassen soll’n!
+»Siehste, Justav, ick hab’ det doch jleich jeahnt! Wir
+hätten uns auf den faulen Zauber nicht einlassen soll’n!"
 
-Harst hatte Diueikner herbeigewinkt,
+Harst hatte Queißner herbeigewinkt,
 
 »Die beiden wissen noch nichts von dem Mord?«
 fragte er rasch.
@@ -518,7 +512,7 @@ der beiden wieder zu.
 <@pagebreak/>
 »Schmidt, Emil Schmidt... »
 
-»Nun, Herr Schmidt, Sie haben Beigeben Schält: hier
+»Nun, Herr Schmidt, Sie haben soeben gehört: hier
 in der Wohnung des Herrn Ministers ist jemand um drei
 Uhr ermordet worden. Wenn auch der Fremde, der Ihres
 Kollegen Rolle hier spielte, kaum der Mörder sein dürfte,
@@ -527,74 +521,74 @@ irgendwie beteiligt ist.«
 
 Die beiden Hausdiener waren sehr blaß geworden.
 
-»a mit alles sagen,« meinte Schmidt kleinlaut Vor
-Angst berlinerte er nich: einmal mehr. »Die Sache war
-so. Im Geschäft war Grade kein Handwagen da. Rupart
-und i,« er zeigte auf den Schlanken, »trugen den Koffer
-deshalb hierher. Es eilte ja mit der Ablieseruna,
-und weit ist’s ja nicht. Wir gingen die Mauersiraße entlang.
+»Ich will alles sagen,« meinte Schmidt kleinlaut. Vor
+Angst berlinerte er nicht einmal mehr. »Die Sache war
+so. Im Geschäft war gerade kein Handwagen da. Rupart
+und ich,« er zeigte auf den Schlanken, »trugen den Koffer
+deshalb hierher. Es eilte ja mit der Ablieferung,
+und weit ist’s ja nicht. Wir gingen die Mauerstraße entlang.
 Da sprach uns ein Herr an, der etwa so meine
-Größe hatte, aber nen blonden kurzen Vollbart. Er Tante,
-er wolle dem Herrn Minister ein Biitgesuch persönlich
-überreichen, Einer von uns solle ihm doch die Lipreeinde
-und die Mücke überlassen, eng nur so könnte er in die Wohnung
-des Ministers hineingelangen. Er bat Ne sehr, daß
-wir schließlich einwisligten, zumal er uns Seen Hinitenfend
-warf gab. Seh hab! mir wahrbaftien so erst tat als
-Schlimmes bei die geschickte jedacht, hin die Etehhierh sie
-haben wir b »ins Die Sache mit det Umkleiden befingert,
-und der Form, Nord trugen Im Ben Stoffen weiter. Da
-sagte der Mein wirr Mal zu mir: »Hören Sie, Sie herkommen
-noch in. tausend Mark, wenn Sie den Pförtner
+Größe hatte, aber nen blonden kurzen Vollbart. Er sagte,
+er wolle dem Herrn Minister ein Bittgesuch persönlich
+überreichen. Einer von uns solle ihm doch die Livreejacke
+und die Mütze überlassen, denn nur so könnte er in die Wohnung
+des Ministers hineingelangen. Er bat so sehr, daß
+wir schließlich einwilligten, zumal er uns jedem fünftausend
+Mark gab. Ich hab' mir wahrhaftjen Jott erst jar nichts
+Schlimmes bei die Jeschichte jedacht. in die Stehbierhalle
+haben wir dann Die Sache mit det Umkleiden befingert,
+und der Fremde, und ick trugen nu den Koffer weiter. Da
+sagte der Mensch mit'n Mal zu mir: »Hören Sie, Sie bekommen
+noch fünftausend Mark, wenn Sie den Pförtner
 dort im Hause des Ministers für ein paar Minuten in Die
-Loge loben, vielleicht dadurch, daß Sie ihn um ein Glas
-Nassen bitten, wenn mir Die Treppe wieder runterkommen,
+Loge locken, vielleicht dadurch, daß Sie ihn um ein Glas
+Wasser bitten, wenn wir Die Treppe wieder runterkommen.
 Ich will nämlich dann nochmals nach oben, falls der Minister
 nicht zu Hause ist, und den Diener bitten, daß er meinen
-Brief dem Minister auf den Schreibtisch legt. Sie nur
-Mann so, als ob ich schon vorauêe—2vecu bin, und wir
-kreisen uns in der Stehbierbaffe, in« »he Wollene Mr am
+Brief dem Minister auf den Schreibtisch legt. Sie tun
+dann so, als ob ich schon vorausgegangen bin, und wir
+treffen uns in der Stehbierhalle, wo Ihr Kollege uns erwartet."
 <@pagebreak/>
-»(vollste — Diese Sterbe kam mir Nu ahnen Mr! a vor,
-offen jestanden. Ade; der Fremde, der sich ubniarıts Ingenieur
-Winter parat, redete so lange auf nach ein, bis
-er mir wahrhaftig hreitichta Na — lud auf diese Art 186
+— Diese Sache kam mir nu 'n bißken mulmig vor,
+offen jestanden. Aber der Fremde, der sich übrigens Ingenieur
+Winter nannte, redete so lange auf mich ein, bis
+er mir wahrhaftig breitschlug. Na — und auf diese Art is
 er denn nachher nochmals nach oben jelaufen, anjeblich um
-seinen Zigarr zu holen, lud ick lose den Pförtner in die
-Loge. Det is mu allens.«
+seinen Zigarr zu holen, und ick lockte den Pförtner in die
+Loge. Det is nu allens.«
 
-Ahnung wann erschien Winter in der Stehbierhalle?«
+"Und wann erschien Winter in der Stehbierhalle?«
 
-So jejen halb zweie rum. Dann hat Rupart wieder
-seine« Pivreejade anjezogen und seine »öde uffjesetzt und
-spie machten, daß wir wieder ins Jeschäft Damen.« Schmidts
+"So jejen halb zweie rum. Dann hat Rupart wieder
+seine Livreejacke anjezogen und seine Mütze uffjesetzt und
+wir machten, daß wir wieder ins Jeschäft kamen.« Schmidts
 Ton war immer weinerlicher geworden. »Die Herren werden
 uns doch nicht etwa um unsere Stellung bringen,«
-fügte er kläglich hinzu. »Wir haben uns bei alledem innerlich
+fügte er kläglich hinzu. »Wir haben uns bei alledem wirklich
 nischt Böses denken jekonnt, und wir sind doch beede
-verheiratet und,«
+verheiratet und...«
 
-»Beruhigen sie sich,« Ihnen soll nichts geschehen.
-Den Winter der Gereckte nach Ausländer?«
+»Beruhigen sie sich, Ihnen soll nichts geschehen.
+War Winter der Sprache nach Ausländer?«
 
-Tank »Nee, Er redete bloß Von bitten wie’n Fütterten.
+»Nee, Er redete bloß so'n bißken wie’n Süddeutscher."
 
-»loben Sie vicl‘’eicht an ihm irgend ein besonderes
-denn:Eichen bemerkt?«
+»Haben Sie vielleicht an ihm irgend ein besonderes
+KennzEichen bemerkt?«
 
-»Hm — ja, Kennzeichen,, Unwohl: er hatte an der
-linken Sand zwei sufammengewachene Finger, den Mittag
-den Zeigefinger. Nich wahr, Justav, he! Gummi
-Dr,
+»Hm — ja, Kennzeichen... Jawoll: er hatte an der
+linken Hand zwei zusammengewachsene Finger, den Mittel-
+und den Zeigefinger. Nich wahr, Justav, det stimmt
+doch."
 
 »Ja, det stimmt.«
 
-»Gut, Sie können nun gehen. Halten Sie aber den
-Mund über das, was hier geschehen ist, Sonst ..
+»Gut. Sie können nun gehen. Halten Sie aber den
+Mund über das, was hier geschehen ist. Sonst...!"
 
-Die beiden schrien davon,
+Die beiden schlichen davon,
 
-»Kc darf wohl einmal das Telephon benutzen,« wandte
+»Ich darf wohl einmal das Telephon benutzen,« wandte
 Harst sich an den Minister,
 
 Er trat an den Schreibtisch, nahm den Hörer, verlangte
@@ -602,38 +596,38 @@ die Nummer des Polizeipräsidiums und dann unseren
 Freund Kriminalkommissar Bechert.
 
 <@pagebreak/>
-»Bier Halt,.. - Tag. Bechert. Sagen Sie,
-lenneun Sie einen »Mengen, der süddeutschen 1 Dialekt spricht
-und dem an der linken Hand Mittel- und Zeigefinger zu-sammengetwachsen
-sind? Der Mann dürfte zu Ben sperren
+»Hier Harst... -- Tag, Bechert. Sagen Sie,
+kennen Sie einen Menschen, der süddeutschen Dialekt spricht
+und dem an der linken Hand Mittel- und Zeigefinger
+zusammengewachsen sind? Der Mann dürfte zu den schweren
 Jungen gehören, falls er überhaupt Verbrecher ist. —
-— Üb — Finger-Willen heißt der Bursche? — So a 8,
-— Wird gerückt! — Danke — — Schluß,«
+— Ah — Finger-Miller heißt der Bursche? — So ... so,
+— wird gesucht! — Danke — — Schluß,«
 
-Harald legte den Hörer auf die (aber Ziel
+Harald legte den Hörer auf die Gabel zurück.
 
-Thomas Melmer, vor sich vorhin in einen Klubsessel
-geworfen hatte, rief jetzt Fernab:
+Thomas Melmer, der sich vorhin in einen Klubsessel
+geworfen hatte, rief jetzt nervös:
 
-»Was wollte dieser hager-Willen hier, Herr Hattet,
-als er nodma!s Bier nach oben eilte?«
+»Was wollte dieser Finger-Miller hier, Herr Harst,
+als er nochmals hier nach oben eilte?«
 
-»Er bat sich einen wen vorbereitet, um dann abermals
-hier ins Haus einbringen zu können, Herr Minister. Wenn
-Sie bitte miifonmmen messen
+»Er hat sich einen Weg vorbereitet, um dann abermals
+hier ins Haus eindringen zu können, Herr Minister. Wenn
+Sie bitte mitkommen wollen..."
 
-Auch Ouceißnex und dessen Beamte schlossen sich uns an,
+Auch Queißner und dessen Beamte schlossen sich uns an,
 
 Harst ging die Treppe bis zum Boden empor und
-zeigte uns hier, daß aus dem Gitter, das vor vor Baustil
-anaecbrackt war, hier Stäbe so geschickt mit einer Stahlsäge
-oben und unten im Zickzaccmitt durchsäat waren,
-daß sie sich nur nach der Seite hin herausnehmen liefen.
-Weiter zeigte er uns, daß die Ausging der Bodentür herausgeschnitten
-und Granit wieder eingepaßt war,
+zeigte uns hier, daß aus dem Gitter, das vor vor der Bodentür
+angebracht war, vier Stäbe so geschickt mit einer Stahlsäge
+oben und unten im Zickzackschnitt durchsägt waren,
+daß sie sich nur nach der Seite hin herausnehmen ließen.
+Weiter zeigte er uns, daß die Füllung der Bodentür herausgeschnitten
+und genau wieder eingepaßt war,
 
-3. Kapitel,
-Das Forschen und der Papagei.
+<h2>3. Kapitel.</h2>
+<h3>Das Aeffchen und der Papagei.</h3>
 
 Nachdem wir und durch dieses Loch in der Tür fände:
 »lich binvurcschgezwängt baren, fanden wir auf dem Boden
