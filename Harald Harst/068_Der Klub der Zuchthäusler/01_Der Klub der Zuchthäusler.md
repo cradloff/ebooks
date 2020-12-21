@@ -1,11 +1,6 @@
 <@pagebreak/>
 
-<div style="font-size: x-large; text-align: center;">Harald Harst: Aus meinem Leben</div>
-
-<h1>Der Klub der Zuchthäusler</h1>
-
-<div style="font-size: x-large; text-align: center;">Erzählt von</div>
-<div style="font-size: x-large; text-align: center;">Max Schraut</div>
+<#include "*/intro_short.ftl">
 
 <h2>1. Kapitel.</h2>
 <h3>Die Turmuhr von Friedensburg.</h3>
