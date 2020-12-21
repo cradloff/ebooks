@@ -1,17 +1,6 @@
 <@pagebreak/>
 
-<div style="border: solid black 1px; font-size: x-large; text-align: center;">
-Harald Harst: Aus meinem Leben
-</div>
-
-<h1>Der tote Zigeuner</h1>
-
-<div style="font-weight: bold; text-align: center;">
-Erzählt von
-</div>
-<div style="font-weight: bold; font-size: larger; text-align: center;">
-Max Schraut
-</div>
+<#include "*/intro_short.ftl">
 
 <h2>1. Kapitel</h2>
 
