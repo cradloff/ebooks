@@ -99,9 +99,9 @@ Dann warf er die Tür ins Schloß und machte uns eine
 knappe Verbeugung
 
 »Ich bin der Minister Melmer, Herr Harst. Haben Sie
-Zeit, mich anzuhören?!"
+Zeit, mich anzuhören?!«
 
-"Gewiß, Wollen Sie bitte Platz nehmen, Herr Minister.
+»Gewiß, Wollen Sie bitte Platz nehmen, Herr Minister.
 — Hier mein Freund Schraut,« stellte er mich vor
 
 Wir setzten uns gleichfalls,
@@ -119,7 +119,7 @@ stieß er hervor,
 
 »Ja...!"
 
-"Dann muß ich leider davon Abstand nehmen, Ihnen
+»Dann muß ich leider davon Abstand nehmen, Ihnen
 zu helfen, Herr »Minister. Ich mische mich grundsätzlich nicht
 in Politik ein,«
 
@@ -202,7 +202,7 @@ nicht mehr im Hause befanden.«
 »Haben Sie im Benehmen Ihrer Tochter in letzter Zeit
 Veränderungen bemerkt?«
 
-"Nichts. — Helene ist eine sehr frostige Natur, stets sich
+»Nichts. — Helene ist eine sehr frostige Natur, stets sich
 gleichbleibend, sehr menschenscheu und verschlossen.«
 
 »Wie alt?«
@@ -321,10 +321,10 @@ beiden Männer, die den Koffer beim Minister ablieferten,
 haben herbeiholen lassen.«
 
 <@pagebreak/>
-»Gewiß, Herr Harst. Die drei Leute sind soeben eingetroffen."
+»Gewiß, Herr Harst. Die drei Leute sind soeben eingetroffen.«
 
 »Ah — alle drei?! Nun, das wäre dann die erste Enttäuschung...!
--- Gehen wir nach oben.«
+— Gehen wir nach oben.«
 
 <h2>2. Kapitel.</h2>
 
@@ -340,12 +340,12 @@ des Ministers war mithin von dem übrigen Hause
 hier im Vorderaufgang vollständig abgeschnitten.
 
 Harald hatte diese Eisengitter sämtlich untersucht. Sie
-waren in die Mauern, in Fußböden und Decken tief ein-
-gelassen und unversehrt.
+waren in die Mauern, in Fußböden und Decken tief eingelassen
+und unversehrt.
 
 »Dasselbe habe ich ebenfalls schon getan,« erklärte
-Queißner vor dem Gitter der Bodentür. »Hier nach oBen
-kann Fräulein Mesmer nicht geflüchtet sein. nach unten
+Queißner vor dem Gitter der Bodentür. »Hier nach oben
+kann Fräulein Melmer nicht geflüchtet sein. nach unten
 auch nicht, denn dann hätte der Pförtner sie sehen müssen.«
 
 »Falls er nicht in seiner Loge war, Herr Regierungsrat.«
@@ -371,7 +371,7 @@ lassen möchte. Queißner und die Beamten entfernten sich
 nach rechts zu. Dort lag Das Herrenzimmer, wie wir später
 sahen,
 
-»Setz' dich, mein Alter,« meinte Harald und deutete
+»Setz’ dich, mein Alter,« meinte Harald und deutete
 auf einen der Seidensessel
 
 Dann begann er den Salon zu durchsuchen. Er tat es
@@ -393,7 +393,7 @@ Er hatte die Ledermappe bereits geöffnet.
 
 »Zwei dünne Akenbündel,« meinte er. »Da — trage
 Die Tasche ins Nebenzimmer. Queißner mag den Minister
-fragen, ob dies die vermißten Papiere sind."
+fragen, ob dies die vermißten Papiere sind.«
 
 So wurde ich denn Zeuge, wie Thomas Melmer,
 dieser gewaltige Redner und Politiker, vor Freude errötete,
@@ -404,10 +404,10 @@ war es unangenehm, weil er den neuen Koffer nicht beachtet
 hatte. Um über seine Verlegenheit hinwegzukommen,
 sagte er zu Thomas Melmer:
 
-"Leider ist das Verschwinden Ihrer Tochter und der
+»Leider ist das Verschwinden Ihrer Tochter und der
 Mord an dem Diener jetzt noch dunkler und geheimnisvoller
 geworden, Herr Minister. — Wer hat die Aktentasche
-in den Schranftoffer eingeschlossen und zu welchem Zweck?
+in den Schrankkoffer eingeschlossen und zu welchem Zweck?
 <@pagebreak/>
 Das ist eine Frage, die auch Herrn Harst einiges Kopfzerbrechen
 bereiten wird, denke ich,«
@@ -439,7 +439,7 @@ fragte Harst weiter.
 
 »Auch noch auf der Treppe?«
 
-»Nur ’n paar Züge. Soll det etwa ’n Verbrechen sein?"
+»Nur ’n paar Züge. Soll det etwa ’n Verbrechen sein?«
 — Er wurde aus Verlegenheit patzig und fast grob.
 
 »Dann zeigen Sie mir die Stelle, wo Sie den Zigarrenstummel
@@ -455,7 +455,7 @@ Harst bückte sich, nahm die Taschenlampe hervor und
 beleuchtete die Stelle.
 
 »Keine Spur von Zigarrenasche,« sagte er leichthin.
-»Sie lügen, Mann! Hier hat keine Zigarre gelegen."
+»Sie lügen, Mann! Hier hat keine Zigarre gelegen.«
 
 <@pagebreak/>
 »Oho!« fuhr der Hausdiener auf. »Oho — ich hab
@@ -479,7 +479,7 @@ Im Herrenzimmer mußten sich Die beiden Hausdiener
 nebeneinander setzen.
 
 Da erklärte der Pförtner nun sehr bestimmt: »Dieser
-Lange da ist nicht der, den ich nachher nicht weggehen sah."
+Lange da ist nicht der, den ich nachher nicht weggehen sah.«
 
 Harst nickte befriedigt. »Ich danke Ihnen, Herr Schenk.
 Ihre Anwesenheit hier ist nicht mehr nötig.«
@@ -497,7 +497,7 @@ Der Mann schluckte und würgte an einer Antwort,
 bis sein Kollege ärgerlich rief:
 
 »Siehste, Justav, ick hab’ det doch jleich jeahnt! Wir
-hätten uns auf den faulen Zauber nicht einlassen soll’n!"
+hätten uns auf den faulen Zauber nicht einlassen soll’n!«
 
 Harst hatte Queißner herbeigewinkt,
 
@@ -534,11 +534,11 @@ er wolle dem Herrn Minister ein Bittgesuch persönlich
 und die Mütze überlassen, denn nur so könnte er in die Wohnung
 des Ministers hineingelangen. Er bat so sehr, daß
 wir schließlich einwilligten, zumal er uns jedem fünftausend
-Mark gab. Ich hab' mir wahrhaftjen Jott erst jar nichts
+Mark gab. Ich hab’ mir wahrhaftjen Jott erst jar nichts
 Schlimmes bei die Jeschichte jedacht. in die Stehbierhalle
 haben wir dann Die Sache mit det Umkleiden befingert,
 und der Fremde, und ick trugen nu den Koffer weiter. Da
-sagte der Mensch mit'n Mal zu mir: »Hören Sie, Sie bekommen
+sagte der Mensch mit’n Mal zu mir: »Hören Sie, Sie bekommen
 noch fünftausend Mark, wenn Sie den Pförtner
 dort im Hause des Ministers für ein paar Minuten in Die
 Loge locken, vielleicht dadurch, daß Sie ihn um ein Glas
@@ -547,9 +547,9 @@ Ich will nämlich dann nochmals nach oben, falls der Minister
 nicht zu Hause ist, und den Diener bitten, daß er meinen
 Brief dem Minister auf den Schreibtisch legt. Sie tun
 dann so, als ob ich schon vorausgegangen bin, und wir
-treffen uns in der Stehbierhalle, wo Ihr Kollege uns erwartet."
+treffen uns in der Stehbierhalle, wo Ihr Kollege uns erwartet.«
 <@pagebreak/>
-— Diese Sache kam mir nu 'n bißken mulmig vor,
+— Diese Sache kam mir nu ’n bißken mulmig vor,
 offen jestanden. Aber der Fremde, der sich übrigens Ingenieur
 Winter nannte, redete so lange auf mich ein, bis
 er mir wahrhaftig breitschlug. Na — und auf diese Art is
@@ -557,9 +557,9 @@ er denn nachher nochmals nach oben jelaufen, anjeblich um
 seinen Zigarr zu holen, und ick lockte den Pförtner in die
 Loge. Det is nu allens.«
 
-"Und wann erschien Winter in der Stehbierhalle?«
+»Und wann erschien Winter in der Stehbierhalle?«
 
-"So jejen halb zweie rum. Dann hat Rupart wieder
+»So jejen halb zweie rum. Dann hat Rupart wieder
 seine Livreejacke anjezogen und seine Mütze uffjesetzt und
 wir machten, daß wir wieder ins Jeschäft kamen.« Schmidts
 Ton war immer weinerlicher geworden. »Die Herren werden
@@ -571,15 +571,15 @@ verheiratet und...«
 »Beruhigen sie sich, Ihnen soll nichts geschehen.
 War Winter der Sprache nach Ausländer?«
 
-»Nee, Er redete bloß so'n bißken wie’n Süddeutscher."
+»Nee, Er redete bloß so’n bißken wie’n Süddeutscher.«
 
 »Haben Sie vielleicht an ihm irgend ein besonderes
-KennzEichen bemerkt?«
+Kennzeichen bemerkt?«
 
 »Hm — ja, Kennzeichen... Jawoll: er hatte an der
-linken Hand zwei zusammengewachsene Finger, den Mittel-
+linken Hand zwei zusammengewachsene Finger, den Mittel\-
 und den Zeigefinger. Nich wahr, Justav, det stimmt
-doch."
+doch.«
 
 »Ja, det stimmt.«
 
@@ -596,7 +596,7 @@ die Nummer des Polizeipräsidiums und dann unseren
 Freund Kriminalkommissar Bechert.
 
 <@pagebreak/>
-»Hier Harst... -- Tag, Bechert. Sagen Sie,
+»Hier Harst... — Tag, Bechert. Sagen Sie,
 kennen Sie einen Menschen, der süddeutschen Dialekt spricht
 und dem an der linken Hand Mittel- und Zeigefinger
 zusammengewachsen sind? Der Mann dürfte zu den schweren
@@ -638,7 +638,7 @@ der Luke gesurengt.
 sagte Harald in seiner bestimmten Art. »Schraut und ich
 werden versuchen festzustellen, wohin Finger-Willen Meter
 <@pagebreak/>
-seinen Weg genommen hat. Ihnen,,Herr Minister, kann Ich
+seinen Weg genommen hat. Ihnen, Herr Minister, kann Ich
 Jep! schon die beruhigende Versteuern is geben, daß der Dichter
 Hallmark von Finger-Willen Eiswasser, worden ist und
 daß Ihre Tochter zu diesem Verbrechen nur in ganz loser
@@ -649,7 +649,7 @@ Gleich darauf wanderten wir über die Dächer dahin.
 Unsere Bemühungen, die Dachluke zu finden, durch die
 Finger-Willen hier nach oben gelangt war, nachdem er sich
 von den beiden Gausädlenern niedere getrennt! hatte, blieben
-umsonst. Sämuliche Luken der erreichbaren Nachhar-häuser
+umsonst. Sämuliche Luken der erreichbaren Nachbarhäuser
 waren geschlossen.
 
 Bisher hatte sich Harald mir gegenüber in keiner Weise
@@ -673,7 +673,7 @@ doch..."
 
 "... in dem Koffer gefunden worden — gewiß! Aber
 die Papiere können photographiert worden sein, wenigstens
-die wictigslen Seiten aus den beiden dünnen Akten-stücken.
+die wictigslen Seiten aus den beiden dünnen Aktenstücken.
 Der Minister hat sich wo, nachdem er die Melmers
 heilig) durchsucht hatte, eine arge Weile Ich Wir bleiche
 aufgehalten. tun dieser Zeit sind die Akten photogra-bhieri
@@ -726,7 +726,7 @@ Er schob das Bild wieder in die Tasche,
 
 Nochmals schaute er über die Dächer hinweg. las
 <@pagebreak/>
-Haus des Ministers war das höchste des ganzen Häuser-blocfes.
+Haus des Ministers war das höchste des ganzen Häuserblockes.
 
 Und rief plötzlich Leise:
 
@@ -788,7 +788,7 @@ Haus zu verlassen. Wahrscheinlich hat er schon eine Welle
 hinter den Schornsteinen gestanden. Jedenfalls dürfte er
 uns. bemerkt haben.«
 
-Harst machte in sehr unzufrievenes ersieht und fügte
+Harst machte in sehr unzufriedenes ersieht und fügte
 hinzu: »Wir hätten verkleidet hierher kommen sollen! nun
 haben wir uns hier auf den Dächern unmaskiert bewegt,
 und meine scharfe Nase und Deine Hornbrille sind ja wie
@@ -1025,7 +1025,7 @@ Du würdiger mich keiner Antwort, Alfred! Du bist
 sehr stolz geworden, aber Dein Gedächtnis ebenso schlecht,
 Denkst Du noch an Neuyork? Dort landete vor zwei Flacheren
 ein Mensch, dem hier in Deutschland der Boden zu
-heiß geworden. Jane Bracks Vater nahm den Obdach-losen
+heiß geworden. Jane Bracks Vater nahm den Obdachlosen
 auf. Und die Tochter wurde sehr bald die Geliebte
 des schonen Frech. Besinnst Du Dich? — Oh — zu
 schweigst noch immer! Dein Gesicht verrät Deine Gedanken.
@@ -1058,7 +1058,7 @@ Wort an Dich verschwende. Jedenfalls siehst Du nun, Fuß
 ich Dich nie aus den Augen gelassen habe, daß ich Dir auf
 Ben Fersen blieb und nun Deine ehrgeizigen nichtöwürdigen
 Pläne jäh durchkreuzt habe. Ich könnte Dich töten, F:
-Ein Druck mit dem Finger, und Du wärest .,, hi über!» st
+Ein Druck mit dem Finger, und Du wärest .,, hi über!« st
 
 Da schob und ich den Bog über Ben Rand des Schirmes | st
 Blumen.
@@ -1264,7 +1264,7 @@ auf einen großen Hof, wie ich mia dem Winerbafl
 Schritte entnahm, letzte nich in ein geschlossenes Auto 1d
 ließ mich allein,
 
-Ich öffnete die Augen. Das Tuch war mir ins be-Ferutscht.
+Ich öffnete die Augen. Das Tuch war mir ins be-Fernsicht.
 Durch die offener Autotür sah ich Im Lichte
 ruderten Mauern und Fenster, sah eine Frau, die
 Bau Rodemumbang und einen Lederhut trug und eine
@@ -1293,7 +1293,7 @@ Leider hatte man mir das Tuch wieder fester um er By
 Kopf verklungen. ich konnte daher, als das Brot na
 Da ¿zwanzig Mimen landete, nicht sehen, wo es an
 <@pagebreak/>
-Ein Bootssteg 1 war aus,Es schien wir eher
+Ein Bootssteg 1 war gutes schien wir eher
 ein durch Pfähle befestigtes Ufer zu sein
 
 Während der Fahrt Kanne 1h genügend Ben gehabt,
@@ -1355,7 +1355,7 @@ erledigt würde.
 war,« erwiderte Harst mit lkrästiger Stimme. »Und —
 Mögen aha vor dem Ueberfall, Jane Brav! Man lernt
 immer noch dazu. Seit weiß ich, daß der Papagei, der
-an dem Bindfaden hochslatterte, ein Signal für Ihre auf
+an dem Bindfaden hochflatterte, ein Signal für Ihre auf
 dem Boden des Ministerhauses versteckten Leute war, uns
 niederzuschlagen.«
 
@@ -1436,7 +1436,7 @@ Die vier Männer verteilten sich. Einer lehnte sich gegen
 die wieder ins Schloß gedrückte Tür. Zwei Ben
 neben Helene Melmer stehen, der vierte trat neben Trotz,
 
-Jane Brack schnürte Helene. Mesmer an. »Sie Wen
+Jane Brack schnürte Helene. Melmer an. »Sie Wen
 er Firmen nicht, weshalb im Je...« flau
 
 Und — da kam die Unterbrechung: Sie lau aus
@@ -1455,7 +1455,7 @@ war im Besitz der Flurtürschlüsse! Er wartete auf das
 Tee des Ministers, Er mußte, daß dieser die wichtigen
 Dokumente mitbringen würde, und er hatte sich in
 liebem neuen Schvranftoifer verborgen, wo ich unten die Abdrücke
-zweier Etieselhacken (in dem Stossbezug bemerke.
+zweier Etieselhacken (in dem Stoffbezug bemerke.
 Der Diener Hallmark erschien dann wohl gerade in Vd
 Moment im Salon, als der Minister draußen die Flurtür
 öffnete. Auch Rotwin hatte sein Versteck jedoch Bau
@@ -1501,7 +1501,7 @@ mitzuteilen, ließ ich Sie hierher bringen,«
 Sie trat mit raschem Schein an Orgla heran unh
 riß Wille rede weg.
 
-Ofens fahles, verzerrtes, sschuldbewußtes Geier wirkte
+Ofens fahles, verzerrtes, schuldbewußtes Geier wirkte
 eindringlicher als ein offenes Geständnis, Er wagte
 die Augen nicht aufzuschlagen. Und ein Zittern ging
 <@pagebreak/>
@@ -1537,7 +1537,7 @@ Zeichen gab. Ne
 
 Dann wurde sie hingusgesülhtt I
 
-Und so endete der erste Teil unseres hundertflen
+Und so endete der erste Teil unseres hundertsten
 Abenteuers, so endete diese Tragödie der rachsüchtigen Eifersucht
 eines Weibes, die, obwohl Verbrecherin, doch
 »Herz ebleren Regungen nie! verschloß. Das hatte sie bin
@@ -1672,7 +1672,7 @@ es gegen das Licht — ganz wie Harald es getan hatte.
 
 »Ah, wirklich! Ein Kreuz!«
 
-an wohl die Geheimslizze irgend einer Seitliche
+an wohl die Geheimskizze irgend einer Seitliche
 Dame Brack,« erklärte Harald behächtia
 
 »A wieder lachte Orgla kurz zu! »eine Oertlichkeit!!
@@ -1681,7 +1681,7 @@ vor: es ist ein Spielertali8man!«
 
 Harald blickte Orgla scharf am,
 
-»Es scheint, Daß Die?r’i »ne nicht von Ihnen an-Mena
+»Es scheint, Daß Die?r’i »ne nicht von Ihnen an-Wenn
 y worden ist, — Jane Brav, bat Orgla diese Fall
 [Wen geschrieben?«
 
@@ -1760,7 +1760,7 @@ Zaßlehzettel zusammenhing, stimmen müßte, —
 So führte man uns denn, ohne daß wir das geringste
 sehen konnten, zum Hause hinaus und in das Motorboot
 Er bedeckte uns hier im Boote Dom nit einem Frohen
-geinteanbiült und brachte uns nach mehr als anderthalb-Fabrt
+geinteanbiült und brachte uns nach mehr als anderthalb-Fahrt
 ein Stil in eine dichte Kiefernschonung.
 
 als hier nun die Oeden und abaenonmmen wurden,
@@ -1816,7 +1816,7 @@ Schrill:
 > z. Berlin, Hotel Adlon,
 
 »Der Lord ist ein älterer Herr,« erklärte Frau Harst
-nun. »Gin waschechter Engländer So beinahe gen ne
+nun. »Ein waschechter Engländer So beinahe gen ne
 Steiflelnêèn aemeacht. Aber vornehm bis in die Finder-spiven,
 Er horche an, daß Ok log eine ade wo,
 größter Wichtige! handele, Zu solltest ihm ins Adlon Art
@@ -2010,7 +2010,7 @@ hriftflüde neben, Die ganz bestimmt von Mac Orlen berühren
 
 <@pagebreak/>
 Lord Anlay entnahm seiner Brieftasche einen aufame-menaefafteten
-Birnen, »Dieser Geschäftébriesentwurf stammt
+Birnen, »Dieser Geschäftsbriefentwurf stammt
 von Mac Orlens Hand, Herr Harst. Vergleichen Sie: es ist
 dieselbe Greift, Eine Röffeunn Gent nicht vor.«
 
@@ -2095,7 +2095,7 @@ Wir waren allein, Zugluft las mir das Protokoll vor.
 Es brachte nicht Wichtiges außer der Aussage des Hausmeisters
 des Anlay-Palais, daß er am Morgen des 20,
 Juni in der Bibliothek eine Fensterscheibe zertrümmert vorgefunden
-hätte. Gin trockenen Nit eines der Parkbäume
+hätte. Ein trockenen Nit eines der Parkbäume
 »i durch Den nächtlichen Krumm in die Scheibe geschleudert
 worden und habe noch aus dem Ernste. Brett gelegen.
 
@@ -2376,7 +2376,7 @@ Ran ich dazu.«
 halb neun saßen wir beim Abendbrot, und Harald
 tt: von dem eigenartigen Buche des kleinen Journalisten
 Herbert Süd, der als Kellner, Lumpenhändler ü
-Bettler das dunkle Berlin der Nachkrieaszeit so tadellos
+Bettler das dunkle Berlin der Nachkriegszeit so tadellos
 studiert hätte, daß, wenn er wollte, alle geheimen Spiel-flubs
 in einer Nacht ausgehoben werden formten. Ein
 Eid Schinken, plauderte die Geheimnisse Berlins ohne
@@ -2450,7 +2450,7 @@ Also tot ist er? Ermordet?«
 man in Ben Klub hinein, bis, Wir müssen hin.«
 
 »Müssen?! Lieber Harst, Sie kennen mich, Polizei und
-pollzeiähnliche Bereithalten Kopten bei mir vergebens an,
+polizeiähnliche Bereithalten Kopten bei mir vergebens an,
 — Guten Abend „,.«
 
 Und mit drei Sprüngen war er in einer vorbeilahren.
@@ -2559,7 +2559,7 @@ donnerten schlüpfte hinein.
 in enger, endlos Tannen So! volle eine düstere Schlucht,
 Rechts und links die himmelhohen grauen Wände der
 Mietskasernen, Angeklebt an diese Wände hier im Hose
-kleine Holzbaraden, Ställe Remiseon. Zwei Möbelwag-gen,
+kleine Holzbaracken, Ställe Remiseon. Zwei Möbelwag-gen,
 andere Wagen standen umher, Im Hintergrunde ein
 Häuschen aus loben Ziegeln, einstölig, Fünf endet Front,
 An her Tür ein ehrbares Blechschild »Kontor »,
@@ -2583,7 +2583,7 @@ brannte. Dann eine angestrichene Holztreppe, noch Abmarsch
 neu, und nach recht Stufen ein dicker Vorhang,
 
 Hinter dem Vorhang begann der u, Man roh
-Zigarettendust, Man sah Korbsessel in dieser Garderobe,
+Zigarettenduft, Man sah Korbsessel in dieser Garderobe,
 Kleiderständer, einen Mann in Dienerlivree, der und eilfertig
 Hüte und Stöcke abnahm, Die mit Stoff bespannten
 Wände Mk die Decke schimmerten in freundlichem
@@ -2630,7 +2630,7 @@ auch jeder Freude, Harst!«
 
 fern entschlüpfte er nach dem Büfett bin.
 
-Wir traten an den Tisch zurück. Wir setzten blind-Unas
+Wir traten an den Tisch zurück. Wir setzten blind-mal
 — und gewannen, Natürlich gewannen wir. Das
 mute: wenn jemandem am Gewinn nichts liegt,
 er
@@ -2686,9 +2686,9 @@ soeben weggegangen sei, Der Mann entwickelte, 66
 mir Bartoux den Hof vor ein paar Sekunden verlassen
 habe, Seitdem habe ich Bartoux nicht Dastehen
 ebensowenig Mac Orlen. Uebrigens habe ich kann tut
-den zweiten Wollen als der Tür des Kontorhausés befragt.
+den zweiten Wollen als der Tür des Kontorhauses befragt.
 Er erklärte genau dasselbe: den Engländer habe er nicht
-bemerkt, nur Bartoux sei in großer Eile Davongeranni.«
+bemerkt, nur Bartoux sei in großer Eile Davongerannt.«
 
 »Haben diese Räume noch einen anderen Ausgang?«
 
@@ -2726,7 +2726,7 @@ Tier Hang »Wir werden Mal den Fuchsbau durchsuchen,
 eben
 
 In der Garderobe war nur der Diener anwesend,
-der uns unsere Hüte und Stockte gab, ein reichliches Trinks-In
+der uns unsere Hüte und Stockte gab, ein reichliches Trinke-In
 erhielt und Braune, ob er uns bis auf den So) gefesselte,
 Harst dankte, »bemühen Sie sich nicht. Wir
 den schon.«
@@ -2748,7 +2748,7 @@ betet, daß sie zum Einflampîen von Sauerkohl
 nutzt worden waren. ist halten uns raïch hinter einem
 der Asien ausammeancgui,
 
-Die Schritte kamen die Kellertreppe hinab. Gin Licht
+Die Schritte kamen die Kellertreppe hinab. Ein Licht
 leuchtete auf. Dann eine näselnde Stimme, die des
 Herrn Bau
 
@@ -2831,7 +2831,7 @@ Karat Lampe blitzte auf. Wir erhoben uns.
 »Was bedeutet das?« fragte ich leise.
 
 Harst wandte sich halb um, leuchtete in zwei der Fässer
-hinein. Sie 11 Seen leer bis aus einen Rest verschim-melten
+hinein. Sie 11 Seen leer bis aus einen Rest verschimmelten
 Sauerkrautes,
 
 Auf dem dritten lag ein Holzdeckel. Harst nahm ihn
@@ -2905,7 +2905,7 @@ Die Nummern des Kegels waren Gräbernummern,
 und in den Gräbern Nr. 1542 und 1552 ruhten Wilhelm
 oho und Anton Engel!
 
-Es dauerte eine geraume Meile, bis der Friedhofs-Anipeltor
+Es dauerte eine geraume Meile, bis der Friedhofs-Inspektor
 erschien, Er kam mit einer Laterne und Fragte
 recht Kutte, war wie ah dich E, Ne Und
 
@@ -2982,7 +2982,7 @@ Hause, in dem wir kurze Zeit Janes Gefangene gewesen
 in da? wir morgen früh alt Gefangene zurückreiten
 putzen, an
 
-Wir suchten es hier an den Ufern des Schielow-Sees,
+Wir suchten es hier an den Ufern des Schielen-Sees,
 denn Harald war überzeugt, daß es wahrscheinlich
 ganz in der Nähe des Dorfes Der läge, wo wir ja gestern
 in der Schonung ausgeseut worden waren,
@@ -3027,7 +3027,7 @@ Flübtiae Bleistiftzeilen von einer Frauenhand:
 es noch zur rechten Zeit, sah tote der eine der
 zufassen nit arm Fernglas die Ufer absuchte. Das gebaute
 wie. ich räume das Old. — Sie werden sogen:
-eWanlkelmütiges Frœuenherz!« denn ich habe Frech Orgla
+Wankelmütiges Frauenherz!« denn ich habe Frech Orgla
 verziehen und mit mir genommen, — Sie werden mich und
 te Handlunasweilse Mohn verstehen. Bedenken Eier
 Rasamala war meine erste Liebe! — Wir werden schracnowo im
