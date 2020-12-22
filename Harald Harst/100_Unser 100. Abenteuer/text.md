@@ -629,732 +629,731 @@ und genau wieder eingepaßt war,
 <h2>3. Kapitel.</h2>
 <h3>Das Aeffchen und der Papagei.</h3>
 
-Nachdem wir und durch dieses Loch in der Tür fände:
-»lich binvurcschgezwängt baren, fanden wir auf dem Boden
+Nachdem wir und durch dieses Loch in der Tür sämtlich
+hindurchgezwängt hatten, fanden wir auf dem Boden
 die Leiter gegen die Dachluke gelehnt vor und das Schoß
-der Luke gesurengt.
+der Luke gesprengt.
 
 »Hier möchte ich die Herren nun bitten umzukehren,«
 sagte Harald in seiner bestimmten Art. »Schraut und ich
-werden versuchen festzustellen, wohin Finger-Willen Meter
+werden versuchen festzustellen, wohin Finger-Miller weiter
 <@pagebreak/>
 seinen Weg genommen hat. Ihnen, Herr Minister, kann Ich
-Jep! schon die beruhigende Versteuern is geben, daß der Dichter
-Hallmark von Finger-Willen Eiswasser, worden ist und
+jetzt schon die beruhigende Versicherung geben, daß der Diener
+Hallmark von Finger-Miller erschossen worden ist und
 daß Ihre Tochter zu diesem Verbrechen nur in ganz loser
-Beziehun« steht, jedenfalls Derer als Mlitichulbige noch
-als Mitwisserin in Betracht bemannt.«
+Beziehung steht, jedenfalls weder als Mitschuldige noch
+als Mitwisserin in Betracht kommt.«
 
 Gleich darauf wanderten wir über die Dächer dahin.
 Unsere Bemühungen, die Dachluke zu finden, durch die
-Finger-Willen hier nach oben gelangt war, nachdem er sich
-von den beiden Gausädlenern niedere getrennt! hatte, blieben
-umsonst. Sämuliche Luken der erreichbaren Nachbarhäuser
+Finger-Miller hier nach oben gelangt war, nachdem er sich
+von den beiden Hausdienern wieder getrennt hatte, blieben
+umsonst. Sämtliche Luken der erreichbaren Nachbarhäuser
 waren geschlossen.
 
 Bisher hatte sich Harald mir gegenüber in keiner Weise
 über die Rolle, die Helene Melmer bei alledem gespielt haben
 mochte, geäußert. Und doch war ja nun bereits erwiesen,
 daß sie sich ebenfalls nur auf demselben Wege wie
-Finger-Willen entfernt haben konnte, eben über die Dächer.
+Finger-Miller entfernt haben konnte, eben über die Dächer.
 
 Als wir nun die Dachluke des Ministerhauses wieder
-erreicht hatten, sagte Harst ganz unverminielt:
+erreicht hatten, sagte Harst ganz unvermittelt:
 
-»Wir will Jane Bracks Drohung nicht aus dem Sinn!
-Ob dieses Weib etwa hier die Hand im Spiele hart! Möglich
+»Mir will Jane Bracks Drohung nicht aus dem Sinn!
+Ob dieses Weib etwa hier die Hand im Spiele hat?! Möglich
 wäre es schon. Was wissen wir denn über die Pläne
 Janes und ihrer jetzt unschädlich gemachten Freunde: nichts
-— gar nichts! Vielleicht is! Jane auch politische Spionin.
-Vielleicht ist dies alles hier sei! fangen geplant gewesen.«
+— gar nichts! Vielleicht ist Jane auch politische Spionin.
+Vielleicht ist dies alles hier seit langem geplant gewesen.«
 
-Hm um aber die Aktentasche mit den Papieren ist
+»Hm — aber die Aktentasche mit den Papieren ist
 doch..."
 
 "... in dem Koffer gefunden worden — gewiß! Aber
 die Papiere können photographiert worden sein, wenigstens
-die wictigslen Seiten aus den beiden dünnen Aktenstücken.
-Der Minister hat sich wo, nachdem er die Melmers
-heilig) durchsucht hatte, eine arge Weile Ich Wir bleiche
-aufgehalten. tun dieser Zeit sind die Akten photogra-bhieri
+die wichtigsten Seiten aus den beiden dünnen Aktenstücken.
+Der Minister hat sich doch, nachdem er die Wohnung
+flüchtig durchsucht hatte, eine ganze Weile in der Küche
+aufgehalten. In dieser Zeit sind die Akten photographiert
 worden, das heißt also: der Mörder war noch in
 <@pagebreak/>
 der Wohnung verborgen und entfloh erst, nachdem er sein
-Wer? vollendet hatte. — Bitte —«was ist dies?«
+Werk vollendet hatte. — Bitte — was ist dies?«
 
 Er hielt mir auf der offenen Hand ein schwarzes Papierkügelchen
 hin.
 
 »Nun, ich fand dies halb unter Hallmarks linkem Bein,
 unter den Falten des Beinkleids, mein Alter. Es ist das
-schwarze Schubblatt einer Umgang.
+schwarze Schutzblatt einer Filmpackung.«
 
 Er strich das Papier glatt. »Da — Film Nr. 6, wie
-die tote Zahl oben beweist. — Zweifelst Du noch, daß die
+die rote Zahl oben beweist. — Zweifelst Du noch, daß die
 Dokumente photographiert worden sind?«
 
-»Nein, allerdings nit. Nur — nur Helene uti
+»Nein, allerdings nicht. Nur — nur Helene Melmer
 vermag ich beim besten Willen in diesem Fall von Spionage
 nicht einzufügen. Was hat sie damit zu tun? Sie
-wird doch nicht mit Finger-Willen im Bunde gewesen sein!
+wird doch nicht mit Finger-Miller im Bunde gewesen sein!«
 
 »Auf keinen Fall! Wenigstens nicht in dem Sinne,
-wie Du es soeben andeuteteft, Nein, davon kann kaum Die
-sein. Kh sehe in dieser Beziehung selbst noch nicht
-u
+wie Du es soeben andeutetest. Nein, davon kann kaum Die
+Rede sein. Ich sehe in dieser Beziehung selbst noch nicht
+klar.«
 
-Während er dies in seiner bepächtigen Art sagte, ließ
-er die Blicke andauernd über die Dächer hinschivtifen.
+Während er dies in seiner bedächtigen Art sagte, ließ
+er die Blicke andauernd über die Dächer hinschweifen.
 
 Und fügte Hinzu: »Helene Melmer ist eine zu kalte
 Schönheit, um sich auf einen Liebesroman einzulassen.
 Bitte — prüfe selbst.« Und der holte eine Photographie,
-Visitformat, hervor. »Ich habe sie mir aus einem
-he« Salons Melmers geborgt, lieber Alter. Das junge
-Mädchen hat einen geradezu eisigen Zug im Gesicht.
+Visitformat, hervor. »Ich habe sie mir aus einem Album
+des Salons Melmers geborgt, lieber Alter. Das junge
+Mädchen hat einen geradezu eisigen Zug im Gesicht. Da
 ist nichts Weiches, Liebliches. In dem Ausdruck der Augen
-Siegt eine unendliche Verachtung alles dessen, was man
+liegt eine unendliche Verachtung alles dessen, was man
 Gefühlt nennt. — Und doch: betrachte mal den Mund!«
 
-»Etwas lose Weltschmerz, Buterkeit, Eulsagung. &«
+»Etwas wie Weltschmerz, Bitterkeit, Entsagung...«
 
-»Ja, ganz recht. Vielleicht bat Helene Meister einst
-geliebt und ist, betrogen worden — Nun — wir werden
-ja leben, wie sich dies alles hier aufklärt 0...
+»Ja, ganz recht. Vielleicht hat Helene Meister einst
+geliebt und ist ... betrogen worden. — Nun — wir werden
+ja sehen, wie sich dies alles hier aufklärt.«
 
 Er schob das Bild wieder in die Tasche,
 
-Nochmals schaute er über die Dächer hinweg. las
+Nochmals schaute er über die Dächer hinweg. Das
 <@pagebreak/>
 Haus des Ministers war das höchste des ganzen Häuserblockes.
 
-Und rief plötzlich Leise:
+Und rief plötzlich leise:
 
 »Da — ein kleiner Affe turnt dort drüben an dem
 Schornstein herum .... Ein Kapuzineräffchen ist’s. — Rasch
-— nehmen wir Deckung.
+— nehmen wir Deckung...!"
 
-in an cinandergeschmiegt glühten wir uns Winter
+Eng aneinandergeschmiegt drückten wir uns hinter
 den nächsten Schornstein.
 
 Vier Häuser weiter nach Osten zu vergnügte sich der
-kleine Affe im Abendsonnenschein jetzt oben auf einer hißten
+kleine Affe im Abendsonnenschein jetzt oben auf einer hohen
 Esse.
 
-Bis mit einem Male ein Mann auftauchte, der offen-durch
-die Dachluke gekommen, und das Verstehen an sich
+Bis mit einem Male ein Mann auftauchte, der offenbar
+durch die Dachluke gekommen, und das Aeffchen an sich
 lockte.
 
 Der Mann trug eine grüne verschnürte Hausjacke,
 gelbbraune Hausschuhe und hatte einen langen schwarzen
 Schnurrbart.
 
-Dann verschwand er mit dem Morschen auf dem Arm
+Dann verschwand er mit dem Aeffchen auf dem Arm
 hinter drei Dicht nebeneinander stehenden Schornsteinen.
 
-Das war merkwürdig!« sagte Harald da. »Du hast
+»Das war merkwürdig!« sagte Harald da. »Du hast
 es doch auch gesehen? Der kleine Kapuzineraffe war an einem
 sehr langen Zwirnfaden befestigt.«
 
 »Er wird eben samt der Schnur ausgerückt sein.«
 
-»Du verstehst nich Fall. Der Bindfaden lief um
+»Du verstehst mich falsch. Der Bindfaden lief um
 die drei Schornsteine herum und war viele Meter lang.«
 
-Nun O Und — Ja
+»Nun ja... — Und — —?«
 
-»Und der Mann, der das Feschen holte, wollte vielleicht
+»Und der Mann, der das Aeffchen holte, wollte vielleicht
 nur ein Grund haben, auf das Dach zu kommen,
 um sich zu überzeugen, ob noch andere Leute hier auf den
 Dächern seien, eben die Polizei. Diesen Grund konstruierte
-er, indem er bog Tierchen an den! langen Bindfaden
-bar; die Dachluke freiließ. Das sah Mann so sehen harmlos
-aus, wenn er das Forschen wieder einfing, während es
-da in Wahrheit wir spionieren wollte, denke ich mir.«
+er, indem er das Tierchen an dem langen Bindfaden
+durch die Dachluke freiließ. Das sah Mann so schön harmlos
+aus, wenn er das Aeffchen wieder einfing, während er
+doch in Wahrheit nur spionieren wollte, denke ich mir.«
 
-So begriff nun Haralds Gedankengang.
+Ich begriff nun Haralds Gedankengang.
 
 <@pagebreak/>
-»Du meinst also, der Mann wollte nur festlichen, ob
-die Polizei hier aus den Dächern aufgetaucht sei?« fragte
+»Du meinst also, der Mann wollte nur feststellen, ob
+die Polizei hier auf den Dächern aufgetaucht sei?« fragte
 ich gespannt.
 
-»Ja, Ich nehme es an. Der Mann könnte ja mit im
-konntest sein, was den Mord und die photographischen
+»Ja. Ich nehme es an. Der Mann könnte ja mit im
+Komplott sein, was den Mord und die photographischen
 Urkunden angeht. Daher suchte er herauszubringen, ob etwa
-die Polizei den Weg bereits entdeckt Hütte, den der Mörder
-und Helene Melmer eingeschlagen hatten, na dieses
-Haus zu verlassen. Wahrscheinlich hat er schon eine Welle
+die Polizei den Weg bereits entdeckt hätte, den der Mörder
+und Helene Melmer eingeschlagen hatten, um dieses
+Haus zu verlassen. Wahrscheinlich hat er schon eine Weile
 hinter den Schornsteinen gestanden. Jedenfalls dürfte er
-uns. bemerkt haben.«
+uns bemerkt haben.«
 
-Harst machte in sehr unzufriedenes ersieht und fügte
+Harst machte ein sehr unzufriedenes Gesicht und fügte
 hinzu: »Wir hätten verkleidet hierher kommen sollen! nun
 haben wir uns hier auf den Dächern unmaskiert bewegt,
 und meine scharfe Nase und Deine Hornbrille sind ja wie
-Stedbriefmertjeihen für Harst und Schlau,«
+Steckbriefmerkzeichen für Harst und Schraut,«
 
 Er lugte abermals um die Ecke des Schornsteins.
 
-0, — noch ein Tier! rief er leise, »Ein Papagei!
-Ein grüner Aleranderfittich. Und ebenfald an einem Bindfaden!
-Da fliegt er wieder hoch, wird an der Schnur zi-rüdgezerri!
-Hörst Du ihn Pfeifchen? Und von dem Manne
-feiert is! nicht zu sehen. Nun verschwindet auch der 4a-
+»Ah, — noch ein Tier!!" rief er leise. »Ein Papagei!
+Ein grüner Alexanderfittich. Und ebenfalls an einem Bindfaden!
+Da fliegt er wieder hoch, wird an der Schnur zurückgezerrt!
+Hörst Du ihn kreischen? Und von dem Manne
+selbst ist nichts zu sehen. Nun verschwindet auch der
 Papagei. Die Sache wird immer merkwürdiger.«
 
-Das stimmte, Merkwürdiger insofern, als durch Witz
-Ofen Papagei Haralds Annahme, das Kapuzineräffchen sollte
-mir Ben Anlaß zu einem Gang auf das Dorn abgegeben
-haben, durch das Erscheinen des Papaceis doch wohl hinfällig
-geworben war, Denn — wozu j2h1 noch der Papagei,
-wenn der Mann doch Von Feldarbeit haben mußte,
-daß die umliegenden Dächer vom Piinisterhause aus abgesucht
-geworben waren?! |«
+Das stimmte. Merkwürdiger insofern, als durch diesen
+Papagei Haralds Annahme, das Kapuzineräffchen sollte
+nur den Anlaß zu einem Gang auf das Dach abgegeben
+haben, durch das Erscheinen des Papageis doch wohl hinfällig
+geworden war. Denn — wozu jetzt noch der Papagei,
+wenn der Mann doch schon festgestellt haben mußte,
+daß die umliegenden Dächer vom Ministerhause aus abgesucht
+geworben waren?!
 
-Als ich dies nun u. gegenüber äußerte, erwidert
+Als ich dies nun Harald gegenüber äußerte, erwiderte
 er nur: »Wir werden ja sehen!«
 
 Noch fünf Minuten blieben wir hinter dem Schornstein
 <@pagebreak/>
-fielen. Dann meinte Harst: »Gehen wir nach unten.
-Die Polsterung folgt bei@Zementiert,«
+stehen. Dann meinte Harst: »Gehen wir nach unten.
+Die Fortsetzung folgt bei Sternenlicht,«
 
-Ah verstand: nahte wollen wir nochmals hierher
+Ich verstand: nachts wollten wir nochmals hierher
 kommen!
 
-Wir kletterten die Reiter hinab, Ich als erster. Nie ich
-kann am Fuße der Leiter stehend nach oben blickte und anschaute,
+Wir kletterten die Leiter hinab, Ich als erster. Als ich
+dann am Fuße der Leiter stehend nach oben blickte und zuschaute,
 wie Harst die Luke schloß, da trat »die Fortsetzung«
 weit eher ein, als wir beide es geahnt hatten,
 
-Nachdem der Lukendeckel ausgelegt worden war, herrichte
-hier in dem schmalen Gange einschenken Bodenkammern
-ein ungewisse« Halbdunkel,
+Nachdem der Lukendeckel aufgelegt worden war, herrschte
+hier in dem schmalen Gange zwischen den Bodenkammern
+ein ungewisses Halbdunkel,
 
-Harst stieg Sprosse um Sprosse Mietete mir den
-Rücken zu. Wir waren beide berhäuptig. Leider!!
+Harst stieg Sprosse um Sprosse herab, kehrte mir den
+Rücken zu. Wir waren beide barhäuptig. Leider!!
 
 Der Hieb, der urplötzlich meinen Hinterkopf traf, wirkte
 wie ein Blitzschlag.
 
 Ich hatte noch den ungewissen Eindruck, daß irgend etwas
-an meinem Gesicht vorbei sauste und gegen Zuraste
-Schädel prallte, Dann — — nichts mehr — nicht einmal
-mehr die Embfinbung auch nur eines flüchtigen Schmerzes,
+an meinem Gesicht vorbei sauste und gegen Haralds
+Schädel prallte. Dann — — nichts mehr — nicht einmal
+mehr die Empfindung auch nur eines flüchtigen Schmerzes,
 
 Waren Stunden, Tage, Wochen verflossen?
 
 Ich wußte es nicht. Ich versuchte auch gar nicht, darüber
-naczubenfen, nachdem ich auch der tiefen Ohnmacht
-Betracht war, Sieh hatte das Gefühl, daß mein Körper mir
-Koch aus einem bis ins umnaebeuerlihe angeschwollenen
-rufe bestand, und dieser Kopf nicht eine einzige Stelle
-auswies, die nicht schmerzte,
+nachzudenken, nachdem ich aus der tiefen Ohnmacht
+erwacht war. Ich hatte das Gefühl, daß mein Körper nur
+noch aus einem bis ins ungeheuerliche angeschwollenen
+Kopfe bestand, und dieser Kopf nicht eine einzige Stelle
+aufwies, die nicht schmerzte,
 
-Die Munen’ zu öffnen war unmöglich. Hinter den
-efchloffenen Lidern tanzten euerbälfe, feurige Nägel und
-grelle Blitze bin und der, G& war das arohartiafte Beil-,
-»Ianifeuerwert, das ich je gesehen — je zu leben glaubte,
-es waren ja nur Sehstörungen, die Folgen det Hieß
-auf den Hinterkopf
+Die Augen zu öffnen war unmöglich. Hinter den
+geschlossenen Lidern tanzten Feuerbälle, feurige Räder und
+grelle Blitze hin und her. Es war das großartigste
+Brillantfeuerwerk, das ich je gesehen — je zu sehen glaubte,
+es waren ja nur Sehstörungen, die Folgen des Hiebes
+auf den Hinterkopf.
 
 Vor meinen Ohren brauste scheinbar eine tobende Brandung,
 übertönt von dem gelegentlichen Kreischen einer
 <@pagebreak/>
 scheußlichen Stimme, die abwechselnd Dieb, Gauner und
-Lump rief
+Lump rief...
 
 Und abermals versank ich in die Abgründe tiefster
-Bewußtlosigkeit, hinabgerissen in lag Nichts von einem
-wilden Wirbel
+Bewußtlosigkeit, hinabgerissen in das Nichts von einem
+wilden Wirbel...
 
-Und kam abreise mir...
+Und kam abermals zu mir...
 
-Das Feuerwerk war erloschen, die Brandung Ber-farmmnt.
+Das Feuerwerk war erloschen, die Brandung verstummt.
 Nur die scheußliche Stimme klang jetzt stärker als
-zuvor — und immer noch die gellenden Schitnpsworie,
-immer noch Dieb, Ewiger, Lump. …
+zuvor — und immer noch die gellenden Schimpfworte,
+immer noch Dieb, Gauner, Lump…
 
-Dann auch der erste Gedanke, die erste Fdeenverbin-vung:
+Dann auch der erste Gedanke, die erste Ideenverbindung:
 »Es ist ein Papagei!«
 
 Bald auch der schmerzhafte Versuch, die Augen zu öffnen.
-Bald auch das klare Empfinden, daß auf meiner:!
-Kopfe eine Billigte liegen müßte,
+Bald auch das klare Empfinden, daß auf meinem
+Kopfe eine Eisblase liegen müßte,
 
-Und ich sah aufwärts zu einer mit Sind reich verzierten
-Zimmerdecke, die hell beleuchtet trat.
+Und ich sah aufwärts zu einer mit Stuck reich verzierten
+Zimmerdecke, die hell beleuchtet war.
 
-Sah elektrische Birnen eines schîronleuchters glühen, mir:
+Sah elektrische Birnen eines Kronleuchters glühen, und
 neben mir eine mit einem Gobelin bespannte Wand.
 
-Ah Tag auf einem Diwan, und links von mir, den
-Ausblick in das Zimmer veriperrend, stand ein großer
+Ich lag auf einem Diwan, und links von mir, den
+Ausblick in das Zimmer versperrend, stand ein großer
 Wandschirm.
 
-Unendliche Mattigkeit 1 spürte ich. Wer Körper rührte
+Unendliche Mattigkeit spürte ich. Mein Körper ruhte
 schwer wie eine Statue aus Bei auf dem weichen Diwan.
 
-Mit unendlicer Mütze diente ich den Kopf noch ner
-nach links. Denn mir war’s rochen gewesen, als ob sich
-an dem Wand n irgend etwas bewegt hätte.
+Mit unendlicher Mühe drehte ich den Kopf noch mehr
+nach links. Denn mir war’s soeben gewesen, als ob sich
+an dem Wandschirm irgend etwas bewegt hätte.
 
 Ich hatte mich auch nicht getäuscht.
 
-Da war ein kleiner Nit in der Stoffbespannung des
-Wandschirms, und durch diesen Riß hatte Irland von der
-anderen Seite einen Finger hinkt rcagesteckt. Dieser Finger
-An sich, Und — diesen Finger mit Dem tadellos
-finsteren schmalen Sofa mager kannte ich. Der
-hörte, seinem anderen alt Harald! —
+Da war ein kleiner Riß in der Stoffbespannung des
+Wandschirms, und durch diesen Riß hatte jemand von der
+anderen Seite einen Finger hindurchgesteckt. Dieser Finger
+bewegte sich. Und — diesen Finger mit Dem tadellos
+spitz geschnittenen schmalen rosigen Nagel kannte ich. Der
+gehörte keinem anderen als Harald! —
 
-Was Doch eine winzige Beobachtung alles vermag]
+Was Doch eine winzige Beobachtung alles vermag!
 <@pagebreak/>
-dieses Zeichen Harst«, das mich fihneller wieder
-zu Kräften b e als etwa tagelange Ruhe und Pflege.
-— Je deren mich auszurichten. ich biß die Zähne, zusammen
-und überwand Ben Schwindelanfall, bekam es
-sogar fertig, die Billigte beiseite zu legen und lautlos
-mich« leben.
+Hier war’s dieses Zeichen Harsts, das mich schneller wieder
+zu Kräften brachte als etwa tagelange Ruhe und Pflege.
+— Ich versuchte mich aufzurichten. ich biß die Zähne zusammen
+und überwand den Schwindelanfall, bekam es
+sogar fertig, die Eisblase beiseite zu legen und lautlos
+mich aufrecht zu setzen.
 
 Dann berührte ich den ruhelosen Finger. Er verschwand
-sofort. Der Nit in der Stoffbespannung wurde noch weiter
-gutem gern, und dahinter erschien nun ein Lip-penpaar.
+sofort. Der Riß in der Stoffbespannung wurde noch weiter
+auseinandergezerrt, und dahinter erschien nun ein Lippenpaar.
 
-Ich letzte, mich weit vorbeugend, das Ohr an den Riß,
-und wie ein Hauch nur drang, Haralds Stimme in mein
-Ohr hinein. 7.
+Ich legte, mich weit vorbeugend, das Ohr an den Riß,
+und wie ein Hauch nur drang Haralds Stimme in mein
+Ohr hinein.
 
-»Raus Fror Nit drei Schritt weiter und liest. Wir
-Wällen unbedingt noch weiter die Schwerkranken spielen.
+»Jane Brack sitzt drei Schritt weiter und liest. Wir
+müssen unbedingt noch weiter die Schwerkranken spielen.
 Es ist jetzt elf Uhr abends. Wir sind bereits volle vierundzwanzig
 Stunden hier in ihrer Gewalt. Die geringste Unvorsichtigkeit
 kann uns das Leben kosten. Jane hat weit
 mehr Leute zur Verfügung, als ich bisher annehmen konnte.
 Lege Dich wieder nieder und rege Dich nicht. Nur wenn
-ich Dir ein Zeichen gebe, horche Die jetzt.«
+ich Dir ein Zeichen gebe, horche wie jetzt.«
 
 Mit noch größerer Behutsamkeit als vorhin nahm ich
 meine bisherige Lage wieder ein,
 
 Zum Glück schnatterte und schrie der Papagei in einem
-fort, so Daß auch das Finstern der Chemischen In der
-Billigte völlig dadurch übertönt wurde,
+fort, so Daß auch das Knistern der Eisstückchen In der
+Eisblase völlig dadurch übertönt wurde,
 
 Mein Hirn arbeitete nun wieder vollständig exakt. ich
-Beet mir, was Harald mir da soeben zugeflüstert hatte.
-Kg Rad hatte ihre Drohung wahr gemacht. Sie hatte
-Ofen A ihre Kreaturen niederschlugen und hierher Schafe
+überlegte mir, was Harald mir da soeben zugeflüstert hatte.
+Jane Brack hatte ihre Drohung wahr gemacht. Sie hatte
+uns durch ihre Kreaturen niederschlagen und hierher schaffen
 lassen.
 
-Wo aber besannen wir uns?
+Wo aber befanden wir uns?
 
-Nun — es konnte sich wohl nur um jenes vada handeln,
-auf cm Dach der Spion in mit dem Messen und
+Nun — es konnte sich wohl nur um jenes Haus handeln,
+auf dessen Dach der Spion erst mit dem Aeffchen und
 <@pagebreak/>
-dann mit dem Papagei operiert hatte, Man hatte uns
-eben über die Dürrer bierbergeschtevut.
+dann mit dem Papagei operiert hatte. Man hatte uns
+eben über die Dächer hierhergeschleppt.
 
 Aber — eins blieb mir dunkel: Harald hatte mir doch
 zugeflüstert, daß wir in diesem Zimmer mit der lesenden
 Jane allein seien. Weshalb nutzten wir diese Gelegenheit
-nicht aus?! Wir hätten Jane doch unj4, wer überwältigen
+nicht aus?! Wir hätten Jane doch unschwer überwältigen
 können!
 
-So Breit war ich mit meinen stillen Erwägungen gekommen,
-Male ich ein kurzes Klopfen hörte.
+So weit war ich mit meinen stillen Erwägungen gekommen,
+als ich ein kurzes Klopfen hörte.
 
 Der Papagei schrie: »Herein — herein, Spitzbube,
 Lump, Gauner!«
 
-Dann ein paar andere Geräusche
+Dann ein paar andere Geräusche...
 
-Ab spürte, daß sich jemand über mich beugte ,.
+Ich spürte, daß sich jemand über mich beugte...
 
-Und dann ganz nahe die Ersinne Jane Bracks:
+Und dann ganz nahe die Stimme Jane Bracks:
 
-»Sie sind noch immer« bewußtlos, die beiden«, »19
-Das »Hang wie ein Vorwurf.
+»Sie sind noch immer bewußtlos, die beiden...!"
+Das klang wie ein Vorwurf.
 
-Eine tiefe Dännerftimme erwiderte entschuldigend:
+Eine tiefe Männerstimme erwiderte entschuldigend:
 
-»Dja, Miß Dame, Hiebe mit nassen Spanischen lassen
+»Dja, Miß Jane, Hiebe mit nassen Sandsäcken lassen
 sich schlecht so abwägen, daß wirklich nur Bewußtlosigkeit
 eintritt,«
 
-»Mag gehn’ Janes Stimme entfernte sich, »In diesem
-Zustand [Tonnen wir sie gehört nicht transportieren, Bill.
-Dabei eilt die Sache, Das lassen Sie,«
+»Mag sein.« Janes Stimme entfernte sich. »In diesem
+Zustand können wir sie jedoch nicht transportieren, Bill.
+Dabei eilt die Sache. Das wissen Sie,«
 
 Die beiden sprachen englisch miteinander.
 
-»Wenn sie sicherlich sind, ist seine Gefahr mit dem
-Transport verbargen Miß Jane, Jeder der beiden bekommt
-eine Morpymsprige, und dann verladen wir sie
-tote schon vereinbart.«
+»Wenn sie fieberfrei sind, ist keine Gefahr mit dem
+Transport verbunden, Miß Jane. Jeder der beiden bekommt
+eine Morphiumspritze, und dann verladen wir sie
+wie schon vereinbart.«
 
 Abermals klopfte es. Abermals kreischte der Papagei.
 
-»Unerträglich!« meinte Jane. »Seen Sie ein Tuch
-Aber den Käfig, bin, damit Lory still Akt
+»Unerträglich!« meinte Jane. »Decken Sie ein Tuch
+über den Käfig, Bill, damit Lory still wird.«
 
 Dann eine dritte Stimme:
 
 »Miß, wir haben ihn!«
 
-»Ah — Ihr habt ihn! Bringt ihn herein. Nach —
+»Ah — Ihr habt ihn! Bringt ihn herein. Rasch —
 <@pagebreak/>
 rasch! Und dann geht! Legt ihn dort auf das Bärenfell
-zu meinen Füßen
+zu meinen Füßen.«
 
 Wieder allerhand Geräusche — das Klappen einer Tür
 — Stille...
 
 Und dann Jane Brack — haßerfüllt, höhnisch:
 
-»Gruß Gott, Alfred.. 1! Wie geht’s«
+»Gruß Gott, Alfred...! Wie geht’s?«
 
-Haralds Finger erschien in Bein Nit des Wandschirms
+Haralds Finger erschien in dem Riß des Wandschirms
 
-Der Finger winkte
+Der Finger winkte...
 
 Und Jane sprach weiter:
 
-Du würdiger mich keiner Antwort, Alfred! Du bist
-sehr stolz geworden, aber Dein Gedächtnis ebenso schlecht,
-Denkst Du noch an Neuyork? Dort landete vor zwei Flacheren
+»Du würdigst mich keiner Antwort, Alfred! Du bist
+sehr stolz geworden, aber Dein Gedächtnis ebenso schlecht.
+Denkst Du noch an Neuyork? Dort landete vor zwei Jahren
 ein Mensch, dem hier in Deutschland der Boden zu
 heiß geworden. Jane Bracks Vater nahm den Obdachlosen
 auf. Und die Tochter wurde sehr bald die Geliebte
-des schonen Frech. Besinnst Du Dich? — Oh — zu
+des schönen Fredi. Besinnst Du Dich? — Oh — Du
 schweigst noch immer! Dein Gesicht verrät Deine Gedanken.
 Auf dieses Wiedersehen warst Du nicht vorbereitet!«
 
 Und dann eine zitternde Männerstimme: »Ich verachte
-Dicht!«
+Dich!!«
 
 Jane lachte klingend.
 
 Da stand ich schon aufrecht ... Da schritt ich auf dem
-wichen Teppich um den Wandschirm herum, sah einen
-zweiten Wandschirm, actteilig. -
+weichen Teppich um den Wandschirm herum, sah einen
+zweiten Wandschirm, achtteilig...
 
 Sah Harst, der soeben vorsichtig über den Wandschirm
-hinwegragte.
+hinweglugte.
 
 »So, Du verachtet mich!« meinte Jane eisig. »Du —
-— mich!! Wir wen bin ich wohl Verbrecherin geworden,
-Absieht Orgla? Kür wen? Doch nur für Dich! Vor drei Jahren
+— mich!! Für wen bin ich wohl Verbrecherin geworden,
+Alfred Orgla? Für wen? Doch nur für Dich! Vor drei Jahren
 war Jane Lenk, so heiße ich ja in Wahrheit, noch ein
-braves Tivpvfräulein. Dann verlangte ein vermissen Fleht
-immer wieder Gelb.! Trab kann seine Ich Gentleman
-obb, dem großen Einbrecher, kennen — durch Dich, Frech!
+braves Tippfräulein. Dann verlangte ein gewisser Fredi
+immer wieder Geld...! Und dann lernte Ich Gentleman
+Robb, den großen Einbrecher, kennen — durch Dich, Fredi!
 Freilich, Du hast Dich stets ferngehalten — stets! Du bliebst
-auf Deine Art ehrlich, — Aber — lassen wir das alles!
+auf Deine Art ehrlich. — Aber — lassen wir das alles!
 <@pagebreak/>
 Du bist es gar nicht wert, daß ich auch nur ein einziges
-Wort an Dich verschwende. Jedenfalls siehst Du nun, Fuß
+Wort an Dich verschwende. Jedenfalls siehst Du nun, daß
 ich Dich nie aus den Augen gelassen habe, daß ich Dir auf
-Ben Fersen blieb und nun Deine ehrgeizigen nichtöwürdigen
-Pläne jäh durchkreuzt habe. Ich könnte Dich töten, F:
-Ein Druck mit dem Finger, und Du wärest .,, hi über!« st
+den Fersen blieb und nun Deine ehrgeizigen nichtswürdigen
+Pläne jäh durchkreuzt habe. Ich könnte Dich töten, Fredi!
+Ein Druck mit dem Finger, und Du wärest ... hinüber!«
 
-Da schob und ich den Bog über Ben Rand des Schirmes | st
-Blumen.
+Da schob auch ich den Kopf über den Rand des Schirmes
+hinweg.
 
 Ein Blick genügte ja: da saß Jane Brack in einem kostbaren
 Spitzenmorgenrock auf einem Ruhebett, mit einer
-Meinen Repetierpistole spielend. Und neben ihr hocke das
-Kapuzineräffchen, und vor ihr Sag bald irgend ein unserer,
-stattlicher Dann mit blondem Bärtchen auf einem Bärenjeg,
-Ben Rücken gegen den mächtigen Bärenkopf gestützt.
+kleinen Repetierpistole spielend. Und neben ihr hockte das
+Kapuzineräffchen, und vor ihr lag halb sitzend ein jüngerer
+stattlicher Mann mit blondem Bärtchen auf einem Bärenfell,
+den Rücken gegen den mächtigen Bärenkopf gestützt.
 
-Ich tauchte sofort wieder hinter dem in
+Ich tauchte sofort wieder hinter dem Wandschirm
 unter.
 
-Hörte Ben Mann erwidern:
+Hörte den Mann erwidern:
 
-»Das wäre dann Dein zweiter Mord innerhalb meinigen
-Tage! Denn auch Stuart Dramar hast Du Tische? en
+»Das wäre dann Dein zweiter Mord innerhalb weniger
+Tage! Denn auch Stuart Dramar hast Du erschossen.
 Man sucht Dich dieserhalb!«
 
-Ein schneidendes Auslachen. »Man sucht mich! las
-haben schon viele getan! Man findet mich nie. Jane Sind
-bat tausend Gestalten, »Jane Brav ist ein Name für etwas,
-das heute als Bettlerin zahnlos umberfchleicht und morsen
-biamantenstcahlend in der Loge irgend eines Theaters sich.
-Jane Brack ist die Tigerin, die durch die Wildnis schreiend,
-ohne Furcht, ihrer Stärke bewußt, — zur Tigerin geworben
-durch Dich, Alfred Orgla, der ihr mehr als einmal te
+Ein schneidendes Auflachen. »Man sucht mich! Das
+haben schon viele getan! Man findet mich nie. Jane Brack
+hat tausend Gestalten. Jane Brack ist ein Name für etwas,
+das heute als Bettlerin zahnlos umherschleicht und morgen
+diamantenstrahlend in der Loge irgend eines Theaters sitzt.
+Jane Brack ist die Tigerin, die durch die Wildnis schleicht,
+ohne Furcht, ihrer Stärke bewußt, — zur Tigerin geworden
+durch Dich, Alfred Orgla, der ihr mehr als einmal die
 Ehe versprochen! — Uebrigens befindest Du Dich in einem
-Irrtum, was Stuart Dramar betrifft. Ich habe ihn mir
-Aktien wollen. Die Kugel sollte nur eine Warnung sein.
-Es war ein Zufall, von er sich bückte. Ich morde nicht so
-Bricht — nicht so, wie Du dentkft, Frech Orgla! Wie ich morde,
-wirft Du erleben — am eigenen Leibe. Für Dich ist Der
-me Strafe zu schwer, keine! Du wirst noch Villa Agra,
+Irrtum, was Stuart Dramar betrifft. Ich habe ihn nicht
+töten wollen. Die Kugel sollte nur eine Warnung sein.
+Es war ein Zufall, daß er sich bückte. Ich morde nicht so
+leicht — nicht so, wie Du denkst, Fredi Orgla! Wie ich morde,
+wirst Du erleben — am eigenen Leibe. Für Dich ist keine
+Strafe zu schwer, keine! Du wirst noch einige angenehme
 <@pagebreak/>
-vie’ Ueber ¿rafia ersehen, bevor Du um Gnade insofern
-wirft. Durch Dich bin ich geworden, was ich bin! Dürr
-»Dich will ich einer itittuhigen Seele wieder den Griechen
+Ueberraschungen erleben, bevor Du um Gnade winseln
+wirst. Durch Dich bin ich geworden, was ich bin! Durch
+Dich will ich meiner unruhigen Seele wieder den Frieden
 geben!«
 
-ne Tischglocke schellte in Janes Hand.
+Eine Tischglocke schellte in Janes Hand.
 
-Die Tür flog auf.
+Die Tür flog auf...
 
-»Bringt ihn fort!« Gefahr Jane kalt,
+»Bringt ihn fort!« befahl Jane kalt,
 
-Der gellende Hilferuf, den Alfred Orgla jetzt gastfrei.
+Der gellende Hilferuf, den Alfred Orgla jetzt ausstieß,
 erstickte rasch unter dem würgenden Griff eines der Männer,
-die den Gefesselten bavonjchleppten. —
+die den Gefesselten davonschleppten. —
 
-Ich Tag leben auf dem Diwan mit nefchloffmen Burgen.
+Ich lag wieder auf dem Diwan mit geschlossenen Augen.
 
-Hörte Weber die Tür Mappen
+Hörte wieder die Tür klappen...
 
 Und jenes Bill tiefe Stimme:
 
-»Miß, hier sind die photographischen Meile EriEDÓn
+»Miß, hier sind die photographischen Vergrößerungen.
 Sie sind tadellos gelungen.«
 
-»Mk me Sripinalanfnahınen, die Filme?«
+»Und die Originalaufnahmen, die Filme?«
 
-Bitte 700
+»Bitte..."
 
-»Es is gut, Bill. Sorgen Sie dafür, Haß der Meute
+»Es ist gut, Bill. Sorgen Sie dafür, daß der Mensch
 nicht etwa entfliehen kann. Wenn das Auto wieder zurückgekehrt
-ist, kommen Harst und Schraut an die Reibe,
-Wir werden beiden nocniald die Temperatur messen.
+ist, kommen Harst und Schraut an die Reihe.
+Wir werden beiden nochmals die Temperatur messen.
 Falls Fieber vorhanden, bleiben sie hier. Harst darf auf
-»einen Fall krank’ werden. Wir brauchen ihn nur zu nötig.
-As Geben Sie, will. Und Steiler soll die Laterne in vergessen
+keinen Fall krank werden. Wir brauchen ihn nur zu nötig.
+— Gehen Sie, Bill. Und Rother soll die Laterne nicht vergessen.«
 
-Die Alte fiel ins Schloß. - Ä
+Die Tür fiel ins Schloß.
 
 
-4, Kapitel.
+<h2>4. Kapitel.</h2>
 
-Baue Brut Ansinuezt,
+<h3>Jane Bracks Ansinnen.</h3>
 
-Jane bedarf im Zimmer auf und ab zu wandern.
+Jane begann im Zimmer auf und ab zu wandern.
 
-Ihre kam Als sich sehr bald zu einem
-Fähigkeiten in...
+Ihre Gedanken verdichteten sich sehr bald zu einem
+leisen Selbstgespräch...
 
 <@pagebreak/>
-»Ja — tadellos geraten sind »die Vergrößerungen!
+»Ja — tadellos geraten sind die Vergrößerungen!
 Nun habe Ich auch ihn in der Hand. Ich kann ihn vernichten.
 Verkaufe ich die Photogramme, bringt das nebenbei
-noch Millionen ein... Ich werde es vorläufig nicht ..
-Geld?! Zeh verachte es! Nur rücken will ich ach, an, als
-Die ihn mir entrissen haben — an allen)« en
+noch Millionen ein... Ich werde es vorläufig nicht tun. —
+Geld?! Ich verachte es! Nur rächen will ich mich, an allen,
+die ihn mir entrissen haben — an allen!«
 
-Ein leises Klirren von Käsfiasläben dann, I
+Ein leises Klirren von Käfigstäben dann...
 
-»Arme Lory, hat man Dich zum Schweigen vida
-gehabt?!Schabe, Du hättest dem Elenden doch ei
-Deine Blütenlese von passenden Titulaturen zwecklos
-um,
+»Arme Lory, hat man Dich zum Schweigen verurteilt
+gehabt?! Schade, Du hättest dem Elenden doch eigentlich
+Deine Blütenlese von passenden Titulaturen zuschreien
+sollen!«
 
-Schuft, Lump, Spitzbube!«kreischte der Ward
+»Schuft, Lump, Spitzbube!« kreischte der Papagei.
 
-Jane lachte
+Jane lachte...
 
-»Das tut wohl, Lory! Das Stachels den Haß aufs neue
-an! Nur nicht vergessen, was
+»Das tut wohl, Lory! Das stachelt den Haß aufs neue
+an! Nur nicht vergessen, was..."
 
-Und wieder klopfte es, Wieder ging die Tür
+Und wieder klopfte es. Wieder ging die Tür
 
-»Ah — Freund Rotwin!« sagte Jane lebhaft. »a
-das Auto unterwegs k« Da
+»Ah — Freund Rotwin!« sagte Jane lebhaft. »Ist
+das Auto unterwegs?«
 
-»Jawohl, Jane. Der Herr LD hat noch a Eisens
-sich wehren gewollt, der Lachst! — Was wird nun mit den
+»Jawohl, Jane. Der Herr Fredi hat noch a bissel
+sich wehren gewollt, der Lackel! — Was wird nun mit den
 Vergrößerungen?«
 
-»Vorläufig nichts ... - - Wie sieht’s Draußen As
-So die Polizei noch sehr rührig?«
+»Vorläufig nichts ... — Wie sieht’s draußen aus?
+Ist die Polizei noch sehr rührig?«
 
-»Roh ob! 3 hab’ na Bleib’ dran a’habt, wie die Ortschaften
+»Und ob! I hab’ ma Freid’ dran g’habt, wie die Herrschaften
 über die Dächer schwärmen. Hier ist auch die
-Neun-Uhr-abendpoft, Das Blatt bringt einen langen »Affe
+Neun-Uhr-Abendpost. Das Blatt bringt einen langen Artikel
 über Harsts Verschwinden und den Mord. Na, mögen
-sich’s nur die Weisheitzahnerls auskosten, die Herrschaften!
-Auf die richtige Fährte tominen’s nie. A Mord
-Daß 1 net lah’11» he
+sich’s nur die Weisheitzahnerls ausbeißen, die Herrschaften!
+Auf die richtige Fährte kommen’s nie. A Mord!!
+Daß i net lach’!!«
 
-»Messen he den beiden ah wi wieder die Temperatur,
-RL
+»Messen Sie den beiden jetzt mal wieder die Temperatur,
+Rotwin.«
 
-Bill hat mir schon ab ach, Jane. Je 0 hat!
-für alle Fälle auch hier die Ne regeln mitgeben
-Schwur doch raten, den beiden nit so blindlings zu tra
-Her Harst hat schon manchen an der Nas’ junger Du
+»Bill hat mir schon B’scheid gesagt, Jane. Ich hab’
+für alle Fälle auch hier die Stahlfesseln mitgebbracht. Ich
+würd’ doch raten, den beiden nit so blindlings zu trauen.
+Der Harst hat schon manchen an der Nas’ rumgeführt. Man
 <@pagebreak/>
-faul starr wenigstens die Arme fesseln, Jane,«
+sollt’ ihnen wenigstens die Arme fesseln, Jane,«
 
-»Später, Rotwin ,.« —
+»Später, Rotwin...« —
 
-Der Dialekt dieses Mannes machte es a daß wir
-hier den Menschen vor uns hatten, der Ben Hodler-Hansdier-ner
+Der Dialekt dieses Mannes machte es gewiß, daß wir
+hier den Menschen vor uns hatten, der den Hodler-Hausdiener
 gespielt hatte,
 
-Der Mann trat nun an hinnehmen Diwan heran unh schob
+Der Mann trat nun an meinen Diwan heran und schob
 mir ein Fieberthermometer in die Achselhöhle,
 
-Ich hatte vorher noch nach dem Wanbschirmriß Hingeschaut.
-Harald hatte mir jedoch kein Zeichen gegeben (Er
+Ich hatte vorher noch nach dem Wandschirmriß Hingeschaut.
+Harald hatte mir jedoch kein Zeichen gegeben. Er
 wollte sich also offenbar dorthin transportieren lassen, wohin
 man auch Alfred Orgla gebracht hatte.
 
-»Kein Fieber,« meldete Podium bei uns Heiden.
+»Kein Fieber,« meldete Rotwin bei uns beiden.
 
 »Dann die Handschellen, für alle Fälle,« meinte Jane.
 
-Und —,gleich darauf schnappten Stahlarmbänder um
-meine Handßelente zu.
+Und — gleich darauf schnappten Stahlarmbänder um
+meine Handgelenke zu.
 
-Und Dasselbe unangenehme metallische knacken hörte
-ich dann auch von Haralds Diwan der.
+Und dasselbe unangenehme metallische Knacken hörte
+ich dann auch von Haralds Diwan her.
 
-Holen Sie die Mlorphiumfprige, Rotwin,« befahl
-Dame,
+»Holen Sie die Morphiumspritze, Rotwin,« befahl
+Jane,
 
-»Hm — sollen wir’s Unwirklich tun?« meinte. Rotwin ablehnend.
+»Hm — sollen wir’s wirklich tun?« meinte Rotwin ablehnend.
 »Wozu das teure Zeug verschwenden?! Wir haben
-die am doch ganz sicher, Und die Autofahrt wird
-ihnen nicht Aden.
+die beiden doch ganz sicher. Und die Autofahrt wird
+ihnen nicht schaden.«
 
 »Wirklich nicht?«
 
 »Ausgeschlossen. Der Puls der beiden geht kräftig
-und Oh, Die Ohnmacht wird langsam weichen, uns,«
+und ruhig. Die Ohnmacht wird langsam weichen, und...«
 
-»Nun gut, Also sein Morphium, Worum. — Wie
-sieht’s mit Pramarty?«
+»Nun gut. Also kein Morphium, Rotwin. — Wie
+steht’s mit Pramarty?«
 
-Nr Bist ob es Ihm glühen wird, Fuhren Boiler Ben
-Lzuguftedten, muß man abwarten.«
+»Er sitzt. Ob es Ihm glücken wird, Ihrem Vater den
+Zettel zuzustecken, muß man abwarten.«
 
-»Jane seufzte, »Das ist für uns nach) Ginge große Sorge,
+Jane seufzte, »Das ist für uns noch eine große Sorge,
 Rotwin,«
 
-»Harst wird sie uns abnehmen missen, Jane, Ein Ne
-Ei er Kopf lose er wird auch Da nicht versagen. Wer
-Gatte gedacht, daß er so in Ben Weg entbedenFORrben Ben
+»Harst wird sie uns abnehmen müssen, Jane. Ein so
+feiner Kopf wie er wird auch Da nicht versagen. Wer
+hätte gedacht, daß er so rasch den Weg entdecken würde, den
 <@pagebreak/>
-Vieh für die kalte Helene und für mich vorbereitet halte
-»sehr ein g’scheiter Mensch ist’s!«
+ich für die kalte Helene und für mich vorbereitet hatte. A
+sehr ein g’scheiter Mensch ist’s!«
 
-Zu gescheit manchmal, Oh er wohl bar, was
-der Wohnung des Ministers vorgegangen«« ne
+»Zu gescheit manchmal. Ob er wohl ahnt, was in
+der Wohnung des Ministers vorgegangen?«
 
-»Ahnt!! Ich behaart, er weiß es.« By
+»Ahnt!! Ich behaupt’, er weiß es.«
 
-Und, ich wünschte, er wäre erst wieder bei Fensterln.
-— Schicken Sie mir jetzt lla herein. Ich mochte
+»Und ich wünschte, er wäre erst wieder bei Bewußtsein.
+— Schicken Sie mir jetzt Ilka herein. Ich möchte
 etwas essen, bevor wir aufbrechen.« —
 
-Noch eine Stunde etwa verging, Dann wurde ich van
-zwei Männern emporgehoben, Man letzte mir ein ich.
-der das Gesicht und trug mich ein paar Treppen auch
-auf einen großen Hof, wie ich mia dem Winerbafl
-Schritte entnahm, letzte nich in ein geschlossenes Auto 1d
+Noch eine Stunde etwa verging. Dann wurde ich von
+zwei Männern emporgehoben. Man legte mir ein Tuch
+über das Gesicht und trug mich ein paar Treppen hinab
+auf einen großen Hof, wie ich aus dem Widerhall der
+Schritte entnahm, legte mich in ein geschlossenes Auto und
 ließ mich allein,
 
-Ich öffnete die Augen. Das Tuch war mir ins be-Fernsicht.
-Durch die offener Autotür sah ich Im Lichte
-ruderten Mauern und Fenster, sah eine Frau, die
-Bau Rodemumbang und einen Lederhut trug und eine
-Zigarette rauchte, Es war Jane Brack.
+Ich öffnete die Augen. Das Tuch war mir ins Genick
+gerutscht. Durch die offener Autotür sah ich Im Lichte
+der Scheinwerfer Mauern und Fenster, sah eine Frau, die
+einen Lodenumhang und einen Lederhut trug und eine
+Zigarette rauchte. Es war Jane Brack.
 
 Dann wurde Harst in das Auto getragen, wurde in
-die andere Ecke des Rücssißes gelehnt. Da
+die andere Ecke des Rücksitzes gelehnt.
 
 Die Tür fiel zu, nachdem Jane und Rotwin noch eingestiegen
-wären.
+waren.
 
-Haß Auto fuhr durch eine lange Einfahrt arme
-Straße hinaus, fuhr etwa anderthalb Stunden in fihnel-fem
-Tempo und hielt dann auf einer Chaussee armer eines
-Seeufers. Nu
+Das Auto fuhr durch eine lange Einfahrt auf die
+Straße hinaus, fuhr etwa anderthalb Stunden in schnellstem
+Tempo und hielt dann auf einer Chaussee unweit eines
+Seeufers.
 
-Am Ufer lag ein großes Motorboot, Bad nit uns, nr-w,
-Rotwin und zwei anderen Männern feiert baponfaufe.
+Am Ufer lag ein großes Motorboot, das mit uns, Jane,
+Rotwin und zwei anderen Männern sofort davonsauste.
 
-Ich übergebe hier absichtlich verschiedene Einzelheiten
-die nicht gerade notiwenhig erwähnt werden müssen, jedenfalls
-tat Harst hier auf Dein Mearorhunt so, als ob er
-Tanzten zu sich Dame. Au
+Ich übergehe hier absichtlich verschiedene Einzelheiten,
+die nicht gerade notwendig erwähnt werden müssen. jedenfalls
+tat Harst hier auf dem Motorboot so, als ob er
+langsam zu sich käme.
 
-Leider hatte man mir das Tuch wieder fester um er By
-Kopf verklungen. ich konnte daher, als das Brot na
-Da ¿zwanzig Mimen landete, nicht sehen, wo es an
+Leider hatte man mir das Tuch wieder fester um den
+Kopf geschlungen. ich konnte daher, als das Boot nach
+etwa zwanzig Minuten landete, nicht sehen, wo es anlegte.
 <@pagebreak/>
-Ein Bootssteg 1 war gutes schien wir eher
+Ein Bootssteg war es nicht. Es schien mir eher
 ein durch Pfähle befestigtes Ufer zu sein
 
-Während der Fahrt Kanne 1h genügend Ben gehabt,
-mir die ganzen Vorgänge Reis!ich zu übiericgen. Takt nur
-ich denn, ganz abgeiehben von der Werten Helene Yheimers,
-deren Rolle bei oberen noch völlig ungeklärt ihnen, auf
-in paar Fragen gestoßen, die mein Hirn nicht zur Ruhe
-Kommen ließen.
+Während der Fahrt hatte ich genügend Zeit gehabt,
+mir die ganzen Vorgänge reichlich zu überlegen. Dabei war
+ich denn, ganz abgesehen von der Person Helene Melmers,
+deren Rolle bei alledem noch völlig ungeklärt schien, auf
+ein paar Fragen gestoßen, die mein Hirn nicht zur Ruhe
+kommen ließen.
 
-Erstens: Rotwin hatte geäußert,- daß der Diener Hallmark
-nicht ermordet treiben sei. - mithin müßte ein Umfiel
-oder ein Eelbfti vorliegen, an; Dies machte die
-Ereignisse eigentlich v:w dunkler und rätselhafter, am
-Moor wäre den Umkrallen mimt zu so sehr begreiflich gewesen,
-Hallmark konnte ?.ewig beim botoproplieren
-der Papiere überrascht haben, und da Zone Rotwin ihn
-Lachen niedergiicheflen haben Wenn darf nicht so war, wie
-sollte man sich kam einem Unfall oder einen Gehrimuerd
-zusammenreimenf!
+Erstens: Rotwin hatte geäußert, daß der Diener Hallmark
+nicht ermordet worden sei. — Mithin müßte ein Unfall
+oder ein Selbstmord vorliegen. Und dies machte die
+Ereignisse eigentlich noch dunkler und rätselhafter. Ein
+Mord wäre den Umständen nach ja so sehr begreiflich gewesen.
+Hallmark konnte Rotwin beim Photographieren
+der Papiere überrascht haben, und da konnte Rotwin ihn
+eben niedergeschossen haben. Wenn dies nicht so war, wie
+sollte man sich dann einem Unfall oder einen Selbstmord
+zusammenreimen?!
 
-Zweitens: Dame Brack haßte den Minister. Weber
-dieser Haß? »Kanute firm von früher her« Sie war 1a
-geborene Deutsche, so der Eiland etwa zwischen Atem
-Pater und Melmer eine er seinpibait. deren Graziös
-coensalls in der Vergangenheit zu surren waren?
+Zweitens: Jane Brack haßte den Minister. — Woher
+dieser Haß? Kannte sie ihn von früher her? Sie war ja
+geborene Deutsche. Oder — bestand etwa zwischen ihrem
+Vater und Melmer eine tödliche Feindschaft, deren Gründe
+ebenfalls in der Vergangenheit zu suchen waren?
 
-Und drittens: Was hatte Tee Nr Harald vor?
-Sie hatte doch Genusses, ah sich ihr unrein Genie gebrauchen
+Und drittens: Was hatte Jane mit Harald vor?
+Sie hatte doch geäußert, daß sich ihn und sein Genie gebrauchen
 wolle! Wozu?!
 
-Dies Waren Die fragen, mich denen ich meinen schmerzenden
-Kopf abgequäli hatte, Patent wir durch die laue
-einträgt dem unbekannten Ziele uns pokerten.
+Dies waren die Fragen, mit denen ich meinen schmerzenden
+Kopf abgequält hatte, während wir durch die laue
+Juninacht dem unbekannten Ziele uns näherten.
 
-Und jetzt waren wir am Ziel, Co
+Und jetzt waren wir am Ziel.
 
-Jetzt trug man mich dürr das Rauschen eines Kiesern-orfles
-vielleicht dreihundert Meter landeinwärts, Und da
-ah ich es Harald gleich; ich erwachte ja Inder, ich beweg-nic,
-Die Hände waren mir vor dem Leibe gefehlt
-Ich Boy M etwas, ich atmete stoßweise
+Jetzt trug man mich durch das Rauschen eines Kiefernforstes
+vielleicht dreihundert Meter landeinwärts. Und da
+tat ich es Harald gleich: ich erwachte scheinbar, ich bewegte
+mich. Die Hände waren mir vor dem Leibe gefesselt.
+Ich hob sie etwas, ich atmete stoßweise...
 
 <@pagebreak/>
-Und hörte Janes Stimme: »Ah — auch er ist bei der
-sinmung.«
+Und hörte Janes Stimme: »Ah — auch er ist bei Besinnung.«
 
 In einem mit billigen Möbeln ausgestatteten Zimmer
 nahm man mir das Tuch vom Kopfe. Ich saß in der einen
-Ecke eines alten, mit Ring bezogenen Sofas, Harst
-in der anderen. Aus dem ovalen Tische brannte eine Karbidlaterne
-mit Teilweisen, ruhiger Flamme.
+Ecke eines alten, mit Rips bezogenen Sofas, Harst
+in der anderen. Auf dem ovalen Tische brannte eine Karbidlaterne
+mit gelbweißer, ruhiger Flamme.
 
-Baue Brav stand vor uns, »Wie fühlen Sie sich,
-Herr Harst?« fragte sie gespannt. Ihr mußte sehr viel davon
+Jane Brack stand vor uns. »Wie fühlen Sie sich,
+Herr Harst?« fragte sie gespannt. Ihr mußte sehr viel daran
 liegen, daß das, was sie mit Harald vorhatte, schnell
 erledigt würde.
 
 »Besser, als nach dem brutalen Ueberfall zu erwarten
-war,« erwiderte Harst mit lkrästiger Stimme. »Und —
-Mögen aha vor dem Ueberfall, Jane Brav! Man lernt
-immer noch dazu. Seit weiß ich, daß der Papagei, der
+war,« erwiderte Harst mit kräftiger Stimme. »Und —
+klüger als vor dem Ueberfall, Jane Brack! Man lernt
+immer noch dazu. Jetzt weiß ich, daß der Papagei, der
 an dem Bindfaden hochflatterte, ein Signal für Ihre auf
 dem Boden des Ministerhauses versteckten Leute war, uns
 niederzuschlagen.«
@@ -1366,31 +1365,31 @@ von Ihnen verlangen kann, falls Sie Wert darauf
 legen, hier nicht monatelang als Gefangene festgehalten
 zu werden. Sie befinden sich hier in einem einsamen Sommerhaus,
 das wir für untere Zwecke samt dem großen
-Warten gepachtet haben. Man sucht noch Ihnen Heiden.
-Wer wird vergeblich sahen. — jelassen meinen Vater
+Garten gepachtet haben. Man sucht nach Ihnen beiden.
+Man wird vergeblich suchen. — Sie sollen meinen Vater
 Anton Lenk befreien, Herr Harst. Wie Sie dies tun, ist
 Ihre Sache. Ihr Ehrenwort genügt mir. Ich würde Sie
 beide gegen die von Ihnen ehrenwörtlich abzugebende Zusicherung
-freigeben, meinem Vater die Freiheit wichen zu
+freigeben, meinem Vater die Freiheit wieder zu
 verschaffen.«
 
-»Ein merkwürdiges Ansinnen, Jane Brav, Das ich natürlich
+»Ein merkwürdiges Ansinnen, Jane Brack, Das ich natürlich
 ablehne.«
 
-Sie zuckte leicht die Achseln. »Sie werden es sich überlegen
-»Herr Harst. Sie haben ja noch Zeit, Ich gebe Segnen
+Sie zuckte leicht die Achseln. »Sie werden es sich überlegen,
+Herr Harst. Sie haben ja noch Zeit. Ich gebe Ihnen
 <@pagebreak/>
 einen Tag Bedenkzeit. — Außerdem aber noch etwas.
 Ich habe hier einen Zettel mit zehn Zahlen. Vielleicht
-vertreiben Sie sich in Ihrem Kellergomach nachher damit
-ie Langeweile, den Zweck dieses Zettels zu ergründen. —
+vertreiben Sie sich in Ihrem Kellergemach nachher damit
+die Langeweile, den Zweck dieses Zettels zu ergründen. —
 Ich will ganz offen sein. Ich habe den Zettel einem Manne
-abgenommen, der... hier sofort sterben wird, Und
+abgenommen, der... hier sofort sterben wird. Und
 Sie beide sollen dabei sein.«
 
-5. Kapitel
+<h2>5. Kapitel.</h2>
 
-Die Abrechnung.
+<h3>Die Abrechnung.</h3>
 
 Mit nervöser Hast stand sie auf, In Ihrem Gesicht,
 ihren Bewegungen war eitle Unruhe, als könnte sie nicht
@@ -1568,7 +1567,7 @@ Minutenlang blieb es sl im Zimmer.
 Jane Brack hatte sich wieder gegen und kann vor sich
 hin,
 
-Bietest Echt weinen nahm mit jeder entrinnenben Minute
+Bietest Echt weinen nahm mit jeder entrinnenden Minute
 etwas immer Bebrohiieiics an.
 
 Alfred Orgla lief der Eiweiß über Die Wannen. Oh
@@ -1677,7 +1676,7 @@ Dame Brack,« erklärte Harald behächtia
 
 »A wieder lachte Orgla kurz zu! »eine Oertlichkeit!!
 Das ist eine leere Vermutung! Ich behaupte nach wie
-vor: es ist ein Spielertali8man!«
+vor: es ist ein Spielertalisman!«
 
 Harald blickte Orgla scharf am,
 
@@ -1773,7 +1772,7 @@ $ war Rotwin-hinter der Cübbeutiche,
 
 Herr Harst, ich bitte Sie, noch zehn Minuten an dieser
 Stelle zu bleiben, damit I mich entfernen kann,« sagte
-er sehr höflich, »Dort drüben seheu’s wohl den weißen
+er sehr höflich, »Dort drüben sehen’s wohl den weißen
 Dauerten, Dort Silben Sie sich am 2, Juli frühmorgens
 wieder ein, wenn’s beliebt.«
 
@@ -1835,7 +1834,7 @@ schrak zehn Minuten daran lernten wir y Anlay
 persönlich kennen.
 
 Etwas Edelsteinen war er ja, der grauhaarige Gentleman,
-Aber dabei von ausgesuchler Liebenswürdigkeit.
+Aber dabei von ausgesuchter Liebenswürdigkeit.
 
 »Mein Privatsekretär ist mir mit 20000 Pfund In
 Banküoten durcligeaanaen, Herr Harst,« erklärte er in tadellosem
@@ -2078,7 +2077,7 @@ Harald Wucherte ein wenig, als er dieses Schreiben
 »Daran ist nichts Merkwürdiges, Mylord,« meinte er.
 
 »Es ist die& eine Einladung in Einen Spielklub, einen
-der vielen wehrlosen Spielffubs, nichts weiter,«
+der vielen wehrlosen Spielklubs, nichts weiter,«
 
 »Sie können recht haben, Herr Harst,«
 
@@ -2107,7 +2106,7 @@ ein kann.
 
 Daran arge das Protokoll wieder weg »Es ist klar,
 Dieb des Pokals hat den Weg durch das Fenster gekommen.
-— Wir merken Ben Fall Mac Orlen mu bis
+— Wir merken Ben Fall Mac Orlen nu bis
 <@pagebreak/>
 zum Adern ruhen lassen und uns mit dem Zettel mit den
 zehn Zahlen beschäftigen — auf unsere Art.«
@@ -2222,7 +2221,7 @@ er sprang wieder auf.
 Mac Orlen-Geheimnis nach! Komm! Zum Leichenschauhaus,
 mal fragen, ob da ein unbekannter Toter
 dem 15ten und 17ten Juni eingeliefert worden
-Leben! Mann kann ja nicht willen! man mus stets hellerer
+Leben! Mann kann ja nicht Miller! man mus stets hellerer
 Pivalichkeit nachgeben! Nur so kommt man zum Ziel!«
 
 »Und die »Nummern? ist Du mich darüber im unklaren
@@ -2377,7 +2376,7 @@ halb neun saßen wir beim Abendbrot, und Harald
 tt: von dem eigenartigen Buche des kleinen Journalisten
 Herbert Süd, der als Kellner, Lumpenhändler ü
 Bettler das dunkle Berlin der Nachkriegszeit so tadellos
-studiert hätte, daß, wenn er wollte, alle geheimen Spiel-flubs
+studiert hätte, daß, wenn er wollte, alle geheimen Spielklubs
 in einer Nacht ausgehoben werden formten. Ein
 Eid Schinken, plauderte die Geheimnisse Berlins ohne
 Ortsangabe aus und., ﬀ spielte selbst jede Nacht bis in
@@ -2529,7 +2528,7 @@ holt,
 
 Wir fuhren durch halb Berlin, Die Elbinger Sagte
 ul in der Nähe des Friedrichshains, Und dort hatte
-man Barioux’ Leiche gefunden,
+man Bartoux’ Leiche gefunden,
 
 Ich hatte jetzt Zeit, mich über Haralds Geifteönenen«
 wart zu freuen, Daß er Satanas — mahnt Namen vorhatte,
@@ -2630,7 +2629,7 @@ auch jeder Freude, Harst!«
 
 fern entschlüpfte er nach dem Büfett bin.
 
-Wir traten an den Tisch zurück. Wir setzten blind-mal
+Wir traten an den Tisch zurück. Wir setzten blindlings
 — und gewannen, Natürlich gewannen wir. Das
 mute: wenn jemandem am Gewinn nichts liegt,
 er
@@ -2804,7 +2803,7 @@ Tapferkeit um und der — Stile — Totenstille.
 <@pagebreak/>
 interessant!« Hang Harald, »Nun wissen wir ja,
 wie Alfred Orgla in Begib des Zahlenblatites gelangt ist.
-Es hat in Vartoux’ Brieftasche gesteckt,«
+Es hat in Bartoux’ Brieftasche gesteckt,«
 
 5. Kapitel,
 Wo das Kreuz Star
@@ -2913,7 +2912,7 @@ Harald Harst, Herr Inspektor, prall
 sehr höflich, a tut mir leid, da! I Sie in der Badestube
 Hören mußte, Ab...
 
-Ab in Herr Harst,,. Bitte, ich sbtieke schon mu,
+Ab in Herr Harst,,. Bitte, ich sbtieke schon nu,
 Und dann führte uns der freundliche Herr Wachowski durch
 <@pagebreak/>
 die stillen Wege des Gottesackers zu den Gräbern Nr. 1542
