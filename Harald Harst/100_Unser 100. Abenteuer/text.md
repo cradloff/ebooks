@@ -810,7 +810,7 @@ haben, durch das Erscheinen des Papageis doch wohl hinfällig
 geworden war. Denn — wozu jetzt noch der Papagei,
 wenn der Mann doch schon festgestellt haben mußte,
 daß die umliegenden Dächer vom Ministerhause aus abgesucht
-geworben waren?!
+geworden waren?!
 
 Als ich dies nun Harald gegenüber äußerte, erwiderte
 er nur: »Wir werden ja sehen!«
@@ -1391,410 +1391,415 @@ Sie beide sollen dabei sein.«
 
 <h3>Die Abrechnung.</h3>
 
-Mit nervöser Hast stand sie auf, In Ihrem Gesicht,
-ihren Bewegungen war eitle Unruhe, als könnte sie nicht
-Schnell genug ihre Narr an Riten Orgla vollenden, — denn
-mus er konnte ja der Mann sein, von dem sie soeben gesprochen
-tote.
+Mit nervöser Hast stand sie auf. In Ihrem Gesicht,
+ihren Bewegungen war eine Unruhe, als könnte sie nicht
+Schnell genug ihre Rache an Alfred Orgla vollenden, — denn
+nur er konnte ja der Mann sein, von dem sie soeben gesprochen
+hatte.
 
-Seltsam: Seitdem ich die Tragik an Leben dieses jungen
+Seltsam: Seitdem ich die Tragik im Leben dieses jungen
 Weibes kannte, beurteilte ich sie anders! Orglas wegen
-war sie zur Verbrecherin geworben — aus blinder Liebe!
+war sie zur Verbrecherin geworden — aus blinder Liebe!
 Wäre dem nicht so gewesen, hätte Orgla wohl ihre
 Vorwürfe nicht so schweigend hingenommen. Orgla also
-hatte den morastigen Zusammenbruch Jane Bracks her-schuldet,
+hatte den moralischen Zusammenbruch Jane Bracks verschuldet,
 hatte sie betrogen, verlassen.
 
 Und jetzt sollte er bestraft werden. Wollte sie ihn
 etwa kaltblütig ermorden?
 
 Sie war zur Tür geeilt, hatte nur eine befehlende
-Uebung gemacht, ließ die Tür offen und Seite sich
+Handbewegung gemacht, ließ die Tür offen und setzte sich
 wieder
 
-Im Flur Schritte
+Im Flur Schritte...
 
-Adel Männer, schzidarze Geiberunatıen vor ne Gesichtern,
+Zwei Männer, schwarze Seidenmasken vor den Gesichtern,
 führten Alfred Orgla herein, drückten ihn auf einen
-dreieinigen Stuhl, banden ihn schweigend darauf
-fest, warfen ihm kann eine Decke über den Kopf.
+hochlehnigen Stuhl, banden ihn schweigend darauf
+fest, warfen ihm dann eine Decke über den Kopf.
 
-Und wieder Damen zwei Maskierte mit einer Schlanken
+Und wieder kamen zwei Maskierte mit einer schlanken
 <@pagebreak/>
-blonden gingen Dame im langen Seidenmantel: —
-Helene Velmei’
+blonden jungen Dame im langen Seidenmantel: — —
+Helene Melmer!
 
-Sie war »ihr gefesselt. Sie ging mit ja; nennen
-Kopf zwischen den Männern, lebte sich Orgla Weber.
-Ihr Auslief, schönes « Besteht war leichenblaß.
-dunklen Schatten um die großen Augen ließen diese u!-
-gen nit ihrem verächtlichen, eisigen Blick noch Reizvoller
-ersczeimen.
+Sie war nicht gefesselt. Sie ging mit stolz zurückgeworfenem
+Kopf zwischen den Männern, setzte sich Orgla gegenüber.
+Ihr kaltes, schönes Gesicht war leichenblaß. Die
+dunklen Schatten um die großen Augen ließen diese Augen
+mit ihrem verächtlichen, eisigen Blick noch eindrucksvoller
+erscheinen.
 
 Die vier Männer verteilten sich. Einer lehnte sich gegen
-die wieder ins Schloß gedrückte Tür. Zwei Ben
-neben Helene Melmer stehen, der vierte trat neben Trotz,
+die wieder ins Schloß gedrückte Tür. Zwei blieben
+neben Helene Melmer stehen, der vierte trat neben Orgla,
 
-Jane Brack schnürte Helene. Melmer an. »Sie Wen
-er Firmen nicht, weshalb im Je...« flau
+Jane Brack schaute Helene Melmer an. »Sie wissen
+noch immer nicht, weshalb ich Sie..."
 
-Und — da kam die Unterbrechung: Sie lau aus
+Und — da kam die Unterbrechung: Sie kam aus
 Harsts Sofaecke:
 
-»ich möchte Sie bitten, Fräulein Meinten zu seinen,
-Jane Brav,« sagte er sehr energischen Tones, »Wollen Sie
-willst aus Haß und Eifersucht hier eine widerwärtige
-Komödie aufführen?! ist der Mann das wert?! ich übereilte
-die Erxcianisse im Hause des Ministers. Sie haben
-Fräulein Brennen unter den: Vorgeben, das Alfred wir
-insgeheim sprechen Hunde, Tuch Medium über den Hausboden
-und die Stärker in das andere Haus locken te
-Rotwin kehrte in die Mobnunga des Ministers zurüda,
-war im Besitz der Flurtürschlüsse! Er wartete auf das
-Tee des Ministers, Er mußte, daß dieser die wichtigen
+»ich möchte Sie bitten, Fräulein Melmer zu schonen,
+Jane Brack,« sagte er sehr energischen Tones. »Wollen Sie
+wirklich aus Haß und Eifersucht hier eine widerwärtige
+Komödie aufführen?! ist der Mann das wert?! ich überblicke
+die Ereignisse im Hause des Ministers. Sie haben
+Fräulein Melmer unter dem Vorgeben, das Alfred Orgla
+sie insgeheim sprechen wollte, durch Rotwin über den Hausboden
+und die Dächer in das andere Haus locken lassen.
+Rotwin kehrte in die Wohnung des Ministers zurück. Er
+war im Besitz der Flurtürschlüssel. Er wartete auf das
+Erscheinen des Ministers. Er wußte, daß dieser die wichtigen
 Dokumente mitbringen würde, und er hatte sich in
-liebem neuen Schvranftoifer verborgen, wo ich unten die Abdrücke
-zweier Etieselhacken (in dem Stoffbezug bemerke.
-Der Diener Hallmark erschien dann wohl gerade in Vd
+dem neuen Schrankkoffer verborgen, wo ich unten die Abdrücke
+zweier Stiefelhacken in dem Stoffbezug bemerkte.
+Der Diener Hallmark erschien dann wohl gerade in dem
 Moment im Salon, als der Minister draußen die Flurtür
-öffnete. Auch Rotwin hatte sein Versteck jedoch Bau
+öffnete. Auch Rotwin hatte sein Versteck jedoch schon
 verlassen. Hallmark drang auf ihn ein, und beim Ringen
-mit Rotwin wird sich dessen Waffe, mit der er sich) den.
-Du vom / Leibe bauen wollte. entladen haben, Kobra!
-schloß ran die Bodentür ah und schlüpfte in den Koffer
+mit Rotwin wird sich dessen Waffe, mit der er sich den
+Diener vom Leibe halten wollte, entladen haben. Rotwin
+schloß rasch die Bodentür ab und schlüpfte in den Koffer
 <@pagebreak/>
-zurück, Der Minister sprengte die Tür, warf die Mt-geritaldhe
-beiseite, vursuchte die Zimmer, [ragte die Tischchen
-aus und gab Worum so Gelegenheit, Die Dokumente
-Ei photographieren. Rotwin sparsam ungesehen über die
-Ben, — Nur so können sich die Vorgänge abgespielt
-haben,
+zurück. Der Minister sprengte die Tür, warf die Aktentasche
+beiseite, durchsuchte die Zimmer, fragte die Mädchen
+aus und gab Rotwin so Gelegenheit, Die Dokumente
+zu photographieren. Rotwin entkam ungesehen über die
+Dächer. — Nur so können sich die Vorgänge abgespielt
+haben,«
 
-Harst machte eine Leine Pause, — Helene Melmer
-Diplomatie sich, als aus Haralds Munde der Name Alfred Org-gesallen
-war, mit einem Nu! nach dem im Sessel festgebundenen
+Harst machte eine kleine Pause. — Helene Melmer
+hatte sich, als aus Haralds Munde der Name Alfred Orgla
+gefallen war, mit einem Ruck nach dem im Sessel festgebundenen
 unkenntlichen Mann hingewandt.
 
-Käme Brav war aufgesprungen, Unfälle, noch länger
+Jane Brack war aufgesprungen, unfähig, noch länger
 zu schweigen.
 
-Da — Ihnen Sie nur hin!« rief sie Fräulein Melmer
+»Ja — schauen Sie nur hin!« rief sie Fräulein Melmer
 zu. »Schauen Sie nur hin!! Das ist der Elende, der
-uns beide betrogen hat! las (flüstert Orgla, Buchhalter
-der Seller’schen Fabriken, bei denen Ihr Vater, Fräulein
-Melmer, einst Vorarbeiter war! Das ist Wirst Orgla, der
-üble schöne stolze Helene schon als junges Ding umgarnt
-hat, der kann dunkler Geschichten wegen nach Amerika
-(20, der mich zur Werbreiherin werden ließ, der mir die
-he versprach, der meines sehr bald wieder verstorbenen
-Blindes Vater (fl und der trotzdem weiter heimlich mit keinen
+uns beide betrogen hat! Das ist Alfred Orgla, Buchhalter
+der Seiler’schen Fabriken, bei denen Ihr Vater, Fräulein
+Melmer, einst Vorarbeiter war! Das ist Alfred Orgla, der
+die schöne stolze Helene schon als junges Ding umgarnt
+hat, der dann dunkler Geschichten wegen nach Amerika
+floh, der mich zur Verbrecherin werden ließ, der mir die
+Ehe versprach, der meines sehr bald wieder verstorbenen
+Kindes Vater ist und der trotzdem weiter heimlich mit Ihnen
 im Briefwechsel blieb, der eine Art dämonische Macht
-über Sie besessen haben muß! Seh weiß, daß Sie ihn
-dauernd mit Geld Autorität haben! @te aber wissen nicht,
-daß es seinen arheltsscheucien Menschen gibt als ihn, Haß
-er auch von mir ich unterhalten ließ, laß ich für ihn stahl,
+über Sie besessen haben muß! Ich weiß, daß Sie ihn
+dauernd mit Geld unterstützt haben! Sie aber wissen nicht,
+daß es keinen arbeitsscheueren Menschen gibt als ihn, daß
+er auch von mir sich unterhalten ließ, daß ich für ihn stahl,
 betrog, weil ich genau so verblendet war wie Sie! Um
-»Ihnen dies hier in Gegenwart des jämmerlichen Schurken
+Ihnen dies hier in Gegenwart des jämmerlichen Schurken
 mitzuteilen, ließ ich Sie hierher bringen,«
 
-Sie trat mit raschem Schein an Orgla heran unh
-riß Wille rede weg.
+Sie trat mit raschem Schritt an Orgla heran und
+riß die Decke weg.
 
-Ofens fahles, verzerrtes, schuldbewußtes Geier wirkte
-eindringlicher als ein offenes Geständnis, Er wagte
-die Augen nicht aufzuschlagen. Und ein Zittern ging
+Orglas fahles, verzerrtes, schuldbewußtes Gesicht wirkte
+eindringlicher als ein offenes Geständnis. Er wagte
+die Augen nicht aufzuschlagen. Und ein Zittern ging über
 <@pagebreak/>
-feine Gestalt hin, als Helene Melmer mit mit unendliche H,
-Verachtung sagte: »Also Teinesiwegen habe ich Zeit Jahre!
-weimlicifeiten vor meinen Eltern geballt Um
-¿ch meinem Vater ein ständiges Rätsel, der sich I seiner
-großen Sitte in mich folgte, weil Ich so mienfchenf und
-so wortkarg war. Sept bin ich von bei Dann Es,
+feine Gestalt hin, als Helene Melmer mit mit unendlicher
+Verachtung sagte: »Also Deinetwegen habe ich seit Jahren
+Heimlichkeiten vor meinen Eltern gehabt! Deinetwegen war
+ich meinem Vater ein ständiges Rätsel, der sich in seiner
+großen Güte um mich sorgte, weil Ich so menschenscheu und
+so wortkarg war. Jetzt bin ich von dem Bann geheilt,
 der mich an Dich kettete!«
 
 Jane Brack hatte Helene Melmer genau beobachtet,
 hatte jedes Wort, jede Miene des jungen Mädchens gleichsam
-aepritft.
+geprüft.
 
-»Diese Abrecnung genügt mir!« meinte sie nun, tief,
-Atem holend. »Meinen Haß gegen Orgla hatte ich zu
-auf Sie und Ihre Eltern übertractn, Fräulein Arg
-Daher ließ ich durch Rotwin die Dokumente Froren,
-um Akten Vater zu stürzen, — Hier — nehmen
-die Photographien, Die Vergrößerungen! Ich werde So
-mit verbundenen Augen wieder nach der Stadt sanften laufen.
+»Diese Abrechnung genügt mir!« meinte sie nun, tief
+Atem holend. »Meinen Haß gegen Orgla hatte ich auch
+auf Sie und Ihre Eltern übertragen, Fräulein Melmer.
+Daher ließ ich durch Rotwin die Dokumente photographieren,
+um Ihren Vater zu stürzen. — Hier — nehmen Sie
+die Photographien, Die Vergrößerungen! Ich werde Sie
+mit verbundenen Augen wieder nach der Stadt schaffen lassen.
 Daß der Diener Hallmark nicht ermordet worden ist,
-wissen Sie nun ebenfalls. Konto bleibt hier. Mag die
-Polizei meinen Schlupfwinkel suchen! Je glaube nicht,
+wissen Sie nun ebenfalls. Orgla bleibt hier. Mag die
+Polizei meinen Schlupfwinkel suchen! Ich glaube nicht,
 daß sie ihn finden wird!« —
 
-Helene Melnmers große, ausdrucsvolle Augen lehnten
-abermals fürinbar flüchtig über uns beide hinweg,
-Sie sah die Si1ghlfesseln an unseren Handvgelenken. Und
-mir schien’s, als ob sie Harald mit den Lidern ein kurze hi
+Helene Melmers große, ausdrucksvolle Augen schweiften
+abermals scheinbar flüchtig über uns beide hinweg.
+Sie sah die Stahlfesseln an unseren Handgelenken. Und
+mir schien’s, als ob sie Harald mit den Lidern ein kurzes
 Zeichen gab. Ne
 
-Dann wurde sie hingusgesülhtt I
+Dann wurde sie hinausgeführt...
 
 Und so endete der erste Teil unseres hundertsten
 Abenteuers, so endete diese Tragödie der rachsüchtigen Eifersucht
-eines Weibes, die, obwohl Verbrecherin, doch
-»Herz ebleren Regungen nie! verschloß. Das hatte sie bin
-die Nüickgabe der Photographien der Dokumente Welle
+eines Weibes, die, obwohl Verbrecherin, doch ihr
+Herz edleren Regungen nicht verschloß. Das hatte sie durch
+die Rückgabe der Photographien der Dokumente bewiesen
 
 <@pagebreak 35/>
 
 Der Zettel mit den Zahlen.
 
-1. Kapitel,
-Die zehn Zahlen,
+<h2>1. Kapitel.</h2>
+<h3>Die zehn Zahlen.</h3>
 
-Zwei der Maskierten waren nicht, Belege Melmerx deren,
+Zwei der Maskierten waren mit Helene Melmer verschwunden.
 
-Fünf Personen befanden sich jetzt hier noch im Kummer,
-durch dessen gehe. rosige Benstervorhänage bereits Dir
-erste Schimmer des wiubischenben Morgens wie graue
+Fünf Personen befanden sich jetzt hier noch im Zimmer,
+durch dessen geschlossene Fenstervorhänge bereits der
+erste Schimmer des anbrechenden Morgens wie graue
 Lichtstreifen hereindrang,
 
-Draußen wundern jetzt auch die gefiederten Bewohner
-des Hauses munter, Die Spaßen be««Amen zu Wärmen
-Las Haus mußte von wildem Wein oder sonstigen sieh-terpflanzen
+Draußen wurden jetzt auch die gefiederten Bewohner
+des Hauses munter. Die Spatzen begannen zu lärmen.
+Das Haus mußte von wildem Wein oder sonstigen Kletterpflanzen
 umrankt sein, in denen das freche Volk der Sperlinge
-in großer Vienage nistete.
+in großer Menge nistete.
 
-Minutenlang blieb es sl im Zimmer.
+Minutenlang blieb es still im Zimmer.
 
-Jane Brack hatte sich wieder gegen und kann vor sich
+Jane Brack hatte sich wieder gesetzt und sann vor sich
 hin,
 
-Bietest Echt weinen nahm mit jeder entrinnenden Minute
-etwas immer Bebrohiieiics an.
+Dieses Schweigen nahm mit jeder entrinnenden Minute
+etwas immer Bedrohlicheres an.
 
-Alfred Orgla lief der Eiweiß über Die Wannen. Oh
-der Mann abıım, daß Jane Brack nun hier Geirrt! halten
-würde... Oh sein verderbtes Herz vor N jagte und
-ihm Die fallen Perlen aus der Haut trieb?
+Alfred Orgla lief der Schweiß über Die Wangen. Ob
+der Mann ahnte, daß Jane Brack nun hier Gericht halten
+würde...! Ob sein verderbtes Herz vor Angst jagte und
+ihm Die kalten Perlen aus der Haut trieb?
 
-Dann hob Jane den starr,
+Dann hob Jane den Kopf,
 
-»Was würden Sie an meiner Stelle mit Orgla nun,
-Herr Nun wandte sich sich an Harald,
+»Was würden Sie an meiner Stelle mit Orgla tun,
+Herr Harst?« wandte sich sich an Harald,
 
-reimt eine merkwürdige Frau, Jane, Oh
-Bann« Du, nichts darauf antworten.«
+»Sie sind eine merkwürdige Frau, Jane...! Ich
+kann Ihnen nichts darauf antworten.«
 
-Beil Sie wissen, Da wenn ich Orgla Feiertage. er
-von straffrei ausgeht, das er gekündigt, tat unter keinem
-Sirasrechtvaraaraphen. Und — mich Sie Sinn 2609
+»Weil Sie wissen, daß, wenn ich Orgla freilasse, er
+völlig straffrei ausgeht. Was er gesündigt, fällt unter keinen
+Strafrechtsparagraphen. Und — auch Sie sind eben
 <@pagebreak/>
-Frosch gen ich zu sagen, das bin Schurke wie er bestraft
-werden muß
+gerecht genug, sich zu sagen, das ein Schurke wie er bestraft
+werden muß.«
 
-in blieb stumm.
+Harald blieb stumm.
 
-Jane blickte Orgla an, der Ben Kopf Des gelenkt hielt,
+Jane blickte Orgla an, der den Kopf tief gesenkt hielt,
 
 Und je länger sie ihn anschaute, desto steinerner wurde
-ihr Sefichtänusprue,
+ihr Gesichtsausdruck.
 
 »Er hat hier in einem vornehmen Pensionat unter
-dem Namen eines spanischen Grafen Basare asmmohnt,
-wandte sie sich abermals an Harst, »Seit Wochen wird setz
-beobachtet, Er lebte vom Glüelsspiel Daß er falsch gespielt
-hat, konnte nicht festgestellt worden, Er verkehrte
-der Lebewelt der Kurfürstendamm-Gegend, Als Ich ihn Im
-eine Falle Inder sich, und Bad war gestern abend, hatte er
-in seiner Brieftasche außer einer Million Plappern net den
-Zettel mit den Zahlen he! sich,« (Man beachte: Es war
-an diesem Tage der 30 Juni 1992. Und Da war eine Million
-immerhin noch ein Meine? anstatt
+dem Namen eines spanischen Grafen Oglaro gewohnt,«
+wandte sie sich abermals an Harst. »Seit Wochen wird er
+beobachtet. Er lebte vom Glücksspiel. Daß er falsch gespielt
+hat, konnte nicht festgestellt worden. Er verkehrte in
+der Lebewelt der Kurfürstendamm-Gegend. Als Ich ihn in
+eine Falle locken ließ, und das war gestern abend, hatte er
+in seiner Brieftasche außer einer Million Bargeld noch den
+Zettel mit den Zahlen bei sich.« (Man beachte: Es war
+an diesem Tage der 30. Juni 1992. Und Da war eine Million
+immerhin noch ein kleines Kapital)
 
-ich beohactete Orgla tausend, Als der Zettel lebt
-erwähnt wurde, zuckte er merklich anrannten,
+ich beohactete Orgla dauernd. Als der Zettel jetzt
+erwähnt wurde, zuckte er merklich zusammen.
 
-»Er hat mir über steten gen legt Spukhaft! verneinend,«
-fuhr Traue hastiger fort. »über ich hatte das deutliche
-Empfinden, daß es mit dem Zottel eine ganz besondere
-Bervanhtnis haben muß«
+»Er hat mir über diesen Zettel jede Auskunft verweigert,«
+fuhr Jane hastiger fort. »Aber ich hatte das deutliche
+Empfinden, daß es mit dem Zettel eine ganz besondere
+Bewandtnis haben muß«
 
-Orgla lachte glücklich Staatlich auf,
+Orgla lachte plötzlich ironisch auf.
 
-— Insofern eine Bewandtnis. alt er ein Toae-ngruier
-Syleloertaliman ist,« an, er mit einem Achselzucken,
-ist das ganze Geheimnis
+»Ja — insofern eine Bewandtnis, alt er ein sogenannter
+Spielertalisman ist,« sagte er mit einem Achselzucken.
+»Das ist das ganze Geheimnis!«
 
-»Libanon!« riet Jane verächtlich, »Endlich Haft Du
-ne, Erklärung ersonnen! Beet Horcht, hier ist der Zettel
+»Lügner!« rief Jane verächtlich. »Endlich hast Du
+eine, Erklärung ersonnen! Herr Harst, hier ist der Zettel
 ..."
 
-Sie Hand auf und Leute ihn vor Harald auf Ben Tisch,
+Sie stand auf und legte ihn vor Harald auf den Tisch,
 
-Ich rückte näher zu Hart heran,
+Ich rückte näher zu Harst heran,
 
 Der Zettel hatte etwa die Größe und Form einer
-Spielkarte. Das Papier war ein aiemlsich hartes Pergamentpapier
-von grauer Narbe,
+Spielkarte. Das Papier war ein ziemlich starkes
+Pergamentpapier von grauer Farbe,
 
-Auf die eine Seite waren mit berfchlebenfarblam Linden
-in gewissen Abständen zehn Zahlen geschrieben, Die
+Auf die eine Seite waren mit verschiedenfarbigen Tinten
+in gewissen Abständen zehn Zahlen geschrieben. Die
 andere Seite war leer,
 
-Das Ganze sah so aus;
+Das Ganze sah so aus:
 
 <@pagebreak/>
 
-8651, 9651, 0751 (weiße Tinte)
+<div style="white-space: pre;">
+          8651, 9651, 0751 (weiße Tinte)
 
-By! (grüne Linie)
-(tote Tinte) By«!
+                      2551 (grüne Tinte)
+                      2451
+             8251
+(rote Tinte) 1231
+                               4251 (gelbe Tinte)
+                               2151
 
-4951
-9151 (gelbe Tinte
+               0051 (schwarze Tinte)
+</div>
 
-0051 (schwarze Tinte)
+Harald hob jetzt mit den gefesselten Händen das Blatt
+auf und hielt es gegen das Lampenlicht,
 
-Harald hob setzt mit den gefesselten Händen das Platt
-und hielt e& gegen das Lampenlicht,
+In demselben Moment machte Orgla eine jähe Bewegung.
+Er hatte aufspringen wollen, sank aber infolge der
+Stricke, die ihm wenig Spielraum gaben, sofort wieder
+auf den Sitz zurück.
 
-Bassin demselben Moment malte Orgla eine sie Bewegung,
-Er hatte aufspringen wollen, sag! aber infolge der
-friere, die ihm wenig Spielraum gaben, sofort wieder
-uf den Sir zurück.
-
-»Aha — das Kreuz läßt Sie erschrecken,« meinte Sobald
-Allein, »Hier in nämlich ein Kreuz zwischen den
-Beiden artigen / allen ein Kreuz aus ganz winzigen Löchern,
+»Aha — das Kreuz läßt Sie erschrecken,« meinte Harald
+gleichmütig. »Hier ist nämlich ein Kreuz zwischen den
+beiden grünen Zahlen, ein Kreuz aus ganz winzigen Löchern,
 Das wird wohl auch seine Bedeutung haben,«
 
-Käme Brut nahm rasch das Pergamentblatt und hielt
+Jane Brack nahm rasch das Pergamentblatt und hielt
 es gegen das Licht — ganz wie Harald es getan hatte.
 
 »Ah, wirklich! Ein Kreuz!«
 
-an wohl die Geheimskizze irgend einer Seitliche
-Dame Brack,« erklärte Harald behächtia
+»Mithin wohl die Geheimskizze irgend einer Oertlichkeit,
+Jane Brack,« erklärte Harald bedächtig.
 
-»A wieder lachte Orgla kurz zu! »eine Oertlichkeit!!
+Und wieder lachte Orgla kurz auf. »Eine Oertlichkeit!!
 Das ist eine leere Vermutung! Ich behaupte nach wie
 vor: es ist ein Spielertalisman!«
 
-Harald blickte Orgla scharf am,
+Harald blickte Orgla scharf an,
 
-»Es scheint, Daß Die?r’i »ne nicht von Ihnen an-Wenn
-y worden ist, — Jane Brav, bat Orgla diese Fall
-[Wen geschrieben?«
+»Es scheint, Daß die Zahlenskizze nicht von Ihnen angefertigt
+worden ist. — Jane Brack, hat Orgla diese Zahlen
+geschrieben?«
 
-Nein Bestimmt
+»Nein. Bestimmt nicht.«
 
-» geben haben Sie dieses Blatt mit den Zahlen,
+»Woher haben Sie dieses Blatt mit den Zahlen,
+Orgla?«
 
-sMssted € Orgla wart Bart nur einen hekerfüllten Eid
-er Nr
+Alfred Orgla wart Harst nur einen haßerfüllten Blick
+zu und schwieg.
 
-»in Geheimnis besonderer Art steckt fraglos hinter
-diesen Zahlen,« meinte Harald zu Haus Brav, »Orglas
+»Ein Geheimnis besonderer Art steckt fraglos hinter
+diesen Zahlen,« meinte Harald zu Jane Brack. »Orglas
 <@pagebreak/>
-Bis soeben läßt vermuten, daß es Es gefährliches Geheimnis
-ist, Darf Ich Ahnen einen Vorschlag machen, ran
-Brav? Sie Nr Schraut und mich frei, damit wir hinkam
-Geheimnis nachspüren können, Sobald wir wisse
-um was es sich handelt, stellen wir uns Ihnen Liede
-zur Veriltaung. Möglich ist ja, daß wir durch die Enthi-lung
-dieses Geheimnisses Orgla irgend eine schwere Schuh
-weisen Dünnen, Dann wäre er reif für den Strafrichter.
+Blick soeben läßt vermuten, daß es ein gefährliches Geheimnis
+ist. Darf Ich Ihnen einen Vorschlag machen, Jane
+Brack? Sie geben Schraut und mich frei, damit wir diesem
+Geheimnis nachspüren können. Sobald wir wissen
+um was es sich handelt, stellen wir uns Ihnen wieder
+zur Verfügung. Möglich ist ja, daß wir durch die Enthüllung
+dieses Geheimnisses Orgla irgend eine schwere Schuld
+weisen können. Dann wäre er reif für den Strafrichter.«
 
-Jane üÜborleate, sagte dann:
+Jane überlegte, sagte dann:
 
-»Gut, — zwei Tage sollen ihnen beiden vewvilliat wo
-den, Wir haben heute den 80. Juni, Sie versprechen
-sich am 2, Juli morgens vier Uhr, denn so spät Wi
-(wieder einzufinden, wo wir Sie beide an ran
-Lachen werden,«
+»Gut, — zwei Tage sollen ihnen beiden bewilligt werden.
+Wir haben heute den 30. Juni. Sie versprechen mir,
+sich am 2. Juli morgens vier Uhr, denn so spät ist es
+jetzt, wieder einzufinden, wo wir Sie beide an Land
+setzen werden,«
 
-As verspreche es«
+»Ich verspreche es«
 
-Und Sie versichern weiter, der Polizei acaenüve
+»Und Sie versichern weiter, der Polizei gegenüber
 von dieser Vereinbarung zu schweigen.«
 
 »Auch das verspreche ich. Sollte ich im Verlauf meiner
-Rahfor’dunaen nun arımmman sein, E Ei Jane Ben
-und 9 a Exlunimintel aufzusehen, so.
+Nachforschungen nun gezwungen sein, Sie, Jane Brack
+und Ihre Schlupfwinkel aufzusuchen, so..."
 
-so steht Ihnen Das frei, — falle Sie mich finden
-was« — — nicht geschehen wird! — Falls Sie mich durchaus
-zu einer Unterredung zu bestimnucer Stunde irgendwohin
-bestellen müssen, schreiben Ehe Ort und Zeit mit
-Zierde auf den Holzzaun neben der Hinterpforte Ihres Gemüsegartens,
-aber wulndellend ehe Stunden vor der
-Verflucht,«
+"...so steht Ihnen Das frei, — falle Sie mich finden!
+Was — — nicht geschehen wird! — Falls Sie mich durchaus
+zu einer Unterredung zu bestimmter Stunde irgendwohin
+bestellen müssen, schreiben Sie Ort und Zeit mit
+Kreide auf den Holzzaun neben der Hinterpforte Ihres Gemüsegartens,
+aber mindestens sechs Stunden vor der
+Treffzeit,«
 
-»Wie Sie wünschen, Bade... Mitte, Zaun lassen
-Sie uns die Fesseln abnehmen, Wir werden keinen Versuch
-O die Kopf hüllen, die man uns wohl überwers-fen
-wird, zu entfernen, während man uns weabrinat«
+»Wie Sie wünschen, Jane... — Bitte, dann lassen
+Sie uns die Fesseln abnehmen. Wir werden keinen Versuch
+machen, die Kopfhüllen, die man uns wohl überwerfen
+wird, zu entfernen, während man uns wegbringt«
 
 Gleich darauf waren wir frei.
 
-Käme Fror Baue es jetzt sehr eilig, uns wegschaffen
+Jane Brack hatte es jetzt sehr eilig, uns wegschaffen
 zu lassen.
 
-Bevor man uns noch Decken über die Köpfe letzte un
-rufe baseman, gab es noch einen kleinen Zwischenfall nit
+Bevor man uns noch Decken über die Köpfe legte und
+lose befestigte, gab es noch einen kleinen Zwischenfall mit
 Alfred Orgla.
 
-»Jane, Du bist nicht recht gescheit!« rief er höhnisch.:
-»Glaubst Du denn, daß ja Harst, der schon Die
+»Jane, Du bist nicht recht gescheit!« rief er höhnisch.
+»Glaubst Du denn, daß dieser Harst, der schon Die gewitztesten
 <@pagebreak/>
-teilen Leute überlistet hat, diesen Pakt wirklich einhalten
-wird?! Meeres zu nicht, daß er Dir zur entschlüpfen will!«
+Leute überlistet hat, diesen Pakt wirklich einhalten
+wird?! Merkst Du nicht, daß er Dir nur entschlüpfen will!«
 
 Jane beachtete diese Verdächtigungen nicht,
 
-Wir aber wurde es grenzte bietet diese verhehlte Einmischung
-Orglas zur Gewißheit, bar er die Mulbertung dieses
+Mir aber wurde es gerade durch diese verfehlte Einmischung
+Orglas zur Gewißheit, daß er die Aufdeckung dieses
 Geheimnisses fürchtete, daß also Harsts Vermutung,
-Salz könnte ein Delhi oben begangen haben, welches mit
-Zaßlehzettel zusammenhing, stimmen müßte, —
+Orgla könnte ein Verbrechen begangen haben, welches mit
+dem Zahlenzettel zusammenhing, stimmen müßte, —
 
 So führte man uns denn, ohne daß wir das geringste
 sehen konnten, zum Hause hinaus und in das Motorboot
-Er bedeckte uns hier im Boote Dom nit einem Frohen
-geinteanbiült und brachte uns nach mehr als anderthalb-Fahrt
-ein Stil in eine dichte Kiefernschonung.
+zurück, bedeckte uns hier im Boote noch mit einem großen
+Leinwandstück und brachte uns nach mehr als anderthalbstündiger
+Fahrt ein Stück in eine dichte Kiefernschonung.
 
-als hier nun die Oeden und abaenonmmen wurden,
-Tand derselbe Mann mit dem langen schwarzen Schnurrbart
-vor uns, der auf dem Dache des brüten Nebenarbün-des
-Ministerhauses mit dem Asien und dem Papagei
-Ah beschäftigt hatte.
+Als hier nun die Decken uns abgenommen wurden,
+stand derselbe Mann mit dem langen schwarzen Schnurrbart
+vor uns, der auf dem Dache des dritten Nebengebäudes
+des Ministerhauses mit dem Affen und dem Papagei
+sich beschäftigt hatte.
 
-$ war Rotwin-hinter der Cübbeutiche,
+Es war Rotwin-Winter der Süddeutsche,
 
-Herr Harst, ich bitte Sie, noch zehn Minuten an dieser
-Stelle zu bleiben, damit I mich entfernen kann,« sagte
-er sehr höflich, »Dort drüben sehen’s wohl den weißen
-Dauerten, Dort Silben Sie sich am 2, Juli frühmorgens
+»Herr Harst, ich bitte Sie, noch zehn Minuten an dieser
+Stelle zu bleiben, damit ich mich entfernen kann,« sagte
+er sehr höflich. »Dort drüben sehen’s wohl den weißen
+Wegweiser. Dort finden Sie sich am 2. Juli frühmorgens
 wieder ein, wenn’s beliebt.«
 
 Harald nickte nur.
 
-Winter eilte davon, Na zehn Minuten ersuchen wir
-Wegweiser, daß wir uns am Süduijer des Schwirrt,
-zwei Kilometer vom Dorfe Frech entfernt befanden.
+Winter eilte davon. Nach zehn Minuten ersahen wir
+aus Wegweiser, daß wir uns am Südufer des Schwielow-Sees,
+zwei Kilometer vom Dorfe Ferch entfernt befanden.
 
-An einem Gasthof in Frech frithitükten wir. Ein Milder
-brachte uns nach Kam, von wo wir die Tigerin
+An einem Gasthof in Ferch frühstückten wir. Ein Motorboot
+brachte uns nach Kaputh, von wo wir die Eisenbahn
 benutzten.
 
-Uns hêun Uhr vormittags waren wir wieder daheim,
-Bann sofort zu det und schliefen bis vier Uhr nachjage,
+Uns zehn Uhr vormittags waren wir wieder daheim,
+legten uns sofort zu Bett und schliefen bis vier Uhr nachmittags.
 
-»Und um Zins Uhr bezog dar Sie mifmmaends Dach
-und) Bein Belehrung des Reiters Miß den Ich Zahlen.
+Und um fünf Uhr begann dann die aufregende Jagd
+nach dem Geheimnis des Zettels mit den zehn Zahlen.
 
 <@pagebreak/>
-2. Spitzel.
-Um den Agra Pokal,
+
+<h2>2. Kapitel.</h2>
+<h3>Um den Agra Pokal.</h3>
 
 Ehe begann in der Veranda beim Mittagessen.
 
@@ -1805,7 +1810,7 @@ der die eigene Weraephieteit Hinstrich den Kopf Iailtielter
 »Tran wird als! Roh Hätte besäße gar nicht mehr 29
 Satan gedacht, Harald, mein Zunge, (58 war ja gestern
 nachmittag ein Klient hier, ein englischer Lord, — Wo habe
-ich Doch seine Karte hingelegt? — — Richtig, dort aus Ben
+ich Doch seine Karte hingelegt? — — Richtig, dort aus den
 Nabusch, — Er, hier Is ne, ..«
 
 Auf der Karte stand mit Tinte in fehl energischer
@@ -1843,7 +1848,7 @@ Deutsch, »Die Sache liegt schon zwei Wochen zu-rüud
 entschließen, Mär Orlen verlohnen zu lassen, Er ist der
 oho eines meiner Gutêpächter und wurde mit weinen
 eigenen Söhnen Unsummen erzogen. Seine Eltern sind tot,
-Wir seiner Anwaltsvraxis in London ging es nicht so recht
+Wir seiner Anwaltspraxis in London ging es nicht so recht
 <@pagebreak/>
 Da habe ich Pro Orten denn vor lebt Monaten als Privatsekretär
 eingeholt,. Am 11, Juni kamen wir hier nach
@@ -1957,7 +1962,7 @@ an sich genommen haben?«
 »Ja. Aber was sollte sie mit dem Umschlag?«
 
 <@pagebreak/>
-»Wer brachte Ihnen Ben Brief, Vorort?«
+»Wer brachte Ihnen den Brief, Vorort?«
 
 »Ein Postbote je war ein Gilbriovi, Durch besonderen
 Aufträgen zu bestellen«
@@ -2004,7 +2009,7 @@ Finpinbe eines Postauêhelsers sind ja so leicht zu beschaffen.
 
 »Mylord,« begann Harald Wiener, »der Brief »er also
 zweifelhaft von Mac Orlen geschrieben worden? Kann
-Handschriftsälscbung vorliegen? Können Sie mir
+Handschriftfälschung vorliegen? Können Sie mir
 hriftflüde neben, Die ganz bestimmt von Mac Orlen berühren
 
 <@pagebreak/>
@@ -2031,7 +2036,7 @@ Der Lord war anfaelprıngen.
 »Das heißt also. Herr Harst, Mac Orlen kann .,.«
 
 «. «, das Opfer eines Verbrechens geworden sein,«
-Serviere Harald Ben Das, »arg recht: er kann beseitigt,
+Serviere Harald den Das, »arg recht: er kann beseitigt,
 beraubt worden sein. Man hat ihm die 20000 Pfund und
 sein So lüsselbund abgenommen, bat ihnen dann, um Sie
 »und gegebenen Falles die Polizei zu täuschen, den Brief
@@ -2087,8 +2092,8 @@ ihrer Dienstboten durchlesen, Munkelt,«
 
 Anlay verstand den Wink und verabschiedete sich.
 
-3. Kapitel.
-Das Rätsel der Zahlen,
+<h2>3. Kapitel.</h2>
+<h3>Das Rätsel der Zahlen.</h3>
 
 Wir waren allein, Zugluft las mir das Protokoll vor.
 Es brachte nicht Wichtiges außer der Aussage des Hausmeisters
@@ -2106,14 +2111,14 @@ ein kann.
 
 Daran arge das Protokoll wieder weg »Es ist klar,
 Dieb des Pokals hat den Weg durch das Fenster gekommen.
-— Wir merken Ben Fall Mac Orlen nu bis
+— Wir merken den Fall Mac Orlen nu bis
 <@pagebreak/>
 zum Adern ruhen lassen und uns mit dem Zettel mit den
 zehn Zahlen beschäftigen — auf unsere Art.«
 
 Und er ging nebenan ins Musikzimmer, Klang den
 Deckel des kostbaren Kdnzerilüasls auf und feste ich an
-das Knsirument, letzte das graue Pergamentblatt mit Ben
+das Knsirument, letzte das graue Pergamentblatt mit den
 farbigen Zahlen auf den Norenbalier und begann Wagner
 zu spielen: die Graaléserzähluna aus Lohengrin.
 
@@ -2301,7 +2306,7 @@ Dann verließen am Leichenshaußhaus, fuhren wieder
 nach Hause. die trabenbahn war leer. Wir konnten
 uns. Zettels unterhalten.
 
-Ich Fragte, weshalb Harald Ben Zettel mit den artigen
+Ich Fragte, weshalb Harald den Zettel mit den artigen
 Namen mitgenommen habe.
 
 darf erwiderte: elf er E Beweis fix Eile Richtigkeit
@@ -2309,7 +2314,7 @@ meiner Theorie ist. Es wäre gut, wenn Du Deine
 Geballten etwas anstrengen würdest, mein Alter.«
 
 Nun — Amen antike Zahlen, zwei artige Namen, dieselbe
-Orte Bald die Namen gehören zu Ben
+Orte Bald die Namen gehören zu den
 
 »Old
 
@@ -2351,7 +2356,7 @@ geworden. Es bleibt nur noch festzustellen, wo Ware
 malen befestigt und die Leiche verscharrt wurde, — he wenden
 wir meiner Mutter Gesellschaft nun und A die
 Nacht Kräfte sammeln. Außerdem will ich 0 Jane
-Brav herbeordern. Sich werde an den Zaun schreiben!
+Brack herbeordern. Sich werde an den Zaun schreiben!
 
 > 1. Juli 11 Uhr vormittags bei mir.
 
@@ -2446,20 +2451,20 @@ Halse, nicht wahrt«
 Also tot ist er? Ermordet?«
 
 »Mein. Harmlos verstorben, Herzschlag, — Wie kann
-man in Ben Klub hinein, bis, Wir müssen hin.«
+man in den Klub hinein, bis, Wir müssen hin.«
 
 »Müssen?! Lieber Harst, Sie kennen mich, Polizei und
 polizeiähnliche Bereithalten Kopten bei mir vergebens an,
 — Guten Abend „,.«
 
 Und mit drei Sprüngen war er in einer vorbeilahren.
-Ben Straßenbahn, winkte uns von der Plattform noch
+den Straßenbahn, winkte uns von der Plattform noch
 
 »Na — dann eben nicht!« meinte Harald. »Dann milden
 wir’s so versuchen. Vielleicht ist der Springbrunnen noch
 immer der Arelpunti der lernen, Geben wir!
 
-Wir überschritten den Platz, Schlenderten dann um Ben
+Wir überschritten den Platz, Schlenderten dann um den
 Springbrunnen herum,
 
 Auf einer der Bänke saß ein einzelner gut gekleideter
@@ -2491,8 +2496,8 @@ Und Bartoux ist tot,«
 
 <@pagebreak/>
 
-4, Kapitel.
-Der Spielklub,
+<h2>4. Kapitel.</h2>
+<h3>Der Spielklub.</h3>
 
 Der Herr mit der Narzisse hatte uns sehr bald eingeholt.
 
@@ -2570,7 +2575,7 @@ Auch hier der (Empfang »Alles sicher!«
 Lennerten öffnete die Tür, schaltete im Flur das Licht
 n.
 
-Da war unter der Treppe der Eingang in Ben Keller,
+Da war unter der Treppe der Eingang in den Keller,
 eine Holztreppe. Da war Im Karxtosselkeller ein Gestell
 mit leeren Flaschen, hostauht, von Spinnageweben übertönen,
 Lennerten zog es von der Wand ab. Es lief auf
@@ -2673,7 +2678,7 @@ ist?«
 »Weil er sein Geld nicht von mir abgeholt hat, Ort
 übergab mir am 18ten hier Ton 20000 u in Banknoten
 Er wüßte, daß ich Davonglitt bin, Er an
-Wir M, er wage es mich, mit Ben Salz Bali-zuaehen.
+Wir M, er wage es mich, mit den Salz Bali-zuaehen.
 Bartoux habe es auf ihn abgesehen. Ad solle
 ¿ihm das Geld ins Hotel Adlon bringen. — Mehr konnte
 er mir nicht zuflüstern., ich steckte das Paket Banknoten In
@@ -2805,8 +2810,8 @@ interessant!« Hang Harald, »Nun wissen wir ja,
 wie Alfred Orgla in Begib des Zahlenblatites gelangt ist.
 Es hat in Bartoux’ Brieftasche gesteckt,«
 
-5. Kapitel,
-Wo das Kreuz Star
+<h2>5. Kapitel.</h2>
+<h3>Wo das Kreuz Star.</h3>
 
 Ah wollte mich aufrichten.-
 
@@ -2930,7 +2935,7 @@ lag »Du A Anlay-Pokal
 Dieb hat ihn hier herrisch,« ehrbares den ersann
 eriehbeiäininnten aus. »Er hatte sich eine Art
 ne bar verlieh angefertigt, die und in die Hände
-Aha Auf einem zweiten Zottel hatte er die Namen der
+Aha Auf einem zweiten Zettel hatte er die Namen der
 cm, beiden Gräber vermerkt, Vielleicht rechnete
 damit, daß er Wichen müßte. Da wollte er später das
 erriet zu mal, wiederfinden,«
@@ -2939,7 +2944,7 @@ Unglaublich!« meinte der freundliche Herr Wachowski.
 ¿Unoloub sich! Und der Moral In wirr reimst Old Es
 
 »Ja — reines Gold! Gestohlen aus dem Palais Lord
-Anlays in Ben durch einen gewissen Bartoux, der neun
+Anlays in den durch einen gewissen Bartoux, der neun
 Er be Baron den Schlüssel zu dem Panzerschran!
 abnahm, nachdem er ihn ermordet hatte. Bartoux
 fuhr nach England, holte den Pokal, vergaß ihn hier
@@ -3033,7 +3038,7 @@ Rasamala war meine erste Liebe! — Wir werden schracnowo im
 entsank und niederlassen und Ihnen dankbar sein, men
 Sie und nicht verfolgen. Mein Vater kann ja kaum allzu
 hart bestraft werden. Ein paar Monate vielleicht, unh
-auch er ist frei! — Leben Sie wohl! — Name Brav,
+auch er ist frei! — Leben Sie wohl! — Name Brack,
 
 Harald sschlüttelte den Kopf .. So
 
@@ -3047,7 +3052,7 @@ wird sie wie einst abermals auf die Bahn des Verbrenne
 drängen. Warten wir ab, das geschieht, jedenfalls
 werde ich der Polizei sofort Meldung erstarrten« —
 
-halbe Woche verging, Käme Brav war nirgends
+halbe Woche verging, Käme Brack war nirgends
 zu finden.
 
 Dann.
