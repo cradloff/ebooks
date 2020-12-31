@@ -1544,7 +1544,7 @@ die Rückgabe der Photographien der Dokumente bewiesen
 
 <@pagebreak 35/>
 
-Der Zettel mit den Zahlen.
+<h1>Der Zettel mit den Zahlen.</h1>
 
 <h2>1. Kapitel.</h2>
 <h3>Die zehn Zahlen.</h3>
@@ -1801,48 +1801,50 @@ nach dem Geheimnis des Zettels mit den zehn Zahlen.
 <h2>2. Kapitel.</h2>
 <h3>Um den Agra Pokal.</h3>
 
-Ehe begann in der Veranda beim Mittagessen.
+Sie begann in der Veranda beim Mittagessen.
 
-Frau Auguste Harst, Haraldsd Flunder, Die Leben
-schon 11 größter Sorge gewesen, Tante vlbülich, indem
-der die eigene Weraephieteit Hinstrich den Kopf Iailtielter
+Frau Auguste Harst, Haralds Mutter, Die unseretwegen
+schon in größter Sorge gewesen, sagte plötzlich, indem sie
+über die eigene Vergesslichkeit ärgerlich den Kopf schüttelte:
 
-»Tran wird als! Roh Hätte besäße gar nicht mehr 29
-Satan gedacht, Harald, mein Zunge, (58 war ja gestern
-nachmittag ein Klient hier, ein englischer Lord, — Wo habe
-ich Doch seine Karte hingelegt? — — Richtig, dort aus den
-Nabusch, — Er, hier Is ne, ..«
+»Man wird alt! Ich Hätte beinahe gar nicht mehr daran
+gedacht, Harald, mein Junge. Es war ja gestern
+nachmittag ein Klient hier, ein englischer Lord. — Wo habe
+ich Doch seine Karte hingelegt? — — Richtig, dort auf den
+Nähtisch. — So, hier Ist sie...«
 
-Auf der Karte stand mit Tinte in fehl energischer
-Schrill:
+Auf der Karte stand mit Tinte in sehr energischer
+Schrift:
 
-> Lory Deren Grollen-Anlay
-> z. Berlin, Hotel Adlon,
+> Lord Percy Goddbry-Anlay
+> z.Z. Berlin, Hotel Adlon.
 
 »Der Lord ist ein älterer Herr,« erklärte Frau Harst
-nun. »Ein waschechter Engländer So beinahe gen ne
-Steiflelnêèn aemeacht. Aber vornehm bis in die Finder-spiven,
-Er horche an, daß Ok log eine ade wo,
-größter Wichtige! handele, Zu solltest ihm ins Adlon Art
-rufen, M ad er, sobald Du Dich wieder eingebunden hänucsl«
+nun. »Ein waschechter Engländer. So beinahe ganz aus
+Steifleinen gemacht. Aber vornehm bis in die Fingerspitzen,
+Er deutete an, daß es sich um eine Sache von
+größter Wichtigkeit handele. Du solltest ihm im Adlon an-
+rufen, bat er, sobald Du Dich wieder eingefunden hättest.«
 
-rx Lord Brummt mir sehr ungelegen, liebe Bitten,
-Ich Da jetzt kaum Zelt für ihn,«
+"Der Lord kommt mir sehr ungelegen, liebe Mutter.
+Ich habe jetzt kaum Zeit für ihn,«
 
 Die rundliche Köchin Mathilde erschien sehr eilig.
 
-»Der Korb is wieder da,« meldete Ne,
+»Der Lord is wieder da,« meldete sie.
 
-Soll Platz nehmen, Mathilde, und warten.
+"Soll Platz nehmen, Mathilde, und warten."
 
-schrak zehn Minuten daran lernten wir y Anlay
+Und zehn Minuten darauf lernten wir Lord Anlay
 persönlich kennen.
 
-Etwas Edelsteinen war er ja, der grauhaarige Gentleman,
+Etwas steifleinen war er ja, der grauhaarige Gentleman.
 Aber dabei von ausgesuchter Liebenswürdigkeit.
 
+XXX
+
 »Mein Privatsekretär ist mir mit 20000 Pfund In
-Banküoten durcligeaanaen, Herr Harst,« erklärte er in tadellosem
+Banknoten durchgegangen, Herr Harst,« erklärte er in tadellosem
 Deutsch, »Die Sache liegt schon zwei Wochen zu-rüud
 — leider! Ad) konnte nicht bisher nämlich nicht dazu
 entschließen, Mär Orlen verlohnen zu lassen, Er ist der
