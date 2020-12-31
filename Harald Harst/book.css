@@ -126,6 +126,7 @@ div.kkb {
 	border: 8px ridge lightgray;
 	white-space: pre-wrap;
 	text-align: center;
+	page-break-inside: avoid;
 	margin: 2em;
 	padding: 2em;
 }

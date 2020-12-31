@@ -10,7 +10,7 @@
 
 > Berlin W, Paulsbornerstraße 211.
 
-stand mit Tinte geschrieben aus der Visitenkarte, die uns Mathilde,
+stand mit Tinte geschrieben auf der Visitenkarte, die uns Mathilde,
 die Harstsche Köchin, am Nachmittag des 16. Mai
 1922 in den Gemüsegarten brachte.
 
@@ -85,7 +85,7 @@ Mathilde eilte davon.
 
 Und Harald blickte mich wieder lange an.
 
-»Weißt zu, mein Alter, sonderbar kam es mir in
+»Weißt Du, mein Alter, sonderbar kam es mir in
 der Nacht ja vor, daß Parnack sich so ruhig verhaften ließ,«
 sagte er schließlich. »Trotzdem: es war Parnack! Ich bin
 meiner Sache ganz sicher. Wenn ich ein Gesicht ein einziges
@@ -118,7 +118,7 @@ wäre.«
 wiedererkannt. Ich sah ihn ja damals in...«
 
 »Ob und wie Du ihn sahst, kommt bei meiner Möglichkeit
-gar nicht in Betracht, — Warten wir ab.« —
+gar nicht in Betracht. — Warten wir ab.« —
 
 In Kriminalkommissar Becherts Dienstzimmer fanden
 wir unseren Parnack, einen Protokollführer und einen
@@ -253,8 +253,8 @@ Ein hilfloser, jammervoller Blick des Fremden irrte
 über Haralds Gesicht hin. Dann sank der Kopf auf die
 Brust herab.
 
-»Ich schwöre es Ihnen bei der Liebe zu... zu meiner..."
-Er stockte, fuhr hastiger fort: "... bei der Liebe zu denen,
+»Ich schwöre es Ihnen bei der Liebe zu... zu meiner...«
+Er stockte, fuhr hastiger fort: »... bei der Liebe zu denen,
 die es wie Sie gut mit mir meinen, daß ich diesen Parnack
 nicht kenne, daß ich den Namen Parnack in der verflossenen
 Nacht zum ersten Male hörte, als ich verhaftet wurde.«
@@ -353,7 +353,7 @@ aufmacht. Bisher tat sie es nicht. Alle diese Verbündeten
 Parnacks sind hartnäckiger im Schweigen als es uns lieb
 ist.«
 
-Harald blies einen Rauchkegel in die gleißende Tannenhain
+Harald blies einen Rauchkegel in die gleißende Sonnenbahn
 hinein.
 
 »Was Parnack wohl damit bezweckt haben mag, daß
@@ -372,7 +372,7 @@ uns haben, lieber Harst. — Bewegungsfreiheit!«
 Ziegelmauer, — diese klägliche Aussicht aus Becherts Fenstern.
 »Möglich — aber nicht wahrscheinlich. Wenn es sich
 da nur nicht um das Vorspiel zu einem neuen Parnackschen
-Streiche handelt. Parnack ist ein Schmwindlergenie
+Streiche handelt. Parnack ist ein Schwindlergenie
 ersten Ranges. Er mag...«
 
 Indem klopfte es. Ein Beamter trat ein, meldete:
@@ -417,7 +417,7 @@ habe nie jemand übervorteilt, habe den Aermsten der Armen
 manches billiger abgelassen. Freilich sei sie stets sehr
 zurückhaltend gewesen. Verkehr habe sie nie gehabt.
 
-Harst hoch die beiden Dielenstücke aus, die in der
+Harst hob die beiden Dielenstücke aus, die in der
 Schlafstube den Zugang zu dem mit Brettern ausgeschlagenen
 Erdloch bildeten, und kletterte hinab.
 
@@ -508,7 +508,7 @@ entsprungene Strafgefangene beherbergt haben.«
 »Harst — der Verhaftete, der Doppelgänger Parnacks!
 Vielleicht ist’s ebenfalls ein solcher Flüchtling. Vielleicht gehört
 ihm dieser Anzug. Der kurzgeschorene Kopf, das hartnäckige
-Schweigen des Menschen..."
+Schweigen des Menschen...«
 
 »Und sein seltsames Wesen,« nickte Harald. »Möglich
 ist’s schon, daß Ihre Annahme stimmt. Lassen Sie den
@@ -609,7 +609,7 @@ Wir verzichteten auf jede Maskierung.
 
 Harsts neue Erfindung aber imponierte mir. Daß
 wir von ihr in ganz anderer Weise Gebrauch machen würden,
-konnten wir beim besten Wissen nicht ahnen.
+konnten wir beim besten Willen nicht ahnen.
 
 <h2>3. Kapitel.</h2>
 
@@ -625,7 +625,7 @@ ein Streifen Laubenland hin. Die Vordergebäude hatten
 sogenannte Gartenhäuser, deren winzige Balkons und
 Loggien an diesem milden Abend zumeist erleuchtet waren.
 
-Aber — es wurde halb elf und Fräulein Klara Ritter
+Aber — es wurde halb elf und Fräulein Klara Rittler
 erschien nicht. Es wurde drei Viertel, es wurde elf
 Uhr: noch immer öffnete sich die Haustür von Nr. 211 nicht!
 
@@ -688,12 +688,12 @@ Ein dünner Lichtstrahl aus Harsts linker Hand erleichterte
 uns die Orientierung.
 
 Die eiserne Tür geradeaus führte auf den Boden
-des Hauses; die rechts von uns baue ein Blechschild
+des Hauses; die rechts von uns hatte ein Blechschild
 »Waschküche«; die dritte linker Hand eine Visitenkarte, mit
 Messingnägeln neben dem Briefkasten befestigt, zeigte den
 Namen der Frau, die nicht gekommen war.
 
-Harst wandte sich der Federhut zu. Der Dietrich fuhr
+Harst wandte sich der Bodentür zu. Der Dietrich fuhr
 ins Schlüsselloch, schrammte, faßte. Der Sperriegel schob
 sich zurück.
 
@@ -716,9 +716,9 @@ empor drang, wie Laute geheimnisvoller Gnomen aus
 geheimnisvollen Erdtiefen.
 
 <@pagebreak/>
-»Sie weint« flüsterte Harst. »Ob sie noch um den
+»Sie weint,« flüsterte Harst. »Ob sie noch um den
 Verlust ihrer Stiefmutter weint, mit der sie den Zeitungsnotizen
-nach sehr innig gestanden haben muß?««
+nach sehr innig gestanden haben muß?«
 
 Unsere Köpfe ruhten nebeneinander über dem Rande
 des Schieferdaches. Ich blickte Harald an. »Die Witwe
@@ -749,7 +749,7 @@ Name Parnack in dieser Umgebung war die Gefahr, die
 Aussicht auf hundert Teufeleien, war wie unzählige versteckte
 Drohungen.
 
-»Vielleicht, mein Alter...«, erwiderte Harst neben
+»Vielleicht, mein Alter...« erwiderte Harst neben
 mir.
 
 »Sie nennt ihn Fritz. Und Parnacks Vorname ist
@@ -812,7 +812,7 @@ Dann klappte eine Tür...
 
 Und wenig später hörten wir unten im Hofe den hastigen
 Schritt eines Menschen, das Kreischen der Angeln der
-erschwerten Tür des Hofeingangs.
+schweren Tür des Hofeingangs.
 
 Harst zog die Hanfleine hervor, schlang das eine Ende
 um den Schornstein, warf das andere am linken Rande des
@@ -905,7 +905,7 @@ die Absage, weil Sie Besuch bekamen, nicht wahr?«
 
 »Ja...« Und noch zögernder. »Ein... ein Kollege
 hatte sich angemeldet, der mir Arbeit besorgen wollte. Uns
-Zeichnern geht es heutzutage schlecht, sehr schlecht, Sie haben
+Zeichnern geht es heutzutage schlecht, sehr schlecht. Sie haben
 wohl bereits meiner Ateliereinrichtung angemerkt, Herr
 Harst, daß die besten Möbel verkauft sind. So ärmlich sah
 es früher bei mir nicht aus.«
@@ -1232,7 +1232,7 @@ Harsts Stimme dicht neben mir: »Keine Angst — ich
 stütze Dich!« — Und ich fühlte den Druck seiner Hand in
 meiner linken Achselhöhle...
 
-Dann ein andere Stimme über uns — gesättigt von
+Dann eine andere Stimme über uns — gesättigt von
 satanischem Hohn:
 
 »Willkommen, die Herren! Wenn Sie sich nicht ruhig
@@ -1260,7 +1260,7 @@ Und neben mir ein Raunen — hastiges Flüstern:
 
 Ich wurde von Harst halb gehoben, wurde von dem
 Manne mit dem Zeugfetzen als Maske emporgezogen, wußte
-es so einzurichten, daß ich die Leine in meine Brusttasche
+es so einzurichten, daß ich die Leine in meiner Brusttasche
 sichtbarer machte, daß das freie Ende mehr herausragte...
 
 <@pagebreak/>
@@ -1325,7 +1325,7 @@ Hände frei machte...
 Ich sah, daß in Parnacks Augen das Mißtrauen aufglomm...
 
 Sah die Eisenstange hochfahren — sah Harsts linken
-Arm blitzschnell emporschießen — hörte den Fausthieb,
+Arm blitzschnell emporschießen — hörte den Fausthieb
 der anderen Hand, die Parnacks Herzgrube traf.
 
 Wie ein Klotz schlug der Verbrecher nach hinten um.
@@ -1371,7 +1371,7 @@ entflohen ist, nicht wahr? — Ich fand nämlich in einem
 Gemüsekeller, in einem Verbrecherschlupfwinkel im
 Südosten Berlins außer der durchgedrückten Adresse einer
 mit Tintenstift ausgefüllten Postanweisung, die an Sie gerichtet
-war und über, 170000 Mark lautete, auch einen
+war und über 170000 Mark lautete, auch einen
 Sträflingsanzug...«
 
 Klara Rittlers schneidendes Auflachen ließ Harst verstummen.
@@ -1396,8 +1396,8 @@ geblieben, sich hier mit Aufgebot all Ihrer seelischen
 Kräfte schützend vor den entwichenen Jugendfreund zu stellen
 — das heißt, für dessen Doppelgänger! Denn der da ist
 *nicht* Fritz Gerhardi. Gerhardi sitzt im Polizeigefängnis.
-Parnack hat besondere Kennzeichen, die an dem verhafteten
-der vergangenen Macht nicht gefunden wurden. Dieser
+Parnack hat besondere Kennzeichen, die an dem Verhafteten
+der vergangenen Nacht nicht gefunden wurden. Dieser
 Verhaftete, dieser Doppelgänger Parnacks, benahm sich
 bei dem Verhör so seltsam, daß ich sehr bald auf den Gedanken
 kam, er könnte sich von Parnack durch Geld dazu
@@ -1509,7 +1509,7 @@ Grinsen.
 »Ich werde mich hüten, etwas einzugestehen,« meinte
 er mit überlegenem Hohn. »Nur eins sollen Sie wissen:
 Fritz Gerhardi ist mein Zwillingsbruder den unsere Eltern
-ganz jung Fremden Leuten an Kindes statt überließen,
+ganz jung fremden Leuten an Kindes statt überließen,
 und — seine Befreiung vor drei Tagen ist mein Werk!«
 
 »Und das Mansardenfenster drüben, der Gehenkte?«
@@ -1521,7 +1521,7 @@ damit nichts zu schaffen!«
 
 »Wie Sie wollen! — Schraut, geh’ und telephoniere
 an die Polizei. Bechert soll kommen. Hier« — und seine
-Stimme schwoll an — »hier wird der Gehenkte durch wohl
+Stimme schwoll an — »hier wird der Gehenkte doch wohl
 einiges verraten! Das geheimnisvolle Fenster wird wohl
 die Ueberleitung zu der Aufklärung des Motives der Ermordung
 Frau Gerhardis sein, deren Leiche nun endlich

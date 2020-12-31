@@ -90,7 +90,7 @@ Harald legte ihm rasch die Hand auf die Schulter.
 
 »Der Mensch ist es nicht wert, daß Sie sich seinetwegen
 erregen,« sagte er ernst. »Was log er Ihnen denn
-vor, als er ihnen das Geld gab, um Fräulein Ritter helfen
+vor, als er ihnen das Geld gab, um Fräulein Rittler helfen
 zu können?«
 
 »Er sagte, ich sollte mich als ein gewisser Parnack
@@ -105,7 +105,7 @@ Anstalt ausgehändigt erhielt, über ihre trostlose Lage geklagt.«
 Bechert gab einem seiner Beamten rasch einen Wink.
 
 Man nahm Gerhardi die Handschellen ab. — »Sie
-sind frei. Herr Gerhardi,« sagte Becher herzlich. »Sie
+sind frei, Herr Gerhardi,« sagte Bechert herzlich. »Sie
 müssen sich nur noch uns zur Verfügung stellen, damit Sie
 Ihre Aussagen genau zu Protokoll geben.«
 
@@ -402,7 +402,7 @@ und eine Schiefertafel kleinsten Formats.
 
 »Brühe uns Kaffee auf, mein Alter,« bat Harald.
 »Ich muß munter bleiben, bis ich weiß, weshalb Meinke
-und Parnack! Und der dritte mit dem Klumpfuß dort in der
+und Parnack und der dritte mit dem Klumpfuß dort in der
 Bodenkammer neben der Waschküche, wo sie gleich die
 Wasserleitung zur Verfügung hatten, so insgeheim photographische
 Vergrößerungen hergestellt haben, ohne zu ahnen,
@@ -412,7 +412,7 @@ Vorhang erschien. Denn — das haben sie nicht gewußt,
 mein Alter. Der Schatten des Gehenkten war ein Spiel
 des Zufalls.«
 
-Ich blickte Harst an. »Man sein. Aber — der »dritte«,
+Ich blickte Harst an. »Mag sein. Aber — der »dritte«,
 sagst Du?! Ein Mann mit dem Klumpfuß?«
 
 »Ja — in der Staubschicht der Kammer neben dem
@@ -456,9 +456,9 @@ hindurch und fuhr fort:
 
 »Ich wünschte, wir hätten das Bildchen gefunden,
 von dem diese Platten die Vergrößerungen darstellen, mein
-Alter, — dem, um es gleich zu betonen: dieses sind Vergrößerungen
+Alter, — denn, um es gleich zu betonen: dieses sind Vergrößerungen
 einer einzigen Photographie eines Schriftstücks,
-nichts des Schriftstückes selbst.«
+nicht des Schriftstückes selbst.«
 
 Dann hüllte er sich in Schweigen, nahm die Platten
 immer wieder zur Hand und hielt sie gegen das Licht. Es
@@ -651,7 +651,7 @@ eine Unterschrift. Diese zweite Unterschrift kann, sagte ich
 mir, die eines Notars sein. Und sie zeigt vier Buchstabengruppen,
 die erste nur zwei Buchstaben, dann vier, dann
 zwei, dann zehn. Und als ich nun vorhin mir die Schilder der
-Notare ansah, es waren nur vier stellte ich fest, daß Ihr
+Notare ansah, es waren nur vier, stellte ich fest, daß Ihr
 Name Dr. Jean de Sartarella genau der Anzahl der vier
 Buchstabengruppen entsprach.«
 
@@ -664,7 +664,7 @@ gern ermitteln, was diese gestempelte Urkunde enthält.
 Auf unsere Diskretion können Sie sich verlassen.«
 
 Sartarella lächelte pfiffig. »Jetzt will ich Ihnen beweisen,
-daß auch ich ich kombinieren kann, Herr van Booren.
+daß auch ich kombinieren kann, Herr van Booren.
 Dieses Schriftstück ist ein Testament, das von mir als Notar
 aufgesetzt wurde. Der eigentliche Text hat« — er zählte
 rasch — »hat hier auf Ihrer Nachzeichnung der verlaufenen
@@ -754,19 +754,19 @@ Tode zugehen. Bis dahin soll der Notar, der meine Unterschrift
 beglaubigt, es in sicherem Gewahrsam halten und
 nie einem Unberufenen zeigen.
 
-<table border="0">
-<tr><td style="line-break: pre-wrap; text-align: center;">Siegel,
+<table style="border: none;">
+<tr><td style="line-break: pre-wrap; text-align: center; width: 50%">Siegel,
 die eigenhändige Unterschrift
 des Korporals Branker
 wird beglaubigt.
 Dr. Jean de Sartarella. Notar.</td>
 <td style="line-break: pre-wrap; text-align: center;">Gerhard Branker
-Korporal im 1. Fremden\-
+Korporal im 1. Fremden-
 regiment.</td></tr>
 </table>
 
 <@pagebreak/>
-Harald legte die Urkunde war sich auf den Tisch.
+Harald legte die Urkunde vor sich auf den Tisch.
 
 »Branker ist also bestimmt verstorben?« fragte er.
 
@@ -828,7 +828,7 @@ wegen so oft vergrößert haben. Denn alles andere hatte
 Meinke gut behalten: wo das Geld lagerte, wo es abzuholen
 war. Parnack hat das Geld dann ja geholt, natürlich
 mit Hilfe von ihm gefälschter Papiere. Ich behaupte
-weiter, daß Frau Gerhardi nur weshalb am 14. April beseitigt
+weiter, daß Frau Gerhardi nur deshalb am 14. April beseitigt
 wurde, damit sie, die das Testament erhalten und
 gelesen hatte, verschwände. Am 5. April schickten Sie es
 ab, Herr Notar, am 14. verschwand die Frau. Ich denke,
@@ -890,7 +890,7 @@ unter die holde Weiblichkeit der Globetrotter, wir erblickten
 unseren Klumpfuß an einem Tischchen an einer der
 Steinsäulen sitzen.
 
-Zwei Häuserreihen stützten den dreifach gewölbten
+Zwei Säulenreihen stützten den dreifach gewölbten
 niederen Raum. Angenehm kühl war es hier. Seltsame
 Oellampen spendeten noch seltsamere Beleuchtung. Das
 mit Ambra parfümierte Oel erfüllte die Luft mit einem
@@ -901,7 +901,7 @@ der Kapellmeister im Frack...
 
 Wir fanden noch zwei freie Stühle an einem von drei
 Männern in Steuermannstracht besetzten Tische, eben hinter
-einer der diesen gemauerten Säulen. Die drei Seeleute
+einer der dicken gemauerten Säulen. Die drei Seeleute
 hatten sich eben erst niedergelassen. Harst hatte in
 holländischer Sprache gefragt, ob wir Platz nehmen dürften.
 Die drei Rauhbeine antworteten nicht. Sie schienen
@@ -956,7 +956,7 @@ uns zur nächsten Polizeistation.
 
 Haralds Ausweis, die Testamentsabschrift — auch
 das war mit der Brieftasche den Schurken in die Hände
-gefallen. Und diese Kerle, darüber konnte sein Zweifel bestehen,
+gefallen. Und diese Kerle, darüber konnte kein Zweifel bestehen,
 waren Kreaturen gewesen, die der Mann mit dem
 Klumpfuß angeworben hatte.
 
@@ -1183,7 +1183,7 @@ so leise, daß wir nicht ein Wort verstanden.
 
 Die Decklampen der Jacht bestrahlten ihre Gesichter,
 <@pagebreak/>
-zeigten und daß das Gespräch immer mehr die Form
+zeigten uns, daß das Gespräch immer mehr die Form
 einer freundschaftlichen Unterhaltung annahm.
 
 So vergingen zehn Minuten. Inzwischen hatte
@@ -1205,7 +1205,7 @@ breitet habe. Sie sind auf der India völlig sicher,
 ebenso auf dem Lande. Ich habe nur eine Bitte: vergessen
 Sie das Vorgefallene und bleiben Sie mit der Jacht so
 lange hier, wie Mr. Harst es für nötig hält. Ich gebe Ihnen
-mein Wort, daß Sie als sich fortan unter meinem
+mein Wort, daß Sie alle sich fortan unter meinem
 Schutze befinden.«
 
 Er verbeugte sich leicht, schritt zum Fallreep und fuhr
@@ -1291,7 +1291,7 @@ des Gottes und... hob den wie ein Keil in den Rumpf
 eingesetzten Kopf und Hals des Götzen herab, reichte ihn
 uns und griff dann mit der Rechten in das Loch des
 Rumpfes hinein, holte zwei längliche Lederbeutel hervor,
-warf sie herab und legte Kopf und Hals wieder ein.
+warf sie herab und setzte Kopf und Hals wieder ein.
 
 »Der Kapo-ratta-Branka hat befohlen, daß die beiden
 Säcke erst von dem Erben geöffnet werden dürften,«
@@ -1318,7 +1318,7 @@ nicht, daß es Gold sei. Das Gewicht sprach dafür.
 Wir traten nun sofort den Rückweg an. Die beiden
 Malaien mußten die Säcke tragen.
 
-Auch dieser Rückweg durch die Wildnis brachte mich
+Auch dieser Rückweg durch die Wildnis brachte nicht
 das geringste Interessante.
 
 Als wir, Harald und ich, an Bord der India gegen
@@ -1364,7 +1364,7 @@ Wir können also tun und lassen, was wir wollen.« —
 Genau vier Tage langweilten wir uns nach Kräften
 an Bord.
 
-Am vierten Tage abends zehn Uhr schicke Duncanly,
+Am vierten Tage abends zehn Uhr schickte Duncanly,
 der sich von uns ferngehalten hatte, einen Boten, daß die
 Rakete vor einer halben Stunde bemerkt worden sei und
 daß er den Lord und uns morgen früh vier Uhr gleich
@@ -1515,19 +1515,25 @@ Nächster Band:
 __Anita Armands Verhängnis.__
 
 
+<div style="page-break-inside: avoid; margin-top: 2em; margin-left: 1em; margin-right: 1em;">
+<div>
 Wir weisen alle Freunde der Harald Harst-Abenteuer
 darauf hin, daß aus Anlaß der
-Herausgabe des 100sten Harstbandes.
+Herausgabe des 100sten Harstbandes
+</div>
 
-> »Unser 100stes Abenteuer.«
+<div style="text-align: center;">»Unser 100stes Abenteuer.«</div>
 
-Ein Roman mit Harst und Schraut als
+<div>
+ein Roman mit Harst und Schraut als
 Hauptpersonen in unserem Verlage mit
-dem Titel.
+dem Titel
+</div>
 
-<div style="font-size: xx-large;">Der Klub der Toten</div>
+<div style="text-align: center; font-size: xx-large;">Der Klub der Toten</div>
 
-Erscheint.
+erscheint.
+</div>
 
 <@pagebreak/>
 
