@@ -1,9 +1,11 @@
 \bAch\b	Ich
 \bAhnen\b	Ihnen
+\bau!	auf
 \bBann\b	Dann
 \bBieter\b	Meter
 \bElement\b	Clement
 \bFahr\b	Jahr
+\bFahre\b	Jahre
 \bFahren\b	Jahren
 \bfegte	setzte
 \bfein	sein
@@ -13,6 +15,8 @@
 \bHart\b	Harst
 \blebten	letzten
 \blegte	letzte
+\blett\b	jetzt
+\bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bnicke\b	nickte
@@ -22,4 +26,3 @@
 \bTer\b	Der
 \bver\b	der
 \bvor!\b	dort
-\bMir\b	Wir
