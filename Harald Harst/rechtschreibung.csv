@@ -13,6 +13,7 @@ sa	ja
 ,“	,«
 ,”	,«
 ."	.«
+..."	.«
 .“	.«
 .”	.«
 ?!"	?!«
@@ -1100,6 +1101,7 @@ Fh	Ich
 Fhnen	Ihnen
 fhon	schon
 Fiau	Frau
+fib	sich
 ficher	sicher
 fich	sich
 fic	sich
@@ -2278,6 +2280,7 @@ jtedie	steckte
 Juchtentasche	Jackentasche
 Juder	Inder
 Jührer	Führer
+Ju	In
 Jünf	Fünf
 Jurs	Kurs
 Jürst	Fürst
@@ -2332,6 +2335,7 @@ Kiapitän	Kapitän
 kiar	klar
 kieiner	kleiner
 kieß	ließ
+Kiiche	Küche
 Kiihlraum	Kühlraum
 kiihlt	kühlt
 kiinnnert	kümmert
@@ -3091,6 +3095,7 @@ Raubziige	Raubzüge
 rauchie	rauchte
 Rauchvingen	Rauchringen
 raudte	rauchte
+rau	Frau
 raunfe	raunte
 rechnesi	rechnest
 reclite	reckte
@@ -3847,6 +3852,7 @@ Ungliick	Unglück
 Unglüch	Unglück
 unhöfljch	unhöflich
 unhöslich	unhöflich
+unh	und
 unid	und
 unliingst	unlängst
 Unlilaren	Unklaren
@@ -4048,6 +4054,7 @@ Vorsällen	Vorfällen
 vorsand	vorfand
 Vorschifs	Vorschiff
 vorschoh	vorschob
+vort	dort
 Vort	Dort
 Vorvaum	Vorraum
 vorwärtsi	vorwärts!
@@ -4255,6 +4262,8 @@ Zinmern	Zimmern
 Zinnner	Zimmer
 Zinnnier	Zimmer
 zinn	zum
+ZJ	Ich
+ZJm	Im
 zmar	zwar
 zmei	zwei
 zmneist	zumeist

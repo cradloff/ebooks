@@ -1,10 +1,12 @@
 \bAch\b	Ich
 \bAhnen\b	Ihnen
+\bau!	auf
 \bBann\b	Dann
 \bBieter\b	Meter
 \b(\d+)[l1i]en\b	$1ten
 \bElement\b	Clement
 \bFahr\b	Jahr
+\bFahre\b	Jahre
 \bFahren\b	Jahren
 \bfegte	setzte
 \bfein	sein
@@ -15,6 +17,7 @@
 \bis!\b	ist
 \blebten	letzten
 \blegte	letzte
+\blett\b	jetzt
 \bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
