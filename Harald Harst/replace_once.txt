@@ -2,6 +2,7 @@
 \bAhnen\b	Ihnen
 \bBann\b	Dann
 \bBieter\b	Meter
+\b(\d+)[l1i]en\b	$1ten
 \bElement\b	Clement
 \bFahr\b	Jahr
 \bFahren\b	Jahren
@@ -11,10 +12,13 @@
 \bfliegen\b	stiegen
 \bFusel\b	Insel
 \bHart\b	Harst
+\bis!\b	ist
 \blebten	letzten
 \blegte	letzte
+\bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
+\bnich!\b	nicht
 \bnicke\b	nickte
 \bober\b	oder
 \bSaß\b	Satz
@@ -22,4 +26,3 @@
 \bTer\b	Der
 \bver\b	der
 \bvor!\b	dort
-\bMir\b	Wir
