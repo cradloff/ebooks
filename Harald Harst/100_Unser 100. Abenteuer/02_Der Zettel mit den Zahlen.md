@@ -1527,7 +1527,6 @@ __Die Piraten der Havelseen.__
 
 <@pagebreak/>
 
-<#include "*/intro_short.ftl">
 <#import "*/harst.ftl" as harst>
 
 <@harst.kkb band="5" titel="Die Schildkröte"/>
