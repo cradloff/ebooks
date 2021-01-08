@@ -1519,30 +1519,30 @@ Nachspiels vor...
 <h1>Die Villa auf der Insel.</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Baron Frnhartsietten8 Geschichte.</h3>
+<h3>Baron Irnhartstettens Geschichte.</h3>
 
 Wie oft habe ich nicht Schon bei der Niederschrift dieser
 unserer Abenteuer aufrichtig bedauert, infolge der für mich
 festgelegten Länge der einzelnen Erzählungen die Charaktere
 der handelnden Personen nicht so ausarbeiten zu können,
-rate dies auch für den Leser interessant und für die Beweis
-Bin dieser anspruchslosen Geschichten vorteilhaft gewesen
+wie dies auch für den Leser interessant und für die Bewertung
+dieser anspruchslosen Geschichten vorteilhaft gewesen
 wäre.
 
-Kein Richter, kein Arzt, zumeist Docks Menschenkenner
+Kein Richter, kein Arzt, zumeist doch Menschenkenner
 von Berufs wegen, lernt eine solche Fülle merkwürdiger
 Charaktere kennen wie der Kriminalist oder der begabte,
 vertrauenswürdige Detektiv.
 
 Einer der widerspruchsvollsten dieser außergewöhnlichen
 Charaktere war fraglos der Mann, den wir, gegen zehn Uhr
-nen daheim anlangend, in Haralds Arbeitszimmer
+vormittags daheim anlangend, in Haralds Arbeitszimmer
 vorfanden.
 
 Schon im Flur kam uns die alte Köchin Mathilde entgegengestürzt.
-ihre Freude über jeden neuen Klienten habe.
-ich bereits letztens erwähnt: Auch »heute flüsterte sie knallend:
-»Ein Klijent — Klijent ist drin! Hier ist seine Harte.«
+ihre Freude über jeden neuen Klienten habe
+ich bereits letztens erwähnt. Auch heute flüsterte sie strahlend:
+»Ein Klijent — Klijent ist drin! Hier ist seine Karte.«
 
 Auf der Visitenkarte stand mit Tinte geschrieben:
 
@@ -1556,36 +1556,36 @@ den Buchstaben auch nicht eine einzige überflüssige Schleife.
 Harald flüsterte mir zu:
 
 »Also der Freiherr von Irnhartstetten, einer der vier
-Piraten! Der Wähler auch, der uns in den Keller sperrte.«
+Piraten! Der Wächter auch, der uns in den Keller sperrte.«
 
-Dann traten wirr ein.
+Dann traten wir ein.
 
 Und stutzen sofort.
 
-Das war ein alter, etwas gebückter Herr mit anzuweisen
-Vollbart und silberweißen, welligem Scheitel, mit
-einer goldenen. Brille auf der leicht gewölbten Nase
+Das war ein alter, etwas gebückter Herr mit grauweißem
+Vollbart und silberweißem, welligem Scheitel, mit
+einer goldenen Brille auf der leicht gewölbten Nase...
 
-Das hat der Ton eines vornehmen Kaufmanns, war
-in nicht? jener Baron, der im Havel-Hotel in Werder mo-nofelbewassnet
-mit nachlässiger Gleichgültigkeit. die artigen
-brachen Brötchen verzehrt hatte, für den die ganze Umgebung
-Lust gewesen
+Das war der Typ eines vornehmen Kaufmanns, war
+in nichts jener Baron, der im Havel-Hotel in Werder monokelbewaffnet
+mit nachlässiger Gleichgültigkeit die mitgebrachten
+Brötchen verzehrt hatte, für den die ganze Umgebung
+Luft gewesen...
 
-»Aörnfteit,« stellte er sich vor, aus dem Sessel sich reichend.
+»Irnstett,« stellte er sich vor, aus dem Sessel sich erhebend.
 Wir nahmen dann gleichfalls Platz.
 
 Harald wollte die Situation offenbar sofort klären,
-denn er sagte in etwas fühlen Tone:
+denn er sagte in etwas kühlem Tone:
 
-»sie Hallen Name Laster anders, nicht wahr?«
+»Ihr voller Name lautet anders, nicht wahr?«
 
-»Allerdings, Herr Hart Ich bin im Vertrauen. auf
-ihre annimmt zu Ihnen gekommen. Ich bin der Mohn,
-der Sie und Ihren Freund heute in der Verkleidung des..«
+»Allerdings, Herr Harst. Ich bin im Vertrauen auf
+Ihre Großmut zu Ihnen gekommen. Ich bin der Mann,
+der Sie und Ihren Freund heute in der Verkleidung des...«
 
 »Also Baron Irnhartstetten,« kürzte Harald diese Erklärung
-ab, »Weshalb diese Maske, Herr Baron?“.
+ab. »Weshalb diese Maske, Herr Baron?«
 
 »Weil — weil meine Gattin mir heute um sieben Uhr
 entführt worden ist.«
@@ -1593,42 +1593,40 @@ entführt worden ist.«
 Auch Harald konnte eine Bewegung der Ueberraschung
 nicht unterdrücken.
 
-Er fehiwieg eine Weile, ne dann aus ab brachte Zigarren,
+Er schwieg eine Weile, stand dann auf und brachte Zigarren,
 Zigaretten und das Spirituslämpchen herbei.
 
-Irnhartstetten bediente sich zwanglos, wählte eine dun-telsranne
-Prosit und sagte mit der liebenswürdigen Sicher-urit
+Irnhartstetten bediente sich zwanglos, wählte eine dunkelbraune
+Brasil und sagte mit der liebenswürdigen Sicherheit
 des Weltmannes: »Diese Zigarre beweist mir, daß Sie
 <@pagebreak/>
-mir die Vorfälle der verflossenen Nacht nicht weiter nach)-
-tragen.«
+mir die Vorfälle der verflossenen Nacht nicht weiter nachtragen.«
 
-»Da haben Sie rehtHerrBaron. — Ihre Gattin ist die
-Dame, die bei Kießlacks das Fräulein von Schnetters:
+»Da haben Sie recht, Herr Baron. — Ihre Gattin ist die
+Dame, die bei Kießlacks das Fräulein von Schnetters
 spielte...«
 
 »Ja, es ist in Wahrheit Gwendolyn, geborene Kraker,
-
 Neuyork, einzige Tochter und Erbin von Auguch Kraker,
 Konservenfabriken.«
 
-»Des Mislliarbdärs, der im vorigen Jahre ertrank?«
+»Des Milliardärs, der im vorigen Jahre ertrank?«
 
-»30. st
+»Ja.«
 
-»Dann hat Miß Kraker das Zeugnis für. Bad angebliche
+»Dann hat Miß Kraker das Zeugnis für das angebliche
 Fräulein Schnetters sich selbst ausgestellt...«
 
 »Nein. Ella von Schnetters existiert. Es ist meine
 Stiefschwester, die tatsächlich Gesellschaftsdame bei Gwendolyn
 war. — Gestatten Sie, daß ich Ihnen einiges aus
-meinem Leben erzähle.« werde nichts beschönigen. Ich
+meinem Leben erzähle. Ich werde nichts beschönigen. Ich
 war von Kindheit an ein sehr schwieriger Charakter. Mein
-Vater, gänzlich verarmter Gutäbefiker, heiratete mit hier:
-zig Jahren die bekannte spanische Tänzerin Aftcradira. Die:
-sein Ehe einziges Kind bin ich. Meine Mutter starb drei
+Vater, gänzlich verarmter Gutsbesitzer, heiratete mit vierzig
+Jahren die bekannte spanische Tänzerin Astcradura. Dieser
+Ehe einziges Kind bin ich. Meine Mutter starb drei
 Jahre nach meiner Geburt. Was sich an Unausgeglichenheit
-in meinem Wesen einst so störend bemerkbar machte,-
+in meinem Wesen einst so störend bemerkbar machte,
 schreibe ich dem Blute von Mutterseite zu. Lebenslust, Genußhunger,
 Sinn für Romantik, Abenteuerlust und eine
 starke Vorliebe für heißblütige Frauen, dazu noch steter
@@ -1638,14 +1636,14 @@ Bahn. Mein Vater, seit Jahren völlig gelähmt, brauchte
 ständig eine Pflegerin. Meine Stiefschwester Ella, aus der
 zweiten Ehe meines Vaters, fristete selbst als Erzieherin
 nur jämmerlich ihr Leben. Vieles kam zusammen, um mich
-entgleisen zu Laffen. So... ich nahm Bestetunc2ne‘ter
-an und Ware disziplinarisch aus dem Dienst erster:ist —
+entgleisen zu lassen. Ich... ich nahm Bestechungsgelder
+an und wurde disziplinarisch aus dem Dienst entfernt —
 für immer, ging nach Amerika, da mein Vater zur gleichen
-Zeit verstorben war, lernte durch Ella 1920 Gwenkafer
+Zeit verstorben war, lernte durch Ella 1920 Gwendolyn
 Kraker kennen und wurde ihr... Chauffeur.«
 
 <@pagebreak/>
-Nach ein paar Sitzen fuhr er fort, den Zigarrenrauch
+Nach ein paar Zügen fuhr er fort, den Zigarrenrauch
 lässig mit der Hand wegwehend:
 
 »Ich hatte Gwendolyn Kraker meine Verfehlungen
@@ -1654,24 +1652,24 @@ ein, und ich war froh, einen so angenehmen Posten gefunden
 zu haben.«
 
 »Und dann verliebte sich Miß Kraker in Sie, Baron,
-An
+und...«
 
-»So glatt ging das doch nicht, Herr Harst. im Gegen:
-teil, Sie werden bei meiner Liebesgeschichte als Detektiv
-reichlich auf Ihre Neigung kommen. — Sie haben hier in
+»So glatt ging das doch nicht, Herr Harst. im Gegenteil,
+Sie werden bei meiner Liebesgeschichte als Detektiv
+reichlich auf Ihre Rechnung kommen. — Sie haben hier in
 Berlin vor ein paar Tagen den Tod jenes berüchtigten Verbrechers
 »Gentleman-Robb« miterlebt, der lange Zeit der
-Schrecken Neuyorks3 war. (Vergl. Vd. 99 »Anita Armands
+Schrecken Neuyorks war. (Vergl. Bd. 99 »Anita Armands
 Verhängnis«.) Sie wissen, daß zu Gentleman-Robbs Bande
 auch eine gewisse Jane Brack und ein Alfred Orgla gehörten,
 die jetzt hier von der Polizei gesucht werden. — Geben
 Sie kein Zeichen von Ungeduld, Herr Harst. Sie werden sofort
 sehen, daß ich all dies erwähnen mußte. — Mr. August
-Krallen bewohnte mit Gwendolyn ein ‘palastartiges Haus
+Kraker bewohnte mit Gwendolyn ein palastartiges Haus
 am Zentralpark in Neuyork. 1921 im Oktober wurde in
 diesem Hause ein Einbruch verübt. Der Verdacht lenkte
 sich auf mich. Ich wurde verhaftet. Einen Ring, der mit
-gestohlen war, fand man im Versteck! meines Koffers. Zu
+gestohlen war, fand man im Versteck meines Koffers. Zu
 stolz, meine Unschuld zu beteuern, hüllte ich mich in Schweigen,
 zumal ich Gwendolyn damals schon liebte und es nicht
 verwinden konnte, daß sie Es gewesen, die den Detektivinspektor
@@ -1681,123 +1679,123 @@ den Namen ihrer Mutter, von Schnetters, führte, sagte sich
 von mir los, da sie mein beharrliches Schweigen als Schuldbekenntnis
 auffaßte. Ich wurde zu zwei Jahren Zuchthaus
 verurteilt, kam nach Sing-Sing und lernte dort als Sträfling
-Säcke nahen. inzwischen hatte Gwendolyn einen anderen
+Säcke nähen. inzwischen hatte Gwendolyn einen anderen
 Chauffeur eingestellt — nämlich jenen Orgla, der sich
-Hintersteven anderen Namen zugelegt hatte. Am 97. Dezember
+einen anderen Namen zugelegt hatte. Am 27. Dezember
 <@pagebreak/>
-921 gelang ei mir aus Sing-Sing zu entfliehen, Mein
-Distel)/ ein, Entgleister wie ich und Angestellter Eis
+1921 gelang es mir aus Sing-Sing zu entfliehen. Mein
+Freund Berstel, ein Entgleister wie ich und Angestellter einer
+Neuyorker Detektei, nahm mich bei sich auf. Gemeinsam
+suchten wir nun den Diebstahl aufzuklären, den man mir zuschrieb.
+Berstel hatte Erfolg. Aber gerade als Orglas Verhaftung
+erfolgen sollte, hatte er sich bereits aus dem Staube
+gemacht, und ebensowenig konnte Gentleman-Robb, der
+wahre Schuldige, gefaßt werden. immerhin wurde meine
+Schuldlosigkeit bewiesen. Gwendolyn bereute tief, mich
+fälschlich der Polizei angegeben zu haben, und acht Wochen
+drauf waren wir heimlich verlobt und heirateten dann im
+Mai in aller Stille, kamen nach Deutschland und suchten
+hier eine mich schwer belastende Quittung, die ...«
 
-suchten wirr Nr Es den Diebstahl auszufragen, den man mir ausstieß.
-Beil sich haste Erfolg. Aber gerade als Orglas Verhaftung
-?rief Den sollte, hatte er sich bereits ans dem Staube
-gemacht, und) ebensowenig konnte Gentleman-Robb, der
-wahre Schuf dicke, gefaßt werden. immerhin wurde meine
-Kuldlofigi: ist bewiesen. Gmenbolgn bereute tief, mich
-schlich. der, Polizei angegeben zu haben, und acht Wochen
-auf waren wir heimlich verlobt und heirateten dann im
-ah in aller Stille, kamen nach Deutschland und suchten
-er eine mich. schwer belastende Quittung, die .…..«
-
-»Das wissen wir, Baron ..«
+»Das wissen wir, Baron...«
 
 »Ah — wohl durch Kießlack. wissen Sie aber auch, daß
-Gwendolyn; es dann war, die als Ella von Schnetters
-schließlich den Plan entwarf
+Gwendolyn es dann war, die als Ella von Schnetters
+schließlich den Plan entwarf...«
 
-»Auch das willen wir. Die Piratenstreiche galten der
-Mischung.
+»Auch das wissen wir. Die Piratenstreiche galten der
+Quittung.«
 
-So, dann dann ich mich Finger fassen, Herr Harst. Sie
+»So, dann dann ich mich kürzer fassen, Herr Harst. Sie
 haben also über diese Freibeuterfahrten sich das Richtige
-zusammen geleimt
+zusammen gereimt...«
 
 »Eine Frage: wer waren die drei anderen Piraten?«
 
-Ich komme schon Darauf zu Sprechen. Sie können sich
-Studenten, daß Gwendolyn diese Quittung auf keinen Fall ja
-den Händen dieser fünf fragwürdigen Ehrenmänner be
-lassen wollte. Sie trug jetzt meinen Namen, und sie hatte
-äuerft die Absicht, die Quittung diesen Schiebern abzukaufen.
-Wir reihten zusammen mit Ella, Hupe von Berstel und
-dessen Frau hierher. Berstel versuchte, die Quittung zu stehlen,
+»Ich komme schon Darauf zu Sprechen. Sie können sich
+denken, daß Gwendolyn diese Quittung auf keinen Fall in
+den Händen dieser fünf fragwürdigen Ehrenmänner belassen
+wollte. Sie trug jetzt meinen Namen, und sie hatte
+zuerst die Absicht, die Quittung diesen Schiebern abzukaufen.
+Wir reisten zusammen mit Ella, Hugo von Berstel und
+dessen Frau hierher. Berstel versuchte, die Quittung zu stehlen.
 Wir konnten jedoch nicht herausbringen, wer sie in
-Verwahrung hatte, Da tat Gwendolyn, die sehr energischer
-Natur ist, ein Uebriges und lieh sich von Kießlacks als
-Veselschafterin engagierea. Und sie war’s, die feststellte,
+Verwahrung hatte. Da tat Gwendolyn, die sehr energischer
+Natur ist, ein Uebriges und ließ sich von Kießlacks als
+Gesellschafterin engagieren. Und sie war’s, die feststellte,
 daß die Quittung noch vorhanden war und daß einer der
 fünf sie stets bei sich trüge.«
 
 <@pagebreak/>
 »Das bestätigt nur meine Vermutungen, Baron.«
 
-»Wir hatten die Beute der Heberlälle im Kießlackschen
-Garten versteht
+»Wir hatten die Beute der Ueberfälle im Kießlackschen
+Garten versteckt...«
 
-ins dort stahl sie Orgla
+»Und dort stahl sie Orgla...«
 
-Sei war’s an Ahnen exsiaunti herzufallen.
+Jetzt war’s an Irnhartstetten hochzufahren.
 
 »Orgla?« meinte er zweifelnd.
 
-»Ja — Unterst oder Frech Orgla war der Mann, den
+»Ja — Alfred oder Fredi Orgla war der Mann, den
 Sie niederschlugen und mit Hilfe Ihrer Gattin in den Keller
-trugen. Bestimmt war es Trotz, der uns beide, Schraut
+trugen. Bestimmt war es Orgla, der uns beide, Schraut
 und mich, dann überwältigte, die Beute im Keller verscharrte,
-wo wir sie fanden, und entfloh
+wo wir sie fanden, und entfloh...«
 
-»So sind die Wertsachen wieder Mr
+»So sind die Wertsachen wieder in...«
 
-»: «, in Kießlacks Besitz — sämtlich, bis auf Wurms«
+»...in Kießlacks Besitz — sämtlich, bis auf Wurms
 Brieftasche.«
 
 »Und die hat jetzt der Entführer meiner Frau samt
-der verhängnisvollen Quittung im Selig, Herr Harst
+der verhängnisvollen Quittung im Besitz, Herr Harst...«
 
 »Berichten Sie genau, wie Ihre Gattin entführt wurde,
 Baron.«
 
-»Sofort. — Giwendolyn und ich verließen mit Nero an
+»Sofort. — Gwendolyn und ich verließen mit Nero an
 der Leine gegen halb fünf morgens den Garten des Palais
 durch eine Seitenpforte. Um unsere Verfolgung zu erschweren,
 trennten wir uns dann. Gwendolyn fuhr mit einem
-Auto nach dem Vorort Kohlhasenbrück, wo wir eine kleine
+Auto nach dem Vorort Kohlhafenbrück, wo wir eine kleine
 Villa gemietet hatten. Ich bestieg mit Nero und den Koffern
 ein anderes Auto, begab mich erst nach dem Anhalter
 Bahnhof, löste hier zum Schein eine Fahrkarte nach Dresden
 und fuhr dann erst, wieder auf Umwegen ebenfalls
-nach Stohlhafenbrüd, wo ich Gwendolyn bereits vorzufinden
+nach Kohlhafenbrück, wo ich Gwendolyn bereits vorzufinden
 hoffte. Aber — sie war nicht da! Sie kam auch nicht.
 Wir haben bis acht Uhr mit steigender Unruhe gewartet, wir,
 nämlich das Ehepaar Berstel, Ella und ich. Zehn Minuten
-nach gekocht schrillte das Telephon. Ich meldete mich. Eine
-Männerstimme, heiser und so wer ersländlich, sagte kurz:
+nach acht schrillte das Telephon. Ich meldete mich. Eine
+Männerstimme, heiser und schwer verständlich, sagte kurz:
 »Ihre Frau ist in meiner Gewalt. Sie werden bald von mir
-mehr hören. Sollten Sie fihb an dies Polizei oder an Harald
+mehr hören. Sollten Sie sich an die Polizei oder an Harald
 Harst wenden, werde ich Sie als Piraten zur Anzeige
 <@pagebreak/>
 bringen.« — Dann hängte der Mensch ab, Bevor ich noch
-etwas erwidern konnte.: Meine ungeheure Bestürzung
+etwas erwidern konnte. Meine ungeheure Bestürzung
 können Sie sich leicht vorstellen, Herr Harst. Zum Glück
-war Freund Berstel, ein intelligenter Kopf, besser mit sollen
-Zangen bewandert als ich. Wir vier bestiegen, nachdem
-wir die beiden Dienstboten abgelohnt Hatten, mit unserem
-Koffern und Nero die Miotorjacht, die Gwendolyn gekauft
-hatte, und fuhren den Kanal entlang in die Havelseen, baute
-weiter bis Berlin. Daß uns jemand gefolgt war, hielten:
-»wir für ausgeschlossen. -Trotzdem hatte ich mir unterwegs-bereits
-diese Maske zurecdhtgemtacht, in der ich mich ganz sicher:
-Mr So kam ich zu Ihnen, um Sie zu bitten, mir zu hell
-Ofen. Sie werden sich selbst sagen, was für mich und Garn,
+war Freund Berstel, ein intelligenter Kopf, besser mit solchen
+Dingen bewandert als ich. Wir vier bestiegen, nachdem
+wir die beiden Dienstboten abgelohnt Hatten, mit unseren
+Koffern und Nero die Motorjacht, die Gwendolyn gekauft
+hatte, und fuhren den Kanal entlang in die Havelseen, dann
+weiter bis Berlin. Daß uns jemand gefolgt war, hielten
+wir für ausgeschlossen. Trotzdem hatte ich mir unterwegs
+bereits diese Maske zurechtgemacht, in der ich mich ganz sicher
+fühlte. So kam ich zu Ihnen, um Sie zu bitten, mir zu helfen.
+Sie werden sich selbst sagen, was für mich und
 Gwendolyn sowie für Berstels und Ella auf dem Spiele steht.
-ie Leute, die meine Frau entführt haben, können die un-eheuerlicksten
-Erpressungen an uns verüben. Wir sind ja
-»auch bereit, Gwendolyn und die Quittung mit Millionen
-uszulöôsen, aber die Beschattung des Geldes wird auf große:
-chwwicrigleiten stoßen, da Gwendolyns Vater ein sehr der-lausuliertes
-Testament hinterlassen hat, das meiner Frau
-ie freie Verfügung über das Riesenvermögen erst vom 26.
-ebensjahre an gestattet, während die Erpresser doch ohne
+Die Leute, die meine Frau entführt haben, können die
+ungeheuerlichsten Erpressungen an uns verüben. Wir sind ja
+auch bereit, Gwendolyn und die Quittung mit Millionen
+auszulösen, aber die Beschaffung des Geldes wird auf große
+Schwierigkeiten stoßen, da Gwendolyns Vater ein sehr
+verklausuliertes Testament hinterlassen hat, das meiner Frau
+die freie Verfügung über das Riesenvermögen erst vom 26.
+Lebensjahre an gestattet, während die Erpresser doch ohne
 Zweifel Unsummen fordern werden.«
 
 <h2>2. Kapitel.</h2>
@@ -1822,7 +1820,7 @@ armes Ding, Nachricht geben solle.« Nie
 
 »Nicht Ichlechti« nickte Harald. »Herr von Berstel ii
 auf der Höhe. Trotzdem. schlage ich Sitzung anderes vor.
-Schraut und ich werden uns in der Villa nach Kohlhasenbrück
+Schraut und ich werden uns in der Villa nach Kohlhafenbrück
 hinausbegeben und dort den Baron von Irnhartstetten
 und Berstel spielen. Trugen Sie beide dort Verkleidung?«
 
@@ -1854,7 +1852,7 @@ Um zwölf Uhr verließ zunächst der Baron unser Heim
 durch die Vorgartentür, dann wir durch den Gemüsegarten.
 Spione waren nicht vorhanden. So fuhren wir denn
 mit der Bahn bis Wannsee und gingen, von da bald den
-»Wald nach. Kohlhasenbrück.
+»Wald nach. Kohlhafenbrück.
 
 Irnhartstetten hatte uns für die Köchin und das Stubenmädchen
 <@pagebreak/>
@@ -1980,7 +1978,7 @@ Die Aöchin grinste. »Wie, die Minna ziert sich?! Aber
 Minna? Sie sind Weh sonst nicht so! Gestern noch haben Sie
 den Nicht eins der einen Flasche ;..!« Ohr
 
-Vi »Es! rot, gehen Sie,« unterbrach Harst. die ehrliche
+M »Es! rot, gehen Sie,« unterbrach Harst. die ehrliche
 Dicke. »Minna wird trinken!«
 
 Doch — mir Hatten die rote Minna unterschätzt.
@@ -2115,7 +2113,7 @@ Kopf mit dem Spitzenhäubchen hin und her wiegend.
 »Es ist ohne Zweifel eine geheime Botschaft für die
 rothaarige Minna, liebe Mutter, — meines Erachtens eine
 Nachricht für sie, wohin sie sich wenden soll, sobald ihre Spi-onentätigfeit
-in der Villa in Kohlhasenbrück beendet ist, und
+in der Villa in Kohlhafenbrück beendet ist, und
 zwar eine sehr vorsichtige Nachricht, eben als Rebus geschrieben.
 Der Pfeil deutet an, daß sie sich dorthin begeben soll,
 wo der Adler, das s, die Bäume und das »er« zu suchen
@@ -2586,7 +2584,7 @@ hat sie gesehen. Wir haben uns schief gelacht! Hier motor-radeln!«
 
 »Wo sah er sie denn?«
 
-»Drüben am Badcstrand. Sie schaute zu, wie ein
+»Drüben am Badestrand. Sie schaute zu, wie ein
 paar von uns ein Abendbad nahmen. — noch was?« —
 Und dann eilte er hinter Süßing her. —
 
