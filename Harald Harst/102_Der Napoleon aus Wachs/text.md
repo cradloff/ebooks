@@ -5,1433 +5,1426 @@
 <h2>1. Kapitel.</h2>
 <h3>Der gestrandete Segler.</h3>
 
-Greifßivafber Die: eine Meine flache Insel dreh von
-Nügen, ein bescheidenes Helgoland der Osisee — ganz be-
-scheiden. Zum Teil steil absallende Ufer, ein halbes Hun-
-dert Bewohner, im Sommer einige Vadégäste.
+Greifswalder Oie: eine kleine flache Insel südlich von
+Rügen, ein bescheidenes Helgoland der Ostsee — ganz bescheiden.
+Zum Teil steil abfallende Ufer, ein halbes Hundert
+Bewohner, im Sommer einige Badegäste.
 
-»Am Abend des 9. Juli« beginnt die Geschichte« des
-wächfernen Napoleon. Oder — hätte ih sie besser nennen
-foffen: ret Scharfrichter von Nürnberg, Johann Salt,
-ficber« ?
+Am Abend des 9. Juli beginnt die Geschichte des
+wächsernen Napoleon. Oder — hätte ich sie besser nennen
+sollen: »Der Scharfrichter von Nürnberg, Johann Saltsieder«?
 
-Ja — das begann so mit bleigrauiem Himmel und völ-
-figer dinbstilte, Wir saßen abends neun Uhr auf Fischer
-Cchluderjans umgekipptem alten Boot, und Sehluderian
-»vertellte« Secerlebnisse, Harsts Zigarren mcetten seine
-Phonlasie ins Ungemessene. So wie Jan Schluder log, log
-noh keiner, der dreißig Jahre Scemann gewesen.
+Ja — das begann so mit bleigrauem Himmel und völliger
+Windstille. Wir saßen abends neun Uhr auf Fischer
+Schluderjans umgekipptem alten Boot, und Schluderjan
+»vertellte« Seeerlebnisse. Harsts Zigarren weckten seine
+Phantasie ins Ungemessene. So wie Jan Schluder log, log
+noch keiner, der dreißig Jahre Seemann gewesen.
 
-en OCN TIE et wats sccte Schluderjan und kaite am
-Zigarrenstumme!l. »Et jift’n Orkan, die Harrens — wetten?«
+»Heit’ jist et wat,« sechte Schluderjan und kaute am
+Zigarrenstummel. »Et jist’n Orkan, die Harrens — wetten?«
 
-»Lieber niht!« meinte Harald. »Aber ne« Digarre
-sollen Ste noch haben, Schluder .… . Da — bitte,«
+»Lieber nicht!« meinte Harald. »Aber ne Zigarre
+sollen Sie noch haben, Schluder... Da — bitte,«
 
-Der Sicbzigjährige, ein prachtvolles Modell eines Fie
-schergreises, nahm mit den teerbeklexten Händen die er
-garre.
+Der Siebzigjährige, ein prachtvolles Modell eines
+Fischergreises, nahm mit den teerbeklexten Händen die
+Zigarre.
 
-»Et jift wat, Yon Im! meine MRA un
+»Et jist wat, von wejen meine Elefantennarbe...
 <@pagebreak/>
-Het sticht und runorkt, die Narbe ...» erklärte ec im Tone
-ciner Pythia und streichelte den linken Oberschenkel, wo die
+Hei sticht und rumort, die Narbe...« erklärte er im Tone
+einer Pythia und streichelte den linken Oberschenkel, wo die
 Elefantennarbe saß.
 
-Wir kannten sie. Sie existierte. Nur daß sie vom Stoß-
-zahn eines Elesanten herrührte, war Schwindel. Schluder-
-tan hatte dicse Elefantenjagd nämlih nach Australien, ins
-wildeste Jnnere, verlegt, weil ex eben annahn!, daß es »en
-dort dicse dichäntigen Nüsselträgr gäbe.
+Wir kannten sie. Sie existierte. Nur daß sie vom Stoßzahn
+eines Elefanten herrührte, war Schwindel. Schluderjan
+hatte diese Elefantenjagd nämlich nach Australien, ins
+wildeste Innere, verlegt, weil er eben annahm, daß es auch
+dort diese dickhäutigen Rüsselträger gäbe.
 
-Der Nespekt vor scinen sicbzig Jahren verbot ung,
-den braven Fan eines besseren zu belehren. So blicb es denn
-bei der Elefantennarbe aus Anfiralien, —
+Der Respekt vor seinen siebzig Jahren verbot uns,
+den braven Jan eines besseren zu belehren. So blieb es denn
+bei der Elefantennarbe aus Australien, —
 
-Schluderian, zur Zeit unser Faktotum in der Blad-
-hausvila behielt recht.
+Schluderjan, zur Zeit unser Faktotum in der Blockhausvilla
+behielt recht.
 
 Um ein Uhr morgens weckte Harald mich,
 
-»Zieh' Dich an. Ein Schiff ist in Scenot.«
+»Zieh’ Dich an. Ein Schiff ist in Seenot.«
 
-Der Sturm umheulte die Villa derart, daß ih bereits
-einige Male wach geworden war. MA
+Der Sturm umheulte die Villa derart, daß ich bereits
+einige Male wach geworden war.
 
-Schiff in Nol!! — Wie ging’s da so fix in die Kleider!
+Schiff in Not!! — Wie ging’s da so fix in die Kleider!
 
-Eine Echonerbart lag nordöstlich der Oie auf einer
-Sandbayk milten in einer haushohen Brandung. Mit Hilse
-des Glases erkannte ich in der lichten Sommernacht deut-
-lich ein Boot, das jeht von dem bereits zum Wrack geschla-
-genen Segler abfiieh, Das Voot war zehn Minuten drauf
-eobidehn en im Fifcherhafont,
+Eine Schonerbark lag nordöstlich der Oie auf einer
+Sandbank mitten in einer haushohen Brandung. Mit Hilfe
+des Glases erkannte ich in der lichten Sommernacht deutlich
+ein Boot, das jetzt von dem bereits zum Wrack geschlagenen
+Segler abstieß. Das Boot war zehn Minuten drauf
+wohlbehalten im Fischerhafen,
 
-Harald und ich, tet Klee Nefpefäperfonen, fanden
-ganz vorn am Bollioerk, als es landete.
+Harald und ich, restlos Respektspersonen, standen
+ganz vorn am Bollwerk, als es landete.
 
-Merkwürdig: da war unter den neun Jusassen ein
-Mensch, ber wie cin Verrückter brüllte,
+Merkwürdig: da war unter den neun Insassen ein
+Mensch, der wie ein Verrückter brüllte,
 
-»Set het nt Schedder (vor Angst) een Kitax wejkreegen,«
+»Hei het ut Schedder (vor Angst) een Knax wejkreegen,«
 grunzte Schluderjan hinter uns.
 
-So schien’s, Der dicke Kerl. da im Boot brüllte jeht
-auss neue: »Jh bin ruiniert — — ruiniert! Mein Auto-
-mat — mein Wunderantomat!!«
+So schien’s. Der dicke Kerl da im Boot brüllte jetzt
+aufs neue: »Ich bin ruiniert — — ruiniert! Mein Automat
+— mein Wunderautomat!!«
 
-Bis einer der finnifchen Matrofen (bie Schonerbark
-hieß Gergovia und kam aus Helsingsors) den Kerl packle
-und mit Niesenkrast zu uns nach oben auss Bollwerk schmikß.
+Bis einer der finnischen Matrosen (die Schonerbark
+hieß Gorgovia und kam aus Helsingfors) den Kerl packte
+und mit Riesenkraft zu uns nach oben aufs Bollwerk schmiß.
 U
 <@pagebreak/>
-Der Dide rappelte fich fofort wieder hoch und schriè
+Der Dicke rappelte sich sofort wieder hoch und schrie
 den Oie-Fischern zu:
 
-»Eine Million, wer mich wieder nach dem Wrack ru-
-dert! Zwei Millionen — — drei Millionen!!« —
+»Eine Million, wer mich wieder nach dem Wrack rudert!
+Zwei Millionen — — drei Millionen!!« —
 
-Hrel Millionen — dafür konnte man am 10. Juli 1922
-noch allerhand faufen! Aber — seiner der Die-Fifcher biß
-an — seiner! Der Dicke rannte wie ein ZFrrsinniger hin
-und her. Es war ein Deutscher namens Robba, dent Di-
-aleft nah cin Berliner. Jmmer wieder bot er drei Milli-
-onen dem, der die Kiste mit dem Wunderautomaten holte.
-Die, Absicht, selbst mit hinüberzufahren, hatte er ausgegeben.
+Drei Millionen — dafür konnte man am 10. Juli 1922
+noch allerhand kaufen! Aber — keiner der Oie-Fischer biß
+an — keiner! Der Dicke rannte wie ein Irrsinniger hin
+und her. Es war ein Deutscher namens Robba, dem Dialekt
+nach ein Berliner. Immer wieder bot er drei Millionen
+dem, der die Kiste mit dem Wunderautomaten holte.
+Die Absicht, selbst mit hinüberzufahren, hatte er aufgegeben.
 
 Das Benehmen des Mannes war ebenso abstoßend
-wie anderseits auch fontifcdh und mitleiderregend. Unter
-den Zusassen des Bootes halte sich noch ein Maun befunden,
-ein jüngerer Mensch mit blassem seinen Gesicht, Dies war
-der cinzige, der sih um die Kiste: glcichsalls sorgte, freitich
-in gang anderer Art, in einer slumnren, al Verzweiflung
-grenzenden Augfl, die daher and weit mehr zu Herzen ging
-afs die des zappeligen Dirken, der ven Züngeren (roy sele
-ner Erregung mit einem gewissen Refpett behandelte. —
+wie anderseits auch komisch und mitleiderregend. Unter
+den Insassen des Bootes hatte sich noch ein Mann befunden,
+ein jüngerer Mensch mit blassem feinen Gesicht. Dies war
+der einzige, der sich um die Kiste gleichfalls sorgte, freilich
+in ganz anderer Art, in einer stumpfen, an Verzweiflung
+grenzenden Angst, die daher auch weit mehr zu Herzen ging
+als die des zappeligen Dicken, der den Jüngeren trotz seiner
+Erregung mit einem gewissen Respekt behandelte. —
 
 Dieser Robba schien nun aus irgendeinem Grunde
-Haralds Sntereffe errent zu haben, denn. Harft hatte mir zus
-geftäftert: »Hallen wvir uns mehr abseits, - ’ Mnbba soll nicht
-aus uns ansmerfsam verden,«
+Haralds Interesse erregt zu haben, denn Harst hatte mir zugeflüstert:
+»Halten wir uns mehr abseits. Robba soll nicht
+auf uns aufmerksam werden,«
 
-Juzwifchen Hatte ber Worboftartan eher Hoch an Wut
+Inzwischen Hatte der Nordostorkan eher noch an Wut
 zugenommen. An der Mole des Fischerhafens war längst
-alles verfannnelt, was auf der Oie wohnte. Der Gemein-
-devorsteher hatte die völlig durchnäßte Besaßung des finn-
-Sänpifchen Seglers mit trodenen Sachen verfehen, Nur ber
-dicke Nobba dachte uicht daran, sich umzuzichen, und much
-ber schlanke, junge Mensch mit dem blassen Gesicht, ebenfalls
-ein Deutscher, blieben in ihren nassen Kleidern und beob-
-achteten unausgeseßt das zumeist von Gischt vollständig eilte
-gepütte Wrad.
+alles versammelt, was auf der Oie wohnte. Der Gemeindevorsteher
+hatte die völlig durchnäßte Besatzung des finnländischen
+Seglers mit trockenen Sachen versehen. Nur der
+dicke Robba dachte nicht daran, sich umzuziehen, und auch
+der schlanke, junge Mensch mit dem blassen Gesicht, ebenfalls
+ein Deutscher, blieben in ihren nassen Kleidern und beobachteten
+unausgesetzt das zumeist von Gischt vollständig eingehüllte
+Wrack.
 
-Harst nahm jeht den Kapitän der unglikflichen Scho-
-nerbart unausjällig beiseite.
+Harst nahm jetzt den Kapitän der unglücklichen Schonerbark
+unauffällig beiseite.
 
 <@pagebreak/>
-Herr Dabbrö war ein Scemann vom neuen Schlage,
-ein gcbildeler Mann mit tadellosen Umgangssormen.
+Herr Dabbrö war ein Seemann vom neuen Schlage,
+ein gebildeter Mann mit tadellosen Umgangsformen.
 
-Wir stellten uns mit ihm hinter einen Brettershuppen.
+Wir stellten uns mit ihm hinter einen Bretterschuppen.
 
-»Jh bin der Berliner Privatdetektiv Harald Harft,«
-erklärte Harald hier. »Würden Sie nitr einige Fragen ge
-statten, Herr Kapitän?«
+»Ich bin der Berliner Privatdetektiv Harald Harst,«
+erklärte Harald hier. »Würden Sie mir einige Fragen gestatten,
+Herr Kapitän?«
 
-»Ah — Herr Harft...1— Gern — fragen Sie mır.»
+»Ah — Herr Harst...! — Gern — fragen Sie nur.«
 
-»Dieser Nobba Ich Artift, nicht wahr? Wo kam er an
-ord?
+»Dieser Robba ist Artist, nicht wahr? Wo kam er an
+Bord?«
 
-"on Riga. Er wollte billig nach Swinemtilinde. Er
-war in Riga in einem Barictee mit seinem Napoleon aus
-Wachs aufgetreten, einem Automaten, der gehen und spre-
-chen kann.«
+»In Riga. Er wollte billig nach Swinemünde. Er
+war in Riga in einem Varietee mit seinem Napoleon aus
+Wachs aufgetreten, einem Automaten, der gehen und sprechen
+kann.«
 
-»Wie heißt der andere Deutsche ?«
+»Wie heißt der andere Deutsche?«
 
-»Der kam auch in Riga an Bord und heißt Wüiltner,
+»Der kam auch in Riga an Bord und heißt Wüllner,
 Hans Wüllner, ist ebenfalls Artist und zwar Jongleur. Er
-hat Nobert Robha erst in Niga konnen gelernt.«
+hat Robert Robba erst in Riga können gelernt.«
 
-»Der Napoleon aus Wachs sleht wohl in elner Kiste
+»Der Napoleon aus Wachs steht wohl in einer Kiste
 verpackt unten im Laderaum?«
 
-»Nein, in Nobhaz Sobine, Die Kisle jebt im Boote
-mitzunehmen war unmöglich. Jech riet Nobba, den Auto«
-maten ohne die Kiste zu verstauen. Das wollte er nicht. Eben-
-sowenig wollle er das Schiff verlassen, Wir haben ihn
-mit Gewalt ins Boot heben miissen,«
+»Nein, in Robbas Kabine. Die Kiste jetzt im Boote
+mitzunehmen war unmöglich. Ich riet Robba, den Automaten
+ohne die Kiste zu verstauen. Das wollte er nicht. Ebensowenig
+wollte er das Schiff verlassen. Wir haben ihn
+mit Gewalt ins Boot heben müssen,«
 
-Harald dachle nah. »Herr Kapitän, bitte verschwele-
-gen Sie Nobba und Willner, daß ih Sie ausgesragt habe.
-Lo will ehrlich sein: irgendetwas slimmt mit diesem Nobba
-nicht«
+Harald dachte nach. »Herr Kapitän, bitte verschweigen
+Sie Robba und Wüllner, daß ich Sie ausgefragt habe.
+Ich will ehrlich sein: irgendetwas stimmt mit diesem Robba
+nicht!«
 
 »So?! Weshalb denn, Herr Harst? Bisher benahm
-der Me ich fib ganz verständig. Seine Papiere sind In be
-ster Ordnung, und..."
+der Mensch sich ganz verständig. Seine Papiere sind bester
+Ordnung, und...«
 
-»Mag sein. Sie Tchweinen also. — Auf Wiederfehen.«
+»Mag sein. Sie schweigen also. — Auf Wiedersehen.«
 
-Harft schlängelte sic jept an den alten Schluderjan here
-an. Wir nahmen Jan Schluder ebensalls hinter den BEN
-terfehuppen mit,
+Harst schlängelte sich jetzt an den alten Schluderjan Heran.
+Wir nahmen Jan Schluder ebenfalls hinter den
+Bretterschuppen mit,
 
 <@pagebreak/>
-Re »San, ‘joiry bas« Brad völlig auseinandergehen?«
-leagte Hark
+»Jan, wird das Wrack völlig auseinandergehen?«
+fragte Harst
 
-»Farosk, bat jeiht zum Dübel, Herr Harst. Dat is ja
-man fon moderner Dreck vou’n Schipp!« Er fpudie ge
-riugshäßig aus. »Dei Hedaufbau mit vei Kajütens 18
-all zum Dübel,« fügte er hinzu. »De olle Jan hedd beeire
-Oogeu as wie dei junge &Kierls. Vou’u Heckausbau steiht
-sein Pfosleu mehr.« AARE
+»Jawoll, bat jeiht zum Dübel, Herr Harst. Dat is ja
+man son moderner Dreck von’n Schipp!« Er spukte geringschätzig
+aus. »Dei Heckaufbau mit dei Kajütens is
+all zum Dübel,« fügte er hinzu. »De olle Jan hedd beetre
+Oogen as wie dei junge Kierls. Von’n Heckaufbau steiht
+kein Pfosten mehr.«
 
-Jan ariuste plöhlich. - »Dat is for’u ollen Jan wedder
-cen reeutliches Jeschäst, Herr Harst ... Slraudgut —, do
-heizt de olle Fan ben ganzen inter sein Kamin mit bei
-Trüuunerus,«
+Jan grinste plötzlich. »Dat is for’n ollen Jan wedder
+een reentliches Jeschäft, Herr Harst... Strandgut —, do
+heizt de olle Jan den ganzen Winter sein Kamin mit dei
+Trümmerns,«
 
-«Werden die denu hier angetrieben ?«
+»Werden die denn hier angetrieben?«
 
-»Nu, n° anneru wilrd’ de ole Jan dat ulch seggen, Herr
-Harft. Wberft bei Sie beide ... Sie hollen ja dreewer det
-Muhl. Also dei Trümmerns sein Glock viere rum brüben
-an’n Weslsirand anjespeelt. Do geibt eben ne Strömung
-ierst in See und bögt dann ivedper aif.«
+»Nu, n’ annern würd’ de olle Jan dat nich seggen, Herr
+Harst. Aberst bei Sie beide... Sie hollen ja dreewer det
+Muhl. Also dei Trümmerns sein Glock viere rum drüben
+an’n Westerland anjespeelt. Do geiht eben ne Strömung
+ierst in See und bögt dann wedder aff.«
 
-»Bähren Cie ung dorthin, »San. Sie belommen ein
-anständiges Zrinfgeld.«
+»Führen Sie uns dorthin, Jan. Sie bekommen ein
+anständiges Trinkgeld.«
 
-»Baut, gaut, Herr Harst. Aberst Muhl hollen, die Har-
-rens!« Mühl hollen!« - PLEAS
+»Gaut, gaut, Herr Harst. Aberst Muhl hollen, die Harrens!«
+Muhl hollen!«
 
-Wir drückten uns mit San heimlich Kavon, kamen zur
-Villa, nahmen jeder einen langen Bootshaken unit und )jvan-
-derten über die flache Jusel an weidendeu Schasen und Zie-
-gen vorbei dem Weststraude zu.
+Wir drückten uns mit Jan heimlich davon, kamen zur
+Villa, nahmen jeder einen langen Bootshaken mit und wanderten
+über die flache Insel an weidenden Schafen und Ziegen
+vorbei dem Weststrande zu.
 
 Hier, wo man sich unter Wind befand, war die See
-völlig ruhig. Erst weiter dräußen bewies der Ortan seine
-Macht und warf die dunkle Flut zu rasch auwachseuden, gen
-Westen davonrolleuden Wogen empor.
+völlig ruhig. Erst weiter draußen bewies der Orkan seine
+Macht und warf die dunkle Flut zu rasch anwachsenden, gen
+Westen davonrollenden Wogen empor.
 
-Dar alte Jan Schluder stieg uns. voran zu einer klei-
-nen Bucht hinab, die wir bereits lannten. Es war dies un-
-ser Freibad, und häufig waren wir guch nach der Sandbauk
-hinausgeschwommen, die im: Bogen der Bucht vorgelagert
-war. San tvaleie jet mit seinen bis zum Leibe emporrei-
-chenden Fischerstieseln bedächtig über eine Reihe von Riffen
+Dar alte Jan Schluder stieg uns voran zu einer kleinen
+Bucht hinab, die wir bereits kannten. Es war dies unser
+Freibad, und häufig waren wir auch nach der Sandbank
+hinausgeschwommen, die im Bogen der Bucht vorgelagert
+war. Jan watete jetzt mit seinen bis zum Leibe emporreichenden
+Fischerstiefeln bedächtig über eine Reihe von Riffen
 <@pagebreak/>
-einige »dreißig Meter in die See hinaus.
+einige dreißig Meter in die See hinaus.
 
-Treckt jau (Euch) man dei Sieibe ls und be Büren
-rief er guigelaunt.
+»Treckt jau (Euch) man dei Steibels und de Büxen
+ut,« rief er gutgelaunt.
 
-Wir taten’s, und untervärts im adamitifchen Kostüm
-folgten wix Kan anf dem jchlüpfrigen Pfade, benugpten die
-Bootshafen al3 Stübe und gelangten fo schließlich auf eine
-»Zunge der Sandbank, wo das Wasser uns kaum bis zu den
-halben Oberscheukeln reichte und wir auf dem Saudgrunde
-seslten Fuß fassen konnten. RN
+Wir taten’s, und unterwärts im adamitischen Kostüm
+folgten wir Jan auf dem schlüpfrigen Pfade, benutzten die
+Bootshaken als Stütze und gelangten so schließlich auf eine
+Zunge der Sandbank, wo das Wasser uns kaum bis zu den
+halben Oberschenkeln reichte und wir auf dem Sandgrunde
+festen Fuß fassen konnten.
 
-Die Morgendämmerung kam. Das hier zlemlich hohe
-Felseuusex schübte uus gegen Sicht vom Fischerhasen her...
-»Hler am Westslraude besand sih keine lebende Seele.
-Wir drei ftanden dicht beieinander. Schluderjan äugte scharf
-nach Norden zu. An der gefräufelten Wafferoberfläche er.
-fannie man unschwer eine. scharse Strömung, die zwischen
-User und Sandbank auf uns zuhielt.
+Die Morgendämmerung kam. Das hier ziemlich hohe
+Felsenufer schützte uns gegen Sicht vom Fischerhafen her...
+Hier am Weststrande befand sich keine lebende Seele.
+Wir drei standen dicht beieinander. Schluderjan äugte scharf
+nach Norden zu. An der gekräuselten Wasseroberfläche erkannte
+man unschwer eine scharfe Strömung, die zwischen
+Ufer und Sandbank auf uns zuhielt.
 
-San »vertellte« uns, wat er hier shon so allens an
-Strandgoof« geborgen haite.
+Jan »vertellte« uns, wat er hier schon so allens an
+»Strandgoot« geborgen hatte.
 
-Ein schlauer Fuchs war der Alte. Er hatte sein Geheim-
-nis seit fünszehn Jahreu bewahrt, — auf einem fo klei-
-nen Fleckchen Fels wirklich ein Kunsistück.
+Ein schlauer Fuchs war der Alte. Er hatte sein Geheimnis
+seit fünfzehn Jahren bewahrt, — auf einem so kleinen
+Fleckchen Fels wirklich ein Kunststück.
 
-Jumer heller wurde es uun, obwohl der Himmel dun-
-kelgrau blieb. Es begann facht zu reguen. So ein Regen,
-»der. in seinen Tropfen rieselt und doch dicht wie Nebel ist. -
-»Jau sluchte, Er sürchtiete, daß ihm ein Plankenstück entge-
-»hen föunte. Dann ein weit ausholeuder Schlag nut felgen
-Bootöhaten ... Unid — er hatte eine Kajütentür erwischt.
+Immer heller wurde es nun, obwohl der Himmel dunkelgrau
+blieb. Es begann sacht zu regnen. So ein Regen,
+der in feinen Tropfen rieselt und doch dicht wie Nebel ist.
+Jan fluchte. Er fürchtete, daß ihm ein Plankenstück entgehen
+könnte. Dann ein weit ausholender Schlag mit seinen
+Bootshaken... Und — er hatte eine Kajütentür erwischt.
 
-Wir halfen nun. Jedes Stückchen Holz wurde gebor-
-gen, Nur — die Kiste kam nicht, auf die Harald doc so hi
-fest gerechnet hattel
+Wir halfen nun. Jedes Stückchen Holz wurde geborgen.
+Nur — die Kiste kam nicht, auf die Harald doch so
+fest gerechnet hatte!
 
 Um fünf Uhr morgens, als es noch heftiger regnete,
-sagte Harald: »Jch gebe es aus, Jan. Schraut und ich der-
-abschiedeu uns. Sollieu Sie die Kisle noch aussischen, daun
-weden er uns sofort.«
+sagte Harald: »Ich gebe es auf, Jan. Schraut und ich
+verabschieden uns. Sollten Sie die Kiste noch auffischen, dann
+wecken Sie uns sofort.«
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Dis Napoleon aus Wachs.</h3>
+<h3>Die Napoleon aus Wachs.</h3>
 
-Wir Tehrten aus Ufer zurild, zogen unfere Sachen an.
-»Jau sah draußen iu den Regenschleiern wie ein Riese aus.
-Neven thym staute si das Wrackholz höher und höher.
+Wir kehrten ans Ufer zurück, zogen unsere Sachen an.
+»Jau sah draußen in den Regenschleiern wie ein Riese aus.
+Neben firm staute sich das Wrackholz höher und höher.
 
 Wir gingen natürlich nicht heim. Wir schlichen am
-User entlang, sprangen vou Stein zu Stein...
+Ufer entlang, sprangen von Stein zu Stein...
 
-»Die Kiste kanu Irgendwo nordwärts angefchwenmit
-sein, falls sie eben nidyt weggefadt if,« hatte Harald erklärt.
+»Die Kiste kann Irgendwo nordwärts angefchwenmit
+sein, falls sie eben nicht weggelockt ist,« hatte Harald erklärt.
 
-Zeh hatte wenig Hoffnung — sehr wenig.
+Seh hatte wenig Hoffnung — sehr wenig.
 
-Aber Harst behielt wieder einmal ret.
+Aber Harst behielt wieder einmal recht.
 
-Dort, wo der Nordwesistrand nach: rechts abbog, sahen
-wir zwischen . zwei kleinen Nissen ein längliches Etwas,
+Dort, wo der Nordweststrand nach: rechts abbog, sahen
+wir zwischen. zwei kleinen Nisten ein längliches Etwas,
 dunkel gestrichen; eine Kiste von über Manneslänge!
 
 Wieder herunter mit Schuhen, Unterzeug und Hosen.
 
-Wieder hiuein in die frische Flut — bis zum Bauche,
+Wieder hinein in die frische Flut — bis zum Bauche,
 
-Was tat das! Wir hatten die. isle, wir hatten ben Nas«
-poleon aus Wachs! Wir schlepyten fir 0»8 User — hincin
-in eine der engen Echlucdien der Kelzinfel.
+Was tat das! Wir hatten die. Alle, wir hatten den Naß«
+Napoleon aus Wachs! Wir schleppten Wir 0»8 Ufer — hinein
+in eine der engen Schluckten der Herzloser.
 
-Da waren zwei Schlösser am wear. zwei Kunstschlös-
-ser. Und die Kiste war sehr sauber gefertigt — wasserdicht.
+Da waren zwei Schlösser am wenn. zwei Kunstschlösser.
+Und die Kiste war sehr sauber gefertigt — wasserdicht.
 
-8b geflattete wir nun endlich die Frage:
+8b gestattete wir nun endlich die Frage:
 
-Was armvöhrjt Du cigentlich, Haraldr«
+Was armvöhrjt Du eigentlich, Holztor«
 
 »Robert Robba versprach drei Millionen dem, der Die
-tisle ihm holte, mein Alter,« erwiderte er. »Er verlangte
-lets die Kiste — nicht den Napoleon! Obwohl es duch leid-
-ter gewesen uur den Wunderautomaten zu bergen, wie dies
+tiefe ihm holte, mein Alter,« erwiderte er. »Er verlangte
+lese die Kiste — nicht den Napoleon! Obwohl es Euch leichter
+gewesen Nur den Wunderautomaten zu bergen, wie dies
 auch Kapitän Dabbrö nachher betonte. Da dachte ich mir:
 der weiß, ob in der Kiste wirklich ein Automat liegt! —
-dachte dies, weil auh Robbas Venchmen eine wahn-
-pigeAugst verriet, eine Angst, die dem drohenden Ver-
-des Automaten gegenüber zu groß war. Es war dle
-ngst eines Menschen mit sehr schlechtem Gewissen. Dazu
-men noch die unsympathische Erscheinuug Nobvas und die
+dachte dies, weil auch Robbas Benehmen eine wahn-pigeAugst
+verriet, eine Angst, die dem drohenden Verödet
+Automaten gegenüber zu groß war. Es war die
+Angst eines Menschen mit sehr schlechtem Gewissen. Dazu
+men noch die unsympathische Erscheinung Robbas und die
 <@pagebreak/>
-heimtücifchen Schweingäuglein. Brechen wir die Kisle
+heimtücifchen Schweingäuglein. Brechen wir die Kiste
 aus.«
 
-Die Bootshaken taten das jHrige.
+Die Bootshaken taten das ihrige.
 
-Harst klappte den Deckel hoch. Der hatte Gummirän-
-der, hatte eine Seitenschiene, die in eine Nille hineinpaßte.
+Harst klappte den Deckel hoch. Der hatte Gummiränder,
+hatte eine Seiten schiene, die in eine Rille hineinpaßte.
 
-Kaum war der Deckel gegen einen Siein gelehut wors
-den, als mix ein Geruch nach Kanpser in die Nase stieg.
+Kaum war der Deckel gegen einen Stein gelehnt vors
+den, als mir ein Geruch nach Kannten in die Nase stieg.
 
-"Hm!« machte Harald und zog die Decke weg, die deu
-Kisteninhalt verbülte.
+»Hm!« machte Harald und zog die Decke weg, die den
+Kisteninhalt verhüllte.
 
 Da lag in Holzwolle gebettet der Napoleon aus Wachs.
 
-Und wieder machte Harald noch gedehnier »om —
-uni Büdkte sich herab, strich mit der Hand über das Wachs-
-sich We
+Und wieder machte Harald noch gedehnter »am —
+un! Bückte sich herab, strich mit der Hand über das nachschlich
+ne
 
-Plößlich über mir am Schluchtrande ein Geräush ...
+Plötzlich über mir am Schluchtrande ein Geräusch ...
 
 Dicht an meinem Ohr ein Stein — ein Stein, der
-Harft gegen den Hinterlopf traf ...
+Harst gegen den Hinterkopf traf ...
 
-Ein dunipfer Krach, uud Harald lag regungslos Über
-der Kiste. Ein zweiter Stein. .: Sch Inichte in die die...
-mag aufgefchrien haben. eh weiß es uicht. er
+Ein dumpfer Krach, und Harald lag regungslos Aber
+der Kiste. Ein zweiter Stein. .: Ich Anrechte in die die...
+mag aufgeschrien haben. et weiß es nicht. er
 
-Hätten wir nicht bie amerilanifhen wolligen Sport
-müßen getragen, so wären unsere Schädel wohl kaum intakt
-geblieben. So aber kamen wir mit einer leichten Gchum
-erfütterung davon,
+Hätten wir nicht die amerikanischen wolligen Sport
+mähen getragen, so wären unsere Schädel wohl kaum intakt
+geblieben. So aber kamen wir mit einer leichten Schnur
+Geisterfütterung davon,
 
-San fand ung um zehn Uhr vormittags In ber Schlucht.
-vierzig Meter vom Strande entserut bewußtlos, blutend,
-und gebunden auf. Er war gegen fieben Uhr nach ber Blode
+Jan fand uns um zehn Uhr vormittags In der Schlucht.
+vierzig Meter vom Strande entfernt bewußtlos, blutend,
+und gebunden auf. Er war gegen sieben Uhr nach der Blöde
 hausvila zurückgekehrt, Hatte gemerkt, daß wir nicht dar
 heim waren, und sich auf die Suche gemacht.
 
-Schluderjan war schlau genug, uicht sofort Lärm zu
-fchlagen. Er trug uns ans Ufer hinab und begoß uns fo
-lange mit Secwasser, bis wir kurz hintereinander wieder
-zu uns lamen.
+Schluderjan war schlau genug, nicht sofort Lärm zu
+schlagen. Er trug uns ans Ufer hinab und begoß uns so
+lange mit Seewasser, bis wir kurz hintereinander wieder
+zu uns kamen.
 
-Sowohl Lei Harald als bei mir stellte sich Erbrechen ein,
-ein Zeichen, daß die Gehirnerfpütterung wicht Leicht zu neh-
-men war, Harst konnte immerhin dem braven Alien einige
+Sowohl bei Harald als bei mir stellte sich Erbrechen ein,
+ein Zeichen, daß die Gehirnerfpütterung nicht Leicht zu nehmen
+war, Harst konnte immerhin dem braven Alten einige
 <@pagebreak/>
 Verhaltungsmaßregeln geben, fragte ihn auch aus, ob die
-Kiste noh in der Schlucht läge.
+Kiste noch in der Schlucht läge.
 
 Nein — Jan hatte nichts von einer Kiste gesehen.
 
-Er holte dann einen Handwagen und suhr uns, die er
-mit einem Stück Segel und Strauchtverk bedeckt hatte, heim,
-brachte uns zu Bett und fühlte unfere brennenden Köpfe.
+Er holte dann einen Handwagen und fuhr uns, die er
+mit einem Stück Segel und Strauchwerk bedeckt hatte, heim,
+brachte uns zu Bett und fühlte unsere brennenden Köpfe.
 
 Drei Tage — endlose Tage...
 
 Dann konnten wir wieder ins Freie hinaus,
 
-Juzvischen hatie Jan auf der Insel die Mür verbreis -
+Auswischen hatte Jan auf der Insel die Mär verbiete -
 tet, wir: beide hätten uns in der Orkannacht arg erkältet. -
 
 Er hatte aber auch für uns den Detektiv gespielt, hatte
-genaat getan, was Harald ihm vorgeschrieben, und dabei
-eine Serissenheit enivüickelt, die ihm von Harst eine Extra-
-belohnung eintrug.
+jemand getan, was Harald ihm vorgeschrieben, und dabei
+eine Gerissenheit enivüickelt, die ihm von Harst eine Extrabelohnung
+eintrug.
 
-Daß Ferr- Robert Robba und mit ben steinernen
-Grüßen oben vom Schluchtrande bechrt haîte, stand fest,
+Daß Fern- Robert Robba und mit den steinernen
+Grüßen oben vom Schluchtrande beehrt hatte, stand fest,
 
-Fan ermiitelie fihon am ersten Tage unseres Kran-
-tenlager3 folgendes: Der Artist -Robba var von dex Ole -
+Fan ermittelte sicher am ersten Tage unseres Kran-tenlager3
+folgendes: Der Artist -Robba war von der Oie -
 plöbslich verscavunden. Er konnte. nur mit dem schFischerboot
-cines gewissen Franz: Eyonp, eines. übelbeleumundeten
-Menfchen,- bie Snfel derlaffen haben. Dieser Schomp war
-das Schmerzensfind der bleberen. Beirohnter / des Felsen-
-eilandes, ein Trinfer, Naufbold und Gelchenheitsbteb. Zum:
-war. es schon zuzutrauen, daß er sich bon -Nobba hatte ber
-stechen lassen und hm fortgeholsen hatte. Schomp war
-leine Stunde nach dem Ueberfall auf und mit seinem Kutter
-in See gegangen. Es war’ beobachtet worden, daß er die
-Jnsel umrundet und an- der Weslküste für kurze Zeit ange-
-legt hatte.
+eines gewissen Franz: Stopp, eines. übelbeleumundeten
+Menschen,- die Insel verlassen haben. Dieser Schomp war
+das Schmerzensfind der biederen. Verlohnten / des Felseneilandes,
+ein Trinker, Raufbold und Gelchenheitsbteb. Zum:
+war. es schon zuzutrauen, daß er sich von -Robba hatte der
+stechen lassen und hm fortgeholfen hatte. Schomp war
+Leine Stunde nach dem Ueberfall auf und mit seinem Kutter
+in See gegangen. Es wär’ beobachtet worden, daß er die
+Insel umrundet und an- der Westküste für kurze Zeit angelegt
+hatte.
 
-Zweitens: Der Jongleur Hans Wüllner toner am Run-
-genentzündung schwer erkrankt, ebenfalls schon am Vor«
-mittag nach. der Sturmmacdt. Er hatte fich in.ben burde
-weichten Sachen, die er trob Warmıng bed Genteindchorfter
-hers nicht gegen 1rockene Kleider vertauscht hatte, erkältet.
-A183 man den stark Fiebernten zu Vett bringen wollte, war
-er mit der Frau des Gemeindeporstehers eine Weile allein
+Zweitens: Der Jongleur Hans Wüllner teuer am Run-genentzündung
+schwer erkrankt, ebenfalls schon am Vor«
+mittag nach. der Sturmmacdt. Er hatte sich haben Wurde
+weichten Sachen, die er trotz Warmıng bot Genteindchorfter
+Fischers nicht gegen trockene Kleider vertauscht hatte, erkältet.
+A183 man den stark Fiebernden zu Bett bringen wollte, war
+er mit der Frau des Gemeindevorstehers eine Weile allein
 <@pagebreak/>
-geblieben. Was er dieser anvertraut hatte, konnte Schlu-
-derjan nicht ermitteln. Jedenfalls pflegte die gutherzige
-Frau den Patienten ganz affein und Lich fich nur von ihrem
+geblieben. Was er dieser anvertraut hatte, konnte Schluderjan
+nicht ermitteln. Jedenfalls pflegte die gutherzige
+Frau den Patienten ganz allein und sich sich nur von ihrem
 Manne und ihrer erwachsenen Tochter ablösen. Andere
 Personen durften das Krankenzimmer, mit Ausnahme des
 Arztes; nicht betreten. — —
 
 Und nun waren lber alledem wieder drei Tage ins
-Land gegangen. Nun waren wir beide wteder so leidlich
-»aftionssähig», wie Harald sich ausdrückte.
+Land gegangen. Nun waren wir beide wieder so leidlich
+»aktionsfähig«, wie Harald sich ausdrückte.
 
 An diesem 13. Juli hatten wir vormittags in der Sonne
-gesessen, nachmittags geschlasen, am Spätnachmittag gebadet
+gesessen, nachmittags geschlafen, am Spätnachmittag gebadet
 und abends Jans neuen Bericht entgegen genommen. —
-»Franz Schomp is nu wedder nüchtern,« erklärte der Alte.
-»Sien Jeld is wedder all, wat er woll von den Nobba kree-
-Jen hett. Un dei annre, dei WüUner, is ook wedder beeter,
-Herr Harft. Hel is all son beeten uppstohn as wie Sie beide.
+»Franz Schomp is Nu wedder nüchtern,« erklärte der Alte.
+»Sien Jeld is wedder all, wat er woll von den Robba kreejen
+hett. Un dei annre, dei Dünner, is ook wedder beeter,
+Herr Harst. He! is all son beeten uppstohn as wie Sie beide.
 Aberst dei Wüllner, dat is n’ dunklen Soog (Sache) mit den
-Kierl, Herr Harst, Wat dei Kraschan is (der Gemelndevor-
-steher), det sejt von den Willner gor nix.«
+Kierl, Herr Harst, Wat dei Kraschan is (der Gemeindevorsteher),
+det sejt von den Willigen gor nix.«
 
-Eine Stunde später, gegen halb elf, begann’s zu reg-
-nen. Und das schien Harst zu gefallen, Ex psisst mit einem
-Em nn are — Schluderjan war längst schla-
-sen
+Eine Stunde später, gegen halb elf, begann’s zu regnen.
+Und das schien Harst zu gefallen, Er reist mit einem
+Cm an als — Schluderjan war längst schlafen
 
-Du Dich kräftig nenn, mein Aster, mit mir
-zusauimen zwei Nachivisiten abzustatten?« sagte Harald dann
-und zwinkerte mir ul
+Du Dich kräftig neun, mein Alter, mit mir
+zusammen zwei Nachivisiten abzustatten?« sagte Harald dann
+und zwinkerte mir ut
 
-»Wenn ich dabei nicht Mauern überklettern oder stun-
-denlang schwimmen muß — ja!«
+»Wenn ich dabei nicht Mauern überklettern oder stundenlang
+schwimmen muß — ja!«
 
-»Gut — dann die Gummimäntel, in bie rechte Außen
-tasche die Clement und im übrigen ettvas Handwertzeng.«
+»Gut — dann die Gummimäntel, in die rechte Außen
+Tasche die Clement und im übrigen etwas Handwerkzeug.«
 
-E3 war elf Uhr, als wir die kleine Villa verließen.
+Es war elf Uhr, als wir die kleine Villa verließen.
 
-Daß die Nachtvisiten nur Hans Wüllner und dem
-Truntenbolde Ehomp gelten tonnten, war ntir fofort Mar
+Daß die Nachzuhelfen nur Hans Wüllner und dem
+Trunkenbolde Schomp gelten konnten, war mir sofort war
 gewesen.
 
 »Zu Kraschan,« sagte Harst draußen und schlug den
-Mantelkvagen hoc.
+Mantelkragen hoch.
 
 <@pagebreak/>
-Kraschans Antwvesen lag nach Norden zu etwas abseits |]
-von den übrigen Häuschen. Der Negen peitfchte uns Ins !
-Gencht.
+Kraschans Antworten lag nach Norden zu etwas abseits |]
+von den übrigen Häuschen. Der gegen peitschte uns Ins!
+Gemocht.
 
 Oh — das tat wohl nach den drei Tagen Stubenhoden! -
-Das war wie cin Gesundheitselixir! Der bis dahin noch im-
-mer etwas dumpse Kopf war plöglich fo leiht und das
+Das war wie ein Gesundheitselixir! Der bis dahin noch immer
+etwas dumpfe Kopf war plötzlich so leicht und das
 Hirn aufnahmesähig für alles
 
-»Die Herren Köter liegen zum Glück bei dem Sau-
-wetter in den Hundchiltten,« lachte Harald.
+»Die Herren Köter liegen zum Glück bei dem Juniwetter
+in den Hundchiltten,« lachte Harald.
 
-Und auch dieses Lachen war gesund — war voller Un-
-ternehmungslust. Wir näherten uns dem Gehöft im Bo-
-gen von Westen her. Da tauchte der Stall auf — da rechts
-das knallgelb gestrichene Wohnhaus. ,Und — da faben wir
-beide gleichzeitin Durch Die Negenfchleier einen Schatien —
-einen hageren Mann, der an der Ecke des Hauses jeht halt
+Und auch dieses Lachen war gesund — war voller Unternehmungslust.
+Wir näherten uns dem Gehöft im Bogen
+von Westen her. Da tauchte der Stall auf — da rechts
+das knallgelb gestrichene Wohnhaus. Und — da faden wir
+beide gleichzeitig Durch Die Regenschleier einen Schatten —
+einen hageren Mann, der an der Ecke des Hauses jetzt halt
 machte... Dann der tadellos nachgeähmte heisere Schrei
 einer Möwe — drei Mal
 
-Der Hagere war’s, der ‘den Schrei erklingen Lich.
+Der Hagere war’s, der den Schrei erklingen sich.
 
-Harald zog mich rasch hinter cinen Etapel Brennholz.
+Harald zog mich rasch hinter einen Stapel Brennholz.
 
 »Der Säufer Schomp!!« raunte er mir zu. Was will
-der Kerl hier?! Ob er eiwa mit Hans Wüllner
+der Kerl hier?! Ob er etwa mit Hans Wüllner
 
-Neben Schomp tanchte eine andere Gestalt auf — mit-
-Maren RR
+Neben Schomp tauchte eine andere Gestalt auf — mit-waren
+er
 
-filler — — tatsächlich!! Und im Mantel, ben er bar
-mals in der Drlannacht anhattel«
+stiller — — tatsächlich!! Und im Mantel, den er bar
+damals in der Orkannacht anhatte!«
 
-Jn Haralds Stimme klang’s wie Jagdsieber.
+In Haralds Stimme klang’s wie Jagdfieber.
 
 De beiden drüben an der Hausecke verschwanden.
 
 Die Finsternis verschluckte sie im Nu,
 
-»Hinterdrein!« Und Harsis Stimme war voller Kraft
-wie stets in solchen Nächten, wenn Geheimnisse sich wehr-
-den, bon uns enthillt zu werden. —
+»Hinterdrein!« Und Harsts Stimme war voller Kraft
+wie stets in solchen Nächten, wenn Geheimnisse sich wehrten,
+von uns enthillt zu werden. —
 
 Gut gesagt: Hinterdrein!
 
 Wohin denn? Bei der Dunkelheit!
 
-Und doh — Harald schien’s zu wittern, wohin.
+Und doch — Harald schien’s zu wittern, wohin.
 
 Nach Osten ging’s — dem Fischerhafen zu...
 
-Und drei Minuten später rechts von ARE in derselben
+Und drei Minuten später rechts von Als in derselben
 <@pagebreak/>
-Nichtung dabinschreitend: Schomp und Wüslner!!
+Richtung dabinschreitend: Schomp und Wüllner!!
 
 »Schomp wird Wüllner wegbringen,« erklärte Harald
-neben mir. »Das heißt: er will es wun! Wir werden’s
-verhindern!« j st
+neben mir. »Das heißt: er will es nun! Wir werden’s
+verhindern!« ist
 
-Da kam auch bei mir das Jagdsieber.
+Da kam auch bei mir das Jagdfieber.
 
-Der Napoleon ans Wachs und seine Nätfel gossen mir
+Der Napoleon ans Wachs und seine Rätsel gossen mir
 Feuer in die Adern! —
 
-Bald der Fischerhafen: Bollwerk, Bretierbuden, schivan-
-fende Kutter mit klatschenden Tomwerk und fnarrenden Mas
-sten, Teer- und Fischgeruch, gluckssende Wellen...
+Bald der Fischerhafen: Bollwerk, Bretterbuden, schivan-fende
+Kutter mit klatschenden Erwerb und knarrenden Was
+Osten, Teer- und Fischgeruch, gluckssende Wellen...
 
-Bald wir Beide hinter einer Neßbude — dicht am Boll-
-werk. Zehn Schritt vor ung Franz Schomps großer Nut
+Bald wir Beide hinter einer Neßbude — dicht am Bollwerk.
+Zehn Schritt vor uns Franz Schomps großer Nu!
 ter, auf Deck drei Gestalten...
 
-Schomp löste die Taue von den Psählen...
+Schomp löste die Taue von den Pfählen...
 
 Es war Zelt...
 
-»Vorwärts!« befahl Hari...
+»Vorwärts!« befahl Hart...
 
-Hinter uns ein Lachen — Dicht hinker un8...
-Und eine sette Stinme, febenflich in der brutalen
-Jronie: »Hinlegen! Hinlegen, Schnüsfler!! Sonst knallt’s!«
+Hinter uns ein Lachen — Dicht hinter uns...
+Und eine setzte Stimme, Bedenklich in der brutalen
+Ironie: »Hinlegen! Hinlegen, Schnüffler!! Sonst knallt’s!«
 
 Wir herumsahrend, vor einer Nevolvermüindung...
 
-»Schasäföpse!« höhnté Robert Nobba. »echafetönfel«
+»Schafsköpfe!« höhnte Robert Robba. »echafetönfel«
 
-Und psi — pfiff cin Signal...
+Und pst — pfiff ein Signal...
 
-Drohte wieder: »Hinlegen! !« Und das war Ernst. Das
-tvar derselbe Mensch, ‘der uns hatte die Schädel mit Steinen
+Drohte wieder: »Hinlegen!!« Und das war Ernst. Das
+war derselbe Mensch, der uns hatte die Schädel mit Steinen
 einschlagen wollen.
 
-Zum Hinlegen — zum Gehorchen famen vir niht.
+Zum Hinlegen — zum Gehorchen kamen wir nicht.
 
 Fühlten schon unsere Handgelenke gepackt. Schlingen
-zogen sic) zu... Zwei Stöße — wir flogen in einen Haufen.
-Seeclang — lagen — rappelten und Hoc...
+zogen sich) zu... Zwei Stöße — wir flogen in einen Haufen.
+Seeclang — lagen — rappelten und Her...
 
-Hörten das Tuffen. des Anshiffemotors des Kutter,
-sahen undeutlich den Schatten des Vooies davongleiten...
+Hörten das Laffen. des Anshiffemotors des Kutter,
+sahen undeutlich den Schatten des Bootes davongleiten...
 
 <@pagebreak/>
 
-<h2>3. Kavitel.</h2>
+<h2>3. Kapitel.</h2>
 <h3>Der Rammstoß.</h3>
 
-Die Kerle verfolgen?! Ja — wir versuchien’s. Wir
-ite izn Nu die lächerlichen Fessel abgestreist, cannteu am
-oltwwert bin, boflien einen Kutter zy finden, dessen Ve-
-ber an Bord war.
+Die Kerle verfolgen?! Ja — wir versuchten’s. Wir
+Seite ran Nu die lächerlichen Fessel abgestreift, rannten am
+allzuweit bin, ballten einen Kutter zu finden, dessen Weber
+an Bord war.
 
 Fanden seine lebende Seele. Fanden die Kajüttüren
-Kutter verschlossen. Und gaben ben Gebanten auf, Die
-erle sosort zu sangen,
+Kutter verschlossen. Und gaben den Gebauten auf, Die
+Kerle sofort zu sangen,
 
-»Wir bekounnen sie schon noh!« tröftele Hari.
+»Wir bekommen sie schon noch!« tröstete Hart.
 
-Burüd also zum Gehöft en Gemeindevorstehers.
+Zurück also zum Gehöft en Gemeindevorstehers.
 
-Armer Peter Kraschan! Gr schlicf so jesi, ex war iR
-erfihlaien, »als er Ichliehfih fine fam.
+Armer Peter Kraschan! Er schlief so fest, er war in
+erfihlaien, »als er schließlich Eine kam.
 
-Seine Zatene beleuchtete uns S4ôreusriede.
+Seine Hafens beleuchtete uns S4ôreusriede.
 
-Ah — Herr Harjsl« Das ärgerlide Gesicht letzte sich
+Ah — Herr Harsts« Das ärgerliche Gesicht letzte sich
 freundliche Falten. -
 
-Peter Kraschan führte uns‘ ‘41 sein Vüro. Das war
-tgleich der Dienftraum der Boftagenum Greifswalder Die.
+Peter Kraschan führte uns ‘41 sein Büro. Das war
+Scheich der Dienstraum der Boftagenum Greifswalder Die.
 
-»Ein paar Fragen — eine Bitte, Herr Kraschan,« sagie
-rst, sih an den Kachelosen Ichnend.
+»Ein paar Fragen — eine Bitte, Herr Kraschan,« sagte
+erst, sich an den Kachelofen lohnend.
 
-Kraschan zündete die große Hängelahupe on, blich ab-
-riend unter der Lanıpe stehen.
+Kraschan zündete die große Hängelahupe on, blich abwesend
+unter der Lampe stehen.
 
-»Also, Herr Kraschan, der Wülluer war elne Frau —
-Weib :« leiteie Harald das Verhör cin.
+»Also, Herr Kraschan, der Wüllner war eine Frau —
+Weib:« leitete Harald das Verhör ein.
 
-RIO spibie die Piran. — R Weib?1 Wigner — der
+Wo spitzte die Pflug. — R Weib?! Lianen — der
 ougleurêl
 
 »Ah — Sie wissen
 
-wie Sie hören: ich wet — Was hat fie Ihnen em
-Abe,« Herr Kraschank? Wie hat sie lhre Verkleidung als
-Naun begründet?«
+wie Sie hören: ich wer — Was hat sie Ihnen Cm
+Ade,« Herr Kraschank? Wie hat sie ihre Verkleidung als
+Kaum begründet?«
 
 »Sie sagte, sie sei eine Verfolgte — von politischen
-egnern. Geheyte, eine Deutschrussin namens Hanna Renner."
+Gegnern. Gehende, eine Deutschrussin namens Hanna Renner.«
 
 <@pagebreak/>
-»Schwindel! — Sie verstand es, ZJhr Vitleid zu ers
-ERBE ,
+»Schwindel! — Sie verstand es, Ihr Mitleid zu elf
+erbe,
 
-"sa. Meine Frau isl gauz vesunarri ju fie.« Br
+»so. Meine Frau is! ganz besannen ja sie.« Er
 
-»Mögplicy if das scon. — Mun zu Frauz Schoup.
-War der heute bier bei Jhneu?« So
+»Mögplicy ist das Soog. — nun zu Franz Schnur.
+War der heute hier bei Ihnen?« So
 
-Se, Nachmittags.«
+So, Nachmittags.«
 
 »Sprach er mit dieser Hanna?«
 
-»Ein paar Worte nur. Sie saß in Mäunerkleideru
-am Feuster.
+»Ein paar Worte nur. Sie saß in Männerkleidern
+am Fenster.
 
-»Die paar Worte werden von ein:m VBricje i n:
+»Die paar Worte werden von ein:in Briefe ich n:
 gewesen sein — der Verabredung zur Flucht.«
 
-»and — — $!«
+»und — — $!«
 
-ena Neuner ist soeben mii Schomps Futlex auf und
-avon!«
+Arena Nenner ist soeben mit Schomps Futter auf und
+davon!«
 
-Herrn Peter Krafhan blieb der Mind oflen.
+Herrn Peter Kraschan blieb der Wind ollen.
 
-»Sie befigen doch felbft einen Sutter, Herr Strafen.
-Wir bitten Sie, uns sofort uach Swinemimd2 zu bringen.
-Außerdem werde ich eine Depesche nach Berlin a1sgeben.«
+»Sie besitzen doch Selbst einen Kutter, Herr Strafen.
+Wir bitten Sie, uns sofort nach Swinemimd? zu bringen.
+Außerdem werde ich eine Depesche nach Berlin Ursachen.«
 
-Und Harst seite sich au den großen HOLLA eitte
-DOM das Telegramm;
+Und Harst Seite sich zu den großen Hallo eilte
+Dom das Telegramm;
 
-> Friv Bechert, Berlin, Neue Königstr. 37
+> Fritz Bechert, Berlin, Neue Königstr. 37
 
-> Bitte dienftlih in Riga anfragen, ob dort in letzten
-zwei Wochen besonder Verbrechen vorgetommen. — Harft.
+> Bitte dienstlich in Riga anfragen, ob dort in letzten
+zwei Wochen befanden Verbrechen vorgekommen. — Harst.
 
-Die Depefche wurde vou Krascyau besorgt.
+Die Depesche wurde von Kraschan besorgt.
 
-oe halb eins ist dex Nutter bereit,« erklärte Kraschan
-mi
+ne halb eins ist der Kutter bereit,« erklärte Kraschan
+mich
 
-Wir kehrten heim, werten San Schluder.
+Wir kehrten heim, werten Jan Schluder.
 
 Der Alte heulte vor Abschiedóschmerz wie ein Kind.
-Unsere Kosser waren im Unisehen gepackt, Jau lud ste auf
+Unsere Kostet waren im Umsehen gepackt, Jau lud sie auf
 den Handwagen.
 
-Am Fischerhasen irrien im Regeuuebel Lichter bin
-und her: Kraschan und scin Bootskuccht, dazu Frau Ka
-schan und Gusichen, die Tochter. —
+Am Fischerhafen irrten im Regeuuebel Lichter bin
+und her: Kraschan und sein Bootsknecht, dazu Frau da
+schon und Gustchen, die Tochter. —
 
-Der Kutter wurde losgemachl. Jau Schluder drückte
-uns die Hände. Er wollte etwas sagen. Die Träueun roUten
+Der Kutter wurde losgemacht. Jau Schluder drückte
+uns die Hände. Er wollte etwas sagen. Die Grauem ernten
 <@pagebreak/>
-bas braune Taltenfchh seiner Wangen. Er bekam kein
+Robbas braune Taltenfchh seiner Wangen. Er bekam kein
 Wort heraus.
 
-Der Motor fprang an 0. Mile wiutten
+Der Motor sprang an 0. Wille winkten
 
 Und Frau Kraschan rief noch:
 
-»Herr Harsl, dat Sie man bloß der armeu Marjell, der
-anna, nix andaun!«
+»Herr Harst, dat Sie man bloß der armen Marjell, der
+Hanna, nix andaun!«
 
-»Keine Sorge! Wir tun lhr nichs au. Wir tun nur
-unsere Pslicht.« —
+»Keine Sorge! Wir tun Uhr nicht zu. Wir tun nur
+unsere Pflicht.« —
 
-Wir saßen im Dchzeug neben Kraschan am Steuer,
-lehnäpse mit Grog in den regenscuchten Handen
+Wir saßen im Beitrag neben Kraschan am Steuer,
+behaarte mit Grog in den regenfeuchten Händen
 
-Der Kutter stampste« schwer. Die Lateruca, grün und
-t, schinunerten mait. Der DWotor ging im Takt, und das
-uchijeuer der Oie verkroch sich iInuner mehr In der dicsie
+Der Kutter stampfte« schwer. Die Laternen, grün und
+t, schimmerten matt. Der Bunter ging im Takt, und das
+uchijeuer der Oie verkroch sich immer mehr In der hielte
 Lust hinter uns.
 
-«Herr Harsi, um was geht’s ‘hier eigentlich,« scagte
-eter Strafchan, der ein PE wie ein Schasmeister
-rach.
+»Herr Harst, um was geht’s hier eigentlich,« fragte
+Meter Strafchan, der ein ne wie ein Schulmeister
+Krach.
 
 »Um den Napoleon ...«
 
 »Hm — und der Napoleon 4,
 
-"War an Land getrieben in VORN Kisle, an den West-
-tents einene
+»War an Land getrieben in vorn Kiste, an den Bestreute
+blauleinene
 
-"Ah -- --!!"
+»Ah — —!!"
 
-»Und da hat Herr Robba uns beirn eins aus deu
-Kopf gegeben und ist mit der Kiste und dem Napoleon tu
-omps Kutter eutflohen und — heute ¿urüdgefkfcyrt, um $
-ma zu holen.«
+»Und da hat Herr Robba uns beim eins aus den
+Kopf gegeben und ist mit der Kiste und dem Napoleon zu
+Schomps Kutter entflohen und — heute ¿urüdgefkfcyrt, um $
+na zu holen.«
 
-"So... sol« Kraschan erreheitete das Gehörte.
+»So... so!« Kraschan einrichtete das Gehörte.
 
-Se hinzu: »Schomp hat sein Haus geslern verkaust,
-Harst. Er will von der Oie fortzichen
+So hinzu: »Schomp hat sein Haus gestern verkauft,
+Harst. Er will von der Oie Vorzeichen
 
 »Das heißt: will verschwinden, weil er ein schlechtes
-Je En bat als Helsershelser dieses Nobba. Den Ber
+Je Er bat als Helfershelfer dieses Robba. Den der
 auf hat er ja sehr geheimgehalten. Schluderjan wußte
-uichts davon. Wer ist der Käufer?
+nichts davon. Wer ist der Käufer?
 
-Krafchen zögerte. »Ab, Herr Harft . . »2 — Trank einen
-langen Verlegenheitöschluck. »Shop bot mir jem
+Keuschen zögerte. »Ab, Herr Harst.. »2 — Trank einen
+langen Verlegenheitöschluck. »Schon bot mir gen
 <@pagebreak/>
-Grundstück an — sehr biltiig. Weshalb sollie ih nicht zu-
-greifen?«
+Grundstück an — sehr Eilzug. Weshalb sollte ich nicht zugreifen?«
 
 »Allerdings — weshalb nicht«
 
-Harst war plöblich merkwürdig nervös, stand auf, fepte
-fih wieder, ftand abermals auf...
+Harst war plötzlich merkwürdig nervös, stand auf, fegte
+sich wieder, stand abermals auf...
 
-Und starrte uach Osten zu iu ‘das Dunkelgrau der Mee-
-resnacht hinaus, wo die Wogenkämme wie weiße Striche
-sich langstreckien, zusammenschrumpsten, wieder ejRenen —
-vershwanden ...
+Und starrte nach Osten zu in das Dunkelgrau der Meeresnacht
+hinaus, wo die Wogenkämme wie weiße Striche
+sich langstreckten, zusammenschrumpften, wieder erregen —
+verschwanden ...
 
 Beugte sich nieder ...:
 
-»Herr Kraschau, es ist da links von uns ein anderex
-Kutter — ohne Lichter, was gegen die Gesete ist!«
+»Herr Kraschan, es ist da links von uns ein anderer
+Kutter — ohne Lichter, was gegen die Gesetze ist!«
 
-Das brachte Kraschan und mich bligartig doc).
+Das brachte Kraschan und mich blitzartig doch).
 
-Aber —wir fahen nichig
+Aber wir sahen nichts
 
-»Fährt! Schomps Kulter id ueller, Herr Kraschank«
-fragte EN jegt geradeaus spähend.
+»Fährt! Schomps Kutter ich Teller, Herr Kraschank«
+fragte Er jetzt geradeaus spähend.
 
-"Ja."
+»Ja.«
 
-»Dann überlassen Sie mir das Stemr. —  Schrank, die
-Clement heraus. Und hier habên Sic meine Pisiole, Herr
-Kraschan. Geht beide nach vorn. Sobald ein Kutler ohue
-Lichter austaucht, schießt auf die Leuie — aus meine Veraut-
-wortung. Sch habe keine Lust, dic Flundern und Males un-
-ten am Grunde zu besuchen.«
+»Dann überlassen Sie mir das Steine. —  Schrank, die
+Clement heraus. Und hier haben Sie meine Pistole, Herr
+Kraschan. Geht beide nach vorn. Sobald ein Kutter ohne
+Lichter auftaucht, schießt auf die Leute — aus meine Verantwortung.
+Ich habe keine Lust, die Flundern und Wales unten
+am Grunde zu besuchen.«
 
-Kraschan fluchte. Er hatte schnell begrissen.
+Kraschan fluchte. Er hatte schnell begriffen.
 
-Wir gingen nad) vorn. Der junge Bovtsfucht wurde -
-eingeweiht. — »Ih hab’ die EE unten,« mens
+Wir gingen nach) vorn. Der junge Bootsknecht wurde -
+eingeweiht. — »Ich hab’ die Er unten,« Vers
 er abenteuerlustig.
 
-Ex holte sie herauf.
+Er holte sie herauf.
 
-So warteten wir drei vorn auf den Angriss.
+So warteten wir drei vorn auf den Angriff.
 
-Nichts erfolgie — gar nichts
+Nichts erfolgte — gar nichts
 
-Eine halve Stunde vexstrich . Bi,
+Eine halbe Stunde verstrich. By,
 
-Aus dem Duufel.vor uns Hoch in der Luft ein Lichte
-schein — erst schivach, daun deutlicher: der Leuchtturm von
-Swinemünde. Wix drei saßen jegt auf der erhöhten Vor
-derluke.
+Aus dem Dunkelrot uns Hoch in der Luft ein Lichte
+Schein — erst schwach, dann deutlicher: der Leuchtturm von
+Swinemünde. Wir drei saßen jetzt auf der erhöhten Vor
+Vorderluke.
 
-«Ich habe uoch keine Spur von einen fremden Kutter
+»Ich habe noch keine Spur von einen fremden Kutter
 <@pagebreak/>
-bemerkt,« brummte Peter Kraschan. »Wer weiß, was Harsl
+bemerkt,« brummte Peter Kraschan. »Wer weiß, was Harst
 gesehen hat — — Herr Harst,« verbesserte er Sich schnell.
 
-Der Bootsknecht grunzte MINER, Und kleinlaut
-meinte ichs »Ich auch nicht!«
+Der Bootsknecht grunzte Minen, Und kleinlaut
+meinte ich’s »Ich auch nicht!«
 
-»Karl, ach’, Teh’ Bronmwaifer: auf,« befahl . Kraschatt
-elgenmächtig.
+»Karl, geh’, Geh’ Bronmwaifer: auf,« befahl. Kraschatt
+eigenmächtig.
 
-Der junge Mensch turnte ‘die enge Treppe hinab.
+Der junge Mensch turnte die enge Treppe hinab.
 
-»Vor der Mole steht schwere Sce, Herr Schraut,« sagte.
-Kraschan nach einer Meile. »Hören Ste bie Brandung?«
+»Vor der Mole steht schwere See, Herr Schraut,« sagte.
+Kraschan nach einer Meile. »Hören Sie die Brandung?«
 
-ch sah nur den Lichtfinger des Leuchtturms durch die
-Finsternis greisen, wieder verschwinden, wieder ,aufbligen.
+ich sah nur den Lichtfinger des Leuchtturms durch die
+Finsternis greisen, wieder verschwinden, wiederaufbligen.
 
-Und machte vor jedem Wellensprißer, der liber Bord
-fam, einen ticfen Bückling.
+Und machte vor jedem Wellenspritzer, der über Bord
+kam, einen tiefen Bückling.
 
-Dle Spritzer kamen oft — kämen immer häufiger. Der
-Suter kobolzte, torfelte tie trunfen. Das Großsegel, prall
-geruut, trieb und schneller vorwärts.
+Die Spritzer kamen oft — kämen immer häufiger. Der
+Guter beherzte, torkelte die trunken. Das Großsegel, prall
+genial, trieb und schneller vorwärts.
 
-Nun auch vor uns ein paar andere ‘Lichter: der Hafen
-— dle Molen
+Nun auch vor uns ein paar andere lichter: der Hafen
+— die Molen
 
-Dann ein heulender Mindstok — ein Regenguß —
+Dann ein heulender Windstoß — ein Regenguß —
 wie aus Eimern
 
-Und — dann der infamfte Schurfenftreidh, der je in die-
-sen fricdlichen Gewässern ausgeführt wurbe — dann aus
-der Nenenfinfternis von Varbord her der Angreifer, ganz
-herrafchend, wie ein SORE still, düster — —
+Und — dann der infamfte Schurkenstreich, der je in diesen
+friedlichen Gewässern ausgeführt wurde — dann aus
+der Nenenfinfternis von Vorland her der Angreifer, ganz
+herrafchend, wie ein Safe still, düster — —
 
-Ein Ranunstoß
+Ein Rammstoß
 
-BA Mast kuicte
+da Mast kniete
 
-Ich flog über Bord. Re
+Ich flog über Bord. ne
 
-Das braune Großsegel preste mit in dle lese
+Das braune Großsegel preßte mit in die lese
 
 Und doch die Geistesgegenwart, zu tauchen, und das
 Glück, freizukommen ...
 
-Herunter mit dem Gummimantel, dem Oelrod
+Herunter mit dem Gummimantel, dem Gelegt
 
 Wasser getreten ... Wasser geschluckt
 
 Alles wäre umsonst gewesen, wenn Harst, nicht auf mich
-ht aegeben hätte.
+ht gegeben hätte.
 
-Er war mit einem Male neben mir — mi Bor MOE
-Pe Wir schwannnen — schwammen
+Er war mit einem Male neben mir — mich vor Mrs
+ne Wir schwammen — schwammen
 
 <@pagebreak/>
 Die Glieder erstarrten
 
 Und wir bissen die Zähne zusammen
 
-Da war vor uns die Haseneinfahrt, die Mündung der
-Swine ... Wir kämpsten um das Leben ...
+Da war vor uns die Hafeneinfahrt, die Mündung der
+Swine ... Wir kämpften um das Leben ...
 
 Die Wogen hoben uns, schäumten über uns hinweg...
 
-Bis es mit einem Male unheimlich slill um uns wurdet
+Bis es mit einem Male unheimlich still um uns wurdet
 wir waren unter Wind der Ostmole! Und krochen die
-Steine empor, die mit Zement gesügten Steine, krochen, stilh-
-ten un8 gegenseitig, taumelten welter.
+Steine empor, die mit Zement gesuchten Steine, krochen, stillten
+uns gegenseitig, taumelten weiter.
 
-selangten bis zur Tür der Vetonfafentatte, die hier im
-Kriege anf dem Molenkopf errichtet worden, taumelten um
-ein — In eine Ede...
+gelangten bis zur Tür der Vetonfafentatte, die hier im
+Kriege auf dem Molenkopf errichtet worden, taumelten um
+ein — In eine Ecke...
 
-Hocdten nebeneinander . -
+Hockten nebeneinander. -
 
-Gerettet!!! Gerettet — wie dur ein Wunder!
+Gerettet!!! Gerettet — wie durch ein Wunder!
 
-Vlieben hier eine Stunde.
+blieben hier eine Stunde.
 
-«Wir sind tot!« sagte Harst dann. »Der Gemeindevor-
-steher wird uns aufnehmen und fchmeinen.«
+»Wir sind tot!« sagte Harst dann. »Der Gemeindevorsteher
+wird uns aufnehmen und Schweinen.«
 
-Nir fehritten die Mofe entlang, am Ufer der Stwine hin.
-— Osternothasen wurde unser Nothasen. Der freundliche
-alte Herr, der hier regiert, führte uns in eine bchagliche
-Dachshube. Zwei Betten, zwei todmüde Schläfer... . und
-vormittags »elf Uhr dann ein Frühstück, fliller Abschied, nach-
-dem vir unsere bereits Inleber achiinelten Sachen )vieder
-angelent hatten. Das Motorboot brachte und iiber den Ha-
-sen na Swinemtlinde, in die Nähe des Hauptbahnhofs. Ein
-Häuschen war da am Bollwerk, mit dem üblichen PON
-Schild an der Tür »Möpt, Zimmer ».
+mir schritten die Mole entlang, am Ufer der Sturme hin.
+— Osternothasen wurde unser Anklagen. Der freundliche
+alte Herr, der hier regiert, führte uns in eine behagliche
+Buchstabe. Zwei Betten, zwei todmüde Schläfer.... und
+vormittags »elf Uhr dann ein Frühstück, stiller Abschied, nachdem
+wir unsere bereits Anheben Schnurrten Sachen )wieder
+angelegt hatten. Das Motorboot brachte und über den Hafen
+na Swinemtlinde, in die Nähe des Hauptbahnhofs. Ein
+Häuschen war da am Bollwerk, mit dem üblichen Per
+Schild an der Tür »Wort, Zimmer ».
 
-Air mieteten das eine Erdgeschoßzimmer ...
+Sir mieteten das eine Erdgeschoßzimmer ...
 
 Harst schickte einen Jungen mit einem Brief an in
-Kriminalkommissar. — Herr Pfl. erschien nach ciner Stunde,
-alng wieder, kam gegen fünf nochmal3. Und berichtete, daß
+Kriminalkommissar. — Herr Pfl. erschien nach einer Stunde,
+ging wieder, kam gegen fünf nochmals. Und berichtete, daß
 von Kraschans Kutter nur ein Lukendeckel gefunden sei.
 Außerdem seien die Leichen Schomps und dessen Frau beim
 Herrenbade angetrieben.
 
 Der Ariminalfommiffer hatte außerdem mitgebracht,
-was wir brauchten, so daß wir gegen sicben Uhr uns ac-
+was wir brauchten, so daß wir gegen sieben Uhr uns getrost
 <@pagebreak/>
-trost ins Frele wagen konnten — zwei Herren, die mit Harst
-und Schraut nur die Größe gemeinfam hatten, fonft nichts,
+ins Freie wagen konnten — zwei Herren, die mit Harst
+und Schraut nur die Größe gemeinsam hatten, sonst nichts,
 
-Unsere Nayforschuugen nach Nobert Robba und dessen
-Helfershelfern (cs mußten außer Hanna Renner mindestens
-zwel sein, die uns auf der Ole die Hände gefesselt und uns
-anf den Tanabanfen geworfen hatten) — diese Nachforschun-
-gen blieben cracbnisfos,
+Unsere Nayforschuugen nach Robert Robba und dessen
+Helfershelfern (es mußten außer Hanna Renner mindestens
+zwei sein, die uns auf der Oie die Hände gefesselt und uns
+auf den Tanabanfen geworfen hatten) — diese Nachforschungen
+blieben ergebnislos,
 
-Schomp und Frax waren ertrunken. Die beiden wie
-sen keine Anzeichen eincs gewaltsamen Todes auf.
+Schomp und Fror waren ertrunken. Die beiden wie
+sen keine Anzeichen eines gewaltsamen Todes auf.
 
 Am folgenden Morgen (das war der 14. Juli) wurden
-gus Peter Kraschan und der Vootsfnccht- tot an Land ge-
-spült.
+aus Peter Kraschan und der Bootsknecht- tot an Land gespült.
 
-Kommissar Pfl. hielt sein Versprechen. Niemand etr-
-fuhr etwas von der Wahrheit — niemand. Als sie dann
-Ben in die Zeitung kam, waren bie Schuldigen bereits
+Kommissar Pfl. hielt sein Versprechen. Niemand einfuhr
+etwas von der Wahrheit — niemand. Als sie dann
+den in die Zeitung kam, waren die Schuldigen bereits
 verhaftet.
 
 15\. Juli nachmittags drei Uhr fuhren wir nach Berlin
-zuriick. Der Zug war leer. Jn unserem Abteil Zweiter lüf-
-tete Harald endlich fo etwas ben Schleier der Geheimnisse
+zurück. Der Zug war leer. In unserem Abteil Zweiter lüftete
+Harald endlich so etwas den Schleier der Geheimnisse
 des wächsernen Napoleon.
 
 <h2>4. Kapitel,</h2>
 <h3>Der Laubennachbar.</h3>
 
-Er faß neben mir und rauchte, blickte in die vorbel-
-fliegende Sommerlandfchaft hinaus...
+Er saß neben mir und rauchte, blickte in die vorbeifliegende
+Sommerlandschaft hinaus...
 
 »Der. Zug donnerte über die lange Haffbrüde ...
 
-Und da saate Harst ganz. unvermittelt:
+Und da sagte Harst ganz. unvermittelt:
 
 »In der Kiste, die wir ausbrachen, lag sein Automat.«
 
-Sch wandte den Kopf.
+Ich wandte den Kopf.
 
-«So?! Was denn sonst ?«
+»So?! Was denn sonst?«
 
-«Eine präparlerte Leiche .,
+»Eine präparierte Leiche .,
 
 <@pagebreak/>
-Mar das Scherz?! as Doch nein! Dazu war dle Ge
-schichte denn doch zu brutal, die Geschichte mit den vier To-
-ten, die... erirunfen waren, — zu brutal — ernst.
+war das Scherz?! as Doch nein! Dazu war die je
+schichte denn doch zu brutal, die Geschichte mit den vier Toten,
+die... ertrunken waren, — zu brutal — ernst.
 
-»Der Rampferneruch machte mich sosort stubig,« erklärte
-Harald weiter. »Fh berührte das Gesicht des Napolcon
+»Der Kampfergeruch machte mich sofort stutzig,« erklärte
+Harald weiter. »Ich berührte das Gesicht des Napoleon
 und fühlte, daß es weich war — nur mit einer Wachsschicht
 überzogen ...«
 
-Ah...! Und ber Kamvfer sollte den Leihengeruch
-überläuben...
+Ah...! Und der Kämpfer sollte den Leichengeruch
+übertäuben...
 
-»Nein, E8 mwirb eine Mumie neivefen sein.«
+»Nein, Es wird eine Mumie gewesen sein.«
 
 »Mumie — — 8»
 
-»Nun ja. Eine Mumie, die man qus Niaa hein &
-hinanefchaffen wollte. Nobba hat pas übernommen. Er
-ist vielleicht Wachsfigurenhersteller u nd Artist. Da hat er
-die Mumie als Napoleon heranzftaffiert und bat fie als
-seinen Wunderautomaten vor der Zollbehörde in Riga aus-
-geaecben. Der Kavitän Dabbrsö erzählte uns ja, daß die Zöll-
-ner die Kiste vor der Einschissung auf die FREIEN. Ale
-tersucht hätten,«
+»Nun ja. Eine Mumie, die man aus Riga Hein &
+hinausschaffen wollte. Robba hat Das übernommen. Er
+ist vielleicht Wachsfigurenhersteller und Artist. Da hat er
+die Mumie als Napoleon herausstaffiert und bat sie als
+seinen Wunderautomaten vor der Zollbehörde in Riga aus-geaecben.
+Der Kapitän Dabbrsö erzählte uns ja, daß die Fälliger
+die Kiste vor der Einschiffung auf die freien. Als
+untersucht hätten,«
 
-Sch muste all das erst mal geistig verdauen.
+Ich mußte all das erst mal geistig verdauen.
 
-Eine Mumie?! Das wollte mir nicht in den Hopf...
-Allerdings, der Kamvsergeruch. sprach dafür. Aber
+Eine Mumie?! Das wollte mir nicht in den Kopf...
+Allerdings, der Kampfergeruch. sprach dafür. Aber
 
-»Einer Mumie wegen vier Morde, Harald?« sagte sch
-lant, Denn Schomp und Frau, Kraschon und der Voots-
-knecht, dazu die beiden spurlos verschwdiundenen Sutter: das
-waren Nobert Nobvbas Opfer!
+»Einer Mumie wegen vier Morde, Harald?« sagte ich
+plant, Denn Schomp und Frau, Kraschan und der Bootsknecht,
+dazu die beiden spurlos verschwdiundenen Kutter: das
+waren Robert Advokat Opfer!
 
-Weißt Du denn, was die Mumie wert (st?1» ertvi-
-derte Harst.
+Weißt Du denn, was die Mumie wert (et?!« erwiderte
+Harst.
 
 »Vier Morde?! Und das ganze Risiko!! Das kann nicht
-stimmen! Dazu noch Hanna Nenner, die doch einen recht sym-
-ra Eindruck machte und Die anf Der Die fo viel Liebe
+stimmen! Dazu noch Hanna Nenner, die doch einen recht sym-ra
+Eindruck machte und Die auf Der Die so viel Liebe
 an
 
-Harald nidie verfonnen. »Und — es tar trob allem
-eine Mumie!« murmelte er. »Deine Bedenken sind ja bes
-Wollen sehcn, ob Freund Vechert etwas ermit-
-telt hat.« —
+Harald nickte versonnen. »Und — es tat trotz allem
+eine Mumie!« murmelte er. »Deine Bedenken sind ja des
+Wollen sehen, ob Freund Bechert etwas ermittelt
+hat.« —
 
 <@pagebreak/>
 Als wie abends acht Uhr auf der Veranda des
-schen Ka beim Mbendörot faken, als Frau Munufie ar
-Haralds Mutter, und erzählte, daß Bechert schon zwelnal
-Tangerusen hätte, eilte Harald in’ sein« Arbeitszinumer und
-ß sich nrit dem Polizeipräsidium verbinden.
+sehen da beim Mbendörot faden, als Frau Munufie an
+Haralds Mutter, und erzählte, daß Bechert schon zweimal
+Tangerusen hätte, eilte Harald tu’ sein« Arbeitszimmer und
+ß sich mit dem Polizeipräsidium verbinden.
 
-Steinsinaltommilfar Vethert sei verreist, ua Nigg,
-lautete der Vescheid,
+Steinsinaltommilfar Verirrt sei verreist, na Riga,
+lautete der Bescheid,
 
-eas rief Bechert Dich an? fragie Harald seine
-uite
+Das rief Bechert Dich an? fragte Harald seine
+wie
 
-"Heute früh, erst um neun, dann uur acht nochmals.«
+»Heute früh, erst um neun, dann nur acht nochmals.«
 
-»Bon Wo!«
+»von Wo!«
 
-Das fagte er nicht, Er wollte Dich dringend fpreifen.
+Das sagte er nicht, Er wollte Dich dringend spielten.
 Er war recht schwer zu verstehen.«
 
-»Daun war’s bon außerhalb.« Harald machte dazu
-in sehr mißverguügtes Gesicht. Wir waren eben uit deu
-fall Nobha gus: den toieu Punkt angelangt.
+»Dann war’s von außerhalb.« Harald machte dazu
+in sehr mißvergnügtes Gesicht. Wir waren eben Mit den
+Fall Robba aus: den toten Punkt angelangt.
 
-Te Nach Tisch gingen« wir im GenWäsegarten auf und«
-b. Difen ,gefianden: ich begriff Haralds Verhalten: nich.
-ed hi! Ju-Spoiueuründe haite er alles getan, um den Anschein
-erwecken, daß wir ebenfalls exirunken selen. Und hier
-un, wo wir doch noch in Verkleiduug eingetrossen WATER,
-- hier hatte Harald si wieder. schn ven AUtags-Harsi vero
-jaudelt und auch mich veraulaßt, Perücke und Baci abzu
-gen, schlenderte uun mit uiir auf dem Haupiwege auf und
+De Nach Tisch gingen« wir im GenWäsegarten auf und«
+b. Difengefianden: ich begriff Haralds Verhalten: nich.
+es hi! In-Spoiueuründe hatte er alles getan, um den Anschein
+erwecken, daß wir ebenfalls ertrunken sehen. Und hier
+un, wo wir doch noch in Verkleidung eingetroffen Waden,
+- hier hatte Harald sich wieder. sein den Anlage-Harst vorn
+fandest und auch mich veranlaßt, Perücke und Bach oben
+gen, schlenderte nun mit wir auf dem Hauptwege auf und
 b, wo wir von dem Fahrweg aus, der zwischen unserem
-Jaun und dem Laubengelände entlanglief, veutlich zu ers
+Zaun und dem Laubengelände entlanglief, deutlich zu elf
 nen waren.
 
-Sch begriff vies nicht. Und — ed war doch eine fehr
-fache Kalkulation yon Harald, wie er mir plößlich exe
+Ich begriff dies nicht. Und — es war doch eine sehr
+einfache Kalkulation von Harald, wie er mir plötzlich exe
 
 »Wir haben Robbas Spur verloren,« sagte er. »Wir
-ssen versuchen, ihn zu einer Dunmiheit zu versühren.
-Sache liegt doch so: als. wir die Kiste geössnet hatten,
+Essen versuchen, ihn zu einer Dunmiheit zu verführen.
+Sache liegt doch so: als. wir die Kiste geöffnet hatten,
 obachiete er uns vom Schluchtrande. Er sah, daß ich der
-ngeblichen Wachsfigur das Gesicht befühlte. Und da merkte
-daß ih berqusgefunden hatte, was es mit dem wächser-
+angeblichen Wachsfigur das Gesicht befühlte. Und da merkte
+daß ich herausgefunden hatte, was es mit dem wächsernen
 <@pagebreak/>
-nen Napoleon auf fih hatte. Da weilte er uns Ya fielen,
-banılt er die Stifte nebft Inhalt durd; Schomp aufs Beflland
-binüberfhaffen fönnte, Als toic« daun Hanna Renners
-Flucht verhindern wollten, schoute er uns, weil — — er
-uns eben nicht auf der Oie ablun wollte. Er rechnete mit
+Napoleon auf sich hatte. Da weilte er uns Ja fielen,
+damit er die Stifte nebst Inhalt durch; Schomp aufs Bettrand
+hinüberschaffen könnte, Als tote« dann Hanna Renners
+Flucht verhindern wollten, schonte er uns, weil — — er
+uns eben nicht auf der Oie abtun wollte. Er rechnete mit
 einer Verfolgung durch uns. Auf See sollten wir sterben,
-»damit unser Tod als Unfall gelte. Nun siud bisher nux
-vier Leichen: angetrieben, wir beide niht. Da wird er eben
-jet vermuten, wir könnten uns gerettet haben, und wird
-Spione hierher schicken, die unser Haus beobachien sollen.
-Die Spione werdeu uns, hosse ich, über den toten Punkt
+»damit unser Tod als Unfall gelte. Nun sind bisher nur
+vier Leichen: angetrieben, wir beide nicht. Da wird er eben
+jetzt vermuten, wir könnten uns gerettet haben, und wird
+Spione hierher schicken, die unser Haus beobachten sollen.
+Die Spione werden uns, hoffe ich, über den toten Punkt
 Binipenhelfen.«
 
 Wir standen an der hinteren Gartenpforte,
 
-Drüben in den Lauberigärten arbeiteten Leute, Mäns«
-ner, Frauen, alle heiter und freudig, weil fie bier ihr Fled-
-chen Erde bestelleu kounten, Man rief uns Grüße zu. Wir
+Drüben in den Laubengärten arbeiteten Leute, März«
+ner, Frauen, alle heiter und freudig, weil sie hier ihr Fleckchen
+Erde bestellen konnten, Man rief uns Grüße zu. Wir
 standen mit diesen Nachbarn stets auf dem besten Fuße.
 
-Harald öjinete die Pforte. Wix überschritien den Weg,
-Ichnien uns an Meifter Gumberis Zaun. Der Schlosser
-Gumbert war ein Original. Er fam und drückte uns dle
-Hand. »Auch mal wieder Daheim,« meinte er. Daun spräch
-er über seine Staugenbohnen, die Diesmal gar nicht et
+Harald öffnete die Pforte. Wir überschritten den Weg,
+Schrien uns an Meister zuruderte Zaun. Der Schlosser
+Gumbert war ein Original. Er kam und drückte uns die
+Hand. »Auch mal wieder Daheim,« meinte er. Dann sprach
+er über seine Stangenbohnen, die Diesmal gar nicht et
 gedeihen wollten. Bis Harald so nebenbei fragte: »Die
-Lauben siud noch alle in Dene en Händen, wie?«
+Lauben sind noch alle in Tone en Händen, wie?«
 
 »Und ob, und ob! Das heißt: Damaschke hat die seine
-gestern abeud weiterverpachtet, hat ein jehörijet Stüd Jeld
-Dafür injeftedt, Herr Harfl. An ne Dares die die LOE
+gestern abend weiterverpachtet, hat ein jehörijet Stück Jeld
+Dafür injesteckt, Herr Harst. An ne Bares die die Los
 zur Erholung bewohnen will,«
 
-»Also ne alte Dante?«
+»Also ne alte Danke?«
 
-»ons Jejenteil — ne junge! So ne mit’n Tituskopp,
-Herr Harst. Heit frieh sind sie iujezogen.«
+»ans Jejenteil — ne junge! So ne mit’n Tituskopp,
+Herr Harst. Hei! frieh sind sie injezogen.«
 
-Den Namen Damaschke hatten wir uoch nie gehört, wes
-nigftens nicht als Den eines Nachbaru.
+Den Namen Damaschke hatten wir noch nie gehört, weg
+riskiert nicht als Den eines Nachbarn.
 
-»Damaschtes Laube liegt doh drüben anm anderen
+»Damaschkes Laube liegt doch drüben arm anderen
 Ende,« sagte Harst, scheinbar ganz im Bilde.
 
-»Nee, nee, dort die vierte aut Hauptwege ist’s, die mit
+»Per, per, dort die vierte gut Hauptwege ist’s, die mit
 <@pagebreak/>
-der Windmühle aufın Dach."
+der Windmühle aufın Dach.«
 
-Harald. blidie mich an, wandte ih wieder Gumbert
-t. »Weifier,« ertlärte ex nahprüdiid, »Sie können schwei]
-zen, wenn’s drauf anfonmt. Sagen Ste nizmandem, daß
-wir über Damaschke gesprocheu haben. Sept leihen Sie mix
-zum Schein Zhreu Sartenfprigenichlaud.«
+Harald. blickte mich an, wandte ich wieder Gumbert
+t. »Weither,« erklärte er nahprüdiid, »Sie können schwer]
+duzen, wenn’s drauf ankommt. Sagen Sie niemandem, daß
+wir über Damaschke gesprochen haben. Jetzt leihen Sie mir
+zum Schein Ihren Sartenfprigenichlaud.«
 
-»Aha — da stimmt was nicht Ob ich schiveigen kauu!«
-md er holte den Schlauch,
+»Aha — da stimmt was nicht Ob ich schweigen kann!«
+und er holte den Schlauch,
 
-Wir kehrten in ven Gemüsegarten zurüd, schraubten
-Schlauch aun eins der Wasserleitungsrohre und spretnig-
-die Beete. Nachher brachien wir veu Schlau) Gumbhert
-it Dant zurück,
+Wir kehrten in den Gemüsegarten zurück, schraubten
+Schlauch nun eins der Wasserleitungsrohre und spretnig-die
+Beete. Nachher brachten wir neu Schlau) Gumbhert
+ist Dank zurück,
 
 Und abends elf Uhr lagen wir hinter unserem Zaun
-wischen deu Kürbisblättern am Komposthaufen und beob-
-chieten drüben den Hauptweg der Laubenkolouie.
+wischen den Kürbisblättern am Komposthaufen und beobachteten
+drüben den Hauptweg der Laubenkolonie.
 
 Es war windig geworden. Es regnete sacht. Das
-prengen hätten vir uus sparen fönueu, tvenwg nicht eben
-ig gewesen wäre, um jedes Pißtrauen der Damaschke-
-jolger zu zerstreuen, wir könnten auf sie ausmerksam
-orden selu,
+sprengen hätten wir uns sparen können, sprang nicht eben
+is gewesen wäre, um jedes Pißtrauen der Damaschke-jolger
+zu zerstreuen, wir könnten auf sie aufmerksam
+Orden sein,
 
-Auf allen Bieren Hatten wir unseren Beobachtungs-
-erreicht. Ju den Laubengärten’ war 23 fill geivor«
-Hinter den Feusiern einiger Häuschzu schimmerte Licht.
-wohnten jeht Die Vefiper — die Sommersrische der
+Auf allen Bieten Hatten wir unseren Beobachtungs-erreicht.
+In den Laubengärten’ war 23 Will gefror«
+Hinter den Fenstern einiger Häuschen schimmerte Licht.
+wohnten jetzt Die Verirrt — die Sommerfrische der
 derbemittelten!
 
-Es wurde Mitternacht, — Wir halten Gununimäntel
-älteste Garnitur, hatten dase gesorgt, daß twiz uicht
-icht zu erkennen wären.
+Es wurde Mitternacht, — Wir halten Gummimäntel
+älteste Garnitur, hatten Vase gesorgt, daß Ewig nicht
+ich! zu erkennen wären.
 
-Kurz na zwölf Uhr fam eiu Maun von Damaschkes
-be her deu Weg entlanggeschlichen.
+Kurz na zwölf Uhr kam ein Mann von Damaschkes
+be her den Weg entlanggeschlichen.
 
-Sletterte Über unseren »Zaun . , »Machte es wie wir
+Kletterte Aber unseren »Zaun., »Machte es wie wir
 in: kroch auf das Haus zu ....
 
 Und wir — binterprein!
 
-Wir blieben unbemerkt hiuter dem fchlanfen Menschen,
-eincn starfen blonden VoUbart hatte und uun an der hiu-
-eren Haustür fnietc. -
+Wir blieben unbemerkt hinter dem schlanken Menschen,
+einen starken blonden Bonbons hatte und nun an der hinteren
+Haustür kniete. -
 
 <@pagebreak/>
 Nur Sekunden De
 
 Dann kroch er wieder davon.
 
-»Warte!« flüsierte Harald. «
+»Warte!« flüsterte Harald. «
 
-Er folgte ihm allein — war nach zehn Glinuien m wieder
+Er folgte ihm allein — war nach zehn Glimmen in wieder
 neben mir.
 
-"Er hat Damafchtes Bam betreten,« meldete er. »Sch
+»Er hat Damaschkes kam betreten,« meldete er. »Ich
 hörte drinnen Stimmen. Der Mann war Hanna Renner?
-Und auf der Schwelle ber Haustür fanden wir einen
-Brief, zusammengefaltet zwischen Tür und . Schivelle gt-
-MN Zafen dann in Haralds Arbeitszimmer folgendes
-eine Mäunerhaudschrist, krißlich wie die eines Krankeu.
+Und auf der Schwelle der Haustür fanden wir einen
+Brief, zusammengefaltet zwischen Tür und. Schwelle glomm
+Hafen dann in Haralds Arbeitszimmer folgendes
+eine Männerhandschrift, kritisch wie die eines Kranken.
 
-»Herr Harst, Sie find als Befchüßer aller Bedrängten.
-betont. Man hat gegen unferen Willen ungeheure Ver
-brechen begansen, Wix sind in fijwwere Schuld. verstrickt
-worden, ohne schuldig zu scin.« Man hat uus ausgeplüns
-dert, und nur ein Wunder isl’s geradezu, daß wir jlichen
-konnten, Nobert Nobba hat uns fchändlich betrogen, uus
-ant den Bettelstab gebracht, Wir müffen uns jegt vor zivei«
-fachen Feinden fügen. Helfen- Sie uns! Suchen Sie RNo-
-bert Robba und nehmen Sie ihm wieder ab, was er uns
-raubte. Lassen Sie sich uicht durch sein Ausschen täuschen.
-Er ist in Wahrheit hager, kann sein Gesicht in unglauhs
-licher Weife verändern, Er ift Arlist. — Mehr darf ich nicht
-verraten. Sie hören noch vou uns.
+»Herr Harst, Sie sind als Beschützer aller Bedrängten.
+betont. Man hat gegen unseren Willen ungeheure Der
+brechen begangen, Wir sind in kümmere Schuld. verstrickt
+worden, ohne schuldig zu sein.« Man hat uns ausgeprägt
+der!, und nur ein Wunder ist’s geradezu, daß wir glichen
+konnten, Robert Robba hat uns schändlich betrogen, uns
+an! den Bettelstab gebracht, Wir müssen uns jetzt vor zwei«
+einfachen Feinden fügen. Helfen- Sie uns! Suchen Sie erobert
+Robba und nehmen Sie ihm wieder ab, was er uns
+raubte. Lassen Sie sich nicht durch sein Aussehen täuschen.
+Er ist in Wahrheit hager, kann sein Gesicht in unsinnig
+redlicher Weile verändern, Er ist Artist. — Mehr darf ich nicht
+verraten. Sie hören noch von uns.
 
 Harxald nahm ein Zündholz. Der Brief nebst Umschlag
-flanımite auf. Selbst die Asché zerricb Harst.
+flanımite auf. Selbst die Asche zerrieb Harst.
 
-»Nach Damaschles Laube,« sagte er dann.
+»Nach Damaschkes Laube,« sagte er dann.
 
-Durch den Garten über den Feldweg — aul Umwe
-gen and Ziel... kriechend, horchend, fpähend...
+Durch den Garten über den Feldweg — auf Ums
+gen und Ziel... kriechend, horchend, spähend...
 
-Meine Gedauken eilten uns voraus.
+Meine Gedanken eilten uns voraus.
 
-Wer war der Briefschrciber, wer — — ?!
+Wer war der Briefschreiber, wer — —?!
 
-Und dann — daun der überraschende Ansgang des
-ersten Teiles ves Napoleou-Problems
+Und dann — dann der überraschende Ausgang des
+ersten Teiles des Napoleon-Problems
 
-Dann eine »Nexvenprobe — cin Tanz am Rande des
-Vodes.... Das brachte diefe Zulinacht ». 1 -
+Dann eine »Nervenprobe — ein Tanz am Rande des
+Todes.... Das brachte diese Aufmacht ». 1 -
 
-SRsrck
+Sperrt
+
 <@pagebreak/>
-
-<h2>5. Kavitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Der Sieg der besseren Nerven.</h3>
 
-Damaschkes Laube, ein Stück Ban-Poesie elnes Na-
-tursréudigen, eines Menfchen, ber fich keine Zigarre, keinen
-- Schlud Bier gönnt, nur um das Geld fllr den Delfärben-
-anstrich seined Lanbenhähschens. zufammengufparen.. — Es
-gibt nicht viele bon Dantafchles Art im. heutigen BDeutfche.
+Damaschkes Laube, ein Stück Fan-Poesie eines Na-tursréudigen,
+eines Menschen, der sich keine Zigarre, keinen
+- Schluck Bier sorgt, nur um das Geld Alle den Delfärben-anstrich
+geirrt Lanbenhähschens. zufammengufparen.. — Es
+gibt nicht viele von Dantafchles Art im. heutigen Deutsche.
 Tand. Wir haben diesen Mann später genauer kennen und
-daher hocyichägen gelernt. Daheim. elne kranke Frau, dret
-Kinder: nur daher hatte ex sein Stückchen Poesie weiter ber-
-pachtet!
+daher hocyichägen gelernt. Daheim. eine kranke Frau, drei
+Kinder: nur daher hatte er sein Stückchen Poesie weiter betrachtet!
 
-Ein Zaun um den. Garten, »aus Straichwei? gefloch
+Ein Zaun um den. Garten, »aus Straichwei? Eckloch
 ten. Aber — wie sauber geflochten, wie glatt beschnitten,
-wie gefegmadvolf, gestrichen! Und über dem -Zaun Stachel-
-drähte gespannt regen das Diebespak der Laubenkolonien,
-das edt zerstört als erbeutet. —
+wie gefegmadvolf, gestrichen! Und über dem -Zaun Stacheldrähte
+gespannt regen das Diebesgut der Laubenkolonien,
+das echt zerstört als erbeutet. —
 
 An der Pforte des Zaunes machten wir hält.
 
-Harald flüsterte: »Es ist noch Licht hinter den gesschlos-
-senen Fensterladen. Wir müssen die Stacheldrähte oben weit
-anseinanderhalten, dann können wir hindurch. Fch möchte . ,«»
+Harald flüsterte: »Es ist noch Licht hinter den geschlossenen
+Fensterladen. Wir müssen die Stacheldrähte oben weit
+auseinanderhalten, dann können wir hindurch. ich möchte.,««
 
-Und sschwieg plößlich. -
+Und schwieg plötzlich. -
 
-Wir beide sahen’s durch dle fallenden Negensträhnen:
+Wir beide sahen’s durch die fallenden Negensträhnen:
 da stand ein Mann vor, dem linken erleuchteten Fenster, denn
-— der Lichistreisen war plößlich verschwunden.
+— der Lichtstreifen war plötzlich verschwunden.
 
-Ein Mann, nur erkeunbar wie cin schwarzer länglicher
-Fleck... Ein Lauscher, ein .…. Felnd vielleicht, — vielleicht!
+Ein Mann, nur erkennbar wie ein schwarzer länglicher
+Fleck... Ein Lauscher, ein .…. Feind vielleicht, — vielleicht!
 
-Ich mertte, daß Harald in die Jackentasche griff. -.
+Ich merkte, daß Harald in die Jackentasche griff. -.
 
-Jch merkte, es wurde ernst...
+Ich merkte, es wurde ernst...
 
-Und meine Augen bohrten sich in das dliftere Negen-
-au hinein . . »Meine Nase tvurde umschmelichelt von zar,
-ten Neltendiliten. Ein ganzes Beet Nelken blühte ba did
-or uns, — Welcher OMe mad! Freundliche Kinder des
-ommers, dustschwanger, in helleren Farben, — und brei
+Und meine Augen bohrten sich in das düstere Negen-au
+hinein.. »Meine Nase wurde umschmelichelt von zur,
+ten Neltendiliten. Ein ganzes Beet Nelken blühte da dich
+or uns, — Welcher Eine mach! Freundliche Kinder des
+Tunnels, dustschwanger, in helleren Farben, — und Brei
 <@pagebreak/>
-Schritt welter das häßliche Bild des geldglerigen, heini-
-tückischen Verbrecher3: der Mensch!
+Schritt weiter das häßliche Bild des geldglerigen, heimtückischen
+Verbrechers: der Mensch!
 
 Nicht ein einzelner ur...
 
-Nein — da war cin zweiter Schatten um das Häus-
-chen geschlüpft, verschmolz mit dem ersten in eins.
+Nein — da war ein zweiter Schatten um das Häuschen
+geschlüpft, verschmolz mit dem ersten in eins.
 
 Ein dritter dann — alle drei vor dem Fenster.
 
-Und drinnen jeht im Häuschen mit einem Male leise
-— ganz«leise Mandolinenklänge
+Und drinnen jetzt im Häuschen mit einem Male leise
+— ganz leise Mandolinenklänge
 
 Harst letzte mir die Hand auf den Arm. »Achtung!
-E8 gibt etwas!«
+Es gibt etwas!«
 
-Die drei Schatten waren nur mchr wie ein regloser
-Klumpen an der Wand des Häuschens. REN
+Die drei Schatten waren nur mehr wie ein regloser
+Klumpen an der Wand des Häuschens. Rom
 
-Sp vergingen fünf — zehn Minuten.
+So vergingen fünf — zehn Minuten.
 
-Das wütende Dlaffen eines Hundes flörte die zarte
-Musik der Mandoline. Von den Fliedersträuchern, den Obst-
-bäumen tropfte der Regen. Ein Hahn krähte in der Nähe,
-ein Gockel, der sih wohl in der Zeit geirrt hatte. Die Mor-
-genstunde war noch fern...
+Das wütende Blaffen eines Hundes klärte die zarte
+Musik der Mandoline. Von den Fliedersträuchern, den Obstbäumen
+tropfte der Regen. Ein Hahn krähte in der Nähe,
+ein Gockel, der sich wohl in der Zeit geirrt hatte. Die Morgenstunde
+war noch fern...
 
-Seltsam — mir schoß e838 durch den Kops: »Wenn der
-Hahn dreimal krähet, wirst Du mich verraten haben.«
-Kindheitserinnernngen . . »! Welchen Eindruck hatte gerade
-leser Ausspruch des Menschheitéerlösers aus mich gemarht!
+Seltsam — mir schoß e838 durch den Kopf: »Wenn der
+Hahn dreimal kostet, wirst Du mich verraten haben.«
+Kindheitserinnerungen.. »! Welchen Eindruck hatte gerade
+Leser Ausspruch des Menschheitéerlösers aus mich gemacht!
 
-Doch der Lanbengockel hier frähte nur einmal.
+Doch der Lanbengockel hier krähte nur einmal.
 
-Und — mir war’s, als käme Bewegung in die drei Ges
+Und — mir war’s, als käme Bewegung in die drei See
 allen...
 
-Sie waren verschwunden. Der Lichistreisen war mies
-ber da, fehinmerte friedlich durch die Nacht, begleitet von
+Sie waren verschwunden. Der Lichtstreifen war wies
+der da, schimmerte friedlich durch die Nacht, begleitet von
 dem melodischen Schwirren der Mandolinensaiten.
 
-Wir warteten — warteten geduldig — eine Viertel-
-slunde. — Harald war inzwischen« lautlos davongeschlichen,
-En zurückgekehrt, meldete: »Die Kerle müssen sic entfernt
-ben.«
+Wir warteten — warteten geduldig — eine Viertelstunde.
+— Harald war inzwischen« lautlos davongeschlichen,
+Er zurückgekehrt, meldete: »Die Kerle müssen sich entfernt
+eben.«
 
 Schließlich wagten wir’s, als es für kurze Zeit noch
-slärker regnete, überfliegen den Zaun, pochien ganz leise ge-
-gen den Laden...
+stärker regnete, überfliegen den Zaun, packten ganz leise gegen
+den Laden...
 
-Licht erlosch. Mandoline verstumnrte. — Dann eine
+Licht erlosch. Mandoline verstummte. — Dann eine
 <@pagebreak/>
-Stimme von drinnen — aus dem etwas geöffneten Tem
-ster: »Wer ist dort draußen ?« — eine Stimme, die voller
+Stimme von drinnen — aus dem etwas geöffneten dem
+Laster: »Wer ist dort draußen?« — eine Stimme, die voller
 Angst war und doch drohte!
 
-»Harst!« slüsterte der Freund neben mir. »Jh habe
-hren Brief bereits gelefen. - Ich bin Fränlein Hanna ge-
-folgt
+»Harst!« flüsterte der Freund neben mir. »Ich habe
+Ehren Brief bereits gelesen. - Ich bin Fräulein Hanna gefolgt
 
-Minuten nichts. Drinnen berieten fie wohl. Dann
+Minuten nichts. Drinnen berieten sie wohl. Dann
 dieselbe Stimme: »Wir lassen Sie ein. Aber — beweisen
-Sie erst, daß Sie Harst Kind. Den Brief fann ein Unberu-
-fener an sih gebracht haben.«
+Sie erst, daß Sie Harst Kind. Den Brief kann ein Unberufener
+an sich gebracht haben.«
 
 Und Harald entgegnete: »Wenn Sie mißtrauisch sind,
-fommen Sie zu mir, meinetwegen um süns Uhr, wenn es
+kommen Sie zu mir, meinetwegen um fünf Uhr, wenn es
 hell geworden, wenn Sie nichts zu fürchten brauchen.«
 
-Wieder Stille .’:.. Und num: »Sur — wir öffnen.«
+Wieder Stille’:.. Und nun: »zur — wir öffnen.«
 
 Die Tür schob sich auf, eine Handbreit. - Ein greller.
-Lichtbliß schoß über: uns hin.
+Lichtblitz schoß über: uns hin.
 
-»Harft und Schraut,« erffätte a rast - «Löschen
+»Harst und Schraut,« erklärte uralt - »Löschen
 Sie die Laterne aus. -
 
-Die Tür ging welter auf
+Die Tür ging weiter auf
 
-Und — hier auf der Schiele ok te hintertistige
+Und — hier auf der Schiebe Ok te hintertistige
 Angriff — von hinten
 
-Bmel Hiebe — blibschnell, daß wir in. die Knie knickten.
+Zwei Hiebe — blitzschnell, daß wir in. die Knie knickten.
 
 Und nur noch ein paar. angstvolle, »rasch erstickende
 Schreie vernahmen
 
-Und fünften, tele man uns ochriß, votmärtäftteh, mie
-gleichzeitig unfere Handgefente mie von Schmerzen nefoltert
-fi vereinigten. Zinldraht war’s, den - die Schuste ziem
-Feyeln benngten!
+Und fünften, lese man uns Geheiß, votmärtäftteh, wie
+gleichzeitig unsere Handgelenke wie von Schmerzen gefordert
+sich vereinigten. Zinkdraht war’s, den - die Schufte sien
+Feiern benutzten!
 
-Die kurze Betäubung wid.
+Die kurze Betäubung wich.
 
-Wir saßen nebeneinander auf dem Rande eines Beties
+Wir saßen nebeneinander auf dem Rande eines Bettes
 im erleuchteten Lanbenftübchen.
 
-Uns aegenüber auf dem anderen Bett ein blondes Mäd-
-den mit Tituskopf, ein greisenhaster Mann — auch geses-
-selt, zwischen uns ein Tisch, vier Leute, vier Kerle, Strolche,
-Strolchkostüm ... Und in den Händen zweler dieser Ban-
+Uns gegenüber auf dem anderen Bett ein blondes Mädchen
+mit Tituskopf, ein greisenhafter Mann — auch gefesselt,
+zwischen uns ein Tisch, vier Leute, vier Kerle, Strolche,
+Strolchkostüm ... Und in den Händen zweier dieser Banditen
 <@pagebreak/>
-diten Wasfen, wie Satanas sie ihnen verschafft: Heine Sie
+Waffen, wie Satanas sie ihnen verschafft: keine Sie
 jefttongsprigen ...!
 
-Sapte da der cine Kerl auch fihon hobniriefend:
+Sagte da der eine Kerl auch sicher hohntriefend:
 
-»Ein lautes Wort, und die Dinger jagen Euch Blau-
-säure ins Blut — wie rändigen Kötern! Mertt Euch das!
+»Ein lautes Wort, und die Dinger jagen Euch Blausäure
+ins Blut — wie Kündigen Kötern! Merkt Euch das!
 Das wirkt blikartia.«
 
-Dann — krähte ber Kerl — Trähte ziwelmaf, lachie
+Dann — krähte der Kerl — krähte ziwelmaf, lachte
 leise...
 
-»Scht Ihr — das war meine Warnung! Jhr ahntet
-niht, daß ich binter Euch her war. Die Warnung galt den
+»echt Ihr — das war meine Warnung! Ihr ahnte!
+nicht, daß ich hinter Euch her war. Die Warnung galt den
 drei Freunden.«
 
-Zu uns sprach er’s, zu uns beiden. Und sügte hinzu:
-»Vom Kutter feid Jhr (chend ‘entwischt. Hier nicht! Hier
-nicht, fo wahr ZJhr gesährlich seid!«
+Zu uns sprach er’s, zu uns beiden. Und fügte hinzu:
+»Vom Kutter seid Ihr (elend entwischt. Hier nicht! Hier
+nicht, so wahr Ihr gefährlich seid!«
 
-Grinfte uns an .. »Wenn morgen — übermorgen hier
-vier Kadaver gesunden werden, mag die Polizei sich den
+Grinste uns an .. »Wenn morgen — übermorgen hier
+vier Kadaver gefunden werden, mag die Polizei sich den
 Kopf zerbrechen, wie ...«
 
-»Das ist ein Jrrtum,« flel Harst ein, »die Polizei
-braucht fich über nichts mehr den Mopf zu zerbrechen. Was
-in Niga geschehen, wie. Graf Nonnow aus dem Gesängnis
+»Das ist ein Irrtum,« fiel Harst ein, »die Polizei
+braucht sich über nichts mehr den Moos zu zerbrechen. Was
+in Riga geschehen, wie. Graf Ronnow aus dem Gefängnis
 befreit wurde, ist kein Geheimnis mehr.«
 
-Der Kerl feixte nit mehr. Jun seiner Haltung war
+Der Kerl feixte nicht mehr. Jan seiner Haltung war
 eine gewisse Unruhe.
 
-»Dort jikt Graf Alexander Nonnow,« fuhr Harst ebenso
-fetoftficher fort. »Neben ihm seine Tochter, Die den Artiften
-Robert Nobba für die Besreiung warb, die ihn der-
-traute, die selbst als Artist mit nach Riga ging. — Der durch
-ein Schlasmittel betäubte Graf wurde als Napoleon in die
+»Dort gibt Graf Alexander Ronnow,« fuhr Harst ebenso
+fetoftficher fort. »Neben ihm seine Tochter, Die den Artisten
+Robert Robba für die Befreiung ward, die ihn vertraute,
+die selbst als Artist mit nach Riga ging. — Der durch
+ein Schlafmittel betäubte Graf wurde als Napoleon in die
 
-Abermals hastige Beratung. Und dabci verschwanden
+Abermals hastige Beratung. Und dabei verschwanden
 ihm die Flucht aus Riga, gelingen. Und in der Kiste lagen
-noch die Rowmnow-Juwelen. Das war für Nobba bie
+noch die Krummen-Juwelen. Das war für Robba die
 Hauptsache.«
 
-Harald Tachte Teife auf. »Mahrfcheintich werbet Ahr.
-una hier wirklich ermorden! RSTI SOON ich’s
-on Gurer Stelle nicht täte.«
+Harald dachte Teile auf. »Wahrscheinlich werdet Ihr.
+nun hier wirklich ermorden! Reif Soog ich’s
+entzwei Stelle nicht täte.«
 
 <@pagebreak/>
-Dieses ieise Lachen war und ifi vielleicht das Beste, was
-orsi je geleistet hat,
+Dieses leise Lachen war und ist vielleicht das Beste, was
+drei je geleistet hat,
 
-Ein Laczen, das jo viel Sicherheitsgesühl, so viel vers
-Mlecktes Drohon, [so viel triumphierende Uceberlegenheit auss
-üdkie — und doch nur geheuchelt war, — das, das soll man
-arald Zarst in einer solchen Lage nachmachen, ein Lachen
-Bande bes Todes — folch ein Lachen!
+Ein Warten, das so viel Sicherheitsgefühl, so viel Vers
+Mlecktes Drohen, [so viel triumphierende Uceberlegenheit aus
+Reckte — und doch nur geheuchelt war, — das, das soll man
+Harald Harst in einer solchen Lage nachmachen, ein Lachen
+Bande des Todes — solch ein Lachen!
 
-Der Kerl, der hier den Wortführer fpiclte, blidte fin
-er zu Boden. NE
+Der Kerl, der hier den Wortführer spielte, blickte Ein
+er zu Boden. ne
 
 Und Harald schwieg — wartete
 
-Vis der Kerl seine drei Kumpane anschaute — wie
-end, wie gequält von ber Last eigener Bexautwortung.
+bis der Kerl seine drei Kumpane anschaute — wie
+Abend, wie gequält von der Last eigener Verantwortung.
 
-Harft fante Da ganz laut zum anderen Bett hin: »Herr
-Yras, zwei Stunden uach Jhrem Einzug hier war das Lau-
-hengelände mit Kriminalpolizei gespickt, Ju dieser Stunde
-wird auch NRobba verhastet.«
+Harst sagte Da ganz laut zum anderen Bett hin: »Herr
+Gras, zwei Stunden nach ihrem Einzug hier war das Laubengelände
+mit Kriminalpolizei gespickt, In dieser Stunde
+wird auch Robba verhaftet.«
 
-Die vier Gesellen traten ans Fenster, bexieten
+Die vier Gesellen traten ans Fenster, berieten
 
 Nicht lange. Der Sprecher wandte sich an Harald,
 
 »Wenn Sie uns eutschlüvsew4alsen, Herr Harst, vollen
-dix Sie schonen.« — Jun Ton und Blick des Halunken war
-Uvas Lauerndes. Jch fühlte geradezu: er wollte nur sehen,
-Harald auf deu Vorschlag eingehen würde, der lein Vor-
-chlag, nur eine Falle war. Hätte Harald mit ja geantworx-
-et, dann hätte der Vkusch gewus;t, baß Harst keine Hilse
-ñ der Nähe hatte, daß Harst nur eine scine Kourödie spielte.
+Fix Sie schonen.« — Jan Ton und Blick des Halunken war
+Moos Lauerndes. Ich fühlte geradezu: er wollte nur sehen,
+Harald auf den Vorschlag eingehen würde, der sein Vorschlag,
+nur eine Falle war. Hätte Harald mit ja geantworx-et,
+dann hätte der Blutet genug;t, laß Harst keine Hilfe
+ñ der Nähe hatte, daß Harst nur eine seine Komödie spielte.
 
-»Jh Sie enischlüpsen lassen?! Wie könnte ich das ?r1»
-meinte Harald fast unwillig — scheinvar. »Kriminalkom-
-nissar Bechert, mcin Freund, stellt mit drei Beamten vorn
-des alten Gumbert Häuscyen — als Gumbert masklert,
-md Vecherts Wachen dürften fon an dem Fenster stechen.
+»Ich Sie entschlüpfen lassen?! Wie könnte ich das?r1»
+meinte Harald fast unwillig — scheinbar. »Kriminalkommissar
+Bechert, mein Freund, stellt mit drei Beamten vorn
+des alten Gumbert Häuschen — als Gumbert maskiert,
+und Becherts Wachen dürften son an dem Fenster stechen.
 Nein, das liegt außerhalb jeder Möglichkeit. Was Sie tun,
-Ihre Sale. Für mich ist der Fall Robba erlcdigi,»
+Ihre Safe. Für mich ist der Fall Robba erledigt,«
 
-Abermals hastige Beratung. Und dabei verichtvanden
-le fleinen Nickelsprivgn, entleerten ihren Juhalt auf deu
-Ußboden. Die Kerle nahmen uns die Drahisesselu ab.
+Abermals hastige Beratung. Und dabei verschwanden
+je kleinen Nickelsprivgn, entleerten ihren Inhalt auf den
+Abhoben. Die Kerle nahmen uns die Drahtfesseln ab.
 
-Und der Sprecher fante- adhjelindend: »Wir vier sind
+Und der Sprecher sagte- adhjelindend: »Wir vier sind
 <@pagebreak/>
-nur Nobbas Werkzeuge gewesen, wir bereuen, baß wir uns
-mit ihm eingelaffen haben.«
+nur Robbas Werkzeuge gewesen, wir bereuen, laß wir uns
+mit ihm eingelassen haben.«
 
-Er hatte das leyte Wort noh nicht über die Lippen,
-al3 Haralds Clement den Stroldhen bie Häude emportricb,
+Er hatte das leise Wort noch nicht über die Lippen,
+als Haralds Clement den Strolchen die Hände emporschob,
 
-» »Hände hocy!l« Das hatie fo Jihneidend, fo drobend ge
-klungen, als würde Die Heine Pistole die Drohung sofort be-
-träftigen.
+» »Hände hoch!l« Das hatte so Jihneidend, so drohend ge
+geklungen, als würde Die keine Pistole die Drohung sofort bekräftigen.
 
 Die Gräfin war’s, die den Strolchen nun die Arme auf
-dem Nücken zusammenband, während Harst vem Sprecher
-erklärte: »Mann, Sie sind ein unbegabter Ausänger —
-nichts weiter! Ste hatten uns in Jhrer Gewalt — uud
+dem Rücken zusammenband, während Harst dem Sprecher
+erklärte: »Mann, Sie sind ein unbegabter Anfänger —
+nichts weiter! Sie hatten uns in Ihrer Gewalt — und
 draußen ist niemand, der uns Hilfe gebracht hätte!« — -
 
-So endete der erste Teil des wächserneu Napoleon.
+So endete der erste Teil des wächsernen Napoleon.
 
-Was Graf Alexander Nounow uns mitteilte — als
+Was Graf Alexander Ronnow uns mitteilte — als
 Ergänzung von Haralds Angaben, — wie Harald den Kern
-des Geheimnisses der Holzliste erraten hatte, al das bile
-det die Ueberleitung zu dex ... Drehorgel des Vettlers« «
+des Geheimnisses der Holzkiste erraten hatte, all das Eile
+det die Ueberleitung zu der ... Drehorgel des Bettlers« «
 
 <@pagebreak 33/>
 
@@ -1440,1590 +1433,1444 @@ det die Ueberleitung zu dex ... Drehorgel des Vettlers« «
 <h2>1. Kapitel.</h2>
 <h3>Der Bettler mit der Drehorgel.</h3>
 
-Es war das erbärmlichste Jnsirument dieser Ari, das
-Menschenohren beleidigt und vaher reichlichere Bfaben, als
-in Dreborgelfpieler fie fonjt einzufommeln pflegt, erpreßt
-hat. Und ber Dann, der die urbek des befshabten, auict
-chenden Kastens beebte, paßte genau zu diesem iwie vou et-
-nem Müllplay asiaclefenen Maxtergehäuse: bucklig, abs
-zerissen, Fragmente von Schuhen, mit Bindfaden ummridelt,
+Es war das erbärmlichste Instrument dieser Art, das
+Menschenohren beleidigt und daher reichlichere Braven, als
+in Drehorgelspieler sie sonst einzufommeln pflegt, erpreßt
+hat. Und der Dann, der die Uebel des Festhalten, guter
+machenden Kastens deckte, paßte genau zu diesem rufe von einem
+Müllplatz asiaclefenen Maxtergehäuse: bucklig, als
+gerissen, Fragmente von Schuhen, mit Bindfaden ummridelt,
 an den Füßen, ein altes, saltenzerrissenes Greisengesicht, ein
-ige durch ein Pflaster veckleti, — wirklich ein Anblick, Der
-das Mitgesühl wachrief.
-So sland der Alte am 16. Juli nachmitiags vier Uhr
-ht dor ber Tüe des Vorgartens des Harstsc;en Hauses,
+obige durch ein Pflaster verhielt, — wirklich ein Anblick, Der
+das Mitgefühl wachrief.
 
-Harst und ich, soeben erft nunier geworben nach einem
-läugeren Verdaaungsschlas, waren ans Feuster geireten,
-uten durch die Tüllvorhänge nach dem Drehorgelspieler«
-8, dessen Wimmerkasten ein Dußend Kinder aus der Rad
-rschaft verfammelt hatie,
+So stand der Alte am 16. Juli nachmittags vier Uhr
+ht vor der Tür des Vorgartens des Sanfter;en Hauses,
 
-Wit einem Vale laugte Harald nach dem Schreibtisch
-tüber und nahm das für alle Fälle stets bereiisleheude
-mu zur Hand, stellte es auf ben Veitler ein und fagie
-MID: NH hi
-TE
+Harst und ich, soeben erst munter geworben nach einem
+längeren Verdaaungsschlas, waren ans Fenster getreten,
+Guten durch die Tüllvorhänge nach dem Drehorgelspieler«
+8, dessen Wimmerkasten ein Dutzend Kinder aus der Rad
+Herrschaft versammelt hatte,
+
+mit einem Male langte Harald nach dem Schreibtisch
+rüber und nahm das für alle Fälle stets bereiisleheude
+mu zur Hand, stellte es auf den Bettler ein und sagte
+Mit: Ah hi
+
 <@pagebreak/>
-VOII IHHHHH 31 VEDE
+»Vielseitig, der Mann! Mit der Rechten dreht er die
+Kurbel, mit der Linken, die er so merkwürdig ans Herz sei
+drückt hält, macht er Fingerbewegungen wie ein sKlavier-spieler.
+Bitte — sieh Dir dies zu, mein Alter.«
 
-»Bielfeilig, der Mann! Mit der Nechien brebt er bie
-Kurbel, mit der Linken, die er so merkwürdig ans Herz ges
-drücdt hält, macht er Fiugerbewegungen wie ein sKlavier-
-spieler. Bitte — sieh Dir dies au, mein Alter.«
+Allerdings: das war festlag, war auffallend,
 
-- . Allerdings: das war feltfan, war aufjallend,
-»Vielleicht leidet dex Ulte an nervösen Haudzuckungeu,»
-meinte ih und seÿßte das Feruglas ab.
+»Vielleicht leidet der Alte an nervösen Handzuckungen,«
+meinte ich und setzte das Fernglas ab.
 
-Harald gab mir eiue Baukuote. »Da, prüfe, ob ber
-Maun verkleidet ist.«
+Harald gab mir eine Banknote. »Da, prüfe, ob der
+Mann verkleidet ist.«
 
-Jch ging hinaus — durch den Vorgarten, über ben
-BVürgersieig, reihte dem Betiler den Geldschein
+Ich ging hinaus — durch den Vorgarten, über den
+Bürgersteig, reihte dem Bettler den Geldschein
 
-Und sah sofort, daß hier ein echter Greis, kein zrecht-
-geschmiukler Spion oder dergleichen seiner Not zerschlissene
-Lumpen zur Schau steilte. Sah auch, daß das gesunde Aus
-ge des Beiilers einen seltsam aus Herz greiseudeu Ausdruck
-tiessten Leides zeigte, — nicht jenen Ausdruck komödieuhaf-
-ter Wehleidigkeii der professionellen Schuorrer, nein, etwas
-wahrhaft Erschütterndes, das Milgesühl Packendéës.
+Und sah sofort, daß hier ein echter Greis, kein zrecht-geschmiukler
+Spion oder dergleichen seiner Not zerschlissene
+Lumpen zur Schau stellte. Sah auch, daß das gesunde Aus
+ge des Bettlers einen seltsam aus Herz gleißenden Ausdruck
+tiefsten Leides zeigte, — nicht jenen Ausdruck komödieuhaf-ter
+Wehleidigkeii der professionellen Schnorrer, nein, etwas
+wahrhaft Erschütterndes, das Mitgefühl Packendéës.
 
-Der Alte flanımelte einen Darik
-Und — dabei veränderte sich sein Gesicht fo plöhlich,
-daß ih einen Moment in sprachlosem Ehre den Dann
+Der Alte klammerte einen Dank...
+
+Und — dabei veränderte sich sein Gesicht so plötzlich,
+daß ich einen Moment in sprachlosem Ehre den Dann
 anstarrte.
 
 Was so jäh als völlige Verwandlung des Ausdruckes
-der verwilterlen Züge keuntlich geworden, war das Slärk-
-fie, was ein Menfchenantiig Durch das Mieneusplel verra-
-ten kann; eine Anoft wie dor dem gewissen Tode — clue
-»Augst wie die cines Delinquenten, der zum Schasott gesührt
-wird. J chlonie nicht anders — ich mußte deu Maun sra-
+der verwilderten Züge kenntlich geworden, war das Stärkste,
+was ein Menfchenantiig Durch das Mienenspiel verraten
+kann; eine Angst wie vor dem gewissen Tode — eine
+»Angst wie die eines Delinquenten, der zum Erhascht geführt
+wird. Schlaufe nicht anders — ich mußte den Mann fragen,
+was in aller Welt mit einem Male eine so grünliche
+Todesangst in ihm geweckt haben könnte.
 
-gen, was in aller Welt mit einem Male eiue fo plöpliche
+Während ich noch die Worte dieser in teiluahnwollslem
+Tone vorgebrachten Frage aneinanderreihie, überlief die
+gliche Gestalt des Greises ein Zittern — so stark, daß er die
+Kurbel nicht mehr weiterdrehen konnte.
 
-Todesanast in ihm geweckt habeu könnte.
-Während ich noch die Worte diefer in teiluahnwollslem
-Tone vorgebrachten Frage aneinanderreihie, überlies die
-
-liche Geslalt des Greises ein Zittern — so stark, daß er die
-
-Kurbel uicht mehr weiterdrehen kouute.
-Und — unerklärlich! — Das gesunde Auge bohrte ih
-ka die meineu eiu in stummer Bitte — halbec Verzweiflung.
+Und — unerklärlich! — Das gesunde Auge bohrte ich
+da die meinen ein in stummer Bitte — halber Verzweiflung.
 
 <@pagebreak/>
+törichtste der Mann etwa mich?! Und — wenn ja —
+wes8halb fürchtete er mich — — weshalb?!
 
-0000000000080 35 0000002200020
+Ich vergaß den begonnenen Satz zu beenden. Ich war
+mit einem Male nur Harald Harsts gelehriger Schüler...
 
-Füirchtete der Mann etwa mich?! Und — wenn ja —
-wes8halb sürchtete er mich — — weshalb?!
-
-Ich vergaß den begonnenen Satz zu beenden. Jh war
-mit einem Male nur Harald Harsts gelehriger Schüler
 Und deshalb warf ich das Mitleid ab wie eine hier
-ungeeignete Maskè, nickte dem Bettler zu und machte kehrt,
-stschritt in den Vorgarten zuritd, pfiff ein paar Gassenhauer-
-takte und schnit drei — pier Rosen bon einem Sirauche, der-
-hüllte durch solches Tun meine AAE Gedanken ...
-Stand dann vor Harald
+ungeeignete Maske, nickte dem Bettler zu und machte kehrt,
+stschritt in den Vorgarten Jurist, pfiff ein paar Gassenhauertakte
+und schalt drei — Pier Rosen von einem Strauche, verhüllte
+durch solches Tun meine Aus Gedanken ...
 
-Berichtete alles
+Stand dann vor Harald...
 
-«Wir gehen spazieren,« beftininte er. »Der Alte is!
+Berichtete alles...
+
+»Wir gehen spazieren,« bestimmte er. »Der Alte is!
 nach links weitergegangen. Wir schlendern nach rechts. Aber
-nen vo pig hinter ihm drein, Sch weiß mehr als Du.«
+nenne arg hinter ihm drein, Ich weiß mehr als Du.«
+
 »Mehr?
 
-»Ja, Davon später, Freund Schraut.» —
+»Ja, Davon später, Freund Schraut.« —
 
 Wir fanden in einer Seitenstraße ein Auto, ließen das
-erde hochklappen, fuhren dem Bettler nach, an unserem
-ause vorüber
-Nichts mehr ‘von dem Greise — nichsch8.
+Erde hochklappen, fuhren dem Bettler nach, an unserem
+Hause vorüber
+
+Nichts mehr von dem Greise — nichsch8.
 
 Aber die Kinder jagten Kreisel auf dem Asphalt. Die
-nder, die dem Gequietfch des BOLUANERN so andächtig
+Inder, die dem Gequietsch des Braunem so andächtig
+gelauscht hatten,
 
-lauscht hatten,
+Harst rief einen älteren Knaben und Mitofenfter,
 
-Harst rief einen älteren Knaben and Mitofenfter,
-
-»Junge, wo blieb der Lelerkaslenmann ?«
+»Junge, wo blieb der Leierkastenmann?«
 
 Der Knabe kannte uns von Ansehen. - Sein Gesicht
-ahlte aus. Mit Harald Harst sprechen — das twvar ein Er-
-gnis für seine neun Sahrel
+strahlte aus. Mit Harald Harst sprechen — das davor ein Ereignis
+für seine neun Sattel
 
-»A ds in eine Taxameterdroschke, Herr Harst.»
+»Ade in eine Taxameterdroschke, Herr Harst.«
 
-einf?«
+»eins?«
 
 »Nö — noch ein Fräulein und ein alter Herr kamen
-Jhrem Hause und fuhren mit davon, Herr Harst.«
+ihrem Hause und fuhren mit davon, Herr Harst.«
 
 »Wohin? Nach welcher Richtung?«
 
-»Dort — die Gfebiger runter
+»Dort — die Glebitzer runter.«
 
-Unser Auto faufte weiter. Die Droschke konnte fam
-
+Unser Auto kaufte weiter. Die Droschke konnte kam
 Minuten Vorsprung haben.
+
 <@pagebreak/>
-2.2000226022 15 200400000020
+Und doch — Wir fanden sie nicht. Sie war unsichtbar
+geworden, mußte na rechts oder links abgebogen sein.
 
-Und doch — Wir fanden fie nicht. Sie war unfichtbar
-geworden, mußte na rechts odex links abgebogen sein.
-
-Also wieder heim — und nad oben ‘in die beiden
+Also wieder heim — und nach oben in die beiden
 Fremdenzimmer, die Harald dem Grafen und seiner Tode
-ter in der verslossenen Nacht zur Verfügung gestellt hatte.
+ter in der verflossenen Nacht zur Verfügung gestellt hatte.
 
 Und oben Frau Auguste Harst
 
-»Harald — fie find ausgerict! Kaum wart Jhr beide
-zum Hause hinaus, als der Graf und die junge Gräsin mit
-ihrem Koffer die Trewe herabkamen und mir nur zuriefen:
+»Harald — sie sind ausgerict! Kaum wart Ihr beide
+zum Hause hinaus, als der Graf und die junge Gräfin mit
+ihrem Koffer die Treue herabkamen und mir nur zuliefen:
 »Vielen Dank — vielen Dank!« Und — weg waren fiel«
 
-Rh hatte damit halb und halb geredmet, Mutter.«
+Ah hatte damit halb und halb gerechnet, Mutter.«
 Er lächelte etwa, »Da war nämlich ein Reierlaflenmann,
 der ihnen von der Straße aus Zeichen machte, nachdem er
-scinemt Justrument das russische Volkslied »Der rote Sara-
-fan« cnilockt hatte. Ausgerechnet das Lied, wo unsere Gä-
-ste doch Deutschrussen find. Und der rote Sarasan ftacdhsfte
-mein Mißtrauen anf. Schraut aber stellte fest, daß der
-Drehorgelmann vor ihm eine scheußliche Angst hatte. Wes-
-halb wohl? Weshalb? Und — weshnlb entwicher Vater
-nid Tochter bon hier, wo sie Boch ganz sicher waren — fir
-erer: ass anderêwo?! Weshalb? !«
+geformt Instrument das russische Volkslied »Der rote Sarafan«
+entlockt hatte. Ausgerechnet das Lied, wo unsere Gäste
+doch Denkschnitzer sind. Und der rote Sarafan ftacdhsfte
+mein Mißtrauen auf. Schraut aber stellte fest, daß der
+Drehorgelmann vor ihm eine scheußliche Angst hatte. Weshalb
+wohl? Weshalb? Und — weshalb entwichen Vater
+nicht Tochter von hier, wo sie doch ganz sicher waren — Wir
+derer: als anderswo?! Weshalb?!«
 
-Der Köchin Mathilde liebliche Stimme’ and den unte-
-ren Regionen: »Das Telefong — — das Telesong!«
+Der Köchin Mathilde liebliche Stimme’ und den unteren
+Regionen: »Das Telefong — — das Telefong!«
 
-Was uns leder in Haralds« Arbeitszimmer hebte
+Was uns Leder in Haralds« Arbeitszimmer bebte
 
-Wo sich nun Bechert meldete, Freund Friß Bechert, Arle
-minalkommissar
+Wo sich nun Bechert meldete, Freund Fritz Bechert, Arl-minalkommissar
 
-Harst ries: »Wieder in Verlin?«
+Harst rief: »Wieder in Berlin?«
 
-Und borchle dann gespannt...
+Und horchte dann gespannt...
 
 Sagte in die Hörmuschel hinein: »Uns hat der Graf
-allerdings etwas ganz anderes erzäßst. — Ja — wir er-
-warten Sie, Bechert. Wiedersehen.« —
+allerdings etwas ganz anderes erzählt. — Ja — wir erwarten
+Sie, Bechert. Wiedersehen.« —
 
-u. ¿Zivailia Minuten drauf saß Bechert bei uns im Klub-
-esel
+Zivailia Minuten drauf saß Bechert bei uns im Klub-esel
+— —
 
-Und nun will ich zunächst nachholen, was no) in der
-vergangenen Madrt geschehen war.
+Und nun will ich zunächst nachholen, was noch) in der
+vergangenen Mahnt geschehen war.
 
-Harst und ich hatten die vier Strolche mit den Clement-
-
+Harst und ich hatten die vier Strolche mit den Clementpistolen
 <@pagebreak/>
-200080000000 37 000000000000
-
-pistolen in Schach gehalten, die Gräfin hatte die Kerle ge-
-»sesselt. Dann war Harald mit NRonnow und dessen Tochter
-in den Garten des PLanbengrundftücds hinausgeireien, war
-nad) einer Weile zu mir, der ich die vier bewachte, zurrüdtge-’
+in Schach gehalten, die Gräfin hatte die Kerle gefesselt.
+Dann war Harald mit Aromen und dessen Tochter
+in den Garten des Lanbengrundftücds hinausgetreten, war
+nach) einer Weile zu mir, der ich die vier bewachte, zurrüdtge-’
 kehrt und flüsterte mir zu: »Du bringst den Grafen und die
-Gräfin zu uns in die Fremdenzimmer. Wecke meine Mut-
-ter, damit sie Beliwäsche herausgibt. Dann läute die nächste
-Polizeiwache an und melde das hier Vorgefallene, der-
-schweige aber Einzelheiten, insbesondere den Namen des
+Gräfin zu uns in die Fremdenzimmer. Wecke meine Mutter,
+damit sie Bettwäsche herausgibt. Dann läute die nächste
+Polizeiwache an und melde das hier Vorgefallene, verschweige
+aber Einzelheiten, insbesondere den Namen des
 Grafen.«
-Dh tat, wie Harald es wituschte.
 
-Gegen zwci Uhr morgens erschien er dann bel mir yn
-meinem Wohnzimmer, das dem seinen im Hochparterre ge-
+Oh tat, wie Harald es wituschte.
 
-genüberliegt. VERA VW
-»Die vier find weggeschafft,« erklärte er. »Jun den Nit-
-kelspriben war Blausäure, woran ih bis zuleht aezweifelt
-hatte. Die Kerle trugen untcr den Stromerlumpen sehr
+Gegen zwei Uhr morgens erschien er dann bei mir in
+meinem Wohnzimmer, das dem seinen im Hochparterre gegenüberliegt.
+
+»Die vier sind weggeschafft,« erklärte er. »Jan den Nit-kelspriben
+war Blausäure, woran ich bis zuletzt gezweifelt
+hatte. Die Kerle trugen unter den Stromerlumpen sehr
 elegante Smokinganzüge, hatten Geld in Hülle und Fülle,
-aber nicht einen einzigen Wisch Papier bei sich, der liber fie
-»hätte Aufsschlnß geben können. Und Antwort war von ihnen
-»nicht zu bekommen.« : j US
+aber nicht einen einzigen Wisch Papier bei sich, der über sie
+hätte Aufschluß geben können. Und Antwort war von ihnen
+nicht zu bekommen.«
+
 »Was hast Du der Polizei über den Grafen mitgeteilt?«
-Daß ih die Sache mit Kommissar Bechert regeln
-wiirde, Um die Nennung des Namens Ronnow kam ich
-nicht hernm.«
+
+»Daß ich die Sache mit Kommissar Bechert regeln
+würde, Um die Nennung des Namens Ronnow kam ich
+nicht herum.«
 
 Dann waren mir schlafen gegangen, N.
-Um zehn Uhr vormittags tranken wir mit unseren Gä-
-zusammen auf der Veranda Kasfee., Nachher erzählte
-Graf Alexander noch folgendes über die Ereignisse in Nigat
+
+Um zehn Uhr vormittags tranken wir mit unseren Gä-zusammen
+auf der Veranda Kaffee., Nachher erzählte
+Graf Alexander noch folgendes über die Ereignisse in Riga:
+
 Das Familiengut der Ronnows lag zwei Meilen von
-Niga entsernt. Schloß Nonnow var in allen politischen
+Riga entfernt. Schloß Ronnow war in allen politischen
 Stürmen bisher unbeschädigt geblieben, weil der Graf sich
-von Politik fern hielt und für seine Leute slets .so gut ge-
-sorgt hatte, daß man thn bis zum letzten Knecht herab ger
-radezu verehrte. Dann erhielt er plöglich aus Niga einen
+von Politik fern hielt und für seine Leute Gleise gut gesorgt
+hatte, daß man ihn bis zum letzten Knecht herab gen
+gradezu verehrte. Dann erhielt er plötzlich aus Riga einen
 Warnunasbricf: er solle fliehen, sein Leben stehe auf dem
 <@pagebreak/>
-0020000000080 5 0994900090000
-
-Spiel. Er sei demunziert worden, gegen dile Negierung ge-
-wühlt zu haben. Er schlug die Warnung nicht in den Wind,
-verbarg die Nonnowschen Familienjuwelen im Warte in
-elner hohlen Vuche und fchidte scin einziges Kind schleunigst
+Spiel. Er sei denunziert worden, gegen Eile Regierung gewählt
+zu haben. Er schlug die Warnung nicht in den Wind,
+verbarg die Unmenschen Familienjuwelen im Warte in
+einzelner hohlen Buche und schickte sein einziges Kind schleunigst
 verkleidet nach Deutschland. — Das war im April 1922. —
-Am folgenden Abend wurde er wirkli verhastet. Der
-Hochverratéprozeß gegen ihn 309 fih in die Länge. Jra-
-mer neues Material gegen ihn wurde beigebracht. Schließ-
-lich sollte er auh zwei Negierungsipigel beseitigt haben.
+Am folgenden Abend wurde er wirklich verhaftet. Der
+Hochverratsprozeß gegen ihn 309 sich in die Länge. Frommer
+neues Material gegen ihn wurde beigebracht. Schließlich
+sollte er auch zwei Negierungsipigel beseitigt haben.
 Der Gang der Untersuchung ließ erkennen, daß er zum Tode
-vernrteilt werden würde. Seine Sache stand wirklich schlecht.
-»Die Vewveise gegen ihn waren erdrückend. Er behauptete
-Harald und mir gegenüber wiederholt, daß ein Niesen-
-fomplotlt gegen ihn geschmiedet worden .sei und daß seine
-unbefankten Feinde mit teuflisher Schlauheit alles einge-
-sädelt dehabt hätten. — Dann befreite ihn Die Gräfin Jo-
-hanna mit Nobert Robbas Hilse. — Zh will Einzelheiten
-dieser Befreiung üvergehen. Sie sind hier nicht von Belang.
-Nobba präparierte ihn, den Vetäußblen, als Wachsfigur und
-suite sich mit der Kiste aus der Schonerbaxk cin, die nach-
-her bel der Oie strandete. Ju der Kiste besand sich auch der
-größere Teil der Juwelen, die die Gräsin aus dem Baume
-nebost hatte, Die Kiste war so eingerichtet, daß sie wie ein
-Voot im Notsalle s@wimmen kounte, hatle im Deckel gut
-versleckte Lustlöcher und ließ fich auch von innen öffnen —
-Während der Fahrt von Riga bis zur Ole war der Graf
-aus der Vetäubung erwacht, Als der Orkan begann, der-
-langte die Gräsin Hanna, daß Robba ihren Vatex zur reh-
-gten Heit dem Mitleid der finnländischen Besaßung empschle,
-salls dem Segler etwas zuftoßen sollte. Da hatte Nobba
-ihr erklärt, der Graf sei tot, sci gestorben. — Sie glaubte es,
-da ihr Vater schon im Gefängnis fich fehr fchlecht aefühlt
-hatte, — Die »Scbonerbark strandete. Gräfin Hanna, wie
-betäubt durch die Unglüeksnachricht, dachte an nichts. — nicht
-an die Juwelen — nicht an die Kisle,.ließ sich ins Nettungs-
-boot heben und tvar an Land nux darauf bedacht, selbst Tele
-
+verurteilt werden würde. Seine Sache stand wirklich schlecht.
+»Die Pendelte gegen ihn waren erdrückend. Er behauptete
+Harald und mir gegenüber wiederholt, daß ein Niesen-fomplotlt
+gegen ihn geschmiedet vorheriges und daß seine
+unbefankten Feinde mit teuflischer Schlauheit alles eingefädelt
+behält hätten. — Dann befreite ihn Die Gräfin Fortgang
+mit Robert Robbas Hilfe. — Ich will Einzelheiten
+dieser Befreiung übergehen. Sie sind hier nicht von Belang.
+Robba präparierte ihn, den Vetäußblen, als Wachsfigur und
+satte sich mit der Kiste aus der Schonerbark ein, die nachher
+übel der Oie strandete. In der Kiste befand sich auch der
+größere Teil der Juwelen, die die Gräfin aus dem Baume
+redest hatte, Die Kiste war so eingerichtet, daß sie wie ein
+Boot im Notfalle s@nimmer konnte, hatte im Deckel gut
+versteckte Luftlöcher und ließ sich auch von innen öffnen —
+Während der Fahrt von Riga bis zur Oie war der Graf
+aus der Betäubung erwacht, Als der Orkan begann, verlangte
+die Gräfin Hanna, daß Robba ihren Vater zur reisten
+Hei! dem Mitleid der finnländischen Besatzung empfehle,
+falls dem Segler etwas zustoßen sollte. Da hatte Robba
+ihr erklärt, der Graf sei tot, sei gestorben. — Sie glaubte es,
+da ihr Vater schon im Gefängnis sich sehr schlecht gefühlt
+hatte, — Die »Schonerbark strandete. Gräfin Hanna, wie
+betäubt durch die Unglücksnachricht, dachte an nichts. — nicht
+an die Juwelen — nicht an die Kiste ließ sich ins Rettungsboot
+heben und war an Land nur darauf bedacht, selbst keinerlei
 <@pagebreak/>
+Argwohn zu erregen. Sie bemerkte auch bereits, daß
+je Fieber hatte. Sie wußte kaum recht, was sie tat und
+Krach. — Seh will mich nach kürzer fassen. Robert Yobba
+sodann die kaum monotone Gräfin von der Die an und
+brachte sie nach dem Angriff auf unseren Kutter in ein einsames
+Haus am Stettiner Half, wo sie ihren Vater lebend
+vorfand. Hier enthüllte Robba seinen wahren Charakter,
+verlangte von der Gräfin die Angabe des Ortes, wo der
+des! der Sonnen-Kleinodien verloren sei, und bedrohte
+Heide Ronnows mit dem Tode. Nachts entflohen sie dann
+einem! Nachen auf das Hast hinaus, flüchteten bis Wer
+— Alles weitere kennt der Leser.
 
-esse HH Orr
+Diese Schilderung hohe in all ihren Teilen durchaus
+aubwwürdig geklungen.
 
-rerlei Argvohn zu erregen. Sie bemerkie auch bereits, daß
-je Jicber hatte. Sie wußte kaum recht, was sie tat und
-rach. — Jeh will mich nach kürzer fassen. Robert Yobba
-te daun die faum nenefene Gräfin don der Die ap und
-brachte fie nach dem Angriff auf unseren Kutter in ein ciu-
-sames Haus am Eietiiner Half, wo fie ihren Vater lebeud
-vorsaud. Hier cuthüllte Robba seineu wahren Charakter,
-verlangie von der Gräfin die Angabe des Ortes, wo ber
-desi der Honnow-Kleinodien verboren sei, und bedrohte
-eide Nounows mit dem Tode. Nachts entslohen sie daun
-einem! Nachen auf das Hass hinaus, flüchteten bis Wer
-— Alles weitere kenut der Leser.
-Diese Schilderung hate in all ihren Teilen durchaus
-aubwwürdig gellungeu.
+Und doch...
 
-Nun lasse ih Friy Bechert sprechen, der von Harald mil
-esem Tatbestand vertraut gemachi Worten war.
+Nun lasse ich Fritz Bechert sprechen, der von Harald mit
+diesem Tatbestand vertraut gemacht Worten war.
 
-u
-GD
+<h2>2. Kapitel.</h2>
 
-2. Napliel.
+<h3>Auf dem Tourdampfer nach Pillau.</h3>
 
-»
-
-Auf dem Eyuspampfer nah Pillau.
-
-»Lieber Harft,« erllärte Freund VBechert, »der Graf hat
-grob belogen. Vou cinem Komplott gegen Ihn fan
-eine Rede sein. Auf Jhre Depesche aus Swinemünde
-fuhr ich nach Niga, da mein Sommerurlaub gerade begaun.
-forschte in Riga als Privatmanu nach und hörte so, daß
-Flucht des Graser Alexander Ronnowv das einzige bes
-verkenswerte Ereignis der Ichten Zeit gewesen. Der Graf
-hat tatsächlich zwei Spitzel beiseite geschasst und sich politisch
-cher kompromittiert — sagen wir’s deutsch: sich bloßge-
-ellt. Bei seinen Leuten ist ex allerdings sehr beliebt, im
-igen ist ex ein Mann, der über Leichen gebt. ch batte
+»Lieber Harst,« erklärte Freund Bechert, »der Graf hat
+grob belogen. Von einem Komplott gegen Ihn Fan
+eine Rede sein. Auf Ihre Depesche aus Swinemünde
+fuhr ich nach Riga, da mein Sommerurlaub gerade begann.
+forschte in Riga als Privatmann nach und hörte so, daß
+Flucht des Grasen Alexander Kommend das einzige des
+verkenswerte Ereignis der Achten Zeit gewesen. Der Graf
+hat tatsächlich zwei Spitzel beiseite geschafft und sich politisch
+Macher kompromittiert — sagen wir’s deutsch: sich bloßge-ellt.
+Bei seinen Leuten ist er allerdings sehr beliebt, im
+eigen ist er ein Mann, der über Leichen gebt. ich hatte
 <@pagebreak/>
-»0000009000° 40 So,-
+vorhin im Präsidium schon die Haftbefehle gegen ihn und
+die Gräfin ausfertigen lassen, da ein Ersuchen der Reglos
+Sprung.«
 
-vorhin im Präsidium schon die Hasibesehle gegen ihn und
-die Gräfin ausfertigen lassen, da eiu Crjuchen dex Regics
-rung
-
-Bier ,wurde Bechert sn
+Bier wurde Bechert in
 
 Es hatte im Flur geläutet, und die Köchin meldete uns
-jeyt deuselben Knaben, der uns vorhin im Auto mitgeteilt,
-daß der Leiermaun in einem Taxameter mit einer Dame
+jetzt denselben Knaben, der uns vorhin im Auto mitgeteilt,
+daß der Leiermann in einem Taxameter mit einer Dame
+und einem Herrn davonacsahreun sei.
 
-»und einem Herrn davonacsahreun sei.
-
-»Wias brinast Du, mein Junge?« fragte Harald das
-kede Bürschchen sreundlich.  ..Hast Du etwa deu Betilexr mit
+»Blaß bringst Du, mein Junge?« fragte Harald das
+Rede Bürschchen freundlich.  »Hast Du etwa den Bettlern mit
 der Drehorgel wieder gesehen k«
 
-»Nö, Herr Harfl, Das nich. . Aber — aber gefunden hat
+»Nö, Herr Harst, Das nich.. Aber — aber gefunden hat
 mein Freund Julius etwas, das der Leiermann verlor, als
-er in den Taxameter lklelierte, Hier — dies
+er in den Taxameter strebende, Hier — dies
 
-Er hielt Harald eine Stieselsohle hin, eine durch-
-löcherte Ledersohle, in der noch sechs fleine blanke Nä
-gel sleckteu — blanke Nägel
+Er hielt Harald eine Stiefelsohle hin, eine durchlöcherte
+Ledersohle, in der noch sechs kleine *blanke* Na
+Hagel steckten — *blanke* Nägel...
 
-Die Junenseite der Sohle zeigte an einer Stelle iu ro-
-ter Tinte flare Buchstaben, die wie solgi angeorduet wareuz
+Die Innenseite der Sohle zeigte an einer Stelle in roter
+Tinte klare Buchstaben, die wie solch angeordnet Barons
 
-BR St
+H Het Dr
+   B
+       R. R.
+   Dr
 
-RN. RN.
-Dr
+Der freunbtle Leser sich!: in der oberen Reihe War
+den mit Zwischenräumen H, K, et, D, N.
 
-Der freunbtle Leser sicht: in der oberen Reihe far
-deu mit Zwischenräumeu H, K, St, D, N.
+In der mittleren Y und in.
 
-Jn der miltleren Y und RN.
-
-Unten stand Dx — —
+Unten stand Dr — —
 
 Das war alles. — Nein, do nicht alles: die bunten
 ten Linien waren noch da, die zwischen der Mehrzahl der
-Buchftaben cine Verbindung herstcilten. —
+Buchstaben eine Verbindung herstellten. —
 
-Der Kuabe erhielt oin Geldgeschenk und zog strahlend
+Der Knabe erhielt ein Geldgeschenk und zog strahlend
 
-Harald bot nur und Bechert st Bigaretten an.
-»Nach den erfien Zügen sagte Freund Friy«
+Harald bot nur und Bechert et Zigaretten an.
+
+»Nach den ersten Zügen sagte Freund Fritz«
 
 <@pagebreak/>
-
-er a 202000000020
-
-¿Die Nägel in der Sohle find. noch ganz blank, noch
-fü bert Orgelmanu ha! bie Sohle also. ersi vor furzem ber
+»Die Nägel in der Sohle sind. noch ganz blank, noch
+rudert Orgelmann ha! die Sohle also. erst vor kurzem der
 vi 2.
-und sehr lose,« nidte Harald. - »So lose, daß cr
-Hätte vor unserem Haufe liegen lassen, abjtreifen können,
-— was er auch tun wolte, mein Alter,« waudte er sich an
-nich »US Du ihn das Geld hrachtest, suchte er gerade die
-Sohle mit deur anderen Schuh abzustreisen, der so jömmer-
-lich mit Bindsaden umwickelt war. Ex wollte die Sohle lice
-nen laffen — für die beiden Nonuoios, die er durch die Fin-
-gersiguale auf die Sohle aufmerksam gemaczt hatte. Seine
-Angsi vor Dir war ‘eben nichis als die Angst, daß Du seine
-ht durcl;schaut hättest, oder volleudeiftes Komödienspiel.«
-Das hatte Hand und Bußt Die Erflärung leucztiete mir
+
+"...und sehr lose,« nickte Harald. - »So lose, daß er
+Hätte vor unserem Hause liegen lassen, abjtreifen können,
+— was er auch tun wollte, mein Alter,« wandte er sich an
+nich »Ut Du ihn das Geld brachtest, suchte er gerade die
+Sohle mit dem anderen Schuh abzustreifen, der so jämmerlich
+mit Bindfaden umwickelt war. Er wollte die Sohle lies
+verlassen — für die beiden Paradies, die er durch die Flaggensignale
+auf die Sohle aufmerksam gemaczt hatte. Seine
+Angst vor Dir war eben nichts als die Angst, daß Du seine
+ht durch;schaut hättest, oder volleudeiftes Komödienspiel.«
+
+Das hatte Hand und Büßt Die Erklärung leucztiete mir
 n.
 
-Und die Sohle war elne Nachricht für bie Rom
-nows,« fünte Bechert hinzu,
-»Allerdings!« beftäitgte BO eine wichtige Nach-
-— eine Buchsiabennachricht 44
-Ein Löchelu huschte um seine ri,
-Bechert hate die ‘elende Ledersohle wieder zur n Rant
+Und die Sohle war eine Nachricht für die Rom
+Ronnows,« fügte Bechert hinzu,
+
+»Allerdings!« bestätigte So eine wichtige Nach
+— eine Buchstabennachricht 44
+
+Ein Löchern huschte um seine ri,
+
+Bechert hohe die elende Ledersohle wieder zur plant
 genommen.
-»Hm — jebenfallä eine fehr kurze Nachricht,« meinte
-er. »Das R. R. kaun heißen Nobert Nobba
-»Oder Ronnow, Vater und Tochter, — fa R’8
-Ja u und Dr ganz ungen kanu die Abkürzung für
+
+»Hm — jedenfalls eine sehr kurze Nachricht,« meinte
+er. »Das R. R. kann heißen Robert Robba
+
+»Oder Ronnow, Vater und Tochter, — Da R’8
+
+Ja u und Dr ganz unser kann die Abkürzung für
 Doktor sein
-»Halt ihm nicht eiu! Das heißt Dresden.»
-Vechert blickte Harst an. »Machen Sie Spaß ?»
-«Spaß?! Bei einem solchen Anlaß?! Niemals81»
-»Daun — reden Sie! Was bedeuten die Buchstaben
-»Sieben Eiädid und ein Verbrecher.«
-Wieder slarrte Bechert auf die roten Buchstaben.
-wa. AD VN sieben rädte »ii — Schraut, raten Sie
+
+»Halt ihm nicht ein! Das heißt Dresden.«
+
+Bechert blickte Harst an. »Machen Sie Spaß ?»
+
+»Spaß?! Bei einem solchen Anlaß?! Niemals81»
+
+»Dann — reden Sie! Was bedeuten die Buchstaben
+
+»Sieben Gischt und ein Verbrecher.«
+
+Wieder starrte Bechert auf die roten Buchstaben.
+
+Da. ad un sieben rächte »is — Schraut, raten Sie
 die Sache?«
-»Mit nichten, lieber Bechert.
+
+»Mit Nichten, lieber Bechert.
+
 <@pagebreak/>
-99009990900 12 999990000409
+Harald nahm eine neue Zigarette, sagte:
 
-- Harald nahm eine neue Zigarette, sagie:
-»Hamburg, Kiel, Stettin, Dauzig, Niga — fünf Hafew
-
-städte. Das BVB ist Berlin, das R« R. Robert Nobba, das
+»Hamburg, Kiel, Stettin, Danzig, Riga — fünf Hafenstädte.
+Das Hob ist Berlin, das R« R. Robert Robba, das
 Dr Dresden. — Dresden ist nur mit genannt, damit der
-Graf die Löfung leichter fände. — Von Riga floh Ronnow
-nad Stettin au Danzig borüber, von Stettin nach Berlin,
-und von Berlin fol er nach Danzig fahren, vergleiche die
+Graf die Lösung leichter fände. — Von Riga floh Ronnow
+nach Stettin zu Danzig vorüber, von Stettin nach Berlin,
+und von Berlin soll er nach Danzig fahren, vergleiche die
 punktierten. Linien, wo er Robert Yobba und die Juwelen
-pin wird. — Sc deuke, das ist eine Lösung, die flinunen
-anu
+Bin wird. — So deute, das ist eine Lösung, die klimmen
+am
 
 »Wahrscheinlich,« brummte Bechert. »Sie wollen lebt
-nah Dauzig, Sen. Jh Habe Urlaub. Jch komme mit,«
-»Bitte, Wir benugen den Damıpfer von Swinemünde
-»aus. »Um sieben Uhr sährt das Luxusauto des Atlantikl-
-Hotels, Heriugsdors, von Berlin ab und ist um ein Uhr in
-Swinenründe. Un zwei geht der Dampfer. Alle — he-
-eilen wir uns .… 1» — —
-»Nachts Eh wir in Stiolnemände — gingen an Vorb
+nach Danzig, gen. Ich Habe Urlaub. Ich komme mit,«
 
-des Pillau-Dampfers, eines schwarzen Kastens, dex einst
-den Bäderdienst nah Helgoland besorgt hatte.
+»Bitte, Wir benutzen den Damıpfer von Swinemünde
+»aus. »Um sieben Uhr Fährt das Luxusauto des Atlantik!-Hotels,
+Heringsdorf, von Berlin ab und ist um ein Uhr in
+Swinemünde. Un zwei geht der Dampfer. Alle — beeilen
+wir uns .… 1» — —
 
-Waren natürli nicht Bechert, Harst, Schraut.
+Nachts Et wir in Stiolnemände — gingen an Bord
+des Pillau-Dampfers, eines schwarzen Kastens, der einst
+den Bäder dienst nach Helgoland besorgt hatte.
+
+Waren natürlich nicht Bechert, Harst, Schraut.
 
 Bewahre!
 
-Waren drei Herren, Die sich scheinbar uicht kaunten, je
-der mit einem Köfferchen
+Waren drei Herren, Die sich scheinbar nicht kannten, je
+der mit einem Köfferchen...
 
-Drücktenï dem Steward : die Hand, drückten eiwas in
-ur Hand, bekamen eiue Kabine mit drei Betten, waren
+Drückten dem Steward: die Hand, drückten etwas in
+ur Hand, bekamen eine Kabine mit drei Betten, waren
 vereint.
 
-Um zwei Uhr in See... — am Leuchiturm varkbel
-zwischen deu Molen hindurch
+Um zwei Uhr in See... — am Leuchtturm nachher
+zwischen den Molen hindurch...
 
-Das Meer in Laune — spiegelglatt, Mondschein … ».
-béa Getrenut standeu wir an der Reliug des Promeuaden-
+Das Meer in Laune — spiegelglatt, Mondschein…
 
-Sie
-Und — fuhren mit den Köpfen herum: vom Vorschiss
-ein Lelertaften, der .… . den roten Sarasan winselle!
+Getrennt standen wir an der Reling des Promenadendecks...
 
-Nicht eiu Leiexkasteu. Der Leierklasten. Eben der
-des Bettlers, Aus Hunderten häite ich a Töne des
+Und — fuhren mit den Köpfen herum: vom Vorschiff
+ein Leierkasten, der .…. den roten Sarafan winselte!
+
+Nicht *ein* Leierkasten. Der Leierklasten. Eben der
+des Bettlers, Aus Hunderten hätte ich *die* Töne des
 <@pagebreak/>
-000202000050 3 0002000000027.
+Quietfchtaften« herausgefunden. Ein so erbärmlich verstimmtes
+Ding gab es eben nur in einem Exemplar.
 
-Quietfchtaften« herausaefunden. Ein so erbärmlich verstimm-
-tes Ding gab es eben nur in einem Exemplar.
-Harst, Becherk, ich tauschten Blicke
-Dann verschwand Harst nah dem Vorschiff zu. Ne
-chert und ich fuwyien die Kabine auf. -
-»Sie werden alle brei am Vorb sein,« flüfterte Freund
-Friß. »Sowohl der Bettler als auch Ronnow Und Tochter.
+Harst, Bechert, ich tauschten Blicke
+
+Dann verschwand Harst nach dem Vorschiff zu. Ne
+schert und ich Zumuten die Kabine auf. -
+
+»Sie werden alle Brei am Bord sein,« flüsterte Freund
+Fritz. »Sowohl der Bettler als auch Ronnow Und Tochter.
 RL) glaube, der Alte
-Ran trat ein, driickt die Tür au, schaute mi an.
-Na — auf Deine Augen kaun man sich nur sehr mä-
-verlassen,« meinte er leise. »Der Alte ist verkleidet! Er
-Bi vor dem Niedergang ber Kombüse im Laternenlicht, hat
-Baade auf, falschen Bart, falschen Buckel, der sich verscho-
-ben hatte.« Er zute die Achfeln.
-Der Mann ift:nicht verkleidet,« erklärte ih sehe be-
-slimmt. »Dabei bleibe ih! Zch habe ihn bei Tage gesehen.
-Nachts täuscht man er leichier, Harald,«
-Gr setzte fi anf seinen Betirand. Viel Plaß- war ja
-Überhaupt niht in dieser. Kabine. .’
-Bechert und ih zogen uns Klappstühle Herbel.
-»Die Sache wird wieder dunkller,« -mêinte Harft und
-lich sein Binarettenettil ausspringen: »Jh hielt den Bettler
-»für einen Vertrauten des Grafen, für einen Diener oder der-
-Ps gironn, Das muß wohl fo sein. ,Nun Mans Schraut,
+
+Ran trat ein, drückt die Tür zu, schaute mich an.
+
+Na — auf Deine Augen kann man sich nur sehr männertollen,«
+meinte er leise. »Der Alte ist verkleidet! Er
+By vor dem Niedergang der Kombüse im Laternenlicht, hat
+Bande auf, falschen Bart, falschen Buckel, der sich verschoben
+hatte.« Er gute die Achteln.
+
+Der Mann ist *nicht* verkleidet,« erklärte ich sehe bestimmt.
+»Dabei bleibe ich! Ich habe ihn bei Tage gesehen.
+Nachts täuscht man er leichter, Harald,«
+
+Er setzte sich auf seinen Bettrand. Viel Platz- war ja
+überhaupt nicht in dieser. Kabine»’
+
+Bechert und ich zogen uns Klappstühle Herbe!.
+
+»Die Sache wird wieder knallten,« meinte Harst und
+lich sein Binarettenettil aufspringen: »Ich hielt den Bettler
+»für einen Vertrauten des Grafen, für einen Diener oder derart
+strong, Das muß wohl so sein. Nun Maus Schraut,
 »der Orgelspieler vor unserem Hause, der die Sohle verlor,
-sei nicht verkleidet gewesen, während ih — — genau welß,
-daß der Mann maskiert ist. — Wir ulissen zunächst diese
-Frage klären. Jh möchte vorschlagen, ER gehst Me me
-si und siehst Dir den Mann einmal an.«
+sei nicht verkleidet gewesen, während ich — — genau weiß,
+daß der Mann maskiert ist. — Wir wissen zunächst diese
+Frage klären. Ich möchte vorschlagen, er gehst ne me
+sich und siehst Dir den Mann einmal an.«
 
-Dazit war ich nern bereit: —
-»Der Greis saß noch vor dem Kombüsennledergang. Um -
-schhn herum hatien sich eine Anzahl Passagiere auf lhre Kof-
-fer und Kisten niedergelassen, bescheidene Leute, die dem
+Dosis war ich nein bereit: —
+
+»Der Greis saß noch vor dem Kombüsenniedergang. Um -
+sehr herum hatten sich eine Anzahl Passagiere auf ihre Koffer
+und Kisten niedergelassen, bescheidene Leute, die dem
 »Arbeiter- oder Kleinhandiwerklerstande angehören mochten.
-Die Drehorgel stand vor ihm. Cr spielte jegt nicht, sondern
-toute an ciner dicken Yrolleinttie.
-
-EEE EEE E ESS
+Die Drehorgel stand vor ihm. Er spielte jetzt nicht, sondern
+taute an einer dicken Yrolleinttie.
 
 <@pagebreak/>
-009020990220 jj DEDICO
+Ich schlenderte vorüber, blich in der Nähe, zog einen
+Matrosen ins Gespräch. Meine Augen prüften indes fortgesetzt
+die Erscheinung des Alten, der sich mit den Armen
+auf den Leierkasten gestützt hatte,
 
-Sch fchlenderte vorüber, blich in der Nähe, zog einen
-Matrosen ins Gespräch. Meine Augen prüsten indes fort-
-gesevt die Erschcinung bes Alten, der fih mit ben Armen
-anf den Leicrkaften gestüßt hatte,
-
-Ich blieb nicht lange im unklaren darüber, daß es sih
-hier tatiächlich nicht um Denfelben Mann handelte, so gut
-die Masfe dicses Pscudo-Bettlers auch war, der die Lum-
-pen des anderen trug und auch dessen Drehorgel jeht besaß,
+Ich blieb nicht lange im unklaren darüber, daß es sich
+hier tatsächlich nicht um Denselben Mann handelte, so gut
+die Maske dieses Beende-Bettlers auch war, der die Lumpen
+des anderen trug und auch dessen Drehorgel jetzt besaß,
 denn — die Drehorgel war bestimmt dieselbe. Ich hatte
-nur deren Ausschen bestimmt gemerlt. Sie hatte vorn drei
-bunte Bilder unter Glas, die Musen darstellend, die des
+nur deren Aussehen bestimmt gemerkt. Sie hatte vorn drei
+bunte Bilder unter Glas, die Muten darstellend, die des
 Tanzes, der Musik und der Dichlkunst.
 
-Der Matrose, mit dem ih mich unterhalten hatte, ging
-weiter. Jch blicb. Der Jagdeifer war erwacht. — Wer
-war dieser maskierte Mensch? Vielleicht gar die Gräsin Han-
-na, die ja bereits betwiefen, daß sie ungeheuer vielseitig war
-und vor nichts zurüschrekle. Die äbenteuerliche Besreiung
-Ihres Vaters hatte bereit em ihre Geistesgegenwart, ihre
-Kühnheit und an ihre scauspielerischen Fähigkeiten An-
-forderungen gestellt, die geradezu als außergewöhnlich für
-oin junges Weib von viernndziwanzig Jahren bezeichnet wer-
-den nmsten.
+Der Matrose, mit dem ich mich unterhalten hatte, ging
+weiter. Ich blieb. Der Jagdeifer war erwacht. — Wer
+war dieser maskierte Mensch? Vielleicht gar die Gräfin Hanna,
+die ja bereits verwirren, daß sie ungeheuer vielseitig war
+und vor nichts zurüschrekle. Die abenteuerliche Befreiung
+Ihres Vaters hatte bereit Cm ihre Geistesgegenwart, ihre
+Kühnheit und an ihre scauspielerischen Fähigkeiten Anforderungen
+gestellt, die geradezu als außergewöhnlich für
+ein junges Weib von viernndziwanzig Jahren bezeichnet werden
+Kneten.
 
-» Man beadhtete nich nicht, Es sirichen hier so viele Jahr- !
-gäste Pt die diese Mondunacht genießen wollten.
+Man beachtete nich nicht, Es strichen hier so viele Jahr-!
+Gäste Pt die diese Mondunacht genießen wollten.
 
-Gräfin Hanna?! — Nein — ih sah die Hände des
-Verkleideten. Das waren derbe, sschumußige Hände, das wa-
-ren niemals die dex jungen Aristokratin.
+Gräfin Hanna?! — Nein — ich sah die Hände des
+Verkleideten. Das waren derbe, sschumußige Hände, das waren
+niemals die der jungen Aristokratin.
 
 Wer war’s sonst? — Der Graf?! Auch das nich! Graf
-Alexander Nounow. hatte eine messerscharse, etwas große
-Nase, Und die des Belikers, des echten wie des falschen,
-war kurz und dick, stark gerötet
+Alexander Ronnow. hatte eine messerscharfe, etwas große
+Nase, Und die des Bettlers, des echten wie des falschen,
+war kurz und dick, stark gerötet...
 
-Wer war’s?! Vielleicht Nobert Nobba, der Ariist, der
-Besiver des Napoleon aus Wachs, mit dem er tatfächlich
-in Nine aufgetreten war, wie Bechert feftgefteitt Hatte.
+Wer war’s?! Vielleicht Robert Robba, der Artist, der
+Besitzer des Napoleon aus Wachs, mit dem er tatsächlich
+in Ahne aufgetreten war, wie Bechert festgestellt Hatte.
 
-Nobert Nobbafl — Und — wenn er’s war, dann —
-dann mußte der chte Betller beseitigt worden sein. Wie
-
+Robert Robba?! — Und — wenn er’s war, dann —
+dann mußte der echte Bettler beseitigt worden sein. Wie
 <@pagebreak/>
+Hätte dieser Maskierte sonst die Zuges des Rot
+dem Leibe haben können?! Wie sollte er sonst in Boot der
+Drehorgel gelangt sein?!
 
-Hätte dieser Maskierte fonft die Lunes des RER
-dem Leibe haben können?! Wie sollte er sonst in Bent ber
-Drehorgel gelangt scin?!
-Meber diefen und noch weitergehenden. Fragen, die den:
-Verbleib des Grafen Alexander - und seiner Tochter betra-
-fen, packte mich plößlich eine Unruhe, die mich vom Vorschiff
+Weber diesen und noch weitergehenden. Fragen, die den:
+Verbleib des Grafen Alexander - und seiner Tochter betrafen,
+packte mich plötzlich eine Unruhe, die mich vom Vorschiff
 wieder in die Kabine trieb.
-Die helle Sommernacht wat langsam. in: da3 Morgen-
-zwielicht übergegangen. Xiebor Ich bie Treppe zur ben uns
-teren Räumen binabftien, warf Ich noch cinen Blik nach der
-- Küfte hinüber, deren heller Strand- in der Ferne wie ein
-weißer Strich shimmerte, die Küste Ponmerns
+
+Die helle Sommernacht wat langsam. in: das Morgenzwielicht
+übergegangen. rieben Ich die Treppe zur den uns
+öfteren Räumen hinglitten, warf Ich noch einen Blick nach der
+Küste hinüber, deren heller Strand- in der Ferne wie ein
+weißer Strich schimmerte, die Küste Pommerns
+
 Und sah dort ein Fahrzeug — eine Motorjacht offenbar,
-die mun auf den Dampfer zuzuhalten schien.
-E83 war bei mir jenes durch den Anblick des Verfkleide-
-ten stark gesteigerte Gefühl allgemeinen Mißtrauens, das mir -
-den Gedanken jäh durch das Hitn jagte: die Jacht fommt
+die nun auf den Dampfer zuzuhalten schien.
+
+E83 war bei mir jenes durch den Anblick des Verfkleide-ten
+stark gesteigerte Gefühl allgemeinen Mißtrauens, das mir -
+den Gedanken jäh durch das Hirn jagte: die Jacht kommt
 des Maskierten wegen!
-Jeh hastete schneller bie, Treppe hinab, betrat die Ke.
 
-»Es ist nicht der ete Bettler,« flüfterte ich atenılo2.
-Na alfol« nidte Harft.
-»Eine Jacht nähert sich voni ‘Lande ber,« filgte 1h
+Seh hastete schneller die, Treppe hinab, betrat die de.
 
-inge ir
-Harft erhob fich ‘rasch. EN
-»Nah oben — getrennt!« Bet er lebhaft. 7 st
-Die À Dann standen wir wieder in Zwischenräumen an dee
-eling.
-Das De tom leer geworden. Nur der Drehörgetfples
-Biar Taß ung an der ef und rauchte Ieht eine
-EN
+»Es ist nicht der ehe Bettler,« flüsterte ich atenılo?.
 
-Bine.
+Na alles« nickte Harst.
 
-14.
+»Eine Jacht nähert sich von! Stande der,« fischte 1h
+Dinge ir
+
+Harst erhob sich rasch. Er
+
+»Nach oben — getrennt!« Bei er lebhaft. 7 et
+
+Die À Dann standen wir wieder in Zwischenräumen an der
+Reling.
+
+Das De Dom leer geworden. Nur der Drehörgetfples
+Brav daß uns an der er und rauchte Seht eine
+Eine.
 
 <@pagebreak/>
 
-FSSD DSSEPRPDS 46 99299092999.
+<h2>3. Kapitel.</h2>
 
-Herrn Netters »Asiarte»,
+<h3>Herrn Retters »Astarte«.</h3>
 
-Die »kleine Jacht schhoß heran.
+Die »kleine Jacht schoß heran.
 
-Jm Osten wurde der Himmel blank wie eine leuchtende
-Glocke. Die Sonne wollte emporsteigen — gli noch mit
-den grauen Dunsimassen am Horizont.
+Im Osten wurde der Himmel blank wie eine leuchtende
+Glocke. Die Sonne wollte emporsteigen — glich noch mit
+den grauen Dunstmassen am Horizont.
 
-Der Steuermann de8 Dampfers irat zu mité; sicllte das
+Der Steuermann des Dampfers trat zu mißt; stellte das
 Glas ein und sagte dann:
 
-»Das isk vielleicht eite tt Jacht. IH Tann
+»Das ist vielleicht eile Et Jacht. Ich dann
+die Flagge noch nicht unterscheiden...
 
-die Flagge noch nicht unterscheiden
-
-Harald fam herbei, grüßte ... ki
+Harald kam herbei, grüßte...
 
 »Ein schnelles Fahrzeug,« meinte er und wies auf die
+Jacht.
 
-»Mindestens fünfzehn Knoten,« nickie der Steuermann,
+»Mindestens fünfzehn Knoten,« nickte der Steuermann,
 
 Nun konnte man bereits drei Herren drüben erkennen,
 
-Dann ein gellendes Slrenengeheul von der Jacht, —
-lang, furz, furz, lang, lang — so folgten cinander die Töne.
+Dann ein gellendes Sirenengeheul von der Jacht, —
+lang, kurz, kurz, lang, lang — so folgten einander die Töne.
 
-Und nach kurzer Pause abernials: furz, lang, furz, lang,
-furz, furz
+Und nach kurzer Pause abermals: kurz, lang, kurz, lang,
+kurz, kurz...
 
-Teufel, »was wollen bief!« brummte der Steuermann.
+»Teufel, was wollen die?!« brummte der Steuermann.
 
-Ich hatte nach rechts nefchlelt — nach dem Lelermann.
+Ich hatte nach rechts geschieht — nach dem Leiermann.
 hin, Der saß und tat, als gingen diese Signale ihn nichts
-all — nar nichts
+all — nur nichts...
 
-Die Jacht beschricb einen Vogen, halte ben Dampser
+Die Jacht beschrieb einen Bogen, halte den Dampfer
 bald erreicht, hielt sich dicht neben ihm.
 
-Jett sahen wir, daß die Herren drüben sehr unwahr-
-scheinlich dichte Wollbärte hatten — Värte, die: so gewiß.
+Jetzt sahen wir, daß die Herren drüben sehr unwahrscheinlich
+dichte Weltkarte hatten — Bärte, die: so gewiß.
 angeklebt waren, wie auch der meine Kunst war.
 
 Und nun — um Sekunden kam Harald zu spät...
 
-Schnellte vortwvärts — dem Vorschiss zu, wo der Bettler
-foeben hochgefahren und mit der Drehorgel an die Backbord-
-relinck gelauscn war
+Schnellte vortwvärts — dem Vorschiff zu, wo der Bettler
+soeben hochgefahren und mit der Drehorgel an die Backbord-relinck
+gelaufen war...
 
-Wo er sie ras ins Wasser WINADBEIDDRIER hatte und
+Wo er sie las ins Wasser Belohnen hatte und
 hinterdrein gesprungen war ...
 
 <@pagebreak/>
+Harald schwang sich auf die Reling, schleuderte die Jacke
+von sich
 
-605000 47 2200000000007.
+von drüben ein Schuß — von der Jacht
 
-Harald schwang sich auf die Reling, schleuderte die Jade
-pon ji
-= Bon drüben ein Schuß — von dex Jacht
-Harst sauk nach hinten über auf das Deck ia
+Harst sauf nach hinten über auf das Deck ja
 
-ai D ahatie auch Bechert schon die Dienjtpiftole VETE
-»rissen .-
+Palaste auch Bechert schon die Dienjtpiftole Veto
+rissen .-
 
-»vn Namen des Sejehes!« brüdie er WL
+»un Namen des Solches!« blühte er WL
 
-Wollte noch mehr hinzusügeu ...
+Wollte noch mehr hinzufügen ...
 
-Mußte sich ducken — hiuter die eiserne Neling
+Mußte sich ducken — hinter die eiserne Reling
 
-Kugeln psisseu — flaischten gegen das Wietall uit ble-
-cheruem sang
-Der Steuermann schulete neben mir im Schuße der Eis
-fenplatten. -
-»Herr, was bedeutet das alles?1» keuchte er.
-Harst kam herbeigekrochen, blidie durch ein Loch in der
+Kugeln reisten — klatschten gegen das Tresors Mit blechernen
+Klang...
 
+Der Steuermann scharrte neben mir im Schuhe der Eis
+fernhalten. -
+
+»Herr, was bedeutet das alles?!« keuchte er.
+
+Harst kam herbeigekrochen, blickte durch ein Loch in der
 Reling
-ie ‘haben die Bregorgel und den Maun ausgesischt,
-Jagen« davon... .I« tief er.
 
-Der Kapitän crie — ’uilt-atacieu Vüßen, in elnen
-Mantel gehült — aus dem Bett
+»Sie haben die Bregorgel und den Mann aufgefischt,
+jagen davon...!« rief er.
 
-»Klauseu, was geht hier vor?« verlangte er vou dem
+Der Kapitän Orte — ’uilt-atacieu Füßen, in einen
+Mantel gehüllt — aus dem Bett
+
+»Klausen, was geht hier vor?« verlangte er von dem
 Steuermann Austhunfg
 
-Wr ftanden fchon wieder aufrecht ‘da.
+Wo standen schon wieder aufrecht da.
 
 Bechert gab sich dem Kapitän zu erkennen.
 
-æKAriminualfommissar Bechert. Hier mein Auswels, —
-Sit e3 möglich, die Jacht dort einzuholen x«
+»Kriminualfommissar Bechert. Hier mein Ausweis, —
+Sir es möglich, die Jacht dort einzuholen?«
 
-Harst schüttelte den Kopf. »Die Frage kaun auch Ich
-Jhnen begutworten, licber Bcchert. Sie fehen ja, wie die
-Prete die See durchpslügt. Dagegen find wir hier efende
-rebfe.«
+Harst schüttelte den Kopf. »Die Frage kann auch Ich
+Ihnen beantworten, lieber Bechert. Sie Sehen ja, wie die
+Freie die See durchgesägt. Dagegen sind wir hier elende
+Krebse.«
 
 Fahrgäste, durch die Schüsse aus dem Schlaf gescheut,
-stürzten herbel.
+stürzten herbe!.
 
-IR Wir gingen auf Harfi3 Wink schnell in die Kapitängs«-
-fajüte.
+Wir gingen auf Harsts Wink schnell in die Kapitängs-fajüte.
 
-Steuermann Klausen beruhigle die Passagiere, folgte
-uns dann und meldete, daß die Jacht jeyt nach Norden steu-
-
+Steuermann Klausen beruhigte die Passagiere, folgte
+uns dann und meldete, daß die Jacht jetzt nach Norden steuere,
 <@pagebreak/>
-0000000000. 48 vo ei
+der schwedischen Küste zu.
 
-ere, der schwedischen Küste zu.
+Harst hatte sich an den ein gewandt. »Gibt es ein
+Bitte die Jacht irgendwie festhalten zu lassen?« fragte er.
+»Sie haben doch Funksprucheinrichtung an Bord, Herr das
+Pillau. Können wir nicht eine Runddepesche ausgeben für
+alle Ostseehäfen, daß. dicJacht, so und so aussehend, Polizeistation?
+beschlagnahmt und die Sensation verhaftet werden
+sollen?
 
-hatte sich an deu ern gewandi. »Gibt es ein
+»Natürlich geht das, Herr Harst. — Wenn der Herr Knie
+ulnaltomuissar es wünscht, wird der Telegraph sofort
 
-fitte die Jacht irgendwie festhalken zu lassen?« fragte er.
+»Bechert nickte. »Ich wünsche es. Harst mag den Wortlaut
+des Telegramms aussehen,«
 
-Sie haben doch Funksprucheinxichtung an Bord, Herr Kas
-pilän. Können wir nicht eine Runddepesche ausgeben für
-alle Ostseehäfen, daß. dicJacht, so und so ausseheud, polizei-
-tollen? beschlagnahmt und die JZusassen verhaftet werden
-ollen?
-
-Natürlich geht das, Herr Harft. — Wenn der Herr Kris
-ulnaltomuissar es wünscht, wird der Telegraph fofort
-
-»Bechert nickte. »Jh wüusche es. Harft mag den Wort-
-laut des Telegramms gusseyen,«
-
-»Haxald lehute an der Außenwand der Kajüte ueben
-bem: ‘einen Bullei (rundes Außeubordsenster). Das Fenster
-ging nah Süden hinaus. Der Dampser bejand sich etwa
+»Harald lehnte an der Außenwand der Kajüte Ueben
+liebem: einen Bulle! (rundes Außenbordfenster). Das Fenster
+ging nach Süden hinaus. Der Dampfer befand sich etwa
 auf der Höhe von Kolberg.
 
-Harst schrieb im Stehen mit Bleiftift ein paar Zeilen
-auf ein Blatt Papier, reichte es dem Sapitan. »Ville —
-sofort, Herr Kapitän!« Und zu Bechert sagte er: »Da hin-
-ten aun Horizout, nach Kolberg zu — da ist eine Flottille Mis
-uenfuchbvoie. Die Depesche ift für den Slottiltenchef bes
-stimmt und mit Jhrem Namen und Anurtslitel unterzeichnet.«
+Harst schrieb im Stehen mit Bleistift ein paar Zeilen
+auf ein Blatt Papier, reichte es dem Kapitän. »Wille —
+sofort, Herr Kapitän!« Und zu Bechert sagte er: »Da hinten
+Zaun Horizont, nach Kolberg zu — da ist eine Flottille Mit
+uenfuchbvoie. Die Depesche ist für den Slottiltenchef des
+stimmt und mit ihrem Namen und Anurtslitel unterzeichnet.«
 
-“« Bechert ruclte hoch. »Ah — Jagd auf die Burschen!!!
-Versiche!! — Gehen Sie, Herr Kapitän!« —
+Bechert ruckte hoch. »Ah — Jagd auf die Burschen!!!
+Verstehe!! — Gehen Sie, Herr Kapitän!« —
 
-Nohn Minuten drauf jagten sehs schwarze ffinte
+Zehn Minuten drauf jagten sechs schwarze flinke
 Fahrzeuge herbei.
 
 Wieder fünf Minuten, drauf waren wir an Bord des
-ni ae auf dem die Flagge des Floltillenchess
-wehte i;
-Der Korvettenkapitän signalisierte ven übrigen Booten
-ein paar Besehle, Und diese Windhunde des Veeres wenu-
-deten ihre sc;arïen Vordersteven nach Norden, jagten da-
-von, breiteten sich sächerartig aus.
+nicht ne auf dem die Flagge des Floltillenchess
+wehte.
 
-Die Jacht hatte ettva vierzig Minuten Vorsprung. Nach
-einer [FON Stunde kan von dem am weitesten na We-
+Der Korvettenkapitän signalisierte den übrigen Booten
+ein paar Befehle, Und diese Windhunde des Leeres veralteten
+ihre so;allen Vordersteven nach Norden, jagten davon,
+breiteten sich sächerartig aus.
 
+Die Jacht hatte etwa vierzig Minuten Vorsprung. Nach
+einer [Fan Stunde kam von dem am weitesten na Wehr;
 <@pagebreak/>
+zu hinau8geschobenea Boot die Funkspruchunelvung, daß
+die Jacht, westlichen Kurs laufend, gelichtet sei.
 
-2........... 49 ARSS DU
+Akt ne ließ aurüdsunkenuz »Anlauf fällig beobachten. Abwarten.«
 
-Br; zu hinau8geschobenea Boot die Funkspruchunelvung, daß
-bie Jacht, westlichen Kurs faufend, gelichtet sei.
-ABK ne ließ aurüdsunkenuz »Uniaut fällig beobachten. Ab-
-+ Und abermals eine halbe Stunde fpäter war der ßlücht-
-ling e, ul hie a ai
-Der Kreis verennerte  it das Flaggensigual
-»Stoppen Sie sosori!« er
-Die Jacht gehorchie — wir ¿ida an Bord. Wir fan-
-ben einen Booismann und ein Ehepaar vor, Leute, die jebr
+Und abermals eine halbe Stunde später war der ßlücht-ling
+e, ut hie auf
+
+Der Kreis verengerte  ist das Flaggensignal
+»Stoppen Sie sofort!« er
+
+Die Jacht gehorchte — wir ¿ida an Bord. Wir fanden
+einen Bootsmann und ein Ehepaar vor, Leute, die sehr
 erstaunt taten, daß sie ausgehalten wurden.
-Der Cheuvann wies sich als Juwelier Netter aus Ver-
-lin aus, Ex blieb hartnäckig vabel, daß [cine Jaci Ustarte
-ben Zourdampfer nad Pillau« nicht einmal gesichtet, ne
-»schweige venn den Vetilex und bie Drehorgel az Vord ge-
-nommen hätte.
-Julius Rettec war ein jüngerer Mann von einer tiber
-legenen Ruhe. Seine Frau hatte für uns nur cin ironisch-
-hochmüilacs Lächeln. Der Vootswany, gleichsalls Berli-
-ner, besiätigie, vaß Retter seit zehn Tagen mit der Astarte
-be Swinemtude aus unterwegs set und lebt don Stolberg
+
+Der Cheuvann wies sich als Juwelier Netter aus Berlin
+aus, Er blieb hartnäckig Fabel, daß [eine Fach Astarte
+eben Tourdampfer nach Pillau« nicht einmal gesichtet, ne
+»schweige denn den Bettler und die Drehorgel as Bord genommen
+hätte.
+
+Julius Retter war ein jüngerer Mann von einer Tibet
+gelegenen Ruhe. Seine Frau hatte für uns nur ein ironisch-hochmüilacs
+Lächeln. Der Bootsmann, gleichfalls Berliner,
+bestätigte, daß Retter seit zehn Tagen mit der Astarte
+be Swinemtude aus unterwegs sei und lebt von Steibels
 me.
 
-Und ttob dieser kaltblütigen Ableuguungsversuche: es
-var dieselbe Jacht — ohue Zweisel! »Der Name am Bug
-war sreilich vorhin durch eiu Stück Segel verdeckt getwwescu.
-»Wir durchsuchien die Jacht — ohue Erfolg.
+Und trotz dieser kaltblütigen Ableugnungsversuche: es
+war dieselbe Jacht — ohne Zweifel! »Der Name am Bug
+war freilich vorhin durch ein Stück Segel verdeckt getwwescu.
+
+»Wir durchsuchten die Jacht — ohne Erfolg.
+
 Netter wurde ungemülich, drohte mit Beschwerde.
-Jachten vom Aussehen meinèr Ustarte gibt es zu Tits
-¿enden,« meinte er. »Suchen Sie wur bie andere, miele
-Herren! Jch bin auch kein Bandit]*«
-Vl, Wir waren ziemlich ratlos. Der Fregattenkapitän, der
+
+Jachten vom Aussehen meiner Astarte gibt es zu Orts
+¿enden,« meinte er. »Suchen Sie war die andere, miete
+Herren! Ich bin auch kein Bandit!«
+
+Wir waren ziemlich ratlos. Der Fregattenkapitän, der
 mit uns an Bord gekommen, machte ein langes Gesicht.
--Harft blieb NRetiers inumer felbfichersin Austreica und
-È Redensarten oegenüber kühl-höslich,
 
-»Sie können sich ja beschweren, Herr Netter,« saate er
-achfelzueend. »Wir erben die andere Jacht scon siudeu.«
+Harst blieb Ateliers immer felbfichersin Austreten und
+È Redensarten gegenüber kühl-höflich,
+
+»Sie können sich ja beschweren, Herr Netter,« sagte er
+achfelzueend. »Wir erben die andere Jacht Soog finden.«
+
 <@pagebreak/>
+Not verärgert stiegen wir ins Boot und kehrten nach
+vom schwarzen Windhund mit den beiden schrägen Schornsteinen
+zurück.
 
-rever... 50 Gee
+Harst sagte erst, als die Flottille nach Nordwest, Kurs
+Fans auf Rügen, weiterdampsie:
 
-Ned verärgert sticgeu wir ins Boot und kehrten nach
-vom schivarzen Windhund mit den bejden schrägen Schorn-
-teinen zurück.
-Harst sagte erst, als die Flottille nah Nordwest, Kurs
-Fans auf Nügen, weiterdampsie:
-err Retter wird bald mit einer Zelle des Berliner
+Herr Retter wird bald mit einer Zelle des Berliner
+Polizeipräsidiums Bekanmnlschast Machern — sehr bald! —
+Ich bitte Sie, Herr Korvellieukapitän, uns na Kolberg zu
+Bringen, sobald die Jacht Astarte außer Sicht ist.«
 
-Polizeipräsidiums Bekanmnlschast macyecu — schr bald1 —
-Sch bitte Ste, Herr Korvellieukapitän, uns ua Kolberg zu
-priugen, fohald die Jacht Aslarte außer Sicht ist.«
+Weiter äußerte er sich nicht. —
 
-Weiter äußerle er sich uicht. —
-Um sieben Uhr morgens elva wurdeu wir drei, Bechert,
-darst und ich, mit unsereu Kosseru wesilich von Kolberg an
-tinsamer Strandstelle ausgebootet. Um elf Uhr vormittags
-jatte Harald ermittelt, daß Herr Julins Netter in Kolberg -
-vier Tage im Hotel Sixandscöioß gewohut und in der der«
-zangenen Nacht gegen zwölf Uhr eine driugende Depesche
-ms Sioluemünde mit folgenden Wortlaut erhalten Hatte:
+Um sieben Uhr morgens etwa wurden wir drei, Bechert,
+Warst und ich, mit unseren Koffern westlich von Kolberg an
+Einsamer Strandstelle ausgebootet. Um elf Uhr vormittags
+satte Harald ermittelt, daß Herr Julius Netter in Kolberg -
+vier Tage im Hotel Sixandscöioß gewohnt und in der der«
+Längeren Nacht gegen zwölf Uhr eine dringende Depesche
+uns Sioluemünde mit folgenden Wortlaut erhalten Hatte:
 Julius Retter, Kolberg, Hotel Sirauofchloß, Zimmer 18 1.19
-Sendung unterwegs don bier givei Uhr morgens. Wie der
-Hndars in Empfang nebnen.« Borficitige Behandlung der
-en nötig, da Beipaclung drei jehr ungüns
-ig. — Schulze
+Sendung unterwegs von hier zwei Uhr morgens. Wie der
+Satans in Empfang nehmen.« Vorsichtige Behandlung der
+en nötig, da Belagerung drei sehr Anzüge
+is. — Schulze
+
 Harald. lächelte zu diesem Telegramm, dessen wahrer
-Juhalt uns sofort llar wurde: die »Sendung« war der WMas-
-»ierte mit dem Leierkäsien. Beide sollte Retter, wie gesche-
-zen, vom Tourdampser nach Pillau auf See au Vord der
-(starte nehmen. »Vorsichtige Behandlung« und fo weiter -
-var eine Warnung vox uns dreien.
+Inhalt uns sofort klar wurde: die »Sendung« war der WMas-ierte
+mit dem Leierkästen. Beide sollte Retter, wie gescheiter,
+vom Tourdampfer nach Pillau auf See zu Bord der
+(starte nehmen. »Vorsichtige Behandlung« und so weiter -
+war eine Warnung vor uns dreien.
 
-Bechert meiute fopischüttelud: »Unglaubliche Geschichte!
-Was soll ‘das alles?«
+Bechert meinte kopfschüttelnd: »Unglaubliche Geschichte!
+Was soll das alles?«
 
-»Retter ist der Hehler, lieber Bechert,« erwiderte Ha-
-cald furz
-î »gut — der Hehler der Damanten und fonftigen
-sleinodien des Grasen! Gut, mag stimmen. Aber — wo
-zlieb der Drehorgelspieler. És waren doch nur drei Leute
-zn Bord der Astarte.«
+»Retter ist der Hehler, lieber Bechert,« erwiderte Harald
+kurz
+
+»Hm — der Hehler der Tonarten und sonstigen
+Kleinodien des Grasen! Gut, mag stimmen. Aber — wo
+Blieb der Drehorgelspieler. es waren doch nur drei Leute
+an Bord der Astarte.«
+
 <@pagebreak/>
-0.000.020.0000 5] er00000200
-
-»Ste vergessen, daß wir so und so vielen Fischerboote
-begegneten. Retter hat einen Fischer bestochen. Der Leis
-erlaflenmann ist unterwegs nach einem der deutschen Nik
-ftenorte zwischen Kolberg und Swinemünde oder er ist be
-reits dort eingetroffen. Retter hat eben mit einer Versolz
-gun merechnet.«
+»Sie vergessen, daß wir so und so vielen Fischerboote
+begegneten. Retter hat einen Fischer bestochen. Der Zeit
+erlaflenmann ist unterwegs nach einem der deutschen Nil
+steuerte zwischen Kolberg und Swinemünde oder er ist be
+bereits dort eingetroffen. Retter hat eben mit einer Versehe
+Rangun Verrechnet.«
 
 »Schön. Und nun?«
-»Werden wir Mittag essen und irgendwo in den Dü
-nen fjlafen. Dann suchen wir weiter.«
+
+»Werden wir Mittag essen und irgendwo in den Du
+verfilzten. Dann suchen wir weiter.«
 
 Bechert und ich waren sehr einverstanden.
 
-Beim Mittagessen meinte Freund Friß plößlich:
+Beim Mittagessen meinte Freund Fritz plötzlich:
 
 »Und Danzig? Scheidet das ganz aus?«
 
-»Sa. Darüber sprechen wir später.«
+»Ja. Darüber sprechen wir später.«
 
 Weshalb? Weshalb nicht gleich?«
 
-»Weil ih etwas abgespanüt bin.«
+»Weil ich etwas abgespanüt bin.«
 
-Und dabei blieb’8. —
+Und dabei blieb’s. —
 
-Mit unseren kleinen Handkosfern verloren wir uns in
-den Dünen, suchlen ein scattiges Plätchen bier Melden
-gebüsch und streckten uns in den warmen Saud.
+Mit unseren kleinen Handkoffern verloren wir uns in
+den Dünen, suchten ein sonstiges Plätzchen hier Melden
+Gebüsch und streckten uns in den warmen Sand.
 
-Es war eine ganz einsame Stelle, welt ab von den
-letzten Stranbförben der Badegäste.« Kolberg als Seebad
-war auch in diesem Jahre wieder sehr Hesuchi.
+Es war eine ganz einsame Stelle, Welt ab von den
+letzten Strandkörben der Badegäste.« Kolberg als Seebad
+war auch in diesem Jahre wieder sehr Besucht.
 
-Die nahe See brandete ganz [eise und fang uns ein
-@chtunmerfich,
+Die nahe See brandete ganz [eile und fang uns ein
+Schtunmerfich,
 
-ch erwachte gegen halb sechs, xlchteie mich anf, ried
-mir die Augen, hörte Becherts wenig melodisches Schnarch+
-konzert neben mir und sah mit cinem Blick, daß Harst fehlte.
+Ich erwachte gegen halb sechs, richtete mich auf, riet
+mir die Augen, hörte Becherts wenig melodisches Schnarchkonzert
+neben mir und sah mit einem Blick, daß Harst fehlte.
 
-Sein Koffer war noch da. Damit uns die Stoffer
+Sein Koffer war noch da. Damit uns die Stoffen
 während des Nachmittagsihläfchens nicht gestohlen würden,
-hatten wir sie als Kopspolsier benupt.
+hatten wir sie als Kopfpolster benagt.
 
-Wo war Harft?! — Da bemerkte Ich halb unter seinen
-Koffer gefchoben einen Zettel.
+Wo war Harst?! — Da bemerkte Ich halb unter seinen
+Koffer geschoben einen Zettel.
 
-Flüchtige Bleististzeichen: »Konnte ,nicht einschlafen]
-Tegte mich auf die Dünenkuppe, sah die Astarte in den Has
-fen einlaufen und will jet N. beobachten. Hinterlasse Euch
-Nachricht auf der Polizeiwache des Sirandviertels. Bechert
+Flüchtige Bleistiftzeichen: »Konnte nicht einschlafen]
+fegte mich auf die Dünenkuppe, sah die Astarte in den las
+Ofen einlaufen und will jetzt N. beobachten. Hinterlasse Euch
+Nachricht auf der Polizeiwache des Strandviertels. Bechert
 <@pagebreak/>
-DDD DDD DD 5) DDD DDD
-fol dort nachfragen. H.»
+soll dort nachfragen. H.«
 
-ch weckte Vechert fchleuntafl. Wir waren beide mehr
+ich weckte Bechert schleunigst. Wir waren beide mehr
 als erstaunt über die Rückkehr der verdächtigen Jacht. Wir
-batten hiermil nie gerechnet. Retter hatie erklärt, er wolle
-mit der Astarte nah Swinemünde und über Stettin bie Oder
-amvärıs nach Berlin.
+hatten hiermit nie gerechnet. Retter hatte erklärt, er wolle
+mit der Astarte nach Swinemünde und über Stettin die Oder
+Anwälte nach Berlin.
 
-Friß Bechert machte jeßt ein sehr unzufriedenes Gesicht.
-»Es ist ein schenßliches Gefühl, so im Dunkeln herunmzu-
-tappen,« meinte er. »Harst hüllt sih wieder nah altem
-Rezept în Schiveigen. Und doch behaupte ich, daß er genau
+Fritz Bechert machte jetzt ein sehr unzufriedenes Gesicht.
+»Es ist ein scheußliches Gefühl, so im Dunkeln herunmzu-tappen,«
+meinte er. »Harst hüllt sich wieder nach altem
+Rezept in Schweigen. Und doch behaupte ich, daß er genau
 weist, was es mit dem falschen Bettler, der Drehorgel und
-afl dem anderen auf fih hat.« VN
+all dem anderen auf sich hat.« un
 
-Jch nidte. Er hatte da soeben ausgesprochen, was
-ich bereits mir selbst gesagt hatte: weshalb ließ der Verklei-
-dete die Drehorgel nicht im Stich — weshalb warf er fie
-in die See und sprang dann erst hinterdrein?! Weshalbv?1
-Was lag an dem elenden Justrument?! Welchen Werl
-moche es haben, welchen verborgenen Wert?!
+Ich nickte. Er hatte da soeben ausgesprochen, was
+ich bereits mir selbst gesagt hatte: weshalb ließ der Verkleidete
+die Drehorgel nicht im Stich — weshalb warf er sie
+in die See und sprang dann erst hinterdrein?! Weshalbv?!
+Was lag an dem elenden Instrument?! Welchen Wer!
+mache es haben, welchen verborgenen Wert?!
 
 Bechert hatte sich erhoben und streckte sich,
 
-»Schen wir,« meinte er dann.
+»Schon wir,« meinte er dann.
 
-EEE
+<h2>4. Kapitel.</h2>
 
-4. Kapitel.
-Dex Kollege Allan Marx,
+<h3>Der Kollege Allan Marx,</h3>
 
 Wir trugen noch immer unsere Verkleidung, obwohl
-sie ung jept Julius Retter gegenüber nich1s nitßte. Als wir
-den Stadtwald von Kolberg, dic bekannte historische Mai-
-mmyle ditrehschritten, slug ich Vechert daher vor, unsere Ge-
-sichter ein wenig zu verändern. Jn einem Gebüsch verwan-
-delten wir uns sogar schr gründlich. Unsere Kosser ent-
-hielten alles Nôtige, sogar blaue Peinenanziine, wie die
-Echissleizer sie tragen. — Nach schr. kritischer gegenscitiger
-Musterung, die aber zur vollen Zusricdenheit ausfiel, hega-
+sie uns legt Julius Retter gegenüber nichts ritzte. Als wir
+den Stadtwald von Kolberg, die bekannte historische Mai-mmyle
+ditrehschritten, Flug ich Bechert daher vor, unsere Gesichter
+ein wenig zu verändern. In einem Gebüsch verwandelten
+wir uns sogar sehr gründlich. Unsere Koffer enthielten
+alles Nötige, sogar blaue Peinenanziine, wie die
+Echissleizer sie tragen. — Nach sehr. kritischer gegenseitiger
+Musterung, die aber zur vollen Zufriedenheit ausfiel, begaben
 <@pagebreak/>
+wir uns zur Polizeiwache des Strandviertels. Bechert
+legitimierte sich den Beamten gegenüber, erhielt einen der- -
+siegelten Brief, den Harald hier zurückgelassen, und bat, man
+möchte unsere Koffer einslweilen in Verwahrung nehmen.
+Harst war vor etwa einer Stunde aus der Wache gewesen,
+ohne seinen Amen. zu nennen.
 
-0020000000080 33 000000000002.
-
-ben wir uns zur Polizeiwache des Strandviertel8. Bechert
-
-1
-
-legitimierte sich den Beamien gegenüber, erhielt einen der- -
-
-siegelten Bries, den Harald hier zurückgelassen, und bat, man
-möchte unsere Kosfer einslweilen in Verwahrung nehmen.
-
-Harst war vor etwa einer Slunde aus der Wache gewesen,
-
-ohne seinen amen. zu nennen.
-
-Wir beide schten uns in den nahen Anlagen auf eine
-
+Wir beide schien uns in den nahen Anlagen auf eine
 Bank und lasen den Brief. — Harald schrieb:
 
-»Aftarte Tiegt im Junnenhasen am Bollwerk. Netter
+»Astarte liegt im Junnenhasen am Bollwerk. Netter
+ging zur Stadt. Ihr Greift mich in der Sperre zum goldenen
+Anker in der Versagte-Gasse. Seid vorsichtig. Wir fassen
+die Bande heute bestimmt ab, falls nicht gerade eine Störung
+eintritt. 9.«
 
-ging zur Stadt. Jhr tresft mich in der Fneipe zum goïdenen
-
-die Bande heute bestimmt ab, falls nicht gerade eine Stö-
-rung eintritt. 9.«
-
-— Dann — bergnoldene Anter, eine jener Schlifertuel
-pen, die cine Schenswürdigfeit find, Ein Häuschen, fo
-niedrig, daß man mit ber hochgereckten Hand das Ziegelda
-
-berühren konnte. Blibblanke Fensier, eine Haustür aus
-Eichenholz, darüber an ciner verrosteten eisernen Stange
-
+— Dann — bergnoldene unter, eine jener Schlifertuel
+Tulpen, die eine Sehenswürdigkeit sind, Ein Häuschen, so
+niedrig, daß man mit der hochgereckten Hand das Ziegel da
+berühren konnte. Blibblanke Fenster, eine Haustür aus
+Eichenholz, darüber an einer verrostetem eisernen Stange
 ein goldener Anker. Und neben diesem dicht unterm Dach
-
 eine Erinnerung an die Belagerung durch die Franzosen im
-Jahre 1807: eine Kanonenkugel, die in die Mauer halb ein-
-gedrungen war.
+Jahre 1807: eine Kanonenkugel, die in die Mauer halb eingedrungen
+war.
 
-Die Kneipe selbst: drei Situben,-« weiß gescheuerie Tische,
-mweiher Sand anf ben Dielen, an ben Deckenbalken Schisss-
-modelle, Wassen von Naturvölkern, allerhand andere Dinge,
-
-die bewiesen, daß die Besiver des goldenen Ankers wohl
-
+Die Kneipe selbst: drei Stinken,-« weiß gescheuerte Tische,
+weiter Sand auf den Dielen, an den Deckenbalken Schiffsmodelle,
+Wasser von Naturvölkern, allerhand andere Dinge,
+die bewiesen, daß die Besitzer des goldenen Ankers wohl
 stets früher Seeleute gewesen,
 
-Wir fanden Harft, gleichsalls im Helzerfoftiim, im eis.
+Wir fanden Harst, gleichfalls im Helzerfoftiim, im Eis.
+ärmlichen Schankraum an einem Tische sitzen. Wir Hätten
+sehr kaum erkannt. Er, der beste Verwandlungskünstler, den
+Ah kenne, hatte sich diesmal noch mehr Mühe als sonst gegeben,
+um möglichst echt zu wirken.
 
-genilichen Schankraum an einem Tische fiten. Wir Hätten
-Uh kenne, hatte sich diesmal noch mchr Mühe als sonst gege-
-
-ben, um möglichst echt zu wirken.
-
-schhn kaum erkannt. Er, der beste Verwandlungskünsiler, den
-
-Der Raum war bis auf zwel andere Gäste und ben
-
+Der Raum war bis auf zwei andere Gäste und den
 Wirt hinter dem Schenktisch leer,
 
-Harald tat so, als hätte ex ‘uns erwartet. Jn schön-
-
-stem Hamburger Platt begrüßte er uns mit Vorwürfen, weil
-
-Anker in der Persante-Gasse. Scid vorsichtig. Wir fassen
+Harald tat so, als hätte er uns erwartet. In schönstem
+Hamburger Platt begrüßte er uns mit Vorwürfen, weil
 <@pagebreak/>
-GEL HSS 5 PH
-
-wir fo fpöt kämen. Wir nahmen gleihsalls Plat, bestest
+wir so spät kämen. Wir nahmen gleichfalls Platz, besiegt
 ten ein warmes Gericht und dämpften allmählich unsere
 Stimmen.
-Die beiden anderen Säfte, aletchfalt8 Geefente, beachte)
-fen uns nicht weiter. Neune Säfte kamen hinzu.
-Harft war merfwitrdin einsilbig. Wir, Bechert und
-ich, warteten umsonst darauns, daß er und Näheres über Die
-Jacht und Julius Retter miticilen sollte, Schließlich konntest
+
+Die beiden anderen Säfte, gleichfalls Seeleute, beachteten
+uns nicht weiter. Neune Säfte kamen hinzu.
+
+Harst war merfwitrdin einsilbig. Wir, Bechert und
+ich, warteten umsonst Warnung, daß er und Näheres über Die
+Jacht und Julius Retter mitteilen sollte, Schließlich konntest
 Freund Frißv doch nicht länger an sich halten.
-»Harsk, so reden Sie doch endlich!« meinte er lelse, aber]
-recht unwillig. »Es ist das wieder das reinste Versteck-st
-Inne BR Jhnen und und. — Was treibt: diefer Net]
-ter bier?« al
-»Er befichtigt zur Zeit ein Machsfigurentabinett,« er
-fsärte Harst völlig ernst. | 4 MW
-Wachssiguren — — Wachsfigurenkabinetl!! Sofort
-dachte ih an den Napolcon ans Wachs, Goltte etwa No-
-bert Nobba wirklich hler in Kolberg sein?!
-Auch Bechert war anf diesen Gedanken gekommen und
-sragte: »Das heißt also, Robha ist hier, niht wahr?«
-«Ja. Er war der verkleidete falsche Betiler, den bie
-Astarle samt der samosen Drehorgel aussishte«
-»Weshalb — famofe Drehornet?«
-»Weit fie hel diefen Dinamamtenfhlebern nnd Dienen
-elne grosie Rolle spielt,« erklärte Harft fenfzendb. »hr beide
-quetscht mich ja doch aus wie cine Zitrone. Da will ich Lie-
-ber von selbst meine Theorie über Nobba und Konsorten
-entwickeln. . Robba als internationaler Artist hat die beste
+
+»Harst, so reden Sie doch endlich!« meinte er leise, aber]
+recht unwillig. »Es ist das wieder das reinste Versteckter
+Inne By Ihnen und und. — Was treibt: dieser Ne!]
+Verlief?« all
+
+»Er besichtigt zur Zeit ein Wachsfigurenkabinett,« er
+klärte Harst völlig ernst. | 4 MW
+
+Wachsfiguren — — Wachsfigurenkabinett!! Sofort
+dachte ich an den Napoleon ans Wachs, Gellte etwa Robert
+Robba wirklich hier in Kolberg sein?!
+
+Auch Bechert war auf diesen Gedanken gekommen und
+fragte: »Das heißt also, Robba ist hier, nicht wahr?«
+
+»Ja. Er war der verkleidete falsche Bettler, den die
+Astarte samt der famosen Drehorgel auffischte«
+
+»Weshalb — famose Drehorgel?«
+
+»Weit sie he! diesen Dinamamtenfhlebern und Dienen
+Einzelne gratis Rolle spielt,« erklärte Harst fenfzendb. »he beide
+quetscht mich ja doch aus wie eine Zitrone. Da will ich Lieber
+von selbst meine Theorie über Robba und Konsorten
+entwickeln.. Robba als internationaler Artist hat die beste
 Gelegenheit zum Verschieben und Stehlen von Kleinodien.
-Er ist bald hier, bald da engagiert. Jn den leßten vier Mo-
-naten war er in London, Paris, Nouen, Brüssel, Kopen-
-hagen, Hamburg, Berlin und Niga. Und in all diesen
-Städten find zur felben Zelt größere Juwelendiebstähle vor-
-gefommen., Jh habe daheim die ausländischen Zeitungen
-durchgesehen, cbenso das Verbandsorgan der internationalen
-Srtittiepfope TPaser ferme [1 ovs Nobhas Engagement
-
+Er ist bald hier, bald da engagiert. In den letzten vier Monaten
+war er in London, Paris, Neuen, Brüssel, Kopenhagen,
+Hamburg, Berlin und Riga. Und in all diesen
+Städten sind zur selben Zelt größere Juwelendiebstähle vorgekommen.,
+Ich habe daheim die ausländischen Zeitungen
+durchgesehen, ebenso das Verbandsorgan der internationalen
+Srtittiepfope Grasen ferne [1 aus Robbas Engagement
 <@pagebreak/>
+— Ganz besonders erfolgreich hatten die Diebe in London
+gearbeitet, wo sie dem Herzog von Pirschten Edelsteine in
+Weile von 120 000 Pfund Sterling abvgaunerten., Londoner
+Detektive verfolgten die Spur der Diebe bis Berlin,
+hatten aber die Fährte dann verloren.
 
-HH 400r0 5 Herr r00»
+Harst machte eine kurze Pause. — Wir merkten, jetzt
+kam das Wichtigste seiner Mitteilungen.
 
-— Ganz besonders erfolgreich hatien die Diebe in Londou
-gearbeitet, wo sie dem Herzog von Wirghton Edelsteine iu
-Werle von 120 000 Psund Sterliug abvgaunerten. , Lon-
-douer Detekiive verfolgten die Spur der Diebe bis Berlin,
-baiten aber die Fährte dann verloren.
-
-Harft machte eine kurze Pause. — Wir mertten, jet
-kam das Widtlgfte seiner Mitteilungen.
-
-«Íu der Artistenloge,« suhx er sort, »saud ich aucb einen
-recit Interessanten Artikel Uber Nobert Robbas Vaniectec-
-Nummer »Napoleon — Mensch odex Aultomatt« Darin
-var betont, dasi Nobbas Automat so glänzend gearbeitet fol,
-»daß man bis zum leßten Augenbliek im Zieijel bliebe, ob
-es sich um einen Automatcu oder voch uux um einen leben
-den Meuschen handele, dex deu Napoleon minie. Ferner
+»zu der Artistenloge,« fuhr er fort, »Sand ich auch einen
+recht Interessanten Artikel über Robert Robbas Panischer-Nummer
+»Napoleon — Mensch oder Aultomatt« Darin
+war betont, das! Robbas Automat so glänzend gearbeitet soll,
+»daß man bis zum letzten Augenblick im Zirkel bliebe, ob
+es sich um einen Automaten oder noch nur um einen leben
+den Menschen handele, der den Napoleon mimte. Ferner
 war da erwähnt, daß der Automat ner anderen eine.
-Drehorgel in Vewegung sehe, weld: die Nationalhymne
-des Landes spiele, în dem Nouba sich gerade mit seinew Na-
-poleon aus Wachs besände,«
-»Ah!« machte Bechert. »Wir geht ein Lichl aus!«
-»Bitte — impiejern?« sragie Harald gespaunt.
-»Nun, in dieser Drehorgel wird Nobba die gefiohlenen
+Drehorgel in Bewegung sehe, werd: die Nationalhymne
+des Landes spiele, in dem Nouba sich gerade mit seinen Napoleon
+aus Wachs befände,«
 
-Steine versleckt haben.«
+»Ah!« machte Bechert. »Wir geht ein Licht aus!«
 
-«Ja — das nehme auch ih an, lieber Bechert. Die
-Drehorgel war ein Schmuggleririck. Sie diente dazu, die
-en über die Grenze zu schassen — nach Berlin, zu dem
-Großhehler Julius Netter. Das Gepäck eines Artifien twirb
-kaum fo forglältig Durchfucht werden.«
+»Bitte — impiejern?« fragte Harald gespannt.
 
-Bechert schnitt einer Zigarre bedächtlg die Spiye ab.
-»Alles schr shön, bester Harst ... Nur — gauz klar isl
-mir die Sache doch noh nichi.  Robba war zuleyt also in
-»Riga im Auftrage der jungen Gräfin. Ju der Kisle sür deu
-Automaten wurde Graf INounow aus Niga weggeschasst —
-»als Automat, übrigens an sich ein gläuzender Gedauke. Wo
-»blieb dex cte Aulomat, der Napoleou aus Wachs?«
+»Nun, in dieser Drehorgel wird Robba die gestohlenen
+Steine versteckt haben.«
 
-»Der wurde irnendivie heimlich nach Tilsit acbracdt
-und dort als Cilsracht ausgegeben. — Als ich Netter iu dew
+»Ja — das nehme auch ich an, lieber Bechert. Die
+Drehorgel war ein Schmugglertrick. Sie diente dazu, die
+en über die Grenze zu schossen — nach Berlin, zu dem
+Grobheiten Julius Netter. Das Gepäck eines Artisten fand
+kaum so sorgfältig Durchfurcht werden.«
 
-1
+Bechert schnitt einer Zigarre bedächtig die Spitze ab.
+»Alles sehr schön, bester Harst ... Nur — ganz klar is!
+mir die Sache doch noch nicht.  Robba war zuletzt also in
+»Riga im Auftrage der jungen Gräfin. In der Kiste für den
+Automaten wurde Graf Aromen aus Riga weggeschafft —
+»als Automat, übrigens an sich ein glänzender Gedanke. Wo
+»blieb der ehe Automat, der Napoleon aus Wachs?«
+
+»Der wurde irgendwie heimlich nach Tilsit gebracht
+und dort als Eilfracht ausgegeben. — Als ich Netter in den
 <@pagebreak/>
-200.022.022. 56
+drüben auf dem Chaubudenplah sicherten Zelt des Wachs-figurenkabiuetis,
+das einer Frau Amalie Robba gehört, -
+verschwinden sah, habe ich mich bei »dem Bahnspediteur erkundigt,
+ob in den letzten Tagen hier für Frau Robba eine
+»Kiste mit einer Wachsfigur eingetroffen sei. So erfuhr ich),
+Puls dies der Fall gewiesen und daß die Kiste aus Tilsit genommen.«
 
-tl
-
-drüben auf dem Chaubudenplah sichenden Zelt des Wachs-
-figurenkabiuetis, das ciner Frau Amalie Nobba grhört, -
-verschwinden sah, habe ih mich bei »dem Bahnspeviteur er-
-fundigt, ob in den leßten Tagen bier für Frau Nobba eine
-»Kiste mit einer Wachsfigur eingetroffen sci. So erfuhr id),
-Pals dies der Fall gewiesen und daß dic Kiste aus Tilsit ge-
-onunen.«
 Bechert drückte Harst verstohlen die Hand. »Sie sind
-doch ein Genie, Harft!«
-»Sentert Sch meine, biefe Nachfrage bei dem Spedl-
-teur lag doch sehr nahe.«
+doch ein Genie, Harst!«
+
+»Aendert Ich meine, biete Nachfrage bei dem Spediteur
+lag doch sehr nahe.«
+
 »Und weiter?«
+
 »Ja — dann besuchte ich das Macpsfigurentabinett,.
-das seit vier Uhr nachmittags geössuet war, sah mix die
-Wachsfiguren an und fand den berühmien Automaten auf
-einem Sodel ftehen — in der befanmien Haltung mit über
-ber Brust gekreuzten Armen. Napoleons Nachbarn waren
-rechts der alte Frig und links der. Scharsrichier vou Nücn-
-berg, Johann Saltjiever, neben dem auch der »echte« Nicht
-blod stand. Als ich mir die wirkli tadellos gearbeiteten
-Wachssiguren betrachtet hatie, verließ ich die. Bude uno
-schaute mir dabei den an der Kasse sigenden ‘Mann, einen
-blondbärtigen Menschen, genauer an — unauffällig selbst-
-redend. És wax Freuud Robba, der sich hier uun offenbar
-»ganz sicher fühlt. Retter mag« ihu gesagt haben, daß wir
-ee in der Oftjee Herumfreugen und die andere Jacht
-ucheu.«
+das seit vier Uhr nachmittags geöffnet war, sah mir die
+Wachsfiguren an und fand den berühmten Automaten auf
+einem Sockel stehen — in der bekannten Haltung mit über
+der Brust gekreuzten Armen. Napoleons Nachbarn waren
+rechts der alte Fritz und links der. Scharfrichter von Nürnberg,
+Johann Saltsieder, neben dem auch der »echte« Nicht
+brav stand. Als ich mir die wirklich tadellos gearbeiteten
+Wachsfiguren betrachtet hatte, verließ ich die. Bude und
+schaute mir dabei den an der Kasse sitzenden wann, einen
+blondbärtigen Menschen, genauer an — unauffällig selbstredend.
+es war Freund Robba, der sich hier nun offenbar
+»ganz sicher fühlt. Retter mag« ihn gesagt haben, daß wir
+er in der Ostsee Herumfreugen und die andere Jacht
+wehen.«
+
 »Hm — und Danzig?« warf Bechert ein. »Was ist’s
-fert Danzig und deu heiden Ronuows und deu echten Bei
+opfert Danzig und den Heiden Ronnows und den echten Bei
 er y«
-»Nonnows find ebenfalls hier, und in ihrer Dees
-tung ‘ein Mann, den ich vou Hörensagen läugst lenne
-Wieder eiue Kunstpause. — Bechert machte eiue unge
-duldige Handbewegung.
+
+»Ronnows sind ebenfalls hier, und in ihrer Sees
+Tötung ein Mann, den ich von Hörensagen längst kenne
+
+Wieder eine Kunstpause. — Bechert machte eine arge
+ungeduldige Handbewegung.
+
 Und Harald flüsterte: »Allan Marx aus London,
-bester Bechert, der alte Viarx, Yütinhaber des Delektivinsti-
+bester Bechert, der alte Marx, Yütinhaber des Delektivinsti-
 <@pagebreak/>
-»tuis Worx, Robbln und Kompagnle, Loudon, Abbeystreet.»
-2. zDonnerivetter — Margll 2.
-¿Ja Marz, dex hinter ven Juioelen des Herzogs von
-Wirghton her ist. denke Ich, der Robba und Konsorten beob-
-achtete und irgendiole- ermittelt halte, daß Robba den Pillau-
-Danıpfer benuyeu würde, und glaubte, Robba ivürde in
-»Danzig an Land gehen, und dics den beiden Rounows zur
-Kenuinis. bringen wollte — durch die Schuhsohle! Also der
-alie Allan Marx und kein Diener des Grasen, wie ih au-
-fäuglich annahm« : NER,
+»tust Marx, Neblig und Kompagnie, London, Abbeystreet.«
 
-»Und i000 jeden bie brei?«
+»Donnerwetter — Unfall 2.
 
-Jn einem bescheidenen Peusionat am Schaubuden-
-pla$ — natürlich verkleidet wie wir. Jch iväre kaun auf sie
-aufmerffam geworden, jvenn Marx: nicht von seinem Pens
-ster aus die Wachsfigurenbude mit elnem Feruglas beobach-
-tet ck. Als ich merkte, daß der Maun dort am Fenster
-ein so merfwürdigcs Juteresse sür die-Bude der Frau Nobbà
-hatte, risfierle ich’s, mich der Peñsionsmuiter zu erkennen
-¿u geben, und ersuhr so, daß sie heute vormittag drei neue
-Gäste erhalien hätte. Zeh risfierte noch mehr uud flopste
-bei Herru Kausuiann A. Praw aus Verlin, so hatte Marx
-in eingetragen, kräftig an, wurde eingelassen und ertaunte
-Marz nun an seinem flarfen graumweiben Scheitel und ber
-hohen intelligenten Stirn. Er war keineswegs entzüct, als
-ich ihm ertlärie, wer er sei und wer ih sei. Ich blich mur
-drei Vöänuten bei ihm, Er meinte, ih solle ihm hier uicht
-seine Maßuahmen- stören. Den Hal Kobba erledige er allein.
-— Jh jpürte: e8 ivar ihım Lediglich um vas setzte Geschäft
-zu tun! Er wollie nicht mit mir dad Honorar und so weis.
-ter teilen. : Sch fpürte ‘aber noh mehr: daß er weit weniger
-wüßte ald wir! — Jedenfalls schieden wir sehr förmlich —
-ohne »Auf Wiedersehen« — als Koulkurrenten eben.« Ha-
+»Ja Marx, der hinter den Aufrollen des Herzogs von
+Pirschten her ist. denke Ich, der Robba und Konsorten beobachtete
+und irgendiole- ermittelt halte, daß Robba den Pillau-Dampfer
+benutzen würde, und glaubte, Robba würde in
+»Danzig an Land gehen, und dies den beiden Ronnows zur
+Kenntnis. bringen wollte — durch die Schuhsohle! Also der
+Amalie Allan Marx und kein Diener des Grasen, wie ich anfänglich
+annahm«
 
-rald schuunzelte eiwas. »Das wäre nun alles, Bechert.
-Es bleibt noch aufzuklären: hat der Graf wirklich zwei Meus
-schen umgebracht? Wie hat Marx die Nounows keuncuge-
-lerut? Wie gelangie er in Besiy der Drehorgel? Wie wurde
+»Und i000 jeden die Brei?«
 
-VLC202000000 in 00900079...
+In einem bescheidenen Pensionat am Schaubuden-pla$
+— natürlich verkleidet wie wir. Ich wäre kann auf sie
+aufmerksam geworden, Adern Marx: nicht von seinem Peng
+Laster aus die Wachsfigurenbude mit einem Fernglas beobachtet
+Ok. Als ich merkte, daß der Mann dort am Fenster
+ein so merkwürdiges Interesse für die-Bude der Frau Robba
+hatte, riskierte ich’s, mich der Peñsionsmuiter zu erkennen
+zu geben, und erfuhr so, daß sie heute vormittag drei neue
+Gäste erhalten hätte. Seh riskierte noch mehr und klopfte
+bei Herrn Kaufmann A. Prau aus Berlin, so hatte Marx
+in eingetragen, kräftig an, wurde eingelassen und erkannte
+Marx nun an seinem Blaffen graumweiben Scheitel und der
+hohen intelligenten Stirn. Er war keineswegs entzückt, als
+ich ihm erklärte, wer er sei und wer ich sei. Ich blich nur
+drei Vöänuten bei ihm, Er meinte, ich solle ihm hier nicht
+seine Maßnahmen- stören. Den Ha! Robba erledige er allein.
+— Ich spürte: es war ihım Lediglich um das setzte Geschäft
+zu tun! Er wollte nicht mit mir dat Honorar und so weil.
+ter teilen.: Ich spürte aber noch mehr: daß er weit weniger
+wüßte alt wir! — Jedenfalls schieden wir sehr förmlich —
+ohne »Auf Wiedersehen« — als Konstruierten eben.« Harald
+schuunzelte etwas. »Das wäre nun alles, Bechert.
+Es bleibt noch aufzuklären: hat der Graf wirklich zwei neue
+sehen umgebracht? Wie hat Marx die Ronnows kennengelernt?
+Wie gelangte er in Besitz der Drehorgel? Wie wurde
 <@pagebreak/>
-00 15 Ser 00000060
-
 sie ihm wieder abgenommen? Wie fand er heraus, daß es
-eine Frau Amalie Jobba gäbe, bie jept bier in Stolberg ihre
-Wachssiguren zeigt? Und fchliebifh: uns, wird hier weiler
+eine Frau Amalie Jobba gäbe, die legt hier in Steibels ihre
+Wachsfiguren zeigt? Und schließlich: uns, wird hier weiter
 noch geschehen?
-Nach diesen Erössnungen stärkten wir uns zunächst
 
-durch ein neues Glas Bier und berieien dann ben Feld-
-zugsplan, der darauf hinauslies, Nobba nebst Auhang heute
-lediglich zu beobachien und dann am Morgen die ganze
-Bande verhasten zu lassen, salls in der Nacht sich nichts
+Nach diesen Eröffnungen stärkten wir uns zunächst
+durch ein neues Glas Bier und berieten dann den Feldzugsplan,
+der darauf hinauslief, Robba nebst Anhang heute
+lediglich zu beobachten und dann am Morgen die ganze
+Bande verhaften zu lassen, falls in der Nacht sich nichts
 mehr ereignete, was uns ratsam erscheinen ließ, mit dem
 Zupacken noch etwas zu warten. —
 
-Alles — alles kam anders, al3 wir gedacht hatten,
+Alles — alles kam anders, als wir gedacht hatten,
 
-Die Drehorgel bereitete uns noch weitere Ueberraschuns
-gen und der Nürnberger Scharfrichter tat’s noh mehr.
+Die Drehorgel bereitete uns noch weitere Ueberraschung
+gen und der Nürnberger Scharfrichter tat’s noch mehr.
 
-EEE
-5. Kavitel.
-Fm Wachsfigurenkabiuett,
+<h2>5. Kapitel.</h2>
+<h3>im Wachsfigurenkabinett,</h3>
 
 Halb elf Uhr abends...
 
-Auf dem Nunmelplapd war großer Beirieb. Ein hak
-bes Dupend Niefenorcheftriong Heulten ibre Walzer und
-Lieder durcheinander Karufsells drehten sich im slinunern-
-den Lichischein ihrer Gi Zgehänge, Budenbesißer luden das
-verehrliche Publitum von Stadt und Laud mit längst hel-
-ser gehrmen Stimmen zur Besichtigung der Wellaitraktioe
+Auf dem Nunmelplapd war großer Betrieb. Ein hat
+Erbes Sagend Niefenorcheftriong Heulten ihre Walzer und
+Lieder durcheinander Karussells drehten sich im flimmernden
+Lichtschein ihrer Ei Zgehänge, Budenbesitzer luden das
+verehrliche Publikum von Stadt und Land mit längst heller
+Schemen Stimmen zur Besichtigung der Wellaitraktioe
 nen ein.
-Im Wachsfigurenkabinett hatte focben Napoleon seine
-Künste gezeigt. Bechert und ich befanden uns unter der staus
-nenden Menge. Zum Schluß hatle der Automat auch die
-alte verstimmte Drehorgel bedient, und dann war der beo
-rühurte Napoleon von der korpulenten Madame Robba auf
-der Nückscite geösshet worden, so daß jeder das fompli-
 
-erte Räderwærk sehen kouute.
+Im Wachsfigurenkabinett hatte soeben Napoleon seine
+Künste gezeigt. Bechert und ich befanden uns unter der Kraus
+ahnenden Menge. Zum Schluß hatte der Automat auch die
+alte verstimmte Drehorgel bedient, und dann war der der
+rühmte Napoleon von der korpulenten Madame Robba auf
+der Rückseite geösshet worden, so daß jeder das jonglierte
+Räderwerk sehen konnte.
+
 <@pagebreak/>
-800029020000 59 000000000000
-
 Wir verließen die große Schaubude und gesellen uns
-zu Harald, der draußen am Wohnwagen ber Frau Aniálie
-obba hinter dem Zelt Wache hielt.
+zu Harald, der draußen am Wohnwagen der Frau Amalie
+Robba hinter dem Zelt Wache hielt.
 
-Dex Brelterzaun ciner Holzhandlung grenzte hier den
-
-Play ab. Den Wächter halten wir bestochen. Er hatte für
-uns eine Pforte offen gelaffen. Harald stand Hinter dem
-Zaun und beobadhtcie burd) eine breite Spalte den- Wagen
+Der Bretterzaun einer Holzhandlung grenzte hier den
+Platz ab. Den Wächter halten wir bestochen. Er hatte für
+uns eine Pforte offen gelassen. Harald stand Hinter dem
+Zaun und beobachtete bald) eine breite Spalte den- Wagen
 und den hinteren Eingang des Zeltes. -
 
-Sch löste ihn ab. Ek und Bechert sehten sich auf einen
-
-nahen Holzstapel. Um elf Uhr hörte das Gedudel der Or- -
-
-chestrion3 auf, die Karussells wurden dunkel, die Buder
-shlosscn ihre Kassen und das Publikum verlief sich...
+Ich löste ihn ab. Et und Bechert selten sich auf einen
+nahen Holzstapel. Um elf Uhr hörte das Gedudel der er- -
+chestrion3 auf, die Karussells wurden dunkel, die Buden
+schlossen ihre Kassen und das Publikum verlief sich...
 
 Harst und Bechert beobachteten nun gleichfalls das Zelt
 und den Wagen. Die mondhelle Sommernacht erleichterte
-uns unsere aufgabe.
+uns unsere Aufgabe.
 
 Frau Robba kam und betrat den Wohnwagen. Dann
 erschien Robert Robba, der an der Kasse gesessen hatte —
-blondbärtig, hager, ganz anders aussehend als aus der Ole
+blondbärtig, hager, ganz anders aussehend als aus der Oie
 in der Orkannacht, Auch er verschwand im Wohnwagen.
 
 Das Zelt: war nun leer.
 
-Etwa und halb zwölf bemerkien wir einen fehfanten
-Mann mit Ues ins Gesicht gezogener Mitye, der rash auf
+Etwa und halb zwölf bemerkten wir einen schlanken
+Mann mit See ins Gesicht gezogener Mitte, der rasch auf
 das Zelt zuhuschte, ebenso rasch an der linken Zeltsecite das
+Alberne unten ausschnitt und sich durch das Loch hindurch-zivänate,
 
-Alleine unten ausschnitt und sich durch das Loch hindurch-
-zivänate,
-Wer war das?» flüsterte Bechert.
-Keine Ahnung!» ertwviderte an ehr gedehnt.
-Zehn Minuten branf tauchte von rechts ber ein ande
+Wer war das?« flüsterte Bechert.
 
-der Mann un der es genau so machte: er kroch an der rech, -
+Keine Ahnung!« ertwviderte an ehe gedehnt.
 
-ten Seite in bas Zelt hinein.
+Zehn Minuten drauf tauchte von rechts der ein anderer
+Mann un der es genau so machte: er kroch an der roch, -
+ten Seite in das Zelt hinein.
 
-pDas war Retter, der Hehler,« erklärte Harald leise,
+»Das war Retter, der Hehler,« erklärte Harald leise,
 
-Hinter den MONTRER Fenstervorhängen des Wohw
-wagens brannte noch
+Hinter den Markise Fenstervorhängen des Wohin
+Wagens brannte noch Licht.
 
-Aber — im Sut blieb alles dunkel oa,
+Aber — im gut blieb alles dunkel da,
 
-»Es wurde zi If Uhr.
+Es wurde auf Uhr.
+
 <@pagebreak/>
-0200020020008 60 : $00.000.
-
-Turmuhren scschlugen die Mitternachisstunde mit alen,
-
+Turmuhren erschlugen die Mitternachtstunde mit allen,
 den Klängen.
-Dann kreischte die Tür des Wohnwag end...
 
-Semand flieg Die angelegte Treppe hinab. — ein dier.
-Mensch mit blondem Schnurrbart: Nobba — der RNobba
+Dann kreischte die Tür des Wohnwagend...
 
-bon ber. Die!
+jemand stieg Die angelegte Treppe hinab. — ein der.
+Mensch mit blondem Schnurrbart: Robba — der Robba
+von der. Die!
 
 Er trug in der Linken einen Teller mit ein Paar Belege
 ten Broten sowie Messer und Gabel.
 
-»Der Napoleon befonmt sein Abendessen,« fitfterte 50
-talb ‘ironisch.
+»Der Napoleon bekommt sein Abendessen,« riskierte 50
+halb ironisch.
 
 Robba schschGloß die Holztür des Zeltes auf und schloß
+hinter sich wieder ab...
 
-hinter si wieder ab...
-Im Zelte flammte ein schschwacher Lichtscheit mt.
+Im Zelte flammte ein schschwacher Lichtscheit Ut.
 
 Wir drei eilten rasch durch die Zaunpforte hinaus a:
+schlichen an die linke Seitenwand der Bude. Hier ihr vs
+Harst sehr vorsichtig das Leinen eine Spanne lang auf.
+schert tat dasselbe drei Meter weiter.
 
-schlichen an die linke Seilenwand der Bude. Hier iir vs
-Harst schr vorsichtig das Leinen eine Spanne lang auf.
-chert tat dasselbe drei Meter weiter.
-
-Harald und ih sahen, daß Nohba eine der weiden
-
+Harald und ich sahen, daß Robba eine der weiden
 Karbidlampen anreziindet hatte, deren Gas8au3tritt er nun
-sso einstellte, daß die weiße Flamme nur wenig leuchtete.
+Lasso einstellte, daß die weiße Flamme nur wenig leuchtete.
 
-Robba ließ die Tritileiter, die er hierzu gebraucht
-hatte, an berfeiben Stele fichen und kam mit dem Teller
-auf den Napoleon zu. Awischen - dicsem und dem. alien
-Frit befand sich unser Guckloch, Es herrschte in dieser Zelt-
-ede cin Halbdunkel, das uns vor dem Bemerkiwerden sschithte,
+Robba ließ die Trittleiter, die er hierzu gebraucht
+hatte, an betreiben Stele Wichen und kam mit dem Teller
+auf den Napoleon zu. zwischen - diesem und dem. allen
+Fritz befand sich unser Guckloch, Es herrschte in dieser Aelteste
+ein Halbdunkel, das uns vor dem Bemerktwerden schlichte,
 
-Jett wollte Nobba den Teller anf den VAART der
-RE POLL MSTRIOFREN. bon Nürnberg ftellen
+Jetzt wollte Robba den Teller auf den Vogel der
+ne Port Vertieften. von Nürnberg stellen...
 
-ofte ...
+Worte ...
 
-Wollte wohl die Häade frei haben, un... Das,
-was er beabsichtigte, erfährt der Leser schr bald »„.
+Wollte wohl die Hände frei haben, un... Das,
+was er beabsichtigte, erfährt der Leser sehr bald »„.
 
-Und da — da ereinnete sich etwas, das sekbft unsere
-Augen vo: jähem Staunen weitete
+Und da — da ereignete sich etwas, das selbst unsere
+Augen wo: jähem Staunen weitete...
 
-Die .n ein mittelalterfiches: Gewand gekleidete Haut
-bes Schar. ricyters, der auf scin Richischwert gelehnt da tand,
+Die in ein mittelalterliches: Gewand gekleidete Haut
+Erbes Schar. Richters, der auf sein Richtschwert gelehnt da Tand,
+bewegte sich »spaltet
 
-bewegte sh »loulich
-Das Schwert zntckte Ye.
+Das Schwert Knickte ne.
+
 <@pagebreak/>
+Robba stieß einen gurgelnden Laut aus.
 
-61 04.200.020 2LD
+»Der Teller, Messer, Gabel entfielen ihm. | Er taumelte
+zurück, schlug rückwärts zu Boden .;.
 
-Robba stieß einen aurgelnden Laut aus.
-»Der Teller, Meffer, Gabel entfielen ihm. | Er taumelte
-zurü, schlug rückwärts zu Boden .;.
-Und noch während er fo hintenüberfant, tief ber Scharf-
-richter mit einer vor Erregung schrillen Stimme: ....
-da 1 Aa mit ben Nonnote- Juwelen, Schurke! Heraus.
-ant
+Und noch während er so hintenüberfant, tief der Scharfrichter
+mit einer vor Erregung schrillen Stimme: ....
 
-Weihe. flatschte ‘mit bumpsem. Krach, zu. Boden, tegie
+da 1 Ja mit den Nomade- Juwelen, Schurke! Heraus.
+an!
 
+Weile. klatschte mit dumpfem. Krach, zu. Boden, fegte
 nicht
-Da Hatte Harst schon mit einem Meksserschnitt das Sud-
-lod vergrößert, - halte sich ins Zelt gedrängt.« à...
-»Sräfin,. das dürfte für .Nobbas Nerven zu ‘viel gewe:
-fen. sein,”. fagte er schr ernst zu dem so unversehens les
-bendig gewordenen Scharfrichter... »Falls Allan Marz bie
-ses Schreckmitiel ersonnen hat, trägt er die Verantwortung.«
-Und Harald beugte. sich zu. Robba hinab, leuchtete - hut
-mit der Taschenlampe ins Gesicht. — Robba. var tot.
-Die Gräsin ahnte, was sie angerlchtet hatte. »Sie starrie
-uns ananeet an und meinte bebrüdt: »Vlt — — ist er wirf
-ott«
 
-Harst nickie nur. — Auch Vechert war jeht neben uns
-Men, Harald trat anf den Napoleon zu, hob ihn vom
+Da Hatte Harst schon mit einem Meksserschnitt das Jubelnd
+vergrößert, - halte sich ins Zelt gedrängt.« à...
 
-Sockel herab und letzte Ihn auf den Voden, öffnete die Uni-
-form. im Rügen und enthüllte die Rückseite des Pappleibes
+»Gräfin,. das dürfte fürNobbas Nerven zu viel gerne:
+Ofen. sein,”. sagte er sehr ernst zu dem so unversehens los
+lebendig gewordenen Scharfrichter... »Falls Allan Marx die
+Moses Schreckmittel ersonnen hat, trägt er die Verantwortung.«
+
+Und Harald beugte. sich zu. Robba hinab, leuchtete - Hut
+mit der Taschenlampe ins Gesicht. — Robba. war tot.
+
+Die Gräfin ahnte, was sie angerichtet hatte. »Sie starrte
+uns ananeet an und meinte bedrückt: »Mit — — ist er wirf
+Gott«
+
+Harst nickte nur. — Auch Bechert war jetzt neben uns
+Mem, Harald trat auf den Napoleon zu, hob ihn vom
+Sockel herab und letzte Ihn auf den Boden, öffnete die Uniform.
+im Rügen und enthüllte die Rückseite des Pappleibes
 des großen Korsen.
 
-Gleich darauf hatte er aus dem Junern der Figur einen
-Knaben von vielleicht ncun Jahren hervorgeholt — Robhas
+Gleich darauf hatte er aus dem Annern der Figur einen
+Knaben von vielleicht neun Jahren hervorgeholt — Robbas
 Sohn, wie sich später herausstellte. Der Automat war also
-doh Schwindel gewesen. Der Zunge hatte die Kim bes
+doch Schwindel gewesen. Der Zunge hatte die Kinn bewegt,
+in die er so hineinpaßte, Daß auch noch für den Bluff
+Mechanismus Platz blieb...
 
-»wegt, in die er so hineinpaßte, Daß aud noch für ben Bluff
-Mechani3mus Play blieb...
+Dann schritt Harst rasch einer anderen Ecke des Zeltes
+zu, wo die Kisten der Wachsfiguren aufgestapelt waren und
+wo auch die Als ihren Platz hatte.
 
-Dann schritt Harst rash einer ‘anderen Ede des Zeltes
-
-zu, wo die Kisten der Wachsfiauren aufgestapelt waren und
-
-»wo auch die ALE ihren Plab hatte.
-
-» Nun kam die Ucberraschung Nr. drei: Herr - Julius À
-
-Netter hatte sich in elner der Kisten verborgen, als er bemertkl
+Nun kam die Ueberraschung Nr. drei: Herr - Julius À
+Netter hatte sich in einer der Kisten verborgen, als er bemertkl
 <@pagebreak/>
-0000000000080 (9 0000000000080
+hatte, daß er wider Erwarten in dem Zelte nicht allein sei!
+Er hatte die Gräfin nur undeutlich bemerkt, die gerade das
+Scharfrichtergewand übergestreift hatte. So Klo er in die
+eine Kiste hinein — so stand er jetzt mit fahlem Gesicht vor
+uns, Fauchte nicht, irgend eine Ausrede zu ersinnen
 
-hatte, daß er wider Erwarten în dem Zelte nicht allein sei!
-Er hatte die Gräfin nur undeutlih bemerkt, die gerade das
-Schärsrichtergewand übergestreist hatte. So kro er in die
-eine Kiste hincin — so stand er jeht mit sahlem Gesicht vor
-uns, waagtke nicht, irgend eine Ausrede zu ersinnen
-»Sie wollten, glaube ich, hier stehlen,« sagte Harst. vere
-ächtlich zu ihm. »Vielleicht die ganze Drehorgel ...1»
+»Sie wollten, glaube ich, hier stehlen,« sagte Harst. Vers
+nächtlich zu ihm. »Vielleicht die ganze Drehorgel ...1»
 Netter versuchte ein Lächeln. Er hatte seine Frechheit
-wieberaefunden. »Was follte ich mit dem Ding?!« meinte
-er achfelzudenb. Ka
-Harft Happte den Dedel auf, Happte den Vorderteil her-
-ab. Nun lagen die Holzpfeifen des Orgelgehäufes rel.
-»Hm — es sind acht Pseisen zu viel, Herr Reiter,« eto
-Märte Harald gleichmütig. »Acht Orgelpfeifen, in die man
-allerhand hineiniun kann — zum Beispiel Edelsteine . . »1»
-Retter zitterte mit einem Male .… . Seine Zähne schlus
-gen fklappernd zusammen. Er sah êin, daß er verloren war.
+wiedergefunden. »Was sollte ich mit dem Ding?!« meinte
+er achselzuckend. da
+
+Harst tappte den Deckel auf, tappte den Vorderteil herab.
+Nun lagen die Holzpfeifen des Orgelgehäuses roh.
+
+»Hm — es sind acht Pfeilen zu viel, Herr Reiter,« ein
+Warte Harald gleichmütig. »Acht Orgelpfeifen, in die man
+allerhand hineintun kann — zum Beispiel Edelsteine.. »1»
+
+Retter zitterte mit einem Male .…. Seine Zähne schlug
+gen fklappernd zusammen. Er sah in, daß er verloren war.
+
 »Ein tadelloses Versteck, diese Röhren!« meinte or
-no. »Vechert, verhaften Ste Netter . »| Nobbas Frau, Net
-ters Frau und der Bootsmann ber Astarie follen dann
-gloeichsalls das Kolberaer Polizeigesängnis kennen lernen!«
-Jn den Pseisen der alten Drehorgel sanden wir 208
-Diamanten verschiedeusier Größe — alle ohne Fassun
-Graf Ronnodv erhielt zuritck, was ihm davon gehörte, Ex
-konnte auch beweisen, daß er die beiden Polizeispivel in
+noch. »Bechert, verhaften Sie Netter. »| Robbas Frau, Ne!
+Vaters Frau und der Bootsmann der Astarte sollen dann
+gloeichsalls das Kolberger Polizeigefängnis kennen lernen!«
+
+In den Pfeilen der alten Drehorgel fanden wir 208
+Diamanten verschiedenster Größe — alle ohne Auszug
+Graf Korridor erhielt züchtet, was ihm davon gehörte, Er
+konnte auch beweisen, daß er die beiden Polizeispitzel in
 Riga aus Notwehr erschossen (e - Der Londoner Der
-teftiv Marx war auf die Gräsin In Nga ausmerksam gee
-worden, bis wohin er Robba3 Spur nach vieler Mühe wele
-tervdrsolgt hatte, Er war es gewesen, der durch den Trans
-port der Kiste von Riga nah Tülsit und durch die Versen-
-dung der Kiste als Eilgut nach Kolberg ermittelt hatte, daß
-es noch eine Frau Nobba gäbe. Er war auch auf densele
-ben Gedanken gekommen wie Harst: daß die Drehorgel, die
-in Nobbas Verliner Wohnung vor dessen Neise nah Riga
-zuritdochlieben, ein Versteck enthalten müßte. Er slahl die
+teftiv Marx war auf die Gräfin In Nga aufmerksam See
+worden, bis wohin er Robbas Spur nach vieler Mühe wehe
+tervdrsolgt hatte, Er war es gewesen, der durch den Traue
+Port der Kiste von Riga nach Wühlt und durch die Versenkung
+der Kiste als Eilgut nach Kolberg ermittelt hatte, daß
+es noch eine Frau Robba gäbe. Er war auch auf deutete
+eben Gedanken gekommen wie Harst: daß die Drehorgel, die
+in Robbas Berliner Wohnung vor dessen Neige nach Riga
+zuritdochlieben, ein Versteck enthalten müßte. Er stahl die
 Orgel, fand jedoch nichts, da er nicht an die überflüssigen
 <@pagebreak/>
-9040200200000 (3 0200.00...0.00
-
-Orgelpseisen dachte. Und ihm wieder entwendete Nobba
-vas exbärniliche und vo fo kostbare Justrumeut, um mit
-Netter, dem Hehler, in Kolberg cin Miesengeschäft abzu-
-schließen, aus dem dann jedoch nichis werden solte —
-nichis als die endliche Verhagstung dieser Juwelendiebe, de-
-ren Helsershelser in Berlin und audexen Städten gleichsalls
-feftgenonmmen Werben konnten, da vielter rücksichtölos uun-
-mehr deu Augeber spielte. — Der Leser wird si uoch aus
-bem Herbst 1922 aus die Schwurgerichtsverhandlung gegen
-Retter und Genossen« besiunen — auch darauf, daß wegen
-ber vier Morde aus See ein paar Mitglieder der Vaude zu
+Orgelpfeifen dachte. Und ihm wieder entwendete Robba
+das exbärniliche und wo so kostbare Instrument, um mit
+Netter, dem Hehler, in Kolberg ein Miesengeschäft abzuschließen,
+aus dem dann jedoch nichts werden sollte —
+nichts als die endliche Verhagstung dieser Juwelendiebe, deren
+Helfershelfer in Berlin und anderen Städten gleichfalls
+feftgenonmmen Werden konnten, da vierter rücksichtölos nunmehr
+den Angeber spielte. — Der Leser wird sich noch aus
+liebem Herbst 1922 aus die Schwurgerichtsverhandlung gegen
+Retter und Genossen« besinnen — auch darauf, daß wegen
+der vier Morde aus See ein paar Mitglieder der Bande zu
 - Tebeuslänglichemn Zuchthaus verurteilt wurden, — Den
-Napoleon aus Wachs hatte Harald sür seine Raritätensaumu-
-fung angelauft. Leiberif -
-dde Weshalb Leider, wig ih im folgenden Vande ber
+Napoleon aus Wachs hatte Harald für seine Raritätensaumu-fung
+angekauft. Leidens -
 
-Mäder Bandı
+öde Weshalb *leider*, wich ich im folgenden Bande berichten.
+
+Mädel Bauch
+
+__Der dritte Schuß.__
 
 <@pagebreak/>
-rer -
-+ Kabels Rriminaldüdyer. Band bi st
+barer -
++ Kabels Kriminalbücher. Band Ei et
 »Die Schildkröte
 
-Durch jede Buchhandlung au beiiehen.
-De ee ee
-SRE C TG Td CTC ELE CEASE
-Rabels Rriminalbüdyer, Bau 6:
+Durch jede Buchhandlung zu berieten.
+De er er
+Sie Co These Ehe Conte
+Kabels Kriminalbücher, Bau 6:
 Die grüne Schlange
 
-Duxch jeze Buchhandlung zu beziehen.
-OGH è e ZE EH Ed d Ed d Sd FES 0 GH GRH
+Durch lese Buchhandlung zu beziehen.
+Ook ne Je Et Et det det See 0 Oh Goß
 
-nee
-Bahele Rriminalbüder. »and
+Schnee
+Bohrte Kriminalbücher. »und
 Das Teekästchen
 
-Durch jede Buchhandlung zu bezichen.
-Pub Ed SEUSS Gd HES SERS SARNO SHARAN
+Durch jede Buchhandlung zu beziehen.
+Putz Et Sense ad Het Sees Sarge Signor
 
-E060 0 E 0ER 000 5D OED CEL
-Kabels Rriminalbücher, »ans 8:
-Die Todgemeibten
+E060 0 E Oel 000 5D Ook Oel
+Kabels Kriminalbücher, »ans 8:
+Die Todgeweihten
 
-- Durch jede Buchhandluna zu beziehen.
-DIET III«
+- Durch jede Buchhandlung zu beziehen.
+Dies In«
 
 <@pagebreak/>
-<@pagebreak/>
-Weitere Ausgaben
 
-unserer, Harst -Abenteuer
-1—$ vergriffen. 52. Der Tintenlöscher des Sahdi Ahmed.
-7. Zwei Taschentücher, 53. Auf des Messers Schneide.
-Die Jagd auf einen Namen, 54. Strandkorb Nr. 121.
-9. Die Augen der Jolante. E 55. Das Lichtbild ohne Kopf.
-10 Der Fluch eines Geschlechts. 56. Das Haus in. der Wildnis...
-it. Die verschwundene Million.- 57. Das Geheimnis des Brasilianers.
-12. Die Festung des Ali Azzim. 58. Die Spielhölle. von Hongkong.
-13. Die tote Lady Rockwell.« 59. Das Rätsel von Päragwana.
-14. Der Fakir von Nagpur.. 60. Ein: amerikanisches Duell.
-15. Der blinde Brahmane.- i 61. Die Gängespiraten.
-16. Das Auge der Prinzessin Singawatha. 62. Eine Wettfahrt ums Leben.
-
-17. Das Löschblatt von Amritsar.
-
-18. Die leuchtende Fratze.
-
-19. Schattenbilder.
-
-20. Der Löwe von Flandern.
-
-21. Der ewige Jude.
-
-22. Das Armband der Lady Melville.
-
-23. Die Rätselbrücke.
-
-24. Der Einsiedler von Tristan de Cunha.
-25. Die: Siegellacktröpfchen.
-
-26. Die Gesellschaft der roten Karten.
-27. Die Uhrkette des -Bill Hamilton.
-28. Der Tempel der Khali.
-29. Nur ein Tintenileck.
-30: Der Stern von Siam.
-31.
-32.
-33.
-34.
-
-Der sprechende. Kopf.
-
-Das Geheimnis des Scheiterhaufens.
-Die Gefangene von Trawalkor.
-
-35. Die Eishöhle in Nepal.
-36. Der Mord im Warenhause.
-37. Der Ab W. W:
-
-38. Ein gelährlicher Auftrag.
-39. Der sterbende Fechter.
-40. Rie ‘Gespenster - Rikscha.
-41. t ine Lôwenjagd im Sinai.
-42. Der Afghan - Teppich.
-
-43. Der Acht-Grad -Kanal.
-44. Der leere Koffer:
-
-45. Acht Stunden Frist.
-
-46. Der Klub der XII.
-
-47. Die Bajadere Mola Pur.
-48. Der Foulene Gonggong.
-49. Die Kugel aus dem Nichts.
-50. Der Piratenschoner. BR
-51. Die Büchse der Pandora.
-
-Eine leere Streichholzschachtel. -
-
-63. Die Bärenjagd in Kaschmir,
-
-Das Licht in der’ Lehmhütte.
-
-Der chinesische Messerwerfer.
-
-Die leere Töhne.
-
-Die Gauklergesellschaft Shingra Mar:
-Der Klub der Zuchthäusler. -
-
-Lord Ralleys Schreckensnächte.
-
-Das Geheimnis der Insel Morton.
-
-Die Katzen der Gräfin Balthoim.
-
-Der Tote im Fahrstuhl.
-
-Die Höllenmaschine Doktor Blucks.
-Das Geheimnis der Kabine 24.
-
-Das Rätsel der Trollhätta - Insel.
-
-Lord Plemborns Verbrechen.
-
-Die Leiche im Gletschertunnel.
-
-Sechs leere Briefbogen. -
-Das Geheimnis des Elefantenjägers.
-Lady Myntors letzter Wunsch.
-
-Der Giftpfeil des Wedda.
-
-Der Schlangenbeschwörer von Agra.
-Das Patent des Doktor Murphison.
-- DieBuschklepper der Thar -Wüste.
-
-Das blinde Hindumädchen.
-
-Die Wundergeige des Virtuosen.
-
-Der Geisterspiegel.
-
-88; Das Geheimnis des Wannsees,
-
-»89. Giftkonfekt.
-
-90. Schâtten an der Wand.
-
-91. Der tote Zigeuner. -
-
-92. Das Rätsel der Schoneryacht.
-
-93. Die tote Karawane. -
-94. Das Wunder von Patna.
-95. Frau Inges Tränen.
-
-“« 96. Der tote Kanarienvogel.
-
-97. Der Obstkahn am Llisabethuser.
+<div class="img"><img alt="Der Napolen aus Wachs" src="NapoleonAusWachs.png" style="width: 100%; height: auto;"/></div>
 
