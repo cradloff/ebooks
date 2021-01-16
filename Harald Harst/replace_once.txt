@@ -14,7 +14,6 @@
 \bFusel\b	Insel
 \bHart\b	Harst
 \blebten	letzten
-\blegte	letzte
 \blett\b	jetzt
 \bMir\b	Wir
 \bMr,	Mr.
