@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">3c7d0abe-4dd4-11eb-8ea7-a3295bbdd779</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Unser 100. Abenteuer</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">100</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Unser 100. Abenteuer
+
+Es war am 28. Juni 1922 nach jener Nacht, in der die Verbrecherin Jane Brack als Postbeamter verkleidet der polizeilichen Einkreisung entkam, in der wir ihren Vater, der jahrelang als harmlose Witwe uns gegenüber in der Mansarde des Hauses Blücherstraße 68 gewohnt hatte, der Polizei übergeben konnten. Antonie Lenk hatte er sich genannt. Anton Lenk hieß er in Wirklichkeit.
+
+Noch mehr war ja in dieser Nacht geschehen. Für den von Jane Bracks Bande gefangen gehaltenen Deutschamerikaner Stuart Dramar hatte die Befreiungsstunde geschlagen. Und die drei Männer, die dem jungen Weibe blindlings ergeben gewesen, waren nun gleichfalls sorgsam behütete Gäste des Berliner Polizeipräsidiums.
+
+Nach dieser Nacht hatten wir beide, Harald und ich, versäumten Schlaf am Tage nachgeholt und saßen gegen drei Uhr nachmittags nun bei einer Tasse Mokka in Haralds Arbeitszimmer.
+
+Harst hatte sich soeben an seinen Schreibtisch gesetzt und machte einige Eintragungen in sein Tagebuch, sagte dann plötzlich:
+
+»Weißt Du auch, mein Alter, daß unser nächstes Detektivabenteuer hier in meinem Buche unter Nummer hundert verzeichnet werden wird? Hoffentlich wird dieses Erlebnis der Jubiläumszahl Hundert entsprechend etwas Besonderes!«
+
+Der Zettel mit den Zahlen.
+
+Zwei der Maskierten waren mit Helene Melmer verschwunden.
+
+Fünf Personen befanden sich jetzt hier noch im Zimmer, durch dessen geschlossene Fenstervorhänge bereits der erste Schimmer des anbrechenden Morgens wie graue Lichtstreifen hereindrang.
+
+Minutenlang blieb es still im Zimmer.
+
+Jane Brack hatte sich wieder gesetzt und sann vor sich hin.
+
+Dieses Schweigen nahm mit jeder entrinnenden Minute etwas immer Bedrohlicheres an.
+
+Alfred Orgla lief der Schweiß über die Wangen. Ob der Mann ahnte, daß Jane Brack nun hier Gericht halten würde...! Ob sein verderbtes Herz vor Angst jagte und ihm die kalten Perlen aus der Haut trieb?
+
+Dann hob Jane den Kopf.
+
+»Was würden Sie an meiner Stelle mit Orgla tun, Herr Harst?« wandte sich sich an Harald.
+
+»Sie sind eine merkwürdige Frau, Jane...! Ich kann Ihnen nichts darauf antworten.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (100) Unser 100. Abenteuer.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
