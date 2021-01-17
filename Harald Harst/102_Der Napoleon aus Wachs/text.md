@@ -1436,37 +1436,37 @@ die Ueberleitung zu der... Drehorgel des Bettlers...
 <h3>Der Bettler mit der Drehorgel.</h3>
 
 Es war das erbärmlichste Instrument dieser Art, das
-Menschenohren beleidigt und daher reichlichere Braven, als
-in Drehorgelspieler sie sonst einzusammeln pflegt, erpreßt
-hat. Und der Dann, der die Uebel des Festhalten, guter
-machenden Kastens deckte, paßte genau zu diesem rufe von einem
-Müllplatz asiaclefenen Maxtergehäuse: bucklig, als
-gerissen, Fragmente von Schuhen, mit Bindfaden ummridelt,
-an den Füßen, ein altes, saltenzerrissenes Greisengesicht, ein
-obige durch ein Pflaster verhielt, — wirklich ein Anblick, Der
+Menschenohren beleidigt und daher reichlichere Gaben, als
+ein Drehorgelspieler sie sonst einzusammeln pflegt, erpreßt
+hat. Und der Mann, der die Kurbel des beschabten, quietschenden
+Kastens drehte, paßte genau zu diesem wie von einem
+Müllplatz aufgelesenen Martergehäuse: bucklig,
+abgerissen, Fragmente von Schuhen, mit Bindfaden umwickelt,
+an den Füßen, ein altes, faltenzerrissenes Greisengesicht, ein
+Auge durch ein Pflaster verklebt, — wirklich ein Anblick, Der
 das Mitgefühl wachrief.
 
 So stand der Alte am 16. Juli nachmittags vier Uhr
-ht vor der Tür des Vorgartens des Sanfter;en Hauses,
+dicht vor der Tür des Vorgartens des Harstschen Hauses,
 
-Harst und ich, soeben erst munter geworben nach einem
-längeren Verdaaungsschlas, waren ans Fenster getreten,
-Guten durch die Tüllvorhänge nach dem Drehorgelspieler«
-8, dessen Wimmerkasten ein Dutzend Kinder aus der Rad
-Herrschaft versammelt hatte,
+Harst und ich, soeben erst munter geworden nach einem
+längeren Verdauungsschlaf, waren ans Fenster getreten,
+schauten durch die Tüllvorhänge nach dem Drehorgelspieler
+aus, dessen Wimmerkasten ein Dutzend Kinder aus der Nachbarschaft
+versammelt hatte,
 
 mit einem Male langte Harald nach dem Schreibtisch
-rüber und nahm das für alle Fälle stets bereiisleheude
-mu zur Hand, stellte es auf den Bettler ein und sagte
-Mit: Ah hi
+hinüber und nahm das für alle Fälle stets bereitstehende
+Fernglas zur Hand, stellte es auf den Bettler ein und sagte
+sehr bald:
 
 <@pagebreak/>
 »Vielseitig, der Mann! Mit der Rechten dreht er die
-Kurbel, mit der Linken, die er so merkwürdig ans Herz sei
-drückt hält, macht er Fingerbewegungen wie ein sKlavier-spieler.
-Bitte — sieh Dir dies zu, mein Alter.«
+Kurbel, mit der Linken, die er so merkwürdig ans Herz gedrückt
+hält, macht er Fingerbewegungen wie ein Klavierspieler.
+Bitte — sieh Dir dies an, mein Alter.«
 
-Allerdings: das war festlag, war auffallend,
+Allerdings: das war seltsam, war auffallend,
 
 »Vielleicht leidet der Alte an nervösen Handzuckungen,«
 meinte ich und setzte das Fernglas ab.
@@ -1475,129 +1475,130 @@ Harald gab mir eine Banknote. »Da, prüfe, ob der
 Mann verkleidet ist.«
 
 Ich ging hinaus — durch den Vorgarten, über den
-Bürgersteig, reihte dem Bettler den Geldschein
+Bürgersteig, reichte dem Bettler den Geldschein...
 
-Und sah sofort, daß hier ein echter Greis, kein zrecht-geschmiukler
+Und sah sofort, daß hier ein echter Greis, kein zurechtgeschminkter
 Spion oder dergleichen seiner Not zerschlissene
-Lumpen zur Schau stellte. Sah auch, daß das gesunde Aus
-ge des Bettlers einen seltsam aus Herz gleißenden Ausdruck
+Lumpen zur Schau stellte. Sah auch, daß das gesunde Auge
+des Bettlers einen seltsam ans Herz greifenden Ausdruck
 tiefsten Leides zeigte, — nicht jenen Ausdruck komödienhafter
-Wehleidigkeii der professionellen Schnorrer, nein, etwas
-wahrhaft Erschütterndes, das Mitgefühl Packendéës.
+Wehleidigkeit der professionellen Schnorrer, nein, etwas
+wahrhaft Erschütterndes, das Mitgefühl Packendes.
 
-Der Alte klammerte einen Dank...
+Der Alte stammelte einen Dank...
 
 Und — dabei veränderte sich sein Gesicht so plötzlich,
-daß ich einen Moment in sprachlosem Ehre den Dann
+daß ich einen Moment in sprachlosem Schreck den Mann
 anstarrte.
 
 Was so jäh als völlige Verwandlung des Ausdruckes
 der verwilderten Züge kenntlich geworden, war das Stärkste,
-was ein Menfchenantiig Durch das Mienenspiel verraten
-kann; eine Angst wie vor dem gewissen Tode — eine
-»Angst wie die eines Delinquenten, der zum Erhascht geführt
-wird. Schlaufe nicht anders — ich mußte den Mann fragen,
-was in aller Welt mit einem Male eine so grünliche
+was ein Menschenantlitz Durch das Mienenspiel verraten
+kann: eine Angst wie vor dem gewissen Tode — eine
+Angst wie die eines Delinquenten, der zum Schafott geführt
+wird. Ich konnte nicht anders — ich mußte den Mann fragen,
+was in aller Welt mit einem Male eine so plötzliche
 Todesangst in ihm geweckt haben könnte.
 
-Während ich noch die Worte dieser in teiluahnwollslem
+Während ich noch die Worte dieser in teilnahmvollstem
 Tone vorgebrachten Frage aneinanderreihte, überlief die
-gliche Gestalt des Greises ein Zittern — so stark, daß er die
+Gestalt des Greises ein Zittern — so stark, daß er die
 Kurbel nicht mehr weiterdrehen konnte.
 
-Und — unerklärlich! — Das gesunde Auge bohrte ich
-da die meinen ein in stummer Bitte — halber Verzweiflung.
+Und — unerklärlich! — Das gesunde Auge bohrte sich
+in die meinen ein in stummer Bitte — halber Verzweiflung.
 
 <@pagebreak/>
-törichtste der Mann etwa mich?! Und — wenn ja —
-wes8halb fürchtete er mich — — weshalb?!
+Fürchtete der Mann etwa mich?! Und — wenn ja —
+weshalb fürchtete er mich — — weshalb?!
 
 Ich vergaß den begonnenen Satz zu beenden. Ich war
 mit einem Male nur Harald Harsts gelehriger Schüler...
 
 Und deshalb warf ich das Mitleid ab wie eine hier
 ungeeignete Maske, nickte dem Bettler zu und machte kehrt,
-stschritt in den Vorgarten Jurist, pfiff ein paar Gassenhauertakte
-und schalt drei — Pier Rosen von einem Strauche, verhüllte
-durch solches Tun meine Aus Gedanken ...
+schritt in den Vorgarten zurück, pfiff ein paar Gassenhauertakte
+und schnitt drei — vier Rosen von einem Strauche, verhüllte
+durch solches Tun meine innersten Gedanken...
 
 Stand dann vor Harald...
 
 Berichtete alles...
 
-»Wir gehen spazieren,« bestimmte er. »Der Alte is!
+»Wir gehen spazieren,« bestimmte er. »Der Alte ist
 nach links weitergegangen. Wir schlendern nach rechts. Aber
-nenne arg hinter ihm drein, Ich weiß mehr als Du.«
+— wir bleiben hinter ihm drein. Ich weiß mehr als Du.«
 
-»Mehr?
+»Mehr?«
 
-»Ja, Davon später, Freund Schraut.« —
+»Ja. Davon später, Freund Schraut.« —
 
 Wir fanden in einer Seitenstraße ein Auto, ließen das
-Erde hochklappen, fuhren dem Bettler nach, an unserem
-Hause vorüber
+Verdeck hochklappen, fuhren dem Bettler nach, an unserem
+Hause vorüber...
 
-Nichts mehr von dem Greise — nichsch8.
+Nichts mehr von dem Greise — nichts.
 
 Aber die Kinder jagten Kreisel auf dem Asphalt. Die
-Inder, die dem Gequietsch des Braunem so andächtig
+Kinder, die dem Gequietsch des Leierkastens so andächtig
 gelauscht hatten,
 
-Harst rief einen älteren Knaben und Mitofenfter,
+Harst rief einen älteren Knaben ans Autofenster.
 
 »Junge, wo blieb der Leierkastenmann?«
 
-Der Knabe kannte uns von Ansehen. - Sein Gesicht
-strahlte aus. Mit Harald Harst sprechen — das davor ein Ereignis
-für seine neun Sattel
+Der Knabe kannte uns von Ansehen. Sein Gesicht
+strahlte auf. Mit Harald Harst sprechen — das war ein Ereignis
+für seine neun Jahre!
 
-»Ade in eine Taxameterdroschke, Herr Harst.«
+»Er stieg in eine Taxameterdroschke, Herr Harst.«
 
-»eins?«
+»Allein?«
 
 »Nö — noch ein Fräulein und ein alter Herr kamen
-ihrem Hause und fuhren mit davon, Herr Harst.«
+aus Ihrem Hause und fuhren mit davon, Herr Harst.«
 
 »Wohin? Nach welcher Richtung?«
 
-»Dort — die Glebitzer runter.«
+»Dort — die Glebitzer runter...«
 
-Unser Auto kaufte weiter. Die Droschke konnte kam
-Minuten Vorsprung haben.
+Unser Auto sauste weiter. Die Droschke konnte kaum
+zwei Minuten Vorsprung haben.
 
 <@pagebreak/>
 Und doch — Wir fanden sie nicht. Sie war unsichtbar
-geworden, mußte na rechts oder links abgebogen sein.
+geworden, mußte nach rechts oder links abgebogen sein.
 
 Also wieder heim — und nach oben in die beiden
-Fremdenzimmer, die Harald dem Grafen und seiner Tode
-ter in der verflossenen Nacht zur Verfügung gestellt hatte.
+Fremdenzimmer, die Harald dem Grafen und seiner Tochter
+in der verflossenen Nacht zur Verfügung gestellt hatte.
 
 Und oben Frau Auguste Harst
 
-»Harald — sie sind ausgerict! Kaum wart Ihr beide
+»Harald — sie sind ausgerückt! Kaum wart Ihr beide
 zum Hause hinaus, als der Graf und die junge Gräfin mit
-ihrem Koffer die Treue herabkamen und mir nur zuliefen:
-»Vielen Dank — vielen Dank!« Und — weg waren fiel«
+ihrem Koffer die Treppe herabkamen und mir nur zuriefen:
+»Vielen Dank — vielen Dank!« Und — weg waren sie!«
 
-Ah hatte damit halb und halb gerechnet, Mutter.«
-Er lächelte etwa, »Da war nämlich ein Reierlaflenmann,
+»Ich hatte damit halb und halb gerechnet, Mutter.«
+Er lächelte etwas. »Da war nämlich ein Leierkastenmann,
 der ihnen von der Straße aus Zeichen machte, nachdem er
-geformt Instrument das russische Volkslied »Der rote Sarafan«
+seinem Instrument das russische Volkslied »Der rote Sarafan«
 entlockt hatte. Ausgerechnet das Lied, wo unsere Gäste
-doch Denkschnitzer sind. Und der rote Sarafan ftacdhsfte
+doch Deutschrussen sind. Und der rote Sarafan stachelte
 mein Mißtrauen auf. Schraut aber stellte fest, daß der
 Drehorgelmann vor ihm eine scheußliche Angst hatte. Weshalb
 wohl? Weshalb? Und — weshalb entwichen Vater
-nicht Tochter von hier, wo sie doch ganz sicher waren — Wir
-derer: als anderswo?! Weshalb?!«
+und Tochter von hier, wo sie doch ganz sicher waren — sicherer
+als anderswo?! Weshalb?!«
 
-Der Köchin Mathilde liebliche Stimme’ und den unteren
+Der Köchin Mathilde liebliche Stimme aus den unteren
 Regionen: »Das Telefong — — das Telefong!«
 
-Was uns Leder in Haralds« Arbeitszimmer bebte
+Was uns wieder in Haralds Arbeitszimmer hetzte...
 
-Wo sich nun Bechert meldete, Freund Fritz Bechert, Arl-minalkommissar
+Wo sich nun Bechert meldete, Freund Fritz Bechert,
+Kriminalkommissar...
 
 Harst rief: »Wieder in Berlin?«
 
@@ -1607,31 +1608,31 @@ Sagte in die Hörmuschel hinein: »Uns hat der Graf
 allerdings etwas ganz anderes erzählt. — Ja — wir erwarten
 Sie, Bechert. Wiedersehen.« —
 
-Zivailia Minuten drauf saß Bechert bei uns im Klub-esel
+Zwanzig Minuten drauf saß Bechert bei uns im Klubsessel.
 — —
 
-Und nun will ich zunächst nachholen, was noch) in der
-vergangenen Mahnt geschehen war.
+Und nun will ich zunächst nachholen, was noch in der
+vergangenen Nacht geschehen war.
 
 Harst und ich hatten die vier Strolche mit den Clementpistolen
 <@pagebreak/>
 in Schach gehalten, die Gräfin hatte die Kerle gefesselt.
-Dann war Harald mit Aromen und dessen Tochter
-in den Garten des Lanbengrundftücds hinausgetreten, war
-nach) einer Weile zu mir, der ich die vier bewachte, zurrüdtge-’
-kehrt und flüsterte mir zu: »Du bringst den Grafen und die
+Dann war Harald mit Ronnow und dessen Tochter
+in den Garten des Laubengrundstücks hinausgetreten, war
+nach einer Weile zu mir, der ich die vier bewachte, zurückgekehrt
+und flüsterte mir zu: »Du bringst den Grafen und die
 Gräfin zu uns in die Fremdenzimmer. Wecke meine Mutter,
 damit sie Bettwäsche herausgibt. Dann läute die nächste
 Polizeiwache an und melde das hier Vorgefallene, verschweige
 aber Einzelheiten, insbesondere den Namen des
 Grafen.«
 
-Oh tat, wie Harald es wituschte.
+Ich tat, wie Harald es wünschte.
 
 Gegen zwei Uhr morgens erschien er dann bei mir in
 meinem Wohnzimmer, das dem seinen im Hochparterre gegenüberliegt.
 
-»Die vier sind weggeschafft,« erklärte er. »Jan den Nit-kelspriben
+»Die vier sind weggeschafft,« erklärte er. »In den Nickelspritzen
 war Blausäure, woran ich bis zuletzt gezweifelt
 hatte. Die Kerle trugen unter den Stromerlumpen sehr
 elegante Smokinganzüge, hatten Geld in Hülle und Fülle,
@@ -1642,238 +1643,239 @@ nicht zu bekommen.«
 »Was hast Du der Polizei über den Grafen mitgeteilt?«
 
 »Daß ich die Sache mit Kommissar Bechert regeln
-würde, Um die Nennung des Namens Ronnow kam ich
+würde. Um die Nennung des Namens Ronnow kam ich
 nicht herum.«
 
-Dann waren mir schlafen gegangen, N.
+Dann waren wir schlafen gegangen,
 
-Um zehn Uhr vormittags tranken wir mit unseren Gä-zusammen
-auf der Veranda Kaffee., Nachher erzählte
+Um zehn Uhr vormittags tranken wir mit unseren Gästen
+zusammen auf der Veranda Kaffee. Nachher erzählte
 Graf Alexander noch folgendes über die Ereignisse in Riga:
 
 Das Familiengut der Ronnows lag zwei Meilen von
 Riga entfernt. Schloß Ronnow war in allen politischen
 Stürmen bisher unbeschädigt geblieben, weil der Graf sich
-von Politik fern hielt und für seine Leute Gleise gut gesorgt
-hatte, daß man ihn bis zum letzten Knecht herab gen
-gradezu verehrte. Dann erhielt er plötzlich aus Riga einen
+von Politik fern hielt und für seine Leute stets so gut gesorgt
+hatte, daß man ihn bis zum letzten Knecht herab
+geradezu verehrte. Dann erhielt er plötzlich aus Riga einen
 Warnungsbrief: er solle fliehen, sein Leben stehe auf dem
 <@pagebreak/>
-Spiel. Er sei denunziert worden, gegen Eile Regierung gewählt
+Spiel. Er sei denunziert worden, gegen die Regierung gewühlt
 zu haben. Er schlug die Warnung nicht in den Wind,
-verbarg die Unmenschen Familienjuwelen im Warte in
-einzelner hohlen Buche und schickte sein einziges Kind schleunigst
+verbarg die Ronnowschen Familienjuwelen im Parke in
+einer hohlen Buche und schickte sein einziges Kind schleunigst
 verkleidet nach Deutschland. — Das war im April 1922. —
 Am folgenden Abend wurde er wirklich verhaftet. Der
-Hochverratsprozeß gegen ihn 309 sich in die Länge. Frommer
+Hochverratsprozeß gegen ihn zog sich in die Länge. Immer
 neues Material gegen ihn wurde beigebracht. Schließlich
-sollte er auch zwei Negierungsipigel beseitigt haben.
+sollte er auch zwei Regierungsspitzel beseitigt haben.
 Der Gang der Untersuchung ließ erkennen, daß er zum Tode
 verurteilt werden würde. Seine Sache stand wirklich schlecht.
-»Die Pendelte gegen ihn waren erdrückend. Er behauptete
-Harald und mir gegenüber wiederholt, daß ein Niesen-fomplotlt
-gegen ihn geschmiedet vorheriges und daß seine
-unbefankten Feinde mit teuflischer Schlauheit alles eingefädelt
-behält hätten. — Dann befreite ihn Die Gräfin Fortgang
+Die Beweise gegen ihn waren erdrückend. Er behauptete
+Harald und mir gegenüber wiederholt, daß ein Riesenkomplott
+gegen ihn geschmiedet worden sei und daß seine
+unbekannten Feinde mit teuflischer Schlauheit alles eingefädelt
+gehabt hätten. — Dann befreite ihn Die Gräfin Johanna
 mit Robert Robbas Hilfe. — Ich will Einzelheiten
 dieser Befreiung übergehen. Sie sind hier nicht von Belang.
-Robba präparierte ihn, den Vetäußblen, als Wachsfigur und
-satte sich mit der Kiste aus der Schonerbark ein, die nachher
-übel der Oie strandete. In der Kiste befand sich auch der
+Robba präparierte ihn, den Betäubten, als Wachsfigur und
+schiffte sich mit der Kiste auf der Schonerbark ein, die nachher
+bei der Oie strandete. In der Kiste befand sich auch der
 größere Teil der Juwelen, die die Gräfin aus dem Baume
-redest hatte, Die Kiste war so eingerichtet, daß sie wie ein
-Boot im Notfalle s@nimmer konnte, hatte im Deckel gut
-versteckte Luftlöcher und ließ sich auch von innen öffnen —
+geholt hatte. Die Kiste war so eingerichtet, daß sie wie ein
+Boot im Notfalle schwimmen konnte, hatte im Deckel gut
+versteckte Luftlöcher und ließ sich auch von innen öffnen. —
 Während der Fahrt von Riga bis zur Oie war der Graf
-aus der Betäubung erwacht, Als der Orkan begann, verlangte
-die Gräfin Hanna, daß Robba ihren Vater zur reisten
-Hei! dem Mitleid der finnländischen Besatzung empfehle,
+aus der Betäubung erwacht. Als der Orkan begann, verlangte
+die Gräfin Hanna, daß Robba ihren Vater zur rechten
+Zeit dem Mitleid der finnländischen Besatzung empfehle,
 falls dem Segler etwas zustoßen sollte. Da hatte Robba
 ihr erklärt, der Graf sei tot, sei gestorben. — Sie glaubte es,
 da ihr Vater schon im Gefängnis sich sehr schlecht gefühlt
-hatte, — Die »Schonerbark strandete. Gräfin Hanna, wie
-betäubt durch die Unglücksnachricht, dachte an nichts. — nicht
-an die Juwelen — nicht an die Kiste ließ sich ins Rettungsboot
+hatte. — Die Schonerbark strandete. Gräfin Hanna, wie
+betäubt durch die Unglücksnachricht, dachte an nichts — nicht
+an die Juwelen — nicht an die Kiste, ließ sich ins Rettungsboot
 heben und war an Land nur darauf bedacht, selbst keinerlei
 <@pagebreak/>
 Argwohn zu erregen. Sie bemerkte auch bereits, daß
-je Fieber hatte. Sie wußte kaum recht, was sie tat und
-Krach. — Seh will mich nach kürzer fassen. Robert Yobba
-sodann die kaum monotone Gräfin von der Die an und
+sie Fieber hatte. Sie wußte kaum recht, was sie tat und
+sprach. — Ich will mich noch kürzer fassen. Robert Robba
+holte dann die kaum genesene Gräfin von der Oie ab und
 brachte sie nach dem Angriff auf unseren Kutter in ein einsames
-Haus am Stettiner Half, wo sie ihren Vater lebend
+Haus am Stettiner Haff, wo sie ihren Vater lebend
 vorfand. Hier enthüllte Robba seinen wahren Charakter,
 verlangte von der Gräfin die Angabe des Ortes, wo der
-des! der Sonnen-Kleinodien verloren sei, und bedrohte
-Heide Ronnows mit dem Tode. Nachts entflohen sie dann
-einem! Nachen auf das Hast hinaus, flüchteten bis Wer
+Rest der Ronnow-Kleinodien verborgen sei, und bedrohte
+beide Ronnows mit dem Tode. Nachts entflohen sie dann
+in einem Nachen auf das Haff hinaus, flüchteten bis Berlin.
 — Alles weitere kennt der Leser.
 
-Diese Schilderung hohe in all ihren Teilen durchaus
-aubwwürdig geklungen.
+Diese Schilderung hatte in all ihren Teilen durchaus
+glaubwürdig geklungen.
 
 Und doch...
 
 Nun lasse ich Fritz Bechert sprechen, der von Harald mit
-diesem Tatbestand vertraut gemacht Worten war.
+diesem Tatbestand vertraut gemacht worden war.
 
 <h2>2. Kapitel.</h2>
 
 <h3>Auf dem Tourdampfer nach Pillau.</h3>
 
 »Lieber Harst,« erklärte Freund Bechert, »der Graf hat
-grob belogen. Von einem Komplott gegen Ihn Fan
-eine Rede sein. Auf Ihre Depesche aus Swinemünde
+Sie grob belogen. Von einem Komplott gegen Ihn kann
+keine Rede sein. Auf Ihre Depesche aus Swinemünde
 fuhr ich nach Riga, da mein Sommerurlaub gerade begann.
-forschte in Riga als Privatmann nach und hörte so, daß
-Flucht des Grasen Alexander Kommend das einzige des
-verkenswerte Ereignis der Achten Zeit gewesen. Der Graf
+Ich forschte in Riga als Privatmann nach und hörte so, daß
+die Flucht des Grafen Alexander Ronnow das einzige
+bemerkenswerte Ereignis der letzten Zeit gewesen. Der Graf
 hat tatsächlich zwei Spitzel beiseite geschafft und sich politisch
-Macher kompromittiert — sagen wir’s deutsch: sich bloßge-ellt.
+schwer kompromittiert — sagen wir’s deutsch: sich bloßgestellt.
 Bei seinen Leuten ist er allerdings sehr beliebt, im
-eigen ist er ein Mann, der über Leichen gebt. ich hatte
+übrigen ist er ein Mann, der über Leichen geht. ich hatte
 <@pagebreak/>
 vorhin im Präsidium schon die Haftbefehle gegen ihn und
-die Gräfin ausfertigen lassen, da ein Ersuchen der Reglos
-Sprung.«
+die Gräfin ausfertigen lassen, da ein Ersuchen der Regierung...«
 
-Bier wurde Bechert in
+Hier wurde Bechert unterbrochen.
 
 Es hatte im Flur geläutet, und die Köchin meldete uns
 jetzt denselben Knaben, der uns vorhin im Auto mitgeteilt,
 daß der Leiermann in einem Taxameter mit einer Dame
-und einem Herrn davonacsahreun sei.
+und einem Herrn davongefahren sei.
 
-»Blaß bringst Du, mein Junge?« fragte Harald das
-Rede Bürschchen freundlich.  »Hast Du etwa den Bettlern mit
-der Drehorgel wieder gesehen k«
+»Was bringst Du, mein Junge?« fragte Harald das
+kecke Bürschchen freundlich. »Hast Du etwa den Bettler mit
+der Drehorgel wieder gesehen?«
 
-»Nö, Herr Harst, Das nich.. Aber — aber gefunden hat
+»Nö, Herr Harst, Das nich. Aber — aber gefunden hat
 mein Freund Julius etwas, das der Leiermann verlor, als
-er in den Taxameter strebende, Hier — dies
+er in den Taxameter kletterte. Hier — dies.«
 
 Er hielt Harald eine Stiefelsohle hin, eine durchlöcherte
-Ledersohle, in der noch sechs kleine *blanke* Na
-Hagel steckten — *blanke* Nägel...
+Ledersohle, in der noch sechs kleine *blanke* Nägel
+steckten — *blanke* Nägel...
 
 Die Innenseite der Sohle zeigte an einer Stelle in roter
-Tinte klare Buchstaben, die wie solch angeordnet Barons
+Tinte klare Buchstaben, die wie folgt angeordnet waren:
 
-H Het Dr
-   B
-       R. R.
-   Dr
+<div class="pre">
+   H     K    St     D     R
+           B
+                    R. R.
+           Dr
+</div>
 
-Der freunbtle Leser sich!: in der oberen Reihe War
-den mit Zwischenräumen H, K, et, D, N.
+Der freundliche Leser sieht: in der oberen Reihe standen
+mit Zwischenräumen H, K, St, D, R.
 
-In der mittleren Y und in.
+In der mittleren B und R R.
 
 Unten stand Dr — —
 
-Das war alles. — Nein, do nicht alles: die bunten
-ten Linien waren noch da, die zwischen der Mehrzahl der
+Das war alles. — Nein, doch nicht alles: die punktierten
+Linien waren noch da, die zwischen der Mehrzahl der
 Buchstaben eine Verbindung herstellten. —
 
-Der Knabe erhielt ein Geldgeschenk und zog strahlend
+Der Knabe erhielt ein Geldgeschenk und zog strahlend ab.
 
-Harald bot nur und Bechert et Zigaretten an.
+Harald bot mir und Bechert Zigaretten an.
 
-»Nach den ersten Zügen sagte Freund Fritz«
+Nach den ersten Zügen fragte Freund Fritz:
 
 <@pagebreak/>
-»Die Nägel in der Sohle sind. noch ganz blank, noch
-rudert Orgelmann ha! die Sohle also. erst vor kurzem der
-vi 2.
+»Die Nägel in der Sohle sind noch ganz blank, noch
+neu: der Orgelmann hat die Sohle also erst vor kurzem
+befestigt...«
 
-"...und sehr lose,« nickte Harald. - »So lose, daß er
-Hätte vor unserem Hause liegen lassen, abjtreifen können,
+»...und sehr lose,« nickte Harald. »So lose, daß er
+sie Hätte vor unserem Hause liegen lassen, abstreifen können,
 — was er auch tun wollte, mein Alter,« wandte er sich an
-nich »Ut Du ihn das Geld brachtest, suchte er gerade die
+mich. »Als Du ihm das Geld brachtest, suchte er gerade die
 Sohle mit dem anderen Schuh abzustreifen, der so jämmerlich
-mit Bindfaden umwickelt war. Er wollte die Sohle lies
-verlassen — für die beiden Paradies, die er durch die Flaggensignale
-auf die Sohle aufmerksam gemaczt hatte. Seine
+mit Bindfaden umwickelt war. Er wollte die Sohle liegen
+lassen — für die beiden Ronnows, die er durch die Fingersignale
+auf die Sohle aufmerksam gemacht hatte. Seine
 Angst vor Dir war eben nichts als die Angst, daß Du seine
-ht durch;schaut hättest, oder volleudeiftes Komödienspiel.«
+Absicht durchschaut hättest, oder vollendetes Komödienspiel.«
 
-Das hatte Hand und Büßt Die Erklärung leucztiete mir
-n.
+Das hatte Hand und Fuß! Die Erklärung leuchtete mir
+ein.
 
-Und die Sohle war eine Nachricht für die Rom
+»Und — die Sohle war eine Nachricht für die
 Ronnows,« fügte Bechert hinzu,
 
-»Allerdings!« bestätigte So eine wichtige Nach
-— eine Buchstabennachricht 44
+»Allerdings!« bestätigte Harst. »Eine wichtige Nachricht
+— eine Buchstabennachricht...!
 
-Ein Löchern huschte um seine ri,
+Ein Lächeln huschte um seine Lippen.
 
-Bechert hohe die elende Ledersohle wieder zur plant
+Bechert hatte die elende Ledersohle wieder zur Hand
 genommen.
 
 »Hm — jedenfalls eine sehr kurze Nachricht,« meinte
-er. »Das R. R. kann heißen Robert Robba
+er. »Das R. R. kann heißen Robert Robba...«
 
-»Oder Ronnow, Vater und Tochter, — Da R’8
+»Oder Ronnow, Vater und Tochter, — zwei R’s!«
 
-Ja u und Dr ganz unser kann die Abkürzung für
-Doktor sein
+»Ja — und Dr ganz unten kann die Abkürzung für
+Doktor sein.«
 
-»Halt ihm nicht ein! Das heißt Dresden.«
+»Fällt ihm nicht ein! Das heißt Dresden.«
 
-Bechert blickte Harst an. »Machen Sie Spaß ?»
+Bechert blickte Harst an. »Machen Sie Spaß?«
 
-»Spaß?! Bei einem solchen Anlaß?! Niemals81»
+»Spaß?! Bei einem solchen Anlaß?! Niemals!«
 
-»Dann — reden Sie! Was bedeuten die Buchstaben
+»Dann — reden Sie! Was bedeuten die Buchstaben?«
 
-»Sieben Gischt und ein Verbrecher.«
+»Sieben Städte und ein Verbrecher.«
 
 Wieder starrte Bechert auf die roten Buchstaben.
 
-Da. ad un sieben rächte »is — Schraut, raten Sie
+»So... so... sieben Städte...! — Schraut, raten Sie
 die Sache?«
 
-»Mit Nichten, lieber Bechert.
+»Mit nichten, lieber Bechert.«
 
 <@pagebreak/>
 Harald nahm eine neue Zigarette, sagte:
 
 »Hamburg, Kiel, Stettin, Danzig, Riga — fünf Hafenstädte.
-Das Hob ist Berlin, das R« R. Robert Robba, das
+Das B ist Berlin, das R. R. Robert Robba, das
 Dr Dresden. — Dresden ist nur mit genannt, damit der
 Graf die Lösung leichter fände. — Von Riga floh Ronnow
-nach Stettin zu Danzig vorüber, von Stettin nach Berlin,
+nach Stettin an Danzig vorüber, von Stettin nach Berlin,
 und von Berlin soll er nach Danzig fahren, vergleiche die
-punktierten. Linien, wo er Robert Yobba und die Juwelen
-Bin wird. — So deute, das ist eine Lösung, die klimmen
-am
+punktierten Linien, wo er Robert Robba und die Juwelen
+finden wird. — Ich denke, das ist eine Lösung, die stimmen
+kann.«
 
-»Wahrscheinlich,« brummte Bechert. »Sie wollen lebt
-nach Danzig, gen. Ich Habe Urlaub. Ich komme mit,«
+»Wahrscheinlich,« brummte Bechert. »Sie wollen jetzt
+nach Danzig, Harst. Ich habe Urlaub. Ich komme mit,«
 
-»Bitte, Wir benutzen den Damıpfer von Swinemünde
-»aus. »Um sieben Uhr Fährt das Luxusauto des Atlantik!-Hotels,
+»Bitte. Wir benutzen den Dampfer von Swinemünde
+aus. Um sieben Uhr Fährt das Luxusauto des Atlantik-Hotels,
 Heringsdorf, von Berlin ab und ist um ein Uhr in
-Swinemünde. Un zwei geht der Dampfer. Alle — beeilen
-wir uns .… 1» — —
+Swinemünde. Um zwei geht der Dampfer. Also — beeilen
+wir uns…!« — —
 
-Nachts Et wir in Stiolnemände — gingen an Bord
+Nachts waren wir in Swinemünde — gingen an Bord
 des Pillau-Dampfers, eines schwarzen Kastens, der einst
-den Bäder dienst nach Helgoland besorgt hatte.
+den Bäderdienst nach Helgoland besorgt hatte.
 
 Waren natürlich nicht Bechert, Harst, Schraut.
 
 Bewahre!
 
-Waren drei Herren, Die sich scheinbar nicht kannten, je
-der mit einem Köfferchen...
+Waren drei Herren, Die sich scheinbar nicht kannten, jeder
+mit einem Köfferchen...
 
-Drückten dem Steward: die Hand, drückten etwas in
-ur Hand, bekamen eine Kabine mit drei Betten, waren
+Drückten dem Steward die Hand, drückten etwas in
+diese Hand, bekamen eine Kabine mit drei Betten, waren
 vereint.
 
-Um zwei Uhr in See... — am Leuchtturm nachher
+Um zwei Uhr in See... — am Leuchtturm vorüber,
 zwischen den Molen hindurch...
 
 Das Meer in Laune — spiegelglatt, Mondschein…
@@ -1881,146 +1883,146 @@ Das Meer in Laune — spiegelglatt, Mondschein…
 Getrennt standen wir an der Reling des Promenadendecks...
 
 Und — fuhren mit den Köpfen herum: vom Vorschiff
-ein Leierkasten, der .…. den roten Sarafan winselte!
+ein Leierkasten, der… den roten Sarafan winselte!
 
-Nicht *ein* Leierkasten. Der Leierklasten. Eben der
-des Bettlers, Aus Hunderten hätte ich *die* Töne des
+Nicht *ein* Leierkasten. *Der* Leierkasten. Eben der
+des Bettlers. Aus Hunderten hätte ich *die* Töne des
 <@pagebreak/>
-Quietschkasten« herausgefunden. Ein so erbärmlich verstimmtes
+Quietschkastens herausgefunden. Ein so erbärmlich verstimmtes
 Ding gab es eben nur in einem Exemplar.
 
-Harst, Bechert, ich tauschten Blicke
+Harst, Bechert, ich tauschten Blicke...
 
-Dann verschwand Harst nach dem Vorschiff zu. Ne
-schert und ich Zumuten die Kabine auf. -
+Dann verschwand Harst nach dem Vorschiff zu. Bechert
+und ich suchten die Kabine auf.
 
-»Sie werden alle Brei am Bord sein,« flüsterte Freund
+»Sie werden alle drei am Bord sein,« flüsterte Freund
 Fritz. »Sowohl der Bettler als auch Ronnow Und Tochter.
-RL) glaube, der Alte
+Ich glaube, der Alte...«
 
-Ran trat ein, drückt die Tür zu, schaute mich an.
+Harst trat ein, drückt die Tür zu, schaute mich an.
 
-Na — auf Deine Augen kann man sich nur sehr männertollen,«
-meinte er leise. »Der Alte ist verkleidet! Er
-By vor dem Niedergang der Kombüse im Laternenlicht, hat
-Bande auf, falschen Bart, falschen Buckel, der sich verschoben
-hatte.« Er gute die Achteln.
+»Na — auf Deine Augen kann man sich nur sehr mäßig
+verlassen,« meinte er leise. »Der Alte ist verkleidet! Er
+saß vor dem Niedergang der Kombüse im Laternenlicht, hat
+Perücke auf, falschen Bart, falschen Buckel, der sich verschoben
+hatte.« Er zuckte die Achseln.
 
-Der Mann ist *nicht* verkleidet,« erklärte ich sehe bestimmt.
+Der Mann ist *nicht* verkleidet,« erklärte ich sehr bestimmt.
 »Dabei bleibe ich! Ich habe ihn bei Tage gesehen.
-Nachts täuscht man er leichter, Harald,«
+Nachts täuscht man sich leichter, Harald,«
 
-Er setzte sich auf seinen Bettrand. Viel Platz- war ja
-überhaupt nicht in dieser. Kabine’
+Er setzte sich auf seinen Bettrand. Viel Platz war ja
+überhaupt nicht in dieser Kabine.
 
-Bechert und ich zogen uns Klappstühle Herbe!.
+Bechert und ich zogen uns Klappstühle herbei.
 
-»Die Sache wird wieder knallten,« meinte Harst und
-lich sein Binarettenettil aufspringen: »Ich hielt den Bettler
-»für einen Vertrauten des Grafen, für einen Diener oder derart
-strong, Das muß wohl so sein. Nun Maus Schraut,
-»der Orgelspieler vor unserem Hause, der die Sohle verlor,
+»Die Sache wird wieder dunkler,« meinte Harst und
+ließ sein Zigarettenetui aufspringen: »Ich hielt den Bettler
+für einen Vertrauten des Grafen, für einen Diener oder dergleichen.
+Das muß wohl so sein. Nun behauptet Schraut,
+der Orgelspieler vor unserem Hause, der die Sohle verlor,
 sei nicht verkleidet gewesen, während ich — — genau weiß,
-daß der Mann maskiert ist. — Wir wissen zunächst diese
-Frage klären. Ich möchte vorschlagen, er gehst ne me
-sich und siehst Dir den Mann einmal an.«
+daß der Mann maskiert ist. — Wir müssen zunächst diese
+Frage klären. Ich möchte vorschlagen, Du gehst aufs
+Vorschiff und siehst Dir den Mann einmal an.«
 
-Dosis war ich nein bereit: —
+Dazu war ich gern bereit. —
 
-»Der Greis saß noch vor dem Kombüsenniedergang. Um -
-sehr herum hatten sich eine Anzahl Passagiere auf ihre Koffer
+Der Greis saß noch vor dem Kombüsenniedergang. Um
+ihn herum hatten sich eine Anzahl Passagiere auf ihre Koffer
 und Kisten niedergelassen, bescheidene Leute, die dem
-»Arbeiter- oder Kleinhandiwerklerstande angehören mochten.
+Arbeiter- oder Kleinhandwerkerstande angehören mochten.
 Die Drehorgel stand vor ihm. Er spielte jetzt nicht, sondern
-taute an einer dicken Yrolleinttie.
+kaute an einer dicken Brotschnitte.
 
 <@pagebreak/>
-Ich schlenderte vorüber, blich in der Nähe, zog einen
+Ich schlenderte vorüber, blieb in der Nähe, zog einen
 Matrosen ins Gespräch. Meine Augen prüften indes fortgesetzt
 die Erscheinung des Alten, der sich mit den Armen
 auf den Leierkasten gestützt hatte,
 
 Ich blieb nicht lange im unklaren darüber, daß es sich
-hier tatsächlich nicht um Denselben Mann handelte, so gut
-die Maske dieses Beende-Bettlers auch war, der die Lumpen
+hier tatsächlich nicht um denselben Mann handelte, so gut
+die Maske dieses Pseudo-Bettlers auch war, der die Lumpen
 des anderen trug und auch dessen Drehorgel jetzt besaß,
 denn — die Drehorgel war bestimmt dieselbe. Ich hatte
-nur deren Aussehen bestimmt gemerkt. Sie hatte vorn drei
-bunte Bilder unter Glas, die Muten darstellend, die des
+mir deren Aussehen bestimmt gemerkt. Sie hatte vorn drei
+bunte Bilder unter Glas, die Musen darstellend, die des
 Tanzes, der Musik und der Dichtkunst.
 
 Der Matrose, mit dem ich mich unterhalten hatte, ging
 weiter. Ich blieb. Der Jagdeifer war erwacht. — Wer
 war dieser maskierte Mensch? Vielleicht gar die Gräfin Hanna,
-die ja bereits verwirren, daß sie ungeheuer vielseitig war
-und vor nichts zurüschrekle. Die abenteuerliche Befreiung
-Ihres Vaters hatte bereit Cm ihre Geistesgegenwart, ihre
-Kühnheit und an ihre scauspielerischen Fähigkeiten Anforderungen
+die ja bereits bewiesen, daß sie ungeheuer vielseitig war
+und vor nichts zurückschreckte. Die abenteuerliche Befreiung
+Ihres Vaters hatte bereits an ihre Geistesgegenwart, ihre
+Kühnheit und an ihre schauspielerischen Fähigkeiten Anforderungen
 gestellt, die geradezu als außergewöhnlich für
-ein junges Weib von viernndziwanzig Jahren bezeichnet werden
-Kneten.
+ein junges Weib von vierundzwanzig Jahren bezeichnet werden
+mußten.
 
-Man beachtete nich nicht, Es strichen hier so viele Jahr-!
-Gäste Pt die diese Mondunacht genießen wollten.
+Man beachtete mich nicht. Es strichen hier so viele Fahrgäste
+herum, die diese Mondnacht genießen wollten.
 
 Gräfin Hanna?! — Nein — ich sah die Hände des
-Verkleideten. Das waren derbe, sschumußige Hände, das waren
+Verkleideten. Das waren derbe, schmutzige Hände, das waren
 niemals die der jungen Aristokratin.
 
-Wer war’s sonst? — Der Graf?! Auch das nich! Graf
-Alexander Ronnow. hatte eine messerscharfe, etwas große
-Nase, Und die des Bettlers, des echten wie des falschen,
+Wer war’s sonst? — Der Graf?! Auch das nicht! Graf
+Alexander Ronnow hatte eine messerscharfe, etwas große
+Nase. Und die des Bettlers, des echten wie des falschen,
 war kurz und dick, stark gerötet...
 
 Wer war’s?! Vielleicht Robert Robba, der Artist, der
 Besitzer des Napoleon aus Wachs, mit dem er tatsächlich
-in Ahne aufgetreten war, wie Bechert festgestellt Hatte.
+in Riga aufgetreten war, wie Bechert festgestellt Hatte.
 
 Robert Robba?! — Und — wenn er’s war, dann —
 dann mußte der echte Bettler beseitigt worden sein. Wie
 <@pagebreak/>
-Hätte dieser Maskierte sonst die Zuges des Rot
-dem Leibe haben können?! Wie sollte er sonst in Boot der
+Hätte dieser Maskierte sonst die Lumpen des anderen auf
+dem Leibe haben können?! Wie sollte er sonst in Besitz der
 Drehorgel gelangt sein?!
 
-Weber diesen und noch weitergehenden. Fragen, die den:
-Verbleib des Grafen Alexander - und seiner Tochter betrafen,
+Ueber diesen und noch weitergehenden Fragen, die den
+Verbleib des Grafen Alexander und seiner Tochter betrafen,
 packte mich plötzlich eine Unruhe, die mich vom Vorschiff
 wieder in die Kabine trieb.
 
-Die helle Sommernacht wat langsam. in: das Morgenzwielicht
-übergegangen. rieben Ich die Treppe zur den uns
-öfteren Räumen hinglitten, warf Ich noch einen Blick nach der
-Küste hinüber, deren heller Strand- in der Ferne wie ein
-weißer Strich schimmerte, die Küste Pommerns
+Die helle Sommernacht war langsam in das Morgenzwielicht
+übergegangen. Bevor Ich die Treppe zu den unteren
+Räumen hinabstieg, warf Ich noch einen Blick nach der
+Küste hinüber, deren heller Strand in der Ferne wie ein
+weißer Strich schimmerte, die Küste Pommerns...
 
 Und sah dort ein Fahrzeug — eine Motorjacht offenbar,
 die nun auf den Dampfer zuzuhalten schien.
 
-E83 war bei mir jenes durch den Anblick des Verfkleide-ten
-stark gesteigerte Gefühl allgemeinen Mißtrauens, das mir -
+Es war bei mir jenes durch den Anblick des Verkleideten
+stark gesteigerte Gefühl allgemeinen Mißtrauens, das mir
 den Gedanken jäh durch das Hirn jagte: die Jacht kommt
 des Maskierten wegen!
 
-Seh hastete schneller die, Treppe hinab, betrat die de.
+Ich hastete schneller die Treppe hinab, betrat die Kabine.
 
-»Es ist nicht der ehe Bettler,« flüsterte ich atenılo?.
+»Es ist nicht der echte Bettler,« flüsterte ich atemlos.
 
-Na alles« nickte Harst.
+»Na also!« nickte Harst.
 
-»Eine Jacht nähert sich von! Stande der,« fischte 1h
-Dinge ir
+»Eine Jacht nähert sich vom Lande her,« fügte ich
+hinzu.
 
-Harst erhob sich rasch. Er
+Harst erhob sich rasch.
 
-»Nach oben — getrennt!« Bei er lebhaft. 7 et
+»Nach oben — getrennt!« sagte er lebhaft.
 
-Die À Dann standen wir wieder in Zwischenräumen an der
+Dann standen wir wieder in Zwischenräumen an der
 Reling.
 
-Das De Dom leer geworden. Nur der Drehörgetfples
-Brav daß uns an der er und rauchte Seht eine
-Eine.
+Das Deck war leer geworden. Nur der Drehorgelspieler
+saß noch an der Kombüsentreppe und rauchte jetzt eine
+Zigarre...
 
 <@pagebreak/>
 
@@ -2504,7 +2506,7 @@ Automaten wurde Graf Aromen aus Riga weggeschafft —
 »Der wurde irgendwie heimlich nach Tilsit gebracht
 und dort als Eilfracht ausgegeben. — Als ich Netter in den
 <@pagebreak/>
-drüben auf dem Chaubudenplah sicherten Zelt des Wachs-figurenkabiuetis,
+drüben auf dem Schaubudenplatz sicherten Zelt des Wachsfigurenkabinetts,
 das einer Frau Amalie Robba gehört, -
 verschwinden sah, habe ich mich bei »dem Bahnspediteur erkundigt,
 ob in den letzten Tagen hier für Frau Robba eine
