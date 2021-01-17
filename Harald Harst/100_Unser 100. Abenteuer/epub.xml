@@ -69,7 +69,7 @@ Dann hob Jane den Kopf.
 <!-- Rechte/Lizenz (z.B. Public Domain) -->
 <entry key="rights">Public Domain</entry>
 <!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
-<entry key="pubDate">1924</entry>
+<entry key="pubDate">1923</entry>
 <!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
 <entry key="creationDate"></entry>
 <!-- Cover-Bild (default cover.*) -->

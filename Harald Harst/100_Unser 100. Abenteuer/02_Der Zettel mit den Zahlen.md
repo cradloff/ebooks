@@ -62,7 +62,7 @@ der Lebewelt der Kurfürstendamm-Gegend. Als ich ihn in
 eine Falle locken ließ, und das war gestern abend, hatte er
 in seiner Brieftasche außer einer Million Bargeld noch den
 Zettel mit den Zahlen bei sich.« (Man beachte: Es war
-an diesem Tage der 30. Juni 1992. Und da war eine Million
+an diesem Tage der 30. Juni 1922. Und da war eine Million
 immerhin noch ein kleines Kapital)
 
 Ich beobachtete Orgla dauernd. Als der Zettel jetzt
@@ -75,12 +75,12 @@ Bewandtnis haben muß.«
 
 Orgla lachte plötzlich ironisch auf.
 
-»Ja — insofern eine Bewandtnis, alt er ein sogenannter
+»Ja — insofern eine Bewandtnis, als es ein sogenannter
 Spielertalisman ist,« sagte er mit einem Achselzucken.
 »Das ist das ganze Geheimnis!«
 
 »Lügner!« rief Jane verächtlich. »Endlich hast Du
-eine, Erklärung ersonnen! Herr Harst, hier ist der Zettel
+eine Erklärung ersonnen! Herr Harst, hier ist der Zettel
 ...«
 
 Sie stand auf und legte ihn vor Harald auf den Tisch.
@@ -148,7 +148,7 @@ geschrieben?«
 »Woher haben Sie dieses Blatt mit den Zahlen,
 Orgla?«
 
-Alfred Orgla wart Harst nur einen haßerfüllten Blick
+Alfred Orgla warf Harst nur einen haßerfüllten Blick
 zu und schwieg.
 
 »Ein Geheimnis besonderer Art steckt fraglos hinter
@@ -161,7 +161,7 @@ Geheimnis nachspüren können. Sobald wir wissen
 um was es sich handelt, stellen wir uns Ihnen wieder
 zur Verfügung. Möglich ist ja, daß wir durch die Enthüllung
 dieses Geheimnisses Orgla irgend eine schwere Schuld
-weisen können. Dann wäre er reif für den Strafrichter.«
+nachweisen können. Dann wäre er reif für den Strafrichter.«
 
 Jane überlegte, sagte dann:
 
@@ -180,7 +180,7 @@ von dieser Vereinbarung zu schweigen.«
 Nachforschungen nun gezwungen sein, Sie, Jane Brack
 und Ihre Schlupfwinkel aufzusuchen, so...«
 
-»...so steht Ihnen das frei, — falle Sie mich finden!
+»...so steht Ihnen das frei, — falls Sie mich finden!
 Was — — nicht geschehen wird! — Falls Sie mich durchaus
 zu einer Unterredung zu bestimmter Stunde irgendwohin
 bestellen müssen, schreiben Sie Ort und Zeit mit
@@ -239,7 +239,7 @@ wieder ein, wenn’s beliebt.«
 Harald nickte nur.
 
 Winter eilte davon. Nach zehn Minuten ersahen wir
-aus Wegweiser, daß wir uns am Südufer des Schwielow-Sees,
+aus dem Wegweiser, daß wir uns am Südufer des Schwielow-Sees,
 zwei Kilometer vom Dorfe Ferch entfernt befanden.
 
 An einem Gasthof in Ferch frühstückten wir. Ein Motorboot
@@ -279,7 +279,7 @@ Schrift:
 nun. »Ein waschechter Engländer. So beinahe ganz aus
 Steifleinen gemacht. Aber vornehm bis in die Fingerspitzen.
 Er deutete an, daß es sich um eine Sache von
-größter Wichtigkeit handele. Du solltest ihm im Adlon anrufen,
+größter Wichtigkeit handele. Du solltest ihn im Adlon anrufen,
 bat er, sobald Du Dich wieder eingefunden hättest.«
 
 »Der Lord kommt mir sehr ungelegen, liebe Mutter.
@@ -452,7 +452,7 @@ und Antworten gegeben.
 
 Und — wie anders lag der Fall Mac Orlen nun bereits
 vor uns!! Auch für mich stand fest, daß die Dame,
-die den Lesesaal nochmals betraten hatte, mit dem angeblichen
+die den Lesesaal nochmals betreten hatte, mit dem angeblichen
 Postbeamten gemeinsame Sache gemacht und ihm
 einen Wink gegeben, den präparierten Brief dem Lord nunmehr
 zu überreichen, da sich im Lesesaal die beste Gelegenheit
@@ -519,7 +519,7 @@ ohne Umschlag und ohne Ortsangabe und Datum, lautete:
 kein passender Umgang sind. Wenn Sie in einem
 Kreise Gleichgesinnter, deren Ehrenhaftigkeit über jeden
 Zweifel erhaben ist, einige anregende Stunden zubringen
-wollen, bemühen Sie sich Punkt elf Uhr noch dem Lützowplatz
+wollen, bemühen Sie sich Punkt elf Uhr nach dem Lützowplatz
 <@pagebreak/>
 und halten Sie sich dort einige Zeit in der Nähe des
 Springbrunnens auf. Alles weitere ergibt sich von selbst.
@@ -555,7 +555,7 @@ Wir waren allein. Harald las mir das Protokoll vor.
 Es brachte nichts Wichtiges außer der Aussage des Hausmeisters
 des Anlay-Palais, daß er am Morgen des 20.
 Juni in der Bibliothek eine Fensterscheibe zertrümmert vorgefunden
-hätte. Ein trockenen Ast eines der Parkbäume
+hätte. Ein trockener Ast eines der Parkbäume
 sei durch den nächtlichen Sturm in die Scheibe geschleudert
 worden und habe noch auf dem Fensterbrett gelegen.
 
@@ -615,7 +615,7 @@ Sollte man denn wirklich nicht dahinter kommen?! Sollten
 die Farben doch etwas anderes bedeuten?! Grün...
 grüne Zahlen! Und — auffallend ist auch, daß alle zehn
 Zahlen vierstellig sind und mit 51 ausgehen! Weshalb
-steht da in Schwarz 0051?! Weg, die beiden Nullen,
+steht da in Schwarz 0051?! Weshalb die beiden Nullen,
 die doch vor 51 keinen Wert haben?!«
 
 Er krauste unzufrieden die Stirn.
@@ -654,7 +654,7 @@ Nummer 1500. — Ueberlegen wir: was numeriert man?«
 
 Er begann auf und ab zu gehen.
 
-»Ja — was nummeriert man: Was? Häuser scheiden
+»Ja — was numeriert man: Was? Häuser scheiden
 aus. — Bitte, zerbrech’ Dir gefälligst auch etwas den Kopf!
 Was numeriert man?«
 
@@ -671,7 +671,7 @@ Bis Harald mit einen Male mit geradezu strahlendem
 Gesicht wieder am Flügel saß und etwas spielte, daß
 ich nicht kannte! Eine geradezu schauerliche Musik!
 
-»Du hast das Richtige gefunden?« fragte ich, atemlos.
+»Du hast das Richtige gefunden?« fragte ich atemlos.
 
 »Ja — ich spiele es!«
 
@@ -683,7 +683,7 @@ Mac Orlen-Geheimnis nach! Komm’! Zum Leichenschauhaus,
 mal fragen, ob da ein unbekannter Toter zwischen
 dem 15ten und 17ten Juni eingeliefert worden ist: Mac
 Orlen! Man kann ja nicht wissen! Man muß stets jeder
-Möglichkeit nachgeben! Nur so kommt man zum Ziel!«
+Möglichkeit nachgehen! Nur so kommt man zum Ziel!«
 
 »Und die Nummern? Willst Du mich darüber im unklaren
 lassen?«
@@ -811,12 +811,12 @@ Er legte den Hörer weg und nickte mir zu...
 kurzer Pause: »Die Verbindung zwischen Mac Orlen und
 dem Zahlenzettel ist hergestellt. Aus beiden ist ein Fall
 geworden. Es bleibt nur noch festzustellen, wo Mac Orlen
-befestigt und die Leiche verscharrt wurde. — Jetzt werden
+beseitigt und die Leiche verscharrt wurde. — Jetzt werden
 wir meiner Mutter Gesellschaft leisten und für die
 Nacht Kräfte sammeln. Außerdem will ich noch Jane
 Brack herbeordern. Ich werde an den Zaun schreiben:
 
-> 1. Juli 11 Uhr vormittags bei mir.
+> 1\. Juli 11 Uhr vormittags bei mir.
 
 Sie wird erscheinen. Sie ist nicht feige. Sie weiß, daß
 sie mir trauen darf.«
@@ -912,7 +912,7 @@ Also tot ist er? Ermordet?«
 man in den Klub hinein, Flick. Wir müssen hin.«
 
 »Müssen?! Lieber Harst, Sie kennen mich. Polizei und
-polizeiähnliche Herrschaften klopfen bei mir vergebens an,
+polizeiähnliche Herrschaften klopfen bei mir vergebens an.
 — Guten Abend...«
 
 Und mit drei Sprüngen war er in einer vorbeifahrenden
@@ -1023,7 +1023,7 @@ Lennerten schlüpfte hinein.
 Ein enger, endlos langer Hof wie eine düstere Schlucht.
 Rechts und links die himmelhohen grauen Wände der
 Mietskasernen. Angeklebt an diese Wände hier im Hofe
-kleine Holzbaracken, Ställe Remisen. Zwei Möbelwagen,
+kleine Holzbaracken, Ställe, Remisen. Zwei Möbelwagen,
 andere Wagen standen umher. Im Hintergrunde ein
 Häuschen aus rohen Ziegeln, einstöckig, fünf Fenster Front.
 An der Tür ein ehrbares Blechschild »Kontor«.
@@ -1090,7 +1090,7 @@ gut. Ich weiß schon, was Sie fragen wollen. Schade —
 ich spiele deswegen hier doch nur Kellner,« meinte er mit
 gedämpfter Stimme. »Ich wollte mich auch einmal als Detektiv
 versuchen. Wirklich schade! Sie verderben einem
-auch jeder Freude, Harst!«
+auch jede Freude, Harst!«
 
 Dann entschlüpfte er nach dem Büfett hin.
 
@@ -1169,13 +1169,13 @@ halb betrunken gemacht habe.«
 »Weshalb haben Sie von alledem denn nichts der
 Polizei gemeldet, Flick?! Ich begreife Sie nicht!«
 
-»Kann ich denn beschwören, daß Mac Orlens wirklich
+»Kann ich denn beschwören, daß Mac Orlen wirklich
 <@pagebreak/>
-was zugestoßen ist, Harst?! Ich habe die 20000 Pfund
+etwas zugestoßen ist, Harst?! Ich habe die 20000 Pfund
 in mein Bankschließfach gelegt. Sie brauchen mich gar nicht
 so durchbohrend anzusehen. Sie kennen ja meine Antipathie,
 gegen Polizei und ähnliche Einrichtungen. Ich
-werde schon herausbringen, wo was Orlen geblieben ist. —
+werde schon herausbringen, wo Mac Orlen geblieben ist. —
 Jetzt muß ich verschwinden...«
 
 Man rief freilich schon zum dritten Male nach ihm.
@@ -1197,7 +1197,7 @@ solle. Harst dankte. »Bemühen Sie sich nicht. Wir
 finden schon.«
 
 Im Keller hinter der Geheimtür, die wir wieder zugedrückt
-hatten, stand das grobe Flaschenregal schräg von
+hatten, stand das große Flaschenregal schräg von
 der Wand ab. Harald hatte seine Taschenlampe eingeschaltet.
 
 »Ich wette, es gibt hier doch noch einen Ausgang,«
@@ -1267,7 +1267,7 @@ Die beiden verschwanden.
 Dunkelheit um uns her — Stille — Totenstille.
 
 <@pagebreak/>
-»interessant!« flüsterte Harald. »Nun wissen wir ja,
+»Interessant!« flüsterte Harald. »Nun wissen wir ja,
 wie Alfred Orgla in Besitz des Zahlenblattes gelangt ist.
 Es hat in Bartoux’ Brieftasche gesteckt.«
 
@@ -1296,7 +1296,7 @@ Haralds Lampe blitzte auf. Wir erhoben uns.
 »Was bedeutet das?« fragte ich leise.
 
 Harst wandte sich halb um, leuchtete in zwei der Fässer
-hinein. Sie waren leer bis aus einen Rest verschimmelten
+hinein. Sie waren leer bis auf einen Rest verschimmelten
 Sauerkrautes.
 
 Auf dem dritten lag ein Holzdeckel. Harst nahm ihn
@@ -1330,7 +1330,7 @@ hochgetrieben, empor...
 
 Wir hatten Mac Orlen gefunden...!
 
-»Bartoux hat dem Toren einen schweren Stein ins Genick
+»Bartoux hat dem Toten einen schweren Stein ins Genick
 gelegt,« sagte Harald rasch. »Und er hat ihn hier ermordet
 — der 20000 Pfund wegen.«
 
@@ -1370,7 +1370,7 @@ Die Nummern des Zettels waren Gräbernummern,
 und in den Gräbern Nr. 1542 und 1552 ruhten Wilhelm
 Scholz und Anton Engel!
 
-Es dauerte eine geraume Meile, bis der Friedhofsinspektor
+Es dauerte eine geraume Weile, bis der Friedhofsinspektor
 erschien. Er kam mit einer Laterne und fragte
 recht unwirsch, was wir denn wünschten.
 
@@ -1510,7 +1510,7 @@ Und sie — flieht mit Orgla und Ihren Getreuen! —
 Glaubst Du daran, daß sie ins Ausland gehen wird?! Ich
 nicht! Sie ist Orgla verfallen, und dieser jämmerliche Bursche
 wird sie wie einst abermals auf die Bahn des Verbrechens
-drängen. Warten wir ab, das geschieht. Jedenfalls
+drängen. Warten wir ab, was geschieht. Jedenfalls
 werde ich der Polizei sofort Meldung erstatten.« —
 
 Eine halbe Woche verging. Jane Brack war nirgends
