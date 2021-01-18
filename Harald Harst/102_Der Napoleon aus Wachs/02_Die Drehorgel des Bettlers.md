@@ -1430,5 +1430,5 @@ __Der dritte Schuß.__
 
 <@pagebreak/>
 
-<div class="img"><img alt="Der Napoleon aus Wachs" src="NapoleonAusWachs.png" style="width: 100%; height: auto;"/></div>
+<div class="img"><img alt="Der Napoleon aus Wachs" src="NapoleonAusWachs.jpg" style="width: 100%; height: auto;"/></div>
 
