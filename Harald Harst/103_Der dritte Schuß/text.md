@@ -7,49 +7,49 @@
 <h3>Wie der Napoleon gestohlen wurde.</h3>
 
 Als Harald damals die Wachsfigur <@refnote 1/>
-Napoleons in Kolberg aus Anlaß der, polizeilichen
-Auflösuna des Robba sehen Wachsfigurenkabinetts kaufte,
+Napoleons in Kolberg aus Anlaß der polizeilichen
+Auflösung des Robba’schen Wachsfigurenkabinetts kaufte,
 ahnten wir beide nicht, daß der wächserne Napoleon uns
 noch zu einem zweiten Abenteuer verhelfen würde, dessen
 Anfang weit aufregender war, als für gewöhnlich Kriminalprobleme
 für uns beginnen.
 
-Daß Harst den Napoleon käuflich erworben harte,
+Daß Harst den Napoleon käuflich erworben hatte,
 war am 18. Juli 1922 in allen Zeitungen zu lesen. Weiter
-stand dann auch in demselben Artikel eine kurze Uebersieht
+stand dann auch in demselben Artikel eine kurze Uebersicht
 über den Tod des Artisten Robba und all die anderen
-Ereignisse, die mit der Festnahme der internationalen Die:
+Ereignisse, die mit der Festnahme der internationalen
 Diebesbande zusammenhingen. Falls der Leser sich für Robert
 Robba interessiert, wird er im vorigen Band (Der
-hl Napoleon aus Wachs) Genaueres finden.
+Napoleon aus Wachs) Genaueres finden.
 
 Jedenfalls: seit dem 19. Juli mittags war Robbas
 Wunderautomat »Napoleon« in Harald Harsts Raritätensammlung
 eingereiht und hatte seinen Platz im Bibliothekszimmer
-zwischen zwei Schränken, die ägyptische Mumie!
-Und präparierte Maubtierfhähet erklärten,
+zwischen zwei Schränken, die ägyptische Mumien
+Und präparierte Raubtierschädel enthielten,
 
 Am 20. Juli vormittags elf Uhr erschien bei uns
 in der Blücherstraße Nr. 10, Berlin-Schmargendorf, ein
-Herr, der sich durch eine Karte mit Ausspruch »Holger
-ge Professor an der Universität in Stockholm« anmeldete.
+Herr, der sich durch eine Karte mit Aufdruck »Holger
+Svendson, Professor an der Universität in Stockholm« anmeldete.
 <@pagebreak/>
 Die Köchin Mathilde brachte uns die Karte in
 den Garten, wo wir gerade der nützlichen Beschäftigung
 des Johannisbeeren-Pflückens uns gewidmet hatten.
 
-Haralds drei Zimmer lagen rechter Sand im Eid
-Ja, des Harstschen alten Familienhaujes nach vom
-aus,
+Haralds drei Zimmer lagen rechter Hand im Erdgeschoß
+des Harstschen alten Familienhauses nach vorn
+heraus,
 
 Wir begaben uns also in Haralds Arbeitszimmer,
 wo Professor Svendson, ein Herr in mittleren Jahren mit
 blondem Vollbart, uns recht erregt begrüßte und uns bat,
 ihn Doch sofort zu begleiten, da seine Tochter Ingeborg,
 mit der zusammen er seit zehn Jahren in einem Pensionat
-in der Joachims1thaler Straße am. Bahnhof Zoologischer
+in der Joachimsthaler Straße am Bahnhof Zoologischer
 Garten wohne, in der verflossenen Nacht einen ihm völlig
-unerklärlichen Selbstmordversuch, durch Vergiften unternommen
+unerklärlichen Selbstmordversuch durch Vergiften unternommen
 habe und nun darauf bestehe, nur einem Detektiv,
 der zugleich Gentleman in des Wortes bester Bedeutung
 sei, die Gründe hierfür anzugeben, —
@@ -59,631 +59,632 @@ Eindruck. Als Harsts langjähriger Freund und Begleiter
 traue ich mir schon einige Menschenkenntnis zu.
 
 Der Professor hatte das Mietauto draußen warten
-Gassen.
+lassen.
 
-Wir waren sehr halb zum Ausgehen fertig, bestiegen
+Wir waren sehr bald zum Ausgehen fertig, bestiegen
 den Kraftwagen und fuhren zum Pensionat Börmer.
-Unterwegs erzählte Svendson uns noch, daß seine Doch
-ter 22 Jahre alt und mit einem Arzt Dr. Olaf Olafsen verlobt
+Unterwegs erzählte Svendson uns noch, daß seine Tochter
+22 Jahre alt und mit einem Arzt Dr. Olaf Olafsen verlobt
 sei.
 
 Die Pension Börmer nahm zwei Stockwerke eines
 vornehmen Miethauses ein. Svendson führte uns in das
 Empfangszimmer im ersten Stock und erklärte, er würde
-Ingeborg nun auf unsereèn Besuch vorbereiten und uns
+Ingeborg nun auf unseren Besuch vorbereiten und uns
 dann nach oben holen.
 
 Nach fünf Minuten schaute eine ältere Dame in das
 Empfangszimmer hinein, trat näher und fragte nach uns
-unseren Wünschen. Es war die Eva an
+unseren Wünschen. Es war die Pensionsinhaberin.
 
-Harald erwiderte, daß wir auf Professor Svyendson
+Harald erwiderte, daß wir auf Professor Svendson
 <@pagebreak/>
-trotteten. Frau Börmer war zufriedengestellt und verschwand.
+warteten. Frau Börmer war zufriedengestellt und verschwand.
 
 Es vergingen abermals zehn Minuten. Dann trat
-ein sehr großer, Basaren, kahlköpfiger Herr mit Spitzbart
-er I. postierte uns sprüifend, Bete fchlieglich in mäßigem
-Du
+ein sehr großer, hagerer, kahlköpfiger Herr mit Spitzbart
+ein und musterte uns prüfend, sagte schließlich in mäßigem
+Deutsch:
 
 »Mein Name ist Svendson — Professor Holger Svendson.
-Frau Börmer teilte mir mit, daß Ehe mich zu sprechen
+Frau Börmer teilte mir mit, daß Sie mich zu sprechen
 wünschen.«
 
-Wir hatten nun erhoben. — Harald blieb ganz ruhig.
+Wir hatten uns erhoben. — Harald blieb ganz ruhig.
 Ein paar Fragen und Antworten genügten: der echte
-Svendson stand hier vor und. Der andere war ein
-Schwindler neueren. — Als Harst dem echten Professor
+Svendson stand hier vor uns. Der andere war ein
+Schwindler gewesen. — Als Harst dem echten Professor
 erklärte, daß der Schwindler uns unter dem Vorwand,
 Fräulein Ingeborg habe sich vergiften wollen und habe
 nach einem Detektiv verlangt, hierher gelockt hätte, wurde
 der Gelehrte sichtlich verlegen, meinte dann aber ärgerlich:
 
 »Der Betrüger hat sich da eine Unverschämtheit erlaubt,
-die bestraft werden müßte. Meine Tochter« ist frisch
-fand munter,«
+die bestraft werden müßte. Meine Tochter ist frisch
+und munter,«
 
 Gleich darauf verabschiedeten wir uns,
 
-Unten auf der Straße sagte Harald: »Hof« mal, mein
-Alter, hier stimmt etwas nicht. ne wette, die Sache mit
-dem Selbstmordversuch stimmt. ser Mann, der sich bei
-uns als Svendson ausgab, muß ein Interesse voran gehabt
+Unten auf der Straße sagte Harald: »Hör’ mal, mein
+Alter, hier stimmt etwas nicht. Ich wette, die Sache mit
+dem Selbstmordversuch stimmt. Der Mann, der sich bei
+uns als Svendson ausgab, muß ein Interesse daran gehabt
 haben, mich auf diesen Selbstmordversuch aufmerksam
-zu in gehen. Uebrigens war der Blondbärtige niemals
-ein Schwede, Das merkte ich schon an seinem tadellosen
+zu machen. Uebrigens war der Blondbärtige niemals
+ein Schwede. Das merkte ich schon an seinem tadellosen
 Deutsch. Es ist ein Deutscher.«
 
 Dann fuhren wir mit der Straßenbahn heim.
 
-Im Filz trafen wir Verfluche, die ehe hörbar.
+Im Flur trafen wir Mathilde, die alte Köchin.
 
-»Der Napoleon ist gerade abgevoli,« mein sie und
-Wisch weiter den Staub von den Paneelbrettern,
+»Der Napoleon ist gerade abgeholt,« meinte sie und
+wischte weiter den Staub von den Paneelbrettern,
 
-»Abgeholt 1 sich Harald.
+»Abgeholt?!« rief Harald.
 
-nun ja Sie schickten der den
-Regieren 1 mit’n der her, Herr Harst
+»Nun ja... Sie schickten doch den ausländischen
+Professor mit’n Zettel her, Herr Harst.«
 
 <@pagebreak/>
 Wir sahen uns verdutzt an.
 
-Mathilde wurde mißtrauisch. »Je da was nicht in
-Ordnung?« fragte sich zögernd.
+Mathilde wurde mißtrauisch. »Is da was nicht in
+Ordnung?« fragte sie zögernd.
 
 »Scheint so!«
 
-Nur zornige Minuten drauf wußten wir, daß der
-Blondbärtige mit einem Zettel, auf dem Zuraste Handgriff
+Nur wenige Minuten drauf wußten wir, daß der
+Blondbärtige mit einem Zettel, auf dem Haralds Handschrift
 glänzend gefälscht war, zu Frau Auguste Harst gekommen
-war und den Napoleon auch ausgehändigt Geck
-halten hatte.
+war und den Napoleon auch ausgehändigt erhalten
+hatte.
 
 Den Zettel konnte Haralds Mutter uns noch zeigen.
-Er lautete: »Liebe Mutter, ich. habe den Napoleon an
-Herrn Professor Svendson verfault und bitte Dich, Ahnt
+Er lautete: »Liebe Mutter, ich habe den Napoleon an
+Herrn Professor Svendson verkauft und bitte Dich, ihm
 die Wachsfigur zu übergeben. Schraut und ich kommen
 heute erst gegen drei Uhr zu Tisch. Gruß — Dein Harald!«
 
 Mit einem Wort: der falsche Professor hatte es von
 vornherein auf den Napoleon abgesehen gehabt!
 
-Woher er eine Schriftiprobe von Haralds Sand sich
+Woher er eine Schriftprobe von Haralds Hand sich
 verschafft hatte, war ebenfalls leicht festzustellen: er war
 im Arbeitszimmer Harsts lange genug allein gewesen und
 hatte einen Brief, den Harald noch nicht beendet gehabt
-auf dem Schreibtisch liegen gelassen hatte, zu sich ge
-e
+und auf dem Schreibtisch liegen gelassen hatte, zu sich gesteckt.
 
-Die Wachsfigur hatte er eigenhändig in ist Auto
-draußen getragen und war Davongefahren. ahne
+Die Wachsfigur hatte er eigenhändig in ein Auto
+draußen getragen und war davongefahren. —
 
-Harst lachte mich an. »Dir — da sind wir sein geleimt
-worden — sehr sein!« - Er saß im Klubsessel und
+Harst lachte mich an. »Du — da sind wir fein geleimt
+worden — sehr fein!« — Er saß im Klubsessel und
 rauchte zur Beruhigung eine Zigarette.
 
-»Willst Du den Verlust etwa ruhig hinnehmen? 1»
+»Willst Du den Verlust etwa ruhig hinnehmen?!«
 meinte ich.
 
 »Denke gar nicht Daran! Die Jagd auf den falschen
-Professor soll sofort beginnen. Mathilde behauptet ja.
+Professor soll sofort beginnen. Mathilde behauptet ja,
 das Auto sei ein elektrisches Taxameterauto gewesen. Ich
 werde Freund Bechert bitten, das Auto suchen zu lassen.
 Rufe ihn doch mal an.«
 
-Sriminallommüffar Fein Bechert meldete sich sehr
-bald, Neu, an das ich Die verlangt Wer €
+Kriminalkommissar Fritz Bechert meldete sich sehr
+bald, nachdem ich das Polizeipräsidium verlangt hatte. Er
 <@pagebreak/>
-Hege, uns Bescheid zu geben, sobald das Auto gefunden.
+versprach, uns Bescheid zu geben, sobald das Auto gefunden.
 Harald erzählte ihm noch, wie wir den Napoleon
-geworden waren. Bechert Tondolierig und meinte, der
+losgeworden waren. Bechert kondolierte und meinte, der
 Blondbärtige verdiene den Großstern Des Gaunerordens
-mit Dietrichen und Brecheisen«, denn einen Harald Harst
-bestehlen, sei immerhin eine Treibe wert, —
+»mit Dietrichen und Brecheisen«, denn einen Harald Harst
+zu bestehlen, sei immerhin eine Auszeichnung wert, —
 
 Nach dem Mittagessen läutete Bechert an
 
-»Auto ist gefunden. Der blonde fuhr mit dem
-da Anglern, dem er einen sangen zum viel angezog:n
-eine Reisemütze aufgelegt hatte, nach der Kantstraße
-8, Charlottenburg, und trug ihn hier ins Haus, nach:
-irr Den Chauffeur bezahlt hatte, Mehr weiß der
+»Auto ist gefunden. Der blonde Herr fuhr mit dem
+Napoleon, dem er einen langen Gummimantel angezogen
+und eine Reisemütze aufgesetzt hatte, nach der Kantstraße
+108, Charlottenburg, und trug ihn hier ins Haus, nachdem
+er Den Chauffeur bezahlt hatte. Mehr weiß der
 Chauffeur nicht.« —
 
 Auch wir hatten nun einiges Interesse für Kantstraße
-Gegen halb vier waren wir dort und ermittelten,
-am Morgen unser falscher Professor dort im Hoch-rterre
+108\. Gegen halb vier waren wir dort und ermittelten,
+daß am Morgen unser falscher Professor dort im Hochparterre
 ein Zimmer für drei Tage gemietet hatte. Die
-Mieterin ließ uns zu in das Zimmer ein, da der Herr
-begangen war, der sich Kaufmann Albert Müller aus
+Vermieterin ließ uns auch in das Zimmer ein, da der Herr
+ausgegangen war, der sich Kaufmann Albert Müller aus
 Hamburg genannt hatte,
 
-Müllers Koffer war nicht mehr da. Und im Kleinlaut
-fanden wir ... den Rumpf des Wunberauto-n.
+Müllers Koffer war nicht mehr da. Und im Kleiderschrank
+fanden wir... den Rumpf des Wunderautomaten.
 Kopf, Arme und Beine fehlten,
 
 »Herr Müller« hatte sich also mit diesen Teilen des
-nzosenkaisers in aller Stille empfohlen.
+Franzosenkaisers in aller Stille empfohlen.
 
 Den Rumpf nahmen wir mit nach Hause.
 
-Müller« in Berlin zu suchen, wäre vergebliche Mühe
+»Müller« in Berlin zu suchen, wäre vergebliche Mühe
+gewesen.
 
 So saßen wir denn um fünf Uhr wieder in Haralds
-Amtszimmer und stärkten uns durch eine Tasse Mokka.
+Arbeitszimmer und stärkten uns durch eine Tasse Mokka.
 
-Harst warnte nach der zweiten Tasse sehr schweigsam.
+Harst wurde nach der zweiten Tasse sehr schweigsam.
 
-Nach her dritten sagte er;
+Nach her dritten sagte er:
 
-»Wir werden »ich der Börmer absteigen. Der echte
-andern wird uÈfvielleicht auf die Spur des falschen
-Seine Tochter hat doch einen Selbstmordversuch
-Rate ich! Und »Müller« hat dies gewußt.
+»Wir werden bei der Börmer absteigen. Der echte
+Svendson wird uns vielleicht auf die Spur des falschen
+führen. Seine Tochter hat doch einen Selbstmordversuch
+gemacht, behaupte ich! Und »Müller« hat dies gewußt.
 <@pagebreak/>
 Mithin muß es zwischen den Svendsons und dem Blonden
-irgend eine Freude geben, Die Brücke wird sich der
-rausfinden lassen,«
+irgend eine Brücke geben. Die Brücke wird sich herausfinden
+lassen,«
 
-Und um acht Uhr abends belegten dann zwei Herr
-ren im Pensionat Börmer die Zimmer Nr. 8 und Nr,
+Und um acht Uhr abends belegten dann zwei Herren
+im Pensionat Börmer die Zimmer Nr. 8 und Nr. 9
 im zweiten Stock gegenüber Nr. 3 und Nr. 4, in denen
 der Professor und seine Tochter wohnten,
 
-Daß die Herren mir Harst und Schraut nichts gemeinsam
-hatten — äußerlich! — ist selbstverständlich. Sie hie—yan
-Schmidt und Hirnen und waren Ferien reisende, Oberlehrer
+Daß die Herren mit Harst und Schraut nichts gemeinsam
+hatten — äußerlich! — ist selbstverständlich. Sie hießen
+Schmidt und Hilmer und waren Ferienreisende, Oberlehrer
 aus Stettin.
 
-Oberlehrer wirkt Old Stand im Frembenbud so vertrauenerweckend,
+Oberlehrer wirkt als Stand im Fremdenbuch so vertrauenerweckend,
 Wenn die Herren Hochstapler dies wüßten,
-würden sie nur als Oberlehrer statt als Grasen reisen.
+würden sie nur als Oberlehrer statt als Grafen reisen.
 
 Wer in einem Fremdenheim etwas erfahren will,
 muß sich an die Stubenmädchen wenden.
 
 Das Rezept ist uralt,
 
-Das Stubenmädchen, das bunt und Svenbdsons bediente,
-war nicht uralt und durchaus für Trinkgelder empfänglich,
+Das Stubenmädchen, das uns und Svendsons bediente,
+war nicht uralt und durchaus für Trinkgelder empfänglich.
 Bereits um halb zehn wußten wir folgendes.
 
 Der Herr Professor war Chemiker, Professor der Chemie.
 Seine Tochter war hübsch. Beide wohnten hier seid
-dem 8, Juli, hatten viel Verkehr und waren selten daheim.
-Aber — sie vertrugen sich sschleckcht miteinander. Jeden Tag
+dem 8. Juli, hatten viel Verkehr und waren selten daheim.
+Aber — sie vertrugen sich schlecht miteinander. Jeden Tag
 gab es Szenen, leider stets in schwedischer Sprache, die
-unter | Zöflein nicht beherrschte, Dann war in der vors
-flottem Naht der Professor gegen halb ein Uhr zur Andeutete
-gerannt, Unser Zöflein begegnete ihm auf der Treppe.
-Er hatte sie gefragt, wo die nächste Apotheke sei, S?ins
-Tochter habe Zahnschmerzen, Und heute liege das Brandung
-in Nr. 4 sei zu Bett, und Der Professor pflege sie. —
+unser Zöflein nicht beherrschte. Dann war in der verflossenen
+Nacht der Professor gegen halb ein Uhr zur Apotheke
+gerannt. Unser Zöflein begegnete ihm auf der Treppe.
+Er hatte sie gefragt, wo die nächste Apotheke sei. Seine
+Tochter habe Zahnschmerzen. Und heute liege das Fräulein
+nun in Nr. 4 fest zu Bett, und Der Professor pflege sie. —
 
-Harald nahm das Märchen ins Angel © Verhör
-— ganz unauffällig, — Fräulein Ingeborg Svendson
-habe wohl einen Verehrer, der dem Pater, dem Professor,
-nicht zum sei? fragte er Lächelnd, Er
+Harald nahm das Mädchen noch weiter ins Verhör
+— ganz unauffällig. — Fräulein Ingeborg Svendson
+habe wohl einen Verehrer, der dem Vater, dem Professor,
+nicht genehm sei? fragte er Lächelnd.
 
-all unsre, »ne, einen Verehrer hat sie
+Das Zöfchen nickte. »Ja, einen Verehrer hat sie
 <@pagebreak/>
-allerdings, Aber den mag das Fräulein nicht, Es ist
+allerdings. Aber den mag das Fräulein nicht. Es ist
 ein Amerikaner namens Burton, James Burton,«
 
-Burton wohnte ganz in der Nähe, in der Augshura
+Burton wohnte ganz in der Nähe, in der Augsburger
 Straße 112, wußte das Mädchen weiter zu berichten.
-Herr der Flöte der Amerikaner sehr, Burton
-sei auch ein sehr stattlicher Bis:
+Der Herr Professor schätze den Amerikaner sehr. Burton
+sei auch ein sehr stattlicher Herr.
 
-Weiter war aus dem Hie nichts herauszuholen,
-Sie kriegte kokett und Verehrung
+Weiter war aus dem Mädchen nichts herauszuholen.
+Sie knickste kokett und verschwand.
 
-In Wir waren in Haralds Zimmer nun allein. Es war
+Wir waren in Haralds Zimmer nun allein. Es war
 der übliche sogenannte »bessere« Pensionsraum, vielleicht
-sogar Organs zu nennen.
+sogar elegant zu nennen.
 
 Harald saß in der Sofaecke und rauchte nachdenklich
 seine Mirakulum,
 
-seh hatte mir den einen Plüschsessel dicht an das Sofa
-verrieben, So konnten wir uns bequem im vorsichtigsten
+Ich hatte mir den einen Plüschsessel dicht an das Sofa
+geschoben. So konnten wir uns bequem im vorsichtigsten
 Flüsterton unterhalten,
 
 »Es gibt eine sehr einfache Erklärung für den Diebstahl
-»des Napoleon,« Wege Harald plötzlich,
+des Napoleon,« meinte Harald plötzlich,
 
-Loge Und die wäret
+»So?! Und die wäre?«
 
 »Man hat uns auf Svendsons aufmerksam machen
-wollen und hat dazu einen ne es Nord, der unserer Vors
-liebe by merkwürdige Teiche in entspricht,
+wollen und hat dazu einen Weg gewählt, der unserer Vorliebe
+für merkwürdige Geschehnisse entspricht,«
 
-er soll das getan haben?
+»Wer soll das getan haben?«
 
-»Vielleicht jemand, der Ingeborg Spenbfond Herz be-a«
+»Vielleicht jemand, der Ingeborg Svendsons Herz besitzt.« —
 
-Ich dachte über diese Vermutungen Haralds angesengt
-nach, Sie erschienen mir widerspruchsvoll und ohne
-Eden Anhaltspunkt, Hatte Ingeborg wirklich einen Verehrer,
-den sich liebte?! Woher wollte Harald das wissen?!
-I« - weshalb hatte dieser Verehrer uns auf die Spende
+Ich dachte über diese Vermutungen Haralds angestrengt
+nach. Sie erschienen mir widerspruchsvoll und ohne
+jeden Anhaltspunkt. Hatte Ingeborg wirklich einen Verehrer,
+den sie liebte?! Woher wollte Harald das wissen?!
+Und — weshalb hatte dieser Verehrer uns auf die Svendsons
 aufmerksam machen wollen?! Weshalb?! —
 
-Harst saß jetzt mit Reinfall Omen Augen, da, Ich mochte
-in nicht durch Fragen Ahnen,
+Harst saß jetzt mit geschlossenen Augen da. Ich mochte
+ihn nicht durch Fragen stören.
 
-Nach einer Weile erhob er sich, »Wir werden nun
-innen,« erklärte er, »Mein Feldzugsplan ist fertig, Wir
-ergoß aus,«
+Nach einer Weile erhob er sich. »Wir werden nun
+beginnen,« erklärte er. »Mein Feldzugsplan ist fertig. Wir
+gehen noch aus,«
 
 <@pagebreak/>
 
 <h2>2. Kapitel,</h2>
 
-<h3>Der weite Schuß</h3>
+<h3>Der zweite Schuß</h3>
 
-Wir gingen zur nächsten Apotheke, Sie iyax geschlossen,
-Wir läuteten, Ein jüngerer Herr öffnete das Klappfenster
-der Tür und fragte nach unserem Begehr, — Harst
+Wir gingen zur nächsten Apotheke. Sie war geschlossen.
+Wir läuteten. Ein jüngerer Herr öffnete das Klappfenster
+der Tür und fragte nach unserem Begehr. — Harst
 nannte seinen Namen. »Hatten Sie auch in der verflossenen
 Nacht hier Dienst?« fragte Er den Herrn.
 
-»Ja. Ich Verirrte meinen Kollegen,«
+»Ja. Ich vertrete meinen Kollegen,«
 
 »Gegen halb eins hat ein Ausländer gestern ein Medikament
 verlangt, nicht wahr?«
 
-Der junge Apotheker überlegte, »Ah un besinne
-Ab mich, Er sagte, sein Hund hätte Gift gefressen, Zyankali.
-Der Herr verlangte Kaanpserspiritus und Atropin, Da
+Der junge Apotheker überlegte. »Ah — nun besinne
+ich mich. Er sagte, sein Hund hätte Gift gefressen, Zyankali.
+Der Herr verlangte Kampferspiritus und Atropin. Da
 er sich als Professor der Chemie auswies, nahm ich keinen
 Anstand, ihm auch Atropin als Gegenmittel zu verabfolgen.
 Der Herr war übrigens Schwede, Herr Harst,«
 
-»Vielen Baut. Sie schweigen wohl über unsere Nachtzug
-4, un
+»Vielen Dank. Sie schweigen wohl über unsere Nachfrage...«
 
-»Gewiß, Herr Harst, nur - stimmt irgend etwas
-wich?« Womöglich habe ich nach Unannehmlichkeiten, weil
-ich das Atropin ohne Rezept ...«
+»Gewiß, Herr Harst, nur — stimmt irgend etwas
+nicht? Womöglich habe ich nach Unannehmlichkeiten, weil
+ich das Atropin ohne Rezept...«
 
-»Meine Sorge, Der Hund ist mit dem Leben davon:
-gekommen Die Das Monats ran nmr winzig gewesen
-Wien, — Gute Nach
+»Keine Sorge. Der Hund ist mit dem Leben davongekommen.
+Die Dosis Zyankali kann nur winzig gewesen
+sein. — Gute Nacht...«
 
 Harald faßte mich unter. »Also eine Zyankalivergiftung,
-lieber Alter!« meinte er sehr ernst, »Svendson hat
-Ne eilig erkannt und die richtigen Gegenmittel angewandt.
-Es fragt sich nun: bat Ingeborg sich selbst vergiften wollen
-oder bat man ihr das Gift irgendwie beigebracht?«
+lieber Alter!« meinte er sehr ernst. »Svendson hat
+sie richtig erkannt und die richtigen Gegenmittel angewandt.
+Es fragt sich nun: hat Ingeborg sich selbst vergiften wollen
+oder hat man ihr das Gift irgendwie beigebracht?«
 
 »Kann darüber überhaupt ein Zweifel bestehen?«
-warf ich ein. »Wer soll Fräulein Ererbten wohl nach dem
+warf ich ein. »Wer soll Fräulein Svendson wohl nach dem
 Leben trachten?«
 
-»Gestatte. Du verfärbt schon wieder in den alten Fehler,
-»Du nimmst etwas als gewiß an, was durchaus noch
+»Gestatte. Du verfällst schon wieder in den alten Fehler.
+Du nimmst etwas als gewiß an, was durchaus noch
 <@pagebreak/>
 nicht gewiß ist, — Wir werden ins Pensionat zurückkehren.«
 
-an Nr, 9, Haralds Fremdenzimmer, angelangt, letzte
-Bart die Schuhe ab wo meinte: »Es ist legt elf Uhr. Wir
-werden versuchen, Svendson und seine Tochter zu belauschen,
-Zu diesem Zweck werden fuhr in sein Zimmer ein-dritigen,«
+In Nr. 9, Haralds Fremdenzimmer, angelangt, legte
+Harst die Schuhe ab und meinte: »Es ist jetzt elf Uhr. Wir
+werden versuchen, Svendson und seine Tochter zu belauschen.
+Zu diesem Zweck werden wir in sein Zimmer eindringen,«
 
-Die Selbstverständlichkeit, mit der er das sagte, rot
-kehrte jeder Effekthascherei.
+Die Selbstverständlichkeit, mit der er das sagte, entbehrte
+jeder Effekthascherei.
 
-Auch ich zog die Schuhe aus. — Im Flur war es be
-bereits dunkel, Wir schalteten das Licht aus und stellten uns
+Auch ich zog die Schuhe aus. — Im Flur war es
+bereits dunkel. Wir schalteten das Licht aus und stellten uns
 lauschend vor die Tür von Nr. 3. Harsts Zimmertür hatten
 wir nur angelehnt.
 
-In Nr. 3 war alles still. Es brannte sein. Licht. Ha-rxalb
+In Nr. 3 war alles still. Es brannte kein Licht. Harald
 hatte durch das Schlüsselloch geschaut.
 
-Dann huschten mir nach links — vor die Tür von Jn-gebórgs
+Dann huschten mir nach links — vor die Tür von Ingeborgs
 Zimmer.
 
 Hier vernahmen wir gedämpfte Stimmen, und hier
-in Mr. 4 war es auch heil,
+in Nr. 4 war es auch hell,
 
-Harald zog mich wieder nach rechts, letzte die Hand
-auf den Drüber von Nr. 3. :- Verschlossen!! — Aber die
-Schlüffelgange arbeitete leise und schnell. Der Riegel war
-nicht, vorgeschoben.
+Harald zog mich wieder nach rechts, legte die Hand
+auf den Drücker von Nr. 3. — Verschlossen!! — Aber die
+Schlüsselzange arbeitete leise und schnell. Der Riegel war
+nicht vorgeschoben.
 
-Die Tür ging aus. Wir schlüpften hinein.
+Die Tür ging auf. Wir schlüpften hinein.
 
-Fitisternis — — mir Linker Sand ein finaerbreiter
-fangen Lichtstreifen: das war die Tür zum Krankengemach!
+Finsternis — — nur linker Hand ein fingerbreiter
+langer Lichtstreifen: das war die Tür zum Krankengemach!
 
-Jetzt hörten wir Die Stimmen deutlicher. Lautlos altt-wir
-dem Lichtstreifen  nacher,
+Jetzt hörten wir Die Stimmen deutlicher. Lautlos glitten
+wir dem Lichtstreifen näher,
 
 Unsere schwedischen Sprachkenntnisse genügten, um
-Gespräch zwischen Vater und Tochter folgen zu können.
+dem Gespräch zwischen Vater und Tochter folgen zu können.
 
-»Es ist traurig,« sagte der Professor etwas geritzt,
-aß Du mich zu belügen suchst, Ingeborg.«
+»Es ist traurig,« sagte der Professor etwas gereizt,
+»daß Du mich zu belügen suchst, Ingeborg.«
 
-Ein Widert Auflachen. Dann: »Ja schwöre Es Dir
-dem Streuten zu meine Mutter, oä 1 mit mißt
-vergiftet habe, Das muß Dir wohl jeden Zweifel heucheln.
+Ein bitteres Auflachen. Dann: »Ich schwöre Es Dir
+bei dem Andenken an meine Mutter, daß ich mich nicht
+vergiftet habe. Das muß Dir wohl jeden Zweifel benehmen.«
 
 »Allerdings, Kind, allerdings. Rege Dich nur nicht
 <@pagebreak/>
-auf. Seh begreife dann einfach nicht, wie das Zyankali in
+auf. Ich begreife dann einfach nicht, wie das Zyankali in
 Dein Wasserglas geraten sein kann. Wer sollte Dich haben
 vergiften wollen — wer?!«
 
-»Ich weiß es nicht. Ich weiß mir, daß 1 gestern nach
-am Halb ein Uhr mir wie immer in Dem lade Nlittbivaf-fer
-zurechimachte, mir den Mund Fußspitze und
-Tropfen der Mischung hinunterschluckté, worauf sich Je
-bald he die Aranfheitserfcheinungen einstellten.«
+»Ich weiß es nicht. Ich weiß nur, daß ich gestern nacht
+um halb ein Uhr mir wie immer in dem Glase Mundwasser
+zurechtmachte, mir den Mund ausspülte und wenige
+Tropfen der Mischung hinunterschluckte, worauf sich sehr
+bald ja die Krankheitserscheinungen einstellten.«
 
-er Professor seufzte, »Unter diesen Umständen mich
-man in der Tat das Hin, was der umdberfehiite M!
-der »2 bei Harst als Svénbdson ausgab, sich herausnahm:
-eben Harst einweihen, völlstäitdig einweihen!«
+Der Professor seufzte. »Unter diesen Umständen müßte
+man in der Tat das tun, was der unverschämte Mensch,
+der sich bei Harst als Svendson ausgab, sich herausnahm:
+eben Harst einweihen, vollständig einweihen!«
 
-Nein — sein, — mir kein Aufsehers, Vater!« tief
-Ingeborg da, »Nur das nicht! Ah fühle mich ja bereits
-wieder weit besser. Vorigen stehe ich auf. Vielleicht wär
-es na gar keine Zyankalivergiftung.« -
+»Nein — nein, — nur kein Aufsehen, Vater!« rief
+Ingeborg da. »Nur das nicht! Ich fühle mich ja bereits
+wieder weit besser. Morgen stehe ich auf. Vielleicht war
+es auch gar keine Zyankalivergiftung.«
 
-»Oh — Es war eine, Sind. und — weil es sich allen
+»Oh — Es war eine, Kind. und — weil es sich allem
 Anschein nach um einen Anschlag auf Dein Leben gehandelt
-hat, weit außerdem... Gage
+hat, weil außerdem...«
 
-»Nun — Fußenden?« -
+»Nun — außerdem?«
 
-am — ich wollte Dir’s eigentlich verschweigen ...«
+»Hm — ich wollte Dir’s eigentlich verschweigen...«
 
-As denn?«
+»Was denn?«
 
-»Daß — daß ich sehr wohl weiß, daß Sigurd Warne
+»Daß — daß ich sehr wohl weiß, daß Sigurd Barnö
 ebenfalls in Berlin ist.«
 
-»Wie — wie meinst Du das, Vater? !? Ihre Stimme
-Hang sehr verlegen.
+»Wie — wie meinst Du das, Vater?!« Ihre Stimme
+klang sehr verlegen.
 
-»Verstellte Dich nicht, Ingeborg. Warne ist zu allem
+»Verstellte Dich nicht, Ingeborg. Barnö ist zu allem
 fähig. Ein Mensch von seinem Temperament sucht Vielleicht
 sogar lieber das Weib, das er begehrt, zu vernichten, ehe
 er sie einem anderen gönnt.«
 
-Ingeborg schrie leise aus.
+Ingeborg schrie leise auf.
 
-Vater — Vater, schon Du Dich nicht, Es umgebaute
+»Vater — Vater, schämst Du Dich nicht, so ungeheure
 Verdächtigungen auszusprechen gegen einen Mann, mit
-dem Du jahrelang im Laboratorium zusammeigearbéitét
-hast und den Du ...«
+dem Du jahrelang im Laboratorium zusammengearbeitet
+hast und den Du...«
 
 »Dieser Ton mir gegenüber dürfte höchst unpassend
 <@pagebreak/>
-sein, Nuß, unterbrach Svendson sie recht schschrosf, »Mein
-Meist Leiber Darin werde ich nie nicht Andern, — Suche
-jetzt einzuschlafen. Morgen jedem wir weiter«
+sein, Kind,« unterbrach Svendson sie recht schroff. »Mein
+Urteil über Barnö werde ich nie mehr ändern. — Suche
+jetzt einzuschlafen. Morgen reden wir weiter«
 
 Für uns beide wurde es nun höchste Zeit, des Professors
 Zimmer wieder zu verlassen.
 
-Wir gelangten zu unbemerkt nach Nr. 9 zurück, wo
-Nähe mir beides Sande auf die Schultern letzte und flüsterte:
+Wir gelangten auch unbemerkt nach Nr. 9 zurück, wo
+Harald mir beides Hände auf die Schultern legte und flüsterte:
 
 »Ein Roman — — ein Roman!! — Zwei, die sich
-um Ingeborg betreiben!! Ei Java — Wie wär’s,
-wenn Wir nodımala ausgingen?!«
+um Ingeborg bewerben!! Konfliktstoff!! — Wie wär’s,
+wenn Wir nochmals ausgingen?!«
 
-»Und — wer.
+»Und — wohin?«
 
-»Na der nahen Augsburger Straße, vs der Amerikaner
-James Burton wohnt, nach Nr, 112. Wenn wir
-wüßten, wo Sigurd Warne hier in Berlin abgestiegen ist,
-könnten hie ja ah ihn noch so ein wenig aufs Korn nehmen.
-Ich bin stets Duft, daß man das Du schmiedet,
-so lange 08 noch heiß ist. Näachtlive Ermittelungen haben
-miherden zumeist mehr Erfolg als solche am Tage. Nachts
-streifen die Menschen die Maske, die sie Will das grelle Sonnenlicht
+»Nach der nahen Augsburger Straße, wo der Amerikaner
+James Burton wohnt, nach Nr. 112. Wenn wir
+wüßten, wo Sigurd Barnö hier in Berlin abgestiegen ist,
+könnten wir ja auch ihn noch so ein wenig aufs Korn nehmen.
+Ich bin stets dafür, daß man das Eisen schmiedet,
+so lange es noch heiß ist. Nächtliche Ermittelungen haben
+außerdem zumeist mehr Erfolg als solche am Tage. Nachts
+streifen die Menschen die Maske, die sie für das grelle Sonnenlicht
 anzulegen belieben, nur zu gern ab und werden so,
-wie sie wirklich sind, Ehrbare Beamte Tränen nachts, den!
-Verbotenen Laster des Spiels, Damen der sogenannten be
-ten Gesellschaft besuchen... — Ah — hörst Du.! Svendson
+wie sie wirklich sind. Ehrbare Beamte frönen nachts, dem
+verbotenen Laster des Spiels, Damen der sogenannten besten
+Gesellschaft besuchen... — Ah — hörst Du...! Svendson
 geht noch aus! Das war soeben seine Tür, die ins
-Sohle gebrücät wurde
+Schloß gedrückt wurde...!« —
 
-zwei Minen Alster raten auch wir auf der Straße.
+zwei Minuten später waren auch wir auf der Straße.
 Die hagere, etwas gebeugte Gestalt des Professors war in
-loser Metschenflille der sich gerade Seeleuten Theater ins
-in he im Mär zu behalten, Ein Mann von seiner
-he fiel zu.
+dieser Menschenfülle der sich gerade leerenden Theater und
+Kinos leicht im Auge zu behalten. Ein Mann von seiner
+Größe fiel auf.
 
-Svendson überfschrili den Aursürstenbamnn und bog
-die Augslnurger Straße ein.
+Svendson überschritt den Kurfürstendamm und bog
+die Augsburger Straße ein.
 
-Er ihn die einer, der tief in Gedanken versunken
-mit geteilten Kopf, mit schroffen Bewegungen.
-Die Augsburger Strafe war Betrug belebt. Vor Nr,
+Er ging wie einer, der tief in Gedanken versunken
+ist, mit gesenktem Kopf, mit schlaffen Bewegungen.
+
+Die Augsburger Strafe war wenig belebt. Vor Nr.
 <@pagebreak/>
-112 machte Svendson bald und Schnitte zu den Fenstern des
-genemiberlieaenben Hauses empor.
+112 machte Svendson halt und schaute zu den Fenstern des
+gegenüberliegenden Hauses empor.
 
-Wir beide hatten uns in eine tückische Schritt. -
-Ein paar Schritte neben Svendson stand eine Anteile, Regungslos
+Wir beide hatten uns in eine Türnische gedrückt. —
+Ein paar Schritte neben Svendson stand eine Laterne. Regungslos
 starrte er minutenlang, Nr. 112 den Rücken zukehrend,
-das alte schmale Gebäude an, wohl eins der Ah
-testen Häuser der Straße.
+das alte schmale Gebäude an, wohl eins der ältesten
+Häuser der Straße.
 
-»Wenn dort Sigurd Barnö wohnt, dann will er viel
-leicht James Burton, den Nebenbuhler, beobachten, oder
-umgekehrt,« sagte Harald leise. »Zedensáälls dürften Barnö
-und Burton sich kaum lieben. Svendosol, Der genoß
+»Wenn dort Sigurd Barnö wohnt, dann will er vielleicht
+James Burton, den Nebenbuhler, beobachten, oder
+umgekehrt,« sagte Harald leise. »Jedenfalls dürften Barnö
+und Burton sich kaum lieben. Svendson, Der gegen
 Barnö vorhin so schwere Verdächtigungen aussprach, scheint
-aus eigene Sanft Barnö nachipionieren zu wollen. Es
-wird schon stimmen, daß Warne dort in dem alten Hause
-sich) eingemietet hat. Woher sonst des Professors Interesse
+auf eigene Faust Barnö nachspionieren zu wollen. Es
+wird schon stimmen, daß Barnö dort in dem alten Hause
+sich eingemietet hat. Woher sonst des Professors Interesse
 für das Gebäude?!«
 
 Einer jener zahllosen Bettler, die seit dem Kriege Die
-Gegend um den Kurfürstendamm nachts abgrasen, scharrte
-an der Türnifite, deren Schatten uns barg, vorüber
+Gegend um den Kurfürstendamm nachts abgrasen, schlurfte
+an der Türnische, deren Schatten uns barg, vorüber.
 
-Ein alter Mann mit weißem Patriarchenbart war,
-einen keinen Holzkasten am Schulterriemen vor dein Leibe,
-zerlumpt, fkläglih, mühsam dabimichreitend.
+Ein alter Mann mit weißem Patriarchenbart war’s,
+einen keinen Holzkasten am Schulterriemen vor dem Leibe,
+— zerlumpt, kläglich, mühsam dahinschreitend.
 
-Er konnte uns nicht bemerkt Gaben. Kaum war er
-vorbei, als Harst sich näher an nie Ergänzte.
+Er konnte uns nicht bemerkt haben. Kaum war er
+vorbei, als Harst sich näher an mich drängte.
 
-»Du, der Alle war vorhin ich der Joachimsthäalér
-Straße! Du — der Mann ..«
+»Du, der Alte war vorhin in der Joachimsthaler
+Straße! Du — der Mann...«
 
 Er verstummte,
 
-Er hatte den Kopf vorgebêèugt, zog ihn mit jäher ne
-Bewegung zurück. Gerade war ein Auto in schnellstem Wenige
+Er hatte den Kopf vorgebeugt, zog ihn mit jäher
+Bewegung zurück. Gerade war ein Auto in schnellstem Tempo
 vorübergefahren.
 
-»Was gibt’s?« fragte ich durstig.
+»Was gibt’s?« fragte ich hastig.
 
-»Sah
+»Still...!!"
 
-Und wieder flach er den Kopf etwas vor.
+Und wieder schob er den Kopf etwas vor.
 
-tat dasselbe ... wi:
+Ich tat dasselbe...
 
-Der Bettler ... war verfehlmnben. und Professor
+Der Bettler... war verschwunden. und Professor
 Svendson lag halb kniend auf dem Bürgersteig
 
 <@pagebreak/>
-Da riß Harald mich zurück
+Da riß Harald mich zurück...
 
-»Vorsicht! Wir Dürfen und nicht en. Man
-mimt Svendson schon zu Hilfe!«
+»Vorsicht! Wir Dürfen uns nicht einmischen. Man
+kommt Svendson schon zu Hilfe!«
 
-Auch ich hatte noch mit einem letzten Blick drei Hergegeben,
-die von der anderen Seite auf Svendson zur
-eilt waren,
+Auch ich hatte noch mit einem letzten Blick drei Herren
+gesehen, die von der anderen Seite auf Svendson zugeeilt
+waren,
 
-Wir hörten es Sprechen — ein paar (ade Rufe;
-Polizei — — Polizei
+Wir hörten erregtes Sprechen — ein paar laute Rufe:
+»Polizei — — Polizei!!«
 
-»hebt wird’s y« meinte Harald,
+»Jetzt wird’s Zeit,« meinte Harald,
 
 es kamen noch mehr Leute hinzu. Wir verließen die
-Türnische, mischten un« unter die rasch anwachsende Menge.
+Türnische, mischten uns unter die rasch anwachsende Menge.
 
-Dir einem Ware war Harald nicht mehr neben mir.
-Ich achtete nicht weiter Darauf, Ich sah, daß zwei Herren.
-den Professor stützten, daß ein dritter ihm ein Taschens
-Buch um die Stirn dann.
+Mit einem Male war Harald nicht mehr neben mir.
+Ich achtete nicht weiter darauf. Ich sah, daß zwei Herren
+den Professor stützten, daß ein dritter ihm ein Taschentuch
+um die Stirn band.
 
 »Man hat auf den Ausländer geschossen,« sagte eine
-ne neben mir.
+Dame neben mir.
 
 Dann erschien ein Polizeibeamter. Gleich darauf
-ältere Herren, die mit dem Beamten flüsterten: eine
+zwei ältere Herren, die mit dem Beamten flüsterten: eine
 Patrouille der Kriminalpolizei!
 
-»Komm!« raunte der soeben wieder aufgetauchte
+»Komm’!« raunte der soeben wieder aufgetauchte
 Harst mir zu.
 
-ich sorgte ihm. Er schritt auf Nr. 107 zu, ein großes
+ich folgte ihm. Er schritt auf Nr. 107 zu, ein großes
 neueres Gebäude,«
 
-dieses Haus betrat der Bettler,« erklärte Hades
-ist verschlossen. Der Mann hat es noch nicht
+»Hier dieses Haus betrat der Bettler,« erklärte Harald.
+»Es ist verschlossen. Der Mann hat es noch nicht
 wieder verlassen,«
 
-Er hielt den Dietrich schon bereit, Wir traten ein,
-zerrten hinter uns wieder ab. — Linker Hand neben der
-für war der Kontakt der Nachtbeleuchtung, Flur und
-Happen wurden hell,
+Er hielt den Dietrich schon bereit. Wir traten ein,
+sperrten hinter uns wieder ab. — Linker Hand neben der
+Tür war der Kontakt der Nachtbeleuchtung. Flur und
+Treppen wurden hell,
 
-»Du läßt Diamant hinaus, wartest hier,« befahl Hand,
+»Du läßt niemand hinaus, wartest hier,« befahl Harald.
 
 Er wollte die Treppen emporsteigen.
 
-Da kam von oben ein von mit einem keinen Sandale
+Da kam von oben ein Herr mit einem keinen Handkoffer
 herab,
 
 <@pagebreak/>
-Stunde ... blieb stehen, musterte uns voller Mißtrauen,
-ran in die rechte er ich die Hand in der
-Tale, ragte ’ziemlich scharfen Tones;
+Stutzte ... blieb stehen, musterte uns voller Mißtrauen,
+faßte in die rechte Jackentasche, ließ die Hand in der
+Tasche, fragte ziemlich scharfen Tones:
 
-Hören Sie beide hier ins Haus?«
+»Gehören Sie beide hier ins Haus?«
 
-Du Teurer verriet den Musländer, besser, die Ausgange
-verriet
+Das Deutsch verriet den Ausländer, besser, die Aussprache
+verriet’s.
 
-Dasselbe könnte ich Sie fragen,« »ratterte Harald
-nicht Inder schroff, »Wohnen Sie hier?«
+»Dasselbe könnte ich Sie fragen,« erwiderte Harald
+nicht minder schroff. »Wohnen Sie hier?«
 
-er Herr zögerte
+Der Herr zögerte erst.
 
-»3a, Ich wohne hier erklärte er dann,
+»Ja, ich wohne hier,« erklärte er dann,
 
-Harald hatte Wo seine Taschenlampe in der Bin
-ten, Schaltete sie ein, Die Nachibeleuchtuing mußte auch jeden
-Pyrmont Anheben erlöschen,
+Harald hatte plötzlich seine Taschenlampe in der Linken,
+schaltete sie ein. Die Nachtbeleuchtung mußte auch jeden
+Moment wieder erlöschen,
 
-Nun lag der grelle Lichtkegel auf der schlanken je
-ït des bartlosen jungen Mannes dort oben auf dem
-reppenabsay.
+Nun lag der grelle Lichtkegel auf der schlanken Gestalt
+des bartlosen jungen Mannes dort oben auf dem
+Treppenabsatz.
 
-ran Sie Die Hand aus der Tasche — Ahne
-Waffe!« achte Harst kurz, »Auch wir sind vorbereitet, -
+»Nehmen Sie Die Hand aus der Tasche — ohne
+Waffe!« sagte Harst kurz. »Auch wir sind vorbereitet, —
 Schraut — heraus mit der Clement!«
 
-Diese Weisung war überflüssig Ich hatte schon von
-ran die wi herausgeholt, Ich stand mehr im Schädeln
-uns hatte längst geahnt, u der Fremde da oben
-Minen vorbei oder dergleichen in der Tasche umspannt
+Diese Weisung war überflüssig. Ich hatte schon von
+selbst die Pistole herausgeholt. Ich stand mehr im Schatten.
+Ich hatte längst geahnt, daß der Fremde da oben
+einen Revolver oder dergleichen in der Tasche umspannt
+hielt.
 
-Die elektrischen Binnen der Nachtbeleuchtung erloschen
-zum, Nur der weiße Lichtkegel zeigte uns den n,
-dessen Gesicht sich Bläulich stark gerötet hatte, als ob
-neu ihm das Blut zu Kopfe getrieben hätte,
+Die elektrischen Birnen der Nachtbeleuchtung erloschen
+nun. Nur der weiße Lichtkegel zeigte uns den Fremden,
+dessen Gesicht sich plötzlich stark gerötet hatte, als ob
+Erregung ihm das Blut zu Kopfe getrieben hätte,
 
-Sie wohnen nicht hier,« sagte Harald nun, und seine
-Stimme Hang weit weniger drohend und seindselig, Falls
-Sie Herr Sigurd Warne sein sollten, wären wir bereit,
+»Sie wohnen nicht hier,« sagte Harald nun, und seine
+Stimme klang weit weniger drohend und feindselig. »Falls
+Sie Herr Sigurd Barnö sein sollten, wären wir bereit,
 den Portier nicht zu wecken,«
 
 Der Herr war leicht zurückgefahren.
 
-jener sind Sie! meinte er Betet A und
-ug
+»Wer... wer sind Sie?!« meinte er unsicher und
+ängstlich.
 
-»Das ist dich gleichgültig, — Ihrem Deutsch
+»Das ist vorläufig gleichgültig. — Ihrem Deutsch
 <@pagebreak/>
-stach dürsten Sie Schwede sein. Sie sind Sigurd Warne,
-2x drüben in dem schmalen alten Hause wohnt. Sie sind
-ich der alte Bettler, der bin Professor Svendson nächst.
-— Aeußern Sie sich!
+nach dürften Sie Schwede sein. Sie sind Sigurd Barnö,
+der drüben in dem schmalen alten Hause wohnt. Sie sind
+auch der alte Bettler, der dem Professor Svendson nachschlich.
+— Aeußern Sie sich!«
 
-Der Herr hatte die rechte Hand nun auf Bad Gelän-gelegt.
-In der Linken trug er den keinen Handkoffer,
+Der Herr hatte die rechte Hand nun auf das Geländer
+gelegt. In der Linken trug er den keinen Handkoffer,
 
 Und abermals fragte er scheu: »Wer sind Sie?«
 
-»Leute, die ein Recht haben, Sie zur nächsten Wohlgerüche
+»Leute, die ein Recht haben, Sie zur nächsten Polizeiwache
 zu bringen, falls Sie es nicht vorziehen, uns mit
-Ihre Wohnung zu nehmen und uns dort einige Fragen
+in Ihre Wohnung zu nehmen und uns dort einige Fragen
 zu beantworten«
 
-»Also ... Kriminalbeamte ...!« Das klang mehr
-rxgerlich als ängstlich.
+»Also... Kriminalbeamte...!« Das klang mehr
+ärgerlich als ängstlich.
 
 »Wollen Sie oder wollen Sie nicht!« meinte Harst
 wieder energischer.
 
-»Gut — ich bin einverstanden. Ich ... bin Sigurd
-Zange, Ich werde Ihnen erklären, weshalb ich mich verleidet
+»Gut — ich bin einverstanden. Ich... bin Sigurd
+Barnö. Ich werde Ihnen erklären, weshalb ich mich verleidet
 hatte,«
 
 Er kam die Stufen weiter herab.
@@ -692,13 +693,13 @@ Ich schaltete rasch das Nachtlicht wieder ein.
 
 Barnö hatte einen Dietrich, schloß Die Haustür auf
 und ließ uns hinaus, schloß von draußen wieder ab und
-»Weichen wir der Menschenansammlung dort aus.
+sagte: »Weichen wir der Menschenansammlung dort aus.
 Ich möchte nicht, daß ich wie von Beamten eskortiert womöglich
 von einem Bekannten gesehen werde.« —
 
 Wir hatten das schmale alte Haus erreicht.
 
-Hier drehte Warne sich plötzlich um und schaute nach
+Hier drehte Barnö sich plötzlich um und schaute nach
 Nr. 112 hinüber.
 
 Dort waren nur im Hochparterre zwei Fenster hell.
@@ -708,103 +709,102 @@ Mannes ab.
 
 Barnö murmelte etwas Unverständliches und wandte
 sich kurz der Haustür zu, öffnete sie mit einem Schlüssel
-und führte uns Dann im den ersten Sie, wo er ein Zimmer
+und führte uns Dann im den ersten Stock, wo er ein Zimmer
 <@pagebreak/>
 mit Zugang von der Treppe aus aufschloß und eine
 einladende Handbewegung machte.
 
 In dem Zimmer brannte Licht,
 
-»Ji bringe Gäste mit, Getan,« sagte Barnö lau!.
+»Ich bringe Gäste mit, Oskar,« sagte Barnö laut.
 
 Aus einem Klubsessel erhob sich ein blondbärtiger
 Herr und verbeugte sich verwundert vor uns,
 
 Ich mußte mir Mühe geben, meine Ueberraschung zu
-verbergen, denn der blonde Herr war... Der Per Professor
-Sperrten, Der Dieb Des Napoleon aus Da
+verbergen, denn der blonde Herr war... Der falsche Professor
+Svendson, Der Dieb Des Napoleon aus Wachs...!!
 
-<h2>3, Kagpuel,</h2>
+<h2>3, Kapitel,</h2>
 
 <h3>Der erste Schuß.</h3>
 
-Harald war an der Tür sieben geblieben,
+Harald war an der Tür stehen geblieben,
 
-Nachdem auch Warne eingetreten, schloß Harst ab un
+Nachdem auch Barnö eingetreten, schloß Harst ab und
 lehnte sich gegen die Tür
 
-zu meinem Erstaunen veränderte er jetzt seine Sims
-Mine wo sagte heiser und krächzend:
+zu meinem Erstaunen veränderte er jetzt seine Stimme
+und sagte heiser und krächzend:
 
-»Herr Warne, nehmen Sie dort neben Ihrem Freunde
-auf einem Sinkt Platz, Gehorchen Sie!« Und er spielte
-an mißzuversießondev Weise mit seiner Clement
-Pistole,
+»Herr Barnö, nehmen Sie dort neben Ihrem Freunde
+auf einem Stuhl Platz. Gehorchen Sie!« Und er spielte
+in nicht mißzuverstehender Weise mit seiner Clementpistole,
 
-Der Blonde hatte uns und Warne abweebselup gemauert,
+Der Blonde hatte uns und Barnö abwechselnd gemustert.
 
-»Sigurd — ecuwia Polizei?« fragte er nun.
+»Sigurd — etwa Polizei?« fragte er nun.
 
-Barnö zweite die Achseln. »Leiber! Ich habe Pech ge:
-habt,« Und er eure einen Sucht neben den Sessel und
-Deute sich, Der Blonde folgte seinem Beispiel,
+Barnö zweite die Achseln. »Leider! Ich habe Pech gehabt.«
+Und er rückte einen Stuhl neben den Sessel und
+setzte sich. Der Blonde folgte seinem Beispiel,
 
 Harst wandte sich an Sigurd Barnö, der mit großer
-Kühe jetzt dein. Scharnier entgegenzusehen schien, »nützten
+Ruhe jetzt dem Folgenden entgegenzusehen schien. »Würden
 Sie mir der Wahrheit gemäß erklären, weshalb Sie
 vorhin in der Verkleidung des Bettlers hinter Professor
-Svpendfon dreinfehlichen und weshalb Sie diese Verkleidung,
-unter der Sie einen eleganten Straßennamens u,
+Svendson dreinschlichen und weshalb Sie diese Verkleidung,
+unter der Sie einen eleganten Straßenanzug trugen,
 <@pagebreak/>
-im Safe Nr. 107 ablegten und und den fraglos zufammen-ffappbaren
-Hausiererkasten in. den Handkoffer taten, der
-die dahin in dem Asien steckten« sagte Harald abermals
+im Hause Nr. 107 ablegten und den fraglos zusammenklappbaren
+Hausiererkasten in den Handkoffer taten, der
+bis dahin in dem Kasten steckte?« sagte Harald abermals
 mit verstellter Stimme.
 
-Warne, dessen offenes Gesicht mit den ebenso ehrlichen
--graitblauen Augen von dem Lichte der elektrischen Krone
-voll getroffen würde, erwiderte ohne Zögern: »Weil ich
+Barnö, dessen offenes Gesicht mit den ebenso ehrlichen
+graublauen Augen von dem Lichte der elektrischen Krone
+voll getroffen wurde, erwiderte ohne Zögern: »Weil ich
 Herrn Professor Svendson schützen wollte.«
 
-»Vor Wein? Wovon?«
+»Vor wem? Wovon?«
 
-»Rot... Mordanjchlägen eines Unbekannten.«
+»Vor... Mordanschlägen eines Unbekannten.«
 
 »Würden Sie sich hierüber vielleicht genauer aussprechen,
-Herr Warne?«
+Herr Barnö?«
 
-»Gewiß, Sobald ich Ihre und Jahres Begleiters Legitimationen
-gesehen haben werde.« Er wurde leicht Front,
+»Gewiß. Sobald ich Ihre und Ihres Begleiters Legitimationen
+gesehen haben werde.« Er wurde leicht ironisch.
 »Kriminalbeamte hätten wohl kaum so viel Rücksicht
 genommen, wie Sie beide es taten, indem Sie hierher
 kamen und mich nicht verhafteten.«
 
-Harald miete. »Sie haben ganz recht, Herr Warne.
+Harald nickte. »Sie haben ganz recht, Herr Barnö.
 Wir sind nicht Beamte, immerhin etwas ähnliches.« Er
-»steckte die Pistole ein. »Ich wollte Sie mir näher kennen
+steckte die Pistole ein. »Ich wollte Sie nur näher kennen
 lernen, Herr Barnö,« fügte er hinzu. »Ich weiß nun,
-was ich von Ihnen zu halten habe, nix wollen unsere
+was ich von Ihnen zu halten habe. Wir wollen unsere
 Unterredung zwangloser fortsetzen. Sie gestatten, daß auch
-wir Sag nehmen.«
+wir Platz nehmen.«
 
 »Bitte sehr!« meinte der schlanke sympathische Schwede
 höflich, aber mit einer gewissen Neugier im Blick.
 
-Wir fegten uns.
+Wir setzten uns.
 
-»Wenn Sie Svendson schützen wollten, Herr Warne,
-den Sie also, daß sein Leben bedroht war oder noch bestrebt
+»Wenn Sie Svendson schützen wollten, Herr Barnö,
+wußten Sie also, daß sein Leben bedroht war oder noch bedroht
 ist,« begann Harst, noch immer die Stimme verstellt.
-»Woher wußten Sie dies? (8 ist da Vorhin alter
-allerdings ah Weit Professor ein Anschlag versucht worden. Die
+»Woher wußten Sie dies? Es ist da Vorhin allerdings
+auf den Professor ein Anschlag versucht worden. Die
 Kugel hat ihm nur die Stirn gestreift. Ich gebe zu, daß
-Sie zunächst für den Attentäter hielt.«
+ich Sie zunächst für den Attentäter hielt.«
 
 »Svendson wäre bereits vor vierzehn Tagen in Stockholm
 beinahe das Opfer eines ähnlichen Anschlags geworden,«
 <@pagebreak/>
-erklärte Sigurd Warne sehr ernst. »Man schoß auf
-ihn, als. er in seinem Laboratorium seiner Villa bei,offenen
+erklärte Sigurd Barnö sehr ernst. »Man schoß auf
+ihn, als er in seinem Laboratorium seiner Villa bei offenem
 Fenster noch spät nachts experimentierte. Ich war
 damals noch sein Assistent und ebenfalls im Laboratorium
 anwesend.«
@@ -814,154 +814,153 @@ hören, Herr Barnö.«
 
 »Hm — mit welchem Recht?«
 
-»Gut — wären Wir die Situation erst vollkommen.
+»Gut — klären wir die Situation erst vollkommen.
 Sie haben sich bisher offenbar gescheut, die Hilfe der Polizei
 in dieser Angelegenheit in Anspruch zu nehmen, Herr
-Warne. Haben Sie sich nicht wenigstens an einen Privatdetektiv
+Barnö. Haben Sie sich nicht wenigstens an einen Privatdetektiv
 gewandt?«
 
 »Allerdings — an den besten, den die Welt kennt, an
 Harald Harst.«
 
-Harald Lackierte. »Sie haben mir einen etwas merkwürdigen
+Harald lächelte. »Sie haben nur einen etwas merkwürdigen
 Weg gewählt, Harst auf den Professor aufmerksam
-zu machen, Herr Warne.«
+zu machen, Herr Barnö.«
 
 Die beiden Schweden fuhren zusammen
 
-»Wie — das wissen Sie?!« rief Warne.
+»Wie — das wissen Sie?!« rief Barnö.
 
-Aber der andere, der Blonpbärtiae, der Halse Zvehb:
-schon, sagte mit einer energischen Handbewegung:
+Aber der andere, der Blondbärtige, der falsche Svendson,
+sagte mit einer energischen Handbewegung:
 
 »Sigurd, der Herr ist eben Harald Harst!«
 
-Warne sprang auf. »Harst — — Herr Satt. Mit!
-li?!«
+Barnö sprang auf. »Harst — — Herr Harst, — wirklich?!«
 
-Der Blonde erhob sich, verbeugte sich. tat, gefror:
-ten Sie, daß ich mich vorstelle, meine Seien: Doktor es
-rar Gulbranson, Bezirksarzt, bester Freund Sigurd Barnös.
+Der Blonde erhob sich, verbeugte sich. »Dann gestatten
+Sie, daß ich mich vorstelle, meine Herren: Doktor Oskar
+Gulbranson, Bezirksarzt, bester Freund Sigurd Barnös.«
 
-Mich wir waren ausgestanden. Gulbranson reichte
+Auch wir waren aufgestanden. Gulbranson reichte
 uns die Hand. »Sie werden nicht nachtragend sein, Herr
-ne - Gerade Sie werden mein Benehmen entschuldigen.
-ir wußten nicht, wie wir Sie für den Fall Svendson
+Harst. Gerade Sie werden mein Benehmen entschuldigen.
+Wir wußten nicht, wie wir Sie für den Fall Svendson
 interessieren sollten.«
 
-Die Aussprache wurde nun sehr lebhaft. So war
-Gut a M daß Haralds Vermutung so zutreffend
+Die Aussprache wurde nun sehr lebhaft. Ich war
+doch etwas verblüfft, daß Haralds Vermutung so zutreffend
 <@pagebreak/>
 gewesen und daß der Besuch Gulbransons bei uns
 lediglich den Zweck gehabt hatte, uns auf Svendson und
-Tochter, besotidersaber auf die Zyankalivergiftung hinzuweisen.
+Tochter, besonders aber auf die Zyankalivergiftung hinzuweisen.
 
 Ich will nun in aller Kürze die recht seltsamen Ereignisse
-in Stockholm und die Hier in Berlin so wiedergeben,
+in Stockholm und die hier in Berlin so wiedergeben,
 wie Barnö sie uns schilderte. —
 
-Am 5. Juli nachts etwa gar 12 Uhr war plôöglich ein
+Am 5. Juli nachts etwa um 12 Uhr war plötzlich ein
 auf einem Wandbrett in Svendsons Laboratorium stehendes
 großes Glasgefäß mit konzentrierter Salzsäure in
-demselben Moment zerplaßt, als Svendson tief gebückt an
+demselben Moment zerplatzt, als Svendson tief gebückt an
 dem Tische unter dem Wandbrett stand. Zum Glück hatte
-er sich. im reiben Moment wieder aufgerichtet, so daß die
-in Eiern Strahlen berabfliehende gefährliche Säure ihm
-nicht Aber Kopf und Genick floß. Anderseits hatte der mit
-anwesende Sigurd Warne insofern Pech, als er gerade eine
+er sich im selben Moment wieder aufgerichtet, so daß die
+in dicken Strahlen herabfließende gefährliche Säure ihm
+nicht über Kopf und Genick floß. Anderseits hatte der mit
+anwesende Sigurd Barnö insofern Pech, als er gerade eine
 lange dünne Eisenstange in der Hand hielt, mit der er
-eines der Dachfenster des Laboratoriums hatte öffnen wolltest.
-Svendson, gegen Warne seit einiger Zeit stark voreingenommen,
-weil er dessen Bemerkung um Ingeborg nicht
+eines der Dachfenster des Laboratoriums hatte öffnen wollen.
+Svendson, gegen Barnö seit einiger Zeit stark voreingenommen,
+weil er dessen Bewerbung um Ingeborg nicht
 billigte und ihm sogar sein Haus verboten hatte, war nun
-fienbar der Meinung, Warne hätte das Glasgefäß mit
+offenbar der Meinung, Barnö hätte das Glasgefäß mit
 der Eisenstange zerschlagen. Ohne jedoch etwas von diesem
 Verdacht zu äußern, schickte er, vor Schreck leichenblaß
 geworden, Barnö mit dem Bemerken davon, daß er auf
-ohne ferneren Dienste verzichte: Warne suchte sich noch zu
+seine ferneren Dienste verzichte: Barnö suchte sich noch zu
 verteidigen, indem er darauf hindeutete, daß er ganz deutlich
-das Pfeifen einer Kugel gehört hätte, die von drau-hereingekfommen
-sei — durch das offene - Fenster.
-benutzen hatte ihn jedoch in seiner Erregung grob angeben,
-und Warne zog es unter diesen Umständen vor, das
-15 zu entrinnen, Er rate so Tanks is Balaton am
-hissen Tage beraten, der ihm erklärte, Barnö solle sich
-Dr an die Polizei wenden, da er ja zugeben müsse, fesch
-Mr gehört zu haben, der ne nur aus einem der
+das Pfeifen einer Kugel gehört hätte, die von draußen
+hereingekommen sei — durch das offene Fenster.
+Svendson hatte ihn jedoch in seiner Erregung grob angefahren,
+und Barnö zog es unter diesen Umständen vor, das
+Feld zu räumen. Er hatte sich dann mit Gulbranson am
+nächsten Tage beraten, der ihm erklärte, Barnö solle sich
+nicht an die Polizei wenden, da er ja zugeben müsse, keinen
+Schuß gehört zu haben, der doch nur aus einem der
 <@pagebreak/>
-Bäume des Svendsonscen Gartens hätte abgegeben sein
+Bäume des Svendsonschen Gartens hätte abgegeben sein
 können. —
 
 Nachdem Barnöò uns dies mitgeteilt hatte, fragte Harald
-ihn? »Sie hegen gegen eine bestimute Person Verdacht,
+ihn: »Sie hegen gegen eine bestimmte Person Verdacht,
 die Kugel abgefeuert zu haben?«
 
 Barnö bejahte zögernd. Es sei da vor anderthalb
 Monaten in Stockholm ein Amerikaner namens Burton
-aufgéschaucht, ein Ingenieur, der mit Svendson geschäftliche
+aufgetaucht, ein Ingenieur, der mit Svendson geschäftliche
 Beziehungen angeknüpft und dann sehr viel im Hause des
 Professors verkehrt habe, wo er Ingeborg ganz unverletzten
 den Hof machte, begünstigt durch deren Vater, dem der
 schwerreiche Bewerber (Burton war Chefingenieur einer
-Großen Fabrik) insofern recht genehm gewesen, als des
-rosessors Experimente und Erfindungen viel Geld verschlangen,
-ohne bisher einen Außen abgeworfen zu haben,
+großen Fabrik) insofern recht genehm gewesen, als des
+Professors Experimente und Erfindungen viel Geld verschlangen,
+ohne bisher einen Nutzen abgeworfen zu haben,
 
-Stichhaltige Gründe für diesen Verdacht hatte Warne
-nicht gehabt. E38 war mehr Gefühlssache gewesen, die
-ihn veranlaßte, insgeheim mit Doktor Gulbransons an
-terstüßung nachzuforschen, ob Burton in der Nacht vom Hh.
-zum 6. Juli daheim gewesen, Sie ermittelten, daß er erst
-gegen ein Uhr nach Hause gekommen war, ermittelten wer
-ler, daß ein Nachtwächter einen Mann gegen 12 Uhr in
+Stichhaltige Gründe für diesen Verdacht hatte Barnö
+nicht gehabt. Es war mehr Gefühlssache gewesen, die
+ihn veranlaßte, insgeheim mit Doktor Gulbransons
+Unterstützung nachzuforschen, ob Burton in der Nacht vom 5.
+zum 6. Juli daheim gewesen. Sie ermittelten, daß er erst
+gegen ein Uhr nach Hause gekommen war, ermittelten weiter,
+daß ein Nachtwächter einen Mann gegen 12 Uhr in
 jener Nacht über den Zaun der Svendson’schen Villa hatte
 steigen sehen und auch angerufen hatte, stellten schließlich
-auch fest, daß jemand eine Buche, die vor dem Laboratori-umsfenster
+auch fest, daß jemand eine Buche, die vor dem Laboratoriumsfenster
 stand, erklettert haben mußte. — Ueber diesen
-Nachforschungen waren Tage vergangen. Svendsons na
-Burton waren inzwischen nach Berlin gereist. Warne und
+Nachforschungen waren Tage vergangen. Svendsons und
+Burton waren inzwischen nach Berlin gereist. Barnö und
 Gulbranson folgten ihnen. Die beiden Freunde wollten
 in aller Stille weiteres Material gegen Burton sammeln
-na zum vernichtenden Schlage gegen den Amerikaner
+und dann zum vernichtenden Schlage gegen den Amerikaner
 ausholen.
 
 In Berlin ereignete sich dann jedoch nichts, was Barnös
-und Gulbransons Ermittlungen auch mir einen Schritt
-weitergebracht hätte. Trotzdem ließen sie nicht nach, Bar
-Ton und den Professor zu beobachten, die ständig miteinander
+und Gulbransons Ermittlungen auch nur einen Schritt
+weitergebracht hätte. Trotzdem ließen sie nicht nach, Burton
+und den Professor zu beobachten, die ständig miteinander
 <@pagebreak/>
-verfehlten. Die Freunde hatten hier im Hause Nr.
-204 gegenüber Dr, 112 zwei möblierte Zimmer gemietet,
-während Burton drüben im Nr. 112 im Hochparterre ein
-Zimmer, ebenfalls mit Flureingang, bewohnte, tun der
+verkehrten. Die Freunde hatten hier im Hause Nr.
+204 gegenüber Nr. 112 zwei möblierte Zimmer gemietet,
+während Burton drüben in Nr. 112 im Hochparterre ein
+Zimmer, ebenfalls mit Flureingang, bewohnte. In der
 verflossenen Nacht war er bis gegen halb zwölf bei Svendsons
 im Pensionat Börmer gewesen, hatte dann vor dem
-Hause auf der anderen Straßenseite sich in eine Chronische
-gestellt, stets betrauert von Sigurd Warne, der sich Eckchen seit
+Hause auf der anderen Straßenseite sich in eine Türnische
+gestellt, stets belauert von Sigurd Barnö, der sich schon seit
 Tagen der Bettlermaske bedient hatte, um unerkannt zu
-bleiben. So sah Barnòö dann auch, wie der Professor nach
+bleiben. So sah Barnö dann auch, wie der Professor nach
 der Apotheke eilte, wie Burton ihm folgte und nachher
-heimging. Barnö wieder, von Angst um Ingeborg Segel(-
-teil, die doch offenbar erkrankt war, konnte kaum den Morgen
+heimging. Barnö wieder, von Angst um Ingeborg gefoltert,
+die doch offenbar erkrankt war, konnte kaum den Morgen
 erwarten, um dann irgendwie festzustellen, ob der Geliebten
 Zustand bedenklich sei. Er begab sich in die Apotheke,
 stellte sich als Bekannter Svendsons vor und verstand
 es, dem Apotheker zu entlocken, welche Medikamente
-der Professor geholt hatte, Ebenso faßte er dann eines der
+der Professor geholt hatte. Ebenso faßte er dann eines der
 Stubenmädchen des Pensionats Börmer ab und hörte von
 ihr, daß tatsächlich Ingeborg die Kranke sei. Da er sehr
 wohl wußte, daß Svendsons seinen Hund besaßen, der
 durch Zyankali vergiftet sein konnte, wie der Apotheker ihm
-raten, steigerte sich seine Angst um Die Geliebte so sehr,
+verraten, steigerte sich seine Angst um Die Geliebte so sehr,
 daß er zu dem Entschluß kam, Gulbranson als Svendson
-zu uns zu schielen und Durch uns, ohne selbst hervorzutreten,
-die Crmittifsungen über Angelangt Erkrankung durch:
-führen zu lassen. —
+zu uns zu schicken und Durch uns, ohne selbst hervorzutreten,
+die Ermittlungen über Ingeborgs Erkrankung durchführen
+zu lassen. —
 
-Als Barnö so weit, gekommen, warf Harald lächelnd
-n; »Und um mein Interesse noch stärker zu wecken, tätschelte
-dann das Schreiben an meine Mutter und holten
-Napoleon.. »1»
+Als Barnö so weit gekommen, warf Harald lächelnd
+ein: »Und um mein Interesse noch stärker zu wecken, fälschten
+Sie dann das Schreiben an meine Mutter und holten
+den Napoleon...!«
 
 <@pagebreak/>
 
@@ -969,309 +968,309 @@ Napoleon.. »1»
 
 <h3>Fassadenkletterer.</h3>
 
-Ich werde nie die unendlich verblüfften Gesichter zur
-branfous und Barnös vergessen, die sie zu dieser Beinen«
-Häufung Haralds machten.
+Ich werde nie die unendlich verblüfften Gesichter Gulbransons
+und Barnös vergessen, die sie zu dieser Bemerkung
+Haralds machten.
 
-»Napoleon?!« rief Warne. »Ein Schreiben gefälscht?«
+»Napoleon?!« rief Barnö. »Ein Schreiben gefälscht?«
 
-sind Gulbranson meinte: »Sie scherzen wohl nur,
-erhält! Wir willen nichts von einem Napoleon, gar
-Ww
+Und Gulbranson meinte: »Sie scherzen wohl nur,
+Herr Harst! Wir wissen nichts von einem Napoleon, gar
+nichts!«
 
 Das war von den beiden nicht etwa Spiegelfechterei.
 Das war ehrlich — ehrlich bis zu Barnös zweitem temperamentvollen
 Ausruf: »Teufel noch mal — glaubten
 Sie etwa, wir seien Spitzbuben, Herr Harst! Nein —
 wenn ich auch aus Liebe zu Ingeborg, von der ich mich,
-ohne freilich ihr lauert zu besitzen, miebergelicht weiß,
+ohne freilich ihr Jawort zu besitzen, wiedergeliebt weiß,
 schon mancherlei getan habe, was ein wenig exzentrisch für
-»einen braven Chemiker ist — so zum Beispiel die Verkleidung
-als Bettler....«
+einen braven Chemiker ist — so zum Beispiel die Verkleidung
+als Bettler...«
 
-die übrigens tadellos gelungen war,« schaltete
-Harst« ein .— »Beruhigen Sie sich, meine Herren...
-Ich sehe, ich war auf dem Holzwege. Den Nagpolcon stahl
-ein anderer, der ich als Doktor Gulbranson herausgeputzt
+»... die übrigens tadellos gelungen war,« schaltete
+Harst ein... — »Beruhigen Sie sich, meine Herren...
+Ich sehe, ich war auf dem Holzwege. Den Napoleon stahl
+ein anderer, der sich als Doktor Gulbranson herausgeputzt
 hatte und daher gewußt haben muß, daß Sie, Herr Doktor,
 als Svendson bei mir waren. Der Verdacht liegt nahe,
-daß es Burton war
+daß es Burton war.«
 
 Da schüttelte Sigurd Barnö energisch den Kopf.
 
 »Herr Harst, ich möchte alles, was ich zu Verdächtigungen
 gegen den Amerikaner ausgesprochen habe, zurücknehmen.
-Gestatten Sie rasch ein paar Bemerkungen, Sie
-sahen, daß ich heute hinter Svendson als Bettler her schlich.
+Gestatten Sie rasch ein paar Bemerkungen. Sie
+sahen, daß ich heute hinter Svendson als Bettler herschlich.
 Und ich ich sah, daß man aus dem durch die Augsburger
 Straße rasenden geschlossenen Auto auf Svendson schoß.
-Ich sah ein Stück des Piftolenlaufes
+Ich sah ein Stück des Pistolenlaufes...«
 
-»Halt — hörten Sie denn einen Saal?«
+»Halt — hörten Sie denn einen Knall?«
 
 <@pagebreak/>
 »Nein, Genau so wenig wie damals in der Nacht
 in Stockholm.«
 
-»am — war der Pistolenlauf dünn?«
+»Hm — war der Pistolenlauf dünn?«
 
-»Ja, Ich schätze von der Stärke eines Fingers,«
+»Ja. Ich schätze von der Stärke eines Fingers,«
 
-»Es war bestimmt der Lauf einer Waffen«
+»Es war bestimmt der Lauf einer Waffe?«
 
-»Ja, Bestimmt,«
+»Ja. Bestimmt,«
 
 »Und Sie meinen, Burton hat den Schuß nicht abgegeben?«
 
-»Mein, Denn er bat in seinem Zimmer am Schreibtisch
-gesessen, Er saß noch da, als mir drei das Haus
+»Nein. Denn er hat in seinem Zimmer am Schreibtisch
+gesessen. Er saß noch da, als wir drei das Haus
 hier betraten.«
 
-»Dann kann er einen Meuchelmörder gelungen haben,
-Herr Harald,«
+»Dann kann er einen Meuchelmörder gedungen haben,
+Herr Barnö,«
 
-»Auusgeschlossen, Herr Harst. Er verkehrt nur mit
+»Ausgeschlossen, Herr Harst. Er verkehrt nur mit
 Svendsons, sonst mit niemandem. Auch in Stockholm lebte
-»er ganz für sich allein, Ich kenne Burton ja persönlich, Ein
+er ganz für sich allein. Ich kenne Burton ja persönlich. Ein
 Angstvoller, kaltblütiger, jedes Wort, jede Bewegung vorher
-prüfenden Mann gibt sich nicht mit Leuten ab, die ihn
-nachher auspressen könnten, Ich betonte ja schon: mein
+prüfender Mann gibt sich nicht mit Leuten ab, die ihn
+nachher auspressen könnten. Ich betonte ja schon: mein
 ganzer Verdacht gegen Burton entsprang meiner Eifersucht,
-war Gefühlssache, Wenn Sie mich fragen würden,
+war Gefühlssache. Wenn Sie mich fragen würden,
 weshalb Burton den Professor oder Ingeborg beseitigen
 will, müßte ich kläglich bekennen: »Ich weiß es nicht, habe
-dieser Beziehung auch nicht die leiseste Vermutung.« —
+in dieser Beziehung auch nicht die leiseste Vermutung.« —
 Weshalb sollte Burton auch bei Ihnen in Gulbransons
-Maske als Svendson erschienen sein, als Sie abwesend wagen,
+Maske als Svendson erschienen sein, als Sie abwesend waren,
 und den Napoleon mitgenommen haben?!«
 
-Harald hatte mit zerstreuter Handbewegung sein Zig
-aretienetui hervorgeholt, sich eine Mirakulum angezün-war
-aufgestanden, hatte den Vorhang etwas zurüd-Ichlagen
-und sagte nach einer Weile;
+Harald hatte mit zerstreuter Handbewegung sein Zigarettenetui
+hervorgeholt, sich eine Mirakulum angezündet,
+war aufgestanden, hatte den Vorhang etwas zurückgeschlagen
+und sagte nach einer Weile:
 
 »Burton steht jetzt gerade vom Schreibtisch auf.«
 
 Dann kam er wieder zu uns zurück und setze sich.
 
-»Wäre es nicht möglich, Herr Warne, daß Burton so -
-»schlau gewesen ist, einen anderen Mann den Platz an Herum
+»Wäre es nicht möglich, Herr Barnö, daß Burton so
+schlau gewesen ist, einen anderen Mann den Platz an seinem
 Schreibtisch einnehmen zu lassen, damit er sozusagen
 <@pagebreak/>
-für sich selbst ein Alibi hätte Er weiß doch, sicher, daß Sie
+für sich selbst ein Alibi hätte. Er weiß doch sicher, daß Sie
 und Ihr Freund hier ihm gegenüber wohnen, daß Sie ihn
-beobachten, Jedenfalls weiß Svendson, daß Sie in Berlin
+beobachten. Jedenfalls weiß Svendson, daß Sie in Berlin
 sind. Wir haben Svendson und seine Tochter belauscht.«
 
-»Ein anderer Mann?! Ein Stellvercreter?! Ausge-ishlofien,
-wnöglich! Burton bat ein so charafteriftiiches
-Profil, daß
+»Ein anderer Mann?! Ein Stellvertreter?! Ausgeschlossen,
+unmöglich! Burton hat ein so charakteristisches
+Profil, daß...«
 
 »Schon gut. Es war ja nur so eine Vermutung von
-mir,« Und Harst rauchte die Zigarette schweigend zu Ende,
-»nahm eine neue, sann vor sich By
+mir.« Und Harst rauchte die Zigarette schweigend zu Ende,
+nahm eine neue, sann vor sich hin...
 
 Sagte unvermittelt: »Sie beide werden nun genau so
 weiterleben wie bisher, werden also Burton und Svendson
-wie bisher  Ihre Aufmerksamkeit widmen, Schraut
-und ich erledigen das Uebrige, Es muß zunächst mal festgestellt
+wie bisher Ihre Aufmerksamkeit widmen. Schraut
+und ich erledigen das Uebrige. Es muß zunächst mal festgestellt
 werden, weshalb man Svendson nach dem Leben
-trachtet. Alles andere findet sich dann ganz von selbst, Wir
-werden uns nun verabschieden, meine Herren, Sie hören
-von uns, falls es nötig ist, Sollten Sie etwas Neues
+trachtet. Alles andere findet sich dann ganz von selbst. Wir
+werden uns nun verabschieden, meine Herren. Sie hören
+von uns, falls es nötig ist. Sollten Sie etwas Neues
 ermitteln, so schicken Sie mir einen Rohrpostbrief.« —
 
 Wir gingen zur nächsten Polizeiwache. Harst legitimierte
-sich, Wir erfuhren, daß der Streifschuß an der Stirn
+sich. Wir erfuhren, daß der Streifschuß an der Stirn
 Svendsons nur ganz leicht gewesen und daß der Professor
-sofort in das Pensionat zurückgekehrt sei, Hauptsächlich der
-Schreck habe ihn wohl in die Knie geworfen, Im übrigen
-hätten zwei Herren, Die den Professor aufhoben, Zerlumpter,
-der Schuß sei aus einem Mute abgefeuert worden,
-per sie hätten beobachtet, Daß ein blondbärtiger Mann
+sofort in das Pensionat zurückgekehrt sei. Hauptsächlich der
+Schreck habe ihn wohl in die Knie geworfen. Im übrigen
+hätten zwei Herren, Die den Professor aufhoben, bekundet,
+der Schuß sei aus einem Auto abgefeuert worden,
+denn sie hätten beobachtet, Daß ein blondbärtiger Mann
 sich zum Autofenster hinausbeugte und nach Dem in die
-Sie Gesunkenen zurückblickte, Leider hatten sie aber
-über den Klarmachen nichts Näheres angeben können, auch«
+Knie Gesunkenen zurückblickte. Leider hatten sie aber
+über den Kraftwagen nichts Näheres angeben können, auch
 nicht die Nummer, deren Lampe nicht gebrannt hätte.
 
-Harst bedankte sich für die Auskunft und bat dringen,
+Harst bedankte sich für die Auskunft und bat dringend,
 ja nicht an die Oeffentlichkeit gelangen zu lassen, daß
 er sich hier erkundigt hätte, —
 
 Wir fuhren mit einer der letzten Straßenbahnen nach
-der Foachimsthaler und waren gegen halb zwei morgens
+der Joachimsthaler und waren gegen halb zwei morgens
 <@pagebreak/>
-in Haralds Zimmer Nr. 9, - - Harst blieb still und schweigsam,
-eile mich alt Bei! und meinte nur, morgen früh
+in Haralds Zimmer Nr. 9. — Harst blieb still und schweigsam,
+schickte mich zu Bett und meinte nur, morgen früh
 würden wir Svendson »ins Gebet nehmen«.
 
 Vormittags gegen neun Uhr saßen wir in Haralds
-»Zimmer beim Frühstück. Wir hatten die Tür nach dem
+Zimmer beim Frühstück. Wir hatten die Tür nach dem
 Flur nur angelehnt. Als wir hörten, daß Svendson den
-An betrat, eilte Harst hinaus und brachte den Professor
-Mit
+Flur betrat, eilte Harst hinaus und brachte den Professor
+Mit.
 
-Grenzen trug nur ein Heftpflaster an der linken
-Stirnseite. | Er sah aber recht angegriffen aus und zeigte
-sich anfänglich so mißtrauisch, daß er an der Tür flehen
+Svendson trug nur ein Heftpflaster an der linken
+Stirnseite. Er sah aber recht angegriffen aus und zeigte
+sich anfänglich so mißtrauisch, daß er an der Tür stehen
 blieb und erst Platz nahm, als Harald die Maske fallen
 ließ und leise erklärte:
 
 »Ich bin Harald Harst, Herr Professor. Dort mein
-Freund Schraut ...«
+Freund Schraut...«
 
-Svendson wurde sichtlich verlegen, setzte sich aber Könntet
+Svendson wurde sichtlich verlegen, setzte sich aber zögernd
 und beantwortete ebenso zögernd Haralds Fragen.
 unsere Einmischung war ihm sichtlich unangenehm. Als
-Irrt ihm auf den Kopf zusagte, daß jemand Fräulein
+Harst ihm auf den Kopf zusagte, daß jemand Fräulein
 Ingeborg zu vergiften versucht habe, wollte er zunächst
-alles Ableugnen. Schließlich meinte er, Ingeborg habe
+alles ableugnen. Schließlich meinte er, Ingeborg habe
 zwar feierlich versichert, es handele sich um keinen
-elbslutordversuch, er glaube ihr jedoch nicht, denn — »wer
+Selbstmordversuch, er glaube ihr jedoch nicht, denn — »wer
 sollte ein Interesse daran haben, meine Tochter zu beseitigen,
-Herr Harst 21»
+Herr Harst?!«
 
-»Hm — und die Attezrtate auf Sie selbst?!» erklärte
-Stall mit Nachdruck. Zuerst das in Stockholm, dann in
-Der vergangenen Nacht ...
+»Hm — und die Attentate auf Sie selbst?!« erklärte
+Harald mit Nachdruck. »Zuerst das in Stockholm, dann in
+Der vergangenen Nacht...«
 
 »Stockholm!« rief Svendson ärgerlich dazwischen. »Ich
-schon, wer mir nach dem Leben trachtet, um dann
-lockern heiraten zu können! Ich werde den nur
-wo nicht hatte schonen! ja Mit.
+weiß schon, wer mir nach dem Leben trachtet, um dann
+Ingeborg heiraten zu können! Ich werde den Burschen
+jetzt nicht mehr schonen! Es ist...«
 
-jedenfalls nicht Sigurd Warne!« fiel Harst ihm
-»Niemals ist es Warne! Ich warne Sie, vorgeht
-ihn zu! denunzieren. im Gegenteil, Warne hat Sie
-Leer Der Attentäter und — James Burton!«
+»... jedenfalls nicht Sigurd Barnö!« fiel Harst ihm
+ins Wort. »Niemals ist es Barnö! Ich warne Sie, vorschnell
+ihn zu denunzieren. im Gegenteil, Barnö hat Sie
+zu schützen gesucht. Der Attentäter ist — James Burton!«
 
 <@pagebreak/>
-Auch mir kam diese Behauptung etwas Überräfchenn.
+Auch mir kam diese Behauptung etwas überraschend.
 — Der Professor lächelte überlegen. »Sie mögen ja in
-Ihrem Fach eine Berühmtheit sein, Herr Hat!,« fischte er
-eisig. »Aber in diesem Falle
+Ihrem Fach eine Berühmtheit sein, Herr Harst!,« sagte er
+eisig. »Aber in diesem Falle...«
 
 »... habe ich ebenfalls recht,« vollendete Harald den
-Sah mit einer Schroffheit, die fast beleidigend war. »der
-lehrte sind noch nie gute Menschenkenner gewesen, noch
+Satz mit einer Schroffheit, die fast beleidigend war.
+»Gelehrte sind noch nie gute Menschenkenner gewesen, noch
 nie, Herr Professor. Sie sind, wie ich gestern schon daheim
-aus Fachzeitschriften ersah, seit Jahren bemüht, einen Ak-fumulator,
+aus Fachzeitschriften ersah, seit Jahren bemüht, einen Akkumulator,
 einen elektrischen Umformer, von möglichst geringem
 Gewicht und möglichst großer Energie zu konstruieren.
-Vielleicht haben Sie jetzt diese Ausgabe gelöst und
+Vielleicht haben Sie jetzt diese Aufgabe gelöst und
 wollen das Patent an Burton verkaufen. Oder besser:
 vielleicht haben Sie bereits mit ihm einen Vertrag abgeschlossen,
 der ihm Ihre Erfindung sichert; vielleicht enthält
-der Vertrag auch Bestimmungen dieserhalb Wir den Fall
-Ihres Todes. Möglich, daß Burton sogar gern Anzah-lungen
+der Vertrag auch Bestimmungen dieserhalb für den Fall
+Ihres Todes. Möglich, daß Burton sogar schon Anzahlungen
 geleistet hat und daß, wenn Sie und Ihre Tochter
-grünlich sterben, ihm die Erfindung für ein Bulterbröt zufällt.
+plötzlich sterben, ihm die Erfindung für ein Butterbrot zufällt.
 Ich denke, wenn das alles zutrifft, hätte Burton
-wohl das allergrößte Interesse Sie und Fräulein Auge
+wohl das allergrößte Interesse Sie und Fräulein
 Ingeborg rascher ins Jenseits...«
 
 Professor Svendson war sehr blaß geworden. in
-seinem Gesicht leuchtete gleichzeitig etwas wie eine sähe Erkenntnis
-auf, die ihn aus schwerste erschütterte. Er uns
+seinem Gesicht leuchtete gleichzeitig etwas wie eine jähe Erkenntnis
+auf, die ihn auf’s schwerste erschütterte. Er
 unterbrach Harst, indem er wie beschwörend die Hand gegen
-ihn auöftrecte und murmelte: »Mein Gott — sind das
-alles breiteste nur Kombinationen, Herr Harst?! Kann
-denn ein Mensch so ... so folgerichtine Schlüsse aus windiger
+ihn ausstreckte und murmelte: »Mein Gott — sind das
+alles Ihrerseits nur Kombinationen, Herr Harst?! Kann
+denn ein Mensch so... so folgerichtige Schlüsse aus winzigen
 Kleinigkeiten ziehen?!«
 
 »Also stimmen diese Kombinationen?«
 
-»Ja — — ja, sie stimmen in allem!« Man merke,
+»Ja — — ja, sie stimmen in allem!« Man merkte,
 wie das Mißtrauen gegen Burton immer mehr Raum in
 des Gelehrten weltfremder Seele gewann, wie er noch dagegen
-kämpfte, sich dem Einfluß dieses Burton zu Fittichen,
-der ihn offenbar so höllta für sich eingenommen ballte,
+kämpfte, sich dem Einfluß dieses Burton zu entziehen,
+der ihn offenbar so völlig für sich eingenommen hatte,
 <@pagebreak/>
-daß Sperling ach nicht im entferntesten die Vermutung
-gehabt hatte, es mit einer verbrecherischen Natur von deuteten
+daß Svendson auch nicht im entferntesten die Vermutung
+gehabt hatte, es mit einer verbrecherischen Natur von teuflischer
 Rücksichtslosigkeit zu tun zu haben,
 
-»Hat Burton den Vertrag als Chefingenieur der ame-kanischen
-Fabrik mit Fluren abgeschlossen oder als Privatmann?«
+»Hat Burton den Vertrag als Chefingenieur der amerikanischen
+Fabrik mit Ihnen abgeschlossen oder als Privatmann?«
 fragte Harald nun.
 
-»Als Privarnanı. Er ist ja gar nicht mehr Chef-genieur.
+»Als Privatmann. Er ist ja gar nicht mehr Chefigenieur.
 Er wollte eine eigene Fabrik gründen.« Das
-Sitz schon sehr kleinlaut.
+klang schon sehr kleinlaut.
 
-Jedenfalls genügte dann eine Aussprache von weiten.
-fünfzehn Minuten, Svendson vollkommen uinzustim-«
-en. Er hatte tatfählihh für den Fall seines Todes seine
+Jedenfalls genügte dann eine Aussprache von weiteren
+fünfzehn Minuten, Svendson vollkommen umzustimmen.
+Er hatte tatsächlich für den Fall seines Todes seine
 Anrechte an das Patent auf Ingeborg übertragen und,
 falls diese stürbe, Burton zum Erben der Patentrechte eingesetzt.
 Er gab auch zu, daß Burton diese Formulierung
-$ Vertrages verlangt habe, um »sicher zu gehen«. —
+des Vertrages verlangt habe, um »sicher zu gehen«. —
 
-Dann waren Zeit beide wieder allein.
+Dann waren wir beide wieder allein.
 
-»Es dürfte nicht einsah sein, den Schurken zu übereilen,«
-meinte Harald nachdenklich, »bis zum Abend
-Essen mir einen Plan fertig haben. Burton wird nach
-gestrigen abermals mißglückten Attentat nicht zögern,
-nen neuen Streich zu ersinnen. Svendson und Ingeborg
-seinen Augenblick ihres Lebens sicher.« —
+»Es dürfte nicht einfach sein, den Schurken zu überführen,«
+meinte Harald nachdenklich. »bis zum Abend
+müssen wir einen Plan fertig haben. Burton wird nach
+dem gestrigen abermals mißglückten Attentat nicht zögern,
+einen neuen Streich zu ersinnen. Svendson und Ingeborg
+sind keinen Augenblick ihres Lebens sicher.« —
 
 Der Tag verging ohne erwähnenswerte Vorgänge.
-Um zehn Uhr abends waren wir daheim in der Blücher-aße
-und raffinierten uns vollständig um. Gegen elf
-begann es zu regnen, Fieber Berlin setzte ein wilder
-Tamburin hinweg, der manchen Dachziegel herabwarf. Die
-Straßen waren um Mitternacht wie ausgefegt. So kommst
-zwei Der ausschauende Gestalten mit
-übrigen Sportuithen auf dem Kopf ganz ungestört in
-Haus Nr. 112 eindringen Und aufs) das Glurseniler
-Hochparterres auf einen Sims entlang bis zu Burx-Zimmerfenster
-vordringen.
+Um zehn Uhr abends waren wir daheim in der Blücherstraße
+und kostümierten uns vollständig um. Gegen elf
+Uhr begann es zu regnen. Ueber Berlin fegte ein wilder
+Sturm hinweg, der manchen Dachziegel herabwarf. Die
+Straßen waren um Mitternacht wie ausgefegt. So konnten
+denn zwei fragwürdig ausschauende Gestalten mit
+schmierigen Sportmützen auf dem Kopf ganz ungestört in
+das Haus Nr. 112 eindringen Und durch das Flurfenster
+des Hochparterres auf einen Sims entlang bis zu Burtons
+Zimmerfenster vordringen.
 
-Tiefe Sportübung als Fassadenkletterer stellte an meine
-gliche Gewandtheit recht hohe Ansprüche. Ich war
+Diese Sportübung als Fassadenkletterer stellte an meine
+körperliche Gewandtheit recht hohe Ansprüche. Ich war
 <@pagebreak/>
-froh, als Harst endlich das eine Fenster geöffnet hätte und
-wir in das Zimmer einsteigen konnten, Daß Burton nicht
+froh, als Harst endlich das eine Fenster geöffnet hatte und
+wir in das Zimmer einsteigen konnten. Daß Burton nicht
 daheim war, wußten wir.
 
-Während Harald nun das Zimmer rurchsuchte, mußte
+Während Harald nun das Zimmer durchsuchte, mußte
 ich vom Fenster aus die Straße beobachten. Weshalb wir
 hier eingedrungen waren, begriff ich nicht recht. Aber —
-wieder einmal zeigte sich nun die geradezu glänzende Tat
-antik Harsts in bestem Lichte sogar in doppelter Bedeutung
+wieder einmal zeigte sich nun die geradezu glänzende Taktik
+Harsts in bestem Lichte — sogar in doppelter Bedeutung
 des Wortes!
 
-Zehn Minuten mochten vergangen sein, aha ich einen
-Herrn im langen Gummimantel Bunten die Haustür drinnen
-sah. Ich trat rasch vom Fenster zurüc.
+Zehn Minuten mochten vergangen sein, als ich einen
+Herrn im langen Gummimantel unten die Haustür öffnen
+sah. Ich trat rasch vom Fenster zurück.
 
 »Harald — er kommt! Verschwinden wir!« warnte
 ich.
 
-»Im Gegenteil — wir bleiben!« Und — - - das Licht
-seiner »ein Gegenteil fiel auf Burtons geöffneten Waffen
-auf den Kopf und Die Arme ... witterst nachsetzten Napoleon!!
+»Im Gegenteil — wir bleiben!« Und — — das Licht
+seiner Taschenlampe fiel auf Burtons geöffneten Koffer —
+auf den Kopf und Die Arme... unseres wächsernen Napoleon!!
 
-Dann wurde von draußen schon ein Schlüssel ins Tür
-ihren gesteht. Harst zog mich hinter einen Schraut, Behaftete
+Dann wurde von draußen schon ein Schlüssel ins Türschloß
+gesteckt. Harst zog mich hinter einen Schrank, schaltete
 die kleine Lampe aus,
 
 Burton trat ein, knipste das Licht an, riegelte die Tür
-zu, drehte sich um, sah den erbrochenen starrer, Die durchwühlten
-Schubladen
+zu, drehte sich um, sah den erbrochenen Koffer, Die durchwühlten
+Schubladen...
 
-Da Branche Harald mich geringere
+Da drängte Harald mich vorwärts...
 
 Burton sprang zurück, hatte nach der Tasche greifen
-wollen.
+wollen...
 
-Harst zischte — zielte auf den schschlaukei, festlichen
+Harst zischte — zielte auf den schlanken, stattlichen
 Mann, dessen brutales Gesicht nicht den geringsten Ausdruck
-von Schreck auswies:
+von Schreck aufwies:
 
-»Hände Hoch! Sonst knallt’s! Wir haben hier nichts
-gestohlen. Lassen Sie uns frei, — Schlägen Sie seinen
+»Hände hoch! Sonst knallt’s! Wir haben hier nichts
+gestohlen. Lassen Sie uns frei, — schlagen Sie keinen
 Lärm!«
 
 Burton musterte uns kühl, er hielt uns fraglos für
@@ -1279,45 +1278,45 @@ gewerbsmäßige Einbrecher.
 
 <@pagebreak/>
 Dann glitt sein Blick zu dem Wachskopf des Napoleon
-hin, kehrte zu Harst zurück
+hin, kehrte zu Harst zurück...
 
-»Endloser Eure Taschen,« meinte er. »Wenn ihr
-nichts« eingesteckt hab!, schert Euch zum Teufel! Ab mag
+»Entleert Eure Taschen,« meinte er. »Wenn ihr
+nichts eingesteckt habt, schert Euch zum Teufel! Ich mag
 mit der deutschen Polizei keine Plackereien haben,«
 
-Da begriff ich; er wollte deshalb die Polizei aus dem
-nicke lassen, weil die »Einbrecher« sonst vielleicht.verraten
-hätten, daß er der Dich der Wachsfigur gewesen! —
-Und Der begriff ich zur halb, Das sollte ich in der soll:
-tagenden Nacht erkennen,
+Da begriff ich: er wollte deshalb die Polizei aus dem
+Spiele lassen, weil die »Einbrecher« sonst vielleicht verraten
+hätten, daß er der Dieb der Wachsfigur gewesen! —
+Und doch begriff ich zur halb. — Das sollte ich in der folgenden
+Nacht erkennen,
 
-Jetzt Tief alles für uns scheinbar sehr glimpflich, ab.
+Jetzt lief alles für uns scheinbar sehr glimpflich ab.
 Da wir ja tatsächlich nichts gestohlen hatten, ließ Burton
 uns in stark verdächtiger Nachsicht zum Hause hinaus, schloß
-is sogar die Haustür auf,, »!! Wir verschwanden schleu-aft
-in von Negenschleiern: eilten heim und lagen genauer
-Uhr wieder in den Beiden der Pension Börmer.
+uns sogar die Haustür auf...!! Wir verschwanden schleunigst
+in den Regenschleiern — eilten heim und lagen gegen
+zwei Uhr wieder in den Betten der Pension Börmer.
 
-»Unser Debut als Fassadenkletterer war ein voller Eilig,«
+»Unser Debut als Fassadenkletterer war ein voller Erfolg,«
 meinte Harst, als wir uns gute Nacht sagten. —
-Du wahren Umfang dieses Aufs lernte ich pyanziga
-rundem kostet Scheunen,
+Den wahren Umfang dieses Erfolges lernte ich zwanzig
+Stunden später kennen.
 
 <h2>5. Kapitel.</h2>
 
 <h3>Der dritte Schuß.</h3>
 
-Anna Zumachen später!
+Zwanzig Stunden später!
 
 Ja — da standen wir beide seit zehn Uhr abends im
-Zimmer Nr, in Svendsons Zimmer, hinter dem dun-rünen
-Vorhang einer altmodischen Kleivereke, Wir
+Zimmer Nr, in Svendsons Zimmer, hinter dem dunkelgrünen
+Vorhang einer altmodischen Kleiderecke, Wir
 faßten, daß Burton für Svendson und Ingeborg Strafenden
 besorgt hatte, daß »er selbst angeblich nachmittags
 Hamburg gereist war, Harald hatte beobachtet, daß
 aus dem Lehrter Bahnhof auch eine Fahrkarte gelöst,
-den Bahnsteig aber wieder verlassen hatte. — Svend-lyaren
-gewarnt, wurden von drei Kriminalbeamten
+den Bahnsteig aber wieder verlassen hatte. — Svendsons
+waren gewarnt, wurden von drei Kriminalbeamten
 <@pagebreak/>
 unauffällig beschützt. Harst nahm an, daß Burton hier im
 Pensionat ein neues Verbrechen versuchen würde, — was
@@ -1492,7 +1491,7 @@ Fenflersims feierten, Vor dem Bette flehend beugte Ich
 mich über die Blume, um zu prüfen, ob dem Duft Aha
 Stattlich nachgeholfen worden sei, Je führte Das Glas
 mit der Nelke an die Nase, wollte ich@on an der Blitze nie
-Lachen, als Ich zwischen den selifsqui violeitblauen Blilteibiläl-tern
+Lachen, als Ich zwischen den selifsqui violettblauen Blilteibiläl-tern
 einen leicht grünlich. sschhlsllernden Tropfen bemerkte,
 der meinen Verdacht erregte, Zunmnerhln hatte 1 doch be
 réitá aus on Nähe etwas von dem Nelkonzift Ginge
@@ -1565,10 +1564,10 @@ na Empsangêszimmer hinüber.
 es brülle vier Uhr morgens, bis wir das Pensionat
 <@pagebreak/>
 verlassen konnten,  sonmmifar Dr, treuer hatte auch nach
-Warne und Gulbranson holen lassen, Wir waren April
+Barnö und Gulbranson holen lassen, Wir waren April
 Fader völligen Ausäföhnmng surren per Professor nd
 [einem schreien Affifteinten geworden Anhang uns dar
-ugenfchein überzeugen können, daß Warne div Ingeborg
+ugenfchein überzeugen können, daß Barnö div Ingeborg
 sich wohl sehr bald als Verlobte empfehlen zwischen, was
 denn ach schon am folgenden Tage geschah.
 
@@ -1588,7 +1587,7 @@ Angabe, empor. Auf der Halenseer Brise blieb Harald
 plötzlich flehen,
 
 Von Südwest, wo etwa der Flugplatz Johannlêial
-Lupe mußte, kam ein grauveißex Benzunvogel ziemliche wie
+Lupe mußte, kam ein grauweißer Benzunvogel ziemliche wie
 Indra Fluges haben, hinter fl& eine seine Vauchsahne
 ziehend.
 
@@ -1600,7 +1599,7 @@ Er war sicher jetzt Minuten tief In Gedanken gewesen.
 
 »Auch einer?!« meinte ich fragend,
 
-»Ja — der bekannte Lusipitot Edward Jolling; ı«
+»Ja — der bekannte Luftpilot Edward Jolling; ı«
 Er sprach noch immer wie Kg
 
 Jolling?! Was warf Dach mit bitten Jolling letztens
@@ -1622,7 +1621,7 @@ vor — ja — vor vielleicht Frei Monaten durch alle Zeitungen
 gegangen?!
 
 Und dann erinnerte Ich mich: Jolling hatte mit einem
-neuen Niesenflugzeug anfangs April dieses Jahres allein
+neuen Riesenflugzeug anfangs April dieses Jahres allein
 den Drei überqueren wollen und war kurz nach dem Ah-flug
 plôövlich aus tausend Meter Höhe in die See gestürzt,
 war nur als Leiche geborgen worden, -
@@ -1645,7 +1644,7 @@ Harst war wieder stehen geblieben,
 
 »Und — das war auch einer!« fügte er unvermittelt
 hinzu und starrte aus die Gastlirme, »In der technischen
-Runvschau las ich’s im Juni dieses Jahres, Es war der
+Rundschau las ich’s im Juni dieses Jahres, Es war der
 Direktor der neuen Gasanstalt in Warenlager, Er starb
 am ne des Riesenwerkes inmitten der geladenen
 Gäste, die die weiten Baulichkeiten Siam Wie
@@ -1682,7 +1681,7 @@ starb er mit einer Nelke in der Hand?«
 
 »Er starb auf dem Festmahl, das der Gesandte der
 Republik Mexiko hier in Berlin den Spitzen der Behörden
-aus Anlaß der Erneuerung des deutsch, mexikanischen Han-delsvertrages
+aus Anlaß der Erneuerung des deutsch, mexikanischen Handelsvertrages
 im April dieses Jahres im Hotel Adlon gab,
 Er starb an der Festtafel an ... Herzschlag, als er soeben
 an einer blauen Nelke gerochen hatte,«
@@ -1737,7 +1736,7 @@ kennen, die Haralds vorsichtige Fragen offen braut-.
 Vorlese. — Die Nelke, nein, die habe sie nicht einmal See
 Gehen, Sie wisse nur, daß eine Blumenverkäuferin im Festsaal
 des Adlon erschienen und den Herren Sträußchen Felsboden
-habe, jede sehr bald von einem Kellner hinaus-wiesen
+habe, jede sehr bald von einem Kellner hinauswiesen
 umworben sei,
 
 Weshalb uns die Nelke iIntereffierte, blieb wider See
@@ -1967,7 +1966,7 @@ Sie, gnädige Frau... ich will vor weigert
 Schlafzimmer ans telephonieren.«
 
 Er wär nur Fettige Minuten draußen, als die Köchin
-an hier in den Stall holte, Ein Marter sei im Hüh-Nerali
+an hier in den Stall holte, Ein Marter sei im Hut-Nepals
 ¿. -
 
 Per ich denn die Dame allein.
@@ -2008,7 +2007,7 @@ Für den Abend hatten wir und mit Svendsons, Bar:
 nö und, Gulbranson im Kabarett Grüner Kater verabredet.
 Der Professor war glänzender Laune. Als auf der
 Bühne Die berühmte Mia Meile Frische Wasserbecken sang,
-als Warne, Gulbranson und Jnugeborg uns drei auf der
+als Barnö, Gulbranson und Jnugeborg uns drei auf der
 Rösten Tischseite nicht beachteten, beugte sich Harald plötzlich
 zu Svendson hin und sagte halblaut, — und ich verstand
 0des Wort;
@@ -2031,7 +2030,7 @@ duzen in den Saal zurück, Und — ergriff Harsts
 Art...
 
 Eine ... eine Ah?« flüsterte er, und sein Gesicht
-a. »Licht als hast Kt,,alte In
+a. »Licht als hast Klarte In
 
 obere bejahte, Fügte hinzu: »kennen Sie Edward
 Jolling
@@ -2138,7 +2137,7 @@ Lachen hin und her wippte,
 Stimme aus dem Dunkel heraus,
 
 Und der Kronleuchter flaummte auf. Das Nacken ei:
-jenes Lichischalters lag noch wie ein drohendecs, Nie Worte
+jenes Lichtschalters lag noch wie ein drohendecs, Nie Worte
 des Unsichtbaren abkbließeudes Geräusch in meinem Ohr,
 als dieselbe Stimme sagte: »Wirt haben Sie erwartet, Bitte
 — unterlassen Sie jeden Versuch, ich ur Wehr zu Seen,
@@ -2270,7 +2269,7 @@ nicht verhehlen, meine Herren, daß wir gewillt sind, unsere
 Geheimnisse vor Ihnen mit allen Mitteln zu felsigen.
 Es sollte uns leidtun, wenn Sie uns zwingen würden.
 dem Dasein zweier für die Menschheit so nützlichen Personen,
-wie Sie es als Genlemandetektive sind, gewaltsam
+wie Sie es als Gentlemandetektive sind, gewaltsam
 eilt Ende zu machen.«
 
 Dann stand er auf.
@@ -2364,7 +2363,7 @@ Sein Gesicht wurde verwirrt, st
 
 »Setzen Sie sich bitte wieder.« Harald war Herr der
 Die schwarze kleine Repetierpistole war aus seinem
-Aermel wieder in die Jnnenfläche der Hand geglitten und
+Aermel wieder in die Innenfläche der Hand geglitten und
 warnte Villamara sehr eindringlich, »Aktie Freunde könnten
 ja vielleicht abdrücken und treffen, Herr Graf, Ich täte
 es auch. Seien Sie davon Wink Setzen Sie sich, Sie
@@ -2385,7 +2384,7 @@ In demselben Moment ein metallisches Kapern ...
 
 Herr van Zuiten hatte abgedrückt, hatte glänzend getroffen.
 <@pagebreak/>
-Die Kugel des Luftstuyens Flug Kontakt die
+Die Kugel des Luftstutzens Flug Kontakt die
 Pistole aus der Hand
 
 Und fast gleichzeitig rief Lord Windraymyoor;
@@ -2469,10 +2468,10 @@ zu vergessen — für immer!«
 Harald ließ die linke Hand sinken. »Ich lehne ab,
 in Schrauts Namen,«
 
-Der Lord war ausgestanden und hatte eine Diwan-decke
+Der Lord war ausgestanden und hatte eine Diwandecke
 über den Toten geworfen.
 
-Frau y. Seiler sog an einem Ricchsläschchen. Löwengaard
+Frau y. Seiler sog an einem Riechfläschchen. Löwengaard
 und Zuiten hielten uns unter ständiger Bedrohung
 ich die Bleigeschosse der Stuben.
 
@@ -2564,7 +2563,7 @@ vor Qtralsund.«
 Er betonte den Namen der Hafenstadt unmerklich.
 
 Und da — kam mir die Erinnerung: Svendson wollte
-ja heute abend mit Ingeborg, Warne und Gulbranson an
+ja heute abend mit Ingeborg, Barnö und Gulbranson an
 Bord der Motorjacht des Doktors gehen — in Stralsund!
 
 Ich begriff alles: die fünf Verbündeten lauerten hier
@@ -2605,7 +2604,7 @@ von draußen, auf das Stampfen der Maschinen und das
 Plätschern der Wellen. Die Santa Rocka lag nicht mehr
 vor Anker. Vielleicht war sie bereits hinter der Motorjacht
 her, um Svendson, das lebte Opfer, zu vernichten, —
-Dann hier in der völlig dunklen Kabine ein paar der-schwommene
+Dann hier in der völlig dunklen Kabine ein paar verschwommene
 Geräusche. Dann mußte Harald dicht vor
 meinem Bette stehen. Sein Atem strich über mein Ihr
 hinweg. »Ich möchte Svendson reiten. Wir werden ausbrechen
@@ -2645,7 +2644,7 @@ bringen würde. Ich irrte mich auch nicht. Nur war der
 Schlußakt der. Tragödie weit nervenerschütternder, als ich
 es je geahnt hatte.
 
-Harald schob nur den Kopf über das Dach des Trep-penniedergangs
+Harald schob nur den Kopf über das Dach des Treppenniedergangs
 hinweg, zog ihn aber sofort zurück.
 
 »Die Motorjacht Gulbransons ist bereits gelagert worden,«
@@ -2653,7 +2652,7 @@ stieß er hastig hervor. »Die Santa Korn schleppt
 die kleine Jacht neben sich her und fährt mit abgeblendeten
 Lichtern — bei dem Nebel ein Leichtsinn!!««
 
-Oh hörte das dumpfe, schauerliche Taten eines Ne-belhorns.
+Oh hörte das dumpfe, schauerliche Taten eines Nebelhorns.
 
 Harst eilte die Treppe wieder hinab, winkte...
 
@@ -2687,7 +2686,7 @@ man mich als Verbrecher, weshalb fesselt man mir die
 Hände?! Ich...«
 
 Und hart und schneidend Villamaras Stimme: »Sie
-haben wohl die drei Drohbriefe des Vereins Vl. N. erhalten,
+haben wohl die drei Drohbriefe des Vereins V!. N. erhalten,
 Holger Svendson! B!, N. heißt Blaue Nelke, — Sie
 besinnen Sie sich noch auf unsere geracinsame Neige auf dem
 »Prince Edward« von Singapore nach Melvourne, auf
@@ -2718,8 +2717,8 @@ fordert von der Tropensonne, die den Fels von Santa
 acta in ein Fegefeuer verwandelte, Ein Dampfer rettete
 dann uns fünf, die Sie hier vor sich sehen! Notiere uns
 Fünf... Wahnsinnige, — wahnsinnig geworden in demselben
-Fegefeuer! Zrrenhäuser wurden unser Aufenthalt.
-Vier Jahre vergingen, bis der lebte von uns, ich Selbft, als
+Fegefeuer! Irrenhäuser wurden unser Aufenthalt.
+Vier Jahre vergingen, bis der lebte von uns, ich Selbst, als
 ereilt Die Stätte der Toten verlassen konnte, Da fanden
 wir fünf uns wieder zusammen. Weil niemand uns
 geglaubt halte, daß man uns damals auf Santa Rocka abließ
@@ -2780,7 +2779,7 @@ zwei Stunden verließen;
 
 »Die fünf, die hier nun einen so jähen Tod erlitten,
 waren Kranke, waren niemals in Wahrheit geheilt worden.
-Ihre Nachepläne, ihre kaltblütigen Morde deuten
+Ihre Rachepläne, ihre kaltblütigen Morde deuten
 auf einen geistigen Defekt hin, — Ihnen, Herr Professor,
 glaube ich, daß Sie schuldlos sind,« —
 
