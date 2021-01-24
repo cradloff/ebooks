@@ -1,1 +1,1 @@
-<@footnote 1 "Der dritte Schuß.md">Fehlende Zeile sinngemäß ergänzt.</@footnote>
+<@footnote 1 "01_Der dritte Schuß.md">Fehlende Zeile sinngemäß ergänzt.</@footnote>
