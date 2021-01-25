@@ -19,11 +19,13 @@
 \blegte	letzte
 \blett\b	jetzt
 \bMir\b	Wir
+\bmir uns\b	wir uns
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bnich!\b	nicht
 \bnicke\b	nickte
 \bober\b	oder
+\bSähe\b	Sätze
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bTer\b	Der
