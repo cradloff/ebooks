@@ -35,7 +35,7 @@ Fredi Orgla und einigen anderen gefährlichen Burschen
 am Nordwestufer des Schwielow-Sees entkommen
 war und wir insbesondere Orglas Rache fürchteten, hielten
 wir für alle Fälle jetzt unsere schwarzen kleinen Kugelspeier
-bereit, um und nicht etwa von dem Chauffeur hinterrücks
+bereit, um uns nicht etwa von dem Chauffeur hinterrücks
 hier in den einsamen unbebauten Straßenzügen
 niederknallen zu lassen, wo ihm eine Flucht unfehlbar geglückt
 wäre.
@@ -129,7 +129,7 @@ Harst, nur verraten sie mich nicht. Uebrigens habe ich die
 Nummer unseres Wagens verändert. A 13142 ist eine
 Autotaxe. — Ein Ungenannter.
 
-Nachschrift. Soeben war der andere Bootsmann bei mir.
+> Nachschrift. Soeben war der andere Bootsmann bei mir.
 Er weiß bestimmt, daß gestern am 3. Juli die Jacht eines
 anderen Bekannten unserer Herrschaften ebenfalls mitten auf
 dem Schwielow-See angehalten wurde, also Nummer drei.
@@ -138,7 +138,7 @@ Mehr sage ich nun nicht.
 * * *
 
 Ich hatte über Haralds Schulter den Brief mitgelesen.
-»Ein schlechter Scherz ...?!« meinte Harst sehr gedehnt.
+»Ein schlechter Scherz...?!« meinte Harst sehr gedehnt.
 »Sollte da nicht Jane Brack ihre segensreiche Tätigkeit schon
 wieder aufgenommen haben?! Etwas Derartiges sähe ihr
 ganz ähnlich! — Machen wir kehrt.«
@@ -204,7 +204,7 @@ Briefträger spuckte aus. »Jetzt ist die Gesellschaft in Helgoland
 Wir aber läuteten nun an der Gartenpforte, deren
 blankes Messingschild den Namen Dobberling zeigte.
 
-Nach einer Weile erstieg aus dem Häuschen neben
+Nach einer Weile erschien aus dem Häuschen neben
 der Protzenvilla eine einfach gekleidete Frau.
 
 »Sie wünschen?«
@@ -308,7 +308,7 @@ Tische belegt. Wir belegten den vierten, bestellten Abendbrot
 und kümmerten uns scheinbar um die Nachbarschaft in
 keiner Weise.
 
-Da wurden an einem der Tische von fünf Personen,
+Da wurde an einem der Tische von fünf Personen,
 drei Damen und zwei Herren, unerhört geschlemmt. Der
 Kellner scharwenzelte um die zur Kategorie Raffke gehörigen
 Herrschaften mit jenem Grinsen herum, das eine respektvolle
@@ -325,7 +325,7 @@ waren Einheimische — ein Stammtisch.
 Als der Kellner uns das Abendessen brachte, verwickelte
 Harald ihn in ein Gespräch, erkundigte sich, ob Bieseckes
 letztens hier gewesen seien und dämpfte dann die Stimme
-so sehr, daß ich auf der anderen Titelseite nichts mehr verstehen
+so sehr, daß ich auf der anderen Tischseite nichts mehr verstehen
 konnte.
 
 Gegen zehn Uhr zahlten wir und verließen das Hotel,
@@ -392,7 +392,7 @@ nicht mehr für lange...
 Eine sehr lustige Gesellschaft nahte: der Schlemmertisch
 aus dem Havel-Hotel, Herr Kießlack nebst Anhang!
 
-Wir verabschiedeten und von Pfaffner und traten etwas
+Wir verabschiedeten uns von Pfaffner und traten etwas
 abseits. Der Fisch biß auf den Köder an: Pfaffner
 erzählte seinem Herrn, daß die beiden Herren da den Dampfer
 versäumt hätten, und — bei Otto Kießlack gaben die Titel
@@ -447,7 +447,7 @@ mit alledem?!
 
 Dann hatte Fräulein Ella von Schnetters, ein eisiges,
 <@pagebreak/>
-hageres, rassiges Blondinen, plötzlich ihre Kamera geholt
+hageres, rassiges Blondinchen, plötzlich ihre Kamera geholt
 und bestand darauf, unseren Tisch bei Blitzlicht zu typen.
 
 So wurde denn die elektrische Beleuchtung des Achterdecks
@@ -457,7 +457,7 @@ Arm auf die Rückenlehne meines Korbsessels und meinte
 strahlend: »Exzellenz, das Bild wird mir eine liebe Erinnerung
 an diese Nacht sein!«
 
-Dann flammte der grelle Blick der Magnesiumpatrone
+Dann flammte der grelle Blitz der Magnesiumpatrone
 auf, und das Blondinchen rief:
 
 »Erledigt! Ich werde die Platte sofort entwickeln. Falls
@@ -491,7 +491,7 @@ Und — da kam mir die Erleuchtung...:
 
 Ueberfall — — die Piraten!! —
 
-Es war so. — Sie Jacht näherte sich sehr schnell. Sie
+Es war so. — Die Jacht näherte sich sehr schnell. Sie
 war bedeutend schneller als die Irmgard des Herrn Kießlack.
 Und — sie hielt auf uns zu...
 
@@ -511,7 +511,7 @@ Von drüben eine sehr energische Stimme:
 Und die fremde Jacht beschrieb einen kurzen Bogen,
 fuhr Bord an Bord mit uns.
 
-Drei Herren sprangen zu nun an Deck — Herren in
+Drei Herren sprangen zu uns an Deck — Herren in
 Sportanzügen, mit verdächtig langen schwarzen Vollbärten,
 mit Augenbrauen, die durch Kohlestriche fingerdick und
 fingerlang gemacht waren.
@@ -554,7 +554,7 @@ ich nich’n Revolver dahatte!«
 Kießlack tänzelte herbei. Soeben war der Mond über
 den Uferwäldern emporgestiegen...
 
-Und dann redete Herr Orts Kießlack mit gequältem
+Und dann redete Herr Otto Kießlack mit gequältem
 Lächeln viel und hastig von einer tollen Wette — daß dieser
 Ueberfall nur ein Spaß gewesen, daß er uns bäte, darüber
 zu schweigen...
@@ -611,7 +611,7 @@ Palais in der Eichenstraße im feudalen Tiergartenviertel.
 <h2>3. Kapitel.</h2>
 <h3>Der Wächter.</h3>
 
-Wir gingen da nicht heim.
+Wir gingen doch nicht heim.
 
 Harald machte plötzlich kehrt.
 
@@ -646,9 +646,9 @@ hat. Es sind also dieselben Piraten.«
 
 <@pagebreak/>
 »Steckt nun Jane Brack hinter diesen Ueberfällen? —
-Da möchte ich auf den Eilbrief aus Saßnitz Hinweisen, mein
+Da möchte ich auf den Eilbrief aus Saßnitz hinweisen, mein
 Alter. Bieseckes und Dobberlings sind am Morgen nach
-bei Ausplünderung fluchtartig nach Helgoland gereist, wie
+der Ausplünderung fluchtartig nach Helgoland gereist, wie
 wir wissen. Von ihnen kann der Saßnitz-Brief nicht herrühren.
 Von wem sonst?! Wer weiß außer den Geschädigten
 und deren Bootsleuten noch etwas von diesen Piratenstreichen?
@@ -677,7 +677,7 @@ dafür.«
 Kein Wunder, daß ich stehen blieb, — gerade vor einem
 der Cafees an der Gedächtniskirche...
 
-Und aus dem aus drang Walzermusik heraus...
+Und aus dem Cafee drang Walzermusik heraus...
 
 »Du — kennst sie?«
 
@@ -1006,7 +1006,7 @@ Es war der... Tote von der Birkenbank...
 <@pagebreak/>
 
 <h2>4. Kapitel.</h2>
-<h3>Herrn Kießlacks Pech,</h3>
+<h3>Herrn Kießlacks Pech.</h3>
 
 Harst hob seine Lampe auf. Die kleine Glühbirne war
 unbrauchbar geworden. Dann drehte er sich um und rüttelte
@@ -1174,7 +1174,7 @@ Kießlack fuhr zurück.
 »... ist Pech!! Für Sie!!«
 
 Von der rechten Tür her ein Geräusch — das Scharren
-verrosteter zurückgleitenden Riegel. Und dann ein neuer
+verrosteter zurückgleitender Riegel. Und dann ein neuer
 Lichtschein. Ein Diener trat ein.
 
 Gleich darauf kneteten wir unsere geschwollenen Gelenke.
@@ -1237,7 +1237,7 @@ bezahlen lassen, greife ich zu. Sonst nicht.«
 
 Kießlack saß wie ein Häufchen Unglück da. »Meinetwegen
 — bezahlen Sie!« nickte er schüchtern. »Hier ist der
-Zettel. Er streckte in einem Umschlag, der an mich adressiert
+Zettel. Er steckte in einem Umschlag, der an mich adressiert
 war. Auf dem Umschlag stand noch: Sehr dringend! Sofort
 lesen! — Deshalb weckte mich der Diener auch.« Er
 reichte Harald den Zettel, der mit Tintenstift geschrieben war:
@@ -1276,7 +1276,7 @@ Dobberlings, Bieseckes, Perschkes und Kießlacks!«
 ausgeplündert worden?! — Herr Gott — die Beute
 aus dem Kellerversteck gehört wohl...«
 
-»...den dreien — ja!«
+»... den dreien — ja!«
 
 Kießlack schnappte nach Luft und trocknete sich die
 Stirn.

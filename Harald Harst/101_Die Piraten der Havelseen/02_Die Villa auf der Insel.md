@@ -190,9 +190,9 @@ schließlich den Plan entwarf...«
 »Auch das wissen wir. Die Piratenstreiche galten der
 Quittung.«
 
-»So, dann dann ich mich kürzer fassen, Herr Harst. Sie
+»So, dann kann ich mich kürzer fassen, Herr Harst. Sie
 haben also über diese Freibeuterfahrten sich das Richtige
-zusammen gereimt...«
+zusammengereimt...«
 
 »Eine Frage: wer waren die drei anderen Piraten?«
 
@@ -299,7 +299,7 @@ mit Ihnen in Verbindung setzen?«
 
 »Die beiden Hausmädchen sollen noch bis zum 15. in der
 Villa bleiben und auf telephonischen Anruf erklären, daß
-man mir postlagernd unter B. v. J. 100, Postamt Potsdamer
+man mir postlagernd unter B. v. I. 100, Postamt Potsdamer
 Platz, Nachricht geben solle.«
 
 »Nicht schlecht!« nickte Harald. »Herr von Berstel ist
@@ -406,7 +406,7 @@ der nun dem Herrn zugestellt werden?«
 
 Sie verschwand, Harald schaute ihr nach...
 
-»Hm — die gefällt sie Dir?«
+»Hm — wie gefällt sie Dir?«
 
 »Die Köchin gefällt mir besser.«
 
@@ -676,7 +676,7 @@ Swinemünde. Nehmen Sie zwei Beamte mit. Wir treffen uns
 dort morgen nachmittag fünf Uhr am Hafen in der Nähe
 des Zollhauses. Mieten Sie eine Segeljacht, möglichst mit
 Motor, verproviantieren Sie dieselbe für acht Tage und —
-machen Sie sich aus einen großartigen Fang bereit. Die
+machen Sie sich auf einen großartigen Fang bereit. Die
 Kosten trage ich. — Wiedersehen!«
 
 Wir gingen weiter. Kein Wunder, daß ich fragte:
@@ -727,7 +727,7 @@ Oie!« —
 Von den rund 58 Millionen Deutschen dürfte kaum ein
 Viertel auch nur den Namen dieser Felseninsel kennen.
 
-Wer von Swinemünde mit dem Tourdampfern nach den
+Wer von Swinemünde mit den Tourdampfern nach den
 Rügenbädern fährt, kommt an der Oie vorüber, sieht die
 flache Insel, die spärlichen Häuschen, den Leuchtturm und
 denkt wohl mit Schaudern, wie trostlos das Leben auf diesem
@@ -834,7 +834,7 @@ sehr schick und sehr harmlos wirkte.
 Wir ließen seine beiden Beamten die rote Minna suchen.
 Wir suchten selbst. Als Harst sich bis sieben Uhr im
 Deutschen Haus nicht wieder eingestellt hatte, wurden wir
-unruhig. Schließlich begaben mir uns in den Dünenwald,
+unruhig. Schließlich begaben wir uns in den Dünenwald,
 fanden die Eiche...
 
 Und auf dem Fußweg fiel mir nun sofort die Spur eines
@@ -898,7 +898,7 @@ schimmernder Tümpel. Der Hilfsmotor der Jacht trieb
 zwischen den Molen hindurch, am Leuchtturm vorüber.
 
 Und dann die offene See, ein wundervoller Friede hier
-Draußen, wundervoll das Strandbild von Swinemünde,
+draußen, wundervoll das Strandbild von Swinemünde,
 Ahlbeck, Heringsdorf, — dahinter die dunklen Wälder.
 
 Ich saß neben Fritz Bechert am Steuer — noch als
@@ -982,7 +982,7 @@ davonzulaufen. »Wir haben nichts gesehen, Fräulein, es
 ist ja so dunkel,« beruhigte Bechert sie und nahm den Langen
 beiseite.
 
-»Sie dürfen auf seinen Fall verraten, wer ich bin,
+»Sie dürfen auf keinen Fall verraten, wer ich bin,
 Herr Tompsen,« erklärte er sehr nachdrücklich. »Kriminalkommissar
 <@pagebreak/>
 Bechert aus Berlin! Sie besinnen sich wohl! Damals
@@ -1046,7 +1046,7 @@ Sie Frau und Kinder!«
 
 Bechert winkte ihm mit der Hand zu.
 
-Und sagte ziemlich kläglich: »Wenn Ihr beide, lieber
+Und sagte ziemlich kläglich: »Wenn ihr beide, lieber
 Schraut, nur nicht auf dem Holzwege seid, was diese Insel
 anbetrifft! Vielleicht hat die rote Minna auch nur den Zettel
 mit dem Rebus »Greifswalder Oie« in das Buch gelegt,
@@ -1149,7 +1149,7 @@ Schüsse knallten hinter mir drein...
 
 Keine harmlosen Kino-Schüsse...!!
 
-Kugeln Pfiffen mir um die Ohren...
+Kugeln pfiffen mir um die Ohren...
 
 Und jemand brüllte: »Kehren Sie um! Sofort!!«
 
@@ -1182,7 +1182,7 @@ der Schlinge erwürgte.
 Bechert war längst wieder zu sich gekommen. Auch
 uns beide band man in gleicher Weise auf zwei Korbsessel
 fest, legte uns Drahtschlingen um den Hals und band
-den Draht oben an demselben Eisenhaken der Decke ist.
+den Draht oben an demselben Eisenhaken der Decke fest.
 
 Die vier »Korsaren« und der inzwischen ebenfalls angelangte
 Filmoperateur, dessen Aufnahmeapparat im übrigen
@@ -1237,7 +1237,7 @@ Er winkte seinen Freunden und gleich darauf waren
 wir drei Wehrlosen allein.
 
 Stunden vergingen. Die Uhr in diesem Zimmer zeigte
-genau zwölf und hatte soeben mit blechernen Klang die
+genau zwölf und hatte soeben mit blechernem Klang die
 Mittagszeit verkündet, als man uns holen kam.
 
 Zuerst wurde Harald weggeschafft — samt dem Korbsessel.
@@ -1308,7 +1308,7 @@ aus dem Dunkel — — Männergestalten — deutlicher
 werdend — — ein ganzer Trupp lautlos herbeihuschender
 Retter...
 
-Und jetzt urplötzlich eine Männerstimme, sie gewohnt
+Und jetzt urplötzlich eine Männerstimme, die gewohnt
 war, den weiten Raum des Zirkus Busch mit derben
 Manegenscherzen zu füllen — eine Stimme, die Tom Tompson
 gehörte:
