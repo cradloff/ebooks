@@ -16,7 +16,6 @@
 \bHart\b	Harst
 \bis!\b	ist
 \blebten	letzten
-\blegte	letzte
 \blett\b	jetzt
 \bMir\b	Wir
 \bmir uns\b	wir uns
