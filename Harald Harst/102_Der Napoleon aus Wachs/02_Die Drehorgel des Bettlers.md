@@ -551,7 +551,7 @@ in Riga aufgetreten war, wie Bechert festgestellt hatte.
 Robert Robba?! — Und — wenn er’s war, dann —
 dann mußte der echte Bettler beseitigt worden sein. Wie
 <@pagebreak/>
-Hätte dieser Maskierte sonst die Lumpen des anderen auf
+hätte dieser Maskierte sonst die Lumpen des anderen auf
 dem Leibe haben können?! Wie sollte er sonst in Besitz der
 Drehorgel gelangt sein?!
 
@@ -692,7 +692,7 @@ Bechert gab sich dem Kapitän zu erkennen.
 Ist es möglich, die Jacht dort einzuholen?«
 
 Harst schüttelte den Kopf. »Die Frage kann auch ich
-Ihnen beantworten, lieber Bechert. Sie Sehen ja, wie die
+Ihnen beantworten, lieber Bechert. Sie sehen ja, wie die
 Jacht die See durchpflügt. Dagegen sind wir hier elende
 Krebse.«
 
@@ -846,7 +846,7 @@ blieb der Drehorgelspieler. Es waren doch nur drei Leute
 an Bord der Astarte.«
 
 <@pagebreak/>
-»Sie vergessen, daß wir so und so vielen Fischerboote
+»Sie vergessen, daß wir so und so vielen Fischerbooten
 begegneten. Retter hat einen Fischer bestochen. Der
 Leierkastenmann ist unterwegs nach einem der deutschen
 Küstenorte zwischen Kolberg und Swinemünde oder er ist
@@ -959,14 +959,14 @@ eintritt. H.«
 die eine Sehenswürdigkeit sind. Ein Häuschen, so
 niedrig, daß man mit der hochgereckten Hand das Ziegeldach
 berühren konnte. Blitzblanke Fenster, eine Haustür aus
-Eichenholz, darüber an einer verrostetem eisernen Stange
+Eichenholz, darüber an einer verrosteten eisernen Stange
 ein goldener Anker. Und neben diesem dicht unterm Dach
 eine Erinnerung an die Belagerung durch die Franzosen im
 Jahre 1807: eine Kanonenkugel, die in die Mauer halb eingedrungen
 war.
 
 Die Kneipe selbst: drei Stuben, weiß gescheuerte Tische,
-weiter Sand auf den Dielen, an den Deckenbalken Schiffsmodelle,
+weißer Sand auf den Dielen, an den Deckenbalken Schiffsmodelle,
 Waffen von Naturvölkern, allerhand andere Dinge,
 die bewiesen, daß die Besitzer des goldenen Ankers wohl
 stets früher Seeleute gewesen.
@@ -1017,7 +1017,7 @@ Astarte samt der famosen Drehorgel auffischte.«
 
 »Weil sie bei diesen Diamantenschiebern und Dieben
 eine große Rolle spielt,« erklärte Harst seufzend. »Ihr beide
-quetscht mich ja doch aus wie eine Zitrone. Da will ich Lieber
+quetscht mich ja doch aus wie eine Zitrone. Da will ich lieber
 von selbst meine Theorie über Robba und Konsorten
 entwickeln. Robba als internationaler Artist hat die beste
 Gelegenheit zum Verschieben und Stehlen von Kleinodien.
@@ -1045,7 +1045,7 @@ war betont, daß Robbas Automat so glänzend gearbeitet sei,
 daß man bis zum letzten Augenblick im Zweifel bliebe, ob
 es sich um einen Automaten oder doch nur um einen lebenden
 Menschen handele, der den Napoleon mimte. Ferner
-war da erwähnt, daß der Automat unter anderen eine...
+war da erwähnt, daß der Automat unter anderem eine...
 Drehorgel in Bewegung setze, welche die Nationalhymne
 des Landes spiele, in dem Robba sich gerade mit seinem Napoleon
 aus Wachs befände.«
@@ -1249,7 +1249,7 @@ Aber — im Zelt blieb alles dunkel...
 Es wurde zwölf Uhr.
 
 <@pagebreak/>
-Turmuhren schlugen die Mitternachtstunde mit hallender
+Turmuhren schlugen die Mitternachtstunde mit hallenden
 Klängen.
 
 Dann kreischte die Tür des Wohnwagens...

@@ -151,7 +151,7 @@ kann.«
 
 »Der kam auch in Riga an Bord und heißt Wüllner,
 Hans Wüllner, ist ebenfalls Artist und zwar Jongleur. Er
-hat Robert Robba erst in Riga können gelernt.«
+hat Robert Robba erst in Riga kennen gelernt.«
 
 »Der Napoleon aus Wachs steht wohl in einer Kiste
 verpackt unten im Laderaum?«
@@ -181,8 +181,8 @@ Bretterschuppen mit.
 »Jan, wird das Wrack völlig auseinandergehen?«
 fragte Harst.
 
-»Jawoll, bat jeiht zum Dübel, Herr Harst. Dat is ja
-man son moderner Dreck von’n Schipp!« Er spukte geringschätzig
+»Jawoll, dat jeiht zum Dübel, Herr Harst. Dat is ja
+man son moderner Dreck von’n Schipp!« Er spuckte geringschätzig
 aus. »Dei Heckaufbau mit dei Kajütens is
 all zum Dübel,« fügte er hinzu. »De olle Jan hedd beetre
 Oogen as wie dei junge Kierls. Von’n Heckaufbau steiht
@@ -525,7 +525,7 @@ Der Napoleon aus Wachs und seine Rätsel gossen mir
 Feuer in die Adern! —
 
 Bald der Fischerhafen: Bollwerk, Bretterbuden, schwankende
-Kutter mit klatschenden Tauwerk und knarrenden Masten,
+Kutter mit klatschendem Tauwerk und knarrenden Masten,
 Teer- und Fischgeruch, glucksende Wellen...
 
 Bald wir beide hinter einer Netzbude — dicht am Bollwerk.
@@ -557,7 +557,7 @@ Zum Hinlegen — zum Gehorchen kamen wir nicht.
 
 Fühlten schon unsere Handgelenke gepackt. Schlingen
 zogen sich zu... Zwei Stöße — wir flogen in einen Haufen
-Seetang — lagen — rappelten und hoch...
+Seetang — lagen — rappelten uns hoch...
 
 Hörten das Puffen des Aushilfsmotors des Kutters,
 sahen undeutlich den Schatten des Bootes davongleiten...
@@ -585,7 +585,7 @@ verschlafen, als er schließlich öffnen kam.
 
 Seine Laterne beleuchtete uns Störenfriede.
 
-»Ah — Herr Harsts!« Das ärgerliche Gesicht legte sich
+»Ah — Herr Harst!« Das ärgerliche Gesicht legte sich
 in freundliche Falten.
 
 Peter Kraschan führte uns in sein Büro. Das war
@@ -637,7 +637,7 @@ davon!«
 
 Herrn Peter Kraschan blieb der Mund offen.
 
-»Sie besitzen doch Selbst einen Kutter, Herr Kraschan.
+»Sie besitzen doch selbst einen Kutter, Herr Kraschan.
 Wir bitten Sie, uns sofort nach Swinemünde zu bringen.
 Außerdem werde ich eine Depesche nach Berlin aufgeben.«
 
@@ -677,7 +677,7 @@ Und Frau Kraschan rief noch:
 »Herr Harst, dat Sie man bloß der armen Marjell, der
 Hanna, nix andaun!«
 
-»Keine Sorge! Wir tun ihr nicht an. Wir tun nur
+»Keine Sorge! Wir tun ihr nichts an. Wir tun nur
 unsere Pflicht.« —
 
 Wir saßen im Oelzeug neben Kraschan am Steuer,
@@ -717,7 +717,7 @@ hat er ja sehr geheimgehalten. Schluderjan wußte
 nichts davon. Wer ist der Käufer?«
 
 Kraschan zögerte. »Ich, Herr Harst...« — Trank einen
-langen Verlegenheitsschluck. »Schon bot mir sein
+langen Verlegenheitsschluck. »Schomp bot mir sein
 <@pagebreak/>
 Grundstück an — sehr billig. Weshalb sollte ich nicht
 zugreifen?«
@@ -794,7 +794,7 @@ Finsternis greifen, wieder verschwinden, wieder aufblitzen.
 Und machte vor jedem Wellenspritzer, der über Bord
 kam, einen tiefen Bückling.
 
-Die Spritzer kamen oft — kämen immer häufiger. Der
+Die Spritzer kamen oft — kamen immer häufiger. Der
 Kutter kobolzte, torkelte wie trunken. Das Großsegel, prall
 gefüllt, trieb uns schneller vorwärts...
 
@@ -815,7 +815,7 @@ Der Mast knickte...
 
 Ich flog über Bord...
 
-Das braune Großsegel preßte mit in die Tiefe...
+Das braune Großsegel preßte mich in die Tiefe...
 
 Und doch die Geistesgegenwart, zu tauchen, und das
 Glück, freizukommen...
@@ -856,7 +856,7 @@ Gerettet!! Gerettet — wie durch ein Wunder!
 Blieben hier eine Stunde.
 
 »Wir sind tot!« sagte Harst dann. »Der Gemeindevorsteher
-wird uns aufnehmen und Schweigen.«
+wird uns aufnehmen und schweigen.«
 
 Wir schritten die Mole entlang, am Ufer der Swine hin.
 — Osternothafen wurde unser Nothafen. Der freundliche
@@ -925,7 +925,7 @@ Ich wandte den Kopf.
 »Eine präparierte Leiche...«
 
 <@pagebreak/>
-war das Scherz?! — Doch nein! Dazu war die
+War das Scherz?! — Doch nein! Dazu war die
 Geschichte denn doch zu brutal, die Geschichte mit den vier Toten,
 die... ertrunken waren, — zu brutal — ernst.
 
@@ -974,7 +974,7 @@ Wollen sehen, ob Freund Bechert etwas ermittelt
 hat.« —
 
 <@pagebreak/>
-Als wie abends acht Uhr auf der Veranda des
+Als wir abends acht Uhr auf der Veranda des
 Harstschen Hauses beim Abendbrot saßen, als Frau Auguste Harst,
 Haralds Mutter, uns erzählte, daß Bechert schon zweimal
 angerufen hätte, eilte Harald in sein Arbeitszimmer und
@@ -1061,7 +1061,7 @@ Herr Harst. Heit frieh sind sie injezogen.«
 Den Namen Damaschke hatten wir noch nie gehört, wenigstens
 nicht als den eines Nachbarn.
 
-»Damaschkes Laube liegt doch drüben arm anderen
+»Damaschkes Laube liegt doch drüben am anderen
 Ende,« sagte Harst, scheinbar ganz im Bilde.
 
 »Nee, nee, dort die vierte am Hauptwege ist’s, die mit
@@ -1352,7 +1352,7 @@ ihm die Flucht aus Riga gelingen. Und in der Kiste lagen
 noch die Ronnow-Juwelen. Das war für Robba die
 Hauptsache.«
 
-Harald dachte leise auf. »Wahrscheinlich werdet Ihr
+Harald lachte leise auf. »Wahrscheinlich werdet Ihr
 uns hier wirklich ermorden! Wahrscheinlich! Obwohl ich’s
 an Eurer Stelle nicht täte.«
 
@@ -1405,10 +1405,10 @@ Fußboden. Die Kerle nahmen uns die Drahtfesseln ab.
 
 Und der Sprecher sagte achselzuckend: »Wir vier sind
 <@pagebreak/>
-nur Robbas Werkzeuge gewesen, wir bereuen, laß wir uns
+nur Robbas Werkzeuge gewesen, wir bereuen, daß wir uns
 mit ihm eingelassen haben.«
 
-Er hatte das leise Wort noch nicht über die Lippen,
+Er hatte das letzte Wort noch nicht über die Lippen,
 als Haralds Clement den Strolchen die Hände emporschob.
 
 »Hände hoch!!« Das hatte so schneidend, so drohend
