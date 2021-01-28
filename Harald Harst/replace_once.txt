@@ -19,7 +19,6 @@
 \blegte	letzte
 \blett\b	jetzt
 \bMir\b	Wir
-\bmir uns\b	wir uns
 \bMr,	Mr.
 \bMr\s	Mr. 
 \bnich!\b	nicht
