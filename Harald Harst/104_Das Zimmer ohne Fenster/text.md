@@ -25,7 +25,7 @@ Abend gegessen und gegen neun Uhr trotz der Warnung
 eines Fischers die Heimfahrt angetreten,
 
 Im Nordwesten hatten dichte schwarze Wolkenberge gelagert,
-die allerdings ein heraufziehendes Unwetter anzeigten,
+die allerdings ein heraufziehendes Unwetter anzeigten.
 Harald war jedoch nicht zu bewegen gewesen, in Werder
 vorsichtshalber die Nacht zuzubringen.
 
@@ -37,54 +37,54 @@ unser Leben.
 
 <@pagebreak/>
 Plötzlich rannte die Jolle zu allem Unheil noch in
-stocksinsterer Nacht gegen ein anderes Fahrzeug, das steuerlos,
+stockfinsterer Nacht gegen ein anderes Fahrzeug, das steuerlos,
 ohne Lichter auf den für einen Binnensee ganz gefährlichen
 Wellen trieb.
 
 Der Anprall kam so unvermutet, daß ich von meinem
-Eid am Steuer beinahe über Bord geflogen wäre,
+Sitz am Steuer beinahe über Bord geflogen wäre,
 
 Zum Glück hatte ich das Steuer nicht losgelassen.
-Die Jolle kam von dem fremden, Fahrzeug frei und raffe
-mit gerefftem Segeln weiter in die Dunkelheit
+Die Jolle kam von dem fremden Fahrzeug frei und raste
+mit gerefften Segeln weiter in die Dunkelheit
 
 Hinter mir dann der schnell verwehende Ruf: »Schraut
-— Schraut — — I!«
+— Schraut — —!!«
 
 Und für mich die Erkenntnis, daß Harald offenbar
 auf das andere, weit größere Boot, das ich für einen Motorkutter
-gehalten, hinübergcsprungen war und von dort -
-gerufen hatte ...
+gehalten, hinübergesprungen war und von dort
+gerufen hatte...
 
 Gerufen — —!! — Weshalb?! War’s ein Hilferuf
 gewesen?! War er dort an Bord des Kutters mit Leuten
 zusammengestoßen, die ihn derart empfangen hatten, daß
 er meiner Hilfe bedurfte?!
 
-Was konnten das für Leute sein?! Wie kann’s, daß
+Was konnten das für Leute sein?! Wie kam’s, daß
 sie Harald sogleich bedroht hatten?!
 
 All das schoß mir durch den Kopf, während ich, bis
-Uf die Haut durchnäßt, mir alle Mühe gab, die Jolle im
-Bogen dorthin zu mansprieren, ha ich den vor dem.
+auf die Haut durchnäßt, mir alle Mühe gab, die Jolle im
+Bogen dorthin zu manövrieren, wo ich den vor dem
 Sturm treibenden Kutter ungefähr vermuten konnte.
 
-Segelmanöver bei diesem Orkan waren, zumal | für
+Segelmanöver bei diesem Orkan waren, zumal für
 einen einzelnen Mann, eine sehr mißliche Sache.
 
 Es erging mir denn auch herzlich schlecht: ein neuer
-heimtückischen Windstoß, und mein Boot kenterte, lief vor
-Wasser und schwamm streichen weiter,
+heimtückischer Windstoß, und mein Boot kenterte, lief voll
+Wasser und schwamm kieloben weiter,
 
-Ich hatte mich jedoch sehr bald auf den Bootsklörper
+Ich hatte mich jedoch sehr bald auf den Bootskörper
 hinaufgeschwungen, hielt mich krampfhaft fest und nahm
-mein Pech mit leidlichem Humor hin, Nasser wie ich schon
-Pirat, Sonnte ich nicht mehr werden. Da die Jolle Luftlästen
-hatte, würde sie nicht wegsacken, sondern allmählich As
-liebem Mein nähern und. Holt stranden.
+mein Pech mit leidlichem Humor hin. Nasser wie ich schon
+war, konnte ich nicht mehr werden. Da die Jolle Luftkästen
+hatte, würde sie nicht wegsacken, sondern allmählich sich
+dem Westufer nähern und dort stranden.
 
 <@pagebreak/>
-So ritt ich denn alle Bontäreiter getrost durch die Finsternis.
+So ritt ich denn als Bootsreiter getrost durch die Finsternis.
 Wenn ich Haralds wegen nicht in Sorge gewesen,
 hätte ich das Abenteuer als angenehme Abwechselung
 im Einerlei der letzten Tage empfunden. Wir, Harst und
@@ -94,88 +94,88 @@ Sucher aller Wahrheit, Gentlemandetektive, Sucher der Kriminalfälle,
 die man »eigenartig« nennen kann.
 
 Mit einem Male vernahm ich in der Nähe abermals
-einen auf, nachdem es mir vorhin schon so vorgekommen,
+einen Ruf, nachdem es mir vorhin schon so vorgekommen,
 als mischten sich in das Heulen und Brausen des Windes
 andere Laute.
 
-Ah — jetzt rief wirklich jemand um Hilfe
+Ah — jetzt rief wirklich jemand um Hilfe...
 
-Und — das war eine Frauenstimme ...
+Und — das war eine Frauenstimme...
 
 Hell — schrill — in höchster Todesangst...
 
-Zu Sehen war nichts,
+Zu sehen war nichts,
 
-Die Finsternis hing um mich herum wie Pechschwarze
-Tücher. Nur die weisen Wellenfämmze Leuchteten gefpen-stisch.
+Die Finsternis hing um mich herum wie pechschwarze
+Tücher. Nur die weisen Wellenkämme leuchteten gespenstisch.
 Dann schräg vor mir ein Lichtblitz...
 
-Wieder ein schriller Gitter ...
+Wieder ein schriller Schrei...
 
-Der weiße Lichtkegel blieb — bewegte ich...
+Der weiße Lichtkegel blieb — bewegte sich...
 
-Licht aus einer Taschenlampe ...
+Licht aus einer Taschenlampe...
 
-Und nun gewahrte ich auch, von dieser ne Euer.
-enden Leuchte bestrahlt, einen Menschen im Waffen ...
+Und nun gewahrte ich auch, von dieser herumschwenkenden
+Leuchte bestrahlt, einen Menschen im Wasser...
 
 Eine Frau — —!!
 
 Ich zögerte nicht. Ich hatte Längst die Schuhe abgestreift,
 auch Jacke und Weste.
 
-Ein gab — — fünf Schwimmstöße Ich rate die
+Ein Satz — — fünf Schwimmstöße. Ich packte die
 Frau, drängte sie der Jolle zu.
 
-Die Frau hielt die eingeschaltete Meine Taschenlampe
+Die Frau hielt die eingeschaltete kleine Taschenlampe
 in der Linken, hatte sich mit der Rechten an einen völlig
 unter Wasser gedrückten Nachen geklammert.
 
-Sie war bereits sehr matt, 9 mußte ihr helfen,
-oben auf der Solle im Reitsitz sich niederzulassen. Sie trug
-Minen Sportanzug mit Kniehosen Wir blondes Haar hatte
-ich ausgelöst und flatterte mir peitschend ins Gesicht.
+Sie war bereits sehr matt. Ich mußte ihr helfen,
+oben auf der Jolle im Reitsitz sich niederzulassen. Sie trug
+einen Sportanzug mit Kniehosen. Ihr blondes Haar hatte
+sich aufgelöst und flatterte mir peitschend ins Gesicht.
 
 <@pagebreak/>
-Ich fügte sie, so gut ich konnte. Die Taschenlampe
-wenn ihr entfallen, als ich sie auf Die geforderte Jolle Zins
-aufschob. Der Rarer war ineitergetrieben,
+Ich stützte sie, so gut ich konnte. Die Taschenlampe
+war ihr entfallen, als ich sie auf Die gekenterte Jolle hinaustrieb.
+Der Nachen war weitergetrieben,
 
-Nun sahen wir uns gegenüber, Nun rief die Frau:
+Nun saßen wir uns gegenüber. Nun rief die Frau:
 
-»Ich danke Ahnen! — Verzeihung, mein Herr, wer
+»Ich danke Ihnen! — Verzeihung, mein Herr, wer
 sind Sie?«
 
-Sie Gesicht war Dicht vor mir und So nicht zu cm
-kennen. Ob jung, alt, hübsch, häßlich: ich wußte es nicht,
+Ihr Gesicht war Dicht vor mir und doch nicht zu erkennen.
+Ob jung, alt, hübsch, häßlich: ich wußte es nicht,
 
-Aber — ihre Frage hatte meine Gedanken sofort aus
+Aber — ihre Frage hatte meine Gedanken sofort auf
 das andere Fahrzeug gelenkt, das ich hatte erreichen wollen,
-am Harald zu Hilfe zu kommen.
+um Harald zu Hilfe zu kommen.
 
-Ehre Frage war auffallend.
+Ihre Frage war auffallend.
 
-lag nahe, daß die Frau sich vielleicht auf jenem
-treibenden Kutter befunden hatte. Ki
+Es lag nahe, daß die Frau sich vielleicht auf jenem
+treibenden Kutter befunden hatte.
 
-Ich malte vorsichtig sein.
+Ich mußte vorsichtig sein.
 
 Und so rief ich ihr denn zu:
 
 »Ein sehr harmloser Schauspieler ohne Engagement
-namens Suraturi, meine Gnädige!« -
+namens Suraturi, meine Gnädige!«
 
 Das war nicht einmal gelogen.
 
 Ich bin ja Komiker gewesen, bevor Harst mich unter
 seine Fittiche und in die Lehre nahm. Und Suraturi nannte
 ich mich einst auf den Theaterzetteln in den Weltstädten
-Schlimm, Schroda, Sonst, Krotoschin, geplante, Vitrine —
-und so weiter, — in all den Laufeneftern, iwo die Schmiere
-Gasispiele gab, — ’ in
+Schrimm, Schroda, Bomst, Krotoschin, Krojanke, Filehne —
+und so weiter, — in all den Lausenestern, wo die Schmiere
+Gastspiele gab, —
 
-Mein pilschnasses, haarslatterndes Gegenüber rief
-Bann:
+Mein pitschnasses, haarflatterndes Gegenüber rief
+dann:
 
 »Also nochmals — ich danke Ihnen, Herr Suraturi!
 Ohne Ihre Hilfe wäre ich ertrunken.«
@@ -183,75 +183,75 @@ Ohne Ihre Hilfe wäre ich ertrunken.«
 Sie kam wieder zu Kräften.
 
 »Bemühen Sie sich nicht mehr... Ich halte mich Schon
-selbst fest!« war ihre nächste Aeußerung. ich O,
+selbst fest!« war ihre nächste Aeußerung.
 
-Ich ließ also ihren Arm los, und sie rutschte ein Stücke
-den den mir ab.
+Ich ließ also ihren Arm los, und sie rutschte ein Stückchen
+von mir ab.
 
 Hm — ob sie verhüten wollte, daß ich ihr Gesicht
-sähe?« Fast schien es so, Nu
+sähe?« Fast schien es so.
 
 <@pagebreak/>
 Ich überlegte. Ich war jetzt sicher beinahe überzeugt
-haben, daß die Frau auf dem steuerlosen Kutter gewesen
+davon, daß die Frau auf dem steuerlosen Kutter gewesen
 und daß sich dort, als Harst sich hinübergeschwungen hatte,
 recht sonderbare Dinge abgespielt haben müßten.
 
-ich faßte in die rechte Beinkleidtasche. -
+ich faßte in die rechte Beinkleidtasche.
 
-Ort stecke *meine* Taschenlampe. Die vertrug ebenfalls
+Dort stecke *meine* Taschenlampe. Die vertrug ebenfalls
 ein kaltes Bad. Ich wollte mein Gegenüber mir doch
 einmal ansehen.
 
 Kaum hatte Ich nun die Lampe eingeschaltet, als die
 Frau, bevor der Lichtkegel noch ihr Gesicht traf, aufschrie
-nd wie Halt suchend den einen Arm ausstreckte, Dabei
+und wie halt suchend den einen Arm ausstreckte. Dabei
 schlug sie mir die Taschenlampe aus der Hand.
 
-Absicht?! — Ja — ohne Zweifel! Daran änderte
+Absicht?! — Ja — ohne Zweifel! Daran änderte auch
 ihre rasche Entschuldigung nichts.
 
-Ich wußte Bescheid. Mit dieser Dame stimmte irr
-was nicht
+Ich wußte Bescheid. Mit dieser Dame stimmte irgend
+etwas nicht...
 
-Bai — ist wollte mir nichts anmerken Wasser Ich
-e
+Nun — ich wollte mir nichts anmerken lassen. Ich
+brüllte:
 
 »Ah — das schadet nichts! Nun hat der Schwielow
-zwei« Taschenlampen im Magen! — Ihr Segelboot ist
+zwei Taschenlampen im Magen! — Ihr Segelboot ist
 wohl gekentert, Gnädigste?«
 
-»Nein — es war ein Paddelboot.. 1»
+»Nein — es war ein Paddelboot...!«
 
-»Ein nettes Paddelboot!!! dachte ich
+Ein nettes Paddelboot!!! dachte ich...
 
 Und dann verstummte das Gespräch wieder, da es zu
 viel Lungenkraft erforderte.
 
 Wir schaukelten mit unserer Jolle gemächlich dahin,
-die Meine im Wasser. Wenn die Jolle stärker beherzte, dreisten
+die Beine im Wasser. Wenn die Jolle stärker kobolzte, verneigten
 wir uns ebenfalls, — unabsichtlich.
 
-Plötzlich schienen die Wellen kleiner zu weitem.
+Plötzlich schienen die Wellen kleiner zu werden.
 
 Wir waren in eine Bucht geraten — ins Schilf.
 
-Die ne verankerte sich mit dem nach unten Gerichten
-Matt im sandigen Seegrund und lag Ah.
+Die Jolle verankerte sich mit dem nach unten gerichteten
+Mast im sandigen Seegrund und lag still.
 
 Ich hörte Bäume rauschen. Das Schilf ringsum
-unechte ebenfalls.
+rauschte ebenfalls.
 
-»Ich denke, wir taten an Land,? jagte ich sehr gut
+»Ich denke, wir waten an Land,« sagte ich sehr laut.
 
-da, Ast Werde. ı;«
+»Ja. Ich werde...«
 
 <@pagebreak/>
 Da war die Frau schon von der Jolle ins Wasser gerutscht
-und — — im Nu verschwunden. -
+und — — im Nu verschwunden.
 
-Seh sah nur noch, daß sie sich dem Ufer zuarbeitete,
-Ich kam zu spät. Sie... Markt aus, tauchte zwischen den
+Ich sah nur noch, daß sie sich dem Ufer zuarbeitete.
+Ich kam zu spät. Sie... kniff aus, tauchte zwischen den
 Bäumen unter.
 
 Ich stand da und war arg mißgelaunt. Wenn ich Harald
@@ -260,10 +260,10 @@ leicht ironisches Lächeln bereithaben und sagen: »Lieber
 Alter, mir wäre sie nicht entwischt!«
 
 Ich stand noch nicht lange an dieser Stelle, als von
-Norden her, sich aus der Pfennig eine Männergestalt her-ausföfte:
+Norden her, sich aus der Finsternis eine Männergestalt herauslöste:
 Freund Harald!
 
-»Ah — auch gelandet!« meinte er erfreut. »Komm
+»Ah — auch gelandet!« meinte er erfreut. »Komm’
 mit!«
 
 Das war die ganze Begrüßung.
@@ -275,36 +275,36 @@ Fahrzeug, das ich für einen Kutter, eine Motorjacht oder
 dergleichen gehalten hatte.
 
 Nun sah ich erst, daß es ein recht stattliches, aber auch
-sehr merkwürdiges Schiff war. Es befand sich erwog fünfzehn
+sehr merkwürdiges Schiff war. Es befand sich etwa fünfzehn
 Meter vom Lande ab, war dort auf Grund geraten.
 
 Die dichten Wolken am Nachthimmel taten uns den
-Gefallen, sich ein wenig zu Aeltestem Der gute friedliche
-Vater Blond grinste hindurch,
+Gefallen, sich ein wenig zu zerteilen. Der gute friedliche
+Vater Mond grinste hindurch,
 
 Das Schiff Dort, von mir vorhin in der Finsternis
-auf einen Kutter eingeschätzt, war — eine malaiische Prau!!!«
+auf einen Kutter eingeschätzt, war — eine malaiische Prau!!
 
-Tatsache: hier auf dem Schwielow-See, wenige Meisten
+Tatsache: hier auf dem Schwielow-See, wenige Meilen
 von Berlin entfernt, eine Prau mit den charakteristischen
-Bug- und Heckaufbauten, den beiden plumpen Drängten,
-den gerefftem schweren Mattensegeln!
+Bug- und Heckaufbauten, den beiden plumpen Masten,
+den gerefften schweren Mattensegeln!
 
-Ob ich eine Prau kannte!! Ob — —!! — Wer ums
-unsere früheren Abenteuer gelesen hat, weiß, daß wir vor Fahren
+Ob ich eine Prau kannte!! Ob — —!! — Wer unsere
+früheren Abenteuer gelesen hat, weiß, daß wir vor Jahren
 uns auch einer malaiischen Piratenbande dort im
 Sunda-Archipel liebevollst angenommen hatten.
 
-»Eine Prau!« sagte ich fopsischüttelnd zu Harst.
+»Eine Prau!« sagte ich kopfschüttelnd zu Harst.
 
 <@pagebreak/>
-»Ja, mein Alter, Eine Film Braun, Die Onyx-Film-SG.
-will hier auf dem ehrlichen Schwielow ein Tropen-Imchen
-herstellen. Ich lud davon in der Zeitung. Schwimmen
-wir an Bord, Es gibt dort etwas zu sehen.. »11»
+»Ja, mein Alter. Eine Film-Prau. Die Onyx-Film-As.
+will hier auf dem ehrlichen Schwielow ein Tropenfilmchen
+herstellen. Ich las davon in der Zeitung. Schwimmen
+wir an Bord, Es gibt dort etwas zu sehen...!!«
 
 Das betonte er so seltsam, daß ich ahnte: an Bord der
-Frau stimmte etwas noch viel weniger als mit meiner getreten
+Prau stimmte etwas noch viel weniger als mit meiner geretteten
 und geflüchteten Dame!
 
 <h2>2. Kapitel.</h2>
@@ -313,57 +313,58 @@ und geflüchteten Dame!
 
 Man braucht zuweilen nicht nach Indien oder dem
 malaiischen Archipel zu reisen, um exotische Probleme zu
-n. — Wir waren kaum an Deck der Film-Prau gellet-als
-im bleichen matten Mondlicht aus dem Hedanf-zwei
-Kerle uns überraschend ansprangen.
+lösen. — Wir waren kaum an Deck der Film-Prau geklettert,
+als im bleichen matten Mondlicht aus dem Heckaufbau
+zwei Kerle uns überraschend ansprangen.
 
 Zwei Kerle in Leinenhosen, Turbantücher um die
-Stellungen — Kerle mit dunklen Gesichtern. ı «
+Köpfe geschlungen — Kerle mit dunklen Gesichtern...
 
-Die Burschen mußten ihren Vorteil aus, — — schlugen
-mit dicken Knüttelu
+Die Burschen nutzten ihren Vorteil aus, — — schlugen
+zu mit dicken Knütteln...
 
-Ich krachte aus die Deckplanken. Für Derartig war
-ir die Besinnung geschwunden.
+Ich krachte auf die Deckplanken. Für Sekunden war
+mir die Besinnung geschwunden.
 
 Kam zu mir, als die Kerle mich fesselten, mich unter
-Er auf einen Saufen sandgefüllte Vallasisäcle
-Von.
+Deck schleppten, auf einen Saufen sandgefüllte Ballastsäcke
+warfen.
 
-zu war allein. Finfernis rinnen. Plälschernv
-Osten die Wellen an die Bordwand der Prau. Sie
-ekle träge hin und her.
+Ich war allein. Finsternis ringsum. Plätschernd
+klatschten die Wellen an die Bordwand der Prau. Sie
+rollte träge hin und her.
 
-Ich Weste mich aufrecht. Der Schädel brummte mir.
-er hätte da leise geglückt.
+Ich setzte mich aufrecht. Der Schädel brummte mir.
+Jeder hätte da leise geflucht.
 
 <@pagebreak/>
 Und doch gefiel das Harald nicht, dessen Nähe mir erst
 jetzt durch seine Worte verraten wurde:
 
 »Damit änderst Du auch nichts! Gar nichts! Und mich
+stört es!«
 
-rt es! WW
-»Gestatte — wenn Dir vorhin eine Frau auf der freie
-Abenden Jolle die Taschenlampe ...« Meine Berteidigungs-reve
+»Gestatte — wenn Dir vorhin eine Frau auf der treibenden
+Jolle die Taschenlampe...« Meine Verteidigungsrede
 war schon zu Ende, denn Harst meinte hastig:
-Bai »Eine Frau? Hast Du sie aufgefischt? Trug sie Aufs
-Ofen?«
-na.«
 
-»Gut, dann rutsche ich jetzt näher zu Dir beim
+»Eine Frau? Hast Du sie aufgefischt? Trug sie Kniehosen?«
+
+»Ja.«
+
+»Gut, dann rutsche ich jetzt näher zu Dir heran, bis
 Du mir die Knoten der Handfesseln lösen kannst.«
 
 Die Arbeit glückte.
 
-Wir standen legt aufrecht. Haralds Taschenlampe
+Wir standen jetzt aufrecht. Haralds Taschenlampe
 flammte auf und beleuchtete den Raum.
 
-Die Onyx-Film-As. hatte für den Van des ausgleiten
+Die Onyx-Film-As. hatte für den Bau des malaiischen
 Seglers einen alten Dampferrumpf benutzt, den
 Rumpf eines kleinen Schleppdampfers.
 
-Wir fanden die Bulle und kletterten an der Holzleiter
+Wir fanden die Luke und kletterten an der Holzleiter
 nach oben.
 
 Der Mond hatte sich wieder hinter dem jagenden Gewölk
@@ -377,74 +378,74 @@ Die Kajüte war leer — besser, der Bretterverschlag.
 Harald schaute mich an, leuchtete mir ins Gesicht.
 
 »als ich an Bord der Prau mich hinübergeschwungen
-hatte,« erklärte er, s«— und ich tat’s, weil ich bestatten an
+hatte,« erklärte er, »— und ich tat’s, weil ich Gestalten an
 Deck gesehen, da sprang jemand ins Wasser — die Dame,
-mein Alter! Und ihr nach) sprangen die beiden braunen
-Kerle, die uns jetzt vor fünf Minuten so übel empfingen,
+mein Alter! Und ihr nach sprangen die beiden braunen
+Kerle, die uns jetzt vor fünf Minuten so übel empfingen.
 Da rief ich Dir zu: »Schraut — — Schraut, Vorsicht —
-— Vorsicht!!« Ich fand dann hier in diesem er,
+— Vorsicht!!« Ich fand dann hier in diesem Verschlag
 einen... Toten...«
 
 »Was?! Wie — — einen Toten?!«
 
-»Eine Leiche, einen he graubärtigen, gut beendeten
+»Eine Leiche, einen älteren, graubärtigen, gut gekleideten
 <@pagebreak/>
 Mann, der eine schwere Stirnverletzung hatte. Der
 Tote war noch warm. Er konnte erst vor kurzem verschieden
-sein. Ich Habe ihm die Taschen durchsucht. Ich wollte
-feststellen, wer er sei. Ich entdeckte nichts, Dann freundete
+sein. Ich habe ihm die Taschen durchsucht. Ich wollte
+feststellen, wer er sei. Ich entdeckte nichts. Dann strandete
 die Prau, und ich wollte am Ufer entlangwandern, um
-mit Dir wieder zusammenzutreffen, Nun hat man die
+mit Dir wieder zusammenzutreffen. Nun hat man die
 Leiche beiseite geschafft. In dieser Nacht gibt es hier für
 uns nichts mehr zu tun. Wandern wir nach Kaputh und
-fahren wir heim, nachdem wir die Jolle ausgerichtet und
+fahren wir heim, nachdem wir die Jolle aufgerichtet und
 unsere Stiefel, Westen und Jacken aus dem Verschlag geholt
 haben.«
 
-Gegen Mitternacht waren wir tu’ Hause in der Blücherstraße
+Gegen Mitternacht waren wir zu Hause in der Blücherstraße
 Nr. 10 in Berlin-Schmargendorf.
 
-In Haralds Zimmer brannte Licht, und Frau Harst,.
-seine »Mutter, empfing nun im Flur mit Den geflüsterten
+In Haralds Zimmer brannte Licht, und Frau Harst,
+seine Mutter, empfing uns im Flur mit Den geflüsterten
 Worten: »Es ist eine Dame da, Harald. Sie wartet seit
-halb zwölf Uhr, — eine sehr seine junge Dame, mit der ich
-mich sehr nett unterhalten habe, Ich war noch auf, als sie
+halb zwölf Uhr, — eine sehr feine junge Dame, mit der ich
+mich sehr nett unterhalten habe. Ich war noch auf, als sie
 läutete. Ich ließ sie ein. ihren Namen wollte sie nicht
-Rennen,«
+nennen,«
 
 Wir zogen erst einmal die nassen Sachen aus und
-obere an und betraten dann Haralds Arbeitszimmer.
+trockene an und betraten dann Haralds Arbeitszimmer.
 
 Die späte Klientin war dicht verschleiert, hatte einen
-seidenen Regenmantel an und trug dazu einen fehlten
-Lanzlederhut, he eleganter Keulenschirm, setzte Mine,
-ahnte an der Türfüllung.
+seidenen Regenmantel an und trug dazu einen schicken
+Glanzlederhut. Uhr eleganter Keulenschirm, letzte Mode,
+lehnte an der Türfüllung.
 
 Sie neigte etwas den Kopf, als wir uns vorstellten,
-nd reichte Harald darauf einen Brief ohne Umschlag, sagte
+und reichte Harald darauf einen Brief ohne Umschlag, sagte
 dazu, — und da erkannte ich sofort die Stimme der Frau,
 die mit mir auf der Jolle geritten war:
 
-Ich will Sie nicht lange aushalten, Herr Harst. Bitte
-sein »Sie den: Brief, und dann entscheiden Sie sich bitte,
-Sie den Fall übernehmen wollen
+»Ich will Sie nicht lange aufhalten, Herr Harst. Bitte
+lesen Sie den Brief, und dann entscheiden Sie sich bitte,
+ob Sie den Fall übernehmen wollen.«
 
 Harald lehnte am Schreibtisch und las
 
-»Da,« erklärte er dann. »Ich werde mir doch ein solches
+»Ja,« erklärte er dann. »Ich werde mir doch ein solches
 <@pagebreak/>
 Problem nicht entgehen lassen. — Mit wem habe ich
 die Ehre?«
 
-»Prinzessin Dollen Dortschakoff...«
+»Prinzessin Dolja Dortschakoff...«
 
 Sie erhob sich.
 
 »Ich werde morgen oder besser heute vormittag um
-elf Uhr wiederkommen, Herr Harst, Wenn Sie mich
-freundlichst binausbegleiien wollen ...«
+elf Uhr wiederkommen, Herr Harst. Wenn Sie mich
+freundlichst hinausbegleiten wollen...«
 
-Er tat’s, Den Brief letzte er auf den Schreibtisch, und
+Er tat’s. Den Brief legte er auf den Schreibtisch, und
 überflog die merkwürdige Epistel, die mit Maschine geschrieben
 war:
 
@@ -452,48 +453,48 @@ war:
 
 > An die Prinzessin Dolja Dortschakoff.
 
-Sie werden keinen Erfolg haben, Takt Unter
-lassen Sie alle weiteren Versuche, da« Kruzifix / zurückzuerlangen.
-Wir haben es längst eingeschmolzen, Wenn
-Sie Berlin nicht bis zum 1. August den Rücken gekehrt halbem,
+> Sie werden keinen Erfolg haben, Prinzessin. Unterlassen
+Sie alle weiteren Versuche, das Kruzifix zurückzuerlangen.
+Wir haben es längst eingeschmolzen. Wenn
+Sie Berlin nicht bis zum 1. August den Rücken gekehrt haben,
 ergeht es ihnen genau so wie...
 
-Nun — Sie wissen ja Bescheid.
+> Nun — Sie wissen ja Bescheid.
 
-Sie sehen nun, wie lächerliche) der Aberglaube war,
-der sich an das Kruzifix knüpfte, Tier lächerlich wäre
-es, Mann Sie...
+> Sie sehen nun, wie lächerlich der Aberglaube war,
+der sich an das Kruzifix knüpfte. Ebenso lächerlich wäre
+es, wenn Sie...
 
-Sie verstehen wohl!!
+> Sie verstehen wohl!!
 
-Also bitte: der 1. August muß Sie gehorsam zeigen,
+> Also bitte: der 1. August muß Sie gehorsam zeigen,
 
 > Leaxyeka,
 
-Ich letzte den Brief weg.
+Ich legte den Brief weg.
 
-Prinzessin?! — Hm — ich ich glaubte nicht daran, daß
+Prinzessin?! — Hm — *ich* glaubte nicht daran, daß
 die Dame, die mir die Taschenlampe aus der Hand geschlagen
 hatte, eine Prinzessin war!
 
 Ich setze mich an den Sofatisch und griff nach einer
 Zigarre.
 
-Harald schien diese.,. Prinzessin durch den Vorgarten
-bis auf die Straße begleitet zu haben. Er Hm noch
-immer nicht zur
+Harald schien diese... Prinzessin durch den Vorgarten
+bis auf die Straße begleitet zu haben. Er kehrte noch
+immer nicht zurück.
 
 <@pagebreak/>
-Ich gähnte — gähnte wieder
+Ich gähnte — gähnte wieder...
 
-Der Kopf wurde mir schwer, Ich war müde, schloß
-die Augen, letzte die Pianino weg.
+Der Kopf wurde mir schwer. Ich war müde, schloß
+die Augen, legte die Zigarre weg.
 
 Schlief ein.
 
 Schrak zusammen — erwachte, weil die tiefen Töne
 des Gongschlagwerks der Standuhr sich in mein Hirn, in
-meine Träume als — ich glaube als Kanonenschüsse ein-gedrängt
+meine Träume als — ich glaube als Kanonenschüsse eingedrängt
 hatten.
 
 Und sah: es war fünf Uhr morgens!
@@ -502,24 +503,23 @@ Sah, daß die Zimmertür noch halb offen war, daß die
 elektrische Krone noch brannte und daß... vor mir auf
 dem Tische ein Zettel lag:
 
-Bald Sie beide sich einmischen sollten, werden Sie
+> Falls Sie beide sich einmischen sollten, werden Sie
 es bereuen.
 
-Learxyeka.
+> Leaxyeka.
 
-Der Zettel machte mich munter. — Es war also je
+Der Zettel machte mich munter. — Es war also
 jemand hier im Zimmer gewesen, während ich schlief und
 während Harald — —
 
 Ja — wo steckte Harald?!
 
-ich sprang auf, Ich fand die Haustür nur angelehnt, -
+ich sprang auf. Ich fand die Haustür nur angelehnt.
 Draußen dämmerte der neue Tag herauf. Die Spatzen im
 Weinspalier vollführten einen Lärm, als ob sie Reichstag
 spielten,
 
-Wo war Harst?! Etwa der »Prinzessin« nachgeschli«
-n?!
+Wo war Harst?! Etwa der »Prinzessin« nachgeschlichen?!
 
 Ich ging in den Vorgarten, bis an die Pforte.
 
@@ -527,40 +527,40 @@ Drüben an einer Laterne lehnte ein Mann mit einem
 großen Besen, anscheinend ein Straßenkehrer,
 
 Unsereiner, durch den Beruf zum Mißtrauen erzogen,
-hat schärfste Augen als der gewöhnliche Sterbliche, hat
+hat schärfere Augen als der gewöhnliche Sterbliche, hat
 die Augen in der Gewalt, tut, als ob er nichts sähe und
-sich! doch alles,
+sieht doch alles,
 
-Das war sein Strakenfcehrer. Das war ein Spion,
-trafenkehrer tragen zumeist Dienfimüten und arbeiten
-nie allein, sondern zu mehreren, Das war ein... Spion,
+Das war kein Straßenkehrer. Das war ein Spion.
+Straßenkehrer tragen zumeist Dienstmützen und arbeiten
+nie allein, sondern zu mehreren. Das war ein... Spion,
 
 <@pagebreak/>
 »Warte!« dachte ich. »Dich will ich schon wegbringen!«
 
 Ich kehrte ins Haus zurück, hatte zehn Minuten später
-Maske gemacht und schritt als älscherer Herr nun Die
-Blücherstraße hinab. Der Mann folgte mit. in einem
+Maske gemacht und schritt als älterer Herr nun Die
+Blücherstraße hinab. Der Mann folgte mir. in einem
 Durchgangshause in der Paulsborner Straße entkam ich
 ihm, eilte heim und fand Harald noch nicht vor.
 
-Also — zweite Maske angelegt, die eines Laternen-pugzers!
+Also — zweite Maske angelegt, die eines Laternenputzers!
 
 Oh — Harst und ich haben drei Schränke voller Kostüme
-und Requisiten. ….!
+und Requisiten...!
 
 Kaum hatte ich mich einer Straßenlaterne schräg gegenüber
-liebevoll angenommen, als der Spion zurückkehrte,
-Ich stand oben auf der leichten Leiter und tat so, ls
+liebevoll angenommen, als der Spion zurückkehrte.
+Ich stand oben auf der leichten Leiter und tat so, als
 brächte ich den Brenner in Ordnung.
 
 Der Spion trat zu mir, hob den Kopf.
 
-»He — eine Frage... .", rief er mir zu. »Haben Sie
+»He — eine Frage...«, rief er mir zu. »Haben Sie
 vielleicht soeben einen graubärtigen Herrn dort in Nr. 10
 verschwinden sehen?«
 
-»Und ob!! Einen Herrn mit’n Einerlei uf Die Nese.«
+»Und ob!! Einen Herrn mit’n Kneifer uf Die Nese.«
 
 »Danke...«
 
@@ -570,58 +570,58 @@ blieb in der Nähe.
 Nun kam auch ein Auto die Straße daher, hielt vor
 Nr. 10. Harst saß darin — im bloßen Kopf.
 
-Er bezahlte den Chauffeur und betrat das Haus, Ich
+Er bezahlte den Chauffeur und betrat das Haus. Ich
 hatte ihm auf dem Sofatisch Nachricht zurückgelassen. Er
-kannte also meine Miete. Ich war gespannt, was nun
+kannte also meine Maske. Ich war gespannt, was nun
 folgen würde.
 
 Ich nahm die nächste Laterne vor. ich ließ mir Zeit.
 
 Und — kaum eine Viertelstunde drauf verließ Harald
-Heim und schlenderte an meiner Arbeitsstelle vorüber.
+unser Heim und schlenderte an meiner Arbeitsstelle vorüber.
 
-»Eine Papierkugel fiel ans seiner Hand in meinen Haken
-mit den Pubacrätichaften.
+Eine Papierkugel fiel aus seiner Hand in meinen Kasten
+mit den Putzgerätschaften.
 
-Der Spion blieb hinter Harald her, Beide schlugen
+Der Spion blieb hinter Harald her. Beide schlugen
 die Richtung nach Dem Grunewald ein,
 
 <@pagebreak/>
 ich las den Zettel.
 
 Bin der Prinzessin gefolgt. Sie fuhr mit Auto nach
-Kegel, wo sie in einem Hause (Wertes der Uferstraße, Nr.
-64) verschwand. Das Haus E in einem Garten und ist
+Tegel, wo sie in einem Hause (letztes der Uferstraße, Nr.
+54) verschwand. Das Haus liegt in einem Garten und ist
 sehr alt, anscheinend früheres Gutshaus oder dergleichen.
 Es ist seit vier Monaten an einen Russen namens Davidow
-vermietet, — Wir treffen uns abends elf Uhr am Bahnhof
+vermietet. — Wir treffen uns abends elf Uhr am Bahnhof
 Tegel. Beobachte den Spion. H.
 
-Meine Leiter und den Statten wurde ich schnell los,
-den lief ich die Straße hinab, erspähte auch; bald den
-on, der seinen Besen geschultert trug.
+Meine Leiter und den Kasten wurde ich schnell los.
+Dann lief ich die Straße hinab, erspähte auch bald den
+Spion, der seinen Besen geschultert trug.
 
-Harald lobte ihn erst im Bogen nach dem Vorort Halensee,
-dann nach Charlottenburg hinein. Im Kernbahn-hof
+Harald lockte ihn erst im Bogen nach dem Vorort Halensee,
+dann nach Charlottenburg hinein. Im Fernbahnhof
 Charlottenburg entzog er sich dem Manne, der jetzt nach
-längerem fruchtlosen Suchen sich in den Wartesaal setze.
-Hier benutze er das Telephon. — Ich war gespannt, ob
-er etwa Hilfe herbeigerufen hatte. vielleicht hatte er einsehen,
-daß er allein mit uns nicht fertig würde..
+längerem fruchtlosen Suchen sich in den Wartesaal setzte.
+Hier benutzte er das Telephon. — Ich war gespannt, ob
+er etwa Hilfe herbeigerufen hatte. vielleicht hatte er eingesehen,
+daß er allein mit uns nicht fertig würde.
 
 Ich trank Kaffee. Der Wartesaal war recht belebt. Der
-vn. achtete nicht auf mich,
+Spion achtete nicht auf mich,
 
-Nach etwa einer Stunde kam eine einige gekleidete
-»Frau ohne Hut, mit einem Tuch um den Kopf und einem
-Fähigen kleinen Koffer. Die Frau war jung und hübsch.
-war mir meiner Sache nicht ganz sicher, aber ich der
-Nil ich daß es die angebliche Prinzessin Dolja Wortschatz
-€ ne...
+Nach etwa einer Stunde kam eine einfach gekleidete
+Frau ohne Hut, mit einem Tuch um den Kopf und einem
+schäbigen kleinen Koffer. Die Frau war jung und hübsch.
+Ich war mir meiner Sache nicht ganz sicher, aber ich vermutete
+daß daß es die angebliche Prinzessin Dolja Dortschakoff
+sei...
 
 <@pagebreak/>
 
-<h2>3, Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>Viele Fragen — keine Antwort!</h3>
 
@@ -656,7 +656,7 @@ Meide.
 
 Nun — die Verfolgung endete vor einem eleganten
 Mietspalast der Jnnêébrucker Straße, Berlin W. Die Frau
-betrat das Haus durch den Kellereingang »Für Lieferanten».
+betrat das Haus durch den Kellereingang »Für Lieferanten«.
 
 <@pagebreak/>
 Ich wartete volle zwei Stunden. Die Frau erschien -
@@ -795,7 +795,7 @@ Kein Mensch zu sehen. in diesem Garten, der so wun-verwilbert
 war, kam man sich wie im Märchen
 »Das unruhige Berlin war so nahe, und doch —
 herrschte Stille, Frieden, Stimmung, hier lugten unter
-autbügeln Kelle von Pianino Sianbbildern. von Baron
+autbügeln Kelle von Pianino Standbildern. von Baron
 <@pagebreak/>
 aßen Baten und Springbrunnen hervor. Hier jubilierien
 Vögel aller Nr: in den grünen Laubdächern, hier erheblich
@@ -896,7 +896,7 @@ davon. Er hatte die drei Stummel zerdrückt und die Einlage
 geprüft.
 
 Wir erging es hier wie so oft: ich hatte das Gefühl,
-daß irgend ein Unheil in der Nähe lauere wie ein sprung-bereites
+daß irgend ein Unheil in der Nähe lauere wie ein sprungbereites
 heim4üisches Tier!
 
 Ich horchte andauernd auf jedes Geräusch. Ich erwartete
@@ -931,7 +931,7 @@ und beobachtet.. 1»
 Und — dazu lächelte er ein wenig, fügte hinzu: »Nun
 »ferne ich das ganze Geheimnis! Auch das ist...«
 
-Mit einem Riesensay schnellte er plötzlich vorwärts...
+Mit einem Riesensatz schnellte er plötzlich vorwärts...
 
 Wir waren von rechts, durch die Flurtür, eingetreten.
 Harald erreichte Die andere Tür, die in den Dickere
@@ -1155,7 +1155,7 @@ Waren, als er auch schon erklärte, uns über den Schlafes
 Motorboot (Ok Diven, Ihr Bettler erzählte
 <@pagebreak/>
 uns, daß am Westufer des irres in einer Bucht von ei
-per Filinfabrik ein Melaiendorf aufgebaut worden sei und
+per Filmfabrik ein Melaiendorf aufgebaut worden sei und
 daß heute dort gesilmsch würde
 
 »Dann nach dem Filmwvie!« meinte Harald, Hoffentlich
@@ -1165,7 +1165,7 @@ Künstlereifersucht und wohl auch aus Haß gegen eine Verwandte
 sich auf sehr üble Geschichten eingelassen, Die Films-schau
 brachte einen Artikel letztens, daß die Onyx-Geselle
 Erbschaft einen neuen Starr entdeckt habe, der in dem neuen
-exotischen Film »Die Gefangene des Malatenfürsten« die
+exotischen Film »Die Gefangene des Malaienfürsten« die
 Hauptrolle spielen würde und zwar an Stelle Silvia Longas,
 die mehr für Salondamen geeignet sei,«
 
@@ -1179,16 +1179,16 @@ sen, daß auch ein Binnenaewäfler seine Tücken hat,
 
 Wir näherten uns dem Westufer.
 
-Wir sahen das Malaiendoyf die fürstlichen Patnıbäu-me,
+Wir sahen das Malaiendorf die fürstlichen Patnıbäu-me,
 die Hütten, die hoch auf Pfählen am Der über dem
-Wasser sich erbeben, sahen Die Frau, die Dicht Nannten Vers
-ankert war.
+Wasser sich erbeben, sahen Die Frau, die Dicht Nannten Verankert
+war.
 
 Der geflickte Oel Windes einer eifmfsenerie enge
 ich uns. Ein Sikh exotische Küste war hier, ausgebaut war
 den, Menschen bewegten sich hin und her — braune Gen
 Blassen mit Loendvontüchern, dazwischen die Herden Filme
-operateure, Regisscure und einige Damen,
+operateure, Regisseure und einige Damen,
 
 Die Ausnahmen waren bereits beendet,
 
@@ -1410,8 +1410,8 @@ na ein älteres Ehepaar, Flüchtlinge aus dem
 Ruhrgebiet, bei sich aufgenommen, damit sie nicht in dem
 öden Gebäude allein sei.
 
-Wir hatten sie jeden Tag gesprochen, aber Selbft las
-Lords Ueberrevungsfunst gelang es nicht, diese versiegelten
+Wir hatten sie jeden Tag gesprochen, aber Selbst las
+Lords Ueberredungskunst gelang es nicht, diese versiegelten
 Lippen zu öffnen.
 
 Am dritten Tage wurde Dortschakoff vormittags in
@@ -1479,8 +1479,8 @@ denn sie uns im Hause begegneten. Bedenken Sie auch,
 ß wir auf unseren Besitzungen bei Mein einige achtzig
 jener hatten, die wir zumeist nur selten zu Gesicht bekamen
 und kaum ihrer- Aehnlichkeit wegen auseinanderhal-konnten.
-— ich muß mir auf etwas zu sprechen keine
-en, das der sogenannte gebildete Europäer gern belächelt:
+— ich muß mir auf etwas zu sprechen keinen,
+das der sogenannte gebildete Europäer gern belächelt:
 ist innerasiatische Geheimnisse, auf die Künste der Schamanen,
 der Zauberer und Priester der Turkmenen und anderer
 Steppenvölker, — Gorim ist der Sohn eines solchen
@@ -1606,7 +1606,7 @@ Sie… lächelte grünlich...
 
 Und sagte in harmlos-scherzendem Tone: »Nein, wie
 man nur so vergeblich sein kann! ich habe den Brief ja
-selbst geschrieben, Herr Harst, Mit meines Vaters Schreib-AARE
+selbst geschrieben, Herr Harst, Mit meines Vaters Schnell-Auto
 Ich wollte Sie für uns stärker hinein
 n...
 
@@ -1624,7 +1624,7 @@ Blicke bohrten sich in Doljas halb verschleierte
 gen ein.
 
 Ich — ich ahnte: Harst kämpfte hier mit Gorim, dem
-hamanensohne, der durch das Bawirutu soeben wieder
+Schamanensohne, der durch das Bawirutu soeben wieder
 Prinzessin einen Befehl aus der Ferne zugesandt hatte!
 
 Harsts eiserne Willenskraft suchte diesen Einfluß des
@@ -1886,7 +1886,7 @@ Er richtete sich wieder auf...
 
 »Tot, — und deshalb erlosch auch der unheilvoffe Einfluß
 auf Dolja Dortschakoff vollständig, und plötzlich! Mit
-des Schamanenfohne? hinicwinnendem Penmntptfein zerrissen
+des Schamanensohne? hinicwinnendem Penmntptfein zerrissen
 die Fahren, die Kraft seines Willens unsichtbar von ihm
 zu der Prinzessin reichten; — Nun wollen mir feststellen,
 woher das Gas in diesen Raum gelangt ist,«
@@ -2045,7 +2045,7 @@ wird das Wandversteck vorhin ausgeräumt haben.«
 
 »Aber — — das Gas!!« meinte ich.
 
-»Oh — es gibt Gaêmasken, mein Alter,«
+»Oh — es gibt Gasmasken, mein Alter,«
 
 Er trat an die Wand heran und zog das Beule Stück
 Tapete ohne Schwierigkeiten ab.
@@ -2063,7 +2063,7 @@ erstem
 
 Ein Holzkästchen war,8 — eine Stonfektfchachtel
 
-als Dolja nun den Deckel hochshlug, prallte sie
+als Dolja nun den Deckel hochschlug, prallte sie
 r
 
 »Mein Gott — das — das sind ja all unsere Famose«
@@ -2273,7 +2273,7 @@ hinabgesprungen. Die Fensterflügel waren nur zu-gedücdt
 
 Im Vorgarten sah man die Absprungspur ganz deute
 sich, Es waren Spuren von spitzen Männerslieseln, sogenannten
-Fimmyschuhem,
+Jimmyschuhen,
 
 Wir fuhren zur Polizei.
 
@@ -2285,7 +2285,7 @@ Herr Harst? Der Mensch ist ja längst über alle Berge!
 Wir haben schon Durch telegraphische Nachfragen herausbekommen,
 daß Zeilöng ein Schwindler sein muß, ein
 Hochstapler. Die Antwortdepeschen liefen heute morgen
-ein. Es gibt seinen Grafen Tessöny. Das Adelsprädi-kat
+ein. Es gibt seinen Grafen Tessöny. Das Adelsprädikat
 ist glatt erfunden.«
 
 »Dachte ich mir,« vier Harst.
@@ -2323,7 +2323,7 @@ stehen ließ. Die Brillantschnur ist bekanntlich das
 Wertvollste dieser Art, was es an Geschmeiden gibt Die
 24 Edelsteine, von auscesuchtester Reinheit und Größe, wären
 heutzutage mit Papiermark überhaupt nicht zu bezahlen.
-— nun sieht — Selbft der vertwegenfle Verbrecher hat
+— nun sieht — Selbst der vertwegenfle Verbrecher hat
 Pech! Die ganzen Dortschakoff-Juwelen sind nicht ein
 Zehntel so viel wert als das Brillantkollier!
 
@@ -2340,7 +2340,7 @@ Kriegsgewinnler absteigen muß...«
 
 Was Harald Unreifer von seinem Trick in längeren
 Ausführungen erläuterte, ließ Bahn die Hoffnung gerechtfertigt
-erscheinen, daß Tessöny- sich diesen »Happen»
+erscheinen, daß Tessöny- sich diesen »Happen«
 nicht entgehen lassen würde. —
 
 Wir kehren wieder nach Hause zurück.
@@ -2474,7 +2474,7 @@ Siegesallee.
 Und gegen halb neun wußten wir, wo er wohnte,
 in der Fuvalidensträaße in einem Hotel dritten Ranges.
 
-he jetzt schon verlassen zu lassen, wäre grundver-kehrt
+he jetzt schon verlassen zu lassen, wäre grundverkehrt
 <@pagebreak/>
 gewesen. Daß es Tessöny war, hatte uns sein da
 vakteristischer Gang bewiesen: stark einwärts! — Daß er
@@ -2484,7 +2484,7 @@ ihm also anderöwie abnehmen. Und — das geschah auch
 dank Haralds Trick. —
 
 Am Abend brachten die Zeitungen die Nachricht, daß
-der amerikanische Kricgsfabrikant und Milliardär Mr. Toll-«
+der amerikanische Kriegsfabrikant und Milliardär Mr. Toll-«
 ler im Esplanade nebst Privatsekretär vorgestern abgestiegen
 und jetzt mit Harald Harst wegen Ankaufs der Brillantschnur
 in Unterhandlungen getreten sei, auf die ihn die Noten
@@ -2506,7 +2506,7 @@ zu ein Uhr in den Vorraum des Hotels bestellt habe.
 Um ein Uhr saßen wir beide in tadellosen Muasken
 gleichfalls im Vorraum, Kurz nach eins erschien ein sehr
 Wider, blondbärtiger Herr, der stark einwärts ging: Tessöny
-als Holländer, der die gestohlenen Juwelen dem zahlungs-fähigen
+als Holländer, der die gestohlenen Juwelen dem zahlungsfähigen
 Toffler anbrechen wollte, was insofern eine Frechheit
 war, als er doch wußte, daß auch Harst (angeblich) mit
 Toffler wegen der Brillantschnur verhandele.
@@ -2523,7 +2523,7 @@ im Davon-Hotel.
 Als der dies Holländer das Esplanade verlieh, blieben
 wir hinter ihm.
 
-Und — nun erfolgte der tragische Abschluß dieser Gau-nerlomödie...
+Und — nun erfolgte der tragische Abschluß dieser Gaunerkomödie...
 
 Erfolgte an einem Orte, Der und nicht ganz fremd
 war...
@@ -2586,7 +2586,7 @@ Sie schlug den Schleier hoch,
 Du hier, Silvia?! Wir beide sind miteinander fertig!
 
 »So?! Was Du nicht sagst, teurer Niclas! Vielleicht
-ist Dein Gedächtnis etwas kurz Für all die Schurke-reien,
+ist Dein Gedächtnis etwas kurz Für all die Schurkereien,
 in die Du mich verwickelt hast, — zu warst es, der
 Ei mir näherte, nur um Deine Pläne zu fördern, die lediglich
 den Dortschakoff-Daneben galten. Du hast mich dazu
@@ -2601,7 +2601,7 @@ aller Welt bloßzustellen!«
 Und ehe Tessöny sich’s versah, hatte sie ihm mit der
 Reitpeitsche zweimal über das Gesicht geschlagen.
 
-Wir hörten die Hiebe klatschen, Wir hörten des Hoch-staplers
+Wir hörten die Hiebe klatschen, Wir hörten des Hochstaplers
 <@pagebreak/>
 schrillen Wutschrei, sahen, daß er auf Silvia Longa
 eindrang.
@@ -2648,7 +2648,7 @@ daß er hätte hundert Jahre alt werden müssen, um all
 die Strafen abzusigen,
 
 Die Prinzessin Dolja lebt jetzt drüben im Amerika
-unter dem Schuhe des Slernenbanners, und mit ihr zog
+unter dem Schuhe des Sternenbanners, und mit ihr zog
 Kaliber den Ozean Silvia Longa, die Reummitige, deren gutem
 Ruf die Geheimnisse des Zimmers ohne Fenster doch
 <@pagebreak/>
@@ -2670,13 +2670,13 @@ __Das Paket im Urbanhafen.__
 <@pagebreak 63/>
 Nachdruck verboten. Alle Rechte einschließlich Verfilmungsrecht
 vorbehalten. Copyright by Verlag moderner Lektüre
-G.enden;in.enden;b.enden;H. Berlin 26. — 1928.
+G.m.b.H. Berlin 26. — 1928.
 
-Wir weisen alle Freunde der Harald Harkt-Abenteuer
+Wir weisen alle Freunde der Harald Harst-Abenteuer
 darauf hin, daß aus Anlaß der
 Herausgabe des 100ften Harstbandes
 
-»Unser 100fe8 Abenteuer»
+»Unser 100stes Abenteuer«
 
 ein Roman mit Harst und Schraut als
 Hauptpersonen in unserem Verlage mit
@@ -2686,5 +2686,5 @@ Der Klub der Toten
 
 erscheint,
 
-Brut: Bucdruderei V. Lehmann G.enden;in.enden;b.enden;H.. Berlin.
+Druck: Buchdruckerei V. Lehmann G.m.b.H. Berlin.
 
