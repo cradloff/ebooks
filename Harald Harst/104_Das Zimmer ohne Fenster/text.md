@@ -625,65 +625,67 @@ sei...
 
 <h3>Viele Fragen — keine Antwort!</h3>
 
-Sie hatte sich zu dem Straßenkehrer an den Tisch zu
-fest und flüsterte eifrig mit ihm.
+Sie hatte sich zu dem Straßenkehrer an den Tisch gesetzt
+und flüsterte eifrig mit ihm.
 
 ich hatte jetzt reichlich Zeit, mir die Ereignisse der
 Nacht nochmals zu vergegenwärtigen.
 
 Das Abenteuer mit der Film-Prau war mir seinem
-wahren Kern nach noch völlig unklar. Harald hatte mir,
-erklärt, die Prau sei wahrscheinlich in einer Bucht am Weit
-Ufer des Sees verankert gewesen. Weshalb Hatten die
-»Prinzessin« und die beiden braunen Kerle, die uns mache
-her niederschlugen, sich bei dem Orkan mit dem Fahrzeug
+wahren Kern nach noch völlig unklar. Harald hatte mir
+erklärt, die Prau sei wahrscheinlich in einer Bucht am Westufer
+des Sees verankert gewesen. Weshalb Hatten die
+»Prinzessin« und die beiden braunen Kerle, die uns nachher
+niederschlugen, sich bei dem Orkan mit dem Fahrzeug
 auf den See hinausgewagt?! Weshalb hatten sie die Prau
 überhaupt aufgesucht? Und weshalb flohen sie von Bord
-als Harald von unserer Jolle hinübersprang? (Etwa, wer
+als Harald von unserer Jolle hinübersprang? Etwa, weil
 sie den Mann ermordet hatten, der in dem Deckverschlage
 lag und der nachher verschwunden war?!
 
-Den — viele Fragen, und — nicht eine einzige Alte
-Wort! —
+Viele — viele Fragen, und — nicht eine einzige Antwort!
+—
 
 Da — die Frau mit dem schäbigen Koffer entfernte
+sich.
 
 Ob es nicht besser war, ihr zu folgen und den Spion
 vorläufig sich selbst zu überlassen?!
 
 Ich entschloß mich sehr schnell. Ich folgte dem jungen
-Meide.
+Weibe.
 
 Nun — die Verfolgung endete vor einem eleganten
-Mietspalast der Jnnêébrucker Straße, Berlin W. Die Frau
+Mietspalast der Innsbrucker Straße, Berlin W. Die Frau
 betrat das Haus durch den Kellereingang »Für Lieferanten«.
 
 <@pagebreak/>
-Ich wartete volle zwei Stunden. Die Frau erschien -
+Ich wartete volle zwei Stunden. Die Frau erschien
 nicht Wieder.
 
 Was tun?! — Schon wollte ich nach dem Bahnhof
 Charlottenburg zurück und nachsehen, ob der Spion noch
-Wartesaal Nähe, als ein elegantes Privatauto vor dem
+im Wartesaal säße, als ein elegantes Privatauto vor dem
 Hause vorfuhr.
 
 Es war nun mittlerweile halb neun geworden.
 
-Eine Zofe Schleppte einen Niejenfarton in das Auto,
-nd dann kam eine sehr fehlte blonde Dame und stieg rasch
+Eine Zofe Schleppte einen Riesenkarton in das Auto,
+und dann kam eine sehr schicke blonde Dame und stieg rasch
+ein.
 
 So rasch sie auch war: ich erkannte sie doch! Es war
-Frau mit dem Kopftuch!!
+die Frau mit dem Kopftuch!!
 
 Bisher hatte ich Glück gehabt. Nun aber fand ich zu
-einem Pech keine Gelegenheit, dem Auto zu folgen,
+meinem Pech keine Gelegenheit, dem Auto zu folgen,
 
 Doch — mit solchen Zwischenfällen rechnet unsereiner!
 
-Und — fünf Minuten später wußte ich durch den Poren
-Erbes Hauses Junsbrucker Straße 291, daß die Dame die
-Brannte Filnmdiva Silvia Longa gewesen, die im, ersten
-Tod sechs Zimmer bewohnte. Sie sei soeben zu einer Film-nahme
+Und — fünf Minuten später wußte ich durch den Portier
+des Hauses Innsbrucker Straße 291, daß die Dame die
+bekannte Filnmdiva Silvia Longa gewesen, die im ersten
+Stock sechs Zimmer bewohnte. Sie sei soeben zu einer Filmaufnahme
 nach dem Schwielow-See »hinausjejondelt«.
 
 Nun — mehr brauchte ich nicht zu erfahren.
@@ -693,130 +695,131 @@ Ich kehrte nach Bahnhof Charlottenburg zurück.
 An dem Tische des Straßenkehrers saß jetzt ein alter
 weißbärtiger Mann, Typ Künstler, der das Hungern kennt.
 
-»Van dieser in blinzelte mir verstohlen zu.
+Und dieser Alte blinzelte mir verstohlen zu.
 
-Blatt — —
+Harst — —!!
 
 Ich setzte mich zu ihm. Wir taten, als kämen wir zufällig
 ins Gespräch. — »Ich habe Dich hier erwartet,« erklärte
 er leise. »Ich war dem Spion auf sehr einfache Weise
-schlüpft: ich bat hier einen Kellner, mich hinter dem
-Ufers verbergen zu dürfen. Einem Harst schlägt niemand
-As ab, Ja sah ich den! auch die ra mit beim Sohle
-ich, Nachher, als Las hinter ihr bliebst, tat ich ballerte
-uf dem Straßenkehrer. Er betrat ein Haus der Brechenden
-Straße. Es ist kein anderer als der bekannte Filuv-chauspieler
+entschlüpft: ich bat hier einen Kellner, mich hinter dem
+Büfett verbergen zu dürfen. Einem Harst schlägt niemand
+etwas ab. So sah ich denn auch die Frau mit dem Kopftuch.
+Nachher, als Du hinter ihr bliebst, tat ich dasselbe
+mit dem Straßenkehrer. Er betrat ein Haus der Bregenzer
+Straße. Es ist kein anderer als der bekannte Filmschauspieler
 Hektor Alken.«
 
 <@pagebreak/>
 »Und die Frau mit dem Kopftuch war Silvia Longa!«
 spielte ich meinen Trumpf aus.
 
-»Das dachte ich mir. Ich wußte zu, daß sich in der
-verflossenen Nacht auf dem Schwielow-See etwas Mr
-nen würde, denn gestern früh erhielt ich mit Der wo
-Brief, den ich Dir bisher Nr gezeigt habe. Da
-es!
+»Das dachte ich mir. Ich wußte auch, daß sich in der
+verflossenen Nacht auf dem Schwielow-See etwas ereignen
+würde, denn gestern früh erhielt ich mit Der Post diesen
+Brief, den ich Dir bisher nicht gezeigt habe. Da —
+lies!«
 
 Der Brief lautete:
 
-> Sehr. N Herr Harst!
+> Sehr geehrter Herr Harst!
 
-Ich möchte Sie auf das Haus Tegel, Uferstr. 54 aufmerksam
+> Ich möchte Sie auf das Haus Tegel, Uferstr. 54 aufmerksam
 machen. Die Außenwände sind völlig von
-dem Wein überwuchert, so daß man nicht sieht, daß der
+wildem Wein überwuchert, so daß man nicht sieht, daß zwei
 Fenster im ersten Stock vor Jahren einmal zugemauert worden
 sind. Das Haus enthält also ein Zimmer ohne Fenster
-— + 11! Vielleicht fleht dieses Zimmer zu den Dingen
+— — !!! Vielleicht steht dieses Zimmer zu den Dingen
 in Beziehung, die auf dem Schwielow-See sich abspielen
-dürften. — Jemand, der weiß, daß Sie gern See
+dürften. — Jemand, der weiß, daß Sie gern Geheimnisse
 aufdecken.
 
-»Ja — deshalb wollte ich trotz des beohenbeil Unwetters
-mit der Jolle heimfahren,« sagte Harald nun.
-war ein Zufall, daß wir dann Die Prau ranımten, bin
+»Ja — deshalb wollte ich trotz des drohenden Unwetters
+mit der Jolle heimfahren,« sagte Harald nun. »Es
+war ein Zufall, daß wir dann Die Prau rammten. Aber
 ich glaube, die Prau ist das, was der Briefschreiber andeutet,
 und ich glaube weiter, daß die Geschehnisse ziemlich
 klar sind, falls eben Silvia Longa die Dame war, die Du
-geliefert und die Dir entfloh, nachdem sie samt ihren Begleitern
+rettetest und die Dir entfloh, nachdem sie samt ihren Begleitern
 vor mir ins Wasser gesprungen«
 
-»Du irrst,« meinte ich hastig. »Die Frau, die mit Wir
+»Du irrst,« meinte ich hastig. »Die Frau, die mit mir
 auf der Jolle ritt, war die Prinzessin Dolja Dortschakoff,«
 
-Harald starrte mich | an. »Unmöglich! Dann
-wäre alles das, was ich.. + Er sprach immer leiser Er
-schwieg
+Harald starrte mich verblüfft an. »Unmöglich! Dann
+wäre alles das, was ich...« Er sprach immer leiser. Er
+schwieg...
 
-Sein ehrwürdiges Grelsenanilih senkte sich. un
-er unvermittelt: »Dann »kann mußt
+Sein ehrwürdiges Greisenantlitz senkte sich. Und so
+flüsterte er unvermittelt: »Dann... dann mußt Du die
 <@pagebreak/>
-Amme verkannt haben, nein Alter, Sarg, bestürmt! Cé
-st ausgeschlossen, daß die Frau, die Dir in den Wald entwich,
-die los gewesen sein kann, Würdest Du das
+Stimme verkannt haben, mein Alter. Ganz bestimmt! Es
+ist ausgeschlossen, daß die Frau, die Dir in den Wald entwich,
+die Prinzessin gewesen sein kann. Würdest Du das
 beschwören?«
 
-»hm — das nicht gerade ...1»
+»hm — das nicht gerade...!«
 
 »Aha!« Er hob den Kopf. »Es ist eine üble Sache um
 Eine bestimmte Form der Eifersucht. Man glaubt nicht,
-Las Schon alles dieser Eifersucht wegen aesündiat wurde.«
-eine Stimme klang immer noch grüblerisch, versonnen,
-gewiß — der Fall kann auch umgekehrt liegen, Ich
-eure, wir kehren heim, durch den Gemüsegarten, und fahren
-dann in der Verkleidung von harmlosen Bürgeraus-glern
+was Schon alles dieser Eifersucht wegen gesündigt wurde.«
+Seine Stimme klang immer noch grüblerisch, versonnen.
+»Gewiß — der Fall kann auch umgekehrt liegen. — Ich
+denke, wir kehren heim, durch den Gemüsegarten, und fahren
+dann in der Verkleidung von harmlosen Bürgerausflüglern
 mit einem Motorboot nach dem Schwielow-See«
 
 Der Plan schien ihm selbst nicht zu gefallen. Er schaute
-Feder vor ich bin.
+wieder vor sich hin.
 
-»Oder — fahren wir nach) Tegel, mein Aber, — div
-in, fügte er hinzu. »Das Zimmer ohne Fenster
-mich — Ja — — nach Tegel! Vorwärts!«
+»Oder — fahren wir nach Tegel, mein Alter, — und
+gleich...", fügte er hinzu. »Das Zimmer ohne Fenster
+reizt mich. — Ja — — nach Tegel!! Vorwärts!«
 
-Die Straßenbahn hielt. Wir stiegen aus und« warnten
-zu Fuß weiter, Der bewölkte Himmel ließ den
-Tegeler See düster und Staubig erscheinen, st
+Die Straßenbahn hielt. Wir stiegen aus und wanderten
+zu Fuß weiter. Der bewölkte Himmel ließ den
+Tegeler See düster und unfreundlich erscheinen.
 
-Dann die Uferstraße das einsam gelegene Haus
-54 — Dicht am Walde — im uralten Garten, mit ur
-Alten Pfannen das Dach gebot,
+Dann die Uferstraße — das einsam gelegene Haus
+Nr. 54 — dicht am Walde — im uralten Garten, mit uralten
+Pfannen das Dach gedeckt,
 
 Um den Garten eine hohe, verwitterte Mauer, und —
-Mauerpforte halb offen.
+die Mauerpforte halb offen.
 
 Wir traten ein. Wir bogen um eine Gebüschgruppe,
-nun, daß das zweistöckige Haus dem Verfall nahe
-daß die Erdgeschoßfenster mit Brettern vernagelt und
+sahen nun, daß das zweistöckige Haus dem Verfall nahe
+war, daß die Erdgeschoßfenster mit Brettern vernagelt und
 im ersten Stock an zwei Fenstern Gardinen angebracht
-en.
+waren.
 
-Kein Mensch zu sehen. in diesem Garten, der so wun-verwilbert
-war, kam man sich wie im Märchen
-»Das unruhige Berlin war so nahe, und doch —
-herrschte Stille, Frieden, Stimmung, hier lugten unter
-autbügeln Kelle von Pianino Standbildern. von Baron
+Kein Mensch zu sehen. in diesem Garten, der so wunderschön
+verwildert war, kam man sich wie im Märchen
+vor. Das unruhige Berlin war so nahe, und doch —
+hier herrschte Stille, Frieden, Stimmung, hier lugten unter
+Unkrauthügeln Reste von steinernen Standbildern, von großen
 <@pagebreak/>
-aßen Baten und Springbrunnen hervor. Hier jubilierien
-Vögel aller Nr: in den grünen Laubdächern, hier erheblich
-eine schwarze Kais lautlos über den Weg, der mit arge
-getretenen Ziegelsteinen belegt. war
+Vasen und Springbrunnen hervor. Hier jubilierten
+Vögel aller Art in den grünen Laubdächern, hier schlich
+eine schwarze Katze lautlos über den Weg, der mit ausgetretenen
+Ziegelsteinen belegt war...
 
 Und — kein Mensch zu sehen ...
 
-Bis Sir erschrocken fast herumfsuhrem,
+Bis wir erschrocken fast herumfuhren.
 
-Ein Briefträger fand hinter uns.
+Ein Briefträger stand hinter uns.
 
 »Haben Sie schon geläutet?« fragte er und deutete
-auf die Haustür mit dem abgeblätterten Fang
-»Sitze wollen wohl zu Herrn Dennysinow?«
+auf die Haustür mit dem abgeblätterten Oelfarbenanstrich.
+»Sie wollen wohl zu Herrn Dennysinow?«
 
 »Ja,« nickte Harst.
 
-»Der die ist selten daheim, Versuchen wir unser
+»Der Herr ist selten daheim. Versuchen wir unser
+Glück.«
 
-Neben der Heatstür war ein Glockengriff zu sehen, +
+Neben der Haustür war ein Glockengriff zu sehen.
 Der Briefträger zog sehr kräftig daran. Drinnen bimmelte
 eine Glocke, deren Klang scheußlich schrill war.
 
@@ -825,79 +828,79 @@ Greis Harald,
 
 »Ja, ganz allein,«
 
-Der Postbote läutete nochmals, Dann zuckte er die
+Der Postbote läutete nochmals. Dann zuckte er die
 Achseln. »Da muß ich nachmittags versuchen, den Brief
-loszuwerden. Und die Lauferei wegen einer Drucksache 1»
+loszuwerden. Und die Lauferei wegen einer Drucksache!«
 
 »Wir werden Dennysinow hier erwarten. Geben Sie
-uns nur den Dolch, zumal es ja eine Drucksache Im
+uns nur den Brief, zumal es ja eine Drucksache ist.«
 
-Vor Briefträger zögerte erst, Als wohl uns aber auf
-die Steiuschwelle saufen, reichte er Harald den Pries. »Es
-ist ja nur. eine Lotteriereklame,« beruhigte er sein Beging
-tengeiwiffen Dann ging er davon.
+Der Briefträger zögerte erst. Als wir uns aber auf
+die Steinschwelle setzten, reichte er Harald den Brief. »Es
+ist ja nur eine Lotteriereklame,« beruhigte er sein Beamtengewissen.
+Dann ging er davon.
 
-Harald drehte den Brief hin und her, — Ja, es war
-der Aufdruck eines staatlichen Lot(erieeinnehmers vom Vierte
-Alliance- Platz auf dem Umschlag, Der Umschlag war offen,
+Harald drehte den Brief hin und her. — Ja, es war
+der Aufdruck eines staatlichen Lotterieeinnehmers vom
+Belle-Alliance-Platz auf dem Umschlag. Der Umschlag war offen,
 die Briefklappe nur eingeschoben.
 
-Harst zog ein bedrucktes Blaß heraus. Es tat die
+Harst zog ein bedrucktes Blatt heraus. Es war die
 Uebersicht über die Neuregelung der Klassenlotterie und ein
 Hinweis auf die erhöhten Gewinne,
 
-»Hm,« meinte Van en Einnehmen harte heute
+»Hm,« meinte Harald, »kein Einnehmer verschickt heute
 <@pagebreak/>
-mehr solche Personen, Höchstens als Beilage zu neuen
-Losen für alte Kunden, Hm ...!«
+mehr solche Reklamen. Höchstens als Beilage zu neuen
+Losen für alte Kunden. Hm ...!«
 
-Und er steckte den Brief in die Tasche, stand auf »Es
-wird auch eine Himertür geben,« sagte er. »Die werden
-wir dfinemn«
+Und er steckte den Brief in die Tasche, stand auf. »Es
+wird auch eine Hintertür geben,« sagte er. »Die werden
+wir öffnen.«
 
 <h2>4. Kapitel.</h2>
 
 <h3>Was wir fanden...</h3>
 
 Eine Tür mit einem Dietrich zu öffnen, ist weiter
-sein Aunsistück, wenn es sich um ein altes Schloß, Dutzendware,
+kein Kunststück, wenn es sich um ein altes Schloß, Dutzendware,
 handelt.
 
 Aber im ersten Stock des stillen baufälligen Hauses
 dann ein Zimmer ohne Fenster suchen, das ist schwieriger,
 wenn ein Haus so merkwürdig gebaut ist wie das in der
-Uferstraße. — Welchem Zweck es einmal bedient haben
+Uferstraße. — Welchem Zweck es einmal gedient haben
 mochte, wozu man all diese kleinen Stübchen, Flure, Nischen,
-Winkel und Garn gebraucht hatte, diese ganze sinnlose
-Naunverscl, Wendung, war wirklich nicht zu erraten.
+Winkel und Ecken gebraucht hatte, diese ganze sinnlose
+Raumverschwendung, war wirklich nicht zu erraten.
 
-E83 und da oben vier größere und zwei kleinere Stinken,
+Es gab da oben vier größere und zwei kleinere Stuben,
 fünf Flure mit Glastüren und drei dunkle Nischen,
 in Denen ein Bett bequem Platz gehabt hätte. — Wir fanden
-das Zimmer mit den zugemauerten Fenstern nicht,
+das Zimmer mit den zugemauerten Fenstern nicht.
 Nein — wenigstens zunächst fanden wir es nicht. Wir
 fanden nur zwei von Den insgesamt sechs Stuben möbliert.
 <@pagebreak/>
 Und hier hauste eben Herr Dennysinow, in den anderen
 Stuben waren die Fußböden verfault,
 
-Dennysinows unhaltbar hätte kaum ein Trödler gelangt,
+Dennysinows Mobiliar hätte kaum ein Trödler gekauft.
 Armselig sah es in diesen beiden Räumen aus, so
 armselig, daß Harald erklärte: »Bodengerümpel!!«
 
 Und trotzdem: in der Luft dieser Räume hing der
-Duft eines seinen, zarten Parfüms!
+Duft eines feinen, zarten Parfüms!
 
 Dieser Duft paßte hier nicht hinein, — genau so wenig
-wie drei Zigarrenstummel auf einer als Michbecher
+wie drei Zigarrenstummel auf einer als Aschbecher
 benutzen Untertasse, von denen Harald behauptete, es
-Beten die Nette sehr teurer Zigarren. Er verstand etwas
+seien die Reste sehr teurer Zigarren. Er verstand etwas
 davon. Er hatte die drei Stummel zerdrückt und die Einlage
 geprüft.
 
 Wir erging es hier wie so oft: ich hatte das Gefühl,
 daß irgend ein Unheil in der Nähe lauere wie ein sprungbereites
-heim4üisches Tier!
+heimtückisches Tier!
 
 Ich horchte andauernd auf jedes Geräusch. Ich erwartete
 in jeder Sekunde, daß plötzlich so etwa ein Dutzend
@@ -909,77 +912,77 @@ dem Zimmer ohne Fenster aufs neue.
 
 Wir hüteten uns, Lärm zu machen. Wir schlichen auf
 Fußspitzen hierhin und dorthin. Harald war ganz in seinem
-Element, — springst, beweglich und doch ohne jede Note
-Nervosität
+Element, — lebhaft, beweglich und doch ohne jede
+Nervosität.
 
-»Entweder hat der Briefschreiber mich zum Narren per
-macht und es gibt gar kein solches Zimmer hier,« sagte er
+»Entweder hat der Briefschreiber mich zum Narren gemacht
+und es gibt gar kein solches Zimmer hier,« sagte er
 nun, als wir vor dem einen Alkoven standen, »oder aber...«
 
-Und da schlafen er plötzlich, deutete auf ein Eßt
-Holz von einer verfaulten Diele, das gerade vor uns Tag,
+Und da schwieg er plötzlich, deutete auf ein Stückchen
+Holz von einer verfaulten Diele, das gerade vor uns lag,
 
 Jetzt flüsterte er — ganz leise: »Wir waren doch schon
-einmal vor fünf Minuten hier. Und da tat dieses Stücken
-Holz noch nicht völlig von der Diele losgetrennt, Da
+einmal vor fünf Minuten hier. Und da war dieses Stücken
+Holz noch nicht völlig von der Diele losgetrennt. Da
 hing es noch mit der Diele zusammen. Jetzt ist es sogar etwa
-ne Zentimeter von. der Bruchstelle entfernt. Mithin
+zehn Zentimeter von der Bruchstelle entfernt. Mithin...
 <@pagebreak/>
-... War jemand hier — ist noch hier, — jemand, der
-und beobachtet.. 1»
+war jemand hier — ist noch hier, — jemand, der
+uns beobachtet...!«
 
 Und — dazu lächelte er ein wenig, fügte hinzu: »Nun
-»ferne ich das ganze Geheimnis! Auch das ist...«
+kenne ich das ganze Geheimnis! Auch das ist...«
 
 Mit einem Riesensatz schnellte er plötzlich vorwärts...
 
 Wir waren von rechts, durch die Flurtür, eingetreten.
-Harald erreichte Die andere Tür, die in den Dickere
-Zaum führte und die nur angelehnt war, in weitem Sprunge,
-über ein breites Loch in den Dielen binweafebend
+Harald erreichte Die andere Tür, die in den Nebenraum
+führte und die nur angelehnt war, in weitem Sprunge,
+über ein breites Loch in den Dielen hinwegsetzend...
 
-Erreichte sie und — — Stich sie so kraftvoll auf, daß
+Erreichte sie und — — stieß sie so kraftvoll auf, daß
 er die Türkante einem zurückweichenden Panne vor den
-Kopf schneidende.
+Kopf schmetterte.
 
-Und dies mit so viel Schwung, daß der Mann schützend
+Und dies mit so viel Schwung, daß der Mann ächzend
 rückwärts zu Boden sank. Auf seiner Stirn hatte die
 Türkante eine breite blutige Furche gezogen.
 
-Der Mann war fraglos ein Asiate. Sein gelbbraus
-er Teint und der Gefiel(geschnitzt verrieten dies.
+Der Mann war fraglos ein Asiate. Sein gelbbrauner
+Teint und der Gesichtsschnitt verrieten dies.
 
 »Einer der beiden aus der verflossenen Nacht,« meinte
-Harald und beugte sich Aber den Ohnmächtigen. »Anschob
-Abend ein Turkmene aus den Steppen südlich des unrasiert,
-Die Schmarre an der Stirn hat nichts zu bedeuten. Einfuhr
-ihn zur Sicherheit.«
+Harald und beugte sich über den Ohnmächtigen. »Anscheinend
+ein Turkmene aus den Steppen südlich des Aralsees.
+— Die Schmarre an der Stirn hat nichts zu bedeuten. Binden
+wir ihn zur Sicherheit.«
 
 Dann begannen wir abermals das Zimmer ohne
 Fenster zu suchen.
 
-»Wir müssen jetzt srftemathifcher vorgehen,« sagte Harst
+»Wir müssen jetzt systematischer vorgehen,« sagte Harst
 etwas ungeduldig. »Messen wir die Tiefe und Breite des
-gutes aus und dann die einzelnen Stuben. In der Küche
-ich ein langes Stück Wäscheleine. Hole es....«
+Hauses aus und dann die einzelnen Stuben. In der Küche
+sah ich ein langes Stück Wäscheleine. Hole es...«
 
 Ich eilte den Flur entlang, durch zwei Glastüren und
-verkürzen Flur.
+einen kurzen Flur.
 
 Und — ich verlief mich. In diesem wunderlichen Hause
-Kante das Von Aermsten. Kg samt Mrs in die Ritze,
-Adern in eins der seinen Hinterzimmer. Seh hatte die
-für hastig geöffnet und... hörte so gerade noch das Slap-einer
-anderen Tür und das Einschnappen eines Nie
+konnte das schon geschehen. Ich kam nicht in die Küche,
+sondern in eins der kleinen Hinterzimmer. Ich hatte die
+Tür hastig geöffnet und... hörte so gerade noch das Klappern
+einer anderen Tür und das Einschnappen eines Riegels.
 
 <@pagebreak/>
 Ich stand sofort regungslos.
 
-Die Geräusche waren aus dem unklaren gekommen,
+Die Geräusche waren aus dem Alkoven gekommen,
 der sich linker Hand an dieses Stübchen anschloß.
 
 Ein Gedanke — blitzartig — so sehr nahe liegend: es
-war jemand vor mir geflüchtet — — in ein Versteck, in,
+war jemand vor mir geflüchtet — — in ein Versteck, in
 das... Zimmer ohne Fenster!
 
 Leise schlich ich zu Harald zurück, teilte Ihm mit, was
@@ -990,18 +993,18 @@ ich beobachtet hatte.
 Wir begaben uns in jenen Alkoven, aus dem die Geräusche
 hervorgedrungen waren.
 
-Er suchten die tapezierten Wände nach einer Geheime
-ra
+Er suchten die tapezierten Wände nach einer Geheimtür
+ab.
 
 Wir suchten so, wie wir zu suchen verstehen,
 
-Aber vergeblich alles!
+Aber vergeblich — — alles!
 
-Unsere Taschenlampen Wichen ihre Lichtkegel immer
+Unsere Taschenlampen ließen ihre Lichtkegel immer
 wieder über Wände und Decke des Alkovens gleiten.
 
 »Hast Du Dich auch nicht verhört?!« meinte Harald
-zweifelnd. »Vielleicht kam das Geräusch von braußen’? 1»
+zweifelnd. »Vielleicht kam das Geräusch von draußen?!«
 
 »Unmöglich!«
 
@@ -1011,160 +1014,159 @@ huschte über die rissigen Dielen Hin,
 Staub, Holzmehl und Stückchen Holz in allen Größen
 lagen hier.
 
-Harald bürste sich, winkte.
+Harald bückte sich, winkte.
 
-und sagte Tau!: »Liebst Du das Holzspäinchen, das
-aufreckchschsteht, Es bat Oh mit dem einen Ende festgeklemmt,«
+und sagte laut: »Siehst Du das Holzspänchen, das
+aufrechtsteht. Es hat sich mit dem einen Ende festgeklemmt,«
 
-Er wischte das gelbliche Holzmehl und den Staub-shmuy
-weg — rund um von Frauchen, Da kam etwas
-wie ein Strich zum Vorschein — ein Strich, | ter eine Rille
+Er wischte das gelbliche Holzmehl und den Staubschmutz
+weg — rund um das Spänchen. Da kam etwas
+wie ein Strich zum Vorschein — ein Strich, der eine Rille
 war im am besten erhaltenen Teile der Dielen, — ein
 Strich, den Harald zum Viereck weiter freilegte: die Umrisse
 einer Falltür.
 
-Bald war auch der gut verstellte Nagelkopf gefunden,
-der sich herabdrücken ließ und den Siegel der Saaltür zurückschob.
+Bald war auch der gut versteckte Nagelkopf gefunden,
+der sich herabdrücken ließ und den Riegel der Falltür zurückschob.
 <@pagebreak/>
 Sie glitt langsam nach unten. Sie war sehr geschickt
-angelegt, und wer nicht gerade wie Harst aus das aussetze
-Sparten aufmerksam geworden, das sich in die Fuge
-sei Falltür eingeklemmt hatte, der hätte nie vermutet, daß
-Papas immer ohne Fenster seinen Zugang den oben hatte.
+angelegt, und wer nicht gerade wie Harst auf das aufrechte
+Spänchen aufmerksam geworden, das sich in die Fuge
+der Falltür eingeklemmt hatte, der hätte nie vermutet, daß
+das Zimmer ohne Fenster seinen Zugang von oben hatte.
 
-Harald kniete am Rande der Falltür Unten tiefste
-spieltest. Er rief leise hinab:
+Harald kniete am Rande der Falltür. Unten tiefste
+Dunkelheit. Er rief leise hinab:
 
 »Prinzessin, melden Sie sich! Hier ist Harst«
 
-uf — es meldete sich jemand, aber — — Lauft andere
-Leise. Ok
+Ja — es meldete sich jemand, aber — — auf andere
+Weise.
 
-Unsere Ausmexrksamkeit hatte nur der Falltür Tegel
+Unsere Aufmerksamkeit hatte nur der Falltür gegolten.
 Wir kehrten dem Eingang zum Alkoven den Rücken
-»Und — es erging uns legt genau so wie in der Nacht
-Bord der Prau: man ¡(Zug uns wieder!
+zu. Und — es erging uns jetzt genau so wie in der Nacht
+an Bord der Prau: man schlug uns nieder!
 
-Ich sank wie ein gefüllter Baum zur Seite, verlor die
-finmung.
+Ich sank wie ein gefällter Baum zur Seite, verlor die
+Besinnung.
 
-Als reglos l’örte ich noch ein höhnisches Auflachen.
+Als letztes hörte ich noch ein höhnisches Auflachen.
 
-Auch diese Ich seelische waren nicht so kräftig gewohnt
-sie uns für längere Zeit matt Deuten.
+Auch diese Schädelhiebe waren nicht so kräftig gewesen,
+daß sie uns für längere Zeit matt setzten.
 
 Nein — wir erwachten fast gleichzeitig aus der kurzen
-Betäubung. Wir lagen nebeneinander in einer Ehe des
-wenig — mit gefesselten Händen.
+Betäubung. Wir lagen nebeneinander in einer Ecke des
+Alkovens — mit gefesselten Händen.
 
-Harst richtete sich auf. Ich tat dasselbe, in dem Uf
-herrschte ein ungewwiifes Halbdunkel.
+Harst richtete sich auf. Ich tat dasselbe. in dem Alkoven
+herrschte ein ungewisses Halbdunkel.
 
-»Binde mir die knien auf, meine Harald. »Wir
-uns hier unglaublich töricht benommen,« fügte er
-u. »Wir hätten daran denken sollen, daß der zweite
-Eure Kerl in der Nähe sein mußte.«
+»Binde mir die Knoten auf,« meine Harald. »Wir
+haben uns hier unglaublich töricht benommen,« fügte er
+hinzu. »Wir hätten daran denken sollen, daß der zweite
+braune Kerl in der Nähe sein mußte.«
 
-Seine Stricke fielen zu Boden. Dann erwies er Wir
-reiben Liebesdienst » lud war frei wie er.
+Seine Stricke fielen zu Boden. Dann erwies er mir
+denselben Liebesdienst. Ich war frei wie er.
 
-Die Rolltür Van. noch offen,
+Die Falltür stand noch offen,
 
-»Harald leuchtete hinab, streike den rechten Arm Bank
-Liter! Lot in den Dielen na
+Harald leuchtete hinab, streckte den rechten Arm durch
+das viereckige Loch in den Dielen...
 
 Was wir sahen, war überraschend genug: da unten
-Zimmerchen von Treiecsorm. An der einen Wand ein
+ein Zimmerchen von Dreieckform. An der einen Wand ein
 <@pagebreak/>
-Diwan. Darauf lag eine Frau in helle seidenen ehe
-rot
+Diwan. Darauf lag eine Frau in hellem seidenen Schlafrock...
 
-Nützlich schob Harst jetzt die Beine durch das Ro),
-Komm die finale Eisenreifen hinab, riß Dom Gesicht des
+Plötzlich schob Harst jetzt die Beine durch das Loch,
+klomm die schmale Eisenleiter hinab, riß vom Gesicht des
 blonden Weibes einen breiten Wattebausch weg...
 
-Ich hatte noch mehr gesehen. an der anderen und
+Ich hatte noch mehr gesehen. an der anderen Wand
 ein hoher alter Ohrensessel...
 
-Und in dem Sessel lud zusammengekauert ein Mann
-— ein Herr mit dünnem Scheitel, Das Gesicht war von
-oben nicht zu erlegten,
+Und in dem Sessel lag zusammengekauert ein Mann
+— ein Herr mit dünnem Scheitel. Das Gesicht war von
+oben nicht zu erkennen.
 
-ich beeilte mich, Harald zu falls en.
+ich beeilte mich, Harald zu folgen.
 
-Er war schon an den Sessel Sitz achte, üben
-Herrn den Kopf etwas gehoben ...
+Er war schon an den Sessel herangetreten, hatte dem
+Herrn den Kopf etwas gehoben...
 
-»Hektor Alken,« sagte Harald leise. »Er ist Lot.
-nun man hat ihn erstochen.« Er schob die Zacke etwas en
-Seite. In der perlgrauen Weste war in der Gegend des
-Herzens ein frischer Blutfleck sich bar.
+»Hektor Alken,« sagte Harald leise. »Er ist tot. Da
+— man hat ihn erstochen.« Er schob die Jacke etwas beiseite.
+In der perlgrauen Weste war in der Gegend des
+Herzens ein frischer Blutfleck sichtbar.
 
-Er wandte sich dann der blonden Frau wie Nu
-»Die Prinzessin Dolja Dortschakoff ist’s, die Mischte Frau
-der Filmdiva Silvia Lang, — wie man sagt, sogar mehr
-als nur Milchschwester, nämlich uneheliches Kind des Küsten
-Dortschakoff, dessen Besikungen im Umfange Bayerns
-bei der Stadt Mein im Lande der Turkmenen liegen, Der
-Fürst hat re Heimat verlassen müssen, da er sich mit der
-neuen Regierung nicht fielen konnte. Er entfloh mit feiner
-Tochter, In den Zeitungen war vor einem Jahre zu
-lesen, daß er sich mit dem größten Teil der berühmten Dort
-sofort-Juwelen geflüchtet hätte. Ich denke, Davidow und
+Er wandte sich dann der blonden Frau wieder zu.
+»Die Prinzessin Dolja Dortschakoff ist’s, die Milchschwester
+der Filmdiva Silvia Longa, — wie man sagt, sogar mehr
+als nur Milchschwester, nämlich uneheliches Kind des Fürsten
+Dortschakoff, dessen Besitzungen im Umfange Bayerns
+bei der Stadt Merw im Lande der Turkmenen liegen. Der
+Fürst hat seine Heimat verlassen müssen, da er sich mit der
+neuen Regierung nicht stellen konnte. Er entfloh mit seiner
+Tochter. In den Zeitungen war vor einem Jahre zu
+lesen, daß er sich mit dem größten Teil der berühmten Dortschakoff-Juwelen
+geflüchtet hätte. Ich denke, Davidow und
 der Fürst und der tote Mann in dem Deckverschlage der
-Prau dürften ein und dieselbe Person sein, — Geh’ sei
-und hole die Polizei. Unsere O hier muß
-»die staatlichen Organe ergänzt werden. Es ist ein
-hier ermordet worden und die ‘Prinzessin sollte durch
-sofern befestigt werden. he Puls geht ruhig. en
-zu wird 7 O schaden. Mr
+Prau dürften ein und dieselbe Person sein. — Geh’ jetzt
+und hole die Polizei. Unsere Tätigkeit hier muß durch
+die staatlichen Organe ergänzt werden. Es ist ein Mann
+hier ermordet worden und die Prinzessin sollte durch
+Chloroform beseitigt werden. Ihr Puls geht ruhig. Die Narkose
+wird ihr nichts schaden.«
 
 <@pagebreak/>
 
-<h2>5. Polizei,</h2>
+<h2>5. Kapitel,</h2>
 
-<h3>Nochmals auf Bein Schwielow,</h3>
+<h3>Nochmals auf dem Schwielow,</h3>
 
-Jy zögerte, »Willst Du mir nicht wenigstens andeu-woas
-dies alles bedeutet?« bat ich.
+Ich zögerte. »Willst Du mir nicht wenigstens andeuten,
+was dies alles bedeutet?« bat ich.
 
-»Es laufen zwei Verbrechen hier nebeneinander,« sie
-rte er. »Auf das eine weist der Besuch der Prinzessin
-13 bin und der. Brief, der »Leaxyeka« unterzeichnet
-Dieses Verbrechen, Raub, betrifft fraglos die Tore
-Erdgeschoss-Juwelen, zu Denen wohl mich ein Kruzifix gehörte.
-Diebe und gleichzeitig auch die Mörder sind zwei Tupfen,
-wahrscheinlich Leute, Die... — Lob all das hält
-er zu lange auf.« — er
+»Es laufen zwei Verbrechen hier nebeneinander,« erklärte
+er. »Auf das eine weist der Besuch der Prinzessin
+bei uns hin und der Brief, der »Leaxyeka« unterzeichnet
+war. Dieses Verbrechen, Raub, betrifft fraglos die
+Dortschakoff-Juwelen, zu Denen wohl auch ein Kruzifix gehörte.
+Die Diebe und gleichzeitig auch die Mörder sind zwei Turkmenen,
+wahrscheinlich Leute, Die... — Doch all das hält
+uns jetzt zu lange auf.« —
 
-ich mußte mich fügen, —Eine halbe &unve später
-Beamte in dem verfallenen Hause, denen Harst für
-Abend völlige Aufklärung versprach. Jetzt muß ich
-Schraut noch eine Autofahrt unternehmen, meine Herr
-Entschuldigen Sie uns,« Hirn
+ich mußte mich fügen. — Eine halbe Stunde später
+waren Beamte in dem verfallenen Hause, denen Harst für
+den Abend völlige Aufklärung versprach. »Jetzt muß ich
+mit Schraut noch eine Autofahrt unternehmen, meine Herren,
+Entschuldigen Sie uns,«
 
-In unseren Masken bestiegen wir ein Tacameterauto,
-Chauffeur uns - versprach, in eine Stunde in las
-etwa am Schivielozv-See zu sein. Der Mann fuhr
-auch wie der Teufel, Es war ein neuer Magen, und
-halb zwei Uhr nachmittags nabım uns bereits ein
-Boot auf, Seifen Besitzer kaum vernommen hatte, wer
-Waren, als er auch schon erklärte, uns über den Schlafes
-¿Ses zu Strippen.;; Rt
+In unseren Masken bestiegen wir ein Taxameterauto,
+dessen Chauffeur uns versprach, in eine Stunde in Kaputh-Geltow
+am Schwielow-See zu sein. Der Mann fuhr
+denn auch wie der Teufel. Es war ein neuer Wagen, und
+gegen halb zwei Uhr nachmittags nahm uns bereits ein
+Motorboot auf, dessen Besitzer kaum vernommen hatte, wer
+wir waren, als er auch schon erklärte, uns über den Schwielow-See
+zu bringen.
 
-Motorboot (Ok Diven, Ihr Bettler erzählte
+Das Motorboot schoß davon. Der Besitzer erzählte
 <@pagebreak/>
-uns, daß am Westufer des irres in einer Bucht von ei
-per Filmfabrik ein Melaiendorf aufgebaut worden sei und
-daß heute dort gesilmsch würde
+uns, daß am Westufer des Sees in einer Bucht von einer
+Filmfabrik ein Malaiendorf aufgebaut worden sei und
+daß heute dort gefilmt würde
 
-»Dann nach dem Filmwvie!« meinte Harald, Hoffentlich
-kommen wir noch zur Zeit. Ich möchte mit Eile -
+»Dann nach dem Filmdorfe!« meinte Harald. »Hoffentlich
+kommen wir noch zur Zeit. Ich möchte mit
 Silvia Longa ein ernstes Wörtchen reden. Sie hat da aus
 Künstlereifersucht und wohl auch aus Haß gegen eine Verwandte
-sich auf sehr üble Geschichten eingelassen, Die Films-schau
-brachte einen Artikel letztens, daß die Onyx-Geselle
-Erbschaft einen neuen Starr entdeckt habe, der in dem neuen
+sich auf sehr üble Geschichten eingelassen. Die Filmschau
+brachte einen Artikel letztens, daß die Onyx-Gesellschaft
+einen neuen Star entdeckt habe, der in dem neuen
 exotischen Film »Die Gefangene des Malaienfürsten« die
 Hauptrolle spielen würde und zwar an Stelle Silvia Longas,
 die mehr für Salondamen geeignet sei,«
@@ -1173,35 +1175,35 @@ Jetzt endlich ging mir ein Licht auf,
 
 Freilich — alles verstand ich noch immer nicht,
 
-Unser Motorboot sauste über den See Bin, der ich
-legt recht manierlich zeigte, in. der Macht hatte er leimten
-sen, daß auch ein Binnenaewäfler seine Tücken hat,
+Unser Motorboot sauste über den See hin, der sich
+jetzt recht manierlich zeigte. in der Nacht hatte er bewiesen,
+daß auch ein Binnengewässer seine Tücken hat,
 
 Wir näherten uns dem Westufer.
 
-Wir sahen das Malaiendorf die fürstlichen Patnıbäu-me,
-die Hütten, die hoch auf Pfählen am Der über dem
-Wasser sich erbeben, sahen Die Frau, die Dicht Nannten Verankert
+Wir sahen das Malaiendorf die künstlichen Palmbäume,
+die Hütten, die hoch auf Pfählen am Ufer über dem
+Wasser sich erhoben, sahen Die Prau, die dicht daneben Verankert
 war.
 
-Der geflickte Oel Windes einer eifmfsenerie enge
-ich uns. Ein Sikh exotische Küste war hier, ausgebaut war
-den, Menschen bewegten sich hin und her — braune Gen
-Blassen mit Loendvontüchern, dazwischen die Herden Filme
-operateure, Regisseure und einige Damen,
+Der geschickte Schwindel einer Filmszenerie enthüllte
+sich uns. Ein Stück exotische Küste war hier aufgebaut worden.
+Menschen bewegten sich hin und her — braune Gestalten
+mit Lendentüchern, dazwischen die Herren Filmoperateure,
+Regisseure und einige Damen,
 
-Die Ausnahmen waren bereits beendet,
+Die Aufnahmen waren bereits beendet,
 
-Silvia Longa hatte schon ihre kleine Motorjacht So
-stiegen, um nach Kaputh zurückzukehren.
+Silvia Longa hatte schon ihre kleine Motorjacht bestiegen,
+um nach Kaputh zurückzukehren.
 
-Unser Boot letzte sich neben die Jacht.
+Unser Boot legte sich neben die Jacht.
 
-Aber Silvia Longa Latte Gefahr gewittert. Dann
-schob sich unser Boot Bord an Bord mit der schlanken »Wir
-Libelle« der Diva, als sie folgst den Motor umwarf und ihr
+Aber Silvia Longa hatte Gefahr gewittert. Dann
+schob sich unser Boot Bord an Bord mit der schlanken »Libelle«
+der Diva, als sie selbst den Motor anwarf und ihr
 <@pagebreak/>
-Begleiter, dem sie etwas zugeflüstert hatte, mit einem Bootshafen
+Begleiter, dem sie etwas zugeflüstert hatte, mit einem Bootshaken
 ebenso gewandt unser Fahrzeug abdrückte
 
 Harst jedoch riß kurz entschlossen die Clement aus
@@ -1212,69 +1214,69 @@ der Tasche,
 Die Jacht glitt mit wachsender Geschwindigkeit auf
 den See hinaus,
 
-Stoppen Sie!! Ich bin Harald Harsts« brüllte Zugkraft
+»Stoppen Sie!! Ich bin Harald Harst!« brüllte Harald
 noch lauter,
 
 Unser Boot folgte der Jacht.
 
-Silvia Longa lachte klingend — winkte da
+Silvia Longa lachte klingend — winkte...
 
 Der friedliche Schwielow-See hatte bis dahin wohl
-kaum eine solche Sceräwberszene erlebt wie jetzt
+kaum eine solche Seeräuberszene erlebt wie jetzt...
 
-Harst Schoß — drückte genial ab — zielte auf die
+Harst schoß — drückte achtmal ab — zielte auf die
 Stelle, wo der Motor im Bootskörper der Jacht untergebracht
 sein mußte.
 
-Feuerte ohne Erfolg, Zu rasch entzog sich die« »7.
+Feuerte ohne Erfolg. Zu rasch entzog sich die flinke
 Libelle den Verfolgern,
 
-Harst gab das Rennen auf. Wir wendeten,
-die Bucht hinein und letzten reden der Prau an, zu, ¿en
-es Nr die Herren vom Onyx-Film versammelt waren,
+Harst gab das Rennen auf. Wir wendeten, fuhren in
+die Bucht hinein und legten neben der Prau an, auf deren
+Deck jetzt die Herren vom Onyx-Film versammelt waren,
 
-Wir kletterten an Bord, Der Regisseur Perl, eine
+Wir kletterten an Bord. Der Regisseur Perl, eine
 Berühmtheit, fuchtelte wild mit den Händen vor Haralds
-sticht hin und her ...
+Gesicht hin und her...
 
-»Herr Harst, — was soll das?! Sie ... haben ja
-Geschossen!!«
+»Herr Harst, — was soll das?! Sie... haben ja
+geschossen!!«
 
-Lang N langsam die weiße Grelsenperüide und
-Art As
+Harald nahm langsam die weiße Greisenperücke und
+den Bart ab...
 
-»Herr Perl, beruhigen Sie sich, Ich schoß nicht auf
-Sie, Silvia Longa wird die Nr rinminaspolizei jetzt wohl
-Wenige Zeit in Atem Hallen Wissen Sie, daß Fürst. Dortschakoff
+»Herr Perl, beruhigen Sie sich. Ich schoß nicht auf
+Sie. Silvia Longa wird die Kriminalpolizei jetzt wohl
+einige Zeit in Atem halten. Wissen Sie, daß Fürst Dortschakoff
 alias Davidow in der vergangenen Nacht die Prau
-bewacht hat, damit Silvia Longa sie nicht vernichten, deckten
+bewacht hat, damit Silvia Longa sie nicht vernichten, versenken
 könnte?! Wissen Sie, daß Ihre Diva zusammen
-il zwei Turkmenen die Prau auffing abend von hier entlud,
+mit zwei Turkmenen die Prau gestern abend von hier entführt
 hatte, daß Dortschakoff von einem der Turkmenen
 <@pagebreak/>
-niedergeschlagen und getötet worden war und daß der Sie
-Van die Prau dann steuerlos dem Ostufer zutrieb, wo Dorte-shakofss
+niedergeschlagen und getötet worden war und daß der Orkan
+die Prau dann steuerlos dem Ostufer zutrieb, wo Dortschakoffs
 Leiche im Walde verscharrt wurde? Wissen Sie,
-daß Ihre Diva die Filmaufnahme atmet Beseitigung der
-Prau verhindern wollte, da sie es der Tod ihrer
-Milchschwester, nicht gönnte, die Rolle der
+daß Ihre Diva die Filmaufnahme durch Beseitigung der
+Prau verhindern wollte, da sie es der Prinzessin, ihrer
+Milchschwester, nicht gönnte, die Rolle der...«
 
 Herr Siegfried Perl kreischte jetzt:
 
-»Also Deshalb fanden Tür die Prau am Westufer!
-Wir glaubten, sie hätte sich losgerisse 1. Oh — der Silvia
-traue ich Volk einen infamen Streich schon zu!«
+»Also deshalb fanden wir die Prau am Westufer!
+Wir glaubten, sie hätte sich losgerissen. Oh — der Silvia
+traue ich solch einen infamen Streich schon zu!«
 
-»Ja — noch infamer, da sie heute Hektor Allen zu der
+»Ja — noch infamer, da sie heute Hektor Alken zu der
 Prinzessin geschickt hatte, damit er sie in dem Hause in Tegel
-zurüdhtelte.«
+zurückhielte.«
 
-Perl ballte die Fäuste
+Perl ballte die Fäuste...
 
 »Ah — und mir hat sie erzählt, die Prinzessin habe
 den Gedanken, die Rolle der Gefangenen zu spielen, aufgegeben...
-Die ... die Kanaille! Statt der Prinzessin
-und sie 16 heute hier ein — triumphierend, daß sie nun
+Die... die Kanaille! Statt der Prinzessin
+fand sie sich heute hier ein — triumphierend, daß sie nun
 doch...«
 
 Harst unterbrach ihn.
@@ -1282,62 +1284,62 @@ Harst unterbrach ihn.
 »Wer war der Herr, der auf der Libelle mit Silvia
 Longa entfloh, Herr Perl?«
 
-»Das war der ungarische Graf Niclas Tessöny, Sir
+»Das war der ungarische Graf Niclas Tessöny,
 Silvias neuester Verehrer,«
 
-»Dann auf Wiedersehen, Herr Perl. ne will nach
+»Dann auf Wiedersehen, Herr Perl. Ich will nach
 Kaputh und der Berliner Polizei eine Depesche senden. Hoffentlich
 faßt man die Diva noch ab — hoffentlich!« —
 
 Unser Boot ratterte, knatterte davon.
 
 Harst telegraphierte nicht, sondern telephonierte mit
-Drin Bechert, Ariminalfommillar
+Fritz Bechert, Kriminalkommissar...
 
-Und Bechert tat alles, Silvia Longa noch abzufangen,
-Doch die Diva hatte sich gehütet, in ihre Wohnung zurücle
-zukehren. Ebensowenig wurde man des Grafen habhaft,
+Und Bechert tat alles, Silvia Longa noch abzufangen.
+Doch die Diva hatte sich gehütet, in ihre Wohnung zurückzukehren.
+Ebensowenig wurde man des Grafen habhaft,
 der in der Nähe der Longa sehr elegant möbliert wohnte. —
 
-Die Leiche des Fürsten Dortschakoff wurde abends neigen
+Die Leiche des Fürsten Dortschakoff wurde abends gegen
 <@pagebreak/>
 sieben Uhr durch einen Polizeihund gefunden. Sie war
 nur ganz oberflächlich vergraben worden.
 
-Gegen neun Uhr abends war dann auch) die Drin
-»zeitig vernehmungsfähig, deren Stimme der Silvia Longas
+Gegen neun Uhr abends war dann auch die Prinzessin
+vernehmungsfähig, deren Stimme der Silvia Longas
 überraschend ähnlich klang.
 
-Dolja Dortschakoff wurde der. Tod ihres Vaters zu-nôchst
-verichtwiegen. Sie gab an, daß sie sei! langem um
-ter den Nachstellungen der Turkmenen gelitten hätten, die
+Dolja Dortschakoff wurde der Tod ihres Vaters zunächst
+verschwiegen. Sie gab an, daß sie seit langem unter
+den Nachstellungen der Turkmenen gelitten hätten, die
 als frühere Diener ihres Vaters genau wußten, welche
-Reichtümer die Flüchtlinge mit sich führten, Die Turkmenen
+Reichtümer die Flüchtlinge mit sich führten. Die Turkmenen
 hätten auch bereits vor Monaten in England den
-größten Teil der Juwelen geraubt, so das die Beinen Dort
-schaloffs in Not gerieten und der Fürst sich in Berlin als
+größten Teil der Juwelen geraubt, so das die beiden Dortschakoffs
+in Not gerieten und der Fürst sich in Berlin als
 Filmdichter versuchte, zumal Silvia Longa sich für ihn verwenden
-wolle. Sein exotischer Abenteuererin war denn
+wollte. Sein exotischer Abenteuerfilm war denn
 auch von der Onyx-Gesellschaft angenommen worden. Regisseur
 Perl wieder hatte Dolja ermutigt, sie solle doch selbst
-einmal aha Filmschauspielerin eine kleine Rolle zunächst
+einmal als Filmschauspielerin eine kleine Rolle zunächst
 spielen. Sie hatte Erfolg, und Perl bestand nun darauf,
-daß Dolja auch die Rolle der Gefangenen erhielte. in:
-na war zwischen Silvia und den beiden Wortschatz
-0jj8 ein ernstes Sermpirinis entstanden, von Silvias er
-übrigen hatte Dolja keine Ahnung gehabt Erst als. heute
-»morgen Hektor Alken in dem verfallenen Hause in Tegel
-erschien und der Prinzessin angeblich im Mufirage Perl
-»ausrichtete, daß Silvia nun doch die vielbegehrte Rolle
-spielen würde, hatte sie gemerkt, mit welchen Mitteln Gib
-Silvia hier operierte. Bevor sie jedoch Alken. noch zur Rede
-stellen konnte, hatte sie vom Fenster aus die Heiden Turkmenen
+daß Dolja auch die Rolle der Gefangenen erhielte. Infolgedessen
+war zwischen Silvia und den beiden Dortschakoffs
+ein ernstes Zerwürfnis entstanden. von Silvias Intriegen
+hatte Dolja keine Ahnung gehabt. Erst als heute
+morgen Hektor Alken in dem verfallenen Hause in Tegel
+erschien und der Prinzessin angeblich im Auftrage Perls
+ausrichtete, daß Silvia nun doch die vielbegehrte Rolle
+spielen würde, hatte sie gemerkt, mit welchen Mitteln
+Silvia hier operierte. Bevor sie jedoch Alken noch zur Rede
+stellen konnte, hatte sie vom Fenster aus die beiden Turkmenen
 im Garten bemerkt und in ihrer Angst vor diesen
 braunen Verbrechern Alken mit hinab in das Zimmer ohne
-Fenster genommen, dessen Vorhandensein ihr Vater einmal!
-westlich entdeckt hatte. As die Turkmenen und an der
-Falltür niederschlugen, als sie dann in den dunklen drei
-eigen Kaum hinabstiegen, hatte Alken sich zur Wehr gesteht
+Fenster genommen, dessen Vorhandensein ihr Vater einmal
+zufällig entdeckt hatte. Als die Turkmenen uns an der
+Falltür niederschlugen, als sie dann in den dunklen dreieckigen
+Raum hinabstiegen, hatte Alken sich zur Wehr gesetzt
 <@pagebreak/>
 und wurde niedergestochen. Dolja aber wurde durch
 Chloroform betäubt.
@@ -1346,10 +1348,10 @@ Chloroform betäubt.
 England der Polizei den Raub der Juwelen gemeldet?«
 fragte Harald dann die Tochter Dortschakoffs.
 
-Und — die schwieg ... schwieg beharrlich.
+Und — die schwieg... schwieg beharrlich.
 
 Ich dachte sofort an das Kruzifix, dachte noch an so
-manche ungelöste Frage dieses Problems, — u,
+manche ungelöste Frage dieses Problems. —
 
 Mit fast unnatürlicher Ruhe nahm die schöne Dolja
 dann die Nachricht vom Tode ihres Vaters hin.
@@ -1362,10 +1364,10 @@ Ich fühlte: der größte Teil des Geheimnisses des Zimmers
 ohne Fenster war noch in der Brust der Prinzessin
 verschlossen!
 
-Dann — wie ein Hauch, wie ein wehen Seufzer kam’s
+Dann — wie ein Hauch, wie ein weher Seufzer kam’s
 jetzt über die blassen Lippen:
 
-»Das — — das leere Simpler!«
+»Das — — das leere Zimmer!«
 
 Dann wurde sie ohnmächtig. Der Arzt schickte uns
 hinaus, — —
@@ -1382,40 +1384,40 @@ gewinnen und zugleich den Rest der Fragen gelöst finden,
 
 <h3>Der Sohn des Schamanen,</h3>
 
-Zieles Tage später.
+Zwei Tage später.
 
 Weder von den beiden Turkmenen noch von Silvia
 Longa und dem ungarischen Grafen war bisher die geringste
 Spur entdeckt worden.
 
-Diese vier Menschen waren verschwunden — so voll«
-Sandig, alt ob man von einer Schiefertafel vier Striche
-wweatwischt,
+Diese vier Menschen waren verschwunden — so vollständig,
+als ob man von einer Schiefertafel vier Striche
+wegwischt,
 
 Es war weder der Polizei noch uns geglückt, auch nur
-he Wohnung der Turkmenen zu ermitteln.
+die Wohnung der Turkmenen zu ermitteln.
 
-Dolja Dortschakoff anderseits Hatte sich energisch ne
-weigert, die Namen oder sonstwie Einzelheiten über diese
-braunen Burschen anzugeben.«
+Dolja Dortschakoff anderseits Hatte sich energisch geweigert,
+die Namen oder sonstwie Einzelheiten über diese
+braunen Burschen anzugeben.
 
-ich »derart es nicht,« hatte sie An »Weshalb M es
-nicht darf, weiß ich sonst nicht
+»ich darf es nicht,« hatte sie erklärt. »Weshalb ich es
+nicht darf, weiß ich selbst nicht.«
 
-Babá blieb sie. —
+Dabei blieb sie. —
 
-Sie hatte wieder das alle verfallene Haus in Tegel
-na ein älteres Ehepaar, Flüchtlinge aus dem
+Sie hatte wieder das alte verfallene Haus in Tegel
+bezogen und ein älteres Ehepaar, Flüchtlinge aus dem
 <@pagebreak/>
 Ruhrgebiet, bei sich aufgenommen, damit sie nicht in dem
 öden Gebäude allein sei.
 
-Wir hatten sie jeden Tag gesprochen, aber Selbst las
-Lords Ueberredungskunst gelang es nicht, diese versiegelten
+Wir hatten sie jeden Tag gesprochen, aber Selbst Haralds
+Ueberredungskunst gelang es nicht, diese versiegelten
 Lippen zu öffnen.
 
 Am dritten Tage wurde Dortschakoff vormittags in
-aller Stille beerdigt. Wir wohnten dem Begräbnis he!.
+aller Stille beerdigt. Wir wohnten dem Begräbnis bei.
 als es vorüber, lud die Prinzessin uns ein, sie nach dem
 einsamen Hause zu begleiten.
 
@@ -1427,8 +1429,8 @@ ein einfaches Mittagessen bereit.
 
 Nach Tisch bat Dolja uns, in ihr Zimmer zu kommen.
 
-»Es ist merkwürdig,« begann Dolja nun ein vertrau-tiheres
-Gespräch, »Ich fühle mich heute freier, Herr Harst.
+»Es ist merkwürdig,« begann Dolja nun ein vertraulicheres
+Gespräch. »Ich fühle mich heute freier, Herr Harst.
 Ich fühle nicht mehr die unerklärliche Hemmung in meinem
 Hirn, die mir es bisher unmöglich machte, über die beiden
 Turkmenen mich näher zu äußern,«
@@ -1436,145 +1438,146 @@ Turkmenen mich näher zu äußern,«
 Harst schaute die Prinzessin ernst an. »Wenn diese
 Hemmung nicht mehr vorhanden, erzählen Sie uns bitte
 zunächst, wann Sie und ihr Vater die Turkmenen zum
-ersten Mkle als Feinde spürten.«
+ersten Male als Feinde spürten.«
 
 »Vor einem halben Jahr in London, Herr Harst. Sie
 hatten sich in demselben Hause eingemietet und zwar als
-Kaufleute, gingen stets gut angezogen und beachteten unscheinbar
-nicht. Da die Gesichter der Turkmenen zumeist
+Kaufleute, gingen stets gut angezogen und beachteten uns
+scheinbar nicht. Da die Gesichter der Turkmenen zumeist
 einander so sehr gleichen, daß unter hundert mindestens
 fünf geradezu zum Verwechseln ähnlich sehen, dachten wir
 gar nicht daran, die beiden könnten etwa unsere beiden ehemaligen
-Diener Gorim und Nassub sein Erst als mein
-Vater eines Abends den größeren Teil der Juwelen, da
-runter auch ein mit Edelsteinen leichtes Kruzifix, einpackte
+Diener Gorim und Nassub sein. Erst als mein
+Vater eines Abends den größeren Teil der Juwelen, darunter
+auch ein mit Edelsteinen besetztes Kruzifix, einpackte
 und zu sich steckte, als ich dann fragte, weshalb er dies
-he, blickte er mich erstaunt an und erwiderte, wie aus
+tue, blickte er mich erstaunt an und erwiderte, wie aus
 <@pagebreak/>
 einem Traume erwachend: »Ja, wenn ich das selbst
-Kiste!« — Und trotzdem erklärte er dann weiter, er hielte
-für richtiger, die Kostbarkeiten mit in den Klub zu nehmen,
-in den ein englischer Diplomat ihn eingeführt hatte,
-z: mein Vater handelte damals unter einem Zwange,
-er nicht widerstehen konnte. — Und in jener Nacht
-man ihm auf dem Heimwege vom Klub die Fuwe-mit
-Gewalt. Nicht viel hätte gefehlt, und er wäre er
-mordet worden, — Da am folgenden Tage die Beinen ans
-blichen Kaufleute aus dem Hause verschwanden, Da Der
-turimenifchen Kaufleute erkannt und gehört hatte, wie
-Leser dem anderen während des heftigen Kampfes mit
-einem Vater den Namen Gorim zurief, unterlag es feil
-Zweifel mehr, daß die Täter Gorim und Nassub per
-Tiefen waren,«
+wüßte!« — Und trotzdem erklärte er dann weiter, er hielte
+es für richtiger, die Kostbarkeiten mit in den Klub zu nehmen,
+in den ein englischer Diplomat ihn eingeführt hatte.
+Kurz: mein Vater handelte damals unter einem Zwange,
+dem er nicht widerstehen konnte. — Und in jener Nacht
+stahl man ihm auf dem Heimwege vom Klub die Juwelen
+mit Gewalt. Nicht viel hätte gefehlt, und er wäre ermordet
+worden. — Da am folgenden Tage die beiden angeblichen
+Kaufleute aus dem Hause verschwanden, Da ferner
+mein Vater in einem der Räuber deutlich einen der
+turkmenischen Kaufleute erkannt und gehört hatte, wie
+dieser dem anderen während des heftigen Kampfes mit
+meinem Vater den Namen Gorim zurief, unterlag es keinem
+Zweifel mehr, daß die Täter Gorim und Nassub gewesen
+waren,«
 
-Die Prinzessin machte eine kurze Pause und fuhr er
-As verlegen fort:
+Die Prinzessin machte eine kurze Pause und fuhr etwas
+verlegen fort:
 
 »Es wird Ihnen, meine Herren, wohl unbegreiflich
-scheinend, daß wir Gorim und Nassub nicht sofort als
+erscheinen, daß wir Gorim und Nassub nicht sofort als
 frühere Diener wiedererkannt haben. Aber — sie hatten
-ich lange Bärte stehen lassen und hatten uns auch nie des
-achtet, waren stets gleichgültig an uns vorübergegangen,
-denn sie uns im Hause begegneten. Bedenken Sie auch,
-ß wir auf unseren Besitzungen bei Mein einige achtzig
-jener hatten, die wir zumeist nur selten zu Gesicht bekamen
-und kaum ihrer- Aehnlichkeit wegen auseinanderhal-konnten.
-— ich muß mir auf etwas zu sprechen keinen,
+sich lange Bärte stehen lassen und hatten uns auch nie beachtet,
+waren stets gleichgültig an uns vorübergegangen,
+wenn sie uns im Hause begegneten. Bedenken Sie auch,
+daß wir auf unseren Besitzungen bei Merw einige achtzig
+Diener hatten, die wir zumeist nur selten zu Gesicht bekamen
+und kaum ihrer Aehnlichkeit wegen auseinanderhalten
+konnten. — Ich muß nun auf etwas zu sprechen kommen,
 das der sogenannte gebildete Europäer gern belächelt:
-ist innerasiatische Geheimnisse, auf die Künste der Schamanen,
+auf innerasiatische Geheimnisse, auf die Künste der Schamanen,
 der Zauberer und Priester der Turkmenen und anderer
-Steppenvölker, — Gorim ist der Sohn eines solchen
-Schamanen. - Mein Vater behauptete nach dem Raubüberfall,
-daß Gorim ihn durch das sogenannte Bawwirutu, eine
-rt Fernhypnose, geznungen habe, die Kaninchen mit in
+Steppenvölker. — Gorim ist der Sohn eines solchen
+Schamanen. Mein Vater behauptete nach dem Raubüberfall,
+daß Gorim ihn durch das sogenannte Bawirutu, eine
+Art Fernhypnose, gezwungen habe, die Juwelen mit in
 <@pagebreak/>
 den Klub zu nehmen und den beiden so Gelegenheit zu geben,
-den Raubüberfall ausführen zu Sonnen. Das Bawirutu
+den Raubüberfall ausführen zu können. Das Bawirutu
 ist in Europa unter anderem Namen längst bekannt
 und, längst — — bespöttelt worden. Und doch ist es sehr
-beruft zu nehmen, Ich könnte Ihnen mancherlei Erlebnisse
-Gerichten, Die Ihnen geradezu unglaublich erscheinen würden,
-Bei all diesen feltlfamen Geschehnissen spielt Das Ba-wirmm
+ernst zu nehmen. Ich könnte Ihnen mancherlei Erlebnisse
+berichten, Die Ihnen geradezu unglaublich erscheinen würden.
+Bei all diesen seltsamen Geschehnissen spielt Das Bawirutu
 eine Rolle. — Kurz: mein Vater und ich zweifelten
 nicht länger daran, daß auch bei dem Raub der Juwelen
 die geheimnisvollen Kräfte des Schamanensohnes Gorim
 mitgewirkt hatten. — Wir unterließen eine Anzeige bei den
-Londoner Behörden, Sie hätte doch keinen Zweck gehabt,
-Wir suchten vielmehr den Rest der Kostbarkeiten zu reiten,
+Londoner Behörden. Sie hätte doch keinen Zweck gehabt.
+Wir suchten vielmehr den Rest der Kostbarkeiten zu retten,
 indem wir London heimlich verließen und auf Umwegen
-hier nach Berlin reisten, wo wir schschließlich in diesem Hause
+hier nach Berlin reisten, wo wir schließlich in diesem Hause
 einen Schlupfwinkel fanden, der noch den Vorteil bot, daß
 wir unsere letzten Juwelen in dem Zimmer ohne Fenster
 verbergen konnten, dessen Vorhandensein der Eigentümer
 des Hauses uns verriet, nachdem wir ihm einmal ein
-Schmautckstück verkauft hatten, — Ich komme nun auch auf
+Schmuckstück verkauft hatten. — Ich komme nun auch auf
 meine Milchschwester Silvia Longa oder, wie sie mit bürgerlichem
 Namen heißt, auf Silvia Lange zu sprechen. ihr
 Vater, ein Deutscher, war Direktor der Gestüte meines Vaters.
 Herr Lange heiratete eine andere Deutsche, die bei
-Verlangten in Mein Erzieherin war. Das Ehepaar Lange
-halb bei einer Pestepidemie, Silvia wurde in unserem
+Bekannten in Merw Erzieherin war. Das Ehepaar Lange
+starb bei einer Pestepidemie. Silvia wurde in unserem
 Schlosse mit mir zusammen erzogen, entfloh jedoch mit siebzehn
 Jahren mit einem englischen Ingenieur. Wir hatten
-von ihr nichts mehr gehört. Plöpßlich kam sie dann hier zu
-uns und Höhnte sich mit uns aus, Durch Silvia fanden wir
-Anschluß an die Onyx-Gesellschaft ,.
+von ihr nichts mehr gehört. Plötzlich kam sie dann hier zu
+uns und söhnte sich mit uns aus. Durch Silvia fanden wir
+Anschluß an die Onyx-Gesellschaft...«
 
 »Und Silvia wird im Auftrage Gorims und Nassubs
 hier bei Ihnen erschienen sein,« warf Harald ein.
 
-»a, Das nehme ach ich an, Herr Harst.«
+»Ja, Das nehme auch ich an, Herr Harst.«
 
-»Und die beiden hatten es eben aus den Rest der Juwelen
+»Und die beiden hatten es eben auf den Rest der Juwelen
 <@pagebreak/>
 abgesehen, wovon Silvia natürlich einen Teil als
-Sündenlohn erhalten sollte, Prinzessin. Sie und Ihr Bar
-ter haben wahrscheinlich das Zimmer ohne Fenster Silvia
+Sündenlohn erhalten sollte, Prinzessin. Sie und Ihr Vater
+haben wahrscheinlich das Zimmer ohne Fenster Silvia
 gegenüber einmal erwähnt, ohne es ihr zu zeigen, oder Silvia
 hat Sie beide gelegentlich belauscht. Wie sollten anders
 die Turkmenen Kenntnis von der Existenz dieses Zimmers
 bekommen haben?!«
 
 »Sie wird uns belauscht haben. Wir trauten ihr nicht
-mz, Herr Harst, zumal sie so sehr oft über die uns verbliebenen
+ganz, Herr Harst, zumal sie so sehr oft über die uns verbliebenen
 Juwelen sprach,«
 
 »Ja — und dann werden Gorim und Nassub, wenn
 Sie beide abwesend waren, hier das Zimmer gesucht haben.
 Als sie es nicht finden konnten, sollte ich es für sie
-da Daher auch der Zettel, den Schraut auf dem Tische
-fand, daher der Brief, den ich erhielt, Ich sollte eben auf
+suchen. Daher auch der Zettel, den Schraut auf dem Tische
+fand, daher der Brief, den ich erhielt. Ich sollte eben auf
 dieses Haus »scharf gemacht« werden. Und die beiden
 wollten, wie’s dann auch geschah, mich beobachten, wenn
 ich hier die Räume Durchstöberte.«
 
-Die Prinzessin Dolja vier. »So wird es gewesen
-sein, Herr Harst, — Ich möchte nun zunächst noch etwas
+Die Prinzessin Dolja nickte. »So wird es gewesen
+sein, Herr Harst. — Ich möchte nun zunächst noch etwas
 anderes richtig stellen. Ich habe vor Der Polizei angegeben,
-daß der Rest der Juwelen in dem Brummen
+daß der Rest der Juwelen in dem Zimmer
 ohne Fenster in der Polsterung des Lehnsessels versteckt
-gewesen und von dort durch die Turkmenen gestohlen sei,
-Das trifft nur zum- Teil zu. In dem Sessel waren ledig-altertümliche
-Halsketten verborgen. Alles
-An Vater nett besser verwahrt: in der Höh-jegelstein,
-den er vorsichtig herausnahm
-und nachher 10 mit Mörtel geschickt befestigte, daß niemand
-vermache ah te, an jener Stelle sei ein Versteck unsre
-Tapete hatte er ausgeschnitten und
-Major später wieder angeklebt. Ich wollte Sie nun bitten,
-meine Herren, mir zu helfen
+gewesen und von dort durch die Turkmenen gestohlen sei.
+Das trifft nur zum Teil zu. In dem Sessel waren lediglich
+drei altertümliche Halsketten verborgen. Alles
+übrige hatte mein Vater noch besser verwahrt: in der Höhlung
+hinter einem Ziegelstein, den er vorsichtig herausnahm
+und nachher wieder mit Mörtel geschickt befestigte, daß niemand
+vermuten konnte, an jener Stelle sei ein Versteck angelegt
+worden. Die Tapete hatte er aufgeschnitten und
+losgelöst, später wieder angeklebt. Ich wollte Sie nun bitten,
+meine Herren, mir zu helfen...«
 
-»Gern, Prinzessin,« unterbrach Harst sie, »Vorher
-noch eine Frage: Sie hinterließen mir doch, als Sie dämmerts
+»Gern, Prinzessin,« unterbrach Harst sie. »Vorher
+noch eine Frage: Sie hinterließen mir doch, als Sie damals
 <@pagebreak/>
 bei uns waren, jenen Brief, der »Leaxyeka« unterzeichnet
 war. Ich habe diesen Brief bisher nie erwähnt,
 da Sie selbst nie darauf zu sprechen kamen. Ich möchte...«
 
-Dwolja Dortschakloff hatte sich vorgebeugt, hatte gerieten:
+Dwolja Dortschakloff hatte sich vorgebeugt, hatte gerufen:
 »Einen Brief?! Ich — ich hätte Ihnen einen Brief
 übergeben?! Mein Gott — davon weiß ich ja gar nichts!«
-Sie war so verwirrt, daß sie immer wmüeder den Kopf
+Sie war so verwirrt, daß sie immer wieder den Kopf
 schüttelte.
 
 »Haben Sie denn nie einen Brief, der »Leaxyeka«
@@ -1592,46 +1595,47 @@ und stammelte:
 »Oh — ich ahne Schon: ich bin damals gar nicht freiwillig
 zu Ihnen gegangen! Der Schanmanensohn hat mich
 durch das Bawirutu dazu gezwungen! Und heute weiß ich
-nicht einmal mehr, daß
+nicht einmal mehr, daß...«
 
 Sie schaute Harst halb verzweifelt an. Die Stimme
-versagte ihr vor Erregung, Uralt, etwas wie Grauen sprach
-aus ihren starren Blicken, — Grauen vor der Macht Gorims,
-des Schamaneonsohnes.
+versagte ihr vor Erregung. Angst, etwas wie Grauen sprach
+aus ihren starren Blicken. — Grauen vor der Macht Gorims,
+des Schamanensohnes.
 
-Harald beobachtete sie Will, il
+Harald beobachtete sie still.
 
-Sie Sehnte sich langsam in den Stuhl he zurück,
-Sie… lächelte grünlich...
+Sie lehnte sich langsam in den Stuhl bequem zurück,
+Sie… lächelte plötzlich...
 
 Und sagte in harmlos-scherzendem Tone: »Nein, wie
-man nur so vergeblich sein kann! ich habe den Brief ja
-selbst geschrieben, Herr Harst, Mit meines Vaters Schnell-Auto
-Ich wollte Sie für uns stärker hinein
-n...
+man nur so vergeßlich sein kann! ich habe den Brief ja
+selbst geschrieben, Herr Harst. Mit meines Vaters Schreibmaschine.
+Ich wollte Sie für uns stärker interessieren.
+Und...«
 
-Harald war aufgestanden, hatte sich vor Dolja Dort
-schuldete Stuhl gestellt, ich Er scharf Ahnt und
+Harald war aufgestanden, hatte sich vor Dolja Dortschakoffs
+Stuhl gestellt, hatte diese scharf angesehen und
 dann ihre Hände ergriffen...
 
 <@pagebreak/>
 Sein Gesicht zeigte die äußerste Anspannung seiner
-Energie in der Spannung der Muskeln und in den zufant-engepréeßten
+Energie in der Spannung der Muskeln und in den zusammengepreßten
 Lippen an.
 
-Seine Augen waren groß und schienen hervorzuquel-Mr.
-Blicke bohrten sich in Doljas halb verschleierte
-gen ein.
+Seine Augen waren groß und schienen hervorzuquellen.
+Seine Blicke bohrten sich in Doljas halb verschleierte
+Augen ein.
 
 Ich — ich ahnte: Harst kämpfte hier mit Gorim, dem
 Schamanensohne, der durch das Bawirutu soeben wieder
-Prinzessin einen Befehl aus der Ferne zugesandt hatte!
+der Prinzessin einen Befehl aus der Ferne zugesandt hatte!
 
 Harsts eiserne Willenskraft suchte diesen Einfluß des
-Turkmenen zu überwinden
+Turkmenen zu überwinden...
 
-Harst wollte bei Dolja durch stärkere Hypnose alles beide
-Gorim in der ferne an tückischen Gedanken
+Harst wollte bei Dolja durch stärkere Hypnose alles beseitigen,
+was Gorim in der Ferne an tückischen Gedanken
+ausschickte.
 
 <@pagebreak/>
 
@@ -1670,7 +1674,7 @@ Sie schlief...
 Erschöpft ließ Harald sich in seinen Stuhl bartlosen,
 
 Wie ein Automat nahm er mit fchiwerfälligen Ermessen
-sein Zigarettenetui und zündete sich eine Miras-ulum
+sein Zigarettenetui und zündete sich eine Mirakulum
 an.
 
 <@pagebreak/>
@@ -2130,7 +2134,7 @@ nur das Kruzifix fehlte.
 
 Die Juwelen hatten einen Wert von ungezählten Billionen,
 Die Prinzessin war reich — ungeheuer reich, Und
-dazu war sie schön, geistvoll, tatfräftig, —
+dazu war sie schön, geistvoll, tatkräftig, —
 
 Wir verabschiedeten uns.
 
@@ -2224,7 +2228,7 @@ Der Dieb hatte ja nicht nur die Tür aufgeschlossen,
 sondern nachher wieder die Stühle geaengelehnt, indem er
 durch die Tiürfpalte bindurchgefaßt hatte. —
 
-Harst war minutenlang naß dieser niedershmetternden
+Harst war minutenlang naß dieser niederschmetternden
 Entdeckung wie betäubt.
 
 Dann raste er sich auf, begann das Arbeitszimmer
@@ -2272,7 +2276,7 @@ Der Tisch war von hier durch ein Fenster in den Vorgarten
 hinabgesprungen. Die Fensterflügel waren nur zu-gedücdt
 
 Im Vorgarten sah man die Absprungspur ganz deute
-sich, Es waren Spuren von spitzen Männerslieseln, sogenannten
+sich, Es waren Spuren von spitzen Männerstiefeln, sogenannten
 Jimmyschuhen,
 
 Wir fuhren zur Polizei.
@@ -2528,7 +2532,7 @@ Und — nun erfolgte der tragische Abschluß dieser Gaunerkomödie...
 Erfolgte an einem Orte, Der und nicht ganz fremd
 war...
 
-<h2>5, Kapitel,</h2>
+<h2>5. Kapitel,</h2>
 
 <h3>Tessöny holt die Beute.</h3>
 
@@ -2670,7 +2674,7 @@ __Das Paket im Urbanhafen.__
 <@pagebreak 63/>
 Nachdruck verboten. Alle Rechte einschließlich Verfilmungsrecht
 vorbehalten. Copyright by Verlag moderner Lektüre
-G.m.b.H. Berlin 26. — 1928.
+GmbH. Berlin 26. — 1928.
 
 Wir weisen alle Freunde der Harald Harst-Abenteuer
 darauf hin, daß aus Anlaß der
