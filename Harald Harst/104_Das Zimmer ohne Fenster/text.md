@@ -1645,50 +1645,50 @@ ausschickte.
 
 »Sie gehorchen nur mir — — nur mir!« sagte er
 langsam und jedes Wort der Prinzessin förmlich ins Hirn
-stoßend. »Verstehen Sie: nur mir gehorchen Steh!
-Antworten »Sie!!
+stoßend. »Verstehen Sie: nur mir gehorchen Sie!! --
+Antworten Sie!!"
 
-»Ich verstehe...« Wisperte sie. »ich... gehorche,,,«
+»Ich verstehe...« lispelte sie. »Ich... gehorche...«
 
-in ihrem Gesicht wie ein Krampf
+Es zuckte in ihrem Gesicht wie ein Krampf...
 
-vi. gehorche dem ... Stärkeren,« fügte sie rascher
+"... gehorche dem... Stärkeren,« fügte sie rascher
 hinzu.
 
-Haralds Stirn bedeckte sich mit Schweißugrlen vor ungeheurer
+Haralds Stirn bedeckte sich mit Schweißperlen vor ungeheurer
 Willensanstrengung.
 
-»Wir gehorchen Sie!« zischte er, ließ die Hände der
+»Mir gehorchen Sie!« zischte er, ließ die Hände der
 Prinzessin los und begann ihr Gesicht mit magnetischen
 zarten Strichen zu streicheln...
 
-»Schlafen Sie jetzt — — 1! Verstehen Sie: Sie solle
-fern schlafen!!«
+»Schlafen Sie jetzt — — !! Verstehen Sie: Sie sollen
+schlafen!!«
 
-Minuten vergingen
+Minuten vergingen...
 
 Dann — sanken Doljas Lider herab.
 
 Sie schlief...
 
-Erschöpft ließ Harald sich in seinen Stuhl bartlosen,
+Erschöpft ließ Harald sich in seinen Stuhl zurückfallen.
 
-Wie ein Automat nahm er mit fchiwerfälligen Ermessen
+Wie ein Automat nahm er mit schwerfälligen Bewegungen
 sein Zigarettenetui und zündete sich eine Mirakulum
 an.
 
 <@pagebreak/>
-»Das — das kostet Nerven!« stöhnte er auf. »Wirke
+»Das — das kostet Nerven!« stöhnte er auf. »Wirkl-
 Ich — das kostet Nerven! Es ist etwas Unheimliches um
-Hofe asiatischen Geheimnisse. — Amerika nennt man das
-Bawirutu auch, Ich habe einmal eine Abhandlung Pariser
-gelesen — von Professor Glöjwoe, dem berühmten Beruhigter.
+diese asiatischen Geheimnisse. — Aweisha nennt man das,
+Bawirutu auch. Ich habe einmal eine Abhandlung darüber
+gelesen — von Professor Glöwe, dem berühmten Psychiater.
 Am liebsten...«
 
 Er schwieg und senkte den Kopf...
 
-»Am liebsten ... ja — am liebsten brächte ich Dolja
-in n Glöwes Sanatorium. Der Professor ist durch seine hypnotischen
+»Am liebsten... ja — am liebsten brächte ich Dolja
+in Glöwes Sanatorium. Der Professor ist durch seine hypnotischen
 Kuren berühmt geworden.«
 
 »Die Prinzessin wird nichts dagegen haben,« meinte
@@ -1699,61 +1699,61 @@ von Gorim wird...«
 
 Dolja hatte plötzlich den Kopf gehoben, die Lider geöffnet.
 Sie war — — wach! Ein stärkerer Einfluß als
-der Er hatte sie aus dem hypnotischen Schlaf gewacht.
+der Haralds hatte sie aus dem hypnotischen Schlaf geweckt.
 
 Sie schaute uns verwundert an. Dann preßte sie
-Hände gegen die Schläfen und sagte mit vibrierender
+die Hände gegen die Schläfen und sagte mit vibrierender
 Stimme:
 
 »Es ist, als wenn plötzlich ein seit Wochen auf meinem
-Hirn lallenden Druck von mir genommen ist. Ja, genau
+Hirn lastender Druck von mir genommen ist. Ja, genau
 Das Gefühl habe ich.«
 
 Sie holte tief Atem — wie befreit. »Herr Harst, ich
-Rabe ja stets in der Achten Zeit gegen die Macht des Hurra
-Venen gerungen. Ich habe gefühlt, daß er meinen Willen
-seinen unterjochen wollte. So und so oft hat Gorim
-ich berate besiegt gehabt. Zuweilen trieb irgend eine
-Wir fremde Kraft mich zu widerspruchsvollen Handlungen.
-ur unter Aufbietung all meiner. Energie konnte ich diese
-Siedlungen vorzeitig beenden und so, daß mir kein Scha-daraus
-erwuchs. Nun ist dieser seelische Druck nicht
-Wehr vorhanden ...«
+habe ja stets in der letzten Zeit gegen die Macht des Turkmenen
+gerungen. Ich habe gefühlt, daß er meinen Willen
+dem seinen unterjochen wollte. So und so oft hat Gorim
+mich beinahe besiegt gehabt. Zuweilen trieb irgend eine
+mir fremde Kraft mich zu widerspruchsvollen Handlungen.
+Nur unter Aufbietung all meiner Energie konnte ich diese
+Handlungen vorzeitig beenden und so, daß mir kein Schaden
+daraus erwuchs. Nun ist dieser seelische Druck nicht
+mehr vorhanden...«
 
-Harald hatte ihre rechte Hand ergriffen und nach) dem
+Harald hatte ihre rechte Hand ergriffen und nach dem
 Pulsschlag gefühlt.
 
 <@pagebreak/>
-»Völlig normal,« sagte er bedächtig, »Sie haben also
-wirklich ein Gefühl der Befreiung, Prinzessin? Etwa je
-Rasamala ob Gorim es aufgegeben hat, Sie noch weiter zu beeinflussen«
+»Völlig normal,« sagte er bedächtig. »Sie haben also
+wirklich ein Gefühl der Befreiung, Prinzessin? Etwa so,
+als ob Gorim es aufgegeben hat, Sie noch weiter zu beeinflussen?«
 
 »Ja, genau so. — Nein, eigentlich noch ein anderes
-(Gefühl, dem ich jedoch seinen Autotür zu verleihen vermag.
+Gefühl, dem ich jedoch keinen Ausdruck zu verleihen vermag."
 Sie sagte das so, als horchte sie in ihr Inneres hinein.
 
 »Gehen wir also in das fensterlose Zimmer hinab,«
 meinte Harald, der noch immer über etwas nachzugrübeln
-schien. »Wann waren Sie. zum lehren Male dort unten,
-Prinzessin«
+schien. »Wann waren Sie zum letzten Male dort unten,
+Prinzessin?«
 
 »Vorgestern, zusammen mit den Polizeibeamten.«
 
 Nun sollte es sich zeigen, daß diese seltsame Geschichte
 des Zimmers ohne Fenster eigentlich erst — — begann!!
 
-Wir drei hatten den Blieben erreicht, durch dessen
+Wir drei hatten den Alkoven erreicht, durch dessen
 Dielen die Falltür in den dreieckigen Raum hinabführte.
 
-Ueber die Falltür waren von der Polizei Bapierftrei«
-Ofen so angesiegelt worden, daß sie sich nur öffnen ließ, wenn
+Ueber die Falltür waren von der Polizei Papierstreifen
+so angesiegelt worden, daß sie sich nur öffnen ließ, wenn
 man diese Streifen zerriß.
 
-Harald hatte von den Kriminalkommissar, der hier die
-Untersuchung leitete, die Erlaubnis erhalten, in jeder Des
+Harald hatte von dem Kriminalkommissar, der hier die
+Untersuchung leitete, die Erlaubnis erhalten, in jeder
 Beziehung selbständig zu handeln.
 
-Er entfernte daher die Streifen, ohne die Siegel Du
+Er entfernte daher die Streifen, ohne die Siegel zu
 beschädigen, indem er diese mit der Messerklinge vorsichtig
 vom Holze löste.
 
@@ -1765,42 +1765,43 @@ und mir, mit zurückgewandtem Kopf zu:
 
 »Bitte mir nicht zu folgen! Ich werde die Falltür
 wieder schließen. — Oder — — Schraut mag ebenfalls
-iT Für Sie, Prinzessin, ist dieser Anblick hier
+hinabkommen. Für Sie, Prinzessin, ist dieser Anblick hier
+nichts..."
 
 »Mein Gott!« meinte Dolja entsetzt. »Was ist denn
 geschehen, Herr Harst?!«
 
 <@pagebreak/>
 »Etwas, das mir die Erklärung gibt, weshalb Gorim
-plötzlich eine Macht an Ihnen nicht mehr versuchte,
-Prinzessin, Litte, gehen Sie in Ihr Zimmer und erwarten
+plötzlich seine Macht an Ihnen nicht mehr versuchte,
+Prinzessin. Bitte, gehen Sie in Ihr Zimmer und erwarten
 Sie uns dort,«
 
-Dolja Dortschakoff gehorchte, wenn auch wiberfirebend,
+Dolja Dortschakoff gehorchte, wenn auch widerstrebend,
 
 Kaum war sie verschwunden, als Harst leise erklärte:
 
 Da unten gibt es — zwei Tote, Gorim und Nassub,
-je Turkmenen,«
+die Turkmenen,«
 
-(Er trat auf der Leiter mehr zur Seite, so daß ich einen
-ich in den Raum bin abwerfen konnte.
+Er trat auf der Leiter mehr zur Seite, so daß ich einen
+Blick in den Raum hinabwerfen konnte.
 
 Der Lichtkegel von Haralds Lampe lag gerade auf den
-Beiden menschlichen Gestalten, die dort auf dem Fußboden
-eben dem Tische in seltsam verprassen Stellungen hingestreckt
+beiden menschlichen Gestalten, die dort auf dem Fußboden
+neben dem Tische in seltsam verrenkten Stellungen hingestreckt
 waren.
 
 Ich hatte mich gebückt.
 
-Ich sah Dieses abschreckende Bild der verstummten Nöten,
-a Erinnerungen an den Weltkrieg wurden sehr mir
+Ich sah Dieses abschreckende Bild der verstummten Körper,
+und Erinnerungen an den Weltkrieg wurden in mir
 lebendig,
 
 Da hatte ich einmal auf dem Schlachtfelde im Osten
-elenenheit gehabt, eine Anzahl durch ein Kampfgas erstickter,
-vergifteten Soldaten aus nächster Nähe betrachten zu
-Können, Nicht anders wirkten hier die Leichen Gorims
+Gelegenheit gehabt, eine Anzahl durch ein Kampfgas erstickter,
+vergifteter Soldaten aus nächster Nähe betrachten zu
+können. Nicht anders wirkten hier die Leichen Gorims
 und Nassubs. Daß die beiden tot waren, bezweifelte ich
 nicht einen Augenblick, —
 
@@ -1809,107 +1810,107 @@ Harst kletterte die Leiter vollends hinab.
 ich folgte ihm.
 
 Da — mit einem Male sah ich ihn taumeln, sah, daß
-sich wieder emporraffie und mir hastig ein Zeichen gab,
+er sich wieder emporraffte und mir hastig ein Zeichen gab,
 
 Ich verstand...
 
-Nr bekam seinen Arm zu packen, zerrte Harst wieder
-oben,
+Ich bekam seinen Arm zu packen, zerrte Harst wieder
+nach oben,
 
-In dem Alkoven sank er matt gegen dies Wand,
+In dem Alkoven sank er matt gegen die Wand,
 
 Ich schloß die Falltür ganz von selbst. ich ahnte,
-daß der Kaum ohne Fenster mit einem Maus Gas
-he war,
+daß der Raum ohne Fenster mit einem verderblichen Gas
+angefüllt war,
 
 <@pagebreak/>
 Harald erholte sich langsam.
 
 Seine Augen tränten stark. Eiskalter Schweiß drang
 ihm zunächst noch aus allen Poren. Sein Gesicht glich dem
-Gardine Sterbenden, bekam erst nach einer halben Stunde
+eines Sterbenden, bekam erst nach einer halben Stunde
 wieder Farbe.
 
-Ich wollte ihn in das Zimmer Doljas/ hinübertragen.
-Er schüttelte den Kopf. Sw brachte ich ihn denn in eine der
+Ich wollte ihn in das Zimmer Doljas hinübertragen.
+Er schüttelte den Kopf. So brachte ich ihn denn in eine der
 benachbarten unbewohnbaren Stuben,
 
-»Tenne die Falltür wieder, damit das Gas abzieht«
+»Oeffne die Falltür wieder, damit das Gas abzieht,«
 flüsterte er mühsam und heiser.
 
 Ich tat’s.
 
 Und wartete dann, bis er wieder so weit zu Kräften
 gekommen, daß wir den Versuch erneuern konnten, in den
-dreieckigen Kaum hinabzusteigen.
+dreieckigen Raum hinabzusteigen.
 
 Harald drängte mich beiseite, als wir die Falltür geöffnet
 hatten,
 
-»Ja gehe voran,« sagte er kurz.
+»Ich gehe voran,« sagte er kurz.
 
 Inzwischen war eine Stunde vergangen.
 
-Da diese Art giftigen Gase schwerer als die Lust zu
+Da diese Art giftiger Gase schwerer als die Luft zu
 sein pflegen, bestand die Gefahr, daß die Gase noch am Boden
 des fensterlosen Zimmers lagerten, zumal die Falltür
 oben keinerlei Zugluft hervorrief, weil ja eine zweite
-Deffming unten im Zimmer fehlte.
+Oeffnung unten im Zimmer fehlte.
 
 Als Harald mich beiseite schob, erklärte ich ihm diese
-meine Bedenken, worauf er ebenso kurz, erwiderte;
+meine Bedenken, worauf er ebenso kurz, erwiderte:
 
-»Du irrst! Es ist eine zweite Oeffnung da! Wie so!
-(en denn Gorim und Nassub in das Zimmer eingedrungen
-Durch die Naivität sicherlich nicht! Die war versiegelt.
+»Du irrst! Es ist eine zweite Oeffnung da! Wie sollen
+denn Gorim und Nassub in das Zimmer eingedrungen
+sein?! Durch die Falltür sicherlich nicht! Die war versiegelt."
 
 Diese Sätze gaben den ganzen Vorgängen mit einem
 Schlage eine besondere Bedeutung.
 
 Ein zweiter Eingang!! Also besaß das fensterlose
-Zimmer noch weitere Geheimnisse! per
+Zimmer noch weitere Geheimnisse! --
 
-Harald stieg hinab. Oh blieb dicht hinter ihm
+Harald stieg hinab. Ih blieb dicht hinter ihm.
 
-Prüfend sog ich die Bar ein.
+Prüfend sog ich die Luft ein.
 
 <@pagebreak/>
 Ich spürte nichts mehr von jenem charakteristischen sogenannten
-Mpothetengeruch, durch den sich Sumpfgase bemerkbar
+Apothekengeruch, durch den sich Kampfgase bemerkbar
 machen.
 
 Unsere Taschenlampen vereinten ihre Lichtkegel auf
-den beiden regungslosecn Gestalten der gelbbraunen Asiaten.
+den beiden regungslosen Gestalten der gelbbraunen Asiaten.
 
 »Tot!« sagte Harst.
 
-Er barsch sich gebückt und dem einen der Männer den
+Er hatte sich gebückt und dem einen der Männer den
 Puls gefühlt.
 
 Er richtete sich wieder auf...
 
-»Tot, — und deshalb erlosch auch der unheilvoffe Einfluß
+»Tot, — und deshalb erlosch auch der unheilvolle Einfluß
 auf Dolja Dortschakoff vollständig, und plötzlich! Mit
-des Schamanensohne? hinicwinnendem Penmntptfein zerrissen
-die Fahren, die Kraft seines Willens unsichtbar von ihm
-zu der Prinzessin reichten; — Nun wollen mir feststellen,
+des Schamanensohnes hinschwindendem Bewußtsein zerrissen
+die Fäden, die kraft seines Willens unsichtbar von ihm
+zu der Prinzessin reichten. — Nun wollen wir feststellen,
 woher das Gas in diesen Raum gelangt ist,«
 
-Ich habe Eckchen vorher erwähnt, daß das Zimmer ohne
+Ich habe schon vorher erwähnt, daß das Zimmer ohne
 Fenster im Erdgeschoß des verwahrlosten alten Hauses
 lag und zwar an der Südostseite. Es war umgeben von der
 Küche und ein paar winkeligen Kammern, und dies war
 so geschickt geschehen, daß man kaum bemerken konnte, daß
-Mem diesen Räumlichkeiten noch ein anderes Gemach
-As.
+zwischen diesen Räumlichkeiten noch ein anderes Gemach
+lag.
 
-Harald wandte seine Mufmerffamfeit Lediglich dem
+Harald wandte seine Aufmerksamkeit Lediglich dem
 Fußboden zu. Die Dielen waren hier, da sie aus harzigen
 Latten bestanden, noch tadellos erhalten.
 
 Sehr bald hatte er dann das Geheimnis des zweiten
 Einganges entdeckt: auch hier gab es in der Nordecke des
-Zimmers eine dreieckige Falltiür, die in einen Kellerraum
+Zimmers eine dreieckige Falltür, die in einen Kellerraum
 hinabführte, der zumeist mit halb verfaulten Kisten und
 Fässern angefüllt war.
 
@@ -1920,42 +1921,43 @@ So wenig man sie im geschlossenen Zustande von dem
 Kellerraum aus wahrnehmen konnte, da sie in die Balkendecke
 genau und unauffällig eingepaßt war, — wer sie trotzdem
 <@pagebreak/>
-fand und dann nach oben in Bad fensterlose Zimmer
-binauflfetterte, überlieferte sich selbst dem Tode!
+fand und dann nach oben in das fensterlose Zimmer
+hinaufkletterte, überlieferte sich selbst dem Tode!
 
-Dom — an Der Falltür war ein sehr einfacher Me-chaniömus
-angebracht, Der eine große. Gaspatrone öffnete,
-deren Mundstück durch ein kleines Astloch ja den Dielen
-schien Anhalt in den dreieckigen Kaum auöfteönen ließ,
-Die Patrone selbst war zwischen den beiden Siebenfachen so
+Denn — an Der Falltür war ein sehr einfacher Mechanismus
+angebracht, Der eine große Gaspatrone öffnete,
+deren Mundstück durch ein kleines Astloch in den Dielen
+ihren Inhalt in den dreieckigen Kaum ausströmen ließ.
+Die Patrone selbst war zwischen den beiden Dielenlagen so
 gut verborgen, daß sie nur von dem gefunden werden
 konnte, der danach suchte, —
 
 Harald hatte eine Kiste unter die Falltür geschoben
-auf dieser Kiste stehend den Mechanismus sich ausersehen.
+und auf dieser Kiste stehend den Mechanismus sich angesehen.
 
 »Vielleicht hat gar Fürst Dortschakoff die Gaspatrone
-hier angebracht,« meinte er. »Und. zwar ohne Wissen Doljas,
+hier angebracht,« meinte er. »Und zwar ohne Wissen Doljas,
 die von diesem zweiten Eingang nichts weiß. Der
-Fürst mag die Juwelen recht sorgsam haben schützen wollen,
-— Es erdacht sich nur, wie Gorim und Nassub Kenntnis
+Fürst mag die Juwelen recht sorgsam haben schützen wollen.
+— Es fragt sich nur, wie Gorim und Nassub Kenntnis
 von dieser zweiten Falltür erhalten haben,«
+
 Er sprang von der Kiste herab.
 
-»Seine Taschenlampe beleuchtete Bad Gerümpel,
+Seine Taschenlampe beleuchtete das Gerümpel,
 
-»Ah — Handwerkszeug!« rief er leise. »Hier ein Zeug
-trumbohrer, Stichsäge und Begreifen! Die beiden Turkmenen
+»Ah — Handwerkszeug!« rief er leise. »Hier ein
+Zentrumbohrer, Stichsäge und Brecheisen! Die beiden Turkmenen
 wollten sich also von hier mit Gewalt durch die Decke
-bindurcharbeiten. Sie haben geahnt, daß das Zimmer
+hindurcharbeiten. Sie haben geahnt, daß das Zimmer
 ohne Fenster noch Kostbarkeiten enthielt, und sie...«
 
 Er schwieg.
 
-Er hatte rasch Burnus vom Boden ausgehoben, daneben
-dem Handwerkszeug gelegen hatte,
+Er hatte rasch etwas vom Boden aufgehoben, das
+neben dem Handwerkszeug gelegen hatte,
 
-Es war — — eine Reitpeische mit rundem silbernen
+Es war — — eine Reitpeitsche mit rundem silbernen
 Knopf und breitem silbernen Ring...
 
 <@pagebreak/>
