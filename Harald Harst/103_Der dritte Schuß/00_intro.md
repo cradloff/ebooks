@@ -7,6 +7,6 @@
 <div style="font-size: x-large; text-align: center;">${property.title}</div>
 
 <@spacer 2/>
-<div style="font-size: small; text-align: center; white-space: pre-wrap;">Nachdruck verboten. – Alle Rechte vorbehalten. Copyright ${property.pubDate} by Verlag moderner Lektüre G. m. b. H. Berlin.
+<div style="font-size: small; text-align: center; white-space: pre-wrap;">Nachdruck verboten. – Alle Rechte vorbehalten. Copyright ${property.pubDate} by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.
 Druck P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin SO 26</div>
 

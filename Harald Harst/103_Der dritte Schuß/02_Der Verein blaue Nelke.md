@@ -122,7 +122,7 @@ Und er feuchtete den rechten Zeigefinger an und fuhr
 
 Er griff nach einem Radiermesser, das auf der Schreibtischplatte
 lag, und kratzte die Zahl vorsichtig weg, drückte
-den Stiel rund und sage gedämpft: »Es genügt, daß wir
+den Stiel rund und sagte gedämpft: »Es genügt, daß wir
 beide von dieser Acht etwas wissen.«
 
 Dann trat auch schon ein Beamter ein und bat uns
@@ -155,7 +155,7 @@ plötzlich stehen.
 
 Von Südwest, wo etwa der Flugplatz Johannistal
 liegen mußte, kam ein grauweißer Benzinvogel ziemliche
-niedrigen Fluges haben, hinter sich eine feine Rauchfahne
+niedrigen Fluges daher, hinter sich eine feine Rauchfahne
 ziehend.
 
 Harst schaute empor.
@@ -286,7 +286,7 @@ zum Verdächtigen umgestalten, falls sie — nun, bitte...!«
 »Falls sie die Nelke aufbewahrt hat,« erklärte ich sehr
 bestimmt.
 
-»So it’s! Falls... — ich wage kaum darauf zu
+»So ist’s! Falls... — ich wage kaum darauf zu
 hoffen.«
 
 »Und — falls die Nelke eben numeriert ist...!«
@@ -342,7 +342,7 @@ worden, welche Kellner damals bedient hätten.
 
 Und fügte hinzu: »Es ist nämlich merkwürdig, Herr
 Harst, daß vor kaum zehn Minuten ein anderer Herr etwa
-dieselben Fragen an mich richtete wir Sie jetzt. Ich hatte
+dieselben Fragen an mich richtete wie Sie jetzt. Ich hatte
 daher auch schon bei dem Oberkellner nachgefragt, der hierüber
 Bescheid wissen mußte. Drei der Kellner, die damals
 bedient haben, waren zur Stelle. Mit dem einen hat der
@@ -356,7 +356,7 @@ beurlauben. Er nahm Hilger im Auto sofort mit.«
 
 »Wie sah er aus?«
 
-»Sehr vornahm, schlank, groß, grauer Spitzbart, gescheiteltes
+»Sehr vornehm, schlank, groß, grauer Spitzbart, gescheiteltes
 graues Haar.«
 
 »Sprach er deutsch?«
@@ -395,7 +395,7 @@ Braut mitnahm — aus Aberglauben, da er annahm, diese
 Blume aus der Hand eines Toten sei genau so glückbringend
 wie der Strick eines Gehenkten etwa. Die Nelke
 hatte ihm jedoch nur Unheil beschert: seine Braut starb
-am selben Abend, in seiner Gegenwart an Herzkrämpfen.
+am selben Abend in seiner Gegenwart an Herzkrämpfen.
 Die Nelke verwahrte Hilger sich trotzdem auf. Er hatte sie
 gepreßt und unter das Glas des Rahmens eines Bildes
 der Verstorbenen gelegt. — Was der spanische Graf jetzt
@@ -429,14 +429,14 @@ Wir fuhren sofort nach der Artilleriestraße 108.
 
 Wir kamen hier nur um drei Minuten zu spät, wie
 wir von der Zimmervermieterin hörten, bei der Hilger
-wohnte. Hilger wär vor etwa einer Viertelstunde nach
+wohnte. Hilger war vor etwa einer Viertelstunde nach
 Hause gekommen, hätte seinen Koffer sehr eilig gepackt, das
 Zimmer noch für einen Monat bezahlt und war dann in
 einem offenen Mietauto, in dem noch ein älterer graubärtiger
 Herr saß, davongefahren. Die Bilder seiner verstorbenen
 Braut hatte er wie alle seine Sachen mitgenommen.
 
-Wir verließen die Wohnung der redseliger Vermieterin
+Wir verließen die Wohnung der redseligen Vermieterin
 und gingen den Linden zu.
 
 »Pech!« meinte Harald.
@@ -551,7 +551,7 @@ hatte. Sie war mit niemanden, soweit ich feststellen
 konnte, in Verbindung getreten. Ich sah den Zug davondampfen
 und kehrte nach Hause zurück.
 
-Daß Harald in dieser Frau Eva v, Seiler eine Verbündete
+Daß Harald in dieser Frau Eva v. Seiler eine Verbündete
 des Spaniers, also der Leute, die durch die blauen
 Nelken mordeten, gewittert hatte, war mir sofort klar geworden.
 
@@ -859,7 +859,7 @@ Zum ersten Male meldete sich jetzt auch Frau v. Seiler.
 <@pagebreak/>
 »Graf, wollen wir nicht doch lieber...« — In diese
 zögernde Einleitung ihres fraglos dahin gerichteten Vorschlags,
-Burton zu schonen, Platze der blonde Lord Windraymoor
+Burton zu schonen, platzte der blonde Lord Windraymoor
 hinein:
 
 »Haben Sie Santa Rocka wirklich schon vergessen, verehrteste
@@ -1029,7 +1029,7 @@ Harald erwiderte nichts darauf.
 »Herr Harst, jetzt steht Ihres Freundes und Ihr eigenes
 Schicksal zur Debatte,« fuhr Villamara fort. »Wir
 fordern von Ihnen beiden das feste Versprechen, diese Nacht
-alles andere, was mit den blauen Nelken zusammenhängt,
+und alles andere, was mit den blauen Nelken zusammenhängt,
 zu vergessen — für immer!«
 
 Harald ließ die linke Hand sinken. »Ich lehne ab,
@@ -1076,7 +1076,7 @@ das verstehen, Herr Harst?«
 Rocka, zu Mördern werden?! — Ich kenne das Drama
 von Santa Rocka. Vor acht Jahren ging ein Dampfer, der
 von Singapore nach Australien bestimmt war, im Orkan
-unter. Ein einziges Boot, mit Schiffbrüchiger vollgepfropft,
+unter. Ein einziges Boot, mit Schiffbrüchigen vollgepfropft,
 rettete sich. Es war das kleinste Boot. Von den... Insassen...
 konnten... nur...«
 
@@ -1257,12 +1257,12 @@ Hände?! Ich...«
 
 Und hart und schneidend Villamaras Stimme: »Sie
 haben wohl die drei Drohbriefe des Vereins Bl. N. erhalten,
-Holger Svendson! Bl, N. heißt Blaue Nelke. — Sie
-besinnen Sie sich noch auf unsere gemeinsame Reise auf dem
+Holger Svendson! Bl. N. heißt Blaue Nelke. — Sie
+besinnen sich noch auf unsere gemeinsame Reise auf dem
 »Prince Edward« von Singapore nach Melbourne, auf
 unsere Tischgesellschaft, die sich zum Scherz zu einem Verein
 Blaue Nelke zusammenschloß. Gerade wir Mitglieder der
-Blauen Nelke entgingen in dem keinen Rettungsboot dem
+Blauen Nelke entgingen in dem kleinen Rettungsboot dem
 Orkan, trieben tagelang auf See umher. Unser Proviant,
 unser Trinkwasser verringerte sich zusehends. Wir waren
 zwölf Personen in dem Boot, und wir wußten, daß nur
@@ -1288,7 +1288,7 @@ Rocka in ein Fegefeuer verwandelte. Ein Dampfer rettete
 dann uns fünf, die Sie hier vor sich sehen! Rettete uns
 fünf... Wahnsinnige, — wahnsinnig geworden in demselben
 Fegefeuer! Irrenhäuser wurden unser Aufenthalt.
-Vier Jahre vergingen, bis der letzte von uns, ich Selbst, als
+Vier Jahre vergingen, bis der letzte von uns, ich selbst, als
 geheilt die Stätte der Toten verlassen konnte. Da fanden
 wir fünf uns wieder zusammen. Weil niemand uns
 geglaubt hatte, daß man uns damals auf Santa Rocka absichtlich

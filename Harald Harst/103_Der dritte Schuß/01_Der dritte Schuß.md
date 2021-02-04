@@ -74,7 +74,7 @@ Ingeborg nun auf unseren Besuch vorbereiten und uns
 dann nach oben holen.
 
 Nach fünf Minuten schaute eine ältere Dame in das
-Empfangszimmer hinein, trat näher und fragte nach uns
+Empfangszimmer hinein, trat näher und fragte nach
 unseren Wünschen. Es war die Pensionsinhaberin.
 
 Harald erwiderte, daß wir auf Professor Svendson
@@ -215,7 +215,7 @@ Arbeitszimmer und stärkten uns durch eine Tasse Mokka.
 
 Harst wurde nach der zweiten Tasse sehr schweigsam.
 
-Nach her dritten sagte er:
+Nach der dritten sagte er:
 
 »Wir werden bei der Börmer absteigen. Der echte
 Svendson wird uns vielleicht auf die Spur des falschen
@@ -264,7 +264,7 @@ nun in Nr. 4 fest zu Bett, und der Professor pflege sie. —
 Harald nahm das Mädchen noch weiter ins Verhör
 — ganz unauffällig. — Fräulein Ingeborg Svendson
 habe wohl einen Verehrer, der dem Vater, dem Professor,
-nicht genehm sei? Fragte er lächelnd.
+nicht genehm sei? fragte er lächelnd.
 
 Das Zöfchen nickte. »Ja, einen Verehrer hat sie
 <@pagebreak/>
@@ -344,7 +344,7 @@ Der Herr war übrigens Schwede, Herr Harst.«
 »Vielen Dank. Sie schweigen wohl über unsere Nachfrage...«
 
 »Gewiß, Herr Harst, nur — stimmt irgend etwas
-nicht? Womöglich habe ich nach Unannehmlichkeiten, weil
+nicht? Womöglich habe ich noch Unannehmlichkeiten, weil
 ich das Atropin ohne Rezept...«
 
 »Keine Sorge. Der Hund ist mit dem Leben davongekommen.
@@ -382,14 +382,14 @@ wir nur angelehnt.
 In Nr. 3 war alles still. Es brannte kein Licht. Harald
 hatte durch das Schlüsselloch geschaut.
 
-Dann huschten mir nach links — vor die Tür von Ingeborgs
+Dann huschten wir nach links — vor die Tür von Ingeborgs
 Zimmer.
 
 Hier vernahmen wir gedämpfte Stimmen, und hier
 in Nr. 4 war es auch hell.
 
 Harald zog mich wieder nach rechts, legte die Hand
-auf den Drücker von Nr. 3. — verschlossen!! — Aber die
+auf den Drücker von Nr. 3. — Verschlossen!! — Aber die
 Schlüsselzange arbeitete leise und schnell. Der Riegel war
 nicht vorgeschoben.
 
@@ -480,7 +480,7 @@ wenn wir nochmals ausgingen?!«
 »Und — wohin?«
 
 »Nach der nahen Augsburger Straße, wo der Amerikaner
-James Burton wohnt, nach Nr. 112. wenn wir
+James Burton wohnt, nach Nr. 112. Wenn wir
 wüßten, wo Sigurd Barnö hier in Berlin abgestiegen ist,
 könnten wir ja auch ihn noch so ein wenig aufs Korn nehmen.
 Ich bin stets dafür, daß man das Eisen schmiedet,
@@ -488,7 +488,7 @@ so lange es noch heiß ist. Nächtliche Ermittelungen haben
 außerdem zumeist mehr Erfolg als solche am Tage. Nachts
 streifen die Menschen die Maske, die sie für das grelle Sonnenlicht
 anzulegen belieben, nur zu gern ab und werden so,
-wie sie wirklich sind. Ehrbare Beamte frönen nachts, dem
+wie sie wirklich sind. Ehrbare Beamte frönen nachts dem
 verbotenen Laster des Spiels, Damen der sogenannten besten
 Gesellschaft besuchen... — Ah — hörst Du...! Svendson
 geht noch aus! Das war soeben seine Tür, die ins
@@ -506,7 +506,7 @@ die Augsburger Straße ein.
 Er ging wie einer, der tief in Gedanken versunken
 ist, mit gesenktem Kopf, mit schlaffen Bewegungen.
 
-Die Augsburger Strafe war wenig belebt. Vor Nr.
+Die Augsburger Straße war wenig belebt. Vor Nr.
 <@pagebreak/>
 112 machte Svendson halt und schaute zu den Fenstern des
 gegenüberliegenden Hauses empor.
@@ -607,7 +607,7 @@ Treppen wurden hell.
 
 Er wollte die Treppen emporsteigen.
 
-Da kam von oben ein Herr mit einem keinen Handkoffer
+Da kam von oben ein Herr mit einem kleinen Handkoffer
 herab.
 
 <@pagebreak/>
@@ -684,7 +684,7 @@ zu beantworten.«
 wieder energischer.
 
 »Gut — ich bin einverstanden. Ich... bin Sigurd
-Barnö. Ich werde Ihnen erklären, weshalb ich mich verleidet
+Barnö. Ich werde Ihnen erklären, weshalb ich mich verkleidet
 hatte.«
 
 Er kam die Stufen weiter herab.
@@ -709,7 +709,7 @@ Mannes ab.
 
 Barnö murmelte etwas Unverständliches und wandte
 sich kurz der Haustür zu, öffnete sie mit einem Schlüssel
-und führte uns dann im den ersten Stock, wo er ein Zimmer
+und führte uns dann in den ersten Stock, wo er ein Zimmer
 <@pagebreak/>
 mit Zugang von der Treppe aus aufschloß und eine
 einladende Handbewegung machte.
@@ -725,7 +725,7 @@ Ich mußte mir Mühe geben, meine Ueberraschung zu
 verbergen, denn der blonde Herr war... Der falsche Professor
 Svendson, der Dieb des Napoleon aus Wachs...!!
 
-<h2>3, Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>Der erste Schuß.</h3>
 
@@ -745,7 +745,7 @@ Der Blonde hatte uns und Barnö abwechselnd gemustert.
 
 »Sigurd — etwa Polizei?« fragte er nun.
 
-Barnö zweite die Achseln. »Leider! Ich habe Pech gehabt.«
+Barnö zuckte die Achseln. »Leider! Ich habe Pech gehabt.«
 Und er rückte einen Stuhl neben den Sessel und
 setzte sich. Der Blonde folgte seinem Beispiel.
 
@@ -766,7 +766,7 @@ graublauen Augen von dem Lichte der elektrischen Krone
 voll getroffen wurde, erwiderte ohne Zögern: »Weil ich
 Herrn Professor Svendson schützen wollte.«
 
-»Vor wem? Wovon?«
+»Vor wem? Wovor?«
 
 »Vor... Mordanschlägen eines Unbekannten.«
 
@@ -899,7 +899,7 @@ Barnö bejahte zögernd. Es sei da vor anderthalb
 Monaten in Stockholm ein Amerikaner namens Burton
 aufgetaucht, ein Ingenieur, der mit Svendson geschäftliche
 Beziehungen angeknüpft und dann sehr viel im Hause des
-Professors verkehrt habe, wo er Ingeborg ganz unverletzten
+Professors verkehrt habe, wo er Ingeborg ganz unverholen
 den Hof machte, begünstigt durch deren Vater, dem der
 schwerreiche Bewerber (Burton war Chefingenieur einer
 großen Fabrik) insofern recht genehm gewesen, als des
@@ -949,7 +949,7 @@ es, dem Apotheker zu entlocken, welche Medikamente
 der Professor geholt hatte. Ebenso faßte er dann eines der
 Stubenmädchen des Pensionats Börmer ab und hörte von
 ihr, daß tatsächlich Ingeborg die Kranke sei. Da er sehr
-wohl wußte, daß Svendsons seinen Hund besaßen, der
+wohl wußte, daß Svendsons keinen Hund besaßen, der
 durch Zyankali vergiftet sein konnte, wie der Apotheker ihm
 verraten, steigerte sich seine Angst um die Geliebte so sehr,
 daß er zu dem Entschluß kam, Gulbranson als Svendson
@@ -998,11 +998,11 @@ daß es Burton war.«
 
 Da schüttelte Sigurd Barnö energisch den Kopf.
 
-»Herr Harst, ich möchte alles, was ich zu Verdächtigungen
+»Herr Harst, ich möchte alles, was ich an Verdächtigungen
 gegen den Amerikaner ausgesprochen habe, zurücknehmen.
 Gestatten Sie rasch ein paar Bemerkungen. Sie
 sahen, daß ich heute hinter Svendson als Bettler herschlich.
-Und ich ich sah, daß man aus dem durch die Augsburger
+Und *ich* sah, daß man aus dem durch die Augsburger
 Straße rasenden geschlossenen Auto auf Svendson schoß.
 Ich sah ein Stück des Pistolenlaufes...«
 
@@ -1051,7 +1051,7 @@ und sagte nach einer Weile:
 
 »Burton steht jetzt gerade vom Schreibtisch auf.«
 
-Dann kam er wieder zu uns zurück und setze sich.
+Dann kam er wieder zu uns zurück und setzte sich.
 
 »Wäre es nicht möglich, Herr Barnö, daß Burton so
 schlau gewesen ist, einen anderen Mann den Platz an seinem
@@ -1224,7 +1224,7 @@ Straßen waren um Mitternacht wie ausgefegt. So konnten
 denn zwei fragwürdig ausschauende Gestalten mit
 schmierigen Sportmützen auf dem Kopf ganz ungestört in
 das Haus Nr. 112 eindringen und durch das Flurfenster
-des Hochparterres auf einen Sims entlang bis zu Burtons
+des Hochparterres auf einem Sims entlang bis zu Burtons
 Zimmerfenster vordringen.
 
 Diese Sportübung als Fassadenkletterer stellte an meine
@@ -1287,7 +1287,7 @@ mit der deutschen Polizei keine Plackereien haben.«
 Da begriff ich: er wollte deshalb die Polizei aus dem
 Spiele lassen, weil die »Einbrecher« sonst vielleicht verraten
 hätten, daß er der Dieb der Wachsfigur gewesen! —
-Und doch begriff ich zur halb. — Das sollte ich in der folgenden
+Und doch begriff ich nur halb. — Das sollte ich in der folgenden
 Nacht erkennen.
 
 Jetzt lief alles für uns scheinbar sehr glimpflich ab.
@@ -1402,7 +1402,7 @@ Dienst, so daß Barnö als Zeuge beschworen hätte Sie seien
 auch zu dieser Stunde daheim gewesen. Sie mögen in
 den Zeitungen gelesen haben, daß ich den Napoleon gekauft
 hatte, und da wird Ihre Vielseitigkeit Ihnen den schon
-was abgenutzten Gedanken eingegeben haben, die Wachsfigur
+etwas abgenutzten Gedanken eingegeben haben, die Wachsfigur
 sich für Ihre Zwecke zu verschaffen.«
 
 In demselben Moment trat jetzt Ingeborg ein, in
@@ -1415,7 +1415,7 @@ Und — diesen Moment, wo Harald forschend zu
 Ingeborg hinschaute, benutze Burton...
 
 Ein blitzschneller Sprung — und zwei Fausthiebe
-warfen Harst um mich zur Seite...
+warfen Harst und mich zur Seite...
 
 An Ingeborg vorbei stürmte der Verbrecher ins
 Nebenzimmer...
@@ -1427,7 +1427,7 @@ Gebäudes erreicht, war verschwunden...
 
 Die Nelke aber, die Svendsons Tochter auf ihrem
 Nachttisch gefunden, will ich im zweiten Teil dieses Abenteuers
-genauer beschreiben — in dem »Verein blaue Nelke«,
+genauer beschreiben — in dem »Verein blaue Nelke«.
 
 Dann soll auch gesagt werden wer und was Burton
 in Wirklichkeit war...
