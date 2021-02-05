@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">dc66843a-5e67-11eb-9411-270eeca4c626</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der dritte Schuß</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">103</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der dritte Schuß.
+
+Als Harald damals die Wachsfigur Napoleons in Kolberg aus Anlaß der polizeilichen Auflösung des Robba’schen Wachsfigurenkabinetts kaufte, ahnten wir beide nicht, daß der wächserne Napoleon uns noch zu einem zweiten Abenteuer verhelfen würde, dessen Anfang weit aufregender war, als für gewöhnlich Kriminalprobleme für uns beginnen.
+
+Daß Harst den Napoleon käuflich erworben hatte, war am 18. Juli 1922 in allen Zeitungen zu lesen. Weiter stand dann auch in demselben Artikel eine kurze Uebersicht über den Tod des Artisten Robba und all die anderen Ereignisse, die mit der Festnahme der internationalen Diebesbande zusammenhingen. Falls der Leser sich für Robert Robba interessiert, wird er im vorigen Band (der Napoleon aus Wachs) genaueres finden.
+
+Jedenfalls: seit dem 19. Juli mittags war Robbas Wunderautomat »Napoleon« in Harald Harsts Raritätensammlung eingereiht und hatte seinen Platz im Bibliothekszimmer zwischen zwei Schränken, die ägyptische Mumien und präparierte Raubtierschädel enthielten.
+
+Der Verein »blaue Nelke.«
+
+Der Sprung, den James Burton von Ingeborgs Schlafstubenfenster aus in den Hof hinab gewagt hatte, um sich uns durch die Flucht zu entziehen, erschien nur im ersten Augenblick als eine Tollkühnheit, da es sich um zwei Stockwerke und ein Hochparterre, also eigentlich um drei Stockwerke handelte.
+
+Daß der Verbrecher von vornherein mit der Möglichkeit gerechnet hatte, einen solchen Sprung vielleicht wagen zu müssen, wurde durch die Art seiner Landung unten im Hofe bewiesen. Es handelte sich um einen sehr geräumigen, als Garten bepflanzten Hofraum, in dem es schräg unter dem Fenster einen sehr alten Fliederstrauch gab, dessen starke Zweige Burton gleichsam als Sprungtuch benutzt hatte.
+
+Als wir, unterstützt von Svendson und anderen Mietern des Hauses, den Hof absuchten, fanden wir den Hauptstamm des Fliederstrauches sowie eine Anzahl Zweige geknickt und im feuchten Rasen auch die Stelle, wo Burton mit den Fußspitzen tiefe Eindrücke hervorgerufen hatte. Diese Spur führte in der Richtung des Eingangs des Gartenhauses weiter. Aber obwohl die Polizei in kurzem den ganzen Block umstellt hatte und viele Wohnungen, sämtliche Böden und Dächer sorgfältig durchstöbert wurden, blieb Burton verschwunden.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (103) Der dritte Schuß.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
