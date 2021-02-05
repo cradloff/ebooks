@@ -1,21 +1,22 @@
 <@pagebreak 63/>
-Nachdruck verboten. Alle Rechte einfchliehtih Berfilmungs-
-recht vorbehalten. Copyright by Verlag moderner Lektüre
-G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin 26. — 1928.
 
-Wir weisen alle Freunde ber Harald Harkt-
-Abenteuer varauf hin, daß aus Anlaß ber
-Herausgabe ves 100ften Harfibandes
+<div style="font-size: small; text-align: center; white-space: pre-wrap;">Nachdruck verboten. – Alle Rechte vorbehalten. Copyright ${property.pubDate} by Verlag moderner Lektüre G.&nbsp;m.&nbsp;b.&nbsp;H. Berlin.</div>
 
-»Unfer 100fe8 Abenteuer"
+<@spacer 4/>
+Wir weisen alle Freunde der Harald Harst-Abenteuer
+darauf hin, daß aus Anlaß der
+Herausgabe des 100sten Harstbandes
 
-ein Noman mit Harst und Schraut als
+> »Unser 100stes Abenteuer«
+
+ein Roman mit Harst und Schraut als
 Hauptpersonen in unserem Verlage mit
 dem Titel
 
-Der Klub der Toten
+<div style="font-size: x-large; text-align: center;">Der Klub der Toten</div>
 
-erscheint,
+erscheint.
+<@spacer 4/>
 
-Brud: Bucdruderei V. Lehmann G.&nbsp;m.&nbsp;b.&nbsp;H.. Berlin.
+<div style="font-size: small; text-align: center; white-space: pre-wrap;">Druck: Buchdruckerei P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.</div>
 
