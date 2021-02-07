@@ -1326,7 +1326,7 @@ einmal als Filmschauspielerin eine kleine Rolle zunächst
 spielen. Sie hatte Erfolg, und Perl bestand nun darauf,
 daß Dolja auch die Rolle der Gefangenen erhielte. Infolgedessen
 war zwischen Silvia und den beiden Dortschakoffs
-ein ernstes Zerwürfnis entstanden. Von Silvias Intriegen
+ein ernstes Zerwürfnis entstanden. Von Silvias Intrigen
 hatte Dolja keine Ahnung gehabt. Erst als heute
 morgen Hektor Alken in dem verfallenen Hause in Tegel
 erschien und der Prinzessin angeblich im Auftrage Perls
