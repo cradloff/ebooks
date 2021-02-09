@@ -36,7 +36,7 @@ lassen und der schönen Barmaid in harmloser Weise den
 Hof gemacht.
 
 bis diese blonde, schlanke, üppige Zelestine Drepp
-plötzlich erklärte, sie habe von zehn Uhr ab vom »Chef»
+plötzlich erklärte, sie habe von zehn Uhr ab vom »Chef«
 Urlaub erhalten.
 
 Da hatte sie sich flüchtig von uns verabschiedet.
@@ -262,206 +262,205 @@ aufschlug...
 <h3>Das Auto im Fenster,</h3>
 
 »Ein ganz netter Anfang,« lachte Harst in der Ecke
-des Autos, das uns eine Mr später nun dem
+des Autos, das uns eine Viertelstunde später nach dem
 Vorort Friedenau brachte.
 
 Er rauchte behaglich Dazu.
 
-»Ein Anfang, der neu Wer Da uns über berichte
-seidenes aufzuklären,« sprach er sorglos )Schier — so sorglos,
-als ob wir soeben ein findliches. Abenteuer erlebt hätten.
+»Ein Anfang, der den Vorzug hat, uns über verschiedenes
+aufzuklären,« sprach er sorglos weiter — so sorglos,
+als ob wir soeben ein kindliches Abenteuer erlebt hätten.
 
 Und — waren doch nahe daran gewesen, wie gefangene
-Nutzten ersäuft zu werden...
+Ratten ersäuft zu werden...
 
-Vecrdankten unsere Rettung nur dem- Umstande, daß
-die Bretterbude mit Der Dachkante sich am Rade eines
-übel Konkurs verfangen hatte, der am Ufer vertäut gewesen.
+Verdankten unsere Rettung nur dem Umstande, daß
+die Bretterbude mit Der Dachkante sich am Rande eines
+großen Krahnes verfangen hatte, der am Ufer vertäut gewesen.
 
 So hatten wir der Mausefalle mit Hilfe der in der
-Bude gefundenen Werkzeuge enifihlüpfen können, Hatten den
-Laden des Fensters zerirymmeri und waren unbeschädigt
+Bude gefundenen Werkzeuge entschlüpfen können, Hatten den
+Laden des Fensters zertrümmert und waren unbeschädigt
 entschlüpft.
 
-Jetzt ging’s nach der Bismardcssiraße In ha
+Jetzt ging’s nach der Bismarckstraße In Friedenau —
 zu Direktor Dr. Gußfelder.
 
-Und Harst fügte dem letzten Gabe hinzu:
+Und Harst fügte dem letzten Satze hinzu:
 
-»Du warst gestern im Mem lltegarten, als der Briefträger
+»Du warst gestern im Gemüsegarten, als der Briefträger
 <@pagebreak/>
 den eingeschriebenen Brief brachte. Es war ein
-Brief, mit Maschine gekippt — Ne Unterschrift — wir
-hoher Selveinlage
+Brief, mit Maschine gekippt — ohne Unterschrift — mit
+hoher Geldeinlage...«
 
-»so — und heute im Krokodil fragtest Du die Kollegin
+»Ja — und heute im Krokodil fragtest Du die Kollegin
 Zelestinens, wer Zelestine jetzt zu erobern suche. Und
 diese Kollegin erklärte mit neidvollem Hohn: »Oh — ein
-sehr reicher und sehr seiner Herr ist! Ein Direktor!! Ja!
+sehr reicher und sehr feiner Herr ist’s! Ein Direktor!! Ja
 — ein Direktor Dr. Gußfelder!« — Jetzt aber soll dieser
-selbe aufreihen die blonde Zelestine vor uns geangelt hat
-eben!! Nein, lieber Harald, das ist doch etwas sehr wider
-anspruchsvoll! Sehr!!«
+selbe Gußfelder die blonde Zelestine vor uns gewarnt haben!!
+Nein, lieber Harald, das ist doch etwas sehr
+widerspruchsvoll! Sehr!!«
 
 »Nur scheinbar, Alterchen, — nur scheinbar!« Er blies
 den Zigarettenrauch stoßweise von sich. »Weit wichtiger —
-ja, weit wichtiger — ist’s, daß Gußsfelder..« Er unterbrach
+ja, weit wichtiger — ist’s, daß Gußfelder...« Er unterbrach
 sich. »Nein, ich will doch lieber damit warten, bis
 wir bei ihm sind. Es gibt da in der Bismarckstraße in Friedenau
-eine Keine Villa in einem mäßig großen Garten.
+eine kleine Villa in einem mäßig großen Garten.
 Dort wohnt Dieser Gußfelder, der erst vor sechs Monaten
 hier in Berlin aufgetaucht ist, angeblich aus Australien
-kommend, wo er als Digger, als Goldwäscher, in Derwisch
-Wagnis reich geworden sein soll
+kommend, wo er als Digger, als Goldwäscher, in Der Wildnis
+reich geworden sein soll...«
 
-Ich horchte aus. — Das wurde interessant.
+Ich horchte auf. — Das wurde interessant.
 
-»Du merkst, mein Alter,« fuhr Harald fort, »— dies
-Ufer Gußfelder ist eine start’ mysteriöse Persönlichkeit.« —
-Er fegte eine frische Zigarette in Brand.
+»Du merkst, mein Alter,« fuhr Harald fort, »— dieser
+Gußfelder ist eine stark mysteriöse Persönlichkeit.« —
+Er setzte eine frische Zigarette in Brand.
 
-»Wenn der Brief anonym war, wie bekamst Du Herr
-aus, daß Gußfelder der Absender war?« fragte ich gespannt,
-»Auf die einfachste Weise von der Welt!: ich erklärte
-Dir, ich müßte auf 208 Steueramt gehen, ging aber in die
-Ei -Bar und. ». sah Zuhielten mit Zelestine Drepp -
-Ferien.«
+»Wenn der Brief anonym war, wie bekamst Du Heraus,
+daß Gußfelder der Absender war?« fragte ich gespannt.
+»Auf die einfachste Weise von der Welt: ich erklärte
+Dir, ich müßte auf das Steueramt gehen, ging aber in die
+Krokodil-Bar und... sah Gußfelder mit Zelestine Drepp
+flirten.«
 
-»hm — das verstehe ich nicht »ganz ... Wie konntest
-Du lediglich aus diesem Flirt...
+»hm — das verstehe ich nicht ganz... Wie konntest
+Du lediglich aus diesem Flirt...«
 
-»Laß mich ausreden ... — xp belauschte die beiden
+»Laß mich ausreden... — Ich belauschte die beiden
 hinter meiner Zeitung hervor. Ich war nicht Harst, sondern
-ein schwarzbärtiger Balkanese ...«
+ein schwarzbärtiger Balkanese...«
 
 <@pagebreak/>
 »Ah — und all das hast Du mir verheimlicht!«
 
 »Ja — und so hörte ich, wie Gußfelder der Zelestine
 zuflüsterte, daß er sehr neugierig sei, was »der H.« auf den
-Brief mit der Millioneneinlage bin tun würde. Dem Schrei-’’
-eben lagen nämlich zwanzig Millionen bei.« (Das war bar
+Brief mit der Millioneneinlage hin tun würde. Dem Schreiben
+lagen nämlich zwanzig Millionen bei.« (Das war
 damals eine Menge Geld!)
 
-»Und dann,« munterte ich ihn zum Weitersprechen. auf.
+»Und dann,« munterte ich ihn zum Weitersprechen auf.
 
-»Dann — »geschah nichts mehr. Das Geschehene genügte
-ja auch. Gußfelder und Zelestine »duzen sich und
-waren sehr vertraut — aber nicht wie.
+»Dann — geschah nichts mehr. Das Geschehene genügte
+ja auch. Gußfelder und Zelestine duzen sich und
+waren sehr vertraut — aber nicht wie...«
 
-Er konnte den Sah nicht beenden. »Das Auto hielt
-mit scharfem Ruck, und im selben V’oment hörten wir draußen
-ein. Krachen und Splittern, lautes Angstgeschrei und
+Er konnte den Satz nicht beenden. »Das Auto hielt
+mit scharfem Ruck, und im selben Moment hörten wir draußen
+ein Krachen und Splittern, lautes Angstgeschrei und
 ein paar schußartige Detonationen.
 
 Wir Hatten nicht auf die Straßen geachtet, die der
-Kraftwagen passierte. Wir- wußten nicht, wo wir und des
-fanden. Der Regen und die eisige Lust hatten die Fensters.
-Scheiben mit grauem Hauch und Tropfengebilden übriger
-gen,
+Kraftwagen passierte. Wir wußten nicht, wo wir uns befanden.
+Der Regen und die eisige Luft hatten die Fensterscheiben
+mit grauem Hauch und Tropfengebilden überzogen.
 
 Harald drückte mich — seltsamerweise! — auf den
-Sir zurück, als ich ausstehen und die Tür öffnen wollte,
+Sitz zurück, als ich aufstehen und die Tür öffnen wollte,
 
 »Laß das!« meinte er dann, und in seiner Stimme
-war eine gewisse Unruhe, die auch mich nie ergriff, da er
+war eine gewisse Unruhe, die auch mich rasch ergriff, da er
 noch hinzufügte:
 
 »Ich denke, wir sind hier in der Nähe des Schöneberger
-Stadtparkes, — Warten wir ab. Es kann sich um er
-nen neuen Anschlag auf uns handeln, inszeniert von demselben
+Stadtparkes. — Warten wir ab. Es kann sich um einen
+neuen Anschlag auf uns handeln, inszeniert von demselben
 Abenteurer, der jetzt als Direktor der Herma-Werke
-an Berliner Anhaftete- und Dörfentreifen eine große Rolle
+in Berliner Industrie- und Börsenkreisen eine große Rolle
 spielt...«
 
 Auch jetzt schien er noch mehr sagen zu wollen, ward
-Jedoch durch den Chauffeur des Taxamecterautos abgelenkt,
-der die Tüte plötzlich aufriß und uns zurief:
+Jedoch durch den Chauffeur des Taxameterautos abgelenkt,
+der die Tür plötzlich aufriß und uns zurief:
 
-»Meine Herren, ein furchtbares Unglück ...! Ein
-Privatauto ist gerade vor uns infolge Befehls an der Steuerung
+»Meine Herren, ein furchtbares Unglück...! Ein
+Privatauto ist gerade vor uns infolge Defekts an der Steuerung
 <@pagebreak/>
 über die Bordschwelle gegen eine Hauswand gerast
 und halb in ein Schaufenster hineingefahren...«
 
 Jetzt war Harald im Nu draußen, wandte den Kopf
-zurück lud befahl mir in seiner oft scheinbar so herrischen
+zurück und befahl mir in seiner oft scheinbar so herrischen
 Art, im Auto zu bleiben. »Ich bin sofort wieder da,« vernahm
-ich noch seine läuten vom Sturm halb verwehten
-Worte Dann schlug er die Tür zu,
+ich noch seine letzten vom Sturm halb verwehten
+Worte. Dann schlug er die Tür zu,
 
 Ich sah noch, wie der Chauffeur ihm einen erstaunten
-Blick zu(;endeten hatte. Und — der Mann war wohl mißtrauisch
+Blick zugeworfen hatte. Und — der Mann war wohl mißtrauisch
 geworden, fürchtete, wir könnten zu jener Sorte
-Babraäfe gehören, die sich vor dem Bezahlen zu drücken
+Fahrgäste gehören, die sich vor dem Bezahlen zu drücken
 wissen. Er öffnete die Tür wieder. Die Straßenlaterne
-drüben trank einen schwachen Lichtschein aus mein Gesicht.
+drüben warf einen schwachen Lichtschein auf mein Gesicht.
 
 »Wo sind wir?« fragte ich.
 
-»Srnöbnuderftraße...« meinte der Mann und zog
-den boten in den hochgeklappten Kragen seines Bei
-Holzes ein.
+»Innsbruckerstraße...« meinte der Mann und zog
+den Kopf in den hochgeklappten Kragen seines Pelzes
+ein.
 
-Ich beugte mich noch mehr vor. Nachdenklich erkannte
-Ich das Finte, das Haus und eine Anzahl Neugieriger.:
+Ich beugte mich noch mehr vor. Undeutlich erkannte
+Ich das Auto, das Haus und eine Anzahl Neugieriger.
 
-Der Chauffeur ist tot,« sagte der Mann dumpfen Tones.
-»Und der Herr, der drinnen sah, bat sich an Der Bete
-fpfitterten Vorderfcheibe den Hals durchschnitten, Er hängt
-noch in den Splittern ... Ein scheußlicher Anblick...!«
+»Der Chauffeur ist tot,« sagte der Mann dumpfen Tones.
+»Und der Herr, der drinnen saß, hat sich an Der zersplitterten
+Vorderscheibe den Hals durchschnitten. Er hängt
+noch in den Splittern... Ein scheußlicher Anblick...!«
 
-an a einem Male stand Harald weicher neben unserem
+Mit einem Male stand Harald wieder neben unserem
 Chauffeur,
 
-»Meter — Friedenau!«. meinte er kurz und Alles. ein.
+»Weiter — Friedenau!« meinte er kurz und stieg ein.
 
-Er setzte litt neben mich. Das Auto rufe an.
+Er setzte sich neben mich. Das Auto ruckte an.
 
 Und ich wartete — wartete umsonst darauf, daß er
-sich Irgendwie über den Unfall äußern Mahl, Da
+sich irgendwie über den Unfall äußern würde. Schließlich
 erklärte ich etwas zögernd:
 
 »Der Fahrer soll tot sein...«
 
 »Störe mich nicht...!«
 
-Es war dunkel im Se Ich hörte aus diese so
+Es war dunkel im Wagen. Ich hörte aus diesen so
 zerstreut klingenden Worten heraus, daß irgend etwas
-Harsts rührigen Geist ganz gefangen hielt — Ein te
-das das mit diesem Unfall zusammenhing...
+Harsts rührigen Geist ganz gefangen hielt — irgend etwas
+das mit diesem Unfall zusammenhing...
 
 <@pagebreak/>
 Und dann — völlig unvermittelte:
 
-»Ein....Juwelierladen ist’s .. Das Drahtgitter ist
-losgesprengt worden ... Im Schaufenster Tag jedoch nur
+»Ein... Juwelierladen ist’s... Das Schutzgitter ist
+losgesprengt worden... Im Schaufenster lag jedoch nur
 billiger Tand. Das Wertvollste wird der Juwelier abends
-bei Geschäftsschluß weggeräumt haben.« ganz
+bei Geschäftsschluß weggeräumt haben.«
 
-Ich. horchte auf. — Juwelierladen ¿11 Das sah ja.
-ganz so aus, als ob dieser Unfall. An
+Ich horchte auf. — Juwelierladen...!! Das sah ja
+ganz so aus, als ob dieser Unfall...
 
 Abermals meinte Harald da: »Das war kein Unfall.
-»Das war: vielleicht: der Verehrte Saunerftreich... per: je versucht
-wurde, denn — er ist geglückt. Der: Tresor im Hin
+»Das war vielleicht der frechste Gaunerstreich, der je versucht
+wurde, denn — er ist geglückt. Der Tresor im
 Hintergrunde des Ladens ist aufgesprengt worden. Die Tür
-stand weit offen. Es ist ein älteres Panzerspind. Ich war«
-im Laden, Ein Schupobeamter hatte sich ebenfalls schon!
-eingefunden. Sich flüsterte ihm zu, wer ich sei, und daß er
-den Kriminalkommissar zu uns schicken solle, der den all
+stand weit offen. Es ist ein älteres Panzerspind. Ich war
+im Laden. Ein Schupobeamter hatte sich ebenfalls schon
+eingefunden. Ich flüsterte ihm zu, wer ich sei, und daß er
+den Kriminalkommissar zu uns schicken solle, der den Fall
 untersuchen würde. Uebrigens, — das Auto ist ein sehr
-eleganter Wagen, und der Tote im Innern, der sich mich
-dem Halte auf den Glasspiben aufgespießt hat, ist der Eigen-imer,
-ist kein anderer alt....« Nu tf
+eleganter Wagen, und der Tote im Innern, der sich mit
+dem Halse auf den Glasspitzen aufgespießt hat, ist der Eigentümer,
+ist kein anderer als...«
 
-«6s Sie Puls ©.« e N (E
+... Eine Pause...
 
-»Direktor Doktor Gußfelder Se
+»Direktor Doktor Gußfelder?«
 
-Nein, mein Alter. Der nicht! Aber sein Kollege ist,
-ein Vorgesetzter sozusagen: der Generaldire?Tor der Herma-:
-Werke Donner Manuel Malesto
+»Nein, mein Alter. Der nicht! Aber sein Kollege ist’s,
+sein Vorgesetzter sozusagen: der Generaldirektor der Herma-Werke
+Doktor Manuel Malesto...!«
 
 »Malesto?!«
 
@@ -470,89 +469,90 @@ man ihn nennt.«
 
 Da hielt unser Wagen schon...
 
-Hielt gegenüber der Villa an der anderen Straßen
-fette, weil vor der Villa einige zwanzig -Privatautos aufs!
-in er
+Hielt gegenüber der Villa an der anderen Straßenseite,
+weil vor der Villa einige zwanzig Privatautos aufgereiht
+standen.
 
-»Die Ernster des, zierlichen Gebäudes erstrahlten kamt
-ich In hesllslem Lichte...
+Die Fenster des zierlichen Gebäudes erstrahlten sämtlich
+In hellstem Lichte...
 
-»Ah — Gesellschaft bei Gußfelder!« - meinte Harald
-Mmttänfcht, als er neben mir der Gartenpforte zuschritt.
+»Ah — Gesellschaft bei Gußfelder!« meinte Harald
+enttäuscht, als er neben mir der Gartenpforte zuschritt.
 <@pagebreak/>
 »Das ist merkwürdig — sehr merkwürdig!« Er sprach
 immer langsamer und ging trotzdem immer schneller.
 
 An der Pforte trafen wir einen Lohndiener, der gerade
-ein Ehepaar, mit einem Miefenfchirm bewaffnet, bis an
-schien Kraftwagen geleitet hatte.
+ein Ehepaar, mit einem Riesenschirm bewaffnet, bis an
+ihren Kraftwagen geleitet hatte.
 
-Von ihm hörten wir, daß der Fern Direktor Doktor
-Gukßselder heute abend zu Eßbren der amerikanischen Ade
-Ordnung von Jundustriceäen ein Souper echte und daher
-das Haus seit acht Uhr nicht verlassen habe. è
+Von ihm hörten wir, daß der Herr Direktor Doktor
+Gußfelder heute abend zu Ehren der amerikanischen
+Abordnung von Industriellen ein Souper gegeben und daher
+das Haus seit acht Uhr nicht verlassen habe.
 
 Wir kehrten um.
 
-»Chauffeur — Blicherstraße zwei!« befahl Harald.
+»Chauffeur — Blücherstraße zwei!« befahl Harald.
 
-er fuhren wir beim, stiegen vor Nummer in aus,
-zahlten und gingen Ei? Nummer zehn zu Fuß...
+So fuhren wir heim, stiegen vor Nummer zwei aus,
+zahlten und gingen bis Nummer zehn zu Fuß...
 
-Denn Blücherstraße zehn, Schmargendor| — —, der
-Leser w2iß, wer dort wohnt im alten Neu Familienhause:
-Harald Harst!
+Denn Blücherstraße zehn, Schmargendorf — —, der
+Leser weiß, wer dort wohnt im alten behaglichen
+Familienhause: Harald Harst!
 
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Daß Paket und der Anhalt.</h3>
+<h3>Das Paket und der Inhalt.</h3>
 
-41 4 Tun Nummer zehn schritt ein Junger Mensch auf
+Vor Nummer zehn schritt ein Junger Mensch auf
+und ab...
 
-Ein bescheiden gekleideter Jüngling — Mit einem. hab
-aufgewweichten großen Paket in der Hand.
+Ein bescheiden gekleideter Jüngling — Mit einem halb
+aufgeweichten großen Paket in der Hand.
 
-Und — das Parkes, um diese gleich zu sagen, war Bad
-Felde, das Zelestine Drepp aus dem Hause Französische
-StraßeAr. 218 geholt hatte, —
+Und — das Paket, um dies gleich zu sagen, war dasselbe,
+das Zelestine Drepp aus dem Hause Französische
+Straße Nr. 218 geholt hatte, —
 
-»Als wir die Vorgartentür öffneten, kam der junge
-Mensch rasch aus uns zu.
+Als wir die Vorgartentür öffneten, kam der junge
+Mensch rasch auf uns zu.
 
-Herr Hart Vielleicht?« fragte er bescheiden.
+»Herr Harst vielleicht?« fragte er bescheiden.
 
 »Ja — Harald Harst. — Bitte, treten Sie näher.
-»Sie haben uns erwartet, haben wahrscheinlich meine Köchin
-herausgeklingelt und von ihr den reichern erhalten, daß
-ir nicht daheim seien.« —
+Sie haben uns erwartet, haben wahrscheinlich meine Köchin
+herausgeklingelt und von ihr den Bescheid erhalten, daß
+wir nicht daheim seien.« —
 
-Haralds Arbeitszimmer empfing und mit Wärme und
-strahlender Helle. -
+Haralds Arbeitszimmer empfing uns mit Wärme und
+strahlender Helle.
 
-»Ich heiße Hart Hock,« sagte der blasse, nasse Jüngling
-verlegen, nachdem er sein. Paket vorsichtig aus den Fuße
-Boden gestellt hatte. »Student der Rechte Hart Hock,« fügte
-etwas selbsibewußler hinzu.
+»Ich heiße Karl Hock,« sagte der blasse, nasse Jüngling
+verlegen, nachdem er sein Paket vorsichtig auf den Fußboden
+gestellt hatte. »Student der Rechte Karl Hock,« fügte
+er etwas selbstbewußter hinzu.
 
 »Bitte — nehmen Sie Platz, Herr Studiosus,« meinte
 <@pagebreak/>
-Harald mit jener gewinnenden Riebendwärbigfeit, der wie
-jemand twiderftchen kann — selbst der größte Grcobian nicht.
-emsig Kamerad Schraut wird die Teemaschine versorgen,
-ins ich werde etwas Eßbares herbeischaffen,« fuhr Haft
-fort und. stand schon vor dem Aufs, »Zunächst
-stärken Sie sich mal durch’ einen Kognak. — so, —
-wohl befouu’s
+Harald mit jener gewinnenden Liebenswürdigkeit, der niemand
+widerstehen kann — selbst der größte Grobian nicht.
+»Mein Kamerad Schraut wird die Teemaschine versorgen,
+und ich werde etwas Eßbares herbeischaffen,« fuhr Harst
+fort und stand schon vor dem Likörschränkchen. »Zunächst
+stärken Sie sich mal durch einen Kognak... — So, —
+wohl bekomm’s...«
 
-Hart Hock Rum Er schien zu jener bedauern
-werten Gattung neuzeitliher Studenten zu gehören, die
+Karl Hock strahlte. Er schien zu jener bedauernswerten
+Gattung neuzeitlicher Studenten zu gehören, die
 sich die Mittel zum Studium selbst verdienen müssen.
 
-Noch nie habe ich einen jungen Menschen dar nu!
+Noch nie habe ich einen jungen Menschen dann mit
 solchem Heißhunger den kalten Speisen zusprechen sehen, die
-Harald übexrreichlih aus der Küche geholt hatte, wie unseren
-Freund Hart Hock, — Ich sage Freund; denn das wurde
+Harald überreichlich aus der Küche geholt hatte, wie unseren
+Freund Karl Hock. — Ich sage Freund: denn das wurde
 er uns tatsächlich.
 
 Harst ließ ihn zuerst ruhig zulangen fragte nichts über
@@ -561,196 +561,196 @@ das Paket, aus dem zuweilen leise Geräusche hörbar wurden.
 Plötzlich meinte er dann: »Ist der Hund etwa naß geworden?
 Ich glaube, das Tierchen zitiert.«
 
-»So blickte überrascht auf, »Sie wissen also, daß ein
-Hund in dem Karton ...«
+Hock blickte überrascht auf. »Sie wissen also, daß ein
+Hund in dem Karton...«
 
 »Ja,« unterbrach Harald ihn. »Es muß ein Hündchen
-sein. ‘ Als ich vorhin das Teebrett mit den Speisen brate,
-»umspielte das Tier ganz leise, wahrscheinlich, weil Es die
-falte Bratkarbonade knisterte. — Na, nun erzählen Sie mal,
-Herr Hock, Sie waren also gerade am Südbollwerk des
+sein. Als ich vorhin das Teebrett mit den Speisen brachte,
+winselte das Tier ganz leise, wahrscheinlich, weil Es die
+kalte Bratkarbonade witterte. — Na, nun erzählen Sie mal,
+Herr Hock. Sie waren also gerade am Südbollwerk des
 Urbanhafens, als die Dame das Paket ins Wasser schleuderte,
-und da Sie sich dann der Dame näherten ...«
+und da Sie sich dann der Dame näherten...«
 
-»... verscheuchte sie mich durch zwei Schüsse!« tief der
-junge einerlei in jäher Erregung.; Ÿ
+»... verscheuchte sie mich durch zwei Schüsse!« rief der
+junge Mensch in jäher Erregung.
 
 »Sie haben die Frau wohl festhalten wollen?«
 
-So ob ich kenne sie nämlich — — von
-Ansehen.« Er wurde verlegen. »Es war eine ... eine
-Bardame namens Zelestine Drepp. À
+»Ja... Ich... ich kenne sie nämlich — — von
+Ansehen.« Er wurde verlegen. »Es war eine... eine
+Bardame namens Zelestine Drepp.«
 
-»Es... soll — Hm. — Sollten Sie der Du y viel
-Leicht genau wie wir gefolgt sein, Herr Hold«
+»So... so! — Hm — Sollten Sie der Drepp vielleicht
+genau wie wir gefolgt sein, Herr Hock?«
 
 <@pagebreak/>
 »Ja...«
 
-bellt Se wohl so:,ein mein
+»Sie... verehren sie wohl so ein wenig...«
 
-Det schüttelte den Kopf. »Nein! Feinste Das
-entlang fast feindselig. »Ich... ich hasse dieses Weib!«
+Hock schüttelte den Kopf. »Nein! Nein!!« Das
+klang fast feindselig. »Ich... ich hasse dieses Weib!«
 
-»Ah’ — hassen! Und weshalb?«
+»Ah — hassen! Und weshalb?«
 
-»Welt mein Freund Tomsör, ein Schwede, ich ihre!
-»gegen erschossen hat.«
+»Weil mein Freund Tomsör, ein Schwede, sich ihretwegen
+erschossen hat.«
 
 Harald lehnte sich ganz weit in den Klubsessel zurück
-»und schaute den Studenten versonnen zu, murmelte Se!
-»zZonför — Tomsör. «.! Ah, jetzt erinnere Ich mich
-Wohnte er nicht. in der Französischen Straße? Der Selbsl-anord
-liegt erst eine Woche zurück, — Sollte das Hündchen
-dort in dem Karton
+und schaute den Studenten versonnen an, murmelte darauf:
+»Tomsör — Tomsör...! Ah, jetzt erinnere Ich mich.
+Wohnte er nicht in der Französischen Straße? Der Selbstmord
+liegt erst eine Woche zurück. — Sollte das Hündchen
+dort in dem Karton...«
 
-Er war rasch Tor »Ueber unserem Gespräch.
+Er war rasch aufgesprungen. »Ueber unserem Gespräch
 vergessen wir das arme Tier,« fügte er hinzu. »Ich werde
-es herauslassen. Es ist’also nicht naß geworden?«
+es herauslassen. Es ist also nicht naß geworden?«
 
-»Nur wenig, Herr, Harst.,39 habe es in weinen Schal
-eingehüllt. Na,
+»Nur wenig, Herr, Harst. Ich habe es in meinen Schal
+eingehüllt.«
 
-Donau kam aus dem aufgepeidten Pappkarton ein aller-Liebster
-kleiner Rehpintischer mit großen, runden, klugen
+Dann kam aus dem aufgeweichten Pappkarton ein allerliebster
+kleiner Rehpintscher mit großen, runden, klugen
 Aeuglein zum Vorschein, schüttelte rasch die wärmende
-er: ab und war mit einem Sah auf Hart Hochs
+Schalbandage ab und war mit einem Satz auf Karl Hocks
 Schoß.
 
-Hob lachte fröhlich. - Mucki liebt mich!- »Er gab ihm
-Elften Karbonadeukuochen, mit dem Mucki denn auch sofort
-unter dem Sofa verschwand. - -
+Hock lachte fröhlich. »Mucki liebt mich!« Er gab ihm
+einen Karbonadenknochen, mit dem Mucki denn auch sofort
+unter dem Sofa verschwand.
 
-»Also war Mucki Ihres Freundes Tomsör Eigentum?
-Fragte Harald, wieder Platz nehmend.
+»Also war Mucki Ihres Freundes Tomsör Eigentum?«
+fragte Harald, wieder Platz nehmend.
 
-æSo ist’s, Herr Harst. —Ich habe Matt geerbt, muß ihn
-aber vorläufig bei Sigurd Tomsörs Wirtin lassen, da An
-arm bin, die Steuer zu tragen. »Ein Direktor Gußfelder
-möchte ihn gern kaufen,: doch — das gibt es nicht.«
+»So ist’s, Herr Harst. Ich habe Mucki geerbt, muß ihn
+aber vorläufig bei Sigurd Tomsörs Wirtin lassen, da ich
+zu arm bin, die Steuer zu tragen. Ein Direktor Gußfelder
+möchte ihn gern kaufen, doch — das gibt es nicht.«
 
-Harald hielt unserem Gast Er die Zigarrenkiste bin,
+Harald hielt unserem Gast jetzt die Zigarrenkiste hin.
 »Da — bedienen Sie sich. — So, — und was geschah,
-Dachten Zelestine Ahnen am Urbanhafen entwischt war ?»
+nachdem Zelestine Ihnen am Urbanhafen entwischt war?«
 
-39 Bettelte in das Beiboot eines Obsftkahns und Kobra
+»Ich kletterte in das Beiboot eines Obstkahns und holte
 <@pagebreak/>
-Bad Paket glücklich Heraus, Herr Harst. Dann eilte ich nachher
-Französischen Straße zu Frau Plump. Sie sagte mir,
+das Paket glücklich Heraus, Herr Harst. Dann eilte ich nach
+der Französischen Straße zu Frau Winnig. Sie sagte mir,
 daß Zelestine, die ja Tomsör häufiger besucht hat — in allen
-Ehren, von ihr in meinem Auftrag Mucki lich habe As
-bändigen Laffen ...«
+Ehren, von ihr in meinem Auftrag Mucki sich habe aushändigen
+lassen...«
 
-Harald blickte den Studenten wichen starr an.
+Harald blickte den Studenten wieder starr an.
 
-»Einen Augenblick, Herr Hock ... Ab Mk das Se
-hörte »erst geistig verarbeiten
+»Einen Augenblick, Herr Hock... Ich muß das Gehörte
+erst geistig verarbeiten...«
 
 Und er schloß die Augen und rauchte so seine Mirakulum
 zu Ende.
 
-Meinte darauf, sich vorbeugend und Hob wieder seltsam
-durchdringend und doch wie geistesabwesend Rasselnd:
+Meinte darauf, sich vorbeugend und Hock wieder seltsam
+durchdringend und doch wie geistesabwesend musternd:
 
 »War Tomsör reich?«
 
-»Sehr reich, Herr Harst ... Aber er durfte mir nie
-Geld Leihen, nie! Dazu bin ich zu stolz. Ich arbeite bis
-fünf nachmitiagd auf der GermaniaBaut in der Braun
-französischen Straße, und dann besuche ich bis sieben Uhr noch
-zwei Kollegs ... — Gangtür hatte mich zum Erben dessen
-Drohtest, was sein...«
+»Sehr reich, Herr Harst... Aber er durfte mir nie
+Geld leihen, nie! Dazu bin ich zu stolz. Ich arbeite bis
+fünf nachmittags auf der Germania-Bank in der
+Französischen Straße, und dann besuche ich bis sieben Uhr noch
+zwei Kollegs... — Tomsör hatte mich zum Erben dessen
+eingesetzt, was sein...«
 
-»Halt — er hatte ein Testament, gemacht? Weshalb
-zu so Jungen Beachten pflegt man an derlei nicht zu
-denken.
+»Halt — er hatte ein Testament gemacht? Weshalb
+das? In so jungen Jahren pflegt man an derlei nicht zu
+denken.«
 
-»Oh. — Sigurd ahnte seinen Tod voraus.« Hof
+»Oh — Sigurd ahnte seinen Tod voraus.« Hocks
 Stimme klang weich und schmerzerfüllt. Dieser Studiosus,
-dieser Lebenstämpfer von kaum zwanzig Jahren, war infolge
-Not und Eutbehrungeu allen seelischen Stimmungen
+dieser Lebenskämpfer von kaum zwanzig Jahren, war infolge
+Not und Entbehrungen allen seelischen Stimmungen
 nur zu leicht unterworfen. »Alle Schweden sind so eigentümlich
-abergläubisch und ... hellseheud, Herr Harst. Als
-Sigurd festgestellt hatte, daß Zelestine ihn ... betrog, da
-sagte er zu mir, und das war zwei Tage: vor seinem Boden
-»ich werde bald sterben, Freund Hart. Sehr bald sogar;
-du sollst das erben, was mein perfönliches Eigentum ist.
+abergläubisch und... hellsehend, Herr Harst. Als
+Sigurd festgestellt hatte, daß Zelestine ihn... betrog, da
+sagte er zu mir, und das war zwei Tage vor seinem Tode:
+»Ich werde bald sterben, Freund Karl. Sehr bald sogar;
+du sollst das erben, was mein persönliches Eigentum ist.
 Ich habe alles bereits schriftlich niedergelegt, und meine
-Eltern werden meine Leuten Wünsche erfüllen.« — Näher
-ließ er sich über diese Todesahnungen nicht aus. Er bat
+Eltern werden meine letzten Wünsche erfüllen.« — Näher
+ließ er sich über diese Todesahnungen nicht aus. Er hat
 <@pagebreak/>
-sich dann nachts erschossen, wie Sie ans den Zeitungen
-kniffen dürften, Herr Harst.«
+sich dann nachts erschossen, wie Sie aus den Zeitungen
+wissen dürften, Herr Harst.«
 
 Harald langte nach einer neuen Mirakulum.
 
-»Ja — ich besinne mich. - Ein Verbrechen Ast öde
-geschlossen. Es war Selbstmord. Aber — wo ist Benn,
+»Ja — ich besinne mich. Ein Verbrechen ist ausgeschlossen.
+Es war Selbstmord. Aber — wo ist denn
 Tomsörs Testament geblieben?«
 
-Verschwunden.«. Nr.; £
+»Verschwunden.«
 
-Hm — besaß er Wertsachen?« .. - By
+»Hm — besaß er Wertsachen?«
 
-»Und ob!!« *Der* Ausruf war so recht Iingtingd-Haft.
+»Und ob!!« *Der* Ausruf war so recht jünglingshaft.
 »Er liebte Edelsteine und...«
 
 »Sind die auch verschwunden?«
 
 »Nein, nein. Sigurds Eltern haben seine Ringe und
-alles »andere mit. nach: Stockholm genommen — genau wie
-die Leiche ihres Sohnes. Wir schenkten sie Mucki und
+alles andere mit nach: Stockholm genommen — genau wie
+die Leiche ihres Sohnes. Mir schenkten sie Mucki und...
 Geld. Aber das Geld wies ich zurück. Sigurds Eltern
 schienen von unserer Freundschaft nicht viel zu halten. Ich
 fürchte fast, daß sie annehmen, ich hätte Sigurd zu einem
-lockeren Lebenswandel vergiftet — gerade ich!!« — Wie
+lockeren Lebenswandel verführt — gerade ich!!« — Wie
 bitter der arme Kerl das hervorstieß!
 
 »Hatte Tomsör denn sehr wertvollen Schmuck?«
 
 »Er... handelte mit Edelsteinen, so unter der Hand,
-Herr »Harst. sein Vater ist Juwelier.«
+Herr Harst. Sein Vater ist Juwelier.«
 
-»Ah!! Juwelier!« Harald blickte mich vielsagend ry
-Und sofort — ein langer Gedankensprung — dachte ich
-das Auto des toten, aus gespießten Generaldirektors Manuel
+»Ah!! Juwelier!« Harald blickte mich vielsagend an.
+Und sofort — ein langer Gedankensprung — dachte ich an
+das Auto des toten, aufgespießten Generaldirektors Manuel
 Malesto, an das Schaufenster des Juwelierladens in der
-»Jninsêbrucker Straße und an den offenen Tresor. :.
+Innsbrucker Straße und an den offenen Tresor...
 
 Und ich dachte weiter, daß eine Ueberfülle von Ereignissen
-wie zusammenhanglose Kinobilder sich Im Verlauf.
-weniger Stunden sich vor uns abgerollt hatten —. Kinobilder,
+wie zusammenhanglose Kinobilder sich Im Verlauf
+weniger Stunden sich vor uns abgerollt hatten — Kinobilder,
 Kinoszenen, denen die verbindenden Stücke fehlten,
 die keinen Sinn hatten...
 
 Oder — hatten sie doch einen Sinn?! Schien es nur
 so, als ob jeder Zusammenhang ausgeschaltet war?!
 
-Da hörte ich Harald aus der Tiefe des Man
-wie zu sich selber Maurer
+Da hörte ich Harald aus der Tiefe des Sessels heraus
+wie zu sich selber flüstern:
 
 <@pagebreak/>
 Das Paket — — das Paket im Urbanhafen ...! Es
 ist fraglos der Schlüssel — — zum Ganzen!«
 
-Ich wandte umwvillkürlih den Kopf
+Ich wandte unwillkürlich den Kopf...
 
-Sah Mucki unter dem Sofa hervorkommen — mit eingelassenen
-Stummelschwänzchen — langsam, wcehleidig
+Sah Mucki unter dem Sofa hervorkommen — mit eingekniffenem
+Stummelschwänzchen — langsam, wehleidig...
 
-Und mitten im Zimmer krümmte sich die kleine Knabengestalt
-zusammen
+Und mitten im Zimmer krümmte sich die kleine Hundegestalt
+zusammen...
 
-Würgte.. stöhnte und erbrach sich
+Würgte.. stöhnte... und erbrach sich...
 
-Brach Knochensplitter aus, anderes noch
+Brach Knochensplitter aus, anderes noch...
 
-Und in dem unappetitfichen Gemenge ließ das Licht
-des einen Kronleuchter? etwas aufblicken. Zu
+Und in dem unappetitlichen Gemenge ließ das Licht
+des einen Kronleuchters etwas aufblitzen...
 
-inne ich a Er
+Etwas...
 
-Und — — Bad war... ein Edelstein, ein Brillant
+Und — — das war... ein Edelstein, ein Brillant...
 
 <@pagebreak/>
 
@@ -948,7 +948,7 @@ die rechte Hand hob:
 Peinvoll, die, Braut Direktor« Gußfelders, sein,« meinte
 Harald, indem er kurz die weiche warme Sportumüße lüftete.
 
-Boulogne Sturuistöße umbrauften uns. Dicht wie
+Boulogne Sturuistöße umbrausten uns. Dicht wie
 Schneemassen, die von. einem steilen Dache herabstieben,
 hüllten uns die eisigen Flocken ein.«
 
@@ -1497,7 +1497,7 @@ irgend etwas abgelenkt würden. -
 
 Schließlich erklärte Vogler, die Polizei würde sich jetzt,
 nachdeut in den Resten des Blockhauses tatsächlich die durch
-Feuer verlegenen Teile von. drei Schleisbänkeu für Eigenarten
+Feuer verlegenen Teile von. drei Schleifbänken für Eigenarten
 ’ gefunden worden: seien, zu. einem entscheidenden
 Bunt aufschwingen. und. Zuhielten. und Zelestine Drecpp
 verhaften.
@@ -1773,7 +1773,7 @@ eingeschlagene Nägel — hier — dort — ganz bequem.
 Eine hohle Eiche war’s, uralt. —
 
 In einer nahen Schonung, die mit einer Ecke bis an
-das Waldgrundstück - heranreichle, stand dieser Baum —
+das Waldgrundstück - heranreichte, stand dieser Baum —
 spaßig, spring, und doch ein Helfershelfer von Gaunern, die
 entlud des Stammes als Klapptür Fortstieß
 Gatten.
@@ -2395,7 +2395,7 @@ früher einen Na konsultiert? Ast es derselbe Arzt?«
 
 »Nein, Es ist ein Doktor Ladung, Sanitätsrat sehr
 Reling, Vor da Wochen Halle der Herr Direktor Doktor
-Prager boten lassen, als er die Milttelohrentzündung der
+Prager boten lassen, als er die Mittelohrentzündung der
 
 »Danke. — Wann teilte Ihr Herr Ihnen nicht, daß er
 fragt sei?«
