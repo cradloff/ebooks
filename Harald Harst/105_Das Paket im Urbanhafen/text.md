@@ -756,299 +756,300 @@ Und — — das war... ein Edelstein, ein Brillant...
 
 <h2>4. Kapitel.</h2>
 
-<h3>Hafer der Laterne.</h3>
+<h3>Unter der Laterne.</h3>
 
 Die Stille, die jetzt in Haralds Arbeitszimmer herrschte,
-verdiente mit recht die Bezeichnung »beredtes Schweigen«,
+verdiente mit recht die Bezeichnung »beredtes Schweigen«.
 
 Es war ein Schweigen, in dem man die Gedanken
 der Anwesenden wie Geisterschwingen durch den Raum
 wehen spürte. Es war dazu etwas wie hochgradige elektrische
-Spannung in der Luft — noch nerbenerregender infolge der
-ie des Unwwctters, die von Mrs, mannigiad) Zerstörungen.
+Spannung in der Luft — noch nervenerregender infolge der
+Geräusche des Unwetters, die von draußen mannigfach
+hereindrangen.
 
 Wir drei starrten nach der Stelle hin, wo der Brillant
-ne Farbenpseile aussah nach oben schickte ...
+seine Farbenpfeile zuckend nach oben schickte...
 
-»Wir beachteten den kleinen Mucki nicht weiter, der. es
-þ in der Hämmerte auf dem Bätenfellbequem. gemacht
+Wir beachteten den kleinen Mucki nicht weiter, der es
+sich in der Kaminecke auf dem Bärenfell bequem gemacht
+hatte.
 
-bis dann der junge Student leise und zögernd sagte;
+bis dann der junge Student leise und zögernd sagte:
 
 »Das — das ist doch sehr merkwürdig, Herr Harst!«
 
 Er sagte es so, als ob er Harald aufmuntern wollte,
-irgendwie zu Nattern.
+sich irgendwie zu äußern.
 
 Der hatte jedoch die Augen mit der Linken bedeckt und
-hielt die andere Hand, die lässig auf der Sessellehne
-nahte, einen Halbkreis beschreiben, führte die Zigarette so
+ließ die andere Hand, die lässig auf der Sessellehne
+ruhte, einen Halbkreis beschreiben, führte die Zigarette so
 <@pagebreak/>
-zum Munde und blies den Paar in ein paar tadellosen
-gingen gegen die Decke,
+zum Munde und blies den Rauch in ein paar tadellosen
+Ringen gegen die Decke,
 
 »Es war doch ein Mord,« sagte er dann mit halber
 Stimme.
 
 Der Student, müde durch den Alkohol und den überreichen
-Speijennenuß, fuhr aus seiner bequemen Haltung
+Speisengenuß, fuhr aus seiner bequemen Haltung
 hoch.
 
 »Ein Mord?!« rief er. »Unmöglich!! Die Kriminalpolizei
-hat ja den Tatbestand ...«
+hat ja den Tatbestand...«
 
 »Die Polizei konnte die Wahrheit nicht ahnen, Herr
-Her,« fiel Harald ihm ins Wort. »Hat Zelestine Drepp
+Hock,« fiel Harald ihm ins Wort. »Hat Zelestine Drepp
 jemals mit Sigurd Tomsör hypnotische Experimente angestellt?«
 
 »Nie — nie! Bestimmt nicht!«
 
-»Sie ist eben vorsichtig ...!« — Und er begann Hock
+»Sie ist eben vorsichtig...!« — Und er begann Hock
 nun auszufragen — nach allerlei — nach scheinbar ganz
 Nebensächlichem.
 
 Bis diese Art Verhör sich wieder den Ereignissen
 dieser Nacht zuwandte und Harald meinte: »Weshalb haben
-Er ri heute vor Der Bar erwartet? Weshalb hassen
+sie Zelestine heute vor Der Bar erwartet? Weshalb hassen
 Sie sie?«
 
-Der Studiosus ballte die Fäuste. »Oh — sie hat«
-Sigurd in den Tod getrieben! Er kam darüber nicht Zins
-weg, daß sie den Direktor Gußfelder ihm vorgezogen hatte.«
+Der Studiosus ballte die Fäuste. »Oh — sie hat
+Sigurd in den Tod getrieben! Er kam darüber nicht hinweg,
+daß sie den Direktor Gußfelder ihm vorgezogen hatte.
 Ich wollte Zelestine das Verwerfliche ihres Treibens einmal
 offen ins Gesicht schleudern, wollte sie und diesen Gußfelder
-in dem Liebesnest draußen am Bahnhoj’ Grunewald übers«
-raschen.«
+in dem Liebesnest draußen am Bahnhof Grunewald überraschen.«
 
 Harald beugte sich vor.
 
 »Liebesnest? Hat Gußsfelder dort ein Absteigequartier?«
 
-»Ja, Herr Sanft. Und zwar ein recht romantisches.
+»Ja, Herr Harst. Und zwar ein recht romantisches.
 Es gibt dort am Bahnhof Grunewald mitten im Kiefernforst
-ein Blockhaus, das einst das Klubhaus eines Sport«
-Vereins war. Das Häuschen hat Gußfelder gekauft und -
+ein Blockhaus, das einst das Klubhaus eines Sportvereins
+war. Das Häuschen hat Gußfelder gekauft und
 möbliert.«
 
 <@pagebreak/>
-Harst erhob sich plötzliches, »Herr Her, Sie können hier
-dem Diwan schlafen,« sagte er kurz. »Schraut und ich
-Pupillen noch ein wenig ins Freie.««
+Harst erhob sich plötzlich. »Herr Hock, Sie können hier
+auf dem Diwan schlafen,« sagte er kurz. »Schraut und ich
+wollen noch ein wenig ins Freie.«
 
 Er winkte mir zu, »Vorwärts, mein Alter, ziehen wir
-die Ledermänutiel an. Unsere Maske läßt sich rasch einmal verändern.
-Und dann verlassen wir durch den Gemüsegarteg
-das Haus,« Pfg
+die Ledermäntel an. Unsere Maske läßt sich rasch etwas verändern.
+Und dann verlassen wir durch den Gemüsegarten
+das Haus,«
 
-war derweil zum Kamin gegangen, hatte die
+Er war derweil zum Kamin gegangen, hatte die
 Kohlenschaufel genommen und die Beweise für Muckis
-Magen mit dem Feuerhaken auf die Schaufel geschoben,
-trug sie nun in die Küche und ließ im Ausgab
-Buch den Wallcrfitahf der Leitung vier große Edelsteine
-»Sauber herausêswaschen, irocuete u ab und zeigte sie Tod...
+schwachen Magen mit dem Feuerhaken auf die Schaufel geschoben,
+trug sie nun in die Küche und ließ im Ausguß
+durch den Wasserstrahl der Leitung vier große Edelsteine
+sauber herauswaschen, trocknete sie ab und zeigte sie Hock...
 
-eigenen Sie Diese Steines«
+»Kennen Sie Diese Steine?«
 
-»Rein » + .— Ich glaube nicht, daß sie Sigurd gehört
-Gaben.
+»Nein... — Ich glaube nicht, daß sie Sigurd gehört
+haben.«
 
-»So, Es... — Dann — gute Nacht und aus Wiedergeben.
+»So, so... — Dann — gute Nacht und auf Wiedersehen.
 Sollten wir bis sieben Uhr früh nicht zurück sein,
-rufen Sie die Kriminalpolizei touumissar Weiß Bechert,
-zu und bitten Sie Diesen, er möge doch sofort das Blocke
-Haus durchsuchen lassen. — Nochmals — gute Nacht!« —
+so rufen Sie die Kriminalpolizei, Kommissar Fritz Bechert,
+an und bitten Sie Diesen, er möge doch sofort das Blockhaus
+durchsuchen lassen. — Nochmals — gute Nacht!« —
 
-Nassen Schnee wehte uns Irrgarten Wollen ins Gesicht,
-wir in den Hof hinaustraten. Es war füllen ge
-Orden. Der Schnee war im Gemüsegarten stellenweise zu
-Gen Schanzen zusammen geweht. Dabei war es so dunkel,
-$ Harald seine Taschenlampe einschaltete, da wir sonst
-Gartenpforte nicht gefunden hätten, -
+Nasser Schnee wehte uns in ganzen Wolken ins Gesicht,
+als wir in den Hof hinaustraten. Es war füllen kälter
+geworden. Der Schnee war im Gemüsegarten stellenweise zu
+spitzen Schanzen zusammen geweht. Dabei war es so dunkel,
+daß Harald seine Taschenlampe einschaltete, da wir sonst
+die Gartenpforte nicht gefunden hätten.
 
 Und gerade dieser Umstand, daß der grelle Lichtkegel
-Deren Weg beleuchtete, ließ uns auf die noch ganz frische
-schrie jemandes aufmerksam werden, der erst vor kurzem
-er den Zaun hier in den Garten eingedrungen war und
-vielleicht erst bei unserem Nahen verlassen hatte.
+unseren Weg beleuchtete, ließ uns auf die noch ganz frische
+Fährte jemandes aufmerksam werden, der erst vor kurzem
+über den Zaun hier in den Garten eingedrungen war und
+ihn vielleicht erst bei unserem Nahen verlassen hatte.
 
 Harald beleuchtete die Eindrücke im Schnee nur wenige
-Anden.
+Sekunden.
 
-Ein Weib, — — ohne Frage Zelestine Dient:!«« meinte
-»Wir fassen sie noch ab! Also — Laulicritt!«
+»Ein Weib, — — ohne Frage Zelestine Drepp!« meinte
+er. »Wir fassen sie noch ab! Also — Laufschritt!«
 
 <@pagebreak/>
-Zwischen der Rückseite des Harstschen emüsegartens
+Zwischen der Rückseite des Harstschen Gemüsegartens
 und dem weiteren Laubengelände zieht sich eine Art Feldweg
-hin, Der nach Norden. zu äwilchenchohen Bretterzäunen in
+hin, Der nach Norden zu zwischen hohen Bretterzäunen in
 die Blücherstraße einmündet.
 
 Die Spuren verliefen denn auch, teilweise verweht,
 in dieser Richtung.
 
 Man sah es den Fährten an, daß die Frau gleich uns
-ich sehr beeilt hatte.  Treppen holten wir sie sehr bald
+sich sehr beeilt hatte.  Trotzdem holten wir sie sehr bald
 ein. Ich hatte mit Harald nicht gleichen Schritt halten
 können und kam nun gerade dazu, wie er unter einer
-Straßenlaterne im heftigsten Schucegestöver mit einer in
-einen Langen Pelzmantel gehüllten Dame rang, die sich
+Straßenlaterne im heftigsten Schneegestöber mit einer in
+einen langen Pelzmantel gehüllten Dame rang, die sich
 mit aller Kraft loszureißen suchte. Ihr dunkler Schleier
 war jetzt mit Schneeflocken so dicht bedeckt, daß man, zumal
 sie die Pelzkappe tief in die Augen gezogen Hatte, von Ihren
-Gesichtszügen artig wahrnehmen konnte. Aber auch) sie
-selbst vermochte wohl kaum etwas hinter diesem weiß.
-betupften Gesichtsschild hervor zu erkennen. Sie weinte in
+Gesichtszügen nichts wahrnehmen konnte. Aber auch sie
+selbst vermochte wohl kaum etwas hinter diesem weißbetupften
+Gesichtsschild hervor zu erkennen. Sie weinte in
 keuchenden Stößen vor zorniger Erregung und rief jetzt
 halblaut:
 
 »Oh — geben Sie mich doch frei! Ich will Ihnen
-meinen Schmuck opfern! Geben Sie mich frei!1»
+meinen Schmuck opfern! Geben Sie mich frei!!«
 
-höre der ihre Handgelenke gepackt da erwiderte
-ö
+Harald, der ihre Handgelenke gepackt hatte, erwiderte
+höflich:
 
-»Lassen Sie den Revolver fallen — — Billett Wir
+»Lassen Sie den Revolver fallen — — bitte!! Wir
 sind keine Wegelagerer,«
 
 Da erst sah er, daß ich dicht neben ihm stand.
 
 »Nimm der Frau die Waffe ab,« befahl er kurz.
 
-Nun hatte auch ich die kleine schwarze Vertraue sagte
+Nun hatte auch ich die kleine schwarze Mehrladepistole
 bemerkt. Es war eine solche und kein Revolver.
 
 Die Waffe glitt mir in die Hand.
 
-Die Frau seufzte tief auf, klug mit den Fingern Leiche
-gegen den verschneiten Schleier und glaubte ihn ab. ¿
+Die Frau seufzte tief auf, schlug mit den Fingern leicht
+gegen den verschneiten Schleier und stäubte ihn ab.
 
 »Wer sind Sie?« fragte sie zögernd.
 
-»Weshalb waren Sie im Harstschen Garten?«. antwortete
+»Weshalb waren Sie im Harstschen Garten?« antwortete
 <@pagebreak/>
-abprallt nach kurzer Pause. »Ich hielt en unähn
-bellt Drepp -
+Harald nach kurzer Pause. »Ich hielt Sie zunächst
+für Zelestine Drepp...«
 
-»Ah— die Dame Hatte Leise aufgeschrien. seh
+»Ah— die Dame Hatte Leise aufgeschrien...
 
-Und — nur deshalb, Beil abprallt diesen Rauen See
-Bann, hatte...!
+Und — nur deshalb, weil Harald diesen Namen
+genannt hatte...!
 
-In einen Tollen kurzen Aufschrei eines erregten Weibes
+In einem solchen kurzen Aufschrei eines erregten Weibes
 liegt oft eine ganze Welt von Empfindungen. Hier hatte
 ich Haß, Wut, Verachtung und ein wenig Ueberraschung
-heraubzuhören geglaubt.
+herauszuhören geglaubt.
 
-Da rief die Dame bereits, indem sie wie beshwöreny
+Da rief die Dame bereits, indem sie wie beschwörend
 die rechte Hand hob:
 
-»Sind Sie etwa Harald Harst!«
+»Sind Sie etwa Harald Harst?!«
 
-»Und Sie, gnädiges deren, können nur Thea von
-Peinvoll, die, Braut Direktor« Gußfelders, sein,« meinte
-Harald, indem er kurz die weiche warme Sportumüße lüftete.
+»Und Sie, gnädiges Fräulein, können nur Thea von
+Perwart, die Braut Direktor Gußfelders, sein,« meinte
+Harald, indem er kurz die weiche warme Sportmütze lüftete.
 
-Boulogne Sturuistöße umbrausten uns. Dicht wie
-Schneemassen, die von. einem steilen Dache herabstieben,
-hüllten uns die eisigen Flocken ein.«
+Heulende Sturmstöße umbrausten uns. Dicht wie
+Schneemassen, die von einem steilen Dache herabstieben,
+hüllten uns die eisigen Flocken ein.
 
-Ich mußte die Augen einen Augenblick schlichen, mußte
-mich dem Sturme Fnigegenslemuen, der. ortanartig durch
-die Blücherstraße setzte,
+Ich mußte die Augen einen Augenblick schließen, mußte
+mich dem Sturme entgegenstemmen, der orkanartig durch
+die Blücherstraße fegte.
 
-Als ich die« Augen wieder öffnete, standen drei
-Gehalten neben mir — — drei!
+Als ich die Augen wieder öffnete, standen drei
+Gestalten neben mir — — drei!
 
-Der neue Auköuinuing war ein schlanker Herr im Ich
-Pelz mit hochgeschlagenem ragen
+Der neue Ankömmling war ein schlanker Herr im Gehpelz
+mit hochgeschlagenem Kragen...
 
 Er war offenbar wie ein Geist aus dem weißen Nichts
-soeben aufgetaucht, fragte, nun, die etwas aurüctweichenpe
-Dame scharf Maskerade.
+soeben aufgetaucht, fragte nun, die etwas zurückweichende
+Dame scharf musternd:
 
-»Die Herrschaften verzeihen So Ich suche hier das
-aus« Nr. 10, Kämpfen Sie mir sagen, Ja
+»Die Herrschaften verzeihen... Ich suche hier das
+Haus Nr. 10... Können Sie mir sagen, wo...«
 
-Harald faßte leicht an den Mübenfartim und meinte
+Harald faßte leicht an den Mützenschirm und meinte:
 
-»... wo des Detektivs Harst Grundstück Liegt! —
-Können sich die Mühe sparen, Herr. Direktor Gußfelder. Ich
-in Harald Harst.«
+»... wo des Detektivs Harst Grundstück liegt! — Sie
+können sich die Mühe sparen, Herr Direktor Gußfelder. Ich
+bin Harald Harst.«
 
-Seltsam genug war all das so inmitten dieses nachsehen
-Unwetters,- / ad seltsamer’ jedoch war das plötzliche
+Seltsam genug war all das so inmitten dieses nächtlichen
+Unwetters. Noch seltsamer jedoch war das plötzliche
 <@pagebreak/>
 Verschwinden der Dame, die unmerklich immer mehr auf den
-Straßendanmni zurückgetreten und dann in einer Schneewvolfe
+Straßendamm zurückgetreten und dann in einer Schneewolke
 jäh untergetaucht war.
 
-Gußfelder, dessen bartloses amerikanisches Gesicht Auf
-aus sympathisch wirkte, rief jetzt:
+Gußfelder, dessen bartloses amerikanisches Gesicht durchaus
+sympathisch wirkte, rief jetzt:
 
 »Herr Harst, wer war die Frau?!«
 
-Argwohn Hang in seiner Sinne mit. Er [irr der
-Dame Karierten- zu wollen. in
+Argwohn klang in seiner Sinne mit. Er schien der
+Dame nacheilen zu wollen.
 
 »Halt — bleiben Sie!« erwiderte Harald rasch. »Es
-war eine Bekannte ...«
+war eine Bekannte...«
 
-Diese Erklärung mit ihrem nichtssagenden. Doppelsinn
+Diese Erklärung mit ihrem nichtssagenden Doppelsinn
 genügte dem Direktor.
 
-»Ich wollte zu Thea, Herr Harst,« meinte er. »Ich -
-hätte her nein mein Leid geklagt.«
+»Ich wollte zu Ihnen, Herr Harst,« meinte er. »Ich
+hätte Ihnen gern mein Leid geklagt.«
 
 »Zelestine Drepps und — — des anderen Mannes
 wegen,« entgegnete Harald gleichmütig. »Sind Sie zu
 Fuß gekommen, Herr Direktor?«
 
-»Rein, Mein Auto wartet an der Ecke der Ningbahn-flraße
+»Nein. Mein Auto wartet an der Ecke der Ringbahnstraße.«
 
-»Sehr gut.  Dann begleiten Sie As Wille.
-Schraut und ich haben er
+»Sehr gut. Dann begleiten Sie uns bitte.
+Schraut und ich haben...«
 
-Er schwieg, Horche.
+Er schwieg, horchte...
 
 Irgendwoher kam das Rattern eines Automotors —
-wurde leiser und leiser — verstummte. ….
+wurde leiser und leiser — verstummte...
 
 Ich dachte sofort an Thea von Perwart. Auch sie schien
 ihr Auto in der Nähe gehabt zu Haben. —
 
-»Wohin, Herr Harst? Was haben Sie dort« fragte
+»Wohin, Herr Harst? Was haben Sie vor?« fragte
 Gußfelder merklich unsicher.
 
-Dorthin, wo... Ihr Feind haust, dem Sie es zu
-verbanden haben, daß über Sie allerlei Gerüchte wenig.
+»Dorthin, wo... Ihr Feind haust, dem Sie es zu
+verdanken haben, daß über Sie allerlei Gerüchte wenig
 angenehmer Art umgehen,« meinte Harald. »Kommen
-Sie? Die Sache muß ein Ende haben — in Ihrem Interesse!
+Sie! Die Sache muß ein Ende haben — in Ihrem Interesse!
 Den Mann noch weiter zu schonen, wäre eine
 Dummheit,«
 
-»Gut denn. ».! Gehen wir!« nickte Gußfelder und
+»Gut denn...! Gehen wir!« nickte Gußfelder und
 <@pagebreak/>
 wandte sich der anderen Straßenseite zu.
 
-Wir fanden das Auto, stiegen ein, ij
+Wir fanden das Auto, stiegen ein.
 
-Der geschlossene Krasitwagen war elektrisch geheizt.
-Harst hatte dem Chauffeur Behütete 1/08
+Der geschlossene Kraftwagen war elektrisch geheizt.
+Harst hatte dem Chauffeur zugerufen:
 
-ir Grunewald!« Er
+»Bahnhof Grunewald!«
 
 <h2>5. Kapitel.</h2>
 <h3>Die Blockhütte.</h3>
 
-Wir säuberten uns so gut Es ging von den Séhnee-waffen,
-die an. unseren Mänteln hatten geblieben waren.
-Wir saßen sehr. bequem in dem großen eleganten Wagen,
-Und lautlos fast glitt. dieser über« die weißen Straßen dahin,
+Wir säuberten uns so gut Es ging von den Schneemassen,
+die an unseren Mänteln haften geblieben waren.
+Wir saßen sehr bequem in dem großen eleganten Wagen,
+Und lautlos fast glitt dieser über die weißen Straßen dahin,
 
 Wir schwiegen — alle drei. Gußfelder schmiegte sich
-lief in die eine Ecke des Rücksitzes ein, hatte die Augen halb
+tief in die eine Ecke des Rücksitzes ein, hatte die Augen halb
 geschlossen. Vielleicht wartete er darauf, daß Harald ihn
-aussprechen würde.
+ansprechen würde.
 
 Und in diesem Schweigen vollführten meine Gedanken
 wirre Sprünge, hasteten von Ereignis zu Ereignis, suchten
@@ -1057,252 +1058,252 @@ eine Reihe halb verhüllter Bilder vor mir lagen,
 
 Dann räusperte Gußfelder sich,
 
-»gen Harst,« begann er zaghaft und beugte sich etwas
-vor, »Sie erwähnten da vorhin ... meinen Feind, Was
+»Herr Harst,« begann er zaghaft und beugte sich etwas
+vor. »Sie erwähnten da vorhin... meinen Feind. Was
 wissen Sie über ihn?«
 
 »Ich wußte gestern abend noch nichts über ihn, Herr
-Direktor. - Ich habe Sie verwechselt — mit diesem Menschen...
-der Sie allmählich zugrunde gerichtet hätte — vollftänhig —
+Direktor. Ich habe Sie verwechselt — mit diesem Menschen...
+der Sie allmählich zugrunde gerichtet hätte — vollständig —
 auch Ihr Lebensglück! Sie hätten besser getan, nicht nur
-eben anonymen Brief an mich zu senden, sondern....« Du
+den anonymen Brief an mich zu senden, sondern...«
 
-»Ah — so haben Sie bereits Bin he Es bei
+»Ah — so haben Sie bereits festgestellt, daß ich der
 Absender bin?!«
 
-»Allerdings. a — Er
+»Allerdings.« —
 
-Se hätte mir am liebsten an die Eine jetzt. Ich
+Ich hätte mir am liebsten an die Stirne gefaßt. Ich
 <@pagebreak/>
-hatte gehofft, daß das Dunkel dieses Vorkommnisses. nicht
+hatte gehofft, daß das Dunkel dieses Vorkommnisses sich
 lichten würde. Und nun: der Sachverhalt wurde noch verworrener!
-Ich besann mich ja so gut auf Haralds Aeußce-rung,
-daß er Gußfelder und Zelestine in der Bar. See
-lauscht und daß das Gespräch der beiden auch diesen Brief
-gestreift hätte! — Wie war denn nun der tatsächliche Van
-verbal! — wie?!
+Ich besann mich ja so gut auf Haralds Aeußerung,
+daß er Gußfelder und Zelestine in der Bar belauscht
+und daß das Gespräch der beiden auch diesen Brief
+gestreift hätte! — Wie war denn nun der tatsächliche
+Sachverhalt — wie?!
 
 Das Auto hielt. Der Chauffeur riß die eine Tür auf,
 
-»Herr Direktor — in! Grunewald!« ren er.
+»Herr Direktor — Bahnhof Grunewald!« meldete er
 mürrisch.
 
 Wir stiegen aus.
 
-»Sie warten hier auf uns, M befahl Harald.
+»Sie warten hier auf uns,« befahl Harald.
 
-Der Mann brummte etwas vor sich Hin. ’ Viel Respekt
+Der Mann brummte etwas vor sich Hin. Viel Respekt
 schien er vor seinem Brotherrn nicht zu haben.
 
-Wir durchschritten den fangen Tunnel, der unter den
+Wir durchschritten den langen Tunnel, der unter den
 Bahnhofsanlagen hinweg nach dem Walde führt.
 
 »Meine Leute werden aufsässig,« meinte Gußfelder
-finster. »sich hätte dies alles nicht mehr lange, Genagelt.
+finster. »ich hätte dies alles nicht mehr lange ertragen.
 Sie haben ganz recht, Herr Harst: es *muß* ein Ende gemacht
 werden!«
 
 »Wissen Sie, daß Generaldirektor Doktor Malesto tot
 ist?« fragte Harald da, indem er stehen blieb,
 
-»Ja. Deshalb wollte ich Sie jetzt nachts herand-klingeln.
-Der Chauffeur Malestos war nämlich nur bewußte
-108 und bat noch einiges anögefagt, bevor er wieder die
+»Ja. Deshalb wollte ich Sie jetzt nachts herausklingeln.
+Der Chauffeur Malestos war nämlich nur bewußtlos
+und hat noch einiges ausgesagt, bevor er wieder die
 Besinnung verloren.«
 
-»Und — er hat behauptet, daß Sie die Unalicssaßri
-und das Auto in das Schaufenster gelenkt:
-Gaben?«
+»Und — er hat behauptet, daß Sie die Unglücksfahrt
+mitgemacht und das Auto in das Schaufenster gelenkt
+haben?«
 
-»Je. So sechs Ich fonunterwegs, kaum fünfte
-Schritt von meiner Lila, das Auto angerufen und mich
-dann vorn zum Chauffeur gesetzt haben. Zum Glück: konnte
+»Ja. So ist’s. Ich soll unterwegs, kaum fünfzig
+Schritt von meiner Villa, das Auto angerufen und mich
+dann vorn zum Chauffeur gesetzt haben. Zum Glück konnte
 mein Hauspersonal — meine Gäste waren bereits fort —«
-ge daß ich das Haus nicht verlassen Hatte, daß ich
-An An
+bestätigen, daß ich das Haus nicht verlassen Hatte, daß ich
+also...«
 
-»Gut — gehen wir weiter. Das da mir.«
+»Gut — gehen wir weiter. Das genügt mir.«
 
 <@pagebreak/>
-»ir gingen — kamen in den begüterten Kiefernforst,
-tappten durch Schnee. und Dunlkelheit hinter Harald drein,
-der mit der Sicherheit eines Pladsiiders- seinen Weg wie
+Wir gingen — kamen in den brausenden Kiefernforst,
+tappten durch Schnee und Dunkelheit hinter Harald drein,
+der mit der Sicherheit eines Pfadfinders seinen Weg wie
 bei Tageslicht verfolgte.
 
-Wir sogen bieKöpfe tief in die hothgekläppten Kragen
-en. »Schneeflocken Abmessen — rannen den Hals entlang.
-Keine Füße waren wie Eis in: dem bereits aufgeweichten
-Wirtin wird Tráystiefel hatte, man: M dieser Nacht.
-gegen müssen.. -:
+Wir zogen die Köpfe tief in die hochgeklappten Kragen
+ein. Schneeflocken schmolzen — rannen den Hals entlang.
+Meine Füße waren wie Eis in dem bereits aufgeweichten
+Kulturschuhwerk. Transtiefel hätte man in dieser Nacht
+tragen müssen.
 
-Die schlanken Stämme, wie Fahrer. »von: finsteren
-Gestalten: uns umbrohend,. stöhnten und ächzten unter, den
-& er des pikant.
+Die schlanken Stämme, wie ein Heer von finsteren
+Gestalten uns umdrohend, stöhnten und ächzten unter den
+Stößen des Orkans.
 
-Oh — ich werde diese Nacht nicht vergessen! Ich Vers
-vergesse Se Stunden nie.: In meinem Hirn sind unzählige
-ähnliche Erinnerungen. aufgestapelt. Ueber allen sich! in
+Oh — ich werde diese Nacht nicht vergessen! Ich
+vergesse solche Stunden nie. In meinem Hirn sind unzählige
+ähnliche Erinnerungen aufgestapelt. Ueber allen steht in
 Flammenschrift: Harald Harst! Ihm verdanke ich dieses
-ich ich As diese Aufregungen, die wie ein Spinnen
+Leben, das ich liebe, diese Aufregungen, die wie ein
+Opiumrausch sind...
 
 Nur ihm! — — und er, von dem jede Erregung abprallt,
-jér nie seine fühle Gelassenheit verliert, — er schritt und
-voran wie. eine Spukgestalt, eingehüllt in das tolle Flocken-eriefel,
+der nie seine kühle Gelassenheit verliert, — er schritt uns
+voran wie eine Spukgestalt, eingehüllt in das tolle Flockengeriesel,
 — er zögerte auch nicht einen Moment, traf die
-Mischung so gut, als hätte er diesen Weg unzählige Male
-rickgelegt. Ich kenne niemand, der in Berlin und in der
-In Rochung dieses Misllionenpfuhls. so gut Bescheid weiß
+Richtung so gut, als hätte er diesen Weg unzählige Male
+zurückgelegt. Ich kenne niemand, der in Berlin und in der
+Umgebung dieses Millionenpfuhls so gut Bescheid weiß
 wie er.
 
-Doktor Gußfelder hielt sich stets dicht neben mir. Aha
-Orkan eine Weile Atem schöpfte, um nachher mit doppelter
+Doktor Gußfelder hielt sich stets dicht neben mir. Als
+der Orkan eine Weile Atem schöpfte, um nachher mit doppelter
 Wut aus den ungeheuren Lungen eines dämonischen
-Rentiers über die Reichshauptstadt mit Heulendem Blasen
-weglaufen zu können, da benutze ich diese Gelegenheit
-Ja der raschen leisen Frage:
+Untiers über die Reichshauptstadt mit heulendem Blasen
+hinwegsausen zu können, da benutze ich diese Gelegenheit
+zu der raschen leisen Frage:
 
 »Ihr Feind hat mit Ihnen offenbar eine Aehnlichkeit,
-sie selten vorkommt. Wer ist dieser Mensch?«
+wie sie selten vorkommt. Wer ist dieser Mensch?«
 
-»Ja — wenn ich Das wüßte!« war Die verlegene An!
+»Ja — wenn ich Das wüßte!« war Die verlegene Antwort.
 »Wirklich, ich weiß es nicht, Herr Schraut,« fügte
 <@pagebreak/>
-Einstellen hastig hinzu. »Ich warte seit zwei Monaten
+Gußfelder hastig hinzu. »Ich warte seit zwei Monaten
 etwa...«
 
-Da hatte Harald neu haltgemacht, hatte sich umgewandt,
-Jagte kurz: Feier ist die Pforte des Stacheldrahtzaunes.
-Wir wollen sie besser nicht benutzen, da
+Da hatte Harald plötzlich haltgemacht, hatte sich umgewandt,
+sagte kurz: »Hier ist die Pforte des Stacheldrahtzaunes.
+Wir wollen sie besser nicht benutzen, da...«
 
-Der Rest seiner Worte verwehte. Der Sturm riß eile
-ihm von den Lippen Weg, zerfetzte sie...
+Der Rest seiner Worte verwehte. Der Sturm riß sie
+ihm von den Lippen weg, zerfetzte sie...
 
-Harst zog die Deutlichere hervor, zerschnitt die Stachels
-Drähte, deren Rostschicht noch gefährlicher war als das enge
-farbige Geflecht.
+Harst zog die Drahtschere hervor, zerschnitt die Stacheldrähte,
+deren Rostschicht noch gefährlicher war als das enge
+spitzige Geflecht.
 
-Und abermals schritt er voraus. Verschwonmmen
+Und abermals schritt er voraus. Verschwommen
 kamen die Umrisse des Blockhauses zum Vorschein. dann
 standen wir an dem Fenster links vom Eingang. Starke
 Holzladen verwehrten jeden Einblick in den erleuchteten
-Raum. Durch schmale Riten schimmerte das an wie.
-seine goldige Fäden,
+Raum. Durch schmale Ritzen schimmerte das Licht wie
+feine goldige Fäden,
 
-Harald ging weiter — um das Haus hervor. - »Hier
-waren wir unter Wind, Hier herrschte im Gegensatz zur
+Harald ging weiter — um das Haus herum. Hier
+waren wir unter Wind. Hier herrschte im Gegensatz zur
 Vorderseite der Blockhütte eine fast beängstigende Stille, da
-das Dach weit vorsprang und eine Art offene Se
-überwvölbte.
+das Dach weit vorsprang und eine Art offene Veranda
+überwölbte.
 
 Wir standen — und lauschten ...
 
-Ein erwog Surren kam aus dem Innern des Hauses —
-Bowle von einer Maschine, die sich im, C Gang befindet.
+Ein feines Surren kam aus dem Innern des Hauses —
+wie von einer Maschine, die sich im Gang befindet.
 
-»Schleifbänke,« meinte Harald. gleichmütig. »Schleifbänke
-für Diamanten, für Edelsteine, Ich glaube, dies hier
-dürfte die Zentrale jener Bande von Cvelsteindieben und
--schiebern sein, denen die Polizei fett Monaten auf. Den
+»Schleifbänke,« meinte Harald gleichmütig. »Schleifbänke
+für Diamanten, für Edelsteine. Ich glaube, dies hier
+dürfte die Zentrale jener Bande von Edelsteindieben und
+-schiebern sein, denen die Polizei seit Monaten auf Den
 Fersen ist, ohne einen endgültigen Erfolg zu erzielen. —
-Gehen wir, Wir müssen Kriminalbeamte Motiv De
-diesem Unwetter könnte die Bande uns...
+Gehen wir, Wir müssen Kriminalbeamte herbeiholen. Bei
+diesem Unwetter könnte die Bande uns...«
 
-Er schwieg. — — horchte
+Er schwieg. — — horchte...
 
-Das Surren war verstummt. -«
+Das Surren war verstummt.
 
-»Schraut — nach vorn! Wittere heraus!« befahl er
-mir. »Du läßt niemand durch — niemand! Dünste nicht
-lange, abmmdrinfen  Merkst nich, daß diese Briten den
+»Schraut — nach vorn! Pistole heraus!« befahl er
+mir. »Du läßt niemand durch — niemand! Zögere nicht
+lange, abzudrücken. Vergiß nicht, daß diese Burschen den
 <@pagebreak/>
-eneräfbierkter Malesto ermordet haben, der als Edelsteins-mutler
-bekannt war und Feld in einem Beutelchen auf
-Brust die Hauptstücks seiner Sammlung bei sich trug.
-Frackhemd war vorn weit ausgerissen. Man hat
-ihn bestohlen, hat | gleichzeitig durch den Krach des zersplitternden-Schaufensters
-die Detonation der Explosion des
-Tresors im Juwelierladen  übertönt und so... zwei Flirt
-gen mit einer Klappe geschlagen....«
+Generaldirektor Malesto ermordet haben, der als Edelsteinsammler
+bekannt war und stets in einem Beutelchen auf
+der Brust die Hauptstücke seiner Sammlung bei sich trug.
+Sein Frackhemd war vorn weit aufgerissen. Man hat
+ihn bestohlen, hat gleichzeitig durch den Krach des zersplitternden
+Schaufensters die Detonation der Explosion des
+Tresors im Juwelierladen übertönt und so... zwei Fliegen
+mit einer Klappe geschlagen...«
 
-Wenige Sähe — und doch brachten sie Licht in das
+Wenige Sätze — und doch brachten sie Licht in das
 Dunkel der allerletzten Vorgänge!
 
-Ich lies um das Haus herum...
+Ich lief um das Haus herum...
 
 Ich... kam zu spät, fand Die Haustür offen, fand
-im Er einen loheauden Hausen von Kisten und Stroh...
+im Flur einen lohenden Haufen von Kisten und Stroh...
 
-Holte Harst und Gußfelder ...
+Holte Harst und Gußfelder...
 
-Es war seine Möglichkeit Mohr, in die Blockhilite eine
+Es war keine Möglichkeit Mohr, in die Blockhütte
 einzudringen. Beißender Petroleumdunst schlug uns mit dem
-Ehren Qualm: entgegen. Das Feuer verbreitete sich im Nu
-weiter, Halle schon die Balkenwände« erfaßt. —
+dicken Qualm entgegen. Das Feuer verbreitete sich im Nu
+weiter, Hatte schon die Balkenwände erfaßt. —
 
 Der Leser wird sich vielleicht auf die kurze Notiz in den
 Zeitungen vom 24. und 25. November besinnen — auf diese
-»harmlose Worte, die nur besagte, daß in der Nähe der
-Försterei Eidytamip ein Blockhaus niedergebrannt sei, welches
+harmlose Notiz, die nur besagte, daß in der Nähe der
+Försterei Eichkamp ein Blockhaus niedergebrannt sei, welches
 ein Südamerikaner namens Josef Bennarara gekauft hatte,
 
 Die Presse wurde damals von der Polizei absichtlich im
-Unklaren gelassen, was dieser Brand bedeutete. Und nach
-her, als Bennararas Name alle Zeitungen füllte, war diese
-Feuersbrunst in jener Wiuterslurmmacht längst zur Nichtigkeit
-Gegenüber Bennararas sonstigen Taten und Untaten aus
-fammengesunten. —
+Unklaren gelassen, was dieser Brand bedeutete. Und nachher,
+als Bennararas Name alle Zeitungen füllte, war diese
+Feuersbrunst in jener Wintersturmnacht längst zur Nichtigkeit
+gegenüber Bennararas sonstigen Taten und Untaten
+zusammengesunken. —
 
-Das Haus. bannte vollständig wieder.
+Das Haus brannte vollständig nieder.
 
 Wir hatten damals die Brandstelle sehr bald wieder
-erlassen, bevor noch jemand gewahr wurde, daß wir Zeugen
-Wesen, wie der Bewohner jede Spur hinter sich gründlichst
-fürchtete, jede Spur und jeden Beweis, was es Mit der
-(ablöste aus sich gehabt hätte.
+verlassen, bevor noch jemand gewahr wurde, daß wir Zeugen
+gewesen, wie der Bewohner jede Spur hinter sich gründlichst
+vernichtete, jede Spur und jeden Beweis, was es Mit der
+Blockhütte auf sich gehabt hätte.
 
 Wir fanden Gußfelders Auto jenseits des Tunnels vor
 <@pagebreak/>
 und kehrten heim — saßen dann zu vieren, den Studiosus
-Hart Hock eingerechnet, in Haralds Arbeitszimmer und
-lauschten Harsts kühlen Harem Worten:
+Karl Hock eingerechnet, in Haralds Arbeitszimmer und
+lauschten Harsts kühlen klaren Worten:
 
 »Und nun noch meine Theorie über das Paket im
-Urbanhafen, meine Herren ... — Ich habe Grund zu der
-Annahme, daß Ihr Doppelgänger, - jener Direktor, Zelestine
+Urbanhafen, meine Herren... — Ich habe Grund zu der
+Annahme, daß Ihr Doppelgänger, jener Direktor, Zelestine
 Drepps Eifersucht erregt hat, daß er mit Zelestines Kollegin
 flirtete und — daß er ein großer Hundefreund ist.
-»Zelestine ließ Mucki aus Rache die Diamanten verschlucken,
-die der geheimnisvolle Verbrecher ihr anvertraut Halle, und
-wollte dann den Hund aus Rache ersäufen, nur den Ausstreuen
-doppelt zu treffe. Diese meine Theorie mag Ihnen
+Zelestine ließ Mucki aus Rache die Diamanten verschlucken,
+die der geheimnisvolle Verbrecher ihr anvertraut hatte, und
+wollte dann den Hund aus Rache ersäufen, um den Ungetreuen
+doppelt zu treffen. Diese meine Theorie mag Ihnen
 etwas gewaltsam erscheinen, aber — solche Rache entspricht
-ganz der Weibesnualur, bei der durch Eifersucht alle Flechten
-Instinkte urplötzlich auslachen. Sie werden Sehen, daß meine
-richtig ist. So brauche jedoch. Zeit, Ihnen dies zu
+ganz der Weibesnatur, bei der durch Eifersucht alle schlechten
+Instinkte urplötzlich auflohen. Sie werden sehen, daß meine
+Theorie richtig ist. Ich brauche jedoch Zeit, Ihnen dies zu
 beweisen.«
 
-Gußfelder verabschiedete sich dann und Fern uns.
-vormittags neun Uhr zu besuchen.«
+Gußfelder verabschiedete sich dann und versprach, uns
+vormittags neun Uhr zu besuchen.
 
-An der Haustür sagte Harald noch zu ihm; »Ihre Braut
+An der Haustür sagte Harald noch zu ihm: »Ihre Braut
 werde Ich völlig überzeugen, daß Sie mit Zelestine Drepp
-nie Beziehungen unterhalten haben. — Gute Nacht
+nie Beziehungen unterhalten haben. — Gute Nacht...«
 
-Gußjselver eilte verwirrt durch den Vorgarten seinem,
-»Auto zu
+Gußfelder eilte verwirrt durch den Vorgarten seinem
+Auto zu...
 
-Und — vom Studiert der Blücherstraße her traf ein
-geltender Pfiff, Das Umwerfen überlönend, unsere Ohren mit
+Und — vom Südteil der Blücherstraße her traf ein
+gellender Pfiff, Das Unwetter übertönend, unsere Ohren mit
 aufdringlichen Schärfe.
 
-»Wir werden bewacht,« meinte Harald, Dann schloß
-er die Haustür... Ja
+»Wir werden bewacht,« meinte Harald. Dann schloß
+er die Haustür...
 
-Und ich Einließe den ersten Teil der Geschichte des
-
-» Vaters im Urbanhafen. im zweiten Teil findet man von
-der ersten Zeile an so seltsame weitere Begebnisse, Daß ich -
-sie Er Sehe hier auch nicht einmal Mann vermag
+Und ich schließe den ersten Teil der Geschichte des
+Pakets im Urbanhafen. im zweiten Teil findet man von
+der ersten Zeile an so seltsame weitere Begebnisse, Daß ich
+sie dem Leser hier auch nicht einmal anzudeuten vermag...
 
 <@pagebreak 33/>
 
@@ -1417,7 +1418,7 @@ ist ja unmöglich!«
 Sie schwieg und strich mit der Hand, fidel die Cm.
 
 »Ich kann mir leicht zusammenreimen,« sagte. Harald,
-Bad e! Detektiv Ihnen mitgeteilt hat, Gupfelver...«
+Bad e! Detektiv Ihnen mitgeteilt hat, Gußfelder...«
 
 »Oh — er behauptete unter anderem, fiel sie ihm Ins
 Wort, »Gußfelder wäre gleichzeitig an verschiedenen Orten
@@ -1726,7 +1727,7 @@ gelähmt.
 
 Sein Kopf flog herum
 
-Nach der Balklentür — nach. dem Gange bin...
+Nach der Balkentür — nach dem Gange hin...
 
 Und — da Paar die Eile auch schon zugefallen
 
@@ -1753,7 +1754,7 @@ Ahnung] quetschte ich heiser hervor. -
 Er nicke sich langsam auf. sein Blick wanderte an
 dem Ofenecke hoch
 
-Und seine Taschenlampe enthüllte Hart in der Ballken-decke
+Und seine Taschenlampe enthüllte Hart in der Balkendecke
 ein rundes, mit Eisenblech - Portieren. Loch, durch das
 das Rohr Hindurchlief.
 
@@ -1883,7 +1884,7 @@ Na wenn’s dann so nicht acht, un anders!«
 er Harst mit einem na »Hof! zu: *Alles Vers
 Ideen, Pause bei Du* so E Bad ist die Lösung.«
 
-Mllerdings — Das war sie: erste vier Buchstaben von
+Allerdings — Das war sie: erste vier Buchstaben von
 hinten lesen und den. fünften alleinstehenden anhängen, er-’
 gibt »*alles*«, dann in derselben Art weiter...
 
@@ -2196,7 +2197,7 @@ Erinnert Testen Seh
 nur bemühten nun un die Bewußtlose. Ein Arzt kam.
 Mk nach einer halben Stunde gelang es, Zelestine wieder
 As Leben zurückzurufen, Der Arzt berechnete vollständige
-Schonung, sprach etwas von schwachem Herznmustel, Mor-pbiumfucht
+Schonung, sprach etwas von schwachem Herzmustel, Mor-pbiumfucht
 und Alkoholismus und deutete zu, daß ein
 dieses Marsche Körpergerüst vollends erledigen
 Erde
@@ -2512,7 +2513,7 @@ Zimmers.
 An einen Lehnsessel gefesselt saß da ein Mann — der
 wahre Benn Gußfelder ...
 
-Und sein Dodvpelgänger und vier andere Kerle, Ausreise
+Und sein Doppelgänger und vier andere Kerle, Ausreise
 <@pagebreak/>
 Gentlemans, stierten uns an ... Nur einer regte sich,
 pfiff- »treue in die Tasche: Bennarara!
@@ -2545,7 +2546,7 @@ der Neuen Hafenstraße beschlagnahmt, —
 
 »Erben Sie, Vogler,« sagte Harald, als wir das Brautpaar
 kann verließen, »der vierte Beweispunkt zwar eben
-der, daß Gußiselder entführt und Bennarara jetzt Herr der
+der, daß Gußfelder entführt und Bennarara jetzt Herr der
 Villa in der Bismarckstraße war. — Wie ich darauf ge
 formen, fragen Sie? Burky den *getippten* Brief, Woher
 Freund! Welcher Mann von Bildung Wird einer Dame
