@@ -1315,37 +1315,38 @@ sie dem Leser hier auch nicht einmal anzudeuten vermag...
 
 <h3>Was Harst beweisen wollte.</h3>
 
-A éibrintitan 3 elf Uhr. — Hart ir Au ich sagen.
-am der beim FrühstückHarft Baut am Schreibtisch,
-eben. Hotel des Fernsprechers am Ohr.
+... Vormittags elf Uhr. — Karl Hock und ich saßen
+am Sofatisch beim Frühstück. Harst stand am Schreibtisch,
+den Hörer des Fernsprechers am Ohr.
 
-»Gußfelder ist Dran,« sagte er und legte den Hörer
-auf die Stücken einführt. »Er klagt über Schmerzen in allen
-Gliedern. Ich soll ihn nachher nochmals De an
-gerade der. Arzt bei ihm. Er liegt zu. Bett
+»Gußfelder ist krank,« sagte er und legte den Hörer
+auf die Stützen zurück. »Er klagt über Schmerzen in allen
+Gliedern. Ich soll ihn nachher nochmals anrufen. Jetzt ist
+gerade der Arzt bei ihm. Er liegt zu Bett...«
 
 Und Harald nahm wieder Platz.
 
-Mucki thronte neben Hock aus dem Soll.. Der von dem:
-ein an eher Angelt »entwickelte,,,Note jener zu ob
+Mucki thronte neben Hock auf dem Sofa. Wer von den
+beiden größeren Appetit entwickelte, war schwer zu
+entscheiden.
 
-»Sie bestehe also oben das Totenzimmer; lieber
-meinte Harald zu dem jungen. Stuben der trotz er
-erwog. weichlichen - Art. einhieben guter Ne!: war,
-trachten Sie [ich bitte als mein Dauergast, bis »Sie Er
-Studien beendet haben., Da Sie Waffe, sind, wirrer
+»Sie beziehen also oben das Erkerzimmer, lieber Hock,«
+meinte Harald zu dem jungen Studenten, der trotz seiner
+etwas weichlichen Art ein lieber guter Kerl war. »Betrachten
+Sie sich bitte als mein Dauergast, bis Sie Ihre
+Studien beendet haben. Da Sie Waise sind, wird...«
 
-Diese Aecußerungen; des menschenfreundlichen ein
-meines alten gütigen Harald wurden Da das tags
-der Flurglocke unterbrochen. ist
+Diese Aeußerungen des menschenfreundlichen Herzens
+meines alten gütigen Harald wurden durch das Schrillen
+der Flurglocke unterbrochen.
 
-Harst lauschte, fischte Sinn ©:
+Harst lauschte, fügte hinzu:
 
-»Besuch!« Und zwar Thea von Ferner, die einzige
+»Besuch! Und zwar Thea von Perwart, die einzige
 <@pagebreak/>
 Erbin der Perwart’schen Kohlengruben, die reichste junge
-Dame Deutschlands, Waise wie Sie, lieber Hock, Bettlerin
-des Perwart - Palais in der Erlenstraße im Tiergartenviertel.
+Dame Deutschlands, Waise wie Sie, lieber Hock, Besitzerin
+des Perwart-Palais in der Erlenstraße im Tiergartenviertel...«
 
 Hock schaute Harald erstaunt an.
 
@@ -1354,10 +1355,10 @@ uns besuchen will,« lächelte mein Freund. »Und doch ist
 die Sache verblüffend einfach. Ich hörte in der verflossenen
 Nacht die Hupe des Autos der jungen Dame, hörte diese
 sehr eigenartigen Töne soeben wieder und dazu Geräusche
-auf der Straße, die mir anzeigten, »daß ein Kraftwagen vor
-dem Hause bald gemacht und...«
+auf der Straße, die mir anzeigten, daß ein Kraftwagen vor
+dem Hause halt gemacht und...«
 
-Es klopfte. Die Köchin Mathilde meldete. ». Fräulein
+Es klopfte. Die Köchin Mathilde meldete... Fräulein
 von Perwart an.
 
 Thea von Perwart trat ein, sie setzte sich, war etwas
@@ -1367,173 +1368,173 @@ Sehr energisch sagte sie: »Bitte, lesen Sie diesen
 Brief meines Verlobten, Herr Harst. Noch nie hat er mir
 einen mit Maschine geschriebenen Brief geschickt — noch nie!«
 
-Und sie reichte Harald Umschlag und Brief, der
-den Inhalt hatte:
+Und sie reichte Harald Umschlag und Brief, der folgenden
+Inhalt hatte:
 
 > Fräulein Thea von Perwart,
 
 > Erlenstraße 16.
 
-> Zu meinem Bedauern bin Ich die Verlobung mit
+> Zu meinem Bedauern muß Ich die Verlobung mit
 Ihnen lösen, da ich eingesehen habe, daß Sie mir nicht
-Önsienige Maß von Vertrauen entgegenbringen, welches
-zu einer glüecklichen Ehe unerläßlich ist, Ihre Zweifel an.
+dasjenige Maß von Vertrauen entgegenbringen, welches
+zu einer glücklichen Ehe unerläßlich ist. Ihre Zweifel an
 meiner Treue haben Sie in der verflossenen Nacht zu
-Herrn Harst getrieben, der Ihnen wahrscheinlich .…. De
+Herrn Harst getrieben, der Ihnen wahrscheinlich...
 
 > Doch nein! Diese Gedanken will ich als Gentleman
-für mich. behalten. | Hi
+für mich behalten.
 
-> Anbei Ihre Geschenke. und« Ihre Bilder zurück, für
-De ich keinerlei Verwendung mehr habe. Damit die
+> Anbei Ihre Geschenke und Ihre Bilder zurück, für
+die ich keinerlei Verwendung mehr habe. Damit die
 Oeffentlichkeit nicht Ihr Konto mit diesem Bruch zwischen
 <@pagebreak/>
 uns belastet, werde ich das Gerücht verbreiten, daß *Sie*
-die Verlobung aufgehoben haben, weil mit nicht Aufeinander
+die Verlobung aufgehoben haben, weil wir nicht füreinander
 passen.
 
-> Doktor denn zuhielten.
+> Doktor Benn Gußfelder.
 
-Das blasse vornehme geeicht der jungen. Danke rötete
-sich Seh langsam. ö
+Das blasse vornehme Gesicht der jungen Dame rötete
+sich jetzt langsam.
 
-»Der Brief Oft eine Brutalität, die: ich Gußfelder nie
-zugetraut hätte,« meinte sie. »Gewiß, ich ge5e zu, daß ich
-sehr — sehr eifersüchtig bin und — auch mit gutem recht.
-Ich wollte Sie nun bitten, Herr Harst, einige Vorkommnisse«
+»Der Brief ist eine Brutalität, die ich Gußfelder nie
+zugetraut hätte,« meinte sie. »Gewiß, ich gebe zu, daß ich
+sehr — sehr eifersüchtig bin und — auch mit gutem Recht.
+Ich wollte Sie nun bitten, Herr Harst, einige Vorkommnisse
 aufzuklären, die mir gänzlich unbegreiflich sind. Zunächst:
 ich habe meinen bisherigen Verlobten seit acht Tagen durch
-eine Detektei beobachten lassen. Der- E dieses In
-intakt, ein gebildeter Herr. hat mir nun
+eine Detektei beobachten lassen. Der Beamte dieses Instituts,
+ein gebildeter Herr, hat mir nun...«
 
-»Harald machte eine kurze ein.
+Harald machte eine kurze Handbewegung.
 
-»Verzeihen Sie, gnädiges Fräulein abgelöst hat
-Zelestine Drepp bestimmt nie etwas zu tun gehabt. Er
-bat einen Doppelgänger, der. -
+»Verzeihen Sie, gnädiges Fräulein... Gußfelder hat
+mit Zelestine Drepp bestimmt nie etwas zu tun gehabt. Er
+hat einen Doppelgänger, der...«
 
-»Mein Gott — — Doppelgänger?! aber — — - das
+»Mein Gott — — Doppelgänger?! Aber — — das
 ist ja unmöglich!«
 
-Sie schwieg und strich mit der Hand, fidel die Cm.
+Sie schwieg und strich mit der Hand, über die Stirn.
 
-»Ich kann mir leicht zusammenreimen,« sagte. Harald,
-Bad e! Detektiv Ihnen mitgeteilt hat, Gußfelder...«
+»Ich kann mir leicht zusammenreimen,« sagte Harald,
+»daß der Detektiv Ihnen mitgeteilt hat, Gußfelder...«
 
-»Oh — er behauptete unter anderem, fiel sie ihm Ins
+»Oh — er behauptete unter anderem,« fiel sie ihm Ins
 Wort, »Gußfelder wäre gleichzeitig an verschiedenen Orten
 gesehen worden...«
 
-Harst nickte.: Natürlich mußte der, Detektiv. dies uns.)
-schwer feststellen.. Sie erklärte er. diese. Tatsache?« Ei
+Harst nickte. »Natürlich mußte der Detektiv dies unschwer
+feststellen. Wie erklärte er diese Tatsache?«
 
-»Gemeinte, den: hätte sich einen Doppelgänger sogar
-sogen heraus Starrheit, damit ihm seine..«
+»Er meinte, Benn hätte sich einen Doppelgänger sozusagen
+herausstaffiert, damit ihm seine...«
 
-es nicht so leicht nachgewiesen werden
-könnten. I Hm — nicht übel ganz logisch auch, -
+»... Abwege nicht so leicht nachgewiesen werden
+könnten...! — Hm — nicht übel ganz — logisch auch,
 und doch falsch, gnädiges Fräulein. — Ich werde Gußfelder
-hb en Drum und van, von Ein in mit
-Person a Ein dar
+sofort anrufen, und dann sprechen Sie vielleicht mit ihm
+persönlich...« —
 
 <@pagebreak/>
 Ich will Einzelheiten hier weglassen. — Fräulein von
 Perwart mußte sich unverrichteter Sache verabschieden, da
 Benn Gußfelder sich jede Einmischung Haralds in seine
 Privatangelegenheiten zwar sehr höflich, aber auch ebenso
-bestimmt verbat und außerdem erklärte, Fräulein von- Vers
-wart möge ihn in keiner Weise weiter belästigen.
+bestimmt verbat und außerdem erklärte, Fräulein von Perwart
+möge ihn in keiner Weise weiter belästigen.
 
 Wie sehr die junge Besitzerin des unermeßlichen Vermögens
-der Perwarts durch diese schickte Ablehnung ihres
-Annäherungsversuches sich gedemütigt stillte, sah man ihr2m
-Gesichtsausdruck deutliche) an. st
+der Perwarts durch diese schroffe Ablehnung ihres
+Annäherungsversuches sich gedemütigt fühlte, sah man ihrem
+Gesichtsausdruck deutlich an.
 
-As sie gegangen, meinte Harald kopfschüttelnd zu Hob
+Als sie gegangen, meinte Harald kopfschüttelnd zu Hock
 und mir:
 
 »Aus Liebe ist hier Haß geworden, fürchte ich.« Thea
-von Perwart wird Guß Ader diese Kränkung nie vergessemn.«
+von Perwart wird Gußfelder diese Kränkung nie vergessen.«
 
 Dann rief er das Polizeipräsidium an und teilte dem
-auftaucht gen Kriminalkonmnaiissar die Ereignisse der Nacht mit,
+zuständigen Kriminalkommissar die Ereignisse der Nacht mit,
 
-Um ein halb ein? war Kommissar Dr. Vogler bei
-und. Er war uns sein Fremder mehr. Auch den der-.
-hinein ist er unter seinem wahren Namen wohlbekannt,
-Man findet ihn sehr Ost in den Zeitungen erwähnt, und
+Um ein halb eins war Kommissar Dr. Vogler bei
+uns. Er war uns kein Fremder mehr. Auch den Berlinern
+ist er unter seinem wahren Namen wohlbekannt.
+Man findet ihn sehr oft in den Zeitungen erwähnt, und
 die Verbrecherwelt hat vor ihm einen heillosen Respekt, —
 
 Heinz Vogler saß im Klubsessel und streckte die Beine
-behaglich von sich, Harst hatte ihm in aller Kürze die See
-lag der Nacht mitgeteilt, Blaues quer seinen Verdacht,
-da e schwedische Student Sigurd Tomsör ermordet vors.
-en sei.
+behaglich von sich. Harst hatte ihm in aller Kürze die
+Geschehnisse der Nacht mitgeteilt, ebenso seinen Verdacht,
+daß der schwedische Student Sigurd Tomsör ermordet worden
+sei.
 
-»Des vermuten wir längst, können es aber nicht der
-weisen, jeder Herr Harst,« war! Vogler ein. »Wir lassen
-die Drein beobachten,: haben jedoch nichts irgendwie des:
-Duftendes ermitteln Dünnen. Was nun Gußfelders Doppelgänger
-Lernst: ich glaube nicht an diesen Doppelgänger!
-Niemals. Selbst nicht nach den Bekundungen des Heinz
+»Das vermuten wir längst, können es aber nicht beweisen,
+lieber Herr Harst,« warf Vogler ein. »Wir lassen
+die Drepp beobachten, haben jedoch nichts irgendwie Belastendes
+ermitteln können. Was nun Gußfelders Doppelgänger
+betrifft: ich glaube nicht an diesen Doppelgänger!
+Niemals. Selbst nicht nach den Bekundungen des Herrn
 Hock. Ganz unter uns: Gußfelder ist ein Abenteurer!
 Schon seine Behauptung, er habe sein großes Vermögen
-als Digger, als Goldgräber, in Australien erworben, klingt.
+als Digger, als Goldgräber, in Australien erworben, klingt
 sehr romantisch.«
 
 <@pagebreak/>
-»Und wer ist der Mann, der in der nunmehr niedere
-eleganten Blockhütte hauste?« fragte Harald an:
+»Und wer ist der Mann, der in der nunmehr niedergebrannten
+Blockhütte hauste?« fragte Harald gedehnt.
 
-»Natürlich Gußfelder!. Wer soweit 1» lächelte Oho
-forscht selbstsicher, »eGußseldec unter dem Name Josef
-Bennarara. Es ist vielleicht der kühnste,: genialste Trick
+»Natürlich Gußfelder! Wer sonst?!« lächelte Dr. Vogler
+sehr selbstsicher. »Gußfelder unter dem Name Josef
+Bennarara. Es ist vielleicht der kühnste, genialste Trick
 dieses Abenteurers, das Märchen von dem so verblüffend
 ähnlichen Doppelgänger in die Welt gesetzt zu haben.«
 
 Die Unterredung ging weiter — ohne Zweck und Ziel,
-rufe ich dunkel er Ich hatte das Gefühl, daß Harald
-Zornig bei der Sache war und daß seine Gekauften durch
-irgend etwas abgelenkt würden. -
+wie ich dunkel empfand. Ich hatte das Gefühl, daß Harald
+wenig bei der Sache war und daß seine Gedanken durch
+irgend etwas abgelenkt würden.
 
 Schließlich erklärte Vogler, die Polizei würde sich jetzt,
-nachdeut in den Resten des Blockhauses tatsächlich die durch
-Feuer verlegenen Teile von. drei Schleifbänken für Eigenarten
-’ gefunden worden: seien, zu. einem entscheidenden
-Bunt aufschwingen. und. Zuhielten. und Zelestine Drecpp
+nachdem in den Resten des Blockhauses tatsächlich die durch
+Feuer verbogenen Teile von drei Schleifbänken für Diamanten
+gefunden worden seien, zu einem entscheidenden
+Schritt aufschwingen und Gußfelder und Zelestine Drepp
 verhaften.
 
 Harald schwieg eine weile. Dann meinte er: »Warten
-Sie dank noch bis morgen früh,- Doktor. Bis dahin hoffe
-ich Ihnen folgendes bewertete zu können: Erstens — daß
+Sie damit noch bis morgen früh, Doktor. Bis dahin hoffe
+ich Ihnen folgendes beweisen zu können: Erstens — daß
 der Doppelgänger existiert. Zweitens — daß dieser Doppelgänger
-Anführer der großen Digananteuschieberbande ist.
+Anführer der großen Diamantenschieberbande ist.
 Drittens — daß Sigurd Tomsör erschossen wurde. Und
-Dieners — —, ja, was ich als Punkt vier beweisen werde,
-will ich vorläufig noch für Milch behalten.««
+viertens — —, ja, was ich als Punkt vier beweisen werde,
+will ich vorläufig noch für mich behalten.«
 
 Dr. Vogler war einverstanden. »Gut — bis morgen
-Mittag unternehme ich e. bester Harst. Dann aber —
-! Nu die Falle zu!««
+Mittag unternehme ich nichts, bester Harst. Dann aber —
+klappt die Falle zu!«
 
-Gleich darauf waren wir allein. Auch Karlchen Hob
+Gleich darauf waren wir allein. Auch Karlchen Hock
 verabschiedete sich, da er seinen Umzug bewerkstelligen wollte,
-Er nahm Mucki mit, weit der. reizende Platschen ein wenig
+Er nahm Mucki mit, weil der reizende Pintscher ein wenig
 Bewegung haben mußte.
 
-Nun waren Harald und ich ganz unter und. Nun
-sagte er leise und verspürte. dem er fast mit Andacht
-eine Arten. anzündete:
+Nun waren Harald und ich ganz unter uns. Nun
+sagte er leise und versonnen, indem er fast mit Andacht
+eine Mirakulum anzündete:
 
 <@pagebreak/>
 »Fahren wir nach Eichkamp in den Wald — zu den
 Trümmern der Hütte des rätselhaften Josef Bennarara.
 Man kann nie wissen, ob man nicht dort im Schutt noch
-etwas findet, daß
+etwas findet, das...«
 
-»Der Sah wurde nicht beendet,
+Der Satz wurde nicht beendet,
 
-Das Telephon schlug zu
+Das Telephon schlug an...
 
 <@pagebreak/>
 
@@ -1542,308 +1543,308 @@ Das Telephon schlug zu
 <h3>Die Kriegskasse.</h3>
 
 Zelestine Drepp meldete sich und bat Harald, wir
-mochten uns doch nicht ihr um fünf Uhr nachmittags im
-Restaurant Hundekehle streifen, jedoch darauf achtgeben, daß
-wir nicht beobachtet würden, Sie—sci sehr in Angst ihrer
-eigenen Sicherheit wegen. — Das war alles, was sich uns
-mitteilte, Sie hauchte sofort ab, so daß Harald sie nichts
-mehr tragen sammle. -
+möchten uns doch mit ihr um fünf Uhr nachmittags im
+Restaurant Hundekehle treffen, jedoch darauf achtgeben, daß
+wir nicht beobachtet würden. Sie sei sehr in Angst ihrer
+eigenen Sicherheit wegen. — Das war alles, was sie uns
+mitteilte. Sie hängte sofort ab, so daß Harald sie nichts
+mehr fragen konnte.
 
 »Zelestine in Angst!« meinte Harald achselzuckend.
-Hm — wenn das nur sliumit! Die Frau macht auf
-Busch durchaus nicht den Strome, als ob sie ängstlich sei.
-Hm Gegenteil. — Jedenfalls: wir gehen zu dem« Rendezvous!
-Und jetzt — zur Blockhütte ...!« Verkleidung
-wäre einschob. Wir werden ja doch beobachtet. Ich habe
-Schon morgens ein paar Leute um unser Grundstück patrouillieren
-sehen, die wir stark nach Spionen aussehen.«
+»Hm — wenn das nur stimmt! *Die* Frau macht auf
+mich durchaus nicht den Eindruck, als ob sie ängstlich sei.
+Im Gegenteil. — Jedenfalls: wir gehen zu dem Rendezvous!
+Und jetzt — zur Blockhütte...! Verkleidung
+wäre zwecklos. Wir werden ja doch beobachtet. Ich habe
+schon morgens ein paar Leute um unser Grundstück patrouillieren
+sehen, die mir stark nach Spionen aussehen.«
 
-Kurz vor ein Uhr nachmittags waren wir zu Ort
-und Eiche. Der in der Nacht gefallene Schnee war größten,
-teils sicher wieder unter den Strahlen der vom fast taktmäßig
-blauen Himmel herabstürzenden Sonne dahiugeschwunden.
+Kurz vor ein Uhr nachmittags waren wir an Ort
+und Stelle. Der in der Nacht gefallene Schnee war größtenteils
+schon wieder unter den Strahlen der vom fast julimäßig
+blauen Himmel herabstürzenden Sonne dahingeschwunden.
 
-Von den Resten der Ballen des Blockhauses war nur
+Von den Resten der Balken des Blockhauses war nur
 noch sehr wenig übrig. Holzgierige Leute hatten wohl schon
 <@pagebreak/>
-ntorgeus weggeschleppt, was wegzuschleppen war, Gelb
-den Zaun hatte man nicht geschont. Nr
+morgens weggeschleppt, was wegzuschleppen war. Selbst
+den Zaun hatte man nicht geschont.
 
-Eine Unmenge Radspuren durchfrenzten die noch vors
-vorhandenen Schneeschanzen, Lenkten waren, nicht Na der
+Eine Unmenge Radspuren durchkreuzten die noch
+vorhandenen Schneeschanzen. Menschen waren nicht in der
 Nähe. Der Platz lag wie ausgestorben da.
 
-Nein — doch nicht ganz einsam
+Nein — doch nicht ganz einsam...
 
-Ein junger, ärmlich gektleideter Bursche mit schaierlger
-Vallonnmüße durchwühlte die Brandstätte mit einen Stak
-und steckte gelegentlich einbog in einen Sack, den er über dem
+Ein junger, ärmlich gekleideter Bursche mit schmieriger
+Ballonmütze durchwühlte die Brandstätte mit einen Stock
+und steckte gelegentlich etwas in einen Sack, den er über dem
 Rücken trug.
 
-»Das Von uns nach aller Gewohnheit vorsichtig genähert
-und. stets hinter Bäumen Deckung genommen baten, waren
-wir von dem jungen Pèéeuscheu noch nicht bemerkt worden.
+Das wir uns nach aller Gewohnheit vorsichtig genähert
+und stets hinter Bäumen Deckung genommen hatten, waren
+wir von dem jungen Menschen noch nicht bemerkt worden.
 
-Harald winkte mir. »Pfeil! stehen,« sagte er leise.
+Harald winkte mir. »Bleib’ stehen,« sagte er leise.
 »Weißt du, wer der »Altertumsforscher« dort ist?« (So
-nennt der Berliner scherzend die Leute, die in den Wille
-bergen nach noch leidlich brauchbaren Dingen suchen.)
+nennt der Berliner scherzend die Leute, die in den
+Müllbergen nach noch leidlich brauchbaren Dingen suchen.)
 
-Ich schaute schärfer hin. He
+Ich schaute schärfer hin.
 
 »Beachte Die Schlappmütze,« fügte Harald noch hinzu.
 
-»Ah — das ist ... ein verkleidetes Weib!« meinte ist
-Die tief ins Genie gezogene Möge verbirgt die
-Dar...«
+»Ah — das ist... ein verkleidetes Weib!« meinte ich
+rasch. »Die tief ins Genick gezogene Mütze verbirgt das
+Haar...«
 
 »Zelestinchen ist’s!« erklärte Harst mit eigentümlicher
-Ironie. »Zelestinchen hat sich, bevor sie sich in diesem - -
-leidtun hierher wagte, vergewissern wollen, ob wir beide
+Ironie. »Zelestinchen hat sich, bevor sie sich in diesem
+Kostüm hierher wagte, vergewissern wollen, ob wir beide
 auch hübsch artig daheim seien. Deshalb läutete sie an,
-deshalb das Rendezvous in Hundekehle! Vastehste, um
-Fang, — — deshalb!! Sie wollte um keinen Preis mit
-uns hier zusaumentresseu. Sie beobachtet auch stets die
+deshalb das Rendezvous in Hundekehle! Vastehste, min
+Jong, — — deshalb!! Sie wollte um keinen Preis mit
+uns hier zusammentreffen. Sie beobachtet auch stets die
 Umgebung nach Süden zu. Daß jemand von Norden her,
-also nicht aus der Bahnhofsrichtung ..…. — Ah — was
-bedeutet das ., 2!«
+also nicht aus der Bahnhofsrichtung... — Ah — was
+bedeutet das...?!«
 
 Wir standen hinter zwei benachbarte dicke Kiefern
-trennt gut gedeckt da Mr
+geklemmt gut gedeckt da...
 
-Wir husten soeben Zelestines Schlappmütze noch über
-die Balkenreste hinwegragen scheu. Nun — — sahen nix
+Wir hatten soeben Zelestines Schlappmütze noch über
+die Balkenreste hinwegragen sehen. Nun — — sahen wir
 <@pagebreak/>
-nichts mehr von ihr— auch nichts von Zelestine selbst,
+nichts mehr von ihr — auch nichts von Zelestine selbst,
 obwohl Harst mich rasch Hinter eine weiter links stehende
-Tauge gezogen halte, von wo wir in die Trümmerstätte
+Tanne gezogen hatte, von wo wir in die Trümmerstätte
 einen besseren Einblick nehmen konnten.
 
-»Verschwunden!« meinte Harald
+»Verschwunden!« meinte Harald...
 
-»Lllordings.« — Ich schaute ihm: unsicher an. Und
-flinke hinzu: Das Blockhaus scheint also Kellerräume gehabt
-zu Haben, und
+»Allerdings.« — Ich schaute ihn unsicher an. Und
+fügte hinzu: Das Blockhaus scheint also Kellerräume gehabt
+zu Haben, und...«
 
-Aha wahrscheinlich noch andere 5...:« Räume,« nickte
+»... wahrscheinlich noch andere... Räume,« nickte
 er, die Ruine drüben im Auge behaltend. »Wir werden
 Zelestine folgen. Vorwärts!«
 
-Nachdem ix uns überzeugt hatten, daß. wir zurecht
-wirklich hier die. einzigen Lebewesen waren, näherten tun
-uns um rasch den Brandresten, fanden auch die oben mit
-Eisenblech benagelte Kesselluke, über der die Asche, Holzreste
-und Schmuck eine nasse schmierige Kruste bildeten, — fanden
+Nachdem wir uns überzeugt hatten, daß wir zurzeit
+wirklich hier die einzigen Lebewesen waren, näherten wir
+uns nun rasch den Brandresten, fanden auch die oben mit
+Eisenblech benagelte Kellerluke, über der die Asche, Holzreste
+und Schmutz eine nasse schmierige Kruste bildeten, — fanden
 unten am Lukendeckel eine Holztreppe von acht Stufen und
-eine Art. Kartoffelkeller, dessen Wände und Decke gleich;falls
-mit Block ärgern verkleidet waren. tun diesem vielleicht drei
+eine Art Kartoffelkeller, dessen Wände und Decke gleichfalls
+mit Blockhölzern verkleidet waren. In diesem vielleicht drei
 Quadratmeter großen Raume standen nichts als zwei riesige
 leere Kisten mit lose aufgelegten Deckeln.
 
 Unserer Taschenlampen neugierige weiße Lichtkegel
-Mitten umsonst in ]eben Winkel. Zelestinchen war nicht da.
-per auf der Treppe waren noch die feuchten Spuren ihrer
-Schuhe sichtbar gewesen, Mithin — gab Es hier eine
-Fortsetzung der unterirdischen Welt. »Die Balkenwände.
-sogen. Sie taten nur so, als sei hier die Welt mit Brettern
-»veritagelt.
+flitzten umsonst in jeden Winkel. Zelestinchen war nicht da.
+Aber auf der Treppe waren noch die feuchten Spuren ihrer
+Schuhe sichtbar gewesen. Mithin — gab Es hier eine
+Fortsetzung der unterirdischen Welt. Die Balkenwände
+logen. Sie taten nur so, als sei hier die Welt mit Brettern
+vernagelt.
 
-Harald war schon eifrig dabei, diesen Geahndet zu eitt-hüften,
+Harald war schon eifrig dabei, diesen Schwindel zu enthüllen,
 wobei er jedes Geräusch vermied.
 
-Die Luke hatten wir hinter uns wieder zugeklappt,
-Wir durften hassen, hier nicht gestört zu. werden. ich des
-trachtete mir denn auch in aller Ruhe die Benn mach:schon
-Asien und zerbrach mir den Klaps, wie man die Dinger durch
-die enge Kesselluke hier binabgehracht haben könnte. Und
+Die Luke hatten wir hinter uns wieder zugeklappt.
+Wir durften hoffen, hier nicht gestört zu werden. ich betrachtete
+mir denn auch in aller Ruhe die beiden mächtigen
+Kisten und zerbrach mir den Kopf, wie man die Dinger durch
+die enge Kellerluke hier hinabgebracht haben könnte. Und
 <@pagebreak/>
-derart angestrengt überlegte Ich mir dies, daß ich Leicht sie
-fammenjuhr, als Harald reife neben mir sagte:
+derart angestrengt überlegte Ich mir dies, daß ich Leicht
+zusammenfuhr, als Harald leise neben mir sagte:
 
-»Es sind HichBocd- Batentliften, mein Alter Ein enge -
-seelisches Patient. Sie Lastete. sich Leicht anseitandenichmen
-und jeder zusammenfügen. Aber — das ist nicht das
-wichtigste. Sich Dir mal da die Aufschriften an...«
+»Es sind Hick-Bock-Patentkisten, mein Alter. Ein englisches
+Patent. Sie lassen sich Leicht auseinandernehmen
+und wieder zusammenfügen. Aber — das ist nicht das
+wichtigste. Sieh Dir mal da die Aufschriften an...«
 
 Ich entzifferte mühelos:
 
-> Ollins, Sydn., Austr. 102
+> Ollins, Sydn., Austrl. 102
 
 auf der einen, und auf der anderen dasselbe, nur statt 102
-stand Da 103. Mnrberbeon War noch Aber diesem Karb-ftenivef
-der Epeditions ¿firma die Menge von lateinischen
+stand Da 103. Außerdem War noch über diesem Farbstempel
+der Speditionsfirma eine Menge von lateinischen
 Buchstaben in blauer Farbe sichtbar, ohne Frage Mit
-Blausüst flüchtig hingemalt.
+Blaustift flüchtig hingemalt.
 
 »Die Kisten stammen aus Australien,« meinte ich kurz.
-»Benn Mir aha kam aus Australien, und
+»Benn Gußfelder kam aus Australien, und...«
 
-Den Rest fragen wir Zelestincen,« — womit Harald
-mich rasch nach links vor Die nördliche Kesselwand schob.
+»Den Rest fragen wir Zelestinchen,« — womit Harald
+mich rasch nach links vor Die nördliche Kellerwand schob.
 
-Hier gab es denn auch eine tadellos versteckt arge!esse
+Hier gab es denn auch eine tadellos versteckt angelegte
 Tür in dem Gebälk, deren Schloß, jedoch nur eingeklinkt
-war. — Harst hob den Klinfenricgel, und stieß die Balkentür
+war. — Harst hob den Klinkenriegel, und stieß die Balkentür
 auf. Dahinter... Finsternis...
 
-Finsternis »…, Valienwände ... Ein enger Gang —
-geradeaus schnnfend, mffin, eisig, faulendes, nasses Laub als
-Ehren aus den roh behauenen Dielen. ».
+Finsternis…, Balkenwände... Ein enger Gang —
+geradeaus laufend, muffig, eisig, faulendes, nasses Laub als
+Streu auf den roh behauenen Dielen...
 
-Und Harald, vor mir schreitend, zog Die Clement ...
+Und Harald, vor mir schreitend, zog Die Clement...
 
-Ein seines Raubten
+Ein feines Knacken...
 
-Die Sicherung sprang zurück. — er
+Die Sicherung sprang zurück. —
 
-Seh tat es ihn nach, Er traute hier dem Aeffchen also
-nicht. Und Zelestinchen traute er am allerweniosten.
+Ich tat es ihn nach. Er traute hier dem Frieden also
+nicht. Und Zelestinchen traute er am allerwenigsten.
 
-Der Gang dar genau 63 Schritt lang.
+Der Gang war genau 63 Schritt lang.
 
-Dann eine Gartentür, ein ohrfeigen kam mit einem
-erlernen Den, dessen Als Augenbinden wahrscheinlich in
-einen hohlen Baum mündete; ein Tisch, Drei Frühe und...
-eine eiserne pralle Aricgélesse, also ein Eisenkasten von
+Dann eine Balkentür, ein viereckiger Raum mit einem
+eisernen Ofen, dessen Abzugsrohr oben wahrscheinlich in
+einen hohlen Baum mündete; ein Tisch, drei Stühle und...
+eine eiserne uralte Kriegskasse, also ein Eisenkasten von
 etwa drei Viertel Meter Höhe, Breite und Länge.
 
-Tau Rot. 24
+Sonst... nichts...
 
 <@pagebreak/>
 
-tote ... —:
+Absolut... nichts... —
 
-wo war Detektiv er!
+wo war Zelestine?!
 
-Harst Lichte sich zu der Kriegskasse hinab. Da
+Harst bückte sich zu der Kriegskasse hinab. Der
 Schlüssel steckte oben im Schlüsselloch, das sich mitten im
 Deckel, zwischen plumpen Verzierungen befand.
 
 Er streckte schon die Hand aus, um den Schlüssel zu
 erfassen...
 
-Mitten in dieser nich Brutalste, sein Arm wie
+Mitten in dieser Bewegung verharrte sein Arm wie
 gelähmt.
 
-Sein Kopf flog herum
+Sein Kopf flog herum...
 
 Nach der Balkentür — nach dem Gange hin...
 
-Und — da Paar die Eile auch schon zugefallen
+Und — da war die Tür auch schon zugefallen...
 
-Da klirrte, kreischte etwas — etwas wie. ein mächtiger
+Da klirrte, kreischte etwas — etwas wie ein mächtiger
 verrosteter Riegel.
 
 Mein Sprung zur Tür hin war eine Reflexbewegung —
-war Die Folge von Haralds jüöher Kopfdrehung, Und doch
+war Die Folge von Haralds jäher Kopfdrehung. Und doch
 kam die Drehung zu spät. Mein Sprung desgleichen. Wir
-waren eingesperrt worden — von Zelestinchen ...!!
+waren eingesperrt worden — von Zelestinchen...!!
 
 Harald nickte mir zu und deutete auf den eisernen
-Kosten:
+Kasten:
 
-»Ein Uhrwerk!« — Das war alles. Sein in
-pustend war die Ergänzung.
+»Ein Uhrwerk!« — Das war alles. Sein Gesichtsausdruck
+war die Ergänzung.
 
-Ich wurde Glas soll. Ich fühlte e es,
+Ich wurde etwas fahl. Ich fühlte es,
 
-Ahnung] quetschte ich heiser hervor. -
+»Attentat?« quetschte ich heiser hervor.
 
 »Ja...«
 
-Er nicke sich langsam auf. sein Blick wanderte an
-dem Ofenecke hoch
+Er richtete sich langsam auf. sein Blick wanderte an
+dem Ofenrohr hoch...
 
-Und seine Taschenlampe enthüllte Hart in der Balkendecke
-ein rundes, mit Eisenblech - Portieren. Loch, durch das
-das Rohr Hindurchlief.
+Und seine Taschenlampe enthüllte dort in der Balkendecke
+ein rundes, mit Eisenblech benageltes Loch, durch das
+das Rohr hindurchlief.
 
-Dann war er schon mit einem Sah auf dem Tische,
-war mit der Rechten wischen Rohr und Blechrand Sir
+Dann war er schon mit einem Satz auf dem Tische,
+war mit der Rechten zwischen Rohr und Blechrand...
 
-Riß beides ab.
+Riß beides ab...
 
-So legte er in der Balkendecke einen Anusscinitt
-her recht Umfangreich war — einen Notmisgang, Bisher
-derber e! durch) Mohr und Scitbicch,  einen sehr schlauen
+So legte er in der Balkendecke einen Ausschnitt frei,
+der recht Umfangreich war — einen Notausgang, Bisher
+verdeckt durch Rohr und Schutzblech. Einen sehr schlauen
 <@pagebreak/>
-NotauLgang — In der Tat! Das merkte ich, als Harald mich
-bineinhob in diese Röhre, als ich bald Steigeisen fühlte —
+Notausgang — in der Tat! Das merkte ich, als Harald mich
+hineinhob in diese Röhre, als ich bald Steigeisen fühlte —
 eingeschlagene Nägel — hier — dort — ganz bequem.
 
 Eine hohle Eiche war’s, uralt. —
 
 In einer nahen Schonung, die mit einer Ecke bis an
-das Waldgrundstück - heranreichte, stand dieser Baum —
-spaßig, spring, und doch ein Helfershelfer von Gaunern, die
-entlud des Stammes als Klapptür Fortstieß
-Gatten.
+das Waldgrundstück heranreichte, stand dieser Baum —
+trutzig, knorrig, und doch ein Helfershelfer von Gaunern, die
+oben ein Stück des Stammes als Klapptür eingerichtet
+hatten.
 
 Ich sprang in den Schnee hinab.
 
-Dame war sofort neben mir — atmete è Ad auf ich
-As
+Harald war sofort neben mir — atmete tief auf und
+sagte:
 
 »Du, das war vielleicht um Bruchteile von Sekunden
-der einzig mögliche verfangt..
+der einzig mögliche Rettungs...«
 
-Er packte meinen Arm. Wir taumelten hin und der,
-Ein Erdbeben schien den Boden: in Wellenform aufzutauchen.
+Er packte meinen Arm. Wir taumelten hin und her.
+Ein Erdbeben schien den Boden in Wellenform aufzustauchen.
 
-Aber alles »ging schnell vorüber. Wir- hatten unter
+Aber alles ging schnell vorüber. Wir hatten unter
 uns nur einen dumpfen Knall gehört, bevor die Erde durch
 die Explosion zu bersten drohte.
 
-»Du schaust blaß darein, mein Aller,« lächelte Harald
-cattmillig, »Schade, das wir keinen Strumpf Fahnden.«
+»Du schaust blaß darein, mein Alter,« lächelte Harald
+gutmütig. »Schade, das wir keinen Kognak dahaben.«
 
-Dann beobachtete er durch die dichten jungen. Gauners
-reihen der Schonung die Brandstätte, von der nur wenig
+Dann beobachtete er durch die dichten jungen Tannenreihen
+der Schonung die Brandstätte, von der nur wenig
 zu bemerken war.
 
 Und rief: »Ah — Zelestine verschwindet gemächlich
-Richtung Bahnhof Eichkamp. .….!: Sie glaubt, wir seien
+Richtung Bahnhof Eichkamp...!: Sie glaubt, wir seien
 nun erledigt. Sie wird sich wundern — sehr wundern!«
 
 Und er drückte mich näher an die Eiche heran, war
-mir Im Nu auf den Schultern und schwang sich oben in
+mir Im Nu auf den Schultern und schwang sich oben in das
 Baumloch hinein.
 
 »Warte — in fünf Minuten bin ich da...«
 
-»Ich komme nicht!« erklärte ich. -
+»Ich komme mit!« erklärte ich.
 
 »Auch gut!«
 
 Er half mir empor.
 
-Wir fanden den Zugang zu bei Raume unten »nie
+Wir fanden den Zugang zu dem Raume unten nicht
 <@pagebreak/>
-versperrt, fanden die Sprenagstüde der Kriegskasse wie Gras
-maisplitter überall in den Ballen sieben, fanden von Tisch
-und Glühten nur noch Trümmer, den gen zerstört, die
-Tür nach neu. Gang hin aus den Angeln geflogen.
+versperrt, fanden die Sprengstücke der Kriegskasse wie
+Granatsplitter überall in den Balken stecken, fanden von Tisch
+und Stühlen nur noch Trümmer, den Ofen zerstört, die
+Tür nach dem Gang hin aus den Angeln geflogen.
 
 Wir wären hier also fraglos in Atome zerlegt worden,
-und ob Mann je entdeckt. hätte, wo Harst und Schraut geblieben,
+und ob man je entdeckt hätte, wo Harst und Schraut geblieben,
 möchte ich bezweifeln.
 
-Harald fügte gar nichts — schritt in den Gang hinein
-— bis zu den beiden Paieutkisten hin.
+Harald sagte gar nichts — schritt in den Gang hinein
+— bis zu den beiden Patentkisten hin.
 
 »Betrachte die blauen Buchstaben,« bat er.
 
-»Dann schrieb er sie ab,
+Dann schrieb er sie ab,
 
-Und dann kehrten wahr durch die Eiche in die Schonung
-Zurück, begaben uns aus Umwegen nach Halensee, fuhren
-ie Freund Bechert, Kriminalkommissar, und entfielen von
-hm, was wir brauchten«
+Und dann kehrten wir durch die Eiche in die Schonung
+zurück, begaben uns aus Umwegen nach Halensee, fuhren
+zu Freund Bechert, Kriminalkommissar, und entliehen von
+ihm, was wir brauchten.
 
 Bechert fragte nichts. Bechert kannte Harald. Der
-hatte ihm nur Agra »Freund Weiß, wir, Schraut und by,
-sind mausetot. Zelestine Drepp Satans abgemurkst — Ok
-Sah fiel Also — spielen wir die Thea
+hatte ihm nur gesagt: »Freund Fritz, wir, Schraut und ich,
+sind mausetot. Zelestine Drepp hat uns abgemurkst — —
+glaubt sie! Also — spielen wir die Toten!«
 
 <@pagebreak/>
 
@@ -2197,7 +2198,7 @@ Erinnert Testen Seh
 nur bemühten nun un die Bewußtlose. Ein Arzt kam.
 Mk nach einer halben Stunde gelang es, Zelestine wieder
 As Leben zurückzurufen, Der Arzt berechnete vollständige
-Schonung, sprach etwas von schwachem Herzmustel, Mor-pbiumfucht
+Schonung, sprach etwas von schwachem Herzmuskel, Morphiumsucht
 und Alkoholismus und deutete zu, daß ein
 dieses Marsche Körpergerüst vollends erledigen
 Erde
