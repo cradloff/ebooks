@@ -1852,199 +1852,202 @@ glaubt sie! Also — spielen wir die Toten!«
 
 <h3>Das goldene Herz.</h3>
 
-um halb vier Uhr nachmittags ging Bechert nicke in.
-an Dienst, und wir waren Alleinherrscher in seiner Seh
-älmmerwohnung.
+um halb vier Uhr nachmittags ging Bechert wieder in
+den Dienst, und wir waren Alleinherrscher in seiner
+Zweizimmerwohnung.
 
-Harald, ausnahmshveise eine Zigarre qualmend, grün
-fabelte über den blauen Buchstaben, saß in der Sage, und
-rief jchlieplich:
+Harald, ausnahmsweise eine Zigarre qualmend, grübelte
+über den blauen Buchstaben, saß in der Sofaecke, und
+rief schließlich:
 
-Nicht Teilt — — nicht leicht!!« —
+»Nicht leicht — — nicht leicht!!« —
 
 Hier sind die Buchstaben. Zunächst die der oberen
+Kiste:
 
-Aha Stroh Jacke Etwa B
-üble R
+<div class="center pre">
+ELLA S ZREV I NEHE K EFUA B
+UBIE R
+</div>
 
-Ich lade den Leser ie ein, diesen ersten Teil
-einer nach Haralds Ansicht für Zelestine bestimmten »Niften-mitteilung«
-uns lösen zu helfen.«
+Ich lade den Leser freundlichst ein, diesen ersten Teil
+einer nach Haralds Ansicht für Zelestine bestimmten
+»Kistenmitteilung« uns lösen zu helfen.
 
 Bitte — doch nicht sofort die geistige Flinte ins Korn
 werfen! Weshalb so gedankenträge sein?! Es ist ja gar
 nicht so schwer — wirklich nicht.
 
-Freilich — ich selbst hab’s ja auch nicht herausgesua-an.
-Es e nich nicht dazu. Aber vielleicht Sie
-Also
+Freilich — ich selbst hab’s ja auch nicht herausgefunden.
+Ich eigne mich nicht dazu. Aber vielleicht Sie...
+Also... —
 
 <@pagebreak/>
 
-Na wenn’s dann so nicht acht, un anders!«
-er Harst mit einem na »Hof! zu: *Alles Vers
-Ideen, Pause bei Du* so E Bad ist die Lösung.«
+»Na wenn’s dann so nicht geht, geht’s anders!«
+brummelte Harst mit einem Male. »Hör’ zu: *Alles verziehen,
+Kaufe bei Bur...* — das ist die Lösung.«
 
 Allerdings — Das war sie: erste vier Buchstaben von
-hinten lesen und den. fünften alleinstehenden anhängen, er-’
-gibt »*alles*«, dann in derselben Art weiter...
+hinten lesen und den fünften alleinstehenden anhängen, ergibt
+»*alles*«, dann in derselben Art weiter...
 
-Verblüffend | einfach und verdammt [einer scheinend!
-also Brust!! —
+Verblüffend einfach und verdammt schwer scheinend!
+Also Bluff!! —
 
 Und die Buchstaben der zweiten Kiste ergänzten den
 Anfang zu:
 
-»Alles verziehen. Kaufe firm er Medaillon.
-Unter Pasliellbild.«
+»Alles verziehen. Kaufe bei Burky goldenes Medaillon.
+Unter Pastellbild.«
 
 Das war alles.
 
-Es genügte uns. an Harst nahm das Adreßbuch vor
-wo fand;
+Es genügte uns. — Harst nahm das Adreßbuch vor
+und fand:
 
 Burky, Nathan, Juwelier, Auguststr. 328, Norden.
 
-»Aha —’ Herr Nathan Burky!« lächelte er. »Nun besinne
-ich mich, - Burky, der wie zu fassende Großhehlerl —
+»Aha — Herr Nathan Burky!« lächelte er. »Nun besinne
+ich mich. Burky, der nie zu fassende Großhehler! —
 Los — hin zu ihm!«
 
 So zogen denn zwei Herren, die uns beiden durchaus
-nischt glichen, sondern mehr den Stammgästen fragwürdiger
-Käfers aus. der Gegend Grenabterftrnge, gen Norden
-und betraten einzeln den winzigen Lasten Nathan Harsts,
-der Hinter dem Verkaufstisch noch durch ein Schupgitter
-gesichert war, Harst ging als erster hinein. Wir taten,
+nicht glichen, sondern mehr den Stammgästen fragwürdiger
+Cafees aus der Gegend Grenadierstraße, gen Norden
+und betraten einzeln den winzigen Laden Nathan Burkys,
+der Hinter dem Verkaufstisch noch durch ein Schutzgitter
+gesichert war. Harst ging als erster hinein. Wir taten,
 als kannten wir uns nicht.
 
-Harsts ehrwürdiges Greisengesicht mit den Habichtis-er
-unter Diesen treiben Brauen wandte sich mir zu.
+Burkys ehrwürdiges Greisengesicht mit den Habichtsaugen
+unter Diesen weißen Brauen wandte sich mir zu.
 
-»Und Sieh« fragte
+»Und Sie?« fragte er.
 
-»Uhrkette 2,.« — Ich reichte hm meine Uhrkette.
+»Uhrkette...« — Ich reichte ihm meine Uhrkette.
 
 »Woher?«
 
 »Jefunden — vor zwee Jahre,« erklärte ich.
 
-Er schüttelte den Kopf. »So was mach ich nich Da
-Mogeln Se man wieder
+Er schüttelte den Kopf. »So was mach ich nich. Da
+— gehn Se man wieder...«
 
 Ich blieb. »Ich wollt ein Medaillon kaufen für meine
-Braut,« faule ich vereinbarungdgemäß.
+Braut,« sagte ich vereinbarungsgemäß.
 
 <@pagebreak/>
 Sein Gesicht veränderte sich jäh.
 
-Argwohn obenan in den Habichtsaugen auf, Seine
+Argwohn glomm in den Habichtsaugen auf. Seine
 Lippen wurden noch dünner. Seine Blicke flogen von Harst
-zu mir, von mir zu Harst. Hab wir beiden kümmerten Mr
-nicht einen Deut aneinander.
+zu mir, von mir zu Harst. Und wir beiden kümmerten uns
+nicht einen Deut umeinander.
 
 »Auch e Medaillon,« brummelte Nathan. »Auch e
-Medaillon. Mach’ der bist! e goldene Uhr zu, der e goldene
+Medaillon. Und der biet’ e goldene Uhr an, der e goldene
 Kett’. — Macht, daß Ihr kommt hinaus, Ihr beide!«
 
-»Mensch, Hatte denn wahrhaftig keene Medaillons
-nich? 1» platte Harst heraus. »Wir brauchen se! Unbedingt!
-Zweck mit Pastellbilder — goldene Medaillons.« Er
-zwinkerte mich zu. »Sichere, Edewacht, der Burky riecht’s,
-det hier wat M Also — u mit die Ehrlichkeit, Also,
-Burxkychen, reich! sie uns, die Medaillöner, Mensch!« Her
+»Mensch, haste denn wahrhaftig keene Medaillons
+nich?!« platzte Harst heraus. »Wir brauchen se! Unbedingt!
+Zwee mit Pastellbilder — goldene Medaillons.« Er
+zwinkerte mich an. »Siehste, Edewacht, der Burky riecht’s,
+det hier wat stinkt. Also — nu mit die Ehrlichkeit, Also,
+Burkychen, leih’ sie uns, die Medaillöner, Mensch!«
 
-Der Alte fiel darauf hinein. »Was wollt Ihr damit —.
+Der Alte fiel darauf hinein. »Was wollt Ihr damit —
 he?« meinte er heimtückisch — gierig.
 
-Harst lachte aus. »Det kennt Dir so passen, Burky! Ne
+Harst lachte auf. »Det kennt Dir so passen, Burky! Ne
 — jeredt wird nischt! Also — jibste se oder nich? Wir
-Gasen Uhr und Kette als Pfand hier, vastehste, und morgen
-hast de die Medaillöner zurück und Traben Schutt (Geiz)
+lassen Uhr und Kette als Pfand hier, vastehste, und morgen
+hast de die Medaillöner zurück und ’n Batzen Schutt (Geld)
 dazu — vastehste!«
 
-ansehn... ein nen 0 — Der Hehler
-ihiwantie, »E komische Sach’ ...1 Es 9 Se schon
-was los mit As
+»Hm — hm... ein Medaillon...« — Der Hehler
+schwankte. »E komische Sach’ ...! Es war heit’ schon
+was los mit ’n...«
 
-Da schwieg er, Er hatte fraglos sagen wollen: »... mit
-Medaillon«, und halte also auf Zelestine angespielt.
+Da schwieg er. Er hatte fraglos sagen wollen: »... mit
+’n Medaillon«, und hatte also auf Zelestine angespielt.
 
 Jetzt — — hatten *wir* ihn!!
 
-Jetzt sagte Harald grinsend: »Mensch,. det Medaillonjeschäft
-mit det Mäjen hätt’s de ooch schlauer drein Wach
+Jetzt sagte Harald grinsend: »Mensch, det Medaillonjeschäft
+mit det Mäjen hätt’s de ooch schlauer drehn kenn’n
 Du! Da war mehr zu vadienen, Du!«
 
-Nathan unterlag Harstschen Gerissenheit.
+Nathan unterlag Harstscher Gerissenheit.
 
-»Spott Vieler Kennst de det Freilein?« zischte Buch
-hastig:
+»So?! Mehr? Kennst de det Freilein?« zischte Burky
+hastig.
 
-»Und ob! Zelestine Drepp heeßt den
+»Und ob! Zelestine Drepp heeßt se...«
 
-wie?! Zelestine ... Treppe« ob
+»wie?! Zelestine... Drepp?«
 
-Na — zu man nich so, Nathan!! Det ist doch die
+»Na — tu man nich so, Nathan!! Det ist doch die
 <@pagebreak/>
-Freindin von! den Austral Apfel. M  von mich
-Bennararáà, Du!« -.
+Freindin von den Austral-Josef. Du, — von ’n Josef
+Bennarara, Du!«
 
-Burky hüstelte. Wi
+Burky hüstelte...
 
-»Bennarara?! Unbekannt!« Er Nr Sag die Achseln,
+»Bennarara?! Unbekannt!« Er zuckte dazu die Achseln,
 
 Und dann — ließ Harald jäh die Maske fallen.
 
-Richtete sich straffer auf. Seine Stimmewarb, Stahl,
+Richtete sich straffer auf. Seine Stimme ward Stahl,
 jedes Wort ein Hieb:
 
-Ich bin Harald Harst, Herr Burky, - und. draußen
+Ich bin Harald Harst, Herr Burky, und draußen
 stehen vier Kriminalbeamte. Sie haben die Wahl, sich sofort
-verlassen zu lassen oder uns die Wahrheit A Ne so
-scheiden Sie sich! Rast!«
+verhaften zu lassen oder uns die Wahrheit zu sagen.
+Entscheiden Sie sich! Rasch!«
 
-Ein Blick unsäglicher Wut traf uns. er
+Ein Blick unsäglicher Wut traf uns.
 
-nu — die Wahrheit!« geiferte der: ge. ne
+»Nu — die Wahrheit!« geiferte der Alte.
 
-»Schön. — Wann brachte Bennarara Ihnen das ne
-reiten, nk was sagte er dazu?«
+»Schön. — Wann brachte Bennarara Ihnen das Medaillon,
+und was sagte er dazu?«
 
-»Heute Früh gegen neun Uhr. Er sagte, das ‘Mebvalllon
-würde. einer Dame Vertuschen: die a! Land Mem fragen
+»Heute früh gegen neun Uhr. Er sagte, das Medaillon
+solle ich einer Dame übergeben, die nach einem solchen fragen
 würde.«
 
-»Wie sah es aus?« A Ne Tau
+»Wie sah es aus?«
 
-»68 hatte Herzform und sich sich nein öffnen. Eines,
-war ein Pastellbildchen,. einen Kinderkopf darstellend., Zu
+»Es hatte Herzform und ließ sich nein öffnen. Innen
+war ein Pastellbildchen, einen Kinderkopf darstellend.
 
-»Sanft nichts?« Rat
+»Sonst nichts?«
 
-Bestimmt nicht.« - Mr
+»Bestimmt nicht.«
 
-»Drei, Sie das Bild) eranbgebobenf«
+»Haben Sie das Bild herausgehoben?«
 
 »Ja.«
 
-Lau ich es war nichts. darunter?« In
+»Und es war nichts darunter?«
 
-»Nur ein rotes Stückchen Seide in Setpformr re
+»Nur ein rotes Stückchen Seide in Herzform.«
 
-»Danke, — Sollten Sie uns belügen, so haben Sie
-edle Folgen zu tragen. — Woher kennen Sie Bennarara?«
+»Danke. — Sollten Sie uns belügen, so haben Sie
+die Folgen zu tragen. — Woher kennen Sie Bennarara?«
 
-»Er wollte mir sen paarmal Steine, singen
-minderwertige.«; 1 Oh
+»Er wollte mir ein paarmal Steine anschmieren,
+minderwertige.«
 
 »Näher kennen Sie ihn nicht?«
 
 »Bei Gott — nein!«
 
-»Wissen Sie, daß er einen Hobpelgänger hatte
+»Wissen Sie, daß er einen Doppelgänger hat?«
 
-Burky riß die Augen auf. ad Geangelt I, Wie...
-wie meinen Sie basti«
+Burky riß die Augen auf. »Doppelgänger?! Wie...
+wie meinen Sie das?!«
 
 <@pagebreak/>
 »Schon gut... Wo wohnt Bennarara? Mit wem
@@ -2054,148 +2057,146 @@ verkehrt er?«
 
 Wir verließen den Laden.
 
-Als wir in die Friedrichstraße einbogen; rief Harst ein
+Als wir in die Friedrichstraße einbogen, rief Harst ein
 Auto an. — »Krokodil-Bar, Augsburger,« befahl er.
 
-Im Auto Sehnte er sich an mich. »Nun wird Zelestinchen
-ihr güsdenes Herzchen hergeben müssen,« meinte er.
+Im Auto lehnte er sich an mich. »Nun wird Zelestinchen
+ihr güldenes Herzchen hergeben müssen,« meinte er.
 »Armes Zelestinchen! Du wirst diese Nacht in einer Polizeistelle
-zubringen! ».-
+zubringen!«
 
 Dann schrieb er rasch ein paar Zeilen für den langen
-Doktor Vogler, stete sie in einen Umschlag und schickte den
+Doktor Vogler, steckte sie in einen Umschlag und schickte den
 Brief nachher durch das Auto zum Präsidium.
 
-Es war dreiviertel sechs Uhr, als wir die Bar betraten. -
+Es war dreiviertel sechs Uhr, als wir die Bar betraten.
 Wir wollten hier die »Weaner Galgenvögel« spielen.
 
-»Sprung, Frailain, Servus »1»
+»Servus, Frailain, Servus...!«
 
-Beseitige thronte hinter dem Bartisch — einsam im
+Zelestine thronte hinter dem Bartisch — einsam im
 einsamen Raume.
 
-»n Abend,« sagte lie maulfaul.
+»’n Abend,« sagte sie maulfaul.
 
-an ihrem Halse an goldenem Kettchen hing Adel
+an ihrem Halse an goldenem Kettchen hing... das
 Medaillon.
 
 Harst hopste auf den hohen Stuhl, schob den Hut ins
-Rente
+Genick.
 
-»Also — da sag A Frailain ..…. Nu wird’s ne
-wirklich, Frailain ;.. N Jetzt wollen wir... Und
-Weaner Walzer ....«
+»Also — da sag wir Frailain... Nu wird’s gemietlich,
+Frailain... A Sekt wollen wir... Und a
+Weaner Walzer...«
 
 Zelestine taute auf. Gäste, die was springen ließen,
 waren ihr willkommen.
 
 Keine Ahnung hatte sie, daß die beiden Weaner dieselben
 waren, die jetzt eigentlich zu Gulasch zerteilt bei
-Eichkamp vier Meter unter der Erde liegen sollten ...
+Eichkamp vier Meter unter der Erde liegen sollten...
 
-Sie Tante noch mehr auf. Sie mengte uns nach Strich
+Sie taute noch mehr auf. Sie neppte uns nach Strich
 und Faden,
 
-Harst sah nach) der Uhr. Er wollte feststellen, ob Vogler
+Harst sah nach der Uhr. Er wollte feststellen, ob Vogler
 mit seiner Garde bereits zur Stelle sein könne.
 
-Er gab mir heimlich ein Zeichen. — Brausen hatte
+Er gab mir heimlich ein Zeichen. — Draußen hatte
 <@pagebreak/>
-jemand auf einer Kinderffäte ein paar: Takte e gespielt. nich
-ich Halle dies Signal gehört. Zum
+jemand auf einer Kinderflöte ein paar Takte gespielt. Auch
+ich hatte dies Signal gehört.
 
-Nun konnten wir also beginnen. ja
+Nun konnten wir also beginnen.
 
-So... 5 halte« plötzlich die Clement in der Lug,
+Ich... hatte plötzlich die Clement in der Hand,
 sagte nur:
 
-»Kräuseln Drepp, der Eisenkasten, Gast grüßen!: Wenn
-Ehrlich rühren,. drücke ich ab...« (Was ich natürlich
+»Fräulein Drepp, der Eisenkasten läßt grüßen! Wenn
+Sie sich rühren, drücke ich ab...« (Was ich natürlich
 *nicht* getan hätte!)
 
-Ñ 4 | Und Harst — griff a, riß ihr: ins Medaillon. vom
+Und Harst — — griff zu, riß ihr das Medaillon vom
 Halse...
 
-Sie gar tatsächlich mehr tot als lebendig. Sie erstere
-sich nicht.. Sie ächzte nur — so Rat Korridor ob
-wahnsinnige Schmerzen. ı.
+Sie war tatsächlich mehr tot als lebendig. Sie rührte
+sich nicht. Sie ächzte nur — so etwa, als unterdrücke sie
+wahnsinnige Schmerzen.
 
 Drei Herren betraten die Bar. —
 
-Zelestine Drepp fuhr zwischen: uns der nächsten voller
-wache zu. Vogler blieb im Krokodil und warnte konntet,
+Zelestine Drepp fuhr zwischen uns der nächsten Polizeiwache
+zu. Vogler blieb im Krokodil und warnte den Wirt,
 ja nichts von Zelestinens Verhaftung laut werden zu lassen.
 
-Auf der Wache fand sich Dann auch. Vogler ein. und
-da erst begann Harald, die Drepp ins. Gebet Du nehmen.
+Auf der Wache fand sich Dann auch Vogler ein. und
+da erst begann Harald, die Drepp ins Gebet zu nehmen.
 
-»Sie waren heute nachmittag o den Trümmern der
-Vorhätte Bennararas,« begann »Verfangen hatte
-reglos aufgetragen, telephonisch, nicht Bein:
+»Sie waren heute nachmittag bei den Trümmern der
+Blockhütte Bennararas,« begann er. »Bennarara hatte
+Ihnen dies aufgetragen, telephonisch, nicht wahr?«
 
 »Ja...«
 
-»Lastauto er u Ihnen ..
+»Was sagte er zu Ihnen?«
 
-was Sie schlafen, Er € Gesicht bekam Farbe. Ihre Augen
-Reben »Und. Uderslandskraft,
+Sie schwieg. Ihr Gesicht bekam Farbe. Ihre Augen
+Leben und Widerstandskraft,
 
-Wenn Sie’ nicht sprechen, wird die Geschichte mit der
-eisernen Stifte von mir hier dem Herrn Kommissar - ohne
-»Jede Nachsicht vorgetragen werden, Fräulein Drepp,« riß
-Harald eisig. »Andernfalls werde As Ne daß
-ein. versehen vorlag ... — ah
+»Wenn Sie nicht sprechen, wird die Geschichte mit der
+eisernen Kiste von mir hier dem Herrn Kommissar ohne
+jede Nachsicht vorgetragen werden, Fräulein Drepp,« meinte
+Harald eisig. »Andernfalls werde ich annehmen, daß...
+ein Versehen vorlag... — Also...«
 
-Sie atmete keuchend
+Sie atmete keuchend...
 
-Er +... er fegte, ich Oh ich würde: alt den Kisten
-Nachricht finden. Mehr dürfe er mir nicht. durch den Fern
-vrechermitisifen
+»Er... er sagte, ich... ich würde auf den Kisten
+Nachricht finden. Mehr dürfe er mir nicht durch den Fernsprecher
+mitteilen...«
 
-»Sie Ware mit ihm meins Eilanden uns Orten
+»Sie waren mit ihm uneins geworden — aus Eifersucht?
 <@pagebreak/>
-sucht? — Und Sie wollten den kleinen Hund ertränken und
-die Ebdeffteine ...«
+— Und Sie wollten den kleinen Hund ertränken und
+die Edelsteine...«
 
 Wieder war sie leichenblaß geworden.
 
-die Edelsteine, die dem Studenten Sigurd Tomsör
-gehört hatten, für immer verschwinden. lassen ... — Hat
-Bennarara Zomsför ermordet?«
+»... die Edelsteine, die dem Studenten Sigurd Tomsör
+gehört hatten, für immer verschwinden lassen... — Hat
+Bennarara Tomsör ermordet?«
 
-» + »Ja ..« Nur gehorcht, das Ja, nur arge
-deutet
+»... Ja...« Nur gehaucht, das Ja, nur angedeutet...
 
-»Haben Sie Tomsör mit Bennarara bekannt gemacht ?»
+»Haben Sie Tomsör mit Bennarara bekannt gemacht?«
 
 Sie begann zu zittern. Ihr Unterkiefer flog. Ein
-Aendere)ach drohte. Vogler reichte ihr rasch Kognak.
+Nervenschock drohte. Vogler reichte ihr rasch Kognak.
 
 Dann beichtete sie: Bennarara hatte Tomsör wiederholt
-hypnotisiert, hatte ihm. schließlich ohne ihr Wissen in der
-Hypnose den Befehl gegeben, sich dann und dann zu er.
-schießen. Diesem fsogenannten posthypnotischen Befehl war
-der Student auch wirklich nachgekommen, übrigens eine u1-heilvolle
-Wirkung suggestiver Art, deren Möglichkeit viel umkreisten
-ist, — Bennarara hatte dann durch Zelestine die
+hypnotisiert, hatte ihm schließlich ohne ihr Wissen in der
+Hypnose den Befehl gegeben, sich dann und dann zu erschießen.
+Diesem sogenannten posthypnotischen Befehl war
+der Student auch wirklich nachgekommen, übrigens eine unheilvolle
+Wirkung suggestiver Art, deren Möglichkeit viel umstritten
+ist. — Bennarara hatte dann durch Zelestine die
 Diamanten aus dem Versteck abholen lassen, wo Tomsör sie
-verborgen gehabt hatte, weil: er in seiner Wohnung nicht
-solche Worte unterbringen mochte. Noch hatte Zelestine die
+verborgen gehabt hatte, weil er in seiner Wohnung nicht
+solche Werte unterbringen mochte. Noch hatte Zelestine die
 Wahrheit nicht geahnt. Erst eine Bemerkung Bennararas
-ließ jäh den Verdacht ir. ihr aussteigen, daß hier ein der
-brechen vorläge
+ließ jäh den Verdacht in ihr aufsteigen, daß hier ein Verbrechen
+vorläge...
 
 Was sie noch weiter aussagen wollte, hörten wir von
-anderen Lippen, Zelestine folgst brach plötzlich ohnmächtig
-gusamme11.
+anderen Lippen. Zelestine selbst brach plötzlich ohnmächtig
+zusammen.
 
 <@pagebreak/>
-Erinnert Testen Seh
 
 <h2>4. Kapitel.</h2>
 <h3>Das Krähennest.</h3>
 
-nur bemühten nun un die Bewußtlose. Ein Arzt kam.
+Wir bemühten nun un die Bewußtlose. Ein Arzt kam.
 Mk nach einer halben Stunde gelang es, Zelestine wieder
 As Leben zurückzurufen, Der Arzt berechnete vollständige
 Schonung, sprach etwas von schwachem Herzmuskel, Morphiumsucht
@@ -2552,7 +2553,7 @@ Villa in der Bismarckstraße war. — Wie ich darauf ge
 formen, fragen Sie? Burky den *getippten* Brief, Woher
 Freund! Welcher Mann von Bildung Wird einer Dame
 einen solchen Brief schreiben« —« mit Maschine, selbst die
-Namenöunterschrift k! Und Fräulein von Perwart hatte
+Namenöunterschrift K! Und Fräulein von Perwart hatte
 noch nie von ihrem Verlobten einen getippten Brief er
 halten, betonte sie. — So entstand der erste Verdacht. So
 Elefant eins zum anderen. — In übrigen bin ich roch! gespannt,
