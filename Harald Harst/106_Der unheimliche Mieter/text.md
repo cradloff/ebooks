@@ -8,137 +8,137 @@
 
 <h3>Zwei Männer und zwei Säcke Gold,</h3>
 
-Fräulein von Perwart, die Braut Dr, Gußfelders,
+Fräulein von Perwart, die Braut Dr. Gußfelders,
 hatte uns zum Abendessen eingeladen. Daß die Stimmung
-unserem kleinen Kreise nach den Ereignissen der verslosse
+in unserem kleinen Kreise nach den Ereignissen der verflossenen
 Nacht sehr ernst und auch etwas gedrückt war, konnte
-nicht weiter Wunder nehmen, Gußfelders Zwillingsbruder,
-Diamantendieh und Hochstapler, war durch Kriminalkommissar
-Vogler erschossen worden. Heute. nun sollten
-rx aus dem Munde Denn Gußfelders, des ehemaligen
-historischen Diggers (Goldgräbers), die Geschichte seiner
+nicht weiter Wunder nehmen. Gußfelders Zwillingsbruder,
+Diamantendieb und Hochstapler, war durch Kriminalkommissar
+Vogler erschossen worden. Heute nun sollten
+wir aus dem Munde Benn Gußfelders, des ehemaligen
+australischen Diggers (Goldgräbers), die Geschichte seiner
 Abenteuer im fünften Erdteil hören — eine Geschichte, die
 fraglos recht merkwürdig sein würde,
 
 Wir saßen zu sechs bei Tisch: Fräulein von Perwart,
-ren Gesellschafterin Frau Rohrer, Gußfelder, Vogler, Harst
-und ich, Nach der Mahlzeit begaben wir uns in den Salon,
+deren Gesellschafterin Frau Rohrer, Gußfelder, Vogler, Harst
+und ich. Nach der Mahlzeit begaben wir uns in den Salon,
 wo Benno Gußfelder dann unaufgefordert folgendes erzählte.
 (Ich beschränke mich hier auf das Allernotwendigste.)
-Die Eltern der Zwillingsbrüder Benno und Josef Guß
-der wohnten in Stettin. Der Vater - war Rann
+Die Eltern der Zwillingsbrüder Benno und Josef Gußfelder
+wohnten in Stettin. Der Vater war Kaufmann.
 <@pagebreak/>
-Hofes machte schon auf der Schule allerhand Dummheiten,
+Josef machte schon auf der Schule allerhand Dummheiten,
 verstand es aber stets, die Eltern für sich einzunehmen und
 alle Schuld auf den stillen, strebsamen Bruder abzuwälzen,
 den er als seinen Verführer hinstellte, wobei ihm sehr zustatten
 kam, daß Benno viel zu stolz war, sich irgendwie zu
 verteidigen oder etwa den Eltern zu beweisen, daß lediglich
-Josefs Jutrigantennatur so vortrefflich aus schwarz weiß
-¿zu machen wußte. Kurz — für Josefs Schwächen wurde
+Josefs Intrigantennatur so vortrefflich aus schwarz weiß
+zu machen wußte. Kurz — für Josefs Schwächen wurde
 stets ein Prügeljunge gesucht: Benno!
 
-Als Josef, dieser Nichiénus, dann mit neunzehn Jahren
+Als Josef, dieser Nichtsnutz, dann mit neunzehn Jahren
 sogar den Vater bestahl und mit einer großen Summe verschwand,
 wiederholte sich dasselbe klägliche Spiel: Benno
 mußte, verfolgt von der Abneigung der Eltern, zu einem
 Onkel ziehen und hier bis zum Abschluß seiner Studien —
 er hatte Chemie studiert — bleiben. in demselben Monat,
-als er in Rosiges zum Doktor der Philosophie pronovierte,
+als er in Rostock zum Doktor der Philosophie promovierte,
 traf endlich nach fünf Jahren die erste Nachricht von dem
 Verschollenen ein: Josef Gußfelder war in Südaustralien
 als Straßenräuber verhaftet und mit zehn Jahren Zuchthaus
 bestraft worden.
 
 Die Affenliebe dieses blinden Elternpaares war noch
-immer nicht erstorben. Noch immer galt ihnen Josef als«
-Opfer der Ränke Bennos, als Verführten! Und nun, da
-der Unselige bis zum Zuchthäusler gesunken, verlangten sie.
-nichts anderes, aha daß Benno dem Bruder zur Freiheit
-mieden verhüllte.
+immer nicht erstorben. Noch immer galt ihnen Josef als
+Opfer der Ränke Bennos, als Verführter! Und nun, da
+der Unselige bis zum Zuchthäusler gesunken, verlangten sie
+nichts anderes, als daß Benno dem Bruder zur Freiheit
+wieder verhülfe.
 
-Ein solches Verhalten erscheint Trinkbar. Aber die
+Ein solches Verhalten erscheint unfaßbar. Aber die
 Einzelheiten, mit denen Dr. Gußfelder uns die Geschichte
-seines Martyriums als stetig zurückgeseßtes Kind begreiflich
+seines Martyriums als stetig zurückgesetztes Kind begreiflich
 machte, genügten vollauf, jeden Zweifel an der Wahrheit
 seiner Angaben zu zerstreuen.
 
 Seine Mutter drohte ihm mit ihrem Fluche, wenn er
 Josef nicht befreite. Sein Vater behandelte ihn mit eisiger
-Nichtachtung. Nicht S konnte dickem blinden, verblendeten
+Nichtachtung. *Nichts* konnte diesem blinden, verblendeten
 Elternpaar die Augen öffnen.
 
-So entschloß Dr. Gußfelder ich denn, seelisch wollenen
+So entschloß Dr. Gußfelder sich denn, seelisch vollkommen
 <@pagebreak/>
-zermürbt und fast lebensühbecrdrüssig, die Reife nach
+zermürbt und fast lebensüberdrüssig, die Reise nach
 Australien zu wagen, mochte daraus für ihn selbst entstehen
-As da wollte,
+was da wollte,
 
 In Sydney, der westaustralischen Hafenstadt, landete
-im April 1913, damals dreiundzwanzig Jahre alt. Ein
-[bei Jahr ging hin, bis er in Erfahrung gebracht, daß
+er im April 1913, damals dreiundzwanzig Jahre alt. Ein
+halbes Jahr ging hin, bis er in Erfahrung gebracht, daß
 Josef mit einer Kolonne anderer Sträflinge in dem staatlichen
 Goldbergwerk von Pindakroa mitten in der Wildnis
-der Lot: Berge in der Verhaftete von Neu-Süd-Mantel arbeitete,
+der Ley-Berge in der Nordostecke von Neu-Süd-Wales arbeitete,
 
-0s Er Schloß sich einem Trupp Digger an, wurde selbst
+Er schloß sich einem Trupp Digger an, wurde selbst
 Goldsucher und gelangte schließlich in die Nähe der sog.
-Lot-Minen, wo auch verschiedene offene Fundstellen von
+Ley-Minen, wo auch verschiedene offene Fundstellen von
 Privatleuten bearbeitet wurden,
 
 Wieder verstrichen viele Monate, bevor er seinen Bruder
 auch nur zu Gesicht bekam. Dann brach der Weltkrieg
 aus. Um als Deutscher nicht interniert zu werden, flüchtete
-Doktor Gußfelder mit zwei anderen Landsleuten noch dieser
-ins Dünnere Australiens. Die drei hausten dann volle sechs
+Doktor Gußfelder mit zwei anderen Landsleuten noch tiefer
+ins Innere Australiens. Die drei hausten dann volle sechs
 Jahre am Ufer eines Salzsees, hatten jedoch insofern Glück,
-Male sie eine reiche Mine fanden und Gold in- großen Mengen
-herauswuschen. — 1920 nahm Benno ’Gußfelder seine Bemühungen
+als sie eine reiche Mine fanden und Gold in großen Mengen
+herauswuschen. — 1920 nahm Benno Gußfelder seine Bemühungen
 wieder auf, den Bruder zu befreien. Ein paar
-lieblose Briefe seiner Eltern formten seinen Eifer, dem
+lieblose Briefe seiner Eltern spornten seinen Eifer, dem
 Sträfling zur Flucht zu verhelfen, um so mehr an, als er
 nun ja genügend Mittel besaß, auch mit Bestechung sein
-Heil zu versuchen, Nach außen hin war er der arme, abgerissene
-Digger geblieben, schiffte Mieder in der Nähe
-der Lot-Mine nach Gold und brachte es auch wirklich fertig,
-sich mit Josef in Verbindung zu fegen,
+Heil zu versuchen. Nach außen hin war er der arme, abgerissene
+Digger geblieben, schürfte wieder in der Nähe
+der Ley-Mine nach Gold und brachte es auch wirklich fertig,
+sich mit Josef in Verbindung zu setzen,
 
-Dezember 1921 gelangte dann ein von Benno entiworfes
-ner Fluchtplan zur Ausführung, Alles ging gut, Die Brüder
-bestiegen in Melbourne einen Kutter, den Dr. Guß-Bi
-getauft hatte, erreichten damit einen norwegischen
-rachtbampfer und trafen im Februar 1922 in Stettin ein.
+Dezember 1921 gelangte dann ein von Benno entworfener
+Fluchtplan zur Ausführung. Alles ging gut. Die Brüder
+bestiegen in Melbourne einen Kutter, den Dr. Gußfelder
+gekauft hatte, erreichten damit einen norwegischen
+Frachtdampfer und trafen im Februar 1922 in Stettin ein.
 
-Hier waren jedoch die beiden alten Gußfelders Kies
+Hier waren jedoch die beiden alten Gußfelders kurz
 <@pagebreak/>
-vorher und kurz hintereinander der Grippe erlegen, Am
-Grabe der Eltern sollte nun Der Ichrantenlofe Haß, Den der
-moralisch verkommene loses Gußfelder noch immer rasches
-heim gegen den Bruder hegte, erneut um Ausbruch kommen,
+vorher und kurz hintereinander der Grippe erlegen. Am
+Grabe der Eltern sollte nun der schrankenlose Haß, Den der
+moralisch verkommene Josef Gußfelder noch immer insgeheim
+gegen den Bruder hegte, erneut zum Ausbruch kommen.
 Als Benno ihm über das Grab hin die Hand hinstreckte,
-als er ihn Bai, daß sie nun fernerhin wahrhaft als Brüder
-miteinander leben wollten, stieß Josef die Bruderhand hohns-lachend
+als er ihn bat, daß sie nun fernerhin wahrhaft als Brüder
+miteinander leben wollten, stieß Josef die Bruderhand hohnlachend
 zurück, überhäufte den ob solcher Undankbarkeit völlig
 Sprachlosen mit den alten erlogenen Vorwürfen und verlangte,
-daß Benno ihm die Hälfte seines in Australien er-Wworbenen
-Vermögens abirrten sollte — als Sühnegeld!!
+daß Benno ihm die Hälfte seines in Australien erworbenen
+Vermögens abtreten sollte — als Sühnegeld!!
 
 So kam es denn natürlich zwischen den beiden zu
-einem völligen Boy. Dr. Gußfelder ging nach Berlin und
+einem völligen Bruch. Dr. Gußfelder ging nach Berlin und
 brachte es hier rasch zu einer angesehenen Stellung. Inwiefern
 ihm die Rache seines nichtswürdigen Zwillingsbruders
 dann fast Ehre und Ansehen gekostet, habe ich im
-vorigen Band («Das Paket im Urbanhafen«) erzählt.
+vorigen Band (»Das Paket im Urbanhafen«) erzählt.
 
 Dieser Verbrecher Josef Gußfelder, ein Mensch, der von
-Jugend an Heuchler, Schmeichier, Komödiant und Schlimmeres
+Jugend an Heuchler, Schmeichler, Komödiant und Schlimmeres
 gewesen, hatte nun endlich den Lohn all seiner Untaten
 empfangen. Wir aber, die wir im Salon Thea von
 Perwarts diese gewiß nicht alltägliche Lebensgeschichte
-Benno Gußfelders mit angehört hatten, befanden uns noch,
-minztenlang nach Beruhigung keines Berichts derart im
-Dann des Soeben Mernomimenen, Daß wir regungslos dar
-saßen und den schlanken Mann scheu umblickten, der See
+Benno Gußfelders mit angehört hatten, befanden uns noch
+minutenlang nach Beendigung seines Berichts derart im
+Bann des soeben Vernommenen, daß wir regungslos dasaßen
+und den schlanken Mann scheu anblickten, der sechs
 endlose Jahre dort in der australischen Wildnis mit zwei
 Gefährten gehaust Hatte — mit zwei Landsleuten, die er
 nur flüchtig erwähnt hatte.
@@ -149,14 +149,14 @@ wendend, hinzu:
 
 »Nun möchte ich noch etwas mit ihnen besprechen,
 lieber Herr Harst, — etwas, das meine damaligen Gefährten
-vom Bullobaki-Salzsee betrifft ...«
+vom Bullobaki-Salzsee betrifft...«
 
 <@pagebreak/>
-Er Pikante sinnend den Nauchiwöltben seiner Zigarre
-nach, Die sich über ihm in nichts auslösten ...
+Er schaute sinnend den Rauchwölkchen seiner Zigarre
+nach, Die sich über ihm in nichts auflösten...
 
-»Die beiden hießen Ernst Marmor und Zuruf Topf,
-Herr Hart, Es waren Seeleute, Matrosen von Beruf, die
+»Die beiden hießen Ernst Karnay und Justus Loof,
+Herr Harst. Es waren Seeleute, Matrosen von Beruf, die
 aus Abenteuerlust Digger geworden, beide in meinem
 Alter. Sie sind damals im Januar 1920, bevor ich in kultivierte
 Gegenden zurückkehrte, spurlos verschwunden, —
@@ -169,34 +169,34 @@ Er griff nach seinem Weinglas und trank es leer.
 wie die Stecknadeln gesucht,« fuhr er fort. »Wir wohnten
 dort am Bullobaki-See ganz allein. Die nächste Schaffarm
 lag etwa hundertachtzig Meilen entfernt. ich habe von
-Marmor und Topf nichts — nichts entdecken können. Allee
+Karnay und Loof nichts — nichts entdecken können. Ihre
 Filzhüte und ihre Geräte lagen am 21. Januar früh noch
-in der Hütte, Sie selbst waren fort.«
+in der Hütte. Sie selbst waren fort.«
 
-Harald beugte sich etwas vor, »Und das Gold, das
-eben beiden gehörte?« fragte er kurz.
+Harald beugte sich etwas vor. »Und das Gold, das
+den beiden gehörte?« fragte er kurz.
 
 »War auch noch da. Ich habe es, bevor Ich den Platz
-dann endgültig verließ, in zwei Uebersahen vergraben. Es
-siegt noch dort — ohne Zweifel.«
+dann endgültig verließ, in zwei Ledersäcken vergraben. Es
+liegt noch dort — ohne Zweifel.«
 
 Eine längere Pause entstand.
 
 Endlich fragte Harst aufs neue: »Und Sie haben in
-jener Nacht nichts? Verdächtiges gehört?« -
+jener Nacht nichts Verdächtiges gehört?«
 
 »Nichts. ich war müde wie immer und schlief sehr
 fest. Nur einmal erwachte ich. Da war es mir, als hörte
-ich draußen einen Hund bellen, Aber ich glaubte, ich müßte
+ich draußen einen Hund bellen. Aber ich glaubte, ich müßte
 mich getäuscht haben, und schlief wieder ein.«
 
 »Hörten Sie denn Ihre Gefährten noch, als Sie erwachten?
 Ich meine, atmeten dieselben noch laut neben
-Söhnen oder schnarchten se
+Ihnen oder schnarchten sie?«
 
-»Auch das kann ich nicht mit Bestiuiritheit Jubel. ins
-war schlaftrunken, — ebenfalls ist Harmays und Logis
-Verschwinden bisher ein Rätsel geblieben, Herr Harst,
+»Auch das kann ich nicht mit Bestimmtheit sagen. Ich
+war schlaftrunken, — Jedenfalls ist Karnays und Loofs
+Verschwinden bisher ein Rätsel geblieben, Herr Harst.
 Hätten Sie nun Lust, auf meine Kosten nach Australien
 <@pagebreak/>
 zu gehen und die Sache aufzuklären, gleichzeitig das Gold
@@ -204,35 +204,35 @@ mitzubringen?«
 
 Harald besann sich nicht lange.
 
-»Ja — ich will! Ich bin etwas europamüde. Ah
-feine mich nach anderer Luft ...«
+»Ja — ich will! Ich bin etwas europamüde. Ich
+sehne mich nach anderer Luft...«
 
 Gußfelder erhob sich.
 
-»Hand her, Herr Harst ...! — Ich danke Ihnen. Es
+»Hand her, Herr Harst...! — Ich danke Ihnen. Es
 handelt sich ja für mich auch darum, jederlei Verdacht von
-mir abzuwenden, daß ich etwa meine Freunde
+mir abzuwenden, daß ich etwa meine Freunde...«
 
 »Aber bester Doktor!« rief Harald da. »Wer wird
-denn wohl
+denn wohl...«
 
-»Oh — mein Bruder Josef zum Beispiel hat mich be
-schuldlos, Marmor und Topf beseitigt zu haben. Wer weiß,
+»Oh — mein Bruder Josef zum Beispiel hat mich beschuldigt,
+Karnay und Loof beseitigt zu haben. Wer weiß,
 ob er nicht den Mitgliedern seiner Verbrecherbande hier
 Aehnliches angedeutet hat.«
 
 »Die drei Kerle und das Weib sitzen ja hinter Schloß
-und »Siegel, meinte Kommissar Vogler achselzuckend.
+und Riegel,« meinte Kommissar Vogler achselzuckend.
 »Solche Verdächtigungen reichen doch an Sie nicht heran,
-Herr Parktor.«
+Herr Doktor.«
 
-»Und trotzdem; die Angelegenheit *soll* geklärt elf
-den! Lieber Herr Harst, wenn es Ihnen recht ist, zeichne
+»Und trotzdem; die Angelegenheit *soll* geklärt werden!
+Lieber Herr Harst, wenn es Ihnen recht ist, zeichne
 ich Ihnen gleich heute eine Skizze, damit Sie den Weg zum
-Bullobaki-See nicht verkohlen. Die Reste der Hütte werden
-Sie dort sicherlich noch finden. Die beiden Ledersäcke lie
-gen unweit der Hütte unter einer Felöplatte in der Erbe,
-&8 dürfte sich um über einen Zentner Goldkörner handeln,«
+Bullobaki-See nicht verfehlen. Die Reste der Hütte werden
+Sie dort sicherlich noch finden. Die beiden Ledersäcke liegen
+unweit der Hütte unter einer Felsplatte in der Erde.
+Es dürfte sich um über einen Zentner Goldkörner handeln,«
 
 »Donnerwetter!« entfuhr es Vogler. »Das lohnt! —
 Verzeihung, meine Damen, — das ist mir soeben leider vor
@@ -249,57 +249,57 @@ Südaustralien, bestimmt war.
 
 <h3>Die Skizze.</h3>
 
-Daß wir aus der Southerland nicht als Harst und
+Daß wir auf der Southerland nicht als Harst und
 Schraut reisten, brauche ich wohl kaum zu erwähnen. Wir
-Waren zwei harmlose Kaufleute namens Harten und Schrott,
-jedem erzählten, daß sie in Australien größere Abschlüsse
-Safiwolle machen wollten. Schafwolle klingt so überaus
-itranenerwedend.
+waren zwei harmlose Kaufleute namens Harten und Schratt,
+die jedem erzählten, daß sie in Australien größere Abschlüsse
+in Schafwolle machen wollten. Schafwolle klingt so überaus
+vertrauenerweckend.
 
 Unter den Passagieren erster Kajüte lernten wir ein
-an annehmbare Landsleute kennen, mit denen halt zucken
-plauderten. Nur zuweilen, Harald liebt keine
-ordbefkanntschasten, — Da war zum Beispiel der Prozent
+paar annehmbare Landsleute kennen, mit denen wir zuweilen
+plauderten. Nur zuweilen. Harald liebt keine
+Bordbekanntschaften. — Da war zum Beispiel der Professor
 der Zoologie Faulhuber aus München nebst Tochter
-etwa einundzwanzig Jahren, wirklich reizeudve Mengen.
+von etwa einundzwanzig Jahren, wirklich reizende Menschen.
 Mit den beiden Faulhubers waren wir am meisten
 zusammen. Der alte, etwas bucklige Herr wollte in Australien
-die merkwürdige Gattung der Beuteltiere studieren, uns
-in nicht minder Erhelltes, Dabei aber außer! liebreizendes
-öfteren Bis gelobte 1h ins nähere zu Duke alt
-wart zur Hand zu gehen.
+die merkwürdige Gattung der Beuteltiere studieren, und
+sein nicht minder gelehrtes, Dabei aber äußerst liebreizendes
+Töchterchen Alix gedachte ihn ins Innere zu begleiten und
+ihm wacker zur Hand zu gehen.
 
 Als der Dampfer in Suez anlegte, ereignete sich dann
-erste Zwischenfall, der uns sehr zu denken gab. Wir
-Waren bisher überzeugt gewesen, daß unsere Mission unmöglich
+der erste Zwischenfall, der uns sehr zu denken gab. Wir
+waren bisher überzeugt gewesen, daß unsere Mission unmöglich
 <@pagebreak/>
 irgendwelchen dunklen Ehrenmännern, die gern
-ernten, So sie nicht gerät Haben, bekannt geworden sein -
+ernten, wo sie nicht gesät Haben, bekannt geworden sein
 könnte. In Suez verlor sich unser Sicherheitsgefühl.
 
 Wir hatten mit dem Professor auf dem Promenadendeck
 an der Reling gestanden, als der Dampfer am Hafenkai
-der berühmten Kanalstadt fefimchte. Plötzlich erschien sehr -
-aufgeregt ein Steward neben mir und meldete, Daß er je
-eben einen braunen Burschen aus unserer Kabine verscheucht
-habe, der unsere Koffer erbrochen hatte.!
+der berühmten Kanalstadt festmachte. Plötzlich erschien sehr
+aufgeregt ein Steward neben mir und meldete, Daß er soeben
+einen braunen Burschen aus unserer Kabine verscheucht
+habe, der unsere Koffer erbrochen hatte.
 
 »Es muß einer der Fellachen gewesen sein, Mr. Harten,
 die in Alexandrien an Bord kamen,« fügte er atemlos hinzu.
-»Der Kerl war leider gewandter als ich, verlegte mir einen
+»Der Kerl war leider gewandter als ich, versetzte mir einen
 Boxhieb gegen die Magengrube und entschlüpfte.«
 
 Wir begleiteten den Steward sofort zur Kabine, fanden
-tatsächlich unsere Handkoffer und Reisetaschen durch« -
-wühlt vor und verlangten dann von dem Kapitän, daß die
+tatsächlich unsere Handkoffer und Reisetaschen durchwühlt
+vor und verlangten dann von dem Kapitän, daß die
 ganze auf dem Vorschiff untergebrachte Fellachenbande an
 dem Steward vorbeidefiliere.
 
-Dies geschah. Der Steward konnte den stechen Eins
+Dies geschah. Der Steward konnte den frechen
 Eindringling jedoch nicht herausfinden.
 
 Als wir beide dann in unserer Kabine allein waren,
-sagte D leise:
+sagte Harald leise:
 
 »Du, das galt der Skizze, die Gußfelder uns mitgegeben.
 Wir sind jetzt gewarnt. Es sind Leute hinter uns
@@ -310,7 +310,7 @@ Australienreise zu Ende. Wir mußten von jetzt an darauf
 bedacht sein, die Skizze uns nicht stehlen zu lassen.
 
 »Man wird alles versuchen, sie uns abzuknöpfen,«
-meinte Harst, während wir den Anhalt unserer Koffer
+meinte Harst, während wir den Inhalt unserer Koffer
 wieder sauber verstauten. »Ich möchte nur wissen, wer von
 den Mitwissern unseres geheimen Auftrags geplaudert
 haben mag. Vogler, Gußfelder, Thea von Perwart und
@@ -318,62 +318,62 @@ wir beide scheiden aus, denke ich. Es bleibt nur noch die
 Gesellschaftsdame Theas, Frau Rohrer, übrig. Ich werde
 für alle Fälle sofort hier von Suez an Gußfelder depeschieren,
 <@pagebreak/>
-damit er die Rohrer beobachten läßt. er geht um
-Kalten Millionen Gold. Da muß man nichts außer acht
-Gassen,«
+damit er die Rohrer beobachten läßt. Es geht um
+viele Millionen Gold. Da muß man nichts außer acht
+lassen,«
 
-Das Telegramm wurde abgeschickt, Zwei Stunden
-darauf sehe der Dampfer die Reise fort.
+Das Telegramm wurde abgeschickt. Zwei Stunden
+darauf setzte der Dampfer die Reise fort.
 
-Die Hitze im Roten Meer, diesem berüchtigten Bad
-Ofen, ging an. Immer näher kamen wir nun dem Felseninsel
-Aden, jener Hafenstadt, die für und in früheren Jahren
-der Aus8gangspunki so manchen Abenteuers gewesen.
+Die Hitze im Roten Meer, diesem berüchtigten Backofen,
+ging an. Immer näher kamen wir nun dem Felsennest
+Aden, jener Hafenstadt, die für uns in früheren Jahren
+der Ausgangspunkt so manchen Abenteuers gewesen.
 
-In Aden kauften wir englische Eiern, die Aden-Morning-
-Post und andere. Und — da fanden wir denn
+In Aden kauften wir englische Zeitungen, die
+Aden-Morning-Post und andere. Und — da fanden wir denn
 zu unserer Ueberraschung auch eine kurze Notiz, daß Zelestine
 Drepp, die Freundin des toten Verbrechers Josef Bennarara-Gußfelder,
-aus der Krankenabteilung des Uniersuchungs-gesängnisses
+aus der Krankenabteilung des Untersuchungsgefängnisses
 am 2. Dezember abends entflohen sei, also an
 demselben Abend, als wir an Bord der Southerland gegangen,
 
 Harst machte zu dieser Nachricht ein sehr langes Gesicht.
 
-»Wenn wir nur erst wüßten, wer der Fellache Erwarten,
-in Suez frecherweije am hellen Tage unserer Kabine
+»Wenn wir nur erst wüßten, wer der Fellache gewesen,
+der in Suez frecherweise am hellen Tage unserer Kabine
 den Besuch abgestattet hat,« sagte er ernst und nachdenklich.
 Es wird wahrscheinlich überhaupt kein Fellache, sondern
-verkleideter Weißer gewesen sein, mein Alter. — Du be-meifelft
-das? — Nun, bedenke, daß der Mensch den Sie
-ward durch einen Aunftgerechten Boxhieb erschrak hat. Feschen
-verstehen sich kaum aus Boxen. Ein Fellache hätte
-in einem solchen Falle fraglos zum Messer gegriffen, Wenn
+ein verkleideter Weißer gewesen sein, mein Alter. — Du
+bezweifelst das? — Nun, bedenke, daß der Mensch den Steward
+durch einen kunstgerechten Boxhieb erledigt hat. Fellachen
+verstehen sich kaum aufs Boxen. Ein Fellache hätte
+in einem solchen Falle fraglos zum Messer gegriffen. Wenn
 Zelestine Drepp irgendwie zum Beispiel zu der Rohrer in
 Beziehungen getreten ist, wenn sie von dieser erfuhr, wohin
-ir unterwegs sind, dann kann sie per Eisenbahn nach
-Genua gefahren sein und die Southerland dort noch ereilt
-haben. — Geben wir was zum Schissszahlmeisier und
-Magen wir, wer in Genua an Bord kam.«
+wir unterwegs sind, dann kann sie per Eisenbahn nach
+Genua gefahren sein und die Southerland dort noch erreicht
+haben. — Gehen wir mal zum Schiffszahlmeister und
+fragen wir, wer in Genua an Bord kam.«
 
-Der Zahlmeisier legte uns die Passagierliste vor.
-— wir entdeckten seine verdächtige Person.
+Der Zahlmeister legte uns die Passagierliste vor.
+Aber — wir entdeckten keine verdächtige Person.
 
-So langten wir denn in Milde an, wo die Eiland
+So langten wir denn in Batavia an, wo die Southerland
 <@pagebreak/>
-sechs Stunden ankerte, Wir bemalten Diese Zelt zu
+sechs Stunden ankerte. Wir benutzten Diese Zeit zu
 einem Ausflug nach den reizenden Villenvororten. Als
 wir um sechs Uhr nachmittags an Bord zurückkehrten, waren
-unsere Stoffen abermals erbrochen und durchwühlt worden.
-Die Kabinentür war fraglos mit einem Patentdietrich geöffnet,
+unsere Koffer abermals erbrochen und durchwühlt worden.
+Die Kabinentür war fraglos mit einem Patentdietrich geöffnet.
 Niemand an Bord hatte etwas von diesem neuen
 Versuch, uns die Skizze abzunehmen, bemerkt. Wir selbst
 stellten die Sache so hin, als ob es dem Eindringling wohl
-auf Wertsachen angekommen sei, die wir jedoch bei uns ge
-habt hätten.
+auf Wertsachen angekommen sei, die wir jedoch bei uns gehabt
+hätten.
 
 »Zelestine Drepp *ist* hier,« erklärte Harald mir jetzt
-wir aller Bestimmtheit, »In Melbourne wird man uns
+mit aller Bestimmtheit. »In Melbourne wird man uns
 fraglos überfallen und unsere Kleider durchsuchen. Am
 liebsten würde ich die Skizze verbrennen,«
 
@@ -381,112 +381,111 @@ Er trug sie stets bei sich, eingenäht in das Futter einer
 Weste.
 
 Jetzt zog er die Weste aus (es war gegen elf Uhr
-abends, und die Southerland dürr;pflücke längst wieder die
-tiefgrüne Barkasse) und trennte langsam das Futter auf,
+abends, und die Southerland durchpflügte längst wieder die
+tiefgrüne Sundasee) und trennte langsam das Futter auf,
 fügte hinzu:
 
 »Ja, es wird am besten sein, mein Alter. Verbrennen
-wir das Stück Papier. Wir Heide haben uns ja die Er
-genügend eingeprägt, und
+wir das Stück Papier. Wir beide haben uns ja die Skizze
+genügend eingeprägt, und...«
 
-Da ließ er plötzlich die nette in den Schoß sinken
+Da ließ er plötzlich die Weste in den Schoß sinken...
 
-»Du — — Fischerei Zwirn!« fürs er hervor. »Hier
-ist jemand bereits
+»Du — — anderer Zwirn!« stieß er hervor. »Hier
+ist jemand bereits...«
 
-Dann Halte er schon das Papier aus dem Versteck herausgezogen...
+Dann hatte er schon das Papier aus dem Versteck herausgezogen...
 
-Und — — es war nicht mehr die Skizze!!! Es war
+Und — — es war nicht mehr die Skizze!! Es war
 ein leerer halber Briefbogen!!
 
 Harst starrte mich an. Ich habe ihn selten verblüfft
 gesehen. Jetzt war er es,
 
 »Hm — interessant!« meinte er dann, während seine
-Stirn sich krauste, »Sehr interessant, daß man Harald Harst
-geleimt hat!! Verteufelt schlau hat die Bande das angesprungen.
+Stirn sich krauste. »Sehr interessant, daß man Harald Harst
+geleimt hat!! Verteufelt schlau hat die Bande das angefangen.
 Ich wette, man hat uns die Skizze schon vor Suez
 <@pagebreak/>
-stehlen — nachts natürlich, als wir schliefen. Vielleicht
+gestohlen — nachts natürlich, als wir schliefen. Vielleicht
 damals, als wir im Spielzimmer etwas viel getrunken
 hatten...«
 
-»Als wir mit Raufbuber starrten,« warf ich ein.
+»Als wir mit Faulhubers skateten,« warf ich ein.
 
 Harald nickte. »Ja... — Und die Einbrüche hier
-der Kabine, der in Suez und der zweite heute in Dalag,
+in der Kabine, der in Suez und der zweite heute in Batavia,
 sollten uns nur in Sicherheit wiegen, daß die Skizze
-Koch vorhanden sei. Oder aber...«
+noch vorhanden sei. Oder aber...«
 
 Er schwieg...
 
-Seine Augenlider tappten herab, sein Kopf senkte
+Seine Augenlider klappten herab, sein Kopf senkte
 sich...
 
 »Ober aber... es sind hier zwei Parteien getrennt
-der Arbeit, zwei, die nicht? voneinander wissen. Und
+an der Arbeit, zwei, die nichts voneinander wissen. Und
 es dürfte das Richtigere sein, lieber Alter.«
 
 »Also die Drepp vielleicht und noch jemand...«
 
-»Ja...« — Er nahm den leeren Briefbogen
-ist ie besichtigte ihn... beroch ihn...
+»Ja...« — Er nahm den leeren halben Briefbogen
+auf und besichtigte ihn... beroch ihn...
 
-»ran — was riet Du?« fragte er an hielt ihn
-ir bin,
+»Bitte — was riechst Du?« fragte er und hielt ihn
+mir hin,
 
-»Hm — das ist Druck
+»Hm — das ist Jodoformgeruch...«
 
-»Allerdings. Und
+»Allerdings. Und...«
 
-Abermals Schlafes er, sprang empor, legte mir die
-Danke schwer auf die Schulter.
+Abermals schwieg er, sprang empor, legte mir die
+Linke schwer auf die Schulter.
 
 »Du — von Aden ging ein direkter Dampfer nach Melbourne!«
-stieß er hervor, »Wenn der Dieb der Skizze in
-die Southerland verlassen und bieten Dampfer be«
-hat, dann ist er uns un vier volle Tage voraus! Herr
-— — vier Tage!!«
+stieß er hervor. »Wenn der Dieb der Skizze in
+Aden die Southerland verlassen und diesen Dampfer benutzt
+hat, dann ist er uns um vier volle Tage voraus! Herr
+Gott — — vier Tage!!«
 
-Harst ballte die Fäuste ...
+Harst ballte die Fäuste...
 
-»Bau Du — begreifst Du?! Das Gold ist in je
+»Begreifst Du — begreifst Du?! Das Gold ist in Gefahr!
 Wir haben uns wie die Tölpel benommen!! — Zum
-er re
+Zahlmeister...!!"
 
-Und jetzt ersehen wir aus der Sciffälifte, daß ein
+Und jetzt ersahen wir aus der Schiffsliste, daß ein
 Engländer namens Tomorly in Aden seine Fahrkarte für
-Dampfer Gergovia hatte aufschreiben lassen und in
-an Bord der Gergovia gegangen war. Und dies war
+den Dampfer Gergovia hatte umschreiben lassen und in
+Aden an Bord der Gergovia gegangen war. Und dies war
 <@pagebreak/>
-der Dampfer, der ohne Aufenthalt nach Melbourne Uhr!! —
+der Dampfer, der ohne Aufenthalt nach Melbourne fuhr!! —
 
 Harald vertraute sich nun dem Kapitän an. Dieser
-schickte sofort ein Funkielegramm nach Melbourne an die
-Polizei, damit Mr. Edward Tomoxrly dort sofort beim Ein
-fressen verhaftet würde,
+schickte sofort ein Funktelegramm nach Melbourne an die
+Polizei, damit Mr. Edward Tomorly dort sofort beim Eintreffen
+verhaftet würde,
 
-Am folgenden Nachmittag kam aus Melbourne An!
-wert:
+Am folgenden Nachmittag kam aus Melbourne Antwort:
 
 > Tomorly hat die Gergovia bereits in Sydney verlassen.
 Haben Polizei Sydney benachrichtigt.
 
 — Zwei Tage darauf langte die Southerland in dieser
-ostaustralischen Hafenstadt an, Wir gingen mit unseren
-Koffern an Land, nachdem fuhr uns von Faulhubers vors
-Moor! hatten, die noch bis Melbourne an Bord bleiben
-wollten
+ostaustralischen Hafenstadt an. Wir gingen mit unseren
+Koffern an Land, nachdem wir uns von Faulhubers verabschiedet
+hatten, die noch bis Melbourne an Bord bleiben
+wollten.
 
-Hier in Sydney begann dann Griff die Geschichte von
-dem unheimlichen Mieter, die mit Anno Mission ganz
+Hier in Sydney begann dann erst die Geschichte von
+dem unheimlichen Mieter, die mit unserer Mission ganz
 eng zusammenhing.
 
 <@harst.kkb band="5" titel="Die Schildkröte"/>
 
 <@pagebreak/>
 
-<h2>5. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 <h3>Pension Pallimoor.</h3>
 
 Sydney, diese moderne Weltstadt mit ihren weit über
@@ -528,13 +527,13 @@ Berufs ist das von Bedeutung.
 
 Um fünf Uhr nachmittags hatten wir bei Mistreß Ballte
 Moor unseren Einzug gehalten. Um sechs kannten wir bereits
-das ganze Haus und den ganzen Garten, die Neben-firaßen
+das ganze Haus und den ganzen Garten, die Nebenstraßen
 und besten Verbindungen zur Ziunenstadt.
 
 Nun kam es darauf an, Edward Tomorlys Fährte zu
 finden. Um halb sieben ließen wir uns bei dem Kollegen
 Mr. Ogden melden, einem Detektiv von Weltruf, der hier
-in Sydney so etwa dasselbe war wie die Pinkectons in
+in Sydney so etwa dasselbe war wie die Pinkertons in
 Neuyork.
 
 Mr. Ogden hörte kaum, wer wir waren, als seine
@@ -565,7 +564,7 @@ te meiner besten Agentinnen als Stubenmädchen dort
 ttergebrahi. Sie heißt dort Seenot Pool, Mr. Harst,
 denn Sie. also ...«
 
-»Bitte — erzählen Sie,« nickte Harald. »Ein unbeims-Mieter
+»Bitte — erzählen Sie,« nickte Harald. »Ein anlehnt-Mieter
 ist etwas für uns.«
 
 Ogden bot uns Zigaretten an. — »Die Sache ist die,
@@ -646,7 +645,7 @@ bestohlen worden sei.«
 
 »Ja — und da hat Elming denn lachend erklärt, daß
 allerdings ein etwas heruntergekomimenex Kerl, den er am
-Tage zufällig kennen gelernt hatte, srecherweise bei ihm gewesen
+Tage zufällig kennen gelernt hatte, frecherweise bei ihm gewesen
 <@pagebreak/>
 sei und ihn angebettelt habe. Er hätte den Menschen
 sofort wieder weggeschickt. — Frau Als gab sich
@@ -706,7 +705,7 @@ Es war auch eine Verse da, Sie lautete:
 Perwarts) harmlos. Aber Diener Karl Münz plötzlich
 gekündigt und Berlin verlassen, Ueber Münz bisher stets
 lich nichts Nachiciliges bekannt. Hat als besonderes Er
-— fennungäzeichen lin?!s auffallend versängertes Ohrläppchen.
+— fennungäzeichen lin?!s auffallend verlängertes Ohrläppchen.
 — Bitte Nachricht, ob unangenehme Zwischenfälle,
 
 > Gußfelder.
@@ -885,7 +884,7 @@ Wir sind auf Strümpfen. Die Tür knarrt nicht,«
 Nein — sie knarrte nicht im geringsten, denn nach alter
 Gewohnheit hatten wir Schloß und Angeln gut geölt.
 
-Im Flur lag ein dicker Kotosläufer. Licht brannte
+Im Flur lag ein dicker Kokosläufer. Licht brannte
 hier nicht.
 
 So schlüpften wir denn den Gang hinab bis zu Elmings
@@ -1015,7 +1014,7 @@ sprachlos,
 
 <@pagebreak/>
 »Es ist Karl Münz, In seinem Zimmer schwebte
-ein ganz seiner Zodoformgeruch in der Luft, und das
+ein ganz seiner Jodoformgeruch in der Luft, und das
 vegoperierte Ohrläppchen verrät sich noch durch die rote
 Narbe, Der Kerl muß entweder ein ungeheurer Dummkopf
 oder ein ganz gefährlicher Bursche sein. Jedenfalls —
@@ -1093,7 +1092,7 @@ Bereits kurz nach halb eins hörten wir an der Tür
 von uns ein Geräusch,
 
 Da dürr das Flurfenster das Mondlicht einen Teil
-Dielen und des Kokosläusers beschien, konnte man mit
+Dielen und des Kokosläufers beschien, konnte man mit
 bereits an das Dreivierteldunkel gewöhnten Augen
 ich die Spalte der Schranktür undeutlich erkennen, daß
 nd an der Tür links die eine untere Füllung heraus-b,
@@ -1102,7 +1101,7 @@ Sie mußte nur ganz lose eingefügt gewesen sein.
 Dann schschoh sich ein Mensch in schwarzem Trikot
 Tangengfeich Durch die schmale Oeffnung,
 
-Seltsam genug: der Mensch kam vom Hotelvorvaum
+Seltsam genug: der Mensch kam vom Hotelvorraum
 her! —
 
 Ich begriff das nicht, Und auch Harald hauchte mir
@@ -1112,7 +1111,7 @@ Die schlanke Gestalt, kaum sichtbar in dem praktischen
 lebesanzug, huschte wie ein Schatten den Flur entlang
 bis zu Elmings Zimmertür. Der Mensch trug eine seidene
 schwarze Halbmaêtke und weiche Morgenschuhe. Selten habe
-ich so gewandte kayengleiche Bewegungen beobachtet wie
+ich so gewandte katzengleiche Bewegungen beobachtet wie
 bei diesem Burschen, der jetzt am Türschloß von Nr. 18
 sich zu schaffen machte.
 
@@ -1125,7 +1124,7 @@ an — hörten drinnen plötzlich, einen leisen Aufschrei...
 
 Pein die Tür auf.
 
-Unsere Lampen warfen zwei Lichtkegel auf den fchlan-Mann
+Unsere Lampen warfen zwei Lichtkegel auf den schlau-Mann
 im Trikot, der wie gebannt vor Elmings Bett
 ist und uns jetzt anstarrte wie Spukgestaltien, der Hölle
 entstiegen
@@ -1184,7 +1183,7 @@ Mehr noch fand Harst heraus: daß die Füllung der
 Intensiv ebenfalls herausgeschnitten und wieder eingefügt
 war, daß Elming-Münz in dieser Nacht fraglos ebenfalls
 entflohen war, indem er seinen Weg Durch das Loch der
-Füllung und dann im Schuh des gemauerten Treppen-geländers
+Füllung und dann im Schuh des gemauerten Treppengeländers
 <@pagebreak/>
 bis zu den ersten Bäumen genommen hatte —
 bemerkt von den Beobachtern in den Büschen, —
@@ -1276,7 +1275,7 @@ kann, die kühn ins Innere Australiens eindrangen
 und entweder nie wieder gesehen oder aber halb verhungert
 und verschmachtet von Hilssexpeditionen aufgefunden wurden,
 der wird es voll begreifen, daß Ich Will unsere Abenteuer
-in den öden Wildnissen Jnneraustraliens gerade den
+in den öden Wildnissen Inneraustraliens gerade den
 Titel wählte, Auch der Leser wird dies begreifen, wenn
 er erst erfährt, mach wir durchzumachen hatten, bevor wir
 das Rätsel des Verschwindens der beiden Gefährten Dr,
@@ -1286,7 +1285,7 @@ Doch — ich will nichts vorwegnehmen! Alles der
 Reihe nach. Und — diese Reihe ist bunt genug... —
 
 So rollte denn der Zug mit uns weiter und weiter —
-hinein in die unfultivierten Gebiete, an starren Gebirg8-massen,
+hinein in die unkultivierten Gebiete, an starren Gebirgsmassen,
 an elenden Goldgräberlagern, an zum Teil recht
 armseligen Stationen vorüber, — durch weite Strecken
 <@pagebreak/>
@@ -1309,7 +1308,7 @@ weckte mich jedoch schon gegen neun Uhr abends.
 »Wir steigen in zehn Minuten aus,« erklärte er kurz.
 »Seh habe den Zugführer bestochen. Er wird an der Station
 stumpf halten, wo wir bestimmt ein Auto gelitten bei
-konnten.« («Station« nennt man in Australien die Farm-gebäude
+konnten.« («Station« nennt man in Australien die Farmgebäude
 der einzelnen Farmer, die alle weit verstreut
 liegen.)
 
@@ -1326,7 +1325,7 @@ Ich merkte, daß Harald seltsam erregt war, Er sprach
 hastig, und seine Stirn zeigte noch dieselben Falten wie vor
 mittags nach der Unterredung mit dem Kollegen Ogden.
 
-»Karl Münz, der Mann mit dem Fodoformgeruch,
+»Karl Münz, der Mann mit dem Jodoformgeruch,
 weiß ja doch den Weg zum Bullobaki-Salzsee,« meinte ich,
 indem ich meine Reisetasche aus dem Gepäcknetz hob. »Auf
 einen Spion mehr oder weniger kommt Gasse wohl kaum
@@ -1479,7 +1478,7 @@ Um was handelt sich’s eigentlich?«
 
 Jimmy wußte bisher nur, lag wir ins innere wollten.
 
-»Mir... wir suchen zwei verfchollene Deutsche,« er
+»Mir... wir suchen zwei verschollene Deutsche,« er
 Bärte« ich widerwillig.
 
 »Und — hinter Ihnen beiden anheben sind heute der,
@@ -1515,7 +1514,7 @@ Zehn Minuten drauf stand ich im hellen Vorraum des
 Farmgebäudes.
 
 Der Holländer Goovenloor hatte bereits die nächste
-Polizeistation antelephoniert. Ein Polizeisergeani und zwei
+Polizeistation antelephoniert. Ein Polizeisergeant und zwei
 schwarze Polizisten trafen um zehn Uhr auf schweißbedeckten
 Pferden ein. Harald gab zu Protokoll, daß er auf dem
 Wege zur Farm hinterrücks von zwei Männern überfallen
@@ -1578,7 +1577,7 @@ die anderen.«
 die auf uns schloß?«
 
 »Vielleicht die angebliche Alix Faulhuber. Vielleicht
-auch Zeleftinchen Drepp.« Er lachte plötzlich. »Lassen wir
+auch Zelestinchen Drepp.« Er lachte plötzlich. »Lassen wir
 uns die Stimmung nicht verderben. Um zehn Uhr vormittags
 sind wir auf der Station Amsterdam, die einem
 Freunde Goovenloors gehört. Dort endet die Kultur. Von
@@ -1620,7 +1619,7 @@ namens Jürgensen, der uns immer wieder mit seltsamen
 Blicken musterte,
 
 Nach Tisch führte gerade er nun nach der Hürde, wo
-wir uns die Pferde Selbft heraussuchen sollten. Es war
+wir uns die Pferde Selbst heraussuchen sollten. Es war
 ein glühend heißer Tag, und wenn ich daran dachte, daß
 jetzt a in Deutschland vielleicht Schnee lag, packte mich
 der Neid.
@@ -1743,7 +1742,7 @@ auf dem Kerbholz Hatten — mit Gesichtern, rotbraun wie
 Kupfer, mit wehenden Bärten, mit Pranken, die den
 Büchsenkolben wie im Schraubstock hielten...
 
-Und — Der hatten sie sich verrechnet, was die Treff-sicherheit
+Und — Der hatten sie sich verrechnet, was die Treffsicherheit
 unserer kleinen Clementpistolen anging, deren
 Nickelmantelgeschosse auch auf sechzig Schritt. noch böse
 Löcher schlugen
@@ -1915,7 +1914,7 @@ Bann außerhalb der Stachelzäune nach besten zu.
 
 Die Wüstenei erreichten wir eine knappe Stunde Tage
 <@pagebreak/>
-Selbst die öden Eukalypius-Wälder hörten nun auf. Nur
+Selbst die öden Eukalyptus-Wälder hörten nun auf. Nur
 noch Salzgräser, gelb wie dürres Stroh, und ebenso fahl-gelbe
 Sträucher; die berüchtigten Strange, gediehen In der
 welligen, sandigen Steppe. Vereinzelt nur ragten die Eiern
@@ -2034,7 +2033,7 @@ Hier ging’s ums Leben. Ohne Wasser, ohne Konserven,
 ohne unseren Teekocher waren wir verloren...
 
 Im Galopp bei glühendster Hitze — bis in eine jener
-Salznieberuingen hinein, deren Eumpfmaffer so natronhaltig
+Salznieberuingen hinein, deren Sumpfwasser so natronhaltig
 ist, daß es an den Rändern der Tümpel weiße Kristalle
 abgeht, daß der Boden streckten weise hart wie Granit ist.
 
@@ -2170,7 +2169,7 @@ Unsanft der Zeiten Pleite ging. Nun sind Sie und Ihrer
 Töchter von der schmalen Bahn der Tugend abgerutscht
 und geben sich die erblickte Mühe, mit der australischen
 Hinrichtungsart des Aufknüpfens Bekanntschaft zu machen
-Aber aber hier in der Einöde auf noch bösere Art umzu-kommen,
+Aber aber hier in der Einöde auf noch bösere Art umzukommen,
 Ich wiederhole: ich weigere mich, Ihnen als
 Führer zu vieren, Dies ist mein letztes Wort,«
 
@@ -2345,13 +2344,13 @@ Gerade genug, den Pferden für ein paar Stunden ein
 mühsames Waren durch fruchteten Sand zu ermöglichen.
 
 Mittags auch im Süden die Umrisse eines Höhenzuges
-am Horizont. Und gegen fünf Uhr der erste Salz-Umpel
+am Horizont. Und gegen fünf Uhr der erste Salz-Ampel
 mit weißen Rändern, die ersten Spuren einer kläglicher
 Vegetation. Dann Berge, Schluchten, — und wir
 fünf zu Fuß, die Pferde am Zügel führend, stolpernd,
 keuchend, — bis unter uns in der Ferne ein seltsames Bild
-unsere Lebensgeister weckte: der ... ausgetrocknete Bullobaki-
-See, eine endlose bellschimmernde Fläche, wie eine mit
+unsere Lebensgeister weckte: der ... ausgetrocknete Bullobaki-See,
+eine endlose bellschimmernde Fläche, wie eine mit
 Salzkristallen bestreute Ebene, von Büschen, Hügeln, Wildern
 umgeben.
 
