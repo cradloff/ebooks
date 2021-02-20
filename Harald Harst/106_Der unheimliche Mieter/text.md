@@ -489,32 +489,32 @@ eng zusammenhing.
 <h3>Pension Pallimoor.</h3>
 
 Sydney, diese moderne Weltstadt mit ihren weit über
-Kantine halbe Million Einwohnern, mit ihrer so überaus jünger
-Lage an der großen geschützten Jahren-Bai, mit ihren
+eine halbe Million Einwohnern, mit ihrer so überaus günstigen
+Lage an der großen geschützten Jackson-Bai, mit ihren
 27 Vororten, weiten Parks, Prachtbauten und ungeheuren
-Dock, Werften und Fabrikanlagen, ihrem gefunden Klima
-und dem Völkergemisch aller Rassen der Erde, war für und
-Heide Neuland, genau so wie Australien selbst.
+Docks, Werften und Fabrikanlagen, ihrem gesunden Klima
+und dem Völkergemisch aller Rassen der Erde, war für uns
+beide Neuland, genau so wie Australien selbst.
 
 Sydney imponierte uns. Daß diese Metropole erst 1790
-Siräflingsniederlazung gegründet worden war, daß sie
-somit eine der jüngsten Großstädte des Erkrankt ist, merkt
+als Sträflingsniederlassung gegründet worden war, daß sie
+somit eine der jüngsten Großstädte des Erdrunds ist, merkt
 man ihr nur insofern an, als sogenannte historische Gebäude
-adlig fehlen.
+völlig fehlen.
 
-eine Flinte Mferdebrofchle brachte und nach dem Benannt
+eine flinke Pferdedroschke brachte uns nach dem Pensionat
 Pallimoor am Moore-Park, das uns der Kapitän der
-warm empfohlen hatte. Es lag inmitten eines
-seligen Gartens, dem verschiedene Felspartien,
-seine Wajjetsälle und Springbrunnen einen erwarteten
+Southerland warm empfohlen hatte. Es lag inmitten eines
+großen, hügeligen Gartens, dem verschiedene Felspartien,
+kleine Wasserfälle und Springbrunnen einen romantischen
 Anstrich verliehen,
 
 Frau Lydia Pallimoor, eine weißhaarige, rosige Dame,
-empfing uns mit größter Liebens8würdigkeit. Der Deutschen-ß
+empfing uns mit größter Liebenswürdigkeit. Der Deutschenhaß
 des Weltkrieges war hier längst begraben. Man hatte
 <@pagebreak/>
-eingesehen, daß man die deutschen Kaufleute brauchte, uns
-da mir sofort zu verstehen gaben, hab uns Geschäfte nach
+eingesehen, daß man die deutschen Kaufleute brauchte, und
+da wir sofort zu verstehen gaben, daß uns Geschäfte nach
 Australien führen, versprach Frau Pallimoor, uns mit
 einigen Schafzüchtern bekannt zu machen, die häufiger bei
 ihr abstiegen.
@@ -525,10 +525,10 @@ Vorteil, daß man ungesehen durch die Fenster aus- und
 eingehen kann — ohne Hausschlüssel. Für Leute unseres
 Berufs ist das von Bedeutung.
 
-Um fünf Uhr nachmittags hatten wir bei Mistreß Ballte
-Moor unseren Einzug gehalten. Um sechs kannten wir bereits
+Um fünf Uhr nachmittags hatten wir bei Mistreß Pallimoor
+unseren Einzug gehalten. Um sechs kannten wir bereits
 das ganze Haus und den ganzen Garten, die Nebenstraßen
-und besten Verbindungen zur Ziunenstadt.
+und besten Verbindungen zur Innenstadt.
 
 Nun kam es darauf an, Edward Tomorlys Fährte zu
 finden. Um halb sieben ließen wir uns bei dem Kollegen
@@ -537,71 +537,71 @@ in Sydney so etwa dasselbe war wie die Pinkertons in
 Neuyork.
 
 Mr. Ogden hörte kaum, wer wir waren, als seine
-fühle Reserviertheit sofort f[hingab und er uns herzlich die
-Hände drückte. Er war ein haltloser Riese mit etwas
-schwerfälligen Bewegungen. Unter seinen buschigen Brave
-oder lag ein Paar überaus lebendiger Augen voller Geist
-und. Schärfe.
+kühle Reserviertheit sofort schwand und er uns herzlich die
+Hände drückte. Er war ein bartloser Riese mit etwas
+schwerfälligen Bewegungen. Unter seinen buschigen Brauen
+aber lag ein Paar überaus lebendiger Augen voller Geist
+und Schärfe.
 
 Harst vertraute ihm das Wichtigste an. »Sie sollen mit
-ren Leuten mir diesen angeblicven Tomorly suchen Seifen,
-rx. Ogden. Er soll noch recht lang, bartlos, mittelgroß
-Und blond sein. Wahrscheinlich ist er ein verkleidetes Weib,
+Ihren Leuten mir diesen angeblichen Tomorly suchen helfen,
+Mr. Ogden. Er soll noch recht jung, bartlos, mittelgroß
+und blond sein. Wahrscheinlich ist er ein verkleidetes Weib,
 eben jene Zelestine Drepp.«
 
 Ogden notierte sich einiges und erteilte dann durch
-das Haustelephon seinem Stabe sogleich die nötigen Dr
-fehle. Dann meinte er mit seinem Lächeln: 1A
+das Haustelephon seinem Stabe sogleich die nötigen Befehle.
+Dann meinte er mit feinem Lächeln:
 
-»Sie wohnen da bei Mistreß Falls »or sozusagen ins
-mitten von Geheimnissen, meine Herren. Lydia Parkweg
-hat sich vorgestern an mich gewandt, weil der eine ich
+»Sie wohnen da bei Mistreß Pallimoor sozusagen inmitten
+von Geheimnissen, meine Herren. Lydia Pallimoor
+hat sich vorgestern an mich gewandt, weil der eine ihrer
 <@pagebreak/>
-Bieter ihr hh verdächtig, mehr noch, geradezu unheinm-ch
+Mieter ihr höchst verdächtig, mehr noch, geradezu unheimlich
 vorkommt. Vielleicht haben Sie Gelegenheit, den Mann
-so etwas aus Korn zu nehmen. Seit gestern früh ist
-te meiner besten Agentinnen als Stubenmädchen dort
-ttergebrahi. Sie heißt dort Seenot Pool, Mr. Harst,
-denn Sie. also ...«
+auch so etwas aufs Korn zu nehmen. Seit gestern früh ist
+eine meiner besten Agentinnen als Stubenmädchen dort
+untergebracht. Sie heißt dort Jenny Pool, Mr. Harst.
+Wenn Sie also...«
 
-»Bitte — erzählen Sie,« nickte Harald. »Ein anlehnt-Mieter
-ist etwas für uns.«
+»Bitte — erzählen Sie,« nickte Harald. »Ein unheimlicher
+Mieter ist etwas für uns.«
 
 Ogden bot uns Zigaretten an. — »Die Sache ist die,
-Harst,« begann er bedächtig, »Um 21. Dezember, der
-Tagen also, stieg bei Mistreß Pallimoor ein Mann
-Adens Elming ab, ein Londoner Kaufmann. Er war
-der ... Gergovia eingetroffen.«
+Mr. Harst,« begann er bedächtig. »Am 21. Dezember, vor
+vier Tagen also, stieg bei Mistreß Pallimoor ein Mann
+namens Elming ab, ein Londoner Kaufmann. Er war
+mit der... Gergovia eingetroffen.«
 
-»Ah!« »machten Harald und ich gleichzeitig. Wien
-unwillkürlich sofort an Edward Tomorly.
+»Ah!« machten Harald und ich gleichzeitig. Wir
+dachten unwillkürlich sofort an Edward Tomorly.
 
-Ogden schüttelte den Kopf. »Dieser Elming ist die
-Ihr Mann, meine Herren, Er ist dick und hat ein
-östliches Bein, das bei jedem Schritt scheußlich in den
-allgelenken taucht, Geben Sie sich gäbe nicht etwa der
-Oeffnung hin, Ihren Tomorly durch einen Zufall bereits
-deckt zu haben.«
+Ogden schüttelte den Kopf. »Dieser Elming ist niemals
+Ihr Mann, meine Herren. Er ist dick und hat ein
+künstliches Bein, das bei jedem Schritt scheußlich in den
+Metallgelenken knackt. Geben Sie sich also nicht etwa der
+Hoffnung hin, Ihren Tomorly durch einen Zufall bereits
+entdeckt zu haben.«
 
-»Tun wir nicht, Mr. Ogden. Weiter ...«
+»Tun wir nicht, Mr. Ogden. Weiter...«
 
 »Dieser Elming legte Wert darauf, ein Zimmer im
 Seitenflügel dicht an dem Seitenausgang im Erdgeschoß
-erhalten...«
+zu erhalten...«
 
 »Wie wir!« nickte Harald,
 
-»Nun ja, — er bekam es auch). Gier in der ersten
-ht beobachtete der Hausdiener des Pensionats, der im
+»Nun ja, — er bekam es auch. Gleich in der ersten
+Nacht beobachtete der Hausdiener des Pensionats, der im
 Nebengebäude wohnt, von seinem Fenster aus, daß Elming
-ich erhielt — eine Dame ...«
+Besuch erhielt — eine Dame...«
 
 »Die durch das Fenster einstieg,« ergänzte Harald.
 
-»Ja, so war’s Die Dame, und das ii bis seltsame,
-Elmings Zimmer nicht wieder verlassen. Sie kam
-ein Uhr morgens, und der Hausdiener, argwöhnisch
-den, paßte bis sechs Uhr früh im Gebüsch auf. Dann
+»Ja, so war’s. Die Dame, und das ist das seltsame,
+hat Elmings Zimmer nicht wieder verlassen. Sie kam
+gegen ein Uhr morgens, und der Hausdiener, argwöhnisch
+geworden, paßte bis sechs Uhr früh im Gebüsch auf. Dann
 <@pagebreak/>
 konnte er Elming beobachten, der bereits Morgentoilette
 machte. Die Dame war — — verschwunden.«
@@ -614,29 +614,29 @@ die auch und genügen mußten.
 
 »Der Hausdiener Tom, übrigens ein Mischling, hat
 darauf Mistreß Pallimoor alles erzählt,« fuhr Ogden fort.
-»Lydia Pallimoor war empört. Damenbefuh durch das
+»Lydia Pallimoor war empört. Damenbesuch durch das
 Fenster — unglaublich!! Trotzdem wollte sie diesen Mr.
-Elming nicht sofort an die Lust setzen. Tom sollte erst mal
+Elming nicht sofort an die Luft setzen. Tom sollte erst mal
 weiter feststellen, ob die Dame in der nächsten Nacht wiederkehren
 würde. Denn daß Elming sie nicht in seinem Zimmer
 verborgen hielt, war leicht herauszubringen. — Tom
 bezog also in der folgenden Nacht gegen halb eins abermals
 seinen Beobachtungsposten in den Büschen unweit des
-Geitenflügeld. Und — siehe da! — um zwei Uhr morgens
+Seitenflügels. Und — siehe da! — um zwei Uhr morgens
 etwa erschien, Durch den Garten kommend, ein zerlumpter
 Kerl und verschwand in Elmings Zimmer, ohne bis Tagesanbruch
 wieder sichtbar zu werden.«
 
-Harald nahm eine neue Zigarette. »St das alles,
+Harald nahm eine neue Zigarette. »Ist das alles,
 Mr. Ogden?«
 
-»O nein — im Gegenteil, Nun fängt’s erst richtig
-an, — Da man im Hause diesmal scharf aufgepaßt hatte,
+»O nein — im Gegenteil. Nun fängt’s erst richtig
+an. — Da man im Hause diesmal scharf aufgepaßt hatte,
 ob Elming jemand durch den Vordereingang hinauslassen
 würde, mußte der Strolch noch bei Elming sein. Frau
 Pallimoor klopfte also um halb sieben bei Elming an.
-Elming schien noch zu erschlagen, war ob der Störung sehr
-ungehalten und fragte, was es denn gäbe, Frau Pallimoor
+Elming schien noch zu schlafen, war ob der Störung sehr
+ungehalten und fragte, was es denn gäbe. Frau Pallimoor
 rief ihm durch die Tür zu, daß sich nachts jemand bei ihm
 eingeschlichen hätte. Er solle doch mal nachsehen, ob er
 bestohlen worden sei.«
@@ -644,108 +644,108 @@ bestohlen worden sei.«
 »Hm?!« meinte Harald nur...
 
 »Ja — und da hat Elming denn lachend erklärt, daß
-allerdings ein etwas heruntergekomimenex Kerl, den er am
+allerdings ein etwas heruntergekommener Kerl, den er am
 Tage zufällig kennen gelernt hatte, frecherweise bei ihm gewesen
 <@pagebreak/>
 sei und ihn angebettelt habe. Er hätte den Menschen
-sofort wieder weggeschickt. — Frau Als gab sich
-Eier Auskunft scheinbar zufrieden
+aber sofort wieder weggeschickt. — Frau Pallimoor gab sich
+mit dieser Auskunft scheinbar zufrieden...«
 
-»Na — und.; „?]«
+»Na — und...?!«
 
-»Und — kam zu mir. ich schickte meine Agentin hin,
-und die Agentin sahen in der verflossenen Nacht, daß
-chinesischer Kuli um halb zwei bei Elming einstieg und
-reiht wieder herauskam,«
+»Und — kam zu mir. ich schickte meine Agentin hin.
+Tom und die Agentin sahen in der verflossenen Nacht, daß
+ein chinesischer Kuli um halb zwei bei Elming einstieg und
+— nicht wieder herauskam,«
 
 Haralds ironisches Lächeln ward immer eindringlicher.
-»Bester Mr. Ogden,« sagte er, »die Geschichte ist da
-glich einfach, Elming selbst war die Dame, der Strolch
-der Chinese,«
+
+»Bester Mr. Ogden,« sagte er, »die Geschichte ist doch
+herzlich einfach. Elming selbst war die Dame, der Strolch
+und der Chinese,«
 
 Aber Ogden lächelte nun seinerseits noch ironischer,
 
 »Das ist ausgeschlossen, da Elming sein Zimmer nicht
-Gassen bat. Er war bestimmt schlafen gegangen und lag
-Bett, jedenfalls vorgestern und gestern nacht, Tom hat
-selbst im Bett liegen sehen, da Elming die Nachttisch-pe
+verlassen bat. Er war bestimmt schlafen gegangen und lag
+im Bett, jedenfalls vorgestern und gestern nacht. Tom hat
+ihn selbst im Bett liegen sehen, da Elming die Nachttischlampe
 hatte brennen lassen,«
 
 Harald kniff die Augen zu, sann nach.
 
 »Die Fensterflügel waren also nur angelehnt?« fragte
-Bann,
+er dann,
 
 »Ja, mir angelehnt,«
 
 »Und letzte Nacht?«
 
 »Passierte nichts, Mr. Harst. — Wo also sind die drei
-geblieben, frage ich Sie?!«
+Leute geblieben, frage ich Sie?!«
 
 Harald zuckte die Achseln. »Das Will ich Ihnen morgen
-beantworten, Mr. Ogden, — Bissen Sie Elmings
-imernummer?«
+beantworten, Mr. Ogden. — Wissen Sie Elmings
+Zimmernummer?«
 
 »Nr. 18 ist’s,«
 
-»Also das dritte neben uns, Wir haben 14 und 15. —
+»Also das dritte neben uns, Wir haben 14 und 15.« —
 
 Gleich darauf verabschiedeten wir uns und begaben
-ach dem So! ytpostamt, um hier nach einer postlagern-epesche
-für Harst zu fragen. Harald hatte schon von
-Southerland aus Dr. Gußfelder durch Marconitele-verständigt,
-daß wir in Sydney landen würden,
+uns nach dem Hauptpostamt, um hier nach einer postlagernden
+Depesche für Harst zu fragen. Harald hatte schon von
+Southerland aus Dr. Gußfelder durch Marconitelegramm
+verständigt, daß wir in Sydney landen würden,
 
-Es war auch eine Verse da, Sie lautete:
+Es war auch eine Depesche da. Sie lautete:
 
 <@pagebreak/>
 
 > Rohrer (das war die Gesellschafterin Fräulein von
 Perwarts) harmlos. Aber Diener Karl Münz plötzlich
-gekündigt und Berlin verlassen, Ueber Münz bisher stets
-lich nichts Nachiciliges bekannt. Hat als besonderes Er
-— fennungäzeichen lin?!s auffallend verlängertes Ohrläppchen.
+gekündigt und Berlin verlassen, Ueber Münz bisher freilich
+nichts Nachteiliges bekannt. Hat als besonderes Erkennungszeichen
+links auffallend verlängertes Ohrläppchen.
 — Bitte Nachricht, ob unangenehme Zwischenfälle,
 
 > Gußfelder.
 
-Wir hatten die Depesche sofort im Schalterraum gen
-en.
+Wir hatten die Depesche sofort im Schalterraum gelesen.
 
 Wie prompt meines Freundes scharfer Verstand auch
-jetzt wieder arbeitete, erlangte ich aus den folgenden Vorgängen,
+jetzt wieder arbeitete, erkannte ich aus den folgenden Vorgängen,
 
 Wir bestiegen ein Auto und fuhren zum Hafen. Wir
 wußten, daß die Gergovia hier noch ankerte und erst morgen
 wieder In See gehen würde.
 
-»Um halb neun abends waren wir an Bord der Gergovia.
-Der Kapitän fror nicht anwesend. Man sagte uns,
-daß wir ihn in der Kneipe Zum Kap Flattery fressen
-en.
+Um halb neun abends waren wir an Bord der Gergovia.
+Der Kapitän war nicht anwesend. Man sagte uns,
+daß wir ihn in der Kneipe Zum Kap Flattery treffen
+würden.
 
-»Und der Schiffsarzt?« fragte Harald die Deckwache
+»Und der Schiffsarzt?« fragte Harald die Bordwache
 weiter.
 
 »Mr. Booker dürfte ebenfalls dort in der Kneipe
-n
+sein.« —
 
 Kap Flattery war bald gefunden. In einem der
-Arg fanden wir die Schiifönifiziere und den Arzt
-Booker Hein: Mänteln in sehr gehobener Stimmung vor.
+Hinterzimmer fanden wir die Schiffsoffiziere und den Arzt
+Dr. Booker beim Würfeln in sehr gehobener Stimmung vor.
 
 Booker ließ sich nur widerwillig ins Nebenzimmer
-en,
+lotsen.
 
 »Nur eine Frage,« meinte Harald. »Haben Sie an
 einem der Passagiere der Gergovia, die in Aden an Bord
 kamen, eine Verletzung bemerkt? Besinnen Sie sich auf
-einen Edward Tomorly? Hatte der vielleicht ein vors
-baundenes Ohrläppchen?«
+einen Edward Tomorly? Hatte der vielleicht ein verbundenes
+Ohrläppchen?«
 
-»Ja. Das stimmt. Er behauptete, er ihre einmal
-Mk in dem linken Unstet gehabt, un 90 im im
+»Ja. Das stimmt. Er behauptete, er hätte einmal
+Frost in dem linken Ohrläppchen gehabt, und da sein eine
 <@pagebreak/>
 Frostbeule aufgebrochen. Deshalb ließ er es sich zum Teil
 abnehmen.«
@@ -755,29 +755,29 @@ abnehmen.«
 »Oh — schon auf dem Dampfer Southerland.«
 
 »Und der Mann roch etwas nach Jodoform, Mr.
-voller 7»
+Booker?«
 
 »Freilich. Er verband sich Die frische Operationsnarbe
 stets selbst — mit Jodoformgaze und Heftpflaster.«
 
-»Danke, Mr. See Vielleicht reden Sie nicht weiter
+»Danke, Mr. Booker. Vielleicht reden Sie nicht weiter
 Darüber, daß wir Sie ausgeforscht haben. Guten Abend.«
 
 Draußen auf der Straße meinte Harald: »Siehst Du,
-lieber Aber, nun wissen wir Bescheid. Der halbe Brief
-Bogen roch nach Jodoform, Also ist Karl Münz dieser
-ich gewesen und nicht, wie ich annahm, Zelestine Drepp,
-im; bat sich von dem Schiffsarzt der Southerland das
-Die! des Ohrläppchens beseitigen lassen, um sein besonders
-Erkennungszeichen aus der Welt zu schaffen, Und dieser
+lieber Alter, nun wissen wir Bescheid. Der halbe Briefbogen
+roch nach Jodoform. Also ist Karl Münz dieser
+Tomorly gewesen und nicht, wie ich annahm, Zelestine Drepp.
+Münz hat sich von dem Schiffsarzt der Southerland das
+Zuviel des Ohrläppchens beseitigen lassen, um sein besonders
+Erkennungszeichen aus der Welt zu schaffen. Und dieser
 Karl Münz wird mit zu Josef Bennararas Bande gehört
-eben, wird von Bennarara bei Thea von Perwart als
-Union eingeschmuggelt worden sein, Er hat uns damals
-mischt, als Gußfelder die Geschichte seiner australischen
+haben, wird von Bennarara bei Thea von Perwart als
+Spion eingeschmuggelt worden sein. Er hat uns damals
+belauscht, als Gußfelder die Geschichte seiner australischen
 Abenteuer erzählte, und er wird fraglos mit Zelestine Drepp
-numenarbeiten, Die eine Gegenpartei kennen wir nun
-Wer aber die zweite ist, die so zwecklos die Koffer
-durchwühlt hat, das bleibt noch dunkel, falls nicht,, „*«
+zusammenarbeiten. Die eine Gegenpartei kennen wir nun
+also. Wer aber die zweite ist, die so zwecklos die Koffer
+durchwühlt hat, das bleibt noch dunkel, falls nicht...«
 
 <@harst.kkb band="6" titel="Die grüne Schlange"/>
 
@@ -787,91 +787,92 @@ durchwühlt hat, das bleibt noch dunkel, falls nicht,, „*«
 
 <h3>Freund Pastorias.</h3>
 
-Wir waren vom Hafen in eine der älteren Gassen einst
-gebogen, Es gab hier nur riesige Warenspeicher, die ernst
+Wir waren vom Hafen in eine der älteren Gassen eingebogen.
+Es gab hier nur riesige Warenspeicher, die ernst
 Und feierlich ihre Fronten mit den aus den oberen Fenstern
-heraushängenden Ladekrähnen einander zufrieden,
+heraushängenden Ladekrähnen einander zukehrten,
 
-Am Ende der ssschnurgeraden Gasse stand der Vollmond
+Am Ende der schnurgeraden Gasse stand der Vollmond
 über den dunklen Massen der fernen Berge hoch am Himmel
-und ließ die drei Schienenstränge der Botenlohn, die hier
-die Straße entlangliefen, silbern schimmern, Güterwagen,
-zum Teil noch beladen, deckten hie und da am Boy
+und ließ die drei Schienenstränge der Hafenbahn, die hier
+die Straße entlangliefen, silbern schimmern. Güterwagen,
+zum Teil noch beladen, deckten hie und da die Schienen.
 
-Und — hier schwieg Harald plötzlich
+Und — hier schwieg Harald plötzlich...
 
-Hob den rechten Arm, ,„.
+Hob den rechten Arm...
 
-Da hing an einer der dicken Neuigkeiten eines Sperr
-Fischers rechter Hand ein Mensch, den wir offenbar überrascht
+Da hing an einer der dicken Krahnketten eines Speichers
+rechter Hand ein Mensch, den wir offenbar überrascht
 hatten, — ein Dieb, der wohl in den Speicher hatte eindringen
-wollen
+wollen...
 
 »He — kommen Sie herab!« rief Harald dem Menschen
-auf englisch zu. »Schnell, Freundchen, schnell, Sonst
+auf englisch zu. »Schnell, Freundchen, schnell. Sonst
 holen wir einen Wächter,«
 
 Der Mann stand gleich darauf Im Mondlicht vor uns
 — ein schlanker Bursche mit Stoppelbart, schmierigen Hosen,
 <@pagebreak/>
-Forschend und Segeltuchschuhen, auf dem Kopfe einen
+Wollhemd und Segeltuchschuhen, auf dem Kopfe einen
 schwarz lackierten brüchigen Strohhut,
 
 Das Gesicht des Mannes zeigte nicht die geringste Angst
-der Verlegenheit. Er hatte sympathische Züge, und die
-listigen kleinen Augen funkelten uns mehr empört als man,
+oder Verlegenheit. Er hatte sympathische Züge, und die
+listigen kleinen Augen funkelten uns mehr empört als unsicher
+an.
 
 Bevor Harald noch etwas sagen konnte, erklärte der
-beriet mit einer Art Verbeugung: »Ich habe mir nur eine
-Dolle Kautabak aus dem Speicher geholt, nichts weiter.
-Bitte — hier ist sich. Wenn Sie mich der Polizei übergeben,
-me ich ins Zuchthaus, da ich schon häufiger aus Not
-stehlen habe. Ich war bis vor acht Brannten Digger
-joldgräber), erkrankte schwer, kam hier ins Lazarett und
-unfähig, schwere körperliche Arbeit zu leisten.«
+Mensch mit einer Art Verbeugung: »Ich habe mir nur eine
+Rolle Kautabak aus dem Speicher geholt, nichts weiter.
+Bitte — hier ist sie. Wenn Sie mich der Polizei übergeben,
+komme ich ins Zuchthaus, da ich schon häufiger aus Not
+gestohlen habe. Ich war bis vor acht Monaten Digger
+(Goldgräber), erkrankte schwer, kam hier ins Lazarett und
+bin unfähig, schwere körperliche Arbeit zu leisten.«
 
 Jedenfalls — dieser Mann, der Jimmy Pastorias
 hieß, wurde dann von Harald als... Diener und Führer
-Angewworben, nachdem er Ihn noch auf Herz und Nieren
-Ach Längeres Ausfragen geprüft hatte. Haft gab ihm
-Feld, damit er sich neu ernsteste, und bestellte ihn für den
+angeworben, nachdem er ihn noch auf Herz und Nieren
+durch längeres Ausfragen geprüft hatte. Harst gab ihm
+Geld, damit er sich neu einkleide, und bestellte ihn für den
 nächsten Morgen ins Pensionat.
 
-Pastorias. …, weinte vor Freuden.
+Pastorias... weinte vor Freuden.
 
-Als wir Heide heimfuhren, meinte Harald: »Der Bursche
-eine tadellose Alquisition für uns. Paß auf, der ist
+Als wir beide heimfuhren, meinte Harald: »Der Bursche
+ist eine tadellose Akquisition für uns. Paß auf, der ist
 treu und dankbar. Er kennt das Leben in der australischen
-Wildnis, kann reiten und schießen, spricht verschiedene Dicker
-hiesigen Neger und läßt sich nicht so leicht verbürgen,
+Wildnis, kann reiten und schießen, spricht verschiedene Dialekte
+der hiesigen Neger und läßt sich nicht so leicht verblüffen,
 was die Hauptsache ist.«
 
 Harsts Menschenkenntnis bewährte sich wieder einmal,
-ie die Zukunft zeigte.
+wie die Zukunft zeigte.
 
-»Es war gegen studierter zwölf, als wir im Pensionat
+Es war gegen einviertel zwölf, als wir im Pensionat
 Pallimoor anlangten. Der Nachtportier ließ uns ein,
 
-in unserem gemeinsamen Schleim ’m Wert:
-Hagel laden wir so, als gingen wir zu Bett. im Dunkeln
+in unserem gemeinsamen Schlafzimmer im Seitenflügel
+taten wir so, als gingen wir zu Bett. im Dunkeln
 kleideten wir uns nachher wieder lautlos an und bezogen
 unsere Beobachtungsposten am Fenster, bewaffnet mit unseren
 <@pagebreak/>
 Ferngläsern, die in dieser mondhellen Nacht uns gute
 Dienste leisten mußten.
 
-Vor uns lag ein breiter heller Gartenweg, kann elna
-Rasenfläche mit Gebüschen. In einem dieser Büsche Man
+Vor uns lag ein breiter heller Gartenweg, dann eine
+Rasenfläche mit Gebüschen. In einem dieser Büsche steckte
 fraglos der Hausdiener Tom.
 
 Im Hause war es bereits völlig ruhig,
 
-So saßen wir denn am Fenster und schauten an.
-zweifelnd hinaus, damit uns auch nicht das Geringste entginge.
+So saßen wir denn am Fenster und schauten abwechselnd
+hinaus, damit uns auch nicht das Geringste entginge.
 
 Nichts geschah — nichts,
 
-Es wurde zwei Uhr morgens — halb drei
+Es wurde zwei Uhr morgens — halb drei...
 
 Da gaben wir es auf,
 
@@ -891,166 +892,166 @@ So schlüpften wir denn den Gang hinab bis zu Elmings
 Zimmer, das dicht an dem Nebenausgang in den
 Garten sich befand.
 
-Harald preßte meinen Arm. »Pfeil! stehen!«
+Harald preßte meinen Arm. »Bleib’ stehen!«
 hauchte er.
 
 Seiner Taschenlampe halb verdeckter Lichtkegel traf die
 Tür, glitt von der Nummer 18 zum Schloß.
 
-Dann legte er die rechte Hand auf den Drücker. -
+Dann legte er die rechte Hand auf den Drücker.
 
-Und — flüsterte abermals; »Es steckt kein Schlüssel im
-Schloß! — Warte ...!«
+Und — flüsterte abermals: »Es steckt kein Schlüssel im
+Schloß! — Warte...!«
 
-Er floh den Dietrich ins Schlüsselloch,
+Er schob den Dietrich ins Schlüsselloch,
 
-Ein Knacken — noch eins
+Ein Knacken — noch eins...
 
 Ich hielt den Atem an.
 
 Drinnen regte sich nichts.
 
-Die Tür ging nach innen auf.
+Die Tür ging nach innen auf...
 
-Matter gelblicher Lichtschein der Nachttischlampe en
-Rechter Hand an der Wand ein Bett
+Matter gelblicher Lichtschein der Nachttischlampe...
+Rechter Hand an der Wand ein Bett...
 
 <@pagebreak/>
 Und — auf dem Kopfkissen der Kopf eines Mannes,
-jetzt zu Schlafen schien ...
+der jetzt zu schlafen schien ...
 
 Harald huschte an das Bett, kam zurück zur Tür, schob
 mich in den Flur, schloß ab.
 
-Ebenso lautlos waren wir wieder in unserm Schlaf
-immer.
+Ebenso lautlos waren wir wieder in unserm Schlafzimmer.
 
 Und ohne auch nur ein einziges Wort weiter zu verlieren,
 entkleidete Harald sich rasch, schlüpfte unter Die Decke
-ich, ließ mich mit meinen tausend Fragen unbefriedigt
+und... ließ mich mit meinen tausend Fragen unbefriedigt
 im Dunkeln,
 
 Ich schlief nur schwer ein,
 
-Morgenëê gegen sieben erwachten wir über lautem Hin
-1d Her im Flur draußen,
+Morgens gegen sieben erwachten wir über lautem Hin
+und Her im Flur draußen,
 
 Als das Zimmermädchen — es war nicht dieselbe, die
-bedient Halle — das Frübfiid brachte, sagte
+uns abends bedient hatte — das Frühstück brachte, sagte
 sie leise:
 
-»ich bin die Agentin Mr. Ogdens. tun der vergangenen
-Nacht ist der hier wohnende Farmer O’Kostan um zehn-usend
+»ich bin die Agentin Mr. Ogdens. In der vergangenen
+Nacht ist der hier wohnende Farmer O’Kostan um zehntausend
 Pfund Sterling bestohlen worden, die er gestern
-rx Schafwolle einkaffiert hatte. Er hat nichts von dem
-Diebstahl bemerkt, Er hatte das Gelb unter dem Kopfkissen
-liegen, Mr. Ogden wird sofort zu Ihnen kommen, als
-Vorredete verkleidet,«
+für Schafwolle einkassiert hatte. Er hat nichts von dem
+Diebstahl bemerkt. Er hatte das Geld unter dem Kopfkissen
+liegen. Mr. Ogden wird sofort zu Ihnen kommen, als
+Briefbote verkleidet,«
 
 Ogden kam und wollte mit uns den Fall besprechen.
-ie Polizei war noch nicht benachrichtigt worden.
+Die Polizei war noch nicht benachrichtigt worden.
 
-»Ich Halle Elming für den Dieb, Mr. Harst,« meinte
+»Ich halte Elming für den Dieb, Mr. Harst,« meinte
 er. »Soll ich Elmings Verhaftung veranlassen?«
 
 »Nein, Mr. Ogden. Unternehmen Sie nichts. ich
-Erde das Geld wieder hecrbeischafsen. Niemand darf Er
-Ding irgendwie zeigen, daß man ihn beargwöhnt,«
+werde das Geld wieder herbeischaffen. Niemand darf Elming
+irgendwie zeigen, daß man ihn beargwöhnt,«
 
-Ogden nickte, »Ja — es wäre ja auch Schwer, schbm
-das zu bezechter, Zoo Ab ums Patina haben den
+Ogden nickte. »Ja — es wäre ja auch schwer, ihm
+etwas zu beweisen. Tom und meine Agentin haben von
 draußen gesehen, daß er die ganze Nacht über im Bett lag.
-ach denke, er wird den Diebstahl durch einen Helfershelfer
-en ausführen Laffen.«
+Ich denke, er wird den Diebstahl durch einen Helfershelfer
+haben ausführen lassen.«
 
 <@pagebreak/>
 »Schon möglich, Mr. Ogden. Nur Geduld. Ich Hoffe,
 den Mann in der nächsten Nacht zu erwischen,«
 
-Ogden empfahl sich. Wir frülßsiückten. Harald war
-schweigsam. es:
+Ogden empfahl sich. Wir frühstückten. Harald war
+schweigsam.
 
-Dann erschien Frau Pallimoor bei und — ganz vf &
-stört, Sie hatte nun von Ogden erfahren, daß sie Harst
-bei sich beherbergte, den berühnuiten Harst.
+Dann erschien Frau Pallimoor bei uns — ganz verstört.
+Sie hatte nun von Ogden erfahren, daß sie Harst
+bei sich beherbergte, den berühmten Harst.
 
-»Helfen Sie mir, Mr. Harst,« flehte sie. »Der, Auf
+»Helfen Sie mir, Mr. Harst,« flehte sie. »Der Ruf
 eines Pensionats ist schnell zugrunde gerichtet. Ich begreife
-ja in seiner Weise, wie dieser Elming, falls er einen
+ja in keiner Weise, wie dieser Elming, falls er einen
 Helfershelfer bei sich verborgen hatte, den Mann in den
 Hauptteil des Hauses bringen konnte, da ich doch die Tür
-Erbes Seitenflügels, die auf den Vorraum mündet, hatte verschließen
-lassen, nachdem Sie beide heimgekommen waren,
+des Seitenflügels, die auf den Vorraum mündet, hatte verschließen
+lassen, nachdem Sie beide heimgekommen waren.
 Der Schlüssel steckte von außen. Sie verstehen: Elming und
-die Gäste des Erdgeschosses des Seitenflügels waren freue
-sagen eingesperrt.«
+die Gäste des Erdgeschosses des Seitenflügels waren sozusagen
+eingesperrt.«
 
-»Oh, ich verstehe, Mistreß Pallimoor. Und Sie wer
-den verstehen, daß man Elming unter diesen Umständen
+»Oh, ich verstehe, Mistreß Pallimoor. Und Sie werden
+verstehen, daß man Elming unter diesen Umständen
 nichts anhaben kann, gar nichts. Also — überlassen Sie
 nur uns das weitere.« —
 
 Um elf Uhr bekamen wir Elming zum ersten Male zu
 Gesicht. Er saß im Garten Im Liegestuhl und las Zeitungen.
 
-Wir schlenderten vorüber. Er schonte flüchtig auf und
+Wir schlenderten vorüber. Er schaute flüchtig auf und
 beachtete uns nicht weiter.
 
 Harald hängte sich in meinen Arm ein, holte tief Atem,
 sagte dann:
 
-»Unbegreiflich, dieses Sicherheitögesühl! Er muß uns
-längst erkannt haben »..!«
+»Unbegreiflich, dieses Sicherheitsgefühl! Er muß uns
+längst erkannt haben...!«
 
 Ich blieb mit einem Ruck stehen.
 
-»es ist Karl Münz, mein Alter,« lächelte Harald,
-»Karl Münz alias Tomorly. Wie froh bin ich, daß diese
+»es ist Karl Münz, mein Alter,« lächelte Harald.
+»Karl Münz alias Tomorly. Wie froh bin ich, daß dieser
 Kerl, der die Skizze Hat, noch nicht ins Innere abgereist
 ist.«
 
-Ich vergaß all meine Fragen — alles, Ich war
+Ich vergaß all meine Fragen — alles. Ich war
 sprachlos,
 
 <@pagebreak/>
-»Es ist Karl Münz, In seinem Zimmer schwebte
-ein ganz seiner Jodoformgeruch in der Luft, und das
-vegoperierte Ohrläppchen verrät sich noch durch die rote
-Narbe, Der Kerl muß entweder ein ungeheurer Dummkopf
+»Es ist Karl Münz. In seinem Zimmer schwebte
+noch ein ganz feiner Jodoformgeruch in der Luft, und das
+wegoperierte Ohrläppchen verrät sich noch durch die rote
+Narbe. Der Kerl muß entweder ein ungeheurer Dummkopf
 oder ein ganz gefährlicher Bursche sein. Jedenfalls —
-ist mir unverständlich! Hier zu lichten, wo ich ihm auf
-der Nase sitze, — das ist denn doch der Gipfel der Um-persrorenheit!«
+er ist mir unverständlich! Hier zu stehlen, wo ich ihm auf
+der Nase sitze, — das ist denn doch der Gipfel der
+Unverfrorenheit!«
 
-Er selbst kann doch aber unmöglich den Diebstahl
-begangen haben, Harald. Uehberhaupt
+»Er selbst kann doch aber unmöglich den Diebstahl
+begangen haben, Harald. Ueberhaupt...«
 
-Da rief jemand hinter uns; »Mr, Harten — Mir,
-Arten, es ist ein Mann da, den Sie herbestellt haben.«
+Da rief jemand hinter uns: »Mr. Harten — — Mr.
+Harten, es ist ein Mann da, den Sie herbestellt haben.«
 
 Der Mann war Jimmy Pastorias — heute nicht
 wiederzuerkennen! Rasiert, frisiert, gewaschen, von Kopf
 bis Fuß in neuer Kluft: fast ein Gentleman!
 
-Er strahlte, »Ich melde mich zum Dienst, Mr. Hart
-„« sagte er feierlich,
+Er strahlte. »Ich melde mich zum Dienst, Mr. Harten,«
+sagte er feierlich,
 
 Harst stellte ihm einen langen Besorgungszettel zusammen,
 alles Einkäufe für den Ritt ins Innere,
 
-Rafioriad ging uns dabei mit seinem erprobten Na!
-he zur Hand, Dann verabschiedete er sich, — »Sie werden
-mieden sein, Mr. Harten,« meinte er stolz, »Ich lasse
-ich nicht übers Ohr bauen.« —
+Pastorias ging uns dabei mit seinem erprobten Rat
+sehr zur Hand. Dann verabschiedete er sich. — »Sie werden
+zufrieden sein, Mr. Harten,« meinte er stolz. »Ich lasse
+mich nicht übers Ohr hauen.« —
 
-un Rest des Tages verbrachten wir zumeist in der
-ad!
+Den Rest des Tages verbrachten wir zumeist in der
+Stadt.
 
-Ogden hatte aus Haralds Wunsch den fragwürdigen
-[King Na seine Agentin unausgesetzt beobachten
-Essen, Elming tat jedoch nichts, was irgendwie dafür
-besprochen hätte, daß er ein Glücksritter sei, Er ging.
-abends ins Theater, kam um 412 heim und legte sich
-Bett, wie die Agentin uns um 412 meldete,
+Ogden hatte auf Haralds Wunsch den fragwürdigen
+Elming durch seine Agentin unausgesetzt beobachten
+lassen. Elming tat jedoch nichts, was irgendwie dafür
+gesprochen hätte, daß er ein Glücksritter sei. Er ging
+abends ins Theater, kam um ¼ 12 heim und legte sich
+zu Bett, wie die Agentin uns um ½ 12 meldete,
 
 Um Mitternacht herrschte im ganzen Pensionat Totenstille.
 
@@ -1061,83 +1062,83 @@ Um Mitternacht herrschte im ganzen Pensionat Totenstille.
 <h3>Die Gegenparteien,</h3>
 
 die Ereignisse dieser Nacht, sozusagen das Vorspiel
-für unsere späteren Wildnis - Abenteuer, überstürzten sich
-dann in Gras wahren Galopptempo.
+für unsere späteren Wildnis-Abenteuer, überstürzten sich
+dann in einem wahren Galopptempo.
 
-Heft hatte Tom und zwei Agenten Ogdens, die
-draußen in den Gartenbüschen steckten, genau instruiert,
+Harst hatte Tom und zwei Agenten Ogdens, die
+draußen in den Gartenbüschen steckten, genau instruiert.
 Sie sollten erst eingreifen, wenn wir ihnen ein Zeichen
 geben würden.
 
 Wir wußten, daß in dem Pensionat noch drei andere
-reiche Schafzlichter wohnten, und wir rechneten damit, daß
-Ding Mähne entweder in dieser oder in einer der folgenden
-Arg abermals versuchen mürbe, sein Betriebskapital
-zu
+reiche Schafzüchter wohnten, und wir rechneten damit, daß
+Elming-Münz entweder in dieser oder in einer der folgenden
+Nächte abermals versuchen würde, sein Betriebskapital
+zu erhöhen.
 
-im Flur des Seitenflügeld nach der Tür zum Bote
-Vorraum hin stand unweit dieser Tür ein großer Kleider
-schlank. Frau Pallimoor Hatte ihn unauffällig entleert
-so daß wir gegen einpiertel eins bequem Per
+im Flur des Seitenflügels nach der Tür zum Hotelvorraum
+hin stand unweit dieser Tür ein großer Kleiderschrank.
+Frau Pallimoor Hatte ihn unauffällig entleert,
+so daß wir gegen einviertel eins bequem hineinschlüpfen
 konnten.
 
-Zuges niedrige Hocker dienten uns hier als Eile,
+Zwei niedrige Hocker dienten uns hier als Sitze. Die
 Schranktür war zwei Finger breit offen.
 
-Merkwürdigerweise brauchten wir gar nicht all
+Merkwürdigerweise brauchten wir gar nicht allzu
 lange zu warten,
 
 <@pagebreak/>
 Bereits kurz nach halb eins hörten wir an der Tür
-von uns ein Geräusch,
+links von uns ein Geräusch,
 
-Da dürr das Flurfenster das Mondlicht einen Teil
-Dielen und des Kokosläufers beschien, konnte man mit
-bereits an das Dreivierteldunkel gewöhnten Augen
-ich die Spalte der Schranktür undeutlich erkennen, daß
-nd an der Tür links die eine untere Füllung heraus-b,
+Da durch das Flurfenster das Mondlicht einen Teil
+der Dielen und des Kokosläufers beschien, konnte man mit
+den bereits an das Dreivierteldunkel gewöhnten Augen
+durch die Spalte der Schranktür undeutlich erkennen, daß
+jemand an der Tür links die eine untere Füllung heraushob.
 Sie mußte nur ganz lose eingefügt gewesen sein.
 
-Dann schschoh sich ein Mensch in schwarzem Trikot
-Tangengfeich Durch die schmale Oeffnung,
+Dann schob sich ein Mensch in schwarzem Trikot
+Schlangengleich Durch die schmale Oeffnung,
 
 Seltsam genug: der Mensch kam vom Hotelvorraum
 her! —
 
-Ich begriff das nicht, Und auch Harald hauchte mir
-ht ins Ohr: »Eine Ueberraschung, und keine geringe!«
+Ich begriff das nicht. Und auch Harald hauchte mir
+jetzt ins Ohr: »Eine Ueberraschung, und keine geringe!«
 
 Die schlanke Gestalt, kaum sichtbar in dem praktischen
-lebesanzug, huschte wie ein Schatten den Flur entlang
+Diebesanzug, huschte wie ein Schatten den Flur entlang
 bis zu Elmings Zimmertür. Der Mensch trug eine seidene
-schwarze Halbmaêtke und weiche Morgenschuhe. Selten habe
+schwarze Halbmaske und weiche Morgenschuhe. Selten habe
 ich so gewandte katzengleiche Bewegungen beobachtet wie
 bei diesem Burschen, der jetzt am Türschloß von Nr. 18
 sich zu schaffen machte.
 
-Dann — war er verschwunden 2...
+Dann — war er verschwunden...
 
-»Und wir — waren hinter ihm, waren nun gleichfalls
-der Tür von Nr, 18, fanden sie nur angelehnt. Î
+Und wir — waren hinter ihm, waren nun gleichfalls
+an der Tür von Nr. 18, fanden sie nur angelehnt...
 
-an — hörten drinnen plötzlich, einen leisen Aufschrei...
+Und — hörten drinnen plötzlich einen leisen Aufschrei...
 
-Pein die Tür auf.
+Stießen die Tür auf.
 
-Unsere Lampen warfen zwei Lichtkegel auf den schlau-Mann
-im Trikot, der wie gebannt vor Elmings Bett
-ist und uns jetzt anstarrte wie Spukgestaltien, der Hölle
-entstiegen
+Unsere Lampen warfen zwei Lichtkegel auf den schlanken
+Mann im Trikot, der wie gebannt vor Elmings Bett
+stand und uns jetzt anstarrte wie Spukgestaltien, der Hölle
+entstiegen...
 
-Im Bett aber lag Elming — ebenfalls reglos
+Im Bett aber lag Elming — ebenfalls reglos...
 
-Die Nachttischlampe brannte wieder ...
+Die Nachttischlampe brannte wieder...
 
 Was — was bedeutete das alles?!
 
 Da sagte Harald schon mit kalter Ironie:
 
-»Sie haben mich Irrig einen Moment der Fassung
+»Sie haben mich wirklich einen Moment außer Fassung
 <@pagebreak/>
 gebracht, Fräulein Alix Faulhuber. Nun Bin ich um
 vieles klüger. — Nicht wahr, der Wachskopf Dort im Bett,
@@ -1148,108 +1149,108 @@ die Sie in unseren Koffern nicht fanden,«
 
 Da kam Leben in die schlanke Salzsäule,
 
-Zu viel Leben ...
+Zu viel Leben...
 
-Das Weib setzte alles auf eine Karte ,.
+Das Weib setzte alles auf eine Karte...
 
 Mit einem Panthersatz war sie am Fenster, riß den
 einen Flügel auf, war draußen...
 
 Harst sprang hinterdrein. Sein Pfiff machte die
-Fische rauschen. Tom — die Agentin suchten das Weib
-ten Die Jagd ging in die Tiefe des Gartens
-nein ...
+Büsche rauschen. Tom — die Agentin suchten das Weib
+einzukreisen. Die Jagd ging in die Tiefe des Gartens
+hinein...
 
-Und — blieb erfolglos ...
+Und — blieb erfolglos...
 
 Die angebliche Alix Faulhuber entkam uns, tauchte in
-einem Nachbardach unter,
+einem Nachbarpark unter,
 
-Zu spät schickte Harald mich und den einen der Ogden«
-Leute nach dem Pensionat zurück, Der Mieter der Zimmer
-und 6 im Vorderhause, der sich als Kaufmann Vander-proft
+Zu spät schickte Harald mich und den einen der Ogden-Leute
+nach dem Pensionat zurück. Der Mieter der Zimmer
+5 und 6 im Vorderhause, der sich als Kaufmann Vanderdrost
 nebst Tochter aus Antwerpen ausgegeben, hatte sein
-Zinnen bereits verlassen, war nicht mehr zu finden.
-Seine Rosiger — alles war noch da, Nur er selbst nicht
-Da er war entmoifeht, hatte leider rechtzeitig Lunte gerochen
-... —
+Zimmer bereits verlassen, war nicht mehr zu finden.
+Seine Koffer — alles war noch da. Nur er selbst nicht
+mehr. Da er war entwischt, hatte leider rechtzeitig Lunte
+gerochen... —
 
 Wie durchsuchten dann auch Elmings Zimmer. Harst
 stellte fest, daß der Mann nie ein künstliches Bein gehabt
-hatte. In dem einen Koffer lagen Bein schienen und anderes,
+hatte. In dem einen Koffer lagen Beinschienen und anderes,
 das den Betrug ermöglicht hatte,
 
 Mehr noch fand Harst heraus: daß die Füllung der
-Intensiv ebenfalls herausgeschnitten und wieder eingefügt
+Außentür ebenfalls herausgeschnitten und wieder eingefügt
 war, daß Elming-Münz in dieser Nacht fraglos ebenfalls
 entflohen war, indem er seinen Weg Durch das Loch der
-Füllung und dann im Schuh des gemauerten Treppengeländers
+Füllung und dann im Schutz des gemauerten Treppengeländers
 <@pagebreak/>
 bis zu den ersten Bäumen genommen hatte —
 bemerkt von den Beobachtern in den Büschen, —
 
 Und in einem Kellerversteck des angeblichen biederen
-Nicken Faulhuber wieder entdecke Harald die gestohlenen -
+buckligen Faulhuber wieder entdecke Harald die gestohlenen
 10000 Pfund, die das Gaunerpaar hatte preisgeben müssen.
 
 Nicht Elming war der Dieb gewesen! Nein — die
-beiden Leute, die sich auf der Southerland uns als Vater«
-»und Tochter genähert, hatten hier gearbeitet!
+beiden Leute, die sich auf der Southerland uns als Vater
+und Tochter genähert, hatten hier gearbeitet!
 
 Die Polizei wurde alarmiert. Es galt die drei Leute
 zu fangen, die sich an unsere Fersen geheftet hatten, die
-nun entkommen Wagner.
+nun entkommen waren.
 
 Nie werde ich des Kollegen Ogden ironisches Lächeln
-vergessen, als er und am Morgen mitteilte, Daß bisher
-alle So seiner Leute und der Polizei umsonst
-gewesen
+vergessen, als er uns am Morgen mitteilte, Daß bisher
+alle Bemühungen seiner Leute und der Polizei umsonst
+gewesen.
 
 Nie vergesse ich Haralds eisiges Gesicht, als er zu Ogden
 sagte:
 
-»Ich gebe zu, daß ich mich ... Blamiert habe, Krüge«
-innig hat es verstanden, mich in Sicherheit zu wiegen,
-nd mein Verdacht gegen die beiden Faulhuber schwand,
+»Ich gebe zu, daß ich mich... blamiert habe, Münz-Elming
+hat es verstanden, mich in Sicherheit zu wiegen,
+und mein Verdacht gegen die beiden Faulhuber schwand,
 als sie mit der Southerland scheinbar weiter nach Melbourne
-fuhren. In Wahrheit haben sie nach und den
+fuhren. In Wahrheit haben sie nach uns den
 Dampfer verlassen und sind dann hier als Vater und
-echter Vanderdrost abgestiegen. Immerhin: ich wußte
-on gestern nacht, laß Miüinz-Elming in allerlei Vertiefungen
+Tochter Vanderdrost abgestiegen. Immerhin: ich wußte
+schon gestern nacht, daß Münz-Elming in allerlei Verkleidungen
 sich in der Stadt umhertrieb — als Dame, Strolch,
 Chinese —, während hier in seinem Zimmer ein Wachskopf
 alle Welt täuschte.«
 
-»Und — weshalb trieb er sich draußen. herum?« fragte
+»Und — weshalb trieb er sich draußen herum?« fragte
 Ogden gespannt,
 
 »Ah — das sollten Sie doch wissen, Mr. Ogden. Es
-hebt ja in den Behangen. Drei feuere Einbrüche sind
-in den Bächlein verübt erben, in Denen Witze Ertrag Bete
-leidet heimkehrte. Ich denke, diese Einbrüche in die Villen
-Macher Manschetten kommen auf Elmings Konto,«
+steht ja in den Zeitungen. Drei schwere Einbrüche sind
+in den Nächten verübt worden, in denen Münz-Elming verkleidet
+heimkehrte. Ich denke, diese Einbrüche in die Villen
+reicher Kaufherren kommen auf Elmings Konto,«
 
 »Und — — nun, Mr. Harst?«
 
 <@pagebreak/>
 »Nun — — reise ich ab. Ich liebe Sydney nicht. Ich
-hoffe außerhaloó Sprache diese Scharte ne es -
+hoffe außerhalb Sydneys diese Scharte auszuwetzen.« —
 
 Um elf Uhr vormittags entführte uns der Zug gen
 Südwest — der australischen Wildnis entgegen.
 
 In mir aber brannte eine einzige Frage wie peinvolles
-Feuer: Wer waren Faulhuber nebst Tochter?! — Es. war
+Feuer: Wer waren Faulhuber nebst Tochter?! — Es war
 die andere Gegenpartei, — gewiß! Woher kannten sie
-unsere Mission?! Woher kannten sie Karl Kunst!
+unsere Mission?! Woher kannten sie Karl Münz?!
 
 Harald schlief in seiner Polsterecke.
 
 Und im nächsten Wagen dritter Klasse saß Freund
-Jimmy Pastorias mit unserem Gepäck, war allein
-mit meinen Gedanken ...
+Jimmy Pastorias mit unserem Gepäck. Ich war allein
+mit meinen Gedanken...
 
-Wer waren die Faulhuber — — wert!
+Wer waren die Faulhuber — — wer?!
 
 <@harst.kkb band="7" titel="Das Teekästchen"/>
 
@@ -1265,7 +1266,7 @@ Auf Todeswegen.
 
 <h2>4. Kapitel,</h2>
 
-<h3>Das grüne Lieh!,</h3>
+<h3>Das grüne Licht.</h3>
 
 »Auf Todeswegen!!« — Dieser Titel mag manchem
 erfahrenen und anfpruchöpoll Hingen Aber — das ist
@@ -1290,7 +1291,7 @@ an elenden Goldgräberlagern, an zum Teil recht
 armseligen Stationen vorüber, — durch weite Strecken
 <@pagebreak/>
 Buschland, wo nur Salzkräuter gediehen ımd bellte Eifer
-syptusbäume ihre Triebe wie Skeletiarme in die heiße Luft
+Eukalyptusbäume ihre Triebe wie Skelettarme in die heiße Luft
 emporreckten ... —
 
 Harst Holte den versäumten Nachtschlaf gründlich nach,
@@ -1300,7 +1301,7 @@ in Australien befinden mochte.
 
 Wir hatten Fahrkarten bis Robba Tamps genommen,
 wo die Hauptstrecke nach Süden abbiegt, Von Robba
-Tamps wollten wir eine Privathahn benutzen, die von
+Tamps wollten wir eine Privatbahn benutzen, die von
 den Schafzüchtern von Neu-Süd-Wales erbaut worden war,
 Um Mitternacht sollten wir in-Robba Tamps sein. Harald
 weckte mich jedoch schon gegen neun Uhr abends.
@@ -1587,7 +1588,7 @@ Die Nacht verging, Ich lernte so Australien vom Auto
 aus kennen. Einmal durchquerten wir einen Wüstenstrich,
 eine Steppe. Da sah ich den ersten Trupp Känguruhs hochgehen,
 sah die ersten Emus und Kasuare in Freiheit, diese
-ftraußähnlichen Riesenvögel, —
+straußähnlichen Riesenvögel, —
 
 Die Station Amsterdam mit ihren langgestreckten Welt
 blechftällen und dem schmucklosen Wohnhaus lag mitten in
@@ -1601,7 +1602,7 @@ schüttelte er den Kopf,
 
 »Das ist Selbstmord, meine Herren. Seit zwei Monaten
 hat es hier seinen Tropfen geregnet. Zehn Meilen
-westlich von meinem legten Drahtzaun beginnt die austra-lische
+westlich von meinem legten Drahtzaun beginnt die australische
 Wüste. Wissen Sie, was das heißt?!«
 
 »Wir müssen!« sagte Harald kurz. »Verkaufen Sie uns
@@ -1837,8 +1838,8 @@ sehen,« rief er Laaken zu.
 Er hatte die Richtung, aus der die rettenden Schüsse
 (gefeuert worden waren, tadellos herausgefunden. Hinter
 einem dichten Buschstreifen entdecken tun die Fährten von
-Brei Reitern. Dort, wo sie am Ende der Bufchinfel ge
-He hatten, Tagen zwei Potronenhülfen, Die noch nach
+Brei Reitern. Dort, wo sie am Ende der Buschinsel ge
+He hatten, Tagen zwei Patronenhülsen, Die noch nach
 ulverfchleim rochen,
 
 »Ebenfalls Winchesterbüchsen,« entschied Harald diesen«
@@ -1880,7 +1881,7 @@ ah, ist Bad Unsinn. In der Einöde läßt sich niemand
 nieder. Nun — wir werden ja sehen! Morgen früh brechen
 wir auf.«
 
-<@harst.kkb band="9" titel="Der Krokidillederkoffer"/>
+<@harst.kkb band="9" titel="Der Krokodillederkoffer"/>
 
 <@harst.kkb band="10" titel="Treff-Aß"/>
 
@@ -1984,7 +1985,7 @@ Unsere Pferde waren frisch, tun zehn Minuten hatten
 wir die Büsche erreicht, Die Aasgeier stiegen höher. Und
 gerade dort, wo sie ihre Kreise zogen, fanden wir ein
 frisches Grab, gruben mit den Händen das Gesicht des
-Toten frei, Es war der Buschklepper, den Harald ange-schweißt
+Toten frei, Es war der Buschklepper, den Harald angeschweißt
 hatte,
 
 Die Fährten ringsum redeten ihre besondere Sprache,
@@ -2023,7 +2024,7 @@ Hatten ...
 
 Nur Fährten von fünf Reitern, Die von Ellen aus
 einer Schlucht ge!rinnen waren und Die getrennt in den
-Strange sich wieder vavongemacht hatten, zu zweien und
+Strange sich wieder davongemacht hatten, zu zweien und
 dreien. Und die drei hatte die Packpferde mitgenommen,
 den Proviant
 
@@ -2199,7 +2200,7 @@ den Wasservorräten des Trupps nicht zulegt besteht Da.
 
 Harald hing lässig im Sattel. Zuweilen machte er
 mich auf dies und jenes aufmerksam: auf Kasuare, auf ein
-Baumfängunuh, auf einen Schwarm Nestorpapageien.
+Baumkänguruh, auf einen Schwarm Nestorpapageien.
 
 Dann hörten die Ertappt auf, und wir bogen in eine
 flache Sandwüste ein.
@@ -2259,7 +2260,7 @@ Drepp teilte das Wasser des einen Schlauczes, Für
 und fiel nur je ein Becher ab. — Die Dämmerung kam.
 Wind erhob sich, wurde in kurzem zum Orkan, der die Sandmassen
 in Bewegung setzte, Die Hügel waren eingehüllt
-wie in seinkörnige Nebelschwaden. Und diese Sandwolken
+wie in feinkörnige Nebelschwaden. Und diese Sandwolken
 runden dichter und dichter, bis man seine drei Schritt mehr
 sehen konnte. Eines der berüchtigten australischen Gewitter
 brach los — ohne einen Tropfen Regen, mit einer Kanonade
@@ -2350,7 +2351,7 @@ Vegetation. Dann Berge, Schluchten, — und wir
 fünf zu Fuß, die Pferde am Zügel führend, stolpernd,
 keuchend, — bis unter uns in der Ferne ein seltsames Bild
 unsere Lebensgeister weckte: der ... ausgetrocknete Bullobaki-See,
-eine endlose bellschimmernde Fläche, wie eine mit
+eine endlose hellschimmernde Fläche, wie eine mit
 Salzkristallen bestreute Ebene, von Büschen, Hügeln, Wildern
 umgeben.
 
@@ -2526,7 +2527,7 @@ Die beiden verschwanden, flohen. — Wir hinterdrein —
 bis ans Nordufer. Da hatten sie schon den Aindenlahn
 Haltgemacht, fließen ab, getroffen uns Wahnwitzige Der
 Verwünschungen zu, loben weiter — hinein in die Kaufte,
-im die schauerliche Sanvöde, die auch Münz und seine Busche
+im die schauerliche Sandöde, die auch Münz und seine Busche
 stoppen verschlungen, wie Jimmy uns später erzählte. Ei
 allein war dem Sandsturm entgangen. Er war nachmittags
 schon auf die Insel gelangt, war dann von Marmor
@@ -2546,7 +2547,7 @@ olbfundstelle in einem Tale des großen Eilandes Nachlese
 Hallen, sind nach sieben Monaten in die Ansiedlungen
 urüdgelehrt und hatten Abrede genug vom kam ran
 enden Metall mühsam berausgeidaigen, um elften
-nd kaufen zu können, leben noch legt alle ftrebfame Schafe
+nd kaufen zu können, leben noch legt alle strebsame Schafe
 er als Nachbarn des Holländers Laaken in Neu-SüÜd-Wales,
 <@pagebreak/>
 in Australien, schreiben zuweilen sehr ausführliche,
