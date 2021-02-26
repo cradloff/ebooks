@@ -1352,7 +1352,7 @@ und so alles verdorben worden. Wir mußten uns also einen Abdruck von dem
 Patentschlüssel besorgen, den Herr Schultze besaß. – Meine Frau und ich wollten
 nachher nach Indien zurückkehren, das wir über alles lieben.«
 
-Harald nahm jetzt Markay beiseite und flüsterte mit ihm, vorauf dieser mit
+Harald nahm jetzt Markay beiseite und flüsterte mit ihm, worauf dieser mit
 seiner Frau verschwand. –
 
 Wir unterhielten uns über gleichgültige Dinge, nachdem Herr Schultze noch
