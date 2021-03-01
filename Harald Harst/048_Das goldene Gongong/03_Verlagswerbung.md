@@ -6,7 +6,9 @@ sind. Sie tragen die Titel:
 Harst-Bände aus der Serie<br/>
 »Kabels Kriminalbücher«</div>
 
-<table border="none">
+<@spacer/>
+
+<table style="table-layout:fixed;">
 <tr><td>Band</td><td>13:</td><td>Der Klub der Toten.</td></tr>
 <tr><td>&nbsp;&nbsp;"</td><td>19:</td><td>Die roten Briefe.</td></tr>
 <tr><td>&nbsp;&nbsp;"</td><td>22:</td><td>Die eiserne Frau.</td></tr>
@@ -20,6 +22,9 @@ Harst-Bände aus der Serie<br/>
 <tr><td>&nbsp;&nbsp;"</td><td>33:</td><td>Das Gespenst von Kap Tschi-Lao.</td></tr>
 <tr><td>&nbsp;&nbsp;"</td><td>34:</td><td>Der weiße Tiger.</td></tr>
 <tr><td>&nbsp;&nbsp;"</td><td>35:</td><td>Fünf Finger am Fenster.</td></tr>
+</table>
+
+<@spacer/>
 
 In den vorstehenden Bänden werden eine Anzahl der besten und spannendsten
 Abenteuer Harald Harsts veröffentlicht. Wir können die Freunde unserer

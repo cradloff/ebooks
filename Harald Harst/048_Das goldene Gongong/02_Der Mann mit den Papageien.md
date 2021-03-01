@@ -186,7 +186,7 @@ Blackmoore tat es. Lege unsere Reiseanzüge zurecht und unser Handwerkzeug. Ich
 bin in fünfzehn Minuten bei Dir.« –
 
 Wir hatten in dem Schnellzug durch Oberst Lincolns Vermittlung noch ein Abteil
-1. Klasse für uns bekommen. Lincoln hatte uns auf die Bahn begleitet.
+1\. Klasse für uns bekommen. Lincoln hatte uns auf die Bahn begleitet.
 
 »Was wird nun aus der Tompson-Sache, Mr. Harst?« fragte er auf dem Bahnsteig
 kurz vor der Abfahrt.
