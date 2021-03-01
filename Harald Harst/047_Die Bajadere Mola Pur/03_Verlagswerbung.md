@@ -1,19 +1,17 @@
-Verlagswerbung:
+<div style="font-size: xx-large; text-align: center;">Der Goldschatz der Azoren</div>
 
-Der Goldschatz der Azoren
+Die glänzende Erzählerkunst **Walter Kabels**, welcher doch nun schon seit
+Jahren tausende Leser an die Detektiv-Abenteuer unseres Harald Harst fesselt,
+schenkt uns in dem soeben erscheinenden großen Sensationsroman
 
-Die glänzende Erzählerkunst Walter Kabels, welcher doch nun schon seit Jahren
-tausende Leser an die Detektiv-Abenteuer unseres Harald Harst fesselt, schenkt
-uns in dem soeben erscheinenden großen Sensationsroman
-
-Der Goldschatz der Azoren
+<div style="font-size: x-large; text-align: center;">Der Goldschatz der Azoren</div>
 
 ein neues Werk von so eigenartiger und packender Schönheit, daß auch dieser
 Roman zahlreiche Freunde finden und die Lesergemeinde der Kabelschen Arbeiten
 noch vergrößern wird.
 
-Ein ganz eigenartiges Motiv hat sich der Autor für diese Arbeit gewählt: Die
-Macht des Goldes. Deutsche Männer und Frauen haben während des Krieges in
+Ein ganz eigenartiges Motiv hat sich der Autor für diese Arbeit gewählt: **Die
+Macht des Goldes.** Deutsche Männer und Frauen haben während des Krieges in
 unseren afrikanischen Kolonien einen großen Goldschatz gefunden, den sie dem
 Vaterlande schenken. Ein deutsches U-Boot nimmt das Gold an Bord, um es nach
 Deutschland zu schaffen. Im Atlantischen Ozean aber erleidet das U-Boot einen
@@ -32,7 +30,7 @@ Mitteln versuchen, für sich das Gold zu gewinnen. Und um diesen riesigen
 Goldschatz entbrennt nun einen Kampf, wie er gewaltiger und packender nicht
 geschildert werden kann.
 
-Gratis und franko
+<div style="font-size: x-large; text-align: center;">Gratis und franko</div>
 
 erhält jeder Leser der Harst-Erzählungen das 1. Heft des »Goldschatz der
 Azoren«. Wir bitten um Einsendung der Adresse, worauf wir sofort vollständig

@@ -452,9 +452,9 @@ Dann sprach Harald weiter:
 Festsaal verlassen haben, um die wenigen Zeilen auf das Papier zu werfen. Diese
 Zeilen lauten:
 
-»Master Harst! Ich beschwöre Sie, versuchen Sie diesen Mord aufzuklären. Nur zu
-Ihnen habe ich das Vertrauen, daß Sie die Wahrheit an den Tag bringen.
-Dschawira.««
+> »Master Harst! Ich beschwöre Sie, versuchen Sie diesen Mord aufzuklären. Nur
+zu Ihnen habe ich das Vertrauen, daß Sie die Wahrheit an den Tag bringen.
+Dschawira.«
 
 Tompkinson rief jetzt: »Aber Harst, – die Rhani wird doch nicht Sie mit diesen
 in der Tat etwas merkwürdigen Zeilen beehren, wenn Sie irgendwie in diesem
