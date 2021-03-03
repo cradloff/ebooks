@@ -71,9 +71,9 @@ großen Käfig glitten wir in unserer Kabine über den Schienenstrang
 dahin.
 
 Meine Gedanken begannen zeitweise ins Traumland
-hinüberzuwandern, kehrten für Sekunden zurück in die
+hinüberzuwandern; kehrten für Sekunden zurück in die
 Wirklichkeit; entwischten abermals in das Phantasieland der
-Unwirklichkeit und in diesem Zustande des Halbschlafs
+Unwirklichkeit. Und in diesem Zustande des Halbschlafs
 war’s, als ich von Harsts Bett her ein leises Geräusch vernahm,
 das ganz so klang, als hätte mein Freund und Brotherr
 sich aufrecht gesetzt.
@@ -196,7 +196,7 @@ kletterte auf sein Bett, schloß die Luftscheiben ganz fest, setzte
 sich dann auf seinen Bettrand, faßte in die Jacke seines Schlafanzugs
 hinein und reichte mir das bekleckste rosa Löschblatt.
 
-Seine Augen waren dabei halb zugekniffen, aber sie funkelten
+Seine Augen waren dabei halb zugekniffen; aber sie funkelten
 vor Genugtuung. Und um seinen Mund spielte ein
 besonderes Lächeln.
 
@@ -270,11 +270,11 @@ als wir —«
 hatte darin einen Taschenspiegel den sie scheinbar absichtslos
 so aufbaute, daß sie mit einem Herrn, der durch den Gang
 getrennt neben uns saß, sich durch bestimmte Zeichen verständigen
-konnte; — sehr raffiniert ausgeklügelte Zeichen beim
+konnte, — sehr raffiniert ausgeklügelte Zeichen beim
 Essen, so zum Beispiel kleine Schlucke Wein, Heben von Messer
 und Gabel, Zerknicken von Zahnstochern — und so weiter.
 Es war eine recht eigenartige Telegraphie — aber Telegraphie
-war’s bestimmt und der Herr neben uns —«
+war’s bestimmt. Und der Herr neben uns —«
 
 »— war groß und breitschulterig, hatte Blatternarben und
 viele Brillantringe,« vollendete ich. »Ich schätze auf einen
@@ -426,7 +426,7 @@ die sich Miß Lizabet Doogston nannte und sicher ganz anders
 hieß.«
 
 »Sie kennen die Dame, Master Harst?« fragte der Zugführer
-überrascht
+überrascht.
 
 »Wenigstens von Ansehen. Ihren Namen verriet mir —
 Doch darauf kommt es hier nicht an. Ich habe noch eine zweite
@@ -485,14 +485,14 @@ schuf gerade Linien — bis der Feuerstrich die Ausgangsstellung
 wieder erreicht hatte und der Rand der Löschunterlage
 zu Boden fiel.
 
-Das was Harst in der Hand behielt, war ein ganz unregelmäßig
+Das, was Harst in der Hand behielt, war ein ganz unregelmäßig
 geformtes Stück Löschblatt von der Größe zweier
 Handflächen, war gerade am dichtesten mit den Tintenspuren
 bedeckt.
 
 »Genial,« lächelte Harst. »Diesen Gedanken könnte ganz
 gut unser Freund Cecil ausgeklügelt haben. Wenn Du, lieber
-Alter vorhin das Löschblatt Dir mit Polizeiaugen angeschaut
+Alter, vorhin das Löschblatt Dir mit Polizeiaugen angeschaut
 hättest, wäre Dir der weißliche Strich kaum entgangen,
 der über beide Seiten des Blattes sich hinzog. Ich ahnte,
 <@pagebreak/>
@@ -525,7 +525,7 @@ haben —«
 »Trotz aller Vorsicht des ersten Finders mag nun doch ein
 Anderer hinter das Geheimnis gekommen sein und die Fundstelle
 ausgebeutet haben — etwa der Ermordete, bei dem ich
-ja einen ungeschliffenen Stein entdeckte und dieser jetzt still
+ja einen ungeschliffenen Stein entdeckte. Und dieser jetzt still
 gemachte Advokat wird vielleicht die besten Steine bei sich gehabt,
 der erste Finder sie ihm nun aber abgenommen haben
 — mit Gewalt, durch einen Mord. — So kann der Zusammenhang
@@ -535,7 +535,7 @@ auch nur zu ahnen. Wenigstens vorläufig nicht. Ich
 kenne eben noch zu wenige Begleitumstände dieses Verbrechens.«
 
 Es war jetzt die beste Gelegenheit, auch mein Licht leuchten
-zu lassen. »Du hast natürlich vorhin den Zugführer beschwindelt;
+zu lassen. »Du hast natürlich vorhin den Zugführer beschwindelt,
 als Du so tatest, als ob Du Dich in der Nummer
 der Kabine geirrt hättest. Du hast es doch auf den Mann von
 Nr. 6 abgesehen, auf den Herrn Chefingenieur.«
@@ -562,7 +562,7 @@ ich noch feststellte, eine fein gebildete Dame von sicheren Umgangsformen
 vor mir zu haben, und zwar — keine Engländerin!
 Jedenfalls keine geborene Britin. Sie dürfte eher
 aus Dänemark, Schweden oder da woher stammen. Ihre Augenfarbe
-ist jenes ausgesprochene, reine Graubblau, wie man
+ist jenes ausgesprochene, reine Graublau, wie man
 es nur bei den Nordländerinnen findet. Schließlich sagte mir
 noch meine Menschenkenntnis dieser Frau gegenüber, daß sie
 ohne Frage ein großes Herzeleid heimlich mit sich herumträgt.
@@ -670,7 +670,7 @@ mich gleichfalls halb und nannte meinen Namen — meinen
 richtigen Namen! Wir reisten ja diesmal nicht inkognito.
 
 Albström spielte sehr schlecht den Ueberraschten. »Schraut?
-Schraut? — Sie sind Ihrem Englisch nach Deutsche. Etwa
+Schraut? — Sie sind Ihrem Englisch nach Deutscher. Etwa
 der Privatsekretär des vielgenannten Amateur-Detektivs
 Harald Harst?«
 
@@ -719,7 +719,7 @@ Tageshitze bis sechs Uhr nachmittags verschlafen hatte, fuhr
 ich nach dem heiligen Teich hinaus, in dessen Mitte sich der
 berühmte Tempel Darbar Sahib erhebt.
 
-Amritsar heißt »Teich der Unsterblichkeit«. Nun — die
+Amritsar heißt »Teich der Unsterblichkeit«<@refnote 1/>. Nun — die
 wunderbare Schönheit des Darbar-Tempels mit seiner vergoldeten
 Kuppel wird Jahrhunderte überdauern und wirklich
 unsterblich bleiben. — Der Teich ist im Jahre 1581 künstlich
@@ -764,7 +764,7 @@ Es war zehn Uhr abends, als Albströms eleganter Ponywagen
 uns in das Europäerviertel brachte. Des Chefingenieurs
 geräumiger Bungalow lag inmitten eines hügeligen
 Parkes unweit eines Nebenflüßchens des Rawi (Amritsar
-liegt zwischen Rawi und Bias). — Die Nacht war mondhell.
+liegt zwischen Rawi und Bias<@refnote 2/>). — Die Nacht war mondhell.
 Wir saßen noch eine Stunde auf der um das Haus herumlaufenden
 Veranda nach dem Flüßchen zu, dessen Wasser
 zwischen den Büschen hindurchschimmerte. Albström brachte
@@ -809,7 +809,7 @@ raffte er sich auf, stotterte:
 
 »Es — kann — nur — einer Dienerin etwas zugestoßen
 sein —« und eilte ins Haus, wo ich ihn die Treppe hinanstürmen
-hörte. Er mußte die Stufen mit bangen Sätzen
+hörte. Er mußte die Stufen mit langen Sätzen
 hinaufgeeilt sein.
 
 Ich hatte mich noch nicht von meinem Schreck über diesen
@@ -828,7 +828,7 @@ hing, flüsterte mir zu — flüsterte in tadellosem Deutsch:
 
 Er ließ sich in den Garten hinabfallen.
 
-Harst — Harst! — Es wurde mir schwer die Erstarrung
+Harst — Harst! — Es wurde mir schwer, die Erstarrung
 sofort wieder abzuschütteln. Dann brüllte ich aufspringend:
 
 »Halt — steh’ — oder ich schieße!«
@@ -843,9 +843,9 @@ kam der Ingenieur zurück. Wir durchsuchten den Park, fanden
 natürlich nichts.
 
 Und der gute Albström erzählte mir, ein Eingeborener
-habe versucht oben in ein Zimmer einzusteigen.
+habe versucht, oben in ein Zimmer einzusteigen.
 
-»Schade, das ich vorbeigeschossen habe!« meinte ich.
+»Schade, daß ich vorbeigeschossen habe!« meinte ich.
 »Sehr schade. Der Halunke war aber flink wie ein Wiesel!«
 
 Albström war jetzt recht zerstreut. Ich merkte, auch er
@@ -860,7 +860,7 @@ Hand — eilig gekritzelt, nur auf einem Stück von einer Zeitung:
 »Unternimm nichts allein! H.«
 
 Harst war also hier im Zimmer gewesen! — Und abermals
-hatte ich nun zu viel Stoff zum Denken um sofort einschlafen
+hatte ich nun zu viel Stoff zum Denken, um sofort einschlafen
 zu können. Meine Gedanken waren ein Stockwerk
 höher bei der Frau, die vorhin so gellend aufgeschrien hatte.
 Eine Dienerin? — Niemals! Ich ahnte, wer es war: Miß
@@ -891,10 +891,10 @@ Harst mir sehr bald.
 
 Die Nacht verlief ruhig. Ich schlief gut. Am Morgen
 frühstückte ich mit Albström wieder auf der Veranda. Er sah
-übernächtigt aus und war in sehr gedrückter Stimmung. Er
+übernächtig aus und war in sehr gedrückter Stimmung. Er
 fuhr dann in sein Bureau, während ich nach einer halben
 Stunde zu Fuß in die Stadt schlenderte. In der Nähe des
-Polizieigebäudes drängte sich ein Eingeborener an mich heran,
+Polizeigebäudes drängte sich ein Eingeborener an mich heran,
 flüsterte mir zu: »Den Brief nicht vergessen —« und ging
 weiter.
 
@@ -953,7 +953,7 @@ dieselbe Tür passiert hatte. Sehr bald hatte ich heraus,
 daß diese zweite Frau der ersten folgte. So bewegten wir
 uns nun zu dreien in Abständen von dreißig Metern durch die
 belebteren Straßen, gelangten ins Eingeborenenviertel und
-schließlich in einem Hindutempel dicht am Ufer des Rawi. Der
+schließlich in einen<@refnote 3/> Hindutempel dicht am Ufer des Rawi. Der
 Tempel war halb verfallen, aber recht ausgedehnt. Da am
 Eingang der Umfassungsmauer kein Priester Wache hielt,
 gehörte er zweifellos zu den zum Gottesdienst nicht mehr
@@ -967,12 +967,12 @@ von Amritsar mit vier Unterbeamten an mir vorüber. Kaum
 waren sie nach dem Flusse zu verschwunden, als auch Harst
 auftauchte, — Harst als Postbeamter.
 
-»Der verd.... Esel!« fluchte Harst atemlos und so ergrimmt
-wie ich ihn selten gesehen habe. »Komm, retten wir,
+»Der verd... Esel!« fluchte Harst atemlos und so ergrimmt,
+wie ich ihn selten gesehen habe. »Komm’, retten wir,
 was noch zu retten ist —«
 
 Wir liefen hinter den Polizeileuten drein, um den Tempel
-herum hörten plötzlich vom Flusse her zwei — vier Schüsse,
+herum, hörten plötzlich vom Flusse her zwei — vier Schüsse,
 rasten weiter, fanden eine Pforte, die auf einen Bootssteg
 mündete, sahen auf dem hölzernen Stege den Inspektor mit
 <@pagebreak/>
@@ -1055,7 +1055,7 @@ Warum nicht? — Könnte weiter nicht vielleicht Freund Cecil
 sich im Zuge in der Verkleidung einer Frau befinden?
 Ihm ist ja jede Maske möglich — jede! — Diese Erwägungen
 genügten zu dem Entschluß, ganz leise mein Lager zu verlassen,
-mich ebenso leise anzukleiden und den Zugführer im
+mich ebenso leise umzukleiden und den Zugführer im
 Postwagen vorn aufzusuchen. Er holte mir die Schaffner und
 auch die Kellner des Speisewagens herbei. Doch keinem von
 diesen Leuten war etwas aufgefallen an einem oder einer Reisenden,
@@ -1098,7 +1098,7 @@ sehr eilig hatte, die Tasche auszuräumen, ist es entgangen,
 genau wie der eine Stein. — Ich werde es Dir vorlesen. —
 Die Maschinenschrift verrät nichts. Die Unterschrift ist vielsagend.
 — Es lautet also: »Herrn Rechtsanwalt Stelton,
-Lahore — wir wissen genau, daß Sie in Ihrer Eigenschaft als
+Lahore. — Wir wissen genau, daß Sie in Ihrer Eigenschaft als
 Notar seiner Zeit den Vertrag über die sogenannte Mikarisa-Diamantmine
 für den Verkäufer aufgesetzt und so erfahren
 haben, wo die Fundstelle zu suchen ist. Sie sind dann angeblich
@@ -1112,7 +1112,7 @@ mit uns teilen, das heißt, Sie dürfen ein Drittel davon
 behalten. Kommen Sie baldigst nach Gwalior und bringen
 Sie die Steine mit. Ich werde mich Ihnen gegenüber durch
 das Stichwort »Mikarisa-Vertrag« ausweisen. — Ein nicht
-zu Unrecht Berühmter.« — Harst blickte mich an. »Diese
+zu Unrecht Berühmter.«« — Harst blickte mich an. »Diese
 Unterschrift entspricht durchaus Warbattys Eitelkeit. Und
 <@pagebreak/>
 dieser Brief hat ja auch mit dazu beigetragen, meinen Verdacht
@@ -1163,7 +1163,7 @@ Jetzt hatte ich das ganz bestimmte Empfinden: dieser Albström
 fürchtet Harst und wünscht insgeheim, der Mörder
 möchte nicht entdeckt werden! — Ich war daher gerade im
 Begriff, ihm ehrlich zu erwidern: »Sie zeigen ein Interesse
-für dieses Verbrechen das mich etwas eigenartig berührt,«
+für dieses Verbrechen, das mich etwas eigenartig berührt,«
 als vom Ufer des den Park durchströmenden Flüßchens ein
 wüster Lärm herüberschallte.
 
@@ -1176,7 +1176,7 @@ hinabgeeilt. Ich blieb hinter ihm. Auf dem Hauptwege
 kamen uns schon drei Diener entgegen, die einen Eingeborenen
 gepackt hielten, der sich kaum noch wehrte. Im
 Lichte der über dem Verandatische hängenden Lampe sah ich
-dann sofort, daß es Harst nicht sein konnte. Der Eingeborene
+dann sofort, daß es Harst nicht sein konnte. Der Eingeborene,
 dessen langer Bart und Riesenturban ihn als Sikh
 erscheinen ließen, war viel zu klein und schmächtig.
 
@@ -1207,7 +1207,7 @@ Master Albström. Schicken Sie Ihre Diener weg.«
 Der Ingenieur winkte. Die drei Farbigen verschwanden.
 <@pagebreak/>
 Harsts Rechte war jetzt halb erhoben, und die Mündung
-eines Revolvers richtete sich auf den kleinen Schwarzbärtigen
+eines Revolvers richtete sich auf den kleinen Schwarzbärtigen.
 »Setzen Sie sich dorthin, Warbatty!« wandte er sich an den
 angeblichen Sikh. »Jeder Fluchtversuch ist aussichtslos. Bevor
 mein Pfiff die Beamten herbeiruft, möchte ich mit Ihnen
@@ -1241,7 +1241,7 @@ seiner Schlauheit brüsten wollte.
 Harst schwieg eine Weile. Dann sagte er so mild und
 gütig, als spräche er zu einem Schwerkranken: »Sie sind
 Arzt. Sie sind verheiratet. Ihre Frau liebt Sie, wie Sie
-selbst. —«
+selbst —«
 
 Da schnellte Warbatty hoch. »Lassen Sie mein Weib aus
 dem Spiel!« rief er ganz heiser. »Weshalb erwähnen Sie gerade
@@ -1291,8 +1291,8 @@ tappte ich noch völlig im Dunkeln, was diese Frau anbetraf,
 bis mir dann gestern hier in Amritsar beim nochmaligen Betrachten
 des herausgebrannten Löschblattstücks klar wurde,
 daß dieses nichts anderes sein konnte als eine Zeichnung
-Amritsars und seiner nächsten Umgebung aus der Vogelperspektive
-— seine Skizze, auf der an der linken Seite ein
+Amritsars und seiner nächsten Umgebung aus der Vogelperspektive,
+— eine Skizze, auf der an der linken Seite ein
 längliches kleines Viereck ein Haus in einem Park vorstellen
 sollte: diesen Bungalow des Ingenieurs Albström! Und
 über diesem Viereck stand ein ebenso verschwommenes Datum
@@ -1311,9 +1311,9 @@ Fenstervorhang, als sich ihr Herzeleid in wildem Schluchzen
 äußerte, da trat ich plötzlich vor. Und das arme Weib
 schrie gellend auf, rief dann leise: »Reginald, bist Du’s?« —
 Ich entfloh. Man hielt mich für einen Dieb. Ich entfloh und
-nahm etwas mit mir: die Gewissheit, daß die Frau, die in
+nahm etwas mit mir: die Gewißheit, daß die Frau, die in
 wilder Verzweiflung wiederholt geflüstert hatte: »Mein
-Gott — er — er ein vielfacher Mörder!« und ein andermal
+Gott, — er — er ein vielfacher Mörder!« und ein andermal
 wieder aufgestöhnt hatte: »Wenn er nur den Brief abholen
 würde — wenn ich ihn auf diese Weise zu Gesicht bekäme!«
 nur Warbattys Gattin sein könnte. — Brief abholen!
@@ -1389,7 +1389,7 @@ am Schaltbrett herausnahm und so das Licht auslöschte.«
 Harst verbeugte sich. »Das Haus ist nicht von Beamten
 umstellt. Das war lediglich eine kleine Notlüge von mir. —
 <@pagebreak/>
-Sie zu verhaften, habe ich kein Recht. Im Gegenteil— ich
+Sie zu verhaften, habe ich kein Recht. Im Gegenteil — ich
 bemitleide Sie so sehr, daß ich fortan Ihren Gatten nicht mehr
 verfolgen werde. Auch ich halte ihn für geisteskrank —«
 
@@ -1405,7 +1405,7 @@ Es war dies eine Szene, wie man sie so leicht nicht vergißt.
 Der umgestürzte Tisch. Am Boden Scherben von Gläsern,
 Zigaretten, Zigarren, große Lachen von eisgekühlten
 Getränken; dazu wir drei Männer und dieses arme schluchzende
-Weib — und im Garten Nachtigallen, die mit ihr um
+Weib, — und im Garten Nachtigallen, die mit ihr um
 die Wette ein zerstörtes Eheglück bejammerten. —
 
 Harst winkte mir zu. Wir drückten Albström stumm die

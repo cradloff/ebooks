@@ -49,7 +49,7 @@ zu sein!« beendete.
 
 Harst, der vorhin die in Amritsar erscheinende englische
 Zeitung durchgesehen hatte, nickte Blunk flüchtig zu und
-reichte ihm das Blatt mit seinem: »Da — im Anzeigenteil finden
+reichte ihm das Blatt mit einem: »Da — im Anzeigenteil finden
 Sie etwas, das Sie interessieren dürfte —«
 
 Der Inspektor legte die Zeitung wieder auf den Tisch.
@@ -65,7 +65,7 @@ bin Detektiv aus Liebhaberei. Sie haben mir gestern nachmittag
 nochmals versprochen, mich in meinem Bestreben,
 Warbatty unschädlich zu machen, zu unterstützen und dabei
 auf selbständiges Vorgehen zu verzichten. Heute schlagen Sie
-einen Ton an, der mir sehr wenig paßt. — Gut— Warbatty
+einen Ton an, der mir sehr wenig paßt. — Gut — Warbatty
 ist abermals entkommen. Ich bin nicht verantwortlich dafür
 —«
 
@@ -76,7 +76,7 @@ Gründe mitgesprochen zu haben, die wohl in der Person jener
 Dame zu suchen sind, — Gründe, die Sie veranlaßten, den
 Verbrecher entweichen zu lassen —«
 
-Harst zuckte die Achseln »Ich denke, wir beenden diese
+Harst zuckte die Achseln. »Ich denke, wir beenden diese
 Unterredung, Master Blunk. Sie sind schlechter Laune und
 daher ungerecht, zum mindesten vorschnell in Ihrem Urteil.«
 
@@ -107,7 +107,7 @@ sofort hören. Ich muß Sie jedoch bitten, Master Blunk, hier
 jetzt nicht den gestrengen Beamten zu spielen. Frau Doogston
 ist unendlich zu bedauern. — Da ist sie schon —«
 
-Er ging ihr entgegen und er war so überaus höflich und
+Er ging ihr entgegen. Und er war so überaus höflich und
 liebenswürdig zu ihr, daß man ihr anmerkte, wie wohl ihr
 diese warme Freundlichkeit tat. — Ich bewunderte heimlich
 den eigenartigen Liebreiz dieses klassisch schönen Dulderingesichts,
@@ -116,7 +116,7 @@ Frau, mit der sie dann über das Unglück ihrer Ehe sprach,
 ohne je in einen weinerlichen Ton zu verfallen.
 
 »Wir sind jetzt acht Jahre verheiratet,« begann sie. »Ich
-lernte meinen Mann in Stockholm, meiner Vaterstadt aus
+lernte meinen Mann in Stockholm, meiner Vaterstadt, aus
 Anlaß eines Aerztekongresses kennen. Mein Vater war selbst
 Arzt. Reginald machte auf mich sofort trotz seines sonst unscheinbaren
 Aeußeren einen starken Eindruck. Nie wieder
@@ -135,7 +135,7 @@ hatten jeder ein eigenes Schlafzimmer. — Eine Woche drauf
 <@pagebreak/>
 zeigte er mir ein Seestück, das er für sein Arbeitszimmer gekauft
 und auch bereits über seinen Schreibtisch gehängt
-hatte. Ich fand nichts an dem Bilde, er aber freute sich wie
+hatte. Ich fand nichts an dem Bilde. Er aber freute sich wie
 ein Kind darüber. Sein Verhalten war so seltsam, daß ich
 stutzig wurde. Er sprach tagelang nur von dem neuen
 Wandschmuck und betonte stets, das Bild sei ihm mehr wert
@@ -170,7 +170,7 @@ als Ring trägt. Der Mord blieb unaufgeklärt. Erst ein
 volles Jahr später stieß ich zufällig im Schreibtisch meines
 Mannes auf ein Geheimfach, das zahlreiche Kästchen und
 Päckchen enthielt, — alles Brillantenschmuck, Goldsachen und
-wertvolle Raritäten und — hier fand ich auch den Ring
+wertvolle Raritäten. Und — hier fand ich auch den Ring
 des Amerikaners wieder. — Unendliches Grauen packte
 mich. Als Reginald mittags von seinen Krankenbesuchen
 heimkehrte, lag ich fiebernd im Bett. Viele Wochen schwebte
@@ -203,7 +203,7 @@ meinen Verdacht abermals zu erregen und meine Seele mit
 peinvollen Zweifeln zu erfüllen. — An einem Julivormittag
 kam mir dann eine Mappe in die Finger, die Reginald
 in seinem Bücherschrank ganz unten versteckt hatte.
-Darin lagen nichts als Zeitungsausschnitte und sie alle handelten
+Darin lagen nichts als Zeitungsausschnitte. Und sie alle handelten
 von Verbrechen, die hier und dort von einem geheimnisvollen
 Täter verübt worden waren. Mein Herz krampfte
 sich vor Entsetzen zusammen, als ich feststellte, daß diese Verbrechen
@@ -241,7 +241,7 @@ Blätter Kunde von den Verbrechen, die jener Warbatty in
 Palermo, Kairo, Suez und so weiter und so weiter verübt
 hatte, so mußte ich endlich mir selbst eingestehen, daß nur
 mein Mann dieser — dieser Unhold sein könne, der so viele
-Menschenleben —« ein trockenes, jammervolles Aufschluchzen
+Menschenleben —« Ein trockenes, jammervolles Aufschluchzen
 schnitt ihr die weiteren Worte ab. Doch sie hatte sich sofort
 wieder in der Gewalt, diese bewundernswerte Frau,
 vollendete den begonnenen Satz mit jener starren Ruhe, wie
@@ -267,7 +267,7 @@ ihn, mir zu helfen, meinen Gatten vor Ihnen zu schützen und
 ihn in irgend eine Privatheilanstalt für Gemütskranke zu
 bringen. In Gwalior trafen wir uns dann, wollten aber
 vor Ihnen sorgsamst auf der Hut sein und verkehrten nur
-heimlich miteinander. Was sich hierauf im Nachtzuge Gwalior-Amritsar
+heimlich miteinander. Was sich hierauf im Nachtzuge Gwalior—Amritsar
 und als Folge davon gestern in Holgers Bungalow
 abspielte, wissen Sie ja nur zu gut. Ich bin nun heute
 hier zu Ihnen geeilt nach einer furchtbaren, schlaflosen Nacht,
@@ -281,7 +281,7 @@ seiner Seele zum Schweigen zu bringen, die ihm immer wieder
 von unserem einstigen Liebesglück Traulich-Zartes zuraunen
 dürfte. — Nein — nein!« — ihre Stimme bebte vor
 Erregung — »niemals werde ich ihn verlassen, — niemals!
-Ich liebe ihn nach wie vor! Nicht er ist jener Warbatty —
+Ich liebe ihn nach wie vor! Nicht er ist jener Warbatty, —
 ein Fremder ist’s, der von ihm Besitz ergriffen hat, — ein
 Fremder und ein Fremdes! Mein Reginald war der beste,
 menschenfreundlichste, aufopferndste Arzt in Margate, der
@@ -316,7 +316,7 @@ irgendwie nachzukommen gewillt sind, so werde ich —«
 wie damals. Er sprang auf, hinderte diesen Blunk die so
 ungeheuerlich gemütsrohen Sätze fortzuführen, indem er
 rief: »Master Blunk, Sie sind jetzt hier überflüssig! Ich
-bitte Sie dringend, uns allein zu lassen — dringend!« Seine
+bitte Sie dringend, uns allein zu lassen, — dringend!« Seine
 Augen flammten; er wies mit der Hand nach der Balkontür.
 
 Der Inspektor stieß ein höhnisch\-verlegenes Lachen aus.
@@ -328,7 +328,7 @@ ihres Bruders.
 
 Ich aber nahm die Zeitung, die er vorhin dem Inspektor
 gereicht und die dieser nicht weiter beachtet hatte, und suchte
-in dem Anzeigenteil nach der Annonce die nach Harsts Meinung
+in dem Anzeigenteil nach der Annonce, die nach Harsts Meinung
 diesen Grobian hätte interessieren dürfen.
 
 <h2>2. Kapitel.</h2>
@@ -348,15 +348,15 @@ des Namens als Kennzeichen.«
 Ich überlas dieses Inserat immer wieder, prüfte jedes
 Wort. Aber je mehr ich mich anstrengte, dem Inhalt eine andere,
 versteckte Deutung zu geben, desto klarer wurde mir,
-daß dies für mich unmöglich, wußte ich doch nicht einmal
+daß dies für mich unmöglich. Wußte ich doch nicht einmal,
 <@pagebreak/>
 was es mit dem Gubdu-Stein für eine besondere Bewandtnis
 hätte. Ich gab diese Sache also auf und versenkte mich in die
-Erinnerung an das was ich soeben aus des unglücklichen
+Erinnerung an das, was ich soeben aus des unglücklichen
 Weibes Munde gehört hatte. — Wahnsinnig sollte Doktor
 Doogston sein, nicht zurechnungsfähig. Harst hatte dies ja
 bereits seit langem vermutet, hatte den Gedanken jedoch wieder
-verworfen, sodaß ich den Eindruck gewann, dieses Schwanken
+verworfen, so daß ich den Eindruck gewann, dieses Schwanken
 in seiner Beurteilung des Seelenzustande »Warbattys«
 könnte nur auf starke Widersprüche in den Krankheitserscheinungen
 zurückzuführen sein. —
@@ -425,7 +425,7 @@ von Polizei überwacht. Das gilt uns, lieber Alter —«
 
 Der Zug hielt. Auf dem Nebengleis standen zwei halbgefüllte,
 offene Wagen mit Kohlen. Wir schlüpften zwischen
-ihnen hindurch und dann in die Bremsenkabine hinein, die
+ihnen hindurch und dann in die Bremserkabine hinein, die
 den einen wie ein Turm überragte. Fünf Minuten drauf
 legte sich eine Maschine vor die Wagen und schob sie als letzte
 an einen Güterzug heran, so daß wir uns nun ein Stück außerhalb
@@ -434,7 +434,7 @@ konnten, unser Versteck unbemerkt zu verlassen.
 
 Ich erwähne diesen Aufenthalt in dem Bremsertürmchen
 deswegen, weil Harst, als wir dort dicht nebeneinander auf
-dem Boden hockten plötzlich redselig wurde.
+dem Boden hockten, plötzlich redselig wurde.
 
 »Die Angelegenheit Doktor Doogston hat ein ganz anderes
 Aussehen plötzlich bekommen,« begann er nämlich und
@@ -444,14 +444,14 @@ ließen — nie! Ich habe all die Stunden während der Fahrt
 darüber nachgegrübelt, wie man die Widersprüche in »Warbattys«
 Charakter zwanglos, das heißt möglichst logisch lösen
 könnte. Eine Frau, die so sehr an ihrem Gatten trotz all den
-furchtbaren Ereignissen hängt und die wie Frau Elizabet eine
+furchtbaren Ereignissen hängt und die wie Frau Lizabet<@refnote 4/> eine
 durchaus gesund empfindende, keineswegs hysterische Person
 <@pagebreak/>
 ist, bietet eigentlich in dieser ihrer unwandelbaren Liebe die
 beste Gewähr dafür, daß ihr Mann kein Scheusal sein kann.
 Und doch muß man Doktor Doogston ja leider in seiner Verbrecherrolle
 als ein solches bezeichnen. Es käme also nur periodischer
-Wahnsinn unter Aussschaltung des wahren Wesens
+Wahnsinn unter Ausschaltung des wahren Wesens
 bei diesem genialen Bösewicht in Frage. Dies anzunehmen,
 sträubt sich mein Hirn. Gewiß: Doppelnaturen mag es
 zuweilen geben. — Hier aber müßte man geradezu von einer
@@ -478,10 +478,10 @@ leidlich gelungen. Die beste zeigt ihn von vorn in halber
 Körpergröße —« Er richtete sich auf, schaute durch das Fenster.
 »Die Luft ist rein. Fort mit uns.« Er nahm seinen
 Koffer, und im Trab gelangten wir über die Schienenstränge
-auf einen Kohlen-Lagerplatz wo uns ein Farbiger dann einen
+auf einen Kohlenlagerplatz, wo uns ein Farbiger dann einen
 Ponywagen besorgte. — Wir hatten dem Lenker befohlen,
 uns nach einem Fremdenheim zu bringen. Er wußte gut
-Bescheid und das Quartier, das wir nun bezogen, war sauber
+Bescheid, und das Quartier, das wir nun bezogen, war sauber
 und behaglich, obwohl der Wirt ein Chinese mit fettglänzendem
 Gesicht und ebenso speckigem Anzug war. Die Fenster
 unserer zwei Zimmer gingen nach dem Schalimar, dem »Haus
@@ -515,7 +515,7 @@ Das heutige Lahore ragt auch nur deshalb so hoch über die
 Ebene ringsum heraus, weil es auf den Ruinen der alten
 Hauptstadt errichtet worden ist —«
 
-In diesem Augenblick rief Harst mir zu: »Komm doch
+In diesem Augenblick rief Harst mir zu: »Komm’ doch
 einmal her, Mahomed Bakra —« — So hatte ich mich für
 meine jetzige Rolle als reicher indischer Muslim getauft.
 
@@ -583,7 +583,7 @@ alledem. Die hohen Gäste meines armseligen Hauses werden
 all das viel besser wissen als ich —«
 
 Harst kletterte durch die Dachluke auf die abwärtsführende
-Treppe. Erst vor dem Eingang zu unseren Zimmer
+Treppe. Erst vor dem Eingang zu unseren Zimmern
 <@pagebreak/>
 sagte er dann zu dem Chinesen: »Tritt mit uns ein, Mi
 Kao —«
@@ -709,7 +709,7 @@ Geschäfte benutzt. Ein Chinese, der nicht mindestens im
 Nebenberuf Hehler ist, wäre eine Rarität —«
 
 Ich bezog meinen Posten in dem Loche der Brunnenwand.
-Ein Meter unter mir lagen Müll und Abfälle und geradezu
+Ein Meter unter mir lagen Müll und Abfälle, und geradezu
 atemberaubender Gestank stieg mir daraus in die Nase. Ich
 hatte noch keine fünf Minuten lang ausgestreckt dagelegen,
 als ich auch schon über mir Stimmen hörte. Dann wurde die
@@ -727,7 +727,7 @@ Ich beeilte mich, kroch rückwärts, denn der Gang war
 hier höchstens halbmannshoch. Dann war ich im Gewölbe,
 dann sah ich Harsts Lampe eine Stelle der Mauer des Kanalisationsarmes
 beleuchten, die auf den ersten Blick gar nichts
-Ausfälliges an sich hatte.
+Auffälliges an sich hatte.
 
 Harst klopfte mir auf die Schulter. »Etwas höher, lieber
 Alter. Da steckt das Geheimnis.«
@@ -845,7 +845,7 @@ hier wieder zusammengeführt —«
 »Warbatty« war bei dieser Anrede mit seinem wahren
 Namen merklich zusammengezuckt. Jetzt verzog sein Gesicht
 sich zu jenem höhnisch überlegenen Grinsen, das wir bereits
-an ihm kannten und ebenso anmaßend und ironisch
+an ihm kannten. Und ebenso anmaßend und ironisch
 war das, was er als Erwiderung bereithatte:
 
 »Schau’ an, — meine Freunde Harst und Schraut! —
@@ -860,7 +860,7 @@ falls wir uns treffen sollten, folgendes —«
 
 Doogstons heiseres Hohngelächter schnitt ihm jedes weitere
 Wort ab. — »Meine Frau?! Meine Frau mit Ihnen im
-Bunde?! Halten Sie mich für so beschränkt daß ich —«
+Bunde?! Halten Sie mich für so beschränkt, daß ich —«
 
 Harst hatte ihm plötzlich die Taschenlampe ganz dicht
 vor die Augen gehalten, folgte dem bis an die Wand zurückweichenden
@@ -869,12 +869,12 @@ Stirn und sagte zu dem mit halb zugekniffenen Augen Dasitzenden:
 
 »Doktor Doogston, mein Wille ist stärker als der Ihrige.
 Sie — werden — gehorchen. Sie — werden — jetzt sofort
-einschlafen, — ganz fest einschlafen —« er sprach kurz
+einschlafen, — ganz fest einschlafen —« Er sprach kurz
 und abgehackt. »Rühren — Sie sich — nicht mehr — Sie werden
 — müde. Schließen Sie — die Augen. Sie fühlen —
 eine Schwere in allen — Gliedern —«
 
-Man merkte es an dem nervösen Jucken in Doogstons
+Man merkte es an dem nervösen Zucken in Doogstons
 Gesicht, wie krampfhaft er sich gegen diese Beeinflussung
 wehrte.
 
@@ -921,7 +921,7 @@ Harst drückte meinen Arm. »Denke nach, mein Alter!«
 Seine Stimme bebte vor verhaltener Erregung. »Denk’ an
 Frau Doogstons — anderen Bewerber, — an den, der sie vor
 Reginald Doogston als einem dem Wahnsinn Verfallenen
-warnte!« —
+warnte!«
 
 Ich stand sekundenlang regungslos. Was alles hatte sich
 urplötzlich wie eine Fernsicht über ungeheure Schändlichkeiten
@@ -959,7 +959,7 @@ darauf allein abgesehen, Doogston an den Galgen zu bringen,
 wachsende Erkenntnis, ihr Mann sei ein vielfacher Mörder,
 zu Tode foltern, — ganz langsam! Jahre sollte diese
 Tortur dauern, recht viele Jahre. Und so ist’s ja auch gewesen,
-wie die Lebensgeschichte, die Geschichte der Ehe Elizabet
+wie die Lebensgeschichte, die Geschichte der Ehe Lizabet
 Doogstons uns zeigt! — Dieser Palperlon hat sich gerächt,
 wie’s noch nie einem Menschen in den Sinn kam, dieser Mann
 ist in Wirklichkeit unser Gegner gewesen, der hinter den Kulissen
@@ -999,7 +999,7 @@ wurde, in den oberen Keller des unbekannten Gebäudes
 zurück, schlossen leise die eiserne Tür auf und verschlossen
 sie wieder hinter uns. Wir standen nun in einem Kellervorraum,
 aus dem eine kurze Treppe auf einen Hof führte. Inzwischen
-war es Abends geworden. Der Hof lag in tiefem Dunkel
+war es Abend geworden. Der Hof lag in tiefem Dunkel
 da. Der wolkenbedeckte Himmel drohte mit einem Gewitter.
 Im Osten wetterleuchtete es. Das fahle Aufblitzen
 enthüllte uns die Einzelheiten des Hofraumes so weit, daß
@@ -1071,14 +1071,14 @@ von Ost nach West sich zeigenden als Nein galten. Tatsache
 ist, daß der Stein wirklich nicht nur bei starkem Winde
 wackelte, sondern auch bei unbewegter Luft, wenn ein Hindu
 eine Antwort erbat. Ich habe seiner Zeit gleich den Verdacht
-gehabt, daß hier ein schlauer Betrug vorliegt. Die Brahmanen
+gehabt, daß hier ein schlauer Betrug vorliegt. Die Brahminen<@refnote 5/>
 (Priester) dürften an den Schwingungen des Gubdu nicht
 ganz unbeteiligt gewesen sein. — Nun ist der Felskoloß, wie
 der Chinese uns mitteilte, abgestürzt. Ich möchte mir die
 Geschichte aus der Nähe ansehen. Ich habe nämlich so meine
 besondere Vermutung, was diese Katastrophe anbetrifft.«
 
-Wir hatten inzwischen die Kappe des Hügels erreicht,
+Wir hatten inzwischen die Kuppe des Hügels erreicht,
 drängten uns durch die Menschenmauer durch und erblickten
 nun den Stein, der so abgerutscht war, daß er wie ein Keil
 in der Felsspalte steckte, über die er nur wenig hinwegragte.
@@ -1119,7 +1119,7 @@ also vorhanden, der etwas über das Ereignis angeben könnte,
 mit Ausnahme des Attentäters selbst. Dieser wird die Bombe
 aus sicherer Entfernung geworfen haben. Jedenfalls dürfte
 es zweckdienlich sein, wie ich auch schon dem Herrn Major
-Marconnay erklärte, die Felsspalte in aller Stille zu untersuchen.
+Marconnay<@refnote 6/> erklärte, die Felsspalte in aller Stille zu untersuchen.
 Grundlos hat man die Katastrophe nicht herbeigeführt.«
 
 »Da sind wir ganz Ihrer Ansicht, Herr Harst,« erklärte
@@ -1248,7 +1248,7 @@ fast beängstigend. Fünf Minuten später hatten wir den klaren
 Sternhimmel über uns. Hauptmann Slooker eilte den
 Hügel hinab nach der Straße, um zu sehen, ob der Kraftwagen
 bereits zurückgekehrt sei. Er kam mit drei Soldaten
-zurück, die alles Nötige auf den Schultern trugen. Die Leute
+zurück die alles Nötige auf den Schultern trugen. Die Leute
 wurden dann wieder nach dem Kraftwagen geschickt, wo sie
 warten sollten. Harst wünschte ohne Zeugen, auf deren Verschwiegenheit
 er nicht bestimmt rechnen konnte, in den
@@ -1284,8 +1284,9 @@ Gubdu abrutschen zu lassen.«
 »Oh nein, — er hätte sie sich nicht aneignen können, weil
 die Kluft wahrscheinlich nur so tief ist, daß das Tageslicht
 nicht hinabdringt, und daß man einen mit einer Laterne auf
-ihrem Grunde herumsuchenden Menschen von hier
-dicht am Rande der Spalte bemerkt hätte<@refnote 1/>. Mithin mußte
+ihrem Grunde herumsuchenden Menschen von hier oben gesehen hätte.
+Und weil viele von den Ratsuchenden<@refnote 7/> dicht am
+Rande der Spalte gehockt haben. Mithin mußte
 der Verbrecher erst die Kluft bis auf die beiden kleinen
 frei gebliebenen Stellen rechts und links des Steines
 <@pagebreak/>
@@ -1437,7 +1438,7 @@ einer halben Stunde erschien Harst auf der Strickleiter,
 schwang sich auf festen Boden und trat zu uns.
 
 »Entwischt,« sagte er achselzuckend. »Wir haben eben
-Pech gehabt. Palperlon ist der reine Schnellläufer. Außerdem
+Pech gehabt. Palperlon ist der reine Schnelläufer. Außerdem
 muß er noch einen zweiten Ausgang aus dem Kanal gekannt
 haben. Daran hätte ich sofort denken sollen. Die Harke
 konnte er ja unmöglich in der kurzen Zeit etwa aus Purklays
@@ -1449,7 +1450,7 @@ war er plötzlich verschwunden.«
 zusammengetroffen?« fragte der Major gespannt.
 
 »Ja — ich hätte ihn fangen können. Ich wollte es nicht.
-Ich hatte meine guten Gründe dafür, ihn entwischen zu lassen,
+Ich hatte meine guten Gründe dafür, ihn entschlüpfen zu lassen,
 denn — ich kann diesen Palperlon nur mit Hilfe Doogstons
 dingfest machen. Wo ich Doogston nun zu suchen habe,
 weiß ich! Und — dort wird auch Palperlon in der Nähe
