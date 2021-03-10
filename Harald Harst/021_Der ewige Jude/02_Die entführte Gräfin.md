@@ -18,7 +18,7 @@ nicht. Wir waren dort vorzüglich aufgehoben.
 
 Als wir nachmittags gegen sechs unten im sog. Herrenzimmer
 ein delikates Fischgericht aßen, das uns die rundliche
-Wirtin empfohlen hatte, spannte der Ober gerade die neuesten
+Wirtin empfohlen hatte, spannte der »Ober« gerade die neuesten
 Berliner Zeitungen ein.
 
 Harst ließ sich die B. Z. a. M. geben und suchte darin nach
@@ -49,7 +49,7 @@ verstorben) hielten sich von aller Geselligkeit fern. Sehr
 bald verlobte sich der Graf mit dem schönen, geistvollen und
 ernsten Mädchen. Die Hochzeit fand dann in aller Stille statt.
 
-> Am 31. Oktober vormittags gegen ¾ 12 kam die junge
+> Am 31. Oktober vormittags gegen ¾12 kam die junge
 Gräfin im Auto vom Schlosse Söderholm nach der Stadt und
 fuhr bei ihrer Schneiderin Fräulein Andersen in der Danmarksgade
 72 vor. Das Auto wartete dann vor dem Hause.
@@ -57,10 +57,10 @@ Etwa zehn Minuten, nachdem die Gräfin das Haus betreten
 hatte, erschien vor der Tür eine wie ein Stubenmädchen gekleidete
 Person und rief dem Chauffeur zu, er solle nach dem
 Hause des Vaters der Frau Gräfin vorausfahren. Der Chauffeur,
-der annahm das Mädchen richte ihm einen Befehl seiner
+der annahm, das Mädchen richte ihm einen Befehl seiner
 Herrin aus, gehorchte.
-<@pagebreak/>
 
+<@pagebreak/>
 > Das gräfliche Auto war dann kaum vier Minuten aus
 der Danmarksgade verschwunden, als vom Vodroffsvej ein
 anderes, ebenfalls geschlossenes Auto nahte und vor dem
@@ -114,8 +114,7 @@ gemeldet. Man denke: welch eine Unverfrorenheit,
 sich direkt an die Polizei zu wenden! — Diese erhielt gestern
 früh ein mit Maschine angefertigtes Schreiben, in dem für die
 Freilassung der Gräfin eine Million Kronen verlangt wird.
-
-> Das Geld soll bis morgen, also bis zum 11. November nachts
+Das Geld soll bis morgen, also bis zum 11. November nachts
 12 Uhr dem Absender des Briefes in der Weise zugestellt
 werden, daß es in der Gruft des Erbbegräbnisses der Grafen
 Söderholm im Parke ihres Schlosses in offenem Umschlag auf
@@ -124,7 +123,7 @@ wird. Nach Empfang des Geldes würde die junge Gräfin sofort
 heimkehren dürfen. Sollte die Polizei auch nur den geringsten
 Versuch machen, den Park von Söderholm oder das
 Erbbegräbnis zu überwachen, so dürfte Herr Adam Stripley
-und der Graf die Verschwundene nie mehr wiedersehen —
+und der Graf die Verschwundene nie mehr wiedersehen. —
 Unterzeichnet war dieses Schreiben mit »Der Finger Gottes«.
 
 »Unglaublich!« sagte ich kopfschüttelnd. »Eine runde
@@ -147,7 +146,7 @@ an ihrem Tisch recht lärmend ebenfalls über die Gräfin
 Söderholm, den »Finger Gottes« und die Million sprachen,
 wobei sie des öfteren auf die vor ihnen ausgebreitete Zeitung
 derart mit der Faust einhieben, als spielten sie Trümpfe beim
-Skat aus; — selbst da regte Harst sich nicht. Die faulen Herbstfliegen
+Skat aus, — selbst da regte Harst sich nicht. Die faulen Herbstfliegen
 interessierten ihn mehr als die Kraftausdrücke der beiden
 Agrarier, die Herrn Adam Stripley einen kompletten
 Schafskopf nannten — und ähnliches mehr. Er blieb auch
@@ -181,7 +180,9 @@ Er schnitt schnell den Umschlag auf. Der Briefbogen war
 in derselben Weise wie der Umschlag beschrieben. — Und der
 Inhalt?
 
-Harst las leise vor: »Sehr verehrter Herr Konkurrent!
+Harst las leise vor:
+
+> »Sehr verehrter Herr Konkurrent!
 Ich hatte Sie eine Weile aus den Augen verloren. Mein Gehilfe
 stöberte Sie dann endlich in Lissabon auf, aber — zu
 spät! Ich konnte dort nicht mehr eingreifen. Ich war in
@@ -202,11 +203,11 @@ auf dem Boot! — Dann will ich Ihnen auch noch anvertrauen,
 weshalb ich annehme, auf der richtigen Fährte gewesen zu
 sein. Ich hatte ermittelt, daß ein Herr und eine verschleierte
 <@pagebreak/>
-Dame am 31. Oktober, (also am Tage des Verschwindens
+Dame am 31. Oktober (also am Tage des Verschwindens
 der Gräfin) mittags ein Uhr sehr eilig noch als letzte kurz
 vor der Abfahrt den nach Malmö in Schweden bestimmten
 Tourdampfer »Olaf Fredricksen« betreten hatten, war dann in
-Malmö auch so glücklich das Hotel zu finden, wo das Paar
+Malmö auch so glücklich, das Hotel zu finden, wo das Paar
 für eine Nacht auf Zimmer Nr. 11 und 12 gewohnt hatte.
 Ihre Spur schien nach Kopenhagen zurückzuführen. Als ich
 dann die Stewards der zwischen Malmö und Kopenhagen
@@ -235,7 +236,7 @@ Konkurrenz recht hat.« —
 
 Am folgenden Tage mittags boten zwei englische, sauber
 gekleidete Seeleute der Papageimutter Amalie Tiedzen an
-der Flurtür einen wunderschönen Kalender zum Kauf an. Das
+der Flurtür einen wunderschönen Kakadu zum Kauf an. Das
 alte Fräulein nötigte die recht vertrauenerweckend aussehenden
 Maate in ihr gutes Zimmer, und der Handel kam
 auch zustande, da ein lächerlich geringer Preis gefordert
@@ -245,7 +246,7 @@ Harst hatte wieder mal das richtige getroffen: Fräulein
 Tiedzen, die tadellos Englisch konnte, taute nun völlig auf
 und ließ sich auch in ihrer Harmlosigkeit von Harst über den
 Fall Söderholm ordentlich ausfragen. Mehr noch: sie freute
-sich, darüber reden zu können, denn sie fühlte sich so mit als
+sich, darüber reden zu können, denn sie fühlte sich ja mit als
 eine der Hauptpersonen dieses Dramas.
 
 Harst begann den heimlichen Angriff mit der Bemerkung,
@@ -258,16 +259,16 @@ Diese Verunstaltung der Tatsachen genügte. Fräulein
 Tiedzen war entsetzt über eine solche Unkenntnis von Tagessensationen.
 Schleunigst stellte sie des biederen Seemannes
 grobe Irrtümer richtig: »Gräfin Söderholm — Gräfin! —
-und nicht Schuhmacher sondern Modistin! — und nicht hier
-in der Danmarksgade verschwunden sondern entführt —
+und nicht Schuhmacher, sondern Modistin! — und nicht hier
+in der Danmarksgade verschwunden, sondern entführt —
 entführt im Auto!«
 
-»Richtig — im Auto! Jetzt besinne ich mich.« nickte
+»Richtig — im Auto! Jetzt besinne ich mich,« nickte
 Harst. »Nicht wahr — in dem gräflichen Auto — durch den
 eigenen Chauffeur?«
 
-»Himmel— was reden Sie da?! Sie werfen ja alles
-durcheinander! — Ich weiß am besten wie es war! Ich saß
+»Himmel — was reden Sie da?! Sie werfen ja alles
+durcheinander! — Ich weiß am besten, wie es war! Ich saß
 dort am Fenster. — Nein — es war wohl ein Auto, das dem
 Söderholmschen ähnlich sah, auch dunkelblau lackiert und so
 weiter, — aber es fehlte das Wappen an der Tür, und der
@@ -279,18 +280,18 @@ aus.«
 
 »Hm — ’n Kavalier mit ’n Verstand wie ’n Haifisch, der
 dreimal an dieselbe Angel geht!« brummte Harst. »So dumm
-zu sein und sich von dem Stubenmädchen wegschicken zu lassen!
-Ich wär’ nie drauf reingefallen! Ich hätte gefragt:
+zu sein, und sich von dem Stubenmädchen wegschicken zu lassen!
+Ich wär’ nie drauf reingefallen! Ich hätt’ gefragt:
 »Hat die Frau Gräfin Sie beauftragt? Wer sind Sie — he?«
 — Ja — ich wär’ schlauer gewesen!«
 
 Die Papageienmama lächelte plötzlich sehr geheimnisvoll.
 
-»Ein Stubenmädchen?« meinte sie achselzuckend. »Na ja
-— ich hab ja vor der Polizei darüber geschwiegen —«
+»Ein Stubenmädchen!« meinte sie achselzuckend. »Na ja
+— ich hab’ ja vor der Polizei darüber geschwiegen —«
 
-Harst Augen begegneten den meinen. Ich merkte: der
-Blick hieß —: »Achtung— jetzt erfahren wir etwas Wichtiges!«
+Harsts Augen begegneten den meinen. Ich merkte: der
+Blick hieß —: »Achtung — jetzt erfahren wir etwas Wichtiges!«
 
 »Da taten Sie auch nur recht dran, Fräulein,« lachte Harst
 dröhnend. »Mit der Polizei hat man nur immer Scherereien.
@@ -298,13 +299,13 @@ Das Mädchen hat wohl dem Chauffeur erst etwas schöne Augen
 gemacht, bevor sie ihn dann so beschwindelte?«
 
 Fräulein Tiedzen beugte sich in ihrem Stuhl weit vor.
-<@pagebreak/>
 
+<@pagebreak/>
 »Ihnen will ich’s sagen,« flüsterte sie. »Es — es war gar
 kein Mädchen da. Ganz bestimmt nicht!«
 
 »He — he — famos!« grinste Harst. »Sie sind mir ’ne
-spaßige Miß! Kein Mädchen da! — so ’n Witz!«
+spaßige Miß! Kein Mädchen da! — so’n Witz!«
 
 Die Tiedzen wurde böse. »Das nennen Sie Spaß?! —
 Oh — ich hab’, wenn ich die Brille aufsetze, reine Seemannsaugen.
@@ -318,7 +319,7 @@ dem Hause, wo die Andersen —«
 
 »Na — dann wird das Mädchen dem gräflichen Chauffeur
 eben vom Flur aus den Auftrag zugerufen haben,« fiel ihr
-Harst ins Wort. »Mich schert die Sache ’n Dreck Fräulein.
+Harst ins Wort. »Mich schert die Sache ’n Dreck, Fräulein.
 Wir gehen mit unserm Schoner morgen früh wieder in See.
 — Vielleicht ist die Gräfin ihrem Mann auch nur ausgerückt.
 Soll ja ’n hübsches Weibsbild sein, sagt man.«
@@ -330,10 +331,10 @@ wie die Turteltauben lebt?! Wo’s die junge Gräfin wahrlich
 nicht leicht gehabt hat, ihrem Vater die Einwilligung zu der
 Heirat abzuschmeicheln. Ich weiß Bescheid, wie’s um diese
 Liebe steht. Ich höre alles. Ich kenne alle Leute hier. Nein
-— meinen alten Kopf wett’ ich: gemeine Erpresser sind’s die
+— meinen alten Kopf wett’ ich: gemeine Erpresser sind’s, die
 die Gräfin weggeschleppt haben! Wissen Sie denn gar nichts
-davon, daß die Lumpen jetzt eine Million von Stripley verlangt
-—«
+davon, daß die Lumpen jetzt eine Million von Stripley verlangen
+—?«
 
 »Heiliger Patrick! ’ne Million?!« wunderte sich Harst
 über alle Maßen.
@@ -344,7 +345,7 @@ Schufte die Gräfin auch wirklich freilassen.«
 »Na — für ’ne Million! Dafür lass’ ich ’n Dutzend Ladys
 laufen! — Komm’, Tom,« wandte er sich an mich. »Gehen
 wir. Mein Magen knurrt. Und — mir riechts hier auch zu
-sehr nach Hühnerstall von all den — Papageien.«
+sehr nach Hühnerstall von all den Papageien.«
 
 * * *
 
@@ -405,11 +406,13 @@ und wünsche seiner Braut ein recht hübsches, seidenes
 Kleid mitzubringen.
 
 Fräulein Andersen bewies Geschäftstüchtigkeit. Sie ließ
-uns offenbar die ältesten Ladenhüter vorlegen und Harst
+uns offenbar die ältesten Ladenhüter vorlegen, und Harst
 kaufte eine »Robe« für 300 Kronen, obwohl doch kein Mensch
 voraussagen konnte, ob sie der Braut auch passen würde.
 Die Andersen hielt uns nun fraglos für recht biedere Burschen.
+
 Harst bezahlte, meinte dabei mit einem pfiffigen Grinsen:
+
 »Fräulein Andersen, — ehrlich: das Verschwinden der
 Baronin Söderholm ist für Sie ’ne feine Reklame. Ich habe
 nämlich auf diese Weise nur aus den Zeitungen von Ihrem
@@ -417,9 +420,9 @@ Atelier erfahren und dachte: Na — wo ’ne Baronin arbeiten
 läßt, da —«
 
 »Gräfin — Gräfin!« verbesserte Fräulein Andersen stolz.
-»Sie haben also von der Entführung gelesen. Nun dann
+»Sie haben also von der Entführung gelesen. Nun, dann
 wird es einiges Interesse für Sie haben: die junge Gräfin
-ist heute vormittag elf Uhr also vor zwei Stunden wohlbehalten
+ist heute vormittag elf Uhr, also vor zwei Stunden, wohlbehalten
 zu ihrem Gatten zurückgekehrt. Der Herr Graf hat
 mir dies vorhin in seiner Freude telephonisch mitgeteilt.«
 
@@ -428,7 +431,7 @@ Das hätte ich nicht erwartet.
 
 »Na — kein Wunder!« meinte Harst. »Für ’ne Million!
 Das ist doch ’n schönes Stück Geld. Dafür kriegt man schon ’n
-5000 Tonnen-Dampfer! — Da scheinen Sie ja mit dem gräflichen
+5000-Tonnen-Dampfer! — Da scheinen Sie ja mit dem gräflichen
 Paare sehr gut benannt zu sein, Fräulein Andersen.«
 
 »Oh — ich habe für die Gräfin schon gearbeitet, als sie
@@ -450,7 +453,7 @@ versteckt? Hat der Graf darüber was zu Ihnen am Telephon
 geäußert, Fräulein Andersen? Wohl irgendwo im
 Keller nicht wahr? Und ein Kerl hat wohl stets mit
 <@pagebreak/>
-gezücktem Messer Wache gehalten? — So hab — ich’s mal in ’ner
+gezücktem Messer Wache gehalten? — So hab ich’s mal in ’ner
 feinen Geschichte gelesen.«
 
 »Der Herr Graf hat mir erzählt, seine Gattin habe vor
@@ -503,7 +506,7 @@ verstehen, Herr Graf: die eine Partei meinte, die Lady würde trotz
 der Million nicht freigelassen werden, die andere meinte: die
 Million genügt! — Na — und als nun einer von uns vorhin
 die Nachricht mit an Bord brachte, daß die Lady hier bei
-Master Stripley sei, — na — Sie wissen, nun, wie’s gemeint
+Master Stripley sei, — na — Sie wissen nun, wie’s gemeint
 ist, Herr Graf.«
 
 Graf Christian Söderholm war ein schlanker Mann mit
@@ -511,7 +514,7 @@ etwas weichlichem, hübschem Gesicht; Aristokrat vom Scheitel
 bis zur Zehe. — Die Gräfin eine blonde Venus mit
 dunklen Glutaugen, Grübchen in den Wangen und einem
 reizend liebenswürdigen Lächeln. Sie sah wirklich prächtig
-frisch aus. Ihre Augen strahlten, Ihre Wangen zeigten eine
+frisch aus. Ihre Augen strahlten. Ihre Wangen zeigten eine
 Farbe, um die sie jedes Weib glühend beneidet hätte.
 
 Adam Stripley wieder war klein, mager, bartlos und
@@ -525,7 +528,7 @@ Tessa würde uns einen Wink geben können, wo diese Erpresserbrut
 zu suchen sei. Verdammt — auch damit ist es nichts!
 Die Million schmerzt mich nicht. Nur der Gedanke, daß man
 Adam Stripley so viel Geld abgegaunert hat, ist mir unerträglich,—
-mir abgegaunert — noch ist nicht das letzte
+mir abgegaunert! Na — noch ist nicht das letzte
 Wort in dieser Sache gesprochen! Jetzt, wo Tessa wieder da
 ist, soll die Brut mich kennen lernen!«
 
@@ -539,9 +542,9 @@ außerdem von dem Grafen 200 Kronen »für die Besatzung des
 »Chancellor« zu Freigrog«.
 
 Wir stampften die Treppe hinab. Der Graf begleitete
-uns höflich bis an die Haustür, fragte wann wir den Hafen
+uns höflich bis an die Haustür, fragte, wann wir den Hafen
 wieder verließen, und lud uns für den Abend nach seinem
-Schlosse ein, als er hörte wir gingen erst am nächsten Vormittag
+Schlosse ein, als er hörte, wir gingen erst am nächsten Vormittag
 unter Segel.
 
 Harst machte verschiedene Kratzfüße und versprach, wir
@@ -550,31 +553,31 @@ würden uns um sieben Uhr im Schlosse einfinden.
 <@pagebreak/>
 Als wir dann das Kaupmanna-Haus hundert Schritt hinter
 uns hatten, blieb Harst stehen und steckte sich umständlich
-eine der Zigarren an, sogar so umständlich daß ich sofort
-ahnte er wolle nur irgend etwas beobachten.
+eine der Zigarren an, sogar so umständlich, daß ich sofort
+ahnte, er wolle nur irgend etwas beobachten.
 
 »Was gibt’s denn?!« meinte ich. »Diese Streichholzverschwendung
 sagt mir, daß —«
 
-»— daß Du Dich nicht etwa umsehen wirst, mein Alter!
+»— daß Du Dich nicht etwa umdrehen wirst, mein Alter!
 Sonst verdirbst Du uns vielleicht alles!«
 
 Ich stand mit dem Rücken nach Stripleys uraltem Hause
 hin. Harst paffte jetzt wie ein Schornstein, rieb noch ein
-Streichholz an und hielt es an meine Zigarre die längst
+Streichholz an und hielt es an meine Zigarre, die längst
 brannte.
 
 »Hm,« brummte er dann, »sollte ich mich so verrechnet haben?!
 — Es kommt niemand. Und — das Gesicht ließ doch
 mit Bestimmtheit darauf schließen, daß —« Er schwieg, fuhr
-sogleich fort: »Ein tadelloses Kraut diese Zigarre!«
+sogleich fort: »Ein tadelloses Kraut, diese Zigarre!«
 
 »Wessen Gesicht?« fragte ich gereizt. »Deubel noch eins,
 Harald, spann’ mich nicht wieder auf die Folter! Diese verdammte
-Art, mich mit halben Andeutungen abzuspeisen
+Art, mich mit halben Andeutungen abzuspeisen,
 ist —«
 
-»— geradezu verletzend! Das hast Du mir schon x\-mal
+»— geradezu verletzend! Das hast Du mir schon xmal
 vorgehalten, guter Max! Nun — ich meinte das <span class="g">braune</span>
 Gesicht!«
 
@@ -584,13 +587,13 @@ Gesicht!«
 über jeden Inder. Es war doch schön, dieses Jahr in Indien,
 weiß Gott! Nun — auch hier kann’s sehr schön werden. —
 Uebrigens: Du hättest bei Stripley noch mehr den blöden
-Maat spielen sollen; Als Du in Deinem Patent-Englisch zu
-Stripley sagtest, Du seist einer Wettsieger, da fixierte ich
+Maat spielen sollen. Als Du in Deinem Patent-Englisch zu
+Stripley sagtest, Du seist einer Wettsieger, da fixierte Dich
 Graf Christian sehr scharf. Ich fürchte, er hat Argwohn geschöpft.
 Seine Einladung dürfte wohl auch nur den Zweck
-haben, uns näher auf den Zahn zu fühlen, schätz ich! Wenn
+haben, uns näher auf den Zahn zu fühlen, schätz’ ich! Wenn
 er so schlau ist, sich zu erkundigen, ob hier eine Brigg Chancellor
-ankert, sind wir schon die Hereingefallenen!— Eigentlich
+ankert, sind wir schon die Hereingefallenen! — Eigentlich
 glaubte ich, er würde uns entweder selbst nachschleichen
 oder den Inder hinter uns dreinschicken. Bisher hat jedoch
 niemand das Kaupmanna-Haus verlassen. Wir können nun also
@@ -598,7 +601,7 @@ weitergehen und in unser bescheidenes Quartier zurückkehren.
 Ich möchte nur noch die hiesige Filiale der Auskunftei
 <@pagebreak/>
 Schimmelpfeng besuchen. Sie wird wohl durchgehende Arbeitszeit
-haben und noch offen sein. — He, Auto — halt!«
+haben und noch offen sein. — He, Auto, — halt!«
 
 Dann fuhren wir davon — zu Schimmelpfeng. Ich mußte
 unten im Auto sitzen bleiben. — »Paß genau auf, ob uns irgend
@@ -612,11 +615,11 @@ Was wolltest Du denn nun bei Schimmelpfeng?«
 
 »Fragen, ob Stripley wirklich so enorm reich ist. — Er
 ist neunfacher Millionär. Wenigstens versteuert er so viel.
-Mithin besitzt er das Doppelte.« —
+Mithin besitzt er das Doppelte.«
 
 Wir fuhren dann nach der deutschen Hafenkneipe »Zur
-Stadt Lübeck,« wo wir im sogenannten Logierhause ein Erdgeschoßzimmer
-bewohnten, dessen Fenster kaum 1 ½ Meter über
+Stadt Lübeck«, wo wir im sogenannten Logierhause ein Erdgeschoßzimmer
+bewohnten, dessen Fenster kaum 1½ Meter über
 dem Spiegel eines Seitenkanals des Frederiksholms lagen.
 
 Unser Mittagessen nahmen wir in unserem Zimmer ein.
@@ -639,7 +642,7 @@ hat, ein Kinderspiel ist.«
 bewältigen müssen,« erklärte ich achselzuckend. »Es
 wird wohl nur Dir so einfach erscheinen. — Ich muß nämlich
 gestehen: Jetzt wo Du noch das braune Gesicht, den indischen
-Diener, miteineingebracht hast, ist mir die Sache dunkler denn
+Diener, mithineingebracht hast, ist mir die Sache dunkler denn
 je. — Ich hatte eben den gräflichen Chauffeur in Verdacht.
 Sollte der sich nun in dem Inder einen Verbündeten gedungen
 haben? Stripley sagte doch, sein Diener sei bereits acht
@@ -656,7 +659,7 @@ Geniestreich vorbereitet und recht fein durchgeführt haben.
 Ich betone: <span class="g">recht</span> fein! Nicht: <span class="g">sehr</span> fein! Sie haben Fehler
 gemacht. Den Offiziellen sind diese Fehler entgangen,
 entgehen ihnen noch. Denn: der Hauptfehler dauert an, läßt
-sich nicht so leicht verhüllen oder — überpinseln — oder
+sich nicht so leicht verhüllen, oder — überpinseln, — oder
 wegretouchieren, — ganz, wie Du’s nennen willst.«
 
 »Was heißt das nun wieder? — Fehler dauert an?
@@ -669,12 +672,13 @@ sah plötzlich nach der Uhr.
 Dampfer nach Malmö. — Fix also!«
 
 Wir kamen in letzter Sekunde an die Anlegestelle. Der
-Dampfer hatte die Treppen eingeholt.
+Dampfer hatte die Trossen eingeholt.
 
-Um vier Uhr waren wir auf schwedischem Boden in
+Um vier Uhr waren wir auf schwedischem Boden, in
 Malmö, dem bekannten Eisenbahnkreuzungspunkt. Hier war
 es ein leichtes, das Hotel zu finden, in dem die verschleierte
-Frau und der Herr damals auf Nr. 11 und 12 gewohnt hatten.<@refnote 2/>
+Frau und der Herr damals auf Nr. 11 und 12 gewohnt hatten,
+was unser Konkurrent Lihin Omen ja herausgefunden hatte.<@refnote 2/>
 Harst erklärte den Hotelportiers, wir seien deutsche Privatdetektive,
 die nach einem Defraudanten suchten. Zwanzigkronenscheine
 taten das ihrige, die Leute gesprächig zu
@@ -685,7 +689,7 @@ zurück. Wir wußten nun, daß die Dame, die auf Nr.
 11 genächtigt hatte, ihr Gesicht sehr sorgfältig vor jedermann
 verhüllt gehabt und daß ihr Begleiter einen blonden Künstlerbart
 besessen hatte, dazu eine goldene Brille. Die Dame hatte
-einen langen seidenen Mantel getragen, schottisch gemustert.
+einen langen, seidenen Mantel getragen, schottisch gemustert.
 
 Kaum waren wir in Kopenhagen, als Harst die nächste
 Postanstalt aufsuchte. Ich stand neben ihm, als er folgende
@@ -700,10 +704,10 @@ Zwischennachricht. Gruß — Christian.«
 * * *
 
 Erst in dem Auto, das uns in beschleunigtem Tempo nach
-Charlottenlund, acht Kilometer nördlich von Kopenhagen
+Charlottenlund, acht Kilometer nördlich von Kopenhagen,
 bringen sollte, kam ich dazu, Harst zu fragen:
-<@pagebreak/>
 
+<@pagebreak/>
 »Was in aller Welt sollte die Depesche? Das war ja eine
 Fälschung!«
 
@@ -715,13 +719,13 @@ Marinemaler Hölger aus Warnemünde sei.«
 Harst versuchte, ob die Deckenlampe des geschlossenen
 Autos brannte. Als sie aufglühte, zog er die Abend-Zeitungen
 hervor, begann sie hastig durchzusehen, rief dann: »Hier
-steht’s. — Ich werde vorlesen:«
+steht’s. — Ich werde vorlesen:
 
 > »Wir können zu dem Fall Söderholm noch folgendes
 nachtragen. — Gestern nachmittag 5 Uhr brachte Herr Stripley
 die geforderte Million in das Erbbegräbnis der gräflichen
 Familie und zwar in Gegenwart seines Schwiegersohnes,
-des Grafen Christian und des Chauffeurs Bendisen. Der
+des Grafen Christian, und des Chauffeurs Bendisen. Der
 Umschlag mit dem Gelde wurde wie verlangt auf den Deckel
 des Eichensarges des verstorbenen Axel Söderholm niedergelegt.
 — Die Herren verschlossen die Tür des in Form einer
@@ -748,7 +752,7 @@ Eid keine Bedeutung hätte, erklärte die Gräfin, sie
 würde den Schwur halten.
 
 > Vieles ist bei dieser Geschichte rätselhaft. Am rätselhaftesten
-aber die Tatsache daß die Erpresser es wirklich fertiggebracht
+aber die Tatsache, daß die Erpresser es wirklich fertiggebracht
 haben, die Million sich aus der Gruft zu holen, ohne
 <@pagebreak/>
 die Schlösser zu verletzen oder gewaltsam sonstwie einzudringen.
@@ -763,8 +767,8 @@ glückt, diesen raffinierten Gaunern ihre Beute abzunehmen.«
 
 Das Auto hielt. Wir stiegen aus. Harst bezahlte den
 Chauffeur. Ich blickte mich um. In der Nähe stand auf einer
-Straßenkreuzungsinsel ein elektrischer Kandelaber. Gut
-gepflegte Fahr- und Reitwege erkannte ich. Daneben breite,
+Straßenkreuzungsinsel ein elektrischer Kandelaber. Gutgepflegte
+Fahr- und Reitwege erkannte ich. Daneben breite,
 schattige Promenaden. Ringsum ein hochstämmiger Mischwald,
 dessen Rauschen so heimatlich klang. Es war der prächtige,
 vielbesuchte Dyrehaven, ein Naturpark, 8 qkm groß. Im
@@ -809,8 +813,8 @@ auf dem Hofe zeigte. Er huschte davon. Die Dunkelheit
 hatte ihn gleich darauf verschluckt.
 
 Ich dachte an das warme Abendessen, das wir im Schlosse
-zu erhoffen hatten; ich freute mich daß dieses Abenteuer einmal
-so ganz nach meinem Geschmack war: beinahe behaglich
+zu erhoffen hatten; ich freute mich, daß dieses Abenteuer einmal
+so ganz nach meinem Geschmack war: beinahe behaglich,
 und nur so ganz leicht aufregend, eben ohne jene Knalleffekte,
 wie sie sonst stets erfolgt waren und Harst und mir regelmäßig
 böse Stunden bereitet hatten.
@@ -925,7 +929,7 @@ Sie wollen hier durchaus in Ihrer Ausdrucksweise einen Wegelagerer
 vortäuschen. Schenken Sie sich das. Wir befinden
 uns hier in den Kellergewölben Ihres Schlosses. Das Boot
 ruderte mit uns anderthalb Stunden etwa auf dem Teich im
-Parke herum. Dann führten Sie uns durch den Park über
+Parke herum. Dann führten Sie uns durch den Park, über
 die Zugbrücke und durch eine Seitenpforte hierher. — Sie
 sind Graf Christian Söderholm, und die Dame, deren Röcke so
 verräterisch rauschen, ist Ihre Gattin. Uns betrügen Sie nicht.
@@ -946,7 +950,7 @@ bewiesen haben, daß mit uns nicht zu spaßen ist!«
 Ah — er meinte Lihin Omen, die Konkurrenz.
 
 »Ihr wollt die ausgesetzte Belohnung noch jetzt verdienen,
-— das ist’s! Ihr denkt, wer die Erpresser fängt,
+— das ist’s! Ihr denkt, wenn Ihr die Erpresser fängt,
 <@pagebreak/>
 werdet Ihr von Master Adam Stripley ’ne Masse Geld in den
 Rachen geworfen bekommen! Ihr seid reif für ’n Strick und
@@ -956,7 +960,7 @@ studieren könnt. Ihr —«
 
 »Genug, Herr Graf!« rief Harst dazwischen. »Sie unterschätzen
 uns. Wir wissen, daß Ihre Gattin niemals entführt
-worden ist.« —
+worden ist.«
 
 »He — der Kerl ist verrückt! Noch einen solchen albernen
 Satz, und —«
@@ -970,6 +974,7 @@ Und genau so, wie ich Ihnen nun hier dies alles schildere,
 haben wir’s schriftlich —«
 
 Da — ein leiser Schreckensruf aus weiblicher Kehle.
+
 Harst änderte sofort den Ton. »Frau Gräfin, Sie haben
 wirklich keinerlei Grund, fürchten zu müssen, wir könnten
 Sie verraten. Das, was wir schriftlich aufzeichneten, gaben
@@ -995,17 +1000,17 @@ Mann wie Sie —«
 Die Gräfin fiel ein: »Ja — daß Sie uns nicht verraten
 würden, wäre uns nie zweifelhaft gewesen, Herr Harst.«
 
-Ich fühlte wie meine Handfesseln zerschnitten wurden.
+Ich fühlte, wie meine Handfesseln zerschnitten wurden.
 Die Decke flog mir vom Kopf. Und ganz geblendet schloß ich für
 einen Moment die Augen.
-<@pagebreak/>
 
+<@pagebreak/>
 Ich stand auf. Vor mir sah ich in dem mit altertümlichen
 Geräten angefüllten achteckigen Gemach den Grafen, seine
 Gattin und — einen Herrn mit blondem Künstlerbart, den
 Söderholm uns nun vorstellen wollte.
 
-»Mein bester Freund der —«
+»Mein bester Freund, der —«
 
 »— ja — der Marinemaler Armin Hölger aus Warnemünde,
 der Besitzer eines Motorboots und einer kleinen Sommervilla
@@ -1037,7 +1042,7 @@ Die Gräfin winkte ihrem Manne zu. Sie setzen sich auf
 eine altertümliche Bank; wir wieder auf die geschnitzte Truhe.
 
 »Als ich hier eintraf,« begann Harst, »glaubte ich tatsächlich,
-als läge eine gewaltsame Entführung vor. Ich studierte
+es läge eine gewaltsame Entführung vor. Ich studierte
 zunächst den Stadtplan sehr genau, sah mir die Gegend um
 die Danmarksgade an und besuchte dann Fräulein Amalie
 Tiedzen, die der Modistin Andersen gegenüberwohnt. Hier
@@ -1085,22 +1090,22 @@ bester Laune heimgekehrt. Dies gab mir sehr zu denken
 und verstärkte noch die bereits aufgetauchte Vermutung, die
 Gräfin habe vielleicht diese Gefangenschaft freiwillig durchgemacht.
 Auch der Eid, den sie abgelegt hatte und den sie trotz
-der Vorstellungen der Polizei halten wollte, kann mir etwas
+der Vorstellungen der Polizei halten wollte, kam mir etwas
 unwahrscheinlich vor.«
 
 Söderholm wurde recht rot. »Herr Harst, — wenn mir
 die Wucherer nicht mit Pfändung gedroht hätten, wäre —
 wäre Tessa wohl nie —«
-<@pagebreak/>
 
+<@pagebreak/>
 Er zögerte. Da rief die Gräfin tapfer: »Ja — ich habe
 die Idee zu dieser Komödie zuerst gehabt, Herr Harst. Hölger
 hat sie dann bis ins einzelne ausgearbeitet, und —«
 
 »— wir Verschworenen sind nachher nicht aus der Angst
 herausgekommen, die Sache könnte irgendwie aufgedeckt
-werden.« vollendete der Graf. »Deshalb haben wir auch jenen
-Herrn; der sich Lihin Omen nannte, recht schlecht behandelt,
+werden,« vollendete der Graf. »Deshalb haben wir auch jenen
+Herrn, der sich Lihin Omen nannte, recht schlecht behandelt,
 und aus demselben Grunde war ich gegen jeden mißtrauisch,
 der sich an uns herandrängte. — Ja, Herr Harst, Sie sollten
 hier überfallen werden. Wir, Hölger und ich, erwarteten Sie
@@ -1109,7 +1114,7 @@ Sie zu einem Eide zwingen, Kopenhagen in den nächsten
 drei Monaten nicht mehr zu betreten, und Sie wie Herrn Omen
 nach Warnemünde abschieben. Daß Sie nicht Seeleute waren,
 sah ich an Ihren Händen. — Ich kann Sie nur vielmals um
-Entschuldigung bitten, weil wir beide so — roh angepackt
+Entschuldigung bitten, weil wir Sie beide so — roh angepackt
 haben. Aber —«
 
 »Oh — bitte, jede Entschuldigung erübrigt sich. Ich kann
@@ -1127,7 +1132,7 @@ zwang die Gräfin zum Schweigen.
 Die drei »Erpresser« schauten sich unruhig an. Dann
 wanderten ihre Blicke scheu zu Harst hin. Der verstand, sagte
 leise: »Ich habe nichts verraten. Von mir aus kann Ihnen
-nichts Unangenehmes drohen. — So öffnen Sie doch Herr
+nichts Unangenehmes drohen. — So öffnen Sie doch, Herr
 Graf.«
 
 Graf Söderholm schob den schweren, kunstvoll verzierten
@@ -1138,14 +1143,14 @@ die Tragödie!
 
 Es war der Chauffeur Bendisen, ein bartloser, älterer
 Mann. Er sah so verstört, so bleich aus, daß die Gräfin
-angstvoll aufstöhnte. »Um Gott, Hjalmar was ist geschehen?«
+angstvoll aufstöhnte: »Um Gott, Hjalmar, was ist geschehen?«
 
 Bendisen stierte uns ganz entgeistert an. Der Graf und
-der Maler hatten beim Anblick dieses ihres Verbündeten
+der Maler hatten beim Anblick dieses ihres Verbündeten,
 dem das helle Entsetzen so deutlich anzusehen war, die Farbe
 gewechselt.
-<@pagebreak/>
 
+<@pagebreak/>
 Harst war es, der dann zu Bendisen sagte: »Ich bin der
 Liebhaberdetektiv Harald Harst. Vor mir können Sie ohne
 Scheu sprechen. Ich stehe ganz auf Seiten Ihrer Herrschaft.«
@@ -1198,9 +1203,9 @@ zu.
 Wir standen vor Adam Stripleys Leiche. Daß er tot war,
 bewies schon ein flüchtiger Blick in das starre Gesicht.
 
-Bendisen ging in seine Wohnung hinauf. — »Ich habe
+Bendisen ging in seine Wohnung hinauf. — »Ich habe hier
 <@pagebreak/>
-nur ein paar Sekunden allein sein wollen.« flüsterte Harst,
+nur ein paar Sekunden allein sein wollen,« flüsterte Harst,
 kniete neben dem Toten nieder und untersuchte dessen Taschen.
 Ich beugte mich ganz tief herab. Stripley lag auf dem Rücken;
 neben ihm sein weicher Filzhut. Auf der Stirn, halb noch
@@ -1247,7 +1252,7 @@ Ich vermute das wenigstens mit ziemlicher Bestimmtheit.
 Doch davon später. — Ah — da liegt auch die Mordwaffe —
 ein großer eiserner Schraubenschlüssel. Fünf Schritt von der
 <@pagebreak/>
-Leiche ab. — Nicht anrühren Schraut! Bedenke daß die Polizei
+Leiche ab. — Nicht anrühren, Schraut! Bedenke, daß die Polizei
 hier das Vorrecht hat.«
 
 Wir betraten die Garage. Zwei Autos standen hier nebeneinander.
@@ -1275,7 +1280,7 @@ Mörders irgendwo scharf ausgeprägt finden.«
 er die angebliche Entführung durchschaut hat und dann
 Stripley den Brief schickte. Aber — in diesen Schlußfolgerungen
 muß ein Fehler stecken — irgendwo! Sie sind doch
-beide in der Garage gewesen! Sie und der Mörder müssen
+beide in der Garage gewesen! Er und der Mörder müssen
 nach den Oelspuren sogar nebeneinander gestanden haben, als
 sie das Geld aus dem Benzinbehälter herausholten. Nein —
 da stimmt etwas nicht!«
@@ -1332,7 +1337,7 @@ Papierkugel, mit der er eine der Spitzen umwickelt haben
 dürfte, um — Schnell, reich mir mal die Laterne!« Ich tat’s.
 — »Blutspuren. Er muß sich die Hand verletzt haben, Schraut.
 Hier — eine der Glasscherben — sie lag mit der blutigen
-Seite nach unten. — Zwei Fingerabdrücke sind zu erkennen.
+Seite nach unten — zwei Fingerabdrücke sind zu erkennen.
 Schraut — es ist Palperlon gewesen! Dieses blutige Glasstück
 ist seine Visitenkarte: der rechte Mittelfinger — und
 an der Spitze die tiefe Narbe! Du besinnst Dich auf den Kofferbeschlag,
@@ -1346,8 +1351,8 @@ Blätter sich gekauft hatte und sie in der Tasche trug, dann —
 Nein — hier will ich diese Arbeit doch nicht erledigen. Das
 muß neben einem heißen Ofen oder dergleichen geschehen. —
 Kehren wir ins Schloß zurück.«
-<@pagebreak/>
 
+<@pagebreak/>
 Wir fanden das Ehepaar Söderholm und den Maler im
 neuen Flügel im sog. Empfangssalon vor. Die Gräfin hatte
 rotgeweinte Augen. — »Das ist die Strafe für die Entführungskomödie,
@@ -1404,12 +1409,12 @@ Sie, der ihm als Schwiegersohn nie lieb war, mehr noch,
 den er insgeheim gehaßt haben mag, zu einem vernichtenden
 Schlage auszuholen. Vielleicht wollte er seine Tochter
 enterben, vielleicht Ihre Ehe irgendwie auseinanderbringen.
-Die Blicke mit denen Stripley Sie heimlich ansah, wenn Sie
+Die Blicke, mit denen Stripley Sie heimlich ansah, wenn Sie
 so zärtlich mit Ihrer Gattin taten, sagten mir, dem bescheidenen
-Jan Maat sehr viel. — Palperlon aber, der sich Stripley
+Jan Maat, sehr viel. — Palperlon aber, der sich Stripley
 als Harald Harst näherte, wird Ihren Schwiegervater in
 seiner Art lediglich dazu haben ausnutzen wollen, die
-Garage die er überwacht glaubte, in aller Ruhe und in Gegenwart
+Garage, die er überwacht glaubte, in aller Ruhe und in Gegenwart
 eines Mannes durchsuchen zu können, der ihn bei
 einer Ueberraschung gegen jede Ungelegenheit geschützt hätte.
 Es liegt hier also ein Bubenstück Palperlons vor, das seinen
@@ -1421,20 +1426,20 @@ Stripley fällt auf den vertrauenerweckenden Namen Harst
 ohne weiteres herein, stellt sich pünktlich bei der Fontäne ein,
 beide durchsuchen die Garage, wo ich die Spuren zweier Männer
 fand, finden auch schließlich das Versteck der Million, verlassen
-die Garage und draußen schlägt Palperlon dann den
+die Garage, und draußen schlägt Palperlon dann den
 Ahnungslosen nieder, flieht mit dem Gelde vor dem plötzlich
 auftauchenden Bendisen, nimmt den vorbereiteten Weg über
 die Parkmauer, hinterläßt hier aber eine ganz unzweideutige
 Visitenkarte in Gestalt eines blutigen Fingerabdrucks auf
-einem Glasstücke und außerdem noch — dieses nasse Knäuel
+einem Glasstück und außerdem noch — dieses nasse Knäuel
 Zeitungspapier, das ich mir nun sofort über einem heißen
 Ofen näher ansehen möchte. Haben Sie vielleicht im Badezimmer
 einen elektrischen Ofen, Herr Graf? — Ja — dann
 führen Sie mich bitte hin. Ich muß die obersten Zeitungsschichten
 immer erst ein wenig trocknen lassen, bevor ich sie
 loslöse, sonst behalte ich nur Fetzen in den Händen.«
-<@pagebreak/>
 
+<@pagebreak/>
 Harst und der Graf entfernten sich. Sehr bald trafen dann
 Kriminalinspektor Barkeröd und zwei Beamte aus Kopenhagen
 im Dienstauto ein. Als ich den Herren gerade den Mord
@@ -1443,7 +1448,7 @@ so gut bekannte!) Täter genommen, erschien Harst. Der Inspektor
 war zu ihm äußerst liebenswürdig. Harst zeigte ihm
 ein Stück Zeitung, auf deren Rand eine Wäscherechnung
 mit Bleistift notiert war: »3 Hemd. — 1,80, 2 Oberh. —
-2,00«, und so weiter. Darüber stand ein Name: »Monkefeld.
+2,00«, und so weiter. Darüber stand ein Name: »Monkefeld,
 Olfersgade 17« — Nach einigen erklärenden Bemerkungen
 Harsts fuhren wir mit dem Dienstauto in Begleitung eines
 der Kriminalbeamten nach Kopenhagen, weckten die Inhaberin
@@ -1455,8 +1460,8 @@ und habe zumeist Herren bei sich wohnen, gab die Plättfrau
 Bescheid.
 
 Daraufhin wurde das Haus der Torstensen in aller Stille
-von der Polizei umstellt. Ich begriff Harst nicht. Als wir
-einen Augenblick allein waren fragte ich denn auch:
+von der Polizei umstellt. — Ich begriff Harst nicht. Als wir
+einen Augenblick allein waren, fragte ich denn auch:
 
 »Hast Du Dir auch klar gemacht, daß, wenn wir Palperlon
 wirklich jetzt fassen, der Graf, die Gräfin und ihre Mitwisser
@@ -1478,7 +1483,7 @@ da — kam die letzte Ueberraschung dieser Nacht.
 Aber — der Herr hat nur zehn Tage bei mir gewohnt.
 Dann starb er an einem Schlagfluß. Ich hatte viele Scherereien
 damit. Er besaß keinerlei Papiere. Eine Depesche nach
-— London an seine dortige Wirtin, kam als unbestellbar zurück.
+London an seine dortige Wirtin, kam als unbestellbar zurück.
 Zum Glück hatte er jedoch genügend Geld in seinem Koffer,
 <@pagebreak/>
 gegen 120 Pfund Sterling. Er ist gestern beerdigt worden.
