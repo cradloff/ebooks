@@ -1,232 +1,192 @@
-<@pagebreak/>
- 
+<@pagebreak 3/>
 
-Preis 20 Pfg.
+<h1>Das Känguruh der Miß Dolling.</h1>
 
-Der Detektiv. Band 107.
-<@pagebreak/>
-Der Detektiv
+<h2>1. Kapitel.</h2>
+<h3>Für 50 000 Pfund Juwelen.</h3>
 
-Rriminalerzählungen
+es war Ende Januar 1923. Wir, Harald Harst und
+ich, kamen aus dem westlichsten Winkel von Neu-Süd-Wales,
+Australien. Was wir in der australischen Wildnis erlebt
+hatten, weiß der Leser: Suche nach zwei Säcken Gold und
+zwei Verschollenen, — Sandsturm, Insel im Bullobaki-See
+— und so weiter.
 
-von
-
-Malter Rabel.
-
-Band 107:
-
-Das Rängurub der Miß Dolling.
-
- 
-
-VEIOEYIEICEIHFEIHFEHHFEIH EI HE
-
-Derlag moderner Lektüre G. m.b. 5.
-Berlin 26, Elifabeth = Ufer 44
-<@pagebreak/>
-Nachvru>k verboken. Alle Rechte eins{ließli< Verfilmungs-
-ret MEN Copyright by Verlag moderner Lektüre
-G. m. b. H., Berlin 26. — 1924.
-
-md: Buchdruderei P. Lebmamn 8. m. 6. 5., Berlin.
-<@pagebreak/>
-1. Kapitel.
-Für 50 000 Pfund Juwelen.
-
-ÉE8 war Ende Januar 1923. Wir, Harald Harst und
-ich, kamen aus dem toestlichsten Winkel von Neu-Süd-Wales,
-Australien. Wa3 wir in der australischen Wildnis erlebt
-hatten, weiß der Leser: Suche nah zwei Säden Gold und
-zwei Verschollenen, — Sandsturm, Jnsel im Bullobaki-
-See — und so weiter.
-
-Nach vierzehn Tagen Unkultur nun wieder im Eisen»
-bahnzuge na< Sydney, erster Klasse, — Speisewagen,
-schneeweiß gekleidete Kellner, ei sgekühlte Getränke, eine
+Nach vierzehn Tagen Unkultur nun wieder im Eisenbahnzuge
+nach Sydney, erster Klasse, — Speisewagen,
+schneeweiß gekleidete Kellner, eisgekühlte Getränke, eine
 Speisekarte, auf der die Delikatessen aller Weltteile prangten.
 
-Und im Speisewagen, hinter dem Städtchen Potta-
-moorca, begann das neue Abenteuer, als der Zug durch
+Und im Speisewagen, hinter dem Städtchen Pottamoorca,
+begann das neue Abenteuer, als der Zug durch
 die Beec-Wüste raste.
 
-Es hatte si< ein älterer Herr an unseren Tisch gefegt.
+Es hatte sich ein älterer Herr an unseren Tisch gesetzt.
 Man sah ihm den Großzüchter sofort an. Wir kamen ins
-Gespräch. So nebenbei nannte er seinen Namen: Chefter
-Dolling, Besißer der Farm New-London.
+Gespräch. So nebenbei nannte er seinen Namen: Chester
+Dolling, Besitzer der Farm New-London.
 
-Ein etwas poltriger Mann war's, dieser RS
+Ein etwas poltriger Mann war’s, dieser Dolling.
 
-Det. 107
 <@pagebreak/>
->990999999999 4 9999999999509
+Und offenbar übelster Laune. Er Wollte seinem Herzen
+Luft machen, platzte mit einem Male heraus:
 
-Und offenbar übelster Laune. Er Wollte feinem Herzen
-2Zuft maden, platte mit einem Male heraus:
-
-„Denken Sie, — fahre ih da dor zwei Tagen zu
-meinem Freunde Greeborn, um mir dessen neue Bewässe-
-rungsanlagen anzusehen. Und gestern abend schi>t mir
+»Denken Sie, — fahre ich da vor zwei Tagen zu
+meinem Freunde Greeborn, um mir dessen neue Bewässerungsanlagen
+anzusehen. Und gestern abend schickt mir
 meine Tochter eine Depesche, daß bei uns eingebrochen und
-unser ganzer Schmuck geraubt ist.“ Er schaute dabei auf
+unser ganzer Schmuck geraubt ist.« Er schaute dabei auf
 seine kostbaren Ringe, deren Steine ein Vermögen wert
-waren. „Meine Frau liebte Diamanten, und Helen hat
-dieselbe Leidenschaft. Da habe ih denn so mit der Zeit
-eine Menge Pretiosen zusammengelauft. Schäße den gan-
-zen Kram auf fünfzigtaufend Pfund Sterling.“
+waren. »Meine Frau liebte Diamanten, und Helen hat
+dieselbe Leidenschaft. Da habe ich denn so mit der Zeit
+eine Menge Pretiosen zusammengekauft. Schätze den ganzen
+Kram auf fünfzigtausend Pfund Sterling.«
 
-„Donnerwetter!“ entfuhr es mir. Denn — für fünfzig»
-taujend Pjund Edmund... Dieser Dolling mußte reich
-jein — enorm reich!
+»Donnerwetter!« entfuhr es mir. Denn — für fünfzigtausend
+Pfund Schmuck... Dieser Dolling mußte reich
+sein — enorm reich!
 
-„Und all das Zeug Hat man mir nun gemauft,“
-brummte der Cchafgrofzüciter ärgerlihd. „Möchte nur
-tifjen, wer der Spitbube ift?! Meine Farm liegt ja dort
-im Norden jo weltabgefchieden, daß felten ein Fremder hin
-tommt. Und meine Leute?! Nein, von denen stiehlt keiner.
-Jedenfalls eine ganz verd . . . Geschichte, meine Herren.
-Habe sofort von Greehorn aus an den Detektiv Goddlepy
-nach Melbourne telegrapbiert. Wird ein Heidengeld kosten,
-der Goddlepy. Wissen Sie, meine Herren, das ift fo ein
-ganz gerissener Bruder. Kann was, aber läßt sih's auch
-bezahlen.“
+»Und all das Zeug Hat man mir nun gemaust,«
+brummte der Schafgroßzüchter ärgerlich. »Möchte nur
+wissen, wer der Spitzbube ist?! Meine Farm liegt ja dort
+im Norden so weltabgeschieden, daß Selten ein Fremder hinkommt.
+Und meine Leute?! Nein, von denen stiehlt keiner.
+Jedenfalls eine ganz verd... Geschichte, meine Herren.
+Habe sofort von Greeborn aus an den Detektiv Goddlepy
+nach Melbourne telegraphiert. Wird ein Heidengeld kosten,
+der Goddlepy. Wissen Sie, meine Herren, das ist so ein
+ganz gerissener Bruder. Kann was, aber läßt sich’s auch
+bezahlen.«
 
 Harald meinte nun, indem er mit dem Strohhalm die
 Eisstückchen im Glase rührte:
 
-„Ich las, daß der deutsche Detektiv Harald Harst in
+»Ich las, daß der deutsche Detektiv Harald Harst in
 Australien sein soll. Wenn Sie Harst beauftragen würden,
-den Dieb zu suchen, Mr. Dolling . . .*
+den Dieb zu suchen, Mr. Dolling...«
 
-„Harst?! Ah, bah — —! Harst?! Viel Reklame,
-nihts dahinter, meine Herren!“ Er zuckte die Achseln.
-„Hab'3 auch in den Zeitungen gelesen, daß er hier ist. Hat
-fih in Sydney ziemlich blamiert.“
+»Harst?! Ah, bah — —! Harst?! Viel Reklame,
+nichts dahinter, meine Herren!« Er zuckte die Achseln.
+»Hab’s auch in den Zeitungen gelesen, daß er hier ist. Hat
+sich in Sydney ziemlich blamiert.«
 
-Die in enalis<her Sprache geführte Unterhaltung ging
+Die in englischer Sprache geführte Unterhaltung ging
 <@pagebreak/>
-999599999999 5 99999999, +,»
-
-weiter. Harald jlocht ein, daß mir Deutiche Kaufleute seien,
-die größere Lieferungsabfchlüffe in Schafwolle tätigen
+weiter. Harald flocht ein, daß wir deutsche Kaufleute seien,
+die größere Lieferungsabschlüsse in Schafwolle tätigen
 wollten.
 
 Da wurde Dolling lebhafter.
 
-„Vielleicht können wir ein Geschäft miteinander machen,
-Mr. Harten,“ erklärte er. „Begleiten Sie mich Doch nach
+»Vielleicht können wir ein Geschäft miteinander machen,
+Mr. Harten,« erklärte er. »Begleiten Sie mich Doch nach
 meiner Farm. Seien Sie meine Gäste. Auf der Station
-Goßsfield erwartet mih mein Auto.“
+Goßfield erwartet mich mein Auto.«
 
-„Mr. Harten“ nahm die Einladung mit Dank an.
-Chester Dolling war schr froh darüber. Sein hageres,
+»Mr. Harten« nahm die Einladung mit Dank an.
+Chester Dolling war sehr froh darüber. Sein hageres,
 braunes Gesicht strahlte förmlich. Er war ein sehr dürrer,
-langer Herr mit grauem Scheitel. Die hellen Augen blick-
-ten jest für meinen Geschmack allzu listig. Es schien, al3
+langer Herr mit grauem Scheitel. Die hellen Augen blickten
+jetzt für meinen Geschmack allzu listig. Es schien, als
 ob der Großzüchter insgeheim hoffte, uns gehörig übers
-e hauen zu können — uns, die biederen, dummen Deut-
-
-jen.
+Ohr hauen zu können — uns, die biederen, dummen Deutschen.
 
 Abends gegen sieben hielt der Zug in Goßfield. Wir
 stiegen aus. Das große Reiseauto Dollings war zur Stelle.
-Aher — wer nicht zur Stelle war, das war der Kollege aus
-Melbourne, Mr. Goddlepy. Dolling fluchte. Diese- Groß-
-züchter, die da weitab von allen sogenannten Segnungen der
-Kultur in der Einöde der australischen Steppe hausen, tra-
-gen nur eine sehr dünne Schicht Kulturlack mit fih herum.
+Aber — wer nicht zur Stelle war, das war der Kollege aus
+Melbourne, Mr. Goddlepy. Dolling fluchte. Diese Großzüchter,
+die da weitab von allen sogenannten Segnungen der
+Kultur in der Einöde der australischen Steppe hausen, tragen
+nur eine sehr dünne Schicht Kulturlack mit sich herum.
 
-Die nächtliche jechsftündige Eilfahrt bis New-London
-brachte ni<hts Erwähnenswertes. Australische Landschasts-
-bilder kannten wir fchon. Sch habe bereits im vorigen Band.
-ng dem Leser ein Bild Jnneraustraliens kurz zu ent-
-werfen.
+Die nächtliche sechsstündige Eilfahrt bis New-London
+brachte nichts Erwähnenswertes. Australische Landschaftsbilder
+kannten wir schon. Ich habe bereits im vorigen Band
+versucht, dem Leser ein Bild Inneraustraliens kurz zu entwerfen.
 
-Gegen ein Uhr morgens dann die Ueberraschung: New-
-London unter uns in einem weiten blühenden Tale — inr
-Mondlicht —, dazu der grelle Schein unzähliger elefktrisch2r
+Gegen ein Uhr morgens dann die Ueberraschung: New-London
+unter uns in einem weiten blühenden Tale — im
+Mondlicht —, dazu der grelle Schein unzähliger elektrischer
 Bogenlampen, die von hohen Masten herab die stattlichen
-Baulichkeiten und das prächtige, s{loßartige Wohnhaus
+Baulichkeiten und das prächtige, schloßartige Wohnhaus
 strahlend beleuchteten.
 
-„Meine Farm!“ sagte Dolling stolz. Das war alles.
-was er äußerte. i
-<@pagebreak/>
-299999999999 5 99999999699
+»Meine Farm!« sagte Dolling stolz. Das war alles,
+was er äußerte.
 
-Der Weg, der bis dahin an den Gleisen einer S<hmal.
-fpurbahn entlanggeführt hatte (die Bahn gehörte größten-
-teils ebenfalls unserem Gastgeber), bog jeßt durch einen
+<@pagebreak/>
+Der Weg, der bis dahin an den Gleisen einer Schmalspurbahn
+entlanggeführt hatte (die Bahn gehörte größtenteils
+ebenfalls unserem Gastgeber), bog jetzt durch einen
 weiten lichten Park und eine Allee auf das Hauptgebäude ab.
 
 Vor der Freitreppe standen drei Diener und abseits
-Sn schlanke junge Dame mit blondem Haar in weißem
+eine schlanke junge Dame mit blondem Haar in weißem
+Kleide.
 
-eide.
+»Holla, Kind, hierher!« rief Dolling heiter. »Ich
+bringe Gäste mit... — Du gestattest: Mr. Harten, Mr.
+Schratt, zwei deutsche Kaufleute...«
 
-„Hola, Kind, Hierher!“ rief Dolling heiter. „Sch
-bringe Gäste mit . . . — Du geftatteft: Mr. Harten, Mr.
-Schratt, zwei deutsche Kaufleute . . .“
-
-Helen Dolling neigte kaum merkli<h den Kopf. Jhre
+Helen Dolling neigte kaum merklich den Kopf. Ihre
 Art, wie sie uns begrüßte, verriet ganz die Dame von Welt,
-berriet aber auch einen eisigen Hochmut.
+verriet aber auch einen eisigen Hochmut.
 
-Jm Speisesaale des Schlosses New-London arteie
-unfer eine reichgedecte Tafel. Der Zuschnitt dieses Haus-
-baltes war wahrhajt fürftlih. Was wir bisher von Vieh-
-farmen hier kennen gelernt hatten, konnte auch nicht im ge-
-ringsten einen Vergleich mit New-London aushalten. Das
-waren alles gleichsam Großbauern-Gehöste gewesen. Dies
-war der Besiÿ eines reichen Mojoratsherrn, an deutschen
+Im Speisesaale des Schlosses New-London wartete
+unser eine reichgedeckte Tafel. Der Zuschnitt dieses Haushaltes
+war wahrhaft fürstlich. Was wir bisher von Viehfarmen
+hier kennen gelernt hatten, konnte auch nicht im geringsten
+einen Vergleich mit New-London aushalten. Das
+waren alles gleichsam Großbauern-Gehöfte gewesen. Dies
+war der Besitz eines reichen Majoratsherrn, an deutschen
 Verhältnissen gemessen.
 
-Bei Tisch ließ Dolling fih von feiner Tochter Einzel-
-heiten über den Diebstahl erzählen.
+Bei Tisch ließ Dolling sich von seiner Tochter Einzelheiten
+über den Diebstahl erzählen.
 
 Und — da gab es für uns die zweite Ueberraschung:
 Die Juwelen hatten in einem modernen Panzerschrank im
-Arbeitszimmer des Großzüchters gelegen. Den Tresor-
-\<hlüssel hatte Dolling bei sih gehabt. Der Duplikatschlüssel
+Arbeitszimmer des Großzüchters gelegen. Den Tresorschlüssel
+hatte Dolling bei sich gehabt. Der Duplikatschlüssel
 lag im Schließfach der Bank der nächsten Stadt. Die Diebe
-hatten den Tresor offenbar mit allermodernsten Mitteln er-
-brochen und dann völlig ausgeräumt. Sie waren durch
+hatten den Tresor offenbar mit allermodernsten Mitteln erbrochen
+und dann völlig ausgeräumt. Sie waren durch
 das Fenster — eine Scheibe war eingedrückt worden —
 eingestiegen, ohne von dem Nachtwächter bemerkt zu werden.
 
 Auch Dolling war sprachlos.
 
-„Mr. Woop (das war der Polizeimeister der nächsten
+»Mr. Woop (das war der Polizeimeister der nächsten
 Polizeistation, den Helen sofort herbeigerufen hatte) meint
-also, es kämen als Täter nur gewerb2mäßige Einbrecher in
+also, es kämen als Täter nur gewerbsmäßige Einbrecher in
 <@pagebreak/>
-99999999999 7 99999999999,
-
-Betracht?" fragte er feine Tochter nochmal3 und immer
-wieder den Kopf {hüttelnd. „Zum Teufel, wie haben denn
-diese Banditen den Weg hier nach Nemw-London gefunden?!
+Betracht?« fragte er seine Tochter nochmals und immer
+wieder den Kopf schüttelnd. »Zum Teufel, wie haben denn
+diese Banditen den Weg hier nach New-London gefunden?!
 Sind denn Fremde in der Nähe hier beobachtet worden?!
-Die Schuste können doch nicht durch die Luft gejlogen fein!*
+Die Schufte können doch nicht durch die Luft geflogen sein!«
 
-„Mr. Woop hat Nachforschungen angestellt, Pa. Kein
-einziges fremdes Gesicht hat man beobachtet.“ — Helen3
+»Mr. Woop hat Nachforschungen angestellt, Pa. Kein
+einziges fremdes Gesicht hat man beobachtet.« — Helens
 langsame, müde Sprechweise und die schönen, plastischen
-Bewegungen ihrer tadellos geforuiten Hände wirkten ge-
-radezu beruhigend.
+Bewegungen ihrer tadellos geformten Hände wirkten geradezu
+beruhigend.
 
-Nachher wollte Doling fih den Schrank ansehen.
-„Kommen Sie mit, meine Herren, wenn e3 Shnen Spaß
-macht,“ meinte er und fügte ingrimmig hinzu: „Uebrigens
+Nachher wollte Dolling sich den Schrank ansehen.
+»Kommen Sie mit, meine Herren, wenn es Ihnen Spaß
+macht,« meinte er und fügte ingrimmig hinzu: »Uebrigens
 ein netter Spaß!! Für fünfzigtausend Pfund Juwelen und
-dazu elftaufend Pfund Bargeld!! Diese Schufte!!“
+dazu elftausend Pfund Bargeld!! Diese Schufte!!«
 
-Harst erwiderte: „Ja, wir können uns \{ließli< au<
-mal ansehen, wie solche Einbrecher arbeiten.“ Und er sette
+Harst erwiderte: »Ja, wir können uns schließlich auch
+mal ansehen, wie solche Einbrecher arbeiten.« Und er setzte
 umständlich seine Zigarette in Brand, so daß Dolling schon
 ganz ungeduldig wurde.
 
-Das Arbeitszimmer lag ebenfalls im ersten Sto>k nach
-Often zu, hatte zwei Fenster und war hochmodern einge-
-richtet. Die elektrifhe Krone mit ihren acht Glühbirnen
+Das Arbeitszimmer lag ebenfalls im ersten Stock nach
+Osten zu, hatte zwei Fenster und war hochmodern eingerichtet.
+Die elektrische Krone mit ihren acht Glühbirnen
 ließ jede Einzelheit der Beschädigungen des Stahlschrankes
 erkennen, der halb in die Seitenwand eingemauert war.
 
@@ -235,7 +195,7 @@ Bilder an den Wänden, hörte kaum hin, als Helen erklärte,
 Mr. Woop hätte behauptet, hier sei ein Sauerstoffgebläse
 verwendet worden.
 
-Sch sah dies auf den ersten Blik. Der Tresor war
+Ich sah dies auf den ersten Blick. Der Tresor war
 ohne Zweifel kein erstklassiges Fabrikat. Wie hätten die
 Diebe sonst in wenigen Stunden derartige Verwüstungen
 an den Schlössern der Tür anrichten können?! Von solchen
@@ -243,646 +203,612 @@ Dingen verstand ich etwas.
 
 Chester Dolling fluchte und wetterte.
 
-„Wenn nur Goddlepy erst da wäre!“ wiederholte er
-immer wieder. „Diese Kerle müssen gefaßt werden, und
+»Wenn nur Goddlepy erst da wäre!« wiederholte er
+immer wieder. »Diese Kerle müssen gefaßt werden, und
 <@pagebreak/>
-99954200922 2 9932099999
-
-wenn Goddlepy sie bis Jrland verfolgen sollte! Da stam=-
-men wir nämlich her, Mr. Harten,“ wandte er sih an Ha-
-tald. „Wir sind niht etwa Engländer! Gott bewahre!
-sch hasse die Engländer! Auch meine selige Frau war
-Jrländerin, und Helen ift in Dublin sieben Fahre in einem
-ersten Pensionat gewesen. War für mich verdammt s{<wer,
-sie so sieben endlose Jahre nicht wiederzusehen.“
+wenn Goddlepy sie bis Irland verfolgen sollte! Da stammen
+wir nämlich her, Mr. Harten,« wandte er sich an Harald.
+»Wir sind nicht etwa Engländer! Gott bewahre!
+ich hasse die Engländer! Auch meine selige Frau war
+Irländerin, und Helen ist in Dublin sieben Jahre in einem
+ersten Pensionat gewesen. War für mich verdammt schwer,
+sie so sieben endlose Jahre nicht wiederzusehen.«
 
 Harst deutete auf ein Bild an der Wand.
 
-„Shre Gattin, Mr. Dolling?*
+»Ihre Gattin, Mr. Dolling?«
 
-„Sa, meine gute Marıy ...* Er sprach Teifer.
-„Das beste Weib, das je einem Manne geholfen hat vor-
-roärtszukommen. Wir haben hier mal ganz Hein angefan-
-sen, Mr. Harten ... .*
+»Ja, meine gute Marry...« Er sprach leiser.
+»Das beste Weib, das je einem Manne geholfen hat vorwärtszukommen.
+Wir haben hier mal ganz klein angefangen,
+Mr. Harten....«
 
 Frau Dolling, hager wie ihr Gatte, saß auf dem Bilde
 in einem Sessel und hatte die Hände im Schoße gefaltet. Das
-Bild war eine künstleris<h ausgeführte photographische Ver-
-größerung. —
+Bild war eine künstlerisch ausgeführte photographische Vergrößerung.
+—
 
-Dann wollte Dolling uns na< oben in den zweiten
-Sto>k in unsere Fremdenzimmer geleiten. Harft jpielte
-plöglich ven Verlegenen.
+Dann wollte Dolling uns nach oben in den zweiten
+Stock in unsere Fremdenzimmer geleiten. Harst spielte
+plötzlich den Verlegenen.
 
-„Entschuldigen Sie s{hon, Mr. Dolling,“ meinte er.
-„Es ist aber eine Schwäche von mir, daß ich nie im zweiten
-Stock und nur in einem nah Sonnenaufgang zu gelegenen
-Zimmer sch<lasen kann. Wenn Sic die Licbenswürdigkeit
+»Entschuldigen Sie schon, Mr. Dolling,« meinte er.
+»Es ist aber eine Schwäche von mir, daß ich nie im zweiten
+Stock und nur in einem nach Sonnenaufgang zu gelegenen
+Zimmer schlafen kann. Wenn Sie die Liebenswürdigkeit
 hätten, für uns nebenan in dem kleinen Zimmer, das kaum
-bemußt zu werden scheint, Betten ausstellen zu lassen, wären
-wir Jhnen sehr dankbar. Sch bin einmal bei einem Hotel-
-brand im zweiten Stock fast ersti>kt, und seitdem . . .“
+benutzt zu werden scheint, Betten aufstellen zu lassen, wären
+wir Ihnen sehr dankbar. Ich bin einmal bei einem Hotelbrand
+im zweiten Stock fast erstickt, und seitdem...«
 
-„Aber gern, gern!“ rief Dolling. „Helen, ordne bitte
-das Nötige an. Wir seven uns derweil drüben in die
-Bibliothek.“
+»Aber gern, gern!« rief Dolling. »Helen, ordne bitte
+das Nötige an. Wir setzen uns derweil drüben in die
+Bibliothek.«
 
-Eine halbe Stunde später konnten wir das kleine Zim-
-mer beziehen. Es war völlig ummöbliert worden. Wir
-sagten Dolling und Tochter gute Nacht und avaen uns
+Eine halbe Stunde später konnten wir das kleine Zimmer
+beziehen. Es war völlig ummöbliert worden. Wir
+sagten Dolling und Tochter gute Nacht und zogen uns
 zurück.
 
-CAE
 <@pagebreak/>
->299999999999 q 999-9999
 
-2. Kapitel.
-Das Känguruh.
+<h2>2. Kapitel.</h2>
+<h3>Das Känguruh.</h3>
 
-Dieses Zimmer hatte eine Tapetentür na< Dolling®
-Arbeitszimmer hin. Die Tür war jeht durh einen großen
-Keiderschrank verstellt worden.
+Dieses Zimmer hatte eine Tapetentür nach Dollings
+Arbeitszimmer hin. Die Tür war jetzt durch einen großen
+Kleiderschrank verstellt worden.
 
-Harald verriegelte die Flurtür und überzeugte sich, ob-
-die Vorhänge des einzigen Fensters auh völlig dicht:
-ichloffen.
+Harald verriegelte die Flurtür und überzeugte sich, ob
+die Vorhänge des einzigen Fensters auch völlig dicht
+schlossen.
 
-Dann mwintte er mich neben fih auf das kleine Rohr-+
-sofa. Er hatte eine feiner geliebten Miratulum im Munds
-winkel, und um diesen Mund lag ein feines Lächeln.
+Dann winkte er mich neben sich auf das kleine Rohrsofa.
+Er hatte eine seiner geliebten Mirakulum im Mundwinkel,
+und um diesen Mund lag ein feines Lächeln.
 
-„Die gefällt Dir Helen?“ fragte er leise als Einleitung.
+»Wie gefällt Dir Helen?« fragte er leise als Einleitung.
 
-„Helen?!“ Fch stußte.
+»Helen?!« ich stutzte.
 
-„Ja, Helen. — Und wie gefällt Dir ihre Mutter ?“
+»Ja, Helen. — Und wie gefällt Dir ihre Mutter?«
 
-Wenn Harst derartig merkwürdige Fragen stellt, tut:
+Wenn Harst derartig merkwürdige Fragen stellt, tut
 man gut, die Phantasie spielen zu lassen, um — vielleicht —
-dahinterzukommen, wo er eigentlih hinaus twill.
+dahinterzukommen, wo er eigentlich hinaus will.
 
-Er nahm die Mirakulum aus dem Munde und be-
-trachtete sie, blies in die glimmende Spite und fügte be-
-däâchtig hinzu: 7
+Er nahm die Mirakulum aus dem Munde und betrachtete
+sie, blies in die glimmende Spitze und fügte bedächtig
+hinzu:
 
-„Dolling hat eine sehr breite und sehr kurzfingerige
-Hand. Seine Frau hat ebenfolhe Hände. Der Photo»
-araph hätte diese uns<önen Hände nicht gerade im Erhohe
-vlacieren jolen, mein Alter.“
+»Dolling hat eine sehr breite und sehr kurzfingerige
+Hand. Seine Frau hat ebensolche Hände. Der Photograph
+hätte diese unschönen Hände nicht gerade im Schoße
+placieren sollen, mein Alter.«
+
 <@pagebreak/>
-90999999929 15 92999999999
+»Hm — und...?!« — Ich war mächtig gespannt,
+was folgen würde.
 
-„Hm — und... .?!* — SH war mächtig gespannt,
-was folgen wiürde.
+»Na — und Helen Dollings Hände sind schmal und
+lang, sehr lang, sehr aristokratisch.«
 
-„Na — und Helen Dollings Hände sind {mal und
-lang, jehr lang, sehr aristokratisch.“
+Ich verstand noch immer nicht. Harald schaute mich an.
 
-Jh verstand noch immer nicht. Harald schaute mich an.
-
-„Der Tresor ist do< nur scheinbar erbrochen, lieber
-Alter,“ flüsterte er nah kurzer Pause. „Man hat ihn erft
+»Der Tresor ist doch nur scheinbar erbrochen, lieber
+Alter,« flüsterte er nach kurzer Pause. »Man hat ihn erst
 aufgeschlossen und dann die Schlösser demoliert. Mr. Woops
 Polizeiaugen genügen wohl für das Auffinden von Fährten
 und dergleichen. Nicht hierfür. Auch die Fensterscheibe mit
 den Resten der Splitter und des Teers, mit dem der zum
-Eindrücken benußte Lappen beschmiert war, redet ihre be-
-fondere Sprache. Das Fenster war offen, als die Scheibe
-eingedrückt wurde.“
+Eindrücken benutze Lappen beschmiert war, redet ihre besondere
+Sprache. Das Fenster war offen, als die Scheibe
+eingedrückt wurde.«
 
-Sch legte meine Zigarre auf die Aschenschale. Sie
-fchmecdte mir nicht IR:
+Ich legte meine Zigarre auf die Aschenschale. Sie
+schmeckte mir nicht mehr.
 
-„Du meinst, daß . . . daß Helen Dolling mit beteiligt
-ist?“ fragte ih unsicher.
+»Du meinst, daß... daß Helen Dolling mit beteiligt
+ist?« fragte ich unsicher.
 
-„sh meine noch anderes. — Komm', rücken wir den
-Schrank von der Wand, damit die Tapetentür frei wird.“
+»Ich meine noch anderes. — Komm’, rücken wir den
+Schrank von der Wand, damit die Tapetentür frei wird.«
 
-Er stand auf, wechselte rasch die Schuhe. Fn weichen
-Morgenschuhen drangen wir so in Dollings Arbeits-
-zimmer ein.
+Er stand auf, wechselte rasch die Schuhe. in weichen
+Morgenschuhen drangen wir so in Dollings Arbeitszimmer
+ein.
 
 Wir waren im Dunkeln, waren dicht an dem einen
-Fenster, blickten hinaus auf den Weiten Grasplaß, der
-weiterhin dur< Bäume eingefaßt war.
+Fenster, blickten hinaus auf den weiten Grasplatz, der
+weiterhin durch Bäume eingefaßt war.
 
-Der Mhpnd, als gelbe Scheibe über den Baumkronen
-LAD, gestattete uns na< dem Wfichter Ausichau zu
+Der Mond, als gelbe Scheibe über den Baumkronen
+schwebend, gestattete uns nach dem Wächter Ausschau zu
+halten.
 
-alten.
-
-Minutenlang warteten wir \o. Der Mann sollte bei
+Minutenlang warteten wir so. Der Mann sollte bei
 seinem Rundgang erst vorüberkommen, bevor wir hier an
 unsere Arbeit gingen.
 
-Er kam angeschlurft. Es war ein Mischling, ein kräf-
-tiger Bursche, am Gürtel das Revolverfutteral, um den
-Hals an einer Schnur ein Signalhorn aus Messing. Hinter.
-ihm her s{li< ein riesiger Hund, eine Art Wolfshund.
-<@pagebreak/>
-99999999999 || 99999999999 >,
+Er kam angeschlurft. Es war ein Mischling, ein kräftiger
+Bursche, am Gürtel das Revolverfutteral, um den
+Hals an einer Schnur ein Signalhorn aus Messing. Hinter
+ihm her schlich ein riesiger Hund, eine Art Wolfshund.
 
-Der Wächter vers<hwand na< re<ts. Aber — der
+<@pagebreak/>
+Der Wächter verschwand nach rechts. Aber — der
 Hund blieb stehen.
 
-Da Hatte Harald auch schon lautlos den einen Fenster-
-flügel geöffnet. Da hörten wir Stimmen. Der Wächter
+Da Hatte Harald auch schon lautlos den einen Fensterflügel
+geöffnet. Da hörten wir Stimmen. Der Wächter
 war von jemandem angehalten worden.
 
-Ja — Stimmen, und die eine war ohne Zweifel He-
-lens Stimme .. .!
+Ja — Stimmen, und die eine war ohne Zweifel Helens
+Stimme...!
 
-Jet verschwand auch der Hund um die Hausede. Da-
-für tauchte eine shlanke Frauengestalt auf — im Seiden-
-mantel, die Kapuze über den Kopf gezogen.
+Jetzt verschwand auch der Hund um die Hausecke. Dafür
+tauchte eine schlanke Frauengestalt auf — im Seidenmantel,
+die Kapuze über den Kopf gezogen.
 
-Helen — — Helen Dolling . . .!!
+Helen — — Helen Dolling...!!
 
-Sie schritt sehr shnell den Weg hinab, der ven Rasen-
-pla durchquerte.
+Sie schritt sehr schnell den Weg hinab, der den Rasenplatz
+durchquerte.
 
 Das Fenster lag etwa fünf Meter über dem Boden.
 Aber — die Hauswand war mit den derben Ranken des
 australischen Efeus bedeckt, und für zwei Leute von unserer
 Eigenart genügte das.
 
-Wir folgten Helen. Es war das nicht ganz ungefähr-
-lih. Es hätte zu leiht geschehen können, daß wir unsere
+Wir folgten Helen. Es war das nicht ganz ungefährlich.
+Es hätte zu leicht geschehen können, daß wir unsere
 Rollen als harmlose Aufkäufer von harmloser Schafwolle
 hätten aufgeben müssen.
 
-Wir hatten Glü>k. Helen durcheilte den Park na<
+Wir hatten Glück. Helen durcheilte den Park nach
 Osten zu, kam über die Brücke des kleinen Baches, klomm
-die Talwand empor und gelangte shließli<h an' eine Draht-
-umzäunung.
+die Talwand empor und gelangte schließlich an eine Drahtumzäunung.
 
 Hier machte sie halt. Wir lagen acht Schritt hinter ihr
 in einem Busche.
 
-Sie pfiff auf befondere Art.
+Sie pfiff auf besondere Art.
 
-Und — da hüpfte aus der milchigen Dämmerung dex
-australis<hen Mondnacht in grotesken Sprüngen ein in dei
-Umzäunung befindliches Känguruh herbei, — ein Riesen-
-fänguruh, das völlig zahm war.
+Und — da hüpfte aus der milchigen Dämmerung der
+australischen Mondnacht in grotesken Sprüngen ein in der
+Umzäunung befindliches Känguruh herbei, — ein Riesenkänguruh,
+das völlig zahm war.
 
-Helen faßte durch die eng gespannten Drähte unt
-ftreichelte dem Tiere den Kopf. Dann büdte sie si<h. Was
-fie jezt tat, konnten wir nicht sehen.
+Helen faßte durch die eng gespannten Drähte und
+streichelte dem Tiere den Kopf. Dann bückte sie sich. Was
+sie jetzt tat, konnten wir nicht sehen.
 
-Sie richtete fich wieder auf. .»
+Sie richtete sich wieder auf...
+
 <@pagebreak/>
-2909099099990 12 99902999990
-
-„Gute Nacht, Liddy,“ rief sie leise.
+»Gute Nacht, Liddy,« rief sie leise.
 
 Das Känguruh saß auf den Hinterbeinen, schaute ihr
 sehnsüchtig nach.
 
-Helen fam dicht an unserem Verste>k vorüber. Der
+Helen kam dicht an unserem Versteck vorüber. Der
 Mond schien ihr voll ins Gesicht.
 
-Wie feltsam verwandelt dieses Antliß war!! Ein
+Wie seltsam verwandelt dieses Antlitz war!! Ein
 hohnvolles Lächeln lag über den feinen Zügen. Der herbe
-Mund ceridien grausam und brutal.
+Mund erschien grausam und brutal.
 
-Plötzlich blieb sie mit dem Rücken nah uns hin un-
-reit des steilen Pfades stehen, der im Zidzad an der Tal-
-böschung hinablief.
+Plötzlich blieb sie mit dem Rücken nach uns hin unweit
+des steilen Pfades stehen, der im Zickzack an der Talböschung
+hinablief.
 
-So plöglich Hatte fie Haltgemacht,. daß irgend etwas
-fie erichredt haben mußte.
+So plötzlich Hatte sie Haltgemacht, daß irgend etwas
+sie erschreckt haben mußte.
 
-Shre ganze Haltung drüdte jet gespannteste Aufmerk-
-samkeit aus. Sie jchob den Kopf immer mehr wie laufchend
+Ihre ganze Haltung drückte jetzt gespannteste Aufmerksamkeit
+aus. Sie schob den Kopf immer mehr wie lauschend
 vor.
 
-Und — da vernahmen auch wir in der Ferne ein takt-
-maßiges Rattern.
+Und — da vernahmen auch wir in der Ferne ein taktmäßiges
+Rattern.
 
 Der sanfte Wind wehte von Süden herüber. Und nach
-Süden zu ging die Kleinbahnstre>ke und die Zugangsstraße
-nach New-London .. .!
+Süden zu ging die Kleinbahnstrecke und die Zugangsstraße
+nach New-London...!
 
-„Ein Auto!“ hauchte Harald. „Vielleicht der Kollege
-Goddlepy aus Melbourne . . . Charles Goddlepy, übrigens
-cine kleine Brühmtheit. — Nein — doch kein Auto. Ein
-Motorrad . — a...
+»Ein Auto!« hauchte Harald. »Vielleicht der Kollege
+Goddlepy aus Melbourne... Charles Goddlepy, übrigens
+eine kleine Brühmtheit. — Nein — doch kein Auto. Ein
+Motorrad... — Ah...!!«
 
-Und dieses „Ah!!4" hatte seine Berechtigung. Helen
+Und dieses »Ah!!« hatte seine Berechtigung. Helen
 lief — Helen lief am Talrande nach Süden zu, — lief, daß
-wir kaum folgen. konnten . ..
+wir kaum folgen konnten...
 
 Gelangte auf die Straße, bog in den Busch ab, eilte
 weiter.
 
-Und wir atemlos, \s<wihend hinterdrein. Bei etwa
-zwanzig Grad Wärme is} sol< ein Dauerlauf kein Ver-
-gnügen.
+Und wir atemlos, schwitzend hinterdrein. Bei etwa
+zwanzig Grad Wärme ist solch ein Dauerlauf kein Vergnügen.
 
-Das Geräush des Motorrades kam näher. Längst
+Das Geräusch des Motorrades kam näher. Längst
 hatten wir die Farmgebäude hinter uns. Rechts war die
-Babhnstre>ke mit den blinkenden Schienen, lint3 Struppa —
+Bahnstrecke mit den blinkenden Schienen, links Skrupps —
 <@pagebreak/>
-99999999909 13 99999999990.
+die berüchtigten endlosen Skrupps, das australische Dickicht.
 
-die berüchtigten endlosen Skrupps3, das australische Dickicht.
+Dann der Radler, in Windeseile herbeischießend...
 
-Dann der Radler, in Windeseile en a
+Dann Helen, ihm in den Weg tretend...
 
-Dann Helen, ihm in den Weg tretend .
+»Hallo, Master, einen Augenblick!«
 
-„Hallo, Master, einen Augenblid!“
-
-Der Mann sprang ab. Er war klein und trug Sup
-brille, Hatte einen Rucksak auf dem Rücken.
+Der Mann sprang ab. Er war klein und trug Schutzbrille,
+Hatte einen Rucksack auf dem Rücken.
 
 Helen sprach mit ihm. Sie war erregt. Sie faltete
-jogar einmal wie bittend die Hände.
+sogar einmal wie bittend die Hände.
 
-Dann reichte fie dem Manne etwas, — einen dicken
+Dann reichte sie dem Manne etwas, — einen dicken
 Brief scheinbar. Und der Motorradler machte kehrt, sauste
 davon — gen Süden.
 
 Helen Dolling lachte mit einem Male halblaut auf.
 Es war ein merkwürdiges Lachen: ironisch, triumphierend,
-und auh wieder glücklich — mie befreit von großer Sorge.
+und auch wieder glücklich — wie befreit von großer Sorge.
 
-Langsam wandte sie fih dann wieder den Farm-
-gebäuden zu, benußte die Straße, kam uns aus den Augen.
+Langsam wandte sie sich dann wieder den Farmgebäuden
+zu, benutze die Straße, kam uns aus den Augen.
 
 Harst lehnte sinnend am Rande des Weges an einem
-Grashaum, dessen Krone nur einen schopfartigen Blatt-
-ihmud trägt. Und sinnend meinte er:
+Grasbaum, dessen Krone nur einen schopfartigen Blattschmuck
+trägt. Und sinnend meinte er:
 
-„Wenn es wirklich Charles Goddlepy war, dann .
-dann hat sie ihn bestochen, dann ist er . kfäuflih! Dol-
-ling sagie ja, daß Goddlepy recht geldgierig ist. Jch denke,
-wir überzeugen uns am besten, ob der Melbourtier Kollege
-tatsächlich kehrt gemacht hat. Vielleicht jchäte ich ihn doch
-zu jchlecht ein.“
+»Wenn es wirklich Charles Goddlepy war, dann...
+dann hat sie ihn bestochen, dann ist er... käuflich! Dolling
+sagte ja, daß Goddlepy recht geldgierig ist. Ich denke,
+wir überzeugen uns am besten, ob der Melbourner Kollege
+tatsächlich kehrt gemacht hat. Vielleicht schätze ich ihn doch
+zu schlecht ein.«
 
-Jn kurzem Trab eilten wir meiter nach Süden. Der
-Nahtwind hatte den feinen Staub der Straße hie und da
-aufgewirbelt und eine dünne Miehlschicht über die alten
+In kurzem Trab eilten wir weiter nach Süden. Der
+Nachtwind hatte den feinen Staub der Straße hie und da
+aufgewirbelt und eine dünne Mehlschicht über die alten
 Spuren von Wagen und Fußgängern gestreut. So konnte
-man gelegentlih die Radspur des Motorrades deutlich er-
-fennen, und jo fand Harald denn auch nach faum zehn Mi-
-nuten eine Stelle, wo diese Rückfährte des kleinen Radlers
-vom Wege abbog und auf einew Schuppen zulief, der zum
+man gelegentlich die Radspur des Motorrades deutlich erkennen,
+und so fand Harald denn auch nach kaum zehn Minuten
+eine Stelle, wo diese Rückfährte des kleinen Radlers
+vom Wege abbog und auf einem Schuppen zulief, der zum
 Einstellen von Lokomotiven der Kleinbahn gebraucht wurde.
-Dicht daneben wir ein artesis<her Brunnen zu erkennen.
+Dicht daneben war ein artesischer Brunnen zu erkennen.
 
-Wir waren jebt vorsichtiger. Harald kro< voran.
+Wir waren jetzt vorsichtiger. Harald kroch voran.
 <@pagebreak/>
-99999999999 14 O92990999>9>
-
-Plöglih spürten wir den Rauch einer Tabafpfeife. Der
-Knafterduft fam aus der offenen breiten Flügeltür des
+Plötzlich spürten wir den Rauch einer Tabakpfeife. Der
+Knasterduft kam aus der offenen breiten Flügeltür des
 Schuppens.
 
-Dann blibte drinnen ein schwacher Lichtschein auf. Es
+Dann blitzte drinnen ein schwacher Lichtschein auf. Es
 war eine winzige Laterne, bei deren Schimmer der Fremde
-jebt, auf einer Kiste sibend, gemütli<h seine Mahlzeit ein-
-nahm. Wir konnten ihn von draußen genau beobachten.
-Er hatte ein bartlojes, mageres Gesicht, sehr wenig Haare
-und eine dide Nase. Sein Rad lehnte an der Wellblech-
-wand des Schuppens.
+jetzt, auf einer Kiste sitzend, gemütlich seine Mahlzeit einnahm.
+Wir konnten ihn von draußen genau beobachten.
+Er hatte ein bartloses, mageres Gesicht, sehr wenig Haare
+und eine dicke Nase. Sein Rad lehnte an der Wellblechwand
+des Schuppens.
 
-Während des Essens zog er den Brief hervor, den He-
-len ihm gegeben. Es war ein Umschlag. Der Fnhalt be-
-ftand aus . . . Banknoten.
+Während des Essens zog er den Brief hervor, den Helen
+ihm gegeben. Es war ein Umschlag. Der Inhalt bestand
+aus... Banknoten.
 
-Nachher sette der Mann seine Pfeife wieder in Brand
+Nachher setzte der Mann seine Pfeife wieder in Brand
 und schien tief in Gedanken versunken. — Wir wollten
-unseren Lauscherposten schon verlassen und den Rückweg an-
-treten, als der Fremde Vorbereitungen zum Aufbruch traf.
+unseren Lauscherposten schon verlassen und den Rückweg antreten,
+als der Fremde Vorbereitungen zum Aufbruch traf.
 
-Er schob jeht sein Rad ins Freie, überquerte die
-Schienen und betrat einen Waldstreifen, der sich na<h Weften
+Er schob jetzt sein Rad ins Freie, überquerte die
+Schienen und betrat einen Waldstreifen, der sich nach Westen
 zu in die Grassteppe hineinzog.
 
 Abermals eine Viertelstunde drauf wußten wir, daß
-der Mann — und es war ohne Zweifel der Kollege au3
-Melbourne — in einer steinigen Schlucht sich einen Lager-
-plag ausgewählt und dort ein dünnes Zelt aus Gummiftoff
+der Mann — und es war ohne Zweifel der Kollege aus
+Melbourne — in einer steinigen Schlucht sich einen Lagerplatz
+ausgewählt und dort ein dünnes Zelt aus Gummistoff
 errichtet Hatte.
 
-Wir eilten jett fchleunigft nach Nemw-London zurüd.
+Wir eilten jetzt schleunigst nach New-London zurück.
 Der neue Tag zog bereits herauf, als wir mit äußerster
-Vorsicht durch den Park {lichen und an den dicken Ranken
+Vorsicht durch den Park schlichen und an den dicken Ranken
 in das Arbeitszimmer Chester Dollings hineinkletterten.
-Der Wächter war gerade an der Wiesteke des Hauses.
+Der Wächter war gerade an der Westecke des Hauses.
 
 Und doch: kaum hatten wir den Fensterflügel geschlossen,
 als uns das Anschlagen des Hundes warnte.
 
-Wir blidten dur< die Gardinen hinaus. Der Hund
+Wir blickten durch die Gardinen hinaus. Der Hund
 hatte unsere Fährten gefunden, und der Wächter schien
-unschlüssig, was er jeÿt bei dem seltsamen Gebaren des
+unschlüssig, was er jetzt bei dem seltsamen Gebaren des
 Tieres tun sollte.
+
 <@pagebreak/>
-.92.9,90990999900 |; Ho 997,00.
+Dann jagte der Hund den Parkweg entlang — nach
+dorthin, woher wir gekommen. Der Wächter lief hinterdrein.
 
-Dann jagte der Hund den Parkweg entlang — nad
-dorthin, woher wir gekommen. Der Wächter lief hinter-
-drein.
-
-„Nun werde ih Dir die anderen Bilder zeigen,“ sagte
-Harald und knipste die Taschenlampe an. „Bitte — das
+»Nun werde ich Dir die anderen Bilder zeigen,« sagte
+Harald und knipste die Taschenlampe an. »Bitte — das
 ist Frau Marry Dolling. Und diese vier Bilder sind
 Kinderaufnahmen Helens. Auf diesem hier mag sie etwa
-anderthalb Fahre alt gewesen sein. Heute dürfte sie zwan-
-zig sein. Schau Dir das Bild recht genau an. Findest Du
-in diesen Zügen da auh nur die geringste Aehnlichkeit miz
-denen Helens?! Sch nicht!! — Die Hände gaben mir gleich
+anderthalb Jahre alt gewesen sein. Heute dürfte sie zwanzig
+sein. Schau Dir das Bild recht genau an. Findest Du
+in diesen Zügen da auch nur die geringste Aehnlichkeit mit
+denen Helens?! Ich nicht!! — Die Hände gaben mir gleich
 zu denken. Dann sah ich diese Bilder und die Beweise,
-daß der Tresor mit einem Schlüssel geöfsnet worden und
-daß die Scheibe von innen und bei offenem Fenster einge-
-drückt ist. — Bitte — zwei Schritt nach links. Dies ist also
-das Fenster, mein Alter. Nun — hier die Gardine. Be-
-merkst Du die shwachen Teerslo>ken an dem Stoff?! Wenn
+daß der Tresor mit einem Schlüssel geöffnet worden und
+daß die Scheibe von innen und bei offenem Fenster eingedrückt
+ist. — Bitte — zwei Schritt nach links. Dies ist also
+das Fenster, mein Alter. Nun — hier die Gardine. Bemerkst
+Du die schwachen Teerflocken an dem Stoff?! Wenn
 jemand von außen die Scheibe mit einem teerbeschmierten
-Lappen er hätte, könnten hier an der Gardine -nie-
-mals solche .
+Lappen eingedrückt hätte, könnten hier an der Gardine niemals
+solche...«
 
-Er s{<wieg
+Er schwieg...
 
-Er schaltete ‘die Lampe aus .
+Er schaltete die Lampe aus...
 
-Und — zog mich rash hinter den großen Diplomaten-
-shreibtifch, der zwischen den Fenstern etwa einen Meter
-von der Wand abstand .
+Und — zog mich rasch hinter den großen Diplomatenschreibtisch,
+der zwischen den Fenstern etwa einen Meter
+von der Wand abstand...
 
-Wir kauerten nebeneinander .
+Wir kauerten nebeneinander...
 
-Und — ich hörte, daß ein Schlüssel im Schloß der Flur-
-tür diejes Zimmers langfam umgedreht wurde ...
+Und — ich hörte, daß ein Schlüssel im Schloß der Flurtür
+dieses Zimmers langsam umgedreht wurde...
 
-CIE
 <@pagebreak/>
-2999059999900 |; 0000000023000
 
-3. Kapitel.
-Die alte Sannah
+<h2>3. Kapitel.</h2>
+<h3>Die alte Sannah.</h3>
 
-Jemand trat ein
+Jemand trat ein...
 
-Röcke rauschten ...
+Röcke rauschten...
 
 Die Tür wurde sacht zugedrückt, von innen verriegelt...
 
-Dann leuchtete der grelle Lichtschein einer Karbid»
-Taterne auf, die bisher wohl von einem Tuche verde>t
+Dann leuchtete der grelle Lichtschein einer Karbidlaterne
+auf, die bisher wohl von einem Tuche verdeckt
 gewesen.
-Y Der Lichtschein wandte si< nah link3, wo die Bilder
 
-ingen.
+Der Lichtschein wandte sich nach linke, wo die Bilder
+hingen.
 
-Harald richtete fi etwas auf. Und ich wagte dasselbe.
+Harald richtete sich etwas auf. Und ich wagte dasselbe.
 
-Da stand mit dem Rüden nach uns hin Helen Dolling
-in einem losen, dunkelblau-feidenen Morgenro>k. Fhr blon-
-des Haar schimmerte hell. Sie stand und . .. starrte auf
-das Bild ihrer Mutter
+Da stand mit dem Rücken nach uns hin Helen Dolling
+in einem losen, dunkelblau-feidenen Morgenrock. ihr blondes
+Haar schimmerte hell. Sie stand und... starrte auf
+das Bild ihrer Mutter...
 
-Schluchzte plöglich . meinte...
+Schluchzte plötzlich. meinte...
 
-Die Laterne in ihrer Hand zitterte .
+Die Laterne in ihrer Hand zitterte...
 
 Worte formten die Lippen — rasch hervorgestoßene uns
-verständliche Worte . .
+verständliche Worte...
 
-Und ebenso plögfich . . verließ fie dann wieder das
-Zimmer ...
+Und ebenso plötzlich.. verließ sie dann wieder das
+Zimmer...
 
-Still, lautlos entfernte fie ih...
+Still, lautlos entfernte sie ich...
 
-Wir "waren allein... .
+Wir »waren allein...
+
 <@pagebreak/>
->29999999999 17, 999995999990
+Harst erhob sich im Dunkeln.
 
-Harft erhob jih im Dunteln.
+»Sehen wir schlafen, mein Alter,« sagte er gähnend.
+»Der nahende Tag muß uns frisch finden.«
 
-„Sehen wir jchlafen, mein Alter,“ fagte er gähnend.
-„Der nahende Tag muß uns frisch finden.“
-
-Wir rückten den Kleiderschrank wieder vor die Tapeten-
-tür. Dann aber pflanzte ich mich dicht vor Harald auf, der
+Wir rückten den Kleiderschrank wieder vor die Tapetentür.
+Dann aber pflanzte ich mich dicht vor Harald auf, der
 soeben seine Nachttischlampe eingeschaltet hatte.
 
-„Harald — nur eine Frage .. „“ bat ich.
+»Harald — nur eine Frage...,« bat ich.
 
-„Hm — frage!“ Ev machte ein sehr mißmutiges
+»Hm — frage!« Er machte ein sehr mißmutiges
 Gesicht.
-„Helen Dolling i gar niht Helen Dolling?“
+
+»Helen Dolling ich gar nicht Helen Dolling?«
 flüsterte ich.
 
-Er hob die Schultern. „Sch nahm an, daß nach sieben-
-tähriger Abwesenheit eine . . . Betrügerin hierher gekom-
-men — ja, das nahm i< an. Aber die Szene vor dem
+Er hob die Schultern. »Ich nahm an, daß nach siebenjähriger
+Abwesenheit eine... Betrügerin hierher gekommen
+— ja, das nahm ich an. Aber die Szene vor dem
 Bilde Frau Marrys soeben hat alles umgestoßen. Es ist
-wahrscheinlich eine .. . Unglückliche, die ins Vaterhaus zu=-
-rüdtam.“
+wahrscheinlich eine... Unglückliche, die ins Vaterhaus zu—rüdtam.«
 
-Sch überlegte. Sagte: „Also steht Helen jet unter
-dem Einfluß irgendeines Schurken, der fie auch dazu
-zwang, ihm bei der Ausräumung des Stahlschrankes be-
-Hilflich zu fein... .*
+Ich überlegte. Sagte: »Also steht Helen jetzt unter
+dem Einfluß irgendeines Schurken, der sie auch dazu
+zwang, ihm bei der Ausräumung des Stahlschrankes behilflich
+zu sein....«
 
-„Wahrscheinlih . . .! — Das Känguruh, mein Alter,
-— das Känguruh wird uns E geben . . .*
+»Wahrscheinlich...! — Das Känguruh, mein Alter,
+— das Känguruh wird uns E geben...«
 
-Sch war ehrlich verblüfft .
+Ich war ehrlich verblüfft...
 
-„Wie — das Känguruh . Y) zita E
-. ih bin jeßt stumm. on Nacht!“
+»Wie — das Känguruh. Y) Sitz...
 
-Und ‘dabei blieb’3. So konnte ih mir denn vor dem
-Einschlafen noh gründlich den Kopf zerbrechen, wa3 das
-Riesenbeuteltier mit alledem zu schaffen hatte. Das Kopf-
-gerbrechen war im übrigen zwe>los. Ich {lief ein.
+ich bin jetzt stumm. on Nacht!«
 
-Und im Traume sah i< Mr. Charles Goddlepy auf
+Und dabei blieb’s. So konnte ich mir denn vor dem
+Einschlafen noch gründlich den Kopf zerbrechen, was das
+Riesenbeuteltier mit alledem zu schaffen hatte. Das Kopfzerbrechen
+war im übrigen zwecklos. Ich schlief ein.
+
+Und im Traume sah ich Mr. Charles Goddlepy auf
 dem Känguruh, das statt der Beine Motorräder hatte, wie
 wahnsinnig durch die Steppe sausen. —
 
 Um acht Uhr frühstückten wir mit den beiden Dollings
 auf der Terrasse an der Vorderseite des Schlosses. Helen
 <@pagebreak/>
->:99999999999 13 93999999460
+war wieder ganz große Dame. Dolling fluchte über Goddlepy...
 
- 
-  
- 
-   
+»Nicht mal abtelegraphiert hat der Mensch! Unerhört!
+Ich werde nochmals depeschieren und ihm das Reisegeld
+schicken — dem alten Gauner!«
 
-war wieder ganz große Dame. Dolling fluchte über Godd-
-lepy .
-
-„Nicht mal abtelegraphiert hat der Mensh! Unerhört!
-Ich werde no<mals depeschieren und ihm das Reisegeld
-\chiden — dem alten Gauner!“
-
-Seht bediente ung eine uralte Auftralnegerin, ein ge-
-radezu abjchredend häßliches dürres Meib, die hier jedoch
-eine Art Bertrauenzftellung innezuhaben fchien. Sie wurde
-Sannah genannt, und Helen behandelte fie außerordentl
-freundlich, während die Alte mit ihrem mürrifchen, falten»
-zerrissenen Gesicht sogar dem Hausherrn gegenüber bon
-einer unbegreiflichen Unlieben8würdigkeit war.
+Jetzt bediente uns eine uralte Australnegerin, ein geradezu
+abschreckend häßliches dürres Weib, die hier jedoch
+eine Art Bertrauenzftellung innezuhaben schien. Sie wurde
+Sannah genannt, und Helen behandelte sie außerordentl
+freundlich, während die Alte mit ihrem mürrischer, falten-zerrissenen
+Gesicht sogar dem Hausherrn gegenüber von
+einer unbegreiflichen Unliebenswürdigkeit war.
 
 Als Sannah dann verschwand, meinte Dolling etwas
 verlegen:
 
-„Sie ift nicht ganz richtig im Kopf, Mr. Harten. Sie
-
-feuer ums Leben gekommen. Seitdem hat sie ihre {hlechten
+»Sie ist nicht ganz richtig im Kopf, Mr. Harten. Sie
+XX
+Feuer ums Leben gekommen. Seitdem hat sie ihre schlechten
 Tage. Aber — treu ist sie, treu wie Gold. Sie hat meine
-Frau auf dem Krankenbett gepflegt und ist nun schon zwan-
-zig Jahre bei uns.“
+Frau auf dem Krankenbett gepflegt und ist nun schon zwanzig
+Jahre bei uns.«
 
 Harald wandte sich nach einer Weile an Helen mit der
-Frage, wann sie denn aus Dublin nah Australien zuräd.
+Frage, wann sie denn aus Dublin nach Australien zurück.
 gekehrt sei.
 
-„Vor einem halben Jahr, Mr. Harten,“ erwiderte ste,
-indem fie unjere Teetaffen auf3 neue füllte.
+»Vor einem halben Jahr, Mr. Harten,« erwiderte sie,
+indem sie unsere Teetassen aufs neue füllte.
 
-Dann fam Harft auf die hier fo gefürchteten Buschfeuer
-zu jpreden. Dolling erzählte und manderlet Schauer
-geschichten Darüber. Nach anhaltender Dürre sollten oft
-meilenlange Strupp3 mehrere Tage brennen. Löschversuche
-wurden nie unternommen. Sm Gegenteil, man war
-zufrieden, wenn das dichte Unterholz einmal bes
-warde. —
+Dann kam Harst auf die hier so gefürchteten Buschfeuer
+zu sprechen. Dolling erzählte und mancherlei Schauer
+Geschichten Darüber. Nach anhaltender Dürre sollten oft
+meilenlange Skrupps mehrere Tage brennen. Löschversuche
+wurden nie unternommen. im Gegenteil, man war
+zufrieden, wenn das dichte Unterholz einmal des
+wurde. —
 
-Kaum war da3 Frühstück beendet, als Dolling un3
-auch schon nach feinen Lagerfchuppen führte, um und feine
+Kaum war das Frühstück beendet, als Dolling uns
+auch schon nach seinen Lagerschuppen führte, um und seine
 Wollvorräte zu zeigen. Seine maschinellen Einrichtungen zur
 Reinigung, Sortierung und zum Packen der Schafwslle
 <@pagebreak/>
->»>299909990999 159 999909999999
+waren mustergültig zu neunten. So nebenbei erwähnte er,
+daß er gegen 500 000 Stück Schafe besitze, außerdem einige
+Tausend Rinder und gegen zweihundert Pferde.
 
-waren mujtergültig zu nenmten. So nebenbei erwähnte ex,
-daß er gegen 500 000 Stüd Schafe befite, außerdem cinige
-Tausend Rinder und gegen zweilundert Pferde.
+Als wir mit ihm in dem größten Lagerschuppen allein
+waren, sagte Harald unvermittelt:
 
-Als wir mit ihm in dem arößten Lagerschuppen allein
-waren, sagte Harald unvermitielt:
+»Mr. Dolling, wenn Sie uns durch Handschlag versprechen,
+gegen jedermann zu schweigen, will ich Ihnen
+etwas sehr Wichtiges mitteilen.«
 
-„Mr. Dolling, wenn Sie uns durch Handschlag ver-
-sprechen, gegen jedermann zu fchmeigen, mill ih Shnen
-etwas sehr Wichtiges mitteilen.“
-
-Der Großzüchter bli>kte Harald überrasht an. Darn
-lächelte er mißvergnügt. „Jh ahne schon, um was es sic
-handelt,“ meinte er. „Aus unserem Geschäft wird nichis.
+Der Großzüchter blickte Harald überrascht an. Dann
+lächelte er mißvergnügt. »Ich ahne schon, um was es sich
+handelt,« meinte er. »Aus unserem Geschäft wird nichts.
 Sie beide sind alles andere als Wollaufkäufer, meine
-Herren.“
+Herren.«
 
-„Erst Jhre Hand, Mr. Dolling . . . — So — und zn
-niemandem ein Wort, in Jhrem Jnteresse! Sch bin der
+»Erst Ihre Hand, Mr. Dolling... — So — und zu
+niemandem ein Wort, in ihrem Interesse! Ich bin der
 deutsche Detektiv Harald Harst, und dies hier ist mein lieber
-Freund und steter- Begleiter Max Schraut.“
+Freund und steter- Begleiter Max Schraut.«
 
 Das Hatte. Dolling Doch nicht ertviartet.
 
-„Verdammt — Mr. Harst!“ entfuhr es ihm. „Und
-im Zuge habe ich über Sie eine so absällige Bemerkung
-gemacht . . .! Na — ni<ts für ungut! Sie find mir
-sehr angenehme, werte Gäste .. .“ — Er drü>te uns die
-Hand. Der Geschäftsmann war vor dem Gentleman zurücd-
-getveten.
+»Verdammt — Mr. Harst!« entfuhr es ihm. »Und
+im Zuge habe ich über Sie eine so abfällige Bemerkung
+gemacht...! Na — nichts für ungut! Sie sind mir
+sehr angenehme, Werte Gäste...« — Er drückte uns die
+Hand. Der Geschäftsmann war vor dem Gentleman zurückgetreten.
 
-Dann fragte er leise: „Wie denken Sie denn nun über
-den Diebstahl, Mr. Harst ?“
+Dann fragte er leise: »Wie denken Sie denn nun über
+den Diebstahl, Mr. Harst?«
 
-„Ich bin den Tätern auf der Spur. Das muß Jhnen
-genügen — vorläufig. Lassen Sie sich aber ja nichts an-
-merken, Mr. Dolling. Wir bleiben hier die harmlosen
-Kaufleute, auch Miß Helen gegenüber.“
+»Ich bin den Tätern auf der Spur. Das muß Ihnen
+genügen — vorläufig. Lassen Sie sich aber ja nichts anmerken,
+Mr. Dolling. Wir bleiben hier die harmlosen
+Kaufleute, auch Miß Helen gegenüber.«
 
-Der Schafzüchter {lug Harald derb auf die Schulter
-und kniff das eine Auge zu. „Sie untershäßen Helen, Mr.
-Harst,“ lachte er. „Helen sagte ‘mir es morgen, daß sie
-Jhnen beiden nicht recht traue. Echte WMollaufkäufer hätten
-weit mehr über geschäftliche Dinge gesprochen.“
+Der Schafzüchter schlug Harald derb auf die Schulter
+und kniff das eine Auge zu. »Sie unterschätzen Helen, Mr.
+Harst,« lachte er. »Helen sagte mir es morgen, daß sie
+Ihnen beiden nicht recht traue. Echte Wollaufkäufer hätten
+weit mehr über geschäftliche Dinge gesprochen.«
 
-Haralds Sifirn bekam Falten. „Hm — troßbem,
+Haralds Giften bekam Falten. »Hm — trotzdem,
 <@pagebreak/>
-o:9999999999 X 999999999999
-
-€
 wahren Sie unser Geheimnis unbedingt, Mr. Dolling.
-Reden Sie Jhrer Tochter diesen Verdacht aus. Erklären
-Sie, der Kauf sei so gut wie perfekt.“
+Reden Sie Ihrer Tochter diesen Verdacht aus. Erklären
+Sie, der Kauf sei so gut wie perfekt.«
 
-„But, ut... Wie Sie wünfchen, Mr... . .*
+»Bus, ut... Wie Sie wünschen, Mr.....«
 
-y + « Harten — Harten! Nicht Hart! — So, und
+»... Harten — Harten! Nicht Harst! — So, und
+jetzt möchte, ich mit Schrank einen Spazierritt unternehmen...«
 
-jegt möchte, ih mit Schraub einen Spazierritt unter-
-nehmen . .“
-Um zehn “Uhr trabten wir nach Norden zu das Tal
+Um zehn Uhr trabten wir nach Norden zu das Tal
 entlang. Es war eine Lust, so vorzügliche Pferde unter
-sich zu haben. Und eine noh größere Lust war's, nachher
+sich zu haben. Und eine noch größere Lust war’s, nachher
 über die flache Savanne im Galopp dahinzufegen. Das
-machte fsris< und gelenkig. Das feuerte den Geist an.
+machte Fetisch und gelenkig. Das feuerte den Geist an.
 
-Aber — aus dem Spazierriit wurde sehr bald etwas
+Aber — aus dem Spazierritt wurde sehr bald etwas
 anderes — etwas ganz anderes.
 
-Harald bog plöglih in einem Walde nach Weiten ab.
+Harald bog plötzlich in einem Walde nach Weiten ab.
 
-„Dh möchte Helens Känguruh einen Besuch abstatten,“
+»Oh möchte Helens Känguruh einen Besuch abstatten,«
 jagte er ohne besondere Betonung, obwohl er doch in der
-Nacht geäußert hatte, das Känguruh würde . . . „Klarheit
-geben“.
+Nacht geäußert hatte, das Känguruh würde... »Klarheit
+geben«.
 
-Sch war froh, daß er überhaupt dieses Thema berührte.
+Ich war froh, daß er überhaupt dieses Thema berührte.
 
-„Du hälst also an Deiner Annahme fest, daß Helen
-unter dem Einfluß eines Schurken steht?“ meinte ich, den
+»Du hörst also an Deiner Annahme fest, daß Helen
+unter dem Einfluß eines Schurken steht?« meinte ich, den
 Braunen näher an seinen hochbeinigen Fuchs herandrängend.
 
-„Fa, mein Alter. Jh muß es. Bilder trügen. Ge-
-fichter verändern fich, und Eltern mit breiten Händen können
-recht gut Kinder mit ariftofvatifchen Fingern haben, obwohl
+»Ja, mein Alter. Ich muß es. Bilder trügen. Gesichter
+verändern sich, und Eltern mit breiten Händen können
+recht gut Kinder mit aristokratischen Fingern haben, obwohl
 das nicht Häufig vorkommt. — Helen dürfte sich in Dublin
-in irgendeinen Abenteurer verliebt .
+in irgendeinen Abenteurer verliebt...
 
-Der Saß wurde nicht zu Ende geführt.
+Der Satz wurde nicht zu Ende geführt.
 
-Harald riß seinen Fuchs zurü>k .
+Harald riß seinen Fuchs zurück...
 
-„Vorsicht!“ rief er leise. „Da — da reitet Helen
-Dolling . '
+»Vorsicht!« rief er leise. »Da — da reitet Helen
+Dolling...
 
-Wir En an den Rand des Waldes gelangt. Bor und
-Tag eine sandige Schlucht, weiterhin die Grazfteppe mit ein-
-gestreuten Skrupp-Beständen, weidenden Schafherden und
-vereinzelten Hütten der schwarzen Viehhüter. .
+Wir Er an den Rand des Waldes gelangt. vor und
+Tag eine sandige Schlucht, weiterhin die Grassteppe mit eingestreuten
+Skrupp-Beständen, weidenden Schafherden und
+vereinzelten Hütten der schwarzen Viehhüter.
+
 <@pagebreak/>
-0040000000000 9) 0000000000.
-
-Unser Beobachtungsplaÿ war sehr hoch gelegen. Wie
-ein Panorama breitete si<h das Gesamtbild dev Gegend
+Unser Beobachtungsplatz war sehr hoch gelegen. Wie
+ein Panorama breitete sich das Gesamtbild der Gegend
 nach Süden zu vor uns aus.
 
-Helen Dolling, auf einem s{<lanken Falben im Herren-
-sattel, trabte auf uns zu. Sie konnte uns unmöglich bemerkt
-haben. Sie trug quer über dem Sattel eine leichte Win-
-chesterdamenbüchse, die wir shon morgens im Waffenfchrante
-der Vorhalle von Sc{loß New-London gesehen hatten.
+Helen Dolling, auf einem schlanken Falben im Herrensattel,
+trabte auf uns zu. Sie konnte uns unmöglich bemerkt
+haben. Sie trug quer über dem Sattel eine leichte Winchesterdamenbüchse,
+die wir schon morgens im Waffenfchrante
+der Vorhalle von Beschloß New-London gesehen hatten.
 
-Dann — schwenkte sie mit einem Male scharf nah
-Osten ab, beschrieb fast einen. Kreis und galoppierte na<
+Dann — schwenkte sie mit einem Male scharf nach
+Osten ab, beschrieb fast einen. Kreis und galoppierte nach
 Süden davon.
 
-„Shr nach!“ meinte Harald. „Wenn wir Glüd haben,
-[lüften wir schon heute das traurige Geheimnis!“
+»Ihr nach!« meinte Harald. »Wenn wir Glück haben,
+lüften wir schon heute das traurige Geheimnis!«
 
 In der buschreichen Steppe war es nicht schwer, Helen
 auf den Fersen zu bleiben, zumal die frische Fährte es uns
@@ -892,1068 +818,1001 @@ Vorsprung zu lassen.
 Sehr bald merkten wir, daß Helen ebenfalls auf die
 Hürde ihres zahmen Riesenbeuteltieres zuhielt.
 
-Je mehr wir uns der Hürde näherten, desto vor-
-sihtiger wurdew wir. Dann nach vielleicht zehn n ae
+Je mehr wir uns der Hürde näherten, desto vorsichtiger
+wurden wir. Dann nach vielleicht zehn nur
 vor uns ein paar gellende Trillerpfiffe, einer silbernen Pfeife
-entlo>t — derselben Pfeife, die Helen an einer Seidenschnux
+entlockt — derselben Pfeife, die Helen an einer Seidenschnur
 im Gürtel stets bei sich hatte, so auch gestern nacht, als wir
-sie kennenlernten. Da war ihr die kleine filberne Pfeife
-einmal aus dem Gürtel geglitten, und hastig hatte sie die-
-selbe an ihren Plab zurückgebracht. —
+sie kennenlernten. Da war ihr die kleine silberne Pfeife
+einmal aus dem Gürtel geglitten, und hastig hatte sie dieselbe
+an ihren Platz zurückgebracht. —
 
-Harald sprang ab. — „Warte!“ befahl er. „J< werde
-Helen beschleichen.“
+Harald sprang ab. — »Warte!« befahl er. »Ich werde
+Helen beschleichen.«
 
 Er eilte davon.
 
-Jh gehorchte Diesmal jedoch nicht. Sch war viel zu
+Ich gehorchte Diesmal jedoch nicht. Ich war viel zu
 gespannt darauf, was es mit dem zahmen Riesenkänguruh
-auf sih haben mochte. Sch band die Pferde an den Ast eines
+auf sich haben mochte. Ich band die Pferde an den Ast eines
 Eukalyptusbaumes und folgte Haralds Spuren durch die
 hier recht dichten Büsche.
 
-Dann erblickte ih ihn — am Boden kauernd, mit dem
+Dann erblickte ich ihn — am Boden kauernd, mit dem
 <@pagebreak/>
-2095006020000 DD SEHE ESS
-
 Fernglas vor den Augen — durch die Zweige Tugend...
 
-Bar neben ihm, bückte mich .
+Bar neben ihm, bückte mich...
 
-Und schweigend reichte er mir das Glas ...
+Und schweigend reichte er mir das Glas...
 
-Helen stand dicht vor dem Drahtzaun. Jhren Falben
-
-ich nicht. Das Känguruh hockte ebenfalls dicht
-
+Helen stand dicht vor dem Drahtzaun. Ihren Falben
+bemerkte ich nicht. Das Känguruh hockte ebenfalls dicht
 an dem Zaune. Und zwei Schritt rechts stand Sannah,
 die Schwarze, schien wütend auf Helen einzureden, hob des
-Öfteren drohend die Fäuste, kreischte in maßlosem Zorn, daß
-einzelne Töne troy der Entfernung bis zu uns drangen.
+öfteren drohend die Fäuste, kreischte in maßlosem Zorn, daß
+einzelne Töne trotz der Entfernung bis zu uns drangen.
 
-Diese Szene spielte sih an der Ostseite der Hürde ab,
-während wir Helen, in der Nacht an der Westseite beob-
-achtet hatten.
+Diese Szene spielte sich an der Ostseite der Hürde ab,
+während wir Helen, in der Nacht an der Westseite beobachtet
+hatten.
 
-Dann — dann geschah etwas noch Merkwürdigeres ...
+Dann — dann geschah etwas noch Merkwürdigeres...
 
-CAC
 <@pagebreak/>
-299999999999 3 999999999000,
 
-4. Kapitel.
-Der rote Gürtel,
+<h2>4. Kapitel.</h2>
+<h3>Der rote Gürtel,</h3>
 
 Helen hatte der geifernden Alten bisher halb den
-Rücken zugekehrt. Seht fuhr fie plößlich herum. Und im
-felben Moment war die Negerin mit affenartiger Gemiandt-
-beit an dem nächsten Piahle der Drahtumzäunung Hoch
+Rücken zugekehrt. Jetzt fuhr sie plötzlich herum. Und im
+selben Moment war die Negerin mit affenartiger Gemiandt-beit
+an dem nächsten Prahle der Drahtumzäunung Hoch
 geklettert, sprang von oben in die Hürde hinab und lief auf
 das Känguruh zu.
 
-Neben Helen lehnte an den Drähten die Winchester-
-büchse. Helen griff danach, hatte die Waffe schon im An-
+Neben Helen lehnte an den Drähten die Winchesterbüchse.
+Helen griff danach, hatte die Waffe schon im Anschlag...
 
-Sannah kniete jeßt vor dem Känguruh, hielt es an
-dem einen Vorderlauf mit der Linken fejt und...
+Sannah kniete jetzt vor dem Känguruh, hielt es an
+dem einen Vorderlauf mit der Linken fest und...
 
 Da riß das Tier sich los, tat einen Sah zur Seite und
-traf mit dem diden Stemmschwanz die Negerin gerade vor
-
-Stirn.
+traf mit dem dicken Stemmschwanz die Negerin gerade vor
+die Stirn.
 
 Sannah schrie auf, taumelte und sank zu Boden, blieb
-regungslos liegen . . . — |
+regungslos liegen... —
 
-All das ereignete sich so blibschnell, daß ih Mühe hatte,
+All das ereignete sich so blitzschnell, daß ich Mühe hatte,
 die einzelnen Vorgänge zu verfolgen.
 
-Sch jah, wie dad Känguruh nun in langen Sprüngen
+Ich sah, wie Bad Känguruh nun in langen Sprüngen
 einem Gebüsch inmitten der großen Hürde zustrebte, sah
 weiter, daß Helen ihren Falben holte, sich in den Sattel
 schwang und im Galopp nach Osten zu davonsprengte.
 
-Sannah saß bereits wieder aufrecht da, als wir \chleu-
-nigt zu unseren Pferden zurückliefen und der Reiterin nach-
-testen.
-<@pagebreak/>
-2999929925999 74, 299999992 >%
+Sannah saß bereits wieder aufrecht da, als wir schleu-nigt
+zu unseren Pferden zurückliefen und der Reiterin nachstellen.
 
+<@pagebreak/>
 Als wir über eine Lichtung kamen und einen Blick
-zurü>warsen, stand die Negerin an den Drähten des Zaunes
+zurückwarfen, stand die Negerin an den Drähten des Zaunes
 und schaute regungslos mit gesenktem Kopf auf die Erde
-hinab, alls ob es dort etivas gäbe, das ihre ganze Aufmerk-
-samkeit in Anspruch nahm.
+hinab, alle ob es dort etwas gäbe, das ihre ganze Aufmerksamkeit
+in Anspruch nahm.
 
 Die Jagd ging weiter und weiter — über eine kahle,
-fandige Ebene — durch dürre Eukalyptuswälder — \{<ließ-
-lich hinein in ein unüberschbares Buschwerk fahlen, trodenen
+sandige Ebene — durch dürre Eukalyptuswälder — schließlich
+hinein in ein unübersehbares Buschwerk fahlen, trockenen
 Gesträuches — hinein in einen Skrupp, den Chester Dolling
-morgens erwähnt und als den ausgedehntesien in seiner
-Nochbarschaft bezeichnet hatte. Je tiefer wir in dieses über
+morgens erwähnt und als den ausgedehntesten in seiner
+Nachbarschaft bezeichnet hatte. Je tiefer wir in dieses über
 mannshohe Unterholz eindrangen, desto mehr verlor das
-Gesirüpy das Aussehen lebender Pflanzen, desto wasser-
-armer jchien der sandige Boden zu werden, desto flarer
-wurde es Uns, daß dicse Skrupps, einmal in Brand ge-
-raten, wirkli< bis zu den Wurzeln vernichtet werden
+Gestrüpp das Aussehen lebender Pflanzen, desto wasserarmer
+schien der sandige Boden zu werden, desto klarer
+wurde es Uns, daß diese Skrupps, einmal in Brand geraten,
+wirklich bis zu den Wurzeln vernichtet werden
 mußten.
 
-Ringsum herrschte das Schweigen armseligster Cinfant-
-feit. Wenn hin und wieder ein Windstoß über die Büsche
-hinstrich, klang es nur wie ein shwaches Säuseln. — So
+Ringsum herrschte das Schweigen armseligster Cinfant-feit.
+Wenn hin und wieder ein Windstoß über die Büsche
+hinstrich, klang es nur wie ein schwaches Säuseln. — So
 ritten wir, bald im Trab, bald im Galopp, wohl eine
-Stunde lang auf Helcns Fährte weiter und weiter —
-ahnungslos, was uns bevorstand .
+Stunde lang auf Helens Fährte weiter und weiter —
+ahnungslos, was uns bevorstand...
 
-Bis eine Lichtung fih vor uns austat, kaum fünfzig
+Bis eine Lichtung sich vor uns auftat, kaum fünfzig
 Meter im Durchmesser, eine steinige Lichtung mit einem
 zerklüfteten Felshügel in der Mitte.
 
-Hier war's, wo wir Helens Spur auf dem harten
-Boden verloren, wo wir abstiegen und zu suchen begannen, |
+Hier war’s, wo wir Helens Spur auf dem harten
+Boden verloren, wo wir abstiegen und zu suchen begannen,
 wo diese Suche uns wohl eine volle Viertelstunde aufhielt,
-so daß die, denen an . . . unserem Tode gclegen, ihr \cheuß-
-liches Attentat bequem vorbereiten konnten.
+so daß die, denen an... unserem Tode gelegen, ihr scheußliches
+Attentat bequem vorbereiten konnten.
 
-Das nahende Unheil wurden wir zuerst dur<h die Um
-ruhe unserer Pferde geroahr. die wir am Zügel mit und
-führten. Sie drängten imer weiter na<h Westen, zerrten
-an den Zügeln, s{hnoben laut und wollten sich mit aller Ge
-walt [ogreißen.
+Das nahende Unheil wurden wir zuerst durch die Um
+Ruhe unserer Pferde gewahr. die wir am Zügel mit und
+führten. Sie drängten innen weiter nach Westen, zerrten
+an den Zügeln, schnöden laut und wollten sich mit aller Gewalt
+losreißen.
+
 <@pagebreak/>
->»99999999999 95 99999999969
-
 Harald hatte das seltsame Benehmen der Tiere eine
-Weile beobachtet, hatte mir dann einen Bli> zugetvorien,
+Weile beobachtet, hatte mir dann einen Blick zugeworfen,
 dessen Bedeutung ich nicht recht begriff.
 
-„Reiten wir zurück,“ meinte er scheinbar gleichmütig.
+»Reiten wir zurück,« meinte er scheinbar gleichmütig.
+»Die Sache ist hier nicht ganz geheuer, mein Alter...
 
-„Die Sache ist hier nicht ganz geheuer, mein Alter .
-
-Und — im selben Moment spürte auch ich den nu
+Und — im selben Moment spürte auch ich den Nu...
 Brandgeruch, den der Wind uns von Osten her zuwehte.
-é Harst saß schon im Sattel, gab seinem Fuchs leicht die
 
-poren ...
+Harst saß schon im Sattel, gab seinem Fuchs leicht die
+Sporen...
 
-Jm Galopp nun auf Helens Fährte zurüd... .
+Im Galopp nun auf Helens Fährte zurück...
 
-Fm Galopp keine tausend Meter . .
+im Galopp keine tausend Meter...
 
-Dann — ein Stuten — ein Aud an den Zügeln . .
+Dann — ein Stuten — ein Auch an den Zügeln...
 
-Die zitternden Gäule standen
+Die zitternden Gäule standen...
 
-Und vor uns —— vor uns nichts als ein breiter roter
-Feuergürtel, ver Durch die Büsche schimmete
+Und vor uns — vor uns nichts als ein breiter roter
+Feuergürtel, der Durch die Büsche Schimmels...
 
 Dazu ein. unheilvolles Knattern und Prasseln, Zischen
-nd Fauden ...
+nd Fanden...
 
 Und ganze Schwärme von Vögeln — Papageien,
-Rrähen, Wildtauben — zogen Treifchend nach Dften, dem
-Winde entgegen
+frühen, Wildtauben — zogen kreischend nach Osten, dem
+Winde entgegen...
 
-„Seitwärt3 durchbrechen!“ brüllte Harald mit heiserer
-Stimme
+»Seitwärts durchbrechen!« brüllte Harald mit heiserer
+Stimme...
 
-Und jagte nach Süden zu ..
+Und jagte nach Süden zu...
 
-Entlang m dem Feuergürtel . .
+Entlang in dem Feuergürtel...
 
-Aber die rote Lohe versperrte uns au< hier den Weg.
+Aber die rote Lohe versperrte uns auch hier den Weg.
 
-Hitemwellen führte ver Wind mit si< — Hißewellen, daß
-uns das Atmen fchiwer wurde...
+Hitzewellen führte der Wind mit sich — Hitzewellen, daß
+uns das Atmen Frisuren wurde...
 
-Nirgends mehr ein Durhshlupf — auh nach Norden:
-die Glut — der rote, lohende Strick der brenmenden Skrupps,
-mit dem man uns beseitigen wollte . .
+Nirgends mehr ein Durchschlupf — auch nach Norden:
+die Glut — der rote, lohende Strick der brennenden Skrupps,
+mit dem man uns beseitigen wollte...
 
-Dicke, gelbe, stinkende Rauchmassen ließen uns kaum mehz
+Dicke, gelbe, stinkende Rauchmassen ließen uns kaum weht
 die steinige Lichtung finden.
 
-Das war unseve lehte Zuflucht, diese kleine Blöße mit
-den zerklüfteten s{hwarzen Felsen.
+Das war unsere lebte Zuflucht, diese kleine Blöße mit
+den zerklüfteten schwarzen Felsen.
 
 Hier — — erwarteten wir das Ende — den Tod...
-<@pagebreak/>
-299999999999 % 99999999999
 
-Hier rissen: si< die Pferde los, rasten wie toll in das
-Glutmeer hinein .
+<@pagebreak/>
+Hier rissen: sich die Pferde los, rasten wie toll in das
+Glutmeer hinein...
 
 Arme Kreaturen! Welch qualvolles Sterben war euch
-Heichieden! Eure verfohlter Nefte fanden wir später, als
-— — ala alles vorüber.
+Beschieden! Eure verfehlter Neffe fanden wir später, als
+— — aha alles vorüber.
 
 Zwischen den Felsen in einem Loche lagen wir nun,
 die Gesichter dicht an das Gestein gedrückt, eingehüllt in
 dünne, gelbe Schwaden, — keuchend, hustend, eiskalten
-Schweiß auf der Stimm...
+Schweiß auf der Grimm...
 
-Eiskalten Schweiß, während um uns her ein Backosen
-seine Hitestrahlen steigerte — steigerte, während das Pras-
-feln und Knattern immer näher kam, von allen Seiten... .
+Eiskalten Schweiß, während um uns her ein Backofen
+seine Hitestrahlen steigerte — steigerte, während das Prasseln
+und Knattern immer näher kam, von allen Seiten...
 
-Helen — Helen Dolling hatte uns in diese Falle ge-
-lot. Sie allein. Sie hatte Verbündete, eben die Diebe
+Helen — Helen Dolling hatte uns in diese Falle gebot.
+Sie allein. Sie hatte Verbündete, eben die Diebe
 der Juwelen. Und erkannt hatte sie uns — als Feinde!
-Daher sollten wir sterben . .
+Daher sollten wir sterben...
 
-Die Sinne drohten mir zu schwinden . .
+Die Sinne drohten mir zu schwinden...
 
-Meine Hand tastete nah der des Freundes . .
+Meine Hand tastete nach der des Freundes...
 
 Hand in Hand mit ihm wollte ich sterben.
 
 Und da — da tauchte aus den gelben Wölkchen wie
-eine Spufgeftalt da3 Dürre alte Negerweib auf...
+eine Spukgestalt das Dürre alte Negerweib auf...
 
-Sie ftolperte über Harfi3 Beine...
+Sie stolperte über Harkte Beine...
 
-Schrie: „Massa, — Massa, Sannah folgen!“
+Schrie: »Massa, — Massa, Sannah folgen!«
 
-Jhre Krallenpfote riß mich ho< .
+Ihre Krallenpfote riß mich hoch...
 
-Mit einer Kraft, die ih dem Weibe nie zugetraut hätte,
-warf fie einen Haufen Steine, der an einer Felswand auf}
+Mit einer Kraft, die ich dem Weibe nie zugetraut hätte,
+warf sie einen Haufen Steine, der an einer Felswand aufs!
 geschichtet war, auseinander und legte so ein Loch frei, in
-das ein Mensch tief gebückt gerade hineinshlüpfen konnte
+das ein Mensch tief gebückt gerade hineinschlüpfen konnte...
 
 Ein Loch — den Zugang zu einer jener Höhlen, an
-Denen die felsigen Teile Australiens jo reich sind.
+Denen die felsigen Teile Australiens so reich sind.
 
 Das Loch verstopften wir dann wieder, benußhten dazu
-auch unsere Jakew und Westen . .
+auch unsere Jacken und Westen...
 
-AE
 <@pagebreak/>
-299999999999 27 9999999,9,,>,
 
-5. Kapitel.
-Bill, der Gefangene.
+<h2>5. Kapitel.</h2>
+<h3>Bill, der Gefangene.</h3>
 
 Während über uns das Verderben hinzog und das
-Sfruppfeld zu grauer Asche verbrannte, saß die alte Sannah
-auf einem Stein in der fühlen Höhle und stierte geiftes-
-abwesend vor fih Hin. Auf keine Frage antwortete sie.
-Und Harald versuchte wirklich alles, unsere s<warze Ret-
-terin ihrem trüben Stumpfsinn zu entreißen. Schließlich
-gab er e3 auf, führte mich abjeit3, deutete auf eine natürliche
-Steinbant und jagte: „Segen wir und, mein Alter. Wir
-werden hier wohl ein paar Tage fasten müssen.“ — Er
+Skruppfeld zu grauer Asche verbrannte, saß die alte Sannah
+auf einem Stein in der fühlen Höhle und stierte geistesabwesend
+vor sich Hin. Auf keine Frage antwortete sie.
+Und Harald versuchte wirklich alles, unsere schwarze Retterin
+ihrem trüben Stumpfsinn zu entreißen. Schließlich
+gab er es auf, führte mich abseits, deutete auf eine natürliche
+Steinhart und jagte: »Segen wir und, mein Alter. Wir
+werden hier wohl ein paar Tage fasten müssen.« — Er
 schaltete die Taschenlampe aus, um die Batterie zu. schonen.
 
 Dann bot er mir eine seiner Mirakulum an, drückte
-sie mir in die Hand und ließ das Flämmchen seines Feuer-
-zeugs aufleuchten. — Wir rauchten. Das Flämmchen erlosch.
-Ringsum tiefste Dunkelheit. Sechs Schritt re<hts von uns
-hockte Sannah. Wir sahen sie niht. Wir hörten sie nur.
+sie mir in die Hand und ließ das Flämmchen seines Feuerzeuge
+aufleuchten. — Wir rauchten. Das Flämmchen erlosch.
+Ringsum tiefste Dunkelheit. Sechs Schritt rechts von uns
+hockte Sannah. Wir sahen sie nicht. Wir hörten sie nur.
 Sie murmelte ohne Pause unverständliche Worte vor sich hin,
-und vorhin hatten die elften Lippen fich nicht geregt.
-Dieses Murmeln klang unheimlich, war ebenso schre>haft
+und vorhin hatten die elften Lippen sich nicht geregt.
+Dieses Murmeln klang unheimlich, war ebenso schreckhaft
 wie der Gedanke, eine Halbirre als Gesellschafterin in dieser
 Lage bei sich zu haben. Kaum. wir dies flüchtig durch mein
-Hirn gegangen und hatte in meiner Seele ein leises Un-
-behagen zurückgelassen, als Harald mir zuflüsterte:
+Hirn gegangen und hatte in meiner Seele ein leises Unbehagen
+zurückgelassen, als Harald mir zuflüsterte:
+
 <@pagebreak/>
->».>9990999999 3 999494999999
+»Sie spielt nur die nicht völlig Zurechnungsfähige.
+Bedenke, daß sie uns gefolgt sein muß, daß sie also gefürchtet
+hat, wir könnten hier in eine Falle gelockt werden.«
 
-„Sie spielt nur die niht völlig Zurechnungsfähige.
-Bedenke, daß sie uns gefolgt sein muß, daß sie also ge-
-fürchtet hat, wir könnten hier in eine Falle geloct werden.“
-
-Sch wollte erklären, daß ih ihm vecht geben müßte.
-Jch wollte... .! Aber — Sannahs Gemurmel war ver-
-summt. Unwilllkürlih lauschte ich nach der Stelle hin,
+Ich wollte erklären, daß ich ihm recht geben müßte.
+Ich wollte....! Aber — Sannahs Gemurmel war verstummt.
+Unwilllkürlih lauschte ich nach der Stelle hin,
 wo sie sich befand.
 
 Und dann — dann — riß uns jemand die Zigaretten
 aus den Fingern...
 
-Funken fprühten am Boden auf. Und der im plum-
-ven Lederichi:h ftedende Fuß der Alten zertrat den alimmen-
-den Tabak. Sannahs schnatternde Stimme entschuldigte
+Funken sprühten am Boden auf. Und der im plumpen
+Ueberhebt:blickende Fuß der Alten zertrat den glimmenden
+Tabak. Sannahs schnatternde Stimme entschuldigte
 dieses Tun:
 
-„Massa Harten, nicht rauchen! Nicht rauchen! San-
-nahs Ohren haben gehört, daß noh andere Leute hier
+»Massa Harten, nicht rauchen! Nicht rauchen! Sannahs
+Ohren haben gehört, daß noch andere Leute hier
 unten. — Höhle gehen sehr tief im Erde und sehr weit,
-haben anderen Auëgang — in dem Buschwerk der. Hürde
-von Missus Helens Känguruh.“
+haben anderen Ausgang — in dem Buschwerk der. Hürde
+von Missus Helens Känguruh.«
 
-Harst sprang auf. Die Taschenlampe wurde einge-
-schaltet. Wir horten. Die Stimmen kamen näher. Der
-Lichtkegel erlos<h. Harald zog Sannah und mich hinter
-cinen Felsvorsprung. Dann — das leise Knacken) einer
-zurüdgefchobenen Pistolensicherung. Jch faßte gleichfalls in
-die Schlüffeltafche. Die Clement schmiegte sich mir in die
-Hand. Der Sicherungsflügel glitt zurüd.
+Harst sprang auf. Die Taschenlampe wurde eingeschaltet.
+Wir horten. Die Stimmen kamen näher. Der
+Lichtkegel erlosch. Harald zog Sannah und mich hinter
+einen Felsvorsprung. Dann — das leise Knacken) einer
+zurückgeschobenen Pistolensicherung. Ich faßte gleichfalls in
+die Schlüsseltasche. Die Clement schmiegte sich mir in die
+Hand. Der Sicherungsflügel glitt zurück.
 
-Noch näher die Stimmen ... — Männerstimmen
-a die ohne Scheu erklangen, ohne Furcht vor Lau-
-ern.
+Noch näher die Stimmen... — Männerstimmen
+die ohne Scheu erklangen, ohne Furcht vor Lauern.
 
-„Wo soll man hier die Steine suchen — verdammter
-Unsinn!“ fluchte der eine. „Wenn das Mädel sie versteckt
+»Wo soll man hier die Steine suchen — verdammter
+Unsinn!« fluchte der eine. »Wenn das Mädel sie versteckt
 hat, mag Bill sie zwingen, den Ort anzugeben! Teufel
-nochmal, es kann doh nicht {wer sein, dieser Helen die
-Zunge zu lösen!“
+nochmal, es kann doch nicht schwer sein, dieser Helen die
+Zunge zu lösen!«
 
 Die beiden Kerle machten dicht vor uns halt. Sie
 waren gut gekleidet, trugen Touristenanzüge und hatten
-bartlofe \>male Gesichter. Jhre großen Karbidlatcrnen
+bartlose schmale Gesichter. Ihre großen Karbidlaternen
 <@pagebreak/>
->209999999999 2999990999900.
-
-warfen grelle Lichtbündel ringsum. — Dann... . bücte sich
+warfen grelle Lichtbündel ringsum. — Dann.... bückte sich
 der eine, rief:
 
-„He — Edward, — hier — — zwei zeriretene Ziga-
-retten! Verdammt, Junge, — „ da, rieche .. .! Hier war
-jemand! Die Zigaretten .
+»He — Edward, — hier — — zwei zertretene Zigaretten!
+Verdammt, Junge, —« da, rieche...! Hier war
+jemand! Die Zigaretten...«
 
-Weiter fam er nicht. role war borwärtsgefprun-
-gen, jchlug bligichnel zweimal mit dem Metalltolben der
-Element zu. Die Kerle brachen zusammen. — Wir fessel-
-ten sie mit Streifen ihrer Jacken, stopften ihnen Knebel in
+Weiter kam er nicht. rote war vorwärtsgesprungen,
+schlug blitzschnell zweimal mit dem Metallrollen der
+Clement zu. Die Kerle brachen zusammen. — Wir fesselten
+sie mit Streifen ihrer Jacken, stopften ihnen Knebel in
 den Mund, ließen sie liegen.
 
 Sannah führte uns. Die Karbidlaternen leuchteten,
-die endlose Höhle sah drei rash vorwärtsstrebende Gestal-
-ten. Nach einer Stunde gab die Negerin uns zu verstehen,
+die endlose Höhle sah drei rasch vorwärts strebende Gestalten.
+Nach einer Stunde gab die Negerin uns zu verstehen,
 daß wir uns dem anderen Eingang näherten. Wir hörten
-auch gleichzeitig das Schnauben von Pferden, spürten Zi-
-garrenrauch, schlichen im Dunkeln weiter .
+auch gleichzeitig das Schnauben von Pferden, spürten Zigarrenrauch,
+schlichen im Dunkeln weiter...
 
-Bogen um eine Ede, vernahmen gleichzeitig einen
+Bogen um eine Ecke, vernahmen gleichzeitig einen
 gellenden Schrei, dem ein Hohngelächter folgte.
 
 Jagten vorwärts, erkannten Helen beim Lichte einer
-Laterne gefesselt auf einem Schemel fiten, sahen einen
-Mann weiter nad vorn ein Pferd durch den engen Fels-
-fpalt ins Freie führen...
+Laterne gefesselt auf einem Schemel sitzen, sahen einen
+Mann weiter nach vorn ein Pferd durch den engen Briefspalt
+ins Freie führen...
 
-Helen erkannte uns. „Fhm nad, Mr. Hart, — — ihm
-nach!“ rief fie überlaut. „Er'will da3 Känguruh . . .“
+Helen erkannte uns. »ihm nach, Mr. Harst, — — ihm
+nach!« rief sie überlaut. »Er’will das Känguruh...«
 
-Mehr verstand ih nicht. Harald hatte bereits die bei-
-den gesattelten Gäule bei den Zügeln gepadt. Wir eilten
-hinaus. Wir griffen no< rash na< den neben dem Ein-
-gang lehnenden Büchsen .
+Mehr verstand ich nicht. Harald hatte bereits die beiden
+gesattelten Gäule bei den Zügeln gepackt. Wir eilten
+hinaus. Wir griffen noch rasch nach den neben dem Eingang
+lehnenden Büchsen...
 
 Schwangen uns draußen im Busch in den Sattel, fetten
 hinter dem Manne drein, gelangten in den buschigen Teil
 der großen Hürde...
 
-Vor uns der Reiter — neben ihm das Känauruh ...
+Vor uns der Reiter — neben ihm das Känguruh...
 
 Und beide in wahnsinniger Hast dahinstürmend, bis —
-bis Harald die Büchse hob .
+bis Harald die Büchse hob...
 
-Auf den Schuß hin übers<lug sih das Känguruh .
+Auf den Schuß hin überschlug sich das Känguruh...
+
 <@pagebreak/>
-99999999999 59, 99999999990,
+Und — auf den zweiten Schuß zeichnete des Mannes
+Pferd mit einem wilden Satz zur Seite...
 
-Und — auf den zweiten Echuß zeichnete de3 Mannes
-Pferd mit einem wilden Saß zur Seite...
-
-Der Reiter glitt aus dem Sattel. Harald3 Zuruf
-trieb ihm die Arme hoh. Jm Nu hatten wir au< ihn
+Der Reiter glitt aus dem Sattel. Haralds Zuruf
+trieb ihm die Arme hoch. Im Nu hatten wir auch ihn
 gebunden. Dann trat Harst an das tote Känguruh heran.
-Es war ein weibliches Tier, hatte wie alle diese merk-
-würdigen Geschöpfe am Unterteil des Bauches eine Haut-
-tasche. Harald griff hinein, zog . . . einen länglichen Beutel
+Es war ein weibliches Tier, hatte wie alle diese merkwürdigen
+Geschöpfe am Unterteil des Bauches eine Handtasche.
+Harald griff hinein, zog... einen länglichen Beutel
 hervor: Mr. Dollings Juwelen!
 
-Sagte zu unserem Gefangenen, der mit einem rätsel-
-haften Lächeln uns anschaute:
+Sagte zu unserem Gefangenen, der mit einem rätselhaften
+Lächeln uns anschaute:
 
-„Bill, das Spiel ift aus! Alles weitere wird sih im
-Schloß New-London klären . . .!“
+»Bill, das Spiel ist aus! Alles weitere wird sich im
+Schloß New-London klären...!«
 
-Und — hiermit beginnt der zweite Teil unseres Aben-
-teuers, das i< „Bill Fones' leÿter Tri>k“ betitelt habe.
+Und — hiermit beginnt der zweite Teil unseres Abenteuers,
+das ich »Bill Jones’ letzter Trick« betitelt habe.
 
-CCL
+<@pagebreak 31/>
+
+<h1>Bill Jones’ letzter Trick.</h1>
+
 <@pagebreak/>
-Bill Jones’ letter Trick
+
 <@pagebreak/>
-VANNE Ku
-Ata
-I A
 
-MTS
-RAE N LV
-Es Syl er
-s “ar Bu rT
+<h2>1. Kapitel.</h2>
+<h3>Dolling Benimmt sich seltsam.</h3>
 
-Il
-
-RT
-He ® SLY 1
-E Hin i
-M AL
-
-hl
-
-FOY
-
-)
-
- 
-
-u Ki
-Aalen Ps
-I
-<@pagebreak/>
-IIISSITIIIII
-
-1. Kapitel.
-Dolling Henimmt fi seltsam. '
-
-E38 war gut, daß ih mir diesen Bill re<ht genau an-
-ıyaute, al3 wir ihn nun nach dem Buschwerk und dem
-Höhleweingang führten.
+E38 war gut, daß ich mir diesen Bill recht genau zutraute,
+als wir ihn nun nach dem Buschwerk und dem
+Höhleneingang führten.
 
 Es war insofern gut, weil dieses Bill rätselvolles
 Lächeln eine besondere Bedeutung hatte, die uns beiden
-[eider erst zu spät klar wurde.
+[eitel erst zu spät klar wurde.
 
-Bill machte durchaus den Eindru>k eines tadellosen
+Bill machte durchaus den Eindruck eines tadellosen
 Gentleman. Sein Sportanzug umschloß eine sehnige,
-schlanke Gestalt. Sein Gesicht war regelmäßig, hatte ener-
-gische Züge und ein Paar vergnügte, fast übermütige dunkle
-Augen. Alles in allem war dieser Mann ganz dazu ge-
-ihaffen, Eindrud auf Frauen zu machen.
+schlanke Gestalt. Sein Gesicht war regelmäßig, hatte energische
+Züge und ein Paar vergnügte, fast übermütige dunkle
+Augen. Alles in allem war dieser Mann ganz dazu geschaffen,
+Eindruck auf Frauen zu machen.
 
 Während wir, den Gefangenen zwischen uns, den
 Büschen, zuschritten, fragte Harst ihn:
 
-„Sie wissen, wer ih bin, niht wahr?“
+»Sie wissen, wer ich bin, nicht wahr?«
 
-„Allerdings, Mr. Harst. Jch weiß es,“ erwiderte er
-höflih. Er hatte eine recht angenehme Stimme.
+»Allerdings, Mr. Harst. Ich weiß es,« erwiderte er
+höflich. Er hatte eine recht angenehme Stimme.
 
-Dabei blieb das rätselvolle Lächeln wie feftgesroren
+Dabei blieb das rätselvolle Lächeln wie festgefroren
 um seine Lippen.
 
-Det. 107 9
 <@pagebreak/>
-».099,9,99090900 34 Ho9009,9020.
+»Und Sie wissen auch, was Ihnen und Ihren Genossen
+bevorsteht?« fügte Harald schärferen Tones hinzu. »Dieser
+Mordversuch auf uns dürfte Sie für Lebenszeit ins Zuchthaus
+bringen.« Und Harald deutete nach Osten zu, wo die
+Rauchmassen des brennenden Skrupps wie schwarze Ge-witterwolfken
+am Himmel hingen.
 
-„Und Sie wissen auch, was Jhnen und Ihren Genossen
-bevorsteht?“ fügte Harald schärferen Tones hinzu. „Dieser
-Mordversuch auf uns dürfte Sie für Lebenszeit ins Zucht-
-haus bringen.“ Und Harald deutete nah Osten zu, wo die
-Rauchmassen des brennenden Skrupps wie s{<warze Ge-
-witterwolfken am Himmel hingen.
+»Mordversuch, Mr. Harst?« meinte Bill erstaunt.
+»Glauben Sie etwa, daß wir das Buschholz in Brand gesteht
+haben?!«
 
-„Mordversuh, Mr. Harst?“ meinte Bill erftaunt.
-„Glauben Sie etwa, daß wir das Buschholz in Brand ge-
-ftedt haben?!“
+»Sparen Sie sich alle Ausflüchte,« sagte Harald achselzuckend.
+»Miß Helen wird nun wohl alles eingestehen.«
 
-„Sparen Sie fich alle Ausflüchte,“ sagte Harald achsel-
-zu>kend. „Miß Helen wird nun wohl alles eingestehen.“
-
-„So?! Sch wüßte nicht, was und wie sie das tun
-sollte, Mr. Harst.“ Das klang derart zuversichtlich, daß Ha-
-rald den Verbrecher prüfend von der Seite musterte. Der
-schwieg jedo<h. — Wir hatten das Buschwerk erreicht, ge=-
-langten auch bald an die steinige Vertiefung, an deren Süd=
-seite sich die Felsspalte, der Höhleneingang, öffnete.
+»So?! Ich wüßte nicht, was und wie sie das tun
+sollte, Mr. Harst.« Das klang derart zuversichtlich, daß Harald
+den Verbrecher prüfend von der Seite musterte. Der
+schwieg jedoch. — Wir hatten das Buschwerk erreicht, gelangten
+auch bald an die steinige Vertiefung, an deren Südseite
+sich die Felsspalte, der Höhleneingang, öffnete.
 
 Wir drangen in den recht steil abwärtsführenden
-Schlund ein, der fich bereit3 nad) wenigen Metern stark ver-
-breiterte. Vor und brannte noch auf dem rohen Holztisch
+Schlund ein, der sich bereits nach) wenigen Metern stark verbreiterte.
+Vor und brannte noch auf dem rohen Holztisch
 die Laterne. Neben dem Tische auf dem Schemel hatte die
 gefesselte Helen gesessen.
 
-Hatte
+Hatte...
 
 Helen — war nicht mehr da.
 
-Und — seltsam! — auf Harft3 wiederholte Rufe mel-
-dete sih auch die alte Sannah nicht.
+Und — seltsam! — auf Harkte wiederholte Rufe meldete
+sich auch die alte Sannah nicht.
 
 Nur unsere beiden Laternen, die wir Bills Freunden
-abgenonimen hatten, ftanden noch Dort, wo wir sie nieder-
-gejeßt hatten — neben der Stelle, wo die Pferde angebun-
-den gewesen waren.
+abgenommen hatten, standen noch Dort, wo wir sie niedergesetzt
+hatten — neben der Stelle, wo die Pferde angebunden
+gewesen waren.
 
-„Ich sagte Jhnen ja, Mr. Harst, daß Helen nichts be-
-zeugen könnte,“ meinte Bill jezt mit überlegenem Spott.
-„Sch würde Shnen auch ralen, sofort dasselbe zu tun, wozu
-Sie mich soeben draußen gezwungen haben: die Arme hoch-
-zuheben! Andernfalls würden Sie und Jhr Freund nie-
-dergeschossen werden. — Bitte, halbrechts sehen Sie hinter
+»Ich sagte Ihnen ja, Mr. Harst, daß Helen nichts bezeugen
+könnte,« meinte Bill jetzt mit überlegenem Spott.
+»Ich würde Ihnen auch raten, sofort dasselbe zu tun, wozu
+Sie mich soeben draußen gezwungen haben: die Arme hochzuheben!
+Andernfalls würden Sie und Ihr Freund niedergeschossen
+werden. — Bitte, halbrechts sehen Sie hinter
 <@pagebreak/>
-0000002000000 3; 0000200000000
-
-unserem primitiven Kleidershrank — wir hausen hier be-
-reits viele Wochen, Mr. Harst — den Vierten von uns mit
-der Büchse im Anschlag nur auf meinen Befehl zum Ab-
-drücken warten . . .“
+unserem primitiven Kleiderschrank — wir hausen hier bereits
+viele Wochen, Mr. Harst — den Vierten von uns mit
+der Büchse im Anschlag nur auf meinen Befehl zum Abdrücken
+warten...«
 
 Die eisige Ruhe dieses Schuftes hatte ihren guten
-Grund. Da stand wirklih ein Mensch, zielte auf uns, rief
+Grund. Da stand wirklich ein Mensch, zielte auf uns, rief
 jetzt seinerseits:
 
-„Hände ho<!! — Wird's bald!“
+»Hände hoch!! — Wird’s bald!«
 
 Ich zögerte.
 
-„Sehorche!* meinte Harald da und jtredte die Arme
+»Gehorche!« meinte Harald da und strebte die Arme
 empor.
-Bill lächelte mih an. „Mr. Schraut, nehmen Gie mir
-bitte die Fesseln ab.“
 
-Jch hätte den Kerl niederboxen mögen. Aber — was-
-blieb mir anderes übrig al3 die Knoten der beiden Taschen-
-tücher zu lösen, die wir ihm um die Handgelenke geschlun--
-gen hatten.
+Bill lächelte mich an. »Mr. Schraut, nehmen Sie mir
+bitte die Fesseln ab.«
 
-Dann holte er dünne Hanfleinen herbei und... fer
-felte erft mich, nachher auch Harald.
+Ich hätte den Kerl niederboxen mögen. Aber — ausblieb
+mir anderes übrig als die Knoten der beiden Taschentücher
+zu lösen, die wir ihm um die Handgelenke geschlungen
+hatten.
 
-Wir standen jeht wehrlos inmitten dieses Teiles der
+Dann holte er dünne Hanfleinen herbei und... Der
+zweifelte erst mich, nachher auch Harald.
+
+Wir standen jetzt wehrlos inmitten dieses Teiles der
 Höhle, der notdürftig als W|ohngemach ausgestattet war.
 
-“ „Fred, beeile Dich und sieh na< Edward und Robb,“
-befahl Bill seinem Gefährten. „Oder —— halt, — laß es
+»Fred, beeile Dich und sieh nach Edward und Robb,«
+befahl Bill seinem Gefährten. »Oder — halt, — laß es
 bleiben. Wir tun klüger, sofort zu verschwinden. Die
 Schüsse in der Hürde können gehört worden sein, und der
 tote Gaul und das tote Känguruh dürften uns dann nur
-zu rash ein paar {warze Spürnasen an die Fersen heften.
-— Hierher, Fred, hilf mir, diese beiden Gentlemen au<
-zu knebeln und dann sorafältig . . . aufzubewahren.“ — —
+zu rasch ein paar schwarze Spürnasen an die Fersen heften.
+— Hierher, Fred, hilf mir, diese beiden Gentlemen auch
+zu knebeln und dann sorgfältig... aufzubewahren.« — —
 
 Fünf Minuten drauf waren wir allein...
 
-Allein in trüber Dämmerung .. . Ein canz {wacher
-Schimmer de3 Tageslicht3 drang durch den Höhleneingang
-bis zu der mit teuflifcher Bosheit erfonnenen Pyramide
+Allein in trüber Dämmerung... Ein Ganz schwacher
+Schimmer des Tageshelle drang durch den Höhleneingang
+bis zu der mit teuflischer Bosheit ersonnenen Pyramide
 hin, auf der wir, wehrlos und unfähig uns bemerkbar zu
-machen, um unser Leben . . . balancierten . ..
+machen, um unser Leben... balancierten...
 
-Nichtia balancierten.. 1
+Richtig balancierten..
+
 <@pagebreak/>
-000000000000 3; 000000000000
-
 Denn diese aus dem rohen Holztisch, den Schemeln
 und zwei Kisten hergestellte Pyramide war so aufgebaut
-worden, daß wir, ganz oben auf einer Kiste figend, den
+worden, daß wir, ganz oben auf einer Kiste irgend, den
 Turm ins Wanken brachten, wenn wir auch nur eine hastige
 Bewegung machten.
 
-An fih hätte ja der Zusammenbruch dieses Gebildes
+An sich hätte ja der Zusammenbruch dieses Gebildes
 uns kaum viel geschadet. Wir wären mit ein paar blauen
-Fleden davongekommen. Uber — und das war ja eben
-da3 Satanifche diejer unferer Aufbewahrung ! — aber —
-um unsere Hälse lagen Hansschlingen, die oben an der
+Flehen davongekommen. über — und das war ja eben
+das Satanische dieser unserer Aufbewahrung! — aber —
+um unsere Hälse lagen Hanfschlingen, die oben an der
 Höhlendecke an ein paar Steinzacken befestigt waren.
 
 Verloren wir also das Gleichgewicht, so drohte uns
-ein BURREIIOER Ende: wir mußten in den Schlingen er-
-ftiden! —
+ein Duftender Ende: wir mußten in den Schlingen ersticken!
+—
 
-Mir Tief der Schweiß in Strömen von der Stirn.
-Beizend fanden die salzigen Tropfen ihren Weg bis in die
-Augen. Ach mußte fie jchliegen. Cie brannten mir bald
+Wir Tief der Schweiß in Strömen von der Stirn.
+Beitrat fanden die salzigen Tropfen ihren Weg bis in die
+Augen. Ich mußte sie Schüssen. Sie brannten mir bald
 wie Feuer.
 
 Dabei war irgendeine Verständigung zwischen Harald
 und mir völlig unmöglich. Die Knebel, die man uns in
-den Mund geschoben hatte, wu im Genid sorgsältig- fest-
-gebunden.
+den Mund geschoben hatte, Du im Genick sorgfältig- festgebunden.
 
-Jch rührte mich nicht Ich überließ es Haralds über-
-legener Gewandtheit, uns in Balance zu halten.
+Ich rührte mich nicht Ich überließ es Haralds überlegener
+Gewandtheit, uns in Balance zu halten.
 
-Der scheußliche Turm schwankte zuweilen recht bedenk-
-lih. Woran das lag, konnte ich nicht feststellen. Mir schien
-es jedoch, als ob Harst bereits an unserer Rettung irgend-
-wie arbeitete.
+Der scheußliche Turm schwankte zuweilen recht bedenklich.
+Woran das lag, konnte ich nicht feststellen. Wir schien
+es jedoch, als ob Harst bereits an unserer Rettung irgendwie
+arbeitete.
 
-Jn der Höhle herrschte Totenstille. Daher vernahm
-ih auch immer deutlicher neben mir ein Geräusch, als ob
-jemand mit aller Kraft etwas zu zerfauen sucht: Harald
+In der Höhle herrschte Totenstille. Daher vernahm
+ich auch immer deutlicher neben mir ein Geräusch, als ob
+jemand mit aller Kraft etwas zu zerkauen sucht: Harald
 wollte den Knebel loswerden!! —
 
-So vergingen endlose — endlose Minuten . .
+So vergingen endlose — endlose Minuten...
 
-Dann . von draußen her Stimmen ...
+Dann. von draußen her Stimmen...
 
 Wahrhaftig: Stimmen!!
-<@pagebreak/>
-292.099 99992 57 799999290
 
+<@pagebreak/>
 Das war kein anderer als Chester Dolling, der da
 soeben rief:
 
-„Es ist ausgeschlossen, daß einem Fremden die Höhle
-bekannt sein kann, Mr. Goddlepy. Kehren wir um
+»Es ist ausgeschlossen, daß einem Fremden die Höhle
+bekannt sein kann, Mr. Goddlepy. Kehren wir um...«
 
 Und dann des Melbourner Kollegen helleres Organ:
 
-„Aber die Spuren hier — — diese frishen Spuren!“
+»Aber die Spuren hier — — diese frischen Spuren!«
 
-Seht riß ich Doch die Lider auf...
+Jetzt riß ich Doch die Lider auf...
 
-Wir saßen mit dem Gesicht nah dem Eingang hin.
+Wir saßen mit dem Gesicht nach dem Eingang hin.
 
-Ich sah zwei Gestalien in dem Felsengang erscheinen,
-sah, daß Dolling den kleinen Goddlepy energish zurüd.
-drängte und wütend rief: „Verdammt, ich Habe einen Wider»
-willen gegen diese Grotte! Warten Sie... .!!*
+Ich sah zwei Gestalten in dem Felsengang erscheinen,
+sah, daß Dolling den kleinen Goddlepy energisch zurück.
+drängte und wütend rief: »Verdammt, ich Habe einen Widerwillen
+gegen diese Grotte! Warten Sie...!!«
 
 Dann brüllte er in das Dunkel hinein:
 
-„Se — ift dort jemand?!“
+»So — ist dort jemand?!«
 
-Oh — es war schon jemand da!! Sogar zwei Men,
-schen die bereits mit einem Fuß über dem Grabe fchweb-
-ten, — zwei, Die fich nicht melden fonnten, die auch vom
-Höhleneingang Her nicht zu bemerfen waren ...
+Oh — es war schon jemand da!! Sogar zwei Mem,
+sehen die bereits mit einem Fuß über dem Grabe schwebten,
+— zwei, Die sich nicht melden konnten, die auch vom
+Höhleneingang Her nicht zu bemerken waren...
 
-Sch wurde unruhig .
+Ich wurde unruhig...
 
-Sch machte den Versuch, wenigstens eaänbanien Laut
-aus dem verstopften Munde hervorzustoßen .
+Ich machte den Versuch, wenigstens eaänbanien Laut
+aus dem verstopften Munde hervorzustoßen...
 
 Und — — fühlte mit einem Male, daß die Pyramide
 nach hinten jchiwantte, fühlte, daß Harald durch eine hastige
-Körperbewegung das Unheil abwenden wollte, daß .
-diese Bewegung schle<t berechnet gewesen und . .. der
+Körperbewegung das Unheil abwenden wollte, daß...
+diese Bewegung schlecht berechnet gewesen und... der
 ganze Bau nach vorwärts ins Rutschen kam...
 
-Hörte das Poltern der herabsallenden Schemel, glitt
-abwärts ...
+Hörte das Poltern der herabfallenden Schemel, glitt
+abwärts...
 
-Ein Ru>k am Halje ... ein siedend heißes Rieseln
-über den Leib... . ein Donnern und Tosen in den Ohren,
-als ob mir das Trommelfell platzen sollte .
+Ein Ruck am Halse... ein siedend heißes Rieseln
+über den Leib.... ein Donnern und Tosen in den Ohren,
+als ob mir das Trommelfell platzen sollte...
 
-Dann ... dann ein fast wohliges Empfinden, jenes
-selbe Empfinden, das Ertrinkende haben, bevor völlige Be-
-wußtlosigkeit eintritt.
+Dann... dann ein fast wohliges Empfinden, jenes
+selbe Empfinden, das Ertrinkende haben, bevor völlige Bewußtlosigkeit
+eintritt.
 
-Und dann — nichts mehr .
+Und dann — nichts mehr...
 
-Nichts
+Nichts...
+
 <@pagebreak/>
->»o9999999999 2% 9220999994.
-
 Bis wie aus endlosen Fernen eine Stimme in mein
 Ohr drang — Haralds Stimme:
 
-„Holla — er atmet s{<on! Er mit seinem größeren
-Körpergewicht war sc<hle<ter daran als ih. Die Schlinge
-Hat sih fester zugezogen, und die Blutstauung . . .*
+»Holla — er atmet schon! Er mit seinem größeren
+Körpergewicht war schlechter daran als ich. Die Schlinge
+Hat sich fester zugezogen, und die Blutstauung...«
 
-Mehr verstand ih nicht.
+Mehr verstand ich nicht.
 
-Doch zehn Minuten drauf saß ih fchon aufrecht im
+Doch zehn Minuten drauf saß ich schon aufrecht im
 dürren Grase im Schatten des Buschwerks unweit des
 Höhleneinganas.
 
-Harald stüßte mi...
+Harald stütze mich...
 
-„Alterchen, das war ein ziemlihes Risiko, nicht
-wahr?!“ meinte er frohgemut. „Aber, was blieb mir an-
-deres übrig?! Jh mußte doh irgendwie Mr. Dolling be-
-tveisen, daß tatsächlich jemand in der Grotte weilte.“
+»Alterchen, das war ein ziemlihes Risiko, nicht
+wahr?!« meinte er frohgemut. »Aber, was blieb mir anderes
+übrig?! Ich mußte doch irgendwie Mr. Dolling beweisen,
+daß tatsächlich jemand in der Grotte weilte.«
 
-Die lebten Sätze fprah er in ganz anderem Tone,
+Die letzten Sätze sprach er in ganz anderem Tone,
 der mich sofort aufhorchen ließ. Meine Blicke wanderten
-¿u dem Großzüchter hin, der vor uns an einen jungen Graë-
-baum lehnte. Und neben Chester Dolling wieder stand cin
-Mann, der mit dem Kollegen Goddlepy auch nicht die aller-
-geringste Achnlichkeit Hatte: ein grauhaariger, bärtiger
-‘Alter, sonnverbrannt, in die Tracht der australischen Farm-
-aufseher gekleidet .
+zu dem Großzüchter hin, der vor uns an einen jungen Grasbaum
+lehnte. Und neben Chester Dolling wieder stand ein
+Mann, der mit dem Kollegen Goddlepy auch nicht die Allergeringste
+Aehnlichkeit Hatte: ein grauhaariger, bärtiger
+Alter, sonnverbrannt, in die Tracht der australischen Farmaufseher
+gekleidet...
 
-Dollings finsteres Gesicht hatte jeßt einen geradezu
-sanernden Ausdruck, als er hostig erklärte: „Jch . ih
-babe nun mal einen Widerwillen gegen die Höhle, Mr.
-Harten. Deshalb wollte ich fie nicht betreten.“
+Dollings finsteres Gesicht hatte jetzt einen geradezu
+lauernden Ausdruck, als er hastig erklärte: »Ich. ich
+habe nun mal einen Widerwillen gegen die Höhle, Mr.
+Harten. Deshalb wollte ich sie nicht betreten.«
 
 Harald erhob sich aus seiner knienden Stellung. Er
-merkte, daß ich keine Stüße mehr brauchte.
+merkte, daß ich keine Stöße mehr brauchte.
 
-„Wenn Sie die Grotte meiden wollten, Mr. Dolling,
-— nun gut!“ sagte er scharf und faft unfreundlich. „Weg-
-halb ließen Sie jedoch Me. Godplepy nicht hinein? —
+»Wenn Sie die Grotte meiden wollten, Mr. Dolling,
+— nun gut!« sagte er scharf und fast unfreundlich. »Weshalb
+ließen Sie jedoch Mr. Geopfert nicht hinein? —
 Würden Sie mir nicht diese Frage einmal beantworten
-tollen? 1“
+wollen?!«
 
-Goddlepy nidte. „Sa — antworten Sie,“ sagte auch
-er recht strengen Tones. „Shr Benehmen war ja überhaupt
-reichlich merkwürdig, Mr. Dolling.“
+Goddlepy nickte. »Ja — antworten Sie,« sagte auch
+er recht strengen Tones. »Ihr Benehmen war ja überhaupt
+reichlich merkwürdig, Mr. Dolling.«
+
 <@pagebreak/>
-> 922990999992 39) 99092990999,.>
-
 Dolling schoß das Blut in die Wangen.
 
-„Ha — sind Sie etwa hier meine Richter?!“ rief
-er gereizt. „Jh habe es nicht nötig, Fhnen irgendwelche
-Frkflärungen abzugeben — durchaus nicht nötig! Sie wer-
-den sich schon mit dem begnügen müssen, was nun einmal
-die Wahrheit ist: ih... ih verabscheue diese Grotte!“
+»Ha — sind Sie etwa hier *meine* Richter?!« rief
+er gereizt. »Ich habe es nicht nötig, Ihnen irgendwelche
+Frkflärungen abzugeben — durchaus nicht nötig! Sie werden
+sich schon mit dem begnügen müssen, was nun einmal
+die Wahrheit ist: ich... ich verabscheue diese Grotte!«
 
-Er atmete rash und kecuchend, fügte Hinzu: „Sch denke
-auch, daß es jet weit wichtiger ist, von Fhnen, Mr. Harst —
+Er atmete rasch und kecuchend, fügte Hinzu: »Ich denke
+auch, daß es jetzt weit wichtiger ist, von Ihnen, Mr. Harst —
 Mr. Harten wollte ich sagen — zu erfahren, was in aller
-Wert sih hier abgespielt hat?! Denn danah werde ih
-meine Maßnahmen treffen, falls solche nötig sein sollten.“
+Wert sich hier abgespielt hat?! Denn danach werde ich
+meine Maßnahmen treffen, falls solche nötig sein sollten.«
 
-Harald3 graue Augen ruhten noch immer fest auf Dol-
-lings hagerem Antlib.
+Haralds graue Augen ruhten noch immer fest auf Dollings
+hagerem Antlitz.
 
-„Jhre Tochter und Sannah sind von den Einbrechern,
-die in der Höhle schon längere Zeit hausten, entführt wor-
-den,“ meinte Harst nun sehr ernst . .
+»Ihre Tochter und Sannah sind von den Einbrechern,
+die in der Höhle schon längere Zeit hausten, entführt worden,«
+meinte Harst nun sehr ernst...
 
-Sch beobachtete ven Schafzüchter . ..
+Ich beobachtete den Schafzüchter...
 
-Er shrak zusammen, er erblaßte . ..
+Er schrak zusammen, er erblaßte...
 
- 
+»Ah — — Helen — — Helen — entführt!!!« stammelte
+er. »Das — das ist nicht möglich! Das ist....«
 
-„Ah — — Helen — — Helen — entführt!!!” ftam-
-melte er. „Das — das ift nicht möglih! Das ift... .*
-Er schwieg
+Er schwieg...
 
-Zwei schwarze Viehhirten maren plöblid; auf der
-Leinen Lichtung erfchienen ....
+Zwei schwarze Viehhirten waren plötzlich; auf der
+Leinen Lichtung erschienen...
 
-„Massa Doling, Hier eine Brief .. .!“ brüllte der
-eine atemlos. „Eine Brief von eine Massa, der mit Mifjus
-Helen und drei andere Mafjas geritten jein Durch den
-noch alühenden Strupp wie die Teufel . Haben Pferde
-gestohlen aus unsere Hürde, Massa, haben Punower ers
-schossen, der ihnen wollte .
+»Massa Dolling, Hier eine Brief...!« brüllte der
+eine atemlos. »Eine Brief von eine Massa, der mit Missus
+Helen und drei andere Maitag geritten sein Durch den
+noch glühenden Skrupp wie die Teufel. Haben Pferde
+gestohlen aus unsere Hürde, Massa, haben Punower eng
+schossen, der ihnen wollte...«
 
-Dolling standen dike “Schweißperlen auf der Stirn.
-Dolling war jeÿt nur no< Vater — ein von Angst und
-Sorge um sein einziges Kind gepeinigter Vater .
+Dolling standen dicke »Schweißperlen auf der Stirn.
+Dolling war jetzt nur noch Vater — ein von Angst und
+Sorge um sein einziges Kind gepeinigter Vater...
 
-Unterbrah den Schwarzen: „Besorgt Es hier-
-Her — Proviant, Wasserschläuche! Sch will
+Unterbrach den Schwarzen: »Besorgt Es hierher
+— Proviant, Wasserschläuche! Ich will...«
 
-„Halt!“ meinte Harald da. „Was zur Befreiung Miß
+»Halt!« meinte Harald da. »Was zur Befreiung Miß
 Helens getan werden muß, soll nicht übereilt werden, Mr.
 <@pagebreak/>
->29999999992 pp) Fe 299929
-
 Dolling! Das wäre ein großer Fehler. Ob mir eine
-Stunde später oder früher zur Verfolgung aufbrechen, dar-
-auf kommt es nicht an.“
+Stunde später oder früher zur Verfolgung aufbrechen, darauf
+kommt es nicht an.«
 
-Goddlepy pflichtete Harald eifrig bei. So fam’3 denn,
+Goddlepy pflichtete Harald eifrig bei. So kam’s denn,
 daß Dolling erst einmal in Ruhe den Brief lesen mußte, den
-der cine der Verbrecher den {warzen Hirten im Vorbei-
-galoppieren zugeworfen hatte.
+der eine der Verbrecher den schwarzen Hirten im Vorbei-galoppieren
+zugeworfen hatte.
 
-=
 <@pagebreak/>
->>99999909999 41 99690999999
 
-2. Kapitel.
-Die Schrift in der Asche.
+<h2>2. Kapitel.</h2>
+<h3>Die Schrift in der Asche.</h3>
 
-Der Brief war auf zwei aus einem Notizbuch heraud-
-gerissene Seiten gekrißelt und mit Bleistift geschrieben. Der
+Der Brief war auf zwei aus einem Notizbuch heraud-gerissene
+Seiten gekritzelt und mit Bleistift geschrieben. Der
 Umschlag war ein altes blaugraues Geschästsfkuvert, von
 dem die bereits abgestempelte Marke entfernt und die erste
-Anschrift wegradiert war. Nun stand dort Chester Dol-
-lings Adresse, ebénfalls mit Bleistift.
+Anschrift wegradiert war. Nun stand dort Chester Dollings
+Adresse, ebenfalls mit Bleistift.
 
 Dolling wollte den zugeklebten Umschlag ausreißen.
-Harft bat jedech, er möge das Kuvert sauber aufschneiden.
+Harst bat jedoch, er möge das Kuvert sauber aufschneiden.
 Dann erst zog der Züchter die beiden Blätter heraus.
 
-Und — las  . las und versärbte sich, stierte auf die
-Zeilen, al3 ob Satanas ihm daraus entgegengrinste.
+Und — las. las und verfärbte sich, stierte auf die
+Zeilen, als ob Satanas ihm daraus entgegengrinste.
 
-Keuchend stich er dann hervor: „Jh . .. i<h muß
-einen Augenbli> . . . allein sein, meine Herren. Entschul-
-digen Sie mich bitte. F< will nur .. .“
+Keuchend Stich er dann hervor: »Ich... ich muß
+einen Augenblick... allein sein, meine Herren. Entschuldigen
+Sie mich bitte. ich will nur...«
 
 Da hatte Harald ihm schon die Hand auf die Schulter
-gelegt. Und in cinem Tone, der ebensc warm wie doc
-auch wieder energisch flang, sagte er rasch:
+gelegt. Und in einem Tone, der ebenso warm wie doch
+auch wieder energisch klang, sagte er rasch:
 
-„Mr. Dolling, mit der Höhle da ist irgendein Geheim-
-nis verknüpft. Und auf dieses Geheimnis, behaupte ich,
-bat Vill Jones. der Ansührer dicser Verbrecher, irgendwie
+»Mr. Dolling, mit der Höhle da ist irgendein Geheimnis
+verknüpft. Und auf dieses Geheimnis, behaupte ich,
+bat Bill Jones. der Anführer dieser Verbrecher, irgendwie
 <@pagebreak/>
->09900009990 (1) 90099, 000,0
-
 in dem Briefe angespielt. un wollen Sie nicht offen
-Uns gegenüber sein?! Sch und...
+Uns gegenüber sein?! Ich und...
 
-Dolling war zurü>kgesprungen.
+Dolling war zurückgesprungen.
 
 Dolling hatte im Nu die beiden Blätter in den Mund
-‚geftopft, hatte uns den Rücken zugekehrt, lief nun wie ge-
-Heht durch die Büfche davon.
+gestopft, hatte uns den Rücken zugekehrt, lief nun wie gesteht
+durch die Büsche davon.
 
-Der kleine Kollege Goddlepy und ich waren fo starr
-‘vor Ueberraschung, daß wir lediglih Harst anschauten, was
+Der kleine Kollege Goddlepy und ich waren so starr
+vor Ueberraschung, daß wir lediglich Harst anschauten, was
 der nun wohl tun würde.
 
-Und Harald . . ., — Harald bückte si<, hob den zur
+Und Harald..., — Harald bückte sich, hob den zur
 Erde gefallenen Briefumschlag auf und sagte dann zu den
-ebenso verblüfften shwarzen Schafhirten:
+ebenso verblüfften schwarzen Schafhirten:
 
-„Boys, geht Eurem Herrn nah! Er wird Befehle
-für Euch haben!“
+»Boys, geht Eurem Herrn nach! Er wird Befehle
+für Euch haben!«
 
-Wir drei „Leute vom Fach“ waren jet unter uns.
+Wir drei »Leute vom Fach« waren jetzt unter uns.
 Der Melbourner Kollege schüttelte heftig den Kopf und
 meinte:
 
-„Zeufel noch mal, Mr. Harft, diefer Dolling hat ein
+»Teufel noch mal, Mr. Harst, dieser Dolling hat ein
 ebenso schlechtes Gewissen wie sein Töchterlein, die mir in
-der verslossenen Nacht .
+der verflossenen Nacht...«
 
-m». Geld gab, damit ih mich hier nicht einmifchte,*
-ergänzte Harald lächelnd. „Wir haben Miß Helen und Sie
-beobachtet, und Sie brauchen uns daher nur noch zu em
-tlären, was Sie hierher . . .“
+»... Geld gab, damit ich mich hier nicht einmifchte,«
+ergänzte Harald lächelnd. »Wir haben Miß Helen und Sie
+beobachtet, und Sie brauchen uns daher nur noch zu cm
+klären, was Sie hierher...«
 
-Goddlepy rief s{<on: „Oh — zu erklären ist da nicht
-allzu viel, bester Mir. Harst. Als Miß Helen mich jo in-
-{tändig bat, nah Melbourne zurückzukehren, weil ih ihr sonst
-namenlosen Kummer bereiten würde, da war ich sofort ent-
-{<lossen, in der Maske eines stellenlosen Farmausseher3
-New-sLondon zu besuchen. Jch langte auf Dollings feuda-
-sem Herrensiß vor zwei Stunden an. Schüsse lo>kten uns
+Goddlepy rief schon: »Oh — zu erklären ist da nicht
+allzu viel, bester Wir. Harst. Als Miß Helen mich so in-schtändig
+bat, nach Melbourne zurückzukehren, weil ich ihr sonst
+namenlosen Kummer bereiten würde, da war ich sofort entschlossen,
+in der Maske eines stellenlosen Farmausseher3
+New-sLondon zu besuchen. Ich langte auf Dollings feudalen
+Bemerkst vor zwei Stunden an. Schüsse lockten uns
 dann hierher. Wir fanden das tote Lieblingskänguruh Miß
 Helens und das erschossene, gesattelte Pferd, fanden allerlei
-Fährten und .
+Fährten und
 
-„Dante, Mr. “ Goddlepy. — Sch {lage vor, wir unter-
-Suchen jegt erft einmal gründlich die Höhle bis zu ihrem
+»Danke, Mr.« Goddlepy. — Ich schlage vor, wir untersuchen
+jetzt erst einmal gründlich die Höhle bis zu ihrem
 <@pagebreak/>
->99999999999 43 99999999999 >
-
 anderen Eingang. Die Schwarzen Schafhirten erwähnten
 nur, daß Helen von den Verbrechern entführt sei. Sannah
-erwähnten fie nicht. Sch fürchte, Daß die Schufte die alte
-Negerin für alle Zeit ftumm gemacht haben. Beeilen wir
-uns.“ —
+erwähnten sie nicht. Ich fürchte, Daß die Schufte die alte
+Negerin für alle Zeit stumm gemacht haben. Beeilen wir
+uns.« —
 
 Wir nahmen Laternen aus dem Wohnraum der Höhle.
-Es waren noch vier Stück vorhanden. Wir traten so bei ge-
-nügender Beleuchtung die hastige Wanderung durch die aus-
-gedehnte Grotte an.
+Es waren noch vier Stück vorhanden. Wir traten so bei genügender
+Beleuchtung die hastige Wanderung durch die ausgedehnte
+Grotte an.
 
 Harald ging voran. Er wollte feststellen, ob nicht etwa
-einer der Banditen abgebogen sei, ob es hier nicht Neben-
-höhlen gäbe, die vielleicht dasjenige bargen, was zu Chester
+einer der Banditen abgebogen sei, ob es hier nicht Ueberholten
+gäbe, die vielleicht dasjenige bargen, was zu Chester
 Dollings Geheimnis in engster Beziehung stand.
 
-Doch — die undeutlichen Spuren liefen ohne jede Ab-
-aweigung bis zum zweiten Eingang, bis zu jener Fels-
-anhäufung, in der durch die stinkenden Schwaden die alte
+Doch — die undeutlichen Spuren liefen ohne jede Abzweigung
+bis zum zweiten Eingang, bis zu jener Felsanhäufung,
+in der durch die stinkenden Schwaden die alte
 Negerin den Weg bis zu uns gefunden hatte.
 
 Und hier — hier, wo die greise Schwarze uns vor dem
-Flammentode gerettet hatte, wo die Felsen müt heißer Asche
-bandhoch bededt waren, two der glühende Atem der in der
+Flammentode gerettet hatte, wo die Felsen muß heißer Asche
+hantiert bedeckt waren, tun der glühende Atem der in der
 Ferne weiterlohenden Skrupps uns drohend enitgegenschlug,
-hier — — lag Sannah mit einem Mefjerftih im Herzen
-gwifchen den Steinen...
+hier — — lag Sannah mit einem Messerstich im Herzen
+zwischen den Steinen...
 
-„Bestien!“ murmelte Harst . ..
+»Bestien!« murmelte Harst...
 
-Und Goddlepy rief: „So wahr ih {hon a<t Mördern
-zum Galgen verholfen habe: „diese Schuste sollen ebenfalls
-baumeln, und wenn ih ae
+Und Goddlepy rief: »So wahr ich schon acht Mördern
+zum Galgen verholfen habe: »diese Schufte sollen ebenfalls
+baumeln, und wenn ich Je...«
 
-Er stußte
+Er stutzte...
 
-Er sah, daß Harad den graublauen Briefumschlag aus
-dev Tasche gezogen hatte und die Rückseite schräg gegen die
+Er sah, daß Harald den graublauen Briefumschlag aus
+der Tasche gezogen hatte und die Rückseite schräg gegen die
 Sonne hielt.
 
-„He — was haben Sie, Mr. Harft?“ fragte er ge-
+»He — was haben Sie, Mr. Harst?« fragte er gespannt.
 
-spannt.
-„Oh — nichts Besonderes. Bill Jones hat den Um-
-\<hlag beim Schreiben des Briefes als Unterlage benußt,
+»Oh — nichts Besonderes. Bill Jones hat den Umschlag
+beim Schreiben des Briefes als Unterlage benutzt,
 <@pagebreak/>
-000000000000 44 CTosF7>2272>72»
-
-und ich kann, da sih die Schrift durchgedrückt hat, folgendes
+und ich kann, da sich die Schrift durchgedrückt hat, folgendes
 entziffern:
 
-Mr. Dolling!
+> Mr. Dolling!
 
-Mein Nam. 3 Bil Sones. Sch hatte mi< schon in
-Dublin an Shr Töchterlein herangemacht und mich mit
-ihr heimlich verlobt. Helen meinte, daß Sie die Englän-
-der jedoch derart haften, daß wenig Aussicht bestände,
-Shre Einwilligung zu einer Heirat zu erhalten. Sch bin
-daher vor zwei Monaten nach Uustralien gekommen, um
+> Mein Name ist Bill Jones. Ich hatte mich schon in
+Dublin an Ihr Töchterlein herangemacht und mich mit
+ihr heimlich verlobt. Helen meinte, daß Sie die Engländer
+jedoch derart haften, daß wenig Aussicht bestände,
+Ihre Einwilligung zu einer Heirat zu erhalten. Ich bin
+daher vor zwei Monaten nach Australien gekommen, um
 Helen miiederzufehen und Sie, Mr. Dolling, etwas zur
 Ader zu lassen. Helen hatte mal den Schlüssel zum Tresor
-bei jih, als wir uns trafen. Da nahm ich denn ind
-geheim einen tadellofen Wachsabdrud und...
+bei sich, als wir uns trafen. Da nahm ich denn ins
+geheim einen tadellosen Wachsabdruck und...
 
-„Hier fehlt ein Stück,“ warf Harald ein. „Der Schluß
-des Brieses lautet:
+»Hier fehlt ein Stück,« warf Harald ein. »Der Schluß
+des Briefes lautet:
 
-„Sie werden also die verlangte Summe nach drei
+> »Sie werden also die verlangte Summe nach drei
 Tagen nachts in der Höhle an jener Stelle niederlegen.
 Andernfalls wird Helen New-London nicht wiedersehen.
-Wie Sie die drei Schnüsfselnasen wegschicken, ist Jhre
-Sache. — Bill Jones.“
+Wie Sie die drei Schnüsfselnasen wegschicken, ist Ihre
+Sache. — Bill Jones.«
 
-Der kleine Kollege Goddlepy hatte die wenig \{<höne
+Der kleine Kollege Goddlepy hatte die wenig schöne
 Angewohnheit, den Mund stets halb offen zu behalten und
-so seine shräg na< vorn stehenden mächtigen Vorderzähne
+so seine schräg nach vorn stehenden mächtigen Vorderzähne
 allzeit zu entblößen.
 
-Dieser Mund war jebt, al3 Harald una den durch
-gedrückten Brief (der natürlich englisch geschrieben war) vor-
-las, immer weiter aufgegangen, — sozusagen ru>tweise.
-ei sehr interessierte der Fnhalt den Melbourner „Schnüff-
-er*.
+Dieser Mund war jetzt, als Harald nun den durch
+gedrückten Brief (der natürlich englisch geschrieben war) vorlas,
+immer weiter aufgegangen, — sozusagen rucktweise.
+ei sehr interessierte der Anhalt den Melbourner »Schnüffler«.
 
-Goddlepy wirkte mit dieser von Natur schon recht an»
-sehnlichen Mundöfsnung jezt derart komisch, daß ih troß
-der büjteren Umgebung und troß der Nähe der armen toten
+Goddlepy wirkte mit dieser von Natur schon recht ansehnlichen
+Mundöffnung jetzt derart komisch, daß ich trotz
+der düsteren Umgebung und trotz der Nähe der armen toten
 <@pagebreak/>
-29999999999 45 999999999999,
-
-Sannah kaum ernst bleiben konnte. Rash wandte ich den
+Sannah kaum ernst bleiben konnte. Rast wandte ich den
 Kopf zur Seite, um das übermächtig heraufziehende Feixen
 zu verbergen. —
 
-Kleinigkeiten sind's, die Großes ins Rollen bringen.
-So auch hier. Mein Blid fiel nun auf die Leiche der
-Negerin, und im Mioment hatte i<h Goddlepys seltsames
+Kleinigkeiten sind’s, die Großes ins Rollen bringen.
+So auch hier. Mein Blick fiel nun auf die Leiche der
+Negerin, und im Uhrwerk hatte ich Goddlepys seltsames
 Clownsgesicht vergessen, starrte dafür wie gebannt auf die
-glatte graue Aschenfläche, die si<h neben der Toten meter-
-weit hinzog — wie eine Schiefertafel . ..
+glatte graue Aschenfläche, die sich neben der Toten meterweit
+hinzog — wie eine Schiefertafel...
 
-Sch hörte kaum Hin, daß Goddlepy jet freudig rief:
+Ich hörte kaum Hin, daß Goddlepy jetzt freudig rief:
 
-„Dann brauchen wir die Schurken ja gar nicht mehr zu
-verfolgen, Mr. Harft! Sie wollen doch von Dolling offen-
-var noch Geld erpressen, und .
+»Dann brauchen wir die Schurken ja gar nicht mehr zu
+verfolgen, Mr. Harst! Sie wollen doch von Dolling offenbar
+noch Geld erpressen, und...«
 
-So weit verstand ih, was der Kollege als billige Weis-
-heit heraustrompetete . .
+So weit verstand ich, was der Kollege als billige Weisheit
+heraustrompetete...
 
-Dann — tat id fast mechanisch drei — vier Schritte
-vorwärts .
+Dann — tat ich fast mechanisch drei — vier Schritte
+vorwärts...
 
-Und — — bücdte mi — büdte mich immer tiefer ...
+Und — — bückte mich — bückte mich immer tiefer...
 
 War innerlich sehr stolz darauf, daß ich hier etwas
-entdedt hatte, das Harald entgangen mar.
+entdeckt hatte, das Harald entgangen war.
 
-Denn — in der Oberfläche der glatten Afchenfchicht
+Denn — in der Oberfläche der glatten Aschenschicht
 dicht neben der Negerin waren verschiedene Striche, Bogen,
 Häkchen zu erkennen.
 
-Man sah sie nur, wenn man in einem bestimmten Ab-
-stand und in einem bestimmten Winkel diese graue Tenne
+Man sah sie nur, wenn man in einem bestimmten Abstand
+und in einem bestimmten Winkel diese graue Tenne
 betrachtete.
 
 Striche, Bogen, Häkchen: plumpe lateinische Buchstaben
-waren's, ohne Zweifel von Sannah mit dem Zeigefinger
-in die Oberfläche der Aschende>e hineingemalt . ..
+waren’s, ohne Zweifel von Sannah mit dem Zeigefinger
+in die Oberfläche der Aschendecke hineingemalt...
 
-Ohne Zweifel .
+Ohne Zweifel...!!
 
-Und — daher wichtig, daher... —
+Und — daher wichtig, daher... — —
 
-Ja — hinter mir jet feider Harald | Stimme, kühl,
-gleichmnitig, für mich ein eifiger Wafferguß auf meinen
+Ja — hinter mir jetzt leider Harald | Stimme, kühl,
+gleichmnitig, für mich ein eisiger Wasserguß auf meinen
 Entdederftolz:
 
-„Mit den vier BEREITEROMIERIEN wird fich {wer etwa3
-anfangen lassen, mein Alter ..
+»Mit den vier Einmischen wird sich schwer etwas
+anfangen lassen, mein Alter...«
+
 <@pagebreak/>
-99999999999 4, 999999999.
+Ich fuhr Hoch, drehte mich um
 
-Sch fuhr Hoch, drehte mid um .
+alter Unterkiefer reckte sich vor Staunen wieder
+abwärts...
 
-ALTER Unterkiefer re>te sich vor Staunen wieder
-abwärts .
-
-"Se — "was soll das?“ meinte er dann mißtrauisch.
-Er glaubte, Harst hätte ihm aus dem Briesinhalt einiges
+»So — »was soll das?« meinte er dann mißtrauisch.
+Er glaubte, Harst hätte ihm aus dem Briefinhalt einiges
 verschwiegen.
 
-„Nur die in die Asche eingezeichneten Worte stehen
-hier zur Erörterung,“ erklärte Harald und ni>te dem Mel-
-bourner zu. „Bitte — versuchen Sie die Buchstaben nur zu
-entziffern. Sie werden auh nichts anderes herausbringen
-
+»Nur die in die Asche eingezeichneten Worte stehen
+hier zur Erörterung,« erklärte Harald und nickte dem Melbourner
+zu. »Bitte — versuchen Sie die Buchstaben nur zu
+entziffern. Sie werden auch nichts anderes herausbringen
 als ich, nämlich:
-Maff zweit Miffu ha,
-was doch keinerlei Sinn ergibt.“
-Goddlepys Spürsinn war angefacht worden. Mit
-einem Saz schnellte er fich neben die Tote...
-„Bahrhaitig, Mr. Schraut, das kann nur Sannah
 
-Er ließ sih nicht Zeit, das Begonnene zu beenden.
+> Matt zwei! Villa ha,
+
+was doch keinerlei Sinn ergibt.«
+
+Goddlepys Spürsinn war angefacht worden. Mit
+einem Satz schnellte er sich neben die Tote...
+
+»Wahrhaftig, Mr. Schraut, das kann nur Sannah
+noch...«
+
+Er ließ sich nicht Zeit, das Begonnene zu beenden.
 Er ne ss laut:
-.T... — Maff...1 — Das soll ohne Frage
+
+T... — Matt...1 — Das soll ohne Frage
 Massa Tage
 
-„Glänzend!“ lobte Harald. „Weiter... — Die
-Jronie entging dem kleinen A,
+»Glänzend!« lobte Harald. »Weiter... — Die
+Ironie entging dem kleinen A,
 
-„Hm — dann kommt ...3. .t — zweit.
-Vielleicht bedeutet das „zweiter“, und "im als Abrürzung
-von Missus, Frau, Fräulein, wird vielleicht . .
+»Hm — dann kommt...3»t — zwei!.
+Vielleicht bedeutet das »zweiter«, und »im als Abrürzung
+von Missus, Frau, Fräulein, wird vielleicht...«
 
-„Hm — so viele . . . „Vielleicht“, Goddlepy!“ warf
-Harst ein. „Da werden wir nicht klüger. Jch denke, wir
-kehren besser durch die Höhle nach Nemw-London zurüd. Hier
-gibt es im Augenblid doch nichts für uns zu tun.“
+»Hm — so viele... »Vielleicht«, Goddlepy!« warf
+Harst ein. »Da werden wir nicht klüger. Ich denke, wir
+kehren besser durch die Höhle nach New-London zurück. Hier
+gibt es im Augenblick doch nichts für uns zu tun.«
 
-Sch Hatte Das deutliche Empfinden, daß Harald für
-die vier Worte bereits eine einleuchtende Erklärung ge»
-funden hatte, daß er uns diese Erklärung aber absichtlich
+Ich Hatte Das deutliche Empfinden, daß Harald für
+die vier Worte bereits eine einleuchtende Erklärung gefunden
+hatte, daß er uns diese Erklärung aber absichtlich
 verschwieg.
 
-aT Em ihn foschend an. Goddlepy stand noh tief
+ad cm ihn reichend an. Goddlepy stand noch tief
+gebückt da.
+
 <@pagebreak/>
-.>9999099999 47 99999099099 ©-
+Und — Harst blickte auch mich an.
 
-Und — Sarft blidte auch mich an.
-
-Seine Aucen waren groß und strahlend. Scin Gesicht
+Seine Kuren waren groß und strahlend. Sein Gesicht
 war wie übergossen von der frohen Genugtuung, nunmeh2z
-den Rätseln dicser Tage dicht auf der Spur zu sein . 2
+den Rätseln dieser Tage dicht auf der Spur zu sein... —
 
-Geränscbe aus dem nahen Höhleneingang, dem ‘Fels.
-foche, liefen mic cine schnelle Wendung un
+Geräusche aus dem nahen Höhleneingang, dem hielt.
+Woche, liefen mich eine schnelle Wendung un
 
-Chester Dolling, der Großzüchter, erschien .
+Chester Dolling, der Großzüchter, erschien...
 
-SCL
 <@pagebreak/>
->o0999095000% 3 99990009000
 
-3. Kapitel.
-Schritte über mir.
+<h2>3. Kapitel.</h2>
+<h3>Schritte über mir.</h3>
 
 Harald benahm sich recht merkwürdig.
 
-„Schweigen Sie!“ raunte er Goddlepy zu, ging um
-die Tote im Bogen herum, stapfte durh die Aschenfläche
-und zerstörte so das Wenige, was von Sannahs leßtten
+»Schweigen Sie!« raunte er Goddlepy zu, ging um
+die Tote im Bogen herum, stapfte durch die Aschenfläche
+und zerstörte so das Wenige, was von Sannahs letzten
 Aufzeichnungen überhaupt sichtbar gewesen.
 
 Dolling trat verlegen näher. Er hatte sich inzwischen
@@ -1961,185 +1820,175 @@ wohl überlegt, daß er uns dreien gegenüber sein Verhalten
 von vorhin irgendwie rechtfertigen müßte. Und er begann
 denn auch sofort:
 
-„Mr. Harst, Sie dürfen es mir nicht verargen, daß ih
-Jhnen den Brief jenes Schurken auf diese etwas eigen-
-tümliche Weise entzog. Meiner Tochter Leben steht auf dem
-Spiel. Sch bitte Sie daher auch, nicht weiter nach dem Jn-
-Halt jenes Schreibens zu forschen und überhaupt diese An-
-gelegenheit ruhen zu lassen.“
+»Mr. Harst, Sie dürfen es mir nicht verargen, daß ich
+Ihnen den Brief jenes Schurken auf diese etwas eigentümliche
+Weise entzog. Meiner Tochter Leben steht auf dem
+Spiel. Ich bitte Sie daher auch, nicht weiter nach dem Anhalt
+jenes Schreibens zu forschen und überhaupt diese Angelegenheit
+ruhen zu lassen.«
 
-Sein Blid war dabei unverwandt auf die Leiche der
-Megerin gerichtet. i
+Sein Blick war dabei unverwandt auf die Leiche der
+Messern gerichtet.
 
 Nach kurzer Pause fügte er hastiger hinzu:
 
-„Fanden Sie Sannah no< lebend vor?“
+»Fanden Sie Sannah noch lebend vor?«
 
 Diese Frage war äußerst verdächtig. Sie klang nicht
-anders, al3 befürchtete er, die Alte könnte uns noch irgend-
+anders, als befürchtete er, die Alte könnte uns noch irgendwelche
 <@pagebreak/>
-99999999999 49 999999999999
-
-welche Mitteilungen gemacht haben, die ihm rect peinlich
+Mitteilungen gemacht haben, die ihm recht peinlich
 gewesen wären.
 
-Harald erwiderte denn au< doppelsinnig:
+Harald erwiderte denn auch doppelsinnig:
 
-„Was Sannah noch auf dem Herzen hatte, war unver-
-ftändlich.“
-i „Ah — sie lebte also wirkli< no<?“ rief Dolling er-
+»Was Sannah noch auf dem Herzen hatte, war unverständlich.«
 
-toden
+»Ah — sie lebte also wirklich noch?« rief Dolling erhoben
 
-Harft blieb jefundenlang stumm.
+Harst blieb sekundenlang stumm.
 
-„Sie war tot, Mr. Dolling,“ jagte er dann. „Sie
-Hatte "dort in die Aschenschicht ein paar verstümmelte Worte
-hineingemalt, die wir nicht entziffern konnten.“
+»Sie war tot, Mr. Dolling,« jagte er dann. »Sie
+Hatte »dort in die Aschenschicht ein paar verstümmelte Worte
+hineingemalt, die wir nicht entziffern konnten.«
 
 Der Schafzüchter atmete sichtlich erleichtert auf.
 
-„So . so. — Es wird ja auch nichts von Be-
-deutung gewesen sein,“ “meinte er. „Wenn die Herren nun
-mit mir den Rückweg antreten wollen ... ch werde vor-
-angehen.“
+»So... so... — Es wird ja auch nichts von Bedeutung
+gewesen sein,« »meinte er. »Wenn die Herren nun
+mit mir den Rückweg antreten wollen... ich werde vorzugehen.«
 
-Das war für uns ein Wink, der hieß: Laßt jeht die
+Das war für uns ein Wink, der hieß: Laßt jetzt die
 Finger fernerhin von diesen Dingen weg!
 
-Und Harald ni>te denn auh: „Ja, gehen wir. Sch
-
-. habe Hunger.“ —
+Und Harald nickte denn auch: »Ja, gehen wir. Ich...
+habe Hunger.« —
 
 Schweigend passierten wir die ausgedehnte Grotte.
 
 Erst als wir die Hürde des Lieblingskänguruhs Helen
 Dollings erreicht hatten, als wir an den Kadavern des
-Bei Beuteltiere3 und des toten Reitpferdes vorüber-
-amen, blieb Chester Dolling plößlich stehen.
+Bei Beuteltieres und des toten Reitpferdes vorüberkamen,
+blieb Chester Dolling plötzlich stehen.
 
-„Weshalb haben Sie eigentlich das Känguruh er-
-{Hoffen, Mr. Harjt?* fragte er. „War das denn unbedingt
-nötig? Helen wird sehr unglüdlih ar Sie liebte das
-sahme Tier über alles. Sie hat es.
+»Weshalb haben Sie eigentlich das Känguruh erschlossen,
+Mr. Harst?« fragte er. »War das denn unbedingt
+nötig? Helen wird sehr unglücklich an Sie liebte das
+zahme Tier über alles. Sie hat es...«
 
 Harald unterbrach ihn.
-„Darüber sprechen wir später.“ Das Hang recht gleich
 
-„Sch bin ziemlich erfchöpft. Die legten Stunden
-haben denn do< Anforderungen an unsere Nerven gestellt,
-bie man besser auf mehrere Tage verteilt.“
+»Darüber sprechen wir später.« Das Hang recht gleichgültig.
+»Ich bin ziemlich erschöpft. Die legten Stunden
+haben denn doch Anforderungen an unsere Nerven gestellt,
+die man besser auf mehrere Tage verteilt.«
 
 Er schritt weiter der Umzäunung zu. —
-Als wir das feudale Wohngebäude erreicht hatten, wax
-<@pagebreak/>
-00000000000. z) 90000000...
 
-ich recht erftaunt, daß Dolling im Speifefaale die Tafel wie
-gewöhnlich hatte deden Iaffen. Helens Entführung ¡en
+Als wir das feudale Wohngebäude erreicht hatten, war
+<@pagebreak/>
+ich recht erstaunt, daß Dolling im Speisesaale die Tafel wie
+gewöhnlich hatte Oeden lassen. Helens Entführung den
 ihm also nicht sehr nahe zu gehen.
 
-Oder — — rechnete er so bestimmt damit, daß er fein
+Oder — — rechnete er so bestimmt damit, daß er sein
 einziges Kind wohlbehalten wiedersehen würde?! War er
-bereits fest entschlossen, Helen aus der Gewalt der Verbredyer
+bereits fest entschlossen, Helen aus der Gewalt der Verbrecher
 loszukaufen?!
 
 Noch seltsamer zeigte er sich bei Tisch.
 
-Schweriten franzöfifchen Burgunder fette er ung vor,
+Schwersten französischen Burgunder setzte er uns vor,
 trank selbst am meisten, erwähnte die Vorgänge des Tages
-mit feiner Silbe mehr und . . . lohnte nachher den kleinen
+mit seiner Silbe mehr und... lohnte nachher den kleinen
 Melbourner Kollegen aufs großartigste ab, überreichte ihm
-einen Sched über eine fünfftelige Zahl und ... gab ihm
-zu verstehen, daß er auf Goddlepy3 weitere Anwesenheit hier
-feinerlei Gewicht lege.
+einen Scheck über eine fünfftelige Zahl und... gab ihm
+zu verstehen, daß er auf Goddlepys weitere Anwesenheit hier
+keinerlei Gewicht lege.
 
-Goddlepy war nicht empfindlih. Der Sche> machte
-alles gut. Nachmittag gegen fünf Uhr holte er fein Motore
-rad aus dem Kleinbahnschuppen und verabschiedete sich.
+Goddlepy war nicht empfindlich. Der Scheck machte
+alles gut. Nachmittag gegen fünf Uhr holte er sein Motors
+Rad aus dem Kleinbahnschuppen und verabschiedete sich.
 
 Dolling ließ uns drei bis dahin nicht eine Sekunde
-allein. So konnte Goddlepy denn auh Harst und mir nux
+allein. So konnte Goddlepy denn auch Harst und mir nur
 bei guter Gelegenheit zuflüstern:
 
-„Nachts zwölf Uhr — bei dem Schuppen!“
+»Nachts zwölf Uhr — bei dem Schuppen!«
 
-Er wollte uns also uoh sprechen. Und das war ihm
+Er wollte uns also Roh sprechen. Und das war ihm
 nicht zu verargen.
 
 Knatternd sauste er nun die Straße gen Süden davon,
-ents<hwand unseren Blicken .
+entschwand unseren Blicken...
 
 Und gähnend meinte Harald zu Chester Dolling:
 
-„Schraut und ich wollen uns jeht eine Stunde nieder-
-Legen. Sie entschuldigen uns, Mr. Dolling.“
+»Schraut und ich wollen uns jetzt eine Stunde niederlegen.
+Sie entschuldigen uns, Mr. Dolling.«
 
-„Aber gewiß, gewiß ... Nur — nur habe ih Sie
-beide umgquartiert, meine Herren. Sch brauche den Raum
-neben meinem Arbeitäzimmer, da ih...“ — er zögerte,
-überlegte — „da ich mein Privatbureau vergrößern muß.”
+»Aber gewiß, gewiß... Nur — nur habe ich Sie
+beide umgquartiert, meine Herren. Ich brauche den Raum
+neben meinem Arbeitszimmer, da ich...« — er zögerte,
+überlegte — »da ich mein Privatbureau vergrößern muß.«
 
 Lächerlich faule Ausrede das!! Bureau vergrößern!
-— Sch war wütend, daß Dolling uns jo gering eintagiertel
-Hoffte er, wir würden den Schwindel nicht dur<schauen? !
+— Ich war wütend, daß Dolling uns so gering eintagiertel
+Hoffte er, wir würden den Schwindel nicht durchschauen?!
+
 <@pagebreak/>
->2>:999999999 5! 999999999999
+Da fuhr er schon fort: »Leider muß ich Ihnen einzelne
+Zimmer anwachsen, die getrennt im zweiten Stock liegen. Es
+ließ sich wirklich nicht anders einrichten.«
 
-Da fuhr er schon fort: „Leider muß ih Jhnen einzelne
-Zimmer antvoeisen, die getrennt im zweiten Sto> liegen. Es
-ließ fich wirklich nicht anders einrichten.“
+»Oh — das macht nichts!« gähnte Harald lächelnd.
+schlafe auch lieber allein.«
 
-„Dh — das macht nichts!“ gähnte Harald lächelnd.
-6 schlafe auch lieber allein.“
-
-Dolling führte uns nah oben.
+Dolling führte uns nach oben.
 
 Allerdings — unsere Zimmer waren sogar durch die
 ganze Länge des Hauses getrennt! Das meine lag im
-rechten Seitenflügel! Und dasjenige Haralds na<h Norden
+rechten Seitenflügel! Und dasjenige Haralds nach Norden
 zu im linken Seitenflügel!
 
-Dafür waren die Räume aber au<h sehr behaglich.
-Harst lobte all diese Kulturbequemlichkeiten, lobte die präch-
-tigen Betten, Die praftifchen Gummibadewannen und die
-fhöne Augficht.
+Dafür waren die Räume aber auch sehr behaglich.
+Harst lobte all diese Kulturbequemlichkeiten, lobte die prächtigen
+Betten, Die praktischen Gummibadewannen und die
+schöne Ausficht.
 
-Und doch: seine Liebensmwürdigfeit gegenüber Chester
+Und doch: seine Liebenswürdigkeit gegenüber Chester
 Dolling, diesem alles in allem recht fragwürdigen Herrn,
-war äußerjt verfänglih. Es war ein Zuviel dabei — ein
+war äußerst verfänglich. Es war ein Zuviel dabei — ein
 Uebermaß von gut gespielter Harmlosigkeit!
 
-Dolling merkte nichts. Er taute jet geradezu auf,
-wurde außerordentlich gefprächig und beinahe vergnügt. Er
-glaubte wohl, uns mit diesem Quartierwechjel ganz nad)
-Wunsch „eingewicelt* zu haben.
+Dolling merkte nichts. Er taute jetzt geradezu auf,
+wurde außerordentlich gesprächig und beinahe vergnügt. Er
+glaubte wohl, uns mit diesem Quartierwechsel ganz nach)
+Wunsch »eingewicelt« zu haben.
 
-Dann verabschiedete er sih von Harald und geleitete
-mich wieder in mein Zimmer hinüber. Auch das schien mix
-Absicht zu sein. Er wollte niht, daß wir allein miteinander
-blieben und no< unsere Ansichten über dies und jenes aus-
-tauschen könnten.
+Dann verabschiedete er sich von Harald und geleitete
+mich wieder in mein Zimmer hinüber. Auch das schien mir
+Absicht zu sein. Er wollte nicht, daß wir allein miteinander
+blieben und noch unsere Ansichten über dies und jenes austauschen
+könnten.
 
-Jch hatte eigentlich erwartet, daß Harft jehr bald, nad
-dem Dolling mich verlassen, bei mir erscheinen würde. Sch
-jegte mich daher auch an das eine Fenster in den bequemen
-Korbsessel nd zündete mir eine Zigarre an. — Jn dem
-großen Gebäude herrschte Totenstille. Es wurde ja über-
-haupt von so wenigen Menschen bewohnt, daß diese sich in
+Ich hatte eigentlich erwartet, daß Harst sehr bald, nach
+dem Dolling mich verlassen, bei mir erscheinen würde. Ich
+legte mich daher auch an das eine Fenster in den bequemen
+Korbsessel nd zündete mir eine Zigarre an. — In dem
+großen Gebäude herrschte Totenstille. Es wurde ja überhaupt
+von so wenigen Menschen bewohnt, daß diese sich in
 all den Räumen völlig verloren.
 
-J<< saß vregungslos da und ließ nun die Ereignisse
-der lebten Stunden langsam nochmals vor meinem inneren
+J« saß vregungslos da und ließ nun die Ereignisse
+der letzten Stunden langsam nochmals vor meinem inneren
 <@pagebreak/>
->2999999099999 52 99999999999.
-
-Auge aufleben. Jmmer klarer wurde mir fo, daß Harald
-und ih im Mittelpunkt von Geheimnissen ständen, die für
-Chester Dolling zum mindesten re<t unangenehm werden
-mußten, falls sie aufgede>t würden. Sein Widerwillen
-gegen die Höhle, die Flucht mit dem Briefe, den er fih in
-den Mund gestopft hatte, seine Angst, daß Sannah noh
+Auge aufleben. immer klarer wurde mir so, daß Harald
+und ich im Mittelpunkt von Geheimnissen ständen, die für
+Chester Dolling zum mindesten recht unangenehm werden
+mußten, falls sie aufgedeckt würden. Sein Widerwillen
+gegen die Höhle, die Flucht mit dem Briefe, den er sich in
+den Mund gestopft hatte, seine Angst, daß Sannah noch
 irgend etwas ausgeplaudert haben könnte, — all das sprach
 nur zu sehr gegen ihn!
 
@@ -2147,490 +1996,415 @@ Da — mit einem Male wurde der Faden meiner die
 ganzen Vorgänge prüfenden Gedanken lockerer und lockerer.
 
 Meine Aufmerksamkeit war allmählich, zunächst mir
-jelbft noch Halb unbewußt, durch ein gleihmäßiges leises
-Geräusch abgelenkt worden . ….
+selbst noch Halb unbewußt, durch ein gleichmütiges leises
+Geräusch abgelenkt worden...
 
 Es war ein dumpfes Tappen — etwa wie die Schritte
 eines ruhelos hin und her wandernden Menschen, der ohne
 Unterbrechung auf weichen Schuhen in einem Zimmer auf
 und ab geht.
 
-SH begann zu laufen...
+Ah begann zu laufen...
 
-Es war schwer festzustellen, woher diese Geräusche ka-
-men. Bald schien es mir, daß sie aus einem Nebenraume
+Es war schwer festzustellen, woher diese Geräusche kamen.
+Bald schien es mir, daß sie aus einem Nebenraume
 herüberklängen, bald wieder machte es den Eindruck, daß
 sie über mir entständen.
 
 Dieses leise Tappen ferner Schritte — falls es eben
 wirklich Schritte waren! — regte meine ohnedies lebhafter
 noch als sonst arbeitende Phantasie derart an, daß ich schließe
-lich nur no< darüber nachgrübelte, welcher Art diefe Ge-
-räusche sein könnten.
+lich nur noch darüber nachgrübelte, welcher Art diese Geräusche
+sein könnten.
 
-Jch lauschte no< angestrengter.
+Ich lauschte noch angestrengter.
 
-Dann — ja, da3 war das Knarren einer Diele über
-meinem Zimmr gewesen! Ein Knarren, das mit dem
-En. langsamen Tapp — Tapp — Tapp — zujammen-
+Dann — ja, das war das Knarren einer Diele über
+meinem Amme gewesen! Ein Knarren, das mit dem
+Er. langsamen Dann — Dann — Dann — zusammenhing...
 
 Ueber mir — —!! Ueber mir — —!!
 
 Aber — dort war Doch nur der Bodenraum. Dort
-war nicht einmal die Dienerjchaft untergebracht. Das
+war nicht einmal die Dienerschaft untergebracht. Das
 wußte ich genau.
+
 <@pagebreak/>
-92077709222 12 00020909900%
-
 Und doch: dort ging ein Mensch Hin und her — ohne
-Pause, gleichmäßig, ruhelos . .. —
+Pause, gleichmäßig, ruhelos... —
 
-Wieder fnarrte die Diele...
+Wieder knarrte die Diele...
 
-So schaute zu der weißgetünchten Dede empor
+So schaute zu der weißgetünchten Decke empor
 
-Wer in aller Welt konnte da oben haufen — da oben
+Wer in aller Welt konnte da oben Haufen — da oben
 in der Glut unter dem Schieferdach?!
 
 Wer — — wer?
 
-Dann — ein jäher Verdacht trieb mi<h aus dem
-Sessel hoh
+Dann — ein jäher Verdacht trieb mich aus dem
+Sessel hoch...
 
 Wenn — wenn Dolling dort vielleicht irgend jemand
 gefangen oder verborgen hielt?! Gerade hier über dem
 Seitenflügel würden ja fraglos nur Bodenräume liegen, die
-selten oder nie benußt wurden!
+selten oder nie benutzt wurden!
 
-Und diese Vermutung war's, die mich nun veranlaßte,
+Und diese Vermutung war’s, die mich nun veranlaßte,
 Harald sofort aufzusuchen. —
 
-Um nicht vom Flur dur<h das Schlüsselloch etwa be-
-obachtet zu werden, hatte ih den vor dem Bett steheuden
+Um nicht vom Flur durch das Schlüsselloch etwa beobachtet
+zu werden, hatte ich den vor dem Bett stehenden
 Wandschirm. so zur Seite gerückt, daß er die Tür und auch
-meinen Yenjterplat verdedte.
+meinen Fensterplatz verdeckte.
 
-Sch erhob mid. Eine halbe Stunde mochte e3 jeht
-ber fein, daß Dolling mir angenehme Ruhe gewünscht hate
-und Davongegangen war. — Leise schritt ih zur Tür. {F<
-hatte sie niht verriegelt. Sch ftredie gerade die Hand nad
-dem Drücker aus, als fie plöglicd geöffnet wurde...
+Ich erhob mich. Eine halbe Stunde mochte es jetzt
+der sein, daß Dolling mir angenehme Ruhe gewünscht tote
+und Davongegangen war. — Leise schritt ich zur Tür. schick
+hatte sie nicht verriegelt. Ich strebte gerade die Hand nach
+dem Drücker aus, als sie plötzlich geöffnet wurde...
 
-Harald stand vor mir, — — legte rash den Finger
-auf die Lippen und fchlüpfte zu mir herein, drückte die Tür
-ins Schloß und flüfterte:
+Harald stand vor mir, — — legte rasch den Finger
+auf die Lippen und schlüpfte zu mir herein, drückte die Tür
+ins Schloß und flüsterte:
 
-„Dolling hat bis vor kurzem im Haup:flur aufgepaßt,
-ob wir einer den andern besuchen würden.“
+»Dolling hat bis vor kurzem im Haar:Flur aufgepaßt,
+ob wir einer den andern besuchen würden.«
 
 Ich nickte nur. Und — — deutete nach oben, zur
-Zimmerdede .
+Zimmerdecke...
 
-Harald wurde ausmerksam, horchte . ..
+Harald wurde aufmerksam, horchte...
 
-„Schritte!“ meinte er leise.
+»Schritte!« meinte er leise.
 
 na — seit einer halben Stunde ohne Unterlaß,
-Vieneiht — — ein Gefangener Dollings!“ — Und i
-mir in diesem Moment äußerst geisivoll vox
+Vieneiht — — ein Gefangener Dollings!« — Und
+mir in diesem Moment äußerst geistvoll vor...
+
 <@pagebreak/>
-299999999999 ;4 999999999999
+<h2>4. Kapitel.</h2>
+<h3>Die zweite Missus,</h3>
 
-4. Kapitel.
-Die zweite Miffus,
-
-Harst \<Gaute mich kopfschüttelnd an. „Schwerer logi-
-fer Fehler, mein Alter!! Dolling würde Dich doch nie-
-mals unter diesem Gefangenen einquartiert haben, hätte
+Harst schaute mich kopfschüttelnd an. »Schwerer logieren
+Fehler, mein Alter!! Dolling würde Dich doch niemals
+unter diesem Gefangenen einquartiert haben, hätte
 doch mit der Möglichkeit gerechnet, daß Du den ruhelosen
-Wanderer hören könntest!“
+Wanderer hören könntest!«
 
 Ein Lächeln umspielte seinen Mund.
 
-„Zroß Deiner verfehlten Kombination ift mir dieses
-Tapp-Tapp da oben äußerst wertvoll,“ fügte er hinzu. „Es
-ist der Beweis, daß ih mir Sannahs Ascheninschrift richtig
-erklärt habe. Das heißt ni<hts anderes, al3: dort über
-diesem Zimmer haust tatsächlih ein Gefangener! Aber —
-kein Gefangener Dollings. Nein — ein freiwilliger Ge
-fangener hält fi dort verborgen.“
+»Groß Deiner verfehlten Kombination ist mir dieses
+Dann-Dann da oben äußerst wertvoll,« fügte er hinzu. »Es
+ist der Beweis, daß ich mir Sannahs Ascheninschrift richtig
+erklärt habe. Das heißt nichts anderes, als: dort über
+diesem Zimmer haust tatsächlich ein Gefangener! Aber —
+kein Gefangener Dollings. Nein — ein freiwilliger Gefangener
+hält sich dort verborgen.«
 
-„Ah — und wer?“ fragte ih begierig.
+»Ah — und wer?« fragte ich begierig.
 
-„Das — wirst Du sehen — — in der kommenden
-Nacht. — Jch will sofort in mein Zimmer zurüd. Sch
-wollte Did nur warnem, nichts zu trinken, was Dolling
-uns etwa um sieben Uhr, wo wir doh geweckt zu werden
-wünschten, als Erfrischung durch einen der shwarzen Diener
-(hit. Sch nehme bestimmt an, daß er es tun wird. Es
-hängt das mif Bill Jones? tadellos ersonnenem Trick zu-
+»Das — wirst Du sehen — — in der kommenden
+Nacht. — Ich will sofort in mein Zimmer zurück. Ich
+wollte Div nur warnen, nichts zu trinken, was Dolling
+uns etwa um sieben Uhr, wo wir doch geweckt zu werden
+wünschten, als Erfrischung durch einen der schwarzen Diener
+(ist. Ich nehme bestimmt an, daß er es tun wird. Es
+hängt das mit Bill Jones? tadellos ersonnenem Trick zusammen,
 <@pagebreak/>
-000000000000 5; 00000000000.
+den Dolling seinerseits noch unterstützen möchte.«
 
-fammen, den Dolling feinerfeit3 noch unterftügen möchte.“
+Zum ersten Male sprach Harald in diesem Moment
+von... Bill Jones’ Trick. Zum ersten Klare — und für
+mich völlig überraschend.
 
-Zum ersten Male jprach Harald in diesem Moment
-von . . . Bill Jones’ Tri>k. Zum ersten Miale — und für
-mi< völlig überraschend.
+»Trick — Trick?!« meinte ich verständnislos.
 
-„Tri>k — Trick?!“ meinte ih verständnislos.
+»Ja — der Briefumschlag, mein Alter, — der Unklug
+mit der durchgedrückten Schrift...1— Aber, —
+genug jetzt davon... Ich muß in mein »Zimmer zurück.
+Schloß Dolling Dir also ein eisgekühltes Getränk, dann
+Siebe es heimlich in den Toiletteneimer, lege Dich wieder
+auf das Bett und spiele den abermals fest Eingeschlafenen.«
 
-„Sa — der Briefumschlag, mein Alter, — der Um-
-flag mit der durchgedrückten Schrift ...1— Aber, —
-genug jegt davon ... Sch muß in mein "Zimmer zurüd.
-Schhdt Doling Dir aljo ein eisgefühltes Getränt, dann '
-giebe e3 heimlich in den Zoiletteneimer, lege Dich wieder
-auf das Bett und spiele den abermals jeft Eingefchlafenen.“
+Ich verstand...
 
-Jch verstand .
+»Ah — ein Schlafmittel...!« flüsterte ich. »Und —
+wozu das alles?! Wozu?!«
 
-„Ah — ein Schlafmittel . . .!“ flüsterte ih. „Und —
-wozu das alles?! Wozu?!“
+»Des — — Tricks wegen — —! Auf Ehre
+wahrscheinlich in der Nacht gegen elf!«
 
-„Des — — Tricks wegen — —! Auf EHRE
-wahrscheinlich in der Nacht gegen elf!“
+Er verschwand. — —
 
-Er vers<hwand. — —
-
-E Und alles kam so, wie er es vorausgesagt hatte — —
-ES Qe
+Und alles kam so, wie er es vorausgesagt hatte — —
+Es Qe...
 
 Um sieben Uhr erschien ein Diener mit einem Teebrett,
-darauf stand ein Glas . . . Eislimonade.
+darauf stand ein Glas... Eislimonade.
 
-Ohne Zweifel hätte ich das fühle Getränk mit Be-
-hagen geshlürst, wenn ich eben nicht vorher gewarnt
-worden wäre. :
+Ohne Zweifel hätte ich das fühle Getränk mit Behagen
+geschlürft, wenn ich eben nicht vorher gewarnt
+worden wäre.
 
 Eine halbe Stunde drauf, als ich scheinbar im festesten
-Schlafe dalaa, {<li< . . . Chester Dolling herein, nachdem
-er mehrmals fräftig geklopft hatte. Dann hörte ich ihn mit
-sich selber sprechen .
+Schlafe dalag, schlich... Chester Dolling herein, nachdem
+er mehrmals kräftig geklopft hatte. Dann hörte ich ihn mit
+sich selber sprechen...
 
-„Dh — das genügt bis morgen früh ... .! Und —
-alles ift vorüber . . .! — Mein Gott, mein Gott — meshalb
-nur diese Prüfungen?!“ Das klang wie der Verzweiflungs-
-fchrei einer gemarterten Seele. „Habe ih denn nichl
+»Oh — das genügt bis morgen früh....! Und —
+alles ist vorüber...! — Mein Gott, mein Gott — Weshalb
+nur diese Prüfungen?!« Das klang wie der Verzweiflungsschrei
+einer gemarterten Seele. »Habe ich denn nicht
 schon damals genug zu tragen gehabt?! Mußte all das
-wieder aufleben? !“
+wieder aufleben?!«
 
 Er stand noch eine Weile neben meinem Bett. Dann
-entfernte er sih. Die Tür fiel ins Schloß.
-<@pagebreak/>
-2209222902920 5 990029092000
+entfernte er sich. Die Tür fiel ins Schloß.
 
+<@pagebreak/>
 Aber — Dolling hatte vorher den Schlüssel von innen
-abgezogen, s{loß nun von außen ab, jchloß mich ein und
+abgezogen, schloß nun von außen ab, Schloß mich ein und
 nahm den Schlüssel mit.
 
-Sch seßte mich aufreht. Der Wandschirm ftand noch
-genau so wie vorhin. Jch konnte dur<h das Schlüsselloch
+Ich setzte mich aufrecht. Der Wandschirm stand noch
+genau so wie vorhin. Ich konnte durch das Schlüsselloch
 nicht beobachtet werden. — Und ich saß da und grübelte
-und grübelte. Jh tat dies mit vollem Recht. Dollings
-leises Selbstgespräch war sür mich wie ein Faustschlag ge-
-wesen, der eine Reihe geordneter Dominosteine in Ver-
-wirrung bringt. Denn: das, was er da soeben vor fi
-hingeredet hatte, war ja tatsächlich wie cin qualvoller Seufs
-zer eines {wer bedrücklen Herzens gewesen. Und ih —
-ih hatte den Großzüchter jeßt nach, Haralds leßten An-
-deutungen im Verdacht gehabt, womöglich selbst ein ..
-Verbrecher zu fein, der mit Bill Jones im Bunde stände!
+und grübelte. Ich tat dies mit vollem Recht. Dollings
+leises Selbstgespräch war für mich wie ein Faustschlag gewesen,
+der eine Reihe geordneter Dominosteine in Verwirrung
+bringt. Denn: das, was er da soeben vor sich
+hingeredet hatte, war ja tatsächlich wie ein qualvoller Seufzer
+eines schwer bedrückten Herzens gewesen. Und ich —
+ich hatte den Großzüchter jetzt nach, Haralds letzten Andeutungen
+im Verdacht gehabt, womöglich selbst ein ..
+Verbrecher zu sein, der mit Bill Jones im Bunde stände!
 Denn zu dieser Annahme paßte ja am besten die Tatsache,
-daß Dolling die Höhle nicht hatte betreten wollen, vaß ex
-sogar den kleinen Goddlepy jo energiih von dem Höhlen-
-eingang weggedrängt hatte, al3 ob er müßte, daß wir beide
-fane auf der jhwantenden Pyramide al3 Todestandidaten
-äßen! y
+daß Dolling die Höhle nicht hatte betreten wollen, daß er
+sogar den kleinen Goddlepy so energisch von dem Höhleneingang
+weggedrängt hatte, als ob er müßte, daß wir beide
+jage auf der jhwantenden Pyramide als Todeskandidaten
+Späßen!
 
-Und nun — nun hatte ih von Chester Dolling wieder
-einen ganz anderen Eindru>k gewonnen! Nun bemitleidete
-D ihn fast. Er konnte kein verworfener, schle<ter Mensch
+Und nun — nun hatte ich von Chester Dolling wieder
+einen ganz anderen Eindruck gewonnen! Nun bemitleidete
+ihn fast. Er konnte kein verworfener, schlechter Mensch
 ein! —
 
-Meine Gedanken wandten sich dann meiner augen»
-bli>licheni Lage zu, denn — weiter no< über Bill Fones?
+Meine Gedanken wandten sich dann meiner augen-blicklicheni
+Lage zu, denn — weiter noch über Bill Jones?
 Trick nachzusinnen und über all die dunklen Punkte dieser
-Geschehnisse, war ja zwe>los. Nur eines Harald Harfst
-glänzende Geistesgaben fonnten sich aus alledem einen Vers
+Geschehnisse, war ja zwecklos. Nur eines Harald Harst
+glänzende Geistesgaben konnten sich aus alledem einen Vers
 machen, nicht die meinen.
 
-Jh war eingeschlossen. Das wollte nicht viel besagen.
+Ich war eingeschlossen. Das wollte nicht viel besagen.
 Ein Patentdietrih-lag in meinem Koffer.
 
-Aber — sollte i hier im Zimmer warten, bi3 Harald
-fäme?! Sollie ih ihm nicht lieber s<hleunigst mitteilen, was
-ib nunmehr von Dolling hielt?!
+Aber — sollte ich hier im Zimmer warten, bis Harald
+käme?! Sollte ich ihm nicht lieber schleunigst mitteilen, was
+Ab nunmehr von Dolling hielt?!
+
 <@pagebreak/>
-2299929299032 7 2 999999999.»
+Ich entschloß mich zu warten — bis neun Uhr. Dann.
+wurde es dunkel. Dann...
 
-Jh entschloß mich zu warten — bis neun Uhr. Dann.
+Ah — da abermals über mir die Schritte, die bisher
+verstuarmt gewesen...
 
-wurde es dunkel. Dann
-Ah — da abermals über mir die Schritte, die bishex
-verstuarmt gewesen .
-
-Und — — abermals gleichzeitig an der Tüv leise Ge-
-räusche. Es kam jemand. Sch warf mich auf das Bett,
+Und — — abermals gleichzeitig an der Tür leise Geräusche.
+Es kam jemand. Ich warf mich auf das Bett,
 nahm die vorige Stellung wieder ein. — Die Tür ging
 leise auf, wurde von innen wieder verschlossen.
 
 Nun — Schritte über mir — — und Schritte hier
 im Zimmer. Ein Korbsessel knarrte unter dem Gewicht
-eines Menschen, der si hineinseßte. Dann — — nah
+eines Menschen, der sich hinstreckte. Dann — — nach
 
-einer Weile jpürte ich Zigarettenrau<h! Das war Haralds
-Mirakulum — unverkennbar an dem süßlichen Geruch. Sch
-blinzelte durch die Augenwimpern ... Sch jah Harft ge
-mittlih am Tifche figen.... .
+einer Weile spürte ich Zigarettenrauch! Das war Haralds
+Mirakulum — unverkennbar an dem süßlichen Geruch. Ich
+blinzelte durch die Augenwimpern... Ich sah Harst ge
+wirklich am Tische Eigen....
 
-„Du kannst getrost aufstehen, mein Alter,“ sagte er
-ziemlich laut. „Dolling glaubt, uns bis zum Morgen ein-
-geschläfert zu haben. — Hm — da geht ja der Gefangene
-schon wieder auf und ab. Jh denke, wir schen v au, daß
-wir jeht schon seine Bekanntschaft machen « Sg
+»Du kannst getrost aufstehen, mein Alter,« sagte er
+ziemlich laut. »Dolling glaubt, uns bis zum Morgen eingeschläfert
+zu haben. — Hm — da geht ja der Gefangene
+schon wieder auf und ab. Ich denke, wir sehen Bau, daß
+wir jetzt schon seine Bekanntschaft machen...« —
 
 Zehn Minuten drauf standen. wir vor der Tür eines
 Bodenverschlages, der über meinem Zimmer lag. Die feste
 Bretterwand des Verschlages hatte man offenbar von innen:
-mit Decken behängt, um den Schall zu dämpfen. Das Vor-
-leges<hloß war ein gutes Patentschloß. Harald brauchte
-fünf Minuten, bevor er es geöffnet hatte. — Sn dem Ver-
-\<lage herrschte Totenstille. Als nun die Tür aufging,
-fahen wir im rötlichen Abendlicht, das dur<h ein großes
-schräges Dachfenster hereinfiel, ein behaglich -ausgestattetes
+mit Decken behängt, um den Schall zu dämpfen. Das Vorlegeschloß
+war ein gutes Patentschloß. Harald brauchte
+fünf Minuten, bevor er es geöffnet hatte. — in dem Verschlage
+herrschte Totenstille. Als nun die Tür aufging,
+sahen wir im rötlichen Abendlicht, das durch ein großes
+schräges Dachfenster hereinfiel, ein behaglich ausgestattetes
 Stübchen, sahen, daß die Wände mit hellgrauen Decken
 förmlich gepolstert waren und daß — — ich niemand hier
-befand. Aber in der heißen Luft schwebte ein zarter Par-
-fümgeruh, und der Waschtis<h wies eine ganze Batterie
+befand. Aber in der heißen Luft schwebte ein zarter Parfümgeruch,
+und der Waschtisch wies eine ganze Batterie
 Fläschchen, Büchsen und andere Dinge auf, wie sie nur eine
-Dame benußtt.
+Dame benutzt.
 
 Zu meiner namenlosen Ueberraschung sagte Harald
 <@pagebreak/>
-2299200999099 y DDD 2
-
-dann mit erhobener Skimme: „Miß Dolling, bitte, verlassen
-Sie Jhr Verfted. Wir sind die beiden Deutschen, von
-denen Sannah Jhnen doch fraglos erzählt hat.“
+dann mit erhobener Stimme: »Miß Dolling, bitte, verlassen
+Sie Ihr Versteck. Wir sind die beiden Deutschen, von
+denen Sannah Ihnen doch fraglos erzählt hat.«
 
 Da — ging die Schrankttür auf... — Ein junges,
-blondes Weib, gefleidet in einem ganz leichten Weißen
-Morgenrod, stieg etwas verlegen aus dem Schranke heraus,
-— ein junges Mhödchen, deffen Geficht noch die großen, ab-
-geblaßten Narben vieler Brandwunden erkennen ließ.
+blondes Weib, gekleidet in einem ganz leichten Weißen
+Morgenrot, stieg etwas verlegen aus dem Schranke heraus,
+— ein junges Mhödchen, dessen Gesicht noch die großen, ab-geblaßten
+Narben vieler Brandwunden erkennen ließ.
 
-2 A
-——
 <@pagebreak/>
-000000000000 59 009 00o-er>,r
 
-5. Kapitel.
-Helen . . . Jones.
+<h2>5. Kapitel.</h2>
+<h3>Helen... Jones.</h3>
 
 Selbst auf die Gefahr hin, daß der geneigte Leser und
-ote schöne Leserin mir grollen, weil ih hier nun die nächsten
+Bote schöne Leserin mir grollen, weil ich hier nun die nächsten
 Stunden überspringe und meine Schilderung erst mit der
-Mitternachtstunde wieder beginne und somit vorläufig ver-
-ihmweige, wer diese Miß Dolling nun eigentlih scin mag,
+Mitternachtstunde wieder beginne und somit vorläufig verschweige,
+wer diese Miß Dolling nun eigentlich sein mag,
 die Harald aus dem Schranke hervorzauberte, — selbst auf
-diese Gefahr Hin zeige ich Shnen, verchrtefte Verehrer
-Harald Harstscher Abenteuer, jeßt Chester Dolling, der in
-seinem Arbeitszimmer vor dem großen Schreibtis<h zu-
-fanmengejunfen dasißt und bei weit geöffnetem linken
-Fenster des öfteren in die Nacht nah draußen hin auf- -
+diese Gefahr Hin zeige ich Ihnen, verehrteste Verehrer
+Harald Harstscher Abenteuer, jetzt Chester Dolling, der in
+seinem Arbeitszimmer vor dem großen Schreibtisch zusammengesunken
+Speist und bei weit geöffnetem linken
+Fenster des öfteren in die Nacht nach draußen hin auf- -
 horcht, ganz so, als ob er auf jemand wartete.
 
 Wir drei aber, Helen Dolling mit den Brandnarben,
 Harst und ich, waren bereits eine Stunde lang nebenan in
-dem kleinen Raume versteckt, den der Leser jchon kennt.
-Wir hatten in die Tapetentür drei Löcher gebohrt und konn-
-ten Chester Dolling daher mühelos im Auge behalten. —
+dem kleinen Raume versteckt, den der Leser schon kennt.
+Wir hatten in die Tapetentür drei Löcher gebohrt und konnten
+Chester Dolling daher mühelos im Auge behalten. —
 Harald hatte weder mir noch der jungen Dame, die genau
 so hieß wie Die andere blonde Tochter Dollings, auch nur
 im geringsten angedeutet, was sich in dieser Nacht ereignen
 würde.
+
 <@pagebreak/>
-229399992229 11 9999599592
+Als ich jetzt merkte, daß Dolling jemand erwartete,
+Mass er nun sogar aus einem Geheimfach seines Schreibtisches
+ein Liedes Bündel Banknoten herausnahm, da kam
+auch mir die Erleuchtung: Bill Jones würde hier heute
+erscheinen und sich das Lösegeld für die andere Helen abweichen!
+Und — dieser Bill Jones hatte, um Harst zu
+täuschen, den durchgedrückten Brief künstlich hergestellt, damit
+wir ihm nach drei Tagen — — in der Höhle aufsparen
+falten — natürlich umsonst! — Ich hatte den Trick jetzt
+durchschaut. Und — der Trick war nicht schlecht, keineswegs!
+Ein anderer wäre auch wohl darauf hineingefallen.
+Harst nicht.
 
-Als ich jest merkte, daß Dolling jemand erwartete,
-ass er nun sogar aus einem Geheimfach feines Schreib»
-tifhes ein Liedes Bündel Banknoten herausnahm, da kam
-auh mir die Erleuchtung: Bill Jones würde hier heute
-erscheinen und si das Lösegeld sür die andere Helen abv-
-holen! Und — dieser Bill Jones hatte, um Harst zu
-täuschen, den durchgedrüdten Brief künstlich hergestellt, da-
-mit wir ihm nach drei Tagen — — in der Höhle auflauezu
-folten — natürli umsonst! — Sch hatte den Trick jest
-durchschaut. Und — der Trid war nicht schlecht, keines-
-wegs! Ein anderer wäre auch wohl darauf hineingefallen.
-Harjt nicht.
-
-ind bennoch: was half mir diese Schlauheit?! Nur
-allzu viel blieb noh genau so rätselvoll wie bisher. —
+Und dennoch: was half mir diese Schlauheit?! Nur
+allzu viel blieb noch genau so rätselvoll wie bisher. —
 
 Dolling erhob sich, trat an das offene Fenster. Und
-im jelben Wioment öffnete Harald die Tapetentür — nur
+im selben Pyrmont öffnete Harald die Tapetentür — nur
 daumenbreit.
 
-„Die Haustür ift nur angelehnt,“ rief der Züchter
-feife hinaus. „Harst und Schraut habe ich FJhrem Wunsche
-gemäß betäubt. Mein Ehrenwort, daß ich nicht lüge.“
+»Die Haustür ist nur angelehnt,« rief der Züchter
+Pfeife hinaus. »Harst und Schraut habe ich Dichtem Wunsche
+gemäß betäubt. Mein Ehrenwort, daß ich nicht lüge.«
 
 Und drei Minuten später betraten Helen, die Helen
-mit den s{lanken Fingern, und der schlanke, stattliche Bill
+mit den schlanken Fingern, und der schlanke, stattliche Bill
 Jones das Zimmer.
 
-Dolling hatte shon vorher das Fenster geschlossen, die
-Vorhänge zugezogen und noch die elektris<he Krone ein»
-geschaltet.
+Dolling hatte schon vorher das Fenster geschlossen, die
+Vorhänge zugezogen und noch die elektrische Krone eingeschaltet.
 
-Die befreite Helen sank ihrem Vater mit einem Jubel-
-ruf an die Brust. Jones stand, in der Rechten eine Ne»
-petierpistole, gleichgültig an der Tür.
+Die befreite Helen sank ihrem Vater mit einem Anbetraf
+an die Brust. Jones stand, in der Rechten eine Repetierpistole,
+gleichgültig an der Tür.
 
-„Her mit dem Gelde, Mr. Dolling,“ sagte er nun
-{roff. „Ah — da liegen die Lappen ja: schon bereit.
-Uebrigens — wie wär's, wollen Sie mir die Juwelen
-nicht abkaufen?! Für 50 000 Pfund sollen Sie sie haben!“
+»Her mit dem Gelde, Mr. Dolling,« sagte er nun
+schroff. »Ah — da liegen die Lappen ja: schon bereit.
+Uebrigens — wie wär’s, wollen Sie mir die Juwelen
+nicht abkaufen?! Für 50 000 Pfund sollen Sie sie haben!«
 
-Dolling hatte ihm das Paket Banknoten schon ge-
-reiht. Mit der Linken zog Jones nun den Beutel mit
+Dolling hatte ihm das Paket Banknoten schon gereiht.
+Mit der Linken zog Jones nun den Beutel mit
 <@pagebreak/>
-99999999999 (| 999999999999
-
-den Edelsteinen aus der Tasche. „Da find fie, Mr. Dolling.
-— Wie wär's mit dem Handel?!“
+den Edelsteinen aus der Tasche. »Da sind sie, Mr. Dolling.
+— Wie wär’s mit dem Handel?!«
 
 Der Großzüchter zauderte. Dann aber... öffnete er
 abermals das Geheimfach seines Schreibtisches, entnahm
 ihm eine Blechkassette und schlug deren Deckel hoch.
 
 Ein höhnisches doppeltes Auflachen Helens und Bills
-ließ thn herumfahren.
+ließ ihn herumfahren.
 
-Jones hatte die Pistole erhoben . ..
+Jones hatte die Pistole erhoben...
 
-„Nun willen wir ja endlich, wo Sie die Hauptmenge
-Jhres Geldes verbergen!“ meinte er ironifh. „Ja, ja,
-Mr. Chester Dolling, e3 ift ganz einträglih, wenn man
-wie ih eine Schwester hat, die im Alter von zwei Fahren
-heimli<h an Kindesstatt von reichen Leuten angenommen
-wird, in diesem Falle von Shnen, Mr. Dolling, ohne Wissen
-Shrer Gattin, nachdem Jhre eigene kleine Helen im Busch-
-feuer jo furchtbar zugerichtet worden war, daß Sie sie für
+»Nun willen wir ja endlich, wo Sie die Hauptmenge
+Ihres Geldes verbergen!« meinte er ironisch. »Ja, ja,
+Mr. Chester Dolling, es ist ganz einträglich, wenn man
+wie ich eine Schwester hat, die im Alter von zwei Jahren
+heimlich an Kindesstatt von reichen Leuten angenommen
+wird, in diesem Falle von Ihnen, Mr. Dolling, ohne Wissen
+ihrer Gattin, nachdem Ihre eigene kleine Helen im Buschfeuer
+so furchtbar zugerichtet worden war, daß Sie sie für
 tot in der Höhle liegen ließen und dem Himmel dankbar
-waren, weil gerade ein Zug Digger (Goldgräber) vorbei-
-kam, bei dem Sie Erfah für die kleine Tote fanden, dazu
-noch einen Ersat, der der echten Helen völlig glih und
-Jhrer s{<wachsinnigen Frau ruhig als glü>klih Gerettete
+waren, weil gerade ein Zug Digger (Goldgräber) vorbeikam,
+bei dem Sie Ersah für die kleine Tote fanden, dazu
+noch einen Ersah, der der echten Helen völlig glich und
+Ihrer schwachsinnigen Frau ruhig als glücklich Gerettete
 zugeführt werden konnte! — Ja — da staunen Sie, daß ich
 meine Schwester mir als Verbündete gewonnen, habe, nicht
-wahr?! Diese Schwester ist eine echte Fones! Sft mein
-Blut, hat es so fein verstanden, Sannah das Geheimnis
-zu entlocken, daß Jhr Kind deshalb nachher aus der Höhle
-verschwunden war, weil ein Trupp Australneger es mit-
-nahm! — Doch — was jchwaten wir! Her mit dem
+wahr?! Diese Schwester ist eine echte Jones! Oft mein
+Blut, hat es so sein verstanden, Sannah das Geheimnis
+zu entlocken, daß Ihr Kind deshalb nachher aus der Höhle
+verschwunden war, weil ein Trupp Australneger es mitnahm!
+— Doch — was schwatzen wir! Her mit dem
 Kasten, Chester Dolling! Her damit! Und — die Juwelen
-behalten wir natürlich au<! Wenn Sie nicht gehorchen,
-könnte es passieren, dæß meine Pistole sich meldet! Also—!!“
+behalten wir natürlich auch! Wenn Sie nicht gehorchen,
+könnte es passieren, daß meine Pistole sich meldet! Also—!!«
 
-Die beiden Verbrecher, dieses würdige Geschwister-
-paar, standen mit dem Rücken nach der Flurtür hin. Und
+Die beiden Verbrecher, dieses würdige Geschwisterpaar,
+standen mit dem Rücken nach der Flurtür hin. Und
 diese Tür hatte sich lautlos geöffnet. Der kleine Goddlepy
-erschien, wollte jeßt zuspringen, wollte Fones die Waffe aus
+erschien, wollte jetzt zuspringen, wollte Jones die Waffe aus
 <@pagebreak/>
-99999999999 (2 999999999999
+der Hand schlagen, kam mit der Fußspitze unter den Teppich,
+stolperte, fiel halb auf Jones’ Schwester...
 
-der Hand schlagen, kam mit der Fußspibe unter den Teppich,
-stolperte, fiel halb auf Jones’ Schwester . .
+Jones selbst war mit einem Satz rasch ausgewichen,
+legte auf Goddlepy an, der durch Helen dem Großzüchter
+gerade vor die Füße gestoßen worden war...
 
-Jones selbst war mit einem Satz ras< ausgewichen,
-legte auf Goddlepy an, der dur< Helen dem Großzüchter
-gerade vor die Füße gestoßen worden war
-
-Ah — der cine Schnüffler!“ lachte Jones. „Bahr
-zur Sölle, Spion . . .! Genau fo wie.
+Ah — der eine Schnüffler!« lachte Jones. »Bahn
+zur Solle, Spion...! Genau so wie...«
 
 Harald — — Harald feuerte eine Sekunde früher. So
-geschah es, daß Fones’' Kugel in die Dielen fuhr . — —
+geschah es, daß Fones’’ Kugel in die Dielen fuhr... — —
 
-Sh habe niht mehr viel zu berichten. Bill Fones?
-Briestri>k war wirklich sein Yeßter Tri>k gewesen. Sones
-war tot. Seine Schwester sißt no< heute im Zuchthaus in
+Ah habe nicht mehr viel zu berichten. Bill Jones?
+Spieltisch war wirklich sein Fester Trick gewesen. Jones
+war tot. Seine Schwester sitzt noch heute im Zuchthaus in
 Melbourne. Die echte Helen, die von Harald bereits als
-Dollings e<te Tochter an der Handform erkannt worden
-twoar, als3 sie damals na<ts das Bild ihrer Mutter be»
-trachtete, war von Sannah erft vor kurzem in das Schloß
-New-London eingeshmuggelt worden, nachdem die treue
+Dollings *echte* Tochter an der Handform erkannt worden
+Ungar, alte sie damals nachts das Bild ihrer Mutter betrachtete,
+war von Sannah erst vor kurzem in das Schloß
+New-London eingeschmuggelt worden, nachdem die treue
 Alte gemerkt hatte, daß Helen mit den Verbrechern im
-Bunde stand. — Zum Schluß no< eins: Harald. erschoß
+Bunde stand. — Zum Schluß noch eins: Harald. erschoß
 das Känguruh, weil er längst ahnte, daß die Beuteltasche
-des Tieres von Helen und Jones als Verste>k für- gegen-
-seitige Zettelnachrichten benußt wurde und weil er die
-Beuteltasche eines lebenden Känguruhs nicht gefahrlos
-hätte auf ihren Fnhalt abfühlen können. Er hatte denn au
-außer den Juwelen dort noch einen Zettel gefunden. Un
+des Tieres von Helen und Jones als Versteck für- gegenseitige
+Zettelnachrichten benutzt wurde und weil er die
+Beuteltasche eines *lebenden* Känguruhs nicht gefahrlos
+hätte auf ihren Anhalt abführen können. Er hatte denn zu
+außer den Juwelen dort noch einen Zettel gefunden. an
 dieser Zettel soll den nächsten Harstband einleiten.
 
-CES
-Näcyfter Band:
-Die Motorjacht ohne Namen,
-<@pagebreak/>
-  
- 
+Nächster Band:
 
-EDE DETE
-Rabels Rriminalbüder. Bans 1:
-Das Atlantikgespenst
+__Die Motorjacht ohne Namen.__
 
-Durch iede Buchhandlung zu beziehen.
-GEL CED0E00CE
-
-GRH EUHEGH 0ER S0 EH 0ER 000TH
-Rabels Rriminalbücer, Sam 2: |
-
-Mink Tschuan |
-Durch jede Buchhandlung zu beziehen.
-VEIT ESFELHOFTHHFHIN
-<@pagebreak/>
- 
-
-S0 0E 02S D
-Î Rabels Rriminalbücder. Band 9:
-Der Rrokodillederkoifer
-
-l Durch iede Buchhandlung zu beziehen.
-Y GED DCE ED DES
-
-020 0 E006 0 CL 000 D
-Rabels Rriminalbü<her. Bans 10:
-
-Treff=Aß
-
-Durch jede Buchhandlung zu beziehen.
-SDC 0C0 CT) ELIE TDO
-
-G06
-
- 
-<@pagebreak/>
-OOo
-
-Rabels Rriminal-Bücher
-
-FIOEHEFHCKTBLEHETITT EIS ES EO
-Das Atlantikgespenst
-Mink Tschuan
-Thomas Bruc, der Sträfling
-Die rote Rose
-Die Schildkröte
-Die grüne Schlange
-Das Teekäftchen
-Die Todgemeihten
-Der Rrokodillederkoffer
-Treff=Aß
-Zu beziehen dur< jede Buchhandlung sowie direkt
-vom Verlag moderner Lektüre G, m. b. H.
-| Berlin 26, Elifabeth-Ufer 44.
-
-OOo 099029 DD
