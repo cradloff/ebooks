@@ -17,6 +17,7 @@
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
+\bLust\b	Luft
 \bMir\b	Wir
 \bmir uns\b	wir uns
 \bMr,	Mr.
@@ -30,3 +31,4 @@
 \bTer\b	Der
 \bver\b	der
 \bvor!\b	dort
+\bwirft\b	wirst

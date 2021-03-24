@@ -569,50 +569,50 @@ die auf meine Stirn gerichtet war.
 <h2>3. Kapitel.</h2>
 <h3>Die pendelnden Arme.</h3>
 
-Barring ließ mich vorüber und kletterte dann hinter mit
+Barring ließ mich vorüber und kletterte dann hinter mir
 die Leiter hinab in die Tiefe.
 
 Unter empfingen mich zwei Leute, die ebenfalls Laternen
 trugen. Von hier lief ein gemauerter Gang nordwärts,
-ein feuchter, endloser Gang, dessen Wände, Decke und Fliesen
-Dielenbelag mit gelblichem Schimmel bis überwuchert waren.
+ein feuchter, endloser Gang, dessen Wände, Decke und Fliesenbelag
+mit gelblichem Schimmel dicht überwuchert waren.
 
-Barring, ohne Maske, in einem Lederanzug mit Leder-müge,
-sagte, als er neben nie stand:
+Barring, ohne Maske, in einem Lederanzug mit Ledermütze,
+sagte, als er neben mir stand:
 
-»Es tut wir leid, daß Sie beide wir schon heute In
+»Es tut mir leid, daß Sie beide mir schon heute In
 die Hände geraten sind, Mr. Schraut. Ich hätte Sie beide
 gern noch mehr blamiert und dann erst verschwinden lassen.
-— Folgen Sie wir!«
+— Folgen Sie mir!«
 
 Er ging voran,
 
-Durch eisige Moderluft wanderten wir, hinter wir die
-beiden anderen Verbrecher, etwa eine Vicrtelsluunde dahin.
+Durch eisige Moderluft wanderten wir, hinter mir die
+beiden anderen Verbrecher, etwa eine Viertelstunde dahin.
 
 Schweigend — in einer Stille, die nur durch das Geräusch
 unserer Schritte unterbrochen wurde.
 
-Bis Barring mit halb zurückgewandtem Kopf knotet
+Bis Barring mit halb zurückgewandtem Kopf sagte:
 
 <@pagebreak/>
-»Als Lord Gnirable ferne ich die Geheimtüren des
-Schlosses, Diesen unterirdischen Sang, Der in den Tokkara-Höhlen
-endet, hat mein Aha Lord Richard, der John des
+»Als Lord Gnirable kenne ich die Geheimtüren des
+Schlosses. Diesen unterirdischen Gang, Der in den Tokkara-Höhlen
+endet, hat mein Ahn Lord Richard, der Sohn des
 hingerichteten Lord Edward, angelegt.«
 
 Dann schwieg er wieder.
 
 Meine Gedanken schwiegen nicht, hielten Zwiesprache
-mit wir, erwogen die Aussichten eines gewaltsamen Fluchtversuche.
+mit mir, erwogen die Aussichten eines gewaltsamen Fluchtversuchs.
 
 Ich hatte es hier mit drei Leuten zu tun, deren Leben,
-solle sie verhaftet wurden, verwirkt war. Es waren Mörder.
+falls sie verhaftet wurden, verwirkt war. Es waren Mörder.
 Die »große Null« hatte mehr als einen Mord auf
-ihrem Konto. Rücksicht, Schonung gegenüber diesen Schuster
+ihrem Konto. Rücksicht, Schonung gegenüber diesen Schuften
 wäre eine Dummheit gewesen.
 
-Meine Clement steckte in meiner rechten Bceinkleid-tasche
+Meine Clement steckte in meiner rechten Beinkleidtasche
 — gespannt, gesichert.
 
 Wenn ich sie unbemerkt hervorholen konnte, stand die
@@ -624,38 +624,38 @@ Harst war Gefangener. Daß Barring uns umbringen
 würde, war gewiß.
 
 Man hatte mich nicht gefesselt. Ich schritt zwischen
-den dreien, einer vor wir, zwei hinter wir, mit pendelnden
+den dreien, einer vor mir, zwei hinter mir, mit pendelnden
 Armen dahin.
 
 Ich wagte es. Wenn mein rechter Arm nach vorn
 schwang, knöpfte ich rasch einen Knopf meiner dicken Sportjacke
 auf, so rasch, daß es kaum den beiden Kerlen hinter
-wir auffallen konnte.
+mir auffallen konnte.
 
-Ich wagte noch mehr, aha die Jacke vollends offen war.
-Da Ich In die Beinkleidtasche nicht hineinfallen durfte, denn
+Ich wagte noch mehr, als die Jacke vollends offen war.
+Da Ich In die Beinkleidtasche nicht hineinfassen durfte, denn
 dies hätte bemerkt werden müssen, wollte Ich aus meiner
-Westentasche mein Federmesser hcrauêänchmen und das
+Westentasche mein Federmesser herausnehmen und das
 Beinkleid dann auftrennen, ebenso die Tasche.
 
 <@pagebreak/>
-Ich Schminke jetzt vor Innerer Aufregung, als ich wirklich
+Ich schwitzte jetzt vor innerer Aufregung, als ich wirklich
 das Messerchen glücklich zwischen den Fingern hielt,
 
 Die Klinge zu öffnen, war nicht schwierig. Sie war
 haarscharf.
 
-Dann der erste Schnitt Aber den rechten Oberschenkel
+Dann der erste Schnitt über den rechten Oberschenkel
 hinweg.
 
-Seht noch einer — mit jeder Pendelbewegung einer.
+Jetzt noch einer — mit jeder Pendelbewegung einer.
 
 Schließlich fühlte Ich, daß der Stoff zerfetzt war und
 die Klinge über Metall hinwegglitt — über die Clement.
 
 Und da gerade wandte Barring wieder den Kopf...
 
-Mein Herzschlag flehte...
+Mein Herzschlag stockte...
 
 Aber Barring sagte nur in seiner selbstbewußt nachlässigen
 Art:
@@ -666,43 +666,43 @@ Und drehte das Gesicht wieder nach vorn.
 
 Ich atmete auf.
 
-Noch ein Schnitt — ein rasches Tassen mit den Fingern.
+Noch ein Schnitt — ein rasches Tasten mit den Fingern.
 
-Ich... spürte Bad Metall der Waffe. Die Tasche
+Ich... spürte das Metall der Waffe. Die Tasche
 war ebenfalls zerfetzt.
 
 Nun das Messer weg — zurück in die Weste.
 
-Nun ein klecker Ort — ein und — ein schnelles
+Nun ein kecker Griff — ein Ruck — ein schnelles
 Zurückschieben der Sicherung...
 
-Und dann — mit dem Metallkolben ein Blibartiger
-Schlag nach vorn — auf Barrings Hinterfront...
+Und dann — mit dem Metallkolben ein blitzartiger
+Schlag nach vorn — auf Barrings Hinterkopf...
 
-Ein Herungfihnelfen...
+Ein Herumschnellen...
 
 Die Kerle hatten ihre Pistolen schon halb erhoben,
 
 Auf kaum vier Schritt feuerte ich...
 
-Andermal...
+Zweimal...
 
-Die Laternen polierten zu Boden — auch diese
-Laternen. ».
+Die Laternen polterten zu Boden — auch diese
+Laternen...
 
-Auch diese beiden Gegner mitten um — für immer,
+Auch diese beiden Gegner knickten um — für immer...
 
 <@pagebreak/>
-Und Barring lag da — regung£los, auf dem Gesicht
-wie ein gefüllter Baum.
+Und Barring lag da — regungslos, auf dem Gesicht
+wie ein gefällter Baum.
 
 Ein Schwindel packte mich...
 
 Jetzt, wo der Streich gelungen, kam der Rückschlag nach
 der ungeheuren Aufregung.
 
-Die drei Laternen brannten auf den liefen mit teil:
-weise zertrümmerten Gläsern weiter.
+Die drei Laternen brannten auf den Fliesen mit teilweise
+zertrümmerten Gläsern weiter.
 
 Barrings Kumpane waren übereinander gestürzt. Ich
 hatte nur zu gut getroffen. Stirnschüsse wirken ja meist
@@ -711,14 +711,14 @@ blitzartig.
 Ich stierte auf die Toten...
 
 Dachte da an den nur bewußtlosen Barring. Und
-wurde wieder Herr Aber meine Nerven.
+wurde wieder Herr über meine Nerven.
 
 Fesselte, knebelte Barring mit Taschentüchern, mit dem
 Gürtel seiner Lederjacke.
 
 Löschte zwei der Laternen aus, nahm die dritte unter
-meine Jacke, verhüllte den Lichtschein und hantiere, ob
-jemand von den Tokkara-Höhlen her nahen wirke, herbeigelockt
+meine Jacke, verhüllte den Lichtschein und wartete, ob
+jemand von den Tokkara-Höhlen her nahen würde, herbeigelockt
 durch die beiden Knalle der Clement.
 
 Im Dunkeln lehnte ich an der feuchten, von Schimmel
@@ -731,25 +731,25 @@ Totenstille.
 
 Hinter wir lagen ja auch zwei Tote.
 
-sich begann zu zählen. Nach fünf Minuten wollte ich
+Ich begann zu zählen. Nach fünf Minuten wollte ich
 weiter — weiter den Tokkara-Höhlen zu, die ich mit Harst
-bereits dreimal in den Traten Tagen Durchforscht.1te. Wir
+bereits dreimal in den letzten Tagen durchforscht hatte. Wir
 hatten dort keinerlei Beweis gefunden, daß dort jemand
 sich verborgen hielt, hatten sämtliche Nebengrotten aufs genaueste
-Durchfahrt, auch auf geheime Türen hin.
+durchsucht, auch auf geheime Türen hin.
 
 Ich zählte, horchte...
 
 <@pagebreak/>
-War bis 163 gekommen, als Ich ausschickte,
+War bis 163 gekommen, als Ich aufschreckte,
 
 Jemand kam...
 
 Ohne Zweifel...
 
 Ich hörte nur hin und wieder ganz schwache Geräusche.
-Ich drückte mich eng an die Wand, Wollte die Laterne enthüllen,
-sobald der Ruhende oder die Nahenden fidel Barrings
+Ich drückte mich eng an die Wand. Wollte die Laterne enthüllen,
+sobald der Nahende oder die Nahenden über Barrings
 Körper stolperten. Wollte feuern — rücksichtslos...
 
 Auge um Auge, Zahn um Zahn!!...
@@ -762,17 +762,17 @@ Hörte nichts — fühlte den Schweiß über meine Wangen
 laufen — fühlte meine Knie zittern...
 
 Lange hielt ich diese furchtbare Anspannung aller Nerven
-nicht mehr zu...
+nicht mehr aus...
 
 Umsonst bohrte ich meine Augen in die Finsternis
-vor wir...
+vor mir...
 
-Bis — da ein ganz dünner Lichtfaden aufsuchte wie ein
+Bis — da ein ganz dünner Lichtfaden aufzuckte wie ein
 weißer Strich und Barrings Gesicht traf und — — erlosch.
 
-Und - — jemand leise sagte;
+Und — jemand leise sagte:
 
-»bist Du in der Nähe, mein Alter f«
+»bist Du in der Nähe, mein Alter?«
 
 <@pagebreak/>
 
@@ -781,8 +781,8 @@ Und - — jemand leise sagte;
 
 Meine Jacke gab die Karbidlampe frei.
 
-»Harald — Das 1» — Das war Ueberraschung, Freude,
-war die Seligkeit, hier mit Diesen Schieden der Unterwelt
+»Harald — Du?!« — Das war Ueberraschung, Freude,
+war die Seligkeit, hier mit Diesen Schrecken der Unterwelt
 nicht mehr allein zu sein.
 
 Er schaltete seine Taschenlampe wieder ein und sah nun
@@ -791,97 +791,96 @@ die Toten.
 »Sie haben’s verdient,« meinte er nur... »Eine böse
 Nacht — für Barring!«
 
-Er bückte sich und untersuchte die Fesseln des Verpaßt
-sogen, zog sie Erhärtet zu, nahm noch sein Taschentuch zu
+Er bückte sich und untersuchte die Fesseln des Bewußtlosen,
+zog sie schärfer zu, nahm noch sein Taschentuch zu
 Hilfe.
 
 »Komm!« sagte er dann. »Du wirst staunen!«
 
-Er kehrte im, kehrte nach den Tokkara- Höhlen zurück.
+Er kehrte um, kehrte nach den Tokkara- Höhlen zurück.
 
-und berichtete im Gehen! »Je! hatte Eintrat, Bus Eis
-sei Bilder der Ballerte den allen Baptiste als Durchschlupf
-gedient hatte, Ich praller daher allerlei, um den Trick
-veraussuftiden, wie sich eins der Gemälde von der Wand
-enden ließe. so entdecke ich Bad bewegliche Messingbild,
+und berichtete im Gehen: »Ich hatte geahnt, daß eins
+der Bilder der Galerie dem alten Baptiste als Durchschlupf
+gedient hatte. Ich probierte daher allerlei, um den Trick
+herauszufinden, wie sich eins der Gemälde von der Wand
+wegrücken ließe. so entdecke ich das bewegliche Messingbild,
 <@pagebreak/>
 stieg in Das Türloch hinein, nachdem ich den Zettel
-für Dich geschrieben hatte, und wurde unten an der Keller
-von drei Kerlen überrumpelt, die grünlich an meiner Kehle
-hingen und wir noch einen Hieb gegen die Herzgrube herrschten.
+für Dich geschrieben hatte, und wurde unten an der Leiter
+von drei Kerlen überrumpelt, die plötzlich an meiner Kehle
+hingen und mir noch einen Hieb gegen die Herzgrube versetzten.
 Sie schleppten mich durch diesen Gang davon. Wohin
-— das wirft Du legt Sehen.«
+— das wirst Du jetzt sehen.«
 
 Ja — ich sah, daß der Gang ein Ende hatte, daß aber
 ein Loch im Boden halb durch eine eiserne verrostete Leiter
 ausgefüllt war.
 
-Harst stieg abwärts. Ich hinterdrein, Die Leiter
+Harst stieg abwärts. Ich hinterdrein. Die Leiter
 stand mit ihrem Fußende in einer etwas über Manneslänge
-hohen Grotte, in der acht brennende Laternen an den Wä
-den verteilt waren
+hohen Grotte, in der acht brennende Laternen an den Wänden
+verteilt waren
 
-»Bitte,« sag Harald »Dies ist Barrings Schlagt
-Winkel.«
+»Bitte,« sagte Harald. »Dies ist Barrings Schlupfwinkel.«
 
-Ich sagte nichts. Ah schaute nur.
+Ich sagte nichts. Ich schaute nur.
 
 Wahrlich — behaglicher ist wohl noch nie eine Räuberhöhle
 eingerichtet gewesen wie diese! Klubsessel, Schränke,
-Tische, Nuhcbetten, Gestelle mit Büchern, Teppiche, Wandbehänge,
-ein großer eiserner Ofen, ein Kochherd, ein je
-schirrschrank — — nichts fehlte hier!
+Tische, Ruhebetten, Gestelle mit Büchern, Teppiche, Wandbehänge,
+ein großer eiserner Ofen, ein Kochherd, ein Geschirrschrank
+— — nichts fehlte hier!
 
 Aber das war nicht alles!
 
 Auf dem größten Tisch lagen drei Männer, die Gesichter
-nach oben, sestgcscuürt mit Stricken, geknebelt.
+nach oben, festgeschnürt mit Stricken, geknebelt.
 
-»Teetasse, das, ich Dich mit Sektion eins der großen
+»Gestatte, daß ich Dich mit Sektion eins der großen
 Null bekannt mache,« meinte Harald völlig ernst und trat
-an den Tisch heran. »Dies hier ist Mr. J6umes Orden, früher
-Reitknecht des Lord Allan Gnirable, veischsvunden seit dem
-April. — Dies ist der zweite Inspektor des Schloßgutes,
-Mr. Ware, eben bis verschwunden seit dem achten. Und
-dieser Herr sschlieflich ist der sehr ebrenwcle Mr. Tobergoul,
-Mailand zweiter Chauffeur seines Herrn, des Gebt 3 Sie
+an den Tisch heran. »Dies hier ist Mr. James Olden, früher
+Reitknecht des Lord Allan Gnirable, verschwunden seit dem
+8\. April. — Dies ist der zweite Inspektor des Schloßgutes,
+Mr. Baine, ebenfalls verschwunden seit dem achten. Und
+dieser Herr schließlich ist der sehr ehrenwerte Mr. Tobergoul,
+weiland zweiter Chauffeur seines Herrn, des Gebieters über
 <@pagebreak/>
-Schloß C ’!r und über die große Null. Auch er ist seit jenem
-Tage übercsällig. — Tiefe drei bilden Sektion eins der
-großen Null, wie Barring wir anvertraute, als ich dort in
+Schloß Gnir und über die große Null. Auch er ist seit jenem
+Tage überfällig. — Diese drei bilden Sektion eins der
+großen Null, wie Barring mir anvertraute, als ich dort in
 jenem Sessel, bewacht von den Revolvern der Sektion eins,
-recht weiß und warm saß. Der Ofen ist ja geheizt. Dann
-verließ Barring mit den Ueberresten der Sektion drei, gänzlich
-den beiden Leuten, die Du sehnt erledigt hast, diesen
+recht weich und warm saß. Der Ofen ist ja geheizt. Dann
+verließ Barring mit den Ueberresten der Sektion drei, nämlich
+den beiden Leuten, die Du jetzt erledigt hast, diesen
 Schlupfwinkel und empfahl mich der Obhut der drei Herren,
 die nun hier gefesselt liegen und uns so wenig freundlich
-aufblicken. Ich saß also dort im Sessel, und Sektion eins
+anblicken. Ich saß also dort im Sessel, und Sektion eins
 dachte, ich sei nun für immer unschädlich gemacht. So sicher
 waren die Herrschaften ihrer Sache, so sehr vertrauten sie
-ihren Revolvern, daß sie wir erlaubten, eine Zigarette zu
+ihren Revolvern, daß sie mir erlaubten, eine Zigarette zu
 rauchen...«
 
 Als er all dies mit seiner so unendlich überlegenen
 Ironie vorgebracht hatte, als er jetzt die Zigaretten erwähnte,
-ging wir.... ein Licht auf.
+ging mir... ein Licht auf.
 
 »Ah — die linke Seite des Etuis!« sagte Ich rasch.
 
-»Ja — die linke Seite, wo lies die präparierten fünf
-Mirakulum Flecken,« nickte Harald. »Die drei Herren waren
+»Ja — die linke Seite, wo stets die präparierten fünf
+Mirakulum stecken,« nickte Harald. »Die drei Herren waren
 so höflich, sich zu bedienen, als ich ihnen das Etui hinhielt.
-Sie sahen ja, daß wir die Zigarette nichts antat. Freilich
-— die meine war die lebte der rechten Seite, der unpräparierten.
-Unnatürlich wurde den Herren dann sehr bald
+Sie sahen ja, daß mir die Zigarette nichts antat. Freilich
+— die meine war die letzte der rechten Seite, der unpräparierten.
+Natürlich wurde den Herren dann sehr bald
 schwindelig, und diesen Umstand durfte ich in aller Ruhe für
-mich ankratzen. So sank sich Sektion eins nachher auf dem
+mich ausnutzen. So fand sich Sektion eins nachher auf dem
 Tische wieder vor. — Ich werde jetzt Barring holen, mein
 Alter. Und dann...«
 
-Ich Brite Sucht Sänger kneipen.
+Ich konnte nicht länger schweigen.
 
-»Lord John un. Sacht Tossing sind ermordet worden,«
-plagte ich Ab, Braut.
+»Lord John und Harry Tossing sind ermordet worden,«
+platzte ich heraus.
 
 Haralds Augen weiteten sich.
 
@@ -891,44 +890,44 @@ Haralds Augen weiteten sich.
 Ich tat’s in aller Hast.
 
 »Gut — Barring wird reden müssen!« meinte Harst in
-unhcilvollem Tone, »Warte hier. Ich hole ihn.« —
+unheilvollem Tone. »Warte hier. Ich hole ihn.« —
 
 Lionel Barring, der entthronte Lord, saß fünf Minuten
 später uns gegenüber in einer Ecke der Grotte in einem der
 Sessel. Zwischen uns stand ein Rauchtischchen mit Kupferplatte
-und kupfernen Rauchservice darauf.
+und kupfernem Rauchservice darauf.
 
 Barring war bei Bewußtsein und Hatte sich auch von
 dem Hiebe mit dem Pistolenkolben vollständig erholt. Sein
-vornehmes Gesicht, denn daß dieses Verbrecherantliÿy etwas
-ausgesprochen aristokratische? an sich hatte, mußte man
+vornehmes Gesicht, denn daß dieses Verbrecherantlitz etwas
+ausgesprochen aristokratisches an sich hatte, mußte man
 diesem Schurken schon zubilligen, — sein Gesicht war von
-einem heiteren, so!; sen Lächeln in eine Maske einzog«
-losen Sicherheitsgefühls verwandelt, das in dieser Lage unmöglich
+einem heiteren, sorglosen Lächeln in eine Maske zwanglosen
+Sicherheitsgefühls verwandelt, das in dieser Lage unmöglich
 echt sein konnte.
 
 Harald beobachtete ihn eine geraume Weile und
-sagte dann;
+sagte dann:
 
 »Sie haben verspielt, endgültig verspielt. Nach sechs
-Wochen wird man Sie auf knüpfen, Ihr Maß ist vor. Diese
-beiden Morde in dieser Nacht liefern Sie in kürzesten Zeit
+Wochen wird man Sie aufknüpfen. Ihr Maß ist voll. Diese
+beiden Morde in dieser Nacht liefern Sie in kürzester Zeit
 dem Henker aus.«
 
-Barrings Lächeln blieb,. — Ich aber wunderte mich über
-diese banalen Nedenöarten Harsts. Hatte Harald diesem
+Barrings Lächeln blieb. — Ich aber wunderte mich über
+diese banalen Redensarten Harsts. Hatte Harald diesem
 Scheusal nichts anderes zu sagen?! — Barring lächelte
-weiter und Schlafes.
+weiter und schwieg.
 
-Da beugte Harst sich Halb fidel das Tischchen. Seine
-Stimme war messerscharf. »Mensch, glauben Sie mich des
-trugen zu können?!« meinte er, wohl albsichllih langsam
-sprechend »Was Ed 111 wir über das wußte Aussehen der
-beiden Schlafzimmer und über die deutliches Spuren bis er
-Straße erzählt bar, läßt mich mit Bestimmtheit annehmen
+Da beugte Harst sich halb über das Tischchen. Seine
+Stimme war messerscharf. »Mensch, glauben Sie mich betrügen
+zu können?!« meinte er, wohl absichtlich langsam
+sprechend. »Was Schraut mir über das wüßte Aussehen der
+beiden Schlafzimmer und über die deutlichen Spuren bis zur
+Straße erzählt hat, läßt mich mit Bestimmtheit annehmen,
 <@pagebreak/>
-daß Lord Den eben entführt wurde, und daß die Zimmer
-künstlich von Harry Tossing so zugerichtet wurden«
+daß Lord John eben entführt wurde, und daß die Zimmer
+künstlich von Harry Tossing so zugerichtet wurden.«
 
 Barring wurde ernst und ich hielt vor Spannung den
 Atem an. — Was sollte das?! Harry Tossing sollte also
@@ -937,44 +936,44 @@ mit Barring im Bunde stehen?!
 Und dieser Barring verbeugte sich nun. »Allerhand
 Achtung, Mr. Harst. Sie haben’s also gemerkt...!«
 
-»Ja, bei dem Empfangdfouper. Da sah ich Ihre oder
-besser Zerfurcht Hände, was ja auch dasselbe ist, Wer so
-beuge, schmale aristokratische Hände hat wie Sie, trägt ein
+»Ja, bei dem Empfangssouper. Da sah ich Ihre oder
+besser Tossings Hände, was ja auch dasselbe ist. Wer so
+lange, schmale aristokratische Hände hat wie Sie, trägt ein
 untrügliches Kennzeichen mit sich herum.«
 
-Barring nickte, »Leider — leider! — Ich Hatte mich
+Barring nickte. »Leider — leider! — Ich Hatte mich
 an John Backhurst schon vor einem halben Jahre in der
 Maske des Tossing herangemacht, da ich damit rechnete, daß
 man mich eines Tages entlarven und John mein Nachfolger
-als Lord. Gnirable werden würde. Ich wollte auf John
+als Lord Gnirable werden würde. Ich wollte auf John
 rechtzeitig Einfluß gewinnen. Die Telephongespräche mit den
 Redaktionen in London hat ein Freund für mich beerdigt. Ich
 war in London.«
 
-Ah — werd ein Schurke war das nur!! Ein Schurke,
+Oh — welch ein Schurke war das nur!! Ein Schurke,
 dessen raffinierte Verderbtheit beinahe meine Bewunderung
 erregte!
 
-»Im übrigen sind Ehe Im Irrtum, Mr. Harst,« fuhr er
+»Im übrigen sind Sie im Irrtum, Mr. Harst,« fuhr er
 Ebenso kaltblütig fort. »Ich bin nicht verloren. Es sei denn,
 daß Sie Lord John verhungern lassen wollen. Ich habe
 Ihn, nachdem ich ihn betäubt hatte, mit Hilfe der beiden von
 Mr. Schraut erschossenen Leute an einen Ort gebracht, wo
-Sie ihn nie finden werden — nie! Diesen Ort lerne nur
+Sie ihn nie finden werden — nie! Diesen Ort kenne nur
 ich, und die beiden Toten kannten ihn auch. Sonst niemand.
 Mein Ehrenwort darauf. Wenn John also befreit werden
-soll, müssen Sie auch wir die Freiheit schenken. Ich will Sie
+soll, müssen Sie auch mir die Freiheit schenken. Ich will Sie
 beide, sobald Sie wir die Freiheit zugesichert haben, an
 <@pagebreak/>
-Jenen Ort führen Sie werden dann zugeben, daß dieses
+Jenen Ort führen. Sie werden dann zugeben, daß dieses
 Versteck von Ihnen niemals gefunden worden wäre. — Ich
-spiele hier jetzt ein ehrliches Spiel, Dir. Harst. Mein Leben
+spiele hier jetzt ein ehrliches Spiel, Mr. Harst. Mein Leben
 gegen das Lord Johns! Es ist ein anständiger Handel.«
 
-Harald blickte Barring durchdringend an, Der hielt
+Harald blickte Barring durchdringend an. Der hielt
 diesen Blick ruhig aus.
 
-»Gut,« sagte Harst. »Wenn ich feststellte, daß der Ort
+»Gut,« sagte Harst. »Wenn ich feststelle, daß der Ort
 für mich unauffindbar gewesen wäre, sollen Sie frei sein.«
 
 Er erhob sich und entfernte die Fesseln von Barrings
@@ -988,8 +987,8 @@ Füßen.
 Barring trat an den großen Tisch heran, auf dem die
 drei Leute von Sektion eins lagen.
 
-Ich verabschiede mich von Euch,« sagte er nicht ohne
-Herzlichkeit. »he Habt wir treu gedient. Man wird Euch
+»Ich verabschiede mich von Euch,« sagte er nicht ohne
+Herzlichkeit. »Ihr Habt mir treu gedient. Man wird Euch
 ins Zuchthaus sperren, mehr nicht. Die Hoffnung bleibt
 Euch. Diese Hoffnung bin ich, das wißt Ihr!«
 
@@ -997,58 +996,58 @@ Harst mit der schußfertigen Clement in der Rechten
 meinte ungeduldig: »Vorwärts Barring! Wir haben keine
 Zeit zu verlieren. Auch der alte Diener Baptiste, der schon
 ihrem Vater in Wahrheit ehrlich und treu diente, kennt
-ebenfalls das Geheimnis des Ahnenbildes, Wenn er Detektivinspektor
+ebenfalls das Geheimnis des Ahnenbildes. Wenn er Detektivinspektor
 Groubby hierher führt, ist unser Handel hinfällig.«
 
-Barring Hatte sich mit einem und angeklebt. Sein
+Barring Hatte sich mit einem Ruck umgedreht. Sein
 Gesicht drückte mehr Staunen als Bestürzung aus. Dann
 verzog sich sein Mund zu einem geringschätziger Lächeln.
-Baptiste kennt das Geheimnis der Tokkara-Höhlen nicht!«
-sagte er achselzuckend. »Folgen Sie wir!«
+»Baptiste kennt das Geheimnis der Tokkara-Höhlen nicht!«
+sagte er achselzuckend. »Folgen Sie mir!«
 
 <@pagebreak/>
-Und er schritt der Eisenleiter ‘:, bli2b neben ihr stehen.
-»Hier hinauf, bitte... »1»
+Und er schritt der Eisenleiter zu, blieb neben ihr stehen.
+»Hier hinauf, bitte...!«
 
 Harst kletterte voran, nachdem er Barrings Hände vor
 der Brust gefesselt Hatte, Daß der Verbrecher die Sprossen
-lassen konnte.
+fassen konnte.
 
 Als wir drei dann oben in dem feuchten, eisigen Gange
 standen, sagte Barring wieder: »Hundert Meter von hier
-zweigt ein verborgener Seitengang ab. Bitte — suchen Ehe
+zweigt ein verborgener Seitengang ab. Bitte — suchen Sie
 die Tür.«
 
-Harst zählte Dar Schritte hundert Meter ab. Aber —
-die Tür sanken wir nicht. — Barring lächelte im Lichte der
+Harst zählte durch Schritte hundert Meter ab. Aber —
+die Tür fanden wir nicht. — Barring lächelte im Lichte der
 Laternen. »Sofort! — Geben Sie acht!« meinte er, bückte
 sich und schob die beiden Mittelfinger in eine Fuge des
 schimmelbedeckten Mauerwerks. Im selben Moment vor uns
 von der Decke des Ganges ein Knarren und Kreischen: ein
-langes viereckige? Stück der Decke, nur ein sicheres starkes
+langes viereckiges Stück der Decke, nur ein eichenes starkes
 Brett, senkte sich mit der einen Kante herab bis zum Boden.
-Auf dem Brett befanden sich Leisten, die das Herausreichen
+Auf dem Brett befanden sich Leisten, die das Heraufsteigen
 erleichterten.
 
 Barring mußte als erster empor. Oben fanden wir
-eine Grotte, die ebenfalls zu den Tokkara-Lohten gehörte. —
-Das Merkt halte Barring rasch wieder in die alte Lage
-zurückgebracht. Nun fragte er: »Sätzen Sie diese Falltür
-entdeckt, Wir. Harst?«
+eine Grotte, die ebenfalls zu den Tokkara-Höhlen gehörte. —
+Das Brett hatte Barring rasch wieder in die alte Lage
+zurückgebracht. Nun fragte er: »Hätten Sie diese Falltür
+entdeckt, Mr. Harst?«
 
 »Nein,« antwortete Harald ehrlich.
 
 »So — dann will ich Ihnen zeigen, daß man auch von
-der Haupthöhle nicht in diese Grotte hincinsindet.«
+der Haupthöhle nicht in diese Grotte hineinfindet.«
 
-Er schritt vorwärts, geschnitzt Durch ein Labyrinth von
+Er schritt vorwärts, schritt Durch ein Labyrinth von
 kleinen Höhlen und Gängen — bis an eine Stelle, wo ein
-unterirdischer Fluß als Wasserfall über einen seltenen
-gelten hinab stürzte und durch ein Loch im Boden verschwand,
-Diesen Fluß raunten wir, da er auch in der Haupt ölte eine
+unterirdischer Fluß als Wasserfall über einen schroffen
+Felsen hinabstürzte und durch ein Loch im Boden verschwand.
+Diesen Fluß kannten wir, da er auch in der Haupthöhle eine
 <@pagebreak/>
-Friede entlangfiömte. — Barring deutete auf das Felsloch,
-das fast ganz mit aufgeladen, schäumenden Wassern Aushilfe
+Strecke entlangströmte. — Barring deutete auf das Felsloch,
+das fast ganz mit gurgelnden, schäumenden Wassern ausgefüllt
 war. »Wer den Mut hat, sich dem Flusse und diesem
 Kanal anzuvertrauen, gelangt in die Haupthöhle — anders
 nicht! Aber — er gelangt als Leiche dorthin. Drei meiner
@@ -1058,43 +1057,43 @@ Harst. Ich will frei sein!«
 Zurück ging’s, abermals durch das Labyrinth in einer
 engen Spalte, die wir schon vorhin passiert hatten,
 »Hier befindet sich der Eingang zur Lord Johns Zelle,« erklärte
-er. »Suchen Sie«
+er. »Suchen Sie!«
 
-»Es genügt, Barring. Oeffnen Sie den Eingang.
+»Es genügt, Barring. Oeffnen Sie den Eingang.«
 
 Barring hob die gefesselten Hände. »Sehen Sie hier
 diese Zacke — dann die — dann die — im ganzen acht. Man
-Zaun mit Hilfe dieser Vorsprünge bequem nach oben lklimmen.
+kann mit Hilfe dieser Vorsprünge bequem nach oben klimmen.
 Die Decke dieser Felsspalte hat nach links hin, von hier unsichtbar,
 eine breite, hohe Ausbuchtung, in der man aufrecht
-sicher kann. Dort befindet sich eine eiserne Tür mit drei
+stehen kann. Dort befindet sich eine eiserne Tür mit drei
 Riegeln.«
 
-Harst kletterte empor. Barring folgte schwankt. Und
-kam als lebten nach oben.
+Harst kletterte empor. Barring folgte gewandt. Und
+kam als letzter nach oben.
 
 Die eiserne Tür war in eine Spalte eingefügt worden,
 deren übrige Teile man durch Felsstücke zugemauert hatte.
 
-Harald schob die Riegel weg, sagte zu wir: »Bei dem
-geringsten. Anzeichen von Hinterlist schießt Du Barring
-nieder.
+Harald schob die Riegel weg, sagte zu mir: »Bei dem
+geringsten Anzeichen von Hinterlist schießt Du Barring
+nieder.«
 
-»Das rasch nicht nôug sein,« meinte Barring kühl.
+»Das wird nicht nötig sein,« meinte Barring kühl.
 
-Die Tür ging aus. Wir hatten eine kleine Grotte vor
-ins, die mit einigen Wiobeifhiden versehen war. vielmehr
-Tische »Knoten zwei Petroleumslaternen.
+Die Tür ging auf. Wir hatten eine kleine Grotte vor
+uns, die mit einigen Möbelstücken versehen war. Auf einem
+Tische brannten zwei Petroleumlaternen.
 
-Barring rief plötzlich — und daß er ersehen.!en war,
-tiefste ich seiner Stimme an:
+Barring rief plötzlich — und daß er erschrocken war,
+merkte ich seiner Stimme an:
 
 <@pagebreak/>
-»Lord John ist nicht hier! Mein Gott, sollte er China..«
+»Lord John ist nicht hier! Mein Gott, sollte er etwa...«
 
 Ich hatte mich an Barring vorbeigedrängt. Seine Bestürzung
 war so echt, daß auch Harald für Sekunden alle
-Vorsicht außer acht ließ und nun suchend den Raum überblicke.
+Vorsicht außer acht ließ und nun suchend den Raum überblickte.
 
 Dann — ein Knall hinter uns...
 
@@ -1104,12 +1103,12 @@ hatte die Riegel vorgeschoben.
 Und von draußen durch die Eisentüre nur ganz schwach
 seine Stimme:
 
-»Es war ein ehrlicher Handel! Daß Lord John ehrt
+»Es war ein ehrlicher Handel! Daß Lord John sich
 selbst den Tod gegeben, ahnte ich nicht!«
 
 Dann — Stille...
 
-Harald schaute mich an. »Deine Schuld! Du Sättel
+Harald schaute mich an. »Deine Schuld! Du hättest
 hinter ihm bleiben sollen.«
 
 Ich senkte beschämt den Kopf und schwieg.
@@ -1118,7 +1117,7 @@ Wir waren gefangen.
 
 Aber — wo war Lord John — — wo?! — —
 
-Dies und anderes kläre ich in... fünf Sekunden auf
+Dies und anderes kläre ich in... fünf Sekunden auf.
 
 <@pagebreak 33/>
 
@@ -1132,15 +1131,15 @@ Um fünf Sekunden
 <h3>Der Backofen.</h3>
 
 Ich habe bereits im vorigen Band erwähnt, daß das
-Stäbchen Lammerty bei Nordwind zumeist in Nebel und
+Städtchen Lammerty bei Nordwind zumeist in Nebel und
 dünne Rauchschwaden gehüllt ist. Diese Rauchschwaden
 rühren von einem unterirdisch brennenden Teile des Lammerty-Hochmoores,
-Besty Barry genannt her. 8000 Quadrate
-Meter umfaßt dieses in den Ticken des Torfmoores sei!
+Besty Barry genannt her. 8000 Quadratmeter
+umfaßt dieses in den Tiefen des Torfmoores seit
 Menschengedenken wütende Feuer, und die Oberfläche von
 Besty Barry ist zu jeder Jahreszeit so heiß, daß kein Halm
 auf der braunen Erde gedeiht, daß kein Schnee dort liegen
-bleibt. Dieser Teil des unendlichen LammertgMoored
+bleibt. Dieser Teil des unendlichen Lammerty-Moores
 liegt nun nach Osten zu und wird hier von jener kahlen
 felsigen Hügelreihe begrenzt, in der sich Die Tokkara-Höhlen
 hinziehen.
@@ -1150,14 +1149,14 @@ Verständnis des Folgenden nötig ist. Außerdem dürfte es
 aber auch angebracht sein, die Nerven des Lesers durch diese
 Randbemerkungen ein wenig zur Ruhe kommen zu lassen. —
 
-Der sei amtliche Leser wird sich nun wieder etwas erholt
-haben und wag mich nach jener kleinen Grotte zurücbeglet«
+Der freundliche Leser wird sich nun wieder etwas erholt
+haben und mag mich nach jener kleinen Grotte zurückbegleiten,
 <@pagebreak/>
-Wien, die Lionel Barring nicht ganz unzutreffend als Zelle
+die Lionel Barring nicht ganz unzutreffend als Zelle
 bezeichnet hatte.
 
 Ich senkte also unter Haralds berechtigten Vorwürfen
-beschämt den Kopf und... hielt den Mund, In solchen
+beschämt den Kopf und... hielt den Mund. In solchen
 Momenten ist es besser, sich Harst gegenüber nicht zu verteidigen
 oder zu entschuldigen. Er wird dann meist ironisch,
 und daß ist noch scheußlicher als eine Rüge hinnehmen zu
@@ -1167,51 +1166,51 @@ Ohne mich weiter zu beachten ging er zur Tür und
 untersuchte sie und das dicke Mauerwerk.
 
 Dann wandte er sich um, schritt auf einen Lehnstuhl
-nicht rissiger Polsterung zu, drehte ihn so, daß er von dessen
-Sikh aus die Grotte überblicken konnte, und ließ sich mit
+mit rissiger Polsterung zu, drehte ihn so, daß er von dessen
+Sitz aus die Grotte überblicken konnte, und ließ sich mit
 einem halben Seufzer hineinfallen.
 
 Ich hatte mich an den Tisch gelehnt, der vor einem mit
-braunem (Slanzleder überzogenen Ruhebett stand. Ich kannte
+braunem Glanzleder überzogenen Ruhebett stand. Ich kannte
 meinen Harst. Ich wußte schon, wie ich ihn versöhnen könnte.
 
-So begann ich denn (dies fiel wir gerade jetzt ein!) zu
+So begann ich denn (dies fiel mir gerade jetzt ein!) zu
 erzählen, was ich in der Bibliothek des Schlosses erlebt hatte,
 als ich auf dem Stuhl hinter der ein wenig geöffneten Flurtür
 saß.
 
 Erst hörte Harald kaum hin, sondern legte umständlich
-aus einem Pappschächtelchen neue Mirakulum in sein Sippe
-reltenetui, rechte Seite, unter das straffe Gummiband.
+aus einem Pappschächtelchen neue Mirakulum in sein
+Zigarettenetui, rechte Seite, unter das straffe Gummiband.
 
-Dann fragte er plötzlich: »Wirst Du das Buch wwieder-finden,
-daß der Fremde ausgeschlagen hatte, der nachher
-mit Baptiste flüsterte f«
+Dann fragte er plötzlich: »Wirst Du das Buch wiederfinden,
+daß der Fremde aufgeschlagen hatte, der nachher
+mit Baptiste flüsterte?«
 
-»Ja. Vestimmit.«
+»Ja. Bestimmt.«
 
-»Vorltresslich, mein Alter, vortrefflich! — Dein kleines
+»Vortrefflich, mein Alter, vortrefflich! — Dein kleines
 Erlebnis ist von größter Bedeutung,« fügte er hinzu. »Wir
-wissen jetzt ja, daß der greise Baptiste Ob: Lebensmittel nicht
+wissen jetzt ja, daß der greise Baptiste die Lebensmittel nicht
 Barring gebracht hat, und daß er ebensowenig das Geheimnis
 <@pagebreak/>
 des Ahnenbildes kennt. Es drängen sich uns daher zwei
 Fragen auf...«
 
-Mit weit vorgestreckten Beinen echte er eine Zigarette
+Mit weit vorgestreckten Beinen setzte er eine Zigarette
 in Brand.
 
-»... sei Fragen...« Und er blies zwei Rauchwölkchen
+»... zwei Fragen...« Und er blies zwei Rauchwölkchen
 in die hier völlig trockene und sogar angenehm
-warme Lust. (Ein Ofen war nicht vorhanden!)
+warme Luft. (Ein Ofen war nicht vorhanden!)
 
 »Erstens: Wem brachte Baptiste die Lebensmittel?«
 
 »Hm — wahrscheinlich doch dem Fremden, der durch die
-verliebte Tür die Bibliothek betrat.«
+versteckte Tür die Bibliothek betrat.«
 
-»Sehr richtig, sicher Alter. Ganz meine Meinung.—
-Nun gleich die Umhertrage zu Frage eins: wer war der
+»Sehr richtig, lieber Alter. Ganz meine Meinung.—
+Nun gleich die Unterfrage zu Frage eins: wer war der
 Fremde?«
 
 »Ich halte ihn für einen Mann aus gebildeten Kreisen.
@@ -1219,74 +1218,73 @@ Sein Anzug war zerknittert, aber von gutem Schnitt. Seine
 gepflegten Hände sah ich sogar ganz deutlich, als er in das
 aufgeschlagene Buch etwas hineinschrieb.«
 
-»Das muß uns vorläufig über ihn genügen. — Seht
+»Das muß uns vorläufig über ihn genügen. — Jetzt
 Frage Nummer zwei: Wenn Baptiste das Ahnenbild nicht
 zum Verlassen der Galerie benutzt hat, wie verschwand er
 dann die beiden Male so schnell, wie ich hinter ihm
-drein war f«
+drein war?«
 
-»Vielleicht hat die Ahnengalerie noch eine zweite Geheimtür
-...«
+»Vielleicht hat die Ahnengalerie noch eine zweite Geheimtür...«
 
 »Bravo! Auch ich nehme das an.« — Er rauchte hastig
 und starrte auf seine Stiefelspitzen. »Gehen wir nun auf
-eine Erörterung der lebten Ereignisse über. Du hörtest wie
+eine Erörterung der letzten Ereignisse über. Du hörtest wie
 Ich, daß Barring uns durch die Tür zurief, er habe nicht
-ahnten können, daß Lord John sich selbst den Tod gegeben.
+ahnen können, daß Lord John sich selbst den Tod gegeben.
 — Wie verstehst zu dies?«
 
-»sich verstehe es überhaupt nicht.«
+»ich verstehe es überhaupt nicht.«
 
 <@pagebreak/>
-»so...so. — Schau doch mal dort nach recht hi,
-was Nichts zu?«
+»so...so. — Schau doch mal dort nach recht hin.
+was siehst Du?«
 
-»einen am Boden liegenden umgcekippten Stuhl.«
+»einen am Boden liegenden umgekippten Stuhl.«
 
 »Aha! — Und was riechst zu auf der Platte des
-Tisches, an dessen anderer Seite Du schnitt«
+Tisches, an dessen anderer Seite Du lehnst?«
 
 Ich drehte mich halb um.
 
 »Hm — das sind Spuren — staubige Spuren von
-Schinken.«
+Schuhen.«
 
-»3a — von den Schuhen eines Menschen, der hier in
-der Grotte sich die Sohlen mit Staub beim Hin- und Gott
-gehen fdanmmupig gemacht hatte. Also: der Mann ist auf den
+»Ja — von den Schuhen eines Menschen, der hier in
+der Grotte sich die Sohlen mit Staub beim Hin- und Hergehen
+schmutzig gemacht hatte. Also: der Mann ist auf den
 Tisch gestiegen. — So, und jetzt betrachte mal das Sitzbrett
 des umgekippten Holzstuhles,«
 
-»Ah — ach Graubraunem...!«
+»Ah — auch Staubspuren...!«
 
 Ich hatte begriffen. Ich nahm den Stuhl und stellte
-ihn auf den Tisch, stieg dann auf den Tisch, dann aus den
+ihn auf den Tisch, stieg dann auf den Tisch, dann auf den
 Stuhl und konnte nun die natürliche Felsendecke der Grotte
 mit den Händen bequem betasten.
 
 »Bravo!« rief Harald wieder. »Nur weiter so! Ich
-glaube, Du bist auf der richiüigen Fährte,«
+glaube, Du bist auf der richtigen Fährte,«
 
-Ja — das Zwar ich!
+Ja — das war ich!
 
-Der böôckerige Fels der Decke hatte da eine sehr verdächtige
-Niete in Form eines Trossen Sechsecks. Als ich die
-Hände flach unter die Mitte dieses Sechüecks legte und
-kräftig drückte, hob sich der sechseckige Zeit der Decke nach
+Der höckerige Fels der Decke hatte da eine sehr verdächtige
+Rille in Form eines großen Sechsecks. Als ich die
+Hände flach unter die Mitte dieses Sechsecks legte und
+kräftig drückte, hob sich der sechseckige Teil der Decke nach
 oben und ließ sich mit geringer Mühe vollends nach oben
 hochklappen. Es war ein flaches Stück Fels, das sich in
 zwei derben Scharnieren bewegte.
 
-Aus dem so enstandenen Loche Aber wir quoll eine
-he!; e, stickige Luft beider — so heiß, daß ich un lfürlich
+Aus dem so entstandenen Loche über mir quoll eine
+heiße, stickige Luft hervor — so heiß, daß ich unwillkürlich
 zurückprallte.
 
-E? war wie der glühende Arm Irgend eines holt oben
+Es war wie der glühende Atem Irgend eines dort oben
 <@pagebreak/>
-in der Fitnisleinis? lauernden Auge(ums, das mich drohend
-anblies und Ausbrachen wollte.
+in der Finsternis lauernden Ungetüms, das mich drohend
+anblies und verscheuchen wollte.
 
-Harald reichte wir schon eine der Laternen.
+Harald reichte mir schon eine der Laternen.
 
 »Ich helfe Dir weiter empor,« sagte er und schwang
 sich auf den Tisch.
@@ -1298,38 +1296,38 @@ die über der »Zelle« liegende große Höhle hineinarbeiten.
 Flüchtig nur ließ ich hier das Licht der Laterne umhergleiten.
 Dann half ich Harst nach oben.
 
-»Backofen!« meinte er nachdenklich, als er neben wir
-stand. Das Geheimnis der Tokkara-Höhlen hat viele Seiten,
-die noch kein Verrieb umgeblättert hat — wenigstens kein
-oberster Mensch außer Lord John und uns. Lionel Barring
-kennt diesen Backofen natürlich und nun verstehe
-auch seine Bemerkung über Lord Famos Selbstmord. — Die
-Hitze hier ist fraglos ehe Folge des brennenden Bereut-Barry-Moors,
+»Backofen!« meinte er nachdenklich, als er neben mir
+stand. »Das Geheimnis der Tokkara-Höhlen hat viele Seiten,
+die noch kein Mensch umgeblättert hat — wenigstens kein
+ehrlicher Mensch außer Lord John und uns. Lionel Barring
+kennt diesen Backofen natürlich und nun verstehe ich
+auch seine Bemerkung über Lord James Selbstmord. — Die
+Hitze hier ist fraglos eine Folge des brennenden Besty-Barry-Moors.
 Und...«
 
-Er schwieg, packte meinen Arm …
+Er schwieg, packte meinen Arm…
 
-Staffierte: »Da — da huschte soeben etwas vorüber —
+Flüsterte: »Da — da huschte soeben etwas vorüber —
 dort hinten...«
 
 Er hatte auch die zweite Laterne mitgebracht, hob sie
 hoch empor... mit der Linken, in der Rechten die treue
 Clement.
 
-»$ drum,« sagte er leise.
+»Komm,« sagte er leise.
 
-bin gingen Sir Paar schritt nach Norden zu. Da lag
-»Ein Hassen sohibläiter, gesLnigelte Rüben und ein
-Saufen Hafer.
+Wir gingen ein paar Schritt nach Norden zu. Da lag...
+Ein Haufen Kohlblätter, geschnitzte Rüben und ein
+Häufchen Hafer.
 
-Zins — eitlen den Foblblättent ja ein es
-Angrinsen und blinzelte scheu in das Licht der Auftrag.
+Und — zwischen den Kohlblättern saß ein kleines
+Kaninchen und blinzelte scheu in das Licht der Laternen.
 
 Harst lachte in sich hinein.
 
 <@pagebreak/>
-»Wadıhaftig ein Kaninchen!« nutzte er. Und — —
-pfiff plóö lich durch die Zähne
+»Wahrhaftig ein Kaninchen!« meinte er. Und — —
+pfiff plötzlich durch die Zähne...
 
 »Vorsicht!!« sagte er in ganz anderem Ton. »Erinnerst
 Du Dich an Frau Maria Goulds wirre Angaben über ihre
@@ -1341,65 +1339,65 @@ Frau Maria Gould lag jetzt krank im Hause des freundlichen
 Pfarrers von Lammerty — krank an Nervenfieber
 nach all den unerhörten Aufregungen die sie durchgemacht
 hatte. — Ihr Gatte war Ingenieur im Dienste Lionel Barrings
-aus Schloß Gnir gewesen, war von Barring umgarnt
+auf Schloß Gnir gewesen, war von Barring umgarnt
 und zum Mitglied der »großen Null« gemacht worden, nachher
 aber von dem Geheimbunde zum Tode verurteilt und
-von der Euston: Klippe unten auf die Uferfelsen gestürzt —
+von der Euston-Klippe unten auf die Uferfelsen gestürzt —
 also ermordet worden. Seinen Tod hatte Maria Gould
-aufklären hockten, war dabei für kurze Zeit Barrings Gefangene
-gewesen und hatte und Im Pfarrhaus in Lammerty
-in gut gespieltem Unfall von Wahnsinn berichtet, daß
+aufklären wollen, war dabei für kurze Zeit Barrings Gefangene
+gewesen und hatte uns Im Pfarrhaus in Lammerty
+in gut gespielten Anfall von Wahnsinn berichtet, daß
 ein Reptil von ungeheurer Größe sie in den Höhlen bedroht
 hätte. — Leider hatten wir sie nach Diesen Dingen nicht
 ausfragen können, da sie am 8. April dann kurz nach Barrings
-Flucht aus dem Schroffe plötzlich einen völligen Nervenzusammenbruch
+Flucht aus dem Schlosse plötzlich einen völligen Nervenzusammenbruch
 erlitt. Ihre Weibernatur hatte doch
-schließlich von all den Aufregungen kapituliert, In bedenke
-Kisten Zustande wurde Maria Gould damals zu Pfarrer
-Mallaray tcanS3portlert. —
+schließlich von all den Aufregungen kapituliert. In bedenklichstem
+Zustande wurde Maria Gould damals zu Pfarrer
+Mallaray transportiert. —
 
-Und nun hier — — ein Kaunsnchen! Hier In der Nabe
-kramten Nebenhöhle der Tokkara-Höhlen, in denen nach Frau
+Und nun hier — — ein Kaninchen! Hier In der unbekannten
+Nebenhöhle der Tokkara-Höhlen, in denen nach Frau
 Marias Angaben eine Riesenschlange hausen sollte!
 
-Ein Kaninchen — — Ecjlangenfutter!
+Ein Kaninchen — — Schlangenfutter!
 
-Harald flüsterte wir jetzt dasselbe soeben von also g&
-duckt? Wort zu:
+Harald flüsterte mir jetzt dasselbe soeben von mir
+gedachte Wort zu:
 
 <@pagebreak/>
-»echlangenfriiter! — Also hat Maria Gould nicht geträumt.
+»Schlangenfutter! — Also hat Maria Gould nicht geträumt.
 Sie muß hier in diesem Backofen eingekerkert gewesen
-sein. — doch — weiter, mein Alter, weiter! Ich
+sein. — Doch — weiter, mein Alter, weiter! Ich
 fürchte für Lord John!«
 
-Die Höhle verlief nach Norden zu in verschiedene!
+Die Höhle verlief nach Norden zu in verschiedener
 Breite, hatte aber keinerlei Abzweigungen,
 
 Harst ging voran, den Arm mit der Laterne weit vorgereckt.
 
-Wir drang der Schweiß aus allen Poren. Die Hitze
+Mir drang der Schweiß aus allen Poren. Die Hitze
 nahm zu. die Höhle senkte sich ziemlich steil.
 
-So halten wir etwa zweihundert Schritt zurückgelegt,
+So hatten wir etwa zweihundert Schritt zurückgelegt,
 als Harst stehen blieb.
 
 Ich sah ebenfalls, daß da vor uns am Boden eine
-Gestalt lag — ein Mann
+Gestalt lag — ein Mann...
 
 Es war Lord John. Er lag auf dem Gesicht, die Finger
-in das Steingeröll Sektglas.
+in das Steingeröll gekrallt.
 
 Harald drehte den reglosen Körper um, fühlte nach dem
 Herzschlag.
 
-»Er eßt,« sagte er leise und atmete erleichtert auf.
-»Er lebt! Tragen wir ihn rasch in die Zeüe.«
+»Er lebt,« sagte er leise und atmete erleichtert auf.
+»Er lebt! Tragen wir ihn rasch in die Zelle.«
 
 <@pagebreak/>
 
-2. Kapitel.
-Der Schlangenkopfs.
+<h2>2. Kapitel.</h2>
+<h3>Der Schlangenkopf.</h3>
 
 Lord John ruhte auf dem Glanzlederdiwan. Kais
 hatte ihm den Oberkörper entblößt und verschiedene schwere
@@ -1468,7 +1466,7 @@ wollte Sie in seinem Sinne beeinflussen können.«
 
 Lord John flinke Harst Diniert an. dann lächelte er
 sschMmerzlih. »Also Deshalb war Dieser Sterling angeblich
-Hundlungsrellender und so Ost von London abwesend —
+Handlungsreisender und so Ost von London abwesend —
 <@pagebreak/>
 deshalb.« — Er zog gedankenvoll an seiner Zigarette. Er
 mußte diese Cnttäusclhung erst verwinden. dann sprach er
@@ -1525,7 +1523,7 @@ Glatt zugetragen hat. Sie werden sich hoffentlich inzwischen
 weit erholen, daß Sie uns nachher bis an den Abgrund
 begleiten können...«
 
-»Niemals! Nie sicher betrete ich die Zcblangen-grotte!«
+»Niemals! Nie sicher betrete ich die Schlangengrotte!«
 rief Lord John ehrlich. »Das können Sie nach cm
 was ich dort erlebt habe, nicht verlangen!«
 
@@ -1549,7 +1547,7 @@ Druck:irre, zum Abschied kräftig die Hand.
 
 Wir Verirrten in die Nr re Grotte hinein, nahmen zwei
 Laternen und außerdem einen Strick mit, den wir aus den
-ernten der Polsterung des Ruhcbettes zusammengeknotet
+ernten der Polsterung des Ruhebettes zusammengeknotet
 hatten.
 
 <@pagebreak/>
@@ -1901,7 +1899,7 @@ mordeten Gatten betrauert hatte, —
 Harald öffnete dies betreffende Tür. Von Zimmer zu
 Zimmer glitten wir drei Im kahlen Dreivierteldunkel des
 araucnden Morgens, der sich durch die Spalten der Fensters
-Vorhänge mühsam in die Weiten, hoben Räume hineinftahl..
+Vorhänge mühsam in die Weiten, hoben Räume hineinstahl..
 
 Harst immer voran — immer der lautloseste, immer
 der Spürhund edelster Rasse — mit der feinen Witterung
@@ -1923,7 +1921,7 @@ der Billigster. Dort brannte also irgendeine Lampe, Laterne,
 dergleichen. Ñ
 
 Harst zog den Schlüssel geräuschlos heraus. Das jenseitige
-Vronzeplältchcn war wohl abgebrochen. Jedenfalls:
+Bronzeplättchen war wohl abgebrochen. Jedenfalls:
 lt; sah, nachdem Harald und Alverson nacheinander einen
 Eid in den bücßergesüliten Raum geworfen hatten, an dem
 großen Mitteltisch den alten Wagnisse Viper. Vor Um stand
@@ -2291,7 +2289,7 @@ möglichen,« sagte Harald leise. Sollen wir weniger große
 demütig sein als Lionel Barring?!«
 
 Eine halbe Stunde darauf war auch Korb Sohn befreit.
-In der Schlangenhöhle fanden wir noch zwei Niefenteptile,
+In der Schlangenhöhle fanden wir noch zwei Riesenreptile,
 die jetzt im Londoner Zoologischen Garten als Geschenk
 Harald Harst angestaunt werden. — Barring blieb eine volle
 Woche verschwunden. Dann, als wir bereits wieder in
