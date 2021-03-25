@@ -480,7 +480,7 @@ oben keinerlei Zugluft hervorrief, weil ja eine zweite
 Oeffnung unten im Zimmer fehlte.
 
 Als Harald mich beiseite schob, erklärte ich ihm diese
-meine Bedenken, worauf er ebenso kurz, erwiderte:
+meine Bedenken, worauf er ebenso kurz erwiderte:
 
 »Du irrst! Es ist eine zweite Oeffnung da! Wie sollen
 denn Gorim und Nassub in das Zimmer eingedrungen
@@ -512,7 +512,7 @@ Puls gefühlt.
 Er richtete sich wieder auf...
 
 »Tot, — und deshalb erlosch auch der unheilvolle Einfluß
-auf Dolja Dortschakoff vollständig, und plötzlich! Mit
+auf Dolja Dortschakoff vollständig und plötzlich! Mit
 des Schamanensohnes hinschwindendem Bewußtsein zerrissen
 die Fäden, die kraft seines Willens unsichtbar von ihm
 zu der Prinzessin reichten. — Nun wollen wir feststellen,
@@ -668,7 +668,7 @@ Harald hatte am Tische gelehnt.
 »Ich habe es schon bemerkt, Prinzessin. Ich habe noch
 mehr bemerkt: Die Tapete ist dort feucht. Wenn man genau
 hinsieht, erkennt man den dunklen Fleck. Ich fürchte,
-Silvia Longa deren Reitpeitsche dort im Keller lag,
+Silvia Longa, deren Reitpeitsche dort im Keller lag,
 wird das Wandversteck vorhin ausgeräumt haben.«
 
 »Aber — — das Gas!!« meinte ich.
@@ -1277,7 +1277,7 @@ internationaler Gauner, dessen Sündenregister so lang war,
 daß er hätte hundert Jahre alt werden müssen, um all
 die Strafen abzusitzen.
 
-Die Prinzessin Dolja lebt jetzt drüben im Amerika
+Die Prinzessin Dolja lebt jetzt drüben in Amerika
 unter dem Schutze des Sternenbanners, und mit ihr zog
 über den Ozean Silvia Longa, die Reumütige, deren gutem
 Ruf die Geheimnisse des Zimmers ohne Fenster doch

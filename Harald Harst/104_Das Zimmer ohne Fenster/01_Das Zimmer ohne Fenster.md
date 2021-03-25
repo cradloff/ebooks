@@ -138,7 +138,7 @@ sich aufgelöst und flatterte mir peitschend ins Gesicht.
 
 <@pagebreak/>
 Ich stützte sie, so gut ich konnte. Die Taschenlampe
-war ihr entfallen, als ich sie auf die gekenterte Jolle hinaustrieb.
+war ihr entfallen, als ich sie auf die gekenterte Jolle hinaufschob.
 Der Nachen war weitergetrieben.
 
 Nun saßen wir uns gegenüber. Nun rief die Frau:
@@ -188,8 +188,8 @@ selbst fest!« war ihre nächste Aeußerung.
 Ich ließ also ihren Arm los, und sie rutschte ein Stückchen
 von mir ab.
 
-»Hm — ob sie verhüten wollte, daß ich ihr Gesicht
-sähe?« Fast schien es so.
+Hm — ob sie verhüten wollte, daß ich ihr Gesicht
+sähe? Fast schien es so.
 
 <@pagebreak/>
 Ich überlegte. Ich war jetzt sicher beinahe überzeugt
@@ -223,7 +223,7 @@ wohl gekentert, Gnädigste?«
 
 »Nein — es war ein Paddelboot...!«
 
-Ein nettes Paddelboot!!! dachte ich...
+Ein nettes Paddelboot!! dachte ich...
 
 Und dann verstummte das Gespräch wieder, da es zu
 viel Lungenkraft erforderte.
@@ -298,7 +298,7 @@ Sunda-Archipel liebevollst angenommen hatten.
 »Eine Prau!« sagte ich kopfschüttelnd zu Harst.
 
 <@pagebreak/>
-»Ja, mein Alter. Eine Film-Prau. Die Onyx-Film-As.
+»Ja, mein Alter. Eine Film-Prau. Die Onyx-Film-A.G.
 Will hier auf dem ehrlichen Schwielow ein Tropenfilmchen
 herstellen. Ich las davon in der Zeitung. Schwimmen
 wir an Bord, es gibt dort etwas zu sehen...!!«
@@ -327,7 +327,7 @@ Ich krachte auf die Deckplanken. Für Sekunden war
 mir die Besinnung geschwunden.
 
 Kam zu mir, als die Kerle mich fesselten, mich unter
-Deck schleppten, auf einen saufen sandgefüllte Ballastsäcke
+Deck schleppten, auf einen Haufen sandgefüllte Ballastsäcke
 warfen.
 
 Ich war allein. Finsternis ringsum. Plätschernd
@@ -360,7 +360,7 @@ Die Arbeit glückte.
 Wir standen jetzt aufrecht. Haralds Taschenlampe
 flammte auf und beleuchtete den Raum.
 
-Die Onyx-Film-As. Hatte für den Bau des malaiischen
+Die Onyx-Film-A.G. Hatte für den Bau des malaiischen
 Seglers einen alten Dampferrumpf benutzt, den
 Rumpf eines kleinen Schleppdampfers.
 
@@ -418,7 +418,7 @@ trockene an und betraten dann Haralds Arbeitszimmer.
 
 Die späte Klientin war dicht verschleiert, hatte einen
 seidenen Regenmantel an und trug dazu einen schicken
-Glanzlederhut. Uhr eleganter Keulenschirm, letzte Mode,
+Glanzlederhut. Ihr eleganter Keulenschirm, letzte Mode,
 lehnte an der Türfüllung.
 
 Sie neigte etwas den Kopf, als wir uns vorstellten,
@@ -587,9 +587,9 @@ Der Spion blieb hinter Harald her. Beide schlugen
 die Richtung nach dem Grunewald ein.
 
 <@pagebreak/>
-ich las den Zettel.
+Ich las den Zettel.
 
-Bin der Prinzessin gefolgt. Sie fuhr mit Auto nach
+> Bin der Prinzessin gefolgt. Sie fuhr mit Auto nach
 Tegel, wo sie in einem Hause (letztes der Uferstraße, Nr.
 54) verschwand. Das Haus liegt in einem Garten und ist
 sehr alt, anscheinend früheres Gutshaus oder dergleichen.
@@ -615,8 +615,8 @@ Spion achtete nicht auf mich.
 Nach etwa einer Stunde kam eine einfach gekleidete
 Frau ohne Hut, mit einem Tuch um den Kopf und einem
 schäbigen kleinen Koffer. Die Frau war jung und hübsch.
-Ich war mir meiner Sache nicht ganz sicher, aber ich vermutete
-daß daß es die angebliche Prinzessin Dolja Dortschakoff
+Ich war mir meiner Sache nicht ganz sicher, aber ich vermutete,
+daß es die angebliche Prinzessin Dolja Dortschakoff
 sei...
 
 <@pagebreak/>
@@ -684,7 +684,7 @@ Doch — mit solchen Zwischenfällen rechnet unsereiner!
 
 Und — fünf Minuten später wußte ich durch den Portier
 des Hauses Innsbrucker Straße 291, daß die Dame die
-bekannte Filnmdiva Silvia Longa gewesen, die im ersten
+bekannte Filmdiva Silvia Longa gewesen, die im ersten
 Stock sechs Zimmer bewohnte. Sie sei soeben zu einer Filmaufnahme
 nach dem Schwielow-See »hinausjejondelt«.
 
@@ -724,7 +724,7 @@ Der Brief lautete:
 
 > Sehr geehrter Herr Harst!
 
-> Ich möchte Sie auf das Haus Tegel, Uferstr. 54 Aufmerksam
+> Ich möchte Sie auf das Haus Tegel, Uferstr. 54 aufmerksam
 machen. Die Außenwände sind völlig von
 wildem Wein überwuchert, so daß man nicht sieht, daß zwei
 Fenster im ersten Stock vor Jahren einmal zugemauert worden
@@ -747,7 +747,7 @@ vor mir ins Wasser gesprungen.«
 auf der Jolle ritt, war die Prinzessin Dolja Dortschakoff.«
 
 Harald starrte mich verblüfft an. »Unmöglich! Dann
-wäre alles das, was ich...« er sprach immer leiser. Er
+wäre alles das, was ich...« Er sprach immer leiser. Er
 schwieg...
 
 Sein ehrwürdiges Greisenantlitz senkte sich. Und so
@@ -804,7 +804,7 @@ Vögel aller Art in den grünen Laubdächern, hier schlich
 eine schwarze Katze lautlos über den Weg, der mit ausgetretenen
 Ziegelsteinen belegt war...
 
-Und — kein Mensch zu sehen ...
+Und — kein Mensch zu sehen...
 
 Bis wir erschrocken fast herumfuhren.
 
@@ -847,12 +847,12 @@ die Briefklappe nur eingeschoben.
 
 Harst zog ein bedrucktes Blatt heraus. Es war die
 Uebersicht über die Neuregelung der Klassenlotterie und ein
-Hinweis auf die erhöhten gewinne.
+Hinweis auf die erhöhten Gewinne.
 
 »Hm,« meinte Harald, »kein Einnehmer verschickt heute
 <@pagebreak/>
 mehr solche Reklamen. Höchstens als Beilage zu neuen
-losen für alte Kunden. Hm ...!«
+Losen für alte Kunden. Hm...!«
 
 Und er steckte den Brief in die Tasche, stand auf. »Es
 wird auch eine Hintertür geben,« sagte er. »Die werden
@@ -898,7 +898,7 @@ seien die Reste sehr teurer Zigarren. Er verstand etwas
 davon. Er hatte die drei Stummel zerdrückt und die Einlage
 geprüft.
 
-Wir erging es hier wie so oft: ich hatte das Gefühl,
+Mir erging es hier wie so oft: ich hatte das Gefühl,
 daß irgend ein Unheil in der Nähe lauere wie ein sprungbereites
 heimtückisches Tier!
 
@@ -942,7 +942,7 @@ führte und die nur angelehnt war, in weitem Sprunge,
 über ein breites Loch in den Dielen hinwegsetzend...
 
 Erreichte sie und — — stieß sie so kraftvoll auf, daß
-er die Türkante einem zurückweichenden Panne vor den
+er die Türkante einem zurückweichenden Manne vor den
 Kopf schmetterte.
 
 Und dies mit so viel Schwung, daß der Mann ächzend
@@ -1181,7 +1181,7 @@ daß auch ein Binnengewässer seine Tücken hat.
 
 Wir näherten uns dem Westufer.
 
-Wir sahen das Malaiendorf die künstlichen Palmbäume,
+Wir sahen das Malaiendorf, die künstlichen Palmbäume,
 die Hütten, die hoch auf Pfählen am Ufer über dem
 Wasser sich erhoben, sahen die Prau, die dicht daneben verankert
 war.
@@ -1316,7 +1316,7 @@ den Nachstellungen der Turkmenen gelitten hätten, die
 als frühere Diener ihres Vaters genau wußten, welche
 Reichtümer die Flüchtlinge mit sich führten. Die Turkmenen
 hätten auch bereits vor Monaten in England den
-größten Teil der Juwelen geraubt, so das die beiden Dortschakoffs
+größten Teil der Juwelen geraubt, so daß die beiden Dortschakoffs
 in Not gerieten und der Fürst sich in Berlin als
 Filmdichter versuchte, zumal Silvia Longa sich für ihn verwenden
 wollte. Sein exotischer Abenteuerfilm war denn
@@ -1370,7 +1370,7 @@ jetzt über die blassen Lippen:
 »Das — — das leere Zimmer!«
 
 Dann wurde sie ohnmächtig. Der Arzt schickte uns
-hinaus, — —
+hinaus. — —
 
 In der »Reitpeitsche der Filmdiva« wird der Leser
 einen Einblick in die rätselhafte Welt des Uebersinnlichen
