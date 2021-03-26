@@ -1,4 +1,3 @@
-<html><body>
 <@pagebreak 65/>
 
 <div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
@@ -32,9 +31,9 @@
 <tr><td>79. Das Geheimnis des Elefantenjägers.              </td><td>107. Das Känguruh der Miß Dolling.</td></tr>
 <tr><td>80. Lady Myntors letzter Wunsch.                    </td><td>108. Die Motorjacht ohne Namen.</td></tr>
 <tr><td>81. Der Giftpfeil des Wedda.                        </td><td rowspan="2">109. Der Kampf gegen Lionel Barring.</td></tr>
-<tr><td rowspan="2">82. Der Schlangenbeschwörer von Agra.   </td>
+<tr><td rowspan="2">82. Der Schlangenbeschwörer von Agra.   </td></tr>
 <tr>                                                             <td rowspan="2">110. Das Geheimnis der Tokkara-Fälle.</td></tr>
-<tr><td rowspan="2">83. Das Patent des Doktor Murphison.    </td>
+<tr><td rowspan="2">83. Das Patent des Doktor Murphison.    </td></tr>
 <tr>                                                             <td>111. Die große Null.</td></tr>
 <tr><td>84. Die Buschklepper d. Thar-Wüste.                 </td><td>112. Das Geheimnis des Bosporus.</td></tr>
 <tr><td>85. Das blinde Hindumädchen.                        </td><td>113. Anna Karstens Amulett.</td></tr>

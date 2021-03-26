@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">IDIDIDIDIDIDIDIDIDIDIDIDIDIDIDIDID</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis der Tokkara-Höhlen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">110</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Geheimnis der Tokkara-Höhlen.
+
+Schloß Gnir, Stammsitz des alten Geschlechtes der Lords Gnirable, unweit der Küste und drei Kilometer nordöstlich des kleinen schottischen Städtchens Lammerty gelegen, war im April 1923 der Schauplatz jener Ereignisse, denen nicht nur die englischen, sondern auch ausländische Zeitungen spaltenlange Artikel widmeten.
+
+Der letzte Sproß dieses Geschlechtes, Lord Allan Howard Gnirable war von Harald Harst als Oberhaupt einer Verbrechergeheimgesellschaft entlarvt worden, die sich den Namen »große Null« zugelegt hatte, in Sektionen von je drei Mann eingeteilt und so trefflich organisiert war, daß nur immer die Mitglieder einer Sektion sich kannten.
+
+Allan Howard Lord Gnirable hatte es jedoch an jenem 8. April verstanden, spurlos zu verschwinden. Er, der als Lionel Barring, also in der Maske eines hochgeachteten Londoner Anwalts in einem Jahre (1922) nicht weniger als vierundzwanzig Einbrüche und Raubüberfälle verübt hatte, — er, dieser fraglos hochintelligente, schauspielerisch außerordentlich befähigte, dabei persönlich tollkühne und wieder auch verschlagene und vorsichtige Mensch machte all unsere Nachforschungen insofern sehr bald zum Gegenstand öffentlichen Gespötts, als er jeden Tag vom 8. April ab eine der Londoner Zeitungen durch den Fernsprecher anrief und dem betreffenden Redakteur genau mitteilte, was Harald Harst, Max Schraut und unser Londoner Freund und Kollege Alverson in den verflossenen 24 Stunden zur Ergreifung Lionel Barrings unternommen hätten.
+
+Natürlich wurden diese sensationellen Mitteilungen des flüchtigen Verbrechers in noch sensationellerer Aufmachung dem Publikum stets gesperrt gedruckt serviert, wobei nie am Schluß ein paar ironische Bemerkungen über Harald Harsts Mißgeschick, diesen kühnen, witzigen Anführer der großen Null nicht fangen zu können, zu fehlen pflegten.
+
+Um fünf Sekunden.
+
+Ich habe bereits im vorigen Band erwähnt, daß das Städtchen Lammerty bei Nordwind zumeist in Nebel und dünne Rauchschwaden gehüllt ist. Diese Rauchschwaden rühren von einem unterirdisch brennenden Teile des Lammerty-Hochmoores, Besty Barry genannt her. 8000 Quadratmeter umfaßt dieses in den Tiefen des Torfmoores seit Menschengedenken wütende Feuer, und die Oberfläche von Besty Barry ist zu jeder Jahreszeit so heiß, daß kein Halm auf der braunen Erde gedeiht, daß kein Schnee dort liegen bleibt. Dieser Teil des unendlichen Lammerty-Moores liegt nun nach Osten zu und wird hier von jener kahlen felsigen Hügelreihe begrenzt, in der sich die Tokkara-Höhlen hinziehen.
+
+Ich muß dies alles hier nochmals erwähnen, da es zum Verständnis des folgenden nötig ist. Außerdem dürfte es aber auch angebracht sein, die Nerven des Lesers durch diese Randbemerkungen ein wenig zur Ruhe kommen zu lassen. —
+
+Der freundliche Leser wird sich nun wieder etwas erholt haben und mag mich nach jener kleinen Grotte zurückbegleiten, die Lionel Barring nicht ganz unzutreffend als Zelle bezeichnet hatte.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (110) Das Geheimnis der Tokkara-Höhlen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
