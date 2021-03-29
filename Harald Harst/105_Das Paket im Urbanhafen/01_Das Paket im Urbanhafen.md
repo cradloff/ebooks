@@ -21,7 +21,7 @@ donnerten über unseren Köpfen wie unsichtbare Poltergeister
 hinweg und warfen flüchtigen Lichtschein auf die
 Fronten der düsteren Gebäude, zwischen denen auch die wenigen
 Fußgänger an diesem unfreundlichen Abend dem behaglichen
-Heim Antrieb.
+Heim zutrieb.
 
 Es war so recht eine Nacht, in der niemand einen Hund
 ins Freie jagt. Und wir beide waren nun bereits drei
@@ -56,11 +56,11 @@ ist die, der wir nun folgen werden! Zelestine hat mithin
 etwas auf dem Kerbholz! —
 
 So reimte ich mir allerlei zusammen. Natürlich fragte
-ich Harst, ob der Reim Stimme. Er schwieg. Das tat er ja
+ich Harst, ob der Reim stimme. Er schwieg. Das tat er ja
 meist, wenn meine Fragen ihm unbequem sind. —
 
 Ich hatte also jetzt nicht den geringsten Grund, meines
-Freundes Bemerkung über das S...weiter irgendwie
+Freundes Bemerkung über das S...wetter irgendwie
 etwas hinzuzufügen. Ich schwieg ebenfalls. Und zehn
 Schritt vor uns eilte die blonde Zelestine mit trippelnden
 Füßchen dahin, in der Linken ein ziemlich großes Paket,
@@ -71,14 +71,14 @@ sie mit der Untergrundbahn gefahren — wenigstens bis
 zur Station Kaiserhof. Und wir auch.
 
 »Sie wird es ins Wasser werfen,« meinte Harald abermals
-nach einer Meile. »Nämlich das Paket, mein Alter.
+nach einer Weile. »Nämlich das Paket, mein Alter.
 Es ist ein großer Pappkarton. Er ist nicht leicht. Das
 Tragen wird ihr sauer. Sie nimmt es bald in die eine,
 <@pagebreak/>
 bald in die andere Hand. Vielleicht ist... ein Kind darin,
 ein Säugling.«
 
-Ich hatte ja eigentlich weiter den blutdürstigen, Beleidigten
+Ich hatte ja eigentlich weiter den Kratzbürstigen, Beleidigten
 spielen wollen. Aber diese Bemerkung blies die
 Mißstimmung im Moment hinweg.
 
@@ -87,13 +87,13 @@ Ernst?«
 
 »Mein voller Ernst.«
 
-»Wie kommst Du auf den Gedanken?! Jünglings werden
+»Wie kommst Du auf den Gedanken?! Säuglinge werden
 nur in Hintertreppenromanen ins Wasser geschmissen
 und dann gerettet — natürlich am Anfang des nächsten
 Heftes, — des besseren Absatzes wegen.«
 
 »Ist es denn wirklich so schwer, eine Reihe von Tatsachen
-richtig einzuschalten?!« erwiderte Harst kopfschüttelnd.
+richtig einzuschätzen?!« erwiderte Harst kopfschüttelnd.
 »Zum Beispiel die eine Tatsache, daß Zelestine Drepp sich
 gehütet hat, mit dem Paket eine Fahrgelegenheit zu benutzen,
 ist doch recht vielsagend. Anstatt Straßenbahn oder
@@ -117,13 +117,13 @@ Betonung.
 Wir schwenkten gleichfalls in die Prinzenstraße ab.
 
 Hier packte der Sturm uns gerade von vorn. Hier
-schützte uns nicht der Bau der Hochbahn gegen den bürgen
+schützte uns nicht der Bau der Hochbahn gegen den böigen
 Regen.
 
 Wie ein Schatten nur war Zelestine vor uns zu erkennen.
 Sie hatte Mühe, vorwärtszukommen. Sie schob
 <@pagebreak/>
-sich weiter, indem sie den Oberkörper vorlog und ruckartig
+sich weiter, indem sie den Oberkörper vorbog und ruckartig
 gegen den Sturm ankämpfte.
 
 Dann — es war dicht vor der Bärwaldbrücke — sauste
@@ -165,8 +165,8 @@ war...«
 
 Und da — — kam’s...
 
-Kein Regen! Keine Syndikus! Nein — da war’s, als
-ob der Himmel Riesenkäfern umstülpte...
+Kein Regen! Keine Sintflut! Nein — da war’s, als
+ob der Himmel Riesenfässer umstülpte...
 
 Da ging jedes Geräusch im Prasseln der Wassermassen
 unter...
@@ -231,7 +231,7 @@ Harst zündete die Laterne wieder an.
 
 »Es war Direktor Dr. Gußfelder,« sagte er gelassen.
 »Wir werden der Sache sofort auf den Grund gehen. —
-Das Rad ist ganz neu. Gußfelder hat....«
+Das Rad ist ganz neu. Gußfelder hat...«
 
 Er verstummte.
 
@@ -247,7 +247,7 @@ Er rollte immer schneller...
 
 Und Harst riß die Clement heraus...
 
-Harst... schloß...
+Harst... schoß...
 
 Feuerte die Nickelmantelgeschosse bald hierhin, bald
 dorthin — durch die Holzwände hindurch...
@@ -291,7 +291,7 @@ Und Harst fügte dem letzten Satze hinzu:
 »Du warst gestern im Gemüsegarten, als der Briefträger
 <@pagebreak/>
 den eingeschriebenen Brief brachte. Es war ein
-Brief, mit Maschine gekippt — ohne Unterschrift — mit
+Brief, mit Maschine getippt — ohne Unterschrift — mit
 hoher Geldeinlage...«
 
 »Ja — und heute im Krokodil fragtest Du die Kollegin
@@ -322,6 +322,7 @@ Er setzte eine frische Zigarette in Brand.
 
 »Wenn der Brief anonym war, wie bekamst Du heraus,
 daß Gußfelder der Absender war?« fragte ich gespannt.
+
 »Auf die einfachste Weise von der Welt: ich erklärte
 Dir, ich müßte auf das Steueramt gehen, ging aber in die
 Krokodil-Bar und... sah Gußfelder mit Zelestine Drepp
@@ -338,7 +339,7 @@ ein schwarzbärtiger Balkanese...«
 »Ah — und all das hast Du mir verheimlicht!«
 
 »Ja — und so hörte ich, wie Gußfelder der Zelestine
-zuflüsterte, daß er sehr neugierig sei, was »der H.« Auf den
+zuflüsterte, daß er sehr neugierig sei, was »der H.« auf den
 Brief mit der Millioneneinlage hin tun würde. Dem Schreiben
 lagen nämlich zwanzig Millionen bei.« (Das war
 damals eine Menge Geld!)
@@ -555,11 +556,11 @@ Harald überreichlich aus der Küche geholt hatte, wie unseren
 Freund Karl Hock. — Ich sage Freund: denn das wurde
 er uns tatsächlich.
 
-Harst ließ ihn zuerst ruhig zulangen fragte nichts über
+Harst ließ ihn zuerst ruhig zulangen, fragte nichts über
 das Paket, aus dem zuweilen leise Geräusche hörbar wurden.
 
 Plötzlich meinte er dann: »Ist der Hund etwa naß geworden?
-Ich glaube, das Tierchen zitiert.«
+Ich glaube, das Tierchen zittert.«
 
 Hock blickte überrascht auf. »Sie wissen also, daß ein
 Hund in dem Karton...«
@@ -608,7 +609,7 @@ Er war rasch aufgesprungen. »Ueber unserem Gespräch
 vergessen wir das arme Tier,« fügte er hinzu. »Ich werde
 es herauslassen. Es ist also nicht naß geworden?«
 
-»Nur wenig, Herr, Harst. Ich habe es in meinen Schal
+»Nur wenig, Herr Harst. Ich habe es in meinen Schal
 eingehüllt.«
 
 Dann kam aus dem aufgeweichten Pappkarton ein allerliebster
@@ -698,7 +699,7 @@ Tomsörs Testament geblieben?«
 »Sind die auch verschwunden?«
 
 »Nein, nein. Sigurds Eltern haben seine Ringe und
-alles andere mit nach: Stockholm genommen — genau wie
+alles andere mit nach Stockholm genommen — genau wie
 die Leiche ihres Sohnes. Mir schenkten sie Mucki und...
 Geld. Aber das Geld wies ich zurück. Sigurds Eltern
 schienen von unserer Freundschaft nicht viel zu halten. Ich
@@ -860,9 +861,9 @@ an und bitten Sie diesen, er möge doch sofort das Blockhaus
 durchsuchen lassen. — Nochmals — gute Nacht!« —
 
 Nasser Schnee wehte uns in ganzen Wolken ins Gesicht,
-als wir in den Hof hinaustraten. Es war füllen kälter
+als wir in den Hof hinaustraten. Es war kälter
 geworden. Der Schnee war im Gemüsegarten stellenweise zu
-spitzen Schanzen zusammen geweht. Dabei war es so dunkel,
+spitzen Schanzen zusammengeweht. Dabei war es so dunkel,
 daß Harald seine Taschenlampe einschaltete, da wir sonst
 die Gartenpforte nicht gefunden hätten.
 
@@ -988,7 +989,7 @@ sympathisch wirkte, rief jetzt:
 
 »Herr Harst, wer war die Frau?!«
 
-Argwohn klang in seiner Sinne mit. Er schien der
+Argwohn klang in seiner Stimme mit. Er schien der
 Dame nacheilen zu wollen.
 
 »Halt — bleiben Sie!« erwiderte Harald rasch. »Es
@@ -1236,7 +1237,7 @@ im Flur einen lohenden Haufen von Kisten und Stroh...
 
 Holte Harst und Gußfelder...
 
-Es war keine Möglichkeit Mohr, in die Blockhütte
+Es war keine Möglichkeit mehr, in die Blockhütte
 einzudringen. Beißender Petroleumdunst schlug uns mit dem
 dicken Qualm entgegen. Das Feuer verbreitete sich im Nu
 weiter, hatte schon die Balkenwände erfaßt. —
@@ -1295,7 +1296,7 @@ Auto zu...
 
 Und — vom Südteil der Blücherstraße her traf ein
 gellender Pfiff, das Unwetter übertönend, unsere Ohren mit
-aufdringlichen Schärfe.
+aufdringlicher Schärfe.
 
 »Wir werden bewacht,« meinte Harald. Dann schloß
 er die Haustür...

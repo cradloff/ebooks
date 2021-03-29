@@ -125,7 +125,7 @@ feststellen. Wie erklärte er diese Tatsache?«
 herausstaffiert, damit ihm seine...«
 
 »... Abwege nicht so leicht nachgewiesen werden
-könnten...! — Hm — nicht übel ganz — logisch auch,
+könnten...! — Hm — nicht übel — ganz logisch auch,
 und doch falsch, gnädiges Fräulein. — Ich werde Gußfelder
 sofort anrufen, und dann sprechen Sie vielleicht mit ihm
 persönlich...« —
@@ -180,7 +180,7 @@ sehr romantisch.«
 Blockhütte hauste?« fragte Harald gedehnt.
 
 »Natürlich Gußfelder! Wer sonst?!« lächelte Dr. Vogler
-sehr selbstsicher. »Gußfelder unter dem Name Josef
+sehr selbstsicher. »Gußfelder unter dem Namen Josef
 Bennarara. Es ist vielleicht der kühnste, genialste Trick
 dieses Abenteurers, das Märchen von dem so verblüffend
 ähnlichen Doppelgänger in die Welt gesetzt zu haben.«
@@ -197,7 +197,7 @@ gefunden worden seien, zu einem entscheidenden
 Schritt aufschwingen und Gußfelder und Zelestine Drepp
 verhaften.
 
-Harald schwieg eine weile. Dann meinte er: »Warten
+Harald schwieg eine Weile. Dann meinte er: »Warten
 Sie damit noch bis morgen früh, Doktor. Bis dahin hoffe
 ich Ihnen folgendes beweisen zu können: Erstens — daß
 der Doppelgänger existiert. Zweitens — daß dieser Doppelgänger
@@ -274,7 +274,7 @@ Ballonmütze durchwühlte die Brandstätte mit einen Stock
 und steckte gelegentlich etwas in einen Sack, den er über dem
 Rücken trug.
 
-Das wir uns nach aller Gewohnheit vorsichtig genähert
+Da wir uns nach aller Gewohnheit vorsichtig genähert
 und stets hinter Bäumen Deckung genommen hatten, waren
 wir von dem jungen Menschen noch nicht bemerkt worden.
 
@@ -390,7 +390,7 @@ Ein feines Knacken...
 
 Die Sicherung sprang zurück. —
 
-Ich tat es ihn nach. Er traute hier dem Frieden also
+Ich tat es ihm nach. Er traute hier dem Frieden also
 nicht. Und Zelestinchen traute er am allerwenigsten.
 
 Der Gang war genau 63 Schritt lang.
@@ -530,7 +530,7 @@ Harald sagte gar nichts — schritt in den Gang hinein
 Dann schrieb er sie ab.
 
 Und dann kehrten wir durch die Eiche in die Schonung
-zurück, begaben uns aus Umwegen nach Halensee, fuhren
+zurück, begaben uns auf Umwegen nach Halensee, fuhren
 zu Freund Bechert, Kriminalkommissar, und entliehen von
 ihm, was wir brauchten.
 
@@ -778,7 +778,7 @@ Medaillon.
 Harst hopste auf den hohen Stuhl, schob den Hut ins
 Genick.
 
-»Also — da sag wir Frailain... Nu wird’s gemietlich,
+»Also — da san wir Frailain... Nu wird’s gemietlich,
 Frailain... A Sekt wollen wir... Und a
 Weaner Walzer...«
 
@@ -918,7 +918,7 @@ fand nichts, schüttelte den Kopf...
 
 Harald erwiderte auf Voglers fragenden Blick mit
 <@pagebreak/>
-einem Achselzucken: »Es maß etwas darin sein, muß. Ich
+einem Achselzucken: »Es muß etwas darin sein, muß. Ich
 werde mir’s daheim ansehen.«
 
 Dann klopfte er gemächlich den Tabak in einer Zigarette
@@ -1037,7 +1037,7 @@ Nest kann auch andere Dinge enthalten!«
 
 »Na nu — was denn?! — Unsinn — ich...«
 
-»Warten Sie!« — Gegen diesen Ton gab ja keinen
+»Warten Sie!« — Gegen diesen Ton gab es keinen
 Widerspruch.
 
 Harald kniete neben der Eiche und beleuchtete den
