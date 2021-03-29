@@ -19,14 +19,14 @@ an: reise irgendwohin, bleibe vierzehn Tage an einem Orte,
 wo Du sicher bist, und dann —«
 
 »Dann?« unterbrach er sie und streichelte ihre Hand.
-»Dann Mutter — dann hat sich nichts geändert, nichts. Palperlon
+»Dann, Mutter, — dann hat sich nichts geändert, nichts. Palperlon
 wird mich ebensowenig vergessen wie ich ihn. Wir haben
 eine große Rechnung miteinander zu begleichen. Er ist
-mein Schuldner und sein Konto ist riesengroß belastet. Er ist
+mein Schuldner, und sein Konto ist riesengroß belastet. Er ist
 der Schuldner der ganzen zivilisierten Menschheit. Er hat
-Morde über Morde verübt: er ist eine schlaue Bestie, vielleicht
-die schlaueste die je in Menschengestalt über diese Erde wandelte.
-Ich bin es meinem Rufe schuldig ihn unschädlich zu
+Morde über Morde verübt; er ist eine schlaue Bestie, vielleicht
+die schlaueste, die je in Menschengestalt über diese Erde wandelte.
+Ich bin es meinem Rufe schuldig, ihn unschädlich zu
 machen. — Nein — Mutter, verreisen werde ich nicht. Aber
 ich verspreche Dir —«
 
@@ -43,7 +43,7 @@ Maschinenschrift sofort wieder.« Er schnitt den Umschlag auf,
 zog einen nur einmal gefalteten Bogen heraus.
 
 »Hm,« meinte er. »Eine Zeichnung. Nichts als eine
-Zeichnung.« Er lächelte. »Palperlon will mir so scheint’s
+Zeichnung.« Er lächelte. »Palperlon will mir, so scheint’s,
 ein Rebus zu raten geben. Nun — da dies einige Arbeit
 — geistige Arbeit — kosten dürfte, legen wir diese Art Mitteilung
 zunächst beiseite.«
@@ -51,14 +51,14 @@ zunächst beiseite.«
 Er nahm den anderen Brief auf.
 
 »Ebenfalls Anschrift getippt. Aber — diese Maschine ist
-tadellos.« Er drehte den Brief in der Hand, besichtigte ihn
+tadellos.« Er drehte den Brief in der Hand, besichtigte ihn,
 als ob’s an dem Umschlag noch allerlei zu sehen gäbe, und fuhr
 dann fort: »Ein sehr teures Papier, dieser Umschlag. Erstklassige
 Luxusware. Der Brief könnte von einer Dame herrühren.
-Er duftet nach — nach — ja es dürfte eine Mischung
+Er duftet nach — nach, — ja es dürfte eine Mischung
 von Divinia und Peau d’Espagne sein.«
-<@pagebreak/>
 
+<@pagebreak/>
 Er schob sein Federmesser unter die Klappe und löste diese
 ohne Schwierigkeit.
 
@@ -71,10 +71,11 @@ war.
 
 Harst las halblaut vor:
 
-> »Berlin, den 2 Oktober 19..
-Sehr geehrter Herr Harst!
+> »Berlin, den 2 Oktober 19...
 
-> Ich gehöre nicht zu den Leuten die Sie bewundern.
+> Sehr geehrter Herr Harst!
+
+> Ich gehöre nicht zu den Leuten, die Sie bewundern.
 Keineswegs! Ihr sogenannter Weltruhm als Detektiv ist
 ein Kind des Zufalls! Sie haben eben Glück gehabt bei
 Ihren Abenteuern, die Ihr »Leibdichter« Schraut der staunenden
@@ -96,25 +97,25 @@ wirklich Schwierigkeiten bietet, zu deren Bewältigung
 mehr als ein Durchschnittstalent gehört. — Ich selbst arbeite
 seit einem Jahr auf demselben Gebiet wie Sie, nur daß ich
 nie irgendwie an die Oeffentlichkeit trete. Vielleicht haben
-Sie in den Zeitungen gelesen, das ein geheimnisvoller Unbekannter
+Sie in den Zeitungen gelesen, daß ein geheimnisvoller Unbekannter
 stets aus dem Verborgenen heraus die Polizei nach
 Kräften unterstützt hat. Fragen Sie nur Ihren Freund
 Bechert. Der kennt mich. Vielmehr — er kennt mich nicht!
 — mich kennt niemand. Ich bin insofern das gerade Gegenteil
 von anderen Leuten, die ihr — Genie in alle Welt ausposaunen
 lassen. Ihr Konkurrent bin ich gewissermaßen;
-auch ein Liebhaberdetektiv! Nur keiner der das Wutgeschrei
+auch ein Liebhaberdetektiv! Nur keiner, der das Hurra-Geschrei
 der großen Masse braucht. — Heute erst las ich in
 der Berliner B. Z., daß Sie bereits heimgekehrt sind und
-auch begünstigt von Ihrem alten Glück Ihre Frau Mutter
-wieder aufgefunden haben. Der spaltenlange Artikel in
+auch, begünstigt von Ihrem alten Glück, Ihre Frau Mutter
+wiederaufgefunden haben. Der spaltenlange Artikel in
 <@pagebreak/>
 der B. Z. interessierte mich nur insofern, als ich bisher nicht
 wußte, daß Warbatty nur das durch Hypnose zu blindem
 Gehorsam gezwungene Werkzeug dieses James Palperlon
 gewesen ist. Palperlon ist Ihnen gestern nacht entschlüpft.
 Jetzt wird er darauf sinnen, Sie schleunigst in den Hades
-zu schicken. Nun: ich werde Sie schützen! Und stets wenn
+zu schicken. Nun: ich werde Sie schützen! Und stets, wenn
 Sie einer Lebensgefahr entronnen sind, werde ich Ihnen
 dies mitteilen. Mehr noch: ich werde fortan bei der Aufklärung
 von Verbrechen und rätselhaften Vorfällen als Ihr
@@ -145,7 +146,7 @@ Nacht auf dem Wrack zubrachten, sind seitdem spurlos verschwunden.
 — Leben Sie wohl! Ich bin in mäßiger Verehrung
 Ihr Lihin Omen.«
 
-»Köstlich!« rief Harst »Lihin Omen! Großartig ausgedacht
+»Köstlich!« rief Harst. »Lihin Omen! Großartig ausgedacht
 — großartig! Denn dieses Lihin Omen einzeln rückwärts
 gelesen heißt Nihil Nemo, ist lateinisch und bedeutet:
 Nichts Niemand. Also wir haben es mit einem Herrn Nichts
@@ -173,7 +174,7 @@ er den beiden Seeleuten, wer wir seien und was wir in
 Christiania wollten.
 
 Kuno Tiessen und der Matrose Jakob Pedersen waren sofort
-Feuer und Flamme für dieses Abenteuer, gelobten feierlichst
+Feuer und Flamme für dieses Abenteuer, gelobten feierlichst,
 Harsts Inkognito zu wahren und entpuppten sich bald
 als ein paar prächtige Menschen.
 
@@ -195,11 +196,11 @@ Rolle.
 
 Harst hatte die Zeichnung mit auf die Reise genommen,
 die Palperlon ihm damals abends durch die Post zugeschickt
-hatte und beschäftigte sich beinahe dauernd mit ihr. Als ich
+hatte, und beschäftigte sich beinahe dauernd mit ihr. Als ich
 ihn am zweiten Reisetage wieder einmal im Wohnsalon über
 dieser Zeichnung brütend vorfand und scherzend meinte, das
 Palperlonsche Bilderrätsel scheine ihm ja wichtiger zu sein als
-die unser im Christianiafjord harrende Aufgabe erwiderte er:
+die unser im Christianiafjord harrende Aufgabe, erwiderte er:
 
 »Es muß etwas ganz besonderes dahinterstecken. Sonst
 hätte Palperlon sich nicht die Mühe gemacht, etwas zu ersinnen,
@@ -235,7 +236,7 @@ zu erkundigen. Ueberhaupt sollten wir alle so tun, als ob wir
 davon noch nie etwas gehört hätten und als ob uns Wrack und
 Gespenster sehr gleichgültig ließen.
 
-Um ½ 5 kam Tiessen den Landungssteg entlanggestampft.
+Um ½5 kam Tiessen den Landungssteg entlanggestampft.
 Er hatte auch verschiedene kleine Einkäufe gemacht und dabei
 gleich deutsche Banknoten gegen Norwegische eingewechselt,
 im ganzen für 500 Mark. Damit hoffte Harst vorläufig
@@ -251,7 +252,7 @@ zählte Harst das Geld hin.
 »Hörten Sie zufällig etwas über das Wrack?« meinte
 Harst.
 
-»Ja — zufällig! In dem Geschäft wo ich mir Kautabak
+»Ja — zufällig! In dem Geschäft, wo ich mir Kautabak
 kaufte, bediente mich ein Mann, der mir gleich so bekannt
 vorkam. — Denken Sie, Herr Harst: es war ein früherer
 <@pagebreak/>
@@ -269,7 +270,7 @@ Mittagsschlaf halten will, — keine Gerippe wie auf dem Gespensterwrack!«
 markiert und gefragt: »wohl so ’n neuer Seespuk, das Gespensterwrack,
 wie?« Und da wurde er gleich sehr ernst und
 erklärte: »Du, Tiessen, — das ist nicht zum Witzemachen!
-Jetzt hab ich keine Zeit. Aber abends auf dem Optimus erzähl
+Jetzt hab’ ich keine Zeit. Aber abends auf dem Optimus erzähl’
 ich Dir alles ganz genau. Das ist so was für zwei alte
 Seebären wie wir es sind. — Uebrigens war vor kurzem ein
 Deutscher hier, ein Berliner, der sehr viel im Fjord angelte
@@ -354,8 +355,8 @@ auch wieder mit ein paar dieser leider nur zu tadellos nachgemachten
 Fünfzigkronennoten angeschmiert worden.«
 
 »Na — falsches Papiergeld gibt’s überall,« meinte Harst.
-<@pagebreak/>
 
+<@pagebreak/>
 »Aber nicht in solchen Mengen wie hier bei uns,«
 brummte der Wirt. »Man muß sich jetzt jeden Fünfzigkronenschein
 so genau ansehn wie ’n seltenes Bild, sonst —«
@@ -404,7 +405,7 @@ festrammte, daß er nun bis zum Maschinenraum voll Wasser
 lief. Die Reederei, der der alte Kasten gehörte, wollte das
 Geld nicht mehr daranwenden, ihn wieder flott zu machen,
 <@pagebreak/>
-ließ nur die Ladung und alles wertvolle daraus bergen und
+ließ nur die Ladung und alles Wertvolle daraus bergen und
 wollte ihn nachher als Brennholz auf Abbruch verkaufen. Es
 fand sich jedoch niemand, der Brennholz brauchte, in dem
 holzreichen Norwegen weiter kein Wunder. So blieb denn
@@ -420,7 +421,7 @@ verbrecherische Vorgänge witterten, durch heimliche Beobachtung
 des Wracks festgestellt, daß diesem Gerede tatsächlich
 etwas Wahres zugrunde lag. Sie hatten mit eigenen
 Augen in mondhellen Nächten gesehen, wie auf dem Deck des
-Hardanger drei menschliche Gerippe gleich lebenden Wesen umherwanderten
+Hardanger drei menschliche Gerippe gleich lebenden Wesen umherwanderten,
 und suchten nun den Verübern dieses nicht
 nur für abergläubische Gemüter reichlich grauenvollen Spuks
 das Handwerk zu legen, denn daß Menschen von Fleisch und
@@ -444,12 +445,12 @@ stiegen.
 fort, »es war ein Anblick, daß einem eine Gänsehaut
 über den Rücken lief. Ich bin wahrhaftig nicht im geringsten
 abergläubisch, — doch — mir hätte jemand tausend Kronen
-geben können und ich wäre damals nicht auf das Wrack geklettert,
+geben können, und ich wäre damals nicht auf das Wrack geklettert,
 wenigstens nicht nachts. Auch heute täte ich’s
 um —«
-<@pagebreak/>
 
-»Schon gut,« unterbrach Harst ihn etwas ungeduldig
+<@pagebreak/>
+»Schon gut,« unterbrach Harst ihn etwas ungeduldig.
 »Was wurde denn aus den beiden Detektiven?«
 
 Torgelson nickte traurig mit dem Kopf. »Was aus ihnen
@@ -465,7 +466,7 @@ durchsucht?«
 Deck?«
 
 »Regelmäßig etwa eine halbe Stunde — so von zwölf bis
-halb eins. — Aber — sagen Sie nicht zeigten sich! — Sie zeigen
+halb eins. — Aber — sagen Sie nicht: zeigten sich! — Sie zeigen
 sich noch, wenn auch seltener.«
 
 »Hat denn die Polizei nicht nochmals Beamte eine Nacht
@@ -504,7 +505,7 @@ Er hat mich nach all diesen Dingen ausgefragt, die ich
 Ihnen soeben berichtet habe. Es war ein kräftiger Mann
 <@pagebreak/>
 mit starkem, leicht ergrautem Vollbart und einer Hornbrille
-auf der Nase. Ich glaube, er sagte er wäre Künstler. — Maler
+auf der Nase. Ich glaube, er sagte, er wäre Künstler, — Maler
 oder so was ähnliches. Es kommen ja so viele Maler hier
 an den Fjord. Sie pinseln immer an der blauen Fjordluft
 herum.«
@@ -539,9 +540,9 @@ dem Deck zu mir:
 soll mich begleiten. Wir nehmen das Aluminiumboot und
 den Ansteckmotor dazu.«
 
-»Wen?« fragte ich. »Burton? Der Name war
+»Wen?« fragte ich. »Burton?« Der Name war
 ja nicht gerade selten in Amerika und England. Hier aber
-hatte ich ihn noch nicht gehört. — Meinst Du etwa die Pragers?«
+hatte ich ihn noch nicht gehört. — »Meinst Du etwa die Pragers?«
 fügte ich hinzu.
 
 »Nein. Ich meine Thomas Burton. Er wohnt auf einer
@@ -557,7 +558,7 @@ Das Beiboot, getrieben von dem knatternden Heckmotor,
 legte bald an einer der zahlreichen Inseln an und zwar an
 <@pagebreak/>
 einem kurzen Holzsteg, an dem bereits ein Boot vertäut war. —
-Karl mußte im Boote bleiben, während Harst auf das niedrige
+Karl mußte im Boote bleiben, während Harst auf das niedrige,
 gelbgestrichene Gebäude zuschritt. Nachdem er wiederholt
 den eisernen Türklopfer in Bewegung gesetzt hatte, ohne
 daß jemand sich meldete, ging er um das Haus herum, da er
@@ -602,9 +603,9 @@ norwegischen Zeitung eine Notiz über dieses Wrack gefunden.
 An diese Notiz erinnerte ich mich jetzt. Und deshalb wollte ich
 nun hier an Ort und Stelle Genaueres zu ermitteln suchen.«
 
-Während er in dieser weise Gleiches mit Gleichem vergalt
+Während er in dieser Weise Gleiches mit Gleichem vergalt
 und log, hatte er in dem Gesicht der Frau eine plötzliche
-Veränderung wahrgenommen. Ihr Blick war an ihm vorübergeglitten
+Veränderung wahrgenommen. Ihr Blick war an ihm vorübergeglitten,
 und wie in jähem Schreck war sie dann leicht
 <@pagebreak/>
 zusammengezuckt. Außerdem sah er jetzt auch, da er mit dem
@@ -703,7 +704,7 @@ einer Länge von zweihundert Meter bei vielleicht achtzig Meter
 Breite von Nordwest nach Südost hin. In der nördlichsten
 Ecke standen dicht beieinander drei zierliche Blockhäuser, dahinter
 ein Stallgebäude und ganz nahe am Strande wieder ein
-zum Teil noch aus Pfählen in das Wasser hinausgebautes
+zum Teil noch auf Pfählen in das Wasser hinausgebautes
 <@pagebreak/>
 Bootshaus, an dem ein Steg entlanglief. Und hier schaukelte
 an einer Kette das gesuchte Fahrzeug.
@@ -720,7 +721,7 @@ Bug des Dampfers laufen und zwang dessen Kapitän auf
 diese Weise, die Maschine rückwärts gehen zu lassen. Der Kapitän
 fluchte fürchterlich. Da rief Harst ihm zu: »Wollen
 Sie das Wrack des Hardanger besuchen? — Wenn ja, so biete
-ich hundert Kronen falls Sie mich an Bord nehmen.«
+ich hundert Kronen, falls Sie mich an Bord nehmen.«
 
 »Ich habe eine englische Reisegesellschaft dorthin zu bringen,«
 brüllte der Kapitän zurück. »Schert Euch zum Teufel
@@ -731,12 +732,12 @@ Land bleiben!«
 Harst gelassen.
 
 Dreihundert Kronen genügten. Bevor Harst dann auf
-den Dampfer hinüberklettterte, raunte er dem Jungen zu:
+den Dampfer hinüberkletterte, raunte er dem Jungen zu:
 »Kehre nach der kleinen Bucht zurück, wo wir die Segel setzten,
 stecke den Motor wieder auf und komm’ um zwei Uhr
 nachts in die Nähe des Wracks. Vier Lichtblitze mit meiner
 Taschenlaterne sollen das Signal sein, das Dich dicht an das
-Wrack heranruft. Sei vorsichtig und schlau mein Junge! —
+Wrack heranruft. Sei vorsichtig und schlau, mein Junge! —
 Wiedersehn!« —
 
 Der Hardanger machte jetzt bei Tage einen durchaus
@@ -771,7 +772,7 @@ er stets verfügte, wenn er an der Arbeit war. Er stand jetzt
 im Mittelschiff in einer Kammer an der Backbordwand über
 dem Maschinenraum und beleuchtete hier sehr genau einen
 Haufen Gerümpel, der in einer Ecke lag und der sich aus ein
-paar offenen Kisten zerbeulten Blechkannen und leeren Heringstonnen
+paar offenen Kisten, zerbeulten Blechkannen und leeren Heringstonnen
 zusammensetzte. Von allen Seiten ließ er den
 weißen Strahlenkegel der Taschenlampe über diesen Stapel
 unbrauchbarer Dinge hingleiten und dachte dabei: »Merkwürdig,
@@ -783,15 +784,15 @@ Haufen vollständig auseinander gestreut haben müßte. Und
 — daß dieser etwa nachher so sauber aufgeschichtet worden
 sein sollte, ist kaum anzunehmen! Es ist ein Berg Gerümpel
 — gewiß, — aber — ein künstlicher Berg, übereinandergehäuft
-zu einem besonderen Zweck vielleicht um —«
+zu einem besonderen Zweck, vielleicht um —«
 
-Da Zerriß dieser Gedankenfaden. Harst glaubte endlich
+Da zerriß dieser Gedankenfaden. Harst glaubte endlich
 dem Ziel nahe zu sein. Sein Gesicht bekam einen anderen
 Ausdruck, sein Denken eine andere Richtung, — denn er hatte
 soeben, als er den Zwischenraum zwischen dem Stapel und
 der Bordwand mit seinen für derartige Dinge besonders geschärften
 Augen musterte, in dem Holze der dicken Bordplanken
-einen feinen Strich bemerkt der senkrecht nach unten
+einen feinen Strich bemerkt, der senkrecht nach unten
 lief. Nun zwängte er sich in diesen Zwischenraum hinein.
 Es ging ganz gut. Dann entschlüpfte seinen Lippen ein leises:
 »Also das ist’s!« Er hatte nämlich herausgefunden, daß der
@@ -805,18 +806,18 @@ und stocherte in einem sehr harmlos aussehenden Loche neben
 der linken Rille herum. Er hörte, daß die Spitze der Klinge
 auf Metall entlangkratzte, drückte, — drückte stärker, drückte
 gleichzeitig mit dem Knie gegen die losgetrennten Plankenstücke
-und fühlte daß sie nachgaben.
+— und fühlte, daß sie nachgaben.
 
 * * *
 
 Die Geheimtür hatte sich nach außen geöffnet. Dahinter
-gähnte ein dunkles Loch. Harst leuchtete hinein — »Ah,
+gähnte ein dunkles Loch. Harst leuchtete hinein. — »Ah,
 das hätte ich doch nicht erwartet!« dachte er. »Allerhand
 Achtung! Die Leute, die sich diesen Schlupfwinkel ersonnen
 haben, verdienen die höchste Anerkennung!«
 
 Das dunkle Loch war eine tiefe Aushöhlung in einem
-der beiden Riffelsen zwischen denen der Hardanger eingekeilt
+der beiden Riffelsen, zwischen denen der Hardanger eingekeilt
 war. Ursprünglich hatte diese vielleicht vier Meter tiefe und
 zwei Meter hohe Grotte einen breiten Ausgang nach dem
 Wasser hin gehabt, der dann aber durch die Schiffswand, die
@@ -845,8 +846,8 @@ Schritte und einen halblauten Zuruf vernahm. Es waren
 englische Worte gewesen, und sein feines Gehör hatte des Malers
 Burton Stimme zu erkennen geglaubt, wenn er auch nicht
 verstanden hatte, was jener sagte.
-<@pagebreak/>
 
+<@pagebreak/>
 Schleunigst huschte er wieder bis in den Maschinenraum
 hinab, kroch in den Kessel und blieb hier tief gebückt stehen.
 Pechschwarze Finsternis umgab ihn; tiefste Stille ringsum.
@@ -934,11 +935,11 @@ Fleck. — Nun die Lampe. Nachsehen, ob ein Erfolg zu bemerken.
 
 Da — ein jubelnder Schrei.
 
-Das zackige kleine Loch ließ den dünnen Bleistift, den er
+Das zackige, kleine Loch ließ den dünnen Bleistift, den er
 hineingeschoben hatte, hindurch.
 
 Gerettet! — Luft — nur Luft! Und er preßte die Lippen
-an die Kesselwandung an die winzige Oeffnung, sog langsam
+an die Kesselwandung, an die winzige Oeffnung, sog langsam
 die kühle Luft des Maschinenraumes ein, — atmete bald ruhiger,
 merkte, daß die Ohrgeräusche nachließen, daß sein Herz
 nicht mehr wie der Klöppel eines Weckers raste, daß seine
@@ -975,7 +976,7 @@ Er schaute und schaute. Plötzlich nichts mehr — mit einem
 Schlage waren die weißen Knochenmänner verschwunden.
 
 Karl wischte sich die kalten Schweißtropfen von der Stirn,
-murmelte befreit aufatmend: »He — nicht für ’ne Million
+murmelte befreit aufatmend: »Ne — nicht für ’ne Million
 ginge ich an Bord des Wracks!«
 
 Ganz still saß er nun im Boot, merkte nicht, daß eine
@@ -1001,13 +1002,13 @@ auf dem Gespensterwrack, nun duckte er sich in den Schatten
 der Reling.
 
 Da — aus der Tiefe des Schiffsinnern herauf drang durch
-die offenes Luke des Hinterdecks ein dumpfer Ruf ganz — ganz
+die offene Luke des Hinterdecks ein dumpfer Ruf ganz — ganz
 schwach an sein Ohr. — Stille — wohl fünf Minuten lang.
 Dann — abermals der schwache Schrei. Es konnte nur ein
 Hilferuf sein; nur Harst konnte ihn ausgestoßen haben.
 
-Karl kroch auf die Luke zu — trotz der Angst die er nun
-doch vor dem dunklen Schiffsinnern empfand — trotz der
+Karl kroch auf die Luke zu — trotz der Angst, die er nun
+doch vor dem dunklen Schiffsinnern empfand, — trotz der
 Schweißperlen, die ihm über das Gesicht rannen. Er biß die
 Zähne zusammen. — Hinab Stufe für Stufe, hinab in die
 Finsternis! Streichholz auf Streichholz zündete er an, tappte
@@ -1017,7 +1018,7 @@ Abermals der Schrei — nur deutlicher.
 
 Und so führte ihn dann endlich der fünfte Hilferuf, den
 Harst jetzt besonnen nur in langen Zwischenräumen ertönen
-ließ in den Maschinenraum vor den Kessel.
+ließ, in den Maschinenraum vor den Kessel.
 
 Nochmals der Schrei! Also im Kessel — in diesem
 Kessel steckte Harst!
@@ -1028,7 +1029,7 @@ Harst — ich bin’s — Karl Malke!«
 Und sofort die Antwort: »Braver Junge! — Schraube
 den Deckel oben los!«
 
-Er tat’s. — Und heraus kletterte einer der dem Jungen
+Er tat’s. — Und heraus kletterte einer, der dem Jungen
 nun wortlos die Hand drückte.
 
 * * *
@@ -1042,7 +1043,7 @@ dann des alten Tiessen Stimme: »Herr Schraut, Herr Schraut,
 — ich bin so besorgt um Harst!«
 
 Ich öffnete. Wir berieten. Auch Pedersen kam und sagte:
-»Ach was — ob Herr Harst Ihnen auch befohlen hat, hier auf
+»Ach was, — ob Herr Harst Ihnen auch befohlen hat, hier auf
 ihn zu warten: ich jedenfalls fahre jetzt mit dem Optimus
 nach dem verteufelten Wrack!« Man merkte, daß auch in sein
 altes Seemannsherz eine starke Zuneigung für Harst sich eingeschlichen
@@ -1051,8 +1052,8 @@ hatte.
 Und — wir fuhren. In aller Stille machten wir den
 Optimus los. Die mondhelle Nacht gestattete uns, den Motor
 mit voller Kraft laufen zu lassen.
-<@pagebreak/>
 
+<@pagebreak/>
 Ich stand neben Tiessen am Steuer. Er spie den Tabaksaft
 über Bord, meinte dumpf: »Und wenn wir ihn und den
 Jungen auf dem Wrack nicht finden?«
@@ -1062,7 +1063,7 @@ Jungen auf dem Wrack nicht finden?«
 »Burtons? Wer ist denn das?« — Er wußte ja bisher
 nichts von dem Ehepaare.
 
-»Hm — ich möchte darüber doch erst sprechen wenn’s unbedingt
+»Hm — ich möchte darüber doch erst sprechen, wenn’s unbedingt
 nötig ist. Harst liebt es —«
 
 Plötzlich packte Tiessen meinen Arm.
@@ -1078,7 +1079,7 @@ Gerippen noch gefunden, erwähnte er nicht.
 
 Wir legten an der Nordspitze der Burton-Insel an. Die
 letzte Strecke hatten wir die Jacht durch das geruderte Beiboot
-geschleppt um das Geräusch des Motors zu vermeiden.
+geschleppt, um das Geräusch des Motors zu vermeiden.
 
 Im Wohnhaus rechts vom Eingang waren zwei Fenster
 erleuchtet. Wir standen draußen und horchten. Die gelben
@@ -1108,10 +1109,10 @@ glattrasierte Burton stand daneben an dem mächtigen Kachelofen.
 
 »Setzen Sie sich!« befahl Harst dem Maler. »Dort auf jenen
 <@pagebreak/>
-Stuhl, neben Ihre Frau — vorwärts! Sonst —!« Er hob
+Stuhl neben Ihre Frau — vorwärts! Sonst —!« Er hob
 den Arm mit der mattierten Pistole.
 
-Selten habe ich so verstörte bleiche Gesichter gesehen, wie
+Selten habe ich so verstörte, bleiche Gesichter gesehen wie
 die dieser beiden Verbrecher. Burton taumelte förmlich auf
 den Stuhl zu.
 
@@ -1125,11 +1126,10 @@ Burton.
 Sie den Namen.«
 
 »Mein Gott!« stöhnte die Frau auf. Und Burton flüsterte:
-
 »Dann — haben wir wenig Hoffnung, daß — daß —«
 Er ließ den Kopf sinken, schwieg.
 
-»Ja — das sich <span class="g">nicht</span> entdeckt haben könnte, was Sie auf
+»Ja — das ich <span class="g">nicht</span> entdeckt haben könnte, was Sie auf
 dem Hardanger treiben. — Ich habe es entdeckt. — Ihre
 Werkstatt, Ihre Falschmünzerwerkstatt! —«
 
@@ -1138,8 +1138,8 @@ einer der Angler in dem Segelboot waren,« murmelte er heiser.
 »Nachher sahen wir noch den Jungen da. Und deshalb
 —«
 
-»Schon gut. — Ihre Fälscherwerkstatt zu entdecken war
-nicht ganz leicht. Die dort stehende Druckpresse die Druckplatten,
+»Schon gut. — Ihre Fälscherwerkstatt zu entdecken, war
+nicht ganz leicht. Die dort stehende Druckpresse, die Druckplatten,
 Farben, Chemikalien und so weiter bestätigen nur, was
 ich schon vorher als sicher angenommen hatte: daß Sie beide
 die Falschmünzer sind und daß Ihre Reisen nur den Zweck
@@ -1151,7 +1151,7 @@ Leuten folgten?«
 
 Die Antwort gab — Frau Burton!
 
-Sie sprang auf rief: »Master Harst, ich habe Tom so und
+Sie sprang auf, rief: »Master Harst, ich habe Tom so und
 so oft kniefällig gebeten, nicht mehr mit Barklay sich einzulassen.
 Barklay ist Toms Verführer gewesen. Er ist Kupferstecher
 von Beruf. Die beiden Kriminalbeamten aus Christiania,
@@ -1175,7 +1175,7 @@ Uhr abends Barklay und Tom —«
 »Verdammt!« fuhr der Blonde da auf. »Verrücktes Frauenzimmer,
 willst —«
 
-Da — und dies hatte niemand verausgeahnt! — da hatte
+Da — und dies hatte niemand vorausgeahnt! — da hatte
 Burton blitzschnell einen Revolver gezogen, feuerte auf Barklay,
 richtete dann die Waffe auf die eigene Stirn, drückte ab,
 schlug lang zu Boden.
@@ -1193,7 +1193,7 @@ vor kurzem schon einmal das Geheimnis des Gespensterwracks
 zu enthüllen versucht hatte, — also daß sie die beiden Pragers,
 mit deren Erscheinen auf der Insel sie rechneten, beim Landen
 mit einem Boote überrascht, niedergeschlagen und gefesselt
-und geknebelt in eine Kammer des Stalles eingesperrt hatten.
+und geknebelt in eine Kammer des Stalles eingesperrt hätten.
 Sie aber habe dann nachher die beiden ohne Wissen
 ihres Mannes befreit, um ihn so zu zwingen, mit ihr nunmehr
 von hier zu fliehen. Als wir in das Zimmer eindrangen,
@@ -1204,7 +1204,7 @@ müsse. —
 Ich stelle an die Kombinationsgabe des Lesers wohl kaum
 zu hohe Anforderungen, wenn ich als selbstverständlich erachte,
 daß er nach dem Vorausgegangenen sich selbst sagt, wer
-»Herr Prager« war: eben unser Konkurrent Lihin Omen!
+»Herr Prager« war: eben unser Konkurrent Lihin Omen! —
 
 Als wir am nächsten Abend in Christiania im Hafen mit
 unserem Optimus lagen, brachte ein Dienstmann einen Brief
@@ -1229,7 +1229,7 @@ Glück nicht so sehr begünstigter Konkurrent und Beschützer —
 Lihin Omen!«
 
 Wir lachten, daß der Wohnsalon dröhnte; lachten so, daß
-Kapitän Tiessen hereingelaufen kam und fragte was los sei.
+Kapitän Tiessen hereingelaufen kam und fragte, was los sei.
 Er hatte — Palperlons Bilderrätsel in der Hand, das er sich
 von Harst vorhin ausgebeten hatte, da er seinen Scharfsinn
 daran erproben wollte.
@@ -1252,7 +1252,7 @@ die Jacht für weitere vier Wochen. Ist’s Ihnen recht?«
 
 »Und ob! Hier meine Hand!« —
 
-So kam’s, das wir am folgenden Morgen schon wieder
+So kam’s, daß wir am folgenden Morgen schon wieder
 Christiania verließen und entgegenfuhren dem
 <p class="centered strong">»Löwen von Flandern«.</p>
 So will ich Harsts nächstes Abenteuer betiteln.
