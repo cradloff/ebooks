@@ -864,10 +864,14 @@ Das Stück hatte Dreieckgestalt. Oben links war ein
 blauer Firmenstempel. Davon war noch folgendes vorhanden:
 
 > Jörn Hol
-&nbsp;&nbsp;&nbsp;&nbsp;Tau
-Christi
-&nbsp;Anerk
-&nbsp;&nbsp;erste
+
+> &nbsp;&nbsp;&nbsp;&nbsp;Tau
+
+> Christi
+
+> &nbsp;Anerk
+
+> &nbsp;&nbsp;erste
 
 Die rechte Hälfte des Stempels also fehlte. — Die Ergänzung
 des Fehlenden erschien mir sehr einfach. *Jörn Hol*
@@ -880,16 +884,22 @@ die so anfingen — *Anerk* — natürlich Anerkennungen,
 Dann die Aufschrift auf der Umschlagshälfte:
 
 > Herrn
-&nbsp;&nbsp;Mc
-&nbsp;&nbsp;&nbsp;&nbsp;Kope
-&nbsp;&nbsp;&nbsp;bei Frau Ma
+
+> &nbsp;&nbsp;Mc
+
+> &nbsp;&nbsp;&nbsp;&nbsp;Kope
+
+> &nbsp;&nbsp;&nbsp;bei Frau Ma
 
 Nun — das konnte ergänzt nur heißen:
 
 > Herrn
-&nbsp;&nbsp;*Ma*cdonald Busley
-&nbsp;&nbsp;&nbsp;&nbsp;*Kope*nhagen, Olfersgade 81
-&nbsp;&nbsp;&nbsp;*bei Frau Ma*jor Torstensen.
+
+> &nbsp;&nbsp;*Ma*cdonald Busley
+
+> &nbsp;&nbsp;&nbsp;&nbsp;*Kope*nhagen, Olfersgade 81
+
+> &nbsp;&nbsp;&nbsp;*bei Frau Ma*jor Torstensen.
 
 Weiter konnte ich an dem Lesezeichen beim besten Willen
 nichts entdecken.
@@ -1192,6 +1202,7 @@ Leinensack im Sarge Busleys mir recht genau ansah, bemerkte
 ich daran eine ganz verwaschene Aufschrift und zwar:
 
 > J. H.
+
 > Tauc&nbsp;&nbsp;r.
 
 In dem Tauc&nbsp;&nbsp;r fehlten Buchstaben. Sie waren nicht mehr
