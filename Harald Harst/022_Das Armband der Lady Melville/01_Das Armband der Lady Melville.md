@@ -20,7 +20,7 @@ brummte etwas wie »Alle Engländer können mir gestohlen
 bleiben!« vor sich hin.
 
 »Ulla, Ulla!« meinte da die Frau Major. »Sie müssen
-doch den anderen Engländern nicht unterschiedlos nachtragen,
+doch den anderen Engländern nicht unterschiedslos nachtragen,
 was der Busley uns für Unruhe und Laufereien bereitet
 hat!«
 
@@ -33,8 +33,8 @@ meldete, — so ein Mensch ist ein Spitzbube oder Mörder gewesen,
 nichts anderes!«
 
 »Unsinn! Reden Sie nur nicht derartiges vor anderen,
-Ulla! Er kannte keine Seele hier in Kopenhagen der Macdonald
-Busley! — Jetzt aber an die Arbeit, Ulla! Um ½ 5
+Ulla! Er kannte keine Seele hier in Kopenhagen, der Macdonald
+Busley! — Jetzt aber an die Arbeit, Ulla! Um ½5
 wollte der Ingenieur Haberton mit seinem Koffer kommen.
 Geben Sie nur das Tablett mit dem Kaffee für den ulkigen,
 <@pagebreak/>
@@ -158,7 +158,7 @@ mit dem Kürbiskopf.
 
 Wo steckte Harst nur? Sollte ihm wirklich etwas zugestoßen
 sein? — Oder — ob ich sein Kommen etwa überhört
-hatte? Es war jetzt ja ¼ 8.
+hatte? Es war jetzt ja ¼8.
 
 Ich läutete nach der Bedienung. Frau Torstensen erschien
 selbst. Ich fragte, ob ich etwas zu essen erhalten könnte.
@@ -167,7 +167,7 @@ selbst. Ich fragte, ob ich etwas zu essen erhalten könnte.
 Herr Greiner! Sie können ein Beefsteak mit Bratkartoffeln
 haben. Ihr Nachbar hat ebenfalls eins bestellt, der Herr Ingenieur
 Haberton. Oh — ein sehr netter Herr! Jetzt schläft
-er. Aber um ¾ 8 wünscht er das Abendbrot bereit. Wie
+er. Aber um ¾8 wünscht er das Abendbrot bereit. Wie
 wär’s also mit einem Beefsteak, Herr Greiner?«
 
 »Gewiß, gewiß, — mir sehr lieb, Frau Torstensen.« Ich
@@ -211,17 +211,17 @@ Der Nebel draußen ist jetzt so dicht, daß man ihn auf Flaschen
 füllen kann. Sehr günstig für uns. Zieh’ Dir Deinen blauen
 Sweater über, dann brauchst Du keinen Mantel. Nimm auch
 eine weiche Reisemütze und Deinen Selbstknaller. Man kann
-ja nie wissen was passiert!«
+ja nie wissen, was passiert!«
 
 Im Dunkeln traf ich meine Vorbereitungen für den
-Ausflug, — Ausflug wohin wohl? Ich hatte keine Ahnung
-und — das war gut! Hätte ich’s gewußt, wäre ich vielleicht
+Ausflug, — Ausflug wohin wohl? Ich hatte keine Ahnung.
+Und — das war gut! Hätte ich’s gewußt, wäre ich vielleicht
 zum ersten Mal daheim geblieben und hätte Harst allein gehen
 lassen.
 
 Harst saß derweilen in meiner Sofaecke und rauchte seine
 Zigarette. Ich sah von ihm lediglich das rote Pünktchen der
-— glimmenden Zigarette, das sich hin und wieder bewegte.
+glimmenden Zigarette, das sich hin und wieder bewegte.
 
 Von der Straße drangen nur sehr selten das Rollen eines
 Wagens und matte Hufschläge herauf. Im Hause selbst regte
@@ -243,7 +243,7 @@ hinaus! Schon faul, dieses Bestreben, jedes Geräusch zu vermeiden!
 Leine hängt so, daß Du noch zum Schluß ein Meter tief hinabspringen
 mußt. Wir treffen uns vor dem Thorwaldsen-Museum.
 Du wartest dort bis ich komme. Des Nebels wegen
-pfeife ich unser altes Signal — Wiedersehen!«
+pfeife ich unser altes Signal. — Wiedersehen!«
 
 Im Nu schwang er sich auf den Balkon hinüber. Dann
 verschluckte der braungelbe Nebel ihn.
@@ -257,7 +257,7 @@ weiter nach unten und sprang auf den Bürgersteig. Von der
 Leine war in diesem Nebel nichts zu sehen.
 
 Ich lief auf die andere Straßenseite und pfiff möglichst
-laut die ersten Takte der Graalsarie aus Lohengrin. Ich
+laut die ersten Takte der Gralsarie aus Lohengrin. Ich
 lauschte —; keine Antwort. Um mich her nur die häßlichen,
 gelblichen, feuchten Schwaden.
 
@@ -335,7 +335,7 @@ gewölbter Raum. Sechs zinkbeschlagene, schmale Tische standen
 in der Mitte nebeneinander. Drei davon waren belegt:
 stille Schläfer ruhten dort; zwei Männer und ein Weib mit
 <@pagebreak/>
-aufgelöstem hellblondem Haar; Leichen, mit denen die Polizei
+aufgelöstem, hellblondem Haar; Leichen, mit denen die Polizei
 sich zu beschäftigen Grund hatte.
 
 In der Ecke links war auf zwei Holzblöcke ein erdbeschmutzter
@@ -418,7 +418,7 @@ scheuer Blick gerade da den Kahlkopf der einen der beiden
 männlichen Leichen traf, — da erst fiel mir das Rätselwesen
 am Fenster des Fremdenheims ein.
 
-»Ich habe heute abend gegen ¾ 7 Uhr etwas Merkwürdiges
+»Ich habe heute abend gegen ¾7 Uhr etwas Merkwürdiges
 beobachtet,« begann ich flüsternd. »Ich weiß nicht, ob es
 Dich interessieren wird.«
 
@@ -476,7 +476,7 @@ Alter! Wie ein Blitz kam mir soeben die Erleuchtung. Ich
 weiß, welcher Art dieses Geschöpf war! Ich weiß, weshalb es
 Dir »als Rätselwesen« vorkam bei dem flüchtigen Eindruck.
 Nur — die Hauptsache weiß ich nicht: wozu man dieses Geschöpf
-benutzen will, zu dem sowohl der Briefumschlag den ich
+benutzen will, zu dem sowohl der Briefumschlag, den ich
 in meinem Balkonzimmer fand, als auch der Leinwandsack
 dort im Sarge in Beziehung stehen!«
 
@@ -511,7 +511,7 @@ Stimmung. Ich frage mich augenblicklich, wie es kommen
 mag, daß die Polizei uns noch immer nicht am Kragen
 hat.«
 
-Er zog seine Uhr. »Wir sitzen hier nun bereits 33 ½
+Er zog seine Uhr. »Wir sitzen hier nun bereits 33½
 Minuten. Verstreichen noch fünfzehn Minuten, ohne daß die
 »Offiziellen« erscheinen, so bekenne ich, daß ich mich geirrt
 habe, daß der Kerl schlauer war als wir und wir selbst uns
@@ -571,7 +571,7 @@ Veröffentlichung unserer kleinen Abenteuer zu einer nur
 zu bekannten Marke gemacht! — Also — wer sperrte uns
 hier ein? — Du zuckst die Achseln. Lieber Alter — die
 Sache ist doch so leicht zusammenzustellen und ergibt ein Bild,
-das als logisches Denkgemälde auf den »<span class="g">Kerl</span>« hinweist,
+das als logisches Denkgemälde auf den »*Kerl*« hinweist,
 der vorhin so leise die Wohnung der Majorin verließ.«
 
 Ah — jetzt wurde es wirklich hell in mir.
@@ -587,11 +587,11 @@ hatte, als ich behauptete, dieser Möblierte der Majorin verdiene
 ein Fragezeichen. Der Mensch hat eben sofort richtig
 durchschaut, daß wir Spione sind, hat uns, wozu ihn sein eigenes
 schlechtes Gewissen trieb, hier festgehalten, weiß nun,
-daß es für ihn höchste Zeit ist, das gastliche Heim der Thorstensen
-zu verlassen — das ist <span class="g">der verdorbene Trumpf</span>, lieber
+daß es für ihn höchste Zeit ist, das gastliche Heim der Torstensen
+zu verlassen — das ist *der verdorbene Trumpf*, lieber
 Schraut! — wird jetzt seine Koffer packen und heimlich
-verduften. Wir aber werden nicht mehr <span class="g">rechtzeitig
-heimkommen</span>, seinen Abzug zu verhindern. — So — das
+verduften. Wir aber werden nicht mehr *rechtzeitig
+heimkommen*, seinen Abzug zu verhindern. — So — das
 ist das logische Gemälde.«
 
 Ich streckte ihm die Hand hin.
@@ -636,6 +636,8 @@ Menschen?«
 
 »Oder — er selbst!« nickte Harst.
 
+* * *
+
 Wir gelangten dann auf dem Wege, den die sogenannten
 ehrlichen, sittsamen Leute nehmen, — durch die Haustür, über
 die Treppe und durch die Flurtür in die Wohnung der Torstensen.
@@ -652,7 +654,7 @@ meine Stubentür ja von innen verschlossen und verriegelt
 hatte. Und daß Harst dies bei seinem Balkonzimmer ebenfalls
 <@pagebreak/>
 getan, unterlag wohl keinem Zweifel. Als ich ihn
-hierauf aufmerksam machte raunte er mir zu:
+hierauf aufmerksam machte, raunte er mir zu:
 
 »Oh — daran habe ich schon gedacht! Ich wollte auch gar
 nicht in unsere Zimmer. Ich wollte in das des Fragwürdigen!
@@ -669,7 +671,7 @@ sein.«
 »Allerdings!« gab ich Harst leise recht. »Das wird wohl
 so gewesen sein.«
 
-»Komm nun. Sehen wir uns als Revanche auch sein
+»Komm’ nun. Sehen wir uns als Revanche auch sein
 Zimmer an!«
 
 Der lange gerade Flur mit den vielen Türen war uns
@@ -681,7 +683,7 @@ wie Harst hier also die richtige Tür herausfinden wollte.
 Er hatte seine Taschenlampe eingeschaltet und seine Stiefel
 vor seine Tür gesetzt. Ich folgte schnell seinem Beispiel und
 stellte auch meine Schnürschuhe hin. Dann schlichen wir langsam
-weiter. Schritt für Schritt. Vor der vierten Tür linker
+weiter, Schritt für Schritt. Vor der vierten Tür linker
 Hand machte Harst Halt.
 
 »Hier muß es sein!« — Er deutete auf das Schloß. Der
@@ -726,7 +728,7 @@ und las vor:
 
 > »Harald Harst! Sie werden, sobald Sie das Leichenschauhaus
 verlassen haben, diesen Brief finden. Ihr Benehmen
-auf der Straße kurz nach ¼ 12 Uhr verriet, daß Sie mir auflauerten.
+auf der Straße kurz nach ¼12 Uhr verriet, daß Sie mir auflauerten.
 Ich habe den Spieß umgedreht und bin Ihnen gefolgt.
 — Ich habe alle Ursache, zunächst das Feld hier zu räumen.
 Ich verschwinde. Der Schlüssel ist der Ihrer Stubentür.
@@ -739,7 +741,7 @@ hier eingezogen waren. Da schon war ich argwöhnisch. Nun
 den Kopf zerbrechen, wo der tote Busley geblieben ist, weshalb
 er starb und weshalb dann doch nur der Sack mit den
 Steinen im Sarge lag. Ich traue Ihnen einigen Spürsinn zu,
-gewiß! Daß Sie aber diesmal nicht herausbekommen, zu
+gewiß! Daß Sie aber diesmal *nicht* herausbekommen, zu
 welchem Streich Busleys Tod den Auftakt bildete, weiß ich
 so genau, daß ich mir gestatte, Ihrem Genie durch die Andeutung
 nachzuhelfen: Es gibt auf diesem Erdenrund ein
@@ -796,12 +798,13 @@ Stiefel zum Beispiel befindet sich irgend ein Gegenstand der
 nicht hineingehört.«
 
 Er schlug kräftig auf die Sohle, schüttelte nochmals.
+
 Und — da fiel ein Etwas heraus, das wie ein Stechapfel
 aussah, — eine matt schillernde Aluminiumkugel mit nach
-allen Seiten starrenden haarscharfen Spitzen.
+allen Seiten starrenden, haarscharfen Spitzen.
 
 »Da haben wir’s!« rief er leise. »Natürlich vergiftet!
-Hätte ich den Stiefel ahnungslos angezogen dann —! Nun
+Hätte ich den Stiefel ahnungslos angezogen, dann —! Nun
 <@pagebreak/>
 — diesmal ist’s vorbeigeglückt, Master Palperlon! Das kleine
 Mordinstrument aber werde ich mir sorgfältig aufheben!«
@@ -810,7 +813,7 @@ Harst suchte weiter, fand aber nichts Verdächtiges mehr.
 Dann packte er den Koffer wieder, legte auch alles hinein,
 was er bereits in die Schublade des Waschtisches gelegt hatte.
 
-»Wir werden nämlich sofort Frau Torstensens Heim verlassen.«
+»Wir werden nämlich sofort Frau Torstensens Heim verlassen,«
 erklärte er. »Wir haben hier nichts mehr zu tun. Ich
 weiß jetzt, was Palperlon plant. Wenigstens in der Hauptsache
 weiß ich’s. Es ist besser, wir verschwinden und beziehen
@@ -858,35 +861,35 @@ quer durchgerissenen, halben Briefumschlag in der Hand und
 besichtigte ihn mit Polizeiaugen.
 
 Das Stück hatte Dreieckgestalt. Oben links war ein
-blauer Firmenstempel. Davon war noch folgendes vorhanden
+blauer Firmenstempel. Davon war noch folgendes vorhanden:
 
 > Jörn Hol
-Tau
+&nbsp;&nbsp;&nbsp;&nbsp;Tau
 Christi
-Anerk
-erste
+&nbsp;Anerk
+&nbsp;&nbsp;erste
 
 Die rechte Hälfte des Stempels also fehlte. — Die Ergänzung
-des Fehlenden erschien mir sehr einfach. <span class="g">Jörn Hol</span>
-war der Anfang eines Namens. — <span class="g">Tau</span> konnte nur der Anfang
-eines Straßennamens sein. — <span class="g">Christi</span> — da hatte man
+des Fehlenden erschien mir sehr einfach. *Jörn Hol*
+war der Anfang eines Namens. — *Tau* konnte nur der Anfang
+eines Straßennamens sein. — *Christi* — da hatte man
 die Auswahl zwischen Christiania und vielen anderen Orten,
-die so anfingen — <span class="g">Anerk</span> — natürlich Anerkennungen,
-<span class="g">erste</span> gleich erster Firmen. —
+die so anfingen — *Anerk* — natürlich Anerkennungen,
+*erste* gleich erster Firmen. —
 
 Dann die Aufschrift auf der Umschlagshälfte:
 
 > Herrn
-Mc
-Kope
-bei Frau Ma
+&nbsp;&nbsp;Mc
+&nbsp;&nbsp;&nbsp;&nbsp;Kope
+&nbsp;&nbsp;&nbsp;bei Frau Ma
 
 Nun — das konnte ergänzt nur heißen:
 
 > Herrn
-Macdonald Busley
-Kopenhagen Olfersgade 81
-<span class="g">bei Frau</span> Major Torstensen.
+&nbsp;&nbsp;*Ma*cdonald Busley
+&nbsp;&nbsp;&nbsp;&nbsp;*Kope*nhagen, Olfersgade 81
+&nbsp;&nbsp;&nbsp;*bei Frau Ma*jor Torstensen.
 
 Weiter konnte ich an dem Lesezeichen beim besten Willen
 nichts entdecken.
@@ -917,7 +920,7 @@ wußte kaum, wie ich hierher geraten war und beobachtete
 nun, wie eine große, elegante Privatjacht am Bollwerk festmachte.
 
 Neben mir lehnten ein paar verwitterte Fischer mit
-dunklen faltigen Gesichtern und machten ihre Bemerkungen
+dunklen, faltigen Gesichtern und machten ihre Bemerkungen
 über die Manöver des schneeweißen Seglers, auf dessen Achterdeck
 auch zwei Damen sichtbar waren.
 
@@ -1021,7 +1024,7 @@ Harst riß ein Blatt aus seinem Notizbuch und schrieb in
 deutscher Schrift darauf:
 
 »Bitte um kurze Rücksprache. Es handelt sich um das
-Armband H. H.«
+Armband. H. H.«
 
 Der Matrose verschwand mit dem Zettel in dem Treppenaufbau
 des Achterdecks.
@@ -1171,7 +1174,7 @@ daß wir hierauf erst kamen, als er uns den Rückweg
 aus dem Leichenkeller versperrte, uns zu einem Genickbruch
 verhelfen wollte und uns schließlich auch einen Brief
 mit der Unterschrift — James Palperlon in seinem Zimmer
-zurück gelassen hatte! — Hier ist der Brief, Mylord. Bitte lesen
+zurückgelassen hatte! — Hier ist der Brief, Mylord. Bitte lesen
 Sie ihn. Sie ersehen daraus, wie sicher Palperlon seiner
 Sache war, daß ich nie und nimmermehr dahinter kommen
 könnte, weshalb er diese Doppelrolle bei der Majorin gegeben
@@ -1243,7 +1246,7 @@ Engländer angeblich, gewohnt und zwar in dem betreffenden
 Zimmer. Dieser Plampool führte einen sehr großen, schweren
 Koffer mit sich, lebte sehr zurückgezogen und empfing nie
 Besuch, schloß sich auch des öfteren ein. Heute war er dann
-gegen ½ 7 morgens ganz plötzlich abgereist — nach Stockholm
+gegen ½7 morgens ganz plötzlich abgereist — nach Stockholm
 angeblich. — Von der Olafsen begab ich mich zu dem Kopenhagener
 Staatstaucher Nikolassen. Ich hatte in kurzem von
 ihm erfahren, daß er einen Zivilkollegen namens Jörn Holgersö
@@ -1254,7 +1257,6 @@ mit seinem großen Koffer wirklich den Dampfer nach Malmö
 benutzt habe, um weiter nach Stockholm zu reisen.
 
 Diese Nachforschungen hielten mich zwei Stunden auf.
-
 Dann wußte ich, daß Plampool an Bord eines Motorkutters
 gegangen war, den ein gewisser Tompson für eine Woche gemietet,
 aber nur mit einem von ihm selbst gestellten Matrosen
@@ -1264,7 +1266,7 @@ den Hafen von Kopenhagen verlassen. Wohin — das
 konnte mir niemand sagen. Zu einer Vergnügungstour hatte
 Tompson ihn gemietet. Mehr wußte der Kutterbesitzer nicht.
 
-Christiansholm liegt ja nun kaum 1 ½ Kilometer südlich
+Christiansholm liegt ja nun kaum 1½ Kilometer südlich
 von hier. Ich fuhr im Auto zu Taucher Jörn Holgersö. Unterwegs
 studierte ich ein Pack Zeitungen, die ich mir gekauft
 hatte, alles alte Nummern. Ich suchte darin nach einem
@@ -1295,7 +1297,7 @@ wollen. Da Busley einen guten Preis bot, hatte Holgersö
 ihm schriftlich nach Kopenhagen geantwortet, er würde ihm
 den Taucheranzug bringen. Daraufhin erschien sofort bei Holgersö
 ein Beauftragter Busleys mit dem Gelde und nahm
-den Taucheranzug mit. Dieser war in einen <span class="g">Leinensack</span>
+den Taucheranzug mit. Dieser war in einen *Leinensack*
 verpackt. Und diesen Sack bekam Busleys Beauftragter mit.
 — Es ist also derselbe Sack, der nachher im Sarge Busleys
 wieder auftauchte. — Holgersö erhielt dann sehr bald Arbeit
@@ -1313,7 +1315,7 @@ Der Lord schwieg und machte nur eine bedauernde Handbewegung.
 Harst blickte mich daraufhin an. Und ich beeilte mich, zu
 erklären: »Busley »starb«, um jede Spur hinter sich zu verwischen.
 Er hatte eben mit dem Taucheranzug etwas vor, das
-um jeden Preis verborgen bleiben sollte. Dadurch daß er
+um jeden Preis verborgen bleiben sollte. Dadurch, daß er
 scheinbar begraben war, machte er es sowohl Holgersö als auch
 anderen Leuten unmöglich, sich mit ihm irgendwie noch zu beschäftigen.«
 
@@ -1341,7 +1343,7 @@ Shallow zur Verfolgung der Verbrecher zu benutzen. Ich muß
 danken. Es wäre ein grober Fehler, ein so auffallendes Fahrzeug
 zu nehmen. Nein — nur ein einfacher Fischkutter kann
 uns nützen. Er liegt schon bereit. Wir aber müssen zu einfachen
-Fischern werden, je naturgetreuer desto besser. Ich
+Fischern werden, je naturgetreuer, desto besser. Ich
 erwarte Sie also in zwanzig Minuten drüben am Strande
 bei dem Fischer Göllpaart.«
 
@@ -1359,7 +1361,7 @@ fünf Mann an Bord den kleinen Hafen von Klampenborg
 verließ. Außer Harst, dem Lord und mir waren noch der
 alte Göllpaart und sein Sohn Gunnar mit von der Partie.
 
-Der Fischkutter KI 16 (dies war die Fischerei-Registernummer
+Der Fischkutter Kl 16 (dies war die Fischerei-Registernummer
 des alten Göllpaart) besaß einen Motor, wie heute
 die meisten Hochseefänger. Der Abendwind kam von Nordwest,
 also für uns günstig. Die Luft war diesig, klarte aber
@@ -1411,7 +1413,7 @@ ich könnte auch so leicht aus Tatsachen Schlüsse ziehen wie
 Sie!« meinte er. »Ich möchte Ihnen noch mitteilen, daß ich
 nur hier in der Ostsee seit drei Wochen kreuze, um nach meiner
 Mutter zu suchen. Die letzte Nachricht von ihr war ein
-Brief aus Stockholm, in dem sie nichts von Bedeutung mitteilte
+Brief aus Stockholm, in dem sie nichts von Bedeutung mitteilte,
 nur das eine, daß sich zwei verdächtige Menschen stets in ihrer
 Nähe hielten. Den einen beschrieb sie als groß und hager mit
 einer Nase mit auffallend aufgeblähten Nasenflügeln und
@@ -1428,7 +1430,7 @@ Harst rauchte schweigend seine Zigarette. Auch der
 Lord starrte düster vor sich hin.
 
 Wir begegneten vielen Fischkuttern und mehreren Seedampfern,
-die nach Kopenhagen wollten. Gegen ½ 9 schlief
+die nach Kopenhagen wollten. Gegen ½9 schlief
 der Wind völlig ein. Dafür war die Luft so klar geworden,
 daß wir beim Lichte des vorhin erschienen Vollmondes recht
 deutlich in der Ferne Land erblickten.
@@ -1475,11 +1477,11 @@ Größe, dudelte einen Walzer.
 
 »Ja — es muß sein,« erklärte Harst sehr ernst. »Bedenken
 Sie, Mylord, — wir haben es mit einem James Palperlon
-zu tun. Der Mann sichert sich nach allen Seiten hin.
+zu tun. *Der* Mann sichert sich nach allen Seiten hin.
 Wir haben die Eilande jetzt fünfhundert Meter vor uns. Ich
 wünschte, es wäre dunkel und nebelig. — Mylord, das Rätsel
 des Unterganges des Albatros hat nur eine Lösung. Vielleicht
-hat sich folgendes ereignet — nein, es <span class="g">muß</span> sich etwa
+hat sich folgendes ereignet — nein, es *muß* sich etwa
 folgendes ereignet haben: Die Jacht mußte auf dem Wege
 nach Kopenhagen dicht an Saltholm vorüber. Ein angeblich
 Schiffbrüchiger wird von dem Albatros dann aufgefischt worden
@@ -1632,5 +1634,5 @@ heute fest überzeugt.
 
 Welche Rolle der Talisman der Familie Melville bei unserem
 nächsten Abenteuer spielte, will ich in der folgenden
-Erzählung berichten, in »<span class="g">Um die Millionenbeute</span>«.
+Erzählung berichten, in »*Um die Millionenbeute*«.
 
