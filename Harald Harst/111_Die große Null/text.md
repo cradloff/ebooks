@@ -970,7 +970,7 @@ Und zwanzig Minuten später fuhr ich mit Harald, den
 wir oben in Wogitsch’ Wohnzimmer mit einer dicken Beule
 am Hinterkopf auf dem Fußboden bewußtlos aufgefunden
 hatten, und der dann sehr bald wieder zu sich gekommen,
-Rat noch sehr schwach war, heimwärts nach der Blücher-trae.
+aber noch sehr schwach war, heimwärts nach der Blücherstraße.
 
 Er lehnte sehr matt in der einen Ecke und hielt die
 Augen geschlossen, stöhnte zuweilen leise und antwortete auf
@@ -978,71 +978,71 @@ meine besorgten Fragen stets nur mit einem schwach geflüsterten:
 »Es wird schon wieder werden...«
 
 Uns gegenüber saß ein Kriminalbeamter, den mir
-Kommissar Rottmüller mitgegeben hatte, damit er mir Hülse,
+Kommissar Rottmüller mitgegeben hatte, damit er mir hülfe,
 Harst ins Bett zu bringen.
 
 Während der Autofahrt nach Schmargendorf hinaus
-hatte ich geudgend Zeit, mir die ganzen Ereignisse dieses
-Abends nochmals ins Gedächlni« zurückzurufen.
+hatte ich genügend Zeit, mir die ganzen Ereignisse dieses
+Abends nochmals ins Gedächtnis zurückzurufen.
 
-Vieles an Fingers:eilen erschien mir dabei dunkel und
-lriderspruh3voll. Die beiden greisenhaften Bewohner den
-Munmmer 6 aber kamen mir im Lichte dieser widerst leise
-vollen Kleinigkeiten ebenso geheimnisvoll wie fragwürdig
+Vieles an Einzelheiten erschien mir dabei dunkel und
+widerspruchsvoll. Die beiden greisenhaften Bewohner von
+Nummer 6 aber kamen mir im Lichte dieser widerspruchsvollen
+Kleinigkeiten ebenso geheimnisvoll wie fragwürdig
 vor. —
 
-Es war Tatsache: sie wohnten dort bereits zwar ja
-Jahre. Tief und anderes hatte ein pensionierter Beamte!
-aus Nummer 5, der alle Zeuge herbeigeholt worden wer,
-dem Kriminalkommissar Rottmüller betrat:gt. Da sich a1
-72, Rehbein 69 Jahre alt. Sie letzten ganz zurückge: ran.
-Van bekam sich selten zu Gesicht. Ver1randte oder Sie. 1e
+Es war Tatsache: sie wohnten dort bereits zwanzig
+Jahre. Dies und anderes hatte ein pensionierter Beamter
+aus Nummer 5, der als Zeuge herbeigeholt worden war,
+dem Kriminalkommissar Rottmüller bestätigt. Wogitsch war
+75, Rehbein 69 Jahre alt. Sie lebten ganz zurückgezogen.
+Man bekam sich selten zu Gesicht. Verwandte oder Freunde
 <@pagebreak/>
-leiten sie nicht haben, da sie nie einen Brief erhielten,
-es sei denn von einer Behörde. Aber — sie waren mild
-(Artig und große Kinderfreunde. Jeden Weihnachten des
-scherten sie zehn Kinder sehr reichlich. dann brannte in Rehbeins
-Deckblatt ein Tannenbaum. —
+konnten sie nicht haben, da sie nie einen Brief erhielten,
+es sei denn von einer Behörde. Aber — sie waren mildtätig
+und große Kinderfreunde. Jeden Weihnachten bescherten
+sie zehn Kinder sehr reichlich. dann brannte in Rehbeins
+Werkstatt ein Tannenbaum. —
 
 Und dieser Rehbein hatte nun, wie Harald bereits hatte
-aauussagen können, durch einen Hieb mit einem stumpfen Instrument
-meinen Freund ganz überraschend zu Boden geklirrt,
-war so lautlos in das seine Hinterzimmer eingedrungen,
+aussagen können, durch einen Hieb mit einem stumpfen Instrument
+meinen Freund ganz überraschend zu Boden gestreckt,
+war so lautlos in das kleine Hinterzimmer eingedrungen,
 daß Harst, der gerade den Schrank durchsuchte, nicht eher
 von Rehbeins Anwesenheit etwas gemerkt hatte, als bis
-der Schlag seinen Kopf trat und er im Umsinken den Bude
-öligen gewahrte, der wieder durch die Tür in den Treppenflur
+der Schlag seinen Kopf traf und er im Umsinken den Buckligen
+gewahrte, der wieder durch die Tür in den Treppenflur
 schlüpfte.
 
-Und Wogitsch« Leiche mit der furchtbaren Halswunde
+Und Wogitsch’ Leiche mit der furchtbaren Halswunde
 (die Schlagader war glatt durchschnitten) hatte Rottmüller
 noch hinter der Baldachinseide gefunden. Sonst... nichts.
-las Häuschen war leer gewesen. Rehbein war, wie die
+Das Häuschen war leer gewesen. Rehbein war, wie die
 offene Dachluke bewies, nach dem Ueberfall über die Dächer
-entfomnmen... —
+entkommen... —
 
-las Auto hielt vor Blücherstraße 10,
+Das Auto hielt vor Blücherstraße 10,
 
 Der Beamte und ich faßten Harald unter und führten
 ihn ins Schlafzimmer.
 
-Hier erklärte Palast dann mit leiser Stimme, einen
-Arzt zu holen sei unnönig. Eine Eisblase aus den Hinterkopf
+Hier erklärte Harald dann mit leiser Stimme, einen
+Arzt zu holen sei unnötig. Eine Eisblase auf den Hinterkopf
 würde die Schmerzen schon beseitigen.
 
 So verabschiedete sich der Beamte denn. Ich brachte
-ihn bis an die Haustür, bedankte mich nochmals und bete
-sperrte Die Tür hinter Dem Davonrollenden, auf den das
+ihn bis an die Haustür, bedankte mich nochmals und versperrte
+Die Tür hinter Dem Davoneilenden, auf den das
 Polizeiauto gewartet hatte.
 
-ich kehre in Harald$ Wrbeitäzimmer zurück. ich
-voll, achte da gern Schranke die Eisblase hervorsuchen.
+ich kehrte in Haralds Arbeitszimmer zurück. ich
+wollte aus dem einen Schranke die Eisblase hervorsuchen.
 
-Oh — hatte das Am mehr nötig, Harst, der doch
-vorhin noch aus dem Vorland nebenan in Cıhlafzimmier
+Ich — hatte das nicht mehr nötig. Harst, der doch
+vorhin noch auf dem Bettrand nebenan in Schlafzimmer
 gesessen hatte, saß nun ganz behaglich im Klubsessel — hier
 <@pagebreak/>
-in dem Gemach, das schon so manches an Absonderlichemn
+in dem Gemach, das schon so manches an Absonderlichem
 miterlebt hatte.
 
 Und — er rauchte wahrhaftig eine Mirakulum!
@@ -1063,129 +1063,133 @@ wir nicht hielten — die Berliner Volksstimme.
 
 »ich fand sie in dem rechten Schubkasten des Schrankes,«
 erklärte Harald, der meinem Blick gefolgt war. »Wogitsch
-benmußte den Schubkasten als Schreibsekretär. Die dort auf
-bewahrten Papiere waren durchwühlt worden. Von wem,
+benutzte den Schubkasten als Schreibsekretär. Die dort aufbewahrten
+Papiere waren durchwühlt worden. Von wem,
 darüber sprechen wir sofort. Dieser Brief nebst Umschlag
-war an diese Zeitung lose hineingelegt. — Da — lies den
+war in diese Zeitung lose hineingelegt. — Da — lies den
 Brief...«
 
-Ich hatte mich bereits von meinem ersten Schied über
-eben so plötzlich wieder aufgelebten Harst leidlich erholt. Ich
-rückte mir kopfschüttelnd einen zweiten Gefiel an den Tisch
+Ich hatte mich bereits von meinem ersten Schreck über
+den so plötzlich wieder aufgelebten Harst leidlich erholt. Ich
+rückte mir kopfschüttelnd einen zweiten Sessel an den Tisch
 und meinte nur:
 
 »Du hast also wieder mal Komödie gespielt. Du warst
 gar nicht mehr bewußtlos, als wir Dich fanden.«
 
-»Nein. — Lies|» —
+»Nein. — Lies!« —
 
 Da stand:
 
 > Hamburg, den 3. März 1923.
+
 > Hotel Amsterdam,
-> Bemerkte. 7,
+
+> Fennerstr. 7,
+
 > Herrn Ernst Wogitsch,
+
 > Berlin.
 
-> Sie sind mir als vorzüglicher Viachéfigurenkünstlexr
+> Sie sind mir als vorzüglicher Wachsfigurenkünstler
 empfohlen worden. ich sende Ihnen anbei acht Photographien
-des Kopfes einer Inderin ein. Die Aufnahnuien
+des Kopfes einer Inderin ein. Die Aufnahmen
 <@pagebreak/>
-sind sprechend schallt und geben den Kopf von allen
-Jenen wieder. Fertigen Sie danach einen Wachskopf
+sind sprechend ähnlich und geben den Kopf von allen
+Seiten wieder. Fertigen Sie danach einen Wachskopf
 an, der genau dieselbe Frisur haben muß. Das Haar
-nun schwarz und seidig sein. Die Hautfarbe ist auf der
-verfolgenden Aqguarellskizze genau wiedergegeben. Der
+muß schwarz und seidig sein. Die Hautfarbe ist auf der
+beifolgenden Aquarellskizze genau wiedergegeben. Der
 Kopf muß unbedingt aus einiger Entfernung wie der
 einer Lebenden wirken. (Auch die Augenfarbe ersehen
 Sie aus der Skizze.) Ferner brauche ich zu dem Kopf ein
 Paar leicht bräunliche zierliche Hände und Füße bis
-zur halben Wade, — Als Anzahlung für die Arbeit, Die
+zur halben Wade. — Als Anzahlung für die Arbeit, Die
 bis zum 9. März unbedingt vollendet sein muß, lege ich
-einhundert Dollar bei. Den Restbetrag bealeiche ich am
-9. März abends zehn Uhr. Erwarten Sie mich dann vor
+einhundert Dollar bei. Den Restbetrag begleiche ich am
+9\. März abends zehn Uhr. Erwarten Sie mich dann vor
 Ihrer Haustür. L. Luneßorg.
 
-Ich Ins den Brief nochmal?.
+Ich las den Brief nochmals.
 
 Der Ton des Schreibens machte mich ebenso stutzig wie
-der Anhalt. Der Ton war gebieterisch, fast unhöflich. Und
-der Anhalt — ja, was sollte wen dazu sagen?! —
+der Inhalt. Der Ton war gebieterisch, fast unhöflich. Und
+der Inhalt — ja, was sollte man dazu sagen?! —
 
 Harst griff nach der Zeitung, nahm mir den Brief weg
-und mahnte:
+und meinte:
 
 »Hier — lies nun diesen Bericht über unsere Abenteuer
-in Schloß Galt Du findest in dem Bericht auch Lionel
+in Schloß Gnir. Du findest in dem Bericht auch Lionel
 Barrings Gründung, die große Null, erwähnt.«
 
-Wieder las ich, — Der Bericht entsprach den Tatsachen.
+Wieder las ich. — Der Bericht entsprach den Tatsachen.
 
-»So,« sagte Palast, »Ich! bereite, daß nun Wogitsch
-diesen Bericht kannte, denn Dressur Rehbein betonte, daß
-Wogitsch von der Nüßlichteit der Settungsieiiiite gesprochen
+»So,« sagte Harald, »jetzt beachte, daß auch Wogitsch
+diesen Bericht kannte, denn Meister Rehbein betonte, daß
+Wogitsch von der Nützlichkeit der Zeitungslektüre gesprochen
 hatte. Das heißt: Wogitsch hat den Brief des Herrn
-L. Luneßorg genauer sich angesehen als zu und bat daher
-brav gefunden, daß L. Luneßorg nichts als die Umfkbrung
-des Agent oder besser der Bezeichnung »große Null« ist, —
-ein uralter Scherz im übrigen, den sich Betrüger und Sang
-Tresor!en sehr gern leisten! — Nun ist also auch aufgeklärt, weg
-halb Wogitsch...«
+L. Luneßorg genauer sich angesehen als Du und hat daher
+herausgefunden, daß L. Luneßorg nichts als die Umkehrung
+des Namens oder besser der Bezeichnung »große Null« ist, —
+ein uralter Scherz im übrigen, den sich Betrüger und Konsorten
+sehr gern leisten! — Nun ist also auch aufgeklärt, weshalb
+Wogitsch...«
 
 Er machte eine lange Kunstpause...
 
 <@pagebreak/>
 »... heute am *neunten März* abends halb neun
-zu uns kam. Er hat eben erst heute dies Bedeutung von
+zu uns kam. Er hat eben erst heute die Bedeutung von
 L. Luneßorg herausgefunden, er kannte unsere schottischen
-Abenteuer und die achtete Null aus der Zeitung und wollte
-meinen Na! einholen, bevor er... heute am *neunten
+Abenteuer und die große Null aus der Zeitung und wollte
+meinen Rat einholen, bevor er... heute am *neunten
 März* abends zehn Uhr den wahrscheinlich fertigen Wachskopf
 an die... große Null ablieferte.«
 
-Atemlos hatte ich zugehört
+Atemlos hatte ich zugehört...
 
-las — das also war die völlig unerwartete Verbindung
-zynischen Lionel Barring und dem Brückengang!
+Das — das also war die völlig unerwartete Verbindung
+zwischen Lionel Barring und dem Brückengang!!
 
 Ich starrte Harald an...
 
 Weiß der Himmel: meinem Freunde merkte man nicht
-an, daß er vor einer Grunde einen Schlag auf den Kopf
+an, daß er vor einer Stunde einen Schlag auf den Kopf
 erhalten hatte!!
 
-Und dieser Freund lächelte jetzt unnmerkflih...
+Und dieser Freund lächelte jetzt unmerklich...
 
 »ich weiß noch mehr, lieber Alter. Das möchte ich
 Dir jedoch an Ort und Stelle mitteilen. Nur eins will ich
-Dir sehen legt sagen: Diese beiden Greise da aus Brückengang
+Dir schon jetzt sagen: Diese beiden Greise da aus Brückengang
 6 werden uns noch manche Nuß zu knacken geben!
-sind nicht das, wofür sie gelten vollen, sie waren
+Sie sind nicht das, wofür sie gelten wollen, sie waren
 einst...«
 
 Und — wieder die Kunstpause,
 
-ich Lernte mich näher zu Harald hin
+ich beugte mich näher zu Harald hin...
 
 »... sie waren einst... Piraten, Seeräuber...!«
-beendete er leise den Sah.
+beendete er leise den Satz.
 
-Piraten — — Scceräuber?!
+Piraten — — Seeräuber?!
 
 Wenn Harst gesagt hätte: »Diebe, Einbrecher, Mörder«
-— das ballte ich geglaubt.
+— das hätte ich geglaubt.
 
-Aber — — Piraten?! wer denkt 19239 noch an dicke
-Herrschaften?! Gewiß, das Sceräuberbandiwerf ist mich
-auCaeslorben. Das wissen wir beide am Gellen Zu den
-hineinschien Gewähren, ist hell Messina hegen. Bulle ei
+Aber — — Piraten?! wer denkt 1923 noch an diese
+Herrschaften?! Gewiß, das Seeräuberhandwerk ist nicht
+ausgestorben. Das wissen wir beide am besten. In den
+chinesischen Gewässern, in den verschwiegenen Buchten der
 Sundainseln tauchen diese Meeresbanditen immer wieder
 auf.
 
-Aber — — zwei Deutliche, die hier in Berlin leben, der
+Aber — — zwei Deutsche, die hier in Berlin leben, der
 <@pagebreak/>
-eine als Fantofjelffitiufier, der andere als Wachsmodelleur
-— — ©?!
+eine als Pantoffelschuster, der andere als Wachsmodelleur
+— — ?!
 
 Jetzt — — lächelte ich ich zweifelnd... —
 
@@ -1193,45 +1197,46 @@ Harald beachtete das nicht.
 
 »Die Polizei wird Brückengang 6 wohl bereits verlassen
 und Die Leiche weggeschafft haben,« sagte er und
-stand auf. »Zmmecerhin kann ich noch eine halbe Stunde
-Güimters bekanntes Werk über Alt-Berlin studieren.«
+stand auf. »Immerhin kann ich noch eine halbe Stunde
+Günters bekanntes Werk über Alt-Berlin studieren.«
 
 Er ging ins Nebenzimmer, in die Bibliothek.
 
-Gleich darauf ertönten von dort gut leise die Saiten
-des Bechsteinslügels.
+Gleich darauf ertönten von dort ganz leise die Saiten
+des Bechsteinflügels.
 
 Harst spielte... Harst, der Künstler.
 
 Ich kannte das. Wenn er besonders scharf nachdenken
-wollte, mußte ihn die Silangfülle seiner Smprovifationen
-um rauschen.
+wollte, mußte ihn die Klangfülle seiner Improvisationen
+umrauschen.
 
 Ich schlich bis an Die Türvorhänge.
 
 Da saß er. Nur die längliche Klavierlampe über dem
-Notenhalter brannte. Und auf dickem Notenhalter stand ein
+Notenhalter brannte. Und auf diesem Notenhalter stand ein
 dickes Buch, in dem er zuweilen rasch eine Seite umschlug.
 
 Ich ging ganz leise hinein und sehe mich ganz leise
 in einen Sessel.
 
 Harst hatte seit langem nicht gespielt. Und ich hörte
-ihm so acta zu.
+ihm so gern zu.
 
 Das war Harald Harst, der Künstler, der Detektiv, der
-Unbeareiflihe... Das war unser Leben, unser schönes,
+Unbegreifliche... Das war unser Leben, unser schönes,
 abenteuerliches Leben.
 
 Harst spielte, improvisierte. Harst — — spielte mit den
 Schicksalen anderer, unserer Gegner, der Leute, die dem
-bürgerlichen Frieden den zixicg erklärt hatten, —
+bürgerlichen Frieden den Krieg erklärt hatten, —
 
 Weshalb las er in Friedrich Günters »Alt-Berlin«, in
-dem Spezialwerk eines Apparats über Alt - Berliner
+dem Spezialwerk eines Baurats über Alt-Berliner
 Bauten...?!
 
 <@pagebreak/>
+
 <h2>5. Kapitel.</h2>
 <h3>Der Mann im Sessel.</h3>
 
@@ -1239,11 +1244,11 @@ Eine Stunde später... Ein Uhr morgens am
 10\. März 1923.
 
 Zwei wenig vertrauenerweckend aussehende Männer,
-etwa besserer Kaschemmentyp, stehen im Dunkel einer Für
-Nische dem Häuschen Brückengang An. 6 gegenüber.
+etwa besserer Kaschemmentyp, stehen im Dunkel einer Türnische
+dem Häuschen Brückengang Nr. 6 gegenüber.
 
-Die Fenster von Nr. 6 sind sämtlich dunkel. Nichte
-deutet mehr darauf bin, daß in dem alten Gebäude vor
+Die Fenster von Nr. 6 sind sämtlich dunkel. Nichts
+deutet mehr darauf hin, daß in dem alten Gebäude vor
 kurzem ein Verbrechen verübt ist, über das Harald mir gegenüber
 sich bisher nur ganz allgemein geäußert hatte...
 
@@ -1251,8 +1256,8 @@ Und — ich bin einer der Kaschemmenbrüder...
 
 Harald der andere...
 
-Unsere Masten sind so echt, daß jeder anständige Mensch
-einen weiten Bogen um uns gemacht hätte. — So sind mir.
+Unsere Masken sind so echt, daß jeder anständige Mensch
+einen weiten Bogen um uns gemacht hätte. — So sind wir.
 Vor einer Stunde noch der raffinierte Luxus der Harstschen
 Bibliothek. Jetzt... zerrissene Schuhe, Gummikragen mit
 roten Schlipsen auf schmierigen Wollhemden...
@@ -1264,43 +1269,42 @@ Und nach kurzer Pause: »Aber die Regenrinne dort
 rechts ist neu... Versuchen wir’s.«
 
 Er schiebt den Kopf vor, schaut nach rechts die Gasse
-oval, na links...
+hinab, nach links...
 
 Und gleitet über die Straße...
 
-Sıhtwingt sich empor...
+Schwingt sich empor...
 
-Nur er ist Turner, Jongleur, Aunsischüße. Er Dehli alles.
-Er ist der Kinn der modernen Zeit, —
+Nur er ist Turner, Jongleur, Kunstschütze. Er ist alles.
+Er ist der Mann der modernen Zeit, —
 
 <@pagebreak/>
-Oben im ersten Stock, der unbewohnt ist, weil zu be
-fällig, ein leises Krachen, ein leises Splittern.
+Oben im ersten Stock, der unbewohnt ist, weil zu baufällig,
+ein leises Krachen, ein leises Splittern.
 
 Eine Scheibe hat dran glauben müssen
 
-Harst verschwindet in dem rasch geeigneten Fensters
-Hügel.
+Harst verschwindet in dem rasch geöffneten Fensterflügel.
 
-Eine dünne seidene Leine mit Knoten und kurzen Golz-stäbchen
-kommt von oben herab. Meine ciniundertzweiund-achtzig
-Pfund wären für die Regenrinne eine zu starke He:
+Eine dünne seidene Leine mit Knoten und kurzen Holzstäbchen
+kommt von oben herab. Meine einhundertzweiundachtzig
+Pfund wären für die Regenrinne eine zu starke
 Belastung gewesen.
 
 Harald hilft mir nach oben. Das geht im Nu. Leise
-keuchend stehe ich neben ihm im Dunkeln aus morschen Dielen,
-in Denen die Trodenjänle, der trockene Schwamm, mwiütct.
+keuchend stehe ich neben ihm im Dunkeln auf morschen Dielen,
+in Denen die Trockenfäule, der trockene Schwamm, wütet.
 
 Wir warten am Fenster, ob wir etwa beobachtet worden
 sind.
 
 Nein — nichts...
 
-Kein Mensch ist Draußen zu Sehen.
+Kein Mensch ist Draußen zu sehen.
 
 »Fein gemacht!« sagt Harald.
 
-Seine Taschenlampe blind auf, beleuchtet die Dielen,
+Seine Taschenlampe blitzt auf, beleuchtet die Dielen,
 die Löcher, die brüchigen Stellen.
 
 Schritt für Schritt schleichen die Kaschemmenbrüder
@@ -1319,30 +1323,30 @@ Glauben an eine Gehörtäuschung...
 Und müssen doch schließlich einsehen, daß diese seltsamen
 Töne wirklich von oben her herabdringen...
 
-an fassungélosce Schluchzen aus einer Frauenarm...
+Ein fassungsloses Schluchzen aus einer Frauenkehle...
 
 Jammernde Laute...
 
-Dazzioisclen eine Männerstimme...
+Dazwischen eine Männerstimme...
 
-Und - ein heiseres Krächzen: Die Dohle, die zahme
+Und — ein heiseres Krächzen: Die Dohle, die zahme
 Dohle! —
 
 Harst umklammert meinen Arm...
 
-Faucht mir ins Ohr: »Was bedeutet das?!«
+Haucht mir ins Ohr: »Was bedeutet das?!«
 
 <@pagebreak/>
 Dann — ganz plötzlich Stille...
 
 Völlige Stille.
 
-So plötzlich, daß ich denke: da hat jemand der wohnenden
+So plötzlich, daß ich denke: da hat jemand der weinenden
 Frau Schweigen geboten!
 
 Nein — doch nicht völlige Stille...
 
-Die Dohle krächzt... schreit auf, sschnattert…
+Die Dohle krächzt... schreit auf, schnattert…
 
 Und all das von oben her aus des ermordeten Modelleurs
 ärmlichem Wohngemach.
@@ -1350,28 +1354,28 @@ Und all das von oben her aus des ermordeten Modelleurs
 All das so, als ob die Tür da oben nur angelehnt
 ist...
 
-Die Dohle festsaß...
+Die Dohle krächzt...
 
-Harst Hat die Lampe vorhin ausgeschaltet. Schaltet sich
+Harst Hat die Lampe vorhin ausgeschaltet. Schaltet sie
 wieder ein, flüstert:
 
-»Mit drei Springen die Treppe empor und hinein!«
+»Mit drei Sprüngen die Treppe empor und hinein!«
 
 Und — jagt vorwärts...
 
-Oft oben...
+Ist oben...
 
-Ich — ich fihaffte es nu uns Sprüngen.
+Ich — ich schaffte es mit vier Sprüngen.
 
-Wir stehen in dem armseligen Raum. die Sadlampe
+Wir stehen in dem armseligen Raum. die Gaslampe
 über dem großen Arbeitstische brennt...
 
 Und in dem alten Ohrensessel dort neben dem braunen
-Kachelofen sich... sich ein Mann im Sportpelz mit Dressur«
-fragen, ein Monokel ins rechte Auge geklemmt, bartlos,
+Kachelofen sitzt... sitzt ein Mann im Sportpelz mit Opossumkragen,
+ein Monokel ins rechte Auge geklemmt, bartlos,
 hager, kräftige Kinnpartie...
 
-lieber seinem Kopf Her die Dohle auf dem Rande bei
+Ueber seinem Kopf hockt die Dohle auf dem Rande der
 Rückenlehne.
 
 Der Mann ist... Lionel Barring...
@@ -1379,30 +1383,30 @@ Der Mann ist... Lionel Barring...
 Lionel Barring, der Herr der großen Null.
 
 Jetzt... kein Herr, jetzt ein... Gefesselter, Gefangener
-— trotz des Mordskerl.
+— trotz des Monokels.
 
-Aus dem Munde ragt der Zipfel eines Knebels heraus
+Aus dem Munde ragt der Zipfel eines Knebels heraus.
 von dem Zipfel laufen Kupferdrähte, tief in die Wangen
-sich eindríickend, nach dem Genie.
+sich eindrückend, nach dem Genick.
 
 Lionel Barring!!
 
 Wir hatten ihn — — endlich!!
 
-Aber es davor nicht unser Verdienst. Es war ein Zufall!
+Aber es war nicht unser Verdienst. Es war ein Zufall!
 
-Die ovale Nu! die nicht 1 fassende Verbrechergemeinschaft,
+Die — große Null, die nicht zu fassende Verbrechergemeinschaft,
 <@pagebreak/>
 die von Harst dann doch gesprengt worden war,
 saß Hier vor uns, verkörpert durch Lionel Barring, in Wahrheit...
-Lord Allan Einfälle, einst Abreiben von Schloß
-Galt, entarteter Sprößling einer der ältesten Geschlechter
+Lord Allan Gnirable, einst Besitzer von Schloß
+Gnir, entarteter Sprößling einer der ältesten Geschlechter
 Schottlands... —
 
 Wir standen wie die Bildsäulen...
 
-Und Lionel Bartloses Kopf bewegte sich ruckweise, seine
-Augen ruhten dabei wie hilfeslschend aus Haralds Gesicht...
+Und Lionel Barrings Kopf bewegte sich ruckweise, seine
+Augen ruhten dabei wie hilfeflehend auf Haralds Gesicht...
 
 Harst drehte sich nach rechts...
 
@@ -1414,7 +1418,7 @@ Barring ließ wie erleichtert den Kopf sinken. —
 
 Jedenfalls: wir hatten ihn!
 
-Und — wir halten ihm das Leben gerettet!
+Und — wir hatten ihm das Leben gerettet!
 
 Vielleicht noch fünf Minuten Dann...
 
@@ -1426,7 +1430,7 @@ Alles weitere gehört zum zweiten Teil...
 
 Zu...
 
-Bitte anzuschlagen...!
+Bitte umzuschlagen...!
 
 <@pagebreak/>
 
@@ -2172,8 +2176,8 @@ Freie in der Fabrik tätig gewesen!! Welche Frech
 riß!!! — —
 
 Ich habe hier leider nicht genügend Seiten zur Verfügung,
-um dieses Schlarassenleben in dieser Umgebung an
-Bord der Amanda genau zu schildern. Es war ein Scbla-rafsenlcben.
+um dieses Schlaraffenleben in dieser Umgebung an
+Bord der Amanda genau zu schildern. Es war ein Schlaraffenleben.
 
 Einen Tag später fuhr die Jacht die Themse auswärts
 nach London. Nachts Wärtern wir im Starrte Tod Anker,
@@ -2451,7 +2455,7 @@ Besonders die ne gegen kämpften hat errang um
 ihre Freiheit. Dagegen Despotin sich die Batta- Völker den
 europäischen Eindringlingen meist freiwillig unter Teile
 der Batta bewohnen auch die felsiger Nordwestküste. Den
-Fürsten hat man eine Scbeinselbständigkeit belassen. Sie
+Fürsten hat man eine Scheinselbständigkeit belassen. Sie
 nennen sich zumeist Sultan, und die Heüanoer haben bei
 der großen Ausdehnung der Faules an einigen entlegenen
 Sultanaten so wenig Interesse, daß sie an diesen Fürsten-le
@@ -2787,7 +2791,7 @@ Der Sultan stand hastig auf. »Wer sonst, Herr
 Schraut?«
 
 Da erwiderte statt meiner der Gefangene: »Ich bin
-Famos Orden, der ehemalige Reitknecht Lord Allan Gni-rables,
+Famos Orden, der ehemalige Reitknecht Lord Allan Gnirables,
 des jetzigen Lionel Barring. Der Herr der großen
 Null ist entflohen, alle es bei dem Kampf im Salon der
 Jacht für uns kein Entrinnen mehr gab. Sie werden ihn
