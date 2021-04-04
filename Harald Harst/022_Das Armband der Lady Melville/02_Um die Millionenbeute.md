@@ -5,7 +5,7 @@
 Harsts Laune war in jenen Tagen nach der Flucht James
 Palperlons die denkbar schlechteste. So schweigsam und
 insichgekehrt war er bisher nie gewesen. Ich merkte, daß ihm
-die Aeußerungen der Kopenhagener Presse genau so nahe gingen,
+die Aeußerungen der Kopenhagener Presse genau so nahe gingen
 wie der kühl\-förmliche Abschied von Lord Melville. Dieser
 machte ihm zum Vorwurf, Palperlons Entweichen durch ungenügende
 Sicherheitsmaßregeln erleichtert zu haben, und die
@@ -51,7 +51,7 @@ gelassen habe, hast Du in hervorragendster Weise — nicht bemerkt.
 > Also: ich war Nachtschwärmer vom ersten Abend an.
 
 > An diesem ersten Abend verließ ich unseren Salon gegen
-½ 1 bei Regen und Sturm durch das Fenster, lehnte es nur
+½1 bei Regen und Sturm durch das Fenster, lehnte es nur
 an, band es mit einer Strippe am Weinspalier fest, damit es
 nicht aufflog und kletterte über den rückwärtigen Gartenzaun.
 Diesen Weg wählte ich stets. — Ich nahm ein Auto und
@@ -116,7 +116,7 @@ sprechende Herr, der dann den einzigen Kopenhagener Biedermann,
 der auf Meyers Zettel vertreten war, herausklingelte,
 wurde von dem ehrwürdigen Doktor der Philosophie und Privatgelehrten
 Olaf Doornblam zunächst sehr zurückhaltend
-empfangen, nannte sich Miesgoeslaw Podzrcz und erklärte
+empfangen, nannte sich Mieszeslaw Podgorcz und erklärte
 im Verlauf einer Unterhaltung über alle Schmuckstücke, ihm
 sei »zufällig« eine Brosche aus der Renaissancezeit, Emaillemalerei
 mit Brillantenkranz, in die Finger geraten, die er
@@ -139,7 +139,7 @@ hatten.
 > Nun — ich versprach ihm dann, als er auf den Köder
 anbiß, das Armband ebenfalls in der nächsten Nacht mitzubringen.
 — Aus seinem Verhalten merkte ich, daß der Melville-Talisman
-ihm bisher nicht angeboten worden war.
+ihm bisher *nicht* angeboten worden war.
 Das genügte mir — oder hätte mir genügen sollen. Wenn ich
 trotzdem dann gestern nacht, nachdem ich Gunnar Göllpaart
 gesprochen hatte, wieder bei ihm mich einfand, so lag das
@@ -170,15 +170,15 @@ dieser Aufklärung über meine plötzliche Abreise
 pausieren müssen, weil ich es für ratsam hielt, das Licht auszudrehen
 und mich im Dunkeln an das Fenster zu stellen.
 
-> Jetzt nun habe ich Grund diesen Brief schleunigst zu beenden
+> Jetzt nun habe ich Grund, diesen Brief schleunigst zu beenden
 und Dir folgendes aufzutragen: Reise morgen heim
 nach Berlin und erwarte mich dort. Grüße meine Mutter
 herzlich und bestelle ihr, daß ich bald dort einzutreffen hoffe.
 — Wohin ich gereist bin, verschweige ich Dir. Jedenfalls
-<span class="g">nicht</span> nach Stockholm. Und — weshalb ich diesmal auf
+*nicht* nach Stockholm. Und — weshalb ich diesmal auf
 <@pagebreak/>
 Deine Begleitung verzichte, will ich nur andeuten: Dieser
-weißbärtige Simson ist kein zu verachtender Feind und arbeitet
+weißbärtige Simson<@refnote 2/> ist kein zu verachtender Feind und arbeitet
 mit Mitteln, denen gegenüber selbst Palperlons Mörderphantasie
 harmlos genannt werden muß. Du würdest
 nur meine Bewegungsfreiheit hindern. — Alles weitere
@@ -224,7 +224,7 @@ Der Bart war lang und wohlgepflegt. Und — die Augenbrauen
 fielen durch ihre Stärke auf, waren buschig und ragten
 an den Schläfenenden wie ein Schnurrbart empor. Das
 <@pagebreak/>
-gab dem frischen roten Gesicht einen sehr energischen Ausdruck.
+gab dem frischen, roten Gesicht einen sehr energischen Ausdruck.
 
 Ich schritt vorüber, machte kehrt, ging nochmals an der
 Tür vorbei, wiederholte dies abermals. Ich zweifelte nicht
@@ -299,7 +299,7 @@ an der unteren Leiste des Fensterrahmens, so daß die Scheibe
 schräg nach oben offenstand.
 
 Ich hielt fest. Der Mensch hatte offenbar Riesenkräfte.
-Er versuchte alles mögliche, freizukommen, schob den Arm
+Er versuchte alles mögliche, freizukommen; schob den Arm
 plötzlich noch weiter durch das Fenster, riß ihn mit einem
 Ruck wieder hoch. Das geschah mehrmals. Aber — es
 brachte ihm nur blutige Hautabschürfungen durch den Eisenrand
@@ -321,7 +321,7 @@ Anstrengung und Aufregung. Ich klappte schnell beide
 Scheiben hoch, ebenso die Stoffhalbkugeln der Lampe. Dann
 setzte ich mich erschöpft auf mein Bett. Meine Blicke stierten
 auf die Kugel. Nachdem ich ruhig geworden, besichtigte ich
-den kleinen Glasball. Er war schwer und hatte etwa 4 ½
+den kleinen Glasball. Er war schwer und hatte etwa 4½
 Zentimeter Durchmesser. Ich schüttelte ihn, hielt ihn gegen
 <@pagebreak/>
 das Licht. Eine bräunliche Flüssigkeit war darin. Das
@@ -356,7 +356,7 @@ Was also tun? — Mir fiel ein, daß die Hand eine welke,
 faltige Haut gehabt hatte. Es war die Hand eines älteren
 Mannes gewesen.
 
-Und — in demselben Moment, als sich an diese Hand
+Und — in demselben Moment, als ich an diese Hand
 dachte, deren Handrücken stark behaart gewesen, da — dachte
 ich auch an Kabine Nr. 9, an Doktor Doornblam!
 
@@ -409,7 +409,7 @@ Nummer 9.
 Dann schoß mir eine blendende Lichtflut ins Gesicht.
 Mein Ueberwältiger hatte in der Linken eine Taschenlampe.
 Er musterte mich — nur sekundenlang. Dann —
-und ich ruckte bei der Stimme leicht zusammen wie unter
+und ich ruckte bei *der* Stimme leicht zusammen wie unter
 einem angenehmen lauen Wasserstrahl:
 
 »Na, mein Alter, — was treibst Du denn hier?«
@@ -444,7 +444,7 @@ Er sagte nichts, blickte mich nur starr und so geistesabwesend
 an, als hörte er kaum, was ich sprach. Dann nahm er
 Doornblams kleinen Handkoffer, öffnete ihn mit einem winzigen
 Dietrich und warf den ganzen Inhalt auf das noch unberührte
-Bett. — Darunter befand sich auch ein Buch ein Roman.
+Bett. — Darunter befand sich auch ein Buch; ein Roman.
 Harst blätterte darin, wollte ihn schon wieder weglegen,
 als er in der Mitte zwischen den Seiten ein zusammengelegtes
 Telegramm entdeckte. Er steckte es zu sich, packte
@@ -463,9 +463,9 @@ verstopft war. Harst zog ihn heraus, bückte sich,
 richtete sich wieder auf, flüsterte: »Schau’ hindurch.«
 
 Die Kabine war hell, aber leer; das Zudeck des Bettes
-aufgeschlagen, jedoch das Bett unbenutzt. Nirgens ein Gepäckstück
+aufgeschlagen, jedoch das Bett unbenutzt. Nirgends ein Gepäckstück
 oder dergleichen. — Ein Geräusch ließ mich seitwärts
-blickten. Harst hatte die Hand auf dem Türdrücker.
+blicken. Harst hatte die Hand auf dem Türdrücker.
 
 »Von innen verriegelt,« meinte er. »Vorhin stand ein
 kleiner, schmaler gelber Koffer auf dem Bett. — Ich weiß
@@ -517,7 +517,7 @@ Auf dem Zentralbahnhof in Stockholm war vormittags
 neun Uhr bei Ankunft unseres Zuges ein ganzes Polizeiaufgebot
 zur Stelle. Niemand durfte aussteigen. Reisende,
 die sich nicht legitimieren konnten, wurden auf dem Bahnsteig
-von Kriminalbeamten bewacht
+von Kriminalbeamten bewacht.
 
 An der Sperre durften dann die von der Polizei nicht
 zurückgehaltenen Reisenden ohne weiteres passieren. Ich
@@ -531,12 +531,12 @@ Ich wählte Nr 7. Eine halbe Stunde später belegte der
 sächsische Reisende der Textilbranche Müller aus Chemnitz Nr.
 6\. Ich trug mich als Schriftsteller Markus Scheibeck aus
 Hamburg in das Fremdenbuch ein. Harst war Herr Müller-Chemnitz.
-<@pagebreak/>
 
+<@pagebreak/>
 Eine Stunde drauf lernten wir uns »zufällig« unten in
 der Gastwirtschaft kennen, saßen an einem Fenstertisch und
 speisten zusammen. Es gab hier Kellnerinnen-Bedienung.
-Die Heben<@refnote 2/> waren sämtlich bereits in respekteinflößendem
+Die Heben<@refnote 3/> waren sämtlich bereits in respekteinflößendem
 Alter. Die uns bedienende fragte, ob wir von Malmö mit
 dem Nachtzuge gekommen seien und ob wir auch wüßten, daß
 unterwegs ein Passagier ermordet und auf die Strecke geschleudert
@@ -550,7 +550,7 @@ an den Tisch gesetzt hatte, sagte Harst leise:
 
 »Bisher ist niemand hier hinter uns her. Wir können
 es also wagen, uns nachher an der Kreuzung der Jakobsgatan
-mit der Hauptgeschäftsstraße der Drottninggatan zu
+mit der Hauptgeschäftsstraße, der Drottninggatan, zu
 treffen.«
 
 Als unser Frühstück verspeist war, machte mir Harst eine
@@ -578,7 +578,7 @@ dürften, mein Alter, ob uns dann Stockholm nicht sehr langweilig
 vorkommen würde?! Wir sind zu sehr daran gewöhnt,
 nur mit einem viertel Auge nach den Sehenswürdigkeiten unserer
 »Schlachtfelder« zu schielen und mit dreiviertel nach
-Leuten die wie James Palperlon, Doktor Doornblam und
+Leuten, die wie James Palperlon, Doktor Doornblam und
 Severin Bloomberg interessanter für Leute unseres Schlages
 <@pagebreak/>
 sind als ganz Skansen — Bitte — nun explodiere, denn Du
@@ -589,7 +589,7 @@ Ich fragte nur zu gern, und er antwortete:
 »Weshalb ich Dir den Brief zurückließ und nicht mündlich
 alles erledigte? — Ja — da werde ich wohl am besten gleich
 dort beginnen, wo mein Brief aufhörte, also mit dem zweiten
-Besuch bei Doornblam, der nun tot ist und deren Ende ich
+Besuch bei Doornblam, der nun tot ist und dessen Ende ich
 beim besten Willen nicht bedauern kann. Er hat mir zu arg
 zugesetzt und dabei eine so scheußliche Bosheit bewiesen.
 
@@ -632,8 +632,8 @@ Was hieß das: mit Verfügung über die erste und die sechs
 Stellen?! — Warum telegraphierte Bloomberg nicht: über
 die sieben Stellen — falls es sich eben um irgend welche unbesetzten
 Stellen handelte?! — Nun — wenn man von Zahlen
-spricht, sagt man: eine vier- eine fünf- und so weiter
-<span class="g">-stellige</span> Zahl. Mich machte der Ausdruck »Stellen«
+spricht, sagt man: eine vier-, eine fünf- und so weiter
+*-stellige* Zahl. Mich machte der Ausdruck »Stellen«
 stutzig. Ich glaubte das Richtige gefunden zu haben: »die
 erste und die sechs Stellen« bedeutete eine bestimmte Summe,
 die Doornblam mitbringen sollte, — eine Summe, bestehend
@@ -642,7 +642,7 @@ sechs Nullen! — Füge in die Depesche »eine Million«
 statt der verschleiernden Worte ein, und Du hast einen ganz
 zwanglosen, vernünftigen Sinn darin, nämlich: »Erwarte
 Dich baldigst mit Verfügung über eine Million zu gemeinsamer
-Erledigung hier. Voraussetzung daß sofort über die
+Erledigung hier. Voraussetzung, daß sofort über die
 Million verfügt werden kann«. — Es handelt sich mithin um
 ein Geschäft, dachte ich, das Bloomberg zusammen mit Doornblam
 machen will und wozu dieser eine Million bereit haben
@@ -652,8 +652,8 @@ Ich konnte nur zustimmend äußern, daß diese Deutung
 auch mir als die gegebene erschiene.
 
 »Ein Geschäft, zu dem der eine Partner eine runde
-Million zu sofortiger Verfügung also in bar, mitbringen
-soll — ein Geschäft, das durch eine so vorsichtige Depesche
+Million zu sofortiger Verfügung, also in bar, mitbringen
+soll, — ein Geschäft, das durch eine so vorsichtige Depesche
 eingeleitet worden war und das in Stockholm erledigt werden
 sollte, wo vielleicht unser Palperlon weilte, mußte mich
 notwendig interessieren. Notwendig mußte ich auch dabei an
@@ -666,10 +666,10 @@ in der festen Absicht, zu ergründen, ob der Doktor inzwischen
 vielleicht bei seinem Freunde Bloomberg telephonisch angefragt
 hätte, worum es sich bei dem Geschäft handele. Ich
 ahnte ja nicht, daß dieser Simson ein so schlauer Patron wäre,
-ahnte nicht, daß er mich — na — ich will nicht vorgreifen!
+ahnte nicht, daß er mich — Na — ich will nicht vorgreifen!
 Du wirst Dich wundern, was mir dann zustieß!
 
-Gegen Mitternacht ließ Bloomberg mich ein. Er bewohnt
+Gegen Mitternacht ließ Doornblam mich ein. Er bewohnt
 ein eigenes Haus, hält sich nur eine Köchin und einen
 Diener, der noch älter als er ist. — In seinem Studierzimmer
 stand schon eine Flasche Rheinwein bereit, zwei Römer
@@ -691,7 +691,7 @@ nicht, wohin der Mensch geflüchtet ist?«
 »Nein — keine Ahnung. Er muß die Sachen schon vorgestern
 aus dem Versteck —« ich hüstelte verlegen — »aus
 dem Schrank genommen haben. Aber — ich werde den
-Schuft finden! Und dann — dann soll er merken mit wem
+Schuft finden! Und dann — dann soll er merken, mit wem
 er es zu tun hatte.«
 
 — Lieber Alter, ich glaubte, ich schauspielerte vortrefflich.
@@ -703,7 +703,7 @@ Eigentum geworden.
 
 Du verstehst, weshalb ich diese Komödie aufführte. Es
 sollte so scheinen, als ob mein Gaunerkompagnon vielleicht
-nach Stockholm geflüchtet war, falls eben das Geschäft das
+nach Stockholm geflüchtet war, falls eben das Geschäft, das
 Bloomberg dem Doktor vorgeschlagen hatte, sich wirklich auf
 dieses Armband bezog. Und ich hoffte, Doornblam würde
 sich irgendwie verraten, falls er mittlerweile von dem
@@ -772,10 +772,10 @@ hofften Sie mit Ihrem Spürgenie hier herauszufinden?«
 
 — Harst hatte mir die Hand schwer auf die Schulter gelegt.
 
-»Ich sage Dir, — daß ich von <span class="g">dem</span> Menschen kein Mitleid
+»Ich sage Dir, — daß ich von *dem* Menschen kein Mitleid
 zu erwarten hatte, bewiesen mir seine kalten Mörderaugen.
 Ein alter Erfahrungssatz: wenn gebildete Leute
-heimlich dunkle Wege wandeln, sind sie schlimmer als einer
+heimlich dunkle Wege wandeln, sind sie schlimmer als einer,
 der mit zwölf Jahren schon stahl und mit zwanzig die Zuchthausvorschriften
 besser kennt als das Vaterunser.
 
@@ -813,7 +813,7 @@ stierten, als wär’s eine große Offenbarung! Ja — ich sah’s,
 dann allgemach so fein ein, daß Sie jetzt verloren sind. Ich
 bin nicht der Mann, der halbe Arbeit tut. Nur Sie können
 Bloomberg und mir gefährlich werden. Nur Sie! Die Polizei
-verlachen wir. Sie werden verschwinden — so spurlos
+verlachen wir. Sie werden verschwinden — so spurlos,
 <@pagebreak/>
 daß auch Ihr Freund Schraut Sie niemals finden wird! —
 Es gibt nur eine Rettung für Sie: die volle Wahrheit!«
@@ -845,7 +845,7 @@ gewesen.
 »Ich war wieder ich selbst!« fuhr Harst fort. »Und — in
 demselben Augenblick hatte auch Doornblam verspielt.
 
-»Herr Doktor,« sagte ich »halten Sie mich für so töricht,
+»Herr Doktor,« sagte ich, »halten Sie mich für so töricht,
 daß ich mich zu Ihnen wagen würde, ohne meinen Rückzug
 mir genügend zu decken?! Den Tod fürchte ich nicht. Wir
 müssen alle einmal sterben. Und ich sterbe in der Gewißheit,
@@ -862,7 +862,7 @@ Unruhe. Dann meinte er achselzuckend:
 »Gut — ich kann ja mal nachsehen! Aber — bewegen
 Sie sich nicht. Der Todesmechanismus wird auch ausgelöst,
 sobald man zu stark an den Armen des Ritters rüttelt. —
-Ich bin Ihrer ja ganz sicher. <span class="g">Diese</span> Eisenhände sind besser
+Ich bin Ihrer ja ganz sicher. *Diese* Eisenhände sind besser
 als Patenthandschellen.«
 <@pagebreak/>
 
@@ -915,7 +915,7 @@ Dann ging ich. Und — wie, wie atmete ich auf! —
 Schraut: der Mensch war gefährlicher als Palperlon! Siehst
 Du das ein? Bedenke: er hat natürlich beobachtet, wie ich
 mich so blitzschnell befreite, hat sein Spiel verloren gegeben,
-sich an den Schreibtisch gesetzt. — Ich will mich bei dem Folgenden
+sich an den Schreibtisch gesetzt! — Ich will mich bei dem Folgenden
 nun kürzer fassen. Ich war darauf vorbereitet, daß
 Doornblam versuchen würde, mich auf andere Art auszulöschen.
 <@pagebreak/>
@@ -978,8 +978,8 @@ davon. — So — nun lies diese zweite Depesche.«
 
 Er reichte sie mir.
 
-> »Reise mit Nachtzug Geschäft sehr dringend. Ich erwarte
-Dich bestimmt — Bloomberg,«
+> »Reise mit Nachtzug. Geschäft sehr dringend. Ich erwarte
+Dich bestimmt. — Bloomberg,«
 
 so lautete das Telegramm.
 
@@ -1015,7 +1015,7 @@ saß ein Mädchen und tippte Schreibmaschine. Außerdem standen
 noch zwei Herren in zwangloser Haltung neben einem
 großen Diplomatenschreibtisch. Der ältere der beiden, ein
 Kahlkopf mit blondem Spitzbart, Goldkneifer und rundem
-Bäuchlein unter der weißen Weste winkte dem Fräulein, nachdem
+Bäuchlein unter der weißen Weste, winkte dem Fräulein, nachdem
 er mich durch die Glaswand kurz gemustert und mir eine
 höfliche Verbeugung gemacht hatte.
 
@@ -1040,7 +1040,7 @@ mir zur Verfügung gestanden hätte.
 Inspektor Brodersen. Er überbrachte mir die traurige Nachricht,
 daß ein alter Bekannter von mir unterwegs von Malmö
 nach hier ermordet und völlig ausgeplündert worden ist.
-Ich weiß nun zufällig, daß mein Bekannter der Doktor Doornblam
+Ich weiß nun zufällig, daß mein Bekannter, der Doktor Doornblam
 aus Kopenhagen, eine beträchtliche Summe Geldes bei
 sich führte. Der Polizei war dies sehr interessant — hm —
 sehr wichtig. Brodersen hat mich deshalb auch recht lange
@@ -1067,10 +1067,10 @@ sagte er dann. »Derartige Dinge fertigt man heutzutage
 nicht mehr an, mein Herr. — Sie sind Deutscher, nicht
 wahr? — Ah — Schriftsteller! So so — mehr im Nebenberuf,
 — mehr Rentier als Schriftsteller. Da darf man gratulieren.
-— Was der Kopf kostet?« Er zögerte »Fünftausend Kronen.
-Es ist das ein sehr geringer Preis.«.
+— Was der Kopf kostet?« Er zögerte. »Fünftausend Kronen.
+Es ist das ein sehr geringer Preis.«
 
-Ich feilschte und nach zehn Minuten hatten wir uns auf
+Ich feilschte, und nach zehn Minuten hatten wir uns auf
 4500 Kronen geeinigt. Als ich bezahlte, fragte ich so nebenher,
 ob er vielleicht auch antike Schmuckstücke zur Auswahl
 hätte. »Ich besitze eine kleine Sammlung. Letztens kaufte
@@ -1086,15 +1086,15 @@ haben.« Ich lächelte Bloomberg an und kniff das eine
 Auge zu. »Diese Geschichte darf sogar — hm — etwas abenteuerlich
 sein. In dieser Beziehung denke ich wie mein Freund
 Seymour aus Chikago, der Schweinekönig, — Sie wissen
-wohl. Der kauft Gemälde, die er niemandem zeigen darf,
+wohl. Der kauft Gemälde, die er niemandem zeigen darf
 — ganz unter uns gesprochen.«
 
-Bloomberg grinste. Ja — es war ein Grinsen kein verständnisinniges
+Bloomberg grinste. Ja — es war ein Grinsen, kein verständnisinniges
 Lächeln, — ein Grinsen, das seine Seele mit
 einem Male bloßlegte.
 
 »Bitte, wollen Sie mich morgen früh um 8 Uhr vielleicht
-aufsuchen,« flüsterte er sehr geheimnisvoll tuend. »Ich öffne
+aufsuchen,« flüsterte er, sehr geheimnisvoll tuend. »Ich öffne
 das Geschäft erst um neun. Da hoffe ich Ihnen so einiges vorlegen
 zu können, was — hm — nur unter Diskretion veräußert
 wird.«
@@ -1104,7 +1104,7 @@ offenbar vertrauensselig gemacht. — Ich nahm den Karton
 mit dem Wachskopf und verabschiedete mich. Bloomberg
 brachte mich bis zur Ladentür, meinte dann noch: »Ich wohne
 im 2. Stock. Der Eingang zu meiner Privatwohnung liegt
-in der Evestragatan, der nächsten Querstraße. Mein Garten
+in der Gvestragatan, der nächsten Querstraße. Mein Garten
 zieht sich rechtwinklig bis dorthin. An der Pforte der Gartenmauer
 finden Sie mein Schild und eine Glocke. — Auf
 Wiedersehen, mein Herr.«
@@ -1133,7 +1133,7 @@ Schritt vorwärts gekommen?« fragte ich. »Und soll ich
 morgen früh zu ihm gehen? Er wird mir ja fraglos sehr seltene
 und fraglos auch Gott weiß wo gestohlene Schmucksachen
 vorlegen. Wie rede ich mich dann heraus, wenn ich nichts
-kaufe? Und schließlich selbst wenn Palperlon bereits das
+kaufe? Und schließlich, selbst wenn Palperlon bereits das
 Armband der Melvilles an Bloomberg veräußert haben
 sollte, —«
 
@@ -1142,7 +1142,7 @@ mir ins Wort. »Palperlon besitzt es noch. Das weiß ich jetzt.«
 
 »Woher denn?«
 
-»<span class="g">Mein</span> Geheimnis, mein Alter! — Ich weiß noch mehr.
+»*Mein* Geheimnis, mein Alter! — Ich weiß noch mehr.
 Ich habe mich, während Du bei Bloomberg warst, bei dessen
 einzigem Konkurrenten hier nach ihm erkundigt. Er ist —
 Spieler! Der Inhalt seines Ladens ist das einzige, was
@@ -1153,7 +1153,7 @@ dieser Ehrenmann, wenn er eine schlanke, verschleierte Dame
 hätte mimen können, dann — dann würde ich, falls er
 gestern nach Malmö gereist wäre, sagen, daß er Doornblams
 Mörder ist. Aber bei solcher Korpulenz ist das ausgeschlossen.
-Und sein Bauch dürfte echter sein, als seine Altnürnberger
+Und sein Bauch dürfte echter sein als seine Altnürnberger
 mechanischen Spielereien. Doch nun wollen wir nach unten
 in die Kapitänkneipe und Mittag essen. Du wirst dort einen
 Herrn kennen lernen, den ich telephonisch »im Kostüm« herbestellt
@@ -1188,14 +1188,14 @@ erklärte, ohne ihn ausreden zu lassen: »Sie sollen’s wissen,
 sobald ich Palperlon Handschellen angelegt haben werde.
 Diesmal entwischt er mir nicht.« —
 
-Es war ¾ 8 abends. Harst hatte den 400 Jahre alten
+Es war ¾8 abends. Harst hatte den 400 Jahre alten
 Wachskopf und den Teller wieder eingepackt. Wir brachen
 auf. Es regnete sacht. Die Straßen waren still und einsam,
 der Südwind hatte den Qualm der Dampferschlote in die
 Straßen des Geschäftsviertels gedrückt. Es roch nach Rauch
 und heißem Schmieröl. Es war der typische Hafenduft.
 
-In einer engen Gasse machte Harst vor einem schmiedeisernen
+In einer engen Gasse machte Harst vor einem schmiedeeisernen
 Tore halt. Daneben lag eine kleinere, zierliche Pforte.
 Es gab da eine elektrische Glocke in Form einer Menschenhand,
 die man anheben mußte. Darüber war ein kleines Messingschild
@@ -1204,7 +1204,7 @@ las:
 
 > S. Bloomberg.
 
-Da ging mir ein Licht auf. — Harst nickte mir zu. »Ja
+Da ging mir ein Licht auf. — Harst nickte mir zu. »Ja,
 zunächst kommt der Dicke heran!« —
 
 In der Pforte befand sich ein Klappfenster. Es öffnete
@@ -1212,7 +1212,7 @@ sich. Bloombergs Gesicht erschien.
 <@pagebreak/>
 
 »Wir möchten des Nürnberger Kopfes wegen mit Ihnen
-reden.« sagte Harst. »Das Ding ist unecht, Dutzendware. Mein
+reden,« sagte Harst. »Das Ding ist unecht, Dutzendware. Mein
 Bekannter zeigte mir seinen heutigen Einkauf. Wenn Sie
 den Kopf nicht zurücknehmen und zwar sofort, zeigen wir Sie
 wegen Betruges an. Und — nicht für eine Krone machen wir
@@ -1259,7 +1259,7 @@ Ihnen auch gleich, daß Ihr Grundstück von Inspektor Brodersens
 Leuten umstellt ist. Es wird ganz von Ihrem Verhalten
 <@pagebreak/>
 abhängen, wie Brodersen nachher mit Ihnen umspringt. Seien
-Sie also vernünftig Mann, und leugnen Sie nichts ab.
+Sie also vernünftig, Mann, und leugnen Sie nichts ab.
 — Also die Depesche mußte sich auf ein großartiges Hehlergeschäft
 beziehen, auf eine Millionensache. Doornblam sollte ja
 in bar eine Million mitbringen. Sie selbst konnten das Geschäft
@@ -1284,7 +1284,7 @@ ohne sein Wissen außerdem noch in Verbindung setzte.«
 
 »Aehnliches habe ich mir gedacht,« nickte Harst. »Sie verabredeten
 mit dem Manne ein neues Zusammentreffen nach Ankunft
-Doornblams — für diesen Abend. Inzwischen hatten
+Doornblams — für diesen Abend. Inzwischen haben
 Sie den Mann nicht wieder gesehen. — Sie schweigen — also
 trifft auch dies zu. — Der Armbandbesitzer — wir können
 ihn ruhig Palperlon nennen, denn Sie dürften mittlerweile
@@ -1292,7 +1292,7 @@ aus den Zeitungsberichten über den Fall Melville diesen Namen
 erfahren haben — hat dann an Doornblam ohne Ihr
 Wissen eine zweite Depesche geschickt und dem Doktor vorgeschrieben,
 mit welchem Zuge er fahren solle. Denn Palperlon
-wollte seinem Opfer, als Frau verkleidet in Malmö auflauern
+wollte seinem Opfer, als Frau verkleidet, in Malmö auflauern
 und es ermorden und berauben. Palperlon ist Doornblams
 Mörder. Er hat auch hier wieder bewiesen, was er
 alles fertig bekommt. Ich wette, der Gedanke Doornblam
@@ -1301,7 +1301,7 @@ hörte. Deshalb hat er Ihnen auch verboten, irgendwie
 noch mit dem Doktor über das Geschäft vorher sich in Verbindung
 zu setzen. Er hatte eben schon die zweite Depesche im
 Kopfe fertig, als er Ihnen dies untersagte. — Wenn ich
-eben behauptete, Palperlon hätte mit Ihnen für heute ein
+soeben behauptete, Palperlon hätte mit Ihnen für heute ein
 <@pagebreak/>
 Stelldichein verabredet, so war die Unterlage für diese Behauptung
 Ihre heutige Bitte an Schraut, er möchte Sie morgen
@@ -1401,7 +1401,7 @@ Die Stockholmer Presse machte gut, was die Kopenhagener
 gesündigt hatte. Harst war der Held des Tages. —
 
 Und James Palperlon!? — Das ist ein Kapitel für sich —
-ein sehr spannendes Kapitel, wert unter dem Titel
+ein sehr spannendes Kapitel, wert, unter dem Titel
 
 > __Die Rätselbrücke__
 
