@@ -124,7 +124,7 @@ zu knebeln und dann sorgfältig... aufzubewahren.« — —
 Fünf Minuten drauf waren wir allein...
 
 Allein in trüber Dämmerung... Ein ganz schwacher
-Schimmer des Tageshelle drang durch den Höhleneingang
+Schimmer des Tageslichts drang durch den Höhleneingang
 bis zu der mit teuflischer Bosheit ersonnenen Pyramide
 hin, auf der wir, wehrlos und unfähig uns bemerkbar zu
 machen, um unser Leben... balancierten...
@@ -194,7 +194,7 @@ Wir saßen mit dem Gesicht nach dem Eingang hin.
 
 Ich sah zwei Gestalten in dem Felsengang erscheinen,
 sah, daß Dolling den kleinen Goddlepy energisch zurückdrängte
-und wütend rief: »Verdammt, ich Habe einen Widerwillen
+und wütend rief: »Verdammt, ich habe einen Widerwillen
 gegen diese Grotte! Warten Sie...!!«
 
 Dann brüllte er in das Dunkel hinein:
@@ -418,7 +418,7 @@ Fährten und...«
 »Danke, Mr. Goddlepy. — Ich schlage vor, wir untersuchen
 jetzt erst einmal gründlich die Höhle bis zu ihrem
 <@pagebreak/>
-anderen Eingang. Die Schwarzen Schafhirten erwähnten
+anderen Eingang. Die schwarzen Schafhirten erwähnten
 nur, daß Helen von den Verbrechern entführt sei. Sannah
 erwähnten sie nicht. Ich fürchte, daß die Schufte die alte
 Negerin für alle Zeit stumm gemacht haben. Beeilen wir

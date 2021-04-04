@@ -2,13 +2,13 @@
 
 <#import "*/harst.ftl" as harst>
 
-<@harst.kkb band="1" titel="Das Atlantikgespenst"/>
+<@harst.kkb band="1" titel="Das Atlantik&shy;gespenst"/>
 
 <@harst.kkb band="2" titel="Mink Tschuan"/>
 
 <@pagebreak/>
 
-<@harst.kkb band="9" titel="Der Krokodillederkoffer"/>
+<@harst.kkb band="9" titel="Der Krokodil&shy;leder&shy;koffer"/>
 
 <@harst.kkb band="10" titel="Treff-Aß"/>
 
@@ -16,7 +16,7 @@
 
 <div style="font-size: xx-large; text-align: center;">Kabels Kriminal-Bücher</div>
 
-<div style="font-size: x-large; white-space: pre;">
+<div style="font-size: large; line-height: 1.8; white-space: pre;">
 Das Atlantikgespenst
 Mink Tschuan
 Thomas Bruck, der Sträfling

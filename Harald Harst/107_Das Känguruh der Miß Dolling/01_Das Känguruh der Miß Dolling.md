@@ -221,7 +221,7 @@ Harst deutete auf ein Bild an der Wand.
 »Ja, meine gute Marry...« Er sprach leiser.
 »Das beste Weib, das je einem Manne geholfen hat vorwärtszukommen.
 Wir haben hier mal ganz klein angefangen,
-Mr. Harten....«
+Mr. Harten...«
 
 Frau Dolling, hager wie ihr Gatte, saß auf dem Bilde
 in einem Sessel und hatte die Hände im Schoße gefaltet. Das
@@ -301,7 +301,7 @@ aufgeschlossen und dann die Schlösser demoliert. Mr. Woops
 Polizeiaugen genügen wohl für das Auffinden von Fährten
 und dergleichen. Nicht hierfür. Auch die Fensterscheibe mit
 den Resten der Splitter und des Teers, mit dem der zum
-Eindrücken benutze Lappen beschmiert war, redet ihre besondere
+Eindrücken benutzte Lappen beschmiert war, redet ihre besondere
 Sprache. Das Fenster war offen, als die Scheibe
 eingedrückt wurde.«
 
@@ -458,7 +458,7 @@ Es war ein merkwürdiges Lachen: ironisch, triumphierend,
 und auch wieder glücklich — wie befreit von großer Sorge.
 
 Langsam wandte sie sich dann wieder den Farmgebäuden
-zu, benutze die Straße, kam uns aus den Augen.
+zu, benutzte die Straße, kam uns aus den Augen.
 
 Harst lehnte sinnend am Rande des Weges an einem
 Grasbaum, dessen Krone nur einen schopfartigen Blattschmuck
@@ -663,7 +663,7 @@ Jetzt bediente uns eine uralte Australnegerin, ein geradezu
 abschreckend häßliches dürres Weib, die hier jedoch
 eine Art Vertrauensstellung innezuhaben schien. Sie wurde
 Sannah genannt, und Helen behandelte sie außerordentlich
-freundlich, während die Alte mit ihrem mürrischer, faltenzerrissenen
+freundlich, während die Alte mit ihrem mürrischen, faltenzerrissenen
 Gesicht sogar dem Hausherrn gegenüber von
 einer unbegreiflichen Unliebenswürdigkeit war.
 
@@ -685,8 +685,8 @@ sei.
 indem sie unsere Teetassen aufs neue füllte.
 
 Dann kam Harst auf die hier so gefürchteten Buschfeuer
-zu sprechen. Dolling erzählte und mancherlei Schauergeschichten
-Darüber. Nach anhaltender Dürre sollten oft
+zu sprechen. Dolling erzählte uns mancherlei Schauergeschichten
+darüber. Nach anhaltender Dürre sollten oft
 meilenlange Skrupps mehrere Tage brennen. Löschversuche
 wurden nie unternommen. Im Gegenteil, man war
 zufrieden, wenn das dichte Unterholz einmal beseitigt
@@ -854,7 +854,7 @@ die Schwarze, schien wütend auf Helen einzureden, hob des
 einzelne Töne trotz der Entfernung bis zu uns drangen.
 
 Diese Szene spielte sich an der Ostseite der Hürde ab,
-während wir Helen, in der Nacht an der Westseite beobachtet
+während wir Helen in der Nacht an der Westseite beobachtet
 hatten.
 
 Dann — dann geschah etwas noch Merkwürdigeres...
@@ -1091,7 +1091,7 @@ dieses Tun:
 
 »Massa Harten, nicht rauchen! Nicht rauchen! Sannahs
 Ohren haben gehört, daß noch andere Leute hier
-unten. — Höhle gehen sehr tief im Erde und sehr weit,
+unten. — Höhle gehen sehr tief in Erde und sehr weit,
 haben anderen Ausgang — in dem Buschwerk der Hürde
 von Missus Helens Känguruh.«
 
