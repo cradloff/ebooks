@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">c996b6ae-89a0-11eb-8eb7-df47f9f01d33</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Känguruh der Miß Dolling</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">107</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Känguruh der Miß Dolling.
+
+Es war Ende Januar 1923. Wir, Harald Harst und ich, kamen aus dem westlichsten Winkel von Neu-Süd-Wales, Australien. Was wir in der australischen Wildnis erlebt hatten, weiß der Leser: Suche nach zwei Säcken Gold und zwei Verschollenen, — Sandsturm, Insel im Bullobaki-See — und so weiter.
+
+Nach vierzehn Tagen Unkultur nun wieder im Eisenbahnzuge nach Sydney, erster Klasse, — Speisewagen, schneeweiß gekleidete Kellner, eisgekühlte Getränke, eine Speisekarte, auf der die Delikatessen aller Weltteile prangten.
+
+Und im Speisewagen, hinter dem Städtchen Pottamoorca, begann das neue Abenteuer, als der Zug durch die Beec-Wüste raste.
+
+Es hatte sich ein älterer Herr an unseren Tisch gesetzt.  Man sah ihm den Großzüchter sofort an. Wir kamen ins Gespräch. So nebenbei nannte er seinen Namen: Chester Dolling, Besitzer der Farm New-London.
+
+Ein etwas poltriger Mann war’s, dieser Dolling.
+
+Und offenbar übelster Laune. Er wollte seinem Herzen Luft machen, platzte mit einem Male heraus:
+
+»Denken Sie, — fahre ich da vor zwei Tagen zu meinem Freunde Greeborn, um mir dessen neue Bewässerungsanlagen anzusehen. Und gestern abend schickt mir meine Tochter eine Depesche, daß bei uns eingebrochen und unser ganzer Schmuck geraubt ist.« Er schaute dabei auf seine kostbaren Ringe, deren Steine ein Vermögen wert waren. »Meine Frau liebte Diamanten, und Helen hat dieselbe Leidenschaft. Da habe ich denn so mit der Zeit eine Menge Pretiosen zusammengekauft. Schätze den ganzen Kram auf fünfzigtausend Pfund Sterling.«
+
+Bill Jones’ letzter Trick.
+
+Es war gut, daß ich mir diesen Bill recht genau anschaute, als wir ihn nun nach dem Buschwerk und dem Höhleneingang führten.
+
+Es war insofern gut, weil dieses Bill rätselvolles Lächeln eine besondere Bedeutung hatte, die uns beiden leider erst zu spät klar wurde.
+
+Bill machte durchaus den Eindruck eines tadellosen Gentleman. Sein Sportanzug umschloß eine sehnige, schlanke Gestalt. Sein Gesicht war regelmäßig, hatte energische Züge und ein Paar vergnügte, fast übermütige dunkle Augen. Alles in allem war dieser Mann ganz dazu geschaffen, Eindruck auf Frauen zu machen.
+
+Während wir, den Gefangenen zwischen uns, den Büschen zuschritten, fragte Harst ihn:
+
+»Sie wissen, wer ich bin, nicht wahr?«
+
+»Allerdings, Mr. Harst. Ich weiß es,« erwiderte er höflich. Er hatte eine recht angenehme Stimme.
+
+Dabei blieb das rätselvolle Lächeln wie festgefroren um seine Lippen.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (107) Das Känguruh der Miß Dolling.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
