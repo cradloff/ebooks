@@ -24,7 +24,7 @@ untersucht, die bei unserem Beruf schließlich selbstverständlich
 wird. Wir hatten festgestellt, daß die Hütte sich auf
 einer mit einer dünnen Schicht fruchtbaren Erde bedeckten
 Felsplatte erhob, hatten dann auch den kleinen Garten,
-Stall und das angrenzende Feld in Augenschein genommen,
+den Stall und das angrenzende Feld in Augenschein genommen,
 hatten mit wachsender Enttäuschung die Sonne
 immer mehr sinken sehen und dachten bereits an den Rückweg,
 als Harald unvermittelt sagte:
@@ -136,7 +136,7 @@ Harst kletterte voran. Eine Bambusleiter ist nicht gerade
 für zwei Europäer berechnet.
 
 <@pagebreak/>
-»Warte oben,« rief Harald mir zu. - »Diese Leiter
+»Warte oben,« rief Harald mir zu. »Diese Leiter
 scheint wenig fest zu sein —«
 
 Ich wartete also, hatte auch meine Taschenlampe eingeschaltet
@@ -145,7 +145,7 @@ hinabstieg.
 
 Nun war er unten, meldete sich wieder:
 
-»Hier geht es rechts weiter in die Tiefe: hier ist eine
+»Hier geht es rechts weiter in die Tiefe; hier ist eine
 zweite Leiter in einem neuen natürlichen Schacht. Fürwahr
 — das reine Bergwerk! Freilich, das Dorf Palemkima
 liegt sehr hoch. — Du kannst mir nun folgen, mein
@@ -339,7 +339,7 @@ ging wie jemand, der jeden Fußbreit Boden kennt, der
 diesen Weg auch im Dunkeln häufig zurückgelegt hat.
 
 Wir blieben hinter ihr. Und nach zehn Minuten kamen
-wir an eine weiß gestrichene Parkmauer, an ein Pförtchen,
+wir an eine weißgestrichene Parkmauer, an ein Pförtchen,
 durch das Lydia Glarnston verschwunden war.
 
 »Der Barnlaysche Garten,« meinte Harald leise. »Klettern
@@ -394,7 +394,7 @@ Lady Ediths und des Elefantenjägers nach Berlin brachte.«
 Lord Wolpoores hageres, vornehmes Gesicht blieb
 kühl und ablehnend.
 
-»Ming Fo verlangt jetzt also eine Million Schmerzensgeld,«
+»Ming Fo verlangt jetzt also eine Million Schweigegeld,«
 meinte er. »Wissen Sie auch, daß dies glatte Erpressung
 ist?«
 
@@ -441,7 +441,7 @@ Ironie.
 
 »Oh, Sie spielen auf das alberne Gerede an, daß Lady
 Edith ganz unschuldig an Lord Johns Tod sein
-soll.« sagte Wolpoore nun mit so eisiger Verachtung, daß
+soll,« sagte Wolpoore nun mit so eisiger Verachtung, daß
 die beiden Kollegen da drinnen vor Wut die Hände zu
 Fäusten zusammenkrampften. »Wir wissen, daß Harald
 Harst hier ist. Er wird beweisen, was — *Sie* nicht beweisen
@@ -474,7 +474,7 @@ dem Verbrechen einen noch geheimnisvolleren Anstrich zu
 geben —«
 
 Wolpoore hatte die Tür zum Nebenzimmer hinter sich
-bereits geschlossen
+bereits geschlossen.
 
 Baßly und Godalper rückten jetzt mit ihren Sesseln
 näher aneinander und flüsterten eifrig.
@@ -802,7 +802,7 @@ hinzog.
 der in der Grotte auf uns zulief,« fuhr Harald nun fort.
 »Das stimmte nicht. Mann und Hund waren gut Freund.
 Der Mann ist dann durch die Nebengrotte irgendwie in
-die Haupthöhle zurück gelangt, hat den Hund mitgenommen
+die Haupthöhle zurückgelangt, hat den Hund mitgenommen
 und kehrte zum Strande der Bucht zurück, woher er auch
 gekommen war.«
 
@@ -988,7 +988,7 @@ Und auch das war bei dieser Dunkelheit beinahe Leichtsinn.
 Ein heulender Windstoß fegte jetzt über die See hin.
 Ein Bündel von Blitzen zuckte auf.
 
-Dann war dicht vor uns das südlichste der Eilande.
+Das war dicht vor uns das südlichste der Eilande.
 <@pagebreak/>
 Harald steuerte zwischen ihm und der Halbinsel hindurch.
 Bange Minuten folgten. Wenn es hier Riffe gab, wenn
@@ -1006,10 +1006,10 @@ Lichter eilten hierhin und dorthin.
 Ein ohrbetäubender Donnerschlag jetzt.
 
 Und Harald packte meinen Arm, deutete nach rechts
-— nach der Bucht zu.
+— nach der Mitte der Bucht zu.
 
 Ich sah das Auslegerboot. Und darin saß — nur
-der prachtvolle, langhaarige riesige russische Windhund.
+der prachtvolle, langhaarige, riesige russische Windhund.
 
 Auch Wolpoore hatte das Boot bemerkt.
 
@@ -1137,7 +1137,7 @@ Die sechs berieten sich leise.
 Dann sagte der Lange wieder:
 
 »Wir müssen Euch fesseln und mitnehmen. Nachher
-werdet ihr wieder freigelassen. Aber der, den wir eben
+werdet Ihr wieder freigelassen. Aber der, den wir eben
 schon gefangen haben, ist ein Polizeibeamter. Ihn werden
 wir ersäufen. Es ist ein Spion. Ihr werdet schwören,
 daß Ihr uns nicht verratet.«
@@ -1230,7 +1230,7 @@ Der Riese starrte mich an.
 wollte.«
 
 Da schüttelte der braune Goliath den Kopf, winkte
-den anderen fünf und trat mit Ihnen auf die Treppe hinaus,
+den anderen fünf und trat mit ihnen auf die Treppe hinaus,
 wo sie eifrig flüsterten.
 
 Dann nahmen uns je zwei der Banditen in die Mitte
@@ -1246,7 +1246,7 @@ der Felseninsel fortsetzte.
 Hier legte das Boot an einer Steinplatte an. Zu
 unserem Staunen schimmerte über der Steinplatte ein großer,
 etwa halbkreisförmiger Fleck: die erleuchtete Oeffnung
-eines in das Gestein sich hinein ziehenden Ganges.
+eines in das Gestein sich hineinziehenden Ganges.
 
 Man half uns auf die Steinplatte und weiter in den
 Gang, der etwa zwei Meter hoch und stellenweise ausgemauert
@@ -1451,7 +1451,7 @@ fluchten, und mußten hinab ins Boot.
 
 Der lange Makuro nebst Anhang spielte nur noch eine
 Nebenrolle. Bronbyl und Smut versprachen dafür zu sorgen,
-daß keiner von ihnen den Höhlentempel verließ.
+daß keiner von ihnen den Höhlentempel verließe.
 
 Dann ruderten wir — Biberston, Wolpoore, Harst und
 ich — mit den drei Kollegen über die Bucht nach dem Höhleneingang.
@@ -1512,7 +1512,7 @@ hatten Freundschaft geschlossen.
 
 Nun hatten wir die Stelle erreicht, wo der Vorsprung
 der Höhlenwand das dahinter liegende Loch, den Zugang
-zu der Nebengrotte verbarg; nun mußten wir, auch der
+zu der Nebengrotte, verbarg; nun mußten wir, auch der
 Hund, in die Nebengrotte hinüber.
 
 Sie war, wie ich bereits erwähnt habe, bedeutend kleiner,
@@ -1567,7 +1567,7 @@ an sich zog:
 »Ja — sie zwang mich, für immer zu verschwinden.
 Sie wollte dann mit mir vereint anderswo ein neues Leben
 beginnen. Ihre Liebe fand das einzige Mittel, meine
-wahnwitzige Spielleidenschaft zu heilen: Sie bewies mir,
+wahnwitzige Spielleidenschaft zu heilen: sie bewies mir,
 daß ich entehrt sei, daß der Raub der Diamanten entdeckt
 werden würde — *meine* Täterschaft! Ein Deserteur
 von einem Handelsschiff, ein Mann wie ich ohne linken

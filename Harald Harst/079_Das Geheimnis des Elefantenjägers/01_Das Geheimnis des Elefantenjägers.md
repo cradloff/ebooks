@@ -22,12 +22,12 @@ neun Uhr erklärte, er würde nun sofort zu Bett gehen.
 Wir saßen in Harsts mit ausgesprochener Eigenart
 eingerichtetem Arbeitszimmer, und Harald hatte soeben, ein
 Gähnen unterdrückend, nochmals gesagt: »Ja — ich muß
-schlafen gehen. Mir sind die Augenlider wie Blei!« Da
+schlafen gehen! Mir sind die Augenlider wie Blei!« — da
 schlug die Flurglocke an.
 
 Ich ging öffnen. Es war ein Telegraphenbote. Ich
-nahm ihm die Depesche ab und wußte, daß es mit der
-Nachtruhe sehr wahrscheinlich nichts sein würde!
+nahm ihm die Depesche ab und — wußte, daß es mit der
+Nachtruhe sehr wahrscheinlich nichts sein würde! —
 
 Harald las dann vor:
 
@@ -38,9 +38,9 @@ Harald las dann vor:
 > Blücherstraße 10.
 
 > Bitte Sie dringend sofort herzukommen. Leiche
-meines Gatten John ohne Kopf vor acht Tagen aufgefunden,
+meines Gatten John ohne Kopf vor acht Tagen aufgefunden.
 <@pagebreak/>
-hiesige Polizei machtlos. Depeschiere von
+Hiesige Polizei machtlos. Depeschiere von
 Kolombo aus, da Drohbriefe erhalten: falls gerade Ihnen
 Angelegenheit unterbreitet wird, sicherer Tod für
 mich. — Begleitumstände des Mordes an meinem Gatten
@@ -84,7 +84,7 @@ Dann lallte der Fremde in gebrochenem Deutsch:
 »Master — Harst — retten — Sie — mich — Gift —
 Gift!«
 
-Kaum hatte er das letzte Wort hervor gequält, als er
+Kaum hatte er das letzte Wort hervorgequält, als er
 sich mehrmals übergab und ohnmächtig wurde.
 
 Wir trugen ihn in Haralds Arbeitszimmer auf den
@@ -94,7 +94,7 @@ Diwan, wo er sich langsam wieder erholte.
 Jedenfalls mußten wir darauf verzichten, noch in
 dieser Nacht nach Brindisi in Italien abzureisen, da Mr.
 Bannimoore Godalper vor Harst geradezu auf die Knie
-sank und flehentlich bat, ihn nicht im Stich zu lassen.
+sank und flehentlich bat, ihn nicht im Stiche zu lassen.
 Ohne uns sei er ein Kind des Todes.
 
 Nachdem er drei Gläschen Kognak getrunken hatte,
@@ -125,8 +125,8 @@ Da verließ er Luzern und flüchtete auf Umwegen nach
 Berlin, wo er erst heute abend gegen acht Uhr eingetroffen
 war.
 
-Gleich nach der nach Ankunft des D-Zuges hatte er sich in den
-Wartesaal des Anhalter Bahnhofes begeben, um eine Tasse
+Gleich nach nach Ankunft des D-Zuges hatte er sich in den
+Wartesaal des Anhalter Bahnhofs begeben, um eine Tasse
 Kaffee zu trinken. Er bestellte sie bei einem Kellner. Ein
 anderer Kellner (wenigstens hatte er den Mann für einen
 Kellner gehalten) brachte ihm das Verlangte. Kaum hatte
@@ -203,7 +203,7 @@ der Kellner! Mithin kann Godalper nicht heute abend hier
 eingetroffen sein. Mithin hat er in einem Punkte *bestimmt*
 gelogen, und in den anderen *sehr wahrscheinlich!*
 Der »graue« Kellner wird ein guter Bekannter
-von ihm gewesen sein. Seine Schilderung ist Bluff
+von ihm gewesen sein. Seine Schilderung ist Bluff,
 und das Magenbrennen natürlich auch. Das Brechmittel
 sollte mich noch mehr in Sicherheit wiegen. — Nimm an,
 daß Lady Barnlay beobachtet wurde, als sie in Kolombo
@@ -315,7 +315,7 @@ mit bedächtigen Bewegungen den Tabak fest.
 »Man hat einer Dame aus der Schlafkabine Nr. 11
 (wir hatten Nr. 15 und 16) einen Juwelenkasten gestohlen
 — unter dem Kopfkissen hervor, einer Engländerin namens
-Lydia Glarnston einem — ja — älteren Fräulein. Sie
+Lydia Glarnston, einem — ja — älteren Fräulein. Sie
 war es, die bei dieser Entdeckung den Schrei ausstieß —«
 
 Er sprach das alles in einem Tone, als ob seine Gedanken
@@ -331,7 +331,7 @@ Sache kann auch ganz anders sein.«
 
 »Wie denn?«
 
-»Der Diebstahl kann denselben häßliches Hintergrund
+»Der Diebstahl kann denselben tatsächlichen Hintergrund
 haben wie — die montenegrinische Blutrache.«
 
 Ich ließ die beiden Enden meiner Krawatte, die ich gerade
@@ -426,7 +426,7 @@ Fräulein in die Kabine und schob die Tür zu, so daß wir
 beide mit ihr nun allein waren.
 
 »So, jetzt sprechen Sie ganz offen, Miß Glarnston,«
-fügte er liebenswürdig hinzu. Aber diese Liebenswürdigkeit
+fügte Harald liebenswürdig hinzu. Aber diese Liebenswürdigkeit
 hatte etwas Bedrohliches an sich. Ich kannte
 diese Freundlichkeit an Harst nur zu gut. Sie war ein
 Gemisch von Nachsicht, überlegener Ruhe und Siegergefühl.
@@ -453,8 +453,8 @@ unbarmherzig weiter.
 
 Sie seufzte und blickte ihn flehend an.
 
-»Weil — weil ich in steter Angst schwebe, die Edelsteine
-könnten gestohlen werden.«
+»Weil — weil ich in steter Angst schwebte, die Edelsteine
+könnten mir gestohlen werden.«
 
 »Sie gehören ihnen?«
 
@@ -525,7 +525,7 @@ dann einen stark nachdenklichen Zug annahmen.
 Er reichte mir das Blatt, eine richtige Quittung.
 Sie war englisch geschrieben.
 
-> Kolombo, den 2. März 19..
+> Kolombo, den 2. März 19...
 
 Schon da stutzte auch ich.
 
@@ -536,14 +536,14 @@ Vorderindien!
 Merkwürdig — Ceylon! Und der Fall Barnlay sollte
 uns gleichfalls nach Ceylon führen!
 
-> Kolombo den 2. März 19..
+> Kolombo, den 2. März 19...
 
 > Der Elefantenjäger Kadugawa, des Schreibens unkundig,
 erklärt vor mir als Distriktsbeamten, das er von
 Miß Lydia Glarnston, Musiklehrerin in Kolombo, für
 112 Diamanten insgesamt 2000 Pfund Sterling als
 Kaufpreis heute richtig erhalten hat und daß die drei
-unten stehenden Kreuze als seine Unterschrift gelten sollen.
+untenstehenden Kreuze als seine Unterschrift gelten sollen.
 Dienstsiegel
 
 > † † †
@@ -619,11 +619,11 @@ nicht glauben würde.
 
 »Miß Glarnston, Sie erhielten eine Depesche!« wiederholte
 Harald streng. »Eine Depesche aus Kolombo.
-Und dieser Depesche wegen holten Sie den Juwelenkasten von der
+Und dieser Depesche wegen holten Sie den Kasten von der
 Bank und — kamen nach der Blücherstraße! Leugnen Sie
-nicht.«
+doch nicht.«
 
-Sie presste die Lippen fester zusammen. Sie wollte
+Sie preßte die Lippen fester zusammen. Sie wollte
 nichts zugeben.
 
 Harald winkte mir heimlich mit den Augen zu und
@@ -651,7 +651,7 @@ Es lautete:
 > Pension Färber.
 
 > Erwarte Dich hier mit Gepäck. Habe mich an ihn
-> gewandt. Die halbe Wahrheit soll an den Tag kommen.
+> gewandt. Die halbe Wahrheit soll an den Tag kommen. —
 > Herzlichst Edlay.
 
 Harst gab Miß Lydia die Depesche zurück.
@@ -686,9 +686,9 @@ Nur der Zugführer erwartete uns.
 
 »Haben Sie etwas ermittelt, Herr Harst?« fragte er.
 
-»Wahrscheinlich war das Fenster nicht ganz geschlossen.«
+»Wahrscheinlich war das Fenster nicht ganz geschlossen,«
 <@pagebreak/>
-meinte, Harald. »Der Dieb dürfte diesen Weg gewählt
+meinte Harald. »Der Dieb dürfte diesen Weg gewählt
 haben.«
 
 »Jedenfalls müssen alle Reisenden bei Ankunft in
@@ -732,7 +732,7 @@ Vielleicht wurde die als Blasrohr benutzt.«
 »Er trug blaue Brille, dunkelblonden Vollbart und
 hatte eine gelbrote scheußliche Krawatte.«
 
-»Die er jetzt längst weggeworfen haben wird, genau
+»Die er jetzt längst weggeworfen haben wird, genau so
 wie die Brille und den Vollbart. Wir würden also umsonst
 nach dem Menschen suchen. — Mr. Godalper, Sie tun
 mir aufrichtig leid. Am besten ist, Sie steigen mit uns
@@ -771,7 +771,7 @@ Nr. 18 und 19, während Godalper Nr. 17 belegt hatte.
 Nachmittag gegen fünf Uhr kehrte Harald von einem
 Spaziergang zurück. Ich hatte mit Godalper eine Partie
 Schach gespielt. Leider war ich bisher nicht in der Lage
-gewesen, mit Harst mich über die Ereignisse im D-Zug
+gewesen, mit Harst mich über die Ereignisse im D-Zuge
 auszusprechen. Ich tappte also noch immer völlig im
 Dunkeln, was den Diebstahl und das Telegramm an Miß
 Glarnston betraf. Nur eins wußte ich: das Giftpfeilattentat
@@ -780,7 +780,7 @@ Godalper es nur erfunden hatte, um einen Anlaß zu haben
 weiter noch mit uns als schutzbedürftiger Verfolgter
 zusammenbleiben zu können.
 
-Harald hatte also angeklopft und und Godalpers Zimmer
+Harald hatte also angeklopft und Godalpers Zimmer
 betreten. Er war etwa drei Stunden weggewesen.
 
 »Der Mann ist verhaftet,« sagte er, nachdem er uns
@@ -838,7 +838,7 @@ Toter schlafen. Das ist alles!« erklärte er. »24 Stunden
 Vorsprung genügen uns vollauf. Wenn Sie die Tropfen
 nicht schlucken, drücke ich ab!«
 
-Der Schurke hatte vielleicht Gift in dem Fläschchen.
+Dieser Schurke hatte vielleicht Gift in dem Fläschchen.
 Und — er würde sich hüten zu schießen. Das ganze Hotel
 wäre lebendig geworden.
 
@@ -916,7 +916,7 @@ das Fenster betreten. Ich hörte, wie jemand dort bei Godalper
 an die Scheibe pochte, hörte dann das Herablassen
 des Fensters. Nachdem der Mann im Trikot nach dem
 Gange zu die Kabine wieder verlassen hatte, nachdem er
-dann Minuten später dorthin zurückgekehrt und offenbar
+dann zehn Minuten später dorthin zurückgekehrt und offenbar
 durch das Fenster hinausgestiegen war, hattest Du Dich
 vom Schlafe übermannen lassen und schliefst sogar so fest,
 daß ich unser Fenster öffnen und gleichfalls hinausklettern
@@ -987,7 +987,7 @@ Dich hier mit Gepäck« — das hieß: mit den Edelsteinen!
 Und: »Habe mich an ihn gewandt« hieß: an Harst! Und —«
 
 Da — stoppte ich ab, sagte langsamer: »Hm — und
-dann »die halbe Wahrheit soll an den Tag kommen.« —
+dann »die halbe Wahrheit soll an den Tag kommen,« —
 nein, das verstehe ich nicht!«
 
 »Du wirst es verstehen — wenn wir in Kolombo
@@ -1089,7 +1089,7 @@ dem Ersticken nahe.
 »Sie sollen sich wundern!« flüsterte er dann.
 
 Und — seine Zähne rissen auch meinen Knebel heraus;
-seine Zähne waren es, die meine Handfesseln lösten,
+seine Zähne waren es, die meine Handfesseln lösten;
 seine Zähne und seine schlangengleiche Gewandtheit befreiten
 uns in kaum fünf Minuten.
 
@@ -1101,7 +1101,7 @@ Der Schlüssel aber war mit einem Bindfaden an den
 Türknopf gebunden.
 
 <@pagebreak/>
-Und als wir eintraten, saß da auf einen der Rohrsessel
+Und als wir eintraten, saß da auf einem der Rohrsessel
 Miß Lydia Glarnston, — Miß Glarnston in einer
 tadellos gelungenen Verkleidung als mindestens siebzigjährige
 Greisin.
@@ -1163,7 +1163,7 @@ Miß Glarnstons Augen weiteten sich vor Schreck.
 der Wahrheit bereits kenne!«
 
 <@pagebreak/>
-»Unmöglich Mr. Harst!«
+»Unmöglich, Mr. Harst!«
 
 Da faßte Harald in die Tasche und holte drei Zeitungen
 hervor.
@@ -1214,7 +1214,7 @@ Da — ein blondbärtiges dünnes Kerlchen drängte sich
 an den Wagen heran, rief, mit den Armen fuchtelnd:
 
 »Halt — halt — Mr. Harst, erkennen Sie mich denn
-nicht?! Ich bin doch Charles Biberston!«
+nicht?! Ich bin doch Charley Biberston!«
 
 »Allerdings — Sie sind Biberston! Wie geht’s? —
 <@pagebreak/>
@@ -1367,7 +1367,7 @@ Tag kommen solle. Sie hoffte, die andere Hälfte würde
 für mich Geheimnis bleiben. Sie irrte sich: jetzt weiß ich
 alles, und jetzt weiß ich das Richtige!«
 
-»Sie können einen neugierig machen, Mr.
+»Oh — Sie können einen neugierig machen, Mr.
 Harst —«
 
 »Mit Recht. Der Fall Barnlay ist nicht alltäglich.«
@@ -1379,7 +1379,7 @@ Detektiv uns teilweise so kräftig geleimt hatte! Nur —
 er hätte weniger gewalttätig vorgehen können. —
 
 Alle weiteren Fragen Biberstons beantwortete Harald
-ausweichend. Er wollte seine Karten eben nicht zu
+sehr ausweichend. Er wollte seine Karten eben nicht zu
 früh aufdecken.
 
 <@pagebreak/>
@@ -1403,7 +1403,7 @@ Sie im Bogen an die Hütte heran.«
 Edelsteinräuber?«
 
 »Habe ich dies irgendwie angedeutet?« meinte Harst.
-»Sie müssen sich gefasst machen, Biberston, daß —«
+»Sie müssen sich darauf gefaßt machen, Biberston, daß —«
 
 Da — vor uns ein dünner Knall.
 
@@ -1537,7 +1537,7 @@ Hier wird ja von Kadugawa kaum etwas zu erfahren sein.
 Der Alte macht ganz den Eindruck, daß er nichts aus sich
 herauslocken läßt. — Uebrigens eine Frage, Biberston:
 hier in Kolombo gehen wohl allerhand Gerüchte um, die
-für Lady Barnlay wenig schmeichelhaft sind? Ich denke
+für Lady Barnlay wenig schmeichelhaft sind? Ich denke,
 man wird ihr insgeheim die Schuld an dem Tode ihres
 Mannes beimessen. Das Ehepaar dürfte nicht sehr glücklich
 gelebt haben —«
@@ -1596,7 +1596,7 @@ John Barnlay in Gefahr, trotz allem noch verhaftet zu
 werden. Damit er diesem Schicksal entginge, brachtet Ihr
 <@pagebreak/>
 einen fremden Toten, einen Europäer, dem gleichfalls der
-eine linke Finger fehlte, in den Garten des Barnlayschen
+kleine linke Finger fehlte, in den Garten des Barnlayschen
 Sommerhauses. Der Lord selbst hat sich anderswohin begeben,
 hat sich eben für immer von seiner Frau getrennt,
 der einzig und allein daran lag, von dem Namen Barnlay
