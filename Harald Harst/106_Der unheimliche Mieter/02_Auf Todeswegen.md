@@ -57,7 +57,7 @@ Eskamak halten, wo wir bestimmt ein Auto geliehen bekommen.«
 der einzelnen Farmer, die alle weit verstreut
 liegen.)
 
-»Es ist Ja mit Bestimmtheit anzunehmen,« fügte er
+»Es ist ja mit Bestimmtheit anzunehmen,« fügte er
 hinzu, »daß einer der Gegenparteien sich mit im Zuge befindet.
 Diesen Spion müssen wir loswerden. Ich habe
 Jimmy bereits Bescheid gesagt. Sobald der Zug hält, wirft
@@ -225,13 +225,13 @@ Jimmy wußte bisher nur, daß wir ins Innere wollten.
 »Wir... wir suchen zwei verschollene Deutsche,« erklärte
 ich widerwillig.
 
-»Und — hinter Ihnen beiden wieder sind heute her,
+»Und — hinter Ihnen beiden wieder sind Leute her,
 nicht wahr? Besser, Sie weihen mich ein.«
 
 »Das darf nur Harst, Jimmy. Aber — Feinde haben
 wir.«
 
-»Gut, dann wir ich einmal Mr. Harst nachschleichen.
+»Gut, dann will ich einmal Mr. Harst nachschleichen.
 Lassen Sie sich nicht überrumpeln. Schießen Sie — am
 besten sofort. Die Kugeln sitzen hier locker.«
 
@@ -386,7 +386,7 @@ sind doch keine Naturforscher! Die sehen anders aus, Mr.
 Harten. Außerdem — der Bullobaki-See, den gibt’s nicht
 mehr. Der ist ausgetrocknet, schon im vorigen Frühjahr.«
 
-»Woher wissen Sie das? Uhren Sie dort?«
+»Woher wissen Sie das? Waren Sie dort?«
 
 »Die Schwarzen haben’s erzählt, die mal gelegentlich
 hier zur Station kommen.«
@@ -497,12 +497,12 @@ anlegte, zielte...
 Dann feuerte er...
 
 Das blecherne Peng Peng seiner Schüsse schien einen
-verstärkter Widerhall zu finden...
+verstärkten Widerhall zu finden...
 
 Der eine Buschklepper taumelte...
 
 Und ich, der nach links auf die anderen vier gezielt
-hatte, sah zu meinem grenzenlose Erstaunen, daß einer
+hatte, sah zu meinem grenzenlosen Erstaunen, daß einer
 der anderen im Hechtsprung aus dem Sattel flog...
 
 »Hallo — Hilfe!!« jubelte Jimmy. »Da — sie kneifen
@@ -516,7 +516,7 @@ Sekunden später hatte der Wald die Kerle verschluckt.
 Nur das Pferd des Erschossenen stand mit hängendem Kopf
 <@pagebreak/>
 noch da. Es hatte sich mit dem einen Vorderfuß in die
-schleifenden Zügel verwickelt und war stehengeblieben ..
+schleifenden Zügel verwickelt und war stehengeblieben...
 
 Zwei Tote — ein Gaul, — das war alles, was wir
 noch sehen konnten.
@@ -636,7 +636,7 @@ wir auf.«
 <h3>Wie sie uns fingen.</h3>
 
 Wir schliefen mit Jimmy auf unseren Wunsch unter
-einem offenen Schuppen. Unsere Pferde waren dicht Daneben
+einem offenen Schuppen. Unsere Pferde waren dicht daneben
 in einer keinen Hürde untergebracht. Ich ahnte
 bereits, daß Harald auf die Begleitung Laakens keinerlei
 Wert legte. Er hatte ihm Pferde und Schläuche bereits bezahlt
@@ -811,7 +811,7 @@ Um uns her die wahnsinnigen Hitzewellen der steinigen
 Wildnis. Am Himmel kein Wölkchen...
 
 So saßen wir im Schatten einer Felswand, stumm,
-verzweifelt, Mut heucheln...
+verzweifelt, Mut heuchelnd...
 
 Mit hängenden Köpfen standen die Tiere.
 
@@ -881,7 +881,7 @@ des jungen Weibes blitzten mich halb ironisch, halb belustigt
 an.
 
 »’n Tag, Herr Schraut,« sagte sie leichthin und drängte
-ihren braunen näher an meinen derbknochigen Fuchs.
+ihren Braunen näher an meinen derbknochigen Fuchs.
 »’n Tag auch, verehrter Freund... Wie fühlen Sie sich?«
 
 Mein nächster Blick hatte Harald gegolten.
@@ -1056,7 +1056,7 @@ Mitternacht...
 
 Da hörte der Orkan jäh auf. Ruhe trat ein. Das
 Gewölk verschwand. Fahles Mondlicht übergoß die Einöde.
-Berge von Sand überall spitze Schanzen, flache Sandwehen.
+Berge von Sand überall, spitze Schanzen, flache Sandwehen.
 Wir suchten die Drepps. Fanden sie in dem anderen Tale,
 ratlos, mutlos, preisgegeben unseren Wünschen.
 
@@ -1090,7 +1090,7 @@ mühsames Waten durch knietiefen Sand zu ermöglichen.
 
 Mittags auch im Süden die Umrisse eines Höhenzuges
 am Horizont. Und gegen fünf Uhr der erste Salztümpel
-mit weißen Rändern, die ersten Spuren einer kläglicher
+mit weißen Rändern, die ersten Spuren einer kläglichen
 Vegetation. Dann Berge, Schluchten, — und wir
 fünf zu Fuß, die Pferde am Zügel führend, stolpernd,
 keuchend, — bis unter uns in der Ferne ein seltsames Bild
@@ -1278,7 +1278,7 @@ schon auf die Insel gelangt, war dann von Karnay
 und Loof, deren Sinne die Einsamkeit und die Goldgier
 längst verwirrt hatte, auf dem Felswürfel belagert worden.
 
-Das war’s also, was der alle Jürgensen gewußt hatte:
+Das war’s also, was der alte Jürgensen gewußt hatte:
 daß hier zwei Irre hausten, die ihre Schätze verteidigten! —
 Das war’s! — —
 
@@ -1299,7 +1299,7 @@ zufriedene Briefe. —
 
 Wir beide aber ritten damals nach fünf am Bullobaki-See
 verbrachten Tagen ostwärts — nach Laakens gastlichem
-Hause. Die Eisenbahnfahrt gen Sydney gab Harald darum
+Hause. Die Eisenbahnfahrt gen Sydney gab Harald dann
 unerwartet Gelegenheit, als Detektiv sein Meisterstück in
 allerfeinster Gedankenarbeit abzulegen. Der Leser lernt’s
 im nächsten Bande kennen. Bis dahin — — Geduld! Und

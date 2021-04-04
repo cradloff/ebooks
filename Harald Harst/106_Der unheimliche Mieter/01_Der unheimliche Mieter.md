@@ -611,7 +611,7 @@ machte. Die Dame war — — verschwunden.«
 Ogden.«
 
 »Unmöglich!« Er belegte diese Behauptung mit Beweisen,
-die auch und genügen mußten.
+die auch uns genügen mußten.
 
 »Der Hausdiener Tom, übrigens ein Mischling, hat
 darauf Mistreß Pallimoor alles erzählt,« fuhr Ogden fort.
@@ -668,7 +668,7 @@ und der Chinese.«
 Aber Ogden lächelte nun seinerseits noch ironischer.
 
 »Das ist ausgeschlossen, da Elming sein Zimmer nicht
-verlassen bat. Er war bestimmt schlafen gegangen und lag
+verlassen hat. Er war bestimmt schlafen gegangen und lag
 im Bett, jedenfalls vorgestern und gestern nacht. Tom hat
 ihn selbst im Bett liegen sehen, da Elming die Nachttischlampe
 hatte brennen lassen.«
@@ -678,7 +678,7 @@ Harald kniff die Augen zu, sann nach.
 »Die Fensterflügel waren also nur angelehnt?« fragte
 er dann.
 
-»Ja, mir angelehnt.«
+»Ja, nur angelehnt.«
 
 »Und letzte Nacht?«
 
@@ -705,7 +705,7 @@ Es war auch eine Depesche da. Sie lautete:
 
 > Rohrer (das war die Gesellschafterin Fräulein von
 Perwarts) harmlos. Aber Diener Karl Münz plötzlich
-gekündigt und Berlin verlassen, Ueber Münz bisher freilich
+gekündigt und Berlin verlassen. Ueber Münz bisher freilich
 nichts Nachteiliges bekannt. Hat als besonderes Erkennungszeichen
 links auffallend verlängertes Ohrläppchen.
 — Bitte Nachricht, ob unangenehme Zwischenfälle.
@@ -746,7 +746,7 @@ einen Edward Tomorly? Hatte der vielleicht ein verbundenes
 Ohrläppchen?«
 
 »Ja. Das stimmt. Er behauptete, er hätte einmal
-Frost in dem linken Ohrläppchen gehabt, und da sein eine
+Frost in dem linken Ohrläppchen gehabt, und da sei eine
 <@pagebreak/>
 Frostbeule aufgebrochen. Deshalb ließ er es sich zum Teil
 abnehmen.«
@@ -762,7 +762,7 @@ Booker?«
 stets selbst — mit Jodoformgaze und Heftpflaster.«
 
 »Danke, Mr. Booker. Vielleicht reden Sie nicht weiter
-Darüber, daß wir Sie ausgeforscht haben. Guten Abend.«
+darüber, daß wir Sie ausgeforscht haben. Guten Abend.«
 
 Draußen auf der Straße meinte Harald: »Siehst Du,
 lieber Alter, nun wissen wir Bescheid. Der halbe Briefbogen
@@ -1051,14 +1051,14 @@ Ogden hatte auf Haralds Wunsch den fragwürdigen
 Elming durch seine Agentin unausgesetzt beobachten
 lassen. Elming tat jedoch nichts, was irgendwie dafür
 gesprochen hätte, daß er ein Glücksritter sei. Er ging
-abends ins Theater, kam um ¼ 12 heim und legte sich
-zu Bett, wie die Agentin uns um ½ 12 meldete.
+abends ins Theater, kam um ¼12 heim und legte sich
+zu Bett, wie die Agentin uns um ½12 meldete.
 
 Um Mitternacht herrschte im ganzen Pensionat Totenstille.
 
 <@pagebreak/>
 
-<h2>5, Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Die Gegenparteien.</h3>
 
@@ -1101,7 +1101,7 @@ jemand an der Tür links die eine untere Füllung heraushob.
 Sie mußte nur ganz lose eingefügt gewesen sein.
 
 Dann schob sich ein Mensch in schwarzem Trikot
-Schlangengleich durch die schmale Oeffnung.
+schlangengleich durch die schmale Oeffnung.
 
 Seltsam genug: der Mensch kam vom Hotelvorraum
 her! —
@@ -1173,10 +1173,10 @@ nach dem Pensionat zurück. Der Mieter der Zimmer
 nebst Tochter aus Antwerpen ausgegeben, hatte sein
 Zimmer bereits verlassen, war nicht mehr zu finden.
 Seine Koffer — alles war noch da. Nur er selbst nicht
-mehr. Da er war entwischt, hatte leider rechtzeitig Lunte
+mehr. Er war entwischt, hatte leider rechtzeitig Lunte
 gerochen... —
 
-Wie durchsuchten dann auch Elmings Zimmer. Harst
+Wir durchsuchten dann auch Elmings Zimmer. Harst
 stellte fest, daß der Mann nie ein künstliches Bein gehabt
 hatte. In dem einen Koffer lagen Beinschienen und anderes,
 das den Betrug ermöglicht hatte.
@@ -1210,7 +1210,7 @@ gewesen.
 Nie vergesse ich Haralds eisiges Gesicht, als er zu Ogden
 sagte:
 
-»Ich gebe zu, daß ich mich... blamiert habe, Münz-Elming
+»Ich gebe zu, daß ich mich... blamiert habe. Münz-Elming
 hat es verstanden, mich in Sicherheit zu wiegen,
 und mein Verdacht gegen die beiden Faulhuber schwand,
 als sie mit der Southerland scheinbar weiter nach Melbourne
