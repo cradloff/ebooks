@@ -9,7 +9,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Die beiden Geheimnisvollen.</h3>
 
-Freiheit und Leben!!!
+Freiheit und Leben!!
 
 Zunächst freilich galt es, beides uns selbst zu sichern.
 Und das war doch nicht so einfach, wie Harald es sich gedacht
@@ -28,7 +28,7 @@ Ein Schuß zerriß den Satz. Die Kugel ging zwischen
 Haralds und meinem Kopf hindurch, schlug in die Wand
 ein...
 
-»Alle weiter!« rief Charley Goddlepy abermals und
+»Alle Wetter!« rief Charley Goddlepy abermals und
 beeilte sich, seine Greifwerkzeuge nach oben zu heben.
 
 Auch Harst sagte: »Gut — wenn’s denn schon sein
@@ -104,7 +104,7 @@ Ihnen war als Wache auf Deck zurückgeblieben. Dieser
 Posten bemerkte eine fremde Jacht, warnte Sie vier unten
 im Kielraum — es waren ja *vier* Löcher begonnen worden!
 — und drei von Ihnen fuhren eilends mit dem
-Boote nach der Insel einführt, während Sie beide hier an
+Boote nach der Insel zurück, während Sie beide hier an
 Bord blieben, um die andere Jacht zu beobachten.«
 
 Man brauchte wirklich nicht Detektiv zu sein, um aus
@@ -114,7 +114,7 @@ Schlußfolgerungen mit den Tatsachen sich deckten.
 
 Der »Sprecher« war sehr rot und sehr verlegen geworden.
 Der andere, offenbar der weniger Intelligente,
-stierte meinen Freund mit scheuen Ehrfurcht, auch wieder in
+stierte meinen Freund mit scheuer Ehrfurcht, auch wieder in
 maßlosem Staunen wie ein überirdisches Wesen an.
 
 Der »Sprecher« quälte sich jetzt ein ironisches Lächeln
@@ -156,7 +156,7 @@ gegeben.«
 Der Sprecher erhob sich. »Bitte — gehen Sie drei
 voran. Wir möchten nicht gern Gewalt anwenden.«
 
-»Nicht nötig. Wie gehorchen,« nickte Harald, ärgerlich
+»Nicht nötig. Wir gehorchen,« nickte Harald, ärgerlich
 über die kurzsichtige Halsstarrigkeit dieses Menschen, der nie
 vergaß, die Umgangsformen eines Gebildeten zu wahren.
 
@@ -194,7 +194,7 @@ vielleicht auch von... der Australia bemerkt worden
 sind, eben von Helen Jones und ihrer Garde, und daß
 daher weit eher anzunehmen ist, diese Zufallspiraten »Helen
 Jones und Kompagnie« erscheinen auf diesem Fahrzeug —
-an Stelle der Erwarteten! Wenn Sie meine Ohren hätten
+an Stelle der Erwarteten! Wenn Sie meine Ohren hätten,
 Goddlepy, würden Sie schon vorhin, als wir noch stumm
 dasaßen, ein Geräusch an der Bordwand gehört haben,
 als ob ein Boot vorsichtig daran entlangschrammte. Dieses
@@ -207,7 +207,7 @@ nahen so behutsam. Und deshalb...«
 <h2>2. Kapitel.</h2>
 <h3>Wir segeln.</h3>
 
-Draußen im Schifsgang hatte eine Diele geknarrt.
+Draußen im Schiffsgang hatte eine Diele geknarrt.
 
 Und — Harald schwieg sofort.
 
@@ -261,7 +261,7 @@ Goddlepy, der zwischen uns an der Reling stand.
 
 Harald lauschte in die Nacht hinaus, antwortete nicht.
 
-Auch ich vernahm das Toben einer starben Brandung.
+Auch ich vernahm das Toben einer starken Brandung.
 
 »Die unbekannte Insel!« sagte Harst nur. »Beeilen
 wir uns, die Lukenöffnung nach dem Kielraum abzudichten.
@@ -405,7 +405,7 @@ ist, liegt vielleicht die von den Banditen gekaperte Jacht
 Australia und bedroht das Geheimnis der Insel! Mann,
 nehmen Sie doch Vernunft an!«
 
-Der Sprecher lachte, schrill. »Und wenn ein Dutzend
+Der Sprecher lachte schrill. »Und wenn ein Dutzend
 Piratenjachten hier...«
 
 Da fiel ihm wohl ein, daß er sich fast verraten hätte,
@@ -542,7 +542,7 @@ stumm, damit ihr Geheimnis bewahrt bliebe!
 Und faßte meine treue Clement fester, lehnte mich an
 die Steuerbordreling und horchte — horchte...
 
-Die Möwen kreischen. Zuweilen klang’s wie heisere
+Die Möwen kreischten. Zuweilen klang’s wie heisere
 Schreie von Menschen.
 
 Unheimlich war das alles. Das war so, als ob da
@@ -633,7 +633,7 @@ Möbeln. Ueber dem Tische brannte eine Petroleumhängelampe.
 <@pagebreak/>
 »Wie bist Du denn hierher gekommen, mein Alter? Hoffentlich
 auf angenehmere Art wie wir, denn uns fielen plötzlich,
-als wir am Ostufer der Bucht dicht zu den Felsen in
+als wir am Ostufer der Bucht dicht an den Felsen in
 unserer Wanne entlangruderten, zwei Schlingen über Brust
 und Arme. Dann schwebten wir plötzlich in der Luft,
 schwebten höher, bis — man uns Decken über die Köpfe
@@ -694,9 +694,9 @@ eine Schlucht ohne jeden weiteren Zugang als lediglich von
 der Grotte, also von unserm Schlafzimmer aus. Im übrigen
 aber war’s ein Garten von tropischer Ueppigkeit, mit Wegen,
 die mit weißem Muschelkies bestreut waren, mit künstlichen
-Lauben und sauber angepflanzten Spalierobst.
+Lauben und sauber angepflanztem Spalierobst.
 
-Nachdem wir den Garten durch schlendert und auch von
+Nachdem wir den Garten durchschlendert und auch von
 hier aus festgestellt hatten, daß in der Grottenwand lediglich
 die vier Fenster und die eine Tür eingefügt waren, machte
 sich bei uns allen dreien die Müdigkeit und Abspannung bemerkbar.
@@ -889,14 +889,14 @@ was ich je erlebt habe.
 
 Nun schlichen wir aus der Seitenhöhle steil aufwärts
 <@pagebreak/>
-in die riesenhafte Hauptpforte, schlichen wie die Gespenster,
+in die riesenhafte Hauptgrotte, schlichen wie die Gespenster,
 sahen nur hin und wieder zwischen Haralds Fingern einen
 dünnen Lichtstreifen aufblitzen, blieben immer wieder stehen,
 lauschten — — schlichen weiter.
 
 Sahen, daß in diese Grotte etwa vierzehn Räume hineingebaut
 waren, deren Fenster teils nach Westen, teils nach
-Süden zu in natürliche Durchbrüche der Höhlenwand
+Süden zu sich in natürliche Durchbrüche der Höhlenwand
 einschmiegten.
 
 Wir kamen so von Zimmer zu Zimmer, fanden sie

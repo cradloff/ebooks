@@ -39,7 +39,7 @@ das, was ich hier nur andeuten kann, mag der neugewonnene
 Harald-Harst-Freund im vorigen Bande nachlesen.
 
 Nachdem Miß Dolling sich dann ins Haus zurückgezogen
-und uns bei unseren Zigarren und einem eisgefüllten
+und uns bei unseren Zigarren und einem eisgekühlten
 Likör allein gelassen hatte, wandte sich Harald an
 Chester Dolling mit der Frage, ob dieser vielleicht eine Jacht
 besäße.
@@ -100,7 +100,7 @@ um, zerschlug den Kompaß, und außerdem schlug sich die
 Jacht in der hochgehenden See leck. Die Motoren versagten,
 und mit Notsegeln raste unsere Australia vor einem wütenden
 Westorkan in stockdunkler Nacht viele Stunden dahin.
-Beim Morgengrauen gelangten wir kann zu unserer Ueberraschung
+Beim Morgengrauen gelangten wir dann zu unserer Ueberraschung
 in die Nähe einer Insel, die auf keiner Seekarte
 verzeichnet war. Um die Insel lagerten dichte Nebelmassen.
 Kapitän Tobber schwur Stein und Bein, daß wir hier ein
@@ -148,7 +148,7 @@ hervorstieß:
 
 > »Wenn Sie Ihr Leben nicht verlieren wollen, so
 kehren Sie um und schweigen Sie, daß Sie hier ein
-Schiff vorfanden. Wie sind Leute, die das Schicksal hart
+Schiff vorfanden. Wir sind Leute, die das Schicksal hart
 geprüft hat und die gewillt sind, ihr Geheimnis unbedingt
 zu wahren. Geben Sie mir Ihr Wort, daß Sie schweigen
 werden — mindestens vier Monate lang.«
@@ -159,7 +159,7 @@ Mann war fraglos gebildet. Seine Erregung war so groß,
 daß er kaum die Worte formen konnte.
 
 <@pagebreak/>
-Ich habe kann das Versprechen gegeben, weil — —
+Ich habe dann das Versprechen gegeben, weil — —
 ich sonst erschossen und die Australia versenkt worden wäre.
 Ich kehrte zu meiner Jacht zurück, und drei Stunden später
 verließen wir die Bucht. Meinen Leuten verschloß ich durch
@@ -464,7 +464,7 @@ hatten sich wohl nicht die Zeit gelassen, ringsum die Büsche
 in Brand zu setzen.
 
 Morgens um sieben langten wir auf einer kleinen
-Farm am. Um elf Uhr vormittag saßen wir abermals im
+Farm an. Um elf Uhr vormittag saßen wir abermals im
 Zuge nach Melbourne. Helen Jones und ihre fünf Gefährten
 hatten jetzt volle zehn Stunden Vorsprung.
 
@@ -514,7 +514,7 @@ der Australia beigewohnt, Mr. Harst. Sie verließ um
 halb acht unseren Hafen. Die beiden Schwindler waren
 scheinbar tadellose Gentlemen.«
 
-»Und — die beiden waren allein auf die Nacht gekommen?
+»Und — die beiden waren allein auf die Jacht gekommen?
 Oder — hatten sie noch eine Dame mit?«
 
 »Nein. Nur zwei Diener hatten sie bei sich, die ihre
@@ -544,9 +544,9 @@ Goddlepy alles Nötige, was die Verproviantierung anbetraf,
 während Harald von unserem Hotel aus mit
 <@pagebreak/>
 Dolling telephonierte, der uns sogleich jede Summe von Mr.
-Owen zu erheben hat, die wir etwa brauchen würden, um
-hie Australia den Banditen wieder abzujagen. Daß diese
-Brieffälscher samt ihren Diener zur Bande Helen Jones’
+Owen zu erheben bat, die wir etwa brauchen würden, um
+die Australia den Banditen wieder abzujagen. Daß diese
+Brieffälscher samt ihren Dienern zur Bande Helen Jones’
 gehörten, unterlag keinem Zweifel, und daß Helen und der
 fünfte Verbrecher außerhalb des Hafens ebenfalls an Bord
 der Jacht gekommen waren, mußte man mit derselben
@@ -870,7 +870,7 @@ Wir schufteten mit Feuereifer. Der Abend war nahe,
 und bevor es dunkel wurde, sollte das Notsegel schon gesetzt
 sein.
 
-Ich wandte mich legt einigen Säcken zu, die in einer
+Ich wandte mich jetzt einigen Säcken zu, die in einer
 Ecke bereits aufrecht dastanden.
 
 Als ich den vordersten umkippte, nachdem ich die Seitennaht
@@ -883,7 +883,7 @@ leuchtete mir aus diesem Versteck entgegen...
 
 Ein Gesicht — — unverkennbar: Freund Goddlepy! —
 
-Mein leiser Ruf horchte Harald herbei.
+Mein leiser Ruf lockte Harald herbei.
 
 Goddlepy war bewußtlos. Wir zogen ihn hinter den
 Säcken hervor. Ehe ich aber noch nach oben eilen und
@@ -980,7 +980,7 @@ Floß fehlte.
 
 »Dachte ich’s mir doch!« meinte er achselzuckend. »Die
 Kerle haben sich bereits empfohlen, und wir sind zu spät gekommen...!
-— So, nun laßt nun mach nach dem Versteck
+— So, nun laßt uns mal nach dem Versteck
 der beiden suchen, in dem sie sich verborgen hielten, als
 Schraut und ich die sämtlichen Räume durchstöberten.«
 
