@@ -2261,99 +2261,98 @@ Erstere
 <h3>Die Illustrierte.</h3>
 
 In London blieben wir nur anderthalb Tage. Der
-Herzog war Monatlich und verließ seine Radius nicht. Das
+Herzog war unpäßlich und verließ seine Kabine nicht. Das
 war verständlich: zu leicht hätte ihn hier jemand verhaften
-können! England lade allen Reiz für ihn verloren, nachdem
-der großangelegte Diebstahl der Mumie vereitelt war:
-den war. Dann ging die Amanda wieder in See. Ich
-Ungar gespannt, wie Seine Hoheit mich behandeln würde.
-Nun — er tat, als wäre nichts verrieben! Nur unter vier
+können! England hatte allen Reiz für ihn verloren, nachdem
+der großangelegte Diebstahl der Mumie vereitelt worden
+war. Dann ging die Amanda wieder in See. Ich
+war gespannt, wie Seine Hoheit mich behandeln würde.
+Nun — er tat, als wäre nichts geschehen! Nur unter vier
 Augen sagte er mal zu mir: »Den Verlust der dreitausend
-Pfund werden Sie mir ersehen, Herr Schraut!« — So fuhr
-denn die Jacht durch die Straße von Gibraltar ins Viittel-ländische
-Meer, in die Därme und Sommersonne hinein.
-Der Herr Herzog hatte nopiinjcht, Daß Vom »bar Zimmer
-Die Meile fortsetzen und Acgaypten, Suez und Starre, die
-Pyramiden, den Nil und Chartum erst auf der Rückkauf
+Pfund werden Sie mir ersetzen, Herr Schraut!« — So fuhr
+denn die Jacht durch die Straße von Gibraltar ins Mittelländische
+Meer, in die Wärme und Sommersonne hinein.
+Der Herr Herzog hatte gewünscht, daß man ohne Säumen
+Die Reise fortsetzen und Aegypten, Suez und Kairo, die
+Pyramiden, den Nil und Chartum erst auf der Rücktour
 besichtigen solle.
 
-Der alte Matrose mit dem blauroten Niehoram, Co
-sich übrigens Jan Jensen nannte und Doch Harald Er
-hieß, hielt sich bis zum Suez-Kanal von mir sein. Alte:
-Rasamala ginge er mich nicht weiter an. Japanischen hatte ich Mr
-auch Die unklar, zwölf Mann starke Besatzung der nun
-Feier angesehen. Aeußerlich waren uff diese Peng
-urban Heller bis herab zu den beiden Stewards db’iciid
-einoundsrei. Die Disziplin an Bord war nmustorgü!ja.
+Der alte Matrose mit dem blauroten Riechorgen, der
+sich übrigens Jan Jensen nannte und Doch Harald Harst
+hieß, hielt sich bis zum Suez-Kanal von mir fern. Ich tat,
+als ginge er mich nicht weiter an. Inzwischen hatte ich mir
+auch Die übrige, zwölf Mann starke Besatzung der Amanda
+genauer angesehen. Aeußerlich waren all diese Leute vom
+Kapitän Heller bis herab zu den beiden Stewards durchaus
+einwandfrei. Die Disziplin an Bord war mustergültig.
 Lionel Barring hatte fraglos seine Bande fest in der Hand,
 
-Als wir den Suez-Kognak dressiert hatten und die »ige
+Als wir den Suez-Kanal passiert hatten und die Hitze
 <@pagebreak/>
-Im Noten Meere zu fchimecfen bekamen, finstere Dort Strafen
-mir nachts den zweiten Besuch ab an: überraschend.
-Als ich) alt Bett geben wollte, schlüpfte er in die alias und
+im Roten Meere zu schmecken bekamen, stattete Jan Jensen
+mir nachts den zweiten Besuch ab — ganz überraschend.
+Als ich zu Bett geben wollte, schlüpfte er in die Kabine und
 riegelte die Tür hinter sich ab, schaltete das Licht aus und
 zog mich auf den Bettrand neben sich.
 
-»Weiß der Teufel,« murmelte er, »was das (Gesindel
-in Sumatra vorhaben mag. ob habe mir Die größte Mühe
-Krachen, die Kerle nochmals zu belauschen, aber sich sind ungeheuer
-vorsichtig, Auch in die große Null hat man mich
-noch nicht aufgenommen, obwel:Nil doch ach Jahre Zuchthaus
+»Weiß der Teufel,« murmelte er, »was das Gesindel
+in Sumatra vorhaben mag. Ich habe mir Die größte Mühe
+gegeben, die Kerle nochmals zu belauschen, aber sie sind ungeheuer
+vorsichtig. Auch in die große Null hat man mich
+noch nicht aufgenommen, obwohl ich doch acht Jahre Zuchthaus
 hinter mir habe. Ich hause da ganz allein in einem
-Verschlag im Vergriff, bin also dadurch von den anderen
-Matrosen und Heizern getrennt worden, die sämtlich Ausstreute
+Verschlag im Vorschiff, bin also dadurch von den anderen
+Matrosen und Heizern getrennt worden, die sämtlich Null-Leute
 sind. Ich fürchte fast, Barring hat Verdacht geschöpft.«
 
-Er machte eine Pause. Er roh nickt angenehm: nach
-Schweiß und Insel!
+Er machte eine Pause. Er roch nicht angenehm: nach
+Schweiß und Fusel!
 
-»Tatsache ist,« fuhr er ebenso leise fort, »das, Barring
+»Tatsache ist,« fuhr er ebenso leise fort, »daß Barring
 in Wogitschs Wohnung irgendwelche Papiere gefunden hat,
-die perheißung2voll sind. Diese Papiere, mein Aber, er
-wähnte Barring eines Abend, aha Ich ihn an Tod in Gespräch
+die verheißungsvoll sind. Diese Papiere, mein Alter,
+erwähnte Barring eines Abends, als Ich ihn an Deck im Gespräch
 mit Doktor Lorenzen und Magnus Holster, seinen
-Vertrauten, belauschte. Diese beiden Herren sind im ül:rinnen
-niemand anderes als Barrings Freunde den Schloß
-Emil her: Mr. Vorne und Axt, Toleraoenl! Es fehlt noch
-der dritte, der damals mit Barring entkam, männliche Famos
-Orden, der Reitknecht. Wer weiß, wo der Lump stet.«
+Vertrauten, belauschte. Diese beiden Herren sind im übrigen
+niemand anderes als Barrings Freunde von Schloß
+Gnir her: Mr. Barne und Mr. Tobergeul! Es fehlt noch
+der dritte, der damals mit Barring entkam, nämlich James
+Olden, der Reitknecht. Wer weiß, wo der Lump steckt.«
 
 Abermals eine Pause. — Dann:
 
-»am Schifsöraum Tieren in einem tadellosen verriet
+»Im Schifsöraum liegen in einem tadellosen Versteck
 18 Repetiergewehre, 30 Mauserpistolen, 30 lange Dolchmesser
 und sehr viel Munition ...«
 
-»Festsaß!« entfuhr es mir.
+»Seeraub!« entfuhr es mir.
 
-»am, Du meinst, sie wollen die Jacht völlig sich als
-eignen und Seeräuber spielen?!. Nein, das stimmt nicht.
-Barring sagte damals an Geck. zu Lorenzen und Holster
-etwa folgendes: »Ob wir mit Gewalt vorgehen missen,
+»Hm, Du meinst, sie wollen die Jacht völlig sich aneignen
+und Seeräuber spielen?! — Nein, das stimmt nicht.
+Barring sagte damals an Deck zu Lorenzen und Holster
+etwa folgendes: »Ob wir mit Gewalt vorgehen müssen,
 bleibt abzuwarten. Zunächst versuchen wir es mit List.
-
 <@pagebreak/>
 Die Papiere habe Ich ja. Und das Sultanat Padagoa liegt
-so sehr abseits jeder Ruine an wer tiefen Bucht der Westküste
-Sumatras, daß; wir die Sinniger uns von Europäern
-nicht zu befürchten brauchen,« — Dies ist alles, was ich weiß,
-mein Alter. Viel ist’s nicht, Daß Barring den angeblichen
-Wogitsch Papiere gemaust hatte, ade ich schon, als wir
+so sehr abseits jeder Kultur an einer tiefen Bucht der Westküste
+Sumatras, daß wir die Einmischung von Europäern
+nicht zu befürchten brauchen.« — Dies ist alles, was ich weiß,
+mein Alter. Viel ist’s nicht. Daß Barring dem angeblichen
+Wogitsch Papiere gemaust hatte, ahnte ich schon, als wir
 den Herrn Herzog im Sessel gegenüber der Mordmaschine
-festgebunden fanden, — Uebecrbaupt ...« leblos er nachdenklich,
-»dieses Abenteuer ist sehr, sehr dunkel. Weshalb er
-mordete Rehbein seinen Bruder?! Und — sind die beiden
-wirklich Brüder, beißen sie wirklich Rastein?! Und — wer
-ist diese Ella Rastein, die nach Aussage der Micbewochner
+festgebunden fanden. — Ueberhaupt ...« schloß er nachdenklich,
+»dieses Abenteuer ist sehr, sehr dunkel. Weshalb ermordete
+Rehbein seinen Bruder?! Und — sind die beiden
+wirklich Brüder, heißen sie wirklich Rastein?! Und — wer
+ist diese Ella Rastein, die nach Aussage der Mitbewohner
 des Hauses Laternengasse 19 sehr schön sein soll und oft
 für sehr lange Zeit verreist?! — Gewiß, Ich habe da so
 eine Vermutung, die sich ...«
 
-Er scharfes plötzlich ...
+Er schwieg plötzlich ...
 
-»Hörtest Du?« fragte er nach einer Weile. »Da bat
-jemand den Brüder der Kabinentür besorgt ... Da — schon
+»Hörtest Du?« fragte er nach einer Weile. »Da hat
+jemand den Drücker der Kabinentür bewegt ... Da — schon
 wieder ...!!«
 
 Und dann — klopfte es ...
@@ -2362,175 +2361,175 @@ Und dann — klopfte es ...
 Wandschrank hin, in dem meine Kleider hingen.
 
 Ich ging zur Tür. — Auf meine Frage, wer draußen
-sei, meldete sich ganz Teile ... Gustav Krause!
+sei, meldete sich ganz leise ... Gustav Krause!
 
-Ich öffnete Er ... taumelte zu mir herein. Er war
-im filufeidenen Pyjama. Sein Kugelbauch gewann in diesem
-Kostüm Bureaus nicht an Schönheit.
+Ich öffnete. Er ... taumelte zu mir herein. Er war
+im lilaseidenen Pyjama. Sein Kugelbauch gewann in diesem
+Kostüm durchaus nicht an Schönheit.
 
-Ah siegelte hinter ihm ab, machte Licht.
+Ich riegelte hinter ihm ab, machte Licht.
 
 Er war in den einen Korbsessel gesunken. —
 
 »Was gibt’s denn?« fragte ich erschrocken, da er
-geraden vrjammecnêéäwert aqussah.
+geradezu bejammernswert aussah.
 
-Er ... der Gering spielt noch mit den anderen Neu
-Seite,« stotterte er. »Hut Ok diese Barer Artig Eis
-ich mir in Suez am Kai gekauft. Soeben erst blätterte ¿C
-sie Dun. da ... nehmen Sie, Herr Schraut! Sehen Sie
+»Der ... der Herzog spielt noch mit den anderen Roulette,«
+stotterte er. »Hier — diese Berliner Illustrierte habe
+ich mir in Suez am Kai gekauft. Soeben erst blätterte ich
+sie durch. da ... nehmen Sie, Herr Schraut! Sehen Sie
 <@pagebreak/>
-sich das Bild auf der vollenden Seite an, Das zu dem Nr
-Zweifel »Blecherne Yiapvbritter« Oel oft ...«
+sich das Bild auf der vorletzten Seite an, Das zu dem Artikel
+»Moderne Raubritter« gehört ...«
 
 Ich tat’s. Es war ... Lionel Barring!! —
 
-las war für mich eine böse Zwickmühle! Ich hatte
+Das war für mich eine böse Zwickmühle! Ich hatte
 Barring versprochen, nichts zu verraten. Was sollte ich
 nun tun?!
 
 Gustav Krause stierte mich entgeistert an.
 
-»Der Herzog ... in... also... ein Verbrecher |»
-Hüstelte er, nach Luft schnappend. »Dann sind auch seine
+»Der Herzog ... ist ... also ... ein Verbrecher!«
+flüsterte er, nach Luft schnappend. »Dann sind auch seine
 Freunde und die Besatzung nichts anderes! Ich bin nicht
-aus den Korn leichten, Herr Schraut! |»
+auf den Kopp jefallen, Herr Schraut!!«
 
 Harald tauchte lautlos aus dem Schranke auf,
 
-Krause wollte vor Angst loëbrüllen, Aber ich drückte
-ihm noch 10sch die Hand auf die Lippen.
+Krause wollte vor Angst losbrüllen. Aber ich drückte
+ihm noch rasch die Hand auf die Lippen.
 
 »ich bin Harald Harst,« erklärte mein Freund hastig.
-»Sie nisten jetzt, Herr Krause, daß Sie und Ihre Freunde
-von der berücsch lichten ernten Null, von Barring und Konsorten,
-jederzeit auf irgendeiner entlegenen Insel ausgefegt
-werden strömen, falls So sich auch nur anwerfen lassen, daß
-Sie etwas ahnen! Reisen Sie sich also zusammen und
+»Sie wissen jetzt, Herr Krause, daß Sie und Ihre Freunde
+von der berüchtigten großen Null, von Barring und Konsorten,
+jederzeit auf irgendeiner entlegenen Insel ausgesetzt
+werden können, falls Sie sich auch nur anmerken lassen, daß
+Sie etwas ahnen! Reißen Sie sich also zusammen und
 spielen Sie weiter den Harmlosen. Schraut und ich schützen
-Sie« Und — versclwecigen Sie Ihren Freunden, daß Sie
-Lionel Barring durch schaut haben. abfangen Sie auch Ihre
-(Satin, Die doch wohl leider ebenfalls das Bild gesehen hat.
-ich werde Ihnen ich:on mitteilen, was wir unternehmen
-müssen, um diese Halunken loëözuwerden. Ich halte Sie für
-seinen Feigling. Kennen Sie schlottern?«
+Sie! Und — verschweigen Sie Ihren Freunden, daß Sie
+Lionel Barring durchschaut haben. Warnen Sie auch Ihre
+Gattin, Die doch wohl leider ebenfalls das Bild gesehen hat.
+ich werde Ihnen schon mitteilen, was wir unternehmen
+müssen, um diese Halunken loszuwerden. Ich halte Sie für
+keinen Feigling. Können Sie schießen?«
 
 »Und ob! Ich bin Jäger, und die drei anderen sind’s
 auch. Wir haben auch jeder eine Repetierpistole mit! —
-Ne — feige sind wir mich! Verlassen Sie sich drauf, Herr
+Ne — feige sind wir nich! Verlassen Sie sich drauf, Herr
 Harst: mit Ihnen Seite an Seite werden wir zu Löwen!«
 
-Hm — Krause im lila seidenen Pyjama sah ganz spie
+Hm — Krause im lilaseidenen Pyjama sah ganz wie
 ein Löwe aus!! —
 
-Sonst schickte ihn dann wieder in seine Kabine zurück
-und folge ihm sehr bald, eilte an Geck und begab sich in
-seine brauner. —
+Harst schickte ihn dann wieder in seine Kabine zurück
+und folgte ihm sehr bald, eilte an Deck und begab sich in
+seine Kammer. —
 
 <@pagebreak/>
 Krause bewies in den folgenden Tagen, daß er ganz
-gut schauspielern konnte Er ließ sich den Herrn Herzog
+gut schauspielern konnte. Er ließ sich dem Herrn Herzog
 gegenüber nichts anmerken, und seine Gattin ebensowenig.
 
-als die Sacht dann den Indischen Ozean erreicht hatte,
-hielt uns ein kleiner Mascoinenicl Aden zwei Tage inmitten
-des endlosen Viertes ans. Barring war jetzt sehr nervös.
+als die Jacht dann den Indischen Ozean erreicht hatte,
+hielt uns ein kleiner Maschinenschaden zwei Tage inmitten
+des endlosen Meeres auf. Barring war jetzt sehr nervös.
 Er ging viel auf Deck allein hin und her und schien angestrengt
 nachzugrübeln.
 
 Und abermals vier Tage später kam vormittags Land
-in Sicht. Barring behauptete Fein Abendessen, es sei die
-Westküste von Vorderindien. Das war Schwindecl« wir
-nahten uns der Junger Sumatra, dem — — Gepflanzt
+in Sicht. Barring behauptete beim Abendessen, es sei die
+Westküste von Vorderindien. Das war Schwindel: wir
+nahten uns der Insel Sumatra, dem — — Sultanat
 Padagoa! —
 
-An dieser Stelle möchte ich ein paar ganz kurze kolonial-politische
+An dieser Stelle möchte ich ein paar ganz kurze kolonialpolitische
 Bemerkungen einflechten. — Sumatra ist bekanntlich
-holländischer Kollegin!desto, Die Unterwwersung der einheimischen
-Fürsten hat vielfach große Schwierigkeiten gemacht,
-Besonders die ne gegen kämpften hat errang um
-ihre Freiheit. Dagegen Despotin sich die Batta- Völker den
-europäischen Eindringlingen meist freiwillig unter Teile
-der Batta bewohnen auch die felsiger Nordwestküste. Den
+holländischer Kolonialbesitz. Die Unterwerfung der einheimischen
+Fürsten hat vielfach große Schwierigkeiten gemacht.
+Besonders die Arich-nesen kämpften jahrelang um
+ihre Freiheit. Dagegen ordneten sich die Batta-Völker den
+europäischen Eindringlingen meist freiwillig unter. Teile
+der Batta bewohnen auch die felsige Nordwestküste. Den
 Fürsten hat man eine Scheinselbständigkeit belassen. Sie
-nennen sich zumeist Sultan, und die Heüanoer haben bei
-der großen Ausdehnung der Faules an einigen entlegenen
-Sultanaten so wenig Interesse, daß sie an diesen Fürsten-le
-nicht einmal &tantsfommiffare, artig Aufpasser,
-alten, — —
+nennen sich zumeist Sultan, und die Holländer haben bei
+der großen Ausdehnung der Insel an einigen entlegenen
+Sultanaten so wenig Interesse, daß sie an diesen Fürstenhöfen
+nicht einmal Staatskommisare, also Aufpasser,
+halten, — —
 
 An demselben Abend noch fuhr die Jacht vorsichtig in
 die sogenannte Padagoa-Bucht ein, die sich sehr bald zu
-einem ungelßcuren Binnensee erweitert, dessen stille, von
-Bergen gegen Sturme völlig gcc. übte Oberfläche durch 1a» bloße
-kleine Felseninseln angenehm belebt wird. Bei Venen
-Mondschein glitt die Jacht in dieses Inselreich hinein 111d
-warf schließlich wie völlig abgeblendeten Lichtern in 1ncm
-ne rstecfien Winkel der Südküste der Bucht Anker. Dies qge-
+einem ungeheuren Binnensee erweitert, dessen stille, von
+Bergen gegen Stürme völlig geschützte Oberfläche durch zahllose
+kleine Felseninseln angenehm belebt wird. Bei mildem
+Mondschein glitt die Jacht in dieses Inselreich hinein und
+warf schließlich mit völlig abgeblendeten Lichtern in einem
+versteckten Winkel der Südküste der Bucht Anker. Dies geschah
 <@pagebreak/>
-(Schal um ein Uhr, als an Bord alles bereits zu Filialen
-Aktie.
+um ein Uhr, als an Bord alles bereits zu schlafen
+schien.
 
-schlief nicht. durch Die Meine Rahmens
-Rentier beopborbtete ich genau die Umgebung und die Angler-Mancher.
-las Fenster war offen. Mit einem Male
-iclqvebie von oben ein an einem Bindfaden beseitigten Zettel
-vergl. Ich faßte zu, ruckte dreimal an dem Bindfaden
-und zog ihn dann ein. — Der Hotel lautete:
+Ich — — schlief nicht. durch das kleine Kabinenfenster
+beobachtete ich genau die Umgebung und die Ankermanöver.
+Das Fenster war offen. Mit einem Male
+schwebte von oben ein an einem Bindfaden befestigter Zettel
+herab. Ich faßte zu, ruckte dreimal an dem Bindfaden
+und zog ihn dann ein. — Der Zettel lautete:
 
 »Heute sollte ich in Die große Null aufgenommen
 werden. Ich spielte jedoch den vollständig Betrunkenen.
-— V’arte am Fenster. Weiteres folge — H. — Verbrennen!
-!«
+— Warte am Fenster. Weiteres folgt. — H. — Verbrennen!!«
 
-Eine halbe Stunde ergaben verschwand der Mount ...
+Eine halbe Stunde später verschwand der Mond ...
 
 Leichtes Gewölk verhüllte auch den Sternenhimmel,
 
-Ich stand im Dunklen an dem Albernen Fenster. an
+Ich stand im Dunklen an dem kleinen Fenster. an
 Deck war es still geworden,
 
 Ich stand und schaute auf die matt glänzenden Wasser
-hinab, in deren Ticken Lcuchisische zuweilen wie rasch sich
-bewegende Festlande Laternen hin und her schossen ...
+hinab, in deren Tiefen Leuchtfische zuweilen wie rasch sich
+bewegende seltsame Laternen hin und her schossen ...
 
-Und — ich sah plövlib etwas Dunkles auf der Oberfläche
-der Wucht — etwas, das nur zu sehr dem Kopfe
+Und — ich sah plötzlich etwas Dunkles auf der Oberfläche
+der Bucht — etwas, das nur zu sehr dem Kopfe
 eines Menschen glich ...
 
 ich sah einen zweiten — dritten Kopf ...
 
 eine ganze Anzahl ...
 
-Es waren Eingeborene, die der Jacht sich Schlitz!Kniend
+Es waren Eingeborene, die der Jacht sich schwimmend
 näherten ...
 
 Und quer über all diese Köpfe zog sich ein zuweilen
-aufblitzender hellerer Strich: Dieser, die die Schwimmer
+aufblitzender hellerer Strich: Messer, die die Schwimmer
 zwischen den Zähnen hielten ... —
 
-dann legte sich eine Hand mit leisem Trat auf meine
+dann legte sich eine Hand mit leisem Druck auf meine
 Schulter: Harst!
 
 Er flüsterte rasch: »Die ganze Bande hält in der großen
-Kajüte Kricgsärat. An Deck sind nur zwei Wachen. Ich
-habe Krause geweckt, Er holt seine Freunde und die Damen
-hierher. Uhr — — Tanz geht so 2»
+Kajüte Kriegsrat. An Deck sind nur zwei Wachen. Ich
+habe Krause geweckt. Er holt seine Freunde und die Damen
+hierher. Der — — Tanz geht los!«
 
-gabst Du die cksvimwer”« fragte ich ebenso hastig.
+»Sahst Du die Schwimmer?« fragte ich ebenso hastig.
 
 <@pagebreak/>
-»ja… — Fenster zu! Vorhang vor! Dann Licht!«
+»Ja… — Fenster zu! Vorhang vor! Dann Licht!«
 
-las Licht stammte auf. Harald riß sich Perücke und
-Bart herunter, reinige das Gesicht, nahm einen seiner
+Das Licht flammte auf. Harald riß sich Perücke und
+Bart herunter, reinigte das Gesicht, nahm einen seiner
 Anzüge aus dem Schranke, warf Jan Jensens Kleidungsstücke
 ab und wurde wieder ... Harald Harst. —
+
 Krause, seine Freunde und die vier Damen schlichen
 Herein ...
 
-Im selben Moment vom Det her zwei gellende
-Schreie
+Im selben Moment vom Deck her zwei gellende
+Schreie ...
 
 Dann Stile ...
 
@@ -2539,26 +2538,26 @@ Dann ...
 <h2>5. Kapitel.</h2>
 <h3>Die Brüder Rastein.</h3>
 
-Dann kam’s die Treppe hinab mit ohrbetäubenden
-Gebrüll — fraglos eine ganze Menschemvelle brauner
-Leiber
+Dann kam’s die Treppe hinab mit ohrbetäubendem
+Gebrüll — fraglos eine ganze Menschenwelle brauner
+Leiber ...
 
-Sir lösten in der Kajüte ein paar Schüsse ...
+Wir hörten in der Kajüte ein paar Schüsse ...
 
-Und bärtig den Lärm eines kurzen, wilden Kampfes.
+Und hörten den Lärm eines kurzen, wilden Kampfes.
 
-dann all »Knall Stille ...
+dann abermals Stille ...
 
-Aber hüte!Ende Schritte draußen im Gange, das leise
-Heike Der Nabinenriien und Schillernde Ersinnen be
-lehrten ans, Daß Die Krallte Dultchiuda Diven.
+Aber huschende Schritte draußen im Gange, das leise
+Kreischen Der Kabinentüren und flüsternde Stimmen
+belehrten uns, Daß Die Kabinen durchsucht wurden.
 
-finstere Tür flog auf ...
+Unsere Tür flog auf ...
 
-draußen ein Dutzend Batta, Laternen In den Händen.
+Draußen ein Dutzend Batta, Laternen In den Händen.
 
-Einer trat ein — ein schlanker Drang mit kurzem Bart,
-In ritt weiten Leinenanzug. Auch ein Batta ...
+Einer trat ein — ein schlanker Mann mit kurzem Bart,
+In einem weißen Leinenanzug. Auch ein Batta ...
 
 <@pagebreak/>
 Harst ließ den Mann nicht erst zu Worte kommen.
@@ -2575,7 +2574,7 @@ Der europäisch gekleidete Batta erwiderte höflich:
 
 »Dann Läßt der Sultan von Padagoa Sie und Ihre
 Freunde einladen, morgen vormittag seine Gäste zu sein. —
-Wär sind über alles unterrichtet, was hier an Bord geschieht,
+Wir sind über alles unterrichtet, was hier an Bord geschieht.
 Sie können die Nacht hier in voller Sicherheit zubringen.
 Die Spuren des Kampfes werden beseitigt werden.
 Bleiben Sie bitte noch eine halbe Stunde hier beisammen.«
@@ -2583,28 +2582,28 @@ Bleiben Sie bitte noch eine halbe Stunde hier beisammen.«
 Der braune Gentleman verbeugte sich und schloß die
 Tür wieder.
 
-Dies Damen erholten sich allmählich von dem nerven-zermürbenden
+Die Damen erholten sich allmählich von dem nervenzermürbenden
 Schreck dieses jähen Angriffs auf die Jacht.
 
 Eine halbe Stunde später begaben sich Harst, Krause
-und ich erst in die große Kajüte, dann aus Det. Wir ran
-den hier vier Batta-Krieger vor, die als Wachen Kajüte
-geblieben waren.
+und ich erst in die große Kajüte, dann auf Deck. Wir fanden
+hier vier Batta-Krieger vor, die als Wachen zurückgeblieben
+waren.
 
 Barring und die Seinen hatte man in Kähnen an
-Land geschart. —
+Land geschafft. —
 
-An Schlaf war natürlich für un? nicht zu Deinen. Wir
+An Schlaf war natürlich für uns nicht zu Denken. Wir
 erwarteten in der großen Kajüte den nahenden Morgen.
 
-Allerlei Vermnuiungen wurden laut, was der Sultan
+Allerlei Vermutungen wurden laut, was der Sultan
 von Padagoa mit Barring und den Verbrechern wohl beginnen
-würde und weshalb er sie gschesangen genommen,
-uns aber mit so großer Rücksicht behandelt halte.
+würde und weshalb er sie gefangen genommen,
+uns aber mit so großer Rücksicht behandelt hatte.
 
-Ich beteiligte mich an dieser Unterhalmung recht lebhaft.
-Harald dagegen saß mit sphinxhaft - undurchdrings-lichem
-Gesicht da und schien in seinem Sessel eingewirkt zu
+Ich beteiligte mich an dieser Unterhaltung recht lebhaft.
+Harald dagegen saß mit sphinxhaft-undurchdringlichem
+Gesicht da und schien in seinem Sessel eingenickt zu
 sein. plötzlich erklärte er dann, sich etwas aufrichtend:
 
 »Der Sultan von Padagoa ist einst Europäer gewesen.«
@@ -2613,127 +2612,127 @@ sein. plötzlich erklärte er dann, sich etwas aufrichtend:
 Diese Mitteilung wirkte sehr verschieden auf die
 Hörer.
 
-Gustav Krause meinte nur: »Na also — ein Schentel-mähn!«
+Gustav Krause meinte nur: »Na also — ein Schentelmähn!«
 
-Die Damen riefen: »Ich, wie interessant!«
+Die Damen riefen: »Ach, wie interessant!«
 
 Und ich — ich blickte Harst nur forschend an.
 
 Er erhob sich, lächelte etwas: »Da uns bisher der
-Halle nicht abgeschnitten worden ist, wollen wir noch ein
+Hals nicht abgeschnitten worden ist, wollen wir noch ein
 paar Stunden schlafen. Der Morgen graut. Gute Nacht.«
 
 Eine Verbeugung, und er ging hinaus. — Ich fand
-ihn gleich darauf In meiner Kabine, Zoo er sich eine Hänge
-matte ausgespannt hatte und bereits friedlich da oben zu
+ihn gleich darauf In meiner Kabine, wo er sich eine Hängematte
+ausgespannt hatte und bereits friedlich da oben zu
 schlummern schien.
 
 Ich legte mich gleichfalls nieder, schlief ein. — —
 
-Um elf Uhr vormittags näherten sich) der Jacht fünf
-flache, große, mit Blumen reich geschmückte Boote, die und
-feierlich abhalten.
+Um elf Uhr vormittags näherten sich der Jacht fünf
+flache, große, mit Blumen reich geschmückte Boote, die uns
+feierlich abholten.
 
 Derselbe englisch sprechende Batta, der jetzt eine Art
-Uniform nach europäischem Schnitt trug, Uhr dann voran.
+Uniform nach europäischem Schnitt trug, fuhr dann voran.
 Die übrigen Boote folgten.
 
 Harald und ich saßen allein in einem der leichten
-Fahrzeuge, die durch se zwölf halbnackte Ruderer pfeilschnell
+Fahrzeuge, die durch je zwölf halbnackte Ruderer pfeilschnell
 vorwärtsbewegt wurden. —
 
-In dem steilen Felsenufer des weiten Lagunensces
+In dem steilen Felsenufer des weiten Lagunensees
 öffnete sich nach Norden zu eine Art Kanal, der in einen
-zweiten See führte. Hier lag am Trinker Die Stadt Padagoa,
+zweiten See führte. Hier lag am Ostufer Die Stadt Padagoa,
 zumeist aus Bambushütten bestehend, und jenseits auf
 einem steilen Berge die aus Granit aufgeführte Sultansburg,
-ein Bau von phantastischen Geschmack, trotzdem im
+ein Bau von phantastischem Geschmack, trotzdem
 imposant und wuchtig. —
 
-Leichte Rilschas, von je zwei Rikschakulis gezogen,
+Leichte Rikschas, von je zwei Rikschakulis gezogen,
 brachten uns durch die Straßen der Stadt zum Schlosse
 empor.
 
 Jetzt erst erklärte Harald genau so unvermittelt wie
-stets: »ich habe mich, was Wogitschs Tod betrifft, sehr ne
-irrt. Rehbein ist niemals der Mörder, Wir werden den
+stets: »ich habe mich, was Wogitschs Tod betrifft, sehr geirrt.
+Rehbein ist niemals der Mörder. Wir werden den
 <@pagebreak/>
 buckligen Schuster hier stark verändert wiederfinden.«
 
 »Der ... der weiße Sultan von Padagoa?« fragte ich
-geradezu finde vor Staunen.
+geradezu starr vor Staunen.
 
 Harald schwieg und beobachtete das Leben und Treiben
 ringsum, —
 
-dann der Serpentinenweg den Berg hinan
+dann der Serpentinenweg den Berg hinan ...
 
 Dann der Batta in Uniform, der zuerst uns beide über
 Marmortreppen und Flure, die mit kostbaren Teppichen belegt
 waren, in einen europäisch eingerichteten Saal führte,
-in dem an der einen Jonglierte ein großer Diplomatenschreibtisch
-Fand. An diesem Tische saß ein bartlose Mann
-mit leicht achbräunten Erstickt in weißen Flanellanzug. —
-Der Batta verbeugte sich tief vor diesemvicleuht freilich«
-langjährigen Europäer und ging Dann hinaus.
+in dem an der einen Schmalseite ein großer Diplomatenschreibtisch
+stand. An diesem Tische saß ein bartloser Mann
+mit leicht gebräuntem Gesicht in weißem Flanellanzug. —
+Der Batta verbeugte sich tief vor diesem vielleicht sechzigjährigen
+Europäer und ging Dann hinaus.
 
 Auch wir hatten uns verneigt. Wir ahnten: es war
-vor weiße Sultan!
+der weiße Sultan!
 
-Er erhob sich, kam um den Tisch herum und flechte
+Er erhob sich, kam um den Tisch herum und streckte
 erst Harald Die Hand hin, sagte auf Deutsch: »Ich heiße
-Sie beide herzlich willkommen, Landsnmamn!« Dann gab
-er mich mir die Hand. Es war ... Emil Rehbein, der Flickschuster
+Sie beide herzlich willkommen, Landsmann!« Dann gab
+er auch mir die Hand. Es war ... Emil Rehbein, der Flickschuster
 aus Brückengang 6.
 
-»Nehme Sie bitte Platz, meine Herren,« fügte er nun
-hinzu und deutete auf ein Ecksosac »Sich Bin Ahnen einige
-Erklärungen sei:artig, muß Sie, Herr Harst, auch des hinterlistiger
-Hiebes wegen uz Enisämldigung bitten. — Wir
-Gebrüder Rastein Bloßen vom fidzchitten Lebensjahre an
-ein sehr abentcnerlicked Leben qiüsrt Wir waren Zivil
-ginge. Mit zweiundzwanzig Jahren schlossen wir uns3 hier
-in den Gewässern der Sunda-Inseln einer Piratenbaunde
+»Nehmen Sie bitte Platz, meine Herren,« fügte er nun
+hinzu und deutete auf ein Ecksofa. »Ich bin Ihnen einige
+Erklärungen schuldig, muß Sie, Herr Harst, auch des hinterlistigen
+Hiebes wegen im Entschuldigung bitten. — Wir
+Gebrüder Rastein haben vom sechzehnten Lebensjahre an
+ein sehr abenteuerliches Leben geführt. Wir waren Zwillinge.
+Mit zweiundzwanzig Jahren schlossen wir uns hier
+in den Gewässern der Sunda-Inseln einer Piratenbande
 an. Wir gerieten zwei Jahre später in die Gewalt des
-Sultan? von Padagoa. Dessen einzige Tochter aber verliebte
+Sultans von Padagoa. Dessen einzige Tochter aber verliebte
 sich in meinen Bruder Ernst. Er wurde ihr Gatte
-und cuwarb sich so großes Rauschen unter diesen harmlosen
+und erwarb sich so großes Ansehen unter diesen harmlosen
 Battas, daß man ihn nach dem Tode des alten Sultans
-zu bessern Nacffolger ernonunte. Auch ich war hier sehr des
-liebt. Wir Schlossen günstige Vertrage mir den Holländern,
+zu dessen Nachfolger ernannte. Auch ich war hier sehr beliebt.
+Wir schlossen günstige Vertrage mit den Holländern,
 <@pagebreak/>
 die uns mit Auszeichnungen überhäuften. Der weiße Sultan
 von Padagoa und sein Bruder und oberster Ratgeber
-waren eine Beitrags, etwa In den achtziger Jahren, in aller
-Munde. Dann vergaß die Welt uns, Deines Bruders Ehe
-war mit einem Kinde gesegnet, einem Mädchen, da dieses
+waren eine Zeitlang, etwa In den achtziger Jahren, in aller
+Munde. Dann vergaß die Welt uns. Meines Bruders Ehe
+war mit einem Kinde gesegnet, einem Mädchen. da dieses
 nach den hiesigen Gebräuchen nicht die Sultanswürde erben
-benutzte, bestimmte die Versammlung der Alten, daß, falls
+konnte, bestimmte die Versammlung der Alten, daß, falls
 mein Bruder verstürbe, ich sein Erbe werden sollte. — Die
 Sehnsucht nach der deutschen Heimat — wir sind geborene
 Berliner — ward mit den Jahren jedoch so übermächtig in
-Uns, daß wir beschlossen, abwechselnd fiele ein halbes Jahr
-in Berlin zu leben. Wir hausten daher die Häuser Laternengasse
+Uns, daß wir beschlossen, abwechselnd stets ein halbes Jahr
+in Berlin zu leben. Wir kauften daher die Häuser Laternengasse
 19 und Brückengang 6 und begannen nun entsprechend
 unserem auf alles Außergewöhnliche eingestellten Sinn ein
 Leben, wie es selten Männer geführt haben. Daß einer
 von uns stets viele Monate abwesend war, merkte niemand
 von unseren Berliner Nachbarn. Dazu hausten wir zu zurückgezogen.
 Ella, meines Bruders Tochter, hielt sich
-größtenteils hier in Padagoa auf. tun Berlin erregte ihre
+größtenteils hier in Padagoa auf. In Berlin erregte ihre
 fremdartige Schönheit eine unseren Heimlichkeiten sehr nachteilige
 Bewunderung. Aus Liebhaberei hatte zuerst ich das
-Modellieren in V’achs und dann auch das Herstellen von
-Wachsfiguren betrieben. — So genossen hinan unser aufregendes
-Doppelleben Saft zwanzig Jahre völlig ungestört, Oft
-war mein Bruder in der schien Zeit über ein Jahr und
+Modellieren in Wachs und dann auch das Herstellen von
+Wachsfiguren betrieben. — So genossen wir unser aufregendes
+Doppelleben fast zwanzig Jahre völlig ungestört. Oft
+war mein Bruder in der letzten Zeit über ein Jahr und
 länger von Berlin abwesend und erledigte hier seine nur
-isıfofern schwierigen E1anatögcfchäfte, als eine kleine Partei
+insofern schwierigen Staatsgeschäfte, als eine kleine Partei
 der Landeskinder beständig gegen ihn wühlte und einen
 vornehmen Batta zum Sultan machen wollte. Im Februar
-dieses Jahres lehrte er dann ganz überraschend mit seiner
+dieses Jahres kehrte er dann ganz überraschend mit seiner
 Tochter nach Berlin zurück: eine unblutige Palastrevolution
-hatte die beiden von hier herrischen.«
+hatte die beiden von hier vertrieben.«
 
 Der weiße Sultan machte eine kurze Pause, die Harald
 dazu benutzte, seinerseits nun folgendes hinzuzufügen:
@@ -2742,44 +2741,44 @@ dazu benutzte, seinerseits nun folgendes hinzuzufügen:
 in Berlin habe ich in demselben Augenblick durchschaut, als
 <@pagebreak/>
 mir während der Seereise eine englische Zeitung, die ein
-Matrose der Jacht in Suez gekauft lade, in die Hand kam.
-ob fand darin einen Artikel über diese Palastrevolution
-und über die Flucht des Sultans nebst seiner Seeufer, ferner
+Matrose der Jacht in Suez gekauft hatte, in die Hand kam.
+Ich fand darin einen Artikel über diese Palastrevolution
+und über die Flucht des Sultans nebst seiner Tochter, ferner
 zum Schluß die Nachricht, daß die Bevölkerung hier den
-Rivalen Ihren Bruders wieder vertrieben und die mich
-sehr ibre& bewvährien Staatoberhauptes gewünscht hätte,
+Rivalen Ihren Bruders wieder vertrieben und die Rückkehr
+ihres bewährten Staatsoberhauptes gewünscht hätte,
 dessen Aufenthalt jedoch unbekannt sei. — Ihr Bruder ist
-im Hause Vriidenama 6 von diesem Rivalen oder von
+im Hause Brückengang 6 von diesem Rivalen oder von
 einem Anhänger desselben ermordet worden. Sie aber
 hielten Barring für den Mörder, der sich all jene Papiere
-angceeinnet hatte, die Ihrer beider Doppelleben enthüllten. —
-Sie wollten Barring all? Abheben bestrafen. Daher die
+angeeignet hatte, die Ihrer beider Doppelleben enthüllten. —
+Sie wollten Barring als Mörder bestrafen. Daher die
 Höllenmaschine auf dem Tische. Sie und Ihre Nichte begaben
 sich dann auf kürzestem Wege hierher und traten
 Ihres Bruders Erbschaft an, wurden Sultan und haben
 irgendwie Barring beobachten lassen ...«
 
-»Durch Londoner Detektive ...« war’s der Sultan ein.
-eUcbrigens war ich es, der die Kreidenullen an Ihren Zaun
+»Durch Londoner Detektive ...« warf der Sultan ein.
+»Uebrigens war ich es, der die Kreidenullen an Ihren Zaun
 gemalt hatte ...«
 
-»Barring wieder plante mit seiner Bande nichts als
-anderes als eine Beragubung dieses Schlosse« hier ...«
+»Barring wieder plante mit seiner Bande nichts
+anderes als eine Beraubung dieses Schlosses hier ...«
 
-»Der Shßahßklamnmer, Herr Harst. Er hat das bereits
-eingestanden. (Er wollte zunächst versuchen, hier meine Rolle
-zu spielen, was er dann jedoch ausgegeben hat. Mit Gewalt
-solle er die Schätze der Sultane von Padagoa aus die Jacht
-bringen und glichen zu können.« — Er ergriff eine Tischglocke,
+»Der Schatzkammer, Herr Harst. Er hat das bereits
+eingestanden. Er wollte zunächst versuchen, hier meine Rolle
+zu spielen, was er dann jedoch aufgegeben hat. Mit Gewalt
+hoffte er die Schätze der Sultane von Padagoa auf die Jacht
+bringen und fliehen zu können.« — Er ergriff eine Tischglocke,
 läutete. Sofort erschien der Batta in Uniform.
 
 »Barring soll herbeigeschafft werden,« befahl der
 Sultan.
 
-Und — Barring kam ... Kam zwischen kroch Ein
-geborenen durch die andere Tür des Saales
+Und — Barring kam ... Kam zwischen zwei Eingeborenen
+durch die andere Tür des Saales ...
 
-Monokel im Auge, schlank, selbstbewußt, — mir ...
+Monokel im Auge, schlank, selbstbewußt, — nur ...
 Barring war es nicht! Ich sah es sofort, rief: »Das ist
 nicht Lionel Barring, Hoheit!«
 
@@ -2788,35 +2787,35 @@ Der Sultan stand hastig auf. »Wer sonst, Herr
 Schraut?«
 
 Da erwiderte statt meiner der Gefangene: »Ich bin
-Famos Orden, der ehemalige Reitknecht Lord Allan Gnirables,
+James Olden, der ehemalige Reitknecht Lord Allan Gnirables,
 des jetzigen Lionel Barring. Der Herr der großen
-Null ist entflohen, alle es bei dem Kampf im Salon der
+Null ist entflohen, als es bei dem Kampf im Salon der
 Jacht für uns kein Entrinnen mehr gab. Sie werden ihn
 nicht finden. Lionel Barring läßt sich den Herren bestens
 empfehlen.« — —
 
-Ich habe nur noch wenig hinzuzufügen. — die Verbrecherbande
+Ich habe nur noch wenig hinzuzufügen. — Die Verbrecherbande
 sollte zu Schiff nach dem Haupthafen der Insel,
 nach Padang, transportiert werden. Unterwegs überwältigten
-die verwegenen Gesellen die Scbisisvesaßung und
-entkamen. Sieben den ihnen waren jedoch bei dem Kampfe
+die verwegenen Gesellen die Schiffsbesatzung und
+entkamen. Sieben von ihnen waren jedoch bei dem Kampfe
 auf Dem Schoner des Sultans gefallen.
 
-Wir beide, das Ehepaar graute und ihre Freunde
+Wir beide, das Ehepaar Krause und ihre Freunde
 waren noch vierzehn Tage Gäste des weißen Sultans von
 Padagoa, des merkwürdigsten Mannes, den wir je kennen
-gelernt haben. Das Geheimnis seines und seines Bruder?
+gelernt haben. Das Geheimnis seines und seines Bruders
 Doppellebens haben wir seinem Wunsche gemäß bis nach
 seinem Tode gewahrt. Er starb am 1. Februar 1924.
-Seine Nachfolgerin wahrte entgegen den bisherigen Gebräuchen
+Seine Nachfolgerin wurde entgegen den bisherigen Gebräuchen
 des Landes seine Nichte, die jetzt als Sultana
-Dann Malern Herrscherin der Battas ist. Ihr Bild wurde
-letztens in zahlreichen niederländischen Zeitfihriften bete
-össenilicht. —
+Dara Mahrla Herrscherin der Battas ist. Ihr Bild wurde
+letztens in zahlreichen niederländischen Zeitschriften
+veröffentlicht. —
 
-Lionel Barring blieb zwei Monate wert unten.
-Dann ereignete sich das, was ich im folgenden Bande Blick
-Adern will, in ...
+Lionel Barring blieb zwei Monate verschwunden.
+Dann ereignete sich das, was ich im folgenden Bande schildern
+will, in ...
 
-Das Geheimnis des Bosporus,
+__Das Geheimnis des Bosporus.__
 
