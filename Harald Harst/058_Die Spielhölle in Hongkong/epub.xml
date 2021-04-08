@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">f3cea8b6-988f-11eb-b1e8-57fe7614a47b</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Spielhölle in Hongkong</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">58</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Spielhölle in Hongkong.
+
+Nach einem glutheißen, windstillen Tage brachte der Abend eine erquickende Seebrise, die über das dem Hafen von Pernambuco vorgelagerte lange Korallenriff hinwegstrich und die Wasser des Innenhafens sanft kräuselte.
+
+Wir saßen jetzt zu dreien auf dem Achterdeck in bequemen Korbsesseln: Harst, Kapitän Banfy und ich, Haralds Privatsekretär und Freund.
+
+Soeben hatte ein Boot einen Brief für Harst gebracht.
+
+Er hielt den Brief, nachdem er ihn überflogen hatte, in der Hand und lächelte etwas.
+
+Dann sagte er: »Hier schreibt mir eine Sennora Maria Travesta, daß sie mir etwas mitteilen könnte, was mich als Liebhaberdetektiv wohl interessieren dürfte. Es heißt hier wörtlich:
+
+»Ich bin eine alte Frau, die frei von Aberglauben ist. Und doch – wer in meinem Hause ein paar Tage wohnt, kann wohl abergläubisch werden. Die Dienstboten halten es bei mir nie lange aus trotz glänzender Bezahlung. Nur meine Köchin Josefa habe ich nun schon 23 Jahre. – Ich habe heute früh in der Zeitung alles über den Schatz des Grafen Omagastra, den Sie nun gefunden haben, mit größter Spannung gelesen, auch von jenem Hochstapler Vincent Saalborg, mit dem Sie auf eine Million Dollar gewettet haben, daß Sie ihn unschädlich machen werden. Sie sollen reich sein, Sennor Harst. Ich bin es nicht. Ich kann Ihnen daher kein hohes Honorar für Ihre Bemühungen versprechen. Aber ich möchte doch wieder einmal eine Nacht in Ruhe schlafen. Sollten Sie heute abend Zeit haben, so sind Sie mir willkommen. – Maria Travesta.««
+
+Die Höllendschunke.
+
+Nach dem Diner bei Lord Bickport kehrten wir gegen neun Uhr in das Hotel Miramare zurück. Es war ein köstlicher Abend. Wir setzten uns auf den zu unserem Wohnsalon gehörigen Balkon. Harald blieb still und verstimmt. Dann erklärte er unvermittelt:
+
+»Ich komme mir zum ersten Mal in meinem Leben einem Verbrecher gegenüber machtlos vor. Denn – ob Gentleman-Gauner oder nicht – Saalborg ist ein Verbrecher. Wohl der eigenartigste, den die Erde je getragen hat –«
+
+In der Balkontür erschien ein chinesischer Kellner.
+
+»Master Harst, es ist eine blonde Miß draußen und bittet vorgelassen zu werden,« bestellte der Gelbe. »Sie sagt, Master Harst hätte gestern im Drywater-Salon mit ihr gesprochen.«
+
+Harald nickte. »Es wird das Barmädchen sein. Gut – führe sie herein.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (058) Die Spielhölle in Hongkong.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
