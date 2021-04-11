@@ -16,7 +16,7 @@ die Umgegend Berlins nicht kenne. –
 
 Es war acht Uhr abends. Wir genossen gerade als Nachtisch eine von Frau Harsts
 berühmten Mehlspeisen, als die treue, langjährige Köchin Herrn
-Verlagsbuchhandler Max Schultze meldete – in sehr dringender Angelegenheit.
+Verlagsbuchhändler Max Schultze meldete – in sehr dringender Angelegenheit.
 
 Natürlich dringend! Andere Leute kamen ja überhaupt kaum zu uns. Nur solche,
 die irgendwo der Schuh drückte und schleunigst dieses Unangenehme oder
