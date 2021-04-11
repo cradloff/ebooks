@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">a35db300-784f-11eb-ba78-e7b2a796a77d</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Afghan-Teppich</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">42</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Afghan-Teppich.
+
+Wir befanden uns jetzt wieder auf der Rückreise nach Berlin. Nur drei Tage hatten wir in der berühmten Kanalstadt Suez die Gastfreundschaft Hauptmann Mac Leans vom Kamelreiterkorps und seiner reizenden Gattin in Anspruch genommen.  Dann entdeckte Harald in einer bereits vier Wochen alten deutschen Zeitung, und zwar im Berliner Anzeiger, einen längeren Artikel über einen Teppichdiebstahl, der ihn sofort veranlaßte, bis Genua Plätze auf einem Dampfer zu belegen.
+
+Hauptmann Mac Lean, seine Frau und ich hatten den Artikel gleichfalls gelesen.  Wir drei begriffen nicht, was Harst an diesem gewöhnlichen Diebstahl so Besonderes fand. Auf unsere Fragen erwiderte er lediglich: »Ich vermute dahinter ein Verbrechen ganz seltener Art. Gewiß, ich kann mich irren.  Jedenfalls will ich den Fall nachprüfen. Irre ich mich wirklich, so wird sich meine Mutter über das Wiedersehen fraglos mehr freuen als andere Leute in Berlin, denen ich sodann einige Aufmerksamkeit schenken will.«
+
+Der Straßenräuber von Goa.
+
+Zu Beginn unseres vorigen Abenteuers habe ich eine Zeitungsnotiz erwähnt, die mit dem Falle des Afghan-Teppichs direkt nichts zu tun hatte, auf die Harald Harst mich aber aus einem anderen Grunde aufmerksam machte. Sie war überschrieben:
+
+Wieder ein Überfall durch den geheimnisvollen Straßenräuber.
+
+Aus verschiedenen Gründen habe ich nun in der folgenden Schilderung die Örtlichkeit unkenntlich gemacht. Ich bitte mir also nicht vorzuwerfen, daß ich die Umgegend Berlins nicht kenne. –
+
+Es war acht Uhr abends. Wir genossen gerade als Nachtisch eine von Frau Harsts berühmten Mehlspeisen, als die treue, langjährige Köchin Herrn Verlagsbuchhändler Max Schultze meldete – in sehr dringender Angelegenheit.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (042) Der Afghan-Teppich.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
