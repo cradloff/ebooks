@@ -38,7 +38,7 @@ Harst wurde in das Krankenhaus in Mirzapur geschafft,
 wo er fünf Tage in schwerem Wundfieber lag. Nach
 vierzehn Tagen war er wieder so weit hergestellt, daß er
 aus dem Krankenhause an Bord unserer Jacht Atlanta zurückkehren
-konnte, wo ihn Kapitän Bansy und unsere brave
+konnte, wo ihn Kapitän Banfy und unsere brave
 Besatzung einen festlichen Empfang bereitete.
 
 Da der Arzt mir streng anbefohlen hatte, Harst jede
@@ -196,7 +196,7 @@ Haralds Rückkehr auf die Atlanta über.
 Die weiße Motorjacht lag in einer Bucht des Ganges
 westlich der Stadt vor Anker.
 
-Harst, Kapitän Bansy und ich saßen gegen neun Uhr
+Harst, Kapitän Banfy und ich saßen gegen neun Uhr
 plaudernd im Salon der Jacht. Harald hatte mich soeben
 gefragt, ob Vincent Saalborg sich inzwischen nicht irgendwie
 gemeldet hätte. Ich wollte nicht lügen und reichte ihm
@@ -480,7 +480,7 @@ sich mit herzlichen Dankesworten. Man merkte ihm
 an, daß ihm jetzt leichter ums Herz war. Er hatte noch erklärt,
 er würde morgen mittag abreisen.
 
-Als wir drei nun allein waren, sagte Kapitän Bansy
+Als wir drei nun allein waren, sagte Kapitän Banfy
 kopfschüttelnd: »Es ist einfach unglaublich, was alles in
 der Welt passiert! — Wie denken Sie über diese Geschichte,
 Master Harst?«
@@ -497,11 +497,11 @@ Trümmern der alten Residenz der Mogulkaiser erbaut —
 kennen gelernt.«
 
 »Auf diese Erklärung bin ich sehr gespannt,« meinte
-Bansy bittend. »Reden Sie, Harst! Sie werden Schraut
+Banfy bittend. »Reden Sie, Harst! Sie werden Schraut
 und mich doch nicht auf die Folter spannen, besonders mich
 nicht, der nicht mit nach Lahore reisen wird.«
 
-»Lieber Bansy, vielleicht weiß Schraut auch schon Bescheid.
+»Lieber Banfy, vielleicht weiß Schraut auch schon Bescheid.
 — Na, mein Alter,« wandte er sich an mich, »wie
 steht’s damit?«
 
@@ -511,7 +511,7 @@ erwiederte ich ehrlich.
 <@pagebreak/>
 »So?!« sagte Harald sehr gedehnt.
 
-»Hendrik ist doch der Buschklepper!« platzte Bansy heraus.
+»Hendrik ist doch der Buschklepper!« platzte Banfy heraus.
 »Weshalb treibt er sich denn jede Nacht —«
 
 Harst lächelte fein und nahm eine frische Zigarette, unterbrach
@@ -651,7 +651,7 @@ auf. Ihr Sohn wird in kurzem wieder frei sein.«
 Kaum hatte Baalker die Atlanta verlassen, als wir in
 großer Eile Toilette machten, — das heißt, wir verwandelten
 uns in zwei ältere Herren, die ganz wie harmlose
-Globetrotter aussahen. Bansy erhielt Befehl, mit der Atlanta
+Globetrotter aussahen. Banfy erhielt Befehl, mit der Atlanta
 den Ganges auswärts bis Hartwar zu fahren und uns
 dort zu erwarten.
 

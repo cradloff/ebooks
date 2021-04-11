@@ -19,7 +19,7 @@ zurückgelassen, und wir wollten die zahmen Bestien
 sowohl füttern als uns auch das Gebäude einmal in Ruhe
 ansehen.
 
-Ellen, Helena, Bansy und wir beide verließen die
+Ellen, Helena, Banfy und wir beide verließen die
 Atlanta um drei Uhr. Eine Stunde später näherten
 wir uns dem Hause.
 
@@ -58,9 +58,9 @@ Dann tauchte Helena Fabrio neben mir auf. Sie
 war eine recht energische junge Dame.
 
 »Master Harst schickt mich,« sagte sie schnell und entsicherte
-den Revolver, den Kapitän Bansy ihr auf ihre
+den Revolver, den Kapitän Banfy ihr auf ihre
 Bitte hin für diese Expedition geliehen hatte. »Harst,
-Bansy und Ellen wollen das Haus durchsuchen.« — Sie
+Banfy und Ellen wollen das Haus durchsuchen.« — Sie
 hatte sich umgeschaut und fügte nun hastig hinzu: »Da
 — der Leopardenzwinger ist leer. Sollte der Fremde die
 Tiere herausgelassen haben?!«
@@ -100,7 +100,7 @@ Schüsse ließ uns zusammenfahren.
 »Mein Gott. Was bedeutet das nun wieder!« seufzte
 Ellen.
 
-Dann Bansys Stimme von der Haustür her:
+Dann Banfys Stimme von der Haustür her:
 
 »Harst hat das Türschloß durch Kugeln zerstört.«
 Er kam näher. »Master Schraut, Sie sollen mit Harst
@@ -108,7 +108,7 @@ nun das Haus durchsuchen. Miß Helena mit ihrem Revolver
 genügt hier als Wache. Ich werde vorn aufpassen,
 während Sie beide das Gebäude durchforschen.«
 
-Bansy und ich eilten zu Harald. Er stand in der
+Banfy und ich eilten zu Harald. Er stand in der
 geöffneten Tür.
 
 »Komm’, Schraut,« meinte er. »Dies Geschäft ist
@@ -166,7 +166,7 @@ waren es also etwa zwei Meter.
 
 Ich eilte wieder nach vorn. 
 
-»Bansy, die Mädchen sind verschwunden!« keuchte ich.
+»Banfy, die Mädchen sind verschwunden!« keuchte ich.
 
 »Verdammt! Eine nette Geschichte!«
 
@@ -253,7 +253,7 @@ Harald schloß die Geheimtüren wieder.
 »Es waren im ganzen drei Leute,« sagte er, als
 er auch den Schrank zudrückte. »Ich habe ihre Spuren
 schon gefunden. — Wir müssen jetzt die Frau am Kronleuchter
-befreien. Bansy sollte im Anbau nach irgend
+befreien. Banfy sollte im Anbau nach irgend
 einem Instrument zum Aufbrechen der Tür suchen.«
 
 Der Kapitän der Atlanta erschien auch gleich darauf
@@ -278,21 +278,21 @@ Jetzt kletterte auch das Weib, das vor den Tieren
 <@pagebreak/>
 auf dem Kronleuchter Schutz gesucht hatte, eilends herab,
 sprang elastisch vom Tisch und stand mit verlegenem
-Lächeln vor Bansy und mir, denn Harald war noch
+Lächeln vor Banfy und mir, denn Harald war noch
 nicht wieder zurück. 
 
 Sie war nicht mehr ganz jung, hatte ein mageres,
 gelblich-braunes Gesicht und trug die Tracht der Weiber
 der Azorenbewohner.
 
-»Wer sind Sie?« fragte Bansy freundlich und lüftete
+»Wer sind Sie?« fragte Banfy freundlich und lüftete
 etwas seine Mütze.
 
 Das Weib schüttelte den Kopf und lächelte wieder.
 Dieses Lächeln und der stumpfe, leere Ausdruck der
 Augen genügte mir.
 
-»Eine Schwachsinnige,« flüsterte ich Bansy zu.
+»Eine Schwachsinnige,« flüsterte ich Banfy zu.
 »Armes Weib!« murmelte er.
 
 Dann betrat Harald das Zimmer.
@@ -303,7 +303,7 @@ Dann betrat Harald das Zimmer.
 Auch er fragte sie dieses und jenes. Sie behielt ihr
 blödes Lächeln bei, spielte mit ihrer Halskette und schwieg.
 
-»Bansy, bleiben Sie bei ihr,« sagte Harald. »Es
+»Banfy, bleiben Sie bei ihr,« sagte Harald. »Es
 muß bald dunkel werden. Ich möchte mit Schraut die
 Spuren der drei Kerle noch möglichst weit verfolgen.«
 
@@ -539,12 +539,12 @@ Wir näherten uns dem alten, düsteren Gebäude.
 In dem Leoparden-Zimmer, wo die Schwachsinnige an
 der Krone sich festgeklammert gehabt hatte, brannte Licht.
 
-Kapitän Bansy hatte beide Türen von innen verrammelt.
+Kapitän Banfy hatte beide Türen von innen verrammelt.
 Auch die Hintertür, wie wir nachher sahen.
 Auf unser Klopfen räumte er die Tische weg, die er vor
 der Vordertür als Barrikade aufgetürmt hatte.
 
-»Sind Sie irgendwie belästigt worden, Bansy?«
+»Sind Sie irgendwie belästigt worden, Banfy?«
 fragte Harald sofort.
 
 <@pagebreak/>
@@ -572,7 +572,7 @@ Haus, Master Harst —«
 Wir halfen ihm, die Tische wieder vor die Tür zu
 schieben, gingen dann in das Eckzimmer, wo auf einem
 Feldbett die Schwachsinnige fest zu schlafen schien. Die
-Fenstervorhänge waren zugezogen. Aber Bansy hatte
+Fenstervorhänge waren zugezogen. Aber Banfy hatte
 aus Vorsicht den Tisch und einen alten Sessel in die Ecke
 neben das Fenster gestellt, da er Schüsse von draußen
 fürchtete.
@@ -611,19 +611,19 @@ zweite Nacht bleibe ich nicht hier, wenigstens nicht allein
 in Gesellschaft dieses Weibes da, das dauernd kicherte und
 sich das Haar in Zöpfe flocht, bevor es endlich einschlief.«
 
-»Rauchen wir uns eine Zigarette an, Bansy. Geben
+»Rauchen wir uns eine Zigarette an, Banfy. Geben
 Sie mir eine aus Ihrem Etui,« unterbrach Harst den
 Kapitän. »Mein Vorrat dürfte nicht mehr schmecken.
 Er war zu lange schwefligen Dämpfen ausgesetzt —«
 
-»Dämpfen?« meinte Bansy erstaunt.
+»Dämpfen?« meinte Banfy erstaunt.
 
 »Ja — diese Leute haben sich mit Schraut und mir
 einen Scherz gemacht, der ihnen teuer zu stehen kommen
 soll.« Er erzählte kurz unsere Erlebnisse, fügte hinzu:
 
 »Sie haben sich den Kopf darüber zerbrochen, wer
-diese Leute sind, Bansy. Es gibt da nur zwei Möglichkeiten.
+diese Leute sind, Banfy. Es gibt da nur zwei Möglichkeiten.
 Die erste ist die, daß Jeffersons Bande hier auf
 der Insel heimliche Verbündete hat, die wußten, was
 die Mädchen wert sind und die nun vielleicht Geld für
@@ -636,7 +636,7 @@ den Kreis der Mitwisser seiner Millionenspekulation bis
 auf Bewohner der Picoinsel zu erweitern. Nein, das
 hätte so gar nicht Jeffersons sonstiger Schlauheit entsprochen.«
 
-»Da haben Sie recht,« nickte Bansy: »Und die zweite
+»Da haben Sie recht,« nickte Banfy: »Und die zweite
 Möglichkeit, Master Harst?«
 
 »Hm — Schraut mag sie Ihnen mitteilen. Er wird
@@ -654,7 +654,7 @@ leider unsere Kabine nicht verriegelt hatten, — diese
 Hand gehört keinem unserer Matrosen.«
 
 »Stimmt — das ist ausgeschlossen!« bekräftigte
-Bansy. »Ich kenne meine Leute seit Jahren. Außerdem
+Banfy. »Ich kenne meine Leute seit Jahren. Außerdem
 — wie sollte ein Matrose der Atlanta hier so schnell
 Verbündete gefunden haben?!«
 
@@ -671,7 +671,7 @@ in der Annahme gekommen, daß das Haus leer wäre.
 — Was wollten sie hier noch, müssen wir uns fragen? —
 Und — da könnte man den Gesang in Betracht ziehen.«
 
-»Inwiefern?« warf Bansy ein.
+»Inwiefern?« warf Banfy ein.
 
 »Weil hier im Hause vielleicht noch ein dritter Gefangener
 weilen mag.«
@@ -690,7 +690,7 @@ als wir ahnen, noch ein viertes Opfer Jefferson in die
 Hände gespielt hat. Das Haus hat keinerlei Kellerräume.
 Die Dielen liegen fast auf dem Gestein auf.
 Trotzdem mag es hier unterirdische Räumlichkeiten geben.
-Gerade weil Sie, Bansy den Gesang so undeutlich
+Gerade weil Sie, Banfy den Gesang so undeutlich
 vernahmen, werden die Töne von unten heraufgedrungen
 sein. Morgen früh werden wir uns über diesen Punkt
 Klarheit verschaffen.«
@@ -698,7 +698,7 @@ Klarheit verschaffen.«
 Er gähnte laut. »Entschuldigung — aber ich bin
 hundemüde. Wo werden wir schlafen, Schraut? Ich
 denke, es genügt, wenn wir uns zwei Bettmatratzen und
-ein paar Decken hier ins Zimmer bringen. Bansy hat
+ein paar Decken hier ins Zimmer bringen. Banfy hat
 das Sofa für sich. Dann bleiben wir alle zusammen.«
 
 Er stand auf. Wir beide gingen in den Flur, in
@@ -715,14 +715,14 @@ etwas fragen, aber er winkte und sagte leise:
 Schwindel!«
 
 Wir rückten den Schrank noch dichter vor das Fenster.
-Bansy meinte, einer von uns müßte doch wohl
+Banfy meinte, einer von uns müßte doch wohl
 wachen.
 
 »Nicht nötig,« erklärte Harald. »Wir stellen den
 Tisch vor die Tür. Es wird keiner der Schufte sich an
 uns heranwagen.«
 
-Bansy schnarchte sehr bald. Die Schwachsinnige war
+Banfy schnarchte sehr bald. Die Schwachsinnige war
 <@pagebreak/>
 eine Weile wach gewesen, hatte sich aufgerichtet gehabt
 und leise gekichert. Auch sie schlief wieder. Und auch
@@ -736,14 +736,14 @@ Halb unbewußt tastete ich nach der Taschenlampe,
 die ich neben mich gelegt hatte.
 
 Da blitzte schon Haralds Lampe auf. Gleichzeitig
-brüllte Bansy:
+brüllte Banfy:
 
 »Verdammt! Man hat mir die Hände gefesselt!«
 
 »Und bei mir dasselbe versucht,« sagte Harst und
 beleuchtete die Gestalt der Schwachsinnigen, die neben
 seiner Matratze regungslos lag. »Schraut, schneide
-Bansy die Stricke durch. Ich habe gewußt, daß sich etwas
+Banfy die Stricke durch. Ich habe gewußt, daß sich etwas
 ähnliches ereignen würde. Das Weib ist eine Spionin,
 weiter nichts. Die Schufte ließen sie hier absichtlich zurück.
 Ich wurde argwöhnisch, als ihre tiefen Atemzüge aufhörten,
@@ -768,7 +768,7 @@ Das Weib saß mit gesenktem Kopfe da. Sie wagte
 nicht, die Augen zu erheben. Sie hatte Angst. —
 
 <@pagebreak/>
-Es wurde draußen heller und heller. Bansy blieb
+Es wurde draußen heller und heller. Banfy blieb
 bei der Gefangenen.
 
 Wir schlossen die Hintertüren auf, hielten die Pistolen
@@ -878,11 +878,11 @@ wollten, um unsere Nachforschungen nach den beiden geraubten
 Mädchen wieder zu beginnen, trafen der Steuermann
 Morris und ein Matrose der Atlanta ein, die aus
 Sorge um uns sich bis hierher mit Hilfe unserer Spuren
-durchgefunden hatten. Bansy war froh, daß er nun in
+durchgefunden hatten. Banfy war froh, daß er nun in
 dem unheimlichen Hause Gesellschaft hatte.
 
 Harald ordnete an, der Greis und das Weib sollten
-nach der Jacht geschafft werden. Dann sollten Bansy und
+nach der Jacht geschafft werden. Dann sollten Banfy und
 Morris hierher zurückkehren und alle Schränke und Gelasse
 durchsuchen. Jeden Fetzen Papier, jeden Gegenstand
 von Wichtigkeit, vielleicht Photographien, Bücher
@@ -939,7 +939,7 @@ Sie hat —«
 
 »Später — später!« Harald begann zu laufen.
 
-»Bansy — sofort in See gehen!« brüllte er dem Kapitän
+»Banfy — sofort in See gehen!« brüllte er dem Kapitän
 zu, als wir kaum an Bord waren. »Nichts fragen
 — nur fort von hier! Jede Sekunde ist kostbar. — Wo
 steckt unser Lotse?«
@@ -963,12 +963,12 @@ besitzen, Miguel.«
 »Ganz recht, Sennor, — einen uralten, kleinen Raddampfer,
 der aber für den Walfang genügt.«
 
-Kapitän Bansy rief von dem Achterdeck herüber:
+Kapitän Banfy rief von dem Achterdeck herüber:
 »Ich lasse die Trossen losmachen, Master Harst —«
 
 Gleich darauf sprangen die Motoren an.
 
-Wir standen mit Miguel und Bansy am Steuer.
+Wir standen mit Miguel und Banfy am Steuer.
 
 »Die Atlanta muß ihr Bestes hergeben,« sagte Harst.
 »Ich fürchte, daß die Leute die beiden Mädchen aus
@@ -978,7 +978,7 @@ und wir den Greis gefunden haben. Das entflohene
 Weib wird ihnen alles mitteilen, und sie werden es nicht
 wagen, Ellen und Helena auf der Insel zu belassen.«
 
-Bansy nickte. »Uebrigens — dem alten Manne geht
+Banfy nickte. »Uebrigens — dem alten Manne geht
 es besser. Er spricht jetzt ganz verständig. Nur — er
 besinnt sich auf nichts, was seine Vergangenheit betrifft.
 <@pagebreak/>
@@ -986,7 +986,7 @@ Er behauptet, er hätte sein ganzes Leben in dem Hause
 in der Wildnis zugebracht.«
 
 »Haben Sie irgend etwas von Papieren gefunden,
-Bansy?« fragte Harald.
+Banfy?« fragte Harald.
 
 »Ja — in einem geheimen Wandfach, — so eine Art
 Tagebuch, dazu Schiffspapiere, ein paar nautische Instrumente
@@ -997,7 +997,7 @@ Wir blieben an Deck. Die Atlanta hatte inzwischen die
 Bucht bereits verlassen und fuhr die Küste entlang nach
 Westen zu.
 
-Bansy und der Lotse Miguel standen mit Fernrohren
+Banfy und der Lotse Miguel standen mit Fernrohren
 auf dem Vorderdeck an der Reling.
 
 »Wir sind in einer Viertelstunde am Ziel, Sennor
@@ -1010,12 +1010,12 @@ zu. Von der See aus sind sie nicht zu bemerken.«
 Das Meer war bis auf ein paar Fischerboote weit
 im Süden leer.
 
-»Bansy, lassen Sie mehr vom Lande abhalten,«
+»Banfy, lassen Sie mehr vom Lande abhalten,«
 sagte Harst. »Das Vorgebirge versperrt uns die Aussicht.
 Ich sehe da über den kahlen Felsen etwas wie
 Rauchschleier in der Luft.«
 
-Bansy rief dem Steuermann einen Befehl zu, und
+Banfy rief dem Steuermann einen Befehl zu, und
 die Atlanta änderte ihren Kurs.
 
 »Sie haben recht, Sennor Harst,« meinte Miguel
@@ -1034,13 +1034,13 @@ Und »Ein Dampfer!« brüllten die Matrosen.
 Ja — dort in der Ferne suchte der kleine Raddampfer
 mit qualmendem Schlote das Weite.
 
-»Acht Seemeilen Vorsprung!« rief Bansy. »Verdammt
+»Acht Seemeilen Vorsprung!« rief Banfy. »Verdammt
 — das will eingeholt werden.«
 
 »Der alte Kasten läuft kaum sieben Knoten,« meinte
 Miguel. »In einer Stunde haben wir ihn —«
 
-»Jungens, raus mit den Segeln!« befahl Bansy
+»Jungens, raus mit den Segeln!« befahl Banfy
 den Matrosen. »Der Wind ist günstig. Mit der Leinwand
 schaffen wir noch zwei Knoten mehr.«
 
@@ -1137,7 +1137,7 @@ bewachen.
 Die Atlanta machte kehrt und jagte wieder dem
 Vorgebirge zu.
 
-»Wohin geht’s, Master Harst?« fragte Bansy neugierig.
+»Wohin geht’s, Master Harst?« fragte Banfy neugierig.
 
 »Hinter dem Kutter drein, der so harmlos sein
 Schleppnetz zog.«
@@ -1146,13 +1146,13 @@ Der Lotse Miguel pfiff durch die Zähne. »Sennor
 Harst, das mag stimmen! Der Dampfer hat uns nur
 weglocken wollen.« 
 
-Bansy hatte das Fernrohr an den Augen. »Der
+Banfy hatte das Fernrohr an den Augen. »Der
 Kutter ist verschwunden!« rief er. »Wenn die Leute darauf
 wirklich gefischt hätten, könnte er noch nicht außer
 Sicht sein!« —
 
 Als die Atlanta dann in einer Höhe mit dem Vorgebirge
-war, erspähte Bansy weit südöstlich ein Segel. 
+war, erspähte Banfy weit südöstlich ein Segel. 
 
 »Der Kutter!« brüllte er. »Das Großsegel war
 oben geflickt. Der helle Fleck ist gerade noch zu erkennen.
@@ -1184,7 +1184,7 @@ Plötzlich schnellte das Weib hoch.
 
 »Benito, die Jacht!« schrillte ihre entsetzte Stimme.
 
-Unsere Atlanta war schon neben dem Kutter. Bansy
+Unsere Atlanta war schon neben dem Kutter. Banfy
 und der Lotse sprangen hinüber und packten die beiden.
 
 Wir, Harald und ich, eilten die Treppe zu der kleinen
@@ -1202,13 +1202,13 @@ mich nicht erhebe. Ich habe mir den Arm gebrochen.«
 hinaus.
 
 Der Azore hatte sich aufrecht gesetzt. Dann hörte ich
-oben Kapitän Bansy freudig rufen:
+oben Kapitän Banfy freudig rufen:
 
 »Oh — unsere Schützlinge! Die Schufte hatten sie
 also da vorn eingesperrt!«
 
 Schritte kamen die Treppe hinab. Es waren Harst
-und die beiden Mädchen; hinter ihnen Bansy mit dem
+und die beiden Mädchen; hinter ihnen Banfy mit dem
 Weibe und dem jungen Burschen, denen man die Hände
 zusammengebunden hatte. Auch Miguel erschien und
 blieb in der Tür stehen.

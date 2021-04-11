@@ -3,7 +3,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Samuel Casprill.</h3>
 
-Nachdem Bansy uns mit dem Beiboot zu der Eisenbahnbrücke
+Nachdem Banfy uns mit dem Beiboot zu der Eisenbahnbrücke
 gelandet hatte, begaben wir uns nach dem
 Bahnhof und setzten uns in einen Winkel der offenen
 Wartehalle.
@@ -267,7 +267,7 @@ allerdings dabei gegen das Uebel des Stotterns ankämpfend:
 
 »Master Harst, Sie gestatten, daß ich mich vorstelle:
 <@pagebreak/>
-mein Name ist Samuel Casprill. Kapitän Bansy dürfte
+mein Name ist Samuel Casprill. Kapitän Banfy dürfte
 Sie auf mein Eintreffen vorbereitet haben. Er hat ja an
 mich nach Bombay depeschiert, und meine Frau hat zurückdepeschiert,
 daß ich heute mittag mich auf der Atlanta melden
@@ -582,14 +582,14 @@ den Diebstahl tatsächlich durch den — mir gänzlich unbekannten
 — Detektiv Casprill hatte untersuchen lassen, gehörig
 aus, fand die Briefumschlagschnitzel im Müllkasten,
 kehrte nach Benares zurück und kam gerade noch zur rechten
-Zeit, um Kapitän Bansy zu beobachten, wie er die Depesche
+Zeit, um Kapitän Banfy zu beobachten, wie er die Depesche
 an Casprill aufgab. Als Matrose der Jacht verhinderte
 ich drei Minuten später ihre Absendung, verlangte
 sie zurück und änderte den Text, indem ich Antwort nach
-Kalkutta an Master Bansy, Hotel Westminster, verlangte.
+Kalkutta an Master Banfy, Hotel Westminster, verlangte.
 — Sie verstehen: der echte Casprill sollte in Bombay bleiben,
 denn in seine Antwortdepesche mußte ja als unbestellbar
-an ihn zurückgehen. Ich fälschte die Antwort, die Bansy
+an ihn zurückgehen. Ich fälschte die Antwort, die Banfy
 erhielt, spielte selbst den Telegraphenboten und all das nur
 zu dem Zweck, um in Ihnen allmählich denselben Verdacht
 zu wecken, den ich hegte, nachdem Braxler mir als Harst
@@ -705,7 +705,7 @@ besten aufgehoben.«
 Honoria Verdacht geschöpft?«
 
 »Durch die Puderbüchse, mein Alter. Besinne Dich.
-Bansy zeigte sie uns im Salon der Atlanta. Und da habe
+Banfy zeigte sie uns im Salon der Atlanta. Und da habe
 ich geäußert: »Das Schwierige ist, die erste Dummheit zu
 entdecken. Manchmal hilft da ein Zufall«. — Diese Sätze
 bezogen sich auf Honoria, die fidele, ulkige Honoria. Sie
@@ -736,7 +736,7 @@ stellen uns als aus dem Grabe auferstanden vor und teilen
 dem Redakteur über unsere Abenteuer genau so viel mit
 wie Drybane, — nämlich recht wenig, lassen Saalborg ganz
 aus dem Spiel und ebenso Honoria Billham, der wir höchstens
-noch ein Loblied singen, weil sie Bansy 50 Pfund
+noch ein Loblied singen, weil sie Banfy 50 Pfund
 für einen Detektiv spendete. — So — da ist ja noch dasselbe
 Boot. Rudern wir nach der Atlanta und werden
 wir wieder Harst und Schraut.« —
@@ -781,14 +781,14 @@ auf einen Strome kennen, der durch noch wenig zivilisierte
 Gebiete fließt.
 
 Wir saßen auf dem Achterdeck um den Tisch herum:
-Harst, Bansy, Morris, der Steuermann, und ich.
+Harst, Banfy, Morris, der Steuermann, und ich.
 
 Harald bat Morris, dieser solle seinen Revolver holen.
 Dann rief er einem unserer Matrosen zu, ihm zwei leere
 Schachteln von Stiefelwichse und ein Stück Brett zu
 bringen.
 
-»Wozu das?!« meinte Bansy. »Wollen Sie nach der
+»Wozu das?!« meinte Banfy. »Wollen Sie nach der
 Scheibe schießen, lieber Harst?«
 
 <@pagebreak/>
@@ -1229,7 +1229,7 @@ Mann darin —«
 Das Boot verschwand im Baumschatten des anderen
 Ufers.
 
-Wir schlichen an Deck, hörten sprechen — Bansys
+Wir schlichen an Deck, hörten sprechen — Banfys
 Stimme, der gerade sagte:
 
 »Los, Hull, — her mit der Laterne! Saalborg hat uns
@@ -1239,7 +1239,7 @@ Zehn Minuten später verließ die Atlanta ihren Liegeplatz.
 
 Die ganze Besatzung der Jacht war genau so gefesselt
 gewesen wie wir. Dann war Saalborg erschienen und
-hatte Bansy befreit, hatte auch die übrigen losgebunden
+hatte Banfy befreit, hatte auch die übrigen losgebunden
 und ihnen mitgeteilt, wo wir eingesperrt worden waren.
 — Von den Feinden war keiner mehr an Bord gewesen. —
 
