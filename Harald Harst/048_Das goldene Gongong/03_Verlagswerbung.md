@@ -2,13 +2,13 @@ Wir gestatten uns, alle Freunde der Harald Harst-Erzählungen darauf
 hinzuweisen, daß weitere Harst-Abenteuer in Kabels Kriminalbücher erschienen
 sind. Sie tragen die Titel:
 
-<div style="font-size: xx-large; text-align: center;">
+<div style="font-size: x-large; text-align: center;">
 Harst-Bände aus der Serie<br/>
 »Kabels Kriminalbücher«</div>
 
 <@spacer/>
 
-<table style="table-layout:fixed;">
+<table style="vertical-align: top;">
 <tr><td>Band</td><td>13:</td><td>Der Klub der Toten.</td></tr>
 <tr><td>&nbsp;&nbsp;"</td><td>19:</td><td>Die roten Briefe.</td></tr>
 <tr><td>&nbsp;&nbsp;"</td><td>22:</td><td>Die eiserne Frau.</td></tr>

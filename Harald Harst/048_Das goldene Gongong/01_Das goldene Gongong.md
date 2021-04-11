@@ -408,7 +408,7 @@ Der Brahmane flüsterte noch leiser:
 
 »Vor der Seele der toten Stadt, Sahib –«
 
-Auch ich hatte mich jetzt unwillkürlich vorgebeugt. war da ein Etwas in dem Ton
+Auch ich hatte mich jetzt unwillkürlich vorgebeugt. Es war da ein Etwas in dem Ton
 und dem Verhalten des Greises, das mir einen Eiseshauch über den Rücken trieb.
 
 Harst formte wieder Rauchringe.
@@ -478,7 +478,7 @@ Mitternacht in die Ruinen schleichen. Ich muß diese Geheimnisse aufklären – 
 jeden Preis.«
 
 »Sahib, ich warne Dich!« sagte der Alte hastig. »Professor Tompson hat es
-bitten büßen müssen, daß er immer wieder in den Trümmern umherkletterte.«
+bitter büßen müssen, daß er immer wieder in den Trümmern umherkletterte.«
 
 Harald lächelte. »Diesmal werden andere bitter büßen, Mokri. Mein Freund und
 ich haben schon andere Dinge erlebt als dies. – Bringe uns die Anzüge und auch
@@ -490,7 +490,7 @@ Harst drehte sich halb um, so daß er mich voll ansehen konnte.
 
 »Na – was sagst Du zu alledem?!«
 
-Ich sagte gar nichts. Ich hätte die Brahmanen Warnung beherzigt und wäre die
+Ich sagte gar nichts. Ich hätte des Brahmanen Warnung beherzigt und wäre die
 Nacht über hier in der Hütte geblieben.
 
 Harald flüsterte jetzt: »Mokri weiß mehr, als er zugibt. Er muß ganz besondere
@@ -1040,7 +1040,7 @@ Harst schritt auf das Gongong zu.
 
 Wir standen dann neben dem kostbaren Tonwerkzeug, dessen Rand mit erhabenen
 Figuren geschmückt war. Es hing in goldenen, kurzen Ketten an dem Dreifuß.
-Daneben lag aus einem Marmorblock der Klöppel.
+Daneben lag auf einem Marmorblock der Klöppel.
 
 »Eine wundervolle Goldschmiedearbeit!« sagte Harst scheinbar begeistert, beugte
 sich tiefer und schaute den Rand des Tellers an. Er hatte mir vorher einen
@@ -1135,7 +1135,7 @@ auf einem Marmorpostament stand, ein wütender Aufschrei erfolgte. Dann flog
 irgend etwas gegen das Gong. Ein heller Ton erklang: ein langer, gefiederter
 Pfeil hatte den unteren Rand des Gongs getroffen.
 
-»Man schießt nach unseren Beinen!« rief Harst mir leise zu »Es geht nicht
+»Man schießt nach unseren Beinen!« rief Harst mir leise zu. »Es geht nicht
 anders. Es handelt sich um unser Leben.«
 
 Er hatte mit der rechten Faust blitzartig zugeschlagen, hatte Tompsons Schläfe
