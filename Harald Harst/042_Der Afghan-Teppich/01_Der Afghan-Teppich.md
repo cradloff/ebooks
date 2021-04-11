@@ -466,7 +466,7 @@ feuchten Gärten dufteten nach totem Boden, toten Pflanzen und Blumen.
 
 Ich hatte jetzt auch die beste Gelegenheit, mir all das nochmals in der
 Erinnerung aufzufrischen, was mit diesem Falle, den ich hier den Afghan-Teppich
-genannt habe, zusammenhing Ich habe als Harsts Privatsekretär stets den Ehrgeiz
+genannt habe, zusammenhing. Ich habe als Harsts Privatsekretär stets den Ehrgeiz
 besessen, seine Gedankenarbeit nach Möglichkeit zu durchschauen. Ich habe mich
 oft geradezu abgequält, ihm es an Scharfsinn gleichzutun.
 

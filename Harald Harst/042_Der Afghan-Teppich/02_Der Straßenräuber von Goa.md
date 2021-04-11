@@ -12,7 +12,7 @@ Harst mich aber aus einem anderen Grunde aufmerksam machte. Sie war
 
 Aus verschiedenen Gründen habe ich nun in der folgenden Schilderung die
 Örtlichkeit unkenntlich gemacht. Ich bitte mir also nicht vorzuwerfen, daß ich
-die Umgegend Berlins nichts kenne. –
+die Umgegend Berlins nicht kenne. –
 
 Es war acht Uhr abends. Wir genossen gerade als Nachtisch eine von Frau Harsts
 berühmten Mehlspeisen, als die treue, langjährige Köchin Herrn
@@ -55,7 +55,7 @@ Herr Schultze nickte.
 vorgehen. Ich kenne die Taten dieses Gentleman-Räubers bisher zu wenig, um mir
 daraus ein Bild von seiner Arbeitsweise machen zu können. Sie gestatten einige
 Fragen. Wann begann der Mensch seine Tätigkeit? Wie viele Opfer hat er bis
-jetzt erleichtert? Wo treibt er sein Unwesen? Und – wie überfallt er die
+jetzt erleichtert? Wo treibt er sein Unwesen? Und – wie überfällt er die
 Leute?«
 
 »Ich will das alles recht kurz und klar beantworten,« meinte Schultze und griff
@@ -247,7 +247,7 @@ verloren.«
 »Wie ist das möglich? Gibt es denn da im Walde ein sumpfiges Stück oder
 dergleichen?«
 
-Der Verleger zuckte die Achseln. »Ja, das begreift kein Mensch Die
+Der Verleger zuckte die Achseln. »Ja, das begreift kein Mensch. Die
 Kriminalbeamten erklärten, sie ständen direkt vor einem Rätsel. Der Hund hätte
 noch nie versagt.«
 
@@ -572,7 +572,7 @@ noch leiser als bisher. Dann sagte er ganz laut:
 »Du, Emil, – Mensch, wir haben Jlick. Nu man ruff uff den Kahn. Irjend wat zum
 Klauen wer’n wir schon finden –«
 
-Aha: er spielte nun selbst »Dieb“!
+Aha: er spielte nun selbst »Dieb«!
 
 »Los – wenn’s man lohnt, Karle! Kletter’ man voran!« erklärte ich ebenso laut.
 
@@ -964,7 +964,7 @@ Sie es ja selbst am besten wissen: um Ihrem Kumpan aufzulauern, der weiß der
 Deibel wie sich ’nen Schlüssel zum Patentschloß des Bootshauses besorgt hat.«
 
 »Ah, die Sache kommt in Fluß,« nickte Harst. »Das klingt leidlich
-wahrscheinlich, was Sie eben sagten – Wie sind Sie denn aber in das Bootshaus
+wahrscheinlich, was Sie eben sagten. – Wie sind Sie denn aber in das Bootshaus
 hineingelangt? Haben Sie ebenfalls einen Schlüssel dazu?«
 
 »Schafskopp! Wie sollt’ ich sonst jetzt wohl hier sein,« fauchte Jochem.
