@@ -3,13 +3,13 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (Pflichtangabe) -->
-<entry key="UUID">af1de922-8cb3-11ea-a1f1-7f1c9bb17a47</entry>
+<entry key="UUID">238469c4-67d5-11eb-92cd-7bbbe2cda9d1</entry>
 <!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
 <entry key="secondaryID"></entry>
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">Die Buschklepper der Thar-Wüste</entry>
+<entry key="title">Das Zimmer ohne Fenster</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -17,39 +17,49 @@
 <!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
 <!-- Position innerhalb der Sammlung (Band-Nummer) -->
-<entry key="group-position">84</entry>
+<entry key="group-position">104</entry>
 <!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
 <entry key="edition"></entry>
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
 <entry key="description">
-Die Buschklepper der Thar-Wüste.
+Das Zimmer ohne Fenster.
 
-Das imposante Bauwerk mit seinen blinkenden Fensterreihen, seinen kupfernen Dächern, zierlichen Erkern und phantastischen Steinfiguren war soeben der Schauplatz des Vorspiels eines ernsten Dramas gewesen: Hektor Olgerdyn, der Kamelzüchter von Tallamara, war von meinem Freunde, dem Liebhaberdetektiv Harald Harst, als gemeiner Karawanenräuber entlarvt worden und hatte zusammen mit seinem Genossen, dem verbrecherischen Arzte Doktor Albert Greebrac, die Flucht ergriffen.
+»Schraut — — Schraut — — —!!«
 
-Wir, Harst und ich, sein steter Begleiter, standen am Fenster des Arbeitszimmers Olgerdyns und schauten den beiden nach, wie sie in wilder Hast über die Brücke stürmten, deren zierliche Eisenkonstruktion auch den Beifall des anspruchsvollsten europäischen Ingenieurs gefunden hätte.
+Es folgten noch zwei andere Wörter diesem gellenden, das Heulen des Windes übertönenden Ruf.
 
-»Willst Du sie entkommen lassen?« fragte ich Harald etwas erstaunt. »Bedenke, daß Detektivinspektor Lockpor bereits von Dehli nach hier unterwegs ist, um die beiden Verbrecher zu verhaften. Wie willst Du es Lockpor, unserem alten Bekannten, gegenüber vertreten, daß Du ihre Flucht nicht hindertest?!«
+Aber der Orkan, der in dieser Julinacht über die weite Fläche des Schwielow-Sees hinwegbrauste, hatte gerade in diesem Moment nach kurzer Atempause mit erneuter Wut eingesetzt und machte mir das, was Harald Harst meinem mit äußerster Lungenkraft hervorgestoßenen Namen noch hinzugefügt hatte, vollkommen unverständlich. —
 
-Roland, der Zwerg.
+Wir hatten am Nachmittag dieses 30. Juli mit der flinken Jolle eines Bekannten einen Segelausflug nach der Obststadt Werder unternommen, hatten dort gut zu Abend gegessen und gegen neun Uhr trotz der Warnung eines Fischers die Heimfahrt angetreten.
 
-Wir lagerten gegen elf Uhr vormittags auf der Schattenseite einer kleinen Felsgruppe südlich der Berge, da Harald es für nicht ratsam hielt, inmitten der unübersichtlichen Anhöhen den versäumten Nachtschlaf nachzuholen.  Die Felsgruppe war von den letzten Ausläufern des Bergzuges etwa eine Viertelmeile entfernt, lag auf einem Hügel und bot den Vorteil eines weiten Rundblickes über die Sandwüste.
+Im Nordwesten hatten dichte schwarze Wolkenberge gelagert, die allerdings ein heraufziehendes Unwetter anzeigten. Harald war jedoch nicht zu bewegen gewesen, in Werder vorsichtshalber die Nacht zuzubringen.
 
-Unsere Suche nach Greebracs und Scamaracks Spuren hatten wir sehr bald aufgegeben. Wir hätten ja, wenn wir sorgfältig sein wollten, die ganze Bergkette umrunden müssen, und dazu waren wir zu müde.
+Wir segelten also bei schwachem böigen Winde mit Südkurs in den See hinaus.
 
-Wir hatten eins der Zelte aus dem Krater mitgenommen und es im Schatten der Felsen aufgestellt.
+Und eine Stunde später kämpften wir im Orkan um unser Leben.
 
-Während wir jetzt frühstückten, holte Harst wieder den Brief hervor.
+Die Reitpeitsche der Filmdiva.
 
-»Lies ihn nicht mit den Augen, sondern mit dem Verstande,« sagte er. »Ich will einmal Ausschau halten, ob sich etwas Lebendes zeigt.«
+Weder von den beiden Turkmenen noch von Silvia Longa und dem ungarischen Grafen war bisher die geringste Spur entdeckt worden.
+
+Diese vier Menschen waren verschwunden — so vollständig, als ob man von einer Schiefertafel vier Striche wegwischt.
+
+Es war weder der Polizei noch uns geglückt, auch nur die Wohnung der Turkmenen zu ermitteln.
+
+Dolja Dortschakoff anderseits hatte sich energisch geweigert, die Namen oder sonstwie Einzelheiten über diese braunen Burschen anzugeben.
+
+»Ich darf es nicht,« hatte sie erklärt. »Weshalb ich es nicht darf, weiß ich selbst nicht.«
+
+Dabei blieb sie. —
 </entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (084) Die Buschklepper der Thar-Wüste.epub</entry>
+<entry key="filename">Kabel, Walther - (104) Das Zimmer ohne Fenster.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->

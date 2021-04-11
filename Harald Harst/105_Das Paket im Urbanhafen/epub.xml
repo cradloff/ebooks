@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">1625cd6e-6fb3-11eb-8f07-0fd047895657</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Paket im Urbanhafen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">105</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Paket im Urbanhafen.
+
+»Eine scheußliche Nacht!« sagte Harst zu mir, als wir gegen elf Uhr abends am 23. November die Gitschiner Straße im Süden Berlins unter der Hochbahnstrecke entlang wanderten.
+
+Der Herbststurm fegte in unregelmäßigen Stößen über das Häusermeer der Reichshauptstadt dahin, Hochbahnzüge donnerten über unseren Köpfen wie unsichtbare Poltergeister hinweg und warfen flüchtigen Lichtschein auf die Fronten der düsteren Gebäude, zwischen denen auch die wenigen Fußgänger an diesem unfreundlichen Abend dem behaglichen Heim Antrieb.
+
+Es war so recht eine Nacht, in der niemand einen Hund ins Freie jagt. Und wir beide waren nun bereits drei Viertelstunden unterwegs, — scheinbar zwecklos — scheinbar!
+
+Wir hatten bis gegen halb zehn in der Krokodil-Bar in der Augsburger Straße gesessen. Wir hatten, in der Verkleidung blondbärtiger Ausländer, viel Geld springen lassen und der schönen Barmaid in harmloser Weise den Hof gemacht.
+
+Zelestines goldenes Herz.
+
+... Vormittags elf Uhr. — Karl Hock und ich saßen am Sofatisch beim Frühstück. Harst stand am Schreibtisch, den Hörer des Fernsprechers am Ohr.
+
+»Gußfelder ist krank,« sagte er und legte den Hörer auf die Stützen zurück. »Er klagt über Schmerzen in allen Gliedern. Ich soll ihn nachher nochmals anrufen. Jetzt ist gerade der Arzt bei ihm. Er liegt zu Bett...«
+
+Und Harald nahm wieder Platz.
+
+Mucki thronte neben Hock auf dem Sofa. Wer von den beiden größeren Appetit entwickelte, war schwer zu entscheiden.
+
+»Sie beziehen also oben das Erkerzimmer, lieber Hock,« meinte Harald zu dem jungen Studenten, der trotz seiner etwas weichlichen Art ein lieber guter Kerl war. »Betrachten Sie sich bitte als mein Dauergast, bis Sie Ihre Studien beendet haben. Da Sie Waise sind, wird...«
+
+Diese Aeußerungen des menschenfreundlichen Herzens meines alten gütigen Harald wurden durch das Schrillen der Flurglocke unterbrochen.
+
+Harst lauschte, fügte hinzu:
+
+»Besuch! Und zwar Thea von Perwart, die einzige Erbin der Perwart’schen Kohlengruben, die reichste junge Dame Deutschlands, Waise wie Sie, lieber Hock, Besitzerin des Perwart-Palais in der Erlenstraße im Tiergartenviertel...«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (105) Das Paket im Urbanhafen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
