@@ -413,7 +413,7 @@ Einer der Beamten schloß den Eingang auf. Die
 Ronisch hatte hier seit Jahren ganz allein gehaust. Bechert
 betonte, daß sie bei den Nachbarn beliebt gewesen sei. Sie
 <@pagebreak/>
-habe nie jemand übervorteilt, habe den Aermsten der Armen
+habe nie jemand übervorteilt, habe den Ärmsten der Armen
 manches billiger abgelassen. Freilich sei sie stets sehr
 zurückhaltend gewesen. Verkehr habe sie nie gehabt.
 
@@ -1199,7 +1199,7 @@ wieder den Weg über das Dach.«
 
 Ich zögerte. »Wir können doch auch durch die Flurtür...«
 
-»Ueber das Dach!« sagte er kurz.
+»Über das Dach!« sagte er kurz.
 
 Da sah ich ein, daß dieser gefährliche Weg von ihm absichtlich
 gewählt wurde.
@@ -1290,7 +1290,7 @@ nur laut husteten.
 
 Die Rittler fragte durch die Tür, wer draußen sei.
 
-»Fritz! — Oeffne!« rief Parnack ungeduldig.
+»Fritz! — Öffne!« rief Parnack ungeduldig.
 
 Sie stand dann vor uns — geisterbleich — stumm.
 
@@ -1417,7 +1417,7 @@ Fritz Gerhardi war!«
 
 »Mein Gott!« rief die blonde Malerin und starrte
 Parnack lange an. »Das — das alles kann ja nicht sein!
-Diese Aehnlichkeit — diese Stimme...!«
+Diese Ähnlichkeit — diese Stimme...!«
 
 <@pagebreak/>
 »Es ist so, Fräulein Rittler! — Schraut wird jetzt
@@ -1425,7 +1425,7 @@ sofort das Präsidium anläuten. Gerhardi wird hierher
 gebracht werden. Dann können Sie sich durch den Augenschein
 überzeugen, daß die beiden Männer — — Zwillingsbrüder
 sein müssen!! Nur unter Zwillingen findet man
-diese Aehnlichkeit, die sich bis auf die Stimme, einzelne
+diese Ähnlichkeit, die sich bis auf die Stimme, einzelne
 charakteristische Bewegungen und Gleichheit der Augenfarbe
 erstreckt. — Eine Frage noch: Parnack besuchte Sie
 heute als Fritz Gerhardi zum ersten Male seit seiner
@@ -1484,8 +1484,8 @@ haben.«
 erklärte Harst gütig. »In jeder Beziehung — zumal
 Gerhardi unschuldig und Parnack, der Doppelgänger, jenen
 Straßenraub ausgeführt haben wird. Er kannte eben Gerhardis
-Aehnlichkeit mit seiner eigenen Person, er nutzte
-diese Aehnlichkeit aus, ließ Gerhardi einsperren und —
+Ähnlichkeit mit seiner eigenen Person, er nutzte
+diese Ähnlichkeit aus, ließ Gerhardi einsperren und —
 wird ihn jetzt durch seine Helfershelfer haben befreien
 lassen, um ihn hier weiter für seine dunklen Zwecke gebrauchen
 zu können, deren erster der war, Gerhardi an seiner
@@ -1523,7 +1523,7 @@ damit nichts zu schaffen!«
 an die Polizei. Bechert soll kommen. Hier« — und seine
 Stimme schwoll an — »hier wird der Gehenkte doch wohl
 einiges verraten! Das geheimnisvolle Fenster wird wohl
-die Ueberleitung zu der Aufklärung des Motives der Ermordung
+die Überleitung zu der Aufklärung des Motives der Ermordung
 Frau Gerhardis sein, deren Leiche nun endlich
 gefunden ist!«
 

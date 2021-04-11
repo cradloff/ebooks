@@ -710,7 +710,7 @@ Stirn. »Ich möchte wohl gern wissen, ob Heinz Galley eine
 Schwäche für Süßigkeiten hatte,« fügte er mit einem fragenden
 Blick auf Uhlborns Gesicht hinzu, dessen Ausdruck
 deutlich verriet, daß er die furchtbare Schwere dieser letzten
-Aeußerung Harsts nicht begriffen hatte.
+Äußerung Harsts nicht begriffen hatte.
 
 Ich — ich wußte, was es mit diesem Konfekt auf sich
 haben könnte. Ich verstand auch Haralds Interesse für des
@@ -808,7 +808,7 @@ Mir blieb bei diesen Eröffnungen schier der Atem weg.
 Anhang mußten sich doch, nachdem sie vor uns geflohen
 waren, einen Unterschlupf suchen. Ihre Flucht liegt etwa
 vierzehn Tage zurück. Und vor zehn Tagen war »Ethelka«
-bei Uhlborn und bat um Ueberlassung des Häuschens. Das
+bei Uhlborn und bat um Überlassung des Häuschens. Das
 stimmt alles so gut, daß ich kaum mehr daran zweifle, die
 Gesuchten vor uns zu haben.«
 
@@ -850,7 +850,7 @@ da verderblich. Deshalb fahren wir auch so ganz offen
 ohne Verkleidung hinaus. Deshalb werden wir so tun,
 als dächten wir nicht im entferntesten an Eva und ihre
 Clique. Wir haben ja unsere Clementpistolen mit. Die
-stecken wir uns in die rechten Aermel — gespannt und entsichert.
+stecken wir uns in die rechten Ärmel — gespannt und entsichert.
 Und so werden wir das Häuschen betreten, werden
 dann mit größter Rücksichtslosigkeit vorgehen. Wahrscheinlich
 wird es sich darum handeln, wessen Kugel schneller den
@@ -932,7 +932,7 @@ Harald, daß Eva und Xaver — ihr Bruder! —
 heimlich zurückgekehrt seien und uns erwarteten — dort im
 Häuschen?!
 
-Kühl und hart lag die Clement in meinem Aermel.
+Kühl und hart lag die Clement in meinem Ärmel.
 Ich brauchte nur die Hand zu drehen, und die kleine neunschüssige
 Waffe glitt hinein. Dies Bewußtsein, gerüstet
 zu sein, war besser als eine Leibwache.
@@ -1026,7 +1026,7 @@ Rechnung ist nur ein Fehler.«
 »Und das wäre?« fragte Eva Wilcword schnell.
 
 Harst lächelte gemütlich. »Das werden Sie schon sehen,
-Frau Wilcword. Uebrigens ist diese Armhaltung mit der
+Frau Wilcword. Übrigens ist diese Armhaltung mit der
 Zeit etwas lästig, außerdem für Sie auch unpraktisch, da
 wir uns ja leicht oben an den Stricken festklammern können
 und dem Gehenktwerden so entgehen. Wir werden also
@@ -1053,7 +1053,7 @@ verwirrte den Feind.
 
 Ich bog langsam die rechte Hand nach hinten. Leider
 war mir die kleine Clement jetzt bis zum Ellenbogen gerutscht.
-Ich zupfte am Aermel, drehte den Arm hin und
+Ich zupfte am Ärmel, drehte den Arm hin und
 her. Die Pistole glitt abwärts.
 
 »Ich möchte gern wissen, wie Sie ihn aus seinem
@@ -1086,7 +1086,7 @@ Dann — ein Knall.
 Holdstein flog der eine Revolver aus der Hand.
 
 Und Harsts rechter Fuß warf jetzt die Küchentür vor
-dem Ueberraschten krachend ins Schloß.
+dem Überraschten krachend ins Schloß.
 
 Diesen Trick hatte ich nicht erwartet. Dieser Trick
 schützte uns vor Evas Kugeln.
@@ -1242,7 +1242,7 @@ stand.
 das Nest leer gewesen,« fügte Harald hinzu. »Es ist so,
 Bechert. Außerdem —«
 
-Er schwieg. Bechert hatte in seinem Aerger eine Handbewegung
+Er schwieg. Bechert hatte in seinem Ärger eine Handbewegung
 <@pagebreak/>
 gemacht, als ob er die Worte Harsts anzweifle.
 
@@ -1288,7 +1288,7 @@ Uhlborns Schweizerhäuschen erwähnt?«
 »Wörtlich dasselbe steht hier in der Vossischen und in
 <@pagebreak/>
 der Allgemeinen. Bechert hat also Befehl gegeben, die
-Oeffentlichkeit über die näheren Tatumstände nicht zu unterrichten.«
+Öffentlichkeit über die näheren Tatumstände nicht zu unterrichten.«
 
 Ich war froh, daß Harald nun endlich wieder über den
 Fall Galley sprach.

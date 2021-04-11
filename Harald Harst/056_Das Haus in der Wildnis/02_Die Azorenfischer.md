@@ -197,7 +197,7 @@ dieser Schuhe machten mich stutzig.
 Dort hatte ein Weib sich an den Kronleuchter festgeklammert,
 offenbar aus Angst vor den Bestien!
 
-Ich wollte der Aermsten jetzt ein Zeichen geben, daß
+Ich wollte der Ärmsten jetzt ein Zeichen geben, daß
 Hilfe nahe sei, und klopfte kräftig gegen die Tür, rief
 gleichzeitig auf englisch:
 
@@ -410,7 +410,7 @@ begleitet war.
 
 Ich stierte Harald entsetzt an.
 
-»Wir müssen durch die kleinen Oeffnungen oben an
+»Wir müssen durch die kleinen Öffnungen oben an
 dem Verschlußstein atmen,« stieß ich hervor. Dann trieb
 <@pagebreak/>
 mir ein schwerer Hustenanfall Tränen in die Augen. Und
@@ -512,7 +512,7 @@ das allmählich anstieg.
 Eilends schritten wir über Steingeröll dahin, erreichten
 schon nach fünf Minuten den Ausgang — ein
 mächtiges Felsloch in der Wand einer tiefen Schlucht.
-Ueber glatte Lavamassen stiegen wir in die Schlucht
+Über glatte Lavamassen stiegen wir in die Schlucht
 hinab.
 
 Harald sah nach der Uhr. Es war genau ½ 12 nachts.
@@ -809,7 +809,7 @@ Fußboden. Harald flößte ihm etwas Wasser und Kognak
 ein. 
 
 Wir waren beide tief erschüttert. — »Wer mag dieser
-Aermste sein?« fragte ich Harst, der schon am Herde sich
+Ärmste sein?« fragte ich Harst, der schon am Herde sich
 zu schaffen machte. Er wollte aus Büchsenfleisch etwas
 <@pagebreak/>
 Brühe zubereiten. Der Greis hatte fraglos vor Hunger 
@@ -849,7 +849,7 @@ dem schlimmsten Schurkenstreich, an der Beseitigung des
 Erblassers. Dieser Greis muß gegen achtzig Jahre alt
 sein. Das würde mit Smiths Alter übereinstimmen.
 Außerdem habe ich einen Beweis dafür, daß dieser
-Aermste der Millionär sein kann, — nämlich die Tatsache,
+Ärmste der Millionär sein kann, — nämlich die Tatsache,
 daß die Leute in der verflossenen Nacht hier einzudringen
 versuchten, erst in das Haus! Nachher wollten
 sie wohl den alten Mann holen und verschwinden lassen.
@@ -867,7 +867,7 @@ Er erholte sich nach einer weiteren Stunde derart,
 daß Harald einige Fragen an ihn richtete.
 
 Doch — und hier lag fraglos echte Geistestrübung 
-vor — die Antworten des Aermsten waren so verworren,
+vor — die Antworten des Ärmsten waren so verworren,
 daß man daraus nichts über seine Persönlichkeit entnehmen
 konnte.
 
@@ -978,7 +978,7 @@ und wir den Greis gefunden haben. Das entflohene
 Weib wird ihnen alles mitteilen, und sie werden es nicht
 wagen, Ellen und Helena auf der Insel zu belassen.«
 
-Banfy nickte. »Uebrigens — dem alten Manne geht
+Banfy nickte. »Übrigens — dem alten Manne geht
 es besser. Er spricht jetzt ganz verständig. Nur — er
 besinnt sich auf nichts, was seine Vergangenheit betrifft.
 <@pagebreak/>
@@ -1069,7 +1069,7 @@ entgegengeschlendert.
 »Was beliebt, Sennores?« fragte er auf spanisch und
 lüftete den großen Strohhut.
 
-Morris hielt ihm im Uebereifer den Revolver unter
+Morris hielt ihm im Übereifer den Revolver unter
 die Nase:
 
 »Raus mit den beraubten Sennoritas, Schuft!«

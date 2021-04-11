@@ -232,7 +232,7 @@ weit westlich von Portugal im Atlantik gelegen.«
 Ich beugte mich über das Blatt. — Wie in aller Welt
 war Harald gerade auf die Azoren gekommen?! — Ich
 überflog nochmals die Schriftreste, die ich hier in deutscher
-Uebersetzung wiedergebe:
+Übersetzung wiedergebe:
 
 <div style="white-space: pre;">    war zu verlo
     kurz     spar     kö
@@ -315,7 +315,7 @@ ihr ein Betäubungsmittel heimlich gereicht und sie ins
 Wasser geworfen haben. Daß dies von einem Schiffe aus
 geschah, bezweifle ich, nehme vielmehr an, es geschah in
 einem Hafen, wo die Mörder Ziegelsteine zur Hand hatten,
-die sie der Aermsten an die Füße banden. Oder —
+die sie der Ärmsten an die Füße banden. Oder —
 sie haben die Ziegelsteine an Bord ihres Schiffes aus
 dem Hafen mitgenommen und dann diesen Schurkenstreich
 verübt, als sie weit ab von Land waren. Auf
@@ -560,7 +560,7 @@ Harst und Schraut »angeblich« Shenton bereits verlassen
 hätten. Da haben Sie und Ihre Leute es mit der Angst
 bekommen. Und Sie sollten hier spionieren, haben dann
 Mac Owen ausgehorcht — ich lauschte an der Tür —
-und gelangten zu der Ueberzeugung, daß die beiden Gefürchteten
+und gelangten zu der Überzeugung, daß die beiden Gefürchteten
 ausgerechnet die Finder der Leiche waren und
 daß sie noch dazu in der einen Tasche der Toten ein Papier
 entdeckt hätten. — Wer sind Sie, Mann?«
@@ -601,7 +601,7 @@ Sie schwindeln.«
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Ueber jede Phantasie hinaus.</h3>
+<h3>Über jede Phantasie hinaus.</h3>
 
 »Ich heiße Lopeg d’Argosta und bin Portugiese von
 Geburt, bin der letzte Sproß einer alten, einst sehr begüterten
@@ -780,7 +780,7 @@ er offen zugab. Er sagte mir einmal: »Wenn Sie mir
 diesen Harst vom Leibe halten, können Sie von mir verlangen,
 was Sie wollen.« — In der Morning Post stand
 nun Ihr Name über dem Artikel von dem Leichenfund
-hier. — Ihr Name als Ueberschrift eines anderen Artikels
+hier. — Ihr Name als Überschrift eines anderen Artikels
 —«
 
 »Schon gut. — Und deshalb kamen Sie hierher. Sie
@@ -1029,7 +1029,7 @@ Ich war dicht an der Tür stehen geblieben.
 
 Mit einem Male schlug sie hinter mir krachend zu.
 Die Riegel wurden vorgeschoben, ehe ich mich noch von
-meiner Ueberraschung erholt hatte. 
+meiner Überraschung erholt hatte. 
 
 Dann eine Stimme durch die Tür — ein helles
 Organ:

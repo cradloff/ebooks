@@ -220,7 +220,7 @@ denn wohl...«
 »Oh — mein Bruder Josef zum Beispiel hat mich beschuldigt,
 Karnay und Loof beseitigt zu haben. Wer weiß,
 ob er nicht den Mitgliedern seiner Verbrecherbande hier
-Aehnliches angedeutet hat.«
+Ähnliches angedeutet hat.«
 
 »Die drei Kerle und das Weib sitzen ja hinter Schloß
 und Riegel,« meinte Kommissar Vogler achselzuckend.
@@ -237,7 +237,7 @@ Es dürfte sich um über einen Zentner Goldkörner handeln.«
 
 »Donnerwetter!« entfuhr es Vogler. »Das lohnt! —
 Verzeihung, meine Damen, — das ist mir soeben leider vor
-Ueberraschung entschlüpft, dieses nicht salonfähige Donnerwetter.«
+Überraschung entschlüpft, dieses nicht salonfähige Donnerwetter.«
 
 Und eine Stunde später hatte Harald die genaue
 Skizze in seiner Brieftasche. — Am 2. Dezember bestiegen
@@ -333,7 +333,7 @@ der Ausgangspunkt so manchen Abenteuers gewesen.
 
 In Aden kauften wir englische Zeitungen, die
 Aden-Morning-Post und andere. Und — da fanden wir denn
-zu unserer Ueberraschung auch eine kurze Notiz, daß Zelestine
+zu unserer Überraschung auch eine kurze Notiz, daß Zelestine
 Drepp, die Freundin des toten Verbrechers Josef Bennarara-Gußfelder,
 aus der Krankenabteilung des Untersuchungsgefängnisses
 am 2. Dezember abends entflohen sei, also an
@@ -705,7 +705,7 @@ Es war auch eine Depesche da. Sie lautete:
 
 > Rohrer (das war die Gesellschafterin Fräulein von
 Perwarts) harmlos. Aber Diener Karl Münz plötzlich
-gekündigt und Berlin verlassen. Ueber Münz bisher freilich
+gekündigt und Berlin verlassen. Über Münz bisher freilich
 nichts Nachteiliges bekannt. Hat als besonderes Erkennungszeichen
 links auffallend verlängertes Ohrläppchen.
 — Bitte Nachricht, ob unangenehme Zwischenfälle.
@@ -1024,7 +1024,7 @@ der Nase sitze, — das ist denn doch der Gipfel der
 Unverfrorenheit!«
 
 »Er selbst kann doch aber unmöglich den Diebstahl
-begangen haben, Harald. Ueberhaupt...«
+begangen haben, Harald. Überhaupt...«
 
 Da rief jemand hinter uns: »Mr. Harten — — Mr.
 Harten, es ist ein Mann da, den Sie herbestellt haben.«
@@ -1101,13 +1101,13 @@ jemand an der Tür links die eine untere Füllung heraushob.
 Sie mußte nur ganz lose eingefügt gewesen sein.
 
 Dann schob sich ein Mensch in schwarzem Trikot
-schlangengleich durch die schmale Oeffnung.
+schlangengleich durch die schmale Öffnung.
 
 Seltsam genug: der Mensch kam vom Hotelvorraum
 her! —
 
 Ich begriff das nicht. Und auch Harald hauchte mir
-jetzt ins Ohr: »Eine Ueberraschung, und keine geringe!«
+jetzt ins Ohr: »Eine Überraschung, und keine geringe!«
 
 Die schlanke Gestalt, kaum sichtbar in dem praktischen
 Diebesanzug, huschte wie ein Schatten den Flur entlang

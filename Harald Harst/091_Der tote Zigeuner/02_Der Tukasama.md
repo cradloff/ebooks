@@ -97,7 +97,7 @@ Dann saß Mr. Tibur Chamal Darwi im Klubsessel
 vor uns.
 
 Ein Mann um die Vierzig, klein, hager muskulös, bartlos,
-ein Gesicht mit dicken Wulsten, kleinen hastigen Aeuglein
+ein Gesicht mit dicken Wulsten, kleinen hastigen Äuglein
 und einem eingefrorenen Lächeln um die Negerlippen.
 
 »Mr. Harst,« begann er, »mein Name sagt Ihnen
@@ -120,7 +120,7 @@ Harst und ich beugten uns gespannt vor.
 »Die japanische Regierung hat nun das größte Interesse
 daran, diese Handschrift für immer verschwinden zu
 lassen, da sie unsere Sekte ausrotten möchte. Japan ist ja
-durchweg allen Aenderungen des althergebrachten heimischen
+durchweg allen Änderungen des althergebrachten heimischen
 Religionsbekenntnisses abhold. Wir haben nun
 die Vorgänge der letzten Tage sehr genau verfolgt. Wir
 wußten, daß der Prinz Hotowatu dem Konsul die Handschrift
@@ -215,7 +215,7 @@ Japaner sind. Wir werden nachts uns fortschleichen, verkleidet,
 durch den Gemüsegarten. Wir warten nicht bis
 morgen. Die Bande besitzt einen unheimlichen Erfindungsgeist.
 Der Schwindel mit der Sekte klang so wahrscheinlich,
-daß ich kaum daran zu zweifeln wagte. — Uebrigens
+daß ich kaum daran zu zweifeln wagte. — Übrigens
 war das Auto Darwis ein hellgrauer kleiner Wagen.«
 
 »Und der Chauffeur ein breitschultriger rotbärtiger
@@ -327,7 +327,7 @@ Gefolges?«
 »In der Pension Vanderfelde in der Calver-Straße
 Nummer 42.«
 
-Im Fremdenheim Vanderfelde hatte sich Aehnliches abspielt.
+Im Fremdenheim Vanderfelde hatte sich Ähnliches abspielt.
 Auch dort waren die vier Japaner sehr spät heimgekehrt,
 <@pagebreak/>
 waren von dem verschlafenen Pförtner eingelassen
@@ -452,7 +452,7 @@ Wir standen hier nun bereits fünf Minuten.
 
 Er ging mir voran, nach rechts um die Gartenmauer
 herum, bis wir die Nordseite der Mauer erreicht hatten und
-eine kleine eingezäunte Wiese. Ueber die Mauer ragten hier
+eine kleine eingezäunte Wiese. Über die Mauer ragten hier
 die Schieferdächer von Stallungen hinweg.
 
 »Hilfestellung,« befahl Harald.
@@ -640,7 +640,7 @@ Da gewahrte er uns, prallte zurück.
 Und griff blitzschnell in die Schlüsseltasche seiner Beinkleider.
 
 Die Tür flog jedoch bereits auf, Harst gab mir einen
-Stoß, sprang hinter mir drein, packte mich am linken Aermel.
+Stoß, sprang hinter mir drein, packte mich am linken Ärmel.
 
 Zwei — drei Schüsse knallten.
 
@@ -997,7 +997,7 @@ schnelles Fahrzeug war merkte man.
 Wir standen auf dem Achterdeck halb im Schutze des
 Kajütaufbaus. Shaccam und der Japaner, der damals
 den Prinzen gespielt hatte, waren uns gefolgt und lehnten
-in Oelmänteln und Südwestern an der Reling. Sie beobachteten
+in Ölmänteln und Südwestern an der Reling. Sie beobachteten
 uns. So ganz trauten sie uns wohl doch nicht.
 
 Harald klappte den Ulsterkragen hoch und sagte leise:
@@ -1023,7 +1023,7 @@ Gegenwart viele zweifeln —«
 Tu-ka sama soll »Mann des Schweigens« bedeuten. Das
 ist vielsagend. Das deutet auf eine Schweigepflicht der
 Mitglieder hin, die nachdrücklicher als bei anderen ähnlichen
-Vereinigungen ist. Ueber den Tukasama tappt man daher
+Vereinigungen ist. Über den Tukasama tappt man daher
 auch völlig im Dunkeln. Man weiß nur eins: die Mitglieder
 tragen das linke Ohrläppchen durchbohrt. Um dieses
 winzige Hautloch ist eine noch winzigere, kaum sichtbare
@@ -1045,8 +1045,8 @@ Er lächelte. »Lieber Alter — begreifst Du denn nicht
 — noch nicht?! Ich hatte ja Shaccams Spiel durchschaut,
 als wir vom Hafenamt kamen. Da war mir klar geworden,
 daß die Geschichte im Landhaus nur ein Lockmittel gewesen.
-Bei ruhiger Ueberlegung gelangte man notwendig zu dieser
-Ueberzeugung. Shaccam hatte ja einen Fehler gemacht:
+Bei ruhiger Überlegung gelangte man notwendig zu dieser
+Überzeugung. Shaccam hatte ja einen Fehler gemacht:
 <@pagebreak/>
 den Leuchter mit dem brennenden Licht, mit dem er uns
 im Hinterflur überraschte. Die Pendeltür hatte doch Glasscheiben,
@@ -1285,7 +1285,7 @@ und den Hauptmann Sato konnten wir uns kaum wünschen.
 
 Schon von Amsterdam war ein langes Telegramm
 an die Polizei in Tokio abgegangen, in dem Harald um
-Ueberwachung des Hauses Shaccams und Beschlagnahme
+Überwachung des Hauses Shaccams und Beschlagnahme
 sämtlicher dort vorhandener Schriftstücke des Mischlings gebeten
 hatte. In Panama, der berühmten Kanalstadt, lag
 eine Antwortdepesche für Harst bereit. Ihr Inhalt besagte,
@@ -1328,7 +1328,7 @@ einem unserer Koffer in das Motorboot, stießen von der
 Jacht ab und ließen ihr einen weiten Vorsprung, bevor
 wir den Motor des kleinen Kutters anwarfen und ihr langsam
 folgten. Der Kutter hatte ein aufklappbares Bugverdeck
-mit Oeltuchvorhängen. In dieser zeltartigen Kabine
+mit Öltuchvorhängen. In dieser zeltartigen Kabine
 verwandelten wir uns einer nach dem andern in zwei
 japanische Hafenkulis, färbten uns Gesicht, Nacken und
 Hals, gaben unseren Zügen durch kleine Kunstgriffe Mongolentyp,
@@ -1341,7 +1341,7 @@ nämlich. — Nachdem wir mit unserem Kostüm fertig waren,
 überholten wir die Jacht, kamen zuerst in den Hafen
 und machten den Kutter am Bollwerk fest, wo ein japanischer
 Polizeibeamter dem Harst das Schreiben der Botschaft,
-Berlin, vorzeigte, die Ueberwachung des Bootes übernahm.
+Berlin, vorzeigte, die Überwachung des Bootes übernahm.
 
 Ich will die nächsten Ereignisse kurz zusammenfassen:
 der Prinz fuhr im Auto nach dem in den nahen Bergen
@@ -1436,10 +1436,10 @@ Seitenmauer des Tempels.
 
 Harald half mir hinauf. Ein Ast gestattete mir, bis
 zu einem hoch über der Erde liegenden Fenster zu gelangen.
-Die Scheiben waren nicht aus Glas, sondern aus Oelpapier.
+Die Scheiben waren nicht aus Glas, sondern aus Ölpapier.
 Ein Gitter aus Bronze schützte dieses Fenster. — Ich sah,
 daß in dem Tempel Licht schimmerte, sah weiter, daß eine
-der Oelpapierscheiben rechtwinklige Schnitte hatte. Ich
+der Ölpapierscheiben rechtwinklige Schnitte hatte. Ich
 schwang mich auf den Fenstervorsprung, machte Harald
 Platz, der nun sofort neben mir erschien.
 
@@ -1489,7 +1489,7 @@ Ich bog den Kopf zurück. Ich wollte nichts mehr
 sehen.
 
 Harst drängte mich zur Seite, schaute durch das Loch
-im Oelpapier.
+im Ölpapier.
 
 Und ich — ich wischte mir den kalten Schweiß von der
 Stirn. Ich wurde das Bild des in Todesqualen Hinsterbenden
@@ -1507,7 +1507,7 @@ Ich rutschte näher, drückte den Kopf an das Gitter.
 Und — bemerkte sofort, daß drüben noch jemand dieses
 grauenvolle Schauspiel heimlich beobachtete. Da war in
 das Fenster gegenüber ebenfalls ein Loch geschnitten. Und
-hinter der Oeffnung schimmerte es wie ein Gesicht.
+hinter der Öffnung schimmerte es wie ein Gesicht.
 
 Harst schwang sich auf den Ast zurück.
 

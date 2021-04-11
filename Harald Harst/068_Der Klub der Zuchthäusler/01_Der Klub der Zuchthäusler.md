@@ -166,7 +166,7 @@ pflege im Bett noch zu lesen und eine Zigarette zu rauchen.
 Auf meinem Nachttisch steht immer ein Glasfläschchen mit
 Zigaretten. Als ich gestern gegen 12 nachts zu Bett gegangen
 war, rauchte ich wie stets, spürte aber schon nach
-den ersten Zügen eine solche Müdigkeit und Uebelkeit, daß
+den ersten Zügen eine solche Müdigkeit und Übelkeit, daß
 ich in die Kissen zurücksank und bis heute neun Uhr vormittags
 wie ein Bewußtloser dagelegen habe. Die angerauchte
 Zigarette —«
@@ -186,7 +186,7 @@ leben — oder Feinden. Wer sich so schützt wie Sie, der —«
 Mapserlan erhob abwehrend beide Hände, »Keine
 Rede davon!« rief er seltsam erregt. »Keine Rede davon!«
 Jetzt schaute er Harald an. Und — seltsam genug! —
-dieser Blick verriet ebensoviel Aerger wie heimliche Furcht.
+dieser Blick verriet ebensoviel Ärger wie heimliche Furcht.
 
 »Dann ist die Sache allerdings doppelt rätselhaft,«
 meinte Harald achselzuckend. »Es steht doch wohl fest,
@@ -210,7 +210,7 @@ müßten in aller Stille und Verschwiegenheit
 geschehen. Darauf kann ich mich wohl verlassen?«
 
 »Das können Sie, Herr Mapserlan. Augenblicklich bin
-ich noch mit einer anderen Sache beschäftigt. Uebermorgen
+ich noch mit einer anderen Sache beschäftigt. Übermorgen
 will ich zu Ihnen kommen. Wann sind Sie daheim?«
 
 »Um sechs Uhr nachmittags. Sie erscheinen doch verkleidet?«
@@ -1330,7 +1330,7 @@ Treppen; abermals zwei in den Angeln kreischende Türen.
 
 Dann änderte sich die Luft. Sie war wärmer; sie
 hatte einen besonderen Geruch — etwa so wie in der Nähe
-eines Bottichs, in dem Kalk gelöscht wird. Ueber holprigen
+eines Bottichs, in dem Kalk gelöscht wird. Über holprigen
 Boden, durch hallende Gewölbe noch ein Weg von
 fünf Minuten.
 
@@ -1530,7 +1530,7 @@ Wir wollten eben recht vorsichtig sein —«
 auf, nämlich Frau Winndorf,« nickte Harald. »Ihr Mann
 war bei mir — zugleich mit Mapserlan. Die Spione, die
 Mapserlan folgten, werden Winndorf nicht beachtet haben.
-— Uebrigens — wer war »Herr Braun«, der bei der Hulbatz
+— Übrigens — wer war »Herr Braun«, der bei der Hulbatz
 wohnte, und wen von Ihnen hatte Mapserlan ins
 Zuchthaus gebracht?«
 

@@ -247,7 +247,7 @@ ihr leer. Mit seltsam benommenem Kopf und schweren
 Gliedern erhob sie sich. Als sie im Morgengewand das
 Arbeitszimmer ihres Mannes betrat, fand sie ihn am
 Kronleuchter hängen. Er war seit fünf Stunden tot, wie
-die Aerzte feststellten.
+die Ärzte feststellten.
 
 Die unglückliche Frau hütete sich, auch nur ein einziges
 Wort über die Drohbriefe und ihren Verdacht, ihr Gatte
@@ -479,7 +479,7 @@ Wir bestiegen das unten haltende Auto.
 
 Als es sich in Bewegung setzte, sagte Harald halblaut
 wie zu sich selbst: »Ich fürchte Berthold Finster wird für
-die zweite Ueberraschung gesorgt haben.«
+die zweite Überraschung gesorgt haben.«
 
 »Wie meinen Sie das, lieber Harst?« rief Bechert beunruhigt.
 
@@ -521,7 +521,7 @@ Stummel der zweiten zum Fenster hinauswarf, sagte er:
 Der Baron Holger ist nicht das Unschuldslamm für das er
 sich ausgab. Ich behaupte, er hat den Diener Ahmed wirklich
 <@pagebreak/>
-mit Ueberlegung getötet, und der Tat hat ein anderer
+mit Überlegung getötet, und der Tat hat ein anderer
 Inder als Zeuge beigewohnt, vielleicht ein zweiter Diener,
 dem der Baron durch Geld den Mund verstopfte. Dieser
 zweite hat dann jetzt den Feldzug gegen Alfström eröffnet.
@@ -595,7 +595,7 @@ stille Geistesrapport wachte wieder auf.
 
 Nun füllte ich die Tassen. Und da sagte Harald —
 genau den Gedanken wiedergebend, den ich durch einen
-Blick nach dem Oelgemälde angedeutet hatte, das eine
+Blick nach dem Ölgemälde angedeutet hatte, das eine
 Jachtregatta auf dem Wannsee darstellte:
 
 »Sie werden die Jacht gestohlen haben, mein Alter.«
@@ -804,7 +804,7 @@ angebracht war, etwas Bedrohliches an sich. Ich wunderte
 mich, daß Berthold Finster dies nicht ebenfalls spürte. Mir
 sagte eine ungewisse Ahnung, daß hier jetzt noch eine
 Bombe platzen würde, daß der Herr Justizrat doch noch einen
-Beweis von Haralds Ueberlegenheit erhalten sollte.
+Beweis von Haralds Überlegenheit erhalten sollte.
 
 Und — es ereignete sich wirklich noch etwas. Sogar
 schon in der nächsten Minute.
@@ -848,7 +848,7 @@ eine Serviette heraus, entfaltete sie gleichzeitig und bedeckte
 damit die Waffe.
 
 All das war so schnell gegangen, daß ich bereits wieder
-am Tische stand, bevor unser Gegner sich von der Ueberraschung
+am Tische stand, bevor unser Gegner sich von der Überraschung
 erholt hatte.
 
 Er war wütend, fauchte mich nun an: »Herr — wie
@@ -1038,7 +1038,7 @@ Bechert flüsterte:
 Schraut. Die beiden Spione kenne ich nun. Sind gefährliche
 Brüder — Finsters Gardisten!«
 
-Ich bin an Ueberraschungen gewöhnt. Die Reise nach
+Ich bin an Überraschungen gewöhnt. Die Reise nach
 Stockholm war Bluff. Ich hatte nur die Spione Finsters
 hier bis zum Bahnhof hinter mir herlocken sollen. Harst
 und Bechert arbeiteten jetzt gemeinsam, und Harald war
@@ -1065,7 +1065,7 @@ Sie im Aschinger am Stettiner Bahnhof.«
 Mehr konnte auch er mir nicht mitteilen. Er wußte
 nur, daß die beiden Spione aus dem Bahnhof bereits in
 aller Stille verhaftet worden und daß es zwei gewerbsmäßige
-vorbestrafte Taschendiebe von elegantem Aeußeren
+vorbestrafte Taschendiebe von elegantem Äußeren
 waren. —
 
 Im Aschinger war großer Betrieb. Diese Massenspeisungsstätten
@@ -1126,7 +1126,7 @@ spricht. —
 
 Ich merkte jetzt, welch umfangreiche Vorbereitungen
 Bechert und Harald gegen Berthold Finster bereits getroffen
-hatten. Ich war auf weitere Ueberraschungen gefaßt,
+hatten. Ich war auf weitere Überraschungen gefaßt,
 und sie kamen auch.
 
 Bechert flüsterte, nachdem er mit Harst ein paar scheinbar
@@ -1166,7 +1166,7 @@ etwas anderes war, bewies es mir durch ein infames
 Grinsen, meckerte ironisch und — hielt mir blitzschnell eine
 mir bereits bekannte kleine Repetierpistole vors Gesicht.
 
-»Grüß Gott, Herr Schraut,« krähte er. »Feine Ueberraschung
+»Grüß Gott, Herr Schraut,« krähte er. »Feine Überraschung
 — wie?! Dja — Ihr Freund Harst ist doch nicht
 so schlau, wie er sich selbst einschätzt.«
 
@@ -1287,7 +1287,7 @@ fünf Zentimeter starke, spitze Stopfnadeln mit den Spitzen
 nach uns zu hineingedrückt.
 
 Und — diese Spitzen schillerten matt grünlich, hatten
-irgend einen Ueberzug von Säure oder dergleichen —
+irgend einen Überzug von Säure oder dergleichen —
 natürlich ein Giftstoff!
 
 Der Zweck dieser spitzen Harke war klar: wir hätten
@@ -1480,7 +1480,7 @@ war (wir waren bis auf die Haut durchnäßt worden), konnten
 wir in einem Zimmer des Hochparterres im Salon
 durch die Fenster vier Personen beobachten: den Geheimrat,
 eine ältere Dame, offenbar die Geheimrätin, die Baronin
-Inge und einen Herrn, der eine gewisse Aehnlichkeit
+Inge und einen Herrn, der eine gewisse Ähnlichkeit
 mit mir selbst, mit Max Schraut, hatte.
 
 »Finster als Schraut — wahrscheinlich alleiniger Gast
@@ -1551,7 +1551,7 @@ die aus dem Museum in Kalkutta gestohlen waren, in
 Watte verpackt in den Rohren des Opernglases verbarg.
 Dann hatte der Baron das Opernglas in dem Geheimfach
 des Schreibtisches seiner Mutter versteckt und es nicht
-mehr anzurühren gewagt. Der Schreibtisch machte die Uebersiedlung
+mehr anzurühren gewagt. Der Schreibtisch machte die Übersiedlung
 nach Europa mit. —
 
 Nun war das Geheimnis geklärt. Nun schraubte Harst

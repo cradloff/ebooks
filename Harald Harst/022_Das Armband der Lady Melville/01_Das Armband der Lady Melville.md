@@ -55,7 +55,7 @@ Dinge heraus, stellte sich vor den Spiegel und begann
 sein bartloses Gesicht mit der Geschicklichkeit eines routinierten
 Schauspielers zu verändern.
 
-Als er aus der Wanne gestiegen, hatte er lediglich Aehnlichkeit
+Als er aus der Wanne gestiegen, hatte er lediglich Ähnlichkeit
 mit mir selbst gehabt, mit Max Schraut, dem Freunde
 und Privatsekretär des einigermaßen bekannten Liebhaberdetektivs
 Harald Harst. —
@@ -138,7 +138,7 @@ eine Nase vorhanden gewesen sein konnte. Nur etwas wie
 einen wahrhaft riesigen, aufgerissenen Mund glaubte ich erkannt
 zu haben.
 
-Ueber mir war die Krone längst wieder ausgedreht worden.
+Über mir war die Krone längst wieder ausgedreht worden.
 Ich selbst stand gleichfalls im dunklen Zimmer am
 Fenster und starrte daher mit Ausdauer hinüber auf jene
 Vorhänge, hinter denen das merkwürdige Wesen verschwunden
@@ -660,7 +660,7 @@ hierauf aufmerksam machte, raunte er mir zu:
 nicht in unsere Zimmer. Ich wollte in das des Fragwürdigen!
 Du verstehst! Des Ausgekniffenen. — Er ist ganz
 sicher schon entflohen. Beweis: der durchschnittene Strick
-und die nicht vorgelegte Sicherheitskette! Uebrigens: eine
+und die nicht vorgelegte Sicherheitskette! Übrigens: eine
 unserer Türen muß nur verschlossen, nicht auch verriegelt
 sein. Denn der Mann hat ja fraglos, um auf den Balkon zu
 gelangen, bei seiner Heimkehr die Leine benutzt, ist dann bei
@@ -838,7 +838,7 @@ Es war fünf Uhr morgens, als uns ein Auto zunächst
 nach dem Hauptbahnhof brachte. Hier betraten wir den
 Wartesaal, verließen ihn aber sogleich wieder durch die gegenüberliegende
 Tür und fanden ein zweites Auto, mit dem wir
-nach dem bekannten, am Oere-Sund gelegenen Bade Klampenborg
+nach dem bekannten, am Öre-Sund gelegenen Bade Klampenborg
 hinausfuhren. Dieses ist von Kopenhagen 10 Kilometer
 etwa entfernt, hat aber sehr günstige Eisenbahnverbindung
 dorthin. Wir mieteten uns als Maler in einem
@@ -1384,7 +1384,7 @@ beiden Fischer wußten nicht, worum es sich bei dieser Fahrt
 handelte, fragten auch nicht weiter. Sie erhielten für jeden
 Tag 100 Kronen. Das genügte ihnen.
 
-Die Insel Saltholm liegt im Oere-Sund 30 Kilometer
+Die Insel Saltholm liegt im Öre-Sund 30 Kilometer
 südlich von Klampenborg, ist 15 qkm groß, größtenteils unbewohnt
 und wird nur im Sommer als Weideland benutzt.
 Das einzige Dorf Holmegd befindet sich an der Nordostküste.
@@ -1465,7 +1465,7 @@ Dinge, bis er dann plötzlich leise herausplatzte:
 »Herr Harst, mir ist es ganz unbegreiflich, wie der Albatros
 versenkt worden sein kann! Und gerade noch dort
 zwischen den Inseln. Was hatte die Jacht dort zu suchen? —
-Ueberhaupt — die ganze Katastrophe ist mir so unverständlich,
+Überhaupt — die ganze Katastrophe ist mir so unverständlich,
 daß ich vor einem unfaßbaren Rätsel stehe.«
 
 Harst rief dem jüngeren Göllpaart zu, er solle seine Ziehharmonika

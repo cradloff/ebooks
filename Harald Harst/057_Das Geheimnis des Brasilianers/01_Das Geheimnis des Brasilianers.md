@@ -14,7 +14,7 @@ geöffneten Fenster des kleinen Salons der Jacht drang
 die erquickende Abendluft herein.
 
 Wir drei — Harst, Banfy und ich, saßen um den Tisch
-herum. Ueber uns brannte die elektrische Krone mit ihren
+herum. Über uns brannte die elektrische Krone mit ihren
 drei Birnen.
 
 Wir lehnten behaglich in unseren Korbsesseln und
@@ -298,8 +298,8 @@ uns morgen nicht mehr den Zutritt verwehren.«
 der Hand hatte!« meinte ich nachdenklich. »Das sieht gerade
 so aus, als ob er sich häufiger »verändert«.«
 
-»Allerdings. Das sieht so aus. Er hat Uebung darin.
-Und wer in solchen Dingen Uebung hat, dürfte kein gewöhnlicher
+»Allerdings. Das sieht so aus. Er hat Übung darin.
+Und wer in solchen Dingen Übung hat, dürfte kein gewöhnlicher
 Sterblicher sein. Unser Kutscher wußte uns zu
 erzählen, Chalpin sei Privatgelehrter. Hinter einem solchen
 Gummi-Beruf, denn der Begriff Privatgelehrter ist sehr
@@ -623,7 +623,7 @@ In fünf Minuten ist mein schöner Bart futsch.«
 Die Matrosen gingen hinaus
 
 »Morris, Sie rudern mit dem Beiboot an Land und
-melden den Ueberfall der Polizei,« ordnete Harald weiter
+melden den Überfall der Polizei,« ordnete Harald weiter
 an. »Niemand darf unsere Komödie durchschauen. Es
 handelt sich hier um eine Sache, die mit allergrößter Vorsicht
 angepackt werden muß.«
@@ -657,7 +657,7 @@ unschädlich gemacht.
 »Was denn?« fragte Banfy.
 
 »Das Motiv, lieber Käpten, — der Grund zu dem
-Ueberfall auf uns. Es gibt hier eben Leute, die ein verdammt
+Überfall auf uns. Es gibt hier eben Leute, die ein verdammt
 schlechtes Gewissen haben und die sich sofort, als sie
 diese Kabeldepesche lasen, richtig zusammenreimten, daß
 diese Atlanta hier Harsts Atlanta ist und daß Horster und
@@ -841,7 +841,7 @@ Zahn fühlen. Wir sind nach Pernambuco gekommen, um
 dem Geheimnis des Brasilianers, des Piraten Om...
 nachzuspüren, und haben hier nun andere Arbeit gefunden. —
 <@pagebreak/>
-Uebrigens eine Frage, mein Alter. — Ist Dir bei dem
+Übrigens eine Frage, mein Alter. — Ist Dir bei dem
 Namen Selville nichts aufgefallen?«
 
 Ich dachte nach. Dann kam mir die Erleuchtung.
@@ -875,7 +875,7 @@ Ich saß neben dem Krankenlager und las die Morgenzeitung.
 Mehrere Boote umrundeten dauernd die Atlanta.
 Die Neugierigen hatten zum Teil Kodaks mit und knipsten
 den Kranken. Um 9 war auch ein Polizeibeamter erschienen
-und hatte Harst und mich über den Ueberfall vernehmen
+und hatte Harst und mich über den Überfall vernehmen
 wollen. Ich fertigte ihn jedoch auf dem Vorderdeck ab.
 Zwei Zeitungsreportern gegenüber wurde ich saugrob.
 
@@ -1235,7 +1235,7 @@ Seitenausgang gelangten wir drei auf eine enge Gasse, in
 der nur Lagerspeicher standen. Die Gasse war leer. Nur
 ein Wagen mit zwei Maultieren bespannt wartete auf uns.
 Der Kutscher, ein Mulatte, peitschte sofort auf die Pferde
-ein. Der Wagen hatte ein Oeltuchverdeck und ebensolche
+ein. Der Wagen hatte ein Öltuchverdeck und ebensolche
 Seitenwände.
 
 Ich begriff von alledem nichts — nichts! Hatte
@@ -1303,7 +1303,7 @@ Sie heute früh wieder bei den Selvilles gewesen waren.
 Ich hatte deren Häuschen beobachten lassen. Ich kam nun
 deshalb zu ihnen auf die Atlanta, um Sie beide in eine
 Falle zu locken. Mein Bootsmann ruderte absichtlich so
-langsam. Und der Ueberfall auf Sie beide in der Bodega
+langsam. Und der Überfall auf Sie beide in der Bodega
 hatte nur den Zweck, Ihre Pistolen unschädlich zu machen,
 Sie aber anderseits auch auf den Kutter hier zu verschleppen,
 wohin Sie mir auch folgten weil Sie sich noch im Besitz

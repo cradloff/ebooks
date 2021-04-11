@@ -28,7 +28,7 @@ Sträflingsinsel ansehen.«
 verboten. Aber mit Ihren beiden machen wir gern eine
 Ausnahme. Der Kapitän des Regierungsdampfers wird
 Befehl erhalten, Sie mitzunehmen, falls Sie es nicht vorziehen,
-Ihre Jacht Atlanta zur Ueberfahrt dorthin zu benutzen.
+Ihre Jacht Atlanta zur Überfahrt dorthin zu benutzen.
 Ich würde Ihnen dann einen Ausweis für den
 Gouverneur der Insel mitgeben.«
 
@@ -209,7 +209,7 @@ meinte. Es ist ein sehr eleganter Herr, dieser Wendwoord.«
 »Wir kennen ihn. Grüßen Sie ihn von uns und
 sprechen Sie ihm mein Bedauern aus, daß ich leider nicht
 Zeit habe, ihm irgendwie zu helfen, wenigstens jetzt nicht.
-Uebermorgen treffe ich hier wieder ein. Sollte die Polizei
+Übermorgen treffe ich hier wieder ein. Sollte die Polizei
 in dieser Angelegenheit bis dahin nichts ausgerichtet haben,
 dann werde ich sie nachprüfen, obwohl derartige Fälle mich
 kaum interessieren.« —
@@ -260,7 +260,7 @@ Harald legte einen der Briefe und die Skizze, die er
 Chalpin abgenommen hatte, auf das weiße Tischtuch.
 Banfy und ich rückten näher.
 
-»Ich will hier zuerst den Brief in deutscher Uebersetzung
+»Ich will hier zuerst den Brief in deutscher Übersetzung
 wiedergeben:
 
 <p class="right">2. Juli 1801.</p>
@@ -739,7 +739,7 @@ genialen Hochstapler hier zu beginnen.
 Saalborg drückte Harst die gefesselte Hand.
 
 »Also abgemacht! Schade um Ihr Geld, Herr Harst.
-Uebrigens darf Ihr Freund Schraut Ihnen bei dieser Jagd
+Übrigens darf Ihr Freund Schraut Ihnen bei dieser Jagd
 natürlich helfen. Das ist für mich nicht weiter störend.«
 
 Er stand auf. »Ich werde Ihnen jetzt Jonathan als
@@ -772,7 +772,7 @@ Wir knoteten uns nun gegenseitig die Fesseln auf.
 Der alte Banfy war so vollgepfropft mit Wut, daß er
 nicht mal fluchen konnte.
 
-»Aergern Sie sich nicht, Käpten,« tröstete Harst ihn.
+»Ärgern Sie sich nicht, Käpten,« tröstete Harst ihn.
 »Dieser Saalborg hält sein Wort, Sie werden Ihre Jacht
 nicht verlieren. John,« wandte er sich an unseren jüngsten
 Matrosen, »hilf Hull, ein Feuer anzuzünden. Kocht Tee.
@@ -853,12 +853,12 @@ Vorderladerschießwaffe benutzt. Das zeigen die versengten Stellen
 und die schwarzen Pulverfleckchen. Es ist die Nummer
 von der Jacke eines Sträfings. Man erkennt noch die
 Zahl 188. Es sind Sträflinge aus Noronha, die dort sich
-verborgen halten. Sie können meiner Ueberzeugung nach
+verborgen halten. Sie können meiner Überzeugung nach
 erst gestern von Noronha entwichen sein. Wären sie schon
 früher entwichen, hätte der Polizeipräfekt in Pernambuco
 uns gegenüber dies wohl erwähnt. Er betonte doch,
 daß eine Flucht aus Noronha den dort Internierten infolge
-der strengen Ueberwachung ganz unmöglich gemacht
+der strengen Überwachung ganz unmöglich gemacht
 sei. Trifft meine Vermutung, daß diese Sträflinge erst
 gestern entflohen sind, zu, so wird sehr bald ein Dampfer
 hier erscheinen und die Insel absuchen. Ich wundere mich,
@@ -873,7 +873,7 @@ entwichen sein?«
 »Weil, wären sie vorgestern entwichen, die Polizeibehörden
 der Hafenstädte bereits Nachricht erhalten hätten.
 Die Sträflingskolonie verfügt fraglos über ein paar schnelle
-Motorboote, schon zu Ueberwachungszwecken. Ein Motorboot
+Motorboote, schon zu Überwachungszwecken. Ein Motorboot
 kann in fünf Stunden den nächsten brasilianischen Hafen,
 und das wäre Macau, erreichen. Der Telegraph hätte
 die Flucht dann weiter gemeldet.«
@@ -886,7 +886,7 @@ Sache dann?« fragte ich gespannt.
 es sind nicht Sträflinge, und die Sträflingsnummer
 ist auf andere Weise hierhin geraten. Zweitens: die Sträflinge
 haben ihre Flucht so schlau angefangen, daß die
-Ueberwachungsbeamten es für ausgeschlossen halten, die Leute
+Überwachungsbeamten es für ausgeschlossen halten, die Leute
 könnten sich hierher gewandt haben. — Aber — bitte —
 rieche!«
 
@@ -970,10 +970,10 @@ Harald suchte wieder nach Spuren. Es gehörte seine
 Geduld dazu, diese sorgfältig verwischten Fährten zu
 finden, die zu einem uralten, riesigen Baume führten, der
 dicht an dem Dornendickicht stand. Die mächtigen wagerechten
-Aeste dieses tropischen Riesen waren bis zu fünfzehn
+Äste dieses tropischen Riesen waren bis zu fünfzehn
 <@pagebreak/>
 Meter lang. — Harald half mir hinauf. Dann balancierte
-er mir voran auf einem der Aeste über den Dornenwall
+er mir voran auf einem der Äste über den Dornenwall
 hinweg. Man konnte sich an den herabhängenden
 Zweigen festhalten, und so kamen wir denn glücklich bis an
 eine lichtere Stelle der Baumkrone, sahen nun schräg unter
@@ -1012,7 +1012,7 @@ worden sind und die wieder abgeholt werden sollen?!«
 froh, daß sie dort an der Bucht in besserer Luft lagern als
 wir hier. Rum ist gut gegen das Gelbfieber.« Er führte
 die Flasche an den Mund. Dann gähnte er. »Ich werde
-jetzt ebenfalls schlafen, Sechsundachtzig. Uebernimm die
+jetzt ebenfalls schlafen, Sechsundachtzig. Übernimm die
 Wache. Obwohl sich nie und nimmer jemand hierher verirren
 wird.«
 
@@ -1341,7 +1341,7 @@ geholt. Meine beiden Verbündeten sind Schurken,
 wollten mich zwingen, auch noch die beiden anderen Tonnen
 beiseite zu schaffen. Ich habe diesen Halunken ein Betäubungsmittel
 in den Rum geschüttet, nachdem ich zum Schein
-auf ihre habgierigen Pläne eingegangen war. Uebergeben
+auf ihre habgierigen Pläne eingegangen war. Übergeben
 Sie sie der Polizei. Beide sind lange gesuchte Verbrecher.
 — Sie werden mit der Atlanta die Bucht erst verlassen können,
 nachdem die Brandung sich beruhigt hat. Inzwischen

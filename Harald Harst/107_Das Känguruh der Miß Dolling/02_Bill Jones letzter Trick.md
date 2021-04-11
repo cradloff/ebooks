@@ -258,7 +258,7 @@ der mich sofort aufhorchen ließ. Meine Blicke wanderten
 zu dem Großzüchter hin, der vor uns an einen jungen Grasbaum
 lehnte. Und neben Chester Dolling wieder stand ein
 Mann, der mit dem Kollegen Goddlepy auch nicht die Allergeringste
-Aehnlichkeit hatte: ein grauhaariger, bärtiger
+Ähnlichkeit hatte: ein grauhaariger, bärtiger
 Alter, sonnverbrannt, in die Tracht der australischen Farmaufseher
 gekleidet...
 
@@ -381,7 +381,7 @@ gestopft, hatte uns den Rücken zugekehrt, lief nun wie gehetzt
 durch die Büsche davon.
 
 Der kleine Kollege Goddlepy und ich waren so starr
-vor Ueberraschung, daß wir lediglich Harst anschauten, was
+vor Überraschung, daß wir lediglich Harst anschauten, was
 der nun wohl tun würde.
 
 Und Harald..., — Harald bückte sich, hob den zur
@@ -773,7 +773,7 @@ schöne Aussicht.
 Und doch: seine Liebenswürdigkeit gegenüber Chester
 Dolling, diesem alles in allem recht fragwürdigen Herrn,
 war äußerst verfänglich. Es war ein Zuviel dabei — ein
-Uebermaß von gut gespielter Harmlosigkeit!
+Übermaß von gut gespielter Harmlosigkeit!
 
 Dolling merkte nichts. Er taute jetzt geradezu auf,
 wurde außerordentlich gesprächig und beinahe vergnügt. Er
@@ -837,7 +837,7 @@ Dann — ja, das war das Knarren einer Diele über
 meinem Zimmer gewesen! Ein Knarren, das mit dem
 dumpfen langsamen Tapp — Tapp — Tapp — zusammenhing...
 
-Ueber mir — —!! Ueber mir — —!!
+Über mir — —!! Über mir — —!!
 
 Aber — dort war doch nur der Bodenraum. Dort
 war nicht einmal die Dienerschaft untergebracht. Das
@@ -1062,7 +1062,7 @@ und der Waschtisch wies eine ganze Batterie
 Fläschchen, Büchsen und andere Dinge auf, wie sie nur eine
 Dame benutzt.
 
-Zu meiner namenlosen Ueberraschung sagte Harald
+Zu meiner namenlosen Überraschung sagte Harald
 <@pagebreak/>
 dann mit erhobener Stimme: »Miß Dolling, bitte, verlassen
 Sie Ihr Versteck. Wir sind die beiden Deutschen, von
@@ -1140,7 +1140,7 @@ gleichgültig an der Tür.
 
 »Her mit dem Gelde, Mr. Dolling,« sagte er nun
 schroff. »Ah — da liegen die Lappen ja schon bereit.
-Uebrigens — wie wär’s, wollen Sie mir die Juwelen
+Übrigens — wie wär’s, wollen Sie mir die Juwelen
 nicht abkaufen?! Für 50 000 Pfund sollen Sie sie haben!«
 
 Dolling hatte ihm das Paket Banknoten schon gereicht.

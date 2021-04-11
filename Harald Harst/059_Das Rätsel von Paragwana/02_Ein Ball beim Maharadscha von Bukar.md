@@ -103,7 +103,7 @@ Ich verstand. »Also ist uns doch jemand nachgeschlichen,«
 meinte ich. »Ich wußte es ja!«
 
 »Das merkwürdige dabei ist, daß die Person uns
-erst von der Eisenbahnbrücke an folgte, mein Alter. Ueberlege
+erst von der Eisenbahnbrücke an folgte, mein Alter. Überlege
 Dir: der Spion, ob Weib, ob Mann — denn in der
 <@pagebreak/>
 Finsternis sah ich nur einen dunklen Schatten, kann unmöglich
@@ -221,7 +221,7 @@ dort vergessen — scheinbar! Da — ging mir ein Licht auf.«
 gewechselt — im Waschraum —«
 
 »Das hat er. Und den Hühnerkorb brauchte er nicht
-mehr. Uebrigens war nicht ein einziges Huhn darin.«
+mehr. Übrigens war nicht ein einziges Huhn darin.«
 
 »So?!«
 
@@ -260,10 +260,10 @@ Wir blickten uns argwöhnisch um. Nur eine Ziege
 stand in der Nähe. Daneben saß ein altes Weib, hielt sie
 am Stricke fest.
 
-Und dann — dann kam die Ueberraschung.
+Und dann — dann kam die Überraschung.
 
 Der Elfenbeinschnitzer murmelte in tadellosem Englisch,
-allerdings dabei gegen das Uebel des Stotterns ankämpfend:
+allerdings dabei gegen das Übel des Stotterns ankämpfend:
 
 »Master Harst, Sie gestatten, daß ich mich vorstelle:
 <@pagebreak/>
@@ -628,7 +628,7 @@ So — das wäre alles, was ich Ihnen zu unterbreiten
 hätte. — Noch eins: Sie werden fragen, weshalb ich nach
 Allahabad fuhr, als ich aus dem India-Basar Kenntnis
 von dem Perlenketten-Diebstahl erhielt, der also trotz Braxlers
-Gegenbemühungen doch so etwas an die Oeffentlichkeit
+Gegenbemühungen doch so etwas an die Öffentlichkeit
 freilich nur in Form von unsicheren Gerüchten, gedrungen
 ist. — Nun, die Antwort lautet: Ich reise aus Berufsinteresse
 dorthin! Die Perlenkette ist etwa eine Million Mark
@@ -958,7 +958,7 @@ blauen Auge davonkommen. Auch hier hat ja Miß
 Billham ihre Malerhändchen im Spiel. Und — sie kennt
 kein Erbarmen. — Das Telephongespräch mit dem Maharadscha
 muß im Residenzschloß in Bukar belauscht worden
-sein. Anders ist dieser Ueberfall nicht zu erklären. Unsere
+sein. Anders ist dieser Überfall nicht zu erklären. Unsere
 Gegner wußten eben, daß die Atlanta die Gogra aufwärts
 fuhr.« —
 
@@ -1006,7 +1006,7 @@ Und nun riß man uns von hinten die Decken von den
 Köpfen.
 
 Ein Blick in die Runde genügte: Harst saß rechts neben
-mir: wir befanden uns in einem durch Oellampen matt erleuchteten
+mir: wir befanden uns in einem durch Öllampen matt erleuchteten
 Höhlentempel.
 
 <h2>4. Kapitel.</h2>
@@ -1258,7 +1258,7 @@ und wir beide saßen in des Fürsten modern eingerichtetem
 Arbeitszimmer in weichen Klubsesseln und genossen die
 Verdauungszigarre.
 
-Bisher hatte Harst nichts von dem Ueberfall durch die
+Bisher hatte Harst nichts von dem Überfall durch die
 Flößer erwähnt, hatte auch mit der lustigen Miß Billham,
 die als einzige Frau an dem Diner teilgenommen hatte,
 harmlos gescherzt und mir gelegentlich zugeflüstert: »Das
@@ -1271,7 +1271,7 @@ wir nämlich überhaupt nicht gekommen —«
 
 Er erzählte kurz, was sich auf dem Flusse und in dem
 Grottentempel abgespielt hatte, tat dabei so, als wüßte er
-nicht, von wem dieser Ueberfall ausgegangen wäre.
+nicht, von wem dieser Überfall ausgegangen wäre.
 
 Basava Pur und Knoxter sagten zunächst gar nichts.
 Sie waren derart überrascht, daß sie Harst lediglich ungläubig

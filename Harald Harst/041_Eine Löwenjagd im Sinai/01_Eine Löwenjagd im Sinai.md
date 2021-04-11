@@ -66,7 +66,7 @@ der Bewohner jenes bisher unbekannten Klosters war, der Sie
 an den Harem eines indischen Würdenträgers verschachern
 wollte?! Haben Sie das Teehaus in Bhopal schon vergessen?!
 — Außerdem, Mylady: aus unserem heutigen Gespräch habe
-ich die Ueberzeugung gewonnen, daß in jenem Koptenkloster
+ich die Überzeugung gewonnen, daß in jenem Koptenkloster
 Dinge vorgehen, die noch weit ärger sind, als ich bisher vermuten
 konnte. Nur deshalb bleibe ich so hartnäckig bei meinem
 Entschluß, morgen früh Ihnen für einige Zeit lebewohl
@@ -199,7 +199,7 @@ also in aller Ruhe und Behaglichkeit dahinreiten, womit
 nicht gesagt sein soll, daß wir nicht doch so vorsichtig wie immer
 waren. Diese Vorsicht, dieses stete Umherspähen und Beobachten
 wird Leuten, die zumeist von Gefahren umlauert sind
-und jeden Moment mit einer Ueberraschung rechnen müssen,
+und jeden Moment mit einer Überraschung rechnen müssen,
 bald zur zweiten Natur. —
 
 Gegen 1 Uhr wurde die Hitze unerträglich. Auch dieser
@@ -474,7 +474,7 @@ Eisenplatte benagelt, hatte aber in der Mitte einen kleinen
 Sehschlitz.
 
 »Hm — das Fleisch ist bereits zerkleinert,« meinte Harst.
-»Sehr zuvorkommend! Uebrigens — meine Uhr haben die
+»Sehr zuvorkommend! Übrigens — meine Uhr haben die
 Leute mir doch gelassen. Es scheint hier also kein Taschenuhrenmangel
 zu herrschen. Es ist jetzt genau 2 Uhr nachmittags.«
 Er zog die Uhr auf. Sie hatte ein Achttage-Werk.
@@ -539,14 +539,14 @@ folgendes:
 > »So soll es zum Beispiel im Nordteile des Sinai ein
 Kloster geben, eine Gründung von Koptenmönchen.
 Die Kopten sind bekanntlich die christlichen Nachkommen
-der alten Aegypter, haben ihr besonderes Bekenntnis und
+der alten Ägypter, haben ihr besonderes Bekenntnis und
 leider sehr wenig angenehme Charaktereigenschaften. Dieses
 Kloster soll in einem großen, völlig unzugänglichen Tale liegen.
 Die Bewohner dürfen es nie verlassen. Was an alldem
 wahr ist, konnte bisher nicht nachgeprüft werden.«
 
 Dann wurde im folgenden Abschnitt eine zweite, ebenso
-geheimnisvolle Oertlichkeit genannt: eine Oase Fartah, in der
+geheimnisvolle Örtlichkeit genannt: eine Oase Fartah, in der
 sich die Ruinen einer Stadt aus der ältesten ägyptischen Kulturepoche
 befinden sollten. Ich hatte die Angaben über diese
 Oase erst etwa zur Hälfte gelesen, als ich plötzlich erschrocken
@@ -573,7 +573,7 @@ Und dann — dann geschah etwas, das mir zunächst völlig
 unverständlich blieb. Ich stand dicht am Tische, — also jetzt
 auch dicht an der Tür. Plötzlich flog das Schiebefenster auf.
 <@pagebreak/>
-Ein Bündel wurde durch die Oeffnung gestopft, fiel zu uns
+Ein Bündel wurde durch die Öffnung gestopft, fiel zu uns
 hinein. Für einen Augenblick erschien ein braune Gesicht in
 dem Türausschnitt. Der Mensch riß den Mund auf. Ein paar
 Silben brachte er noch über die Lippen. Aber ein wildes Geheul
@@ -671,7 +671,7 @@ Mitternacht verstummten diese. Trotzdem warteten wir noch
 bis 4 Uhr morgens. Inzwischen hatte Harald mir erklärt,
 <@pagebreak/>
 er sei fest überzeugt, daß nur Scheich Umri Schomar mit seinen
-Leuten diesen Ueberfall unternommen haben könne, wahrscheinlich
+Leuten diesen Überfall unternommen haben könne, wahrscheinlich
 aus Rache dafür, weil die Polizei ihn so hartnäckig
 verfolgt hatte.
 
@@ -730,7 +730,7 @@ Sportanzüge unter Steinen und legten Eingeborenenkleidung
 an, — auch hellbraune Mäntel mit Kapuzen.
 
 Dann ging es weiter. Harald orientierte sich lediglich
-nach dem Kompaß. Ich hatte sehr bald die Ueberzeugung gewonnen,
+nach dem Kompaß. Ich hatte sehr bald die Überzeugung gewonnen,
 daß unser Ziel nicht etwa Schloß Medsur wäre. Ich
 glaubte zuerst, wir würden von dort aus die Fährte der Räuber
 verfolgen. Harst deshalb zu befragen, war zwecklos.
@@ -817,7 +817,7 @@ waren, die Lady Lydia befreit hätten. Er habe mit unserem
 Erscheinen gerechnet, da er sich leicht zusammengereimt
 hätte, daß ich den hier umgehenden Gerüchten von einem verborgenen
 Kloster nachgehen würde. — Pater Christomas ist
-entsetzt über den ruchlosen Ueberfall auf Schloß Medsur. Er
+entsetzt über den ruchlosen Überfall auf Schloß Medsur. Er
 will uns helfen, die beiden geraubten Frauen den Händen
 Scheich Umris zu entreißen.«
 
@@ -856,7 +856,7 @@ einem gutgepflegten Wege dem am anderen Ende des etwa
 eine halbe Meile langen Tales gelegenen, aus Granitquadern
 erbauten Kloster zuschritten, so einiges über dessen Gründung,
 die im Jahre 115 nach Christi Geburt durch Kopten erfolgte,
-die aus Aegypten vertrieben worden waren. Jetzt hatte das
+die aus Ägypten vertrieben worden waren. Jetzt hatte das
 <@pagebreak/>
 Kloster 21 Insassen; außerdem gehörten dazu noch acht
 Koptenfamilien, die in den Nebengebäuden wohnten.
@@ -952,7 +952,7 @@ tadellos erhalten war.
 
 »Das Kreuz muß eine ganz besondere Bedeutung haben,
 mein Alter,« sagte Harald jetzt. »Der Schlangenstab war
-im alten Aegypten das Sinnbild der Zauberei, der Löwe das
+im alten Ägypten das Sinnbild der Zauberei, der Löwe das
 <@pagebreak/>
 der weltlichen Macht und der Totenkopf das der Unvergänglichkeit.
 Ich behaupte, die Inschrift soll eine Art Geheimschrift
@@ -1410,7 +1410,7 @@ an die Fugen zwischen den Quadern.
 Da — plötzlich trieb ein Luftstrom, der aus einer Fuge
 herausdrang, das Flämmchen zur Seite. An dieser Stelle gab
 <@pagebreak/>
-es also eine Oeffnung nach einem Nebenraum. — Harald versuchte
+es also eine Öffnung nach einem Nebenraum. — Harald versuchte
 auf dieselbe Weise festzustellen, wo sich hier der Rand
 einer Geheimtür befinden mußte. Das Flämmchen erfüllte
 seinen Zweck. Wir wußten nun: es gab eine Verbindung nach
@@ -1589,7 +1589,7 @@ Eine Stunde später stießen wir auf eine Patrouille des
 Kamelreiterkorps. Und wieder eine halbe Stunde drauf begrüßten
 wir den Hauptmann Mac Lean vom Kamelreiterkorps,
 den wir von Suez her kannten. Vierzig Leute hatte er
-mit. Unsere Boten hatten die Meldung von dem Ueberfall
+mit. Unsere Boten hatten die Meldung von dem Überfall
 auf Schloß Medsur richtig überbracht. — Morgens lebten von
 den Beduinen und den Banditen nur noch 18 Mann. Der
 »Prior« war schwer verwundet. Er bestätigte Haralds Annahme:
@@ -1601,7 +1601,7 @@ Hauptmann Mac Lean machte kurzen Prozeß: er ließ zwei
 Stunden drauf auch den Rest der Bande erschießen. —
 
 Lady Lydia gab offen zu, daß sie mit Hilfe des Hausmeisters
-Prigrave und ihrer Diener den Ueberfall nur deshalb
+Prigrave und ihrer Diener den Überfall nur deshalb
 inszeniert hatte, um uns zu zwingen, auf einen Besuch des gefährlichen
 Tales zu verzichten. Sie hatte eben gewußt, daß dort
 jetzt Verbrecher hausten. —

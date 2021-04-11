@@ -123,7 +123,7 @@ Das Mädchen ging. Aber es hatte uns beiden einen so eigentümlichen
 Blick zugeworfen.
 
 »Sehr faul,« flüsterte Harst. »Es gibt fraglos eine peinliche
-Ueberraschung. Die Augen der blonden Lisbeth musterten
+Überraschung. Die Augen der blonden Lisbeth musterten
 uns, als wären wir plötzlich als Raubmörder entlarvt.«
 
 Er setzte sich wieder auf den Balkon. — Abermals klopfte
@@ -159,7 +159,7 @@ die Sie angeblich vertreten — angeblich! Unter meinen
 Angestellten gibt es weder einen Hugo Himpel noch einen
 Moses Mackelsohn — verstanden!«
 
-Das war ja eine nette Ueberraschung! Harst hatte gerade
+Das war ja eine nette Überraschung! Harst hatte gerade
 eine Münchener Firma gewählt, weil wir hofften, sie würde
 in Norddeutschland keine Geschäfte machen. Und nun mußte
 gerade der Seniorchef hier in Saßnitz auf uns aufmerksam
@@ -529,7 +529,7 @@ Und am folgenden Abend ging dann die Reise los — gen
 Saßnitz. Wir hatten Schlumps Papiere mit, und der inzwischen
 in Samtens eingetroffene Karl war der älteste Sohn,
 ich Frau Olga Schlump, und Harst der Besitzer des Zirkus
-»Kolossal«. Unser Aeußeres entsprach ganz unseren Rollen
+»Kolossal«. Unser Äußeres entsprach ganz unseren Rollen
 und unsere Daseinsführung paßten wir nach Möglichkeit der
 der Familie Schlump an.
 
@@ -833,7 +833,7 @@ Oder besser: Sie sollen selbst darauf kommen.
 Denken Sie mal an die Lichtsignale.«
 
 Gehorsam wie meist tat ich’s, freilich von vornherein in
-der Ueberzeugung, daß es zwecklos wäre. Es gehörte ein
+der Überzeugung, daß es zwecklos wäre. Es gehörte ein
 größerer Scharfsinn als der meine dazu, lediglich aus den
 Lichtsignalen die Schlußfolgerung zu ziehen, es handele sich
 um andere Dinge als Schmuggel.
@@ -1153,7 +1153,7 @@ seine seltsame Arbeit verrichten.
 
 Ich wandte mich dem Steilhang zu, kletterte links über
 den niedrigen Zaun und legte mich dann dicht am Rande des
-Abhanges unter ein paar Tannen, deren Aeste ganz tief sich
+Abhanges unter ein paar Tannen, deren Äste ganz tief sich
 herabsenkten. So konnte ich sowohl die See als auch Miskulski
 und das Haus beobachten.
 
@@ -1185,7 +1185,7 @@ Er stand kaum drei Schritt entfernt, nickte mir zu, drohte
 mir aber gleichzeitig mit dem Finger und deutete auf das
 Haus. Das hieß: Marsch — zurück in den Keller.
 
-Ich trat schnell dicht vor ihn. Ueberhastet berichtete ich,
+Ich trat schnell dicht vor ihn. Überhastet berichtete ich,
 daß wir nun einen Gefangenen in Peters bisherigem Gelaß
 hätten.
 
@@ -1355,7 +1355,7 @@ neues Verhör, das Harst mit Klimke und Miskulski vornahm,
 hatte abermals kein Ergebnis. Um zehn erschien der Gemeindevorsteher.
 Er war genau so gespannt, was sich nun in der
 kommenden Nacht ereignen würde, wie ich selbst. Doch Harst
-schwieg sich aus und meinte; er wolle uns die Ueberraschung
+schwieg sich aus und meinte; er wolle uns die Überraschung
 nicht verderben. Wir saßen nun in dem Wohnzimmer mit den
 Fichtenmöbeln und unterhielten uns über alles Mögliche.
 Harst war sehr zerstreut. Als ich eine Bemerkung über diese

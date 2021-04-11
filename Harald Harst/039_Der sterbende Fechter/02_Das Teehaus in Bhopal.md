@@ -114,11 +114,11 @@ Ich zuckte zusammen, als ich das Glas eingestellt hatte.
 Ich glaubte im ersten Moment an eine Sehtäuschung, an
 ein Trugbild, das mir lediglich meine Phantasie vorgaukelte.
 
-Der Mann dort hatte nämlich in allem die größte Aehnlichkeit
+Der Mann dort hatte nämlich in allem die größte Ähnlichkeit
 mit jenen Mumien, die wir in der Grotte gefunden
 hatten, wo wir Rosa Linden gefangen nahmen —!
 
-Ja — die allergrößte Aehnlichkeit! Das war dasselbe
+Ja — die allergrößte Ähnlichkeit! Das war dasselbe
 mönchsartige Gewand, derselbe graue Vollbart, derselbe kahl
 geschorene Kopf mit der dicken Scheitellocke —!
 
@@ -150,7 +150,7 @@ genau verstanden.
 »Kopten-Kloster, mein Alter. Sollten Deine Schulreminiszenzen
 nicht hinreichen, so will ich Dich dahin belehren,
 daß die Kopten die christlichen Nachkommen der alten
-Aegypter sind, die heute noch in Aegypten, im Sudan und
+Ägypter sind, die heute noch in Ägypten, im Sudan und
 in Abessinien in einer Stärke von rund einer Million
 leben.«
 
@@ -426,7 +426,7 @@ bedeckt.
 »Rieche!«
 
 Ich tat es. Das Zeug am Finger riecht etwas nach
-schlechtem Oel und auch wie Teer etwa.
+schlechtem Öl und auch wie Teer etwa.
 
 »Wagenschmiere nennt man das,« lächelte Harald. Ja
 er lächelte! Seine vorhin nicht gerade glänzende Laune hatte
@@ -1037,7 +1037,7 @@ einem fensterlosen Kellerraum, wo mir schon nach den
 ersten Atemzügen beinahe schwindelig wurde.
 
 Achmed ging in eine Art Alkoven, wo eine einzige Holzpritsche,
-mit Kissen bedeckt, stand. Eine stinkende Oellampe
+mit Kissen bedeckt, stand. Eine stinkende Öllampe
 spendete hier spärliches Licht. Wir drei hatten kaum auf
 der Pritsche Platz genommen, als Achmed das Paket öffnete.
 Es enthielt sechs wunderschöne, kleine antike Vasen, offenbar
@@ -1223,7 +1223,7 @@ sollte: man würde uns doch nicht finden!
 
 »Dort vor Ihnen liegt meine Brieftasche, Allan Pimberton,«
 sagte Harald sehr ruhig und beugte den Oberkörper
-etwas vor. »Oeffnen Sie sie. Sie werden darin ein Stück
+etwas vor. »Öffnen Sie sie. Sie werden darin ein Stück
 Seide aus Myladys Mantel finden mit einer Zeichnung
 darauf. Diese Zeichnung, in aller Eile angefertigt, ist in
 ihrer Art ein Meisterstück. — Mylady, ich kann Ihnen

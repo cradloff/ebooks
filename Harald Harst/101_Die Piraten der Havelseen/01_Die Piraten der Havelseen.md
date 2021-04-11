@@ -6,7 +6,7 @@
 <h3>Ein Scherz ...!!</h3>
 
 Die Ereignisse auf den Havelseen in der ersten Julihälfte
-1922 sind für die breitere Oeffentlichkeit bisher Geheimnis
+1922 sind für die breitere Öffentlichkeit bisher Geheimnis
 geblieben.
 
 Für mich besteht kein Grund, dieses unser Abenteuer
@@ -125,7 +125,7 @@ doch offenbar die Polizei nichts erfahren soll, was doch
 ein Skandal ist. Ich will ja nun mit der Geschichte weiter
 nichts zu tun haben. Ich schreib Ihnen das alles hier
 kurz auf, und dann machen Sie, was Sie wollen, Herr
-Harst, nur verraten sie mich nicht. Uebrigens habe ich die
+Harst, nur verraten sie mich nicht. Übrigens habe ich die
 Nummer unseres Wagens verändert. A 13142 ist eine
 Autotaxe. — Ein Ungenannter.
 
@@ -312,7 +312,7 @@ Da wurde an einem der Tische von fünf Personen,
 drei Damen und zwei Herren, unerhört geschlemmt. Der
 Kellner scharwenzelte um die zur Kategorie Raffke gehörigen
 Herrschaften mit jenem Grinsen herum, das eine respektvolle
-Ueberhöflichkeit markieren sollte und doch ebenso
+Überhöflichkeit markieren sollte und doch ebenso
 <@pagebreak/>
 geringschätzig wie frech war. Kellner haben eine feine Witterung
 für die Qualität ihrer Gäste.
@@ -361,7 +361,7 @@ Inwiefern, wird der Leser sehr bald merken.
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Der Ueberfall.</h3>
+<h3>Der Überfall.</h3>
 
 Ganz oben am Stege war eine große weiße Motorjacht
 festgemacht. Der Bootsmann lehnte vorn am Kajütaufbau
@@ -489,7 +489,7 @@ meinte der Geheimrat Hoorst nach einer Weile.
 
 Und — da kam mir die Erleuchtung...:
 
-Ueberfall — — die Piraten!! —
+Überfall — — die Piraten!! —
 
 Es war so. — Die Jacht näherte sich sehr schnell. Sie
 war bedeutend schneller als die Irmgard des Herrn Kießlack.
@@ -556,7 +556,7 @@ den Uferwäldern emporgestiegen...
 
 Und dann redete Herr Otto Kießlack mit gequältem
 Lächeln viel und hastig von einer tollen Wette — daß dieser
-Ueberfall nur ein Spaß gewesen, daß er uns bäte, darüber
+Überfall nur ein Spaß gewesen, daß er uns bäte, darüber
 zu schweigen...
 
 Er redete, widersprach sich, suchte das Erlebnis ins
@@ -623,7 +623,7 @@ rauchte ein paar Züge...
 
 »Wiederholen wir mal, was wir über die Tätigkeit der
 Freibeuter bisher wissen,« sagte er und schob seinen Arm in
-den meinen. »Also erstens: bisher sind vier Ueberfälle zu
+den meinen. »Also erstens: bisher sind vier Überfälle zu
 unserer Kenntnis gelangt, und die Opfer sind Bieseckes,
 Dobberlings, eine uns noch unbekannte Familie und Kießlack-Wurm’s.
 Alle diese Opfer gehören dem mit recht unbeliebten
@@ -645,7 +645,7 @@ hat. Es sind also dieselben Piraten.«
 »Ohne Zweifel.«
 
 <@pagebreak/>
-»Steckt nun Jane Brack hinter diesen Ueberfällen? —
+»Steckt nun Jane Brack hinter diesen Überfällen? —
 Da möchte ich auf den Eilbrief aus Saßnitz hinweisen, mein
 Alter. Bieseckes und Dobberlings sind am Morgen nach
 der Ausplünderung fluchtartig nach Helgoland gereist, wie
@@ -658,7 +658,7 @@ Wozu schrieb man den Eilbrief?«
 möchte ich ...«
 
 »... annehmen, daß Jane Brack irgendwie Kenntnis
-von diesen Ueberfällen erhalten hat und daß sie den Eilbrief
+von diesen Überfällen erhalten hat und daß sie den Eilbrief
 veranlaßte, um — ja, wozu? Strenge Dein Hirn etwas an!
 Denke an den Zettel, den sie uns zurückließ, bevor sie mit
 den ihrigen floh. Sie versprach darin, ein neues Leben anzufangen,
@@ -672,7 +672,7 @@ dafür.«
 
 »So?! Und welche denn?«
 
-»Ueberaus wichtige. Ich kenne die Piraten bereits!«
+»Überaus wichtige. Ich kenne die Piraten bereits!«
 
 Kein Wunder, daß ich stehen blieb, — gerade vor einem
 der Cafees an der Gedächtniskirche...
@@ -744,9 +744,9 @@ die Piraten sind, lieber Alter?«
 »Allerdings.«
 
 »Bei der ganzen Geschichte ist eins am rätselhaftesten:
-weshalb zeigen die Ausgeplünderten die Ueberfälle nicht
+weshalb zeigen die Ausgeplünderten die Überfälle nicht
 <@pagebreak/>
-an?! Und — wie wissen sie, daß ein solcher Ueberfall auch
+an?! Und — wie wissen sie, daß ein solcher Überfall auch
 lohnt? Wegen ein paar Ringen und Brieftaschen werden
 sie doch nicht so viel riskieren!«
 
@@ -1185,7 +1185,7 @@ Kießlack war jetzt ganz und gar ölige Liebenswürdigkeit.
 
 »Sie können verschwinden,« sagte Harald dann zu dem
 Diener. »Ich rate Ihnen aber nochmals: schweigen Sie!!
-Diese Dinge hier sind nicht für die Oeffentlichkeit.«
+Diese Dinge hier sind nicht für die Öffentlichkeit.«
 
 So waren wir denn mit Otto Kießlack im Keller wieder
 allein. Harald nahm ihm die Laterne ab und ging in
@@ -1193,13 +1193,13 @@ die linke Ecke neben der einen Tür, kniete nieder und
 hob zwei der Fliesen heraus.
 
 »Hier hat der Kerl ein Versteck ausgebuddelt,« erklärte
-er. »Bitte — hier ist auch schon ein Paket. Oeffnen Sie
+er. »Bitte — hier ist auch schon ein Paket. Öffnen Sie
 es mal.«
 
 Das Paket enthielt Uhren, Ringe, Broschen, zwei Perlenketten,
 vier Brieftaschen.
 
-»Die Piratenbeute der ersten drei Ueberfälle,« meinte
+»Die Piratenbeute der ersten drei Überfälle,« meinte
 Harald gleichmütig.
 
 Kießlack schlackerte nur mit dem Kopf. »Ich... ich
@@ -1328,7 +1328,7 @@ Beamten des Polizeipräsidiums...«
 verschwanden. Gestern nun flüsterte mir der... der Pirat
 auf der Irmgard zu, daß er die Akten besäße und uns
 wegen Lebensmittelverfälschung ins Gefängnis bringen
-würde, wenn wir den Ueberfall nicht verschwiegen und noch
+würde, wenn wir den Überfall nicht verschwiegen und noch
 heute auf vier Wochen Berlin verließen...«
 
 »Genau wie die anderen drei...,« warf Harst ein.
@@ -1400,7 +1400,7 @@ und daß ein Mann dieser Jacht so geschickt war, einem
 der Piraten bis hier ins Palais zu folgen, daß er weiter
 dann sah, wie der Pirat die Beute Fräulein von Schnetters
 aushändigte, — schließlich, daß er es am 3ten nach dem
-Ueberfall auf Perschkes ebenso machte und feststellt, wo auch
+Überfall auf Perschkes ebenso machte und feststellt, wo auch
 diese Beute blieb. Heute hat er dann — und das sahen wir
 — die Mauer überklettert und hat diese Beutestücke vom
 2ten und 3ten gestohlen. Als er wieder über die Mauer
@@ -1425,7 +1425,7 @@ Baron der Anstifter dieser Streiche sein.«
 erfahren haben, daß einer der G.&nbsp;m.&nbsp;b.&nbsp;H.-Mitglieder
 die Quittung stets bei sich hatte. Um nun nicht diese Quittung
 ohne weiteres stehlen zu müssen, um vielmehr ihre
-wahren Absichten zu verhüllen, inszenierten sie die Ueberfälle,
+wahren Absichten zu verhüllen, inszenierten sie die Überfälle,
 wobei die Schnetters, die natürlich als Spionin zu
 Ihnen in der Rolle einer Gesellschafterin kam, wacker mitgeholfen
 hat.«

@@ -284,7 +284,7 @@ stutzte, lüftete den Hut.
 
 »Vielleicht Herr Hecker?«
 
-Harst spielte den Ueberraschten. »Allerdings. Mein
+Harst spielte den Überraschten. »Allerdings. Mein
 Name ist Hecker. Aber — «
 <@pagebreak/>
 
@@ -378,7 +378,7 @@ war:
 »Nicht den Finger rühren! Neben Ihnen steht jemand
 mit hiebbereitem Beil! — Ja — wozu kümmern Sie sich auch
 um Dinge, die Sie nichts angehen! Glaube gern, daß Sie auf
-diese Ueberraschung nicht vorbereitet waren.«
+diese Überraschung nicht vorbereitet waren.«
 
 Ich schielte nach links. — Da stand wirklich ein Mensch
 mit erhobenem Arm.
@@ -597,7 +597,7 @@ Junggeselle. Er hatte gerade das internationale Fahndungsblatt
 studiert.
 
 Als er uns erkannte — und nun kam für uns abermals
-eine nicht schlechte Ueberraschung! — sprang er zurück,
+eine nicht schlechte Überraschung! — sprang er zurück,
 riß einen Revolver aus der Tasche und rief:
 
 »Keine Bewegung, oder ich schieße! Ich weiß längst
@@ -719,7 +719,7 @@ Kohlenkahn unternahm, weiß ich noch nicht. Eins aber
 wußte ich bereits, als Sie mir sagten, wie wüst es in der
 Kajüte aussah: daß diese Kajüte »künstlich« hergerichtet war!
 — Sie verstehen: es sollte der Eindruck erweckt werden, ein
-Kampf hätte dort stattgefunden! — Ueberlegen Sie, Lundström:
+Kampf hätte dort stattgefunden! — Überlegen Sie, Lundström:
 Wenn, was doch am nächsten liegt, ein Teil der Besatzung
 der Brigg, etwa die vier indischen Matrosen gemeutert
 und den Kapitän und den Steuermann ermordet hätten,
@@ -897,7 +897,7 @@ an.
 »Was also?« fuhr dieser fort. »Sehen wir zu, ob wir
 auch das herausbringen. — Na, Schraut, wie wär’s, wenn
 Du nun mal Dein Licht unter dem Scheffel hervorholtest, wohin
-Du es so gern aus Bescheidenheit stellst? Ueberlege Dir:
+Du es so gern aus Bescheidenheit stellst? Überlege Dir:
 was taten die beiden Maskierten in der Kajüte: Sie — suchten
 etwas! — was suchten sie?«
 
@@ -927,7 +927,7 @@ das Schiff, mache dadurch jede Entdeckung meiner Untat unmöglich.«
 
 »— ist nicht der einzige. Es gibt eine ganze Menge, die
 die sich aus dem Verhalten Hollborns <span class="g">nach</span> dem von uns vermuteten
-Ueberfall auf den Löwen von Flandern ableiten lassen.
+Überfall auf den Löwen von Flandern ableiten lassen.
 So nur zum Beispiel die naheliegende Frage: Weshalb
 dringen Hollborn und der andere hier im Hafen von Christiania
 in die Kajüte ein und durchsuchen sie?! Warum taten
@@ -1194,7 +1194,7 @@ vermutete dann, diese Gauner seien per Schiff ausgerückt.«
 Schmidt!«.
 
 Harst schüttelte den Kopf. »Glaube ich nie und nimmermehr.
-Ueberlege Dir doch das, was wir über die Brigg und
+Überlege Dir doch das, was wir über die Brigg und
 den Fischdampfer wissen. Es ist ja als sicher anzunehmen,
 daß Hollborn die Brigg wirklich überfallen hat. Er hat ja —
 ich will dies jetzt nachholen — den Kuxhaven 3 nämlich nur
@@ -1273,7 +1273,7 @@ Schatten der Gebäude bis an das Haus herangeschlichen.
 Keine Menschenseele ringsum; nur wenig erhellte Fenster.
 Wir drückten uns Nr. 21 gegenüber in der Einfahrt eines
 Speichers zusammen und betrachteten das zweistöckige, uralte
-Wohnhaus, neben dem links ein Garten lag. Ueber den
+Wohnhaus, neben dem links ein Garten lag. Über den
 Zaun nach dem Kanal zu hingen Netze. Eine Laterne stand
 gerade vor dem Gärtchen.
 
@@ -1609,7 +1609,7 @@ wurde. So hatte Hollborn Zeit, den Kuxhaven 3 zu mieten,
 mit anrüchigem Gesindel zu bemannen und dem Löwen
 von Flandern aufzulauern. Vielleicht —«
 
-Ueber uns plötzlich eine Stimme: »Nun — wie steht’s
+Über uns plötzlich eine Stimme: »Nun — wie steht’s
 mit der Antwort, Herr Hecker?«
 
 Harst flüsterte Armstrong erst etwas zu, rief dann: »Gut

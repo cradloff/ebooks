@@ -96,7 +96,7 @@ bleiben.«
 So kamen wir zu den Tabletten. Und wir alle auf der
 Atlanta nahmen täglich drei davon, wenn wir auch eine
 halbe Stunde nach Genuß der Dinger alles doppelt sahen
-und Ohrensausen und Uebelkeitsgefühl hatten.
+und Ohrensausen und Übelkeitsgefühl hatten.
 
 Am nächsten Abend besuchten wir Doktor Bemol in der
 bereits 1693 erbauten, riesigen Sternwarte, die mit den
@@ -111,7 +111,7 @@ Platz genommen und eine frische Brasil-Pechnudel zwischen
 die Zähne geschoben hatte, begann er:
 
 »Ich sagte feine Sachen — nämlich einen Leckerbissen
-für Ihr Hirn, bester Harst. — Uebrigens — dieser Whisky
+für Ihr Hirn, bester Harst. — Übrigens — dieser Whisky
 ist gut. Nur das Glas ist zu klein. Ich werde ihn aus der
 Tasse trinken. — Leckerbissen — Tatsache! Ich habe heute
 früh mit dem Fernrohr von der Turmplattform aus etwas
@@ -656,7 +656,7 @@ Antworten, bis Harald festgestellt hatte, daß Sapada offenbar
 während der Anwesenheit des falschen Fürsten sich entfernt
 hatte, — falls er sich überhaupt entfernt hatte, was
 Harst stark bezweifelte, zumal einer der Diener sich auf eine
-Aeußerung Sapadas besann, die etwa gelautet hatte:
+Äußerung Sapadas besann, die etwa gelautet hatte:
 
 »Ich werde die Augen offen halten —« — Dann hatte
 er den Anbau des Palastes verlassen. —
@@ -729,7 +729,7 @@ Mittelfinger.
 
 »Die ganze Hand, das heißt diese Abdrücke von fünf
 Fingerspitzen rühren von einem Manne her, die drei Finger
-von einer Frau,« sagte er. — Uebrigens hatte ich das
+von einer Frau,« sagte er. — Übrigens hatte ich das
 ebenfalls schon erkannt.
 
 »Also Saalborg und seine Begleiterin,« meinte ich.
@@ -754,7 +754,7 @@ Fürsten gezweifelt —«
 er gar vom Garten aus gesehen, wie die beiden die Statue
 herabstürzten, und ist dann in den Palast geeilt, hat an die
 Tür des Saales geklopft, wurde eingelassen und stumm gemacht.
-Uebrigens ein sehr feiner Streich, dieses Zerstören
+Übrigens ein sehr feiner Streich, dieses Zerstören
 der Telephonleitung durch die Statue. So konnte diese
 Zerstörung keinerlei Argwohn erregen und gab anderseits
 dem falschen Fürsten den Vorwand zur schleunigen Weiterfahrt.«
@@ -787,7 +787,7 @@ Sprechen wir über etwas anderes.«
 Während wir noch bei Tisch saßen, kam unser Steuermann
 Morris aus der Stadt zurück und brachte ein frisches
 Extrablatt mit, das über den Mord im Palast Paragwana
-unter der Ueberschrift:
+unter der Überschrift:
 
 > Das Rätsel von Paragwana
 
@@ -800,7 +800,7 @@ der Umstand, daß Harst und ich dem Extrablatt mit keiner
 Silbe erwähnt waren.
 
 Unter diesem Bericht stand noch ein zweiter mit der
-Ueberschrift:
+Überschrift:
 
 > »Großer Juwelendiebstahl im Savoy-Hotel«.
 
@@ -862,7 +862,7 @@ führen.«
 
 »Also Saalborg ist der Dieb?«
 
-»Inspektor Worbler schwört darauf. Uebrigens ein
+»Inspektor Worbler schwört darauf. Übrigens ein
 gräßlicher Mensch! So sehr von sich eingenommen. So
 ganz Beamter! Scheußlich! — Master Harst, ich habe
 Worbler denn auch das Wichtigste verschwiegen.«
@@ -1166,7 +1166,7 @@ Und — wer hatte mir zu trinken gegeben, wer hatte
 geantwortet: »Ich, mein Alter — «
 
 Ich rief mir diese matte, leise Stimme ins Gedächtnis
-zurück, gelangte bald zu der Ueberzeugung, daß es nicht Haralds
+zurück, gelangte bald zu der Überzeugung, daß es nicht Haralds
 Stimme gewesen.
 
 Ich kombinierte ganz richtig: Der Helfer hat Dich im
@@ -1298,7 +1298,7 @@ Lassen wir alles Grübeln. Ich kann noch nicht klar
 denken. Morgen, also nach abermaligem Genesungsschlaf,
 wird es sich zeigen, ob wir schon fähig sind, nach Benares
 zu wandern. Wir werden es nachts tun, werden, falls die
-Atlanta noch da ist, heimlich an Bord gehen. Uebrigens
+Atlanta noch da ist, heimlich an Bord gehen. Übrigens
 hat man uns total ausgeplündert. Wir haben nichts als
 unsere Kleider und Saalborgs Spenden. — Schlafen wir.
 Gute Nacht.«
@@ -1314,7 +1314,7 @@ Vor jedem stand ein Grogglas.
 wenn die Geschichte so weiter geht. Ich habe Harst lieb
 gewonnen, und den Schraut nicht minder. Ich kann nicht
 glauben, daß sie tot sind. Dieser Inspektor Worbler versteht
-nur nicht zu suchen, dieser Aeppelfatzke. Die beiden
+nur nicht zu suchen, dieser Äppelfatzke. Die beiden
 werden irgendwo gefangen gehalten.«
 
 Morris machte gleichfalls ein trübseliges Gesicht und
