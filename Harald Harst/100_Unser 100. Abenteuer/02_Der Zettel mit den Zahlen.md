@@ -130,10 +130,10 @@ es gegen das Licht — ganz wie Harald es getan hatte.
 
 »Ah, wirklich! Ein Kreuz!«
 
-»Mithin wohl die Geheimskizze irgend einer Oertlichkeit,
+»Mithin wohl die Geheimskizze irgend einer Örtlichkeit,
 Jane Brack,« erklärte Harald bedächtig.
 
-Und wieder lachte Orgla kurz auf. »Eine Oertlichkeit!!
+Und wieder lachte Orgla kurz auf. »Eine Örtlichkeit!!
 Das ist eine leere Vermutung! Ich behaupte nach wie
 vor: es ist ein Spielertalisman!«
 
@@ -650,7 +650,7 @@ es wirklich Nummern wären...!«
 »Hausnummern!« meinte ich leise.
 
 »Nein. In ganz Berlin gibt es kein Haus mit der
-Nummer 1500. — Ueberlegen wir: was numeriert man?«
+Nummer 1500. — Überlegen wir: was numeriert man?«
 
 Er begann auf und ab zu gehen.
 
@@ -1149,7 +1149,7 @@ den Posten an der Eingangspforte, ob der blonde Engländer
 soeben weggegangen sei. Der Mann erwiderte, daß
 nur Bartoux den Hof vor ein paar Sekunden verlassen
 habe. Seitdem habe ich Bartoux nicht mehr gesehen,
-ebensowenig Mac Orlen. Uebrigens habe ich dann auch
+ebensowenig Mac Orlen. Übrigens habe ich dann auch
 den zweiten Posten an der Tür des Kontorhauses befragt.
 Er erklärte genau dasselbe: den Engländer habe er nicht
 bemerkt, nur Bartoux sei in großer Eile davongerannt.«

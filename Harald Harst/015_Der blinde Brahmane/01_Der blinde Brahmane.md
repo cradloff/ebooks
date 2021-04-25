@@ -32,7 +32,7 @@ Fabriken, diese Kuppeln der Moscheen! Und dort, mein
 lieber Schraut, dort auf der Südspitze der Halbinsel Malabar
 Hill die berühmten fünf »Türme des Schweigens«, nördlich
 davon der nicht minder berühmte Walkeshar-Tempel.« —
-Eine kurze Pause. Dann: »Uebrigens wird es jetzt für uns
+Eine kurze Pause. Dann: »Übrigens wird es jetzt für uns
 Zeit, hier von Bord zu verschwinden, das heißt, uns so zu
 <@pagebreak/>
 verändern, daß auch Warbattys Geieraugen uns nicht erkennen.
@@ -49,7 +49,7 @@ an. Die Fahrgäste verließen das Schiff; das Ausladen
 des Gepäcks begann; hierbei halfen auch zwei schmierige
 Heizer, deren fettige, rußige Gesichter infolge besonderer, von
 Harst ersonnener Kniffe mit den unsrigen sehr geringe oder
-besser gar keine Aehnlichkeit hatten.
+besser gar keine Ähnlichkeit hatten.
 
 Plötzlich gab Harst mir einen Rippenstoß, als wir gerade
 einen Riesenkoffer auf das Rutschbrett der Ladeluke bugsierten.
@@ -489,7 +489,7 @@ Unter dem weißen Turban hing dem Brahmanen sein
 zottiger Haarwust ins Genick, für den man daheim den Ausdruck
 Weichselzopf gebraucht hätte. Der Heilige schlug unablässig
 mit den Dornen seinen Rücken, ganz unbekümmert
-um die Affen, die mit Aesten, Steinen und Kot nach ihm
+um die Affen, die mit Ästen, Steinen und Kot nach ihm
 warfen.
 
 Harst stieß mich an. — »Da rechts — das sind fraglos
@@ -622,7 +622,7 @@ haben, daß die Kiste gerade Sie und Ihren Freund Schraut
 beherbergte?!« rief er nun. »Der Mensch steht wirklich mit
 dem Bösen im Bunde!«
 
-Harst aß mit Behagen seine Oelsardinen und die Röstschnitten.
+Harst aß mit Behagen seine Ölsardinen und die Röstschnitten.
 
 »Hm — er hat eben gute Augen und einen hellen Kopf,
 Master Anderson,« meinte er. »Als die Kiste mit den vielen
@@ -638,7 +638,7 @@ war für ihn, der hier ja fraglos seine Helfershelfer hat, ein
 leichtes.«
 
 »Nun,« lächelte Anderson, »dafür sitzt er jetzt aber auch
-bereits hinter Schloß und Riegel! Diese Ueberraschung habe
+bereits hinter Schloß und Riegel! Diese Überraschung habe
 ich mir absichtlich bis jetzt aufgespart, Master Harst!«
 
 Harst ruckte zusammen, schaute den Kapitän fragend an
@@ -735,7 +735,7 @@ Lachend hielt er nun Harst seine linke Hand hin. Und
 die hatte fünf echte Finger. Daran war nicht zu deuteln.
 
 »Sie sehen, Master Harst, Sie haben sich durch eine entfernte
-Aehnlichkeit täuschen lassen,« meinte er. »Für mich
+Ähnlichkeit täuschen lassen,« meinte er. »Für mich
 ist es nicht gerade angenehm, mit einem vielfachen Mörder
 verwechselt zu werden. Na — ein reines Gewissen — und so
 weiter.«
@@ -793,7 +793,7 @@ Anderson blieb der Mund offen stehen.
 
 »Ich hoffe nämlich, daß es mir gelungen ist, den echten
 Warbatty zu täuschen,« fuhr Harst fort. »Er wird ohne Frage
-in dieser oder einer der folgenden Nächte in der Ueberzeugung,
+in dieser oder einer der folgenden Nächte in der Überzeugung,
 ich könnte ihm nicht in die Quere kommen, seinen hiesigen
 Plan zur Ausführung bringen. Er dürfte deshalb
 auch mehr denn je überrascht sein, wenn der fußkranke Harst
@@ -1040,7 +1040,7 @@ ich geblieben. Trotzdem — und das ist keine bloße Redensart
 schon Mittel und Wege finden würde, mich auch hier aufzustöbern.
 Ich hatte ja als Harsts Gehilfe schon so zahllose
 Beweise seiner seltenen Fähigkeiten erhalten, daß ich mir
-bei ruhiger Ueberlegung sagte, gerade hier würde es ihm
+bei ruhiger Überlegung sagte, gerade hier würde es ihm
 kaum schwer fallen, mir zu Hilfe zu eilen, zumal er ja hinter
 dem blinden Brahmanen her war, der doch zweifellos mit den
 Leuten, die in diesem Gärtnerhäuschen ihren Schlupfwinkel
@@ -1061,7 +1061,7 @@ kein anderer! —
 Ich kam nicht dazu, diese Gedanken noch weiter auszuspinnen.
 Die Falltür öffnete sich. Und zu mir herab stieg
 — Master Thomas Simpson, der harmlose Kaufmann aus
-Kolombo! — Das war wirklich eine ungeahnte Ueberraschung.
+Kolombo! — Das war wirklich eine ungeahnte Überraschung.
 
 Er trug denselben Anzug wie am Tage vorher, grinste
 mich jetzt höhnisch an, setzte sich auf eine Kiste und zog einen
@@ -1225,7 +1225,7 @@ Harst hockte sich schnell auf das Pflaster dicht
 an einem Hause nieder und tat, als habe er nichts Besseres
 zu tun, als in der gerade aufgehenden Sonne zu faulenzen.
 
-Der kleine Herr, der so sehr viel Aehnlichkeit mit Warbatty
+Der kleine Herr, der so sehr viel Ähnlichkeit mit Warbatty
 hatte, schaute sich sehr mißtrauisch um, bevor er den
 Garten betrat. Der Rikschahfahrer wartete wieder und verzehrte
 ein paar Bananen.
@@ -1326,7 +1326,7 @@ Turmruine —«
 »— ganz recht, — von dort ist der Edelstein unerklärlicher
 Weise verschwunden; ebenso hat sich aber auch die ganze
 Herde der dort hausenden Affen, die die besten Warner vor
-jedem Ueberfall und vor jedem Fremden waren, weiß Gott
+jedem Überfall und vor jedem Fremden waren, weiß Gott
 wohin geflüchtet. Die Tiere sind eben sämtlich weg. Und
 nur deshalb ist es den Mördern auch geglückt, die Brahmanen
 so lautlos abzutun. Diese werden sich eben auf ihre Beschützer,
@@ -1462,7 +1462,7 @@ Harst schaltete seine Taschenlampe ein, ließ den Lichtstrahl
 über die Hände des angeblichen Brahmanen hingleiten.
 
 <@pagebreak/>
-»Verdammt!« schrie er auf. »Ueberlistet — überlistet!
+»Verdammt!« schrie er auf. »Überlistet — überlistet!
 Alle zehn Finger! Sie sind Thomas Simpson, nicht wahr?
 — Wo ist Warbatty? Etwa als Simpson — in Ihrem Anzuge
 — noch in der Steamer Store?«
@@ -1525,7 +1525,7 @@ Sie beide sich retten könnten, vermutete ich nicht im entferntesten.
 und dies nur zu dem Zweck, heimlich für die Affen vergiftetes
 Zuckerbrot ins Gebüsch zu werfen. Ich wußte, daß die
 ganze Herde, wenn erst ein paar krepiert waren, in panischem
-Schreck das Weite suchen und daß dann der Ueberfall auf die
+Schreck das Weite suchen und daß dann der Überfall auf die
 Hüter des »Apfels des Indra« wesentlich leichter sein würde.
 Auf dem Rückwege durch die Irrgänge stieß ich auf die
 Mützenfutterstückchen, setzte sie zusammen — und wußte da

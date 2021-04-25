@@ -171,7 +171,7 @@ dieser Nemo fast regelmäßig bei schwierigen Einbrüchen
 persönlich für Minuten auftauchte, sehr klug durchdachte neue
 Anordnungen traf und wieder verschwand.«
 
-»Ja — ja,« nickte ich — und es war meine ehrliche Ueberzeugung
+»Ja — ja,« nickte ich — und es war meine ehrliche Überzeugung
  — »dieser Mensch muß in seiner Art ein Genie sein.«
 
 Harst durchmaß jetzt sein Arbeitszimmer mit langsamen
@@ -292,7 +292,7 @@ niedergelassen. Wo, wüßte er nicht. Wenn ich mich aber für die Frau
 interessierte sollte ich nur nach Nr. 6 gehen und dort bei der
 alten Gesanglehrerin Hermine Mallinger mein Glück 
 versuchen. — Nr. 6 ist bekanntlich das Haus, in dem Mutter
-Schmidt vier Jahre lang gewohnt hat. — Uebrigens — dort
+Schmidt vier Jahre lang gewohnt hat. — Übrigens — dort
 in dem Likörschrank steht noch eine angebrauchte Flasche
 Bordeaux. Bitte — stärken wir uns.«
 
@@ -328,7 +328,7 @@ allertiefster Verschwiegenheit — keine Seele wüßte bisher
 etwas davon! — erzählte sie mir, daß die Schmidt häufiger bei
 ihr gewesen wäre und daß sie den Eindruck gewonnen hätte,
 die Kneipwirtin wäre weit über das landläufige Maß einer
-Berliner Kaschemmenwirtin hinaus gebildet. — Ueberhaupt,
+Berliner Kaschemmenwirtin hinaus gebildet. — Überhaupt,
 sie war eine merkwürdige Frau, sagte die Mallinger ungefähr.
 Sie hatte so allerlei Gewohnheiten die sie zum Original
 besonderer Art stempelten! — Nun, was die Mallinger
@@ -420,7 +420,7 @@ nämlich Harsts Ermittlungen in Beziehung zu unserem neuesten
 »Fall« bringen — zu dem Namen, dessen Inhaber niemand
 kannte. — Inzwischen hatte ich mir bereits »eine Theorie«
 zurechtgelegt. Und daher antwortete ich ohne Zögern
-und in der Ueberzeugung, das Richtige getroffen zu haben:
+und in der Überzeugung, das Richtige getroffen zu haben:
 »Sie vermuten, daß die Schmidt keine Frau, sondern ein
 Mann ist — unser Mann! Andreas Nemo erschien ja auch
 zuweilen zu den Vereinssitzungen der Kleinen Harmonie als
@@ -676,7 +676,7 @@ wir schon auf das Lokal in der Berliner Straße und seine
 Inhaberin aufmerksam geworden wären. — Ich habe mich diesmal
 gründlich verhauen, so gründlich wie noch nie, und Zenta
 Brixen hatte allen Grund zum Lachen, als ich die große 
-Ueberführungsszene spielte, was ich ohne Schaden für uns tun zu
+Überführungsszene spielte, was ich ohne Schaden für uns tun zu
 können glaubte, da Nemo ja doch bereits durch die Zeitungsnotiz
 vor uns gewarnt ist.«
 
@@ -822,7 +822,7 @@ dem Gedanken, daß er vielleicht gezwungen sein würde, längere
 Zeit die Mitzel und seine Verlobte ohne Nachricht zu lassen;
 er verließ es aber auch zu einem offenbar etwas 
 geheimnisvollen Zweck, über den er selbst Zenta Brixen nichts 
-verraten konnte oder wollte. — Ueber diesen Zweck nachzugrübeln,
+verraten konnte oder wollte. — Über diesen Zweck nachzugrübeln,
 ist unnötig. Wir wären da nur auf bloße Vermutungen
 <@pagebreak/>
 angewiesen — So, und nun die rothaarige Frau und die
@@ -877,7 +877,7 @@ versäumt hat.«
 Er begann wieder im Zimmer mit gesenktem Kopf auf
 und ab zu gehen. — »Ein sehr unangenehmer Zwischenfall,
 dieser Verrat unserer jetzigen Aufgabe und deren Preisgabe
-an die Oeffentlichkeit,« meinte er murmelnd. »Nun hätte ich
+an die Öffentlichkeit,« meinte er murmelnd. »Nun hätte ich
 mir das Angebot an den Menschen der für 10000 Mark
 Nemo-Geheimnisse ausplaudern wollte, schenken können.« Er
 nahm den Berliner Kurier vom Schreibtisch. »Hier steht das,
@@ -1006,7 +1006,7 @@ das nicht gerade sehr für ihn sprach. Der Mitzel tat
 Zenta sehr leid, weil der Bildhauer sie mit allerlei fragwürdigen
 Damen betrog. Er sollte auch oft wüste Gelage in seinem
 Atelier veranstalten, verstand jedoch seinen Leichtsinn
-vor der Außenwelt schlau zu verbergen — Ueber die Rothaarige
+vor der Außenwelt schlau zu verbergen — Über die Rothaarige
 wußte die Mitzel nicht viel anzugeben. Immerhin
 konnte hier die mysteriöse Mutter Schmidt wieder einmal
 eine recht eigenartige Rolle gespielt haben — konnte! Sicher
@@ -1089,7 +1089,7 @@ das sauberer war, als die schmierige Runke voraussehen ließ.
 
 Und um acht Uhr morgens schlich ich um die Scheidewand
 herum und fand meinen Nachbar aufrecht im Bett sitzen.
-Er hatte ganz entfernte Aehnlichkeit mit Heinrich Hinkel,
+Er hatte ganz entfernte Ähnlichkeit mit Heinrich Hinkel,
 dem Diener Schrammels. Und — er legte den Finger auf
 die Lippen und deutet auf die verstellte Tür nach dem
 Nebenzimmer.
@@ -1201,14 +1201,14 @@ Wir drei taten, als unterhandelten wir mit dem Chauffeur.
 Da kamen schon ein Herr, eine junge Dame und ein Mädchen
 mit Häubchen aus dem Hause heraus. Der Herr und das
 Mädchen trugen je einen Koffer, die junge Dame zwei
-Handtaschen und Schirme und Stöcke im Ueberzug — Schilling
+Handtaschen und Schirme und Stöcke im Überzug — Schilling
 rief nun: »Verflucht — auch wieder besetzt! Kommt weiter.«
 — Wir gingen ein paar Schritte. Dann fuhr das Auto langsam
 an. Als es in einer Höhe mit uns war, rissen Schilling
 und Bechert die Türen auf, sprangen hinein. Ich folgte. Und
 Bechert hielt jetzt dem Herrn einen Revolver vor die Brust:
 »Keine Bewegung, Thomas Brixen!« — Für mich war der
-Name keine Ueberraschung mehr. Ich hatte Zenta bereits
+Name keine Überraschung mehr. Ich hatte Zenta bereits
 erkannt.
 
 Was dann folgte, war wie die Bilderreihe eines überhastet
@@ -1309,7 +1309,7 @@ Vater wäre Rentier und wüßte nichts von ihren Beziehungen
 zu Bruckner, nach dem ich baldigst Nachforschungen anstellen
 sollte. Sie ließ mir zwei Zettel da — Nachrichten von Bruckner.
 Ich stellte fest, daß der zweite Zettel gefälscht war, und
-kam notwendig zu der Ueberzeugung der Bildhauer wäre
+kam notwendig zu der Überzeugung der Bildhauer wäre
 ermordet worden. Den gefälschten Zettel hatte nun eine
 rothaarige Frau heimlich in Bruckners Atelier gebracht. Und
 — die wieder aufgelebte Mutter Schmidt sollte jetzt rotes
@@ -1350,13 +1350,13 @@ von fremder Hand, woher sonst der richtige Schlüssel, mit dem
 die Rothaarige sich Zutritt zu dem Atelier verschafft hatte,
 woher auch das Fehlen jeder Nachricht an seine Braut?! —
 Als ich mir alles dies überlegt hatte, fiel mir nun auch eine
-Aeußerung der Mallinger über die Eigentümlichkeiten der
+Äußerung der Mallinger über die Eigentümlichkeiten der
 Schmidt ein. Sie hatte mir gesagt: »Seltsamerweise habe ich
 diese nach links geneigte Kopfhaltung, diese die Worte begleitenden
 Gesten der linken Hand und manches andere nicht immer
 bemerkt, sondern zumeist nur, wenn ich mal die Schmidt
 in ihrem Lokal besuchte, und auch dann nicht regelmäßig.«
-— Als ich mich an diese Aeußerung erinnerte, sagte ich mir
+— Als ich mich an diese Äußerung erinnerte, sagte ich mir
 sofort: hier haben ohne Frage zwei Personen »Mutter
 Schmidt« gespielt, zwei, die sich sehr ähnlich sehen und von
 denen die eine, so unwahrscheinlich es auch sein mag, — ein
@@ -1370,7 +1370,7 @@ mich verkleidet dem neuen Lokal der Mutter Schmidt
 gegenüber ein und versuchte dann, Brixen aus nächster Nähe
 beobachten zu können. Ich hatte Glück: er ging mit Zenta aus,
 und selbst auf die Entfernung hin erkannte ich die außerordentliche
-Aehnlichkeit zwischen der Schmidt und diesem glattrasierten
+Ähnlichkeit zwischen der Schmidt und diesem glattrasierten
 <@pagebreak/>
 Rentier. Nun war ich meiner Sache völlig sicher,
 nun wollte ich aber auch noch alle Nebenumstände, insbesondere
@@ -1402,7 +1402,7 @@ namens Drewki, eben der Vertraute der Schmidt. Die
 drei sprachen unter anderem auch über einen Toten, den sie
 letztens auf dem nahen Kirchhof verscharrt hatten. Ich entnahm
 ihren Reden folgendes: Der Tote war Bruckner. Er
-hatte zufällig die Aehnlichkeit zwischen Mutter Schmidt und
+hatte zufällig die Ähnlichkeit zwischen Mutter Schmidt und
 Brixen entdeckt und war der Wahrheit dann dadurch ganz auf
 die Spur gekommen, indem er sich an Zenta heranmachte und
 sie aushorchte. Von ihm stammt auch eine Anzeige in der

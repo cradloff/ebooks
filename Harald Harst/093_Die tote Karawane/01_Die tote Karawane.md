@@ -183,7 +183,7 @@ Schmuckplatz gegenüber dem Hotel — waren in einen der
 Wege eingebogen.
 
 Jefferson stand plötzlich vor uns. An seinem linken
-Aermel war ein großer Blutfleck, und der helle Stoff war
+Ärmel war ein großer Blutfleck, und der helle Stoff war
 fingerlang aufgeschlitzt. In der Rechten hielt der Oberst
 einen Revolver, den er nun rasch in die Tasche schob.
 
@@ -294,7 +294,7 @@ darauf in der Mitte des Schmuckplatzes vor einem Steinhäuschen,
 in dem ein Pumpwerk ununterbrochen arbeitete.
 <@pagebreak/>
 Der Motor lief ohne Aufsicht, wurde wohl nur ein paarmal
-am Tage kontrolliert. Ueber die Schwierigkeiten der
+am Tage kontrolliert. Über die Schwierigkeiten der
 Wasserversorgung Adens habe ich bereits in einem früheren
 Bande einiges mitgeteilt.
 
@@ -360,7 +360,7 @@ Ja — es war der Oberst. Er trug einen Sportanzug,
 Korkhelm, war bewaffnet. Unter dem Bilde stand:
 
 > *Percy* Mac Allan *Jefferson*, der glorreiche
-Ueberwinder des Karawanenräubers Jussuf Nazir, den
+Überwinder des Karawanenräubers Jussuf Nazir, den
 Oberst Jefferson am 3. März dieses Jahres samt einem
 Teil seiner Bande im Kampfe erschossen hat. (Vergl.
 umstehenden Artikel.)
@@ -408,7 +408,7 @@ Harald hatte sich bedächtig eine Zigarette angezündet.
 
 »Wenn man nun Jeffersons Entsetzen und Angst vor
 diesen Leuten in Betracht zieht,« fuhr er nachdenklich fort,
-»dann kommt man, den Ueberfall in den Anlagen mit berücksichtigend,
+»dann kommt man, den Überfall in den Anlagen mit berücksichtigend,
 zu sehr eigentümlichen Schlußfolgerungen, die
 der Person Jeffersons eine eigenartige Beleuchtung geben.«
 
@@ -442,7 +442,7 @@ Und abermals dieselbe Stimme, die bald aus der rechten,
 bald aus der linken, bald aus den Ecken hinter uns zu
 kommen schien.
 
-Diese seltsame, rasche Aenderung der Schallrichtung
+Diese seltsame, rasche Änderung der Schallrichtung
 verwirrte unwillkürlich derart, daß man zunächst mehr auf
 <@pagebreak/>
 den Wechsel der Richtung als auf die Worte der Sprechenden
@@ -1050,7 +1050,7 @@ nicht mehr die Tom Bulbrys, war eine wohlklingende, jetzt
 aber vor Erregung leicht bebende Stimme.
 
 »Also doch — dies war das Ziel!« sprach sie, jedes
-Wort betonend. »Percy Jefferson, der glorreiche Ueberwinder
+Wort betonend. »Percy Jefferson, der glorreiche Überwinder
 Jussuf Nazirs hat sich verraten!«
 
 Jefferson war zusammengezuckt.
@@ -1439,7 +1439,7 @@ Die toten Banditen bestatteten wir gleichfalls.
 Es widerstrebte uns, die Leichenreste offen liegen zu lassen.
 
 Nachdem auch diese schauerliche Arbeit getan war, die
-uns nicht geringe Ueberwindung kostete und die wir nur
+uns nicht geringe Überwindung kostete und die wir nur
 mit der brennenden Zigarette im Munde erledigen konnten,
 kehrten wir zu Frau Hendrick zurück.
 

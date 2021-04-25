@@ -98,7 +98,7 @@ Harst winkte mit etwas ironischem Mundverziehen ab.
 leicht nicht sterben, wie Du hoffst, mein lieber Schraut. Gewiß
 — ich hätte Inspektor Plumper nachgeben und mich damit
 einverstanden erklären können, daß einer der die
-»Leiche« untersuchenden Aerzte durch einen winzigen Stich in
+»Leiche« untersuchenden Ärzte durch einen winzigen Stich in
 das Zwerchfell die Sicherheit schaffte, jedes nochmalige Erwachen
 des Toten zu verhindern. Aber — das erschien mir
 wie ein meiner unwürdiger Meuchelmord —«
@@ -121,7 +121,7 @@ sich nicht angeeignet haben?! — Kurz: ich wette zehn gegen
 eins, daß sein Testament eine ganz raffiniert ausgeklügelte
 Falle ist —«
 
-»Na — eine nette Ueberraschung!« murmelte ich. »Und
+»Na — eine nette Überraschung!« murmelte ich. »Und
 ich hatte mich schon so darauf gefreut, endlich mit Dir dieses
 Wunderland als sorgenloser Vergnügsungsreisender genießen
 zu können —«
@@ -555,7 +555,7 @@ auf mich gewartet hatte. »Eine Straße, die nach — Indra
 hineinführt —«
 
 Ah — jetzt erblickte ich gleichfalls vor mir zackige Mauerreste,
-halbe Säulen, die Ueberbleibsel von schlanken
+halbe Säulen, die Überbleibsel von schlanken
 <@pagebreak/>
 Türmen. Und zumeist war’s ein hellgrauer Marmor, der als
 Baumaterial Verwendung gefunden hatte.
@@ -586,7 +586,7 @@ der Briten.
 Geheul — und nun auch Schlüsse. Sehr dünne Knalle;
 also Revolver; etwa zehn zählte ich.
 
-»Ein Ueberfall,« meinte Harst ernst. »Die fünf Reiter
+»Ein Überfall,« meinte Harst ernst. »Die fünf Reiter
 dürften ihre Unvorsichtigkeit mit dem Leben bezahlen. Ich
 begreife nur nicht daß auch er so blindlings den Gond in die
 Falle gegangen ist —«
@@ -594,7 +594,7 @@ Falle gegangen ist —«
 »Wer — er?! — Du hast schon wieder so allerlei Geheimnisse
 vor mir und Du weißt, wie nachteilig das werden
 kann. Ich erinnere nur an Kolombo und die Lady Rockwell.«
-— »Hm — da lag die Sache anders. Ueberhaupt — Geheimnisse?!
+— »Hm — da lag die Sache anders. Überhaupt — Geheimnisse?!
 Ich bitte Dich! Du bist doch in alles eingeweiht. Natürlich
 ist »er« unser Freund Cecil —«
 
@@ -618,7 +618,7 @@ freischwebend hinter dem Dornverhau aufgehängt.
 Harst bewährte sich auch hier als erfinderischer Abenteurer
 genau so gut wie als Detektiv. —
 
-Ueber dem mitgenommenen Spirituskocher brozelte Seewasser.
+Über dem mitgenommenen Spirituskocher brozelte Seewasser.
 Wir hatten tüchtigen Hunger, und gleich nach den
 ersten Bissen brachte ich das Gespräch wieder auf Warbatty.
 
@@ -671,7 +671,7 @@ Zwischen ihren benachbarten Zimmern war die Tür nur angelehnt.
 Trotzdem wagte ich das Einsteigen und — die Depesche
 war auch da, wo ich sie vermutete, — in Herbsts Touristenjoppe
 in der Außentasche, denn er saß nebenan in Hemdärmeln.
-Uebrigens waren die beiden biederen Landsleute
+Übrigens waren die beiden biederen Landsleute
 erst nachmittags in Haidarabad und bei Frau von Tezra
 eingetroffen. Allerdings hatte der Doktor Herbst schon vorher
 dort vier Tage gewohnt und aller Welt von dem lieben
@@ -945,7 +945,7 @@ noch ein Tag. Und morgen vormittag werde ich die Geschichte
 klären, so wahr ich Harald Harst heiße!«
 
 Ich ahnte nicht, was alles er unter dieser »Geschichte«
-verstand, ahnte nichts von den Ueberraschungen, die meiner
+verstand, ahnte nichts von den Überraschungen, die meiner
 warteten und die mir wieder einmal bewiesen, wie unendlich
 meines Freundes und Brotherrn geistige Fähigkeiten den meinen
 überlegen waren.

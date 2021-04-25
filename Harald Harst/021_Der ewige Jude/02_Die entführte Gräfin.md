@@ -196,7 +196,7 @@ dann wurde ich in einem Motorboot hier an die deutsche
 Küste unweit Warnemünde gebracht und mit der Drohung
 entlassen, wenn ich mich in den nächsten drei Wochen wieder
 in Kopenhagen blicken ließe, würde man mich im Hafen ersäufen.
-— Ich habe während der Ueberfahrt in dem Motorfahrzeug
+— Ich habe während der Überfahrt in dem Motorfahrzeug
 trotz der verbundenen Augen eins mit Bestimmtheit
 feststellen können: zwei Männer und ein Weib befanden sich
 auf dem Boot! — Dann will ich Ihnen auch noch anvertrauen,
@@ -586,9 +586,9 @@ Gesicht!«
 »Inder? — Na ja — ganz interessant. Man freut sich
 über jeden Inder. Es war doch schön, dieses Jahr in Indien,
 weiß Gott! Nun — auch hier kann’s sehr schön werden. —
-Uebrigens: Du hättest bei Stripley noch mehr den blöden
+Übrigens: Du hättest bei Stripley noch mehr den blöden
 Maat spielen sollen. Als Du in Deinem Patent-Englisch zu
-Stripley sagtest, Du seist einer Wettsieger, da fixierte Dich
+Stripley sagtest, Du seist einer der Wettsieger, da fixierte Dich
 Graf Christian sehr scharf. Ich fürchte, er hat Argwohn geschöpft.
 Seine Einladung dürfte wohl auch nur den Zweck
 haben, uns näher auf den Zahn zu fühlen, schätz’ ich! Wenn
@@ -646,7 +646,7 @@ Diener, mithineingebracht hast, ist mir die Sache dunkler denn
 je. — Ich hatte eben den gräflichen Chauffeur in Verdacht.
 Sollte der sich nun in dem Inder einen Verbündeten gedungen
 haben? Stripley sagte doch, sein Diener sei bereits acht
-Jahre bei ihm und eine Perle. Und — wo ist die Ueberleitung
+Jahre bei ihm und eine Perle. Und — wo ist die Überleitung
 zu Palperlon?«
 
 Harst lachte mich plötzlich vergnügt an.
@@ -663,7 +663,7 @@ sich nicht so leicht verhüllen, oder — überpinseln, — oder
 wegretouchieren, — ganz, wie Du’s nennen willst.«
 
 »Was heißt das nun wieder? — Fehler dauert an?
-Ueberpinseln —?«
+Überpinseln —?«
 
 Harst blätterte in einem Fremdenführer von Kopenhagen,
 sah plötzlich nach der Uhr.
@@ -846,7 +846,7 @@ Ah — das leise Quietschen eiserner Ruderdollen ganz
 taktmäßig! — Mein Kopf war in eine weiche Decke gehüllt.
 Sie reichte bis in den Schoß hinab. Sehen war also unmöglich.
 Aber hören konnte ich recht gut und — fühlen, — daß
-ich in einem leicht schaukelnden, nach Oelfarbe riechenden Boot
+ich in einem leicht schaukelnden, nach Ölfarbe riechenden Boot
 saß, — hören, daß dauernd in der Nähe Bäume stark rauschten,
 <@pagebreak/>
 — Bäume: also mußten wir uns auf einem Flüßchen mit
@@ -864,7 +864,7 @@ umspannte. Es war ein Versuch, mir etwas durch Morsezeichen
 mitzuteilen. Ich konnte das Morsealphabet auswendig.
 Ich begann die Zeichen abzuzählen —:
 
-»— sehr bald große Ueberraschung geben, keine Gefahr,
+»— sehr bald große Überraschung geben, keine Gefahr,
 sei ohne Sorge, habe die Hände frei,« vermittelten mir die
 Armdrücke.
 
@@ -883,7 +883,7 @@ neue Türen.
 
 Und nun waren wir offenbar am Ziel. Mein Führer
 drückte mich auf einen Sitz. Es war ein Holzkasten oder
-Aehnliches. Ich hörte, daß noch jemand neben mir Platz
+Ähnliches. Ich hörte, daß noch jemand neben mir Platz
 nahm, daß mehrere Personen sich in dem Raume bewegten,
 der Fliesenboden haben mußte, daß Frauenröcke rauschten.
 
@@ -917,7 +917,7 @@ Kerl abermals.
 
 * * *
 
-Da — kam die große Ueberraschung! Sie kam vom
+Da — kam die große Überraschung! Sie kam vom
 Platze neben mir. Harst, der nur so getan hatte, als ob seine
 Hände noch gefesselt wären, mußte seinen Knebel inzwischen
 gleichfalls herausgezogen haben.
@@ -1138,7 +1138,7 @@ Graf.«
 Graf Söderholm schob den schweren, kunstvoll verzierten
 Riegel auf.
 
-Und — nun kam die zweite Ueberraschung, nun begann
+Und — nun kam die zweite Überraschung, nun begann
 die Tragödie!
 
 Es war der Chauffeur Bendisen, ein bartloser, älterer
@@ -1231,7 +1231,7 @@ Herrn, Bendisen. Sagen Sie dem Grafen, daß er sofort die
 Polizei benachrichtigen muß. Es geht nicht anders. Uns,
 Schraut und mich, hat er herkommen lassen, damit wir nach
 den Entführern der Gräfin suchen sollten. Ihre Herrschaft
-braucht sich nicht zu ängstigen. Es wird nichts an die Oeffentlichkeit
+braucht sich nicht zu ängstigen. Es wird nichts an die Öffentlichkeit
 dringen, was verborgen bleiben muß. — Wir
 werden vielleicht noch Stunden draußen zu tun haben. Aber
 nachher finden wir uns im Schlosse wieder ein. — Die Hauptsache:
@@ -1261,9 +1261,9 @@ Der Zementboden war tadellos sauber.
 Harst ließ das Licht der Laterne überall hingleiten. In
 einer Ecke zeigte der helle Zement vier dunklere Flecke.
 
-»Bleib’ stehen, Schraut. Die eine Oelkanne dort leckt offenbar.
+»Bleib’ stehen, Schraut. Die eine Ölkanne dort leckt offenbar.
 Und vielleicht war’s Stripley, der mit der einen Fußspitze
-in die Lache hineintrat und dann das Oel in jenen vier
+in die Lache hineintrat und dann das Öl in jenen vier
 Flecken weiter verteilte.«
 
 Er untersuchte den Boden sehr genau.
@@ -1281,7 +1281,7 @@ er die angebliche Entführung durchschaut hat und dann
 Stripley den Brief schickte. Aber — in diesen Schlußfolgerungen
 muß ein Fehler stecken — irgendwo! Sie sind doch
 beide in der Garage gewesen! Er und der Mörder müssen
-nach den Oelspuren sogar nebeneinander gestanden haben, als
+nach den Ölspuren sogar nebeneinander gestanden haben, als
 sie das Geld aus dem Benzinbehälter herausholten. Nein —
 da stimmt etwas nicht!«
 
@@ -1293,7 +1293,7 @@ ganz zerknittert und dann wieder glatt gestrichen waren.
 Stripley hat den Brief in seiner Wut zusammengeknüllt
 und sicher in die Ecke gefeuert. Ich habe den Briefbogen
 nur halb herausgezogen, sah nur die Unterschrift und
-die letzten Worte. Die besagten genug. Uebergenug!«
+die letzten Worte. Die besagten genug. Übergenug!«
 
 »Und lauteten? — So rede doch! Ich höre ja Deinem
 Ton an, daß —«
@@ -1366,7 +1366,7 @@ und Hölger allein waren, gab Harst den Herren nochmals
 genaue Verhaltungsmaßregeln gegenüber der Polizei. »Am
 besten ist, Sie lassen mich mit den Beamten sprechen. Mein
 Name wird wohl genügen, es uns zu erleichtern, den Mörder
-als ein Mitglied der Erpresserbande hinzustellen. — Ueber
+als ein Mitglied der Erpresserbande hinzustellen. — Über
 diesen Mörder möchte ich Ihnen, nur Ihnen, folgendes erklären.
 Als Bendisen uns den Fund der Leiche meldete, als er
 auch zugab, daß die Million aus der Garage gestohlen sei, da
@@ -1416,7 +1416,7 @@ als Harald Harst näherte, wird Ihren Schwiegervater in
 seiner Art lediglich dazu haben ausnutzen wollen, die
 Garage, die er überwacht glaubte, in aller Ruhe und in Gegenwart
 eines Mannes durchsuchen zu können, der ihn bei
-einer Ueberraschung gegen jede Ungelegenheit geschützt hätte.
+einer Überraschung gegen jede Ungelegenheit geschützt hätte.
 Es liegt hier also ein Bubenstück Palperlons vor, das seinen
 bisherigen Schandtaten durchaus gleichwertig ist. Daß ich
 hier in Kopenhagen bin, weiß er fraglos nicht. Sonst wäre
@@ -1476,7 +1476,7 @@ Fährte stürzen und die wahren »Erpresser« nicht durch allerlei
 Nachforschungen behelligen!« —
 
 Als wir dann die Torstensen herausgeklingelt hatten,
-da — kam die letzte Ueberraschung dieser Nacht.
+da — kam die letzte Überraschung dieser Nacht.
 
 »Ach — diese Wäscherechnung!« meinte die Torstensen.
 »Ja, die war für den Herrn Macdonald Busley, einen Kaufmann.

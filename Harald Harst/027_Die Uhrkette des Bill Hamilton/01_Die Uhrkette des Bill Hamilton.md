@@ -491,7 +491,7 @@ in der hier unter dem Verandadach noch stärkeren Dunkelheit
 nur ganz undeutlich.
 
 Wieder blickte ich nach ihm hin. Ich wunderte mich, daß
-er mit dem Oeffnen der Riegel so gar nicht fertig wurde.
+er mit dem Öffnen der Riegel so gar nicht fertig wurde.
 
 Da — die merkwürdige Regungslosigkeit seiner Gliedmaßen
 machte mich stutzig, auch seine Haltung. Sein Körper
@@ -512,7 +512,7 @@ Dann nichts mehr — nichts. Ich hatte das Bewußtsein
 verloren.
 
 Aber — nur für kurze Minuten. Die, von denen dieser
-heimtückische Ueberfall ausgegangen war, hatten Besonderes
+heimtückische Überfall ausgegangen war, hatten Besonderes
 mit mir, mit uns vor. Wir sollten sehen und hören, sollten erkennen,
 daß wir hier in der Tat gegen eine unheimliche Macht
 ankämpften.
@@ -699,7 +699,7 @@ deren vollen Sinn ich nur zu gut begriff.
 
 »Du glaubst also, daß die Entführung der Töchter und
 der Miß Backerley Schwindel ist?« fragte ich dann, nachdem
-ich mich von dieser Ueberraschung erholt hatte.
+ich mich von dieser Überraschung erholt hatte.
 
 »Glauben?! — Nein. Das ist zuviel gesagt. Ich muß
 es jedoch der jetzigen Sachlage nach annehmen. Nur annehmen.
@@ -760,10 +760,10 @@ zahlreicher Dienerschaft wohl etwas derartiges abspielen können,
 wie in dieser Nacht, wenn nicht der Hausherr selbst mit
 alledem einverstanden war und dafür gesorgt hat, daß die
 Komödie im Schlafzimmer nicht durch das Erscheinen eines
-der Diener gestört werden konnte?! Ueberlege Dir, welches
+der Diener gestört werden konnte?! Überlege Dir, welches
 Wagnis diese Szene mit dem Schlangenpendel und so weiter
 für Verbrecher gewesen wäre, wenn diese eben nicht sich vollkommen
-sicher gefühlt hätten! Ueberlege weiter: wie können
+sicher gefühlt hätten! Überlege weiter: wie können
 wir hier in Melproves Bungalow festgehalten werden, wenn
 der Besitzer davon nichts weiß?! Wir sind eine Treppe emporgetragen
 worden; die Stufen knarrten. Aber — die, die uns
@@ -863,7 +863,7 @@ etwa hing, — wie er die Schnur oben festband, wie
 er dann bei mir genau dasselbe tat, wie das kleine Reptil,
 das mich bedrohte, in wilder Wut sich drehte und wand, wie
 es an der Schnur hochzuklettern suchte, wie es wieder herabglitt
-an diesem von Oel triefenden, schlüpfrigen Bindfaden,
+an diesem von Öl triefenden, schlüpfrigen Bindfaden,
 wie es hineinbiß in die Schnur, wie das Pendel zu schwingen
 begann.
 

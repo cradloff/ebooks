@@ -95,7 +95,7 @@ Leute, die eben Glück haben. Und — Glück haben Sie bei
 dieser Wette insofern gehabt, als sie es wirklich stets nur mit
 halben Dilettanten des Verbrechertums aufzunehmen hatten.
 — Beweisen Sie mir, daß Sie tatsächlich so viel können, wie
-die ganze Welt glaubt, die in Ihnen eines Art Ueberdetektiv
+die ganze Welt glaubt, die in Ihnen eines Art Überdetektiv
 anbetet. Beweisen Sie’s, und es soll mich freuen. Denn ich
 liebe die Intelligenz in jeder Form.
 
@@ -388,7 +388,7 @@ Er nahm Platz, lehnte sich bequem zurück und fuhr fort:
 Mann, der uns nachschleicht, hat fraglos in der Nähe des
 Klubhauses auf uns gewartet. Er ist klein, hager, bartlos
 und sieht wie einer aus, der mit dem Pferdesport zu tun hat.
-— Ueberlegen wir, wie wir ihn schnell und sicher loswerden
+— Überlegen wir, wie wir ihn schnell und sicher loswerden
 — Halt — ich weiß bereits etwas, das gelingen muß. Wir
 stellen uns nach einer Weile dort an die Haltestelle der Straßenbahn,
 besteigen den Anhänger und —«
@@ -404,7 +404,7 @@ zu Fuß dorthin? Ich denke, wir benutzen besser die Straßenbahn.«
 
 Der alte Herr wandte Harst jetzt sein rotes, gesundes Gesicht
 zu. — »Entschuldigen Sie, meine Herren, ich bin fremd
-in Berlin und zum ersten Male hier. Meine Aelteste ist hier
+in Berlin und zum ersten Male hier. Meine Älteste ist hier
 an einen Kaufmann verheiratet. Ich soll nun für heute abend
 Theaterbillette in der Rudenschen Theaterkasse in der Potsdamer
 Straße besorgen. Meine Tochter hat mir zwar die
@@ -536,7 +536,7 @@ lächelte uns an und sagte ganz deutlich und ziemlich fließend:
 »Die Krisis ist vorüber. Ich kann die Beine bewegen.
 — Schraut — ein Glas Burgunder.« Er goß es hastig hinunter
 »Es war das einzige, was mich retten konnte,« fügte
-er nun hinzu. »Eben Alkohol im Uebermaß! — So — und
+er nun hinzu. »Eben Alkohol im Übermaß! — So — und
 jetzt — an die Arbeit! — Bechert, ich gab Ihnen vorhin schon
 einige Weisungen. Hören Sie weiter. Lassen Sie unverzüglich
 in allen Hotels und Fremdenheimen nach zwei Männern
@@ -568,7 +568,7 @@ Während wir noch miteinander sprachen, kam ein offenes
 Auto langsam vorüber. Und in diesem Auto saß der alte
 würdige Herr, der Wespenjäger.
 
-Nur einen Augenblick dauerte meine jähe Ueberraschung.
+Nur einen Augenblick dauerte meine jähe Überraschung.
 Dann riß ich Bechert mit fort. »Er ist’s!« keuchte ich. »Der
 Mann vom Lützowplatz —«
 
@@ -719,7 +719,7 @@ ihm dies deutlich an.
 <@pagebreak/>
 Harst jetzt liebenswürdig. »Ich möchte mit Ihnen ein wenig
 plaudern, bevor Bechert Sie verhaftet. Vielleicht vermag
-ich Ihnen die Ueberzeugung beizubringen, daß Sie klüger tun,
+ich Ihnen die Überzeugung beizubringen, daß Sie klüger tun,
 einzugestehen, der Genosse eines Diebes und Mörders zu sein.
 Ihren Mordversuch gegen mich dürfte derselbe Mann angestiftet
 haben. Sie verbessern Ihre Lage ganz erheblich, wenn
@@ -1158,7 +1158,7 @@ Schnüffler natürlich Harald Harst.
 
 Sie schwiegen jetzt und verhielten sich ganz still. Einmal
 traf der Laternenschein Warbattys Gesicht. Harst hatte
-recht: der Mann schien seinem Aeußeren nach bereits einige
+recht: der Mann schien seinem Äußeren nach bereits einige
 siebzig Jahre zu sein. — Dann verschwanden sie lautlos in
 dem Kellergang, an dem rechts und links die Verschläge der
 Hausbewohner lagen.
@@ -1264,7 +1264,7 @@ einfachen Holzstuhl gebunden waren. Auch er war bereits bei
 Bewußtsein. Unsere Stühle standen etwa anderthalb Meter
 auseinander. Das Zimmer, in dem wir dergestalt uns wiedersahen,
 war der Schlafraum Warbattys und seiner Genossen.
-— Ueber uns brannte eine elektrische Lampe, und neben
+— Über uns brannte eine elektrische Lampe, und neben
 uns saß auf dem Rande des einen Bettes der gebrechliche
 Greis: Warbatty selbst! — Er hielt in der Rechten einen Porzellandruckknopf,
 wie er bei elektrischen Hausklingeln benutzt
@@ -1503,7 +1503,7 @@ Städte Kingston und Palermo wurde bei Edward Orkney noch
 <@pagebreak/>
 eine kleine Weltkarte gefunden, auf der mit blauer Tinte 16
 Städte unterstrichen waren, darunter Berlin, Kingston, Palermo,
-Kairo und andere. — Dies nun hat mich zu der Ueberzeugung
+Kairo und andere. — Dies nun hat mich zu der Überzeugung
 gebracht, daß Warbatty, dieser gefährlichste aller internationalen
 Verbrecher, in diesen Städten Unternehmungen
 ähnlicher Art wie in Kingston vorbereitet hat. Denn —

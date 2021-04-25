@@ -4,7 +4,7 @@
 <h2>1. Kapitel.</h2>
 
 Die von Harald Harst gemietete Motorjacht Atlanta,
-Besitzer und Kapitän Bansy, lag im Hafen Ponta Delgada
+Besitzer und Kapitän Banfy, lag im Hafen Ponta Delgada
 der Azoreninsel San Miguel vor Anker.
 
 Es war gegen neun Uhr abends. Die Atlanta wiegte
@@ -13,8 +13,8 @@ unserer englischen Matrosen Ziehharmonika. Durch die
 geöffneten Fenster des kleinen Salons der Jacht drang
 die erquickende Abendluft herein.
 
-Wir drei — Harst, Bansy und ich, saßen um den Tisch
-herum. Ueber uns brannte die elektrische Krone mit ihren
+Wir drei — Harst, Banfy und ich, saßen um den Tisch
+herum. Über uns brannte die elektrische Krone mit ihren
 drei Birnen.
 
 Wir lehnten behaglich in unseren Korbsesseln und
@@ -29,7 +29,7 @@ war aus dem Tagebuch in keiner Weise zu ersehen. Jedenfalls
 hatte er das Haus in der Wildnis im Jahre 1798 als
 Hauptquartier für sich und seine Bande erbaut. —
 
-»Fangen Sie an, Mr, Harst,« gähnte Bansy, »Sie
+»Fangen Sie an, Mr, Harst,« gähnte Banfy, »Sie
 wollen uns doch die wichtigsten Stellen aus dem Buche ins
 Englische übersetzen und vorlesen. Ich brenne vor Neugier
 schon.«
@@ -153,7 +153,7 @@ Schätze des Piratenkapitäns wirklich von den Leuten gehoben
 worden sind, für die er sie bestimmt hatte.«
 
 »Also von dem Sohne jenes Don Se..., der durch
-den Grafen ein Bettler wurde,« ergänzte Bansy lebhaft.
+den Grafen ein Bettler wurde,« ergänzte Banfy lebhaft.
 »Mr. Harst, diese Feststellung dürfte Ihnen nicht ganz leicht
 fallen. In Brasilien gibt es viele alte Familien, deren
 Namen mit Se, beginnen und deren Männer den Adelstitel
@@ -176,12 +176,12 @@ eine lange Zeit.«
 Kriminalfall. Und doch — Ich habe noch nie mich an einer
 Art Rätsel versucht, dessen Ursprung über anderthalb Jahrhunderte
 zurück reicht. — Wir können morgen früh doch in
-See gehen, Bansy?«
+See gehen, Banfy?«
 
 »Wie sie befohlen haben, Mr. Harst. — Proviant und
 Trinkwasser ist besorgt. — Unser Ziel ist Pernambuco?«
 
-»Allerdings, Bansy. Unseren Leuten sagen Sie, ich
+»Allerdings, Banfy. Unseren Leuten sagen Sie, ich
 wolle dort einer Fälscherbande nachspüren.«
 
 Fünf Tage drauf stiegen im Hotel Excelsior in der
@@ -298,8 +298,8 @@ uns morgen nicht mehr den Zutritt verwehren.«
 der Hand hatte!« meinte ich nachdenklich. »Das sieht gerade
 so aus, als ob er sich häufiger »verändert«.«
 
-»Allerdings. Das sieht so aus. Er hat Uebung darin.
-Und wer in solchen Dingen Uebung hat, dürfte kein gewöhnlicher
+»Allerdings. Das sieht so aus. Er hat Übung darin.
+Und wer in solchen Dingen Übung hat, dürfte kein gewöhnlicher
 Sterblicher sein. Unser Kutscher wußte uns zu
 erzählen, Chalpin sei Privatgelehrter. Hinter einem solchen
 Gummi-Beruf, denn der Begriff Privatgelehrter ist sehr
@@ -571,7 +571,7 @@ Die junge Kreolin, ein hübsches Mädchen mit leider
 recht verlebten Zügen und einem sehr auffälligen Anzug,
 war mitgekommen.
 
-Kapitän Bansy, der im Salon Zeitung gelesen und seinen
+Kapitän Banfy, der im Salon Zeitung gelesen und seinen
 Abendgrog getrunken hatte, wollte sofort nach Harsts
 Wunde sehen. Ich hielt ihn zurück, zwinkerte ihm zu und
 gab dann der Kreolin Geld, fragte sie, weshalb die beiden
@@ -623,12 +623,12 @@ In fünf Minuten ist mein schöner Bart futsch.«
 Die Matrosen gingen hinaus
 
 »Morris, Sie rudern mit dem Beiboot an Land und
-melden den Ueberfall der Polizei,« ordnete Harald weiter
+melden den Überfall der Polizei,« ordnete Harald weiter
 an. »Niemand darf unsere Komödie durchschauen. Es
 handelt sich hier um eine Sache, die mit allergrößter Vorsicht
 angepackt werden muß.«
 
-Auch der Steuermann verschwand. — Bansy und ich
+Auch der Steuermann verschwand. — Banfy und ich
 setzten uns in die Korbsessel neben den Tisch. Harald
 rauchte eine Weile schweigend, meinte dann:
 
@@ -636,7 +636,7 @@ rauchte eine Weile schweigend, meinte dann:
 vorhin?«
 
 <@pagebreak/>
-Bansy hob das Blatt auf. Es war unter das andere
+Banfy hob das Blatt auf. Es war unter das andere
 Wandsofa geflattert.
 
 »Es ist die hiesige Zeitung »Pernambuco-Magazin«,«
@@ -654,18 +654,18 @@ unschädlich gemacht.
 
 »Na — nun ist auch das geklärt!«
 
-»Was denn?« fragte Bansy.
+»Was denn?« fragte Banfy.
 
 »Das Motiv, lieber Käpten, — der Grund zu dem
-Ueberfall auf uns. Es gibt hier eben Leute, die ein verdammt
+Überfall auf uns. Es gibt hier eben Leute, die ein verdammt
 schlechtes Gewissen haben und die sich sofort, als sie
 diese Kabeldepesche lasen, richtig zusammenreimten, daß
 diese Atlanta hier Harsts Atlanta ist und daß Horster und
 Schroth eben Harst und Schraut und deshalb — überflüssig
 sind. Man wollte uns dies durch Messerstiche beweisen. —
-Bansy, holen Sie Morris nochmal zurück —«
+Banfy, holen Sie Morris nochmal zurück —«
 
-Als Bansy und Morris wieder eintraten, sagte Harald:
+Als Banfy und Morris wieder eintraten, sagte Harald:
 
 »Lieber Morris, gehen Sie auch gleich in die Redaktion
 des Pernambuco-Magazin und erzählen Sie dort, daß wir
@@ -685,7 +685,7 @@ Morris verließ den Salon wieder.
 Harald und nahm eine frische Zigarette. »Ich muß diese
 Zeitungsausschnitte durchsehen.«
 
-Bansy verstand den Wink, sagte uns gute Nacht und
+Banfy verstand den Wink, sagte uns gute Nacht und
 zog sich in seine Kabine zurück.
 
 Man erhielt von dem Verbrechen, dessen Edward Selville
@@ -841,7 +841,7 @@ Zahn fühlen. Wir sind nach Pernambuco gekommen, um
 dem Geheimnis des Brasilianers, des Piraten Om...
 nachzuspüren, und haben hier nun andere Arbeit gefunden. —
 <@pagebreak/>
-Uebrigens eine Frage, mein Alter. — Ist Dir bei dem
+Übrigens eine Frage, mein Alter. — Ist Dir bei dem
 Namen Selville nichts aufgefallen?«
 
 Ich dachte nach. Dann kam mir die Erleuchtung.
@@ -875,7 +875,7 @@ Ich saß neben dem Krankenlager und las die Morgenzeitung.
 Mehrere Boote umrundeten dauernd die Atlanta.
 Die Neugierigen hatten zum Teil Kodaks mit und knipsten
 den Kranken. Um 9 war auch ein Polizeibeamter erschienen
-und hatte Harst und mich über den Ueberfall vernehmen
+und hatte Harst und mich über den Überfall vernehmen
 wollen. Ich fertigte ihn jedoch auf dem Vorderdeck ab.
 Zwei Zeitungsreportern gegenüber wurde ich saugrob.
 
@@ -984,7 +984,7 @@ Ich entschuldigte mich bei Chalpin und meinte: »Warten
 Sie bitte. Ich bin sofort wieder da. Mr. Morris
 wird Ihnen Gesellschaft leisten.«
 
-Als ich das Achterdeck betrat, war es leer. Aber Bansy
+Als ich das Achterdeck betrat, war es leer. Aber Banfy
 stand an der Salontreppe und winkte mir.
 
 Im Salon auf vom Wandsofa lag der — echte Harst!
@@ -1040,7 +1040,7 @@ er hastig: »Dort liegt auch für Dich ein Matrosenanzug;
 dort ein dunkler Spitzbart. Fix, mein Alter, fix! Wir
 müssen dicht hinter Chalpin bleiben —«
 
-Bansy saß staunend dabei. »Die reine Theaterschule,«
+Banfy saß staunend dabei. »Die reine Theaterschule,«
 brummte er. »Ich lerne auf meine alten Tage noch allerhand
 Neues.« —
 
@@ -1235,7 +1235,7 @@ Seitenausgang gelangten wir drei auf eine enge Gasse, in
 der nur Lagerspeicher standen. Die Gasse war leer. Nur
 ein Wagen mit zwei Maultieren bespannt wartete auf uns.
 Der Kutscher, ein Mulatte, peitschte sofort auf die Pferde
-ein. Der Wagen hatte ein Oeltuchverdeck und ebensolche
+ein. Der Wagen hatte ein Öltuchverdeck und ebensolche
 Seitenwände.
 
 Ich begriff von alledem nichts — nichts! Hatte
@@ -1303,7 +1303,7 @@ Sie heute früh wieder bei den Selvilles gewesen waren.
 Ich hatte deren Häuschen beobachten lassen. Ich kam nun
 deshalb zu ihnen auf die Atlanta, um Sie beide in eine
 Falle zu locken. Mein Bootsmann ruderte absichtlich so
-langsam. Und der Ueberfall auf Sie beide in der Bodega
+langsam. Und der Überfall auf Sie beide in der Bodega
 hatte nur den Zweck, Ihre Pistolen unschädlich zu machen,
 Sie aber anderseits auch auf den Kutter hier zu verschleppen,
 wohin Sie mir auch folgten weil Sie sich noch im Besitz

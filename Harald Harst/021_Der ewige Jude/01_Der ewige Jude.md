@@ -234,7 +234,7 @@ Nacht, trennten uns.
 
 > Ich bin erst gegen Morgen eingeschlafen, erhob mich aber
 schon um acht Uhr wieder, sitze nun am Schreibtisch und —
-unterbreite Ihnen diesen »Fall« in der Ueberzeugung, daß
+unterbreite Ihnen diesen »Fall« in der Überzeugung, daß
 ich nicht das Opfer einer Sinnestäuschung gewesen bin, als
 ich einen Sarg, die Kerzen in den silbernen Leuchtern und die
 Kränze vor dem Sarge erblickte.
@@ -346,7 +346,7 @@ die Tür der Bibliothek, drehte das Licht an.
 > Der Diwan war leer.
 
 > Und auf dem Diwan lag auch noch aufgeschlagen die
-Uebersetzung der Schriften des jüdischen Gelehrten Jeruchai,
+Übersetzung der Schriften des jüdischen Gelehrten Jeruchai,
 in der ich nachmittags gelesen und die ich erst vorhin auf den
 Tisch gelegt hatte, als ich das Kind auf dem Diwan das Lager
 herrichtete.
@@ -373,7 +373,11 @@ es getan haben!
 
 > Und dann kam das Entscheidende, das Wichtigste:
 
+<<<<<<< HEAD
 > Ich wollte nachsehen, ob das Buch, die Uebersetzung Jeruchai’s
+=======
+> Ich wollte nachsehen, ob das Buch, die Übersetzung Jeruchal’s
+>>>>>>> master
 genau an der Stelle aufgeschlagen war, wo ich zu
 lesen aufgehört hatte.
 
@@ -654,8 +658,13 @@ Nachher — als Harst uns doch gerettet hatte! —
 Ich war tot. Und die endlose Stille ging über in eine
 Anzahl von Geräuschen, die ich vielleicht ihrer Bedeutung nach
 hätte ergründen können, wenn ich fähig gewesen zum Denken,
+<<<<<<< HEAD
 Ueberlegen, Kombinieren. So aber empfing mein Ohr die
 Töne, leitete sie lediglich in die Gehirnzellen des Gehörapparats.
+=======
+Überlegen, Kombieren. So aber empfing mein Ohr die
+Töne, leitete sie lediglich in die Gehirnzellen des Gehörapperats.
+>>>>>>> master
 Hier aber versagte die Weiterleitung.
 
 Dann ganz deutlich eine Stimme:
@@ -684,7 +693,7 @@ empfingen die Strahlen einer trübe brennenden Laterne.
 Harsts Gesicht war dicht über dem meinen.
 
 Er half mir, mich auf dem Kojenbett aufzurichten. Neuer
-Kampf gegen Schwindelanfälle, gegen furchtbare Uebelkeit.
+Kampf gegen Schwindelanfälle, gegen furchtbare Übelkeit.
 
 Harst nahm mich wie ein Kind in die Arme. Ich sah auf
 dem zweiten Bett einen gefesselten Menschen liegen. — Es
@@ -816,7 +825,7 @@ dieser zu biederen Seeleuten vortrefflich paßte.
 Und wieder zwei Tage später machte es sich das Ehepaar
 Hopkins in seiner Kabine 1. Klasse des Lloyddampfers Hektor
 bequem. Frau Dasy Hopkins war nierenleidend und sollte
-den Winter in Aegypten zubringen. Sie kam nie an Deck.
+den Winter in Ägypten zubringen. Sie kam nie an Deck.
 Das Ehepaar speiste in seiner Kabine. Und das Ehepaar waren
 wir: Harst und Schraut! —
 
@@ -1063,7 +1072,7 @@ Deutsch:
 »Die Propheten des alten Bundes verachteten jeglichen
 Besitz, um jeden Gedanken an irdische Dinge weit von sich zu
 weisen. Besitz zieht die Gedanken an sich. Wer nichts besitzt,
-ist wahrhaft frei. Auch ich, mein Sohn, bin der Aermsten einer.
+ist wahrhaft frei. Auch ich, mein Sohn, bin der Ärmsten einer.
 Dafür ward mir das gegeben, was Du erstrebst — mit
 Recht erstrebst! Nur wer so weit Herr über die zwecklose
 Masse seines Körpers wird, daß er sie nach seinem Willen
@@ -1389,9 +1398,9 @@ ganz genaue Anweisungen, wie Sie sich verhalten sollten.
 Diese von einem gewissen Palperlon geleitete internationale
 Bande wartete auf ein ihnen geeignet erscheinendes Opfer,
 das nun mit Hilfe des falschen Sehers, der mit dem echten
-fraglos sehr große Aehnlichkeit —«
+fraglos sehr große Ähnlichkeit —«
 
-»— die Aehnlichkeit war überraschend, Herr Harst. — Gestatten
+»— die Ähnlichkeit war überraschend, Herr Harst. — Gestatten
 Sie, daß ich jetzt das weitere schildere und daß ich
 deutsch spreche. — Die Hauptsachen dieses von Palperlon seit
 Jahren schon vorbereiteten Streiches haben Sie ganz richtig
@@ -1440,7 +1449,7 @@ Sarge liegend in Aquarell skizziert. Nach dieser Skizze —«
 werden, — das stimmt ebenfalls, Herr Harst. Während Partorius
 in seinem Arbeitszimmer in halber Selbsthypnose im
 Sessel saß, wurde alles wieder aus dem Sterbezimmer weggeräumt.
-Aehnlich verhielt es sich mit dem blonden, angeblich
+Ähnlich verhielt es sich mit dem blonden, angeblich
 taubstummen Mädchen. Diese kleine Taschendiebin war von
 Brown bestochen und instruiert worden. Auch dies klappte
 bis ins kleinste.«

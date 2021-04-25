@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">e7dfc63c-7b7c-11eb-8325-e7b7dfc877f1</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Büchse der Pandora</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">51</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Büchse der Pandora.
+
+Black Town, das Eingeborenenviertel Bombays.
+
+Enge Gassen, wunderliche Holz- und Steinhäuser, zahllose Kinder aller farbigen Menschenrassen; dazwischen Hunde, zahme Affen, Ziegen, Schafe, hin und wieder ein hochbepacktes Lastkamel.
+
+An jeder Straßenecke hockt ein Bettler, ein Schlangenbeschwörer oder ein schmutzstarrender Yogi. In den Basargassen sitzen die Handwerker vor ihren Häusern hinter den Tischen, die ihre fertigen Waren tragen.
+
+Bombay ist die nördliche Pforte Indiens, wie Kolombo auf Ceylon die südliche genannt wird. Der Fremdenstrom, der sich aus Amerika und Europa nach Ostasien ergießt, findet hier den ersten seltsamen Wall als Hindernis: die Vermischung moderner Kultur mit der tausendjährigen des Märchenlandes Indien. –
+
+In einer der Basarstraßen standen zwei Europäer vor dem mit einer kostbaren seidenen Decke belegten Warentische eines graubärtigen Inders.
+
+Die beiden trugen unscheinbare Touristenanzüge und breitrandige Strohhüte.
+
+Der größere, schlank und etwas über Mittelmaß, hatte eines jener Gesichter, deren scharf ausgeprägte Züge etwas vom Schauspieler, etwas vom Sportsmann und auch wieder jenes unbestimmte Merkmal eines regen Verstandes an sich haben, das man am treffendsten mit »durchgeistigt« bezeichnet.
+
+Sein um fast einen Kopf kleinerer Begleiter war ebenfalls bartlos und genau so sonnengebräunt. Sein volles Gesicht, ein bescheidenes Bäuchlein und ein Paar behaglich-verträumte Augen sowie eine gewisse träge Langsamkeit seiner Bewegungen deuteten auf friedlichen, lebensfrohen Charakter hin.
+
+Der größere war Harald Harst, der kleinere ich selbst, sein Privatsekretär und Freund.
+
+Wir besichtigten ein altindisches Schwert mit kostbarem Griff.
+
+Harald lobte die Waffe. »Ich werde sie kaufen,« meinte er. »Fünfhundert Rupien ist sie wert.«
+
+Er wandte sich an den Inder, der gerade an einem Armreif hämmerte.
+
+»Wieviel soll das Schwert kosten?«
+
+»Tausend Rupien, Sahib. Sehr billig. Die Steine am Griff sind echt –«
+
+Ich wunderte mich, daß Harald sich zu dieser Forderung nicht äußerte. Ich blickte ihn an und sah sofort in seinem schmalen Gesicht jenen Ausdruck erhöhter Spannung, der mir verriet, daß ihm in der Nähe irgend etwas besonderes aufgefallen war.
+
+Der persische Händler.
+
+»Wir werden ihn finden! Verlaß Dich darauf!«
+
+Der Ton, in dem Harald dies gesagt hatte, entsprach ganz dem drohenden Inhalt der Sätze.
+
+Ich schaute ihn überrascht an. »Dann hast Du auf der kleinen Felseninsel, wo Murphison uns entschlüpfte, doch eine Spur gefunden,« meinte ich. »Du mußt sie gefunden haben! Wie könntest Du sonst wohl jetzt mit solcher Bestimmtheit erklären: wir werden ihn finden!«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (051) Die Büchse der Pandora.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1921</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

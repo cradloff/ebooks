@@ -213,12 +213,12 @@ Schulter.
 
 Die Karte war auf der einen Seite in schwarzer Farbe
 bedruckt. In diesem Text waren nur dort Lücken gelassen,
-wo für den einzelnen Fall Aenderungen des Textes nötig waren,
+wo für den einzelnen Fall Änderungen des Textes nötig waren,
 so zum Beispiel hinsichtlich des Ortes, wo das gestohlene
 Gut gegen Hergabe der und der Summe zurückgegeben würde,
 hinsichtlich des Tages und der Summe selbst. In dem gedruckten
 Text waren also nur wenige Stellen offen. — Als
-Ueberschrift stand da: »Batavia, den ...«, und als Anrede:
+Überschrift stand da: »Batavia, den ...«, und als Anrede:
 »Euer Wohlgeboren!«,  als Unterschrift aber: »Die Gesellschaft«
 und darunter ein achtzackiger Stern, dessen Spitzen in
 seltsame Zeichen ausliefen.
@@ -349,7 +349,7 @@ mir zu entziehen, indem er sie sich schenken läßt, — wer dabei
 aber den kleinen Fehler begeht, die Karte selbst nur
 ganz flüchtig zu betrachten, der verdient ein großes Fragezeichen.
 — Das sind so Kleinigkeiten, ist das unwesentliche
-Belastungsmaterial. Ueber die Hauptursache meines Verdachts
+Belastungsmaterial. Über die Hauptursache meines Verdachts
 gegen ihn spreche ich bei besserer Gelegenheit.«
 
 * * *
@@ -412,7 +412,7 @@ auf einen Haufen Maisstroh flogen, der jedoch nur die Deckschicht
 für eine — richtige Fanggrube bildete, das heißt, —
 wir sanken sehr schnell samt dem Maisstroh in die Tiefe, rappelten
 uns freilich schnell auf, sahen aber nur noch, wie man
-oben über die quadratische Oeffnung wieder ein Bambusgitter
+oben über die quadratische Öffnung wieder ein Bambusgitter
 warf und darüber neues Maisstroh so hoch aufhäufte, daß
 wir sehr bald nicht einen Lichtstrahl mehr von oben
 empfingen.
@@ -561,7 +561,7 @@ Wir lasen das Geschriebene gemeinsam, Kopf an Kopf.
 
 Harst flüsterte: »Es war eine falsche Spekulation, diese
 Wutanfälle. Die Schufte durchschauen mich. Ich wollte so
-tun, als ob diese Aeußerungen eines grimmen Aergers auf
+tun, als ob diese Äußerungen eines grimmen Ärgers auf
 meine Enttäuschung über meine geringe Fähigkeit, selbst
 eine solche Falle wie diese hier rechtzeitig durchschauen zu
 können, zurückzuführen seien. Aber ich habe die Intelligenz
@@ -569,7 +569,7 @@ dieser Bande unterschätzt. Sie haben ganz richtig sich
 gesagt, daß ein Harald Harst niemals in einer solchen Lage ein
 solches Benehmen zeigen würde. Meine Spekulation, die
 Leute also glauben zu machen, ich hätte meine Kaltblütigkeit
-und damit meine große Ueberlegenheit eingebüßt, war verfehlt!
+und damit meine große Überlegenheit eingebüßt, war verfehlt!
 — Ich weiß jetzt auch, was sie vorhaben: sie wollen uns
 durch Hunger und Durst erst so weit marode machen, daß
 wir unfähig sind, ihnen einen Streich zu spielen.«
@@ -707,7 +707,7 @@ Nur eins war sicher: man hatte den Brief hier wieder
 auf den Tisch gelegt mit diesen rot unterstrichenen Wörtern,
 damit Harst merken sollte, daß man seine List durchschaut
 hätte, — eine List, die auszuklügeln und unter den Augen
-des Wächters ohne langes Ueberlegen zu Papier zu bringen
+des Wächters ohne langes Überlegen zu Papier zu bringen
 einem durch Hunger und Durst halbtoten Menschen geglückt
 war!
 
@@ -1179,7 +1179,7 @@ von einem der Geschädigten angerufen worden war?«
 »Allerdings. Blönheelm ist ja so absolut verschwiegen,
 daß —«
 
-»Schon gut. — Hat der Prinz nach seiner Uebersiedelung
+»Schon gut. — Hat der Prinz nach seiner Übersiedelung
 <@pagebreak/>
 hierher Ihre Bekanntschaft gesucht? Besinnen Sie sich bitte
 genau. Ich vermute nämlich, daß er nur Ihr Freund wurde,
@@ -1218,7 +1218,7 @@ verschwinden, den wir doch nach unserer Flucht wiedererkannt
 hätten. Er mußte so gänzlich zerstört werden, daß unser Kerkermeister
 nachher frech behaupten konnte, wir hätten uns
 geirrt: wir wären anderswo eingesperrt gewesen und irrten
-uns in der Oertlichkeit, die wir ja nur bei der Dunkelheit
+uns in der Örtlichkeit, die wir ja nur bei der Dunkelheit
 gesehen hätten. Diese Chinesen verstehen das Lügen wie selten
 ein Volk. Gewiß — wir sind am Tage dort in das Gehöft
 mit dem Wagen hineingerast. Aber — der Chinese, dieser
@@ -1364,7 +1364,7 @@ vorn bei dem Chauffeur aufgestiegen. Das Auto setzte sich
 langsam in Bewegung. — Ich gebe zu, daß ich bei dieser ganzen
 Geschichte in vielem durchaus noch nicht klar sah. Was
 sollte Harsts Bemerkung »die Sache ist schon perfekt«?! Was
-sollten so manche andere Aeußerungen, die ich immer noch
+sollten so manche andere Äußerungen, die ich immer noch
 nicht zu deuten wußte und die doch fraglos sehr wohl begründet
 waren?!
 
@@ -1439,20 +1439,20 @@ sehr elegant gekleideten Europäers — einer Durchlaucht.
 war früher Assessor bei der Staatsanwaltschaft in Berlin.
 Damals vor etwa sieben Jahren hatte nun ein Schwindler,
 der mit dem Prinzen Frederik von Blönheelm sehr große
-Aehnlichkeit besaß, diese Aehnlichkeit zu allerlei Betrügereien
+Ähnlichkeit besaß, diese Ähnlichkeit zu allerlei Betrügereien
 benutzt und wurde von Holland aus steckbrieflich gesucht. Im
 internationalen Fahndungblatt las ich von den zum Teil
 wahrhaft genialen Hochstaplerstückchen dieses Menschen, von dem niemand so recht wußte, wer er war und woher er
 stammte.
 
-An diese große Aehnlichkeit dieser beiden Männer und an
+An diese große Ähnlichkeit dieser beiden Männer und an
 die verbrecherischen Talente jenes Gauners erinnerte ich
 mich, als van Wreeden mir mitteilte, daß der Prinz Blönheelm
 in seiner Heimat stets nur als überaus gutmütiger,
 harmloser Verschwender bekannt gewesen sei. Dieses Charakterbild
 paßte nun zu dem Blönheelm, den ich nun als Oberhaupt
 der »roten Karten«, worauf das Stern-Siegel hindeutete,
-hier wiederfand, so wenig, daß ich allmählich die Ueberzeugung
+hier wiederfand, so wenig, daß ich allmählich die Überzeugung
 gewann, derselbe Gauner von damals spiele hier
 den Prinzen, wobei hauptsächlich die Tatsache meinen Verdacht
 zur Gewißheit machte, das der angebliche Prinz hier

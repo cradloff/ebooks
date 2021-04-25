@@ -150,7 +150,7 @@ Lieber Alter, reime Dir die Sache mal folgendermaßen
 zusammen. — Wir wissen, daß Olgerdyn
 jahrelang der Anführer einer Buschklepperbande war, die
 zahlreiche Karawanen ausgeplündert hat. Bei einem dieser
-Ueberfälle auf eine Karawane mag einer der Mitreisenden,
+Überfälle auf eine Karawane mag einer der Mitreisenden,
 der Kostbarkeiten, sagen wir Edelsteine, bei sich hatte, entflohen
 sein. Der Betreffende wurde verfolgt und gelangte
 auf der Flucht in eine bergige Gegend, kroch in eine Felsspalte
@@ -351,7 +351,7 @@ wir noch auf dem Felsen lagen, so zu tun, als ob wir nicht
 wüßten, daß wir —«
 
 »Allerdings,« unterbrach er mich, »das wünschte ich,
-um mich nachher an der Ueberraschung des Kleinen zu
+um mich nachher an der Überraschung des Kleinen zu
 weiden, wenn *wir* ihm sein Abenteuer mit dem Engagement
 bei Hektor Olgerdyn erzählen würden. Der Zweck,
 den ich anfänglich damit verfolgte, war also ein gänzlich
@@ -458,7 +458,7 @@ braunes Gesicht hin. Die halb geschlossenen Augen
 
 »Mein Alter — jetzt habe ich die Lösung!« sagte er
 lebhaft. »Und — es ist ohne Zweifel die richtige. Das
-Feindselige in Rolands Blicken, dem wir dem Aeußern
+Feindselige in Rolands Blicken, dem wir dem Äußern
 nach fraglos genau beschrieben worden waren, sein Auftauchen
 hier, die Art und Weise seiner Flucht, die Lichtsignale:
 alles paßt zu dieser Theorie! — Kehren wir zum
@@ -614,7 +614,7 @@ Ich schlief wieder ein. Dann rüttelte mich jemand.
 
 Ich riß die Augen auf.
 
-Ueber mir der ausgestirnte Nachthimmel. Vor mir
+Über mir der ausgestirnte Nachthimmel. Vor mir
 ein Lagerfeuer, zwei Männer, auf Decken liegend, dahinter
 die Umrisse von Reitkamelen, Felsen, ein paar Palmen.
 
@@ -632,7 +632,7 @@ Hartleport ging zum Feuer zurück und legte sich nieder.
 
 »So, dann können wir ja beginnen,« meinte Albert
 Greebrac mit kurzem Auflachen. Er drehte den Kopf nach
-Roland hin. »Es wird für Sie einige Ueberraschungen
+Roland hin. »Es wird für Sie einige Überraschungen
 geben, Hartleport —«
 
 »Bin neugierig, Mr. Harst! Ich wüßte nicht, welche?«
@@ -945,7 +945,7 @@ der Kopf vornüber. Für Minuten verlor ich das Bewußtsein.
 <h2>4. Kapitel.</h2>
 <h3>Maniter.</h3>
 
-Ueberlauter Donner, förmliche Kanonensalven weckten
+Überlauter Donner, förmliche Kanonensalven weckten
 mich.
 
 Nein — kein Donner! Nur das siedende Blut in
@@ -1456,7 +1456,7 @@ hatten, überwies Harald dem Lepraheim bei Dehli.
 
 Die Buschklepper der Thar waren jetzt völlig aufgerieben.
 Seitdem hat man nur noch ganz selten etwas von
-Ueberfällen auf Karawanen gehört. —
+Überfällen auf Karawanen gehört. —
 
 Eine Woche blieben wir in der Burg Tallamara.
 

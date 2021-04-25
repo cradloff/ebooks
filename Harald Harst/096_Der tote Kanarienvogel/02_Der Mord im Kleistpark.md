@@ -173,7 +173,7 @@ Frauchen hier, die mich unter Tränen um den toten Kanarienvogel
 bat, ihren Liebling, den ihr ein Mann gestohlen
 und getötet hätte, der bei ihr möbliert wohnte.
 Sie nannte sich Frau Sturz, Berlin W. Passauerstr. 299,
-Gartenhaus. Die Aermste war so unglücklich, daß ich
+Gartenhaus. Die Ärmste war so unglücklich, daß ich
 ihr den toten Vogel schließlich aushändigte. Sie wollte
 ihn in einem großen Blumentopf liebevoll bestatten.
 — Deine Mutter.
@@ -200,7 +200,7 @@ durchsuchen denn wahrscheinlich hat meine Mutter die
 Er ging hinaus. Ich hörte ihn die Treppe emporsteigen.
 
 Zimmer durchsuchen?! Hm — ob Harald fürchtete,
-die »Sturz« könne für uns irgend eine Ueberraschung zurückgelassen
+die »Sturz« könne für uns irgend eine Überraschung zurückgelassen
 haben?!
 
 Wenn ja, dann mußte ich wohl zunächst mal unter die
@@ -310,7 +310,7 @@ kann nicht wissen!«
 
 Er nahm einen Blechschneider und schnitt mit größter
 Behutsamkeit aus der Seitenwand ein Stück heraus,
-vergrößerte die Oeffnung, bis er den Blechzylinder zertrennt
+vergrößerte die Öffnung, bis er den Blechzylinder zertrennt
 hatte.
 
 Nun zog er die Teile, nachdem er den in Papier gewickelten
@@ -945,7 +945,7 @@ abgeholt, hat dabei die Blechbüchse hier im Sessel versteckt,«
 wiederholte Harst. »Weshalb tat sie dies? Weshalb ließ
 sie die Büchse mit den goldenen Löffeln hier? — Nun,
 auf diese Fragen wollen wir später eingehen. — Meine
-Mutter hatte mir das Aeußere der alten Dame genau beschrieben,
+Mutter hatte mir das Äußere der alten Dame genau beschrieben,
 auch die graue Perücke erwähnt, die als solche sofort
 zu erkennen war, hatte ebenso von der behaarten Warze
 auf der linken Wange gesprochen. Diese Warze fand ich
@@ -1073,7 +1073,7 @@ hing.
 Kaum hatte er vor dieser Tür ein paar Sekunden gestanden,
 als sie sich öffnete und er rasch eintrat.
 
-Der Briefträger war ich, der Oeffnende war Harst,
+Der Briefträger war ich, der Öffnende war Harst,
 der schon fünf Minuten vor mir als »Gasableser« sich hier
 mit Hilfe eines Dietrichs Zutritt verschafft hatte.
 
@@ -1186,7 +1186,7 @@ Dann gab es für uns nichts mehr zu tun, als abzuwarten,
 ob sich etwas ereignen, das heißt, ob jemand
 kommen würde.
 
-Ueber den Mord im Kleistpark und dessen Begleitumstände
+Über den Mord im Kleistpark und dessen Begleitumstände
 hatten wir nicht mehr gesprochen.
 
 Nun saßen wir auf dem kleinen Sofa.
@@ -1245,7 +1245,7 @@ könnte dieser seinem Sohne erklären, weshalb ich das
 älteste seiner Kinder zu meinem Erben einsetze. Ich habe
 den Oberst Schönborn, damals Leutnant, über alles geliebt.
 Als er eine andere wählte, habe ich aus Trotz, ohne
-Ueberlegung die bescheidene Werbung meines späteren
+Überlegung die bescheidene Werbung meines späteren
 Gatten angenommen. Mein Leben blieb arm an Glück.
 Meine schönsten Erinnerungen waren die an jene mit
 Leutnant Schönborn in harmloser Jugendfröhlichkeit verlebten
@@ -1337,7 +1337,7 @@ Dienste geleistet, als ich ahnte. Wir sind jetzt über alles
 unterrichtet. Parnack hat mit Hilfe der Holm die Rätin
 ermordet, damit sie ihm die 3 Mexikaner, die heute ein Vermögen
 darstellen, nicht wieder irgendwie abnehmen könnte.
-Sie sollte eben stumm gemacht werden, die Aermste.«
+Sie sollte eben stumm gemacht werden, die Ärmste.«
 
 Lautlos schlich Harst ins Wohnzimmer hinüber, kehrte
 sehr bald zurück und nahm wieder auf dem Sofa Platz.

@@ -50,7 +50,7 @@ Er langte in die Tasche und reichte Harst einen großen
 versiegelten Umschlag, erklärte weiter:
 
 »Dieses Schreiben wurde mir heute früh persönlich für
-Sie abgegeben, Master Harst. Die Ueberbringerin war eine
+Sie abgegeben, Master Harst. Die Überbringerin war eine
 Verschleierte Mohammedanerin, dem Anzug noch den reichern
 Ständen angehörend. Anscheinend eine Frau! In Wahrheit
 dürfte es wohl ein verkleideter Putra Rakisana gewesen
@@ -334,7 +334,7 @@ lediglich auf die Eisenbahn als bequemen Verkehrsweg angewiesen
 zu sein.
 
 Die Erlaubnis zur Fahrt auf dem Kanal hatte uns Inspektor
-Hamilton liebenswürdigerweise verschafft. Ueber
+Hamilton liebenswürdigerweise verschafft. Über
 diese Reise zu Wasser ließe sich manches Interessante berichten.
 Ich muß jedoch darauf verzichten, da diese Erzählung
 sonst zu umfangreich wird. Wir lernten jedenfalls einen
@@ -522,7 +522,7 @@ befinden sich in der Außentasche —«
 
 Ich wollte mich vorbeugen.
 
-Wollte. — Da kam schon die Ueberraschung.
+Wollte. — Da kam schon die Überraschung.
 
 Die niedrige Tür nach der Schlafkajüte flog auf. Und
 auf der Schwelle, in jeder Hand einen Revolver, stand ein
@@ -748,7 +748,7 @@ dem prinzlichen Parke schildern. Dieser war scharf bewacht.
 Vier Wächter stellte ich fest. Ein Beweis, daß Seine braune
 Hoheit mit Fluchtgedanken seiner Tochter rechnet. — Mir
 lag bei diesem Eindringen in den großen Garten lediglich daran,
-die Oertlichkeit ein wenig kennen zu lernen. Der Palast
+die Örtlichkeit ein wenig kennen zu lernen. Der Palast
 selbst muß sehr alt sein. Die Granitquadern sind ja auch
 wie für die Ewigkeit bestimmt. — Der Harem liegt nach
 Westen zu in einem Anbau von quadratischer Form. Er hat
@@ -804,7 +804,7 @@ Kutter.« —
 Greaper holte uns im Auto nach seinem Bungalow ab.
 Wir blieben dort bis gegen zehn Uhr. Als wir auf unserem
 Kutter wieder anlangten, fanden wir zwei Detektive auf dem
-Deck, die sich nun zurückzogen. Trotz dieser Ueberwachung
+Deck, die sich nun zurückzogen. Trotz dieser Überwachung
 durchsuchten wir das Fahrzeug vorsichtshalber vollständig.
 Dann warf Harst den Motor an. Wir verließen das Hafenbassin
 und hatten Lucknow eine halbe Stunde später weit
@@ -951,7 +951,7 @@ den Nachen überrannt, und man müßte doch wenigstens versuchen
 Harst. »Sehr richtig! Das werden wir auch. — Von Fahrlässigkeit
 war hier keine Rede. Im Gegenteil. Das Motorboot
 wollte das Boot rammen. Es fehlt Deinen Augen an
-der nötigen Uebung, lieber Alter, Vorgänge auseinander zu
+der nötigen Übung, lieber Alter, Vorgänge auseinander zu
 halten, die sich sehr schnell abspielen. Den Leuten in dem Motorboot
 kam es lediglich darauf an, sich der beiden Insassen
 des Nachens, offenbar Frauen, ohne Aufsehen zu erregen zu
@@ -1124,7 +1124,7 @@ wird!«
 Achmed Ibur Dau hatte die Arme über der Brust verschränkt.
 Fast feierlich sagte er nun:
 
-»Ueber der Liebe, selbst der größten, steht das Vaterland,
+»Über der Liebe, selbst der größten, steht das Vaterland,
 steht die Freiheit von Millionen! Wer Achmed Ibur Dau aus
 dem alten Königsgeschlecht der Tallabisser einen Feigling
 nennt, kennt ihn schlecht. — Was sollte das rote und grüne
@@ -1230,7 +1230,7 @@ Freund Schraut. Vielleicht haben Sie schon von uns gehört?«
 »Genug, um auch bestimmt zu wissen, daß Sie mich und
 meine Tochter belauscht haben,« meinte Achmed gelassen und
 nahm eine noch zwanglosere Haltung ein. »Weshalb dieser
-Ueberfall, Master Harst?«
+Überfall, Master Harst?«
 
 Er schlug ein Bein über das andere, fuhr fort: »Wollen
 Sie sich nicht lieber als meine Gäste betrachten, Master Harst?

@@ -263,7 +263,7 @@ Long dann das Schiff verlassen haben?! — Diese Ausführungen
 könnte ich noch weiter ausspinnen. Es hat
 keinen Zweck. Der bisherige Sachverhalt besagt ganz klar:
 
-> Hier liegt eine beabsichtigte Irreführung der Oeffentlichkeit,
+> Hier liegt eine beabsichtigte Irreführung der Öffentlichkeit,
 also der Behörden, vor. Die beiden
 Matrosen haben nur leichte Verletzungen und
 haben die schwere Ohnmacht und die nachfolgende
@@ -320,7 +320,7 @@ zurückverlangen wird. — Der Plan der vier muß mithin
 entweder harmlos sein — wäre er es nicht oder wären es
 seine Folgen nicht, dann dürfte de Long es ja nur dann
 wagen, in Warnemünde sich zu zeigen, wenn der Plan
-nebst Folgen nie an die Oeffentlichkeit käme! — oder aber
+nebst Folgen nie an die Öffentlichkeit käme! — oder aber
 er ist so feingesponnen, daß er nie entdeckt werden kann,
 wenigstens nach de Longs Ansicht! — Auch dieser Punkt,
 mein Alter, läßt sich bis ins feinste zergliedern. Ich verzichte
@@ -488,7 +488,7 @@ So fanden sich unsere Hände in festem Druck.
 »Wir haben Glück gehabt,« lächelte Harst.
 
 Da trat auch schon ein graubärtiger, verwitterter
-Fischer im Oelanzug ein.
+Fischer im Ölanzug ein.
 
 Der Alte nickte mir zu. »Haben Sie auch Hunger,
 Herr?« meinte er freundlich. »Hier ist Büchsenfleisch und
@@ -570,7 +570,7 @@ den Kutter irgendwo weit von Arendsee entfernt landen.
 Mieten Sie ihn noch für einen vollen Tag. Sorgen Sie
 <@pagebreak/>
 aber, daß die Fischer nicht mit anderen Leuten sprechen
-können. Schraut und ich müssen für die Oeffentlichkeit
+können. Schraut und ich müssen für die Öffentlichkeit
 verschwunden bleiben.«
 
 »Die Fischer sind Vater und Sohn und zuverlässig,«
@@ -844,7 +844,7 @@ werden sollte.
 Wir verabschiedeten uns von Vater und Sohn. Harst
 warnte sie noch vor dem Weibe. — »Wenn Sie sie entschlüpfen
 lassen, kann uns, Schraut und mir, abermals etwas
-Aehnliches zustoßen wie das Abenteuer in der Jolle!
+Ähnliches zustoßen wie das Abenteuer in der Jolle!
 Also Vorsicht!«
 
 <h2>4. Kapitel.</h2>
@@ -1141,7 +1141,7 @@ Schlüssel steckten von außen.
 
 Die eine Tür mußte in den Flur münden. Wir sägten
 die Riegel mit der Stahlsäge durch. Ich hielt die
-Säge stets unter Oel. Sie arbeitete ganz geräuschlos.
+Säge stets unter Öl. Sie arbeitete ganz geräuschlos.
 
 Dann ölte ich auch die Türangeln. Nun öffnete Harst
 die Tür mit einem Ruck. Die Angeln kreischten nicht.

@@ -22,7 +22,7 @@ Bände füllen. Eine Probe ihrer verbrecherischen Intelligenz
 habe ich ja dem Leser in unserem vorigen Abenteuer zu kosten
 gegeben, in »Fünf Stecknadeln« — Nun, diese Falle damals
 in Patna hatte uns genügend gewarnt. Zum zweiten Male
-sollte uns etwas Aehnliches nicht passieren.
+sollte uns etwas Ähnliches nicht passieren.
 
 Die Sache in Patna lag nun genau zwei Wochen zurück.
 Wir befanden uns jetzt in Bombay, seit drei Tagen. Harald
@@ -77,7 +77,7 @@ mich doch nicht. Entschuldige bitte, daß ich mit diesem »Es
 ist nicht wahr« so herausplatzte.«
 
 »He — nicht wahr — nicht wahr!« polterte der General,
-der in seinem Aerger ebenfalls nicht bedachte, daß die Nachbarn
+der in seinem Ärger ebenfalls nicht bedachte, daß die Nachbarn
 jedes Wort vernehmen konnten. »Und dies hier, Bessy,
 — was ist dies hier?! Ich habe mein Lebtag mir die Fingernägel
 nicht lackiert. Dies hier aber ist ein lackierter, abgebrochener
@@ -110,7 +110,7 @@ Dann rief der General mit Donnerstimme:
 »Herein!«
 
 Es mußte also jemand Einlaß begehrt haben. Und — jetzt
-kam die Ueberraschung: ich erkannte Harald Harsts klares,
+kam die Überraschung: ich erkannte Harald Harsts klares,
 geschmeidiges Organ, das in der Rolle als Diener noch weicher
 und bescheidener klang.
 
@@ -511,7 +511,7 @@ dasselbe, was er schon mir in Bombay erklärt hatte:
 er fügte noch mit feinem Lächeln hinzu: »Auch der Zufall läßt
 sich ja korrigieren.«
 
-Und von diesem Moment an, wo er diese Aeußerung getan
+Und von diesem Moment an, wo er diese Äußerung getan
 hatte, beobachtete ich ihn und sein Tun und Lassen aufs
 schärfste. Ich wollte herausbringen, wann er beginnen würde,
 »den Zufall zu korrigieren«, denn — für mich stand jetzt fest,
@@ -776,7 +776,7 @@ meiner interessanten Lektüre nicht wenig störte.
 
 Denn — für den »Fachmann« bot dieser Mord in der
 Tat allerlei Momente, die ihn zu etwas Besonderem machten.
-Das war meiner Ueberzeugung nach ein Verbrechen, hinter
+Das war meiner Überzeugung nach ein Verbrechen, hinter
 dem mehr steckte, als der Laie vermuten konnte.
 
 Ich hatte die Zeitung in den Schoß sinken lassen und
@@ -830,7 +830,7 @@ Er wurde nicht im geringsten verlegen unter meinem Blick.
 Um seinen Mund lag noch immer das pfiffige Schmunzeln.
 Im Mundwinkel hing ihm eine frische Zigarette. Jetzt strich
 er ein Streichholz an. Die Flamme beleuchtete sein Gesicht.
-Und ich — ich hätte beinahe vor Ueberraschung einen Namen
+Und ich — ich hätte beinahe vor Überraschung einen Namen
 gerufen — einen sehr bekannten Namen! Denn die bisher
 so eng zusammengekniffenen Augen hatten sich aufgetan, waren
 jetzt groß und klar, waren von jenem dunklen Grau, das
@@ -1124,22 +1124,22 @@ Schließkorb, darauf lag ein großer Pappkarton.
 »Die Polizei hat hier schon alles durchwühlt und das Weitervermieten
 des Zimmers gestattet. — Nun werde ich bei meiner
 Wirtin anläuten und das Abendbrot bringen lassen. Und —
-hoffentlich serviert es uns Fräulein Aenne Schultz. Ich habe
+hoffentlich serviert es uns Fräulein Änne Schultz. Ich habe
 ihr beim Mieten so viel Schmeicheleien zu kosten gegeben,
 daß sie —«
 
-Es klopfte. Harst rief »Herein,« und — Aenne Schultz
+Es klopfte. Harst rief »Herein,« und — Änne Schultz
 erschien.
 
 Ich war erstaunt, einem so feschen, hübschen Mädel vorgestellt
 zu werden. Das hatte ich allerdings nicht erwartet.
-Diese Aenne war so eine von jenen Berlinerinnen, die sich
+Diese Änne war so eine von jenen Berlinerinnen, die sich
 anzuziehen verstehen, die schlagfertig und lebenslustig sind und
 um deren Mund ein Lächeln zuckt, das anzudeuten scheint:
 »Oh — Ihr Männer macht mir nichts mehr vor. Ich kenne
 Euch aus dem ff.«
 
-Aenne brachte dann das große Teebrett und stellte Rührei,
+Änne brachte dann das große Teebrett und stellte Rührei,
 Schinken und anderes auf den Tisch.
 
 »Mein Freund Ruhnke hat leider keine Zeit,« meinte
@@ -1153,11 +1153,11 @@ Sie zierte sich nicht lange. — Harst konnte ja jede Art
 Unterhaltung in Fluß bringen, jede — mit jedem! Und so
 waren wir drei denn sehr bald recht vergnügt.
 
-Ich war Aenne als Herr Sekretär Bachmann vorgestellt
+Ich war Änne als Herr Sekretär Bachmann vorgestellt
 worden. So ganz — ganz allmählich kam Harst auf Ernst
 Bickel, den ermordeten Goldarbeiter, zu sprechen.
 
-Aha — also Aenne sollte ausgehorcht werden. — Und —
+Aha — also Änne sollte ausgehorcht werden. — Und —
 wie glänzend gelang das Harst. Nur er kann so unauffällig
 und so tropfenweise eine Quelle zum Fließen bringen, nur er!
 Es war geradezu ein Genuß, diese jongleurhafte Gewandtheit
@@ -1165,15 +1165,15 @@ zu beobachten, mit der er dem Kern der Sache näherrückte.
 — Ich will hier lediglich das Ergebnis dieser Unterhaltung
 mitteilen.
 
-Ernst Bickel hatte sich in Aenne verliebt gehabt, hatte ihr
-sogar zwei Anträge gemacht. Aenne lachte ihn aus. Sie und
+Ernst Bickel hatte sich in Änne verliebt gehabt, hatte ihr
+sogar zwei Anträge gemacht. Änne lachte ihn aus. Sie und
 dieser verwachsene Gnom — unmöglich! Außerdem: sie hatte
-ihres Erachtens auf Grund ihres Aeußeren Anspruch auf eine
+ihres Erachtens auf Grund ihres Äußeren Anspruch auf eine
 erstklassige Partie. Ihr Vater war Steueraufseher gewesen,
 und sie und die Mutter besaßen ein kleines Vermögen. —
-Kurz: Aenne hatte Millionärträume! Das sagte sie auch
+Kurz: Änne hatte Millionärträume! Das sagte sie auch
 Bickel, — und wahrscheinlich in etwas herzloser Weise. Denn
-diese Aenne war ein reizender Schmetterling — ohne viel
+diese Änne war ein reizender Schmetterling — ohne viel
 Gemüt. Das war mir sehr bald klar geworden. Einer ihrer
 Sätze war besonders kennzeichnend für sie:
 
@@ -1188,20 +1188,20 @@ einen Unsinn zu reden, nicht wahr! Wo wollte er ’ne Million
 wohl herholen?«
 
 »Wann sagten Sie das von der halben Million zu ihm,
-Fräulein Aenne?« fragte Harst.
+Fräulein Änne?« fragte Harst.
 
 »Oh — das war vielleicht vor anderthalb Wochen, es
 können auch zwei Wochen her sein —«
 
 Harst schnitt dann ein anderes Thema an, — genau so
 geschickt und genau so auf Umwegen: ob Bickel denn wirklich
-mit niemandem verkehrt hätte und ob Aenne hierüber nichts
+mit niemandem verkehrt hätte und ob Änne hierüber nichts
 wüßte: man interessiere sich doch nun mal für jeden Mord,
 <@pagebreak/>
 und er ganz besonders für den Fall Bickel, weil er doch nun
 hier das Zimmer des Toten bewohne.
 
-Aenne schüttelte den Kopf, lachte etwas wegwerfend.
+Änne schüttelte den Kopf, lachte etwas wegwerfend.
 
 »Der und Verkehr haben! Er war ja so — so menschenscheu,
 so, als ob er was auf dem Gewissen hatte. Und geizig
@@ -1215,7 +1215,7 @@ hatte liegen lassen und bei Muttern in der Küche
 war. Und da sah ich denn, daß außer seinen Kleidern noch
 so ’ne Art Maschine drin stand, so wie ’ne Nähmaschine etwa;
 wenigstens war unten ein Schwungrad und oben auf der
-Platte so was wie ’ne Scheibe. Ich habe noch nie was Aehnliches
+Platte so was wie ’ne Scheibe. Ich habe noch nie was Ähnliches
 gesehen.«
 
 »Und wo ist diese Maschine jetzt geblieben?«
@@ -1226,7 +1226,7 @@ muß Kräfte gehabt haben; es schleppte die zusammengebundenen
 Teile allein die Treppe runter in eine Droschke.«
 
 »Eine Frau?! Dann war’s doch wohl ’ne Nähmaschine,
-Fräulein Aenne?«
+Fräulein Änne?«
 
 »Weiß ich nicht. Ist mir auch gleichgültig. Nur das
 Weib — sie hatte schon graue Haare — imponierte mir, weil
@@ -1239,7 +1239,7 @@ der Schwelle standen zwei bärtige Schutzleute im Helm. Der
 eine trat näher, musterte Harst und mich durchdringend und
 sagte nur: »Vorwärts — mitkommen!«
 
-Das war eine fatale Ueberraschung. — Harst blieb ganz
+Das war eine fatale Überraschung. — Harst blieb ganz
 ruhig, fragte, was wir denn verbrochen hätten.
 
 »Maul halten!« meinte der Beamte barsch. Und plötzlich
@@ -1257,7 +1257,7 @@ für uns?«
 
 Die beiden Beamten führten uns ab, würdigten uns keines
 Wortes. Unten vor dem Hause hielt ein geschlossenes
-Auto. Aenne Schultz war hinter uns geblieben und rief uns
+Auto. Änne Schultz war hinter uns geblieben und rief uns
 zu, als wir einstiegen:
 
 »Aha — also von der Sorte seid Ihr! Herr Wachtmeister,
@@ -1275,7 +1275,7 @@ nichts. Nur die Helmbeschläge und die Uniformknöpfe
 blitzten matt.
 
 So allmählich konnte ich nach dieser plötzlichen Unterbrechung
-unserer Unterhaltung mit Aenne Schultz meine Gedanken
+unserer Unterhaltung mit Änne Schultz meine Gedanken
 wieder genügend klären, um das, was jetzt geschah, in
 gewisser Weise kritisch zu prüfen. Da fiel mir denn zunächst
 auf, daß es im Innern des Autos bis auf den Lichtschein der
@@ -1658,7 +1658,7 @@ Hauptmenge der Edelsteine fanden wir nicht! —
 Mautley und Bickpool schwiegen bei allen Vernehmungen
 hartnäckig. Harst wies letzteren jedoch den Mord an
 dem Edelsteinschleifer bis ins einzelne nach. Daß Ernst Bickel
-lediglich aus Liebe zu Aenne Schultz sich mit den Verbrechern
+lediglich aus Liebe zu Änne Schultz sich mit den Verbrechern
 eingelassen hatte, um ihr wirklich die versprochene Million
 bieten zu können, unterlag keinem Zweifel. — Auch der Chauffeur
 des Autos, in dem wir entführt worden waren, wurde

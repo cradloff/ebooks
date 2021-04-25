@@ -409,7 +409,7 @@ Jobster seufzte und setzte sich wieder.
 
 »Aus Harst wird man schwer klug,« sagte er etwas ärgerlich.
 »Man muß sich an seine Art erst sehr gewöhnen. Was
-sollte zum Beispiel vorhin seine Aeußerung: »Das — war die
+sollte zum Beispiel vorhin seine Äußerung: »Das — war die
 eine Möglichkeit« —?«
 
 »Keine Ahnung!« erklärte ich. »Sie sind also offenbar
@@ -421,7 +421,7 @@ sich so äußert wie bei ihm!«
 
 »Stimmt. — Eine Frage: Gehen hier in der Stadt irgend
 welche Gerüchte um, daß Boorstettens Frau vielleicht ein
-anderes Ende gefunden hätte, als die Oeffentlichkeit erfuhr?«
+anderes Ende gefunden hätte, als die Öffentlichkeit erfuhr?«
 
 »Hm — das wohl nicht. Man sprach nur darüber, daß
 die junge Frau in letzter Zeit vor ihrem Tode so furchtbar
@@ -684,7 +684,7 @@ sich jetzt gleichsam. Er richtete sich wieder auf, wandte sich um,
 nickte mir zu.
 
 »Also doch!« flüsterte er. »Auch das ist eingetreten! Ich
-hatte mit irgend etwas Aehnlichem gerechnet.«
+hatte mit irgend etwas Ähnlichem gerechnet.«
 
 Er war mir in dieser Minute unverständlicher denn je!
 Weshalb lächelte er zu seinen Worten so befriedigt?! Weshalb
@@ -911,7 +911,7 @@ ihn trug. Und — der Mann war ebenfalls übernervös, konnte
 die Arme nicht stillhalten, bewegte auch dauernd die Finger,
 die den Kolben der klobigen Pistole umspannten.
 
-Boorstetten! — Das war in der Tat eine Ueberraschung!
+Boorstetten! — Das war in der Tat eine Überraschung!
 Und für Harst eine noch größere als für mich, denn Harald
 hatte ja so bestimmt erklärt, daß der Holländer mit der Wegschaffung
 der Leiche und mit allem andern nichts zu tun hätte!
@@ -1070,7 +1070,7 @@ so leicht keiner nach!
 hat er die Leiche zurückgebracht,« flüsterte ich Harald zu.
 
 Er antwortete nur mit einem »Hm — beinahe!« Diese
-Aeußerung begriff ich nicht. — War es etwa gar keine Leiche?
+Äußerung begriff ich nicht. — War es etwa gar keine Leiche?
 War es — eine Wachsfigur, ein Wachskopf?
 
 Harst bat mich um den Türschlüssel, den ich eingesteckt
@@ -1292,11 +1292,11 @@ Haben Sie Ihres Nervenleidens wegen bereits einen Arzt
 konsultiert? Ich kann mir jedenfalls nicht denken, daß Sie
 dieser Nervosität gegenüber völlig gleichgültig sind.«
 
-Der Holländer krauste die Stirn. »Ich halte von Aerzten
+Der Holländer krauste die Stirn. »Ich halte von Ärzten
 nichts. Aber — ich habe mich zweimal untersuchen lassen,
 allerdings lediglich auf Drängen meines Freundes und Nachbars,
 des früheren Hauptmanns Edward Plavarston. Beide
-Aerzte verordneten mir Mixturen, die auch nicht die Spur
+Ärzte verordneten mir Mixturen, die auch nicht die Spur
 halfen!«
 
 »Sehr schlau!« meinte Harst zerstreut und legte sich etwas
@@ -1379,7 +1379,7 @@ ein stattlicher, hübscher Mann. Ich schätzte ihn auf kaum dreißig
 Jahre. Er und Advokat Templetey schienen sich nicht zu
 lieben. Wenn sie miteinander sprachen, geschah es stets in
 spitzen, ironischen Redewendungen. Plavarston hielt sehr
-viel auf sein Aeußeres. Templeteys Frack (wir trugen sämtlich
+viel auf sein Äußeres. Templeteys Frack (wir trugen sämtlich
 dieses lästige Ding nach englischer Sitte) war ehrwürdig
 alt und blankgescheuert.
 
@@ -1552,7 +1552,7 @@ Plavarston. Boorstetten schaute immer wieder nach unserem
 Tisch hin, und Sie redeten in einer Weise auf ihn ein, daß
 ich den Eindruck gewann, der ältere Herr, eben Boorstetten,
 wollte mich in irgend einer Sache zu Rate ziehen, während der
-Jüngere — ich glaubte erst, dies sei der Sohn des Aelteren —
+Jüngere — ich glaubte erst, dies sei der Sohn des Älteren —
 ihm dies auszureden suchte. Ich beobachtete weiter, daß der
 Jüngere seine Zigaretten stets mit einem Streichholz anzündete.
 Die Streichholzschachtel hatte ein grellgelbes Schildchen.
@@ -1585,7 +1585,7 @@ daß die Tote soeben erst fortgeschafft worden war. Ich dachte
 sogleich an Plavarston hierbei, der eine Sektion der Leiche
 befürchtet haben mochte und so — eine Feststellung von Gift
 im Körper. Dann wurden wir dort eingesperrt. Ich hatte
-damit gerechnet. Mir kam also auch die scheinbare Ueberrumpelung
+damit gerechnet. Mir kam also auch die scheinbare Überrumpelung
 durch Sie, Plavarston, nicht unerwartet. Sie hatten
 sich als Boorstetten herausgeputzt — durch einen falschen
 Bart. Sie wollten mich glauben machen, Boorstetten sei der

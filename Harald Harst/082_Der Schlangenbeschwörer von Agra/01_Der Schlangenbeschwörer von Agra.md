@@ -37,7 +37,7 @@ zu können.
 <@pagebreak/>
 Die Bombay Post hatte ihren Lesern nicht zu viel versprochen.
 Am folgenden Tage brachte sie einen neuen Artikel
-unter der Ueberschrift »Der Fall Lydia Ramand«.
+unter der Überschrift »Der Fall Lydia Ramand«.
 
 Leider müssen wir in Ergänzung unserer gestrigen Meldung
 von der glücklichen Befreiung Lydia Ramands heute
@@ -77,7 +77,7 @@ bitten. Die Polizei steht hier vor einem vollkommenen Rätsel.
 Boßwell ist überzeugt, daß Greebrac die beiden deutschen
 Detektive hat entführen lassen.
 
-Man kann gespannt sein, welche weiteren Ueberraschungen
+Man kann gespannt sein, welche weiteren Überraschungen
 der Fall Lydia Ramand noch bringen wird. Zur Zeit
 ist die Polizei fieberhaft tätig, des Verschwinden des Freundespaares
 <@pagebreak/>
@@ -133,7 +133,7 @@ Mitteilung etwas entgangen.«
 demselben Manne geschrieben wurde wie der ironische
 Nachsatz.«
 
-»Ja, das behaupte auch ich,« meinte ich voller Ueberzeugung.
+»Ja, das behaupte auch ich,« meinte ich voller Überzeugung.
 »Außerdem aber scheint mir der ironische Nachsatz
 auch erst ganz kürzlich geschrieben zu sein, etwa heute
 früh, während der erste Teil meines Erachtens vor längerer
@@ -295,7 +295,7 @@ Die Hülle fiel auseinander.
 Auf dem einen Bronzearm hockte ein winziges braunes
 Kerlchen mit struppigem kurzen Bart ganz in schmieriges
 Leinen gekleidet. Unter buschigen Brauen funkelten
-ein Paar listige Aeuglein über einer winzigen, platten Nase.
+ein Paar listige Äuglein über einer winzigen, platten Nase.
 
 Harst zielte bedächtig auf den Eindringling.
 
@@ -380,7 +380,7 @@ Wir durchsuchten Sistri aufs genaueste. Aber den
 Ring fanden wir nicht. Der Zwerg hatte jedoch außer dem
 Revolver noch ein Fläschchen mit Gift bei sich gehabt.
 
-Harald streifte des Zwerges rechten Aermel hoch.
+Harald streifte des Zwerges rechten Ärmel hoch.
 
 So klein der Bursche auch war, er besaß Muskeln wie
 aus Stahl.
@@ -458,7 +458,7 @@ Die Deckenlampe erlosch.
 
 »Gute Nacht, mein Alter,« rief Harst mir zu. —
 
-Ich war gespannt, wie dieser Ueberlistungsversuch
+Ich war gespannt, wie dieser Überlistungsversuch
 enden würde.
 
 Im Hause schlug eine Uhr zwölf.
@@ -595,7 +595,7 @@ in unser Abteil zurückkehrte, sagte er kopfschüttelnd:
 »Du wirst es kaum glauben, mein Alter: die beiden
 sprechen Deutsch miteinander!«
 
-Allerdings — das war wirklich eine Ueberraschung!
+Allerdings — das war wirklich eine Überraschung!
 
 »Ob denn etwa das so vorsichtig verschleierte Weib
 eine Deutsche ist?« meinte ich.
@@ -1026,7 +1026,7 @@ behielt er mich aber doch als Gast bei sich. Nur bat er mich,
 eine Verkleidung anzulegen. Als Europäerin würde ich
 in seiner Hütte zu sehr auffallen.
 
-Ueber den Brief, den er mir seiner Zeit so ohne jede
+Über den Brief, den er mir seiner Zeit so ohne jede
 nähere Erklärung übergeben hatte, konnte er mir nur folgendes
 mitteilen.
 
@@ -1254,7 +1254,7 @@ Satan, Harst! Aber — wir werden quitt werden!«
 
 »Hüten Sie sich, Greebrac!« warnte Harald nochmals.
 »Sobald ich auch nur merke, daß Sie mich beobachten lassen,
-haben Sie das Uebereinkommen gebrochen! Ich und
+haben Sie das Übereinkommen gebrochen! Ich und
 Schraut und Miß Wattner werden bis übermorgen nacht
 schweigen — bis zwölf Uhr! Dann haben Sie die Kette
 drei Stunden in Händen; dann ist der Waffenstillstand zu
@@ -1262,7 +1262,7 @@ Ende!«
 
 Greebrac löste schon Harsts Fesseln.
 
-»Keine Sorge!« zischte er. »Uebermorgen nach zwölf
+»Keine Sorge!« zischte er. »Übermorgen nach zwölf
 Uhr nachts sind Sie mein!«
 
 Auch ich wurde von Adi losgebunden. Harst winkte
@@ -1532,7 +1532,7 @@ Umwege der Eigentümerin zurückgeben,« sagte er leichthin.
 »Wie Sie wollen, lieber Harst. Mir ist es recht.«
 
 »Und dann, Lockpor: von der Kette darf vorläufig nichts
-in die Oeffentlichkeit dringen, verstanden!«
+in die Öffentlichkeit dringen, verstanden!«
 
 »Wird gemacht. Meine Leute schweigen.«
 

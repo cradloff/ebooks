@@ -59,7 +59,7 @@ stieß den Rauch von sich und fragte:
 
 »Schnell — schnell zog sie den Knaben mit sich fort?«
 
-»Ja — sehr schnell. Ueberhaupt, Herr Harst, die
+»Ja — sehr schnell. Überhaupt, Herr Harst, die
 Dame war so dicht verschleiert und sah so fein aus, daß
 ich nicht recht verstand, wie sie an der Drachenfliegerei Gefallen
 finden könnte und weshalb sie dem Knaben nicht ein
@@ -210,7 +210,7 @@ Die Sache ruht bereits in guten Händen. — Guten
 Abend —«
 
 »Noch einen Augenblick, Herr Riemer. Wir glauben
-da gewisse Anhaltspunkte gefunden zu haben, die den Ueberfall
+da gewisse Anhaltspunkte gefunden zu haben, die den Überfall
 als ein sogenanntes Scheinverbrechen —«
 
 Der Fabrikbesitzer trat schnell wieder an die Pforte
@@ -228,7 +228,7 @@ Sie denn darauf?«
 Sein Benehmen war merkwürdig. Es machte durchaus
 <@pagebreak/>
 den Eindruck, als wäre es ihm höchst peinlich,
-daß jemand auf den Gedanken gekommen, der Ueberfall
+daß jemand auf den Gedanken gekommen, der Überfall
 sei nur der Papiere wegen ausgeführt worden.
 
 Harst erwiderte geheimnisvoll:
@@ -320,7 +320,7 @@ falsch. Es war ein Motorrad mit einem zweiten Japaner
 auf dem Anhängesitz.«
 
 <@pagebreak/>
-Ich, gewohnt an solche Ueberraschungen meinte nur:
+Ich, gewohnt an solche Überraschungen meinte nur:
 
 »Folgten sie uns von der Blücherstraße an?« (Dort
 liegt ja das Harstsche Grundstück.)
@@ -329,7 +329,7 @@ liegt ja das Harstsche Grundstück.)
 
 »Dann ist auch die Drachen-Dame eine Japanerin.«
 
-»Wahrscheinlich. Uebrigens wird sie sich den Jungen,
+»Wahrscheinlich. Übrigens wird sie sich den Jungen,
 den sie gestern mithatte, von der Straße gegen ein Trinkgeld
 mitgenommen haben.«
 
@@ -379,7 +379,7 @@ Hauptmann.«
 
 »Die Frau des Adjutanten und deren Dienerin.«
 
-»Danke vielmals. — Wieviel Aerzte, Zahnärzte,
+»Danke vielmals. — Wieviel Ärzte, Zahnärzte,
 Zahntechniker und Apotheker gibt es hier?«
 
 Harald notierte sich die Namen und die Adressen.
@@ -470,7 +470,7 @@ ist gestern abend verreist.«
 
 <@pagebreak/>
 »Das nicht gerade. Ich kenne ihn nur ganz flüchtig
-von dem Zahnarzt her, bei dem er arbeitete. Uebrigens
+von dem Zahnarzt her, bei dem er arbeitete. Übrigens
 hat er dort ein Taschentuch vergessen, ein feines Batisttuch
 mit dunkelblauem Rand.«
 
@@ -703,7 +703,7 @@ wieder Platz. Es ist besser für Sie — wirklich!«
 Ich wußte sofort: der Tee war nicht das einzige Mittel,
 das Hotowatu bereit hatte, um uns hier festzuhalten.
 
-Auch Harst fürchtete wohl neue Ueberraschungen.
+Auch Harst fürchtete wohl neue Überraschungen.
 
 »Setzen Sie sich!« befahl er dem Japaner barschen
 Tones. »Gehorchen Sie!«
@@ -953,7 +953,7 @@ zusammensammelt, der weiß hier auch nachts Bescheid.«
 
 Weiter erfuhren wir von ihr auch den Namen des
 Gutes des Konsuls, Buchengrund, und daß Riemer das
-Gut erst zwei Jahre besäße. Ueber ihn selbst konnte sie
+Gut erst zwei Jahre besäße. Über ihn selbst konnte sie
 nichts angeben. Nur daß er leidenschaftlicher Jäger war
 und gegen Holzdiebe sehr streng, das sei hier bekannt. Sie
 begegne ihm öfters im Walde. Gegen alte Leute sei er
@@ -976,7 +976,7 @@ schlichen näher, ganz behutsam, krochen das letzte Stück,
 hörten eine Stimme, die sehr laut und eindringlich klang,
 <@pagebreak/>
 richteten uns hinter einem Strauche auf und sahen zu unserer
-Ueberraschung den Konsul a. D. Riemer im Jagdanzug
+Überraschung den Konsul a. D. Riemer im Jagdanzug
 mit umgehängter Flinte vor einem Zigeuner und
 einer Zigeunerin stehen, die neben dem Feuer im Grase
 saßen.
@@ -1126,7 +1126,7 @@ als um den einen Mord.«
 <@pagebreak/>
 Riemer stand am Rande des Torfstichs und wandte
 sich jetzt abermals dem Walde zu. Wir schlichen ihm nach.
-Er warf trockene Aeste auf das Feuer und suchte nun nach
+Er warf trockene Äste auf das Feuer und suchte nun nach
 Möglichkeit die Spuren des Lagerplatzes zu beseitigen,
 verbrannte von den Zigeunern weggeworfene Lumpen,
 kratzte den Pferdedünger auseinander und deckte schließlich
@@ -1205,7 +1205,7 @@ an dessen Zaun wir jetzt langsam dahinschlichen.
 Bald sahen wir das einfache Fachwerkhaus mit der
 großen Glasveranda vor uns. Wir standen am Zaune
 und spähten hinüber. Im Erdgeschoß nach vorn waren zwei
-Fenster erleuchtet. Ueber die hellen Vorhänge glitt immer
+Fenster erleuchtet. Über die hellen Vorhänge glitt immer
 wieder der Schatten eines rastlos wandernden Mannes.
 
 Otto Riemer war’s. Vielleicht trieb ihn das Gewissen
@@ -1239,7 +1239,7 @@ Dann ein kurzes Aufheulen.
 
 Stille.
 
-»Ueber den Zaun! Vorwärts!« flüsterte Harald.
+»Über den Zaun! Vorwärts!« flüsterte Harald.
 
 Doch der Staketenzaun war hoch, hatte oben vier Reihen
 Stacheldrähte. Es ging nicht so schnell, wie’s hier
@@ -1414,7 +1414,7 @@ nach Eberswalde zurück. Mittags waren wir wieder
 daheim. Um sechs Uhr nachmittags besuchte uns der
 japanische Botschaftsrat Graf Sadokato und bat Harald
 im Auftrage der japanischen Regierung nach dem Prinzen
-Hotowatu zu suchen, der doch offenbar während der Ueberfahrt
+Hotowatu zu suchen, der doch offenbar während der Überfahrt
 <@pagebreak/>
 von Japan nach Europa samt seinem aus sechs Köpfen
 bestehenden Gefolge irgendwie beseitigt worden sei.

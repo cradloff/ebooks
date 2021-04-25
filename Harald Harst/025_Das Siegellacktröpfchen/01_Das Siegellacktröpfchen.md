@@ -245,7 +245,7 @@ Wir kehrten dann zu der Leiche zurück. Dalbott zog dem
 kleinen Toten den schmierigen, grüngelben Zeugstreifen ab.
 <@pagebreak/>
 Der Junge trug darunter nur noch eine zerrissene hemdartige
-Jacke mit weiten Aermeln.
+Jacke mit weiten Ärmeln.
 
 »Ein Kind aus den ärmsten Volksschichten,« meinte Dalbott
 und zeigte auf die Schwielen der Fußsohlen und die abschreckende
@@ -314,7 +314,7 @@ ins Deutsche übertragen:
 
 > »Ich rate Ihnen dringend, sich nicht mit der Angelegenheit
 zu befassen, die Sie mit Master Chester Blindley während
-der Ueberfahrt von Kapstadt nach Madras besprochen
+der Überfahrt von Kapstadt nach Madras besprochen
 haben. Sie würden sich nur Gefahren aussetzen, wenn Sie
 trotz dieser Warnung etwa Lord Wolpoore aufsuchen wollten.
 Eine Probe von dem, was ich zu tun vermag, haben Sie
@@ -369,7 +369,7 @@ gewesene Leben des Lords vor einem achtzehnten zu schützen
 und die geheimnisvolle Bande zu ermitteln, die diese Attentate
 vorbereitet hatte, ahnte daß jemals auch nur ein einziger von
 ihnen dabei abgefaßt wurde. Blindley behauptet, es seien Mitglieder
-der seiner Ueberzeugung nach noch immer fortbestehenden
+der seiner Überzeugung nach noch immer fortbestehenden
 Mördersekte der Thug. Tatsache ist ja, daß seit fünfzig
 Jahren kein einziger Wolpoore, ob Mann oder Weib, eines
 natürlichen Todes gestorben ist und daß vor sechs Jahren Lord
@@ -407,7 +407,7 @@ angesehen. Na — vielleicht später —«
 Wir schritten der Stadt wieder zu. Harst ging stumm und
 nachdenklich neben mir. Ganz unvermittelt meinte er dann:
 »Diese vier Silbersiegellacktröpfchen scheinen so eine Art Unterschrift
-zu sein. — Uebrigens hast Du auf der Innenseite des
+zu sein. — Übrigens hast Du auf der Innenseite des
 linken Armgelenks des kleinen Burschen die blasse Tätowierung
 gesehen? Sie glich etwa einer sitzenden Puppe mit drei
 Köpfen. Hm — mir stieg da gleich eine besondere Vermutung
@@ -465,7 +465,7 @@ wir irgendwie beobachtet wurden.
 Wir wanderten jetzt zwischen endlosen, rotblühenden Indigofeldern
 dahin. In rote Glut getaucht war auch die alte
 Radschaburg dort drüben, ein sehr ausgedehnter, auf drei einzelnen
-Felsen stehender Bau aus Granitquadern. Ueberdachte
+Felsen stehender Bau aus Granitquadern. Überdachte
 Brücken verbanden die drei Teile des Riesenschlosses miteinander,
 das auch ohne diesen Standort auf den mächtigen Felsen
 einen recht phantastischen Anblick gewährt hätte.
@@ -596,7 +596,7 @@ eine Spur von Pulsbewegung vernahm.
 
 Endlich — endlich dann ein Geräusch. Chester Blindley
 kam. Er war entsetzt, als er Harst in diesem Zustand erblickte.
-Wir stellten schnell aus Aesten eine Tragbahre her.
+Wir stellten schnell aus Ästen eine Tragbahre her.
 Gegen ein Uhr langten wir am Fuße des nördlichen der drei
 Felsen an, auf denen die alte Radschaburg sich erhob, deren
 Hauptzugang jedoch im Osten lag. Hier gab es nur einen
@@ -724,7 +724,7 @@ Meter mindestens hoch. Nur — nur wenn es zum Beispiel
 einen zweiten Geheimzugang gibt wie den, der in Blindleys
 Wohngemach mündet, dann nützt alle Vorsicht nichts. Ich
 meine natürlich einen Zugang, von dem der Lord nichts weiß.
-Ob der Radscha von Katschar dem Lord bei der Uebergabe des
+Ob der Radscha von Katschar dem Lord bei der Übergabe des
 Schlosses dessen sämtliche Geheimnisse mitgeteilt hat, möchte
 ich stark bezweifeln. Na — wir werden ja sehen!«
 
@@ -795,7 +795,7 @@ drei Briefe.
 existiert, die mit unserem Familienschicksal etwas zu tun
 haben. — Der oberste Brief, der älteste, war an meinen Onkel
 Horace gerichtet. Sie sehen, das Schreiben enthält nur die
-Worte: »Uebermorgen lebst Du nicht mehr.« Als Unterschrift
+Worte: »Übermorgen lebst Du nicht mehr.« Als Unterschrift
 stehen da lediglich vier Silbersiegellacktröpfchen. — Mein Onkel
 Horace starb an demselben Tage, wie ihm angedroht war.
 Er wurde in Kalkutta im Exzelsior-Klub während eines Diners
@@ -1001,7 +1001,7 @@ Sie ja bereits —«
 Blindley! Es kann alles auch ein Fehlschlag werden. — Noch
 eine Frage: Befindet sich außer dem Lord, Doktor Halfing,
 Ihnen und Ihren Detektiven zur Zeit noch jemand hier im
-Schlosse, der damals während der Ueberfahrt von Kapstadt
+Schlosse, der damals während der Überfahrt von Kapstadt
 nach hier mit an Bord der India war?«
 
 »Gewiß. Zunächst Seiner Lordschaft Kammerdiener
@@ -1205,7 +1205,7 @@ sofort in die Keller hinab.«
 Blindley eilte davon.
 
 <h2>5. Kapitel.</h2>
-<h3>Ueberraschungen.</h3>
+<h3>Überraschungen.</h3>
 
 Endlich kehrte Blindley zurück.
 
@@ -1351,7 +1351,7 @@ jungen Leute Gerippe!«
 
 Ich will das Folgende nur kurz streifen. Im Dunkeln, in
 den nur mit Kisten als Möbelstücken ausgestatteten Kellern,
-hatten die drei Aermsten diese Jahre verbracht. Es war ein
+hatten die drei Ärmsten diese Jahre verbracht. Es war ein
 Wunder, daß ihr Verstand all den Leiden getrotzt hatte.
 
 Die Freude dieser Bedauernswerten zu schildern ist unmöglich.
