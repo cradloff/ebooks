@@ -28,7 +28,7 @@ Dann sagte er: »Hier schreibt mir eine Sennora Maria Travesta, daß sie mir
 etwas mitteilen könnte, was mich als Liebhaberdetektiv wohl interessieren
 dürfte. Es heißt hier wörtlich:
 
-»Ich bin eine alte Frau, die frei von Aberglauben ist. Und doch – wer in meinem
+> »Ich bin eine alte Frau, die frei von Aberglauben ist. Und doch – wer in meinem
 Hause ein paar Tage wohnt, kann wohl abergläubisch werden. Die Dienstboten
 halten es bei mir nie lange aus trotz glänzender Bezahlung. Nur meine Köchin
 Josefa habe ich nun schon 23 Jahre. – Ich habe heute früh in der Zeitung alles
@@ -50,7 +50,7 @@ steht,« sagte Harald. »Wo mag diese Rua Torquilla liegen?«
 Ich hatte einen Stadtplan bei mir, suchte eine Weile diese Straße und erklärte
 dann: »Unweit des früheren Jesuitenklosters in der Vorstadt.«
 
-»Gut. Jahren wir hin,« entschied Harst. »Wo es spukt, steckt stets eine
+»Gut. Fahren wir hin,« entschied Harst. »Wo es spukt, steckt stets eine
 bestimmte Absicht dahinter. Und im Hause der Sennora Travesta spukt es fraglos.
 Sie redet ja von »abergläubisch werden«. Also – Aufbruch! Nehmen wir unser
 Handwerkszeug mit, Schraut. Man kann nie wissen, was geschieht.« –
@@ -219,9 +219,9 @@ stellte sich bei mir ein neues Stubenmädchen vor. Ich hatte eine Anzeige
 eingerückt. Und dieses Mädchen, das einen recht bescheidenen Eindruck machte
 und das wie eine Kreolin aussah, erwähnte, sie würde Sennor Harst bitten, ihren
 verschwundenen Bruder zu suchen. Harst helfe ja jedem und verlange nicht einmal
-bezahlt. – So brachte sie mich auf den Gedanken, an Sie zu schreiben. Sie sagte
-nämlich, man dürfe Harst ein Anliegen zuerst nur schriftlich vortragen.
-Besucher weise er stets ab.«
+bezahlt zu werden. – So brachte sie mich auf den Gedanken, an Sie zu schreiben.
+Sie sagte nämlich, man dürfe Harst ein Anliegen zuerst nur schriftlich
+vortragen. Besucher weise er stets ab.«
 
 »Dieser Saalborg, dieser Saalborg!« meinte Harald. »Der Mensch ist wirklich ein
 Genie. – So – nun erzähle Sie mir noch, Sennora, was denn hier in Ihrem Hause
@@ -250,7 +250,7 @@ die geballte Faust.«
 
 »War Ihre Ehe unglücklich, Sennora?!«
 
-»Im Gegenteil. Wir letzten sehr glücklich, obwohl uns Kinder versagt blieben.«
+»Im Gegenteil. Wir lebten sehr glücklich, obwohl uns Kinder versagt blieben.«
 
 »Sennora, Sie sind doch wohl ziemlich reich, wenn Sie auch in Ihrem Brief an
 mich –«
@@ -354,7 +354,7 @@ Mulattin, die den Brief gebracht hatte. – Was hat Saalborg damit zu tun?!«
 
 Harald lachte jetzt, wie er selten in seinem Leben gelacht hat.
 
-»Kinder,« meinte er, »dieser Saalborg hat uns sein eingewickelt! Ihr müßt
+»Kinder,« meinte er, »dieser Saalborg hat uns fein eingewickelt! Ihr müßt
 zugeben, die Geschichte entbehrt der Komik nicht! Harst wird bestohlen, und der
 Pseudo-Harst stiehlt die Brillanten! Dieser Saalborg – dieser Saalborg!«
 
@@ -431,7 +431,7 @@ dem einen Becher enthielt nur die Worte:
 > Vincent Saalborg.«
 
 Ich will nur noch bemerken, daß der echte neue Konsul am anderen Morgen in
-Pernambuco antraf, wo ihn niemand persönlich kannte, was Saalborg schlau
+Pernambuco eintraf, wo ihn niemand persönlich kannte, was Saalborg schlau
 ausgenutzt hatte. Es unterlag keinem Zweifel, daß Saalborg als Bankhalter
 überaus geschickt falsch gespielt hatte. Denn brasilianische Gentlemen im Spiel
 zu betrügen, ist nicht ganz leicht, da eben in Südamerika diese Kunst des
@@ -482,8 +482,8 @@ Der Satz ist nie beendet worden.
 
 Es mußten sich von hinten mehrere Leute an das Auto geschlichen haben.
 
-Wir glitt etwas über das Gesicht – eine Lederschlinge. Dann ein furchtbarer
-Ruck. Wir wurde die Kehle zugeschnürt. Eine Decke flog mir über den Kopf. Als
+Mir glitt etwas über das Gesicht – eine Lederschlinge. Dann ein furchtbarer
+Ruck. Mir wurde die Kehle zugeschnürt. Eine Decke flog mir über den Kopf. Als
 letztes hörte ich noch das Getrappel der Pferde eines sich schnell nähernden
 Wagens.
 
@@ -506,7 +506,7 @@ Saalborg hinter diesem brutalen Streich?! War er nur zum Schein so weit
 Gentleman gewesen, uns die goldenen Becher, diese Andenken an eins unserer
 wechselvollsten Abenteuer, zurückzugeben? Wollte er sie uns jetzt wieder
 abnehmen und sich uns gegenüber auch von einer anderen Seite, eben einer
-brutalerem zeigen?! –
+brutaleren zeigen?! –
 
 In dem Wagenkasten lehnte rechts neben mir ein zweiter Mensch. Soeben hatte
 mich dessen Ellbogen berührt.
@@ -542,7 +542,7 @@ Noch acht Schritte tat der Mann; setzte mich ab. Auf einen Kasten, der dumpf
 erklang, als meine Stiefel unten dagegenschlugen.
 
 Wieder Schritte. Man gab mir Gesellschaft auf diesem Kasten. Es konnte nur
-Harst sein, der nun neben mir saß. Haralds Kleider strömen für eine seine Nase
+Harst sein, der nun neben mir saß. Haralds Kleider strömen für eine feine Nase
 stets den süßlichen Geruch seiner Mirakulum-Zigaretten aus. Und diesen Duft
 spürte ich in diesem Modergestank doppelt deutlich.
 
@@ -630,7 +630,7 @@ Chauffeur liegt gefesselt und geknebelt in der Garage.«
 »Gut, gut!« nickte Harald gleichmütig. »Also doch nicht Saalborg! Es war nur
 eine Anzapfung, Amigo. Ich konnte es auch nicht recht glauben, daß Saalborg so
 alberne und rüde Streiche ausführt! – Amigo, wenn man sich ein Monokel ins Auge
-klemmt, wird man dadurch noch lange nicht der monokeltragende, höfliche, seine
+klemmt, wird man dadurch noch lange nicht der monokeltragende, höfliche, feine
 Saalborg! Nein – der hätte nie die gemeine Straßenräuberfrechheit besessen,
 mich zu duzen. Ich weiß nun, Amigo, daß Du nicht Saalborg bist. Und den
 Firlefanz mit den zwölf Mumien da an der Wand hättest Du Dir auch sparen
@@ -938,7 +938,7 @@ Der Matrose grinste. »Schläft jetzt. Hat mit Käpten Blaag und dem Ersten
 
 »So. Fireland trinkt wohl gern einen übern Durst, wie?!« lachte Harald harmlos.
 
-»Ich nee, Master. Er hält’s mehr mit den Weibern und dem Knobelbecher.«
+»Ach nee, Master. Er hält’s mehr mit den Weibern und dem Knobelbecher.«
 
 »Na – wir kommen morgen wieder. Sind von der Firma Schrapp,« log Harald und gab
 dem Matrosen einen Silberdollar.
@@ -1051,7 +1051,7 @@ ein.
 
 Es war ein schmaler, langer Saal, ganz in Weiß und Gold gehalten. Die Sessel,
 die Wandsofas, die Marmortische, die gedämpfte Beleuchtung, die vier
-Spieltische, hinten der Schanktisch, – alles aufs seinste.
+Spieltische, hinten der Schanktisch, – alles aufs feinste.
 
 Das war in der Tat eine Spielhölle, wie niemand sie hier vermutet hätte! –
 Dabei waren die Spieltische dicht umlagert. Ich schätzte die Zahl der
@@ -1117,7 +1117,7 @@ Der Steuermann duckte sich wie unter einem Faustschlag zusammen. Dann flog sein
 Kopf herum. Seine Augen starrten mich wie einen bösen Geist an. Er glaubte, ich
 hätte diese Worte ihm zugeflüstert.
 
-Ich nickte und sagte leise: »Der Bankhalter betrügt!« – Wir fiel nichts
+Ich nickte und sagte leise: »Der Bankhalter betrügt!« – Mir fiel nichts
 Besseres ein.
 
 Harst beugte sich tiefer. »Fireland, wir kennen den Schuft! In Kanton trieb

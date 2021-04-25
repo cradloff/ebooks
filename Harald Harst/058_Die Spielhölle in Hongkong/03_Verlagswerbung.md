@@ -1,10 +1,10 @@
 
-<div style="font-size: xx-large; text-align: center;">Der Detektiv</div>
+<div style="font-size: x-large; text-align: center;">Der Detektiv</div>
 
 Eine Reihe höchst spannender Detektivabenteuer. Bisher sind folgende Bände
 erschienen:
 
-<table style="table-layout:fixed;">
+<table style="vertical-align: top;">
 <tr><td>Band</td><td>108:</td><td>Die Motorjacht ohne Namen.</td></tr>
 <tr><td>  “ </td><td>109:</td><td>Der Kampf gegen Lionel Barring.</td></tr>
 <tr><td>  “ </td><td>110:</td><td>Das Geheimnis der Tolkara-Höhle.</td></tr>

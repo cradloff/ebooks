@@ -6,7 +6,7 @@
 Tom Fireland hatte ein Geständnis abgelegt. In dem amtlichen Protokoll hieß es:
 
 »Ich gebe zu, den Buchhalter Blox niedergeschlagen und seiner Barschaft, rund
-21 000 Pfund, beraubt zu haben. Nach Verübung der Tat begegnete ich jenem
+21&nbsp;000 Pfund, beraubt zu haben. Nach Verübung der Tat begegnete ich jenem
 blondbärtigen Herrn, der gestern als Bankhalter wegen Falschspiels ebenfalls im
 Drywater-Salon verhaftet werden sollte. Ich erkannte ihn, und mich packte die
 Angst, er könnte in mir den Mörder später vermuten. Deshalb ging ich selbst zur
@@ -125,7 +125,7 @@ waren allein auf dem Schiff.«
 »Mein Gott, – so ist es!«
 
 Harald nickte. »Der Sturm wurde noch stärker. Die Wogen zertrümmerten die Brigg
-langsam. Sie brachten in höchster Todesnot ein paar Stunden zu. Denn müssen Sie
+langsam. Sie brachten in höchster Todesnot ein paar Stunden zu. Dann müssen Sie
 bewußtlos irgendwie geborgen worden sein.«
 
 »Ja – ja! Ich war dem Wahnsinn nahe. Ich vergaß, wie lange dieses Entsetzliche
@@ -262,7 +262,7 @@ hat, mich als Diebin hinzustellen. Und – und vielleicht leihen Sie mir das
 Reisegeld bis Stockholm. Ich will zu meinem Bruder –«
 
 »Gut. Sie sollen das Geld haben. Aber erst später. Ich könnte Sie hier noch als
-Zeugin brauchen. Ich werde Sie jetzt aus meine Jacht Atlanta bringen. Dort
+Zeugin brauchen. Ich werde Sie jetzt auf meine Jacht Atlanta bringen. Dort
 finden Sie eine behagliche Kabine und den braven Kapitän Banfy, der liebevoll
 wie ein Vater zu Ihnen sein wird; dort werden Sie sorgenfrei leben, dort wird
 es Ihnen an nichts fehlen, nur – an der Freiheit! – Miß Svendsen, ich warne Sie
@@ -506,7 +506,7 @@ Amerikaner namens Boosney, mitgebracht.
 Der Grund des Erscheinens der beiden Herren war folgender:
 
 Gestern vormittag hatte Silvano seinen Kontordiener nach der Filiale der
-Kommerz-Bank geschickt, um einen Betrag von 40 000 Pfund abzuholen. Der
+Kommerz-Bank geschickt, um einen Betrag von 40&nbsp;000 Pfund abzuholen. Der
 Kontordiener trug das Geld in einer ledernen, verschlossenen Tasche, die ihm am
 Riemen um die Schulter hing, nach Silvanos Geschäft, begegnete aber unterwegs
 dem Prokuristen der Firma Albert Tobler, einem älteren, etwas wunderlichen
@@ -717,8 +717,9 @@ was immerhin möglich ist.«
 »Das wäre eine unglaubliche Frechheit!«
 
 »Wieso, mein Alter? Wir beide werden ja Kanton nie zu sehen kriegen. Davon
-darfst Du überzeugt sein. Deine Flußkarte ist schon verwunden. Wir sollen nicht
-kontrollieren können, ob die Burschen nicht die Hauptfahrrinne verlassen.«
+darfst Du überzeugt sein. Deine Flußkarte ist schon verschwunden. Wir sollen
+nicht kontrollieren können, ob die Burschen nicht die Hauptfahrrinne
+verlassen.«
 
 »Wahrhaftig – die Karte lag hier auf dem<@refnote 6/> Tisch.«
 
@@ -759,7 +760,7 @@ sich, rauchte sich eine Zigarette an und meinte:
 
 »Und Du bist so ruhig?«
 
-»Ich bin doppelt vorbereitet – auf alles?«
+»Ich bin doppelt vorbereitet – auf alles!«
 
 Die Motoren schwiegen. Der Maschinist kam angelaufen.
 
@@ -785,7 +786,7 @@ Aber durch die Wimpern blinzelte ich doch vorsichtig hindurch. Erinnerungen
 tauchten in mir auf.
 
 Wo war es nur gewesen, als wir eine ähnliche Situation durchgemacht hatten?
-War‘s nicht in Siam? – Richtig – in Siam, auf dem Menam-Fluß, wo wir auch einen
+War’s nicht in Siam? – Richtig – in Siam, auf dem Menam-Fluß, wo wir auch einen
 Hochstapler jagten, aber einen weiblichen – die schöne Eugenie Malcapier. »Der
 Stern von Siam« – so habe ich jenes Abenteuer betitelt. – Doch – Eugenie
 Malcapier war ja eine harmlose Anfängerin diesem Vincent Saalborg gegenüber.
@@ -884,11 +885,11 @@ der energischen Magenentleerung war mir noch ganz weh in den Eingeweiden.
 
 »Gut – 1000 Pfund –«
 
-»20 000!« erklärte der Kerl und hielt den Revolver wagerecht.
+»20&nbsp;000!« erklärte der Kerl und hielt den Revolver wagerecht.
 
-Harald brüllte wie in höchster Wut. »20 000?! Du bist verrückt!«
+Harald brüllte wie in höchster Wut. »20&nbsp;000?! Du bist verrückt!«
 
-»Dann werdet Ihr sterben. Für jeden 20 000!«
+»Dann werdet Ihr sterben. Für jeden 20&nbsp;000!«
 
 »Niemals!«
 
@@ -901,10 +902,11 @@ offenbar eine Warnung, nicht zu viel zu trinken. –
 Harald schien zu erschrecken. »Tai-ku-gen?! – Hm – 5000 für jeden von uns!«
 sagte er zaghaft.
 
-»20 000!« kreischte der Lange. »20 000! Du wirst an Lord Bickport schreiben,
-daß er die 40 000 Pfund Dir leiht und sie durch einen einzelnen Mann in einem
-Boot von Hongkong nach Kaulun<@refnote 8/> bringen läßt. Wenn der Lord das Boot
-beobachten läßt, werdet Ihr getötet. Das Boot soll ohne Aufsicht bleiben.«
+»20&nbsp;000!« kreischte der Lange. »20&nbsp;000! Du wirst an Lord Bickport
+schreiben, daß er die 40&nbsp;000 Pfund Dir leiht und sie durch einen einzelnen
+Mann in einem Boot von Hongkong nach Kaulun<@refnote 8/> bringen läßt. Wenn der
+Lord das Boot beobachten läßt, werdet Ihr getötet. Das Boot soll ohne Aufsicht
+bleiben.«
 
 »Ich verstehe,« meinte Harald. Seine Augen glitten blitzschnell über die vier
 Banditen hin, die vorn am Eingang der Pagode sich lang hingelegt hatten und
@@ -914,7 +916,7 @@ Haralds Zigaretten rauchten. »Mach’ mir den rechten Arm frei,« fügte er hin
 Der Hagere legte beides Harald in den Schoß. Dann sagte er: »Wenn Du etwa
 hoffst, Dich befreien zu können – ich schieße sofort. Wir kennen Dich!«
 
-»Ich werde mich hüten! Lieber 40 000 Pfund als eine Kugel,« meinte Harst
+»Ich werde mich hüten! Lieber 40&nbsp;000 Pfund als eine Kugel,« meinte Harst
 achselzuckend.
 
 »Versichere, daß Du nichts im Schilde führst!« rief der Lange, bei dem
@@ -924,7 +926,7 @@ plötzlich wieder der Argwohn erwacht war.
 die unklare Antwort. »Wir sind in Eurer Gewalt. Aber – wer bürgt uns dafür, daß
 Ihr uns nicht ermordet, sobald Ihr das Geld habt?«
 
-»Ihr werdet übermorgen frei sein. Das schwöre ich Dir bei meinen Ihnen. Ich bin
+»Ihr werdet übermorgen frei sein. Das schwöre ich Dir bei meinen Ahnen. Ich bin
 aus vornehmer Familie. Ich halte diesen Schwur.«
 
 Wieder glitt Haralds Blick nach dem Eingang hin.
@@ -1041,7 +1043,7 @@ war leer. Der Deckel war nur lose aufgelegt gewesen. – Harald leuchtete hinein
 bückte sich. An der einen Wand der Innenseite hingen an dem rissigen Holz zwei
 – blonde Haare!
 
-»Ingeborg!« sagte Harst nur. »Jahren wir nach Hongkong zurück. Die Geschichte
+»Ingeborg!« sagte Harst nur. »Fahren wir nach Hongkong zurück. Die Geschichte
 ist dunkel! Wie konnte Silvano so frech sein und durch sein Erscheinen
 beweisen, daß er hinter dieser Komödie als Dirigent steckt?!« –
 
@@ -1087,7 +1089,7 @@ Wir sprangen auf den Kutter, wir drei. Boosney hob Silvanos Kopf etwas an.
 
 Harald rief dem Kapitän des Topan Kongi zu:
 
-»Jahren Sie weiter! Die Sache ist erledigt.«
+»Fahren Sie weiter! Die Sache ist erledigt.«
 
 Der Dampfer rauschte davon.
 
@@ -1142,7 +1144,7 @@ Brief Saalborgs mit, und in dem Briefe steckte auch das Blatt Papier, das Harst
 an den Lord in der Pagode geschrieben hatte.
 
 Saalborgs Schreiben lautete: »Sehr geehrter Herr Harst! Die Erpressung war
-meinerseits nur Bluff. Wir genügen die 40 000 Pfund Silvanos, die ich diesem
+meinerseits nur Bluff. Mir genügen die 40&nbsp;000 Pfund Silvanos, die ich diesem
 Schurken abjagte. Leider konnte ich die Entführung des armen Mädels nicht
 verhindern, weiß auch nicht, wo die Höllendschunke geblieben ist. Ich gebe zu:
 ich bin ratlos, wie man Ingeborg Svendsen helfen kann. Vielleicht sind Sie mir
