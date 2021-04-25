@@ -45,7 +45,7 @@ Harald lehnte sich wieder in seinen Korbsessel zurück, blies den Rauch seiner M
 
 »Also fast Milliardäre.«
 
-»Ja – es fehlt mir wenig daran. – Mein Vater Thomas Clarke und dessen älterer Bruder Stuart übernahmen das Geschäft im Jahre 1891 von ihrem Vater Edward Clarke. Beide Brüder waren verheiratet. Der ältere, also mein Onkel Stuart, hatte drei Söhne, sämtlich älter als ich. Ich war und blieb das einzige Kind meiner Eltern. Im Jahre 1895 erkranken meine drei Vettern nacheinander an Gehirnentzündung. Innerhalb von elf Monaten waren sie lebende Leichen – alle drei, waren als unheilbar geisteskrank hinter den Mauern einer Privatirrenanstalt begraben. Meine Tante, ihre Mutter, starb vor Gram. Drei Jahre darauf wurde Onkel Stuart bei einem öffentlichen Festesten ganz plötzlich irrsinnig. Er kam in die gleiche Anstalt.«
+»Ja – es fehlt nur wenig daran. – Mein Vater Thomas Clarke und dessen älterer Bruder Stuart übernahmen das Geschäft im Jahre 1891 von ihrem Vater Edward Clarke. Beide Brüder waren verheiratet. Der ältere, also mein Onkel Stuart, hatte drei Söhne, sämtlich älter als ich. Ich war und blieb das einzige Kind meiner Eltern. Im Jahre 1895 erkranken meine drei Vettern nacheinander an Gehirnentzündung. Innerhalb von elf Monaten waren sie lebende Leichen – alle drei, waren als unheilbar geisteskrank hinter den Mauern einer Privatirrenanstalt begraben. Meine Tante, ihre Mutter, starb vor Gram. Drei Jahre darauf wurde Onkel Stuart bei einem öffentlichen Festessen ganz plötzlich irrsinnig. Er kam in die gleiche Anstalt.«
 
 »Eine Frage,« warf Harald ein. »Hatte Ihr Onkel Stuart sich den Tod seiner Gattin und das traurige Schicksal seiner Söhne sehr zu Herzen genommen?«
 
@@ -99,7 +99,7 @@ James Clarke runzelte die Stirn. Seine Rechte ballte sich zur Faust.
 
 »Das weiß niemand. – Die Ehe meiner Eltern war recht unglücklich. Mein Vater war Geschäftsmann, nebenbei ein Gelehrter. Er mag sie vernachlässigt haben. – Mein Vater ließ Nachforschungen über ihren Verbleib anstellen. Sie hatte nur einen Zettel zurückgelassen:
 
-Ich kann nicht mehr bei Dir bleiben! – Alix.
+> Ich kann nicht mehr bei Dir bleiben! – Alix.
 
 Das war alles. – Mein Vater hatte zwei der besten Londoner Privatdetektive angenommen. Sie konnten nur eins ermitteln: daß meine Mutter in Dover das Tourschiff nach Calais mit einem schlanken, weißbärtigen Herrn bestiegen hatte. Dann verlor sich jede Spur. – Ich habe meinem Vater damals geloben müssen, daß meine Mutter für mich nicht mehr existieren dürfe.«
 
@@ -146,7 +146,7 @@ Mir pochte das Herz vor Erwartung. Diese ganze Geschichte »des besonderen Erbes
 
 So war es auch. –
 
-> Du, der Du nun als einer der Clarkes etwas schauen wirst, das nur zwei Menschen seit Jahrhunderten geschaut haben, – laß Dich warnen! – Ich, der dieses schreibt, weiß nichts von Deinem Charakter, nichts davon, ob diesem Geheimnis Dir zum Segen gereichen wird. –
+> Du, der Du nun als einer der Clarkes etwas schauen wirst, das nur zwei Menschen seit Jahrhunderten geschaut haben, – laß Dich warnen! – Ich, der dieses schreibt, weiß nichts von Deinem Charakter, nichts davon, ob dieses Geheimnis Dir zum Segen gereichen wird. –
 
 > Höre die Geschichte einer seltenen Freundschaft. – In den Kaimur-Bergen in Zentralindien geriet ich auf einem Jagdausflug, von meinen Gefährten mich unabsichtlich trennend, in eine schaurige Felseinöde. Ich war dem Verschmachten nahe.
 
@@ -389,7 +389,7 @@ Der echte Singha Pur erklärte, er würde feststellen, ob etwas fehle. Der Koffe
 
 Harald und ich verzichteten darauf, dieser abermalig Revision von Clarkes Gepäck beizuwohnen, und begaben uns in unseren Wohnsalon.
 
-Meine erste Frage, als wie allein waren, lautete:
+Meine erste Frage, als wir allein waren, lautete:
 
 »Was befand sich in dem Wasserglase, Harald?«
 
@@ -449,7 +449,7 @@ Harald ging ein paarmal hastig auf und ab. Dann machte er vor dem indischen Koll
 
 »Es soll ein Mittel geben. Die Zauberer der Dajaks kennen es. Ich nicht.« –
 
-Harst hatte den Inder mit einem Händedruck verabschiedet. – Wir gingen zu Bett. Morgens um fünf Uhr ritten wie zu vieren von Mirzapur direkt nach Süden. Sechs Tage später hatten wir die Felsenwildnis der östlichen Ausläufer der Kaimur-Berge erreicht.
+Harst hatte den Inder mit einem Händedruck verabschiedet. – Wir gingen zu Bett. Morgens um fünf Uhr ritten wir zu vieren von Mirzapur direkt nach Süden. Sechs Tage später hatten wir die Felsenwildnis der östlichen Ausläufer der Kaimur-Berge erreicht.
 
 <h2>4. Kapitel.</h2>
 <h3>Die drei Kamelreiter.</h3>
@@ -536,8 +536,8 @@ Ich konnte nicht beobachten, was dort drüben sich abspielte. Mit einem Male ers
 
 Ich war erstaunt, daß Harst mit dem Manne so brutal umgegangen war. Es war dies so gar nicht Haralds Art. Als ich ihn nun fragte, ob dieser Schläfenhieb nicht vielleicht unangenehme Folgen haben könne, wenn der Inder ihn dieserhalb anzeigen würde, erwiderte er, indem er dem Menschen den Turban und gleichzeitig eine schwarze Perücke abnahm: »Dieser Mann ist alt und steif. Sogar sehr alt. Die Bewegungen der beiden anderen verrieten jugendliche Elastizität. Nicht so dieser! Da – ein runzliges Gesicht und – ein falscher Bart!« – Er hatte auch den Bart gelöst. »Dieser Mensch ist ein Europäer, und wenn Du Dich auf James Clarkes Angaben über Arlesia Johnson besinnst, wirst Du –« – er beleuchtete mit der Taschenlampe die linke Wange des Bewußtlosen – »Dich erinnern, daß die Zofe ein blaurotes Mutter- oder Feuermal hatte – wie dieser Alte hier. – Ah – er kommt zu sich. Schnell, fessele ihm die Hände –«
 
-5\.Kapitel.
-Das Zauberschloß.
+<h2>5. Kapitel.</h2>
+<h3>Das Zauberschloß.</h3>
 
 Der Alte richtete sich auf. Harst leuchtete ihm ins Gesicht, sagte leise:
 

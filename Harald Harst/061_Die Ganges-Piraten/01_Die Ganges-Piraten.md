@@ -379,7 +379,7 @@ Harald war schon eingetreten.
 
 »Wie – Sie sind gefesselt – haben einen Knebel im –«
 
-Er kann nicht weiter.
+Er kam nicht weiter.
 
 Von hinten stürzten sich mehrere Kerle auf uns, rangen uns nieder, würgten uns.
 
@@ -506,7 +506,7 @@ Er zog einen Wattebausch heraus und breitete ihn auseinander.
 
 Es kam – der zweite Diamantkäfer zum Vorschein, dessen Ober- und Unterteil nur lose sich deckten und von selbst sich trennten, als der Sprecher den Käfer berührte, der tatsächlich ein zweites Seidenstück enthielt.
 
-»Wir werden Ihnen die Linke freimachen, Master Harst, « sagte der Maskierte nun. »Dann können Sie sich dieses zweite Seidenstück betrachten.« –
+»Wir werden Ihnen die Linke freimachen, Master Harst,« sagte der Maskierte nun. »Dann können Sie sich dieses zweite Seidenstück betrachten.« –
 
 Ein anderer der Maskierten fesselte Harst den linken Arm los.
 
