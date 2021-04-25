@@ -589,7 +589,7 @@ Ich hatte inzwischen den Brief gelesen. Er lautete:
 
 > In aller Eile, Herr Harst. – Vielleicht können Sie das, was Ihnen durch Hulls Ermordung abhanden kam, in der Loge gebrauchen. Ich nehme an, daß Sie heute in der Pratischthana zu einem bestimmten Zwecke weilen.
 
-> Ihr V. al.
+> Ihr V. Sal.
 
 Harsts Mitteilung hatte allgemeine Sensation erregt. Jeder kannte ja aus den Zeitungen Saalborgs geniale Streiche.
 
