@@ -343,7 +343,7 @@ zuckte so stark zusammen, daß ich mir weiter dachte: Hier
 stimmt was nicht!
 
 Ich mußte ihr dann den Zettel abnehmen. Sie
-spielte jetzt die Uebermütige und machte Scherze. Dann
+spielte jetzt die Übermütige und machte Scherze. Dann
 trennten wir uns.
 
 Das Weib will mir nun nicht aus dem Sinn. Ich
@@ -513,7 +513,7 @@ erzeugte, unbedingt hätten sehen müssen.
 
 Ja — wir hörten sogar das Tappen von Schritten
 <@pagebreak/>
-und auch ein Aechzen, als ob jemand eine schwere Last
+und auch ein Ächzen, als ob jemand eine schwere Last
 schleppte.
 
 Und doch — keine Spur von einem lebenden Wesen!
@@ -556,13 +556,13 @@ nicht verschließen. Aber wir hatten sie wieder zugeklappt,
 Die viereckige Plattform hatte eine ein Meter hohe
 Einfassung von Ziegeln in Form von Burgzinnen, außerdem
 aber auch in dieser Einfassung unten zwei Reihen herzförmiger
-Oeffnungen. Die Efeustauden hatten sich bis hier
-nach oben gerankt, waren durch die Oeffnungen eingedrungen
+Öffnungen. Die Efeustauden hatten sich bis hier
+nach oben gerankt, waren durch die Öffnungen eingedrungen
 und hatten die Einfassung stellenweise vollständig mit
 ihrem dunkelgrünen Laub umsponnen.
 
 Harst hatte die Konservenbüchse bald gefunden, hatte
-sie vorsichtig aus der nach Nordost gerichteten Oeffnung
+sie vorsichtig aus der nach Nordost gerichteten Öffnung
 herausgezogen und besichtigte sie nun beim Schein der
 Taschenlampe.
 
@@ -588,7 +588,7 @@ Genau dasselbe hatte ich vermutet.
 Er schob die Büchse rasch wieder, die Birne nach außen,
 in die Maueröffnung hinein.
 
-An dem Lichtschein, der den Außenrand der Oeffnung
+An dem Lichtschein, der den Außenrand der Öffnung
 noch mit erleuchtete, konnten wir bequem feststellen, in welchen
 Pausen die Birne aufflammte.
 
@@ -728,7 +728,7 @@ den Waldrand erreicht hätten. Wenn er uns bemerken
 würde, wäre auch alles verdorben. Es ist am besten, wir
 benutzen seine Abwesenheit hier zu einer gründlichen Untersuchung.«
 
-Er schwang sich schon auf die Zinne, die über der Oeffnung
+Er schwang sich schon auf die Zinne, die über der Öffnung
 lag, durch die die Drähte in die Tiefe führten.
 
 »Vorsicht!« warnte ich. »Wenn die Ranken reißen,
@@ -752,8 +752,8 @@ Ich trat unwillkürlich näher. Die fast lebensgroße
 Statue weckte allerlei Erinnerungen in mir. Es gab ja
 eine Zeit — und sie lag keine zwei Jahre zurück, wo auch
 wir in Indien gegen diese Mördersekte gekämpft hatten.
-Und — was war das für ein Kampf gewesen! Ueberreich
-an Aufregungen, Ueberraschungen, Gefahren! Und
+Und — was war das für ein Kampf gewesen! Überreich
+an Aufregungen, Überraschungen, Gefahren! Und
 doch — bei alledem hatte der poetische Reiz des Zauberlandes
 Indien das Häßliche so stark abgeschwächt, daß ich
 in diesem Augenblick, wo die Vergangenheit so lebendig
@@ -961,7 +961,7 @@ Wandschrank gehört — der mit den Anzügen!«
 
 »Ah — Erwin Balk! Also das ist unser Mann!«
 
-»Dann Nummer drei, die Köchin. Ueber sie brauche
+»Dann Nummer drei, die Köchin. Über sie brauche
 ich nichts zu sagen. Dann Nummer vier, das Stubenmädchen,
 auch harmlos ohne Zweifel. Schließlich der Diener,
 Nummer fünf, Gottlieb Krause mit Namen. Er brachte
@@ -1195,7 +1195,7 @@ dort gelegen hatte, herab und fragte:
 
 »Herr Harst, haben Sie diese Strickleiter hier angebracht?
 Ich habe den dünnen Draht zufällig gefunden,
-der von diesem Ast durch Oesen am Stamm hinabläuft —«
+der von diesem Ast durch Ösen am Stamm hinabläuft —«
 
 Harald wollte etwas erwidern.
 

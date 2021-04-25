@@ -32,10 +32,10 @@ Tage fragte Harald ihn daher:
 trinken, Sie ruinieren sich.«
 
 Druyter zuckte die Achseln. »Manche Maschine braucht
-wenig Oel, manche viel, Herr Harst. Würd’ ich drei Tage
+wenig Öl, manche viel, Herr Harst. Würd’ ich drei Tage
 auf den Grog verzichten, wär’ ich reif für ’n Siechenheim, —
 Hm — wo der Schuh drückt? Ja — wenn ich wüßte, daß Sie
-nicht so übermodern denken und alles Uebernatürliche nicht
+nicht so übermodern denken und alles Übernatürliche nicht
 glattweg auf den Kehrichthaufen werfen, — dann — dann —«
 
 »Nun — dann?« munterte ihn Harald interessiert auf.
@@ -54,7 +54,7 @@ letzten Tage nur deshalb so still, weil ich immer mit mir zu
 Rate ging, ob —«
 
 »Verstehe schon, lieber Druyter. — Sie sagten da soeben
-Uebernatürliches! — Nein, daran glaube ich nicht. Alles hat
+Übernatürliches! — Nein, daran glaube ich nicht. Alles hat
 seine natürliche Erklärung. Man muß sie nur zu finden
 wissen.«
 
@@ -134,7 +134,7 @@ verstand aber einfach alles. Ingenieur nannte er sich.
 — Ich merkte bald, daß die Geschichte mit der Vergnügungstour
 Schwindel war. Er wollte nach den Andamanen. Aber
 heimlich. — Sie wissen doch, die Inseln liegen westlich von Hinterindien.
-Der Lage nach haben sie eine gewisse Aehnlichkeit
+Der Lage nach haben sie eine gewisse Ähnlichkeit
 mit dem Lakkediven. Ebenso wie hier im Westen von Vorderindien
 sich die Lakkediven und Malediven von Nord noch Süd
 hinziehen, genau so erstrecken sich dort die Andamanen und
@@ -150,7 +150,7 @@ bedeckt. Doch — Sie werden’s ja vielleicht mit eigenen Augen
 sehen, meine Herren. — Die Bucht zog sich bis zu einem kleinen
 Binnensee hin. Nie in meinem Leben habe ich so viel Vögel gesehen
 wie dort. Aber — das war nicht alles. Stellen Sie sich
-meine Ueberraschung vor, als ich in einer Lichtung des Urwaldes
+meine Überraschung vor, als ich in einer Lichtung des Urwaldes
 nach Osten zu ein großes Gebäude erblicke, einen aus einer
 blaugrauen Steinart erbauten Tempel mit einer großen Freitreppe,
 einer doppelten Säulenhalle und einer flachen Kuppel.
@@ -207,7 +207,7 @@ An dieser Treppe hatten wir auch mit dem Boote
 angelegt.
 
 So, Herr Harst — und nun beginnt das, was ich »das
-Uebernatürliche« nenne. — Wir saßen also jetzt beim Frühstück
+Übernatürliche« nenne. — Wir saßen also jetzt beim Frühstück
 auf dem Achterdeck. Vierzig Meter vor uns lag die Anlegetreppe,
 weiterhin auf der Uferhöhe der rankenüberwucherte
 Tempel. Die Singhalesen — ich hatte auch damals sechs Mann
@@ -334,7 +334,7 @@ mehr zu finden.«
 
 Der Käp’ten schüttelte den Kopf.
 
-»Nein, lieber Herr Harst. Daran wäre ja nichts Uebernatürliches
+»Nein, lieber Herr Harst. Daran wäre ja nichts Übernatürliches
 gewesen. Es war weit rätselhafter, was nun geschah,
 weit rätselhafter!« Er packe die Enden der Armlehnen
 seines Korbsessels mit krampfhaft fest gespannten
@@ -362,7 +362,7 @@ ebenso. — Ich bin nicht genug Stimmungsmaler, um hier den
 Eindruck wiedergeben zu können, den Klaas Druyters Erzählung
 auf uns gemacht hatte. Ich will nur das eine sagen: ich
 war nicht nur erschüttert, sondern fühlte auch tatsächlich so
-etwas wie den Hauch des Uebernatürlichen um mich her.
+etwas wie den Hauch des Übernatürlichen um mich her.
 
 »Noch etwas geschah,« erklang da des Kapitäns tiefe, harte
 Stimme abermals. »Noch etwas. Wohl das — das — Seltsamste
@@ -472,7 +472,7 @@ Dann wandte er sich an mich.
 »Was sagst Du zu dem allem, mein Alter?«
 
 »Es gibt wohl nur eine Erklärung,« meinte ich meiner
-Ueberzeugung gemäß. »Towler steckt dahinter. Er wird Margrit
+Überzeugung gemäß. »Towler steckt dahinter. Er wird Margrit
 geliebt haben. Er hat sie entführen lassen, und Ihre
 Frau dazu, lieber Druyter.«
 
@@ -570,7 +570,7 @@ wir uns festhalten, um nicht von den Sitzen zu rutschen.
 Plötzlich fiel etwas klatschend auf den Tisch und gegen den
 offenen Deckel der Zigarrenkiste, — etwas silbern glänzendes
 — ein Fliegender Fisch, der durch einen Zufall durch eines der
-Fenster hereingesegelt war, als dieses beim Ueberholen der
+Fenster hereingesegelt war, als dieses beim Überholen der
 Jacht nach Backbord ziemlich tief gelegen hatte.
 
 Fliegende Fische fliegen nicht, sondern sind so etwas wie
@@ -624,7 +624,7 @@ sagte Harald und packte die Watte, den Götzen und die Hand
 wieder ein. »Ich gebe es Ihnen morgen wieder zurück —
 Wann können wir auf der Insel anlangen?«
 
-»Uebermorgen abend bestimmt.«
+»Übermorgen abend bestimmt.«
 
 »Ob sich dort inzwischen etwas verändert hat, Druyter?
 Sie hatten doch das Verschwinden Ihrer Frau und Tochter der
@@ -1067,7 +1067,7 @@ es gegen die Bordwand.
 <@pagebreak/>
 Ich hatte schon das eine Bein über die Reling, wollte hineinklettern.
 
-Und dann kam die Ueberraschung — dann kam der
+Und dann kam die Überraschung — dann kam der
 drohende Anruf in unserem Rücken.
 
 »Hände hoch — oder es knallt!«
@@ -1155,7 +1155,7 @@ her. Sie hielten uns offenbar für sehr ungefährlich.
 
 <h2>4. Kapitel.</h2>
 
-Hier im Vorschiff herrschte eine fürchterliche Hitze. Ueber
+Hier im Vorschiff herrschte eine fürchterliche Hitze. Über
 dem Tische brannte die elektrische Lampe. Die Kerle hatten
 uns auch mit den Beinen an die Schiffsstühle festgebunden.
 Wir acht saßen und sagten eine Weile gar nichts. Der kleine
@@ -1344,7 +1344,7 @@ Druyter und ich blickten ihn etwas verständnislos an.
 
 Er fügte hinzu: »Gehen mußten, um zu verschwinden.
 — Es ist jetzt alles aufgeklärt, lieber Käp’ten, alles. Bei alledem
-ist auch nicht die Spur Uebernatürliches dabei. Nur sehr
+ist auch nicht die Spur Übernatürliches dabei. Nur sehr
 <@pagebreak/>
 viel Raffinement und — Geduld. Ihre Damen sind wirklich
 von Towler entführt worden.«
@@ -1538,7 +1538,7 @@ murmelte er.
 
 »Sie werden es begreifen. Warten Sie nur ab und —
 hoffen Sie auf ein frohes Wiedersehen. — Jetzt will ich Ihnen
-die Geheimtür zeigen, die nach oben führt. Oeffnen werden
+die Geheimtür zeigen, die nach oben führt. Öffnen werden
 wir sie nicht. Die Sträflinge und die Wächter sind ja im
 Tempel —«
 

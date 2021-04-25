@@ -46,7 +46,7 @@ Die beiden Fremden setzten sich uns gegenüber auf
 einen Sandsack. Sie hatten eine große Karbidlaterne bei
 sich, die der eine anzündete und seitwärts an die Wand
 hing. Bei dieser Beleuchtung konnten wir unsere noch
-reichlich geheimnisvollen Ueberwinder bequem betrachten.
+reichlich geheimnisvollen Überwinder bequem betrachten.
 
 Beide trugen Vollbärte, die jedoch noch nicht lange
 ihre Gesichter zierten. Es waren mehr die Anfänge von
@@ -108,7 +108,7 @@ Boote nach der Insel zurück, während Sie beide hier an
 Bord blieben, um die andere Jacht zu beobachten.«
 
 Man brauchte wirklich nicht Detektiv zu sein, um aus
-den Gesichtern unserer langbärtiger Ueberwinder mit aller
+den Gesichtern unserer langbärtiger Überwinder mit aller
 Gewißheit herauslesen zu können, daß Haralds scharfsinnige
 Schlußfolgerungen mit den Tatsachen sich deckten.
 
@@ -282,7 +282,7 @@ Sie waren’s. Aber — sie waren’s auch nicht. Leichenfahle
 Gesichter mit verdrehten Augen leuchteten durch die
 Finsternis.
 
-Ohnmächtig die Aermsten, — ihre Rücken durch eine
+Ohnmächtig die Ärmsten, — ihre Rücken durch eine
 grausame Züchtigung zerfetzt. *Das* schauten wir nun, als
 wir sie losgebunden und in die Heckkajüte getragen hatten.
 
@@ -627,7 +627,7 @@ gleichfalls ihre Kopfhüllen entfernt hatten.
 Wir drei stierten uns an — schauten in die Runde...
 
 Ein großes Zimmer war’s. Mit einfachen, aber gefälligen
-Möbeln. Ueber dem Tische brannte eine Petroleumhängelampe.
+Möbeln. Über dem Tische brannte eine Petroleumhängelampe.
 
 »Da wären wir,« sagte Harald und lächelte mich an.
 <@pagebreak/>
@@ -645,7 +645,7 @@ Ich erstattete kurz Bericht.
 nun!« meinte Harst darauf. »Man empfängt uns glänzend.
 Es wäre schade, dieses köstlich duftende Omlette kalt werden
 zu lassen. Langen Sie zu, Goddlepy. Sie sind der
-Aelteste.«
+Älteste.«
 
 Als der Melbourner nun die Porzelanplatte aufhob
 und sie Harald hinhielt, lag darunter ein Zettel.
@@ -668,7 +668,7 @@ freilich trank nur ein halbes Glas. —
 
 Ich könnte über diese drei Tage auf der Insel der Seligen
 einen ganzen Roman von mindestens dreihundert
-Seiten schreiben. Ich bin bei der Ueberfülle des Stoffes,
+Seiten schreiben. Ich bin bei der Überfülle des Stoffes,
 den ich hier in wenigen Seiten zusammendrängen soll, wirklich
 in Verlegenheit, was ich weglassen könnte und was unbedingt
 erwähnt werden muß.
@@ -682,7 +682,7 @@ Die Fenster der beiden Zimmer waren klein und schmal.
 Nachdem wir die Mahlzeit beendet hatten, besichtigten
 wir unsere Räume, stellten fest, daß — — die beiden Zimmer
 in eine offenbar recht große Grotte hineingebaut und daß
-die Fenster in Oeffnungen der äußeren, etwa anderthalb
+die Fenster in Öffnungen der äußeren, etwa anderthalb
 Meter dicken Grottenwand eingefügt waren.
 
 Da die Morgendämmerung inzwischen begonnen und
@@ -692,7 +692,7 @@ Nun — dieser Garten war eine Schlucht mit steilen
 Wänden, etwa hundert Meter lang und achtzig breit, —
 eine Schlucht ohne jeden weiteren Zugang als lediglich von
 der Grotte, also von unserm Schlafzimmer aus. Im übrigen
-aber war’s ein Garten von tropischer Ueppigkeit, mit Wegen,
+aber war’s ein Garten von tropischer Üppigkeit, mit Wegen,
 die mit weißem Muschelkies bestreut waren, mit künstlichen
 Lauben und sauber angepflanztem Spalierobst.
 
@@ -945,7 +945,7 @@ Dann Herren in etwas bunt zusammengewürfelter Tracht,
 die einen in Frackanzügen, andere in weißem Flanell,
 andere in blauen Jacken. Und — — an diese zehn Kavaliere
 reihten sich (ich traute meinen Augen nicht!!) unsere
-fünf Gewohnheitssäufer von dem famosen Aeppelkahn, dem
+fünf Gewohnheitssäufer von dem famosen Äppelkahn, dem
 Südpol, — jene fünf alten Seebären, die wir längst ertrunken
 glaubten.
 
@@ -1073,7 +1073,7 @@ geführt, in die Küchenräume, wo zwei Neger die Köche
 Lebende heraus.
 
 Am Morgen begruben wir die Toten in einem Massengrab.
-Die von den Banditen bei der Ueberumpelung der
+Die von den Banditen bei der Überumpelung der
 Insel erschossenen Sträflinge, alles zu Unrecht Verurteilte,
 wurden besonders bestattet. —
 

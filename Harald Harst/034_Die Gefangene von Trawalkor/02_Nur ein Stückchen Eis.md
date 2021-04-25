@@ -82,7 +82,7 @@ Verhängnis!«
 Harst lachte spöttisch auf. »Unsichtbares Verhängnis —
 Blech! Unsichtbare Dinge, die uns schaden können, existieren
 <@pagebreak/>
-nicht, wenn man eben von giftigen Gasen und Aehnlichem absieht.«
+nicht, wenn man eben von giftigen Gasen und Ähnlichem absieht.«
 
 Der Blasse preßte die Lippen zusammen. Er besaß eine
 breite Kinnpartie, die fast brutal-energisch wirkte. Er war
@@ -364,7 +364,7 @@ er berichten wird.«
 <@pagebreak/>
 »Ist denn der Amerikaner wirklich tot?«
 
-»Ja. Wenigstens offiziell, das heißt: für die Oeffentlichkeit.
+»Ja. Wenigstens offiziell, das heißt: für die Öffentlichkeit.
 Er wird sogar auf meinen Wunsch begraben werden, natürlich
 ein leerer Sarg. — Diese Sache will ich eben von vornherein
 mit größter Vorsicht anpacken. Wir kämpfen hier gegen Leute,
@@ -413,7 +413,7 @@ wurde dann das erste Attentat auf ihn versucht — durch
 eine Büchsenkugel. Nach acht Tagen folgte ein Mordversuch
 durch drei Kobras, die man in seine Wohnbaracke eingeschmuggelt
 hatte. Nach vierzehn Tagen Nummer drei: ein
-Ueberfall durch einen vermummten Kerl. Und so ging es weiter
+Überfall durch einen vermummten Kerl. Und so ging es weiter
 bis vor drei Wochen. Im ganzen ist Parmang 16 Attentaten
 glücklich entgangen. Aber seine Nerven hielten diese Tortur
 nicht aus. Er verließ Nepal wie ein Flüchtling, wandte
@@ -561,7 +561,7 @@ nichts mehr hinzuzufügen. Wir waren plötzlich nervös wie
 alte Stiftsdamen geworden.
 
 Harst warnte uns sehr eindringlich, ja recht vorsichtig zu
-sein. »Oeffnet keine Schublade. Ueberlaßt das mir. Es
+sein. »Öffnet keine Schublade. Überlaßt das mir. Es
 gibt Bomben, deren Zündung beim Herausziehen der Lade
 ausgelöst wird.« In dieser Weise gab er uns mancherlei Verhaltungsmaßregeln.
 
@@ -1581,7 +1581,7 @@ Nachdem wir die Brücke ausgebessert hatten, wollten wir
 im Auto nach Betija zurück. Die Sonne hatte den Schnee schon
 wieder verschwinden lassen. Plötzlich stellte sich dann heraus,
 daß Parmang entflohen war. Unser Dicker tobte. »Ich
-brauche ihn doch als Zeugen! Ueberhaupt, dieser Mensch ist
+brauche ihn doch als Zeugen! Überhaupt, dieser Mensch ist
 mir unheimlich. Kein Wort hat er zu uns gesprochen, hat Ihnen
 nicht mal gedankt, Mr. Harst!«
 

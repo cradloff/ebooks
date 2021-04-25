@@ -554,7 +554,7 @@ bin der taubstumme norwegische Maler Sven Ericksen und
 Du mein Diener, geborener Amerikaner namens Tom Fulb.
 Es wird kaum in Gulbargah einen Menschen geben, der scharfsichtig
 genug ist, unsere Echtheit anzuzweifeln. Ein wenig
-in Oel zu pinseln verstehe ich ja. Und Dein Englisch, mein
+in Öl zu pinseln verstehe ich ja. Und Dein Englisch, mein
 Lieber, wird für einen Amerikaner aus den Südstaaten gerade
 genügen.« —
 
@@ -596,7 +596,7 @@ sind. Die Schallwellen erzeugen bei einem tauben
 Menschen auf der Haut einen besonderen Reiz. Dieser Reiz
 regt meinen Herrn zur Arbeit an.« — Dies war ein ziemlich
 faustdicker Blödsinn. Doch jeder Blödsinn findet gläubige Gemüter,
-wenn er nur mit der nötigen Ueberzeugungstreue
+wenn er nur mit der nötigen Überzeugungstreue
 vorgetragen wird.
 
 Boster nickte. »Hm — das klingt ganz vernünftig. Hautreiz,
@@ -972,7 +972,7 @@ Dann sagte Boster: »Es stimmt. Godwell spielt. Und
 mit der Ehe ist es nicht weit her. Er ist Amerikaner, Landsmann
 von Ihnen, Master Fulb, — aus Neuyork. Als er sich
 vor fünf Jahren hier niederließ, hatte er zuerst gar nichts
-zu tun. Es gab damals eben noch zwei andere Aerzte. Aber
+zu tun. Es gab damals eben noch zwei andere Ärzte. Aber
 Godwell hatte eben Glück. Sie starben. Und mit einem
 Male war er dann nach ein paar glücklichen Kuren der gesuchteste
 Arzt.«
@@ -1165,7 +1165,7 @@ gesund, so merkwürdig das auch klingen mag.«
 
 Harald nickte nur. Er hatte all das ja vermutet gehabt.
 
-»Ueber den »Spuk« wissen Sie nichts, das Sie uns noch
+»Über den »Spuk« wissen Sie nichts, das Sie uns noch
 mitteilen könnten?« fragte er nun.
 
 »Nichts, Master Harst. Die Sache ist rätselhaft. Godwell
@@ -1379,7 +1379,7 @@ zurück, das ein schmales Loch verdeckt hatte.
 
 »Bravo!« flüsterte Godwell. »Bravo! Nun hinein!«
 
-Harst schlüpfe schon tief gebückt durch die Oeffnung in
+Harst schlüpfe schon tief gebückt durch die Öffnung in
 der Mauer; ich hinterdrein.
 
 Da stand mitten in dem Kellergelaß ein riesiger Schalltrichter.
@@ -1431,7 +1431,7 @@ vergiften —«
 
 »Das werden Sie nicht, Doktor Godwell,« erklärte Harald
 ruhig. »Man mordet drei Menschen nicht deshalb, um einen
-Reklametrick vor der Oeffentlichkeit weiter geheimzuhalten.
+Reklametrick vor der Öffentlichkeit weiter geheimzuhalten.
 Ihr Geister-Flügel ist eine echt amerikanische Idee. Sie hatten
 hier in Gulbargah zunächst wenig Praxis. Dann starben
 Ihre beiden Konkurrenten und Kollegen. Sie spekulierten

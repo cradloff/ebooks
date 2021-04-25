@@ -2,7 +2,7 @@ Das Gespensterwrack.
 ====================
 
 Es war Abend nach der aufregenden Nacht, in der wir
-dem Tode nur durch Harald Harsts kühle, klare Ueberlegung
+dem Tode nur durch Harald Harsts kühle, klare Überlegung
 entgangen waren. Wir saßen zu dreien auf der Gartenterrasse
 des Harstschen Hauses: Frau Auguste Harst, Freund Harald
 und ich. Soeben hatte in dem hinter der Terrasse gelegenen
@@ -96,7 +96,7 @@ Erfolg herangewagt hat. Dann wüßte ich, daß diese Aufgabe
 wirklich Schwierigkeiten bietet, zu deren Bewältigung
 mehr als ein Durchschnittstalent gehört. — Ich selbst arbeite
 seit einem Jahr auf demselben Gebiet wie Sie, nur daß ich
-nie irgendwie an die Oeffentlichkeit trete. Vielleicht haben
+nie irgendwie an die Öffentlichkeit trete. Vielleicht haben
 Sie in den Zeitungen gelesen, daß ein geheimnisvoller Unbekannter
 stets aus dem Verborgenen heraus die Polizei nach
 Kräften unterstützt hat. Fragen Sie nur Ihren Freund
@@ -232,7 +232,7 @@ auf dem Kajütendeck unter dem jetzt aufgespannten Sonnensegel
 und tranken den vorzüglichen Kaffee, den Jakob Pedersen,
 zugleich auch unser Koch, gebraut hatte. Harst hatte
 Tiessen streng verboten, sich etwa in der Stadt nach dem Wrack
-zu erkundigen. Ueberhaupt sollten wir alle so tun, als ob wir
+zu erkundigen. Überhaupt sollten wir alle so tun, als ob wir
 davon noch nie etwas gehört hätten und als ob uns Wrack und
 Gespenster sehr gleichgültig ließen.
 
@@ -272,7 +272,7 @@ wie?« Und da wurde er gleich sehr ernst und
 erklärte: »Du, Tiessen, — das ist nicht zum Witzemachen!
 Jetzt hab’ ich keine Zeit. Aber abends auf dem Optimus erzähl’
 ich Dir alles ganz genau. Das ist so was für zwei alte
-Seebären wie wir es sind. — Uebrigens war vor kurzem ein
+Seebären wie wir es sind. — Übrigens war vor kurzem ein
 Deutscher hier, ein Berliner, der sehr viel im Fjord angelte
 und den wir alle im Verdacht hatten, er hielte sich nur hier
 auf, um dieser tollen Geschichte mit den Skeletten auf dem
@@ -349,7 +349,7 @@ begleichen.
 
 Der Wirt war noch immer erregt. »Eine wahre Plage
 ist’s mit dem verdammten Papiergeld,« sagte er, als Harst
-ihm einen Fünfzigkronenschein reichte. »Der Oesterreicher
+ihm einen Fünfzigkronenschein reichte. »Der Österreicher
 dort, der alte Herr, der soeben mit seiner Frau wegging, ist
 auch wieder mit ein paar dieser leider nur zu tadellos nachgemachten
 Fünfzigkronennoten angeschmiert worden.«
@@ -835,7 +835,7 @@ Weidenzweigen gefertigt, die Schädel aber aus Pappe.
 Sie wogen daher auch kaum ein paar Pfund. Daneben lehnten
 mehrere lange Eisenstäbe, die an einem Ende zu einem
 großen Ring, am anderen zu Haken gebogen waren. Die Haken
-paßten in eiserne Oesen am Rückgrat und an den Oberschenkeln
+paßten in eiserne Ösen am Rückgrat und an den Oberschenkeln
 der Skelette hinein. — Harst erspähte noch mehr,
 was noch interessanter war.
 
@@ -901,7 +901,7 @@ Er nahm die Laterne, leuchtete jeden Zentimeter der runden
 Wandung und der kreisförmigen Seitenteile ab. An
 einem dieser Seitenteile gab es verschiedene Löcher, die Einmündungen
 von Dampfröhren für das Manometer, die Wasserstandsgläser
-und anderes. Doch — es waren keine Oeffnungen,
+und anderes. Doch — es waren keine Öffnungen,
 durch die Luft eindrang. Und genau so war’s mit den
 beiden größeren Löchern in dem oberen Teile der Wandung,
 durch die der Dampf einst mit ungeheurem Druck nach den Zylindern
@@ -939,7 +939,7 @@ Das zackige, kleine Loch ließ den dünnen Bleistift, den er
 hineingeschoben hatte, hindurch.
 
 Gerettet! — Luft — nur Luft! Und er preßte die Lippen
-an die Kesselwandung, an die winzige Oeffnung, sog langsam
+an die Kesselwandung, an die winzige Öffnung, sog langsam
 die kühle Luft des Maschinenraumes ein, — atmete bald ruhiger,
 merkte, daß die Ohrgeräusche nachließen, daß sein Herz
 nicht mehr wie der Klöppel eines Weckers raste, daß seine
@@ -1235,7 +1235,7 @@ von Harst vorhin ausgebeten hatte, da er seinen Scharfsinn
 daran erproben wollte.
 
 »Lieber Herr Harst,« sagte er nun ganz stolz, »— eine
-große Ueberraschung! Diese Zeichnung kann nur ein seemännisch
+große Überraschung! Diese Zeichnung kann nur ein seemännisch
 geschulter Verstand deuten.«
 
 »Na na!« lächelte Harst. »Sollte die Zeichnung vielleicht

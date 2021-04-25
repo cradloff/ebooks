@@ -204,7 +204,7 @@ einer Weise sprach, als hätte es mit diesem Plateau etwas
 Besonderes auf sich. Sie sagte ja wörtlich: »— daß
 <@pagebreak/>
 *gerade* das Felsplateau jenseits — und so weiter.« Mithin
-hat diese Oertlichkeit noch eine Bedeutung für das Ehepaar
+hat diese Örtlichkeit noch eine Bedeutung für das Ehepaar
 Scheldon, die die Scheldons gern geheimhalten
 wollen.«
 
@@ -919,7 +919,7 @@ Auf Wiedersehen «
 Zehn Minuten darauf waren wir im Palais Scheldon.
 In der Vorhalle sagte Harald zu Lady Lydia leise: »Seien
 <@pagebreak/>
-Sie vorsichtig mit Aeußerungen und halten Sie jetzt Lady
+Sie vorsichtig mit Äußerungen und halten Sie jetzt Lady
 Ellinor eine halbe Stunde in ihrem Salon fest.« —
 
 Was hatte Harald vor? — Nun, ich sollte es sehr bald
@@ -1067,7 +1067,7 @@ Wagenkasten kamen. Dieses alles mietete Harst bis morgen
 früh. Dann zogen wir mit unserem Gefährt von dannen
 <@pagebreak/>
 und erwarben noch in einem Fahrradgeschäft zwei Räder
-mit recht großer Uebersetzung, die im Wagenkasten hinter
+mit recht großer Übersetzung, die im Wagenkasten hinter
 den Körben und ein paar Decken verstaut wurden. Auch
 ich mußte dort Platz nehmen. Außerhalb der Stadt verschwand
 ich dann ganz und gar, konnte aber durch das
@@ -1319,7 +1319,7 @@ Deiner Leute flüsterte: »Verdammt — die Falsche!« Lady
 Lydia hörte nur: »Verdammt — falsche!« Aber das war
 leicht zu ergänzen. Sie wurde ja dann freigelassen. — Doch,
 wie steht es nun mit einem Beweise Deiner Macht, he?!
-— Uebrigens — ich bin leidenschaftlicher Raucher. Dort
+— Übrigens — ich bin leidenschaftlicher Raucher. Dort
 hinter dem Lampenfuß sehe ich den Inhalt unserer Taschen
 liegen, unsere Pistolen, Messer und mein Zigarettenetui.
 Willst Du mir nicht eine Zigarette gewähren?«

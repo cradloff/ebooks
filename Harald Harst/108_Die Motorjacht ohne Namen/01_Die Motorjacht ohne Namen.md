@@ -100,7 +100,7 @@ um, zerschlug den Kompaß, und außerdem schlug sich die
 Jacht in der hochgehenden See leck. Die Motoren versagten,
 und mit Notsegeln raste unsere Australia vor einem wütenden
 Westorkan in stockdunkler Nacht viele Stunden dahin.
-Beim Morgengrauen gelangten wir dann zu unserer Ueberraschung
+Beim Morgengrauen gelangten wir dann zu unserer Überraschung
 in die Nähe einer Insel, die auf keiner Seekarte
 verzeichnet war. Um die Insel lagerten dichte Nebelmassen.
 Kapitän Tobber schwur Stein und Bein, daß wir hier ein
@@ -319,7 +319,7 @@ Zuge zu bleiben,« meinte er, als wir im Hotel in Nyngan
 nun zu Mittag aßen. »Sie dürften irgendwo ein Auto
 nehmen. Wir haben hier ja wieder etwas kultivierte
 Gegenden erreicht, wo Kraftwagen ebenso häufig wie in
-Europa sind. Ueberhaupt, lieber Alter, — ziehen wir aus
+Europa sind. Überhaupt, lieber Alter, — ziehen wir aus
 dem heutigen Tag erneut die Lehre: Eile mit Weile! Hätten
 wir uns in New-London Zeit gelassen, so wären wir mit
 Dollings Tourenauto den Banditen gefolgt. Aber weil
@@ -338,7 +338,7 @@ denn die sechs Schufte, die schöne Miß Jones eingerechnet?!«
 
 <@pagebreak/>
 Harald war ehrlich und gab zu, daß die Motorradfahrt
-eine Uebereilung gewesen. —
+eine Übereilung gewesen. —
 
 Um sieben Uhr langte aus Pooncarif von der dortigen
 Polizei eine Depesche an:
@@ -369,7 +369,7 @@ wir — leider! — alle drei schliefen, selbst Harald.
 Jedenfalls: vier Meilen vor Pooncarif kam die Bescherung,
 ein... Eisenbahnüberfall!
 
-Und zwar ein Ueberfall, der einzig und allein uns
+Und zwar ein Überfall, der einzig und allein uns
 dreien galt!
 
 Ehe wie noch recht ahnten, was vor sich ging, standen
@@ -563,7 +563,7 @@ an Bord gingen, merkten wir leider erst morgens, daß der
 Südpol wie ein abgetriebener Droschkengaul dahinschlich
 und anstatt der zugesagten vierzehn Knoten kaum sieben
 schaffte. — Harst war wütend, zumal die Besatzung dieses
-ehrwürdigen Aeppelkahns offenbar aus dem Altersheim für
+ehrwürdigen Äppelkahns offenbar aus dem Altersheim für
 Seeleute stammte und diese fünf Herrschaften den Rum weit
 mehr liebten als Pflichterfüllung und Bescheidenheit. Die
 alten verso... Kerle glaubten, mit uns Landratten nicht
@@ -612,7 +612,7 @@ so viel Wasser, daß die Pumpen es nicht bewältigen konnten.
 Der Kampf um das nackte Leben setzte ein. Harst
 ließ das Feuer unter dem Kessel löschen und den Dampf
 abblasen, ließ ein paar Notsegel setzen und aus den Kojenwänden,
-die mit Aexten herausgeschlagen wurden, zwei
+die mit Äxten herausgeschlagen wurden, zwei
 Flöße bauen, denn — das einzige Rettungsboot des Südpols
 wäre nicht einmal in einem Hafen als Angelkahn zu
 benutzen gewesen, so morsch waren die Planken!

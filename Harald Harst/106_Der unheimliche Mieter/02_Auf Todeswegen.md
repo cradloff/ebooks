@@ -129,7 +129,7 @@ Er kam herbeigelaufen, keuchte:
 Weib, Mr. Harten...«
 
 Wir hatten uns wieder hochgerappelt. »Ich weiß,«
-sagte Harald kurz. »Uebrigens — wir heißen fortan Harst
+sagte Harald kurz. »Übrigens — wir heißen fortan Harst
 und Schraut, Jimmy. Haben Sie die Namen mal gelesen?«
 
 Der brave Pastorias schnappte nach Luft. »Verdammt
@@ -899,7 +899,7 @@ abtreten, — falls wir es finden. Zelestine kennt unsere
 Mission durch Karl Münz, den sie noch in Berlin sprach und
 dem sie weismachte, sie würde dort auch bleiben.«
 
-In Haralds Worten lag so viel kühle Ueberlegenheit,
+In Haralds Worten lag so viel kühle Überlegenheit,
 daß Felix Drepp, der übrigens ebenso praktisch kostümiert
 war und ebenso tadellos zu Pferde saß, ärgerlich rief:
 

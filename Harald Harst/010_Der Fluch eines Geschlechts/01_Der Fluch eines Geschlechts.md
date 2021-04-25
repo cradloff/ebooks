@@ -169,7 +169,7 @@ Das alte Gebäude, vielleicht das älteste Wannsees, gehörte
 seit seiner Erbauung der Familie von Malwack, die
 einst hier auch weite Ländereien besessen hatte. Jetzt wohnten
 dort als die eigentlichen Eigentümer des weitläufigen Hauses
-die noch Ueberlebenden von vier Geschwistern Thora und
+die noch Überlebenden von vier Geschwistern Thora und
 Wilhelma, deren Vormund ihr Onkel Gisbert von Malwack
 war, ein nach Höppners Angaben sehr vornehmer, liebenswürdiger
 und allgemein beliebter Herr, der vor einem Jahr
@@ -178,7 +178,7 @@ dem Tode seines Bruders dessen letzten Willen zu erfüllen und
 die weitere Erziehung der vier Kinder des Verstorbenen zu
 leiten, von denen dann leider vor kurzem zwei plötzlich ums
 <@pagebreak/>
-Leben gekommen waren. — »Ueberhaupt,« meinte der brave
+Leben gekommen waren. — »Überhaupt,« meinte der brave
 Höppner, »über dem Geschlecht der Malwacks — sie sollen im
 Jahre 1620 aus Ungarn eingewandert sein — schwebt seit
 Jahren ein furchtbares Verhängnis. Der Baron Gisbert —
@@ -287,7 +287,7 @@ mit den Beinen über der mittelsten Ruderbank Liegenden an.
 Handgelenke des Mannes gepackt. Aber dieser wehrte sich
 wie ein Verzweifelter. Harst war kräftiger, gewandter. Und
 nun konnte auch ich eingreifen, nun hatte ich die Hände des
-Ueberrumpelten fest zusammengeknotet.
+Überrumpelten fest zusammengeknotet.
 
 Harst richtete ihn auf so daß er nun vor uns saß. Wir
 hatten einen noch jungen Menschen vor uns, dessen Kleidung
@@ -354,7 +354,7 @@ Müller, — entschuldigen Sie!« meinte er dabei. »Wir sind
 hier nach Wannsee im Interesse Ihrer Braut gekommen, und
 wir mußten Ihrem ganzen Verhalten nach schließen, daß Sie
 mit zu den Leuten gehören, die gegen die Familie Malwack
-meiner Ueberzeugung einen rücksichtslosen, heimlichen und
+meiner Überzeugung einen rücksichtslosen, heimlichen und
 teuflisch schlauen Vernichtungskrieg führen.«
 
 Müllers Lippen entfuhr ein hastiges: »Also auch Sie?
@@ -445,7 +445,7 @@ Hauswand, und Harst schob den Kopf dann so weit als möglich
 durch das Gitter. Das Fenster hatte gestreifte Vorhänge.
 Auch ich horchte, so gut ich konnte. Dann hörte ich etwas.
 Aber nicht im Keller, sondern anscheinend hinter der Gartenmauer.
-Ich wurde mißtrauisch, zupfte Harst am Aermel und
+Ich wurde mißtrauisch, zupfte Harst am Ärmel und
 flüsterte ihm das Nötige zu.
 
 Er drückte das Ohr gegen den Kalkputz der reichlich drei
@@ -507,12 +507,12 @@ Rahmen und eine komplizierte Verschlußvorrichtung ab.
 aus. Merkwürdig — sollte der Baron Gisbert sich als Alchimist,
 als Goldmacher, versuchen?!« Links stand ein großer
 Holztisch mit Flaschen, Gläsern, Retorten und allerlei Apparaten.
-Darüber hingen an der Wand Regale, die Aehnliches
+Darüber hingen an der Wand Regale, die Ähnliches
 enthielten. Rechts wieder füllte den kleinen Raum ein breiter
 Schrank gut zu ein Viertel aus. Von der Decke hingen
 an grünen Schnüren zwei einfache elektrische Birnen herab.
 <@pagebreak/>
-Vor dem Holztisch stand ein uralter Ledersessel. Ueber diesem
+Vor dem Holztisch stand ein uralter Ledersessel. Über diesem
 lag ein seidig glänzendes Kleidungsstück.
 
 Harst hob es auf. Es war ein seidener, schottisch gemusterter
@@ -624,7 +624,7 @@ Interessantes.«
 Heid wurde mißtrauisch, trat zurück, meinte:
 
 »Wer sind Sie denn? — Etwas mitteilen? — Falls Sie
-Uebles im Schilde führen, dann nehmen Sie sich in acht!« Er
+Übles im Schilde führen, dann nehmen Sie sich in acht!« Er
 griff in die Tasche. Und in seiner Rechten blitzte nun ein
 vernickelter Revolver.
 
@@ -654,7 +654,7 @@ bekannt sein dürfte.«
 »Hier — bitte mein Ausweis mit Photographie. Freilich
 ich trage zur Zeit eine Verkleidung. Eber hier ist das in dem
 Ausweis erwähnte besondere Kennzeichen.« Er streifte den
-linken Aermel hoch. Am Unterarm hatte er eine lange
+linken Ärmel hoch. Am Unterarm hatte er eine lange
 Schnittwunde mit zackigen Rändern.
 
 Heid war nun überzeugt, tatsächlich den berühmten Liebhaberdetektiv
@@ -837,7 +837,7 @@ Kehren wir um. — Nein — doch nicht. Es gefällt mir bei
 Höppners nicht. Wir werden uns umquartieren. Gehen wir
 zu Mertens.«
 
-Das Pensionat gehörte einer älteren Witwe. Die Aermste
+Das Pensionat gehörte einer älteren Witwe. Die Ärmste
 rang verzweifelt die Hände, weil sie fürchtete, der Selbstmord
 würde ihre Pension in Verruf bringen. Harst beruhigte sie.
 Wir nahmen gleich drei teure Zimmer und Harst bat dann,
@@ -876,7 +876,7 @@ völlig fremd.
 Der Gemeindevorsteher, der ja gleichzeitig auch die höchste
 Polizeigewalt des Ortes darstellte, wollte gerade zu sprechen
 beginnen, als Harst ihm schnell seinen Ausweis hinreichte
-und seinen linken Aermel dann hochstreifte und die Narbe
+und seinen linken Ärmel dann hochstreifte und die Narbe
 zeigte.
 
 Dann öffnete er die Tür, schaute hinaus, schloß sie wieder
@@ -1176,7 +1176,7 @@ an das Album herangelangen? — Wir müßten es gerade stehlen.
 Schließlich ließe sich auch das vielleicht bewerkstelligen.«
 
 Wieder schwieg er. Erst vor unserem Sommerheim blieb
-er stehen, faßte mich an den Aermel: »Schraut — ich hab’s.
+er stehen, faßte mich an den Ärmel: »Schraut — ich hab’s.
 Wir stehlen’s! Und wir machen auch dabei gleich die Probe
 aufs Exempel. Der Baron hatte seine Farm dicht bei Keetmannshoop.
 Wir werden die Afrikakenner spielen.«
@@ -1283,7 +1283,7 @@ Stuhl Posto fassen. Zwei Paar stählerne Handfesseln trug ich
 in der Tasche, und Harst sagte, sich solle sie bereit halten, sobald
 er sich ins Bett lege.
 
-Auf dem Nachttisch brannte nur ein sogenannter Oelschwimmer,
+Auf dem Nachttisch brannte nur ein sogenannter Ölschwimmer,
 dessen Lichtkreis kaum für die Platte des Tischchens
 reichte.
 
@@ -1342,7 +1342,7 @@ Ich wußte: die Entscheidung war da.
 Und — sie kam! — Harst schlug urplötzlich mit der Linken
 den Stock bei Seite, schleuderte die Decke von sich, tat einen
 wahren Panthersatz und warf sich auf den im ersten Augenblick
-völlig Ueberraschten.
+völlig Überraschten.
 
 Doch dieser Mensch hatte Riesenkräfte. Ein Faustschlag
 traf Harsts Stirn, daß er zurückflog. Und gedankenschnell
@@ -1351,7 +1351,7 @@ Wollte! — Harsts Hände bekamen ihn gerade nach an den
 Schultern zu packen rissen ihn zurück, glitten nach dem
 Halse hin.
 
-Ein schweres Aechzen, und dann konnte ich dem halb Bewußtlosen
+Ein schweres Ächzen, und dann konnte ich dem halb Bewußtlosen
 die Handschellen anlegen, bückte mich, drückte das
 andere Paar um die Fußgelenke.
 
@@ -1368,7 +1368,7 @@ deren Oberteil einen bräunlichen Schimmer zeigte.
 
 »Es ist Gift — Kurare,« sagte Harst laut.
 
-Der Gefesselte regte sich. Ueber sein verzerrtes Gesicht
+Der Gefesselte regte sich. Über sein verzerrtes Gesicht
 ging ein Grinsen hin. — »Das Spiel scheint aus zu sein,«
 meinte er mit einer Gelassenheit, die für die Abgebrühtheit des
 Verbrechers sprach. »Nun — was können Sie mir groß anhaben?!
@@ -1417,7 +1417,7 @@ sind nicht Baron Gisbert. Wer Sie sind, wird wohl
 einer Ihrer Komplizen angeben, um den eigenen Kopf zu
 retten. In diesem Augenblick sind Ihre drei Helfershelfer,
 der Diener, die Köchin und der Gärtner, bereits verhaftet.
-Diese drei haben Sie ja sofort nach Uebernahme der Vormundschaft
+Diese drei haben Sie ja sofort nach Übernahme der Vormundschaft
 eingestellt und das altbewährte Personal entlassen. —
 Wäre es nicht besser, Sie legten ein Geständnis ab?«
 
@@ -1447,7 +1447,7 @@ werden sollte. Als er nach Deutschland abreisen wollte, haben
 Sie ihn in Kapstadt ermordet, ihm sein Geld, seine Papiere
 abgenommen, haben sich als Baron ausgegeben, konnten
 es auch ganz ruhig, da dieser seit zwanzig Jahren dauernd
-in Transvaal gelebt hatte und weil eine entfernte Aehnlichkeit
+in Transvaal gelebt hatte und weil eine entfernte Ähnlichkeit
 mit ihm diesen Betrug erleichterte. Die ältere Baronesse
 haben Sie mit eigener Hand im Badehäuschen der Friedrichsburg
 ertränkt, den jungen Baron, den Studenten, durch

@@ -392,11 +392,11 @@ und meinte:
 Bucht liegt für Leute, die im Trüben fischen wollen, sehr
 günstig!«
 
-Und nach kurzer Pause: »Uebrigens fehlt hier ein
+Und nach kurzer Pause: »Übrigens fehlt hier ein
 Fahrzeug, das sonst stets hier vertäut war. Da — die beiden
 Pfähle sind oben durch die Taue ganz ausgescheuert.
-Und — ja, hier haben Oelkannen auf den Planken gestanden.
-Sehr oft. Beachte das. Oelt man ein Ruderboot,
+Und — ja, hier haben Ölkannen auf den Planken gestanden.
+Sehr oft. Beachte das. Ölt man ein Ruderboot,
 eine Jacht?«
 
 »Nein. Aber ein Motorboot zum Beispiel!« sagte ich
@@ -406,13 +406,13 @@ rasch, da ich Harsts Andeutungen sofort begriffen hatte.
 zuckte vor Schreck zusammen, als ich sagte, wir beide
 würden uns zu Dalcolm begeben. Mithin —«
 
-»— mithin kann Dalcolms Motorboot zu dem Ueberfall
+»— mithin kann Dalcolms Motorboot zu dem Überfall
 gegen uns benutzt worden sein.«
 
 »Ja — und mithin kann Dalcolm, der Jäger und
 Freiherr, nebenbei sich noch als Pirat versuchen. Der Mann,
 der den Bootshaken so trefflich schleuderte, war — ein Europäer!
-Beim Werfen verschob sich der Aermel. Die Haut
+Beim Werfen verschob sich der Ärmel. Die Haut
 des Unterarms war blendend zart.«
 
 Haralds Blicke wandten sich dem Ufer und dem Garten
@@ -445,7 +445,7 @@ Dann schon ein lauter Ruf:
 
 Schritte dröhnten auf den Planken.
 
-Ueber uns stand ein vornehm aussehender Mann im
+Über uns stand ein vornehm aussehender Mann im
 weißen Leinenanzug.
 
 »Wer sind Sie, meine Herren? — Ich bin entsetzt,
@@ -658,7 +658,7 @@ der Oberst uns heute abend gegen elf Uhr heimlich einlassen
 sollte.
 
 Im Laufe des Gesprächs erwähnte Harald auch den
-Ueberfall auf dem Flusse mit ein paar ironischen Redewendungen.
+Überfall auf dem Flusse mit ein paar ironischen Redewendungen.
 
 »Denken Sie, Mr. Dalcolm, man wollte uns vorhin
 auf der Dschamna so etwas in Grund bohren. Da waren
@@ -686,7 +686,7 @@ beantworten würde, was Harst ihn fragte.
 
 Dalcolm war jetzt bis wir uns verabschiedeten, sehr
 zerstreut. Es fiel ihm schwer, sich nicht anmerken zu lassen,
-wie stark ihn Harsts Aeußerung beunruhigte.
+wie stark ihn Harsts Äußerung beunruhigte.
 
 Er begleitete uns dann bis zum Boot und drückte uns
 kräftig die Hand.
@@ -709,7 +709,7 @@ Gattin Miß Wattner bei sich im Hause aufnehmen will,
 so wäre es mir lieb. Wir beide möchten auf der Jacht
 allein sein. Es könnte sich doch so allerlei ereignen, was
 nicht gerade für die Nerven einer Frau geeignet ist. Einen
-Vorgeschmack haben wir ja bereits durch den Ueberfall
+Vorgeschmack haben wir ja bereits durch den Überfall
 auf dem Fluß erhalten.«
 
 »Gern, gern nehmen wir die Miß zu uns ins Haus,«
@@ -826,7 +826,7 @@ zu verraten, daß ich dieses »Mädchen« sehr wohl
 kannte. —
 
 Dann — dann kam für Harst und mich jedoch eine
-andere Ueberraschung.
+andere Überraschung.
 
 Dalcolm erwähnte, daß er heute früh in Agra gewesen
 war, und er nannte genau dieselbe Zeit, zu der wir
@@ -870,7 +870,7 @@ Was hieß das nun wieder?!
 Der Oberst stand jetzt neben mir an Deck. Harald war
 in der Kajüte geblieben.
 
-Dann — dann die neue Ueberraschung.
+Dann — dann die neue Überraschung.
 
 Dalcolm rief plötzlich — nein, er brüllte:
 
@@ -1017,7 +1017,7 @@ das Motorboot dazu hergegeben. Er war eingeweiht.«
 <@pagebreak/>
 Ich dachte eine Weile nach.
 
-»Greebrac hat mithin das Uebereinkommen gebrochen,«
+»Greebrac hat mithin das Übereinkommen gebrochen,«
 meinte ich dann.
 
 »Das hat er. Aber wir können es ihm nicht beweisen
@@ -1045,7 +1045,7 @@ worden.
 Ich gebe zu: mir wurde beinahe etwas unheimlich zumute!
 Wenn Greebracs Genossenschaft so prompt und so
 geschickt arbeitete, konnten wir uns noch auf mehr derartige
-Ueberraschungen gefaßt machen.
+Überraschungen gefaßt machen.
 
 »Es wird ein Betäubungsmittel sein,« sagte Harald und
 warf mir einen besonderen Blick zu. »Das heißt: ein ganz
@@ -1120,7 +1120,7 @@ sechs Leuten bewacht, drei auf der Wasserseite, drei auf
 der Straßenseite. Also Vorsicht bei jedem Schritt.
 
 »Der brave Sistri! Ein reines Teufelskerlchen,«
-meinte Harald. »Uebrigens hat er recht: da drüben auf
+meinte Harald. »Übrigens hat er recht: da drüben auf
 <@pagebreak/>
 einer Bank der Anlagen sitzen zwei von den Spionen.«
 
@@ -1416,7 +1416,7 @@ der natürlich argwöhnte, wir könnten die Geschichte im
 Atelier »befingert« haben.
 
 Harst tat so prachtvoll harmlos, daß der Oberst sich
-schließlich in der Ueberzeugung verabschiedete, wir ahnten
+schließlich in der Überzeugung verabschiedete, wir ahnten
 nicht, daß der Ring noch (wie er glaubte) unter dem Spinde
 läge.
 
@@ -1440,7 +1440,7 @@ ein alter zerlumpter Bettler an.
 
 »Ich bin’s, Greebrac —«
 
-»Haben Sie auch das Uebereinkommen gehalten, Greebrac?«
+»Haben Sie auch das Übereinkommen gehalten, Greebrac?«
 meinte Harald, indem er die in Seidenpapier gewickelte
 Perlenkette hervorzog.
 
@@ -1460,7 +1460,7 @@ zu mir ein Nichts sind! Wenn ich gewollt hätte, lebten
 Sie beide nicht mehr. Viermal hätte ich Sie inzwischen
 beseitigen lassen können.«
 
-Die maßlose Ueberhebung dieses Menschen war wirklich
+Die maßlose Überhebung dieses Menschen war wirklich
 fast krankhaft.
 
 »Gut, wie Sie wollen,« meinte Harst. »Auf Wiedersehen,

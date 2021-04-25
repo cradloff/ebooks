@@ -105,7 +105,7 @@ brachte nichts Erwähnenswertes. Australische Landschaftsbilder
 kannten wir schon. Ich habe bereits im vorigen Band
 versucht, dem Leser ein Bild Inneraustraliens kurz zu entwerfen.
 
-Gegen ein Uhr morgens dann die Ueberraschung: New-London
+Gegen ein Uhr morgens dann die Überraschung: New-London
 unter uns in einem weiten blühenden Tale — im
 Mondlicht —, dazu der grelle Schein unzähliger elektrischer
 Bogenlampen, die von hohen Masten herab die stattlichen
@@ -145,7 +145,7 @@ Verhältnissen gemessen.
 Bei Tisch ließ Dolling sich von seiner Tochter Einzelheiten
 über den Diebstahl erzählen.
 
-Und — da gab es für uns die zweite Ueberraschung:
+Und — da gab es für uns die zweite Überraschung:
 Die Juwelen hatten in einem modernen Panzerschrank im
 Arbeitszimmer des Großzüchters gelegen. Den Tresorschlüssel
 hatte Dolling bei sich gehabt. Der Duplikatschlüssel
@@ -175,7 +175,7 @@ beruhigend.
 
 Nachher wollte Dolling sich den Schrank ansehen.
 »Kommen Sie mit, meine Herren, wenn es Ihnen Spaß
-macht,« meinte er und fügte ingrimmig hinzu: »Uebrigens
+macht,« meinte er und fügte ingrimmig hinzu: »Übrigens
 ein netter Spaß!! Für fünfzigtausend Pfund Juwelen und
 dazu elftausend Pfund Bargeld!! Diese Schufte!!«
 
@@ -539,7 +539,7 @@ ist Frau Marry Dolling. Und diese vier Bilder sind
 Kinderaufnahmen Helens. Auf diesem hier mag sie etwa
 anderthalb Jahre alt gewesen sein. Heute dürfte sie zwanzig
 sein. Schau Dir das Bild recht genau an. Findest Du
-in diesen Zügen da auch nur die geringste Aehnlichkeit mit
+in diesen Zügen da auch nur die geringste Ähnlichkeit mit
 denen Helens?! Ich nicht!! — Die Hände gaben mir gleich
 zu denken. Dann sah ich diese Bilder und die Beweise,
 daß der Tresor mit einem Schlüssel geöffnet worden und

@@ -117,9 +117,9 @@ ohne je in einen weinerlichen Ton zu verfallen.
 
 »Wir sind jetzt acht Jahre verheiratet,« begann sie. »Ich
 lernte meinen Mann in Stockholm, meiner Vaterstadt, aus
-Anlaß eines Aerztekongresses kennen. Mein Vater war selbst
+Anlaß eines Ärztekongresses kennen. Mein Vater war selbst
 Arzt. Reginald machte auf mich sofort trotz seines sonst unscheinbaren
-Aeußeren einen starken Eindruck. Nie wieder
+Äußeren einen starken Eindruck. Nie wieder
 habe ich einen Mann gesehen, der so geistreich zu plaudern
 wußte wie er, der aber auch so vielseitig und gründlich gebildet
 war. Wir verlobten uns drei Monate später, heirateten
@@ -208,7 +208,7 @@ von Verbrechen, die hier und dort von einem geheimnisvollen
 Täter verübt worden waren. Mein Herz krampfte
 sich vor Entsetzen zusammen, als ich feststellte, daß diese Verbrechen
 sämtlich in die Zeit fielen, während der mein Mann
-Palästina und Aegypten bereist hatte, — also in die drei
+Palästina und Ägypten bereist hatte, — also in die drei
 Monate seiner Abwesenheit von zu Hause. Mit meinem Seelenfrieden
 war es vorbei. Tagelang kämpfte ich mit mir.
 Dann warf ich mich meinem Manne zu Füßen und klagte ihm
@@ -439,7 +439,7 @@ dem Boden hockten, plötzlich redselig wurde.
 »Die Angelegenheit Doktor Doogston hat ein ganz anderes
 Aussehen plötzlich bekommen,« begann er nämlich und
 lächelte mich zufrieden an. »Wir werden hier, scheint mir,
-eine Ueberraschung erleben, wie wir sie uns nie träumen
+eine Überraschung erleben, wie wir sie uns nie träumen
 ließen — nie! Ich habe all die Stunden während der Fahrt
 darüber nachgegrübelt, wie man die Widersprüche in »Warbattys«
 Charakter zwanglos, das heißt möglichst logisch lösen
@@ -461,7 +461,7 @@ Einflüsse ist eine solche doppelte Persönlichkeit, vereint in
 einem einzigen Körper, äußerst selten zur Entstehung gelangt.
 Es wird also unsere Aufgabe sein, diese — fremden Einflüsse
 zu ergründen. Vielleicht finden wir sie sehr bald.
-Deshalb sprach ich auch von ungeahnten Ueberraschungen. —
+Deshalb sprach ich auch von ungeahnten Überraschungen. —
 Weißt Du, was die kleine photographische Platte enthielt,
 die ich in Amritsar heute vormittag gegen das elektrische
 Licht hielt? Nichts anderes, als das in einem günstigen
@@ -495,7 +495,7 @@ Wenn je der ganze Zauber Indiens übermächtig mein
 Herz bewegte, dann war es in dem Augenblick, als unser Chinamann
 uns auf das Dach seines Hauses führte und mit
 stummer Handbewegung auf den Schalimar deutete, der hundert
-Meter entfernt vor uns lag. Ich war überwältigt. Ueberall
+Meter entfernt vor uns lag. Ich war überwältigt. Überall
 leuchtete zwischen dem Grün der Bäume und der Farbenpracht
 von riesigen Teppichbeeten der weiße Marmor der Fontänen
 auf; überall standen außerdem zierliche Pavillons wie
@@ -748,7 +748,7 @@ die Geheimtür wieder zugedrückt und begann die Treppe hinabzusteigen.
 »Die Luft hier ist so rein, daß wir sehr bald einen zweiten
 Ausgang finden dürften,« meinte er gutgelaunt. — Wir
 waren dann etwa zwanzig Stufen tiefer gelangt, als sich vor
-uns in dem Schacht eine bogenförmige Oeffnung zeigte, in
+uns in dem Schacht eine bogenförmige Öffnung zeigte, in
 der noch Reste von zierlichen Gitterstäben steckten.
 
 »Ah — dies ist ein Turm der alten, jetzt verschütteten Residenz,«
@@ -757,7 +757,7 @@ haben. Sieh — die Gitter sind stark vergoldet, mein Alter.«
 Er leuchtete die Treppe tiefer hinab. »Schutt — nichts
 als Schutt dort unten. Also muß dieses Fenster hier die
 Fortsetzung des Weges sein —« Er beugte sich durch die
-Oeffnung weit vor, streckte den Arm mit der Taschenlampe
+Öffnung weit vor, streckte den Arm mit der Taschenlampe
 aus und ließ den weißen Lichtkegel in die Dunkelheit hineinfallen.
 Ich stand neben ihm. Gleichzeitig stießen wir einen
 Laut ungläubigen Staunens aus.
@@ -766,7 +766,7 @@ Denn dort jenseits des Bogenfensters enthüllte der strahlende
 Lichtschein uns einen uralten Marmorprunksaal, an
 dessen Wänden noch allerlei merkwürdige Einrichtungsgegenstände
 zu bemerken waren, während von der Decke noch drei
-riesige, geschweifte Kronleuchter mit flachen Oellampen herabhingen.
+riesige, geschweifte Kronleuchter mit flachen Öllampen herabhingen.
 
 »Also doch kein Turm dies hier!« meinte Harst, »sondern
 das Treppenhaus eines Palastes, der in einer Bodensenkung
@@ -973,7 +973,7 @@ es in der Willensbeeinflussung fremder Personen bis zu
 einem so hohen Grade von Vollkommenheit gebracht zu haben.
 Ich fürchte, ich werde bei Doktor Doogston deshalb auch nichts
 weiter ausrichten als das Eine, daß er auf Befehl über dieses
-Zusammentreffen mit uns schweigt. Alles Uebrige, was
+Zusammentreffen mit uns schweigt. Alles Übrige, was
 Palperlon angeht, wird nicht über seine Lippen dringen, da
 dieser ihm natürlich ein völliges Versagen des Gedächtnisses
 anbefohlen haben wird.«
@@ -1093,7 +1093,7 @@ nur hier und dort der weiße Leinenanzug eines Europäers
 heller schimmerte.
 
 Als die ersten Tropfen zu fallen begannen und ein paar
-Donnerschläge von unerhörter Heftigkeit den Aether erzittern
+Donnerschläge von unerhörter Heftigkeit den Äther erzittern
 ließen, verlief sich die Menge schnell. Unweit von uns
 standen zwei baumlange Offiziere, dürr wie die Latten, und
 unterhielten sich sehr laut und ungeniert über die Ursache der
@@ -1101,9 +1101,9 @@ Katastrophe. Ich merkte, daß Harst angestrengt lauschte.
 Dann trat er auf sie zu, flüsterte eine Weile mit ihnen und
 rief mich leise herbei, stellte mich den Herren mit meinem
 wirklichen Namen vor und fügte hinzu, indem er sich an den
-Aelteren wandte:
+Älteren wandte:
 
-»Ich bin derselben Ueberzeugung, Herr Major. Nur
+»Ich bin derselben Überzeugung, Herr Major. Nur
 eine Wurfbombe, die am Fuße des Felsens explodierte, kann
 diesen zum Abrutschen in die Felsspalte gebracht haben. Daß
 ein Sprengkörper benutzt worden ist, beweisen ja auch die
@@ -1143,7 +1143,7 @@ den Kraftwagen, mit dem die Offiziere gekommen
 waren, nach der Militärstation Mian Mir schickte und Taue,
 Strickleitern, Stangen, Eisenhaken und Magnesiumfackeln
 holen ließ. Der Hauptmann brachte aus dem Auto eine
-Oelplane mit, die wir als Zelt aufbauten, so daß wir im
+Ölplane mit, die wir als Zelt aufbauten, so daß wir im
 Trockenen saßen.
 
 Major Marconnay spendete uns Zigarren, und so hatten
@@ -1466,6 +1466,6 @@ endgültigen Abschluß. Das, was darüber noch zu sagen ist,
 will ich unter einem besonderen Titel schildern.
 
 Der Ausgang dieser monatelangen Hetze ist merkwürdig
-genug, ihn mit allen Ueberraschungen und Enttäuschungen
+genug, ihn mit allen Überraschungen und Enttäuschungen
 ganz eingehend darzustellen.
 

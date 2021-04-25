@@ -118,7 +118,7 @@ stehen und schaute Harald fragend an.
 »Harst, der Mann log!« sagte er kurz.
 
 Harald nickte. »Gehen wir weiter, Wiclaytour. — Ja,
-er log. Seine Schreckensnächte sollten die Oeffentlichkeit
+er log. Seine Schreckensnächte sollten die Öffentlichkeit
 nicht beschäftigen. Und — es müssen Schreckensnächte sein.
 Ralleys Gesicht glänzte noch im Schweiß der Todesangst,
 und sein verzerrtes Gesicht auf dem Fensterkopf und seine
@@ -200,7 +200,7 @@ Ralley hatte inzwischen hastiger weitergesprochen:
 »Ich möchte mir mein Herz erleichtern, Mr. Schraut.
 Darf ich Ihnen meinen Fall vortragen? — So hören Sie
 denn. Es ist eine sehr merkwürdige Geschichte — sehr!
-Sie greift auf das Gebiet des Uebersinnlichen über. Ich
+Sie greift auf das Gebiet des Übersinnlichen über. Ich
 bin frei von Aberglauben. Doch das, was ich seit — seit
 vier Wochen —«
 
@@ -244,7 +244,7 @@ sondern aus einer durch einen dunkeln Mörtel und
 Felsstücke errichteten Mauer bestand. Jede Nacht habe ich
 dann mit Hilfe der Hufeisen meiner Bergschuhe, die ich losgerissen
 hatte, den Mörtel weggekratzt und ihn bei Tagesanbruch,
-damit die Oeffnungen nicht auffielen, wieder
+damit die Öffnungen nicht auffielen, wieder
 durch feuchte Erde ersetzt. So arbeitete ich etwa sechs Wochen.
 Meine unsägliche Mühe wurde belohnt: ich konnte endlich
 einen Stein entfernen und das dahinter liegende Geröll
@@ -316,7 +316,7 @@ Er starrte zu Boden. Er war nun bei dem Moment
 angelangt, wo er notwendig mit der Schilderung seiner
 Schreckensnächte beginnen mußte. Dies bereitete ihm offenbar
 Unbehagen. Ich gewann, als er nun diesen Gegenstand
-erörterte, rasch die Ueberzeugung, daß er jedes
+erörterte, rasch die Überzeugung, daß er jedes
 Wort sehr genau prüfte. Ohne Zweifel unterschlug er vieles
 oder — log in zahlreichen Punkten.
 
@@ -356,7 +356,7 @@ Es gibt hier neben den Hauptreligionen einige fünfzig Sekten.
 Die »Gwinnara« sind nun vielleicht von diesen Sektierern
 die phantastischsten. Sie verehren eine Gottheit
 »Gwinnara«, halb Mann, halb Weib, ähnlich wie im alten
-Aegypten Isis und Osiris als Hermaphrodit, als Doppelwesen,
+Ägypten Isis und Osiris als Hermaphrodit, als Doppelwesen,
 dargestellt und angebetet wurden. — Ich taumelte
 zurück. Und hatte doch den Mut, den Schrank dann aufzureißen.
 Er hat eine Flügeltür. Die halbe Mumie steht
@@ -509,7 +509,7 @@ Ich rüttelte den Lord. Er wäre mir beinahe vom Sessel
 auf den Teppich gesunken; er schlief ganz fest.
 
 Harald kam über den Schrank geklettert, — »Morgen,
-mein Alter,« begrüßte er mich. »War eine nette Ueberraschung,
+mein Alter,« begrüßte er mich. »War eine nette Überraschung,
 als Du meine Stimme hörtest, nicht wahr?!«
 Dann deutete er auf Ralley. »Er ist mir fein ins Garn gegangen
 — sehr fein! Das erzähle ich Dir nachher. Jetzt
@@ -669,7 +669,7 @@ in dem Dorfe Widpura jenseits des Ganges heute früh zufällig
 gefunden, hatte.«
 
 »Verstehe!« rief ich leise. »Der Zettel und diese Zeitungsnotiz
-sollten Ralley die Ueberzeugung beibringen, daß
+sollten Ralley die Überzeugung beibringen, daß
 Du tatsächlich in Widpura wärest.«
 
 »Sehr richtig. Und in den Kognak tat ich das Betäubungsmittel,
@@ -881,7 +881,7 @@ unten gelangen konnte. Man brauchte nur einen Strick
 hier oben irgendwo befestigen, und auch der Rückweg war
 ermöglicht. —
 
-Harald drückte die Dielenstücke wieder in die Oeffnungen
+Harald drückte die Dielenstücke wieder in die Öffnungen
 hinein. Mawrista hatte durch kleine Nägel ihr Herausfallen
 verhütet. Diese Doppelluke war sehr primitiv.
 Aber sie genügte für das, was der stumme Diener damit
@@ -1060,7 +1060,7 @@ ist so ein Riesenmöbel, in dem ganz gut Geheimfächer verborgen
 sein können.« —
 
 Während er noch die Schubladen entleerte und beiseite
-stellte, sagte ich: »Uebrigens — das Wertpaket ging ja
+stellte, sagte ich: »Übrigens — das Wertpaket ging ja
 ebenfalls an Brabazon nach Bombay! Auch ein Beweis,
 daß Brabazon jetzt hier Ralley spielt!«
 
@@ -1499,7 +1499,7 @@ jetzt hierher, Mylord? Sie wollten doch fliehen.«
 »Ich hatte es mir anders überlegt, Mr. Harst. Ich
 rechnete bestimmt damit, daß Broban ebenfalls zu flüchten
 gedachte und hierher kommen würde. Er verstand es besser
-als ich, das Aeußere eines Menschen zu verwandeln. Und
+als ich, das Äußere eines Menschen zu verwandeln. Und
 ich mußte auf eine tadellose Verkleidung bedacht sein,
 da — jetzt auch mir mehrere Leute sich an die Fersen geheftet
 haben — alles Inder, alles offenbar Abgesandte der

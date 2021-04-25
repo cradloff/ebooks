@@ -14,7 +14,7 @@ während die Mirakulum im linken Mundwinkel auf und
 ab wippte:
 
 »Frack! Also ganz Kulturmensch mal wieder! Gesellschaftsmensch!
-Uebrigens ist Dir Dein Leichenträgerkostüm
+Übrigens ist Dir Dein Leichenträgerkostüm
 etwas weit geworden. Du bist magerer als vor drei Monaten.
 Ich glaube, da hatten wir unsere Frackmöbel zum
 letzten Male an.«
@@ -236,7 +236,7 @@ sich gegenüber Edward Annixter nichts anmerken zu lassen.
 
 <@pagebreak/>
 Edward war eine recht bestechende Erscheinung. Er
-hatte ein mageres, bartloses Sportgesicht. Aeußerlich stellte
+hatte ein mageres, bartloses Sportgesicht. Äußerlich stellte
 er Hendrik van Baalker vollständig in den Schatten.
 
 Der alte Annixter schlenderte jetzt durch den Saal, begrüßte
@@ -412,7 +412,7 @@ er. »Das Haus hat daher auch zwei Pförtner, wie mir der
 Direktor erzählte, der um seine Stahlkammern außerordentlich
 besorgt ist. Greep hat ihm einen bösen Schreck durch
 die Schilderung von dem verkleideten, hinkenden Bettler
-eingejagt. Uebrigens dürfte dieser Hinkende der vierte im
+eingejagt. Übrigens dürfte dieser Hinkende der vierte im
 Bunde sein: Edward Annixter, dann unser Zimmernachbar
 Charles Distingalle, dann Monsieur Francois Istrelle,
 ebenfalls also Franzose, und der Hinkende! Das sind vier!
@@ -705,7 +705,7 @@ frei bewegen.
 Draußen war es jetzt heller Tag. Der Wagen fuhr
 in flottem Trab über die einsame Landstraße.
 
-Dann — kam die neue Ueberraschung.
+Dann — kam die neue Überraschung.
 
 Plötzlich hielt der Wagen mit einem Ruck.
 
@@ -966,7 +966,7 @@ immer langsamer.
 
 <@pagebreak/>
 »Wir müssen den Kasten retten!« rief Harald. »Da
-— er ist nur zugehakt. Oeffne ihn!«
+— er ist nur zugehakt. Öffne ihn!«
 
 Er peitschte mit dem Leinenende die armen Schinder
 an.
@@ -1101,7 +1101,7 @@ Ich schwitzte nicht mehr. Nein, ich löste mich in
 Schweiß auf. Die Sonne brannte trotz der frühen Vormittagsstunde
 so unbarmherzig auf uns herab.
 
-Ueber kleine Brücken der zahlreichen Bewässerungsgräben
+Über kleine Brücken der zahlreichen Bewässerungsgräben
 donnerten wir hinweg.
 
 Die Zugluft pfiff uns um die Ohren.
@@ -1386,7 +1386,7 @@ auch den alten Annixter hinbestellen soll. Der alte Herr
 wird sich freuen.«
 
 »Bitte — nun rede endlich wie ein vernünftiger
-Mensch! Freuen soll dieser Aermste sich, dessen Sohn baumeln
+Mensch! Freuen soll dieser Ärmste sich, dessen Sohn baumeln
 muß?!«
 
 Harald hatte schon den Hörer in der Hand. Ich riß alle
@@ -1398,7 +1398,7 @@ Dann zog ich mich um. Als ich den Salon wieder betrat,
 war Harst schon fix und fertig und füllte mir gerade
 die Kaffeetasse.
 
-»Uebrigens hat Sir Paterlan mir schon vor anderthalb
+»Übrigens hat Sir Paterlan mir schon vor anderthalb
 Stunden telephonisch sein Juwelen-Leid geklagt, mein
 Alter,« sagte Harald und stürzte den Inhalt seiner Tasse
 hinab, füllte sie wieder. »Saalborg hat aus den Juwelen
@@ -1522,12 +1522,12 @@ Annixter zusammentrafen. Daß dieser von seinem elften
 bis zweiundzwanzigsten Lebensjahr dort weilt, hatte schon
 Saalborg ermittelt, der es uns in der Maske des alten
 Herrn Annixter erzählte. — Sie hatten mit Edward eine
-auffallende Aehnlichkeit —«
+auffallende Ähnlichkeit —«
 
 »Ja — selbst unsere Stimmen glichen sich. Ich entwich
 mit 18 Jahren aus dem Pawlerschen Institut und
 lernte Istrelle kennen, der mich zum Verbrecher machte. Als
-ich eines Tages beiläufig meine Aehnlichkeit mit Annixter
+ich eines Tages beiläufig meine Ähnlichkeit mit Annixter
 erwähnte, baute er den ganzen Plan auf. — Edward reiste
 nach Indien zurück. Die Seinen hatten ihn seit 7 Jahren
 nicht gesehen. Er machte in Paris Station, und hier ließen

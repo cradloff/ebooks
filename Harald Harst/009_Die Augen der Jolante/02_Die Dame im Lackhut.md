@@ -42,7 +42,7 @@ wir uns aber besser daheim.«
 
 Er drückte auf den Gummiball. Auf den Pfiff hin hielt
 <@pagebreak/>
-das Auto sofort. Wir stiegen aus. Harst spielte den Aergerlichen.
+das Auto sofort. Wir stiegen aus. Harst spielte den Ärgerlichen.
 — »Chauffeur, wenn Sie hier nicht Bescheid wissen,
 hätten Sie es gleich sagen sollen. Wir kommen ja zu Fuß
 schneller ans Ziel! — Was macht die Taxe?« — Er zahlte und
@@ -522,7 +522,7 @@ Dann verschwand Harst nach rechts hin, wo der mächtige
 Kleiderschrank steht. Ich hörte dessen Tür knarren, hörte das
 Knacken des Schlosses, hörte beides nach einer Weile nochmals.
 Nun kam Harst langsam in das Arbeitszimmer zurück.
-Ueber dem linken Arm trug er eine Lodenpelerine
+Über dem linken Arm trug er eine Lodenpelerine
 <@pagebreak/>
 und einen seiner Gummimäntel, in der linken Hand ein paar
 braune Halbschuhe.
@@ -734,7 +734,7 @@ Ich drehte mich um, tat den ersten Schritt nach der Hausecke
 hin.
 
 Da: »Morgen lieber Schraut! Der Tote, den Sie suchen
-und den Sie bei Ihrer Art des Absuchens einer Oertlichkeit
+und den Sie bei Ihrer Art des Absuchens einer Örtlichkeit
 nie gefunden hätten, sitzt die ganze Zeit über hier oben.«
 
 Ich blickte empor. Und — er saß im ersten Stock auf
@@ -801,7 +801,7 @@ Harst berichtete nun folgendes: »Ich war kaum an die
 Rückfront des Neubaus gelangt, als ich auch schon im Keller
 den Lichtschein einer Taschenlaterne sah. Ich schlich bis an das
 betreffende Fenster und erblickte einen Mann mit leicht ergrautem
-Bart, der einen schlecht sitzenden Ueberzieher und
+Bart, der einen schlecht sitzenden Überzieher und
 einen steifen schwarzen Hut trug und mit der Taschenlampe
 in der Rechten den schuttbedeckten Boden ableuchtete. Er
 murmelte dabei im Selbstgespräch allerlei vor sich hin. Ich konnte
@@ -1013,7 +1013,7 @@ mit dem harmloseren Namen Sanatorium.«
 
 Abermals ein Blick Harsts — ein aufleuchtender Blick! —
 Ich verstand: Werder — Werder, — und das Stückchen Fahrkarte
-war ja nach Harsts Ueberzeugung eine solche Werder-Berlin! —
+war ja nach Harsts Überzeugung eine solche Werder-Berlin! —
 
 Wir dankten dem freundlichen Herrn und gingen, fuhren
 heim, aßen zu Mittag, machten auf Harsts Wunsch Maske und
@@ -1091,7 +1091,7 @@ Er zahlte dann gleich für seine Schwester, die er übermorgen
 bringen würde, 200 Mark an, was Doktor Görner noch liebenswürdiger
 machte.
 
-»Uebrigens war ich schon gestern hier in Werder, Herr
+»Übrigens war ich schon gestern hier in Werder, Herr
 Doktor,« meinte Harst nun. »Da wurde mir aber auf dem
 Bahnhof gesagt, Sie wären nach Berlin gefahren.«
 
@@ -1278,7 +1278,7 @@ auf mich.
 
 »Schraut, haben Sie den Doktor bemerkt?« flüsterte er
 überstürzt und riß sich den falschen, rötlichen Schnurrbart ab.
-»Hier — nehmen Sie meinen Ueberzieher über den Arm. So,
+»Hier — nehmen Sie meinen Überzieher über den Arm. So,
 jetzt hoffe ich, wird er mich auch ohne Naseputzen nicht wiedererkennen.
 — Halt — Ihren Hut her. So — auch Ihren
 Eisenschlips. Passen Sie genau auf, wo ich bleibe, aber lassen

@@ -62,7 +62,7 @@ ohne Warbatty!«
 Das Abendrot im Westen verschwand immer mehr. Einzelne
 Sterne tauchten auf. Ringsum die feierlichste Stille,
 ringsum nur die kolossalen Zeugen der phantastischen Baukunst
-der alten Aegypter: Pyramiden, Ruinenstädte! — Und
+der alten Ägypter: Pyramiden, Ruinenstädte! — Und
 dort in der Ferne der breite lehmige geheimnisvolle Nil.
 
 Harst gähnte wieder. »Wir haben noch drei Stunden mindestens
@@ -166,14 +166,14 @@ Für eine Lebende saß diese Frau zu still.«
 Minette — die kleine Französin! Sie hatte Harst in Kairo
 befreit, obwohl sie bis dahin Warbattys Verbündete gewesen.
 Und Harst hatte ihr Geld gegeben, damit sie sofort von Alexandria
-aus Aegypten verlassen konnte.
+aus Ägypten verlassen konnte.
 
 »Abermals ein Beweis, daß Warbatty mächtiger ist, als
 man denkt — als ich gedacht habe. Und auch ein Beweis dafür,
 das er hier gewesen, daß er genau wußte wo wir zu finden
 waren, wo wir diese Tote bemerken müßten!« Er sprach
 langsam und grübelnd. »Ein rätselhafter Mensch! Wozu wohl
-diese schreckliche Ueberraschung für uns? — Nur um uns
+diese schreckliche Überraschung für uns? — Nur um uns
 Angst einzujagen? Nein — wohl mehr, um mir zu zeigen,
 was er alles vermag! Dieses Bild hier entspricht so recht seinem
 eitlen Charakter. Er liebt die starken Effekte, dieser
@@ -200,7 +200,7 @@ Nur — an mich wagen Sie sich nicht mehr heran, —
 <@pagebreak/>
 ich bitte Sie sehr darum! Sie sind bei diesem Kampf
 zwischen uns schließlich doch der Besiegte. Glauben Sie mir
-das! — Ich erwarte daß Sie binnen acht Tagen Aegypten
+das! — Ich erwarte daß Sie binnen acht Tagen Ägypten
 verlassen und daß Sie während dieser Zeit nichts unternehmen,
 was ich als Beginn eines neuen Feldzuges gegen
 mich deuten könnte. — Gehorchen Sie! Andernfalls teilen
@@ -237,7 +237,7 @@ begegnet seien. — »Ja — zwei Europäern,« war
 die Antwort — Das war Warbatty und einer von seiner
 Bande gewesen.
 
-Wir brachen sofort auf. Ueber den Preis für die Kamele
+Wir brachen sofort auf. Über den Preis für die Kamele
 und die Begleitung angeblich bis Chartum hatte Mezzan schon
 alles mit den beiden Genge verabredet. Harst zahlte die Hälfte
 jetzt gleich an.
@@ -427,7 +427,7 @@ Jetzt, wo er mitteilsamer als bisher war, wagte ich’s.
 überfallen worden, als sie nach der Stufenpyramide zu uns
 unterwegs waren?« meinte ich.
 
-»Ueberfallen? — Das glaube ich nicht. Nein — es wird
+»Überfallen? — Das glaube ich nicht. Nein — es wird
 alles in vollem Frieden mit Hilfe von — Geld sich abgespielt
 haben. Mezzan wird in Heluan im Eingeborenendorfe nach
 Reitkkamelen und zwei Führern gefragt haben. Dabei ist er
@@ -460,7 +460,7 @@ eines Gärtners vorüberkamen, der hier allerlei Gemüse für
 den Verkauf in der noch zwei Kilometer entfernten Kanalstadt
 baute, schenkte Harst dem braunen Männchen — es war ein
 kleiner, fast weißbärtiger Alter — unsere Tiere und verpflichtete
-den Ueberglücklichen nur zum Stillschweigen über diese
+den Überglücklichen nur zum Stillschweigen über diese
 Spende. Wir blieben bis zum Abend in Mehemed ben Garzas
 Hütte, und Harst benutzte diese Stunden sowohl den gutmütigen
 Mehemed als auch dessen zahnlose und abschreckend häßliche
@@ -508,7 +508,7 @@ ständigen Verkehr mit Europäern, ihren Gesichtskreis erweitert.
 Straße im kleinen.«
 
 Er hatte mit dieser Bemerkung nur meine eigenen Gedanken
-ausgesprochen. Eine Ueberfülle elektrischen Lichtes verwandelte
+ausgesprochen. Eine Überfülle elektrischen Lichtes verwandelte
 die Dunkelheit in strahlende Helle. Als wir dann gar
 in die Hauptverkehrstraße einbogen, als auf den breiten Bürgersteigen
 Scharen von weißen und braunen Menschen uns
@@ -562,7 +562,7 @@ und gewandt.
 Am Buffet rückte der Neger für seinen Herrn einen hochsitzigen
 Bambusschemel heran. Der Araber setzte sich, sprach
 leise mit dem tief dienernden Schankkellner, einem Holländer
-dem Aeußeren nach.
+dem Äußeren nach.
 
 Im Zuschauerraum ertönte das Klingelzeichen für den
 nächsten Akt. Der Araber hatte gleichfalls Limonade geschlürft,
@@ -905,7 +905,7 @@ vor. Ich stand im Zuschauerraum und spähte durch den Vorhang.
 Und dem Friseur folgte ich, als Du Dir gerade von
 <@pagebreak/>
 Viktor Vinklair Witze erzählen ließest. Ich fand die unterstrichenen
-Worte. In deutscher Uebersetzung lauteten sie:
+Worte. In deutscher Übersetzung lauteten sie:
 
 »Morgen ein Uhr. Alles bereit.«
 
@@ -1359,7 +1359,7 @@ können, daß ich etwas scharfsinniger als Sie bin.«
 
 Da wurde Herr Polizeidirektor böse, redete etwas von
 »Speisen selbst vergiftet haben« und wollte hinaus. Harst
-hielt ihn am Aermel fest.
+hielt ihn am Ärmel fest.
 
 »Herr!« fuhr er ihn an. »Wenn Sie nicht tun, was ich
 Ihnen empfehle, so sind Sie hier die längste Zeit in

@@ -8,7 +8,7 @@
 Der phantastische Bau des Schlosses Biraniri in Zentralindien,
 Eigentum unserer Freundin Lady Gulbrar, war
 der Schauplatz des Vorspiels einer Reihe neuer Abenteuer,
-die ich ohne Uebertreibung als einen fortgesetzten Kampf
+die ich ohne Übertreibung als einen fortgesetzten Kampf
 gegen die Mächte der Finsternis bezeichnen kann.
 
 Am Abend eines glutheißen Tages saßen wir beide
@@ -270,7 +270,7 @@ Schraut daheim in Berlin-Schmargendorf zu sein.« —
 
 Am 24. Mai landeten wir denn auch wohlbehalten in
 Brindisi und fuhren weiter mit der Bahn der deutschen
-Heimat zu. Ueber die Ermordung des Postboten im Parke
+Heimat zu. Über die Ermordung des Postboten im Parke
 von Biraniri hatte Harald kaum mehr ein Wort verloren.
 
 <h2>2. Kapitel.</h2>
@@ -435,7 +435,7 @@ ernst und mit einer trockenen Sachlichkeit, als handelte
 es sich um eine Rechtsfrage die er zwei Klienten klar
 zu machen suchte. »Sie werden in leichte Narkose versetzt
 und in der Kiste, auf der Sie sitzen, an einen Ort geschafft
-werden, wo Ihre Ueberwachung weiter keine Schwierigkeiten
+werden, wo Ihre Überwachung weiter keine Schwierigkeiten
 bereitet. Sie werden dort gut verpflegt und —«
 
 »Halt — gestatten Sie eine Zwischenfrage,« meinte
@@ -496,7 +496,7 @@ für kurze Zeit zu betäuben.
 
 All das war mit mustergültiger Genauigkeit und Schnelligkeit
 vor sich gegangen — ganz so, als ob man diesen
-Ueberfall sorgfältig vorher ausprobiert hatte.
+Überfall sorgfältig vorher ausprobiert hatte.
 
 Das Letzte, was mein schwindendes Bewußtsein an
 Eindrücken empfing, war Berthold Finsters meckerndes
@@ -620,7 +620,7 @@ die Bezeichnung für jenen indischen Freiheitsbund,
 ließ ihn halb von dem Sofa hochfahren.
 
 Aber ebenso geschickt bemäntelte er diese jähe Bewegung
-höchster Ueberraschung und Bestürzung, indem er vollends
+höchster Überraschung und Bestürzung, indem er vollends
 aufstand und wegwerfend sagte: »Ich bin mein Lebtag
 nicht in Indien gewesen, Herr Harst. Sobald Sie vernünftig
 mit mir reden wollen, brauchen Sie nur zu läuten.«
@@ -649,7 +649,7 @@ und bot auch mir eine seiner Mirakulum an.
 Schweigend rauchten wir, hingen unseren Gedanken
 nach und warfen hin und wieder einen Blick auf die Klappe
 <@pagebreak/>
-der Türfüllung, hinter deren Oeffnung undeutlich ein heller
+der Türfüllung, hinter deren Öffnung undeutlich ein heller
 Fleck — das Gesicht eines Mannes — zu erkennen war.
 
 Das Geräusch des Motors verstummte dann. Oben
@@ -794,7 +794,7 @@ Noch drei — vier Hiebe, und auch das Eisenblech
 löste sich.
 
 Harald stieß es vollends nach außen, zwängte sich durch
-die Oeffnung.
+die Öffnung.
 
 »Die Taschenlampe her!«
 
@@ -821,7 +821,7 @@ Donner.
 
 Und noch ein Schrei.
 
-Bis Harald den Kopf durch die Oeffnung schob und in
+Bis Harald den Kopf durch die Öffnung schob und in
 die kleine Segelkammer hineinleuchtete.
 
 »Leer — leer!«
@@ -899,7 +899,7 @@ sein.«
 fragte ich gespannt.
 
 »Ich weiß nicht viel mehr als Du, mein Alter. Ich
-habe während der Ueberfahrt von Bombay nach Brindisi
+habe während der Überfahrt von Bombay nach Brindisi
 alle erreichbaren älteren Zeitungen nach altem Rezept durchstöbert
 und dabei etwas gefunden: eine kurze Notiz über
 den Selbstmord des Barons Holger Alfström, ehemaligen
@@ -1086,7 +1086,7 @@ sichtlich zusammen.
 weiter. »Lüge nicht! Ihr habt den Baron Alfström aus
 Rache ermordet. Ihr seid Abgesandte des Sarawana-Bundes!«
 
-Ueber das wieder völlig teilnahmlose Gesicht des Inders
+Über das wieder völlig teilnahmlose Gesicht des Inders
 flog ein verächtliches Lächeln.
 
 »Du wirst bereuen!« meinte er wegwerfend. »Gib
@@ -1246,7 +1246,7 @@ undurchdringliche Asiatengesicht.
 er darauf, nahm ihm das als Handfessel benutzte Taschentuch
 ab und verbeugte sich vor Frau Inge.
 
-Die erhob sich schnell. Ueber ihr Antlitz flog ein Aufleuchten
+Die erhob sich schnell. Über ihr Antlitz flog ein Aufleuchten
 der Befriedigung.
 
 Dann schloß sich die Tür des Nebenzimmers hinter

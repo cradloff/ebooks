@@ -29,7 +29,7 @@ etwas weichlichen Art ein lieber guter Kerl war. »Betrachten
 Sie sich bitte als mein Dauergast, bis Sie Ihre
 Studien beendet haben. Da Sie Waise sind, wird...«
 
-Diese Aeußerungen des menschenfreundlichen Herzens
+Diese Äußerungen des menschenfreundlichen Herzens
 meines alten gütigen Harald wurden durch das Schrillen
 der Flurglocke unterbrochen.
 
@@ -80,7 +80,7 @@ für mich behalten.
 
 > Anbei Ihre Geschenke und Ihre Bilder zurück, für
 die ich keinerlei Verwendung mehr habe. Damit die
-Oeffentlichkeit nicht Ihr Konto mit diesem Bruch zwischen
+Öffentlichkeit nicht Ihr Konto mit diesem Bruch zwischen
 <@pagebreak/>
 uns belastet, werde ich das Gerücht verbreiten, daß *Sie*
 die Verlobung aufgehoben haben, weil wir nicht füreinander
@@ -1127,7 +1127,7 @@ fragen: — Harst brachte die Tür wieder in Ordnung, sagte
 zu dem Diener: »Sie schweigen darüber, daß wir hier gewesen
 sind — auch ihrem Herrn gegenüber, verstanden!«
 
-Der Mann war völlig verdattert vor Ueberraschung.
+Der Mann war völlig verdattert vor Überraschung.
 
 »Ich... ich gehorche,« stammelte er.
 
@@ -1142,7 +1142,7 @@ Vogler war wütend.
 
 Am Anfang der Erlenstraße verließen wir den Kraftwagen.
 
-»Ich gehe voran,« entschied Harald nach kurzem Ueberlegen.
+»Ich gehe voran,« entschied Harald nach kurzem Überlegen.
 »Wir müssen das Perwartsche Palais beobachten.
 Falls in der Nähe von Nr. 16 ein Auto hält, ist der Mann
 noch da. — Du bleibst hier bei unserem Auto — auf dem

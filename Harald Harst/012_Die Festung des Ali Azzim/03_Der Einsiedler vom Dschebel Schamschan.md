@@ -502,7 +502,7 @@ dem schwachen Winde konnte der Schoner keinen zu großen
 Vorsprung haben. — Bisher hatten wir nicht die Zeit gehabt,
 uns in Ruhe aussprechen zu können. Mir brannten hundert
 Fragen auf der Zunge. Wenn ich je Harald Harsts geradezu
-an das Uebernatürliche grenzendes Kombinationstalent
+an das Übernatürliche grenzendes Kombinationstalent
 bewundert hatte, dann war es bei den Vorgängen auf
 der Westerland gewesen. So einfach diese Geschehnisse auch
 schienen: überlegte man sie sich genauer, so stieß man überall
@@ -527,8 +527,8 @@ an, die natürlich mit allen Mitteln sich gegen diese Heirat
 wehrt. Hilde ist ja ganz einfacher Leute Kind. Und Hamburger
 Patrizier sind hochmütiger als ein frischgeadelter Herr
 »von« Meir, dessen Ahnen noch im Judenviertel von Warschau
-hausten. — Eine verdrehte Welt, mein lieber Schraut! Ueberall
-lächerliche Vorurteile und kurzsichtige Ueberhebung! —
+hausten. — Eine verdrehte Welt, mein lieber Schraut! Überall
+lächerliche Vorurteile und kurzsichtige Überhebung! —
 Was tun wir nur, um das Mädchen diesen arabischen Halunken
 zu entreißen! Hier sehe ich meine Ohnmacht ein. Das Wasser
 der Meere verwischt jede Spur. Der Schoner kann den Kurs
@@ -811,7 +811,7 @@ Festungsbesatzung aufhielt.
 
 Major Robertson kannte Arabien und Nordafrika besser
 als London. Er war nebenbei Gelehrter, und er wußte von
-Geheimnissen, die nie an die Oeffentlichkeit dringen. Wir
+Geheimnissen, die nie an die Öffentlichkeit dringen. Wir
 waren Freunde von Berlin her, wo er ein Jahr bei der Englischen
 Botschaft gewesen. Eines Abends zeigte er mir einen
 Dolch, dessen Griff mit Türkisen in Form einer Schlange verziert
@@ -1340,7 +1340,7 @@ Paradies. Hier den richtigen Weg trotz zahlreicher Seitenhöhlen
 zu finden, war nicht schwer, da Ali ben Barka bei seinem
 häufigen Hin und Zurück bereits etwas wie einen Pfad glatt
 getreten hatte. Dieser Pfad endete nach zehn Minuten vor
-einer primitiven Holztreppe, die durch eine breite Oeffnung
+einer primitiven Holztreppe, die durch eine breite Öffnung
 in der Höhlendecke nach oben zu sich fortsetzte. Wir erklommen
 die zahlreichen Stufen und standen nun in einem kastenähnlichen
 Bretterverschlag, in dessen der Treppenmündung gegenüberliegender

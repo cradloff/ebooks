@@ -678,7 +678,7 @@ Er stand auf, schloß den Stahlschrank auf und nahm
 ein Aktenstück heraus, lächelte abermals pfiffig und erklärte:
 »Ich bin erst seit zwei Jahren Notar. Die Zahl
 der Testamente ist nicht allzugroß, wie Sie sehen. Suchen
-wir von Nr. 1 an. Schon das Aeußere meiner Abschrift
+wir von Nr. 1 an. Schon das Äußere meiner Abschrift
 muß uns die Arbeit erleichtern, da ich diese Abschriften in
 der Anordnung der Zeilen und so weiter genau dem Original
 entsprechend anfertige, ganz genau.«
@@ -892,8 +892,8 @@ Steinsäulen sitzen.
 
 Zwei Säulenreihen stützten den dreifach gewölbten
 niederen Raum. Angenehm kühl war es hier. Seltsame
-Oellampen spendeten noch seltsamere Beleuchtung. Das
-mit Ambra parfümierte Oel erfüllte die Luft mit einem
+Öllampen spendeten noch seltsamere Beleuchtung. Das
+mit Ambra parfümierte Öl erfüllte die Luft mit einem
 Duft, als befände man sich in einer Moschee.
 
 Im Hintergrunde auf einem Podium eine Musikkapelle,

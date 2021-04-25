@@ -260,7 +260,7 @@ Seitenweg entlang und entschwand unseren Blicken.
 Wir schritten langsam dem Hause zu.
 
 »Na — was sagen Sie zu Ralling, bester Harst?« fragte
-Greaper. »Nun kennen Sie ihn ja. — Uebrigens: die
+Greaper. »Nun kennen Sie ihn ja. — Übrigens: die
 Sache soeben haben Sie wieder glänzend gemacht!« Greaper
 lachte. »Ich gebe ehrlich zu, ich wäre auf die Idee nie gekommen!«
 
@@ -707,7 +707,7 @@ den Inspektor.
 
 »Hm, eine tolle Gesichts. Lügen sind das nicht. Das
 merkte man. Noch toller ist aber das andere. Verdammt —
-wo ist denn Ralling geblieben? Ueber den Hof des Jefferson
+wo ist denn Ralling geblieben? Über den Hof des Jefferson
 kann er doch unmöglich geflüchtet sein!«
 
 »Aber die Spuren an der Palme,« warf ich ein.
@@ -726,7 +726,7 @@ hier auf Ihrem Grund und Boden war?!«
 aufmerksam.
 
 »Ich meine, daß Ralling in Ihrem Garten sehr gut Bescheid
-gewußt haben muß. Ueber die Mauer ist er jedenfalls
+gewußt haben muß. Über die Mauer ist er jedenfalls
 nicht geflüchtet und vielleicht auch gar nicht auf diesem Wege
 gekommen. Es ist jetzt ja dunkel, und wir können den Garten
 nicht nochmals absuchen. Aber morgen werden wir es tun.
@@ -917,7 +917,7 @@ Mauerresten jene Riesendisteln und stachligen Rankengewächse,
 die jeden Schutthaufen in Indien zieren. Manche dieser
 Distelstauden waren wie dünne Bäume.
 
-Ueber diese Stätte der Verwüstung ragte riesig und plump
+Über diese Stätte der Verwüstung ragte riesig und plump
 die Brahma-Statue hinaus. Um den mächtigen Sockel lagen
 ein paar größere Mauerreste herum. Die Schlingpflanzen hatten
 den Sockel zum Teil umsponnen.
@@ -1147,7 +1147,7 @@ Ich will nur gestehen: ich war es, der sich hinten an Ihr
 Auto gehängt hatte. Vielleicht haben Sie schon von mir gehört.
 Man nennt mich in ganz Indien den Reporterkönig —«
 
-Das war ja eine nette Ueberraschung! — Allerdings hatte
+Das war ja eine nette Überraschung! — Allerdings hatte
 ich von Tompkinson schon so manches vernommen, und nicht
 nur von Greaper, der ja den alter Fischer zuerst für Tompkinson
 gehalten hatte. Stuart Tompkinson war tatsächlich berühmt,
@@ -1207,7 +1207,7 @@ Sonst hätte er es Ihnen beiden gegenüber erwähnt. Dieses
 Inselchen heißt in alten Sanskriturkunden, die in der Stadtbibliothek
 in Bombay aufbewahrt werden, Vinduprana. Das
 bedeutet so viel als »Eiland der Heiligen«. In diesen Sanskritschriften,
-deren Uebersetzungen ich studiert habe, wird behauptet,
+deren Übersetzungen ich studiert habe, wird behauptet,
 daß diese riesige Felsmasse hier hohl sei. Es sollen
 sich in ihr Tempelräume befinden. Nun — etwa ein Dutzend
 <@pagebreak/>
@@ -1287,7 +1287,7 @@ lag das Festland, — nein, die Insel Bombay und die große
 Hafenstadt gleichen Namens.
 
 »Er muß hier sein, Mr. Tompkinson!« erwiderte ich auf
-des kleinen Reporters letzte Aeußerung. »Wenn er hier an
+des kleinen Reporters letzte Äußerung. »Wenn er hier an
 derselben Stelle drei seiner Mirakulum geraucht hat, dann
 fühlte er sich auch sicher. Harald Harst raucht nicht, wenn er
 fürchtet oder auch nur fürchten zu müssen glaubt, daß ihm jeden
@@ -1443,7 +1443,7 @@ nun zunächst erklären, wie ich den Zugang fand. Der Besuch
 Tomars bei Greaper und des Alten Bericht über die einstige
 Tätigkeit auf dem Hofe der Firma Jefferson gab mir die Gewißheit,
 daß Ralling nach der ganz spannenden Szene vor
-Greapers Brahma-Statue, bei der das Aeffchen Charly eine
+Greapers Brahma-Statue, bei der das Äffchen Charly eine
 nicht unwichtige Rolle spielte, unmöglich über den Hof der
 Firma geflüchtet sein könnte. Ich hatte nun, als wir von der
 Besichtigung des sich an die Mauer anlehnenden Palmbaumes
@@ -1495,7 +1495,7 @@ von Greapers Statue. Und er wird es fraglos von Edith Webster
 erfahren haben, diesem armen, jetzt wahnsinnigen, völlig
 ergrauten und verblühten Weibe, das er all die Jahre hier auf
 der Klippe in den Gewölben des Tempels gefangen gehalten
-hat. — So, nun wollen wir sie herausholen, die Aermste, die
+hat. — So, nun wollen wir sie herausholen, die Ärmste, die
 den Schurken in ihrer geistigen Umnachtung noch immer liebt
 und die mir freiwillig nicht folgen wollte. Sie ist harmlos.
 <@pagebreak/>
@@ -1506,7 +1506,7 @@ mir —«
 Harald stieg als erster hinauf. Es gab da an der Brust
 des Götzen eine verborgene Feder. Schob man sie zurück, so
 konnte man Kopf, Hals und ein Stück der Brust nach hinten
-so weit umklappen, daß eine Oeffnung frei wurde, die selbst
+so weit umklappen, daß eine Öffnung frei wurde, die selbst
 einen korpulenten Menschen durchließ.
 
 Der Götze war nur außen von gebranntem Ton. Innen
@@ -1580,7 +1580,7 @@ empor und deutete auf den noch immer eingeklemmten Zweig.
 der Statue auch hier Gewölbe geben wie auf Vinduprana.«
 
 Er klappte Kopf, Hals und Bruststück der Figur zurück,
-beugte sich über die Oeffnung. Wir sahen, daß er plötzlich
+beugte sich über die Öffnung. Wir sahen, daß er plötzlich
 leicht zusammenzuckte. Dann rief er hinab:
 
 »Ralling — noch eine Frage: War Edith Webster bereits

@@ -130,7 +130,7 @@ Absatz gewählt haben! — Nein, mein Alter, — es ist schon ein
 Testament! Nur eben eins, das, falls es in andere Hände
 und nicht gerade in die meinen geriet, nicht entziffert werden
 sollte. Palperlon hat hier also eine geheime Urkunde
-in der Ueberzeugung geschaffen, daß ich ihren Text schon heraustüfteln
+in der Überzeugung geschaffen, daß ich ihren Text schon heraustüfteln
 würde. Na — unser ehemaliger Feind hat sich in
 mir nicht getäuscht. Der Text ist schon gefunden.«
 
@@ -179,7 +179,7 @@ Plantagenbesitzer Indiens, vielleicht der reichste Mann Englands
 früheren Radschaschloß unweit Madras. Jetzt kommt er von
 London und befindet sich auf der Heimreise. Ich werde ihn
 bitten, Sie als seine Gäste mitzunehmen. Seine Jacht läuft
-23 Knoten. Eine schnellere und bequemere Ueberfahrt nach
+23 Knoten. Eine schnellere und bequemere Überfahrt nach
 Indien dürften Sie kaum haben.«
 
 Abends lernten wir dann Lord Edward Wolpoore kennen.
@@ -693,7 +693,7 @@ Der eine gähnte jetzt, sagte dann:
 James hat die Sache zu verzwickt gemacht.«
 
 »Du meinst, er müßte sein, wenn er es gefunden
-hätte. Nun, ich bin anderer Ueberzeugung. Ein Mann
+hätte. Nun, ich bin anderer Überzeugung. Ein Mann
 wie er kommt selbst auf das, was hundert andere auch nicht im
 entferntesten ahnen. Er wird erscheinen! Er müßte gerade
 ein sehr schnelles Schiff benutzt haben, um in Indien bereits
@@ -776,7 +776,7 @@ gekommen war.
 
 »Nun — sie wird es nie erfahren.« erklärte Charles
 Vapaure jetzt mit einer Stimme, die fast drohend klang. »Sie
-darf es nie erfahren! Ueberhaupt — am besten wäre, sie
+darf es nie erfahren! Überhaupt — am besten wäre, sie
 würde heiraten. Dann käme sie aus dem Hause. Sie ist manchmal
 <@pagebreak/>
 doch recht unbequem. Sie besitzt jene Klugheit, der nichts
@@ -870,7 +870,7 @@ verstanden? — Nein? — Nun — die Vapaures unterhalten
 fraglos einen Opiumsalon für Pondicherrys vornehme Welt.
 Es läßt sich das ganz gut mit einem Konfitürengeschäft vereinen.«
 
-Eine kurze Pause. Dann: »Ueberhaupt — diese Vapaures!
+Eine kurze Pause. Dann: »Überhaupt — diese Vapaures!
 Erst sprachen sie fraglos über mich. Viktor fürchtet
 mich. Das merkte man. — Was wohl die Bemerkung über
 die frische Erde sollte, die Ellen zu einer Frage und Charles
@@ -965,7 +965,7 @@ besser machen können!«
 »Was denn?«
 
 »Sei nicht unbescheiden. Ich will mir für morgen
-doch auch noch einige Ueberraschungen vorbehalten. Wir
+doch auch noch einige Überraschungen vorbehalten. Wir
 werden um 9 Uhr vormittags die Vapaures besuchen, nachdem
 ich mich noch zu dieser Visite für alle Fälle so etwas gerüstet
 habe. Ich traue den beiden Herren alles mögliche zu.
@@ -985,7 +985,7 @@ Falle gelockt —«
 Du total auf dem Holzwege. — Nein — von Rache oder dergleichen
 ist kleine Rede! Erinnere Dich: die Brüder sprachen
 davon, daß sie bei diesem Vermächtnis nur eine Nebenrolle
-spielen, — offenbar sehr zu ihrem Aerger. Aber — sie erwarten
+spielen, — offenbar sehr zu ihrem Ärger. Aber — sie erwarten
 uns! Sie wissen also, daß ohne dieses seltsame Testament
 und ohne mich das Vermächtnis niemals verwirklicht
 werden kann. Es gibt da noch eine Menge Nebenfragen, die
@@ -1244,7 +1244,7 @@ Schriftstück bringen, das ohne diese Ergänzung
 ohne Wert ist.« — Das war alles, was er sagte.«
 
 Charles Vapaure trat an die Wand und nahm ein kleines
-Oelbild vom Nagel. Dahinter befand sich ein verstecktes
+Ölbild vom Nagel. Dahinter befand sich ein verstecktes
 Fach in der Mauer. Er öffnete es mit einem langen, dünnen
 Schlüssel und nahm ein Stück Papier heraus, reichte dieses
 Harst und sagte: »Bitte — es ist das Original!«
@@ -1263,7 +1263,7 @@ auf Deutsch folgendermaßen:
 
 <blockquote><p class="pre">                        Pondicherry
 Mein letzter Wun
-In der Ueberzeugung, daß sofort
+In der Überzeugung, daß sofort
 erreicht, bestimme ich, falls
 meine Hinterlassenschaft in
 unter Mitwirkung un
@@ -1351,7 +1351,7 @@ etwas derartiges planten, ahnte ich. Ich wußte nur nicht,
 was es sein würde. Nicht umsonst habe ich mir heute
 früh als Du Dich noch rasiertest, sowohl ein paar
 Stahlfeilen, eine kleine Stahlsäge und ein kleines
-Federmesser gekauft, das ich geöffnet im Aermelaufschlag
+Federmesser gekauft, das ich geöffnet im Ärmelaufschlag
 <@pagebreak/>
 verbarg. Ich wollte für alle Fälle gerüstet sein. — Nun wissen
 wir auch, was es mit der frischen Erde auf sich hatte. Die
@@ -1557,13 +1557,13 @@ verschwanden bald aus Pondicherry, wo sie sich nicht mehr
 recht behaglich fühlen mochten.
 
 Und der Zettel, den Harst mir auf dem Dampfer während
-der Ueberfahrt nach Kapstadt gegeben und den ich in einem
+der Überfahrt nach Kapstadt gegeben und den ich in einem
 Umschlag in meiner Mütze verwahrt hatte?
 
 Nun — als ich ihn an demselben Tage noch las, als wir
 Palperlons Testament ausgegraben hatten, fand ich nur
 folgende Worte: »Goldaufdruck Warnung, Umschlagkniffe
-Skizze bestimmter Oertlichkeit.«
+Skizze bestimmter Örtlichkeit.«
 
 Harst hatte also tatsächlich schon auf dem Dampfer das
 Richtige vermutet. —

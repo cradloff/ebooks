@@ -191,7 +191,7 @@ in dem Kies! Mithin suchte er nach dem Papierkügelchen.
 Doch — es war offenbar nicht zu finden. Der Gelbe kniete
 jetzt sogar am Boden, gab sich die größte Mühe, das winzige
 Ding noch irgendwo aufzustöbern. Seinen Eifer, seine Enttäuschung,
-seinen Aerger: all das konnte ich aus den Grimassen, die
+seinen Ärger: all das konnte ich aus den Grimassen, die
 er schnitt, ablesen.
 
 Endlich gab er’s auf; setzte sich wieder auf den Karren und
@@ -204,7 +204,7 @@ Die drei flüsterten, gestikulierten und — fingen von neuem zu
 suchen an!
 
 Merkwürdig: welchen Wert mochte wohl das kleine Ding für
-sie haben? — Ueberhaupt: das, was ich hier beobachtete, hatte
+sie haben? — Überhaupt: das, was ich hier beobachtete, hatte
 ja recht viel Bedeutungsvolles an sich. Weshalb hatte der junge
 Inder von dem Geschäftsauto aus das winzige, zusammengeballte
 Papierstück auf den Karren geworfen?!
@@ -229,7 +229,7 @@ Fersen. So kamen wir denn an die Docks am Flußufer, wo die
 Gelben in einem Bootshafen einen Nachen losketteten und
 schnell den Fluß überquerten.
 
-Ich fand kein Boot, das mich übergesetzt hätte. Aergerlich
+Ich fand kein Boot, das mich übergesetzt hätte. Ärgerlich
 und enttäuscht mußte ich kehrtmachen. Ich hätte mir diese
 Stunde, die ich für die Verfolgung gebraucht hatte, sparen
 können.
@@ -312,7 +312,7 @@ Arbeit! Ihm war ja alles möglich. Er hatte ja schon
 ganz andere Dinge fertiggebracht!
 
 <@pagebreak/>
-Diese Ueberzeugung, daß Harald jetzt fraglos bereits wieder
+Diese Überzeugung, daß Harald jetzt fraglos bereits wieder
 irgend einer sich anspinnenden Schurkerei (denn was diese Gelben
 unternahmen, war ja zumeist eine gerissene Teufelei) auf
 die Spur gekommen sein mußte, beruhigte mich so sehr, daß ich
@@ -342,7 +342,7 @@ wurde, deutete auf eine ganz große Lumperei hin.«
 »Ja, das ist die Entführung einer Dame stets,« nickte Harst
 mit auf den Zettel gerichteten Augen.
 
-»Entführung?« — Ich reckte das Worte vor Ueberraschung
+»Entführung?« — Ich reckte das Worte vor Überraschung
 über Gebühr.
 
 »Frau Helene Tschong ist von ihren Vormittagsbesorgungen
@@ -443,7 +443,7 @@ ich trotz des falschen Bartes und mancher anderen künstlichen
 Gesichtsveränderungen unseren »Freund« Kuma Tawi. Der
 Halunke hatte nämlich bei seiner Maske eins vernachlässigt:
 die nackten, in Sandalen steckenden Füße! — Dieser gebildete
-Chinese gibt ja sehr viel auf sein Aeußeres, genau so wie sein
+Chinese gibt ja sehr viel auf sein Äußeres, genau so wie sein
 Bruder, der Juwelenhändler. Die Sandalen ließen die Zehen
 frei. Also präsentierten sich die Zehennägel in all ihrer Gepflegtheit
 trotz der Staubschicht darauf.«
@@ -498,12 +498,12 @@ Nur eins war mir noch nicht klar: Weshalb die drei Chinesen
 die Villa so lange überwacht hatten, bis Harst heraustrat, den
 sie also trotz seiner Verkleidung sofort erkannt hatten. Gewiß,
 <@pagebreak/>
-die Vermutung lag nahe, daß diese Ueberwachung uns beiden
+die Vermutung lag nahe, daß diese Überwachung uns beiden
 als den gefährlichsten Gegnern Kuma Tawis galt. Immerhin
 war es aber von Kuma Tawi doch sehr unvorsichtig, sich
 so lange in nächster Nähe eines Harald Harst aufzuhalten.
 — Als ich Harsts Meinung hierüber hören wollte, erwiderte
-er nur: »Um eine Ueberwachung allein wird es sich hier nicht
+er nur: »Um eine Überwachung allein wird es sich hier nicht
 handeln. Die Leute wollen fraglos mehr, als uns lediglich
 nicht aus den Augen zu verlieren. — Falle!«
 
@@ -615,14 +615,14 @@ als auch bei der Europäerkolonie Kalkuttas sehr
 beliebt sei. Ihre Ehe mit dem Edelsteinhändler sei die denkbar
 glücklichste und Frau Tschong würde wohl restlos zufrieden
 sein, wenn sie nicht so sehr um den Verlust ihrer Schwester
-trauerte, die vor zwei Jahren während der Ueberfahrt von
+trauerte, die vor zwei Jahren während der Überfahrt von
 Bremen nach Kalkutta tödlich verunglückte.
 
 Inzwischen hatte auch der alte Hausmeister Pfara Donki
 sich im Speisezimmer eingefunden. Er ergänzte Bünglis Angaben
 noch, indem er eine große Photographie Fräulein Anna
 Mirzbachs holte und sie uns zeigte. Die beiden Schwestern
-hatten große Aehnlichkeit miteinander. — Die jüngere, unverheiratete
+hatten große Ähnlichkeit miteinander. — Die jüngere, unverheiratete
 besaß ein liebreizendes Gesicht mit ein Paar sehr
 seelenvollen Augen. Für meinen Geschmack war sie schöner
 als Frau Tschong.
@@ -632,7 +632,7 @@ Zeit zu Tschongs hätte zu Besuch kommen wollen. Erst kurz
 vor Kalkutta sei das Unglück bei regnerischem Wetter gegen
 Abend passiert. Matrosen des Dampfers hörten einen Schrei
 und sahen auch einen Körper in die See stürzen. Die ausgesetzten
-Rettungsboote fischten dann lediglich eine Oelkappe auf,
+Rettungsboote fischten dann lediglich eine Ölkappe auf,
 die als Fräulein Mirzbach gehörig erkannt wurde. Sie selbst
 war ertrunken. Ihr Körper wurde nie gefunden, obwohl der
 Unglücksfall sich dicht vor der Hugli-Mündung ereignete.
@@ -740,10 +740,10 @@ zwei Zimmer für drei Tage.
 
 Das Hotel gehörte einem Wiener, einem früheren Kellner
 namens Meidinger. Es war peinlich sauber bei aller Einfachheit.
-Harst verstand es dann, den in Oesterreich bekannten
+Harst verstand es dann, den in Österreich bekannten
 Engländer zu spielen, begann über Wien zu sprechen und machte
 Meidinger schnell vertraulich. Dieser erzählte ihm schon in der
-Vorhalle, das er heute viel Aerger gehabt hätte. Die Polizei
+Vorhalle, das er heute viel Ärger gehabt hätte. Die Polizei
 <@pagebreak/>
 suche eine Dame, die hier in seinem Hotel verschwunden sein
 solle, und das sei ein Unsinn.
@@ -766,7 +766,7 @@ zurück. Aber ich habe deswegen noch nicht mal den Kopf gehoben.
 Jetzt macht dieser verrückte Inspektor Blosley mir den
 Vorwurf, ich steckte mit den Banditen, die Frau Tschong verschleppt
 haben, unter einer Decke. Lächerlich! Ich wurde natürlich
-saugrob. Das half. Aber der Aerger sitzt mir noch in
+saugrob. Das half. Aber der Ärger sitzt mir noch in
 den Nerven.«
 
 »Treten wir mal in Ihr Kontor ein.« meinte Harst.
@@ -831,7 +831,7 @@ Vom Schuppen aus sieht man die losen Steine nicht,
 da ein Haufen leere Kisten davor steht.«
 
 »Wir müssen uns jetzt verabschieden,« meinte Harst.
-»Schraut, hole die Reisetasche. Ueber die beiden Zimmer können
+»Schraut, hole die Reisetasche. Über die beiden Zimmer können
 Sie verfügen, bester Meidinger. Ich bin hier mit meiner
 Arbeit fertig.«
 
@@ -982,7 +982,7 @@ mögen.
 Dann setzte man mich in den zweiten Sessel, band mich
 fest, richtete Harsts Sessel wieder auf.
 
-Kuma Tawi und zwei andere Chinesen waren unsere Ueberwinder.
+Kuma Tawi und zwei andere Chinesen waren unsere Überwinder.
 — Unser Todfeind rückte sich jetzt einen dritten Stuhl
 heran. Mir hatte man keinen Knebel zwischen die Zähne geschoben.
 Dafür stand hinter mir einer der Chinesen mit einem
@@ -1058,7 +1058,7 @@ vorreden, wir seien Harst und Schraut und wir wollten nur
 mal die Zimmer durchsuchen. Ich wette, wir haben das Geld in
 spätestens einer Stunde. Dann nehmen wir Sie beide mit und
 — bereiten den Hugli-Krokodilen eine kleine Freude. — Was
-sagen Sie zu dem Plänchen Herr Harald Harst, Ueberdetektiv
+sagen Sie zu dem Plänchen Herr Harald Harst, Überdetektiv
 auf dem — Aussterbeetat?«
 
 »Es wird gelingen. Der Hausmeister wird sich täuschen
@@ -1389,7 +1389,7 @@ herum. Unbemerkt gelangten wir auf die Veranda und vor
 die erleuchteten Fenster. Die Vorhänge waren nur lässig zugezogen
 und schlossen in der Mitte nicht.
 
-Nun kam für uns die nie geahnte Ueberraschung, kam der
+Nun kam für uns die nie geahnte Überraschung, kam der
 völlig unerwartete Abschluß dieses Abenteuers.
 
 Das Zimmer, zu dem die beiden Fenster gehörten, halb
@@ -1406,7 +1406,7 @@ hart, war aber fehlerfrei.
 <@pagebreak/>
 »Mein Liebling. Verlaß Dich darauf: Deine Schwester wird
 schon noch kommen! Der Zettel muß seine Wirkung tun. Dann
-werden wir mit Helene beraten, wie wir am besten die Oeffentlichkeit
+werden wir mit Helene beraten, wie wir am besten die Öffentlichkeit
 darüber aufklären, daß Du noch am Leben, daß Du
 mir verziehen und mich lieben gelernt hast und nun mein angebetetes
 Weib werden willst. Kuma Tawi wird Helene schon

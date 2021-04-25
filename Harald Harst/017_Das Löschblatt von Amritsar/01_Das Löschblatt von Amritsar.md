@@ -81,7 +81,7 @@ sich aufrecht gesetzt.
 Ich wurde sofort munter; starrte hinein in das Dunkel
 und glaubte nun auch zu erkennen, daß Harst in seinem hellen
 Schlafanzug auf dem Bettrand zusammengeduckt hockte.
-Dann aber verschwamm mir infolge der Ueberanstrengung
+Dann aber verschwamm mir infolge der Überanstrengung
 <@pagebreak/>
 der Sehnerven alles vor den Augen; dann — fühlte ich eine
 Hand, die sich leicht auf meinen Mund legte.
@@ -209,7 +209,7 @@ fehlende ergänzend:
 
 > Post- und Eisenbahnabteilung.
 
-> Oeffentliches Eigentum!
+> Öffentliches Eigentum!
 
 Im übrigen war an dem ziemlich starken Löschblatt
 nichts Besonderes zu entdecken. Es war ohne Frage eine
@@ -246,7 +246,7 @@ das Feuerzeug hin und paffte dann mit Wohlbehagen die
 ersten Rauchwölkchen in die Luft.
 
 »Das Feuer läutert alles,« lächelte er mit jener liebenswürdigen
-Ueberlegenheit, die bei ihm den Verdacht der
+Überlegenheit, die bei ihm den Verdacht der
 Wichtigtuerei von vornherein ausschließt. »Ein scharfer
 Holzbohrer arbeitet, mit Speichel angefeuchtet, lautlos. So
 entstand das Löchlein in der Kabinentür der Miß Lizabet
@@ -286,7 +286,7 @@ die Kastanienbraune aufs Korn zu nehmen —«
 »Augen hast Du, — Augen!«
 
 »Zum Glück bessere als Du, lieber Alter. Sonst würden
-unsere sterblichen Ueberreste wohl längst irgendwo —«
+unsere sterblichen Überreste wohl längst irgendwo —«
 
 <@pagebreak/>
 
@@ -499,7 +499,7 @@ der über beide Seiten des Blattes sich hinzog. Ich ahnte,
 daß dieser Strich mit einer bestimmten Lösung getränkt war,
 die das schnelle Weiterfressen des Feuers begünstigt. Diese
 Löschunterlage glich also jenen Scherzartikeln, bei denen etwas
-Aehnliches sich abspielt und zum Beispiel der Feuerstrich
+Ähnliches sich abspielt und zum Beispiel der Feuerstrich
 schließlich eine auf Pappe gezeichnete Kanone zur Entladung
 bringt. Hier handelt es sich fraglos um alles andere nur nicht
 um Scherz. Warum wohl? Was denkst Du?«
@@ -643,7 +643,7 @@ soeben ein Ei köpfte.
 
 Miß Doogston — die Mörderin! — Mörderin? Unsinn!
 Harst hatte ganz sicher niemals ernstlich gegen sie Verdacht
-gehegt. Das war jetzt meine feste Ueberzeugung. Leider hat
+gehegt. Das war jetzt meine feste Überzeugung. Leider hat
 er ja die vermaledeite Angewohnheit, mich niemals ganz in
 seine Schachzüge einzuweihen. Auch hier hatte er fraglos
 wieder mit mir so etwas Verstecken gespielt. —
@@ -669,7 +669,7 @@ Nach einiger Zeit stellte er sich mir vor.
 mich gleichfalls halb und nannte meinen Namen — meinen
 richtigen Namen! Wir reisten ja diesmal nicht inkognito.
 
-Albström spielte sehr schlecht den Ueberraschten. »Schraut?
+Albström spielte sehr schlecht den Überraschten. »Schraut?
 Schraut? — Sie sind Ihrem Englisch nach Deutscher. Etwa
 der Privatsekretär des vielgenannten Amateur-Detektivs
 Harald Harst?«
@@ -738,7 +738,7 @@ Vorsichtsmaßregeln getroffen. Jeder Fremde wird
 mißtrauisch von einigen fünfzig Priesteraugen beobachtet.
 Trotzdem ist, wie mir ein Fremdenführer erzählte, schon zweimal
 der Versuch gemacht worden, den Schrein zu rauben. —
-Ueber den Tempel und den heiligen Teich ließen sich Seiten
+Über den Tempel und den heiligen Teich ließen sich Seiten
 schreiben. Jedenfalls machte das Heiligtum auf mich einen
 Eindruck wie bisher nichts in dem Zauberlande Indien. Peterskirche
 in Rom, der Dom in Berlin, — was bedeuten diese
@@ -778,7 +778,7 @@ dessen Privatsekretär und nicht befugt, ohne Harsts Einwilligung
 Aufschluß über Dinge zu geben, die dessen Person
 betrafen.
 
-Albström schwieg eine Weile. Ueber unseren Köpfen hing
+Albström schwieg eine Weile. Über unseren Köpfen hing
 eine elektrische Lampe in Form einer chinesischen Laterne,
 <@pagebreak/>
 deren farbiges Licht kaum bis zum Holzgeländer der Veranda
@@ -1033,7 +1033,7 @@ Harst auch ohne Scheu.
 »Durchaus verständlich, daß Du nichts begreifst,« meinte
 er. Ich fiel ihm ins Wort. »Nur daß Warbatty die kleinere
 der beiden Mohammedanerinnen gewesen sein dürfte, muß ich
-nach der einen Aeußerung Blunks annehmen.«
+nach der einen Äußerung Blunks annehmen.«
 
 »Ganz recht. Es war unser alter Freund Cecil!« Er
 suchte nach seinem Zigarettenetui, bot mir eine Zigarette an
@@ -1073,9 +1073,9 @@ gleichzeitig in seiner Eigenschaft als Polizeibeamter der Bahn.
 <@pagebreak/>
 Tischchen am Fenster mit tief herabgezogenem Schleier. —
 »Die Dame ist eine Verwandte von mir,« erklärte der Ingenieur.
-— Das war jedenfalls eine große Ueberraschung
+— Das war jedenfalls eine große Überraschung
 für mich, dieses Auftauchen der anscheinend Flüchtigen bei
-Albström, mein lieber Schraut, — eine nie geahnte Ueberraschung.
+Albström, mein lieber Schraut, — eine nie geahnte Überraschung.
 Ich sah die Dinge plötzlich mit ganz anderen Augen
 an — ganz anderen —«
 
@@ -1396,7 +1396,7 @@ verfolgen werde. Auch ich halte ihn für geisteskrank —«
 Frau Doogston griff nach Harsts Hand.
 
 »Master Harst,« rief sie tief bewegt, »— wirklich, auch
-Sie sind der Ueberzeugung, daß —« Sie begann zu weinen.
+Sie sind der Überzeugung, daß —« Sie begann zu weinen.
 
 Harst schob ihr einen Sessel hin. Sie ließ sich kraftlos
 hineinfallen.

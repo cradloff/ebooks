@@ -6,7 +6,7 @@
 
 »Die Sache ist folgende, Mr. Harst,« begann Doktor Lionel
 Gramsy, der Residenturarzt in der Hauptstadt des zentralindischen
-Vasallenstaates Bhopal. »Mir liegt die Ueberwachung
+Vasallenstaates Bhopal. »Mir liegt die Überwachung
 der behördlich angeordneten Vorbeugungsmaßregeln
 gegen Seuchengefahr ob. Vor einem halben Jahre mußte
 ich das Eingeborenenviertel unserer Residenzstadt daraufhin
@@ -69,7 +69,7 @@ Freude aus, mich in Verwirrung gebracht zu haben.
 Plötzlich sprang aus den Mauertrümmern eines eingestürzten
 Turmes ein Panther heraus, duckte sich vor mir zum Sprunge
 zusammen und zwang mich, schnell hinter dem Buckligen
-Deckung zu nehmen. Tumaru riß seinen mantelartigen Ueberwurf
+Deckung zu nehmen. Tumaru riß seinen mantelartigen Überwurf
 von den Schultern, faßte ihn so, daß er sich im
 Schwunge glatt ausbreitete und deckte ihn über die vor
 Wut geifernde Bestie, so daß sie völlig darunter verschwand.
@@ -129,7 +129,7 @@ ja bereits dieses Geheimnis, das Ihrer Ansicht nach mit den
 beiden Brahmanen verknüpft ist, kurz an und nannten auch
 den Namen der Schloßruine. Sie luden uns zu heute ein
 und wollten uns dann das Nähere erzählen. Ich hatte
-also Zeit, mich schon vorher so etwas über die Oertlichkeit
+also Zeit, mich schon vorher so etwas über die Örtlichkeit
 und die beiden geheimnisvollen Inder zu unterrichten.
 Als indischer Bettler verkleidet besuchte ich den Park des
 Schlosses und habe mich an dem lieblichen Gesange der
@@ -141,7 +141,7 @@ Gramsy lachte.
 
 »Allerdings — einfacher konnte die Erklärung nicht sein!
 Ja — sie war es, die sich nun aufrichtete, als ich den
-Ueberwurf des Buckligen weggezogen hatte. Sie schaute mich,
+Überwurf des Buckligen weggezogen hatte. Sie schaute mich,
 der wie versteinert dastand, erst an und ging dann in den
 Park hinein. Ich folgte ihr mit den Blicken und gewahrte
 <@pagebreak/>
@@ -294,7 +294,7 @@ Kippwrays —«
 
 »Ja ein sehr gebildeter junger Mensch.«
 
-»Und dem Kommissar ist nie etwas Aehnliches wie Ihnen
+»Und dem Kommissar ist nie etwas Ähnliches wie Ihnen
 begegnet?«
 
 »Nie. Wenigstens muß ich das annehmen. Sonst hätte
@@ -476,7 +476,7 @@ Schlammziegeln. Es sah wie ein Stall aus.
 
 Der »Brahma-Anrufer« schritt an dem Bauwerk entlang,
 öffnete dann eine Holztür und brachte uns, nachdem
-er eine Oellaterne angezündet hatte, in einen Raum, in
+er eine Öllaterne angezündet hatte, in einen Raum, in
 dem linker Hand auf Maisstroh zwei Ziegen lagen, während
 rechts neben der Tür zwei Schafe in einem Verschlage uns
 verschlafen anglotzten. Neben diesem Verschlage bemerkte
@@ -507,7 +507,7 @@ Behausung war aus roh behauenen, dünnen Bäumen hergestellt.
 In der Mitte hatte sie ein viereckiges Loch. Es
 gab da also fraglos noch einen Heuboden.
 
-Harald holte die Leiter und lehnte sie in diese Oeffnung
+Harald holte die Leiter und lehnte sie in diese Öffnung
 hinein.
 
 Der Alte machte uns klar, wir sollten hinaufklettern.
@@ -725,7 +725,7 @@ Du auf den Zettel geschrieben hast, den Du Frau Gramsy
 gabst.«
 
 »Gut, mein Alter, — eigentlich sollte das ja für Dich
-eine Ueberraschung werden. Also ich habe geschrieben:
+eine Überraschung werden. Also ich habe geschrieben:
 
 > »Du hast etwas gestohlen, was Dir nichts nützt. Sei
 vorsichtig.«
@@ -901,7 +901,7 @@ Für ein gutes Trinkgeld drücken auch indische Bahnbeamte
 beide Augen zu. Wir wurden in einen nur zur Hälfte
 <@pagebreak/>
 mit landwirtschaftlichen Maschinen beladenen offenen Wagen
-eingeschmuggelt, wo wir unter die Oelplane krochen, mit
+eingeschmuggelt, wo wir unter die Ölplane krochen, mit
 der eine kleine Lokomobile bedeckt war. Wir machten es
 uns hier nach Möglichkeit bequem, benutzten die Bastkörbe
 als Kopfkissen und schliefen auch bald ein. Gewiß, ich hätte
@@ -927,7 +927,7 @@ auf Eindrücke der Vergangenheit oder der Gegenwart,
 mögen dies nun innere oder äußere Eindrücke sein.
 
 Gesehen hatte ich wenig, bevor mir die Sinne schwanden.
-Nur daß die Oelplane von einer Seite aufgehoben war
+Nur daß die Ölplane von einer Seite aufgehoben war
 und daß ein bartloses, braunes Gesicht mit hellem Turban
 sich dicht über mir befand.
 
@@ -1080,7 +1080,7 @@ allein dieser Spion, der in Lord Scheldons Park verschwand,
 gewesen sein muß. Von da an werden die Halunken uns
 nicht aus den Augen gelassen haben. Ich habe ja bereits
 zugegeben, daß ich mich hier in Bhopal völlig sicher fühlte.
-Ich ahnte nichts von dieser steten Ueberwachung durch die
+Ich ahnte nichts von dieser steten Überwachung durch die
 beiden. Sonst wäre uns die Geschichte mit dem alten Yogi
 nicht passiert. Und ebenso habe ich mich auch bei Sampson
 etwas lässig gezeigt. Halt, da sind wir ja schon. Dies
@@ -1424,7 +1424,7 @@ Mirar ganz entsetzt entgegengeeilt. Im Grase lagen die
 beiden Brahmanen — starr, leblos. Sie waren plötzlich umgesunken
 und sehr bald verschieden. — Nachher wurde
 festgestellt, daß sie sich jeder eine vergiftete Nadel, die sie
-in den langen Aermeln ihres Gewandes unten am Handgelenk
+in den langen Ärmeln ihres Gewandes unten am Handgelenk
 bei sich geführt haben mußten und die sie hatten herausziehen
 können, in die Pulsader gebohrt hatten. — Für
 Goda war dies die beste Lösung. Sie hat nachher Drenga
