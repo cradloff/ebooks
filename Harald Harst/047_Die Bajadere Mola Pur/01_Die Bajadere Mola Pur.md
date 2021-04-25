@@ -322,7 +322,7 @@ Chotan erklärte, wir würden das Auto auf dem Schloßhofe finden.
 ja gleichzeitig auch Polizeiarzt für Mr. Lopsings Distrikt.«
 
 Daß Harald diese Komödie glänzend spielte, brauche ich nicht zu betonen. Wir
-verabschiedeten uns und verließen Zimmer. Draußen im Flur fielen sofort
+verabschiedeten uns und verließen das Zimmer. Draußen im Flur fielen sofort
 Erverlyn und Tompkinson mit Fragen über uns her. Harst winkte ab.
 
 Ein Diener holte dann unsere Staubmäntel, und wir gingen in den Hof hinaus.
@@ -418,7 +418,7 @@ nun genau weiß –«
 
 Ein langanhaltender Donner verschlang Harsts nächste Worte. Die Scheiben des
 Verandadaches klirrten. Als das Grollen nachgelassen hatte, fuhr ein heulender
-Windstoß über den Park hin. Wir vernahmen das Rauschen der Baume, das Krachen
+Windstoß über den Park hin. Wir vernahmen das Rauschen der Bäume, das Krachen
 eines abgebrochenen Astes.
 
 Dann wieder Stille.
@@ -473,7 +473,7 @@ bleiben würde.«
 
 »Das hat etwas für sich,« sagte Erverlyn bedächtig.
 
-»Hm – ich gebe das zu,« erklärte auch der kleine Reporter »Nur – die Beweise
+»Hm – ich gebe das zu,« erklärte auch der kleine Reporter. »Nur – die Beweise
 gegen die Rhani sind etwas dürftig.«
 
  
@@ -625,14 +625,14 @@ Tompkinson und ich! – Und dort die helle Masse am Boden war Doktor Chotan mit
 seinem weißseidenen Turban und der Federstutz daran. Und dort irgendwo in den
 Ecken der Veranda krochen die Dschiras umher.
 
-»Wo nur Harst bleibt, « meinte der Reporter. »Wer mag denn nur Einlaß begehrt
+»Wo nur Harst bleibt,« meinte der Reporter. »Wer mag denn nur Einlaß begehrt
 haben?«
 
 »Drüben – ein Licht!« rief Erverlyn.
 
 Ja – am andern Ufer des kleinen, etwa vierzig Meter breiten Sees irrte in der
 noch immer nachtschwarzen Finsternis wie ein heller Strich der Lichtkegel einer
-Taschenlampe bald hierhin- bald dorthin. Dann flammte eine große Laterne auf.
+Taschenlampe bald hierhin bald dorthin. Dann flammte eine große Laterne auf.
 Wir sahen mehrere Gestalten auf einem Fleck stehen. Ein einzelner Mann
 leuchtete mit einer Taschenlampe den Boden ab. Und dies war Harst.
 

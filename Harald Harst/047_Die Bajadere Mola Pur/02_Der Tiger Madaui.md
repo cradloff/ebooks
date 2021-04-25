@@ -280,7 +280,7 @@ gewarnt. Er kam schon um 6 Uhr in mein Schlafzimmer.«
 
 Harst stieg die Treppe hinan. Wir folgten.
 
-Oben im Pavillon standen ein paar Bambusstühle Wir setzten uns. Wir hatten von
+Oben im Pavillon standen ein paar Bambusstühle. Wir setzten uns. Wir hatten von
 hier eine hübsche Aussicht über den Riesenpark und auf die alte Radschaburg.
 
 Erverlyn schnitt die Spitze von einer seiner schwarzen Brasil-Zigarren ab und
@@ -348,7 +348,7 @@ daß wir den Staub Kotaranis von unseren Füßen zu schütteln gedenken –«
 
 »Halt – so kommen Sie mir nicht davon!« rief der Lord. »Woher wußten Sie oder
 ahnten Sie etwas von den heimlichen Besuchen Sarattas hier im Parke? – Das eine
-müssen Sie mir beantworten. Sonst kündige ich Ihnen die Freundschaft«.
+müssen Sie mir beantworten. Sonst kündige ich Ihnen die Freundschaft.«
 
 »Mahattmi hat mich ungewollt darauf gebracht. Er erzählte mir so verschiedenes
 über Saratta, der stets so allerlei Heimlichkeiten gehabt haben soll. Während
