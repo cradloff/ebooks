@@ -36,7 +36,7 @@ einer Klingel im Flur, so halb Kirchenglocke.«
 Er stieg die fünf Stufen der Steintreppe hinan und riß an dem neben der Tür
 angebrachten Klingelzug.
 
-Allerdings – diese Glocke war für eine Schwerhörige berechnet! Das merkt man.
+Allerdings – diese Glocke war für eine Schwerhörige berechnet! Das merkte man.
 Das Gebimmel mußte bis auf die Straße zu hören sein.
 
 Nach einer Weile wurde ein Riegel drinnen zurückgeschoben und ein Schlüssel
@@ -728,7 +728,7 @@ bescheidener Testamentsfälscher, wie heute in den Zeitungen steht. Er ist ’n
 bißchen was anderes – eben Er!«
 
 »Also das Oberhaupt Eurer Bande,« sagte Harald. »Sollst Du allein uns denn
-hinabbefördern. Jimmy? Die anderen sind wohl zu feige dazu!«
+hinabbefördern, Jimmy? Die anderen sind wohl zu feige dazu!«
 
 »Mich traf das Los!« brummte der Kneipwirt. »Verdammt – ich tu’s nicht gern.
 Aber ich muß! Ungehorsam gibt es nicht.«

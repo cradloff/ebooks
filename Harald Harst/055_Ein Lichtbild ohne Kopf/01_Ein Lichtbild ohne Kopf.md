@@ -329,7 +329,7 @@ Betäubungsmittel roch.
 »Ah – nun haben wir doch eins der Lichtbilder ohne Kopf,« murmelte er mit einem
 drohenden Lächeln. »Nun wird das Bild uns wohl so einiges verraten.«
 
-Er fühlte nach Chiplays Puls. »Sehr schwach. aber regelmäßig.«
+Er fühlte nach Chiplays Puls. »Sehr schwach, aber regelmäßig.«
 
 Wir setzten uns an den Sofatisch. Das Bild zeigte Chiplay genau in der
 Kleidung, wie er jetzt dort auf dem Diwan ruhte, – ganz genau, nur – der Kopf
@@ -540,7 +540,7 @@ anderen, der den Doppelgänger mimt.«
 »Ja – die mit dem dünnen Gummischlauch und dem Strahlloch, aus dem das
 Teufelszeug hervordringt, wenn man in der rechten Hosentasche auf die richtige
 Stelle des zugehörigen Gasbehälters drückt!« lächelte Harald überlegen. »Ja –
-dieser Apparat. der bei Chiplay die Ohnmachten genau so rasch erzeugte wie bei
+dieser Apparat, der bei Chiplay die Ohnmachten genau so rasch erzeugte wie bei
 uns! Diesen Apparat haben Sie beide jetzt also ausgetauscht, Sie und Ihr
 Genosse –«
 
@@ -1061,7 +1061,7 @@ vorsichtig, wollte den Tatbestand zu sehr verwirren.«
 
 Inspektor Wurbson zuckte die Achseln. »Alles sehr schön, Master Harst. Weshalb
 wollte Warton Chiplay aber erschießen? Denn es ist ja wohl klar, daß der
-Rotbärtige. der vor Ihnen in die Büsche floh, ein zerlegtes Gewehr bei sich
+Rotbärtige, der vor Ihnen in die Büsche floh, ein zerlegtes Gewehr bei sich
 trug, daß es also Warton war, der die beiden Schüsse abgab, – den einen, um
 Albner stumm zu machen, den anderen, um – ja – weshalb dieser Mordversuch,
 weshalb?!«
