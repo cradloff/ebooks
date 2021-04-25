@@ -63,7 +63,7 @@ wie und wann?«
 Wir standen jetzt vor der Hintertür der Bambushütte,
 vor der Tür, die in die kleine Küche führte.
 
-Ueber uns wisperten und rauschten tropische Bäume
+Über uns wisperten und rauschten tropische Bäume
 mit seltsamem Blätterschmuck; über uns turnten graugrüne
 Affen in den Zweigen, halb zahm, daher frech und anmaßend,
 schnatternd und wild erregt über die fremden
@@ -124,7 +124,7 @@ quadratisches Loch im Boden frei, ein Loch in der Felsplatte,
 auf der die Hütte stand.
 
 Haralds Taschenlampe blitzte auf. Der Lichtkegel
-tauchte in die Oeffnung ein, zeigte eine Bambusleiter und
+tauchte in die Öffnung ein, zeigte eine Bambusleiter und
 einen Schacht mit zackigen Wänden von gut acht Meter
 Tiefe.
 
@@ -228,7 +228,7 @@ Harst wandte sich halb um und meinte, während er
 den Hund im Auge behielt:
 
 »Ich werde ebenfalls den Vorsprung erklimmen. Es
-muß dahinter eine Oeffnung geben.«
+muß dahinter eine Öffnung geben.«
 
 Seine Vermutung traf zu. Es war da ein schräger
 Schacht vorhanden, der in eine Seitengrotte führte. Aber
@@ -318,7 +318,7 @@ trocknete wiederholt die Tränen und rief klagenden Tones:
 Harald machte mir ein Zeichen. Wir entfernten uns
 wieder, krochen hinter ein paar Büsche, erhoben uns und
 gingen weiter landeinwärts bis zu einem einzelnen hohen
-Baume, dessen Aeste fast bis zum Boden hinabreichten.
+Baume, dessen Äste fast bis zum Boden hinabreichten.
 
 Wir erkletterten den Baum und hatten nun Lydia
 Glarnston etwa zwanzig Meter vor uns.
@@ -523,7 +523,7 @@ wichtigere Frage verdrängt: »Was mochte die Glarnston
 Lord Edward anvertraut haben? Was trieb ihn jetzt aus
 dem Hause?« —
 
-Harald zupfte mich am Aermel.
+Harald zupfte mich am Ärmel.
 
 »Wir müssen uns dort hinter den Palmenkübeln verbergen,«
 flüsterte er. »Wenn Wolpoore das Haus verläßt,
@@ -1056,7 +1056,7 @@ Es war zwei Uhr morgens.
 <h3>Im Buddhatempel.</h3>
 
 Lord Wolpoore zog den nassen Gummimantel aus.
-Auch ich warf den Oelrock ab, den ich zu Beginn des Regens
+Auch ich warf den Ölrock ab, den ich zu Beginn des Regens
 übergestreift hatte.
 
 »Harst hat sich in den zwei Jahren, seit ich ihn zum
@@ -1177,7 +1177,7 @@ auf und meinte:
 »Bitte — auch meine Handgelenke stehen zur Verfügung!«
 
 Die Kerle hatten im Fesseln ohne Zweifel einige
-Uebung.
+Übung.
 
 Und — als wir nun wirklich wehrlos waren und als
 der lange Bursche in meiner Brieftasche, die er sehr rasch
@@ -1245,7 +1245,7 @@ der Felseninsel fortsetzte.
 
 Hier legte das Boot an einer Steinplatte an. Zu
 unserem Staunen schimmerte über der Steinplatte ein großer,
-etwa halbkreisförmiger Fleck: die erleuchtete Oeffnung
+etwa halbkreisförmiger Fleck: die erleuchtete Öffnung
 eines in das Gestein sich hineinziehenden Ganges.
 
 Man half uns auf die Steinplatte und weiter in den
@@ -1326,7 +1326,7 @@ Dann schwieg er wieder. Seine braunen Untergebenen
 (er war ja zweifellos der Anführer) drängten sich um ihn.
 In ihren Mienen las man nichts als schwere Enttäuschung.
 
-Auch Makuro schien jetzt Aehnliches zu empfinden und
+Auch Makuro schien jetzt Ähnliches zu empfinden und
 war außerordentlich unsicher und verlegen, wie er sich nun
 uns gegenüber benehmen sollte, die wir doch offenbar uns
 an Barnlay nicht vergriffen hatten, da er ja ermordet worden
@@ -1544,7 +1544,7 @@ Dann sagte Harald zu Biberston: »Bewachen Sie
 bitte die drei Erpresser, Biberston. — Wolpoore, Schraut
 — empor mit Euch!«
 
-Auch hier gab es eine breite Oeffnung, die von oben
+Auch hier gab es eine breite Öffnung, die von oben
 in eine kleine Seitenhöhle führte. Und diese Höhle war
 ein Tempel — wie auf der Insel drüben, war jedoch ein
 Hindutempel, ein dem Gotte Brahma geweihtes Heiligtum.

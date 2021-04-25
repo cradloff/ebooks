@@ -250,7 +250,7 @@ Truppen in Lucknow erklärte Harst beim Frühstück,
 er würde noch heute abreisen, nach Baroda, wo er zur Tigerjagd
 eingeladen war. — »Lieber Alter, setz’ Dich also sofort
 hin und schreibe Entschuldigungsbriefe an all die Leute, die
-mich ihren Gästen in Freiheit dressiert als Ueberdetektiv
+mich ihren Gästen in Freiheit dressiert als Überdetektiv
 vorführen wollten. Unser Zug geht um sechs Uhr nachmittags.«
 
 Er gähnte herzhaft. »Ich wünschte Warbatty wäre noch
@@ -292,7 +292,7 @@ würde sich freuen, wenn auch Haberton sein Urteil über
 Warbatty abgeben wollte. Denn mit dem, was Makkaray
 und Tompson schriftlich über Ihren Gegner geäußert haben,
 Master Harst, läßt sich ja für das Strafverfahren nichts anfangen
-— gar nichts! Alte Geschichte: zwei Aerzte — — mindestens
+— gar nichts! Alte Geschichte: zwei Ärzte — — mindestens
 drei Meinungen! Tompson sagt: Total unzurechnungsfähig,
 beginnende Gehirnerweichung und so weiter, —
 und Makkaray: Total verantwortlich für jede Kleinigkeit
@@ -392,7 +392,7 @@ Tische einen schreibenden Menschen.
 
 Harst riß den Vorhang herab. In der Lichtflut stand nun
 ein kleiner, magerer Mensch, der auf den ersten Blick entfernte
-Aehnlichkeit mit Warbatty hatte.
+Ähnlichkeit mit Warbatty hatte.
 
 »Wer sind Sie?!« donnerte Greaper den Mann an, der
 genau so wie Warbatty gefesselt war.
@@ -494,7 +494,7 @@ zu finden hoffte. —
 Ich hätte dieses Zwischenspiel unseres Kampfes gegen
 Cecil Warbatty sehr gern ganz eingehend beschrieben, da
 auch hier Harald Harsts seltene Fähigkeiten wieder im hellsten
-Lichte erstrahlten. Ich will jedenfalls noch eine Aeußerung
+Lichte erstrahlten. Ich will jedenfalls noch eine Äußerung
 Harsts hier anführen, die er mir gegenüber tat, als er von
 dem Abstecher nach Benares hochbefriedigt zurückkehrte.
 
@@ -514,7 +514,7 @@ widerspruchsvollen Eindruck zu machen, — das heißt, Greaper
 zu veranlassen, recht viel Irren- und Polizeiärzte heranzuziehen,
 die ihn beobachten sollten. — Kurz: ich habe von
 vornherein damit gerechnet, daß Warbatty mit unfreiwilliger
-Unterstützung eines dieser Aerzte zu entfliehen suchen
+Unterstützung eines dieser Ärzte zu entfliehen suchen
 würde. Und der Barbier Middleton, diese gescheiterte Existenz
 mit der Vergangenheit des Studenten der Medizin, hat
 ja auch zugegeben, daß Warbatty den Schwertbrüdern verschiedene
@@ -684,7 +684,7 @@ Europäern nur ein Lächeln entlocken kann —«
 
 Der Hauptmann machte eine bedauernde Handbewegung.
 »Ich weiß nichts Näheres, nur das, was so an Gerüchten an
-die Oeffentlichkeit dringt. Seine Hoheit soll an Gespensterfurcht
+die Öffentlichkeit dringt. Seine Hoheit soll an Gespensterfurcht
 leiden. Es spukt in seinem Palaste —« Randall
 lachte. »Diese braunen Fürsten, die sich als die modernen
 Herren aufspielen, bleiben ja doch stets Halbwilde trotz englischer
@@ -754,7 +754,7 @@ Gedanken fallen lassen, offen als Harst gegen Warbatty vorzugehen.
 
 Wir bewohnten in einer langgestreckten Steinbaracke
 ein großes Zimmer, denn an Unterkunftsräumen war auf
-der Festung kein Ueberfluß. Nachmittags um sechs — wir
+der Festung kein Überfluß. Nachmittags um sechs — wir
 hatten gerade Mittagsruhe gehalten — erschien Randall bei
 uns und teilte Harst mit, daß der Maharadscha uns heute
 abend unauffällig empfangen würde. — Jetzt erst erfuhr ich
@@ -853,10 +853,10 @@ zwei Tage. Und stets war ich allein, wenn Wrihgton —«
 Ihnen?«
 
 »Ja — leider! — Ich wurde dadurch sehr bald etwas
-nervös und ließ mir schließlich, als auch die schärfste Ueberwachung
+nervös und ließ mir schließlich, als auch die schärfste Überwachung
 das Gespenst nicht verscheuchte, einen berühmten
 Londoner Detektiv kommen. Aber — er richtete nichts aus.
-Er kehrte wohl mit der Ueberzeugung nach London zurück,
+Er kehrte wohl mit der Überzeugung nach London zurück,
 daß ich an Gespensterfurcht leide und nur Halluzinationen
 hätte. Das ist jedoch Unsinn. Ich bin ein sehr gesunder
 Mensch, treibe viel Sport, schieße vorzüglich. Richtig — ich

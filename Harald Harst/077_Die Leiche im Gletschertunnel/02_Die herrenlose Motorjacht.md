@@ -7,7 +7,7 @@
 
 Asbörn Prangs Bericht über die Spuren, die er unten
 in der Schlucht neben der Autostraße gefunden hatte,
-bewies zur Genüge, daß die uralte Tanne, in deren Aeste
+bewies zur Genüge, daß die uralte Tanne, in deren Äste
 Ottmar Orstra gestürzt war, dem Verbrecher das Leben gerettet
 und ihm das Entweichen ermöglicht hatte.
 
@@ -98,7 +98,7 @@ die Keckheit gehabt haben und hier abgestiegen sind. Zuzutrauen
 ist ihnen das schon.« —
 
 Ich muß hier einfügen, daß das Hotel Dahlen eigene
-Karbidbeleuchtung hat. Ueber unserem Platze brannten
+Karbidbeleuchtung hat. Über unserem Platze brannten
 drei Flammen einer Krone.
 
 Harald hatte kaum das letzte Wort ausgesprochen, als
@@ -550,7 +550,7 @@ fuhren vor dem Polizeigebäude vor. Harald wollte sich
 erkundigen, ob die Polizei etwas über den Verbleib der
 Miramare festgestellt hätte.
 
-Zu unserer Ueberraschung hörten wir, daß die Jacht
+Zu unserer Überraschung hörten wir, daß die Jacht
 im Hafen liege und daß die beiden Männer, die sie gewaltsam
 entführt hatten, schon früher von Bord gegangen und
 verschwunden seien.
@@ -561,7 +561,7 @@ Der alte Sönnquist, der Maschinist Gromsö und der
 Koch Brown waren noch auf Deck und würfelten.
 
 Sönnquists Freude war rührend. Aber sehr bald
-redete er sich bei der Schilderung des Ueberfalles auf die
+redete er sich bei der Schilderung des Überfalles auf die
 Miramare in Wut.
 
 »Ich hatte die Wache an Deck von acht bis zwölf übernommen,«
@@ -741,7 +741,7 @@ stellt meiner Ansicht nach einen Wink für Orstra-Delboste dar,
 wo er seine fünf Helfershelfer treffen kann. Wir wissen
 ja, daß Orstra schon in Göteborg das Haupt einer Verbrecherbande
 war. Die fünf Leute gehören fraglos zu dieser
-Bande. Oestlich von Kragerö sehen wir hier auf der
+Bande. Östlich von Kragerö sehen wir hier auf der
 Karte eine Unmenge kleinerer und größerer Inseln dicht an
 der Küste, alles Felseneilande, nur zum geringsten Teil bewohnt,
 weil unfruchtbar. Das »In« wird daher »Inseln«
@@ -1098,7 +1098,7 @@ fuhr weiter.
 Die Brise frischte immer mehr auf. Wir segelten vor
 dem Winde östlichen Kurs, Richtung Christiania. Um acht
 Uhr signalisierten wir einen Fischkutter heran, der einen
-Motor hatte. Ueber den Schlepplohn waren wir mit den
+Motor hatte. Über den Schlepplohn waren wir mit den
 Leuten bald einig. Der Kutter spannte sich vor die Kattegatt,
 und wir brauchten nicht mehr jede Minute zu fürchten,
 daß die notdürftig geflickten Masten samt den Segeln über

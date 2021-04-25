@@ -345,7 +345,7 @@ ganz anderes.
 Wir verabschiedeten uns darauf sehr bald. Harald
 sagte noch: »Wir haben ja drei Tage Zeit, Mr. Grosby,
 diese Dinge durchzusprechen, nein, sogar vier Tage, so lange
-dauert ja die Ueberfahrt bis Bombay. Inzwischen werde
+dauert ja die Überfahrt bis Bombay. Inzwischen werde
 ich wohl das Silbenkreuz entziffert haben. Vielleicht, Mr.
 Grosby,« — und hier hob Harald die Stimme etwas —
 »haben Sie sich dann auch überlegt, ob es nicht richtiger
@@ -532,7 +532,7 @@ abschreiben.«
 Ich tat es. Harst verbrannte dann die Stücke seiner
 Niederschrift, gähnte und meinte:
 
-»Ueber die Lösung und ihre Bedeutung wollen wir
+»Über die Lösung und ihre Bedeutung wollen wir
 uns morgen unterhalten. Jetzt bin ich zu müde.«
 
 Ich legte, genau wie Harald es gewünscht hatte, das
@@ -762,7 +762,7 @@ und betrat hinter Harst die Wohnkabine.
 
 Er stieg auf den Schreibtisch.
 
-»Uebrigens, mein Alter, ich habe vorhin mit dem
+»Übrigens, mein Alter, ich habe vorhin mit dem
 Nachtglase ein Fahrzeug entdeckt, das Boncard aufgefischt
 haben dürfte,« sagte er, als er jetzt die Seekarte von der
 Wand entfernte.
@@ -797,11 +797,11 @@ Nichts — leer!
 und seine Blicke flogen zu dem Ventilationsgitter
 empor.
 
-Es war herabgeklappt. Und in der Oeffnung sahen
+Es war herabgeklappt. Und in der Öffnung sahen
 wir die mit hellen Seidenstrümpfen bekleideten Füße eines
 Mannes, der offenbar in dem Ventilationsrohr zusammengesunken
 war, da auch eine Hand am oberen Rande
-der Oeffnung noch sichtbar war.
+der Öffnung noch sichtbar war.
 
 »Advokat Grosby!« sagte Harald leise. »Der tote
 Grosby!«
@@ -1167,7 +1167,7 @@ Harald schlief bis gegen drei Uhr nachmittags. Dann
 aßen wir mit Baccern in der Staatskajüte und dinierten;
 dann faulenzten wir in Liegestühlen auf dem Achterdeck.
 
-Ueber uns klarer Sonnenhimmel. Dabei leichte Brise,
+Über uns klarer Sonnenhimmel. Dabei leichte Brise,
 vergnügte Matrosen, die vorn Ziehharmonika spielten.
 
 »Fein, Mr. Harst, wie?!« schmunzelte Baccern. »Ich
@@ -1175,7 +1175,7 @@ wünschte, wir blieben noch recht lange zusammen. Man
 möchte doch auch mal was erleben.«
 
 »Das werden wir schon, Kapitän,« nickte Harald.
-»Uebrigens eine Frage: sind Sie in Goa bekannt? Dort
+»Übrigens eine Frage: sind Sie in Goa bekannt? Dort
 <@pagebreak/>
 hat ja Lady Myntors Erbin zuletzt gelebt, ihre Nichte Honoria
 Myntor.«
@@ -1375,7 +1375,7 @@ Dracon erhob sich gehorsam und verließ die Kajüte.
 Harald schaute das merkwürdige Mannweib fest an.
 
 »Miß Myntor,« meinte er, »sind Sie sich auch klar darüber,
-daß Sie mit Ihrem Leben spielen?! Dieser Ueberfall
+daß Sie mit Ihrem Leben spielen?! Dieser Überfall
 ist Piraterei und wird nach dem internationalen Seerecht
 mit dem Tode bestraft. Außerdem hat Dracon seinen
 Stiefvater ermordet.«

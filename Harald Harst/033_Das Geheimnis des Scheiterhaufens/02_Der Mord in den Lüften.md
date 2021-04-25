@@ -189,7 +189,7 @@ Wandsofa und stöhnte:
 von meiner Frau eine Chiffredepesche erhalten.«
 
 Er holte ein Blatt Papier hervor. »Da — es ist die
-Uebertragung der Chiffren. Lesen Sie —«
+Übertragung der Chiffren. Lesen Sie —«
 
 Der arme Mensch tat mir aufrichtig leid. Er war der erste
 Chinese, für den ich einige Sympathie hatte. — Das Telegramm
@@ -268,7 +268,7 @@ Tawi ist in Kalkutta, nicht wahr? Wohl schon die erste Anzapfung
 mit Hilfe des verwünschten Bekenntnisses —«
 
 Er drückte Tschong die Hand, setzte sich neben ihn. Der
-Chinese reichte ihm jetzt mit kurzer Erklärung die Uebertragung
+Chinese reichte ihm jetzt mit kurzer Erklärung die Übertragung
 der Chiffredepesche und das zweite Telegramm.
 
 Dieses hatte folgenden Wortlaut:
@@ -340,7 +340,7 @@ Art und vieles andere aufbewahrten, als Harst wieder erschien.
 »Erledigt,« rief er. »Flink nun. Der Rennwagen wartet
 schon am Kai.«
 
-»Also in aller Oeffentlichkeit fahren wir ab? Ist das nicht
+»Also in aller Öffentlichkeit fahren wir ab? Ist das nicht
 reichlich unvorsichtig?«
 
 Harst lachte. »Keine Rede! Ich habe ja den hiesigen Verbündeten
@@ -475,7 +475,7 @@ konnte kaum mehr die Augen aufhalten. Zum Glück bestätigte
 sich Harsts Verdacht nicht. Die Landkarte, die Worbster uns
 mitgegeben hatte, zeigte uns, daß wir jetzt auf viele Meilen
 völlig unbewohntes Gebiet vor uns hatten. Die Gefahr eines
-Ueberfalles oder dergleichen war vorläufig beseitigt.
+Überfalles oder dergleichen war vorläufig beseitigt.
 
 Das Auto kletterte gerade bei Dunkelwerden in Serpentinen
 zum Kamm des westlichen Küstengebirges empor. Es
@@ -632,7 +632,7 @@ behaupten!« sagte er.
 Drei junge Birmanen erstiegen dann den Baumriesen.
 Harst befahl ihnen, das Blätterdach dort zu durchsuchen, wo
 unten der Kopf gelegen hatte. Die flinken Burschen verschwanden.
-Wir hörten sie nur noch. Sie riefen einander zu; Aeste
+Wir hörten sie nur noch. Sie riefen einander zu; Äste
 und Blätter kamen herab. Zu sehen war nichts.
 
 Dann —: »Wir haben ihn!«
@@ -649,7 +649,7 @@ Sie wird Ihnen dann ja mitteilen, ob sie die Leiche nach Rangun
 überführen will.«
 
 Bloosleys Gesicht hatte im Ausdruck jetzt fraglos die
-größte Aehnlichkeit mit dem meinigen: wir sahen beide gleich
+größte Ähnlichkeit mit dem meinigen: wir sahen beide gleich
 verständnislos aus!
 
 Bloosley schnappte sogar förmlich nach Luft vor maßlosem
@@ -701,9 +701,9 @@ und wir werden selbst gejagt. Ein Kesseltreiben auf
 uns fand im Tunnel hinter Palembano schon statt. Wo droht
 uns das zweite — wo?! — Jedenfalls vor Kalkutta.«
 
-»Du rechnest also bestimmt mit einem zweiten Ueberfall?«
+»Du rechnest also bestimmt mit einem zweiten Überfall?«
 
-»Ueberfall?! — Das will ich nicht behaupten. Aber mit
+»Überfall?! — Das will ich nicht behaupten. Aber mit
 irgend etwas, das uns vorläufig von Kalkutta fernhält. Dieses
 Etwas kann ja sehr verschieden sein.«
 
@@ -795,7 +795,7 @@ eine Wildnis, bestehend aus unzähligen Inseln und Inselchen,
 aus Tausenden von morastigen Wasserläufen, aus tropischen Urwäldern,
 undurchdringlichen Dschungeln und Sümpfen. Nur
 im Norden wohnen dort Leute. Im übrigen hausen dort allerlei
-angenehme Tierarten in Ueberfülle: Tiger, Leoparden,
+angenehme Tierarten in Überfülle: Tiger, Leoparden,
 Büffel, Nashörner, Krokodile, Giftschlangen und so weiter.
 Die Sunderbands sind ein Naturtierpark, wie die Welt keinen
 zweiten kennt. Jagdausübung verbietet sich dort von selbst,
@@ -867,7 +867,7 @@ etwa 80 Meter Breite. — Die beiden Inder hakten ihre Zugriemen
 in die Kette ein und die Fähre verließ die Brücke.
 
 Harst stand auf dem Vordersitz und schaute sich argwöhnisch
-um. Pennworld kniete neben dem Auto und füllte die Oelkapseln
+um. Pennworld kniete neben dem Auto und füllte die Ölkapseln
 des einen Vorderrades. Ich hatte mich halb auf die
 linke Tür gesetzt und beobachtete zwei Krokodile, die neben der
 Fähre herschwammen.
@@ -923,13 +923,13 @@ die Kerle.
 Sie gehorchten sofort.
 
 »Sahib (Herr), weshalb bedroht Du uns?« fragte der
-Aeltere harmlos.
+Ältere harmlos.
 
 Harst flüsterte Pennworld etwas zu. Der holte schnell
 aus dem Werkzeugkasten des Autos ein paar Stricke. Ich half
 ihm, den Fährleuten die Hände auf den Rücken zu binden.
 
-»Sahib,« meinte der Aeltere wieder, »ich verstehe nicht,
+»Sahib,« meinte der Ältere wieder, »ich verstehe nicht,
 weshalb Du uns wie Verbrecher behandelst. Wir sind Beamte
 der Regierung. Es ist dies eine staatliche Fähre. Wir können
 doch nichts dafür, daß die Kette gerissen ist.«
@@ -991,12 +991,12 @@ den Bauch geworfen, schnürten mir die Hände auf dem Rücken
 zusammen. Man hob mich auf, schleuderte mich in das Auto.
 Ich kollerte unter den Vordersitz. Mein Kopf schmerzte entsetzlich.
 Immer wieder sprühten Funken vor meinen Augen auf,
-würgte mir die Uebelkeit im Halse. Trotzdem richtete ich mich
+würgte mir die Übelkeit im Halse. Trotzdem richtete ich mich
 auf. Ich wollte sehen, was aus Harst und Pennworld geworden
 war.
 
 Die Scheinwerfer waren ausgelöscht. Eine dicke Wolkenwand
-hatte den Mond verschluckt. Ueber dem Flusse lag jetzt
+hatte den Mond verschluckt. Über dem Flusse lag jetzt
 das Dunkel der Nacht. Nur undeutlich erkannte ich, zumal
 das Funkensprühen in meinen Augen nicht aufhören wollte,
 die Fähre und die Leute darauf.
@@ -1092,7 +1092,7 @@ diese Schurkerei gut bezahlt oder sollt Ihr die Bezahlung erst
 nachträglich erhalten? Wenn das letztere zutrifft, werdet Ihr
 das Geld nie sehen.«
 
-Der Chinese hatte zu Harsts Aeußerungen ein sehr verblüfftes
+Der Chinese hatte zu Harsts Äußerungen ein sehr verblüfftes
 Gesicht gemacht. Mutter Natur hatte ihn nicht gerade
 mit hervorragenden Geistesgaben ausgestattet. Das zeigte sich
 jetzt, da er zögernd erwiderte:
@@ -1407,7 +1407,7 @@ der Detektivinspektor Palwson.«
 »Jedenfalls: wir kommen zu spät!« meinte ich seufzend.
 »Himmel — eine Million!«
 
-»Abwarten, mein Alter. — Uebrigens: auf der Fähre
+»Abwarten, mein Alter. — Übrigens: auf der Fähre
 habe ich mich blamiert. Ich glaubte, der Gesang, den der eine
 Fährmann anstimmte, sei ein Signal für das Boot, uns nicht
 sofort zu überfallen. — Dies war ein Irrtum von mir, wie

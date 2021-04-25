@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">d6c4a982-79ef-11eb-98cf-571e106df7ac</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Bajadere Mola Pur</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">47</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Bajadere Mola Pur.
+
+Das Auftreten der berühmten Bajadere Mola Pur mit ihrer Tänzerinnenschar war zweifellos der Glanzpunkt des Festes, das der Radscha Gharo Mir Tossar von Kotarani aus Anlaß seiner Begnadigung wegen fahrlässiger Tötung seinen Freunden und Bekannten gab.
+
+Der Riesensaal im Erdgeschoß der alten Radschaburg, eigentlich eine Säulenhalle von ungeheuren Abmessungen, war durch eine verschwenderische Fülle von elektrischen Lampen aller Art in strahlende Helle getaucht.
+
+Den Saal füllten etwa 4000 Personen. Alle Stände, alle Berufe des kleinen Fürstentums waren vertreten bis hinab zum Elefantenwäscher.
+
+An der einen Schmalseite war eine Bühne erbaut, auf der die von Mola Pur eigens für dieses Fest vorbereitete Pantomime zur Aufführung gelangen sollte.
+
+Der Tiger Madaui.
+
+»Madaui, schmoß wa (leg’ Dich!)«, sagte der Oberwärter des Raubtierhauses zu dem prachtvollen Königstiger, der in dem großen Käfig bis dahin ruhelos auf und abgewandert war.
+
+Und die gelbe Riesenkatze gehorchte.
+
+Madaui, das Prachtexemplar, der schönste unter den acht Tigern des Radschas von Kotarani, schaute uns drei Europäer, die wir dicht vor dem Gitter standen, mit so deutlicher Geringschätzung an, daß Bir Mossar, der Oberwärter, wie entschuldigend sagte:
+
+»Madaui ist ganz sicher ein hogri Goradma –« –
+
+Dieses »hogri Goradma« muß ich näher erklären. Die Hindu-Religion, der Brahmanismus, gipfelt in dem Glauben an die Seelenwanderung. Je nach den Verdiensten hier auf Erden fährt die Seele des Hindu in ein Tier oder in ein soeben geborenes Kind. Bevor sie in »den Himmel Brahmas« eingeht, muß sie vielleicht mehrfach solche »Läuterungsprozesse« durchmachen. Wenn ein Hindu nun von einem Tiere sagt, es sei ein hogri Goradma (was sich etwa mit »hochstehender Besessener« übersetzen läßt), dann meint er damit, daß in diesem Tiere die Seele irgend eines verstorbenen Fürsten oder hohen Würdenträgers wohne.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (047) Die Bajadere Mola Pur.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

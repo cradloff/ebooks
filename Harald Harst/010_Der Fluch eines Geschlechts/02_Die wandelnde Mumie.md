@@ -4,7 +4,7 @@ Die wandelnde Mumie.
 
 <h3>1. Kapitel.</h3>
 
-König Eneochar von Aegypten.
+König Eneochar von Ägypten.
 ----------------------------
 
 Wir saßen gegen elf Uhr vormittags in Harsts vornehm
@@ -28,7 +28,7 @@ vor Verfolgern. Sie wohnt in einem westlich gelegenen Vorort,
 hat erst vor kurzem ihre Wohnung verlassen — vor vielleicht
 einer Viertelstunde, hat nicht gleich ein Auto gefunden
 und will meinen Rat oder meine Hilfe erbitten. — Ah — da
-läutet es schon. Oeffnen Sie, Schraut«
+läutet es schon. Öffnen Sie, Schraut«
 
 <@pagebreak/>
 Ich führte die Dame hinein. Harst bat, sie möchte im
@@ -285,7 +285,7 @@ großen Gartens, der von ähnlichen Gärten umgrenzt war.
 Karl der Diener, ein älterer, würdiger Mann, öffnete uns.
 Harst nannte seinen Namen und zeigte den Zettel als Legitimation,
 auf den Hildegard auf seinen Wunsch mit Tinte geschrieben
-hatte: »Ueberall hinführen — Hildegard!«
+hatte: »Überall hinführen — Hildegard!«
 
 Karl wußte, daß seine junge Herrin bei uns gewesen.
 Er war sehr höflich und entgegenkommend ohne jedoch auch
@@ -324,7 +324,7 @@ Decke waren gleichfalls mit Eisenplatteneinlagen versehen.
 Die Gitter an den Fenstern wieder waren ziemlich eng und von
 einer Stärke, die für Löwenkäfige genügt hätte. Kurz —
 der Geheimrat hatte seine Schätze — man denke noch an die
-Alarmglocken, die bei unbefugtem Oeffnen einer Tür sofort
+Alarmglocken, die bei unbefugtem Öffnen einer Tür sofort
 anschlugen — so vorzüglich geschützt, daß hier »eine
 Einbruchsdiebstahlversicherung wirklich unnötig ist,« wie Harst
 lächelnd sagte.
@@ -378,7 +378,7 @@ war ein Ungar gewesen, der zugegeben hatte, gewerbsmäßig
 die Katakomben der ägyptischen Ruinenstädte nach Mumien
 zu durchsuchen und die Mumien dann heimlich nach Europa
 oder Amerika zu schaffen. Die Ausfuhr von Mumien ist ja
-seit Jahren in Aegypten streng verboten. Der Geheimrat
+seit Jahren in Ägypten streng verboten. Der Geheimrat
 hatte den Mann daher auch nicht weiter nach Namen und
 Heimat gefragt. Er war froh gewesen, dieses Prachtexemplar
 seinen Sammlungen einfügen zu können. —
@@ -690,7 +690,7 @@ hervor. — »Oh — der geht’s gut, Herr Harst! — Nicht
 wahr — Sie möchten zu gern wissen, was wir vorhaben. Nur
 Geduld! Noch ein paar Tage, und Sie werden mehr davon
 hören, als Ihnen lieb und Ihrem Ruf als genialer Detektiv
-dienlich ist. Ueberhaupt: ich hätte Sie für schlauer gehalten.
+dienlich ist. Überhaupt: ich hätte Sie für schlauer gehalten.
 <@pagebreak/>
 Fräulein Burmeester wird Ihnen doch fraglos heute vormittag
 auch erzählt haben, daß sie ständig überwacht wird. Wie
@@ -883,7 +883,7 @@ war nämlich einer der beiden die uns mit Revolvern
 bedrohten, er hatte nur schnell eine Seidenmaske vorgebunden.
 Weiter auch, weil diese Bande mit recht kostspieligen
 Mitteln arbeitet: Auto, gemietetes Haus, — und weil
-schließlich die stete Ueberwachung Hildegards beweist, daß die
+schließlich die stete Überwachung Hildegards beweist, daß die
 Bande fürchtete, das Fräulein könnte sich an die Polizei
 wenden, nachdem sie den Mumienkönig zum ersten Male am
 Fenster gesehen hatte. Von dieser steten Beobachtung merkte
@@ -891,7 +891,7 @@ Hildegard ja erst vor einigen Tagen etwas. Vorher werden
 die Leute sie nicht für nötig gehalten haben. Dann aber hat
 der Mumiendarsteller seinen Verbündeten Nachricht gegeben,
 daß er leider sich hat blicken lassen, und nunmehr setzt die
-Ueberwachung ein.«
+Überwachung ein.«
 
 »Nachricht gegeben?« warf ich zweifelnd ein. »Der Mann
 kann ja doch nicht heraus, sagten Sie vorhin, Herr Harst!«
@@ -958,7 +958,7 @@ dicht über mir. Vor meinen Augen sprühten bereits Funken.
 Ich schickte einen letzten hilfesuchenden Blick nach der Leiter
 hin und sah eine Gestalt blitzschnell daran herabrutschen,
 fühlte, daß die würgende Hand losließ, hörte einen dumpfen
-Schlag, dann ein Aechzen und nun Harsts Stimme:
+Schlag, dann ein Ächzen und nun Harsts Stimme:
 
 »Hier ist starker, geölter Bindfaden, Schraut! Fesseln
 Sie den Kerl. Der andere liegt oben —«
@@ -1188,7 +1188,7 @@ Schlüsselloches genommen hatten. — Und dann die Depesche,
 die sie an Burmeester sandten. Welche unerklärliche Frechheit,
 den Namen der Tochter als den der Absenderin darunter
 zu setzen. — Ach — ich denke, wir werden heute noch recht
-große Ueberraschungen erleben.«
+große Überraschungen erleben.«
 
 Endlich war der Abend da. Kurz vor neun langten wir
 in der Villa an. Hildegard empfing uns. Der Diener war
@@ -1203,7 +1203,7 @@ Sie mir eine Frage: Wie haben Sie in Pyrmont die
 Bekanntschaft Bela Matsareks gemacht? Zufällig oder hat
 er sich an Sie herangedrängt? — Ich nehme das Letztere an.«
 
-Hildegard war leichenblaß geworden. Ueber ihre Gestalt
+Hildegard war leichenblaß geworden. Über ihre Gestalt
 lief ein Zittern hin. Mit weiten Augen stierte sie Harst ganz
 entgeistert an, stammelte nun:
 
@@ -1332,7 +1332,7 @@ Die Mumie liegt bekanntlich auf einem dünnen Brett, auf
 dem sie durch Bänder befestigt ist. Es konnte Matsarek nicht
 schwer fallen, dieses Brett an einer Seite von unten her zu
 lüften und dann erst die Glasscheibe zu entfernen, wenn er
-hinauswollte. Aehnlich machte er’s, wenn er wieder in sein
+hinauswollte. Ähnlich machte er’s, wenn er wieder in sein
 enges Versteck zurückwollte. Zu bewundern ist die Engelsgeduld,
 mit der er darin aushielt. — Damit nun nicht Spuren
 in der Staubschicht der Glasplatte, die er doch an den

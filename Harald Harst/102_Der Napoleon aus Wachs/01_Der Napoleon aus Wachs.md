@@ -399,7 +399,7 @@ das Schmerzenskind der biederen Bewohner des Felseneilandes,
 ein Trinker, Raufbold und Gelegenheitsdieb. Ihm
 war es schon zuzutrauen, daß er sich von Robba hatte bestechen
 lassen und ihm fortgeholfen hatte. Schomp war
-eine Stunde nach dem Ueberfall auf uns mit seinem Kutter
+eine Stunde nach dem Überfall auf uns mit seinem Kutter
 in See gegangen. Es war beobachtet worden, daß er die
 Insel umrundet und an der Westküste für kurze Zeit angelegt
 hatte.
@@ -680,7 +680,7 @@ Hanna, nix andaun!«
 »Keine Sorge! Wir tun ihr nichts an. Wir tun nur
 unsere Pflicht.« —
 
-Wir saßen im Oelzeug neben Kraschan am Steuer,
+Wir saßen im Ölzeug neben Kraschan am Steuer,
 Blechnäpfe mit Grog in den regenfeuchten Händen...
 
 Der Kutter stampfte schwer. Die Laternen, grün und
@@ -820,7 +820,7 @@ Das braune Großsegel preßte mich in die Tiefe...
 Und doch die Geistesgegenwart, zu tauchen, und das
 Glück, freizukommen...
 
-Herunter mit dem Gummimantel, dem Oelrock...
+Herunter mit dem Gummimantel, dem Ölrock...
 
 Wasser getreten... Wasser geschluckt...
 
@@ -1172,7 +1172,7 @@ Todes... Das brachte diese Julinacht...
 
 Damaschkes Laube, ein Stück Bau-Poesie eines Naturfreudigen,
 eines Menschen, der sich keine Zigarre, keinen
-Schluck Bier gönnt, nur um das Geld für den Oelfarbenanstrich
+Schluck Bier gönnt, nur um das Geld für den Ölfarbenanstrich
 seines Laubenhäuschens zusammenzusparen. — Es
 gibt nicht viele von Damaschkes Art im heutigen Deutschland.
 Wir haben diesen Mann später genauer kennen und
@@ -1361,7 +1361,7 @@ Dieses leise Lachen war und ist vielleicht das Beste, was
 Harst je geleistet hat.
 
 Ein Lachen, das so viel Sicherheitsgefühl, so viel verstecktes
-Drohen, so viel triumphierende Ueberlegenheit ausdrückte
+Drohen, so viel triumphierende Überlegenheit ausdrückte
 — und doch nur geheuchelt war, — das, das soll man
 Harald Harst in einer solchen Lage nachmachen, ein Lachen
 am Rande des Todes — solch ein Lachen!
@@ -1426,6 +1426,6 @@ So endete der erste Teil des wächsernen Napoleon.
 Was Graf Alexander Ronnow uns mitteilte — als
 Ergänzung von Haralds Angaben, — wie Harald den Kern
 des Geheimnisses der Holzkiste erraten hatte, all das bildet
-die Ueberleitung zu der... Drehorgel des Bettlers...
+die Überleitung zu der... Drehorgel des Bettlers...
 
 

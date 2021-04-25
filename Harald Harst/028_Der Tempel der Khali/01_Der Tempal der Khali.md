@@ -316,7 +316,7 @@ Molgedey wird selbst seinen Damen nichts davon erzählen.
 Nicht wahr?«
 
 »Nein — bestimmt nicht!« versicherte Molgedey eifrig.
-»Weiber können nie rechten Mund halten. — Ueber unsere
+»Weiber können nie rechten Mund halten. — Über unsere
 Angelegenheit reden wir dann wohl später nochmals, Herr
 Harst. Jetzt wollen Sie doch zu Oberst Dardogne hinauf.«
 
@@ -571,7 +571,7 @@ zahlreichen Schlupfwinkel geflüchtet haben, die die Ruinenstadt
 des alten Dehli so zahlreich bietet. Der Detektiv liegt
 jetzt im Krankenhause und hat angegeben, daß die Wegelagerer
 fünf maskierte Eingeborene waren. Wir werden in
-der Abendausgabe über diesen frechen Ueberfall noch genauer
+der Abendausgabe über diesen frechen Überfall noch genauer
 berichten.
 
 <@pagebreak/>
@@ -710,7 +710,7 @@ Ihrer interessanten Gesellschaft das alte Dehli zu durchstreifen.«
 Dasy! Diese dunkelblonde Amerikanerin war damit für
 mich abermals der Gegenstand argwöhnischer Gedanken geworden.
 Ich musterte sie erneut daraufhin, ob sie wohl schon
-in ihrem Aeußeren irgend etwas von einer fragwürdigen Persönlichkeit
+in ihrem Äußeren irgend etwas von einer fragwürdigen Persönlichkeit
 an sich hätte. Aber — sie erschien mir wieder nur
 leicht befangen, etwas unsicher in ihrem ganzen Sichgeben
 und auch fast zu ernst und melancholisch für ihre vielleicht 22
@@ -875,7 +875,7 @@ zwischen die Zähne. Er hatte das Bewußtsein nicht verloren,
 schaute Harst und mich jetzt nur durchdringend an, als wir ihn
 aufrichteten und auf die Füße stellten.
 
-Harst schob ihm den linken Aermel hoch. Ich beugte mich
+Harst schob ihm den linken Ärmel hoch. Ich beugte mich
 herab. Was ich sah, genügte, mir manches klarzumachen: auf
 der Innenseite des Ellbogengelenks hatte der Inder eine Tätowierung
 in Form eines hockenden dreiköpfigen Götzen!
@@ -954,7 +954,7 @@ nur wenige Stufen. Harst hatte an der linken Wand sehr bald
 einen verrosteten eisernen Handgriff entdeckt. Als er daran
 zog, schloß die Falltür sich.
 
-Die Treppe endete vor der übermannshohen Oeffnung eines
+Die Treppe endete vor der übermannshohen Öffnung eines
 unterirdischen Ganges, der aus dem Fels ausgehauen war.
 Wie so häufig in Indien, gab es also auch hier dicht unter der
 fruchtbaren Erde starke Felsschichten, von denen man auf der
@@ -1088,7 +1088,7 @@ Inder befohlen, er solle uns beide allein hier hinabsteigen
 lassen, damit Sie als lebendes Götzenbild auf uns desto eindringlicher
 wirkten; wahrscheinlich wollten Sie uns ganz
 unvermutet ansprechen und so den Triumph auskosten, Harald
-Harst einmal durch eine besondere Art Ueberraschung
+Harst einmal durch eine besondere Art Überraschung
 verblüfft zu haben. Sie irren sich, Mistreß. Dieser Effekt ist
 mißglückt. Ihr Vertrauter liegt gefesselt oben in der Ruinenstadt,
 und die Herren dieses Tempels sind jetzt wir, mein
@@ -1338,7 +1338,7 @@ Wir nahmen sehr bald an der kleinen Tafel Platz. Einer
 der indischen Diener Dardognes trug das Vorgericht auf,
 eine Fischpastete. Der Oberst füllte die Gläser mit einem
 scharf duftenden Wein, der oben an der Grenze Nepals wuchs.
-Ueber dem Tische brannte eine elektrische Lampe mit einer
+Über dem Tische brannte eine elektrische Lampe mit einer
 Glocke aus farbigen Steinen. Alles war so recht behaglich
 und gemütlich und ganz auf einen zwanglos\-intimen Ton gestimmt.
 

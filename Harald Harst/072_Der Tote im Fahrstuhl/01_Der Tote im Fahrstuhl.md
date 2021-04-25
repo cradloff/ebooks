@@ -472,7 +472,7 @@ und zwischenein auch das Geschmetter eines Kanarienvogels.
 
 Harald klopfte gegen die Scheibe. Das Fenster wurde
 geöffnet, und der Kopf eines vertrockneten Männchens
-erschien in der Oeffnung.
+erschien in der Öffnung.
 
 »Sie wünschen?« fragte er mißtrauisch.
 
@@ -652,7 +652,7 @@ Nach einer halben Stunde, in der wir jedes Geräusch
 vermieden, konnte das Brett nach außen gedrückt und herausgehoben
 werden.
 
-Harald schob sich durch die schmale Oeffnung hindurch,
+Harald schob sich durch die schmale Öffnung hindurch,
 schaltete drüben seine Taschenlampe ein und flüsterte: »Bleiben
 Sie in Ihrer Küche, Herr Rehbein. Schraut und ich
 arbeiten nicht gern vor Zuschauern.«
@@ -771,7 +771,7 @@ war bestimmt Niendorf. Dieser trägt einen Kneifer
 ohne Fassung, ist bartlos und verschwand an demselben
 Tage, wo Toornward nachts angeheitert heimkehrte. Niendorf
 ist eine so bekannte Persönlichkeit in Berlin, daß es
-der Beschreibung seines Aeußeren in der Zeitung gar nicht
+der Beschreibung seines Äußeren in der Zeitung gar nicht
 bedurft hätte, um mir klar zu machen, daß des Barons
 »Traumgesicht« eben der verschwundene Kommerzienrat
 sein müsse. Ich sagte mir dies heute abend sofort nach der
@@ -808,12 +808,12 @@ Und er bückte sich und begann wie ein Spürhund an
 den Ritzen der rissigen Dielen zu schnuppern.
 
 Nach kaum drei Minuten erklärte er: »Hier liegt die
-Leiche! Ueberzeuge Dich!«
+Leiche! Überzeuge Dich!«
 
 Ich kniete nur widerstrebend nieder und brachte die
 Nase dicht an die Dielenritze.
 
-Mein Kopf flog wieder empor. Uebelkeit würgte mir
+Mein Kopf flog wieder empor. Übelkeit würgte mir
 in der Kehle, so stark war der Pesthauch der Verwesung,
 der unter den Dielen hervordrang.
 
@@ -852,7 +852,7 @@ das es nur eine Entschuldigung gibt: die Wissenschaft, den
 Forschertrieb! — Ich lese Zeitungen sehr genau. Ich habe
 ein vorzügliches Gedächtnis. Ich weiß, daß vor etwa drei
 Wochen jener Ignatz Strotzki hier in Berlin starb, der den
-Aerzten insofern hochinteressant war, als bei ihm das Herz
+Ärzten insofern hochinteressant war, als bei ihm das Herz
 rechts in der Brust lag. Man hatte ihm schon bei Lebzeiten
 <@pagebreak/>
 große Summen für seine Leiche geboten. Seine Frau
@@ -914,7 +914,7 @@ Mark »Vermittlergebühr« verpflichten. Es war also eine
 glatte Erpressung. Während ich noch las, müssen unter dem
 Sofa, neben dem der Sessel stand, und hinter mir je noch
 ein Mann dann mitgeholfen haben, mich zu überwältigen.
-»Müller« begann mit dem Ueberfall, indem er mir plötzlich
+»Müller« begann mit dem Überfall, indem er mir plötzlich
 aus einer Flasche Chloroform ins Gesicht goß. Gleichzeitig
 packte man meine Füße unten und meine Handgelenke
 von hinten. Ich wollte um Hilfe rufen. »Müller«
@@ -998,7 +998,7 @@ daß man Niendorf vorwirft, den Steuerfiskus
 betrogen zu haben. Das mag schon stimmen. Die anderthalb
 Millionen, die Niendorf als Händler Willberg zwischen
 den Holzwänden verborgen hatte, dürften die Summe sein,
-die er über den für die Oeffentlichkeit angegebenen Kaufpreis
+die er über den für die Öffentlichkeit angegebenen Kaufpreis
 ausbezahlt bekam. Er hielt das Versteck dort für
 <@pagebreak/>
 ganz sicher. Und doch sind irgendwelche Leute hinter seine
@@ -1018,7 +1018,7 @@ Toornward nächtliches Abenteuer.
 
 »Ja. Bei Allin. Und die Tochter half, die Leiche durch
 das Nebenhaus in ein Auto oder einen Wagen bringen mit
-Hilfe des Fahrstuhls. — Ueberlege Dir das Erlebnis des
+Hilfe des Fahrstuhls. — Überlege Dir das Erlebnis des
 Barons. Es spricht durchaus für diese Annahme. Die
 Verschleierte, die ihn wachrüttelte, war Fräulein Ella Allin.
 Man fuhr die Leiche dann nach der Musketierstraße in
@@ -1054,7 +1054,7 @@ gepackt zu sein, flog Harald jetzt, scheinbar stolpernd,
 um den Hals.
 
 All das war Komödie, war einer der raffiniertesten
-Ueberfälle, die wir erlebt haben.
+Überfälle, die wir erlebt haben.
 
 Ich erhielt von hinten, natürlich von dem Chauffeur,
 dem ersten Schlag über den Kopf.
@@ -1228,7 +1228,7 @@ zwei Beamten etwas zu, die in einer Tür standen.
 
 Sie sprangen herbei, rissen die Tür auf.
 
-Und dann die niederschmetternde Ueberraschung: Das
+Und dann die niederschmetternde Überraschung: Das
 Auto hatte nur einen Fahrgast: Harald Harst, der wirklich
 bewußtlos war!
 
@@ -1351,7 +1351,7 @@ Fahrstuhl bis ins Erdgeschoß gefahren, da mein Vater inzwischen
 mir erklärt hatte, es sei besser, die Leiche auf die
 Straße zu bringen —« — Sie erschauerte. — »Oh — wir
 beide waren damals ja kaum zurechnungsfähig; wir handelten
-in der Angst und Ueberstürzung wie Toren; wir zitterten
+in der Angst und Überstürzung wie Toren; wir zitterten
 <@pagebreak/>
 am ganzen Körper. — Als ich mit dem Toten unten
 war und gerade die Fahrstuhltür geöffnet hatte, während

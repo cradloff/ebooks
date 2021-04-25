@@ -275,14 +275,14 @@ Olgerdyn Verdacht. Ich durchblätterte, wie Du weißt, die
 letzten Nummern der Dehli-Post und fand dies hier —«
 
 Er hielt mir das Stück Zeitung hin und deutete auf
-eine besonders fett gedruckte Ueberschrift.
+eine besonders fett gedruckte Überschrift.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>In die Thar hinein.</h3>
 
-Diese Ueberschrift lautete:
+Diese Überschrift lautete:
 
 > Eine Jagdgesellschaft in der Thar umgekommen.
 
@@ -547,7 +547,7 @@ wenn Du es kannst!«
 »Vielleicht sollte Breßfort einen Brief des Lösegeldes
 wegen an irgend jemand schreiben und hat sich bisher
 geweigert. Man wird ihn nun vielleicht mit dem Tode bedrohen.
-So mag Greebraecs Aeußerung zustande gekommen
+So mag Greebraecs Äußerung zustande gekommen
 sein.«
 
 Harald, der andauernd nach der Hütte hinübergespäht
@@ -684,7 +684,7 @@ Europäer, die Gesuchten!
 Aber — dann hörte jegliche Fährte wieder auf.
 
 Meilenweit zog sich das Tal hin mit zahllosen Nebentälern.
-Ueberall kahler Fels. Nirgends eine Fährte oder
+Überall kahler Fels. Nirgends eine Fährte oder
 etwas, das als Fährte zu deuten war.
 
 Ich führte mein Tier am Zügel und ging tief gebückt
@@ -789,7 +789,7 @@ Brand gesetzt, mit grüner Flamme. Und dieses Signal
 wurde, bevor der braune Bandit auftauchte, von der Höhe
 einer entfernten Bergterrasse in gleicher Weise beantwortet.«
 
-Ueber diese Mitteilung war ich mit Recht geradezu
+Über diese Mitteilung war ich mit Recht geradezu
 sprachlos.
 
 »Sollte etwa Lord Breßfort hier —«
@@ -1033,7 +1033,7 @@ Hintergrund standen vier große braune Zelte. Dahinter
 eine ganze Menge Dromedare.
 
 Die drei Weißen saßen an dem Feuer, das dem Abhang
-am nächsten war. Ueber der Glut hing ein Aluminiumkessel.
+am nächsten war. Über der Glut hing ein Aluminiumkessel.
 Olgerdyn und Greebrac rauchten Zigarren. Robert
 schüttete gerade Tee in den Kessel.
 
@@ -1055,7 +1055,7 @@ ersticken lassen.«
 
 Greebrac zuckte die Achseln und schwieg.
 
-Dann zupfte Harst mich am Aermel. Wir krochen zurück,
+Dann zupfte Harst mich am Ärmel. Wir krochen zurück,
 umschlichen den Posten wieder und lagen nun etwa
 achtzig Meter vor dem Felsnadelwalde zwischen Steinblöcken.
 
@@ -1193,7 +1193,7 @@ Vorwänden gebracht hatten, wo sie dann den Lord eines
 Nachts überfielen und zwar in dem westlichen Tunnel
 des Pyramidenberges. Außer den fünf Führern beteiligten
 sich dabei noch vier andere Radschputen. Die geplante
-Ueberrumpelung mißglückte jedoch, da der Major Pancroof
+Überrumpelung mißglückte jedoch, da der Major Pancroof
 schon vorher Verdacht geschöpft hatte. So kam es, daß der
 Lord, seine Gattin und drei Diener unverwundet durch den
 Tunnel auf die oberste Ostterrasse und durch die Höhle

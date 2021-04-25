@@ -93,7 +93,7 @@ hinter der Biegung werden wir in eine Haustür schlüpfen.«
 »Er hat gar keine. Der rechte Arm scheint ihm zu
 fehlen. In der rechten Tasche der graugrünen Jägerjoppe
 <@pagebreak/>
-steckt das Ende des leeren Aermels. Aber Du weißt: ein
+steckt das Ende des leeren Ärmels. Aber Du weißt: ein
 vorhandener Arm läßt sich verbergen, und ein fehlender
 Arm läßt sich vortäuschen.«
 
@@ -377,7 +377,7 @@ Zeitungsreporter trat ein —«
 Anzug —«
 
 »Und mit Berthold Finster hatte der Herr natürlich
-nicht die geringste Aehnlichkeit?«
+nicht die geringste Ähnlichkeit?«
 
 »Nein. — Er bat um einige Angaben über das, was
 hier geschehen. Ich weigerte mich, ihm irgendwelche Mitteilungen
@@ -532,7 +532,7 @@ als Inhalt — einen toten Kanarienvogel!
 
 Haralds verdutztes Gesicht beim Anblick des toten gelben
 Tierchens war mir ein Trost: ich selbst hatte ja vor
-Ueberraschung ebenfalls kaum sehr geistreich ausgesehen!
+Überraschung ebenfalls kaum sehr geistreich ausgesehen!
 
 »Donnerwetter — wieder der Vogel!« meinte ich dann.
 
@@ -1029,7 +1029,7 @@ sich in einer bedauernswerten Verfassung. Sein schwarzgefärbter
 Wachtmeisterschnurrbart entbehrte jeden inneren
 Haltes und hing traurig herab. Seine Gesichtsfarbe war
 ein gefährliches Blaurot, und auch die schweißglänzende
-Stirn und die funkelnden Aeuglein ließen ein ungewöhnliches
+Stirn und die funkelnden Äuglein ließen ein ungewöhnliches
 Geschehnis vermuten, das Herrn Pfitzhuber völlig
 aus dem seelischen Gleichgewicht gebracht hatte.
 
@@ -1541,7 +1541,7 @@ er kann an die Steine heran.«
 
 »Was wollen Sie schreiben?« fragte Parnack hastig.
 
-»Daß er dem Ueberbringer des Briefes die Steine
+»Daß er dem Überbringer des Briefes die Steine
 aushändigen soll, die ich bis morgen brauche, um Sie, Gisbert
 Parnack, in eine Falle zu locken. Bechert wird dies
 ohne weiters glauben. So sehr es mir auch widerstrebt,
@@ -1655,7 +1655,7 @@ sämtlich in Weibertracht.
 
 »Hände hoch! Kriminalpolizei!« brüllte er.
 
-Und oben in der Oeffnung der Falltür verschwanden
+Und oben in der Öffnung der Falltür verschwanden
 zwei Beine.
 
 Parnack hatte den Moment, wo es im Wagen dunkel

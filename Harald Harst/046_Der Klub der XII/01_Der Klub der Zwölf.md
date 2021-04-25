@@ -150,7 +150,7 @@ waren numeriert: 1, 2, 3.
 Thomas Long sagte uns, diese Zahlen habe fraglos sein
 Vater geschrieben.
 
-Die deutsche Uebersetzung der Briefe lautete:
+Die deutsche Übersetzung der Briefe lautete:
 
 Brief 1:
 
@@ -428,7 +428,7 @@ uns durch die Vorgärten recht nahe an den Kerl heranmachen.«
 
 Haralds Plan gelang. Gegen ¾ 2 Uhr morgens schlich
 der im Gebüsch versteckte Spion davon. Aber — nun kam die
-Ueberraschung für uns! Er hatte es nicht weit bis zu seiner
+Überraschung für uns! Er hatte es nicht weit bis zu seiner
 Wohnung — nur etwa 25 Schritt! Denn — er verschwand
 in der Haustür des weißgestrichenen, langgestreckten Gebäudes,
 das Greapers Gegenüber war. Er verließ den Garten also
@@ -741,7 +741,7 @@ Mörders.«
 »Unglaublich!« murmelte Erverlyn.
 
 »Ich gehe jetzt in den Vorgarten,« meinte Harald. »Bleiben
-Sie nur hier. Ich will mir die Oertlichkeit so etwas anschaun —«
+Sie nur hier. Ich will mir die Örtlichkeit so etwas anschaun —«
 
 In demselben Moment brachte einer der Diener den
 Stahlpfeil mit dem roten Wollbüschelchen.
@@ -1074,7 +1074,7 @@ Harald uns weckte. Er tat dies, indem er uns anrief. Und
 er brüllte so, daß wir ganz entsetzt hochfuhren.
 
 »Der Tee ist fertig,« meinte er. Er saß an einem kleinen
-Distelfeuer, das scheußlich qualmte. Ueber dem Feuer hing der
+Distelfeuer, das scheußlich qualmte. Über dem Feuer hing der
 eine Aluminiumkessel an dem Aluminiumdreibein.
 
 »Weshalb haben Sie uns nicht geweckt?« meinte Erverlyn.
@@ -1127,7 +1127,7 @@ nach demselben Parfüm.«
 »So so. Es stimmt also. — Wann war Long zum ersten
 Male bei Ihnen? Ich meine, wann traf er in Bangalore ein?«
 
-»Am zweiten Abend nach meiner Ueberführung in das
+»Am zweiten Abend nach meiner Überführung in das
 Krankenhaus.«
 
 »Dann können die Leute am Morgen voraus nach Bombay
@@ -1399,7 +1399,7 @@ Dann schoß er schon. Der Lange hatte nach seinem Revolver
 gegriffen, schrie jetzt auf und schlenkerte mit der blutenden
 rechten Hand hin und her.
 
-Die anderen vier saßen wie die Oelgötzen da. Dann
+Die anderen vier saßen wie die Ölgötzen da. Dann
 <@pagebreak/>
 feuerte Harst zur Warnung dem Höflichen eine Kugel am
 Kopf vorbei. Da fuhren ihre Arme empor. —
@@ -1467,10 +1467,10 @@ ein kleines Kreuz im linken Flügel des Schmetterlings bezeichnet
 ist. Sie werden Dir folgen, um Dir die Zeichnung abzunehmen,
 und Du wirst Dich dann, plante ich sofort, von
 ihnen überfallen lassen, vorher aber die Jagdmesser verstecken,
-um wieder nach Belieben freizukommen. Die Oertlichkeit war
+um wieder nach Belieben freizukommen. Die Örtlichkeit war
 so, daß ich mit ziemlicher Sicherheit damit rechnen konnte,
 ich würde dort an der Felswand als Gefangener sitzen. Wäre
-das nicht geschehen, so hatte ich in meinem Aermelaufschlag
+das nicht geschehen, so hatte ich in meinem Ärmelaufschlag
 noch immer mein Federmesser stecken. — Doktor Doving, Sie
 haben den Schuß abgegeben. Mitschuldig sind Sie alle.«
 

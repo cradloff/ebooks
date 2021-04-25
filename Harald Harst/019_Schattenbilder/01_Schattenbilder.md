@@ -28,7 +28,7 @@ war vielsagend genug gewesen:
 Das war eine Drohung, die man nicht unbeachtet lassen
 durfte.
 
-Harst hatte denn auch auf der Ueberfahrt von Kalkutta
+Harst hatte denn auch auf der Überfahrt von Kalkutta
 nach Hamburg stets in derselben Weise alle Vorgänge und
 Menschen ringsum mißtrauisch beobachtet, wie ihm dies zur
 zweiten Natur geworden war. Er verstand es meisterhaft,
@@ -38,8 +38,8 @@ Kreises von Mitreisenden geworden, die in ihm nicht
 nur den berühmtesten Liebhaberdetektiv der Gegenwart, sondern
 auch den liebenswürdigen, vielseitig gebildeten und interessanten
 Menschen verehrten.
-<@pagebreak/>
 
+<@pagebreak/>
 Unser prächtiges Schiff war jetzt am Kai vertäut. Es war
 gerade Mittag. Die Sirenen der zahllosen Dampfer und Fabriken
 heulten; Glockenklänge schwebten über die alte, ruhmreiche
@@ -50,11 +50,11 @@ einen mit uns. Wir standen neben Kapitän Rickmer auf der
 Kommandobrücke, dankten ihm nochmals für den Genuß dieser
 Seereise auf seinem schwimmenden Luxushotel und wollten
 gerade wieder auf das Deck hinabsteigen, als einer der
-Stewards des Schiffes die Treppe emporeilte in der Hand
+Stewards des Schiffes die Treppe emporeilte, in der Hand
 ein briefähnliches Päckchen.
 
-»Für Sie Herr Harst,« erklärte er atemlos. »Der Ueberbringer,
-ein Dienstmann sagte, es eile sehr.«
+»Für Sie Herr Harst,« erklärte er atemlos. »Der Überbringer,
+ein Dienstmann, sagte, es eile sehr.«
 
 Harst wog das schmale, in einem gelben Umschlag steckende
 Etwas in der Hand, schaute dann auf die Aufschrift.
@@ -94,8 +94,8 @@ Training ist, nimmt das nicht weiter Wunder.
 In diesem »Schade«! lag der Hinweis darauf, daß er dieser
 Sendung nicht recht traute, daß er dahinter etwas besonderes
 und zwar etwas uns nicht Günstiges vermute.
-<@pagebreak/>
 
+<@pagebreak/>
 Er schob das Päckchen in die Tasche. Als wir dann in unserer
 gemeinsamen Luxuskabine waren, wo unsere Koffer mitten
 auf dem Teppich standen, zog er es wieder hervor, meinte:
@@ -111,7 +111,7 @@ Watte hüllte — eine Brosche ein!
 Eine Brosche, eine Gemme in Goldfassung, — ein sehr
 altes und wertvolles Schmuckstück.
 
-Ich erkannte es sofort wieder. Es gehörte Harsts Mutter
+Ich erkannte es sofort wieder. Es gehörte Harsts Mutter,
 die es dauernd trug.
 
 Frau Auguste Harst, die Witwe des als mehrfacher Millionär
@@ -142,12 +142,12 @@ Art ohne jedes Begleitwort zugestellt worden war,
 weckte auch in mir nun bange, ungewisse Gedanken.
 
 Harsts schmales, gebräuntes Gesicht war seltsam fahl geworden.
-Die langen dunklen Wimpern bedeckten die grauen
+Die langen, dunklen Wimpern bedeckten die grauen
 Augen fast ganz. Seine Hand zitterte leicht. Das Kästchen
 bebte mit. Und auf dem weißen Wattelager ruhte die kostbare
 Gemme wie ein drohendes Rätsel.
-<@pagebreak/>
 
+<@pagebreak/>
 Zwei — drei Minuten verstrichen.
 
 »Harst!« mahnte ich leise.
@@ -183,7 +183,7 @@ Harst lehnte ganz tief in den Polstern des offenen Wagens.
 Er hatte die Augen geschlossen, schien zu schlafen. Ich wußte:
 er wollte nicht gestört sein.
 
-Wir rasten durch die Vorstädte, Dörfer kamen auf die
+Wir rasten durch die Vorstädte, Dörfer, kamen auf die
 freie Chaussee. Der Chauffeur hockte wie ein Gnom ganz zusammengekrümmt
 auf dem Führersitz. Hinter uns drein
 wehten verschwommen die Flüche von Fuhrwerksbesitzern,
@@ -200,11 +200,11 @@ alles wir in der Menagerie Sellerheim erlebt hatten.
 
 Und jetzt? Was würde sich jetzt ereignen? Oder — was
 hatte sich schon ereignet?! — Weshalb diese Hetzjagd nach
-Hause nach Berlin? — Weshalb?
-<@pagebreak/>
+Hause, nach Berlin? — Weshalb?
 
+<@pagebreak/>
 Ich hatte Zeit genug, darüber nachzudenken. Und ich kam
-zu der Ueberzeugung, daß die Brosche nur gestohlen sein
+zu der Überzeugung, daß die Brosche nur gestohlen sein
 konnte und daß Harst einen größeren Einbruch im Hause seiner
 Mutter befürchtete, bei dem diese vielleicht von den Dieben
 überfallen und verletzt worden war.
@@ -212,7 +212,7 @@ Mutter befürchtete, bei dem diese vielleicht von den Dieben
 Eine halbe Stunde waren wir nun unterwegs. Da regte
 Harst sich, holte das Päckchen hervor und reichte es mir.
 Dann beugte er sich vor, nahm einen Bleistift und sein Federmesser
-zur Hand sagte:
+zur Hand, sagte:
 
 »Halte das Pappkästchen ganz tief. Ich will den Deckel
 mit Graphit bestreuen.«
@@ -231,15 +231,15 @@ entdeckt und auch abgezeichnet.
 
 »Ja! Palperlon! Er meldet sich!« sagte er nun und richtete
 sich wieder auf. »Er ist schlau, raffiniert, fraglos ein
-Genie in seiner Art; Nur daran denkt er nicht, daß ein Mensch
+Genie in seiner Art. Nur daran denkt er nicht, daß ein Mensch
 wie er, der an so schweißfeuchten Händen leidet, nur mit Handschuhen
 Dinge anfassen sollte, die vielleicht wie dieses Schächtelchen
 von geschulten Augen gemustert werden. Schon in unserer
 Kabine bemerkte ich diese Fingerabdrücke wie einen ganz
-schwachen fettigen Hauch auf dem weißen Glanzpapier mit
+schwachen, fettigen Hauch auf dem weißen Glanzpapier, mit
 dem das Schächtelchen beklebt ist.«
 
-»Und Du dachtest da auch bereits an Palperlon, als den Absender
+»Und Du dachtest da auch bereits an Palperlon als den Absender
 der Brosche?« fragte ich, obwohl die Frage eigentlich
 überflüssig war.
 
@@ -248,10 +248,10 @@ emporkeuchte,« meinte er in seiner selbstverständlichen Art,
 die nie als Prahlerei irgendwie wirkt. »Wer wußte denn,
 daß wir heute in Hamburg eintreffen würden? Niemand!
 Nicht einmal meine Mutter, die ich doch eben überraschen
-wollte. Nur einer konnte es wissen: der Mann der mir gedroht
+wollte. Nur einer konnte es wissen: der Mann, der mir gedroht
 hat: »Ich bin stets um Dich«!«
-<@pagebreak/>
 
+<@pagebreak/>
 Bei dem Worte Mutter hatte sich sein Blick wieder für einen
 Moment nach innen gerichtet.
 
@@ -275,11 +275,11 @@ fertig, selbst —« seine Stimme sank zum Flüstern herab —
 »Das wäre ja —«
 
 »Ja — das wäre eine Rache an mir, die ich ihm sehr
-wohl zutraue! Bedenke: wir haben ihm durch seine sämtlichen
+wohl zutraue! Bedenke: wir haben ihm durch seine sämtlichen,
 so fein vorbereiteten Pläne in Indien einen dicken
 Strich gezogen! Um Millionenwerte haben wir ihn geschädigt.
 Ohne uns wäre dieser Mensch, der offenbar an Gold- und
-Brillantengier in krankhaften Maße leidet, jetzt ein Krösus!
+Brillantengier in krankhaftem Maße leidet, jetzt ein Krösus!
 Hat er da nicht allen Grund, mich so schwer zu treffen, wie es
 ihm irgend möglich ist?!«
 
@@ -297,13 +297,13 @@ lief auf das weiße Gebäude zu.
 
 Und gerade in einer Höhe mit dem schmiedeeisernen Parktor
 waren über die Straße zwei Ackerwagen so gestellt, daß
-sie für uns eine vollkommne Sperre bildeten.
+sie für uns eine vollkommene Sperre bildeten.
 
 Vor diesen Wagen standen eine Anzahl Männer, Weiber
 und Kinder. Darunter aber auch zwei Herren, denen man
 die Gutsbesitzer oder Gutsinspektoren sofort ansah.
-<@pagebreak/>
 
+<@pagebreak/>
 Einer der beiden, ein schlanker Mann mit blondem
 Schnurrbärtchen, trat nun zu uns an den Wagenschlag heran,
 faßte leicht an das grüne Jägerhütchen und sagte sehr scharfen
@@ -313,7 +313,7 @@ Tones:
 dieses Bezirks. Ich erkläre Sie für verhaftet. Steigen
 Sie aus. Das Auto bleibt ebenfalls hier.«
 
-Harst schien Aehnliches vorausgesehen zu haben.
+Harst schien Ähnliches vorausgesehen zu haben.
 
 »Und weshalb?« fragte er, indem er sich langsam erhob.
 
@@ -334,11 +334,11 @@ Ich bin der als Liebhaberdetektiv einigermaßen bekannte
 Harst. Hier ist mein Ausweis nebst Photographie — bitte!«
 
 Er hatte das amtliche Papier seiner Brieftasche entnommen.
-Das Lichtbild daran war so ähnlich geraten, daß Herr
+Das Lichtbild darauf war so ähnlich geraten, daß Herr
 von Tondra sofort sehen mußte, daß kein Unbefugter sich hier
 als Harst aufspielte.
 
-Er wurde denn auch höflicher. Zuckte bedauernd die
+Er wurde denn auch höflicher, zuckte bedauernd die
 Achseln und erklärte:
 
 »So leid es mir tut, meine Herren, — ich muß Sie hier
@@ -352,12 +352,12 @@ hinein dauert.«
 Harst nun lebhaft. »Wir haben keine Frau überfahren. Mein
 Wort darauf, Herr von Tondra. Ich habe es sehr eilig. Ich
 muß unbedingt nach Berlin. Meiner Mutter ist etwas zugestoßen.
-Ich verpflichte mich morgen wieder hier zu sein und
+Ich verpflichte mich, morgen wieder hier zu sein und
 diesen heimtückischen Streich, dessen Hauptopfer ich bin, aufzuklären.«
-<@pagebreak/>
 
+<@pagebreak/>
 »Was heißt das, Herr Harst?« fragte Tondra kopfschüttelnd.
-»Hauptopfer? Ich begreife nicht was —«
+»Hauptopfer? Ich begreife nicht, was —«
 
 »Sehr einfach: es gibt Leute, die mir Rache geschworen
 haben. Und diese Leute wollen mir Ungelegenheiten bereiten,
@@ -386,7 +386,7 @@ Dies war der zweite Herr, der vor der Sperre gestanden hatte.
 
 Unser Auto wendete. Es ging denselben Weg zurück, nur
 in mäßigerem Tempo. Nach zwanzig Minuten senkte sich die
-Chaussee in ein Tal hin ab. Und hier lag an einem kleinen
+Chaussee in ein Tal hinab. Und hier lag an einem kleinen
 See das Dorf Moscheln. —
 
 Ich möchte hier einflechten, daß ich Personen- und Ortsnamen
@@ -394,7 +394,7 @@ in diesen Aufzeichnungen über Harsts Abenteuer zumeist
 verändert habe. Nur wo hierzu keinerlei Grund vorlag,
 benutzte ich die richtigen Namen. Man wundere sich also
 nicht, wenn man Moscheln und so weiter auf keiner Karte
-findet. Die Beschreibung der Oertlichkeit stimmt jedoch mit
+findet. Die Beschreibung der Örtlichkeit stimmt jedoch mit
 den tatsächlichen Verhältnissen überein. —
 
 Gemeindevorsteher Hecht hielt gerade Mittagsschlaf. Er
@@ -505,11 +505,11 @@ Amtsvorsteher in Richtung Berlin telephonierte, damit das
 hellblaue Auto aufgehalten würde. Als wir nachher an die
 Unfallstelle kamen, war die Frau tot. — Ich versichere, daß
 diese meine Angaben in allen Punkten der Wahrheit entsprechen.
-Ich beabsichtige übermorgen aus des Kreisstadt
+Ich beabsichtige, übermorgen aus der Kreisstadt
 nach Moscheln wieder zurückzukehren. — Ernst Gräbner,
 Kunstmaler.«
-<@pagebreak/>
 
+<@pagebreak/>
 »Ganz schlau ersonnen,« meinte Harst nun und legte das
 Protokoll auf das Tischchen neben dem Ofen. »Wahr davon
 ist jedoch eben nur, daß die Frau tot und der Maler davongefahren
@@ -568,7 +568,7 @@ Geruch feststellen zu wollen.
 
 Dann stand er auf.
 
-Wir drei, Tondra, Hecht und ich blickten ihn gespannt an.
+Wir drei, Tondra, Hecht und ich, blickten ihn gespannt an.
 
 »Die Frau war schon tot als sie von dem angeblichen
 Gräbner auf die Chaussee gelegt wurde. Sie ist vergiftet worden,«
@@ -590,7 +590,7 @@ von Hecht gleichfalls herbeigerufene Kreisarzt erschien, der
 mit einem Wagen herübergekommen war.
 
 Als er Harsts Namen hörte, war er sofort die Liebenswürdigkeit
-selbst. Er untersuchte die Leiche konnte aber keinen
+selbst. Er untersuchte die Leiche, konnte aber keinen
 Bittermandelölgeruch wahrnehmen, bis Harald ihm zuraunte:
 »Drücken Sie stark und stoßweise auf den Magen.«
 
@@ -601,7 +601,7 @@ Rippen sind nicht durch Autoräder eingedrückt. Ich vermute,
 man tat es durch Tritte mit den Füßen.«
 
 »Ganz recht,« bestätigte Harst. Hier auf der hellen Bluse
-sind auch Flecke auf der Vorderseite die von Schuhsohlen herrühren
+sind auch Flecke auf der Vorderseite, die von Schuhsohlen herrühren
 können.
 
 Mir war diese Szene nichts Ungewohntes. Ich hatte als
@@ -639,15 +639,15 @@ brachte. Dieser prüfte den Sachverhalt nur kurz und erklärte
 dann, er könne die Verhaftung nicht aufrecht erhalten.
 
 Wir waren frei. Kurz nach fünf Uhr nachmittags bei
-einbrechender Dämmerung fuhren wir weiter. Unser Abschied
-von den Herren, die wir in Moscheln zurückliesen, war
+anbrechender Dämmerung fuhren wir weiter. Unser Abschied
+von den Herren, die wir in Moscheln zurückließen, war
 herzlich. Harst hatte dem Amtsrichter noch versprochen, den
 Mord an der Unbekannten, sobald es seine Zeit irgend erlaube,
 aufklären zu wollen, falls die zuständigen Behörden bis dahin
 keinen Erfolg gehabt hätten.
 
 Unser Chauffeur stellte wieder Höchstgeschwindigkeit ein,
-sobald wir freie Chausseestrecken vor uns hatten. Um ½ 7
+sobald wir freie Chausseestrecken vor uns hatten. Um ½7
 abends hielt unser Auto vor der Gitterpforte des Vorgartens
 Blücherstraße 10 in Berlin-Schmargendorf.
 
@@ -668,7 +668,7 @@ spurlos verschwunden,« preßte er ganz heiser hervor. »Und —
 <@pagebreak/>
 sie trug gestern wie immer die Gemmebrosche! Also — James
 Palperlon —! Er — er hat sie — entführt, er hat
-sie in seiner Gewalt, er wird mich nun zwingen von ihm abzulassen,
+sie in seiner Gewalt, er wird mich nun zwingen, von ihm abzulassen,
 sonst — sehe ich meine Mutter nicht wieder!«
 
 * * *
@@ -683,7 +683,7 @@ Und — noch ein anderes, jüngeres Gesicht: das des inzwischen
 zum kräftigen Burschen herangewachsenen Karl
 Malke, des Sohnes eines früheren Kutschers von Harsts Vater.
 Frau Malke bewohnte das Gärtnerhäuschen des Harstschen
-Gartens, und Karl, ein sehr aufgeweckter, echt Berliner Junge,
+Gartens, und Karl, ein sehr aufgeweckter echt Berliner Junge,
 war zuweilen von Harst ebenfalls als Gehilfe bei seinen Ermittlungen
 benutzt worden. Diejenigen Leser, die zum Beispiel
 unser unter dem Titel »Der Mord im Sonnenschein«
@@ -724,14 +724,14 @@ angerufen und ihn gefragt, was sie wohl unter diesen
 Umständen, die doch darauf hindeuteten, daß Frau Harst
 etwas zugestoßen sei, tun solle.
 
-Mittlerweile war es ¼ 10 abends geworden. Bechert hatte
+Mittlerweile war es ¼10 abends geworden. Bechert hatte
 Malwine den Rat gegeben, ihrerseits gar nichts zu unternehmen;
 er würde das Nötige veranlassen.
 
 Die Nacht verging. Der Morgen kam. Aber Frau Harst
 blieb verschwunden. Um neun Uhr vormittags fand sich
 Bechert in der Blücherstraße ein. Er hatte den ganzen Polizeiapparat
-in Tätigkeit gesetzt, um aufzuklären wo Frau
+in Tätigkeit gesetzt, um aufzuklären, wo Frau
 Harst geblieben sein könne. Keinerlei Erfolg! Weder auf
 einer Unfallstation noch sonstwo war sie etwa krank eingeliefert
 worden.
@@ -739,7 +739,7 @@ worden.
 Bechert tröstete Malwine und setzte dann die Nachforschungen
 persönlich fort, war nachmittags um zwei abermals
 bei der untröstlichen Malwine gewesen, hatte jedoch wieder
-nur berichten können, daß nirgends aber auch nirgends etwas
+nur berichten können, daß nirgends, aber auch nirgends etwas
 von der alten Dame zu entdecken sei. —
 
 Dies alles erzählte uns Malwine in Harsts elegant eingerichtetem
@@ -773,7 +773,7 @@ Dieses schräge Riesenfenster mit seinen Mattscheiben war nun
 bis vor acht Tagen abends nie erleuchtet, — also wohl kaum
 bewohnt, dachte ich mir. Aber dann sah ich plötzlich Licht hinter
 dem Fenster und fragte daher den Portier von Gegenüber,
-ob das Atelier nun vermietet sei. Der Portier ist sehr zugänglich
+ob das Atelier nun vermietet sei. Der Portier ist sehr zugänglich,
 und er erzählte mir, eine Dame habe es gemietet,
 die dort ein Geschäft für künstlerische Lichtbildvergrößerungen
 einrichten wolle. Sie heißt Maud Simpkinson und ist wohl
@@ -797,17 +797,19 @@ nämlich recht komische Schattenbilder, — Schatten von —«
 
 Draußen im Flur schrillte die Glocke plötzlich so anhaltend,
 daß Karl auf einen Wink Harsts hinauseilte.
+
 Der Besucher war unser alter Bekannter Kommissar Bechert.
-Er begrüßte Harst sehr herzlich aber auch mit sehr ernster
+
+Er begrüßte Harst sehr herzlich, aber auch mit sehr ernster
 Miene.
 
 »Leider bringe ich noch immer keine tröstliche Nachricht,«
-sagte er dann. »Ihre Mutter, lieber Harst ist tatsächlich wie
+sagte er dann. »Ihre Mutter, lieber Harst, ist tatsächlich wie
 vom Erdboden verschwunden. Sie können sich denken, daß ich
 nichts verabsäumt habe, sie zu finden. Ich habe —«
 
-Harst unterbrach ihn müde. »Ich weiß, daß Sie alles taten
-was Sie nur konnten Bechert. Ich danke Ihnen auch
+Harst unterbrach ihn müde. »Ich weiß, daß Sie alles taten,
+was Sie nur konnten, Bechert. Ich danke Ihnen auch
 von Herzen dafür. — Ich weiß jedoch ebenso bestimmt, daß
 Ihre Nachforschungen ergebnislos bleiben mußten. Meine
 Mutter ist entführt worden und wird irgendwo gefangen gehalten.
@@ -838,7 +840,7 @@ Erfolg ebenfalls vorbereiten. — Mehr vermag ich bisher
 über die Zusammenhänge dieser traurigen Ereignisse nicht anzugeben.
 Bisher! Denn ich erwarte bestimmt, daß Palperlon
 sich schon morgen melden wird — durch ein Schreiben, in dem
-er mir Vorschläge macht wie wir uns über die Freilassung
+er mir Vorschläge macht, wie wir uns über die Freilassung
 meiner Mutter einigen könnten. Ihm liegt daran, mich als
 seinen Widersacher auszuschalten. Vielleicht hat er jetzt, nachdem
 ihm seine großzügigen Gaunerstückchen im Orient vereitelt
@@ -857,8 +859,8 @@ Bechert machte eine kurze Bewegung mit der Hand.
 »Oh — er hat mir das schon erzählt. Eine ganz harmlose
 Geschichte! Die Künstlerin dort eben wird eben viel
 Besuch haben!«
-<@pagebreak/>
 
+<@pagebreak/>
 »Nun — mag Karl uns jedenfalls mitteilen, was ihm
 denn an den Schattenbildern aufgefallen ist,« meinte Harst und
 nickte dem hageren Jungen freundlich zu. »Ich kenne Dich ja,
@@ -872,7 +874,7 @@ Erzähle also!«
 Karl Malke fühlte sich offenbar durch Becherts Gegenwart
 etwas bedrückt.
 
-»Ach — ich weiß ja nicht Herr Harst, ob die Geschichte
+»Ach — ich weiß ja nicht, Herr Harst, ob die Geschichte
 mit den Schattenbildern wirklich so wichtig ist,« sagte er
 stockend und widerwillig. »Es handelt sich ja nur darum, daß
 ich auf den Verdacht kam, es könnten bei der Maud Simpkinson
@@ -889,7 +891,7 @@ Harst saß im Klubsessel neben dem Japantischchen in der
 gemütlichen Fensterecke, sprang jetzt aber auf und stellte sich
 vor Karls Stuhl hin.
 
-»Junge, so wird das nichts Uebersichtliches!« meinte er.
+»Junge, so wird das nichts Übersichtliches!« meinte er.
 »Schildere uns genau den ersten Abend, als Du die Schattenbilder
 sahst. Und alles hübsch der Reihe nach!«
 
@@ -901,7 +903,7 @@ dessen Tochter nebst ihrer Gesellschafterin in Wiesbaden
 plötzlich verschwunden ist. Der reiche Engländer war zu Blauk
 gekommen, damit dieser ihm einen erstklassigen Privatdetektiv
 empfehle. Eine unsichere Spur der beiden Damen hatte nämlich
-hier nach Berlin geführt — Blauk hatte mir die Bilder
+hier nach Berlin geführt. — Blauk hatte mir die Bilder
 der beiden Engländerinnen gezeigt und mir geraten, auf
 alle Gesichter zu achten. Er weiß, daß ich ein vorzügliches
 Physiognomiengedächtnis habe. Es gibt nämlich bei diesem
@@ -941,11 +943,11 @@ langem, halb hängendem Schnurrbart. Und auch dieser tat
 genau dasselbe wie Nummer eins. — Sechs verschiedene Männerköpfe
 bemerkte ich nacheinander. Und alle drehten sich
 und reckten die Hälse lang, alle waren die reinen Schattenbild-Komiker.
-Dann sah ich noch zwei Frauenköpfe einen
+Dann sah ich noch zwei Frauenköpfe, einen
 ohne Hut mit ’ner Stupsnase, einen mit Hut und Kneifer auf
 der Nase. Inzwischen hatte ich mir nämlich hier von Ihnen,
 Herr Harst, Ihr Jagdglas geholt und konnte so alles ganz deutlich
-unterscheiden. — Aehnliches nein, eigentlich genau dasselbe
+unterscheiden. — Ähnliches, nein, eigentlich genau dasselbe
 beobachtete ich an den beiden nächsten Abenden. Es waren
 offenbar damals immer dieselben Personen bei der Simpkinson.
 Nur nicht alle acht gleichzeitig wie am ersten Abend.
@@ -982,9 +984,9 @@ persönlich. Er wird nichts dagegen haben, daß Du mir hilfst.«
 
 Karl verschwand. Als er gegangen, meinte Bechert:
 
-»Diese Burschen verdrehen sich durch die Sucht Detektiv
-zu spielen, reinweg die jugendlichen Köpfe in denen dann nur
-noch Verbrechen und Verbrecher umherspuken. Uebrigens,
+»Diese Burschen verdrehen sich durch die Sucht, Detektiv
+zu spielen, reinweg die jugendlichen Köpfe, in denen dann nur
+noch Verbrechen und Verbrecher umherspuken. Übrigens,
 den Fall Thomas Shangarol kenne ich ebenfalls sehr gut.
 Miß Edith Shangarol dürfte mit einem Liebhaber ausgekniffen
 sein. Der Alte ist Multimillionär, hat aber nicht einen,
@@ -1009,18 +1011,18 @@ Mirakulum-Zigaretten, stellte das Silberkästchen vor uns
 hin, sagte kurz »Bitte!« rieb ein Hölzchen an und —
 
 Wieder schrillte die Flurglocke. — Ich öffnete. Draußen
-stand ein Messenger Boy, reichte mir einen Brief.
+stand ein Messenger-Boy, reichte mir einen Brief.
 
 »Für Herrn Harald Harst.«
 
 Der Junge machte kehrt. Ich aber beschaute mir die
 Anschrift auf dem Umschlag. Und — ich sah sofort: es war
 vermutlich dazu dieselbe schlechte Schreibmaschine benutzt
-worden, wie auf der Adresse des Broschenpäckchens.
+worden wie auf der Adresse des Broschenpäckchens.
 
 Also — wieder James Palperlon!
 
-Und deshalb rannte ich nun dem Ueberbringer nach. Der
+Und deshalb rannte ich nun dem Überbringer nach. Der
 war aber mit seinem Rad längst über alle Berge.
 
 * * *
@@ -1032,14 +1034,17 @@ Harst las Bechert und mir das getippte Schreiben vor.
 > Ihre Mutter befindet sich in meiner Gewalt! Sie werden
 dies fraglos bereits vermuten. — Wenn Sie nicht folgende
 Bedingungen erfüllen, sehen Sie Ihre Mutter nicht wieder. —
-1. Sie zahlen an mich eine Million Mark in Banknoten.
-2. Sie verpflichten sich ehrenwörtlich, mir nicht weiter nachzustellen.
+
+> 1\. Sie zahlen an mich eine Million Mark in Banknoten.
+
+> 2\. Sie verpflichten sich ehrenwörtlich, mir nicht weiter nachzustellen.
 Dasselbe muß Ihr Privatsekretär Max Schraut tun.
-3. Sie verpflichten sich ebenfalls ehrenwörtlich, ein ganzes
+
+> 3\. Sie verpflichten sich ebenfalls ehrenwörtlich, ein ganzes
 Jahr Ihren für Leute meines Schlages so unangenehmen
 Sport als Liebhaberdetektiv aufzugeben.
 
-> Näheres über die Art, wie Sie mir die Million zustellen,
+> Näheres über die Art, wie Sie mir die Million zustellen
 sollen, erfahren Sie, sobald ich Ihre Entscheidung kenne.
 Auf Unterhandlungen lasse ich mich nicht ein. — Antworten
 Sie mir dadurch, daß Sie an das rechte Fenster Ihres Arbeitszimmers
@@ -1052,7 +1057,7 @@ so sende ich Ihnen etwas zu, das Sie überzeugen wird, wie
 wenig ich leere Drohungen ausspreche. — James Palperlon.
 
 <@pagebreak/>
-»Unerhört!« rief Bechert erregt. »Ich wünschte ich hätte
+»Unerhört!« rief Bechert erregt. »Ich wünschte, ich hätte
 diesen Schurken —«
 
 Harst — ja, Harst lächelte ganz schwach und unterbrach
@@ -1072,7 +1077,7 @@ Bechert nickte. »Leider — leider! Sie haben recht, bester
 Harst! Sie müssen! — Und ich — muß mich verabschieden.
 Dienst! — Gute Nacht. Morgen rufe ich Sie mal an, Harst.
 — Hm — wie steht’s denn mit der — »Erleuchtung«? Hoffen
-Sie wirklich noch daß —«
+Sie wirklich noch, daß —«
 
 Harst hatte Bechert die Hand gereicht. »Palperlon ist ein
 Esel!« sagte er leise.
@@ -1088,15 +1093,15 @@ Bibliothek leises Klavierspiel hervordringen.
 Harald spielte — spielte Wagner!
 
 Ich stellte mich neben den Bechstein-Flügel. Harst schaute
-nicht auf. Die Klänge der Graals-Erzählung umrauschten mich.
+nicht auf. Die Klänge der Grals-Erzählung umrauschten mich.
 Harald war ja ein halber Künstler. Ich lauschte. — Wagner
-— urdeutsche Musik! Und da erst fühlte ich so recht daß ich
+— urdeutsche Musik! Und da erst fühlte ich so recht, daß ich
 wieder daheim war.
 
 Ich setzte mich in eine Ecke des Ledersofas, rauchte
 regungslos meine Zigarette.
 
-Plötzlich rissen die Töne jäh ab. Harst erhob sich kam zu
+Plötzlich rissen die Töne jäh ab. Harst erhob sich, kam zu
 mir, lehnte sich an den mit Büchern bedeckten Mitteltisch.
 
 »Schraut,« flüsterte er, »es wird eine hübsche Nacht werden.
@@ -1129,8 +1134,8 @@ Ritbilf! Das war ja der in den Armreif eingeritzte Hilferuf
 einer ebenfalls sorgfältig gefangen Gehaltenen gewesen.
 
 Und — nun sah ich auf der braunen, glatt polierten Rückseite
-der großen Gemme einige Kratzer — nein, — mit zitternder
-Hand offenbar eingeritzte Worte
+der großen Gemme einige Kratzer, — nein, — mit zitternder
+Hand offenbar eingeritzte Worte.
 
 Ich entzifferte:
 
@@ -1161,8 +1166,8 @@ Ebenso mußte Malwine mit am Eßtisch Platz nehmen.
 
 Die brave Köchin begriff die gute Laune Haralds nicht,
 bis dieser erklärte:
-<@pagebreak/>
 
+<@pagebreak/>
 »Mutter wird bald frei sein. Ich soll ja nur eine Million
 zahlen!«
 
@@ -1180,11 +1185,11 @@ zurück oder aber brachte mich ganz allmählich auf das Richtige.
 hinzu. »Geladen sind Sie ja noch. Um elf Uhr brechen wir
 auf. — Aha — der Wind, der den Regen ankündet! Das
 heult ja gehörig um das Haus! Alles ganz nach Wunsch. —
-Such doch nachher noch ein Brecheisen, das kurze, zusammenlegbare
+Such’ doch nachher noch ein Brecheisen, das kurze, zusammenlegbare
 und ein paar Dietriche heraus. Wir müssen so etwas
 Einbrecher spielen.«
 
-Um ¾ 11 klopfte es. Es war Karl Malke.
+Um ¾11 klopfte es. Es war Karl Malke.
 
 »Herr Harst, Sie flüsterten mir doch zu, ich solle um —«
 
@@ -1214,7 +1219,7 @@ Die Bande soll denken, wir kriechen in die Federn.« Er
 nickte mir zu. Sein Gesicht — <span class="g">dies</span> Gesicht kannte ich.
 Wenn die Haut über den Backenknochen sich so straff spannte
 und wenn die Augen halb zusammengekniffen waren, dann
-hatten die Herren Verbrecher allen Grund vorsichtig zu sein.
+hatten die Herren Verbrecher allen Grund, vorsichtig zu sein.
 
 Gleich darauf lag ich angeblich im Bett. In Wahrheit
 <@pagebreak/>
@@ -1239,23 +1244,23 @@ interessierte sich Harst für das Atelier? Weshalb.
 
 Meine Gedanken bekamen auf sehr unangenehme Art
 eine andere Richtung. Harst hatte soeben die Tür wieder
-zugedrückt. Da — vor uns ein rötlicher Lichtstrahl, eine heißere
+zugedrückt. Da — vor uns ein rötlicher Lichtstrahl, eine heisere
 Stimme: »Halt — ich schieße sofort!«
 
 Und Harst? — Harst lachte leise auf! — »Schießen Sie
 lieber nicht, Verehrtester! Wir sind keine Spitzbuben. Ich
 heiße Harst, Harald Harst, wohne gegenüber. — Hier, nehmen
 Sie diese zwanzig Mark und machen Sie sich dafür einen vergnügten
-Tag. — Sie wissen wohl daß meine Mutter verschwunden
+Tag. — Sie wissen wohl, daß meine Mutter verschwunden
 ist. Ich suche hier nach einer Spur.«
 
-Der Wächter war offenbar froh daß er es mit so anständigen
+Der Wächter war offenbar froh, daß er es mit so anständigen
 Leuten zu tun hatte. Er versprach niemandem zu
-sagen, das er uns hier getroffen hätte. — Dann stiegen wir
+sagen, daß er uns hier getroffen hätte. — Dann stiegen wir
 die teilweise noch mit Bauschutt bedeckten Treppen empor bis
 zur Bodenluke, wuchteten die Krampe des Vorlegeschlosses mit
 dem Brecheisen heraus und befanden uns nun auf dem schwach
-geneigten Dach inmitten eines Gewittersturmes der uns beinahe
+geneigten Dach inmitten eines Gewittersturmes, der uns beinahe
 umwarf. Wir krochen auf allen Vieren nach rechts hinüber,
 hatten nun das Glasdach des Ateliers etwa zwei Meter
 unter uns.
@@ -1301,8 +1306,8 @@ wieder zugeklappten Dachluke.
 
 »Dürfte ich nun vielleicht wissen, weshalb wir gerade
 Miß Simpkinson beehren wollen?« fragte ich leicht gereizt,
-denn bei diesem Wetter sich auf Dächern herumzudrücken war
-kein Vergnügen und meine Laune näherte sich bedenklich dem
+denn bei diesem Wetter sich auf Dächern herumzudrücken, war
+kein Vergnügen, und meine Laune näherte sich bedenklich dem
 Nullpunkt. »Natürlich hängt Dein Interesse für das Atelier
 nebenan mit den Schattenbildern zusammen. Das ist mir
 jetzt klar. Aber —«
@@ -1317,7 +1322,7 @@ müssen, daß die Wörter
 > In Ale
 > hier
 
-nur eine Verstümmelung infolge heftiger, undeutlicher
+nur eine Verstümmelung infolge hastiger, undeutlicher
 Kratzschrift und eine durch die Größe der Gemme bedingte
 <@pagebreak/>
 Trennung sind. Setze für das l ein t und für das h ein l, dann
@@ -1328,7 +1333,7 @@ heißt’s:
 
 also »In Atelier«, — ergänzt: »Ich werde in einem Atelier
 gefangengehalten!« Ich gebe zu, daß ich ebenfalls zunächst
-»In Eile hier« entziffert hatte. Erst als Karl, unser prächtiger
+»In Ale hier« entziffert hatte. Erst als Karl, unser prächtiger
 Karl, von den Schatten auf dem Atelierfenster sprach, von
 dem Atelier eben, das im Hause gegenüber vermietet worden
 war, da kam mir die erste Erleuchtung, — nein, die zweite!
@@ -1339,7 +1344,7 @@ der später sich erst zu etwas Wertvollem auswuchs. — Ich
 will jedoch nicht wieder in den alten Fehler zurückfallen und
 will Dir nicht, wie ein Professor etwa eine mathematische
 Gleichung seinen Schülern mit dem Stolz des Kundigen entwickelt,
-tropfensweise die Aufklärung geben; sondern mehr in
+tropfenweise die Aufklärung geben, sondern mehr in
 großen Zügen. — Die vergiftete Frau in Moscheln hatte —
 Du wirst das bemerkt haben — jene neumodische Art von
 Zahnplomben, die sich nur schwerreiche Leute leisten: kleine
@@ -1352,7 +1357,7 @@ benutzte ein Parfüm, das Dir sofort hätte auffallen müssen.
 Besinne Dich auf das Fremdenheim der Frau von Tezra in
 Haidarabad, wo Du Dich so wütend über eine Miß ärgertest,
 die das in Assam hergestellte sogenannte Assam-Kudri, ein
-Parfüm von großer Stärke und einer widerlichen Süße, benutzte:
+Parfüm von großer Stärke und einer widerlichen Süße, benutzte.
 Nun — dasselbe Assam-Kudri spürte ich an der Toten.
 Und — als ich es spürte, da dachte ich auch sofort an —! Doch
 warte! Ich halte Dir mal die Brosche unter die Nase. —
@@ -1384,7 +1389,7 @@ vermag beim besten Willen auch nicht das kleinste —«
 »Pst!« warnte Harst mich. »Hörtest Du nicht soeben
 auch —«
 
-Das weitere verschlang ein furchtbarer Donnerschlag
+Das weitere verschlang ein furchtbarer Donnerschlag.
 Als das entsetzliche Dröhnen nachgelassen hatte, war auch das
 Geräusch des fallenden Regens über uns verstummt.
 
@@ -1435,8 +1440,8 @@ die Luftscheibe lag gerade dicht vor dem scharfen Knick, hinter
 dem die Tiefe gähnte.
 
 Als ich das rechte Bein glücklich in der quadratischen
-Oeffnung hatte, glaubte ich aus dem Atelier einen dumpfen
-Laut zu vernehmen. Es klang wie ein halbersticktes Aechzen.
+Öffnung hatte, glaubte ich aus dem Atelier einen dumpfen
+Laut zu vernehmen. Es klang wie ein halbersticktes Ächzen.
 
 »Harst!« rief ich leise.
 
@@ -1469,9 +1474,9 @@ Ich gehorchte mechanisch. Widerstand war nutzlos. Denn
 — dort vor mir auf dem Teppich saß — Harst mit gefesselten
 Händen und Füßen, im Munde einen Knebel! Und — er
 nickte mir zu. Das konnte nur heißen: Wehre Dich nicht!
-<@pagebreak/>
 
-Auch ich wurde nun mit dünnen, verzinktem Draht genau
+<@pagebreak/>
+Auch ich wurde nun mit dünnem, verzinkten Draht genau
 so gebunden; auch mir schob man einen Leinwandpfropfen
 zwischen die Zähne. Aber — das alles besorgte
 nicht der Mann mit dem Zuluspeer, sondern — ein blondes
@@ -1495,7 +1500,7 @@ mit unangenehm hoher Stimme:
 Ich hätte nicht geglaubt, daß Sie so schnell den Weg hierher
 finden würden. Und — fraglos stände die Partie jetzt mehr zu
 Ihren Gunsten, wenn nicht mein Freund Sie beide erspäht
-haben würde, als sie auf dem Nachbardach lagen. Wir konnten
+haben würde, als sie auf dem Nachbardache lagen. Wir konnten
 also alles zu Ihrem Empfang vorbereiten. Immerhin ist
 Ihr Erscheinen hier recht störend. — Da ich mit Ihnen einiges
 zu besprechen habe, frage ich, ob Sie mir Ihr Wort geben
@@ -1517,7 +1522,7 @@ von Palperlon nichts — nur daß er mittelgroß ist und schlank.
 Sein Gesicht haben Sie nie unmaskiert gesehen!« — Das
 klang ironisch und auch selbstbewußt.
 
-»Beweisen? — Hm! Einen Gerichtshof würden meine
+»Beweisen? — Hm! Einem Gerichtshof würden meine
 Beweise nicht genügen. <span class="g">Mir</span> genügen sie. — Vor acht Tagen
 <@pagebreak/>
 wurde dieses Atelier von Ihnen gemietet. Zu dieser Zeit
@@ -1531,7 +1536,7 @@ ich nie auf Sie aufmerksam geworden. Mein kleiner Freund
 fand die Schattenfiguren »komisch«, weil die Köpfe sich drehten
 und wanden, sich verbeugten, die Hälse lang reckten und
 so weiter. Er glaubte, am ersten Abend acht verschiedene
-Personen zu sehen. Und — es waren doch stets Sie, — Sie
+Personen zu sehen. Und — es waren doch stets Sie, — Sie,
 der vor dem Spiegel verschiedene Masken als Männer und
 Frauen prüfte, ob sie auch jeden kritischen Blick standhielten.
 Gerade dieses »Komische« der Schattenbilder brachte mich auf
@@ -1569,11 +1574,11 @@ Anhängsel Schraut nie mehr wieder Gelegenheit haben werden,
 Ihrem Ruhmeskranz ein neues Lorbeerblatt hinzuzufügen.
 Sie kennen mich ja durch Warbatty! Denn: Warbatty
 war ja eigentlich ich selbst. Er war mir Werkzeug, meine gehorsame
-Maschine. Er mußte denken und handeln wie ich es
+Maschine. Er mußte denken und handeln, wie ich es
 wollte. — Mithin ist Ihnen bekannt, daß ich Sie gewissermaßen
 als Detektivgenie verehre und oft gezaudert habe, Sie
 für immer unschädlich zu machen. Jetzt, wo Sie meinen Brief
-durch diese Kampferöffnung, dieses Eindringen hier beantwortet
+durch diese Kampferöffnung, dieses Eindringen hier, beantwortet
 haben, wo vielleicht bereits Ihr Freund Bechert im
 Hintergrunde lauert, um seine Polizeiarme nach mir auszustrecken,
 muß ich endgültig Schluß machen! Sie und Schraut
@@ -1626,7 +1631,7 @@ Palperlons Freund flüsterte jetzt eindringlich auf »Miß
 Simpkinson« ein. Ich ahnte: er wollte erreichen, daß Palperlon
 sich mit uns in Güte einige.
 
-Und Palperlon nickte wiederholt sagte nun:
+Und Palperlon nickte wiederholt, sagte nun:
 
 »Gut denn — lassen wir die beiden am Leben!«
 
@@ -1655,20 +1660,20 @@ krampfhaft, lag still.
 Wir beide waren hochgeschnellt. Aber vor uns stand nun
 die angebliche Miß Simpkinson mit demselben blutbefleckten
 Speer, zischte uns an: »Daß ich allein trotz der Umzingelung
-entkomme ist sicher. Der da wäre mir nur hinderlich gewesen.
-Er hat Miß Shangerol ermordet — gewiß! Er war ihr Liebhaber,
+entkomme, ist sicher. Der da wäre mir nur hinderlich gewesen.
+Er hat Miß Shangarol ermordet — gewiß! Er war ihr Liebhaber,
 <@pagebreak/>
 nur um das Scheckbuch zu erlangen. In London
 nannte man ihn nur den »schönen Edward«. Ein verkommener
 Maler ist’s und seit Jahren einer meiner untergeordneten
 Helfershelfer. Die Idee dieses Verbrechens stammte von
-mir. Auch der Plan der dann in Moscheln uns leider mißglückte.
+mir. Auch der Plan, der dann in Moscheln uns leider mißglückte.
 Vielleicht möchten Sie auch wissen, wo die Gesellschaftsdame
 geblieben ist. Der Rhein ist verschwiegen. Bei
 einem Ausflug — verunglückte sie! Dann floh das Pärchen.
 Das weitere wissen Sie! — So — und nun sollen Sie beide
 in aller Stille aber ebenso zuverlässig ins Jenseits befördert
-werden!« Abermals dieser teuflische Hohn der umso abstoßender
+werden!« Abermals dieser teuflische Hohn, der umso abstoßender
 wirkte, als Palperlon in seiner Verkleidung ganz wie
 eine Frau aussah.
 
@@ -1732,7 +1737,7 @@ auf und ab wandert.
 
 Harst warf mir einen Blick zu — einen Blick! Darin
 las ich: »Vielleicht ist’s meine Mutter! Und ich — ich
-muß hier erstickten!«
+muß hier ersticken!«
 
 Vielleicht waren’s diese Schritte, die uns Riesenkräfte
 verliehen! Ich winkte Harst mit dem Kopf zu. Ein neuer
@@ -1769,7 +1774,7 @@ Stimmen; dann — lautes Rufen:
 — Harst?«
 
 Und gleich darauf flog auch die Küchentür auf. Der
-Portier trat ein, prallte zurück!, ließ die Tür weit offen, damit
+Portier trat ein, prallte zurück, ließ die Tür weit offen, damit
 das Gas abzog, drehte die Drahtschlingen auf.
 
 Harst war als erster frei, lief hinaus. Ich folgte — und
@@ -1787,16 +1792,16 @@ irgendwie Lärm schlage und nicht blindlings gehorche; es
 handele sich lediglich um eine Erpressung, und sie würde doch
 nicht aus Geiz ihres Sohnes Leben aufs Spiel setzen wollen.
 
-— Die Aermste hatte in ihrer Angst dann alles getan, was
+— Die Ärmste hatte in ihrer Angst dann alles getan, was
 von ihr verlangt wurde. Erst in der Nacht war sie in einem
 Auto nach dem Atelierhause geschafft und dort in ein kleines
 Zimmer eingesperrt worden, dessen einziges Fenster mit Vorhängen
 und darüber mit Kistendecken verschlossen war. Man
 hatte sie im allgemeinen gut behandelt. Zudem lebte in ihr
 auch eine geringe Hoffnung, daß die Worte in der Gemme
-Harald es erleichtern würden sie zu finden.
+Harald es erleichtern würden, sie zu finden.
 
-In derselben Nacht als wir dem Tode entronnen waren,
+In derselben Nacht, als wir dem Tode entronnen waren,
 und Frau Harst ihre Freiheit wiedererlangt hatte, saßen wir
 dann noch eine Weile in Harsts Arbeitszimmer und erholten
 uns von den Schrecken der letzten Stunden bei einer Flasche
@@ -1817,7 +1822,7 @@ Dich!«
 
 Und das hatte wie ein Schwur geklungen. —
 
-Karl Malke erhielt von Harst ein Sparbuch mit 25000
+Karl Malke erhielt von Harst ein Sparbuch mit 25 000
 Mark geschenkt. Aber — er freute sich darüber gar nicht so
 übermäßig. Nein — er bat vielmehr, Harst möchte ihn doch
 lieber einmal bei »einer neuen Arbeit« mit ins Ausland nehmen;

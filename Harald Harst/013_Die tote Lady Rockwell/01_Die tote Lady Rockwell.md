@@ -292,7 +292,7 @@ die seinem Riechorgan die Knollenform verliehen hatten, entfernte
 den falschen Bart und die Perücke und zeigte uns so ein
 völlig unbekanntes, jetzt natürlich ganz verändertes Gesicht.
 
-Mit ironischer Ueberhöflichkeit verbeugte er sich vor Harst
+Mit ironischer Überhöflichkeit verbeugte er sich vor Harst
 und sagte:
 
 »Sie gestatten daß ich mich vorstelle: Reginald Wallace,
@@ -543,7 +543,7 @@ Wallace war tot. Achmed (Gott weiß ob sie wirklich so
 hießen!) hatte einen Bauchschuß und starb gleichfalls später.
 Nur der Mischling blieb am Leben und kam mit einer kurzen
 Gefängnisstrafe gnädig ab, wie Greazer an Harst nach Wochen
-schrieb. Ueber Warbatty hatte der Maschinist jedoch nichts
+schrieb. Über Warbatty hatte der Maschinist jedoch nichts
 <@pagebreak/>
 angeben können. Er war nur von Wallace für die eine Fahrt
 durch eine hohe Geldsumme angeworben worden.
@@ -976,7 +976,7 @@ zu meiner Unterstützung.«
 
 <@pagebreak/>
 »Ganz verständlich,« nickte Harst. »Jeder muß wissen,
-was er kann. — Uebrigens wollte ich auch gar nicht Ihnen,
+was er kann. — Übrigens wollte ich auch gar nicht Ihnen,
 sondern dem Lord helfen. Und dazu brauche ich Ihre Erlaubnis
 nicht. Sollten Sie mir aber hier dadurch Schwierigkeiten
 machen, daß Sie oder Ihre beiden Beamten da verraten, wer
@@ -1087,7 +1087,7 @@ Harst legte ihm jetzt mitfühlend die Hand auf den Arm.
 »Mylord,« sagte er weich, aber tief ernst, »so leid es mir
 tut: gewöhnen Sie sich an den Gedanken, daß Ihre Frau Ihrer
 nie würdig war — nie! Reißen Sie ihr Bild aus Ihrem
-Herzen; wappnen Sie sich beizeiten gegen furchtbare Ueberraschungen,
+Herzen; wappnen Sie sich beizeiten gegen furchtbare Überraschungen,
 die auf Sie einstürmen werden!«
 
 »Mein Gott — was — heißt das —«
@@ -1269,7 +1269,7 @@ eines indischen Giftes bis nach ihrer Beisetzung im
 Starrkrampf, wird dann aus dem Sarge schleunigst herausgeholt,
 in den man die andere gefärbte Tote hineinlegt und
 den man wieder verlötet und verschließt, nachdem man —
-und das ist meine feste Ueberzeugung — gleichzeitig die Termiten
+und das ist meine feste Überzeugung — gleichzeitig die Termiten
 in den Zinkeinsatz hineingetan und die Löcher für die
 Tierchen hergestellt hat. — Ellinor verbirgt sich bei Rouvier,
 zeigt sich dann aber absichtlich auf der Straße in den späten
@@ -1387,7 +1387,7 @@ noch gut erhalten. Es ist mein armes Kind. Jeder Zweifel
 ist jetzt ausgeschlossen. Und die, denen Ellinor nach ihrem
 <@pagebreak/>
 Tode noch begegnet sein soll, haben sich entweder durch eine
-entfernte Aehnlichkeit täuschen lassen oder — vielleicht liegt
+entfernte Ähnlichkeit täuschen lassen oder — vielleicht liegt
 auch Böswilligkeit vor. — Nochmals Mylord, — verzeihen
 Sie mir —« Schluchzen erstickte seine Stimme.
 
