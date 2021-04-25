@@ -61,7 +61,7 @@ genommen und unvermittelt gesagt:
 die Buchstabenreihe glatt herunterlesen.«
 
 Und da hatten Mocrisam und ich Harald überrascht angeschaut.
-Aus der Ueberraschung wurde Spannung, bis
+Aus der Überraschung wurde Spannung, bis
 Harst dann fortfuhr:
 
 »Lesen Sie bitte erst mal den ersten, dritten, fünften
@@ -103,7 +103,7 @@ Der kleine Professor reichte Harald dann das Blatt.
 Aufzeichnungen, bester Harst?«
 
 »Ich halte sie für sehr wichtig. Sie wissen ja, daß
-Stuart Jefferson im Frühjahr in Aegypten war —«
+Stuart Jefferson im Frühjahr in Ägypten war —«
 
 »Aha — Sie denken, er hat in der Oase Tschamra
 etwas entdeckt, vielleicht in den Ruinen der uralten Tempel
@@ -121,7 +121,7 @@ Gedanken?!«
 
 »Weil Sie mir heute früh einen Brief zeigten, den
 Stuart an Sie geschrieben hat, und weil seine Handschrift
-mit der auf diesem Blatt nicht die geringste Aehnlichkeit
+mit der auf diesem Blatt nicht die geringste Ähnlichkeit
 besitzt.«
 
 Mocrisam lachte und tippte sich auf die Stirn.
@@ -885,7 +885,7 @@ Neulinge, mein Alter! Das sind gewiegte Verbrecher, diese
 Verbündeten der schönen Frau Daisy!«
 
 »Vielleicht kann man die Eisentüren doch irgendwie
-öffnen,« meinte ich halb gegen meine Ueberzeugung.
+öffnen,« meinte ich halb gegen meine Überzeugung.
 
 »Nein — ohne Dietriche nicht! Das ist solide Arbeit.«
 Und er setzte sich auf die zweite Treppenstufe, faßte in die
@@ -919,7 +919,7 @@ Wir sind der Bande am gefährlichsten. Er wird
 jedoch nicht eher in unsere Zimmer sich hineinwagen, bis
 er überzeugt ist, daß wir beide nicht Verdacht geschöpft haben,
 es könnte der Bettler sich jetzt im Schlosse befinden.
-Und diese Ueberzeugung, daß eine Durchsuchung des ganzen
+Und diese Überzeugung, daß eine Durchsuchung des ganzen
 Schlosses nicht erfolgen würde, mußte er in demselben
 Moment gewinnen, wo Mocrisam uns vom Fuße der Haupttreppe
 aus ein »Gute Nacht« nachrief. Da erst ist der Mensch
@@ -1003,7 +1003,7 @@ Gang nach den Kellern zwei eiserne, verschließbare
 Türen eingefügt haben?! Erscheint Dir das nicht recht unsinnig?
 Was sollen in einem so tadellos versteckt angelegten
 Geheimweg zwei starke Eisentüren?! Hast Du je etwas
-Aehnliches gefunden? Wir kennen doch viele Schlösser mit
+Ähnliches gefunden? Wir kennen doch viele Schlösser mit
 solchen verborgenen Ausgängen. Noch nie haben wir
 aber —«
 
@@ -1108,7 +1108,7 @@ waren wir beide überzeugt, daß die Diebesbande ihn
 betäubt hatte.
 
 Aber — er meldete sich sofort, hüllte sich dann in einen
-Schlafrock und folgte uns, bleich vor Aerger über den
+Schlafrock und folgte uns, bleich vor Ärger über den
 Raub der kostbaren alten Schmuckstücke, die in ihrer Art
 unersetzlich waren. Nach zehn Minuten entdeckten wir Lingfu
 und Jupiter in einer Kammer neben der Küche — gebunden
@@ -1146,7 +1146,7 @@ zugezogen hatte.
 Harst riet Mocrisam dann, die Plünderung des Museums
 vorläufig geheim zu halten. — »Ich hoffe bestimmt,
 die ganze Bande abzufassen,« fügte er hinzu. »Wenn jedoch
-die Sache an die Oeffentlichkeit kommt —« — Er
+die Sache an die Öffentlichkeit kommt —« — Er
 schwieg ein paar Sekunden. »Nein,« erklärte er nun. »Sie
 müssen der Polizei doch Meldung erstatten. Nur von dem
 unterirdischen Gang und davon, daß Schraut und ich frei
@@ -1274,7 +1274,7 @@ gehen. Wahrscheinlich werden wir sie übermorgen Nacht
 erreichen, was durchaus meinen Absichten entspricht. Es
 kommen nur sehr selten Touristen dorthin. Würden wir am
 hellen Tage auf die Oase zureiten, dann könnten wir leicht
-unangenehme Ueberraschungen erleben. Nachts aber ist uns
+unangenehme Überraschungen erleben. Nachts aber ist uns
 die Möglichkeit gegeben, unbemerkt Daisy Steenhoope und
 ihre Freunde zu beschleichen und festzunehmen. So, jetzt wollen
 wir wieder aufbrechen —«

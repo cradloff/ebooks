@@ -148,7 +148,7 @@ Harst,« sagte Röbel noch und schloß die Tür. Das von
 einem Kreise von Neugierigen umlauerte Auto fuhr
 davon. —
 
-Dann die große Ueberraschung:
+Dann die große Überraschung:
 
 Harst sagte ganz gemütlich zu unserem Bewußtlosen:
 »So, mein gelber Junge, nun kannst Du lebendig
@@ -222,7 +222,7 @@ Harst und somit Polizei nicht so viel fragen —«
 »Ja, und als ich mich dann über Dich beugte,«
 meinte Harald lächelnd, »da flüstertest Du: »Tscho leben
 noch. Nur Rippe blutet, weil Dolch an Geld abgleiten
-—« — Das war auch für mich eine ziemliche Ueberraschung,
+—« — Das war auch für mich eine ziemliche Überraschung,
 mein Junge! — Aber gestatte nun mal eine
 Frage: an was für Geld ist denn die Klinge abgeglitten?«
 
@@ -241,7 +241,7 @@ nur die Haut geritzt?« fragte Harald.
 
 »Na, den Schnitt näht Dir der Hausarzt meiner
 Mutter bald zusammen,« tröstete Harst. »Ich will Dir
-nun auch eine kleine Ueberraschung bereiten: der Pappkarton
+nun auch eine kleine Überraschung bereiten: der Pappkarton
 mit den antiken Krügen und Tellern ist von
 demselben Manne gestohlen worden, der Dich ermorden
 wollte.«
@@ -405,7 +405,7 @@ und gab zu, heute mittag erst aus Hamburg zurückgekehrt
 zu sein, schwor aber hoch und heilig, den Karton
 nicht gestohlen zu haben. Ich machte der Sache ein Ende,
 indem ich ihn mit zu dem Juwelier Modler nahm. Und
-Modler erklärte: »Er ist’s. Sowohl das Aeußere als
+Modler erklärte: »Er ist’s. Sowohl das Äußere als
 <@pagebreak/>
 auch die heisere, leise Stimme erkenne ich wieder.« —
 Nur die Verkäuferin Modlers war im Zweifel, ob Weng
@@ -506,7 +506,7 @@ Und Stettenborn meinte nun leicht ironisch:
 
 »Es war sehr richtig von Röbel, daß er Ihnen
 nicht mitteilte, wen Sie bestohlen haben, Herr Doktor
-Weng. Diese Ueberraschung wollte er mir vorbehalten.
+Weng. Diese Überraschung wollte er mir vorbehalten.
 Und — sie ist geglückt. Nicht wahr — hätten Sie gewußt
 daß Sie ausgerechnet an dem Eigentum des bekanntesten
 Liebhaberdetektivs sich vergreifen wollten, dann
@@ -612,7 +612,7 @@ Worauf Stettenborn ihn fragend ansah und Harst
 nun erklärte: »Schade, daß ich mich so getäuscht habe!«
 
 Stettenborn entging der Doppelsinn dieser Bemerkung.
-Mir entging er nicht. Aber — was diese Aeußerung
+Mir entging er nicht. Aber — was diese Äußerung
 sollte, verstand ich trotzdem nicht. —
 
 Gleich darauf hatte Doktor Weng zu Protokoll gegeben,
@@ -1133,7 +1133,7 @@ ich mich an die Zeitungsnotiz und an jene grauhaarige
 Frau, deren Mantille mir recht geeignet schien, einen
 kostbaren Kelch darunter verwinden zu lassen.«
 
-Ueber Doktor Wengs frisches Gesicht lief ein
+Über Doktor Wengs frisches Gesicht lief ein
 Lächeln hin. — »Weiter bitte,« sagte er mit einem Kopfnicken,
 das mir recht ironisch vorkam.
 

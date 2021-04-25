@@ -8,7 +8,7 @@ gibt.
 Wir hatten die Dschama Masdschid soeben zum dritten
 Male auch innen besichtigt. Zum dritten Male, und doch
 waren wir genau so hingerissen von der Wirkung dieser
-Ueberfülle von architektonischer Schönheit wie beim ersten
+Überfülle von architektonischer Schönheit wie beim ersten
 Mal. Wir standen jetzt und schauten zurück auf diesen großartigen
 Prachtbau, nahmen stumm Abschied davon, denn am
 anderen Morgen wollten wir weiter nach Norden, nach Nepal
@@ -178,7 +178,7 @@ gebracht. —
 
 Gegen zehn Uhr abends durchfuhren wir die drittletzte
 Station vor Madras, ein armselige Städtchen. Es war bereits
-dunkel. Ueber uns stand ein Gewitter, das dann einen
+dunkel. Über uns stand ein Gewitter, das dann einen
 wahren Wolkenbruch herabsandte. Es regnete derart, wie es
 eben nur in den Tropen regnen kann. Unser Lokomotivführer
 mäßigte jetzt die Geschwindigkeit. Bei solchen Wolkenbrüchen
@@ -407,7 +407,7 @@ ließ, ehe er uns mitzufahren erlaubte, — alles war schlau berechnet.
 Ich schäme mich tatsächlich, daß mir dieser »Zufall«
 nicht verdächtig vorkam, daß gerade ein Händler aus Madras
 auf dem entlegenen Grundstück eingekehrt war. Und auch
-nachher der Ueberfall auf uns! Dieser Trick mit dem schweren
+nachher der Überfall auf uns! Dieser Trick mit dem schweren
 Sack, den der Kerl mir auf den Schoß warf —! — Mein
 Alter, wir stecken hier in einer bösen Patsche. Wenn es uns
 nicht gelingt, sehr bald freizukommen, dann — dann gebe ich
@@ -420,7 +420,7 @@ Kannst Du es? Meine beiden Haken vermag ich mit den
 Fingern nicht zu erreichen.«
 
 Ich drehte die Hände in den Schlingen. Ja — ich konnte
-die starken Haken, durch deren geschlossene Oesen die Riemen
+die starken Haken, durch deren geschlossene Ösen die Riemen
 durchgezogen waren, mit den Händen umspannen.
 
 »Rüttele daran!« sagte Harst nun. »Packe recht bequem
@@ -615,7 +615,7 @@ ruhte ein paar Sekunden auf uns.
 
 Harst hatte dem Lord schon verstohlen ein Zeichen gegeben.
 Wolpoores Mienen veränderten sich. Aber er tat trotz
-der freudigen Ueberraschung über unsere Ankunft ganz so,
+der freudigen Überraschung über unsere Ankunft ganz so,
 als hielte er uns wirklich nur für chinesische Kulis, fragte
 <@pagebreak/>
 barsch nach unserem Begehr und sagte dann, wir sollten im
@@ -825,7 +825,7 @@ Rückstände auf diese Weise entfernt hat!« fügte er meinen
 Worten voller Eifer hinzu. »Mithin konnte der Doktor Maxwell
 nichts von Chemikalien mehr auf dem Papier feststellen!
 Mithin konnte die Inschrift auch nicht mehr erscheinen! —
-Aber — gehen wir weiter. — Ueberlege Dir mal folgendes,
+Aber — gehen wir weiter. — Überlege Dir mal folgendes,
 mein Alter. Wolpoore ruft den Detektiv Marbodly herbei.
 Dieser ist Blindleys rechte Hand, sein Vertrauter, in der Tat
 ein sehr befähigter Mensch. Wir kennen ihn ja von früher
@@ -858,7 +858,7 @@ sie lockern konnten? — Weiter noch: meinst Du, daß sie uns
 den Inhalt unserer Taschen belassen hätten, wenn sie ernstlich
 die Absicht gehabt hätten, uns umzubringen? — Nein,
 mein Alter, — diese Gefangennahme und diese Fesselung waren
-meiner Ueberzeugung nach Spiegelfechterei. Genau so wie
+meiner Überzeugung nach Spiegelfechterei. Genau so wie
 nachher die Flucht der Kerle im Wagen. Ich wette: sie saßen
 auf dem Karren und wußten, daß wir sehr bald vor der Haustür
 erscheinen würden! Dann erst flohen sie, damit sie den Eindruck
@@ -1036,7 +1036,7 @@ so unsicher hinsichtlich der Beurteilung dieses unseres
 jetzigen Falles machen, wie ich selbst es bin. Erweist sich etwas
 als falsch, dann — begreife ich nichts mehr — nichts!
 Dann fehlt jedes Motiv für die nachfolgenden beiden Ereignisse:
-für die drohende Inschrift und unsere Ueberrumpelung.«
+für die drohende Inschrift und unsere Überrumpelung.«
 
 »Ah!« meinte ich schnell. »Du hast Dich jetzt verraten.
 <@pagebreak/>
@@ -1115,7 +1115,7 @@ Lydia Faringdall benutzte.
 Harst brach dann sehr bald auf. — »Master Tompsen,«
 sagte er zu dem liebenswürdigen Polizeichef, »ich glaube,
 dieser Mord und ebenso die Inschrift auf der Karte des Indischen
-Ozeans werden uns noch recht eigenartige Ueberraschungen
+Ozeans werden uns noch recht eigenartige Überraschungen
 bringen. Die Thugs, die hier an der Arbeit waren,
 sind Leute von besonderer Intelligenz, denen man nicht so
 leicht wird beikommen können.«
@@ -1327,7 +1327,7 @@ irgendwie noch zu beunruhigen. Ich bin überzeugt, es gibt
 keine Thugs mehr, die sich in Freiheit befinden und Ihnen
 nachstellen könnten. Ich glaube vielmehr, daß die Mörder
 Campells lediglich die Polizei und Ihre Detektive durch
-die Inschrift und durch den Ueberfall auf uns irreführen
+die Inschrift und durch den Überfall auf uns irreführen
 wollten. Es sollte der Eindruck erweckt werden, Thugs seien
 hier am Werke. Dann konnten die wahren Täter desto gelassener
 die polizeilichen Ermittlungen abwarten. — Das ist
@@ -1432,7 +1432,7 @@ Thugs gespielt haben?! He — weshalb wohl?!«
 »Oh — das kann ich Ihnen genau sagen. Zunächst war
 mir das Motiv für diese schändlichen Manöver allerdings unklar.
 Dann aber sah ich ein Extrablatt des »Madras-Journal«,
-auf dem als Ueberschrift stand:
+auf dem als Überschrift stand:
 
 > Entlassung von 500 Arbeitern der Union-Werft wegen
 Arbeitsmangel! Unruhen im Eingeborenenviertel.
@@ -1447,13 +1447,13 @@ Diese Entlassung aus einer Stellung, die so tadellos
 bezahlt wurde und dabei so angenehm war, wollten Sie
 beide vereiteln, indem Sie — die Thugs wieder heraufbeschworen!
 Wolpoore sollte wieder in die alte Angst versetzt
-werden! Deshalb die erste Inschrift, deshalb der Ueberfall
+werden! Deshalb die erste Inschrift, deshalb der Überfall
 auf uns, deshalb jetzt das zweite »Rätsel des Indischen
 Ozeans«! — Leugnen Sie nicht, Marbodly! Wo waren Sie
 und Harrison denn vorgestern nacht?«
 
 Marbodlys Gesicht war fahl geworden. Auch Harrison
-machte ganz den Eindruck eines überführten Uebeltäters.
+machte ganz den Eindruck eines überführten Übeltäters.
 
 »Sie und Harrison waren vorgestern nacht beurlaubt,«
 fuhr Harst fort. »Das hat mir gestern abend Blindley auf

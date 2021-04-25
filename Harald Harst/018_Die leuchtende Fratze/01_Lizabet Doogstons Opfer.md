@@ -12,7 +12,7 @@ Bahnstation an der Strecke nach Amritsar gefahren und
 hatten den Nachtzug bestiegen, in dem unser Freund Major
 Marconnay für uns eine Schlafwagenkabine unauffällig belegt
 hatte. — Ich war recht enttäuscht über diesen Ausgang
-unseres Abenteuers auf oder besser unter dem Gorannahügel;
+unseres Abenteuers auf oder besser unter dem Goranna-Hügel;
 ich hatte erwartet, Harst würde so manches, was bei diesem
 Attentat auf den Gubdu-Stein noch unklar war, schließlich
 doch noch aufzuklären suchen, insbesondere sich eingehender
@@ -128,7 +128,7 @@ nämlich ein ganz deutlich erkennbares deutsches E. Dieser
 Buchstabe ist für unsere deutsche Schrift charakteristisch. Da
 er nur ganz geringe Anlehnung an die lateinische als die Vorgängerin
 der deutschen zeigt. Das lateinische E und das
-deutsche E besitzen nicht jene Uebereinstimmung in der
+deutsche E besitzen nicht jene Übereinstimmung in der
 <@pagebreak/>
 Führung der Hauptlinien, wie zum Beispiel das lateinische F
 oder das deutsche F, und so weiter.
@@ -179,14 +179,14 @@ hatte, was später auf den Positiven als dunklere Linien
 erscheinen sollte.
 
 Da war zuerst eine Aufnahme einer Parkpartie mit vier
-abgestorbenen entblätterten Bäumen links in der Ecke. In
+abgestorbenen, entblätterten Bäumen links in der Ecke. In
 <@pagebreak/>
 das Astwerk dieser Bäume war der Satz in lateinischen Buchstaben
 hineingezaubert:
 
 Werde Ihnen beistehen. Weiteres folgt.
 
-Dann seine Aufnahme eines Kistenstapels am Hafenkai.
+Dann eine Aufnahme eines Kistenstapels am Hafenkai.
 Hier waren in die Signaturen der Kistenwände wieder einige
 Worte hineingemogelt:
 
@@ -264,7 +264,7 @@ alte Baroda ist, mit Verlaub zu sagen, ein elendes Drecknest.
 * * *
 
 Im Erdgeschoß lag des Turbankünstlers Laden. Die
-Tür war verschlossen und einen zweiten Eingang gab es
+Tür war verschlossen, und einen zweiten Eingang gab es
 nicht. — Während ich noch gegen die Tür hämmerte, vernahm
 ich auf dem Kanal eilige Ruderschläge und das Quietschen von
 hölzernen Ruderdollen. Ich schaute mich um und gewahrte
@@ -286,19 +286,19 @@ haben. Dies machte mir Mut, so etwas auf eigene
 Faust dem Boote nachzuspüren. Das Holzgestell mit meinen
 zwei Warenballen, das ich auf dem Rücken trug, stellte ich jetzt
 in eine Ecke des Vorbaus und schlich nach dem Kanal hinüber,
-legte mich lang hin und versuchte etwas von der Wasserpforte
+legte mich lang hin und versuchte, etwas von der Wasserpforte
 zu erspähen. Es war jedoch so dunkel, daß ich nichts als eine
 fortlaufende Reihe dicker Balken undeutlich erkannte. — Ich
 wollte mich gerade wieder aufrichten, als dicht vor mir von
 der Oberfläche des Kanals eine Stimme leise rief:
 
 »Verschwinde gefälligst, lieber Alter. Du bist im Begriff,
-die Geschichte hier gründlich zu verderben. Mach, daß Du ins
+die Geschichte hier gründlich zu verderben. Mach’, daß Du ins
 Haus kommst. Links an der Wand neben der Tür ist ein
 Glockenzug in den Ranken der Kletterrosen —«
 
 Harst! — Aber — nur sein Kopf ragte über das übelduftende
-Wasser hinaus wurde jetzt auch schnell undeutlicher und
+Wasser hinaus, wurde jetzt auch schnell undeutlicher und
 tauchte in der Dunkelheit des jenseitigen Ufers unter. —
 
 Gleich darauf hatte ich den Griff der Zugglocke gefunden,
@@ -316,7 +316,7 @@ hinein. Ich stand in tiefstem Dunkel, hörte das Rauschen von
 Frauengewändern und das Zuschnappen eines Schlosses. Dann
 wurde von einer Petroleumlaterne ein Tuch entfernt. Der
 rötliche Lichtschein glitt über mich hinweg, und die Trägerin
-der Laterne flüsterte: »Kommen Sie Master Schraut —«
+der Laterne flüsterte: »Kommen Sie, Master Schraut —«
 
 Ich folgte der Frau. Es war wirklich Lizabet Doogston,
 die unglückliche Gattin des Mannes, den wir seit Monaten
@@ -333,7 +333,7 @@ Doogston klemmte sich zwischen diesen und der Wand hindurch,
 mich so in den Hof des Nachbargrundstücks und dann in ein
 verfallenes Häuschen, das unbewohnt zu sein schien. Ich
 war daher recht überrascht als sie mich nun im Erdgeschoß
-linker Hand in ein Zimmer einließ das ganz wohnlich hergerichtet
+linker Hand in ein Zimmer einließ, das ganz wohnlich hergerichtet
 war. Eine große Petroleumlampe brannte auf einem
 sauber gedeckten Tische, auf dem allerlei kalte Speisen standen.
 
@@ -345,7 +345,7 @@ Ihr Abendbrot bereit. Langen Sie zu. Ich wußte, daß ich
 Sie um diese Zeit erwarten durfte. Herr Harst hatte es mir
 signalisiert —«
 
-Die Aermste sah wirklich entsetzlich verfallen aus. In
+Die Ärmste sah wirklich entsetzlich verfallen aus. In
 Amritsar war sie noch eine leidlich blühende Frau gewesen.
 Jetzt machte sie einen geradezu greisenhaften Eindruck.
 
@@ -359,7 +359,7 @@ Nächte der Angst und Sorge liegen hinter mir. Ich bin am
 Rande meiner Kräfte. Es muß ein Ende werden mit alledem
 — so oder so!«
 
-»Was ist denn geschehen?« fragte ich vollständig verwirrt
+»Was ist denn geschehen?« fragte ich, vollständig verwirrt
 von diesem jammervollen Aufschrei einer gepeinigten
 Frauenseele und den mir unverständlichen Andeutungen.
 
@@ -409,7 +409,7 @@ bereit, notierte nun durch Punkte und Striche die Aufeinanderfolge
 der langen und kurzen Lichtzeichen. — Dann waren
 wir wieder unten in dem bescheidenen Zimmer. Ich half, die
 Buchstaben des Morsealphabets ins Englische zu übertragen.
-Bald war die Arbeit erledigt — Harsts Nachricht lautete:
+Bald war die Arbeit erledigt. — Harsts Nachricht lautete:
 
 »Mut! Zuversicht! Und Geduld! — Schraut soll um
 2 Uhr morgens an der Westecke der Parkmauer des Nazar
@@ -425,7 +425,7 @@ der Juwelen der Fürstenfamilie benutzt, deren Wert auf
 70 Millionen Mark geschätzt ist. Auch dies hatte mir das
 Reisehandbuch verraten. —
 
-Da es mittlerweile ½ 1 Uhr geworden, zwang Frau Doogston
+Da es mittlerweile ½1 Uhr geworden, zwang Frau Doogston
 mich nun, noch ein paar Bissen zu mir zu nehmen. Dann
 geleitete sie mich wieder durch das Grundstück des Turbanmachers
 auf die Straße, drückte mir nochmals stumm die
@@ -444,7 +444,7 @@ ja die ganze, sonst völlig ebene Stadt. Zweimal kamen
 mir Polizeipatrouillen entgegen. Ich verbarg mich vor ihnen
 in tiefen Torbögen. Die Polizei in Baroda wird von den Engländern
 geleitet. Bezahlen muß sie der Gaekwar (Fürst;
-wörtlich übersetzt heißt Gaekwar seltsamerweise Kuhhirt
+wörtlich übersetzt heißt Gaekwar seltsamerweise Kuhhirt.
 Freilich sind in dem Staate Baroda mit seiner hochentwickelten
 Viehzucht die Kuhhirten seit Jahrhunderten nur Brahmanen,
 also Zugehörige der vornehmsten Kaste). — Als ich
@@ -492,12 +492,12 @@ hinter ihm. Bald hatten wir eine Anhöhe erklommen, von
 der wir über die Mauer in den Park hineinsehen konnten.
 
 Der Mond hatte seine Wolkenschleier gelüftet und zeigte
-uns sein strahlend\-freundliches Gesicht. So konnte ich denn
+uns sein strahlend-freundliches Gesicht. So konnte ich denn
 auch wahrnehmen, daß die etwa vier Meter hohe Parkmauer
 an der Innenkante ein schräges spitzes Gitter besaß, das sehr
 stark und dauerhaft zu sein schien. — Ich bemerkte aber jenseits
-der Mauer an einer vom Monde hell beschienenen Lichtung
-noch etwas: schlanke, schmale, große Tierkörper die
+der Mauer auf einer vom Monde hell beschienenen Lichtung
+noch etwas: schlanke, schmale, große Tierkörper, die
 mit katzenartigen Bewegungen eine bestimmte Stelle umschlichen.
 
 »Tiger,« sagte Harst leise. »Der Gaekwar läßt seine
@@ -507,7 +507,7 @@ Parkmauer sind alle fünfzig Schritt Warnungstafeln angebracht:
 — Nun — so schlimm ist’s nicht, wenn man vorsichtig
 ist. Ich war ja soeben auf jener Lichtung und habe erst
 einen, dann noch einen zweiten frisch geschlachteten Hammel
-dort niedergelegt um die lieben Tierchen für seine Weile zu
+dort niedergelegt, um die lieben Tierchen für seine Weile zu
 beschäftigen. Wie Du siehst, haben sich fünf der Tiger bereits
 um das leckere Mahl versammelt. Der sechste wird durch den
 Blutgeruch auch bald angelockt werden. — Ich denke, wir
@@ -691,7 +691,7 @@ ist ja leider zu Ende. Es wird Zeit, daß wir wieder nach
 Berlin kommen. Ich sehne mich geradezu nach Berliner Luft.
 — Also Shesney erwartet uns, auch Dich. Sein Heim liegt
 im neuen Stadtteil am Bahnhof. Wir sind sehr bald angelangt.
-— Uebrigens: hast Du das Päckchen geöffnet, das der
+— Übrigens: hast Du das Päckchen geöffnet, das der
 spionierende Kellner, der natürlich von Palperlon bestochen
 war, Dir auf dem Theseus überreichte?«
 
@@ -702,7 +702,7 @@ Dich adressiert.«
 liegt. Hast Du es in Deine Händlerballen mit eingepackt? —
 Ja? Nun — rühre es nicht an. Man kann nie wissen, was
 drin ist. Ich möchte es selbst öffnen. Jedenfalls ist es natürlich
-plumber Schwindel, daß in unserem Zimmer etwas
+plumper Schwindel, daß in unserem Zimmer etwas
 liegen geblieben sein soll. Ich kenne Dich doch. Du packst
 sorgfältiger als ich. — So — da wären wir —«
 
@@ -729,7 +729,7 @@ was er hier in Baroda vorhat.«
 »Nicht möglich,« meinte der Inspektor. »Dann können
 wir uns ja gegenseitig trösten. — Nur etwas ist mir bekannt,
 was auch Sie noch nicht wissen dürften: daß mein Kollege,
-der Polizeiinspektor Orkney, jede Nacht um ½ 12 der
+der Polizeiinspektor Orkney, jede Nacht um ½12 der
 von Harst in dem unbewohnten Häuschen untergebrachten
 <@pagebreak/>
 Dame ein paar Worte oder Sätze vom Dache der Polizeiwache
@@ -757,7 +757,7 @@ gewohnt bin. — Er langte nach einer Zigarette. Nach den
 ersten Rauchwölkchen sagte er dann:
 
 »Lieber Shesney, die Stunde ist da, wo ich Ihnen und meinem
-Freunde Schraut einen Ueberblick über das geben will,
+Freunde Schraut einen Überblick über das geben will,
 was ich hier jetzt als »neuen Fall« bearbeite. Ich bemerke
 jedoch im voraus: viel ist es nicht, was ich an Tatsachen vor
 Ihnen ausbreiten kann. Ich betone: an Tatsachen! Denn —
@@ -776,7 +776,7 @@ Auftrage schickte, worin ich Sie bat, sehr sorgfältig in
 nächster Zeit auf alles zu achten, was sich hier in Baroda nur
 irgendwie Auffälliges ereignen sollte, und als Sie mir dann
 Ihren Kollegen nach Bombay sandten mit der Mitteilung, daß
-man den alten, in Nazar Bagh-Palast seit vielen Fahren wohnenden
+man den alten, in Nazar Bagh-Palast seit vielen Jahren wohnenden
 Pförtner morgens tot im Parke des Palastes neben
 einer ausgewachsenen Kobra gefunden hätte, die ihn mehrfach
 in das Bein gebissen und der er dann den Kopf mit einem
@@ -793,7 +793,7 @@ wenig ausrotten, wie in Europa die Gewitter verscheuchen.
 Mein Vergleich mag etwas gewaltsam sein. Aber ich finde
 keinen besseren.«
 
-»Hm — in Europa oder doch jedenfalls in Deutschland
+»Hm — in Europa, oder doch jedenfalls in Deutschland
 würde man aber eine aufgefundene Leiche sehr genau daraufhin
 untersuchen, ob auch wirklich ein Blitz die Todesursache
 war, denn — Todesursachen lassen sich vortäuschen!«
@@ -811,18 +811,18 @@ den Kopf der Kobra ausgegraben, und ich habe soeben dessen
 Giftdrüsen untersucht, die bekanntlich nur prall gefüllt sind,
 wenn das Reptil längere Zeit die Giftzähne nicht benutzt hat.
 Und diese Giftdrüsen sind bei der hier in Frage kommenden
-Kobra wie ich feststellte, wirklich prall gefüllt. Mithin kann
+Kobra, wie ich feststellte, wirklich prall gefüllt. Mithin kann
 diese Kobra niemals den alten Schan Bera viermal ins Bein
 gebissen und seinen Tod verschuldet haben. Die Bißstellen
 sind vielmehr künstlich hervorgerufen, das heißt, man hat den
-Greis überfallen am Schreien verhindert und ihn mit vergifteten
+Greis überfallen, am Schreien verhindert und ihn mit vergifteten
 Nadeln in das Bein gestochen, hat ihn auch so lange festgehalten,
 bis das Gift gewirkt hatte. Die Kobra wurde nur
 zum Schein neben den Toten gelegt. Aber der oder die Mörder
 begingen den Fehler, eine Kobra zu benutzen, die wie erwähnt
-prall gefüllte Giftdrüsen hatte. — So muß der Mord
+prall gefüllte Giftdrüsen hatte. — So *muß* der Mord
 verübt worden sein. — Wie ich überhaupt Verdacht geschöpft
-habe daß ein solcher vorliegen könnte? — Sehr einfach,
+habe, daß ein solcher vorliegen könnte? — Sehr einfach,
 bester Shesney: weil das Gift einer Kobra nicht so schnell
 wirkt, daß es Schan Bera nicht mehr möglich gewesen wäre,
 bis vor den Palast zu eilen und Leute herbeizurufen, die ihm
@@ -920,7 +920,7 @@ Niemand sollte ahnen, daß noch eine Verbindung
 zwischen uns bestand. So kam ich auf den Gedanken der
 <@pagebreak/>
 Vexierphotos.« — Er erklärte Shesney diese Art von geheimer
-Nachrichtenübermittlung und der Inspektor war ganz begeistert
+Nachrichtenübermittlung, und der Inspektor war ganz begeistert
 davon.
 
 »Frau Doogston, der ich die Bilder ins Hotel als gewöhnlichen
@@ -966,15 +966,15 @@ Graben stammt noch aus der Zeit, als die Fürsten von
 Baroda über die ganze Provinz Gudscharat herrschten.« Dann
 sprang er von seinem Sessel auf und stellte sich vor Harst hin.
 
-»Bester Harst,« sagte er leise, aber sichtlich sehr erregt.
-»Sie meinen dieser Palperlon beabsichtigt einen Anschlag auf
+»Bester Harst,« sagte er leise, aber sichtlich sehr erregt,
+»Sie meinen, dieser Palperlon beabsichtigt einen Anschlag auf
 die Familienschätze des Gaekwar. Ist’s nicht so?«
 
 »Ich weiß es nicht bestimmt, Shesney. Wir werden aber
 wohl bald Gewißheit haben.« — Er gähnte recht ungeniert.
 »Ich bin müde, Shesney. Auch Schraut wird der Schlaf nötig
 sein. — Morgen abend treffen wir uns wieder vor dem Mauerwinkel,
-aber bereits um ¾ 10, und zwar oben zwischen den
+aber bereits um ¾10, und zwar oben zwischen den
 Felsen.« — Gleich darauf führte der Inspektor mich durch den
 Garten nach einer engen Seitengasse. Ich gelangte dann unangefochten
 bis zu dem Hause des Turbanmachers, läutete
@@ -991,7 +991,7 @@ wünschte mir sehr niedergeschlagen eine gesegnete Nachtruhe.
 — Mein Bett war nur ein mit Decken belegtes Holzgestell.
 Ich lag noch sehr lange wach. Ich prüfte nochmals in
 Gedanken alles das, was Harst dem Inspektor und mir mitgeteilt
-hatte. Und — ich gewann so die Ueberzeugung, daß
+hatte. Und — ich gewann so die Überzeugung, daß
 er uns gut die Hälfte von dem verschwiegen hatte, was er
 über die Zusammenhänge zwischen dem Morde und dem Nachen
 wußte. Ich fand folgende Fragen heraus, die Harst doch
@@ -1026,7 +1026,7 @@ Häuschen, und die Unterhaltung mit Lizabet Doogston
 enthülte mir immer mehr einen Frauencharakter, wie
 man ihn nicht oft finden wird. —
 
-Um ½ 10 verließ ich das Häuschen. Es hatte schon vorher
+Um ½10 verließ ich das Häuschen. Es hatte schon vorher
 sacht zu regnen begonnen. Bei der Siedetemperatur in
 Baroda konnte man diesen Regen nur freudig begrüßen. Er
 kühlte die Luft etwas ab. — Ich langte bereits eine Viertelstunde
@@ -1067,7 +1067,7 @@ befand sich der Kanal. — Ich hatte den Platz dicht am Ufer.
 Und so gewahrte ich denn sehr bald einen Nachen, der halb auf
 den Steinen der Böschung lag. — Nach fünf Minuten bereits
 stieß mich der neben mir liegende Inspektor an und flüsterte:
-»Harst wünscht nicht, daß Sie bei der Ueberrumpelung der
+»Harst wünscht nicht, daß Sie bei der Überrumpelung der
 drei Kerle mithelfen. Sie sollen nur darauf achtgeben, daß
 die Burschen nichts ins Wasser werfen.«
 
@@ -1081,7 +1081,7 @@ reichte, und erwischte noch glücklich einen Sack, der nur
 unten ein paar schwerere Gegenstände enthielt.
 
 Dann arbeitete ich mich aus dem schlammigen Kanal wieder
-heraus und stieß nun an der Böschung auf Harst und die
+heraus und stieß nun auf der Böschung auf Harst und die
 beiden Polizeibeamten, die inzwischen drei Hindu an Händen
 und Füßen gefesselt hatten. Neben den Gefangenen lag eine
 längliche Kiste.
@@ -1111,7 +1111,7 @@ gegen die Stahlkammer des Palastes mit seinen Söhnen mitzuhelfen.
 Er hatte zugesagt und mußte nun jeden Morgen
 kurz vor Tagesanbruch mit seinem Nachen das Sauerstoffgebläse
 bis hier an den Abhang und weiter dann durch einen
-bis unter die Gewölbe des Palastes reichenden gemauerten
+bis unter die Gewölbe des Palastes reichenden, gemauerten
 Gang in einen Kellerraum bringen. Der unterirdische Gang
 war durch Gestrüpp an seiner Mündung am Fuße des Lehmabhangs
 gut verdeckt und stammte sicherlich noch aus alter
@@ -1180,7 +1180,7 @@ Lastwagen, die zumeist nur mit einem Pferde oder einem Kamel
 in Nordindien bespannt sind. Hier war ein Kamel das
 Zugtier. Der Wagen kam vom Parktor her, fuhr jetzt immer
 schneller. — Ich raste nach links hinüber. Ich hatte wenig
-Hoffnung der beiden Kerle, die oben in dem Wagenkasten
+Hoffnung, der beiden Kerle, die oben in dem Wagenkasten
 hockten, noch habhaft zu werden.
 
 »Schießen!« brüllte Harst wieder.
@@ -1277,7 +1277,7 @@ dann bald Halt. — Mein Verdacht war nun noch reger geworden.
 Neben dem toten Pförtner hatten doch die Schlüssel gelegen!
 Von diesen Schlüsseln hatten die Mörder Wachsabdrücke
 nehmen und sich so Nachschlüssel anfertigen können!
-— auch zu dieser kleinen Eisentür! — Die Folge dieser Ueberlegungen
+— auch zu dieser kleinen Eisentür! — Die Folge dieser Überlegungen
 war dann eine nächtliche Wache am Abhang, die
 mit jener Schwimmtour im Kanal endete, bei der wir —
 Schraut und ich — ein unerwartetes Wiedersehen feierten.
@@ -1439,7 +1439,7 @@ Palperlon mir den Befehl, diese Frau Lizabet Doogston zu
 bitten, uns bei sich zu verbergen. Für mich, für Cecil Warbatty,
 war Lizabet nichts als ein weibliches Wesen, das mich
 nichts weiter anging. — Ich muß mich kürzer fassen; meine
-Kräfte schwinden — Lizabet hat dann Palperlon mit dem
+Kräfte schwinden. — Lizabet hat dann Palperlon mit dem
 Revolver dazu gezwungen, mich aus dem hypnotischen Zustand
 zu erwecken. Palperlon mußte gehorchen. Er sah Lizabet
 wohl an, daß sie ihn sonst erbarmungslos niedergeschossen
@@ -1485,7 +1485,7 @@ lesen war:
 > »Hüte Dich! Ich bin stets um Dich!«
 
 »Das dürfte eine Drohung Palperlons sein,« meinte Harst.
-»Seine erste, an mich gerichtete Aeußerung. — Nun gut, James
+»Seine erste, an mich gerichtete Äußerung. — Nun gut, James
 Palperlon, — ich erwidere Dir:
 
 > Hüte Dich! Ich bin stets um Dich!« —
@@ -1506,5 +1506,4 @@ und ich glaube schon jetzt versprechen zu können, daß auch diese
 Kämpfe zwischen Harsts hochentwickelter Intelligenz gegen
 verbrecherische Schlauheit und gegen neidvolle Fallstricke
 meine Leser nicht langweilen werden.
-
 

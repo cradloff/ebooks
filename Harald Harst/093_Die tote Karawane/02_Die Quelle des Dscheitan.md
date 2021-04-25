@@ -58,7 +58,7 @@ eine Fährte zu entdecken. — Die Singari kamen
 meinem Manne trotz ihrer Hilfsbereitschaft verdächtig vor.
 Wenn er fragte, ob sie denn nicht irgend einen benachbarten
 Stamm im Verdacht hätten, Luzie geraubt zu haben,
-versicherten sie stets mit verlegenem Uebereifer, daß ihre
+versicherten sie stets mit verlegenem Übereifer, daß ihre
 Nachbarn keine Räuber seien. Vielleicht — vielleicht seien
 es persische Mädchenhändler gewesen, die ja hin und wieder
 über den Persischen Meerbusen kämen und junge Araberinnen
@@ -132,7 +132,7 @@ regnete es nur wenig. Immerhin konnten wir so viel Regenwasser
 auffangen, daß wir unsere Schläuche sämtlich
 frisch füllten. Um sechs Uhr wurde dieser Lagerplatz verlassen.
 Wir gedachten die ganze Nacht ununterbrochen weiter
-zu reiten. Es kam jedoch anders. Ueber die steinige
+zu reiten. Es kam jedoch anders. Über die steinige
 Hochlandwüste strich ein heißer, von Norden kommender
 Wind hin, der jede Hoffnung auf nächtliche Kühle vereitelte.
 Nur wer jemals das Rote Meer mit seiner berüchtigten
@@ -163,7 +163,7 @@ zu ihrem Gedeihen hernehmen.
 Ein drittes Lager dann in dieser Einöde. Und —
 hier die niederschmetternde Entdeckung, das unser Trinkwasser
 durch die Hitze ungenießbar geworden. Es stank
-geradezu verwest. Es erzeugte Uebelkeit und Erbrechen.
+geradezu verwest. Es erzeugte Übelkeit und Erbrechen.
 Nur die Kamele soffen es voller Gier.
 
 Wir kochten Tee damit. Es war ein Notbehelf. Der
@@ -292,7 +292,7 @@ die Luft einsogen, daß es wie Unruhe über sie kam.
 
 Oh — wie das eine Wort mich elektrisierte! Wasser
 — Wasser —! Wie alles andere vergessen war: Mattigkeit,
-Todesgedanken, Uebelkeit, Verzweiflung, Gleichgültigkeit.
+Todesgedanken, Übelkeit, Verzweiflung, Gleichgültigkeit.
 
 Wasser — Wasser! Ja — wie flüchtig der Schritt
 der Tiere wurde, wie sie vorwärts drängten!
@@ -401,7 +401,7 @@ Blick fiel auf die Gerippe — die menschlichen
 Skelette.
 
 <@pagebreak/>
-Mit einem Aechzen sank sie wieder zurück und schloß
+Mit einem Ächzen sank sie wieder zurück und schloß
 die Augen. —
 
 Harald war jetzt an das Wasserbecken herangetreten.
@@ -466,7 +466,7 @@ Felsspalte. Ein Wunder war’s, daß unsere Kräfte dazu
 ausreichten.
 
 »Wollen uns einmal nach Jefferson umsehen. Er
-kann nicht weit gekommen sein, der Aermste,« meinte
+kann nicht weit gekommen sein, der Ärmste,« meinte
 Harald und stieg die Talwand empor.
 
 Wir fanden ihn, nachdem wir den Spuren seines Tieres
@@ -496,7 +496,7 @@ Sie hatte uns ohne Zweifel hier erwartet.
 »Ich freue mich, Sie wiederzusehen,« sagte sie mit einem
 leichten Neigen des Hauptes.
 
-Wir hatten nach der ersten Ueberraschung höflich gegrüßt.
+Wir hatten nach der ersten Überraschung höflich gegrüßt.
 Wir strahlten beide.
 
 Soeben noch das Bewußtsein, daß wir verloren seien!
@@ -591,7 +591,7 @@ Er bückte sich und hob die Flasche auf. Sie war verkorkt.
 Er schüttelte sie. Da flog der zusammengetrocknete
 Kork heraus und — eine Rolle Papier kam zum Vorschein.
 
-»Etwas Aehnliches dachte ich mir!« nickte Harald.
+»Etwas Ähnliches dachte ich mir!« nickte Harald.
 
 Das Papier war ein zusammengerollter und von einer
 Stecknadel zusammengehaltener Briefbogen.
@@ -811,7 +811,7 @@ Fünf Tage später waren wir in Aden. Hier gaben
 wir vor der Polizei zu Protokoll, was wir inzwischen erlebt
 hatten. Oberst Jeffersons dunkle Machenschaften und
 seinen Tod durften wir nicht unterschlagen, ebensowenig
-den Verbleib Frau Hendricks. Ueber John Barring und
+den Verbleib Frau Hendricks. Über John Barring und
 R. R. schwiegen wir.
 
 Am zweiten Tage nach unserer Ankunft wurde dann
@@ -850,7 +850,7 @@ Bahn weiter nach Agra.
 <h2>4. Kapitel.</h2>
 <h3>Der Grottentempel der Kali.</h3>
 
-Ueber den düsteren Fluß glitt ein kleines Ruderboot
+Über den düsteren Fluß glitt ein kleines Ruderboot
 hin, in dem zwei Männer saßen, ärmere Inder der Kleidung
 nach, beide dunkelbärtig, beide mit dunklen Turbanen,
 genau wie ihre Hosen und Jacken gleichfalls aus dunkelblauem
@@ -886,7 +886,7 @@ mögen, die nun schon von Bombay hinter uns her sind. —
 Angehörige von Jussuf Nazirs Bande, meintest Du heute!
 <@pagebreak/>
 Hm — was sollten die an uns für ein Interesse nehmen?
-Ueberlege Dir das nochmals!«
+Überlege Dir das nochmals!«
 
 »Ich habe diese Vermutung schon selbst verworfen —«
 
@@ -1020,7 +1020,7 @@ Geschäften nachgehen, würde ich tatsächlich argwöhnen, sie
 hätten uns die Spione auf den Hals geschickt.«
 
 »Aber — aus welchem Grunde wohl?!« Ich war
-etwas ungehalten. Haralds Aengstlichkeit erschien mir
+etwas ungehalten. Haralds Ängstlichkeit erschien mir
 übertrieben.
 
 »Ja — einen Grund gäbe es schon! — Doch — weiter
@@ -1244,7 +1244,7 @@ würden.
 Das klang sehr merkwürdig.
 
 <h2>5. Kapitel.</h2>
-<h3>Ueberlistet.</h3>
+<h3>Überlistet.</h3>
 
 Noch merkwürdiger war, was Harald dann hinzufügte:
 
@@ -1345,7 +1345,7 @@ ermordet war, wußte ich. Ein Mensch, der Zeitungen so
 genau liest wie ich und so viele Zeitungen, hätte etwas
 über den Mord in einem indischen Blatte finden müssen.
 Mir wäre eine solche Notiz nie entgangen. — Talambas
-eigenes Geistesprodukt mag dieser Mord als Ueberleitung
+eigenes Geistesprodukt mag dieser Mord als Überleitung
 zu der Höhle unter der Grotte nicht gewesen sein. Die
 Barrings werden ihm genau vorgeschrieben haben, was
 er reden sollte. Jedenfalls: der Mord war eine Dummheit!
@@ -1408,7 +1408,7 @@ nicht ermordet worden! Keine Rede! — Was
 aber die Barrings angeht, so sind das hier zwei recht angesehene
 Kaufleute. Exportgeschäft für indische Schleier.
 Einen Schlangenfänger Talamba gibt es. Das ist jedoch
-ein Greis von würdigem Aeußeren, ein Original. Der
+ein Greis von würdigem Äußeren, ein Original. Der
 junge Bursche da hat sich einfach Talambas Namen zugelegt.«
 
 Edward Dalbam war in Feuer geraten.
@@ -1430,7 +1430,7 @@ eben die Beweglichkeit der Götzenstatue, gekannt
 haben. Die Barrings mögen ihn beobachtet haben, als er
 das Gold wegschaffte. John folgte dann R. R nach Arabien,
 nachdem von diesem längere Zeit keine Nachricht eingetroffen
-war. Als die Brüder die Ueberzeugung erlangt
+war. Als die Brüder die Überzeugung erlangt
 hatten, daß R. R. in der Wüste umgekommen, plünderten
 Sie das Versteck.«
 

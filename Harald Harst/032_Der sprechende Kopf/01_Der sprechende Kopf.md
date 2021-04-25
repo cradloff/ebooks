@@ -350,7 +350,7 @@ ganz plötzlich wieder ernst und nachdenklich geworden.
 
 »Mir ist da soeben etwas eingefallen, mein Alter,« sagte
 er langsam und schaute über die zackigen Hügelkämme hinweg
-starr in den blauen Aether. »Du weißt wohl, daß kein Volk
+starr in den blauen Äther. »Du weißt wohl, daß kein Volk
 der Erde so sehr zur Bildung von Geheimgesellschaften neigt
 wie gerade das chinesische. Besinne Dich auf eins unserer ersten
 gemeinsamen Abenteuer. Es liegt Jahre zurück. Du hast
@@ -628,7 +628,7 @@ Harst.
 
 Chatarsan meckerte leise. »Sie sind ein komischer Mensch,
 Master Bark. Zu welchem Zweck wird einem wohl Reis mit
-Fleisch vorgesetzt he?! — Uebrigens war es mein Freund
+Fleisch vorgesetzt he?! — Übrigens war es mein Freund
 Limpo Ma, der daran erinnerte, daß Sie beide Hunger haben
 könnten.«
 
@@ -858,7 +858,7 @@ Harald lachte. »Vielleicht war der Reis auch gar nicht vergiftet.
 Aber — Vorsicht schadet nie etwas.«
 
 »Es wird fraglos Gift darin gewesen sein,« erklärte ich
-voller Ueberzeugung.
+voller Überzeugung.
 
 »Das ist jetzt ja auch schließlich gleichgültig. Wichtig ist,
 daß Limpo Ma nunmehr denkt, wir werden uns hüten, uns
@@ -1096,7 +1096,7 @@ konnte er auch eine andere Richtung eingeschlagen haben.
 
 Nachdem wir eine kräftige Mahlzeit eingenommen hatten,
 machten wir uns mit größter Sorgfalt an die abermalige
-Verwandlung unseres Aeußeren. Harst hatte sich für eine
+Verwandlung unseres Äußeren. Harst hatte sich für eine
 Maske als wohlhabende, ältere indische Kaufleute entschieden.
 Diese Arbeit nahm zwei Stunden in Anspruch. Gerade als
 wir aufbrechen wollten, fand sich der blonde Hüne Jürgensen
@@ -1367,7 +1367,7 @@ Der Vorhang ging hoch. Der lange Chinese, der sich auf
 <@pagebreak/>
 den Plakaten Scheng-Pi nannte, begrüßte das Publikum,
 hielt eine Ansprache über das »Wunder«, zeigte dann einen
-Wachskopf, dessen Züge mit denen der Malcapier einige Aehnlichkeit
+Wachskopf, dessen Züge mit denen der Malcapier einige Ähnlichkeit
 hatten. Der Wachskopf lag mit dem Halsstumpf auf
 einer großen Metallschüssel. — Im Hintergrunde der Bühne
 stand ein vierbeiniges Tischchen. Es schien frei dazustehen,
@@ -1375,7 +1375,7 @@ schien vier Beine zu haben. Harst flüsterte mir zu: »Uralter
 Witz, — die hinteren Beine sind gar nicht vorhanden, sind
 nur das Spiegelbild der Vorderen. Das Tischchen ist unten
 durch Spiegel verkleidet.« Ich besann mich, mal als Junge
-in einer Jahrmarktsbude Aehnliches gesehen zu haben. —
+in einer Jahrmarktsbude Ähnliches gesehen zu haben. —
 Scheng-Pi stellte jetzt die Schüssel mit dem Wachskopf auf den
 Tisch, daneben 2 Räucherschalen, aus denen bald dicker Qualm
 hochstieg. Scheng-Pi murmelte allerlei Beschwörungen. Der

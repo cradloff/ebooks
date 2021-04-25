@@ -479,7 +479,7 @@ ganz in unserer Nähe. — Laß die Tür nach dem Flur weit
 auf, mein Alter, und schau’ hin und wieder hinaus. Ich
 werde zur Vorsicht unsere Zimmer durchsuchen. Die Herrschaften,
 die uns gern auslöschen möchten, werden hier vielleicht
-weitere Ueberraschungen vorbereitet haben!«
+weitere Überraschungen vorbereitet haben!«
 
 Ich gab Harald darin ganz recht, daß diese unbekannten
 Gegner Zimmer in unserer Nähe innehaben müßten.
@@ -653,7 +653,7 @@ All das ging so rasch, daß ich mir kaum darüber klar
 werden konnte, wir seien hier in eine Falle geraten.
 
 Ich hörte einen dumpfen Schlag — etwas wie ein
-Aechzen folgte.
+Ächzen folgte.
 
 Auch auf meinen Kopf sauste ein mit nassem Sand
 <@pagebreak/>
@@ -691,7 +691,7 @@ baldige Heimkehr Becherts telephonisch in Aussicht gestellt
 hatte. — Bechert selbst fand in seinem Arbeitszimmer den
 umgestürzten Stuhl, einen mit Sand gefüllten Sack und
 Harsts jedem seiner Freunde wohlbekannten altindischen
-Brillantring, den Harald bei dem Ueberfall rasch vom Finger
+Brillantring, den Harald bei dem Überfall rasch vom Finger
 gestreift haben mußte, wie Bechert sich sagte, damit man
 <@pagebreak/>
 wüßte, daß wir hier in eine Falle gelockt worden waren.
@@ -709,7 +709,7 @@ Was war inzwischen mit uns geschehen?
 
 Ich will mich kurz fassen. Ich habe hier bei dem Problem
 des Geisterspiegels noch so zahlreiche weit spannendere
-Einzelheiten zu schildern und kann unserer Ueberwältigung
+Einzelheiten zu schildern und kann unserer Überwältigung
 und den damit zusammenhängenden Geschehnissen nur einen
 knappen Raum gewähren.
 
@@ -1112,7 +1112,7 @@ Evelyns nicht ihr Kind gewesen sein dürfte. Nein,
 dieses Mädelchen dürfte aus Artistenkreisen stammen.
 Bedenke: sie kletterte vom oberen Balkon an einem Seil zu
 uns herab! Das bringt kein verwöhntes Milliardärstöchterchen
-fertig. — Ueberhaupt dürfte diese ganze Verbrechergesellschaft
+fertig. — Überhaupt dürfte diese ganze Verbrechergesellschaft
 aus früheren sehr guten Bekannten der
 Wienerin Eva Rißhübler sich zusammensetzen. Sie gab die
 nötigen Geldmittel her. Sie hatte Beziehungen zu der
@@ -1138,7 +1138,7 @@ möchten.«
 werden. Gerade weil diese Wargenheim das Geisterzimmer
 und den Spiegel vorher stets untersuchen ließ und
 weil, wie ja ebenfalls in den Zeitungen zu lesen war, scheinbar
-wirklich etwas Uebernatürliches an der Sache ist, muß
+wirklich etwas Übernatürliches an der Sache ist, muß
 — Doch nein! Ich will Dir lieber zeigen wie sie’s macht!«
 
 <h2>5. Kapitel.</h2>
@@ -1372,7 +1372,7 @@ Schrank im Flur ein Stück weiterrollen. Sie werden dahinter
 eine Stubentür finden, die in ein genau so eingerichtetes
 Zimmer wie dieses führt, werden aber auch in der
 Wand, wo drüben der Wandleuchter hängt, irgend eine
-Oeffnung entdecken, durch die man auf diesem Spiegel hier
+Öffnung entdecken, durch die man auf diesem Spiegel hier
 mit einem kleinen kinematographischen Apparat Bilder erscheinen
 lassen kann, da dieser Spiegel die Eigentümlichkeit
 der bekannten chinesischen Zauberspiegel hat: durchsichtig zu

@@ -117,7 +117,7 @@ Als der dicke Herr Damm Haralds Namen hörte, wurde
 er etwas verlegen.
 
 »Herr Damm,« sagte Harst sehr bestimmt, »Sie haben
-Herrn Kommissar Lenk belogen. Ueberlegen Sie sich mal,
+Herrn Kommissar Lenk belogen. Überlegen Sie sich mal,
 ob es wirklich glaubwürdig ist, daß Sie gegen eine Sicherheit
 von nur 10 000 Mark Ihr Auto unbekannten Leuten
 überlassen werden?!«
@@ -585,7 +585,7 @@ stand:
 Harald läutete bei dem Maler an. Ein vertrocknetes
 Männchen öffnete, nachdem er zunächst die Sicherheitskette
 eingehakt gelassen hatte. Harst flüsterte ihm jedoch seinen
-Namen zu, und das zerstreute alle Aengstlichkeit Herrn
+Namen zu, und das zerstreute alle Ängstlichkeit Herrn
 Aubners.
 
 Er führte uns in sein Atelier.
@@ -740,7 +740,7 @@ Mieter Herrn Allins, verborgen sein sollten. Der Brief
 war in echtem Kaschemmendeutsch abgefaßt. Jedenfalls ließ
 ich das Haus von acht Uhr ab beobachten, sah zwei Telephonarbeiter
 in verdächtiger Weise hineinschlüpfen und —
-so kam dieser Ueberfall zu Stande. — Was treiben Sie
+so kam dieser Überfall zu Stande. — Was treiben Sie
 denn nun hier, bester Harst?«
 
 Harald setzte sich auf das Feldbett. »Einen Moment,
@@ -1245,7 +1245,7 @@ doch zusammen —«
 
 Frau Dora Niendorf saß noch im Salon. Als wir eintraten,
 erhob sie sich rasch. Ihre Gesichtszüge verrieten eine
-gewisse Unruhe, die sie durch eine scheinbar freudige Ueberraschung
+gewisse Unruhe, die sie durch eine scheinbar freudige Überraschung
 zu bemänteln suchte.
 
 »Ah — Sie sind frei, meine Herren!« sagte sie zu Lenk
@@ -1376,7 +1376,7 @@ Lenk lächelte. »Schadet nichts! Ich mache das Rennen
 auch allein!«
 
 Wir drei verabschiedeten uns von Panzer und Asten.
-Lenk befahl die Ueberwachung der Villa einzustellen. Dann
+Lenk befahl die Überwachung der Villa einzustellen. Dann
 fuhren wir mit dem Polizeiauto nach Berlin — nach
 Bahnhof Friedrichstraße.
 
@@ -1405,7 +1405,7 @@ erwischt hatte.
 Harald und ich nahmen ein Auto und fuhren heim
 nach der Blücherstraße. Aber in der Nähe der Knesebeckstraße
 drückte Harst auf den Pfeifball. Das Auto hielt. Wir
-stiegen zu meiner Ueberraschung aus. Harald bezahlte,
+stiegen zu meiner Überraschung aus. Harald bezahlte,
 und wir gingen zu Fuß weiter.
 
 »Wohin?« fragte ich. »Was hast Du vor?«
@@ -1438,7 +1438,7 @@ Da erklärte der Hauswart schon:
 »Das kann nur Graf von Asten sein. Er wohnt in der
 zweiten Etage rechts seit zwei Jahren.«
 
-Ah — das war eine Ueberraschung! Also Asten! Und
+Ah — das war eine Überraschung! Also Asten! Und
 Asten war’s gewesen, der vorhin in der Kajüte der Motorjacht
 scheinbar zu einem Geständnis bereit war!
 

@@ -38,7 +38,7 @@ Harst wurde in das Krankenhaus in Mirzapur geschafft,
 wo er fünf Tage in schwerem Wundfieber lag. Nach
 vierzehn Tagen war er wieder so weit hergestellt, daß er
 aus dem Krankenhause an Bord unserer Jacht Atlanta zurückkehren
-konnte, wo ihn Kapitän Bansy und unsere brave
+konnte, wo ihn Kapitän Banfy und unsere brave
 Besatzung einen festlichen Empfang bereitete.
 
 Da der Arzt mir streng anbefohlen hatte, Harst jede
@@ -196,7 +196,7 @@ Haralds Rückkehr auf die Atlanta über.
 Die weiße Motorjacht lag in einer Bucht des Ganges
 westlich der Stadt vor Anker.
 
-Harst, Kapitän Bansy und ich saßen gegen neun Uhr
+Harst, Kapitän Banfy und ich saßen gegen neun Uhr
 plaudernd im Salon der Jacht. Harald hatte mich soeben
 gefragt, ob Vincent Saalborg sich inzwischen nicht irgendwie
 gemeldet hätte. Ich wollte nicht lügen und reichte ihm
@@ -384,7 +384,7 @@ selbst Zwiesprache gehalten?«
 
 »Ja, das tat er. Diese Lüge war so durchsichtig, daß
 ich still wieder hinausging. Und — und in derselben Nacht
-erfolgte der dritte Ueberfall durch den Schimmelreiter auf
+erfolgte der dritte Überfall durch den Schimmelreiter auf
 das Auto meines Freundes Belfast. Am Morgen reiste
 ich dann hier nach Mirzapur, um Ihnen meine Sorgen anzuvertrauen,
 Master Harst. Ich konnte aber nur ihren
@@ -410,7 +410,7 @@ Seelvort herbei. Seelvort feuerte mit dem Revolver. Aber
 <@pagebreak/>
 der Buschklepper war der bessere Schütze. Er jagte des
 Hauptmanns Stute eine Kugel ins Auge und verschwand
-in den Reisfeldern. Bei dem zweiten Ueberfall handelte es
+in den Reisfeldern. Bei dem zweiten Überfall handelte es
 sich um den Postwagen, der die Pakete von Lahore nach
 Shekhupura bringt. Der Kutscher und dessen Begleiter
 waren gleichfalls bewaffnet. Es half ihnen jedoch nichts:
@@ -480,7 +480,7 @@ sich mit herzlichen Dankesworten. Man merkte ihm
 an, daß ihm jetzt leichter ums Herz war. Er hatte noch erklärt,
 er würde morgen mittag abreisen.
 
-Als wir drei nun allein waren, sagte Kapitän Bansy
+Als wir drei nun allein waren, sagte Kapitän Banfy
 kopfschüttelnd: »Es ist einfach unglaublich, was alles in
 der Welt passiert! — Wie denken Sie über diese Geschichte,
 Master Harst?«
@@ -497,11 +497,11 @@ Trümmern der alten Residenz der Mogulkaiser erbaut —
 kennen gelernt.«
 
 »Auf diese Erklärung bin ich sehr gespannt,« meinte
-Bansy bittend. »Reden Sie, Harst! Sie werden Schraut
+Banfy bittend. »Reden Sie, Harst! Sie werden Schraut
 und mich doch nicht auf die Folter spannen, besonders mich
 nicht, der nicht mit nach Lahore reisen wird.«
 
-»Lieber Bansy, vielleicht weiß Schraut auch schon Bescheid.
+»Lieber Banfy, vielleicht weiß Schraut auch schon Bescheid.
 — Na, mein Alter,« wandte er sich an mich, »wie
 steht’s damit?«
 
@@ -511,7 +511,7 @@ erwiederte ich ehrlich.
 <@pagebreak/>
 »So?!« sagte Harald sehr gedehnt.
 
-»Hendrik ist doch der Buschklepper!« platzte Bansy heraus.
+»Hendrik ist doch der Buschklepper!« platzte Banfy heraus.
 »Weshalb treibt er sich denn jede Nacht —«
 
 Harst lächelte fein und nahm eine frische Zigarette, unterbrach
@@ -651,7 +651,7 @@ auf. Ihr Sohn wird in kurzem wieder frei sein.«
 Kaum hatte Baalker die Atlanta verlassen, als wir in
 großer Eile Toilette machten, — das heißt, wir verwandelten
 uns in zwei ältere Herren, die ganz wie harmlose
-Globetrotter aussahen. Bansy erhielt Befehl, mit der Atlanta
+Globetrotter aussahen. Banfy erhielt Befehl, mit der Atlanta
 den Ganges auswärts bis Hartwar zu fahren und uns
 dort zu erwarten.
 
@@ -669,7 +669,7 @@ der denselben Zug benutzen wollte. Er erkannte uns nicht.
 Am nächsten Abend gegen ½ 12 waren wir in Lahore.
 Auf der Reise hatte sich nichts ereignet. Ich merkte nur,
 daß Harald allen Mitreisenden gegenüber sehr mißtrauisch
-war. Ueber den Fall des Gentleman-Buschkleppers sprach
+war. Über den Fall des Gentleman-Buschkleppers sprach
 Harst ebensowenig wie über Edward Annixter. — Trotzdem
 wußte ich das eine bestimmt: dieser Annixter hatte
 nicht auf den Tiger, sondern auf Harst geschossen! Nur ein
@@ -710,7 +710,7 @@ dieser Mondscheinbeleuchtung ein Genuß.
 
 Nach zehn Minuten bog die Straße in das Trümmerfeld
 ein. Nur in Indien findet man solche Ruinengelände
-toter Städte mit so prachtvollen Ueberresten, mit so wundervollen
+toter Städte mit so prachtvollen Überresten, mit so wundervollen
 Szenerien unkrautüberwucherter Gebäude, Tore
 und Tempelbauten; nur Indien ist das uralte Kulturland
 erhabener, tausend Jahre überdauernder Bauten.
@@ -718,7 +718,7 @@ erhabener, tausend Jahre überdauernder Bauten.
 »Es wäre ein Glück, wenn der Buschklepper käme,«
 meinte Harald mit einem Male. »Wir werden uns dann
 ruhig ausplündern lassen. Es gehört zu meinem Programm.
-Ueberfällt er uns heute nicht, dann fahren wir
+Überfällt er uns heute nicht, dann fahren wir
 jede Nacht diesen Weg.«
 
 Kurz vorher hatte unser Kutscher sich umgedreht und
@@ -737,7 +737,7 @@ Worauf Harald mir zugeflüstert hatte:
 »Greep wird sich wundern!« —
 
 Die Fahrt durch die Ruinen dauerte etwa eine halbe
-Stunde. Daß gerade diese Oertlichkeit einem Straßenräuber
+Stunde. Daß gerade diese Örtlichkeit einem Straßenräuber
 die beste Gelegenheit zur Flucht bot, sah man auf den
 ersten Blick.
 
@@ -783,10 +783,10 @@ einen Schimmel mit Brustfleck verwandeln kann.«
 »Ah — ein guter Gedanke!«
 
 »Ein sehr naheliegender Gedanke. — Noch drei Minuten.
-Dann geht’s los. Du gehorchst also, spielst den Aengstlichen.
+Dann geht’s los. Du gehorchst also, spielst den Ängstlichen.
 Der Schimmelreiter muß vollständig —«
 
-Der Ueberfall kam früher, erfolgte jetzt schon.
+Der Überfall kam früher, erfolgte jetzt schon.
 
 Vor uns aus einem Gebüsch am Wege sprengte ein
 Reiter auf uns zu.
@@ -977,7 +977,7 @@ uns hatte man sie ausgehoben.
 
 Der nächste Deckenbalken war anderthalb Meter entfernt.
 Der Raum war etwa sechs Meter breit und zehn
-Meter lang. Ueber uns wölbte sich eine Steindecke, in der
+Meter lang. Über uns wölbte sich eine Steindecke, in der
 man noch deutlich die Reste von Steinmosaik erkannte. Auch
 die Wände waren ursprünglich mit Marmorplatten ausgelegt
 gewesen.
@@ -1153,7 +1153,7 @@ sie stehen. Auf dem einen Baum turnten ein paar zahme
 Affen bis vor ihre Füße. Sie warf ihnen Zuckerstückchen
 zu. Aber ihr Gesichtsausdruck behielt das Starre, Leblose,
 Weltentrückte bei. Ihre Bewegungen waren müde und
-kraftlos. Ueber der ganzen Gestalt lag etwas, das man
+kraftlos. Über der ganzen Gestalt lag etwas, das man
 am besten als erstarrter Schmerz bezeichnet.
 
 Sie setzte sich dann auf eine weiße Bank unter einen
@@ -1210,7 +1210,7 @@ Der Polizist verschwand hinter der Tür. Gleich darauf
 kam Greep sehr eilig heraus. Er strahlte über sein
 ganzes glattes, langes Schauspielergesicht.
 
-»Sie, meine Herren, — Sie beide?! Welche Ueberraschung.«
+»Sie, meine Herren, — Sie beide?! Welche Überraschung.«
 
 Er drückte uns die Hände.
 
@@ -1227,7 +1227,7 @@ Millio...«
 »Weiß schon: Hendrik van Baalker! — Ein Fehlgriff,
 lieber Greep — totaler Fehlgriff. — Hat denn der Kutscher
 des Mietwagens, mit dem wir gestern nacht die
-Straße nach Shekhupura entlangfuhren, den Ueberfall nicht
+Straße nach Shekhupura entlangfuhren, den Überfall nicht
 gemeldet?«
 
 »Nein. Bisher nicht. — Sie sind also wirklich ausgeraubt
@@ -1252,7 +1252,7 @@ den Schimmel versteckt hält.«
 
 »Greep, sollen wir beide beschwören, daß der Schimmelreiter
 uns gestern nacht überfallen hat? — Baalker mag
-aus Aerger über seine Verhaftung dies Geständnis abgelegt
+aus Ärger über seine Verhaftung dies Geständnis abgelegt
 haben. — Ich sage Ihnen ganz offen, Greep: ich weiß,
 wer der »echte« Schimmelreiter ist, möchte aber diese Sache
 allein ins Reine bringen. Die Beute wird herausgegeben
@@ -1320,7 +1320,7 @@ seinem Pferde plumpe Schuhe über die Hufe gestreift gehabt.
 Die Polizei hat stets nach Hufspuren die Ruinenstätte
 durchstöbert und deshalb nie etwas entdeckt. Das
 Pferd ist ein Schecke, den der Buschklepper durch weiße
-Farbe, durch Ueberpinselung der dunklen Fellflecken, in einen
+Farbe, durch Überpinselung der dunklen Fellflecken, in einen
 Schimmel mit Brustfleck verwandelte. Das Pferd ist
 durch die Pforte zu dem kleinen Bungalow gebracht worden,
 den Ihre Nichte hinten im Park allein bewohnt.«
@@ -1333,7 +1333,7 @@ ganz besonderen Gattung angehören —«
 
 Harst sprach weiter. »Exzellenz, ich bitte Sie, Ihre
 Nichte herbeizurufen, aber so, daß sie nicht argwöhnisch
-wird. Uebrigens möchte ich Sie gleich insofern beruhigen,
+wird. Übrigens möchte ich Sie gleich insofern beruhigen,
 als diese unüberlegten Streiche Miß Evelyns keinerlei Folgen
 haben werden. Ich heiße in Wahrheit Harald Harst,
 Exzellenz. Und der Herr ist mein Freund Schraut.«
@@ -1450,7 +1450,7 @@ wußte stets durch Greep, was die Polizei unternahm. So
 konnte ich allen Nachstellungen entgehen. Erst durch Hendriks
 Verhaftung kam ich zur Besinnung. Gestern habe ich
 die ganze Beute und dazu 25 000 Rupien als Entschädigung
-für die Ueberfallenen verkleidet in Shekhupura an die
+für die Überfallenen verkleidet in Shekhupura an die
 hiesige Polizei abgeschickt und anonym gebeten, Hendrik zu
 entlassen. Hätte ihm dies die Freiheit nicht wiedergegeben,
 dann — wäre ich zu Greep gegangen und hätte ihm die
@@ -1482,7 +1482,7 @@ Shandra Bogras Leiche gefunden hätte und daß soeben
 ein Wertpaket eingetroffen sei, in dem der Buschklepper die
 gesamte Beute nebst einer größeren Summe eingeschickt
 hätte. — Harald bat Greep, Hendrik nunmehr freizugeben
-und dies der Oeffentlichkeit gegenüber durch das Paket und
+und dies der Öffentlichkeit gegenüber durch das Paket und
 das gestrige abermalige Auftauchen des Schimmelreiters
 zu begründen; Hendrik solle auch sofort hier zu Sir Paterlan
 kommen. —

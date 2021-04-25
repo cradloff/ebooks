@@ -55,7 +55,7 @@ noch in dieser Nacht fangen!«
 Harst hatte mir den Brief über den Tisch zugereicht,
 meinte nun:
 
-»Shesney jagt einem Schemen, einem Gebilde nach, von
+»Shesney jagt einem Schemen, einem Gebilde, nach, von
 dem er nur den Namen kennt. Du wirst mir recht geben, daß
 es so ist, mein Alter. In dem Steckbrief steht: »Mittelgroß,
 vermutlich blond; besondere Kennzeichen hier nicht bekannt.
@@ -127,7 +127,7 @@ seine Lippen leise ein Name kam:
 
 Nun erhob er sich, rief:
 
-»Hierher, Landsmann Hierher!«
+»Hierher, Landsmann. Hierher!«
 
 Ich stand gleichfalls auf. — Der breitschultrige, blonde
 Hüne, der nun die Verandastufen eilig emporschritt, war kein
@@ -149,7 +149,7 @@ kam denn heraus, daß Sie doch fraglos jener berühmte —«
 »Stopp,« unterbrach Harst ihn. »Also gut — ich bin Harald
 Harst. Und nun kramen Sie Ihre »alberne« Geschichte
 mal aus, Landsmann. — Darf ich Ihnen einen Whisky-Soda
-von Eis anbieten und eine Zigarre? — Da — bitte bedienen
+von Eis anbieten und eine Zigarre? — Da — bitte, bedienen
 Sie sich —«
 
 »Danke — bin so frei. Lassen Sie sich beim Essen nicht
@@ -157,7 +157,7 @@ stören. Die Sache ist nämlich so harmlos, daß ich nie wagen
 würde, Sie damit zu belästigen, wenn Sie nicht eben auch
 Deutscher wären und ich daher nicht zu fürchten brauche, Sie
 könnten mich auslachen, — insofern nämlich, als auch ich
-zuerst dieses leuchtende Gesicht für etwas Uebernatürliches
+zuerst dieses leuchtende Gesicht für etwas Übernatürliches
 <@pagebreak/>
 gehalten habe. — Die Geschichte ist mit ein paar Sätzen erzählt.
 Sie haben heute die Tempelruine gesehen, die im Garten
@@ -168,7 +168,7 @@ Leute hat dort unten einen kleinen Holzschrank zu stehen.
 An der Mauer gegenüber dem Kellereingang zeigte sich nun
 — ja, es war genau heute vor zehn Tagen zum ersten Male —
 ein mit dicken Strichen gepinseltes Menschengesicht, ein Kopf,
-der in gelblichweißen mattem Lichte erstrahlte. Diese leuchtende,
+der in gelblich-weißen, mattem Lichte erstrahlte. Diese leuchtende,
 häßliche Fratze — in dem Keller ist’s auch am Tage
 stockdunkel — wurde jeden Tag sichtbar, meist mittags, und
 verlor erst nach einer Stunde langsam an Leuchtkraft, bis sie
@@ -181,11 +181,11 @@ ja ein bißchen unheimlich, das will ich nicht bestreiten. — Ich
 dachte natürlich sofort an irgend einen Schabernack, — daß
 vielleicht einer unserer Leute mit Phosphorfarben den Kopf
 hinpinselte. Aber — das war ein Irrtum von mir. Ich habe
-selbst im Keller aufgepasst, um den Kerl abzufassen. Und so
+selbst im Keller aufgepaßt, um den Kerl abzufassen. Und so
 konnte ich in den letzten fünf Tagen mittags feststellen, daß
 die Fratze ganz von selbst auftauchte. — Mehr weiß ich darüber
 nicht anzugeben, Herr Harst. Eigentlich schäme ich
-mich jetzt deswegen, hier zu Ihnen nach der Stadt gekommen
+mich jetzt, deswegen hier zu Ihnen nach der Stadt gekommen
 zu sein. Meine Frau riet mir ja auch davon ab. Aber — ich
 gehe eben allen Dingen gern auf den Grund.«
 
@@ -198,7 +198,7 @@ ist, wird wahrscheinlich — doch, wir wollen der Sache
 ganz systematisch zu Leibe gehen. Ich werde Sie morgen mittag
 wieder besuchen. Dann dürften wir sehr bald heraushaben,
 was das leuchtende Gesicht bezweckt. — Wenn Sie heute
-heimkommen, Landsmann so erzählen Sie Ihrer Gattin, Sie
+heimkommen, Landsmann, so erzählen Sie Ihrer Gattin, Sie
 hätten mich nicht angetroffen. Frauen plaudern gern. Und
 unser Besuch morgen bei Ihnen soll verborgen bleiben. Wir
 <@pagebreak/>
@@ -225,7 +225,7 @@ er:
 »Hm — als wir heute auf dem Gestüt anlangten, waren
 Sie doch zunächst offenbar sehr schlechter Laune. Ich hörte
 auch Ihre wetternde Stimme schon von weitem. Sie hatten
-Aerger gehabt?«
+Ärger gehabt?«
 
 »Richtig — richtig, — ich war sogar wütend auf den verdammten
 Burschen, den Stalljungen Jimmy, der wieder weiß
@@ -240,18 +240,18 @@ wie?!«
 
 »Amerikaner, 15 Jahre alt, Sohn des letztens tödlich verunglückten
 Jockeys Busleyton. Ein ganz gerissener, kleiner
-Halunke sag ich Ihnen! Faul, frech, schlau, — aber ein Reiter,
+Halunke sag’ ich Ihnen! Faul, frech, schlau, — aber ein Reiter,
 der mal berühmt werden wird. — Der Besitzer des Gestüts,
 Major Knoxon, hält große Stücke auf ihn. Ich ja auch, nur
 — nur — ja, denken Sie, Herr Harst, der Bengel spielt schon,
-wettet, macht Geschäfte, — kurz, er ist mir zu frühreif!«
+wettet, macht Geldgeschäfte, — kurz, er ist mir zu frühreif!«
 
 »Nun, das bringt der Pferdesport so mit sich. — Denken
 Sie doch nochmals nach, Landsmann. Vielleicht haben Sie
-sonst noch Anlaß zum Aerger gehabt —«
+sonst noch Anlaß zum Ärger gehabt —«
 
-»Ach — Aerger gibt’s oft, Herr Harst. Meine Tochter —«
-Er verstummte plötzlich; meinte dann: »Das sind schließlich nur
+»Ach — Ärger gibt’s oft, Herr Harst. Meine Tochter —«
+Er verstummte plötzlich, meinte dann: »Das sind schließlich nur
 <@pagebreak/>
 Familienangelegenheiten, obwohl —« Das weitere brummelte
 er in seinen blonden Bart, qualmte dann wieder dicke
@@ -315,12 +315,12 @@ Abenden regelmäßig ein Fenster in dem einzigen Turme des
 Gebäudes erleuchtet gesehen, und sein Enkel, ein Bursche von
 achtzehn Jahren, wieder behauptet, zweimal einen Europäer
 beobachtet zu haben, der nach Dunkelwerden das Dschemala
-verlies. Gestern nacht hat Tomar Sangris Enkel daraufhin
+verließ. Gestern nacht hat Tomar Sangris Enkel daraufhin
 eine unweit des Turmes stehende Zypresse erklettert und
 durch das Fenster in das Turmgemach hineingeschaut. Er bemerkte,
 daß ein Weißer sich einen dunklen Bart vor einem
 Spiegel anklebte und dann die beiden Kerzen ausblies. — Die
-beiden Hindu, Vater und Sohn, hoffen nun schon sehr stark auf
+beiden Hindu, Großvater und Enkel<@refnote 1/>, hoffen nun schon sehr stark auf
 die ausgesetzte Belohnung. Ich aber habe das Schlößchen heimlich
 umstellen lassen und werde jeden anhalten, der nach zehn
 Uhr abends hinein oder heraus will.«
@@ -332,7 +332,7 @@ Leider erlebte er eine arge Enttäuschung.
 hält?« meinte Harst sehr gedehnt. »Mir erscheint das
 reichlich zweifelhaft. Aber — wir werden ja sehen! — Natürlich
 möchte auch ich die Angaben der beiden Hindu nachprüfen.
-Es ist jetzt ½ 10. In einer Viertelstunde können wir aufbrechen.«
+Es ist jetzt ½10. In einer Viertelstunde können wir aufbrechen.«
 
 Der Inspektor schüttelte den Kopf. »Bester Harst, — weshalb
 zweifeln Sie denn daran, daß —«
@@ -341,7 +341,7 @@ zweifeln Sie denn daran, daß —«
 Harst ihn. »Gewiß — möglich ist’s ja, daß Palperlon
 derartige Dummheiten macht. Aber — auch nur möglich,
 wenn er damit bestimmte Absichten verfolgt. — Lassen wir
-das jetzt. Eine Frage Shesney: Kennen Sie den Direktor
+das jetzt. Eine Frage, Shesney: Kennen Sie den Direktor
 des Makresch-Gestüts näher? Es ist ein Landsmann von uns,
 und —«
 
@@ -361,7 +361,7 @@ er an der Börse in Bombay schlauer spekuliert, als ein New
 Yorker Getreidemagnat. Von dem Gestüt gehört ihm auch
 mindestens die Hälfte. Der Besitzer Knoxon ist selten dort.«
 
-Harst stand auf. »Machen wir uns fertig. Uebrigens,
+Harst stand auf. »Machen wir uns fertig. Übrigens,
 Shesney, Timoleit hat doch eine Tochter, nicht wahr?«
 
 »Ja — die schöne Irmgard. Die ist ganz Französin geworden
@@ -382,7 +382,7 @@ kletterte sehr bald uns voran über die niedrige Steinmauer,
 die den Park abteilte. Dieser war jetzt völlig verwahrlost.
 Das Dschemala selbst war eines jener alten Bauwerke,
 deren gefällige Formen leider in Indien so oft durch
-ein Uebermaß von Türmchen, Erkerfenstern und kunstvollem
+ein Übermaß von Türmchen, Erkerfenstern und kunstvollem
 Ausputz stark beeinträchtigt werden. Als Material war
 grauer und weißer Marmor verwandt worden. In der Mitte
 des Gebäudes wuchs ein viereckiger stumpfer Turm heraus,
@@ -390,7 +390,7 @@ der stockwerkweise angeordnet Bogenfenster mit schmiedeeisernen
 Ziergittern davor und dann wieder weit vorspringende
 Erkerfensterchen mit bunten Scheiben hatte.
 
-Die Zypresse, von der aus der Sohn des Gärtners den
+Die Zypresse, von der aus der Enkel<@refnote 2/> des Gärtners den
 Europäer im Turmgemach des zweiten Stockes beobachtet haben
 wollte, befand sich rechts von uns.
 
@@ -461,7 +461,7 @@ dem Manne zu folgen.
 »Es ist geglückt,« sagte er jetzt und hielt mir den Schlüssel
 dicht vors Gesicht. »Es kam mir lediglich darauf an, daß
 der Fremde vor Schreck den Schlüssel stecken ließ. Nun brauchen
-wir nicht gewaltsam einzudringen — Komm’, schauen
+wir nicht gewaltsam einzudringen. — Komm’, schauen
 wir uns das Geister-Dschemala in Ruhe an.« — Harst war jetzt
 offenbar in bester Laune. Seit dem verhängnisvollen Abend,
 der dem Ehepaare Doogston das Leben kostete, hatte ich ihn
@@ -486,7 +486,7 @@ nebeneinander auf dem Bauche lagen. Unter uns hatten
 wir ein geradezu prächtiges Exemplar von seidig glänzendem
 Afghan-Teppich.
 
-»Hier halten wir’s eine Weile aus, mein Alter.« flüsterte
+»Hier halten wir’s eine Weile aus, mein Alter,« flüsterte
 Harst. »Shesney wird sich nun den Kopf zerbrechen, wo wir
 geblieben sind! Mag er! Zu dreien arbeite ich ungern. Wir
 beide kennen uns und sind aufeinander sozusagen eingespielt.
@@ -522,7 +522,7 @@ Keine Antwort. Ich streckte den Arm aus. Ich fühlte,
 daß Harst noch auf dem Bauche lag und die Stirn auf die
 Hände gelegt hatte. Er — schlief wirklich! — Beneidenswerte
 Nerven! Und ich — ich begriff nun: ich sollte ihn um
-12 Uhr welken — um Mitternacht — zur Geisterstunde!
+12 Uhr wecken — um Mitternacht — zur Geisterstunde!
 
 * * *
 
@@ -630,7 +630,7 @@ der halb erhobenen Rechten die Taschenlampe so handhabte,
 daß ihr Lichtschein langsam über die drei Leute dort hinwegglitt.
 
 Ich gebe zu: nichts hätte mir so schnell meine Ruhe und
-Besonnenheit wiederverschaffen können, als diese Gelassenheit,
+Besonnenheit wiederverschaffen können als diese Gelassenheit,
 mit der Harst den Tisch und die dahinter Sitzenden gemächlich
 ableuchtete. Ich fühlte, daß mein wilderregter Herzschlag wieder
 regelmäßiger wurde. Ich dachte sogar blitzartig daran,
@@ -640,7 +640,7 @@ Da begann der eine der Vermummten schon zu sprechen.
 Die Stimme war tief und rauh. Ohne Zweifel verstellt. Das
 Englisch aber war tadellos.
 
-»Ich warne Sie beide auch nur die geringste verdächtige
+»Ich warne Sie beide, auch nur die geringste verdächtige
 Bewegung zu machen,« sagte der Mann mit einer unverkennbar
 überlegenen Gemütsruhe. »Auf Hilfe haben Sie nicht zu
 rechnen. Inspektor Shesney ist mit seinen Leuten nach der
@@ -966,7 +966,7 @@ fragte er.
 
 Der blonde Mensch zuckte leicht zusammen.
 
-»Ich will Sie nicht zu seinem Verrat an Ihren Verbündeten
+»Ich will Sie nicht zu einem Verrat an Ihren Verbündeten
 verführen,« meinte Harst. »Ich bekomme doch heraus,
 was ich wissen will. Nur dürfte es für Sie wenig angenehm
 sein, als Komplice eines vielfachen Mörders entlarvt zu werden.
@@ -1101,7 +1101,7 @@ wachsende Bestürzung. — »Was — was soll — diese —«
 
 Timoleits Gesicht hatte sich jetzt verfinstert. In seinen
 Augen glomm der Argwohn auf. »Herr im Himmel,« sagte er
-leise, »sollte wirklich Irmgard uns aus Uebermut diesen schlechten
+leise, »sollte wirklich Irmgard uns aus Übermut diesen schlechten
 Streich gespielt haben?! Ich begreife nur nicht, was sie
 damit bezweckt hat?!« Dann besann er sich, daß er Harst noch
 immer ohne Antwort gelassen hatte. »Ja, ja — es stimmt
@@ -1115,7 +1115,7 @@ Harst beugte sich vor, flüsterte hastig, ohne Timoleit
 <@pagebreak/>
 aussprechen zu lassen: »Ihr Schwiegervater ist doch Rennstallbesitzer?
 Da ist wohl auch Ihr Schwager begeisterter Sportsmann,
-nicht wahr? Er liebt es wohl auch dies durch seine
+nicht wahr? Er liebt es wohl auch, dies durch seine
 Krawattennadel zu bekunden?«
 
 Timoleit nickte. »Ganz recht. Er trägt stets eine
@@ -1187,7 +1187,7 @@ Das weiß er. Er versucht’s gar nicht mehr.«
 
 »Nur angenehm für Sie! — So, nun sind Sie freundlichst
 entlassen, Landsmann. Wir schleichen nach Ihnen davon.
-Ueber das leuchtende Gesicht kann ich Ihnen jetzt nur eins
+Über das leuchtende Gesicht kann ich Ihnen jetzt nur eins
 schon sagen: dahinter steckt etwas <span class="g">sehr</span> Ernstes! — Auf
 Wiedersehen, lieber Timoleit. Morgen finde ich mich wieder ein.«
 
@@ -1200,8 +1200,8 @@ sieben morgens fand ich den Stallburschen Jimmy Busleyton,
 der gerade den Favoriten »Stern von Siam« zu reiten hat,
 total betrunken noch im Bett. Da er in letzter Zeit überhaupt
 sehr nachlässig geworden war — ich glaube, ich erwähnte Ihnen
-gegenüber dies schon<@refnote 1/> — verlor ich die Geduld und
-kündige ihm auf der Stelle. Er packte denn auch sofort seine
+gegenüber dieses bereits<@refnote 3/> — verlor ich die Geduld und
+kündigte ihm auf der Stelle. Er packte denn auch sofort seine
 Sachen und verließ eine halbe Stunde später das Gestüt, nachdem
 ich ihm noch als letztes in meinem Bureau den Rest seines
 Gehalts ausgezahlt hatte. Als dies geschehen, hatte ich wieder
@@ -1228,9 +1228,9 @@ sehen?«
 Timoleit reichte den Ring mit einigen fünfzehn Schlüsseln
 Harst, der sich noch den der Bureautür und den zu dem
 Geldschrank zeigen ließ, dann bis zum Kellereingang ging,
-wo ein schwächer Tageslichtschimmer wahrzunehmen war, und
+wo ein schwacher Tageslichtschimmer wahrzunehmen war, und
 dort mit dem Rücken nach uns hin die Schlüssel besichtigte.
-Als er sie Timoleit zurückgab sagte er: »Ich werde nun doch
+Als er sie Timoleit zurückgab, sagte er: »Ich werde nun doch
 besser noch heute abend mich hier einfinden. Ich rate Ihnen
 dringend, heute bis zu unserem Eintreffen das Bureau nicht
 oder doch nur stets dann zu verlassen, wenn einer Ihrer
@@ -1240,7 +1240,7 @@ Robin erzählen Sie streng vertraulich, wir seien zwar hier gewesen,
 wollten aber erst die Spur des steckbrieflich gesuchten
 Palperlon in Bombay weiter verfolgen, ehe wir uns hier mit
 Ihrer Angelegenheit gründlich beschäftigen. — So, nun gehen
-Sie Landsmann. Und befolgen Sie genau, was ich Ihnen
+Sie, Landsmann. Und befolgen Sie genau, was ich Ihnen
 soeben vorschlug — sehr genau!«
 
 * * *
@@ -1263,7 +1263,7 @@ das in sicherer Entfernung von Makresch unserer wartende
 Auto und waren bald wieder in Shesneys behaglichem Heim.
 Der Inspektor erfuhr alles, was Harst mit Timoleit verhandelt
 hatte. Aber — sonst auch nicht eine Silbe mehr. Wie Harst
-über all diese Dinge dachte, behielt er für sich: Shesney
+über all diese Dinge dachte, behielt er für sich. Shesney
 mußte nur im Schlosse anfragen, ob der Fürst uns um 6 nachmittags
 empfangen wolle. — Die Antwort lautete bejahend.
 
@@ -1286,7 +1286,7 @@ besprechen, die mich im Grunde nichts angeht, deren richtige
 Enthüllung durch mich ich aber gerade von Ihnen gern bestätigt
 haben möchte.« Er berichtete kurz die Vorgänge im
 Dschemala von der verflossenen Nacht und fügte dann hinzu:
-»Der Enkel des alten Tomay Sangri hat die Unwahrheit
+»Der Enkel des alten Tomar Sangri hat die Unwahrheit
 gesagt, als er behauptete, er hätte von draußen einen Lichtschein
 in dem »Femzimmer« gesehen. Nein: Großvater und
 Enkel befanden sich im Dschemala, als die vier Vermummten
@@ -1326,7 +1326,7 @@ begleiten. »Ich hoffe, Ihnen eine spannende Abwechslung
 bieten zu können, Durchlaucht,« sagte er. »Es wird sehr
 wahrscheinlich einige recht dramatische und aufregende Szenen
 geben.« — Der Fürst war mit Eifer dabei. — Bereits um
-¾ 7 Uhr brachte ein Auto uns vier nach Makresch. In einem
+¾7 Uhr brachte ein Auto uns vier nach Makresch. In einem
 anderen Auto waren sechs Beamte Shesneys uns vorausgefahren,
 die noch eine siebente Person mitgenommen hatten.
 
@@ -1355,7 +1355,7 @@ Lagrange und Alvatang waren jetzt sehr blaß geworden.
 nun an Timoleit, »Ihr Familienleben vielleicht für immer
 zerstören zu müssen. Doch ich kann nicht gut dulden, daß Sie
 in schamloser Weise von den Ihrigen hintergangen und von
-einem Verbrecher mit Hilfe Ihres Schwager bestehlen werden.
+einem Verbrecher mit Hilfe Ihres Schwager bestohlen werden.
 — Ob all das im einzelnen richtig ist, was ich mir als
 Gesamtbild über die Vorgänge hier auf Grund der mir bekannt
 gewordenen Tatsachen zusammengestellt habe, weiß ich
@@ -1365,7 +1365,7 @@ dann folgte Schlag auf Schlag — jedes Wort wie ein Keulenhieb.
 alias James Palperlon, Robin Lagrange und Irmgard Timoleit.
 Der vierte an der Wand Stehende war Alvatang. Palperlons
 Zahnstocher lag auf der Kellertreppe; er allein feuerte
-dann sämtliche Schüsse auf den Götzen ab. Lagranges<@refnote 2/>
+dann sämtliche Schüsse auf den Götzen ab. Lagranges<@refnote 4/>
 Krawattennadel fand ich in der einen Decke. Irmgard Timoleits
 Hände waren mitsamt den Revolverkolben so weit sichtbar,
 daß ich sie als Frauenhände erkannte; außerdem tragen
@@ -1412,7 +1412,7 @@ hatte den Kopf tief gesenkt. Und als Timoleit nun
 dumpf fragte: »Hast Du von alledem gewußt, Etienne?« da
 fuhr sie plötzlich mit verzerrtem Gesicht auf, sprudelte eine
 Flut haltloser Vorwürfe heraus, die in der Hauptsache sich auf
-ihres Mannes Sparsamkeit, unfeines Wesen und Aehnliches
+ihres Mannes Sparsamkeit, unfeines Wesen und Ähnliches
 bezogen.
 
 Harst beendete diese unerquickliche Szene durch ein sehr
@@ -1426,7 +1426,7 @@ Der blonde Mensch war völlig gebrochen. Er hatte bereits
 mittags ein volles Geständnis ablegen wollen. Shesney
 hatte es aber vorläufig abgelehnt. — Jetzt erklärte er
 hier folgendes. — Er hieß Thomas Lincoln, war Buchmacher,
-in Heidarabad ansässig und seit langem mit Lagrange befreundet.
+in Haidarabad ansässig und seit langem mit Lagrange befreundet.
 Aus Not hatte er sich bestechen lassen, im Dschemala
 den Lockvogel zu spielen. Lagrange hatte ihm nur anvertraut,
 es handele sich darum, einem Polizeispitzel einen gehörigen
@@ -1437,7 +1437,7 @@ Weise die Polizei nur noch mehr irreführen wollen. Und
 <@pagebreak/>
 Lincoln hätte man nachher die Ausrede wohl oder übel glauben
 müssen, er habe lediglich aus Abenteuerlust im Dschemala
-genächtigt und aus Renomiersucht sich Palperlon genannt.
+genächtigt und aus Renommiersucht sich Palperlon genannt.
 
 Harst, Timoleit und ich begaben uns nun in den Kühlkeller.
 Shesney und ein Beamter bewachten oben die ganze
@@ -1452,7 +1452,7 @@ ist an allem schuld.«
 
 Wir standen nun vor der linken Mauerecke des Kellers.
 Harst hatte den gespannten Revolver in der Rechten. — Das
-Mauerstück drehte sich rückwärts. Ich leuchtete in die Oeffnung
+Mauerstück drehte sich rückwärts. Ich leuchtete in die Öffnung
 hinein. Ein kurzer Gang lag dahinter. Dann gelangten
 wir in einen großen Raum, in dem allerlei einfache
 Möbel standen: zwei Holzbetten, ein Tisch, Stühle und anderes.
@@ -1476,7 +1476,7 @@ Berlin-Schmargendorf, Blücherstraße, 10! Die alte treue
 Köchin Malwine empfing uns mit rotgeweinten Augen.
 
 Frau Auguste Harst war seit dem vorigen Nachmittag
-spurlos verschwunden. — Hierüber im nächsten Bande Näheres
+spurlos verschwunden. — Hierüber im nächsten Bande Näheres —
 über unsere Suche nach Harald Harsts gütiger, liebevoller
 Mutter.
 

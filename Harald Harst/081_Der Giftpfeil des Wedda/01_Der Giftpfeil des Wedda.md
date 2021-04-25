@@ -61,7 +61,7 @@ könnte.«
 
 Mich interessierte dieses Gespräch genau so stark wie
 Miß Myntor, da Harald mir gegenüber Dracons letzte
-Aeußerung bisher nicht weiter erwähnt hatte.
+Äußerung bisher nicht weiter erwähnt hatte.
 
 Jetzt betrat Jane Busselt, die alte Wirtschafterin Lady
 Myntors, die Terrasse. Sie hatte ihrer verstorbenen Herrin
@@ -659,7 +659,7 @@ noch heute nacht nach — Ceylon abreisen, nach Battikaloa.«
 »Verstehe. Ihr Reiseziel soll geheim bleiben. Was
 wollen Sie in Battikaloa?«
 
-Harst erzählte ihm jetzt Dracons letzte Aeußerung.
+Harst erzählte ihm jetzt Dracons letzte Äußerung.
 
 Boßwell war derart überrascht, daß er zunächst schwieg.
 Dann rief er:
@@ -1082,7 +1082,7 @@ Dann erwiderte ich:
 Hätte ich mich nicht im selben Moment gebückt, dann
 wäre das Giftding mir in die Stirn gefahren!«
 
-Honoria schrie leise auf. Diese Aeußerung ihres Schrecks
+Honoria schrie leise auf. Diese Äußerung ihres Schrecks
 war doch echt weiblich.
 
 Und nun eine wohlbekannte Stimme:
@@ -1324,7 +1324,7 @@ hinan.
 Sie ihn, Boßwell. Er ist reif dazu!«
 
 »Gut, Harst. — Hier diese Depesche ist die erste Frucht
-unserer Ueberwachung Makris und des Doktors. Ich habe
+unserer Überwachung Makris und des Doktors. Ich habe
 das Telegramm nicht abgehen lassen. — Auf Wiedersehen.«
 
 Er stürmte die Stufen hinab. Der Motor knarrte.

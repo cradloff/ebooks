@@ -143,7 +143,7 @@ gröberen Fertigkeiten, denn für die feineren und feinsten,
 wie er sie besaß, gehört ja eine ausgesprochene Begabung.
 
 Die Nacht war nicht gerade zu dunkel. Wolkenfetzen
-segelten über den ausgestirnten Himmel hin. Ueber
+segelten über den ausgestirnten Himmel hin. Über
 uns hörten wir oft die Schreie nach Norden ziehender
 Wildvögel.
 
@@ -374,7 +374,7 @@ eine sehr vertraute Verbindung besteht, weil ferner der
 andere sich warmes Essen geben ließ und vorläufig also
 nicht wieder fort wollte, schlich ich dem Luck nach. —
 Ich trat Ihnen ja auch auf den Fuß, Schraut. Allerdings
-zweimal. Ueber die Bedeutung des ersten Signals
+zweimal. Über die Bedeutung des ersten Signals
 »Achtung« sprechen wir später.«
 
 Die drei Männer vor uns waren hinter den Bäumen
@@ -434,7 +434,7 @@ verhielt. Harst hatte jedoch kaum den Spuk erblickt,
 als er auch schon mit dem scheinbar entsetzten Rufe: »Der
 Geist — der Geist!« davonrannte, — aber nicht etwa
 zurück, woher wir gekommen, sondern rechts um den Hügel
-herum den Ueberresten des Turmes zu.
+herum den Überresten des Turmes zu.
 
 Alles, was nun folgte, spielte sich so blitzschnell ab,
 daß ich mir über den Verlauf der Dinge erst später klar
@@ -601,7 +601,7 @@ mit Grubers erwachsener Tochter Anna, die sich ganz
 eingehend nach unseren Erlebnissen erkundigte.
 
 Sie war ein zartes, blasses Mädchen mit recht traurigen
-Augen. Ueber ihrem feinen Antlitz lagerte es stets
+Augen. Über ihrem feinen Antlitz lagerte es stets
 wie eine Wolke düsteren Schwermuts. Ihre Stimme
 war müde, monoton und klang wie zerbrochen. Sie mußte
 entweder von Natur schwermütig veranlagt sein oder
@@ -656,7 +656,7 @@ dann, daß mit Hilfe von Förstern und Gendarmen bis
 nach Sonnenaufgang jeder Zentimeter Boden bei der Ruine
 abgesucht worden sei — leider ergebnislos! Nur Blut
 hätte man am Rande eines Kornfeldes bemerkt, auch
-Spuren von Hunden. Sonst nichts — nichts. — Ueber
+Spuren von Hunden. Sonst nichts — nichts. — Über
 <@pagebreak/>
 Luck sprach er nicht, ebensowenig wie Harst unser erstes
 Abenteuer mit den Drähten und den vier Hunden erwähnte.
@@ -715,7 +715,7 @@ Kautschuk zu recken! Ich glaube jetzt schon zu wissen,
 was aus der Komtesse geworden ist. — Sie sehen mich
 so verdutzt an, lieber Schraut?! Ja — können Sie denn
 <@pagebreak/>
-nicht ein wenig kombinieren?! — Ueberlegen Sie mal,
+nicht ein wenig kombinieren?! — Überlegen Sie mal,
 was der Alte uns alles erzählt hat. Also:
 
 Erstens: Schloß Blinkenstein besitzt eine berühmte
@@ -913,7 +913,7 @@ ringsum?«
 »Gewiß. — Aha — die Leute suchen in der Ruine
 nach einem Schatz, Herr Harst.«
 
-»So was Aehnliches, Schraut. Warten Sie ab, Ihnen
+»So was Ähnliches, Schraut. Warten Sie ab, Ihnen
 werden schon noch die Augen vollends aufgehen! —
 Um nun »unseren« Fall, das heißt das Verschwinden der
 Komtesse, schnell restlos aufzuklären, werden sie morgen
@@ -1213,7 +1213,7 @@ emporstrebten. Jetzt stand der vorderste dort, wo der
 Geist vorhin regungslos verharrt hatte. Und ich sah, wie
 dieser Mann den Ast der Eiche umklammerte, sich geschickt
 emporzog und nach dem Stamm balancierte. Hier,
-wo dieser sich in drei Aeste teilte, bückte er sich. Und
+wo dieser sich in drei Äste teilte, bückte er sich. Und
 urplötzlich drang nun zu uns ein schwacher Lichtschein empor.
 
 Der Riesenbaum war hohl! Und gerade in der
@@ -1274,7 +1274,7 @@ und dort auch Sehschlitze oder -löcher. Der rechte
 Arm wird ein künstlicher gewesen sein. Den richtigen
 <@pagebreak/>
 rechten Arm hielt er auf dem Rücken. Um den Hals
-wird er einen Ueberzug aus schwarzer Seide, eng zusammengelegt,
+wird er einen Überzug aus schwarzer Seide, eng zusammengelegt,
 getragen haben, den er nach Belieben mit der
 Rechten sehr schnell über die Rüstung gleiten lassen konnte.
 Auf diese Weise kam das Verschwinden zustande. —
@@ -1471,7 +1471,7 @@ diesem Ergebnis nicht zufrieden sein. Ihr Stolz wird
 dadurch empfindlich verletzt werden. — Nehmen Sie
 noch immer an, Ihre Tochter sei tot?«
 
-»Ja — natürlich. — Uebrigens — ich verstehe Ihre
+»Ja — natürlich. — Übrigens — ich verstehe Ihre
 Andeutungen nicht im geringsten, und —«
 <@pagebreak/>
  
@@ -1506,7 +1506,7 @@ Uhlichs Onkel in die Brombeeren, nachdem man es durch
 <@pagebreak/>
 einen Schrotschuß durchlöchert hatte. Man wollte auf
 diese Weise einen Mord wahrscheinlicher machen. Eine
-eifersüchtige Aeußerung der Wirtstochter Anna Gruber,
+eifersüchtige Äußerung der Wirtstochter Anna Gruber,
 weiter dann die Behauptungen eines alten Wegearbeiters
 brachten mich auf die richtige Spur.«
 

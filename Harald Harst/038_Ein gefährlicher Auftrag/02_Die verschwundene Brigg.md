@@ -37,7 +37,7 @@ auf.
 
 Ich muß noch einiges über das niedrige, zweifenstrige
 Zimmer erwähnen, in dem wir uns befanden. Es war dies
-das reine Museum oder besser Raritätenkabinett. Ueberall
+das reine Museum oder besser Raritätenkabinett. Überall
 an den Wänden, auf Paneelbrettern, Gestellen und in
 Glasschränken stieß man hier auf die Beweise, daß Klaus
 Ruiterholm die ganze Welt kannte. Selbst an der Holzdecke
@@ -274,7 +274,7 @@ den Mittelbalken des Fensterkreuzes.«
 Er zog die lange Schraube, die vorn einen Handgriff
 hatte, heraus.
 
-»Sieh — das Ding schwimmt förmlich in Oel!« sagte
+»Sieh — das Ding schwimmt förmlich in Öl!« sagte
 er und schob sie wieder hinein. »Geh’ doch mal in den
 Garten und lege die Laden vor.«
 
@@ -900,7 +900,7 @@ an.«
 Unsere Orientreise begann etwas eigenartig. Wir fuhren
 nämlich erst nach Kopenhagen, dann nach Hamburg, von
 hier nach Amsterdam und London, weiter nach Marseille,
-schließlich nach Genua. Ueberall hielten wir uns mehrere
+schließlich nach Genua. Überall hielten wir uns mehrere
 Tage scheinbar zwecklos auf, spielten die Touristen und
 nannten uns stets Herbert Horwitz und Manuel Schultz,
 Kaufleute aus Berlin, hatten auch Legitimationen auf diese
@@ -936,7 +936,7 @@ namens Halpers und Shmits, Engländer von Geburt, die
 irgendwo im fernen Osten sich niederlassen wollten. Wir
 gingen wenig aus und taten Madame Tourbier gegenüber
 ganz so, als ob wir mit dem Pfennig rechnen müßten und
-nur auf die Gelegenheit zu einer billigen Ueberfahrt nach
+nur auf die Gelegenheit zu einer billigen Überfahrt nach
 Kalkutta warteten. Madame Tourbier hatte gute Beziehungen
 zu den Lotsen des Kanalamts, und sie versprach, für uns
 Passage auf einem nach Kalkutta bestimmten Segler zu besorgen.
@@ -957,7 +957,7 @@ auch Jeuratten sein. Die Hauptsache für uns ist, daß wir
 — den richtigen Anschluß nicht versäumt haben.«
 
 Ich horchte auf. — Anschluß nicht versäumt —! Das
-erinnerte ja an jene Aeußerung Haralds, die stets die gleiche
+erinnerte ja an jene Äußerung Haralds, die stets die gleiche
 geblieben war, wenn ich ihn gefragt hatte, weshalb wir
 denn von Hafenstadt zu Hafenstadt scheinbar planlos reisten.
 Dann hatte er stets von einer seltsamen Lösung dieses
@@ -1179,7 +1179,7 @@ ist er worden. Früher hatte er einen Heckaufbau wie dieses
 Modell hier. Svendsen ließ ihn irgendwo so verändern,
 daß es schwer war, ihn wiederzuerkennen.«
 
-Ich war so sprachlos vor Ueberraschung, daß ich nur
+Ich war so sprachlos vor Überraschung, daß ich nur
 ein zweifelndes »Hm — wirklich?« vor mich hinmurmelte.
 
 »Svendsen ist kein anderer als jener Eduard Marske,
@@ -1242,7 +1242,7 @@ Harst leuchtete das tief nachgedunkelte Holz mit der
 <@pagebreak/>
 Taschenlampe genau ab. Er hatte richtig vermutet: es gab
 hier genau denselben Deckel über einer ausgestemmten
-Oeffnung wie bei dem Modellmast. In dem Loche lag,
+Öffnung wie bei dem Modellmast. In dem Loche lag,
 in einen seidenen, indischen Schal gewickelt, der Smaragd
 von Ellora, ein Stein von Faustgröße und wundervollem
 Schliff. — Wir paßten den Deckel wieder ein und begaben
@@ -1336,7 +1336,7 @@ standen neben dem Tische vor dem Sofa.
 
 »Ich will mich ganz kurz fassen, Svendsen,« begann
 <@pagebreak/>
-Harst. »Sie werden dann sehr bald die Ueberzeugung gewinnen,
+Harst. »Sie werden dann sehr bald die Überzeugung gewinnen,
 daß jedes Leugnen Ihrerseits zwecklos ist. — Ruiterholm
 hieß in Wirklichkeit Nörgaard und war gebotener
 Däne. Er stahl den Smaragd aus Ellora, wobei er einem

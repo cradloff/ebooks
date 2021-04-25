@@ -865,11 +865,11 @@ einem Gegner.
 
 Dann lief mir etwas eisig Kaltes über das Gesicht.
 
-Aethergeruch benahm mir den Atem. Die würgenden
+Äthergeruch benahm mir den Atem. Die würgenden
 Hände lockerten sich.
 
 Ich atmete tief ein — atmete die mir so widerlichen
-Aetherdünste.
+Ätherdünste.
 
 Und versank in den unendlichen Abgrund tiefster Bewußtlosigkeit.
 —
@@ -879,7 +879,7 @@ Töne mein Trommelfell vibrieren machten.
 
 Und das war die erste Wahrnehmung, als mein Hirn
 <@pagebreak/>
-sich aus den Fesseln des Aetherrausches zu befreien begann:
+sich aus den Fesseln des Ätherrausches zu befreien begann:
 Glockenklang!
 
 Und die zweite eine menschliche Stimme:
@@ -1085,11 +1085,11 @@ die ganz verändert schien:
 »Wie kommen Sie darauf, daß Ripplow mein Sohn
 sei, Herr Harst?«
 
-»Durch die Aehnlichkeit mit Ihnen.«
+»Durch die Ähnlichkeit mit Ihnen.«
 
 Der alte Herr hatte sich jetzt wieder gefaßt.
 
-»Diese Aehnlichkeit bilden Sie sich ein,« erklärte er
+»Diese Ähnlichkeit bilden Sie sich ein,« erklärte er
 schroff. »Mein Sohn ist tot. Ripplow war sein Freund.«
 Harald schwieg. Da wurde Stern verlegen. »Sie
 glauben mir nicht?« meinte er.
@@ -1127,7 +1127,7 @@ fragte er wieder.
 Ich sah mir jetzt die blassen Gesichter der beiden Männer
 an, die Harald für Vater und Sohn hielt.
 
-Ja — wenn jemals, dann trat die Aehnlichkeit nunmehr
+Ja — wenn jemals, dann trat die Ähnlichkeit nunmehr
 mit aller Deutlichkeit zu Tage!
 
 »Ich weiß es nicht, Herr Stern,« erklärte Harald
@@ -1180,7 +1180,7 @@ daß Sie, Herr Stern junior, nur die Rolle des Fritz Ripplow
 hier spielen.« — Er entwickelte diese Beweise dann weit
 eingehender, als er es mir gegenüber getan hatte. Er war
 in diesem Moment ein genialer Staatsanwalt, der mit der
-ganzen Ueberlegenheit des kühl-kritischen, logischen Verstandesmenschen
+ganzen Überlegenheit des kühl-kritischen, logischen Verstandesmenschen
 einem Angeklagten vorhält, daß gegenüber
 einem so erdrückenden Beweismaterial ein Geständnis das
 einzig Vernünftige sei. — »Ich zweifle nicht daran, daß Sie
@@ -1192,7 +1192,7 @@ Leben und setzte Sie gleichsam zu seinem Erben ein.«
 Bisher hatte Stern junior sich völlig teilnahmlos verhalten.
 Jetzt hob er den Kopf und fragte rasch:
 
-»Ich bin also Ihrer Ueberzeugung nach kein Betrüger,
+»Ich bin also Ihrer Überzeugung nach kein Betrüger,
 Herr Harst?«
 
 »Nein. Dem Buchstaben des Gesetzes nach sind Sie
@@ -1220,7 +1220,7 @@ Er wurde auf der Flucht von persischen Banditen erschossen.
 Er starb in meinen Armen. Mit letzter Kraft setzte er ein
 Schriftstück auf, das mich zu seinem Erben machte. Als ich
 dann hier bei meinem Vater eintraf, berieten wir, ob ich
-mit dieser Urkunde an die Oeffentlichkeit treten dürfte und
+mit dieser Urkunde an die Öffentlichkeit treten dürfte und
 Ripplows Erbschaft antreten könnte. Mein Vater fuhr
 mit dem mit Bleistift geschriebenen Testament zu einem befreundeten
 Notar, las es ihm unter Weglassung der Namen

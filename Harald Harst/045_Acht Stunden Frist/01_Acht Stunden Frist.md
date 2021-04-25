@@ -195,7 +195,7 @@ gibt genug Leute, die Ihnen den Tod wünschen —«
 Stimmen, aber nicht Worte oder Sätze. Und — weshalb
 schneidet er sich nun einen Ausguck frei? Weshalb ist er auf
 einem Ast entlanggerutscht, der etwas höher als unser Fenster
-liegt? Weshalb probierte er erst drei andere Aeste aus? —
+liegt? Weshalb probierte er erst drei andere Äste aus? —
 Der Kerl ist gewandt wie ein Affe. Aber geringe Erschütterungen
 kann er doch nicht vermeiden. Und die verrieten seine
 Wege.«
@@ -410,7 +410,7 @@ Harst las halblaut vor:
 > Edward Street 98.
 
 Das, was auf der Rückseite der Karte mit Bleistift stand,
-lautete in deutscher Uebersetzung:
+lautete in deutscher Übersetzung:
 
 > »Master Harst! Eine Unglückliche fleht Sie um Hilfe
 an. Meine Sache duldet keinen Aufschub. Mein Mann

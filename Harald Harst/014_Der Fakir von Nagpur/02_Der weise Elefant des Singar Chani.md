@@ -32,7 +32,7 @@ zumeist bei diesem Kampf nur leidlich abgeschnitten, hatten sozusagen
 stündlich in Lebensgefahr geschwebt und immer wieder
 einsehen müssen, daß wir es hier mit einer Persönlichkeit
 zu tun hatten, die an Intelligenz Harst gleichwertig war,
-der aber an brutalen Instinkten ein derartiges Uebermaß
+der aber an brutalen Instinkten ein derartiges Übermaß
 zur Verfügung stand, daß schon deshalb dieser erbitterte Streit
 Harst-Warbatty für ersteren unendlich schwer zu einem siegreichen
 Ende zu bringen war.
@@ -73,7 +73,7 @@ braune Gesellschaft sich auf dem Vorderdeck ein Zelt aus den
 Notsegeln des Kutters errichten sollte. Die Leutchen waren
 überglücklich und dankten den Sahibs wortreich.
 
-Ueber das Kastenwesen der Hindu habe ich an anderer
+Über das Kastenwesen der Hindu habe ich an anderer
 <@pagebreak/>
 Stelle schon einiges gesagt. Es gibt vier Hauptkasten: Priester-,
 Krieger-, Gelehrten- und Kaufmannskaste. So rechnen
@@ -86,7 +86,7 @@ wieder Wasserträger werden, der des Schusters wieder Schuster.
 Wollte die englische Kolonialregierung hieran ernstlich
 etwas zu ändern suchen, würde sie auf geschlossenen Widerstand
 selbst bei der untersten Kaste stoßen. Der Hindu hält
-mit fanatischer Zähigkeit an den alten Ueberlieferungen fest.
+mit fanatischer Zähigkeit an den alten Überlieferungen fest.
 
 Von unseren zehn Mitbewohnern erklärten sich zwei der
 Männer, die etwas Englisch verstanden, sofort bereit,
@@ -176,7 +176,7 @@ liegt. Kein Wunder, wenn diese Schätze immer wieder europäische
 Hochstapler nach Indien locken. Besinne Dich nur
 an Bombay und die alte Tempelstadt. Dort schon versuchte
 Warbatty einen Anschlag auf Teile dieses toten Kapitals.
-Vielleicht will er hier etwas Aehnliches unternehmen. Es
+Vielleicht will er hier etwas Ähnliches unternehmen. Es
 wird uns unmöglich sein, ihm diesmal einen Strich durch die
 Rechnung zu machen. Wie sollen wir ihn hier wohl herausfinden?!
 — Ausgeschlossen — wenn uns nicht ein Zufall
@@ -227,7 +227,7 @@ Abendbad nahmen. Einer davon war von sehr heller Hautfarbe.
 (Lenker), die zwischen ihren Ohren hocken, sind Priester, Brahmanen.
 Also handelt es sich um Tiere, die Eigentum irgend
 eines Tempels sind —« — Er rief einen der Inder von
-Vorderdeck herbei, den Aeltesten der Pilger; er hieß Rawaiku,
+Vorderdeck herbei, den Ältesten der Pilger; er hieß Rawaiku,
 und er sprach das Englische leidlich.
 
 »Du könntest mir einen Gefallen tun,« meinte Harst.
@@ -316,7 +316,7 @@ sich anzusehen. Das Taschenfernrohr war das ausschlaggebende.«
 »Allerdings. Ich bewundere nur, wie Dir so schnell derartige
 Kleinigkeiten auf solche Entfernung auffallen!«
 
-»Uebungssache! Ich habe Dir so oft schon gesagt, daß die
+»Übungssache! Ich habe Dir so oft schon gesagt, daß die
 meisten Menschen blind sind. — Lerne sehen, lieber Schraut!
 Es ist ja nur eine gewisse Trägheit, wenn man den Blick
 über die einzelnen Dinge und Gestalten unserer Umgebung
@@ -640,7 +640,7 @@ Harald Harsts oft geradezu unnatürliche Kaltblütigkeit
 hatte ich ja mehr als einmal anzustaunen Gelegenheit
 gehabt. Heute aber erschien sie mir gegenüber der verzweifelten
 Lage, in der wir uns befanden, geradezu frivol;
-ganz besonders hielt ich seine Aeußerung über seinen Widerwillen
+ganz besonders hielt ich seine Äußerung über seinen Widerwillen
 gegen Tiergerüche für ganz unangebracht angesichts
 des Schicksals, das uns bevorstand.
 
@@ -693,7 +693,7 @@ Die Brahmanen, die den Tempel bewachen, haben das Geheimnis
 verloren, wie man in die untersten Räume gelangt,
 in der noch vor fünfzig Jahren trotz aller Verbote der Engländer
 der blutigen Kali heimlich Menschenopfer dargebracht
-wurden. Uebermorgen ist dort ein Fest. Zahlreiche Thugs
+wurden. Übermorgen ist dort ein Fest. Zahlreiche Thugs
 befinden sich unter den Pilgern. Da sollt Ihr beide der Kali
 zu Ehren geopfert werden.«
 
@@ -1402,7 +1402,7 @@ Der Hindu war verständig genug, sich zu fügen.
 Der Inspektor, die Beamten, ein paar Tempelpriester
 und ich standen in fieberhafter Spannung da.
 
-Der schmächtige Tierarzt hatte die Aermel hoch aufgekrempelt
+Der schmächtige Tierarzt hatte die Ärmel hoch aufgekrempelt
 und holte nun mit einem eisernen Haken die Gedärme
 hervor, dann den Magen. Jetzt schnitt er diesen auf,
 wühlte in dem eklen Inhalt umher, legte dann einen mit

@@ -326,7 +326,7 @@ Wieder schob der maskierte Diener den Rohrsessel, an
 den ich mit über der Brust gekreuzten Armen festgebunden
 war, von der Plattform herab, und diese sauste mit ihm
 dann rasch in die Höhe, während sich meine Augen erst an
-diese Ueberfülle von Licht gewöhnen mußten.
+diese Überfülle von Licht gewöhnen mußten.
 
 Eine fünfarmige elektrische Krone sowie sechs Wandleuchter
 ließen hier jede Einzelheit überdeutlich erkennen.
@@ -357,7 +357,7 @@ das Glas der Tür.
 
 Diesmal zersplitterte es. Diesmal schlängelte sich das
 <@pagebreak/>
-Reptil rasch durch die zackige Oeffnung ins Freie.
+Reptil rasch durch die zackige Öffnung ins Freie.
 
 Und verschwand unter einem Spiegelschrank.
 
@@ -392,7 +392,7 @@ rettenden Gedanken!
 
 Herr Harst — ich fühlte, daß dieser Folterknecht mit
 der blauen Brille recht hätte: ich würde wahnsinnig werden,
-wenn er noch einige dieser »Ueberraschungen« in Bereitschaft
+wenn er noch einige dieser »Überraschungen« in Bereitschaft
 hatte!
 
 Jetzt, wo ich dies niederschreibe, weiß ich ja, daß die
@@ -560,7 +560,7 @@ und fragte, nur um all die quälenden Sorgen zu vergessen:
 Daisy Bennertons war? Kann es nicht Daisy selbst
 gewesen sein?«
 
-»Nein, Daisy war es nicht. Ueberlege Dir: Iwannow
+»Nein, Daisy war es nicht. Überlege Dir: Iwannow
 versank mit dem beweglichen Fußbodenstück bis in eine
 zweite Kelleretage und sah hier sofort die blonde Frau in
 dem Glasschranke sitzen. Bedenke weiter, daß diese Frau
@@ -770,9 +770,9 @@ aus dem Abteil 1. Klasse wären in Manikpur ausgestiegen.«
 Harmloser Webster! *Ich* war fest überzeugt, daß Harald
 das Tal und die drei Fabriken bereits gefunden hatte.
 
-Und Harsts nunmehr folgende Aeußerung: »Ja, Webster,
+Und Harsts nunmehr folgende Äußerung: »Ja, Webster,
 tun Sie es nur und geben Sie uns dann Nachricht,«
-bestärkte mich in dieser Ueberzeugung nur.
+bestärkte mich in dieser Überzeugung nur.
 
 Iwannow und Webster verabschiedeten sich bald.
 

@@ -22,7 +22,7 @@ von Kalkutta stromaufwärts gekommen war.
 
 Zu beiden Seiten ihres scharfen Bugs leuchtete in vergoldeten
 Buchstaben der Name Atlanta. Sie gehörte dem
-Engländer Bansy, der gleichzeitig ihr Kapitän war und der
+Engländer Banfy, der gleichzeitig ihr Kapitän war und der
 sie jetzt seit Monaten an den Liebhaberdetektiv Harald Harst
 vermietet hatte. —
 
@@ -96,7 +96,7 @@ bleiben.«
 So kamen wir zu den Tabletten. Und wir alle auf der
 Atlanta nahmen täglich drei davon, wenn wir auch eine
 halbe Stunde nach Genuß der Dinger alles doppelt sahen
-und Ohrensausen und Uebelkeitsgefühl hatten.
+und Ohrensausen und Übelkeitsgefühl hatten.
 
 Am nächsten Abend besuchten wir Doktor Bemol in der
 bereits 1693 erbauten, riesigen Sternwarte, die mit den
@@ -111,7 +111,7 @@ Platz genommen und eine frische Brasil-Pechnudel zwischen
 die Zähne geschoben hatte, begann er:
 
 »Ich sagte feine Sachen — nämlich einen Leckerbissen
-für Ihr Hirn, bester Harst. — Uebrigens — dieser Whisky
+für Ihr Hirn, bester Harst. — Übrigens — dieser Whisky
 ist gut. Nur das Glas ist zu klein. Ich werde ihn aus der
 Tasse trinken. — Leckerbissen — Tatsache! Ich habe heute
 früh mit dem Fernrohr von der Turmplattform aus etwas
@@ -656,7 +656,7 @@ Antworten, bis Harald festgestellt hatte, daß Sapada offenbar
 während der Anwesenheit des falschen Fürsten sich entfernt
 hatte, — falls er sich überhaupt entfernt hatte, was
 Harst stark bezweifelte, zumal einer der Diener sich auf eine
-Aeußerung Sapadas besann, die etwa gelautet hatte:
+Äußerung Sapadas besann, die etwa gelautet hatte:
 
 »Ich werde die Augen offen halten —« — Dann hatte
 er den Anbau des Palastes verlassen. —
@@ -729,7 +729,7 @@ Mittelfinger.
 
 »Die ganze Hand, das heißt diese Abdrücke von fünf
 Fingerspitzen rühren von einem Manne her, die drei Finger
-von einer Frau,« sagte er. — Uebrigens hatte ich das
+von einer Frau,« sagte er. — Übrigens hatte ich das
 ebenfalls schon erkannt.
 
 »Also Saalborg und seine Begleiterin,« meinte ich.
@@ -743,23 +743,23 @@ Deshalb wollte der Alte sich auch zuerst über das Weib nicht
 äußern. Jedenfalls war es eine Europäerin von zarter
 Hautfarbe.«
 
-Unser Käpten Bansy, dem wir alles erzählt hatten,
+Unser Käpten Banfy, dem wir alles erzählt hatten,
 sagte jetzt:
 
 »Vielleicht hat Sapada als einziger an der Echtheit des
 Fürsten gezweifelt —«
 
 <@pagebreak/>
-»Ganz gewiß hat er das, lieber Bansy. Vielleicht hat
+»Ganz gewiß hat er das, lieber Banfy. Vielleicht hat
 er gar vom Garten aus gesehen, wie die beiden die Statue
 herabstürzten, und ist dann in den Palast geeilt, hat an die
 Tür des Saales geklopft, wurde eingelassen und stumm gemacht.
-Uebrigens ein sehr feiner Streich, dieses Zerstören
+Übrigens ein sehr feiner Streich, dieses Zerstören
 der Telephonleitung durch die Statue. So konnte diese
 Zerstörung keinerlei Argwohn erregen und gab anderseits
 dem falschen Fürsten den Vorwand zur schleunigen Weiterfahrt.«
 
-»Schade?!« brummte Bansy. »Schade, daß dieser
+»Schade?!« brummte Banfy. »Schade, daß dieser
 Saalborg nun zum Mörder geworden ist. Bisher hatte ich
 für den Menschen beinahe etwas Sympathie — etwas!«
 
@@ -787,7 +787,7 @@ Sprechen wir über etwas anderes.«
 Während wir noch bei Tisch saßen, kam unser Steuermann
 Morris aus der Stadt zurück und brachte ein frisches
 Extrablatt mit, das über den Mord im Palast Paragwana
-unter der Ueberschrift:
+unter der Überschrift:
 
 > Das Rätsel von Paragwana
 
@@ -800,7 +800,7 @@ der Umstand, daß Harst und ich dem Extrablatt mit keiner
 Silbe erwähnt waren.
 
 Unter diesem Bericht stand noch ein zweiter mit der
-Ueberschrift:
+Überschrift:
 
 > »Großer Juwelendiebstahl im Savoy-Hotel«.
 
@@ -824,7 +824,7 @@ Harst hatte uns beide Artikel vorgelesen.
 »Dieser Diebstahl ist Feinarbeit.«
 
 <@pagebreak/>
-Koch Hull trug das Geschirr ab. Wir beide und Bansy
+Koch Hull trug das Geschirr ab. Wir beide und Banfy
 rauchten in den Korbsesseln unsere Verdauungszigarre.
 
 Hull kam wieder die Treppe hinab, meldete:
@@ -832,7 +832,7 @@ Hull kam wieder die Treppe hinab, meldete:
 »Master Harst, Miß Billham bittet Sie sprechen zu
 dürfen. Sie langte soeben in einem Ruderboot an.«
 
-»Dann verschwinde ich,« meinte Bansy rücksichtsvoll.
+»Dann verschwinde ich,« meinte Banfy rücksichtsvoll.
 
 Und Miß Honoria Billham erschien.
 
@@ -862,7 +862,7 @@ führen.«
 
 »Also Saalborg ist der Dieb?«
 
-»Inspektor Worbler schwört darauf. Uebrigens ein
+»Inspektor Worbler schwört darauf. Übrigens ein
 gräßlicher Mensch! So sehr von sich eingenommen. So
 ganz Beamter! Scheußlich! — Master Harst, ich habe
 Worbler denn auch das Wichtigste verschwiegen.«
@@ -1166,7 +1166,7 @@ Und — wer hatte mir zu trinken gegeben, wer hatte
 geantwortet: »Ich, mein Alter — «
 
 Ich rief mir diese matte, leise Stimme ins Gedächtnis
-zurück, gelangte bald zu der Ueberzeugung, daß es nicht Haralds
+zurück, gelangte bald zu der Überzeugung, daß es nicht Haralds
 Stimme gewesen.
 
 Ich kombinierte ganz richtig: Der Helfer hat Dich im
@@ -1298,7 +1298,7 @@ Lassen wir alles Grübeln. Ich kann noch nicht klar
 denken. Morgen, also nach abermaligem Genesungsschlaf,
 wird es sich zeigen, ob wir schon fähig sind, nach Benares
 zu wandern. Wir werden es nachts tun, werden, falls die
-Atlanta noch da ist, heimlich an Bord gehen. Uebrigens
+Atlanta noch da ist, heimlich an Bord gehen. Übrigens
 hat man uns total ausgeplündert. Wir haben nichts als
 unsere Kleider und Saalborgs Spenden. — Schlafen wir.
 Gute Nacht.«
@@ -1307,14 +1307,14 @@ Gute Nacht.«
 
 <h3>Ein ungelöstes Rätsel.</h3>
 
-Kapitän Bansy saß mit Steuermann Morris im Jachtsalon.
+Kapitän Banfy saß mit Steuermann Morris im Jachtsalon.
 Vor jedem stand ein Grogglas.
 
-»Morris!« sagte Bansy dumpf, »ich werde zum Säufer,
+»Morris!« sagte Banfy dumpf, »ich werde zum Säufer,
 wenn die Geschichte so weiter geht. Ich habe Harst lieb
 gewonnen, und den Schraut nicht minder. Ich kann nicht
 glauben, daß sie tot sind. Dieser Inspektor Worbler versteht
-nur nicht zu suchen, dieser Aeppelfatzke. Die beiden
+nur nicht zu suchen, dieser Äppelfatzke. Die beiden
 werden irgendwo gefangen gehalten.«
 
 Morris machte gleichfalls ein trübseliges Gesicht und
@@ -1331,7 +1331,7 @@ sind tot!« Er seufzte und trank sein Glas leer.
 Die Tür nach der Treppe stand offen. Es war eine
 schwüle, gewitterschwangere Nacht.
 
-Bansy schlug mit der Faust auf den Tisch. »Verdammt
+Banfy schlug mit der Faust auf den Tisch. »Verdammt
 — sie leben!« rief er. »Meine innere Stimme sagt’s mir.
 Ich bleibe noch acht Tage hier. Morris, morgen werden
 wir beide nochmals die Ruine durchstöbern.«
@@ -1370,17 +1370,17 @@ flüsterte:
 aber nicht! Verstanden! Es darf niemand wissen, daß
 wir leben! —«
 
-Bansy fluchte. »Wo bleibt Hull mit dem heißen Wasser,
+Banfy fluchte. »Wo bleibt Hull mit dem heißen Wasser,
 der bummlige Kerl! Will uns verdursten lassen —«
 
 Dann fuhr er von seinem Sitze hoch.
 
 Wir waren in der offenen Tür erschienen.
 
-»Da sind wir,« meinte Harst. »Lieber Bansy, Mund
+»Da sind wir,« meinte Harst. »Lieber Banfy, Mund
 zu! Sonst kriegen Sie Kinnbackenkrampf —«
 
-Bansy packte Haralds Rechte.
+Banfy packte Haralds Rechte.
 
 »Ich wußte es ja. Ich wußte es ja. Sie leben!«
 stammelte er.
@@ -1398,7 +1398,7 @@ Nur die Wache muß an Deck.«
 Makray entfernte sich zögernd.
 
 »Verdammt, Harst, Sie sehen wie Braunbier und
-Spucke aus!« meinte Bansy. »Man muß Ihnen beiden
+Spucke aus!« meinte Banfy. »Man muß Ihnen beiden
 übel begegnet sein! Und Schraut ist mager wie ein Winterspatz
 in Old England.«
 
@@ -1413,7 +1413,7 @@ eine Brühe —« — Hull nickte und begab sich in seine Kombüse.
 Harst erzählte, nippte hin und wieder an dem Glase
 Malagawein, das Morris uns eingeschenkt hatte.
 
-Und als Harald fertig war, meinte Bansy aufatmend:
+Und als Harald fertig war, meinte Banfy aufatmend:
 
 »Da hat der Tod Sie beide diesmal recht nahe gestreift.
 — So, nun lege ich los, Master Harst. — Morris,
@@ -1476,7 +1476,7 @@ auf. Ich soll den besten Detektiv aus Bombay kommen
 lassen. Auch die Miß war überzeugt, Sie beide lebten
 noch.«
 
-»Haben Sie schon nach Bombay telegraphiert, Bansy?«
+»Haben Sie schon nach Bombay telegraphiert, Banfy?«
 
 »Ja — leider!«
 
@@ -1496,7 +1496,7 @@ Euch, Kinder.«
 <@pagebreak/>
 »Schraut und ich verschwinden nachher wieder — verkleidet!«
 fuhr Harald fort. »Die Atlanta geht morgen
-abend nach Patna. Sie tun so, Bansy, als wollten Sie das
+abend nach Patna. Sie tun so, Banfy, als wollten Sie das
 Pestgebiet verlassen. Dem Bombayer Detektiv können Sie
 inzwischen ja die Ruine gezeigt haben. Wir haben den
 Eingang zu dem Gewölbe sicher verrammelt. Wir werden
@@ -1507,7 +1507,7 @@ sagten uns Gute Nacht.
 
 Es war mittlerweile halb zwölf geworden.
 
-Wir aßen. Bansy trank das sechste Glas Grog. Mit
+Wir aßen. Banfy trank das sechste Glas Grog. Mit
 einem Male rief er:
 
 »Verdammt — ich habe doch etwas vergessen, Master
@@ -1522,7 +1522,7 @@ Er griff in die Tasche und legte das Büchschen auf
 den Tisch.
 
 »Miß Honoria wollte sie gestern ins Wasser werfen,
-als sie hier bei uns war, Master Harst,« erklärte Bansy
+als sie hier bei uns war, Master Harst,« erklärte Banfy
 weiter. »Sie sagte, sie bewahre nie unangenehme Andenken
 auf. Da bat ich sie darum.«
 
@@ -1540,7 +1540,7 @@ meinte:
 »Jedes Rätsel ist zu lösen — jedes! Wir werden
 auch Sapadas Mörder finden.«
 
-»Plötzlich so zuversichtlich?!« rief Bansy verwundert.
+»Plötzlich so zuversichtlich?!« rief Banfy verwundert.
 
 »Lieber Käpten,« — Harst schob den Teller weg —
 »jeder Verbrecher macht mal eine Dummheit — jeder! Und
@@ -1553,7 +1553,7 @@ erste Dummheit zu entdecken. Manchmal hilft da ein Zufall —«
 Er nahm eine Zigarette.
 
 »Schraut, wir müssen mit der Toilette beginnen. —
-Bansy, Sie rudern uns wohl nachher an Land. Die Nacht
+Banfy, Sie rudern uns wohl nachher an Land. Die Nacht
 ist dunkel und günstig —« —
 
 Um ein Uhr morgens verließen wir im Beiboot mit

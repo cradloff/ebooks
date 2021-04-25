@@ -95,7 +95,7 @@ Da erst wurde Luzie Wargenheim klar, weshalb Battenham
 vor dieser Sitzung für den kinematographischen
 Apparat das Bild der verschleierten Frau in der Weise
 vorbereitet hatte, daß diese Frau, der man eine entfernte
-Aehnlichkeit mit Tolkins verstorbener Gattin gegeben hatte,
+Ähnlichkeit mit Tolkins verstorbener Gattin gegeben hatte,
 einen Dolch wie zum Wurfe erhob. Da erst sah sie ein, daß
 es sich hier um ein sorgfältig vorbereitetes Verbrechen
 handelte. Sie erkannte aber auch, daß es ihr schwerfallen
@@ -116,12 +116,12 @@ Bechert hoffte, durch Teilnahme an den Sitzungen irgendwie
 das Geheimnis dieses Mordes aufklären zu können.
 Gegen Frau Evelyn Wilcword hatte Bechert nie Argwohn
 geschöpft, da sie bereits drei Wochen vor dem Morde mit
-ihrem Kinde nach Aegypten gereist war. —
+ihrem Kinde nach Ägypten gereist war. —
 
 Auf Becherts Frage, wieviel Mitglieder der Bande sich
 wohl noch in Berlin befänden, erklärte Luzie Wargenheim,
 sie könnte hierüber keine Auskunft geben. Sie betonte, daß
-sie jetzt alles, was sie wisse, ausgesagt habe. Ueber die
+sie jetzt alles, was sie wisse, ausgesagt habe. Über die
 Vergiftung Battenhams könne sie nichts angeben.
 
 Bechert ließ sie nunmehr in eine Zelle des Polizeigefängnisses
@@ -247,7 +247,7 @@ Frau Auguste Harst war bereits aufgestanden. Auch
 Mathilde, das alte Faktotum des Hauses, wirtschaftete bereits
 in der Küche herum.
 
-Die freudige Ueberraschung der Mutter Haralds, die
+Die freudige Überraschung der Mutter Haralds, die
 Herzlichkeit, mit der sie auch mich begrüßte, standen in so
 wohltuendem Gegensatz zu all dem Häßlichen, das wir
 eben mit erlebt und mit angehört hatten.
@@ -300,7 +300,7 @@ Die beiden amerikanischen Briefmarken waren so
 schlecht abgestempelt, daß sich aus dem Stempel der Tag der
 Absendung nicht entziffern ließ.
 
-»Oeffne ihn und lies vor,« meinte Harst, indem er sich
+»Öffne ihn und lies vor,« meinte Harst, indem er sich
 eine Mirakulum anzündete.
 
 Ich schnitt den Umschlag sorgfältig auf und zog den
@@ -391,7 +391,7 @@ weiter —«
 Und ich las jetzt bedeutend hastiger, denn diese 682
 Steine begannen mich zu interessieren:
 
-»Ueber den Verbleib der Diamanten konnte jedoch bis
+»Über den Verbleib der Diamanten konnte jedoch bis
 auf den heutigen Tag nichts festgestellt werden. Sie sind
 verschwunden. — Würden Sie nun, Herr Harst, vielleicht
 die Freundlichkeit haben, diese Angelegenheit zu untersuchen?
@@ -409,7 +409,7 @@ hier ab:
 
 > Utchssueddidiamnntae, oslfaeedst
 
-> Aestfanlfl, nudnditrwfleükgfneri!
+> Ästfanlfl, nudnditrwfleükgfneri!
 
 Die vier Buchstaben »Diam« habe ich unterstrichen.
 
@@ -826,7 +826,7 @@ struppiger Bart und das borstige Haupthaar?!
 
 Ich blickte zur Seite, schloß die Lider.
 
-Oeffnete sie: —: das Bild blieb dasselbe. Dort hing
+Öffnete sie: —: das Bild blieb dasselbe. Dort hing
 der tote Drywater — ein entsetzlicher Anblick, eine furchtbare
 Drohung für uns beide die wir uns in der Gewalt
 Eva Wilcwords befanden!
@@ -842,7 +842,7 @@ Schatten der hohen Rohrsessellehnen und der Kopfpolster.
 Und doch — täuschte ich mich?! — lächelte Harst nicht
 ganz wenig?
 
-Eine plötzliche Uebelkeit als Folge der Gehirnerschütterung,
+Eine plötzliche Übelkeit als Folge der Gehirnerschütterung,
 eine Art Ohnmachtsanfall zauberte feurige Sternchen
 anstelle des Antlitzes meines Freundes.
 
@@ -988,7 +988,7 @@ der Bürodiener,« beendete Harald diese Erklärung.
 Sein Blick ruhte jetzt auf Eva Wilcwords Antlitz. Und
 dieses Antlitz verriet Verwirrung, Staunen.
 
-Und Harst sprach weiter — mit spöttischer Ueberlegenheit:
+Und Harst sprach weiter — mit spöttischer Überlegenheit:
 
 »Sie müssen mich nicht zu betrügen suchen, Frau
 Wilcword. Weshalb Sie uns in der verflossenen Nacht entkommen
@@ -1044,12 +1044,12 @@ ist eine Strafe für Sie!«
 
 Eva Wilcword hatte sich vorgebeugt. Der eisige Hochmut
 aus ihrem Gesicht war wie weggewischt. Enttäuschung,
-Aerger, Wut verrieten ihre Züge.
+Ärger, Wut verrieten ihre Züge.
 
 »Sie meinen also, die Diamanten lassen sich nicht auffinden?«
 stieß sie jetzt atemlos hervor. »Haben Sie denn
 bereits genügend versucht, den Spruch zu dechiffrieren?
-Haben Sie die Ueberzeugung gewonnen, daß eine Lösung
+Haben Sie die Überzeugung gewonnen, daß eine Lösung
 nicht möglich ist?!«
 
 »Ich habe es versucht, gewiß!«
@@ -1062,7 +1062,7 @@ dort, würden die Diamanten holen und — Ihr Spiel
 gewonnen haben!« —
 
 Jetzt begriff ich Haralds Taktik: er hatte Eva Wilcword
-vorerst nur die Ueberzeugung beibringen wollen, daß
+vorerst nur die Überzeugung beibringen wollen, daß
 er bisher die Lösung *nicht* gefunden, sich aber auch in
 der Annahme, es handele sich bei dem Spruch lediglich um
 eine Art Racheakt Wilcwords, keine besondere Mühe gegeben
@@ -1101,7 +1101,7 @@ Stunde hier vom Fenster aus ein Zeichen — winke mit dem
 Taschentuch. Auch dann sind wir frei. Auch dann sollen
 Sie noch zwei Stunden Ruhe vor mir haben. — Sie sehen,
 meine Vorschläge sind für beide Teile gleich günstig. Auf
-andere lasse ich mich nicht ein. Ueberlegen Sie sich’s!«
+andere lasse ich mich nicht ein. Überlegen Sie sich’s!«
 
 Eva Wilcword stand auf und trat hinter die Sessel.
 Sie flüsterte dort mit Holdstein. Dann kam sie wieder nach
@@ -1141,7 +1141,7 @@ nur zurechtgeschminkt und mit einem Strick um die Brust,
 der unter seinem Rock liegt, an die Wand gehängt. Die
 Schlinge um den Hals liegt ja ganz lose. Der Hals müßte
 viel länger gereckt sein, wenn Drywater wirklich aufgeknüpft
-worden wäre. — Ueberlassen Sie es uns, ihn herabzuheben.
+worden wäre. — Überlassen Sie es uns, ihn herabzuheben.
 Ich verspreche auch in seinem Namen das gleiche: kein Verrat
 und Einhalten der Frist! — Der Trick, Drywater dort
 an der Wand als ernste Mahnung für uns in Szene zu

@@ -309,7 +309,7 @@ dürften also in seiner Person wieder auf ein kleines Geheimnis
 gestoßen sein, lieber Alter. Das wird uns für den Reinfall
 mit der Kupfermine und der Skizze entschädigen. — Die
 Skizze ist falsch. Ihre Angaben stimmen nicht. Das ist nun
-auch meine Ueberzeugung.«
+auch meine Überzeugung.«
 
 »Vielleicht hat Professor Tamblay sie absichtlich falsch gezeichnet,
 um nachher allein das richtige Tal herauszufinden,«
@@ -720,7 +720,7 @@ Platz nehmen.
 wir von hier flüchten können?« fragte er ganz leise.
 
 »Nein, das nicht gerade,« erwiderte Harald. »Aber —
-ich war jedenfalls auf diesen Ueberfall durch die Klubleute etwas
+ich war jedenfalls auf diesen Überfall durch die Klubleute etwas
 vorbereitet. Ich habe Schraut schon erzählt, daß ich
 gestern nachmittag in der Wüste rasch sich bewegende Punkte
 gewahrte, Reiter eben. Es waren fünf Reiter. Und sie kamen
@@ -793,7 +793,7 @@ Da — jetzt hörte auch ich etwas wie ein Stöhnen.
 Woher es kam, konnte ich nicht entscheiden.
 
 »Teufel, was ist das?« flüsterte Erverlyn. »Da — da
-stöhnt jemand. Ob das von draußen durch die schmale Oeffnung
+stöhnt jemand. Ob das von draußen durch die schmale Öffnung
 hereindringt?«
 
 Harald blieb stumm. Wir lauschten.
@@ -819,7 +819,7 @@ Erverlyn machte sich sofort über die Eßwaren her.
 »Sie sind wahrhaftig der reine Prophet, Harst,« meinte
 er und schraubte den Becher von der Patentflasche ab.
 
-Ich warnte ihn. »Denken Sie an Davidsons Aeußerung,«
+Ich warnte ihn. »Denken Sie an Davidsons Äußerung,«
 sagte ich. »Das Getränk kann vergiftet sein.«
 
 »Es ist Wasser mit Zitronensaft, dem Geruche nach,«
@@ -854,7 +854,7 @@ Wir stellten dann fest, daß die Fußboden-Steinplatte links
 in der Ecke sich etwas lüften ließ, wenn man sie auf der einen
 Seite herunterdrückte. Man konnte sie auf diese Weise ausheben.
 Sie war etwa sechzig Zentimeter im Quadrat groß.
-Darunter gähnte eine Oeffnung, die Harald nun, indem er sich
+Darunter gähnte eine Öffnung, die Harald nun, indem er sich
 lang hinlegte, nach unten und nach den Seiten mit den Händen
 abtastete.
 
@@ -878,7 +878,7 @@ Da klatschte die Büchse unten auf.
 »Vielleicht etwas mehr,« sagte Harst. »Sieben bis acht.
 Wenn wir unsere Taschenlampen hätten, könnten wir das
 Souterrain unserer Behausung bequemer erforschen. — Decken
-wir die Steinplatte wieder über die Oeffnung.« —
+wir die Steinplatte wieder über die Öffnung.« —
 
 Erverlyn, der nun wieder besserer Stimmung war, wollte
 jetzt von Harald durchaus wissen, weshalb dieser sich so bestimmt
@@ -897,7 +897,7 @@ mochte etwa elf Uhr vormittags sein.
 habt jetzt den Karbolgeruch dauernd in der Nase, und Euch
 fällt trotzdem nicht ein, daß sich in dem Bündel des Radschputen
 in dem Steinhaufen eine Flasche Karbol befand. —
-Schraut, Du hast diese Flasche ja gesehen. Aeußere Dich
+Schraut, Du hast diese Flasche ja gesehen. Äußere Dich
 darüber —«
 
 »Es war eben eine Flasche Karbol. Auf die Flasche war
@@ -1059,7 +1059,7 @@ Lord als es draußen dunkel zu werden begann. Wir erkannten
 dies ja daran, daß auch bei uns die Dämmerung allmählich
 in die unangenehme Finsternis überging.
 
-»Ueber das Ende dieses Abenteuers,« erwiderte Harald.
+»Über das Ende dieses Abenteuers,« erwiderte Harald.
 »Ich bin sehr gespannt darauf, wie Chotan sich mit dem
 »guten Freund« auseinandersetzen wird. Ist meine Theorie
 nämlich richtig, so muß dieser Zigarettenspendierer dem Chotan
@@ -1124,7 +1124,7 @@ Das Streichholz war abgebrannt. Aber Harst hatte die
 Platte schon gepackt und richtete sie langsam und geräuschlos
 auf.
 
-Wir neigten die Köpfe ganz tief über die Oeffnung. Unten
+Wir neigten die Köpfe ganz tief über die Öffnung. Unten
 schwärzeste Finsternis.
 
 Dann eine Stimme, halblaut, englische Worte:
@@ -1151,7 +1151,7 @@ Fackel, leuchtete nun in das Souterrain hinab.
 
 »Ich werde springen,« meinte er. »Es ist nicht allzu hoch.«
 
-Er ließ sich in die Oeffnung hinab, hielt sich mit den Fingern
+Er ließ sich in die Öffnung hinab, hielt sich mit den Fingern
 am Rande fest, plumpste dann abwärts.
 
 Erverlyn warf die Papierfackel hinterdrein. Harst hob
@@ -1221,7 +1221,7 @@ Helfen konnte ich Ihnen nicht. Ich hatte als Waffe
 nur ein Messer und einen Revolver bei mir. Sie wissen ja:
 meine beste Waffe ist mein Mundwerk. Na — in diesem
 Falle hätte ich gern eine Büchse gehabt. — Ich beobachtete
-Ihre Ueberführung nach der Insel hier. Als die vier Gentlemen
+Ihre Überführung nach der Insel hier. Als die vier Gentlemen
 und die Miß sich vom Seeufer verzogen hatten, kletterte
 ich in den Kahn und ruderte hierher. Dann entkleidete ich
 mich, brachte den Kahn schwimmend wieder ans Seeufer zurück,
@@ -1349,7 +1349,7 @@ Tompkinson, der schon wieder seinen Bleistift bei der Hand
 hatte und eifrig schrieb. »Natürlich der Bhat Chotan — natürlich!«
 beantwortete er sich die Frage selbst. »Der Radschpute
 also und die Leute, die dort auf der Insel gelebt haben.
-Uebrigens — in der Nacht, als Sie drei schliefen, habe ich das
+Übrigens — in der Nacht, als Sie drei schliefen, habe ich das
 Wohngemach sozusagen um und um gekrempelt. Ich hoffte irgend
 etwas zu finden, das mir über diese Einsiedler Aufschluß
 gegeben hätte. Ich entdeckte nichts — nichts! Kein Schriftstück

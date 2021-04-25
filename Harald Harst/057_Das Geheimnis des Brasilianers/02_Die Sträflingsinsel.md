@@ -28,7 +28,7 @@ Sträflingsinsel ansehen.«
 verboten. Aber mit Ihren beiden machen wir gern eine
 Ausnahme. Der Kapitän des Regierungsdampfers wird
 Befehl erhalten, Sie mitzunehmen, falls Sie es nicht vorziehen,
-Ihre Jacht Atlanta zur Ueberfahrt dorthin zu benutzen.
+Ihre Jacht Atlanta zur Überfahrt dorthin zu benutzen.
 Ich würde Ihnen dann einen Ausweis für den
 Gouverneur der Insel mitgeben.«
 
@@ -84,12 +84,12 @@ gleichlautende Text der Briefe. Immerhin ist es möglich,
 daß ich die vier eichenen Fässer finde.« —
 
 Nach einer Stunde kehrten wir an Bord der Atlanta
-zurück, wo Kapitän Bansy uns mit der Unglücksnachricht
+zurück, wo Kapitän Banfy uns mit der Unglücksnachricht
 empfing, daß drei unserer Leute, darunter Steuermann
 Morris und der Maschinist plötzlich an Gelbfieber erkrankt
 und ins Hospital gebracht worden seien.
 
-Harald ordnete an, Bansy solle die Mannschaft sofort
+Harald ordnete an, Banfy solle die Mannschaft sofort
 durch zuverlässige Leute ergänzen, da wir nachmittags um
 6 Uhr in See gehen würden.
 
@@ -209,18 +209,18 @@ meinte. Es ist ein sehr eleganter Herr, dieser Wendwoord.«
 »Wir kennen ihn. Grüßen Sie ihn von uns und
 sprechen Sie ihm mein Bedauern aus, daß ich leider nicht
 Zeit habe, ihm irgendwie zu helfen, wenigstens jetzt nicht.
-Uebermorgen treffe ich hier wieder ein. Sollte die Polizei
+Übermorgen treffe ich hier wieder ein. Sollte die Polizei
 in dieser Angelegenheit bis dahin nichts ausgerichtet haben,
 dann werde ich sie nachprüfen, obwohl derartige Fälle mich
 kaum interessieren.« —
 
 Als wir dann kurz vor sechs uns nach der Atlanta
 rudern ließen, begegneten wir auf dem Wege zur Jacht einem
-anderen Boote, in dem Kapitän Bansy mit den drei
+anderen Boote, in dem Kapitän Banfy mit den drei
 neu angeworbenen Leuten saß.
 
 Es waren dies zwei Engländer und ein Franzose, alles
-ältere Männer, die Bansy ganz zufällig in einer Hafenkneipe
+ältere Männer, die Banfy ganz zufällig in einer Hafenkneipe
 getroffen hatte. Sie machten einen vorzüglichen
 Eindruck, besonders der Ersatzmann für Morris war so
 eine Art Unikum und stellte ich uns mit den Worten vor:
@@ -249,18 +249,18 @@ auf den langen Wogen des Ozeans. —
 
 Wir hatten das Abendessen hinter uns. Unser Koch
 und Steward Hull räumte den Tisch im Salon ab, brachte
-für Bansy den Schlaftrunk, halb Wasser, halb Rum, stellte
+für Banfy den Schlaftrunk, halb Wasser, halb Rum, stellte
 die Aschbecher zurecht und verschwand.
 
-»So — nun los!« meinte Bansy behaglich, »Raus
+»So — nun los!« meinte Banfy behaglich, »Raus
 mit den Briefen und den Zeitungen. Möchte mir die Geschichte
 doch auch ansehen —«
 
 Harald legte einen der Briefe und die Skizze, die er
 Chalpin abgenommen hatte, auf das weiße Tischtuch.
-Bansy und ich rückten näher.
+Banfy und ich rückten näher.
 
-»Ich will hier zuerst den Brief in deutscher Uebersetzung
+»Ich will hier zuerst den Brief in deutscher Übersetzung
 wiedergeben:
 
 <p class="right">2. Juli 1801.</p>
@@ -292,7 +292,7 @@ Hörnern. Es bringt Glück. Dieses Glück fleht auf Sie
 herab — einst ein Feind, jetzt ein Freund.«
 
 »Das klingt, als hätte ein Verrückter die Geschichte
-verfaßt,« meinte Bansy und stopfte seine Pfeife.
+verfaßt,« meinte Banfy und stopfte seine Pfeife.
 
 »Und doch schrieb es einer, der als Greis noch einen
 außerordentlich klaren Kopf besaß und der annahm, daß
@@ -301,7 +301,7 @@ würden.« sagte Harald ernst. »Leider aber verstand jener
 Eustachio Sellavilla nichts — nichts davon. Und so blieb
 das Geheimnis des Brasilianers bis heute ein Geheimnis.«
 
-»Bis heute?!« fragte Bansy. »Dann müßten Sie gerade
+»Bis heute?!« fragte Banfy. »Dann müßten Sie gerade
 heute es aufklären, Master Harst.«
 
 »Das will ich auch. Wenigstens will ich es versuchen.
@@ -324,15 +324,15 @@ auf den vergilbten Brief. Er schien gar nicht auf
 meine Worte hingehört zu haben.
 
 »Mit dieser Weisheit können Sie sich begraben lassen,«
-lachte Bansy. »Master Harst — nun mal die Zeichnung!«
+lachte Banfy. »Master Harst — nun mal die Zeichnung!«
 
 Harald rührte sich nicht.
 
-Ich winkte Bansy zu, sich still zu verhalten.
+Ich winkte Banfy zu, sich still zu verhalten.
 
 <@pagebreak/>
 Ich nahm die Zeichnung, die neben Haralds linker
-Hand lag, leise auf und breitete sie zwischen Bansy und
+Hand lag, leise auf und breitete sie zwischen Banfy und
 mir aus.
 
 Es war ein Blatt Papier in der Größe von etwa 20
@@ -349,7 +349,7 @@ brüchige Kreuz entstanden war
 Der Foliant lag übrigens jetzt in einem unserer Koffer
 eingeschlossen.
 
-»Daraus wird kein Mensch klug,« flüsterte Bansy. »Man
+»Daraus wird kein Mensch klug,« flüsterte Banfy. »Man
 weiß ja nicht mal, was bei diesem Wisch oben und unten ist.
 Und die wenigen Linien und Zahlen werden uns kaum verraten,
 wo der alte Seeräuber seine vier eichenen Fässer eingebuddelt
@@ -359,16 +359,16 @@ Er hatte sehr leise geflüstert, um Harald nicht zu stören.
 Und wir waren daher recht überrascht, als Harst jetzt
 sagte:
 
-»Vielleicht doch, Bansy!« — Er warf den Zigarettenrest
+»Vielleicht doch, Banfy!« — Er warf den Zigarettenrest
 in den Aschbecher. »Oder — um ehrlich zu sein, ich
 glaube bereits zu wissen, wo Graf Omagastra seine Schätze
 vergrub —«
 
 <h2>2. Kapitel.</h2>
 
-Bansy lachte. »Na, na, — so schnell Master Harst?!«
+Banfy lachte. »Na, na, — so schnell Master Harst?!«
 
-»Bitte, lieber Bansy, bedenken Sie das eine: der Graf
+»Bitte, lieber Banfy, bedenken Sie das eine: der Graf
 konnte doch die Entzifferung dieser Skizze — ich betone:
 Entzifferung! — seinem Erben nicht allzuschwer machen.
 Er mußte mit einem Durchschnittsverstand bei dem Briefempfänger
@@ -378,7 +378,7 @@ Eustachio genügend mit der Nase auf das Wichtigste gestoßen.
 Er hoffte — und hatte sich getäuscht. Nur —
 die Entzifferung der Skizze muß spielend leicht sein wenn
 <@pagebreak/>
-man erst den »Haupttrick« kennt! — Ich kenne ihn, Bansy,
+man erst den »Haupttrick« kennt! — Ich kenne ihn, Banfy,
 und ich wundere mich, daß Freund Schraut hier so total
 versagt. Oder — bist Du bereits im Bilde, mein Alter?«
 
@@ -398,14 +398,14 @@ schrägen Strichen darauf. Von dem Kreise zog sich eine
 Reihe immer länger werdender Striche über den Umriß des
 vorspringenden Vierecks hinaus.
 
-»Es ist der Grundriß eines Gebäudes,« erklärte Bansy
+»Es ist der Grundriß eines Gebäudes,« erklärte Banfy
 plötzlich sehr bestimmt. »Eines Schlosses mit zwei Seitenflügeln.
 Die Striche an dem einen Seitenflügel stellen eine
 Freitreppe dar. Der Kreis kann der Sockel einer Statue
 sein. — Nicht wahr, Master Harst ich bin doch auf der richtigen
 Fährte?«
 
-»Das sind Sie nicht, Bansy.«
+»Das sind Sie nicht, Banfy.«
 
 »Na — und weshalb nicht?«
 
@@ -421,14 +421,14 @@ unteren Rande des Blattes so, daß keine auf dem Kopf
 liegt. Nur so kann man oben die 1 3 2 3 1 1 4 und unten
 die 1 3 2 3 1 1 4 ohne Drehung des Blattes lesen.«
 
-»Sehr gut!« nickte Bansy, »Nun aber weiter?«
+»Sehr gut!« nickte Banfy, »Nun aber weiter?«
 
 »Ja — als zweites müssen wir diese Zahlen mal unter
 die Lupe nehmen, lieber Käpten!«
 
 »Da wird die schärfste Lupe nichts nützen!«
 
-»Aber vielleicht der Begleitbrief, Bansy. Der Pirat
+»Aber vielleicht der Begleitbrief, Banfy. Der Pirat
 sagt da in seinem Schreiben: »Denken Sie recht scharf an
 <@pagebreak/>
 diesen Namen!« — Es ist mit aller Gewißheit aus den
@@ -450,7 +450,7 @@ hast Du?!«
 »In der Ziffernreihe 1 3 2 3 1 1 4 ist 4 gleich A
 3 gleich O.«
 
-Bansy hatte schon sein Notizbuch gezogen und schrieb
+Banfy hatte schon sein Notizbuch gezogen und schrieb
 auf ein leeres Blatt
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -466,7 +466,7 @@ meinte dann: »Damit kommen wir nicht weiter!«
 weiter, denn der Graf schreibt »und das einzelne N und
 R, was übrigbleibt.« Damit deutet er doch fraglos auf
 diese anderen Buchstabe seines Namens hin. Geben Sie
-mir mal den Bleistift Bansy. Ich will Ihre Zahlenreihe
+mir mal den Bleistift Banfy. Ich will Ihre Zahlenreihe
 und die drei Buchstaben etwas ergänzen so —«
 
 Und er schrieb
@@ -496,7 +496,7 @@ R gleich 2 setzt, so —«
 </div>
 
 <@pagebreak/>
-»Verdammt!« entfuhr es unserem braven Bansy. »Das
+»Verdammt!« entfuhr es unserem braven Banfy. »Das
 in ja die andere Schreibweise des Namens der Sträflingsinsel!«
 
 »Allerdings — die ältere Schreibweise, lieber Käpten.
@@ -507,7 +507,7 @@ möchte ich lieber noch für mich behalten. Wir werden ja
 an Ort und Stelle nachprüfen, ob Noronha etwa Viereckform
 hat und zwei Halbinseln nach Osten in die See hinausschiebt.«
 
-»Toll — toll!« murmelte Bansy. »Sollte man’s für
+»Toll — toll!« murmelte Banfy. »Sollte man’s für
 möglich halten: gerade Noronha!«
 
 »Oh — das ist doch nicht weiter wunderbar,« meinte
@@ -521,7 +521,7 @@ hat der Graf gerade diese Insel erwählt, weil er deren
 Namen gerade bequem durch seinen eigenen oder durch die
 Zahlen ausdrücken konnte.«
 
-»Hm, auch das leuchtet mir ein,« nicke Bansy. »Muß
+»Hm, auch das leuchtet mir ein,« nicke Banfy. »Muß
 ja ein schlauer alter Knabe gewesen sein, dieser Seeräuber!
 — Wo aber liegen nun die vier Fässer?«
 
@@ -531,28 +531,28 @@ ja ein schlauer alter Knabe gewesen sein, dieser Seeräuber!
 Kreis mit den zwei schrägen Strichen soll einen Stierschädel
 vorstellen!«
 
-»Das denke ich auch, Bansy!«
+»Das denke ich auch, Banfy!«
 
 »Und — die Wellen sollen diese Stierhörner umgurgeln?!«
-brummte Bansy. »Was heißt das wohl?«
+brummte Banfy. »Was heißt das wohl?«
 
 »Das — das weiß ich auch noch nicht,« erklärte Harald
 und gähnte. »Wir wollen jetzt schlafen gehen. Für heute
 ist’s genug. — Wann können wir in Noronha sein?«
 
-Bansy überlegte. »Etwa um Mitternacht.« Er zog
+Banfy überlegte. »Etwa um Mitternacht.« Er zog
 seine Uhr. »Jetzt ist’s dreiviertel zehn. Ja — bestimmt
 um Mitternacht.«
 
 »Dann geben Sie Befehl, daß wir bis zum Morgen
 <@pagebreak/>
-irgend eine Bucht an der Südostküste anlaufen, Bansy. Der
+irgend eine Bucht an der Südostküste anlaufen, Banfy. Der
 Hafen Fernando, zugleich Hauptort der Insel, liegt ja auf
 der Westseite. Man soll uns wecken, sobald der Morgen
 graut. Der Regierungsdampfer wird wohl erst später in
 Fernando eintreffen.«
 
-Bansy ging in seine Kabine.
+Banfy ging in seine Kabine.
 
 Harald holte jetzt den Folianten aus dem Koffer, riß
 die Skizze heraus, zündete zu meinem maßlosen Erstaunen
@@ -589,7 +589,7 @@ nicht so töricht sein, mich zum Abdrücken zu zwingen. Ihre
 berühmten Clementpistolen liegen in Ihren Koffern. Außerdem
 — bitte, dort an der zweiten Tür steht mein Freund
 Jonathan Wrigg, ein Ehrenmann durch und durch — wie
-ich! Bansy und die drei Matrosen haben wir bereits so
+ich! Banfy und die drei Matrosen haben wir bereits so
 ein wenig gefesselt. Sie hätten uns hier stören können.
 — Jonathan, tu’ Deine Pflicht!«
 
@@ -653,7 +653,7 @@ ging nicht zum Arzt, sondern in mein zweites Quartier
 — ich habe stets mehrere Wohnungen — und veränderte
 mich äußerlich ein wenig. Innerlich bleibe ich stets
 der gleiche. Dann besorgte ich mir schleunigst zwei Verbündete
-und die nötigen Papiere, wickelte Ihren braven Bansy
+und die nötigen Papiere, wickelte Ihren braven Banfy
 hübsch ein, das heißt, ich traf »zufällig« mit ihm zusammen
 und kam so mit Jonathan und Jim Knox auf die Atlanta,
 wo ich dann zu meiner nicht gerade bescheidenen Freude
@@ -739,7 +739,7 @@ genialen Hochstapler hier zu beginnen.
 Saalborg drückte Harst die gefesselte Hand.
 
 »Also abgemacht! Schade um Ihr Geld, Herr Harst.
-Uebrigens darf Ihr Freund Schraut Ihnen bei dieser Jagd
+Übrigens darf Ihr Freund Schraut Ihnen bei dieser Jagd
 natürlich helfen. Das ist für mich nicht weiter störend.«
 
 Er stand auf. »Ich werde Ihnen jetzt Jonathan als
@@ -769,10 +769,10 @@ Dann verlor sich das Motorengeräusch in der Ferne.
 
 Wir knoteten uns nun gegenseitig die Fesseln auf.
 
-Der alte Bansy war so vollgepfropft mit Wut, daß er
+Der alte Banfy war so vollgepfropft mit Wut, daß er
 nicht mal fluchen konnte.
 
-»Aergern Sie sich nicht, Käpten,« tröstete Harst ihn.
+»Ärgern Sie sich nicht, Käpten,« tröstete Harst ihn.
 »Dieser Saalborg hält sein Wort, Sie werden Ihre Jacht
 nicht verlieren. John,« wandte er sich an unseren jüngsten
 Matrosen, »hilf Hull, ein Feuer anzuzünden. Kocht Tee.
@@ -784,7 +784,7 @@ gelassen. Wir bauten daraus ein Zelt. Nachdem wir gegessen
 hatten, streckten wir uns auf unsere Graslagerstätten
 zum Schlafe aus.
 
-Bansy weckte uns dann gegen neun Uhr morgens
+Banfy weckte uns dann gegen neun Uhr morgens
 durch ein wahres Wutgeheul.
 
 <@pagebreak/>
@@ -799,7 +799,7 @@ unbewohnt ist,« meinte Harald und schloß unsere Koffer
 auf, reichte mir meine Pistole und steckte auch die seine in
 die Tasche. »Bleibt hier. Schraut und ich werden uns mal
 auf dem Inselchen umschaun,« fügte er für unsere vier
-Leidensgefährten hinzu. »Bansy, ich rate Ihnen, die Augen
+Leidensgefährten hinzu. »Banfy, ich rate Ihnen, die Augen
 gut offen zu halten. Man kann nie wissen, was für Leute
 eine solche unbewohnte und abseits jeder Schiffslinie liegende
 Insel zu ihrer vorläufigen Niederlassung erwählt
@@ -821,7 +821,7 @@ sumpfigen Abzweigungen bevölkert war.
 Von der Spitze des Berges konnten wir nun die von
 Ost nach West etwa eine Meile lange, aber kaum eine halbe
 Meile breite Insel vollständig überschauen. — Das, was
-unser Bansy, der als alter Seemann Klein-Fernando vom
+unser Banfy, der als alter Seemann Klein-Fernando vom
 Hörensagen kannte, über die Nordhälfte der Insel mitgeteilt
 hatte, fanden wir bestätigt: nur der Südteil um die
 Bucht herum war felsig; im übrigen gab es nur Sumpf mit
@@ -853,12 +853,12 @@ Vorderladerschießwaffe benutzt. Das zeigen die versengten Stellen
 und die schwarzen Pulverfleckchen. Es ist die Nummer
 von der Jacke eines Sträfings. Man erkennt noch die
 Zahl 188. Es sind Sträflinge aus Noronha, die dort sich
-verborgen halten. Sie können meiner Ueberzeugung nach
+verborgen halten. Sie können meiner Überzeugung nach
 erst gestern von Noronha entwichen sein. Wären sie schon
 früher entwichen, hätte der Polizeipräfekt in Pernambuco
 uns gegenüber dies wohl erwähnt. Er betonte doch,
 daß eine Flucht aus Noronha den dort Internierten infolge
-der strengen Ueberwachung ganz unmöglich gemacht
+der strengen Überwachung ganz unmöglich gemacht
 sei. Trifft meine Vermutung, daß diese Sträflinge erst
 gestern entflohen sind, zu, so wird sehr bald ein Dampfer
 hier erscheinen und die Insel absuchen. Ich wundere mich,
@@ -873,7 +873,7 @@ entwichen sein?«
 »Weil, wären sie vorgestern entwichen, die Polizeibehörden
 der Hafenstädte bereits Nachricht erhalten hätten.
 Die Sträflingskolonie verfügt fraglos über ein paar schnelle
-Motorboote, schon zu Ueberwachungszwecken. Ein Motorboot
+Motorboote, schon zu Überwachungszwecken. Ein Motorboot
 kann in fünf Stunden den nächsten brasilianischen Hafen,
 und das wäre Macau, erreichen. Der Telegraph hätte
 die Flucht dann weiter gemeldet.«
@@ -886,7 +886,7 @@ Sache dann?« fragte ich gespannt.
 es sind nicht Sträflinge, und die Sträflingsnummer
 ist auf andere Weise hierhin geraten. Zweitens: die Sträflinge
 haben ihre Flucht so schlau angefangen, daß die
-Ueberwachungsbeamten es für ausgeschlossen halten, die Leute
+Überwachungsbeamten es für ausgeschlossen halten, die Leute
 könnten sich hierher gewandt haben. — Aber — bitte —
 rieche!«
 
@@ -970,10 +970,10 @@ Harald suchte wieder nach Spuren. Es gehörte seine
 Geduld dazu, diese sorgfältig verwischten Fährten zu
 finden, die zu einem uralten, riesigen Baume führten, der
 dicht an dem Dornendickicht stand. Die mächtigen wagerechten
-Aeste dieses tropischen Riesen waren bis zu fünfzehn
+Äste dieses tropischen Riesen waren bis zu fünfzehn
 <@pagebreak/>
 Meter lang. — Harald half mir hinauf. Dann balancierte
-er mir voran auf einem der Aeste über den Dornenwall
+er mir voran auf einem der Äste über den Dornenwall
 hinweg. Man konnte sich an den herabhängenden
 Zweigen festhalten, und so kamen wir denn glücklich bis an
 eine lichtere Stelle der Baumkrone, sahen nun schräg unter
@@ -1012,7 +1012,7 @@ worden sind und die wieder abgeholt werden sollen?!«
 froh, daß sie dort an der Bucht in besserer Luft lagern als
 wir hier. Rum ist gut gegen das Gelbfieber.« Er führte
 die Flasche an den Mund. Dann gähnte er. »Ich werde
-jetzt ebenfalls schlafen, Sechsundachtzig. Uebernimm die
+jetzt ebenfalls schlafen, Sechsundachtzig. Übernimm die
 Wache. Obwohl sich nie und nimmer jemand hierher verirren
 wird.«
 
@@ -1125,7 +1125,7 @@ Sie jetzt nicht weiter, Selville! An Ort und Stelle sollen
 Sie alles selbst nachprüfen.«
 
 Selvilles Erscheinen in unserem Lager erregte nicht geringes
-Erstaunen. Harst versprach Bansy, daß wir für seine
+Erstaunen. Harst versprach Banfy, daß wir für seine
 und der drei Matrosen Befreiung schnellstens sorgen würden.
 Selville erhielt einen unserer Anzüge und von Harald
 die nötige Wäsche. Dann beluden wir uns mit unseren
@@ -1341,7 +1341,7 @@ geholt. Meine beiden Verbündeten sind Schurken,
 wollten mich zwingen, auch noch die beiden anderen Tonnen
 beiseite zu schaffen. Ich habe diesen Halunken ein Betäubungsmittel
 in den Rum geschüttet, nachdem ich zum Schein
-auf ihre habgierigen Pläne eingegangen war. Uebergeben
+auf ihre habgierigen Pläne eingegangen war. Übergeben
 Sie sie der Polizei. Beide sind lange gesuchte Verbrecher.
 — Sie werden mit der Atlanta die Bucht erst verlassen können,
 nachdem die Brandung sich beruhigt hat. Inzwischen
@@ -1379,7 +1379,7 @@ seiner Mitteilung sagt mir, wo ich ihn zu suchen habe. Ich
 muß ihn suchen. Die Wette verlangt es. —«
 
 Um zehn Uhr vormittags verließen wir mit der Atlanta
-die Bucht, fuhren nach Klein-Fernando, holten Bansy
+die Bucht, fuhren nach Klein-Fernando, holten Banfy
 und die Matrosen ab und ließen auf Selvilles Bitte für die
 drei Sträflinge, die wir nicht mehr zu Gesicht bekamen, etwas
 Proviant und einige Werkzeuge da. —
@@ -1397,7 +1397,7 @@ Weder Selville noch wir verrieten etwas über die Art der
 Flucht der vier »toten« Sträflinge. Edward Selville wurde
 im Wiederaufnahmeverfahren freigesprochen. Der Schatz
 des Grafen Omagastra hatte einen Wert von annähernd
-20 Millionen. Bansy und die Besatzung der Atlanta erhielten
+20 Millionen. Banfy und die Besatzung der Atlanta erhielten
 von Selville überreiche Geschenke. Harst und ich nahmen
 aber nur einen goldenen, mit Juwelen verzierten Becher
 als Andenken an. —

@@ -584,7 +584,7 @@ war jemand, der irgendwie mit der Mangrovia-Geschichte etwas
 zu tun gehabt hat, und dieses Rebus, behaupte ich, ist der Hinweis
 <@pagebreak/>
 auf den Ort, wohin der Frachtdampfer entführt wurde.
-Ueberlege Dir alle Umstände genau, mein Alter, und Du
+Überlege Dir alle Umstände genau, mein Alter, und Du
 wirst schwerlich eine einleuchtendere Erklärung finden. Jedenfalls:
 wir müssen dieses Rebus unbedingt lösen! Der Erfolg
 unserer Fahrt nach Kolombo hängt davon ab.« —
@@ -751,7 +751,7 @@ wie kurzsichtig zusammen.
 Nachher zeigte er uns noch seinen Bungalow, der sehr
 <@pagebreak/>
 geräumig war. Der Garten erstreckte sich endlos weit. Ich
-habe nie wieder etwas Aehnliches gesehen wie diese Parkanlagen.
+habe nie wieder etwas Ähnliches gesehen wie diese Parkanlagen.
 Plötzlich standen wir am Anfang einer Fächerpalmen-Allee,
 die bis zu einer Meeresbucht hinlief. Den Abschluß dieser
 Allee bildeten jenseits der Bucht fünf seltsam geformte
@@ -775,7 +775,7 @@ aus,« fuhr er fort, »wurden die Kriegsgefangenen des Fürsten,
 dessen mißliebig gewordene Diener und Frauen durch Panther
 mit geringem Vorsprung die Allee entlang gehetzt und — von
 den Bestien dann größtenteils zerrissen. So berichtet die
-Ueberlieferung. Es wird schon wahr sein. Die Gitter sind ja
+Überlieferung. Es wird schon wahr sein. Die Gitter sind ja
 derart mit Widerhaken und Spitzen »verziert«, daß niemand
 sie erklettern und sich so retten kann.«
 
@@ -858,7 +858,7 @@ Dann gingen wir die letzten hundert Schritt zu Fuß.
 mit dem Kutscher absichtlich auf die langen Erörterungen einließ,
 beobachteten uns zwei Kerle, ein Chinese und ein anderer
 Farbiger, den ich für einen Malaien halte. Ich rechnete mit
-dieser Ueberwachung. Nur Lord Drisbane steckt dahinter. Daß
+dieser Überwachung. Nur Lord Drisbane steckt dahinter. Daß
 wir ihn aufsuchen würden, konnte er ohne weiteres annehmen.
 Er ist ja der Arbeitgeber der verschwundenen 122 Leute. Mithin
 konnte er auch jemand bereithalten, der uns, wenn wir bei
@@ -1079,7 +1079,7 @@ von selbst. — Was soll das: Null plus Null übereinanderstehend?!
 So versuchte er abermals, der Lösung auf die Spur zu
 kommen.
 
-Die Zeit verstrich. Ueber uns, um uns Totenstille und
+Die Zeit verstrich. Über uns, um uns Totenstille und
 finstere Nacht. Inzwischen hatte Harald mir auch seinen
 Befreiungsplan auseinandergesetzt. Der war so sehr einfach, so
 selbstverständlich, — wenn man ihn erst wußte!
@@ -1124,7 +1124,7 @@ auf das Rebus, rührte sich nicht.
 Oh ich Esel! Die Geschichte ist ja so albern-einfach!
 Aber gerade deshalb kam ich nicht darauf!« — Er verbarg die
 Zeichnung wieder. »Frage jetzt nichts. Du sollst den Triumph
-des Sieges als Ueberraschung auskosten. Vorwärts! Schleppen
+des Sieges als Überraschung auskosten. Vorwärts! Schleppen
 wir Mauertrümmer zusammen, bauen wir einen Berg,
 daß wir hier bis an die Deckenplatten heranreichen —«
 
@@ -1303,7 +1303,7 @@ erlebt, — mehr, als wir damals ahnen konnten. —
 
 »He — was soll der Wisch?! Soll das ’ne Karte sein?«
 
-»Was Aehnliches, Käp’ten, was Aehnliches. Ich habe
+»Was Ähnliches, Käp’ten, was Ähnliches. Ich habe
 lange herumtüfteln müssen, ehe ich das Bild da enträtseln
 konnte. Schaun Sie mal her. — Diese Nullen und das Kreuz
 stellen eine 8 vor. Das fand ich zuerst heraus. Dann mutmaßte

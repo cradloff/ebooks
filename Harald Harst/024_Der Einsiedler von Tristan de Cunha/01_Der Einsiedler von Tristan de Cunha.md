@@ -291,7 +291,7 @@ Mankay wird sehr bald hier erscheinen und wird schnauben,
 weil wir die Frechheit besitzen, uns zu unterhalten. Er soll
 hier erscheinen.« —
 
-Da hörten wir schon das Oeffnen der Türriegel.
+Da hörten wir schon das Öffnen der Türriegel.
 <@pagebreak/>
 
 Mankay trat ein, rief grimmig und wild mit der rechten
@@ -452,7 +452,7 @@ kannten, so wirkte das Licht doch seltsam aufregend. Unwillkürlich
 ließ einen die Frage nicht los: Wer ist’s, der es
 dort aufglühen läßt und zu welchem Zwecke geschieht’s?
 
-Ich hatte mir dies schon während der Ueberfahrt von
+Ich hatte mir dies schon während der Überfahrt von
 Kapstadt nach hier des öfteren überlegt und hätte auch Harsts
 Ansicht darüber gern eingeholt. Aber er hatte nur die Achseln
 gezuckt. »Sehen geht vor sagen,« war seine Antwort gewesen.
@@ -974,7 +974,7 @@ landete dann aber wieder auf der Insel und begann sein Einsiedlerleben.«
 
 Hier äußerte Draaken ein lautes: »Ah — da ist ja der —«
 
-»Ja — der aus Oesterreich gebürtige Mechaniker Werner
+»Ja — der aus Österreich gebürtige Mechaniker Werner
 Schadlmeyer vielleicht derjenige welcher!« fiel ihm Harst
 ins Wort. »Schadlmeyer hat es hier auf der Insel nur ein
 Jahr ausgehalten. Dann zog er wieder von dannen, nachdem
@@ -1012,7 +1012,7 @@ gekommen zu sein!«
 ist die Erklärung für den 2-Zentnerstein, der Sie warnen
 sollte und den Schadlmeyer herabgestürzt haben wird, ferner für
 unser Bad im Kratersee und Ihren heutigen Absturz von der
-Kanzel, wobei der Oesterreicher abermals seine rücksichtslose
+Kanzel, wobei der Österreicher abermals seine rücksichtslose
 Schlauheit bewies, da er alles so einrichtete, als seien Geisterhände
 dabei im Spiel.«
 
@@ -1239,7 +1239,7 @@ bleibe diese Nacht nicht daheim!«
 * * *
 
 Ich warne den verehrten Leser vor voreiligen Schlüssen,
-zu denen er vielleicht durch die Ueberschrift dieses Kapitels
+zu denen er vielleicht durch die Überschrift dieses Kapitels
 verführt wird. Er wird denken: »Aha — Schadlmeyer ist
 James Palperlon, das Verbrechergenie!«
 
@@ -1414,7 +1414,7 @@ Aber wir haben uns jetzt entzweit, weil er Sie beide
 und Draaken beinahe getötet hätte. Diesen Unglücklichen da
 kenne ich wirklich nicht.« Sie schluchzte laut auf und sank
 in die Knie, hob den Kopf des Fremden etwas an. »O mein
-Gott — retten Sie den Aermsten, doch helfen Sie ihm!« flehte
+Gott — retten Sie den Ärmsten, doch helfen Sie ihm!« flehte
 sie. »Sie sind doch Harald Harst, der Detektiv! Sie werden —«
 
 Da hatte der Bewußtlose die Augen geöffnet, stützte sich

@@ -4,7 +4,7 @@
 <h3>Wie wir geleimt wurden.</h3>
 
 Das Rennboot war gesunken. Nur ein schillernder
-Oelfleck auf der Wasseroberfläche bezeichnete noch die Stelle,
+Ölfleck auf der Wasseroberfläche bezeichnete noch die Stelle,
 wo das kostbare Fahrzeug nun auf dem Schlammgrunde
 der Lagunenmündung lag.
 
@@ -139,7 +139,7 @@ Glase das Boot beobachtete, winkte uns ärgerlich zu:
 »Sie entkommen! Der Vorsprung ist zu groß!«
 
 Auch ich hatte dies schon befürchtet. Und des Inders
-Aeußerung war nur so zu verstehen, daß er auf diesen nicht
+Äußerung war nur so zu verstehen, daß er auf diesen nicht
 einzuholenden Vorsprung angespielt hatte.
 
 Wieder meldete sich Gocklin:
@@ -354,7 +354,7 @@ hatte mich aufgerichtet. Ich sah die beiden lächeln, sah
 Lydias Lippen sich höhnisch wölben.
 
 »Ja, Mr. Schraut,« sagte Greebrac nun, vor mir stehen
-bleibend, »ja, das ist eine nette Ueberraschung, nicht wahr?
+bleibend, »ja, das ist eine nette Überraschung, nicht wahr?
 Sie gestatten, daß ich Ihnen hier meine Schwester Adelaide
 vorstelle. Sie werden schon als Freund des berühmten
 Harst auf die durchaus richtige Vermutung gekommen sein,
@@ -590,7 +590,7 @@ betont.
 sagte er nun. »Es ist besser als Weiber und Sekt. Es ist
 ein Jungbrunnen für mich. Im Spiel schöpfe ich neue
 Kräfte — zu neuen Taten! Hast Du schon gedarbt, Adi,
-weil ich Spieler bin? Hast Du nicht stets alles im Ueberfluß
+weil ich Spieler bin? Hast Du nicht stets alles im Überfluß
 gehabt? Wohntest Du nicht auf der Plantage wie
 eine indische Fürstin?«
 
@@ -790,11 +790,11 @@ allein.
 
 »Was ist ein Harst im Vergleich zu mir?!« fügte er
 nach tiefem Atemholen hinzu. »Ein Nichts — ein armseliger
-Tor, der sich König von Genieland dünkt und die Ueberzeugung
-seines geistigen Uebergewichts doch nur aus den
+Tor, der sich König von Genieland dünkt und die Überzeugung
+seines geistigen Übergewichts doch nur aus den
 Niederlagen kläglicher Durchschnittsverbrecher geschöpft hat.«
 
-Eine krankhafte Ueberhebung! dachte ich. Und doch:
+Eine krankhafte Überhebung! dachte ich. Und doch:
 in diesem Moment hatte Austin Greebrac etwas fast Imponierendes
 in Haltung, Sprache und Gesichtsausdruck; in
 diesem Moment begriff ich, daß die Leute, die er sich als
@@ -804,7 +804,7 @@ getan hatte. —
 
 Die aus poliertem Metall offenbar bestehende Flügeltür
 des Wunderbauwerks hatte sich lautlos geöffnet. Eine
-Menge farbiger Diener, alle gleich gekleidet in rote Ueberwürfe,
+Menge farbiger Diener, alle gleich gekleidet in rote Überwürfe,
 mit roten, weißumrandeten Sandalen und weißen
 Gürteln, entquollen dem Eingang. Vier davon trugen einen
 auf Stangen befestigten Elfenbeinsessel. Ihnen voraus
@@ -870,7 +870,7 @@ Gebilden. Und über diesen Wolken von Rauch schimmerte
 <@pagebreak/>
 es hell wie die Sonne, die hinter Dunstmassen scheint.
 
-Dort oben also befand sich eine Oeffnung in der Höhlendecke;
+Dort oben also befand sich eine Öffnung in der Höhlendecke;
 dort zog der Qualm ins Freie.
 
 Da — der helle Fleck verengerte sich.
@@ -963,7 +963,7 @@ Fesseln. Ich mußte — mußte die Hände frei bekommen!
 Ich spürte ja noch in der Schlüsseltasche der Beinkleider den
 Druck der Clementpistole. Ich hatte eine Waffe!
 
-Die Vernunft gewann wieder die Ueberhand. Was
+Die Vernunft gewann wieder die Überhand. Was
 nutzten mir hier die neun Schuß der Clement?! Was half
 es, wenn ich vielleicht ein paar der Diener niederknallte?
 
@@ -1008,7 +1008,7 @@ sie aufmerksam.
 
 Man glaubte eine Singhalesin, eine Eingeborene Ceylons,
 vor sich zu haben. Das tiefgebräunte Gesicht, das
-bunte Kopftuch, der mantelartige Ueberwurf, die Sandalen
+bunte Kopftuch, der mantelartige Überwurf, die Sandalen
 an den kleinen Füßen — alles deutete auf eine Farbige
 hin. Und doch war es eine Europäerin. Das schmale Gesicht,
 die zurückspringenden Backenknochen und die Augen

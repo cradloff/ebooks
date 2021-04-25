@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">ab60bfa2-84e8-11eb-8bfb-337d9ad11611</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Motorjacht ohne Namen</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">108</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Motorjacht ohne Namen.
+
+Harald Harst und ich hatten es uns damals auf der Farm New-London in Australien wahrhaftig nicht träumen lassen, daß auf unser Abenteuer mit Helens Känguruh sehr bald ein anderes folgen würde, das uns Gelegenheit gab, uns wieder einmal als Seeleute zu bewähren.
+
+Ich nehme an, daß der Leser sich noch auf die Vorgänge in New-London besinnt. Die Gemeinde der Harst-Freunde und ständigen Leser könnte sich nun immerhin noch erweitert haben. Daher will ich hier doch kurz erwähnen, daß wir in Australien eine Betrügerin entlarvt, Ihren Bruder erschossen und dessen drei Genossen unschädlich gemacht hatten. Diese Helen Jones hatte nun mit ihrem Bruder auf ganz besondere Art heimlich Zettelmitteilungen ausgetauscht. Einer dieser Zettel war Harald in die Hände geraten, nachdem er beobachtet hatte, daß die Verbrecherin sich nachts mit ihrem Lieblingskänguruh beschäftigt hatte. —
+
+Es war am Morgen nach dem Tode Bill Jones’. Der Schafgroßzüchter Chester Dolling, seine Tochter, der Melbourner Detektiv Charles Goddlepy und wir beide saßen auf der Terrasse des schloßartigen Wohnhauses der Farm beim Frühstück. Soeben hatten drei Beamte der nächsten Polizeistation die Verbrecherin und die drei männlichen Gefangenen mit sich genommen. — Seine Tochter erzählte uns eingehend von ihrem Aufenthalt unter den Schwarzen Südaustraliens, — daß diese Australneger sie geradezu wie eine Heilige verehrt hätten. Sie schilderte uns dann auch die näheren Umstände ihrer Heimkehr ins Elternhaus. — All das, was ich hier nur andeuten kann, mag der neugewonnene Harald-Harst-Freund im vorigen Bande nachlesen.
+
+Die Insel der Seligen.
+
+Freiheit und Leben!!
+
+Zunächst freilich galt es, beides uns selbst zu sichern.  Und das war doch nicht so einfach, wie Harald es sich gedacht hatte.
+
+Seine Zusicherung, daß wir uns nicht wehren würden, fand bei den Fremden dort an der Tür keinerlei Beachtung.  Dieselbe helle, frische Stimme befahl uns nochmals, die Arme hochzurecken.
+
+Harst erklärte darauf etwas ungeduldig: »Begreifen Sie doch, daß wir es nur gut mit Ihnen meinen. Wir sind weder...«
+
+Ein Schuß zerriß den Satz. Die Kugel ging zwischen Haralds und meinem Kopf hindurch, schlug in die Wand ein...
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (108) Die Motorjacht ohne Namen.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
