@@ -24,7 +24,7 @@ hatte, vertrieb ihn aus dem stillen Kaffee. Er
 hatte es nicht mit ansehen können, wie der routinierte
 Lebejüngling das halbflügge niedliche Mädel durch raffinierte
 Künste allmählich dahin brachte, daß der
-Kleinen die lebenssprühenden Aeuglein nur noch wie hinter
+Kleinen die lebenssprühenden Äuglein nur noch wie hinter
 feinen Schleiern funkelten. Er ... kannte das alles ja
 — alles, — und hatte es noch viel besser gekonnt, er, der
 große Sigurd Lörs, dem jeden Morgen ein halbes Hundert
@@ -58,7 +58,7 @@ Märchen vom Glück und eine Tragödie gedichtet haben würde
 hatte dieses unselige Wunder vollendet. — Ja — so war
 es gewesen ... Lörs hatte für Geraldine im Modesalon
 Gebb einen Pelz kaufen wollen, mit dem Geraldine schon
-so lange geliebäugelt hatte. Als Ueberraschung ... Und
+so lange geliebäugelt hatte. Als Überraschung ... Und
 da hatte er mit der Direktrice verhandelt. Das war Maria
 Mallien gewesen ...
 
@@ -99,7 +99,7 @@ Wie ein törichter, unreifer Knabe kam er sich vor.
 Und holte Maria dennoch jeden Abend vom Geschäft ab,
 begleitete sie heim in die häßliche Straße, vor das jämmerliche
 Mietshaus, in dem sie mit ihrer Schwester, zwei
-Waisen ohne Verwandte und Freunde, wohnten. Ueber ihre
+Waisen ohne Verwandte und Freunde, wohnten. Über ihre
 persönlichen Verhältnisse sprach Maria niemals. Er erfuhr
 trotzdem, daß ihr Vater Geheimer Sanitätsrat und ein vielgesuchter
 Arzt gewesen. Die Inflation hatte die Schwestern
@@ -244,7 +244,7 @@ daß die Tote bereits eingesargt und in der Halle des Friedhofs
 im Sanssouci-Park aufgebahrt sei.
 
 Lörs handelte, seit er die Schreckenskunde gelesen hatte,
-wie im Traum. Ueberall, wo er bisher der Toten wegen
+wie im Traum. Überall, wo er bisher der Toten wegen
 in Potsdam Erkundigungen eingezogen, hatte man ihn mit
 seltsamen Blicken gemustert, hatte er selbst die Antworten
 nur halb begriffen. Jetzt, als er in einem Blumenladen
@@ -376,7 +376,7 @@ Als er die Vorhalle betrat, kam ihm sein Diener entgegen,
 nahm ihm den kurzen Pelz ab und wollte etwas
 melden ...
 
-Lörs sagte rasch: »Uebermorgen nachmittag reisen wir
+Lörs sagte rasch: »Übermorgen nachmittag reisen wir
 nach Seewalde, Fritz ... Telephonieren sie an den Verwalter.
 Wir bleiben längere Zeit dort ... Ich ... will
 hier nur noch an einem Begräbnis teilnehmen. Sollte die

@@ -137,7 +137,7 @@ in das Blut einführt. — Dies wäre die Todesursache. Daß
 Stevenpole sich nicht selbst auf diese Weise entleibt hatte, war
 uns sofort klar. Also: Mord, und zwar ein so seltsamer
 Mord, wie ich ihn in meiner Praxis noch nicht erlebt habe.
-Wir waren nun sehr vorsichtig und ließen die Oeffentlichkeit
+Wir waren nun sehr vorsichtig und ließen die Öffentlichkeit
 völlig im Unklaren über die Todesursache. Wir verbreiteten
 das Gerücht, Stevenpole sei mit einem vergifteten Dolch
 getötet worden. Auch Barbaley schwieg, so daß kein Mensch
@@ -357,7 +357,7 @@ nach einem gelben Auto zu forschen. Man muß die Sache anders
 anpacken, um Erfolg zu haben. Machen wir uns zum
 Ausgehen fertig. Ich möchte mal die Pförtnersgattin
 sprechen, um herauszubringen, ob sie sehr viel Mühe mit dem
-Reinigen ihrer Kleinen gehabt hat. Lack oder Oelfarbe ist
+Reinigen ihrer Kleinen gehabt hat. Lack oder Ölfarbe ist
 schwerer zu entfernen als Wasserfarbe. Es wird Wasserfarbe
 gewesen sein. Die kann man zum Beispiel mit einer Gartenspritze
 leicht und restlos wieder von einem Auto abwaschen.«
@@ -429,7 +429,7 @@ War es nur Wasserfarbe?«
 »Ja — zum Glück. Sonst hätte meine Frau noch mehr
 Seife beim Abrubbeln der Rangen verbraucht.«
 
-»Danke, Jones. — Noch etwas: Ueber diese Farbe
+»Danke, Jones. — Noch etwas: Über diese Farbe
 sprechen Sie zu niemandem, auch zu Jobster nicht, es sei
 denn, daß er Sie geradezu fragte.«
 
@@ -461,7 +461,7 @@ Originale: Schiffskapitäne, Händler und so weiter:
 Ich werde die Straße schon finden.«
 
 Sehr bald saßen wir nun in einer verräucherten Gaststube
-an einem blendend weiß gescheuerten Tisch. Ueber uns
+an einem blendend weiß gescheuerten Tisch. Über uns
 an der Decke hingen ein Menge Schiffsmodelle, die bei jedem
 Luftzug an ihren Bindfäden lautlos hin und her pendelten.
 
@@ -566,7 +566,7 @@ zweiten Terrasse stand der weiß gestrichene, niedrige Bungalow
 mit der üblichen, rings um das Haus herum sich erstreckenden
 überdachten, offenen Veranda.
 
-Der Mond enthüllte uns genug Einzelheiten der Oertlichkeit,
+Der Mond enthüllte uns genug Einzelheiten der Örtlichkeit,
 um danach einen Schlachtplan entwerfen zu können.
 Wir pirschten uns an die hintere Gartenmauer heran, überkletterten
 sie und schlichen nun auf die beiden rechts an der
@@ -617,7 +617,7 @@ Spuren?!«
 
 »Allerdings. Und Du würdest es auch getan haben,
 wenn Du das beobachtet hättest, was Du leider nicht beachtet
-hast: Tom Barbaleys Aeußerungen in der Kneipe! —
+hast: Tom Barbaleys Äußerungen in der Kneipe! —
 Strenge Dein Hirn jetzt aber nicht weiter an, mein Alter.
 Ich sehe schon, Du kommst doch nicht auf das Richtige. — Pirschen
 wir uns im Bogen von der Seite an den Schuppen
@@ -752,7 +752,7 @@ vor. Im Gegenteil: ich hielt unser Leben für ernstlich bedroht!
 Und — hätten mir Haralds Augen nicht Mut gemacht,
 so wäre ich wohl fraglos recht niedergeschlagen gewesen,
 auch innerlich sozusagen, denn äußerlich gab ich mich jetzt
-genau so wie Harst und spielte den Bedrückten, Aengstlichen
+genau so wie Harst und spielte den Bedrückten, Ängstlichen
 und um mein Leben Besorgten.
 
 Außer uns befand sich nur noch unsere Feindin in diesem
@@ -1124,7 +1124,7 @@ man uns die Decken ab. Wir standen in einem buschreichen
 Tale; vor uns der Chinese und das rotblonde Weib.
 
 »Auf Wiedersehen, Herr Harst!« sagte die Malcapier. —
-Ueberlegenes Sicherheitsgefühl verrieten diese Worte, gleichzeitig
+Überlegenes Sicherheitsgefühl verrieten diese Worte, gleichzeitig
 auch eine versteckte Drohung.
 
 »Auf Wiedersehen — morgen um 4 Uhr nachmittags,«
@@ -1172,7 +1172,7 @@ selbst! — Du weißt ja durch Jobsters Schilderung der Einzelheiten
 des Mordes, daß die Polizei niemals auch nur das
 Allergeringste davon, daß eine Matsoa-Spinne und das Gift
 dieser Tiere bei dem Verbrechen eine bisher unaufgeklärte
-Rolle spielt, hat in die Oeffentlichkeit dringen lassen. Die
+Rolle spielt, hat in die Öffentlichkeit dringen lassen. Die
 Zeitungen und das Publikum glauben noch heute die Geschichte
 von dem vergifteten Dolch oder Messer die Jobster erfunden
 hat. Daß auch die Malcapier — und nun gib acht,
@@ -1319,7 +1319,7 @@ den Tisch gelegt, mit dem Kopf auf den Armen. Der Aufseher
 glaubte, der Gefangene weine aus Reue. Und — so ist der
 Lump entwischt.«
 
-Diese Erklärungen waren für jeden schärfer Ueberlegenden
+Diese Erklärungen waren für jeden schärfer Überlegenden
 reichlich unklar. Aber die Beamten hatten Harald Harst
 vor sich und schöpften auch nicht den geringsten Verdacht.
 

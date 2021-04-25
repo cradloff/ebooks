@@ -183,7 +183,7 @@ Ohne Ihre Hilfe wäre ich ertrunken.«
 Sie kam wieder zu Kräften.
 
 »Bemühen Sie sich nicht mehr... Ich halte mich schon
-selbst fest!« war ihre nächste Aeußerung.
+selbst fest!« war ihre nächste Äußerung.
 
 Ich ließ also ihren Arm los, und sie rutschte ein Stückchen
 von mir ab.
@@ -811,7 +811,7 @@ Bis wir erschrocken fast herumfuhren.
 Ein Briefträger stand hinter uns.
 
 »Haben Sie schon geläutet?« fragte er und deutete
-auf die Haustür mit dem abgeblätterten Oelfarbenanstrich.
+auf die Haustür mit dem abgeblätterten Ölfarbenanstrich.
 »Sie wollen wohl zu Herrn Dennysinow?«
 
 »Ja,« nickte Harst.
@@ -846,7 +846,7 @@ Belle-Alliance-Platz auf dem Umschlag. Der Umschlag war offen,
 die Briefklappe nur eingeschoben.
 
 Harst zog ein bedrucktes Blatt heraus. Es war die
-Uebersicht über die Neuregelung der Klassenlotterie und ein
+Übersicht über die Neuregelung der Klassenlotterie und ein
 Hinweis auf die erhöhten Gewinne.
 
 »Hm,« meinte Harald, »kein Einnehmer verschickt heute
@@ -1373,7 +1373,7 @@ Dann wurde sie ohnmächtig. Der Arzt schickte uns
 hinaus. — —
 
 In der »Reitpeitsche der Filmdiva« wird der Leser
-einen Einblick in die rätselhafte Welt des Uebersinnlichen
+einen Einblick in die rätselhafte Welt des Übersinnlichen
 gewinnen und zugleich den Rest der Fragen gelöst finden.
 
 

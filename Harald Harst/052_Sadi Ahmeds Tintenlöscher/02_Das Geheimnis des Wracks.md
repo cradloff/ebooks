@@ -555,7 +555,7 @@ Gespensterwrack! Dem Dinge muß man —«
 
 Er verstummte.
 
-Ueber das Wasser kamen abermals die dumpfen
+Über das Wasser kamen abermals die dumpfen
 Töne des Nebelhorns. —
 
 Tscho setzte sich wieder auf einen Stein.
@@ -763,7 +763,7 @@ wir leider zu spät. Als wir nach etwa anderthalb
 Stunden umkehren wollten, zeigte es sich sehr bald, daß
 wir den Rückweg nicht fanden.
 
-Ueberall nichts als schmale und breitere Kanäle,
+Überall nichts als schmale und breitere Kanäle,
 einzelne Felsen, Klippenreihen, hohe felsige Eilande,
 wieder Kanäle — der reine Irrgarten.
 
@@ -808,7 +808,7 @@ Blicke hingen wie gebannt an dem großen Fahrzeug.
 
 Das Wasserbecken war rings von turmhohen, steilen
 Felsen umgeben. Nur nach Süden zu zeigte sich eine
-breitere Oeffnung in diesem Kranze phantastisch geformter
+breitere Öffnung in diesem Kranze phantastisch geformter
 Steingebilde.
 
 Dort, wo der Dampfer lag, sprang das Steilufer
@@ -979,7 +979,7 @@ nun stießen sie ihn in das Loch hinein und schraubten
 den Deckel zu. — Bevor sie wieder nach dem Dampfer
 zurückkehrten, sagte der Weiße noch zu den beiden Farbigen:
 »Ersticken wird er nicht! Wir haben ja die
-Dampfrohre abgeschraubt, und durch die Oeffnungen
+Dampfrohre abgeschraubt, und durch die Öffnungen
 dringt genügend Luft hinein.« — Gleich darauf betraten
 sie wieder den Dampfer. Anscheinend sind sie dort
 geblieben. Wenigstens hörten wir nicht, daß das Motorboot
@@ -1091,7 +1091,7 @@ Ich schüttelte nur den Kopf.
 
 Wir gingen nach vorn ins Mannschaftslogis. Man
 merkte, daß hier eine Anzahl Leute noch wohnten oder
-doch bis vor kurzem gewohnt hatten. — Ueber dem langen 
+doch bis vor kurzem gewohnt hatten. — Über dem langen 
 <@pagebreak/>
 Holztisch hing eine Petroleumlampe, die Harald sofort
 angezündet hatte. Auf dem Fußboden lagen vier
@@ -1199,7 +1199,7 @@ Ahmed nickte nur.
 »Wann wollte O’Brien wiederkommen?« fragte Harald
 nun.
 
-»Uebermorgen nacht. Er denkt, ich werde dann
+»Übermorgen nacht. Er denkt, ich werde dann
 mürbe sein.«
 
 Harst überlegte: »Sadi Ahmed,« sagte er dann,
@@ -1236,7 +1236,7 @@ gelbbraunen Koffer zurück.
 »Sehr verständig von Dir!« sagte er triumphierend
 zu Ahmed. »Wo ist der Schlüssel?«
 
-»In meinem Aermelaufschlag —«
+»In meinem Ärmelaufschlag —«
 
 O’Brien hatte den kleinen Schlüssel schnell gefunden,
 schloß den Koffer auf, hob den Deckel.

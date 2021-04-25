@@ -5,7 +5,7 @@
 Harsts Laune war in jenen Tagen nach der Flucht James
 Palperlons die denkbar schlechteste. So schweigsam und
 insichgekehrt war er bisher nie gewesen. Ich merkte, daß ihm
-die Aeußerungen der Kopenhagener Presse genau so nahe gingen
+die Äußerungen der Kopenhagener Presse genau so nahe gingen
 wie der kühl\-förmliche Abschied von Lord Melville. Dieser
 machte ihm zum Vorwurf, Palperlons Entweichen durch ungenügende
 Sicherheitsmaßregeln erleichtert zu haben, und die
@@ -145,11 +145,11 @@ trotzdem dann gestern nacht, nachdem ich Gunnar Göllpaart
 gesprochen hatte, wieder bei ihm mich einfand, so lag das
 eben daran, weil der junge Fischer bedeutend mehr Schlauheit
 entwickelt hatte, als ich ihm zutrauen konnte. Er
-hatte nämlich jenseits des Oere-Sundes auf der schwedischen
+hatte nämlich jenseits des Öre-Sundes auf der schwedischen
 Seite in einem Fischerdorfe unweit Arlöf, der ersten Station
 nördlich von Malmö, von einem Bekannten erfahren, daß
 ein paar Fischer in einer nahen Bucht durch einen auf der
-Wasseroberfläche schwimmenden großen Oelfleck auf die Vermutung
+Wasseroberfläche schwimmenden großen Ölfleck auf die Vermutung
 gekommen seien, dort müsse ein kleiner Dampfer
 oder dergleichen gesunken sein. — Du ahnst wohl schon, daß
 die Fischer auf diese Weise das in nur drei Meter Tiefe liegende
@@ -407,7 +407,7 @@ Er schob die Tür ins Schloß. Wir waren in Kabine
 Nummer 9.
 
 Dann schoß mir eine blendende Lichtflut ins Gesicht.
-Mein Ueberwältiger hatte in der Linken eine Taschenlampe.
+Mein Überwältiger hatte in der Linken eine Taschenlampe.
 Er musterte mich — nur sekundenlang. Dann —
 und ich ruckte bei *der* Stimme leicht zusammen wie unter
 einem angenehmen lauen Wasserstrahl:
@@ -751,7 +751,7 @@ auch Leute, die schlauer sind als Sie. Viel schlauer! Sie kamen
 mir gleich gestern verdächtig vor. Daß ich Ihnen nachschlich,
 merkten Sie nicht. Jedenfalls: Sie sind Harald
 Harst! Leugnen hat keinen Zweck. Und — Sie sind ein
-überaus gefährlicher Mensch! Ueberaus gefährlich! Ich
+überaus gefährlicher Mensch! Überaus gefährlich! Ich
 schätze Sie anders ein als unsere hiesige Presse. — Was
 wollten Sie bei mir, he? Lügen Sie nicht! Es hat wirklich
 keinen Zweck, Doktor Doornblam beschwindeln zu wollen.
@@ -759,13 +759,13 @@ Gar keinen Zweck! Sie vermuten hier bei mir Arbeit zu
 finden? — Sprechen Sie! Und — nur ein einziges unwahres
 Wort, so drücke ich hier auf die zweite Feder und —
 sehen Sie dort die drei Löcher im Brustharnisch? Es sind die
-Oeffnungen für drei lange Dolchklingen! — Ein Druck —
+Öffnungen für drei lange Dolchklingen! — Ein Druck —
 und die Arme des Ritters krümmen sich; er reißt Sie an
 seine Brust. Diese Umarmung ist absolut tödlich, Herr Harst.
 — Nicht wahr, eine reizende mechanische Spielerei. Ich habe
 sie in Madrid erworben. Sie stammt aus der Zeit der Inquisition,
 als man die Ketzer zu Ehren Gottes zu tausenden
-köpfte, verbrannte, marterte, in siedendem Oel schwitzen ließ.
+köpfte, verbrannte, marterte, in siedendem Öl schwitzen ließ.
 — Also bitte! Sprechen Sie! Was wollten Sie hier? Was
 hofften Sie mit Ihrem Spürgenie hier herauszufinden?«
 <@pagebreak/>
@@ -794,7 +794,7 @@ Der Mensch war zu klug für jede Ausrede.
 Das überlegte ich mir, während meine Handgelenke in
 der Umklammerung der eisernen Schraubstöcke brannten und
 Doornblam den rechten Zeigefinger auf einen aus der rechten
-Hüfte des Ritters herausragenden Knopf gelegt hatte. Ueber
+Hüfte des Ritters herausragenden Knopf gelegt hatte. Über
 diesem Knopf befand sich ein zweiter. Meine Blicke hafteten
 wie gebannt darauf. Mein Gedankengang wurde unmerklich
 ein doppelter. Ich erwog die Aussichten einer klug erfundenen
@@ -824,7 +824,7 @@ die Wahrheit hören, um sein Verhalten danach einrichten zu
 können.
 
 Und das Bewußtsein, jetzt dem Tode so nahe gegenüberzustehen,
-diese Ueberzeugung, daß nur meine kühlste Ruhe
+diese Überzeugung, daß nur meine kühlste Ruhe
 mich befreien könnte, war wie ein Medikament, das die
 Nerven künstlich wieder für kurze Zeit in Ordnung bringt.
 Die Umklammerung des teuflischen Mordwerkzeugs hatte
@@ -906,7 +906,7 @@ Sie, Herr Harst, — es war aber wirklich nur ein Scherz.«
 »Das merke ich jetzt selbst, Herr Doktor. Immerhin ein
 sehr übler Scherz.« Ich steckte die Pistole ein und verbeugte
 mich. »Leben Sie wohl. Ihr Haus enthält denn doch zu unangenehme
-Ueberraschungen.«
+Überraschungen.«
 
 Er bat mich aufs liebenswürdigste, zu bleiben. Ich erklärte,
 ich müßte heim.
@@ -1223,7 +1223,7 @@ leicht beweisen können.«
 Bloomberg ließ uns ein. Sein Arbeitszimmer, gleichzeitig
 Bibliothek, lag nach der Drottninggatan hinaus und
 war ein Saal fast. Wir nahmen auf einem Ecksofa Platz.
-Ueber dem runden Eichentisch brannte eine Lampe mit gelbem
+Über dem runden Eichentisch brannte eine Lampe mit gelbem
 Seidenschirm.
 
 Harst legte Bloomberg das Gutachten des Goldschmieds
@@ -1282,7 +1282,7 @@ seiner Gegenwart abschickte. Und er drohte mir, sich nicht
 mehr bei mir sehen zu lassen, falls ich mich mit Doornblam
 ohne sein Wissen außerdem noch in Verbindung setzte.«
 
-»Aehnliches habe ich mir gedacht,« nickte Harst. »Sie verabredeten
+»Ähnliches habe ich mir gedacht,« nickte Harst. »Sie verabredeten
 mit dem Manne ein neues Zusammentreffen nach Ankunft
 Doornblams — für diesen Abend. Inzwischen haben
 Sie den Mann nicht wieder gesehen. — Sie schweigen — also

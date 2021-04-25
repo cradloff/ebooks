@@ -438,7 +438,7 @@ schoß jedoch auf mich und traf meinen linken Oberarm.
 In der Notwehr stieß ich mit meinem Dolchmesser zu. Dann
 rannte ich in meiner Kopflosigkeit davon. Ein Arzt legte
 mir einen Verband an und lieh mir seine bastseidene Jacke,
-da der Aermel der meinigen mit Blut getränkt war.«
+da der Ärmel der meinigen mit Blut getränkt war.«
 
 Harald nickte. »Also um die Juwelen ging es. Haben
 Sie sie denn nun wiederbekommen?«
@@ -838,8 +838,8 @@ daß —«
 Da — Kapitän Keeger mischte sich ein. »Mylord, lassen
 Sie mich mit Mr. Harst reden. — Mr. Harst, zunächst
 möchte ich Ihnen sagen, daß wir alle hier an Bord der
-Thetis Seiner Lordschaft bis zum Aeußersten treu ergeben
-sind — bis — zum — Aeußersten! Wir alle! Nur Sie
+Thetis Seiner Lordschaft bis zum Äußersten treu ergeben
+sind — bis — zum — Äußersten! Wir alle! Nur Sie
 beide nicht! Das heißt: Sie gehören nicht zu uns! — So,
 und nach dieser Einleitung erkläre ich Ihnen im Namen der
 ganzen Besatzung, daß wir nicht dulden werden, daß Sie
@@ -887,7 +887,7 @@ Und Harald spielte auch, — besser noch als sonst. Keeger,
 Macdonald und ich setzten uns an einen anderen Tisch
 und nahmen uns gegenseitig das Geld im Makao ab, einem
 Kartenhazard, das mit dem berüchtigten »Mauscheln«
-Aehnlichkeit hat.
+Ähnlichkeit hat.
 
 Man stelle sich diese Situation für uns beide vor: wir
 wußten, daß der Lord aus Gründen, die uns (oder doch
@@ -1120,7 +1120,7 @@ als Lord Ernest. Nur diese zwei Söhne vorhanden.
 Hektor gilt für tot.«
 
 »Dann war der falsche Lord eben Hektor Ralbrout!«
-meinte ich etwas beschämt. »Ja — die Aehnlichkeit hätte
+meinte ich etwas beschämt. »Ja — die Ähnlichkeit hätte
 allerdings auch mich auf diesen Gedanken bringen müssen.«
 
 Es klopfte. Tom kam und fragte, ob wir noch etwas
@@ -1258,7 +1258,7 @@ Macdonald, daß wir nun Verbündete sind. Es ist besser so.
 Wenn ich auch nicht annehme, daß sich unter Ihren Leuten
 ein Verräter befindet, so kann doch immerhin durch eine
 <@pagebreak/>
-unvorsichtige Aeußerung meine nunmehrige Aufgabe erschwert
+unvorsichtige Äußerung meine nunmehrige Aufgabe erschwert
 werden.«
 
 Er deutete dann auf die gefüllten Teetassen und blickte

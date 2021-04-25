@@ -143,7 +143,7 @@ sein Unglück geworden. Sie brachte es fertig, nicht nur Hauptmann
 Connings Vermögen wie Butter in der Tropensonne
 hinschwinden zu lassen, sondern erregte auch durch ihr Auftreten
 <@pagebreak/>
-in Connings neuer Garnison so viel Aergernis, daß er
+in Connings neuer Garnison so viel Ärgernis, daß er
 den Abschied nehmen mußte. So wurde er, nachdem Frau
 Marry auch den Rest des Vermögens noch in goldenem Leichtsinn
 vergeudet hatte, Polizeiinspektor in Betija, was etwa
@@ -474,7 +474,7 @@ an und — begann zu lachen, legte mir die Hände auf die Schultern
 und meinte:
 
 »Du Schwindler, Du! Keine Ahnung hast Du! Ich roch
-den Braten längst! Wollte Dich nur zu einer ähnlichen Aeußerung
+den Braten längst! Wollte Dich nur zu einer ähnlichen Äußerung
 verführen — Also so reimst Du Dir alles zusammen
 — so! Da bist Du aber gründlich auf dem Holzwege! Gründlich!
 — Sei mal ehrlich: Du weißt auch jetzt noch nicht, wie die
@@ -530,7 +530,7 @@ die Geliebte zu verlieren, zum Verbrecher geworden.«
 Ich war wirklich wie vor den Kopf geschlagen.
 
 <@pagebreak/>
-»Ueberlege Dir mal folgendes,« fuhr Harst fort. »Mautley
+»Überlege Dir mal folgendes,« fuhr Harst fort. »Mautley
 und Bickpool werden seit Wochen steckbrieflich verfolgt. Sie
 haben so allerlei auf dem Kerbholz. Auf ihre Ergreifung ist
 eine Belohnung von 500 Pfund ausgesetzt. Sie waren schon
@@ -620,7 +620,7 @@ am Boden unter anderem den Turban, den Mautley in Nepal
 trug, als wir mit den Schurken jenen Vertrag auf den
 <@pagebreak/>
 vorläufigen Waffenstillstand geschlossen hatten. Dieser Turban
-hatte einen Oelfleck. Das weiß ich bestimmt. Und Farbe und
+hatte einen Ölfleck. Das weiß ich bestimmt. Und Farbe und
 Fleck des Turbantuches am Boden des Schrankes waren genau
 dieselben. Mautley und Bickpool werden die frühere Verkleidung
 also abgelegt und sich aus Connings Vorrat neu kostümiert
@@ -1015,7 +1015,7 @@ Konstantinopel einst die Straßenhunde.
 Das Eden-Hotel war offenbar ein ehemaliger Palast irgend
 eines indischen Fürsten und lag an einem kleinen Platze
 mitten unter winzigen, halb verfallenen Baracken aus
-Gangesschlammziegeln. Ueber dem Eingang war ein riesiges Holzschild
+Gangesschlammziegeln. Über dem Eingang war ein riesiges Holzschild
 angebracht, auf dem außer dem Namen in englischer, indischer
 und chinesischer Sprache stand, daß im großen Saale allabendlich
 berühmte Artisten ihre Künste zeigten — also noch
@@ -1417,7 +1417,7 @@ angesehen, als er die Ränder der Versenkung betastete, mit deren
 Hilfe Mautley so blitzschnell nach unten verschwunden war,
 daß Harsts in der Dunkelheit abgefeuerte Kugel fehlging.
 
-Die Wände waren mit einem Oelfarbenanstrich versehen.
+Die Wände waren mit einem Ölfarbenanstrich versehen.
 Unter dem Kalkbewurf kamen — Schlammziegel zum Vorschein,
 als Harst den Putz mit dem Messer abkratzte.
 

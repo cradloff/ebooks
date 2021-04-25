@@ -32,7 +32,7 @@ geistvoller ausfallen, Jakoobsen, schmeiße ich Sie über Bord.«
 
 »Kein Kunststück — ich wiege nur 102 Pfund, bester
 Harst,« lachte der zappelige Redakteur der größten schwedischen
-Zeitung. »Uebrigens — die Gräfin war wirklich
+Zeitung. »Übrigens — die Gräfin war wirklich
 Katzenfreundin. Sie besaß einen pechschwarzen, großen
 Kater namens Kribbi. Wer weiß, was aus Kribbi geworden
 ist.«
@@ -42,7 +42,7 @@ Gröndal,« warf Inspektor Löngaard ein. »Mit Gas schmerzlos
 getötet. Was sollte man mit all den Viechern machen?!
 Etwa ein Katzenheim für sie errichten?!«
 
-»Lieber Freund, Sie werden die Gelbsucht vor Aerger
+»Lieber Freund, Sie werden die Gelbsucht vor Ärger
 kriegen!« kicherte Jakoobsen. »Und das wäre schade. So
 <@pagebreak/>
 ein schöner Mann wie Sie! — Trösten Sie sich, Löngaard:
@@ -225,7 +225,7 @@ Ich sah nichts, ich hörte nichts.
 
 Regen und Wind schwiegen.
 
-Dann von oben etwas wie ein gurgelndes Aechzen.
+Dann von oben etwas wie ein gurgelndes Ächzen.
 
 Ich eilte vorwärts — im Dunkeln, fand die erste
 Treppenstufe die zweite — die dritte.
@@ -250,7 +250,7 @@ der bewußtlos zu sein schien.
 
 Er knipste seine Lampe wieder aus. »Geh’ voran,«
 meinte er. »Dort links ist die Tür zu dem kleinen Empfangssalon.
-Oeffne sie und laß mich hindurch. Schalte
+Öffne sie und laß mich hindurch. Schalte
 Deine Lampe ein, aber nur einen Moment.«
 
 Ich schaltete die Lampe nicht ein.
@@ -266,7 +266,7 @@ zu stark zugedrückt hätte?!«
 »— Lassen Sie mich gefälligst zunächst aus dieser Babylage
 <@pagebreak/>
 auf meine ehrlichen Gehstelzen gleiten,« flüsterte Gunnar
-Jakoobsen. So. Danke! — Na, die Ueberraschung
+Jakoobsen. So. Danke! — Na, die Überraschung
 wäre mir also geglückt. Ich ahnte, daß Sie nicht Kupferstiche
 sich ansehen wollten, sondern ganz was anderes und
 auch nicht am Tage. Kribbi, der Kater, hat sie hergelockt.
@@ -848,7 +848,7 @@ Mütze sind sind typisch englisch,« sagte er. »Am meisten interessiert
 mich aber Ihre Gesichtshaut. Leute, die sich öfters schminken
 bekommen eine ganz besondere Art von Teint. Da Sie
 wohl kaum Schauspieler sein dürften, vermute ich hier etwas
-Aehnliches wie vor sechs Tagen drüben im Hause des Professors.
+Ähnliches wie vor sechs Tagen drüben im Hause des Professors.
 Damals war es Cäsar Günther, unser Landsmann
 aus Hamburg, der uns zu Gefangenen machte, weil er des
 Fleischermeisters Belohnung für sich allein ergattern wollte.
@@ -1224,7 +1224,7 @@ Fenster des rechten Turmes ausgehakt, stieg dort noch bei
 tollstem Regen ein und —«
 
 »Es wäre besser, Sie lägen daheim im Bett!« seufzte
-Harald, der den Aerger schon überwunden hatte.
+Harald, der den Ärger schon überwunden hatte.
 
 Dann richtete er sich mit einer ruckartigen Bewegung
 höher auf.
@@ -1291,13 +1291,13 @@ Vertrauen habe!«
 Es war jetzt ½ 8 Uhr morgens, wie mir ein Blick auf
 meine Taschenuhr verriet. Seufzend fügte ich mich in das
 Unvermeidliche, setzte mich diesmal aber bequemer hin,
-streckte die Beine von mir und — war vor Uebermüdung
+streckte die Beine von mir und — war vor Übermüdung
 bald regelrecht eingeschlafen.
 
 Dann rüttelte Harst mich wach.
 
 »Zehn Uhr!« meinte er. »Wir können die Sache aufgeben,
-mein Alter. Uebrigens habe ich Dich beneidet. Du
+mein Alter. Übrigens habe ich Dich beneidet. Du
 schliefst wie eine Ratte und hast zuweilen durchaus echt
 geschnarcht.«
 
@@ -1504,7 +1504,7 @@ Wir beschworen ihn immer wieder, doch nicht uns alle zu
 verderben. Balder und ich haben nicht den geringsten Vorteil
 von diesem Treiben gehabt, lehnten Geld ab, hatten
 heftige Auftritte mit Bränkyr, der jedoch stets drohte, Balders
-Betrug an die Oeffentlichkeit zu bringen. Dann kam
+Betrug an die Öffentlichkeit zu bringen. Dann kam
 für uns das furchtbarste: die Entdeckung drohte durch den
 Detektiv Hans Bertge! — Nun folgten die Ereignisse Schlag
 auf Schlag. Heute bewies Bränkyr endlich seine ganze
@@ -1536,7 +1536,7 @@ Er deutete zum Fenster hinaus.
 »Ich habe gefehlt — ich will die Strafe auf mich
 nehmen.« —
 
-Ueber den Fall »Kater Kribbi« ist nur noch das zu bemerken,
+Über den Fall »Kater Kribbi« ist nur noch das zu bemerken,
 daß die drei Verbrecher verhaftet wurden, als sie
 sich nach Kopenhagen übersetzen lassen wollten.
 

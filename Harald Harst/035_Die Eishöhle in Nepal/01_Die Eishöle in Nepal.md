@@ -34,7 +34,7 @@ Des dicken Doorballs Gesicht war immer länger geworden.
 
 »Wirklich, Sie wollen uns schon wieder verlassen, Mr.
 Harst?« meinte er jetzt und kratzte sich die fuchsige Perücke vor
-Ueberraschung und Enttäuschung. »Das tut mir sehr sehr
+Überraschung und Enttäuschung. »Das tut mir sehr sehr
 leid. Ich hoffte doch, Sie würden mir dazu verhelfen, mich
 irgendwie auszuzeichnen, damit ich endlich aus diesem verwünschten
 Lausenest herauskomme, in dem ich nun schon fünfzehn
@@ -159,7 +159,7 @@ Läufer genügt. Nur er ist wichtig. Er ist gerade vor der Türschwelle
 etwas uneben am Rande, steht ein wenig von den
 Dielen ab. Vielleicht liegt die Depesche darunter; vielleicht hat
 <@pagebreak/>
-die — »Dienerin« sie dorthin gelegt in der Ueberzeugung,
+die — »Dienerin« sie dorthin gelegt in der Überzeugung,
 daß Harald Harst den Buckel des Läufers schon bemerken
 würde.«
 
@@ -380,7 +380,7 @@ oder vorgetäuscht.«
 
 »Ein Irrtum von Mr. Doorball,« sagte Harst und lehnte
 sich bequemer in seinem Sessel zurück. »Wir haben die beiden
-Leute, auf deren Konto diese Ueberfälle kommen, gefaßt, sie
+Leute, auf deren Konto diese Überfälle kommen, gefaßt, sie
 sind aber leider wieder entflohen. Sie wollten Parmang einschüchtern
 und ihn zwingen, mit ihnen die Ausbeute einer Diamantenfundstelle
 zu teilen, die er entdeckt haben muß.«
@@ -519,7 +519,7 @@ Daß ein Europäer hier in Nepal ohne Diener reist, wo
 es keine Eisenbahnen gibt, kommt nie vor. Harst hatte nun
 herausbringen wollen, wer damals Parmangs Begleiter nach
 <@pagebreak/>
-Katmandu gewesen wären. Zu unserer Ueberraschung ergab
+Katmandu gewesen wären. Zu unserer Überraschung ergab
 sich folgendes: Parmang hatte hier in der Minenstadt vom
 ersten Tage an zwei Nepalesen als Diener gehabt, die er von
 einem Kollegen übernommen hatte. Diese Nepalesen hatten
@@ -629,7 +629,7 @@ stand.
 näher.
 
 Der Inder schnellte entsetzt hoch, — besser er heuchelte
-diese Ueberraschung und — flog Harald mit einem wahren
+diese Überraschung und — flog Harald mit einem wahren
 Panthersprung an die Kehle.
 
 Es war nicht Chutawuru! Es war der lange bärenstarke
@@ -709,7 +709,7 @@ leicht in die Arme, trug ihn davon, hinaus in die große
 Halle. Bickpool schritt hinterdrein.
 
 Er bekam mich im Rücken zu packen, schleifte mich am Boden
-entlang bis zu einer quadratischen Oeffnung in der Halle.
+entlang bis zu einer quadratischen Öffnung in der Halle.
 <@pagebreak/>
 Die Schufte hatten vier Fliesen ausgehoben, die das Loch verdeckt
 hatten.
@@ -723,7 +723,7 @@ Das war das einzige Lebenszeichen von ihm. Ich wollte
 mich von seinen Beinen wegrollen. Aber er flüsterte: »Rege
 Dich nicht!« und — pfiff weiter.
 
-Ueber uns wurden die Fliesen eingefügt. Das wenige Licht,
+Über uns wurden die Fliesen eingefügt. Das wenige Licht,
 das durch das Loch hineingefallen war, erlosch.
 
 Um uns tiefste Dunkelheit.
@@ -864,7 +864,7 @@ Marktplatz.«
 Wir konnten jetzt sozusagen an der Hand der Photographien
 einen bestimmten Weg feststellen, den Parmang während seines
 Aufenthalts hier zurückgelegt hatte. Harald machte mich
-darauf aufmerksam, daß Parmang recht oft Oertlichkeiten
+darauf aufmerksam, daß Parmang recht oft Örtlichkeiten
 photographiert hatte, an denen nicht das geringste Bemerkenswerte
 war.
 
@@ -971,7 +971,7 @@ wieder mit dem Sahib zusammen.«
 
 »Nichts. Dann photographierte er. Aber — er tat’s nur,
 um die Platten zu verbrauchen, schien’s mir. Er hatte es damit
-sehr eilig. Ueberhaupt —« Der Junge schaute plötzlich
+sehr eilig. Überhaupt —« Der Junge schaute plötzlich
 etwas verlegen zu Boden.
 
 <@pagebreak/>
@@ -1093,7 +1093,7 @@ Um 3 Uhr nachmittags befanden wir uns bereits mitten
 im Hochgebirge. Die uralte Straße, die hier dem Ufer des
 Sun Kufi folgte, bewies wieder einmal, eine wie hochentwickelte
 Kultur selbst hier in Nepal vor vielen Jahrhunderten bestanden
-hatte. — Oeffnete sich vor uns ein nach Norden gerichtetes
+hatte. — Öffnete sich vor uns ein nach Norden gerichtetes
 Tal, dann sahen wir bereits in fast greifbarer Nähe die ersten
 Schneegipfel und Gletscher der Himalayaketten im Sonnenlichte
 funkeln. Harst war uns stets gut fünfzig Meter voraus.
@@ -1129,7 +1129,7 @@ Er stieg ab und ging wie planlos hin und her, entfernte
 <@pagebreak/>
 sich dann nach Süden zu, immer unweit des Schluchtrandes sich
 haltend. Er entschwand unseren Blicken, tauchte plötzlich jedoch
-zu unserer Ueberraschung an der anderen Seite der Schlucht
+zu unserer Überraschung an der anderen Seite der Schlucht
 uns gegenüber wieder auf, rief: »Dort nach Süden werdet
 Ihr eine natürliche Felsenbrücke finden. Schnell — bringt mein
 Pferd mit.«
@@ -1210,7 +1210,7 @@ einen Satteltasche zwei Ersatzbatterien für seine Lampe zu sich.
 sein und abwarten, ob wir ihnen nicht folgen. Sie haben
 sicher nach einer Weile haltgemacht und werden erst weitergehen,
 wenn sie glauben, wir seien wirklich bei den Pferden geblieben.
-Uebrigens können wir jetzt auch gleich unserem dicken
+Übrigens können wir jetzt auch gleich unserem dicken
 Doorball zu seinem Gelde zurückverhelfen. Mautley hat heute
 nachmittag etwas in seine Satteltasche eingeschlagen, als er
 behauptete, der Sattel säße schlecht. Hilf mir mal. Wir wollen
@@ -1240,7 +1240,7 @@ seiten Bickpools und Mautleys.
 
 Plötzlich öffnete sich dann vor uns das Innere eines kleinen
 Tales, dessen steile Wände mit vereisten Schneemassen bedeckt
-waren. Ueber uns funkelten die Sterne des klaren Nachthimmels.
+waren. Über uns funkelten die Sterne des klaren Nachthimmels.
 Ein fast geisterhaftes Licht erfüllte das von hohen
 Bergen eingeschlossene Tal. Weit und breit war kein lebendes
 Wesen zu erblicken.
@@ -1413,7 +1413,7 @@ habe auch die beiden Chinesen — erschossen, die der Teehauswirt
 — mir nachschickte. Verzeihen Sie mir, Harst. Ich war
 bis dahin — ein ehrlicher Mensch. Die Edelsteine — haben
 mich verblendet. Sie liegen in dem Bächlein dort unten. Millionen
-und Uebermillionen an Wert. Sie, Harst sollen der
+und Übermillionen an Wert. Sie, Harst sollen der
 Erbe — dieses Geheimnisses sein. Stiften Sie — Gutes mit
 diesen Schätzen. Ich — bereue. Ich ließ mich — verblenden
 und —«

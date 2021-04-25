@@ -693,7 +693,7 @@ Master Harst.«
 
 Harald wandte sich an Sramotta.
 
-»Nun meine Fragen, Sramotta. Ueberlege Dir die Antworten
+»Nun meine Fragen, Sramotta. Überlege Dir die Antworten
 sehr sorgfältig. Jede Kleinigkeit kann wichtig sein. —
 <@pagebreak/>
 Hatte Dein Herr Feinde, denen Du zutraust, daß sie ihm auch
@@ -723,7 +723,7 @@ zu sein. Heute mittag erklärte er noch, als ich mit ihm
 über das Geld für die verflossene Woche abrechnete: »Sramotta,
 ich wünschte, alle Menschen wären so ehrlich wie Du.
 Aber sie sind es nicht. Es gibt viele, die stehlen, und niemand
-traut es ihnen zu. Ich werde bald großen Aerger haben.«
+traut es ihnen zu. Ich werde bald großen Ärger haben.«
 
 »Ah! Das ist überaus wichtig, Sramotta.«
 
@@ -799,7 +799,7 @@ ohne sie zu durchbohren. — Thimals Theorie von den Luftpistolen
 wird dadurch noch unhaltbarer. Eine solche Kraft hat
 kein Geschoß einer Luftpistole.«
 
-Plomber zuckte die Achseln. »Bei näherer Ueberlegung
+Plomber zuckte die Achseln. »Bei näherer Überlegung
 <@pagebreak/>
 sieht man sehr bald ein, daß Thimals Theorie Unsinn ist. Aber
 die Herren von der Polizei, noch dazu ein so hoher Beamter
@@ -831,7 +831,7 @@ Plomber führte uns in unsere beiden Zimmer, ein gemeinsames
 Wohn- und Schlafzimmer, sagte uns gute Nacht
 und zog sich zurück.
 
-Wir setzten uns an den Mitteltisch. Ueber uns brannte
+Wir setzten uns an den Mitteltisch. Über uns brannte
 eine einfache elektrische Hängelampe.
 
 Harald schlug das Buch auf und zeigte mir die Rubrik
@@ -1040,7 +1040,7 @@ nahe ist!«
 
 Er trennte sich von mir. Aber das Benzinboot fuhr
 zwischen uns hindurch. Wir wurden anders wehrlos gemacht.
-Ueber der Bordwand erschienen zwei weitere Inder. Ich
+Über der Bordwand erschienen zwei weitere Inder. Ich
 fühlte, wie mir eine Schlinge über den Kopf glitt. Dann ein
 furchtbarer Ruck. Die Schlinge zog sich zu. Ein glücklicher
 Zufall war’s, daß ich unwillkürliche die linke Hand schützend
@@ -1075,7 +1075,7 @@ geschlungen, auf denen wir saßen.
 
 Als Rückenlehne diente uns die kalte, feuchte Mauer. Ich
 <@pagebreak/>
-kämpfte noch immer gegen eine starke Uebelkeit an. Hin und
+kämpfte noch immer gegen eine starke Übelkeit an. Hin und
 wieder sprühten mir Funken vor den Augen auf. Die Schmerzen,
 die mir die brutal fest angezogenen Riemen verursachten,
 waren jedoch das beste Mittel, diese Schwächeerscheinung schnell
@@ -1098,7 +1098,7 @@ Thimal darum,« sagte Harald nun in englischer Sprache.
 schwarze Bart unter der Maske vorschaut.«
 
 Jetzt war ich ganz munter und frisch. — Thimal, wirklich
-Thimal?! — Gewiß — daß er hinter diesem Ueberfall
+Thimal?! — Gewiß — daß er hinter diesem Überfall
 steckte, hatte ich schon geargwöhnt.
 
 Ich schaute den falschen Inder an. Jetzt hatte er den
@@ -1241,7 +1241,7 @@ Räuber geworden ist.«
 Der Inder stierte Harst lange an. Seine Angst war
 noch größer geworden.
 
-»Sahib, ja — es hat mich jemand zu diesem Ueberfall
+»Sahib, ja — es hat mich jemand zu diesem Überfall
 verleitet.«
 
 »Das wußte ich. Es war ein Mann, der vermuten konnte,
@@ -1274,7 +1274,7 @@ Gleich darauf war er davongehuscht. — Harald hielt seine
 Uhr in der Hand. Als eine Viertelstunde um war, nahm er
 die Laterne und schritt voran. Das Gewölbe machte noch zwei
 scharfe Krümmungen. Dann standen wir vor einer Schutthalde.
-Ueber uns schien durch ein großes Loch das Tageslicht
+Über uns schien durch ein großes Loch das Tageslicht
 hinein.
 
 Wir kletterten den Schuttwall aufwärts. Wir standen auf
@@ -1454,7 +1454,7 @@ noch liebenswürdiger.
 Wir saßen auf der Veranda und sprachen über den Mord.
 Thimal fragte, ob Harst etwas Neues entdeckt hätte. Harald
 erzählte von unserer Entführung nach der Insel. Thimal
-spielte den ungläubig Ueberraschten. Harst versicherte, daß
+spielte den ungläubig Überraschten. Harst versicherte, daß
 alles der Wahrheit durchaus entspreche. Er hatte unser Erlebnis
 aber so geschildert, als ob wir keine Ahnung hätten,
 <@pagebreak/>
@@ -1541,7 +1541,7 @@ Wir beide fieberten vor Spannung. Plomber fragte immer
 wieder: »Werden Sie daraus klug, bester Schraut?«
 
 Ich konnte nur erwidern: »Nein. Natürlich erwartet
-Harst, daß auf die Puppe geschossen wird. Aber alles Uebrige
+Harst, daß auf die Puppe geschossen wird. Aber alles Übrige
 ist mir schleierhaft.«
 
 Die Minuten schlichen förmlich. Plomber schaute so und
@@ -1614,7 +1614,7 @@ Doch; er unterschätzte den Polizeidirektor.
 Thimal rief jetzt schneidend:
 
 »Was soll diese Irreführung, Master Harst?! Sie wagen
-sehr viel. Und — für die Aeußerungen, die Sie sich soeben erlaubten,
+sehr viel. Und — für die Äußerungen, die Sie sich soeben erlaubten,
 werde ich Sie vor Gericht zur Rechenschaft ziehen.«
 
 Harst kam langsam die Stufen herab. Thimal stand jetzt

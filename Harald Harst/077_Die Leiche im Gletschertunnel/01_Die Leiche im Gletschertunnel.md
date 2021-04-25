@@ -44,7 +44,7 @@ Dahlen, eingebettet in das Grün von Bäumen und Sträuchern.
 Und als einziges größeres Gebäude das Hotel
 Dahlen, ein Holzbau mit zahllosen blinkenden Fenstern.
 
-Ueber alledem die Morgensonne eines klaren Augusttages:
+Über alledem die Morgensonne eines klaren Augusttages:
 ringsum Frieden und Ruhe; nur das feine Klingen
 der Glocken des auf den grünen Bergmatten weidenden
 Viehs.
@@ -278,7 +278,7 @@ Erpresser, worauf auch Lörax hinwies, die drei Millionen
 holen und doch Pa nicht freilassen könnten!«
 
 Die Blonde wurde rot. Auch ihre Augen verrieten
-wenig Liebe für die Aeltere, als sie scharf erklärte:
+wenig Liebe für die Ältere, als sie scharf erklärte:
 
 »Dann wäre noch immer Zeit gewesen, Master Harst
 zu bemühen! Wer weiß, was jetzt geschieht! Denn auch
@@ -562,7 +562,7 @@ verbrennen!«
 
 Die beiden letzten Worte wurden unmerklich betont.
 
-Ich verstand: Ich sollte mit Aeußerungen vorsichtig
+Ich verstand: Ich sollte mit Äußerungen vorsichtig
 sein! Es war also doch ein Lauscher draußen!
 
 Wir begannen zu essen.
@@ -591,7 +591,7 @@ wäre zu groß!«
 wird es wohl eine Stunde dauern, bis wir die Bedienung
 herausgetrommelt haben. Schließlich — man kann
 auch hier es sich behaglich machen! Decken haben wir ja.
-— Uebrigens — was den zweiten Drohbrief betrifft — er
+— Übrigens — was den zweiten Drohbrief betrifft — er
 war von einer Frau geschrieben und mit einer lila Tinte,
 die die Briefschreiberin sich selbst hergestellt hat —«
 
@@ -607,7 +607,7 @@ Da schwand meine Interessenlosigkeit.
 »Du schaust mich so überrascht an, mein Alter! Bedenke
 aber, daß die blonde Mary stets gegen unsere Mitwirkung
 war! Kann sie da nicht aus Angst um den Vater
-den Brief der Aelteren ins Zimmer gelegt haben? Wer
+den Brief der Älteren ins Zimmer gelegt haben? Wer
 tat dies, wenn Mary nicht in Betracht käme?! Unter den
 Gästen ist kein Verdächtiger, und in die Baulichkeiten des
 Haukeli kann ein Fremder sich unbemerkt nicht einschleichen!
@@ -629,7 +629,7 @@ Mary Colding sich diesen »Scherz« geleistet hat?«
 »Ich brauche nur Jane zu bitten, mir eine Schriftprobe
 ihrer jüngeren Schwester zu verschaffen. Und — das
 werde ich morgens tun, denn Mary ist zu ungeübt, ihre
-Handschrift so zu verstellen, daß ich nicht Aehnlichkeiten herausfinden
+Handschrift so zu verstellen, daß ich nicht Ähnlichkeiten herausfinden
 sollte!«
 
 »Das läßt sich hören!«
@@ -720,7 +720,7 @@ Neuyork hatte sich 1902 eine derartige Gesellschaft überaus
 eifrig betätigt und gegen fünf Millionen in kurzer Zeit
 »verdient«. Als man die Bande schließlich abfaßte, stellte
 sich heraus, daß ihr Oberhaupt einer der angesehensten
-Aerzte Neuyorks war, der seine Kenntnis intimer Familienverhältnisse
+Ärzte Neuyorks war, der seine Kenntnis intimer Familienverhältnisse
 dazu benutzt hatte, den Erpresserbriefen auch allerlei
 Tatsachen einzufügen, die den Opfern höchst peinlich
 sein mußten.«
@@ -1016,7 +1016,7 @@ Ein Blick, der mehr Triumph ausdrückte als Sorge um
 umso Leben.
 
 Und Ottmar Orstra kehrte zurück — mit den beiden
-Oelbildern, die wir bereits kannten, — mit jenen Bildern,
+Ölbildern, die wir bereits kannten, — mit jenen Bildern,
 die er hatte verschwinden lassen, als die Flammen des brennenden
 Hotels die Züge einer Sterbenden, seiner Schwester,
 beleuchteten.
@@ -1236,7 +1236,7 @@ er uns die Flucht so leicht?!«
 
 »Verbrechereitelkeit, — das betonte ich ja bereits!
 Er will mir imponieren! Aber — er hat sich selbst mir
-in die Hände gegeben. Ich durchschaue alles. — Ueberlege
+in die Hände gegeben. Ich durchschaue alles. — Überlege
 Dir mal: ist es nicht ein übergroßes Risiko, daß die
 drei Millionen auf dem Haukeli-Kegel niedergelegt werden
 sollen?! Wäre es nicht Leichtsinn von ihm, wollte er

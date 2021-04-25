@@ -158,7 +158,7 @@ Eisengeländers der Hofmauer und beugte sich vor...
 »Ja — ein Weib schrie!« rief ich. »Dort drüben...!
 Laufen wir hin! — Ah — — auch zwei Schüsse...«
 
-»Halt! Halt!« Und er packte mich am Aermel. »Da
+»Halt! Halt!« Und er packte mich am Ärmel. »Da
 — ein neuer Schrei...! — Die Windstöße täuschen über
 die Richtung, woher der Schall kommt. Ich glaube, es
 war...«
@@ -450,7 +450,7 @@ stand weit offen. Es ist ein älteres Panzerspind. Ich war
 im Laden. Ein Schupobeamter hatte sich ebenfalls schon
 eingefunden. Ich flüsterte ihm zu, wer ich sei, und daß er
 den Kriminalkommissar zu uns schicken solle, der den Fall
-untersuchen würde. Uebrigens, — das Auto ist ein sehr
+untersuchen würde. Übrigens, — das Auto ist ein sehr
 eleganter Wagen, und der Tote im Innern, der sich mit
 dem Halse auf den Glasspitzen aufgespießt hat, ist der Eigentümer,
 ist kein anderer als...«
@@ -605,7 +605,7 @@ Wohnte er nicht in der Französischen Straße? Der Selbstmord
 liegt erst eine Woche zurück. — Sollte das Hündchen
 dort in dem Karton...«
 
-Er war rasch aufgesprungen. »Ueber unserem Gespräch
+Er war rasch aufgesprungen. »Über unserem Gespräch
 vergessen wir das arme Tier,« fügte er hinzu. »Ich werde
 es herauslassen. Es ist also nicht naß geworden?«
 
@@ -614,7 +614,7 @@ eingehüllt.«
 
 Dann kam aus dem aufgeweichten Pappkarton ein allerliebster
 kleiner Rehpintscher mit großen, runden, klugen
-Aeuglein zum Vorschein, schüttelte rasch die wärmende
+Äuglein zum Vorschein, schüttelte rasch die wärmende
 Schalbandage ab und war mit einem Satz auf Karl Hocks
 Schoß.
 
@@ -718,7 +718,7 @@ das Auto des toten, aufgespießten Generaldirektors Manuel
 Malesto, an das Schaufenster des Juwelierladens in der
 Innsbrucker Straße und an den offenen Tresor...
 
-Und ich dachte weiter, daß eine Ueberfülle von Ereignissen
+Und ich dachte weiter, daß eine Überfülle von Ereignissen
 wie zusammenhanglose Kinobilder sich im Verlauf
 weniger Stunden sich vor uns abgerollt hatten — Kinobilder,
 Kinoszenen, denen die verbindenden Stücke fehlten,
@@ -938,7 +938,7 @@ genannt hatte...!
 
 In einem solchen kurzen Aufschrei eines erregten Weibes
 liegt oft eine ganze Welt von Empfindungen. Hier hatte
-ich Haß, Wut, Verachtung und ein wenig Ueberraschung
+ich Haß, Wut, Verachtung und ein wenig Überraschung
 herauszuhören geglaubt.
 
 Da rief die Dame bereits, indem sie wie beschwörend
@@ -1078,7 +1078,7 @@ Ich hätte mir am liebsten an die Stirne gefaßt. Ich
 <@pagebreak/>
 hatte gehofft, daß das Dunkel dieses Vorkommnisses sich
 lichten würde. Und nun: der Sachverhalt wurde noch verworrener!
-Ich besann mich ja so gut auf Haralds Aeußerung,
+Ich besann mich ja so gut auf Haralds Äußerung,
 daß er Gußfelder und Zelestine in der Bar belauscht
 und daß das Gespräch der beiden auch diesen Brief
 gestreift hätte! — Wie war denn nun der tatsächliche
@@ -1143,7 +1143,7 @@ Stößen des Orkans.
 
 Oh — ich werde diese Nacht nicht vergessen! Ich
 vergesse solche Stunden nie. In meinem Hirn sind unzählige
-ähnliche Erinnerungen aufgestapelt. Ueber allen steht in
+ähnliche Erinnerungen aufgestapelt. Über allen steht in
 Flammenschrift: Harald Harst! Ihm verdanke ich dieses
 Leben, das ich liebe, diese Aufregungen, die wie ein
 Opiumrausch sind...
@@ -1164,7 +1164,7 @@ Untiers über die Reichshauptstadt mit heulendem Blasen
 hinwegsausen zu können, da benutze ich diese Gelegenheit
 zu der raschen leisen Frage:
 
-»Ihr Feind hat mit Ihnen offenbar eine Aehnlichkeit,
+»Ihr Feind hat mit Ihnen offenbar eine Ähnlichkeit,
 wie sie selten vorkommt. Wer ist dieser Mensch?«
 
 »Ja — wenn ich das wüßte!« war die verlegene Antwort.

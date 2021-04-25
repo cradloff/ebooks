@@ -57,7 +57,7 @@ haben Sie von mir —«
 »Herr Gott — welch ein Glück!« rief Gilpe dazwischen.
 »Also <span class="g">der</span> Harst sind Sie! — Ja — dann — dann kann ich
 wohl noch hoffen, den Jan Schmeling wiederzusehen. Er ist
-nämlich mit meiner Aeltesten verlobt, der Jan.« Er seufzte.
+nämlich mit meiner Ältesten verlobt, der Jan.« Er seufzte.
 »Und nun — nun bringen wir ihn nicht mit heim. Das
 — das wird Tränen geben!«
 
@@ -120,7 +120,7 @@ Steilküste hinaufgelangt, dann aber —«
 »— dann verschwanden sie eben!« vollendete der alte
 Gilpe dumpfen Tones. »Ihre Freunde, die unten im Boote
 alles beobachteten, sahen, wie der Spuk die Arme sehnsüchtig
-ausstreckte, wie die Aermsten auf die Gestalt zueilten und —
+ausstreckte, wie die Ärmsten auf die Gestalt zueilten und —
 — urplötzlich wie weggeblasen waren. — Dasselbe spielte sich
 jedesmal ab. Und nun sind’s mit Jan gerade zehn, die die
 Fee sich geholt hat.«
@@ -399,7 +399,7 @@ zehn jungen Leute verschwinden — wozu?«
 Ich hatte selbst schon darüber nachgedacht. »Ich weiß es
 nicht. — Etwa um sie zu berauben?«
 
-»Niemals! Ueberlege: Was können denn Seeleute und
+»Niemals! Überlege: Was können denn Seeleute und
 einfache isländische Bauernsöhne oder Fischer an Wertgegenständen
 bei sich haben?! — Nein — hier handelt es sich um
 etwas anderes, — aber — um was?! Ich finde keine Erklärung.
@@ -559,7 +559,7 @@ gingen, fing er selbst von Schlimp zu sprechen an.
 »Der Mann ist wertvoll,« meinte er unter anderem. »Ich
 wette, er weiß mehr, als er sagt.«
 
-»Ueber die Horna-Fee?«
+»Über die Horna-Fee?«
 
 »Nein, über Preegraves Versteinerungen. Als ich diese
 so nebenbei einflocht, wurde sein Fuchsgesicht noch fuchsähnlicher.«
@@ -646,7 +646,7 @@ krampfhafter Anstrengungen.
 Harst.
 
 Nacht vielleicht einer halben Stunde hielt der Wagen.
-Ueber uns raschelte es. Es waren die Geräusche, die eine geölte
+Über uns raschelte es. Es waren die Geräusche, die eine geölte
 Leinwand, macht, wenn sie beiseite geschoben wird.
 
 Man hob mich auf, trug mich von dannen. Es waren
@@ -847,7 +847,7 @@ Stufe, bis der Morgen heraufzog. Erst als es hell genug
 war, auch auf weitere Entfernung draußen alle Gegenstände
 unterscheiden zu können, gingen wir in den Hof hinab.
 
-Harst hob die Oelleinwand von dem Kastenwagen. Darin
+Harst hob die Ölleinwand von dem Kastenwagen. Darin
 lagen ein leerer Korb und ein leeres Fäßchen.
 
 Harst zog den Stöpsel aus dem Spundloch des Fäßchens
@@ -901,7 +901,7 @@ Detektiv, der dann dort das Geheimnis des Gespensterwracks
 enthüllte. Als nun hier der Optimus auftauchte, da
 habe ich mir gleich gedacht: Ob nicht Herr Harst jetzt bei uns
 eine Gastrolle geben will?, habe Sie beide schärfer beobachtet
-und kam zu der Ueberzeugung, Sie seien Harst und Schraut.
+und kam zu der Überzeugung, Sie seien Harst und Schraut.
 Dies erzählte ich abends Preegrave, ohne zu ahnen, was ich
 damit anrichtete Er wird —«
 
@@ -1094,7 +1094,7 @@ mit Laternen entgegen; Schlimps scharfe, helle Stimme gellte
 uns in die Ohren:
 
 »Die Schufte sind mit dem Optimus auf und davon.
-Zwei Fischer beobachteten den Ueberfall auf die Jacht. Eine
+Zwei Fischer beobachteten den Überfall auf die Jacht. Eine
 halbe Stunde ist’s her!«
 
 Und diesen deutschen Worten folgten aus Björkas Munde
@@ -1193,13 +1193,13 @@ war er wieder bei uns.
 Sollte ich mich verrechnet haben?«
 
 Bei mir hatte sich längst wieder jene nervöse Erregung
-eingestellt, die mit Kulissenfieber so viel Aehnlichkeit hat.
+eingestellt, die mit Kulissenfieber so viel Ähnlichkeit hat.
 Auch Landsmann Schlimp, der dritte in der Schlange, atmete
 kurz und keuchend.
 
 Nach wenigen Metern abermals halt. Vor mir reckte sich
 die nördliche Wand des Kessels hoch, die jedoch unten eine
-flach gewölbte Oeffnung hatte. Harst tauchte darin unter,
+flach gewölbte Öffnung hatte. Harst tauchte darin unter,
 reichte mir nun die Hand.
 
 »Aufstehen — Kette bilden — leise mir nach!« befahl er.
@@ -1292,7 +1292,7 @@ und folgte Björkas Beispiel. »Wir werden sie noch brauchen —
 nachher, wenn wir das Grab der Lebendigen öffnen.«
 
 Wir saßen dann im Halbkreis vor dem Felsenloch, dessen
-Oeffnung, eirund und zackig, eine größte Breite von vier Meter
+Öffnung, eirund und zackig, eine größte Breite von vier Meter
 hatte. Und Harst begann:
 
 »Ich will die Gelegenheit benutzen und den Herren so einiges
@@ -1311,7 +1311,7 @@ eigene Freiheit aufs Spiel setzen wollte! — Das ist das Geheimnis
 der Horna-Fee: ein Mittel war sie, kräftige Gesellen
 auf die Terrasse der Steilküste zu locken. Nichts weiter!
 Und dort oben dann haben Preegrave und der Spanier die
-Aermsten wahrscheinlich durch Stahlschlingen zu Boden gerissen
+Ärmsten wahrscheinlich durch Stahlschlingen zu Boden gerissen
 und in einen geheimen Eingang zu einem Tunnel gezerrt,
 der mit dieser Höhle in Verbindung stehen dürfte. Bis
 dorthin bin ich an diesem Nachmittag nicht vorgedrungen.

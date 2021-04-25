@@ -50,7 +50,7 @@ Rosa Linden und der Ellora-Smaragd ihm jetzt ziemlich
 gleichgültig geworden seien, erwachte er scheinbar aus tiefem
 Sinnen und sagte dann zerstreut:
 
-»Sie haben uns wahrscheinlich belogen. Uebrigens scheint
+»Sie haben uns wahrscheinlich belogen. Übrigens scheint
 mir auch noch ein neues Moment hinzugetreten zu sein.«
 
 »Und das wäre?«
@@ -181,7 +181,7 @@ mir mit einem kaum merklichen Lächeln wie befriedigt zugenickt.
 
 Eine Viertelstunde darauf lag ich in dem Tragkorbe
 eines Lastkamels, besser, ich saß darin mit angezogenen
-Knien und geducktem Kopf. Ueber mich waren Lumpen
+Knien und geducktem Kopf. Über mich waren Lumpen
 und dergleichen gedeckt worden, und die tiefe Stimme des
 Scheichs, die ich schon kannte, hatte mir in fürchterlichem
 Englisch erklärt, man würde mir durch das Geflecht des
@@ -573,10 +573,10 @@ Hinter dem Schlosse bemerkte man allerhand Bäume, —
 wohl der Park, den der Lord erwähnt hatte.
 
 Blendende Helle überstrahlte diese einsame Burg! Aber
-trotz der Ueberfülle von Licht machte sie einen seltsam bedrückenden
+trotz der Überfülle von Licht machte sie einen seltsam bedrückenden
 Eindruck. Die gigantische Bergwelt ringsum, diese
 furchtbare Einöde des berüchtigten Sinai-Gebirges, in dem
-einst auch das aus Aegypten vertriebene Volk Israel umhergeirrt
+einst auch das aus Ägypten vertriebene Volk Israel umhergeirrt
 war, wischte sozusagen das freundliche der blinkenden
 Fenster des Schlosses und das Erquickende des Anblicks
 der grünen Baumwipfel sofort wieder aus. In dieser
@@ -666,7 +666,7 @@ ungewisser, lähmender Furcht, der selbst durch die logische
 Arbeit des Gehirns nicht zu beseitigen ist. Umsonst machte
 ich mir klar, daß uns doch im Augenblick nichts zustoßen
 könnte: Umsonst versuchte ich, mich zu bewegen und durch
-die kleinste Aenderung meiner Körperhaltung diesen auf
+die kleinste Änderung meiner Körperhaltung diesen auf
 mir lastenden Bann abzuschütteln. Ich war unfähig dazu.
 Ich fühlte, wie mein Herz schneller und schneller klopfte,
 wie mir die ersten kalten Schweißtropfen auf die Stirn
@@ -698,7 +698,7 @@ leiser geworden. »Wenn der Lord uns beseitigen will, weshalb
 schleppt er uns denn erst hier ins Schloß?! Wäre
 es nicht einfacher und sicherer gewesen, uns den Beduinen
 in die Hände zu spielen, die uns zum Beispiel bei einem
-plötzlichen Ueberfall hätten niederknallen und unsere Leichen
+plötzlichen Überfall hätten niederknallen und unsere Leichen
 dann in eine Schlucht werfen können —! — Nein, mein
 Alter, — wir befinden uns, was meine Theorie angeht,
 auf dem Holzwege, — nicht vollständig zwar, aber doch,
@@ -830,7 +830,7 @@ Harst?!« stieß sie hervor. »Ach — dann segne ich die
 Beduinen, die Sie zwangen, in Schloß Medsur Zuflucht zu
 suchen. Dann —«
 
-Hinter uns klappte eine der Saaltüren. Ueber der
+Hinter uns klappte eine der Saaltüren. Über der
 schönen Lady Gesicht flog ein Schatten hin. Schritte näherten
 sich, und Lord Allan rief gutgelaunt:
 
@@ -992,7 +992,7 @@ Mannes, Lord Wolpoore, so oft vor den Nachstellungen der
 Mördersekte der Thugs geschützt und der diese unheimlichen
 Bestien in Menschengestalt schließlich sämtlich unschädlich gemacht
 hat, — nur wenn Sie diese Angelegenheit untersucht
-und die Ueberzeugung gewonnen haben, daß hier wirklich
+und die Überzeugung gewonnen haben, daß hier wirklich
 ein Unfall vorliegt, dann — dann will auch ich meinen
 Verdacht fallen lassen! Ich wollte längst an Sie schreiben,
 längst. Aber — ich wagte es nicht.«
@@ -1104,7 +1104,7 @@ wieder erregt, rang die Hände im Schoß und rief leise:
 nicht die Hoffnung beseelt hätte, Percys Tod doch noch
 restlos aufklären zu können.«
 
-»Mylady, nach einer Aeußerung Lord Allans scheint
+»Mylady, nach einer Äußerung Lord Allans scheint
 die Dogge sich häufiger im Atelier aufgehalten zu haben,
 — wohl stets gegen Ihren Willen?«
 
@@ -1360,7 +1360,7 @@ konnte. All diese Mumien hatten lange graue Vollbärte
 und das Haupthaar bis auf einen dicken Haarschopf in der
 Mitte des Kopfes rasiert.
 
-Gerade das Ueberraschende dieses Anblicks war’s, das
+Gerade das Überraschende dieses Anblicks war’s, das
 diese stumme Versammlung von Toten weit schauerlicher erscheinen
 ließ, als sie es in Wirklichkeit war. Ich faßte
 mich denn auch schnell; ich schaute mich um. Rechts an
@@ -1437,7 +1437,7 @@ wie der wahre Zusammenhang der Dinge
 sein mußte. Allan hatte seine neuen Freunde in der Grotte
 besucht und ihnen aus irgendeinen Grunde das Geheimnis
 des unterirdischen Weges mitgeteilt. Dadurch hatte er erst
-Möckern zu dem heimtückischen Ueberfall veranlaßt. Er
+Möckern zu dem heimtückischen Überfall veranlaßt. Er
 war von diesem niedergeschlagen worden, und Möckern beabsichtigte
 jetzt tatsächlich, im Schlosse irgend etwas zu
 rauben, — etwas, wovon aber ebenfalls nur Lord Allan
@@ -1594,7 +1594,7 @@ bitten würde, den Fall Percy zu untersuchen. Sie waren
 ganz sicher, daß ich nichts entdecken würde. Und Lady Lydia
 <@pagebreak/>
 mußte dann daraus, daß Sie den gefürchteten Harald
-Harst hierher geführt hatten, die Ueberzeugung gewinnen,
+Harst hierher geführt hatten, die Überzeugung gewinnen,
 sie hätte Ihnen Unrecht getan. — Deshalb bestachen Sie
 die Beduinen; deshalb wurden wir überfallen; deshalb befreiten
 Sie uns; Sie wollten sich mir gegenüber eben von der

@@ -74,7 +74,7 @@ ab. »Weshalb diese Maske, Herr Baron?«
 »Weil — weil meine Gattin mir heute um sieben Uhr
 entführt worden ist.«
 
-Auch Harald konnte eine Bewegung der Ueberraschung
+Auch Harald konnte eine Bewegung der Überraschung
 nicht unterdrücken.
 
 Er schwieg eine Weile, stand dann auf und brachte Zigarren,
@@ -205,7 +205,7 @@ Wir reisten zusammen mit Ella, Hugo von Berstel und
 dessen Frau hierher. Berstel versuchte, die Quittung zu stehlen.
 Wir konnten jedoch nicht herausbringen, wer sie in
 Verwahrung hatte. Da tat Gwendolyn, die sehr energischer
-Natur ist, ein Uebriges und ließ sich von Kießlacks als
+Natur ist, ein Übriges und ließ sich von Kießlacks als
 Gesellschafterin engagieren. Und sie war’s, die feststellte,
 daß die Quittung noch vorhanden war und daß einer der
 fünf sie stets bei sich trüge.«
@@ -213,7 +213,7 @@ fünf sie stets bei sich trüge.«
 <@pagebreak/>
 »Das bestätigt nur meine Vermutungen, Baron.«
 
-»Wir hatten die Beute der Ueberfälle im Kießlackschen
+»Wir hatten die Beute der Überfälle im Kießlackschen
 Garten versteckt...«
 
 »Und dort stahl sie Orgla...«
@@ -735,7 +735,7 @@ kahlen Inselchen sein muß!
 
 »Auf dieser Felseninsel nisten sich im Sommer immerhin
 einige Badegäste ein,« erklärte Harald weiter. »Wer
-zurückgezogen leben will, kann es dort bis zum Ueberdruß.
+zurückgezogen leben will, kann es dort bis zum Überdruß.
 Orgla mag die Insel für seine Zwecke recht geeignet gefunden
 haben. Da er ja eine Motorjacht zur Verfügung hat,
 ist ihm auch die Möglichkeit gegeben, Gwendolyn in aller
@@ -1165,7 +1165,7 @@ zum Schein...!!
 So wurden Bechert und ich am hellen Tage nach der
 Blockhausvilla gebracht — als Kinoschauspieler — als Menschen,
 um die niemand sich mehr kümmerte, nachdem die angebliche
-Aufnahme des Ueberfalls auf die Jacht vorüber war.
+Aufnahme des Überfalls auf die Jacht vorüber war.
 
 <h2>5. Kapitel.</h2>
 <h3>Hände hoch!</h3>

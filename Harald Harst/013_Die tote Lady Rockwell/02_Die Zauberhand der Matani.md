@@ -27,7 +27,7 @@ Harst schien zu schlafen. In seinem linken Mundwinkel
 hing die längst erloschene Zigarette genau so träge herab,
 wie alles ringsum in dieser erschlaffenden Sonnenglut den
 <@pagebreak/>
-Eindruck des Faulen, Uebermüdeten machte, — alles, selbst
+Eindruck des Faulen, Übermüdeten machte, — alles, selbst
 der Rauch aus dem Dampferschlot, der so dick und so dicht
 hinter uns auf dem Meere lagerte.
 
@@ -99,7 +99,7 @@ trennen müssen. Von diesem Moment an bist Du nicht mehr
 mein Privatsekretär. Ich werde Dir die Kosten der Rückreise
 nach Berlin vergüten, Dir für den Rest des Jahres Dein
 Gehalt auszahlen und dann — werde ich allein den Kampf
-weiterführen. — Jede Bitte Deinerseits um Aenderung dieses
+weiterführen. — Jede Bitte Deinerseits um Änderung dieses
 Entschlusses wäre zwecklos. Es bleibt dabei. Wir wollen
 als gute Freunde auseinandergehen. Vielleicht — vielleicht
 feiern wir mal in Berlin ein vergnügtes Wiedersehen; vielleicht
@@ -305,7 +305,7 @@ braune Mädchen gehört fraglos den intelligenteren Ständen
 an. Die linke Hand ist sehr gepflegt. Da — überzeuge Dich
 selbst. Die Nägel sind knallrot gefärbt und sehr lang, stark
 gewölbt. Eigentlich eine sehr schöne Hand, Schraut, nicht
-wahr; tadellos geformt, tadellos proportioniert — Oeffne
+wahr; tadellos geformt, tadellos proportioniert — Öffne
 doch mal meinen Koffer und nimm die Reiseapotheke heraus.
 Zunächst wollen wir den Armstumpf gründlich säubern. Am
 besten wir lassen den rechten Arm über Bord ins Wasser hängen
@@ -347,7 +347,7 @@ hinter einem Splitter des Bootsrandes hervorgezogen hatte,
 und — ein paar blonde Haare, die, etwa zwei Zentimeter
 lang an einem Ende zusammenbackten.
 
-»Ueberaus wertvolle Kleinigkeiten,« meinte er. »Der
+»Überaus wertvolle Kleinigkeiten,« meinte er. »Der
 Zigarettenstummel riecht noch ganz frisch. Man sieht auch
 noch einen Teil der Firma in Golddruck, und man kann das
 Fehlende leicht ergänzen. Hier hat jemand vor kurzem eine
@@ -558,7 +558,7 @@ erwiderte Harst nur:
 
 »Weil dieses Verbrechen geheim bleiben muß — wenigstens
 vorläufig. Ich glaube jetzt nämlich herausgefunden zu haben,
-wozu man die Aermste ihrer Hand beraubt und ihr gleichzeitig
+wozu man die Ärmste ihrer Hand beraubt und ihr gleichzeitig
 oder vielmehr vorher eine solche Dosis eines Betäubungsmittels
 eingegeben hat, daß sie in den Tod hinüberschlummern
 mußte.«
@@ -705,7 +705,7 @@ Rechter seinen Revolver blinken.
 »Gehorche, — frage nicht! Ich hab’ meine guten Gründe.«
 
 <@pagebreak/>
-Er schwang die Oelkanne in der Linken.
+Er schwang die Ölkanne in der Linken.
 
 »Und wenn die vier Schufte ersaufen — schadet nichts!«
 fügte er hinzu.
@@ -808,7 +808,7 @@ und hat mir die Geschichte von der verstümmelten Leiche gemeldet.
 Er sprang zu uns jetzt herüber, reichte Harst die Hand;
 dann auch mir. Er war einer jener tadellos erzogenen Briten,
 die so sehr geeignet sind, die englische Weltherrschaft im Auslande
-zu festigen. Nichts Dünkelhaftes, nichts Ueberhebendes
+zu festigen. Nichts Dünkelhaftes, nichts Überhebendes
 an diesem klugen, in allen Sätteln gleich festen Manne,
 der — und das erfuhren wir erst später — auf seinen Lordtitel
 verzichtet hatte, um als einfacher Master Howard Plumper
@@ -1354,7 +1354,7 @@ Die Leiche bleibt völlig frisch.
 
 Ich setze Sie, Master Harst, zu meinem Erben ein. Meine
 Hinterlassenschaft besteht erstens in meiner Leiche. Diese soll
-erst nach drei Monaten den Aerzten zur Untersuchung meines
+erst nach drei Monaten den Ärzten zur Untersuchung meines
 Hirns übergeben werden. Ich selbst halte mich für geistig
 nicht normal. Mein Hirn wird dies vielleicht durch krankhafte
 Veränderungen bestätigen. Zweitens in einem Geheimnis.
@@ -1379,9 +1379,9 @@ angebracht die Leiche Warbattys erst mal sorgfältig untersuchen
 zu lassen. Vielleicht —«
 
 »— ist er gar nicht tot,« vollendete der Inspektor. »Keine
-Sorge! Ich werde die besten Aerzte der Stadt hinzuziehen.« —
+Sorge! Ich werde die besten Ärzte der Stadt hinzuziehen.« —
 
-Es geschah. Drei Aerzte bestätigten am anderen Vormittag,
+Es geschah. Drei Ärzte bestätigten am anderen Vormittag,
 daß das Leben entflohen und die Leichenstarre bereits eingetreten
 sei.
 

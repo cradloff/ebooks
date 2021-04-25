@@ -193,7 +193,7 @@ Zusammentreffen mit Cecil Warbatty, der ja das Oberhaupt
 einer glänzend organisierten Verbrecherbande sein sollte, einem
 von dessen Spießgesellen unter anderem auch eine Skizze
 eines Teiles des Stadtplanes von Palermo abgenommen und
-auf Grund scharfsinniger Kombinationen sich die Ueberzeugung
+auf Grund scharfsinniger Kombinationen sich die Überzeugung
 verschafft, daß Warbatty gerade in Palermo einen neuen
 großen »Schlag« plane. Und auf dieser Skizze, auf die ich
 später noch näher zu sprechen komme, hatte der Palazzo Batticino
@@ -256,7 +256,7 @@ kommt ein Kollege von uns die Allee entlang mit Malkasten
 und Staffelei. — Sehr unangenehm. Wenn der Mensch gar
 hier in dieser Ruine ebenfalls wohnt, wird es uns höllisch
 schwer fallen, unsere Rollen als Maler leidlich echt durchzuführen,
-oder aber wir müssen gerade die Uebermodernen spielen
+oder aber wir müssen gerade die Übermodernen spielen
 und zum Schein unsere Leinwand mit etwas becklecksen,
 das ebensogut eine Kuh, eine Landschaft oder ein Stilleben
 sein kann. — Entfernen wir uns vom Fenster. Der dicke
@@ -499,7 +499,7 @@ nachts auf See gewesen ist.«
 »Ja — seine Kleider riechen dann stets nach Teer, — eben
 so, als habe er sich auf einem Segelschiff stundenlang aufgehalten.
 Und verschiedentlich spürte ich in seinem Haar auch
-den scharfen Geruch eines Oelhutes wie ihn die Fischer bei
+den scharfen Geruch eines Ölhutes wie ihn die Fischer bei
 <@pagebreak/>
 stürmischem Wetter tragen. Immer, wenn ich den Argwohn
 hege, er sei nicht in der Bodega d’Italia bis gegen Morgen gewesen
@@ -684,7 +684,7 @@ Doktor, begrüßte mich mit warmer Teilnahme, untersuchte
 den bewußtlos daliegenden Harst, behorchte das Herz, maß die
 Temperatur, schüttelte den Kopf, seufzte, sagte dann in Gegenwart
 des Grafen und Olivellas: »Ein geradezu rapider Verlauf!
-Der Aermste wird die Mittagsstunde nicht überleben.«
+Der Ärmste wird die Mittagsstunde nicht überleben.«
 
 Ich sank in den Sessel schluchzte. Auch Olivella weinte.
 — Doktor Schneider flößte Harst noch ein Pulver ein. Dann
@@ -971,7 +971,7 @@ der Via Vittorio Emanuele die schönste Straße Palermos ist,
 fuhr mit der Straßenbahn den südöstlichen Stadtvierteln zu
 und gelangte so bis an die nördliche Parkmauer des Palazzo
 Batticino, folgte ihr bis zur Küste und bog nun links in einen
-Oliven- und Palmenhain ein, in dessen Mitte die Ueberreste
+Oliven- und Palmenhain ein, in dessen Mitte die Überreste
 eines uralten Tempels noch aus der Griechenzeit sich unkrautüberwuchert
 erhoben. Dann gewahrte er keine fünfzig
 Meter weiter am Rande dieses Wäldchens die Gestalten mehrerer

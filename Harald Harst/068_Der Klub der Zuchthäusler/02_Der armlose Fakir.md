@@ -146,7 +146,7 @@ Vater bereits eingeredet hatte, ich litte an — Verfolgungswahnsinn.
 Ich war ein starker Bursche, sprang Thomas Bollingray
 an die Kehle, und — dadurch war mein Schicksal besiegelt.
 
-Am folgenden Tage holten mich zwei Aerzte ab und
+Am folgenden Tage holten mich zwei Ärzte ab und
 nahmen mich mit nach Benares in ein Privatsanatorium.
 
 Ich war jetzt ein Gefangener. Ich war — gemeingefährlich. —
@@ -174,7 +174,7 @@ aber paßte ich in das Futter einer Jacke ein — für eine besonders
 günstige Gelegenheit.
 
 Ich studierte fleißig fremde Sprachen, bildete mich allein
-weiter, turnte, trieb Sport, las viel und suchte die Aerzte
+weiter, turnte, trieb Sport, las viel und suchte die Ärzte
 der Anstalt zu überzeugen, daß ich völlig gesund sei.
 
 Sie waren freundlich zu mir. Aber sie hielten mich
@@ -184,7 +184,7 @@ Kurz nach meinem 21. Geburtstag war’s als der Yogi
 abermals sich im Garten zeigte. Ich ging hinab. Mein
 Wärter blieb wieder wie immer dicht hinter mir.
 
-Shara Dragi wußte sein Aeußeres gut zu verändern,
+Shara Dragi wußte sein Äußeres gut zu verändern,
 damit seine häufigen Besuche nicht auffielen.
 
 Der Yogi hockte neben einer Bank. Ich setzte mich und
@@ -407,7 +407,7 @@ restlos aufklären, so werde ich mich den Gerichten stellen,
 und Vincent Saalborg wird seine Millionenbeute herausgeben,
 die er bei verschiedenen Banken deponiert hat.«
 
-»Gut, begleiten Sie uns, Mylord. Ueber die Rolle, die
+»Gut, begleiten Sie uns, Mylord. Über die Rolle, die
 Sie spielen sollen, sprechen wir nachher. — Noch eins,
 Stannington,« wandte er sich an den englischen Detektiv.
 »Sie dürfen niemand mehr gewaltsam aus dem Zuchthaus
@@ -437,7 +437,7 @@ Am 20. Januar stiegen im Prinz Edward-Hotel in
 Benares die beiden Herren Müller, zwei Brüder aus Berlin,
 mit ihrem Diener Karl Schneider ab.
 
-Wir hatten unser Aeußeres nur etwas verändert. Es
+Wir hatten unser Äußeres nur etwas verändert. Es
 gab in Benares nur sehr wenig Leute, die uns von früher
 her persönlich kannten. — Wir nahmen drei Zimmer im
 Hochparterre des Seitenflügels nach dem Hotelpark zu. Eins
@@ -458,7 +458,7 @@ waren uns vom Hotel aus gefolgt!
 Harst erklärte nach einer Weile: »Es gibt eine Möglichkeit,
 die Anwesenheit dieser beiden Spione zu deuten.
 Ich möchte diese Möglichkeit jedoch nicht gern aussprechen.
-Sie enthält eine schwere Verdächtigung. — Uebrigens sind
+Sie enthält eine schwere Verdächtigung. — Übrigens sind
 die beiden Frauen jetzt verschwunden. Wir wollen rasch
 ein vorüberkommendes Auto besteigen und auf Umwegen
 die Roudlandstraße besuchen.«
@@ -469,7 +469,7 @@ das Auto warten. Wiclaytour mußte im Wagen bleiben.
 Wir beide gingen die Straße weiter hinunter und läuteten
 dann an der Mauerpforte von Nr. 12.
 
-Ueber dem Knopf der elektrischen Glocke war ein Messingschild
+Über dem Knopf der elektrischen Glocke war ein Messingschild
 angebracht:
 
 > I. Blackfellow.
@@ -512,7 +512,7 @@ ihres Zeichens Malerin. Ich wußte, daß »I. Blackfellow«
 eine Dame war —« Er hatte auf das Messingschild gedeutet.
 »Wenn Du Deine Augen besser gebrauchen würdest,
 mein Alter, hättest Du es auch gewußt. In der Vorhalle
-des Hotels hingen eine Menge kleiner Oelskizzen an einer
+des Hotels hingen eine Menge kleiner Ölskizzen an einer
 Wand, darüber »Verkäuflich«. Und die recht nett gemalten
 Tempelmotive waren sämtlich von Iza. Blackfellow, wie
 in den Ecken zu lesen war, — also Izabell Blackfellow.«
@@ -546,7 +546,7 @@ wahr. Rechts wohnt die Malerin.«
 Wir schritten die Verandatreppe empor. Zur Linken
 saß in einem eleganten fahrbaren Krankenstuhl ein weißbärtiger
 Inder in einem hellen Anzug von europäischem
-Schnitt. Ueber sein Knie war eine Decke gebreitet. Seine
+Schnitt. Über sein Knie war eine Decke gebreitet. Seine
 Hände ruhten im Schoße.
 
 »Entschuldigen Sie, Master Ghori Nawab, daß wir
@@ -978,7 +978,7 @@ beiden Andächtigen.
 <h3>Der Fakir.</h3>
 
 Der dumpfe Modergeruch der Halle legte sich mir beklemmend
-auf die Brust. Ich zupfte Harst am Aermel. Er
+auf die Brust. Ich zupfte Harst am Ärmel. Er
 regte sich nicht, sagte dann plötzlich ganz laut:
 
 »Shara Dragi!«
@@ -1005,7 +1005,7 @@ Den Stock mußte ein Mensch halten, der sich hinter
 uns befand.
 
 Und — ein Blick nach Harst hinüber zeigte mir genau
-dieselbe höllische Ueberraschung: eine zweite Kobra, auch
+dieselbe höllische Überraschung: eine zweite Kobra, auch
 in einen oben aufgespaltenen Stock eingeklemmt!
 
 »Wer seid Ihr?« fragte der Fakir nun. »Ich warne
@@ -1014,7 +1014,7 @@ spricht, lasse ich Euch beißen! Außerdem werdet
 Ihr von hinten niedergeschlagen!«
 
 Harald schwieg ein paar Sekunden. Dann — dann
-kam für mich die neue Ueberraschung:
+kam für mich die neue Überraschung:
 
 »Master Ghori Nawab,« sagte er völlig ruhig, »Sie
 verkennen die Sachlage!«
@@ -1340,7 +1340,7 @@ zurück.
 »Matana,« sagte Harst, »ich will Dir die Freiheit
 schenken, wenn Du mir verrätst, wo Deine Mem Sahib den
 Mann verborgen hält. Besinne Dich! Hat sie nicht irgend
-eine Aeußerung getan, aus der Du schließen kannst, was sie
+eine Äußerung getan, aus der Du schließen kannst, was sie
 mit dem Manne beabsichtigte? — Ich werde Dir dann
 hundert Rupien schenken, damit Du Benares sofort verlassen
 kannst.«
@@ -1406,7 +1406,7 @@ Vincent Saalborg den Behörden ausliefern.
 <@pagebreak/>
 »Halt!« rief Harst da. »Was Sie über Ihren Menschenhaß
 Worbler angeben wollten, Mylord, geht nur mich
-etwas an! Ueber diesen Abschnitt Ihres Lebens rechne ich
+etwas an! Über diesen Abschnitt Ihres Lebens rechne ich
 mit Ihnen ab! — Worbler wird Sie jetzt zum Schein wieder
 in eine Zelle führen lassen. Die Brüder Bollingray
 sind tot. Auch das Weib, das mithalf, Ihre Jugend zu
@@ -1435,7 +1435,7 @@ Schutze einiger Büsche dicht an der Verandatreppe.
 Kein Fenster des Bungalow war erleuchtet. Alles war
 still und ruhig, als ob die Bewohner schliefen. Links von
 uns in einer Baumkrone schnatterten halb im Schlaf ein
-paar Affen. Ueber die Stufen der breiten Verandatreppe
+paar Affen. Über die Stufen der breiten Verandatreppe
 huschten ab und zu ein paar große indische Ratten. — Jeder
 hätte angenommen, daß dort in dem dunkeln Hause unmöglich
 verbrecherische Pläne der Ausführung harrten.
