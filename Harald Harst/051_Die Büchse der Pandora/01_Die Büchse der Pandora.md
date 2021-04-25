@@ -119,7 +119,7 @@ Und fügte sofort für ihren Begleiter hinzu:
 
 Dann drängten sie sich durch die Menschenmauer und verschwanden. –
 
-Der dürre Chinese, für den sich nun das Geschäft zerschlagen hatte. zeterte
+Der dürre Chinese, für den sich nun das Geschäft zerschlagen hatte, zeterte
 hinter ihnen drein.
 
 Erst jetzt erschien ein indischer Polizist und erkundigte sich nach der Ursache

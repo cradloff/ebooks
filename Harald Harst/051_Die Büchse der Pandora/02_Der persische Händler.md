@@ -259,7 +259,7 @@ und Stelle.
 Zwei indische Polizisten bewachten den Kadaver. Eine Schar Kinder stand im
 Kreise herum.
 
-Harald befahl den Beamten, die Kinder zu verjagen So waren wir denn ein paar
+Harald befahl den Beamten, die Kinder zu verjagen. So waren wir denn ein paar
 Minuten bei dem toten Tiere allein.
 
 Der Kopfschuß saß dicht hinter dem Ohr. Eine zweite Kugel hatte den rechten
@@ -289,7 +289,7 @@ Uhrkettenanhänger in Gestalt einer aus rosa Koralle geschnittenen Möwe.
 Harald betrachtete das künstlerisch hergestellte kleine Schmuckstück sehr
 eingehend, schüttelte den Kopf und meinte:
 
-»Jetzt wird die Sache kompliziert – Fahren wir zur Stadt zurück.« –
+»Jetzt wird die Sache kompliziert. – Fahren wir zur Stadt zurück.« –
 
 Als wir Haberlands Arbeitszimmer betraten, rief uns der Riese von
 Polizeidirektor sofort entgegen: »Na – Erfolg gehabt, meine Herren?«
@@ -631,7 +631,7 @@ neben mir knien, während Tscho aufrecht an jenem Ausgang unseres Versteckes
 stand, der nach der Mitte der muldenartigen Vertiefung zeigte.
 
 »Wir sitzen hier jetzt in einer feinen Falle,« flüsterte Harald weiter. »Wenn
-nicht gerade ein Wunder geschieht, sind wir verloren. Steh leise auf und schau
+nicht gerade ein Wunder geschieht, sind wir verloren. Steh’ leise auf und schau
 durch die Distelstauden hindurch. Du wirst Augen machen!«
 
 Ein Blick, – und ich fuhr unwillkürlich zurück.
