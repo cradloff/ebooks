@@ -46,7 +46,7 @@ Hiergegen hatte die Geheimrätin betont, daß sie den Schlüssel nie aus der Han
 
 2\. In dem Schlafzimmer der Geheimrätin fand sich auf dem Fensterblech in der Staubschicht der undeutliche Abdruck eines sehr großen Stiefels ohne Absatz. Gerade dieses Fenster hatte am 9. vormittags offen gestanden. – Weitere Spuren eines fremden Eindringlings waren nicht zu entdecken gewesen.
 
-3\. Dem Geheimrat und seiner Gattin war bereits in Nizza ein elegant gekleideter Inder ausgefallen, der für das Ehepaar großes Interesse zu haben schien. Derselbe Inder war nach der Rückkehr von der Reise von der Geheimrätin zweimal in der Nähe der Villa abermals beobachtet worden und einmal auch von dem Geheimrat. Doktor Pleske hatte auf Grund dieser Angaben seine ursprüngliche Meinung geändert und hielt nun den Inder für den Dieb.
+3\. Dem Geheimrat und seiner Gattin war bereits in Nizza ein elegant gekleideter Inder aufgefallen, der für das Ehepaar großes Interesse zu haben schien. Derselbe Inder war nach der Rückkehr von der Reise von der Geheimrätin zweimal in der Nähe der Villa abermals beobachtet worden und einmal auch von dem Geheimrat. Doktor Pleske hatte auf Grund dieser Angaben seine ursprüngliche Meinung geändert und hielt nun den Inder für den Dieb.
 
 4\. Der Holländer van Droysen hatte Doktor Pleske auf telegraphische Anfrage hin geantwortet, er hätte das Perlenhalsband so, wie er es dann an Loschmer weiterveräußerte, von einem chinesischen Juwelenhändler in Bombay gekauft. Der Chinese hätte ihm damals erklärt, die Kette rechtmäßig von einem anderen indischen Händler aus Kalkutta erworben zu haben. – Doktor Pleske folgerte: die Kette sei von dem Chinesen oder dem indischen Händler gestohlen worden, und der Eigentümer sei vielleicht jener Inder, der schon in Nizza das Ehepaar Loschmer beobachtet hatte. – Jedenfalls spiele auch van Droysen hierbei insofern eine zweifelhafte Rolle, als er dem Geheimrat zuerst erzählt hatte, er habe die Perlen einzeln in Kolombo auf Ceylon aufgekauft und dann das Schloß der Kette in Bombay erstanden. – Van Droysen wieder hatte sich mittlerweile durch einen Brief an Loschmer gerechtfertigt, in dem er betonte, er hätte die erste Angabe über den Erwerb der Perlen nur deshalb gemacht, um einen höheren Preis fordern zu können. –
 
@@ -86,7 +86,7 @@ Frau Honoria machte eine abwehrende Handbewegung.
 
 »Du wirst Dich geirrt haben, Ernst,« meinte sie zweifelnd. »Der Mann ist seit fünf Wochen verschwunden. Er wird sich hüten, sich hier nochmals zu zeigen.«
 
-»Er war’s, Honoria, – er war’s!« erklärte der Geheimrat eifrig. »Es war derselbe Mann mit dem dunkeln Gesicht und dem schwarzen Bart. Er trug auch denselben hellen Sportanzug und die graue Mütze wieder.«
+»Er war’s, Honoria, – er war’s!« erklärte der Geheimrat eifrig. »Es war derselbe Mann mit dem dunklen Gesicht und dem schwarzen Bart. Er trug auch denselben hellen Sportanzug und die graue Mütze wieder.«
 
 Die Geheimrätin hob etwas die Schultern, als ob sie andeuten wollte: »Mag sein! Ich kann nicht recht daran glauben!«
 
@@ -104,7 +104,7 @@ Harald strich die Zigarettenasche an der Onyxschale ab und erwiderte:
 
 Dann fragte er den Geheimrat: »Wo wohnt der Oberingenieur Noldeke?«
 
-»Nicht weit von hier. Jenseits der Halenseer Brücke in der Ringbahnstraße Nr. l9, Hochparterre<@refnote 4/> links, – eine Vierzimmerwohnung.«
+»Nicht weit von hier. Jenseits der Halenseer Brücke in der Ringbahnstraße Nr. 19, Hochparterre<@refnote 4/> links, – eine Vierzimmerwohnung.«
 
 »Er ist Junggeselle, Herr Geheimrat.«
 
@@ -198,17 +198,13 @@ Harald entfernte das braune Packpapier, das vielfach um den Gegenstand gehüllt 
 
 Und – wir hatten nun ein regelrechtes flaches, längliches Wertpaket vor uns, dessen starke Papphülle sorgfältig verschnürt und versiegelt war. Auf der einen Seite war ein Paketschildchen aufgeklebt. Und hier steckte unter den Schnüren auch eine ausgefüllte Paketadresse, – genau so, wie die Aufschrift auf dem Paket lautete, beides mit Maschine geschrieben:
 
-Wert 50 000 Mark – fünfzigtausend Mark.
-
-An
-
-Frau Geheimrat Honoria von Loschmer
-
-Berlin Grunewald
-Bismarckallee 102.
-
-Abs.: S. Ingpura
-Berlin W, Weststr. 13, 1.
+<div class="pre">    Wert 50 000 Mark – fünfzigtausend Mark.
+  An
+     Frau Geheimrat Honoria von Loschmer
+                        Berlin Grunewald
+                       Bismarckallee 102.
+  Abs.: S. Ingpura
+  Berlin W. Weststr. 13, 1.</div>
 
 Harald und ich schauten uns verblüfft an.
 
@@ -236,11 +232,11 @@ Er hatte die gelbe Paketadresse in die Hand genommen und sie umgedreht.
 
 »Hier steht auf dem Adressenabschnitt auf der Rückseite:
 
-Sie erhalten anbei das zurück, was nicht mit dem Gesuchten übereinstimmt. – S. Ingpura.
+> Sie erhalten anbei das zurück, was nicht mit dem Gesuchten übereinstimmt. – S. Ingpura.
 
 Sehr vieldeutig, diese Mitteilung, lieber Schraut! – S. Ingpura kann man auch Sing Pura lesen. Und das ist dann ein indischer Name. – Fein ausgeklügelt, falls meine ein Viertel-Theorie stimmt!« –
 
-Das Telephon ans dem Schreibtisch schlug an.
+Das Telephon auf dem Schreibtisch schlug an.
 
 Ich eilte hin und nahm den Hörer von der Gabel.
 
@@ -280,7 +276,7 @@ Als ich in sein Arbeitszimmer zurückkehrte, telephonierte er mit jemandem. Ich 
 
 Wir verließen das Haus. Vor der Gittertür des Gartens hielt ein elegantes, geschlossenes Auto. Ein mittelgroßer schlanker Herr mit blondem Spitzbart kam uns entgegen. Er trug einen Kneifer und hatte auf der linken Wange zwei rote Schmißnarben.
 
-»Freue mich sehr, die Herren kennen zu lernen,« begrüßte er uns nervös. »Die Sache ist für mich sehr unangenehm. Die Zeitungen werden. – Aber bitte – steigen Sie ein. Darüber sprechen wir besser nachher.«
+»Freue mich sehr, die Herren kennen zu lernen,« begrüßte er uns nervös. »Die Sache ist für mich sehr unangenehm. Die Zeitungen werden – Aber bitte – steigen Sie ein. Darüber sprechen wir besser nachher.«
 
 Das Auto glitt sofort davon.
 
@@ -308,7 +304,7 @@ Der Chauffeur hielt uns einen Revolver entgegen.
 
 »Keinen Laut – keine Bewegung!« drohte er heiser. »Wir lassen nicht mit uns spaßen!«
 
-Der Mann trug eine Autobrille und einen dunkeln Mantel. Sein langer schwarzer Bart und die braune Gesichtsfarbe im Verein mit der eigentümlichen Aussprache des Deutschen, deuteten auf einen Inder hin.
+Der Mann trug eine Autobrille und einen dunklen Mantel. Sein langer schwarzer Bart und die braune Gesichtsfarbe im Verein mit der eigentümlichen Aussprache des Deutschen, deuteten auf einen Inder hin.
 
 Auch der angebliche Regierungsrat hatte jetzt einen Revolver in der Hand.
 
@@ -452,7 +448,7 @@ Dann senkte er wieder den Kopf und starrte vor sich hin.
 
 »Lieber Doktor,« meinte Harald gelassen, »ich wiederhole meine Bitte: nehmen Sie Herrn Noldeke die Stahlfesseln ab!«
 
-»Wie Sie wollen!« – Und der Kommissar erhob sich, öffnete das Schnappschloß der Stahlbänder und stecke diese in die Tasche.
+»Wie Sie wollen!« – Und der Kommissar erhob sich, öffnete das Schnappschloß der Stahlbänder und steckte diese in die Tasche.
 
 »So, nun will ich Ihnen berichten, was wir, Schraut und ich, hier in Berlin bereits erlebt haben,« fuhr Harst dann fort.
 
@@ -468,7 +464,7 @@ Und jetzt nickte Noldeke.
 
 Da legte Harald ihm die Hand auf die Schulter und erklärte eindringlichen Tones:
 
-»Herr Noldeke, dieses Nicken sollte ein Ja bedeuten. Sie hätten lieber den Kopf schütteln sollen. Das wäre nämlich die Wahrheit gewesen. Sie waren der Radfahrer nicht!«
+»Herr Noldeke, dieses Nicken sollte ein Ja bedeuten. Sie hätten lieber den Kopf schütteln sollen. Das wäre nämlich die Wahrheit gewesen. Sie waren der Radfahrer *nicht*!«
 
 »Aber – er ist Radler!« warf Doktor Pleske ein. »Er besitzt sogar zwei Räder. Ich habe bei ihm vor etwa drei Wochen eine Haussuchung vorgenommen und –«
 
@@ -746,7 +742,7 @@ Harst winkte ihm zu. »Herr Geheimrat, wir wollen in Ihr Arbeitszimmer gehen. Wi
 
 Loschmer setzte sich hier schwerfällig in einen Sessel. Ich bewachte den Inder. Harald schloß den Kasten auf. Oben auf der Perlenkette lag ein Brief. Der Umschlag trug keine Anschrift und war nicht zugeklebt. – Harst zog den Briefbogen heraus. Der Brief war mit Maschine geschrieben und lautete:
 
-»Verehrte Freundin! Als Ihr Gatte telegraphisch Harald Harst um Hilfe bat, ahnte ich das Ende voraus. Ich hatte daher auch alles vorbereitet, um jeder Zeit und für immer ins Ausland gehen zu können. Die Ereignisse der verflossenen Nacht zwingen mich nun dazu. Ich habe für die Bewahrung Ihres Geheimnisses bis zum letzten Anblick gekämpft. Ich hoffe ja noch immer, daß Harst, nachdem die Perlen nun wieder aufgetaucht sind, niemals die ganze Wahrheit ermitteln wird. – Mag Ihnen, Frau Honoria, diese traurige Diebstahlsgeschichte für den Rest Ihres Lebens eine Warnung sein. Sie hätten unbedingt den Mut sofort finden müssen, Ihrem Mann alles einzugestehen. Wir werden uns nie wiedersehen, und deshalb will ich Ihnen nicht verhehlen, daß ich von Ihrem Charakter mehr erwartet hatte. Als Sie mich um meinen Beistand anflehten, versprach ich, Ihnen zu helfen, obwohl das, was ich für Sie empfand, in demselben Moment tot war, wo Sie mir Ihren Leichtsinn beichteten. Ich habe mein Versprechen eingelöst und bin deshalb ein Heimatloser geworden.«
+»Verehrte Freundin! Als Ihr Gatte telegraphisch Harald Harst um Hilfe bat, ahnte ich das Ende voraus. Ich hatte daher auch alles vorbereitet, um jeder Zeit und für immer ins Ausland gehen zu können. Die Ereignisse der verflossenen Nacht zwingen mich nun dazu. Ich habe für die Bewahrung Ihres Geheimnisses bis zum letzten Augenblick gekämpft. Ich hoffe ja noch immer, daß Harst, nachdem die Perlen nun wieder aufgetaucht sind, niemals die ganze Wahrheit ermitteln wird. – Mag Ihnen, Frau Honoria, diese traurige Diebstahlsgeschichte für den Rest Ihres Lebens eine Warnung sein. Sie hätten unbedingt den Mut sofort finden müssen, Ihrem Mann alles einzugestehen. Wir werden uns nie wiedersehen, und deshalb will ich Ihnen nicht verhehlen, daß ich von Ihrem Charakter mehr erwartet hatte. Als Sie mich um meinen Beistand anflehten, versprach ich, Ihnen zu helfen, obwohl das, was ich für Sie empfand, in demselben Moment tot war, wo Sie mir Ihren Leichtsinn beichteten. Ich habe mein Versprechen eingelöst und bin deshalb ein Heimatloser geworden.«
 
 Als der Geheimrat diesen Brief ohne Unterschrift gelesen hatte, griff er sich an die Stirn und stammelte: »Herr Harst – was soll dieses Schreiben?! Was –«
 
@@ -756,7 +752,7 @@ Der Geheimrat schüttelte völlig verwirrt den Kopf.
 
 »Das – das kann nicht sein!« murmelte er. »Freilich – dieser Brief! Und dann noch Honorias Spielleidenschaft!«
 
-»Ich wäre der Wahrheit wohl auch schwerer aus die Spur gekommen,« fuhr Harald fort, »wenn ich gestern abend nicht die Radlerin gesehen hätte. Ich erkannte an den kleinen Füßen und an der den Hinterkopf vollständig bedeckenden weichen Mütze sofort, daß ich eine verkleidete Frau vor mir hatte. Dann fügte sich ganz von selbst ein Stein an den anderen. Sie, Herr Geheimrat, sprachen von Ihrem Abstecher nach Paris und machten auch eine Bemerkung über Ihrer Gattin Hazardleidenschaft. Nachher nahm ich den Ebenholzkasten an mich, den Doktor Göppert, ebenfalls verkleidet, seinem Freunde Noldeke in den Vorgarten legte. Noldeke und Göppert suchten um jeden Preis den Tatbestand noch mehr zu verwirren. Mir wurden die wahren Zusammenhänge trotzdem schrittweise immer klarer. Nur eins ahnte ich nicht: daß es tatsächlich einen Inder gab, der es gleichfalls auf die Perlenkette abgesehen hatte! Ich nahm an, Ihre Gattin hätte schon in Nizza ebenfalls den Inder gespielt. Nun ist auch dieser Punkt auf so tragische Weise geklärt worden.«
+»Ich wäre der Wahrheit wohl auch schwerer auf die Spur gekommen,« fuhr Harald fort, »wenn ich gestern abend nicht die Radlerin gesehen hätte. Ich erkannte an den kleinen Füßen und an der den Hinterkopf vollständig bedeckenden weichen Mütze sofort, daß ich eine verkleidete Frau vor mir hatte. Dann fügte sich ganz von selbst ein Stein an den anderen. Sie, Herr Geheimrat, sprachen von Ihrem Abstecher nach Paris und machten auch eine Bemerkung über Ihrer Gattin Hazardleidenschaft. Nachher nahm ich den Ebenholzkasten an mich, den Doktor Göppert, ebenfalls verkleidet, seinem Freunde Noldeke in den Vorgarten legte. Noldeke und Göppert suchten um jeden Preis den Tatbestand noch mehr zu verwirren. Mir wurden die wahren Zusammenhänge trotzdem schrittweise immer klarer. Nur eins ahnte ich nicht: daß es tatsächlich einen Inder gab, der es gleichfalls auf die Perlenkette abgesehen hatte! Ich nahm an, Ihre Gattin hätte schon in Nizza ebenfalls den Inder gespielt. Nun ist auch dieser Punkt auf so tragische Weise geklärt worden.«
 
 Er wandte sich jetzt an den Inder und fragte auf englisch:
 
@@ -810,6 +806,8 @@ Harst schritt jetzt auf Göppert und Noldeke zu und sagte liebenswürdig:
 
 Nächster Band:
 
-Das Licht in der Lehmhütte.
+__Das Licht in der Lehmhütte.__
+
+<@spacer 2/>
 
 <div style="font-size: small; text-align: center; white-space: pre-wrap;">Druck P. Lehmann, G.&nbsp;m.&nbsp;b.&nbsp;H., Berlin.</div>

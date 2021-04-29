@@ -6,7 +6,7 @@
 
 Vor dem Atlantic-Hotel im Europäerviertel der berühmten, uralten indischen Stadt Lahore hielt ein bestaubtes, großes Reiseauto.
 
-Der Kraftwagen war von einer schlanken Frau in hellem Staubmantel gelenkt worden Sie war sofort ausgestiegen und hatte den beiden hinten im Wagen sitzenden Personen zugerufen:
+Der Kraftwagen war von einer schlanken Frau in hellem Staubmantel gelenkt worden. Sie war sofort ausgestiegen und hatte den beiden hinten im Wagen sitzenden Personen zugerufen:
 
 »Wartet! Ich frage nur den Hoteldirektor, ob Master Harst noch im Atlantic wohnt.«
 
@@ -88,7 +88,7 @@ Der Park war jetzt um die Mittagstunde infolge der drückenden Hitze leer. Haral
 
 »Master Harst, muß Sie auf jeden Fall recht bald sehen. Mein Sohn Edward, fünf Jahre alt, ist seit acht Tagen verschwunden. Detektive aus Bombay haben nichts ausgerichtet. Edward verschwand morgens neun Uhr aus dem Schloßpark, obwohl sein Erzieher Doktor Roobfaast ganz in der Nähe saß. Sachlage läßt Deutung zu, daß Entführung Racheakt gegen meinen Gatten, der als Geheimsekretär des Residenten hier in Kaschmir bei den höchsten Würdenträgern des Maharadscha verhaßt ist. – Mein Mann seit zehn Tagen auf Bärenjagd im Gebirge und unerreichbar. Wollte mit seinem Freunde Sir Steppney drei Wochen wegbleiben. Beide leidenschaftliche Jäger. – Bitte Drahtantwort. Komme auf Wunsch im Rennauto. – Lady Glarnstone, Srinagar.«
 
-So lautete das Telegramm, lieber Schraut. – Weil wir beide nun die Asiaten zur Genüge kennen, hielt ich es für richtig, die Sache von vornherein recht vorsichtig anzupacken. Ich bin überzeugt, daß man die Lady dauernd beobachtet hat. Und wir haben ja auch draußen vor dem Hotel gesehen, daß fünf Minuten nach Eintreffen des Kraftwagens der Lady, ein zweites Auto mit nur zwei Personen von Norden dahergerast kam, kurz vor dem Atlantic abschwenkte – weil dort das Auto der Lady hielt – und in dem Eingeborenenviertel mit seinen engen Gassen schleunigst untertauchte. Also ist die Lady verfolgt worden; also müssen wir, wenn sie nach etwa anderthalb Stunden hier erscheint, die Augen gut offen halten und auf Leute achten, die der Lady nachschleichen. Hier in dem jetzt so stillen Park wird das weiter keine Schwierigkeiten machen. – So – nun werde ich aussteigen und etwas auf und ab schlendern. Unsere beiden Koffer wird der farbige Dienstmann wohl sehr bald bringen. Ich habe den Mann ja hierher bestellt. Sollte ich etwas Verdächtiges wahrnehmen werde ich dem Dienstmann einen Wink geben, daß er uns nicht durch die Koffer verrät.«
+So lautete das Telegramm, lieber Schraut. – Weil wir beide nun die Asiaten zur Genüge kennen, hielt ich es für richtig, die Sache von vornherein recht vorsichtig anzupacken. Ich bin überzeugt, daß man die Lady dauernd beobachtet hat. Und wir haben ja auch draußen vor dem Hotel gesehen, daß fünf Minuten nach Eintreffen des Kraftwagens der Lady, ein zweites Auto mit nur zwei Personen von Norden dahergerast kam, kurz vor dem Atlantic abschwenkte – weil dort das Auto der Lady hielt – und in dem Eingeborenenviertel mit seinen engen Gassen schleunigst untertauchte. Also ist die Lady verfolgt worden; also müssen wir, wenn sie nach etwa anderthalb Stunden hier erscheint, die Augen gut offen halten und auf Leute achten, die der Lady nachschleichen. Hier in dem jetzt so stillen Park wird das weiter keine Schwierigkeiten machen. – So – nun werde ich aussteigen und etwas auf und ab schlendern. Unsere beiden Koffer wird der farbige Dienstmann wohl sehr bald bringen. Ich habe den Mann ja hierher bestellt. Sollte ich etwas Verdächtiges wahrnehmen, werde ich dem Dienstmann einen Wink geben, daß er uns nicht durch die Koffer verrät.«
 
 Der Dienstmann kam nach einer Stunde. Ich bezahlte ihn. Harst hatte sich auf eine Bank gesetzt, die hundert Meter weiter nach dem Hotel zu stand, das am Südrande des großen Parkes lag. –
 
@@ -98,7 +98,7 @@ Es war jetzt zwei Uhr nachmittags. – Harst wartete noch bis halb drei. Dann fu
 
 Der Direktor stand in der Vorhalle und trat sofort zu uns heran. Er hielt uns für Broosley und Jane. Wie sollte er auch die Wahrheit ahnen?!
 
-»Sind Sie Mylady nicht begegnet?« fragte er »Sie verließ vor anderthalb Stunden das Hotel in Begleitung von zwei verschleierten Inderinnen. Es mögen dieselben Weiber gewesen sein die schon einmal der Ziege wegen hier waren. Sie sehen sich ja mit Gesichtstuch alle gleich, diese mohammedanischen Inderinnen.«
+»Sind Sie Mylady nicht begegnet?« fragte er. »Sie verließ vor anderthalb Stunden das Hotel in Begleitung von zwei verschleierten Inderinnen. Es mögen dieselben Weiber gewesen sein die schon einmal der Ziege wegen hier waren. Sie sehen sich ja mit Gesichtstuch alle gleich, diese mohammedanischen Inderinnen.«
 
 Harst winkte den Direktor ganz dicht heran und flüsterte:
 
@@ -150,9 +150,9 @@ Kaum war er draußen, als Harald leise flüsterte: »Du – diese Entführung is
 
 Ich fand die Worte sehr bald. Sie lauteten:
 
-Sahib Harst! Wenn Du Dich in diese Angelegenheit einmischen solltest, wirst Du den Tod Lord Glarnstones sterben.
+> Sahib Harst! Wenn Du Dich in diese Angelegenheit einmischen solltest, wirst Du den Tod Lord Glarnstones sterben.
 
-Der Bund der Freiheit.
+> Der Bund der Freiheit.
 
 Diese Worte – besser diese Drohung war in englischer Sprache abgefaßt. – Sie war kurz und bündig und klar. Dieser Bund der Freiheit hatte den Lord also bereits beseitigt. Wahrscheinlich auch dessen Freund Sir Steppney.
 
@@ -166,7 +166,7 @@ Unsere Koffer wurden gebracht. Als wir wieder allein waren, schloß Harald sofor
 
 Nach einer halben Stunde musterten wir uns gegenseitig. Wir konnten zufrieden sein.
 
-»So,« flüsterte Harald, »nun kommt darauf an, daß wir getrennt und unbemerkt ins Freie gelangen. Ich werde für den Direktor einen Zettel zurücklassen, daß wir ausgegangen sind – Du kannst mal vorsichtig die Tür öffnen. Ist der Flur leer, so gehst Du die Seitentreppe hinab in den Hotelpark und wartest auf mich hinten bei den Tennisplätzen.«
+»So,« flüsterte Harald, »nun kommt es darauf an, daß wir getrennt und unbemerkt ins Freie gelangen. Ich werde für den Direktor einen Zettel zurücklassen, daß wir ausgegangen sind – Du kannst mal vorsichtig die Tür öffnen. Ist der Flur leer, so gehst Du die Seitentreppe hinab in den Hotelpark und wartest auf mich hinten bei den Tennisplätzen.«
 
 Der Flur war leer. Ohne jede Hast schritt ich nun den Korridor entlang. Am Fahrstuhl begegnete ich dem Direktor. Er hatte es sehr eilig. Er trug einen Brief in der Hand und beachtete mich nicht weiter, machte mir nur eine Verbeugung.
 
@@ -174,13 +174,13 @@ Ich mußte bei den Tennisplätzen volle zehn Minuten warten. Dann kam nicht Hars
 
 Ich riß den Umschlag auf, der nur zugeklebt war und nur die Aufschrift trug: »Für Schraut!« – Auf dem Bogen Büttenpapier stand oben mit Tinte, die noch frisch war:
 
-Sahib Harst! Ihr beide verkleidet Euch als Frauen! Ihr scheint darauf zu verzichten, noch länger zu leben.
+> Sahib Harst! Ihr beide verkleidet Euch als Frauen! Ihr scheint darauf zu verzichten, noch länger zu leben.
 
-Der Bund der Freiheit.
+> Der Bund der Freiheit.
 
 Darunter hatte Harald geschrieben – mit Bleistift:
 
-»Diese zweite Warnung brachte mir soeben der Direktor. Der Brief war durch einen Inder unten im Hotelbüro für mich abgegeben worden. – Du siehst, daß dieser Bund uns überwachen läßt – und wie! Wir werden der Bande trotzdem entwischen. Komm’ sofort nach der Autogarage. Wir fahren mit Lady Glarnstones Wagen durch die hintere Parkpforte davon. Unsere Koffer nehmen wir mit. Außerhalb der Stadt ergibt sich alles weitere.«
+> »Diese zweite Warnung brachte mir soeben der Direktor. Der Brief war durch einen Inder unten im Hotelbüro für mich abgegeben worden. – Du siehst, daß dieser Bund uns überwachen läßt – und wie! Wir werden der Bande trotzdem entwischen. Komm’ sofort nach der Autogarage. Wir fahren mit Lady Glarnstones Wagen durch die hintere Parkpforte davon. Unsere Koffer nehmen wir mit. Außerhalb der Stadt ergibt sich alles weitere.«
 
 Als ich über den Wirtschaftshof des Hotels schritt und die Garage vor mir sah, hatte Harald, der noch immer als ältere Dame verkleidet war, den Motor bereits angekurbelt. Ich sprang in den Wagen, und dieser setzte sich auch in Bewegung.
 
@@ -198,15 +198,15 @@ Der Direktor ließ darauf den Kraftwagen wieder aufrichten. Wir gingen auf unser
 
 Wir lasen:
 
-Das Hotel wird in die Luft gesprengt, falls Sahib Harst es nicht bis 7 Uhr verlassen hat.
+> Das Hotel wird in die Luft gesprengt, falls Sahib Harst es nicht bis 7 Uhr verlassen hat.
 
-Der Bund der Freiheit.
+> Der Bund der Freiheit.
 
 Harald nickte. »Ja – die Leute lassen nicht mit sich spaßen! – Sie möchten uns gern los sein, Direktor, nicht wahr?«
 
 »Oh – es ist für das Atlantic-Hotel gewiß eine große Ehre, Mr. Harst, gerade Sie als Gast –«
 
-Harst lachte laut auf. »Na also! Sie komplimentieren uns hinaus. – Gut! Wir gehen! Es ist jetzt 6 Uhr 15 Minuten. In zehn Minnten tragen wir wieder unsere Sportanzüge und werden also 6 Uhr 28 Minuten unten im Speisesaal soupieren. Lassen Sie unsere Koffer dann in die Vorhalle schaffen. Um 6 Uhr 58 Minuten sagen wir dem Atlantic lebewohl.«
+Harst lachte laut auf. »Na also! Sie komplimentieren uns hinaus. – Gut! Wir gehen! Es ist jetzt 6 Uhr 15 Minuten. In zehn Minuten tragen wir wieder unsere Sportanzüge und werden also 6 Uhr 28 Minuten unten im Speisesaal soupieren. Lassen Sie unsere Koffer dann in die Vorhalle schaffen. Um 6 Uhr 58 Minuten sagen wir dem Atlantic lebewohl.«
 
 Der Direktor atmete erleichtert auf und eilte davon.
 
@@ -276,7 +276,7 @@ Harald verneinte zu unserem grenzenlosen Erstaunen.
 
 Darbington fuhr jetzt wütend auf:
 
-»Mr. Harst, ich werde Sie dieserhalb zur Rechenschaft ziehen! Das ist ja unerhört«.
+»Mr. Harst, ich werde Sie dieserhalb zur Rechenschaft ziehen! Das ist ja unerhört.«
 
 Harald lehnte am Schreibtisch Blooces.
 
@@ -290,7 +290,7 @@ Darbington gehorchte widerwillig. Tatsächlich waren an den Sohlen noch genau di
 
 »Dieselbe Spur,« fügte Harst rasch hinzu, »fand ich auf den gewachsten Dielen von Nr. 91 und vor der Garage in einem Ölfleck. Ich sah Sie dann bereits, als wir beide, Schraut und ich, den Speisesaal betraten. Sie hatten Ihre Augen schlecht in der Gewalt. Ich rechnete damit, jemand von der »Gegenpartei« im Speisesaale anzutreffen. Deshalb steckte ich das Gift zu mir, damit ich einen Anlaß hätte, den Mann dann verhaften zu lassen, der mir verdächtig erscheinen sollte.«
 
-»Alberne Hirngespinste!« meinte Darbington wegwerfend, »Was sollte ich wohl für ein Interesse an Ihrer Person nehmen, Mr. Harst?! Und – was geht mich Lady Glarnstone an?! Ich habe die Dame heute zum ersten Male gesehen. Ich bin erst heute früh in Lahore eingetroffen. Mein Koffer befindet sich noch auf dem Bahnhof. Ich habe Indien bisher nicht gekannt. Jedenfalls verdächtigen Sie mich völlig grundlos, Mr. Harst.«
+»Alberne Hirngespinste!« meinte Darbington wegwerfend. »Was sollte ich wohl für ein Interesse an Ihrer Person nehmen, Mr. Harst?! Und – was geht mich Lady Glarnstone an?! Ich habe die Dame heute zum ersten Male gesehen. Ich bin erst heute früh in Lahore eingetroffen. Mein Koffer befindet sich noch auf dem Bahnhof. Ich habe Indien bisher nicht gekannt. Jedenfalls verdächtigen Sie mich völlig grundlos, Mr. Harst.«
 
 »Wenn Sie heute früh hier erst angelangt sind, Mr. Darbington, – wo weilten Sie gestern und die letzten Tage überhaupt?«
 
@@ -338,7 +338,7 @@ Aber die Lady vertrat ihm den Weg, stellte sich vor die Tür, schloß mit dem vo
 
 All das geschah in wenigen Sekunden.
 
-Harst eilte ans Fenster. Das Zimmer lag im ersten Stock Auch Blooce und ich liefen an das zweite Fenster und beugten uns hinaus.
+Harst eilte ans Fenster. Das Zimmer lag im ersten Stock. Auch Blooce und ich liefen an das zweite Fenster und beugten uns hinaus.
 
 Unten hielt ein offenes, dunkelgrünes Auto. Darbington sprang hinein. Der Motor war nicht abgestellt worden. Das Auto raste sofort davon. Vorn saß ein Inder mit langem, schwarzem Bart als Chauffeur.
 
@@ -434,11 +434,11 @@ Der Beamte, der uns drei zu seinem Chef brachte, erklärte, als wir die Treppe e
 
 »Lady Glarnstone ist vor zwei Stunden wieder in Srinagar angelangt und befindet sich bei Mr. Kollingloof.«
 
-Das war ja eine ungeahnte Überraschung! Die Lady bei dem Polizeichef! Was bedeutete daß nun wieder?!
+Das war ja eine ungeahnte Überraschung! Die Lady bei dem Polizeichef! Was bedeutete das nun wieder?!
 
 Harst warf mir einen besonderen Blick zu. Und Blooce meinte leise: »Aus der Geschichte mag der Teufel klug werden!«
 
-Kollingloof kam uns dann bis in den Flur entgegen. Er war ein hagerer, kleiner, nervöser Mann Er drückte uns die Hände und flüsterte:
+Kollingloof kam uns dann bis in den Flur entgegen. Er war ein hagerer, kleiner, nervöser Mann. Er drückte uns die Hände und flüsterte:
 
 »Lady Glarnstone sitzt in meinem Arbeitszimmer. Sie hat mir bereits alles erzählt. Sie ist jetzt völlig gebrochen. Der Tod ihres Gatten, den ihr der Erzieher ihres Söhnchens telephonisch gemeldet hatte, hat sie vollständig vernichtet –«
 
@@ -586,7 +586,7 @@ Und dann – dann neben mir seine Stimme – ganz leise, aber erregt:
 
 Er hatte mir ja bereits vorgemacht, wie man unter Stöhnen sterben müsse.
 
-Ich ahnte, daß vom Rande des Felsloches ans diese verteufelte Lady Glarnstone den Erfolg dieses Attentats abwartete.
+Ich ahnte, daß vom Rande des Felsloches aus diese verteufelte Lady Glarnstone den Erfolg dieses Attentats abwartete.
 
 Ich kreischte auf. Mein Hilferuf schien mir in der Kehle zu ersticken. –
 
@@ -656,7 +656,7 @@ Da sprang der Unbekannte empor. »Sie phantasieren!« keuchte er mit bebenden Li
 
 »Ja. Sie war in England, wo noch ein Bruder von ihr lebt,« erwiderte der Polizeichef.
 
-Harst winkte mir. Halte den Burschen mal fest, Schraut!«
+Harst winkte mir. »Halte den Burschen mal fest, Schraut!«
 
 Auch Blooce half dabei. – Harald untersuchte die Taschen des Unbekannten und fand auch ein Päckchen Papiere, blätterte darin und sagte plötzlich:
 
@@ -676,7 +676,7 @@ Lady Evelyn hielt ihn fest umklammert.
 
 Harst war schon ausgestiegen. Seine Taschenlampe blitzte auf. – Im gleichen Moment sprangen die drei Beamten zu.
 
-Lady Evelyn schrie gellend auf, sank in Ohnmacht Darbington ließ sich ohne Widerstand fesseln. –
+Lady Evelyn schrie gellend auf, sank in Ohnmacht. Darbington ließ sich ohne Widerstand fesseln. –
 
 Das Auto fuhr der Stadt zu, hielt vor dem Polizeigebäude. Die Lady wurde in Kollingloofs Arbeitszimmer getragen. Die Beamten brachten Darbington hinterdrein.
 
