@@ -219,7 +219,7 @@ stellte sich bei mir ein neues Stubenmädchen vor. Ich hatte eine Anzeige
 eingerückt. Und dieses Mädchen, das einen recht bescheidenen Eindruck machte
 und das wie eine Kreolin aussah, erwähnte, sie würde Sennor Harst bitten, ihren
 verschwundenen Bruder zu suchen. Harst helfe ja jedem und verlange nicht einmal
-bezahlt zu werden. – So brachte sie mich auf den Gedanken, an Sie zu schreiben.
+Bezahlung. – So brachte sie mich auf den Gedanken, an Sie zu schreiben.
 Sie sagte nämlich, man dürfe Harst ein Anliegen zuerst nur schriftlich
 vortragen. Besucher weise er stets ab.«
 
@@ -506,7 +506,7 @@ Saalborg hinter diesem brutalen Streich?! War er nur zum Schein so weit
 Gentleman gewesen, uns die goldenen Becher, diese Andenken an eins unserer
 wechselvollsten Abenteuer, zurückzugeben? Wollte er sie uns jetzt wieder
 abnehmen und sich uns gegenüber auch von einer anderen Seite, eben einer
-brutaleren zeigen?! –
+brutaleren, zeigen?! –
 
 In dem Wagenkasten lehnte rechts neben mir ein zweiter Mensch. Soeben hatte
 mich dessen Ellbogen berührt.

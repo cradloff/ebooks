@@ -721,7 +721,7 @@ darfst Du überzeugt sein. Deine Flußkarte ist schon verschwunden. Wir sollen
 nicht kontrollieren können, ob die Burschen nicht die Hauptfahrrinne
 verlassen.«
 
-»Wahrhaftig – die Karte lag hier auf dem<@refnote 6/> Tisch.«
+»Wahrhaftig – die Karte lag hier auf dem<@refnote 6/> Tisch!«
 
 »Der Wind wird sie in den Fluß geweht haben!« Und Harald lächelte dazu.
 
@@ -760,7 +760,7 @@ sich, rauchte sich eine Zigarette an und meinte:
 
 »Und Du bist so ruhig?«
 
-»Ich bin doppelt vorbereitet – auf alles!«
+»Ich bin doppelt vorbereitet – auf alles?«
 
 Die Motoren schwiegen. Der Maschinist kam angelaufen.
 

@@ -59,7 +59,7 @@ Hier hatte Miß Regina Sampson eine Beschreibung des Leuchters eingefügt. –
 
 > Wieder verging ein halbes Jahr. Dann überredete Viktoria mich zur Teilnahme an spiritistischen Experimenten, die sie mit mir allein anstellen wollte. Sie erzählte mir, daß Professor Doktor Chapping ihr eine besondere Methode empfohlen hätte, um sich mit den Geistern der Abgeschiedenen in Verbindung zu setzen.
 
-> Ich halte den Spiritismus für Humbug, für Selbsttäuschung. Die sogenannten spiritistischen Phänome, also die erkennbaren Äußerungen der Anwesenheit von »Geistern«, bestehen vor keiner ernsthaften Prüfung.
+> Ich halte den Spiritismus für Humbug, für Selbsttäuschung. Die sogenannten spiritistischen Phänomene, also die erkennbaren Äußerungen der Anwesenheit von »Geistern«, bestehen vor keiner ernsthaften Prüfung.
 
 > Viktoria kannte diese meine Ansicht. Aber sie bat so lange bis ich einwilligte.
 
