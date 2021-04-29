@@ -25,6 +25,7 @@ Professor Tamblays gelesen?«
 »Allerdings,« meinte Harst.
 
 Wir schritten dem Auto zu, das wir vorher bestellt hatten.
+
 Wir wohnten damals bei Detektivinspektor Greaper, der
 dem Leser nicht mehr fremd sein dürfte.
 
@@ -177,7 +178,7 @@ Wir ließen nun auch Greaper die Briefe sich ansehen. Erverlyn
 kannte sie schon.
 
 »Das sind Erpresserbriefe, nichts weiter,« erklärte uns der
-Inspektor. —
+Inspektor.
 
 »Mag Mr. Long erst noch berichten, was er noch über
 diese Briefe und den Schmetterling weiß,« meinte Harald.
@@ -236,7 +237,7 @@ aufgerieben worden ist, derselbe Tamblay sein muß, der damals —«
 
 Harald hatte dem Lord zugewinkt.
 
-»Die Frage wollen wir später erörtern, Erverlyn. Mr.
+»Die Frage wollen wir später erörtern, Erverlyn. — Mr.
 Long, bitte, hier ist der versiegelte Zettel. Sie sehen, das
 Stearin ist mit einer Münze als Petschaft breitgedrückt worden.
 Wollen Sie bitte den Zettel aufschneiden, nicht aber die
@@ -360,11 +361,11 @@ hatte, in Bikaner zu Fuß und völlig erschöpft wieder an.
 Er hatte eine Stichwunde in der Schulter und einen Streifschuß
 am Bein. Die Expedition war durch eine Bande Wegelagerer
 überfallen und bis auf Tamblay niedergemetzelt
-worden.«
+worden.««
 
-Harald legte die Zeitung weg:
+Harald legte die Zeitung weg.
 
-»So das wäre also der Artikel. Erverlyn hat nun ja den
+»So, das wäre also der Artikel. Erverlyn hat nun ja den
 Verdacht ausgesprochen, dieser Tamblay könnte derselbe sein,
 der damals bei Long war und sich nach dieser chinesischen Malerei
 erkundigte.«
@@ -426,7 +427,7 @@ entlang. — Harald machte abermals halt.
 »So, hier werden wir über diesen Holzzaun klettern und
 uns durch die Vorgärten recht nahe an den Kerl heranmachen.«
 
-Haralds Plan gelang. Gegen ¾ 2 Uhr morgens schlich
+Haralds Plan gelang. Gegen ¾2 Uhr morgens schlich
 der im Gebüsch versteckte Spion davon. Aber — nun kam die
 Überraschung für uns! Er hatte es nicht weit bis zu seiner
 Wohnung — nur etwa 25 Schritt! Denn — er verschwand
@@ -474,7 +475,7 @@ Harald.
 »So, dann wollen wir da mal nachsehen. Aber — bitte
 nur Schraut und ich —« —
 
-Wir hielten uns stets stets im Schatten der Büsche. Vor dem
+Wir hielten uns stets im Schatten der Büsche. Vor dem
 Hause war ein runder Rasenplatz. Der Hauptweg von der
 Straßenpforte her war mit weißem Muschelkies bestreut. Im
 Schatten eines weit über den Weg hängenden Strauches lag
@@ -529,7 +530,7 @@ drüben auf der Lauer lagen,« flüsterte Harald.
 »Aus dem Auto ist auf Long geschossen worden?« fragte
 ich. Die Frage lag so sehr nahe.
 
-»Nein. Aber das Geräusch des vorüber ratternden Kraftwagens
+»Nein. Aber das Geräusch des vorüberratternden Kraftwagens
 verschlang das andere Geräusch.«
 
 »Das eines Schusses?! — Hm — das will mir nicht so
@@ -544,7 +545,7 @@ wir das Geschoß suchen.«
 mit Stahlspitze und einem Wollbüschelchen hinten. Das Wollbüschelchen
 dieses Todespfeiles war rot. Der Pfeil flog dicht
 über den Rand des weißen Kragens Longs hinweg, wurde
-durch höher gelenkt. Am Kragenrande blieben zwei Wollfaserchen
+dadurch höher gelenkt. Am Kragenrande blieben zwei Wollfäserchen
 hängen. Und am linken Daumennagel war ebenfalls
 etwas von diesen Fäserchen zu sehen. Er hat den Pfeil eben
 sofort herausgerissen und ihn im ersten Schreck weggeworfen.
@@ -607,7 +608,7 @@ die Genickmuskeln sind wie im Krampf noch immer gespannt.
 Es kann der Saft der Kassia-Liane gewesen sein. Die Pflanze
 ist sehr selten und wächst nur auf Boden, der besonders gedüngt
 <@pagebreak/>
-ist. Dieser Saft trocknet schnell zu einer hellgelben, zäh-klebrigen
+ist. Dieser Saft trocknet schnell zu einer hellgelben, zähklebrigen
 Masse ein.« —
 
 Der neue Tag begann. Der Himmel wurde lichter und
@@ -648,7 +649,7 @@ wegen beobachtet würde. Es war so. Es lag da bei den Robinsons
 ein Mann dicht am Gitter in den Büschen. Der Mann
 ging nachher ins Haus. Entweder trug er das Luftgewehr bei
 sich oder er hat es in den Büschen vorläufig liegen lassen. Wir
-hörten das schwache Krachen des Schusses nicht, weil gerade
+hörten das schwache Klacken des Schusses nicht, weil gerade
 ein Auto die Straße entlangkam. Und dieses Auto spielt bei
 dem Morde noch eine andere Rolle.«
 
@@ -669,7 +670,7 @@ einem Luftgewehr auf etwa dreißig Meter einen Menschen gerade
 da treffen können, wo ein Pfeil glatt in die Haut eindringen
 kann, eben am Kopfe oder am Halse?«
 
-»Nein,« antwortete Erverlyn zögernd. »Das Ziel muß
+»Nein,« antwortete Erverlyn zögernd. »Das Ziel müßte
 denn gerade sehr —«
 
 »— ja, sehr hell beleuchtet gewesen sein,« führte Harst den
@@ -703,9 +704,9 @@ er hastig seine Zigarre auf den Aschbecher. Diese schnelle Bewegung
 machte mich munter. Ich sah, daß Tom aufrecht dastand
 und nach dem Fenster blickte. Dann flüsterte er so halb,
 als ob er mich aus meiner Schläfrigkeit nicht aufrütteln
-wollte: »Ich will mal etwas an die frische Luft, Erverlyn.«
+wollte: »Ich will mal etwas an die frische Luft, Erverlyn.« —
 Und dann war er schon hinaus. — Mehr weiß ich nicht. Gehört
-habe ich nichts, — ich meine kein Geräusch von draußen
+habe ich nichts, — ich meine kein Geräusch von draußen,
 von der Veranda her —«
 
 Er richtete sich plötzlich kerzengerade auf.
@@ -751,7 +752,7 @@ Harst sagte nur: »Leg’ ihn auf den Tisch —«
 Dann ging er hinaus, kehrte jedoch bald wieder zurück.
 
 »Im Vorgarten ist nichts zu finden,« meinte er. »Die
-Stelle, wo Long gestanden haben muß, habe ich freilich entdeckt,
+Stelle, wo Long gestanden haben muß, habe ich freilich entdeckt, —
 neben der dritten Palme links von der Gitterpforte. Bis
 drüben‚ wo der graubärtige Europäer in den Sträuchern lag,
 sind es etwa 20 Meter nur. Ein gutes Luftgewehr trägt
@@ -811,8 +812,8 @@ Man fand ihn morgens im Park seines Hauses dicht
 an der Hinterpforte. Er muß damals sehr früh aufgestanden
 und dorthin gegangen sein.«
 
-Harald gähnte zwanglos. »Es ist ½ 4 Uhr morgens. Wir
-wollen uns noch etwas niederlegen. Um ¾ 7 bin ich zu Ihrer
+Harald gähnte zwanglos. »Es ist ½4 Uhr morgens. Wir
+wollen uns noch etwas niederlegen. Um ¾7 bin ich zu Ihrer
 Verfügung, Greaper.« Er stand auf. »Gute Nacht!«
 
 Ich folgte ihm. Es war jetzt ganz hell draußen. Harald
@@ -840,7 +841,7 @@ findet.
 das vor?« fragte ich noch immer ganz sprachlos vor Staunen.
 
 »Weil ich den Klub der Zwölf auf diese Weise zu entdecken
-hoffe, — das heißt, seine Ziele, Mitglieder, früheren Taten
+hoffe, — das heißt, seine Ziele, Mitglieder, früheren Taten —
 und so weiter. Wenn ich Greaper und Erverlyn nicht belogen
 hätte, würden sie vielleicht nicht genug über den frechen
 Diebstahl anderen gegenüber geschimpft haben. Und — sie
@@ -877,7 +878,7 @@ auf. 4 Tage.
 
 7\. Miß Grace Pance, Lehrerin. 8 Monate.
 
- Harst beschrieb Mistreß Robinson nun den Graubärtigen.
+Harst beschrieb Mistreß Robinson nun den Graubärtigen.
 
 »Bedauere,« meinte die Dame, »von den bei mir jetzt
 wohnenden Herren hat nicht einer einen Vollbart.«
@@ -889,7 +890,7 @@ wohnenden Herren hat nicht einer einen Vollbart.«
 ebenfalls. Auch Master Branting und Master Wormbler sind
 nicht gerade klein.«
 
-»Mistreß Robinson,« meinte Harald, »ich will Ihnen
+»Mistreß Robinson,« meinte Harald, »ich will Ihnen nun
 auch den Zweck meines Besuches mitteilen. Es ist in der vergangenen
 Nacht ein Herr mit einem Luftgewehr erschossen worden
 — drüben in Greapers Vorgarten, und es ist nicht ausgeschlossen,
@@ -944,7 +945,7 @@ Aber — wer war der Mörder?!«
 Wir setzten uns an den Frühstückstisch, Greaper war
 schlechter Laune.
 
-»Wenn’s nach mir gegangen wäre,« meinte er, »hätte ich
+»Wenn’s nach mir gegangen wäre,« meinte er, »hätte ich doch
 die ganzen Logiergäste einzeln vernommen.«
 
 »Tun Sie es doch noch jetzt, Greaper. Ich halte diesen
@@ -1010,8 +1011,8 @@ und vier ebenfalls berittenen Dienern auf. Unsere
 Reitkamele waren besser als die, mit denen wir einst die Halbinsel
 Sinai durchstreift hatten. Wir nahmen Proviant für
 12 Tage mit. Unsere Koffer gaben wir einem Bekannten des
-Lords in Verwahrung. Wir drei Europäer trugen dort
-Helme und dazu graue Touristenanzüge mit Kniehosen und
+Lords in Verwahrung. Wir drei Europäer trugen Korkhelme
+und dazu graue Touristenanzüge mit Kniehosen und
 Wickelgamaschen.
 
 Es ging zunächst scharf nach Osten. Hier begannen sehr
@@ -1028,8 +1029,8 @@ Stunde nach Süden ab und später nach Südwest.
 
 Wir beeilten uns sehr. Harst hielt die Spitze, und der
 Trab eines guten Reitkamels ist wie der Galopp eines mäßigen
-Pferdes. Abends hatten wir bereits den Rand der Thar
-Wüste erreicht. In einem Dorfe kauften wir Wasserschläuche.
+Pferdes. Abends hatten wir bereits den Rand der Thar-Wüste
+erreicht. In einem Dorfe kauften wir Wasserschläuche.
 <@pagebreak/>
 Das Wasser in ganz Radschputana ist schlecht. Die Cholera wütet
 hier daher häufiger als anderswo in Indien. Wir haben
@@ -1179,7 +1180,7 @@ Stimme, hell und scharf:
 
 »Rührt Euch nicht! Wir drücken sofort ab —«
 
-»Verdammt!« knurrte Erverlyn, »Vier Büchsenläufe.
+»Verdammt!« knurrte Erverlyn. »Vier Büchsenläufe.
 Etwas viel!«
 
 »Steht auf!« kommandierte der Unsichtbare weiter. Man
@@ -1268,7 +1269,7 @@ der sich etwa zehn Meilen hinzieht. Das linke Auge
 des Falters aber sollte die Stadt Bikaner darstellen. Wenn
 man genau hinsah, bemerkte man in dem Auge ein winziges
 B. Das linke Fühlhorn sollte die Eisenbahnlinie Bikaner-Bahawalpur
-sein. Und so hatte alles an dem Schmetterling
+sein. Und so hatte alles an dem Schmetterling seine
 Bedeutung. Die Hauptsache daran war der linke Flügel:
 die Thar-Wüste. In diesem farbenfrohen Falterflügel stellten
 die Grenzlinien der verschiedenen Farben in der Mitte eine
@@ -1305,7 +1306,7 @@ Stimme von oben herab:
 
 Der Kerl band uns die Füße zusammen, dann die Hände
 auf dem Rücken. Harst setzte sich sofort nieder und lehnte sich
-an die Felswände.
+an die Felswand.
 
 »Ich habe Krampf in den Waden!« sagte er ärgerlich.
 »Ein Glück, daß Sie so verständig waren und uns die weitere
@@ -1366,7 +1367,7 @@ als wollte er die angebliche Wadenkrämpfe durch diese
 Bewegung vertreiben. Er saß also nicht still. Dann stieß er
 mich mit dem Ellenbogen an.
 
-Das hieß: Achtung! — Wir saßen, wie schon erwähnt,
+Das hieß: Achtung! — Wir saßen, wie schon erwähnt, dicht
 nebeneinander. Jetzt spürte ich einen Stoß gegen meine
 auf dem Rücken gefesselten Hände. Zwischen meinen und Haralds
 Beinen lag ein großer Stein, der den Fünfen am Feuer
@@ -1486,7 +1487,7 @@ genauer ausführte. Wir schworen uns gegenseitig, das Geheimnis
 zu bewahren, bis Kupfer auf dem Weltmarkt im Preise
 gestiegen sei. Die Drohbriefe hat dann Tamblay geschrieben.
 Er wählte nur zur Verschleierung die Bezeichnung Klub der
-XII, weil die Mine doch an einem 12 ten gefunden worden
+XII, weil die Mine doch an einem 12ten gefunden worden
 war. Albert Long wollte aber die Zeichnung nicht herausgeben.
 Da hat ihn denn Doktor Doving ermordet — durch einen
 <@pagebreak/>
