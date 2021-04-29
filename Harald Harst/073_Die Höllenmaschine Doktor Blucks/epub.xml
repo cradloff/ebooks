@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">3bce58aa-a93e-11eb-ac11-cff633e914cb</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Höllenmaschine Doktor Blucks</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">73</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Höllenmaschine Dr. Blucks
+
+Der Fall »Doktor Bluck« hat seiner Zeit volle drei Tage die Berliner Bevölkerung in Aufregung gehalten. Und das heißt schon etwas bei der Fülle von Sensationen, die nun einmal jede Weltstadt dauernd hervorbringt.
+
+Heute darf ich den Schleier, der noch über diesen Vorgängen lag, vollständig lüften. Doktor Bluck ist vor vierzehn Tagen in Australien gestorben und sein Tod wurde Harst durch Blucks Vertrauten telegraphisch mitgeteilt. –
+
+Ich will nun die Ereignisse des Falles Bluck so vor dem Leser aufrollen, wie sie zu unserer Kenntnis gelangten und wie wir dann veranlaßt wurden, uns mit diesem merkwürdigen Verbrechertyp, den Doktor Hilmar Bluck darstellte, ganz eingehend zu beschäftigen.
+
+Das Opfer der Millionen
+
+Der Herr, der uns acht Tage nach der Film-Zugkatastrophe vormittags elf Uhr besuchte, hatte sich durch die Köchin Malwine anmelden lassen und uns seine Visitenkarte hineingeschickt.
+
+Als Harald diese Karte überflogen hatte, sagte er leise:
+
+»Ein interessanter Mann, der Professor Rapivari. Eine Hauptstütze der römischen Spiritisten, ein Geisterseher, der hier in Berlin seit Monaten jeden Abend Anhänger des Spiritismus versammelt und Experimente zeigen soll, die einfach staunenswert sind. – Liebe Malwine, ich lasse den Herrn bitten –«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (073) Die Höllenmaschine Doktor Blucks.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
