@@ -8,11 +8,11 @@ Der Herr, der uns acht Tage nach der Film-Zugkatastrophe vormittags elf Uhr besu
                     Rom
           z. Z. Berlin W, Griseldisstr. 21.</div>
 
-Als Harald diese Karte überflogen hatte. sagte er leise:
+Als Harald diese Karte überflogen hatte, sagte er leise:
 
 »Ein interessanter Mann, der Professor Rapivari. Eine Hauptstütze der römischen Spiritisten, ein Geisterseher, der hier in Berlin seit Monaten jeden Abend Anhänger des Spiritismus versammelt und Experimente zeigen soll, die einfach staunenswert sind. – Liebe Malwine, ich lasse den Herrn bitten –«
 
-Malwine ging hinaus. Dann trat Rapivari ein, äußerlich halb Mephistopheles, halb Don Juan mit schwarzem Spitzbart, schmalem Gesicht, dunkeln Glutaugen, gekleidet wie – wie ein sittenstrenger Kandidat ganz in Schwarz, was den Eindruck seiner Erscheinung noch erhöhte. Im übrigen ein Herr von tadellosen Manieren, sehr gemessenem Wesen und einer verträumten Art, die das etwas diabolische Äußere stark milderte.
+Malwine ging hinaus. Dann trat Rapivari ein, äußerlich halb Mephistopheles, halb Don Juan mit schwarzem Spitzbart, schmalem Gesicht, dunklen Glutaugen, gekleidet wie – wie ein sittenstrenger Kandidat ganz in Schwarz, was den Eindruck seiner Erscheinung noch erhöhte. Im übrigen ein Herr von tadellosen Manieren, sehr gemessenem Wesen und einer verträumten Art, die das etwas diabolische Äußere stark milderte.
 
 Er nahm in dem Klubsessel am Fenster Platz, wo Harald alle unsere Klienten hindirigierte, damit das helle Tageslicht ein Beobachten ihrer Gesichter erleichtere.
 
@@ -138,7 +138,7 @@ In diesem Augenblick bog die Dame um das Buschwerk. Harald sah sie zuerst, gab L
 
 Sie war über mittelgroß und sehr schlank und hatte in ihrer Körperhaltung und in ihren Bewegungen etwas auffallend Scheues, Ängstliches. Ihre Blicke waren zu Boden gerichtet. Sie schien etwas zu suchen. Sie kam sehr langsam daher und gewahrte uns erst, als sie kaum noch acht Schritt entfernt war.
 
-Ich werde nie diesen wild entsetzten Ausdruck der großen dunkeln Augen vergessen, nie dieses jähe Emporstrecken beider Arme, als wollte sie irgend ein Unheil von sich abwehren.
+Ich werde nie diesen wild entsetzten Ausdruck der großen dunklen Augen vergessen, nie dieses jähe Emporstrecken beider Arme, als wollte sie irgend ein Unheil von sich abwehren.
 
 Harald trat jetzt auf das junge, dunkelhaarige Weib zu, zog den Hut, fragte höflich:
 
@@ -170,7 +170,7 @@ Lukretia Rapivari senkte langsam den Kopf.
 
 »Wo?« hauchte sie. »Und ist Bianka etwa – etwa tot?«
 
-»Es ist wohl besser, Sie spielen diese Komödie nicht weiter« meinte Harald jetzt lebhafter und recht eindringlich. »Was Sie hier suchten, habe ich bereits entdeckt. Vielleicht heben Sie einmal den linken Fuß ein wenig. Das dünne goldene Kettenarmband ist zu schade, als daß Sie es noch tiefer in die Erde treten sollten!«
+»Es ist wohl besser, Sie spielen diese Komödie nicht weiter,« meinte Harald jetzt lebhafter und recht eindringlich. »Was Sie hier suchten, habe ich bereits entdeckt. Vielleicht heben Sie einmal den linken Fuß ein wenig. Das dünne goldene Kettenarmband ist zu schade, als daß Sie es noch tiefer in die Erde treten sollten!«
 
 Oh – wie glänzend heuchelte sie nun ein maßloses Erstaunen! Wie echt klang ihr Ausruf:
 
@@ -386,7 +386,7 @@ Wir drei waren nun in Lenks Dienstzimmer allein.
 
 »Und – weshalb schützt sie ihn dann?!« meinte Lenk etwas ironisch. »Weshalb verheimlicht sie uns Kleinigkeiten, wo sie doch die Hauptsache bereits eingestanden hat und also weiß, daß ihr Bruder nun doch alles –«
 
-»Oh – lassen Sie den Professor hier aus dem Spiel,« unterbrach Harald ihm »Es handelt sich hier um mehr als nur einen Mord im Affekt! Hier spielen noch Dinge mit, die vorläufig unter der Oberfläche der Geschehnisse verborgen sind und die trotzdem das Fundament des Ganzen bilden.«
+»Oh – lassen Sie den Professor hier aus dem Spiel,« unterbrach Harald ihn. »Es handelt sich hier um mehr als nur einen Mord im Affekt! Hier spielen noch Dinge mit, die vorläufig unter der Oberfläche der Geschehnisse verborgen sind und die trotzdem das Fundament des Ganzen bilden.«
 
 »Also glauben Sie Lukretia mit dem Mörder im Bunde?« fragte Lenk tastend.
 

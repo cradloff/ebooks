@@ -84,6 +84,11 @@ a.refnote {
 	text-decoration: none;
 }
 
+td, th {
+	vertical-align: top;
+	padding-right: 0.5em;
+}
+
 /* gesperrter Text */
 .g {
 	letter-spacing: 0.25em;
@@ -109,6 +114,10 @@ a.refnote {
 
 .pre {
 	white-space: pre-wrap;
+}
+
+.monospace {
+	font-family: monospace;
 }
 
 /* dünne Linie mit Verlauf als Trenner */

@@ -1,11 +1,11 @@
-<div style="font-size: xx-large;">Der Detektiv</div>
+<div style="font-size: xx-large; text-align: center;">Der Detektiv</div>
 
 Eine Reihe höchst spannender Detektivabenteuer. Bisher sind folgende Bände erschienen:
 
-<table style="vertical-align: top;">
+<table>
 <tr><td style="text-align: center;">Band</td><td style="text-align: right;">108:</td><td>Die Motorjacht ohne Namen.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">109:</td><td>Der Kampf gegen Lionel Barring.</td></tr>
-<tr><td style="text-align: center;">  " </td><td style="text-align: right;">110:</td><td>Das Geheimnis der Tolkara-Höhle.</td></tr>
+<tr><td style="text-align: center;">  " </td><td style="text-align: right;">110:</td><td>Das Geheimnis der Tokkara-Höhle.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">111:</td><td>Die große Null.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">112:</td><td>Das Geheimnis des Bosporus.</td></tr>
 <tr><td style="text-align: center;">  " </td><td style="text-align: right;">113:</td><td>Anna Karstens Amulett.</td></tr>

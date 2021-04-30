@@ -35,7 +35,7 @@ Und er zeigte uns das winzige Papierröllchen, legte es auf den Tisch und glätt
 
 Frau Harst dachte erst nach. »Sie war eigentlich recht nett angezogen, hatte graues Haar und ein sehr mageres Gesicht. In ihrem Körbchen lagen nur noch diese vier Apfelsinen.«
 
-»Ihr Organ, die Ausdruckweise ?«
+»Ihr Organ, die Ausdruckweise?«
 
 »Oh – es war eine tiefe Stimme. Die Frau bat so flehentlich, ihr die Früchte doch abzunehmen. Sie war so seltsam verschüchtert und drehte sich immer wieder nach der Straße hin um, als ob sie fürchtete, sie könnte beim unerlaubten Hausieren abgefaßt werden.«
 
@@ -133,7 +133,7 @@ Zahlenquadrat! Die Bezeichnung paßte sehr gut.
 
 So sah es aus:
 
-<div class="pre"> 1  3  2  8 15 21
+<div class="pre, monospace"> 1  3  2  8 15 21
 23              2
  1              3
  6              8
@@ -182,7 +182,7 @@ Harald nickte. »Ohne Frage war Meier der Verfolger. Er wußte, daß eine der Ap
 
 Ich hüllte mich in Schweigen.
 
-»Nun – deshalb,« erläuterte Harald, »weil ich mir überlegt hatte, es sei doch nicht ausgeschlossen, daß Herrn Gustav Meyer diese Frau bekannt sei, und ebensowenig ausgeschlossen, daß unser Meier wieder den echten Meyer kennt, dessen Namen mit ei und dessen Adresse er ja hier bei uns für seine Rolle als Ehemann der Orangenverkäuferin benutzt hat. – Der echte Meyer machte erst Ausflüchte. Du hast ihm die Frau nicht beschrieben. Ich tat es: nett angezogen graues Haar, sehr mageres Gesicht! – Meyer glaubte, einen Kriminalbeamten vor sich zu haben und meinte, solche Frauen liefen zu Dutzenden herum. Meyer hat eben den sogenannten Polizeikoller. Nachdem ich mich als Harst vorgestellt hatte, war er jedoch um den Finger zu wickeln. Kurz: eine Grauhaarige mit sehr magerem Gesicht wohnt im vierten Stock von Nr. 10 rechts, ist Witwe, heißt Anna Bermuth und hat zwei Zimmer seit einem Monat an einen Schriftsteller Doktor Hilmar Bluck vermietet, einen älteren Herrn von recht vernachlässigtem Äußern. Meyer bezeichnete diesen Bluck als – Schmierlappen, also als Schmutzfink. – Hilmar Bluck kann nun aber kaum unser Meier sein, denn der echte Meyer beschrieb ihn mir als lahm, dunkelbärtig und mit Künstlermähne. Immerhin: es dürfte lohnen, diesen Hilmar Bluck noch heute zu beobachten. Meyer wird uns nach zehn Uhr – ah – das war ein gehöriger Donner! – nach zehn Uhr ins Haus einlassen. Er scheint zuverlässig, das heißt verschwiegen zu sein.«
+»Nun – deshalb,« erläuterte Harald, »weil ich mir überlegt hatte, es sei doch nicht ausgeschlossen, daß Herrn Gustav Meyer diese Frau bekannt sei, und ebensowenig ausgeschlossen, daß unser Meier wieder den echten Meyer kennt, dessen Namen mit ei und dessen Adresse er ja hier bei uns für seine Rolle als Ehemann der Orangenverkäuferin benutzt hat. – Der echte Meyer machte erst Ausflüchte. Du hast ihm die Frau nicht beschrieben. Ich tat es: nett angezogen, graues Haar, sehr mageres Gesicht! – Meyer glaubte, einen Kriminalbeamten vor sich zu haben und meinte, solche Frauen liefen zu Dutzenden herum. Meyer hat eben den sogenannten Polizeikoller. Nachdem ich mich als Harst vorgestellt hatte, war er jedoch um den Finger zu wickeln. Kurz: eine Grauhaarige mit sehr magerem Gesicht wohnt im vierten Stock von Nr. 10 rechts, ist Witwe, heißt Anna Bermuth und hat zwei Zimmer seit einem Monat an einen Schriftsteller Doktor Hilmar Bluck vermietet, einen älteren Herrn von recht vernachlässigtem Äußern. Meyer bezeichnete diesen Bluck als – Schmierlappen, also als Schmutzfink. – Hilmar Bluck kann nun aber kaum unser Meier sein, denn der echte Meyer beschrieb ihn mir als lahm, dunkelbärtig und mit Künstlermähne. Immerhin: es dürfte lohnen, diesen Hilmar Bluck noch heute zu beobachten. Meyer wird uns nach zehn Uhr – ah – das war ein gehöriger Donner! – nach zehn Uhr ins Haus einlassen. Er scheint zuverlässig, das heißt verschwiegen zu sein.«
 
 Harald brannte sich eine Zigarette an.
 
@@ -254,7 +254,7 @@ Das weitere erlebte ich dann ja wieder persönlich mit.
 
 Auch mich hatte man in Gustav Meyers Wohnzimmer geschleppt und auf einem zweiten Stuhl festgebunden. Harald und ich erlangten fast gleichzeitig die Besinnung wieder. – Nur Hilmar Bluck befand sich in dem bescheiden eingerichteten Zimmer. Er rauchte eine Zigarre und saß mit übergeschlagenen Beinen in der Sofaecke.
 
-»Es war nicht Pfeffer, Herr Harst, » sagte er nun durchaus im Ton einer gemütlichen Plauderei. »Nein, so rüde sind wir nicht. Es war nur Zigarrenasche. Sie sollten eben die Augen schließen, damit Freund Stümke seinen prachtvollen Jagdhieb anbringen könnte. – Ich nehme an, daß Sie die heutigen Vorfälle bereits richtig durchschaut haben. Frau Bermuth, meine Zimmervermieterin, hatte mir so etwas nachspioniert. Stümke schickte mir aus Vorsicht stets nur solche Blechbüchschen per Post im eingeschriebenen Brief zu. Weshalb wir so vorsichtig waren, geht Sie nichts weiter an, Herr Harst. Sie werden dies auch kaum je ermitteln, denn Stümke und ich verschwinden heute für immer. Jedenfalls: die Bermuth ahnte, daß ihr Mieter Dinge trieb, die das Tageslicht scheuten. Aber mit der Polizei mochte sie nichts zu tun haben. Daher brachte sie Ihnen die vier Orangen und in der einen das eine Büchschen, das sie mir entwendet hatte. Sie sollten sich eben mit mir beschäftigen, Sie, der weltberühmte Harald Harst!«
+»Es war nicht Pfeffer, Herr Harst,« sagte er nun durchaus im Ton einer gemütlichen Plauderei. »Nein, so rüde sind wir nicht. Es war nur Zigarrenasche. Sie sollten eben die Augen schließen, damit Freund Stümke seinen prachtvollen Jagdhieb anbringen könnte. – Ich nehme an, daß Sie die heutigen Vorfälle bereits richtig durchschaut haben. Frau Bermuth, meine Zimmervermieterin, hatte mir so etwas nachspioniert. Stümke schickte mir aus Vorsicht stets nur solche Blechbüchschen per Post im eingeschriebenen Brief zu. Weshalb wir so vorsichtig waren, geht Sie nichts weiter an, Herr Harst. Sie werden dies auch kaum je ermitteln, denn Stümke und ich verschwinden heute für immer. Jedenfalls: die Bermuth ahnte, daß ihr Mieter Dinge trieb, die das Tageslicht scheuten. Aber mit der Polizei mochte sie nichts zu tun haben. Daher brachte sie Ihnen die vier Orangen und in der einen das eine Büchschen, das sie mir entwendet hatte. Sie sollten sich eben mit mir beschäftigen, Sie, der weltberühmte Harald Harst!«
 
 Nun wurde er ironisch; nun fiel er aus der Rolle und zeigte wieder seinen wahren Charakter, den eines höhnischen, schadenfrohen, verbitterten Menschen, dem alle moralischen Hemmungen fehlten.
 
@@ -642,12 +642,12 @@ Unser Chauffeur fuhr wie der Teufel. Wir saßen nebeneinander in dem sanft rütt
 
 »Stimmt! – Und – da legte ich den Hörer auf die Stützen, nahm den Zettel vor, überlegte: die obere Seite des Zahlenquadrats hat sechs Ziffern, und der Name »Montag«, also die Bezeichnung für diesen 23., hat auch sechs Buchstaben. – Es war ein Versuch, es war eine Probe. Ich schrieb auf ein Stück Papier:
 
-<div class="pre">M  o  n  t  a  g, und darunter
-1  3  2  8 15 21</div>
+<div class="pre"><div class="monospace">M  o  n  t  a  g,</div> und darunter
+<div class="monospace">1  3  2  8 15 21</div></div>
 
 hatte also nun für sechs Buchstaben des Alphabets die entsprechenden Zahlen, sah, daß M gleich 1, daß n gleich 2 und o gleich 3 war daß man also von M angefangen die Buchstaben des Alphabets nur zu numerieren brauchte, und entdeckte dann nach wenigen Minuten auch die völlige Lösung des Quadrats, nämlich:
 
-<div class="pre">M  o  n  t  a  g
+<div class="pre, monospace">M  o  n  t  a  g
 i              2
 m              3
 r              t
