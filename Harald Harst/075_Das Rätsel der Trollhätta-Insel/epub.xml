@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">51bf860c-a9ca-11eb-b88b-176cc75a152a</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Rätsel der Trollhätta-Insel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">75</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Rätsel der Trollhätta-Insel.
+
+Die kleine norwegische Industriestadt Odda am Ende des bekannten Hardanger-Fjords beherbergte seit fünf Tagen eine internationale Berühmtheit: den Liebhaberdetektiv Harald Harst, jenen genialen Mann, dessen Taten und Abenteuer ich, sein Freund und Privatsekretär, hier schildern darf.
+
+»Zwei Wochen lang faulenze ich jetzt nach Herzenslust, mein Alter,« hatte Harald erklärt. »Mag kommen, was da will: ich übernehme erst nach Ablauf von zwei Wochen einen neuen Fall! Hier in Odda werden wir ja wohl auch vor Aufträgen sicher sein; hierher wird sich kein Mandant verirren. Die Reise ist zu umständlich.« –
+
+Harald vergaß zweierlei, als er diese Sätze aussprach. Erstens: daß die norwegischen Zeitungen über unsere Erlebnisse auf dem Gletscher bereits am folgenden Tage ganz eingehend berichtet hatten. Und zweitens: daß ein Mandant auch schreiben konnte und gar nicht persönlich in Odda zu erscheinen brauchte! –
+
+Am sechsten Urlaubstage erhielt Harald dann den Brief des Herrn Ingenieurs Holger Sondbör aus Trollhätta.
+
+Das Gespenst des Skien-Museum.
+
+Sigrid Arbang war sofort zu einem Arzt gebracht worden, der das arme Mädchen zunächst seelisch und körperlich etwas gesund pflegen wollte, bevor sie von der Polizei vernommen wurde.
+
+Als der Morgen graute, ließ Inspektor Dronting dann nach den beiden Leichen suchen: der Gunnar Bantjörs und der des Mörders Olaf Arbang alias Aarström.
+
+Die erstere wurde nach stundenlangen Bemühungen wirklich herausgeholt. In den Fußnähten der Beinkleider fanden wir denn auch im ganzen 52 Edelsteine.
+
+Olaf Arbang aber, den ich mit meiner Kugel bestimmt getroffen zu haben meinte, blieb verschwunden. Da die Fälle mit eisernen Wehren versehen sind, hätte die Leiche am nächsten Wehr liegen müssen.
+
+Hätte –! – Sie war jedoch bis zum Abend nicht entdeckt worden und wurde auch später nicht gefunden.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (075) Das Rätsel der Trollhätta-Insel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
