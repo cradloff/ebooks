@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">3fd0747c-a9d1-11eb-a842-b3e41289b17f</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Schreckensnacht im Hotel</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">76</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Lord Plemborns Verbrechen.
+
+»Herr Harst, ich habe einen Menschen aus Versehen erschossen!«
+
+Mit diesen Worten sank Lord Edward Plemborn, der soeben unser Hotelzimmer betreten hatte, völlig verstört in einen Sessel.
+
+Sein gelblich-graues Gesicht, seine leicht zitternden Hände, die tief umschatteten trüben Augen – all das sprach für schlaflose Nächte nach einer furchtbaren Aufregung. –
+
+Harald hätte nun den Lord niemals so ohne weiteres unser Zimmer betreten lassen, wenn nicht Kriminalinspektor Dronting aus Göteborg gerade bei uns geweilt hätte, der sofort erklärte, der Lord sei ihm persönlich bekannt.
+
+Die Schreckensnacht im Hotel Dahlen.
+
+Die Leiche Evelyn Rondas war in einem Zinksarg nach Neuyork geschickt worden. Lord und Lady Plemborn waren ebenfalls zwei Tage nach Orstras Flucht nach Amerika abgereist, um Evelyns Beerdigung beizuwohnen.
+
+Plemborn hatte uns seine Jacht Miramare zur Verfügung gestellt. Wir hatten mit Dank angenommen und waren schon auf die Jacht übergesiedelt, als wir jenen Brief erhielten, der Harst von Skien aus nachgesandt worden war. –
+
+Der Brief Master Albert Gloux’ liegt jetzt neben mir.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (076) Die Schreckensnacht im Hotel.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
