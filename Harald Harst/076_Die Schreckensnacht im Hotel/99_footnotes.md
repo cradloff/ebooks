@@ -15,6 +15,6 @@
 <@footnote 11 "02_Die Schreckensnacht im Hotel Dahlen.md">In der Vorlage steht: »Hauttreppe«.</@footnote>
 <@footnote 12 "02_Die Schreckensnacht im Hotel Dahlen.md">Fehlendes Wort »eine« ergänzt.</@footnote>
 
-Hotel Dalen, Telemarken, aufgenommen zwischen 1894 und 1898 von Marthinius Skøien (1849–1916).
-
+<div class="img-right pre"><img alt="Hotel Dalen" src="076_Hotel_Dahlen.jpg"/>
+Hotel Dalen, Telemarken, aufgenommen zwischen 1894 und 1898 von Marthinius Skøien (1849–1916).</div>
 
