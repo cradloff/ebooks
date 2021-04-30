@@ -167,7 +167,7 @@ Dronting und ich schauten ihn an.
 
 Harald nahm einen Briefumschlag aus einem Fache des Wandsofas und einen Zettel und schrieb auf diesen rasch zwei Worte mit Bleistift, schob den Zettel in den Umschlag und klebte diesen zu, gab ihn Dronting und sagte:
 
-»Da – verwahren Sie das gut, lieber Dronting. Öffnen Sie es erst, wenn ich es gestatte. Zwei Worte nur – und doch meine Ansicht über den Fall Plemborn.«
+»Da – verwahren Sie das gut, lieber Dronting. Öffnen Sie es erst, wenn ich es gestatte. Zwei Worte nur – und doch *meine* Ansicht über den Fall Plemborn.«
 
 Der Inspektor brummte etwas wie »Überflüssige Mätzchen!« steckte den Umschlag aber doch in die Innentasche seiner Weste und fragte gereizt:
 
@@ -207,7 +207,7 @@ Der Inspektor, sonst so pomadig, tobte.
 
 »Er muß noch in der Nähe sein – muß! Harst, haben Sie nicht gesehen, wo er blieb?«
 
-»Bei der Dunkelheit!« meinte Harald nur. Und fügte ganz leise für mich hinzu:
+»Bei *der* Dunkelheit!« meinte Harald nur. Und fügte ganz leise für mich hinzu:
 
 »Er ist noch in der Nähe – das stimmt!« Dann ging er auf das Vorschiff, wo drei Matrosen und der alte Steuermann Sönnquist zusammenstanden.
 
@@ -287,27 +287,27 @@ Wir kletterten auf den Fenstervorsprung und hatten die Köpfe nun in einer Höhe
 
 Und das war folgendes:
 
-Lady Jane: »– eine Kabeldepesche geschickt, daß ich einen tüchtigen Detektiv annehmen soll. Meine Eltern wünschen, daß dieser Unfall aufs genaueste untersucht wird. Baptiste hat daher auch bereits an den Londoner Detektiv Allan Brice depeschiert. Brices Sekretärin telegraphierte zurück, daß Brice sich in Kopenhagen befinde. So wird er denn schon heute vormittag hier eintreffen. – Ich hatte zuerst an Harald Harst gedacht, Master Dronting. Aber Baptiste riet mir ab, obwohl Harst in Skien leicht zu erreichen sei. Er meinte, wir als Engländer sollten einem Engländer den Vorzug geben.«
+*Lady Jane*: »– eine Kabeldepesche geschickt, daß ich einen tüchtigen Detektiv annehmen soll. Meine Eltern wünschen, daß dieser Unfall aufs genaueste untersucht wird. Baptiste hat daher auch bereits an den Londoner Detektiv Allan Brice depeschiert. Brices Sekretärin telegraphierte zurück, daß Brice sich in Kopenhagen befinde. So wird er denn schon heute vormittag hier eintreffen. – Ich hatte zuerst an Harald Harst gedacht, Master Dronting. Aber Baptiste riet mir ab, obwohl Harst in Skien leicht zu erreichen sei. Er meinte, wir als Engländer sollten einem Engländer den Vorzug geben.«
 
-Dronting: »Hm – in diesem Falle, Mylady, hätte ich den Tüchtigsten gewählt. Und das ist doch wohl der Deutsche Harst. Aber – Harst wird sich auch ohnedies mit der Sache befassen, Mylady. Ich habe es Ihnen bisher verschwiegen: er und sein Intimus Schraut waren mit an Bord der Jacht. Ich mochte dies nicht erwähnen, da durch meine Schuld zwischen Harst und mir eine – sagen wir – eine Entfremdung eingetreten ist. Ich werde ihn jedoch schon wieder versöhnen.«
+*Dronting*: »Hm – in diesem Falle, Mylady, hätte *ich* den Tüchtigsten gewählt. Und das ist doch wohl der Deutsche Harst. Aber – Harst wird sich auch ohnedies mit der Sache befassen, Mylady. Ich habe es Ihnen bisher verschwiegen: er und sein Intimus Schraut waren mit an Bord der Jacht. Ich mochte dies nicht erwähnen, da durch meine Schuld zwischen Harst und mir eine – sagen wir – eine Entfremdung eingetreten ist. Ich werde ihn jedoch schon wieder versöhnen.«
 
-Lady Jane: »Ah – und wie denkt Harst über – über Edward, meinen Gatten?«
+*Lady Jane*: »Ah – und wie denkt Harst über – über Edward, meinen Gatten?«
 
-Dronting: »Er hält ihn für schuldig, Mylady. Es tut mir leid, daß ich Ihnen dies sagen muß –«
+*Dronting*: »Er hält ihn für schuldig, Mylady. Es tut mir leid, daß ich Ihnen dies sagen muß –«
 
-Lady Jane (aufschluchzend): »Mein Gott – auch Harst! Es – es kann ja nicht sein! Nein – nein, ich kann es nicht glauben! Meine Eifersucht hat mich zuerst dazu verleitet, Edward in gewisser Weise bloßzustellen. Nun hat Ihr Untergebener Lörnberg noch die beiden Schuldscheine in Evelyns Kofferversteck gefunden, und nun wird man –« (Sie weinte laut und fassungslos).
+*Lady Jane* (aufschluchzend): »Mein Gott – auch Harst! Es – es kann ja nicht sein! Nein – nein, ich kann es nicht glauben! Meine Eifersucht hat mich zuerst dazu verleitet, Edward in gewisser Weise bloßzustellen. Nun hat Ihr Untergebener Lörnberg noch die beiden Schuldscheine in Evelyns Kofferversteck gefunden, und nun wird man –« (Sie weinte laut und fassungslos).
 
-Dronting: »Mylady, ich gebe zu: die Verdachtsmomente gegen Ihren Gatten sind erdrückend. Er ist Spieler; er hat in letzter Zeit hier im Klub Unsummen verloren. Vielleicht hat er Ihrer Schwester nur deshalb den Hof gemacht, um von ihr leichter Geld zu erhalten.«
+*Dronting*: »Mylady, ich gebe zu: die Verdachtsmomente gegen Ihren Gatten sind erdrückend. Er ist Spieler; er hat in letzter Zeit hier im Klub Unsummen verloren. Vielleicht hat er Ihrer Schwester nur deshalb den Hof gemacht, um von ihr leichter Geld zu erhalten.«
 
-Lady Jane: »Nein – nein, das – das wäre zu abscheulich! So schlecht ist Edward nicht. Er ist alles andere nur nicht raffiniert. Nein – Sie tun ihm unrecht.«
+*Lady Jane*: »Nein – nein, das – das wäre zu abscheulich! So schlecht ist Edward nicht. Er ist alles andere nur nicht raffiniert. Nein – Sie tun ihm unrecht.«
 
-Dronting: »Mylady – und die Gedichte?! Sie haben doch Lörnberg erklärt, es sei bestimmt Ihres Gatten Handschrift! – Wo sind die Gedichte? Ich muß sie haben, Mylady! Sie haben sie Lörnberg verweigert. Ich bestehe darauf, daß sie mir ausgehändigt werden.«
+*Dronting*: »Mylady – und die Gedichte?! Sie haben doch Lörnberg erklärt, es sei bestimmt Ihres Gatten Handschrift! – Wo sind die Gedichte? Ich muß sie haben, Mylady! Sie haben sie Lörnberg verweigert. Ich bestehe darauf, daß sie mir ausgehändigt werden.«
 
-Lady Jane: »Niemals! Ich gebe sie nicht heraus! Ich – ich habe sie auch schon verbrannt.«
+*Lady Jane*: »Niemals! Ich gebe sie nicht heraus! Ich – ich habe sie auch schon verbrannt.«
 
-Dronting: »Verbrannt?! Mylady – weshalb die Ausflüchte! Ich weiche nicht eher vom Platze, bis –«
+*Dronting*: »Verbrannt?! Mylady – weshalb die Ausflüchte! Ich weiche nicht eher vom Platze, bis –«
 
-Lady Jane (hastig): »Nun gut – ich werde sie Ihnen holen. Was liegt schließlich an den Gedichten?!«
+*Lady Jane* (hastig): »Nun gut – ich werde sie Ihnen holen. Was liegt schließlich an den Gedichten?!«
 
 Eine Tür klappte. Dann wurde das Nebenzimmer hell.
 
@@ -359,7 +359,7 @@ Dann drehte er den Kopf nach mir hin.
 
 Ich dachte nach. Aber ich konnte nur erwidern: »Ich weiß es nicht!«
 
-»Überlege Dir folgendes: Evelyn hat hier fraglos auf jemand gewartet – auf Edward Plemborn. Ob er sie herbestellt hatte, wollen wir jetzt unerörtert lassen. Jedenfalls: sie wartete hier! Sie kann nicht auf- und abgegangen sein. Dazu ist der Raum hinter der Plankenwand zu klein, und Evelyn wollte doch nicht gesehen werden. Sie wird also sehr wahrscheinlich dort an der Felswand gelehnt haben. Eine Sitzgelegenheit gibt es hier nicht. Dann wird sie die Stimmen Plemborns und Baptistes gehört haben. Daß Plemborn schießen würde, daran dachte sie nicht. Er hatte sie ja herbestellt – er, wie sie glaubte, – nicht persönlich, nicht mündlich zwar, aber doch durch einen Zettel, nehme ich an, einen Zettel, den sie irgendwo fand und der, vermute ich, eine Fälschung war –«
+»Überlege Dir folgendes: Evelyn hat hier fraglos auf jemand gewartet – auf Edward Plemborn. Ob er sie herbestellt hatte, wollen wir jetzt unerörtert lassen. Jedenfalls: sie wartete hier! Sie kann nicht auf- und abgegangen sein. Dazu ist der Raum hinter der Plankenwand zu klein, und Evelyn wollte doch nicht gesehen werden. Sie wird also sehr wahrscheinlich dort an der Felswand gelehnt haben. Eine Sitzgelegenheit gibt es hier nicht. Dann wird sie die Stimmen Plemborns und Baptistes gehört haben. Daß Plemborn schießen würde, daran dachte sie nicht. Er hatte sie ja herbestellt – *er*, wie sie glaubte, – nicht persönlich, nicht mündlich zwar, aber doch durch einen Zettel, nehme ich an, einen Zettel, den sie irgendwo fand und der, vermute ich, eine Fälschung war –«
 
 »Ah – eine dritte Person hat Plemborns Handschrift nachgeahmt!«
 
@@ -385,13 +385,13 @@ Jetzt hatte ich begriffen, was Harald beweisen wollte, sagte hastig:
 
 »Also – es hat ein dritter Evelyn erschossen!«
 
-»Ja – einer, der mit dem Fälscher des Zettels entweder identisch oder doch dessen Genosse, Mitwisser oder Helfershelfer ist! Einer, der hier in der Nähe verborgen war, der wahrscheinlich gleichzeitig mit Plemborn abdrückte – auf Evelyn, die nicht so stand, daß Plemborns Kugeln sie erreichen konnten, also mehr seitwärts! Und – das sah der Mörder. Deshalb schoß er! All dies hatte ich mir schon im Hotelzimmer in Skien überlegt. Schon damals sagte ich mir: Hier ist ein Mord verübt worden – ein Mord, der als unglücklicher Zufall Plemborn aufgehalst werden sollte!«
+»Ja – einer, der mit dem Fälscher des Zettels entweder identisch oder doch dessen Genosse, Mitwisser oder Helfershelfer ist! Einer, der hier in der Nähe verborgen war, der wahrscheinlich gleichzeitig mit Plemborn abdrückte – auf Evelyn, die nicht so stand, daß Plemborns Kugeln sie erreichen konnten, also mehr seitwärts! Und – das sah der Mörder. Deshalb schoß *er*! All dies hatte ich mir schon im Hotelzimmer in Skien überlegt. Schon damals sagte ich mir: Hier ist ein Mord verübt worden – ein Mord, der als unglücklicher Zufall Plemborn aufgehalst werden sollte!«
 
 »Ah – die beiden Worte auf dem Zettel, den jetzt Dronting hat – im verklebten Umschlag!«
 
 »Zwei Worte,« nickte Harst. »Sie lauten:
 
-Ein anderer!
+> Ein anderer!
 
 Nämlich: ein anderer als Plemborn ist der Mörder!«
 
@@ -667,11 +667,11 @@ Frau Merten, eine Deutschschwedin, kannte uns schon von früher und wunderte sic
 
 Inzwischen hatte ich mit Hilfe eines angewärmten Bügeleisens die drei zerknitterten Zettel geglättet.
 
-Die drei Zettel –! Denn Brice hatte auch »die Rendezvous-Bestellung« – »verloren«, und Harst hatte auch diesen Papierstreifen, der zum Kügelchen zusammengeknittert war, aufgehoben, ohne daß Dronting merkte, daß Harst zweimal absichtlich sein Taschenmesser fallen ließ. Derartige kleine »Scherze« gehörten mit zu unserer Kunst. – Als Harald mir dies erzählte – er nagelte gerade die letzte Wolldecke an – schmunzelte er und sagte noch: »Der gute Dronting wird sich wundern, welche Lösung der Fall Plemborn findet! Und – Du wirst Dich sofort noch mehr wundern, mein Alter!« –
+Die *drei* Zettel –! Denn Brice hatte auch »die Rendezvous-Bestellung« – »verloren«, und Harst hatte auch diesen Papierstreifen, der zum Kügelchen zusammengeknittert war, aufgehoben, ohne daß Dronting merkte, daß Harst zweimal absichtlich sein Taschenmesser fallen ließ. Derartige kleine »Scherze« gehörten mit zu unserer Kunst. – Als Harald mir dies erzählte – er nagelte gerade die letzte Wolldecke an – schmunzelte er und sagte noch: »Der gute Dronting wird sich wundern, welche Lösung der Fall Plemborn findet! Und – Du wirst Dich sofort noch mehr wundern, mein Alter!« –
 
-Auf dem Papierstreifen (er war 15 Zentimeter lang und 4 Zentimeter breit) standen nur folgende Sätze:
+Auf dem Papier*streifen* (er war 15 Zentimeter lang und 4 Zentimeter breit) standen nur folgende Sätze:
 
-»Erwarte Dich 11 Uhr an der bekannten Stelle. Sei pünktlich. Ich sehne mich nach Dir unsäglich.«
+> »Erwarte Dich 11 Uhr an der bekannten Stelle. Sei pünktlich. Ich sehne mich nach Dir unsäglich.«
 
 Die Handschrift war genau wie die der beiden Gedichte (sie hatten je zwei Verse zu sechs Zeilen) unzweifelhaft die Lord Plemborns. Eine Fälschung der sehr charakteristischen, oft kaum lesbaren Buchstaben wäre Lady Janes von Eifersucht geschärften Augen kaum entgangen.
 
@@ -685,7 +685,7 @@ Das, was wir so aus den Kopien lesen konnten, deutete darauf hin, daß die Gedic
 
 Ich hatte bisher keine Frage gestellt. Jetzt aber bat ich Harald, mir zu erklären, was diese Entdeckung bedeute.
 
-»Nun – sie ist der Beweis, daß es sich hier um – die Rache eines Weibes handelt, die zu Plemborn einst in nahen Beziehungen stand. Das Weib ist – jene »Rosa«, die uns morgens verfolgte. Als ich sie gewahrte, als ich auf sie aufmerksam wurde, als Brice die »Wische« wegwarf, damit wir sie nicht näher untersuchen könnten, als er mir vorher die Papierkugel so frech aus der Tasche zog – oh, ich könnte diese Verdachtsmomente noch verdreifachen! –, da sah ich endlich klar.«
+»Nun – sie ist der Beweis, daß es sich hier um – die Rache eines Weibes handelt, die zu Plemborn einst in nahen Beziehungen stand. Das Weib ist – jene »Rosa«, die uns morgens verfolgte. Als ich sie gewahrte, als ich auf sie aufmerksam wurde, als Brice die »Wische« wegwarf, damit *wir* sie nicht näher untersuchen könnten, als er mir vorher die Papierkugel so frech aus der Tasche zog – oh, ich könnte diese Verdachtsmomente noch verdreifachen! –, da sah ich endlich klar.«
 
 »Brice steckt also mit dem Weibe unter einer Decke?«
 
@@ -695,7 +695,7 @@ Ich hatte bisher keine Frage gestellt. Jetzt aber bat ich Harald, mir zu erklär
 
 »Ganz recht. Doktor Ottmar Orstra spielt Brice. Und er spielt ihn vorzüglich – bis auf kleine Fehler!«
 
-»Himmel – der Gedanke wäre mir nie gekommen!«
+»Himmel – *der* Gedanke wäre mir nie gekommen!«
 
 »Mir kam er auch erst in dem Augenblick, als Brice mir die Papierkugel wegnahm und dann schleunigst den Hausflur verlassen wollte. – Läute jetzt mal nach dem Stubenmädchen. Sie soll uns Frau Merten heraufschicken, und diese soll uns den Lord herbeirufen.« –
 
@@ -749,9 +749,9 @@ Harald nahm das Schreiben, dankte Frau Merten und schnitt den Umschlag auf, nach
 
 Ein Zettel lag in dem Umschlag.
 
-»Verehrter Kollege! Ich habe Plemborns Versteck ermittelt. Kommen Sie sofort nach dem Häuschen des Steuermanns Sönnquist, Blygarden 16. Aber verkleidet. Ich erwarte Sie beide vor dem Häuschen. – Sehr in Eile.
+> »Verehrter Kollege! Ich habe Plemborns Versteck ermittelt. Kommen Sie sofort nach dem Häuschen des Steuermanns Sönnquist, Blygarden 16. Aber verkleidet. Ich erwarte Sie beide vor dem Häuschen. – Sehr in Eile.
 
-Brice.«
+> Brice.«
 
 Ich hatte mitgelesen.
 

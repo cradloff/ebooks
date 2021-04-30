@@ -10,73 +10,73 @@ Der Brief Master Albert Gloux’ liegt jetzt neben mir.
 
 Er ist zu weitschweifig, um ihn hier Wort für Wort wiedergeben zu können. Ich bringe ihn daher wesentlich gekürzt.
 
-Dahlen<@refnote 5/>, den 15. August 19…
+> Dahlen<@refnote 5/>, den 15. August 19…
 
-Hotel Dahlen, Zimmer 35.
+> Hotel Dahlen, Zimmer 35.
 
-Norwegen.
+> Norwegen.
 
-Sehr geehrter Herr!
+> Sehr geehrter Herr!
 
-Sie gestatten, daß ich Ihnen eine Angelegenheit vortrage, die selbst auf mich, den nüchternen, jeder Romantik und allem Abenteuerlichen abgeneigten Kaufmann, einen starken Eindruck gemacht hat.
+> Sie gestatten, daß ich Ihnen eine Angelegenheit vortrage, die selbst auf mich, den nüchternen, jeder Romantik und allem Abenteuerlichen abgeneigten Kaufmann, einen starken Eindruck gemacht hat.
 
-Ich bin Engländer und habe in London ein Getreidegeschäft, bin Junggeselle und verbringe seit zehn Jahren als leidenschaftlicher Angler in jedem Sommer sechs Wochen hier in Dahlen, wo die zahlreichen Bergbäche mit ihren Forellen mir die Ausübung der Forellenangelei gestatten.
+> Ich bin Engländer und habe in London ein Getreidegeschäft, bin Junggeselle und verbringe seit zehn Jahren als leidenschaftlicher Angler in jedem Sommer sechs Wochen hier in Dahlen, wo die zahlreichen Bergbäche mit ihren Forellen mir die Ausübung der Forellenangelei gestatten.
 
-Vor vierzehn Tagen etwa stieg nun hier im Hotel Dahlen eine junge Dame ab, deren eigenartige Schönheit wohl auf jeden gewirkt hätte. Sie wurde meine Tischnachbarin, diese Miß Beßport. Sie war Deutschamerikanerin und Malerin.
+> Vor vierzehn Tagen etwa stieg nun hier im Hotel Dahlen eine junge Dame ab, deren eigenartige Schönheit wohl auf jeden gewirkt hätte. Sie wurde meine Tischnachbarin, diese Miß Beßport. Sie war Deutschamerikanerin und Malerin.
 
-Außerdem wohnte hier zur selben Zeit eine Frau Nora Flamborg aus Kopenhagen. Sie war kränklich, sollte Bergluft und frische Kuhmilch genießen und faulenzen.
+> Außerdem wohnte hier zur selben Zeit eine Frau Nora Flamborg aus Kopenhagen. Sie war kränklich, sollte Bergluft und frische Kuhmilch genießen und faulenzen.
 
-Diese Frau Flamborg hatte eine Gesellschafterin mit, eine geborene Hamburgerin, ein bescheidenes, hübsches Mädchen. Sie hieß Alice Darhagen. –
+> Diese Frau Flamborg hatte eine Gesellschafterin mit, eine geborene Hamburgerin, ein bescheidenes, hübsches Mädchen. Sie hieß Alice Darhagen. –
 
-Am 10. August morgens acht Uhr gab es hier im Hotel einen wilden Tumult. Frau Nora Flamborg kreischte derart in ihrem Schlafzimmer, daß das ganze Hotel zusammenlief.
+> Am 10. August morgens acht Uhr gab es hier im Hotel einen wilden Tumult. Frau Nora Flamborg kreischte derart in ihrem Schlafzimmer, daß das ganze Hotel zusammenlief.
 
-Frau Flamborg waren nachts aus dem verschlossenen Zimmer sämtliche Juwelen gestohlen worden, Wert 400&nbsp;000 Kronen.
+> Frau Flamborg waren nachts aus dem verschlossenen Zimmer sämtliche Juwelen gestohlen worden, Wert 400&nbsp;000 Kronen.
 
-Ein zufällig im Hotel anwesender Polizeibeamter aus Christiania, ein Herr Lövgaart, spielte nun den superschlauen Detektiv und untersuchte die Sache, stellte fest, daß der Dieb eine Scheibe eingedrückt hatte und in das Schlafzimmer durch das Fenster eingestiegen war. Das Hotel hat nur ein Stockwerk und ist ein langgestreckter Holzbau. Nr. 24, das Schlafzimmer der Flamborg, lag im ersten Stock nach dem Garten hinaus.
+> Ein zufällig im Hotel anwesender Polizeibeamter aus Christiania, ein Herr Lövgaart, spielte nun den superschlauen Detektiv und untersuchte die Sache, stellte fest, daß der Dieb eine Scheibe eingedrückt hatte und in das Schlafzimmer durch das Fenster eingestiegen war. Das Hotel hat nur ein Stockwerk und ist ein langgestreckter Holzbau. Nr. 24, das Schlafzimmer der Flamborg, lag im ersten Stock nach dem Garten hinaus.
 
-Inzwischen war auch offenbar geworden, daß Alice Darhagen, die Gesellschafterin, das Hotel vor Tagesanbruch heimlich verlassen hatte. Man suchte nach ihr, fand sie aber nicht.
+> Inzwischen war auch offenbar geworden, daß Alice Darhagen, die Gesellschafterin, das Hotel vor Tagesanbruch heimlich verlassen hatte. Man suchte nach ihr, fand sie aber nicht.
 
-Wer Dahlen, dieses abgelegene Dorf in Telemarken, kennt, weiß, daß man es nur auf zwei Wegen verlassen kann. Entweder über die Bergstraße nach Norden zu, nach Odda am Hardangerfjord, oder nach Süden über die Bergseen nach Skien. Die anderen armseligen Straßen führen mitten ins Gebirge.
+> Wer Dahlen, dieses abgelegene Dorf in Telemarken, kennt, weiß, daß man es nur auf zwei Wegen verlassen kann. Entweder über die Bergstraße nach Norden zu, nach Odda am Hardangerfjord, oder nach Süden über die Bergseen nach Skien. Die anderen armseligen Straßen führen mitten ins Gebirge.
 
-Alice Darhagen konnte, falls sie die Diebin gewesen, was die Flamborg und auch Herr Lövgaart als gewiß ansahen, nur einen der beiden Wege zur Flucht benutzt haben. Doch: dies schien wieder ausgeschlossen, da nach Süden kein Dampfer und nach Norden kein Personenauto abgegangen war. Und zu Fuß war eine Flucht unmöglich.
+> Alice Darhagen konnte, falls sie die Diebin gewesen, was die Flamborg und auch Herr Lövgaart als gewiß ansahen, nur einen der beiden Wege zur Flucht benutzt haben. Doch: dies schien wieder ausgeschlossen, da nach Süden kein Dampfer und nach Norden kein Personenauto abgegangen war. Und zu Fuß war eine Flucht unmöglich.
 
-Herr Lövgaart ließ die ganze Umgegend absuchen, ließ in jedem Bauerngehöft nachfragen. Das Mädchen und die Juwelen blieben verschwunden.
+> Herr Lövgaart ließ die ganze Umgegend absuchen, ließ in jedem Bauerngehöft nachfragen. Das Mädchen und die Juwelen blieben verschwunden.
 
-Drei Tage später – mittlerweile war ein »echter« Detektiv aus Christiania eingetroffen, ein Herr Asbörn Prang, der erst recht nichts ausrichtete – wanderte ich frühmorgens wieder in die Berge, um zu angeln. Nach einstündigem Marsch erreichte ich ein enges Tal und stellte mich zwischen zwei Felsen mitten in den Bach auf einen großen Stein. Mit einem Male erblickte ich die Malerin Miß Beßport, die dasselbe Tal am rechten Bachufer hochkam. Sie schritt sehr rüstig aus, schaute sich aber immer wieder um und ließ mich daher vermuten, daß sie nicht gern beobachtet werden wollte.
+> Drei Tage später – mittlerweile war ein »echter« Detektiv aus Christiania eingetroffen, ein Herr Asbörn Prang, der erst recht nichts ausrichtete – wanderte ich frühmorgens wieder in die Berge, um zu angeln. Nach einstündigem Marsch erreichte ich ein enges Tal und stellte mich zwischen zwei Felsen mitten in den Bach auf einen großen Stein. Mit einem Male erblickte ich die Malerin Miß Beßport, die dasselbe Tal am rechten Bachufer hochkam. Sie schritt sehr rüstig aus, schaute sich aber immer wieder um und ließ mich daher vermuten, daß sie nicht gern beobachtet werden wollte.
 
-Sie trug auf dem Rücken in einer Art Gestell ihren Malkasten und zwei bespannte Leinwandrahmen, in der Linken die zusammengeklappte Staffelei und in der Rechten einen Bergstock.
+> Sie trug auf dem Rücken in einer Art Gestell ihren Malkasten und zwei bespannte Leinwandrahmen, in der Linken die zusammengeklappte Staffelei und in der Rechten einen Bergstock.
 
-Nachdem sie eine steile Wand erklommen hatte, befand sie sich auf einer mit Büschen bestandenen, schmalen Felsterrasse. Hier machte sie halt, zog ihr Fernglas aus dem Futteral und musterte jeden Baum, jeden Strauch des Tales. Dann geschah etwas noch Merkwürdigeres: sie verschwand hinter einem Strauche und blieb dort stehen – vielleicht eine Viertelstunde – völlig regungslos. Nur ihr Fernglas führte sie hin und wieder an die Augen.
+> Nachdem sie eine steile Wand erklommen hatte, befand sie sich auf einer mit Büschen bestandenen, schmalen Felsterrasse. Hier machte sie halt, zog ihr Fernglas aus dem Futteral und musterte jeden Baum, jeden Strauch des Tales. Dann geschah etwas noch Merkwürdigeres: sie verschwand hinter einem Strauche und blieb dort stehen – vielleicht eine Viertelstunde – völlig regungslos. Nur ihr Fernglas führte sie hin und wieder an die Augen.
 
-All das war seltsam und unerklärlich. Sie werden das zugeben müssen, Herr Harst.
+> All das war seltsam und unerklärlich. Sie werden das zugeben müssen, Herr Harst.
 
-Und dann – vielleicht das noch Seltsamere: ich konnte von meinem Versteck hinter den Felsen im Bache durch eine schmale Lücke in den Sträuchern beobachten, wie Miß Beßport nun aus den beiden Holzrahmen die Leinwand (nachher sah ich, daß es fertige Bilder waren) herausschnitt und mit den beiden Leinwandstücken der Rückwand der Terrasse tief gebückt zueilte, wo sie dann durch Buschwerk meinen Blicken entzogen wurde.
+> Und dann – vielleicht das noch Seltsamere: ich konnte von meinem Versteck hinter den Felsen im Bache durch eine schmale Lücke in den Sträuchern beobachten, wie Miß Beßport nun aus den beiden Holzrahmen die Leinwand (nachher sah ich, daß es fertige Bilder waren) herausschnitt und mit den beiden Leinwandstücken der Rückwand der Terrasse tief gebückt zueilte, wo sie dann durch Buschwerk meinen Blicken entzogen wurde.
 
-Nach einer halben Stunde tauchte sie ohne die Leinwandstücke (Bilder) wieder auf. Dann machte sie sich auf den Rückweg.
+> Nach einer halben Stunde tauchte sie *ohne* die Leinwandstücke (Bilder) wieder auf. Dann machte sie sich auf den Rückweg.
 
-Es war jetzt elf Uhr vormittags. Ich wartete bis zwölf Uhr. Dann tat ich etwas, das so gar nicht meiner nüchternen Veranlagung entspricht.
+> Es war jetzt elf Uhr vormittags. Ich wartete bis zwölf Uhr. Dann tat ich etwas, das so gar nicht meiner nüchternen Veranlagung entspricht.
 
-Sie werden bereits ahnen, was ich tat, Herr Harst: ich erkletterte dieselbe Terrasse, suchte die Spuren Miß Beßports (niedergetretene Halme) und pfuschte Ihnen sozusagen ins Handwerk. (Hier beschreibt Mr. Albert Gloux sehr genau, wie er in der Rückwand der Felsterrasse hinter dem Buschwerk eine kleine Grotte entdeckte).
+> Sie werden bereits ahnen, was ich tat, Herr Harst: ich erkletterte dieselbe Terrasse, suchte die Spuren Miß Beßports (niedergetretene Halme) und pfuschte Ihnen sozusagen ins Handwerk. (Hier beschreibt Mr. Albert Gloux sehr genau, wie er in der Rückwand der Felsterrasse hinter dem Buschwerk eine kleine Grotte entdeckte).
 
-Diese Grotte ist nur etwa acht Meter tief und etwa drei Meter breit. Der Eingang genügt, einen Menschen hindurchzulassen. In der Höhle war es recht hell. Zwei Spalten ziehen sich wie Kamine durch das Gestein nach oben und spenden Oberlicht. Ich brauchte kein Streichholz anzuzünden, konnte die Grotte ganz genau durchforschen und fand so ganz hinten hinter einem flachen, großen Stein – Sie werden schon erraten haben, was – die beiden Bilder!
+> Diese Grotte ist nur etwa acht Meter tief und etwa drei Meter breit. Der Eingang genügt, einen Menschen hindurchzulassen. In der Höhle war es recht hell. Zwei Spalten ziehen sich wie Kamine durch das Gestein nach oben und spenden Oberlicht. Ich brauchte kein Streichholz anzuzünden, konnte die Grotte ganz genau durchforschen und fand so ganz hinten hinter einem flachen, großen Stein – Sie werden schon erraten haben, was – die beiden Bilder!
 
-Ja – zwei fertige Ölgemälde, Größe 35 mal 70 Zentimeter; zwei schäumende Gebirgsbäche, recht nett gemalt. Ich verstehe so einiges von Bildern. Ich wußte ja auch bereits, daß Miß Beßport mehr leistete als bloßen Dilettantenkitsch.
+> Ja – zwei fertige Ölgemälde, Größe 35 mal 70 Zentimeter; zwei schäumende Gebirgsbäche, recht nett gemalt. Ich verstehe so einiges von Bildern. Ich wußte ja auch bereits, daß Miß Beßport mehr leistete als bloßen Dilettantenkitsch.
 
-Nur eins hat mich an ihrer Malmanier gestört: sie trägt die Farben zu dick auf! Stellenweise sind ihre Bilder die reinen Reliefs. –
+> Nur eins hat mich an ihrer Malmanier gestört: sie trägt die Farben zu dick auf! Stellenweise sind ihre Bilder die reinen Reliefs. –
 
-Sie können sich mein Erstaunen vorstellen, Herr Harst! – Weshalb hatte Miß Beßport die Bilder hier versteckt?! Weshalb war sie so ängstlich besorgt, daß sie ja nicht gesehen würde?!
+> Sie können sich mein Erstaunen vorstellen, Herr Harst! – Weshalb hatte Miß Beßport die Bilder hier versteckt?! Weshalb war sie so ängstlich besorgt, daß sie ja nicht gesehen würde?!
 
-Ich ließ die Bilder, wo sie waren, und begab mich wieder zu meiner Angelstelle zurück. Erst nachmittags gegen sechs Uhr traf ich wieder im Hotel ein.
+> Ich ließ die Bilder, wo sie waren, und begab mich wieder zu meiner Angelstelle zurück. Erst nachmittags gegen sechs Uhr traf ich wieder im Hotel ein.
 
-Am anderen Morgen sagte Miß Beßport zu mir, sie habe einen Brief von einer Freundin erhalten, die in Stockholm eingetroffen sei. Sie wolle mit dem Dampfer, der Dahlen um 10 Uhr vormittags verläßt, abreisen.
+> Am anderen Morgen sagte Miß Beßport zu mir, sie habe einen Brief von einer Freundin erhalten, die in Stockholm eingetroffen sei. Sie wolle mit dem Dampfer, der Dahlen um 10 Uhr vormittags verläßt, abreisen.
 
-Sie reiste auch ab. – Auch Frau Nora Flamborg verließ dann Dahlen am nächsten Tage – ohne ihre Juwelen. Der Detektiv Asbörn Prang ist noch hier und sucht noch immer nach Alice Darhagen.
+> Sie reiste auch ab. – Auch Frau Nora Flamborg verließ dann Dahlen am nächsten Tage – ohne ihre Juwelen. Der Detektiv Asbörn Prang ist noch hier und sucht noch immer nach Alice Darhagen.
 
-Ich selbst bleibe noch bis zum 1. September. Sollten Sie Lust haben, Herr Harst, sich von mir die Grotte und die Gemälde zeigen zu lassen, so kommen Sie her.
+> Ich selbst bleibe noch bis zum 1. September. Sollten Sie Lust haben, Herr Harst, sich von mir die Grotte und die Gemälde zeigen zu lassen, so kommen Sie her.
 
-Ihr ergebener
+> Ihr ergebener
 
-Albert Gloux.
+> Albert Gloux.
 
 Als auch ich diesen Brief gelesen hatte – wir saßen beim Frühstück unter dem Sonnensegel auf dem Achterdeck der Miramare – und ihn Harald zurückreichte, sagte ich:
 
@@ -120,15 +120,15 @@ Harst durchsuchte die Zeitung.
 
 »Ah – hier haben wir’s. Eine Annonce – Riesenformat!«
 
-25&nbsp;000 Kronen Belohnung!
+> 25&nbsp;000 Kronen Belohnung!
 
-In der Nacht vom 9. zum 10. August ist aus dem Hotel Dahlen die 21 jährige, unverehelichte deutsche Staatsangehörige Alice Darhagen verschwunden. In derselben Nacht wurden Frau Nora Flamborg im Hotel Dahlen Juwelen im Werte von 400&nbsp;000 Kronen gestohlen. Da sich der Verdacht, den Diebstahl begangen zu haben, auf Alice Darhagen, die Gesellschafterin der Frau Flamborg, lenkte und dieser Verdacht noch besteht, setzen wir, die Endesunterzeichneten, obige Belohnung für zweckdienliche Nachrichten über den Verbleib des jungen Mädchens aus. – Nachricht erbeten an
+> In der Nacht vom 9. zum 10. August ist aus dem Hotel Dahlen die 21 jährige, unverehelichte deutsche Staatsangehörige Alice Darhagen verschwunden. In derselben Nacht wurden Frau Nora Flamborg im Hotel Dahlen Juwelen im Werte von 400&nbsp;000 Kronen gestohlen. Da sich der Verdacht, den Diebstahl begangen zu haben, auf Alice Darhagen, die Gesellschafterin der Frau Flamborg, lenkte und dieser Verdacht noch besteht, setzen wir, die Endesunterzeichneten, obige Belohnung für zweckdienliche Nachrichten über den Verbleib des jungen Mädchens aus. – Nachricht erbeten an
 
-Rechnungsrat Emil Darhagen, Hamburg,
-Schmale Gasse 16,
+> Rechnungsrat Emil Darhagen, Hamburg,
+> Schmale Gasse 16,
 
-oder an Dr. Manfred Bruckner,
-zur Zeit Dahlen, Norwegen, Hotel Dahlen.
+> oder an Dr. Manfred Bruckner,
+> zur Zeit Dahlen, Norwegen, Hotel Dahlen.
 
 »Also der Vater und der Bräutigam, nehme ich an,« sagte Harald sinnend und legte das Blatt weg.
 
@@ -162,11 +162,11 @@ Er trug Harst dann seine Bitte vor, die dahin ging, daß Harald das Verschwinden
 
 Es war eine feste, klare Schrift. Sie hatte sogar fast etwas zu Energisches an sich. Der Brief lautete:
 
-Christiania, den 15. 8. 19…
+> Christiania, den 15. 8. 19…
 
-Sehr geehrter Herr!
+> Sehr geehrter Herr!
 
-Ich fühle mich verpflichtet, Ihnen zu machen eine Mitteilung über Ihre Tochter Alice, mit der ich bin gewesen beisammen in das Hotel Dahlen. Ich wundere mich selbst, daß mir nicht sein eingefallen diese Beobachtung schon in Dahlen gleich nach den Diebstahl. Am 9. August abends ich stand an meine Zimmerfenster, als ich sah Frau in Lodenkostüm gehen aus die Hotel hinunter zu den See durch das Dorf. Wirklich, ich wundere mich sehr, daß mir erst heute kommt in den Sinn, daß diese Frau kann sein gewesen Fräulein Alice. Aber damals ich habe geachtet so wenig auf diese Frau, daß ich nicht eher dachte an Miß Alice bis heute, denn die Detektivs in Dahlen immer nur fragten nach Alice, die sollte haben verlassen das Hotel spät nachts nach den Diebstahl. – Ich reise jetzt nach Stockholm und von da mit meiner Freundin Frau Drywater nach Deutschland. Ich werde zu Anfang September sein in Hamburg und mir erlauben vorzusprechen bei Ihnen, sehr geehrter Herr. – Helen Beßport.
+> Ich fühle mich verpflichtet, Ihnen zu machen eine Mitteilung über Ihre Tochter Alice, mit der ich bin gewesen beisammen in das Hotel Dahlen. Ich wundere mich selbst, daß mir nicht sein eingefallen diese Beobachtung schon in Dahlen gleich nach den Diebstahl. Am 9. August abends ich stand an meine Zimmerfenster, als ich sah Frau in Lodenkostüm gehen aus die Hotel hinunter zu den See durch das Dorf. Wirklich, ich wundere mich sehr, daß mir erst heute kommt in den Sinn, daß diese Frau kann sein gewesen Fräulein Alice. Aber damals ich habe geachtet so wenig auf diese Frau, daß ich nicht eher dachte an Miß Alice bis heute, denn die Detektivs in Dahlen immer nur fragten nach Alice, die sollte haben verlassen das Hotel spät nachts nach den Diebstahl. – Ich reise jetzt nach Stockholm und von da mit meiner Freundin Frau Drywater nach Deutschland. Ich werde zu Anfang September sein in Hamburg und mir erlauben vorzusprechen bei Ihnen, sehr geehrter Herr. – Helen Beßport.
 
 Harald gab Doktor Bruckner den Brief zurück.
 
@@ -250,7 +250,7 @@ Harald riegelte die Tür ab und wir nahmen Platz.
 
 Als Harald das Zimmer verlassen hatte, flüsterte der Forellenfex vertraulich:
 
-»Ihr Freund mag ja ein Genie sein! Aber das errät er nicht!«
+»Ihr Freund mag ja ein Genie sein! Aber *das* errät er nicht!«
 
 Nach zehn Minnten war Harst zurück. Er hatte natürlich Dalströms Depesche abgeholt.
 
@@ -332,7 +332,7 @@ Harst kam an den Tisch und nahm eine Zigarette, brannte sie an und legte Dalstr�
 
 Ich las folgendes:
 
-»Die beiden Bücher sind bereits nach Deutschland unterwegs. Ich fand sie hier bei Hot. Bargen, Havensgatan 58. Beides schon ältere Exemplare. Gruß Dalström.«
+> »Die beiden Bücher sind bereits nach Deutschland unterwegs. Ich fand sie hier bei Hot. Bargen, Havensgatan 58. Beides schon ältere Exemplare. Gruß Dalström.«
 
 »Hm,« meinte ich, »also wohnten Miß Beßport und Frau Drywater im Hotel Bargen. Es waren jedoch zwei ältere Damen. Und die Beßport, die echte Beßport, soll noch jung und von eigenartiger Schönheit sein.«
 
@@ -354,7 +354,7 @@ Er faßte in die Tasche und legte eine Nummer der Christiania-Post vor mich hin.
 
 Ich will aus dem Aufsatz nur das Wichtigste anführen.
 
-»Die Fensterscheibe im Schlafzimmer der Bestohlenen war von innen eingedrückt. Das Seifenpflaster auf der Scheibe saß freilich außen. Der, der die Scheibe eindrückte, stand jedoch im Zimmer. Da Frau Flamborg nun ihre Tür verriegelt und sogar noch einen Stuhl davor gerückt hatte, kann nur die Gesellschafterin den Diebstahl auf die Weise begangen haben, daß sie Frau Flamborg, die abends stets ein Schlafpulver nahm, ein stärkeres Pulver unterschob, welches so kräftig wirkte, daß die unter dem Bett verborgene Alice D. nachher in aller Ruhe die Scheibe eindrücken konnte und so den Anschein erweckte oder erwecken wollte, es sei jemand von draußen eingedrungen.«
+> »Die Fensterscheibe im Schlafzimmer der Bestohlenen war von innen eingedrückt. Das Seifenpflaster auf der Scheibe saß freilich außen. Der, der die Scheibe eindrückte, stand jedoch im Zimmer. Da Frau Flamborg nun ihre Tür verriegelt und sogar noch einen Stuhl davor gerückt hatte, kann nur die Gesellschafterin den Diebstahl auf die Weise begangen haben, daß sie Frau Flamborg, die abends stets ein Schlafpulver nahm, ein stärkeres Pulver unterschob, welches so kräftig wirkte, daß die unter dem Bett verborgene Alice D. nachher in aller Ruhe die Scheibe eindrücken konnte und so den Anschein erweckte oder erwecken wollte, es sei jemand von draußen eingedrungen.«
 
 Ich ließ das Blatt sinken. Und Harald sagte:
 
@@ -436,7 +436,7 @@ Ganz unvermittelt sagte Harald dann:
 
 »Ah – Hypnose –!«
 
-»– macht, kann die Beßport zu dem schändlichen Mittel gegriffen haben, durch einen Komplicen irgendwo und irgendwie eine – Verlobungsanzeige drucken zu lassen, das heißt, Doktor Bruckners Verlobungsanzeige mit irgend einer anderen Dame! Solche Anzeigen schickt man offen als Drucksachen, mein Alter. Und der Brief, den das Stubenmädchen Igne Bröm gelesen, war offen!«
+»– macht, kann die Beßport zu dem schändlichen Mittel gegriffen haben, durch einen Komplicen irgendwo und irgendwie eine – Verlobungsanzeige drucken zu lassen, das heißt, Doktor Bruckners Verlobungsanzeige mit irgend einer anderen Dame! Solche Anzeigen schickt man *offen* als Drucksachen, mein Alter. Und der Brief, den das Stubenmädchen Igne Bröm gelesen, war offen!«
 
 Ich schwieg. Diese Geschichte war mir zu phantastisch.
 
@@ -466,7 +466,7 @@ Mit einem Schlage erschien mir diese Theorie jetzt gar nicht mehr so sehr phanta
 
 »Inwiefern?«
 
-»Das wirst Du mit eigenen Augen sehen! – Wenn Du meine Theorie nachprüfst und noch die zweite starke seelische Erschütterung für Alice an jenem Abend in Betracht ziehst, nämlich die Ohrfeige, dann mußt Du zum mindesten bestätigen: alles kann so sein!«
+»Das wirst Du mit eigenen Augen sehen! – Wenn Du meine Theorie nachprüfst und noch die zweite starke seelische Erschütterung für Alice an jenem Abend in Betracht ziehst, nämlich die Ohrfeige, dann mußt Du zum mindesten bestätigen: alles *kann so* sein!«
 
 »Allerdings – es kann so sein!«
 
@@ -474,7 +474,7 @@ Mit einem Schlage erschien mir diese Theorie jetzt gar nicht mehr so sehr phanta
 
 »Donnerwetter!« entfuhr es mir. »Der Beweis genügt!«
 
-»Und dann der Franzose Delville mit dem Hohlspiegel. Wenn er auf dem Hoteldach Lichtsignale mit dem Spiegel gibt, müssen sie aus der Krone einer der Eichen droben zu sehen gewesen sein. Gloux betonte ja, daß die Eichen sichtbar seien. Die Signale galten der Beßport, die drüben in der Höhle jetzt hausen mag. Und – die Signale von heute mittag mögen der Beßport, besser Agna Orstra, unsere Ankunft gemeldet haben. Delville kann Ottmar Orstra sein – oder Baptiste!«
+»Und dann der Franzose Delville mit dem Hohlspiegel. Wenn er auf dem Hoteldach Lichtsignale mit dem Spiegel gibt, müssen sie aus der Krone einer der Eichen droben zu sehen gewesen sein. Gloux betonte ja, daß die Eichen sichtbar seien. Die Signale galten der Beßport, die drüben in der Höhle jetzt hausen mag. Und – die Signale von heute mittag mögen der Beßport, besser Agna Orstra, unsere Ankunft gemeldet haben. Delville *kann* Ottmar Orstra sein – oder Baptiste!«
 
 Er machte eine längere Pause, nahm das Fernrohr und schaute nach der Terrasse hinüber.
 
@@ -800,7 +800,7 @@ Liebesszenen, ein Wiedersehen und Wiederfinden zwischen zwei Liebenden, zu schil
 
 Alice Darhagen hatte viel gelitten. Die Seligkeit dieses einen Augenblicks, da Bruckner sie jubelnd an sich zog, machte alles Leid gegenstandslos.
 
-– – – – – – – –
+* * *
 
 Das ist die Schreckensnacht im Hotel Dahlen.
 
@@ -812,5 +812,5 @@ Diesen Band schließe ich mit der Bemerkung, daß Mr. Albert Gloux nach wie vor 
 
 Nächster Band:
 
-Die Leiche im Gletschertunnel.
+__Die Leiche im Gletschertunnel.__
 
