@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">9bdcbbee-ac39-11eb-83c3-2feda1ba6398</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Anita Armands Verhängnis</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">99</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Anita Armands Verhängnis.
+
+»Ich hätte Lust, wieder einmal ein Varietee zu besuchen,« sagte Harald Harst zu mir am 25. Juni 1922 gegen halb acht abends. »Es gibt nichts, was für die Nerven so wohltuend ist, wie ein Varieteeprogramm mit seiner grotesken Abwechselung,« fügte er hinzu und nahm die Abendzeitung zur Hand. »Gehen wir in die Skala. Hier ist die Anzeige. Zwölf Nummern: Springphänomen Balfa Balla, Hasemanns dressierte Haustiere, Bull und Bibb, musikalische Klowns – und so weiter.«
+
+Ich hatte so den festen Argwohn, daß dieser Varieteebesuch kein bloßer Zufall, kein Entschluß, gegeben aus irgend einer besonderen Stimmung Haralds, sein dürfte.
+
+»Du hast bei diesem Besuch einen Hintergedanken,« meinte ich forschend.
+
+Harst war schon aufgestanden und drückte die Zigarette im Aschbecher aus.
+
+»Ich habe nur ein fabelhaftes Personengedächtnis,« erwiderte er.
+
+Das Rätsel der Blumentöpfe.
+
+Es ist ein angenehmer Gegensatz, wenn man nach den häßlichen Dingen des letzten Kapitels des ersten Teiles, nach dieser Erörterung düsterer Geschehnisse, sich mit freundlich blühenden Blumen beschäftigen kann.
+
+Sie blühten auf dem himmelhohen, langen Mansardenbalkon der Frau Lenk, Blücherstraße 68.
+
+Sie blühten in 26 Töpfen in farbiger Pracht auf der Balkonbrüstung hinter eisernem Schutzgitter, damit nicht etwa ein Windstoß sie hinabfege als tödliches Geschoß.
+
+Es ging jemand an Nr. 68 vorüber, als wir etwa eine Stunde daheim waren und als Harald hinter den Vorhängen am Fenster stand und die Mietskaserne Nr. 68 uns gegenüber beobachtete.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (099) Anita Armands Verhängnis.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
