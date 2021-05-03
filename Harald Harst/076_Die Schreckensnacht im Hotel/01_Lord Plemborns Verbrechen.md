@@ -707,7 +707,7 @@ Plemborn wurde rot. »Ja, Herr Harst. – Wie haben Sie das erfahren?«
 
 Harald zeigte ihm erst die Kopien der drei Platten und dann die drei Zettel.
 
-»Haben Sie dies mal jener Agna beschrieben, ihr diese Gedichte gewidmet? Haben Sie diese Agna einst zu einem Rendezvous durch diese Zeilen bestellt?«
+»Haben Sie dies mal jener Agna geschrieben, ihr diese Gedichte gewidmet? Haben Sie diese Agna einst zu einem Rendezvous durch diese Zeilen bestellt?«
 
 »Ja – das stimmt!« – Plemborn war so verblüfft, daß er kaum sprechen konnte.
 
@@ -729,7 +729,7 @@ Plemborn griff sich an die Stirn. »Das – das ist doch unmöglich!« stammelte
 
 »Baptiste gehört mit zu den Verbrechern, Mylord. Nur er kann die präparierten Gedichte, die aus den Briefen an Agna Orstra stammen, ins Haus geschmuggelt haben; nur er hat Miß Evelyn den Papierstreifen kurz vor dem Morde finden lassen, damit Ihre Schwägerin dorthin eilte, wo Sie beiden wahrscheinlich schon einige Male sich getroffen hatten. Und er telegraphierte an Brice – angeblich!«
 
-»Und – und der Mörder?« forsche Plemborn entgeistert.
+»Und – und der Mörder?« forschte Plemborn entgeistert.
 
 »Entweder Ottmar Orstra oder einer seiner Helfershelfer!«
 
@@ -855,7 +855,7 @@ Wir banden sie los. Dronting schäumte vor Wut.
 
 »Oh – das kann ich sehr wohl! Mir war ähnlich zu Mute, als ich die Kisten in die Müllgrube warf!« –
 
-Die Beamtem, die Orstra und Baptiste hatten verfolgen sollen, kehrten zurück und meldeten, daß in der nächsten Querstraße ein von einer Dame gesteuertes Auto die Flüchtlinge aufgenommen hätte.
+Die Beamten, die Orstra und Baptiste hatten verfolgen sollen, kehrten zurück und meldeten, daß in der nächsten Querstraße ein von einer Dame gesteuertes Auto die Flüchtlinge aufgenommen hätte.
 
 »Dann können wir heimgehen,« meinte Harald. »Orstra wird anderswo zu finden sein. – Mylord, empfehlen Sie mich Ihrer Frau Gemahlin und – spielen Sie nie mehr!«
 

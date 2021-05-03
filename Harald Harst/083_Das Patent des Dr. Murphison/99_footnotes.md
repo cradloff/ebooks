@@ -1,9 +1,7 @@
 <h2>Anmerkungen:</h2>
 
-<h1>Das Patent des Dr. Murphison.</h1>
 <@footnote 1 "01_Das Patent des Dr. Murphison.md">In der Vorlage steht: »den«.</@footnote>
 <@footnote 2 "01_Das Patent des Dr. Murphison.md">In der Vorlage steht: »verschoß«.</@footnote>
-<h1>Der Kamelzüchter von Tallamara.</h1>
 <@footnote 3 "02_Der Kamelzüchter von Tallamara.md">»Dschamna-Brücke« / »Dschamnabrücke« – Beide Schreibweisen vorhanden. Einheitlich auf »Dschamna-Brücke« geändert.</@footnote>
 <@footnote 4 "02_Der Kamelzüchter von Tallamara.md">In der Vorlage steht: »Sambar-Salzsees«.</@footnote>
 <@footnote 5 "02_Der Kamelzüchter von Tallamara.md">In der Vorlage steht: »nch«.</@footnote>

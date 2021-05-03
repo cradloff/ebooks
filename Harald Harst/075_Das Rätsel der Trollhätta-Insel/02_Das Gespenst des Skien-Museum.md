@@ -36,7 +36,7 @@ Dronting erblickte uns und winkte von der Insel hinüber.
 
 Nach einer Weile rief er mir zu:
 
-»Arbang ist hier an Land gestiegen. Er hat sich verletzt gehabt. Wahrscheinlich die linke Hand. Sie hat starke geblutet. Hier sind verschiedene blutige, bereits angetrocknete Tropfen auf dem Gestein zu erkennen.«
+»Arbang ist hier an Land gestiegen. Er hat sich verletzt gehabt. Wahrscheinlich die linke Hand. Sie hat stark geblutet. Hier sind verschiedene blutige, bereits angetrocknete Tropfen auf dem Gestein zu erkennen.«
 
 Es gelang Harst dann, diese Fährte bis auf den nächsten Pfad zu verfolgen.
 
@@ -384,7 +384,7 @@ Dann zog Harald den Brief vom 8. Juni aus dem Umschlag hervor.
 
 Der Briefbogen war nur auf einer Seite beschrieben und zwar mit schwedischen Worten. – Ich setze dafür die entsprechenden deutschen:
 
-Nicht zögern machen Geschäft ein Sie uns einigen alles gefallen den sei auftaucht das daß schon ich zerstört es Fall auf verpackt muß das Koffer einen bringen Bahnhof abends 24. werde sofort kommen wollen Sache also sollten verzögert die gesorgt Gespenst habe reparaturbedürftig Zeit ist das Schwierigkeiten auf Ausführung zahlen Kronen Ihnen ich wollen Auftrag Sie.
+> Nicht zögern machen Geschäft ein Sie uns einigen alles gefallen den sei auftaucht das daß schon ich zerstört es Fall auf verpackt muß das Koffer einen bringen Bahnhof abends 24. werde sofort kommen wollen Sache also sollten verzögert die gesorgt Gespenst habe reparaturbedürftig Zeit ist das Schwierigkeiten auf Ausführung zahlen Kronen Ihnen ich wollen Auftrag Sie.
 
 Harald und ich lasen diesen Brief, bei dem die Worte offenbar umgestellt worden waren, gemeinsam.
 
@@ -412,7 +412,7 @@ Ich schaute ihn an. »Gestatte – meinst Du mich?«
 
 Ich tat es. Auch dieser Brief hatte weder Anrede, Ort, Datum noch Unterschrift.
 
-Sie also dabei gutes sollen mündlich wir weitere über Fjord in es Gerücht nachher dafür sorge werden gänzlich darf keinen werden sorgfältig Objekt mit großen Sie sein am Juni am ich Sie so erledigen die Sie wird Reparatur daß dafür als ich stark zur Objekt stoßen keine dürfte die zu 25&nbsp;000 bereit bin übernehmen den wenn.
+> Sie also dabei gutes sollen mündlich wir weitere über Fjord in es Gerücht nachher dafür sorge werden gänzlich darf keinen werden sorgfältig Objekt mit großen Sie sein am Juni am ich Sie so erledigen die Sie wird Reparatur daß dafür als ich stark zur Objekt stoßen keine dürfte die zu 25&nbsp;000 bereit bin übernehmen den wenn.
 
 »Na, mein Alter, was fällt Dir auf?« fragte Harald nun und lächelte dabei so seltsam. »Schwer – nicht wahr? Wenigstens scheint es so!«
 
@@ -789,7 +789,7 @@ Lingnörg nickte verstört.
 
 »Ja – ja! – Aber – aber – nun dieser Mord?!« Und er deutete erschauernd auf die Tote.
 
-»Ottmar Orstra ist derselbe Aarström oder Arbang, der in Trollhätta mir vor drei Tagen entging,« erklärte Harald. »Orstra wollte mich beseitigen lassen – im Zuge nach Christiania. Er hat gute Freunde, die ihm helfen; er ist vielleicht das Haupt einer Verbrecherbande, die in Göteborg ihren Sitz hat. Ich wurde in einen Fluß gestürzt – vom Dache eines Eisenbahnwagens herab. Ich wollte als tot gelten. Aber Orstra ahnte wohl, daß ich noch lebte, wußte, daß ich gegen Frau Marnö Verdacht schöpfen würde, fürchtete, daß diese, erst verhaftet, zuviel ausplaudern könnte. Deshalb kam er mit ihr hierher, ging scheinbar auf ihren Vorschlag ein, Sie zu ermorden, Herr Lingnörg, damit Ihr Geld den Verbrechern nötigenfalls die Flucht erleichterte. Ich habe die Marnö und Orstra heuten abend belauscht – dort im dritten Zimmer, dem Fremdenzimmer, – durch das Fenster! Ich hörte nicht alles. Nur das eine ganz deutlich: daß die Marnö »Es wird Zeit!« sagen sollte, wenn Orstra von draußen Sie erschießen sollte. Doch – die Kugel suchte ein anderes Ziel, bevor noch mein Zuruf den Mord verhindern konnte. Daß Orstra so schlau sein würde, durch dieses Zimmer zu entfliehen, ahnte ich nicht. Er ist mir entwischt.«
+»Ottmar Orstra ist derselbe Aarström oder Arbang, der in Trollhätta mir vor drei Tagen entging,« erklärte Harald. »Orstra wollte mich beseitigen lassen – im Zuge nach Christiania. Er hat gute Freunde, die ihm helfen; er ist vielleicht das Haupt einer Verbrecherbande, die in Göteborg ihren Sitz hat. Ich wurde in einen Fluß gestürzt – vom Dache eines Eisenbahnwagens herab. Ich wollte als tot gelten. Aber Orstra ahnte wohl, daß ich noch lebte, wußte, daß ich gegen Frau Marnö Verdacht schöpfen würde, fürchtete, daß diese, erst verhaftet, zuviel ausplaudern könnte. Deshalb kam er mit ihr hierher, ging scheinbar auf ihren Vorschlag ein, Sie zu ermorden, Herr Lingnörg, damit Ihr Geld den Verbrechern nötigenfalls die Flucht erleichterte. Ich habe die Marnö und Orstra heute abend belauscht – dort im dritten Zimmer, dem Fremdenzimmer, – durch das Fenster! Ich hörte nicht alles. Nur das eine ganz deutlich: daß die Marnö »Es wird Zeit!« sagen sollte, wenn Orstra von draußen Sie erschießen sollte. Doch – die Kugel suchte ein anderes Ziel, bevor noch mein Zuruf den Mord verhindern konnte. Daß Orstra so schlau sein würde, durch dieses Zimmer zu entfliehen, ahnte ich nicht. Er ist mir entwischt.«
 
 Lingnörg hatte die Hände vor das Gesicht gepreßt und – weinte.
 

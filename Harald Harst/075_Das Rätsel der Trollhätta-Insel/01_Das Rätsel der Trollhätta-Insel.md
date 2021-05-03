@@ -220,7 +220,7 @@ Dann gab er Gunlöv einen Wink, mit voller Kraft weiter zu fahren.
 
 Die Flößer schimpften hinter uns drein. Sie glaubten, wir wären abgebrüht genug, uns nicht mehr um den Verunglückten zu kümmern.
 
-Wir beide und Sörensen standen setzt neben dem Mittelaufbau, wo Gunlöv das Steuerrad bediente.
+Wir beide und Sörensen standen jetzt neben dem Mittelaufbau, wo Gunlöv das Steuerrad bediente.
 
 »Der Fremde ist nicht ertrunken,« sagte Harald. »Er ist unter die Stämme geschwommen, wo er zwischen den Hölzern Raum genug findet, den halben Kopf über Wasser zu bringen und zu atmen. – Gunlöv, erzählen Sie! Wie kam’s, daß Sie den Mann mitnahmen? Ich denke, er wird Ihnen vorgelogen haben, er wolle ebenfalls nach Göteborg. Er bot Ihnen beiden Geld, wenn Sie ihn heimlich die Fahrt mitmachen ließen.«
 
@@ -539,7 +539,7 @@ Dann sagte er, eine andere Art der Verteidigung wählend:
 
 »Ich weiß nicht, was Sie von mir wollen, weiß nicht mal, wer Sie sind. Ich gebe zu, daß ich unter falschem Namen hier aufgetreten bin. Das ist nicht weiter strafbar.«
 
-Harald lächelte ihn geringschätzig an. »Sie müssen Ihre Mätzchen endlich ganz aufgeben!« meinte er. »Sie sind derselbe Mensch, der uns auf der Motorsacht vergiften wollte. Ich habe einen Blick für Gesichter. Mich täuscht man nicht. Mit wem wollten Sie in Trollhätta sprechen?«
+Harald lächelte ihn geringschätzig an. »Sie müssen Ihre Mätzchen endlich ganz aufgeben!« meinte er. »Sie sind derselbe Mensch, der uns auf der Motorjacht vergiften wollte. Ich habe einen Blick für Gesichter. Mich täuscht man nicht. Mit wem wollten Sie in Trollhätta sprechen?«
 
 Der Kerl senkte den Kopf und schwieg.
 
@@ -689,7 +689,7 @@ Vor dem Hotel stand der Hoteldiener, der mir den Weg zu Aarströms Häuschen bes
 
 Ich sann nach. – Einen Toten –?! Wen – wen wohl?
 
-»Vielleicht Gunnar Bantjör,« fügte Harald dann hinzu. »Obwohl das nur eine Vermutung ist, die sich aus recht geringe Anhaltspunkte stützt. – Vielleicht auch – die Diamanten! Vielleicht auch – beide! Doch komm’ jetzt! Ich möchte mich schnell noch in Aarströms Häuschen umsehen.«
+»Vielleicht Gunnar Bantjör,« fügte Harald dann hinzu. »Obwohl das nur eine Vermutung ist, die sich auf recht geringe Anhaltspunkte stützt. – Vielleicht auch – die Diamanten! Vielleicht auch – beide! Doch komm’ jetzt! Ich möchte mich schnell noch in Aarströms Häuschen umsehen.«
 
 Wir huschten über die Straße. Die Pforte des morschen Holzzaunes des Vorgartens hing schief in den Angeln. Kastanien, eine Buche und dichte Fliederbüsche umgaben die baufällige Baracke.
 
@@ -765,7 +765,7 @@ Wir drückten die quadratische Falltür wieder zu, verließen das Haus.
 
 »Nach der Insel!« sagte Harald kurz. »Was die Hilferufe bedeuten, stellen wir später fest. Ich will die Schurken erst festnehmen –« –
 
-Der Weg nach dem Inselchen führt zwischen hohen Bretterzäunen entlang. – Der Regen hatte aufgehört. Die Hälfte des Himmels war jetzt wolkenfrei. Die Dunkelheit wich zusehends. – Wir hatten die entsicherten Pistolen in den Außentaschen; wir liefen, bogen um eine Ecke, prallten fast mit dem Inspektor zusammen – »Sie müssen dicht vor dem Brettersteg wachen, bester Dronting!« stieß Harald hervor. »Fragen Sie nichts – nachher erst!« – Wir eilten weiter. Das Toben der Fälle tat fast den Ohren weh. Wir kamen an den von Wassertropfen stets schlüpfrigen Steg, tasteten uns vorsichtig hinüber.
+Der Weg nach dem Inselchen führt zwischen hohen Bretterzäunen entlang. – Der Regen hatte aufgehört. Die Hälfte des Himmels war jetzt wolkenfrei. Die Dunkelheit wich zusehends. – Wir hatten die entsicherten Pistolen in den Außentaschen; wir liefen, bogen um eine Ecke, prallten fast mit dem Inspektor zusammen. – »Sie müssen dicht vor dem Brettersteg wachen, bester Dronting!« stieß Harald hervor. »Fragen Sie nichts – nachher erst!« – Wir eilten weiter. Das Toben der Fälle tat fast den Ohren weh. Wir kamen an den von Wassertropfen stets schlüpfrigen Steg, tasteten uns vorsichtig hinüber.
 
 Die Trollhätta-Insel ist keine dreißig Meter breit. Wir brauchten sie nur zu überqueren. An der Nordseite würden wir die beiden finden. – Durch nasses Gestrüpp, über Felsen, Steine ging’s hinweg.
 

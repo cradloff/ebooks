@@ -296,7 +296,7 @@ Gloux Mund blieb vor Staunen offen.
 
 »Ja – wozu tat er das wohl, Mr. Harst?«
 
-Harald antwortete nicht gleich. Dann fragte er.
+Harald antwortete nicht gleich. Dann fragte er:
 
 »Bemerkten Sie uns heute mittag, als wir uns dem Hotel näherten und es dann betraten?«
 
@@ -312,7 +312,7 @@ Harald antwortete nicht gleich. Dann fragte er.
 
 »Nein. Das würde auffallen.«
 
-»Wie Sie wollen,« Gloux’ Angaben über den Weg hätten jedem genügt.<@refnote 8/>
+»Wie Sie wollen.« Gloux’ Angaben über den Weg hätten jedem genügt.<@refnote 8/>
 
 <h2>3. Kapitel.</h2>
 
@@ -448,7 +448,7 @@ Wir hatten jetzt Mr. Gloux’ Beobachtungsstelle erreicht, krochen hinter den B�
 
 Drüben lag die buschreiche Terrasse; über ihr das kleine Eichenwäldchen. Wir waren am Ziel.
 
-Harald zog sein Fernrohr aus der Tasche, schob es auseinander und richtete es auf die Terrasse Die Entfernung bis drüben betrug etwa zweihundert Meter.
+Harald zog sein Fernrohr aus der Tasche, schob es auseinander und richtete es auf die Terrasse. Die Entfernung bis drüben betrug etwa zweihundert Meter.
 
 Wir hatten uns recht bequem auf den Bauch gelegt. Wir mußten damit rechnen, daß wir viele Stunden warten müßten. Vielleicht wurde die als Mann verkleidete Miß Beßport überhaupt nicht sichtbar.
 
@@ -566,7 +566,7 @@ Ein Mann – ein Felsstück schwingend.
 
 Es sauste herab, prasselte in die Büsche – dorthin, wo – wir uns nicht mehr befanden –!
 
-Es war ein Mann mit dunklem Spitzbart, – es mußten der Gestalt nach Baptiste sein –!
+Es war ein Mann mit dunklem Spitzbart, – es mußte der Gestalt nach Baptiste sein –!
 
 Wer war dieser Baptiste in Wahrheit? Wie hieß er? – Es sollte nie aufgeklärt werden – nie!
 
@@ -672,7 +672,7 @@ Als er davon sprach, daß Alice wahrscheinlich bei dem Bauer Kölding weile, spr
 
 »Ah!« machte Gloux. »Also deshalb die beiden Gemälde!«
 
-»Ja – deshalb! – Sie liegen hier vor uns – so, wie ich sie in der Höhle fand. Bevor wir die Steine nun zu Tage fördern – die weniger wertvollen Fassungen wird Agna Orstra anderswo versteckt haben, noch ein paar Worte über den Zweck von Agnas Erscheinen hier im Hotel Dahlen. – Das, was ich darüber jetzt ausführe, beruht lediglich auf Kombinationen. Der angeblickt Franzose Delville war Ottmar Orstra. Das steht fest. Er dürfte nun mittags nach unserer Ankunft seiner Schwester Agna oder aber jenem Baptiste, der seine Schandtaten bereits gebüßt hat und der mit Agna zusammen in der Grotte oder doch in der Nähe sich aufhielt, durch die Lichttelegraphie mitgeteilt haben, Agna solle sich jetzt ebenfalls hier im Hotel Dahlen einfinden, damit sie beide, Bruder und Schwester, gemeinsam einen Anschlag gegen uns vorbereiten könnten. Der Umstand, daß Agna Orstra sich gleichfalls hier ins Hotel wagte, beweist, daß die Verbrecher sich ganz sicher fühlten. Erst als Schraut und ich dann den Weg nach jenem Tale einschlugen und der verkleidete Ottmar Orstra erkannte, welchem Ziele wir zuwanderten, wird er eingesehen haben, daß wir mehr wußten, als er ahnte. Da war es für ihn aber bereits zu spät, Agna Gegenordre zu geben, damit sie das Hotel meide. So kam es, daß wir sie hier wirklich antrafen. Sie floh – floh auf sehr geschickte Weise. – Das wäre nun alles –«
+»Ja – deshalb! – Sie liegen hier vor uns – so, wie ich sie in der Höhle fand. Bevor wir die Steine nun zu Tage fördern – die weniger wertvollen Fassungen wird Agna Orstra anderswo versteckt haben, noch ein paar Worte über den Zweck von Agnas Erscheinen hier im Hotel Dahlen. – Das, was ich darüber jetzt ausführe, beruht lediglich auf Kombinationen. Der angebliche Franzose Delville war Ottmar Orstra. Das steht fest. Er dürfte nun mittags nach unserer Ankunft seiner Schwester Agna oder aber jenem Baptiste, der seine Schandtaten bereits gebüßt hat und der mit Agna zusammen in der Grotte oder doch in der Nähe sich aufhielt, durch die Lichttelegraphie mitgeteilt haben, Agna solle sich jetzt ebenfalls hier im Hotel Dahlen einfinden, damit sie beide, Bruder und Schwester, gemeinsam einen Anschlag gegen uns vorbereiten könnten. Der Umstand, daß Agna Orstra sich gleichfalls hier ins Hotel wagte, beweist, daß die Verbrecher sich ganz sicher fühlten. Erst als Schraut und ich dann den Weg nach jenem Tale einschlugen und der verkleidete Ottmar Orstra erkannte, welchem Ziele wir zuwanderten, wird er eingesehen haben, daß wir mehr wußten, als er ahnte. Da war es für ihn aber bereits zu spät, Agna Gegenordre zu geben, damit sie das Hotel meide. So kam es, daß wir sie hier wirklich antrafen. Sie floh – floh auf sehr geschickte Weise. – Das wäre nun alles –«
 
 Asbörn Prang verneigte sich gegen Harald. »Mr. Harst meine Hochachtung! Sie haben –«
 

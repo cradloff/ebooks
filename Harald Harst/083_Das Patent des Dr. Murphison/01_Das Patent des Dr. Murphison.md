@@ -254,7 +254,7 @@ Er hörte mich kommen.
 
 »Der Mensch ist verschwunden,« sagte er hastig. »Ich begreife das nicht. Als ich die Tür öffnen wollte und den Elefantenrüssel anhob, war sie wie festgemauert, rührte sich nicht. Dann ließ sie sich aufziehen. Ich bin soeben erst eingetreten. Ein Versteck gibt es hier nicht.«
 
-Auch ich ließ meine Lampe ausblitzen.
+Auch ich ließ meine Lampe aufblitzen.
 
 Nein – nicht ein einziges Möbelstück war hier vorhanden!
 
@@ -642,7 +642,7 @@ Nichts in dem kalten, unbeweglichen Gesicht des braunen Mannes verriet eine beso
 
 Da mischte sich Harst selbst ein.
 
-»Wann traf meinem Antwortdepesche auf das Telegramm Deines Herrn hier ein?« fragte er den Torwart.
+»Wann traf meine Antwortdepesche auf das Telegramm Deines Herrn hier ein?« fragte er den Torwart.
 
 Eine Antwortdepesche?! Harst hatte keine abgeschickt. Also war die Frage irgendein Fallstrick.
 
@@ -698,7 +698,7 @@ Wir vier hatten wieder in des Chemikers Arbeitszimmer Platz genommen.
 
 Das Telegramm lautete:
 
-> Der Verlust ist zu ersetzen, wenn Sie sofort nach Meerut kommen und dort auf dem Bahnhof das weiterabwarten, aber ohne Begleitung und unter Diskretion. A. Matschi.
+> Der Verlust ist zu ersetzen, wenn Sie sofort nach Meerut kommen und dort auf dem Bahnhof das weitere abwarten, aber ohne Begleitung und unter Diskretion. A. Matschi.
 
 »Ich glaubte natürlich,« erklärte Murphison, »daß der Dieb – denn A. Matschi, Amatschi heißt ja Dieb – mir die Zeichnungen zum Rückkauf anbieten würde. Ich war durch die beiden Attentate anderseits gewarnt und auf der Reise nach Meerut außerordentlich vorsichtig. Deshalb mag auch niemand sich an mich herangewagt haben. Jedenfalls näherte sich kein Mensch mir mit irgendeinem Anliegen, und ich fuhr heute mit dem Frühzuge zurück.«
 
@@ -712,7 +712,7 @@ Ganz vernichtet sank er auf seinen Stuhl zurück und stöhnte:
 
 »Mr. Harst, wenn es Ihnen nicht gelingt, mir die Patentzeichnungen wieder zu beschaffen, bin ich ein ruinierter Mann! Ich will ehrlich sein: ich habe Schulden – Wechselschulden! Man wird mir mein Haus verkaufen, wird –«
 
-»Beruhigen Sie sich, Mr. Murphison, « unterbrach Harald ihn. »Sie müssen nur etwas Geduld haben. Außerdem seien Sie weiter recht vorsichtig. Ich werde Greebrac schon erwischen. Aber – kein Wort zu Ihren Dienern über diesen Greebrac! Und – nehmen Sie Ihre Mahlzeiten nur dann ein, wenn Sie genau wissen, daß die Speisen« – er flüsterte – »nicht vergiftet sind. Fragen Sie nichts weiter. Sie hören von uns. Auf Wiedersehen.«
+»Beruhigen Sie sich, Mr. Murphison,« unterbrach Harald ihn. »Sie müssen nur etwas Geduld haben. Außerdem seien Sie weiter recht vorsichtig. Ich werde Greebrac schon erwischen. Aber – kein Wort zu Ihren Dienern über diesen Greebrac! Und – nehmen Sie Ihre Mahlzeiten nur dann ein, wenn Sie genau wissen, daß die Speisen« – er flüsterte – »nicht vergiftet sind. Fragen Sie nichts weiter. Sie hören von uns. Auf Wiedersehen.«
 
 Brown und wir beide fuhren wieder nach des Inspektors Wohnung.
 
@@ -730,9 +730,9 @@ Der uns zu sprechen verlangt hatte, war kein anderer als Philipp Murphison. Hars
 
 »Denken Sie, Mr. Harst, soeben habe ich die Zeichnungen zurückerhalten. Kommen Sie doch bitte sofort zu mir. Inspektor Brown habe ich bereits benachrichtigt. Er ist schon unterwegs zu mir. Ich freue mich, Ihnen als Dank für Ihre liebenswürdige Hilfsbereitschaft meinen drahtlosen Fernsprecher vorführen zu können. Die Erfindung wird Sie ja fraglos interessieren. Auf Wiedersehen also. Ich bin noch ganz aufgeregt vor Freude.«
 
-»Gut, Mr. Murphison, wir sind in zehn Minnten bei Ihnen.« – Harald legte den Hörer weg und fügte für mich leise hinzu: »Ja – er ist sehr aufgeregt. Das merkte ich an seiner Stimme!« Er sagte das mit ganz eigentümlicher Betonung.
+»Gut, Mr. Murphison, wir sind in zehn Minuten bei Ihnen.« – Harald legte den Hörer weg und fügte für mich leise hinzu: »Ja – er ist sehr aufgeregt. Das merkte ich an seiner Stimme!« Er sagte das mit ganz eigentümlicher Betonung.
 
-Dann durchblätterte er das Fernsprechteilnehmer-Verzeichnis und rief die Nummer 213 am Es war die Nummer der Polizeidirektion.
+Dann durchblätterte er das Fernsprechteilnehmer-Verzeichnis und rief die Nummer 213 an. Es war die Nummer der Polizeidirektion.
 
 »Du könntest unsere Mützen und unsere Neunschüssigen holen,« bat er mich.
 

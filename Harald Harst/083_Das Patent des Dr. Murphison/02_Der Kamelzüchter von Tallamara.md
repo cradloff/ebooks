@@ -22,7 +22,7 @@ Das Telephon auf dem Diplomatenschreibtisch am rechten Fenster läutet. Harst ei
 
 »Ich gebe Ihnen mein Wort, daß dies nicht geschehen ist und nicht geschehen wird. Mein Wort halte ich. Zum Beispiel versichere ich genau so fest, daß ich Sie beide binnen achtundvierzig Stunden in meiner Gewalt habe.«
 
-»Sie gestatten, daß ich auf Ihr Wort nicht allzu viel gebe, Greebrac. Immerhin: wo soll die Aushändigung der Zeichnungen und die Hingabe der fünf Millionen statte finden?«
+»Sie gestatten, daß ich auf Ihr Wort nicht allzu viel gebe, Greebrac. Immerhin: wo soll die Aushändigung der Zeichnungen und die Hingabe der fünf Millionen stattfinden?«
 
 »Heute nacht zwölf Uhr vor dem Kutab Minar im Ruinenfelde des alten Dehli. Sie beide dürfen jedoch nur allein kommen. Ich gebe Ihnen abermals mein Wort, daß ich mich dort nicht an Ihnen vergreifen werde. Ebensowenig dürfen Sie dort gegen mich vorgehen. Ich werde allein erscheinen.«
 
@@ -112,7 +112,7 @@ Harst hatte eine Handbewegung gemacht.
 
 »Danke, Mr. Olgerdyn. Nur wenn Lindsal den Wunsch geäußert haben sollte, mit mir –«
 
-»Das hat er nicht getan,« fiel Olgerdyn ihm eifrig ins Wort und erhob sich »Nun bin ich wieder zuversichtlicher, Mr. Harst. Auf Wiedersehen in Tallamara.«
+»Das hat er nicht getan,« fiel Olgerdyn ihm eifrig ins Wort und erhob sich. »Nun bin ich wieder zuversichtlicher, Mr. Harst. Auf Wiedersehen in Tallamara.«
 
 »Wo Sie überall erklären sollen, daß wir nicht erscheinen werden,« lächelte Harald. »Wir kommen natürlich inkognito.«
 
@@ -442,7 +442,9 @@ Greebrac schaute finster zu Boden. Seine Finger spielten mit einem Dolchmesser, 
 
 »Abgemacht also. Und unser Wort, daß wir erst dann zu entfliehen suchen, wenn Miß Olgerdyn gefunden worden ist.«
 
-»Hm – dann könnte ich Ihnen die Stahlfesseln wieder abnehmen –« »Das können Sie!«
+»Hm – dann könnte ich Ihnen die Stahlfesseln wieder abnehmen –«
+
+»Das können Sie!«
 
 Greebrac tat es.
 
@@ -584,7 +586,7 @@ Ich war baff. Ein Barbier? – Was sollte das?!
 
 »James Baac, Master. Er ist ein gebildeter Mann, hat viel von der Welt gesehen. (Eurasier sind Mischlinge zwischen Europäern und Indern, die zumeist recht hellhäutig sind.) Ich kann ihn nur empfehlen.«
 
-Ein Barbier tat uns not. Wir gingen als zu Mr. James Baac nach der Hauptstraße des Ortes.
+Ein Barbier tat uns not. Wir gingen also zu Mr. James Baac nach der Hauptstraße des Ortes.
 
 Ein zweistöckiges Haus aus Granitquadern sollte Baac gehören. Da war er leicht zu finden, denn es gab hier nur vier derartige »Wolkenkratzer« – für Tallamaras Höhenverhältnisse! –
 
@@ -710,7 +712,7 @@ Ich zog an der Schnur des einen Vorhangs. Mit leisem Rasseln glitten die Ringe d
 
 »Zeigen?«
 
-»Ja – nach einer Stunde. Wir werden uns zum Schein auf unsere Betten legen und dann, wenn im Hanse alles still geworden, eine Etage tiefer klettern – zu James Borc.«
+»Ja – nach einer Stunde. Wir werden uns zum Schein auf unsere Betten legen und dann, wenn im Hause alles still geworden, eine Etage tiefer klettern – zu James Borc.«
 
 Jetzt – jetzt endlich ging mir ein Licht auf.
 
@@ -768,7 +770,7 @@ Da – er hatte den Satz noch nicht beendet, als auch schon von hinten zwei Leut
 
 »Regt Euch nicht, oder wir stoßen zu!« zischte der eine Angreifer sofort.
 
-»Bemühen Sie sich nicht unnötig,« meinte Harald jedoch voller Gemütsruhe. »Sie haben von uns nichts zu fürchten, Mr. Breest, und Sie erst recht nicht, Mr. Borc. Ich bin Harald Harst, meine Herren, und mein Freund Schraut wird Sie ebensowenig verraten wie ich. Sie wollen Miß Lizabet wegbringen. Das ist ganz überflüssig. Wir haben noch nie Verbrecher unterstützt, und das würden wir tun, wenn wir etwa Albert Carby, in Wahrheit Doktor Albert Greebrac, verraten wurden, was wir –«
+»Bemühen Sie sich nicht unnötig,« meinte Harald jedoch voller Gemütsruhe. »Sie haben von uns nichts zu fürchten, Mr. Breest, und Sie erst recht nicht, Mr. Borc. Ich bin Harald Harst, meine Herren, und mein Freund Schraut wird Sie ebensowenig verraten wie ich. Sie wollen Miß Lizabet wegbringen. Das ist ganz überflüssig. Wir haben noch nie Verbrecher unterstützt, und das würden wir tun, wenn wir etwa Albert Carby, in Wahrheit Doktor Albert Greebrac, verraten würden, was wir –«
 
 Jetzt meldete Borc sich, der auf meinem Rücken kniete.
 
@@ -802,7 +804,7 @@ Fluchend stürmte Greebrac hinaus. Olgerdyn, blaß und verstört, folgte ihm. Wi
 
 »Auf Wiedersehen!« meinte Harald ironisch. »Wir werden Dich auch in der Thar finden, Albert Greebrac, Dich und die Zeichnungen des Patents.« –
 
-Lizabet Olgerdyn ist jetzt langst glückliche Gattin James Borcs. Ihres Vaters Gebeine ruhen in der Thar. Greebrac aber – Doch davon im nächsten Band.
+Lizabet Olgerdyn ist jetzt längst glückliche Gattin James Borcs. Ihres Vaters Gebeine ruhen in der Thar. Greebrac aber – Doch davon im nächsten Band.
 
 Nächster Band:
 
