@@ -86,7 +86,7 @@ Frau Honoria machte eine abwehrende Handbewegung.
 
 »Du wirst Dich geirrt haben, Ernst,« meinte sie zweifelnd. »Der Mann ist seit fünf Wochen verschwunden. Er wird sich hüten, sich hier nochmals zu zeigen.«
 
-»Er war’s, Honoria, – er war’s!« erklärte der Geheimrat eifrig. »Es war derselbe Mann mit dem dunklen Gesicht und dem schwarzen Bart. Er trug auch denselben hellen Sportanzug und die graue Mütze wieder.«
+»Er war’s, Honoria, – er war’s!« erklärte der Geheimrat eifrig. »Es war derselbe Mann mit dem dunkeln Gesicht und dem schwarzen Bart. Er trug auch denselben hellen Sportanzug und die graue Mütze wieder.«
 
 Die Geheimrätin hob etwas die Schultern, als ob sie andeuten wollte: »Mag sein! Ich kann nicht recht daran glauben!«
 
@@ -304,7 +304,7 @@ Der Chauffeur hielt uns einen Revolver entgegen.
 
 »Keinen Laut – keine Bewegung!« drohte er heiser. »Wir lassen nicht mit uns spaßen!«
 
-Der Mann trug eine Autobrille und einen dunklen Mantel. Sein langer schwarzer Bart und die braune Gesichtsfarbe im Verein mit der eigentümlichen Aussprache des Deutschen, deuteten auf einen Inder hin.
+Der Mann trug eine Autobrille und einen dunkeln Mantel. Sein langer schwarzer Bart und die braune Gesichtsfarbe im Verein mit der eigentümlichen Aussprache des Deutschen, deuteten auf einen Inder hin.
 
 Auch der angebliche Regierungsrat hatte jetzt einen Revolver in der Hand.
 
