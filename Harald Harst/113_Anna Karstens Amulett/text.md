@@ -744,7 +744,7 @@ Wohnungsamt hier eine Schiebung als vorliegend erachte
 
 <h2>3. Kapitel.</h2>
 
-wird dann — nur ein Harald Harst vermag solche Ucber-fälle
+Und dann — nur ein Harald Harst vermag solche Überfälle
 auf schwachnervige Menschen zu inszenieren — dann
 zog er sein Taschentuch hervor und … das Amulett fiel
 Karsten gerade vor die Füße …
@@ -753,62 +753,62 @@ Karsten bückte sich diensteifrig …
 
 Dann — dann fuhr er hoch, stieß einem gurgelnden
 <@pagebreak/>
-Schrei aus und taumelte Teicdhenblaß in den nächsten Sessel,
+Schrei aus und taumelte leichenblaß in den nächsten Sessel,
 sank schwer hinein und stierte wie gebannt abwärts auf den
 Teppich — auf das Amulett …
 
-Harald tat, als hätte er »das seltsame Benehmen des
+Harald tat, als hätte er das seltsame Benehmen des
 Dieners ganz falsch eingeschätzt.
 
-»Ahnen ist anscheinend nicht ganz wohl,« meinte er mit:
-fühlend. »Sind Sie krankt? — Hm — we83halb starren Sie
-so entsetzt aus das Ding da?!« der lachte. »Ja — das ist
+»Ihnen ist anscheinend nicht ganz wohl,« meinte er mitfühlend.
+»Sind Sie krank? — Hm — weshalb starren Sie
+so entsetzt auf das Ding da?!« Er lachte. »Ja — das ist
 ein komisches Medaillon … Ich Hab es gefunden …«
 
-Karsten umstrahlte die Sessellehnen, schaute Harald
+Karsten umkrallte die Sessellehnen, schaute Harald
 wild an.
 
 »Wo — wo haben Sie es gefunden?« rief er schrill.
-»Kind — — gefunden?! Das — das ist ja gar nicht!
+»Und — — gefunden?! Das — das ist ja gar nicht
 möglich.«
 
-»am — kennen Sie neun das Ding, die zerbrochene
-Münze !“,
+»Hm — kennen Sie denn das Ding, die zerbrochene
+Münze?!«
 
-»Ob ich sie kenne …« Er Fütterte dann … »Das
+»Ob ich sie kenne …« Er hüstelte dann … »Das
 Heißt, ich habe mal eine ähnliche gesehen. Also — wo
-fanden Sie das Amulett ©?«
+fanden Sie das Amulett?«
 
 Jetzt sagte er richtig »Amulett« …! Und das war sehr
 wichtig. Das bewies: er mußte zu Anna Krug Beziehungen
-gehabt haben. Er wußte, daß es ein Amulett und sein
-Großes Medaillon war!
+gehabt haben. Er wußte, daß es ein Amulett und kein
+bloßes Medaillon war!
 
 Harald erwiderte achselzuckend: »Gestern im Stadtbahnzuge
-lag das Ding auf der Bank, Ein Unsinn, daß
-iy’& einflechte. Es ist wertlos.«
+lag das Ding auf der Bank. Ein Unsinn, daß
+ich’s einsteckte. Es ist wertlos.«
 
 »Oh — schenken Sie es mir,« bat Karsten hastig.
 »Schenken Sie es mir. Ich bitte Sie …!«
 
-Er wischte sich die Ich versperren von der Stirn. Er
+Er wischte sich die Schweißperlen von der Stirn. Er
 war noch immer völlig verstört.
 
 »Gut — meinetwegen! Da haben Sie’s! — Die Sache
 wäre dann hier vorläufig erledigt …«
 
-Er hatte das Amulett Karsten gereicht, ter es ihm
+Er hatte das Amulett Karsten gereicht, der es ihm
 geradezu aus der Hand riß.
 
 Wir sahen, daß des Dieners Augen sich mit Tränen
-Osten. Wir taten aber, als bemerkten wir’s nicht.
+füllten. Wir taten aber, als bemerkten wir’s nicht.
 
 <@pagebreak/>
 Gleich darauf wanderten wir durch den Stadtpark
 heimwärts.
 
 Harst Hatte mich untergefaßt. »Alterchen, das nennt
-man Glück haben! Oh — das Neu um den ehrenwerten
+man Glück haben! Oh — das Netz um den ehrenwerten
 Herrn Professor Simpson zieht sich immer enger zusammen.
 Wir … fahren nach Danzig zu Frau Krug.« —
 
@@ -816,49 +816,49 @@ Abends benutzen zwei ältere elegante Herren den
 D-Zug nach Königsberg. In Marienburg stiegen wir nach
 Tiegenhof um und entgingen so den lästigen Paßscherereien.
 
-In Danzig stiegen wir im Hotel Kontinental am Haupts
-Bahnhof ab. Und nachmittags gegen drei wanderten wir
+In Danzig stiegen wir im Hotel Kontinental am Hauptbahnhof
+ab. Und nachmittags gegen drei wanderten wir
 durch den Langfuhrer Stadtpark und über die Berge nach
-Piratenboot, fragten ein paar spielende Kinder nach den!
+Pietzkendorf, fragten ein paar spielende Kinder nach dem
 Häuschen der Witwe Emilie Krug und standen dann vor
 diesem blitzsauberen kleinen Anwesen, in dem Anna Karstens
 Mutter wohnte.
 
-Schanktisch unter alten Kastanien lag das Häuschen abseits
+Idyllisch unter alten Kastanien lag das Häuschen abseits
 Des Dorfes. Hinter dem einstöckigen Bau zog sich ein
-großer Gemüsegarten in Terrassen einen Vers hinan.
+großer Gemüsegarten in Terrassen einen Berg hinan.
 
-Wir gingen am Zaune entlang, um erst einmal zu re-tognofzieren
+Wir gingen am Zaune entlang, um erst einmal zu rekognoszieren
 …
 
 Mit einem halblauten »Nein — Ist das merkwürdig!!«
 blieb Harald dann stehen und deutete auf einen Regenmesser,
-der zwischen zwei Becken an einem Pfahl befestigt war
+der zwischen zwei Becken an einem Pfahl befestigt war …
 
 Ein Regenmesser war’s, an dem es wirklich nichts zu
 sehen gab.
 
 Und doch — Harald fügte sinnend hinzu: »Wenn Frau
-Krug etwa mit zu
+Krug etwa mit zu …«
 
-Und hielt mitten im Gab inne …
+Und hielt mitten im Satz inne …
 
-eine kleine, magere, sonngebräunte Frau War Dom
+eine kleine, magere, sonngebräunte Frau War vom
 Häuschen her näher gekommen und musterte uns argwöhnisch,
 rief dann nicht eben freundlich:
 
 »He — daß Sie mir ja nicht über den Zaun klettern!
-Ich lasse mir meine Beete nicht zerirampeln!«
+Ich lasse mir meine Beete nicht zertrampeln!«
 
 Harst zog den Hut. »Entschuldigen Sie, liebe Frau …
-was ist lag da für ein Apparat an dem Pfahl?«
+was ist das da für ein Apparat an dem Pfahl?«
 
 <@pagebreak/>
-»5a — das ist’s ja eben!« erwiderte sie unwillig und
-näherte sich dem Zuge »Des Sinnes wegen habe ich so
-viel Morgen. Jungfer wieder klettern Neugierige nachts
+»Ja — das ist’s ja eben!« erwiderte sie unwillig und
+näherte sich dem Zaune. »Des Dinges wegen habe ich so
+viel Ärger. Immer wieder klettern Neugierige nachts
 über den Zaun und zertreten mir die jungen Pflanzen.
-Ein Regenmesser ist das. Wenn der Professor mich nicht. so
+Ein Regenmesser ist das. Wenn der Professor mich nicht so
 gut dafür bezahlte, daß ich das Ding hier dulde, würde
 ich …«
 
@@ -867,14 +867,14 @@ ich …«
 »Nun — ein englischer Professor, Herr Edward Simpson.
 In Berlin wohnt er — bei Berlin …«
 
-Sie leerte sich an den Zaun. Nun hatte ich ihr gutes,
+Sie lehnte sich an den Zaun. Nun hatte ich ihr gutes,
 vergrämtes Gesicht dicht vor mir.
 
-Harald meinte darauf: »Drin hübsche Wert, den Sie
-Sehr Eigen nennen dürfen, Brieflich hübsch …«
+Harald meinte darauf: »Ein hübscher Besitz, den Sie
+Ihr Eigen nennen dürfen, wirklich hübsch …«
 
 Ich hörte gar nicht mehr recht auf das Gespräch hin.
-Ich dachte. nur an dieses weitere Glied der Kette, die sich
+Ich dachte nur an dieses weitere Glied der Kette, die sich
 zwischen Anna Karsten und Setter und dem Diener Karsten
 nun auch bis Simpson hinzog …
 
@@ -882,16 +882,16 @@ nun auch bis Simpson hinzog …
 fuhr Harald fort. — Oh, er verstand es ja so glänzend, auch
 hier wieder diese schlichte Witwe auszuhorchen.
 
-Leber das biedere Gesicht des Weibleins huschte eine
-Wolke tiefen Sinnes.
+Über das biedere Gesicht des Weibleins huschte eine
+Wolke tiefen Grames.
 
 »Allein?« meinte sie traurig. »Ich hatte eine Tochter,
 Herr, aber die ist … ja sie ist verschwunden im großen
-Berlin, nachdem sie mir schon vorher genug Herzeleid be
-reitet hatte. Der den Mädchen ist’s ja immer so: sie sehen
-nur nach dem Früheren, lassen sich so leicht blenden. Fc;
+Berlin, nachdem sie mir schon vorher genug Herzeleid bereitet
+hatte. Bei den Mädchen ist’s ja immer so: sie sehen
+nur nach dem Äußeren, lassen sich so leicht blenden. Ich
 konnte doch nicht dulden, daß sie den Menschen da heiratete,
-der scl’on vorbestraft war. Nein, ich bin eine einfache, aber
+der schon vorbestraft war. Nein, ich bin eine einfache, aber
 anständige Frau, lieber Herr …«
 
 »Hm — ein Mann kann sich bessern, Frau Krug …«
@@ -900,7 +900,7 @@ Sie schaute überrascht auf.
 
 »Wie, Sie kennen meinen Namen?« rief sie erstaunt.
 
-»sich … bin Harald Harst, Frau Krug …«
+»ich … bin Harald Harst, Frau Krug …«
 
 Sie musterte uns von oben bis unten. »Das kann
 <@pagebreak/>
@@ -908,7 +908,7 @@ nicht sein,« erklärte sie dann sehr bestimmt. »Herr Harst
 sieht ganz anders aus. Ich habe Bilder von ihm in der
 Illustrierten Rundschau gesehen.«
 
-Harald zeigte ihr seinen Augmeid. »Wenn man Detektiv
+Harald zeigte ihr seinen Ausweis. »Wenn man Detektiv
 ist, liebe Frau Krug, verändert man sich nach Wunsch.«
 
 Nun war sie doch überzeugt, daß wir sie nicht täuschen
@@ -923,77 +923,77 @@ war abermals sehr bedeutungsvoll …! —
 
 Nach einer halben Stunde verabschiedeten wir uns.
 Wir hatten mit Frau Krug verabredet, daß wir als Sommergäste
-eins der Vorderzimmer beziehen würden. -.
+eins der Vorderzimmer beziehen würden.
 
-Abends siedelten wir aus dem Hotel nach Piratenboot
-Leiber. Wir hießen hier Hinter und Schlang und waren
+Abends siedelten wir aus dem Hotel nach Pietzkendorf
+über. Wir hießen hier Hirter und Schrann und waren
 Kunstmaler aus Düsseldorf.
 
 So begann die Reihe unserer Danziger Abenteuer …
 
 So begann die völlige Einkreisung des größten Banknotenfälscherkonsortiums,
-das je die Welt mit ihren Pro du.
-ten überschwemmt hat.
+das je die Welt mit ihren Produkten
+überschwemmt hat.
 
 Unser Zimmer in dem Häuschen war äußerst sauber.
-Auch unsere Verpflegung hatte Frau Krug übernomneen.
-Schon am nächsten Nachmittag flehten wir durch Nachfrage
-auf dem Danziger StandeZamit fest, daß die volljährige Anna
+Auch unsere Verpflegung hatte Frau Krug übernommen.
+Schon am nächsten Nachmittag stellten wir durch Nachfrage
+auf dem Danziger Standesamt fest, daß die volljährige Anna
 Krug zwei Tage vor ihrer Abreise aus Danzig mit Albert
 Karsten sich verheiratet hatte. — Frau Krug weinte und
-]anwende, als Harst ihr dies abends mitteilte. Daß Anna
-tot war, Verse wies er ihr. Was wir sonst noch über das
+jammerte, als Harst ihr dies abends mitteilte. Daß Anna
+tot war, verschwieg er ihr. Was wir sonst noch über das
 Mädchen von ihrer Mutter hörten, war nicht allzu günstig.
-Sie mußte ein sehr stark ausgeprägtes Srlbftändigfeitd
-Gefühl besoffen haben. Sie hatte zulegt in Danzig allein
+Sie mußte ein sehr stark ausgeprägtes Selbständigkeitsgefühl
+besessen haben. Sie hatte zuletzt in Danzig allein
 gewohnt und war als Buchhalterin tätig gewesen, hatte
 <@pagebreak/>
-9re Mutter aber jeden Tag besucht und ihr bei der Kellers
-geölten,
+ihre Mutter aber jeden Tag besucht und ihr bei der Arbeit
+geholfen.
 
-Weiter sagte und dann Frau Krug, daß der gegen«
-Macher des Professors hier von dem Gastwirt Knobloch des
-Pier! wurde, einem Manne, der sich eines wenig guten
-Jubel erfreute. Knobloch käme nach Regentagen abends
+Weiter sagte uns dann Frau Krug, daß der Regenmesser
+des Professors hier von dem Gastwirt Knobloch bedient
+wurde, einem Manne, der sich eines wenig guten
+Rufes erfreute. Knobloch käme nach Regentagen abends
 und morgens und messe die Wassermenge in dem Zinkbehälter.
 —
 
-Und an dickem selben Abend des 1. Mai ereignete sich
-dann etwas so Merfknürdiges, daß selbst Harald, der doch
-gewiß Nerven wie Staßhltaue hat, ein wenig außer Fassung
+Und an diesem selben Abend des 1. Mai ereignete sich
+dann etwas so Merkwürdiges, daß selbst Harald, der doch
+gewiß Nerven wie Stahltaue hat, ein wenig außer Fassung
 geriet.
 
 Zunächst möchte ich noch bemerken, daß mir der Zweck
-unseres hiesigen Luseutl altes nicht ick: ersichtlich war. Frau
-Krug war ja ohne Kreisel niemals eine Verbündete Simpsons.
+unseres hiesigen Aufenthaltes nicht recht ersichtlich war. Frau
+Krug war ja ohne Zweifel niemals eine Verbündete Simpsons.
 Das hätte jeder für ausgeschlossen gehalten, der auch
-nur ein paar Worte mit ter früh verblühten Frau gewechsell1
-satte, Also — weshalb blieben wir noch in Danzig?! —
+nur ein paar Worte mit der früh verblühten Frau gewechselt
+hatte. Also — weshalb blieben wir noch in Danzig?! —
 Als ich Harald hiernach fragte, erwiderte er nur: »Des
 Regenmessers wegen …«
 
 Man wird begreifen, daß diese Antwort mich überraschte.
-Allerdings bin ich ja daran gewöhnt, aus Hoffst
+Allerdings bin ich ja daran gewöhnt, aus Harsts
 Worten mehr herauszulesen als andere es könnten. Der
-Regenmesser — also der Gastwirt Sandloch!! dachte ich mir.
+Regenmesser — also der Gastwirt Knobloch!! dachte ich mir.
 Harald hält eben Knobloch für ein Mitglied der Fälscherbande.
 
-Und nun war es zehn Ul;r abends. Frau Krug schlief
-bereits. Wir hatten sie darauf vorbereitet, daß; wir sehr unruhige
-Mieter scheu, die auch nocl4s ein- und ausgingen.
+Und nun war es zehn Uhr abends. Frau Krug schlief
+bereits. Wir hatten sie darauf vorbereitet, daß wir sehr unruhige
+Mieter seien, die auch nachts ein- und ausgingen.
 
-Es war ein wolligen, Fühler Abend. Es drohte mit
-wegen.
+Es war ein wolkiger, kühler Abend. Es drohte mit
+Regen.
 
-»Vorwärts!« sagte Harald ganz unvermittelt. »des
-sieben wir nun unseren Beobachtungsposten :: der Glas
-Laube hinter dem Hause. Ich hohe die Türgelenke nur gehst
-Es wird ja langweilig werden, aber — was bilst’S?!«
+»Vorwärts!« sagte Harald ganz unvermittelt. »Beziehen
+wir nun unseren Beobachtungsposten in der Glaslaube
+hinter dem Hause. Ich habe die Türgelenke gut geölt.
+Es wird ja langweilig werden, aber — was hilft’s?!«
 
 Schweigend schlüpfte ich in den warmen Ulster.
 
 <@pagebreak/>
-und dachte wieder an Knobloch, den Gastwirt
+und dachte wieder an Knobloch, den Gastwirt …
 
 Oh — es kam anders …
 
@@ -1001,32 +1001,32 @@ Ganz anders kam’s …
 
 <h2>4. Kapitel.</h2>
 
-Es kleinste kaum einen besseren, geelgneteren Sechs
-ehtungsftand geben als Mutter Krugs Glaslaube, die nach)
+Es konnte kaum einen besseren, geeigneteren Beobachtungsstand
+geben als Mutter Krugs Glaslaube, die nach
 drei Seiten Fenster hatte und von der aus bis zum Regenmesser
-keine zioölf Schritt zurückzulegen waren.
+keine zwölf Schritt zurückzulegen waren.
 
-Wir hatten unsere Prisiienjermgläfer mitgenommen.
+Wir hatten unsere Prismenferngläser mitgenommen.
 In einer mäßig dunklen Nacht tut ein solches Glas gute
 Dienste.
 
 Nur einen einzigen Nachteil hatte die Laube: in Richtung
 nach dem Recgenmesser hin gab es eine Reihe Stachelbeersträucher,
-und diese Sträucher verdorrten den dicken, viereckigen
+und diese Sträucher verdeckten den dicken, viereckigen
 Pfahl des Regenmessers vollständig. Trotzdem
-konnte uns jedoch ein Mann, der sich) über den Staketenzaun
-scschivang, niemals entgehen.
+konnte uns jedoch ein Mann, der sich über den Staketenzaun
+schwang, niemals entgehen.
 
 Harald saß in einem Gartenstuhl und ich auf einer
 Bank. Wir rauchten. Die Tür der Glaslaube hatten wir
 nur angelehnt.
 
 Ringsum herrschte bis auf das Rauschen der Bäume
-und bis auf das ferne Kläffen einiger kopfloser völlige
+und bis auf das ferne Kläffen einiger Dorfköter völlige
 Stille.
 
 Es wurde elf Uhr. Wir saßen und schauten gelegentlich
-durch die Fenster hinaus, Wir schwiegen. Harst hatte
+durch die Fenster hinaus. Wir schwiegen. Harst hatte
 meinen Versuch, eine geflüsterte Unterhaltung zu beginnen,
 abgelehnt.
 
@@ -1038,19 +1038,19 @@ Einviertel zwölf …
 Und — da geschah draußen etwas …
 
 Da richtete sich plötzlich neben dem Pfahle ein Mann,
-der Mr anderswo über den Zaun gestiegen sein folgte,
+der nur anderswo über den Zaun gestiegen sein konnte,
 <@pagebreak/>
 neben dem Regenmesser halb auf …
 
-Er mußte bis dahin auf allen vieren gekrochen Schein —
+Er mußte bis dahin auf allen vieren gekrochen sein —
 mußte! Wir hätten ihn sonst früher bemerkt.
 
 Harald griff nach dem Fernglas. Ich tat dasselbe.
-Meine Mitdigfeit, die ich bisher nur Durch die starke Havanna
+Meine Müdigkeit, die ich bisher nur Durch die starke Havanna
 bekämpft Hatte, war verflogen — vollständig …
 
 Der Mann kniete neben dem Pfahle. Das erkannte ich
-durch das Glase ganz genau. Er hielt den Kopf gefegt
+durch das Glas ganz genau. Er hielt den Kopf gesenkt
 und arbeitete mit den Händen an dem Regenmesser. Es
 war ein recht großer, hagerer Mensch mit schwarzem Vollbart.
 Er hatte eine weiche, dunkle Mütze auf.
@@ -1059,47 +1059,47 @@ Plötzlich flüsterte Harst:
 
 »Achtung — — ein zweiter …!!«
 
-Ja — da stieg jetzt sehr gelenkig und sehr rasch ein Innerer
-Mann über den Zaum, war mit. drei, vier Sägen vor
-dem Knienden und … sammelte mit einem Male zurück,
+Ja — da stieg jetzt sehr gelenkig und sehr rasch ein anderer
+Mann über den Zaun, war mit drei, vier Sätzen vor
+dem Knienden und … taumelte mit einem Male zurück,
 sank langsam in die Knie und vornüber …
 
 Der erste Mann aber entfloh jetzt, als Harst die Tür
-ausstieß und dabei leider eine Gießkanne umwarf, infolge
-dieses- Geräusches die Terrassen aufwärts …
+aufstieß und dabei leider eine Gießkanne umwarf, infolge
+dieses Geräusches die Terrassen aufwärts …
 
 Harald Hinter ihm der …
 
 Noch nie habe ich meinen Harst so windschnell dahin
-sagen gesehen wie Tumult. Im Laufen riß er sich den ihn
+jagen gesehen wie damals. Im Laufen riß er sich den ihn
 behindernden Ulster vom Leibe, schleuderte ihn beiseite.
 
 Ich blieb sehr bald zurück. Kein Wunder: kürzere
 Beine, ein Bäuchlein …! Das sind keine günstigen Anhängsel
-für einen So@verlaufen …
+für einen Schnelläufer …
 
-Aufwärts die Terrassen ging’s
+Aufwärts die Terrassen ging’s …
 
 Bis an den Zaun, bis an das Kornfeld, das hier
 begann …
 
-Harst, ebenso der Versorgte, waren verschwunden, als
+Harst, ebenso der Verfolgte, waren verschwunden, als
 ich den Zaun erreicht hatte. Ich wußte, daß fünfzig Meter
-weiter eine schmale Schlucht sich steil Durch Die Meter zog,
+weiter eine schmale Schlucht sich steil Durch Die Äcker zog,
 eine jener Schluchten, die dort nordwestlich der nunmehr
 »freien« Stadt Danzig keine Seltenheit sind.
 
-Ich kehrte um. Ich wollte nich Doch mal um den
+Ich kehrte um. Ich wollte mich Doch mal um den
 <@pagebreak/>
 anderen Mann bekümmern, den Ich Im Dahinjagen flüchtig
 inmitten der Beete liegend bemerkt hatte.
 
-Der Mann lag noch dort. Ich beugte mich über in,
-feuchter im mit der Taschenlampe ins Gesicht, fühlte nach
-der Puls.
+Der Mann lag noch dort. Ich beugte mich über ihn,
+leuchtete ihm mit der Taschenlampe ins Gesicht, fühlte nach
+dem Puls.
 
-Heizer Fremde war tot. Er hatte ein bartloses, der-Finsteres
-Bulldoanengefiht und eine sehnige kleine Figur.
+Der Fremde war tot. Er hatte ein bartloses, verkniffenes
+Bulldoggengesicht und eine sehnige kleine Figur.
 Sein Sportmantel war kurz, und sein weicher Filzhut hatte
 im Futter einen Londoner Firmenaufdruck.
 
@@ -1108,13 +1108,13 @@ schwitzend …
 
 »Entwischt!« sagte er …
 
-Dann sah er ich un Toten an.
+Dann sah er sich den Toten an.
 
-Er fand keinerlei Papiere, nur vertritt Geld, eine je
-petlerpistole und andere Kleinigkeiten in den Taschen des
+Er fand keinerlei Papiere, nur reichlich Geld, eine Repetierpistole
+und andere Kleinigkeiten in den Taschen des
 Fremden, der — und das war sehr merkwürdig — durch
-einen Stich ins Herz getötet worden war. Merkwürdig ins
-sofern, als ich jederzeit hätte besctnvôören können, daß
+einen Stich ins Herz getötet worden war. Merkwürdig insofern,
+als ich jederzeit hätte beschwören können, daß
 der Mann, der uns entkommen war, überhaupt nicht irgendeine
 Armbewegung nach dem Ermordeten hin gemacht hatte.
 
@@ -1122,10 +1122,10 @@ Als ich Harald dies sagte, nickte er nur. »Ganz recht
 — ein seltsamer Mord!«
 
 Wir standen nebeneinander vor dem Toten. Harald
-schien nachzudenfken, Mechanisch zog er sein Zigarettenetui
+schien nachzudenken. Mechanisch zog er sein Zigarettenetui
 hervor. Mechanisch zündete er eine Mirakulum an.
 
-Wir zuckten die Lippen vor Ungeduld. Ich konnte mich
+Mir zuckten die Lippen vor Ungeduld. Ich konnte mich
 nicht länger beherrschen.
 
 »Der Flüchtling war vielleicht der Gastwirt Knobloch,«
@@ -1136,21 +1136,21 @@ Harald blieb stumm.
 »Wir sollten zu Knobloch gehen,« erklärte ich gereizt,
 denn Harsts wenig angenehme Gewohnheit, gerade in den
 aufregendsten Momenten den großen Schweiger zu spielen,
-ärgerte mich stets aus neue.
+ärgerte mich stets aufs neue.
 
 »Gut — gehen wir … Er wird Telephon haben. Und
 wir müssen ja die Danziger Polizei benachrichtigen,« erwiderte
 <@pagebreak/>
 er ebenso versonnen.
 
-Dann zog er seinen Ulster Über und fügte hinzu:
+Dann zog er seinen Ulster über und fügte hinzu:
 
 »Betrachte mal den Boden. Ich möchte die Spuren
-rasch ssfizzieren. Frau Krug hat den Platz um den Regenmesser
+rasch skizzieren. Frau Krug hat den Platz um den Regenmesser
 nachmittags frisch geharkt gehabt.«
 
-Er zeichnete Wink eine sehr Üübersichtlihe Skizze. Und
-kaum zehn Minuten darauf klopften wir August Knobloch;
+Er zeichnete flink eine sehr übersichtliche Skizze. Und
+kaum zehn Minuten darauf klopften wir August Knobloch
 heraus. Das heißt: Knobloch war nicht Daheim. Nur seine
 Frau riß ein Fenster auf und kreischte wütend: »Das ist
 ja unerhört!! Schon wieder eine Störung! Was wünschen
@@ -1165,7 +1165,7 @@ sehr liebenswürdig.
 
 »Der ist vor fünf Minuten weggegangen …«
 
-»So?! Tor fünf Minuten?«
+»So?! Vor fünf Minuten?«
 
 »Nun, es können auch sieben oder acht sein … Jedenfalls:
 er ist nicht da.«
@@ -1180,20 +1180,20 @@ er ist nicht da.«
 Mann, die Sache sei eilig. Ich kenne den Herrn nicht, und
 August, mein Mann, verkehrt mit allen möglichen Leuten.«
 
-»Haben Sie Telephon, Frau Knobloch …?"
+»Haben Sie Telephon, Frau Knobloch …?«
 
 »Ja …«
 
-»Oh muß die Polizei in Danzig anrufen …«
+»Ich muß die Polizei in Danzig anrufen …«
 
 Da verstummte die Frau gänzlich. Und — warf das
-Fenster zu, Verse, wand. -
+Fenster zu, verschwand.
 
-»Hm!!!« machte Harald sehr gedehnt. »Hm — Polizei
+»Hm!!« machte Harald sehr gedehnt. »Hm — Polizei
 liebt Frau Knobloch nicht …«
 
 Wir wollten weiter und im anderen Gasthof unser
-So versuchen.
+Glück versuchen.
 
 Da blieb Harst stehen, horchte …
 
@@ -1203,13 +1203,13 @@ in die Felder hinein. Und — da hinten irgendwo heulte
 ein Hund — ganz merkwürdig …
 
 »Hm!!« machte Harald Wieder … »Ich denke, wir
-Sehen einmal nach) … Er heult ein Hund nur, wenn er sich
+sehen einmal nach … Er heult ein Hund nur, wenn er sich
 bei einer Leiche befindet …«
 
-Die langgezogenen Klagelaute des Tieres wehen fett
-famerweise kein Echo in den Naclbarhäusern, während sonst
-doch die Herren Zerstörer nur darauf warten, daß einer zu
-blassen beginnt und dann sämtlich mit einstimmen …
+Die langgezogenen Klagelaute des Tieres weckten seltsamerweise
+kein Echo in den Nachbarhäusern, während sonst
+doch die Herren Dorfköter nur darauf warten, daß einer zu
+blaffen beginnt und dann sämtlich mit einstimmen …
 
 Harst umging das Gebäude. Wir kamen in den von
 Stallungen umgebenen Hof, dann in den verwilderten Obstgarten.
@@ -1232,7 +1232,7 @@ Tiere fertig wurde, das ihn plötzlich wütend ansprang.
 
 Er bekam den Hund beim Halse zu packen, würgte ihn.
 
-Und doch: seine Hastige Bewegung hatte er getan, hatte
+Und doch: keine Hastige Bewegung hatte er getan, hatte
 ruhig abgewartet, bis der Hund im Sprunge in der Luft
 schwebte.
 
@@ -1244,51 +1244,51 @@ Harst hielt sich nicht lange bei August Knoblochs Leiche
 auf …
 
 Knobloch, nur in Unterhosen, Hemd und einem alten
-Mantel und Rilsfehuben, hatte ebenfalls genau dieselbe Heranwagte
+Mantel und Filzschuhen, hatte ebenfalls genau dieselbe Herzwunde
 wie der Fremde am Regenmesser — genau dieselbe.
 
 Er lag auf dem Rücken. In dem gedunsenen Gesicht
 jenes kleinen, dicken Menschen lag ein Ausdruck zügellosester
 <@pagebreak/>
-Wut. Selten fahl ich ein Antlitz so dverzcirt wie Dieses,
+Wut. Selten sah ich ein Antlitz so verzerrt wie Dieses,
 
 Der Hund bewegte die Füße.
 
-»Gehen mir,« sagte Harald Halblaut. »Ich weiß nun
-genug — überanenug!«
+»Gehen wir,« sagte Harald Halblaut. »Ich weiß nun
+genug — übergenug!«
 
-Wir verliefen den Garten. Wir wanderten die Stille
+Wir verliefen den Garten. Wir wanderten die stille
 Dorfstraße entlang.
 
 ich — ich sann und sann. Ich wollte einen Zusammenhang
 zwischen dem ersten Mord und diesem zweiten Verbrechen
-herstellen. Und erklärte Glücklich:
+herstellen. Und erklärte schließlich:
 
 »Es ist derselbe Täter. Es ist der lange Mensch, der
 neben dem Regenmesser kniete.«
 
 »Aber — aber wie?« fragte Harst nur.
 
-»Du meinst, wie der Unbekannte den:r:Steg Mann Cm
-flach? Ja — das weiß ich nicht …«
+»Du meinst, wie der Unbekannte den ersten Mann erstach?
+Ja — das weiß ich nicht …«
 
-Da Lob er seinen Arm in den meinem »Lieber Alter,
-der Täter hatte einen Spazierstock bei ich …«
+Da schob er seinen Arm in den meinen. »Lieber Alter,
+der Täter hatte einen Spazierstock bei sich …«
 
-Ich stutzte … Ich erinnerte mich sofort an Begenftöde.
+Ich stutzte … Ich erinnerte mich sofort an Degenstöcke.
 
-Harst fügte Von hinzu: »Der Täter betrat einen Sie,
+Harst fügte schon hinzu: »Der Täter besitzt einen Stock,
 aus dessen Zwinge durch einen Druck eine schmale lange
-Klinge mit großer Kraft hervorscbnellt und auch wieder zu-rücffährt.
-Nur so kann es sein. Ein gewöhnlicher Degen-stock
+Klinge mit großer Kraft hervorschnellt und auch wieder zurückfährt.
+Nur so kann es sein. Ein gewöhnlicher Degenstock
 ist’s nicht. Denn der Täter hätte, da der Fremde ihn so
 überraschend ansprang, nie Zeit gehabt, den Degen zu
 ziehen. Du verstehst …«
 
-»7a — ich verstehe … — Und — wer mag der Täter
+»Ja — ich verstehe … — Und — wer mag der Täter
 sein?«
 
-»Der Kraut nach … Ergreifen Simpson …«
+»Der Figur nach … Professor Simpson …«
 
 Das war für mich wie ein Schlag gegen die Stirn.
 
@@ -1296,39 +1296,39 @@ Simpson … Simpson …?!
 
 »Unmöglich, Harald!« rief ich zweifelnd.
 
-»Warte ab. Ich werde es beweisen. Simpson. ha!
+»Warte ab. Ich werde es beweisen. Simpson hat
 ausgespielt …«
 
 <@pagebreak/>
 
 <h2>5. Kapitel.</h2>
 
-Wir Riesen vom anderen Gasthof die Danziger Polizei
-an. Um zwei Uhr morgen traf die Mordfonmtiffion in
-Pfeifenkopf ein. Harald hatte sich am Fernsprecher zu erkennen
+Wir riefen vom anderen Gasthof die Danziger Polizei
+an. Um zwei Uhr morgens traf die Mordkommission in
+Pietzkendorf ein. Harald hatte sich am Fernsprecher zu erkennen
 gegeben. Wir beide hatten den Platz am Regenmesser
 bis dahin nicht mehr betreten.
 
 Nun, als wir mit den drei Beamten dorthin gingen,
 als wir mit großen Karbidlaternen die Stelle beleuchteten,
 sahen wir, daß jemand mit einer Harke sämtliche Spuren
-gründlich verwischt hatte. Das konnte nur der Täter aus
-geführt haben. Diese seine Handlungsweise zeigte, daß
-der Mann 1108 der beiden Morde nicht im geringsten seine
+gründlich verwischt hatte. Das konnte nur der Täter ausgeführt
+haben. Diese seine Handlungsweise zeigte, daß
+der Mann trotz der beiden Morde nicht im geringsten seine
 Ruhe verloren hatte. Harst behauptete, der Täter sei fraglos
 erst nach der Ermordung Knoblochs in den Garten der
 Witwe Krug zurückgekehrt und mußte uns beide beobachtet
-haben, wie wir Frau Kindlich heraußflopften.
+haben, wie wir Frau Knobloch herausklopften.
 
 Die Polizei hatte einen Hund mitgebracht, der die
 Fährte dann auch tadellos ausarbeitete. Das Tier gelangte
 über die Felder in den Garten Knoblochs, von da wieder
 auf kürzerem Wege in den der Frau Krug und schließlich in
-die sogenannte Heide westlich den Langfuhr.
+die sogenannte Heide westlich von Langfuhr.
 
-Hier nun die neue Ucberraschung: der Hund versagte
-grünlich vollständig. Er lief umher, kam aber immer wieder
-zu demselben Sie, dem Ende der Spur, zurück.
+Hier nun die neue Überraschung: der Hund versagte
+plötzlich vollständig. Er lief umher, kam aber immer wieder
+zu demselben Fleck, dem Ende der Spur, zurück.
 
 Harst versuchte die Fährte nun selbst weiter zu verfolgen.
 Es wurde heller und heller. Der Morgen nahte.
@@ -1342,26 +1342,26 @@ Auch er versagte.
 
 Es war nun ganz hell …
 
-Er erhob sich, schob den tut ans der Stirn, blickte in
+Er erhob sich, schob den Hut aus der Stirn, blickte in
 die Runde …
 
-Flach, eben lag die Heide da, ein Terrain von vielleicht!
-Mylord Meter Breite …
+Flach, eben lag die Heide da, ein Terrain von vielleicht
+tausend Meter Breite …
 
 <@pagebreak/>
-Und knieten griff seine Sand ganz mechanisch in die
+Und wieder griff seine Hand ganz mechanisch in die
 Tasche, holte das Zigarettenetui hervor.
 
-Er tauchte, starrte schräg abwärts …
+Er rauchte, starrte schräg abwärts …
 
-Auf den Gesticktem der drei Tanz!gen Herren bemerkte
-ich Teiles ironisch:Co Lächeln. Sie glaubten wohl, der des
-rühmte Harst spiele hier so etwas durch sein eigentümliches
+Auf den Gesichtern der drei Danziger Herren bemerkte
+ich leises ironisches Lächeln. Sie glaubten wohl, der berühmte
+Harst spiele hier so etwas durch sein eigentümliches
 Benehmen Komödie — wolle Eindruck machen …
 
 Harst stand und rauchte …
 
-Und ich erkannte nun, daß sein Zulief auf einem langen
+Und ich erkannte nun, daß sein Blick auf einem langen
 Strich ruhte, der sich durch das dürre Gras und über sandige
 helle Maulwurfshügel hinzog …
 
@@ -1380,13 +1380,13 @@ Der Herr schwieg.
 verfolgen,« meinte Harald höflich.
 
 Der Kommissar erwiderte kühl: »Das tat ich schon,
-Herr Harst. Es handelt sich um ganz alte Spuren, die nach)
-rechts nd linke schon nach siebzig Meter wieder verschwinden.
-Der Mörder ist nicht mit einem Wagen davongesfahren,
+Herr Harst. Es handelt sich um ganz alte Spuren, die nach
+rechts und links schon nach siebzig Meter wieder verschwinden.
+Der Mörder ist nicht mit einem Wagen davongefahren,
 wie Sie annehmen.«
 
 »Oh — Sie irren … Ich denke gar nicht an einen
-Wagen. Die Spuren sind auch nich! alt, sondern ganz frisch.
+Wagen. Die Spuren sind auch nicht alt, sondern ganz frisch.
 Daß sie dann weiterhin beiderseits aufhören, hat doch eine
 Bedeutung, die mit der modernsten Beförderungsart zusammenhängt.
 Hier ist eben ein Flugzeug gelandet und
@@ -1394,25 +1394,25 @@ wieder aufgestiegen. Und der Täter entfloh im Flugzeug.« —
 
 Ich habe dann auf den Gesichtern der drei kein ironisches
 Lächeln mehr bemerkt. Ich habe mich nur gefreut, daß
-spie Herren meinen Harst jetzt wir ein rohes Ei behandelten.
+die Herren meinen Harst jetzt wir ein rohes Ei behandelten.
 —
 
-Gegen sieben Uhr standen wir alle abernua!s vor der
+Gegen sieben Uhr standen wir alle abermals vor der
 <@pagebreak/>
-Leiche August Knoblochs. Harst hatte weder von dem Degen-fiock,
-noch von Professor Simpson etwas erwähnt, hatte müı
-bei guter Gelegenheit warnend zugeflüstert: »Schweig? von
+Leiche August Knoblochs. Harst hatte weder von dem Degenstock,
+noch von Professor Simpson etwas erwähnt, hatte mir
+bei guter Gelegenheit warnend zugeflüstert: »Schweig’ von
 alledem, was wir wissen … Ein Professor Simpson wird
-nie durch die offizielle Polizei sliberführt werden — nie!
+nie durch die offizielle Polizei überführt werden — nie!
 Dazu gehören andere Leute — — wir!« — Das klang im
-legten Teil vielleicht etwas anmaßend, etwas Überhebend.
+letzten Teil vielleicht etwas anmaßend, etwas überhebend.
 Wenn der Leser aber erst Die weitere Entwicklung der Dinge
 kennt, wird er Harst recht geben: die Polizei hätte hier nichts
-ausgerichtet. Nur ein Harst ersann das Mittel, Simpsons3
+ausgerichtet. Nur ein Harst ersann das Mittel, Simpsons
 Schandtaten aufzudecken.
 
-Und legt, als der Polizeiarzt die Brust des toten Gastwirtes
-noch weiter festmachte, da … da Erdhöhle er ein seltsames
+Und jetzt, als der Polizeiarzt die Brust des toten Gastwirtes
+noch weiter freimachte, da … da enthüllte er ein seltsames
 Medaillon, das der Leiche an einem Draht um den
 Hals hing …
 
@@ -1428,17 +1428,17 @@ Frau Knobloch aber fragte er dann, woher dieses
 »Medaillon«, diese halbe Münze, stammte. Sie wußte es
 nicht. Sie sprach die Wahrheit. Zum Lügen war sie zu
 beschränkt. »Ich kann nur sagen, daß mein Mann die
-Münze schon seit einem Jahre trägt,« erklärte se. Im
+Münze schon seit einem Jahre trägt,« erklärte sie. Im
 Übrigen schwieg sie auf alle Fragen, Die ihr unbequem
 waren. —
 
 Bei dem Toten im Garten Frau Krugs fanden wir
-seine solche Münze. Wir beide suchten allein danach. Wir
+keine solche Münze. Wir beide suchten allein danach. Wir
 waren eine Weile unbeobachtet.
 
 »Der Täter,« sagte Harst, »hat auch nicht etwa diesem
 Toten das Amulett abgenommen, als er die Spuren mit
-der Harke befestigte. Nein — der Litzendraht hätte am Halse
+der Harke beseitigte. Nein — der Litzendraht hätte am Halse
 einen dunklen Streifen wie bei Knobloch zurückgelassen.
 Dieser Fremde gehört nicht mit zu der Bande der Falschmünzer,
 deren Abzeichen das Amulett ist …«
@@ -1447,34 +1447,34 @@ deren Abzeichen das Amulett ist …«
 So — nun wußte ich, was es mit Anna Karstens
 Amulett auf sich hatte …
 
-Es urbar eine Vermutung Harsts, die sich auf mancherlei
-Tatsachen fügte. Die Vermutung war richtig, wie ich jetzt
+Es war eine Vermutung Harsts, die sich auf mancherlei
+Tatsachen stützte. Die Vermutung war richtig, wie ich jetzt
 schon angeben will. —
 
 Und am selben Tage noch, am 2. Mai, kehrten wir mittags
 mit dem Flugzeug eines Danziger Großindustriellen
-in aller Stile nach Berlin zurück, landeten um echte Uhr
+in aller Stille nach Berlin zurück, landeten um sechs Uhr
 nachmittags auf dem Flugplatz Johannisthal und fuhren
 von da heim nach Der Blücherstraße.
 
-Harald rief nun sofort den Geheimrat ©., den Bekannten
-Simpsons, tlephonish an und fragte, ob wir ihn besuchen
-dürsten.
+Harald rief nun sofort den Geheimrat S., den Bekannten
+Simpsons, telephonisch an und fragte, ob wir ihn besuchen
+dürften.
 
-Um neun Uhr betraten wir des Bekenntnis Villa in
-der Villenkolonie Grunewald. Ja
+Um neun Uhr betraten wir des Geheimrats Villa in
+der Villenkolonie Grunewald.
 
-Und — fünf Minuten darauf tanzten wir, daß *Professor
+Und — fünf Minuten darauf wußten wir, daß *Professor
 Simpson gestern, am 1. Mai, abends*
-an einer Herrengejellichaft im Hause des Geheimrats *teilgenommen
+an einer Herrengesellschaft im Hause des Geheimrats *teilgenommen
 hatte*, die um halb neun begonnen und erst
 gegen zwei Uhr morgens ihr Ende erreicht hatte.
 
 Der Geheimrat lächelte Harst freundlich an und sagte
 noch:
 
-»Dein Lieber Herr Harst, — Ihre Fähigkeiten als Detektiv
-in Ehren! Aber hier sind Sie wirklich) auf falscher
+»Mein Lieber Herr Harst, — Ihre Fähigkeiten als Detektiv
+in Ehren! Aber hier sind Sie wirklich auf falscher
 Fährte. Simpson ist ein untadeliger Ehrenmann …«
 
 Harald seufzte und lachte gleichfalls. »Ja — das sehe
@@ -1482,70 +1482,69 @@ ich nun selbst ein, Herr Geheimrat. Und — ich hielt den
 Professor für einen Doppelmörder. In Danzig sind zwei
 Männer getötet worden, die …«
 
-Der Geheimecat hielt sich die Ohren zu …
+Der Geheimrat hielt sich die Ohren zu …
 
 »Hören Sie auf … hören Sie auf! Simpson ein
 Mörder?!«
 
-Und sein Benehmen und Gegenüber wurde dann so
+Und sein Benehmen uns gegenüber wurde dann so
 eisig und zugeknöpft, daß wir uns sofort verabschiedeten.
-Er hatte es Harald sehr übelgenonmmen, daß dieser es gewagt
+Er hatte es Harald sehr übelgenommen, daß dieser es gewagt
 <@pagebreak/>
 hatte, Simpson für einen Schwerverbrecher zu halten
 
-Unten auf der Bismarcfallce sagte Harald ganz der
-begnügt — und mein Erstaunen wird jeder begreifen:
+Unten auf der Bismarckallee sagte Harald ganz vergnügt
+— und mein Erstaunen wird jeder begreifen:
 
 »Der Geheimrat mag bei seiner Ansicht bleiben. Wir
 bleiben bei der unsrigen, mein Alter, und — das ist die
 richtige!«
 
-Ich erwiderte nichts. Wie spulte ich auch?! Simpson
+Ich erwiderte nichts. Wie sollte ich auch?! Simpson
 war in der kritischen Zeit hier in Berlin gewesen. Das
-stand fest. Der Geheimrat war als Alibizcuge Sinn andsfrci.
+stand fest. Der Geheimrat war als Alibizeuge einwandsfrei.
 Und doch: Harald tat, als hätte er den größten Sieg errungen!
 
 Da fügte er denn zu schon hinzu, und seine Stimme
 klang ganz anders:
 
 »Der Danziger Mörder kann nicht Edward Simpson
-gewesen sein. Das ist richtig. über — er hatte genau
+gewesen sein. Das ist richtig. Aber — er hatte genau
 Simpsons Gestalt und Bewegungen — genau! Und das
-Oft der eine Punkt, von dem ausgehend wir weiterarbeiten
+ist der eine Punkt, von dem ausgehend wir weiterarbeiten
 werden …«
 
-Der so lange wie ich mit Harald gemeinsam auf der
-Jagd nach Ueveltätern die ganze Welt durchstreift hat, der
-hört, wie ich schon einmal betonte, aus geringfügigen Uns
-Andeutungen allerlei heraus, der ist auch acisuig so weit rührig,
+Wer so lange wie ich mit Harald gemeinsam auf der
+Jagd nach Übeltätern die ganze Welt durchstreift hat, der
+hört, wie ich schon einmal betonte, aus geringfügigen
+Andeutungen allerlei heraus, der ist auch geistig so weit rührig,
 daß er einfache Schlußfolgerungen mühelos bewältigt.
 
-Auch ich sah die Dinge nun mit anderen. Augen an
+Auch ich sah die Dinge nun mit anderen Augen an
 und sagte:
 
 »Simpson kann einen Bruder haben …«
 
 »Aha!« lachte Harst. »Aha — Dir ist ein Licht aufgegangen.
-Gewehre, Daß es ein Licht von großer Kerzen-Härte
+Beweise, Daß es ein Licht von großer Kerzenstärke
 ist …«
 
-»im — wie meinst Du das?«
+»Hm — wie meinst Du das?«
 
 »Nun — wo finden wir den Bruder?«
 
 Diese sanfte Nachhilfe genügte …
 
-»Am Stadtpark Mr. 38 …« nich ich.
+»Am Stadtpark Nr. 38 …« rief ich.
 
-»Schrei! nicht so …! — Ja, dort fuhren wir den Mär
-der, der Mr. John Setter heißt! Dafür lege ich meinen
-Kopf auf den Bloß!« —
+»Schrei’ nicht so …! — Ja, dort suchen wir den Mörder,
+der Mr. John Setter heißt! Dafür lege ich meinen
+Kopf auf den Block!« —
 
 <@pagebreak/>
 Wir kamen zu Hause an. Wir waren zu Fuß gegangen.
-Und — gerade als Harald die Tür ausschloß, rollte draußen
-pro der Straße ein Auto heran — hielt vor unserer Garten:
-Pforte.
+Und — gerade als Harald die Tür aufschloß, rollte draußen
+auf der Straße ein Auto heran — hielt vor unserer Gartenpforte.
 
 Ein Herr stieg aus, zahlte, trat in den Vorgarten ein …
 
@@ -1553,59 +1552,59 @@ Es war Professor Simpson …
 
 Er grüßte kühl.
 
-»Socken hat mich Geheimrat S. angerufen, Herr Harst,
+»Soeben hat mich Geheimrat S. angerufen, Herr Harst,
 und hat mir mitgeteilt, daß Sie mich mit zwei Verbrechen
-in Zugang:entzog gebracht haben …«
+in Zusammenhang gebracht haben …«
 
-»Wollen wir das nicht besser drinnen besprechen, Mr
+»Wollen wir das nicht besser drinnen besprechen, Mr.
 Simpson,« fiel Harald ihm ins Wort,
 
 »Mir nur lieb …«
 
-Gleich daran taten wir in Haralds Arbeitszimmer.
+Gleich darauf saßen wir in Haralds Arbeitszimmer.
 
 Simpson hatte den Mantel anbehalten und hielt seinen
-großen Schranken Schlapphut im Schoße. Sein Gesicht
-drückte eine ansehnliche Entschlossenheit aus. Von den
-Durchgeistigten Zügen war nichts mehr zu bemerken. las
+großen schwarzen Schlapphut im Schoße. Sein Gesicht
+drückte eine unheimliche Entschlossenheit aus. Von den
+durchgeistigten Zügen war nichts mehr zu bemerken. Das
 da war ein Mann, dem jeder Menschenkenner es schon von
 den Augen ablas, daß er über Leichen ging …
 
-»Die Sechs muß ein Ende haben,« begann Simpson
-ebenso cisig-drolend. »Ich könnte gegen Sie eine He:
-seidigungsflage anstrengen, wenn ich wollte …«
+»Die Sache muß ein Ende haben,« begann Simpson
+ebenso eisig-drohend. »Ich könnte gegen Sie eine
+Beleidigungsklage anstrengen, wenn ich wollte …«
 
 »Verzeihen Sie …« unterbrach Harald ihn sehr höflich.
-Er stand echte von Simpson am Schreibtisch. »Ihren
-hängt da seitwärts aus dem Fragen eine Trabtfchleife oder
-Vergleich en heraus, — es [dem! Pntennenlipe zu sein …«
+Er stand rechts von Simpson am Schreibtisch. »Ihnen
+hängt da seitwärts aus dem Kragen eine Drahtschleife oder
+dergleichen heraus, — es scheint Antennenlitze zu sein …«
 
-Simpson Zitat Das Blut ins (Gesicht. Mit baft’aer
+Simpson schoß Das Blut ins Gesicht. Mit hastiger
 Handbewegung griff er nach dem Halse, tastete verwirrt
-nach) Der Dicke, die … nur nicht da war …
+nach Der Litze, die … nur nicht da war …
 
-Harst lachte Erhaltend. Sagte aber sein Wort.
+Harst lachte schallend. Sagte aber kein Wort.
 
 Und Simpson wurde bleich vor Wut. Seine Augen
 bohrten sich in die Haralds förmlich ein.
 
-»Ding sollte der Scherz?« Staate er keuchend …
+»Was sollte der Scherz?« fragte er keuchend …
 
-Ulk Harst erwiderte nun mit einem unendlich Übers
-gelegenen Röcheln, indem er seine Clementpistole hinter seinem
+Und Harst erwiderte nun mit einem unendlich überlegenen
+Lächeln, indem er seine Clementpistole hinter seinem
 <@pagebreak/>
 Rücken zum Vorschein brachte:
 
 »Der Scherz bewies mir, daß Sie das Amulett Anna
-Karstens sehr gut kennen, daß Sie ebenfalls solch ein Bug:
-bestrichen tragen. Sie werden jetzt ruhig dulden, daß mein
+Karstens sehr gut kennen, daß Sie ebenfalls solch ein
+Bundeszeichen tragen. Sie werden jetzt ruhig dulden, daß mein
 Freund Ihnen das Ding abnimmt, oder — ich schieße Sie
 nieder, Edward Simpson, so wahr ich Harald Harst heiße!«
 
-Simpson gewann seine Eeltftbeberrfchung zurück. Auch
-er lächelte plötzlich. Es war ein Spärliches Grinsen …
+Simpson gewann seine Selbstbeherrschung zurück. Auch
+er lächelte plötzlich. Es war ein gräßliches Grinsen …
 
-Er tropfte sich die Beste, das Stechend auf …
+Er knöpfte sich die Weste, das Oberhemd auf …
 
 Ich Trat an ihn heran …
 
@@ -1613,9 +1612,9 @@ Er — trug kein Amulett. Ich fand keins an seinem
 Halse …
 
 Und dann erhob er sich. »Herr Harst, ich kenne weder
-eine Anna Karsten, noch ein Amulett. Ihr Gcjafele verstehe
-ich nicht« Er sprach es ganz mit der Würde der gekrauster
-Verühmheit. »Morgen werde ich Sie beide wegen
+eine Anna Karsten, noch ein Amulett. Ihr Gefasele verstehe
+ich nicht.« Er sprach es ganz mit der Würde der gekränkten
+Berühmtheit. »Morgen werde ich Sie beide wegen
 Bedrohung zur Anzeige bringen,« fügte er hinzu.
 
 Dann ging er … —
@@ -1696,7 +1695,7 @@ Ich schloß ab und eilte in unser Ankleidezimmer.
 in zehn Minuten war von Max Schraut nicht mehr
 viel übrig: Max Schraut, ehemaliger Schmierenkomödiant
 und Darsteller von Charleys Tante, hatte sich in ein Weib
-acht wie man sie nur in Siromerherbergen an
+acht wie man sie nur in Stromerherbergen an
 trifft. —
 
 Ich steckte die Clement In die Tasche meines zerlöcherten
@@ -1984,7 +1983,7 @@ Da saßen mir an der anderen Wand in Lehnsesseln
 drei Herren. gegenüber: Simpson, Geheimrat S. und einer,
 den ich nicht sofort unterzubringen wußte, biß ein noch
 damaliger Blick in sein rundes, fsrisches Gesicht meine Spinne
-rang weckte: es war der Direktor der Ungarn-Elektrizität3-werfe,
+rang weckte: es war der Direktor der Ungarn-Elektrizitätswerke,
 Doktor Zug. Hammer — derselbe Guido Hammer,
 der als Herrenrennfahrer einen Weltruf genoß.
 
@@ -2254,7 +2253,7 @@ Haralda Lachen ließ ihn vershtmmen.
 
 <@pagebreak/>
 »Mylord, diese Unkosten bringt Bad Falfchnänger-geichäft
-reichlich ein. Simpsons famose Negenmesserstationen
+reichlich ein. Simpsons famose Regenmesserstationen
 sind seine Filialen für den Vertrieb der tadellosen Pfundnoten
 — das heißt’s, um Ihnen auch in diesem Punkte die
 Augen zu öffnen!«
@@ -3005,7 +3004,7 @@ dem Käufer auszuhändigen …« —
 
 <@pagebreak/>
 Alt von dann das Zimmer der Witwe Krug betraten
-kam für uns die Ucberraschung:
+kam für uns die Überraschung:
 
 Edward Simpson war entflohen! Frau Krug ja.
 bewußtlos am Boden. Simpson hatte den Willenloser
