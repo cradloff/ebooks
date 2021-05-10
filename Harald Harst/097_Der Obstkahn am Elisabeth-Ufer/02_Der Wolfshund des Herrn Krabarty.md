@@ -150,7 +150,7 @@ Parnack war umgekehrt, stelzte würdevoll herbei.
 
 Ein Dutzend Bauern fanden sich ein.
 
-Horst war unfähig zu sprechen, und all mein Reden, Drohen, Bitten half nichts.
+Harst war unfähig zu sprechen, und all mein Reden, Drohen, Bitten half nichts.
 
 Der Gemeindevorsteher zeigte mir die Depesche, die er vor einer halben Stunde aus Berlin erhalten hatte:
 
@@ -191,7 +191,6 @@ Und da – im letzten Moment – geschah das Unerwartete …
 Harsts schlaffe Arme flogen hoch, stießen um sich. Er stand wieder auf dem Boden – er riß die Clement heraus …
 
 Brüllte: »Herunter mit Euch beiden!«
-
 zielte auf Parnack, – und der duckte sich blitzschnell, ruckte an der Auslösungsleine des Patentankers …
 
 Der Zweidecker rollte plötzlich …
