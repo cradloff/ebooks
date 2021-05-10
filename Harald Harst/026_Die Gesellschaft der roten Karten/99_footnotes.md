@@ -1,4 +1,4 @@
-<h2>Anmerkungen.</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Die Gesellschaft der roten Karten.md">Nimrod ist ein
 altorientalischer, im Tanach bzw. der Bibel und im Koran erwähnter Held und

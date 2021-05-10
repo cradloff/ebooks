@@ -16,6 +16,13 @@ h2 {
 	margin-top: 150px;
 }
 
+.anmerkungen {
+	text-align: center;
+	font-weight: normal;
+	font-size: large;
+	margin-top: 150px;
+}
+
 p {
 	margin: 2pt 0 2pt;
 	text-indent: 1em;

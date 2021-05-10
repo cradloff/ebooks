@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Das Rätsel der Trollhätta-Insel.md">In der Vorlage steht: »Seemansenglisch«.</@footnote>
 <@footnote 2 "01_Das Rätsel der Trollhätta-Insel.md">Siehe auch Wikipedia: Trollhättan-Fälle.</@footnote>

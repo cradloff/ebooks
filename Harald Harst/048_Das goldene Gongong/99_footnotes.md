@@ -1,5 +1,4 @@
-
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Das goldene Gongong.md">Hefttitel auf der Umschlagseite: »Das goldene Gonggong«.</@footnote>
 <@footnote 2 "01_Das goldene Gongong.md">»Dschainatempel« / »Dschaina-Tempel« –

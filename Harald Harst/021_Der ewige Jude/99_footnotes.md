@@ -1,4 +1,4 @@
-<h2>Anmerkungen</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "02_Die entführte Gräfin.md">Unter einem Ulster verstand man einen
 schweren Stadt- oder Sportmantel für Herren, seltener für Damen.</@footnote>

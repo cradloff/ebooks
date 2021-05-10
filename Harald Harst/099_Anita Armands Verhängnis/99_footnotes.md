@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Anita Armands Verhängnis.md">In der Vorlage steht: »Vehängnris«. In späteren Auflagen (Harald Harst – Aus meinem Leben) wurde dieser Fehler vom Verlag korrigiert.</@footnote>
 <@footnote 2 "01_Anita Armands Verhängnis.md">In der Vorlage steht: »duch«.</@footnote>

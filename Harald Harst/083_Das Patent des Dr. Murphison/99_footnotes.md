@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Das Patent des Dr. Murphison.md">In der Vorlage steht: »den«.</@footnote>
 <@footnote 2 "01_Das Patent des Dr. Murphison.md">In der Vorlage steht: »verschoß«.</@footnote>

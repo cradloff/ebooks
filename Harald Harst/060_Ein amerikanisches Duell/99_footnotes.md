@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Der Leuchter der Lady Dreabram.md">Hier wurde in den ersten Auflagen die zweite Geschichte als Hefttitel angegeben, in späteren Auflagen dagegen die Erste. Siehe dazu auch unter »Zusätzliche Informationen«.</@footnote>
 <@footnote 2 "01_Der Leuchter der Lady Dreabram.md">Hier fehlt eine Zeile in der Vorlage. Text sinngemäß ergänzt.</@footnote>

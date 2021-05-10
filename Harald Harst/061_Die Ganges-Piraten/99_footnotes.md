@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Die Ganges-Piraten.md">In der Vorlage steht: »Gondras«.</@footnote>
 <@footnote 2 "01_Die Ganges-Piraten.md">In der Vorlage steht: »Teppe«.</@footnote>

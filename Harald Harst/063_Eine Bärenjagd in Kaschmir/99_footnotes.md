@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Eine Bärenjagd in Kaschmir.md">In der Vorlage steht: »Collingloof«.</@footnote>
 <@footnote 2 "02_Für zwei Millionen Perlen.md">In der Vorlage steht: »Noldecke«.</@footnote>
