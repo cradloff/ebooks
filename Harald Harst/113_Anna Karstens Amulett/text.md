@@ -1011,7 +1011,7 @@ In einer mäßig dunklen Nacht tut ein solches Glas gute
 Dienste.
 
 Nur einen einzigen Nachteil hatte die Laube: in Richtung
-nach dem Recgenmesser hin gab es eine Reihe Stachelbeersträucher,
+nach dem Regenmesser hin gab es eine Reihe Stachelbeersträucher,
 und diese Sträucher verdeckten den dicken, viereckigen
 Pfahl des Regenmessers vollständig. Trotzdem
 konnte uns jedoch ein Mann, der sich über den Staketenzaun
@@ -1639,13 +1639,13 @@ Damals, als wir Mai 1923 den Professor Simpson
 <@pagebreak 37/>
 uns als Opferlamm erkoren hatten, waren zwar die technischen
 Einzelheiten des Radioverkehrs bereits fast ebenso
-weit vorgeschritten wie heute. Aber ein Boxhaus, das uns
+weit vorgeschritten wie heute. Aber ein Voxhaus, das uns
 jeden Tag laut und deutlich Musik, Vorträge und anderes
 übermittelt, gab es noch nicht. Auch Harald und ich besaßen
 noch keinen »Radio«. Heute, wo ich dies niederschreibe,
 am 27. Februar 1924, habe ich soeben kurz vor zehn
 Uhr abends mit meinem einfachen Detektorapparat die
-Tagesneuigkeiten vom Boxhause abgehört, so zum Beispiel,
+Tagesneuigkeiten vom Voxhause abgehört, so zum Beispiel,
 daß in Rußland heute früh zwanzig Grad Kälte, in Frankreich
 sechs und in England vier waren, daß der Dichter
 Hoffman von Fallersleben Gedenktag hatte — und anderes
@@ -1768,8 +1768,8 @@ Gefallen tun,«
 
 »Sehr gern …«
 
-»rufen Sie Kriminalkommissar Bechert an und be-
-stellen Sie ihm, er solle sofort das Haus Schöneberg, Am
+»rufen Sie Kriminalkommissar Bechert an und bestellen
+Sie ihm, er solle sofort das Haus Schöneberg, Am
 Stadtpark 38 scharf überwachen lassen. Dort wohnt hochparterre
 links ein Mr. John Setter. Auf den habe ich es
 abgesehen.«
@@ -2308,18 +2308,18 @@ Geschick durcheinander.
 <h2>3. Kapitel.</h2>
 
 Um zehn Uhr vormittags saßen Harald und ich hinten
-in der Veranda kein Früh Stück. Die Maisonne lachte durch
-die Fenster herein. die Spaten lärmten im Weinspalier,
-und auf dem Fensierrande hocken ein paar von unseren
+in der Veranda beim Frühstück. Die Maisonne lachte durch
+die Fenster herein. die Spatzen lärmten im Weinspalier,
+und auf dem Fensterrande hockten ein paar von unseren
 Tauben, die besonders zahm waren.
 
 So fand Freund Fritz Bechert uns, der uns Bericht
 erstatten wollte.
 
 Er hatte das Haus Am Stadtpark 38 beobachten lassen,
-jedoch … nichts wreseutüches feststellen können.
+jedoch … nichts wesentliches feststellen können.
 
-»Verstarb haben Sie es aus diesen Setter abgesehen?«
+»Weshalb haben Sie es auf diesen Setter abgesehen?«
 fragte er dann gespannt.
 
 »Weil er der Mörder des Gastwirts Knobloch und
@@ -2329,60 +2329,60 @@ kenne.«
 Bechert war über die beiden Kapitalverbrechen in Danzig
 bereits unterrichtet.
 
-Ader er ahnte genau so wenig wie ich, daß der Tote
+Aber er ahnte genau so wenig wie ich, daß der Tote
 neben dem Regenmesser im Garten der Krug ein englischer
 Kollege sei. Er machte daher auch ein sehr erstauntes Gesicht
 und meinte:
 
-»Der Mann hat doch Bemerkst Papiere bei sich gehabt,
-lieber Harst, und nach) einer telephonifihen Meldung zu
-Danzig, die wir heute früh erhielten, hat man bisher Über
+»Der Mann hat doch keinerlei Papiere bei sich gehabt,
+lieber Harst, und nach einer telephonischen Meldung aus
+Danzig, die wir heute früh erhielten, hat man bisher über
 die Person jenes Fremden …«
 
 »… Es ist ein Detektiv, Bechert.« Harst nahm eine
-Zeitung aus der Tasche. »Bitte — hier die Berliner Taged-post
+Zeitung aus der Tasche. »Bitte — hier die Berliner Tagespost
 <@pagebreak/>
 von vor zwei Wochen … Hier steht, Daß das Bootshaus
 Golden, Laws u. Comp. in London durch die Falschmünzer
-ebenfalls um 21 000 Pfund geschädigt worden ist und daß
-die Bank daher beatfidtigt, auch ihrerseits der gefährlichen
+ebenfalls um 21&nbsp;000 Pfund geschädigt worden ist und daß
+die Bank daher beabsichtigt, auch ihrerseits der gefährlichen
 Fälscherbande nachzuspüren. Dies kann nur durch einen
-Detektiv geschehen, und der Fremde im- Garten der Krug
-hatte das typische englische Detektivgesicht, hatte eine Waise
+Detektiv geschehen, und der Fremde im Garten der Krug
+hatte das typische englische Detektivgesicht, hatte eine Waffe
 bei sich und … war dem Herrn Professor Simpson wahrscheinlich
 genau so dicht auf den Fersen wie ich …«
 
-Bechert ich, älteste den Kopf. Wir hatten vorhin bereits
+Bechert schüttelte den Kopf. Wir hatten vorhin bereits
 über Simpson und die Ereignisse der Nacht mit ihm gesprochen
 …
 
-»Harst, Hart, — das wird ein Mißgriff werden,«
-meinte er warnend. »Auch Sie zürnen sich Mai verhauen.«
+»Harst, Harst, — das wird ein Mißgriff werden,«
+meinte er warnend. »Auch Sie können sich mal verhauen.«
 
 »In diesem Falle nicht, mein lieber Bechert! Simpson
-ist bereits eingekreist. Ding er wähnen, daß sein schlauer
-Gelehrtenkopfs noch nicht in der Schlinge steckt — desto besser!
-Mag er und sein Genosse Echter glauben, ich) tappte noch im
+ist bereits eingekreist. Mag er wähnen, daß sein schlauer
+Gelehrtenkopf noch nicht in der Schlinge steckt — desto besser!
+Mag er und sein Genosse Setter glauben, ich tappte noch im
 Dunkeln! Ich — — tappe nicht — ich gehe im hellen
 Lichte! Knobloch wurde ermordet, nachdem der Engländer
-beseitigt war. Knobloch hätte sich verraten Dünnen. Man
-hätte ihn ja fraglos vernommen — des famosen Negers
-Messers wegen, übrigens ein genialer Gedanke, aus die Weise
-Vertricbsjilialen einzurichten!«
+beseitigt war. Knobloch hätte sich verraten können. Man
+hätte ihn ja fraglos vernommen — des famosen Regenmessers
+wegen, übrigens ein genialer Gedanke, auf die Weise
+Vertriebsfilialen einzurichten!«
 
-Harald stand auf. »Leder!, eine Ritter: lallen Sie durch
-Ihre Beamten secstiiellen, welcher Klempner für Simpson
-Die neuen Zinkrinnen angefertigt Da!. las bekommen Sie
+Harald stand auf. »Bechert, eine Bitte: lassen Sie durch
+Ihre Beamten feststellen, welcher Klempner für Simpson
+Die neuen Zinkrinnen angefertigt hat. Das bekommen Sie
 schneller heraus als ich. Und lassen Sie Setter weiter beobachten.«
 
 »Gern … — Noch etwas?«
 
-»Ja. Ermitteln Sie fihlenniaft, ob in der Nähe von
-Berlin jemand ein Flugzeug mit eigenem Wunderbar betrat.
-Setter ist ja mit einem Flugzeug nach Danzig ges32hcen und
-auch hierher auf dem Waldwege zurückgekehrt. Er muß in
-nächster Nähe Berlins ein zweites Heim haben. T’:eben
-Sie Co, Bechert. Das sind Aufgaben, die Sie mit ihrem
+»Ja. Ermitteln Sie schleunigst, ob in der Nähe von
+Berlin jemand ein Flugzeug mit eigenem Landeplatz besitzt.
+Setter ist ja mit einem Flugzeug nach Danzig gefahren und
+auch hierher auf dem Luftwege zurückgekehrt. Er muß in
+nächster Nähe Berlins ein zweites Heim haben. Suchen
+Sie es, Bechert. Das sind Aufgaben, die Sie mit ihrem
 <@pagebreak/>
 Beamtenheer leichter bewältigen als wir beide …«
 
@@ -2391,7 +2391,7 @@ er den Professor Simpson jetzt anders einschätzte.
 
 Nun begann unsere Vormittagsarbeit. Harald setzte
 eine Depesche für das Bankhaus Golden, Laws u. Comp.
-in London auf, eine Depesche mit bezahlter Nückantswort.
+in London auf, eine Depesche mit bezahlter Rückantwort.
 
 Wir gingen zum nächsten Postamt und besorgten das
 Telegramm. Dann winkte Harst ein Auto herbei. Wir
@@ -2414,11 +2414,11 @@ Wir stiegen aus.
 
 »Chauffeur, warten …« befahl Harst …
 
-An der Gartenpsforte glänzte ein blankes Messingschild:
+An der Gartenpforte glänzte ein blankes Messingschild:
 
 > Dr. F. Winter.
 
-»Ah — das liest der bekannte Chemiker,« nickte Harald.
+»Ah — das ist der bekannte Chemiker,« nickte Harald.
 »Hoffentlich ist er daheim …«
 
 Ein niedliches Stubenmädchen mit weißem Häubchen
@@ -2428,11 +2428,11 @@ Laboratorium.
 Winter, der noch verblüffend jung aussah, begrüßte
 uns sehr zuvorkommend …
 
-»ich nehme an, daß Sie mich beruflich turnte ziehen
-möchten, Herr Harst … Ich flehe ganz zu Diensten …«
+»ich nehme an, daß Sie mich beruflich zurate ziehen
+möchten, Herr Harst … Ich stehe ganz zu Diensten …«
 
-Wir nahmen in einer Ecke des hellen Laboratorium
-Allan. Dicht daneben stand ein Tisch mit schwarzer Marmorplatte
+Wir nahmen in einer Ecke des hellen Laboratoriums
+Platz. Dicht daneben stand ein Tisch mit schwarzer Marmorplatte
 und verschiedenen Apparaten: Radioapparate!
 
 <@pagebreak/>
@@ -2440,7 +2440,7 @@ Harald deutete auf den Tisch. »Deshalb komme ich,
 Herr Doktor … Sie experimentieren mit Funkspruchapparaten,
 nicht wahr?«
 
-»legt sogar ausfchlieflih, Herr Harst. Ich will die
+»Jetzt sogar ausschließlich, Herr Harst. Ich will die
 bisherigen Verstärker einfacher gestalten.«
 
 »Sie versuchen auch zu telephonieren?«
@@ -2457,7 +2457,7 @@ festgestellt.«
 »Es telephoniert jemand drahtlos, und dieser Jemand
 muß Ihrer Überzeugung nach in der Nähe wohnen?«
 
-»so — so ist’s. — Ich bin übrigens erstaunt, daß
+»Ja — so ist’s. — Ich bin übrigens erstaunt, daß …«
 
 »ich werde Ihnen später alles erklären, Herr Doktor.
 Jetzt nur noch eine Frage: Der Jemand telephoniert stets
@@ -2466,8 +2466,8 @@ zur selben Zeit?«
 »Hm — eigentlich sind es ja zwei, die telephonieren,
 Herr Harst. Zufällig habe ich vor drei Wochen herausgefunden,
 daß die beiden folgendermaßen sich drahtlos verständigen:
-morgens acht Uhr mit Woche 480,. nachmittags
-ein litt mit Welle 610 und abends sieben Uhr mit Welle 510.
+morgens acht Uhr mit Welle 480, nachmittags
+ein Uhr mit Welle 610 und abends sieben Uhr mit Welle 510.
 — Sie sind doch über die Grundbegriffe des Radioverkehrs
 im Bilde?«
 
@@ -2475,15 +2475,14 @@ im Bilde?«
 
 »Dann werden Sie verstehen, daß nur ein Zufall mich
 hinter die Künste dieser beiden Herren kommen ließ.« Er
-lächelte. »Die beiden müssen glänzende Apparate zur Bergung
+lächelte. »Die beiden müssen glänzende Apparate zur Verfügung
 haben. Die Sprache der Sender ist außerordentlich
 klar …«
 
-»Sie haben die Gespräche wohl des Öfteren Kurse
-fangen?«
+»Sie haben die Gespräche wohl des öfteren aufgefangen?«
 
-»ja — aus? Saintereffe. Ich brauche ja nur meinen
-Apparat zu der Britin unten Zeit auf die bestimmten Meilenlangen
+»ja — aus Fachinteresse. Ich brauche ja nur meinen
+Apparat zu der bestimmten Zeit auf die bestimmten Wellenlängen
 einzustellen …«
 
 <@pagebreak/>
@@ -2508,16 +2507,16 @@ dergleichen …«
 »Das genügt mir,« sagte Harald jetzt sehr ernst. »Herr
 Doktor, ich darf Sie wohl um allerstrengste Diskretion
 bitten. Es handelt sich um zwei Mitglieder einer weitverzweigten
-Verbrecherbande, die der Allgemeinheit bereist
-ungeheuren Schaden zugefügt hat. Die beiden sind Eng.
-Länder, beherrschen aber das Deutsche vollständig …«
+Verbrecherbande, die der Allgemeinheit bereits
+ungeheuren Schaden zugefügt hat. Die beiden sind Engländer,
+beherrschen aber das Deutsche vollständig …«
 
 »Auch das stimmt,« rief Doktor Winter leicht erregt.
 »Man hört es im Telephon, daß die Leute mit fremdem
 Akzent sprechen …«
 
-»Noch eine technische Frage: Halten Sie es für wog«-
-ich, daß man zum Telephonieren durch elektrische Wellen
+»Noch eine technische Frage: Halten Sie es für möglich,
+daß man zum Telephonieren durch elektrische Wellen
 eine Zinktraufe an einem Hause benutzen kann?«
 
 »Ja — wenn sie gut isoliert ist, — warum nicht?
@@ -2525,14 +2524,14 @@ Jedes Metall fängt die Wellen auf …«
 
 Doktor Winter erklärte uns dann an seinen Apparaten,
 wie die Wellen ausgesandt, wie sie empfangen wurden.
-Damals hörte ich zum ersten Male die Fach(-ausdrücke Spule,
-Kondensator, Detektor. Damals gab es Co) sein Vorbaus.
-Und doch: wir vernahmen im Kopfhörer, im Telephon, teuflisch
-die singenden Töne, die beim drahtlosen Telcephonicren
-entflohen. Wir waren nun mit einem Schlage auch praktisch
+Damals hörte ich zum ersten Male die Fachausdrücke Spule,
+Kondensator, Detektor. Damals gab es noch sein Voxhaus.
+Und doch: wir vernahmen im Kopfhörer, im Telephon, deutlich
+die singenden Töne, die beim drahtlosen Telephonieren
+entstehen. Wir waren nun mit einem Schlage auch praktisch
 in die Geheimnisse des Radioverkehrs eingeweiht worden.
 
-Inzwiscecken war es auch kurz vor eins geworden Mix
+Inzwischen war es auch kurz vor eins geworden. Wir
 <@pagebreak/>
 beide behielten gleich die Kopfhörer auf.
 
@@ -2543,85 +2542,85 @@ Im Telephon knatterte es leise …
 »Welle 640,« sagte Doktor Winter.
 
 Und dann — klar und deutlich eine Stimme, so klar,
-daß ich ordentlich über die Leutftärfe erschrak. Weit stärker
+daß ich ordentlich über die Lautstärke erschrak. Weit stärker
 jedenfalls, als durch ein gewöhnliches Telephon …
 
-Eine Stimme …: das tiefe, konnte Organ des Professors,
+Eine Stimme …: das tiefe, sonore Organ des Professors,
 — unverkennbar …
 
 Simpson: »Julius, bist Du zur Stelle?«
 
-— Julius — —k! Hm — ob das nicht rihäig »John«
+— Julius — —?! Hm — ob das nicht richtig »John«
 heißen sollte?!
 
-Der andere: »Zur Stele … — Wie geht’s?«
+Der andere: »Zur Stelle … — Wie geht’s?«
 
-Simpson: »bisher nichts Neues. Die steht’s mit dem
+Simpson: »Bisher nichts Neues. Wie steht’s mit dem
 Wetter in Danzig?«
 
 — Aha — — Danzig!! Die dummen Kerle!!
 
-Der andere: »Das Gewitter scheint sich zu verziehen
-Die beiden Blipfchläne haben meins Schaden angerichtet.«
+Der andere: »Das Gewitter scheint sich zu verziehen.
+Die beiden Blitzschläge haben wenig Schaden angerichtet.«
 
 Simpson: »Hoffentlich! Ich traue dem Frieden nicht.
-Die Luft ist auch hier über Berlin recht f[Diner. Ich bemerke
-dunkle Wolken, die noch Schmargendorf ziehen …«
+Die Luft ist auch hier über Berlin recht schwer. Ich bemerke
+dunkle Wolken, die nach Schmargendorf ziehen …«
 
-— Erchmarcendorf?! Ob wir die Wolken waren?!
+— Schmargendorf?! Ob wir die Wolken waren?!
 
-Der andere: »Die wollen werten morgen erledigt sein.
+Der andere: »Die Wolken werden morgen erledigt sein.
 Ich habe alles vorbereitet. Der Wetterbericht ist gut. Am
 Karst zerschellt alles …«
 
-Simpson: »Julius — nur Vorsicht! Die Schichte
-wird viel Lärm machen. —«In Danzig soll übrigens demnächst
-viel gegen fallen, der dort leicht vergl(windet. Diesmal
-laut es die Doppelte Menge sein wie das leßtemal.«
+Simpson: »Julius — nur Vorsicht! Die Geschichte
+wird viel Lärm machen. — In Danzig soll übrigens demnächst
+viel Regen fallen, der dort leicht verschwindet. Diesmal
+kann es die doppelte Menge sein wie das letztemal.«
 
-— gegen — gegen?! Ob er füllte Banknoten
+— Regen — Regen?! Ob er falsche Banknoten
 meinte?!
 
 Der andere: »Dann machen wir aber auch vorläufig
-Schluß, Cdu. Die Vorhersage ist zu bedrohlich Ich fühle
-So selbst unbehaglich. Die Wolken über &-«Morgenrot
+Schluß, Edu. Die Vorhersage ist zu bedrohlich. Ich fühle
+mich selbst unbehaglich. Die Wolken über Schmargendorf
 …«
 
-Simpson: »Hör auf damit …! Du« ’murfprichft
+Simpson: »Hör’ auf damit …! Du widersprichst
 <@pagebreak/>
 Dich ja Selbst. Karst ist doch auch wirklich zuverlässig?«
 
 — Karst — — Karst?! Natürlich Karsten!! Der
-Gatte 9 Anna Krugs! Also dieser Karsten sollte uns beiden
+Gatte Anna Krugs! Also dieser Karsten sollte uns beiden
 eins auswischen, noch heute! Sehr wertvoll!
 
 Der andere (John Setter, wie nun feststand): »Karst
 muß zuverlässig sein — muß. Keine Sorge deshalb. —
-Also dann für Danzig die doppelte Regenmenge. wer des
-sorgt das? Meine Flügel sind lahm. Ich habe sie abmontiert
+Also dann für Danzig die doppelte Regenmenge. wer besorgt
+das? Meine Flügel sind lahm. Ich habe sie abmontiert
 und bereits nach Stettin geschickt …«
 
 — Flügel — —? — Flugzeug — das war’s!
 
 Der andere (fortfahrend): »Gerade weil Schmargendorf
-so dunkel Oft und das Gewölk sich bis Danzig hinzog, hielt
+so dunkel ist und das Gewölk sich bis Danzig hinzog, hielt
 ich es für richtiger, die Flügel zu beseitigen. Sicher ist sicher,
 Edu. Willst Du dann also die Regenmenge in Westpreußen
 prüfen?«
 
-Simpson: »Ich reife heute abend. Lord Fibgerald,
+Simpson: »Ich reise heute abend. Lord Fitzgerald,
 der interalliierte Kommissar in Danzig, ist mein Studienfreund.
 Ich werde mich bei ihm anmelden. Heute abend
 lassen wir das Gespräch ausfallen.«
 
 Der andere: »Dann gute Verrichtung, Edu. — Halt —
-noch etwas … Ah habe neue Freunde gewonnen, die sehr
+noch etwas … Ich habe neue Freunde gewonnen, die sehr
 anhänglich sind. Sie begleiten mich überall hin, die Herren.
 Sie wissen nur nicht, daß ich es weiß …«
 
-— Er meinte die Kriminalbeamten Verharrt …
+— Er meinte die Kriminalbeamten Becherts …
 
-Simpson: »Also auf Wiederholen in drei Tagen,
+Simpson: »Also auf Wiederhören in drei Tagen,
 Julius. Sei vorsichtig … Schluß …«
 
 Der andere: »Schluß …«
@@ -2632,19 +2631,19 @@ Das Gespräch war beendet.
 
 <h2>4. Kapitel.</h2>
 
-Harald reihte Doktor Winter Die Hand und sagte tat
+Harald reichte Doktor Winter Die Hand und sagte fast
 feierlich:
 
-»Sie haben der Welt einen sehr großen Dienst gerecistet.«
+»Sie haben der Welt einen sehr großen Dienst geleistet.«
 
 Und noch eindringlicher fügte er hinzu: »Es dürfte in der
 <@pagebreak/>
 kriminalistischen Praxis zum ersten Male am heutigen Tage
-Ah ereignet haben, daß ein Detektiv von einem Abgangs:-
-losen Verbrecher am drahtlosen Telephon das unfreiwillige
-Geständnis zweier Morde entgegennimmt … Die Brotschnitte
-der drahtlosen Fernübertragung vor Sprache und
-Zeichen haben sich zwei geniale Menschen zumute gemacht,
+sich ereignet haben, daß ein Detektiv von einem ahnungslosen
+Verbrecher am drahtlosen Telephon das unfreiwillige
+Geständnis zweier Morde entgegennimmt … Die Fortschritte
+der drahtlosen Fernübertragung von Sprache und
+Zeichen haben sich zwei geniale Menschen zunutze gemacht,
 glaubten so das Mittel gefunden zu haben, jeder Beobachtung
 und Überwachung ihrer Personen spotten zu
 können, da sie persönlich nie zusammen kamen, sondern sich
@@ -2656,26 +2655,26 @@ Doktor Winter machte ein ganz entsetztes Gesicht.
 »Mörder — Mörder?!« meinte er zweifelnd. »Die
 Leute unterhielten sich Doch Immer so harmlos …«
 
-»Ja — wie heute, wo der Sie »Blihschläge« sagte und
+»Ja — wie heute, wo der eine »Blitzschläge« sagte und
 an Morde dachte! — Doch, genug davon, Herr Doktor. Ich
 danke Ihnen nochmals. Die … *Hilfsantenne* hatte
 den Herrn Professor verraten! — Auf Ihre Verschwiegenheit
 kann ich mich verlassen, nicht wahr? — Leben Sie wohl!
-Für und gibt es heute noch viel zu tun …«
+Für uns gibt es heute noch viel zu tun …«
 
 Wie bestiegen wieder das Auto.
 
-»Blilcherstraße 101» befahl Harald …
+»Blücherstraße 10!« befahl Harald …
 
 Der Kraftwagen ruckte an, rollte Davon …
 
-Wir langten daheim. an.
+Wir langten daheim an.
 
 Ich glaubte, daß nun allerhand Vorbereitungen getroffen
 werden würden. Nichts geschah. Wir aßen Mittag,
 dann telephonierte Harald:
 
-Erstens — an Brust Bechert:
+Erstens — an Fritz Bechert:
 
 > Einstellung der Nachfragen nach dem Klempner,
 der die Regenrinne gefertigt hatte, und Einstellung
@@ -2683,7 +2682,7 @@ der Beobachtung Setters.
 
 Zweitens — an unseren Bekannten, Ingenieur Lenz:
 
-> Er solle zu elf Uhr abends seinen Einbrocken in
+> Er solle zu elf Uhr abends seinen Eindecker in
 Johannisthal bereithalten zu einem Fluge von sechs
 bis sieben Stunden.
 
@@ -2691,16 +2690,16 @@ Drittens — an die Danziger Kriminalpolizei:
 
 <@pagebreak/>
 > Ob eine Bank dort mit irgend jemand ein größeres
-Geld;alt abschließen wolle und ob Zahlung in
+Geschäft abschließen wolle und ob Zahlung in
 englischen Pfundnoten vereinbart sei.
 
 Dieses dritte Gespräch dauerte etwas länger.
 
-In Danzig war derselbe Kruninallommissar am Apparat,
-der auf dem Heideland östlich von Piecykendors so spôt-tijich
+In Danzig war derselbe Kriminalkommissar am Apparat,
+der auf dem Heideland östlich von Pietzkendorf so spöttisch
 den Mund verzogen hatte.
 
-Jetzt war er wie … wie Der … Jetzt sagte er jede
+Jetzt war er wie … wie Öl … Jetzt sagte er jede
 Hilfe zu — jede …
 
 »Ich komme morgen vormittag zu Ihnen auf das
@@ -2716,11 +2715,11 @@ Arbeiter aus dem Charlottenburger Fernbahnhof und beobachteten,
 wie Professor Simpson den D-Zug nach Königsberg
 bestieg, wie der Zug davonrollte …
 
-Die beiden Arbeiter Uhren dann mit der Straßenbahn
-ließ zum Schöneberger Blutspur!, wo sie von einem dicken
+Die beiden Arbeiter fuhren dann mit der Straßenbahn
+bis zum Schöneberger Stadtpark, wo sie von einem dicken
 Weiblein, das neben einem mit einer Kiste beladenen Handwagen
 stand, erwartet wurden. Das Weiblein war
-Mathildch, unsere brave Köchin.
+Mathilde, unsere brave Köchin.
 
 Wir waren die Arbeiter — wir nahmen die Kiste und
 trugen sie nach Nr. 38. Mathilde zog mit dem Handwagen
@@ -2731,15 +2730,15 @@ Harst läutete an John Setters Flurtür.
 Karsten öffnete.
 
 »Wir bringen hier det Ding da,« erklärte Harst keuchend.
-(Die Kiste war leer.) »Wiejen tut det Ans wie ’n Nhinge-zerus.«
+(Die Kiste war leer.) »Wiejen tut det Aas wie ’n Rhinozerus.«
 
 »Von wem denn?« fragte Karsten erstaunt.
 
 »Det weeß ick nich. ’n oller Herr hat det Ding mit ’n
-Kutte bis an die Bleibe jefahren, und dort hat er’s uns
+Auto bis an die Bricke jefahren, und dort hat er’s uns
 überjeben.«
 
-»Warten Sie bitte …« Karsten warf die Tür zu
+»Warten Sie bitte …« Karsten warf die Tür zu.
 
 <@pagebreak/>
 »Achtung!« flüsterte Harald …
@@ -2747,30 +2746,29 @@ Kutte bis an die Bleibe jefahren, und dort hat er’s uns
 Und — John Setter kam. Zum ersten Male sah ich
 ihn da von Angesicht zu Angesicht …
 
-Es war der Mann mit dem Mordskerl — ohne Zweifel!
+Es war der Mann mit dem Mordstock — ohne Zweifel!
 Und — es mußte ein Bruder Simpsons sein. Gestalt, Gesichtsschnitt,
-Nasenform — eine Achnlichieit war leicht fest
-zustellen.
+Nasenform — eine Ähnlichkeit war leicht festzustellen.
 
 »Was hat der Herr Ihnen denn aufgetragen, hier mir
-auftut: hier?« fragte er kurz.
+auszurichten?« fragte er kurz.
 
 Seltsam genug: er trug einen Bambusstock in der
-Hand — einen jener reich Geschehnissen chinesischen S1ôe,
+Hand — einen jener reich geschnitzten chinesischen Stöcke,
 die einige Jahre so sehr modern waren.
 
-»Na — der olle Herr sachte, ich sollte Herrn Setter bestellen,
+»Na — der olle Herr sachte, ick sollte Herrn Setter bestellen,
 daß das Wetter schlechter würde und die Sachen In
-der Kiste da trocken gelagert werden mitten — det. sachte
+der Kiste da trocken gelagert werden mißten — det sachte
 er …«
 
 Setters Gesicht verdüsterte sich. Aus dieser »Bestellung«
 konnte er nur entnehmen, daß Gefahr drohe und daß Simpson
-ihm alle verräterisch(ertrage aufsuche.
+ihm alle verräterischen Dinge zusende.
 
 »Gut — bringen Sie die Kiste herein,« befahl er.
 
-Wir sollten die Kiste im Flur abirren.
+Wir sollten die Kiste im Flur absetzen.
 
 Als wir sie jetzt auf den Läufer stellten, öffnete sich eine
 nur angelehnte Tür und John Barring, Lord Allan Gnirable,
@@ -2779,21 +2777,21 @@ trat zu uns …
 Ich war so erstaunt, daß ich ihn länger als nötig
 anschaute …
 
-Und — er fütterte … Lächelte und sagte zu Setter und
+Und — er lächelte … lächelte und sagte zu Setter und
 Karsten, die dicht dabei standen:
 
 »Sie haben ja anscheinend große Einkäufe gemacht.«
-Er bediente sich des Englischen und fügte hinzu: »dann
+Er bediente sich des Englischen und fügte hinzu: »Dann
 darf ich mich wohl empfehlen, Mr. Setter. Sie leugnen ja
-ohnedies jede Beharrlich alt mit mir ab, während ich in
-Sehnen mit aller Bestimmtheit den Arzt Doktor Simpson aus
-Senden wiedererkenne, der mit mir zugleich einst Mitglied
-im Standardflab war und der dann wegen Bett« zerrten
-Gefängnis verurteilt wurde … Ich …«
+ohnedies jede Bekanntschaft mit mir ab, während ich in
+Ihnen mit aller Bestimmtheit den Arzt Doktor Simpson aus
+London wiedererkenne, der mit mir zugleich einst Mitglied
+im Standardklub war und der dann wegen Betrügereien
+zu Gefängnis verurteilt wurde … Ich …«
 
 <@pagebreak/>
-Und dann — dann etwas so Blipfchtelles, so Uns
-geahntes, daß Harald und ich nicht mehr eingreifen konnten.
+Und dann — dann etwas so Blitzschnelles, so Ungeahntes,
+daß Harald und ich nicht mehr eingreifen konnten.
 
 »Ah — Spion — — Spion!!« rief Setter oder besser
 Doktor John Simpson in jäh aufloderndem Begreifen.
@@ -2801,12 +2799,12 @@ Doktor John Simpson in jäh aufloderndem Begreifen.
 
 Er hob den Stock …
 
-Wie ein Eid schoß es aus der Zwinge hervor …
+Wie ein Blitz schoß es aus der Zwinge hervor …
 
 Gnirable taumelte zurück, griff mit der Hand nach dem
 Herzen …
 
-Zu spät kam Haralds Fausthieb, der John Singen
+Zu spät kam Haralds Fausthieb, der John Simpson
 bewußtlos zu Boden streckte …
 
 »Bewache ihn!« rief Harald …
@@ -2817,11 +2815,11 @@ Händen …
 Lord Allan Gnirable hatte ein Überirdisches Leuchten
 in den Augen …
 
-»Gesühnt -, geführt …« Hauchte er. »Harst, ich …
-will … in dem Erbbegräbnis meiner Väter beigesetzt Vers
-den … Ich …«
+»Gesühnt … gesühnt …« hauchte er. »Harst, ich …
+will … in dem Erbbegräbnis meiner Väter beigesetzt werden
+… Ich …«
 
-Ein Zucken lief über die schlurfenden Züge …
+Ein Zucken lief über die erblassenden Züge …
 
 Er war tot.
 
@@ -2831,17 +2829,17 @@ So starb Lionel Barring, starb im Dienste der Gerechtigkeit
 Setter und Karsten wurden im Polizeiauto in Gewahrsam
 gebracht. Sie verweigerten jede Aussage. Lord Allans
 Leiche ließ Harst durch ein Beerdigungsinstitut in deren
-Räumen vorläufig aufhalten.
+Räumen vorläufig aufbahren.
 
 Wir mußten uns beeilen, Daß wir noch rechtzeitig nach
 Johannisthal auf den Flugplatz kamen. in rascher Fahrt
-kauften wir gen Süden durch die Vororte. Unsere Koffer
-standen im Auto. Wir hatten nicht einmal Die Masten ablegen
+sausten wir gen Süden durch die Vororte. Unsere Koffer
+standen im Auto. Wir hatten nicht einmal Die Masken ablegen
 können. Wir waren noch dieselben Arbeiter, die Allan
 Gnirables jähes Ende nicht hatten verhindern können. —
 
-Ingenieur Lenz war mit seinem famosen »Sturms
-Vogel« zur Stelle.
+Ingenieur Lenz war mit seinem famosen »Sturmvogel«
+zur Stelle.
 
 »Wohin?« fragte er.
 
@@ -2853,7 +2851,7 @@ Moltke …
 
 <h2>5. Kapitel.</h2>
 
-Und wieder eine Neaennadt …
+Und wieder eine Regennacht …
 
 Ich könnte hier fast Wort für Wort wiederholen, was
 ich zu Anfang dieses Bandes geschrieben habe.
@@ -2865,19 +2863,19 @@ Da war Professor Edward Simpson, den wir hier erwarteten,
 hier vor dem Häuschen der Witwe Krug … —
 
 Ich will, um den Zusammenhang mit unserem Fluge
-nach Danzig berjuftellen, nur noch erwähnen daß wir
+nach Danzig herzustellen, nur noch erwähnen, daß wir
 morgens vier Uhr in Danzig auf dem sogenannten Großen
-Srerzierplag nordöstlich von Langfsuhr landeten, daß wir
-uns sofort nach der Privatwvobnung des Kriminalkoms-missars
-S … begaben und den Herrn herausklingelten.
-Wir blieben bei ihm bis zum Abend. Und er. war’s, den
+Exerzierplatz nordöstlich von Langfuhr landeten, daß wir
+uns sofort nach der Privatwohnung des Kriminalkommissars
+S… begaben und den Herrn herausklingelten.
+Wir blieben bei ihm bis zum Abend. Und er war’s, den
 wir dann mit uns hinaus in den Garten der Witwe Krug
 nahmen.
 
 Uns dreien, die wir hinter Fliederbüschen halb verborgen
-in dichtester Finsternis dastanden, rann das Waren
-über die Gesichter. Die Regenfluten machten es uns uns
-möglich, viel zu sehen.
+in dichtester Finsternis dastanden, rann das Wasser
+über die Gesichter. Die Regenfluten machten es uns unmöglich,
+viel zu sehen.
 
 Wir standen daher auch nur fünf Schritt von dem
 Regenmesser entfernt.
@@ -2886,35 +2884,35 @@ Ich hatte nach der Uhr gesehen …
 
 Elf war’s … —
 
-Vergebens hatte Kommissar S … Harald gefragt, weshalb
-Harst dein ertappte, daß Simpson sich ausgeredniet hier
+Vergebens hatte Kommissar S… Harald gefragt, weshalb
+Harst denn erwarte, daß Simpson sich ausgerechnet hier
 einfinden würde.
 
 »Weil der Regenmesser die Tauschstelle ist …«
 
-Das trat alles gewesen. —
+Das war alles gewesen. —
 
 <@pagebreak/>
-Und — — seit, Jetzt dort vor uns eine Gestalt …
+Und — — jetzt, jetzt dort vor uns eine Gestalt …
 
 Sie kam näher …
 
 Kniete nieder …
 
-Neben dem Pfahl det Negenmeiferd …
+Neben dem Pfahl des Regenmessers …
 
-Einsetze genau so — wie damals John Setter,. der
+Kniete genau so — wie damals John Setter, der
 Mörder …
 
 Genau so …
 
 Hantierte an dem Pfahl herum …
 
-Was er tat, konnte ich nicht erkennen. Wir schien«s8
+Was er tat, konnte ich nicht erkennen. Mir schien’s
 aber, als ob er ein helles Päckchen aus dem langen Gummimantel
 hervorgeholt hätte …
 
-Dann stieß Harald uns leise an …ı
+Dann stieß Harald uns leise an …:
 
 »Vorwärts!«
 
@@ -2924,28 +2922,28 @@ Drei gegen einen, den der Schreck völlig gelähmt
 hatte … völlig …
 
 »Guten Abend, Herr Professor,« sagte Harst erst, als
-die Stahlichellen um die Handgelenke zuschnappten. Es war
+die Stahlschellen um die Handgelenke zuschnappten. Es war
 keinerlei Triumph in Haralds Stimme. Und welche Gefühle
-ihn in diesem Augenblick bescheiden, zeigte das, was
+ihn in diesem Augenblick beseelten, zeigte das, was
 er hinzufügte:
 
-»Es ist schade um Sie. Ein Mann von Ihrer Antrifft
+»Es ist schade um Sie. Ein Mann von Ihrer
 Intelligenz ein Banknotenfälscher!«
 
-Simpson war noch immer Wie niedergehenden, war
+Simpson war noch immer Wie niedergebrochen, war
 stumm, willenlos …
 
 Ließ sich in ein Zimmer des Häuschens der von uns
-vorher verständigten Stirne führen …
+vorher verständigten Witwe führen …
 
 Die Fensterladen waren geschlossen, die Vorhänge dicht
-zUgezogcen.
+zugezogen.
 
-Frau Krug stierte den Professor entzieht an. Die
+Frau Krug stierte den Professor entsetzt an. Die
 Petroleumlampe beschien das intelligente Gesicht des auf
 einem Stuhl Zusammengesunkenen …
 
-»Brav Krug,« sagte Harald leise, »dies Oft auch der
+»Frau Krug,« sagte Harald leise, »dies ist auch der
 Mann, der Ihre Tochter in den Tod geschickt hat. Denn —
 Anna ist tot …«
 
@@ -2953,8 +2951,8 @@ Sie schrie leise auf …
 
 <@pagebreak/>
 »Simpson sandte sie als Beauftragte einer Banknotenfälscherbande
-manch Konstantinopel. Dort twnröc sie ermordet,
-Frau Klo …… Und — dieser selbe Mann ist der Bruder
+nach Konstantinopel. Dort wurde sie ermordet,
+Frau Krug … Und — dieser selbe Mann ist der Bruder
 des Mörders des Gastwirtes Knobloch und eines englischen
 Detektivs …«
 
@@ -2964,61 +2962,60 @@ Der Kommissar wollte jetzt mit Simpson ein Verhör
 beginnen.
 
 »Das ist nicht nötig,« meinte Harald. »Binden wir
-ihn hier auf dem Stuhle so … Wär haben noch draußen
-tun …« —
+ihn hier auf dem Stuhle fest … Wir haben noch draußen
+zu tun …« —
 
-Dann standen wir abermals hinter den Bü’cen …
+Dann standen wir abermals hinter den Büschen …
 
 Dann — tauchte genau um Mitternacht ein anderer
 Mann auf, kniete nieder — — am Pfahle des Regenmessers.
 
-Wir drei schrillen näher … —
+Wir drei schlichen näher …
 
 Und plötzlich leuchtete Haralds große Taschenlampe
-auf. Beschien den Grell … den Wann … die geheime
-Scefimna in dem Stelle, deren tadellos versteckte Tür jetzt
+auf. Beschien den Pfahl … den Mann … die geheime
+Öffnung in dem Pfahle, deren tadellos versteckte Tür jetzt
 offen war … und beschien das Päckchen in des Mannes
 Hand … —
 
 Der Mensch war gut gekleidet.
 
-»Sie wollten hier die sahen Banknoten abholen,«
-fügte Harald zu dem an allen Gliedern Sohle!:lernten
+»Sie wollten hier die falschen Banknoten abholen,«
+fügte Harald zu dem an allen Gliedern Schlotternden …
 
 Kommissar S… rief: »Das ist ja der Kaufmann
 Lorenz, der mit der Norddeutschen Bank zusammen das
-Geschäft in ernstlicher Wolle abschließen …«
+Geschäft in englischer Wolle abschließen …«
 
 »… und in Pfundnoten zahlen wollte … — Herr Lorenz,
-wer hat Ihnen denn die falschen Banknoten angeboten
-?«
+wer hat Ihnen denn die falschen Banknoten angeboten?«
 
 »Ein Fremder — schon vor Wochen … Ich sollte sie
 hier aus dem Regenmesser herausnehmen und dafür den
 Preis hineinlegen — zwanzigtausend Gulden …«
 
 »Sie sind ehrlich. Das ist verständig. — Herr Kommissar,
-alle die Wettersilialen Simpsons dürften? icselben
-Regenmesser haben — eine ungefährliche Art, fast … es Papiergeld
+alle die Wetterfilialen Simpsons dürften dieselben
+Regenmesser haben — eine ungefährliche Art, falsches Papiergeld
 dem Käufer auszuhändigen …« —
 
 <@pagebreak/>
-Alt von dann das Zimmer der Witwe Krug betraten
+Als wir dann das Zimmer der Witwe Krug betraten
 kam für uns die Überraschung:
 
-Edward Simpson war entflohen! Frau Krug ja.
-bewußtlos am Boden. Simpson hatte den Willenloser
-nur geheuchelt, hatte uns bewiesen, daß er gefährliche
+Edward Simpson war entflohen! Frau Krug lag
+bewußtlos am Boden. Simpson hatte den Willenlosen
+nur geheuchelt, hatte uns bewiesen, daß er gefährlicher
 war als wir ahnten … —
 
 Morgens brachte Lenz uns nach Berlin.
 
-Die genaue Durchsucht uns des Gartens Simpsons ergab,
-daß von der Hilfsantenne ein Draht an einem Art
+Die genaue Durchsuchung des Gartens Simpsons ergab,
+daß von der Hilfsantenne ein Draht an einem Ast
 einer uralten, mächtigen Buche entlanglief, die im Innern
 völlig voll war und unter deren Wurzeln sich ein kleiner,
 gemauerter Raum befand, der die Radioapparate enthielt
-und durch einen Gang mit den Kellern des Hauses sehr gestickt
+und durch einen Gang mit den Kellern des Hauses sehr geschickt
 verbunden war.
 
 So war denn auch das Zubehör der Hilfsantenne gefunden
