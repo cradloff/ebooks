@@ -33,7 +33,7 @@ Und – nun wollte er ins Skala-Theater! Und nun fragte ich:
 
 »Dir ist vor den Reklamebildern etwas aufgefallen?«
 
-»Ja, mein Alter. – Verabschieden wir uns von meiner Mutter und gehen wir. Ich erzähle Dir’s unterwegs.
+»Ja, mein Alter. – Verabschieden wir uns von meiner Mutter und gehen wir. Ich erzähle Dir’s unterwegs.«
 
 »Da hing auch in dem langen Schaukasten die große Photographie einer Kunstpfeiferin,« begann Harald, als wir unser Heim verlassen hatten. »Das Gesicht interessierte mich, erinnerte mich an eine ärmlich gekleidete Frau, die ich schon zweimal in den letzten Tagen hier in unserer Straße vom Fenster aus bemerkt habe. Die noch junge Frau kam stets zur selben Zeit, etwa um zehn Uhr vormittags, und verschwand in der Mietskaserne, die man uns da auf der anderen Straßenseite vor die Nase gesetzt hat.«
 
