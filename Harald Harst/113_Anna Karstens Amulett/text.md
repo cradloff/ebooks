@@ -1632,28 +1632,28 @@ vertraut sind, daß sie wissen, was Antenne ist. Es ist eben
 der Draht, mit dem die elektrischen Wellen aufgefangen werden.
 Man kann nun an Stelle solch einer Antenne auch
 Hilfsantennen verwenden, eben jede metallische Fläche, die
-groß genug ist, genügend viel Wellen in sich aufjunchmeh
+groß genug ist, genügend viel Wellen in sich aufzunehmen
 und dann einem Radioapparat zuzuleiten.
 
 Damals, als wir Mai 1923 den Professor Simpson
 <@pagebreak 37/>
-uns als Opferlamm erkoren hatten, waren zwar die te
-Nischen Einzelheiten des Radioverklehrs bereits fast ebenso
-weit vorgeschritten wie heute. Aber ein Vorbaus, das uns
+uns als Opferlamm erkoren hatten, waren zwar die technischen
+Einzelheiten des Radioverkehrs bereits fast ebenso
+weit vorgeschritten wie heute. Aber ein Boxhaus, das uns
 jeden Tag laut und deutlich Musik, Vorträge und anderes
 übermittelt, gab es noch nicht. Auch Harald und ich besaßen
-noch keinen »Nahte«. Heute, wo ich dies niederschreibe,
+noch keinen »Radio«. Heute, wo ich dies niederschreibe,
 am 27. Februar 1924, habe ich soeben kurz vor zehn
 Uhr abends mit meinem einfachen Detektorapparat die
-Zagesneuigfeiten vom Vorhangs abgehört, so zum Beispiel,
+Tagesneuigkeiten vom Boxhause abgehört, so zum Beispiel,
 daß in Rußland heute früh zwanzig Grad Kälte, in Frankreich
 sechs und in England vier waren, daß der Dichter
-Hoffnung von Fallersleben Gedenktag hatte — und anderes
+Hoffman von Fallersleben Gedenktag hatte — und anderes
 mehr. Zum Schluß kam »Deutschland, Deutschland über
-alles«, was jedoch sehr dünn, Irre ein altes Spinett, klingt.
+alles«, was jedoch sehr dünn, wie ein altes Spinett, klingt.
 
 Und dann habe ich meine Arbeit wieder vorgenommen
-und will nun nach dieser kurzen Abjschwveifung auf ein ganz
+und will nun nach dieser kurzen Abschweifung auf ein ganz
 modernes Gebiet mich freundlichst wieder mit Edward Simpson
 weiterbeschäftigen. —
 
@@ -1662,32 +1662,32 @@ Der Herr Professor stelzte also davon.
 Ich hatte ihn hinausgelassen, schaute ihm nach.
 
 Er drehte sich an der Gartenpforte noch einmal um,
-bricht stehen und schaute zu mir hinüber …
+blieb stehen und schaute zu mir hinüber …
 
 Dann ging er nach links die Blücherstraße hinab.
 
-Ich wollte die Haustür wieder abidjließen …
+Ich wollte die Haustür wieder abschließen …
 
-»Da trat aus Haralds Arbeitszimmer ein Mensch In
+Da trat aus Haralds Arbeitszimmer ein Mensch In
 den Flur, der mit meinem Harald kaum noch Ähnlichkeit
 hatte …
 
 Ein Strolch war’s: zerlumpte Jacke, rotes Halstuch,
-wirrer Vollbart, schäbige Müsse …
+wirrer Vollbart, schäbige Mütze …
 
-Nur — nur die Unterpartie des Steamers war sehr
+Nur — nur die Unterpartie des Stromers war sehr
 kultiviert: Lackschuhe, gebügelte Beinkleider …
 
 Dies beides hatte Harst eben in der Eile nicht mehr
-Deckeln können, und seine Vase rieb er sich jetzt noch schnell
-Mit Sei Winke kleiner, während er fragte:
+wechseln können, und seine Nase rieb er sich jetzt noch schnell
+mit Schminke blaurot, während er fragte:
 
-»Welche Richtung ©«
+»Welche Richtung?«
 
-»Tinte hinab …«
+»Links hinab …«
 
 <@pagebreak/>
-»Du folgst mir — all? Frau … Ah Male Dir mit
+»Du folgst mir — als Frau … Ich Male Dir mit
 Kreide an jede Straßenecke Zeichen …«
 
 Ich schloß ab und eilte in unser Ankleidezimmer.
@@ -1695,17 +1695,17 @@ Ich schloß ab und eilte in unser Ankleidezimmer.
 in zehn Minuten war von Max Schraut nicht mehr
 viel übrig: Max Schraut, ehemaliger Schmierenkomödiant
 und Darsteller von Charleys Tante, hatte sich in ein Weib
-acht wie man sie nur in Stromerherbergen an
-trifft. —
+verwandelt wie man sie nur in Stromerherbergen antrifft.
+—
 
 Ich steckte die Clement In die Tasche meines zerlöcherten
-Rockes. Ich Stecke eine Taschenlampe und drei Erfaßt
-Batterien ein, dazu Zündhölzer und ein Pappschächtelchen
+Rockes. Ich Steckte eine Taschenlampe und drei Ersatzbatterien
+ein, dazu Zündhölzer und ein Pappschächtelchen
 mit drei Zigarren.
 
-Wie es bei Harst nicht ohne Mirakulum- Zigaretten
-geht, so acht es bei mir nicht ohne Zigarren. Das weiß
-zum Beispiel auch mein Verleger. denn ich ihn besuche,
+Wie es bei Harst nicht ohne Mirakulum-Zigaretten
+geht, so geht es bei mir nicht ohne Zigarren. Das weiß
+zum Beispiel auch mein Verleger. Wenn ich ihn besuche,
 spendet er mir immer eine Zigarre aus jener Kiste, die im
 Geldschrank steht. Und was dort steht, ist gut. Leider
 spendet er nur immer eine. Er ist eine sparsame Natur und
@@ -1720,13 +1720,13 @@ gar nicht so sehr spät.
 
 Ich schritt die Blücherstraße nach links hinab. An der
 nächsten Ecke fand ich am linken Hause einen geraden Kreidepfeil.
-Ich löschte ihn aus, so gut ich die? konnte, und ging
+Ich löschte ihn aus, so gut ich dies konnte, und ging
 geradeaus Weiter.
 
 Der Leser würde es höchst uninteressant finden, wenn
 ich ihm nun im einzelnen angeben wollte, wie Harst mich
-durch die Kreidezeichen hinter sich herzog. Diese Zeichen bat
-kennst ja schon längst genau vereinbart, und sie sind nich!
+durch die Kreidezeichen hinter sich herzog. Diese Zeichen hatten
+wir ja schon längst genau vereinbart, und sie sind nicht
 unsere Erfindung, sondern stammen von den Zigeunern her.
 
 Jedenfalls: Simpson hatte nicht die Richtung nach
@@ -1734,27 +1734,27 @@ Dahlem eingeschlagen, sondern hatte sich nach Charlottenburg
 gewandt.
 
 <@pagebreak/>
-Ich landete fchlieflih am Charlottenburger Bahnhof.
-Hier Ahnte in der Halle mein Freund Harald mit einem
-Gesicht wie sieben Tage Niegenmeiter, denn — — Simpson
+Ich landete schließlich am Charlottenburger Bahnhof.
+Hier lehnte in der Halle mein Freund Harald mit einem
+Gesicht wie sieben Tage Regenwetter, denn — — Simpson
 war ihm hier entwischt.
 
-»Er fing es schlau an,« flüsterte der blaurotnasigé
+»Er fing es schlau an,« flüsterte der blaurotnasige
 Stromer mir zu. »Er war im Umsehen im Menschengewühl
 eines gerade eingetroffenen Fernzuges verschwunden …«
 
 Wir beide, die wir wahrlich nicht vertrauenerweckend
-aussahen, erhielten jetzt den Verweis, wie echt wir wirkten.
+aussahen, erhielten jetzt den Beweis, wie echt wir wirkten.
 
 Ein stämmiger Herr in Zivil trat an uns heran.
 
 »Hier meine Marke. Ich bin Kriminalbeamter,« sagte
-er leise. »Haben Sie beide Legitimaionspapiere?«
+er leise. »Haben Sie beide Legitimationspapiere?«
 
 Harald griff in die Hosentasche …
 
-Ah — die Hören Beinkleider und die Lackschuhe hatte
-er satanischen durch Kreide und Straßenschmutz nett zugerichtet!!!
+Ach — die schönen Beinkleider und die Lackschuhe hatte
+er inzwischen durch Kreide und Straßenschmutz nett zugerichtet!!
 
 Er griff in die Tasche und hielt dem Beamten seine
 Legitimation mit Lichtbild hin, sagte dazu nur:
@@ -1768,43 +1768,43 @@ Gefallen tun,«
 
 »Sehr gern …«
 
-»rufen Sie Kriminalkommissar Bechert an und be
+»rufen Sie Kriminalkommissar Bechert an und be-
 stellen Sie ihm, er solle sofort das Haus Schöneberg, Am
-Stadtpark 38 scharf überwachen lassen. Dort wohnt, Hochparterre
-links ein Mr. John« Setter. Auf den habe ich es
+Stadtpark 38 scharf überwachen lassen. Dort wohnt hochparterre
+links ein Mr. John Setter. Auf den habe ich es
 abgesehen.«
 
-»Gut — sofort, Herr Harst. Also Stadtpark 38, Hochparterre
+»Gut — sofort, Herr Harst. Also Stadtpark 38, hochparterre
 links — John Setter … — Guten Abend …«
 
-»Halt — noch enge. Bechert soll jeden, der das Haus
-verläßt, beobachten, jeden. Und — Ihrer Disklretion bin
+»Halt — noch etwas. Bechert soll jeden, der das Haus
+verläßt, beobachten, jeden. Und — Ihrer Diskretion bin
 Ich sicher, Herr Assistent?«
 
 »Vollkommen …« —
 
 Auch wir verließen den Bahnhof.
 
-Wir suchten eine nahe Kneipe auf, Mr unserem Artistin
+Wir suchten eine nahe Kneipe auf, die unserem Kostüm
 <@pagebreak/>
 entsprach. Es trat eine üble Kaschemme, eine ganz üble …
 
-Wir festen uns in eine Ecke, und Harst bestellte zwei
+Wir setzten uns in eine Ecke, und Harst bestellte zwei
 Kalbsschnitzel und zwei Glas Grog.
 
-»Wie i3’s8 mit Blende?« fragte der dicke Wirt.
+»Wie is’s mit Plente?« fragte der dicke Wirt.
 
-Harald gab ihm Geld. »Blende genug,« grinste er.
+Harald gab ihm Geld. »Plente jenug,« grinste er.
 
 Der Wirt verschwand.
 
 »Es ist besser, wir soupieren erst noch ordentlich,«
-flüsterte Harald »Die Nacht kann lang werden.«
+flüsterte Harald. »Die Nacht kann lang werden.«
 
 Dann beugte er sich noch weiter über den Tisch.
 
 »Wir wissen nun, daß Simpson zeitweise ebenfalls das
-seien trägt, eben ein Amulett. Heute trug er
+Bundesabzeichen trägt, eben ein Amulett. Heute trug er
 es nicht.«
 
 »Allerdings — er hat sich verraten,« nickte ich.
@@ -1833,13 +1833,13 @@ Des Professors Heim lag in völliger Dunkelheit da.
 
 »Er ist fraglos nicht zu Hause,« meinte Harald. »Ich
 denke, wir wagen’s. Hunde hat er nicht — das weiß Ich.
-Liter Seitwärts …«
+Also vorwärts …«
 
 Wir schlichen an die Mauer heran. Harst probierte, ob
-sein Patentdietrich das Schloß der Mauierpforte öffnete, Es
+sein Patentdietrich das Schloß der Mauerpforte öffnete. Es
 gelang.
 
-Wir lenkten die Tür nur an, damit Wir lernt rasch wieder
+Wir lehnten die Tür nur an, damit Wir recht rasch wieder
 <@pagebreak/>
 hinaus könnten, und huschten dem alten Gebäude zu.
 
@@ -1857,28 +1857,28 @@ Die Vorhalle war nur mäßig groß.
 
 Wir standen regungslos und lauschten — minutenlang.
 
-Nichts regte ich — nichts …
+Nichts regte sich — nichts …
 
-Und doch — doch hatte ich gründlich ein unbehagliches
+Und doch — doch hatte ich plötzlich ein unbehagliches
 Gefühl — ganz so, als ob mir eine innere Stimme zuraunte:
 »Kehrt um!«
 
 Ich weiß nicht, wie diese innere Stimme so plötzlich in
 meinen feinsten, allerfeinsten Nerven lebendig wurde …
 
-Eid — bis ich — — doch etwas hörte …
+Bis — bis ich — — doch etwas hörte …
 
 Ein … Ticken …
 
-Ein hastiges, ganz schwaches Eilen — wie von einer
+Ein hastiges, ganz schwaches Ticken — wie von einer
 Taschenuhr …
 
 Genau so …
 
 Wie von einer großen, schlechten Taschenuhr, die sehr
-laut litt und die man durch Weste und Noch hindurch hört.
+laut tickt und die man durch Weste und Rock hindurch hört.
 
-Dann — dann auch schon Harald Mund an weinend
+Dann — dann auch schon Haralds Mund an meinem
 Ohr: »Hast Du eine Uhr mit?«
 
 »Nein …«
@@ -1900,61 +1900,61 @@ uns nieder … Er hat uns erwartet … Er wird sich dann
 herausreden, er habe uns für Einbrecher gehalten …«
 
 <@pagebreak/>
-Ein Ei8Zzapsen strich mir den Rückgrat entlang …
+Ein Eiszapfen strich mir den Rückgrat entlang …
 
 Das war ja eine allerliebste Situation …
 
-Erschießen würde er uns …| Ja — auch ich war
+Erschießen würde er uns …! Ja — auch ich war
 davon überzeugt …
 
-»Pfeil stehen,« hauchte Harald weiter. »Oder besser —
-bücke Dich und tritt ein paar Gescherzt nach links …«
+»Bleib’ stehen,« hauchte Harald weiter. »Oder besser —
+bücke Dich und tritt ein paar Schritt nach links …«
 
 in denselben Moment kam aus der rabenschwarzen
 Finsternis vor uns eine Stimme — die tiefe Stimme
 Simpsons:
 
-»Rühren Sie sich nicht. Ich Ware Sie …«
+»Rühren Sie sich nicht. Ich Warne Sie …«
 
-Wir verhalf:cm am selben Platze …
+Wir verharrten am selben Platze …
 
-Wir wußten: Simpson hallte uns in seiner Gewalt!
-Wir waren ihn in die Falle gegangen.
+Wir wußten: Simpson hatte uns in seiner Gewalt!
+Wir waren ihm in die Falle gegangen.
 
 Und die Stimme kam abermals aus der Finsternis:
 
-»Herr Harst, weshalb sind Sie sicherlich so töricht, mir
-nachzustellen è!«
+»Herr Harst, weshalb sind Sie eigentlich so töricht, mir
+nachzustellen?!«
 
 Harald schwieg …
 
 … und hauchte mir gegen das Trommelfell:
 
-»Still — seinen Laut …!«
+»Still — keinen Laut …!«
 
 Eine Weile nichts … Dann wieder Simpson, durchaus
-nicht drohend, her Ticbenstrürdig-eindringfich:
+nicht drohend, eher liebenswürdig-eindringlich:
 
 »Herr Harst, so antworten Sie doch! Ich Habe damit
-gerechnet, daß Sie mir folgen würden, daß Sie dann hier-herfommcn
+gerechnet, daß Sie mir folgen würden, daß Sie dann hier-herkommen
 würden,«
 
 Harald schwieg …
 
 Und wiederum Simpson — jetzt mit leiser Ironie:
 
-»Die soll ich Ihr Verhalten mir auslegen? Haben
+»Wie soll ich Ihr Verhalten mir auslegen? Haben
 Sie nicht den Mut, zuzugeben, daß Sie Harald Harst sind?«
 
 Ich wurde jetzt stutzig …
 
-las war seine Falle von der Art, wie man sie Leuten
+Das war keine Falle von der Art, wie man sie Leuten
 stellt, die man beseitigen will. Da war noch irgendein
-Nebenan. Tand, der diese Situation unklar und verworren
+Nebenumstand, der diese Situation unklar und verworren
 machte … Der Ton unseres Todfeindes Simpson — denn
-das war er ja fragte? — entsprach doch nicht dem eines
-Kamels, der zwei Leute unserer Art glücklich in seiner
-Lord bat
+das war er ja fraglos — entsprach doch nicht dem eines
+Mannes, der zwei Leute unserer Art glücklich in seiner
+Hand hat.
 
 <@pagebreak/>
 Unvermittelt dann die Aufklärung …
@@ -1964,12 +1964,12 @@ anhielt …
 
 Eine andere Stimme meldete sich …
 
-Ich erkannte sie sofort: es war das hellere, selbsi-bewusster
-e Organ des Geheimen:es S.
+Ich erkannte sie sofort: es war das hellere, selbstbewußtere
+Organ des Geheimrates S.
 
-»So machen Sie doch Licht, Simpson …« rief er un:
-geduldig. »Diese Komödie ist ja widerwärtig. Es genügt
-doch, daß Sie zwei Zeugen dafür haben, daß Herr Holst
+»So machen Sie doch Licht, Simpson …« rief er ungeduldig.
+»Diese Komödie ist ja widerwärtig. Es genügt
+doch, daß Sie zwei Zeugen dafür haben, daß Herr Harst
 und sein Freund Schraut widerrechtlich mit Hilfe von Nachschlüsseln
 hier eingedrungen sind …«
 
@@ -1980,14 +1980,14 @@ Schräg über meinem Kopfe befand sich die milde Lichtquelle
 …
 
 Da saßen mir an der anderen Wand in Lehnsesseln
-drei Herren. gegenüber: Simpson, Geheimrat S. und einer,
-den ich nicht sofort unterzubringen wußte, biß ein noch
-damaliger Blick in sein rundes, fsrisches Gesicht meine Spinne
-rang weckte: es war der Direktor der Ungarn-Elektrizitätswerke,
-Doktor Zug. Hammer — derselbe Guido Hammer,
+drei Herren gegenüber: Simpson, Geheimrat S. und einer,
+den ich nicht sofort unterzubringen wußte, bis ein nochmaligen
+Blick in sein rundes, frisches Gesicht meine Erinnerung
+weckte: es war der Direktor der Urania-Elektrizitätswerke,
+Doktor Ing. Hammer — derselbe Guido Hammer,
 der als Herrenrennfahrer einen Weltruf genoß.
 
-Aber — — wo war Harst geblichen — — wo — —?!
+Aber — — wo war Harst geblieben — — wo — —?!
 
 Meine Augen glitten durch die Halle …
 
@@ -1995,18 +1995,18 @@ Harst war verschwunden …
 
 Auch Simpson sprang schon empor …
 
-»Wo ist Herr Harst?« rief er schrill. Und sehr diesem
-auf lagen Unruhe, Verwirrung, schlecht verhehlte Wut …
+»Wo ist Herr Harst?« rief er schrill. Und in diesem
+Ruf lagen Unruhe, Verwirrung, schlecht verhehlte Wut …
 
 Die Frage galt mir. Ich spielte hier wahrlich keine
-denciden¿werte Rolle …
+beneidenswerte Rolle …
 
 »Ich weiß es nicht,« erwiderte ich der Wahrheit gemäß.
 
 Auch der Geheimrat stand auf und trat an mich heran.
 
 »Herr Schraut, offen gestanden: ich hätte Ihnen beiden
-derart 1ôörihte Taktlosigkeiten nicht zugetraut. Wirklich
+derart törichte Taktlosigkeiten nicht zugetraut. Wirklich
 nicht …! Sie werden die Folgen zu tragen haben. Was
 Sie beide heute nacht hier taten, ist Hausfriedensbruch …«
 
@@ -2018,15 +2018,15 @@ Treppe in die oberen Räume geflüchtet sein. Hier in der
 Halle gibt es kein Versteck, und an uns konnte er nicht vornüber.
 Suchen wir ihn …«
 
-spanischen hatte ich nach diesem gemischten Erlebnis
+Inzwischen hatte ich nach diesem peinlichen Erlebnis
 Doch wieder meine Haltung zurückgewonnen.
 
 »Wenn Sie gestatten, Herr Simpson,« sagte ich eisig-höflich,
 »werde ich Hier in der Vorhalle warten …«
 
 »Meinetwegen …« Ein Blick traf mich dabei — ein
-Blick, der mir verriet: zwischen diesem Manne und Du
-beiden gibt es seine Schonung mehr!
+Blick, der mir verriet: zwischen diesem Manne und euch
+beiden gibt es keine Schonung mehr!
 
 Die drei Herren schritten die Treppe empor.
 
@@ -2041,12 +2041,12 @@ Grund vorhanden gewesen sein …
 
 <h2>2. Kapitel.</h2>
 
-Dr drei Herren kehrten zurück …
+Die drei Herren kehrten zurück …
 
-Simpson war bleich vor Erregung … Stand mir vor
+Simpson war bleich vor Erregung … Stand nun vor
 mir, fauchte mich an:
 
-»Also Sie hatten bereits einen Rückzug8weg vorbereitet!
+»Also Sie hatten bereits einen Rückzugsweg vorbereitet!
 Wir haben das dünne Seil dort am Bodenfenster
 gefunden!«
 
@@ -2054,25 +2054,25 @@ Seine Lippen zuckten. Er konnte nicht weiter sprechen.
 Er ging zur Haustür, schob den Schlüssel ins Schlüsselloch
 und machte eine kurze Handbewegung …
 
-Er — — war’s mich hinaus …
+Er — — warf mich hinaus …
 
-Nun — tischte er!! Ein Seil an einem Bodenfenster!!
-er hatten Dickes Teil dort nicht befestigt! Und Diele?
+Nun — mochte er!! Ein Seil an einem Bodenfenster!!
+*Wir* hatten dieses Seil dort nicht befestigt! Und — dieses
 <@pagebreak/>
-Seil verhieß neue Verwicklungen … Über auch neue Vor
-teile für uns! Nur jemand, der Simpson ebenfalls nachspürte,
+Seil verhieß neue Verwicklungen … Aber auch neue Vorteile
+für uns! Nur jemand, der Simpson ebenfalls nachspürte,
 konnte dieses Seil angebracht und … Harald irgendwie
 aus der Vorhalle weggeholt haben …
 
 Ich fühlte mich jedenfalls keineswegs gedemütigt. Ich
 machte dem Geheimrat und Direktor Hammer eine Verbeugung,
-die freilich übersehen wurde, und stritt an Stumpfen
+die freilich übersehen wurde, und schritt an Simpson
 gelassen vorüber — in den Garten hinaus …
 
 Durchschritt die Pforte und kam auf das offene Feld.
 
-Die Kecker dufteten kraftvoll, begannen die Saat emporzutreiben.
-Es war ja Mai … Motoryacht …
+Die Äcker dufteten kraftvoll, begannen die Saat emporzutreiben.
+Es war ja Mai … Maiennacht …
 
 Ich ging bis zur nächsten Straße, denselben Weg, den
 wir gekommen waren … Ich Hoffte, Harald irgendwo zu
@@ -2083,8 +2083,8 @@ den einsamen Straßen der Vororte.
 
 Wanderte heim …
 
-Und gelangte in unsere Blücherstra, sah schon von
-weitem die beiden Fenster von Karat Arbeitszimmer hell
+Und gelangte in unsere Blücherstraße, sah schon von
+weitem die beiden Fenster von Haralds Arbeitszimmer hell
 erleuchtet. Fand meinen Freund in Gesellschaft eines Mannes
 vor, den der Leser längst kennt:
 
@@ -2093,12 +2093,12 @@ Lionel Barring, ehemals Lord Allan Gnirable!
 Ich erkannte ihn sofort. Ein Gesicht wie dieses vergißt
 man nicht … —
 
-Der Leser wird sich erinnern, daß Harald in Slonftantt-nopel
+Der Leser wird sich erinnern, daß Harald in Konstantinopel
 Lionel Barring entweichen ließ — einen Mann, der
-bei all seiner Verworrenheit auch gute Eigenschaften besaß.
+bei all seiner Verworfenheit auch gute Eigenschaften besaß.
 Wir hatten ihn und sein Doppelleben damals in Schottland
 enthüllt. Wir hatten ihn aus dem alten Schlosse seiner
-Väter verjagt. Wir hatten ihn gehegt, hatten ihn in Konstantinopel
+Väter verjagt. Wir hatten ihn gehetzt, hatten ihn in Konstantinopel
 in unserer Gewalt.
 
 Und nun — nun saß er hier in einem Klubsessel, die
@@ -2111,15 +2111,15 @@ Harald sagte erklärend: »Wir sind im Auto davongefahren
 <@pagebreak/>
 Mehr sagte er nicht. Er nahm eben an, daß die Leine
 am Bodenfenster gefunden worden sei und Daß ich mir zusammengereimt
-hätte, weshalb er aus der Halle Berechnung
-den war.
+hätte, weshalb er aus der Halle verschwunden
+war.
 
 Ich nahm Platz.
 
-Barring hatte sich gleichfalls wichen gelebt.
+Barring hatte sich gleichfalls wieder gesetzt.
 
-»Herr Harst,« wandte er sich an mich, »war so ficbend-würdig
-und nach Billig, mir zu gestatten, ihn zu begleiten.«
+»Herr Harst,« wandte er sich an mich, »war so liebenswürdig
+und nachsichtig, mir zu gestatten, ihn zu begleiten.«
 
 Er rauchte ein paar Züge. Sein intelligentes Gesicht
 zeigte die Spuren starker seelischer Erregungen. Er war um
@@ -2128,23 +2128,23 @@ Jahre gealtert.
 Barring lächelte trübe …
 
 »Die Sache ist die, Herr Schraut,« fügte er hinzu. »Ich
-habe »mich entschlossen, mich der Polizei zu stellen, wollte
-vorher aber noch wenigfteins ein Altes Vers tun …«
+habe mich entschlossen, mich der Polizei zu stellen, wollte
+vorher aber noch wenigstens ein gutes Werk tun …«
 
-Meine überraschte Miene verstärkte noch seinen:.schmerz-lih-trüben
+Meine überraschte Miene verstärkte noch seinen schmerzlich-trüben
 Gesichtsausdruck.
 
-»Schon Sie, Herr Schraut, jeder Mensch hat einmal
-eine Stunde, wo das wellige Gute in der Seele selbst des
-Schreck. testen sich gleichsam Bahn bricht. Als Sie beide mich
-in Konstantinopel entschlüpfen hießen, hielt ich Abrechnung
-mit mir Selbst … Ein unachbeurer Ekel packte mich — vor
-mir Selbst! Und diesem Gier entsprang ein Kaliber Ende
-Schluß: ich löste alle Beziehungen zu meinen Verbündeten
+»Sehen Sie, Herr Schraut, jeder Mensch hat einmal
+eine Stunde, wo das wenige Gute in der Seele selbst des
+Schlechtesten sich gleichsam Bahn bricht. Als Sie beide mich
+in Konstantinopel entschlüpfen ließen, hielt ich Abrechnung
+mit mir Selbst … Ein ungeheurer Ekel packte mich — vor
+mir Selbst! Und diesem Ekel entsprang ein rascher Entschluß:
+ich löste alle Beziehungen zu meinen Verbündeten
 (vergl. Band 111: »Die große Null«) und wollte, bevor die
-Gerichte mir die Sühne meiner Verbrechen zudiklierten,
+Gerichte mir die Sühne meiner Verbrechen zudiktierten,
 wenigstens Ihrem Freunde beweisen, daß und wie dankbar
-ich ihm bin! Ich habe Sie beide nicht aus den Augen gelesen.
+ich ihm bin! Ich habe Sie beide nicht aus den Augen gelassen.
 Ich habe beobachtet, wie Sie das erstemal des Professors
 Haus in Dahlem …«
 
@@ -2163,53 +2163,53 @@ heimlich verfolgt und hat mir dann heute erklärt, daß ich
 mich hinsichtlich Simpsons fraglos auf ganz falscher Fährte
 befinde. Simpson sei ein harmloser Mensch …«
 
-»Ah habe sein Haus durchsucht — heute nacht, daher
-die Leine am Bodenfenster,« war’s der Lord ein
+»Ich habe sein Haus durchsucht — heute nacht, daher
+die Leine am Bodenfenster,« warf der Lord ein …
 
 Harald griff nach einer neuen Mirakulum.
 
-»Lieber Alter, wir treiben einen schweren Stand
+»Lieber Alter, wir werden einen schweren Stand
 gegenüber Simpson haben,« meinte er mit einer gewissen
-seinen Frage. »Der Geheimrat S, der Direktor Hammer,
+feinen Ironie. »Der Geheimrat S., der Direktor Hammer,
 der Lord: alle wollen für Simpsons Harmlosigkeit die Hand
-ins Feuer legen! Gnirable betonte, daß der UP:Kolossal bestimmt
+ins Feuer legen! Gnirable betonte, daß der Professor bestimmt
 in seinem Hause nichts verborgen hielte, was zu
-einer Nadioveinrichtuna gehören könnte … nichts …«
+einer Radioeinrichtung gehören könnte … nichts …«
 
-»Ich war zwei Stunden ganz allein in dem Gebäude,««
+»Ich war zwei Stunden ganz allein in dem Gebäude,«
 warf der Lord wieder ein. »Ich habe mich überall sehr
-gründlich umgesehen. In solchen Dingen bin ich ja sein
-Neuling. Daß Ihr Freund, Herr Schraut, den Profceffor
-als qncheimen Seliger einer Nadiveinridyung beargwöhnt,
-erfuhr ich allerdinus jetzt erst. Aber …«
+gründlich umgesehen. In solchen Dingen bin ich ja kein
+Neuling. Daß Ihr Freund, Herr Schraut, den Professor
+als geheimen Besitzer einer Radioeinrichtung beargwöhnt,
+erfuhr ich allerdings jetzt erst. Aber …«
 
 »Mylord,« unterbrach Harst ihn abermals, »wenn Professor
-Simpson zum Beispiel Funkspruchapparate zur der
-Fügung hat, kann er sich mit seinen Komplicen ganz bequem
-unter Vermeidung des gefährlichen Telephons oder.
-des noch gefährlichsten Briefwechsel Fels in Verbindung sehen.«
+Simpson zum Beispiel Funkspruchapparate zur Verfügung
+hat, kann er sich mit seinen Komplicen ganz bequem
+unter Vermeidung des gefährlichen Telephons oder
+des noch gefährlicheren Briefwechsels in Verbindung setzen.«
 
 »Gewiß, gewiß, Herr Harst. Aber dazu gehört eine
-Antenne, gehört ein Sender/ ein Empfänger und mancherlei
+Antenne, gehört ein Sender, ein Empfänger und mancherlei
 anderes …«
 
 »Ganz recht … Das gehört dazu, das alles Ist nötig,«
-nickte Harst aleichmiütita. »Ich sagte Ihnen ja schon: wir
+nickte Harst gleichmütig. »Ich sagte Ihnen ja schon: wir
 haben Simpson mit einem Kopfhörer gesehen!«
 
 »Das Schattenbild kann getäuscht haben …«
 
-»Niemals!« Und jetzt beugte Harst sich vor und Cm
-klärte leise, aber mit desto größerem Nachdruck: »Die Hauptsache,
+»Niemals!« Und jetzt beugte Harst sich vor und erklärte
+leise, aber mit desto größerem Nachdruck: »Die Hauptsache,
 aber auch die Hauptverräterin, ist eine Antenne. Ein
 <@pagebreak/>
-Felder Draht fällt auf. Es — — gibt Hilfsantennen, Mylord!«
+solcher Draht fällt auf. Es — — gibt Hilfsantennen, Mylord!«
 
 Gnirable blickte etwas verständnislos drein.
 
 »Hilfsantennen: so ein Balkongitter, so Antennen, die
 im Zimmer gespannt werden, so auch Zinkregenrinnen, die
-seinen Erdanjschluß haben …« dozierte Harald weiter …
+keinen Erdanschluß haben …« dozierte Harald weiter …
 
 Da flog Gnirables Kopf mit einem Ruck empor …
 
@@ -2219,8 +2219,8 @@ Da flog Gnirables Kopf mit einem Ruck empor …
 »Ja — die hat es, Mylord! Die hat es! Während
 Simpson im übrigen für das baufällige Gebäude und für
 den verwilderten Garten nichts getan hat, ist er so wenig
-(sparsam gewesen, das Haus oben mit einer neuen, ringsum
-laufenden Rinne und mit vier ebenso neuen Abflusrohren
+sparsam gewesen, das Haus oben mit einer neuen, ringsum
+laufenden Rinne und mit vier ebenso neuen Abflußrohren
 versehen zu lassen. Wir werden morgen den Bauklempner
 schon ausfindig machen, der die Rinnen angebracht hat. Der
 Mann wird uns dann auch sagen können, ob die alten
@@ -2230,35 +2230,35 @@ Gnirable rief: »Ein guter Gedanke, Herr Harst!«
 
 Und Harald fügte mit versteckten Gähnen hinzu:
 
-»sich wette, er benagt die Rinnen als Hilfsantennen.
-Das hat seine großen Vorteile Zimmerantennen können bei
-einer plötzlichen Haussuchung Teich! entdeckt werden. Ein
-Ableitunaspraht von einer Rinne kann so angelegt werden,
+»ich wette, er benutzt die Rinnen als Hilfsantennen.
+Das hat seine großen Vorteile. Zimmerantennen können bei
+einer plötzlichen Haussuchung leicht entdeckt werden. Ein
+Ableitungsdraht von einer Rinne kann so angelegt werden,
 daß er gar nicht auffällt. Ich behaupte, Simpson hat die
 Radioapparate gar nicht im Hause, sondern irgendwo im
 Garten verborgen. Wir werden ihn schon abfassen …«
 
 Gnirable stand auf. »Sie sind müde, Herr Harst. Ich
 werde mich verabschieden. Ich darf Ihnen also weiter gegen
-Sümpfen helfen?«
+Simpson helfen?«
 
 »Ja, natürlich, Mylord …«
 
 Gnirable zögerte noch. »Wenn nur etwas dabei herauskommt
-…« meinte er sinnend. »Simpson ist ein so be
-kannten Gelehrter, und seine jetzigen meteorologischen Studien
+…« meinte er sinnend. »Simpson ist ein so bekannter
+Gelehrter, und seine jetzigen meteorologischen Studien
 hier, die er auf eigene Kosten …«
 
-Haralda Lachen ließ ihn vershtmmen.
+Haralds Lachen ließ ihn verstummen.
 
 <@pagebreak/>
-»Mylord, diese Unkosten bringt Bad Falfchnänger-geichäft
+»Mylord, diese Unkosten bringt das Falschmünzergeschäft
 reichlich ein. Simpsons famose Regenmesserstationen
 sind seine Filialen für den Vertrieb der tadellosen Pfundnoten
-— das heißt’s, um Ihnen auch in diesem Punkte die
+— das ist’s, um Ihnen auch in diesem Punkte die
 Augen zu öffnen!«
 
-Gnirable blickte Harst unsicher an. »Oh — Ozean Sie
+Gnirable blickte Harst unsicher an. »Oh — wenn Sie
 recht hätten,« sagte er noch nachdenklicher.
 
 »Ich habe recht … Der ermordete Gastwirt Knobloch
@@ -2267,8 +2267,8 @@ Anna Karstens! Und dasselbe Amulett kennt Simpson.
 Dasselbe Amulett wirkte auf Mr. Setters Diener, den Gatten
 Anna Karstens, wie ein Blitzstrahl. Knobloch bediente
 den Regenmesser. Frau Krug war empört, daß ihre Beete
-nachts zertreten turnten. Das tat Knobloch nicht, das taten
-Leute, die nicht aus Neugier den 7 cgenmesser besuchten.
+nachts zertreten wurden. Das tat Knobloch nicht, das taten
+Leute, die nicht aus Neugier den Regenmesser besuchten.
 Nächste Nacht, Mylord, werden wir uns mal das Ding da
 auf dem Felde am Hause Simpsons genauer ansehen …! —
 Gute Nacht denn … Kommen Sie heute abend gegen zehn
@@ -2277,31 +2277,31 @@ Uhr zu uns …«
 »Wollen Sie mich nicht besser durch den Gemüsegarten
 hinauslassen, Herr Harst?«
 
-»Nicht nötig. Glauben Sie denn, Schimpfen wird so
+»Nicht nötig. Glauben Sie denn, Simpson wird so
 töricht sein, mich mit Spionen zu umgeben?! Nein — Sie
-irren! Da Oft er zu schlau dazu. Spione können abgefaßt
+irren! Da ist er zu schlau dazu. Spione können abgefaßt
 werden und plaudern. Simpsons Panzer ist eben sein …
-harmloser Gelehrtenlebei:Armbandes …«
+harmloser Gelehrtenlebenswandel …«
 
-Gnirable verließ und.
+Gnirable verließ uns.
 
 Wir waren allein. Harald ging im Zimmer auf und
 ab, blieb vor meinem Sessel stehen …
 
-»Merkwürdig, wie ein Mensch gründlich Sehnsucht nach
+»Merkwürdig, wie ein Mensch plötzlich Sehnsucht nach
 dem Tode empfinden kann,« sagte er sehr ernst. »Gnirable
-weiß, daß man ihn in England aufsknüpsen Wird, denn dem
-Buchstaben des Sessel nach ist er ja ein Mörder. Seine
-Neue ich fraglos aufrichtig. Er … Wut mir leid …» —
+weiß, daß man ihn in England aufknüpfen Wird, denn dem
+Buchstaben des Gesetztes nach ist er ja ein Mörder. Seine
+Reue ist fraglos aufrichtig. Er … tut mir leid …» —
 
-Gleich darauf lag ich im Bett und schlief auch sorge!
-»n, staunte sehr aufregend, daß, ich vor Gericht Wespen
+Gleich darauf lag ich im Bett und schlief auch sofort
+ein, träumte sehr aufregend, daß ich vor Gericht wegen
 <@pagebreak/>
 Hausfriedensbruch zum Tode verurteilt wurde und daß ich
 unter einem Galgen stand, an dem schon ein Gerippe an
 einem Strick hing.
 
-So war’s ich im Traum die drohende Anzeige wegen
+So warf ich im Traum die drohende Anzeige wegen
 Eindringens in fremdes Eigentum und Lord Allan Gnirables
 Geschick durcheinander.
 
@@ -2361,7 +2361,7 @@ meinte er warnend. »Auch Sie zürnen sich Mai verhauen.«
 
 »In diesem Falle nicht, mein lieber Bechert! Simpson
 ist bereits eingekreist. Ding er wähnen, daß sein schlauer
-Gelchrtenkopfs noch nicht in der Schlinge steckt — desto besser!
+Gelehrtenkopfs noch nicht in der Schlinge steckt — desto besser!
 Mag er und sein Genosse Echter glauben, ich) tappte noch im
 Dunkeln! Ich — — tappe nicht — ich gehe im hellen
 Lichte! Knobloch wurde ermordet, nachdem der Engländer
@@ -2943,7 +2943,7 @@ zUgezogcen.
 
 Frau Krug stierte den Professor entzieht an. Die
 Petroleumlampe beschien das intelligente Gesicht des auf
-einem Stuhl Zufammengefunfenen …
+einem Stuhl Zusammengesunkenen …
 
 »Brav Krug,« sagte Harald leise, »dies Oft auch der
 Mann, der Ihre Tochter in den Tod geschickt hat. Denn —
