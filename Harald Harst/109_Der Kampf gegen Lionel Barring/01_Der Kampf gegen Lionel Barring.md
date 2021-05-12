@@ -143,7 +143,7 @@ Harald las die Depesche. Ich beobachtete sein Gesicht.
 > Ich bitte Sie, Mr. Harst, schnellstens nach Schottland
 zu kommen. Ich brauche Ihre Hilfe. Benutzen
 Sie die günstigste Fahrgelegenheit. Die Kosten spielen
-keine Rolle. Ich Habe Ihnen bei der Bank of Australia
+keine Rolle. Ich habe Ihnen bei der Bank of Australia
 3000 Pfund angewiesen, die Sie sofort abheben können.
 Es handelt sich um drei Menschenleben. — Lord Allan
 Howard Gnirable, Schloß Gnir, Bahnstation Lammerty,
@@ -202,6 +202,7 @@ Und — auf der Rückseite, dort, wo man den Absender
 hinzusetzen pflegt, las ich mit Bleistift hingekritzelt:
 
 <@pagebreak/>
+
 > Fahren Sie nicht nach Schloß Gnir!
 
 »So — und nun der Brief selbst, mein Alter«, munterte
@@ -321,7 +322,7 @@ Anfänge meiner Nachforschungen eingeweiht hatte. Da ich
 also niemals von meiner von Dir zu Unrecht stets gerügten
 Methode, zunächst Geheimniskrämerei Dir gegenüber zu
 treiben, abweiche, muß ich wohl sehr gewichtige Gründe
-dafür haben. Und — die Habe ich auch. Kurz gesagt: ich
+dafür haben. Und — die habe ich auch. Kurz gesagt: ich
 glaube, daß wir beide noch nie in so ernster Gefahr geschwebt
 haben wie jetzt, wie dieses Mal! Ich will die Verantwortung
 für unsere Sicherheit nicht allein tragen!«
@@ -499,7 +500,7 @@ blonde Perücke auf, Mistreß«, sagte er hastig. »Wünschen
 Sie, daß ich den Hoteldirektor hole?«
 
 Ihr Gesicht ward von Röte überflutet. Die Lippen
-preßten sich fest auseinander.
+preßten sich fest aufeinander.
 
 »Bitte!!« wiederholte Harald und deutete auf die Tür
 des Lesesaals.
@@ -672,7 +673,7 @@ jeden Kratzer. Miß Gould ist dort hinaus.«
 
 Und er zeigte auf den Kleiderschrank, zog die nur zugedrückte
 Tür auf, leuchtete hinein, bewies mir, daß das
-Mitteilbrett der Rückwand herausgeschnitten und nur festgeklemmt
+Mittelbrett der Rückwand herausgeschnitten und nur festgeklemmt
 war, stellte es beiseite, stieg in den Schrank und
 winkte.
 
@@ -821,7 +822,7 @@ harmlos — gänzlich harmlos.
 <h2>4. Kapitel.</h2>
 <h3>Die Walnuß.</h3>
 
-Weniger harmlos war diese Seereise auf der Ozeans.
+Weniger harmlos war diese Seereise auf der Ozeana.
 
 Wenn der Leser Zeitungen vom 5. März 1923 noch
 zur Verfügung hat, wird er unter »Auslandstelegrammen«
@@ -982,7 +983,7 @@ Und er ging und brachte zwei genau aneinander
 passende Nußschalenhälften, die durch dunklen Siegellack
 verklebt gewesen. Es war eine außergewöhnlich große
 Nuß, und statt des Kerns hatte ein in Watte gewickelter
-Diamant, ein wahres Prachtstück, in den schalen gelegen,
+Diamant, ein wahres Prachtstück, in den Schalen gelegen,
 die durch den Nußknacker nur ganz leicht zersplittert war.
 
 Der alte Herr schilderte uns wortreich seine ungeheure
@@ -1052,7 +1053,7 @@ von der nahen Küste her über das Meer und die Stadt
 hinweg. Die schweren eichenen Fensterläden, von außen
 vorgelegt und am Fensterkreuz verschraubt, klapperten zuweilen
 leise. Im Ofen heulte die Windsbraut, und trotz
-des Unwetters jaulte auf dem Hofe der Pforte ein verliebter
+des Unwetters jaulte auf dem Hofe der Pfarre ein verliebter
 Kater in herzerweichenden Tönen.
 
 Ich wartete und rauchte und sann und sann. — Was
@@ -1078,7 +1079,7 @@ Tischdecke aus.
 So fanden wir denn bei dieser Untersuchung noch
 siebzehn Nüsse heraus, die mit bräunlichem Siegellack unauffällig
 zugeklebt waren. Nachdem wir sie vorsichtig geöffnet
-hatten, lagen vor und ... sechzehn prächtige große Perlen
+hatten, lagen vor uns ... sechzehn prächtige große Perlen
 von wunderbarem Glanz, Perlen von so auserlesener
 Größe und Güte, wie man sie selten antrifft. Sechzehn
 Perlen. Und in der siebzehnten Nuß hatte ein ganz eng
@@ -1111,7 +1112,7 @@ Lionel Barring, meinen *Mörder*, zu entlarven imstande
 ist. — Ich behaupte: Barring ist mein Mörder! Mögen
 die Begleitumstände meines Todes auch noch so sehr auf
 einen Unfall oder ein natürliches Ende schließen lassen: all
-das trügt! Ich bin bestimmt befestigt worden! — Damit
+das trügt! Ich bin bestimmt beseitigt worden! — Damit
 Sie, Ehrwürden, oder auch Graf Söderholm oder mein
 Landsmann Harald Harst über dieses letzte Jahr meines
 unseligen Lebens genau unterrichtet sind, damit Sie wissen,

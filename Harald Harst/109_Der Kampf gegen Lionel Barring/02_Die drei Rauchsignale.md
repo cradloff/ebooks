@@ -535,7 +535,7 @@ verabschiedete Barring sich.«
 »Ja. Es mag ein paar Minuten vor zwölf gewesen
 sein. — Weshalb fragen Sie so merkwürdig, Mr. Harst?«
 
-»Weil Barring Punkt zwölf hier in der Pforte war.«
+»Weil Barring Punkt zwölf hier in der Pfarre war.«
 Und er erzählte nun ganz kurz die Geschehnisse, ohne jedoch
 Doktor Lorms Geständnis zu erwähnen.
 
@@ -600,7 +600,7 @@ gesehen?« fragte Harald jetzt, indem er sein Zigarettenetui
 hervorzog.
 
 »Gegen 10 Uhr«, erwiderte der Detektivinspektor.
-»Ein Kaufmann aus Lammerty traf sie unweit der Seitenflügel
+»Ein Kaufmann aus Lammerty traf sie unweit der Felsenhügel
 auf dem Moor. Sie schienen nur spazieren zu
 gehen, rauchten und unterhielten sich lebhaft.« —
 
@@ -808,7 +808,7 @@ Wanderten wie die Lederstrumpf-Rothäute auf dem
 Kriegspfade — die Augen überall — stets lauschend —
 alle Sinne anstrengend.
 
-Keinem Menschen begegneten wir. Nun ein Hund
+Keinem Menschen begegneten wir. Nur ein Hund
 trabte an uns vorbei, knurrte ...
 
 Nach einer Viertelstunde ging’s in einen langen,
