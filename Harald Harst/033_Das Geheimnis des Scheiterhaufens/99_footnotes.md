@@ -1,4 +1,4 @@
-<h2>Anmerkungen</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Das Geheimnis des Scheiterhaufens.md">Fehlendes Wort sinngemäß
 ergänzt.</@footnote>

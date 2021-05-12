@@ -1,4 +1,4 @@
-<h3>Anmerkungen:</h3>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "02_Das Geheimnis des Czentowo-Sees.md">In der Überschrift wird
 der Name Czentowo mit „C“ geschrieben, während er im gesamten übrigen Text als
