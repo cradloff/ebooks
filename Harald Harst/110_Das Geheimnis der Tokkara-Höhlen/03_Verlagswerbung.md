@@ -1,7 +1,6 @@
 <@pagebreak 65/>
 
-<div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
-<div style="font-size: large; text-align: center;">unserer Harst-Abenteuer</div>
+<div style="font-size: large; text-align: center;">Titel-Verzeichnis der Harald Harst-Bändchen</div>
 
 <table style="table-layout:fixed; font-size: x-small;">
 <tr><td style="width:50%"> 63. Die Bärenjagd i. Kaschmir.   </td><td style="width:50%" rowspan="2"> 86. Die Wundergeige des Virtuosen.</td></tr>
@@ -32,14 +31,10 @@
 <tr><td>80. Lady Myntors letzter Wunsch.                    </td><td>108. Die Motorjacht ohne Namen.</td></tr>
 <tr><td>81. Der Giftpfeil des Wedda.                        </td><td rowspan="2">109. Der Kampf gegen Lionel Barring.</td></tr>
 <tr><td rowspan="2">82. Der Schlangenbeschwörer von Agra.   </td></tr>
-<tr>                                                             <td rowspan="2">110. Das Geheimnis der Tokkara-Fälle.</td></tr>
+<tr>                                                             <td rowspan="2">110. Das Geheimnis der Tokkara-Höhle.</td></tr>
 <tr><td rowspan="2">83. Das Patent des Doktor Murphison.    </td></tr>
 <tr>                                                             <td>111. Die große Null.</td></tr>
 <tr><td>84. Die Buschklepper d. Thar-Wüste.                 </td><td>112. Das Geheimnis des Bosporus.</td></tr>
 <tr><td>85. Das blinde Hindumädchen.                        </td><td>113. Anna Karstens Amulett.</td></tr>
 </table>
-
-<div style="font-size: large; text-align: center;">Erhältlich in jeder Buchhandlung oder direkt beim</div>
-<div style="font-size: x-large; text-align: center;">Verlag moderner Lektüre</div>
-<div style="font-size: large; text-align: center;">Berlin SO16 / Michaelkirchstraße 23a</div>
 

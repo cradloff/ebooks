@@ -59,7 +59,7 @@ Nacht hinein am 12. April die Umgebung von Schloß Gnir
 abermals abgesucht hatten, ein neuer Morgen herauf, der
 des 13. April.
 
-Es gibt Uebergenug abergläubische Gemüter, die vor der
+Es gibt Übergenug abergläubische Gemüter, die vor der
 Dreizehn einen heiligen Respekt haben.
 
 Ich auch. Genau so, wie ich nie meinen Weg fortsetze,
@@ -82,7 +82,7 @@ Lionel Barring, wie wir ihn auch weiter nennen
 wollen, enthielt für uns jedoch eine bedeutsame Neuigkeit.
 — Ich gebe den betreffenden Absatz hier wörtlich wieder.
 
-»Ich Habe erfahren (so hatte Barring-Gnirable dem
+»Ich habe erfahren (so hatte Barring-Gnirable dem
 Redakteur erklärt), daß entsprechend den Erbfolgebestimmungen
 meiner Familie, nach denen jeder Unehrenhafte von der
 Erbfolge ausgeschlossen ist, bereits Schritte eingeleitet
@@ -144,8 +144,8 @@ Harst eine Depesche reichte.
 
 Sehr gespannt öffnete Harald das Telegramm.
 
-Es kam von... John Backhurst aus London, von
-dem neuen Erben... und lautete:
+Es kam von … John Backhurst aus London, von
+dem neuen Erben … und lautete:
 
 > Treffe nachmittags 4 Uhr auf Bahnstation Lammerty
 ein, da zuständige Behörde mich soeben in alle
@@ -154,7 +154,7 @@ nötigen Urkunden und meinen Freund Tossing mit.
 Bitte Auto zur Bahn zu senden. — Lord John Allan
 Howard Gnirable, bisher John Backhurst.
 
-Harald hatte wir die Depesche vorgelesen.
+Harald hatte mir die Depesche vorgelesen.
 
 »Das kann ja heiter werden!« meinte er nun. »Bisher
 hat Lionel Barring, abgesetzter Lord Gnirable, sich uns
@@ -285,7 +285,7 @@ Speise und Trank zuträgt?«
 »Welche Frage!«
 
 »Baptiste, der Diener, dieser würdige weißhaarige
-Mann, ist... Daniel.«
+Mann, ist … Daniel.«
 
 Da wurde ich mit einem Schlage aufmerksam.
 
@@ -330,7 +330,7 @@ rauchten, und Harald gab mir genaue Verhaltungsmaßregeln.
 
 Um ein Uhr brachen wir auf. — Im Schlosse herrschte
 Totenstille. Lautlos huschten wir über Treppen und Flure
-bis in den ersten Stoß des Mittelbaus, wo Lord Johns
+bis in den ersten Stock des Mittelbaus, wo Lord Johns
 Schlafzimmer neben dem seines Gigerl-Freundes lag. Links
 von Lord John schlief Baptiste als neuernannter Kammerdiener
 in einem schmalen einfenstrigen Raume — erst seit
@@ -339,7 +339,7 @@ heute, auf Lord Johns Befehl.
 Diesen drei Räumen gegenüber, deren Fenster nach
 dem Parke hinausgingen, befand sich die Bibliothek des
 Schlosses, jenes lange Zimmer, in dem Lionel Barring uns
-beide hatte... ausräuchern wollen. — Harst hatte mir geraten,
+beide hatte … ausräuchern wollen. — Harst hatte mir geraten,
 die Tür dieses Zimmers etwas offen zu lassen und
 mich dicht dahinter auf einen Stuhl zu setzen.
 
@@ -372,7 +372,7 @@ Und diese Erregung stieg.
 Das Geräusch kam nicht aus dem Flur, sondern — —
 aus der Bibliothek selbst.
 
-Es klang wie ein Scharren und Kratzen...
+Es klang wie ein Scharren und Kratzen …
 
 Kaum war ich mir darüber klar, daß es von der linken
 Wand der Bibliothek her ertönte, als ich auch schon den
@@ -397,13 +397,13 @@ Schnitzerei jeden Bildhauer entzückt hätte.
 
 Doch — bis zur Wand kam der Unbekannte nicht.
 
-Anderes kam...
+Anderes kam …
 
 Urplötzlich von draußen — vom Flur her ein so gellender
 Hilferuf, daß der Fremde jäh herumfuhr und auch ich zusammenzuckte.
 
 Der Schrei wiederholte sich — wurde noch lauter,
-wurde zum Kreischen...
+wurde zum Kreischen …
 
 Eine zweite Stimme war zu unterscheiden.
 
@@ -414,7 +414,7 @@ Ebenso jäh aber verstummte auch der Lärm, in dem
 man noch das dumpfe Krachen umstürzender Möbel unterscheiden
 konnte.
 
-Ebenso jäh...
+Ebenso jäh …
 
 Und ich?! — Ich hatte drei kostbare Minuten infolge
 der Anwesenheit des Unbekannten nutzlos verstreichen lassen.
@@ -422,7 +422,7 @@ Ich war denen, die ich bewachen sollte, nicht zu Hilfe geeilt!
 
 Dann schon Baptistes Stimme im Flur:
 
-»Mylord — Mylord, — — öffnen Sie!! Oeffnen Sie!!
+»Mylord — Mylord, — — öffnen Sie!! Öffnen Sie!!
 Hier ist Baptiste!«
 
 Plötzlich glitt jetzt der Fremde zur Tür, zog sie auf —
@@ -470,7 +470,7 @@ Alverson faßte durch das Loch hindurch und schob den
 Riegel zurück, drehte den Schlüssel um, die Tür ging auf.
 
 Ein umgekippter Rauchtisch, Blutspritzer auf dem Bett,
-an der Wand, eine Blutlache auf dem Teppich...
+an der Wand, eine Blutlache auf dem Teppich …
 
 Aber kein Mensch hier — kein Lebender, kein Toter!
 
@@ -513,7 +513,7 @@ Galerie hinter den Vorhängen des dritten Fensters hatte
 verbergen wollen.
 
 Ich rief seinen Namen, schlug die Vorhänge zurück
-— — und stutzte...
+— — und stutzte …
 
 An der einen Portiere hing ein Zettel, mit einer Stecknadel
 befestigt.
@@ -558,7 +558,7 @@ bewußt wurde, sagte bereits eine tiefe, volle Stimme:
 
 »Harst erwartet Sie, Mr. Schraut. Kommen Sie!«
 
-Es war... Lionel Barring, der Exlord.
+Es war … Lionel Barring, der Exlord.
 
 Der zurückfallende Schein der Laterne spiegelte sich matt
 in dem dunklen, breiten Lauf einer Selbstladepistole wider,
@@ -572,7 +572,7 @@ die auf meine Stirn gerichtet war.
 Barring ließ mich vorüber und kletterte dann hinter mir
 die Leiter hinab in die Tiefe.
 
-Unter empfingen mich zwei Leute, die ebenfalls Laternen
+Unten empfingen mich zwei Leute, die ebenfalls Laternen
 trugen. Von hier lief ein gemauerter Gang nordwärts,
 ein feuchter, endloser Gang, dessen Wände, Decke und Fliesenbelag
 mit gelblichem Schimmel dicht überwuchert waren.
@@ -653,9 +653,9 @@ Jetzt noch einer — mit jeder Pendelbewegung einer.
 Schließlich fühlte ich, daß der Stoff zerfetzt war und
 die Klinge über Metall hinwegglitt — über die Clement.
 
-Und da gerade wandte Barring wieder den Kopf...
+Und da gerade wandte Barring wieder den Kopf …
 
-Mein Herzschlag stockte...
+Mein Herzschlag stockte …
 
 Aber Barring sagte nur in seiner selbstbewußt nachlässigen
 Art:
@@ -668,35 +668,35 @@ Ich atmete auf.
 
 Noch ein Schnitt — ein rasches Tasten mit den Fingern.
 
-Ich... spürte das Metall der Waffe. Die Tasche
+Ich … spürte das Metall der Waffe. Die Tasche
 war ebenfalls zerfetzt.
 
 Nun das Messer weg — zurück in die Weste.
 
 Nun ein kecker Griff — ein Ruck — ein schnelles
-Zurückschieben der Sicherung...
+Zurückschieben der Sicherung …
 
 Und dann — mit dem Metallkolben ein blitzartiger
-Schlag nach vorn — auf Barrings Hinterkopf...
+Schlag nach vorn — auf Barrings Hinterkopf …
 
-Ein Herumschnellen...
+Ein Herumschnellen …
 
 Die Kerle hatten ihre Pistolen schon halb erhoben.
 
-Auf kaum vier Schritt feuerte ich...
+Auf kaum vier Schritt feuerte ich …
 
-Zweimal...
+Zweimal …
 
 Die Laternen polterten zu Boden — auch diese
-Laternen...
+Laternen …
 
-Auch diese beiden Gegner knickten um — für immer...
+Auch diese beiden Gegner knickten um — für immer …
 
 <@pagebreak/>
 Und Barring lag da — regungslos, auf dem Gesicht
 wie ein gefällter Baum.
 
-Ein Schwindel packte mich...
+Ein Schwindel packte mich …
 
 Jetzt, wo der Streich gelungen, kam der Rückschlag nach
 der ungeheuren Aufregung.
@@ -708,7 +708,7 @@ Barrings Kumpane waren übereinander gestürzt. Ich
 hatte nur zu gut getroffen. Stirnschüsse wirken ja meist
 blitzartig.
 
-Ich stierte auf die Toten...
+Ich stierte auf die Toten …
 
 Dachte da an den nur bewußtlosen Barring. Und
 wurde wieder Herr über meine Nerven.
@@ -725,11 +725,11 @@ Im Dunkeln lehnte ich an der feuchten, von Schimmel
 schlüpfrigen Wand. Horchte — horchte, hielt die treue Waffe
 bereit.
 
-Nichts... nichts...
+Nichts … nichts …
 
 Totenstille.
 
-Hinter wir lagen ja auch zwei Tote.
+Hinter mir lagen ja auch zwei Tote.
 
 Ich begann zu zählen. Nach fünf Minuten wollte ich
 weiter — weiter den Tokkara-Höhlen zu, die ich mit Harst
@@ -738,34 +738,34 @@ hatten dort keinerlei Beweis gefunden, daß dort jemand
 sich verborgen hielt, hatten sämtliche Nebengrotten aufs genaueste
 durchsucht, auch auf geheime Türen hin.
 
-Ich zählte, horchte...
+Ich zählte, horchte …
 
 <@pagebreak/>
 War bis 163 gekommen, als ich aufschreckte.
 
-Jemand kam...
+Jemand kam …
 
-Ohne Zweifel...
+Ohne Zweifel …
 
 Ich hörte nur hin und wieder ganz schwache Geräusche.
 Ich drückte mich eng an die Wand. Wollte die Laterne enthüllen,
 sobald der Nahende oder die Nahenden über Barrings
-Körper stolperten. Wollte feuern — rücksichtslos...
+Körper stolperten. Wollte feuern — rücksichtslos …
 
-Auge um Auge, Zahn um Zahn!!...
+Auge um Auge, Zahn um Zahn!!…
 
-Ich hörte nichts mehr...
+Ich hörte nichts mehr …
 
 Ich beugte den Kopf vor.
 
 Hörte nichts — fühlte den Schweiß über meine Wangen
-laufen — fühlte meine Knie zittern...
+laufen — fühlte meine Knie zittern …
 
 Lange hielt ich diese furchtbare Anspannung aller Nerven
-nicht mehr aus...
+nicht mehr aus …
 
 Umsonst bohrte ich meine Augen in die Finsternis
-vor mir...
+vor mir …
 
 Bis — da ein ganz dünner Lichtfaden aufzuckte wie ein
 weißer Strich und Barrings Gesicht traf und — — erlosch.
@@ -781,14 +781,14 @@ Und — jemand leise sagte:
 
 Meine Jacke gab die Karbidlampe frei.
 
-»Harald — Du?!« — Das war Ueberraschung, Freude,
+»Harald — Du?!« — Das war Überraschung, Freude,
 war die Seligkeit, hier mit diesen Schrecken der Unterwelt
 nicht mehr allein zu sein.
 
 Er schaltete seine Taschenlampe wieder ein und sah nun
 die Toten.
 
-»Sie haben’s verdient,« meinte er nur... »Eine böse
+»Sie haben’s verdient,« meinte er nur … »Eine böse
 Nacht — für Barring!«
 
 Er bückte sich und untersuchte die Fesseln des Bewußtlosen,
@@ -850,7 +850,7 @@ Tage überfällig. — Diese drei bilden Sektion eins der
 großen Null, wie Barring mir anvertraute, als ich dort in
 jenem Sessel, bewacht von den Revolvern der Sektion eins,
 recht weich und warm saß. Der Ofen ist ja geheizt. Dann
-verließ Barring mit den Ueberresten der Sektion drei, nämlich
+verließ Barring mit den Überresten der Sektion drei, nämlich
 den beiden Leuten, die Du jetzt erledigt hast, diesen
 Schlupfwinkel und empfahl mich der Obhut der drei Herren,
 die nun hier gefesselt liegen und uns so wenig freundlich
@@ -858,11 +858,11 @@ anblicken. Ich saß also dort im Sessel, und Sektion eins
 dachte, ich sei nun für immer unschädlich gemacht. So sicher
 waren die Herrschaften ihrer Sache, so sehr vertrauten sie
 ihren Revolvern, daß sie mir erlaubten, eine Zigarette zu
-rauchen...«
+rauchen …«
 
 Als er all dies mit seiner so unendlich überlegenen
 Ironie vorgebracht hatte, als er jetzt die Zigaretten erwähnte,
-ging mir... ein Licht auf.
+ging mir … ein Licht auf.
 
 »Ah — die linke Seite des Etuis!« sagte ich rasch.
 
@@ -875,7 +875,7 @@ Natürlich wurde den Herren dann sehr bald
 schwindelig, und diesen Umstand durfte ich in aller Ruhe für
 mich ausnutzen. So fand sich Sektion eins nachher auf dem
 Tische wieder vor. — Ich werde jetzt Barring holen, mein
-Alter. Und dann...«
+Alter. Und dann …«
 
 Ich konnte nicht länger schweigen.
 
@@ -922,7 +922,7 @@ weiter und schwieg.
 Da beugte Harst sich halb über das Tischchen. Seine
 Stimme war messerscharf. »Mensch, glauben Sie mich betrügen
 zu können?!« meinte er, wohl absichtlich langsam
-sprechend. »Was Schraut mir über das wüßte Aussehen der
+sprechend. »Was Schraut mir über das wüste Aussehen der
 beiden Schlafzimmer und über die deutlichen Spuren bis zur
 Straße erzählt hat, läßt mich mit Bestimmtheit annehmen,
 <@pagebreak/>
@@ -934,7 +934,7 @@ Atem an. — Was sollte das?! Harry Tossing sollte also
 mit Barring im Bunde stehen?!
 
 Und dieser Barring verbeugte sich nun. »Allerhand
-Achtung, Mr. Harst. Sie haben’s also gemerkt...!«
+Achtung, Mr. Harst. Sie haben’s also gemerkt …!«
 
 »Ja, bei dem Empfangssouper. Da sah ich Ihre oder
 besser Tossings Hände, was ja auch dasselbe ist. Wer so
@@ -947,7 +947,7 @@ Maske des Tossing herangemacht, da ich damit rechnete, daß
 man mich eines Tages entlarven und John mein Nachfolger
 als Lord Gnirable werden würde. Ich wollte auf John
 rechtzeitig Einfluß gewinnen. Die Telephongespräche mit den
-Redaktionen in London hat ein Freund für mich beerdigt. Ich
+Redaktionen in London hat ein Freund für mich besorgt. Ich
 war in London.«
 
 Oh — welch ein Schurke war das nur!! Ein Schurke,
@@ -963,9 +963,9 @@ Sie ihn nie finden werden — nie! Diesen Ort kenne nur
 ich, und die beiden Toten kannten ihn auch. Sonst niemand.
 Mein Ehrenwort darauf. Wenn John also befreit werden
 soll, müssen Sie auch mir die Freiheit schenken. Ich will Sie
-beide, sobald Sie wir die Freiheit zugesichert haben, an
+beide, sobald Sie mir die Freiheit zugesichert haben, an
 <@pagebreak/>
-Jenen Ort führen. Sie werden dann zugeben, daß dieses
+jenen Ort führen. Sie werden dann zugeben, daß dieses
 Versteck von Ihnen niemals gefunden worden wäre. — Ich
 spiele hier jetzt ein ehrliches Spiel, Mr. Harst. Mein Leben
 gegen das Lord Johns! Es ist ein anständiger Handel.«
@@ -1001,13 +1001,13 @@ Groubby hierher führt, ist unser Handel hinfällig.«
 
 Barring hatte sich mit einem Ruck umgedreht. Sein
 Gesicht drückte mehr Staunen als Bestürzung aus. Dann
-verzog sich sein Mund zu einem geringschätziger Lächeln.
+verzog sich sein Mund zu einem geringschätzigen Lächeln.
 »Baptiste kennt das Geheimnis der Tokkara-Höhlen nicht!«
 sagte er achselzuckend. »Folgen Sie mir!«
 
 <@pagebreak/>
 Und er schritt der Eisenleiter zu, blieb neben ihr stehen.
-»Hier hinauf, bitte...!«
+»Hier hinauf, bitte …!«
 
 Harst kletterte voran, nachdem er Barrings Hände vor
 der Brust gefesselt hatte, daß der Verbrecher die Sprossen
@@ -1060,7 +1060,7 @@ engen Spalte, die wir schon vorhin passiert hatten.
 »Hier befindet sich der Eingang zur Lord Johns Zelle,« erklärte
 er. »Suchen Sie!«
 
-»Es genügt, Barring. Oeffnen Sie den Eingang.«
+»Es genügt, Barring. Öffnen Sie den Eingang.«
 
 Barring hob die gefesselten Hände. »Sehen Sie hier
 diese Zacke — dann die — dann die — im ganzen acht. Man
@@ -1071,7 +1071,7 @@ stehen kann. Dort befindet sich eine eiserne Tür mit drei
 Riegeln.«
 
 Harst kletterte empor. Barring folgte gewandt. Und
-kam als letzter nach oben.
+ich kam als letzter nach oben.
 
 Die eiserne Tür war in eine Spalte eingefügt worden,
 deren übrige Teile man durch Felsstücke zugemauert hatte.
@@ -1090,13 +1090,13 @@ Barring rief plötzlich — und daß er erschrocken war,
 merkte ich seiner Stimme an:
 
 <@pagebreak/>
-»Lord John ist nicht hier! Mein Gott, sollte er etwa...«
+»Lord John ist nicht hier! Mein Gott, sollte er etwa …«
 
 Ich hatte mich an Barring vorbeigedrängt. Seine Bestürzung
 war so echt, daß auch Harald für Sekunden alle
 Vorsicht außer acht ließ und nun suchend den Raum überblickte.
 
-Dann — ein Knall hinter uns...
+Dann — ein Knall hinter uns …
 
 Barring war zurückgesprungen, hatte die Tür zugeworfen,
 hatte die Riegel vorgeschoben.
@@ -1107,7 +1107,7 @@ seine Stimme:
 »Es war ein ehrlicher Handel! Daß Lord John sich
 selbst den Tod gegeben, ahnte ich nicht!«
 
-Dann — Stille...
+Dann — Stille …
 
 Harald schaute mich an. »Deine Schuld! Du hättest
 hinter ihm bleiben sollen.«
@@ -1118,6 +1118,5 @@ Wir waren gefangen.
 
 Aber — wo war Lord John — — wo?! — —
 
-Dies und anderes kläre ich in... fünf Sekunden auf.
-
+Dies und anderes kläre ich in … fünf Sekunden auf.
 

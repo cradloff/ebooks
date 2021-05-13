@@ -35,10 +35,10 @@ die Lionel Barring nicht ganz unzutreffend als Zelle
 bezeichnet hatte.
 
 Ich senkte also unter Haralds berechtigten Vorwürfen
-beschämt den Kopf und... hielt den Mund. In solchen
+beschämt den Kopf und … hielt den Mund. In solchen
 Momenten ist es besser, sich Harst gegenüber nicht zu verteidigen
 oder zu entschuldigen. Er wird dann meist ironisch,
-und daß ist noch scheußlicher als eine Rüge hinnehmen zu
+und das ist noch scheußlicher als eine Rüge hinnehmen zu
 müssen.
 
 Ohne mich weiter zu beachten ging er zur Tür und
@@ -74,12 +74,12 @@ wissen jetzt ja, daß der greise Baptiste die Lebensmittel nicht
 Barring gebracht hat, und daß er ebensowenig das Geheimnis
 <@pagebreak/>
 des Ahnenbildes kennt. Es drängen sich uns daher zwei
-Fragen auf...«
+Fragen auf …«
 
 Mit weit vorgestreckten Beinen setzte er eine Zigarette
 in Brand.
 
-»... Zwei Fragen...« Und er blies zwei Rauchwölkchen
+»… Zwei Fragen …« Und er blies zwei Rauchwölkchen
 in die hier völlig trockene und sogar angenehm
 warme Luft. (Ein Ofen war nicht vorhanden!)
 
@@ -103,7 +103,7 @@ zum Verlassen der Galerie benutzt hat, wie verschwand er
 dann die beiden Male so schnell, wie ich hinter ihm
 drein war?«
 
-»Vielleicht hat die Ahnengalerie noch eine zweite Geheimtür...«
+»Vielleicht hat die Ahnengalerie noch eine zweite Geheimtür …«
 
 »Bravo! Auch ich nehme das an.« — Er rauchte hastig
 und starrte auf seine Stiefelspitzen. »Gehen wir nun auf
@@ -115,12 +115,12 @@ ahnen können, daß Lord John sich selbst den Tod gegeben.
 »Ich verstehe es überhaupt nicht.«
 
 <@pagebreak/>
-»So...so. — Schau doch mal dort nach recht hin.
+»So … so. — Schau doch mal dort nach rechts hin.
 Was siehst Du?«
 
 »Einen am Boden liegenden umgekippten Stuhl.«
 
-»Aha! — Und was riechst zu auf der Platte des
+»Aha! — Und was siehst Du auf der Platte des
 Tisches, an dessen anderer Seite Du lehnst?«
 
 Ich drehte mich halb um.
@@ -134,7 +134,7 @@ schmutzig gemacht hatte. Also: der Mann ist auf den
 Tisch gestiegen. — So, und jetzt betrachte mal das Sitzbrett
 des umgekippten Holzstuhles.«
 
-»Ah — auch Staubspuren...!«
+»Ah — auch Staubspuren …!«
 
 Ich hatte begriffen. Ich nahm den Stuhl und stellte
 ihn auf den Tisch, stieg dann auf den Tisch, dann auf den
@@ -182,20 +182,20 @@ ehrlicher Mensch außer Lord John und uns. Lionel Barring
 kennt diesen Backofen natürlich und nun verstehe ich
 auch seine Bemerkung über Lord James Selbstmord. — Die
 Hitze hier ist fraglos eine Folge des brennenden Besty-Barry-Moors.
-Und...«
+Und …«
 
 Er schwieg, packte meinen Arm…
 
 Flüsterte: »Da — da huschte soeben etwas vorüber —
-dort hinten...«
+dort hinten …«
 
 Er hatte auch die zweite Laterne mitgebracht, hob sie
-hoch empor... mit der Linken, in der Rechten die treue
+hoch empor … mit der Linken, in der Rechten die treue
 Clement.
 
 »Komm,« sagte er leise.
 
-Wir gingen ein paar Schritt nach Norden zu. Da lag...
+Wir gingen ein paar Schritt nach Norden zu. Da lag …
 Ein Haufen Kohlblätter, geschnitzte Rüben und ein
 Häufchen Hafer.
 
@@ -206,7 +206,7 @@ Harst lachte in sich hinein.
 
 <@pagebreak/>
 »Wahrhaftig ein Kaninchen!« meinte er. Und — —
-pfiff plötzlich durch die Zähne...
+pfiff plötzlich durch die Zähne …
 
 »Vorsicht!!« sagte er in ganz anderem Ton. »Erinnerst
 Du Dich an Frau Maria Goulds wirre Angaben über ihre
@@ -225,7 +225,7 @@ von der Euston-Klippe unten auf die Uferfelsen gestürzt —
 also ermordet worden. Seinen Tod hatte Maria Gould
 aufklären wollen, war dabei für kurze Zeit Barrings Gefangene
 gewesen und hatte uns im Pfarrhaus in Lammerty
-in gut gespielten Anfall von Wahnsinn berichtet, daß
+in gut gespieltem Anfall von Wahnsinn berichtet, daß
 ein Reptil von ungeheurer Größe sie in den Höhlen bedroht
 hätte. — Leider hatten wir sie nach diesen Dingen nicht
 ausfragen können, da sie am 8. April dann kurz nach Barrings
@@ -262,7 +262,7 @@ So hatten wir etwa zweihundert Schritt zurückgelegt,
 als Harst stehen blieb.
 
 Ich sah ebenfalls, daß da vor uns am Boden eine
-Gestalt lag — ein Mann...
+Gestalt lag — ein Mann …
 
 Es war Lord John. Er lag auf dem Gesicht, die Finger
 in das Steingeröll gekrallt.
@@ -296,17 +296,17 @@ Ich bin Harald Harst.«
 Lord John schloß wieder die Augen. Ein Zittern lief
 über seinen Leib hin.
 
-»Es... es war entsetzlich!« hauchte er...
+»Es … es war entsetzlich!« hauchte er …
 
 »Die Schlange — nicht wahr?«
 
-»Ja... ja!!« Er riß die Augen wieder auf.
+»Ja … ja!!« Er riß die Augen wieder auf.
 
-»Die Schlange... mit dem Menschenkopf!!« hauchte
-er. »Mit dem... Weiberkopf...«
+»Die Schlange … mit dem Menschenkopf!!« hauchte
+er. »Mit dem … Weiberkopf …«
 
 <@pagebreak/>
-Harald warf wir einen Blick zu. Ich verstand: Lord
+Harald warf mir einen Blick zu. Ich verstand: Lord
 John war durch die Angst irrsinnig geworden!
 
 Doch — wir täuschten uns! Wir hatten die Widerstandsfähigkeit
@@ -314,7 +314,7 @@ des neuen Herrn von Schloß Gnir unterschätzt.
 Er hatte Harsts Blick sehr wohl bemerkt, setzte sich
 mit einem Ruck aufrecht und sagte laut:
 
-»Geben Sie mir eine Zigarette — bitte...« — Er
+»Geben Sie mir eine Zigarette — bitte …« — Er
 holte tief Atem. »Ich — — bin nicht verrückt vor Angst geworden,
 obwohl das Scheusal mich bereits vollständig umwickelt
 hatte und mir die Rippen zu zerdrücken drohte. In
@@ -355,16 +355,16 @@ beleuchteten den Raum. Dort auf dem Tischchen,
 wie noch jetzt, lag ein Brot und eine Büchse Konservenfleisch,
 stand auch die Kanne mit Tee. — Ich ahnte sofort, daß ich in
 Lionel Barrings, meines verbrecherischen Vetters, Gewalt
-war. Ich wollte fliehen, untersuchte die Tür, die Felswände...«
+war. Ich wollte fliehen, untersuchte die Tür, die Felswände …«
 
-»Und entdeckten das Sechseck, Mylord...«
+»Und entdeckten das Sechseck, Mylord …«
 
 »Ja — mehr durch einen Zufall. — Ich kletterte auf
 Tisch und Stuhl, nahm die eine Laterne mit und hoffte in
 der heißen Grotte oben einen Ausgang ins Freie zu finden.
 Ich wanderte mutig dahin — immer weiter — trotz der
 Hitze, die mir fast den Atem benahm. Kaninchen liefen vor
-mir davon. Ich wußte nicht, daß...«
+mir davon. Ich wußte nicht, daß…«
 
 »Und dann überfiel die Riesenschlange Sie?«
 
@@ -374,17 +374,17 @@ wo ein ungeheurer Abgrund mir den Weg versperrte, in
 dessen Tiefen ein Wasser zu rauschen schien, sah ich jenseits
 des Abgrundes in der Ferne einen Lichtschein — in weiter
 Ferne! Die Höhle ist da sehr hoch und sehr breit, geht steil
-abwärts. Ich roch auch faden Brandgeruch...«
+abwärts. Ich roch auch faden Brandgeruch …«
 
-»Das schwelende Moor, Mylord...!«
+»Das schwelende Moor, Mylord …!«
 
 »Ah — das wird es sein! Sie haben recht. Das kann
-es nur sein...!«
+es nur sein …!«
 
 Er griff nach der Teekanne und trank in langen Zügen.
 
 »Ja — und der Abgrund scheuchte mich zurück, Mr.
-Harst... Da traf ich die erste Schlange — ohne Weiberkopf.
+Harst … Da traf ich die erste Schlange — ohne Weiberkopf.
 Ich rannte wie gehetzt davon, lief der zweiten in den
 <@pagebreak/>
 Weg, sah noch, daß sie statt des Schlangenhauptes einen
@@ -399,14 +399,14 @@ Harald rauchte ebenfalls, sagte nun:
 »Jetzt sollen Sie vernehmen, Mylord, was sich in Schloß
 Gnir zugetragen hat. Sie werden sich hoffentlich inzwischen
 soweit erholen, daß Sie uns nachher bis an den Abgrund
-begleiten können...«
+begleiten können …«
 
 »Niemals! Nie wieder betrete ich die Schlangengrotte!«
 rief Lord John ehrlich. »Das können Sie nach dem
 was ich dort erlebt habe, nicht verlangen!«
 
 Harst nickte. »Ihre Weigerung ist verständlich, Mylord.
-Hören Sie also...«
+Hören Sie also …«
 
 Er berichtete in aller Kürze, was er von mir über das
 blutige Bild der beiden Schlafzimmer erfahren und wie wir
@@ -431,7 +431,7 @@ hatten.
 <@pagebreak/>
 Hinter uns klappten wir den sechseckigen Stein wieder
 herab und standen nun abermals in der heißen, weiten
-Grotte... — —
+Grotte … — —
 
 Wenn der Leser sich das Titelbild dieses Harstbandes
 betrachtet, ohne den Inhalt der beiden in diesem Heft vereinigten
@@ -451,40 +451,40 @@ Ich kann mich daher kurz fassen.
 Wir waren vielleicht fünfhundert Meter nach Norden
 vorgedrungen, als der vor uns hertanzende Schein der
 Laternen auf einen einzelnen tischartigen Felsblock traf, auf
-dem zusammengeringelt jenes Reptil lag, das dem neuen
+dem zusammengeringelt jenes Reptil lag, das den neuen
 Herrn von Schloß Gnir fast zerquetscht hatte: Die Schlange
 mit dem Weiberhaupt!
 
-Wir blieben stehen...
+Wir blieben stehen …
 
 »Also wirklich!« flüsterte Harald.
 
 Das Reptil wand sich langsam auf uns zu, glitt von
-dem Felsen herab...
+dem Felsen herab …
 
-Harst schoß — schoß nochmals...
+Harst schoß — schoß nochmals …
 
 Ich hörte, daß die Kugeln gegen Metall klatschten, das
-hohl wie ein Topf klang...
+hohl wie ein Topf klang …
 
-Auch ich feuerte... — ohne Wirkung.
+Auch ich feuerte … — ohne Wirkung.
 
 Und immer rascher glitt die Boa Konstriktor (denn
 dieser Gattung gehörte das gut sechs Meter lange Ungeheuer
-an) auf uns zu...
+an) auf uns zu …
 
 <@pagebreak/>
 »Auf die Stelle dicht unter dem Kopf zielen«, schrie
-Harald und riß mich zurück, stand still, feuerte...
+Harald und riß mich zurück, stand still, feuerte …
 
 Das blecherne Peng Peng der Pistolenknalle hallte
-überlaut in der Grotte wieder, weckte ein vielfaches Echo...
+überlaut in der Grotte wieder, weckte ein vielfaches Echo …
 
-Und auch ich drückte wieder ab...
+Und auch ich drückte wieder ab …
 
 Bis das Ungetüm da vorn jäh hochschnellte und sich
 kerzengrade bis zur halben Länge des buntschillernden
-Leibes aufrichtete, um dann sofort wieder zurückzusinken...
+Leibes aufrichtete, um dann sofort wieder zurückzusinken …
 
 Eine Kugel hatte ihr die Wirbelknochen zerschmettert
 und das Rückenmark zerstört.
@@ -492,10 +492,10 @@ und das Rückenmark zerstört.
 Ein Todeskampf nun, wie er furchtbarer, wilder,
 dämonischer kaum gedacht werden konnte, ein Todeskampf
 mit einem fortwährenden blitzschnellen Hin- und Herschleudern
-des Leibes, mit förmlichen Sprüngen...
+des Leibes, mit förmlichen Sprüngen …
 
 Und während dieses Todeskampfes fortwährend das
-Dröhnen des metallenen Kopfes, der an die Felsen stieß... —
+Dröhnen des metallenen Kopfes, der an die Felsen stieß… —
 
 Harst machte dem grauenvollen Schauspiel ein Ende
 indem er keck sich näher wagte und durch die leeren Augenöffnungen
@@ -514,7 +514,7 @@ des Metallhauptes gesteckt und wurde durch zwei Stahlbügel,
 die im Genick sich eng anschmiegten, festgehalten.
 
 Das Metallhaupt stammte ohne Zweifel von irgendeiner
-Statue. Ware es nicht Metall gewesen, hätte die Boa
+Statue. Wäre es nicht Metall gewesen, hätte die Boa
 es leicht zerschlagen können.
 
 Staunend sah ich mir diese seltsame Maskerade an.
@@ -530,7 +530,7 @@ von hier zu verscheuchen. Er wird die Schlangen — wie
 viele es sind, wissen wir ja noch nicht — von einer Tierhandlung
 bezogen haben. Hier in der warmen Höhle mußten
 die Bestien sich ganz wohlfühlen. Barring wird diesem
-Reptil von Zeit zu Zelt den Metallkopf abgenommen und
+Reptil von Zeit zu Zeit den Metallkopf abgenommen und
 ihn einem anderen aufgesetzt haben, damit die Ungeheuer
 sich sättigen konnten — durch die Kaninchen. Natürlich befand
 sich diejenige Schlange, die den Metallkopf tragen
@@ -549,8 +549,8 @@ Ich äußerte diese Bedenken auch unverhohlen.
 
 »Oh — Barring wird die Schlangen irgendwie betäubt
 haben,« meinte Harald. »Das läßt sich durch die verschiedenartigsten
-Mittel bewerkstelligen. — Doch, — jetzt...
-weiter... Wir dürfen uns hier nicht länger aufhalten.«
+Mittel bewerkstelligen. — Doch, — jetzt …
+weiter … Wir dürfen uns hier nicht länger aufhalten.«
 
 <@pagebreak/>
 
@@ -571,7 +571,7 @@ ist, auch in deutschen. Wir selbst haben den Gelehrten
 später in die Grottenwelt hinabgeleitet. Er mag es
 mir nicht verargen, wenn ich hier behaupte, daß diese seine
 Schilderung der feurigen Wunder der Tokkara-Höhlen trocken
-und reizlos wie ein altes Glück Brot ist. Er hätte diesen
+und reizlos wie ein altes Stück Brot ist. Er hätte diesen
 wundervollen Stoff wahrlich interessanter gestalten können.
 Schade darum!
 
@@ -643,12 +643,12 @@ Nach etwa zehn Minuten dann das Ende des Kanals,
 sanft weiterströmte, — eine Höhle mit zahlreichen Biegungen
 und einer ganz anders gearteten Luft. Ich spürte ganz
 deutlich: wir näherten uns dem Meere! Die Salzluft des
-Ozeans erfüllte diese Grotte...
+Ozeans erfüllte diese Grotte …
 
-Dann eine neue Biegung...
+Dann eine neue Biegung …
 
-Und... Fässer, Ballen, Kisten lagen hier hoch aufgetürmt.
-Und aus dem nahen Flusse schaukelten leicht an ihren
+Und … Fässer, Ballen, Kisten lagen hier hoch aufgetürmt.
+Und auf dem nahen Flusse schaukelten leicht an ihren
 Ketten zwei große Boote.
 
 Harst lief plötzlich, hatte plötzlich einen Mann gepackt,
@@ -668,23 +668,23 @@ so eng befreundet war! —
 
 James stierte uns wie Gespenster an.
 
-»Wo — wo kommen Sie her, Mr. Harst?« stotterte er...
+»Wo — wo kommen Sie her, Mr. Harst?« stotterte er …
 
 <@pagebreak/>
 »Aus der Schlangenhöhle, lieber James. — Da —
 setzen Sie sich. Sie zittern ja zum Erbarmen!«
 
-James sank aus den Schemel.
+James sank auf den Schemel.
 
-»Aus — aus... der Schlangenhöhle...?!« murmelte
-er ungläubig. »Und... und... Sie... leben
+»Aus — aus … der Schlangenhöhle …?!« murmelte
+er ungläubig. »Und … und … Sie … leben
 noch?!«
 
-»Wie See sehen — wir leben! Haben aber wenig Zeit.
+»Wie Sie sehen — wir leben! Haben aber wenig Zeit.
 — Ein paar Fragen, James. — Dies hier ist ein Schmugglerwarenlager?«
 
-»Ja... — Aber — Sie... Sie werden doch nichts
-verraten, Mr. Harst...«, flehte der Alte weinerlich.
+»Ja … — Aber — Sie … Sie werden doch nichts
+verraten, Mr. Harst …«, flehte der Alte weinerlich.
 »Schmuggeln ist doch keine Sünde, Mr. Harst. Ich selbst
 bin ja heute auch nur zufällig hier.«
 
@@ -698,19 +698,19 @@ nie durch den Kanal und durch den Abgrund hineingewagt.
 Das riskierten nur ein paar junge Leute vor einem Jahre,
 als die Schlangen dort aufgetaucht waren. Seitdem ist
 keiner mehr dort hinaufgeklettert. Es haust dort ein Ungetüm
-mit... — Aber das glauben Sie mir ja doch nicht,
+mit … — Aber das glauben Sie mir ja doch nicht,
 Mr. Harst.«
 
-»... Mit Frauenkopf, wollten Sie sagen, James. Oh,
+»… Mit Frauenkopf, wollten Sie sagen, James. Oh,
 ich glaube es schon, denn — Schraut und ich haben das Untier
 gesehen.«
 
-»Und... und sind nicht... getötet worden?!«
+»Und … und sind nicht … getötet worden?!«
 staunte der Alte.
 
 Harst lachte. »Nein. — Was treiben Sie hier, James?«
 
-»Ich... ich wollte meinen Neffen sprechen. Aber der
+»Ich … ich wollte meinen Neffen sprechen. Aber der
 Schmugglerkutter ist noch nicht zurück.«
 
 <@pagebreak/>
@@ -724,7 +724,7 @@ sich in den Familien der Eingeweihten stets weiter.«
 »Vorwärts, James, — wir müssen nach Schloß Gnir
 zurück. — Ich verspreche Ihnen, daß ich erst nach zwölf Stunden
 diesen Ort anderen beschreiben werde. Ihre Freunde
-haben also genügend Zeit, hier... reinen Tisch zu machen.«
+haben also genügend Zeit, hier … reinen Tisch zu machen.«
 
 James dankte wortreich, brachte uns mit einem der
 Boote bis zwischen die Klippen und dann nach kurzer Fahrt
@@ -776,7 +776,7 @@ Gatten betraut hatte. —
 Harald öffnete die betreffende Tür. Von Zimmer zu
 Zimmer glitten wir drei im fahlen Dreivierteldunkel des
 grauenden Morgens, der sich durch die Spalten der Fenstervorhänge
-mühsam in die weiten, hohen Räume hineinstahl...
+mühsam in die weiten, hohen Räume hineinstahl …
 
 Harst immer voran — immer der lautloseste, immer
 der Spürhund edelster Rasse — mit der feinen Witterung
@@ -792,7 +792,7 @@ nichts! Das bewegliche Bronzeplättchen vor dem Schlüsselloch
 war durch den von dieser Seite steckenden Schlüssel hochgehoben.
 Es blinkte kein Lichtstrahl von der Bibliothek her
 durch die längliche, von dem Schlüssel fast ganz ausgefüllte
-Oeffnung. Nein — nur der Schlüssel selbst schimmerte verdächtig
+Öffnung. Nein — nur der Schlüssel selbst schimmerte verdächtig
 hell. Es war der Widerschein einer Lichtquelle in
 der Bibliothek. Dort brannte also irgendeine Lampe, Laterne,
 dergleichen.
@@ -803,7 +803,7 @@ ich sah, nachdem Harald und Alverson nacheinander einen
 Blick in den büchergefüllten Raum geworfen hatten, an dem
 großen Mitteltisch den alten Baptiste sitzen. Vor ihm stand
 eine Laterne. Sein grauweißes Haupthaar schimmerte
-silbern...
+silbern …
 
 Er saß da, den Kopf in die Linke gestützt, und weinte
 — starrte vor sich ins Leere. Mit der Rechten tupfte er
@@ -857,7 +857,7 @@ dem Buche, in dem vor Stunden der Unbekannte geblättert
 hatte, übte auf Baptiste die ungeheure Wirkung eines jähen
 überkräftigen Fausthiebes aus.
 
-Er taumelte rückwärts — sank in den hoben Lehnstuhl
+Er taumelte rückwärts — sank in den hohen Lehnstuhl
 und krallte die Hände um die geschnitzten Knäufe der Armlehnen.
 
 Harald schaute still auf den alten Mann herab, legte
@@ -898,7 +898,7 @@ Schlußfolgerung fügte er hinzu: »Schraut glaubt also beobachtet
 zu haben, daß der Fremde etwas in diesen Heine-Band
 hineinschrieb?«
 
-»So ist,« erklärte ich unsicher. »Der Mann hatte
+»So ist’s,« erklärte ich unsicher. »Der Mann hatte
 einen Bleistift in den Fingern. Auch auf meine Augen ist
 trotz der Brille Verlaß.«
 
@@ -913,18 +913,18 @@ Gesicht. »Haben — — haben Sie’s denn gefunden,
 Mr. Harst?«, murmelte er.
 
 »Ja, Seite 106, aus dem Liederzyklus »Die Heimkehr,«
-Nummer 57, die beiden letzten Zeilen sind... unterpunktiert.«
+Nummer 57, die beiden letzten Zeilen sind … unterpunktiert.«
 
 Baptiste gab sein Gesicht wieder frei. »Oh — ich hatte
 noch nicht nachgesehen,« sagte er, plötzlich jeden Widerstand
-aufgebend. »Ich... saß hier und grübelte traurig über
+aufgebend. »Ich … saß hier und grübelte traurig über
 *seine* Worte nach, die er mir, in der Tür dort stehend,
 zuraunte.«
 
 »Und — was flüsterte *er*?«
 
-»Daß... daß um fünf Uhr heute morgen die Entscheidung
-fallen würde — Punkt fünf Uhr...«
+»Daß… daß um fünf Uhr heute morgen die Entscheidung
+fallen würde — Punkt fünf Uhr …«
 
 Harald faßte des Alten Hand. »Baptiste, wer ist der
 Fremde? Ich verspreche Ihnen, daß wir Inspektor Groubby
@@ -937,10 +937,10 @@ und erklärte, während seinen Augen zwei dicke Tränen entrollten.
 
 »Er — er ist mein Sohn, Mr. Harst, mein einziges
 Kind aus kurzer Ehe, mein Abgott, mein Liebling, den ich,
-damit ihm die Niedrigkeit der Stellung seines Vaters nicht
-bedrücke, unter anderem Namen erziehen und... studieren
-ließ. Er ist... Thomas Gould, der Ingenieur, der Gatte
-Maria Goulds...«
+damit ihn die Niedrigkeit der Stellung seines Vaters nicht
+bedrücke, unter anderem Namen erziehen und … studieren
+ließ. Er ist … Thomas Gould, der Ingenieur, der Gatte
+Maria Goulds …«
 
 Wir drei standen einen Moment tatsächlich wie die Bildsäulen
 da. — Harst faßte sich zuerst, fragte rasch:
@@ -959,7 +959,7 @@ ein Fallschirm sich aufgebläht haben. Jedenfalls — er kam
 mit einem Arm- und Beinbruch und einer ganz leichten
 Gehirnerschütterung davon, und ein weiteres Spiel des Zufalls
 wollte es, daß ich kurz darauf auf dem Heimweg
-von...« — er stockte — »von... Bekannten ihn auffand.«
+von …« — er stockte — »von … Bekannten ihn auffand.«
 
 »Auf dem Heimweg von der Schlangenhöhle,« ergänzte
 Harald. »Sprechen Sie nur weiter Baptiste.«
@@ -969,22 +969,22 @@ Harst,« stotterte der Alte verwirrt. »Als ich Toms leises
 Stöhnen vernahm, als er mir dann erklärte, daß er verloren
 sei, wenn hier nicht ein Toter am Morgen entdeckt
 würde, da habe ich mit diesen meinen ehrlichen Händen
-einem Ertrunkener Schiffbrüchigen, dem an den Klippen der
+einem ertrunkenen Schiffbrüchigen, dem an den Klippen der
 Kopf bis zur Unkenntlichkeit zermalmt war, Toms Wäsche
-und Kleider angezogen und ihn anstelle Toms aus die Uferfelsen
+und Kleider angezogen und ihn anstelle Toms auf die Uferfelsen
 unterhalb der Klippe gelegt, Tom aber in die nur mir
 bekannten Seitengrotten der Tokkara-Höhlen getragen und
 dort gesund gepflegt und all die Monate verborgen gehalten.
 Es war ja mein Sohn, Mr. Harst, mein einziges Kind!
 Aber — es war auch ein Verbrecher, der durch meinen
-früheren Herrn, dieses Scheusal, zu einem...«
+früheren Herrn, dieses Scheusal, zu einem …«
 
-»Schon gut Baptiste... — Und dann?!«
+»Schon gut Baptiste … — Und dann?!«
 
-»Dann wurde Ton immer schwermütiger. Er wagte
+»Dann wurde Tom immer schwermütiger. Er wagte
 es nicht, sich seinem geliebten Weibe zu offenbaren, die ihn
 für tot hielt. Heute nacht erschien er hier wieder einmal in
-der Bibliothek, um...«
+der Bibliothek, um …«
 
 »Schon gut, Baptiste. — Und heute raunte er Ihnen
 <@pagebreak/>
@@ -992,21 +992,21 @@ zu, daß um fünf Uhr die Entscheidung fallen würde. —
 Armer Vater, armer Baptiste. Thomas hat in dem Gedicht
 folgendes unterpunktiert:
 
-> »... Nahn sich mir die Höllenmächte,
+> »… Nahn sich mir die Höllenmächte,
 Und ich schieß mich tot im Ernst.«
 
 Mit einem winselnden Aufschrei schnellte der alte
-Mann auf...
+Mann auf …
 
-»Meine... meine Ahnung!«, jammerte er. »Ich —
-ich muß...«
+»Meine … meine Ahnung!«, jammerte er. »Ich —
+ich muß…«
 
-Er wollte davonrennen... — Harst hielt ihn zurück,
+Er wollte davonrennen … — Harst hielt ihn zurück,
 blickte auf die große Standuhr der Bibliothek, eine elektrische
 Uhr, die mit der Turmuhr des Schlosses genau auf die
 Sekunde die Stunden schlug.
 
-Und die Standuhr war... zehn Minuten vor fünf.
+Und die Standuhr war … zehn Minuten vor fünf.
 
 <@pagebreak/>
 
@@ -1040,50 +1040,50 @@ einen Fuchsbau errichtet, wie ihn wohl kein zweites Schloß
 in Schottland darstellte, obwohl ja all diese alten Burgen
 ihre Geheimnisse haben! —
 
-Baptiste raste keuchend vor uns her...
+Baptiste raste keuchend vor uns her …
 
-Stolperte auf dem schlüpfrigen Boden...
+Stolperte auf dem schlüpfrigen Boden …
 
 <@pagebreak/>
-Jagte weiter — weiter...
+Jagte weiter — weiter …
 
 Bis nach endlosen Minuten — endlos, wo jede einzelne
-kostbar war! — Der Gang in eine Grotte einbog.
+kostbar war! — der Gang in eine Grotte einbog.
 
 Ich hatte meine Uhr in der Hand.
 
-Es war... zwei Minuten vor fünf.
+Es war … zwei Minuten vor fünf.
 
 »Tom — Tom — —!!«, kreischte der Greis in
 wildester Angst. »Tom — tu’ es nicht! Denk’ an Maria!!«
 
-So brüllte er ins Leere hinein...
+So brüllte er ins Leere hinein …
 
-Rannte weiter...
+Rannte weiter …
 
 Rannte rechts in eine steil aufsteigende Nebenhöhle,
-in der uns sofort andere Luft umwehte...
+in der uns sofort andere Luft umwehte …
 
-Und brüllte fast dieselben Worte nochmals...
+Und brüllte fast dieselben Worte nochmals …
 
-Ein Hohngelächter, schaurig widerhallend antwortete...
+Ein Hohngelächter, schaurig widerhallend antwortete …
 
-Eine Biegung — und vor uns eine weite Oeffnung —
-Tageslicht...
+Eine Biegung — und vor uns eine weite Öffnung —
+Tageslicht …
 
 Zackige Felsen umgaben diese über einem jähen Abhang
 der Hügelkette liegende breite Felsspalte.
 
 Und auf der glatten, sich etwas vorwölbenden äußersten
-Kante des Gesteinbodens standen in dieser Oeffnung zwei
+Kante des Gesteinbodens standen in dieser Öffnung zwei
 Männer, von denen der eine auf den anderen mit erhobener
-Pistole zielte...
+Pistole zielte …
 
 »Zurück!«, donnerte Lionel Barring uns zu. »Zurück
 — oder dieser Lump, der den Bund verraten wollte, der
 plötzlich Gewissensbisse bekam, lebt keine Sekunde länger!«
 
-Wir machten halt... Unser Atem flog...
+Wir machten halt … Unser Atem flog …
 
 Barring lachte. »Tom Gould hat mir soeben erklärt,
 daß er sich hier angesichts des Schlosses, in dem er mit
@@ -1096,7 +1096,7 @@ Ferne Schloß Gnirs dunkle Umrisse, sah im Mittelturm ein
 riesiges, rundes, erleuchtetes Auge: die Turmuhr, — — sah
 zwei dunkle Striche auf der hellen Scheibe: die Zeiger!
 
-Die Uhr war... fünf. Der große Zeiger stand nicht
+Die Uhr war … fünf. Der große Zeiger stand nicht
 ganz auf der zwölf. Ein paar Sekunden fehlten noch —
 vielleicht der Bruchteil einer Minute, — — vielleicht fünf
 Sekunden, schoß es mir durch den Kopf.
@@ -1109,16 +1109,16 @@ Stunde hier,« rief Barring triumphierend. »Stand und
 trauerte er seinem verlorenen Liebesglück nach! Ahnte nicht,
 daß zwei Augenpaare ihn von unten her entdeckt hatten.
 Und — so fand ich denn endlich — endlich den Verräter
-hier in seinem Versteck auf! Längst hatte ich vermutet, daß...«
+hier in seinem Versteck auf! Längst hatte ich vermutet, daß…«
 
 Der Wind trug da plötzlich den ersten Schlag der Turmuhr
-bis in die Höhle hinein...
+bis in die Höhle hinein …
 
 Barring verstummte, sagte in unverändertem Tonfall:
 
 »Fünf Uhr!! Thomas Gould, Dein Wunsch soll in Erfüllung
 gehen. Sobald der letzte Schlag der Uhr ertönt, wirst
-Du... gebüßt haben!«
+Du … gebüßt haben!«
 
 Der vorgestreckte rechte Arm Barrings behielt unverändert
 die Richtung bei. Und dieser Arm, diese Hand hielt
@@ -1131,7 +1131,7 @@ die Knie.
 
 »Erbarmen — Erbarmen!«, kreischte er. »Mylord,
 ich habe Ihrem Vater und Ihnen sechsunddreißig Jahre treu
-gedient...! Mylord — es ist mein Sohn, den Sie töten
+gedient …! Mylord — es ist mein Sohn, den Sie töten
 wollen, — — mein einziges Kind!«
 
 Lionel Barring, entthronter Herr von Schloß Gnir,
@@ -1141,7 +1141,7 @@ drückte Unruhe, Unentschlossenheit aus.
 
 »Ich weiß, daß Sie nicht so leicht lügen, Baptiste,«
 sagte er dumpf. »Weshalb erinnern Sie mich in dieser
-Minute gerade an meinen Vater, daran, daß ich... einst
+Minute gerade an meinen Vater, daran, daß ich … einst
 auf Ihren Knien saß, und daß Sie es waren, der den
 wilden, lügnerischen Knaben, in dem schon all meine schlechten
 Instinkte schlummerten, zu bessern suchte?!«
@@ -1152,7 +1152,7 @@ fern durch die stille Morgenluft.
 Und — — Lionel Barring ließ den Arm mit der Waffe
 sinken, trat ganz dicht an den Rand des Abgrundes heran,
 reckte den Arm nach rechts, erfaßte ein dort von oben herabhängendes
-Tau und wurde... von ebenso unsichtbaren
+Tau und wurde … von ebenso unsichtbaren
 Händen schnell emporgezogen. —
 
 Baptiste und Thomas Gould hielten sich umschlungen.
@@ -1165,10 +1165,10 @@ sein als Lionel Barring?!«
 Eine halbe Stunde darauf war auch Lord John befreit.
 In der Schlangenhöhle fanden wir noch zwei Riesenreptile,
 die jetzt im Londoner Zoologischen Garten als Geschenk
-Harald Harst angestaunt werden. — Barring blieb eine volle
+Harald Harsts angestaunt werden. — Barring blieb eine volle
 Woche verschwunden. Dann, als wir bereits wieder in
-Berlin waren, meldete sich die... große Null wieder. Und
-— — der Kampf ging weiter...
+Berlin waren, meldete sich die … große Null wieder. Und
+— — der Kampf ging weiter …
 
 Nächster Band:
 
