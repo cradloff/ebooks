@@ -73,7 +73,7 @@ Klub »Weite Welt«, der stets nur »Klub W. W.« genannt
 wird, weil man dort bequem in einer Nacht sich
 ruinieren kann — daher »Klub W. W.« oder »Wehe
 Wehe« — ist eine Vereinigung von Herren aller Länder,
-die Geld im Ueberfluß haben und unter der biederen Maske
+die Geld im Überfluß haben und unter der biederen Maske
 einer »Gesellschaft zur Förderung internationaler Geistesbestrebungen«
 dem Jeu<@refnote 1/>, den Tafelfreuden und der Tanzkunst
 in Gestalt von Darbietungen schöner Weiber huldigen.
@@ -149,7 +149,7 @@ W. W. am Savignyplatz in Charlottenburg der Schauplatz
 eines Verbrechens, das in der Chronik der sensationellen
 Morde fraglos mit zu den eigenartigsten zu rechnen
 ist. Der Klub Weite Welt ist im allgemeinen wenig bekannt.
-Ueber seine Ziele und Gepflogenheiten sich hier
+Über seine Ziele und Gepflogenheiten sich hier
 des näheren zu äußern, erübrigt sich. Es sei nur daran
 erinnert, daß der Klub vor vierzehn Tagen aus Anlaß
 der Brandkatastrophe in Neukirch eine halbe Million für
@@ -698,7 +698,7 @@ merkwürdigere Tatsachen.</h3>
 
 »Ich will nicht sagen, daß ich ihn für den Mörder
 halte,« erwiderte Harst. »In dem Ausdruck, »jemand für
-etwas halten« liegt schon eine gewisse Ueberzeugung, die
+etwas halten« liegt schon eine gewisse Überzeugung, die
 man über die fragliche Angelegenheit gewonnen hat. Das
 ist hier nicht der Fall. Als ich Dir den Artikel aus der
 Mittagszeitung vorlas, verarbeitete ich das Gelesene sofort
@@ -850,7 +850,7 @@ und gehört, daß ein Auto vor dem Hause vorfuhr.
 
 Eine schlanke Dame in langem, seidenem Mantel mit
 einem schicken Hütchen und einem sehr dichten, bestickten
-weißen Schleier stieg aus. Ueber dem linken Arm trug sie eine
+weißen Schleier stieg aus. Über dem linken Arm trug sie eine
 lederne Handtasche von beträchtlichem Umfang. Damals begann
 gerade die Mode, den bisherigen Handtaschen das
 Format kleiner Koffer zu geben.
@@ -984,7 +984,7 @@ beobachtet und rief nun:
 
 »He — sind die Herren von der Polizei?«
 
-»Nein,« rief Harst zurück. »Aber was Aehnliches sind
+»Nein,« rief Harst zurück. »Aber was Ähnliches sind
 wir: Privatdetektive.«
 
 »So, so.«
@@ -1046,7 +1046,7 @@ lag, eine Höllenmaschine oder dergleichen vergraben sei.
 
 Deshalb ließ ich auch die Frau den Spaten benutzen.
 Sie benahm sich recht seltsam, als ich ihr den Spaten
-reichte. Ueberhaupt — man weiß nicht recht, was man
+reichte. Überhaupt — man weiß nicht recht, was man
 von ihr denken soll. Ihre Art zu sprechen und diese träge
 Ruhe, die sich in jeder ihrer Bewegungen ausdrückte,
 könnte man —« Er brach mitten im Satz ab.
@@ -1098,7 +1098,7 @@ drei besponnene Kupferdrähte nach den Knöpfen des
 Bügels hin.
 
 Harst durchschnitt sie einzeln, nahm nun den Pappkarton
-heraus, erklärte dabei: »Elektrische Zündung. Beim Oeffnen
+heraus, erklärte dabei: »Elektrische Zündung. Beim Öffnen
 der Tasche wäre der Kontakt hergestellt gewesen und wir
 hätten eine Explosion erlebt, die nicht nur die Fensterscheiben
 zertrümmert hätte.«

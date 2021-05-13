@@ -69,7 +69,7 @@ die Schachtel!«
 Und er entfaltete den Streifen Papier. In Eva Wilcwords
 kindlicher charakterloser Handschrift stand da:
 
-> »Das Maß ist jetzt zum Ueberlaufen voll. Die beiden
+> »Das Maß ist jetzt zum Überlaufen voll. Die beiden
 Toten haben es gefüllt. — Eva.«
 
 »Unglaublich!« murmelte Bechert.
@@ -101,7 +101,7 @@ Bechert klopfte an, öffnete sogleich.
 
 An einem frei vor den Fenstern stehenden Schreibtisch
 saß der Justizrat mit dem Rücken nach der Wand zu. Er
-hatte eine gewisse Aehnlichkeit mit Holdsteins Maske. Wer
+hatte eine gewisse Ähnlichkeit mit Holdsteins Maske. Wer
 flüchtig hinsah, konnte Holdstein wohl für Plotz gehalten
 haben.
 
@@ -286,14 +286,14 @@ auf dem Linoleum. Eva ist uns voraus zu Plotz geeilt.
 Ich glaube, Bechert, jetzt erst haben wir das wahre
 Oberhaupt der Bande gefunden: Plotz!«
 
-Bechert und ich brachten kein Wort heraus. Diese Aeußerung
+Bechert und ich brachten kein Wort heraus. Diese Äußerung
 war wie ein Blitz gewesen.
 
 »Natürlich muß Plotz unbelästigt bleiben,« fuhr Harald
 fort. »Nur so finden wir Eva. Nur so werden wir
 die Bande fassen. — Sie müssen  jetzt Holdsteins Zimmer
 sich ansehen, Bechert. Wir beide haben etwas anderes
-vor. Ueberlassen Sie uns den Justizrat. Uns ganz allein.«
+vor. Überlassen Sie uns den Justizrat. Uns ganz allein.«
 
 »Einverstanden, lieber Harst!«
 
@@ -432,13 +432,13 @@ Schulter.
 Ich wußte bisher über die näheren Umstände nichts.
 Ich hatte die Notiz in der Zeitung übersehen, und Harald
 hatte sich ebenfalls ausgeschwiegen. »Ich will Dir die
-Ueberraschung nicht abschwächen,« hatte er gemeint.
+Überraschung nicht abschwächen,« hatte er gemeint.
 
 Borstel ging es ganz gut. Doktor Grabert sagte ihm,
 wir seien zwei Kriminalbeamte. Er solle uns alles recht
 genau erzählen. — Auch Grabert wußte nicht, was wir
 eigentlich vorhätten. Er glaubte, es handele sich lediglich
-um den Ueberfall auf den Forstgehilfen.
+um den Überfall auf den Forstgehilfen.
 
 Borstel begann dann zu berichten. Der Arzt war wieder
 gegangen.
@@ -524,7 +524,7 @@ Prachtbaum. Ich lag keine fünf Schritt entfernt, als die
 Kiefer umbrach. Sie fiel zuerst sehr langsam, dann mit
 furchtbarer Wucht mit der Krone in die Lehmgrube hinab,
 während der Wurzelstock oben am Rande des Abhangs
-hängen blieb. Das Getöse der zersplitternden Aeste war so
+hängen blieb. Das Getöse der zersplitternden Äste war so
 stark, daß ich mich nicht dafür verbürgen kann, ob ich aus
 der Grube herauf wirklich einen gellenden Schrei gehört
 oder mir dies nur eingebildet habe. Immerhin glaubte ich
@@ -536,7 +536,7 @@ Lehmklötze umherliegen, enthüllte ich die Laterne. Ich sah
 dann, daß die Krone die Hütte gestreift und halb umgerissen
 hatte. Ich war stehen geblieben. Und — da
 <@pagebreak/>
-glaubte ich ein Stöhnen zu hören — ein Aechzen. Es mag
+glaubte ich ein Stöhnen zu hören — ein Ächzen. Es mag
 auch der Sturm gewesen sein. Plötzlich knallten dann
 Schüsse dicht vor mir. Sie kamen aus der Baumkrone. Ich
 wurde getroffen, taumelte, fiel auf einen Stein, - schlug mit
@@ -766,7 +766,7 @@ sprengte den Boden mit Petroleum ein.«
 »Möchtest Du Deine Korrekturen nicht sofort anbringen,
 Harald? Wir scheinen jetzt nicht ganz einig zu sein.«
 
-»Stimmt. Ueber die Hauptsache nicht. Davon später.«
+»Stimmt. Über die Hauptsache nicht. Davon später.«
 
 »Nun gut. — Die stürzende Kiefer traf einen von
 Evas Leuten, der trotz des Gewitters in der Lehmgrube
@@ -1000,7 +1000,7 @@ Abermals kroch Harsts Stimme träge in mein Bewußtsein:
 
 »Flie-hen —! Fort — von — hier!«
 
-Dann ein Aechzen.
+Dann ein Ächzen.
 
 »Vorbei — wie — gelähmt —« —
 
@@ -1013,7 +1013,7 @@ Wieder der Schüttelfrost — die Sternchen.
 Und dann — dann riß mich jemand halb hoch, setzte
 mich aufrecht.
 
-Ueber mir flackerte das brennende Scheit. Vor mir
+Über mir flackerte das brennende Scheit. Vor mir
 wallten Evas Schleier — der dunkle Mantel.
 
 »Willkommen, meine Herren!« sagte das Weib ganz
@@ -1032,7 +1032,7 @@ Stufen hinab. Ich roch dumpfe, feuchte Luft: Erdgeruch,
 Lehmduft.
 
 Ich war tot. Nur die Sinne wach. Mir würgte immer
-wieder jähe Uebelkeit in der Kehle.
+wieder jähe Übelkeit in der Kehle.
 
 Dann setzte man mich auf einen harten Stuhl. Die
 Beine band man mir fest, den Oberkörper.
@@ -1063,7 +1063,7 @@ wurde so merkwürdig leicht in Kopf, im Körper. Als ob
 ich die Erdenschwere verloren hätte.
 
 Und — ich mußte gähnen — immer wieder gähnen.
-Die Uebelkeit schwand. Ein fast feuriges Kraftgefühl durchglühte
+Die Übelkeit schwand. Ein fast feuriges Kraftgefühl durchglühte
 mich.
 
 Da — nahm man mir das Tuch von den Augen.
@@ -1128,7 +1128,7 @@ Rolle im Bunde. Er wußte nicht viel. Immerhin
 wären wir etwas belästigt worden. Meine Spione im Präsidium
 waren auf dem Posten. So konnte ich Ihnen als
 Radler den Zettel zukommen lassen. — Ja — das Maß ist
-zum Ueberlaufen voll! Sie haben uns geschädigt. Eine
+zum Überlaufen voll! Sie haben uns geschädigt. Eine
 Milliarde büßten wir durch Sie ein: die Edelsteine John
 Wilcwords! Dann noch das goldene Tafelservice Uhlborns!
 — Sie sind jedem lästig, Herr Harst, der abseits
@@ -1141,7 +1141,7 @@ weshalb Xaver und ich Ihnen damals entkamen?«
 
 »Ja. — Daß es hier eine Höhle in dem Lehmberg geben
 müsse, ward mir klar, als ich in der Zeitung vom dem
-Ueberfall auf Borstel las, — eine Höhle mit einem tadellos
+Überfall auf Borstel las, — eine Höhle mit einem tadellos
 versteckten Zugang.«
 
 »Den wir erst anfangs des Monats schufen, Herr
@@ -1370,7 +1370,7 @@ links den Berg empor.
 
 Wir standen und warteten. Plötzlich ein dumpfer
 Knall — ein Krachen stürzender Stämme. Prasseln brechender
-Aeste. —
+Äste. —
 
 »So, mein Alter, nun sind wir tot. So glaubt Eva
 Wilcword! Nun können wir nachschauen, was von der

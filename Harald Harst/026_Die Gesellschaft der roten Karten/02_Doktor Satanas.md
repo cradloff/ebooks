@@ -7,7 +7,7 @@ auf der Insel Java, winkte uns schon von weitem zu.
 <@pagebreak 35/>
 Wir bestanden uns auf der Veranda des prächtigen Bungalows
 (Wohnhaus) des Großkaufmanns van Wreeden.
-Ueber uns rauschten die Kronen riesiger Palmen, und vor uns
+Über uns rauschten die Kronen riesiger Palmen, und vor uns
 auf dem Rasenplatz sprühte eine Riesenfontäne ihre vom
 Abendwind zur Seite gedrückte, in Millionen von Tröpfchen
 zerstobene Wassersäule fast bis zu unserem Tische hin, am dem
@@ -43,7 +43,7 @@ hatte.
 Alle Welt hatte sich gewundert, als Ihre Hoheit gerade
 den wahrlich nicht reizvollen Doktor Drygaarden erhört
 hatte, nachdem sie bereits von ganz anderen Bewerbern, sowohl
-was Stellung als Aeußeres anbetraf, umschwärmt worden
+was Stellung als Äußeres anbetraf, umschwärmt worden
 war. Galt sie doch als die feingebildetste und liebreizendste
 der eingeborenen Damen Javas. Ihr Vater hatte seiner
 Zeit schon als Jüngling den Holländern sein Fürstentum
@@ -122,7 +122,7 @@ wohlgeordnete Nummern der Bataviapost. Auch Du
 nahmst ja die Zeitungen zur Hand. Ist Dir der Artikel wirklich
 entgangen?«
 
-»Das nicht. Dick genug war ja die Ueberschrift. Nur
+»Das nicht. Dick genug war ja die Überschrift. Nur
 weiß ich nicht recht, was diese an sich ja recht spannende Schilderung
 des Unfalls bei den Tierkämpfen im Palastgarten des
 Fürsten —«
@@ -381,7 +381,7 @@ des Fürsten ein Unglück passiert. Ich las davon in der Bataviapost.«
 Stelle des Eisengitters zum Entweichen und —«
 
 »Schon gut. Brechen wir auf, lieber Schliepner, sonst
-wird es immer später. Ueber den Unfall bei dem Tierkampf
+wird es immer später. Über den Unfall bei dem Tierkampf
 sprechen wir ein andermal. Ganz unter uns: Die Geschichte
 ist nicht sauber, wie man zu sagen pflegt.«
 
@@ -451,7 +451,7 @@ weniger aus Zuneigung, als aus Angst. Er soll über die gefährlichen
 riesigen Bestien eine geradezu unerklärliche Macht
 besessen haben. Sie sollen ihn gehaßt, aber ebenso gefürchtet
 haben, wie ja überhaupt dieser Mann in vielem so eine Art
-Uebermensch war. Die Bezeichnung »Doktor Satanas« bezog
+Übermensch war. Die Bezeichnung »Doktor Satanas« bezog
 sich ja nicht lediglich auf sein pechschwarzes Haar, seine dicken,
 schwarzen Augenbrauen und den glänzend schwarzen Spitz- und
 Schnurrbart, sondern auch auf sein ganzes Wesen. Man
@@ -464,7 +464,7 @@ Jetzt erst habe ich ein richtiges Bild von diesem Drygaarden,
 der —«
 
 Er machte eine kurze Pause. Und dann kam die große
-Ueberraschung, wie ein Blitz, der ohne viel Geräusch herniederfährt
+Überraschung, wie ein Blitz, der ohne viel Geräusch herniederfährt
 und doch wie eine Bombe wirkt.
 
 »— der vielleicht gar nicht tot ist!« fügte Harst hinzu.
@@ -518,7 +518,7 @@ Der Rest des Satzes blieb unausgesprochen. Harst hatte
 meinen Arm gepackt, riß mich zur Seite, brüllte überlaut:
 »Auf die Bäume! Die Hunde sind frei!«
 
-Wie ich damals auf die untersten Aeste eines der Alleebäume
+Wie ich damals auf die untersten Äste eines der Alleebäume
 gelangte, ist mir heute noch unklar. Ich weiß nur,
 daß Harst mich halb emporschleuderte und mir dann half, bis
 ich den ersten Ast packen konnte.
@@ -528,7 +528,7 @@ Baum in Sicherheit zu bringen. Nur der alte Javane
 und Harst standen noch auf dem mit Kies bestreuten Wege.
 Harst drängte den Hausmeister, der völlig den Kopf verloren
 hatte, auf den Baum zu, auf dem ich mich befand. Doch —
-es war bereits zu spät. Ueber den hellen Kies schossen vom
+es war bereits zu spät. Über den hellen Kies schossen vom
 Hause her vier hohe Tierkörper dahin, einer dicht hinter dem
 anderen.
 
@@ -580,7 +580,7 @@ eine helle Gestalt: Frau Doktor Drygaarden!
 Ich hatte bisher diesem neuen Fall »Doktor Satanas«
 offen gesagt wenig Geschmack abgewinnen können. — Weshalb?
 — Nun, weil er für mich so ziemlich klar lag und weiter
-keine besonderen Ueberraschungen versprach. Ich war in
+keine besonderen Überraschungen versprach. Ich war in
 dieser Beziehung ja reichlich verwöhnt durch unsere bisherigen
 Abenteuer. Zumeist war deren Ausgang nie vorauszusehen
 gewesen. Die Spannung auf die endgültige Lösung
@@ -639,7 +639,7 @@ Weise aus dem Vorhergehenden ableiten läßt. — Was in
 jener Nacht sich hier im Hause des Doktors wirklich ereignet
 <@pagebreak/>
 hatte, war mir jetzt erst leidlich klar geworden durch Harsts
-Aeußerung, Drygaarden sei gar nicht ermordet worden. Ich
+Äußerung, Drygaarden sei gar nicht ermordet worden. Ich
 dachte an ein vorgetäuschtes Verbrechen, das heißt, an eine
 von Doktor Satanas zu irgend welchen Zwecken schlau vorbereitete
 Irreführung der Polizei. Vielleicht wollte er spurlos
@@ -661,7 +661,7 @@ geklärt werden wird!«
 Auch diese Worte klangen so gar nicht nach Schuldbewußtsein.
 
 Harst erwiderte, er würde sich alle Mühe geben, die Prinzessin
-von einem Verdacht zu befreien, der seiner Ueberzeugung
+von einem Verdacht zu befreien, der seiner Überzeugung
 nach ganz haltlos sei.
 
 Der Hausmeister schritt wieder voran. Dann kamen die
@@ -671,7 +671,7 @@ wird. Jedenfalls hätte es mit der »Gemütlichkeit«
 dieser unseres Abenteuers auch ohne die Hunde jetzt ein Ende
 gehabt.
 
-Ueber den Eingang des Bungalows flammte jetzt eine
+Über den Eingang des Bungalows flammte jetzt eine
 elektrische Lampe in Form einer großen, altertümlichen Laterne
 auf. Das Haus war bis zu etwa 1 ½ Meter Höhe aus
 Steinquadern erbaut. Auf diesem Kellergeschoß ruhte der
@@ -796,7 +796,7 @@ gleichfalls versiegelt. Auch diese Siegel waren unverletzt. Einen
 weiteren Zugang als Türen und Fenster gab es nicht.
 
 In der Mitte stand das Bett. Das Kopfende befand sich
-gerade zwischen den beiden Fenstern. Ueber dem Bett an der
+gerade zwischen den beiden Fenstern. Über dem Bett an der
 Decke war der große Propeller eines offenen elektrischen Ventilators
 sichtbar. Auf den ersten Blick gewahrte man nichts,
 das irgendwie auffällig gewesen wäre. Die seidene Steppdecke
@@ -1026,7 +1026,7 @@ Schraut seine Weisheit zum Besten geben. Lege also los, mein
 Alter. Wie denkst Du über unseren Fall.«
 
 Ich erklärte nun genau dasselbe, was ich vorhin schon angeführt
-habe, ließ mich in meiner Ueberzeugung auch dadurch
+habe, ließ mich in meiner Überzeugung auch dadurch
 nicht beirren, daß Harst soeben behauptet hatte, die Prinzessin
 sei in der Mordnacht hier in Semarang gewesen.
 
@@ -1114,7 +1114,7 @@ der Schlaf; die Zigarre entfällt ihm, brennt ein kleines Loch
 in das Kissen. Dieser Brandfleck verriet mir, daß das Opfer
 künstlich eingeschläfert worden war. So leicht wird ja kein
 Raucher im Bett die brennende Zigarre verlieren. Daß kann
-nur bei außergewöhnlich starker Uebermüdung geschehen, die
+nur bei außergewöhnlich starker Übermüdung geschehen, die
 in diesem Falle auf einen Schlaftrunk zurückzuführen sein
 dürfte, da dieser dem Mörder noch den Vorteil bot, in aller
 Ruhe den Mann kaltblütig abschlachten zu können. Die Leiche
@@ -1164,7 +1164,7 @@ sich wieder seine große Nase. »Herr im Himmel — mir schwirrt
 der Kopf. Was müssen Sie nur für Augen und was für einen
 Verstandskasten haben, Herr Harst, um —«
 
-»Uebung — Routine!« lachte Harst. »So — da sind wir
+»Übung — Routine!« lachte Harst. »So — da sind wir
 ja daheim angelangt. Bitte holen Sie nun Swaardam ganz
 unauffällig herbei, Landsmann. Wir setzen uns derweil in
 Ihr Arbeitszimmer.«
@@ -1244,7 +1244,7 @@ hier hinaus) über den Mord und zwar so, daß jedes seiner
 Worte für einen Lauscher berechnet zu sein schien. Er erklärte
 unter anderem, er glaube nicht, daß dieser »Doktor Satanas«
 wirklich das Opfer dieses Verbrechens sei, fügte hinzu: »Wir
-werden hier noch allerlei Ueberraschungen erleben, mein Alter!«
+werden hier noch allerlei Überraschungen erleben, mein Alter!«
 — Dann schaltete er das Licht aus. Ich lag bereits im
 Bett. Lautlos schloß er die Tür wieder auf. Er hatte mir
 vorhin noch zugeflüstert, ich solle später mit kurzen Unterbrechungen
@@ -1271,7 +1271,7 @@ zweite Morgenstunde. Im Garten schluchzte eine Bul-Bul,
 eine indische Nachtigall, ihr sehnsüchtiges Nachtlied. Ich wurde
 müde; so müde, daß mir die Augen sehr bald zufielen. Ich
 kämpfte mit aller Energie gegen das Schlafbedürfnis an.
-Trotzdem nickte ich für Sekunden ein. Ueber meinem Bett
+Trotzdem nickte ich für Sekunden ein. Über meinem Bett
 drehte sich lautlos der Propeller der Ventilation. Ich fühlte
 den Luftzug, der bei der furchtbaren Hitze nur angenehm war,
 ganz deutlich. Es war genau so, als ob jemand dauernd einen
@@ -1281,7 +1281,7 @@ Dann — flog irgend etwas links von mir klatschend gegen
 die Wand und warf von einem Wandbrett eine Blumenvase
 herab, die krachend auf dem Fußboden zerschellte. — Ich war
 <@pagebreak/>
-erschrocken hochgefahren. Ich wartete auf irgend eine Aeußerung
+erschrocken hochgefahren. Ich wartete auf irgend eine Äußerung
 Harsts. Nichts erfolgte.
 
 Mir wurde unheimlich zumute. »Harst — hast Du gehört?«

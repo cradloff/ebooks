@@ -1,4 +1,4 @@
-<h2>Anmerkungen</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Ein gefährlicher Auftrag.md">Eine ältere Form des Lattenzauns
 ist der Staketenzaun. Der Querschnitt der Staketen ist rohrförmig oder

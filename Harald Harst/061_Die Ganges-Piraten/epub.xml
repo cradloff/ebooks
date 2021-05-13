@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">50e85b6e-9ae8-11eb-82d5-3ff6452a4024</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Ganges-Piraten</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">61</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die Ganges-Piraten.
+
+Wir hatten es eng zusammengefaltet in dem Innern eines hohlen Diamantkäfers gefunden, der wieder in einer eiförmigen Öffnung eines altindischen, eine Tänzerin darstellenden Leuchters verborgen gewesen war.
+
+Die seltsame Geschichte dieses Unglücksleuchters habe ich im vorigen Band erzählt. Lord Dreabram hatte ihn aus einer kleinen, in den Kaimur-Bergen liegenden Moschee, von deren Existenz nur die Familie Mohammed ben Gondar etwas wußte, geraubt.
+
+Jetzt waren Leuchter, Käfer und Seidenstück in unserem Besitz; jetzt saßen wir abermals beim Scheine der Petroleumlampe in dem Arbeitszimmer des halb verfallenen Hauses in der Vorstadt von Allahabad, das Harald Harst für einen geringen Preis gekauft hatte.
+
+Das Stück Seide lag mitten auf dem Tischtuch.
+
+Harald hatte soeben nochmals darauf hingewiesen, daß die Zeichnung sechs aufrechte und zwei liegende Kreuze, ferner so etwas wie ein schräges lateinisches großes M und in diesem einen kleinen Kreis enthalte – außer den zwei Bogenlinien und der punktierten Linie, die von dem einen Kreuz auf den Kreis senkrecht zulaufe.
+
+Das Zauberschloß der Miß Arbuton.
+
+»Sie gestatten dann also, Master Clarke, daß ich die Beteiligten zu morgen vormittag hierher bitte,« sagte Harald zu dem jungen Londoner Großkaufmann, der vor uns im Schatten eines großen Baumes im Liegestuhl ruhte. »Sie haben sich jetzt so weit erholt, daß wir das Geheimnis der beiden Diamantkäfer in Gegenwart der Eingeweihten weiter erörtern und insbesondere von Ihnen den Bericht über das entgegennehmen können, was Sie bisher nur andeutungsweise als »Das Schicksal der Familie Clarke« bezeichneten. Absichtlich unterließ ich bisher alle Fragen nach den näheren Umständen, wie der zweite Diamantkäfer einst in den Besitz Ihrer Familie gelangt ist, da eine andere Familie, eben die des alten Mohammed ben Gondar, fraglos ein Recht darauf hat, gleichzeitig mit uns Aufschluß über diese Dinge zu erhalten.«
+
+Der sechsundzwanzigjährige Chef der Londoner Firma, Allan Clarke, Juwelengroßhandlung, wurde stets recht nervös, wenn das Gespräch auch nur entfernt das Thema »Diamantkäfer« berührte. Das hatten wir seit seiner Befreiung schon wiederholt festgestellt. Und Harald hatte in Bezug auf diese Tatsache einmal mir gegenüber erklärt: »Lieber Alter, Clarke ist ja ein sehr netter, sympathischer Mensch. Aber –!«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (061) Die Ganges-Piraten.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

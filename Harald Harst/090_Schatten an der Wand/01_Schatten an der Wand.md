@@ -373,7 +373,7 @@ Gefangenen:
 
 »Ihre tadellos gepflegten Hände lassen die Vermutung
 <@pagebreak/>
-zu, daß Sie selbst Ernst-Edgar von Reppen sind. — Aeußern
+zu, daß Sie selbst Ernst-Edgar von Reppen sind. — Äußern
 Sie sich.«
 
 Keine Antwort.
@@ -514,7 +514,7 @@ plötzlich.
 
 »Und Du kannst mir dies Dein Erlebnis so gelassen erzählen?!
 Wie ist das möglich?! Wie konntest Du nicht
-sofort, als Reppen den Brief vorlas an diese Ueberschrift
+sofort, als Reppen den Brief vorlas an diese Überschrift
 des Plakats »S. S. Olsch — Burgsand!« denken! Das heißt
 doch, von hinten gelesen »Schloß Sandburg« —! —
 Schraut, Du wirst nie ein Genie werden! Nie!«
@@ -551,7 +551,7 @@ Und dann: »Das Wort«! — Max Schraut — geheimes Erkennungszeichen
 »Das Wort«! Das hast Du ja selbst festgestellt.
 Und Eva Wilcword — Wilc — word — Wort, —
 da hast Du den Gleichklang! Begreifst Du: »Das Wort«
-ist Eva, die Feindin! Und das wichtigste — die Ueberschrift:
+ist Eva, die Feindin! Und das wichtigste — die Überschrift:
 Schloß Sandburg! Begreift Du: Dort will Eva etwas
 unternehmen — stehlen, weiß Gott was! In Sandburg,
 wo auch die Geschwister Reppen im Trüben fischen! — Das
@@ -584,7 +584,7 @@ Vagabunden geworden. Kein Zuviel war an der Maskierung.
 Sie war darauf berechnet, daß uns nicht etwa jeder
 Grüne sofort aufs Korn nahm. — Unsere Rucksäcke richteten
 wir mit Erde und Kalkstaub so her, daß auch sie zum
-Uebrigen paßten. Dann gingen wir durch die Pracht des
+Übrigen paßten. Dann gingen wir durch die Pracht des
 Maiabends dem düsteren Mietskasernenviertel im Norden
 Berlins zu.
 
@@ -739,7 +739,7 @@ grinste Harst.
 Jenkel begann nun selbst mit der Toilette. Auch er
 war ein Verwandlungskünstler. Der vornehme alte Herr,
 der durch den goldenen Kneifer so kühl dreinschaute, hatte
-mit Jenkel nur noch wenig Aehnlichkeit.
+mit Jenkel nur noch wenig Ähnlichkeit.
 
 »Wollt Ihr noch etwas essen?« fragte er.
 
@@ -1267,7 +1267,7 @@ tief herabhängenden Zweigen.
 »Dort — geradeaus!« flüsterte der Wirt.
 
 Wir sahen noch nichts. Wir schoben uns unter den
-Aesten hindurch, richteten uns halb auf.
+Ästen hindurch, richteten uns halb auf.
 
 Ah — da war die hohe, gekalkte Ziegelmauer jenseits
 des Feldweges.
@@ -1296,7 +1296,7 @@ Dann ein Prasseln, Rauschen von Zweigen.
 
 Ich blickte empor.
 
-Drüben aus den Aesten der Kastanie, die weit über
+Drüben aus den Ästen der Kastanie, die weit über
 die Mauer hinwegragten, fiel — ein Weib herab, fiel in
 den dicken staubigen Sand des Feldweges.
 
@@ -1451,7 +1451,7 @@ Gierige Hände hoben drei schwarze Holzkästen heraus.
 Dann ein leiser Befehl Becherts.
 
 Laternenschein blitzte auf. Dienstpistolen hielten die
-Ueberraschten in Schach. Handschellen schnappten zu.
+Überraschten in Schach. Handschellen schnappten zu.
 Es waren fünf Zigeuner und der Diener. —
 
 Die Münzensammlung war gefunden. Gefunden war

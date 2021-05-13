@@ -1,4 +1,4 @@
-<h2>Anmerkungen</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Der Mord im Warenhause.md">Juchtenleder (kurz Juchleder oder
 auch kurz Juchten, auch Juften) ist ein auf bestimmte Art gegerbtes Leder aus

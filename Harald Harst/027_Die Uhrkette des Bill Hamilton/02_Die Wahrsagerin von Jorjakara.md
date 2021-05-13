@@ -12,7 +12,7 @@ das um 5 Uhr nachmittags begann und dessen letzter Gang etwa
 um 9 Uhr abends serviert wurde.
 
 Der Großkaufmann van Diemen, der Klubpräsident, hatte
-dann eine besondere Ueberraschung vorbereitet; ein Wasserfeuerwerk
+dann eine besondere Überraschung vorbereitet; ein Wasserfeuerwerk
 auf dem kleinen, malerischen See, der mitten in
 dem ausgedehnten Parke des Klubhauses lag.
 
@@ -285,7 +285,7 @@ in Jorjakara.«
 
 »Ja — so eine Art Badeort oder Luftkurort in den Bergen
 südlich von Semarang,« beeilte sich der Klubpräsident van
-Diemen zu erklären. »Uebrigens ein reizendes Dörfchen,
+Diemen zu erklären. »Übrigens ein reizendes Dörfchen,
 bester Harst, dessen größte Sehenswürdigkeit die alte Mistreß
 Bellingson ist.«
 
@@ -303,8 +303,8 @@ Haus.« erwiederte van Diemen. »Sie sollten sie mal besuchen,
 Harst. Lassen Sie sich nur von ihr die Zukunft vorhersagen.
 Die Art, wie sie es tut, ist recht eigenartig.
 <@pagebreak/>
-Ueberhaupt: die Frau ist das, was man so eine rätselhafte Persönlichkeit
-nennt. Ueber das, was man von ihr weiß, oder besser,
+Überhaupt: die Frau ist das, was man so eine rätselhafte Persönlichkeit
+nennt. Über das, was man von ihr weiß, oder besser,
 was man von ihr nicht weiß, muß man in allem ein »Soll«
 setzen. Sie *soll* die Gattin eines Majors der indischen Armee
 gewesen sein; sie *soll* dann eines Brahmanen Gattin geworden
@@ -330,7 +330,7 @@ ich Mistreß Bellingson wirklich besuchen, wenn ich Zeit dazu
 hätte. Aber ich muß morgen früh bereits nach Batavia zurück.
 Freund Schliepner wird dieses Attentat hier ja hoffentlich aufklären
 und mir dann schriftlich mitteilen, was dabei herausgekommen
-ist. Ich bin jetzt doch zu der Ueberzeugung gelangt,
+ist. Ich bin jetzt doch zu der Überzeugung gelangt,
 daß dieses in seiner Art wohl einzig dastehende Verbrechen
 sich nicht gegen meine und meines Freundes Person richtete,
 sondern vielleicht Ihnen van Diemen, oder Schliepner galt.« —
@@ -508,7 +508,7 @@ Abteil verübten Mordanschlag auf uns vortäuschen wollte.
 
 Nur ein Mann wie Harst konnte all die Feinheiten ersinnen,
 um diese Täuschung vollkommen zu machen. Zum Schluß
-schob er seinen linken Aermel hoch und brachte sich am Unterarm
+schob er seinen linken Ärmel hoch und brachte sich am Unterarm
 einen Schnitt bei, aus dem genügend Blut hervordrang,
 um unserem reservierten Abteil auch durch Blutflecke ganz das
 Bild des Schauplatzes eines Raubmordes zu geben.
@@ -1053,7 +1053,7 @@ ein paar dünne Bambusstäbchen —«
 
 Ich suchte mit den Augen, bis ich das entdeckt hatte,
 worauf er mich aufmerksam machen wollte. Es stimmte: dort
-oben hingen an einem der dem Hause zugekehrten Aeste Papierfetzen
+oben hingen an einem der dem Hause zugekehrten Äste Papierfetzen
 und ein paar ganz dünne Stäbe, dazu noch ein paar
 lange Bindfadenenden.
 
@@ -1203,7 +1203,7 @@ auf der tadellosen Bergstraße. Nur selten begegneten wir
 einem Wagen, einem Büffelkarren oder ein paar Eingeborenen.
 Nach einer Viertelstunde passierten wir einen Kampong.
 Harsts Augen waren überall. Ich merkte, wie argwöhnisch er
-war. Daß er irgendwie und -wo einen Ueberfall befürchtete,
+war. Daß er irgendwie und -wo einen Überfall befürchtete,
 räumte er ohne weiteres ein.
 
 Der Kampong lag hinter uns. Wir kamen jetzt durch einen
@@ -1461,12 +1461,12 @@ Harst hatte schon einen schweren Ebenholzschemel gepackt.
 Noch ein Satz. Die Kerle brüllten auf vor Schreck. Der Schemel
 sauste herab — einmal — nochmals.
 
-Aechzend waren die beiden umgesunken.
+Ächzend waren die beiden umgesunken.
 
 Harst half Mistreß Bellingson auf. Sie war noch bei Bewußtsein.
 
 Hier waren die Fensterladen nicht geschlossen. Ein Fenster
-stand weit offen. Es war der Salon. Ueber einem zierlichen
+stand weit offen. Es war der Salon. Über einem zierlichen
 Damenschreibtisch hing das verhüllte Bild.
 
 Harst teilte unserer Feindin mit, was sich nebenan ereignet

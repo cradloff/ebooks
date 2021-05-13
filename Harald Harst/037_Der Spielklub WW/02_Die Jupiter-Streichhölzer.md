@@ -123,7 +123,7 @@ Wer dahinter steckt, vermute ich nur. Aus Furcht schließe
 ich mich nachts stets ein. Und doch finde ich jeden
 Morgen in meinem Zimmer ein oder mehrere abgebrannte,
 rote Zündhölzer. Ich leide geradezu an krankhafter
-Schlafsucht. Uebermorgen, am 3. Juni, besuche
+Schlafsucht. Übermorgen, am 3. Juni, besuche
 ich das Theater des Westens, wo es die Operette »Das
 Rosenmädel« gibt. Orchesterloge Nr. 2, Platz 4. Bitte,
 bitte, helfen Sie mir.
@@ -136,8 +136,8 @@ können.
 »Das kann etwas werden,« sagte ich.
 
 »Hm, — ich bin eigentlich enttäuscht, mein Alter. Die
-Art der Uebermittelung dieser Zettel schmeckt nach hysterischer
-Ueberspanntheit. Wenn die Schreiberin einen Vertrauten hat,
+Art der Übermittelung dieser Zettel schmeckt nach hysterischer
+Überspanntheit. Wenn die Schreiberin einen Vertrauten hat,
 hätte sie doch weit bequemer mir einen Brief durch die
 richtige Post zusenden lassen können. Diese Brieftaubenpost
 war doch weit umständlicher und konnte viel leichter auffallen.
@@ -278,7 +278,7 @@ Du vielleicht auch?«
 zu einem Verbrechen —«
 
 »Danke, mein Alter. Wir sind uns einig. Vorläufig
-also: Erbschleichen oder Aehnliches mit allen Mitteln!«
+also: Erbschleichen oder Ähnliches mit allen Mitteln!«
 
 Dann machte er mir einen Vorschlag, auf den ich gern
 einging. Wir verließen nach dem Mittagessen um zwei
@@ -418,7 +418,7 @@ Um den Alten nicht argwöhnisch zu machen, wechselte
 ich das Thema. Ich hatte genug erreicht. Nach einer Weile
 verabschiedete ich mich und schritt um das Grundstück des
 Doktors herum, das ein ganzes Straßenviereck einnahm.
-Ueberall gab es die gleiche Mauer, überall auch die gleichen
+Überall gab es die gleiche Mauer, überall auch die gleichen
 dicken Stacheldrähte.
 
 Ich dachte über das nach, was der Gärtner da soeben
@@ -443,7 +443,7 @@ Ich schaute mich um.
 
 Da stand links vom Wege mitten zwischen den Kiefern
 eine uralte, knorrige Eiche. Und — ein gar seltsamer Vogel
-hatte sich da auf einem der mittleren Aeste niedergelassen:
+hatte sich da auf einem der mittleren Äste niedergelassen:
 Harald Harst!
 
 Ich schwenkte sofort von der Straße ab, verschwand
@@ -774,7 +774,7 @@ nie auf Gegenliebe hoffen darf.«
 »Aber — die Zündhölzer, die roten Zündhölzer?!«
 meinte ich.
 
-»Ein Liebestoller hat keine Gedanken, keine Ueberlegung.«
+»Ein Liebestoller hat keine Gedanken, keine Überlegung.«
 
 Wir waren an der Haltestelle angelangt. Gleich darauf
 kam eine Straßenbahn. Wir stiegen ein und fuhren nach
@@ -800,7 +800,7 @@ wartete —
 »Alles in Ordnung,« murmelte Harst und stieg herab.
 »Das grüne Licht zeigte sich.«
 
-Wir begaben uns an das Parktor. Dort war das Uebersteigen
+Wir begaben uns an das Parktor. Dort war das Übersteigen
 der Gitterpforte am bequemsten; dort waren nur
 drei Stacheldrähte vorhanden, durch die man sich hindurchwinden
 konnte, wenn der andere die Drähte auseinander
@@ -979,7 +979,7 @@ gegenüber dem Vormundschaftsrichter derart verleugnet, daß
 dieser ihm ganz freie Hand läßt. Und er behauptet, er
 würde mich — in einer Anstalt für Geisteskranke für immer
 lebendig begraben, wenn — wenn ich —« Ihre Tränen
-flossen reichlicher. Ihre Stimme erstickte vor dem Uebermaß
+flossen reichlicher. Ihre Stimme erstickte vor dem Übermaß
 ihrer Verzweiflung.
 
 »Fräulein Linden, hören Sie mich an,« sagte Harald
@@ -1044,7 +1044,7 @@ mein Kopf war durch ein Polster hochgestützt. Arme und
 Beine, Oberleib und Hals waren durch Riemen an den
 Tisch geschnallt.
 
-Und — neben mir lag Harst. Ueber uns brannte eine
+Und — neben mir lag Harst. Über uns brannte eine
 elektrische Bogenlampe. Um uns herum standen allerhand
 <@pagebreak/>
 Apparate, Gestelle mit großen Flaschen und Gläsern.
@@ -1169,7 +1169,7 @@ Harst rief plötzlich:
 »Schraut — Schraut — wir sind vielleicht wirklich
 Narren! Bedenke: Rosa Linden belog uns. Und wenn
 dies eine erlogen war, daß sie die glimmenden Zündhölzer
-gesehen hätte, dann — dann kann auch das Uebrige lediglich —«
+gesehen hätte, dann — dann kann auch das Übrige lediglich —«
 
 Der Doktor hatte sich über den Tisch gebeugt, stieß
 jetzt heiser vor Erregung und doch flehenden Tones hervor:
@@ -1369,7 +1369,7 @@ Zipfel etwas, — da, ein Papierkügelchen.«
 Er breitete es auseinander, stutzte.
 
 »Ein Zeitungsausschnitt!« meinte er hastig. »Es ist die
-Meldung von der Ueberführung Doktor Möckerns in die
+Meldung von der Überführung Doktor Möckerns in die
 Irrenanstalt Dalldorf. — Herr Doktor Prikola, hat sich
 Rosa Linden vielleicht einmal bei Möckern behandeln lassen?«
 
@@ -1432,7 +1432,7 @@ Fläschchen.
 Lächeln wurde überlegen-geringschätzig. »Sie haben nun
 doch gesiegt, Herr Harst. Ich hätte in meiner siegesgewissen
 Stimmung den Zeitungsausschnitt nicht in der Kapuze verstecken
-sollen. Es war halb Uebermut von mir, halb ein
+sollen. Es war halb Übermut von mir, halb ein
 dunkler Trieb, das Schicksal zu versuchen. Nicht wahr, Sie
 haben das Papierkügelchen gefunden? — Nun — das Spiel
 ist eben aus —«

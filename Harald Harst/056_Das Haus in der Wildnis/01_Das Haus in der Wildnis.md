@@ -232,7 +232,7 @@ weit westlich von Portugal im Atlantik gelegen.«
 Ich beugte mich über das Blatt. — Wie in aller Welt
 war Harald gerade auf die Azoren gekommen?! — Ich
 überflog nochmals die Schriftreste, die ich hier in deutscher
-Uebersetzung wiedergebe:
+Übersetzung wiedergebe:
 
 <div style="white-space: pre;">    war zu verlo
     kurz     spar     kö
@@ -315,7 +315,7 @@ ihr ein Betäubungsmittel heimlich gereicht und sie ins
 Wasser geworfen haben. Daß dies von einem Schiffe aus
 geschah, bezweifle ich, nehme vielmehr an, es geschah in
 einem Hafen, wo die Mörder Ziegelsteine zur Hand hatten,
-die sie der Aermsten an die Füße banden. Oder —
+die sie der Ärmsten an die Füße banden. Oder —
 sie haben die Ziegelsteine an Bord ihres Schiffes aus
 dem Hafen mitgenommen und dann diesen Schurkenstreich
 verübt, als sie weit ab von Land waren. Auf
@@ -560,7 +560,7 @@ Harst und Schraut »angeblich« Shenton bereits verlassen
 hätten. Da haben Sie und Ihre Leute es mit der Angst
 bekommen. Und Sie sollten hier spionieren, haben dann
 Mac Owen ausgehorcht — ich lauschte an der Tür —
-und gelangten zu der Ueberzeugung, daß die beiden Gefürchteten
+und gelangten zu der Überzeugung, daß die beiden Gefürchteten
 ausgerechnet die Finder der Leiche waren und
 daß sie noch dazu in der einen Tasche der Toten ein Papier
 entdeckt hätten. — Wer sind Sie, Mann?«
@@ -601,7 +601,7 @@ Sie schwindeln.«
 <@pagebreak/>
 
 <h2>3. Kapitel.</h2>
-<h3>Ueber jede Phantasie hinaus.</h3>
+<h3>Über jede Phantasie hinaus.</h3>
 
 »Ich heiße Lopeg d’Argosta und bin Portugiese von
 Geburt, bin der letzte Sproß einer alten, einst sehr begüterten
@@ -780,7 +780,7 @@ er offen zugab. Er sagte mir einmal: »Wenn Sie mir
 diesen Harst vom Leibe halten, können Sie von mir verlangen,
 was Sie wollen.« — In der Morning Post stand
 nun Ihr Name über dem Artikel von dem Leichenfund
-hier. — Ihr Name als Ueberschrift eines anderen Artikels
+hier. — Ihr Name als Überschrift eines anderen Artikels
 —«
 
 »Schon gut. — Und deshalb kamen Sie hierher. Sie
@@ -1029,7 +1029,7 @@ Ich war dicht an der Tür stehen geblieben.
 
 Mit einem Male schlug sie hinter mir krachend zu.
 Die Riegel wurden vorgeschoben, ehe ich mich noch von
-meiner Ueberraschung erholt hatte. 
+meiner Überraschung erholt hatte. 
 
 Dann eine Stimme durch die Tür — ein helles
 Organ:
@@ -1127,7 +1127,7 @@ sollte.
 
 Um sieben Uhr früh machte die Luxusmotorjacht
 Atlanta vom Bollwerk los. Sie hatte sechs Mann Besatzung.
-Der Besitzer und Kapitän Edward Bansy rechnete
+Der Besitzer und Kapitän Edward Banfy rechnete
 es sich zur Ehre an, einem Harst behilflich sein zu
 können.
 
@@ -1150,7 +1150,7 @@ sofort verlassen hatte, längst hier sein.
 
 Unsere Mannschaft war genau instruiert. Harald und
 ich sollten als harmlose englische Weltenbummler gelten.
-Die Leute einschließlich Kapitän Bansys wußten, daß wir
+Die Leute einschließlich Kapitän Banfys wußten, daß wir
 auf der Verbrecherjagd waren und zeigten einen Eifer
 für unser Unternehmen, das ganz der englischen Sportlust
 entsprach.
@@ -1165,7 +1165,7 @@ Auskunft.
 dann die Küste entlang nach Westen zu, nachdem sie ihre
 Trinkwassertanks gefüllt hatte.«
 
-Wir kehrten an Bord der Atlanta zurück. Bansy
+Wir kehrten an Bord der Atlanta zurück. Banfy
 hatte bereits einen Lotsen besorgt, der die Azoren ganz
 genau kannte.
 
@@ -1179,7 +1179,7 @@ Als wir in die zweite einliefen, sahen wir hinter einer
 bewaldeten Landzunge die beiden Masten eines Schiffes.
 Sofort wurde der Motor abgestellt.
 
-In dem kleinen Rettungsboot ruderten Harst, Bansy,
+In dem kleinen Rettungsboot ruderten Harst, Banfy,
 ich und zwei Matrosen auf die Landzunge zu, zogen das
 Boot auf das Ufer und durchquerten den Lorbeerwald.
 Das Unterholz war dicht, aber in Buschinseln angeordnet,
@@ -1329,7 +1329,7 @@ uns rechts und links gruppiert hatten.
 
 »Sie wollen also nichts gestehen,« sagte Harald zu
 Jefferson und Genossen. »Brauchen Sie auch, nicht. Ich
-habe von Master Bansy mir für diese Reise ein Riesenpaket
+habe von Master Banfy mir für diese Reise ein Riesenpaket
 alter Zeitungen besorgen lassen. In ein paar Zeitungen
 steht ein Aufruf: »Erben gesucht!«, und zwar die
 Erben des vor drei Jahren in St. Louis verstorbenen

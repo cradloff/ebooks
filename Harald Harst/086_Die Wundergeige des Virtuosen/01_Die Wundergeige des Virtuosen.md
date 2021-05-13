@@ -612,7 +612,7 @@ Und sie nickte Harald zu und schritt hinaus.
 Harst setzte sich in den Schreibsessel und schlug die
 Zeitung auseinander.
 
-»Hier — ein Artikel über uns beide,« meinte er. »Ueber
+»Hier — ein Artikel über uns beide,« meinte er. »Über
 das Abenteuer in Tallamara. Der erste genauere Bericht
 über unser Zusammentreffen mit Daisy Bennerton, dem
 blinden Hindumädchen —«
@@ -687,7 +687,7 @@ gedrückt.
 
 Unwillkürlich schloß ich die Hände um das Seil, hing
 nun dicht vor dem Fenster und — stieß ebenso ohne langes
-Ueberlegen mit dem rechten Fuß die untere Scheibe ein.
+Überlegen mit dem rechten Fuß die untere Scheibe ein.
 
 Der Geiger fuhr herum.
 
@@ -782,7 +782,7 @@ ihn keine Sekunde mehr allein lassen. Meine Hand fuhr
 in die Schlüsseltasche der Beinkleider. Als ich das kühle
 Metall der Repetierpistole in den Fingern spürte, fiel der
 letzte Rest von Entsetzen über diesen Mord von mir ab.
-Mit kalter, kritischer Ueberlegung schaute ich mißtrauisch
+Mit kalter, kritischer Überlegung schaute ich mißtrauisch
 geradeaus. Der Lärm der plätschernden Fontäne zwang
 mich, ganz laut zu sprechen.
 
@@ -983,7 +983,7 @@ abgefeuerte Patrone vorhanden.
 »Das ahnte ich,« sagte Harald. »Die beiden Schüsse
 klangen verschieden.«
 
-Ich horchte auf. »Aus Deiner Aeußerung entnehme
+Ich horchte auf. »Aus Deiner Äußerung entnehme
 ich, daß Iwannow also den einen Schuß abgegeben hat —«
 
 »Gewiß. Das hat er.«
@@ -1031,7 +1031,7 @@ murmelte er. »Und dann verdeckte wohl auch der Brunnenrand
 ihre Füße. Sonst hätten ihre hellen Seidenstrümpfe
 und die Silberschuhchen sie gerettet, eben die Verwechslung
 unmöglich gemacht. Nur eins bleibt noch zu
-klären: weshalb begab die Aermste sich hier in den Park, weshalb
+klären: weshalb begab die Ärmste sich hier in den Park, weshalb
 zog sie meinen Mantel über? Vielleicht, um hier vom
 Parke aus nach den Fenstern ihres Salons hinaufzuspähen?
 Vielleicht aus — aus weiblicher Neugier und Sensationslust?
@@ -1052,7 +1052,7 @@ diesen Brief, den fraglos ein falscher Postbote abgegeben
 <@pagebreak/>
 hat und der gar nicht in Benares abgeschickt worden ist.
 Ein förmliches Netz ist’s — ein raffiniertes Netz — *für
-mich* gewoben. Und Du Aermste fingst Dich darin!«
+mich* gewoben. Und Du Ärmste fingst Dich darin!«
 
 Nun — nun lagen die ganzen Geschehnisse wie die aufgedeckten
 Karten eines Gegenspielers klar vor mir.
@@ -1094,7 +1094,7 @@ ich allein — erledigen.«
 
 Der dicke Mr. Harring, einer jener Beamten, die Harsts
 <@pagebreak/>
-Ueberlegenheit mit verbissenem Aerger hinnahmen und ihren
+Überlegenheit mit verbissenem Ärger hinnahmen und ihren
 kleinlichen Neid hinter bureaukratischer Zugeknöpftheit
 verbargen, hielt uns nicht lange auf.
 

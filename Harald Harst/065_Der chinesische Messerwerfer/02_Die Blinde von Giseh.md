@@ -67,7 +67,7 @@ erläuterte Harald. »Er ist als Sonderling ebenso
 berühmt wie als Gelehrter. Seine Diener sind ein Neger und
 ein Chinese, die für ihn durchs Feuer gehen sollen. Vor
 etwa sechs Jahren hielt er hier in Berlin einen Vortrag
-in der Aegyptologischen Gesellschaft, und aus diesem Anlaß
+in der Ägyptologischen Gesellschaft, und aus diesem Anlaß
 brachten die Zeitungen und illustrierten Blätter auch
 Abbildungen des Schlosses, das der Professor im übrigen
 sehr selten besichtigen läßt. — Nun die Fortsetzung des
@@ -310,7 +310,7 @@ Der Oberkellner begleitete uns im Fahrstuhl nach oben.
 Als wir den Wohnsalon, Nr. 153, betraten, flüsterte
 Harald mir zu: »Tadellos! 154 wohnt Mocrisam!« —
 
-Und dann kam die Ueberraschung.
+Und dann kam die Überraschung.
 
 Harald deutete auf die durch einen Schrank verstellte
 Verbindungstür, die nach 154 führte, und fragte den Oberkellner:
@@ -604,9 +604,9 @@ Entdeckung?!«
 auf diesem Fetzchen Löschblatt ein Brief —«
 
 »Bitte — kein Brief, mein Alter!« unterbrach er mich.
-»Nur eine Schriftprobe, das heißt eine Uebung im Nachahmen
+»Nur eine Schriftprobe, das heißt eine Übung im Nachahmen
 von Mocrisams Handschrift wurde hier abgetrocknet,
-und zur Uebung war eben der Brief abgeschrieben worden,
+und zur Übung war eben der Brief abgeschrieben worden,
 wobei die Silben Gis Men Jef gerade an die Anfänge von
 Zeilen gerieten —«
 
@@ -766,7 +766,7 @@ Gefangenen in die Tasche, holte einen Schlüsselring heraus
 und sagte zu dem kleinen Menschen:
 
 »Wer ist das Mädchen? Etwa Jane Hasting, die in
-Aegypten verschwand?«
+Ägypten verschwand?«
 
 Der Kerl bebte vor Erregung.
 
@@ -973,7 +973,7 @@ Ich erwiderte nichts. Nach vielleicht einer Stunde
 meldete Harald sich abermals.
 
 »Schraut, der Trick ist mißglückt. Wir müssen hinaus!
-Oeffne Deinen Patentkasten —«
+Öffne Deinen Patentkasten —«
 
 Ich hatte mich wieder in den gewöhnlichen Max
 Schraut verwandelt gehabt. Wäre ich hier als Dame aus
@@ -1048,7 +1048,7 @@ Ich fürchte, ich bin —«
 <@pagebreak/>
 Wisch ist wertvoll. — Noch etwas, lieber Bechert. Die
 Polizei in München soll sofort noch Erkundigungen einziehen,
-ob Professor Mocrisam, der englische Aegyptologe,
+ob Professor Mocrisam, der englische Ägyptologe,
 irgendwo in München abgestiegen ist. Findet sie ihn,
 so soll Mocrisam in München bleiben, bis ich dort eintreffe.
 Ist er weitergereist, was ich nicht annehme, dann soll ihm
@@ -1287,7 +1287,7 @@ Harald. »Wer waren die beiden Damen?«
 Es waren —«
 
 »— Frau Oberst Anna Jefferson und Fräulein Jane
-Hasting-Mocrisam, die im April in Aegypten verschwunden
+Hasting-Mocrisam, die im April in Ägypten verschwunden
 waren,« ergänzte Harst lächelnd.
 
 Sepp Fanglgruber machte ein böses Gericht. »Sie
@@ -1327,7 +1327,7 @@ einen Spion von unserer Fährte abzulenken.
 Im Hotel »Präsident Krüger« trafen wir die dorthin
 Bestellten bereits an. — Der Kriminalbeamte Lorenz war
 uns von früher her bekannt. Er teilte uns mit, daß die
-Blinde keinerlei Schwierigkeiten gemacht hätte. Uebrigens
+Blinde keinerlei Schwierigkeiten gemacht hätte. Übrigens
 habe Kommissar Bechert das Mädchen auch durch einen
 Augenspezialist untersuchen lassen. Dieser sei überzeugt,
 daß die Blindheit, die offenbar nach einer schweren Masernerkrankung
@@ -1545,7 +1545,7 @@ Leute herbeirufen.« — Lingfu reichte dem Professor
 den Schlüssel.
 
 Harald warf mir einen langen Blick zu und sagte
-Mocrisam, der vor Ueberraschung wieder völlig sprachlos
+Mocrisam, der vor Überraschung wieder völlig sprachlos
 war: »Sie haben doch wohl bereits etwas von dem
 großen Hochstapler, dem Gentlemangauner Vincent
 Saalborg gehört. Ich glaube, Saalborg hat hier wieder eine
@@ -1580,7 +1580,7 @@ Jane gewann das Augenlicht durch eine Operation zurück.
 — Wir beide blieben noch drei Tage als Gäste auf Schloß
 Shipparl. In diesen drei Tagen ereignete sich der Auftakt
 zu unserem nächsten Abenteuer, das uns in das Land der
-Pharaonen, nach Aegypten, führen sollte.
+Pharaonen, nach Ägypten, führen sollte.
 
 Nächster Band:
 

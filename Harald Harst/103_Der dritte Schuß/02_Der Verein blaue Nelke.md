@@ -79,7 +79,7 @@ sofortigen Tod herbeiführt.«
 
 <@pagebreak/>
 Harald nickte. »Ich kenne die Wirkungen. Ich habe
-bereits einmal etwas Aehnliches erlebt, ebenfalls einen
+bereits einmal etwas Ähnliches erlebt, ebenfalls einen
 Mordversuch mit dieser so überaus gefährlichen Amylverbindung.«
 Er hatte die blaue Nelke vom Schreibtisch genommen
 und betrachtete sie aus vorsichtiger Entfernung.
@@ -118,7 +118,7 @@ Harald legte die Nelke auf den Schreibtisch.
 Und er feuchtete den rechten Zeigefinger an und fuhr
 über die Stelle des Stieles hin, die Zahl blieb sichtbar.
 
-»Also Oelfarbe, mein Alter...!«
+»Also Ölfarbe, mein Alter...!«
 
 Er griff nach einem Radiermesser, das auf der Schreibtischplatte
 lag, und kratzte die Zahl vorsichtig weg, drückte
@@ -499,7 +499,7 @@ Harst fünf Millionen (und das war Juli 1922 noch Geld!),
 wenn er sie sofort nach Saßnitz begleiten wollte.
 
 <@pagebreak/>
-Harald nahm nach längerem Ueberlegen an. Seit
+Harald nahm nach längerem Überlegen an. Seit
 wir nicht mehr in der Lage waren, wie einst als Liebhaberdetektive
 die Welt ohne klingenden Verdienst zu durchschweifen,
 verlangte unsere Kasse von Zeit zu Zeit nach Auffüllung.
@@ -929,7 +929,7 @@ Sein Gesicht wurde verwirrt.
 
 »Setzen Sie sich bitte wieder.« Harald war Herr der
 Lage. Die schwarze kleine Repetierpistole war aus seinem
-Aermel wieder in die Innenfläche der Hand geglitten und
+Ärmel wieder in die Innenfläche der Hand geglitten und
 warnte Villamara sehr eindringlich. »Ihre Freunde könnten
 ja vielleicht abdrücken und treffen, Herr Graf. Ich täte
 es auch. Seien Sie davon überzeugt. Setzen Sie sich. Sie
@@ -1011,7 +1011,7 @@ Und dann... Stille...
 
 Und leise Schritte über den Teppich.
 
-Oeffnete die Augen, sah, wie Villamara sich wieder
+Öffnete die Augen, sah, wie Villamara sich wieder
 setzte, sah Burton leblos in den Fesseln hängen, sah Frau
 v. Seiler in der Sofaecke gegen eine Ohnmacht ankämpfen.
 
@@ -1072,7 +1072,7 @@ mit deutlichem Vorwurf.
 Villamara zog die dicken Brauen hoch. »Wie soll ich
 das verstehen, Herr Harst?«
 
-»Mußten Sie fünf, die Ueberlebenden von Santa
+»Mußten Sie fünf, die Überlebenden von Santa
 Rocka, zu Mördern werden?! — Ich kenne das Drama
 von Santa Rocka. Vor acht Jahren ging ein Dampfer, der
 von Singapore nach Australien bestimmt war, im Orkan
@@ -1194,7 +1194,7 @@ Loch in den Gang hinauskroch. Auch im Gange zwischen
 den Kabinen war es dunkel. Die Wächter waren nicht
 mehr da.
 
-Es kostete Mühe, mich durch die Oeffnung gleichfalls
+Es kostete Mühe, mich durch die Öffnung gleichfalls
 <@pagebreak/>
 hindurchzubringen. Die Tür ließ sich auch von außen nicht
 aufschließen. Die Riegel hatten Patentvorlegeschlösser.
@@ -1208,7 +1208,7 @@ Besitz der Clementpistolen waren wir beide Manns genug,
 unseren Willen durchzusetzen.
 
 Als wir beide nun die Treppe zum Deck emporschlichen,
-hatte ich die Ueberzeugung, daß diese Nacht mir die
+hatte ich die Überzeugung, daß diese Nacht mir die
 restlose Aufklärung des Geheimnisses der blauen Nelke
 bringen würde. Ich irrte mich auch nicht. Nur war der
 Schlußakt der Tragödie weit nervenerschütternder, als ich
@@ -1338,7 +1338,7 @@ Hörten gellende Schreie ... Krachen, Splittern...
 Sahen undeutlich, wie die Santa Rocka, mittschiffs gerammt,
 in zwei Hälften zerschnitten, versank...
 
-Suchten nach Ueberlebenden — fanden nicht einen
+Suchten nach Überlebenden — fanden nicht einen
 mehr. Der Frachtdampfer hatte sich schleunigst, da unbeschädigt
 geblieben, entfernt.
 

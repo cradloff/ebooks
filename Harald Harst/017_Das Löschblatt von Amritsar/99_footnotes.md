@@ -1,5 +1,4 @@
-Anmerkungen:
-------------
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Das Löschblatt von Amritsar.md">Von Amrita Saras: »Nektarsee«.
 Siehe auch Wikipedia: Amritsar.</@footnote>

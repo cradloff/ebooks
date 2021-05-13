@@ -54,7 +54,7 @@ lief,« erwiderte ich.
 
 »Stimmt. Eine Doppelfährte. Ein Kamelreiter kam
 gestern morgen von Norden her und hat die Oase sehr bald
-wieder nach Norden zu verlassen. Aelter kann die Spur
+wieder nach Norden zu verlassen. Älter kann die Spur
 nicht sein.«
 
 »So schätze ich auch. — Was geht uns der Reiter an?«
@@ -334,7 +334,7 @@ Es war ein Mauerstück von gut zwei Zentner Gewicht.
 Es sauste haarscharf an Haralds Kopf vorüber und
 dem Schwarzbärtigen auf den Korkhelm.
 
-Mit einem Aechzen brach der Mann zusammen. —
+Mit einem Ächzen brach der Mann zusammen. —
 
 All das war so blitzschnell geschehen, daß ich erst richtig
 das Vorgefallene begriff, als Harst die Schlinge um seine
@@ -1045,12 +1045,12 @@ angelangt. Er muß irgendwo noch ein Reitkamel versteckt
 gehabt haben, oder er hat eins gestohlen. Du bemerktest
 ja ebenfalls, wie die Frau, als sie nach dem Seeufer vorhin
 ruderte, plötzlich stutzte. Allerdings dauerte diese Körperhaltung
-und die Gesichtsveränderung, die ihre Ueberraschung
+und die Gesichtsveränderung, die ihre Überraschung
 ausdrückten, nur Sekunden. Sie hat sich tadellos
 in der Gewalt. Der Mann muß hinter der Felswand, dem
 kleinen Vorgebirge, gestanden haben. Er wird ihr ein
 paar Zeichen gegeben haben, daß die Luft nicht rein sei und
-daß sie ihre Ueberraschung verhehlen solle. Der Schwarzbärtige
+daß sie ihre Überraschung verhehlen solle. Der Schwarzbärtige
 wußte also, daß wir hier sind und daß wir den
 See beobachteten. Ihn zu fangen wäre in dieser Bergwildnis
 sehr schwer gewesen, zumal er hier doch alle Pfade
@@ -1064,7 +1064,7 @@ schrammte der Bootsrand daran entlang.
 
 Harst stieß das eine Ruder in den Grund und band das
 Boot fest. Ich hatte mich neugierig erhoben und über die
-Oeffnung der Tonne gebeugt.
+Öffnung der Tonne gebeugt.
 
 Ja — es war ein Skelett darin. Und — an den
 Knochen hafteten sogar noch einzelne Reste von Sehnen.
@@ -1208,7 +1208,7 @@ sehen als andere Leute — weit mehr! Wir sehen durch
 Felsen hindurch! Wir sahen vom Boote aus in dem Felsenhaufen
 etwas wie eine Kerkerzelle für einen Unglücklichen,
 der den Totenschädel ständig vor Augen haben sollte!
-Also muß es in den Felsen eine Oeffnung, einen Sehschlitz,
+Also muß es in den Felsen eine Öffnung, einen Sehschlitz,
 nach dem Wasser hin geben! — Ihr Gefährte scheint Sie
 übrigens im Stiche gelassen zu haben. Er winkte Ihnen
 doch zu, als Sie über den See ruderten. Sie waren sehr
@@ -1261,7 +1261,7 @@ Steinen sich ein altes Gemäuer befand.
 
 »Es hat hier einst ein Koptenkloster gestanden,« sagte
 das Weib (Kopten sind die christlichen Ureinwohner
-Aegyptens). »Dort links muß man die Felsen erklettern —«
+Ägyptens). »Dort links muß man die Felsen erklettern —«
 
 Sie eilte nach links uns voraus, erklomm die ersten
 Steine.
@@ -1448,7 +1448,7 @@ Schoner nachts gekapert. Die drei Matrosen der Jacht
 fielen bei diesem Kampf. Der Kapitän der Roma wurde
 schwer verwundet, wie nun Graf Emanuelo weiter berichtete.
 Man brachte ihn, den sterbenden Kapitän und den
-Steuermann nach der Küste Aegyptens und dann auf Kamelen
+Steuermann nach der Küste Ägyptens und dann auf Kamelen
 weiter hierher. Der Kapitän starb. Seine Leiche
 <@pagebreak/>
 warf das verbrecherische Paar, das hier die Wächter der

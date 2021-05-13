@@ -1,5 +1,4 @@
-Anmerkungen (Wikisource)
-========================
+<div class="anmerkungen">Anmerkungen (Wikisource)</div>
 
 <@footnote 1 "01_Das Geheimnis der Kabine 24.md">Von 1624 bis 1924 trug Oslo den Namen Christiania.</@footnote>
 <@footnote 2 "01_Das Geheimnis der Kabine 24.md">Das Eisenbahnfährschiff Preußen gab es wirklich. Es fuhr die Route Saßnitz–Trelleborg.</@footnote>

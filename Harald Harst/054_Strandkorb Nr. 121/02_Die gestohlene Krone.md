@@ -180,7 +180,7 @@ Herrn, der uns derart in Schach hielt:
 nicht?!«
 
 »Harst?!« Die Hand mit dem Revolver sank.
-»Donnerwetter, das nenne ich eine Ueberraschung! Alles
+»Donnerwetter, das nenne ich eine Überraschung! Alles
 andere hätte ich erwartet, nur Sie beide nicht!« —
 
 Harald schicke den spärlich bekleideten Alten zu Bett.
@@ -825,11 +825,11 @@ Ich sagte mir sofort, daß doch sehr wahrscheinlich
 nur der Baron zu dieser Stunde im Kontor gewesen war.
 <@pagebreak/>
 — Und das zweite Verdachtsmoment war der Schwächeanfall
-der Baronin, ihr Aeußeres und ihr ganzes Benehmen.
+der Baronin, ihr Äußeres und ihr ganzes Benehmen.
 Das dritte der alte Bürorock, der im Kontor
 hing und vielleicht dem Inspektor gehört. Dieses weite,
 schäbige Jackett hatte ein paar Teerflecke auf dem einen
-Aufschlag und am rechten Aermel. Es hing neben dem
+Aufschlag und am rechten Ärmel. Es hing neben dem
 Fenster, und meine Augen haben nun mal die Eigentümlichkeit,
 alles zu sehen, auch das, was ich scheinbar
 nicht beachte.«
@@ -981,7 +981,7 @@ auf einem Feldwege dort drüben einen Motorradler.«
 flüsternd.
 
 »Ja. Und vor zehn Minuten hörte ich abermals
-das Geräusch eines Motorrades. — Uebrigens habe ich
+das Geräusch eines Motorrades. — Übrigens habe ich
 auch entdeckt, wo man dieses Rad verbirgt. Dort im
 Dickicht des Parkes gibt es einen eingestürzten Pavillon.
 Und die Radspuren liefen zu dem Pavillon hin, andererseits
@@ -1190,7 +1190,7 @@ Wendenkrone Sie anlocken würde, bemühte ich mich hier
 um diese Stelle, forderte sehr wenig Gehalt. Heute sitze
 ich hier, um Sie zu schützen. Sie sollen nicht anderen
 zum Opfer fallen. Ich will meine Rache haben und
-diese nicht anderen überlassen. Ueber Ihrem Schlafzimmer
+diese nicht anderen überlassen. Über Ihrem Schlafzimmer
 befindet sich in der Decke eine Klappe. Der Raum
 darüber ist Rumpelkammer, jetzt aber bewohnt.«
 
@@ -1234,7 +1234,7 @@ vor mir: nichts war zu erkennen.
 
 Jetzt ein ganz schwacher rötlicher Lichtschein. Er
 traf das Nachttischchen. Undeutlich nur sah ich eine
-dunkle Gestalt, die die kleine Oellaterne an der Brust befestigt
+dunkle Gestalt, die die kleine Öllaterne an der Brust befestigt
 hatte. — Eine Hand streckte sich aus, schüttete ein
 Pulver in das halb volle Wasserglas.
 

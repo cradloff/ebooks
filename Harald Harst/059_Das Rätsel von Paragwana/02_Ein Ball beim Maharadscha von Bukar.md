@@ -3,7 +3,7 @@
 <h2>1. Kapitel.</h2>
 <h3>Samuel Casprill.</h3>
 
-Nachdem Bansy uns mit dem Beiboot zu der Eisenbahnbrücke
+Nachdem Banfy uns mit dem Beiboot zu der Eisenbahnbrücke
 gelandet hatte, begaben wir uns nach dem
 Bahnhof und setzten uns in einen Winkel der offenen
 Wartehalle.
@@ -32,6 +32,7 @@ wechselten die Ruhebedürftigen häufig.
 
 Ich merkte, daß Harald eine Inderin beobachtete, die
 ein Gesichtstuch trug. Es war also eine Mohammedanerin.
+
 Das Weib hatte eine Art Tragekorb auf dem Rücken,
 setzte den Korb jetzt ab und hockte sich neben ihn nieder,
 lehnte sich an die Bretterwand und begann zu essen, wobei
@@ -72,7 +73,7 @@ will. —
 Der blinde Bettler hockte sich dicht vor dem offenen
 Eingang der Halle nieder. Es war ein Schlangenbeschwörer,
 wie sich bald zeigte. In dem Sack hatten sich vier Kobras,
-Brillenschlangen, befunden, die jetzt nach den quikenden
+Brillenschlangen, befunden, die jetzt nach den quiekenden
 Tönen einer Flöte ihre Halssäcke aufbliesen und
 hoch aufgerichtet mit den Köpfen hin und her pendelten.
 
@@ -87,7 +88,7 @@ aus.
 
 Ein Bahnbeamter erschien. Die schnell zusammengeströmte
 Menge verlief sich, als der Knabe wieder emporsprang
-und mit dem Teller die Runde machte. Der
+— und mit dem Teller die Runde machte. Der
 Bahnbeamte ging davon. Die Szene war eben ein Reklametrick
 gewesen. Immerhin hatte der kleine Halunke
 doch noch einige Münzen ergattert, kaufte von einem Händler
@@ -103,7 +104,7 @@ Ich verstand. »Also ist uns doch jemand nachgeschlichen,«
 meinte ich. »Ich wußte es ja!«
 
 »Das merkwürdige dabei ist, daß die Person uns
-erst von der Eisenbahnbrücke an folgte, mein Alter. Ueberlege
+erst von der Eisenbahnbrücke an folgte, mein Alter. Überlege
 Dir: der Spion, ob Weib, ob Mann — denn in der
 <@pagebreak/>
 Finsternis sah ich nur einen dunklen Schatten, kann unmöglich
@@ -221,7 +222,7 @@ dort vergessen — scheinbar! Da — ging mir ein Licht auf.«
 gewechselt — im Waschraum —«
 
 »Das hat er. Und den Hühnerkorb brauchte er nicht
-mehr. Uebrigens war nicht ein einziges Huhn darin.«
+mehr. Übrigens war nicht ein einziges Huhn darin.«
 
 »So?!«
 
@@ -233,7 +234,7 @@ Dieser Punkt ist mir noch unklar und beunruhigt mich
 etwas.« —
 
 Der Dampfer »Viktoria« gehörte einer englischen Reederei.
-Wir nahmen die billigen Plätze auf dem Vorderdeck.
+Wir nahmen die billigsten Plätze auf dem Vorderdeck.
 Der Andrang war sehr lebhaft. Die Pest war in Benares
 jetzt so gut wie erloschen und der Schiffsverkehr wieder
 frei gegeben.
@@ -260,14 +261,14 @@ Wir blickten uns argwöhnisch um. Nur eine Ziege
 stand in der Nähe. Daneben saß ein altes Weib, hielt sie
 am Stricke fest.
 
-Und dann — dann kam die Ueberraschung.
+Und dann — dann kam die Überraschung.
 
 Der Elfenbeinschnitzer murmelte in tadellosem Englisch,
-allerdings dabei gegen das Uebel des Stotterns ankämpfend:
+allerdings dabei gegen das Übel des Stotterns ankämpfend:
 
 »Master Harst, Sie gestatten, daß ich mich vorstelle:
 <@pagebreak/>
-mein Name ist Samuel Casprill. Kapitän Bansy dürfte
+mein Name ist Samuel Casprill. Kapitän Banfy dürfte
 Sie auf mein Eintreffen vorbereitet haben. Er hat ja an
 mich nach Bombay depeschiert, und meine Frau hat zurückdepeschiert,
 daß ich heute mittag mich auf der Atlanta melden
@@ -331,7 +332,7 @@ Namen nicht nennen, da eine Verwandte Braxlers im
 Verdacht steht, dem Diebe geholfen zu haben. — Diese
 Dame war bei Braxler damals zum Besuch. Sie spielte
 stets die Männerfeindin, bis Braxler sie eines Tages im
-Jodwira Park zufällig mit einem jüngeren Herrn zusammensah,
+Jodwira-Park zufällig mit einem jüngeren Herrn zusammensah,
 der recht stattlich war und mit dem die Dame
 ziemlich vertraut zu sein schien. Braxler, ein älterer Mann,
 verheiratet und selbst Vater zweier Töchter, wollte seine
@@ -384,7 +385,7 @@ umgeben, zwischen denen natürliche Kanäle sich hinzogen,
 deren Breite und Tiefe für die Atlanta genügten.
 
 Nachdem wir festgestellt hatten, daß niemand uns gefolgt
-war, besiegen wir außerhalb der Stadt ein Boot, in
+war, bestiegen wir außerhalb der Stadt ein Boot, in
 dem die Ruder lagen, und näherten uns der Jacht von einer
 Seite aus, die es jedem Spion unmöglich machte, vom
 Ufer aus zu beobachten, wo wir geblieben waren.
@@ -475,7 +476,7 @@ Sache in Anwesenheit der beiden Inderinnen (das
 waren wir!) sprechen müsse.
 
 Und Samuela Casprill kam. — Schade, daß ich hier
-keine Photographie dieser grauhaarigen, rotnasigen, kneiferbewaffneten
+keine Photographie dieser grauhaarigen, rotnasigen, kneiferbewaffneten,
 aufgedonnerten Vogelscheuche einfügen kann.
 
 Sie — oder er — kam, ballerte die Tür ins Schloß,
@@ -510,7 +511,7 @@ zeigte auf eine Illustration, auf eine Gruppenaufnahme,
 unter der gedruckt stand:
 
 > Feier der Silberhochzeit des Inhabers der Weltfirma
-Thomas Braxler und Comp. und seiner Gattin Helena,
+Thomas Braxler u. Comp. und seiner Gattin Helena,
 geborenen Billham.
 
 Unter den einzelnen Personen befanden sich die Namen
@@ -535,7 +536,7 @@ ins Schoß.
 
 Dann passierte etwas sehr Seltsames:
 
-Ich hörte, daß er den Schlüssel, der von draußen
+Ich hörte, daß Casprill den Schlüssel, der von draußen
 im Schloß steckte, umdrehte!
 
 Und als ich es hörte, hatte Harst schon einen Satz nach
@@ -565,7 +566,7 @@ Da war mit lila Stempel aufgedruckt:
 
 > Benares
 
-> Abdullah Street 16.
+> Abdullah-Street 16.
 
 Dann schlug Harald den Deckel zurück. Und — da lag
 ein Zettel mit Saalborgs energischer, schmuckloser Schrift
@@ -582,14 +583,14 @@ den Diebstahl tatsächlich durch den — mir gänzlich unbekannten
 — Detektiv Casprill hatte untersuchen lassen, gehörig
 aus, fand die Briefumschlagschnitzel im Müllkasten,
 kehrte nach Benares zurück und kam gerade noch zur rechten
-Zeit, um Kapitän Bansy zu beobachten, wie er die Depesche
+Zeit, um Kapitän Banfy zu beobachten, wie er die Depesche
 an Casprill aufgab. Als Matrose der Jacht verhinderte
 ich drei Minuten später ihre Absendung, verlangte
 sie zurück und änderte den Text, indem ich Antwort nach
-Kalkutta an Master Bansy, Hotel Westminster, verlangte.
+Kalkutta an Master Banfy, Hotel Westminster, verlangte.
 — Sie verstehen: der echte Casprill sollte in Bombay bleiben,
 denn in seine Antwortdepesche mußte ja als unbestellbar
-an ihn zurückgehen. Ich fälschte die Antwort, die Bansy
+an ihn zurückgehen. Ich fälschte die Antwort, die Banfy
 erhielt, spielte selbst den Telegraphenboten und all das nur
 zu dem Zweck, um in Ihnen allmählich denselben Verdacht
 zu wecken, den ich hegte, nachdem Braxler mir als Harst
@@ -628,7 +629,7 @@ So — das wäre alles, was ich Ihnen zu unterbreiten
 hätte. — Noch eins: Sie werden fragen, weshalb ich nach
 Allahabad fuhr, als ich aus dem India-Basar Kenntnis
 von dem Perlenketten-Diebstahl erhielt, der also trotz Braxlers
-Gegenbemühungen doch so etwas an die Oeffentlichkeit
+Gegenbemühungen doch so etwas an die Öffentlichkeit
 freilich nur in Form von unsicheren Gerüchten, gedrungen
 ist. — Nun, die Antwort lautet: Ich reise aus Berufsinteresse
 dorthin! Die Perlenkette ist etwa eine Million Mark
@@ -705,7 +706,7 @@ besten aufgehoben.«
 Honoria Verdacht geschöpft?«
 
 »Durch die Puderbüchse, mein Alter. Besinne Dich.
-Bansy zeigte sie uns im Salon der Atlanta. Und da habe
+Banfy zeigte sie uns im Salon der Atlanta. Und da habe
 ich geäußert: »Das Schwierige ist, die erste Dummheit zu
 entdecken. Manchmal hilft da ein Zufall«. — Diese Sätze
 bezogen sich auf Honoria, die fidele, ulkige Honoria. Sie
@@ -736,7 +737,7 @@ stellen uns als aus dem Grabe auferstanden vor und teilen
 dem Redakteur über unsere Abenteuer genau so viel mit
 wie Drybane, — nämlich recht wenig, lassen Saalborg ganz
 aus dem Spiel und ebenso Honoria Billham, der wir höchstens
-noch ein Loblied singen, weil sie Bansy 50 Pfund
+noch ein Loblied singen, weil sie Banfy 50 Pfund
 für einen Detektiv spendete. — So — da ist ja noch dasselbe
 Boot. Rudern wir nach der Atlanta und werden
 wir wieder Harst und Schraut.« —
@@ -776,19 +777,19 @@ lichtete und den Nebenfluß des Ganges, die Gogra, aufwärtsfuhr. —
 
 Koch Hull trug das Geschirr ab. Wir hatten sehr gut
 zu Mittag gegessen. Wir waren nun schon viele Meilen
-von Patna entfernt und lernten das Leben und treiben
+von Patna entfernt und lernten das Leben und Treiben
 auf einen Strome kennen, der durch noch wenig zivilisierte
 Gebiete fließt.
 
 Wir saßen auf dem Achterdeck um den Tisch herum:
-Harst, Bansy, Morris, der Steuermann, und ich.
+Harst, Banfy, Morris, der Steuermann, und ich.
 
 Harald bat Morris, dieser solle seinen Revolver holen.
 Dann rief er einem unserer Matrosen zu, ihm zwei leere
 Schachteln von Stiefelwichse und ein Stück Brett zu
 bringen.
 
-»Wozu das?!« meinte Bansy. »Wollen Sie nach der
+»Wozu das?!« meinte Banfy. »Wollen Sie nach der
 Scheibe schießen, lieber Harst?«
 
 <@pagebreak/>
@@ -843,14 +844,14 @@ Stellen: also ist die Puderbüchse wie unsere Schachtel
 <@pagebreak/>
 Nr. 1 festgenagelt gewesen. Ein weiterer Beweis, daß
 dies so gewesen, ist die Tatsache, daß in dem Puderbüchschen
-sich noch Puder und die kleine Puderquaste befand,
-hätte Honoria Billham das Büchschen in der Tasche gehabt,
+sich noch Puder und die kleine Puderquaste befand.
+Hätte Honoria Billham das Büchschen in der Tasche gehabt,
 als der Schuß es traf, dann hätte wie bei unserer
 Schachtel Nr. 2 sich die eigentliche Schachtel von dem Deckel
 lösen müssen, dann hätten ferner nie die strahlenförmigen
 Risse und die scharf ausgeprägte, kurze Ausbeulung entstehen
 können. Mithin hat Miß Billham die Sache vorbereitet
-gehabt, hat vorher die Puderbüchse durchlöchert —,
+gehabt, hat vorher die Puderbüchse durchlöchert —
 durch eine Kugel, hat ebenso den Stoff der Tasche durchlöchert
 und in der Herzgegend eine blauverfärbte Stelle
 irgendwie hervorgerufen, die die Täuschung vollständig
@@ -865,7 +866,7 @@ jetzt schon überzeugt sein, daß ich recht habe. Jedenfalls:
 schweigt über dies alles! Ich warne Euch. Schraut und
 ich werden in Bukar von Gefahren umlauert sein. Vergrößert
 sie nicht durch Schwatzhaftigkeit. Wenn Ihr Miß
-Billham begegnet, und es wird der Fall sein, seid liebenswürdig,
+Billham begegnet, und dies wird der Fall sein, seid liebenswürdig,
 als ob Ihr sie für einen Engel hieltet wie
 bisher — einen übermütigen Engel, während sie doch in
 Wahrheit ein sehr gefährlicher kleiner Satan ist. Ich —«
@@ -887,13 +888,13 @@ dieser Flußenge festgekeilt und versperrte den Weg. Die
 braunen Flößer, zwölf Leute, rannten mit ihren langen
 Stoßstangen geschäftig hin und her. Die Strömung drohte
 <@pagebreak/>
-das Floß, dessen Teile durch die Kraft der schnell dahin
-schießenden Wasser flußabwärts zum Bogen gekrümmt waren,
+das Floß, dessen Teile durch die Kraft der schnell
+dahinschießenden Wasser flußabwärts zum Bogen gekrümmt waren,
 auseinanderzureißen. Die Stämme waren nur durch
 Basttaue zusammengebunden. Die Aufregung der Flößer
 war verständlich. Zerrissen die Taue, dann erlitten die
 Leute einen schweren Verlust. Sie konnten die Stämme
-nie wieder zum Flosse vereinen.
+nie wieder zum Floße vereinen.
 
 Unsere Jacht lag jetzt dicht an der Mitte der Traft.
 Um einen Gegendruck gegen die Strömung auszuüben und
@@ -910,7 +911,7 @@ Die braunen Kerle brüllten.
 Ihre wutverzerrten Gesichter bewiesen, daß sie uns die
 Schuld an diesem Unheil beimaßen.
 
-Die linke Hälfte des Flosses war herumgeschwenkt und
+Die linke Hälfte des Floßes war herumgeschwenkt und
 prallte gegen die Backbordwand der Atlanta.
 
 Was dann geschah, spielte sich so blitzschnell ab, daß
@@ -958,7 +959,7 @@ blauen Auge davonkommen. Auch hier hat ja Miß
 Billham ihre Malerhändchen im Spiel. Und — sie kennt
 kein Erbarmen. — Das Telephongespräch mit dem Maharadscha
 muß im Residenzschloß in Bukar belauscht worden
-sein. Anders ist dieser Ueberfall nicht zu erklären. Unsere
+sein. Anders ist dieser Überfall nicht zu erklären. Unsere
 Gegner wußten eben, daß die Atlanta die Gogra aufwärts
 fuhr.« —
 
@@ -976,7 +977,7 @@ Lange dauerte die Fahrt nicht. Kaum zehn Minuten
 schätzte ich.
 
 Die Motoren verstummten. Die Atlanta stieß mit der
-Steuerbordwand an einen Ballen. Die quietschenden
+Steuerbordwand an einen Balken. Die quietschenden
 Töne und ein paar Erschütterungen ließen erkennen, daß
 die Atlanta irgendwo vertäut wurde.
 
@@ -1006,7 +1007,7 @@ Und nun riß man uns von hinten die Decken von den
 Köpfen.
 
 Ein Blick in die Runde genügte: Harst saß rechts neben
-mir: wir befanden uns in einem durch Oellampen matt erleuchteten
+mir; wir befanden uns in einem durch Öllampen matt erleuchteten
 Höhlentempel.
 
 <h2>4. Kapitel.</h2>
@@ -1038,7 +1039,7 @@ fünfzehn Meter lang und etwa sieben Meter breit. Die Felswände
 waren mit Relieffiguren und bunten Malereien bedeckt.
 
 Der Lingaismus hat in der bildhaften Wiedergabe der
-schlafenden Naturkräfte Szenen anstößigster Art erdacht. Besonders
+schaffenden Naturkräfte Szenen anstößigster Art erdacht. Besonders
 in den alten Lingaiten-Tempeln findet man Reliefs
 <@pagebreak/>
 und Steinfiguren, die Dinge darstellen, welche man
@@ -1051,7 +1052,7 @@ Räucherbecken, deren Qualm in trägen Wölkchen hochschwebte
 und über dem Altar sich zu einer Dunstschicht
 zusammenballte.
 
-Dann tauchte hinter vom Altar ein alter Inder mit
+Dann tauchte hinter dem Altar ein alter Inder mit
 weißem, langen Bart auf. Er war bis zu den Hüften
 nackt. Um die Beine und die Lenden hatte er wie einen
 Rock blaue und gelbe Seide geschlungen. Unter dem Kopftuch
@@ -1086,7 +1087,7 @@ Stelle saßen zwei Tiger.
 
 Lebende Tiger.
 
-Ihre Katzenaugen funkelten: die Köpfe drehten sich
+Ihre Katzenaugen funkelten; die Köpfe drehten sich
 hierhin und dorthin.
 
 Dann erhob sich der eine, reckte sich, jaulte und starrte
@@ -1098,7 +1099,7 @@ Der andere schlich unhörbar nach dem Altar, ging wie
 suchend an der linken Wand entlang.
 
 Mir lief der Schweiß von der Stirn. Ich wußte jetzt,
-was uns bestimmt war; man hatte uns hier mit den
+was uns bestimmt war: man hatte uns hier mit den
 Bestien zusammen eingesperrt, damit diese schließlich vor
 Hunger uns ansprangen und umbrachten. Die Tiere stammten
 fraglos aus einem Raubtierhause, waren an den Anblick
@@ -1201,7 +1202,7 @@ Wir gingen rechts um den Altar herum. Und — es
 gab hier wirklich eine Tür aus eisenhartem Schipa-Holz.
 
 Sie war von außen verriegelt. — Wir schritten dem
-Grotteneingaug zu. Hier die gleiche Tür, nur doppelflüglig,
+Grotteneingang zu. Hier die gleiche Tür, nur doppelflüglig,
 und dazu ein altertümliches Schloß mit drei Sperriegeln.
 
 Harst, drückte die Riegel mit dem Pistolenlauf als
@@ -1229,7 +1230,7 @@ Mann darin —«
 Das Boot verschwand im Baumschatten des anderen
 Ufers.
 
-Wir schlichen an Deck, hörten sprechen — Bansys
+Wir schlichen an Deck, hörten sprechen — Banfys
 Stimme, der gerade sagte:
 
 »Los, Hull, — her mit der Laterne! Saalborg hat uns
@@ -1239,7 +1240,7 @@ Zehn Minuten später verließ die Atlanta ihren Liegeplatz.
 
 Die ganze Besatzung der Jacht war genau so gefesselt
 gewesen wie wir. Dann war Saalborg erschienen und
-hatte Bansy befreit, hatte auch die übrigen losgebunden
+hatte Banfy befreit, hatte auch die übrigen losgebunden
 und ihnen mitgeteilt, wo wir eingesperrt worden waren.
 — Von den Feinden war keiner mehr an Bord gewesen. —
 
@@ -1258,7 +1259,7 @@ und wir beide saßen in des Fürsten modern eingerichtetem
 Arbeitszimmer in weichen Klubsesseln und genossen die
 Verdauungszigarre.
 
-Bisher hatte Harst nichts von dem Ueberfall durch die
+Bisher hatte Harst nichts von dem Überfall durch die
 Flößer erwähnt, hatte auch mit der lustigen Miß Billham,
 die als einzige Frau an dem Diner teilgenommen hatte,
 harmlos gescherzt und mir gelegentlich zugeflüstert: »Das
@@ -1271,7 +1272,7 @@ wir nämlich überhaupt nicht gekommen —«
 
 Er erzählte kurz, was sich auf dem Flusse und in dem
 Grottentempel abgespielt hatte, tat dabei so, als wüßte er
-nicht, von wem dieser Ueberfall ausgegangen wäre.
+nicht, von wem dieser Überfall ausgegangen wäre.
 
 Basava Pur und Knoxter sagten zunächst gar nichts.
 Sie waren derart überrascht, daß sie Harst lediglich ungläubig
@@ -1297,7 +1298,7 @@ Master Harst, — einfach unmöglich!«
 
 <@pagebreak/>
 Polizeichef Knoxter fühlte sich in seiner Ehre gekränkt.
-»Wie — unter meinen Augen eine Verbrecherbande?!«
+»Wie — hier unter meinen Augen eine Verbrecherbande?!«
 rief er. »Das müßten Sie erst beweisen, Master Harst.«
 
 »Natürlich muß ich es. Heute abend findet der Ball
@@ -1365,7 +1366,7 @@ flüsterte ich.
 
 »Ja, die meine ich. Ich sprach mit dem Maharadscha
 beim Diner, als die Kapelle oben in der Musikloge spielte,
-über den Kapellmeister. Er ist ein Franzose namens Chareles
+über den Kapellmeister. Er ist ein Franzose namens Charles
 Roger Ostrella, und er hat die Figur des Fürsten und
 einen blonden Spitzbart, der sich leicht schwarz färben läßt,
 wenn der Herr Kapellmeister andere Dinge treibt. Der
@@ -1389,7 +1390,7 @@ mit den Leistungen der »Bande« aussprach.«
 Er ging ans Fenster und hielt die Gläser gegen das
 Licht. Bald hatte er dann auch auf die übliche Weise mehrere
 Fingerabdrücke sichtbar gemacht. Wir verglichen sie
-mit denen auf den beiden Glasstücken, und sie stimmten
+mit denen auf den beiden Glasstücken, und — sie stimmten
 überein! —
 
 Kurz vor elf Uhr abends.
@@ -1404,7 +1405,7 @@ Tanze wiegten oder in den lauschigen Lauben an den Saalseiten
 saßen.
 
 Auf einen Podium an der einen Seite hatte die Kapelle
-ihnen Platz. Die Musiker und ihr Kapellmeister trugen
+ihren Platz. Die Musiker und ihr Kapellmeister trugen
 ihre Galauniform — rote Schnürjacken mit reichem
 Goldbesatz.
 

@@ -57,7 +57,7 @@ als erster hinauf, half ihm dann mit ausgestreckten Händen
 und zog ihn zu mir empor. So gelangten wir in einen großen
 Park der den Reichtum seines Besitzers nicht nur durch die
 eigenartigen und fraglos überaus kostspieligen Anlagen
-verriet. Ueberall merkte man das Bestreben, den weichen,
+verriet. Überall merkte man das Bestreben, den weichen,
 träumerischen Zauber eines orientalischen Gartenbildes
 vorzutäuschen.
 
@@ -96,7 +96,7 @@ Ende des Parks festgehalten. — All das weiß ich von Doktor
 Bruchfeld, dem Privatdozenten für orientalische Sprachen.
 Zum Teil auch aus den Zeitungen. — Ein Hammel ist etwa
 vierzig Mark wert. Die Leichenräuber ließen sich die Sache
-also auch etwas kosten. Und für Leichen bezahlen Aerzte und
+also auch etwas kosten. Und für Leichen bezahlen Ärzte und
 Anatomien durchschnittlich 200 Mark. Die Unkosten sind also
 verhältnismäßig hoch, denke ich. Rechnet man noch die
 Gefahr hinzu — denn die Jagdleoparden sind nachts schlimmer
@@ -137,7 +137,7 @@ Harst packte plötzlich meinen Arm, blieb stehen, sagte
 leise und erregt: »Da — da oben!«
 
 Ich schaute zu den obersten Fenstern empor. Und — ich
-sah einen in einem buntseidenen, weiten Aermel steckenden
+sah einen in einem buntseidenen, weiten Ärmel steckenden
 Frauenarm der uns offenbar zuwinkte.
 
 Ich muß bemerken, daß die kleinen, erkerartig vorspringenden
@@ -396,7 +396,7 @@ scheinbar gleichmütig an und erklärte nach einer Weile:
 Sahib Malzahn bietet ihm fünfzigtausend Mark,
 wenn er Liu Sings Leiche wieder herbeischafft.«
 
-Das war eine Ueberraschung! — Ich war über die Tragweite
+Das war eine Überraschung! — Ich war über die Tragweite
 dieses Angebots noch nicht im klaren als es klopfte
 und Harst sehr eilig eintrat. Beim Anblick des Inders nickte
 er, als wollte er sagen: »Also wirklich!«
@@ -421,7 +421,7 @@ ruhten nun genau so unverwandt auf Harsts Gesicht wie
 vordem auf dem meinen. Er wiederholte jetzt sein Angebot, Harst
 möchte die Leiche suchen helfen.
 
-»Schickt Dein Herr Dich?« fragte Harst nach kurzem Ueberlegen.
+»Schickt Dein Herr Dich?« fragte Harst nach kurzem Überlegen.
 
 »Jawohl, Sahib. Ich erhielt heute früh eine Depesche
 von ihm, daß ich Dich aufsuchen sollte. Ich wäre also auch
@@ -443,7 +443,7 @@ aussichtslos halte.«
 Dann ließ er sich mit Marwatha in ein längeres Gespräch
 über Indien ein. Erst nach einer halben Stunde verabschiedete
 unser brauner Gast sich. Kaum war er auf der
-Straße, als Harst die Depesche, die er in den Aermel geschoben
+Straße, als Harst die Depesche, die er in den Ärmel geschoben
 und die der Inder mitzunehmen vergessen hatte, mir mit den
 Worten reichte:
 
@@ -703,7 +703,7 @@ Leben nicht wirklich lebenswert, wenn man wie wir in der
 kommenden Nacht, von Gefahren umlauert, abermals in den
 Park eindringen werden? Gibt es wohl etwas Anregenderes
 als unsere Tätigkeit? Nein — alles andere dagegen ist
-Stumpfsinn! Ich spreche im Ernst. — Uebrigens wäre ich
+Stumpfsinn! Ich spreche im Ernst. — Übrigens wäre ich
 auch ohne Marwathas Besuch nochmals dort über die hohe
 Mauer geklettert — Ich fürchte nur, wir werden den Turm
 leer finden. Ich will mir auch nur Gewißheit verschaffen,
@@ -740,7 +740,7 @@ deren Vater nun als Flüchtling, gehetzt durch die Meute der
 staatlichen Sicherheitsorgane, irgendwo umherirrte.
 
 Ich entgegnete der Wahrheit gemäß: »Gewiß, Herr Harst,
-— eine geringe Aehnlichkeit ist vorhanden. Ich kenne Ihre
+— eine geringe Ähnlichkeit ist vorhanden. Ich kenne Ihre
 Braut ja allerdings nur von Bildern her —«
 
 Dann ging er; und ich ging an die Nebelbomben heran,
@@ -1086,7 +1086,7 @@ sorgen; sie sind ganz harmlos.«
 
 Ich setzte mich in meiner Studierstube noch an den
 Schreibtisch und dachte über Harsts letzte Sätze nach. Ich kam
-sehr bald zu der Ueberzeugung, daß er mit mir wieder einmal
+sehr bald zu der Überzeugung, daß er mit mir wieder einmal
 Versteck spielte. Er wollte die Polizei doch vielleicht nicht
 verständigen und — dringende Besuche! — Ob das Werk über
 Tätowierungen wirklich nichts enthalten hatte, was er für
@@ -1167,7 +1167,7 @@ Ich nickte. »Ja wir wissen Bescheid: die Kobra!«
 »Leider ist das das Nebensächliche,« erklärte der Millionär
 plötzlich sehr düsteren Tones. »Mir ist es lediglich wichtig,
 festgestellt zu sehen, ob die — die Inderin tatsächlich mit
-Ueberlegung den Chinesen in doppelter Weise vergiftet hat —«
+Überlegung den Chinesen in doppelter Weise vergiftet hat —«
 
 Er hob den Kopf. Wir hörten im Flur Stimmen.
 Es waren Harst und Kammler der Beauftragte der Wettgegner.
@@ -1214,7 +1214,7 @@ neben dem Hunger eine der die Menschheit treibenden Hauptkräfte,
 bannte Sie dann doch an Berlin, nur Ihrem Hause
 blieben Sie fern. — Ist es so? — Sie nicken, Herr Malzahn.
 Sie schauen mich überrascht an. Oh, ich habe auch dies mir
-lediglich auf Grund einiger Uebung im Kombinieren als das
+lediglich auf Grund einiger Übung im Kombinieren als das
 wahrscheinliche zurechtgelegt. Nebenbei haben Sie dann aber
 auch insgeheim versucht diesen Diebstahl eines Toten aufzuklären.
 — Nun — weitere Fragen kann ich mir jetzt schenken.
@@ -1247,7 +1247,7 @@ Worte Ritbilf zu. Ich entzifferte dieses als Bitt Hilf
 ich hätte den Armreif gefunden. Sehr bald erschien Marwatha
 hier bei uns mit einer Depesche, die ich als Fälschung
 durchschaute. Sie besagte, daß Marwatha mir 50000 Mark
-für die Uebernahme des Falles bieten sollte. Auf Grund der
+für die Übernahme des Falles bieten sollte. Auf Grund der
 soeben angeführten Tatsachen entwarf ich nun folgenden
 Zusammenhang der Vorgänge.«
 

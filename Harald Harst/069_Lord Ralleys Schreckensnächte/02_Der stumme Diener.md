@@ -95,7 +95,7 @@ ihrer Maschinen war deutlich zu hören.
 
 An ankernden großen Frachtkähnen ging die Jagd vorüber
 — an einem langen Holzstoß, an einem Wohnboot.
-Ueberall schliefen die Leute.
+Überall schliefen die Leute.
 
 Dann von links der ein rollendes Rattern — verschwommen
 wie das Arbeiten eines Motors, der im Keller
@@ -447,7 +447,7 @@ Wir kehrten in das Schlafzimmer zurück.
 
 Harst durchsuchte jetzt die Taschen des Toten.
 
-»Ueberflüssig!!« meinte Worbler. »Das habe ich schon
+»Überflüssig!!« meinte Worbler. »Das habe ich schon
 getan. Völlig leer —«
 
 Harald ließ sich nicht stören. Nach einer Weile richtete
@@ -463,7 +463,7 @@ dürfen, da wir hier ruhiger als im Hotel wohnen. Harst
 hätte die 28 Edelsteine, die Lord Ralley nach Bombay
 schicken wollte, vorläufig an sich genommen, bis die
 Behörden eben entschieden hätten, was mit den Steinen geschehen
-solle. — Die Oeffentlichkeit soll also annehmen,
+solle. — Die Öffentlichkeit soll also annehmen,
 der im Pensionat Tapsal Erschossene sei Brabazon, und
 dieser Tote hier Ralley. — Sie müssen also auch Tapsal
 erzählen, ich hätte mich täuschen lassen. Der Erschossene sei
@@ -516,7 +516,7 @@ und stotterte ganz fassungslos:
 
 »Sahib Harst, Mawrista ist wieder da —«
 
-Das war in der Tat eine Ueberraschung.
+Das war in der Tat eine Überraschung.
 
 »Führe ihn her,« befahl Harald gleichmütig.
 
@@ -549,7 +549,7 @@ Der Blick des Inders wich diesen Augen nicht aus,
 vor denen schon die abgebrühtesten Verbrecher verlegen
 die Lider gesenkt hatten. Etwas wie Selbstbewußtsein und
 <@pagebreak/>
-stolze Ueberlegenheit erschienen darin. — Daß Mawrista
+stolze Überlegenheit erschienen darin. — Daß Mawrista
 kein gewöhnlicher Priester dieser Gwinnara-Sekte war,
 konnte man bei einiger Menschenkenntnis sehr bald herausfühlen.
 
@@ -561,7 +561,7 @@ Hintergrunde stand, weg und sagte dann zu dem Stummen:
 Wir gingen in die Bodenstube nach oben. Harald
 schloß die Tür hinter uns ab und schob den Bastteppich beiseite,
 nahm die herausgeschnittenen Dielenstücke aus der
-Oeffnung und fragte den Stummen:
+Öffnung und fragte den Stummen:
 
 »Hast Du diesen Weg nach unten angelegt?«
 
@@ -778,7 +778,7 @@ Das Bild erinnerte an Bangkok, an die Hauptstadt von
 Siam, mit ihrem schwimmenden Stadtteil. — Auch hier
 kleine Boote in Unmenge, auch hier überall schreiende Kinder,
 ernste, würdige Männer und braune Frauen mit viel
-natürlicher Grazie. In aller Oeffentlichkeit spielte sich auf
+natürlicher Grazie. In aller Öffentlichkeit spielte sich auf
 den plumpen Wohnbooten und Flößen das Leben der Eingeborenen
 ab. — Der Flußarm erweiterte sich, wurde zum
 Seebecken. Und hier inmitten dieser schwimmenden Behausungen
@@ -1074,7 +1074,7 @@ Karriere verderben.«
 »Mr. Dreebs,« sagte Harald kühl, »die Geschichte kann
 Ihnen höchstens nützen. Ob Lord oder nicht: hält er es
 mit den Verbrechern, die Ralley erschossen haben und mit
-uns Aehnliches vorhatten, dann rettet ihn nichts vor dem
+uns Ähnliches vorhatten, dann rettet ihn nichts vor dem
 Scharfrichter. — Vorwärts — hinein ins Motorboot!« —
 
 Die Polizeibarkasse ratterte zwischen den Wohnschiffen
@@ -1337,7 +1337,7 @@ Harald hastig ein. Der Polizeiarzt hatte sich schon vorher
 empfohlen.
 
 »So,« sagte Harst, »nun sind wir den stummen Diener
-los. Uebrigens — er war gar nicht stumm. Er hat
+los. Übrigens — er war gar nicht stumm. Er hat
 mir so allerlei Interessantes über die Gwinnara-Sekte
 erzählt. Er war der Oberpriester der Sekte.«
 

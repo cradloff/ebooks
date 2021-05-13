@@ -5,7 +5,7 @@
 <h2>Erstes Kapitel.</h2>
 <h3>Die Fensterscheibe.</h3>
 
-Das war an jenem Junivormittag eine peinliche Ueberraschung
+Das war an jenem Junivormittag eine peinliche Überraschung
 für uns, als wir mit dem Gemeindevorsteher des
 Ortes Dalldorf das in der Nähe der bekannten Irrenanstalt
 gelegene Häuschen und jenes Zimmer betraten, wo wir vor
@@ -181,7 +181,7 @@ war.
 
 Ich deute hier schon durch das Wort *Zeichen*stift
 an, daß es sich doch um eine Zeichnung handelte, um die
-Skizze irgendeiner Oertlichkeit.
+Skizze irgendeiner Örtlichkeit.
 
 Das war auch Haralds Ansicht. Und ich bekehrte mich
 sehr bald zu derselben Meinung, nachdem Harst das Ganze
@@ -705,7 +705,7 @@ dem Leiter einer Detektivschule empfehlen.«
 
 Mir ging ein Licht auf.
 
-»Der Mörder hockte in den Aesten,« sagte ich schnell.
+»Der Mörder hockte in den Ästen,« sagte ich schnell.
 »Er hat den Regierungsrat von oben erschlagen.«
 
 »Ganz recht: von oben!« nickte Harst. »Wir wollen
@@ -1150,10 +1150,10 @@ der Mole unsere Drahtfesseln durchfeilen, werden
 Kommissar Flügel herausklingeln, ihn um ein Quartier bis
 vormittags zehn Uhr etwa bitten und hierauf die beiden
 Leute festnehmen, auf die wir es abgesehen haben, wobei
-es auch für Dich noch einige Ueberraschungen geben
+es auch für Dich noch einige Überraschungen geben
 wird.«
 
-»Es wäre mir angenehmer, Du verringertest diese Ueberraschungen
+»Es wäre mir angenehmer, Du verringertest diese Überraschungen
 dadurch, daß Du mir wenigstens einige Fragen
 erlaubtest.«
 
@@ -1187,7 +1187,7 @@ recht gut die jetzige Pensionsinhaberin sein.«
 
 »Ohne Zweifel. Bedenke die Geschichte mit dem Portwein,
 den Du probieren solltest. Außerdem ist mir ja was
-Aehnliches passiert, nur etwas weit Raffinierteres. Ich
+Ähnliches passiert, nur etwas weit Raffinierteres. Ich
 habe dies Dir gegenüber vorhin nur angedeutet. Ich wurde
 auf anderes Weise wehrlos gemacht. Niemand drang in
 mein Zimmer ein, um mich zu berauben. Ich hatte auf
@@ -1284,7 +1284,7 @@ schon weg. Der Herr und die Dame hatten laut um
 Hilfe gerufen, aber sonderbarerweise nicht gewinkt. Sie sind
 ertrunken.«
 
-»Mein Gott — die Aermsten!« rief Frau Drewke in
+»Mein Gott — die Ärmsten!« rief Frau Drewke in
 ehrlichem Mitgefühl.
 
 Die beiden Fischer — der eine war groß und schlank,
@@ -1438,7 +1438,7 @@ ein haßerfülltes Lächeln. »Schade, — es war alles
 so gut überlegt!« meinte sie. »Verhaften Sie mich nur.
 Mir können Sie nichts anhaben — gar nichts!«
 
-Erst später wurde uns klar, was sie mit dieser Aeußerung
+Erst später wurde uns klar, was sie mit dieser Äußerung
 hatte andeuten wollen. —
 
 Sie wurde dann in ihrem Zimmer durch einen Polizeibeamten
@@ -1487,7 +1487,7 @@ Ich will Ihnen nur zeigen, wie Sie den Regierungsrat
 Schlimy ermordet haben.«
 
 Er packte den Ball, schleuderte ihn nach dem vor
-Ueberraschung wie gebannt an derselben Stelle Verharrenden
+Überraschung wie gebannt an derselben Stelle Verharrenden
 und traf Möckern gerade gegen die Brust. Der Ball
 war durch die äußeren unteren Reste der Linde geflogen.
 Harst riß ihn jetzt wieder zurück und zog ihn mit Hilfe

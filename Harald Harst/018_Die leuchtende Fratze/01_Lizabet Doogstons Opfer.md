@@ -128,7 +128,7 @@ nämlich ein ganz deutlich erkennbares deutsches E. Dieser
 Buchstabe ist für unsere deutsche Schrift charakteristisch. Da
 er nur ganz geringe Anlehnung an die lateinische als die Vorgängerin
 der deutschen zeigt. Das lateinische E und das
-deutsche E besitzen nicht jene Uebereinstimmung in der
+deutsche E besitzen nicht jene Übereinstimmung in der
 <@pagebreak/>
 Führung der Hauptlinien, wie zum Beispiel das lateinische F
 oder das deutsche F, und so weiter.
@@ -345,7 +345,7 @@ Ihr Abendbrot bereit. Langen Sie zu. Ich wußte, daß ich
 Sie um diese Zeit erwarten durfte. Herr Harst hatte es mir
 signalisiert —«
 
-Die Aermste sah wirklich entsetzlich verfallen aus. In
+Die Ärmste sah wirklich entsetzlich verfallen aus. In
 Amritsar war sie noch eine leidlich blühende Frau gewesen.
 Jetzt machte sie einen geradezu greisenhaften Eindruck.
 
@@ -691,7 +691,7 @@ ist ja leider zu Ende. Es wird Zeit, daß wir wieder nach
 Berlin kommen. Ich sehne mich geradezu nach Berliner Luft.
 — Also Shesney erwartet uns, auch Dich. Sein Heim liegt
 im neuen Stadtteil am Bahnhof. Wir sind sehr bald angelangt.
-— Uebrigens: hast Du das Päckchen geöffnet, das der
+— Übrigens: hast Du das Päckchen geöffnet, das der
 spionierende Kellner, der natürlich von Palperlon bestochen
 war, Dir auf dem Theseus überreichte?«
 
@@ -757,7 +757,7 @@ gewohnt bin. — Er langte nach einer Zigarette. Nach den
 ersten Rauchwölkchen sagte er dann:
 
 »Lieber Shesney, die Stunde ist da, wo ich Ihnen und meinem
-Freunde Schraut einen Ueberblick über das geben will,
+Freunde Schraut einen Überblick über das geben will,
 was ich hier jetzt als »neuen Fall« bearbeite. Ich bemerke
 jedoch im voraus: viel ist es nicht, was ich an Tatsachen vor
 Ihnen ausbreiten kann. Ich betone: an Tatsachen! Denn —
@@ -991,7 +991,7 @@ wünschte mir sehr niedergeschlagen eine gesegnete Nachtruhe.
 — Mein Bett war nur ein mit Decken belegtes Holzgestell.
 Ich lag noch sehr lange wach. Ich prüfte nochmals in
 Gedanken alles das, was Harst dem Inspektor und mir mitgeteilt
-hatte. Und — ich gewann so die Ueberzeugung, daß
+hatte. Und — ich gewann so die Überzeugung, daß
 er uns gut die Hälfte von dem verschwiegen hatte, was er
 über die Zusammenhänge zwischen dem Morde und dem Nachen
 wußte. Ich fand folgende Fragen heraus, die Harst doch
@@ -1067,7 +1067,7 @@ befand sich der Kanal. — Ich hatte den Platz dicht am Ufer.
 Und so gewahrte ich denn sehr bald einen Nachen, der halb auf
 den Steinen der Böschung lag. — Nach fünf Minuten bereits
 stieß mich der neben mir liegende Inspektor an und flüsterte:
-»Harst wünscht nicht, daß Sie bei der Ueberrumpelung der
+»Harst wünscht nicht, daß Sie bei der Überrumpelung der
 drei Kerle mithelfen. Sie sollen nur darauf achtgeben, daß
 die Burschen nichts ins Wasser werfen.«
 
@@ -1277,7 +1277,7 @@ dann bald Halt. — Mein Verdacht war nun noch reger geworden.
 Neben dem toten Pförtner hatten doch die Schlüssel gelegen!
 Von diesen Schlüsseln hatten die Mörder Wachsabdrücke
 nehmen und sich so Nachschlüssel anfertigen können!
-— auch zu dieser kleinen Eisentür! — Die Folge dieser Ueberlegungen
+— auch zu dieser kleinen Eisentür! — Die Folge dieser Überlegungen
 war dann eine nächtliche Wache am Abhang, die
 mit jener Schwimmtour im Kanal endete, bei der wir —
 Schraut und ich — ein unerwartetes Wiedersehen feierten.
@@ -1485,7 +1485,7 @@ lesen war:
 > »Hüte Dich! Ich bin stets um Dich!«
 
 »Das dürfte eine Drohung Palperlons sein,« meinte Harst.
-»Seine erste, an mich gerichtete Aeußerung. — Nun gut, James
+»Seine erste, an mich gerichtete Äußerung. — Nun gut, James
 Palperlon, — ich erwidere Dir:
 
 > Hüte Dich! Ich bin stets um Dich!« —

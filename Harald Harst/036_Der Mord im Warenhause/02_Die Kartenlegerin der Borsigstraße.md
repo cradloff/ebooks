@@ -380,9 +380,9 @@ Dann gingen wir zu dem Portier der Mietskaserne. Harst,
 den der Mann sofort erkannte, hatte nach wenigen Fragen
 festgestellt, daß eine Greisin, die stark gebückt ging und eine
 Mantille und einen schwarzen Strohhut mit buntem Seidenband
-trug, hier nicht wohnte. — Zu allem Ueberfluß holte der
+trug, hier nicht wohnte. — Zu allem Überfluß holte der
 Portier noch seine Frau, die gerade die Treppen gesäubert
-hatte. Und nun kam die seltsame Ueberraschung: die Portierfrau
+hatte. Und nun kam die seltsame Überraschung: die Portierfrau
 hatte die Alte sehr wohl bemerkt, hatte auch gehört, daß
 diese bis zum vierten Stock emporstieg. Dann war nach einer
 Weile eine junge, schlanke Dame mit einem Paket die Treppen
@@ -543,7 +543,7 @@ Dann — war es aus mit mir — vorläufig.
 
 Als ich endlich wieder zu mir kam, als ich trotz der starken
 Kopfschmerzen und trotz des Ohrensausens, trotz der
-Uebelkeit, die mir in der Kehle würgte, und trotz des nervösen
+Übelkeit, die mir in der Kehle würgte, und trotz des nervösen
 Zitterns in Armen und Beinen mir über meine Lage klar
 <@pagebreak/>
 wurde, da spürte ich auch gleichzeitig in meinem Rücken eine
@@ -568,7 +568,7 @@ da. Unter meinen Armen lief ein Strick in die Höhe, der
 mich während meiner Bewußtlosigkeit in dieser Stellung festgehalten
 hatte.
 
-Allmählich schwanden Uebelkeit und Beinzittern. Und
+Allmählich schwanden Übelkeit und Beinzittern. Und
 so standen wir beide denn und — warteten — warteten. Irgend
 etwas würde sich ja nun ereignen. Der kleine Juwelier
 würde mit einer Laterne erscheinen und uns höhnisch angrinsen.
@@ -786,7 +786,7 @@ Mark, die jetzt bis auf einen Rest von 125 Mark zusammengeschmolzen
 sind. Er litt an einem Ohrenleiden, und seit 8
 Monaten war er ohne Stellung. — Die Sektion der Leiche hat
 jedoch keinerlei Anhaltspunkte dafür ergeben, das Reinke ermordet
-worden ist. Die Aerzte haben übereinstimmend erklärt,
+worden ist. Die Ärzte haben übereinstimmend erklärt,
 die chronische Mittelohreiterung des Reinke müsse außerordentlich
 schmerzhaft gewesen sein und hätte das Hirn auch
 bereits in Mitleidenschaft gezogen. Der Tod sei wahrscheinlich
@@ -802,7 +802,7 @@ Verdachtsmomente, daß die Paszenski doch offenbar
 geflüchtet ist und daß aus dem Zimmer Reinkes die einzigen
 ihm gehörigen Dinge von Wert verschwunden sind.
 
-> Ueber die Paszenski konnten die Hausbewohner mancherlei
+> Über die Paszenski konnten die Hausbewohner mancherlei
 angeben. Sie ist polizeilich als Opernsängerin gemeldet,
 lebte aber lediglich von ihren Einnahmen als Kartenlegerin.
 Sie wohnte im Gartenhause Nr. 221 seit 1 ¾ Jahren. Zunächst
@@ -1065,7 +1065,7 @@ Paszenski führte ein etwas geheimnisvolles Dasein.
 Um die Mittagszeit war sie nie in der Borsigstraße anzutreffen,
 und nachts war sie ebenfalls nicht daheim, behauptete irgend
 eine Anstellung in einem Nachtlokal zu haben. Ich bin
-nun der festen Ueberzeugung, sie hat noch eine zweite Wohnung
+nun der festen Überzeugung, sie hat noch eine zweite Wohnung
 gehabt, in der sie das Mittagsmahl einnahm und in der
 sie auch schlief. Ihr Doppelleben wurde durch ihren Mieter,
 den alten Musiker, nicht gefährdet. Er war ja schwerhörig,

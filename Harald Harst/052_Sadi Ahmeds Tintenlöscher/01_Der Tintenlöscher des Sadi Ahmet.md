@@ -33,7 +33,7 @@ an den Kamelhalftern verlor sich in der Ferne.
 
 Auf einem mächtigen Pistazienbaume, dessen obere
 <@pagebreak/>
-Aeste abgestorben und unbelaubt waren, hockte ein Aasgeier
+Äste abgestorben und unbelaubt waren, hockte ein Aasgeier
 und riß mit dem Schnabel Stücke von irgend einem
 Kadaver ab. Harald und ich blickten kaum hin, bis Tscho,
 der hinter uns ritt, plötzlich halblaut rief:
@@ -57,7 +57,7 @@ freigelegt hatte.
 Tscho brachte uns diesen unheimlichen Schießpreis.
 
 »Master Harst, ich sehen, daß Geier Arm benagen
-von Mensch. Deshalb schießen, Oh — dies sein Arm
+von Mensch. Deshalb schießen. Oh — dies sein Arm
 von weiße Gentleman! Oh — und Ringe an die
 Finger stecken — fünf Stück, drei mit Diamanten —«
 
@@ -86,7 +86,7 @@ Tscho werden sie abziehen —«
 
 »Ja, die Ringe gehören Dir, mein gelber Junge.
 Aber abziehen wirst Du sie nicht. Packe den Arm in
-Blätter ein und stecke ihn in Deinen Oeltuchsack.«
+Blätter ein und stecke ihn in Deinen Öltuchsack.«
 
 Tscho nickte. »Gut, machen eine Paket daraus. Ringe
 sind mein, haben Master gesagt.«
@@ -101,8 +101,8 @@ schroffen Höhen hie und da ein freundlicheres Aussehen.
 
 Harst ließ das Glas sinken.
 
-»Dort halb links vor jenen Olivenhain schwärmen
-Aaßgeier,« sagte er, »Ich denke, wir gehen einmal hinüber.
+»Dort halb links vor jenem Olivenhain schwärmen
+Aaßgeier,« sagte er. »Ich denke, wir gehen einmal hinüber.
 Es sind keine zweitausend Meter. — Tscho,« rief
 er dem Chinesen zu, »gib auf unsere Pferde mit acht.
 Wir kommen sofort zurück. Ich rate Dir auch, mit den
@@ -125,7 +125,7 @@ herabgeschossen hatte.
 Nichts war da, gar nichts!
 
 Das heißt: zunächst schien es so! — Aber neben einem
-Gebüsch entdecke Harald dann eine Blutlache auf
+Gebüsch entdeckte Harald dann eine Blutlache auf
 dem steinigen Boden.
 
 »Aha — deshalb starrten die eklen Vögel hierher,«
@@ -243,7 +243,7 @@ Ahmed ein gutes Wort für mich eingelegt haben würde.«
 
 Wir unterhielten uns noch eine Weile mit dem braven
 <@pagebreak/>
-Radrogar und wollten dann ein wenig Schlafen. Der
+Radrogar und wollten dann ein wenig schlafen. Der
 Inder verabschiedete sich.
 
 »Vielleicht bleiben wir bis morgen früh,« sagte Harald
@@ -348,7 +348,7 @@ schmucklos und energisch.
 »Sieh an! Dieser Ahmed hat Angst vor uns,«
 sagte Harald und legte den Zettel auf den Tisch, wo die
 Schrift schnell wieder verschwand. »Mithin hat er auch
-ein schlechtes Gewissen. Uebrigens: wir werden V.
+ein schlechtes Gewissen. Übrigens: wir werden V.
 untersuchen!«
 
 »Was heißt das?«
@@ -360,7 +360,7 @@ fraglos der Raub der Viktoria immer noch Tagesgespräch.«
 
 Er rieb sich vergnügt die Hände. »Wir haben also
 wieder Arbeit, mein Alter. Abends kommt Herr Jacques
-Delboste an. Wir werden ihn kennen lernen. Bring:
+Delboste an. Wir werden ihn kennen lernen. Bringe
 jetzt aber gleich den Löscher zum Polizeimeister und
 sage ihm, er hätte ihn wohl hier vergessen.« —
 
@@ -408,7 +408,7 @@ Als wir mit der Mahlzeit gerade fertig waren,
 klopfte es und Delboste trat ein.
 
 »Gestatten Sie, daß ich noch eine Stunde mit Ihnen
-plaudere?« sagte er liebenswürdig
+plaudere?« sagte er liebenswürdig.
 <@pagebreak/>
  
 Harst deutete auf einen der Bambusstühle.
@@ -417,7 +417,7 @@ Harst deutete auf einen der Bambusstühle.
 soeben über den Polizeimeister Radrogar. Der arme
 Mensch klagte uns vorhin sein Leid. Er erzählte, daß
 er früher in Gwadar Hafenmeister gewesen und daß dort
-ein Frachtdampfer verwunden sei, was man ihm zur
+ein Frachtdampfer verschwunden sei, was man ihm zur
 Last lege. Ich habe nun eine gewisse Vorliebe für geheimnisvolle
 Geschehnisse. Sie werden Gwadar wohl
 ziemlich genau kennen, Mr. Delboste. Wenigstens sagte
@@ -539,7 +539,7 @@ auch er nahm einen kräftigen Schluck.
 Delboste entkorkte die zweite Flasche. Er hatte
 bereits vier Becher hinuntergegossen. Die Flaschen waren
 kurzhalsig und dickbauchig und enthielten wohl gegen
-anderthalb Liter. Der Ueberzug aus Bastgeflecht
+anderthalb Liter. Der Überzug aus Bastgeflecht
 war bunt gemustert und trug in roter Farbe den Namen
 der Weinfirma in Maskat.
 
@@ -666,7 +666,7 @@ befürchtete.«
 eine wahre Bärennatur —«
 
 »— hat er auch! — Besinne Dich auf die weißen
-Fäden an der Stelle des Ueberfalls. Es waren Leinenjacken.
+Fäden an der Stelle des Überfalls. Es waren Leinenfäden.
 Der Mann hat sein Hemd zerrissen und sich verbunden.
 — Alles stimmt. Auch die Zeit. Ahmed kehrte
 von seinem Jagdausflug eine Stunde vor uns hierher
@@ -795,7 +795,7 @@ noch die Belutschen.
 
 Der Banditentrupp der auf der Straße nach beiden
 Seiten hin je zwei Leute als Späher ausgestellt gehabt
-hatte, um vor jeder Ueberraschung sicher zu sein, wurde
+hatte, um vor jeder Überraschung sicher zu sein, wurde
 jetzt von einem dieser Posten gewarnt und verließ durch
 eine enge Schlucht den Kanon. — Wir beide mußten zu
 Fuß gehen. Die Kletterei war stellenweise recht gefährlich.
@@ -830,7 +830,7 @@ Bündeln Maisstroh war der Raum leer.
 
 Drei Leute der Leibgarde Jacques Delbostes fesselten
 uns jetzt auch die Füße und entleerten unsere Taschen.
-Ueber unsere Clementpistolen freuten sie sich am meisten.
+Über unsere Clementpistolen freuten sie sich am meisten.
 
 Einer der Kerle deutete dann auf die Strohschütten,
 worauf sie alle drei abzogen. Die Leiter, die durch ein
@@ -846,10 +846,10 @@ dieses Abenteuer, mein Alter?«
 »Bis jetzt ist es ziemlich harmlos.«
 
 »Ja — und die ganze Geschichte leider sehr unklar.
-Wir haben diesmal noch sehr viel Punkte aufzuklären
+Wir haben diesmal noch sehr viel Punkte aufzuklären.
 <@pagebreak/>
 Zunächst: wer war der Weiße, den Ahmed ermorden
-wollte? — Dann: weshalb wollte er ihn beseitigen. —
+wollte? — Dann: weshalb wollte er ihn beseitigen? —
 Ferner: wo ist der Schwerverwundete, der sich selbst den
 Arm amputierte, geblieben? — In welchem Verhältnis
 stehen Ahmed und Delboste zueinander? Weshalb ließen
@@ -860,7 +860,7 @@ einen Tag in Behandlung hatten.«
 
 »Allerdings. Und — was wird aus uns?«
 
-»Warten wir ab. Tscho hat sich bei dem Ueberfall
+»Warten wir ab. Tscho hat sich bei dem Überfall
 sehr klug verhalten.« Harst flüsterte jetzt nur.
 »Sollte er in der kommenden Nacht nichts zu unserer
 Befreiung unternehmen, dann müssen wir selbst zusehen,
@@ -911,7 +911,7 @@ Harald zuckte nur die Achseln und schwieg.
 »So — Sie haben also gar nichts zu Ihrer Verteidigung
 anzuführen?« meinte er nach einer Weile merklich
 unsicher. »Sie sind ja zwei ganz hartgesottene
-Schurken! Der Arm genügt vollauf zu Ihrer Ueberführung,
+Schurken! Der Arm genügt vollauf zu Ihrer Überführung,
 und der Richter in Gwadar wird mit Ihnen kurzen
 Prozeß machen.«
 
@@ -992,7 +992,7 @@ bisher ausschließlich den Frachtverkehr
 zwischen Maskat, Gwadar und anderen benachbarten
 Häfen in Händen gehabt. Da beschloß die Firma Smith
 & Walker, mit einem großen, schnellen Dampfer, der
-Viktoria, ihm Konkurrenz zu machen, Ahmed veranlaßte
+Viktoria, ihm Konkurrenz zu machen. Ahmed veranlaßte
 Delboste, scheinbar auf Urlaub zu gehen. Delboste
 erhielt von dem ebenso gewissenlosen Reeder 1000 englische
 Pfund dafür, daß er heimlich in Maskat die
@@ -1033,7 +1033,7 @@ Aber — er war aufrichtig.
 
 »Gut — Sie brauchen nichts mehr zu sagen,« unterbrach
 Harald ihn sehr bald. »Ich habe den Zettel
-in dem Griffknopf nämlich, gefunden, Delboste. — Eine
+in dem Griffknopf nämlich gefunden, Delboste. — Eine
 andere Frage. — Was bedeuten die Worte: »Nach acht
 Tagen bei V. treffen«? — Soll »V« gleich Viktoria
 sein?«
@@ -1051,7 +1051,7 @@ alles Farbige aus Oman, sind seine Freunde.«
 
 Harald dachte einen Augenblick nach. »Delboste,«
 sagte er dann, »wo bekamen Sie so schnell die Belutschen
-für den Ueberfall auf uns her?«
+für den Überfall auf uns her?«
 
 »Ahmed hat im Dorfe dort zwei Vertraute. Diese
 machten mich mit einer Bande Räuber bekannt, die
@@ -1107,7 +1107,7 @@ Dann kletterte Tscho uns voraus an dem Strick in
 die Höhe der durch das eine Dachloch herabhing.
 
 »Wirst Du es schaffen, mein Alter?« fragte Harst
-besorgt und schaute empor zu der schmalen Oeffnung und
+besorgt und schaute empor zu der schmalen Öffnung und
 dann auf mein Bäuchlein. — Ich nickte nur. Und —
 es ging auch leidlich, weil Harst von unten nachhalf. Ich
 zwängte mich durch das Loch. Tscho reichte mir die Hand
@@ -1214,7 +1214,7 @@ Mr. Gesport nickte. »Aber gewiß, Master Harst.
 Die Hauptsache bleibt ja, daß wir diesen Schurken von
 Ahmed endlich beim Wickel nehmen können. — Bitte,
 kommen Sie jetzt mit, meine Herren. Auch ich habe
-eine Ueberraschung für Sie!«
+eine Überraschung für Sie!«
 
 Er führte uns in ein anderes Zimmer, in dem es
 scharf nach Jodoform roch. In einem eisernen Bett lag

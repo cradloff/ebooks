@@ -59,7 +59,7 @@ genügend Zeit, nach Schloß Racklenberg zu reisen.«
 
 Dann öffnete er den zweiten Brief.
 
-Und — nun kam die große Ueberraschung: dieser
+Und — nun kam die große Überraschung: dieser
 Brief war von der Gräfin von Rackler, und er lautete
 wie folgt.
 
@@ -256,7 +256,7 @@ Taschentuch heraus.«
 
 »War die Ehe glücklich?«
 
-»Ueberaus glücklich, obwohl die Gräfin durchaus keine
+»Überaus glücklich, obwohl die Gräfin durchaus keine
 Schönheit ist. Und bürgerlich und arm ist sie auch. Es
 war eine Liebesheirat. — Na — jetzt hat Gräfin Brigitta
 den Verlust wohl verschmerzt. Morgen ist ja großer Trubel
@@ -353,7 +353,7 @@ Er schwieg plötzlich. Wir hörten flüstern.
 Dann nichts mehr — nichts, obwohl wir noch eine
 gute Viertelstunde regungslos dastanden und lauschten. —
 
-Harald zupfte mich am Aermel.
+Harald zupfte mich am Ärmel.
 
 Wir schlichen zurück in die Heide hinein. In einer
 Mulde machte Harst halt.
@@ -433,7 +433,7 @@ Mann, da kennen Sie uns schlecht!«
 »Sie weigern sich also?«
 
 »Sie sind ein Narr! Binden Sie uns sofort los!
-Dann will ich diesen Ueberfall vergessen!«
+Dann will ich diesen Überfall vergessen!«
 
 Der Mann trat dicht an Harst heran, zischte ihm ins
 Gesicht:
@@ -592,7 +592,7 @@ Ich glaube, die Gräfin hat vier sehr scharfe Bestien
 dieser Art.«
 
 »So?! — Na — die Hunde draußen waren schwarz.
-— Uebrigens, Herr Döring, wir heißen in Wahrheit etwas
+— Übrigens, Herr Döring, wir heißen in Wahrheit etwas
 anders, nämlich Harst und Schraut. Wissen Sie, was ein
 Detektiv ist?«
 
@@ -636,7 +636,7 @@ Das schien Harst nur recht zu sein.
 Brunshaupten. — Sie wollen wohl mit der Gräfin
 Geschäfte machen?«
 
-»Ja — so was Aehnliches. — Im Vertrauen, Herr
+»Ja — so was Ähnliches. — Im Vertrauen, Herr
 Schramke: ob der Oberinspektor Möller für so ’ne kleine
 Liebesgabe zugänglich ist?«
 
@@ -767,7 +767,7 @@ Landjäger höflich.
 
 »Donnerwetter!« entfuhr es dem Beamten. »Entschuldigen
 Sie, Herr Harst, — das war aber auch eine
-zu große Ueberraschung!«
+zu große Überraschung!«
 
 »Die Gräfin hat uns, meinen Freund Schraut und
 mich, brieflich gebeten, dem Geheimnis der Lehmhütte auf
@@ -873,7 +873,7 @@ nicht sofort hierher?« rief die Gräfin.
 umzusehen pflegen, Frau Gräfin. Wir haben denn auch
 recht merkwürdige Dinge hier erlebt.«
 
-Er schilderte den Ueberfall in der Heide durch die
+Er schilderte den Überfall in der Heide durch die
 Doggen, ließ jedoch das Wichtigste fort: daß wir vorher
 die beiden Möllers und den dritten Mann belauscht hatten!,
 sprach auch nur von zwei Leuten in Lodenumhängen
@@ -1535,7 +1535,7 @@ durch eine Zigarette und —«
 Saalborg ist mit Ihrem Fürsten Palivarri identisch,
 Frau Gräfin, damit Sie nun alles wissen!«
 
-Jetzt fiel mir die Aeußerung der »falschen« Türkin
+Jetzt fiel mir die Äußerung der »falschen« Türkin
 über den Scherz ein, der 250 000 Mark kosten könnte! —
 Ich erzählte dies Harald. Und er erwiderte sofort:
 »Dann ist mir alles klar: Saalborg hat damals dem
@@ -1676,8 +1676,8 @@ milde beurteilen.« —
 So geschah es auch.
 
 Ich möchte zum Schluß noch hinzufügen, daß dieses
-Maskenfest noch eine andere Ueberraschung brachte, die ich
-in der nächsten Erzählung schildern will, — eine Ueberraschung,
+Maskenfest noch eine andere Überraschung brachte, die ich
+in der nächsten Erzählung schildern will, — eine Überraschung,
 die ein neues Problem einleitete, dessen Einzelheiten
 »Das Licht in der Lehmhütte« an Seltsamkeit noch
 übertrafen.

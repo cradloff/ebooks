@@ -26,7 +26,7 @@ Durch eine Bemerkung Hauptmann Mac Leans über die
 Oasen der Sinai-Wüsten wurde ich an das zerfetzte Buch erinnert,
 in dem ich auch einen Hinweis auf eine Oase namens
 Fartah gefunden hatte, die nach alten, unter den Wüstenstämmmen
-fortlebenden Ueberlieferungen die Ruinen einer Stadt
+fortlebenden Überlieferungen die Ruinen einer Stadt
 aus der ältesten ägyptischen Kulturepoche enthalten sollte.
 
 Da die Mahlzeit bereits vorüber war und wir Herren den
@@ -44,7 +44,7 @@ durchkreuzt. Diese Oase existiert nicht.«
 Leutnant Sidney Jones, ein junger, sehr sympathischer
 Engländer, räusperte sich und meinte bescheiden.
 
-»Doch — es gibt eine solche Oertlichkeit.«
+»Doch — es gibt eine solche Örtlichkeit.«
 
 <@pagebreak/>
 »Na nu, Jones,« rief Mac Lean. »Das wollen Sie behaupten,
@@ -69,7 +69,7 @@ aber nicht besucht hat.«
 
 »Eine Fata Morgana, eine Luftspiegelung,« sagte Mac
 Lean lächelnd. »Das ist kein Beweis für die Existenz der
-Oase Fartah und der Ruinenstadt. — Uebrigens fällt mir da
+Oase Fartah und der Ruinenstadt. — Übrigens fällt mir da
 etwas ein —«
 
 Er griff in die Tasche und entnahm seiner Brieftasche ein
@@ -269,7 +269,7 @@ Mond bestrahlte die andere Seite des Schlosses und warf so
 einen riesigen, schwarzen, verzerrten Schatten des burgähnlichen
 Bauwerks gerade auf einen Teil des Parkes.
 
-»Uebrigens haben wir heute wieder den Beweis erhalten,
+»Übrigens haben wir heute wieder den Beweis erhalten,
 wie seltsam zuweilen Ereignisse mit demselben »Kern« ineinander
 greifen,« sagte Harst nun.
 
@@ -354,7 +354,7 @@ wir gehen trotzdem mal hinaus und befragen die Wachen.«
 <h2>2. Kapitel.</h2>
 
 Mac Lean hatte auf den nächsten Anhöhen, weniger aus
-Furcht vor einem neuen Ueberfall, als vielmehr zur Beruhigung
+Furcht vor einem neuen Überfall, als vielmehr zur Beruhigung
 Lady Lydias und seiner Gattin, vier Posten aufgestellt
 und zwar gerade an den vier einzigen Pässen, die in das Tal
 hinabführten, in dem Schloß Medsur lag.
@@ -544,7 +544,7 @@ durch die Ergreifung der Mörder wettmachen und war
 deshalb allzu eifrig, auch allzu hoffnungsfroh. Im übrigen
 zeigte er sich als liebenswürdiger Gefährte. Nur eine Eigenart
 hatte er: allzu großen Rassenstolz! Er behandelte Harald
-mit einer gewissen heiteren Ueberlegenheit, als ob er ihn als
+mit einer gewissen heiteren Überlegenheit, als ob er ihn als
 »nur« Liebhaberdetektiv nicht recht ernst nahm.
 
 Wir waren um 10 Uhr von Schloß Medsur aufgebrochen.
@@ -627,7 +627,7 @@ Stückchen falschen Bartes in der Hand hatte, läßt sich nur auf
 eine Weise deuten. Er wird bei der Suche nach den sogenannten
 Beduinen einen der Burschen schon gepackt gehabt haben.
 Vielleicht mit der Linken am Burnus, während er ihm mit
-der Rechten in der Ueberzeugung, keinen echten Beduinen vor
+der Rechten in der Überzeugung, keinen echten Beduinen vor
 sich zu haben, den als falsch erkannten Bart abzureißen suchte.
 In demselben Moment schoß ihn ein anderer der Schufte nieder.
 — Weißt Du eine bessere Erklärung?«
@@ -993,7 +993,7 @@ da muß es in der Nähe Wasser geben. Suchen wir.«
 — Nach zwei Stunden befanden wir uns am nördlichsten Ende
 <@pagebreak/>
 des Wadi. Hier gab es die höchsten Steine, die größten Felsblöcke,
-und das Flußbett war kahler nackter Fels. Ueberall
+und das Flußbett war kahler nackter Fels. Überall
 hatten wir Wüstenfüchse aufgescheucht. Dann deutete Harald
 auf eine Art Fährte, die wie ein blanker Strich in ein Gewirr
 von Felsen hineinlief. — »Den Strich haben die Pfoten
@@ -1353,7 +1353,7 @@ hätte ihm angemerkt, daß er längst wußte, was die
 Skizze bedeutete. Ganz allmählich entwickelte sich aus seinem
 Wortschwall dann der Gedanke, es könnte ich um gar kein
 Haus, sondern um die Halbinsel Sinai handeln. Und so
-kam er schließlich auch auf die Zahlen und deren Uebertragung
+kam er schließlich auch auf die Zahlen und deren Übertragung
 in Buchstaben, also auch auf das Wort Fartah und die Bedeutung
 der Kompaßnadeln.
 

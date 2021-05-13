@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">bf6e78ce-994a-11eb-9e82-0f78d52aaf26</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein amerikanisches Duell</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">60</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Leuchter der Lady Dreabram.
+
+Er steht vor mir, der Leuchter der Lady Viktoria Dreabram, die eines so rätselhaften Todes starb.
+
+Er steht vor mir und ruft mir alle Einzelheiten unseres damaligen Abenteuers in Allahabad ins Gedächtnis zurück.
+
+Es ist ein wundervolles Erzeugnis altindischer Goldschmiedekunst. Die schlanken Linien des in Schleier gehüllten Körpers der indischen Tänzerin, deren hochgereckte Arme die Lichthülle in Form eines goldenen Tellers halten, drücken ein ungezügeltes Temperament aus. Das Gesicht aber hat einen scharf herausgearbeiteten, beinahe teuflisch-höhnischen Zug um den Mund. In dem Lichthalter steckt noch die dicke, etwa drei Zentimeter lange Kerze.
+
+Nichts ist an dem Leuchter verändert worden seit dem Tage, als Harald Harst ihn geschenkt erhielt – nichts! Ich betone dieses Nichts, und der Leser wird das nachher verstehen. Diese goldene Tänzerin spielt die Hauptrolle in dem Drama, das ich hier schildern will. Oder doch mit die Hauptrolle. –
+
+Ein amerikanisches Duell.
+
+Harald hatte die Papiere – es waren alles einzelne, beschriebene Blätter, geordnet, bevor er sie mir vorlas. Er tat es mit halblauter Stimme. –
+
+»16. Mai 19…
+
+Es war Notwehr. Der junge Mensch hätte mich niedergestochen. Eine Kugel ist flinker als ein Messer. – Notwehr! Und doch leide ich seelisch darunter. Ich hätte den Schrein unberührt lassen sollen. Daß ich nachher den Leuchter mitnahm, war eine Handlung des Augenblicks, eine jener unbegreiflichen Torheiten, die wir so oft begehen.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (060) Ein amerikanisches Duell.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

@@ -260,7 +260,7 @@ Sein Gesicht hatte jetzt jede Spur von Freundlichkeit verloren.
 sprechen. — Dort kommt auch meine Urenkelin. Sie wird
 den Wagen ziehen. Ich danke Euch!«
 
-Ueber eine von den Kamelen völlig zerstampfte Rasenfläche
+Über eine von den Kamelen völlig zerstampfte Rasenfläche
 nahte sich ein braunes Hindumädchen.
 
 Sie hatte in der Rechten einen langen Stock, den sie
@@ -471,10 +471,10 @@ Wieder vergingen reichlich zehn Minuten.
 Und wieder eine Viertelstunde nichts.
 
 Harald gähnte. »Langweilig! Gib mal auf das
-Gehöft acht, mein Alter. Ich will Dir mal die Uebersetzung
+Gehöft acht, mein Alter. Ich will Dir mal die Übersetzung
 des Pergaments ergänzen. Höre zu.«
 
-Er zog das Blatt Papier mit der Uebersetzung aus
+Er zog das Blatt Papier mit der Übersetzung aus
 der Tasche und las mit verschiedener Betonung, indem er
 seine Ergänzungen stärker hervorhob:
 
@@ -517,7 +517,7 @@ Taiman zusammenhängt, Dir vorgetragen. Meine
 Weisheit ist nun vorläufig zu Ende. Wir müssen den Brunnen,
 die Steine der Tränen und die Verbindung zwischen
 der angeblichen Sage und dem auffälligen Verhalten Omars
-suchen. Wir werden dabei ohne Frage auf allerlei Ueberraschungen
+suchen. Wir werden dabei ohne Frage auf allerlei Überraschungen
 stoßen. Die erste ist bereits da: wo sind Omar
 und seine Urenkelin geblieben?«
 
@@ -540,7 +540,7 @@ Ein Geräusch hinter uns ließ uns gleichzeitig die Köpfe
 drehen.
 
 <@pagebreak/>
-Da hatten wir ja Ueberraschung Nummer zwei:
+Da hatten wir ja Überraschung Nummer zwei:
 
 Fünf Radschputen, die Gesichter durch Tücher verhüllt,
 standen kaum acht Schritt hinter uns mit — angelegten
@@ -556,7 +556,7 @@ hatten. Links neben dem dunklen Felsloche lehnte
 eine mächtige Steinplatte von unregelmäßiger Form, die
 offenbar das Loch verdeckt hatte.
 
-Und aus dieser kaum mannshohen schmalen Oeffnung
+Und aus dieser kaum mannshohen schmalen Öffnung
 trat nun das — Hindumädchen heraus, tastete sich mit dem
 Stocke noch ein paar Schritt vorwärts, blieb neben den
 fünf braunen Gesellen stehen und sagte dann in fließenden
@@ -582,7 +582,7 @@ Erregung. »Ihr müßt gehorchen. Ihr habt Eure Pistolen
 mit, und wer von Euch in die Tasche greift, bekommt eine
 Kugel.«
 
-Dieser Ueberfall war recht harmlos. Der Abhang, den
+Dieser Überfall war recht harmlos. Der Abhang, den
 wir jetzt hinter uns hatten, war nicht so steil, daß wir es
 nicht hätten wagen dürfen, ihn hinabzurutschen. Wir
 brauchten uns nur blitzschnell nach hinten zu werfen und
@@ -826,13 +826,13 @@ Wieder zwei Schüsse.
 Harald riß mich zurück bis dicht an die Rückwand der
 Terrasse.
 
-Aus seinem linken Aermel tropfte Blut auf das kahle
+Aus seinem linken Ärmel tropfte Blut auf das kahle
 Gestein.
 
 »Also doch Ernst!« meinte er. »Nur ein Streifschuß,
 mein Alter. Wickele mir Dein Taschentuch um den Unterarm.«
 
-Er schob den Aermel hoch. Da war eine drei Zentimeter
+Er schob den Ärmel hoch. Da war eine drei Zentimeter
 lange Fleischwunde. Ich verband sie rasch.
 
 So, wie wir standen, konnten die Schützen nicht an uns
@@ -998,7 +998,7 @@ der Hindu.
 Jenningson blieb dann im Flur vor der Tür der
 Bibliothek. Ich betrat sie allein.
 
-Ich bin ja bereits an allerlei Ueberraschungen gewöhnt,
+Ich bin ja bereits an allerlei Überraschungen gewöhnt,
 die Harald mir nur zu gern bereitet.
 
 Aber daß ich die Bahre und das Zimmer leer finden
@@ -1200,7 +1200,7 @@ Ich lauschte.
 
 Nichts mehr — nichts!
 
-»Wenn es ein Brunnen ist, kann er nur diese eine Oeffnung
+»Wenn es ein Brunnen ist, kann er nur diese eine Öffnung
 haben,« meinte Harald nach einer Weile. »Hat man
 aber einen Brunnenschacht über einer natürlichen Zisterne
 hochgemauert, dann ist es nicht ausgeschlossen, daß die Zisterne,
@@ -1229,7 +1229,7 @@ kleinen Brettertür, die nur angelehnt war.
 Harst zog sie weiter auf, griff gleichzeitig in die Innentasche
 seiner indischen Jacke hinein und — entsicherte die
 Clement, verbarg sie dann samt der Hand in dem weiten
-Aermel.
+Ärmel.
 
 Ich folgte seinem Beispiel.
 

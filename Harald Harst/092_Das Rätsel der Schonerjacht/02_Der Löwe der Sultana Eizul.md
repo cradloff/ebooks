@@ -24,7 +24,7 @@ Schlepptau nehmen und mit beiden Schiffen an einer kleinen
 Insel ankern, die weiter nördlich in einer seeartigen
 Erweiterung der Bucht lag. Dort würden wir vor Angriffen
 der Araber sicher sein und doch in der Nähe der
-Stelle des Ueberfalles der Schonerjacht bleiben. —
+Stelle des Überfalles der Schonerjacht bleiben. —
 
 So geschah es denn auch.
 
@@ -180,7 +180,7 @@ zu beschaffen. Wir wollten in dem Motorboot zu diesem
 Zweck die Küste westwärts entlangfahren, bis wir ein
 anderes Araberdorf fänden. Narrow versprach uns noch
 eine geradezu ungeheure Summe, wenn wir Evelyn wohlbehalten
-zurückbrächten. Ueber Thomas Armart äußerte
+zurückbrächten. Über Thomas Armart äußerte
 er sich nicht. Was aus diesem geworden, war ihm gleichgültig.
 Dies war immerhin verständlich. Ein Mann wie
 Narrow konnte zwar als Onkel für seine Nichte seine Milliarden
@@ -269,7 +269,7 @@ Das klang so eigentümlich, daß ich allen Grund hatte
 zu fragen: »Du ahnst, wer das Gespenst ist?«
 
 <@pagebreak/>
-»Du nicht? — Ueberlege mal: weiße Gestalt, gelbe
+»Du nicht? — Überlege mal: weiße Gestalt, gelbe
 Mütze! — Und Evelyn ist — blond!«
 
 »Wie —?! Evelyn? Das — das ist doch unmöglich!«
@@ -327,7 +327,7 @@ angesehen haben.
 »Evelyn hat also die Expedition ins Innere doch nicht
 mitgemacht,« sagte Harald vor dem Bett leise und deutete
 auf den Eindruck in den Kissen und den Hörer. »Evelyn
-schlief, als der Ueberfall erfolgte. Der Lärm weckte sie. Die
+schlief, als der Überfall erfolgte. Der Lärm weckte sie. Die
 Telephonleitung geht wahrscheinlich nach vorn in das
 Mannschaftslogis. Evelyn fragte dort an, was der Lärm
 auf sich hätte.«
@@ -641,7 +641,7 @@ Araber, die uns jedoch kaum beachteten.
 
 Nun hörte jedoch, je näher wir der Bucht kamen, der
 fruchtbare Steppenboden immer mehr auf. Die Steinwüste
-begann. Ueber felsige Hochebenen, durch schaurig öde Täler
+begann. Über felsige Hochebenen, durch schaurig öde Täler
 ging’s weiter nach Osten zu. Kein Strauch, kein Baum,
 kein Tier — nur dunkelgrauer Fels und über uns die sinkende
 Sonne und ein paar Aasgeier, die drüben nach Süden
@@ -884,7 +884,7 @@ Matrosen erschossen wurden.
 
 Weiter trabte mein Lastkamel. Weiter rüttelte und
 schüttelte es mich in dem engen Korbe, daß mir sehr bald
-Uebelkeit in der Kehle hochstieg, daß ich mich erbrach. Das
+Übelkeit in der Kehle hochstieg, daß ich mich erbrach. Das
 Gefühl von Seekrankheit machte mich sterbenselend. Ein
 eisiger Schweiß trat mir auf die Stirn.
 
@@ -1411,9 +1411,9 @@ wurde, geht nur mich etwas an. Wer ich war, wird
 nie jemand erfahren. Wer ich bin, wissen Sie beide: die
 Sultana Eizul des sagenhaften Mischvolkes der Arakruzier,
 eines Volkes von kaum zweitausend Seelen, das durch eine
-besondere Religion und besondere Ueberlieferungen gezwungen
+besondere Religion und besondere Überlieferungen gezwungen
 ist, fern von den anderen Menschen hier in der
-Verborgenheit zu leben und durch strenge Gesetze eine Uebervölkerung
+Verborgenheit zu leben und durch strenge Gesetze eine Übervölkerung
 dieses paradiesischen Tales zu verhüten, in dem
 mehr als zweitausend Menschen sich nicht ernähren könnten.
 — Vor sechs und ein halb Jahren etwa fand ich Thomas

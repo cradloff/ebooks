@@ -34,7 +34,7 @@ etwas unwilliges »Herein!« wurde die Tür mit einem
 Ruck aufgestoßen und unseren erstaunten Blicken zeigte sich
 eine grauhaarige Dame von so grimmen, eigenartigen Zügen,
 daß Harald der ältlichen, ganz in Grau gekleideten
-Besucherin vor Ueberraschung mit einem Anflug eines belustigten
+Besucherin vor Überraschung mit einem Anflug eines belustigten
 Lächelns in das rote, schmale Gesicht starrte, auf
 dessen scharfer Wippnase ein goldener Kneifer sehr schief
 und verwegen saß.
@@ -359,7 +359,7 @@ ein, daß ein Blutstropfen aus der Lippe hervordrang.
 
 Was hatte die Lady plötzlich? Weshalb diese Zeichen
 einer ungeheuren Erregung, weshalb dieser fahle Schimmer
-auf den Wangen, dieses krampfhafte Oeffnen und
+auf den Wangen, dieses krampfhafte Öffnen und
 Schließen der Hände?!
 
 Da wandte sie sich mit einem Male um und ging langsam
@@ -375,7 +375,7 @@ Despotin hinnehmen. Patna reizt mich jetzt noch mehr.
 Der Fakir Rawura und seine schwebende Tochter, der Batta
 Mampu und nun noch der Ring, — das lohnt!« —
 
-Ja — es lohnte sehr! Die Ueberraschungen nahmen
+Ja — es lohnte sehr! Die Überraschungen nahmen
 kein Ende.
 
 Lady Gulbrar kam auf uns zu.
@@ -527,7 +527,7 @@ machen,« sagte Harald, behaglich seine Zigarette rauchend.
 
 »Bei dem Fakir Rawura —«
 
-»Ja. — Ich bin sehr gespannt auf die Oertlichkeit und
+»Ja. — Ich bin sehr gespannt auf die Örtlichkeit und
 den Springbrunnen! Schade, daß das Wunder immer erst
 abends um sieben Uhr zu sehen ist. — Hm — ob man nicht
 jetzt den Park besuchen könnte? Ich werde mal den
@@ -774,7 +774,7 @@ dicht wie ein Gewebe, ein ganzer Vorhang.
 
 Und dahinter eine kleine verrostete Eisentür, schmal,
 ein Durchschlupf nur — nur angelehnt. Aber die plumpen
-Angeln dunkel von Oel, das in fettigen Streifen nach unten
+Angeln dunkel von Öl, das in fettigen Streifen nach unten
 getropft war.
 
 Harst zog die Tür auf. Der grüne Vorhang gab nach
@@ -1537,7 +1537,7 @@ Der ganze Schwindel kam jetzt an den Tag. Unter
 dem Brunnenbassin befand sich eine gemauerte Kammer,
 die durch einen unterirdischen Gang mit der Palastruine
 in Verbindung stand. Der Boden des Bassins aber hatte
-drei Oeffnungen, durch die ein Gehilfe Rawuras drei Glasröhren,
+drei Öffnungen, durch die ein Gehilfe Rawuras drei Glasröhren,
 die in dem Sprühregen nicht zu sehen waren, so
 weit emporschob, daß Tapalo auf den Enden dieser Röhren
 jene zwanglose sitzende Stellung einnehmen konnte. —

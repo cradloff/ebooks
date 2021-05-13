@@ -514,7 +514,7 @@ getroffen, schimmerte matt-weiß in den Strahlen des
 Nachtgestirns.
 
 Und am Fuße dieser Steilwand, geradezu grell
-leuchtend, sahen mir mit hochaufgerichtetem Bug das
+leuchtend, sahen wir mit hochaufgerichtetem Bug das
 Wrack eines größeren Zweimasters mit zerfetzten Segeln
 halb im Wasser liegen.
 <@pagebreak/>
@@ -555,7 +555,7 @@ Gespensterwrack! Dem Dinge muß man —«
 
 Er verstummte.
 
-Ueber das Wasser kamen abermals die dumpfen
+Über das Wasser kamen abermals die dumpfen
 Töne des Nebelhorns. —
 
 Tscho setzte sich wieder auf einen Stein.
@@ -633,7 +633,7 @@ eine Menge Seetang gesammelt, so daß auch wir weich
 und einigermaßen behaglich saßen.
 
 Rohe Möweneier sind nicht gerade meine Schwärmerei.
-Aber der Hunger zeigte sich zu hier wieder als
+Aber der Hunger zeigte sich auch hier wieder als
 der beste Koch.
 
 »Was hältst Du von dem Wrack?« begann ich die
@@ -763,7 +763,7 @@ wir leider zu spät. Als wir nach etwa anderthalb
 Stunden umkehren wollten, zeigte es sich sehr bald, daß
 wir den Rückweg nicht fanden.
 
-Ueberall nichts als schmale und breitere Kanäle,
+Überall nichts als schmale und breitere Kanäle,
 einzelne Felsen, Klippenreihen, hohe felsige Eilande,
 wieder Kanäle — der reine Irrgarten.
 
@@ -808,7 +808,7 @@ Blicke hingen wie gebannt an dem großen Fahrzeug.
 
 Das Wasserbecken war rings von turmhohen, steilen
 Felsen umgeben. Nur nach Süden zu zeigte sich eine
-breitere Oeffnung in diesem Kranze phantastisch geformter
+breitere Öffnung in diesem Kranze phantastisch geformter
 Steingebilde.
 
 Dort, wo der Dampfer lag, sprang das Steilufer
@@ -862,7 +862,7 @@ Und wirklich, mit einem Male schoß ein gedeckter
 Motorkutter im Süden aus der breiten Lücke der Felsen
 hervor und hielt auf den Dampfer zu.
 
-»Das selbe Boot dies sein, wo uns verfolgen,« meinte
+»Dasselbe Boot dies sein, wo uns verfolgen,« meinte
 Tscho. »Master Schraut, ich ihm erkennen bestimmt
 wieder —«
 
@@ -874,7 +874,7 @@ Wir krochen weiter. Es gab auch auf dem Plateau
 genügend Steine, die uns Deckung boten. —
 
 Auf dem Dampfer regte sich nichts. Wir hatten den
-einen Kessel erklettert und uns oben ihn hingelegt. Der
+einen Kessel erklettert und uns oben flach hingelegt. Der
 Kesselaufsatz schützte uns gegen jeden Blick.
 
 Nun verstummte das Geräusch des Motors. Dann
@@ -979,7 +979,7 @@ nun stießen sie ihn in das Loch hinein und schraubten
 den Deckel zu. — Bevor sie wieder nach dem Dampfer
 zurückkehrten, sagte der Weiße noch zu den beiden Farbigen:
 »Ersticken wird er nicht! Wir haben ja die
-Dampfrohre abgeschraubt, und durch die Oeffnungen
+Dampfrohre abgeschraubt, und durch die Öffnungen
 dringt genügend Luft hinein.« — Gleich darauf betraten
 sie wieder den Dampfer. Anscheinend sind sie dort
 geblieben. Wenigstens hörten wir nicht, daß das Motorboot
@@ -1091,7 +1091,7 @@ Ich schüttelte nur den Kopf.
 
 Wir gingen nach vorn ins Mannschaftslogis. Man
 merkte, daß hier eine Anzahl Leute noch wohnten oder
-doch bis vor kurzem gewohnt hatten. — Ueber dem langen 
+doch bis vor kurzem gewohnt hatten. — Über dem langen 
 <@pagebreak/>
 Holztisch hing eine Petroleumlampe, die Harald sofort
 angezündet hatte. Auf dem Fußboden lagen vier
@@ -1199,7 +1199,7 @@ Ahmed nickte nur.
 »Wann wollte O’Brien wiederkommen?« fragte Harald
 nun.
 
-»Uebermorgen nacht. Er denkt, ich werde dann
+»Übermorgen nacht. Er denkt, ich werde dann
 mürbe sein.«
 
 Harst überlegte: »Sadi Ahmed,« sagte er dann,
@@ -1222,7 +1222,7 @@ rief hinunter:
 »Nun, Freundchen, zur Vernunft gekommen?«
 
 Dann lachte er. »Aha — er ist kirre geworden!
-holt ihn heraus!«
+Holt ihn heraus!«
 
 Ahmed lehnte am Kessel und spielte den völlig Ermatteten
 mit viel Geschick.
@@ -1236,7 +1236,7 @@ gelbbraunen Koffer zurück.
 »Sehr verständig von Dir!« sagte er triumphierend
 zu Ahmed. »Wo ist der Schlüssel?«
 
-»In meinem Aermelaufschlag —«
+»In meinem Ärmelaufschlag —«
 
 O’Brien hatte den kleinen Schlüssel schnell gefunden,
 schloß den Koffer auf, hob den Deckel.
@@ -1299,7 +1299,7 @@ Erfindung diese Szene zu stark auf die Spitze getrieben.«
 Morgens trafen wir mit dem Motorkutter, den beiden
 Gefangenen und den beiden Toten in Gwadar ein,
 wo Harald vor dem Polizeichef Kromer die letzten Ereignisse
-zu Protokoll gab und eine auch die Wertpapiere
+zu Protokoll gab und Kromer auch die Wertpapiere
 und Banknoten aushändigte.
 
 Wir blieben noch drei Tage in Gwadar. Dann begann

@@ -370,7 +370,7 @@ und sei kaum vor neun Uhr zu Hause.
 »Weiß jemand, daß Sie meine Hilfe in Anspruch nehmen
 wollten?«
 
-»Nein. Ich habe auch den Ueberfall in meinem
+»Nein. Ich habe auch den Überfall in meinem
 Hause der Polizei nicht gemeldet, wie ich schon erwähnte,
 Herr Harst. Ich schämte mich, offen gestanden, weil ich
 mich eben durch eine leere Blumenspritze derart hatte
@@ -417,11 +417,11 @@ Ich tat’s. Und rief sofort: »Es ist dieselbe Schrift!«
 merkwürdige Anzeige eingerückt hat!«
 
 »Hm! Die Anzeige braucht doch nicht mit den
-Ueberfällen zusammenzuhängen.«
+Überfällen zusammenzuhängen.«
 
 »Das stimmt. Wir müssen das erst aufklären. Immerhin
 mahnt die Anzeige zur Vorsicht. Das wäre
-Punkt eins. — Punkt zwei sind diese Ueberfälle selbst.
+Punkt eins. — Punkt zwei sind diese Überfälle selbst.
 Findest Du nicht, daß es ein sehr seltsamer Zufall ist,
 daß Albner das Taschenmesser »gerade« bereit hatte und
 sich losschneiden konnte?! — Weiter dann: ist es nicht
@@ -430,11 +430,11 @@ Attentat nicht benachrichtigt hat?! — Wer hätte dies
 wohl versäumt?! Ich glaube, niemand! Seine Ausrede,
 er schäme sich, ist doch recht fadenscheinig.«
 
-»Du meinst also, diese Ueberfälle seien erfunden?!«
+»Du meinst also, diese Überfälle seien erfunden?!«
 
 »Das will ich doch nicht so ohne weiteres behaupten.
-Für den ersten Ueberfall ist ein Zeuge da. — Es
-kann zweierlei vorliegen: entweder ist Ueberfall Nr. 1
+Für den ersten Überfall ist ein Zeuge da. — Es
+kann zweierlei vorliegen: entweder ist Überfall Nr. 1
 »bestellte Arbeit« und Nr. 2 glatte Erfindung gewesen,
 oder — Albner verschweigt uns aus irgend welchen
 Gründen diejenigen Tatsachen, die auf die Spur seiner
@@ -857,7 +857,7 @@ Ihnen ab!«
 
 »Dann muß ich Sie gefesselt lassen,« sagte Albner
 schroff. »Meine Schwester ist eine strenge Wächterin.
-Ueberlegen Sie sich’s nochmals, Herr Harst.«
+Überlegen Sie sich’s nochmals, Herr Harst.«
 
 Harald blieb stumm. — Die Geschwister Albner
 flüsterten miteinander und entfernten sich. Ich hatte
@@ -987,7 +987,7 @@ Fräulein Grete Hesterloh, vor.
 »Grete kam als »warme Mamsell<@refnote 1/>« zu mir. Wir haben
 uns schnell gefunden.«
 
-Hesterloh! — Ich konnte meine Ueberraschung
+Hesterloh! — Ich konnte meine Überraschung
 kaum verbergen. »Karl Hesterloh« hatte sich ja Albner
 in der Kantstraße genannt!
 
@@ -1106,7 +1106,7 @@ Glas Wein trinken wollten.
 
 Gegen elf Uhr waren wir jedoch bereits über den
 Zaun geklettert, der den Hof des Hotels von einer unbebauten
-Parzelle trennte. Wir hatten uns die Oertlichkeit
+Parzelle trennte. Wir hatten uns die Örtlichkeit
 vorher genau angesehen, wußten auch, daß Vahlen
 keine Hunde hielt.
 
@@ -1162,7 +1162,7 @@ unser Versteck. Der Boden war mit Torfmull bestreut,
 der jeden Schritt dämpfte.
 
 Albner hatte aus der Reihe der Strandkörbe einen
-herausgezogen und flach hingelegt, die Oeffnung nach
+herausgezogen und flach hingelegt, die Öffnung nach
 oben. Er schnitt jetzt die Leinwand des Sitzes auf, warf
 das Seegras heraus und murmelte dabei allerlei vor sich
 hin. Die elektrische Taschenlampe ruhte rechts von ihm
@@ -1174,7 +1174,7 @@ Menschen mit der Schlappmütze. Albner hatte ihn noch
 nicht bemerkt. Er trennte jetzt die Seitenleinwand des
 Strandkorbes ab. Wir hörten, wie er ein »Verdammt
 — wieder nichts!« vor sich hin brummte. Dann hob er
-den Strandkorb etwas an und blickte in die untere Oeffnung
+den Strandkorb etwas an und blickte in die untere Öffnung
 unter dem Sitz hinein.
 
 »Ah — endlich!« Das klang wie ein Zischen.

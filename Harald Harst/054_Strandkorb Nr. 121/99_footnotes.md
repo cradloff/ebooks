@@ -1,4 +1,4 @@
-<h2>Anmerkungen</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Strandkorb Nr. 121.md">Angestellte einer Gaststätte, die für
 die Zubereitung und Ausgabe der warmen Speisen verantwortlich ist.</@footnote>

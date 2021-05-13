@@ -56,7 +56,7 @@ zusammen.
 
 Noch nie hatte ich es erlebt, daß einen Verbrecher, der
 sich plötzlich entlarvt und gefangen sah, die Angst vor der
-Strafe und vor der gesellschaftlichen Aechtung mit solcher
+Strafe und vor der gesellschaftlichen Ächtung mit solcher
 Gewalt packte wie diesen Mann, der in der Europäerkolonie
 in Agra eine gewisse Rolle gespielt hatte.
 
@@ -111,7 +111,7 @@ Vor einer Autorität, wie Sie es sind, beugen wir uns in
 Demut.«
 
 Das war nicht etwa versteckte Ironie. Nein, das war
-eine scherzhafte Anerkennung des geistigen Uebergewichts
+eine scherzhafte Anerkennung des geistigen Übergewichts
 meines geistvollen Freundes.
 
 Harald verbeugte sich denn auch leicht und erwiderte:
@@ -642,7 +642,7 @@ Dann war die Gefahr beseitigt.
 
 Im Büro des Gefängnisses lag Harst auf einem Diwan.
 Wir standen um ihn herum. Auch Taffarell hatte
-sich eingefunden. Drei Aerzte waren anwesend. Wir hatten
+sich eingefunden. Drei Ärzte waren anwesend. Wir hatten
 inzwischen in der Zelle auch die Gaspatrone gefunden,
 die Harald beinahe ins Jenseits befördert hatte. Es war
 — eine sogenannte »Pestpatrone« zum Ausschwefeln der
@@ -684,7 +684,7 @@ Breßfort und ich eilten jetzt wieder in den Hinterflügel.
 Breßfort schloß die Zelle Nr. 65 auf, nachdem er die
 zweite Deckenbirne von draußen eingeschaltet hatte.
 
-Und — nun kam die Ueberraschung:
+Und — nun kam die Überraschung:
 
 Auf dem Bett lag unter der Decke — eine zusammengerollte
 Bastmatte, die den Körper vorgestellt hatte. Der
@@ -1103,7 +1103,7 @@ wird sich freuen, bei Ihnen als jüngerem Kollegen seine
 etwas eingerosteten Kenntnisse moderner Behandlungsmethoden
 wieder auffrischen zu können.«
 
-Diese Aeußerung entsprach so ganz Lady Gulbrars
+Diese Äußerung entsprach so ganz Lady Gulbrars
 oft etwas peinlicher Offenherzigkeit.
 
 Der Hausmeister wies uns dann unsere Gastzimmer
@@ -1131,7 +1131,7 @@ herum Platz genommen. Harst rauchte eine Zigarre. Lady
 Elisabeth desgleichen. Ich war mehr Zuhörerin, genoß
 daher doppelt Haralds phantasievolle Schilderungen gemeinsamer
 Jugenderlebnisse mit Lord Gulbrar. Alles,
-was Zeit und Oertlichkeit betraf, so allgemein gehalten, daß
+was Zeit und Örtlichkeit betraf, so allgemein gehalten, daß
 er sich nicht in Widersprüche verwickeln konnte. Es war
 fraglos eine unerhörte geistige Anstrengung, dergestalt jedes
 Wort vorher zu prüfen, ob es auch nicht Lady Gulbrar
@@ -1222,12 +1222,12 @@ fuhr dann fort:
 nicht mehr die Kraft, weiterzusprechen. Als er dann beerdigt
 war und als ich mir seine Beichte in Ruhe überlegte,
 kam ich auf Grund seiner früheren Andeutungen zu
-der Ueberzeugung, daß er den Inder heimlich beseitigt und
+der Überzeugung, daß er den Inder heimlich beseitigt und
 den Höhlentempel ausgeräumt hätte. Er hatte mir ja so
 und so oft gesagt: »Wenn die Welt je die Geschichte
 dieses Ringes erführe, wäre der Name Gulbrar für alle
 Zeit entehrt.« — Auch Aruwars Andeutungen haben diese
-Ueberzeugung in mir befestigt, obwohl mein Mann es
+Überzeugung in mir befestigt, obwohl mein Mann es
 wahrlich nicht nötig hatte, sich Reichtümer auf solche Art
 zu verschaffen. Doch — des Menschen Herz ist unergründlich.
 Jedenfalls: der Ring ist mir wie ein stetes —«
@@ -1289,7 +1289,7 @@ Aruwar lächelte ironisch. »Sie halten ihre Finger
 in dem Handschuh in anerkennenswerter Weise still. Die
 Hand sieht wirklich aus wie aus Holz geschnitzt.«
 
-Daß in dem langen weiten Aermel Haralds richtige
+Daß in dem langen weiten Ärmel Haralds richtige
 Hand verborgen war, hatte Aruwar also doch nicht
 bemerkt!
 

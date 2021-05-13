@@ -48,13 +48,13 @@ Und stutzen sofort.
 
 Das war ein alter, etwas gebückter Herr mit grauweißem
 Vollbart und silberweißem, welligem Scheitel, mit
-einer goldenen Brille auf der leicht gewölbten Nase...
+einer goldenen Brille auf der leicht gewölbten Nase ...
 
 Das war der Typ eines vornehmen Kaufmanns, war
 in nichts jener Baron, der im Havel-Hotel in Werder monokelbewaffnet
 mit nachlässiger Gleichgültigkeit die mitgebrachten
 Brötchen verzehrt hatte, für den die ganze Umgebung
-Luft gewesen...
+Luft gewesen ...
 
 »Irnstett,« stellte er sich vor, aus dem Sessel sich erhebend.
 Wir nahmen dann gleichfalls Platz.
@@ -66,7 +66,7 @@ denn er sagte in etwas kühlem Tone:
 
 »Allerdings, Herr Harst. Ich bin im Vertrauen auf
 Ihre Großmut zu Ihnen gekommen. Ich bin der Mann,
-der Sie und Ihren Freund heute in der Verkleidung des...«
+der Sie und Ihren Freund heute in der Verkleidung des ...«
 
 »Also Baron Irnhartstetten,« kürzte Harald diese Erklärung
 ab. »Weshalb diese Maske, Herr Baron?«
@@ -74,7 +74,7 @@ ab. »Weshalb diese Maske, Herr Baron?«
 »Weil — weil meine Gattin mir heute um sieben Uhr
 entführt worden ist.«
 
-Auch Harald konnte eine Bewegung der Ueberraschung
+Auch Harald konnte eine Bewegung der Überraschung
 nicht unterdrücken.
 
 Er schwieg eine Weile, stand dann auf und brachte Zigarren,
@@ -88,10 +88,10 @@ mir die Vorfälle der verflossenen Nacht nicht weiter nachtragen.«
 
 »Da haben Sie recht, Herr Baron. — Ihre Gattin ist die
 Dame, die bei Kießlacks das Fräulein von Schnetters
-spielte...«
+spielte ...«
 
 »Ja, es ist in Wahrheit Gwendolyn, geborene Kraker,
-Neuyork, einzige Tochter und Erbin von Auguch Kraker,
+Neuyork, einzige Tochter und Erbin von August Kraker,
 Konservenfabriken.«
 
 »Des Milliardärs, der im vorigen Jahre ertrank?«
@@ -99,7 +99,7 @@ Konservenfabriken.«
 »Ja.«
 
 »Dann hat Miß Kraker das Zeugnis für das angebliche
-Fräulein Schnetters sich selbst ausgestellt...«
+Fräulein Schnetters sich selbst ausgestellt ...«
 
 »Nein. Ella von Schnetters existiert. Es ist meine
 Stiefschwester, die tatsächlich Gesellschaftsdame bei Gwendolyn
@@ -119,12 +119,12 @@ Leichtsinn brachten mich mit 28 Jahren auf die schiefe
 Bahn. Mein Vater, seit Jahren völlig gelähmt, brauchte
 ständig eine Pflegerin. Meine Stiefschwester Ella, aus der
 zweiten Ehe meines Vaters, fristete selbst als Erzieherin
-nur jämmerlich ihr Leben. Vieles kam zusammen, um mich
-entgleisen zu lassen. Ich... ich nahm Bestechungsgelder
+nur kümmerlich ihr Leben. Vieles kam zusammen, um mich
+entgleisen zu lassen. Ich ... ich nahm Bestechungsgelder
 an und wurde disziplinarisch aus dem Dienst entfernt —
 für immer, ging nach Amerika, da mein Vater zur gleichen
 Zeit verstorben war, lernte durch Ella 1920 Gwendolyn
-Kraker kennen und wurde ihr... Chauffeur.«
+Kraker kennen und wurde ihr ... Chauffeur.«
 
 <@pagebreak/>
 Nach ein paar Zügen fuhr er fort, den Zigarrenrauch
@@ -136,7 +136,7 @@ ein, und ich war froh, einen so angenehmen Posten gefunden
 zu haben.«
 
 »Und dann verliebte sich Miß Kraker in Sie, Baron,
-und...«
+und ...«
 
 »So glatt ging das doch nicht, Herr Harst. Im Gegenteil,
 Sie werden bei meiner Liebesgeschichte als Detektiv
@@ -181,18 +181,18 @@ drauf waren wir heimlich verlobt und heirateten dann im
 Mai in aller Stille, kamen nach Deutschland und suchten
 hier eine mich schwer belastende Quittung, die ...«
 
-»Das wissen wir, Baron...«
+»Das wissen wir, Baron ...«
 
 »Ah — wohl durch Kießlack. Wissen Sie aber auch, daß
 Gwendolyn es dann war, die als Ella von Schnetters
-schließlich den Plan entwarf...«
+schließlich den Plan entwarf ...«
 
 »Auch das wissen wir. Die Piratenstreiche galten der
 Quittung.«
 
 »So, dann kann ich mich kürzer fassen, Herr Harst. Sie
 haben also über diese Freibeuterfahrten sich das Richtige
-zusammengereimt...«
+zusammengereimt ...«
 
 »Eine Frage: wer waren die drei anderen Piraten?«
 
@@ -205,7 +205,7 @@ Wir reisten zusammen mit Ella, Hugo von Berstel und
 dessen Frau hierher. Berstel versuchte, die Quittung zu stehlen.
 Wir konnten jedoch nicht herausbringen, wer sie in
 Verwahrung hatte. Da tat Gwendolyn, die sehr energischer
-Natur ist, ein Uebriges und ließ sich von Kießlacks als
+Natur ist, ein Übriges und ließ sich von Kießlacks als
 Gesellschafterin engagieren. Und sie war’s, die feststellte,
 daß die Quittung noch vorhanden war und daß einer der
 fünf sie stets bei sich trüge.«
@@ -213,12 +213,12 @@ fünf sie stets bei sich trüge.«
 <@pagebreak/>
 »Das bestätigt nur meine Vermutungen, Baron.«
 
-»Wir hatten die Beute der Ueberfälle im Kießlackschen
-Garten versteckt...«
+»Wir hatten die Beute der Überfälle im Kießlackschen
+Garten versteckt ...«
 
-»Und dort stahl sie Orgla...«
+»Und dort stahl sie Orgla ...«
 
-Jetzt war’s an Irnhartstetten hochzufahren.
+Jetzt war’s an Irnhartstetten, erstaunt hochzufahren.
 
 »Orgla?« meinte er zweifelnd.
 
@@ -226,15 +226,15 @@ Jetzt war’s an Irnhartstetten hochzufahren.
 Sie niederschlugen und mit Hilfe Ihrer Gattin in den Keller
 trugen. Bestimmt war es Orgla, der uns beide, Schraut
 und mich, dann überwältigte, die Beute im Keller verscharrte,
-wo wir sie fanden, und entfloh...«
+wo wir sie fanden, und entfloh ...«
 
-»So sind die Wertsachen wieder in...«
+»So sind die Wertsachen wieder in ...«
 
-»...in Kießlacks Besitz — sämtlich, bis auf Wurms
+»... in Kießlacks Besitz — sämtlich, bis auf Wurms
 Brieftasche.«
 
 »Und die hat jetzt der Entführer meiner Frau samt
-der verhängnisvollen Quittung im Besitz, Herr Harst...«
+der verhängnisvollen Quittung im Besitz, Herr Harst ...«
 
 »Berichten Sie genau, wie Ihre Gattin entführt wurde,
 Baron.«
@@ -243,12 +243,12 @@ Baron.«
 der Leine gegen halb fünf morgens den Garten des Palais
 durch eine Seitenpforte. Um unsere Verfolgung zu erschweren,
 trennten wir uns dann. Gwendolyn fuhr mit einem
-Auto nach dem Vorort Kohlhafenbrück, wo wir eine kleine
+Auto nach dem Vorort Kohlhasenbrück, wo wir eine kleine
 Villa gemietet hatten. Ich bestieg mit Nero und den Koffern
 ein anderes Auto, begab mich erst nach dem Anhalter
 Bahnhof, löste hier zum Schein eine Fahrkarte nach Dresden
-und fuhr dann erst, wieder auf Umwegen ebenfalls
-nach Kohlhafenbrück, wo ich Gwendolyn bereits vorzufinden
+und fuhr dann erst, wieder auf Umwegen, ebenfalls
+nach Kohlhasenbrück, wo ich Gwendolyn bereits vorzufinden
 hoffte. Aber — sie war nicht da! Sie kam auch nicht.
 Wir haben bis acht Uhr mit steigender Unruhe gewartet, wir,
 nämlich das Ehepaar Berstel, Ella und ich. Zehn Minuten
@@ -304,7 +304,7 @@ Platz, Nachricht geben solle.«
 
 »Nicht schlecht!« nickte Harald. »Herr von Berstel ist
 auf der Höhe. Trotzdem schlage ich etwas anderes vor.
-Schraut und ich werden uns in der Villa nach Kohlhafenbrück
+Schraut und ich werden uns in der Villa nach Kohlhasenbrück
 hinausbegeben und dort den Baron von Irnhartstetten
 und Berstel spielen. Trugen Sie beide dort Verkleidung?«
 
@@ -336,7 +336,7 @@ Um zwölf Uhr verließ zunächst der Baron unser Heim
 durch die Vorgartentür, dann wir durch den Gemüsegarten.
 Spione waren nicht vorhanden. So fuhren wir denn
 mit der Bahn bis Wannsee und gingen von da durch den
-Wald nach Kohlhafenbrück.
+Wald nach Kohlhasenbrück.
 
 Irnhartstetten hatte uns für die Köchin und das Stubenmädchen
 <@pagebreak/>
@@ -392,7 +392,7 @@ steckte ihn zu sich.
 sagte er ebenso leise.
 
 Dann trat das Stubenmädchen ein, — rothaarig, sommersprossig,
-mit kecken Augen...
+mit kecken Augen ...
 
 »Ich bin die Minna,« erklärte sie. »Soll ich auf der
 Veranda decken?«
@@ -402,9 +402,9 @@ Veranda decken?«
 »Und — und der Brief an Herrn Irnstett? Wie soll
 der nun dem Herrn zugestellt werden?«
 
-»Das besorgen wir schon, Minna...«
+»Das besorgen wir schon, Minna ...«
 
-Sie verschwand, Harald schaute ihr nach...
+Sie verschwand, Harald schaute ihr nach ...
 
 »Hm — wie gefällt sie Dir?«
 
@@ -440,7 +440,7 @@ Das Mädchen kam zurück.
 <@pagebreak/>
 Harst schenkte mir das Glas wieder voll und meinte:
 »Du, der Wein ist trinkbar.« Und zu der roten Minna: »Holen
-Sie noch zwei Gläser, bitte...«
+Sie noch zwei Gläser, bitte ...«
 
 Und wieder ging sie hinaus — etwas zögernd diesmal,
 wie mir’s schien.
@@ -451,16 +451,16 @@ trinken!«
 Und — sie trank wirklich nicht! — Harst hatte die beiden
 Gläser gefüllt und gesagt: »So, Minna, das ist für Sie und
 die Köchin. Bringen Sie der Köchin das Glas hinaus.
-Mit uns stoßen Sie aber mal auf Herrn Irnstett Wohl an.«
+Mit uns stoßen Sie aber mal auf Herrn Irnstetts Wohl an.«
 
 Und da hatte Minna gemeint, sie habe noch nie Wein
-probiert — noch nie... Sie... ekle sich vor Alkohol...
+probiert — noch nie ... Sie ... ekle sich vor Alkohol ...
 
 »Hole die Köchin,« befahl Harald mir.
 
 Die Köchin grinste. »Wie, die Minna ziert sich?! Aber
 Minna? Sie sind doch sonst nicht so! Gestern noch haben Sie
-den Rest aus der einen Flasche...!«
+den Rest aus der einen Flasche ...!«
 
 »Es ist gut, gehen Sie,« unterbrach Harst die ehrliche
 Dicke. »Minna wird trinken!«
@@ -469,14 +469,14 @@ Doch — wir hatten die rote Minna unterschätzt.
 
 Ehe wir’s uns versahen, war sie zum Fenster hinausgesprungen,
 lief zum Kanal, kettete dort ein Boot los, trieb
-es ans andere Ufer, lief in den Wald...
+es ans andere Ufer, lief in den Wald ...
 
 Harald war hinter ihr dreingelaufen, kam jedoch zu
 spät. — Dann nahm er die Köchin ins Verhör, deren Harmlosigkeit
 sich bald herausstellte.
 
 »Der Wein muß weggegossen werden,« sagte Harst nun.
-»Ich werde mir etwas davon in ein Fläschchen füllen.«
+»Ich werde nur etwas davon in ein Fläschchen füllen.«
 
 Nachher gingen wir in die Stube Minnas und fanden
 hier auf dem Tisch einen zerknitterten Streifen Papier, der
@@ -484,7 +484,7 @@ in einem Roman lag. Der schmale Zettel zeigte folgendes:
 Links einen Pfeil, dessen Spitze auf einen Vogel zeigte, der
 offenbar ein Adler sein sollte. Hinter dem Adler kam ein
 kleines deutsches s, dann eine Menge Bäume und Büsche,
-dahinter ein »er« und dann eine länglicher Kugel. — Das
+dahinter ein »er« und dann eine längliche Kugel. — Das
 <@pagebreak/>
 war alles. Die Zeichnungen waren mit Bleistift flüchtig
 hingeworfen. —
@@ -492,7 +492,7 @@ hingeworfen. —
 Minnas Zugehörigkeit zu den Entführern Frau Gwendolyns
 stand ja bereits durch den vergifteten Wein fest. (Dieser
 Wein war, wie sich später ergab, mit einem sehr starken
-Betäubungsmittel vermischt). Die Flucht der Rothaarigen
+Betäubungsmittel vermischt.) Die Flucht der Rothaarigen
 hatte ihr schlechtes Gewissen dann noch deutlicher bewiesen,
 und dieser merkwürdige Zettel verstärkte diese Beweise noch.
 
@@ -538,15 +538,15 @@ Mit fahlem Gesicht stierte der Baron auf diese eisigen
 Zeilen, die ihn für alle Zeit von seinem jungen Weibe
 trennten. Dann lachte er schrill auf. »Das ist also ihre
 große Liebe! Nun — sie soll von mir nicht mehr belästigt
-werden! Wenn sie so leicht glaubt, das irgend ein Schuft
-ihr...«
+werden! Wenn sie so leicht glaubt, was irgend ein Schuft
+ihr ...«
 
 »Halt — noch eine Bemerkung,« sagte Harald da. »Halten
 Sie den Brief bitte einmal gegen das Licht, Baron.«
 
-Irnhartstetten tat es...
+Irnhartstetten tat es ...
 
-»Da — da sind vier Löcher im Papier, Herr Harst...«
+»Da — da sind vier Löcher im Papier, Herr Harst ...«
 
 »Ja — winzige Löchlein — gerade unter vier Wörtern,
 und zwar unter den Wörtern.
@@ -573,7 +573,7 @@ um sieben Uhr zurück nach Blücherstraße 10 in Schmargendorf
 Gegen ein Viertel neun waren wir daheim. Harald
 rief sofort unseren Freund Kriminalkommissar Bechert an.
 
-»Bechert, Sie müssen mir einen Gefallen tun... Schicken
+»Bechert, Sie müssen mir einen Gefallen tun ... Schicken
 Sie doch ein paar Beamte sogleich nach der Blücherstraße
 und lassen Sie feststellen, ob unser Haus hier beobachtet
 <@pagebreak/>
@@ -583,12 +583,12 @@ ob Verdächtiges bemerkt worden ist. Wiedersehen.«
 
 Die dicke gemütliche Mathilde bat uns dann zum Abendbrot.
 Harsts Mutter ließ sich bei Tisch unsere Erlebnisse erzählen.
-Vor ihr hatten wir keine Geheimnisse. Wir unterschlagen
+Vor ihr hatten wir keine Geheimnisse. Wir unterschlugen
 ihr nur stets die gefährlichen Stadien unserer Abenteuer.
 Weshalb sollten wir sie unnötig ängstigen?! Sie
 sorgte sich ohnedies genug um ihren Einzigen.
 
-So bekam sie denn auch den schmalen Brief zu sehen,
+So bekam sie denn auch den schmalen Zettel zu sehen,
 — den Pfeil, den Adler und die Bäume und Büsche.
 
 »Was hältst Du davon, Harald,« fragte sie, den weißen
@@ -597,7 +597,7 @@ Kopf mit dem Spitzenhäubchen hin und her wiegend.
 »Es ist ohne Zweifel eine geheime Botschaft für die
 rothaarige Minna, liebe Mutter, — meines Erachtens eine
 Nachricht für sie, wohin sie sich wenden soll, sobald ihre
-Spionentätigkeit in der Villa in Kohlhafenbrück beendet ist, und
+Spionentätigkeit in der Villa in Kohlhasenbrück beendet ist, und
 zwar eine sehr vorsichtige Nachricht, eben als Rebus geschrieben.
 Der Pfeil deutet an, daß sie sich dorthin begeben soll,
 wo der Adler, das s, die Bäume und das »er« zu suchen
@@ -615,7 +615,7 @@ Wälder,« meinte Frau Harst sinnend.
 »Ja — leider. Der Zettel bedrückt mich, Mutter. Hätte
 ich ihn entziffert, wäre auch Frau Gwendolyn frei. Ich behaupte,
 die Leute Orglas haben sie dorthin geschafft — nach
-»Adler«, s, Wald, »er« und Ei.«!
+»Adler«, s, Wald, »er« und Ei.«
 
 »Und was mag Orgla mit ihr vorhaben?«
 
@@ -634,7 +634,7 @@ Verschwinden sich so lange kaum verheimlichen ließe.«
 
 »Dieser Gefahr wird Orgla schon zu begegnen wissen,
 liebe Mutter. Die Sache mit dem Scheck ist ja auch nur eine
-Annahme von mir...«
+Annahme von mir ...«
 
 Er sprach immer langsamer, schob plötzlich den Teller
 zur Seite und fügte hastig hinzu: »Ich werde sofort eine Depesche
@@ -680,7 +680,7 @@ machen Sie sich auf einen großartigen Fang bereit. Die
 Kosten trage ich. — Wiedersehen!«
 
 Wir gingen weiter. Kein Wunder, daß ich fragte:
-»Swinemünde?! Segeljacht! — Du hast den schmalen Zettel
+»Swinemünde?! Segeljacht?! — Du hast den schmalen Zettel
 entziffert?«
 
 »Ja — in der Post!« Er schob seinen Arm in den meinen.
@@ -718,7 +718,7 @@ die Rebuslösung habe ich!«
 Eisenbahnkarte von Deutschland. Ich schaute hin, und gerade
 <@pagebreak/>
 in Höhe meiner Augen sah ich da eine Insel südlich
-von Rügen, die Insel... Greifswalder Oie, gesprochen
+von Rügen, die Insel ... Greifswalder Oie, gesprochen
 »Oi«, also fast wie Ei. Der Adler auf dem Zettel ist eben
 ein Greif, dann folgt das s, also Greifs, dann der Wald
 und »er«, und schließlich das »Ei« — mithin Greifswalder
@@ -735,7 +735,7 @@ kahlen Inselchen sein muß!
 
 »Auf dieser Felseninsel nisten sich im Sommer immerhin
 einige Badegäste ein,« erklärte Harald weiter. »Wer
-zurückgezogen leben will, kann es dort bis zum Ueberdruß.
+zurückgezogen leben will, kann es dort bis zum Überdruß.
 Orgla mag die Insel für seine Zwecke recht geeignet gefunden
 haben. Da er ja eine Motorjacht zur Verfügung hat,
 ist ihm auch die Möglichkeit gegeben, Gwendolyn in aller
@@ -746,9 +746,9 @@ ganz harmlose Vergnügungssegler. Sollte von Mr. Bolton
 aus Neuyork eine Depesche für mich eintreffen, so depeschiere
 sofort den Inhalt in den vereinbarten Chiffren an
 Herrn Rentner Homann, Greifswalder Oie, postlagernd.
-Die Insel ist mit dem Festlande durch... einen Schraut
+Die Insel ist mit dem Festlande durch ... einen Schraut
 verbunden!!« Er zwinkerte mir zu. »Denn unser Max Schraut
-veröffentlicht unserer Erlebnisse ja unter dem Pseudonym
+veröffentlicht unsere Erlebnisse ja unter dem Pseudonym
 »Kabel«, und so’n Kupferkabel ist ja eine unterirdische oder
 unterseeische Telegraphenleitung.« —
 
@@ -777,17 +777,17 @@ Und heute lag nun wieder der Hafen von Swinemünde
 im Sonnenglast der Nachmittagsstunde vor uns. Frische
 Seeluft umwehte uns. Der Tourdampfer aus Stettin
 legte gerade an, Scharen geputzter Ausflügler krabbelten
-an Land...
+an Land ...
 
 Wir standen um vier Uhr dicht am Bollwerk und genossen
-all das mit stillem Behagen...
+all das mit stillem Behagen ...
 
-Bis mein Herr Gemahl mich leicht in den Arm kniff...
+Bis mein Herr Gemahl mich leicht in den Arm kniff ...
 
 »Da — eine Motorradlerin!«
 
 Und ich sah sie ebenfalls, die dunkelhaarige Frau in
-Pumphosen und mit Autobrille...
+Pumphosen und mit Autobrille ...
 
 Dunkelhaarig!! Und doch war es die rote Minna!!
 
@@ -816,7 +816,7 @@ rote Minna machte davor halt — nur Sekunden, reichte
 einen Zettel einem alten Schiffer zu, dessen Kopf — auch nur
 für Sekunden, in einem großen Loch des Stammes sichtbar
 wurde. Und sie schritt weiter, als ob sie nur einen harmlosen
-Spaziergang machte...
+Spaziergang machte ...
 
 »Du folgst ihr,« sagte Harald rasch. »Wenn möglich,
 sollen Becherts Beamte sie aufs Korn nehmen. Wir treffen
@@ -835,7 +835,7 @@ Wir ließen seine beiden Beamten die rote Minna suchen.
 Wir suchten selbst. Als Harst sich bis sieben Uhr im
 Deutschen Haus nicht wieder eingestellt hatte, wurden wir
 unruhig. Schließlich begaben wir uns in den Dünenwald,
-fanden die Eiche...
+fanden die Eiche ...
 
 Und auf dem Fußweg fiel mir nun sofort die Spur eines
 zweiräderigen Handwagens auf, die vorher nicht vorhanden
@@ -882,7 +882,7 @@ um mit der Bedienung der Gudrun fertig zu werden.
 
 Wer sich ein richtiges Bild von der Vielseitigkeit
 verbrecherischer Intelligenz machen will, muß Spezialwerke lesen
-wie zum Beispiel das von Erich Wulfsen »Gauner- und
+wie zum Beispiel das von Erich Wulffen »Gauner- und
 Verbrechertypen.«
 
 Die verbrecherische Phantasie ist ja weit reicher an geistvollen
@@ -909,7 +909,7 @@ Als ich wieder an Deck kam, sagte Bechert:
 
 »Wir hätten doch besser jemandem anvertrauen sollen,
 wohin die Reise geht. Wir sind etwas übereilt davongefahren.
-Wenn auch uns beiden etwas zustößt, wird man...«
+Wenn auch uns beiden etwas zustößt, wird man ...«
 
 »Uns?! Aber Bechert! Wir werden eben vorsichtiger
 als vorsichtig sein!«
@@ -947,8 +947,8 @@ Häuschen — dem Fischerhafen, duckten uns hinter einer
 Bretterbude zusammen, sahen drei Jachten im Hafen neben
 den schwarz geteerten Kuttern liegen, hörten von der einen
 Jacht her Harmonikaklänge, sahen an Deck Gestalten, leuchtend
-weiße Kleider von Damen... Frohes Lachen, Walzertakte,
-eine Frauenstimme, die den grellen Schlager sang.
+weiße Kleider von Damen ... Frohes Lachen, Walzertakte,
+eine Frauenstimme, die den neuesten Schlager sang.
 
 Das war Sommernacht, Erholungszeit. Das waren
 Ausflügler von irgend woher, vielleicht Berliner, vielleicht
@@ -963,12 +963,12 @@ ein Herr, kamen Arm in Arm an uns vorüber, sahen uns
 nicht. Die Wärme der Julinacht hatte ihre Herzen mit
 Liebessehnsucht erfüllt. Sie wollten allein sein. Sie blieben
 oft stehen und küßten sich. Der Herr war unheimlich dürr
-und lang und von einer affenartiger Beweglichkeit...
+und lang und von einer affenartigen Beweglichkeit ...
 
-Bechert starrte dem Paare nach...
+Bechert starrte dem Paare nach ...
 
 »Den Langen sollte ich kennen,« murmelte er. »Man
-lernt so viele Leute, so sehr viele... — Ah — jetzt hab’
+lernt so viele Leute, so sehr viele ... — Ah — jetzt hab’
 ich’s! Los, Schraut, den dürfen wir ansprechen. Der ist
 verschwiegen. Es ist Tom Tompsen, der Manegenklown
 aus dem Zirkus Busch, mit bürgerlichem Namen Fritz Schäfer.«
@@ -989,15 +989,15 @@ Bechert aus Berlin! Sie besinnen sich wohl! Damals
 bei der Aushebung der Spielhölle in der Motzstraße.
 — Und das hier ist Herr Schraut, der Freund Harald Harsts.
 — Der Dame sagen Sie, wir seien Berliner Sommergäste,
-die hier wohnen...«
+die hier wohnen ...«
 
-»Verstehe schon, Herr Bechert...« Er wurde etwas
+»Verstehe schon, Herr Bechert ...« Er wurde etwas
 liebenswürdiger.
 
 »Wie lange sind Sie schon hier?« begann Bechert das
 Verhör.
 
-»Seit gestern Mittag. Die Jacht gehört dem Fabrikbesitzer
+»Seit gestern mittag. Die Jacht gehört dem Fabrikbesitzer
 Lorch, der noch vor zwei Jahren Billetthändler war.
 Morgen fahren wir nach Rügen. Fidele Gesellschaft an Bord.
 Ein bißchen eng, aber gemütlich.«
@@ -1008,7 +1008,7 @@ Jacht hier?«
 »Nein. Bestimmt nicht. Die beiden, die noch im Hafen
 liegen, waren schon vor uns da.«
 
-Wieder also eine Enttäuschung...!
+Wieder also eine Enttäuschung ...!
 
 »Haben Sie sich auf der Insel genauer umgesehen, Herr
 Tompsen? Sind viel Badegäste hier?«
@@ -1017,7 +1017,7 @@ Tompsen? Sind viel Badegäste hier?«
 Na, da braucht man doch bloß einmal kehrt zu
 machen, dann hat man die Insel mit allen Herrlichkeiten
 überblickt. Hier möchte ich nicht mal bejraben werden! Nur
-die Flundern sind jut.« Er kam in Laune...
+die Flundern sind jut.« Er kam in Laune ...
 
 »Die Badegäste wohnen alle bei den Fischern?«
 
@@ -1026,7 +1026,7 @@ Platz ist hier nicht. Eine einzige Privatsommervilla, Blockhaus,
 steht da nach Süden zu. Jetzt hat eine Filmgesellschaft
 sie gemietet, die hier Aufnahmen macht — irgend ein Sensationsstück.
 Die Badegäste und Fischer helfen mit — Statisten
-— Komparserie...«
+— Komparserie ...«
 
 Bechert und ich dachten jetzt wohl genau dasselbe: wo
 und wie sollte man hier Menschen verbergen und gefangen
@@ -1037,23 +1037,23 @@ halten?! Einfach ausgeschlossen!
 mahnte Bechert nochmals.
 
 »Selbstredend! Mein Süßing da ist auch gar nicht neugierig.
-Die hat zehn Glas Sekt inne. ’n Abend, die
-Herren...«
+Die hat zehn Glas Sekt intus. ’n Abend, die
+Herren ...«
 
 Und als er mit Süßing am Arm abzog, rief er noch —
-sehr schlau: »Erholen Sie sich gut, Herr Müller...! Grüßen
+sehr schlau: »Erholen Sie sich gut, Herr Müller ...! Grüßen
 Sie Frau und Kinder!«
 
 Bechert winkte ihm mit der Hand zu.
 
-Und sagte ziemlich kläglich: »Wenn ihr beide, lieber
+Und sagte ziemlich kläglich: »Wenn Ihr beide, lieber
 Schraut, nur nicht auf dem Holzwege seid, was diese Insel
 anbetrifft! Vielleicht hat die rote Minna auch nur den Zettel
 mit dem Rebus »Greifswalder Oie« in das Buch gelegt,
 damit Ihr auf eine falsche Spur gelenkt würdet!«
 
 Als er dies kaum ausgesprochen hatte, ließ ich ihn stehen
-und rannte dem Paare nach...
+und rannte dem Paare nach ...
 
 »Herr Tompsen — Herr Tompsen, eine Frage noch!«
 
@@ -1108,64 +1108,64 @@ schon auf der Treppe war, stehen blieb und mir zurief:
 »Teufel, das ist ja der reine Massenauftrieb oben am
 Ufer! Was bedeutet das?!«
 
-Ich war sofort neben ihm...
+Ich war sofort neben ihm ...
 
 Am Nordufer der Bucht, etwa hundert Schritt entfernt,
 standen Badegäste, Fischer, Fischerweiber und die gesamte
-Jugend der Insel...
+Jugend der Insel ...
 
 Und hart am Wasser, keine zwanzig Meter entfernt,
 stand ein Mann mit einem Kinoaufnahmeapparat, dessen
 Objektiv auf die Gudrun gerichtet war.
 
 Jetzt hatten die Zuschauer uns bemerkt. Ein wüstes
-Gejohl erhob sich...
+Gejohl erhob sich ...
 
 Doch der Kinooperateur winkte, drohte, — und der
-Lärm ließ nach...
+Lärm ließ nach ...
 
 Dann kamen von rechts vier Männer gelaufen, im
 Kostüm der Seeräuber aus der Zeit der berüchtigten Korsaren,
 rote Schärpen um die Hüften, Pistolen im Gürtel, —
-aber in der Hand moderne Repetierwaffen...
+aber in der Hand moderne Repetierwaffen ...
 
 <@pagebreak/>
-Kamen, sprangen im Nu an Bord...
+Kamen, sprangen im Nu an Bord ...
 
 Ich sah noch, wie der Kinooperateur die Kurbel drehte,
-wie die Zuschauer die Hälse reckten...
+wie die Zuschauer die Hälse reckten ...
 
 »Sind Sie verrückt!« brüllte Bechert die Kinobanditen
-an. »Lassen Sie gefälligst den Unfug! Ich...«
+an. »Lassen Sie gefälligst den Unfug! Ich ...«
 
 Da hatte der eine ihm schon blitzschnell mit einem
 Sandsack in Keulenform einen Hieb über den Schädel versetzt.
 Da hatte ich trotz des vorgeklebten schwarzen Bartes
-in einem der Schufte... die rote Minna erkannt — war
+in einem der Schufte ... die rote Minna erkannt — war
 zurückgesprungen, ließ mich rückwärts über Bord fallen,
 schwamm dem Südufer zu.
 
-Schüsse knallten hinter mir drein...
+Schüsse knallten hinter mir drein ...
 
-Keine harmlosen Kino-Schüsse...!!
+Keine harmlosen Kino-Schüsse ...!!
 
-Kugeln pfiffen mir um die Ohren...
+Kugeln pfiffen mir um die Ohren ...
 
 Und jemand brüllte: »Kehren Sie um! Sofort!!«
 
 Da — wieder das unangenehme Singen einer Kugel
-dicht an meinem Ohr...
+dicht an meinem Ohr ...
 
 Dann flog mir eine Schlinge über den Kopf, wurde
 zugezogen. Halb erwürgt hißte man mich an Deck der Jacht.
 Im Nu war ich gebunden, geknebelt, wurde an Land geschleppt.
 Und der Mann am Kinoapparat drehte — drehte
-zum Schein...!!
+zum Schein ...!!
 
 So wurden Bechert und ich am hellen Tage nach der
 Blockhausvilla gebracht — als Kinoschauspieler — als Menschen,
 um die niemand sich mehr kümmerte, nachdem die angebliche
-Aufnahme des Ueberfalls auf die Jacht vorüber war.
+Aufnahme des Überfalls auf die Jacht vorüber war.
 
 <h2>5. Kapitel.</h2>
 <h3>Hände hoch!</h3>
@@ -1190,7 +1190,7 @@ nichts als eine Attrappe war, wie sich später zeigte,
 hatten bisher geschwiegen.
 
 Jetzt entfernte der eine den falschen Bart und die dicken
-angeklebten Augenbrauen...
+angeklebten Augenbrauen ...
 
 Es war Alfred Orgla.
 
@@ -1219,7 +1219,7 @@ sollten, daß diese hier gefangengehalten werden, — da
 schließlich dieses Haus für den ganzen Sommer gemietet ist
 und noch seine besonderen Geheimnisse hat, werden Sie drei
 <@pagebreak/>
-hier einige Wochen ohne jede Gefahr für uns festgelegt werden,
+hier einige Wochen ohne jede Gefahr für uns festgesetzt werden,
 bis wir das von Frau Gwendolyn erreicht haben, was
 wir bereits eingeleitet und so vorbereitet haben, daß ein
 Fehlschlag jetzt so gut wie ausgeschlossen ist.«
@@ -1271,7 +1271,7 @@ gewahrte — neben einem dritten Korbsessel auch, in dem
 Frau Gwendolyn Irnhartstetten blaß und erschöpft, aber
 ungefesselt saß. Noch mehr sah ich. Da waren aus alten
 Segeln zwei Zelte errichtet. Da war ein eiserner Herd, Kochtöpfe,
-ein paar Kisten... Und die Kerle stellten nun auch
+ein paar Kisten ... Und die Kerle stellten nun auch
 mich neben meine Leidensgefährten.
 
 Orgla wandte sich an Harald. »Herr Harst, eine Flucht
@@ -1288,25 +1288,25 @@ Herr Harst, so sehr zu Herzen genommen, daß sie nach ihrem
 letzten Streich diese Villa mietete und mit mir hier eine
 Büßerkomödie beginnen wollte. Jane und ich sind daher
 stark aneinander geraten, zumal sie auf meine kleine Freundin
-da...« er lachte die rote Minna lüstern an — »lächerlich
+da ...« er lachte die rote Minna lüstern an — »lächerlich
 eifersüchtig wurde. Jane ist daher auch seit vier Tagen
 vorn im sogenannten Kartoffelkeller eingesperrt worden.
-Alles andere mag sie Ihnen selbst erzählen...«
+Alles andere mag sie Ihnen selbst erzählen ...«
 
 Ich hatte auf Orglas letzte Sätze kaum mehr recht hingehört.
 Ich saß so, daß ich die Höhle nach Osten zu entlangblicken
 konnte, während Orgla und seine Kreaturen
-mit dem Rücken nach dorthin standen...
+mit dem Rücken nach dorthin standen ...
 
 Und — ich hatte in der schwarzen Finsternis soeben
 ein paar grelle Lichtblitze bemerkt wie von Taschenlampen,
-die nur für Sekunden eingeschaltet waren...
+die nur für Sekunden eingeschaltet waren ...
 
 Und nun etwas wie menschliche Gestalten, herauswachsend
 <@pagebreak/>
 aus dem Dunkel — — Männergestalten — deutlicher
 werdend — — ein ganzer Trupp lautlos herbeihuschender
-Retter...
+Retter ...
 
 Und jetzt urplötzlich eine Männerstimme, die gewohnt
 war, den weiten Raum des Zirkus Busch mit derben
@@ -1315,10 +1315,10 @@ gehörte:
 
 »Hände hoch, Lumpengesindel!! Hände hoch!!«
 
-Laternen, Taschenlampen strahlten auf...
+Laternen, Taschenlampen strahlten auf ...
 
 Orgla und Konsorten schnellten herum, starrten in
-Revolvermündungen, in die schwarzen Löcher von Jagdflinten...
+Revolvermündungen, in die schwarzen Löcher von Jagdflinten ...
 
 »Gesindel!!« brüllte Tompsen. »Wer nur einen Finger
 rührt, wird zum Sieb! Ihr habt vorbeispekuliert!! Als
@@ -1329,8 +1329,8 @@ zusammen! — Hände hoch, sonst knallt’s!!«
 Derbe Fischerfäuste packten zu. Im Nu war Orgla und
 Begleitung gebunden, im Nu waren wir frei.
 
-Harst winkte mir... Wir drückten uns heimlich, eilten
-davon... Nachher war Jane Brack nirgends zu finden.
+Harst winkte mir. Wir drückten uns heimlich, eilten
+davon ... Nachher war Jane Brack nirgends zu finden. —
 
 Aber — die verhängnisvolle Quittung fanden wir, und
 Gwendolyn verbrannte sie eigenhändig.
@@ -1345,7 +1345,7 @@ wert — an sich bringen wollen!
 
 Daraus wurde nun nichts. Heute und noch für Jahre
 sitzt Orgla im Zuchthaus und näht Pantoffeln, eine friedfertige
-Beschäftigung, die ihn hoffentlich bessern wird.
+Beschäftigung, die ihn hoffentlich bessern wird. —
 
 Nächster Band:
 
