@@ -5,27 +5,27 @@
 <h2>1. Kapitel.</h2>
 <h3>Der Verwandlungskünstler.</h3>
 
-Am 6. Mal, wo ich die Geschichte des Mannes mit dem
+Am 6. Mai, wo ich die Geschichte des Mannes mit dem
 Glasauge beginnen lasse, wanderten wir beide, Harald und
 ich, von unserem Heim zu Fuß nach Dahlem hinaus, um
-jung allein dort im Hause des Banknotensälschers Simpson
+uns allein dort im Hause des Banknotenfälschers Simpson
 umzusehen.
 
 Der Leser kennt Simpsons Haus: ein in einem Garten
 gelegenes, einsames, sehr altes Gebäude, — verwahrlost,
-Überfallen, ungemütlich. Nur die Vorhalle und ein paar
+verfallen, ungemütlich. Nur die Vorhalle und ein paar
 Zimmer im ersten Stock waren möbliert.
 
-ir schlossen die große schwere Haustür auf.
+wir schlossen die große schwere Haustür auf.
 
-war jetzt zehn Uhr — zehn Uhr vormittags am
+Es war jetzt zehn Uhr — zehn Uhr vormittags am
 6\. Mai.
 
 Aber kein Maitag war’s.
 
 Nein — ein wütender Sturm strich über die Felder hin
 und traf die alten Kastanien, Buchen und Obstbäume des
-Gartens mit voller Kraft, so daß sie Achten und stöhnten
+Gartens mit voller Kraft, so daß sie ächzten und stöhnten
 und ein paar Zweige immer wieder taktmäßig gegen die
 neue Zinkblechrinne des Daches schlugen, die der Professor
 (er trug diesen Titel mit Recht und war einer der bekanntesten
@@ -34,38 +34,38 @@ Radiostation benutzt Hatte
 
 Diese blechernen Töne, die sich von der Rinne in die
 <@pagebreak/>
-Abflußrohre fortfegten, begleiteten und Die Treppe In den
+Abflußrohre fortsetzten, begleiteten uns Die Treppe In den
 Keller hinab, bis sie dann leiser und leiser wurden
 
-Der Keller war sehr ausgcedehnt, hatte sechs verschiedene
-Schaffe, die jedoch sämtlich leer waren
+Der Keller war sehr ausgedehnt, hatte sechs verschiedene
+Gelasse, die jedoch sämtlich leer waren
 
 Aus dem einen dieser Raume führte eine sehr schlau
-versteckte Holztür, die mit Mörtel bewerten und daher von
-der Kellerwand kaum zu unterscheiden war, in einen gen
-en Gang und durch diesen in die geheime Kuntiprud-tation.
+versteckte Holztür, die mit Mörtel beworfen und daher von
+der Kellerwand kaum zu unterscheiden war, in einen gemauerten
+Gang und durch diesen in die geheime Funkspruchstation.
 
 Harald hatte die Holztür sehr leise geöffnet, genau so,
-wie wir überhaupt jedes Überflüssige Gerauscht vermachen
+wie wir überhaupt jedes überflüssige Geräusch vermieden
 hatten.
 
 Ebenso leise schritten wir den kurzen Gang hinab und
 bogen nun nach rechts ab, wo dieser sich zu einem niederen
-Gewölbe von vier Meter Im Quadrat erweiterte. Tief war
-Edward Empfang Funkiprucl Station
+Gewölbe von vier Meter Im Quadrat erweiterte. Dies war
+Edward Simpsons Funkspruchstation.
 
-Daß war Du Klick jedes Gerauscht vermieden hatten. bestieg
-uns die Tatsache, daß wir hier nun Omen Fremden
-überraschten, der mit dem müden nach der Türöffnung kopiert
-standen und sich das nun leere große Varmorfcaltbrett an
+Daß wir wirklich jedes Geräusch vermieden hatten, bewies
+uns die Tatsache, daß wir hier nun einen Fremden
+überraschten, der mit dem Rücken nach der Türöffnung dagestanden
+und sich das nun leere große Marmorschaltbrett an
 der einen Wand angesehen hatte
 
 Harsts Anruf ließ den jungen Menschen herumschnellen.
 
-Es war ein Mann von vielleicht! 25 Jahren, gut gekleidet,
-mit dunklem Schnurrbart und etwas fkünstlermäßig
-langem Haar, das unter dem hellen weichen Filzhut hervor-quellend
-die Ehren bald bedeckte
+Es war ein Mann von vielleicht 25 Jahren, gut gekleidet,
+mit dunklem Schnurrbart und etwas künstlermäßig
+langem Haar, das unter dem hellen weichen Filzhut hervorquellend
+die Ohren halb bedeckte
 
 Der Lichtschein unserer beiden Taschenlampen lag voll
 auf dem Unbekannten, der jetzt nach dem ersten leisen Schreck
@@ -75,150 +75,150 @@ höflich Den Hut zog und mit angenehmer Stimme sagte:
 mich hergetrieben«
 
 Er sprach das Deutsche wie ein Engländer mit fremdem
-Anklang. Und gerade Dieb machte ihn verdächtig.
+Anklang. Und gerade dies machte ihn verdächtig.
 
-Harald betrachtete den Mann, dessen sympa: hierbei Gesicht
+Harald betrachtete den Mann, dessen sympathisches Gesicht
 nur durch das stark schielende linke Auge entstellt wurde,
 daher auch sehr mißtrauisch.
 
 <@pagebreak/>
-»Kommen Ehe nicht nach oben,« befahl er kurz.
+»Kommen Sie mit nach oben,« befahl er kurz.
 
-Je Ehrlichen hin Trennt
+Wir verließen den Keller.
 
-Treu Im einen Stock in denselben Balkonzimmer, das
-uns 1emerzeit des probiere nähere Bekannt Saft vermittelt
-hatte ja! en wir uns bin Geliefert sodann bei Tagceslich1 an.
+Oben Im ersten Stock in demselben Balkonzimmer, das
+uns seinerzeit des Professors nähere Bekanntschaft vermittelt
+hatte, sahen wir uns den Schielenden dann bei Tageslicht an.
 
-Harst deutete auf einen Ohr
+Harst deutete auf einen Stuhl.
 
-»Scheu Sie sich« Tue klang recht streng. »Wie sind
-Sie in das Haus hinstrich.1iang17» fragte er dann nicht
-Wunder ernst
+»Setzen Sie sich.« Das klang recht streng. »Wie sind
+Sie in das Haus hineingelangt?« fragte er dann nicht
+minder ernst
 
-»durch die Hintertür mein Herr Sie stand weit offen.«
+»durch die Hintertür, mein Herr. Sie stand weit offen.«
 
-»oho Das ist alerdingso mierfwürdig!«
+»So?! Das ist alilerdings merkwürdig!«
 
-»Vielleicht Doch nicht.«.Pflanze Der fremde bamılo«.
-»Dar! ich zshyuen berichten, weshalb ich hier eingedrungen
-bin«
+»Vielleicht Doch nicht,« erklärte Der Fremde harmlos.
+»Darf ich Ihnen berichten, weshalb ich hier eingedrungen
+bin?«
 
 »Bitte!«
 
-„«zunächst eine Frage,« sagte der junge Mensch darauf
-In sprach sei! sitzen u! Eiern Tone »Die Hirten Hund Polierte
-Beamte in«h1 wahr?«
+»zunächst eine Frage,« sagte der junge Mensch darauf
+In etwas selbstbewußterem Tone. »Die Herren sind Polizeibeamte
+nicht wahr?«
 
-»Gen,« erklärte Harald etwas zerstreut Wir schien’s,
-als ob een angestrengt gut ein paar Geräusche im Hause
+»Nein,« erklärte Harald etwas zerstreut. Mir schien’s,
+als ob er angestrengt auf ein paar Geräusche im Hause
 lauschte, die trotz der tosenden Sinfonie des Sturmes auch
-an nein Uhr gedrungen waren.
+an mein Ohr gedrungen waren.
 
-»Wir sind Y rivaipersonen« fügte er hinzu, und in sein
-Gesicht. trat jener tat) wieder verschwindende Ausdruck
-abließ, Co, eher Sinneskonzentration. der mir klar bewies, daß
-hier in allernächster Jähe irgend entzog nicht in Wohnung
-sei
+»Wir sind Privatpersonen,« fügte er hinzu, und in sein
+Gesicht trat jener rasch wieder verschwindende Ausdruck
+allerhöchster Sinneskonzentration, der mir klar bewies, daß
+hier in allernächster Nähe irgend etwas nicht in Ordnung
+sei ...
 
-»Ah — Privatpersonen« meinte der Fremde darauf
-verwundert. »Und - mit welchem Recht verlangten Sie
-vorhin von mir Liede und Antwort auf«
+»Ah — Privatpersonen!« meinte der Fremde darauf
+verwundert. »Und — mit welchem Recht verlangten Sie
+vorhin von mir Rede und Antwort auf —«
 
-Er el wies. las Streiften einer rostigen Türangel
-hier oben Im seine hohe ihn aushorchen lassen
+Er schwieg. Das Kreischen einer rostigen Türangel
+hier oben Im Flur hatte ihn aufhorchen lassen
 
-Harald erhob sich sah »Bleiben Sie eigen!« befahl er
-flüsternd Dem jungen Manne Und zu mir »Du gibst auf
+Harald erhob sich jäh. »Bleiben Sie sitzen!« befahl er
+flüsternd Dem jungen Manne. Und zu mir: »Du gibst auf
 ihn acht!«
 
 Er tat zwei leise Schritte nach der Zimmertür hin,
 <@pagebreak/>
-drehte sich nochmals um: »Ab bin Harald prallt"« 110
-das galt dem Fremden. »Und Eber und Cnulanoert,
-vielleicht ein sehr außer Bespannter Professor 2 muten-!
-Wagen Sie nicht zu fliehen. Ich) hohe bares mehr gesehen
-als Sie denken!« und weiter strich er zur Tür
+drehte sich nochmals um: »Ich bin Harald Harst!« — und
+das galt dem Fremden. »Und Sie — sind Engländer,
+vielleicht ein — sehr guter Bekannter Professor Simpsons!
+Wagen Sie nicht zu fliehen. Ich habe bereits mehr gesehen
+als Sie denken!« Und weiter schlich er zur Tür
 
-Im selben Pyrmont vdertimfelte sich das Zimmer Co
-pechschwarze ungeheure Negenwolfke zog über den Himmel
-weg, vorn Winde vonvärlsgeirtieben. ihren Inhalt Im einem
-sintslutäbnliclen Guß entladend
+Im selben Moment verdunkelte sich das Zimmer. Eine
+pechschwarze ungeheure Regenwolke zog über den Himmel
+weg, vom Winde vorwärtsgetrieben, ihren Inhalt in einem
+sintflutähnlichen Guß entladend
 
-Wenn man einen falten Stationen im behaglichen
-Heim erlebt, fühlt man nichts anderes als das wollige Empfinden
-des Geborgenscins.
+Wenn man einen solchen Platzregen im behaglichen
+Heim erlebt, fühlt man nichts anderes als das wohlige Empfinden
+des Geborgenseins.
 
-Hier dagegen hier in einem Hause, das sozusagen
+Hier dagegen — hier in einem Hause, das sozusagen
 angefüllt mit Geheimnissen war und das der Polizei und
-uns mancherlei zu raten gegeben hatte hier noch in (See
-fellfchaft dieses Fremden, der doch fraglos Acht ganz em-Wwanpdfrei
-sein konnte — hier wirkte diese ploisiche Germania
-der Himmelsschleusen und die ebenso plant!he Dämmerung
-im Zimmer aus mich derart erregend daß 1c mit einer halb
-unbewußten Bewegung nach der Schluüsseltasche des Veu-klcides
+uns mancherlei zu raten gegeben hatte — hier noch in
+Gesellschaft dieses Fremden, der doch fraglos nicht ganz einwandfrei
+sein konnte — hier wirkte diese plötzliche Öffnung
+der Himmelsschleusen und die ebenso plötzliche Dämmerung
+im Zimmer auf mich derart erregend, daß ich mit einer halb
+unbewußten Bewegung nach der Schlüsseltasche des Beinkleides
 griff
 
-Dort steckte die treue Clement, die Trösterin, die Mut-fpenderin,
+Dort steckte die treue Clement, die Trösterin, die Mutspenderin,
 das Beruhigungsmittel
 
-Der dem nie eine fühle Metallwaffe mit einem Nahmen
-mit neun blanken Patronen in die Hand sich schnarchte,
-der ahnt nicht. was Es bedeutet. eine solche neunschüssige
-»Lebensaverficherung« steig bereit zu haben
+Der, dem nie eine kühle Metallwaffe mit einem Rahmen
+mit neun blanken Patronen in die Hand sich schmiegte, —
+der ahnt nicht, was Es bedeutet, eine solche neunschüssige
+»Lebensversicherung« stets bereit zu haben
 
 Und ebenso unbewußt hatte ich da die Clement schon
 in der Hand.
 
 Harst hatte sich nicht gerührt. Ein schneller Blick zu
-(hm hin zeigte mir, daß er von der Tür wieder zuruktrat.
+ihm hin zeigte mir, daß er von der Tür wieder zurücktrat.
 
-Und als meine Augen nun wieder hinüberalitien zu
+Und als meine Augen nun wieder hinüberglitten zu
 dem jungen Menschen, als ich im Halbdunkel dieses wilden
-Naturkonzertes voll Sturm und Venen das Erreicht des
-Fremden musterte, da fuhr ich leicht zurück Da glaubte ich
-im ersten Moment an eine Sinnesltäuschung.
+Naturkonzertes voll Sturm und Regen das Gesicht des
+Fremden musterte, da fuhr ich leicht zurück. Da glaubte ich
+im ersten Moment an eine Sinnestäuschung.
 
 <@pagebreak/>
-Ein ganz anderer Mann saß mir auf dem Behäbigen
-Fahrstuhl gegenüber. Ein Mann mit grauem Vollbart,
+Ein ganz anderer Mann saß mir auf dem schäbigen
+Rohrstuhl gegenüber. Ein Mann mit grauem Vollbart,
 grauem Scheitel und einem alten, faltigen Gesicht.
 
-Ich — ich war so unendlich verblüfft, Daß ach den Mem
-schon wie entgacıftert anstarrte
+Ich — ich war so unendlich verblüfft, Daß ich den Menschen
+wie entgeistert anstarrte
 
-Und — noch mehr geschah. Die Tür öffnete sich, langsam.
-sehr langsam. Der Türdrücker hatte ein wenig zerquetscht.
+Und — noch mehr geschah. Die Tür öffnete sich, langsam,
+sehr langsam. Der Türdrücker hatte ein wenig gequietscht.
 Mein Blick flog hin.
 
 Da sprang Harst auch schon zu, packte den zerlumpten
-Menschen, einen alten, buckligen, sctanierigen Kerl, der auf
-dem Rücken einen Sah trug wie ein Ausläufer von Papier,
+Menschen, einen alten, buckligen, schmierigen Kerl, der auf
+dem Rücken einen Sack trug wie ein Aufkäufer von Papier,
 Knochen und so weiter.
 
-Und gleichzeitig hatte der scharfe Postamt die Wolle
-davongejagt. Die Sonne schien — schien ins Zimmer hing
-ein — so plötzlich, als hätte man einen draußen ausgestellten
-Scheinioerser eingeschaltet.
+Und gleichzeitig hatte der scharfe Westwind die Wolke
+davongejagt. Die Sonne schien — schien ins Zimmer hinein
+— so plötzlich, als hätte man einen draußen aufgestellten
+Scheinwerfer eingeschaltet.
 
-»Herr Professor,« sagte Harald sehr laut, »Ihre Ver-fleidungafünsle
-In Ehren, aber mich taucht man nicht so
-leicht!« Auch er hatte die Erinnert jetzt in der Hand, drückte
-die Tür mit dem Fuße zu, lehnte sich dagegen und gab Sinai
-Von frei.
+»Herr Professor,« sagte Harald sehr laut, »Ihre
+Verkleidungskünste In Ehren, aber mich täuscht man nicht so
+leicht!« Auch er hatte die Clement jetzt in der Hand, drückte
+die Tür mit dem Fuße zu, lehnte sich dagegen und gab Simpson
+frei.
 
 Ich — ich hätte den großen Verbrecher niemals erkannt.
-Nein — niemals! Denn Es stimmte: er war tadellos was
-Ziert! Dieses ich:unselige Gesicht mit der blauroten Nase, die
-ganz echt wirkte und die Neigung zu starken Getränken bete
-riet, — dieses Gesicht enthielt nichts von jener Intelligenz,
-die Simpsons Zügen so scharf ausgeprägt war. —
+Nein — niemals! Denn Es stimmte: er war tadellos maskiert!
+Dieses schmierige Gesicht mit der blauroten Nase, die
+ganz echt wirkte und die Neigung zu starken Getränken verriet,
+— dieses Gesicht enthielt nichts von jener Intelligenz,
+die Simpsons Zügen so scharf aufgeprägt war. —
 
 Simpson ließ sich auf einen Stuhl fallen.
 
-Spielte er Komödie? der war’s wirklich ein Schwaches
-Anfall! Mit einer hilflosen. bittenden Gelände nmıurnelte
-er jetzt »Haben Sie Mitleid mit mir, Herr Harst …«
+Spielte er Komödie? Oder war’s wirklich ein Schwächeanfall?!
+Mit einer hilflosen, bittenden Gelände murmelte
+er jetzt: »Haben Sie Mitleid mit mir, Herr Harst …«
 
 »Mitleid?!«
 
@@ -229,133 +229,132 @@ Sein Blick fiel da erst auf den jungen Menschen, auf
 den verblüffenden Verwandlungskünstler.
 
 <@pagebreak/>
-Und — leiser fuhr er fort, wir Tun halblauter Ausruf
-war è »Klo so so fachte Je 1«
+Und — leiser fuhr er fort, — wie ein halblauter Ausruf
+war’s: »Also so — so steht’s — So —!!«
 
-Stumpfen hatte den Je! abend zu tv überraschend maskierten
-Fremden bisher nicht! bist Nun solche er der
-Albums von Palaste merfwatidig Nebbaltenm Blick! Und
-musterte den jungen Menschen wie 1 sah erdvachieinn Werde
-trauen immer nickst
+Simpson hatte den jetzt gleich im Nu überraschend maskierten
+Fremden bisher nicht beachtet. Nun folgte er der
+Richtung von Haralds merkwürdig lebhaftem Blick. Und
+musterte den jungen Menschen wie in jäh erwachtem Mißtrauen
+immer wieder.
 
-bis Harsts Flinte Ordne flau (unter
+bis Harsts klare Stimme dazwischen tönte:
 
-»Herr trotziger Tun Sie Den Miuileiod verdienen, ist
-wohl 1eclbsivc1istandlich!«
+»Herr Professor, daß Sie kein Mitleid verdienen, ist
+wohl selbstverständlich!«
 
-Und fahl zur er an das eine Ri osti1n heran, erkannt ein
-Stü der Gardinenusa nur ab und wandle sich Sunmplon
+Und rasch trat er an das eine Fenster heran, schnitt ein
+Stück der Gardinenschnur ab und wandte sich Simpson
 wieder zu
 
-»Strecken Sie dar Sie nach hinten!«
+»Strecken Sie die Arme nach hinten!«
 
-Simpson fluchte vor nun anno
+Simpson keuchte vor Aufregung.
 
-Aber er Nr ob und Boot fesselte ihm nun
-die Hände gut hin Winden anno u verwahrt
+Aber — er gehorchte. Und Harald fesselte ihm nun
+die Hände auf dem Rücken und erklärte verächtlich:
 
-»Dir Mensch Der hin von Undank untere denk
-gen laut ist ein verging Je Kino nicke ihr reich Zoo ld
-auch somit en Yumv’ Er Daß viele Leute ins ll
-lc gestutzt, haben schwache Anstifters durch die Denkt der
-Verführung
+»Ein Mensch, der seine Mordtaten durch andere besorgen
+läßt, ist ein Feigling. Sie sind nicht nur feige, Sie sind
+auch sonst — ein Lump! Sie haben viele Leute ins Unglück
+gestürzt, haben schwache Naturen durch die Macht der
+Verführung ...«
 
-Und so hielt Harald zu neuem Erstaunen dem Bete
-Brecher all seine Ich antraten vor redete und redete, fand paar
-sein Ende
+Und so hielt Harald zu meinem Erstaunen dem Verbrecher
+all seine Schandtaten vor, redete und redete, fand gar
+kein Ende
 
-ich war erstaunt Wehr noch Ob Ergriff Damit
-nicht! Er der miemoalt am unteren Schwer nicht Blinder,
-einem Ccescheiterien derart ein Sundentemlter belegt ballte,
-er, der die Ansicht vertrat Dar ehe Yırdreder auf Der
-Grenze zwischen geistigem Opfert und voller roch. se
-Fähigkeit siehe, er, der seinem Wibiccher ein gen Willi
-befragte, dieser Mai war Am Vollkommen u« an Hl).
+Ja — ich war erstaunt. Mehr noch: ich begriff Harald
+nicht! Er, der niemals einem unserer Schmerzenskinder,
+einem Gescheiterten, derart ein Sündenregister verlesen hatte,
+er, der die Ansicht vertrat, daß jeder Verbrecher auf der
+Grenze zwischen geistigem Defekt und voller Zurechnungsfähigkeit
+stehe, er, der keinem Verbrecher ein gewisses Mitleid
+versagte, — dieser Harst war mir vollkommen unverständlich.
 
-Daß diese Vorfall schickt einen ccf haben mit bunte
-ich natürlich. Alte Es blaß mir umerhhndlch, mehren
-Zweck. Harsts Absichten (lud o nie leicht zu durchchauen.
+Daß diese Moralpredigt einen Zweck haben mußte, ahnte
+ich natürlich. Aber es blieb mir unerfindlich, *welchen*
+Zweck. Harsts Absichten sind ja nie leicht zu durchschauen.
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Der andere Fremde — ein Toter.</h3>
 
-Nun machte er Schluß mit seinen energischen vor
-Haltungen.
+Nun machte er Schluß mit seinen energischen Vorhaltungen.
 
-»Mein Freund Schraut wird jetzt die Polizei boten,«
-sagte er in weniger indringlichem Tone. »Ersparen Sie
+»Mein Freund Schraut wird jetzt die Polizei holen,«
+sagte er in weniger eindringlichem Tone. »Ersparen Sie
 sich jede Bitte, Simpson. Ich bin hart Ihnen gegenüber.«
-Und er Branche sich an den jungen Fremden, der jetzt einen
-artig nein so verblüffend glich)y »Auch Ihre 4 ertönt:Steif
-Wird dann Beginn steht werden Frech glaube, Dies dürfte nötig
-sein — &Ednmaut, bilde - telephoniere vom nächsten Hause
-die Polizeiwache Dahlem an. Du kannst in wenigen Wie
+Und er wandte sich an den jungen Fremden, der jetzt einem
+alten Herrn so verblüffend glich. »Auch Ihre Persönlichkeit
+Wird dann festgestellt werden. Ich glaube, Dies dürfte nötig
+sein — Schraut, bitte — telephoniere vom nächsten Hause
+die Polizeiwache Dahlem an. Du kannst in wenigen
 Minuten zurück sein!«
 
 Ich schob die Clement in die Tasche und entfernte mich.
-Beschleunigte meine Ich richte. Ich trabte fast.
+Beschleunigte meine Schritte. Ich trabte fast.
 
 Die Sonne schien noch immer. Aber dort am Horizont
-schob sich schon wieder eine sei Warze Wolkenbank heran
+schob sich schon wieder eine schwarze Wolkenbank heran
 
-Oh — wie ärmere ich auf, aha ich Da grünlich aus einer
-Nebenstras:e eine Yadfahrerpatrouille der Schutzpolizei aus
-tauchen sah.
+Oh — wie atmete ich auf, als ich Da plötzlich aus einer
+Nebenstraße eine Radfahrerpatrouille der Schutzpolizei auftauchen
+sah.
 
-Oh winkte — td) rief.
+Ich winkte — ich rief.
 
-Die beiden Aromen sausten heran.
+Die beiden Beamten sausten heran.
 
-Ich) teilte ihnen atemlos alles Nötige mit. Die Sie
-Erwähnung von Haralds Namen genügte. Wir drei also bin
-zu dem cinfamın Grundstück. durch das verfallene Tor der
-Gartenmauer in die Kastanienallce — bis zur Freitreppe —
-hinein In die Vorl’alle. Und nun nach oben in den ersten
-Stock. Ich voran, reiße die Tür aus — jenes Zimauers, das
+Ich teilte ihnen atemlos alles Nötige mit. Die
+Erwähnung von Haralds Namen genügte. Wir drei also hin
+zu dem einsamen Grundstück. durch das verfallene Tor der
+Gartenmauer in die Kastanienallee — bis zur Freitreppe —
+hinein In die Vorhalle. Und nun nach oben in den ersten
+Stock. Ich voran, reiße die Tür auf — jenes Zimmers, das
 <@pagebreak/>
-doch vor kaum vier Minuten noch die: Männer beherbergt
-hatte: Harst, Symptom und den Schlafenden.
+doch vor kaum vier Minuten noch drei Männer beherbergt
+hatte: Harst, Simpson und den Schielenden.
 
-Ich frage Leer, leer! Keine Seele!
+Ich stutzte: Leer, leer! Keine Seele!
 
-Dort der Sucht — dort halte der große Fälscher gen
-(essen. Dort auf den Dielen die gerecht:Kriegen Fesseln!
+Dort der Stuhl — dort hatte der große Fälscher gesessen.
+Dort auf den Dielen die zerschnittenen Fesseln!
 
-Und — sein Harst Nichts, nichts
+Und — kein Harst. Nichts, nichts
 
 Ich stand wie angewurzelt auf der Türschwelle. Ich
-(hauchte die beiden Beamten etwas verlegen an.
+schaute die beiden Beamten etwas verlegen an.
 
-»hier, hier ließ ich Harst mit den Luden zupackt,« sagte
-ich. Und überwand roh den Schreck eilte m5 Federn
-sinnen. Riecht, nie immer wieder »Harald, Harald"«
+»hier, hier ließ ich Harst mit den Leuten zurück,« sagte
+ich. Und — überwand rasch den Schreck, eilte ins Nebenzimmer.
+Rief, rief immer wieder: »Harald, Harald!«
 
-Die beiden Sclupobeanm1ien, slramme, anginge arge
+Die beiden Schupobeamten, stramme, prächtige junge
 Kerle, schüttelten den Kopf.
 
-»Wenn die Schufte Herrn Harst nur nicht eins aus-gewischt
-haben!« meinte der Tue
+»Wenn die Schufte Herrn Harst nur nicht eins ausgewischt
+haben!« meinte der eine.
 
-Wir durchsuchten die Schraube, durchsuchten alles, wo
-man einen Menschen versteckt haben Von einen! beinah.
-losen Mensch en, oder einen Toren nun Hast!
+Wir durchsuchten die Schränke, durchsuchten alles, wo
+man einen Menschen versteckt haben konnte, einen bewußtlosen
+Menschen, oder einen Toten — meinen Harst!
 
-Wir fanden n:bis. Wir fegten die Lacysunche um Erdgeschoß
-fort — wieder nicht:1s’ irr in den Keller tun …
+Wir fanden nichts. Wir setzten die Nachsuche um Erdgeschoß
+fort — Wieder nichts! — Nun in den Keller hinab.
 
-Ich öffnete die Scheumür nach Sumatras Radiostation.
-Die Beamten machten große Augen »sen ausgeknobelt!«
+Ich öffnete die Geheimtür nach Simpsons Radiostation.
+Die Beamten machten große Augen. »Fein ausgeknobelt!«
 meinte der eine ganz leise. — Aber auch hier keine Spur
 von Harald.
 
 Die beiden Schupoleute wurden jetzt ebenfalls erregt.
-Es handelte sich hier auch nicht! nur um den slcc brieflich verfolgten
-Verbrecher Simplen, sondern weit mehr um Harald
-Harst, eine so welibefanme Yrernöntichkeit, daß Beruft Das
-Verschwinden etwa des Schale von Persien kaum größere
-Sensation hervorgerufen hätte, als meines Freundes uners-flärlihes
+Es handelte sich hier auch nicht nur um den steckbrieflich
+verfolgten Verbrecher Simpson, sondern weit mehr um Harald
+Harst, eine so weltbekannte Persönlichkeit, daß selbst Das
+Verschwinden etwa des Schahs von Persien kaum größere
+Sensation hervorgerufen hätte, als meines Freundes unerklärliches
 Abhandenkommen aus diesem düsteren Gebäude
 innerhalb so kurzer Minuten.
 
@@ -363,56 +362,56 @@ innerhalb so kurzer Minuten.
 der Beamten nun. »Hier muß etwas passiert sein, Herr
 Schraut!«
 
-Wir eilten die Treppen hinan Wir stießen oben die
+Wir eilten die Treppen hinan. Wir stießen oben die
 <@pagebreak/>
-Türen auf und Namen in das am weitesten nach Osten sie
-klagende Vorderzunmer
+Türen auf und kamen in das am weitesten nach Osten liegende
+Vorderzimmer
 
-Die Sonne váuifrech sich, es wurde un wenigen Sekunden
-dunkel sich ruht Taommerung,.
+Die Sonne verkroch sich, es wurde in wenigen Sekunden
+dunkel — eine trübe Dämmerung.
 
-Und in diesem in teilten Wir eMvagd Hatten die
-elektrischen Geige 1 erregt is liest en die Lichtkegel
-gut der Gestalt der Treulosen vor! n der Ofenecke ruhen.
+Und in diesem Zimmer fanden wir etwas. Hatten die
+elektrischen Taschenlampen eingeschaltet, ließen die Lichtkegel
+auf der Gestalt des Menschen dort in der Ofenecke ruhen.
 
-Ein Scher’
+Ein — Toter!
 
-Nicht Hast« Nein ein Fremder Ein gutgekleideter
-Mann mit bartlosem, länglichen Gesicht, das tief gebräunt
-Schwur
+Nicht Harst! Nein, ein Fremder. Ein gutgekleideter
+Mann mit bartlosem, länglichem Gesicht, das tief gebräunt
+war.
 
 Wir standen und regten uns nicht.
 
-Etwas anderes rege ich Der Tote — der Tote hatte
-die Augenlider gehoben Er lag und Dem Nacken — auf
-den fluchen, - der Kopf aus Dir innersten Kienberfie.
+Etwas anderes regte sich. Der Tote — der Tote hatte
+die Augenlider gehoben. Er lag und Dem Rücken — auf
+den Dielen, — der Kopf aus Der untersten Ofenleiste.
 
-»Er lebt,« flüufterıe der er Beamte
+»Er lebt,« flüsterte der eine Beamte
 
-Ad bückte nach rohen
+Ich bückte mich schon.
 
-so bewerte Der Sie müde Die Lippen »Linkes, [irres
-Auge« lallte er offenbar an! 110! vier Anstrengung
+Da bewegte Der Fremde die Lippen. »Linkes, linkes
+Auge,« lallte er offenbar nur unter großer Anstrengung
 
-Und er benutzte Nr er da Betrog Sprach Nerv — er
-lispelte he Es Sehe, das Feiner Achte sich noch entrang, in
-engl’cher Sprach;e
+Und er benutzte auch die deutsche Sprach Nein — er
+lispelte dieses Letzte, das seiner Kehle sich noch entrang, in
+englischer Sprache
 
-Dann zeigte sich auch schon aus seinem (Besieh;treuer un-heinilitie
-Ausdruck coms ubirsänden Losgilostseins von
-allen Crdenqualen, bei so vorn Sterbenden eigen iﬀt
+Dann zeigte sich auch schon auf seinem Gesicht jener unheimliche
+Ausdruck eines überirdischen Losgelöstseins von
+allen Erdenqualen, der so vielen Sterbenden eigen ist.
 
-Er verschied. Er war Tor Dem Kap sank zur Seite.
+Er verschied. Er war tot. Der Kopf sank zur Seite.
 
-»Wir werden d’e Mordkommission benachrichtigen
-müssen Der Fremde ist kein! € maurischen Todes gacstorben,«
-sagte ich und beugte n ich wieder hinab zu dem Unoliuflichen,
-der Eiter in diesem veurusenen Bau nun ein so rätst Ende
+»Wir werden die Mordkommission benachrichtigen
+müssen. Der Fremde ist keines natürlichen Todes gestorben,«
+sagte ich und beugte mich wieder hinab zu dem Unglücklichen,
+der hier in diesem verrufenen Bau nun ein so jähes Ende
 gefunden
 
-Ich hatte ehren vorher auf ter linken Seite der Jacke
-des Mannes (der Gumnnimaun!!! stand weit offen) einen
-dunklen Fleck wahrgenommen Trink’
+Ich hatte schon vorher auf der linken Seite der Jacke
+des Mannes (der Gummimantel stand weit offen) einen
+dunklen Fleck wahrgenommen: Blut!
 
 Und ich schob nun Jacke und Weste zurück.
 
@@ -423,57 +422,58 @@ Oberhemd förmlich schwamm. —
 Zehn Minuten drauf waren bereits die ersten Kriminalbeamten
 zur Stelle.
 
-Ich hatte inzwischen das Haus und den Garten noch
-uralt allein durchsucht.
+Ich hatte inzwischen das Haus und den Garten nochmals
+allein durchsucht.
 
-Das Mensch: winden der drei Personen, dazu noch der
+Das Verschwinden der drei Personen, dazu noch der
 Tote oben im zweiten Stock, — all das war dunkel wie die
-finsterste Herktstnacht. — —
+finsterste Herbstnacht. — —
 
-Erst gegen drei Uhr nachmittag« machte ich mich dann
-auf den Grimmen nach unserer Blücherstraße.
+Erst gegen drei Uhr nachmittags machte ich mich dann
+auf den Heimweg nach unserer Blücherstraße.
 
-Allein — allein — — ohne Harst! Mich die ffriminals
-Polizei mit ihrem Veamtenstab hatte sein Licht in diese geheimnisvollen
-Geschehnisse Erbrecht. Der Mann oben im
-zweiten Stock war durch drei Dolchstiche roch Herz, die mit
-ungeheurer Kraft gesühnt waren, ermordet ımd fraglos vollständig
+Allein — allein — — ohne Harst! Auch die Kriminalpolizei
+mit ihrem Beamtenstab hatte kein Licht in diese
+geheimnisvollen Geschehnisse gebracht. Der Mann oben im
+zweiten Stock war durch drei Dolchstiche ins Herz, die mit
+ungeheurer Kraft geführt waren, ermordet und fraglos vollständig
 von dem Mörder ausgeplündert worden, denn In
-den Wateten dieses Fremden hatte man auch nicht den ältere
-unscheinbarsten Gegenstand gefunden.
+den Taschen dieses Fremden hatte man auch nicht den
+allerunscheinbarsten Gegenstand gefunden.
 
 Die Herren der Mordkommission hatten zu den von mir
-genau geschilderten Vorcoäneen nur die Köpfe geschüttelt.
-ich blieb dabei daß das alte Gelände unbedingt noch geheime
-Gelasse enthalten wüßte Anders — so betone ich —
-sei Harsts Abhandenkommen lüberlaupt nicht zu erklären, da
-er so den Garten nur nach den Reitern hin klärte verlassen
-können lud da in der Erde dort keinerlei Fußspuren zu entdecken
+genau geschilderten Vorgängen nur die Köpfe geschüttelt.
+ich blieb dabei, daß das alte Gebäude unbedingt noch geheime
+Gelasse enthalten müßte. Anders — so betonte ich —
+sei Harsts Abhandenkommen überhaupt nicht zu erklären, da
+er ja den Garten nur nach den Feldern hin hätte verlassen
+können und da in der Erde dort keinerlei Fußspuren zu entdecken
 seien. —
 
 Allein wanderte ich heim — allein.
 
-Und doch seine@vergl allzu stark beunruhigt, was die
+Und doch keineswegs allzu stark beunruhigt, was die
 Person meines Freundes anging.
 
-Ich hatte mir alles nochmals gründlich siberleat und
-wer dabei zu dem Ergebnis gelangt, daß, wenn Simpson
-und der Schielende etwa acmecinsam Harst überwältigt und
-erster hätten, unzweifelhaft dort im Zimmer des ersten
-es Anzeichen eines Kampfes vorhanden gewesen wären.
+Ich hatte mir alles nochmals gründlich überlegt und
+war dabei zu dem Ergebnis gelangt, daß, wenn Simpson
+und der Schielende etwa gemeinsam Harst überwältigt und
+getötet hätten, unzweifelhaft dort im Zimmer des ersten
+Stockes Anzeichen eines Kampfes vorhanden gewesen wären.
 <@pagebreak/>
-Ein Harald Harst läßt sich nicht so leicht Heimtückisch nieder-duiacn.
+Ein Harald Harst läßt sich nicht so leicht heimtückisch
+niederzwingen.
 
-Gerade weil sein Verschwinden so Überaus Geheimnis
-von wirkte und Feil noch der Nebenumstand des eine Treppe
-hörten besponnenen Mordes hinzukam (und dieser Mord
-schnurrte nur verübt sein, während die beiden Schupobeamten
+Gerade weil sein Verschwinden so Überaus geheimnisvoll
+wirkte und weil noch der Nebenumstand des eine Treppe
+höher begangenen Mordes hinzukam (und dieser Mord
+konnte nur verübt sein, während die beiden Schupobeamten
 und ich unten in den Kellern waren!), hielt ich für gewiß,
-daß Harald irgendwie Dinge während meiner kurzen Als
+daß Harald irgendwie Dinge während meiner kurzen
 Abwesenheit erlebt haben müßte, von denen ich mir auch nicht
 im entferntesten etwas träumen ließ.
 
-Kurz: Ich empfand weit mehr Spannung auf das, was
+Kurz: ich empfand weit mehr Spannung auf das, was
 folgen würde, als Besorgnis. Und — um es hier gleich
 anzudeuten: ich hatte richtig vermutet!
 
@@ -493,7 +493,7 @@ Den schlichen grauen Scheitel.
 Male, »Sie könnten sich doch unmöglich damit zufrieden geben,
 <@pagebreak/>
 daß mein Harald Ihrer Ansicht nach noch in dem alten
-Gebäude in irgendeinem Gehcimgelaß steckt!«
+Gebäude in irgendeinem Geheimgelaß steckt!«
 
 »Das will ich ja auch gar nicht,« erklärte ich jetzt fett
 bestimmt. Ich war soeben zu einem Entschluß gelangt
@@ -617,7 +617,7 @@ sie jetzt etwas ärgerlich. »Oh — Sie täuschen mich also!
 Die Beamten fasten mir doch, ich sollte mich nur an Sie
 wenden, Sie wären soeben erst weggegangen …«
 
-Hm — da war ich also der Hereingesallene!
+Hm — da war ich also der Hereingefallene!
 
 »Gut, ich war dort, Miß Grimly,« erklärte ich leichthin.
 »Eine Frage: ist Ihr Bruder schlank, Chinas über Mittelgröße,
@@ -679,7 +679,7 @@ bei ihr diese bis zu einer engen Lidspalte zugekniffenen
 Augen. Immer noch diese Bestürzung und Unsicherheit,
 Bis sie verlegen stammelte:
 
-»Herr Schraut — Herr Schraut, was bedeutet das? !«
+»Herr Schraut — Herr Schraut, was bedeutet das?!«
 
 Ein recht plumper Trick war’s von mir, daß ich Jetzt
 auf sie zutrat, und zwar so plötzlich, als beabsichtige ich einen
@@ -917,7 +917,7 @@ davon ab, die Nacht in Simpsons Haus zuzubringen. Ich
 warne Sie!« —
 
 Doch — was ich mir einmal vornehme, dabei bleibe ich
-auch. Ich bin in dieser Beziehung etwas dickköpsig.
+auch. Ich bin in dieser Beziehung etwas dickköpfig.
 
 So verständigte ich denn um sieben Uhr die Kriminalpolizei
 von meinem Vorhaben.
@@ -998,7 +998,7 @@ damals erschienen und auf uns zugekommen …
 Au das war mir wie seiner — seiner Ungarn.
 
 Und war doch Wertes Erleben — nur ein Erleben der
-allerjünasten Vergangenheit. —
+allerjüngsten Vergangenheit. —
 
 Seltsam, wie rasch uns Menschen Ereignisse aus dem
 Gedächtnis schwinden und etwas Unwirlliches in der Erinnerung
@@ -1116,7 +1116,7 @@ morsen und hatte mich draußen so ein wenig davor Ergraut,
 hier einzudringen!!
 
 Ich war so sprachlos, so beschämt, so ärgerlich über
-wich Selbft, daß ich wenig freundlich entwickelte:
+wich Selbst, daß ich wenig freundlich entwickelte:
 
 »Bitte — ich darf hier doch wohl wenigstens den gegen
 abwarten, Harald!«
@@ -1285,7 +1285,7 @@ Sie spielten — tranken das zweite Glas.
 Karl Rennschmidt gähnte. »Verdammt, bin ich müde!«
 
 Ich saß da und wartete— wartete. Ich kannte die
-Wirkung unseres indischen, völlig unschädlichen Schlaf-mittels.
+Wirkung unseres indischen, völlig unschädlichen Schlafmittels.
 
 Rennschmidt gähnte abermals.
 
@@ -1297,7 +1297,7 @@ sein Bett im Kellergang, bebte ihn zu.
 
 Ich trug Grimly dann ebenfalls auf sein Dreht.
 
-Und da — da, als.idhy ihn so in den Armen hielt, da
+Und da — da, als ich ihn so in den Armen hielt, da
 spürte ich plötzlich an dem Bau der Brust, an der weichen
 Rundung des Brustkorbes, daß — daß ich mich von Charly
 Gxrimly doppelt hatte täuschen lassen.
@@ -1352,7 +1352,7 @@ Der zweite heißt:
 Da war ein helles, weißgestrichenes Zimmer.
 
 Da waren grüne Kastanien vor den Fenstern mit den
-blißblanten Scheiben mit den weißen Musllgardinen.
+blitzblanken Scheiben mit den weißen Musllgardinen.
 
 Da war ein toeißladiericd Bett, in dem ich lag.
 
@@ -1426,14 +1426,14 @@ heraus und las:
 > Mein lieber Alter!
 
 > Daß sich Dich sehr ungern in Berlin im Krankenhaus
-Westend zurüdlasse, ist selbstverständlich. Es muß aber
-sein. Deine Pserdenatur wird Simpsons Sachlich schon
+Westend zurücklasse, ist selbstverständlich. Es muß aber
+sein. Deine Pferdenatur wird Simpsons Sachlich schon
 <@pagebreak/>
 Überwinden, und bist Du erst gesund, kannst Du mir
 nachgereist.
 
 > Vor — staune: Ich reise heute am 17. Mai nach
-Eüdarabien — nach Aden, der allen, lieben Hafenstadt.
+Südarabien — nach Aden, der allen, lieben Hafenstadt.
 Warum ich’s Mr: weil ich dort in Arabien dem (See
 Geheimnis des Glasauges aus die Spur zu kommen hoffe.
 
@@ -1748,7 +1748,7 @@ Hier sauf mir die Hand herab.
 Allan Giffort — — Allan Visiert!!
 
 Es wurde urplöplich unheimlich hell in meinem Hirn:
-Giffort, der das linke Auge durch ein Pechpslaster verklebt
+Giffort, der das linke Auge durch ein Pechpflaster verklebt
 und darüber eine blaue Brille trug, — mein Freund und
 Kollege Giffort war ebenfalls Miß Grimly gewesen!!
 
@@ -1823,13 +1823,13 @@ waren leicht zu läuten.
 > Am 17. April bereits konnte ich von dem praktisch
 gewählten Lagerplatz meiner Expedition aus den ersten
 Ausstieg unternehmen, Das Wetter war günstig. Allerdings
-war es nicht leicht, in der dünnen Wüsteulust den
+war es nicht leicht, in der dünnen Wüstenluft den
 Eindecker vom Boden sreizubekommen.
 
 > Ich hauchte mir [Schon vorher die Felsennadel, den heiß
 Tiger Stein Tasch el Muhammed, aus nädftier Nähe ans
 gesehen. Ah war überrascht gewesen, wie spiegelglatt
-die Eandförner des Wüslenwindes diese natürliche, enorme
+die Sandkörner des Wüstenwindes diese natürliche, enorme
 Säule geschliffen hatten.
 
 > Ich flog mit dem Eindecker zuerst in westlicher Richtung
@@ -1952,7 +1952,7 @@ Das war das neue Geheimnis?!
 Und — was mochte es wohl damit auf sich haben?!
 
 Deckblatt Bristols Flüge über die Spitze der Felsennadel
-himveng — — weshalb?! Um die Spitze zu besich-Gern,
+himveng — — weshalb?! Um die Spitze zu besieh-Gern,
 um dort mit einem fortführen Sprung auf dieser
 Ledige zu fanden?! Gewillt;: das hatte Bristol ja alles
 schont in seinem Bericht erwähnt. Aber — aber: was gab
@@ -2045,7 +2045,7 @@ an mich gefunden hatte. —
 so will das Folgende nur andeuten.
 
 Wir kamen raucht ins Gespräch. — Oberst a. D.
-Viktor Berlieux, so stellte sich diese verblüffende Verwand-Iungsfünftferin
+Viktor Berlieux, so stellte sich diese verblüffende Vorwandlungsfünftferin
 nachher vor.
 
 Erzählte von den Feldzügen in Tonkin, Flacheren, von dem
@@ -2107,9 +2107,9 @@ Fabelhaft war diese schauspielerische Begabung der
 Sarah Grimly! Wie tadellos Eile den unsicheren Gang des
 Blinden nachahmte! | —
 
-Ich schlief Die Nacht fest und traumlos in meinem Hotel-bett.
+Ich schlief Die Nacht fest und traumlos in meinem Hotelbett.
 Vor dem Zube®tgehen hatte ich noch aus Vorsicht
-Haralds Brief und auch das Mifropbotonramm und die Vergrößerung
+Haralds Brief und auch das Mikrophotogramm und die Vergrößerung
 <@pagebreak/>
 bot Berichtes verbrannt. All das sollte nicht
 Firma Sarah anheimfafen.
@@ -2166,7 +2166,7 @@ Man Giffort an Bord des Dampfers gekommen! —
 
 Ich läutete an der Pforte der gelben Mauer.
 
-Hundegcheul erhob sich.
+Hundegeheul erhob sich.
 
 Ah — auch hier also bissige Köter! Wie mich das an
 die Festung des All Azim erinnerte!
@@ -2501,7 +2501,7 @@ nicht ehrlich sein, Mr. Harst. Ich kann es nicht! Ich habe
 eine heilige Pflicht zu erfüllen. Das muß Ihnen genügen.«
 
 »Pflicht?! Ft diese Pflicht ein Racheschwur? Haben
-Sie deshalb Simpson im Hause in Dahlem gegen uns bei-gestanden,
+Sie deshalb Simpson im Hause in Dahlem gegen uns beigestanden,
 weil Ihr Haß diesen Mann der Polizei und dem
 Henker nicht gönnte?!«
 
@@ -2574,7 +2574,7 @@ Ist sie! Dann ist auch Simpson dort an Mord, wette ich!«
 
 Ich nickte nur ...
 
-Das schwimmende Nicfenhotel war vorüber.
+Das schwimmende Riesenhotel war vorüber.
 
 Harst schraubte sein Glas zusammen. »Simpson ist
 unterwegs nach Aden. Von dort wird er nach dem Dschebel
@@ -2591,7 +2591,7 @@ Ich antwortete zögernd: »Vielleicht ein Geheimnis ...«
 Felsennadel … ein Schatz.«
 
 Harald lachte schallend. »Warum nicht gar! Schaf —
-Schau! Das ist das billige Rcquisit aller phantasicarnmen
+Schau! Das ist das billige Requisit aller phantasicarnmen
 Schiff stellen — Vielschreiber. Ein erbärmliches gepustet.
 Fakir wird sct’on übel, wenn Ich das Wort Schau nur höre!
 Mein, Freund Max, nein, so einsah) wird das doch nicht sein.
@@ -2697,7 +2697,7 @@ Und wieder rief er: »Die nächste Kugel floh fünf Zentimeter
 tiefer, Herr Harst! Absteigen!«
 
 Welch ungeheures Pech: unsere Winchester steckten in
-den Ledersutteralen, um sie vor dem Flugsand zu so, üyen! —
+den Lederfutteralen, um sie vor dem Flugsand zu so, üyen! —
 
 Bär hatten unsere Tiere zum Stehen gebracht ...
 
@@ -2727,7 +2727,7 @@ Zwang mich, Harald die Hände aus dem Nisten zu
 binden, fesselte mich dann selbst, trieb uns vor sich der —
 bià in ein Seitental, bis zu ein paar armseligen Palmen
 am Talrande Und hier — hier band er uns an Ziel
-Bäume — fihiveinenmd, finster, mit der düsteren Gingt,Gelassenheit
+Bäume — fihiveinenmd, finster, mit der düsteren Gingt Gelassenheit
 eines Mannes, der kein Erbarmen kennt ...
 
 Und als wir nun dort an den Bahn: en eckiges aufrecht
