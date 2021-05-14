@@ -32,7 +32,7 @@ Dort hatte, wie uns der von dem Knebel befreite
 Lionel Barring mitteilte, der sonderbare Flickschuster Emil
 Rehbein den Mechanismus aufgebaut.
 
-eine Art Höllenmaschine: eine große Sanduhr, aus
+Eine Art Höllenmaschine: eine große Sanduhr, aus
 der feiner Sand in ein Gesäß floß, das auf einer Wage
 stand, auf der einen Seite einer Wage. Die andere Seite
 der Hauswage (ein harmloses Ding, wie jede Hausfrau sie
@@ -57,23 +57,23 @@ Nun begann eins der merkwürdigsten und spannendsten
 Verhöre, das ich je mitgemacht habe.
 
 Ein Kampf war’s mit geistigen Waffen zwischen zwei
-fast ebenbürtigen Gegnern, ein Kampf um ein Geheimnis,
+fast ebenbürtigen Gegnern, ein Kampf um ein Geheimnis.
 
 Harst hatte in die Tasche seiner gestickten Joppe gegriffen
 und sein goldenes Zigarrenetui hervorgeholt, das
 auf der Rückseite als ewiges Andenken an Indien die tiefe
 Einbuchtung einer Pistolenkugel trug.
 
-Sehnsüchtig schaute Barring auf das gefüllte Etui,
+Sehnsüchtig schaute Barring auf das gefüllte Etui.
 
-Harst stand auf und fesselte ihm die rechte Hand los,
+Harst stand auf und fesselte ihm die rechte Hand los.
 
 »Bitte ...«
 
 Dann reichte er der großen Null auch Feuer.
 
 Wir rauchten. Der süßlich-aromatische Duft der Mirakulum-Zigaretten
-erfüllte den muffigen Raum,
+erfüllte den muffigen Raum.
 
 So ... begann der Kampf.
 
@@ -152,10 +152,10 @@ sich Zwicker und der andere Beauftragte vorsichtig gedrückt.
 Daß Sie, Herr Harst, hier oben niedergeschlagen worden
 waren, entnahm ich aus der Art, wie man Sie wegbrachte.
 Mit ihrem Erscheinen hier rechnete ich in keiner Weise.
-Erst als die Uhr Dort an der Wand so leise und hastig dreimal
+Erst als die Uhr dort an der Wand so leise und hastig dreimal
 schlug, als dann Rehbein und die verschleierte Dame
-Schleunigst von hier sich entfernten, nachdem der Bucklige
-noch schnell Den Apparat dort in Gang gesetzt hatte ...«
+schleunigst von hier sich entfernten, nachdem der Bucklige
+noch schnell den Apparat dort in Gang gesetzt hatte ...«
 
 Er blickte nach der Sanduhr und der Wage hin.
 
@@ -164,16 +164,16 @@ der ahnungslos die Alarmuhr eingeschaltet hatte ...«
 
 »Ah — die Türschwelle des Vorderzimmers unten!«
 meinte Harald. »Also — ein zweites Alarmsignal! Die
-Kuckucksuhr bei Rehbein, hier die alte Wanduhr ...!»
+Kuckucksuhr bei Rehbein, hier die alte Wanduhr ...!«
 
 »Ja — so ist’s. Und — es gibt noch mehr derartige
 Einschaltvorrichtungen.«
 
-»so?! Woher wissen Sie das?!«
+»So?! Woher wissen Sie das?!«
 
 Barring zuckte die Achseln ...
 
-»ich weiß es ...«
+»Ich weiß es ...«
 
 »Weil Sie eben schon öfters hier oben waren, — das
 ist’s!«
@@ -182,7 +182,7 @@ Barring schwieg.
 
 <@pagebreak/>
 »Auch gestern waren Sie hier, als wir mit Rehbein in
-dessen Werkstatt saßen,«
+dessen Werkstatt saßen.«
 
 Barring schwieg.
 
@@ -208,7 +208,7 @@ Harst hielt ihm abermals das Etui hin. »Bedienen
 Sie sich.« Und er fesselte ihm dann auch die andere
 Hand los.
 
-»ich habe mir den Kopf geholt,« erklärte Barring dann
+»Ich habe mir den Kopf geholt,« erklärte Barring dann
 und stieß den Zigarettenrauch vor sich in die Luft, so daß
 die zahme Dohle ärgerlich aufkreischte, die bis dahin geschlafen
 zu haben schien.
@@ -219,7 +219,7 @@ zu haben schien.
 
 »Zu welchem Zweck?«
 
-»des Kopfes wegen. Die Sache eilte.«
+»Des Kopfes wegen. Die Sache eilte.«
 
 »Sie drangen ohne Wissen Wogitschs hier ein?«
 
@@ -258,9 +258,9 @@ Munde. Ein sonderbarer Blick traf Harst.
 
 »Wie meinen Sie das?« fragte er gedehnt.
 
-»nun — ich glaube, die beiden bärtigen Männer im
+»Nun — ich glaube, die beiden bärtigen Männer im
 Piratenkostüm sind ... Wogitsch und Rehbein. Jedenfalls
-hat der eine große Aehnlichkeit mit Rehbein, wenn er auch
+hat der eine große Ähnlichkeit mit Rehbein, wenn er auch
 nicht bucklig ist. Ein Buckel kann ... ausgestopft sein.«
 
 Ich dachte an den Schrank voller Waffen ...
@@ -311,7 +311,7 @@ ins Zimmer — zwei Herren, möchte ich genauer sagen ...
 Beide jung und bartlos, beide mit modernen Filzhüten
 auf dem Kopf, hohen blendend weißen Stehkragen und
 dunklen Krawatten, die von den Pelzkragen ihrer Ueberröcke
-eingerahmt wurden,
+eingerahmt wurden.
 
 Beide aber auch mit ... klobigen, langen Pistolen in
 der Hand — — Luftpistolen ...
@@ -330,7 +330,7 @@ beide versichern mir — Ihr bloßes Versprechen genügt mir
 — mich auf einer längeren Seereise für etwa drei Monate
 zu begleiten — als meine Gäste. Sie beide finden sich
 morgen abend, also am ersten, abends neun Uhr, mit ihrem
-Gepäck in Hamburg ein, wo ich Sie von der Alsterbrüce
+Gepäck in Hamburg ein, wo ich Sie von der Alsterbrücke
 abholen lassen werde. Ihrer Frau Mutter erklären Sie,
 daß Sie beruflich verreisen müssen. Im übrigen verschweigen
 Sie alles, was hier geschehen ist und was mit
@@ -345,7 +345,7 @@ den ich ... für den Mörder Wogitschs halte ...«
 
 Und fuhr sogleich fort: »Ich habe kleine Lust, mich hier
 vielleicht mit Ihren Leuten in eine Pistolenschießerei einzulassen.
-Schraut und Ich werden morgen abend neun Uhr
+Schraut und ich werden morgen abend neun Uhr
 auf der Alsterbrücke sein.«
 
 Er stand auf und löste auch Barrings übrige Fesseln,
@@ -379,7 +379,7 @@ den Revolver zu sich und legte die große Sanduhr beiseite.
 
 Dann schloß er ebenso rasch die Türen auf, nahm in
 dem Lehnsessel Platz und warf die dünnen Stricke und den
-Knebel hinter den Ofen,
+Knebel hinter den Ofen.
 
 Die Tür flog auf.
 
@@ -397,7 +397,7 @@ Dienstpistole.
 »Ha — was macht Ihr hier, Kinder?« fragte er scheinbar
 gemütlich.
 
-»nu — wir wärmen uns,« meinte Harst mit einer
+»Nu — wir wärmen uns,« meinte Harst mit einer
 greulichen Schnapsstimme.
 
 »So — Ihr wärmt Euch! Ach was! — Wie seid
@@ -410,21 +410,21 @@ Beene durch die Keller ...«
 
 »Nu ja doch. Durch die jroßen Keller von die alte
 Bierbrauerei, die in det Buch von’n Baurat Günter über
-Alt-Berlin erwähnt sein dun, Herr Kommissar. in dej
+Alt-Berlin erwähnt sein dun, Herr Kommissar. In dej
 Buch heeßt es doch: »Det Jebeide Brückenjang Nummer sechs
 enthielt eine der ersten jrößeren Bierpantschereien von Balin.
 Een Teil von die andern Jebeide im Brückenjang
 steht noch uff diese Keller, die sich bis zur Laternenjasse
-hinziehn, Wo die Brauerei von Benecke een zweites Haus besaß.
+hinziehn, wo die Brauerei von Benecke een zweites Haus besaß.
 <@pagebreak/>
 Die Einjänge dieser Keller sind polizeilicherseits schon 1835
 vermauert worden, und die Tatsache ihres Vorhandenseins
 nur noch wenigen bekannt.« — Ja, so steht det nu in
 den Schmöker, Herr Kommissar.«
 
-Dann änderte Harald plötzlich Die Stimme:
+Dann änderte Harald plötzlich die Stimme:
 
-»diese Keller wollten Schraut und Ich suchen, Herr
+»Diese Keller wollten Schraut und ich suchen, Herr
 Rottmüller.«
 
 »Harst — — Sie?!« rief der Kommissar völlig sprachlos.
@@ -433,7 +433,7 @@ pflegt Sie!«
 
 Er lachte und streckte uns die Hand hin.
 
-»ist denn das Tatsache mit den Kellern?« fragte er
+»Ist denn das Tatsache mit den Kellern?« fragte er
 darauf gespannt.
 
 »Baurat Günter behauptet’s, und man wird ihm
@@ -450,7 +450,7 @@ Notröhren sei. Nun — suchen wir die Notröhre!« —
 Und — Harst fand sie.
 
 Neben der Küche gab es eine winzige Speisenkammer,
-In der nur ein einziges Regal stand. Zwischen diesem und
+in der nur ein einziges Regal stand. Zwischen diesem und
 der Tür lag noch ein Dielenviereck von einhalb Meter
 Breite und einundeinviertel Meter Länge.
 
@@ -481,13 +481,13 @@ Fliesen mit Blut über und über bespritzt waren.
 »Hier hat Rehbein den Modelleur ermordet,« erklärte
 Harald sehr bestimmt. »Dann hat er die Leiche nach oben
 getragen und in dem ersten Wachsfigurenraum das Tuch,
-Das er dem Toten um den Hals geschlungen hatte, abgenommen,
-damit dort Die Blutlache entstände,«
+das er dem Toten um den Hals geschlungen hatte, abgenommen,
+damit dort die Blutlache entstände.«
 
 Rottmüller sagte leise:
 
-»Also ist mein Verdacht bestätigt. Auch Ich hielt Rehbein
-für den Mörder seines Freundes,«
+»Also ist mein Verdacht bestätigt. Auch ich hielt Rehbein
+für den Mörder seines Freundes.«
 
 Harst wandte sich schon wieder dem Hauptkeller zu.
 
@@ -499,7 +499,7 @@ zweites Heim.«
 
 »Ohne Zweifel, Herr Rottmüller. Und dieses Doppelleben
 teilte noch irgendeine Frau. Daher die zierlichen Fährten.
-eine Frau, die mit einem der beiden verwandt sein
+Eine Frau, die mit einem der beiden verwandt sein
 mag. Vielleicht — — Wogitschs Tochter.«
 
 »Wie kommen Sie darauf, Herr Harst?«
@@ -507,7 +507,7 @@ mag. Vielleicht — — Wogitschs Tochter.«
 Harald schwieg.
 
 Ich wußte schon, weshalb die Frau gerade Wogitschs
-Tochter sein sollte: sie hatte so kläglich oben In Wohnstübchen
+Tochter sein sollte: sie hatte so kläglich oben im Wohnstübchen
 geweint! Wahrscheinlich doch über den Tod des alten Modelleurs.
 Sie ahnte nicht, daß Rehbein der Mörder war. —
 
@@ -528,7 +528,7 @@ und luxuriös eingerichtet, aber — — leer. Ein Zimmer
 hatte fraglos eine Dame innegehabt.
 
 Rottmüller klingelte die Bewohner der ersten Etage
-heraus. Von diesen erfuhren Wir, Daß unten die Brüder
+heraus. Von diesen erfuhren wir, daß unten die Brüder
 Ernst und Emil Rastein und Fräulein Ella Rastein, die
 Tochter Ernst Rasteins, seit etwa 20 Jahren hausten und
 allgemein geachtet waren. Die Brüder Rastein waren
@@ -573,7 +573,7 @@ Rastein irgendwie zusammenhänge, antwortete er mit einen
 so widerwillig hervorgebrachten Ja, daß ich weitere Fragen
 unterließ.
 
-Daheim gingen Wir sofort zu Bett. Es war dreiviertel
+Daheim gingen wir sofort zu Bett. Es war dreiviertel
 fünf morgens, als ich die Nachttischlampe ausschaltete. Ich
 erwachte um halb eins mittags. Um ein Uhr war ich
 drüben in Haralds Arbeitszimmer. Auf dem Sofatisch
@@ -582,14 +582,14 @@ ein Brief den Harald an mich, mit Bleistift geschrieben.
 
 > »Lieber Alter, bestelle morgen L. B. einen Gruß
 von mir. Ich halte mein Versprechen ihm gegenüber.
-— Wiedersehen — Harald,«
+— Wiedersehen — Harald.«
 
 Frau Harst, seine Mutter, teilte mir dann mit, daß er
 bereits um neun mit seinem Koffer davongefahren sei, nachdem
 er sich für längere Zeit von ihr verabschiedet hatte.
 
 Ich verschwieg der alten Dame, daß ich Haralds Reiseziel
-kannte. da mich nichts in Berlin zurückhielt, benutzte
+kannte. Da mich nichts in Berlin zurückhielt, benutzte
 ich den Abendzug nach Hamburg und ließ mich vom Bahnhof
 nach dem Hotel Amsterdam, Fennerstr. 7, bringen. Es war
 dies dasselbe Hotel, von dem aus Barring an Wogitsch
@@ -598,8 +598,8 @@ geschrieben hatte.
 Ein Hotel dritten Ranges war’s, dessen Hinterfenster
 nach einem Hafenarm hinausgingen. — Am anderen Tage
 <@pagebreak/>
-bummelte ich Durch Die Straßen, schlug die Zeit mühsam tot
-und langweilte mich sträflich,
+bummelte ich durch die Straßen, schlug die Zeit mühsam tot
+und langweilte mich sträflich.
 
 Was mochte Harald hier treiben? Ich hoffte bestimmt,
 daß er sich um neun Uhr abends auf der Alsterbrücke einfinden
@@ -626,7 +626,7 @@ Herren sich vor:
 
 Holster führte mich in meine Kabine und bat mich,
 zum Souper Toilette zu machen. Der Steward würde mich
-rufen
+rufen.
 
 All das war reichlich sonderbar. — Ich zog den Smoking
 an. Kaum war ich fertig, als es auch schone klopfte.
@@ -637,11 +637,11 @@ im Auge, trat ein, verbeugte sich und sagte sehr höflich:
 
 »Zu meinem Bedauern muß ich Ihnen mitteilen, Herr
 Schraut, daß Herrn Harsts Brief, den Sie mir in meine
-Kabine gelegt haben, mich Durchaus nicht befriedigt ...«
+Kabine gelegt haben, mich durchaus nicht befriedigt ...«
 
 Ich wollte ihn unterbrechen. Ich hatte ja weder einen
 Brief, noch sonst etwas in Barrings Kabine gebracht, die ich
-gar nicht kannte. Aber eine innere Stumme gebot mir zu
+gar nicht kannte. Aber eine innere Stimme gebot mir zu
 schweigen.
 
 <@pagebreak/>
@@ -679,7 +679,7 @@ als den liebenswürdigen und freigebigen Träger der gesamten
 Kosten dieser Seereise.
 
 Gustav Krause hieß dieser dicke Herr, der mir nun vertraulich
-Die Hand reichte und meinte:
+die Hand reichte und meinte:
 
 »Anjenehm, Ihnen kennen zu lernen, Herr Schraut.
 Schade, daß Herr Harst sich verhindert hat. Der Herzog ...«
@@ -698,7 +698,7 @@ es ja versprochen. Ich kam mir vor wie in einen Tollhause.
 Aus der Unterhaltung bei Tisch entnahm ich so
 allmählich folgendes: die vier Damen waren die rechtmäßigen
 Ehegattinnen Gustav Krauses und dreier seiner
-Freunde, die gleich ihm zu Der Kategorie Der ganz schweren
+Freunde, die gleich ihm zu der Kategorie der ganz schweren
 Kriegsgewinnler gehörten und erst vor kurzem des Herrn
 Herzogs Bekanntschaft »zufällig« in Hamburg gemacht hatten.
 Die übrigen Herren waren fraglos Barrings Verbündete,
@@ -723,7 +723,7 @@ der warme Hummer mit Trüffelbutter, noch der delikate
 Filetbraten, weder der Chateau Margaux 1912, noch der
 Heidsteck Monopol.
 
-Aber — ich aß Dennoch! Man muß doch satt werden.
+Aber — ich aß dennoch! Man muß doch satt werden.
 
 Meine Nachbarn rechts und links waren Doktor Lorenzen
 und Magnus Holster — Verbrecher, Gescheiterte gleich
@@ -731,7 +731,7 @@ Barring, aber Leute von tadellosen Umgangsformen. Kalt
 lächelnd erzählte mir Holster, daß in der Nacht vom 9. zum
 10\. in Berlin in dem Gebäude der Kartonfabrik Uhlig der
 Waffenschrank erbrochen und ausgeplündert worden sei. —
-Mir blieb der Bissen im Halse stecken. Während Die Kriminalpolizei
+Mir blieb der Bissen im Halse stecken. Während die Kriminalpolizei
 sich also um die Mordsache Rastein-Wogitsch im
 <@pagebreak/>
 Brückengang Nr. 6 bemüht hatte, war Barrings große Null
@@ -744,7 +744,7 @@ Bord der Amanda genau zu schildern. Es war ein Schlaraffenleben.
 
 Einen Tag später fuhr die Jacht die Themse aufwärts
 nach London. Nachts warfen wir im Hartle-Dock Tod Anker.
-Es mochte elf Uhr sein, als ich in meine Kabine kam. zu
+Es mochte elf Uhr sein, als ich in meine Kabine kam. Zu
 meinem Erstaunen saß hier ein alter, graubärtiger Matrose,
 dessen blaurote Säufernase mir schon am Tage auf Deck
 aufgefallen war.
@@ -781,7 +781,7 @@ mich an:
 
 »Herr. Sie — nur Sie haben den Wachskopf zertrümmert,
 <@pagebreak/>
-den Ich in meinem Koffer verschlossen hielt!!
+den ich in meinem Koffer verschlossen hielt!!
 Herr, das ist für die große Null ein Verlust von 3000 Pfund
 Sterling!! Herr, Sie sind gefährlicher, als ich dachte!!
 Woher wußten Sie, daß ich die größte Seltenheit der
@@ -798,14 +798,14 @@ Barring besann sich wieder, daß er Gentleman sei.
 »Gut, Herr Schraut ...! Wir werden auf Sie besser
 achtgeben!« — Verbeugte sich und ging. —
 
-Unter meinem Kopfkissen fand Ich einen Zettel von
+Unter meinem Kopfkissen fand ich einen Zettel von
 Haralds Hand:
 
 > »Die Prinzessin Stanawata trug im Museum den
 reichen altindischen Schmuck, der tausende Pfund wert ist.
 B. hat Imitationen dieser Schmuckstücke herstellen lassen
 und wollte diese, den Kopf, Hände und Füße aus Wachs
-gegen Die echte Mumie austauschen, die er von jedem
+gegen die echte Mumie austauschen, die er von jedem
 Antiquitätenhändler mit Gold aufgewogen erhalten hätte.
 — *Der* Trick ist nun mißglückt. Der zweite in Sumatra
 ist mir noch unklar, wird aber ebenfalls, so hoffe ich,
@@ -819,8 +819,6 @@ nebst Anhang ...!!
 Toll war das — toll! Das war wieder einmal so ganz
 *unser* Leben ... unser schönes, wildes, abenteuerliches
 Jagen nach allem, was außerhalb des grauen Alltags lag.
-
-Erstere
 
 <@pagebreak/>
 
@@ -840,19 +838,19 @@ Pfund werden Sie mir ersetzen, Herr Schraut!« — So fuhr
 denn die Jacht durch die Straße von Gibraltar ins Mittelländische
 Meer, in die Wärme und Sommersonne hinein.
 Der Herr Herzog hatte gewünscht, daß man ohne Säumen
-Die Reise fortsetzen und Aegypten, Suez und Kairo, die
+die Reise fortsetzen und Ägypten, Suez und Kairo, die
 Pyramiden, den Nil und Chartum erst auf der Rücktour
 besichtigen solle.
 
 Der alte Matrose mit dem blauroten Riechorgen, der
-sich übrigens Jan Jensen nannte und Doch Harald Harst
+sich übrigens Jan Jensen nannte und doch Harald Harst
 hieß, hielt sich bis zum Suez-Kanal von mir fern. Ich tat,
 als ginge er mich nicht weiter an. Inzwischen hatte ich mir
-auch Die übrige, zwölf Mann starke Besatzung der Amanda
-genauer angesehen. Aeußerlich waren all diese Leute vom
+auch die übrige, zwölf Mann starke Besatzung der Amanda
+genauer angesehen. Äußerlich waren all diese Leute vom
 Kapitän Heller bis herab zu den beiden Stewards durchaus
 einwandfrei. Die Disziplin an Bord war mustergültig.
-Lionel Barring hatte fraglos seine Bande fest in der Hand,
+Lionel Barring hatte fraglos seine Bande fest in der Hand.
 
 Als wir den Suez-Kanal passiert hatten und die Hitze
 <@pagebreak/>
@@ -863,7 +861,7 @@ riegelte die Tür hinter sich ab, schaltete das Licht aus und
 zog mich auf den Bettrand neben sich.
 
 »Weiß der Teufel,« murmelte er, »was das Gesindel
-in Sumatra vorhaben mag. Ich habe mir Die größte Mühe
+in Sumatra vorhaben mag. Ich habe mir die größte Mühe
 gegeben, die Kerle nochmals zu belauschen, aber sie sind ungeheuer
 vorsichtig. Auch in die große Null hat man mich
 noch nicht aufgenommen, obwohl ich doch acht Jahre Zuchthaus
@@ -878,7 +876,7 @@ Schweiß und Fusel!
 »Tatsache ist,« fuhr er ebenso leise fort, »daß Barring
 in Wogitschs Wohnung irgendwelche Papiere gefunden hat,
 die verheißungsvoll sind. Diese Papiere, mein Alter,
-erwähnte Barring eines Abends, als Ich ihn an Deck im Gespräch
+erwähnte Barring eines abends, als ich ihn an Deck im Gespräch
 mit Doktor Lorenzen und Magnus Holster, seinen
 Vertrauten, belauschte. Diese beiden Herren sind im übrigen
 niemand anderes als Barrings Freunde von Schloß
@@ -900,7 +898,7 @@ Barring sagte damals an Deck zu Lorenzen und Holster
 etwa folgendes: »Ob wir mit Gewalt vorgehen müssen,
 bleibt abzuwarten. Zunächst versuchen wir es mit List.
 <@pagebreak/>
-Die Papiere habe Ich ja. Und das Sultanat Padagoa liegt
+Die Papiere habe ich ja. Und das Sultanat Padagoa liegt
 so sehr abseits jeder Kultur an einer tiefen Bucht der Westküste
 Sumatras, daß wir die Einmischung von Europäern
 nicht zu befürchten brauchen.« — Dies ist alles, was ich weiß,
@@ -913,7 +911,7 @@ Rehbein seinen Bruder?! Und — sind die beiden
 wirklich Brüder, heißen sie wirklich Rastein?! Und — wer
 ist diese Ella Rastein, die nach Aussage der Mitbewohner
 des Hauses Laternengasse 19 sehr schön sein soll und oft
-für sehr lange Zeit verreist?! — Gewiß, Ich habe da so
+für sehr lange Zeit verreist?! — Gewiß, ich habe da so
 eine Vermutung, die sich ...«
 
 Er schwieg plötzlich ...
@@ -944,9 +942,9 @@ geradezu bejammernswert aussah.
 »Der ... der Herzog spielt noch mit den anderen Roulette,«
 stotterte er. »Hier — diese Berliner Illustrierte habe
 ich mir in Suez am Kai gekauft. Soeben erst blätterte ich
-sie durch. da ... nehmen Sie, Herr Schraut! Sehen Sie
+sie durch. Da ... nehmen Sie, Herr Schraut! Sehen Sie
 <@pagebreak/>
-sich das Bild auf der vorletzten Seite an, Das zu dem Artikel
+sich das Bild auf der vorletzten Seite an, das zu dem Artikel
 »Moderne Raubritter« gehört ...«
 
 Ich tat’s. Es war ... Lionel Barring!! —
@@ -962,12 +960,12 @@ flüsterte er, nach Luft schnappend. »Dann sind auch seine
 Freunde und die Besatzung nichts anderes! Ich bin nicht
 auf den Kopp jefallen, Herr Schraut!!«
 
-Harald tauchte lautlos aus dem Schranke auf,
+Harald tauchte lautlos aus dem Schranke auf.
 
 Krause wollte vor Angst losbrüllen. Aber ich drückte
 ihm noch rasch die Hand auf die Lippen.
 
-»ich bin Harald Harst,« erklärte mein Freund hastig.
+»Ich bin Harald Harst,« erklärte mein Freund hastig.
 »Sie wissen jetzt, Herr Krause, daß Sie und Ihre Freunde
 von der berüchtigten großen Null, von Barring und Konsorten,
 jederzeit auf irgendeiner entlegenen Insel ausgesetzt
@@ -976,8 +974,8 @@ Sie etwas ahnen! Reißen Sie sich also zusammen und
 spielen Sie weiter den Harmlosen. Schraut und ich schützen
 Sie! Und — verschweigen Sie Ihren Freunden, daß Sie
 Lionel Barring durchschaut haben. Warnen Sie auch Ihre
-Gattin, Die doch wohl leider ebenfalls das Bild gesehen hat.
-ich werde Ihnen schon mitteilen, was wir unternehmen
+Gattin, die doch wohl leider ebenfalls das Bild gesehen hat.
+Ich werde Ihnen schon mitteilen, was wir unternehmen
 müssen, um diese Halunken loszuwerden. Ich halte Sie für
 keinen Feigling. Können Sie schießen?«
 
@@ -998,7 +996,7 @@ Krause bewies in den folgenden Tagen, daß er ganz
 gut schauspielern konnte. Er ließ sich dem Herrn Herzog
 gegenüber nichts anmerken, und seine Gattin ebensowenig.
 
-als die Jacht dann den Indischen Ozean erreicht hatte,
+Als die Jacht dann den Indischen Ozean erreicht hatte,
 hielt uns ein kleiner Maschinenschaden zwei Tage inmitten
 des endlosen Meeres auf. Barring war jetzt sehr nervös.
 Er ging viel auf Deck allein hin und her und schien angestrengt
@@ -1037,23 +1035,23 @@ versteckten Winkel der Südküste der Bucht Anker. Dies geschah
 um ein Uhr, als an Bord alles bereits zu schlafen
 schien.
 
-Ich — — schlief nicht. durch das kleine Kabinenfenster
+Ich — — schlief nicht. Durch das kleine Kabinenfenster
 beobachtete ich genau die Umgebung und die Ankermanöver.
 Das Fenster war offen. Mit einem Male
 schwebte von oben ein an einem Bindfaden befestigter Zettel
 herab. Ich faßte zu, ruckte dreimal an dem Bindfaden
 und zog ihn dann ein. — Der Zettel lautete:
 
-»Heute sollte ich in Die große Null aufgenommen
+»Heute sollte ich in die große Null aufgenommen
 werden. Ich spielte jedoch den vollständig Betrunkenen.
 — Warte am Fenster. Weiteres folgt. — H. — Verbrennen!!«
 
 Eine halbe Stunde später verschwand der Mond ...
 
-Leichtes Gewölk verhüllte auch den Sternenhimmel,
+Leichtes Gewölk verhüllte auch den Sternenhimmel.
 
-Ich stand im Dunklen an dem kleinen Fenster. an
-Deck war es still geworden,
+Ich stand im Dunklen an dem kleinen Fenster. An
+Deck war es still geworden.
 
 Ich stand und schaute auf die matt glänzenden Wasser
 hinab, in deren Tiefen Leuchtfische zuweilen wie rasch sich
@@ -1063,9 +1061,9 @@ Und — ich sah plötzlich etwas Dunkles auf der Oberfläche
 der Bucht — etwas, das nur zu sehr dem Kopfe
 eines Menschen glich ...
 
-ich sah einen zweiten — dritten Kopf ...
+Ich sah einen zweiten — dritten Kopf ...
 
-eine ganze Anzahl ...
+Eine ganze Anzahl ...
 
 Es waren Eingeborene, die der Jacht sich schwimmend
 näherten ...
@@ -1074,7 +1072,7 @@ Und quer über all diese Köpfe zog sich ein zuweilen
 aufblitzender hellerer Strich: Messer, die die Schwimmer
 zwischen den Zähnen hielten ... —
 
-dann legte sich eine Hand mit leisem Druck auf meine
+Dann legte sich eine Hand mit leisem Druck auf meine
 Schulter: Harst!
 
 Er flüsterte rasch: »Die ganze Bande hält in der großen
@@ -1113,18 +1111,18 @@ Wir hörten in der Kajüte ein paar Schüsse ...
 
 Und hörten den Lärm eines kurzen, wilden Kampfes.
 
-dann abermals Stille ...
+Dann abermals Stille ...
 
 Aber huschende Schritte draußen im Gange, das leise
-Kreischen Der Kabinentüren und flüsternde Stimmen
-belehrten uns, Daß Die Kabinen durchsucht wurden.
+Kreischen der Kabinentüren und flüsternde Stimmen
+belehrten uns, daß die Kabinen durchsucht wurden.
 
 Unsere Tür flog auf ...
 
-Draußen ein Dutzend Batta, Laternen In den Händen.
+Draußen ein Dutzend Batta, Laternen in den Händen.
 
 Einer trat ein — ein schlanker Mann mit kurzem Bart,
-In einem weißen Leinenanzug. Auch ein Batta ...
+in einem weißen Leinenanzug. Auch ein Batta ...
 
 <@pagebreak/>
 Harst ließ den Mann nicht erst zu Worte kommen.
@@ -1139,7 +1137,7 @@ Der europäisch gekleidete Batta erwiderte höflich:
 
 »Ja ...«
 
-»Dann Läßt der Sultan von Padagoa Sie und Ihre
+»Dann läßt der Sultan von Padagoa Sie und Ihre
 Freunde einladen, morgen vormittag seine Gäste zu sein. —
 Wir sind über alles unterrichtet, was hier an Bord geschieht.
 Sie können die Nacht hier in voller Sicherheit zubringen.
@@ -1171,7 +1169,7 @@ uns aber mit so großer Rücksicht behandelt hatte.
 Ich beteiligte mich an dieser Unterhaltung recht lebhaft.
 Harald dagegen saß mit sphinxhaft-undurchdringlichem
 Gesicht da und schien in seinem Sessel eingenickt zu
-sein. plötzlich erklärte er dann, sich etwas aufrichtend:
+sein. Plötzlich erklärte er dann, sich etwas aufrichtend:
 
 »Der Sultan von Padagoa ist einst Europäer gewesen.«
 
@@ -1190,7 +1188,7 @@ Hals nicht abgeschnitten worden ist, wollen wir noch ein
 paar Stunden schlafen. Der Morgen graut. Gute Nacht.«
 
 Eine Verbeugung, und er ging hinaus. — Ich fand
-ihn gleich darauf In meiner Kabine, wo er sich eine Hängematte
+ihn gleich darauf in meiner Kabine, wo er sich eine Hängematte
 ausgespannt hatte und bereits friedlich da oben zu
 schlummern schien.
 
@@ -1210,7 +1208,7 @@ vorwärtsbewegt wurden. —
 
 In dem steilen Felsenufer des weiten Lagunensees
 öffnete sich nach Norden zu eine Art Kanal, der in einen
-zweiten See führte. Hier lag am Ostufer Die Stadt Padagoa,
+zweiten See führte. Hier lag am Ostufer die Stadt Padagoa,
 zumeist aus Bambushütten bestehend, und jenseits auf
 einem steilen Berge die aus Granit aufgeführte Sultansburg,
 ein Bau von phantastischem Geschmack, trotzdem
@@ -1230,9 +1228,9 @@ buckligen Schuster hier stark verändert wiederfinden.«
 geradezu starr vor Staunen.
 
 Harald schwieg und beobachtete das Leben und Treiben
-ringsum, —
+ringsum. —
 
-dann der Serpentinenweg den Berg hinan ...
+Dann der Serpentinenweg den Berg hinan ...
 
 Dann der Batta in Uniform, der zuerst uns beide über
 Marmortreppen und Flure, die mit kostbaren Teppichen belegt
@@ -1241,13 +1239,13 @@ in dem an der einen Schmalseite ein großer Diplomatenschreibtisch
 stand. An diesem Tische saß ein bartloser Mann
 mit leicht gebräuntem Gesicht in weißem Flanellanzug. —
 Der Batta verbeugte sich tief vor diesem vielleicht sechzigjährigen
-Europäer und ging Dann hinaus.
+Europäer und ging dann hinaus.
 
 Auch wir hatten uns verneigt. Wir ahnten: es war
 der weiße Sultan!
 
 Er erhob sich, kam um den Tisch herum und streckte
-erst Harald Die Hand hin, sagte auf Deutsch: »Ich heiße
+erst Harald die Hand hin, sagte auf Deutsch: »Ich heiße
 Sie beide herzlich willkommen, Landsmann!« Dann gab
 er auch mir die Hand. Es war ... Emil Rehbein, der Flickschuster
 aus Brückengang 6.
@@ -1266,19 +1264,19 @@ sich in meinen Bruder Ernst. Er wurde ihr Gatte
 und erwarb sich so großes Ansehen unter diesen harmlosen
 Battas, daß man ihn nach dem Tode des alten Sultans
 zu dessen Nachfolger ernannte. Auch ich war hier sehr beliebt.
-Wir schlossen günstige Vertrage mit den Holländern,
+Wir schlossen günstige Verträge mit den Holländern,
 <@pagebreak/>
 die uns mit Auszeichnungen überhäuften. Der weiße Sultan
 von Padagoa und sein Bruder und oberster Ratgeber
-waren eine Zeitlang, etwa In den achtziger Jahren, in aller
+waren eine Zeitlang, etwa in den achtziger Jahren, in aller
 Munde. Dann vergaß die Welt uns. Meines Bruders Ehe
-war mit einem Kinde gesegnet, einem Mädchen. da dieses
+war mit einem Kinde gesegnet, einem Mädchen. Da dieses
 nach den hiesigen Gebräuchen nicht die Sultanswürde erben
 konnte, bestimmte die Versammlung der Alten, daß, falls
 mein Bruder verstürbe, ich sein Erbe werden sollte. — Die
 Sehnsucht nach der deutschen Heimat — wir sind geborene
 Berliner — ward mit den Jahren jedoch so übermächtig in
-Uns, daß wir beschlossen, abwechselnd stets ein halbes Jahr
+uns, daß wir beschlossen, abwechselnd stets ein halbes Jahr
 in Berlin zu leben. Wir kauften daher die Häuser Laternengasse
 19 und Brückengang 6 und begannen nun entsprechend
 unserem auf alles Außergewöhnliche eingestellten Sinn ein
@@ -1366,7 +1364,7 @@ sollte zu Schiff nach dem Haupthafen der Insel,
 nach Padang, transportiert werden. Unterwegs überwältigten
 die verwegenen Gesellen die Schiffsbesatzung und
 entkamen. Sieben von ihnen waren jedoch bei dem Kampfe
-auf Dem Schoner des Sultans gefallen.
+auf dem Schoner des Sultans gefallen.
 
 Wir beide, das Ehepaar Krause und ihre Freunde
 waren noch vierzehn Tage Gäste des weißen Sultans von

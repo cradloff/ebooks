@@ -75,7 +75,7 @@ bißchen aufpassen, Herr Schraut!«
 
 »Das werde ich, liebe Mathilde,« versicherte ich, zumal
 ich ja selbst schon heute vormittag diese »Kullers« bemerkt
-hatte,
+hatte.
 
 Harald legte plötzlich die Zeitung weg.
 
@@ -111,10 +111,10 @@ Das war Ironie — beißende Ironie!
 Und er fügte hinzu: »Hast Du denn Schloß Gnir in
 diesen Tagen schon so vollständig vergessen?! Denkst Du
 gar nicht mehr daran, daß Lionel Barring seine Verbrechergesellschaft
-»Die große Null« getauft hatte, Daß er und ...
+»die große Null« getauft hatte, daß er und ...
 drei seiner Vertrauten entkommen sind?! Er und drei
 kleine Nullen!! Begreifst Du?! Die Malerei auf dem
-Zaun kann Doch kein Zufall sein. Nein — das ist eine
+Zaun kann doch kein Zufall sein. Nein — das ist eine
 Kampfansage, eine ...«
 
 Im Flur hatte die Glocke geschellt.
@@ -124,7 +124,7 @@ Und gleichzeitig begann die Standuhr dort rechts an
 der Wand mit ihrem tiefen Gongton neun zu schlagen —
 neun Uhr abends ... —
 
-Wir lauschten,
+Wir lauschten.
 
 Ein später Gast ... Wer mochte es sein?
 
@@ -139,7 +139,7 @@ Wir lächelten: Mathilde, die unsere Ferien verteidigte.
 
 Und — Mathilde siegte.
 
-die Haustür klappte zu. Die Sperrkette rasselte. Dann
+Die Haustür klappte zu. Die Sperrkette rasselte. Dann
 brachte die brave Alte einen Zettel.
 
 »Da war eben ’n altes Männchen da,« erklärte sie. »Er
@@ -176,7 +176,7 @@ Zum vierten Male brüllte ich:
 Alles umsonst ...
 
 <@pagebreak/>
-Und dabei konnte Das alte Männchen sich doch noch gar
+Und dabei konnte das alte Männchen sich doch noch gar
 nicht so weit entfernt haben.
 
 Ein paar Leute schauten mir nach. Ein paar junge
@@ -188,7 +188,7 @@ Schließlich kehrte ich um.
 An der Pforte unseres Vorgartens traf ich mit Harald
 zusammen. Er war genau so außer Atem wie ich.
 
-»ich begreife nicht, wo er geblieben sein kann,« meinte
+»Ich begreife nicht, wo er geblieben sein kann,« meinte
 Harst keuchend. »Wenn Mathilde unser Haus nicht so energisch
 gegen diesen Besuch geschützt hätte, säße Wogitsch jetzt
 dort im Zimmer und wir könnten feststellen, was an ihm
@@ -213,7 +213,7 @@ wieder die bekannten Takte aus Carmen:
 
 Ich pfiff nicht. Nein, dazu hatte ich auch nicht die Allergeringste
 Veranlassung. Lionel Barring ist kein Gegner, den
-man mit Operntakten begrüßt. Mir fiel Die Szene in den
+man mit Operntakten begrüßt. Mir fiel die Szene in den
 Tokkara-Höhlen ein, wie die Boa mit dem Weiberkopf aus
 dem Dunkel hervorkroch, — Barrings Werk, Barrings Erfindung!
 
@@ -227,7 +227,7 @@ Das Auto hielt an der Jungfernbrücke.
 Die letzte Strecke wollten wir zu Fuß gehen. Harald
 machte hier den Führer. Er kennt Berlin wie seine Westentasche.
 
-Wieder kamen Wir über eine schmale, alte, schlecht beleuchtete
+Wieder kamen wir über eine schmale, alte, schlecht beleuchtete
 Holzbrücke — mehr ein Fußgängerbrücklein.
 
 Dann der Brückengang. Am Hause links ein Warnungsschild
@@ -245,7 +245,7 @@ wunderlichsten Formen ...
 
 Totenstill war’s in dem Gäßchen.
 
-unheimlich still ...
+Unheimlich still ...
 
 So, als müßten jeden Augenblick aus den uralten verwitterten
 Haustüren Männer in der Tracht aus den Zeiten
@@ -262,7 +262,7 @@ Auch wir warteten vor Nr. 6, schlenderten auf und
 ab und beschauten uns immer wieder das engbrüstige, zweistöckige
 Häuschen, dessen Erdgeschoßfenster kaum ein Viertel
 Meter über dem Boden lagen und durch Holzladen von
-außen gesichert waren, — nur zwei Fensterlein, daneben Die
+außen gesichert waren, — nur zwei Fensterlein, daneben die
 Haustür. Durch die Spalten der Laden drang Lichtschein
 und ein dumpfes Klopfen. Ein Blechschild über der Tür
 verhieß allen kranken Stiefeln baldige Heilung durch Schuhmachermeister
@@ -275,7 +275,7 @@ Es wurde später und später. Der Hund gab das Warten
 auf und trollte mißmutig von dannen. Harst meinte,
 er habe über die Hundesteuererhöhung nachgegrübelt, die
 wieder die Zahl der ahnungslosen Hundefleischesser vermehren
-würde,
+würde.
 
 Harst war bei Laune und meine Uhr drei Viertel zehn.
 
@@ -327,16 +327,16 @@ Harst erzählte, weshalb wir Ernst Wogitsch bisher nicht
 kennen gelernt hätten, und zeige dem Buckligen auch den
 Zettel, fragte dann: »Was wollte Wogitsch bei mir?«
 
-»Das weiß Ich nicht, Herr Harst. — Wir sind ja alte
-Freunde, der Wogitsch und Ich. Wir wohnen hier schon
+»Das weiß ich nicht, Herr Harst. — Wir sind ja alte
+Freunde, der Wogitsch und ich. Wir wohnen hier schon
 zwanzig Jahre. Ihm gehört auch das Haus. Sonst vertraut
 er mir alles an. Aber über seine letzte Bestellung tat
 er sehr geheimnisvoll. Er ist nämlich Modelleur für Wachsköpfe
 und Wachsfiguren, so eine Art Künstler in seinem Fach.
 Er steht mit dem ganzen Ausland in Geschäftsbeziehungen.
-vor — ja vor fünf Tagen bekam er eine neue Bestellung aus
+Vor — ja vor fünf Tagen bekam er eine neue Bestellung aus
 Hamburg. Dem Briefe lag auch Geld bei. — Mehr kann
-Ich darüber nicht angeben. Jedenfalls war Wogitsch seit
+ich darüber nicht angeben. Jedenfalls war Wogitsch seit
 heute vormittag dann sehr aufgeregt. Er sagte zu mir, daß
 es doch gut sei, wenn man eine Zeitung hielte, man erfahre
 dann doch so allerlei. Und heute abend, als er gegen acht
@@ -350,7 +350,7 @@ war wieder sehr aufgeregt.«
 Herr Rehbein?«
 
 »Nein. Ich hätte ihm ja die Haustür aufschließen
-müssen. Wir haben nur einen Hausschlüssel,«
+müssen. Wir haben nur einen Hausschlüssel.«
 
 Die zahme Dohle schlug mit den Flügeln und krächzte.
 
@@ -360,7 +360,7 @@ Racker. Dein Herr wird schon kommen!«
 Und zu uns: »Peter ist Wogitsch’ Eigentum und seine
 einzige Freude. Sie sollen nur sehen, meine Herren, wie
 Peter sich freut, wenn Wogitsch ihn von hier abholt. Der
-Vogel hat wahrhaftig Menschenverstand,«
+Vogel hat wahrhaftig Menschenverstand.«
 
 Rehbeins reiner Dialekt — er berlinerte nur ganz
 wenig — und seine gewandte Ausdrucksweise veranlaßten
@@ -368,7 +368,7 @@ Harst zu der Frage, aus welcher Gegend der Schuster herstamme
 und ob er von jeher Schuhmacher gewesen.
 
 Rehbein blickte vor sich hin und senkte etwas den Kopf.
-»ich bin ... ein Findling, Herr Harst,« erwiderte er zögernd.
+»Ich bin ... ein Findling, Herr Harst,« erwiderte er zögernd.
 »Ich wurde in Stettin in einem Hausflur als
 Säugling gefunden. Ich habe später das Gymnasium besucht.
 Aber meine Pflegeeltern konnten dann doch die
@@ -381,7 +381,7 @@ wollte, was seine Vergangenheit betraf.
 
 Die Dohle meldete sich abermals, und hierdurch wurde
 der Schuhmacher offenbar daran erinnert, daß sein Freund
-Wogitsch doch langst hätte heimgekehrt sein müssen,
+Wogitsch doch langst hätte heimgekehrt sein müssen.
 
 »Wo er nur bleibt?!« meinte er nachdenklich. »Wogitsch
 geht ja nie abends allein aus, nie, höchstens mit mir zusammen
@@ -393,7 +393,7 @@ mal in ein Kino, wenn es ein Seestück gibt.«
 
 Wir schwiegen eine Weile. Die Dohle bearbeitete ein
 Stück Pech mit dem Schnabel. Dann schlug die Kuckucksuhr
-in der Werkstatt halb elf — zwei Kuckucksrufe,
+in der Werkstatt halb elf — zwei Kuckucksrufe.
 
 <@pagebreak/>
 Ich zog unwillkürlich meine Taschenuhr. Und die zeigte
@@ -402,10 +402,10 @@ erst ein Viertel elf.
 »Ihre Uhr da geht falsch,« meinte ich und blickte wieder
 den Buckligen an.
 
-und — — erschrak ...
+Und — — erschrak ...
 
 Rehbein stand jetzt aufrecht — leichenblaß —, stierte
-nach links, Wo die Uhr hing.
+nach links, wo die Uhr hing.
 
 Sein Aussehen verriet ein Entsetzen, das ich nicht begriff,
 für das ja keinerlei Veranlassung gegeben war.
@@ -420,7 +420,7 @@ Er brach ab, sank auf den Schemel zurück, streichelte
 geistesabwesend den Vogel und schielte wieder scheu nach der
 Schwarzwälder Uhr hin.
 
-und — jetzt erst — jetzt erst sah ich, daß die weißen
+Und — jetzt erst — jetzt erst sah ich, daß die weißen
 Zeiger dieser Uhr ebenfalls ein Viertel elf anzeigten.
 
 Eine fast unheimliche Stille entstand.
@@ -442,12 +442,12 @@ draußen.«
 schärferen Tones. »Sie wollen ... nach oben zu Wogitsch!«
 
 Der Bucklige kroch vor Verlegenheit förmlich in sich
-zusammen,
+zusammen.
 
 »Wogitsch ist doch gar nicht oben,« murmelte er und
 streichelte wieder nervös die Dohle.
 
-»ich glaube doch, Herr Rehbein!«
+»Ich glaube doch, Herr Rehbein!«
 
 »Aber — aber, wie ... wie kommen Sie denn darauf,
 Herr Harst?!«
@@ -478,7 +478,7 @@ zur Ruhe zwingen.
 Und lächelte verzerrt, stotterte:
 
 »Ja, ja, es ... es ist ein Signal, Herr Harst, — ganz
-recht! Wogitsch ist Doch zu Hause! Ich ... ich muß ihn
+recht! Wogitsch ist doch zu Hause! Ich ... ich muß ihn
 dann wohl doch nicht gehört haben, wie er heimkehrte.«
 
 »Hm — ich denke, die Haustür war verschlossen, und
@@ -488,7 +488,7 @@ noch hier im Hause?«
 »Niemand ... Die drei Stuben im ersten Stock sind
 zu ... zu baufällig, um noch vermietet zu werden.«
 
-Harald stand langsam auf,
+Harald stand langsam auf.
 
 »Herr Rehbein,« sagte er ernst, »vielleicht hat das Haus
 noch einen zweiten Zugang ...«
@@ -560,7 +560,7 @@ was Sie aus dem Schranke herausholen würden?!«
 <@pagebreak/>
 »Eine Waffe ...!« forschte der Bucklige wieder. Er
 war wie verwandelt. Aus dem mageren, greisenhaften Gesicht
-leuchtete eine Energie, Die mich in Staunen setzte.
+leuchtete eine Energie, die mich in Staunen setzte.
 
 »Eine Waffe für den Gang nach oben,« nickte Harald
 wie verstehend. »Bitte — nehmen Sie sich eine heraus, Herr
@@ -570,7 +570,7 @@ Der Bucklige zauderte. Dann langte er in den Schrank
 hinein und ergriff eine an einem Regal hängende doppelläufige
 Pistole mit reich verziertem Kolben.
 
-Harald hatte gleichzeitig in Die Ulstertasche gefaßt und
+Harald hatte gleichzeitig in die Ulstertasche gefaßt und
 die Clement hervorgeholt.
 
 Die Sicherung sprang mit leisem Knacken zurück.
@@ -606,7 +606,7 @@ Harst meinte harmlos: »Das Schloß ist gut.«
 
 <@pagebreak/>
 
-<h2>5. Kapitel.</h2>
+<h2>3. Kapitel.</h2>
 
 <h3>Unter dem Baldachin.</h3>
 
@@ -672,10 +672,10 @@ war. In der Mitte ein großer Tisch mit allerhand
 Werkzeugen, Wachsabfällen, Tiegeln und Schüsseln. Ein
 Schrank noch, zwei Stühle und ein kleines Sofa.
 
-Das war alles, —
+Das war alles. —
 
 Rehbein hatte sich hier schnell umgesehen und hatte dann
-Die Verbindungstür nach dem Vorderzimmer geöffnet.
+die Verbindungstür nach dem Vorderzimmer geöffnet.
 
 Furchtlos trat er ein.
 
@@ -685,11 +685,11 @@ als erschrocken ...
 Der Lichtschein der Petroleumlampe und der weiße
 Strahlenkegel der elektrischen Leuchte zeigten mir an den
 Wänden aufgereiht eine Menge von Wachsfiguren aller Art:
-Damen In Ballkleidern, Sportanzügen und anderen Kostümen,
+Damen in Ballkleidern, Sportanzügen und anderen Kostümen,
 ferner Männer in allerlei Trachten, selbst Chinesen,
 Japaner, Neger und ein Eskimo in Pelzen fehlte nicht.
 
-Es war ein Wachsfigurenkabinett, nichts anderes,
+Es war ein Wachsfigurenkabinett, nichts anderes.
 
 Im übrigen war der Raum leer.
 
@@ -700,7 +700,7 @@ Dann blieb er plötzlich stehen, — — taumelte ...
 
 Hielt sich an der Türbrüstung fest, deutete auf den Fußboden ...
 
-Da lag etwas Dunkles, etwas, In dem das Licht sich
+Da lag etwas Dunkles, etwas, in dem das Licht sich
 schwach widerspiegelte ...
 
 Es war Blut — eine große, frische Blutlache ... —
@@ -716,7 +716,7 @@ Das Zimmer bot genau denselben Anblick wie der
 Nebenraum, den wir soeben durchschritten hatten. Es enthielt
 nur Wachsfiguren!!
 
-Die Fenster waren auch Hier dicht verhängt. Wollene
+Die Fenster waren auch hier dicht verhängt. Wollene
 Decken waren an Ringen als Vorhänge benutzt worden.
 
 Harald blieb jetzt zurück, ließ mich vorüber.
@@ -766,19 +766,19 @@ Mantel eingeknöpften Mannes ...
 
 »Wogitsch!!« gurgelte er hervor. »Ernst ... Wogitsch!«
 
-Auf der Schulter Des Wachsmodelleurs saß die Dohle
+Auf der Schulter des Wachsmodelleurs saß die Dohle
 und schmiegte ihren Kopf an die bärtige Wange des ...
 Toten ...
 
 Ja — Wogitsch war tot.
 
 Die klaffende Wunde am Halse lag über dem Rande
-des blutbefleckten Gummikragens frei
+des blutbefleckten Gummikragens frei.
 
 Harst bückte sich, hob die eine Hand des Toten auf, ließ
-sie wieder zurückfallen,
+sie wieder zurückfallen.
 
-»Suchen wir weiter,« sagte er nur,
+»Suchen wir weiter,« sagte er nur.
 
 Auch der Seidenstoff sank herab und bedeckte die Leiche.
 
@@ -803,7 +803,7 @@ Der Bucklige stellte die Lampe auf den Tisch. Sein Gesicht
 war völlig verändert leichenhaft, starr.
 
 »Was wollen Sie wissen?« fragte er trotzdem mit
-fester Stimme,
+fester Stimme.
 
 »Zunächst die Wahrheit über das Signal ...«
 
@@ -818,20 +818,20 @@ ruft zweimal.«
 »Ja ...« — Man merkte, wie sehr dieser merkwürdige
 <@pagebreak/>
 Schuhmacher sich hatte überwinden müssen, diese Antwort
-zu geben,
+zu geben.
 
 »Weshalb fürchteten Sie sich denn so sehr vor ... Einbrechern,
 Herr Rehbein?« — Harsts starre Augen hielten den
 Buckligen wieder völlig in Bann. Rehbeins Benehmen war
 jetzt abermals von der Höhe selbstbewußter Energie hinabgesunken
-zu scheuer Aengstlichkeit und Verlegenheit. Ja — es
+zu scheuer Ängstlichkeit und Verlegenheit. Ja — es
 war ein recht rätselhaftes Gewächs dieser kleine Alte, dem
 der schmutzig-weiße Schnurrbart traurig um die Mundwinkel
 herabhing.
 
 Rehbein suchte eine Weile nach einer glaubhaften Ausrede.
 Man sah ihm geradezu an, daß er sein Hirn nach
-einer schlauen Lüge zerwühlte,
+einer schlauen Lüge zerwühlte.
 
 Dann — hastig hervorgestoßen:
 
@@ -845,7 +845,7 @@ wohl mitteilen missen!«
 
 Der Schuster schaute zu Boden, schwieg.
 
-»Schraut,« wandte Harst sich mir zu, »begleite Jetzt
+»Schraut,« wandte Harst sich mir zu, »begleite jetzt
 Herrn Rehbein zum nächsten Polizeirevier, melde das
 Nötige und ...«
 
@@ -875,7 +875,7 @@ Gewiß — ich war im Moment auf den Beinen ...
 Doch — das half mir wenig. Rehbein hatte die Haustür
 bereits zugeschlagen und von innen abgeschlossen.
 
-ich hämmerte mit den Fäusten dagegen. Ich hoffte,
+Ich hämmerte mit den Fäusten dagegen. Ich hoffte,
 daß Harald es oben hören würde ...
 
 Ich schäumte vor Wut. Mich so überlisten zu lassen!
@@ -897,7 +897,7 @@ Der Mann, der bei mir zurückblieb, war ein Monteur
 namens Zwicker.
 
 Ich erzählte ihm nun auch, weshalb ich so laut gegen
-die Tür getrommelt hätte,
+die Tür getrommelt hätte.
 
 Da rief er wieder: »Oh — der bucklige Rehbein! Ne —
 wer dem das zugetraut hätte! So’n Häufchen Unglück! —
@@ -912,9 +912,9 @@ heißt Ihr Freund, der oben geblieben ist?«
 »Harst ...«
 
 »Ah — also doch!« und er lachte etwas und — — zog
-einen Harstband aus Der Tasche. »Man will doch mal das
+einen Harstband aus der Tasche. »Man will doch mal das
 ganze Elend von heute vergessen,« meinte er eifrig. »Wenn
-Ich Ihre Geschichten lese, Herr Schraut, lebe ich in einer
+ich Ihre Geschichten lese, Herr Schraut, lebe ich in einer
 anderen Welt. Das ist nur gut. Man kommt eben auf andere
 Gedanken, Herr Schraut.«
 
@@ -944,7 +944,7 @@ heraus, der Rehbein.«
 
 »Ausgeschlossen, Herr Schraut. Da sind nur himmelhohe
 glatte Mauern der Kartonfabrik von Uhlig und Kompagnie.
-Und übers Dach geht’s doch auch nicht. denn oben
+Und übers Dach geht’s doch auch nicht. Denn oben
 ist Herr Harst ...«
 
 »Fall Rehbein nicht lautlos die Treppen emporschleicht
@@ -957,7 +957,7 @@ die Dächer klettern!«
 »Sie irren: Der Schuster ist nicht so kraftlos, wie Sie
 denken,« erwiderte ich und massierte mein schmerzendes Knie.
 
-Da bog auch schon ein Auto in die schmale Gasse ein
+Da bog auch schon ein Auto in die schmale Gasse ein.
 
 Es war die Polizei ...
 
@@ -1001,7 +1001,7 @@ Man bekam sich selten zu Gesicht. Verwandte oder Freunde
 konnten sie nicht haben, da sie nie einen Brief erhielten,
 es sei denn von einer Behörde. Aber — sie waren mildtätig
 und große Kinderfreunde. Jeden Weihnachten bescherten
-sie zehn Kinder sehr reichlich. dann brannte in Rehbeins
+sie zehn Kinder sehr reichlich. Dann brannte in Rehbeins
 Werkstatt ein Tannenbaum. —
 
 Und dieser Rehbein hatte nun, wie Harald bereits hatte
@@ -1021,7 +1021,7 @@ Das Häuschen war leer gewesen. Rehbein war, wie die
 offene Dachluke bewies, nach dem Ueberfall über die Dächer
 entkommen ... —
 
-Das Auto hielt vor Blücherstraße 10,
+Das Auto hielt vor Blücherstraße 10.
 
 Der Beamte und ich faßten Harald unter und führten
 ihn ins Schlafzimmer.
@@ -1032,10 +1032,10 @@ würde die Schmerzen schon beseitigen.
 
 So verabschiedete sich der Beamte denn. Ich brachte
 ihn bis an die Haustür, bedankte mich nochmals und versperrte
-Die Tür hinter Dem Davoneilenden, auf den das
+die Tür hinter dem Davoneilenden, auf den das
 Polizeiauto gewartet hatte.
 
-ich kehrte in Haralds Arbeitszimmer zurück. ich
+Ich kehrte in Haralds Arbeitszimmer zurück. Ich
 wollte aus dem einen Schranke die Eisblase hervorsuchen.
 
 Ich — hatte das nicht mehr nötig. Harst, der doch
@@ -1046,7 +1046,7 @@ in dem Gemach, das schon so manches an Absonderlichem
 miterlebt hatte.
 
 Und — er rauchte wahrhaftig eine Mirakulum!
-Welcher Leichtsinn! bei einer Gehirnerschütterung!!
+Welcher Leichtsinn! Bei einer Gehirnerschütterung!!
 
 Mein Gesicht drückte meine Gedanken wohl sehr deutlich
 aus, denn Harald sagte etwas kleinlaut:
@@ -1061,7 +1061,7 @@ und einen Brief ausgebreitet.
 Ich sah mit einem Blick, daß es eine Zeitung war, die
 wir nicht hielten — die Berliner Volksstimme.
 
-»ich fand sie in dem rechten Schubkasten des Schrankes,«
+»Ich fand sie in dem rechten Schubkasten des Schrankes,«
 erklärte Harald, der meinem Blick gefolgt war. »Wogitsch
 benutzte den Schubkasten als Schreibsekretär. Die dort aufbewahrten
 Papiere waren durchwühlt worden. Von wem,
@@ -1092,7 +1092,7 @@ Da stand:
 > Berlin.
 
 > Sie sind mir als vorzüglicher Wachsfigurenkünstler
-empfohlen worden. ich sende Ihnen anbei acht Photographien
+empfohlen worden. Ich sende Ihnen anbei acht Photographien
 des Kopfes einer Inderin ein. Die Aufnahmen
 <@pagebreak/>
 sind sprechend ähnlich und geben den Kopf von allen
@@ -1104,7 +1104,7 @@ Kopf muß unbedingt aus einiger Entfernung wie der
 einer Lebenden wirken. (Auch die Augenfarbe ersehen
 Sie aus der Skizze.) Ferner brauche ich zu dem Kopf ein
 Paar leicht bräunliche zierliche Hände und Füße bis
-zur halben Wade. — Als Anzahlung für die Arbeit, Die
+zur halben Wade. — Als Anzahlung für die Arbeit, die
 bis zum 9. März unbedingt vollendet sein muß, lege ich
 einhundert Dollar bei. Den Restbetrag begleiche ich am
 9\. März abends zehn Uhr. Erwarten Sie mich dann vor
@@ -1160,16 +1160,16 @@ erhalten hatte!!
 
 Und dieser Freund lächelte jetzt unmerklich ...
 
-»ich weiß noch mehr, lieber Alter. Das möchte ich
+»Ich weiß noch mehr, lieber Alter. Das möchte ich
 Dir jedoch an Ort und Stelle mitteilen. Nur eins will ich
 Dir schon jetzt sagen: Diese beiden Greise da aus Brückengang
 6 werden uns noch manche Nuß zu knacken geben!
 Sie sind nicht das, wofür sie gelten wollen, sie waren
 einst ...«
 
-Und — wieder die Kunstpause,
+Und — wieder die Kunstpause.
 
-ich beugte mich näher zu Harald hin ...
+Ich beugte mich näher zu Harald hin ...
 
 » ... sie waren einst... Piraten, Seeräuber...!«
 beendete er leise den Satz.
@@ -1179,7 +1179,7 @@ Piraten — — Seeräuber?!
 Wenn Harst gesagt hätte: »Diebe, Einbrecher, Mörder«
 — das hätte ich geglaubt.
 
-Aber — — Piraten?! wer denkt 1923 noch an diese
+Aber — — Piraten?! Wer denkt 1923 noch an diese
 Herrschaften?! Gewiß, das Seeräuberhandwerk ist nicht
 ausgestorben. Das wissen wir beide am besten. In den
 chinesischen Gewässern, in den verschwiegenen Buchten der
@@ -1196,7 +1196,7 @@ Jetzt — — lächelte ich ich zweifelnd ... —
 Harald beachtete das nicht.
 
 »Die Polizei wird Brückengang 6 wohl bereits verlassen
-und Die Leiche weggeschafft haben,« sagte er und
+und die Leiche weggeschafft haben,« sagte er und
 stand auf. »Immerhin kann ich noch eine halbe Stunde
 Günters bekanntes Werk über Alt-Berlin studieren.«
 
@@ -1211,7 +1211,7 @@ Ich kannte das. Wenn er besonders scharf nachdenken
 wollte, mußte ihn die Klangfülle seiner Improvisationen
 umrauschen.
 
-Ich schlich bis an Die Türvorhänge.
+Ich schlich bis an die Türvorhänge.
 
 Da saß er. Nur die längliche Klavierlampe über dem
 Notenhalter brannte. Und auf diesem Notenhalter stand ein
@@ -1229,7 +1229,7 @@ abenteuerliches Leben.
 
 Harst spielte, improvisierte. Harst — — spielte mit den
 Schicksalen anderer, unserer Gegner, der Leute, die dem
-bürgerlichen Frieden den Krieg erklärt hatten, —
+bürgerlichen Frieden den Krieg erklärt hatten. —
 
 Weshalb las er in Friedrich Günters »Alt-Berlin«, in
 dem Spezialwerk eines Baurats über Alt-Berliner
@@ -1262,7 +1262,7 @@ Vor einer Stunde noch der raffinierte Luxus der Harstschen
 Bibliothek. Jetzt ... zerrissene Schuhe, Gummikragen mit
 roten Schlipsen auf schmierigen Wollhemden ...
 
-Harst flüstert: »Nicht so einfach, hineinzugelangen. die
+Harst flüstert: »Nicht so einfach, hineinzugelangen. Die
 Polizei hat noch außen ein Schloß vor die Tür gelegt…«
 
 Und nach kurzer Pause: »Aber die Regenrinne dort
@@ -1276,13 +1276,13 @@ Und gleitet über die Straße ...
 Schwingt sich empor ...
 
 Nur er ist Turner, Jongleur, Kunstschütze. Er ist alles.
-Er ist der Mann der modernen Zeit, —
+Er ist der Mann der modernen Zeit. —
 
 <@pagebreak/>
 Oben im ersten Stock, der unbewohnt ist, weil zu baufällig,
 ein leises Krachen, ein leises Splittern.
 
-Eine Scheibe hat dran glauben müssen
+Eine Scheibe hat dran glauben müssen.
 
 Harst verschwindet in dem rasch geöffneten Fensterflügel.
 
@@ -1293,14 +1293,14 @@ Belastung gewesen.
 
 Harald hilft mir nach oben. Das geht im Nu. Leise
 keuchend stehe ich neben ihm im Dunkeln auf morschen Dielen,
-in Denen die Trockenfäule, der trockene Schwamm, wütet.
+in denen die Trockenfäule, der trockene Schwamm, wütet.
 
 Wir warten am Fenster, ob wir etwa beobachtet worden
 sind.
 
 Nein — nichts ...
 
-Kein Mensch ist Draußen zu sehen.
+Kein Mensch ist draußen zu sehen.
 
 »Fein gemacht!« sagt Harald.
 
@@ -1310,7 +1310,7 @@ die Löcher, die brüchigen Stellen.
 Schritt für Schritt schleichen die Kaschemmenbrüder
 weiter.
 
-Oeffnen die Tür zum Treppenflur ...
+Öffnen die Tür zum Treppenflur ...
 
 Lauschen ...
 
@@ -1356,7 +1356,7 @@ ist ...
 
 Die Dohle krächzt ...
 
-Harst Hat die Lampe vorhin ausgeschaltet. Schaltet sie
+Harst hat die Lampe vorhin ausgeschaltet. Schaltet sie
 wieder ein, flüstert:
 
 »Mit drei Sprüngen die Treppe empor und hinein!«
@@ -1367,7 +1367,7 @@ Ist oben ...
 
 Ich — ich schaffte es mit vier Sprüngen.
 
-Wir stehen in dem armseligen Raum. die Gaslampe
+Wir stehen in dem armseligen Raum. Die Gaslampe
 über dem großen Arbeitstische brennt ...
 
 Und in dem alten Ohrensessel dort neben dem braunen
@@ -1386,7 +1386,7 @@ Jetzt ... kein Herr, jetzt ein... Gefesselter, Gefangener
 — trotz des Monokels.
 
 Aus dem Munde ragt der Zipfel eines Knebels heraus.
-von dem Zipfel laufen Kupferdrähte, tief in die Wangen
+Von dem Zipfel laufen Kupferdrähte, tief in die Wangen
 sich eindrückend, nach dem Genick.
 
 Lionel Barring!!
@@ -1398,7 +1398,7 @@ Aber es war nicht unser Verdienst. Es war ein Zufall!
 Die — große Null, die nicht zu fassende Verbrechergemeinschaft,
 <@pagebreak/>
 die von Harst dann doch gesprengt worden war,
-saß Hier vor uns, verkörpert durch Lionel Barring, in Wahrheit ...
+saß hier vor uns, verkörpert durch Lionel Barring, in Wahrheit ...
 Lord Allan Gnirable, einst Besitzer von Schloß
 Gnir, entarteter Sprößling einer der ältesten Geschlechter
 Schottlands ... —
@@ -1420,7 +1420,7 @@ Jedenfalls: wir hatten ihn!
 
 Und — wir hatten ihm das Leben gerettet!
 
-Vielleicht noch fünf Minuten Dann ...
+Vielleicht noch fünf Minuten dann ...
 
 — — Doch das gehört nicht mehr hierher.
 
