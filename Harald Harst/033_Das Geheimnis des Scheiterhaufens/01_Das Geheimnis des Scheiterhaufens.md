@@ -547,7 +547,7 @@ jedoch eine kühle Zurückhaltung.
 »Ich möchte an unser Gespräch von heute mittag vor der
 Schwe Dagon-Pagode anknüpfen,« begann Harald nun. »Ich
 habe mir inzwischen so manches überlegt, Herr Tschong, und
-ich bin zu der Ueberzeugung gelangt, daß Sie einen Doppelgänger
+ich bin zu der Überzeugung gelangt, daß Sie einen Doppelgänger
 haben müssen, der Ihnen wohlbekannt ist, von dem Sie
 aber nicht gerne sprechen. Ich bitte Sie nun, mir gegenüber
 ganz aufrichtig zu sein. In meiner und meines Freundes
@@ -725,7 +725,7 @@ Fensterglas als einziger Beweis für —«
 Menschen vor sich zu haben,« ergänzte Harst gelassen. »Wer
 so kurzsichtig ist wie Tschong, kann durch Fensterglas so gut
 wie nichts sehen und wird daher doch nicht eine solche Brille
-plötzlich zwecklos tragen! Ueberlege Dir das mal.«
+plötzlich zwecklos tragen! Überlege Dir das mal.«
 
 »Allerdings —«
 
@@ -748,7 +748,7 @@ schleppte uns nacheinander in sein Schlafzimmer, leerte uns
 die Taschen und verstaute uns in des echten Tschong Riesenkoffer.
 Wahrscheinlich rechnet er damit, daß wir hier bereits
 erstickt sind. Und dies wäre wohl auch geschehen, wenn nicht
-mein linker Aermelaufschlag gewesen wäre mit dem stets
+mein linker Ärmelaufschlag gewesen wäre mit dem stets
 darin befindlichen kleinen, starken Messer, das uns schon wiederholt
 gute Dienste geleistet hat. — Da — siehst Du den
 schwachen Lichtschimmer. Ich habe sechs Löcher dort in die
@@ -1006,7 +1006,7 @@ auserlesenen Gaunervisage, schleppte eine frisch geschlachtete
 Ziege in die Ruine.
 
 Nachdem er den Geröllwall überklettert und das Tier auf
-die Steinplatten gelegt hatte, kam für uns die größte Ueberraschung.
+die Steinplatten gelegt hatte, kam für uns die größte Überraschung.
 
 Der Alte zog sein Messer, steckte es in eine Ritze zwischen
 die Steinplatten, drückte und — plötzlich klappten vier der
@@ -1545,7 +1545,7 @@ Vorahnung, daß sie vielleicht sehr bald gezwungen sein würde,
 selbst Hand an sich zu legen; sie kämpfe jetzt gegen einen Feind,
 der ihr zum mindesten ebenbürtig sei, gegen einen deutschen
 Liebhaberdetektiv namens Harst. Ich solle nach ihrem Tode
-und ihrer Einäscherung die Ueberbleibsel des Scheiterhaufens
+und ihrer Einäscherung die Überbleibsel des Scheiterhaufens
 sehr genau durchsuchen. Dann würde ich das finden, was
 sie mir einst abgepreßt hätte und wovon sie doch nie irgendwie Gebrauch
 machen würde, da sie es in meinem Hause so sehr gut

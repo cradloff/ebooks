@@ -385,7 +385,7 @@ Harst beugte sich jetzt wieder über die Briefmarke, die
 er mit einer Pinzette in der linken Hand hielt.
 
 »Da sind Sie allerdings billig zu Ihren wertvollen
-Stücken gekommen,« meinte er. »Uebrigens — zeigen Sie
+Stücken gekommen,« meinte er. »Übrigens — zeigen Sie
 mir bitte genau die Stelle, wo die Marke auf dem Löschblatt
 und wo dieses wieder hier auf der Schreibtischplatte
 lag, Monsieur Trimal.«
@@ -564,7 +564,7 @@ einem lehmgestampften Wege. Vor uns reckte sich der graziöse
 Bogenbau einer jener so wenig tragfähig aussehenden
 Brücken aus Bambusstangen in die Luft, die doch weit dauerhafter
 und fester als schwerfällige andere Holzkonstruktionen
-sind. Die Brücke war einer von jenen zahlreichen Uebergängen
+sind. Die Brücke war einer von jenen zahlreichen Übergängen
 <@pagebreak/>
 über Seitenarme des Menam und wie alle diese Bauten
 mit Brettern gedeckt.
@@ -738,7 +738,7 @@ Stelle vorhanden. Bewege einmal den Arm.«
 kaum zu ertragen.«
 
 »Wenn Du mir schwörst, nicht zu fliehen, dann tue ich’s,«
-meinte der Menam-Bruder nach kurzem Ueberlegen. »Aber
+meinte der Menam-Bruder nach kurzem Überlegen. »Aber
 Du mußt auch die 500 Pfund zahlen und darfst uns nicht bei
 der Polizei anzeigen.«
 
@@ -762,7 +762,7 @@ zustellen könnt. Abends dürft Ihr dann nach Bangkok zurück.«
 <@pagebreak/>
 »Erst morgen abend?!« rief Harst enttäuscht. »Weshalb
 wollt Ihr uns so lange gefangen halten? Es wäre mir
-lieber, wir träfen jetzt schon ein Uebereinkommen wegen der
+lieber, wir träfen jetzt schon ein Übereinkommen wegen der
 Auszahlung des Geldes. Ich lege noch fünfzig Pfund zu,
 wenn Ihr uns schon frühmorgens freilaßt.«
 
@@ -1001,7 +1001,7 @@ suchte hier offenbar ein bestimmtes Haus. Dann blieb er
 vor einem älteren, schmalen Ziegelbau stehen und schaute
 zu den Fenstern des ersten Stockes empor. Vor dem Hause
 stand gerade ein Mast mit einer elektrischen Bogenlampe.
-Im Erdgeschoß befand sich ein Eisenwarengeschäft. Ueber dem
+Im Erdgeschoß befand sich ein Eisenwarengeschäft. Über dem
 Schaufenster las ich die englische Firmenaufschrift:
 
 > James Houster, Kunstschlosserei.
@@ -1111,10 +1111,10 @@ der Tür. — Die Absicht war die, uns zu zwingen, die beiden
 angeblich aus der Stadt bestellten Rikschas zu benutzen. Mir
 waren diese gleich nicht recht geheuer. Die Rikschakulis trugen
 Leinenjacken und -hosen. Auch das war ein Fehler. Immerhin
-— ich war nur auf einen Ueberfall gefaßt, nicht auf
+— ich war nur auf einen Überfall gefaßt, nicht auf
 das Loch im Brückenbelag. Auch dieses Detail war fein ausgeklügelt.
 Der Sturz in die Tiefe kam ja so unerwartet, daß
-Gegenwehr nicht gut möglich war. Uebrigens haben Trimal
+Gegenwehr nicht gut möglich war. Übrigens haben Trimal
 und Genossen die Flachbootschiffer ja auch erst gestern abend
 für sich gewonnen, — ein weiterer Beweis, daß die Bande nur
 erst durch den Rekorder auf uns aufmerksam wurde. —
@@ -1285,7 +1285,7 @@ Jetzt betrat er, stets einen schmalen Fußpfad benutzend, ein
 Tal zwischen den Hügeln, in dem hohes Gestrüpp wucherte.
 
 »Näher heran!« flüsterte Harst »Dieser Ort ist gefährlich,
-eignet sich nur zu sehr für einen Ueberfall.«
+eignet sich nur zu sehr für einen Überfall.«
 
 Der Pfad schlängelte sich zwischen den Gestrüppwänden
 in kurzen Biegungen hindurch. Wir liefen jetzt im Trab,
@@ -1353,7 +1353,7 @@ aus Baumästen hergestellte Tragbahre gelegt hatten.
 
 »Nach dem P’hrabat!« rief Harst jetzt in einer Erregung,
 die er nur mühsam verbergen konnte. »Hier sind wir zu
-spät gekommen, haben den Ueberfall auf Houster nicht mehr
+spät gekommen, haben den Überfall auf Houster nicht mehr
 <@pagebreak/>
 verhüten können! Ich hatte nicht damit gerechnet, daß Trimal
 es wagen würde, eine Schußwaffe zu benutzen. Im goldenen
@@ -1476,7 +1476,7 @@ P’hrabat einen falschen Houster auftauchen zu lassen. Die
 Aufnahmen oder besser deren Vergrößerungen sollten nur
 dazu dienen, jede Einzelheit von Housters Gesicht recht getreu
 bei der Maske für den falschen Houster berücksichtigen
-zu können. Da Ihr Gesicht eine entfernte Aehnlichkeit mit
+zu können. Da Ihr Gesicht eine entfernte Ähnlichkeit mit
 dem des Kunstschlossers hat, fehlte nur weniges, um eine tadellose
 Täuschung hervorzurufen. Der Plan war fein ersonnen,
 aber — er enthielt doch grobe Fehler, besonders was

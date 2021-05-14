@@ -336,7 +336,7 @@ Wohnung in der Kantstraße Nr. 36 — ich wohne dort möbliert
 Schmargendorf fuhr, da — da bemerkte ich vom Innern
 des Wagens aus auf der Plattform einen Mann, der mich
 zuweilen mit so einem besonderen Blick streifte. — Gewiß,
-der Mann hatte keinerlei Aehnlichkeit mit meinem mageren,
+der Mann hatte keinerlei Ähnlichkeit mit meinem mageren,
 bartlosen Chef, hatte einen rötlichen Vollbart, trug keinen
 Hornkneifer, hatte eine noch dickere Nase als Gumlowsky
 und war korpulent. Und trotzdem: die Augen verrieten
@@ -401,7 +401,7 @@ zu Gesicht bekommen?«
 »Weshalb fürchteten Sie sich vor ihrem Chef so sehr,
 daß Sie sich im Hühnerstall verbargen?«
 
-»Oh — der Mann ist sehr jähzornig. Ueberhaupt —
+»Oh — der Mann ist sehr jähzornig. Überhaupt —
 man muß vor ihm Angst haben. Er — er hat grausame,
 tödliche Augen.«
 
@@ -476,7 +476,7 @@ Lehmann schüttelte den Kopf. »Das ist wohl ausgeschlossen,
 Herr Schraut. Gumlowsky hatten Herr Harst und
 ich als Verfolger.«
 
-»Oeffnen Sie erst die Haustür,« meinte Harald. »Es
+»Öffnen Sie erst die Haustür,« meinte Harald. »Es
 gibt dann eben zwei Gumlowskys.«
 
 Die Geschichte der sechs Briefbogen wurde interessant.
@@ -641,11 +641,11 @@ schwarze Max.«
 
 »Da ist mir eine Vermutung gekommen, die mit Gumlowskys
 Segeleifer zusammenhängt, außerdem mit der
-braven Mathilde letztem gewaltigen Aerger — «
+braven Mathilde letztem gewaltigen Ärger — «
 
 »Wie — heute mit dem Hühnerdieb?«
 
-»Nein, lieber Alter. Dieser Aerger liegt weiter zurück.
+»Nein, lieber Alter. Dieser Ärger liegt weiter zurück.
 Zerbrich Dir aber nicht den Kopf. Die gute Mathilde
 schimpft so oft auf dies und jenes, daß die Auswahl zu
 groß ist. — Wir werden jetzt daheim zu Bett gehen und
@@ -1361,7 +1361,7 @@ der nächsten Straße hatte.
 
 Es mußte notwendig auffallen, daß der Zaun des
 Grundstücks recht neu und durch starke Stacheldrähte oben
-verlängert war. Das Ueberklettern dieses Zaunes hatte
+verlängert war. Das Überklettern dieses Zaunes hatte
 uns denn auch einige Zeit aufgehalten.
 
 Nach der Wasserseite, der Hauptfront, durften wir uns
@@ -1603,7 +1603,7 @@ habe. Auch Gumlowsky nebst Frau wird bewacht. Aber
 die Polizei greift erst um vier Uhr morgens zu. Das
 habe ich verlangt. Von Ihnen erwähnte ich nichts. Sie
 sind bis vier Uhr sicher. — So, nun können Sie die fünf
-Millionen haben. Uebrigens — ich habe auch fünf echte
+Millionen haben. Übrigens — ich habe auch fünf echte
 Millionen bereit — für den Fall, daß ich in Wannsee doch
 nicht genug Geld gefunden hätte. Meine Mutter hat das
 Geld geholt. Aber — da Sie die Scheine in diesen Paketen

@@ -329,7 +329,7 @@ der Diener kam uns entgegen.
 meldete er. »Sie hat einen Brief zurückgelassen.
 Er liegt auf dem Schreibtisch.«
 
-Der Brief lautete in deutscher Uebersetzung:
+Der Brief lautete in deutscher Übersetzung:
 
 > Sehr geehrter Herr Harst!
 
@@ -632,7 +632,7 @@ jetzt wieder seine volle Takelage hatte.
 
 Wir drei mußten das Fallreep hinab und in einen
 Verschlag des Küstenseglers hinein. An der Decke hing
-eine kleine Oellampe. Zwei Kerle hocken vor der Tür
+eine kleine Öllampe. Zwei Kerle hocken vor der Tür
 <@pagebreak/>
 des Verschlages und beobachteten uns ständig.
 
@@ -695,7 +695,7 @@ Wächter und der Pockennarbige blieben in einiger
 Entfernung stehen und hörten zu. —
 
 Daisy O’Brien glich völlig einem jungen Araber,
-der etwas auf sein Aeußeres hielt.
+der etwas auf sein Äußeres hielt.
 
 Ihre Blicke ruhten jetzt mit einem Ausdruck von
 Haß und Rachgier auf Haralds gleichmütigem Gesicht.
@@ -858,7 +858,7 @@ die Kräfte dazu reichten.«
 
 <@pagebreak/>
 Harald schwieg. — Wieder verstrich eine lange Zeit.
-Ich schaute in den blauen Aether empor. Dort schwebten
+Ich schaute in den blauen Äther empor. Dort schwebten
 ein paar Vögel, zogen weite Kreise. Vielleicht waren’s
 die Aasgeier, die Daisy O’Brien uns angekündigt hatte.
 
@@ -1225,7 +1225,7 @@ Kammer neben uns, während die englischen Seeleute im
 Vorschiff sich eingerichtet hatten. —
 
 Abends saßen wir beide in der Kajüte beim Scheine
-der Oellampe und labten uns an den Speisen, die der
+der Öllampe und labten uns an den Speisen, die der
 vielseitige Tscho zubereitet hatte. Die Tür nach dem
 Deck stand offen. Vorn spielte einer der Engländer das
 Schifferklavier, die Ziehharmonika. Rechts lehnte mein

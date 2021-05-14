@@ -128,7 +128,7 @@ von dem Inhalt Kenntnis erhielte.
 Balk?« fragte er dann den dürren Wachtmeister.
 
 »Hm — der Graf hat sich natürlich, was die Perserin
-angeht, durch eine Aehnlichkeit täuschen lassen,« meinte
+angeht, durch eine Ähnlichkeit täuschen lassen,« meinte
 Balk.
 
 »Ganz bestimmt,« nickte Harst. »Das Wesentliche ist jetzt
@@ -437,7 +437,7 @@ Namen des Chrysostomos — wagt keinen Widerstand!«
 
 *Harst:* »Darf ich Ihnen noch einen guten Rat geben,
 Herr Graf! — Sprechen Sie auch hierüber nicht mit
-Ihrer nervösen Gattin. Die Erinnerung an den Ueberfall
+Ihrer nervösen Gattin. Die Erinnerung an den Überfall
 könnte vielleicht bei Ihrer Gattin einen Nervenschock und einen
 Rückfall in jenem hypnotischen Zustand hervorrufen —«
 
@@ -491,7 +491,7 @@ des im Laubengelände ermordeten Weibes —«
 
 Er setzte sich und griff nach einer Zigarette.
 
-»Die Ermordete hatte Aehnlichkeit mit jener Frau, die
+»Die Ermordete hatte Ähnlichkeit mit jener Frau, die
 den Grafen Emanuelo Santa Rocca zusammen mit jenem
 Manne, den sie Testio nannte, am Dulek Abi-See bewachte.
 Und — die Ermordete war Tänzerin!«
@@ -510,7 +510,7 @@ die sich Margrita nannte. Und diese Margrita muß weiter,
 was mit den ganzen Tatsachen übereinstimmt, die Gattin
 Rafalgas sein. Vor anderthalb Jahren wurde sie »geraubt«.
 Also hat sie Emanuelo Santa Rocca ganz gut in
-Aegypten bewachen können. Jetzt ist sie auf der Suche
+Ägypten bewachen können. Jetzt ist sie auf der Suche
 nach uns in Berlin angelangt — nebst Begleitung, hat
 vorher ihr schwarzes Haar blond werden lassen und spinnt
 jetzt ein Netz für uns beide!«
@@ -564,7 +564,7 @@ flachen Dach, von dem wir bequem auf das von Nr.
 
 Es war windig, und es schneite ein wenig.
 
-Das Oeffnen der Dachluke von Nr. 15 hielt uns zehn
+Das Öffnen der Dachluke von Nr. 15 hielt uns zehn
 Minuten auf.
 
 Während Harald hiermit beschäftigt war, sagte er unvermittelt:
@@ -798,7 +798,7 @@ Der Schrank stand ganz dicht an der Mauer. — Sehr bald
 hatte Harst in der Rückwand ein bewegliches Stück herausgefunden,
 schob es nach außen auf.
 
-Und — nun kam die Ueberraschung! — Ich habe mit
+Und — nun kam die Überraschung! — Ich habe mit
 Absicht dieses Kapitel »Der Fuchsbau« überschrieben. Harsts
 Vermutung, es müßte hier eine Geheimtreppe geben, wurde
 durch das, was wir fanden, bei weitem übertroffen.
@@ -864,7 +864,7 @@ in Ihre Wohnung zurück. Den Koffer werde ich dort durchsuchen.«
 Harald überzeugte sich noch, daß der Schlüssel der
 Flurtür hier von innen im Schloß steckte. Es war auch die
 Sicherheitskette vorgelegt. Wir hatten also auch von dieser
-Seite keinerlei Ueberraschungen zu befürchten. —
+Seite keinerlei Überraschungen zu befürchten. —
 
 In Bassanos Wohnung war das größere der Balkonzimmer
 als Büro eingerichtet. Hier hatte Bassano als
@@ -1012,7 +1012,7 @@ können Sie in diesem Zustande nicht. Ich werde Sie
 daher in dem Sessel festbinden und Ihnen etwas einflößen,
 das den Starrkrampf löst. Sie können Ihr Leben retten,
 wenn Sie ehrlich sind. Um Hilfe rufen — dazu sind Sie
-zu schwach. Ueberlegen Sie sich, ob Sie sich um den Preis
+zu schwach. Überlegen Sie sich, ob Sie sich um den Preis
 einiger Antworten das Leben erhalten wollen.«
 
 <h2>4. Kapitel.</h2>
@@ -1322,7 +1322,7 @@ Gattin hätte ihn vorhin gebeten, die beiden Diener zu Ihrem
 Schutz dorthin mitzunehmen, da sie noch immer sich so
 sehr vor den Nachstellungen der Leute fürchte, von denen
 sie so lange gefangen gehalten worden war. — Der Graf
-hatte ihr dies sofort zugesagt, um die Uebernervöse nicht
+hatte ihr dies sofort zugesagt, um die Übernervöse nicht
 noch mehr aufzuregen. —
 
 »Du denkst jetzt fraglos dasselbe wie ich, lieber Alter,«
@@ -1402,7 +1402,7 @@ flüsterte er.
 Das Gespräch wandte sich dem unheimlichen Thema
 <@pagebreak/>
 seelischer Beeinflussung zu. Professor Simsberg bestritt
-manches, was andere Aerzte auf dem Gebiete der Suggestion
+manches, was andere Ärzte auf dem Gebiete der Suggestion
 als möglich zugegeben hatten. Die Gräfin kam nochmals
 auf den Marseiller Arzt zu sprechen. Sie erzählte
 von einem Experiment der Gedankenübertragung, das er
@@ -1562,7 +1562,7 @@ Als wir dann in Becherts Dienstzimmer der sofortigen
 Vernehmung Margritas, Baptistes und Charles beiwohnten,
 <@pagebreak/>
 erkannten wir in Baptiste jenen Menschen wieder, der
-sich in Aegypten Testio genannt hatte.
+sich in Ägypten Testio genannt hatte.
 
 Margrita und die beiden »Diener« versuchten es zunächst
 mit hartnäckigem Schweigen. Harst flüsterte Bechert

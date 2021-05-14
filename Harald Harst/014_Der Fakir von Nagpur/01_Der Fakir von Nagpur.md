@@ -64,7 +64,7 @@ erhaben über jede Rücksicht auf Menschenleben führe.
 
 »Gerade diese brutale Mordgier Warbattys hat etwas
 so dämonisches an sich, daß ich fast geneigt bin, anzunehmen,
-er müsse Arzt sein, — eben einer jener Aerzte, die durch ihren
+er müsse Arzt sein, — eben einer jener Ärzte, die durch ihren
 Beruf das Leben für nichts zu achten gelernt haben,« fügte er
 hinzu und belegte dann diese seine Ansicht mit fein durchdachten
 Beweisen, deren Geistesblitze den meisten Anwesenden jedoch
@@ -170,7 +170,7 @@ könnte eine Höllenmaschine oder dergleichen enthalten.
 
 Der Kistendeckel und der eine Seitenteil waren nur durch
 Haken befestigt. Schon dies genügte uns mit äußerster Vorsicht
-beim Oeffnen zu Werke zu gehen.
+beim Öffnen zu Werke zu gehen.
 
 Harst schickte den Portier und mich mehr in den Hintergrund
 der Halle, als wir die sämtlichen Haken geöffnet
@@ -210,7 +210,7 @@ Also ein Mensch saß in dem Kasten; saß darin mit
 herabhängenden gefesselten Armen. Ebenso waren Beine, Kopf
 und Oberarme an die Rückwand des Kastens festgebunden.
 
-Der Aermste trug nur Leinenhosen. Sonst war er nackt.
+Der Ärmste trug nur Leinenhosen. Sonst war er nackt.
 
 Und nun das Furchtbare, geradezu Schauer des Entsetzens
 Hervorrufende:
@@ -322,7 +322,7 @@ Art und Größe gegenüber zu sehen, eingerückt. Es muß etwas
 Geheimnisvolles dabei mitspielen. Sonst hätte dieser
 Jemand wohl die Hilfe der Polizei in Anspruch genommen,
 etwas Geheimnisvolles und gleichzeitig das Privatleben des
-Betreffenden Berührendes. — Die Oeffentlichkeit weiß bisher
+Betreffenden Berührendes. — Die Öffentlichkeit weiß bisher
 jedenfalls nichts von diesen Dingen. Ich habe die Zeitungen
 der letzten Wochen durchgeblättert. Nirgends war
 auch nur ein Vorfall vermerkt, der irgendwie mit diesem
@@ -332,7 +332,7 @@ können.«
 Mein Interesse an der immerhin ungewöhnlichen Anzeige
 war bereits im Schwinden begriffen. Ich hatte ja schon vorher
 Harst noch über dieses letzte entsetzliche Verbrechen Warbattys,
-diese Uebermittlung einer Todesdrohung an Harst
+diese Übermittlung einer Todesdrohung an Harst
 durch einen Sterbenden, etwas fragen wollen. Ich tat es jetzt.
 
 »Würdest Du mir Deine Ansicht darüber entwickeln, weshalb
@@ -876,7 +876,7 @@ Sein verstörtes Gesicht war wirklich mitleiderregend.
 »Oh — ich will Ihnen nichts verschweigen — gar nichts!
 — Es handelt sich um mein einziges Kind, meine Tochter
 Fatima. Ich bin mit ihr schon in Bombay bei einem der berühmtesten
-Aerzte gewesen. Nichts vermag sie von dem entsetzlichen
+Ärzte gewesen. Nichts vermag sie von dem entsetzlichen
 Wahne zu befreien, daß sie zeitweise in einen Marabu
 verwandelt wird —«
 
@@ -995,7 +995,7 @@ können.
 »Diebe, Master Harst, — Diebe?!« meinte er. »Lassen Sie
 sich doch keinen Bären von Mansur aufbinden. Der schlaue,
 reiche Herr schwindelt ja. Von den Diebstählen ist kein Wort
-wahr. Das ist meine feste Ueberzeugung. Ich habe ihm das
+wahr. Das ist meine feste Überzeugung. Ich habe ihm das
 auch durch die Blume zu verstehen gegeben. Seitdem läßt er
 uns in Ruhe und sucht zum Schein einen Privatdetektiv. Die
 Parsen sind die gerissensten Geschäftsleute. Er hat seine
@@ -1088,7 +1088,7 @@ dauernd bei dem indischen Arzte und Zahnarzte Doktor Kodowira
 hier in Nagpur in Behandlung.
 
 Wir erfuhren, daß dieser Doktor in England studiert
-habe und einer der gesuchtesten Aerzte der Stadt, etwa fünfzig
+habe und einer der gesuchtesten Ärzte der Stadt, etwa fünfzig
 Jahre alt sei und im Eingeborenenviertel in der Nähe des
 großen Brahmatempels in einem prächtigen, modernen
 Hause wohne.
@@ -1262,7 +1262,7 @@ Ich schaute nach Warbatty hin, zog den Revolver.
 
 Da bekam auch schon Inspektor Smith den Buckligen beim
 Kragen. Zwei seiner Leute griffen zu. Handschellen schlossen
-sich um des völlig Ueberrumpelten Gelenke.
+sich um des völlig Überrumpelten Gelenke.
 
 Harst hob das Taschentuch auf. Es breitete sich aus, und
 heraus fielen die drei Edelsteine, die Fatima heute im Munde
@@ -1317,7 +1317,7 @@ uns begleiten mußte. Aber — wir fanden das Nest leer.
 
 »Natürlich — entflohen!« meinte Harst und schaute Kodowira
 nachdenklich an. Wir standen jetzt in dessen elegantem
-Sprechzimmer. — »Ich habe etwas Aehnliches sofort vermutet,
+Sprechzimmer. — »Ich habe etwas Ähnliches sofort vermutet,
 als mir schon vorhin bei den Vorführungen des Fakirs
 Zweifel aufstiegen, ob ich den echten Warbatty vor mir hätte.
 — Doktor Kodowira, Sie haben die gestohlenen Juwelen

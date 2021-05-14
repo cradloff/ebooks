@@ -20,7 +20,7 @@ Förster. —
 
 Die große Motorjacht »India« Lord Wolpoores schaukelte
 bei völliger Windstille auf einer langen Dünung träge auf
-und und ab. Ueber dem Meere lag eine erschlaffende Backofenglut.
+und und ab. Über dem Meere lag eine erschlaffende Backofenglut.
 Die Sonne brannte vom wolkenlosen Himmel unbarmherzig
 auf das stets feucht gehaltene Deck der India
 herab. Aber was nützte diese stete Bewässerung der Deckplanken
@@ -451,7 +451,7 @@ Messer auf, wickelte sein Taschentuch eng um die Klinge und
 schob sie so in das Schlüsselloch.
 
 Als er sie wieder herauszog und das Taschentuch besichtigte,
-wies er stumm auf ein paar Oelflecke auf dem blendend
+wies er stumm auf ein paar Ölflecke auf dem blendend
 weißen Batisttuch.
 
 Was all das sollte, begriff ich nicht recht.
@@ -515,7 +515,7 @@ werden mußte.
 
 Moore hatte schließlich auch herausgefunden, daß das
 Maschinenöl an alledem die Schuld trug. Es war so minderwertig,
-daß die Zuleitungen der selbsttätigen Oelzuführung
+daß die Zuleitungen der selbsttätigen Ölzuführung
 nicht funktioniert hatten. —
 
 Als wir jetzt die eiserne Treppe zum Maschinenraum
@@ -529,12 +529,12 @@ verdorben ist: Ich wette: jemand hat in den Ballon irgend
 eine Säure hineingegossen. Die anderen drei Ballons sind
 tadellos. — Ich will ja niemand verdächtigen. Aber — merkwürdig
 bleibt es doch, daß sich Ambermakry gerade jetzt erhängt
-hat! Er hatte die Oelausgabe unter sich. — Ich werde
+hat! Er hatte die Ölausgabe unter sich. — Ich werde
 jetzt sofort dem Kapitän Meldung erstatten.«
 
 »Tun Sie es!« nickte Harst. »Gehen wir wieder mit
 nach oben, Schraut. Blonk hat bereits das ermittelt, was
-ich argwöhnte: daß das Oel absichtlich verunreinigt worden
+ich argwöhnte: daß das Öl absichtlich verunreinigt worden
 war.« —
 
 In Pellertans Kajüte fanden wir diesen, Blindley und
@@ -585,7 +585,7 @@ nach meinem Augenmaß zehn Zentimeter etwa, um es als
 möglich erscheinen zu lassen, daß der Maschinist, auf dem
 Fäßchen stehend, sich selbst hätte die Schlinge um den Hals
 legen können, zehn — Zentimeter an seiner Körpergröße!
-Meiner Ueberzeugung nach hätte er bei der Länge des benutzten
+Meiner Überzeugung nach hätte er bei der Länge des benutzten
 Strickes sich die Schlinge, selbst wenn er sich auf den
 Fußspitzen hochgereckt haben würde, nur bis zur Hälfte der
 Nase etwa über den Kopf ziehen können.«
@@ -660,9 +660,9 @@ zu fesseln. — Blonk, nun sprechen Sie!«
 
 Der Obermaschinist tat’s.
 
-»Das Oel muß genau untersucht werden.« befahl der
+»Das Öl muß genau untersucht werden.« befahl der
 Lord dem Kapitän. »Es muß doch festzustellen sein, was
-der Schurke in das Oel hineintat, damit es so schnell dick
+der Schurke in das Öl hineintat, damit es so schnell dick
 und körnig wurde.« Dann blickte er wieder auf Harst.
 
 Dieser erklärte nun, indem er sich an Joe Pellertan
@@ -692,7 +692,7 @@ Kiste, keine Tonne!« sagte er mit einer Energie, die ihm
 wohl die Angst um die Seinen eingab. »Der Schurke kann
 uns alle in die Luft sprengen! Vielleicht ist er schon dabei —«
 
-»Halt, Mylord, — halt, keine Ueberstürzung!« unterbrach
+»Halt, Mylord, — halt, keine Überstürzung!« unterbrach
 Harst ihn. »Diese Durchsuchung muß insofern vorbereitet
 werden, als wir verhindern müssen, daß der Mensch
 Gelegenheit findet, womöglich aus einem noch nicht durchsuchten
@@ -753,7 +753,7 @@ Zwischenwände gäbe. —
 
 Um fünf Uhr nachmittags hatten wir die Kombüse betreten;
 um ½ 8 abends war die ganze Jacht durchforscht. Zuletzt
-hatten wir den Schornstein, die mit Oeltuch überspannten
+hatten wir den Schornstein, die mit Öltuch überspannten
 Rettungsboote und die Ventilatoren mit derselben
 Genauigkeit in Augenschein genommen wie alles andere.
 
@@ -963,7 +963,7 @@ Ich fühlte plötzlich Harsts Finger meinen Arm umkrallen.
 Da — meldete sich Blindley anstelle des Lords:
 
 »Was gibt’s?« rief er. Ich hörte daß er aufstand —
-hörte dann etwas wie ein qualvolles Aechzen und einen
+hörte dann etwas wie ein qualvolles Ächzen und einen
 dumpfen Schlag.
 
 Harst ließ meinen Arm frei. Er hatte seine Taschenlampe
@@ -1078,7 +1078,7 @@ hören müssen, wenn der Mann sie erst in dieser Nacht um
 drei bis vier Windungen zurückgedreht hätte.«
 
 Blindley erklärte nun Harst dasselbe, was er auch mir
-vorhin als seine jetzige Ueberzeugung mitgeteilt hatte: daß
+vorhin als seine jetzige Überzeugung mitgeteilt hatte: daß
 zwei Leute der Besatzung in Frage kämen.
 
 Harst hatte sich währenddessen eine Zigarette angezündet,
@@ -1334,7 +1334,7 @@ verrückt geworden?!« rief er jetzt. »Was heißt das: in die
 Luft fliegen?! Und was —«
 
 »Setzen Sie sich bitte, meine Herren « sagte Harst kalt.
-»Nur eins kann uns retten: unsere ruhige Ueberlegung und
+»Nur eins kann uns retten: unsere ruhige Überlegung und
 zielbewußtes Handeln.« — Blindley und der Kapitän nahmen
 in den Sesseln uns gegenüber Platz.
 

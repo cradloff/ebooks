@@ -26,7 +26,7 @@ Der Stern von Siam glitt langsam den Menam-Fluß
 hinab. Erst außerhalb der Stadt durften die Schaufelräder
 ihre volle Kraft entfalten. Schneller zogen nun die Ufer die
 Lastkähne und all die seltsamen Schifflein dieses Weltteils an
-uns vorüber, manche darunter anzusehen wie die Ueberbleibsel
+uns vorüber, manche darunter anzusehen wie die Überbleibsel
 uralter Schiffbauversuche.
 
 Harst lehnte am Geländer und deutete jetzt auf eine malaiische
@@ -71,7 +71,7 @@ damit,« waren Harsts Züge bereits wieder genau so gleichgültig
 
 »Unrecht hin, Unrecht her!« brummte Tompson. »Endlose
 Vernehmungen gibt’s dann vor der Polizei! Wer bezahlt
-einem die versäumte Zeit?!« Er schwieg eine Weile. »Uebrigens,
+einem die versäumte Zeit?!« Er schwieg eine Weile. »Übrigens,
 Master Harst, — ich hab mich sehr gewundert, als Sie
 heute an Bord kamen und eine Kabine bis Singapore belegten.
 Ich habe im Bangkok Rekorder die Geschichte von dem
@@ -353,7 +353,7 @@ den heutigen Tag —«
 »Ganz recht. Mit *Stern*himmel ist fraglos Ihr Dampfer
 gemeint, Käp’ten, und »Mond« ist eben die Prau. Ich behaupte,
 das Telegramm ist nichts anderes als der Befehl zum
-Ueberfall auf den Stern von Siam, und die chinesischen Kulis
+Überfall auf den Stern von Siam, und die chinesischen Kulis
 auf dem Vorschiff wieder sind — Piraten! — Weil ich
 dies alles als sicher annahm, kaufte ich schnell in Paknam
 diese Revolver nebst Munition ein. Ich rate nun zu folgendem:
@@ -383,7 +383,7 @@ Es war jedoch nichts von ihr zu bemerken.
 
 <@pagebreak/>
 Zehn Minuten drauf kam Tompson und meldete, daß
-alles zur Ueberrumpelung der Chinesen bereit sei.
+alles zur Überrumpelung der Chinesen bereit sei.
 
 Ich will diese Entwaffnung der gelben Bande nicht eingehender
 schildern. Sie spielt hier nur eine Nebenrolle. Die
@@ -419,7 +419,7 @@ nur noch 200 Meter entfernt — nur noch 150, — 120 —
 
 Da — urplötzlich sanken ihre mächtigen Mattensegel
 herab; ihr Bug wandte sich dem Ufer zu, wo ein Nebenarm
-in der Mangrovenmauer eine breite Oeffnung freigab.
+in der Mangrovenmauer eine breite Öffnung freigab.
 
 Und — seltsam: auch ohne Segel entwickelte die Prau
 eine überraschende Schnelligkeit, die der des Stern von Siam
@@ -509,7 +509,7 @@ Wir standen hier im Schatten, so daß niemand beobachten
 konnte, was wir trieben.
 
 Harst flüsterte jetzt: »Verschwinden wir! Der Chinese,
-der den Deckel zuschraubte, könnte Verdacht schöpfen. Uebrigens
+der den Deckel zuschraubte, könnte Verdacht schöpfen. Übrigens
 brannte nur jene Bogenlampe dort, als der Mensch in
 den Kessel kroch. Die farbigen Kaiarbeiter hielten sich alle
 drüben an jenem Schuppen auf, wo sie etwas Schutz vor dem
@@ -552,9 +552,9 @@ der Prau, wie durch Depesche vereinbart, bestimmte Signale
 geben. Aber sie beobachtete mich, als sie es tat, sah, daß ich
 auf sie aufmerksam geworden, und entweicht durch die Komödie
 der Schlägerei unter den Gelben. — Drittens: Die
-Prau gibt dann die Absicht eines Ueberfalles auf den Stern
+Prau gibt dann die Absicht eines Überfalles auf den Stern
 von Siam auf, verrät dabei, daß sie über einen Motor verfügt,
-der ihr meiner Ueberzeugung nach eine große Geschwindigkeit
+der ihr meiner Überzeugung nach eine große Geschwindigkeit
 zu geben vermag. Die Prau kann unseren Dampfer
 also sehr gut überholt haben, kann die Malcapier mit ein
 paar Vertrauten hier ausgebootet haben, wo diese dann sich
@@ -592,7 +592,7 @@ mich schon auf die — Brillanten und die drei Smaragde und
 auf das Gesicht unserer rotblonden Feindin, wenn wir den
 Kessel uns näher ansehen werden!«
 
-Nun — die Ueberraschten waren diesmal wir! Alles
+Nun — die Überraschten waren diesmal wir! Alles
 kam ganz, ganz anders, als wir es uns so schön zurechtgelegt
 hatten.
 
@@ -641,7 +641,7 @@ Da — abermals Tompsons Grogbaß nebenan:
 
 Wir hörten die Tür öffnen und schießen. Dann kam
 Tompson in die Schlafkabine, warf aber nur seinen nassen
-Oelmantel in eine Ecke und wollte wieder verschwinden.
+Ölmantel in eine Ecke und wollte wieder verschwinden.
 
 »He — Tompson!« flüsterte Harst. »Wir sind’s, Harst
 und Schraut.«
@@ -893,7 +893,7 @@ Ich ließ die Beine in das Loch gleiten, rutschte tiefer und
 tiefer, hielt mich am Rande noch fest, sprang dann die kurze
 Strecke hinab, hatte auch bald Boden unter den Füßen.
 
-Aber — da kam die Ueberraschung!
+Aber — da kam die Überraschung!
 
 Ein Paar Hände glitten mir an Brust und Rücken entlang,
 suchten meinen Hals.
@@ -1127,7 +1127,7 @@ Eine kurze Pause. Wieder einige Rauchringe. Dann:
 von Siam sehr bald der Prau des Chinesen Ling-Tuan, dem
 Tschi Makra, dem Monde begegnen wird. Es handelt sich
 hier um ein neues Räuberstück der Malcapier. Nachdem der
-Ueberfall auf unseren Dampfer im Menam-Delta mißglückt
+Überfall auf unseren Dampfer im Menam-Delta mißglückt
 war, hat dieses Weib es jetzt verstanden, mit Hilfe der Kulis
 sich zur Herrin dieses Schiffes zu machen und hat vorher natürlich
 dem Tschi Makra genaue Verhaltungsmaßregeln gegeben.
@@ -1157,7 +1157,7 @@ Zeugen am Leben.«
 
 »Nun — diesmal werden sie sich verrechnet haben!«
 stieß Harst drohend hervor. »Sehr verrechnet! Wir drei genügen,
-es mit diesem gelben Gesindel aufzunehmen. Uebrigens:
+es mit diesem gelben Gesindel aufzunehmen. Übrigens:
 ob nicht dieser Steward Pegrier vielleicht mit den Chinesen
 unter einer Decke steckt?! — Nun — auch das werden
 wir herausbekommen.«
@@ -1179,7 +1179,7 @@ Weib ja —«
 
 »Oh — lassen wir das jetzt!« winkte Harst ab. »Sie
 müssen sich schon an meine Eigentümlichkeiten gewöhnen. Ich
-verspare mir mindestens eine Ueberraschung stets bis zur
+verspare mir mindestens eine Überraschung stets bis zur
 Katastrophe auf! Jedenfalls: die Malcapier ist an Bord! Und
 ebenso sicher soll der Stern von Siam, in der kommenden
 Nacht vielleicht schon, ausgeplündert und als Massengrab in
@@ -1262,7 +1262,7 @@ aus dem Speisesaal herüberklingen. Weiß der Himmel, was
 die Halunken treiben. Vielleicht haben sie Harst erwischt und
 feiern seine Gefangennah...«
 
-Der Rest des Wortes blieb unausgesprochen. Ueber
+Der Rest des Wortes blieb unausgesprochen. Über
 Jobsters Kopf hinweg von außen her Harsts Stimme:
 
 »Von Gefangennahme ist keine Rede! — Machen Sie
@@ -1333,7 +1333,7 @@ Amtsperson hatte jetzt den Vortritt. Er und Harst hatten sich
 mit dicken Holzenden bewaffnet, die dem Kessel als Stützen
 gedient hatten. Die Schußwaffen trugen sie in der Linken.
 
-Die Ueberrumpelung der drei Leute auf der Brücke gelang
+Die Überrumpelung der drei Leute auf der Brücke gelang
 vollkommen. Allerdings machte Jobster dabei weiter
 keine Umstände, schlug Pegrier und einen Siamesen nieder,
 daß sie sofort umsanken. Der Siamese starb sehr bald. Der
@@ -1344,7 +1344,7 @@ Jobster, der von uns am meisten vom Seemannshandwerk
 verstand, als Steuermann am Rade zurück. Wir beide eilten
 nun zunächst hinab ins Vorschiff und entfernten die Barrikade,
 die die Kulis vor der einen Tür des Laderaums aus
-vollen Oelfässern errichtet hatten.
+vollen Ölfässern errichtet hatten.
 
 Neun Mann der Besatzung kamen uns entgegen, darunter
 auch Kapitän Tompson, der eine Revolverkugel in den
@@ -1480,7 +1480,7 @@ Komödie sein, wie ich mir gleichzeitig überlegte, denn welcher
 Vater wird einen schwerkranken Sohn von Lakon nach
 Singapore zur Operation bringen, wo er doch in dem bequemer
 und schneller zu erreichenden Bangkok genau so gute
-Aerzte findet! — Dieser Umstand, eben daß der Kranke gerade
+Ärzte findet! — Dieser Umstand, eben daß der Kranke gerade
 nach Singapore geschafft wurde, machte mich stutzig.
 Und von diesem ersten Argwohn bis zu völligen Gewißheit
 war nur ein Schritt!«

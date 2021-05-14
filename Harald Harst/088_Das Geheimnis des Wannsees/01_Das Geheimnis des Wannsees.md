@@ -74,7 +74,7 @@ ihm gefunden?
 Unwillkürlich folgte ich der Richtung seiner starren
 Blicke.
 
-Da — die zweite Ueberraschung: in die Kalkschicht der
+Da — die zweite Überraschung: in die Kalkschicht der
 Baumrinde war offenbar mit einer glatten Nadel etwas
 eingeritzt — eine Skizze einer Landschaft.
 
@@ -538,7 +538,7 @@ mit der Jolle ein wenig spazieren fahren,« sagte Harald
 und blinzelte mir zu.
 
 Frau Müllbrodt starrte uns entgeistert nach. Wir holten
-unsere Gummimäntel und Oelhüte.
+unsere Gummimäntel und Ölhüte.
 
 Als wir die Jolle losmachten, zerriß ein Bündel von
 Blitzen den schwarzen Horizont, und in geisterhafter Beleuchtung
@@ -685,7 +685,7 @@ Ein Palmenhaus war diese Grotte, ein Traum von
 Eigenart und Schönheit.
 
 Tropische Pflanzen überall. Die Luft feuchtwarm, erfüllt
-von betäubenden Blütendüften. Ueber schlanken Palmen
+von betäubenden Blütendüften. Über schlanken Palmen
 ein künstlicher Sternhimmel — unzählige Glühbirnen.
 Verschlafene Papageien auf den Zweigen der Bäume. In
 der Ferne das Schluchzen einer Bul-Bul, der indischen
@@ -752,7 +752,7 @@ unbemerkt zu bleiben, ließen Irene aufblicken.
 In ihren Augen war ein müdes Staunen — nichts
 weiter.
 
-Harald blieb vor ihr stehen, zog den nassen Oelhut.
+Harald blieb vor ihr stehen, zog den nassen Ölhut.
 
 »Sie waren heute nachmittag bei mir,« sagte er schlicht.
 »Nun bin ich hier.«
@@ -970,7 +970,7 @@ Dunkelheit.
 
 Wir warfen unsere Grundangeln aus, fuhren hin und
 <@pagebreak/>
-her. Wir fischten Aeste und Zweige heraus, schwer, voll
+her. Wir fischten Äste und Zweige heraus, schwer, voll
 Wasser gezogen. Wir erwischten das Skelett eines Hundes.
 Wir wurden nicht ungeduldig, beschrieben einen immer größeren
 Kreis um die Stange.
@@ -1301,7 +1301,7 @@ mit Hilfe des Ankers fest und flüsterte:
 »Schnell — umziehen! Das Bündel her. Es enthält
 alles Nötige.«
 
-Die Jolle hatte achtern ein Klappverdeck aus Oelleinwand.
+Die Jolle hatte achtern ein Klappverdeck aus Ölleinwand.
 Unter diesem Verdeck wurden wir beim Schein einer
 Taschenlampe wieder Harst und Schraut — ohne falsche
 Bärte — in trockenen Anzügen, mit blendend zarter Wäsche.
@@ -1517,7 +1517,7 @@ Stein auf ihn werfen?« —
 Mit Irene Ripplows Brief will ich den zweiten Teil
 dieses Abenteuers beginnen.
 
-Der Leser mag sich auf Ueberraschungen gefaßt machen.
+Der Leser mag sich auf Überraschungen gefaßt machen.
 
 Auch ein Harst kann sich zuweilen irren.
 

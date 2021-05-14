@@ -157,7 +157,7 @@ stören. Die Sache ist nämlich so harmlos, daß ich nie wagen
 würde, Sie damit zu belästigen, wenn Sie nicht eben auch
 Deutscher wären und ich daher nicht zu fürchten brauche, Sie
 könnten mich auslachen, — insofern nämlich, als auch ich
-zuerst dieses leuchtende Gesicht für etwas Uebernatürliches
+zuerst dieses leuchtende Gesicht für etwas Übernatürliches
 <@pagebreak/>
 gehalten habe. — Die Geschichte ist mit ein paar Sätzen erzählt.
 Sie haben heute die Tempelruine gesehen, die im Garten
@@ -225,7 +225,7 @@ er:
 »Hm — als wir heute auf dem Gestüt anlangten, waren
 Sie doch zunächst offenbar sehr schlechter Laune. Ich hörte
 auch Ihre wetternde Stimme schon von weitem. Sie hatten
-Aerger gehabt?«
+Ärger gehabt?«
 
 »Richtig — richtig, — ich war sogar wütend auf den verdammten
 Burschen, den Stalljungen Jimmy, der wieder weiß
@@ -248,9 +248,9 @@ wettet, macht Geldgeschäfte, — kurz, er ist mir zu frühreif!«
 
 »Nun, das bringt der Pferdesport so mit sich. — Denken
 Sie doch nochmals nach, Landsmann. Vielleicht haben Sie
-sonst noch Anlaß zum Aerger gehabt —«
+sonst noch Anlaß zum Ärger gehabt —«
 
-»Ach — Aerger gibt’s oft, Herr Harst. Meine Tochter —«
+»Ach — Ärger gibt’s oft, Herr Harst. Meine Tochter —«
 Er verstummte plötzlich, meinte dann: »Das sind schließlich nur
 <@pagebreak/>
 Familienangelegenheiten, obwohl —« Das weitere brummelte
@@ -361,7 +361,7 @@ er an der Börse in Bombay schlauer spekuliert, als ein New
 Yorker Getreidemagnat. Von dem Gestüt gehört ihm auch
 mindestens die Hälfte. Der Besitzer Knoxon ist selten dort.«
 
-Harst stand auf. »Machen wir uns fertig. Uebrigens,
+Harst stand auf. »Machen wir uns fertig. Übrigens,
 Shesney, Timoleit hat doch eine Tochter, nicht wahr?«
 
 »Ja — die schöne Irmgard. Die ist ganz Französin geworden
@@ -382,7 +382,7 @@ kletterte sehr bald uns voran über die niedrige Steinmauer,
 die den Park abteilte. Dieser war jetzt völlig verwahrlost.
 Das Dschemala selbst war eines jener alten Bauwerke,
 deren gefällige Formen leider in Indien so oft durch
-ein Uebermaß von Türmchen, Erkerfenstern und kunstvollem
+ein Übermaß von Türmchen, Erkerfenstern und kunstvollem
 Ausputz stark beeinträchtigt werden. Als Material war
 grauer und weißer Marmor verwandt worden. In der Mitte
 des Gebäudes wuchs ein viereckiger stumpfer Turm heraus,
@@ -1101,7 +1101,7 @@ wachsende Bestürzung. — »Was — was soll — diese —«
 
 Timoleits Gesicht hatte sich jetzt verfinstert. In seinen
 Augen glomm der Argwohn auf. »Herr im Himmel,« sagte er
-leise, »sollte wirklich Irmgard uns aus Uebermut diesen schlechten
+leise, »sollte wirklich Irmgard uns aus Übermut diesen schlechten
 Streich gespielt haben?! Ich begreife nur nicht, was sie
 damit bezweckt hat?!« Dann besann er sich, daß er Harst noch
 immer ohne Antwort gelassen hatte. »Ja, ja — es stimmt
@@ -1187,7 +1187,7 @@ Das weiß er. Er versucht’s gar nicht mehr.«
 
 »Nur angenehm für Sie! — So, nun sind Sie freundlichst
 entlassen, Landsmann. Wir schleichen nach Ihnen davon.
-Ueber das leuchtende Gesicht kann ich Ihnen jetzt nur eins
+Über das leuchtende Gesicht kann ich Ihnen jetzt nur eins
 schon sagen: dahinter steckt etwas <span class="g">sehr</span> Ernstes! — Auf
 Wiedersehen, lieber Timoleit. Morgen finde ich mich wieder ein.«
 
@@ -1412,7 +1412,7 @@ hatte den Kopf tief gesenkt. Und als Timoleit nun
 dumpf fragte: »Hast Du von alledem gewußt, Etienne?« da
 fuhr sie plötzlich mit verzerrtem Gesicht auf, sprudelte eine
 Flut haltloser Vorwürfe heraus, die in der Hauptsache sich auf
-ihres Mannes Sparsamkeit, unfeines Wesen und Aehnliches
+ihres Mannes Sparsamkeit, unfeines Wesen und Ähnliches
 bezogen.
 
 Harst beendete diese unerquickliche Szene durch ein sehr
@@ -1452,7 +1452,7 @@ ist an allem schuld.«
 
 Wir standen nun vor der linken Mauerecke des Kellers.
 Harst hatte den gespannten Revolver in der Rechten. — Das
-Mauerstück drehte sich rückwärts. Ich leuchtete in die Oeffnung
+Mauerstück drehte sich rückwärts. Ich leuchtete in die Öffnung
 hinein. Ein kurzer Gang lag dahinter. Dann gelangten
 wir in einen großen Raum, in dem allerlei einfache
 Möbel standen: zwei Holzbetten, ein Tisch, Stühle und anderes.

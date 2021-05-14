@@ -35,7 +35,7 @@ darin — wirklich — ein zusammengerollter Zettel.«
 Er breitete diesen auseinander, überflog die mit Bleistift
 geschriebenen Zeilen und reichte ihn mir dann hin.
 
-»Nette Ueberraschung! Adieu Borneo!« sagte er dazu.
+»Nette Überraschung! Adieu Borneo!« sagte er dazu.
 
 <@pagebreak/>
 Ich las:
@@ -128,7 +128,7 @@ Hühnchen bestellten, saß also sicher an einem Nachbartisch.«
 Jobster schaute zum Fenster hinaus. »Wir sind sofort im
 Polizeilazarett. — Man hat mir das Entweichen der schönen
 Eugenie auch erst vor einer halben Stunde gemeldet. Ich
-hatte dienstlich im Hafenviertel zu tun. Wir sollten die Ueberführung
+hatte dienstlich im Hafenviertel zu tun. Wir sollten die Überführung
 einer sehr wertvollen Ladung an Bord eines Motorschoners
 überwachen. Anstatt mich nun sofort vom Hafen zurückzuholen,
 hat der leitende Arzt des Polizeilazaretts meinen
@@ -153,7 +153,7 @@ Malcapier benutzt worden.
 Das große Milchglasfenster hatte außen ein starkes Eisengitter
 und innen ein festes Drahtgeflecht. Die rechte Scheibe
 war als Luftfenster eingerichtet. Dort fehlte das Drahtgeflecht.
-Aber diese viereckige Oeffnung war zu eng, um einen erwachsenen
+Aber diese viereckige Öffnung war zu eng, um einen erwachsenen
 Menschen, selbst eine schlanke Frau, hindurchzulassen. Außerdem
 schien auch das Eisengitter draußen unversehrt zu sein.
 
@@ -268,7 +268,7 @@ Gespräch mit Ihnen gestört.«
 
 »Hm — jetzt besinne ich mich: er stieß plötzlich einen Ruf
 aus, der offenbar nicht mir galt. Ja — ich möchte behaupten,
-es war ein Ausruf freudiger Ueberraschung. Dann blieb alles
+es war ein Ausruf freudiger Überraschung. Dann blieb alles
 still.«
 
 »Danke. Guten Abend.« Harst sprang vollends ins Auto.
@@ -279,7 +279,7 @@ als der Inspektor fragte:
 »Nun, bester Harst wie denken Sie über diese Flucht?
 Was werden wir jetzt tun?«
 
-»Ueber diese Flucht?! — Genau wie Sie und Schraut
+»Über diese Flucht?! — Genau wie Sie und Schraut
 denke ich darüber. Die Malcapier hat Verbündete gehabt, die
 ihr halfen. Woher zum Beispiel die Stahlsäge, mit der das
 Gitter durchschnitten war?! — Sie wurde doch bei der Einlieferung
@@ -555,8 +555,8 @@ daß die Malcapier »zunächst ihre Kasse auffüllen«
 wolle, geschlossen, daß zwischen diesem Schiff und diesem von
 der Malcapier doch offenbar geplanten neuen Verbrechen ein
 Zusammenhang bestehen müsse. Gleichzeitig war ihm Jobsters
-Aeußerung eingefallen, der uns erzählt hatte, er hätte
-nachmittags die Ueberführung einer kostbaren Ladung an
+Äußerung eingefallen, der uns erzählt hatte, er hätte
+nachmittags die Überführung einer kostbaren Ladung an
 Bord eines Motorschoners beaufsichtigen müssen. Er hatte
 sich dann in seinem Schlafzimmer schnell in einen Chinesen verwandelt,
 war zum Hafen hinabgeeilt und suchte hier eine Matrosenkneipe
@@ -668,7 +668,7 @@ Anker gelichtet. Zwei Tage drauf verließ der Schoner die
 Straße von Malakka und steuerte ins offene Meer, in den
 Indischen Ozean hinaus. Am Abend des dritten Tages —
 wir hatten am Nachmittag das Achterdeck scheuern müssen —
-lag ich halbtot vor Uebermüdung in meiner Koje und schaute
+lag ich halbtot vor Übermüdung in meiner Koje und schaute
 Harst zu, der sich rasierte und dann sein Gesicht frisch chinesisch
 färbte. Bisher hatten wir hier nichts unternommen und
 es war auch nicht das geringste geschehen.
@@ -690,7 +690,7 @@ zu durchstreifen, ganz besonders aber die drei Ballen
 Seide einmal zu revidieren, ob wirklich in dem einen jenes
 Weib verborgen ist. Ich kann es nicht glauben. — Sie müssen
 doch selbst zugeben, Herr Harst, daß wir jetzt kaum mehr einen
-Ueberfall durch Piraten zu befürchten haben. Wir befinden
+Überfall durch Piraten zu befürchten haben. Wir befinden
 uns auf offener See. Der Schoner läuft so schnell, daß
 wir jeder Begegnung mit einem fremden Schiffe ausweichen
 können. In der Straße von Malakka wäre ein Angriff möglich
@@ -703,12 +703,12 @@ dem Kapitän in den hinteren Laderaum.
 
 Hier standen zwischen Kisten und Fässern die fast 2 Meter
 hohen, viereckigen Ballen, die zum Schutz gegen die Seefeuchtigkeit
-in Oelleinwand eingenäht waren.
+in Ölleinwand eingenäht waren.
 
-Schubert stieß plötzlich einen Ruf der Ueberraschung aus.
+Schubert stieß plötzlich einen Ruf der Überraschung aus.
 
 »Zum Donner — hier — hier!« Und dabei riß er von der
-Seitenwand des mittleren der Ballen ein Stück der Oelleinwand
+Seitenwand des mittleren der Ballen ein Stück der Ölleinwand
 ab, die nur mit losen Stichen befestigt war.
 
 Es zeigte sich, daß dieser Ballen lediglich eine Attrappe
@@ -782,9 +782,9 @@ sehr wohl, daß Harst sich Vorwürfe machte, weil er diese Sache
 etwas zu großzügig angepackt hatte. Daß die Malcapier jetzt
 abermals entkommen war, würde man Harst zur Last legen,
 der doch schon in Singapore die Möglichkeit gehabt
-hatte, sie aus ihrem Versteck hervorzuholen. Die Oeffentlichkeit
+hatte, sie aus ihrem Versteck hervorzuholen. Die Öffentlichkeit
 würde ihn beschuldigen, lediglich aus Abenteuerlust
-und aus einem Gefühl der Ueberlegenheit die Verhaftung
+und aus einem Gefühl der Überlegenheit die Verhaftung
 hinausgeschoben zu haben. Und ich selbst mußte mir ja gleichfalls
 sagen, daß Harald hier wieder wie so oft den Gegner
 hatte glauben machen wollen, der Erfolg eines verbrecherischen
@@ -805,7 +805,7 @@ Herr über meine Sinne.
 Ich lag noch auf meinem Bett, doch — ganz eng gefesselt.
 Die elektrische Birne an der Decke brannte. Vor der Tür hing
 eine große Decke. Es sollte wohl kein Lichtstrahl durch die
-Ritzen nach draußen fallen. Ueber Harsts Bett gebeugt stand
+Ritzen nach draußen fallen. Über Harsts Bett gebeugt stand
 eine schlanke Männergestalt in einem dunkelgrauen Flanellanzug.
 Unter der weichen Reisemütze sah ich rötliches, kurz
 geschnittenes Haar.
@@ -858,7 +858,7 @@ mit Gentlemen zu tun habe.«
 Sie löste unsere Fußfesseln, steckte die geteerten, starken
 Bindfäden in ihre Tasche. Dann schnallte auch sie sich zwei
 Korkwesten um, befestigte sich auf dem Rücken eine große
-Blechbüchse, an der Oesen für zwei Riemen angelötet waren,
+Blechbüchse, an der Ösen für zwei Riemen angelötet waren,
 entfernte die Decke von der Tür, schob den Riegel zurück, öffnete
 sie eine Handbreit und lauschte hinaus.
 
@@ -1047,7 +1047,7 @@ holte einen kleinen Revolver hervor, feuerte dreimal in die
 Luft, schob die Waffe wieder in die Tasche und sagte:
 
 »Krellbram wird sich freuen, Sie beide wiederzusehen.
-Es wird für ihn eine nette Ueberraschung werden, — vielleicht
+Es wird für ihn eine nette Überraschung werden, — vielleicht
 die letzte angenehme die er erlebt!«
 
 Gleich darauf schoß ein großer, gedeckter Motorkutter
@@ -1374,7 +1374,7 @@ sehr unecht wirkte.
 »Erzähle Sahib,« sagte Maukara. »Was hat es mit den
 Perlen auf sich?«
 
-»Wir wollen vorher ein Uebereinkommen treffen,« erklärte
+»Wir wollen vorher ein Übereinkommen treffen,« erklärte
 Harst jetzt. »Ich werde Euch, wenn Ihr uns freilaßt,
 Perlen im Werte von einer halben Million Pfund verschaffen
 und verspreche Euch, daß Ihr von mir dann nicht weiter
@@ -1424,7 +1424,7 @@ wurde. Der Perlenhändler Liu Sing in Singapore,
 ein guter Freund Kung Fos, wollte nämlich zugleich mit dem
 Goldtransport für eine halbe Million Pfund auserlesen
 schöne Perlen nach Kalkutta senden. Er hatte sie für die
-Ueberfahrt gegen Verlust durch Schiffbruch oder Diebstahl bei
+Überfahrt gegen Verlust durch Schiffbruch oder Diebstahl bei
 zwei Gesellschaften in Kalkutta mit ihrem vollen Werte versichert.
 — Dies erfuhr ich in der Nacht vor der Abfahrt der
 Christine von Kapitän Schubert, der die Perlen in dem Schreibtisch

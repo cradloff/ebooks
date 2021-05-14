@@ -102,7 +102,7 @@ Ralbrout ging rasch auf Harald zu, verneigte sich.
 
 »Mr. Harst, ich möchte Sie um Entschuldigung bitten!
 Ich habe Sie gestern im Speisesaale meiner Jacht aus
-Aerger über Ihr energisches Auftreten sehr kühl behandelt.
+Ärger über Ihr energisches Auftreten sehr kühl behandelt.
 Jetzt weiß ich, daß Sie recht gehabt haben. Mein Kapitän
 Tobort hat bei der Auswahl der Besatzung wenig Menschenkenntnis
 bewiesen. Er hat sieben recht fragwürdige
@@ -798,7 +798,7 @@ sind!«
 »Wie das?«
 
 »Nun — vielleicht jemand der früheren Besatzung, mein
-Alter. Nimm an, der Mann ist bei dem Ueberfall auf die
+Alter. Nimm an, der Mann ist bei dem Überfall auf die
 Jacht — Da — da!« unterbrach Harst sich. »Da — eine
 Gestalt an der Reling. Das ist ja ein Zwerg oder ein
 Knabe. Paß auf, Schraut: es ist der »Klopfer«!«
@@ -1009,7 +1009,7 @@ Harald richtete an Tom noch allerlei Fragen, die den
 Lord und dessen Gattin und die rechtmäßige Besatzung des
 Star of London betrafen. Wir ersahen aus den Antworten,
 daß der falsche und der echte Lord Ralbrout tatsächlich
-miteinander Aehnlichkeit haben mußten, ferner daß die
+miteinander Ähnlichkeit haben mußten, ferner daß die
 echte Lady Ralbrout ebenfalls aschblond war und daß die
 Besatzung bereits seit vier Jahren unverändert auf der
 Jacht Dienst getan hatte. Tom selbst, ein Neffe des Steuermanns,
@@ -1078,7 +1078,7 @@ flüsterte er mir zu: »Ich werde Akupulos das Boot erst
 melden, wenn es dicht heran ist!«
 
 Es kam jetzt eine heftige Regenbö hernieder. Unsere
-Oelmäntel troffen vor Nässe. — Die grüne und die rote
+Ölmäntel troffen vor Nässe. — Die grüne und die rote
 Laterne des Bootes waren nicht mehr zu sehen.
 
 Als der Regen nachließ, bemerkten wir sie jedoch kaum
@@ -1152,7 +1152,7 @@ Da — die Stimme des Griechen von der Brücke —
 Der Regen hätte ein paar Minuten länger anhalten
 sollen. Ich hatte gerade die zweite Trosse weggeworfen,
 als Tobort von der obersten Stufe des Fallreeps auf mich
-feuerte. Die Kugel riß mir den Oelhut herunter.
+feuerte. Die Kugel riß mir den Ölhut herunter.
 
 Ich griff in die Tasche. Die Clement war entsichert.
 
@@ -1225,7 +1225,7 @@ sie in der Nähe der Preparis-Inseln liegen wird. Dort traf
 die Jacht den wracken Schoner. Also kann man annehmen,
 daß die Bande dort irgendwo ihren Schlupfwinkel
 gehabt hat. Tom erzählte ja von den kahlen Felseninselchen,
-die er in der dritten Nacht nach dem Ueberfall wahrnahm
+die er in der dritten Nacht nach dem Überfall wahrnahm
 —« — Er beugte sich tiefer über die Karte. Sein
 rechter Zeigefinger drückte sich fest auf eine Stelle der Karte.
 Mit der Linken hielt er die Taschenlampe.
@@ -1478,9 +1478,9 @@ hatte dem Lord und der Lady bereits mitgeteilt, wer wir
 seien.
 
 Lord Ernest Ralbrout bedankte sich jetzt bei uns, drückte
-uns die Hände. Er hatte tatsächlich einige Aehnlichkeit mit
+uns die Hände. Er hatte tatsächlich einige Ähnlichkeit mit
 dem Piratenanführer. Nur Lady Ralbrout konnte sich,
-was das Aeußere betraf, nicht mit jenem aschblonden
+was das Äußere betraf, nicht mit jenem aschblonden
 Weibe messen, das wir in Benares als Lady kennengelernt
 hatten.
 
@@ -1488,7 +1488,7 @@ Dann saßen wir in der Kajüte des Motorbootes, und
 der Lord berichtete, wie die Leute des angeblich wracken
 Schoners die Jacht gekapert und dabei vier seiner braven
 Matrosen über den Haufen geschossen hatten, — wie man
-die Ueberlebenden dann in den hohlen Felskegel gebracht
+die Überlebenden dann in den hohlen Felskegel gebracht
 und dort bewacht hatte. — Auf Harsts Fragen erwiderte
 er sodann:
 

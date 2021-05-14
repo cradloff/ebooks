@@ -860,7 +860,7 @@ um sieben Uhr Godalpers Zimmer gewaltsam geöffnet.
 Ich lag auf dem Diwan, Harald auf dem Bett.
 
 Aber erst gegen drei Uhr nachmittags gelang es den
-Aerzten, uns wieder ins Bewußtsein zurückzurufen. Starker
+Ärzten, uns wieder ins Bewußtsein zurückzurufen. Starker
 Kaffee machte uns sehr bald vernehmungsfähig.
 
 Lodlermayers erste Frage an Harald lautete:
@@ -868,7 +868,7 @@ Lodlermayers erste Frage an Harald lautete:
 »Waren Sie’s oder waren Sie’s nicht, der gestern
 abend um acht Uhr verkleidet bei mir erschien und bat,
 ihm den verhafteten Stuart Baßly mitzugeben, da Sie
-ihn zur Ueberführung Godalpers brauchten?«
+ihn zur Überführung Godalpers brauchten?«
 
 »Ich war es nicht!« sagte Harald dumpf. »Ich habe
 mich diesmal — blamiert! Nun sind sie beide entwischt!«
@@ -1298,7 +1298,7 @@ Biberston lächelte geringschätzig. »Denken Sie, die
 beiden Helden trafen vorhin mit demselben Dampfer wie
 Sie hier ein. Ich kenne sie. Einer von ihnen sprach mich
 an und meinte, ich würde noch heute eine nette
-Ueberraschung erleben.«
+Überraschung erleben.«
 
 »Heißt der Mann vielleicht Bannimoore Godalper?«
 
@@ -1535,7 +1535,7 @@ Godalper und Baßly abgestiegen sind. Sagen Sie ihnen
 bitte, ich würde gegen neun Uhr abends zu ihnen kommen.
 Hier wird ja von Kadugawa kaum etwas zu erfahren sein.
 Der Alte macht ganz den Eindruck, daß er nichts aus sich
-herauslocken läßt. — Uebrigens eine Frage, Biberston:
+herauslocken läßt. — Übrigens eine Frage, Biberston:
 hier in Kolombo gehen wohl allerhand Gerüchte um, die
 für Lady Barnlay wenig schmeichelhaft sind? Ich denke,
 man wird ihr insgeheim die Schuld an dem Tode ihres
@@ -1573,7 +1573,7 @@ Baßly? Einer von ihnen feuerte auf Dich.«
 Der Elefantenjäger schwieg und blickte durch die
 Baumkronen nach Westen zu, wo die Sonne sich anschickte,
 im Meere zu versinken. Kadugawas Blick hatte dabei
-etwas seltsam Ueberirdisches.
+etwas seltsam Überirdisches.
 
 »Ich will Dir sagen, was sich zugetragen hat,« fuhr
 Harald fort. »Lord John Barnlay, ein Spieler, war in

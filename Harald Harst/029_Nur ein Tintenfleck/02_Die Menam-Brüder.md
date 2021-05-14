@@ -87,7 +87,7 @@ Ich ließ die Zeitung sinken.
 »Nein. Ich habe nur soeben beobachtet, wie ein neues
 Wohnboot verankert wurde. Es gab dabei Zank mit den
 Nachbarn, die sich durch den Neuling wohl beengt fühlten.
-Uebrigens legte auch vorhin ein Nachen an unserer Schiffstreppe
+Übrigens legte auch vorhin ein Nachen an unserer Schiffstreppe
 an. Es war einer der hiesigen »schwimmenden
 Dienstmänner«, wenn man so sagen will. Auf der Ruderbank
 vor ihm lag ein Brief, mit einem Stein beschwert.
@@ -221,7 +221,7 @@ gespannt.
 hofft fraglos, mich eingeschüchtert zu haben! Wie wenig kennt
 sie mich! — Ich werde ihr schreiben, daß ich meinerseits
 bereit bin, sie nicht weiter zu verfolgen, wenn sie die acht
-Edelsteine sofort ausliefert. — Uebrigens, mein lieber Alter,
+Edelsteine sofort ausliefert. — Übrigens, mein lieber Alter,
 — wir werden jetzt sofort nach der Bahnhofstraße Nr. 16
 aufbrechen. Ich möchte mir doch die Räume mal ansehen, die
 die Geschwister bewohnt haben. Machen wir uns fertig.«
@@ -476,7 +476,7 @@ Dann schnitt er die Füllung aus der Verbindungstür
 heraus, faßte von der anderen Seite nach dem Schloß, fand
 den Schlüssel stecken, schloß auf und betrat mit aller Vorsicht
 den Wohnsalon. Wir fanden hier jedoch keinerlei weitere
-Ueberraschungen. Nur die Balkontür stand halb offen. Harst
+Überraschungen. Nur die Balkontür stand halb offen. Harst
 ging auf den Balkon hinaus, der sich an der ganzen Hausbreite
 entlangzog und sagte zu mir: »Nun wissen wir,
 woher die Person gekommen und wohin sie gegangen, die
@@ -560,7 +560,7 @@ findet. — Höre nun, was der Rekorder vom
 
 <@pagebreak/>
 
-> »— diese plötzlich sich häufenden Ueberfälle auf Touristen
+> »— diese plötzlich sich häufenden Überfälle auf Touristen
 lassen die Vermutung zu, daß man es hier mit einer
 gut organisierten Bande zu tun hat. Stets werden die
 Opfer auf einem Fahrzeug von maskierten Banditen gefangen
@@ -593,7 +593,7 @@ Harst betonte die letzten Worte sehr stark.
 > »Büttenpapier mit einem mit verstellter Handschrift geschriebenen
 Spottgedicht auf die Polizei. Unterzeichnet
 war das Gedicht mit verschlungenen Linien in roter Farbe,
-die entfernte Aehnlichkeit mit einem Frauenprofil mit
+die entfernte Ähnlichkeit mit einem Frauenprofil mit
 hoher Frisur haben.«
 
 Harst legte jetzt die Zeitungen weg und tat sich Fischpastete
@@ -759,7 +759,7 @@ angezündet.
 er und deutete auf den offenen Koffer. »Chinesen fallen hier
 nicht weiter auf. Von der Sorte gibt’s hier ja übergenug.«
 
-Wir hatten Uebung im Verkleiden und zehn Minuten
+Wir hatten Übung im Verkleiden und zehn Minuten
 drauf waren wir zwei schmierige, armselige Kulis in Leinenkitteln
 und Bastschuhen. — Harst löschte nun die Lampe aus,
 öffnete leise die Tür und huschte auf Deck, kam sehr bald
@@ -1155,7 +1155,7 @@ Harst hatte kurz abgewinkt. »Erstens gebe ich auf eine
 <@pagebreak/>
 derartige Frackzier nichts; zweitens liegen die Dinge hier
 so verzwickt, daß es besser ist, wenn die Menam-Brüder die
-Oeffentlichkeit nicht zu sehr beschäftigen. — Darf ich vielleicht
+Öffentlichkeit nicht zu sehr beschäftigen. — Darf ich vielleicht
 um ein Stück Papier bitten? — So, danke. — Ich
 schreibe Ihnen einige Verhaltungsmaßregeln auf. Sollten
 wir heute bis 1 Uhr mittags nicht wieder hier bei Ihnen
@@ -1179,7 +1179,7 @@ Es war halb zwölf, als wir wieder an Bord unseres
 schwimmenden Fremdenheims angelangt waren.
 
 »Wir wollen uns jetzt auf das Kommende etwas vorbereiten,«
-meinte Harald. »Ich werde mir in den Aermelaufschlag
+meinte Harald. »Ich werde mir in den Ärmelaufschlag
 mein geöffnetes Federmesser stecken. Tu’ dasselbe
 bitte. Man kann nie wissen, was passiert. Dann setzen wir
 unsere weichen Reisemützen auf, verbergen darunter unsere
@@ -1285,7 +1285,7 @@ daß ich Dir das Federmesser herausnehmen kann.«
 Gleich darauf waren wir die Fesseln los, steckten die
 entsicherten Pistolen in die rechte Jackentasche und besichtigten
 beim Scheine meiner Taschenlampe — die Harsts war
-ihm bei dem Ueberfall durch die Menam-Brüder aus der Hand
+ihm bei dem Überfall durch die Menam-Brüder aus der Hand
 geglitten — die Balkentür. Wie erstaunt waren wir, als sie
 sich sofort öffnen ließ.
 
@@ -1343,7 +1343,7 @@ zusammenrufen,« sagte er auffallend ernst. »Wie
 viele sind es?«
 
 »Achtzehn. — Sie sind in drei Sektionen geteilt: eine für
-die Ueberwachung des Flusses, die andere für —«
+die Überwachung des Flusses, die andere für —«
 
 <@pagebreak/>
 »Danke, Master Walker. Die Flußsektion steht wohl

@@ -15,7 +15,7 @@ Polizeigebäudes ein kleines Backsteinhaus, das in einem Garten
 einer engen Seitengasse lag.
 
 Wir hatten uns erst einmal gehörig ausgeschlafen. Um
-½ 8 abends nahmen wir dann ein Bad, kleideten uns an und
+½8 abends nahmen wir dann ein Bad, kleideten uns an und
 gingen in den hübschen Garten hinab.
 
 Der eine der Diener Greapers hatte uns gesagt, daß sein
@@ -132,7 +132,7 @@ ein Wahnsinn gewesen, hier mit Nein zu antworten und etwa
 anzunehmen, Ralling würde so großmütig sein und nicht
 schießen?!
 
-So kam uns Greaper zu Hilfe.
+Da kam uns Greaper zu Hilfe.
 
 »Lord Ralling,« sagte er mit vor Erregung bebender
 Stimme, »Sie sind nicht nur ein Mörder, sondern auch ein
@@ -257,10 +257,11 @@ Lord darauf!«
 <@pagebreak/>
 Er setzte die Mütze auf, ging um das Gebüsch herum einen
 Seitenweg entlang und entschwand unseren Blicken.
+
 Wir schritten langsam dem Hause zu.
 
 »Na — was sagen Sie zu Ralling, bester Harst?« fragte
-Greaper. »Nun kennen Sie ihn ja. — Uebrigens: die
+Greaper. »Nun kennen Sie ihn ja. — Übrigens: die
 Sache soeben haben Sie wieder glänzend gemacht!« Greaper
 lachte. »Ich gebe ehrlich zu, ich wäre auf die Idee nie gekommen!«
 
@@ -356,11 +357,11 @@ Tschama als Türhüter hat strengen Befehl, jeden abzuweisen.«
 Bei Tisch bediente ein anderer Diener. Greaper hatte im
 ganzen sechs. Drei davon waren jedoch nebenbei
 <@pagebreak/>
-Geheim-Polizisten. Die Leute schliefen in einem Anbau, den Greaper
+Geheimpolizisten. Die Leute schliefen in einem Anbau, den Greaper
 ebenfalls erst hatte errichten lassen, als er vor sechs Jahren
 das Grundstück erwarb.
 
-Wir aßen gerade delikate Brathühner, als eine recht unangenehme
+Wir aßen gerade delikate Brathühnchen, als eine recht unangenehme
 Störung eintrat.
 
 Der Diener stand abseits an dem Anrichtetisch und tat
@@ -380,7 +381,7 @@ als er auch schon blitzschnell und sehr geistesgegenwärtig
 nach dem an dem einen Verandapfeiler angebrachten Lichtschalter
 sprang und die beiden Lampen über dem Tische ausdrehte.
 
-Das Licht erlosch und wir schoben unsere Stühle zurück,
+Das Licht erlosch, und wir schoben unsere Stühle zurück,
 standen auf und blickten den hellen Hauptweg entlang, der mit
 Muschelkies bestreut war.
 
@@ -556,7 +557,7 @@ alten Fischers Gesicht besser beobachten zu können.
 »Nein, Sahib. Der Mann hatte einen weißen Anzug
 an. Und ich hätte sehen müssen, wenn er an der Statue vielleicht
 hinabgeklettert wäre. Sie steht mit dem Gesicht nach
-hinten, nach dem Becken zu. Und man könnte von vorn an
+Osten, nach dem Becken zu. Und man könnte nur vorn an
 ihr herabsteigen. Der Rücken ist ganz glatt. Da hat man
 keinen Halt, Sahib. Vorn sind die Arme und die Falten des
 Gewandes, auch die untergeschlagenen Beine. Hinten gehen
@@ -579,7 +580,7 @@ daß die Möwen unruhig wurden und aufstiegen.«
 
 »Und er kam aus der Richtung der Statue, Tomar?«
 
-»Ja, Sahib. Und: ich möchte fast behaupten, es war eine
+»Ja, Sahib. Und ich möchte fast behaupten, es war eine
 weibliche Stimme. Jedenfalls war es ein Mensch, der da so
 laut schrie.«
 
@@ -591,7 +592,7 @@ mich interessieren würde?«
 
 Der alte Fischer machte ein ganz verdutztes Gesicht.
 
-»Nun es ist doch sicher ein Geheimnis dabei, Sahib,«
+»Nun, es ist doch sicher ein Geheimnis dabei, Sahib,«
 erklärte er darauf etwas verwirrt. »Scharmi hat in den Zeitungen
 viel über Dich gelesen. Du bist doch ein Sahib, der
 solche Erlebnisse liebt.«
@@ -681,7 +682,7 @@ und zu beiden Seiten sind doch die Mauern von Häusern. Vielleicht
 hätte ein Inder, ein Arbeiter sich unbemerkt zwischen
 die anderen mischen können. Aber auch das ist wohl kaum
 möglich gewesen. Jemand, der von der Mauer so zwischen
-½ 8 und ½ 9 hergekommen wäre, mußte auffallen.«
+½8 und ½9 hergekommen wäre, mußte auffallen.«
 
 <@pagebreak/>
 Ich verstand, was Harald feststellen wollte. Edward
@@ -691,7 +692,7 @@ lassen. Und — Ralling als Europäer hätte doch von
 den Arbeitern unbedingt bemerkt werden müssen! —
 
 Harst gab dem alten Fischer jetzt noch eine Zigarre mit
-auf den Weg. — »Erwarte uns um ½ 12 heute vor dem Mahalukschmi-Tempel,«
+auf den Weg. — »Erwarte uns um ½12 heute vor dem Mahalukschmi-Tempel,«
 sagte er. »Und mache Dein Boot bereit.
 Sprich aber zu niemandem über diesen Besuch hier bei mir;
 nur Dein Sohn darf es wissen. Nun geh’, Tomar.«
@@ -705,9 +706,9 @@ dann hinausgeleitete.
 »Was halten Sie von Tomars Erzählung?« fragte Harald
 den Inspektor.
 
-»Hm, eine tolle Gesichts. Lügen sind das nicht. Das
+»Hm, eine tolle Geschichte. Lügen sind das nicht. Das
 merkte man. Noch toller ist aber das andere. Verdammt —
-wo ist denn Ralling geblieben? Ueber den Hof des Jefferson
+wo ist denn Ralling geblieben? Über den Hof des Jefferson
 kann er doch unmöglich geflüchtet sein!«
 
 »Aber die Spuren an der Palme,« warf ich ein.
@@ -726,7 +727,7 @@ hier auf Ihrem Grund und Boden war?!«
 aufmerksam.
 
 »Ich meine, daß Ralling in Ihrem Garten sehr gut Bescheid
-gewußt haben muß. Ueber die Mauer ist er jedenfalls
+gewußt haben muß. Über die Mauer ist er jedenfalls
 nicht geflüchtet und vielleicht auch gar nicht auf diesem Wege
 gekommen. Es ist jetzt ja dunkel, und wir können den Garten
 nicht nochmals absuchen. Aber morgen werden wir es tun.
@@ -835,6 +836,7 @@ Bucht hinab. Hier lag Tomars Fischernachen, — plump,
 breit, nach Fischen stinkend.
 
 Harald half rudern. Das Segel hißten wir erst später.
+
 Bis zu den Padschwara-Klippen waren es knapp drei
 Kilometer. Man erkannte die grauschwarzen Felsen schon von
 <@pagebreak/>
@@ -842,7 +844,7 @@ weitem. Sie sind von Riffen, mehrfach umgürtet. Tomar
 steuerte. Das große Segel trieb das schwere Fahrzeug ruhig
 dahin. Neben uns schäumte das Wasser über die lauernden
 Felsspitzen hinweg. Dann steuerten wir von Nordwest in die
-Durchfahrt zwischen zwei der Padshwaras, zwischen die Unzugänglichen,
+Durchfahrt zwischen zwei der Padschwaras, zwischen die Unzugänglichen,
 hinein, dann hatten wir Tomars »Brotstelle«,
 seine Fischgründe erreicht. Das Wasserbecken war wirklich fast
 kreisrund. Nur die Größe hatte Tomar vorbeigeschätzt. Der
@@ -857,11 +859,11 @@ ließ einen kleinen Anker fallen, so daß wir nun von der
 auch hier herrschenden Strömung nicht abgetrieben werden
 konnten.
 
-Es war jetzt ½ 1 Uhr nachts. Harald hatte sein Fernglas
+Es war jetzt ½1 Uhr nachts. Harald hatte sein Fernglas
 mitgenommen, stellte es nun auf die Statue ein und sagte
 dann:
 
-»Wir werden das Inselchen erklettern. Tomar Du wirst
+»Wir werden das Inselchen erklettern. Tomar, Du wirst
 uns den Weg zeigen. Dann kehre nach Hause zurück und hole
 uns etwas Brot und Früchte. Ich möchte den Tag über auf
 der Klippe bleiben. In der nächsten Nacht bringst Du uns
@@ -877,9 +879,10 @@ sich überhaupt zeigt — ist zwecklos.«
 Die Kletterpartie vergesse ich mein Lebtag nicht. Wir
 mußten in einer Art Felskamin aufwärts. Wenn man hier
 abrutschte, war man seine gesunden Knochen für immer los.
+
 Da drang plötzlich von oben her, wo wir den Nachthimmel
 etwa fünf Meter über uns in breitem Strich schimmern sahen,
-ein gellendes Lachen, dann ein noch lauteter Schrei zu uns
+ein gellendes Lachen, dann ein noch lauterer Schrei zu uns
 herab.
 
 Tomar, der schon dicht am oberen Ende des Felskamins
@@ -917,7 +920,7 @@ Mauerresten jene Riesendisteln und stachligen Rankengewächse,
 die jeden Schutthaufen in Indien zieren. Manche dieser
 Distelstauden waren wie dünne Bäume.
 
-Ueber diese Stätte der Verwüstung ragte riesig und plump
+Über diese Stätte der Verwüstung ragte riesig und plump
 die Brahma-Statue hinaus. Um den mächtigen Sockel lagen
 ein paar größere Mauerreste herum. Die Schlingpflanzen hatten
 den Sockel zum Teil umsponnen.
@@ -1023,7 +1026,7 @@ Jetzt war nichts mehr von ihm übrig.
 
 Und — abermals ward es da hell, — heller noch, als vorhin.
 Ich sah jetzt auch wieder das scheußliche Gesicht, sah den
-Leib über den untergeschlagenen Beinen, die über der
+dicken Leib über den untergeschlagenen Beinen, die über der
 Brust gekreuzten Arme.
 
 Nur — von dem Manne sah ich keine Spur mehr.
@@ -1140,14 +1143,14 @@ tat es auch!
 raunte er gegen den Erdboden. Aber ich verstand doch jedes
 Wort. »Mein Name ist Tompkinson, Reporter Stuart Tompkinson
 vom Bombay Rekorder. Sie können nur Mr. Schraut
-sein. Harst wiegt nichts so viel wie Sie. Bitte befreien Sie
+sein. Harst wiegt nicht so viel wie Sie. Bitte befreien Sie
 meinen Kadaver von Ihren zwei Zentnern, Mr. Schraut, oder
 aber Sie werden mir ein paar Rippen ausflicken lassen müssen.
 Ich will nur gestehen: ich war es, der sich hinten an Ihr
 Auto gehängt hatte. Vielleicht haben Sie schon von mir gehört.
 Man nennt mich in ganz Indien den Reporterkönig —«
 
-Das war ja eine nette Ueberraschung! — Allerdings hatte
+Das war ja eine nette Überraschung! — Allerdings hatte
 ich von Tompkinson schon so manches vernommen, und nicht
 nur von Greaper, der ja den alter Fischer zuerst für Tompkinson
 gehalten hatte. Stuart Tompkinson war tatsächlich berühmt,
@@ -1164,7 +1167,7 @@ Mr. Schraut.«
 
 Sein tiefbraun gefärbtes, mageres Gesicht lächelte ganz
 heiter. »Sehen Sie, nun kriege ich doch einen Artikel für mein
-Blatt zusammen,« fügte er hinzu. »Ein Glück daß ich so frech
+Blatt zusammen,« fügte er hinzu. »Ein Glück, daß ich so frech
 war, ein kleines Segelboot loszuketten und Ihrem Fischerkahn
 nachzufahren. Ja, der Stuart Tompkinson! Der ist smart!«
 
@@ -1196,7 +1199,7 @@ Ich überlegte.
 Mr. Tompkinson,« erklärte ich dann.
 
 »Sie haben mein Wort. Auch Reporter müssen oft sehr
-verschwiegen sein, Herr Schraut.«
+verschwiegen sein, Mr. Schraut.«
 
 Ich erzählte ihm nun alles, was der alte Tomar uns mitgeteilt
 hatte. Tompkinson hörte still zu. Dann sagte er:
@@ -1207,8 +1210,8 @@ Sonst hätte er es Ihnen beiden gegenüber erwähnt. Dieses
 Inselchen heißt in alten Sanskriturkunden, die in der Stadtbibliothek
 in Bombay aufbewahrt werden, Vinduprana. Das
 bedeutet so viel als »Eiland der Heiligen«. In diesen Sanskritschriften,
-deren Uebersetzungen ich studiert habe, wird behauptet,
-daß diese riesige Felsmasse hier hohl sei. Es sollen
+deren Übersetzungen ich studiert habe, wird behauptet,
+daß diese riesige Felsmasse hier — hohl sei. Es sollen
 sich in ihr Tempelräume befinden. Nun — etwa ein Dutzend
 <@pagebreak/>
 Altertumsforscher haben dieses Eiland untersucht. Zuletzt
@@ -1274,7 +1277,7 @@ Wir durchstöberten nun jede Ritze der Plattform dieses
 Inselfelsens; wir bogen Distelbüsche auseinander, wir suchten
 hinter jedem Schutthaufen.
 
-»Tolle Sache!« meinte Stuart Tompkinson. »Vielleicht
+»Üble Sache!« meinte Stuart Tompkinson. »Vielleicht
 hat man Harst über den Rand der Klippe in die See geworfen,
 nachdem man ihn durch einen Hieb betäubt hatte. Sie
 müssen doch zugeben, Mr. Schraut: Hier ist er nicht!«
@@ -1287,7 +1290,7 @@ lag das Festland, — nein, die Insel Bombay und die große
 Hafenstadt gleichen Namens.
 
 »Er muß hier sein, Mr. Tompkinson!« erwiderte ich auf
-des kleinen Reporters letzte Aeußerung. »Wenn er hier an
+des kleinen Reporters letzte Äußerung. »Wenn er hier an
 derselben Stelle drei seiner Mirakulum geraucht hat, dann
 fühlte er sich auch sicher. Harald Harst raucht nicht, wenn er
 fürchtet oder auch nur fürchten zu müssen glaubt, daß ihm jeden
@@ -1339,7 +1342,7 @@ schleunigst gestellt.
 
 »Natürlich ist Mr. Harst hinter uns an der Rückseite der
 Figur emporgeklettert,« warf der Reporter hin. »Wie sonst?!
-Allerhand Achtung, daß Sie das so geräuschlos fertig brachten.«
+Allerhand Achtung, daß Sie das so geräuschlos fertigbrachten.«
 
 Harald antwortete nicht, sondern setzte sich auf den Sockel.
 »Nehmen Sie doch auch wieder Platz,« meinte er. Er
@@ -1379,7 +1382,7 @@ oder sensationellen Beigeschmack hatte?«
 Der Reporter kniff die Augen zusammen und strengte
 sein Hirn offenbar sehr an.
 
-»Ja« sagte er schließlich. »Vor Jahren — es ist lange her
+»Ja,« sagte er schließlich. »Vor Jahren — es ist lange her
 — soll ihn einmal ein ergrimmter Vater mit der Reitpeitsche
 bearbeitet haben. Es war das ein Sonderling, der nur für
 seine Tochter lebte, der sie ängstlich von aller Welt abschloß.
@@ -1440,10 +1443,10 @@ hier. Nur ist er auf echt indische Weise der großen
 Menge verheimlicht worden. Die Inder waren Künstler im
 Ersinnen von Geheimtüren und ähnlichem. — Doch ich will
 nun zunächst erklären, wie ich den Zugang fand. Der Besuch
-Tomars bei Greaper und des Alten Bericht über die einstige
+Tomars bei Greaper und des Alten Bericht über die emsige
 Tätigkeit auf dem Hofe der Firma Jefferson gab mir die Gewißheit,
 daß Ralling nach der ganz spannenden Szene vor
-Greapers Brahma-Statue, bei der das Aeffchen Charly eine
+Greapers Brahma-Statue, bei der das Äffchen Charly eine
 nicht unwichtige Rolle spielte, unmöglich über den Hof der
 Firma geflüchtet sein könnte. Ich hatte nun, als wir von der
 Besichtigung des sich an die Mauer anlehnenden Palmbaumes
@@ -1460,7 +1463,7 @@ dem Gebüsch stand, nicht in dieser eigentümlichen Weise mit
 der Spitze in die Falten des Gewandes eingeklemmt gewesen
 war. Es war ein Seitenzweig eines der längsten Schößlinge
 eines der Büsche, sogar des einzigen Schößlings, der so hoch
-hinauf reichte. Ich hatte mir die Statue doch vorher schon angesehen.
+hinaufreichte. Ich hatte mir die Statue doch vorher schon angesehen.
 Und da wäre mir das eingeklemmte Zweiglein nie
 entgangen. Nachher aber war ein solches Zweiglein in die
 Figur scheinbar eingewachsen. — Dann kamen Schraut und
@@ -1479,6 +1482,7 @@ Könnte es da nicht auch möglich sein, daß man hier bei dieser
 Figur ein Zweiglein einklemmen kann?«
 
 Tompkinson fuchtelte mit den Armen herum, rief:
+
 »Kopf und Hals der Statue sind als Deckel gearbeitet!
 Es muß so sein. Daher verschwanden das Weib und der
 Mann auch so, als ob sie zusammenschrumpften! Sie krochen
@@ -1488,25 +1492,25 @@ eben in das Innere des Götzen hinein!«
 Alter in der Nacht dort oben bemerkte und verschwinden sah.
 — Es war also der eingeklemmte Zweig, der mich auf den
 richtigen Weg führte. Ralling war eben nicht aus dem Garten
-geflüchtet, sondern war in den Götzen hinab geklettert, hatte
+geflüchtet, sondern war in den Götzen hinabgeklettert, hatte
 aber aus Unachtsamkeit beim Schließen des »Deckels« den
 Zweig eingeklemmt. Er kannte also dieses Deckel-Geheimnis
 von Greapers Statue. Und er wird es fraglos von Edith Webster
 erfahren haben, diesem armen, jetzt wahnsinnigen, völlig
 ergrauten und verblühten Weibe, das er all die Jahre hier auf
 der Klippe in den Gewölben des Tempels gefangen gehalten
-hat. — So, nun wollen wir sie herausholen, die Aermste, die
+hat. — So, nun wollen wir sie heraufholen, die Ärmste, die
 den Schurken in ihrer geistigen Umnachtung noch immer liebt
 und die mir freiwillig nicht folgen wollte. Sie ist harmlos.
 <@pagebreak/>
 Sie sitzt da und stiert vor sich hin, antwortet auf nichts, plappert
 nur immer: »Edward, komm’, — Edward, sei gut zu
-mir —«
+mir —««
 
 Harald stieg als erster hinauf. Es gab da an der Brust
 des Götzen eine verborgene Feder. Schob man sie zurück, so
 konnte man Kopf, Hals und ein Stück der Brust nach hinten
-so weit umklappen, daß eine Oeffnung frei wurde, die selbst
+so weit umklappen, daß eine Öffnung frei wurde, die selbst
 einen korpulenten Menschen durchließ.
 
 Der Götze war nur außen von gebranntem Ton. Innen
@@ -1566,7 +1570,6 @@ Lebensmitteln und anderem versorgt hatte. —
 
 Stuart Tompkinsons Boot lag noch dort, wo er es in der
 Nacht an der Steilküste des Inselchens befestigt gehabt hatte.
-
 Wir verließen nun Vinduprana, das Eiland der Heiligen, das
 ein verrohter Schurke als Gefängnis für die benutzt hatte,
 die ihn bis zum letzten Atemzuge liebte.
@@ -1576,11 +1579,11 @@ führte den Inspektor, ohne vorher lange Erklärungen abzugeben,
 in den Garten zur Brahma-Statue, kletterte an ihr
 empor und deutete auf den noch immer eingeklemmten Zweig.
 
-»Ich wette, Ralling ist noch hier unten. Es muß unter
+»Ich wette, Ralling steckt noch hier unten. Es muß unter
 der Statue auch hier Gewölbe geben wie auf Vinduprana.«
 
 Er klappte Kopf, Hals und Bruststück der Figur zurück,
-beugte sich über die Oeffnung. Wir sahen, daß er plötzlich
+beugte sich über die Öffnung. Wir sahen, daß er plötzlich
 leicht zusammenzuckte. Dann rief er hinab:
 
 »Ralling — noch eine Frage: War Edith Webster bereits
@@ -1590,7 +1593,7 @@ Sie mit der Reitpeitsche aus dem Hause gejagt hatte?«
 
 Die Antwort hörten wir nicht.
 
-Aber wir hörten gleich darauf einen schwachen Knall, —
+Aber wir hörten gleich darauf einen schwachen Knall. —
 
 Harald rief uns zu: »Er hat sich selbst gerichtet. Er hat
 das Mädchen, behauptet er, aus Liebe entführt. Aber sehr
@@ -1611,8 +1614,8 @@ zweite Erzählung im nächsten Bande bringe. —
 
 Eine Woche später traf Lord Erverlyn, erst halb genesen,
 in Bombay ein. Er brachte einen Bekannten mit, dem wir
-dann folgende Abenteuer zu verdanken hatten. Es
+dann das folgende Abenteuer zu verdanken hatten. Es
 war dies:
 
-__Der Klub der XII__
+__Der Klub der XII.__
 

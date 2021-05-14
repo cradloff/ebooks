@@ -555,7 +555,7 @@ hätte dieser Maskierte sonst die Lumpen des anderen auf
 dem Leibe haben können?! Wie sollte er sonst in Besitz der
 Drehorgel gelangt sein?!
 
-Ueber diesen und noch weitergehenden Fragen, die den
+Über diesen und noch weitergehenden Fragen, die den
 Verbleib des Grafen Alexander und seiner Tochter betrafen,
 packte mich plötzlich eine Unruhe, die mich vom Vorschiff
 wieder in die Kabine trieb.
@@ -1174,7 +1174,7 @@ Zupacken noch etwas zu warten. —
 
 Alles — alles kam anders, als wir gedacht hatten.
 
-Die Drehorgel bereitete uns noch weitere Ueberraschungen
+Die Drehorgel bereitete uns noch weitere Überraschungen
 und der Nürnberger Scharfrichter tat’s noch mehr.
 
 <h2>5. Kapitel.</h2>
@@ -1348,7 +1348,7 @@ Dann schritt Harst rasch einer anderen Ecke des Zeltes
 zu, wo die Kisten der Wachsfiguren aufgestapelt waren und
 wo auch die Drehorgel ihren Platz hatte.
 
-Nun kam die Ueberraschung Nr. drei: Herr Julius
+Nun kam die Überraschung Nr. drei: Herr Julius
 Retter hatte sich in einer der Kisten verborgen, als er bemerkt
 <@pagebreak/>
 hatte, daß er wider Erwarten in dem Zelte nicht allein sei!

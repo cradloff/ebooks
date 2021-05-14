@@ -28,7 +28,7 @@ war vielsagend genug gewesen:
 Das war eine Drohung, die man nicht unbeachtet lassen
 durfte.
 
-Harst hatte denn auch auf der Ueberfahrt von Kalkutta
+Harst hatte denn auch auf der Überfahrt von Kalkutta
 nach Hamburg stets in derselben Weise alle Vorgänge und
 Menschen ringsum mißtrauisch beobachtet, wie ihm dies zur
 zweiten Natur geworden war. Er verstand es meisterhaft,
@@ -53,7 +53,7 @@ gerade wieder auf das Deck hinabsteigen, als einer der
 Stewards des Schiffes die Treppe emporeilte, in der Hand
 ein briefähnliches Päckchen.
 
-»Für Sie Herr Harst,« erklärte er atemlos. »Der Ueberbringer,
+»Für Sie Herr Harst,« erklärte er atemlos. »Der Überbringer,
 ein Dienstmann, sagte, es eile sehr.«
 
 Harst wog das schmale, in einem gelben Umschlag steckende
@@ -204,7 +204,7 @@ Hause, nach Berlin? — Weshalb?
 
 <@pagebreak/>
 Ich hatte Zeit genug, darüber nachzudenken. Und ich kam
-zu der Ueberzeugung, daß die Brosche nur gestohlen sein
+zu der Überzeugung, daß die Brosche nur gestohlen sein
 konnte und daß Harst einen größeren Einbruch im Hause seiner
 Mutter befürchtete, bei dem diese vielleicht von den Dieben
 überfallen und verletzt worden war.
@@ -313,7 +313,7 @@ Tones:
 dieses Bezirks. Ich erkläre Sie für verhaftet. Steigen
 Sie aus. Das Auto bleibt ebenfalls hier.«
 
-Harst schien Aehnliches vorausgesehen zu haben.
+Harst schien Ähnliches vorausgesehen zu haben.
 
 »Und weshalb?« fragte er, indem er sich langsam erhob.
 
@@ -394,7 +394,7 @@ in diesen Aufzeichnungen über Harsts Abenteuer zumeist
 verändert habe. Nur wo hierzu keinerlei Grund vorlag,
 benutzte ich die richtigen Namen. Man wundere sich also
 nicht, wenn man Moscheln und so weiter auf keiner Karte
-findet. Die Beschreibung der Oertlichkeit stimmt jedoch mit
+findet. Die Beschreibung der Örtlichkeit stimmt jedoch mit
 den tatsächlichen Verhältnissen überein. —
 
 Gemeindevorsteher Hecht hielt gerade Mittagsschlaf. Er
@@ -891,7 +891,7 @@ Harst saß im Klubsessel neben dem Japantischchen in der
 gemütlichen Fensterecke, sprang jetzt aber auf und stellte sich
 vor Karls Stuhl hin.
 
-»Junge, so wird das nichts Uebersichtliches!« meinte er.
+»Junge, so wird das nichts Übersichtliches!« meinte er.
 »Schildere uns genau den ersten Abend, als Du die Schattenbilder
 sahst. Und alles hübsch der Reihe nach!«
 
@@ -947,7 +947,7 @@ Dann sah ich noch zwei Frauenköpfe, einen
 ohne Hut mit ’ner Stupsnase, einen mit Hut und Kneifer auf
 der Nase. Inzwischen hatte ich mir nämlich hier von Ihnen,
 Herr Harst, Ihr Jagdglas geholt und konnte so alles ganz deutlich
-unterscheiden. — Aehnliches, nein, eigentlich genau dasselbe
+unterscheiden. — Ähnliches, nein, eigentlich genau dasselbe
 beobachtete ich an den beiden nächsten Abenden. Es waren
 offenbar damals immer dieselben Personen bei der Simpkinson.
 Nur nicht alle acht gleichzeitig wie am ersten Abend.
@@ -986,7 +986,7 @@ Karl verschwand. Als er gegangen, meinte Bechert:
 
 »Diese Burschen verdrehen sich durch die Sucht, Detektiv
 zu spielen, reinweg die jugendlichen Köpfe, in denen dann nur
-noch Verbrechen und Verbrecher umherspuken. Uebrigens,
+noch Verbrechen und Verbrecher umherspuken. Übrigens,
 den Fall Thomas Shangarol kenne ich ebenfalls sehr gut.
 Miß Edith Shangarol dürfte mit einem Liebhaber ausgekniffen
 sein. Der Alte ist Multimillionär, hat aber nicht einen,
@@ -1022,7 +1022,7 @@ worden wie auf der Adresse des Broschenpäckchens.
 
 Also — wieder James Palperlon!
 
-Und deshalb rannte ich nun dem Ueberbringer nach. Der
+Und deshalb rannte ich nun dem Überbringer nach. Der
 war aber mit seinem Rad längst über alle Berge.
 
 * * *
@@ -1440,8 +1440,8 @@ die Luftscheibe lag gerade dicht vor dem scharfen Knick, hinter
 dem die Tiefe gähnte.
 
 Als ich das rechte Bein glücklich in der quadratischen
-Oeffnung hatte, glaubte ich aus dem Atelier einen dumpfen
-Laut zu vernehmen. Es klang wie ein halbersticktes Aechzen.
+Öffnung hatte, glaubte ich aus dem Atelier einen dumpfen
+Laut zu vernehmen. Es klang wie ein halbersticktes Ächzen.
 
 »Harst!« rief ich leise.
 
@@ -1792,7 +1792,7 @@ irgendwie Lärm schlage und nicht blindlings gehorche; es
 handele sich lediglich um eine Erpressung, und sie würde doch
 nicht aus Geiz ihres Sohnes Leben aufs Spiel setzen wollen.
 
-— Die Aermste hatte in ihrer Angst dann alles getan, was
+— Die Ärmste hatte in ihrer Angst dann alles getan, was
 von ihr verlangt wurde. Erst in der Nacht war sie in einem
 Auto nach dem Atelierhause geschafft und dort in ein kleines
 Zimmer eingesperrt worden, dessen einziges Fenster mit Vorhängen

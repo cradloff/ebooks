@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">d83ca2bc-7ab0-11eb-8bee-5b6e9c4438b4</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das goldene Gongong</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">48</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das goldene Gongong.
+
+Harst studierte ein englisches Buch, das über die Ruinen der uralten Stadt Amber handelte, die im Jahre 1728 auf Befehl des Fürsten Dschai Singh verlassen worden war. Die Ruinen von Amber liegen sieben Kilometer nordöstlich von Dschaipur in den Bergen. –
+
+Ich nickte in meinem Sessel zuweilen ein. In diesem Zustande trägster Ruhe und halben Schlafes hörte ich, wie Harst irgend ein Wort mit ganz besonderer Betonung ausrief.
+
+Ich öffnete schwerfällig die Augen.
+
+»Sagtest Du etwas?« fragte ich ohne Interesse.
+
+Harst hatte das Buch, das aus der Bibliothek des Maharadschas stammte, jetzt im Schoße liegen und hielt gerade einen Zettel gegen das durch die hohen Fenster einströmende Tageslicht.
+
+»Ja, mein lieber Schraut, ich sagte etwas,« erwiderte er und drehte das Papier vor den Augen hin und her. »Ich sagte »Merkwürdig!« Weiter nichts.«
+
+Wenn irgend etwas mich hätte schnell munter machen können, dann waren es diese beiden Tatsachen: Erstens das »Merkwürdig!« und zweitens der Zettel, dem Harald so große Aufmerksamkeit schenkte.
+
+Der Mann mit dem Papageien.
+
+Oberst Lincoln warf sich ärgerlich in den Rohrsessel.
+
+»Es ist eine ganz verdammte Geschichte, Master Harst,« sagte er. »Entschuldigen Sie meine Aufregung. Aber natürlich bin ich nun daran schuld, daß Tompson mir ausgekniffen ist. Der Maharadscha machte ein Gesicht – ein Gesicht!«
+
+»Erzählen Sie,« meinte Harald.
+
+»Die Geschichte ist mit ein paar Sätzen erledigt!« begann der Oberst. »Sie wissen, ich sollte Tompson nach Agra in die Nervenklinik bringen. Dort, so hoffte der Maharadscha, würden die Herren Ärzte den alten Gelehrten geistig wieder zurechtflicken. Sie wissen weiter, daß wir heute früh mit dem 7-Uhr-Zuge abreisten, – 1. Klasse, reserviertes Abteil: der Professor, der aus Agra eingetroffene Assistenzarzt Doktor Blooce und ich. – Tompson war wieder ganz vernünftig, das heißt, er befand sich in jenem Zustand völliger Apathie, die ihn seit seiner Befreiung dauernd beherrscht hat. Wenn man mit ihm über das goldene Gongong oder die Dschainas sprach, lebte er etwas auf. Als wir in Bandikri anlangten, wo die Bahnlinie nach Alwar und Dehli abzweigt, schlenderte ich vor dem Zuge auf dem Bahnsteig auf und ab. Doktor Blooce stand am offenen Fenster unseres Abteils. Mit einem Male rief er mir zu:
+
+»Der Professor ist verschwunden!«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (048) Das goldene Gongong.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate"></entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

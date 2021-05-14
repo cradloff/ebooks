@@ -161,7 +161,7 @@ Spitzen miteingeflochten hätte.
 Der Lokalredakteur Mr. Pongardy arbeitete in einem
 kleinen Zimmer, das einen direkten Zugang vom Flur hatte.
 Pongardy empfing uns recht verlegen, bat uns Platz zu nehmen
-und wußte kaum, wohin er seine kleinen listigen Aeuglein
+und wußte kaum, wohin er seine kleinen listigen Äuglein
 richten sollte.
 
 »Sie kommen wohl wegen des Artikels, Mr. Harst?«
@@ -484,7 +484,7 @@ das Wasser schon die niedrige Backbordreling. Die
 Leute darauf brüllten vor Angst. Einer der Männer bat
 dann in miserablem Englisch, wir möchten das Boot doch
 schnell ans Ufer schleppen; es sei sein einziger Besitz, und er
-würde arm werden, wenn es mit der Ladung Oelfässer sinke.
+würde arm werden, wenn es mit der Ladung Ölfässer sinke.
 
 Im Nu war dann eine Schlepptrosse angebracht, und der
 Standard zog das Boot nun in voller Fahrt dem nahen
@@ -538,7 +538,7 @@ einem dumpfen Fremdenhaß dahin wie die meisten anderen
 indischen, von England unterworfenen Völker.
 
 Diesen stillen Haß bekamen wir sechs Deutschen jetzt genügend
-zu spüren. Unsere Ueberwinder benahmen sich vor
+zu spüren. Unsere Überwinder benahmen sich vor
 Freude über den unblutigen Sieg wie die Idioten, tanzten
 höhnend vor uns herum, schnitten uns wie ungezogene Kinder
 allerlei Fratzen und beschimpften uns in einer Weise, die
@@ -701,7 +701,7 @@ Harst verschwand hinter der Tür. Daß er den Schwindel
 längst durchschaut hatte, unterlag keinem Zweifel. Ich war
 nun außerordentlich gespannt darauf, wie er unsere Befreiung
 ins Werk setzen würde. Mit Gewalt war ja für ihn als einzelnen
-der bewaffneten Uebermacht der Piraten gegenüber
+der bewaffneten Übermacht der Piraten gegenüber
 nichts auszurichten: Nur List konnte hier helfen.
 
 Die Birmanen, ebenso auch wir fünf Deutschen, ließen
@@ -837,7 +837,7 @@ einer! — Kapitän Weber, Jürgensen und ich rasten schon wieder
 die Treppe hinab. Mitten im Salon stand der Malaie
 mit hochgereckten Armen. Zu seinen Füßen lag der tote Pi-Mano.
 Des Riesen Rechte blutete stark. Das Blut lief ihm
-in den Aermel. Harst hatte ihm das Messer aus der Hand
+in den Ärmel. Harst hatte ihm das Messer aus der Hand
 schießen müssen und ihm dann noch eine Kugel durch den
 Oberarm gejagt. Der Bursche war anders nicht zu bewältigen
 gewesen. Er schäumte jetzt vor Wut. Seine schwarzen
@@ -975,7 +975,7 @@ Ich kniete schon neben der Leiche. — Was hatte Harst
 nur für Augen! Niemals wäre es mir eingefallen unter all
 <@pagebreak/>
 den bunten, verschiedenen Westenknöpfen Pi-Manos nach einem
-einzelnen zu suchen, der Aehnlichkeit mit dem »Stempel«
+einzelnen zu suchen, der Ähnlichkeit mit dem »Stempel«
 haben könnte.
 
 Wirklich — da war dieser Knopf, dieses Erkennungszeichen!
@@ -1107,14 +1107,14 @@ Fesseln nochmals untersucht hatte.
 <h2>4. Kapitel.</h2>
 <h3>In der Schwe Dagon-Pagode.</h3>
 
-Ueber die Lage und die Bauart der birmanischen Hafenstadt
+Über die Lage und die Bauart der birmanischen Hafenstadt
 Rangun habe ich bereits in der vorigen Erzählung alles
 Nötige gesagt. Der Leser wird sich weiter auch auf den Namen
 Chatarsan besinnen, den ich zu Anfang dieses Abenteuers
 nur flüchtig erwähnen konnte. — Detektivinspektor Chatarsan
 war der Abschied von uns sehr schwer geworden. Dies
 lag wohl weniger daran, weil er uns besonders ins Herz geschlossen
-hatte, als vielmehr an seiner Ueberzeugung von seiner
+hatte, als vielmehr an seiner Überzeugung von seiner
 eigenen Unzulänglichkeit einer Gegnerin wie Eugenie
 Malcapier gegenüber. —
 
@@ -1322,7 +1322,7 @@ hohl.«
 Weihgeschenke der Pilger aufgestapelt liegen. Die Türen
 der einzelnen Gelasse sind aus Eisen, und die Kunstschlösser
 daran vermag nur ich mit einem besonderen Schlüssel zu öffnen.
-Die Oeffnung im Fliesenboden der Haupthalle, über
+Die Öffnung im Fliesenboden der Haupthalle, über
 <@pagebreak/>
 der der Block und der Schrein ruht, ist eine Vorsichtsmaßregel
 gegen Feuersgefahr.«
@@ -1473,7 +1473,7 @@ es, ohne daß er seine Taschenlampe einschaltete, und raunte
 uns gleich sehr energisch zu, uns völlig still zu verhalten.
 
 Wir ermunterten uns rasch. Ringsum lauerte pechfinstere
-Nacht. Ueber uns hörten wir das Trappeln vieler Füße:
+Nacht. Über uns hörten wir das Trappeln vieler Füße:
 die Pilger, die vor dem Schrein in langer Reihe vorübergingen
 und seinen Deckel küßten.
 
@@ -1655,7 +1655,7 @@ Harst in Rangun in einer Weise gefeiert, die ihm, der von
 seiner Person so wenig Aufhebens macht, höchst peinlich war.
 
 Auch die tote Feindin hatte für uns noch mancherlei
-Ueberraschungen in Bereitschaft. Hierüber im nächsten
+Überraschungen in Bereitschaft. Hierüber im nächsten
 Bande, in
 
 __Das Geheimnis des Scheiterhaufens.__

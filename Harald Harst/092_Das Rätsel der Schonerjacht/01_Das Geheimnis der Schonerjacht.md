@@ -90,7 +90,7 @@ Ist das nicht geradezu toll, Mr. Harst?!«
 
 »Am 13. Oktober abends — ausgerechnet, am dreizehnten!«
 
-»Die Nevada hat also Funksprucheinrichtung. — Ueber
+»Die Nevada hat also Funksprucheinrichtung. — Über
 den Absendeort der Depesche ist nichts bekannt?«
 
 »Nichts. — Ich beauftragte dann —«
@@ -121,7 +121,7 @@ ich mich mit Laccemoor. Ich beauftragte dann die
 Leiter meiner Zweigniederlassungen in Bombay, Kolombo,
 Madras und Singapore, in aller Stille nach dem Verbleib
 der Nevada zu forschen. Nur der Bombayer meldete folgendes.
-Hier ist die Uebertragung seiner Chiffredepesche —«
+Hier ist die Übertragung seiner Chiffredepesche —«
 
 Er reichte Harald ein mit Bleistift beschriebenes Blatt.
 
@@ -862,7 +862,7 @@ ihr Vater irgendwo verborgen hat!« rief er.
 
 »Hm — und da stiehlt sie die Jacht dazu?!« Harald
 sprach sehr langsam. »Und — da verübt sie diesen unglaublichen
-Streich, nur um — Diamanten zu suchen?! — Ueberlegen
+Streich, nur um — Diamanten zu suchen?! — Überlegen
 Sie sich das mal, Mr. Connword. Konnte Evelyn
 nicht auch ohne all diese scheinbar so widersinnigen Handlungen
 <@pagebreak/>
@@ -943,7 +943,7 @@ würden. Orkry hatte fraglos Spione am Kai postiert.
 Es wurde also das Motorboot der Jacht nach der dem
 Kai abgekehrten Seite des Schiffes gebracht. Wir kletterten
 durch eine der Ladetüren am Bug hinein und schlüpften unter
-das Oeltuchverdeck. Zwei Matrosen mußten mit dem
+das Öltuchverdeck. Zwei Matrosen mußten mit dem
 Boot dann nach einer entfernten Anlegebrücke fahren. Hier
 stiegen wir aus.
 
@@ -1098,7 +1098,7 @@ abgenommen. Nur die Schminke zierte noch unsere Gesichter.
 Dies ist doch ganz gegen das Programm, daß wir
 nun wieder auf der Rania Maru sind! Der Kerl, der Perser,
 hatte uns doch so schlau erledigt! Ich begreife das
-nicht. — Uebrigens — die Jacht ist auf hoher See, die Motoren
+nicht. — Übrigens — die Jacht ist auf hoher See, die Motoren
 arbeiten!«
 
 Er stand auf. Er taumelte noch etwas. Er trat an

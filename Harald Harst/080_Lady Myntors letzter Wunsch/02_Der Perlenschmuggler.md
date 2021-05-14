@@ -186,7 +186,7 @@ lachend:
 
 »Mein Alter, es ist eine famose Badereise, ist eine Kur!
 Wir werden ein paar Jahre länger leben durch diese
-völlige Aenderung unserer Daseinsführung! Ich fühle mich
+völlige Änderung unserer Daseinsführung! Ich fühle mich
 frisch wie — wie verjüngt! Und — auch die Stunde der
 Befreiung wird kommen! Nur Geduld!«
 
@@ -287,7 +287,7 @@ milde Richter finden. Gewiß, ohne Anklageerhebung gegen
 Sie wird es nicht abgehen. Was in meiner Macht
 steht, werde ich tun, damit der Fall für Sie günstig beurteilt
 wird. Jedenfalls werden wir uns den Leuten des
-Schoners dort nicht sofort zu erkennen geben. Ueberlassen
+Schoners dort nicht sofort zu erkennen geben. Überlassen
 Sie es mir allein, den Leuten über unsere Erlebnisse das
 mitzuteilen, was ich für zweckdienlich erachte. Sie und
 Schraut schweigen am besten vollständig.«
@@ -332,7 +332,7 @@ Ehre?«
 »Boltrell ist mein Name. Bin Kapitän des dreckigen
 Kastens von Schoner da. El Toro heißt der Kahn — El
 Toro, weil er mal unter spanischer Flagge segelte! Na —
-mit einem Stier hat das wracke Ding wenig Aehnlichkeit!«
+mit einem Stier hat das wracke Ding wenig Ähnlichkeit!«
 (»El Toro« heißt »Der Stier«).
 
 »Harst heiße ich,« stellte Harald sich vor, indem er seinen
@@ -370,7 +370,7 @@ danach.
 Boltrell führte uns zunächst in seine Kajüte im Achteraufbau.
 <@pagebreak/>
 Da Harald betont hatte, wir würden die
-Ueberfahrt reichlich bezahlen, sollten uns zwei Kammern
+Überfahrt reichlich bezahlen, sollten uns zwei Kammern
 neben der Kapitänskajüte eingeräumt werden. Daß Miß
 Myntor ein Weib war, merkte niemand. Sie trug ja auch
 das Kopfhaar ganz kurz geschnitten. Jetzt war es freilich
@@ -478,7 +478,7 @@ war hellgrau gestrichen, ebenso seine Boote!«
 
 »Donnerwetter!«
 
-»Ja — das war auch für mich eine große Ueberraschung.
+»Ja — das war auch für mich eine große Überraschung.
 Die noch größere aber war — das Blatt Papier aus der
 Flasche, denn — es ist ohne Zweifel die Fortsetzung des
 Testaments Lady Myntors, also das Papier aus der Bleikapsel.«
@@ -1079,7 +1079,7 @@ Vorschiff, schlossen sie in zwei Verschläge ein. —
 
 Nachmittags — die Shallow steuerte jetzt nordwärts
 — sichteten wir einen großen Zollkutter, eines jener schnellen
-Fahrzeuge, die den Ueberwachungsdienst an der Malabar-Küste
+Fahrzeuge, die den Überwachungsdienst an der Malabar-Küste
 versehen.
 
 Das scharfgebaute Boot mit den beiden dicken, schrägen
@@ -1166,7 +1166,7 @@ legen. Miß Honoria war bereits zur Ruhe gegangen.
 Ich übernahm das Amt des Steuermanns auf der
 Brücke, zugleich das der Deckwache.
 
-Unsere Positionslaternen brannten. Ueber dem Kompaß
+Unsere Positionslaternen brannten. Über dem Kompaß
 glomm die kleine elektrische Birne.
 
 Die Nacht war sehr dunkel. Leichtes Gewölk zog tiefhängend
@@ -1253,7 +1253,7 @@ Geräusch arbeitender Maschinen.
 Harald schickte die beiden Matrosen und Miß Honoria
 hinab an Deck. Sie sollten an der Reling auf und ab gehen
 und durch Zurufe sofort melden, sobald irgend etwas auf
-den Versuch eines gewaltsamen und heimlichen Ueberfalles
+den Versuch eines gewaltsamen und heimlichen Überfalles
 hindeutete.
 
 Nichts geschah.
@@ -1343,10 +1343,10 @@ auch das Telegramm besorgte.
 Und fünf Stunden später —
 
 Doch — das muß ich genauer schildern. Denn das,
-was uns am Abend zustieß, war vielleicht die größte Ueberraschung
+was uns am Abend zustieß, war vielleicht die größte Überraschung
 des Myntor-Problems.
 
-Dieser Ueberraschung wegen habe ich diesen zweiten
+Dieser Überraschung wegen habe ich diesen zweiten
 Teil auch »Die Perlenschmuggler« betitelt.
 
 <h2>5. Kapitel.</h2>

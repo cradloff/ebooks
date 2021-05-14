@@ -35,7 +35,7 @@ Ruhrgebiet, bei sich aufgenommen, damit sie nicht in dem
 öden Gebäude allein sei.
 
 Wir hatten sie jeden Tag gesprochen, aber selbst Haralds
-Ueberredungskunst gelang es nicht, diese versiegelten
+Überredungskunst gelang es nicht, diese versiegelten
 Lippen zu öffnen.
 
 Am dritten Tage wurde Dortschakoff vormittags in
@@ -103,7 +103,7 @@ waren stets gleichgültig an uns vorübergegangen,
 wenn sie uns im Hause begegneten. Bedenken Sie auch,
 daß wir auf unseren Besitzungen bei Merw einige achtzig
 Diener hatten, die wir zumeist nur selten zu Gesicht bekamen
-und kaum ihrer Aehnlichkeit wegen auseinanderhalten
+und kaum ihrer Ähnlichkeit wegen auseinanderhalten
 konnten. — Ich muß nun auf etwas zu sprechen kommen,
 das der sogenannte gebildete Europäer gern belächelt:
 auf innerasiatische Geheimnisse, auf die Künste der Schamanen,
@@ -367,7 +367,7 @@ des Zimmers ohne Fenster eigentlich erst — — begann!!
 Wir drei hatten den Alkoven erreicht, durch dessen
 Dielen die Falltür in den dreieckigen Raum hinabführte.
 
-Ueber die Falltür waren von der Polizei Papierstreifen
+Über die Falltür waren von der Polizei Papierstreifen
 so angesiegelt worden, daß sie sich nur öffnen ließ, wenn
 man diese Streifen zerriß.
 
@@ -457,7 +457,7 @@ Ich wollte ihn in das Zimmer Doljas hinübertragen.
 Er schüttelte den Kopf. So brachte ich ihn denn in eine der
 benachbarten unbewohnbaren Stuben.
 
-»Oeffne die Falltür wieder, damit das Gas abzieht,«
+»Öffne die Falltür wieder, damit das Gas abzieht,«
 flüsterte er mühsam und heiser.
 
 Ich tat’s.
@@ -477,12 +477,12 @@ Da diese Art giftiger Gase schwerer als die Luft zu
 sein pflegen, bestand die Gefahr, daß die Gase noch am Boden
 des fensterlosen Zimmers lagerten, zumal die Falltür
 oben keinerlei Zugluft hervorrief, weil ja eine zweite
-Oeffnung unten im Zimmer fehlte.
+Öffnung unten im Zimmer fehlte.
 
 Als Harald mich beiseite schob, erklärte ich ihm diese
 meine Bedenken, worauf er ebenso kurz erwiderte:
 
-»Du irrst! Es ist eine zweite Oeffnung da! Wie sollen
+»Du irrst! Es ist eine zweite Öffnung da! Wie sollen
 denn Gorim und Nassub in das Zimmer eingedrungen
 sein?! Durch die Falltür sicherlich nicht! Die war versiegelt.«
 
@@ -683,7 +683,7 @@ Es zeigte sich, daß der Mörtel herausgekratzt war
 und der Ziegelstein sich ohne Schwierigkeiten herausheben
 ließ.
 
-Harald faßte in die Oeffnung hinein...
+Harald faßte in die Öffnung hinein...
 
 Und — holte ein in Packpapier gehülltes flaches, langes
 Kästchen heraus, etwa von der Höhe und Breite eines
@@ -730,7 +730,7 @@ Harald hatte Frau Peters zur Polizei geschickt, hatte
 dann die Reitgerte noch oben geholt und sagte nun, indem
 er den Rauch seiner Zigarette zu tadellosen Ringen formte:
 
-»Ich habe ja manche Ueberraschungen erlebt: daß der
+»Ich habe ja manche Überraschungen erlebt: daß der
 <@pagebreak/>
 ganze gestohlene Schmuck sich in dem Wandversteck wiederfinden
 würde, ahnte ich natürlich nicht im entferntesten!
@@ -1220,7 +1220,7 @@ ist Dein Gedächtnis etwas kurz für all die Schurkereien,
 in die Du mich verwickelt hast. — Du warst es, der
 sich mir näherte, nur um Deine Pläne zu fördern, die lediglich
 den Dortschakoff-Juwelen galten. Du hast mich dazu
-angetrieben, Dolja die Uebernahme der Rolle in dem Film
+angetrieben, Dolja die Übernahme der Rolle in dem Film
 unmöglich zu machen. Du hast nicht nur mich getäuscht,
 sondern auch den armen Hektor Alken, der von den Turkmenen
 ermordet wurde. Da stahlst diesen dann die Juwelen,

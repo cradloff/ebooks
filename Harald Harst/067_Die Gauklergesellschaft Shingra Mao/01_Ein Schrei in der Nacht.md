@@ -59,7 +59,7 @@ Während die Bevölkerung der ägyptischen Hauptstadt
 dies las, war der Doppeldecker längst unweit des Küstenortes
 Almaida westlich des Nildeltas gelandet.
 
-Harald mietete hier einen Dampfer zur Ueberfahrt
+Harald mietete hier einen Dampfer zur Überfahrt
 nach Brindisi, der abends 7 Uhr in See stach.
 
 Am 3. Dezember elf Uhr nachts langten wir auf dem
@@ -381,7 +381,7 @@ zum Opfer gefallen.«
 »Du glaubst bestimmt, daß es die Spionin war?«
 fragte ich gespannt.
 
-»Ja. — Ueberlege Dir: sie war kurz vorher bei uns
+»Ja. — Überlege Dir: sie war kurz vorher bei uns
 im Garten; sie ging dann den Hauptweg des Laubengeländes
 entlang; und hier ereilte sie das Geschick. Ich behaupte,
 der Mörder war ebenfalls ein Italiener, der ihr heimlich
@@ -463,20 +463,20 @@ Tisch in Haralds Arbeitszimmer.
 Harst und ich betrachteten es. Mir kam das Gesicht bekannt
 vor. Ich wußte jedoch nicht, wo ich diese Frau bereits
 gesehen hatte. Dann fiel mir etwas ein: sie hatte
-eine geringe Aehnlichkeit mit jenem Weibe, das zusammen
+eine geringe Ähnlichkeit mit jenem Weibe, das zusammen
 <@pagebreak/>
 mit einem schwarzbärtigen Italiener den Grafen Emanuelo
 Santa Rocca am Dulek Abi See bewacht hatte!
 
 »Margrita vielleicht?« fragte ich Harald.
 
-»Nein,« meinte er. »Nur eine Aehnlichkeit.«
+»Nein,« meinte er. »Nur eine Ähnlichkeit.«
 
 »Ah — Sie denken an die entflohene Frau, die den
-Grafen dort in Aegypten gefangen gehalten hat?« rief
+Grafen dort in Ägypten gefangen gehalten hat?« rief
 Balk zu mir hinüber.
 
-»Ja, Balk,« erwiderte Harst für mich. »Eine Aehnlichkeit
+»Ja, Balk,« erwiderte Harst für mich. »Eine Ähnlichkeit
 ist vorhanden. Aber es ist jene Margrita nicht.
 Nase und Mund waren anders geformt. — Sonst Neues,
 Balk? Den Zeitungsartikel haben wir schon gelesen.«
@@ -961,7 +961,7 @@ Lineal und maß die Tiefe und Höhe der Fächer aus. Doch
 Fichtenmöbel auf?«
 
 »Ja — die vier Tischbeine sind anders gebeizt als
-das Uebrige — sind rötlicher.«
+das Übrige — sind rötlicher.«
 
 Harald klopfte mit dem Fingerknöchel gegen die Tischfüße
 — an verschiedenen Stellen. Der linke der hinteren
@@ -1099,7 +1099,7 @@ postlagernden Gepäckaufbewahrungsschein handeln.
 Der Mann machte ein sehr enttäuschtes Gesicht. Nach
 ein paar Sekunden befahl er Harst:
 
-»Oeffnen Sie das Versteck in dem Tischfuß! Los!«
+»Öffnen Sie das Versteck in dem Tischfuß! Los!«
 — Der barsche Ton gelang nicht recht. Es war überhaupt
 so, als ob der Elegante als Mensch von tadellosen Manieren
 der Rolle eines Verbrechers nicht recht gewachsen wäre.

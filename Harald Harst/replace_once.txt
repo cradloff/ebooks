@@ -3,6 +3,7 @@
 \bau!	auf
 \bBann\b	Dann
 \bBieter\b	Meter
+^ben	den
 \b(\d+)[l1i]en\b	$1ten
 \bElement\b	Clement
 \bFahr\b	Jahr
@@ -17,6 +18,7 @@
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
+\bLust\b	Luft
 \bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
@@ -28,3 +30,4 @@
 \bSeht\b	Jetzt
 \bTer\b	Der
 \bvor!\b	dort
+\bwirft\b	wirst

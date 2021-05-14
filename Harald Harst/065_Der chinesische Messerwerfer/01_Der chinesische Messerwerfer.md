@@ -240,7 +240,7 @@ Auto außer dem Chauffeur drei Personen.«
 <@pagebreak/>
 Jahren. Mein Privatsekretär Doktor Foller und meine Gesellschaftsdame
 Fräulein von Döringshoff, eine geborene
-Oesterreicherin wie ich.«
+Österreicherin wie ich.«
 
 »Der Chauffeur heißt?«
 
@@ -252,7 +252,7 @@ Vertrauen?«
 »Nein. Im Gegenteil: ich fühle, daß sie — mit Ausnahme
 Walkers vielleicht — meine Feinde sind.«
 
-»Sie Aermste!« murmelte Harald. Und fügte laut
+»Sie Ärmste!« murmelte Harald. Und fügte laut
 hinzu: »Wie äußert sich diese feindselige Gesinnung?«
 
 »Oh — sie äußert sich scheinbar gar nicht. Es ist das
@@ -604,7 +604,7 @@ jetzt — einen Brillantanhänger auf den Tisch, den er Harst
 aus der Jackentasche herausgeholt hatte!
 
 <@pagebreak/>
-Es gab noch mehr Ueberraschungen: in meiner linken
+Es gab noch mehr Überraschungen: in meiner linken
 Jackentasche fanden sich zwei kleine Damenbörsen vor und
 eine goldene Armbanduhr.
 
@@ -765,7 +765,7 @@ wir uns beeilen.«
 
 Ullerbreuch dienerte höflich. »Ganz recht, Herr Harst.
 — Also — abführen die beiden!« rief er den Beamten zu.
-»Einzelhaft! Strengste Ueberwachung!«
+»Einzelhaft! Strengste Überwachung!«
 
 <@pagebreak/>
 Harald raunte mir zu: »Nach einer Stunde scheinbar
@@ -838,7 +838,7 @@ nehmen, Herr Direktor.« Wir rückten uns Stühle vor den
 Schreibtisch und setzten uns. »Ich begreife vollständig, daß
 Sie sich derart haben irreführen lassen,« fuhr Harald fort.
 »Unsere Gegner arbeiten eben mit großzügigsten Mitteln.
-Sie gestatten, daß ich Ihnen einen kurzen Ueberblick über
+Sie gestatten, daß ich Ihnen einen kurzen Überblick über
 unsere letzten Erlebnisse gebe, die mit dem Besuch Frau
 Willburnes bei uns begannen —«
 
@@ -870,7 +870,7 @@ Sie müssen dafür sorgen, daß nur ein kleiner Kreis von
 zuverlässigen Personen erfährt, daß wir nicht mehr in
 unseren Zellen sind. Lassen Sie uns jetzt wieder in die Zellen
 zurückbringen. Tun Sie sehr empört, weil wir nun doch
-nichts gestanden haben. Ueberlegen Sie, wie Sie uns
+nichts gestanden haben. Überlegen Sie, wie Sie uns
 <@pagebreak/>
 dann vielleicht nach einer Stunde auf die Straße lassen
 können.«

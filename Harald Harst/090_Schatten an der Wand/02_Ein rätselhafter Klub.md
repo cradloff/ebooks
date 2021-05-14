@@ -12,7 +12,7 @@ Ernst-Edgar von Reppen gefallen sei. Er würde den neuen
 Majoratsbesitzer sofort telegraphisch benachrichtigen und
 ihm auch den Tod seiner einzigen Schwester schonend mitteilen.
 
-Harald erwiderte darauf: »Ueberlassen Sie die Abfassung
+Harald erwiderte darauf: »Überlassen Sie die Abfassung
 dieser Depesche bitte mir. Ich habe Herrn von
 Reppen noch anderes zu melden.«
 
@@ -153,7 +153,7 @@ einem der Zigeuner?! — Ja — weshalb — weshalb nur?!
 Was konnte Karlas Tod diesen Verbrechern nützen?«
 
 »Das bleibt aufzuklären. Einer der Zigeuner hat bereits
-ein Geständnis abgelegt. Ueber den Tod Ihrer
+ein Geständnis abgelegt. Über den Tod Ihrer
 Schwester konnte er nichts aussagen. Der Mörder selbst
 schweigt ebenso hartnäckig wie die andern Verhafteten!«
 
@@ -294,7 +294,7 @@ können mir glauben.«
 platzte ich heraus. »Sie wurden beim Anblick der 13 auf
 dem Umschlag wieder aschfahl!«
 
-»Ueberreizte Nerven — nichts weiter!« erklärte er fast
+»Überreizte Nerven — nichts weiter!« erklärte er fast
 unliebenswürdig.
 
 »Sie haben den Brief verbrannt, nicht wahr?« Und
@@ -336,7 +336,7 @@ Ich war erstaunt. Auch Harald meinte leise:
 Dann bat Reppen uns, ihn zu begleiten.
 
 Wir speisten zu acht im großen Speisesaal. Da hingen
-an den Wänden die Oelgemälde derer von Reppen.
+an den Wänden die Ölgemälde derer von Reppen.
 
 <@pagebreak/>
 Als die Tafel um zehn Uhr von Reppen aufgehoben
@@ -386,7 +386,7 @@ von Reppens gehabt haben?! Ich tappe da noch völlig im
 Dunkeln.« —
 
 <@pagebreak/>
-Der Wirt Gottfried Knuth hatte eine neue Ueberraschung
+Der Wirt Gottfried Knuth hatte eine neue Überraschung
 für uns bereit.
 
 »Es ist für Sie ein Brief abgegeben worden, Herr
@@ -508,7 +508,7 @@ ich mich auf die Maschine, radelte langsam zurück. Harst
 war irgend etwas zugestoßen. Das stand für mich fest.
 
 Auf dem Radfahrerweg links am Straßenrande lag
-ein feiner Ueberzug von Feuchtigkeit. Ich sah Radspuren
+ein feiner Überzug von Feuchtigkeit. Ich sah Radspuren
 wie Striche in diesem Hauch von Nässe. Haralds Maschine
 hatte einen ganz neuen Reifen am Hinterrad. Das Muster
 dieses Reifens war wie ein Faden, an dem ich mich nun
@@ -581,7 +581,7 @@ Ich beugte mich über Harald.
 
 »Wie geht es Dir? Bist Du bei Besinnung?«
 
-Dann die Ueberraschung — dann der Beweis, das
+Dann die Überraschung — dann der Beweis, das
 dieser Körper von einer übermenschlichen Energie selbst in
 diesem Zustande gemeistert wurde.
 
@@ -932,7 +932,7 @@ der einen Revolver lässig in der Rechten hielt. Es
 war der Mann, in dem Harald Eva Wilcword erkannt zu
 haben glaubte.
 
-Nun kam für uns die Ueberraschung.
+Nun kam für uns die Überraschung.
 
 Dieser Mann erhob sich. Schon nach seinen ersten Worten
 wußte ich, daß es nicht Eva war! Die Stimme unserer
@@ -1065,9 +1065,9 @@ Wir huschten die Leiter abwärts.
 
 Und abermals flammte Haralds Taschenlampe kurz
 auf. Da rechts standen die beiden Angeklagten — an das
-Geländer der quadratischen Oeffnung im Fußboden festgebunden.
+Geländer der quadratischen Öffnung im Fußboden festgebunden.
 
-Durch die Oeffnung fiel immerhin genügend Licht hier
+Durch die Öffnung fiel immerhin genügend Licht hier
 nach oben, um ihre Gestalten als dunkle Silhouetten wahrnehmen
 zu können.
 

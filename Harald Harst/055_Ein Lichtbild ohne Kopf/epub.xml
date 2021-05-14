@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">399d3014-8036-11eb-b676-c7e82f8c4816</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Ein Lichtbild ohne Kopf</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">55</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Lichtbild ohne Kopf.
+
+Als wir damals auf eine Depesche von Harsts Mutter hin von Rügen nach Berlin zurückkehrten, fanden wir daheim in der Blücherstraße in Schmargendorf einen Herrn vor, der Frau Harst inständig gebeten hatte, uns telegraphisch zurückzurufen, da er als mit den deutschen Verhältnissen wenig vertrauter Engländer es nicht wage, uns auf Rügen aufzusuchen.
+
+»Ich habe nämlich in der letzten Zeit so merkwürdige Dinge erlebt, Master Harst,« erklärte dieser Thomas Chiplay uns nun persönlich in Haralds Arbeitszimmer, – »so merkwürdige Dinge, daß ich mich kaum mehr recht auf die Straße traue.«
+
+Der magere, kleine, blondbärtige Herr mit den weit vorstehenden Vorderzähnen und der spiegelblanken Glatze machte denn auch einen recht nervösen und bekümmerten Eindruck.
+
+»Dabei bin ich ein so harmloses Menschenkind, Master Harst, daß ich einfach nicht begreife, wie diese Leute gerade mich mit ihren üblen Scherzen so in Schrecken setzen können,« fuhr er nach kurzer Pause lebhaft fort.
+
+Ein Todessprung.
+
+Als wir damals aus dem Krankenhause kamen, wo Thomas Chiplay die Fälschung seines Testaments festgestellt hatte, sagte Inspektor Wurbson zu uns auf der Straße:
+
+»Hektor Wolper wohnt hier ganz in der Nähe in einem kleinen Häuschen, das er von seinen Eltern geerbt hat. Wir könnten vielleicht bei ihm eine Haussuchung abhalten. Möglich, daß er bereits andere Schandtaten verübt hat und daß wir dort die Beweise hierfür finden. Sie würden mir einen Gefallen tun, Master Harst, wenn Sie und Ihr Freund mich begleiten wollten.«
+
+Das Häuschen, ein Backsteinbau mit spitzem Dach, lag in einem verwilderten Garten.
+
+Als wir uns der Haustür näherten, sahen wir, daß linker Hand zwei Fenster erleuchtet waren. Über die Vorhänge glitt auch dreimal schnell ein Schatten hin – der einer Frau.
+
+»Wolper hat eine alte Verwandte als Wirtschafterin bei sich,« flüsterte Wurbson. »Sie soll taubstumm und lahm sein.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (055) Ein Lichtbild ohne Kopf.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

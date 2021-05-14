@@ -316,7 +316,7 @@ Taschenlampen nebst je drei Ersatzbatterien holten.
 
 Wir waren im Miramare als Schrenk und Huber,
 Kaufleute aus Berlin, abgestiegen. Eine Veränderung unseres
-Aeußeren hatte Harald für überflüssig gehalten. In
+Äußeren hatte Harald für überflüssig gehalten. In
 Stockholm kannten uns nur ein paar Polizeibeamte, und
 Bilder von Harst hatten internationale Zeitschriften seit
 einem Jahr nicht mehr veröffentlicht.
@@ -431,7 +431,7 @@ des Weges, bückte sich und verwischte unsere Fährten.
 Wir schritten weiter. Ich fühlte bereits in allen Nervensträngen
 das Prickeln jener seltsamen Erregung, die mit
 der des leidenschaftlichen Hazardspielers oder des Jägers
-die meiste Aehnlichkeit hat.
+die meiste Ähnlichkeit hat.
 
 Harst legte die Hand auf den Türdrücker.
 
@@ -1328,7 +1328,7 @@ aufzugeben.«
 
 »Das ist richtig. Seit dem Vorfall mit Bertge und
 der Gefangennahme Söderblooms, den wir zum Schweigen
-bringen mußten, indem wir ihn von der Oeffentlichkeit
+bringen mußten, indem wir ihn von der Öffentlichkeit
 absperrten, litt die Gräfin an Gewissensbissen. Ich
 habe ihr heute versprochen, daß wir Schweden nach sechs
 Wochen für immer verlassen wollten. Dann sollten Bertge
@@ -1398,7 +1398,7 @@ in englischen Zeitungen immer wieder erörtert wird,
 was die dortige Geschäftswelt beunruhigt und was ich auf
 der Fahrt nach Stockholm gestern nachmittag abermals in
 einer Zeitung fand. Schon in Kalkutta ahnte ich etwas
-Aehnliches. Warten Sie nur ab, Hofkürschner Ektory wird
+Ähnliches. Warten Sie nur ab, Hofkürschner Ektory wird
 Ihnen weitere Aufschlüsse geben.«
 
 Mit ein paar Ruderschlägen waren wir drüben auf

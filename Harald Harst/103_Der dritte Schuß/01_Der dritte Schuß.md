@@ -16,7 +16,7 @@ für uns beginnen.
 
 Daß Harst den Napoleon käuflich erworben hatte,
 war am 18. Juli 1922 in allen Zeitungen zu lesen. Weiter
-stand dann auch in demselben Artikel eine kurze Uebersicht
+stand dann auch in demselben Artikel eine kurze Übersicht
 über den Tod des Artisten Robba und all die anderen
 Ereignisse, die mit der Festnahme der internationalen
 Diebesbande zusammenhingen. Falls der Leser sich für Robert
@@ -110,7 +110,7 @@ Alter, hier stimmt etwas nicht. Ich wette, die Sache mit
 dem Selbstmordversuch stimmt. Der Mann, der sich bei
 uns als Svendson ausgab, muß ein Interesse daran gehabt
 haben, mich auf diesen Selbstmordversuch aufmerksam
-zu machen. Uebrigens war der blondbärtige niemals
+zu machen. Übrigens war der blondbärtige niemals
 ein Schwede. Das merkte ich schon an seinem tadellosen
 Deutsch. Es ist ein Deutscher.«
 
@@ -665,7 +665,7 @@ Der Herr war leicht zurückgefahren.
 nach dürften Sie Schwede sein. Sie sind Sigurd Barnö,
 der drüben in dem schmalen alten Hause wohnt. Sie sind
 auch der alte Bettler, der dem Professor Svendson nachschlich.
-— Aeußern Sie sich!«
+— Äußern Sie sich!«
 
 Der Herr hatte die rechte Hand nun auf das Geländer
 gelegt. In der Linken trug er den keinen Handkoffer.
@@ -721,7 +721,7 @@ In dem Zimmer brannte Licht.
 Aus einem Klubsessel erhob sich ein blondbärtiger
 Herr und verbeugte sich verwundert vor uns.
 
-Ich mußte mir Mühe geben, meine Ueberraschung zu
+Ich mußte mir Mühe geben, meine Überraschung zu
 verbergen, denn der blonde Herr war... Der falsche Professor
 Svendson, der Dieb des Napoleon aus Wachs...!!
 
@@ -916,7 +916,7 @@ daß ein Nachtwächter einen Mann gegen 12 Uhr in
 jener Nacht über den Zaun der Svendson’schen Villa hatte
 steigen sehen und auch angerufen hatte, stellten schließlich
 auch fest, daß jemand eine Buche, die vor dem Laboratoriumsfenster
-stand, erklettert haben mußte. — Ueber diesen
+stand, erklettert haben mußte. — Über diesen
 Nachforschungen waren Tage vergangen. Svendsons und
 Burton waren inzwischen nach Berlin gereist. Barnö und
 Gulbranson folgten ihnen. Die beiden Freunde wollten
@@ -1073,7 +1073,7 @@ nahm eine neue, sann vor sich hin...
 Sagte unvermittelt: »Sie beide werden nun genau so
 weiterleben wie bisher, werden also Burton und Svendson
 wie bisher Ihre Aufmerksamkeit widmen. Schraut
-und ich erledigen das Uebrige. Es muß zunächst mal festgestellt
+und ich erledigen das Übrige. Es muß zunächst mal festgestellt
 werden, weshalb man Svendson nach dem Leben
 trachtet. Alles andere findet sich dann ganz von selbst. Wir
 werden uns nun verabschieden, meine Herren. Sie hören
@@ -1094,7 +1094,7 @@ Knie Gesunkenen zurückblickte. Leider hatten sie aber
 nicht die Nummer, deren Lampe nicht gebrannt hätte.
 
 Harst bedankte sich für die Auskunft und bat dringend,
-ja nicht an die Oeffentlichkeit gelangen zu lassen, daß
+ja nicht an die Öffentlichkeit gelangen zu lassen, daß
 er sich hier erkundigt hätte. —
 
 Wir fuhren mit einer der letzten Straßenbahnen nach
@@ -1218,7 +1218,7 @@ sind keinen Augenblick ihres Lebens sicher.« —
 Der Tag verging ohne erwähnenswerte Vorgänge.
 Um zehn Uhr abends waren wir daheim in der Blücherstraße
 und kostümierten uns vollständig um. Gegen elf
-Uhr begann es zu regnen. Ueber Berlin fegte ein wilder
+Uhr begann es zu regnen. Über Berlin fegte ein wilder
 Sturm hinweg, der manchen Dachziegel herabwarf. Die
 Straßen waren um Mitternacht wie ausgefegt. So konnten
 denn zwei fragwürdig ausschauende Gestalten mit
@@ -1382,7 +1382,7 @@ Seine Clement hielt den maskierten Verbrecher in
 Schach.
 
 Burton stand diesmal doch wie gelähmt da. *Diese*
-Ueberraschung trieb auch ihm das Blut aus dem Hirn.
+Überraschung trieb auch ihm das Blut aus dem Hirn.
 
 »Ihre Luftbüchse ist seit gestern nicht mehr ganz in
 Ordnung, Burton,« sagte Harald verächtlich. »Die beiden

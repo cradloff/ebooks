@@ -52,7 +52,7 @@ Richtung nach Bikaner freilich nicht genau eingehalten. Die
 Fährte verlief in vielen Bogen bald etwas nordwärts, bald
 wieder südwärts.
 
-Und dann — dann kam die peinliche Ueberraschung:
+Und dann — dann kam die peinliche Überraschung:
 in einem sandigen, stellenweise mit Gras bestandenen Tale
 sahen wir zwei Kamele friedlich weiden — zwei Tiere, eins
 gesattelt, das andere nur mit Trense und Leittau.
@@ -162,7 +162,7 @@ fast eine Erholung nach den letzten aufregenden Tagen.
 »Ich behaupte, wir werden in Agra trotz Deiner nicht
 ganz unberechtigten Zweifel ihre Spur wiederfinden,«
 meinte Harald mit jenem eigentümlichen Lächeln, hinter
-dem sich eine Ueberfülle geheimer Gedanken stets verbirgt.
+dem sich eine Überfülle geheimer Gedanken stets verbirgt.
 
 Er rauchte seine Mirakulum bedächtig zu Ende und
 fügte dann hinzu:
@@ -257,7 +257,7 @@ und die eine starke Abneigung gegen das Photographiertwerden
 hegt, mußte mir wohl verdächtig vorkommen.
 Ich habe aus dem Bilde dann das uns wichtige Stück,
 das Tor mit der Figur der Norton, herausgeschnitten und
-das Uebrige verbrannt, während Du unsere Koffer packtest.
+das Übrige verbrannt, während Du unsere Koffer packtest.
 Bitte — hier ist das Bildchen, und hier ist ein Vergrößerungsglas.« —
 
 Daisy Norton stand auf der Photographie ohne Hut
@@ -271,7 +271,7 @@ Gesichts deutlich zu erkennen.
 
 »Denke Dir statt der hohen Frisur einen Scheitel, wie
 das blinde Hindumädchen ihn trug, und Du wirst eine gewisse
-Aehnlichkeit zwischen der Norton und der »Blinden«
+Ähnlichkeit zwischen der Norton und der »Blinden«
 feststellen können,« meinte Harald. »Wie vorsichtig die
 Norton gewesen ist, beweist auch diese Aufnahme wieder.
 Sie hat den Mund darauf verzogen und die Augen stark
@@ -515,7 +515,7 @@ sagte Harald sinnend, als wir jetzt dem wartenden Auto
 zuschritten.
 
 »Das mag der Teufel wissen, lieber Harst!« polterte
-der Lord heraus. »Ueberhaupt — Sie werden staunen.
+der Lord heraus. »Überhaupt — Sie werden staunen.
 Im Auto erstatte ich Bericht.« —
 
 Lucknow, indisch Lakhnau, zieht sich acht Kilometer
@@ -830,7 +830,7 @@ Burg und jener Miß Daisy Norton der Verdacht auf Olivia
 gelenkt worden sei.
 
 Breßfort war stehengeblieben. Er schnappte förmlich
-nach Luft vor Ueberraschung.
+nach Luft vor Überraschung.
 
 »Dieser Verdacht ist einfach unsinnig!« murmelte er
 dann. »Allerdings, wenn — wenn ich mir Olivias ganzes
@@ -859,10 +859,10 @@ Kopf.
 
 »Sie sagten doch vorhin,« meinte der Lord zögernd,
 »daß Sie Olivia wiedererkannt hätten, lieber Harst. Sie
-betonten ihre große Aehnlichkeit mit dem Hindumädchen.
+betonten ihre große Ähnlichkeit mit dem Hindumädchen.
 Und jetzt — jetzt —«
 
-»Aehnlichkeiten können trügen, Breßfort. Wir sind in
+»Ähnlichkeiten können trügen, Breßfort. Wir sind in
 der Lage, die Frage, ob Olivia nur mitschuldig ist, sofort
 nachzuprüfen. Wir brauchen uns nur mit Oberst Varnheiky
 in Nipalgong in Verbindung zu setzen, und wir erfahren,
@@ -920,7 +920,7 @@ mich nicht mehr zurecht in all diesen Widersprüchen.
 In unserem reichbewegten Leben haben wir gewiß
 mancherlei durchgemacht. Das, was uns in Lucknow im
 Bungalow Miß Bennertons zustieß, war doch vielleicht das
-Seltsamste. Auch Harald stand dieser ungeahnten Ueberraschung
+Seltsamste. Auch Harald stand dieser ungeahnten Überraschung
 zunächst völlig verdutzt gegenüber. Daß er dann
 sehr bald die Wahrheit erkannte, mußte — Doch nein, ich
 will für den Leser die Spannung nicht abschwächen.
@@ -1092,7 +1092,7 @@ Dorbram —«
 Ich konnte jetzt nicht länger schweigen.
 
 »Daisy Bennerton — Daisy Norton!« meinte ich.
-»Zwillingsschwestern, daher die Aehnlichkeit!«
+»Zwillingsschwestern, daher die Ähnlichkeit!«
 
 »Ja — so hatte auch ich kombiniert, genau so! Ich
 glaubte, Daisy sei vor uns hier zu Olivia geflüchtet. So
