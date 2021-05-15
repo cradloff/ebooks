@@ -5,7 +5,7 @@ darauf hin, das gleichzeitig mit Herausgabe
 des Bandes 110 ein Roman mit Harst und Schraut als
 Hauptpersonen mit dem Titel
 
-<div style="font-size: x-large;">Die roten Briefe</div>
+<div style="font-size: x-large; text-align: center;">Die roten Briefe</div>
 
 in unserer Ausgabe »Kabels Kriminalbücher« erschienen
 ist. Gleichzeitig empfehlen wir »Kabels
