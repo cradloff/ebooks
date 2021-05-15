@@ -12,7 +12,8 @@ energischen Handschrift:
 
 > Nach meinem Tode an Herrn Harald Harst, Berlin-Schmargendorf,
 Blücherstraße 10, uneröffnet zu senden. —
-James Palperlon
+
+> James Palperlon.
 
 Der Umschlag war nur zugeklebt. Nachdem Harst ihn von
 außen so genau besichtigt hatte, wie eben nur er dies tat,
@@ -45,6 +46,8 @@ dort auf dem Wandbrett steht eine sicher hier nur als
 <@pagebreak/>
 Dekoration dienende Briefwage. Vielleicht langst Du mal hin
 und stellst sie auf den Tisch.«
+
+Ich tat’s.
 
 »Was wiegt ein leerer Briefumschlag von dieser Größe
 und Papierstärke?« fragte er nun.
@@ -154,14 +157,14 @@ hast Du den Umschlag. Verwahre ihn gut.«
 Ich legte ihn zwischen Stoff und Futter meiner weichen
 Reisemütze.
 
-»Bravo so!« lobte Harald. »Da ist er vorläufig gut
+»Brav so!« lobte Harald. »Da ist er vorläufig gut
 <@pagebreak/>
 aufgehoben! Sobald wir in Kapstadt sind, erkundigen wir uns
 nach dem nächsten Schiff nach Indien. Ich bin sehr neugierig,
 was wir in der Confiserie Vapaures Freres erleben werden.«
 
 Wir hatten Glück. Als wir Lord Balleray, den Gouverneur
-der Kapkolonie gleich nach unserem Eintreffen in Kapstadt
+der Kapkolonie, gleich nach unserem Eintreffen in Kapstadt
 besuchten und ihm mitteilten, was es mit dem Geheimnis
 der Insel Tristan da Cunha auf sich gehabt hätte, und als
 Harst dann von seiner Absicht sprach, wieder ein paar Monate
@@ -225,7 +228,7 @@ hat.«
 Ich blickte Harst fragend an.
 
 »Nun — sein Gesicht verrät, daß er ständig den Tod
-fürchtet — den Tod von der Hand irgendwelcher Feinde.« erklärte
+fürchtet — den Tod von der Hand irgendwelcher Feinde,« erklärte
 Harst.
 
 Ich nickte. »Du magst recht haben.«
@@ -246,7 +249,7 @@ Harst hatte mir mit sehr ernstem Gesicht zugewinkt.
 »Hast Du Eugen Sues Roman Der ewige Jude gelesen?«
 fragte er. »Natürlich kennst Du das Buch. Jeder kennt es.
 Besinne Dich auf die dort erwähnte Mördersekte der Thug, die
-zu Ehren der blutigen Göttin Bhowani oder Chali mit einer
+zu Ehren der blutigen Göttin Bhowani oder Kali mit einer
 geweihten Schlinge ihre Opfer erdrosseln. Lord Wolpoores
 Großvater hat als Vizekönig von Indien die Thug erbarmungslos
 auszurotten versucht. Die Mordbande, die besser
@@ -321,7 +324,7 @@ Er drehte sich nach uns um, rief:
 »Der — der Bursche ist verschwunden!«
 
 Wir standen sogleich neben ihm. In der Kabine brannte
-Licht. Mitten auf dem Teppich lag eine Bastmatte mit denen
+Licht. Mitten auf dem Teppich lag eine Bastmatte, mit denen
 der Gang zwischen den Kabinen belegt war. Sie war
 mit Blut förmlich durchtränkt. In einer Ecke aber hockte ein
 Matrose mit den Händen vor dem Gesicht und wimmerte
@@ -332,7 +335,7 @@ Blindley trat ein und rüttelte den Mann.
 »Meine Augen — meine Augen!« heulte der Matrose
 auf. »Er hat mir etwas in die Augen geworfen —«
 
-Blindley sagte schnell: »Es ist derselbe Matrose der den
+Blindley sagte schnell: »Es ist derselbe Matrose, der den
 Inder zuerst bemerkte und mich heimlich holte. Ich ließ ihn
 dann den Schwerverwundeten hier in die Kabine tragen.«
 
@@ -347,7 +350,7 @@ und dieser ihm dann etwas in die Augen geworfen hätte; wo
 der Inder geblieben sei, wisse er nicht.
 
 Harst war an das offene, runde Kabinenfenster getreten,
-dessen dichte, messingumrahmte Scheibe nach innen aufgeklappt
+dessen dicke, messingumrahmte Scheibe nach innen aufgeklappt
 war.
 
 »Der Inder hat sich in die See gestürzt,« sagte Harst dann
@@ -387,7 +390,7 @@ Wir verließen die Kabine und kehrten in die Chester
 Blindleys zurück.
 
 Hier wurde zwischen diesem, dem Kapitän und den inzwischen
-gleichfalls erschienenen fünf Detektiven der Privat-Polizei
+gleichfalls erschienenen fünf Detektiven der Privatpolizei
 des Lords der Vorfall nach allen Seiten hin besprochen.
 Wolpoore selbst blieb unsichtbar.
 
@@ -413,8 +416,8 @@ Harst rauchte ein paar Züge und schaute den tadellosen
 Rauchringen nach, die immer größer und verschwommener
 wurden, je höher sie stiegen.
 
-»Chester Blindley ist eine ganz tüchtige Kraft,« sagte er.
-Nun sehr leise. »Aber Moostler ist ihm über.«
+»Chester Blindley ist eine ganz tüchtige Kraft,« sagte er
+nun sehr leise. »Aber Moostler ist ihm über.«
 <@pagebreak/>
 
 »Was — was heißt das?« fragte ich unsicher.
@@ -517,6 +520,7 @@ an Bord war.
 »Sie sind Schnupfer, Moostler,« begann Harst, indem er
 den Mann fest anblickte. »Sie hätten nicht so unvorsichtig
 sein sollen, sich Ihren eigenen Tabak in die Augen zu werfen.«
+
 Moostler wurde merkwürdig fahl im Gesicht, brummte
 nur:
 
@@ -525,7 +529,7 @@ nur:
 »Sie sind sehr töricht, nicht sofort alles einzugestehen.
 Die Belohnung lockte Sie. Und daher haben Sie den Plan sich
 ausgeklügelt. Mylord hatte jedem von Ihnen, der die Augen
-gut offen hielt und alles Verdächtige schnell meldete 1000
+gut offen hielt und alles Verdächtige schnell meldete, 1000
 Pfund versprochen, wie mir Master Blindley anvertraut hat.
 <@pagebreak/>
 Um diese 1000 Pfund war es Ihnen zu tun. — Wollen Sie
@@ -545,7 +549,7 @@ Sache hat sich so zugetragen. Sie haben in Kapstadt irgendwo
 einen armen, harmlosen Inder aufgegabelt, an Bord geschmuggelt
 und unter Ihrem Bett versteckt. Ich fand dort
 noch die Krümel von Brot und ein paar Körner von gekochtem
-Reis also Reste der Mahlzeit des Inders. Was Sie dem
+Reis, also Reste der Mahlzeit des Inders. Was Sie dem
 Inder vorgeredet haben, daß er dann gestern nacht nach Lord
 Wolpoores Schlafsalon schlich und am Türschloß sich zu schaffen
 machte, ist gleichgültig. Dann spielten Sie den Verräter,
@@ -571,7 +575,7 @@ Plötzlich warf er sich auf die Knie und streckte flehend
 die Arme nach Lord Wolpoore aus.
 
 »Ich gebe alles zu!« heulte er. »Das Geld hat mich verführt.
-— Gnade. Mylord, — Gnade!«
+— Gnade, Mylord, — Gnade!«
 <@pagebreak/>
 
 Wolpoore beachtete ihn nicht.
@@ -583,7 +587,7 @@ nie zugetraut!«
 Als Moostler über das Deck geführt wurde, riß er sich
 los und — sprang über Bord. Drei mächtige Haie waren der
 Jacht schon gestern gefolgt. Eine dieser Meeresbestien zog
-Moostler im die Tiefe. —
+Moostler in die Tiefe. —
 
 Das war sozusagen die Einleitung zu unseren späteren
 Abenteuern, die wir im Kampf gegen Lord Wolpoores unerbittliche
@@ -619,7 +623,7 @@ Harst hatte mir schon vorher erklärt, weshalb wir den
 Dampfer vor der Stadt verlassen hatten. Er rechnete bestimmt
 damit, daß die Nachricht von Palperlons Tod auch hier bereits
 durch den Depeschendienst der Zeitungen bekannt geworden
-sei und daß die Inhaber der Konfiserie Vapaure uns hier
+sei und daß die Inhaber der Confiserie Vapaure uns hier
 <@pagebreak/>
 erwarten würden. »Wenn sie den Bahnhof und den Hafen
 überwacht haben,« hatte er gemeint, »würden sie uns vielleicht
@@ -660,15 +664,15 @@ Der Kellner dort dürfte uns vielleicht einiges über die Brüder
 mitteilen können.«
 
 So war es auch. Harst gab sich als Reisender einer Pariser
-Konfitürenfabrik aus. Der Kellner erklärte die Vapaures
+Konfitürenfabrik aus. Der Kellner erklärte, die Vapaures
 seien zwei sehr angesehene, ältere Franzosen. Das
 Haus Nr. 19 gehöre ihnen. Sie bewohnten den ersten Stock.
 Nur der 2. Stock sei an einen Hafenbeamten vermietet. Den
 unverheirateten Brüdern führe eine jüngere Verwandte, eine
-Engländerin die Wirtschaft, ein hübsches Mädchen, das aber
+Engländerin, die Wirtschaft, ein hübsches Mädchen, das aber
 stets sehr traurig aussehe. —
 
-Harst war sehr zufrieden mit dieser Auskunft. Um ¼ 12
+Harst war sehr zufrieden mit dieser Auskunft. Um ¼12
 kletterten wir über die Mauerpforte und befanden uns nun
 auf einem kiesbestreuten Wege, der schnurgerade auf das
 Haus zulief.
@@ -698,7 +702,7 @@ wie er kommt selbst auf das, was hundert andere auch nicht im
 entferntesten ahnen. Er wird erscheinen! Er müßte gerade
 ein sehr schnelles Schiff benutzt haben, um in Indien bereits
 angelangt zu sein. Jedenfalls können wir ihn nächste Woche
-bestimmt erwarten.« —
+bestimmt erwarten.«
 
 »Viktor, Du bist zu sehr eingenommen von seiner Findigkeit!
 — Nun — ich wünschte wahrhaftig, er käme. Wenn
@@ -774,7 +778,7 @@ Harst drückte meinen Arm. — Ich wußte, was er damit
 andeuten wollte: daß auch ihm diese Entdeckung äußerst unerwartet
 gekommen war.
 
-»Nun — sie wird es nie erfahren.« erklärte Charles
+»Nun — sie wird es nie erfahren,« erklärte Charles
 Vapaure jetzt mit einer Stimme, die fast drohend klang. »Sie
 darf es nie erfahren! Überhaupt — am besten wäre, sie
 würde heiraten. Dann käme sie aus dem Hause. Sie ist manchmal
@@ -801,7 +805,7 @@ letzte Minuten miterlebte. Auf diese Weise wird James ihm
 vielleicht noch das große Geheimnis haben anvertrauen können.
 Wenn man so bedenkt, daß ein Verbrecher gerade seinen
 eifrigsten Verfolger zum Testamentsvollstrecker erwählt,
-fürwahr ein reiner Witz!«
+— fürwahr ein reiner Witz!«
 
 »James wußte eben, daß ein Mann wie Harst unbedingt
 zuverlässig ist. Ihm war es sehr gleichgültig, daß wir beleidigt
@@ -858,7 +862,7 @@ hatte Harsts Gedanken offenbar abgelenkt. Wir machten uns
 nun auf den Heimweg und bald befanden wir uns wieder in
 der Eingeborenenstadt. Aus einer Opiumspelunke taumelte
 ein Dutzend französische Seeleute heraus, gröhlte die Marseillaise
-und schimpfte hinter uns drei, obwohl wir uns ganz
+und schimpfte hinter uns drein, obwohl wir uns ganz
 dicht an die Lehmhütten gedrückt hatten.
 
 »Sie sind das Opium-Gift aus südfranzösischen Häfen gewöhnt.
@@ -913,18 +917,18 @@ Vergegenwärtige Dir den Aufdruck. Er lautete:
 
 > Pondicherry, Boulevard de la Gare 19.
 
-Aus diesem Ausdruck hoben sich die Buchstaben hervor.
+Aus diesem Aufdruck hoben sich die Buchstaben hervor:
 
-> Va*p*aures F*re*res,
+> Va**p**aures F**re**res,
 
-> *Co*nfi*s*er*i*e,
+> **Co**nfi**s**er**i**e,
 
-> P*ond*ich*e*rry, Boulevard de la Gare *19*.
+> P**ond**ich**e**rry, Boulevard de la Gare **19**.
 
 Es waren also auch die beiden Zahlen 1 und 9 kenntlich
 gemacht. Stellt man alles zusammen, so ergibt sich:
 
-> <span class="g">pre Cosion de 19.</span>
+> *pre Cosion de 19.*
 
 Das ist fehlerhaftes Französisch aus Not, soll heißen:
 
@@ -945,11 +949,11 @@ andere, mein Alter! Das eigentliche Testament, nämlich der
 war etwas geschrieben!« rief ich gespannt.
 
 »Kein Wort!« erklärte Harald jedoch zu meiner Enttäuschung.
-Nicht eine Silbe. Nur — mit Bleistift war innen
+»Nicht eine Silbe. Nur — mit Bleistift war innen
 ein Viereck ganz dünn gezeichnet, nichts als ein Viereck. Und
 dieses harmlose Viereck war die Veranlassung zu unserem
 heutigen Besuch des Gartens, die Hauptveranlassung, wie ich
-jetzt ehrlich zugeben will.
+jetzt ehrlich zugeben will.«
 
 Ich dachte angestrengt nach, fragte dann:
 
@@ -1070,7 +1074,7 @@ dem Opiumgenuß frönen. Sollten Sie Lust haben, Monsieur
 Harst, einmal eine Pfeife Opium in einer sehr eleganten Umgebung
 zu rauchen, so gehen Sie zu den Brüdern Vapaure
 nach dem Bahnhofsboulevard 19 und verlangen Sie in deren
-Konfitürengeschäft »anregende Bonbons.« Das ist das geheime
+Konfitürengeschäft »anregende Bonbons«. Das ist das geheime
 Kennwort, das Ihnen zu dem vornehmsten Opiumsalon
 Zutritt verschafft. Sie werden staunen, wie schlau diese
 Herren Vapaure ihr Haus für diesen Zweck eingerichtet haben.
@@ -1095,7 +1099,7 @@ simplen Polizeikommissar.«
 Dalbott schüttelte den Kopf. »Nein. Das würde nicht
 lohnen.«
 
-»Hehler?« meinte Harst
+»Hehler?« meinte Harst.
 
 Der Franzose zog die Schultern hoch. »Ich weiß nichts
 und will nichts wissen!« —
@@ -1105,7 +1109,7 @@ Paris, wo wir, obwohl es nach Mitternacht war, sofort zwei
 Zimmer im ersten Stock erhielten.
 
 Als Dalbott sich verabschiedete, sagte Harst nach einigen
-Dankesworten die des Kommissars Liebenswürdigkeit galten:
+Dankesworten, die des Kommissars Liebenswürdigkeit galten:
 »Wir werden vormittags mal zu den Vapaures gehen.
 — Dürfte ich Sie dann mittags zum Diner hier im Speisesaale
 des Hotels einladen, Monsieur Dalbott? Vielleicht
@@ -1116,7 +1120,7 @@ doch nicht als Touristen hier waren. »Ich nehme mit Dank
 an,« äußerte er. »Hoffentlich können wir so ein wenig zusammen
 — arbeiten!« erklärte er mit feinem Lächeln.
 
-Als wir allein waren, meinte Harald. »Siehst Du, mein
+Als wir allein waren, meinte Harald: »Siehst Du, mein
 Alter, nun haben wir hier einen ganz brauchbaren Verbündeten
 gefunden und auch — eine Rückversicherung abgeschlossen.«
 
@@ -1133,7 +1137,7 @@ zu bewundern. —
 
 Der Laden der Brüder Vapaure hätte auch in Paris den
 Besitzern Ehre gemacht. Drei Steinstufen führten zu dem Geschäftseingang
-hinauf, einer breiten Glasflügeltür auf deren
+hinauf, einer breiten Glasflügeltür, auf deren
 Scheiben in Porzellanbuchstaben je ein scherzhafter französischer
 Spruch stand, der auf die Süßigkeiten des Lebens Bezug
 hatte.
@@ -1164,7 +1168,7 @@ unseren Wünschen, sagte im gleichen Atem zu Ellen: »Geh’
 nach oben und besorge mir das Frühstück.«
 
 Das junge Mädchen zog sich widerstrebend zurück. Bevor
-sie den Vorhang zufallen ließ, warf sie noch einen langen
+sie den Vorhang zufallen ließ, warf sie noch einen langen,
 keineswegs freundlichen Blick auf Harst.
 
 Charles Vapaure dienerte abermals. »Womit kann ich
@@ -1197,7 +1201,7 @@ Zimmer, das halb elegantes Herrenzimmer, halb Kontor
 war.
 <@pagebreak/>
 
-Hier erhob sich von einem Schreibtisch der andere Vapaure
+Hier erhob sich von einem Schreibtisch der andere Vapaure,
 — Viktor. Nachdem Charles ihn uns vorgestellt und Harst
 auch meinen Namen genannt hatte, ging Viktor in den Laden
 hinüber.
@@ -1238,7 +1242,7 @@ sie uns vor einem Jahre aus. Er gab dazu nur folgende Erklärung
 ab: »Ich werde gerade den Mann, der mein gefährlichster
 Feind ist, zu meinem Testamentsvollstrecker machen:
 Harald Harst! Er wird sich nach meinem Tode — denn ich
-rechne mit einem baldigen Ende so oder so — hier bei euch
+rechne mit einem baldigen Ende so oder so — hier bei Euch
 einfinden und die Ergänzung zu dem von mir mitten durchgerissenen
 Schriftstück bringen, das ohne diese Ergänzung
 ohne Wert ist.« — Das war alles, was er sagte.«
@@ -1262,7 +1266,7 @@ Das, was auf diesem Papier geschrieben stand, lautete
 auf Deutsch folgendermaßen:
 
 <blockquote><p class="pre">                        Pondicherry
-Mein letzter Wun
+     Mein letzter Wun
 In der Überzeugung, daß sofort
 erreicht, bestimme ich, falls
 meine Hinterlassenschaft in
@@ -1349,7 +1353,7 @@ Satz zu Ende. »Die Schufte haben sich nun verraten. Deshalb
 trat ich ja auch so unhöflich auf. Daß die Vapaures
 etwas derartiges planten, ahnte ich. Ich wußte nur nicht,
 was es sein würde. Nicht umsonst habe ich mir heute
-früh als Du Dich noch rasiertest, sowohl ein paar
+früh, als Du Dich noch rasiertest, sowohl ein paar
 Stahlfeilen, eine kleine Stahlsäge und ein kleines
 Federmesser gekauft, das ich geöffnet im Ärmelaufschlag
 <@pagebreak/>
@@ -1377,17 +1381,17 @@ nach hinten in die Schlüsseltasche der Beinkleider langen und
 die Pistole herausziehen, entsicherte sie und flüsterte nun aufatmend:
 »So — ich bin bereit!«
 
-Harst keuchte jetzt vor Anstrengung — »Nein — der
+Harst keuchte jetzt vor Anstrengung. — »Nein — der
 Kistendeckel sitzt fest,« meinte er. »Ich werde mal unser Gefängnis
-ableuchten. Fass’ mir doch in die Brusttasche und
+ableuchten. Faß’ mir doch in die Brusttasche und
 nimm die Taschenlampe —«
 
-Wir hörten Stimmen; es wurde gerufen — irgend
+Da — wir hörten Stimmen; es wurde gerufen — irgend
 etwas. Zu verstehen war jedoch nichts.
 
 »Aha — die Rückversicherung!« brüllte Harst plötzlich
 derart mit allem Stimmaufwand, daß ich erschrocken zusammenfuhr.
-»Hallo — Dalbott!. Hier stecken wir!«
+»Hallo — Dalbott! Hier stecken wir!«
 
 Gleich darauf fiel der Lichtstrahl einer Laterne in unseren
 Kasten. Harst sprang schon auf die Füße.
@@ -1430,9 +1434,9 @@ der verflossenen Nacht unter der Brücke hindurchgefahren
 und von Chester Blindley so scharf aufs Korn genommen
 war.
 
-— Die Vapaures saßen nebeneinander auf der Seitenbank
+Die Vapaures saßen nebeneinander auf der Seitenbank
 der Kajüte und rauchten in aller Gemütsruhe ihre Zigarren.
-Als wir drei eintraten sagte Charles Vapaure sehr gehässigen
+Als wir drei eintraten, sagte Charles Vapaure sehr gehässigen
 Tones zu Dalbott: »Ich fürchte, diese Dummheit wird
 Sie Ihre Stellung kosten. Die beiden Deutschen da wollten
 ein Testament unterschlagen. Ich werde gegen sie Anzeige
@@ -1465,7 +1469,7 @@ eine Hälfte eines Testaments aus, in dem von einer Hinterlassenschaft
 von Millionen die Rede ist. Er sagt Ihnen, die
 Ergänzung zu dieser Hälfte würde ich einst in Besitz haben.
 — Ich war dann Zeuge seines Sterbens, nahm sein wahres
-Testament an mich. Hier ist es. Es besteht wie Sie sehen,
+Testament an mich. Hier ist es. Es besteht, wie Sie sehen,
 aus diesem Briefumschlag mit zahlreichen Kniffen und der
 Adresse an mich, dann aus diesem Seidenpapierblättchen, das
 aus Ihrem Geschäft stammt. Dieses Blättchen stellt eine
@@ -1501,7 +1505,7 @@ so glaubten Sie, die Erbschaft an sich reißen können.
 — Kommissar Dalbott wird Sie beide jetzt hier noch festhalten,
 bis Schraut und ich in Gegenwart Ellen Palperlons zu
 Tage gefördert haben, was deren Vater an der bestimmten
-Stelle vergraben hat.«
+Stelle vergraben hat.« —
 
 Ich will alle Einzelheiten übergehen. — Als wir Ellen
 mitteilten, daß Palperlon ihr Vater sei, nahm sie dies mit
@@ -1571,7 +1575,7 @@ Richtige vermutet. —
 Hiermit endete die Episode »James Palperlon« für uns.
 Es begann ein neuer Abschnitt unsrer Erlebnisse, die vielfach
 mit der Person Lord Wolpoores zusammenhingen, so auch die
-Geschichte die ich betitelt habe
+Geschichte, die ich betitelt habe
 
 **»Die Siegellacktröpfchen«**
 

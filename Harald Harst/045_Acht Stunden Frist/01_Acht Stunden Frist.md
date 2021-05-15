@@ -51,7 +51,7 @@ heraus.
 
 »Die ganze Gesellschaft sitzt jetzt in den Palmen am
 weitesten rechts. Das Schnattern ist unerträglich. Ich werde
-mal einen Schuh abgeben und die Bande verscheuchen. —
+mal einen Schuß abgeben und die Bande verscheuchen. —
 Schraut, reiche mir doch bitte meine Pistole. Sie liegt dort
 auf dem Rauchtischchen —«
 
@@ -112,7 +112,7 @@ Erverlyn erzählte schon wieder. Ich tappte im Dunkeln
 in das Badezimmer. Hier schaltete ich das Licht ein. Ich hatte
 die Platte in kurzem losgeschraubt. Sie war etwa 80 Zentimeter
 lang, 60 Zentimeter hoch und gut 2 Zentimeter
-dick. Sie wog nicht wenig, und es war nachher nicht einfach
+dick. Sie wog nicht wenig, und es war nachher nicht einfach,
 sie Harald unterm Tische zuzureichen, zumal er wiederholt
 sagte: »Bitte — ganz unauffällig —«
 
@@ -249,14 +249,14 @@ Pfeilschuß — denn die Waffe war ein Bogen — die vier
 Pistolenschüsse abfeuerte, dürfte in jenem Auto entfliehen. Es
 war eine lange, gezogene Scheibenpistole. Man merkte es am
 Knall. Hier,« er tupfte sich auf die linke Schulter — »hat
-eine Kugel die schöne Leinenjacke verdorben —«
+mir eine Kugel die schöne Leinenjacke verdorben —«
 
 Ein Streifschuß hatte den Stoff aufgerissen.
 
 »Verdammt!« meinte Erverlyn. »Was können das nur
 für Schufte sein, die im Auto kommen und —«
 
-»Gehen wir nach,« fiel ihm Harald ins Wort. »Aber —
+»Sehen wir nach,« fiel ihm Harald ins Wort. »Aber —
 Vorsicht! Mit diesen Leuten ist nicht zu spaßen —«
 
 <h2>2. Kapitel.</h2>
@@ -414,7 +414,7 @@ lautete in deutscher Übersetzung:
 
 > »Master Harst! Eine Unglückliche fleht Sie um Hilfe
 an. Meine Sache duldet keinen Aufschub. Mein Mann
-wird am 3. Februar morgens hingerichtet. Haben Sie erbarmen
+wird am 3. Februar morgens hingerichtet. Haben Sie Erbarmen
 mit mir und meinem Elend. Ich bin soeben mit
 dem Nachtzuge von Bombay eingetroffen. —
 
@@ -464,7 +464,7 @@ Wir standen auf. Harald ging Frau Trimsay entgegen.
 
 »Ich bin Harald Harst,« sagte er und verbeugte sich. Ich
 merkte, daß er jede Bewegung der Frau belauerte. Seine
-rechte Hand steckte zwanglos in der rechten Jackentasche. Aber
+rechte Hand steckte zwanglos in der rechten Jackentasche. Aber —
 dort hatte er die Clement. Und sie war fraglos entsichert
 und der Finger am Abzug.
 
@@ -475,7 +475,7 @@ und Mr. Schraut vorstelle,« fügte Harst hinzu. »Wollen
 Sie bitte hier Platz nehmen, Mistreß Trimsay.«
 
 Dieser Sessel war derselbe, den Frau Bangsey vorhin
-gehabt hatte und stand etwas vom Tische entfernt nach
+innegehabt hatte und stand etwas vom Tische entfernt nach
 dem Fenster der Vorhalle zu.
 
 Die Dame nahm Platz und schlug den Schleier hoch. Wir
@@ -488,7 +488,7 @@ und lagen tief in den Höhlen. Dieses Antlitz war wie
 eine Maske des größten Herzeleids, das je einen Menschen
 treffen kann.
 
-Unsere Erstarrung wich. Selbst Harst hatte die Frau
+Unsere Erstarrung wich. Selbst Harst hatte die Frau ganz
 fassungslos und ebenso regungslos gemustert. Wir
 setzten uns nun.
 
@@ -556,7 +556,7 @@ Mich traf das wie ein Schlag. — Braune Schnürschuhe!
 Und der Mensch, der die Bogenschützin ermordet hatte, damit
 sie ihn nicht verraten konnte, sollte, wie Harald behauptet
 hatte, ebenfalls braune Schnürschuhe getragen und große Füße
-gehabt haben.
+gehabt haben. —
 
 Frau Trimsay kam schon zu sich. Erverlyn half ihr, daß
 sie sich aufrecht setzen konnte. Sie schaute sich verwirrt um,
@@ -576,7 +576,7 @@ Trimsay?« fragte Harald kühl.
 
 »Mit zwanzig Minuten Verspätung, Mr. Harst. Er
 sollte um 12 Uhr 10 Minuten hier sein, langte aber erst genau
-um ½ 1 an. Ich nahm sofort am Bahnhof ein Auto und
+um ½1 an. Ich nahm sofort am Bahnhof ein Auto und
 fuhr hierher.«
 
 »Haben Sie irgend etwas bei sich, das Sie als Mistreß
@@ -615,7 +615,7 @@ gab es mir jetzt.
 
 Das Empfehlungsschreiben lautete:
 
-> »Bombay, den 1.2.19..
+> »Bombay, den 1.2.19...
 
 > Verehrtester Mr. Harst, ich bitte Sie unter Berufung
 auf unsere alten Beziehungen, sich Mistreß Trimsays freundlichst
@@ -632,7 +632,7 @@ ob Trimsay wirklich der Mörder ist. Ich habe ihn noch
 wiederholt im Gefängnis besucht und gerade da den Eindruck
 gewonnen, der Mann müsse ein reines Gewissen haben. Die
 Hinrichtung ist nun auf übermorgen früh festgesetzt. Nach hiesigem
-Recht kann aber jeder Delinquent noch eine Frist von
+Recht kann aber jedem Delinquent noch eine Frist von
 acht Stunden gewährt werden, falls er nachweist, daß er noch
 wichtige Familienangelegenheiten zu ordnen hat. Ich würde
 meinen Einfluß gern geltend machen, diese acht Stunden Aufschub
@@ -675,7 +675,7 @@ Mr. Harst. Die Bangseys besitzen doch auch Plantagen. Sie
 hätten auf einer der Plantagen sein können —«
 
 »Danke. — Erverlyn, eine Bitte. Fahren Sie doch sofort
-mit dem Auto nach dem Bahnhof und versuchen Sie, das
+mit dem Auto nach dem Bahnhof und versuchen Sie, daß
 man uns einen Extrazug, Maschine und Salonwagen, nach
 Bombay stellt. Ich —«
 
@@ -683,7 +683,7 @@ Bombay stellt. Ich —«
 bin arm. Ich könnte —«
 
 »Dafür bin ich mehrfacher Millionär. — Also, Erverlyn,
-Maschine und Salonwagen. Es ist jetzt ¼ 3 morgens. Um
+Maschine und Salonwagen. Es ist jetzt ¼3 morgens. Um
 5 Uhr müßte der Zug bereit sein. Und depeschieren Sie auch
 Inspektor Greaper.«
 
@@ -722,7 +722,7 @@ Frau Trimsay geriet in die heftigste Erregung, als sie von
 diesem Tschirukoff zu sprechen begann.
 
 »Er ist ein Wucherer, ein Verbrecher gewesen,« rief sie.
-»Er hat Robert ausgeplündert. Untere hübsche Besitzung auf
+»Er hat Robert ausgeplündert. Unsere hübsche Besitzung auf
 dem Malabar Hill (Landzunge mit vielen Villen) hat er uns
 abgepreßt, bewohnte sie dann selbst. Dort wurde er auch am
 15\. Dezember vorigen Jahres tot aufgefunden.«
@@ -733,7 +733,7 @@ abgepreßt, bewohnte sie dann selbst. Dort wurde er auch am
 überlief ein Zittern. »Nicht im Hause, in einem offenen
 Pavillon, der auf einem Felsblock erbaut ist. Als wir die
 Besitzung vor sechs Jahren von einem reichen Inder kauften,
-hatte dieser den Pavillon eben erst dort erbauen lassen. Man
+hatte dieser den Pavillon eben erst dort errichten lassen. Man
 hat von da eine wundervolle Aussicht über die Back Bay nach
 Süden zu.«
 
@@ -804,6 +804,7 @@ sich runde, rote Flecke; ihr Atem flog.
 
 <@pagebreak/>
 »Mein Gott,« hörte ich Frau Molly neben mir flüstern.
+
 Auch mir ging wieder ein Eisesschauer über den Leib.
 Ich glaubte, Frau Trimsay würde jeden Moment ohnmächtig
 umsinken.
@@ -827,7 +828,7 @@ die Wangenmuskeln spannten sich so, daß die Mundpartie
 ganz verzerrt erschien.
 
 Und in derselben Weise, in kurzen Rucken, drehte sich der
-Kopf nun voll dem Fenster und dem Monde zu. —
+Kopf nun voll dem Fenster und dem Monde zu.
 
 Harald winkte Frau Molly und mir, legte den Zeigefinger
 auf die Lippen. Dann stand er auf. —
@@ -842,7 +843,7 @@ zu sehen war. Diese weißen Augen wirkten grauenvoll.
 
 Harald nahm einen der Sessel und stellte ihn dicht hinter
 Frau Trimsay. Ganz sanft drückte er sie nun auf den Sitz
-hinab, sprach dabei befehlend in das linke Ohr:
+hinab, sprach ihr dabei befehlend in das linke Ohr:
 
 »Setzen Sie sich!«
 
@@ -951,7 +952,7 @@ ihn irgendwie in den Pavillon und stach ihn nieder. In der
 Bestürzung über ihre Tat mag sie den Dolch dann in der
 zweiten tödlichen Wunde steckengelassen haben. Sie stürmte
 davon — und ahnte nicht, daß ihr Mann ihr nachgeschlichen
-war, daß er nun von den beiden Dienern gesehen, wurde —«
+war, daß er nun von den beiden Dienern gesehen wurde —«
 
 Er rauchte abermals ein paar Züge.
 
@@ -992,7 +993,7 @@ saßen Frau Molly, Frau Trimsay, Erverlyn und Harald
 um den Tisch herum, und Erverlyn erzählte gerade, wie scheußlich
 bockbeinig die Bahnbeamten gewesen seien; sie hätten zunächst
 von einem Extrazuge nichts wissen wollen; dann hätte
-er aber erklärt, worum es sich handele um ein Menschenleben!
+er aber erklärt, worum es sich handele: um ein Menschenleben!
 Und da wäre diese Bureaukratenbande doch weich geworden. —
 Er erwähnte schließlich noch, daß er einen alten Bekannten auf
 dem Bahnhof getroffen habe, einen Lord Ralling. Mit dem
@@ -1080,7 +1081,7 @@ menschlichen Siedlungen — wo sie eben nicht beobachtet werden
 auf geringe Entfernung nähert. Dort können sie das
 Auto halten lassen, einer von ihnen — es müssen ja wohl
 zwei, »er« und der Chauffeur sein — steigt aus — und so
-weiter. Wenn wir nun bei diesem neuen Attentat vielleicht
+weiter. Wenn wir nun bei diesem neuen Attentat vielleicht auch
 nicht das Leben verlieren, so verlieren wir doch immer
 Zeit! Wir kommen vielleicht zu spät nach Bombay, Robert
 Trimsay wird gehängt und — wahrscheinlich dürfte Frau
@@ -1089,7 +1090,7 @@ Evelyn darüber wahnsinnig werden.«
 Ich hatte mit aller Aufmerksamkeit zugehört. Mir leuchtete
 das durchaus ein.
 
-»Nördlich des Eisenbahnknotenpunktes Hubli haben wir
+»Nördlich des Eisenbahnknotenpunktes Hubli haben wir nichts
 mehr zu befürchten,« fügte Harald hinzu. »Die »Gefahrstellen«
 liegen zwischen dem Städtchen Harikur und Hubli.
 Es sind drei. Ich habe den Lokomotivführer denn auch durch
@@ -1124,10 +1125,10 @@ Schienen wenigstens so weit zu befestigen, daß wir langsam
 über die Stelle hinwegfahren könnten.
 
 Ringsum lag undurchdringlicher Dschungel. Der Bahndamm
-war etwa 1 ½ Meter hoch aufgeschüttet. In dem
+war etwa 1½ Meter hoch aufgeschüttet. In dem
 Dickicht glänzten überall Sumpflachen.
 
-»Geben wir erst mal nach der Straße hinüber,« meinte
+»Gehen wir erst mal nach der Straße hinüber,« meinte
 Harald. »Sie soll hier nur etwa fünfhundert Meter nach
 Osten zu sich befinden. Vielleicht stelle ich fest, daß doch wirklich
 ein Rennauto mit neuem linken Hinterreifen gehalten
@@ -1135,7 +1136,7 @@ hat.«
 
 Wir drangen in den Dschungel ein. Wir brauchten eine
 halbe Stunde, bevor wir die Straße erreichten. Harald fand,
-was er finden wollte: eine frische Autospur. Auch eine Stelle
+was er finden wollte: eine frische Autospur. Auch eine Stelle,
 wo das Auto einem umgestürzten Baume ausgebogen war.
 Hier trat die Riffelung des einen Reifens sehr deutlich
 hervor.
@@ -1175,7 +1176,7 @@ Sie selbst?
 Harald schaute mich an.
 
 »Wohin mögen sie sie verschleppt haben?« flüsterte er
-ganz heiser, »Oh — diese Schurken! Vier Menschen niederzuknallen!«
+ganz heiser. »Oh — diese Schurken! Vier Menschen niederzuknallen!«
 
 Wir suchten. Im Salon dann — und wir fuhren entsetzt
 herum — unter dem einen Sofa her plötzlich ein Anruf.
@@ -1375,7 +1376,7 @@ Harald blickte zu mir auf und nickte. »Ganz wie ich’s mir
 gedacht habe. Sie hat den Dolch in der Eile wohl fallen
 lassen. Und der andere stieß ihn dem Wucherer ins Herz.«
 
-»Weiß Ihr Gatte, daß Sie ihn ermorden wollten?«
+»Weiß Ihr Gatte, daß Sie Tschurikoff ermorden wollten?«
 fragte Harst wieder.
 
 »Ja.«
@@ -1515,7 +1516,7 @@ linken Hinterreifen. »Ich bin überzeugt, Greaper, diese beiden
 Attentäter sind in Bombay zu Hause. Und einer von ihnen
 ist der Mörder.« —
 
-Auch die Perserin, die Bogenschützin hatte er jetzt erwähnt.
+Auch die Perserin, die Bogenschützin, hatte er jetzt erwähnt.
 Greapers Stirn legte sich in Falten. Er sann angestrengt
 nach.
 
@@ -1523,7 +1524,7 @@ nach.
 Olympia in Bombay trat vor einer Woche noch eine persische
 Akrobatentruppe auf. Unter diesen befand sich auch eine
 Bogenschützin, ein junges, hübsches Mädchen. Sie schoß famos.
-Ihre Kunstfertigkeit war wirklich staunenderregend. Man
+Ihre Kunstfertigkeit war wirklich staunenerregend. Man
 munkelte damals in Bombay, daß Lord Edward Ralling, ein
 Lebemann mit etwas fragwürdigem Ruf, mit der Perserin
 ein wenig flirte —«
@@ -1649,6 +1650,6 @@ sie frei. —
 Wie und wo Harald Lord Edward Ralling fing, erzähle
 ich in
 
-__Die Brahma-Statue__
+__Die Brahma-Statue.__
 
 

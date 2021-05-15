@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">f8740248-a5ec-11eb-b52b-0326a903ec1d</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Eine Bärenjagd in Kaschmir</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">63</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Eine Bärenjagd in Kaschmir.
+
+Vor dem Atlantic-Hotel im Europäerviertel der berühmten, uralten indischen Stadt Lahore hielt ein bestaubtes, großes Reiseauto.
+
+Der Kraftwagen war von einer schlanken Frau in hellem Staubmantel gelenkt worden. Sie war sofort ausgestiegen und hatte den beiden hinten im Wagen sitzenden Personen zugerufen:
+
+»Wartet! Ich frage nur den Hoteldirektor, ob Master Harst noch im Atlantic wohnt.«
+
+Sie verschwand in der Glasvorhalle des prachtvollen Gebäudes, nahm die Autobrille ab und enthüllte so ein schmales, feines Gesicht mit großen, grauen Augen.
+
+Der Hoteldirektor eilte schon herbei.
+
+»Ich bin Lady Glarnstone,« sagte die Dame kurz. »Ist Master Harst noch hier? Ich meine den deutschen Liebhaberdetektiv –«
+
+»Bedauere, Mylady,« dienerte der elegante Direktor. »Mr. Harst ist vor zwei Stunden abgereist.«
+
+Für zwei Millionen Perlen.
+
+Wir waren nach zwölftägiger Reise am 8. September in Berlin Schmargendorf, Blücherstraße 10, wohlbehalten eingetroffen, waren von Haralds Mutter mit Freudentränen begrüßt worden und widmeten uns der alten Dame bis neun Uhr abends. Dann meldete die alte Köchin uns den Geheimrat von Loschmer, einen der reichsten Großindustriellen Deutschlands.
+
+In Haralds Arbeitszimmer lernten wir den weltbekannten Mann nun persönlich kennen.
+
+Der Geheimrat erzählte uns folgendes, was uns im übrigen nicht neu war, da wir es unterwegs schon in allen Zeitungen gefunden hatten. – Ich will den Tatbestand hier ganz kurz wiedergeben. –
+
+Loschmer hatte vor zwei Jahren im Alter von sechsundvierzig die einzige Tochter des englischen Arztes Sir Baberfley, Miß Honoria Baberfley, eine ebenso sportliebende wie liebreizende junge Dame Ende der Zwanziger, geheiratet. Diese Ehe war seinerseits aus Neigung geschlossen worden.
+
+Er gab uns gegenüber zu, daß Honoria Baberfley ihm wohl mehr aus Vernunftgründen ihre Hand geschenkt hatte; er betonte jedoch, daß die Ehe bisher sehr glücklich gewesen.
+
+Als Brautgeschenk hatte er ihr am Hochzeitstage eine Kette von ausgesucht großen Perlen im Werte von zwei Millionen Mark geschenkt. Die Kette bestand aus 48 Perlen und einem mit Brillanten besetzten goldenen, sehr altertümlichen Schloß.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (063) Eine Bärenjagd in Kaschmir.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1922</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

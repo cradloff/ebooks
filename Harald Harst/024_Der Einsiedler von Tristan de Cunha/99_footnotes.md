@@ -1,4 +1,4 @@
-<h2>Anmerkungen</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "02_James Palperlons Vermächtnis.md">Helmuth Karl Bernhard von
 Moltke, eigentlich Helmuth von Moltke, ab 1870 Graf von Moltke, genannt (der

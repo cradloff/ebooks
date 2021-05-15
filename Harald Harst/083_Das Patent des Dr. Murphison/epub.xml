@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">07e3b636-a9cd-11eb-8797-27497c0ca895</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Patent des Dr. Murphison</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">83</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Patent des Dr. Murphison.
+
+Zu den gefährlichsten sogenannten Gentleman-Verbrechern gehörte ohne Zweifel jener indische Arzt Doktor Albert Greebrac, dessen Entlarvung und Verhaftung meinem Freunde Harald Harst in Agra in Indien gelungen war.
+
+Wenn ein Mann von den vielseitigen Fähigkeiten eines Greebrac die Bahn des Verbrechens einschlägt, erwächst denen, die sich berufen fühlen, derart moralisch Verirrte im Interesse der Allgemeinheit schleunigst unschädlich zu machen, eine um so schwierigere Aufgabe, als Leute von so überragender Intelligenz stets auf alle Möglichkeiten vorbereitet sind, also auch für den Fall einer Verhaftung.
+
+Daß Albert Greebrac – seine nicht minder gefährliche Genossin Adelaide spielt bei unserem Abenteuer mit Doktor Murphison nur eine ganz nebensächliche Rolle – aus dem Polizeigefängnis in Agra sofort wieder entweichen konnte, war nicht meines Freundes Schuld.
+
+Der Kamelzüchter von Tallamara.
+
+Szene: Unser Wohnsalon im Hotel Imperial in der uralten indischen Stadt Dehli.
+
+Zeit: Vormittags neun Uhr. Draußen klarer Himmel, Sonnenglut, Pilgertreiben, da Dehli für die Hindus eine der ersehntesten Wallfahrtstätten ist.
+
+Wir, Harald Harst und ich, nebeneinander auf dem Bambussofa beim Frühstück.
+
+Harst (In Fortsetzung eines Gesprächs über das Verbrechergenie Doktor Albert Greebrac): »Ich bin wirklich gespannt, was Greebrac jetzt unternehmen wird, um uns in seine Gewalt zu bekommen, nachdem die Sache mit dem Verbrennungstode ihm mißglückt ist.«
+
+Ich (Max Schraut, Freund und Privatsekretär des »großen« Harst): »Wichtiger erscheint mir die Frage, wie wir dem armen Murphison die Patentzeichnungen wieder beschaffen, die für ihn einen Wert von zehn Millionen haben.«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (083) Das Patent des Dr. Murphison.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1923</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

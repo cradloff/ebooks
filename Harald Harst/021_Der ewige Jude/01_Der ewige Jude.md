@@ -3,11 +3,11 @@
 Der ewige Jude
 ==============
 
-Wir saßen in unserem bescheiden eingerichteten aber sehr
+Wir saßen in unserem bescheiden eingerichteten, aber sehr
 sauberen Zimmer des Gasthofs Zur goldenen Kugel in Hamburg.
 
 Harald Harst, hier im Fremdenbuch Heinrich Höppner,
-Kaufmann, Berlin, hatte abends gegen ¾ 7 von der Post seine
+Kaufmann, Berlin, hatte abends gegen ¾7 von der Post seine
 hierher nachbestellten Briefe abgeholt. Wir waren nun bereits
 fast drei Wochen von Hause fort, und das Paket Briefe
 war daher recht ansehnlich. Er zerriß die meisten Briefe
@@ -15,7 +15,7 @@ sofort, legte nur drei beiseite.
 
 Dann sah er nach der Uhr, meinte:
 
-»Wir haben noch 1 ½ Stunden Zeit. Erst gegen 12 Uhr
+»Wir haben noch 1½ Stunden Zeit. Erst gegen 12 Uhr
 nachts dürfte die dritte Prophezeiung eintreffen.«
 
 Ich hatte in meiner harten Sofaecke bereits halb geschlafen.
@@ -40,7 +40,7 @@ geworden, deren sich ein gebildeter Mensch eigentlich
 schämen müßte. — Ich bin seit Juni dieses Jahres der letzte
 Träger des mit der Geschichte Hamburgs eng verknüpften Namens
 Partorius. Im Juni starb mein älterer Bruder, der
-Inhaber der Reederei Jakob Partorius ganz unerwartet. Ich,
+Inhaber der Reederei Jakob Partorius, ganz unerwartet. Ich,
 seit Jugend an mehr der Kunst als dem ernsten Kaufmannsberuf
 <@pagebreak/>
 zugeneigt, habe seitdem unser Jahrhunderte altes Geschäft
@@ -89,14 +89,14 @@ war meine Seele in ständig wachsender Unruhe. Diese scheuchte
 mich auch nach Hamburg zurück. Am 25. August traf ich hier
 wieder ein.
 
-> Und — gestern am 1. September am Sterbetage meiner
-Mutter ereignete sich dann so — Unheimliches, daß ich heute
+> Und — gestern am 1. September, am Sterbetage meiner
+Mutter, ereignete sich dann so — Unheimliches, daß ich heute
 <@pagebreak/>
 am 2. früh mich sofort an den Schreibtisch gesetzt habe, um
-Ihnen, Herr Harst, meinen Fall zu schildern. Denn — mag
+Ihnen, Herr Harst, meinen »Fall« zu schildern. Denn — mag
 das, was ich gestern abend erlebte, auch noch so rätselhaft
 sein, ich wittere dahinter doch etwas, das in Ihr Fach schlägt,
-wenn ich mich. so ausdrücken darf.
+wenn ich mich so ausdrücken darf.
 
 > Ich bewohne unser altes Patrizierhaus, das ja für Hamburg
 eine Sehenswürdigkeit ist. Um halb zwölf nachts kam
@@ -141,6 +141,7 @@ spielten, der sich eben aus Gehörs- und Geruchstäuschung zusammensetzte.
 
 > Ich wollte kehrtmachen, wollte mein Arbeitszimmer betreten,
 durch ein Glas Wein den Rest leisen Grauens hinwegspülen.
+
 <@pagebreak/>
 
 > Wollte! — Wie gebannt verharrten meine Füße an derselben
@@ -151,15 +152,15 @@ Stelle.
 > »Johannes — lütt Hann!«
 
 > Jetzt aber wirkte sie anders; jetzt packte mich eine sinnlose
-Wut gegen mich selbst, gegen meine empfindlichen überreizten
+Wut gegen mich selbst, gegen meine empfindlichen, überreizten
 Nerven.
 
 > Unwillkürlich packte meine Rechte den Türdrücker. Und
-— die Tür war unverschlossen, flog auf — ich selbst aber
+— die Tür war unverschlossen, flog auf, — ich selbst aber
 zurück mit abwehrend erhobenen Armen.
 
 > Denn — umspielt vom Flackerschein von acht dicken
-Wachskerzen lag dort mitten im Zimmer meine Mutter
+Wachskerzen, lag dort mitten im Zimmer meine Mutter
 im Sarge, genau so bescheiden aufgebahrt, wie es ihr Wunsch
 einst gewesen, wie ich die geliebte Tote selbst gesehen hatte!
 
@@ -188,11 +189,11 @@ Erlebnis ja nur ein Hirngespinst gewesen.
 
 > Wirklich ein Hirngespinst?!
 
-> Ich stand und meine Nase spürte wieder den Geruch
+> Ich stand — und meine Nase spürte wieder den Geruch
 welkender Blumen, duftreichen Tannengrüns.
 
 > Da erwachten die Zweifel; da — wartete ich auf das »Johannes
-— lütt Hann!«, fühlte wie ich mir selbst nicht mehr
+— lütt Hann!«, fühlte, wie ich mir selbst nicht mehr
 traute, kam rasch zu einem Entschluß, ging hinunter ins Erdgeschoß,
 weckte meinen alten Jochem, der bereits mit dem
 Hause Partorius goldene Hochzeit gefeiert hat und der in
@@ -213,9 +214,9 @@ schwermütiges Lied.
 
 > Die Tür ging auf.
 
-> Finsternis dahinter.
+> Finsternis dahinter. —
 
-> Jochem drehte das Licht an. — Nichts von einem Sarg
+> Jochem drehte das Licht an. — Nichts von einem Sarg;
 nichts; alles wie sonst; geschlossene Vorhänge, dunkle, ernste
 Möbel; ein Bett mit Baldachin —
 
@@ -247,7 +248,7 @@ der noch im Zimmer schwebte, spricht dagegen.
 an Sie, den Mann, der schon anderen, noch seltsameren Geheimnissen
 auf die Spur gekommen ist.
 
-> Mit vorzüglicher Hochachtung bin ich Ihr ergebenster
+> Mit vorzüglichster Hochachtung bin ich Ihr ergebenster
 
 > Johannes Partorius.
 
@@ -256,8 +257,8 @@ auf die Spur gekommen ist.
 Der Brief war noch nicht zu Ende. Trotzdem ließ ich ihn
 jetzt in den Schoß sinken, schaute Harst an, lächelte ein wenig
 erhaben.
-<@pagebreak/>
 
+<@pagebreak/>
 Er nickte mir zu. »Lieber Alter — nicht zu stolz sein
 auf Deine Aufgeklärtheit! Nicht denken, dieser lütt Hann
 sei übergeschnappt oder erlaube sich einen Scherz mit mir! —
@@ -286,19 +287,19 @@ füllte, blieb ich selbstsicher und sah dem vielleicht Kommenden
 kühl entgegen. Das Abenddunkel scheuchte mich aus dem
 Hause meiner Väter. Ich war im Theater. Es gab Hauptmanns
 »Hanneles Himmelfahrt«; ich sah im letzten Akt die
-Himmelsleiter, die dem sterbenden Kinde im Traum erscheint:
+Himmelsleiter, die dem sterbenden Kinde im Traum erscheint;
 ich verließ das Theater tief ergriffen von der Tragik dieses
 jungen Menschenschicksals.
 
 > Der Mond schien. Ich wanderte an stillen Elbkanälen
-dahin, vorüber an düsteren Schuten, flachen Fahrzeugen auf
+dahin, vorüber an düsteren Schuten, flachen Fahrzeugen, auf
 denen Steinkohlenberge matt glänzten. Um mich her wurde
 es immer stiller.
 
-> Aus einer engen Gasse schlug nur das leise, wimmernde
+> Aus einer engen Gasse schlug mir das leise, wimmernde
 Weinen eines Kindes entgegen. Ich trat näher. In einem
 Torwegwinkel hockte ein Etwas, eingehüllt in eine schmierige
-Decke; ein blasses Gesicht erkannte ich: und mein Mitleid
+Decke; ein blasses Gesicht erkannte ich; und mein Mitleid
 regte sich.
 
 > Ich fragte das kleine, blonde Mädchen aus. Ich erhielt
@@ -313,7 +314,7 @@ sollte es fortan gut haben.
 <@pagebreak/>
 Speisekammer unten vorfand. Der alte Jochem hörte mich, öffnete
 seine Tür. Ich log: ich selbst hätte noch Hunger. — Es war
-halb zwölf als ich dann das Kind in meiner Bibliothek auf
+halb zwölf, als ich dann das Kind in meiner Bibliothek auf
 den Diwan bettete.
 
 > Ich wußte nun einen Menschen in meiner Nähe. Das
@@ -326,7 +327,7 @@ körperlicher Unvollkommenheit.
 
 > Dann schlug die Standuhr im Flur Mitternacht.
 
-> Ich — erwachte — wenn man eben das Zurückgleiten
+> Ich — erwachte, — wenn man eben das Zurückgleiten
 in den Zustand gewöhnlichen Menschseins so nennen will; ich
 blickte umher im Zimmer; erinnerte mich an meinen Schützling
 und —
@@ -345,7 +346,7 @@ die Tür der Bibliothek, drehte das Licht an.
 > Der Diwan war leer.
 
 > Und auf dem Diwan lag auch noch aufgeschlagen die
-Übersetzung der Schriften des jüdischen Gelehrten Jeruchal,
+Übersetzung der Schriften des jüdischen Gelehrten Jeruchai,
 in der ich nachmittags gelesen und die ich erst vorhin auf den
 Tisch gelegt hatte, als ich das Kind auf dem Diwan das Lager
 herrichtete.
@@ -364,6 +365,7 @@ Haustür verschlossen war. Sie war verschlossen.
 > Eine volle Stunde verwendete ich auf dieses Suchen.
 Dann prüfte ich in meinen Zimmern nochmals alles genau;
 denn sah ich ein:
+
 <@pagebreak/>
 
 > Ich selbst hatte die Speisen genossen! Nur ich selbst konnte
@@ -371,7 +373,11 @@ es getan haben!
 
 > Und dann kam das Entscheidende, das Wichtigste:
 
+<<<<<<< HEAD
+> Ich wollte nachsehen, ob das Buch, die Uebersetzung Jeruchai’s
+=======
 > Ich wollte nachsehen, ob das Buch, die Übersetzung Jeruchal’s
+>>>>>>> master
 genau an der Stelle aufgeschlagen war, wo ich zu
 lesen aufgehört hatte.
 
@@ -396,10 +402,10 @@ Slami Zchumla weisen, den man ja in Lissabon auch unter
 dem Namen »der ewige Jude« kennt? Sollte dieser steinalte,
 ehrwürdige Mann, den verbürgten Nachrichten zufolge schon
 die Königin Viktoria von England im Jahre 1860, also vor
-etwa fünfzig Jahren aufgesucht hatte, um sich von ihm die
+etwa fünfzig Jahren, aufgesucht hatte, um sich von ihm die
 Zukunft voraussagen zu lassen, vielleicht der einzige sein, der
 das über meinem Haupte in irgend einer Gestalt schwebende
-Verhängnis abwenden konnte?
+Verhängnis abwenden könnte?
 
 > Diese und ähnliche Gedanken quälen mich noch jetzt, wo
 ich dies am Morgen des 2. Oktober niederschreibe. —
@@ -425,13 +431,13 @@ Ihr im voraus dankbarer
 So schloß der Brief.
 
 Ich gebe zu: Noch nie hatte mir aus einem Schreiben ein
-so geheimnisvoller Hauch entgegengeweht, wie aus den Zeilen
+so geheimnisvoller Hauch entgegengeweht wie aus den Zeilen
 des fraglos durch seine mystischen Studien bis zu einer
 gewissen Grenze nicht mehr ganz normalen Hamburger Patriziersohnes.
 
 Geheimnisvoll — ja, und auch wieder ein seltsamer Reiz
-lag in dieser offenen Beichte! Ein Reiz der bei mir hier fast
-stärker war, als gegenüber irgend einem rätselhaften Verbrechen.
+lag in dieser offenen Beichte! Ein Reiz, der bei mir hier fast
+stärker war als gegenüber irgend einem rätselhaften Verbrechen.
 
 Dies sprach ich jetzt auch Harst gegenüber mit denselben
 Worten aus.
@@ -442,7 +448,7 @@ mir den Brief ab und erwiderte, indem er aufstand:
 »Genau so ergeht es mir, mein Alter, genau so. Ich kann
 Dir gar nicht sagen, wie dankbar ich dem Zufall bin, der uns
 hier jetzt diesen Brief mit einer Verspätung von über zwei
-Wochen in die Hände gespielt hat — jetzt wo wir doch gerade
+Wochen in die Hände gespielt hat — jetzt, wo wir doch gerade
 im Begriff sind, Herrn Slami Zchumlas Alter ein wenig nachzuprüfen!
 Der Brief hat bei uns daheim in Berlin-Schmargendorf
 in der Blücherstraße zum Glück nicht zu lange gelagert.
@@ -495,7 +501,7 @@ Schnappen eines Riegels.
 
 Ein alter Mann mit weißem Bart und ausrasiertem
 Kinn stand im Schlafrock vor uns. Das heißt: wir sahen nur
-einen Streifen von ihm. Er hatte die Sicherheitskette so gehabt,
+einen Streifen von ihm. Er hatte die Sicherheitskette so gehakt,
 daß die Tür nur drei Handbreit aufging.
 
 »Sie wünschen?« fragte er mit verschlafener Stimme.
@@ -524,7 +530,7 @@ Harst überlegte, fragte dann weiter:
 erwähnt?«
 
 »Ja — wiederholt. Er wartete auf eine Nachricht von
-diesem Herrn der ein bekannter Detektiv ist.«
+diesem Herrn, der ein bekannter Detektiv ist.«
 
 Harst erklärte kurz: »Ich bin Harald Harst.«
 
@@ -560,7 +566,7 @@ Hause standen, als ob am dritten Fenster von links im zweiten
 Stock die Vorhänge sich öffneten und jemand auf die
 Straße hinabspähte.«
 
-»Unmöglich, Herr Harst unmöglich!« meinte der alte
+»Unmöglich, Herr Harst, unmöglich!« meinte der alte
 Diener eifrig.
 
 »Ich täusche mich in solchen Dingen nie, Jochem! Alarmvorrichtungen
@@ -577,7 +583,7 @@ Jochem schritt voran. Leise stiegen wir die Treppen
 empor. Dann führte der Alte uns vor eine kleine Tür. Den
 Schlüssel dazu hatte er bei sich; schloß auf, öffnete, flüsterte:
 »Wir kommen von hier ganz unbemerkt in die Vorderzimmer.
-Bitte treten die Herren nur ein. Der Lichtschalter liegt
+Bitte, treten die Herren nur ein. Der Lichtschalter liegt
 linker Hand.«
 
 Bisher hatte nur Jochems Taschenlampe uns geleuchtet.
@@ -597,7 +603,7 @@ Lastenaufzugs (denn ein solcher war es, wie mir ein einziger
 Blick gezeigt hatte) eine große Flasche herab, zerbrach; ihr
 Inhalt floß über die rissigen Dielen; und — der widerlich
 süße Geruch von Chloroform verbreitete sich im Moment in
-dem großen geschlossenen Holzkasten!
+dem großen, geschlossenen Holzkasten!
 
 »Chloroform!« rief ich entsetzt und schaute Harst verstört
 an. Sein Gesicht lag im Schatten. Aber seiner Stimme
@@ -607,7 +613,7 @@ hörte ich an, wie der Ausdruck dieses Gesichts sein mußte:
 rauher, vibrierender Stimme. »Ich fürchte, meine Laufbahn
 als Detektiv ist beendet. Hier hilft kein Trick. Der
 Unterteil des Aufzugs ist Eisen. Da — höre — dicke Platten,
-zu dick für —« —
+zu dick für —«
 
 Ein Schwindel packte mich. Die nächsten Worte entgingen
 mir.
@@ -615,14 +621,14 @@ mir.
 Nochmals raffte ich mich auf; da — Harst umarmte mich.
 
 »Leb wohl, mein Alter! Du warst mir — ein — treuer
-Freund, ein — uneigennütziger — Kame\—rad! —
+Freund, ein — un—eigen—nütziger — Kame—rad! —
 Leb’—«
 
 Ich hatte den Atem angehalten, um die Chloroformdünste
 nicht einzusaugen. Jetzt sank Harst langsam in die
 Knie; seine Arme glitten an mir herab. Ich mußte Atem
-holen — ich tat’s und ein Wirbel riß meinen Körper in rasender
-Umdrehung in eine ungeheuere Tiefe.
+holen — ich tat’s, und ein Wirbel riß meinen Körper in rasender
+Umdrehung in eine ungeheure Tiefe.
 
 * * *
 
@@ -638,7 +644,7 @@ mich her laut wurden, wenn auch in Pausen. Mein Hirn
 nahm sie auf als etwas, das mich nichts anging.
 
 Das dumpfe Rattern von Wagenrädern wurde abgelöst
-von dem kurzen Aufheulen von Dampfersirenen; polternde
+von dem kurzen Aufheulen von Dampfersirenen; polternde,
 hallende Schritte folgten; Flüstern wieder —
 
 Stille abermals — endlose Stille.
@@ -647,13 +653,18 @@ Erst nachher erfuhr ich, daß ich volle dreizehn Stunden bewußtlos
 gewesen.
 
 Nachher — als Harst uns doch gerettet hatte! —
-<@pagebreak/>
 
+<@pagebreak/>
 Ich war tot. Und die endlose Stille ging über in eine
 Anzahl von Geräuschen, die ich vielleicht ihrer Bedeutung nach
 hätte ergründen können, wenn ich fähig gewesen zum Denken,
+<<<<<<< HEAD
+Ueberlegen, Kombinieren. So aber empfing mein Ohr die
+Töne, leitete sie lediglich in die Gehirnzellen des Gehörapparats.
+=======
 Überlegen, Kombieren. So aber empfing mein Ohr die
 Töne, leitete sie lediglich in die Gehirnzellen des Gehörapperats.
+>>>>>>> master
 Hier aber versagte die Weiterleitung.
 
 Dann ganz deutlich eine Stimme:
@@ -744,6 +755,7 @@ ich schon besorgt.«
 
 Er setzte sich, drückte Tiessen die Hand. — Ich begann
 meine Toilette. — Und Harst sprach weiter:
+
 »Partorius ist nach Lissabon gefahren. Also zu Slami
 Zchumla. Ich wette: aus Angst vor dem Totengräber-Käfer.
 Bei Zchumla hofft er auf Rettung vor dem drohenden »Dritten«.
@@ -754,7 +766,7 @@ in eine nette Falle geraten! Ich gebe zu: ich war
 ganz ahnungslos! Erst als wir in den Aufzug hineingestoßen
 wurden, als es zu spät war, durchschaute ich das Ränkespiel.
 — Man muß dort im Hause mit unserem Kommen gerechnet
-haben. Der Kerl oben am Fenster des Museums, war die
+haben. Der Kerl oben am Fenster des Museums war die
 Wache. Der falsche Jochem machte seine Sache famos. Nun
 — ich habe die Polizei auf die Bewohner gehetzt. Zur Sicherheit
 hat man sie alle verhaftet: Köchin, Stubenmädchen, Kutscher
@@ -835,13 +847,13 @@ liegen lassen, wäre es für immer mit uns aus gewesen.« —
 
 Am nächsten Abend hatte das Ehepaar Howart und Dasy
 Hopkins in dem deutschen Fremdenheim der Frau Schumann
-in der Rua Augusta (Straße) Wohnung genommen. — Zwei
+in der Rua Augusta (Straße) Wohnung genommen, — zwei
 nette Zimmer im Hochparterre, die nach einer stillen Seitengasse
 hinauslagen. Harst war diese Pension von dem Kapitän
 unseres Dampfers empfohlen worden. Unsere Zimmer boten
 den Vorteil, daß wir durch die Fenster unbemerkt nachts ein\-
 und ausgehen konnten, ein großer Vorteil für Leute unseres
-Schlages. Frau Schumann war eine ältere, sehr liebenswürdige
+Schlages. — Frau Schumann war eine ältere, sehr liebenswürdige
 <@pagebreak/>
 Dame, die mit ihren beiden Töchtern das über 40
 Zimmer verfügende Haus verwaltete. Das Fremdenheim
@@ -849,7 +861,7 @@ war gut besetzt. Lissabons milde, wenn auch regnerische Winter
 sind berühmt und locken aus England viele Damen mit
 schwachen Lungen nach der portugiesischen Hauptstadt.
 
-Um ½ 10 Uhr abends wurde uns das Essen in unserem
+Um ½10 Uhr abends wurde uns das Essen in unserem
 Salon serviert. Fräulein Hedwig Schumann, eine Jungfrau
 von reichlich 35 Jahren, leistete uns Gesellschaft und zeigte
 sich sehr besorgt um mein Befinden. Daß wir Deutsche und
@@ -905,20 +917,20 @@ Master Hopkins-Harst gestattete sich jetzt zum Nachtisch
 eine Zigarette, blies Rauchringe, zuckte überlegen die Achseln
 und fragte, ob man denn so ohne weiteres den Seher besuchen
 dürfe und wo er wohne. »Ich möchte ihn mal fragen, ob die
-Pennsylvania-Aktien endlich wieder steigen werden.« fügte er
+Pennsylvania-Aktien endlich wieder steigen werden,« fügte er
 hinzu.
 
 Fräulein Schumann lachte. »Ich wette, Master Hopkins,
 — wenn Sie dem ehrwürdigen Greis gegenübersitzen, werden
 Sie nicht nach Börsengeschäften fragen! Jeder, der bei ihm
 war in seinem armseligen, baufälligen Hause aus der Maurenzeit
-— jedes Kind kennt es — merkte, daß der Seher für so
+— jedes Kind kennt es! — merkte, daß der Seher für so
 materielle Fragen zu — zu hoch über derlei Dingen steht; jeder
 hütete sich von selbst, ihn zu kränken. Das haben mir genug
 Fremde nachher erzählt, wenn sie bei ihm gewesen. Es
 geht eben ein ganz besonderes Etwas von diesem Manne aus,
 über den Sterben und Dahinwelken keine Macht haben. — Ob
-er jeden Besuches annimmt? Nein! Viele hat er, ohne sie
+er jeden Besucher annimmt? Nein! Viele hat er, ohne sie
 gesehen zu haben, zurückgewiesen, — scheinbar ohne Grund,
 — scheinbar! Es soll sich dann aber stets um albern\-freche
 Neugierige gehandelt haben. In den letzten Monaten erfolgten
@@ -938,7 +950,7 @@ Essen in die Vorhalle, von wo er es sich holt.«
 
 * * *
 
-Als wir ein halbe Stunde später wieder allein waren,
+Als wir eine halbe Stunde später wieder allein waren,
 rückte Harst seinen Korbsessel ganz dicht neben den meinen
 und flüsterte: »Jetzt wissen wir ganz genau Bescheid. Was
 Fräulein Schumann hier erzählte, war äußerst wertvoll. Wir
@@ -950,7 +962,7 @@ mein Alter!«
 
 Um 12 Uhr ging die Laterne vor unseren Fenstern aus.
 Dann — gingen <span class="g">wir</span> aus, gelangten ungesehen auf die
-Straße und schritten diese Seitengassse nach Osten zu entlang,
+Straße und schritten diese Seitengasse nach Osten zu entlang,
 fragten uns bis zum Kastell St. Jorge durch, passierten zahllose
 dunkle Gäßchen, fragten wieder und standen nun gegen
 ein Uhr vor dem maurischen Hause Slami Zchumlas in der
@@ -961,7 +973,7 @@ Führer gewesen.
 Dem Hause gegenüber lag eine von Unkraut überwucherte
 Ruine, von der nur noch ein Turmrest übrig war. Offenbar
 einst der Palast eines maurischen Großen. Dort fanden wir
-auf Mauertrümmern einen versteckten Sitz, saßen nun und,
+auf Mauertrümmern einen versteckten Sitz, saßen nun und
 schwiegen und — warteten. — Worauf? Ich wußte es nicht.
 
 Harst hatte nur gesagt: »Wir haben ja Zeit. Irgend
@@ -970,7 +982,7 @@ etwas wird sich schon ereignen.«
 Das Haus war dunkel; auch nicht der geringste Lichtschimmer
 hinter den Fenstern des Oberstocks, wo der Seher
 wohnen sollte. — Ich war müde, nickte ein; saß zurückgelehnt
-da und — fuhr plötzlich wieder aus dem Halbschlaf hoch: Der
+da und — fuhr plötzlich wieder aus dem Halbschlaf hoch. Der
 Platz neben mir war leer. Aber — da drüben in der finsteren
 Wölbung des Hauseingangs war jetzt für Sekunden ein
 weißer Streifen aufgezuckt: einer Taschenlampe dünner Lichtkegel!
@@ -1002,7 +1014,7 @@ fingen dort wütend zu bellen an, verschwanden aber bald.
 Gleich darauf löste sich eine Gestalt von einem der Bäume los,
 huschte auf mich zu: Harst!
 
-Ich rief ihn leise an. — »Komm’ zurück nach der Ruine!«
+Ich rief ihn leise an. — »Komm’ zurück nach der Ruine,«
 flüsterte er. »Hier ist’s nicht geheuer. Die verhungerten Köter
 machten zu viel Lärm.«
 
@@ -1016,7 +1028,7 @@ die Augen nicht mehr offen halten konnte.
 
 »Ja. Dieser Seher ist nämlich noch wach. Drei Fenster
 nach dem Hofe zu waren hell. Ich sah die Schatten zweier
-Männer. — Hm — mir fällt da soeben ein, man wird von
+Männer. — Hm — mir fällt da soeben ein: man wird von
 der sehr hohen Hofmauer leicht auf das Dach gelangen können.
 — Versuchen wir’s mal. Jetzt dürfte das Hundegebell vergessen
 sein, falls es wirklich Argwohn erregt hat.«
@@ -1032,7 +1044,7 @@ sich der Länge nach hin und leuchtete nach unten. Der Raum
 war eine mit Gerümpel angefüllte Kammer. Eine Leiter
 oder dergleichen fehlte. Harst turnte trotzdem hinab, baute
 <@pagebreak/>
-ein paar Kisten übereinander auf und erleichterte mir
+flink ein paar Kisten übereinander auf und erleichterte mir
 den Abstieg. Aus der Kammer ging eine Tür in eine Art Flur.
 Die Tür war von außen nur mit einem Holzriegel versehen,
 der unschwer herunterzudrücken war. Wir zogen die Schuhe
@@ -1065,10 +1077,10 @@ Dafür ward mir das gegeben, was Du erstrebst — mit
 Recht erstrebst! Nur wer so weit Herr über die zwecklose
 Masse seines Körpers wird, daß er sie nach seinem Willen
 sterben und sich wieder regen läßt, wer seine Seele frei macht
-von dem Gefängnis dieses vergänglichen Leids, wird ewig
+von dem Gefängnis dieses vergänglichen Leibs, wird ewig
 leben, wenn er selbst stürbe. Aber — er stirbt nur nach eigenem
 Wunsch und Willen — wie ich! Ich lebe noch, obgleich
-ich mehr denn zwei Jahrhunderte sah! Sterben konnte ich jede
+ich mehr denn zwei Jahrhunderte sah! Sterben könnte ich jede
 Minute — jede! Und doch würde ich, wollte ich der Erde —
 Lebewohl sagen, neben meinem Totenbett stehen und
 leben! — Wenn es Dir bisher nicht geglückt ist, das Doppelwesen
@@ -1078,12 +1090,12 @@ so waren meine beiden Warnungen aufzufassen: es gibt keinen
 Läuterungsprozeß, kein Erklimmen der Jakobsleiter, so
 <@pagebreak/>
 lange Du noch sagen kannst: ich hin reich! Sterben muß in
-Dir alles, was die Gedanken abzieht von dem hohem Ziel. —
+Dir alles, was die Gedanken abzieht von dem hohen Ziel. —
 Ich verheiße Dir: werde arm, und Du wirst der Reichsten einer
 sein!«
 
 Diese so seltsam monotone Stimme hauchte geradezu etwas
-Grausig—Geheimnisvolles aus. Mich überlief ein Frösteln.
+Grausig-Geheimnisvolles aus. Mich überlief ein Frösteln.
 
 Dann eine andere Stimme — und das konnte kein anderer
 als Johannes Partorius sein, der da sprach:
@@ -1098,9 +1110,9 @@ erwiderte der Seher langsam. »Ich kenne einen, dem ich vertraue.
 Gib ihm Vollmacht. Er wird alles regeln. Und —
 schweige, mein Sohn! Schweige, weshalb Du einen nach Hamburg
 sendest, der alles zu Gelde macht! Verführer würden
-sonst Dir ins Ohr flüstern: »Narr behalte was Du hast!«
+sonst Dir ins Ohr flüstern: »Narr — behalte, was Du hast!««
 
-»Gut — ich werde alles tun was Du verlangst.«
+»Gut — ich werde alles tun, was Du verlangst.«
 
 Harst zog mich jetzt nach rückwärts. Lautlos schlichen
 wir davon, kehrten auf demselben Wege auf die Gasse zurück,
@@ -1133,25 +1145,25 @@ wird?!«
 »Es wird ziehen, verlaß Dich drauf.«
 
 Den versiegelten Brief sollte der Hausdiener um elf Uhr
-zu Slami Zchumla tragen und auf Antwort für Master Howard
+zu Slami Zchumla tragen und auf Antwort für Master Howart
 Hopkins warten.
 
 Wir benutzten die Zwischenzeit zu einer Fahrt durch die
 Stadt, nahmen auch ein Boot und ließen uns so weit nach
 dem linken Ufer des Tajo hinüberrudern, daß wir das Panorama
 von Lissabon vor uns hatten. Die Stadt wirkt sehr
-malerisch, wie sie sich so terassenartig vom Flußufer aufwärts
+malerisch, wie sie sich so terrassenartig vom Flußufer aufwärts
 zieht. Mir fielen die zahlreichen Kirchtürme auf, aber
 auch die häufigen Trümmerstätten in den Häuserblocks. Harst
 erinnerte mich daran, daß Lissabon zweimal Erdbebenkatastrophen
 von unerhörter Heftigkeit durchgemacht hatte. Die
-Trümmerstätten seien Plätze, die bei einem neuen Erdboden
+Trümmerstätten seien Plätze, die bei einem neuen Erdbeben
 wieder am meisten gefährdet sein würden, deshalb lasse man
 sie unbebaut. — Das Hafenbild von Lissabon war durchaus
 international. Auf den Kais arbeiteten so zahlreiche Schwarze,
 daß man sich nach Afrika versetzt glaubte.
 
-Um ½ 12 waren wir wieder im Pensionat Schuman. Der
+Um ½12 waren wir wieder im Pensionat Schuman. Der
 Hausdiener teilte Master Hopkins mit, der Prophet hätte
 erst gezögert, dann aber doch erklärt, er wolle den Master
 empfangen.
@@ -1163,7 +1175,7 @@ betrat, die Treppe emporschritt und einen eisernen Türklopfer
 oben gegen eine nachher eingebaute, moderne Flurtür mit
 kleinen Scheiben fallen ließ.
 
-Nach ein Paar Minuten eine Stimme hinter der Tür, die
+Nach ein paar Minuten eine Stimme hinter der Tür, die
 etwas in portugiesischer Sprache fragte.
 
 Dasy Hopkins bedauerte auf Englisch, das Portugiesische
@@ -1179,8 +1191,8 @@ einen Leuchter mit drei brennenden Kerzen haltend, vor mir.
 Es war ein gebeugter Greis mit schneeweißem Bart,
 schneeweißen Schläfenlocken, schwarzem Käppchen, mit etwas
 schmierigem Kaftan und Sandalen an den Füßen.
-<@pagebreak/>
 
+<@pagebreak/>
 Das Gesicht von durchsichtiger Blässe zeigte wirklich so
 durchgeistigte Züge, so große, dunkle Schwärmeraugen, daß
 ich durchaus verstand, wenn die Leute hier diesen Alten ehrwürdig
@@ -1215,7 +1227,7 @@ ein. Ich vergaß fast, daß ich einen Schwindler, einen Genossen
 Palperlons vor mir hatte.
 
 Ich trug meine Bitte vor. Meine Eltern seien beide
-plötzlich gestorben, so plötzlich, daß sie mir, der einzigen Tochter
+plötzlich gestorben, so plötzlich, daß sie mir, der einzigen Tochter,
 nicht einmal hätten das Versteck mitteilen können, in dem
 mein Vater einen Teil seines Vermögens verborgen gehabt
 hätte.
@@ -1262,7 +1274,7 @@ den Leuchter im Flur gelassen. Jetzt, wo er Männerbesuch
 hatte, wandte er diesen Trick an!
 
 Harst schaute sich sehr zwanglos in dem Gemach um.
-Dann griff er in die Tasche legte seine Pistole entsichert in den
+Dann griff er in die Tasche, legte seine Pistole entsichert in den
 Schoß, stützte die Arme auf die Lehnen des alten Sessels und
 brachte die Fingerspitzen aneinander.
 
@@ -1270,20 +1282,20 @@ Slami Zchumla lächelte mild. »Mein Sohn, was soll die
 Waffe in diesem Hause des Friedens?« fragte er, aber — die
 Stimme klang jetzt erzwungen monoton.
 
-»Sie soll den Frieden zwischen uns bewahren helfen.«
+»Sie soll den Frieden zwischen uns bewahren helfen,«
 sagte Harst etwas schärfer. »Ich warne Sie vor irgend welcher
 Heimtücke. Versuchen Sie nicht, mich zu belügen. Ich weiß
 so viel, daß ich mir die andere Hälfte leicht ergänzen kann.
 Wer sind Sie?«
 
 Urplötzlich lag’s wie stärkste elektrische Spannung in
-der Luft: Das Gewitter nahte.
+der Luft. Das Gewitter nahte.
 
 Das Gesicht des Sehers verzerrte sich. Es sollte ein
 Lächeln sein. Es war eine Grimasse versteckter Angst. Er
 <@pagebreak/>
 schwieg. Und seine Augen verloren jäh den schwärmerischen
-Ausdruck, wurde klein, listig, forschend. — Er schwieg beharrlich.
+Ausdruck, wurden klein, listig, forschend. — Er schwieg beharrlich.
 
 »Nun — dann werde ich’s Ihnen sagen!« fuhr Harst fort.
 — »Im Mai dieses Jahres begegnete Ihnen in München, wo
@@ -1293,7 +1305,7 @@ Allerweltsnamen Brown. Er machte Ihnen den Vorschlag,
 für ein Jahr in seine Dienste zu treten. Sie sollten sofort
 5000 Mark erhalten, nach Ablauf des Jahres 50 000 Mark,
 nur müßten Sie sich zu unbedingtem Gehorsam verpflichten.
-Irgendwo im Auslande erklärte Brown, habe er für Sie mit
+Irgendwo im Auslande, erklärte Brown, habe er für Sie mit
 Ihrem patriarchalischen Aussehen eine besondere Stellung, die
 ganz mühelos sei; Sie sollten ihm jedoch vorher Ihre Lebensgeschichte
 wahrheitsgetreu berichten. — Sie taten’s. Das
@@ -1303,7 +1315,7 @@ Urkundenfälschung bestraft worden, Schmierenschauspieler geworden
 —«
 
 »Halt!« rief ich und sprang auf. Nun wußte ich, wer
-der Mann war. Ich war ja einst Komiker gewesen und da
+der Mann war. Ich war ja einst Komiker gewesen, und da
 hatten wir mal bei der Wandertruppe einen Ernst Minger gehabt,
 den wir seines Organs und seines frommen Augenaufschlags
 wegen nur den »Heiligen« nannten.
@@ -1317,7 +1329,7 @@ noch mir etwas Neues mit. — Da Du nun aber doch bereits
 verraten hast, wer in den Weiberröcken steckt, und da
 Mingers Gesicht verrät, daß er die Waffen streckt, so will auch
 ich die Maske lüften: Ich bin Harald Harst, an den Sie, Ernst
-Minger im Mai dieses Jahres einen Brief nach Kalkutta
+Minger, im Mai dieses Jahres einen Brief nach Kalkutta
 schickten, weil Sie in der Zeitung gelesen hatten, daß ich dort
 geweilt hätte. Der Brief, ebenso ein zweiter von Ihnen, irrte
 mir nach, bis ich ihn dann vor kurzem nach Hamburg nachgeschickt
@@ -1373,11 +1385,11 @@ mich sofort, Minger. — Sie nehmen also Browns Vorschlag
 an. Brown bringt Sie heimlich hier nach Lissabon, wo Slami
 <@pagebreak/>
 Zchumla schon einige Zeit kränklich gewesen ist. Der Seher
-stirbt dann. Ob mit oder ohne — Nachhilfe wird sich herausstellen.«
+stirbt dann. Ob mit oder ohne — Nachhilfe, wird sich herausstellen.«
 
 »Er war schon einen Tag tot, als ich herkam,« fiel Minger
 ein. »Ein Freund Browns, ein gewisser Lakrosta, ein
-Portugiese hat dann die Leiche —«
+Portugiese, hat dann die Leiche —«
 
 »— im Hofe unter den Olivenbäumen vergraben, wo
 gestern nacht halb verhungerte Straßenköter sich alle Mühe
@@ -1429,7 +1441,7 @@ dort Stubenmädchen.«
 vorgetäuscht wurde: als er seine Mutter im Sarge liegen sah.«
 
 »Weiß schon: das zurechtgeschminkte Stubenmädchen
-spielte die Leiche und der Sarg war einer der Mumienkästen
+spielte die Leiche, und der Sarg war einer der Mumienkästen
 oben aus dem Museum. Partorius hatte ja seine Mutter im
 Sarge liegend in Aquarell skizziert. Nach dieser Skizze —«
 
@@ -1447,7 +1459,7 @@ dem »dritten« hier zu Slami Zchumla — zu Ihnen, wird
 Ihnen erzählt haben, daß er mir seine beiden ersten Visionen
 gebeichtet hätte. Sie depeschierten an Brown, der dann ahnte,
 daß ich bei Partorius erscheinen könnte und alles für unseren
-Empfang vorbereitete. Wir kamen wirklich, Brown gab
+Empfang vorbereitete. Wir kamen wirklich. Brown gab
 die Rolle des alten Jochem. Der Kutter —«
 
 »— war von Brown gemietet und mit drei zweifelhaften
@@ -1457,7 +1469,7 @@ zu Palperlon zu bringen!«
 Harst machte eine hastige Handbewegung. »Nach Kopenhagen
 — zu Palperlon?« fragte er nachdenklich.
 
-»Ja Herr Harst. Hierüber weiß ich nichts weiter — wirklich
+»Ja, Herr Harst. Hierüber weiß ich nichts weiter, — wirklich
 nicht! — Palperlon ist jetzt allerdings hier in Lissabon
 — seit gestern. Unter dem Namen Master Horace Bebberton.
 Er wohnt im Hotel Manuelo.«
@@ -1465,7 +1477,7 @@ Er wohnt im Hotel Manuelo.«
 Harst schaute mich an. Wir beide saßen jetzt einen Moment
 wie die Steingötzen da.
 
-Palperlon in Lissabon! Das war mehr wert, als die
+Palperlon in Lissabon! Das war mehr wert, als diese
 Entlarvung des falschen Sehers.
 
 »Er will nämlich die Vollmacht, die Partorius zwecks
@@ -1481,10 +1493,10 @@ würden. Sie werden es mir ja vielleicht nicht glauben:
 ich habe wirklich nie daran gedacht, Brown könnte wirklich
 bei Herrn Partorius einen so durchschlagenden Erfolg mit
 diesem ganzen Schwindel haben. Nein — ich hoffte im stillen
-immer Partorius würde noch rechtzeitig merken, wie hier
+immer, Partorius würde noch rechtzeitig merken, wie hier
 der Hase läuft. Aber er ist ja völlig von dem mystischen Unsinn
 der Kabbala gefangen genommen, daß er selbst den haarsträubendsten
-angelesenen Blech, den ich ihn auftischte, als
+angelesenen Blech, den ich ihm auftischte, als
 hehre Weisheiten anstaunte.«
 
 »Nun — Sie sind wenigstens ehrlich, Herr Minger,«
@@ -1511,7 +1523,7 @@ lassen. Ich hätte das aber nicht geduldet.«
 Auf dem unberührten Bett des lütt Hannes lag ein Zettel:
 
 > »Ich habe lange mit mir gekämpft. Ich kann all den
-Luxus an den ich seit Jugend an gewöhnt bin, doch nicht
+Luxus, an den ich seit Jugend an gewöhnt bin, doch nicht
 entbehren. — Da ich fürchte, Ihrem Einfluß doch wieder zu
 unterliegen, gehe ich ohne Abschied und trete sofort eine
 mehrjährige Weltreise an. — Johannes Partorius.«
@@ -1529,7 +1541,7 @@ Als ich ihm dies sagte meinte er:
 sein? Niemals!«
 
 »Aber — aber Du warst doch auch völlig versteinert, als
-Minger erwähnte daß —«
+Minger erwähnte, daß —«
 
 »— ja — das Palperlon in Kopenhagen sich aufhielte.«
 

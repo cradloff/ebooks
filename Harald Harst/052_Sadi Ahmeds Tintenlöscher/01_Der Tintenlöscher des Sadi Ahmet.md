@@ -57,7 +57,7 @@ freigelegt hatte.
 Tscho brachte uns diesen unheimlichen Schießpreis.
 
 »Master Harst, ich sehen, daß Geier Arm benagen
-von Mensch. Deshalb schießen, Oh — dies sein Arm
+von Mensch. Deshalb schießen. Oh — dies sein Arm
 von weiße Gentleman! Oh — und Ringe an die
 Finger stecken — fünf Stück, drei mit Diamanten —«
 
@@ -101,8 +101,8 @@ schroffen Höhen hie und da ein freundlicheres Aussehen.
 
 Harst ließ das Glas sinken.
 
-»Dort halb links vor jenen Olivenhain schwärmen
-Aaßgeier,« sagte er, »Ich denke, wir gehen einmal hinüber.
+»Dort halb links vor jenem Olivenhain schwärmen
+Aaßgeier,« sagte er. »Ich denke, wir gehen einmal hinüber.
 Es sind keine zweitausend Meter. — Tscho,« rief
 er dem Chinesen zu, »gib auf unsere Pferde mit acht.
 Wir kommen sofort zurück. Ich rate Dir auch, mit den
@@ -125,7 +125,7 @@ herabgeschossen hatte.
 Nichts war da, gar nichts!
 
 Das heißt: zunächst schien es so! — Aber neben einem
-Gebüsch entdecke Harald dann eine Blutlache auf
+Gebüsch entdeckte Harald dann eine Blutlache auf
 dem steinigen Boden.
 
 »Aha — deshalb starrten die eklen Vögel hierher,«
@@ -243,7 +243,7 @@ Ahmed ein gutes Wort für mich eingelegt haben würde.«
 
 Wir unterhielten uns noch eine Weile mit dem braven
 <@pagebreak/>
-Radrogar und wollten dann ein wenig Schlafen. Der
+Radrogar und wollten dann ein wenig schlafen. Der
 Inder verabschiedete sich.
 
 »Vielleicht bleiben wir bis morgen früh,« sagte Harald
@@ -360,7 +360,7 @@ fraglos der Raub der Viktoria immer noch Tagesgespräch.«
 
 Er rieb sich vergnügt die Hände. »Wir haben also
 wieder Arbeit, mein Alter. Abends kommt Herr Jacques
-Delboste an. Wir werden ihn kennen lernen. Bring:
+Delboste an. Wir werden ihn kennen lernen. Bringe
 jetzt aber gleich den Löscher zum Polizeimeister und
 sage ihm, er hätte ihn wohl hier vergessen.« —
 
@@ -408,7 +408,7 @@ Als wir mit der Mahlzeit gerade fertig waren,
 klopfte es und Delboste trat ein.
 
 »Gestatten Sie, daß ich noch eine Stunde mit Ihnen
-plaudere?« sagte er liebenswürdig
+plaudere?« sagte er liebenswürdig.
 <@pagebreak/>
  
 Harst deutete auf einen der Bambusstühle.
@@ -417,7 +417,7 @@ Harst deutete auf einen der Bambusstühle.
 soeben über den Polizeimeister Radrogar. Der arme
 Mensch klagte uns vorhin sein Leid. Er erzählte, daß
 er früher in Gwadar Hafenmeister gewesen und daß dort
-ein Frachtdampfer verwunden sei, was man ihm zur
+ein Frachtdampfer verschwunden sei, was man ihm zur
 Last lege. Ich habe nun eine gewisse Vorliebe für geheimnisvolle
 Geschehnisse. Sie werden Gwadar wohl
 ziemlich genau kennen, Mr. Delboste. Wenigstens sagte
@@ -666,7 +666,7 @@ befürchtete.«
 eine wahre Bärennatur —«
 
 »— hat er auch! — Besinne Dich auf die weißen
-Fäden an der Stelle des Überfalls. Es waren Leinenjacken.
+Fäden an der Stelle des Überfalls. Es waren Leinenfäden.
 Der Mann hat sein Hemd zerrissen und sich verbunden.
 — Alles stimmt. Auch die Zeit. Ahmed kehrte
 von seinem Jagdausflug eine Stunde vor uns hierher
@@ -846,10 +846,10 @@ dieses Abenteuer, mein Alter?«
 »Bis jetzt ist es ziemlich harmlos.«
 
 »Ja — und die ganze Geschichte leider sehr unklar.
-Wir haben diesmal noch sehr viel Punkte aufzuklären
+Wir haben diesmal noch sehr viel Punkte aufzuklären.
 <@pagebreak/>
 Zunächst: wer war der Weiße, den Ahmed ermorden
-wollte? — Dann: weshalb wollte er ihn beseitigen. —
+wollte? — Dann: weshalb wollte er ihn beseitigen? —
 Ferner: wo ist der Schwerverwundete, der sich selbst den
 Arm amputierte, geblieben? — In welchem Verhältnis
 stehen Ahmed und Delboste zueinander? Weshalb ließen
@@ -992,7 +992,7 @@ bisher ausschließlich den Frachtverkehr
 zwischen Maskat, Gwadar und anderen benachbarten
 Häfen in Händen gehabt. Da beschloß die Firma Smith
 & Walker, mit einem großen, schnellen Dampfer, der
-Viktoria, ihm Konkurrenz zu machen, Ahmed veranlaßte
+Viktoria, ihm Konkurrenz zu machen. Ahmed veranlaßte
 Delboste, scheinbar auf Urlaub zu gehen. Delboste
 erhielt von dem ebenso gewissenlosen Reeder 1000 englische
 Pfund dafür, daß er heimlich in Maskat die
@@ -1033,7 +1033,7 @@ Aber — er war aufrichtig.
 
 »Gut — Sie brauchen nichts mehr zu sagen,« unterbrach
 Harald ihn sehr bald. »Ich habe den Zettel
-in dem Griffknopf nämlich, gefunden, Delboste. — Eine
+in dem Griffknopf nämlich gefunden, Delboste. — Eine
 andere Frage. — Was bedeuten die Worte: »Nach acht
 Tagen bei V. treffen«? — Soll »V« gleich Viktoria
 sein?«

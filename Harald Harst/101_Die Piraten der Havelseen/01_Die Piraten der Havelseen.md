@@ -22,7 +22,7 @@ verschwand, als wir Miene machten, den Lenker anzusprechen.
 
 Am 4. Juli nachmittags um dieselbe Zeit verließen
 wir abermals das Harstsche Familienhaus in der Blücherstraße
-in Schmargendorf und wanderten die Forkenbeckstraße
+in Schmargendorf und wanderten die Forckenbeckstraße
 entlang. Das Tourenauto war ebenfalls wieder
 zur Stelle.
 
@@ -68,7 +68,7 @@ Brief selbst. Die Maschinenschrift mit ihren zahlreichen
 Fehlern bewies, daß der Schreiber ein völliger Neuling in
 dieser Kunst war.
 
-Und dann der Briefinhalt...
+Und dann der Briefinhalt ...
 
 > Sehr geehrter Herr Harst,<br/>
 ich wollte zunächst die Geschichte Ihnen persönlich vortragen,
@@ -77,7 +77,7 @@ aber ich war nicht so recht sicher, ob Sie dann nicht Angaben
 <@pagebreak/>
 Dienstherrschaft, an der ja gerade nicht viel dran ist. Man
 will jedoch eine gute Stelle nicht verlieren. Die Leute
-zahlen anständig und man ist da bei ihnen doch auch so unter
+zahlen anständig, und man ist da bei ihnen doch auch so unter
 seinesgleichen. Also die Geschichte war so. Mein Herr
 hat auch eine große Motorjacht, die ich gleichfalls bediene,
 wenn sie mal ausfahren. Mit dieser Jacht kamen wir am
@@ -110,7 +110,7 @@ damit war die Geschichte erledigt. Aber, Herr Harst,
 mein Herr hat mich natürlich beschwindelt. Das war kein
 Scherz. Denn als wir nachher mit der andern Jacht, die
 einem Freunde vom Herrn gehört und auch in Werder
-gewesen war, wo die ..... fein soupiert hatten, zusammentrafen,
+gewesen war, wo die \.\.\.\.\. fein soupiert hatten, zusammentrafen,
 <@pagebreak/>
 da merkte ich, wie alle miteinander zu flüstern
 hatten und wie blaß die Damen waren. Unsere Gnädige
@@ -138,7 +138,8 @@ Mehr sage ich nun nicht.
 * * *
 
 Ich hatte über Haralds Schulter den Brief mitgelesen.
-»Ein schlechter Scherz...?!« meinte Harst sehr gedehnt.
+
+»Ein schlechter Scherz ...?!« meinte Harst sehr gedehnt.
 »Sollte da nicht Jane Brack ihre segensreiche Tätigkeit schon
 wieder aufgenommen haben?! Etwas Derartiges sähe ihr
 ganz ähnlich! — Machen wir kehrt.«
@@ -150,7 +151,7 @@ könnte. »Man will Dich eben nasführen, Harald!«
 »Glaube ich nicht, mein Alter! Wir werden ja auch
 bald Gewißheit haben.«
 
-Und: als wir nach Hause kamen, fanden wir... einen
+Und als wir nach Hause kamen, fanden wir ... einen
 Eilbrief aus Saßnitz, Rügenbad, vor.
 
 Einen Brief, allerfeinstes Büttenpapier, leicht nach Parfüm
@@ -186,7 +187,7 @@ acht, ob uns jemand nachschliche.
 
 Wir merkten jedoch nichts von Verfolgern. —
 
-Hertastraße 112 war eine neue riesige Villa.
+Hertastraße 112 war eine neue protzige Villa.
 
 Ein Postbote kam gerade des Weges. Harald fragte
 ihn, wer in dem feudalen Hause wohne.
@@ -223,27 +224,27 @@ Dobberling?«
 
 »Nein. Uns fehlt hier ja nichts.«
 
-»Aber die Bedienung der Jacht... — Wie heißt sie
-doch...?«
+»Aber die Bedienung der Jacht ... — Wie heißt sie
+doch ...?«
 
-»Niobe...«
+»Niobe ...«
 
-»Richtig, Niobe!, — die Bedienung ist doch...«
+»Richtig, Niobe!, — die Bedienung ist doch ...«
 
 Die Frau unterbrach Harst. »Entschuldigen sie, wir
-bleiben bei Herrn Dobberling, Herr... Es hat keinen Zweck.
-Ich hab’ Milch auf dem Feuer...«
+bleiben bei Herrn Dobberling, Herr ... Es hat keinen Zweck.
+Ich hab’ Milch auf dem Feuer ...«
 
-»Einen Augenblick nur noch... Ob vielleicht der
+»Einen Augenblick nur noch ... Ob vielleicht der
 Chauffeur des Freundes des Herrn Dobberling die Stellung
 wechseln würde?«
 
 »Glaub’ ich nicht. Sie meinen Karl Grull wohl?«
 
-»Ja, Karl Grull...«
+»Ja, Karl Grull ...«
 
-»Sie können ja mal fragen... Trabener Straße 95,
-Herr... — Entschuldigen Sie.«
+»Sie können ja mal fragen ... Trabener Straße 95,
+Herr ... — Entschuldigen Sie.«
 
 Wir gingen nach der Trabener Straße. Die Villa Nr.
 95 erkannten wir wieder. Sie hatte bis vor zwei Jahren
@@ -279,7 +280,7 @@ Saßnitz.
 Grull. Nur zwei Fragen: wo soupierten Bieseckes mit ihren
 Bekannten am 2ten abends in Werder?«
 
-»Im Havel-Hotel...«
+»Im Havel-Hotel ...«
 
 »Hatte die Motorjacht der Piraten besondere Merkmale?«
 
@@ -304,7 +305,7 @@ Burgen darbieten.
 
 Das Havel-Hotel inmitten des Ortes war heute nur
 mäßig besucht. In dem größeren Speiseraum waren drei
-Tische belegt. Wir belegten den vierten, bestellten Abendbrot
+Tische besetzt. Wir belegten den vierten, bestellten Abendbrot
 und kümmerten uns scheinbar um die Nachbarschaft in
 keiner Weise.
 
@@ -345,16 +346,16 @@ mit echtem Respekt ohne süßlich geringschätziges Lächeln
 bediente?«
 
 »Hm — Du lenkst ab. Du willst das Thema wechseln,
-um...«
+um ...«
 
-»Keineswegs! — Sei nicht empfindlich... Und jetzt
-verhalte Dich still. Ich möchte...«
+»Keineswegs! — Sei nicht empfindlich ... Und jetzt
+verhalte Dich still. Ich möchte ...«
 
 Und er bog schon links auf einen langen Bootssteg ab,
 an dem zahllose Segeljachten vertäut waren.
 
 Mit dem ersten Schritt auf die dröhnenden Planken
-dieses Steges verließen wir... gesetzmäßigen Boden.
+dieses Steges verließen wir ... gesetzmäßigen Boden.
 
 Inwiefern, wird der Leser sehr bald merken.
 
@@ -387,7 +388,7 @@ Jacht. Man hätte neidisch werden können.
 
 Was Harald mit dieser Unterhaltung mit dem alten
 Pfaffner eigentlich bezweckte, war mir unklar. Doch —
-nicht mehr für lange...
+nicht mehr für lange ...
 
 Eine sehr lustige Gesellschaft nahte: der Schlemmertisch
 aus dem Havel-Hotel, Herr Kießlack nebst Anhang!
@@ -487,13 +488,13 @@ lehnte. Die Nacht war hell und sternenklar.
 »Ah — da kommt uns eine andere Jacht entgegen,«
 meinte der Geheimrat Hoorst nach einer Weile.
 
-Und — da kam mir die Erleuchtung...:
+Und — da kam mir die Erleuchtung ...:
 
 Überfall — — die Piraten!! —
 
 Es war so. — Die Jacht näherte sich sehr schnell. Sie
 war bedeutend schneller als die Irmgard des Herrn Kießlack.
-Und — sie hielt auf uns zu...
+Und — sie hielt auf uns zu ...
 
 Schon von weitem sah ich, daß der Kajütenaufbau und
 das Vorderdeck mit Segeln belegt waren.
@@ -517,15 +518,15 @@ mit Augenbrauen, die durch Kohlestriche fingerdick und
 fingerlang gemacht waren.
 
 Herren mit unheimlichen Gesichtern, unheimlichen
-Pistolen in den Händen...
+Pistolen in den Händen ...
 
 Was sich dann ereignete, ging alles so rasch wie Kinobilder,
-die allzu schnell gedreht werden...
+die allzu schnell gedreht werden ...
 
 Die beiden Gattinnen Kießlacks und Wurms kreischten
 nicht. Sie kreischten erst, als der eine der Freibeuter Kießlack
 beiseite genommen hatte und als dieser den Damen
-dann befahl, ihren Schmuck den... »Herren« auszuhändigen,
+dann befahl, ihren Schmuck den ... »Herren« auszuhändigen,
 deren Pistolen beständig mit schwarzen Mündungsaugen
 uns überwachten.
 
@@ -552,22 +553,22 @@ ich nich’n Revolver dahatte!«
 
 <@pagebreak/>
 Kießlack tänzelte herbei. Soeben war der Mond über
-den Uferwäldern emporgestiegen...
+den Uferwäldern emporgestiegen ...
 
 Und dann redete Herr Otto Kießlack mit gequältem
 Lächeln viel und hastig von einer tollen Wette — daß dieser
 Überfall nur ein Spaß gewesen, daß er uns bäte, darüber
-zu schweigen...
+zu schweigen ...
 
 Er redete, widersprach sich, suchte das Erlebnis ins
-Scherzhafte zu ziehen...
+Scherzhafte zu ziehen ...
 
 Bis ich als Exzellenz liebenswürdig erklärte: »Wir
 werden selbstverständlich schweigen, Herr Kießlack, obwohl
-ein solcher Scherz doch etwas eigentümlich ist, nicht wahr,
+ein solcher Scherz doch etwas eigentümlich ist. Nicht wahr,
 lieber Geheimrat?«
 
-»Oh, Exzellenz, ich kenne noch tollere Wetten...«
+»Oh, Exzellenz, ich kenne noch tollere Wetten ...«
 
 Da atmete Kießlack sichtlich erleichtert auf und rief:
 
@@ -580,7 +581,7 @@ gewesen — irgend eine Verrücktheit von Kießlacks Freunden.
 
 Der Schampus wurde getrunken. Aber — die Stimmung
 war gemacht fröhlich. Frau Kießlack und Frau
-Wurm hatten Gesichter, als ob sie Essig saufen mußten...
+Wurm hatten Gesichter, als ob sie Essig saufen mußten ...
 
 Nur Ella von Schnetters, die an den Wett-Schwindel
 zu glauben schien, und wir beide retteten die Situation, gaben
@@ -600,7 +601,7 @@ wohnten in Wannsee.
 
 Auf dem Kurfürstendamm ließen wir uns absetzen, bedankten
 uns für den genußreichen Abend und blickten dem
-Auto lange nach...
+Auto lange nach ...
 
 <@pagebreak/>
 »Toll — toll!« sagte Harald dann. Wir gingen heim.
@@ -619,13 +620,13 @@ Harald machte plötzlich kehrt.
 meinte er.
 
 Dann nahm er eine Mirakulum, zündete sie an und
-rauchte ein paar Züge...
+rauchte ein paar Züge ...
 
 »Wiederholen wir mal, was wir über die Tätigkeit der
 Freibeuter bisher wissen,« sagte er und schob seinen Arm in
 den meinen. »Also erstens: bisher sind vier Überfälle zu
 unserer Kenntnis gelangt, und die Opfer sind Bieseckes,
-Dobberlings, eine uns noch unbekannte Familie und Kießlack-Wurm’s.
+Dobberlings, eine uns noch unbekannte Familie und Kießlack-Wurms.
 Alle diese Opfer gehören dem mit recht unbeliebten
 Kreise der Kriegsgewinnler und Schieber an. Alle
 diese Opfer hüten sich, der Polizei Anzeige zu erstatten, tragen
@@ -634,7 +635,7 @@ ist, bestechen ihre Bootsleute, damit sie den Mund halten,
 und erklären alles — für schlechte Scherze, für Wettspäße —
 dergleichen.«
 
-Er rauchte wieder drei Züge...
+Er rauchte wieder drei Züge ...
 
 »Wir sind nun soeben selbst Zeugen eines dieser Piratenstreiche
 geworden. Die Piratenjacht war wieder durch
@@ -642,7 +643,7 @@ Segel verhüllt, und die Leute arbeiteten nach derselben
 Methode, wie Chauffeur Grull es in seinem Briefe beschrieben
 hat. Es sind also dieselben Piraten.«
 
-»Ohne Zweifel.«
+»Ohne Zweifel ...«
 
 <@pagebreak/>
 »Steckt nun Jane Brack hinter diesen Überfällen? —
@@ -675,9 +676,9 @@ dafür.«
 »Überaus wichtige. Ich kenne die Piraten bereits!«
 
 Kein Wunder, daß ich stehen blieb, — gerade vor einem
-der Cafees an der Gedächtniskirche...
+der Cafees an der Gedächtniskirche ...
 
-Und aus dem Cafee drang Walzermusik heraus...
+Und aus dem Cafee drang Walzermusik heraus ...
 
 »Du — kennst sie?«
 
@@ -690,7 +691,7 @@ der vornehmen Stullen-Esser im Havel-Hotel.«
 
 »Ah — die beiden Damen und die beiden Herren!«
 
-»Ja.«
+»Ja ...«
 
 »Und wer ist der Gestrauchelte?«
 
@@ -736,7 +737,7 @@ uns beide nicht zu belästigen.«
 Sie rief: »Die beiden nicht! Vorsicht!!« Und daher plünderte
 man uns nicht aus.«
 
-Er nahm eine neue Mirakulum...
+Er nahm eine neue Mirakulum ...
 
 »Glaubst Du nun auch, daß die vier am Stullen-Tisch
 die Piraten sind, lieber Alter?«
@@ -779,23 +780,23 @@ Schweigend schritten wir weiter. Kamen in die stille
 vornehme Eichenstraße.
 
 Und — Harst riß mich plötzlich hinter einen der dicken
-alten Straßenbäume am Rande des Bürgersteiges...
+alten Straßenbäume am Rande des Bürgersteiges ...
 
 »Da — rechts vorn, oben auf der Mauer!« flüsterte er.
 
 Ich sah gerade noch einen Mann, der sich von der Mauerkrone
 in den Garten hinabließ.
 
-»Die Mauer des Winterfeldt-Palais, mein Alter...!
+»Die Mauer des Winterfeldt-Palais, mein Alter ...!
 Und — es war der Baron Irnhartstetten, ohne den schwarzen
-Vollbart...! Warten wir... Wir fangen ihn ab, wenn
+Vollbart ...! Warten wir ... Wir fangen ihn ab, wenn
 er wieder zurückkehrt.«
 
 »Was will der denn dort bei Kießlack?« meinte ich
 zweifelnd. »Hast Du ihn sicher erkannt?«
 
 »Ganz sicher!! Das Monokel schillerte im Laternenlicht.
-Außerdem, er hat eine Verbündete dort im Palais. Ich...«
+Außerdem, er hat eine Verbündete dort im Palais. Ich ...«
 
 <@pagebreak/>
 Jetzt raunte ich ihm zu: »Still — ein zweiter Mann!«
@@ -806,7 +807,7 @@ an der Mauer hochgesprungen, an derselben Stelle wie
 der Baron, hatte oben einen Halt gefunden, zog sich empor,
 — — verschwand ebenfalls nach dem Garten zu.
 
-Harst warf seine Zigarette weg...
+Harst warf seine Zigarette weg ...
 
 »Was die beiden können, können wir auch, mein Alter.
 Ihnen nach! Die Sache wird immer dunkler statt
@@ -828,52 +829,52 @@ Palais — jetzt Schieberwohnsitz!
 Ein Palais, das auf drei Jahrhunderte preußischer
 Geschichte zurückblickte.
 
-Wir warteten — lauschten — beobachteten...
+Wir warteten — lauschten — beobachteten ...
 
-Bis Harald etwas zusammenzuckte...
+Bis Harald etwas zusammenzuckte ...
 
 Und den linken Arm hob — durch eine andere Lücke im
-Gebüsch auf eine Gartenbank aus Birkenästen deutete...
+Gebüsch auf eine Gartenbank aus Birkenästen deutete ...
 
 Das Mondlicht traf dort das Gesicht eines halb auf der
-Bank liegenden Mannes...
+Bank liegenden Mannes ...
 
-Der Mann rührte sich nicht...
+Der Mann rührte sich nicht ...
 
 »Der zweite, der hinüberkletterte,« raunte Harst mir zu.
 
 Und wieder preßte ich warnend seinen Arm.
 
 Die Lindenallee vom Palais her kamen zwei Gestalten
-herbeigehuscht, — ein Mann, ein Weib...
+herbeigehuscht, — ein Mann, ein Weib ...
 
-Machten vor der Bank halt...
+Machten vor der Bank halt ...
 
 Da erkannte ich sie: es war der Baron Irnhartstetten
 und Ella von Schnetters, die Gesellschafterin Frau Kießlacks.
 
 <@pagebreak/>
 Sie hoben den Mann von der Bank auf und trugen
-ihn dem Palais zu...
+ihn dem Palais zu ...
 
-Verschwanden...
+Verschwanden ...
 
 Aber — wir blieben hinter ihnen. Von Baum zu
 Baum schlüpften wir, kamen so an dem düsteren Bau vorüber
 — tiefer in den Garten hinein, wo links an der Mauer
-ein kleines, ebenso altes Nebengebäude sich erhob...
+ein kleines, ebenso altes Nebengebäude sich erhob ...
 
 Dort hinein trugen die beiden den Mann, der doch
-offenbar tot war...
+offenbar tot war ...
 
-Dort hinein durch eine halb offene uralte, mit Ziernägeln
-beschlagene Tür...
+Dort hinein durch eine halb offene, uralte, mit Ziernägeln
+beschlagene Tür ...
 
 Ein weißer Lichtschein strahlte im Flur auf, wurde
-schwächer... erlosch.
+schwächer ... erlosch.
 
 Die Fliederbüsche, die uns verbargen, beherbergten uns
-eine volle Stunde. Nichts geschah weiter — nichts...!
+eine volle Stunde. Nichts geschah weiter — nichts ...!
 
 »Dann folgen wir eben!« flüsterte Harst, als ich zum
 sechsten Male gähnte.
@@ -890,13 +891,13 @@ sich das drohende Knurren eines großen Hundes.
 
 Ein Wächter der Berliner Wach- und Schließgesellschaft
 stand vor uns — den Revolver schußfertig — eine Trillerpfeife
-im Munde...
+im Munde ...
 
 Der Wolfshund neben ihm bückte sich sprungbereit.
 
 »Harald Harst!« rief Harald leise und hastig. »Schlagen
 Sie keinen Lärm, Mann! Nur das nicht! Ich bin der
-Detektiv Harst...!«
+Detektiv Harst ...!«
 
 Der Wächter nahm die Pfeife aus dem Munde.
 
@@ -909,7 +910,7 @@ nicht hier. Gehen wir dort hinein.« Er deutete auf das
 einstöckige Nebengebäude.
 
 »Damit Sie mich dort abtun können! So dumm sind
-wir nicht! Nee — ich...«
+wir nicht! Nee — ich ...«
 
 »Nehmen Sie doch Vernunft an! Wir beobachten hier
 nur andere Leute, die dort drinnen sind.«
@@ -929,7 +930,7 @@ Harst griff zu, entfernte Bart und Perücke.
 gesehen haben,« meinte er ungeduldig. »Ich bin Harald
 Harst.«
 
-»Oh — jetzt erkenn’ ich Sie wirklich, Herr Harst...
+»Oh — jetzt erkenn’ ich Sie wirklich, Herr Harst ...
 Entschuldigen Sie nur. Kann ich Ihnen irgendwie helfen?«
 
 »Indem Sie schweigen — verstanden! Es soll Ihr
@@ -966,7 +967,7 @@ Zeiten gebräuchlich gewesen. Auch hier Staub und Spuren
 auf den Stufen.
 
 Wir schlichen abwärts, Harst voran, dann der Wächter
-mit dem Hunde, dann ich...
+mit dem Hunde, dann ich ...
 
 Unten Kellerräume, wie man sie nur früher ausführte:
 gewölbt, Pfeiler aus Mauerwerk, Gestelle aus schwarz verfärbtem
@@ -980,11 +981,11 @@ diese vor einer eisernen Tür endeten. Diese Tür war verschlossen.
 Harst zog sein Schlüsselbund hervor, stellte den
 Patentdietrich ein, steckte ihn ins Schlüsselloch. Eisen kratzte
 auf Eisen. Ein Riegel schnappte zurück, und Harald drückte
-die Tür auf...
+die Tür auf ...
 
 Trat ein — nur drei Schritt. Ich drängte mich vor.
 
-Ein Stoß in den Rücken warf mich auf Harald...
+Ein Stoß in den Rücken warf mich auf Harald ...
 
 Die eiserne Tür schlug hinter uns zu. Harsts Taschenlampe
 lag erloschen auf den Steinfliesen. Sie war ihm entfallen.
@@ -994,14 +995,14 @@ heraus.
 
 Ich hatte meine Lampe hervorgeholt. Der weiße Lichtfinger
 tastete in die Dunkelheit hinein, traf auf eine zweite
-eiserne Tür dieses kaum fünf Meter langen Raumes...
+eiserne Tür dieses kaum fünf Meter langen Raumes ...
 
 Und — traf auf eine Gestalt in der Ecke — auf einen
 Mann — einen gefesselten Mann, der dort an der Wand saß,
 dessen Augen in das grelle Licht stierten aus blondbärtigem
-Gesicht...
+Gesicht ...
 
-Es war der... Tote von der Birkenbank...
+Es war der ... Tote von der Birkenbank ...
 
 <@pagebreak/>
 
@@ -1045,9 +1046,9 @@ Plötzlich kam Leben in den Menschen.
 
 Mit heiserem Fluch stieß er mit den gefesselten Füßen
 Harst gegen die Brust. Und — da entfiel dem Zurücktaumelnden
-die zweite Lampe... erlosch...
+die zweite Lampe ... erlosch ...
 
-Finsternis...
+Finsternis ...
 
 Ich hörte Harald leise stöhnen. Der Kerl hatte ja mit
 aller Kraft ihm die Schuhhacken gegen die Brust gestoßen.
@@ -1056,7 +1057,7 @@ Und — bekam nun selbst einen Stoß gegen den Unterleib
 — lag am Boden — krümmte mich vor Schmerzen,
 <@pagebreak/>
 erbrach mich. Fühlte, daß mir jemand in die Schlüsseltasche
-der Beinkleider faßte, die Clement herauszog, auch das Feuerzeug...
+der Beinkleider faßte, die Clement herauszog, auch das Feuerzeug ...
 Und sah einen weißen Streifen aufblitzen —
 sah den Mann Harst beleuchten — hörte die heisere Stimme
 befehlen:
@@ -1073,9 +1074,10 @@ Hände auf dem Rücken zusammenband.
 Und als ich wieder leidlich Herr meiner Sinne geworden,
 als die Schmerzen im Leibe nachließen, lauerte ringsum
 tiefste Finsternis und ein einziges unregelmäßiges Geräusch
-drang an mein Ohr — ein Kratzen und Scharren...
+drang an mein Ohr — ein Kratzen und Scharren, bis auch das
+verstummte.
 
-Wieder blitzte eine Taschenlampe auf...
+Wieder blitzte eine Taschenlampe auf ...
 
 Ich lag noch an derselben Stelle. Und Harald drei
 Schritt weiter. Beide gefesselt mit den Stricken, von denen
@@ -1114,9 +1116,9 @@ Er schaltete die Lampe aus. — Finsternis — Stille.
 Ich fror — fror, daß mir die Zähne klapperten, fühlte
 mich zum Sterben elend.
 
-Und — schlief vor Erschöpfung ein...
+Und — schlief vor Erschöpfung ein ...
 
-Erwachte über einem Knall — einem Schuß...
+Erwachte über einem Knall — einem Schuß ...
 
 Hörte einen harten dröhnenden Krach, stierte geradeaus.
 
@@ -1137,11 +1139,11 @@ wir tun Ihnen nichts.«
 
 Herr Otto Kießlack ermannte sich. Es fiel ihm schwer.
 Er schaute rechts, schaute links, schaute und beleuchtete uns
-abwechselnd...
+abwechselnd ...
 
 »Herr Jott, wer sind Sie denn, meine Herren?« meinte
 er zaghaft. »Auf dem Zettel stand nur, daß ich hier drei
-Leute finden würde...«
+Leute finden würde ...«
 
 »Wir sind jedenfalls zwei davon, Herr Kießlack. Der
 dritte entschlüpfte, als Sie eintraten, und hat uns drei hier
@@ -1150,17 +1152,17 @@ nun wieder eingesperrt.«
 Kießlack schüttelte den Kopf, als wollte er seine Gedanken
 auf diese Weise wieder in Ordnung bringen.
 
-»Ich... ich begreife davon nichts — nichts,« sagte er
+»Ich ... ich begreife davon nichts — nichts,« sagte er
 hilflos. »Wer sind Sie?! Also nicht Exzellenz und Geheimrat
 <@pagebreak/>
 ...! Sondern ....«
 
 »Zwei andere bescheidene Größen, Herr Kießlack. Nun
 aber bitte — binden Sie mir die Knoten auf. Ich möchte
-Ihnen etwas zeigen...«
+Ihnen etwas zeigen ...«
 
-»Ich will doch lieber warten... Mein Diener soll mir
-folgen, falls ich...«
+»Ich will doch lieber warten ... Mein Diener soll mir
+folgen, falls ich ...«
 
 Da wurde Harald ungemütlich, rief sehr energisch:
 
@@ -1169,7 +1171,7 @@ Herr Kießlack! Bitte — runter mit den Stricken!«
 
 Kießlack fuhr zurück.
 
-»Harst... Herr Harst...! Oh — das — das...«
+»Harst ... Herr Harst ...! Oh — das — das ...«
 
 »... ist Pech!! Für Sie!!«
 
@@ -1179,7 +1181,7 @@ Lichtschein. Ein Diener trat ein.
 
 Gleich darauf kneteten wir unsere geschwollenen Gelenke.
 Der Diener war wieder nach oben gelaufen, kam mit einer
-Flasche Kognak zurück. Wir lebten auf...
+Flasche Kognak zurück. Wir lebten auf ...
 
 Kießlack war jetzt ganz und gar ölige Liebenswürdigkeit.
 
@@ -1190,7 +1192,7 @@ Diese Dinge hier sind nicht für die Öffentlichkeit.«
 So waren wir denn mit Otto Kießlack im Keller wieder
 allein. Harald nahm ihm die Laterne ab und ging in
 die linke Ecke neben der einen Tür, kniete nieder und
-hob zwei der Fliesen heraus.
+... hob zwei der Fliesen heraus.
 
 »Hier hat der Kerl ein Versteck ausgebuddelt,« erklärte
 er. »Bitte — hier ist auch schon ein Paket. Öffnen Sie
@@ -1202,14 +1204,14 @@ vier Brieftaschen.
 »Die Piratenbeute der ersten drei Überfälle,« meinte
 Harald gleichmütig.
 
-Kießlack schlackerte nur mit dem Kopf. »Ich... ich
-begreife nichts... nichts von alledem!«
+Kießlack schlackerte nur mit dem Kopf. »Ich ... ich
+begreife nichts ... nichts von alledem!«
 
 <@pagebreak/>
 »Wir können uns darüber oben unterhalten, Herr Kießlack.
 Bitte — führen Sie uns.«
 
-So lernten wir das ehemalige v. Winterfeldt’sche Palais
+So lernten wir das ehemalige v. Winterfeldtsche Palais
 auch von innen kennen.
 
 In Kießlacks Herrenzimmer, einem über Erwarten stilvoll
@@ -1249,14 +1251,14 @@ Palais und Parkhäuschen eingeriegelten drei Leute.
 Harald. »Eine Dame hat das geschrieben. Wissen Sie,
 wer?«
 
-»Keine Ahnung...«
+»Keine Ahnung ...«
 
-»Fräulein Ella von Schnetters...«
+»Fräulein Ella von Schnetters ...«
 
 »Die?! Unmöglich!«
 
 <@pagebreak/>
-»Wie lange, ist sie in Ihrem Hause?«
+»Wie lange ist sie in Ihrem Hause?«
 
 »Seit anderthalb Monaten, Herr Harst.«
 
@@ -1272,9 +1274,9 @@ eine Ausfahrt nach Werder mitgemacht?«
 »Dann sind die vier Opfer der Piraten ja beisammen:
 Dobberlings, Bieseckes, Perschkes und Kießlacks!«
 
-»Wie — was?! Die... die drei Bekannten sind auch
+»Wie — was?! Die ... die drei Bekannten sind auch ...
 ausgeplündert worden?! — Herr Gott — die Beute
-aus dem Kellerversteck gehört wohl...«
+aus dem Kellerversteck gehört wohl ...«
 
 »... den dreien — ja!«
 
@@ -1297,7 +1299,7 @@ gereist, wahrscheinlich auch Perschkes. Die Piraten
 werden das verlangt haben. Und damit komme ich auf
 einen Punkt zu sprechen, der mit am wichtigsten ist. Ihre
 drei Leidensgefährten vom 2ten und 3ten haben genau wie
-Sie und Wurm den kläglicher Versuch gemacht, die Piratenstreiche
+Sie und Wurm den kläglichen Versuch gemacht, die Piratenstreiche
 als schlechten Scherz oder dergleichen hinzustellen.
 Mithin haben die Freibeuter ein Mittel gehabt, Sie alle
 in gleicher Weise zum Schweigen zu zwingen. Dieses Mittel
@@ -1314,24 +1316,24 @@ Wahrheit. Ich decke ja doch alles auf.«
 
 Otto Kießlack kämpfte mit sich. Man merkte es seinem
 Gesicht an. Immer wieder blickte er scheu zu Harst hinüber.
-Und dann holte er tief Atem, beichtete zögernd...
+Und dann holte er tief Atem, beichtete zögernd ...
 
 »Wir fünf hatten im Kriege ein G.&nbsp;m.&nbsp;b.&nbsp;H. gegründet,
 Lebensmittelimport. Nach dem Kriege stellten wir Konserven
-her, die... die nicht ganz einwandfrei waren. Es wurde
+her, die ... die nicht ganz einwandfrei waren. Es wurde
 Anzeige gegen uns erstattet. Wir bestachen aber einen
-Beamten des Polizeipräsidiums...«
+Beamten des Polizeipräsidiums ...«
 
-»...Regierungsassessor Baron von Irnhartstetten...«
+»... Regierungsassessor Baron von Irnhartstetten ...«
 
-»Ja... Und die Sache wurde unterdrückt, die Akten
-verschwanden. Gestern nun flüsterte mir der... der Pirat
+»Ja ... Und die Sache wurde unterdrückt, die Akten
+verschwanden. Gestern nun flüsterte mir der ... der Pirat
 auf der Irmgard zu, daß er die Akten besäße und uns
 wegen Lebensmittelverfälschung ins Gefängnis bringen
 würde, wenn wir den Überfall nicht verschwiegen und noch
-heute auf vier Wochen Berlin verließen...«
+heute auf vier Wochen Berlin verließen ...«
 
-»Genau wie die anderen drei...,« warf Harst ein.
+»Genau wie die anderen drei ...,« warf Harst ein.
 
 »Mehr weiß ich nicht, Herr Harst. Wirklich nicht.«
 
@@ -1358,10 +1360,10 @@ ebenfalls zuzulangen.
 »Kießlack wird im Zimmer der Schnetters fraglos die
 Beute von gestern finden — ganz offen daliegend,« meinte
 Harald kauend. »Das ganze Problem ist nun bis auf Kleinigkeiten
-geklärt. Wenn...«
+geklärt. Wenn ...«
 
 Da kam Otto Kießlack hereingestürmt — einen Pappkarton
-in der Hand...
+in der Hand ...
 
 »Hier — hier, — alles das, was uns gestern abgenommen
 worden ist! Nur Wurms Brieftasche fehlt!« rief er
@@ -1374,24 +1376,24 @@ den Baron bestachen, ließen Sie sich wohl eine Quittung
 über die Summe geben?«
 
 »Ja. Wir wollten nicht nochmals geschröpft werden.
-Der Baron hätte alles ableugnen können...«
+Der Baron hätte alles ableugnen können ...«
 
 »Und die Quittung, die den Baron bloßstellte, hatte
 wohl Ihr jetziger Kompagnon Wurm in Verwahrung?«
 
 »Das stimmt.« Kießlacks Augen wurden groß. »Himmel
 — die Quittung trug er ja in seiner Brieftasche bei sich!
-Sollte etwa...«
+Sollte etwa ...«
 
 »Ja — sollten etwa die Piraten es nur auf diese Quittung
 abgesehen haben!« lächelte Harald fein. »Es scheint so!
-Denn alle Wertsachen haben sie ja abliefern wollen, genau
-wie die Schnetters ihre und Wurms Wertgegenstände
+Denn alle Wertsachen haben sie ja abliefern wollen, genau so,
+wie die Schnetters Ihre und Wurms Wertgegenstände
 hiergelassen hat. Daß sie die Beute vom 2ten und 3ten nicht
 mehr besaßen und daher nicht mit abliefern konnten, ist
 Schuld des Mannes, der aus dem Keller entfloh.«
 
-»Das... das verstehe ich nicht ganz, Herr Harst.«
+»Das ... das verstehe ich nicht ganz, Herr Harst.«
 
 »Werden Sie schon! — Stellen Sie sich mal vor, daß
 <@pagebreak/>
@@ -1400,7 +1402,7 @@ und daß ein Mann dieser Jacht so geschickt war, einem
 der Piraten bis hier ins Palais zu folgen, daß er weiter
 dann sah, wie der Pirat die Beute Fräulein von Schnetters
 aushändigte, — schließlich, daß er es am 3ten nach dem
-Überfall auf Perschkes ebenso machte und feststellt, wo auch
+Überfall auf Perschkes ebenso machte und feststellte, wo auch
 diese Beute blieb. Heute hat er dann — und das sahen wir
 — die Mauer überklettert und hat diese Beutestücke vom
 2ten und 3ten gestohlen. Als er wieder über die Mauer
@@ -1415,7 +1417,7 @@ wo schon der Dieb untergebracht war. Und dieser
 Dieb wollte dann die Sachen nicht bei sich behalten und vergrub
 sie unter den Fliesen. — Verstehen Sie nun, Herr Kießlack.«
 
-»Gewiß, gewiß. Es handelte sich also nur um die
+»Gewiß, gewiß ... Es handelte sich also nur um die
 Quittung über das Bestechungsgeld von damals, Herr Harst.
 Da die Piraten die Quittung nicht bei den anderen gefunden
 hatten, überfielen sie auch meine Jacht. Mithin muß der
@@ -1435,7 +1437,7 @@ Schnetters wirklich eine sehr feine Dame. Sie hatte glänzende
 Zeugnisse.«
 
 <@pagebreak/>
-»Die gefälscht gewesen sein dürften...«
+»Die gefälscht gewesen sein dürften ...«
 
 »Hm — eins davon habe ich noch da, Herr Harst.«
 
@@ -1462,10 +1464,10 @@ Wolfshund?«
 
 »Ja, Nero hieß er. Der ist auch weg.«
 
-»So. Nun weiß ich alles. — Glückliche Reise...!«
+»So. Nun weiß ich alles. — Glückliche Reise ...!«
 
 »Danke. Nachmittags fahren wir nach Helgoland.
-Wurms auch. Erst wollten wir nach Norderney, aber nun...«
+Wurms auch. Erst wollten wir nach Norderney, aber nun ...«
 
 »... haben Sie Sehnsucht nach der G.&nbsp;m.&nbsp;b.&nbsp;H., nach
 Ihren Freunden, denen Sie doch auch die Wertsachen zurückgeben
@@ -1479,7 +1481,7 @@ einen Tausendmarkschein.
 
 Dann gingen wir davon.
 
-Kießlacks Gesicht war zum Malen gewesen... — —
+Kießlacks Gesicht war zum Malen gewesen ... — —
 
 Wir fuhren nach Hause. In der Straßenbahn sagte
 Harald plötzlich: »Lieber Alter, der Mann im Keller war
@@ -1509,9 +1511,8 @@ was jetzt noch dunkel ist: warum der Baron so um jeden
 Preis seine damalige Quittung wieder in seinen Besitz
 bringen wollte!« —
 
-Harald behielt recht...
+Harald behielt recht ...
 
 Denn daheim fanden wir bereits die Einleitung des
-Nachspiels vor...
-
+Nachspiels vor ...
 

@@ -60,7 +60,7 @@ Vögel. Sie verschwanden jedoch bald wieder.
 Erverlyn nahm sein Fernglas und stellte es auf die
 Schlucht ein.
 
-»Schraut, die Viecher irren alle auf dem linken Höhenrande
+»Schraut, die Viecher sitzen alle auf dem linken Höhenrande
 der Schlucht. Sie müssen dort etwas für ihre Schnäbel
 erhoffen. Ich werde mal hinübergehen —«
 
@@ -74,7 +74,7 @@ ein willkommener Schlupfwinkel war, erwähnte ich schon.
 
 Wir hatten zwar in diesen drei Tagen, seit wir hier lagerten,
 nichts von der Anwesenheit von Menschen bemerkt, aber
-ich hielt es doch für ratsam, jetzt wo ich allein war, wachsamer
+ich hielt es doch für ratsam, jetzt, wo ich allein war, wachsamer
 zu sein.
 
 Dann erschien der Lord und winkte eifrig. Ich konnte
@@ -178,23 +178,23 @@ bis auf einen Rest Maiskörner und Heu.
 
 »Das Tier hat dem Bhat gehört,« meinte Harst. »Wie
 ist der Mann aber in dieses Tal gelangt? Es hat doch keinen
-zweiten Zugang. Der Bhat hätte da an uns vorübermüssen,
+zweiten Zugang. Der Bhat hätte doch an uns vorübermüssen,
 um —«
 
 Er schwieg plötzlich, bückte sich und hob ein rundes, geschliffenes
 Stück Glas, eine Glaslinse von etwa vier Zentimeter
 Durchmesser auf.
 
-»Hm — für die Thar-Wüste ein seltsamer Fund, « sagte
+»Hm — für die Thar-Wüste ein seltsamer Fund,« sagte
 er sinnend. »Gehen wir mal an den Talwänden entlang.
 Mir ist da ein Gedanke gekommen, der —«
 
 Er beendete den Satz nicht. Wir hatten uns an dem
-Kamel vorüber gedrängt und waren nun zwischen dem Steinhaufen
+Kamel vorübergedrängt und waren nun zwischen dem Steinhaufen
 und der steilen Talwand. Hier gab es eine kleine
 Halde fruchtbaren Bodens: Gras, Disteln, Dornen und die
 stachligen Ranken der hellblau blühenden Schlangen-Winde
-zogen sich bis auf Höhe der Felswand hinan. Das Gras unten
+zogen sich bis zur Höhe der Felswand hinan. Das Gras unten
 <@pagebreak/>
 zeigte Spuren von Kamelhufen und plumpen Schuhen.
 
@@ -288,7 +288,7 @@ hellgrauer Stoff.
 Harst holte ein Bündel hervor. Es war ein mantelartiger
 Umhang, in den folgende Dinge eingewickelt waren:
 
-Ein Revolver; ein Säcken mit dreißig Patronen. Ein
+Ein Revolver; ein Säckchen mit dreißig Patronen. Ein
 kleines Messingfernrohr, an dem die vordere Linse fehlte. Das
 Fernrohr war zerbeult. Ein indischer Dolch mit reichverzierter
 Scheide. Ein modernes Feuerzeug mit Lunte und Stahlrädchen,
@@ -359,7 +359,7 @@ Chotan und bin ein Bhat aus Ghoshgarh.«
 
 Wir setzten uns neben sein Lager. Erverlyn war ordentlich
 stolz darauf, daß er den Inder bereits wieder so »herausgepflegt«
-hatte, wie er sich ausdrückte,
+hatte, wie er sich ausdrückte.
 
 Harst rauchte eine Zigarette und meinte so beiläufig:
 
@@ -406,7 +406,7 @@ ging ganz schwach —«
 »Das werden Sie sich nur eingebildet haben,« sagte Harald
 sehr bestimmt. »Die Hälfte von dem, was der Radschpute
 uns erzählt hat, ist Schwindel. Er wird doch nicht auf
-der Reise von Ghoshgarh nach Pulaudhi« — er faltete die
+der Reise von Ghoshgarh nach Phulaudhi« — er faltete die
 Spezialkarte der Thar auseinander — »hier vorübergekommen
 sein. Dann hat er ja einen ungeheuren Bogen nach Osten
 gemacht. Daß er lügt, geht auch schon daraus hervor, daß
@@ -646,6 +646,7 @@ mal angesehen. Bleibt stehen. Ich will die Umgebung abtasten —«
 Es roch hier nach Moder. Als ich nun den Kopf hob,
 gewahrte ich hoch über mir einen ganz schwachen Lichtschein.
 Es mußte dort so etwas wie ein Fenster oder ein Loch geben.
+
 Ich machte Harald darauf aufmerksam. Er ging jetzt hin
 und her, erklärte dann:
 
@@ -806,13 +807,13 @@ zu uns hinab: ein Bündel!
 Das Bündel enthielt sechs Pakete Dauerzwieback in
 Original-Fabrikverpackung, vier Büchsen Konservenfleisch, einen
 Büchsenöffner und eine Patent-Gummiflasche, unzerbrechlich,
-mit aufgeschraubten Aluminiumbecher.
+mit aufgeschraubtem Aluminiumbecher.
 
 Eingewickelt waren diese Dinge in einen aufgeschnittenen
 Sack, der als Firmenstempel ein gleichseitiges Dreieck mit einem
 <@pagebreak/>
 Papagei darin, darunter die Buchstaben »S. B. u. L.« und
-darunter wieder den Namen »Bikaner« zeigte.
+darunter wieder den Namen »Bikaner« zeigte. — 
 
 Erverlyn machte sich sofort über die Eßwaren her.
 
@@ -906,7 +907,7 @@ Gift!« — Und man roch es auch, was die Flasche enthielt.«
 
 »Komisch, daß Du gerade die Hauptsache übersehen hast,«
 flüsterte Harst. »Sprecht leiser. Ich habe guten Grund zu
-der Annahme, das wir belauscht werden. — Die Hauptsache
+der Annahme, daß wir belauscht werden. — Die Hauptsache
 war, daß die Flasche Karbol aus der Apotheke in Bikaner
 stammte. Der Ortsname stand mit auf dem Schildchen.
 Und der aufgeschnittene Sack ist ebenfalls mal Eigentum einer
@@ -986,8 +987,8 @@ einem anständigen Kerker gehört etwas Rauchbares —«
 Harald hatte sich gebückt und hob das Bündel hoch.
 
 »Ah — da ist ja eine Schnur angebunden, die durch die
-Fensteröffnung läuft,« rief er leise. »Schau — ein Zettel
-hier oben auf dem Bündel! — Hm was bedeutet das nun
+Fensteröffnung läuft,« rief er leise. »Schau’ — ein Zettel
+hier oben auf dem Bündel! — Hm — was bedeutet das nun
 wieder?«
 
 Er löste den in die Schnur eingeknoteten Zettel ab. Es
@@ -1015,7 +1016,7 @@ von Geist. Da — hier sind zwei Päckchen Zigaretten! Dann
 Zwieback, zwei Büchsen Fleisch, eine Schachtel Zündhölzer und
 — auch nicht zu verachten! — ein Messer und ein Revolver.«
 
-»Der gute Freund draußen rückt dauernd an der Schnur,«
+»Der gute Freund draußen ruckt dauernd an der Schnur,«
 sagte Harald jetzt hastig. »Ich nehme an, er will die Decke
 wiederholen, die wir hier schlecht verstecken könnten, wie er
 wohl glaubt. Also auspacken!«
@@ -1054,8 +1055,8 @@ aus.
 
 Harald blieb schweigsam.
 
-»Worüber grübeln Sie eigentlich nach Harst?« fragte der
-Lord als es draußen dunkel zu werden begann. Wir erkannten
+»Worüber grübeln Sie eigentlich nach, Harst?« fragte der
+Lord, als es draußen dunkel zu werden begann. Wir erkannten
 dies ja daran, daß auch bei uns die Dämmerung allmählich
 in die unangenehme Finsternis überging.
 
@@ -1072,7 +1073,7 @@ erledigt hat.«
 Wahrsagerin, deren Auskünfte sogenannte doppelsinnige
 Weisheiten waren, lieber Harst. Im übrigen wäre es
 von Chotan doch sehr albern, unsern Zigarettenspender irgendwie
-»kaltzustellen,« da er selbst uns doch mit Lebensmitteln
+»kaltzustellen«, da er selbst uns doch mit Lebensmitteln
 versorgt hat. Er sollte sich — das wäre logischer — lieber mit
 <@pagebreak/>
 dem Zigarettenmann verbünden und die fünf Klubherrschaften
@@ -1129,7 +1130,7 @@ schwärzeste Finsternis.
 
 Dann eine Stimme, halblaut, englische Worte:
 
-»Daß ich verdammter Esel mich so überrumpeln lies! —
+»Daß ich verdammter Esel mich so überrumpeln ließ! —
 Zum Teufel, der Kerl hat die Stricke zu fest angezogen! —
 Siehst Du, Stuart, das kommt davon, wenn man seine Nase
 allzutief in fremder Leute Geheimnisse steckt!«
@@ -1160,19 +1161,20 @@ Köpfen jetzt in dem Fußbodenloch und schauten zu, wie Harald
 Tompkinson die Fesseln aufknotete. Der Reporterkönig hatte
 in einer Ecke des großen Kellergewölbes gelegen.
 
-Was die beiden sprachen, verstanden wir nicht. Harst hob
+Was die beiden sprachen, verstanden wir nicht. Harst
 ließ sich dann die Zündhölzer zuwerfen, ebenso den Revolver.
 
 Die beiden öffneten an der rechten Wand eine Tür und
 verschwanden. Nach fünf Minuten hörten wir vor unserer
 Tür Schritte. Zwei Riegel wurden zurückgeschoben. Die Tür
 ging auf, und Harst und der kleine, magere Reporter, mit dem
-wir im Bombay kürzlich noch ein etwas aufregendes Erlebnis
+wir in Bombay kürzlich noch ein etwas aufregendes Erlebnis
 gehabt hatten (vergl. »Acht Stunden Frist«), traten ein. Harald
 trug eine Karbidlampe mit Glocke in der Hand, also ein
 ganz modernes Beleuchtungsmittel.
 
 Stuart Tompkinson streckte mir beide Hände entgegen.
+
 »Mr. Schraut, ist das nicht wieder ein geradezu großartiges
 Abenteuer! Das gibt mindestens acht Artikel zu je
 400 Zeilen — mindestens! Das macht an Honorar für mich
@@ -1208,7 +1210,7 @@ Wir hatten uns gleichfalls gesetzt.
 
 »Ich will mal nicht lügen,« begann der kleine, ulkige Reporter.
 »Also: ich bin Ihnen von Bombay aus heimlich nachgereist,
-Mr. Harst. Ich ahnte, das Sie nicht Tiger jagen wollten.
+Mr. Harst. Ich ahnte, daß Sie nicht Tiger jagen wollten.
 Mir war ja diese Tamblay-Expedition auch schon so ein
 bißchen merkwürdig vorgekommen. Ich kaufte ein Reit- und
 ein Lastkamel in Bahawalpur. Sie waren eben erst von dort
@@ -1410,7 +1412,7 @@ eigentlich enthüllen? Wohin geht es jetzt? Nach Bahawalpur,
 oder nach Ghoshgarh, wo Chotan angeblich zu Hause ist?«
 
 »Es geht dorthin, wohin die Spuren deuten, die wir auf
-der Insel fanden,« erwiderte Harald kurz.
+der Insel fanden,« erwiderte Harald kurz. —
 
 Am Morgen brachen wir auf. Harst machte den Führer.
 Wir verließen die endlose Hügelkette und bogen in die Sandwüste
@@ -1439,7 +1441,7 @@ Chotan aus der Kaste der Bhat wohnt hier in Bikaner. Er
 ist gestern abend erst von einer Vergnügungsreise nach Bombay
 zurückgekehrt, wie ich hörte. Nun — diese Reise war keine
 Vergnügungsreise. — Tompkinson, Sie sind doch mit allen
-Vorfällen sensationeller Art in Indien vertraut. Wissen Sie,
+Vorfällen sensationeller Art in Indien vertraut. Wissen Sie
 mir etwas über den Radscha von Kotarani zu berichten? Kotarani
 heißt ja das kleine Fürstentum, das mit seinen westlichen
 Grenzen an die Stadt Bikaner stößt.«
@@ -1514,7 +1516,7 @@ darauf.«
 
 Der Radschpute ließ uns jedoch nicht so ohne weiteres
 wieder fort. Wir mußten als seine Gäste bei ihm wohnen. —
-Abend als wir zu Bett gingen, sagte Harst noch zu mir: »Tamblay
+Abends, als wir zu Bett gingen, sagte Harst noch zu mir: »Tamblay
 hat die Skizze also tatsächlich »gefälscht« gehabt. Aber —
 er hat keinen Nutzen davon gehabt. Er selbst konnte die Silberader
 nicht mehr finden. Ich habe mich bei diesem Problem

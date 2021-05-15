@@ -19,7 +19,7 @@ Der Brief lautet im Auszuge:
 
 > Doch – ich will zunächst auf Ihre eigene Person zurückkommen, Master Harst. Ich habe in den Zeitungen gelesen, daß Sie mit dem witzigen, intelligenten und so vielgestaltigen internationalen Hochstapler Vincent Saalborg eine Wette abgeschlossen haben, die Sie zwingt, ihn bei einem seiner Streiche abzufassen, falls Sie nicht die Wettsumme von einer Million Dollar einbüßen wollen. Sie können Ihre Kräfte nicht zersplittern, werden es ablehnen, den Tod Viktoria Dreabrams zu untersuchen. Trotzdem wage ich es, Ihnen hier alles mitzuteilen, was mir über Viktorias Ende und die oben erwähnten seltsamen Begleitumstände bekannt ist.
 
-> Ich selbst bin eine alte Jungfer von 45 Jahren. Seit fünf Jahren bin ich – oder war ich – Gesellschafterin bei der Witwe Lord Hamilton Dreabrams in Allahabad, wo der Lord früher Major im Kamelreiterkorps war. Mit der Zeit wurde ich Viktorias Freundin, obwohl zwischen uns nicht nur ein Altersunterschied von 20 Jahren, sondern auch eine grundsätzliche Verschiedenheit der Lebensausfassung bestand.
+> Ich selbst bin eine alte Jungfer von 45 Jahren. Seit fünf Jahren bin ich – oder war ich – Gesellschafterin bei der Witwe Lord Hamilton Dreabrams in Allahabad, wo der Lord früher Major im Kamelreiterkorps war. Mit der Zeit wurde ich Viktorias Freundin, obwohl zwischen uns nicht nur ein Altersunterschied von 20 Jahren, sondern auch eine grundsätzliche Verschiedenheit der Lebensauffassung bestand.
 
 > Viktoria war mit zwanzig Jahren Witwe nach nur einjähriger, kinderloser Ehe geworden. Ihr Gatte starb ganz unerwartet an Herzschlag. Viktoria erbte von ihm ein großes Vermögen und das bekannte Dreabram-Schloß in Allahabad, das ursprünglich ein Buddhistenkloster gewesen war. Sie nahm mich als Gesellschafterin zu sich, weil unsere Mütter sich gut gekannt hatten. Als ich aus England nach Allahabad kam, fand ich in Viktoria eine schlanke Frau mit einem Durchschnittsgesicht vor, die den Verlust ihres Mannes bereits überwunden und ihr extravagantes Leben wieder aufgenommen hatte.
 
@@ -59,7 +59,7 @@ Hier hatte Miß Regina Sampson eine Beschreibung des Leuchters eingefügt. –
 
 > Wieder verging ein halbes Jahr. Dann überredete Viktoria mich zur Teilnahme an spiritistischen Experimenten, die sie mit mir allein anstellen wollte. Sie erzählte mir, daß Professor Doktor Chapping ihr eine besondere Methode empfohlen hätte, um sich mit den Geistern der Abgeschiedenen in Verbindung zu setzen.
 
-> Ich halte den Spiritismus für Humbug, für Selbsttäuschung. Die sogenannten spiritistischen Phänomen, als die erkennbaren Äußerungen der Anwesenheit von »Geistern«, bestehen vor keiner ernsthaften Prüfung.
+> Ich halte den Spiritismus für Humbug, für Selbsttäuschung. Die sogenannten spiritistischen Phänomene, also die erkennbaren Äußerungen der Anwesenheit von »Geistern«, bestehen vor keiner ernsthaften Prüfung.
 
 > Viktoria kannte diese meine Ansicht. Aber sie bat so lange bis ich einwilligte.
 
@@ -416,7 +416,7 @@ So – das wäre alles –«
 <h2>4. Kapitel.</h2>
 <h3>Die beiden Inder.</h3>
 
-»Bleiben Sie hier, Miß Sampson,« sagte Harald »Sie haben nun nichts mehr zu befürchten. Wir werden in die Bibliothek hinaufgehen. Ich denke, Gondar und Pahnwar werden in Lady Vickys Zimmern sein. Ihnen liegt offenbar so viel an dem Leuchter, daß sie von neuem suchen werden. Mit einem Erscheinen von Leuten durch die Geheimtür rechnen sie kaum.«
+»Bleiben Sie hier, Miß Sampson,« sagte Harald. »Sie haben nun nichts mehr zu befürchten. Wir werden in die Bibliothek hinaufgehen. Ich denke, Gondar und Pahnwar werden in Lady Vickys Zimmern sein. Ihnen liegt offenbar so viel an dem Leuchter, daß sie von neuem suchen werden. Mit einem Erscheinen von Leuten durch die Geheimtür rechnen sie kaum.«
 
 Wir stiegen die Treppe empor. – Der Verschluß der Geheimtür war sehr kunstvoll und gut geölt. Sie öffnete sich lautlos nach der Treppe zu.
 
@@ -446,7 +446,7 @@ Keine Antwort.
 
 »Er stahl ihn – das ist klar,« meinte Harald gelassen und hielt das brennende Feuerzeug an die Zigarette. »Und Sie suchen ihn seit Jahren wiederzuerlangen. Sie oder einer Ihrer Freunde, die an dieser Leuchter-Geschichte mit interessiert sind, haben den Lord umgebracht – durch Gift.«
 
-»Das ist nicht wahr!« entfuhr es dem einen der Inder. »Wer sind Sie, meine Herren? Wir haben Sie noch nie gesehen?« fügte er höflich hinzu.
+»Das ist nicht wahr!« entfuhr es dem einen der Inder. »Wer sind Sie, meine Herren? Wir haben Sie noch nie gesehen!« fügte er höflich hinzu.
 
 »Ich heiße Harald Harst und bin Liebhaberdetektiv,« erwiderte Harald ebenso höflich. »Dies hier ist mein Freund Schraut –«
 
@@ -476,7 +476,7 @@ Harald stand auf. »Ich glaube Ihnen, Mohammed ben Gondar. Ich werde Sie befreie
 
 Gleich darauf verließen die beiden Inder das Schloß.
 
-Wir holten Miß Sampson, und Harald tat ihr gegen über so, als wären die Inder entflohen, riet ihr auch, der Polizei nichts von diesen Vorgängen zu melden, da –
+Wir holten Miß Sampson, und Harald tat ihr gegenüber so, als wären die Inder entflohen, riet ihr auch, der Polizei nichts von diesen Vorgängen zu melden, da –
 
 »– es jetzt klar ist,« sagte er wörtlich, »daß Lady Vicky hier den Professor Chapping gespielt hat und daß das Ehepaar Dreabram von jemand beseitigt wurde, dem die Lady selbst heimlich aus noch unbekannten Gründen nachstellte.«
 

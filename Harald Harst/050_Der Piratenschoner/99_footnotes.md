@@ -1,4 +1,4 @@
-<h2>Korrigierte Druckfehler der Vorlage (Wikisource)</h2>
+<div class="anmerkungen">Korrigierte Druckfehler der Vorlage (Wikisource)</div>
 
 <@footnote 1 "01_Der Piratenschoner.md">Vorlage: Dampffeifen</@footnote>
 <@footnote 2 "01_Der Piratenschoner.md">Vorlage: diess</@footnote>

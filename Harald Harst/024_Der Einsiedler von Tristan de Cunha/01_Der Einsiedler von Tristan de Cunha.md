@@ -68,7 +68,7 @@ beiden Männern erschien dieses Licht so seltsam, daß sie am
 Morgen mit den anderen Kolonisten das Beobachtete besprachen
 und anfragten, ob jemand denn oben auf dem Krater
 gewesen sei. Alle verneinten. Damit erhielt jenes Licht sofort
-notwendig etwas Rätselhaftes. Diele Tage vergingen:
+notwendig etwas Rätselhaftes. Viele Tage vergingen:
 es zeigte sich nicht wieder. Dann tauchte es abermals auf;
 wieder in einer sternklaren Nacht. Diesmal bestiegen vier
 der Kolonisten den Berg, was mühsam und anstrengend, aber
@@ -161,7 +161,7 @@ hat denn das geschehen können?!«
 »Der Aufseher, der Palperlons Zelle unter sich hatte,
 muß diesem zur Flucht verholfen haben. Anders ist diese
 nicht zu erklären. Der Aufseher Mankay leugnet natürlich.
-Aber — die Zelle ist leer, verschlossen und doch ist Palperlon
+Aber — die Zelle ist leer, verschlossen, und doch ist Palperlon
 verschwunden.«
 
 Hier mischte sich Harst ein.
@@ -169,7 +169,7 @@ Hier mischte sich Harst ein.
 »Wer bemerkte denn Palperlons Entweichen zuerst, Master
 Garner?« fragte er kurz.
 
-»Mankay tat’s,«, erklärte Garner. »Er machte um
+»Mankay tat’s,« erklärte Garner. »Er machte um
 vier Uhr seinen gewöhnlichen Rundgang, will dabei durch das
 Guckloch in der Tür in Palperlons Zelle hineingeschaut und
 so dessen Verschwinden wahrgenommen haben. Natürlich ist
@@ -189,12 +189,12 @@ und Sie —«
 
 Harsts Gesichtsausdruck ließ ihn den Satz nicht beenden.
 
-»Was halben Sie denn, bester —«
+»Was haben Sie denn, bester —«
 
 Harst eilte plötzlich davon, kehrte erst nach fünf Minuten
 zu uns zurück und sagte achselzuckend:
 
-»Ich hätte flinker sein müssen, Mylord, wir sind hier
+»Ich hätte flinker sein müssen. Mylord, wir sind hier
 von einem Herrn belauscht worden. Der Mann stand dort
 hinter jener Palme, kaum drei Schritt von uns entfernt. Als
 ich ihn bemerkte, verschwand er durch den Nebenausgang
@@ -232,7 +232,7 @@ Flucht ermöglicht!«
 
 Mankay knickte förmlich zusammen. »Auch Sie, Master
 Harst — auch Sie!« rief er verzweifelt und reckte die Arme
-wie beschwörend hoch. »Es ist nicht wahr: ich tat es nicht.
+wie beschwörend hoch. »Es ist nicht wahr: ich tat es nicht,
 und ich kann —«
 
 Harst winkte ihm zu. »Lassen Sie all das, Mankay!«
@@ -270,8 +270,8 @@ wir beide nach einer Viertelstunde in der kahlen Mörderzelle
 auf den Schemeln, waren an die Wand gefesselt und wurden
 von Thomas Mankay mit den Worten bedacht: »Na — Ihr
 beide sollt mir nicht entwischen, Ihr verdammten Schufte!
-Detektive wollt Ihr sein! Inspektor Garner hat euch bewiesen,
-was man von euch zu halten hat!« Dann ging er hinaus.
+Detektive wollt Ihr sein! Inspektor Garner hat Euch bewiesen,
+was man von Euch zu halten hat!« Dann ging er hinaus.
 
 * * *
 
@@ -285,7 +285,7 @@ gar nichts bemerkt?! Ist Dir an Mankay nichts aufgefallen?«
 
 »Nichts! Er war nur eben sehr erregt.«
 
-»Stimmt! Zu erregt für einen Menschen, der — doch
+»Stimmt! Zu erregt für einen Menschen, der — Doch
 nein. Ich will Dir den Spaß nicht verderben. Warte ab.
 Mankay wird sehr bald hier erscheinen und wird schnauben,
 weil wir die Frechheit besitzen, uns zu unterhalten. Er soll
@@ -298,7 +298,7 @@ Mankay trat ein, rief grimmig und wild mit der rechten
 Hand uns drohend:
 
 »Werdet Ihr Schufte wohl das Unterhalten bleiben
-lassen. — Ich begreife nicht, daß man euch nicht jeden in
+lassen. — Ich begreife nicht, daß man Euch nicht jeden in
 eine Zelle gesperrt hat! Ich —«
 
 »Mankay!« fiel ihm Harst leise, aber mit Nachdruck ins
@@ -338,12 +338,12 @@ hielte.
 »Ja — zehn Millionen! Das Gold liegt in einem Versteck
 unweit Kapstadt,« fuhr Harst in seiner Lügengeschichte
 fort, deren Zweck mir völlig unerfindlich blieb. »Palperlon
-sagte mir das Versteck sei ein hohler, sehr alter Affenbrotbaum
+sagte mir, das Versteck sei ein hohler, sehr alter Affenbrotbaum
 unweit einer Farm an der Bellmont-Bucht. Er sagte
 mir weiter: »Sie müssen schlafen — fest schlafen, wenn Sie
 beweisen wollen, daß Sie schuldlos sind. Ich will, daß Sie
 schlafen, Mankay! Ich will es! Schauen Sie mir in die Augen!
-Sie sollen jetzt die Lider schließen. Ich befehle es!«
+Sie sollen jetzt die Lider schließen. Ich befehle es!««
 
 Und — Mankay gehorchte.
 
@@ -367,7 +367,7 @@ die Zelle, kam nach etwa fünf Minuten zurück, nahm
 uns die Fesseln ab und führte uns in eine Vorratskammer,
 wo er uns einschloß. Wieder nach etwa fünf Minuten (inzwischen
 hatte er seinen Kollegen im unteren Stockwerk unter
-einem Vorwand weggeschickt, brachte er uns über eine Nebentreppe
+einem Vorwand weggeschickt) brachte er uns über eine Nebentreppe
 in den Garten des Direktors. Wir waren frei,
 denn uns trennte nur noch eine Mauer von der Straße.
 
@@ -379,7 +379,7 @@ unserer Flucht zusammenhing.
 Wir kletterten nun über die Mauer und waren gleich
 darauf im Verwaltungsgebäude im Zimmer des Direktors,
 wo unser Erscheinen ebenso laute Ausrufe des Staunens
-weckte, wie Harsts kurze Erklärung über das Geheimnis von
+weckte wie Harsts kurze Erklärung über das Geheimnis von
 Palperlons Entweichen.
 
 »Daß Palperlon nur so sein Entkommen bewerkstelligt
@@ -455,7 +455,7 @@ dort aufglühen läßt und zu welchem Zwecke geschieht’s?
 Ich hatte mir dies schon während der Überfahrt von
 Kapstadt nach hier des öfteren überlegt und hätte auch Harsts
 Ansicht darüber gern eingeholt. Aber er hatte nur die Achseln
-gezuckt. »Sehen geht vor sagen,« war seine Antwort gewesen.
+gezuckt. »Sehen geht vor Sagen,« war seine Antwort gewesen.
 
 Auch jetzt schwieg er sich aus, gähnte sogar sehr ungeniert
 und ließ erkennen, daß er für Geheimnisse nichts übrig
@@ -491,16 +491,16 @@ Draaken hat mir ganz besonders gefallen. Der Mann
 hat so ein nettes Lächeln an sich. — Gute Nacht, Schraut.«
 
 Draaken?! Nettes Lächeln?! Hallo — dahinter steckte
-etwas! Das war mein letzter Gedanke bevor ich einschlief.
+etwas! Das war mein letzter Gedanke, bevor ich einschlief.
 <@pagebreak/>
 
 Am folgenden Nachmittag um zwei Uhr bestiegen wir den
 Berg unter Führung des siebzehnjährigen Sohnes Molbotts,
-eines strammen Burschen der leidenschaftlicher Robbenfänger
+eines strammen Burschen, der leidenschaftlicher Robbenfänger
 war.
 
 Getreu unserer Rolle als Naturforscher schenkten wir
-sowohl dem Pflanzenwuchs als auch den Gesteinen während
+sowohl dem Pflanzenwuchs als auch den Gesteinarten während
 des Aufstieges die größte Beachtung und füllten unsere
 Rucksäcke mit allerlei Dingen, von denen wir wohl nicht
 viel mehr verstanden als unser gesprächiger und heiterer
@@ -518,13 +518,13 @@ man so tief hinabklettern, daß der dunkle Wasserspiegel etwa
 sechs bis sieben Meter unter einem lag.
 
 Harst erklärte jetzt dem jungen Molbott, daß wir seiner
-nicht mehr bedürften; den Rückweg fänden mir schon allein,
-und es würde für ihn nur langweilig sein, zuzusehen wie
+nicht mehr bedürften; den Rückweg fänden wir schon allein,
+und es würde für ihn nur langweilig sein, zuzusehen, wie
 wir hier oben das Gestein und alles andere untersuchten. Er
 verabschiedete sich denn auch und verschwand sehr bald unseren
 Blicken.
 
-»So,« meinte Harald plötzlich sehr lebhaft werdend. »Nun
+»So,« meinte Harald, plötzlich sehr lebhaft werdend. »Nun
 an die Arbeit, mein Alter. Es muß hier ja für gute Augen
 fraglos allerlei zu finden sein. Denn wer hier oben als Einsiedler
 haust und dazu nachts mit einem Scheinwerfer operiert
@@ -534,7 +534,7 @@ bestimmte Absichten. Von seiner Tätigkeit müssen Spuren
 vorhanden sein, — müssen, mag er auch noch so vorsichtig
 und schlau alles in Szene setzen.«
 
-Harst suchte nun einen Punkt an dem Kraterrande auf,
+Harst suchte nun einen Punkt auf dem Kraterrande auf,
 von dem aus er etwa feststellen konnte, wo das Licht sich ungefähr
 befunden haben mußte. Er deutete auf die Niederlassung
 hinab und meinte: »Dort liegt Molbotts Gehöft.
@@ -569,8 +569,8 @@ auch seinen derben, selbstgeschnittenen Spazierstock daneben.
 Da — hinter uns plötzlich ein so gellender Hilferuf, daß
 wir ordentlich zusammenzuckten und blitzschnell herumfuhren.
 
-Merkwürdig dabei war, daß mir ganz deutlich das Wort
-»Hilfe« — das <span class="g">deutsche</span> Wort Hilfe verstanden hatten.
+Merkwürdig dabei war, daß wir ganz deutlich das Wort
+»Hilfe« — das *deutsche* Wort Hilfe verstanden hatten.
 
 »Das kam vom See her,« flüsterte Harst und eilte dem
 Rande des Steilufers zu.
@@ -598,7 +598,7 @@ auf das Wasser auf. Der Anprall aus solcher Höhe war so
 heftig, daß mir sofort schwarz vor den Augen wurde. Ich verlor
 halb die Besinnung, machte nur mechanisch einige
 Schwimmbewegungen, fühlte dann Harsts Hand am Kragen
-meiner Lodenjoppe und hörte seines Stimme:
+meiner Lodenjoppe und hörte seine Stimme:
 
 »Raffe Dich auf! Es geht ums Leben!«
 
@@ -649,7 +649,7 @@ nur!«
 
 Er richtete mich auf. Ich sah nun, daß Harst vor mir auf
 dem kahlen Fels saß, mit dem Rücken an den ungeheuren
-Steinblock gelehnt; sah weiter den jungen Austin Malbott,
+Steinblock gelehnt; sah weiter den jungen Austin Molbott,
 dann noch einen der Kolonisten namens Reperton; sah auch,
 daß das Abendrot den Kratergipfel in wundervolle Röte
 tauchte und — aus Harsts Gesicht ein zufriedenes Lächeln.
@@ -687,10 +687,10 @@ Nicht ich war es, der Dich aufs Trockene brachte. Nein
 — ich versank genau so wie Du, als es mit meinen Kräften
 vorbei war. Ich war überzeugt: das ist das Ende! — Aber
 — der Einsiedler von Tristan da Cunha hatte uns nur einen
-halben Tod als Warnung Zugedacht. Kein anderer als er
+halben Tod als Warnung zugedacht. Kein anderer als er
 kann uns aus dem See herausgezogen und nebeneinander
 auf den Kraterrand gelegt haben — nur er! Der Mann wollte
-uns zeigen: »Laßt die Finger von dieser Sache! Ich weiß
+uns zeigen: »Laßt die Finger von dieser Sache! Ich weiß,
 wer Ihr seid!« — Das Felsstück, mit dem wir abrutschten,
 war vorbereitet. Das heißt: das Ganze war ein raffiniertes
 <@pagebreak/>
@@ -724,7 +724,7 @@ aus. Schon nach zehn Minuten rann mir der Schweiß den
 Rücken entlang. Harst machte den Führer und ging so sicher,
 als hätte er den erloschenen Vulkan schon so und so oft bestiegen.
 
-Es war ½ 1 Uhr, als wir uns jetzt mit größter Vorsicht
+Es war ½1 Uhr, als wir uns jetzt mit größter Vorsicht
 dem Gipfel näherten. Das Licht war nicht zu bemerken. Dunkel
 und düster ragte die abgeplattete Kraterspitze in das Sternengefunkel
 hinein.
@@ -834,8 +834,8 @@ erschlagen. Ob hierbei Menschen die Hand mit im Spiel
 gehabt hätten, war nicht festzustellen gewesen. Immerhin
 warnte ihn dieser Vorfall und kühlte auch seine Unternehmungslust
 bedeutend ab. Er ließ viele Wochen verstreichen,
-Ehe er sich wieder einmal auf den Berg wagte und zwar an
-einem stürmischen, regnerischen Abend an dem man, wie er
+ehe er sich wieder einmal auf den Berg wagte und zwar an
+einem stürmischen, regnerischen Abend, an dem man, wie er
 betonte, wirklich keinen Hund hinter dem Ofen hervorgejagt
 hätte. »Diesmal nun hatte ich Glück, Master Hirt,« berichtete
 Draaken weiter. »Sogar sehr großes Glück. Ich überraschte
@@ -844,7 +844,7 @@ nämlich dort am Fuße des Felsblockes zwei Menschen —«
 
 »Aha,« warf Harst ein. »Einen Mann und eine Frau!«
 
-»Ganz recht, Master, das heißt: ich hütete mich natürlich,
+»Ganz recht, Master. Das heißt: ich hütete mich natürlich,
 mich sehen zu lassen. Ich wußte ja: bei dem schlechten
 Wetter war keiner der Kolonisten hier oben! Es konnte sich
 also nur um die Leute handeln, die mit dem Licht irgend etwas
@@ -858,7 +858,7 @@ Dinge treiben?«
 die beiden. Aber mit dem geistigen Auge.«
 
 »So so. Das ist wohl so ’n moderner Name für ’ne neue
-Sorte Fernglas dieses »geistige Auge,« Master Hirt?«
+Sorte Fernglas, dieses »geistige Auge«, Master Hirt?«
 
 »So ähnlich!« nickte Harst. »Was taten der Mann und
 das Weib denn, bester Draaken?«
@@ -891,7 +891,7 @@ Können Sie wohl zu Fuß den Berg hinab?«
 
 Den Abstieg erledigten wir in aller Gemächlichkeit und
 mit verschiedenen Ruhepausen, so daß Harst Zeit genug hatte,
-Draakens Bitte zu erfüllen und sich eingehender über daß
+Draakens Bitte zu erfüllen und sich eingehender über das
 zu äußern, was er bisher über die Lichterscheinung ermittelt
 hatte.
 
@@ -948,17 +948,17 @@ an.
 Ich hüllte mich jedoch notgedrungen in Schweigen.
 
 »Na — es sind doch Schafe verschwunden und in der
-Nacht auch Kühe heimlich gemelkt worden.« meinte Harst
+Nacht auch Kühe heimlich gemelkt worden,« meinte Harst
 lebhaft. »Mithin brauchten der oder die Einsiedler
 Lebensmittel. Wären diese »Einsiedler« Kolonisten gewesen,
 hätten sie sich ja daheim satt essen können.
 Und weiter: wäre ein Kolonist Helfershelfer des Einsiedlers
 gewesen, so würde er diesen wohl genügend mit Nahrungsmitteln
-versorgt haben. Die Wahrscheinlichkeit daß Kolonisten
+versorgt haben. Die Wahrscheinlichkeit, daß Kolonisten
 mit eingeweiht waren, blieb also nur sehr gering.«
 
 »Die Schafe und die Milch sind auch nur in der ersten
-Zeit nach Auftauchen des Lichtes abhanden gekommen.« warf
+Zeit nach Auftauchen des Lichtes abhanden gekommen,« warf
 Draaken ein. »Nachher nie wieder. Etwa in den ersten
 sechs Wochen verschwanden die Schafe.«
 
@@ -975,15 +975,15 @@ landete dann aber wieder auf der Insel und begann sein Einsiedlerleben.«
 Hier äußerte Draaken ein lautes: »Ah — da ist ja der —«
 
 »Ja — der aus Österreich gebürtige Mechaniker Werner
-Schadlmeyer vielleicht derjenige welcher!« fiel ihm Harst
+Schadlmeyer vielleicht derjenige, welcher!« fiel ihm Harst
 ins Wort. »Schadlmeyer hat es hier auf der Insel nur ein
 Jahr ausgehalten. Dann zog er wieder von dannen, nachdem
 er mit dem Kolonisten Tom Silling sich — dessen Tochter wegen
 entzweit hatte.«
 
-Jetzt war es an mir mein Licht leuchten zu lassen.
+Jetzt war es an mir, mein Licht leuchten zu lassen.
 
-»Sillings Tochter ist natürlich die Frau die Draaken
+»Sillings Tochter ist natürlich die Frau, die Draaken
 damals oben auf dem Krater mit dem Manne beobachtet hat,«
 sagte ich schnell.
 
@@ -1057,8 +1057,8 @@ ausübten. Es waren — Stricke, die man uns um die
 Beine legte! Stricke, mit denen man uns aufs Trockene zog.
 — Nur auf diese Weise werden alle Einzelheiten dieses »Unfalls«
 restlos klar — eben durch die Annahme, daß Schadlmeyer
-uns aus der Tiefe im Taucheranzug herausholte —
-ich wette, Ellen Silling ist gestern nachmittag nicht daheim
+uns aus der Tiefe im Taucheranzug herausholte. —
+Ich wette, Ellen Silling ist gestern nachmittag nicht daheim
 gewesen! Sie mußte ja die Luftpumpe bedienen, als der
 Einsiedler auf uns lauerte. Und — sehr wahrscheinlich wird
 sie auch das Felsstück zum Absturz gebracht haben, auf dem
@@ -1078,7 +1078,7 @@ Umständen nach zuläßt: es muß in der Uferwand des Sees
 unter Wasser so etwas wie eine Höhle geben, die sich nach aufwärts
 zieht, die also in ihren oberen Teilen wasserfrei ist.
 In dieser Höhle kann dann die Luftpumpe aufgestellt sein,
-kann auch Ellen Silling sie bedienen: und aus dieser Höhle
+kann auch Ellen Silling sie bedienen; und aus dieser Höhle
 <@pagebreak/>
 kann Schadlmeyer unbemerkt in den See hinabsteigen! —
 Nur so kann es sein!«
@@ -1117,14 +1117,14 @@ Schraut und ich bleiben Schratt und Hirt, obwohl ja der Einsiedler
 zweifellos schon weiß, daß die Naturforscher für ihn
 recht gefährliche Gegner sind. Vielleicht hat Ellen Silling
 ihm die Kapstadter Zeitungen gebracht; vielleicht ist ihm
-da die »Rose von Rondebosch« aufgefallen; vielleicht besitzt er
+ja da die »Rose von Rondebosch« aufgefallen; vielleicht besitzt er
 genug Geist, um sich zu sagen: »Halt — diese Naturforscher
 könnten recht gut die beiden Detektive sein, die da in Kapstadt
 gearbeitet haben!« — So reime ich es mir wenigstens
 zusammen, daß der Einsiedler uns durchschaut hat!«
 
 Ich will hier gleich bemerken: Harst hatte auch in diesem
-Punkte recht, wie sich später herausstellte —
+Punkte recht, wie sich später herausstellte. —
 <@pagebreak/>
 
 Morgens kurz nach sieben Uhr langten wir in der Ansiedlung
@@ -1139,7 +1139,7 @@ Er ist ein Andenken  und mir sehr teuer.«
 Molbott gab sich mit dieser Erklärung zufrieden. So
 ganz geglaubt hat er sie nicht. Aber er konnte sich auch
 nicht recht etwas anderes zusammenreimen, das uns zu dem
-nächtlichen Ausflug veranlasst haben könnte. Nachher hat
+nächtlichen Ausflug veranlaßt haben könnte. Nachher hat
 er uns dies offen zugegeben.
 
 Zunächst schliefen wir beide uns nun erst mal gehörig
@@ -1208,7 +1208,7 @@ blicken. Es machte den Eindruck, als ob der Schadlmeyer
 sich vor der Dampferbesatzung nicht sehen lassen wollte. Er
 war auch mit einer Brigg von Kapstadt hierher gekommen,
 die uns Ackergeräte brachte, und er hatte sich in Kapstadt
-scheinbar so als Blinder Passagier an Bord geschlichen. Na —
+scheinbar so als blinder Passagier an Bord geschlichen. Na —
 zum Glück hat er Tristan da Cunha ja bald wieder den
 Rücken gekehrt.« —
 
@@ -1286,7 +1286,7 @@ Nachbarinsel mal ganz genau absuchen.«
 »Und uns nehmen Sie mit!« bat Harst. — Dann gingen
 wir in unser Zimmer, blieben hier aber nur eine halbe
 Stunde, kletterten wieder zum Fenster hinaus und schlichen
-die Terraren empor nach Ellen Sillings Hütte, die aus luftgetrockneten
+die Terrassen empor nach Ellen Sillings Hütte, die aus luftgetrockneten
 Ziegeln mit einem Dach aus Moos und Strauchwerk
 sehr sauber errichtet war. Es gab da nur ein Fenster.
 Es war erleuchtet. Der rote Leinenvorhang stand an der
@@ -1332,7 +1332,7 @@ Nach fünf Minuten setzten wir uns wieder in Bewegung.
 
 Plötzlich über uns von dem Felskoloß her eine blendende
 Lichtbahn. Diesmal aber nicht in Richtung auf die Oberfläche
-des Kraters, sondern genau hinab auf die Einsiedlung
+des Kraters, sondern genau hinab auf die Ansiedlung,
 bis zu der die Scheinwerferstrahlen freilich nicht reichten.
 Immerhin war jetzt ein Teil der Terrassen klar erleuchtet,
 was ein Bild von eigenem Reiz abgab. Ich starrte wie gebannt
@@ -1354,7 +1354,7 @@ es jetzt so hell, daß wir sofort Ellen Silling gewahrten, die
 unweit des riesigen Felsblockes am Boden neben einem lang
 ausgestreckt daliegenden Manne kniete.
 
-Als sie uns hörte, fuhr sie empor, schrie entsetzt auf.
+Als sie uns hörte, fuhr sie empor, schrie entsetzt auf,
 wollte fliehen. Harst vertrat ihr den Weg.
 
 »Bleiben Sie, Miß Silling!« sagte er befehlend. »Ich
@@ -1378,11 +1378,11 @@ keinem Zweifel.«
 Der Scheinwerfer erstrahlte noch immer. Er war oben
 auf der Felskanzel aufgestellt.
 
-»Wissen Sie Miß Silling, weshalb Schadlmeyer heute dem
+»Wissen Sie, Miß Silling, weshalb Schadlmeyer heute dem
 Lichtkegel diese Richtung gegeben hat?« meinte Harst jetzt
 freundlicher.
 
-Wieder nur das kopfschütteln.
+Wieder nur das Kopfschütteln.
 
 »Weil er — fliehen will!« sagte Harst laut. »Weil er
 jetzt ein Boot zur Verfügung hat — das dieses Mannes, seines
@@ -1414,7 +1414,7 @@ Aber wir haben uns jetzt entzweit, weil er Sie beide
 und Draaken beinahe getötet hätte. Diesen Unglücklichen da
 kenne ich wirklich nicht.« Sie schluchzte laut auf und sank
 in die Knie, hob den Kopf des Fremden etwas an. »O mein
-Gott — retten Sie den Ärmsten, doch helfen Sie ihm!« flehte
+Gott — retten Sie den Ärmsten doch, helfen Sie ihm!« flehte
 sie. »Sie sind doch Harald Harst, der Detektiv! Sie werden —«
 
 Da hatte der Bewußtlose die Augen geöffnet, stützte sich
@@ -1423,7 +1423,7 @@ dann uns an.
 <@pagebreak/>
 
 »Harst!« — Wie ein geröchelter Hauch klang’s nur.
-»Harst — ich bin — James Palperlon. Ich — fühle — es
+»Harst, — ich bin — James Palperlon. Ich — fühle, — es
 geht zu Ende mit mir. Ich — hatte Sie in Kapstadt — im
 Hotel Atlantik — belauscht. Ich — wollte auch — das Geheimnis
 hier — aufklären, — kam gestern nachmittag mit
@@ -1463,7 +1463,7 @@ eingeschlagen haben, wenn er schnell aus der Nähe der Inseln
 fortkommen wollte.
 
 Als der Morgen zu grauen begann, schlief die leichte
-Brise völlig ein. Um ½ 7 hatten wir den Flüchtling auf 500
+Brise völlig ein. Um ½7 hatten wir den Flüchtling auf 500
 Meter vor uns.
 
 Wir sollten seiner nie habhaft werden. Wir wurden Zeugen,

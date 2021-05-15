@@ -514,7 +514,7 @@ getroffen, schimmerte matt-weiß in den Strahlen des
 Nachtgestirns.
 
 Und am Fuße dieser Steilwand, geradezu grell
-leuchtend, sahen mir mit hochaufgerichtetem Bug das
+leuchtend, sahen wir mit hochaufgerichtetem Bug das
 Wrack eines größeren Zweimasters mit zerfetzten Segeln
 halb im Wasser liegen.
 <@pagebreak/>
@@ -633,7 +633,7 @@ eine Menge Seetang gesammelt, so daß auch wir weich
 und einigermaßen behaglich saßen.
 
 Rohe Möweneier sind nicht gerade meine Schwärmerei.
-Aber der Hunger zeigte sich zu hier wieder als
+Aber der Hunger zeigte sich auch hier wieder als
 der beste Koch.
 
 »Was hältst Du von dem Wrack?« begann ich die
@@ -862,7 +862,7 @@ Und wirklich, mit einem Male schoß ein gedeckter
 Motorkutter im Süden aus der breiten Lücke der Felsen
 hervor und hielt auf den Dampfer zu.
 
-»Das selbe Boot dies sein, wo uns verfolgen,« meinte
+»Dasselbe Boot dies sein, wo uns verfolgen,« meinte
 Tscho. »Master Schraut, ich ihm erkennen bestimmt
 wieder —«
 
@@ -874,7 +874,7 @@ Wir krochen weiter. Es gab auch auf dem Plateau
 genügend Steine, die uns Deckung boten. —
 
 Auf dem Dampfer regte sich nichts. Wir hatten den
-einen Kessel erklettert und uns oben ihn hingelegt. Der
+einen Kessel erklettert und uns oben flach hingelegt. Der
 Kesselaufsatz schützte uns gegen jeden Blick.
 
 Nun verstummte das Geräusch des Motors. Dann
@@ -1222,7 +1222,7 @@ rief hinunter:
 »Nun, Freundchen, zur Vernunft gekommen?«
 
 Dann lachte er. »Aha — er ist kirre geworden!
-holt ihn heraus!«
+Holt ihn heraus!«
 
 Ahmed lehnte am Kessel und spielte den völlig Ermatteten
 mit viel Geschick.
@@ -1299,7 +1299,7 @@ Erfindung diese Szene zu stark auf die Spitze getrieben.«
 Morgens trafen wir mit dem Motorkutter, den beiden
 Gefangenen und den beiden Toten in Gwadar ein,
 wo Harald vor dem Polizeichef Kromer die letzten Ereignisse
-zu Protokoll gab und eine auch die Wertpapiere
+zu Protokoll gab und Kromer auch die Wertpapiere
 und Banknoten aushändigte.
 
 Wir blieben noch drei Tage in Gwadar. Dann begann
