@@ -91,7 +91,7 @@ Drohbriefe schicken!
 > Aber schicken tun sie diese Wische, Tag für Tag, und
 in jedem steht:
 
-> > Wenn Du es nicht herausgibst, bist Du im Mai
+> Ok Wenn Du es nicht herausgibst, bist Du im Mai
 eine Leiche!
 
 > Nett von Den Kerlen, nicht wahr?!
@@ -182,7 +182,7 @@ Konstantinopel hauptpostlagernd unter M. A. X, 100.
 bezahle ich die Reise 2. Klasse und acht Tage Aufenthalt.
 
 2. *Nachschrift*: Falls ich schon tot bin, finden Sie
-bei der Osmanischen Bank hier 100 eng!. Pfund für
+bei der Osmanischen Bank hier 100 engl. Pfund für
 sich deponiert.
 
 3. *Nachschrift*: Die silberne Krücke meines auf dem
@@ -697,28 +697,28 @@ Mann …«
 Der Sprecher wollte offenbar noch mehr Hinzufügen.
 Er — hatte es nicht mehr nötig …
 
-Je! — änderte sich die Lager leider zu unserem Nachteil
+Jetzt — änderte sich die Lager leider zu unserem Nachteil
 …
 
 Der Türvorhang flog plötzlich beiseite …
 
-Draußen zwei der halbwüchsigen Vermischte …
+Draußen zwei der halbwüchsigen Derwische …
 
 Und — zwei jener schweren Holzkeulen, wie türkische
-Sanfter oder Dompteurs sie so meisterhaft zu werfen wissen,
-flogen uns nicht solcher Kraft gegen die Brust, daß Schmerz
-und Mitunter uns für Schwitzen wehrlos machten …
+Gaukler oder Jongleure sie so meisterhaft zu werfen wissen,
+flogen uns mit solcher Kraft gegen die Brust, daß Schmerz
+und Atemnot uns für Sekunden wehrlos machten …
 
-Wie die Teufel waren die flink schon über uns der …
+Wie die Teufel waren die fünf schon über uns her …
 
-Auf Fäuste, des Dozent gewohnt, brachten gegen meine
+Fäuste, des Boxens gewohnt, krachten gegen meine
 Stirn …
 
-Ich sank vom Stuhl … Man würgte mich, man uns
-wickelte mir Hand- und Fußgelenke mit Draht, man schob
+Ich sank vom Stuhl … Man würgte mich, man umwickelte
+mir Hand- und Fußgelenke mit Draht, man schob
 mir einen Knebel in den Mund, band den Knebel fest …
 
-Die Gentlemen umtaunzten uns vor Freude wie die
+Die Gentlemen umtanzten uns vor Freude wie die
 Verrückten …
 
 Der Armenier kam hinzu …
@@ -727,28 +727,28 @@ Ich war bei Besinnung, hörte, wie er zu den fünfen
 hastig sagte:
 
 <@pagebreak/>
-»Sie müssen sofort weg … Auch die Messer, auch alles
-plaudere. Raums die Wohnung. — alt an 16
+»Sie müssen sofort weg … Auch die Koffer, auch alles
+andere. Räumt die Wohnung. — Faßt an …!"
 
-Sie trugen nun Durch Dalbdunfle muffige Gemächer,
-durch eine kleine Pforte nach Westen zu aus einen winzigen,
+Sie trugen uns Durch halbdunkle muffige Gemächer,
+durch eine kleine Pforte nach Westen zu auf einen winzigen,
 völlig verwilderten türkischen Friedhof, der an das Haus
 grenzte.
 
-Feierliche Zypressen empfingen uns mit sanftem Rate
-sehen. Vom Hafen her das Heulen von Dampsersircenen.
-Leber uns die Sonne …
+Feierliche Zypressen empfingen uns mit sanftem Rauschen.
+Vom Hafen her das Heulen von Dampfersirenen.
+Über uns die Sonne …
 
-Und wir — wir zwei wehrlose Bündel, der Militär
+Und wir — wir zwei wehrlose Bündel, der Willkür
 dieser Menschen preisgegeben!
 
-Dann warf man uns in lag Gras. Zwei Kerle blieben
+Dann warf man uns in das Gras. Zwei Kerle blieben
 bei uns.
 
 Ich hatte in der Brust die wütendsten Schmerzen, Blutgeschmack
-im Munde. Meine Handgelenke brannten mich
+im Munde. Meine Handgelenke brannten unter
 dem Druck der Drähte wie Feuer. Die Hände quollen
-Legionär auf.
+mir auf.
 
 Kisten brachte das Gesindel herbei, sechs alte Kisten …
 
@@ -756,40 +756,40 @@ Mich verstauten sie in der einen, nagelten den Deckel zu.
 
 Da war ein Astloch …
 
-Ich sah, daß die Kisten durch ein Gittertor, das mich
-morschen Brettern benagelt war, auf eine leere Gasse, zu
-einen Tagelangen geschafft wurden.
+Ich sah, daß die Kisten durch ein Gittertor, das mit
+morschen Brettern benagelt war, auf eine leere Gasse, auf
+einen Tafelwagen geschafft wurden.
 
-Der Armenier fuhr mit uns davon. Die drei Der
-Wisch-Lehrlinge hockten auf den Kisten und trommelten Nil
+Der Armenier fuhr mit uns davon. Die drei Derwisch-Lehrlinge
+hockten auf den Kisten und trommelten mit
 den Hacken dagegen.
 
 Dann sehr bald das Bild des Hafens: ankernde
 Dampfer, zwei hellgraue Kriegsschiffe … unzählige Boote,
-Barken, Segler, Mutorknatwerer …
+Barken, Segler, Motorknatterer …
 
 — Und ein Lastenmotorboot nahm uns auf. Die Kisten
 standen auf dem Hinterdeck.
 
-Mein Gleich zeigte mir »die Vierte vor. Liest
-fett« vom matter aus …
+Mein Guckloch zeigte mir »die Pforte der Glückseligkeit»
+vom Wasser aus …
 
-Das wunderbare Istambul, das bezaubernde Kiisten-bild
+Das wunderbare Stambul, das bezaubernde Küstenbild
 der berühmten alten Stadt zog an mir vorüber …
 
 Ein Meer von Kuppeln, schlanken Türmen, — leuchtender
 <@pagebreak/>
-Marmor im dunklen Grün, zierliche Nieste, neuere
-Bauten ..,
+Marmor im dunklen Grün, zierliche Kioske, neuere
+Bauten …
 
-Unser der Sultan-Valide-Brücke hindurch) ging’s bis
-Zur Nordofifpige der Halbinsel, bis zum Serai Burnu …
+Unser der Sultan-Valide-Brücke hindurch ging’s bis
+Zur Nordostspitze der Halbinsel, bis zum Serai Burnu …
 
-Dann südwärts — am Militär- Hospital vorüber, an
-den weitläufigen Bauten des Ton Sann Serai — hinein
+Dann südwärts — am Militär-Hospital vorüber, an
+den weitläufigen Bauten des Top Kapu Serai — hinein
 ins Marmara-Meer …
 
-Der Turm des »Serasferiat8 winkte herüber, dessen
+Der Turm des Seraskeriats winkte herüber, dessen
 Spitze den höchsten Punkt all dieser Herrlichkeiten darstellt.
 
 Dann bog das ratternde, benzinstinkende Fahrzeug nach
@@ -800,49 +800,49 @@ von Skutari an …
 Lag nun in einem schmalen Bootshafen inmitten
 plumper Segelbarken …
 
-Widerlicher Gestank von faulenden Fischen, von faulenden
+Widerlicher Gestank von faulenden Fischen, von faulendem
 Gemüse, von Teer, Benzin und anderen Düften Drang
 in meinen hölzernen Schwitzkasten …
 
-Die Derwisthjünglinge trommelten noch immer mit
+Die Derwischjünglinge trommelten noch immer mit
 den Hacken gegen die Seitenwand.
 
-Bis man meine Kiste durch eine Ladeluke unter Det
+Bis man meine Kiste durch eine Ladeluke unter Deck
 schaffte und öffnete.
 
 Durch die Luke fiel das Tageslicht herein. Und hier
 sah ich Harald wieder. Hier band man uns mit Draht an
-eine Srorfchenivand in sitzender Stellung, band uns die Füße
+eine Zwischenwand in sitzender Stellung, band uns die Füße
 an rasch eingeschlagene Nägel fest …
 
-Auch der Sprecher war plötzlich Frieden da« Sein breites
+Auch der Sprecher war plötzlich wieder da. Sein breites
 Gesicht leuchtete vor Hohn und Triumph.
 
-»Sie haben uns da ja sein hineingelegt, Mr. Harst,«
+»Sie haben uns da ja fein hineingelegt, Mr. Harst,«
 sagte er boshaft. »Das Ehepaar wollte ja nur den Hof
-photographieren und hatte den Polizeikuccht lediglich aus
-Angst vor dem entlegenen Orte gebeten, ein herrschen bei
+photographieren und hatte den Polizeiknecht lediglich aus
+Angst vor dem entlegenen Orte gebeten, ein Weilchen bei
 ihnen zu bleiben. Na — zum zweiten Male führen Sie uns
-nicht aus Glatteis! Und — dumm sind Sie ach sei
-Wesen! Wir wissen jetzt, daß Sie genau so wenig wie wir
+nicht aufs Glatteis! Und — dumm sind Sie auch gewesen!
+Wir wissen jetzt, daß Sie genau so wenig wie wir
 das Versteck dieses dreimal verdammten Neumann kennen!
 <@pagebreak/>
-Ehe beide sind also wertlos für uns! Nachts werden Sie
-ersäuft …! Da hilft Sehnen sein Gott mehr!«
+Sie beide sind also wertlos für uns! Nachts werden Sie
+ersäuft …! Da hilft Ihnen kein Gott mehr!«
 
 Dann blieben zwei der Derwischschüler bei uns. Der
 Lukendeckel knallte zu.
 
 Finsternis ringsum …
 
-Nur durch ein vcrstaubles kleines Fenster kam ein
+Nur durch ein verstaubtes kleines Fenster kam ein
 wenig Licht herein. —
 
-Das waren Stunden, die man so Teich! nicht vergißt!
-Stunden unerhörter Qual in dieser Hitze unter Der! Die
-Sonne brannte auf die Planken. Man roch den Vibrierenden
+Das waren Stunden, die man so leicht nicht vergißt!
+Stunden unerhörter Qual in dieser Hitze unter Deck! Die
+Sonne brannte auf die Planken. Man roch den schmorenden
 Anstrich. Ohnmachtsanfälle ließen vor meinen Augen
-Lichtbündel Aufzucken …
+Lichtbündel aufzucken …
 
 Damals schwor ich mir zu: wenn Du einen dieser
 Schurken vor den Lauf Deiner Clement bekommst, so ist
@@ -851,18 +851,18 @@ der Kerl erledigt! —
 Ob ich dann einschlief oder wirklich die Besinnung verlor,
 weiß ich nicht …
 
-Laternenschein umspielte plötzlich mein Gesicht «…
+Laternenschein umspielte plötzlich mein Gesicht …
 
-Man hob nicht empor …
+Man hob mich empor …
 
 Trug mich nach oben …
 
 Nacht ringsum … Der Mond stand als schmales
-silbernes Horn über der fernen, alt ehrwürdigen Stadt —
+silbernes Horn über der fernen, altehrwürdigen Stadt —
 ein Halbmond über diesem Mittelpunkt des Reiches der
 Halbmondanbeter, der Türken, Der Mohammedaner …
 
-Zwischen Hierher log ich neben Harald …
+Zwischen Kisten lag ich neben Harald …
 
 Kam zu mir — immer mehr …
 
@@ -871,22 +871,22 @@ Kühler Wind umstrich das dahinschießende Fahrzeug.
 Nordwärts ging’s in den Bosporus hinein.
 
 An Bord bewegten sich vier Gestalten: der Sprecher,
-zwei der Termwifchjünger und der Armenier. Am Steuer
-Blank ein zweiter der fünf Gentlemen.
+zwei der Derwischjünger und der Armenier. Am Steuer
+stand ein zweiter der fünf Gentlemen.
 
-Kaliber den Listen Hvvwurch faule 1d die asiatische
-Küste, Stuart, als funfenbefäted Nachibild beiradjten …
+Zwischen den Kisten hindurch konnte ich die asiatische
+Küste, Skutari, als funkenbesätes Nachtbild betrachten …
 
 Ein Leuchtturm …
 
-Kiß Fandest mit dem Leanderturm … —
+Kiß Kudessi mit dem Leanderturm … —
 
-Hero und Leander - Poesie — Liebe … Tragik …
+Hero und Leander — Poesie — Liebe … Tragik …
 
 <@pagebreak/>
 Und — auch hier eine ungeheure Tragik auf diesem
-Frachtßzoot: zwei Menschen, die in Ledersäcken ersäuft werden
-tollsten! —
+Frachtboot: zwei Menschen, die in Ledersäcken ersäuft werden
+sollten! —
 
 Der Armenier hatte die Säcke schon bereitgelegt, hatte
 Steine hineingetan, rief nun dem Sprecher zu:
@@ -903,7 +903,7 @@ Ich war durch die im Laderaum ausgestandenen Qualen
 viel zu matt, um Angst — Todesangst zu empfinden …
 
 ich war so gleichgültig gegen alles, daß ich mich wunderte,
-Male Harst plötzlich den Knebel, den er irgendwie gelockert
+als Harst plötzlich den Knebel, den er irgendwie gelockert
 haben mußte, mit der Zunge herausstieß und sagte:
 
 »ich möchte noch mit Ihnen sprechen, Wilson, — in
@@ -914,44 +914,45 @@ aus …
 
 »Hund, Du hast …«
 
-Das war so ziemlich sein Wehten Wort …
+Das war so ziemlich sein letztes Wort …
 
-Harald hatte mit einem Male Mr Hände frei …
+Harald hatte mit einem Male die Hände frei …
 
 Die Arme waren hinter dem Rücken vorgeschnellt.
 
-Und — sein Faaisthieb gegen Wilsons Kinn war wie
-ein Echhmiedehammerichlag …
+Und — sein Fausthieb gegen Wilsons Kinn war wie
+ein Schmiedehammerschlag …
 
-Sein zweiter Sich warf den Armenier lber Bord …
+Sein zweiter Hieb warf den Armenier über Bord …
 
-las ging alles so blitzartig, daß die beiden Derwischjünglinge
-und der Mann am Steuer nichts mehr untere
-nehmen konnten …
+Das ging alles so blitzartig, daß die beiden Derwischjünglinge
+und der Mann am Steuer nichts mehr unternehmen
+konnten …
 
 Harst hatte die Clement schon in der Hand …
 
 Man hatte uns die Waffen nicht abgenommen. Sie
 sollten mit uns verschwinden …
 
-Die beiden Tänzers über der frommen Gilde der Heulenden
-warten ihre Mäntel ab lud sprangen ins Wasser. Der
+Die beiden Tanzschüler der frommen Gilde der Heulenden
+warfen ihre Mäntel ab und sprangen ins Wasser. Der
 Mann am Steuer tat dasselbe …
 
 Das Boot knatterte weiter
 
 <@pagebreak/>
-über — jetzt steuerte ich, und Harald fesselte den halb
+Aber — jetzt steuerte ich, und Harald fesselte den halb
 bewußtlosen Mr. Wilson, der etwa vierzehn Zähne eingebüßt
 hatte … Vielleicht auch weniger. Aber zu dem
 Namen Wilson gehört nun mal die Zahl vierzehn: Wilsons
-berüchtigte vierzehn Punkte, der größte Schwindel der Wettgeschichte!
+berüchtigte vierzehn Punkte, der größte Schwindel der
+Weltgeschichte!
 
 Dann wollten wir die vier über Bord Gegangenen
-auffischen. Es jene jedoch zu dunkel. Wir fanden sie nicht.
+auffischen. Es war jedoch zu dunkel. Wir fanden sie nicht.
 Später stellte sich heraus, daß der Armenier ertrunken war.
 
-Wir gaben das Suchen auf, Werften jetzt nach dem
+Wir gaben das Suchen auf, wollten jetzt nach dem
 Hafen von Stambul zurück. Harald stand neben mir am
 Steuer. Wir fuhren westwärts …
 
@@ -959,56 +960,56 @@ Und dann — dann kam … Das andere …
 
 <@pagebreak/>
 
-<h2>4\. Kapitel,</h2>
+<h2>4. Kapitel,</h2>
 
 <h3>Auf dem Grunde des Bosporus,</h3>
 
-Der alte Leanderturm, Kiß Kudessi, lag seht genau
-nördlich von Uns, In der windstillen, etwas wolligen Nacht
-waren wir bei der mmerhin beträchtlichen Dunkelheit Fels
-Nabe auf einen ohne Laternen vor Anker gegangenen kleinen
-Segler ausgeräumt,
+Der alte Leanderturm, Kiß Kudessi, lag jetzt genau
+nördlich von Uns. In der windstillen, etwas wolkigen Nacht
+waren wir bei der immerhin beträchtlichen Dunkelheit beinahe
+auf einen ohne Laternen vor Anker gegangenen kleinen
+Segler aufgerannt.
 
-Haarscharf glich:1en wir an dessen Heck vorüber. Ich
-sah, daß von Der Backbordreling an einer Strickleiter gerne
+Haarscharf glitten wir an dessen Heck vorüber. Ich
+sah, daß von Der Backbordreling an einer Strickleiter gerade
 ein Taucher aus dem Wasser emporstieg.
 
-Einer der ans dem Zubrjeng befindlichen Leute hatte
-Uns frisiert angelt! — In englischer Sprache:
+Einer der auf dem Fahrzeug befindlichen Leute hatte
+Uns wütend angebrüllt — In englischer Sprache:
 
-»Verdammt — nehmt Euch doch in acht! Sperrt dies
+»Verdammt — nehmt Euch doch in acht! Sperrt die
 Augen auf!«
 
-Aber eine andere leisere Stimme wies den Schreien
+Aber eine andere leisere Stimme wies den Schreier
 sofort zurecht:
 
-»Ruhe da vorm! Seid Ihr nicht recht gescheit?!«
+»Ruhe da vorn! Seid Ihr nicht recht gescheit?!«
 
 Dann waren wir schon vorüber …
 
-Harald Pfui glänzt leise Durch Die Zähne …
+Harald Pfiff plötzlich leise Durch Die Zähne …
 
-»Faulheit Du Die zweite Stimme, nein Alters«
-rum er.
+»Kanntest Du Die zweite Stimme, mein Alter?«
+fragte er.
 
-»Bekannt kam sie nie ja vor … wer ist’s?«
+»Bekannt kam sie mir ja vor … wer ist’s?«
 
-»Barring … — Barring, der das Ehepaar Hitzgräfe
+»Barring …, — Barring, der das Ehepaar Hitzgräfe
 <@pagebreak/>
 vom Bahnhof abholte, seine Helfershelfer, seine Spione,
-die und hatten beobachten sollen, schon während der Fahrt.«
+die uns hatten beobachten sollen, schon während der Fahrt.«
 
 Er zog den Hebel des Motors zurück. Die Schraube
 schlug langsamer …
 
 Und fuhr fort: »Ja, die Hitzgräfes waren schon in
-Berlin unsere Nachbarn wohnten möbliert in der Blücherstraße.«
+Berlin unsere Nachbarn, wohnten möbliert in der Blücherstraße.«
 Er lachte ironisch auf. »Es gibt noch immer
-Leute, die mich so richtig eintaxieren, daß sie glauben, ich
+Leute, die mich so niedrig eintaxieren, daß sie glauben, ich
 hätte ein miserables Personengedächtnis. Es machte mir
 viel Spaß, das harmlose, verliebte Getue des Pärchens
-während der Eisenvbahnfahrt zu … belauern Hin und
-wieder verrieten sie Ah. Ich wußte schon zwei Meilen hinter
+während der Eisenbahnfahrt zu … belauern. Hin und
+wieder verrieten sie sich. Ich wußte schon zwei Meilen hinter
 Wien, was ich von den Herrschaften zu Halten hätte …«
 
 »und verheimlichtest mir das …!«
@@ -1029,7 +1030,7 @@ die Aufschrift enthielt:
 
 so kann man unschwer zu dem Schluß gelangen, die Kiste
 drei könnte dort im Bosporus liegen, wo der Taucher arbeitet,
-das heißt; der Taucher will sie heben — die Kiste
+das heißt: der Taucher will sie heben — die Kiste
 mit den falschen Banknoten …«
 
 Das leuchtete mir ein.
@@ -1038,12 +1039,12 @@ Das leuchtete mir ein.
 verlassen und mich schwimmend an den Segler heranschleichen.
 Ich bin überzeugt, daß Barring unseren Auftraggeber
 Maximilian Neumann »geschnappt« hat und gefangen
-hält. zu weißt ja; Wilson, der da soeben wieder
-lebendiger wird und um seinen Fesseln zerrt, — dieser
+hält. Du weißt ja: Wilson, der da soeben wieder
+lebendiger wird und an seinen Fesseln zerrt, — dieser
 edle Wilson sprach uns gegenüber als Tatsache aus, daß
 <@pagebreak/>
-Mazxiniilian samt den beiden braunen Halunken seit Tagen
-verschwanden ist.« —
+Maximilian samt den beiden braunen Halunken seit Tagen
+verschwunden ist.« —
 
 Es hat alles in allem sehr selten bei unseren Erlebnissen
 eine Gelegenheit gegeben, wo ich meinem Herrn und
@@ -1053,95 +1054,95 @@ seine Pläne aussichtsreicher gestaltete.
 Hier war es der Fall.
 
 Zunächst gefiel es mir nämlich gar nicht, daß Harald
-Oh allein an den Segler heranmachen wollte. Aus diesem
+sich allein an den Segler heranmachen wollte. Aus diesem
 Mißbehagen, das halb Angst um Harst war, halb wieder
-auch Achsel, hier an Bord des Motorbootes untätig zurückbleiben
-zu müssen, — aus diesem Müißbehagen entsprang
-dann ein Gedanke, den ich Harald sofort in kurzen Ums
-rissen mitteilte.
+auch Ärger, hier an Bord des Motorbootes untätig zurückbleiben
+zu müssen, — aus diesem Mißbehagen entsprang
+dann ein Gedanke, den ich Harald sofort in kurzen Umrissen
+mitteilte.
 
 Und — Harald war entzückt, begeistert …
 
-»famos, Alterchen, — machen wir!« erklärte er. »Vors
-abwärts denn! Paar haben keine Zeit zu verlieren!«
+»famos, Alterchen, — machen wir!« erklärte er. »Vorwärts
+denn! Wir haben keine Zeit zu verlieren!«
 
-Der Motor kucatterte lebhafter. Harst steuerte jetzt. Er
+Der Motor knatterte lebhafter. Harst steuerte jetzt. Er
 wußte hier besser Bescheid.
 
-Auf der Reede diesseits der Sultan-Valide-Brücke Tag
-eine ganze Anzahl großer Secdampser vor Anker. Wir
+Auf der Reede diesseits der Sultan-Valide-Brücke lag
+eine ganze Anzahl großer Seedampfer vor Anker. Wir
 fanden ein holländisches Schiff. Wir riefen die Bordwache
-an. Nach kurzer Verständigung nahmen sie uns an Dr.
-Wir verwandelten Mr in der Kabine des ersten Öteuer«
-Juni zwei Überaus ehe, abgerissene, struppige Schwarze
-meersischer, Unseren Gefangenen, unser Gepäck versprach
-man gut auszuheben. Haralds Ausweis hatte Wunder gewirkt.
+an. Nach kurzer Verständigung nahmen sie uns an Deck.
+Wir verwandelten uns in der Kabine des ersten Steuermanns
+in zwei Überaus echte, abgerissene, struppige Schwarzmeerfischer.
+Unseren Gefangenen, unser Gepäck versprach
+man gut aufzuheben. Haralds Ausweis hatte Wunder gewirkt.
 —
 
 Dann fuhren wir wieder davon — südwärts, ließen
-unweit der Serai-Landkarte unser Motorboot an einer Anlegestelle
-zurück und »lichten« uns einen elenden Nachen, das
-Heißt, wir ketteten ihn los und ruderten oftiwärt3 — Dorfe
-hin, wo im Dunkel der schwören Nacht Tiegel Barrings
-Tauschen nach der Kiste Nr. drei auf dem Grunde des VBos-porus
-Tuche.
+unweit der Serai-Landspitze unser Motorboot an einer Anlegestelle
+zurück und »liehen« uns einen elenden Nachen, das
+Heißt, wir ketteten ihn los und ruderten ostwärts — dorthin,
+wo im Dunkel der schwülen Nacht Lionel Barrings
+Taucher nach der Kiste Nr. drei auf dem Grunde des Bosporus
+suchte.
 
-Ufer Programm war so einfach wie möglich. Das
+Unser Programm war so einfach wie möglich. Das
 <@pagebreak/>
 Gelingen hing von Harald ab, der im Vertrauen darauf,
-daß die Leute an Bord des Segler sämtlich Europäer seien
-und der türkischen Sprache nicht mächtig (wie wirst), im
+daß die Leute an Bord des Seglers sämtlich Europäer seien
+und der türkischen Sprache nicht mächtig (wie wir!!), im
 Levantiner Hafenidiom sich mit Barring verständigen wollte,
 also in einem Mischmasch aller möglichen Sprachbrocken,
 während ich den Taubstummen zu spielen hatte.
 
-Schlimmstenfalls hatten wir ja unsere Elemente bei
-uns, deren Draisine Mundart fraglos überzeugend wirken
+Schlimmstenfalls hatten wir ja unsere Clements bei
+uns, deren knallige Mundart fraglos überzeugend wirken
 würde, —
 
-So — — ramımten wir denn, wie durch Ungeschick, in
+So — — rammten wir denn, wie durch Ungeschick, in
 der Dunkelheit den Segler an der Backbordseite mit solcher
-Kraft, daß unser Nachen, die erwartet, dabei zum Teufel
+Kraft, daß unser Nachen, wie erwartet, dabei zum Teufel
 ging und wir beiden abgerissenen Kerle gerade noch die
 Strickleiter zu packen bekamen.
 
 Dieser Besuch schien nun sowohl Barring als auch dem
 Herrn Doktor Hitzgräfe äußerst unangenehm zu sein.
 
-Hibgräsfe fluchte wie ein be…trunkener Maat. Barring
+Hitzgräfe fluchte wie ein be…trunkener Maat. Barring
 musterte uns mit mißtrauischen Blicken, sah aber natürlich
-bei der fihtvadhen Beleuchtung durch Mondsichel und
+bei der schwachen Beleuchtung durch Mondsichel und
 Sterne so gut wie nichts.
 
 Dafür überschüttete Harald die beiden mit einem nicht
 endenwollenden Schwall von blumigen Redensarten, kauderwelschte
 Entschuldigungen und benahm sich so außerordentlich
-acht und aufgeregt, daß Barring, der die Luftpumpe
+echt und aufgeregt, daß Barring, der die Luftpumpe
 der Taucherausrüstung ununterbrochen bediente, schließlich
 erklärte:
 
 »Gut, wenn Du brauner langer Lump mal in Odessa
 Hafentaucher gewesen bist, könnt Ihr vorläufig an Bord
 bleiben. Unser Taucher hält den Wasserdruck hier in zehn
-nagen diese sehr schlecht aus und kommt alle Augenblicke
+Meter Tiefe sehr schlecht aus und kommt alle Augenblicke
 nach oben …
 
-man sich!: Harald hatte wiesen Mai das Einige ge
-Trossen, als er mit seiner Ausbildung als Taucher jenem.
-blamiert hatte! —
+man sieht: Harald hatte wieder mal das Richtige getroffen,
+als er mit seiner Ausbildung als Taucher renommiert
+hatte! —
 
 Inzwischen war denn auch Barrings Taucher wieder
 <@pagebreak/>
 auf der Strickleiter erschienen, kletterte an Deck und ließ sich
-den Siupferbelm abschrauben.
+den Kupferhelm abschrauben.
 
-Wer beschreibt unter Erstaunen, als wir Mr! dieses
-Tauchers seines Stimmchen vernahmen!! Es war — —
-Anni Hiperäfell —
+Wer beschreibt unser Erstaunen, als wir nun dieses
+Tauchers feines Stimmchen vernahmen!! Es war — —
+Anni Hitzgräfe!! —
 
 Nun Minuten später war der Segler an dem langen
-Ankertau zehn Asketen weiter fröhlich feftgeleut worden, und
-Harald Wetterte im Taucheranzug die Strickleiter hinab,
+Ankertau zehn Meter weiter südlich festgelegt worden, und
+Harald kletterte im Taucheranzug die Strickleiter hinab,
 schaltete die elektrische Lampe erst unter Wasser ein und
 blieb eine volle Viertelstunde unten.
 
@@ -1150,38 +1151,38 @@ sich unten auf dem Grunde umzusehen, — einer Kiste, auf
 die eine lateinische Drei gemalt sei.
 
 Daß mir, der ich als Taubstummer oben unbeachtet an
-der Reling fand und ins Wasser hinab stierte, bei alledem
+der Reling stand und ins Wasser hinab stierte, bei alledem
 nicht wohl war, wird jeder leicht begreifen.
 
 Wenn Barring zum Beispiel auch nur den leisesten
-Verdcicht geschöpft hatte, dann befanden wir uns hier in
-einer Falle, im Vergleich zu der unser Ginsangdabenteuer
-im Hanse Ibrahims eine Partie Skat mit unbegabter!
+Verdacht geschöpft hatte, dann befanden wir uns hier in
+einer Falle, im Vergleich zu der unser Eingangsabenteuer
+im Hause Ibrahims eine Partie Skat mit unbegabten
 Gegnern gewesen!
 
-Nun — Barring war harmlos Das merkte ich sehr
+Nun — Barring war harmlos. Das merkte ich sehr
 bald. Auch ich hatte mich ja durchaus zweckmäßig benommen
 und Haralds Kauderwelsch mit den lebhaften
 Gesten und Zeichen unterstützt. Man hielt mich in der Tat
-für taubfiunen. Mauerloch und Hitzgräfe sowie der dritte
-noch an Bord befindliche Eqtropäer, ein blondbärtiger kleiner
-Kerl, sprachen ganz unbelünmmert über ihre Pläne, und
-Anni Hißpgräfe gab auch noch ihren Senf dazu.
+für taubstumm. Barring und Hitzgräfe sowie der dritte
+noch an Bord befindliche Europäer, ein blondbärtiger kleiner
+Kerl, sprachen ganz unbekümmert über ihre Pläne, und
+Anni Hitzgräfe gab auch noch ihren Senf dazu.
 
 Allerdings war aus diesen abgehackten Bemerkungen
 nicht allzu viel zu entnehmen.
 
-Erfreut: daß Anni nicht echt Hitzgräfes Frau, sondern
+Erstens: daß Anni *nicht* Hitzgräfes Frau, sondern
 Artistin war und ihre Ausbildung als Taucher nur zu
 einer Varieteenummer erhalten Hatte. — Dann: Barring
-weilte seit einem Monat unter dem Namen eines Strafen
+weilte seit einem Monat unter dem Namen eines Grafen
 d’Oglia in Stambul und hatte ganz zufällig mal den Mr.
 <@pagebreak/>
-Riffen und Werften Hunmpane belauscht und so erfahren, daß
-He in Berlin hergestellte falsche englische Banknoten von
-vorzüglicher Muzführumna hier ablegen Umritten Drittens
-Barring hatte (und Da? war das wichtigste!) unseren Marie
-Maximilian Neumann »gescschnappl« und irgendwo eingekerkert, -
+Wilson und dessen Kumpane belauscht und so erfahren, daß
+sie in Berlin hergestellte falsche englische Banknoten von
+vorzüglicher Ausführung hier absetzen wollten. — Drittens:
+Barring hatte (und Das war das wichtigste!) unseren
+Maximilian Neumann »geschnappt« und irgendwo eingekerkert, —
 Wo, — das erwähnten die Herrschaften leider nicht! —
 
 Dann gab Harald von unten mit der Signalleine ein
@@ -1192,27 +1193,27 @@ erfreut! »Der Kerl hat die Kiste wahrhaftig gefunden!«
 
 Ich Half …
 
-Wirr zogen und zogen …
+Wir zogen und zogen …
 
 Dann plätscherte das Wasser …
 
-Dann — rauchte ein … Krater Sack auf …
+Dann — tauchte ein … großer Sack auf …
 
-»Verdammt!« fluchte Hitzgräfe, alt der Sack auf den
-Veranlagten Tag …
+»Verdammt!« fluchte Hitzgräfe, als der Sack auf den
+Deckplanken lag …
 
-Aber — Von wieder ein Signal mit der Leine …
+Aber — schon wieder ein Signal mit der Leine …
 
-»Wir sollen das Tau Wichen hinablassen,« meinte
-Barring, der von den vieren am entlassen blieb.
+»Wir sollen das Tau wieder hinablassen,« meinte
+Barring, der von den vieren am ruhigsten blieb.
 
-Das Tag sank an der Bordwand entlang in die Tiefe,
+Das Tau sank an der Bordwand entlang in die Tiefe,
 wo ein schwacher Lichtschimmer uns zeigte, daß Harald sich
 senkrecht unter uns befand.
 
-Er bekam das Tau auch zu fassen, und der Licht
-Schimmer jvanderte weiter vom Schiefe ab! Harst entfernte
-sich abermals, Apathie also noch einen zweiten Gegenstand
+Er bekam das Tau auch zu fassen, und der Lichtschimmer
+wanderte weiter vom Schiffe ab: Harst entfernte
+sich abermals, mußte also noch einen zweiten Gegenstand
 gefunden haben. —
 
 Barring schnürte den Ledersack auf.
@@ -1223,40 +1224,40 @@ Hitzgräfe leuchtete mit einer halb abgeblendeten Laterne
 Dann — fuhr Barring zurück …
 
 Er hatte den Kopf einer weiblichen Leiche freigelegt,
-den Kopf Eier Enrshyätrin. …
+den Kopf einer Europäerin …
 
 <@pagebreak/>
 
-<h2>5\. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 
-<h3>In den Gewölben des Jedi Hufe, des Schlosses
+<h3>In den Gewölben des Jedi Kule, des Schlosses
 der sieben Türme,</h3>
 
-Hitzgräfes Laterne warf rötlichen Lichtschein auf vum-ausgedunsene,
-schrecklich entstellte Gesicht.
+Hitzgräfes Laterne warf rötlichen Lichtschein auf das
+aufgedunsene, schrecklich entstellte Gesicht.
 
-Die Artistin Anni war mit einem Schrei des Entseßens3
-gegen mich getaumelt, der — ich prahle nicht — legt doch der
+Die Artistin Anni war mit einem Schrei des Entsetzens
+gegen mich getaumelt, der — ich prahle nicht — jetzt doch der
 Kaltblütigste hier an Bord des Seglers war, oder besser:
-der, dem der Anblick der entrichten Toten am wenigsten
+der, dem der Anblick der entstellten Toten am wenigsten
 etwas anhaben konnte!
 
-Wir, Harald und ich, hatten Sehen ganz andere Leichen
-als diese gesehen. Licht als das: wir hatten uns über halb
-beorderte Körper gebeugt und deren Kleidung durchsucht!
-Ich denke da nur an unser australische3 Abenteuer, das erst
-l’urze Zeit zurücklag, an die Motorjacht ohne Namen, die
+Wir, Harald und ich, hatten schon ganz andere Leichen
+als diese gesehen. Mehr als das: wir hatten uns über halb
+verweste Körper gebeugt und deren Kleidung durchsucht!
+Ich denke da nur an unser australisches Abenteuer, das erst
+kurze Zeit zurücklag, an die Motorjacht ohne Namen, die
 uns nach der Insel der Seligen geführt hatte! Das halbe
-Skelett, das aus der Jacht an den Mast gebunden war und
-das Deck verpestete, war eine Probe auf krankhafte Nerven
-gewesen! — Der Leser wird sich aus diese Einzelheiten des
-sinnen. Ich habe in Wand 108 diesen grauenvollen Fund
+Skelett, das auf der Jacht an den Mast gebunden war und
+das Deck verpestete, war eine Probe auf standhafte Nerven
+gewesen! — Der Leser wird sich auf diese Einzelheiten
+besinnen. Ich habe in Band 108 diesen grauenvollen Fund
 eingehend beschrieben. —
 
-Geiz — auch diese blonde Tote hier in den Ledersack,
-der mit Steinen beschwert war, bot einen grauenvollen An-bi
+Gewiß — auch diese blonde Tote hier in dem Ledersack,
+der mit Steinen beschwert war, bot einen grauenvollen Anblick
 <@pagebreak/>
-dar. Und doch wird dem Absinth«- oder Liebhaberdetektiv
+dar. Und doch wird dem Berufs- oder Liebhaberdetektiv
 eine derartige unbekannte Tote deshalb stets weniger
 die Nerven vor Grauen vibrieren machen als einem
 anderen Zeugen des Wiederauftauchens eines heimtückisch
@@ -1265,7 +1266,7 @@ der Bosporus stets gewesen, absichtlich versenkten Weibes.
 Der Detektiv bleibt Beobachter, bleibt Grübler, sinnt sofort
 über das Wer?, Wie!, Warum? nach, läßt seine geübten
 Gedanken sofort Bahnen einschlagen, die ihn von dem
-tragischen Schauspiel selbst ablenken. —«
+tragischen Schauspiel selbst ablenken. —
 
 Anni, die Artistin, hatte in ihrem ersten Schreck meinen
 Arm umklammert. Erst Barrings leiser Ausruf: »Da —
@@ -1275,19 +1276,19 @@ sie zur Besinnung. —
 Das Tau wurde eingeholt. Unten war — — die Kiste
 befestigt.
 
-Hipgräfe vergaß die Leiche, jubelte: »Wir haben sie,
+Hitzgräfe vergaß die Leiche, jubelte: »Wir haben sie,
 Graf! Wir Haben sie!«
 
-Der angebliche Graf d’Oglia Half Die Kiste an Det
+Der angebliche Graf d’Oglia Half Die Kiste an Deck
 heben und sagte leise:
 
-»Die beiden schmierigen Kerle werde ich reich beschen-len.
-Wir sehen sie an der Station Jedi Kule an Land. Die
+»Die beiden schmierigen Kerle werde ich reich beschenken.
+Wir setzen sie an der Station Jedi Kule an Land. Die
 Leiche werfen wir wieder ins Wasser. Was geht die Tote
 uns an?!«
 
-Harst kam die Strickleiter empor, stieg an Det. Kiß
-Träfe schraubte ihm den Helm ab, half ihm aus dem wasserdichten
+Harst kam die Strickleiter empor, stieg an Deck. Hitzgräfe
+schraubte ihm den Helm ab, half ihm aus dem wasserdichten
 Anzug. Barring band den Ledersack wieder zu.
 
 Dann wandte er sich an Harald.
@@ -1295,11 +1296,11 @@ Dann wandte er sich an Harald.
 »He, weshalb hast Du uns den Sack hochhissen lassen,
 Freundchen?! Da — wirf ihn wieder in den Bosporus.«
 
-Harst begann mit Händen und Armen wild herun1zzu-suchteln.
+Harst begann mit Händen und Armen wild herumzufuchteln.
 
 »Mister, Master werden Sack mitnehmen. Studenten
 zahlen in Istambul viel Geld für Tote. Ich armer Fischer
-bin … Mutter werden mir nicht verhindern ein wenig Verdienst
+bin … Mister werden mir nicht verhindern ein wenig Verdienst
 …«
 
 <@pagebreak/>
@@ -1310,29 +1311,29 @@ wir diese Nacht hier vorhatten,«
 
 Harst lamentierte weiter. »Mister, ich kenne berühmten
 Hekim (Arzt), der noch mehr zahlt und ganz verschwiegen
-ist. Mutigen und ich (er deutete auf mich) werden schmelzen,
+ist. Mustafa und ich (er deutete auf mich) werden schweigen,
 Mister. Wir nicht wollen haben zu tun mit Policeman,
 gar nicht. Wir … Schmuggler sind, Mister …«
 
 Barring zuckte die Achseln.
 
 »Meinetwegen! Schafft den Sack aber unter Deck und
-Werft Netze darauf!«
+werft Netze darauf!«
 
 So bewahrte Harst die unbekannte Tote vor dem erneuten
 Hinabsinken in die Tiefen des Bosporus. So schuf
-er die Möglichkeit, die Unbekannte zum Ausgangspunlkt
+er die Möglichkeit, die Unbekannte zum Ausgangspunkt
 von Ermittlungen zu machen, durch die ihr Tod volle Aufklärung
 erhalten sollte. —
 
 Der Anker wurde eingezogen. Der kleine Segler hatte
 einen Hilfsmotor. Die Positionslaternen brannten nun,
-und langsam kroch das Fahrzeug mit arbeitenden Motor
+und langsam kroch das Fahrzeug mit arbeitendem Motor
 südwärts ins Marmara-Meer, bog nach Westen ab und
 landete außerhalb der alten Befestigungsmauern Konstantinopels
 unweit der Eisenbahnstation Jedi Kule an einsamer
 Uferstelle, wo Büsche und Bäume bis an das durch
-Ballen und Bretter befestigte Ufer heranreichten.
+Balken und Bretter befestigte Ufer heranreichten.
 
 Hier händigte Barring Harald ein Päckchen Scheine
 aus. Hier mußten wir mit dem Ledersack und der Leiche
@@ -1343,16 +1344,16 @@ Dann nahm er die unheimliche Last auf den Rücken und
 schlich davon. Ich blieb hinter ihm.
 
 Aber kaum fünfzig Meter vom Ufer ab legte er den
-Ja rasch in ein Gestrüpp am Fuße einer halb eingestürzten
+Sack rasch in ein Gestrüpp am Fuße einer halb eingestürzten
 Mauer.
 
 »Kehrt!« flüsterte er …
 
-Wir kamen gerade Roh zur rechten Zeit …
+Wir kamen gerade noch zur rechten Zeit …
 
 <@pagebreak/>
-Wir beobadjteten von Land aus, daß Barring aus
-der geöffneten Kiste eine Menge Blücher in zwei Rucksäcke
+Wir beobachteten von Land aus, daß Barring aus
+der geöffneten Kiste eine Menge Bücher in zwei Rucksäcke
 verstaute, mit denen sich dann der »Herr Graf« und der kleine
 Blonde beluden.
 
@@ -1365,19 +1366,19 @@ weiter nachzuschleichen.
 
 Sie mieden die gebahnten Wege, näherten sich im
 Bogen nach Westen zu dem Schlosse der sieben Türme, an
-dessen Ruinen mir ten Jahren stellenweise sich hohe, dichte
+dessen Ruinen mit den Jahren stellenweise sich hohe, dichte
 Gestrüppmassen gebildet hatten.
 
 in eins dieser Dickichte drangen Die beiden, nachdem
 sie ein paar Zweige eines stachligen Baumes beiseite gebogen
 Hatten, kriechend ein.
 
-Nun endlich Tone auch ich meinen Trumpf ausspielen,
+Nun endlich konnte auch ich meinen Trumpf ausspielen,
 flüsterte:
 
-»Barring bat Maximilian Neumann gefangen genommen,
+»Barring hat Maximilian Neumann gefangen genommen,
 wie ich aus den Gesprächen der vier entnahm, und
-dies hier dürfte das Versteck! sein, wo unser Auftraggeber
+dies hier dürfte das Versteck sein, wo unser Auftraggeber
 eingekerkert ist!«
 
 Harald schwieg dazu.
@@ -1391,34 +1392,34 @@ Gang, kamen so an die Grundmauer eines der Türme
 und an ein bogenförmiges, halb mit Schutt ausgefülltes
 Loch …
 
-Harsts Taschenlampe, durch Mr Hand zum größten
-Teil verdeckt, schickte einen schmalen Lichestrahl eine bröckelige
+Harsts Taschenlampe, durch die Hand zum größten
+Teil verdeckt, schickte einen schmalen Lichtstrahl eine bröckelige
 Steintreppe hinab.
 
-Wir horchten, klommen lautlos, jeden Schritt des
-Lehnend, abwärts …
+Wir horchten, klommen lautlos, jeden Schritt berechnend,
+abwärts …
 
-erfanden uns In einem schmalen Gewölbe …
+Befanden uns In einem schmalen Gewölbe …
 
 <@pagebreak/>
 Gingen weiter — den Stimmen nach, die vor uns
-Itvenetwo in, Wurden …
+irgendwo laut Wurden …
 
-Und dann — komm eine enge Türöffnung — ein Lichtschein
+Und dann — dann eine enge Türöffnung — ein Lichtschein
 — ein zweites Gewölbe …
 
-Fünf Menschen in der einen Ecke .„… Brei davon gefesselt,
+Fünf Menschen in der einen Ecke … drei davon gefesselt,
 Zwei waren Araber, dergleichen, — einer ein Europäer,
-ein großer, breitschultriger Dann mit vollem Haupthaar,
-blondem Spipbart, frischem, treuherzigem Gesicht:
-Maximilian Neumann!!! Unser Landsmann!!
+ein großer, breitschultriger Mann mit vollem Haupthaar,
+blondem Spitzbart, frischem, treuherzigem Gesicht:
+Maximilian Neumann!! Unser Landsmann!!
 
 Und er sagte gerade auf Englisch zu Barring:
 
-»Sinai, ich betone vor(malt: ich habe nie mit diesen
+»Graf, ich betone nochmals: ich habe nie mit diesen
 Banknotenfälschern etwas zu tun gehabt. Es ist mir unbegreiflich,
 wie in eine für mich bestimmte Sendung falsches
-Papiergeld Dineingeichninagelt worden irrt«
+Papiergeld hineingeschmuggelt worden ist!«
 
 Und — Barring lachte ungläubig …
 
@@ -1426,15 +1427,15 @@ So lernten wir Freund Maximilian, den Absender der
 neben mir liegenden Postkarten, kennen … —
 
 Der zweite Teil des Geheimnisses des Bosporus aber
-bis den Titel erhalten, den der Leser auf der nächsten Seite
-bindet …
+soll den Titel erhalten, den der Leser auf der nächsten Seite
+findet …
 
 <@pagebreak 35/>
 
 <h1>Die Frau im Sack.</h1>
 
-<h2>1\. Kapitel.</h2>
-<h3>Wir nur als Lausqyexc.</h3>
+<h2>1. Kapitel.</h2>
+<h3>Wir nur als Lauscher.</h3>
 
 Ah will das nun folgende Gespräch zwischen Barring
 und unserem Maximilian hier ohne jede Zwischenbemerkung
@@ -1443,8 +1444,8 @@ Wiedergeben,
 Barring: »Sie haben bisher gelogen und Fügen Weiter,
 Mr. Neumann. Ich behaupte, Sie flehen Zeit Langem mit
 den Fälschern im Bunde, Die aus der Stantödruderei in
-London außrangierie Bantnotendrucdplatten und ebenso
-Danfnotenpapier gestohlen haben und aus diese Weise in
+London außrangierie Banknotendruckplatten und ebenso
+Banknotenpapier gestohlen haben und aus diese Weise in
 Berlin Falsifikate herstellen konnten, die von den echten
 Scheinen kaum zu unterscheiden sind.«
 
@@ -1562,7 +1563,7 @@ von wo man sie später in Kisten aus ein Lastboot schaffte.
 Wo sie dann geblieben sind, weiß ich nicht. Jedenfalls:
 sie sind gut ausgehoben!«
 
-N. (von seiner Kiste hocschnellend): »Die Schurken
+N. (von seiner Kiste hochschnellend): »Die Schurken
 werden meine Landsleute ersäufen!! Graf, ich biete Ihnen
 (tausend Pfund, wenn Sie mich sofort freilassen, damit ich
 Harst und Schraut retten lang! Ich habe sie hierher gebeten,
@@ -1923,7 +1924,7 @@ Sie wissen, daß ich nicht von Hier fliehen und auch nicht
 dulden werde, daß Latrome, Anni fanden und Blaurote
 von hier entweichen, Begreifen Sie, daß ich, der den
 Taucherapparat hergab, mit dessen Hilfe Sie die Leiche
-fanden, gern die Enträtfelung dieses …«
+fanden, gern die Enträtselung dieses …«
 
 Harald unterbrach ihn:
 
@@ -1963,7 +1964,7 @@ Es oval seit drei Uhr morgens..,
 Palaste, Moscheen, weite Pläne, — dann wieder düstere
 Häuser, ärmliche Hütten, — und abermals die ganze siun-berücfende
 Pracht und phantastische Großzügigkeit morgei-ländischer
-Riesenbauten: all das genossen wir wie halb-dunfle
+Riesenbauten: all das genossen wir wie halbdunkle
 Traumbilder beim Gange durch das nächtliche Stambul
 …
 
@@ -2119,7 +2120,7 @@ immer durch ein paar Brocken »echt Berlinsch« verriet.
 Wir aßen, tranken. Maximilian erzählte seine Lebensgeschichte:
 armer Eltern Kind, Buchhänudlerlehrling, Unter-nebmung8ägcist,
 Véandertrieb, Reise nach Stambul mit fünf
-hundert Mark Kapital, Bahnhofsbuchläudler, Stolperten,
+hundert Mark Kapital, Bahnhofsbuchhäudler, Stolperten,
 langsamer Ausstieg, Erwerb dieses Hauses, eigener Laden
 mit kleiner Druckerei für Gefdäfispapiere, Offerten und so
 weiter. Der Arien hatte ihn nicht lief angetan. Und nun
@@ -2248,7 +2249,7 @@ Partei Wilsons, den Grafen, und die nächtliche Taucherarbeit.
 So nahten wir uns dem Südwestende Stambuls, Bar
 men an der Station Jedi Kule vorüber, sahen die Teich des
 Momente glitzernde Wasserfläche des Marmara-Meeres und
-hielten auf einem Wege, der nach den nördlichen Fricd-böfen
+hielten auf einem Wege, der nach den nördlichen Friedhöfen
 führte.
 
 Wir stiegen aus, Die verlassene Mauer und das Goß
@@ -2811,8 +2812,8 @@ Maximilian Neumann als halber Held eines Harst-Abenteuers
 — — nicke hätte ich mir das träumen lassen!
 — Da ich weiß, daß Eure Detektivkasse nie prall gefüllt
 <@pagebreak/>
-ist, sende ich Euch beiden liebe: Kerlen ein Extrahouorar!
-Trinkt dafür auf mein Wohl ein paar Buddeln Scham-pus
+ist, sende ich Euch beiden liebe: Kerlen ein Extrahonorar!
+Trinkt dafür auf mein Wohl ein paar Buddeln Schampus
 … —
 
 
