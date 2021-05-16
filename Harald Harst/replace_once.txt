@@ -29,6 +29,5 @@
 \bSaß\b	Satz
 \bSeht\b	Jetzt
 \bTer\b	Der
-\bver\b	der
 \bvor!\b	dort
 \bwirft\b	wirst
