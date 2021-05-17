@@ -771,7 +771,7 @@ Barken, Segler, Motorknatterer …
 — Und ein Lastenmotorboot nahm uns auf. Die Kisten
 standen auf dem Hinterdeck.
 
-Mein Guckloch zeigte mir »die Pforte der Glückseligkeit»
+Mein Guckloch zeigte mir »die Pforte der Glückseligkeit«
 vom Wasser aus …
 
 Das wunderbare Stambul, das bezaubernde Küstenbild
@@ -1437,35 +1437,35 @@ findet …
 <h2>1. Kapitel.</h2>
 <h3>Wir nur als Lauscher.</h3>
 
-Ah will das nun folgende Gespräch zwischen Barring
+Ich will das nun folgende Gespräch zwischen Barring
 und unserem Maximilian hier ohne jede Zwischenbemerkung
 Wiedergeben,
 
-Barring: »Sie haben bisher gelogen und Fügen Weiter,
-Mr. Neumann. Ich behaupte, Sie flehen Zeit Langem mit
-den Fälschern im Bunde, Die aus der Stantödruderei in
-London außrangierie Banknotendruckplatten und ebenso
-Banknotenpapier gestohlen haben und aus diese Weise in
+Barring: »Sie haben bisher gelogen und lügen Weiter,
+Mr. Neumann. Ich behaupte, Sie stehen seit langem mit
+den Fälschern im Bunde, Die aus der Staatsdruckerei in
+London ausrangierte Banknotendruckplatten und ebenso
+Banknotenpapier gestohlen haben und auf diese Weise in
 Berlin Falsifikate herstellen konnten, die von den echten
 Scheinen kaum zu unterscheiden sind.«
 
 M. Neumann (etwas ironisch): »Ich bin Ihnen für
 diese Angaben sehr dankbar, Graf. Leider muß ich Ihre
 Hoffnung, daß etwa ich im Besitz eines ganzen Lagers dieser
-Kälschungen bin, zerstören. Ich gebe Ihnen mein Wort,
-Graf, das Wort eines Eiieninamiish, Hab ich ist van Las
-fern nicht im Bunde siehe.«
+Fälschungen bin, zerstören. Ich gebe Ihnen mein Wort,
+Graf, das Wort eines Ehrenmannes, daß ich mit den Fälschern
+*nicht* im Bunde stehe.«
 
-B.: »Der Ausdruck Ehrenmann ist lächerlich, Mr. Neus-mann,
-Ein Mann ist so lange Ehrenmann, als er sich) die
+B.: »Der Ausdruck Ehrenmann ist lächerlich, Mr. Neumann.
+Ein Mann ist so lange Ehrenmann, als er sich nicht
 <@pagebreak/>
-ertappen läßt. Sie sind ertappt worden. Ich lade eine
+ertappen läßt. Sie sind ertappt worden. Ich habe eine
 Unterhaltung zwischen einem gewissen Wilson, den Sie wohl
 kennen dürften, und …«
 
-N.: »ich kenne nur einen Wilson, und zwar den Er
-Präsidenten der Vereinigten Staaten von Nordamerika, dem
-Namen nach, den Herrn mit den … vierzehn. Punkten …«
+N.: »Ich kenne nur einen Wilson, und zwar den Expräsidenten
+der Vereinigten Staaten von Nordamerika, dem
+Namen nach, den Herrn mit den … vierzehn Punkten …«
 
 B.: »Lassen Sie mich gefälligst ausreden, Mr. Neumann,
 — Wilson und ein anderer dunkler … Ehrenmann
@@ -1474,17 +1474,17 @@ die Sie aus Berlin erwarteten. Es ging aus ihrer
 Unterhaltung hervor, daß unter den sieben Kisten Büchern
 sich eine befände, die durch eine römische Drei gekennzeichnet
 war. Diese Kiste enthielt die falschen Scheine. — Na —
-was sagen Sie nun dazu 7«
+was sagen Sie nun dazu?«
 
-N. (etwas erregt): »Ich sage: Ich bin sein Verbrecher!
-Ich weiß nur, daß ich leider, leider mich verleiten Tief, ins
-sofern die Begehe zu übertreten, als ich die sieben Kisten
-nicht verzollen wollte und durch Besteclsaing auch erreichte,
-daß sie von Galata ans, wo sich das Heupizollamt befindet,
-umhin Tibet den Bosporus nach Skutari und von da einen
-Tag später in weinen Laden geschafft wurden. Diese Fahrt
+N. (etwas erregt): »Ich sage: Ich bin kein Verbrecher!
+Ich weiß nur, daß ich leider, leider mich verleiten ließ, insofern
+die Gesetze zu übertreten, als ich die sieben Kisten
+nicht verzollen wollte und durch Bestechung auch erreichte,
+daß sie von Galata aus, wo sich das Hauptzollamt befindet,
+nacht über den Bosporus nach Skutari und von da einen
+Tag später in meinen Laden geschafft wurden. Diese Fahrt
 von Galata nach Skutari über Den Bosporus sollte jedoch
-mir insofern einen Verlust bringen, als eine der Stiften
+mir insofern einen Verlust bringen, als eine der Kisten
 spurlos verschwand.«
 
 B.: »Sie sind ein glänzender Heuchler, Mr. Neumann!!«
@@ -1493,62 +1493,62 @@ N. (wütend): »Ich verbitte mir diese Unverschämtheiten!«
 
 B.: »Sie spielen den Ehrenmann vorzüglich! — Die
 Sache liegt in Wahrheit so, daß Sie die Kiste vorerst im
-Bosporus versenken ließen. Wir habe Wilson weiter des
-beobachtet Ein Armenier namens Sistawa …«
+Bosporus versenken ließen. Wir habe Wilson weiter beobachtet.
+Ein Armenier namens Sistawa …«
 
 N.: »Ah — also der Lump ist mit im Bunde!!! Das ist
-ja gerade der, dem ich das Geld: gab, damit er die Kisten
+ja gerade der, dem ich das Geld gab, damit er die Kisten …"
 
-B.: Sistawa hat die Kiste über Bord geworfen.
-Und Sie wollten sie später wieder herausholen … 1«
+B.: "… Sistawa hat die Kiste über Bord geworfen.
+Und *Sie* wollten sie später wieder herausholen …!«
 
 <@pagebreak/>
-N. »Sie gestatten, Graf, das: Ich Ehe ausruhe. Mein
-reiner Gen’issen wird am besten dadurch bewiesen, daß ckch
-dem Peinlicher Detektiv Harald Sanft erst einen Blick und
+N. »Sie gestatten, Graf daß Ich Sie auslache. Mein
+reines Gewissen wird am besten dadurch bewiesen, daß ich
+dem deutschen Detektiv Harald Harst erst einen Brief und
 dann eine Depesche schichte, weil ich diese beiden braunen
 Kerle fürchtete und weil ich dem einen jenes Dolchmesser abnahm,
 das Sie bei mir vorfanden …«
 
-B. (erflaunti: »las Ist mir allerdings neu «…]«
+B. (erstaunt): »Das Ist mir allerdings neu …!«
 
 N.: »Nun also! Ich habe Harst hierher gebeten. Und
 ich depeschierte ihm, daß ich diese beiden braunen Schufte
-nun dingfest hätte, die ich hier in die Ruinen Tobte, wo ich
+nun dingfest hätte, die ich hier in die Ruinen lockte, wo ich
 sie infolge meiner genauen Kenntnis der verschütteten Keller
 in ein enges Gelaß einsperren konnte. Als ich den beiden
-Halunken dann am nachsetzten Tage Speise und Trank brachte,
-überfielen Sie mich und behmıpteten, die beiden hätte ich
+Halunken dann am nächsten Tage Speise und Trank brachte,
+überfielen Sie mich und behaupteten, die beiden hätte ich
 nur deshalb gefangen gehalten, weil sie Mitwisser der Falsifikatsendung
-seien und weil ich) von ihnen Verrat argwöhnte.
+seien und weil ich von ihnen Verrat argwöhnte.
 — Das ist Unsinn! Wenn Harald Harst hier wäre, könnte
 er Ihnen bezeugen, daß Ich ihn um Hilfe gebeten habe.
 Wäre ich ein Verbündeter der großen Fälscherbande, so
-bilde Ich wohl kaum einen Mann wie Harst mir wie eine
-Lauf in den Pelz gesetzt haben! Das sage ich: Lauf!!
-Unsinn, Unsinn; Harst ist wie ein Vampyr, der l1ödliche
+würde Ich wohl kaum einen Mann wie Harst mir wie eine
+Laus in den Pelz gesetzt haben! Das sage ich: Laus!!
+Unsinn, Unsinn: Harst ist wie ein Vampyr, der tödliche
 Wunden denen schlägt, die seine Gegner sind!«
 
 B. (sinnend): »Ja, das ändert die Sache … denn Harst
 — ist hier!«
 
-N. (sehr freudig): »Nicht möglich!!! Hier — hier in
+N. (sehr freudig): »Nicht möglich!! Hier — hier in
 den Ruinen der sieben Türme?«
 
-B.(lachend): »Das gerade nicht, Mr. Neumann. Im
+B. (lachend): »Das gerade nicht, Mr. Neumann. Im
 Gegenteil: Mr. Wilson hat sich mit des Armeniers Hilfe der
-Herren gar und Schraut in Mebevolfter Weile unserem«
-nen, das heißt: er hat sie »genau so in eine Safe gelockt,
-wie Sie die Aden Da! — Du Halle gar Mit Sanft Bar
+Herren Harst und Schraut in liebevollster Weise angenommen,
+das heißt: er hat sie genau so in eine Falle gelockt,
+wie Sie die beiden Da! — Ich hatte nämlich mit Harst vor
 einiger Zeit schon einige kleine Differenzen, die es mir ratsam
 erscheinen ließen, zwei meiner Freunde in der Blücherstraße
-in Berlin-Schmargendorf einzuquartieren, damit ja
+in Berlin-Schmargendorf einzuquartieren, damit ich
 <@pagebreak/>
 rechtzeitig erführe, wenn Harst etwa mir wieder nachzustellen
-besänne …«
+begönne …«
 
-N. »Sie scheinen ja eine seine Nummer von Graf zu
-ein!!«
+N. »Sie scheinen ja eine feine Nummer von Graf zu
+sein!!«
 
 B.: »Bleiben wir lieber bei dem Gentleman-Ton, Mr.
 Neumann.«
@@ -1556,37 +1556,37 @@ Neumann.«
 N: »Gern, wenn Sie — ein Gentleman sind …«
 
 B.: »Meine Freunde also reisten mit Harst und Schraut
-Im selben Abteil hier nach Stambul und verdarb;feiern dann,
+Im selben Abteil hier nach Stambul und beobachteten dann,
 daß die beiden rührigen Detektive von dem schlauen Sistawa
-in das Haus des Voot1sóverleihers Ibrahim geführt wurden,
-von wo man sie später in Kisten aus ein Lastboot schaffte.
+in das Haus des Bootsverleihers Ibrahim geführt wurden,
+von wo man sie später in Kisten auf ein Lastboot schaffte.
 Wo sie dann geblieben sind, weiß ich nicht. Jedenfalls:
-sie sind gut ausgehoben!«
+sie sind gut aufgehoben!«
 
 N. (von seiner Kiste hochschnellend): »Die Schurken
 werden meine Landsleute ersäufen!! Graf, ich biete Ihnen
-(tausend Pfund, wenn Sie mich sofort freilassen, damit ich
-Harst und Schraut retten lang! Ich habe sie hierher gebeten,
-ich bin schuld an ihrem Mir, Teil! Ich verspreche
+tausend Pfund, wenn Sie mich sofort freilassen, damit ich
+Harst und Schraut retten kann! Ich habe sie hierher gebeten,
+ich bin schuld an ihrem Mißgeschick! Ich verspreche
 Ihnen auf mein Wort, all das zu vergessen, was ich über
-Sie und die Banknoten weiß, — - Allee! Ich halte mein
-Wort! Tausend englische Pfund, Gras! las ist ein Drittel
-meines Vernmiögens! Ich opscre’ das Geld gern!«
+Sie und die Banknoten weiß, — — Alles! Ich halte mein
+Wort! Tausend englische Pfund, Graf! Das ist ein Drittel
+meines Vermögens! Ich opfere das Geld gern!«
 
-B. (sehr ernst und doch herzlich): »Sie sind ein anstatt
-sandiger Charakter, Wir. Neumann, Und — — Tiegel Bare
-Messing lang großmütig sein!« —
+B. (sehr ernst und doch herzlich): »Sie sind ein anständiger
+Charakter, Mr. Neumann, Und — — Lionel Barring
+kann großmütig sein!« —
 
 (Das wußten wir! Er war ein Verbrecher. Aber in
 einem Winkel seines Herzens schlummerten doch noch edlere
 Regungen. Der Leser kennt ja ebenfalls den überraschenden
-Abschluß unseres Abenteuers in den Zahlung - Höhlen,
+Abschluß unseres Abenteuers in den Tokkara-Höhlen,
 Band 110.)
 
 B. (fortfahrend): »Mr. Neumann, Sie sind frei — ohne
 Lösegeld! Nur gegen das Versprechen, zu schweigen,«
 
-Er erhob sich, löste Maximilians Stricke und Verriet
+Er erhob sich, löste Maximilians Stricke und meinte:
 
 »Diese beiden braunen Burschen werde ich vorläufig
 hier festhalten. — Kommen Sie, ich bringe Sie ins Freie.«
@@ -1597,7 +1597,7 @@ der Situation eine ganz andere Wendung geben würde.
 
 Ich irrte mich gründlich,
 
-Harst zog mich) rasch seitwärts in ein anderes Gewerbe
+Harst zog mich rasch seitwärts in ein anderes Gewölbe
 hinein, wo wir zwischen Schutthaufen uns verbargen.
 
 Wir hörten Barrings und Maximilians Schritte …
@@ -1609,22 +1609,22 @@ Und da flüsterte Harald:
 »So — nun ran an den Feind! Aber kein Wort über
 Maximilian Neumann!«
 
-fügte nachdenklich hinzu:
+Fügte nachdenklich hinzu:
 
-»Rein — warten wir noch zehn Minuten …«
+»Nein — warten wir noch zehn Minuten …«
 
 Ich wartete gern …
 
-Einen Barring festzunehmen, ist immer eine kißhliche
-Sache. Sonntag kann grosimütig sein. Aber — in die Enge
+Einen Barring festzunehmen, ist immer eine kitzliche
+Sache. Barring kann großmütig sein. Aber — in die Enge
 getrieben, wird er zum Tiger — mordet — schießt — sticht.
 
 Zehn Minuten …
 
-Da hatte ich Zeit, glich nochmals zu prüfen, was wir
+Da hatte ich Zeit, alles nochmals zu prüfen, was wir
 nun über diese Fälscherbande wußten, deren Obermacher
 hier in Stambul Mr. Wilson war, der jetzt an Bord des
-holländisch;en Dampfers Amsterdam gefesselt in einer Vor-schchisskammer
+holländischen Dampfers Amsterdam gefesselt in einer Vorschchiffkammer
 lag …
 
 Ja — so ziemlich alles war geklärt.
@@ -1633,44 +1633,44 @@ Nur — das Dolchmesser, das Dolchmesser?! Was für
 eine Rolle spielte es bei alledem? Und Dann der Zettel —
 der Zettel, der Streifen Pergament mit Der Aufschrift:
 
-> Fallate sisi sinerwe dunt gsindreik iste,
+> Falkate sifi sinerwe dunt gsindreik iste,
 
 was nach Harst heißen sollte:
 
 > Falsifikate sind unterwegs in Kiste drei.
 
-— Ich) empfehle dem lieben Leser, hier nun einmal die
-Geheimschrift und die Losung sich genau anzusehen.
+— Ich empfehle dem lieben Leser, hier nun einmal die
+Geheimschrift und die Lösung sich genau anzusehen.
 
-Dann merkt man: der ganze Wie der Geheimschrift
+Dann merkt man: der ganze Witz der Geheimschrift
 besteht in einem Durcheinandermischen von Silben und
-Felsstücken!
+Wortstücken!
 
-Ja — der ganze Wir!l Aber, Hand aufs Herz, Leser;
+Ja — der ganze Witz! Aber, Hand aufs Herz, Leser:
 <@pagebreak/>
-Hast Du den mit entdeckt?! — Ich nicht. Und — Du
+Hast Du den Witz entdeckt?! — Ich nicht. Und — Du
 auch nicht! — —
 
 Während ich so an den Pergamentstreifen dachte, kam
-mir die Erleuchtung; das Dolchmnesser war fraglos den
+mir die Erleuchtung; das Dolchmesser war fraglos den
 hiesigen Fälschern zugestellt worden, damit sie wüßten (durch
 den Zettel in der Kapsel!), daß die Sendung abgeschickt sei.
 
-Diese Erleuchtung halte aber sofort eine zweite Frage
-zur Folge: was war’s, das Maximilian den Schuster hatte
+Diese Erleuchtung hatte aber sofort eine zweite Frage
+zur Folge: was war’s, das Maximilian den Schuften hatte
 aushändigen sollen — was?! —
 
-Holst stieß mich an …
+Harst stieß mich an …
 
 »Vorwärts! Clement heraus!«
 
 <h2>2. Kapitel.</h2>
 <h3>Auf Ehrenwort!</h3>
 
-Barring und der blonde, der übrigens Latrome ge
-langt wurde, pochten gerade nie Anhörte aus. Die beiden
+Barring und der blonde, der übrigens Latrome genannt
+wurde, packten gerade die Rucksäcke aus. Die beiden
 braunen Kerle saßen jetzt mit verbundenen Augen in einem
-Dunkel, noch immer gefesselt,
+Winkel, noch immer gefesselt,
 
 Barring legte die Bücher auf eine Kiste und zählte die
 Anzahl.
@@ -1679,103 +1679,103 @@ Anzahl.
 Bücher, und jedes Buch enthält hundert Banknoten. Ein
 schönes Geschäft …!«
 
-»Ein — schlichtes Geschäft, Tiegel Barring!« erklärte
+»Ein — schlechtes Geschäft, Lionel Barring!« erklärte
 da Harald vom Eingang her.
 
-11nd rief warnend:
+Und rief warnend:
 
 »Hände hoch! Ich bin Harst!«
 
 <@pagebreak/>
-Die beiden Verbrecher standen wie die Wildtauben.
+Die beiden Verbrecher standen wie die Bildsäulen.
 
 Dann reckte Barring die Arme empor, meinte:
 
 »Gratuliere, Herr Harst … Die Schmuggler und armseligen
 Schwarzmeerfischer haben ihre Sache vorzüglich gemacht!«
 
-»Schraut — fesseln!« befahl Harald. »Erst Latrome,
-Treten Sie mehr zur Seite, Latrome „…«
+»Schraut — fesseln!« befahl Harald. »Erst Latrome.
+Treten Sie mehr zur Seite, Latrome …«
 
 Am Boden lagen Stricke.
 
-Ich band Latrome die Hände aus dem Rücken zusammen.
+Ich band Latrome die Hände auf dem Rücken zusammen.
 Harsts Clement drohte indessen unausgesetzt.
 
-Auch Barring dar gefügig, sagte seufzend:
+Auch Barring war gefügig, sagte seufzend:
 
-»Sie kommen immer zur Angeht, Herr Harst … 1«
+»Sie kommen immer zur Unzeit, Herr Harst …!«
 
 »Für Sie ja, Barring … — So, nun nehmen Sie
 beide dort auf der Kiste Platz …«
 
-Wir leimten uns an die etwas feuchte Mauer.
+Wir lehnten uns an die etwas feuchte Mauer.
 
 »Barring,« begann Harald ernst, »es ist schade um Sie.
 Gerade weil ich weiß, daß Sie bei all Ihrer Verworfenheit
 noch Ihre guten Seiten haben, fällt es mir schwer, Sie an
 den Galgen zu liefern.«
 
-»Vexrbindlichsien Dank, Herr Harst, Halten Sie sich
-aber nicht mit Redensarten aus. Wozu reden Eile von
+»Verbindlichsten Dank, Herr Harst. Halten Sie sich
+aber nicht mit Redensarten auf. Wozu reden Sie von
 »schwerfallen« und dergleichen, wo Sie doch gezwungen sind,
 uns der Polizei zu übergeben.«
 
 »Das hat Zeit, Barring. Das hat deswegen Zeit, weil
-Ich den Tod der Europäerin aufklären möchte die ich) aus
-dem Bosporus herauóholte. Die Tote im Sack ist nämlich
+Ich den Tod der Europäerin aufklären möchte die ich aus
+dem Bosporus herausholte. Die Tote im Sack ist nämlich
 nicht etwa ertränkt, sondern durch zwei Stiche ins Herz ermordet
 und dann erst versenkt worden. Ich habe die
 Leiche auf dem Grunde des Bosporus mir angesehen, so
 gut dies ging. Die Frau war noch jung, etwa zwanzig.
-Sie ist eine … Deutsche«
+Sie ist eine … Deutsche.«
 
 »Ah — woraus schließen Sie das?«
 
-»Aus den gestreiften Firmenschildchen in ihrer Bluse
-und ihrem Roh … Diese Firmen sind Berliner Firmen, —
-ie Leiche mag enva vierzehn Tage im Wasser gelegen
-Adels.« —
+»Aus den gestickten Firmenschildchen in ihrer Bluse
+und ihrem Rock … Diese Firmen sind Berliner Firmen. —
+Die Leiche mag etwa vierzehn Tage im Wasser gelegen
+haben.« —
 
 <@pagebreak/>
 Es war das in der Tat eine merkwürdige Unterhaltung
 zwischen einem gefesselten Verbrecher und meinem Freunde
-— unter noch merfwvürdigeren Umständen., —
+— unter noch merkwürdigeren Umständen. —
 
 »Hegen Sie bereits irgendeine Vermutung über die
 Persönlichkeit der Toten?« fragte Barring gespannt und
-ganz mit der Miene eines Mannes, den Kriminalfälle ins
-zerrissenen.
+ganz mit der Miene eines Mannes, den Kriminalfälle
+interessieren.
 
 »Ja …«
 
 »Das ist wirklich erstaunlich, Herr Harst.«
 
 »Durchaus nicht. — Aber — bevor ich’s vergesse,
-Schraut, stelle Dich in die Türöffnung, damit nicht eng
-das sogenannte Ehepaar Hitzgräfe uns Überrascht.«
+Schraut, stelle Dich in die Türöffnung, damit nicht etwa
+das sogenannte Ehepaar Hitzgräfe uns überrascht.«
 
 Ich tat es. Ich hörte weiter zu, horchte aber auch in
-das Nebvengeioölbe hinein …
+das Nebengewölbe hinein …
 
 Harst wiederholte:
 
 »Durchaus nicht erstaunlich, Barring … Meine Vermutung
-möchte ich vorläufg noch für mich behalten.«
+möchte ich vorläufig noch für mich behalten.«
 
-»Schade. Wenn ich erst im Gefängnis size, werde ich
+»Schade. Wenn ich erst im Gefängnis sitze, werde ich
 mich nicht mehr an Ihrer Findigkeit erfreuen können,«
 
-»Allerdings nicht, Ich habe mit Ihnen über die Tote
-jetzt auch nur aus dem Grunde gesprochen, weil ich Graf be
-Scheit haben wollte, ob Sie mit diesem Morde in Verbindung
+»Allerdings nicht. Ich habe mit Ihnen über die Tote
+jetzt auch nur aus dem Grunde gesprochen, weil ich Gewißheit
+haben wollte, ob Sie mit diesem Morde in Verbindung
 zu bringen sind …«
 
 »Ich?! — Nein, Herr Harst, wirklich nicht.«
 
-»Das zweit ich jetzt …« —
+»Das weiß ich jetzt …« —
 
-In diesem Moment vernahm: ich ferne Schritte,
+In diesem Moment vernahm ich ferne Schritte,
 
 Ich gab Harst ein Warnungszeichen.
 
@@ -1785,36 +1785,36 @@ zusammen …
 Der Lichtkegel einer Taschenlampe tauchte in der Finsternis
 des Vorraumes auf …
 
-Und … Anni und Poller Hitzgräfe betraten unser
+Und … Anni und Doktor Hitzgräfe betraten unser
 Gewölbe …
 
-Blicken verdutzt stehen …
+Blieben verdutzt stehen …
 
-»Barring — was heißt das? 1» rief Hitzgräfe. »Sie …
-gefesselt f 1«
+»Barring — was heißt das?!« rief Hitzgräfe. »Sie …
+gefesselt?!«
 
 <@pagebreak/>
 Barring sagte gelassen:
 
-»Schauen Sie nur nach rechts, Union (Freundpchen)«
+»Schauen Sie nur nach rechts, Amigo (Freundchen)!«
 
-Untere kleinen Clementpistolen recken sich dem Pärchen
+Unsere kleinen Clementpistolen reckten sich dem Pärchen
 entgegen.
 
-»Wie — die beiden Schmuggler kf!« kreischte die schlanke
+»Wie — die beiden Schmuggler?!« kreischte die schlanke
 Artistin.
 
 »Harst und Schraut!« erklärte Graf d’Oglia mit Betonung.
 »Das Spiel ist aus, Hitzgräfe!« —
 
-Auch diese beiden saßen dann gefesselt auf einer K iste
+Auch diese beiden saßen dann gefesselt auf einer Kiste
 
 Barring seufzte: »Ihnen glückt alles, Herr Harst.«
 
 »Das bleibt abzuwarten … — Schraut, bring’ mal die
 Braunen näher heran …«
 
-Ich stillte die Burschen in die Mitte des Gewölbes.
+Ich führte die Burschen in die Mitte des Gewölbes.
 
 »Versteht Ihr Englisch?« fragte Harst.
 
@@ -1827,7 +1827,7 @@ richtige Galgengesichter!
 »Was sollte Mr. Maximilian Neumann Euch ausliefern?«
 begann Harald das Verhör.
 
-die braunen blicken zu Boden, ich)biegen.
+Die Braunen blickten zu Boden, schwiegen.
 
 Harst hob die Clement und hielt sie dem einen vor
 die Stirn.
@@ -1843,9 +1843,9 @@ daß der er zurückfuhr und stotterte:
 
 Die Pistolenmündung berührte wieder die Stirn.
 
-»Antworte … 11«
+»Antworte …!!«
 
-»Die … Die … erste Kiste« feuchte der braune Halunke
+»Die … die … erste Kiste,« keuchte der braune Halunke
 angstvoll.
 
 »So — also es war schon eine Sendung abgegangen?«
@@ -1858,7 +1858,7 @@ angstvoll.
 
 <@pagebreak/>
 »Und Ihr nahmt an, daß Mr. Maximilian Neumann
-entdeckt! hätte, daß in den Büchern zwischen den Blättern
+entdeckt hätte, daß in den Büchern zwischen den Blättern
 Banknoten lägen, nicht wahr?«
 
 »Ja …«
@@ -1876,23 +1876,23 @@ können?«
 halber, damit nicht nochmals eine Kiste Euch entging, die
 Anmeldung durch das Dolchmesser besorgen lassen, das von
 Berlin aus hierher geschickt wurde — durch einen Toten.
-in dem Messer steckte der Zettel.«
+In dem Messer steckte der Zettel.«
 
 »Davon weiß ich nichts, Mister. Ich bin ja genau so
-tote Ali Meint unrein … ein Diener bot Mr. Wilson und
+wie Ali Melak nur ein … ein Diener des Mr. Wilson und
 werde nur wenig eingeweiht.«
 
-»Wie kamst Du denn zu dem Dolchmesser f«
+»Wie kamst Du denn zu dem Dolchmesser?«
 
-»Mk. Wilson schenkte es mir.«
+»Mr. Wilson schenkte es mir.«
 
 »Wann?«
 
-»Nachdem die sechs Kisten durch Sistawa an Mr. Neue
-Mann abgeliefert waren.«
+»Nachdem die sechs Kisten durch Sistawa an Mr. Neumann
+abgeliefert waren.«
 
 »Habt Ihr beide geholfen die Kisten von Galata über
-den Präparat zu schossen?«
+den Bosporus zu schaffen?«
 
 »Nein. Wir mußten Mr. Neumann stets beobachten
 und bedrohen.«
@@ -1900,18 +1900,18 @@ und bedrohen.«
 »Das erscheint glaubwürdig. — Schraut, fessele ihnen
 die Füße wieder. Zurück in die Ecke mit den Kerlen.« —
 
-Barring meldete sich Bläulich:
+Barring meldete sich plötzlich:
 
 »Herr Harst — auf ein Wort,« sagte er abermals in
-Be er die er ziemlich fließend beherrschte.
+deutscher Sprache, die er ziemlich fließend beherrschte.
 
 »Bitte …«
 
 »Herr Harst, ich versichere Ihnen, daß weder ich noch
-meine Komplicen von hier entfliehen werden. ich möchte,
-bevor ich ins Gefängnis und von da an den Galgen van
+meine Komplicen von hier entfliehen werden. Ich möchte,
+bevor ich ins Gefängnis und von da an den Galgen wandere,
 <@pagebreak/>
-andere, noch acta wissen, wie Sie die Persönlichkeit der Toten
+noch gern wissen, wie Sie die Persönlichkeit der Toten
 festgestellt und deren Mörder entdeckt haben. Daß Ihnen
 dies gelingen wird, bezweifle ich nicht.«
 
@@ -1919,10 +1919,10 @@ dies gelingen wird, bezweifle ich nicht.«
 
 »Halten Sie uns also hier noch so lange gefangen, bis
 Sie die Mörder haben. Ich wiederhole: ich gebe Ihnen
-unrein Wort als Lord Allan Gnirable, der ich einst war, wie
+mein Wort als Lord Allan Gnirable, der ich einst war, wie
 Sie wissen, daß ich nicht von Hier fliehen und auch nicht
-dulden werde, daß Latrome, Anni fanden und Blaurote
-von hier entweichen, Begreifen Sie, daß ich, der den
+dulden werde, daß Latrome, Anni Sanden und Hitzgräfe
+von hier entweichen. Begreifen Sie, daß ich, der den
 Taucherapparat hergab, mit dessen Hilfe Sie die Leiche
 fanden, gern die Enträtselung dieses …«
 
@@ -1942,7 +1942,7 @@ Lord Gnirable. Ich halte mein Wort. Ich danke Ihnen«
 wie ich sehe. — Gute Nacht, Barring …«
 
 Wir packten die Bücher (es waren alles Wörterbücher
-Deutsch — Englisch — Türkisch) In die Kindische, schüttelten
+Deutsch — Englisch — Türkisch) In die Rucksäcke, schüttelten
 diese auf und verließen die Gewölbe. —
 
 Nie hat wohl ein Detektiv einem Verbrecher solches
@@ -1952,7 +1952,7 @@ Ich zweifelte, ob Barring sein Wort wirklich halten
 würde. Man denke: ihm drohte der Galgen! —
 
 Wir wanderten schweigend durch dürftig erhaltene
-Gassen dem Nordost teile Stambuls zu …
+Gassen dem Nordostteile Stambuls zu …
 
 <@pagebreak/>
 
@@ -2582,7 +2582,7 @@ uns hin, riß den blonden Bart weg …
 »Wilson heiße Ich — Frech Wilson, Mr. Harst! Nun
 — — habe ich Euch ebenfalls!!«
 
-<h2>5\. Kapitel.</h2>
+<h2>5. Kapitel.</h2>
 <h3>Das leere Blatt.</h3>
 
 Dann zuckte er die Achseln. zuckte Dumm!!Safe seid
@@ -2604,7 +2604,7 @@ Uns gegenüber saßen Barring, Latrome und Anni und
 ihr Herr Gemahl, der Hitzgräfe. Jeder mit einem Knebel
 im Munde, wie wir jetzt erst haben.
 
-Tiegel Barring schaute uns trübe an … Er ihren uns
+Lionel Barring schaute uns trübe an … Er ihren uns
 zu bedauern,
 
 »Wir wollen und Hier nicht lange mit Mebendarten
