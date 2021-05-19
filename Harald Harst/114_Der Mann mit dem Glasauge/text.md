@@ -1352,15 +1352,15 @@ Der zweite heißt:
 Da war ein helles, weißgestrichenes Zimmer.
 
 Da waren grüne Kastanien vor den Fenstern mit den
-blitzblanken Scheiben mit den weißen Musllgardinen.
+blitzblanken Scheiben mit den weißen Mullgardinen.
 
-Da war ein toeißladiericd Bett, in dem ich lag.
+Da war ein weißlackiertes Bett, in dem ich lag.
 
-Und auch eine weiße Gestalt war da nicht weißem
-Häubchen und freundlichen Gesicht und so guten, lieben
+Und auch eine weiße Gestalt war da mit weißem
+Häubchen und freundlichem Gesicht und so guten, lieben
 Augen.
 
-Und diese Gestalt beugte sich über mich und - jagst
+Und diese Gestalt beugte sich über mich und sagte
 gütig: »Sie haben uns viel Sorge bereitet, Herr Schraut.«
 
 Ich hatte die Augen weit offen. Ich roch, roch.
@@ -1371,53 +1371,53 @@ Krankenhaus?! — Wie kam denn ich hierher?!
 
 Fragend ließ ich den Blick wieder umhergleiten.
 
-»es war eine schwere Herzbeutelentzündung, Heu
-Schraut,« sagte die Krankenschwester wieder. »Eine seh
+»es war eine schwere Herzbeutelentzündung, Herr
+Schraut,« sagte die Krankenschwester wieder. »Eine sehr
 schwere. Nun sind Sie aber über den Berg.«
 
 Sie lächelte.
 
-Und ich — Ich begann zu grübeln.
+Und ich — ich begann zu grübeln.
 
-Bis — bis mit einem Schlage dann die Fetten Eisig
+Bis — bis mit einem Schlage dann die letzten Ereignisse
 <@pagebreak/>
-Wagnisse in meinem Gedächtnis wieder mit voller Klarheit erstanden.
+in meinem Gedächtnis wieder mit voller Klarheit erstanden.
 
-»Der — der Bottich!« sagte ich so laut, daß die
+»Der — der Boxhieb!« sagte ich so laut, daß die
 Schwester sofort rief:
 
 »Still — still, nur keine Aufregungen!«
 
 Jetzt lächelte ich.
 
-»weine An(st, Schwester. Ich rege mich durchaus nicht
+»Keine Angst, Schwester. Ich rege mich durchaus nicht
 auf. Dieser Boxhieb war nicht der erste und wird vielleicht
-bricht der lebte sein …«
+nicht der letzte sein …«
 
 »Herr Schraut — verständig!« warnte die liebe Pflegerin,
 mit dem Finger drohend. »Nun bekommen Sie einen
-neuen Eisbeutel aus Herz und dann müssen Sie schlafen.«
+neuen Eisbeutel aufs Herz und dann müssen Sie schlafen.«
 
 »Hm — gegen den Eisbeutel protestiere ich nicht. Aber
-[Grafen?! Ausgeschlossen! Ich muß erst wissen, wer Wirtes
-Hieb eigentlich verlegt Hat und wie es meinem Freunde
+schlafen?! Ausgeschlossen! Ich muß erst wissen, wer mir
+den Hieb eigentlich versetzt Hat und wie es meinem Freunde
 Harst geht!«
 
 »Sie sind schrecklich! — Gut denn, hier hat Herr Harst
-einen Pries für Sie zurückgelassen!«
+einen Brief für Sie zurückgelassen!«
 
 »Her damit!«
 
-»Nein - - nein! Das darf nicht sein.«
+»Nein — nein! Das darf nicht sein.«
 
 »So lesen Sie ihn mir vor. — Wo befindet Harald sich
 denn?«
 
 »Das weiß ich nicht. — Vorlesen — ja, das ginge,
-Herr »Schraut. Aber — wenn das Schreiben nun streng
-Vertirauliches enthält?«
+Herr Schraut. Aber — wenn das Schreiben nun streng
+Vertrauliches enthält?«
 
-»Dann werden Sie schweigen, Schlauesten.«« — Ich nickte
+»Dann werden Sie schweigen, Schwester.« — Ich nickte
 ihr zu.
 
 Seufzend schnitt sie den Umschlag auf, zog den Bogen
@@ -1425,46 +1425,46 @@ heraus und las:
 
 > Mein lieber Alter!
 
-> Daß sich Dich sehr ungern in Berlin im Krankenhaus
+> Daß ich Dich sehr ungern in Berlin im Krankenhaus
 Westend zurücklasse, ist selbstverständlich. Es muß aber
-sein. Deine Pferdenatur wird Simpsons Sachlich schon
+sein. Deine Pferdenatur wird Simpsons Jagdhieb schon
 <@pagebreak/>
-Überwinden, und bist Du erst gesund, kannst Du mir
+Überwinden, und bist Du erst gesund, kommst Du mir
 nachgereist.
 
-> Vor — staune: Ich reise heute am 17. Mai nach
-Südarabien — nach Aden, der allen, lieben Hafenstadt.
-Warum ich’s Mr: weil ich dort in Arabien dem (See
-Geheimnis des Glasauges aus die Spur zu kommen hoffe.
+> Höre — staune: Ich reise heute am 17. Mai nach
+Südarabien — nach Aden, der alten, lieben Hafenstadt.
+Warum ich’s tue: weil ich dort in Arabien dem
+Geheimnis des Glasauges auf die Spur zu kommen hoffe.
 
-> ich will jedoch Deinen Wolfshund acht durch Sprunge
-Waffen Bericht anstrengen, sondern lieber der Yicihenfolge
-nach alles Wir Urteilen, was nötig ist.
+> ich will jedoch Deinen Verstand nicht durch sprunghaften
+Bericht anstrengen, sondern lieber der Reihenfolge
+nach alles Dir mitteilen, was nötig ist.
 
-> Zurück, st al’o zurück zu jenem Vorn’itiag, als ich Dich
-aus Empfang Arbeitszimmer zur Wollenen 4 Glitzern- nee
-schiele.
+> Zunächst also zurück zu jenem Vormittag, als ich Dich
+aus Simpsons Arbeitszimmer zur Dahlemer Polizeiwache
+schickte.
 
-> Du warf kaum verlor;trunken, die Tür war kaum
-hinter Dir ins Schloß gefallen, als der [Schielende schlanke
-Jüngling, der sich so blitzartig in einen galten Herrn Vers
-wandelt hatte, mit einer Gewandlbet, die nicht nicht Vers
-Blässe als mir gut war, den Spieß umdrehte — bildlich
+> Du warst kaum verschwunden, die Tür war kaum
+hinter Dir ins Schloß gefallen, als der schielende schlanke
+Jüngling, der sich so blitzartig in einen alten Herrn verwandelt
+hatte, mit einer Gewandheit, die mich mehr verblüffte
+als mir gut war, den Spieß umdrehte — bildlich
 gesprochen.
 
-> Im Au hatte er nämlich aus der Brusttasche seiner
-Jacke so eine winzige, sind e Repetierpistole zum Vorschein
-gebracht und Zelle auf mich.
+> Im Nu hatte er nämlich aus der Brusttasche seiner
+Jacke so eine winzige, flache Repetierpistole zum Vorschein
+gebracht und zielte auf mich.
 
-> »Wände hoch, Herr Harst!!«
+> »Hände hoch, Herr Harst!!«
 
 > Nun — Du weißt ja, daß es klug ist, einer solchen
-Aufforderung Folge zu leisten. Plan kann ja nie voraussagen,
-ob solch ein Gegner nicht auch wirklich aborücft
+Aufforderung Folge zu leisten. Man kann ja nie voraussagen,
+ob solch ein Gegner nicht auch wirklich abdrückt.
 
-> Und Sieger Gegner erschien mir in der Tat gefährlich,
-Dieser Gegner rief die unancenetmen vor:c so scharfen
-Tones, daß es wie ein pfeifender Schrecklich klang.
+> Und dieser Gegner erschien mir in der Tat gefährlich.
+Dieser Gegner rief die unangenehmen Worte so scharfen
+Tones, daß es wie ein pfeifender Schwerthieb klang.
 
 > Ich gehorchte.
 
@@ -1472,59 +1472,59 @@ Tones, daß es wie ein pfeifender Schrecklich klang.
 
 > »Herr Harst, Sie haben hier auf Schonung nicht zu
 rechnen. Ich bin ein intimer Freund des Professors, den
-ich auf leisten Karl in die Hände der Polizei geraten lasse.
+ich auf keinen Fall in die Hände der Polizei geraten lasse.
 Bitte, zerschneiden Sie seine Fesseln!«
 
 > Mein lieber Alter: Harald gehorchte abermals!
 
-> Diesmal jedoch nicht aus Angst vor der Bristols, Von«
+> Diesmal jedoch nicht aus Angst vor der Pistole, sondern
 <@pagebreak/>
-Adern aus Interesse an der Weiterentwicklung der Dinge.
-Ich hohe nämlich inzwischen schon gesehen, daß der
-fhneidine Gegner vergessen hatte, den Eicherunngfslitgel
-der Kühnste herumzudrücken. Sich träte also mit is in Leicht
-fertig erkannter Eine gesicherte Pistole ist ein Stück
+aus Interesse an der Weiterentwicklung der Dinge.
+Ich hatte nämlich inzwischen schon gesehen, daß der
+schneidige Gegner vergessen hatte, den Sicherungsflügel
+der Waffe herumzudrücken. Ich wäre also mit ihm Leicht
+fertig geworden. Eine gesicherte Pistole ist ein Stück
 Eisen. Weiter nichts.
 
-> Ad nahim u1,0 mein Taschenmesser und zerschnitt
-Simpsons Kesseln.
+> Ich nahm also mein Taschenmesser und zerschnitt
+Simpsons Fesseln.
 
-> Da l’ättest Du den famosen Professor nur sehen
+> Da hättest Du den famosen Professor nur sehen
 sollen! Wie ein Gummiball flog er hoch, griff in die
-Tasche und … wolle mir mit einem langen spanischen
-Dolch zuleide. °
+Tasche und … wollte mir mit einem langen spanischen
+Dolch zuleibe.
 
-> zu weißt: solche Szenen liebe ich nicht!
+> Du weißt: solche Szenen liebe ich nicht!
 
 > Ich schlug Simpson denn auch Die Waffe aus der
-Hand und Fähre ihn noch älter behandelt, wenn der
-Jüngling nicht grünlich wieder gedroht hätte:
+Hand und hätte ihn noch übler behandelt, wenn der
+Jüngling nicht plötzlich wieder gedroht hätte:
 
-> »Sande hoch!«
+> »Hände hoch!«
 
 > Und dann rief dieser Mensch dem Professor ein einziges
-Wort zu … ein einiges!
+Wort zu … ein einziges!
 
 > Leider verstand ich es,
 
-> Es übte jedoch eine cistaunliche Wirkung auf Simpson
+> Es übte jedoch eine erstaunliche Wirkung auf Simpson
 aus.
 
-> Er — schnellte herum, stierte den schielenden Was
-hierher wie einen Geist an und meinte mit unsicherer
-Summe: »Wie — zu bist s? 1«
+> Er — schnellte herum, stierte den schielenden Maskierten
+wie einen Geist an und meinte mit unsicherer
+Stimme: »Wie — Du bist’s?!«
 
 > »Ja — ich!« erwiderte der junge Mensch leise. »Ich,
-den zu … verflucht hast! Tun siehst zu, daß nur ich
-Wir treu blieb!«
+den Du … verflucht hast! Nun siehst Du, daß nur ich
+Dir treu blieb!«
 
-> S’aupson leckte schrill. »Treu — treu?! — Laß das
-Geld: wä! Harst muß stumm gemacht werden. Gib mir
-Seine Waffe So.
+> Simpson lachte schrill. »Treu — treu?! — Laß das
+Geschwätz! Harst muß stumm gemacht werden. Gib mir
+Deine Waffe. Ich …<<
 
-> Mein Alter, — legt hättest Du den Jüngling beobachten
-sollen! Noch nie habe ich jemand in dort, Miene
-und Ncrperbaliung so viel stammende Entrüstung zum
+> Mein Alter, — jetzt hättest Du den Jüngling beobachten
+sollen! Noch nie habe ich jemand in Wort, Miene
+und Körperhaltung so viel flammende Entrüstung zum
 Ausdruck bringen sehen, wie den Schielenden.
 
 > Kurz: Simpsons Blutrausch wurde stark abgekühlt,
@@ -1533,31 +1533,31 @@ und auf dem Wege kurzer Aussprache kamen wir überein,
 daß ich mein Ehrenwort geben und den beiden in ein Versteck
 folgen sollte, wo ich zwei volle Tage bleiben müßte.
 
-> Der junge Mensch gerichtete mich dann rasch die
+> Der junge Mensch geleitete mich dann rasch die
 Treppen hinab in den Keller und in Simpsons Radiostation,
-deren Kiegelsteinsußboden eine versenkbare Tür
+deren Ziegelsteinfußboden eine versenkbare Tür
 enthielt, die uns beiden entgangen war.
 
 > Wir kamen über eine eiserne Leiter und durch einen
 Gang in den Keller des verfallenen Gewächshauses neben
 der Gartenmauer,
 
-> Dieses Gewächshaus bildet ja nur noch einen Schutts
-Haufen, und weder Du noch die Polizei dachte auch nur
+> Dieses Gewächshaus bildet ja nur noch einen Schutthaufen,
+und weder Du noch die Polizei dachte auch nur
 im entferntesten daran, daß Der vermißte Harald Harst
 dort unten steckte.
 
 > Dieser kleine, wohnlich eingerichtete Keller nahm also
 mich und den Jüngling auf. Simpson erschien erst eine
-Minute später sehr atemlos und sehr ausgelegt.
+Minute später sehr atemlos und sehr aufgeregt.
 
-> Damals wußte ich mir seine Erregung nicht zu berufen.
-Heute ist es mir war, daß diese wilde Auspcitschung
+> Damals wußte ich mir seine Erregung nicht zu deuten.
+Heute ist es mir klar, daß diese wilde Aufpeitschung
 seiner Nerven auf … den Mord zurückzuführen ist, den er
 oben im zweiten Stock begangen hat.
 
 > Nun waren wir jedenfalls zu dreien hier unten, saßen
-auf schlichten Holzftühlen und — schwiegen.
+auf schlichten Holzstühlen und — schwiegen.
 
 > Hin und wieder ging Simpson in den unterirdischen
 Gang, um zu lauschen.
@@ -1565,7 +1565,7 @@ Gang, um zu lauschen.
 > Aber — die Polizei fand uns nicht.
 
 > Stunden verflossen. Und — kein Wort wurde zwischen
-uns gewechselt, sein einziges Wort.
+uns gewechselt, kein einziges Wort.
 
 > Ich versuchte den Jüngling auszufragen. Er schwieg.
 Schließlich entfernte sich als erster Simpson. Bevor er
@@ -1573,11 +1573,12 @@ verschwand, flüsterte er noch im Gange mit dem Schielenden.
 Und — weinend kehrte dieser in den Keller zu mir
 zurück — weinend!! —
 
-> Bisher hatte ich ihn dank seiner glänzenden schnurrte«
-berieten Fähigkeiten für einen Mann gehalten. Das
+> Bisher hatte ich ihn dank seiner glänzenden schauspielerischen
+Fähigkeiten für einen Mann gehalten. Das
 Weinen verriet mir: ein Weib!
 
 <@pagebreak/>
+
 > Ich sagte ihr das auf den Kopf zu. Sie — schwieg.
 Und bevor sie dann selbst das Versteck verließ, erklärte
 sie nur: »Herr Harst, Sie werden fernerhin keine Gelegenheit
@@ -1587,75 +1588,75 @@ daher: vergessen Sie, was der Professor Ihnen zufügen
 wollte! — Sie finden im übrigen dort in dem Schränkchen
 Eßwaren und Getränke. Ich will Ihnen auch gestatten,
 damit Sie sich hier nicht zu sehr langweilen, während
-Ihrer Hast hier nach oben zu steigen und im Hause sich
-Bewegung zu machen. Eile dürfen sich natürlich niemans-dem
-einen und mit niemandem sprechen.«
+Ihrer Haft hier nach oben zu steigen und im Hause sich
+Bewegung zu machen. Sie dürfen sich natürlich niemandem
+zeigen und mit niemandem sprechen.«
 
 > Dann ging sie rasch davon. —
 
-> was darauf in der Nach geschah, weißt Du: unsere
+> was darauf in der Nacht geschah, weißt Du: unsere
 Begegnung in Simpsons Arbeitszimmer!
 
-> Nun verstehst Du auch mein eigentümliches Benchmerw
-dort. Ich war durch meint Wort gebunden. Ich wußte
-noch nicht:8 von dem Morde an dem Fremden oben im
-zweiten Stock. Co gab Dir aus Deine Andeutungen hin
-den Na!, das Glasauge des »Menschen« zu untersuchen.
+> Nun verstehst Du auch mein eigentümliches Benehmen
+dort. Ich war durch mein Wort gebunden. Ich wußte
+noch nichts von dem Morde an dem Fremden oben im
+zweiten Stock. Ich gab Dir auf Deine Andeutungen hin
+den Rat, das Glasauge des »Menschen« zu untersuchen.
 Und — ich entzog mich Dir, indem ich wieder In mein
 Versteck hinabeilte.
 
-> Dort blieb ich, bis meine Haft vorüber. Und aha
-heimkehrte, fand ich Dich in Wiederkehrten. Ich ließ Dich
+> Dort blieb ich, bis meine Haft vorüber. Und als ich
+heimkehrte, fand ich Dich in Fieberdelirien. Ich ließ Dich
 ins Krankenhaus schaffen, denn ich selbst mußte hinter
 Simpson her. —
 
-> Höre nun, was meine Mutter mir über Eile Vorgänge
+> Höre nun, was meine Mutter mir über die Vorgänge
 in unserem Keller berichtet hat.
 
 > Am Morgen nach der Schachpartie, der Du durch
 unser indisches Schlafmittel ein Ende bereitetest, kam
 Mathilde mit dem Frühstück für den gefangenen Charly
-Trink(by in den Keller und fand folgendes:
+Grimly in den Keller und fand folgendes:
 
 > Dich bewußtlos mitten in der Zelle, den biederen
-Karl Rennschmidt aus seinem Bett und 4— keinen Charly
+Karl Rennschmidt auf seinem Bett und — keinen Charly
 Grimly!
 
 > Meine Mutter aber fand in Deiner geballten linken
 <@pagebreak/>
-Hand ein Wadiöflümpchen und einen winzigen Zettel, der
+Hand ein Wachsklümpchen und einen winzigen Zettel, der
 aus dünnem Fettpapier bestand und vielfach zusammengefaltet
 war.
 
-> Den Zettel gab sie dann mir. Und ich richte fest,
+> Den Zettel gab sie dann mir. Und ich stellte fest,
 daß er beschrieben war — mit winzigen Buchstaben — ein
 seltsamer Inhalt in englischer Sprache
 
-> »Den Inhalt teile ich Dir persönlich mit.
+> *Den* Inhalt teile ich Dir persönlich mit.
 
-> Bedenfalls: ich reise nach Arabien!!
+> Jedenfalls: ich reise nach Arabien!!
 
-> Und nun — leb’ wohl bis aus weiteres, mein lieber
+> Und nun — leb’ wohl bis auf weiteres, mein lieber
 Alter! Ich schreibe Dir von der Reise erst von Suez aus.
 alles Gute! — Wiedersehen!
 
 > Dein treuer Harald,
 
 <h2>2. Kapitel.</h2>
-<h3>Der Wirbt John Bristol.</h3>
+<h3>Der Pilot John Bristol.</h3>
 
 Der Dampfer »King Manuel« legte am Hafendamm
 der Kanalstadt an, der berühmten Kanalstadt Suez.
 
-Wer denkt da nicht sofort an Lesers, den genialen Ingenieur;,
+Wer denkt da nicht sofort an Lesseps<@refnote 1/>, den genialen Ingenieur,
 wer denkt da nicht sofort an glutheiße Tage, an
 braune Beduinen und ähnliches!
 
 Ich — ich, Max Schraut, der oben an der Reling des
-Promenadendecks stand, ich dacl’te nur an diesem 11. Zunft
-1923 an Kleinen Freund Harald, der weder aus Suez an!
-mich geschrieben, noch sonst mir noch ein Lebenszeichen ge
-geben hatte — weder seiner Winkten, noch wir
+Promenadendecks stand, ich dachte nur an diesem 11. Juni
+1923 an meinen Freund Harald, der weder aus Suez an
+mich geschrieben, noch sonst mir noch ein Lebenszeichen gegeben
+hatte — weder seiner Mutter, noch mir!
 
 <@pagebreak/>
 Ich dachte nur daran, wie die Angst um Harst meine
@@ -1664,53 +1665,53 @@ hatte und wie ich dann schleunigst ihm nachgereist war.
 
 Und nun — war ich in Suez!
 
-So mußte feststellen, was aus Harald geworden. Ich
-war hherzcna, daß man ihn hier in eine Falle gelobt hatte,
+Ich mußte feststellen, was aus Harald geworden. Ich
+war überzeugt, daß man ihn hier in eine Falle gelockt hatte,
 fest überzeugt! —
 
-Ich verließ den Dampfer mit meinem Kostet. Ich
+Ich verließ den Dampfer mit meinem Koffer. Ich
 hatte an Bord Freundschaft mit einem Amerikaner geschlossen,
-der sich mir sehr bald als Kollege zu erkennen sei
-geben: Allan Visiert, von der Firma Pinkerton in Neuyork.
+der sich mir sehr bald als Kollege zu erkennen gegeben:
+Allan Giffort, von der Firma Pinkerton in Neuyork.
 
 Giffort reiste in Verkleidung. Er war hinter Juwelendieben
-er, die gleichfalls den King Manuel bemühten, die
-nach Juden wollten. Aber Giffort konnte die drei Leute
+her, die gleichfalls den King Manuel benutzten, die
+nach Indien wollten. Aber Giffort konnte die drei Leute
 nicht verhaften lassen, da er noch nicht wußte, wo sie die
 Juwelen der Herzogin von Lagranza versteckt hielten.
 
 Herzogin von Lagranza, Tochter des Eisenbahnkönigs
 Flepps —
 
-Giffort hatte mir zum Abschied kräftig die Hand sei
-drückt. Er wußte, nen ich suchte.
+Giffort hatte mir zum Abschied kräftig die Hand gedrückt.
+Er wußte, wen ich suchte.
 
 »Viel Glück, Mr. Schraut. Vielleicht sehen wir uns
 mal wieder.« —
 
-Ich stieg in Suez im Hotel du Sarah ab, begann Vor
-fort meine Nachforschungen und hatte bereits abends ermittelt,
-daß Harald hier. tat!’ächlich den Tatorte- Bildung
-verlassen und einen halben Tag im Pensionat Ergraut zugebracht
+Ich stieg in Suez im Hotel du Canal ab, begann sofort
+meine Nachforschungen und hatte bereits abends ermittelt,
+daß Harald hier tatsächlich den Dampfer Silvana
+verlassen und einen halben Tag im Pensionat Bogenny zugebracht
 hatte, wo sein Koffer noch jetzt aufbewahrt wurde.
-In dem Pensionat hohe er sich Hektor Strähne genannt.
+In dem Pensionat hatte er sich Hektor Hirabar genannt.
 
 Schon allein der Umstand, daß sein Koffer noch dort
 vorhanden war, bewies zur Genüge, wie richtig ich vermutet
-schalt hatte: hier in Suez war er fraglos dem Professor
+gehabt hatte: hier in Suez war er fraglos dem Professor
 Simpson und dem angeblichen Grimly in die Hände gefallen!
 
 Wie aber ihn nun weiter suchen?!
 
-Schwere Aufgabe — sehr fairen!!
+Schwere Aufgabe — sehr schwer!!
 
 Zunächst ging ich zur Polizei, hielt den Herren dort
 meinen Ausweis vor die Augen und verlangte die Auslieferung
 <@pagebreak/>
-von Holzbau Koffer. Nach einigem Hin und Her
-erhielt! ich ihn denn auch.
+von Haralds Koffer. Nach einigem Hin und Her
+erhielt ich ihn denn auch.
 
-Da meine soficiputentfchlüffel auch zu Harsts Koffer
+Da meine Kofferpatentschlüssel auch zu Harsts Koffer
 paßten, konnte ich ihn öffnen.
 
 Und — obenauf ein Brief — an mich adressiert:
@@ -1723,8 +1724,8 @@ Und — obenauf ein Brief — an mich adressiert:
 
 Der Brief war versiegelt.
 
-In dem Umschlag lagen: erstens ein Briefbogen, des
-ah Haralds flüchtiger und Doch so charakteristischer
+In dem Umschlag lagen: erstens ein Briefbogen, bedeckt
+mit Haralds flüchtiger und Doch so charakteristischer
 Schrift.
 
 Zweitens: der Zettel aus dem Glasauge.
@@ -1734,7 +1735,7 @@ dieses Zettels. —
 
 Haralds Zeilen lauteten:
 
-> Lieber Alter! In größter Eile folgendem: Ich bin
+> Lieber Alter! In größter Eile folgendes: Ich bin
 hier in Suez an Land gegangen, weil ich den Spion, der
 sich von Genua aus an meine Fersen geheftet hat, loswerden
 muß. Der Spion ist kein anderer als … Miß
@@ -1743,11 +1744,11 @@ Grimly, wie wir sie nennen wollen.
 > Also diese junge schielende Dame hat sich an mich
 auf dem Dampfer herangedrängt als Allan Giffort …
 
-Hier sauf mir die Hand herab.
+Hier sank mir die Hand herab.
 
-Allan Giffort — — Allan Visiert!!
+Allan Giffort — — Allan Giffort!!
 
-Es wurde urplöplich unheimlich hell in meinem Hirn:
+Es wurde urplötzlich unheimlich hell in meinem Hirn:
 Giffort, der das linke Auge durch ein Pechpflaster verklebt
 und darüber eine blaue Brille trug, — mein Freund und
 Kollege Giffort war ebenfalls Miß Grimly gewesen!!
@@ -1758,139 +1759,140 @@ bemerkt!!
 Dann las ich weiter:
 
 <@pagebreak/>
+
 > … als Allan Giffort, Agent der Firma Pinkerton,
 der angeblich Juwelendiebe verfolgte.
 
-> Nun, ich tat so, als ob ich diesen Giffort nicht durch-fschaute.
-Ich wußte schon nach einer Stunde, weg Geistes
-und er war: Simpsons Verbündeter!
+> Nun, ich tat so, als ob ich diesen Giffort nicht durchschaute.
+Ich wußte schon nach einer Stunde, wes Geistes
+Kind er war: Simpsons Verbündeter!
 
 > Da ich ihn, wie gesagt, abschütteln wollte, bin ich
-hier bei Madame Erzeugt abgestiegen und werde ohne
-offen weiterreisen — in anderer Verkleidung.
+hier bei Madame Bogenny abgestiegen und werde ohne
+Koffer weiterreisen — in anderer Verkleidung.
 
-> Ich sei reibe diesen Brief nachher ab und sende die
-Anschrift ins Uronfeuhaus — gen Berlin!
+> Ich schreibe diesen Brief nachher ab und sende die
+Anschrift ins Krankenhaus — gen Berlin!
 
-> Dir gute Besserung, mein Alter! Wiedcerfchen in
-Sie, Hotel Kontinental, wo ich als Monsieur Hektor
-Harslicourl mich einschreiben werde.
+> Dir gute Besserung, mein Alter! Wiedersehen in
+Aden, Hotel Kontinental, wo ich als Monsieur Hektor
+Harsticourt mich einschreiben werde.
 
 > Dein treuer Harald.
 
-> *Nachschrift*. Der doppelte Brief ist eine Vorsichts-mis;
-rege!, die zu begreifen wirst.
+> *Nachschrift*. Der doppelte Brief ist eine Vorsichtsmaßregel,
+die Du begreifen wirst.
 
-Kann nahm ich die photographische Vergrößerung des
-gestrichene vor.
+Dann nahm ich die photographische Vergrößerung des
+Zettelchens vor.
 
-Es kenterte sich um Schreibmaschinenschrift, die aus dem
+Es handelte sich um Schreibmaschinenschrift, die auf dem
 Zettel selbst nur wie lila Striche wirkte. Also war der
-Zeit ein Mikrophotogramm.
+Zettel ein Mikrophotogramm.
 
 Und der Inhalt der Schrift …?!
 
 Lieber Leser, nimm all Deine Phantasie zu Hilfe und
-Blau:ältere Wir das Tollste zusammen …
+phantasiere Dir das Tollste zusammen …
 
-Und Dann … fiel dies hier! Dann wirst Du eingeben,
+Und Dann … lies dies hier! Dann wirst Du einsehen,
 daß Deine Phantasie ärmlich ist, wie das Gehalt eines
 Beamten in Rentenmark!
 
 > Sehr verehrter Meister!
 
 > Um es gleich vorauszuschicken: Ihre Warnung hat
-nicht ach roh;zeitig erreicht. Ich werde genau nach Ihren
+mich noch rechtzeitig erreicht. Ich werde genau nach Ihren
 Anweisungen handeln. Ich bedauere es unendlich, daß
 <@pagebreak/>
 Ihnen dieser Harst so viel Ungelegenheiten bereitet hat
-sein daß Sie jetzt gezioungen sind, vorsichtiger denn je zu
-ein.
+und daß Sie jetzt gezwungen sind, vorsichtiger denn je zu
+sein.
 
 > Ich berichte nun zunächst über den Erfolg meiner
 Reise nach Südarabien, für die Sie mich so überreich mit
-Geldmitteln versehen halten.
+Geldmitteln versehen hatten.
 
 > Ich traf am 8. April in Aden ein. Wir, dem leidlich
 bekannten Luftpiloten, bot es keine Schwierigkeiten, den
-aus England niitgebraaten Eintreten zerlegt in die Wüste
-bis an die Handsöben des Dschebel Wiatarid schaffen zu
-lassen. Meine Expedition erregte auch leineilest Verdacht.
-Die in den Ausläufern der Mailand-Berge hausenden
+aus England mitgebrachten Eindecker zerlegt in die Wüste
+bis an die Randhöhen des Dschebel Makarid schaffen zu
+lassen. Meine Expedition erregte auch keinerlei Verdacht.
+Die in den Ausläufern der Makarid-Berge hausenden
 Beduinen zeigten sich gleichfalls durchaus freundlich und
-waren leicht zu läuten.
+waren leicht zu täuschen.
 
 > Am 17. April bereits konnte ich von dem praktisch
 gewählten Lagerplatz meiner Expedition aus den ersten
-Ausstieg unternehmen, Das Wetter war günstig. Allerdings
+Aufstieg unternehmen. Das Wetter war günstig. Allerdings
 war es nicht leicht, in der dünnen Wüstenluft den
-Eindecker vom Boden sreizubekommen.
+Eindecker vom Boden freizubekommen.
 
-> Ich hauchte mir [Schon vorher die Felsennadel, den heiß
-Tiger Stein Tasch el Muhammed, aus nädftier Nähe ans
-gesehen. Ah war überrascht gewesen, wie spiegelglatt
+> Ich hatte mir Schon vorher die Felsennadel, den heiligen
+Stein Tasch el Muhammed, aus nächster Nähe angesehen.
+Ich war überrascht gewesen, wie spiegelglatt
 die Sandkörner des Wüstenwindes diese natürliche, enorme
 Säule geschliffen hatten.
 
 > Ich flog mit dem Eindecker zuerst in westlicher Richtung
-davon, dann bog ich nach worden ein und strich viermal
-in etwa zehn Vetter Höhe über die Spitze der Felsennadel
+davon, dann bog ich nach Norden ein und strich viermal
+in etwa zehn Meter Höhe über die Spitze der Felsennadel
 hinweg.
 
 > Was Sie, verehrter Meister, vor Jahren mit einem
-scharfen Fernglas von einem der Berge des Naben Dickes
-Übel Makarid beobachtet haben, fand ich in jeder Beziehung
+scharfen Fernglas von einem der Berge des nahen Dschebel
+Makarid beobachtet haben, fand ich in jeder Beziehung
 bestätigt.
 
-> Es Damm sich meiner Ansicht nach nur um das handeln,
+> Es kann sich meiner Ansicht nach nur um das handeln,
 was Sie vermuten — kann!! Denn leider ist es
 mir nicht geglückt, Ihren Plan voll zur Ausführung zu
 <@pagebreak/>
 bringen. Es war mir unmöglich, von dem im Gleitflug
-berobecetenden Eindecker im waghalsigen Sprunge die
+herabgehenden Eindecker im waghalsigen Sprunge die
 flache Spitze des Tasch el Muhammed zu erreichen.
 
 > Gewiß — wäre es geglückt, so hätte Ich mich an dem
-um den Leib geschlungenen dreißig Meter langen Echte
+um den Leib geschlungenen dreißig Meter langen Seile
 wieder zur Erde hinablassen können — ganz so, wie Sie
-das gewollt hatten. Ich hüte dann auch alles gründlich
-untersucht ersonnen.
+das gewollt hatten. Ich hätte dann auch alles gründlich
+untersuchen können.
 
 > Wie gesagt: es ist unmöglich!
 
 > Im ganzen habe ich den Versuch fünfmal wiederholt.
 Da gab ich es auf.
 
-> Jumcrhin dürsten Sie mit dem Erfolg meiner Er
--Revision zufrieden sein. Co werden sich Mittel und Wege
-finden lassen, die Felsennadel zu bezwingen — —
+> Immerhin dürften Sie mit dem Erfolg meiner Expedition
+zufrieden sein. Es werden sich Mittel und Wege
+finden lassen, die Felsennadel zu bezwingen. — —
 
-> Tiefe Niederschrift habe ich als Vlilrophotogramm
-bereits tagelang unter Der Platte meines Eicgelringes
-Fieberten bei mir Schnappen.
+> Diese Niederschrift habe ich als Mikrophotogramm
+bereits tagelang unter Der Platte meines Siegelringes
+verborgen bei mir getragen.
 
 > ich wohne nun hier in Berlin in dem Fremdenheim
-Versehe!h in der Lärm Straße mit einen jungen Engs-länder
-nomen®& Charly (Grimly zusammen, der, )die ich im
-Gespräch mit Um erfuhr, zu Ihren Schülern in London
-antike und für Sie von galuheider den Takelung erfüllt
-Reife Dicker Grimly erscheint wir braucht, bar. Er hat ein
-lünsltliches Auge, in dessen Höhlung. sich diese Niederschrift
-bequem unterbringen ließe. Sobald ich weiß, wo Eile
+Arnstett in der Lützowstraße mit einen jungen Engländer
+namens Charly Grimly zusammen, der, wie ich im
+Gespräch mit ihm erfuhr, zu Ihren Schülern in London
+zählte und für Sie von glühender Bewunderung erfüllt
+ist. Dieser Grimly erscheint mir brauchbar. Er hat ein
+künstliches Auge, in dessen Höhlung sich diese Niederschrift
+bequem unterbringen ließe. Sobald ich weiß, wo Sie
 sich verborgen halten, werde ich Grimly heimlich diesen
-Miniaturzelel in das künstliche Auge bineinfhmuggeln
-(er nimmt es nachts stets heraus) und werde ihn voran
-lassen, Ihnen den Zettel zuzustellen, ohne daß er ahnt, in
-welcher Weise er als Bote berührt wird. Es wird sich
-schon eine Gelegenheit ergeben, verehrter Meister, Ehe auf
-Sprung eufnirffom zu machen und Ihnen anzudeuten,
-wo Sie diese so überaus wer:volle Nachricht finden.
+Miniaturzettel in das künstliche Auge hineinschmuggeln
+(er nimmt es nachts stets heraus) und werde ihn veranlassen,
+Ihnen den Zettel zuzustellen, ohne daß er ahnt, in
+welcher Weise er als Bote benutzt wird. Es wird sich
+schon eine Gelegenheit ergeben, verehrter Meister, Sie auf
+Grimly aufmerksam zu machen und Ihnen anzudeuten,
+wo Sie diese so überaus wertvolle Nachricht finden.
 
-> Ich hoffe, Sie werden mit mir zufrieden sein. XS
-vermeide alles, was Schon gefährlich werden kaum Ich
+> Ich hoffe, Sie werden mit mir zufrieden sein. Ich
+vermeide alles, was Ihnen gefährlich werden kann. Ich
 <@pagebreak/>
 weiß, daß dieser infame Harst nichts unversucht lassen
-wird, Sie zu fangen. Wallen bin ich; doppelt vorsichtig.
+wird, Sie zu fangen. Daher bin ich doppelt vorsichtig.
 
 > Ich bin wie stets Ihr treu ergebener
 
@@ -1900,76 +1902,75 @@ So lautete dieses Luftpiloten seltsamer Bericht …«
 
 Ich aber — ich wußte nun, daß der im zweiten Stock
 des Hauses in Dahlem Ermordete John Bristol hieß, daß
-Simpson ihn befestigt hatte, um den Veinvisscr des Geheimnisses
-der Felsennadel für alle Zeit Dumm zu machen, und
-daß Einigten die Taschen Bristols so gründlich ausgeräumt
-hatte, weil er dort vielleicht diese Nieodericyrist zu finden gehofft
-hatte.
+Simpson ihn beseitigt hatte, um den Mitwisser des Geheimnisses
+der Felsennadel für alle Zeit stumm zu machen, und
+daß Simpson die Taschen Bristols so gründlich ausgeräumt
+hatte, weil er dort vielleicht diese Niederschrift zu finden
+gehofft hatte.
 
 Auch vieles andere erschien nun geklärt. Bristol war
 in das Haus eingedrungen, weil er dort Simpson anzutreffen
 erwartete, und »Grimly«, der oder besser die Schielende,
-war wieder von dem Krieger veraulas;t worden, dorthin zu
+war wieder von dem Flieger veranlasst worden, dorthin zu
 kommen — mit dem Zettel in der Höhlung des künstlichen
-Augapfels, den Blitze Fort sehr schlau mit Wachs befestigt
-hatte. Bristol hatte eben so spekuliert: Werde üb dort im
+Augapfels, den Bristol dort sehr schlau mit Wachs befestigt
+hatte. Bristol hatte eben so spekuliert: werde ich dort im
 Hause erwischt, so findet man nichts Belastendes bei mir,
-und nimnmt man Agra Grimly fest, so findet man erst recht
+und nimmt man etwa Grimly fest, so findet man erst recht
 nichts! —
 
-Der Plan, Grimly derart gestickt auszunutzen, hatte ja
+Der Plan, Grimly derart geschickt auszunutzen, hatte ja
 nur einen Fehler gehabt: Grimly war, was Bristol nicht
-ahnte, ebenfalls ein aller Bekannter des großen Verbrecizers
+ahnte, ebenfalls ein alter Bekannter des großen Verbrechers
 Simpson, und durch Haralds Erscheinen in dem Hause zur
 selben Zeit gewannen die Dinge ein für den Luftpiloten
-sehr trauriges Auch sehen: Simpson, der meinen 7reund Harst
+sehr trauriges Aussehen: Simpson, der meinen Freund Harst
 für 48 Stunden ausgeschaltet sah, wollte Bristol für immer
-Tod werden und … stach ihn nieder, dar:ist Bristol nicht etwa
+los werden und … stach ihn nieder, damit Bristol nicht etwa
 auch lebend der von mir herbeigerufenen Polizei in Die
-Hände siehe! — —
+Hände fiele! — —
 
 Ich will hier diese Zusammenhänge nicht noch eingehender
-erörtern, Der aufmerksame Leser kann sich von
+erörtern. Der aufmerksame Leser kann sich von
 all diesem unschwer selbst ein Bild entwerfen.
 
 <@pagebreak/>
 Um immerhin noch den Stand der Angelegenheit kurz
-Zusanzuenzufassen: das Geheimnis des Schielenden sowie
-Borneo Des unbekannten Slexbeinten, der mir die drei Worte
-schüttelt bare, war eufreilärt. Der Schielende war eine
-zu, eine arandiofe Du auspiclerin, die für Edward Simp-ja
-eincetrelten rar, anderseits ihn von einem neuen Morde,
+zusammenzufassen: das Geheimnis des Schielenden sowie
+die Des unbekannten Sterbenden, der mir die drei Worte
+zugeflüstert hatte, war aufgeklärt. Der Schielende war eine
+Frau, eine grandiose Schauspielerin, die für Edward Simpson
+eingetreten war, anderseits ihn von einem neuen Morde,
 von der Beseitigung Harsts, abgehalten hatte und auf Simpson
-Froren Einfluß; bessern mußte. — Bristol wieder war
-ein Vertrauter des Professors gewesen, hohe für diesen am
-Teufelei Makarid eine Felseunarel untersuchen sollen und —
+großen Einfluß besitzen mußte. — Bristol wieder war
+ein Vertrauter des Professors gewesen, hatte für diesen am
+Dschebel Makarid eine Felsennadel untersuchen sollen und —
 war zum Dank … ermordet worden. —
 
-rselfennadel — heiliger Stein — rasch el Muhammed!!
+Felsennadel — heiliger Stein — Tasch el Muhammed!!
 
 Das war das neue Geheimnis?!
 
 Und — was mochte es wohl damit auf sich haben?!
 
-Deckblatt Bristols Flüge über die Spitze der Felsennadel
-himveng — — weshalb?! Um die Spitze zu besieh-Gern,
-um dort mit einem fortführen Sprung auf dieser
-Ledige zu fanden?! Gewillt;: das hatte Bristol ja alles
-schont in seinem Bericht erwähnt. Aber — aber: was gab
-er Wenn dort zu untersuchen — was?! —
+Weshalb Bristols Flüge über die Spitze der Felsennadel
+hinweg — — weshalb?! Um die Spitze zu besichtigen,
+um dort mit einem tollkühnen Sprung auf dieser
+Spitze zu landen?! Gewiß: das hatte Bristol ja alles
+schon in seinem Bericht erwähnt. Aber — aber: was gab
+es denn dort zu untersuchen — was?! —
 
 Hierüber lange nachzugrübeln, Verbot mir der Ernst
-der Lange.
+der Lage.
 
 Harst war verschwunden!! Harst war von diesem
-Meide, das sich Allan Giffort genannt hatte, verfolgt worden.
+Weibe, das sich Allan Giffort genannt hatte, verfolgt worden.
 Sie — nur sie hatte Harald in die Falle gelockt und
-wollte Co nun mit mir genau so machen, hatte sich auch an
-nicht auf dem Dampfer herangedrängt und würde das
-Spiel nun hier in Suez fraglos in anderer Maske wieder:
-holen …
+wollte es nun mit mir genau so machen, hatte sich auch an
+mich auf dem Dampfer herangedrängt und würde das
+Spiel nun hier in Suez fraglos in anderer Maske wiederholen …
 
-Und — darauf rechnete ich, darauf gründete ich meiner
+Und — darauf rechnete ich, darauf gründete ich meinen
 Plan! Wie sollte ich Harald anders finden, wenn nicht
 durch dieses junge Weib?!
 
@@ -2627,7 +2628,7 @@ artigen Belangen, dem Pelizetinspelor Green, üteiluisen.
 Greeg hatte uns noch o! Bboend vor Zuiwpions Auf
 Bruch gemeldet, daß der Professor durch einen sracwürdigen
 Händler sich ach;t weniger als zwölf große Dynamitpatronen,
-eine elektrische Zindbatterie und Die Dazunchöriae Prahle
+eine elektrische Zinkbatterie und Die Dazunchöriae Prahle
 Leitung von eng dierbimdert Wieder Länge besorgt hatte.
 
 Diese seine Einkäufe gaben sehr zu denken. Harald
@@ -2667,7 +2668,7 @@ Mr floh nichts von dem Geheimnis der heiligen Steinsäule
 zu Papier gebracht hätte. Ihm war auch unbefanmg daß
 Sarah Grimlys Glasauge einst einen so wertvollen Zettel
 en halten hatte. All dies wußte Harald infolge seinen
-Diencrrolle als Hussein in Suez, wo er zweimal Simpson und
+Dienerrolle als Hussein in Suez, wo er zweimal Simpson und
 die seltsame, rätselvolle Frau im Keller belauscht hatte, ohne
 freilich etwas Wesentliches zu erfahren.
 
