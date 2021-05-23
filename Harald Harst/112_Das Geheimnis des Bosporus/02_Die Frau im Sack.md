@@ -33,7 +33,7 @@ kennen dürften, und …«
 
 N.: »Ich kenne nur einen Wilson, und zwar den Expräsidenten
 der Vereinigten Staaten von Nordamerika, dem
-Namen nach, den Herrn mit den … vierzehn Punkten<@refnote 3/> …«
+Namen nach, den Herrn mit den … vierzehn Punkten …«
 
 B.: »Lassen Sie mich gefälligst ausreden, Mr. Neumann,
 — Wilson und ein anderer dunkler … Ehrenmann
@@ -49,7 +49,7 @@ Ich weiß nur, daß ich leider, leider mich verleiten ließ, insofern
 die Gesetze zu übertreten, als ich die sieben Kisten
 nicht verzollen wollte und durch Bestechung auch erreichte,
 daß sie von Galata aus, wo sich das Hauptzollamt befindet,
-nacht über den Bosporus nach Skutari und von da einen
+nachts über den Bosporus nach Skutari und von da einen
 Tag später in meinen Laden geschafft wurden. Diese Fahrt
 von Galata nach Skutari über den Bosporus sollte jedoch
 mir insofern einen Verlust bringen, als eine der Kisten
@@ -61,7 +61,7 @@ N. (wütend): »Ich verbitte mir diese Unverschämtheiten!«
 
 B.: »Sie spielen den Ehrenmann vorzüglich! — Die
 Sache liegt in Wahrheit so, daß Sie die Kiste vorerst im
-Bosporus versenken ließen. Wir habe Wilson weiter beobachtet.
+Bosporus versenken ließen. Wir haben Wilson weiter beobachtet.
 Ein Armenier namens Sistawa …«
 
 N.: »Ah — also der Lump ist mit im Bunde!! Das ist
@@ -74,7 +74,7 @@ Und *Sie* wollten sie später wieder herausholen …!«
 N. »Sie gestatten, Graf daß ich Sie auslache. Mein
 reines Gewissen wird am besten dadurch bewiesen, daß ich
 dem deutschen Detektiv Harald Harst erst einen Brief und
-dann eine Depesche schichte, weil ich diese beiden braunen
+dann eine Depesche schickte, weil ich diese beiden braunen
 Kerle fürchtete und weil ich dem einen jenes Dolchmesser abnahm,
 das Sie bei mir vorfanden …«
 
@@ -192,7 +192,7 @@ Zehn Minuten …
 Da hatte ich Zeit, alles nochmals zu prüfen, was wir
 nun über diese Fälscherbande wußten, deren Obermacher
 hier in Stambul Mr. Wilson war, der jetzt an Bord des
-holländischen Dampfers Amsterdam gefesselt in einer Vorschchiffkammer
+holländischen Dampfers Amsterdam gefesselt in einer Vorschiffkammer
 lag …
 
 Ja — so ziemlich alles war geklärt.
@@ -216,11 +216,11 @@ Wortstücken!
 
 Ja — der ganze Witz! Aber, Hand aufs Herz, Leser:
 <@pagebreak/>
-Hast Du den Witz entdeckt?! — Ich nicht. Und — Du
+Hast *Du* den Witz entdeckt?! — *Ich* nicht. Und — Du
 auch nicht! — —
 
 Während ich so an den Pergamentstreifen dachte, kam
-mir die Erleuchtung; das Dolchmesser war fraglos den
+mir die Erleuchtung: das Dolchmesser war fraglos den
 hiesigen Fälschern zugestellt worden, damit sie wüßten (durch
 den Zettel in der Kapsel!), daß die Sendung abgeschickt sei.
 
@@ -235,7 +235,7 @@ Harst stieß mich an …
 <h2>2. Kapitel.</h2>
 <h3>Auf Ehrenwort!</h3>
 
-Barring und der blonde, der übrigens Latrome genannt
+Barring und der Blonde, der übrigens Latrome genannt
 wurde, packten gerade die Rucksäcke aus. Die beiden
 braunen Kerle saßen jetzt mit verbundenen Augen in einem
 Winkel, noch immer gefesselt.
@@ -403,7 +403,7 @@ die Stirn.
 »Antworte!«
 
 In dem Ton seiner Stimme lag eine so eisige Drohung,
-daß der er zurückfuhr und stotterte:
+daß der Mensch zurückfuhr und stotterte:
 
 »Ich … ich weiß nicht, Mister …«
 
@@ -607,7 +607,7 @@ an den Füßen, das volle Haar naß und in malerischer
 Unordnung, beleuchtete uns grinsend mit einer Karbidlaterne.
 
 »Bindet die Schufte,« sagte er zu seinen Leuten. »Das
-scheinen ja nette Früchten zu sein!«
+scheinen ja nette Früchtchen zu sein!«
 
 <@pagebreak/>
 »Morgen, Herr Landsmann,« meinte Harald da etwas
@@ -632,7 +632,7 @@ starke Blößen …«
 
 Hastig raffte Maximilian seine Toga wieder empor.
 
-»Wie — ein Herr Harst?« rief er dabei freudig.
+»Wie — etwa Herr Harst?« rief er dabei freudig.
 
 »Immer derjenige, welcher …« erklärte Harald und
 erhob sich.
@@ -667,7 +667,7 @@ drückte uns nochmals zum Willkomm die Hände und
 musterte den Frühstückstisch.
 
 Die Besichtigung fiel zu seiner Zufriedenheit aus. Wir
-waren ebenfalls — sehr zufrieden, Maximilians Speisenkammer
+waren ebenfalls — sehr zufrieden. Maximilians Speisenkammer
 und Likörschrank barg allerlei Erstklassiges.
 
 Der Mokka duftete verführerisch, und nachdem wir uns
@@ -679,7 +679,7 @@ Wir drei Landsleute waren allein. Nichts von Zwang,
 nichts von Fremdsein trotz der kurzen Bekanntschaft gab es
 zwischen uns. Maximilians ganzes Wesen war so recht dazu
 angetan, uns drei fühlen zu lassen, daß wir als Deutsche
-hier auf fremdem Boden Brüder seien. Selten Habe ich
+hier auf fremdem Boden Brüder seien. Selten habe ich
 dabei einen Mann von so urwüchsigem, sprudelndem Humor
 kennen gelernt wir unseren liebenswürdigen Wirt, der als
 geborener Berliner seine Taufe mit Spreewasser trotz seines
@@ -739,7 +739,7 @@ auf …
 »Sie … Sie wissen, Herr Harst?«
 
 »Wie Sie hören, Landsmann. Ich weiß alles. Die
-Bücher da in den Rucksäcken erhalten falsche Banknoten
+Bücher da in den Rucksäcken enthalten falsche Banknoten
 und stammen aus den Gewölben des Schlosses der sieben
 Türme …«
 
@@ -760,7 +760,7 @@ und Genossen herausgeben. Deshalb waren die beiden
 braunen Kerle hinter Ihnen her. Wo haben Sie denn die
 Kisten jener Sendung gelassen? Noch gar nicht ausgepackt?«
 
-»Nein, Herr Harst. Sie acht Kisten stehen im Keller.«
+»Nein, Herr Harst. Die acht Kisten stehen im Keller.«
 
 Der Diener Ali trat ein, hinter ihm der andere Diener,
 der unser Gepäck hatte holen sollen.
@@ -836,7 +836,7 @@ besser so.«
 
 Er riß ein Blatt aus seinem Notizbuch und schrieb ein
 paar Zeilen mit Bleistift, indem er das aufgeschlagene Notizbuch
-als Unterlage benutze.
+als Unterlage benutzte.
 
 <@pagebreak/>
 Dann tat er den Zettel in einen Umschlag, klebte diesen
@@ -1039,7 +1039,7 @@ lachte Maximilian leise. »Ich habe hier vor dreizehn
 Jahren lange herumsuchen müssen, bis ich … folgendes
 entdeckte.«
 
-Er nein Haralds Lampe und beleuchtete ein paar
+Er nahm Haralds Lampe und beleuchtete ein paar
 flache Felsplatten, die scheinbar zufällig am Fuße des
 <@pagebreak/>
 Schutthaufens lehnten. Er raffte zwei beiseite. Und da
@@ -1118,7 +1118,7 @@ leise eine besondere Mitteilung machen wollte.
 Oh — — der Schuft spielte seine Rolle glänzend —
 glänzend!!
 
-Wir steckten denn auch ahnungslose die Köpfe zusammen.
+Wir steckten denn auch ahnungslos die Köpfe zusammen.
 
 Der Halunke schmunzelte pfiffig. »Die Leiche, Mr.
 Harst, die Leiche der Frau wird in der kommenden Nacht
@@ -1283,11 +1283,11 @@ Bosporus verhüllt Ihr Verbrechen sicherer …«
 
 Fred Wilson stand mit verzerrtem Gesicht und geballten
 <@pagebreak/>
-Fäusten da. Die Lötlampe halte er Robbin gereicht.
+Fäusten da. Die Lötlampe hatte er Robbin gereicht.
 
 »Schuft, — — Du lügst!« knirschte er …
 
-»Bitte — ich schrieb den Zettel und benutze mein
+»Bitte — ich schrieb den Zettel und benutzte mein
 Notizbuch als Unterlage. Die Schrift wird sich durchgedrückt
 haben …«
 

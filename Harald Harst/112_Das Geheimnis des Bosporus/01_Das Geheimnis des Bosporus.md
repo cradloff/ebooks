@@ -170,6 +170,7 @@ zu sein. Ich habe herausgefunden, daß da von
 einer »Kiste drei« die Rede ist. Das beunruhigt mich.
 
 <@pagebreak/>
+
 > Alles weitere überlasse ich Ihrer Weisheit.
 Vorläufig bleibe ich anonym. — Antwort erbitte
 Konstantinopel hauptpostlagernd unter M. A. X. 100.
@@ -178,14 +179,14 @@ Konstantinopel hauptpostlagernd unter M. A. X. 100.
 
 > noch immer lebender Leichnam.
 
-1. *Nachschrift*: Falls Sie hierher kommen wollen,
+> *1\. Nachschrift*: Falls Sie hierher kommen wollen,
 bezahle ich die Reise 2. Klasse und acht Tage Aufenthalt.
 
-2. *Nachschrift*: Falls ich schon tot bin, finden Sie
+> *2\. Nachschrift*: Falls ich schon tot bin, finden Sie
 bei der Osmanischen Bank hier 100 engl. Pfund für
 sich deponiert.
 
-3. *Nachschrift*: Die silberne Krücke meines auf dem
+> *3\. Nachschrift*: Die silberne Krücke meines auf dem
 Schädel des einen Halunken zerschlagenen Spazierstockes
 hat der andere Halunke mitgenommen. —
 Frechheit!«
@@ -204,7 +205,7 @@ hatten, sagte Harst:
 Ich war überrascht.
 
 Eine Reise nach Konstantinopel ist doch schließlich kein
-Katzensprung! Und der M. A. X. 100-Brief war meiner
+Katzensprung! Und der M.&nbsp;A.&nbsp;X.&nbsp;100-Brief war meiner
 Ansicht nach keineswegs so welterschütternd, ebenso wenig der
 Pergamentstreifen, daß man sich deswegen vier Tage lang
 in der Eisenbahn durchrütteln läßt!
@@ -282,7 +283,7 @@ oder Zarigrad, wie man es nennen will, einprägen. —
 
 Die Reisetage vergingen sehr schnell. Bulgarien lag
 hinter uns. Und gegen Mittag dann das erste Wahrzeichen
-der türkischen Hauptstadt, als der Zug unweit des Marmara-Meeres<@refnote 1/>
+der türkischen Hauptstadt, als der Zug unweit des Marmara-Meeres<@refnote 2/>
 mit verringerter Geschwindigkeit die Westgrenze
 Stambuls erreichte — das erste Wahrzeichen: die Ruinen
 des Schlosses der sieben Türme, die den Südpunkt der alten
@@ -362,7 +363,7 @@ Stunde nach Hause kommen würde. Wir sollten nur so
 lange in seinem Bureau warten. Unser Gepäck könnte mit
 ins Haus geschafft werden.
 
-Harald nicke, stieg aus. Sistawa bezahlte den Kutscher,
+Harald nickte, stieg aus. Sistawa bezahlte den Kutscher,
 und drei halbwüchsige Bengel in langen Mänteln mit dem
 Fez auf dem Schädel schleppten unsere Koffer vor uns her.
 
@@ -479,7 +480,7 @@ daß Barring ihnen fremd.
 »Der Name ist Schall und Rauch, Master. Den Mann
 mit dem Monokel meine ich.«
 
-»Bedauere; unbekannt, — geht uns nichts an.«
+»Bedauere: unbekannt, — geht uns nichts an.«
 
 »Danke. Ich weiß nun so einiges. — Also reden wir
 vernünftig miteinander. Weshalb sollen wir aus Stambul
@@ -782,7 +783,7 @@ Ein Meer von Kuppeln, schlanken Türmen, — leuchtender
 Marmor im dunklen Grün, zierliche Kioske, neuere
 Bauten …
 
-Unser der Sultan-Valide-Brücke hindurch ging’s bis
+Unter der Sultan-Valide-Brücke hindurch ging’s bis
 zur Nordostspitze der Halbinsel, bis zum Serai Burnu …
 
 Dann südwärts — am Militär-Hospital vorüber, an
@@ -801,7 +802,7 @@ Lag nun in einem schmalen Bootshafen inmitten
 plumper Segelbarken …
 
 Widerlicher Gestank von faulenden Fischen, von faulendem
-Gemüse, von Teer, Benzin und anderen Düften Drang
+Gemüse, von Teer, Benzin und anderen Düften drang
 in meinen hölzernen Schwitzkasten …
 
 Die Derwischjünglinge trommelten noch immer mit
@@ -881,7 +882,7 @@ Ein Leuchtturm …
 
 Kiß Kudessi mit dem Leanderturm … —
 
-Hero und Leander<@refnote 2/> — Poesie — Liebe … Tragik …
+Hero und Leander<@refnote 3/> — Poesie — Liebe … Tragik …
 
 <@pagebreak/>
 Und — auch hier eine ungeheure Tragik auf diesem
@@ -945,7 +946,7 @@ Aber — jetzt steuerte ich, und Harald fesselte den halb
 bewußtlosen Mr. Wilson, der etwa vierzehn Zähne eingebüßt
 hatte … Vielleicht auch weniger. Aber zu dem
 Namen Wilson gehört nun mal die Zahl vierzehn: Wilsons
-berüchtigte vierzehn Punkte, der größte Schwindel der
+berüchtigte vierzehn Punkte<@refnote 1/>, der größte Schwindel der
 Weltgeschichte!
 
 Dann wollten wir die vier über Bord Gegangenen
@@ -1140,7 +1141,7 @@ Wer beschreibt unser Erstaunen, als wir nun dieses
 Tauchers feines Stimmchen vernahmen!! Es war — —
 Anni Hitzgräfe!! —
 
-Nun Minuten später war der Segler an dem langen
+Nur Minuten später war der Segler an dem langen
 Ankertau zehn Meter weiter südlich festgelegt worden, und
 Harald kletterte im Taucheranzug die Strickleiter hinab,
 schaltete die elektrische Lampe erst unter Wasser ein und
@@ -1338,7 +1339,7 @@ Balken und Bretter befestigte Ufer heranreichten.
 Hier händigte Barring Harald ein Päckchen Scheine
 aus. Hier mußten wir mit dem Ledersack und der Leiche
 darin verschwinden. Harald deutete an, daß wir die Tote
-auf einem der nahen Kirchhofs vorläufig verbergen würden.
+auf einem der nahen Kirchhöfe vorläufig verbergen würden.
 
 Dann nahm er die unheimliche Last auf den Rücken und
 schlich davon. Ich blieb hinter ihm.
