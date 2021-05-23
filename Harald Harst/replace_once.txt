@@ -3,9 +3,9 @@
 \bau!	auf
 \bBann\b	Dann
 \bBieter\b	Meter
-^ben	den
 \b(\d+)[l1i]en\b	$1ten
 \bElement\b	Clement
+^ben	den
 \bFahr\b	Jahr
 \bFahre\b	Jahre
 \bFahren\b	Jahren
@@ -31,4 +31,5 @@
 \bTeich!\b	leicht
 \bTer\b	Der
 \bvor!\b	dort
+\bWir\.	Mr.
 \bwirft\b	wirst
