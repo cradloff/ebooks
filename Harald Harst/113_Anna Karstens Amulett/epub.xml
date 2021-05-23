@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">e2e27faa-b275-11eb-a882-63c355effb82</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Anna Karstens Amulett</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">113</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Anna Karstens Amulett.
+
+Es goß in Strömen …
+
+Ein hohler Wind trieb die nassen Schnüre der Regenfluten uns beiden gerade ins Gesicht.
+
+Dazu herrschte eine Finsternis, wie sie kaum dichter sein konnte.
+
+Ich kann nicht gerade behaupten, daß diese Aprilnacht besondere Reize für mich aufwies, zumal Harald Harst mir gegenüber auch noch nicht einmal angedeutet hatte, was wir hier auf der Dahlemer Feldmark westlich von Berlin eigentlich sollten oder wollten.
+
+Die Hilfsantenne.
+
+Ich nehme an, daß die geneigte Leserin und der freundliche Leser so weit mit den Requisiten der modernsten Fernübertragung von Sprache und Musik, mit dem Funkspruch, vertraut sind, daß sie wissen, was Antenne ist. Es ist eben der Draht, mit dem die elektrischen Wellen aufgefangen werden.  Man kann nun an Stelle solch einer Antenne auch Hilfsantennen verwenden, eben jede metallische Fläche, die groß genug ist, genügend viel Wellen in sich aufzunehmen und dann einem Radioapparat zuzuleiten.
+
+Damals, als wir Mai 1923 den Professor Simpson uns als Opferlamm erkoren hatten, waren zwar die technischen Einzelheiten des Radioverkehrs bereits fast ebenso weit vorgeschritten wie heute. Aber ein Voxhaus, das uns jeden Tag laut und deutlich Musik, Vorträge und anderes übermittelt, gab es noch nicht. Auch Harald und ich besaßen noch keinen »Radio«. Heute, wo ich dies niederschreibe, am 27. Februar 1924, habe ich soeben kurz vor zehn Uhr abends mit meinem einfachen Detektorapparat die Tagesneuigkeiten vom Voxhause abgehört, so zum Beispiel, daß in Rußland heute früh zwanzig Grad Kälte, in Frankreich sechs und in England vier waren, daß der Dichter Hoffman von Fallersleben Gedenktag hatte — und anderes mehr. Zum Schluß kam »Deutschland, Deutschland über alles«, was jedoch sehr dünn, wie ein altes Spinett, klingt.
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (113) Anna Karstens Amulett.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h2</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

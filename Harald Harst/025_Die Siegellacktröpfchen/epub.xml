@@ -9,7 +9,7 @@
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">Das Siegellacktröpchen</entry>
+<entry key="title">Die Siegellacktröpchen</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -23,26 +23,26 @@
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">Das Siegellacktröpchen.
+<entry key="description">Die Siegellacktröpchen.
 
 Wir saßen auf dem Balkon, der zu unserem Wohnsalon im Hotel de Paris in Pondicherry gehörte. Harald Harst hatte mir soeben die Teetasse aufs neue gefüllt und sagte nun, indem er auf die im Sonnenlicht glitzernde, endlose Wasserfläche des Meerbusens von Bengalen deutete, wie der zwischen den Halbinseln Vorder- und Hinterindien liegende Teil des Indischen Ozeans genannt wird:
 
-»Bedauerst Du noch, lieber Schraut, bereits um ½ 7 Dein Bett verlassen zu haben? Ist dieser Morgen nicht herrlich!  — Man sollte in den Tropen eigentlich stets mit Sonnenaufgang den Tag beginnen.«
+»Bedauerst Du noch, lieber Schraut, bereits um ½7 Dein Bett verlassen zu haben? Ist dieser Morgen nicht herrlich!  — Man sollte in den Tropen eigentlich stets mit Sonnenaufgang den Tag beginnen.«
 
-Wer Harst so kennt wie ich, der merkt jedoch auch, daß in diesen Lobpreisungen ein gewisses zuviel war, genau wie bei den Handbewegungen, die seine Worte begleiteten.
+Wer Harst so kennt wie ich, der merkt jedoch auch, daß in diesen Lobpreisungen ein gewisses Zuviel war, genau wie bei den Handbewegungen, die seine Worte begleiteten.
 
 Das Fernrohr Kapitän Pellertans.
 
 Es war ein altehrwürdiges Sehfernrohr aus Messing mit sechs Auszügen, so ein Ding, wie man es heute in der Handelsmarine kaum noch gebraucht. Es hatte vorn einen Durchmesser von 12 Zentimeter, und Harald Harst meinte einst scherzend zu dem glücklichen Besitzer, Kapitän Joe Pellertan, eigentlich gehöre zu diesem Rieseninstrument beim Gebrauch stets ein Stativ, da man schon über gehörige Muskelkräfte verfügen müsse, um es frei in den Händen still zu halten.
 
-Joe Pellertan war jedoch noch ein Seemann aus der alten Schule, der von modernen Trieder-Binokeln und so weiter nichts wissen wollte, der noch manchen Aberglauben festhielt und der bessere Münchhausieaden erfand als der älteste Förster. —
- </entry>
+Joe Pellertan war jedoch noch ein Seemann aus der alten Schule, der von modernen Trieder-Binokeln und so weiter nichts wissen wollte, der noch manchen Aberglauben festhielt und der bessere Münchhausiaden erfand als der älteste Förster. —
+</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (025) Das Siegellacktröpchen.epub</entry>
+<entry key="filename">Kabel, Walther - (025) Die Siegellacktröpchen.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->

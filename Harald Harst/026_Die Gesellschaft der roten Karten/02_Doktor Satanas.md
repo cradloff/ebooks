@@ -5,16 +5,16 @@ Kriminalpolizei der niederländisch\-indischen Hauptstadt Batavia
 auf der Insel Java, winkte uns schon von weitem zu.
 
 <@pagebreak 35/>
-Wir bestanden uns auf der Veranda des prächtigen Bungalows
+Wir befanden uns auf der Veranda des prächtigen Bungalows
 (Wohnhaus) des Großkaufmanns van Wreeden.
 Über uns rauschten die Kronen riesiger Palmen, und vor uns
 auf dem Rasenplatz sprühte eine Riesenfontäne ihre vom
 Abendwind zur Seite gedrückte, in Millionen von Tröpfchen
-zerstobene Wassersäule fast bis zu unserem Tische hin, am dem
+zerstobene Wassersäule fast bis zu unserem Tische hin, an dem
 nur der Hausherr, Harst und ich saßen.
 
 Der Baron eilte die Verandatreppe trotz seiner massigen
-Gestalt leichtfüßig empor, drückte uns jetzt die Hände; begann
+Gestalt leichtfüßig empor, drückte uns jetzt die Hände, begann
 sofort:
 
 »Ich komme mit einer großen Bitte, lieber Harst. Vor
@@ -118,7 +118,7 @@ er mir verheimlichen wollte.
 »In dem Artikel, lieber Alter, stand nämlich so allerlei
 für Feinschmecker wie wir es sind. Ich durchstöberte bekanntlich
 vorgestern abend bei Wreeden einen Stoß Zeitungen,
-wohlgeordnete Nummern der Bataviapost. Auch Du
+wohlgeordnete Nummern der Batavia-Post. Auch Du
 nahmst ja die Zeitungen zur Hand. Ist Dir der Artikel wirklich
 entgangen?«
 
@@ -128,7 +128,7 @@ des Unfalls bei den Tierkämpfen im Palastgarten des
 Fürsten —«
 
 Da kam der Baron auf uns zu und stellte uns den Major
-der niederländischen Kalonialarmee Jan de Bartreux vor.
+der niederländischen Kolonialarmee Jan de Bartreux vor.
 
 Bartreux betrat dann unser Abteil und blieb bei uns.
 Er gehörte zu der Garnison von Semarang und wollte nach
@@ -139,7 +139,7 @@ bald auf den Mord in Semarang brachte.
 
 »Sie kennen doch Drygaardens Gattin,« meinte er zu
 Bartreux. »Herr Harst will sich ja mit diesem Kriminalfall
-näher beschäftigen und deshalb dürfte es ihm vielleicht angenehm
+näher beschäftigen, und deshalb dürfte es ihm vielleicht angenehm
 sein, wenn Sie ihm über den Doktor und die Prinzessin
 nähere Auskunft geben würden. Ich selbst kenne das
 Paar nur sehr oberflächlich. Einen sympathischen Eindruck
@@ -158,7 +158,7 @@ konnte.
 
 Als er nun erwiderte: »Oh — meine Bekanntschaft
 mit Drygaardens ist auch nur sehr oberflächlich,« klang das
-so unsicher und zögernd daß ich Harsts vielsagenden Blick
+so unsicher und zögernd, daß ich Harsts vielsagenden Blick
 recht gut verstand.
 
 Hier war irgend etwas nicht in Ordnung! Dieser
@@ -176,7 +176,7 @@ der ich das Recht einräumen möchte, mich zu seinem
 engeren Bekanntenkreis zu zählen. Ich bedauere deshalb
 auch, Herrn Harst in nichts hier unterstützen zu können. Ich
 bedauere es sehr, möchte ich betonen. Ich weiß nämlich, daß
-Inspektor Schliepner Semarang bereits den hirnverbrannten
+Inspektor Schliepner in Semarang bereits den hirnverbrannten
 Verdacht hat, die Prinzessin sei an der Beseitigung ihres
 Mannes irgendwie beteiligt. Und diese Dame von diesem
 schmählichen Verdacht zu befreien, würde ich alles tun!«
@@ -230,12 +230,12 @@ die zarten Farben anbetrifft.«
 Das weitere Gespräch hat für dieses unser Problem keinerlei
 Interesse. —
 
-Um 7 Uhr abends waren wir in Semarang; um ½ 8 saßen
+Um 7 Uhr abends waren wir in Semarang; um ½8 saßen
 wir zu dreien im Speisezimmer des Bungalows August
 Schliepners, eines vielseitigen, in jungen Jahren nach dem
 Orient verschlagenen Deutschen.
 
-Wir hatten seine Einladung bei ihm zu wohnen gern
+Wir hatten seine Einladung, bei ihm zu wohnen, gern
 angenommen. Zeerten war bei Major Bartreux zu Gast.
 
 * * *
@@ -248,7 +248,7 @@ von der Welt. In einem Junggesellenheim wie dem des
 Detektivinspektors, wo der Hausherr so häufig abwesend
 war, mußte jemand vorhanden sein, der die Oberaufsicht über
 dieses Dutzend javanischer Diener sowie über den Herrn Küchenchef,
-einen Chinesen und dessen Leibgarde von sechs bis
+einen Chinesen, und dessen Leibgarde von sechs bis
 acht Küchenjungen führte. Dieser Hausmeister war ein ehemaliger
 Polizeiwachtmeister, ein Holländer namens Swaardam,
 der den Dienst hatte quittieren müssen, weil ihm bei
@@ -257,7 +257,7 @@ einem Unternehmen gegen malaiische Schmuggler die rechte
 Hand abgehauen worden war. Diese Hand bewahrte Swaardam,
 ein kleiner, fetter Mann mit rotblondem Vollbart, in
 einem Glase in Spiritus sorgfältig auf. Er war ein sehr
-ulkiger Herr, dieser Pieter Swaardam und bereits zehn Minuten
+ulkiger Herr, dieser Pieter Swaardam, und bereits zehn Minuten
 nach unserer Ankunft hatte er uns stolz seine in Spiritus
 liegende Hand gezeigt und erklärt: »Es ist mein Orden.
 Wenn ich mal sterbe, muß die Hand auf einem Kissen
@@ -279,7 +279,7 @@ Manne das denkbar schlechteste sei. Doktor Satanas
 sei ja auch kein Charakter, mit dem eine Frau von Feingefühl
 und Gemüt eine auch nur nach außen hin friedliche Ehe
 führen könnte. Gerade weil er in seinem Wesen so viele abstoßende
-Züge habe und weil er auch alles andere, oft nur kein
+Züge habe, und weil er auch alles andere, oft nur kein
 Adonis sei, besitze er eine krankhafte Eifersucht, mit der er
 seine Gattin beständig in einer erst lächerlichen Weise quäle.
 
@@ -375,7 +375,7 @@ der Radscha, besitzt eine Hundezucht, die weithin berühmt ist.«
 
 »Und auch wohl eine förmliche Menagerie,« fügte Harst
 hinzu. »Letztens ist ja bei einem Tierkampf in der Arena
-des Fürsten ein Unglück passiert. Ich las davon in der Bataviapost.«
+des Fürsten ein Unglück passiert. Ich las davon in der Batavia-Post.«
 
 »Ganz recht, Herr Harst, ein Tiger benutzte eine schadhafte
 Stelle des Eisengitters zum Entweichen und —«
@@ -397,7 +397,7 @@ Es war kurz nach acht Uhr abends, als wir drei durch
 die hell erleuchtete Hauptstraße des sogenannten Regierungsviertels
 zu Fuß dem Bungalow Doktor Drygaardens zuschritten.
 Der Weg stieg sehr bald steil an. Die Häuser zu
-beiden Seiten wurde seltener.
+beiden Seiten wurden seltener.
 
 Harst, der links neben Schliepner ging, während ich an
 dessen rechter Seite mich hielt, war sehr schweigsam. Schliepner
@@ -413,7 +413,7 @@ spiele?« lautete diese Frage.
 
 »Das vermag ich nicht zu sagen,« erwiderte unser
 Landsmann achselzuckend. »Ich vermute aber, daß sie’s in
-der Bataviapost gelesen hat, wo ja Ihre glänzenden Erfolge
+der Batavia-Post gelesen hat, wo ja Ihre glänzenden Erfolge
 in Sachen der Gesellschaft mit den roten Karten ganz eingehend
 geschildert waren.«
 
@@ -432,7 +432,7 @@ als kleine Festung angelegt, sobald es außerhalb der
 eigentlichen Stadt lag.
 
 »Auch das Haus ist sehr alt,« fügte er hinzu. »Man hat
-es nur vor etwa fünfzehn Jahren insofern umgebaut als das
+es nur vor etwa fünfzehn Jahren insofern umgebaut, als das
 einzige Stockwerk heruntergerissen und auf dem alten Fundament
 ein luftiger Holzbau errichtet wurde, wie er dem
 Klima hier entspricht. Der Garten zieht sich etwa zweihundert
@@ -447,7 +447,7 @@ Weile warten, da die Hunde erst eingesperrt werden müssen.«
 Harst.
 
 »O nein, dem Doktor gehorchten die Tiere auch, aber
-weniger aus Zuneigung, als aus Angst. Er soll über die gefährlichen
+weniger aus Zuneigung, als aus Angst. Er soll über die gefährlichen,
 riesigen Bestien eine geradezu unerklärliche Macht
 besessen haben. Sie sollen ihn gehaßt, aber ebenso gefürchtet
 haben, wie ja überhaupt dieser Mann in vielem so eine Art
@@ -476,7 +476,7 @@ weit vorgebeugt und die gewaltige Nase reibend, wie er’s
 stets zu tun pflegte, wenn er erregt wurde, stotterte dann
 ganz fassungslos:
 
-»Wie — nich tot?! Aber — daß ist doch unmöglich! Das
+»Wie — nicht tot?! Aber — daß ist doch unmöglich! Das
 widerspricht dem Befund im Schlafzimmer —«
 
 Hier wurde er durch einen Eingeborenen unterbrochen,
@@ -487,12 +487,12 @@ in Ordnung sei.
 
 Schliepner winkte ab, und der Beamte verschwand wieder
 in der Dunkelheit. Dann hörten wir auch schon durch das
-Guckloch der Pforte eine Stimme die fragte, wer jetzt noch
+Guckloch der Pforte eine Stimme, die fragte, wer jetzt noch
 Einlaß begehre. Der Inspektor nannte seinen Namen.
 
 <@pagebreak/>
 »Die Hunde sind im Zwinger?« fuhr er fort. »Du bist
-Dschongo Lei, der Hausmeister nicht wahr?«
+Dschongo Lei, der Hausmeister, nicht wahr?«
 
 Die Pforte ging auf, ein Javane mit einer Petroleumlaterne
 stand vor uns. Es war ein Greis in gelbem Leinenanzug.
@@ -537,11 +537,11 @@ abgespielt. Was dann folgte, was Schliepner und ich von
 oben herab der Dunkelheit wegen nur ganz undeutlich
 wahrnahm, dauerte ebenfalls nur Sekunden.
 
-Harst drückte den Alten an den Stamm stellte sich schützend
-vor ihn. Dann rief er die Hunde an — so energisch, daß die
+Harst drückte den Alten an den Stamm, stellte sich schützend
+vor ihn. Dann rief er die Hunde an, — so energisch, daß die
 Bestien stutzten und stehen blieben. Jetzt blitzte Harsts elektrische
 <@pagebreak/>
-Taschenlampe auf. Er hielt sie in der Linken und
+Taschenlampe auf. Er hielt sie in der Linken. Und
 in der vorgestreckten rechten Hand hatte er den Mehrlader.
 
 Der weiße Lichtkegel blendete die Tiere. Absichtlich ließ
@@ -607,7 +607,7 @@ Erörterung nur störend wirken würde.
 Für mich stand folgendes fest: Der Doktor hat die Prinzessin
 vor drei Jahren auf irgend eine Weise gezwungen, ihn
 zu heiraten. Nach der Eheschließung ist der durch das Verhalten
-ihres Gatten schwer entäuschten, vielleicht gar angewiderten
+ihres Gatten schwer enttäuschten, vielleicht gar angewiderten
 jungen Frau erst klar geworden, daß sie den Major
 de Bartreux liebt, der sie ja schon früher umworben hat.
 Beide mögen nun so ehrenwerte Charaktere sein, daß sie sich
@@ -648,7 +648,7 @@ Java zu verlassen. Dies war meine Ansicht über den »Mord«
 selbst, — war es in dem Augenblicke, als die Prinzessin uns
 in der Allee ansprach und in sehr ruhiger Weise ihr Bedauern
 äußerte, daß wir beinahe von den Doggen zerrissen worden
-waren.
+wären.
 
 Dann stellte Schliepner uns der schönen Frau vor.
 
@@ -673,7 +673,7 @@ gehabt.
 
 Über den Eingang des Bungalows flammte jetzt eine
 elektrische Lampe in Form einer großen, altertümlichen Laterne
-auf. Das Haus war bis zu etwa 1 ½ Meter Höhe aus
+auf. Das Haus war bis zu etwa 1½ Meter Höhe aus
 Steinquadern erbaut. Auf diesem Kellergeschoß ruhte der
 moderne, gefällige Holzbau mit der üblichen, umlaufenden
 Veranda, die hier durch Holzpfeiler gestützt wurde. Eine
@@ -754,14 +754,14 @@ Als der Hausmeister erklärte, daß dies das ganze Hauspersonal
 sei, stand Harst auf und rief jeden einzelnen ohne Ausnahme
 unter die elektrische, fünfflammige Krone. Wo es nottat,
 spielte Schliepner den Dolmetscher. Harsts Fragen wurden
-so gestellt, daß die Leute kaum merkten, worauf es dem
+so gestellt, daß die Leute kaum merkten, worauf es dem,
 der bald dieses, bald jenes wissen wollte, eigentlich ankam.
 Dabei hatte es Harst offenbar lediglich darauf abgesehen, festzustellen,
 ob jemand von dem Personal die Hunde befreit und
 die Laterne zum Absturz gebracht haben könnte.
 
 Dieses Verhör dauerte eine geraume Zeit. Das Ergebnis
-war auch durchaus zufriedenstellend. Es zeigte sich, das
+war auch durchaus zufriedenstellend. Es zeigte sich, daß
 die meisten Javanen im Wirtschaftsanbau des Bungalows in
 dem gemeinsamen Speiseraum sich aufgehalten hatten und daß
 die, die in der letzten halben Stunde nicht dort mit den übrigen
@@ -810,12 +810,12 @@ Harst schlug die Steppdecke zurück. Kissen und Bezüge
 waren mit schwarzen Flecken in allen Größen völlig besät.
 Es war getrocknetes Blut. Auf dem Kissen lag ein Büschel
 schwarzes Haar mit einem Hautfetzen daran, außerdem noch
-eine blutbesudelte, mitten durchgeschnittene Zigarre die eben
+eine blutbesudelte, mitten durchgeschnittene Zigarre, die eben
 erst angeraucht gewesen war. Der Bezug des Kissens zeigte
 an der linken Seite einen fingerlangen Schnitt, der halb durch
 Blut verklebt war. Neben dem Bett auf einem Stuhl lagen
 Kleidungsstücke, wie sie ein ordnungsliebender Mensch beim
-Zubettgehen sauber aufschichtet. Obenan befand sich ein Paar
+Zubettgehen sauber aufschichtet. Obenauf befand sich ein Paar
 gelbseidener Herrensocken. Auf dem Nachttisch wieder bemerkte
 ich eine goldene Uhr nebst Kette, eine Lederbörse, eine
 Brieftasche, einen silbernen Zahnstocher, ein Federmesser und
@@ -831,7 +831,8 @@ Ich stand hinter Harst, als er sich jetzt zum Fenster hinausbeugte
 und den Lichtkegel der Lampe auf den Dielenbelag der
 <@pagebreak/>
 offenen Veranda fallen ließ, die sich auch hier entlangzog. Die
-Blutspur setzte sich bis zur Verandabrüstunng fort.
+Blutspur setzte sich bis zur Verandabrüstung fort.
+
 »Merkwürdig!« flüsterte Harst. »Ich hatte etwas ganz
 anderes zu finden vermutet. — Lieber Alter, was für einen
 Eindruck machen die Blutspritzer und -flecke auf Dich?«
@@ -870,16 +871,16 @@ schönen Frau langsam wieder zu. »Ihr Herr Vater kommt
 mit seinen Einkünften nie recht aus, wie ich gehört habe.
 Vor dreieinhalb Jahren war er, so erwähnte Baron van Zeerten
 so nebenbei, in Europa, in — Monte Carlo. Er soll dort
-Unsummen verspielt haben. Ihr Gatte ist reich Hoheit, nicht
+Unsummen verspielt haben. Ihr Gatte ist reich, Hoheit, nicht
 wahr?«
 
 Die Prinzessin war flammend rot geworden, senkte den
 Kopf und hauchte ein widerwilliges: »Sehr reich. Aber —
 jetzt nicht mehr.«
 
-»Ich bitte Sie, ganz offen zu sein.« sagte Harst nun in jenem
-gütigen herzlichen Tone, dem niemand so leicht widersteht.
-»Es handelt sich hier ja um sehr ernste Dinge, Hoheit.
+»Ich bitte Sie, ganz offen zu sein,« sagte Harst nun in jenem
+gütigen, herzlichen Tone, dem niemand so leicht widersteht.
+»Es handelt sich hier ja um sehr ernste Dinge, Hoheit. —
 Haben Sie sich mit dieser Heirat geopfert, um Ihren Herrn
 Vater wieder zu geordneten Verhältnissen zu verhelfen?«
 
@@ -891,7 +892,7 @@ Sie nickte nur schwach.
 »Zwei Millionen Gulden —« Sie schluchzte auf und bedeckte
 das Gesicht mit den Händen.
 
-»Ah — so reich ist Drygaarden! Das hätte ich nicht gedacht!
+»Ah — *so* reich ist Drygaarden! Das hätte ich nicht gedacht!
 — Hat er ein Testament hinterlassen?«
 
 »Ja. Seine Hinterlassenschaft ist jedoch nur noch gering,
@@ -918,9 +919,9 @@ das Papier hatte drei Blutspritzer.
 
 »Es ist die Ausgabe von Montag vor dem Morde,« sagte
 er nun, ohne den Kopf aufzurichten. »Sie ist am Dienstag
-Abend hier in Semarang eingetroffen und zur Verteilung gelangt.«
+abend hier in Semarang eingetroffen und zur Verteilung gelangt.«
 Er nahm das Blatt empor und trat damit vor den
-Ankleidespiegel, hielt die Titelseite schräg gegen des Licht
+Ankleidespiegel, hielt die Titelseite schräg gegen das Licht
 des einen Wandleuchters und meinte:
 
 »Wie ein Stempel hat er sich infolge der weichen Fellunterlage
@@ -932,7 +933,7 @@ hatte.
 
 Dann sagte er in leichtem Plauderton zu der Prinzessin:
 
-»Hatten Sie viel Regen während der Jagd-Partie, Hoheit?«
+»Hatten Sie viel Regen während der Jagdpartie, Hoheit?«
 
 »Nein. Nur ein kurzes Gewitter.«
 
@@ -1031,12 +1032,12 @@ nicht beirren, daß Harst soeben behauptet hatte, die Prinzessin
 sei in der Mordnacht hier in Semarang gewesen.
 
 »Sehr gut!« meinte Harst, als ich jetzt schwieg. »Genau
-dasselbe hatte ich mir anfänglich ebenfalls zusmmengereimt,
+dasselbe hatte ich mir anfänglich ebenfalls zusammengereimt,
 freilich sofort mit dem inneren Vorbehalt, daß es falsch sein
 müsse. Denn diese Annahme eines Stelldicheins zwischen der
 Prinzessin und dem Major war mir eben zu einfach; sie lag zu
 klar auf der Hand. Derartigen Teillösungen eines Falles soll
-man stets Mißtrauen — stets! Und hier war dieses Mißtrauen
+man stets mißtrauen — stets! Und hier war dieses Mißtrauen
 durchaus berechtigt. Gehen wir die Sache nun kurz
 in ihren einzelnen Abschnitten durch. Dieses Verbrechen hat
 eine Vorgeschichte, eine Einleitung, die man betiteln könnte:
@@ -1055,7 +1056,7 @@ verliebt sich als verheiratete Frau in einen anderen!«
 
 »Aha — Jan de Bartreux!« rief Schliepner.
 
-»Nein, mein Bester, nicht Jan de Bartreux. Welche Rolle
+»Nein, mein Bester, nicht Jan de Bartreux! Welche Rolle
 dieser in unserem Drama spielt, ist noch nicht geklärt. — Es
 ereignet sich dann folgendes: Der Doktor merkt, daß die Liebe
 seines Weibes einem anderen Manne gehört. In seiner tollen
@@ -1087,14 +1088,14 @@ war. Sie, bester Schliepner, erwähnten ja gelegentlich, daß
 das eine Fenster offenstand. Die Prinzessin fand die Blutspuren,
 wird in hellem Entsetzen davongestürmt und ebenso
 überhastet nach Surakarta zurückgeritten sein. Ein guter
-Reiter braucht für die Entfernung Semarang-Surakarta mindestens
+Reiter braucht für die Entfernung Semarang—Surakarta mindestens
 zehn Stunden. Um elf Uhr vormittags traf die Prinzessin
 bekanntlich in Surakarta wieder ein. Mithin muß sie
 <@pagebreak/>
 Semarang spätestens gegen Mitternacht verlassen haben, und
 das Verbrechen dürfte am Dienstag zwischen zehn und zwölf
 Uhr nachts verübt worden sein. — Wie wurde der Mord nun
-ausgeführt, — mit Hilfe eines indischen Hauschwertes mit
+ausgeführt: — mit Hilfe eines indischen Hauschwertes mit
 sehr dünner Klinge aus der Waffensammlung des Doktors!
 Denn dieses eine Hauschwert war frisch geschliffen, wenn auch
 nachher künstlich wieder mit Rostflecken versehen worden.
@@ -1118,7 +1119,7 @@ nur bei außergewöhnlich starker Übermüdung geschehen, die
 in diesem Falle auf einen Schlaftrunk zurückzuführen sein
 dürfte, da dieser dem Mörder noch den Vorteil bot, in aller
 Ruhe den Mann kaltblütig abschlachten zu können. Die Leiche
-beseitigt er dann. Der Park und die Umgebung sind umsonst
+beseitigt er dann. Der Park und die Umgebung sind umsonst,
 selbst mit Spürhunden, nach dem Toten abgesucht worden.
 Dies ist so auffallend, daß man notwendig auf den Gedanken
 kommen muß, Drygaarden hat die Leiche dort verscharrt, wo
@@ -1202,7 +1203,7 @@ Urlaub bat. Er wollte hier Bekannte besuchen.«
 
 »Wo schläft er?«
 
-»Im Wirtschaftsgebäude.« Als Harst nichts mehr
+»Im Wirtschaftsgebäude.« — Als Harst nichts mehr
 fragte, wandte der kleine Dicke sich an Schliepner.
 
 »Herr Inspektor, denken Sie, man hat mich bestohlen.
@@ -1216,17 +1217,17 @@ noch in Spiritus. Das war mir ein Trost.«
 
 Schliepner nickte dem Alten zu. »Morgen suchen wir die
 Hand! Auch Herr Harst wird sich alle Mühe geben, diese Ihnen
-so wertvolle Relique wieder herbeizuschaffen. — Gute
+so wertvolle Reliquie wieder herbeizuschaffen. — Gute
 Nacht, Swaardam.«
 
 Der Dicke verschwand. Er war wirklich ganz geknickt
 über den Verlust.
 
 Harst erhob sich. »Gehen wir zu Bett,« meinte er. »Das
-heißt: zum Schein zu Bett! Ich bitte Sie, Landsmann nach
+heißt: zum Schein zu Bett! Ich bitte Sie, Landsmann, nach
 zehn Minuten etwa ganz leise und im Dunkeln in unser
 Schlafzimmer zu kommen. Das Ihrige schließen Sie ab und
-verriegeln auch die Fenster. Bei uns soll eines offenbleiben,
+verriegeln auch die Fenster. Bei uns soll eines offen bleiben,
 damit der Doktor es bequemer hat.«
 
 »Ich verstehe!« flüsterte Schliepner eifrig. »Mein neuer
@@ -1264,7 +1265,7 @@ vor mir, getrennt durch die ganze Breite des Zimmers, von
 diesem etwas helleren länglichen Viereck, das ich als solches
 nur bei genauem Hinsehen erkannte.
 
-Die Zeit verstrich. Ich schnarchte aufgestützt auf den
+Die Zeit verstrich. Ich schnarchte, aufgestützt auf den
 rechten Arm, und ließ kein Auge von dem Fenster. Nichts
 geschah — nichts! — Im Nebenzimmer schlug eine Uhr die
 zweite Morgenstunde. Im Garten schluchzte eine Bul-Bul,
@@ -1303,7 +1304,7 @@ klangen, nur daß der eine hier im Zimmer abgegeben worden
 war. Dicht neben mir spritzte der Kalk von der Wand.
 Und ich sah, wie Harst und hinter ihm Schliepner durch das
 Fenster sprangen. — Ich ahnte das richtige: Drygaarden
-hatte uns wecken und dann nieder schießen wollen! Harst war
+hatte uns wecken und dann niederschießen wollen! Harst war
 ihm aber mit seiner Kugel zuvorgekommen! — Ich schaute
 mich nach dem Gegenstande um, der soeben die Vase herabgeworfen
 hatte. Es war — Swaardams Orden, Swaardams
@@ -1325,7 +1326,7 @@ Tod Verwundete röchelte schwer. Zwei Blutfäden liefen aus
 den Mundwinkeln zum Kinn hinab.
 
 Noch einmal kam der Doktor zu sich, schlug die Augen
-voll auf, richtete den klaren Blick erst auf Schliepner dann
+voll auf, richtete den klaren Blick erst auf Schliepner, dann
 auf Harst, der neben ihm kniete.
 
 »Geben Sie zu, Ihren Freund, den hiesigen englischen
@@ -1381,7 +1382,7 @@ Drygaarden war damals ebenfalls Gast seines
 Schwiegervaters! Es war nichts als ein sehr raffiniertes
 Attentat auf Towsends Leben! — Heute vormittag aber wird
 uns die Prinzessin mitteilen müssen, wie sie in jener Nacht
-in das Mordzimmer gelangte und was Major de Bartreux
+in das Mordzimmer gelangte, und was Major de Bartreux
 mit alledem zu tun hat.« —
 
 Um acht Uhr bereits weckte uns Schliepner und führte

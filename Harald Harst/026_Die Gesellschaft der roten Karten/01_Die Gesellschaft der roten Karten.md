@@ -43,7 +43,7 @@ Schraut, zwei auf unserem Planeten recht berühmte Größen.«
 <@pagebreak/>
 Der Prinz, ein kleiner, beleibter Herr mit verwaschenen
 Augen, einer tadellosen, dunklen Scheitelperücke und dunkel
-gefärbtem langgezogenem Schnurrbart hatte sich hastig erhoben
+gefärbtem, langgezogenem Schnurrbart, hatte sich hastig erhoben
 und streckte zuerst Harst, dann mir die Hand hin, rief
 dabei in tadellosem Deutsch:
 
@@ -63,8 +63,8 @@ mir sehr sympathisch waren.
 Kaum hatte Harst diesen Redeschwall Seiner Durchlaucht
 überstanden, als Lord Wolpoore uns einem zweiten Gast vorstellte,
 einem holländischen Großkaufmann namens van
-Wreeden der gleichfalls in Batavia ansässig war und mit
-dem Land schon jahrelang geschäftlich zu tun hatte.
+Wreeden, der gleichfalls in Batavia ansässig war und mit
+dem Lord schon jahrelang geschäftlich zu tun hatte.
 
 Wreeden war das genaue Gegenstück zu dem Prinzen:
 lang, hager, wortkarg und von unerschütterlicher Ruhe.
@@ -77,8 +77,8 @@ Büffeljagden. Der Prinz war ein leidenschaftlicher Jäger
 und befand sich auch jetzt auf der Rückkehr von einer Jagdstreife,
 bei der er in drei Tagen vier Tiger erlegt hatte.
 
-Mir fiel auf, daß van Wreeden, der ein bartloses faltiges,
-tiefgebräuntes Gesicht mit ernsten großen Augen hatte,
+Mir fiel auf, daß van Wreeden, der ein bartloses, faltiges,
+tiefgebräuntes Gesicht mit ernsten, großen Augen hatte,
 ein paarmal verstohlen lächelte, als der Prinz von seinen
 Nimrodtaten<@refnote 1/> in der Bergwildnis Inner-Sumatras erzählte.
 
@@ -91,7 +91,7 @@ Wir waren zu sieben dort versammelt. Außer den schon
 Genannten befand sich auf der Veranda noch der erste Prokurist
 Wreedens, ein Herr Hendrik Valdenholm, ebenfalls ein
 <@pagebreak/>
-Holländer gleich seinem Chef die Ruhe und die Zurückhaltung
+Holländer, gleich seinem Chef die Ruhe und die Zurückhaltung
 in Person.
 
 Als der Prinz jetzt den Vorrat seiner haarsträubenden
@@ -112,7 +112,7 @@ Sundainseln bereisen,« fügte er hinzu. »Ihre geheimnisvolle
 Angelegenheit lockt mich natürlich ganz besonders,
 Master van Wreeden. Wenn die anderen Herren nichts dagegen
 haben, könnten Sie uns die Sache mal vortragen. Gerade
-weil Sie ein Mann von so kühlem Verstande, von einem
+weil Sie, ein Mann von so kühlem Verstande, von einem
 für mich neuartigen Problem sprachen, muß wohl auch ganz
 Besonderes dahinter stecken.«
 
@@ -164,14 +164,14 @@ der lange Holländer etwas erregt. »Aber leider. Das Ganze
 ist so, als ob man nach Nebelgestalten griffe. Ich will jedoch
 versuchen, Ihnen wenigstens einen leidlich klaren Einblick
 in diese mysteriösen Dinge zu geben, die diese Bezeichnung
-mysteriös wirklich verdienen.«
+mysteriös wirklich verdienen.
 
 Vor drei Jahren merkte man in Batavia zum ersten
 Male etwas von dieser Bande. Damals sollte von einem
 meiner Freunde, einem Edelsteinhändler, eine Sendung ungeschliffener
 Java-Diamanten nach Amsterdam abgeschickt
 werden. Die Edelsteine waren in ein Holzkistchen mit verlötetem
-Bleicheinsatz verpackt. Das Kistchen wurde jedoch
+Blecheinsatz verpackt. Das Kistchen wurde jedoch
 noch vor der Abfahrt des betreffenden Dampfers gegen ein
 äußerlich völlig gleiches ausgetauscht. Wie und wann dies
 geschah, weiß kein Mensch. Jedenfalls erhielt mein Freund
@@ -180,7 +180,7 @@ Karte zugeschickt, auf der ihm mitgeteilt wurde, daß der
 Dampfer lediglich Kieselsteine nach Europa bringe und daß
 die Diamanten sich im Besitz der unterzeichneten »Gesellschaft«
 befänden, die bereit sei, die Edelsteine gegen eine
-Summe von 15000 Pfund Sterling dem Eigentümer wieder
+Summe von 15&nbsp;000 Pfund Sterling dem Eigentümer wieder
 auszuhändigen.
 
 Mein Freund telegraphierte sofort nach Kalkutta, wo
@@ -233,7 +233,7 @@ neu. Da haben Sie ganz recht, Master van Wreeden. — Die
 Arbeitsmethode dieser Stern-Gesellschaft überschaue ich bereits.
 Die Spitzbuben bieten regelmäßig das gestohlene Gut
 dem Eigentümer gegen — »eine Entschädigung für gehabte
-Mühte« wieder an; der Austausch von Ware gegen Lösegeld
+Mühe« wieder an; der Austausch von Ware gegen Lösegeld
 findet stets auf See statt, weil die Bande wahrscheinlich ein
 <@pagebreak/>
 sehr schnelles Motorboot besitzt, mit dem sie sich jeder Verfolgung
@@ -261,7 +261,7 @@ muß fraglos stets gewarnt worden sein. Zweimal hatte die
 Polizei sogar einige zwanzig Motor- und Dampfbarkassen
 zur Einkreisung des — »Stern-Bootes« bereitgehalten. Doch
 — diese Spitzbuben sind eben nicht zu fassen, weder bei den
-Diebereien selbst noch nachher bei dem Austausch von Ware
+Diebereien selbst, noch nachher bei dem Austausch von Ware
 gegen Lösegeld.«
 
 Lord Wolpoore nickte Harst zu.
@@ -312,7 +312,7 @@ und flüsterte mir zu:
 roten Karten? — Ich selbst glaube, wir werden die Sache in
 kurzem zur Zufriedenheit der Kaufleute in Batavia geklärt
 haben. Den »Hauptmacher« dabei kenne ich schon. Es ist
-zweifellos der Prinz Frederik von Blönheelm.«
+zweifellos — der Prinz Frederik von Blönheelm.«
 
 Ich fuhr ordentlich hoch im Bett.
 
@@ -376,7 +376,7 @@ Javanen gelenkter Wagen bog gerade in ein neues Kampong
 Wagen so hart mit der Achse aufschlug, daß diese sich verbog.
 
 Nachdem wir uns von dem Schreck erholt, denn wir hatten
-gehörige Püffe abbekommen und nachdem wir auch festgestellt
+gehörige Püffe abbekommen, und nachdem wir auch festgestellt
 hatten, daß der Wagen jetzt nicht mehr zu benutzen war,
 gingen wir drei zu Fuß weiter. Wreeden wollte in dem zumeist
 von Chinesen bewohnten Kampong sich nach einem
@@ -431,8 +431,8 @@ worden!« sagte er. »Und wir berühmte Herren lassen uns so
 Ohne unser gewöhnliches Handwerkzeug: Taschenlampe,
 Selbstspanner und Taschenmesser, waren wir nie. Auch jetzt
 nicht. Harst schaltete also seine Taschenlampe ein und leuchtete
-das etwa 6 Meter tiefe und drei Meter breite Erdloch ab;
-es hatte Bretterwände, die stellenweise schon verfault waren.
+das etwa 6 Meter tiefe und drei Meter breite Erdloch ab.
+Es hatte Bretterwände, die stellenweise schon verfault waren.
 
 Der Lichtkegel blieb dann auf einer Stelle der Holzverschalung
 haften. Ich schaute genauer hin, nahm zunächst nur
@@ -451,7 +451,7 @@ ausgestrichene Druckschrift geschrieben hatte.
 »Welche Frechheit!« rief ich leise. »Wir beide sind als
 Ware behandelt worden, wir sollen für unsere Freilassung
 an die »Gesellschaft« eine halbe Million Mark zahlen. Also
-Erpresser sind’s auch diese Halunken.«
+Erpresser sind’s auch, diese Halunken.«
 
 »Ja — und einen Scheck über diese Summe soll ich ausstellen,
 den die Java-Bank hier schon einlösen würde!« fügte
@@ -460,7 +460,7 @@ Da — zum Schluß steht noch, ich solle auch einen Brief an Lord
 Wolpoore schreiben und diesen bitten, für mich bei der Bank
 gutzusagen!« Eine kurze Pause. Dann ganz leise: »Ich werde
 den Brief schreiben! Die Halunken sollen sich wundern!« Das
-klang so drohend daß ich fragte:
+klang so drohend, daß ich fragte:
 
 »Was hast Du mit diesem Briefe vor?«
 
@@ -472,7 +472,7 @@ verdächtige Geräusch gehört. Und doch wurden wir
 jetzt plötzlich zu Boden gerissen, während man uns gleichzeitig
 Decken über den Kopf warf. Ich wehrte mich verzweifelt
 gegen die unsichtbaren Angreifer, bis ich ganz dumpf Harsts
-Stimme vernahm: »Keinen Widerstand, Schraut — zwecklos!«
+Stimme vernahm: »Keinen Widerstand, Schraut, — zwecklos!«
 
 Ich sah das selbst ein. — Man band mir die Hände über
 der Brust gekreuzt so fest zusammen, daß der Druck der
@@ -578,14 +578,14 @@ wir unfähig sind, ihnen einen Streich zu spielen.«
 Er richtete sich wieder auf, sagte laut — natürlich in der
 Annahme, daß wir ständig beobachtet und belauscht würden:
 
-»Wir sollen also das Gruseln lernen, Schraut! Ich meine
+»Wir sollen also das Gruseln lernen, Schraut! Ich meine,
 auch in dieser javanischen Schule werden wir’s nicht lernen!
 Ich habe meine Nerven jetzt wieder in der Gewalt.« —
 
 So sprach Harst zu einer Zeit, in der wir immerhin noch
 leidlich bei Kräften waren. — Es begannen nun Stunden,
-Tage über deren Zahl wir uns nicht klarwerden konnten.
-Unsere Zelle hatte während wir schliefen ein neues Möbelstück
+Tage, über deren Zahl wir uns nicht klarwerden konnten.
+Unsere Zelle hatte, während wir schliefen, ein neues Möbelstück
 erhalten, daß ich hier nur seiner Beschaffenheit nach andeuten
 will: ein Faß mit einem Holzdeckel, das man in anderer
 Aufmachung in modernen Wohnungen stets ins Badezimmer
@@ -594,7 +594,7 @@ blicken. Unsere gefesselten Arme starben uns ab; die Muskeln
 wurden von Krämpfen befallen. Wir litten entsetzlich.
 Sehr bald vermochten wir uns kaum mehr von unseren Lagerstätten
 zu erheben. In der von Gestank erfüllten, verbrauchten
-Luft, trockneten unsere Kehlen aus, daß wir kaum
+Luft trockneten unsere Kehlen aus, daß wir kaum
 noch sprechen konnten. Die Petroleumlampe wurde stets wieder
 gefüllt, ohne daß wir jemand gewahr wurden.
 
@@ -662,11 +662,13 @@ bei der Java-Bank dafür sorgen, daß mein Scheck schnell
 eingelöst wird. Mein Guthaben auf der Deutschen Bank in
 Berlin beträgt jetzt genau 456 836 Mark. Ich bin also für
 eine halbe Million stets gut. Meine Kontonummer dort
-ist 4891234 meine Telephonnummer in Berlin ist Schmargendorf
+ist 4891234. Meine Telephonnummer in Berlin ist Schmargendorf
 1245\. Bitte erledigen Sie alles Nötige. Dank im
-voraus Ihr
+voraus
 
-> Harald Harst
+> Ihr
+
+> Harald Harst.
 
 Dieselben Wörter, die in diesem Briefe hier stärker gedruckt
 sind, waren auf dem Original mit roter Farbe oder
@@ -684,7 +686,7 @@ sich von uns trennte. Schnelle Rettung tut not.
 Harst hatte diese Sätze also versteckt in den anders lautenden
 Brieftext hineingebracht, um Wolpoore auf unsere
 Spur zu leiten. Und natürlich hatte er sie niemals irgendwie
-gekennzeichnet diese Wörter! Nein — rot unterstrichen
+gekennzeichnet, diese Wörter! Nein — rot unterstrichen
 hatte sie ein anderer, der sie richtig herausgefunden und
 zusammengestellt hatte. Und dies konnte nur einer von der Gesellschaft
 der roten Karten gewesen sein!
@@ -716,14 +718,14 @@ war!
 Rechts von mir eine Stimme: »Schade! Ich habe die
 Leute wieder unterschätzt! Es war abermals eine verfehlte
 Spekulation — total verfehlt! Das lag aber nur an meiner
-körperlichen und geistigen Anspannung. Ich fand eben
+körperlichen und geistigen Abspannung. Ich fand eben
 im Augenblick nichts Besseres!«
 
 Ich hatte mich umgewandt. Harald saß aufrecht auf seinem
 Lager.
 
 »Lieber Alter,« fuhr er fort, »die roten Striche kann ich
-von hier sehr gut sehen. Ja — so, nun ist die halbe Million
+von hier sehr gut sehen. Ja — ja, nun ist die halbe Million
 futsch! Na — trösten wir uns; wir gewinnen dadurch die
 <@pagebreak/>
 Freiheit! — Bitte, dreh’ doch mal den Bogen um! Vielleicht
@@ -770,8 +772,8 @@ Aber — man kann ja kein Wort mit ihm wechseln.«
 
 Er hatte sich in dem Stuhl weit zurückgelehnt. »Ich
 muß mir Bewegung machen,« fuhr er fort. »Gib mir bitte
-Deinen Schemel. Ich will ihn als Hantel mitbenutzen. —«
-Er erhob sich, begann mit den Schemeln Freiübungen bis —
+Deinen Schemel. Ich will ihn als Hantel mitbenutzen.« —
+Er erhob sich, begann mit den Schemeln Freiübungen, bis —
 bis er plötzlich so stark gegen das gläserne Lampenbassin stieß,
 daß dieses zersplitterte, das Petroleum zusammen mit den
 Splittern auf den Lehmboden fiel und die Lampe nun sehr
@@ -842,7 +844,7 @@ Zimmer des Hausherrn ganz offen dalagen.«
 Wir verbargen uns dann, aßen uns an Feigen und dem
 Fleische reifer Kokosnüsse satt und warteten bis zum Abend,
 ehe wir uns, jetzt zwei dreckige, krumme Chinesen mit Kopftüchern
-um, die mit dem Blütenstaub einer großblumigen
+um die mit dem Blütenstaub einer großblumigen
 Pflanze leidlich gelbbraun gefärbten Gesichter, auf den Weg
 nach dem Konningsplein (Königsplatz) im Europäerviertel
 machten, an dem Wreedens Junggesellenheim lag. Harst fand
@@ -889,14 +891,14 @@ gesessen.
 Der Chinese trug jetzt keine Maske. Es war ein Mann
 in besten Jahren mit dünnem Schnurr- und Kinnbart. Wir
 fesselten ihn. Er kam bald wieder zu sich. Aber — er blieb
-stumm. Harst versprach ihm 10000 Mark und möglichste
+stumm. Harst versprach ihm 10&nbsp;000 Mark und möglichste
 Straffreiheit. Nichts machte auf den kaltblütigen Halunken
 Eindruck. Er wurde in eine Kammer getragen und dort eingeschlossen.
 
 Auf Harsts Wunsch saßen wir nun im Dunkeln in Wreedens
 Arbeitszimmer, rauchten und erörterten das Geschehene.
 Der Holländer war sprachlos über die Raffiniertheit, mit der
-wir durch ein scheinbar durchgehendes Pferd in jene Halle hineingeführt
+wir durch ein scheinbar durchgehendes Pferd in jene Falle hineingeführt
 worden waren. Er hatte jenen Wagen natürlich
 nicht für uns bestellt gehabt, war vielmehr von einem chinesischen
 Kaufmann, einem der gelben Millionäre Batavias,
@@ -922,7 +924,7 @@ Zigarren.
 Spitzbuben sein, die ihr Gewerbe mit Hilfe gedruckter Karten
 treiben. — Besitzt Blönheelm vielleicht ein Motorboot?«
 
-»—Allerdings. Es ist weiß gestrichen wie alle hier. Aber
+»Allerdings. Es ist weiß gestrichen wie alle hier. Aber
 — es läuft keine 15 Knoten. Und das der »Gesellschaft«
 schafft bequem 25 Knoten. Im übrigen ist das auch sehr gleichgültig,
 bester Harst, denn der Prinz ist ein harmloser Narr
@@ -934,7 +936,7 @@ einer davon hierher kommt, reist er ins Innere, nur um einem
 seiner Sippe nicht zu begegnen.«
 
 »Und doch ist Blönheelm der — Obermacher der »roten
-Karten!« erklärte Harst sehr bestimmt. »Die Beweise hierfür
+Karten«!« erklärte Harst sehr bestimmt. »Die Beweise hierfür
 erhielt ich schon auf der Plantage Lord Wolpoores.
 Als ich mir Ihre rote Karte, die sich dann Blönheelm schenken
 ließ, ansah, ganz besonders den Sternstempel mit den
@@ -974,7 +976,7 @@ Jetzt vor der Veranda eine heisere, helle Stimme:
 »Wreeden — hallo! Wir sind hier zu vieren und haben
 Durst auf Ihren alten Rheinwein, kommen gerade aus dem
 Klub —! Wreeden — raus aus dem Bett, aufgemacht! Hier
-stehen vier halbvolle die — ganz voll werden wollen.«
+stehen vier halbvolle, die — ganz voll werden wollen.«
 
 Offenbar war dieser Herr stark bezecht.
 
@@ -1013,11 +1015,11 @@ unserem Verschwinden zu sprechen.
 sehr dicht auf den Fersen,« sagte er jetzt. »Ich habe zwar
 von Harst seit diesen vier Tagen — nein fünf sind es ja! —
 weder etwas gesehen noch gehört, aber eine ganz bestimmte
-Tatsache gibt mir die Gewissheit, daß ich mich nicht irre.«
+Tatsache gibt mir die Gewißheit, daß ich mich nicht irre.«
 
 »Tatsache?!« lachte Blönheelm ironisch. »Welche denn?!«
 
-»Nun die Tatsache, daß ich jetzt herausgefunden habe,
+»Nun — die Tatsache, daß ich jetzt herausgefunden habe,
 daß irgend jemand absichtlich am linken Hinterrade meines
 Wagens die Buchsenschraube gelockert hat, damit der Wagen
 nach einiger Zeit das Hinterrad verlöre und unbrauchbar
@@ -1038,7 +1040,7 @@ Sammlung ungeschliffener Edelsteine nach Amsterdam zum
 Schleifen zu senden. Morgen nachmittag 5 Uhr verläßt der
 große Frachtdampfer »Antje von Grooningen« den Hafen.
 Der nimmt den kleinen Lederkoffer mit, in dem mein steinerner
-Schatz in einer Stahlkassete ruht. Kein Mensch ahnt etwas
+Schatz in einer Stahlkassette ruht. Kein Mensch ahnt etwas
 davon, daß die Antje diesmal Edelsteine im Werte von
 einer Million davonführt. Sie, meine Herren, werden ja
 schweigen.« —
@@ -1076,7 +1078,7 @@ chinesischen Millionär Lian Tschio gehöriges Gehöft, das dort
 in Flammen stehe. »Der Verwalter seiner Reispflanzungen
 wohnt dort, auch ein Chinese,« fügte er hinzu.
 
-Wir dankten bescheiden und ging weiter. Der Polizist
+Wir dankten bescheiden und gingen weiter. Der Polizist
 hielt uns sicher für chinesische Kulis, die hier noch fremd
 waren. —
 
@@ -1084,7 +1086,7 @@ Eine halbe Stunde drauf — es war genau 2 Uhr morgens
 <@pagebreak/>
 — verließ ein dicker Chinese das elegante Haus des
 Prinzen und wanderte gemächlich der Altstadt von Batavia
-zu. Ihm folgten zwei schmierige andere Chinesen bis vor das
+zu. Ihm folgten zwei schmierige, andere Chinesen bis vor das
 Gartentor eines am Hauptkanal gelegenen Grundstücks.
 
 Inzwischen war es bereits ziemlich hell geworden und
@@ -1101,7 +1103,7 @@ vor sich herschob und seine Waren in allen Sprachen mit
 schriller Stimme anpries, allerlei eingekauft und dabei erfahren
 hatten, daß das Grundstück dem »großmächtigen, sehr ehrenwerten
 und sehr reichen Lian Tschio« gehörte, wählten
-wir eine verfallene leerstehende Bambushütte in einer Seitengasse
+wir eine verfallene, leerstehende Bambushütte in einer Seitengasse
 als vorläufiges Quartier, aßen und streckten uns
 zum Schlafe aus. Wir waren beide jetzt mehr tot als lebendig.
 Nach den Aufregungen der verflossenen Tage folgte nun
@@ -1132,7 +1134,7 @@ Schließlich wurde ein vorübergehender, breitschultriger
 Holländer auf uns aufmerksam. Wir standen noch mit dem
 Pförtner in der Vorhalle. Der in tadellos weißes Leinen gekleidete
 Holländer fixierte uns scharf. Dann trat er näher.
-Ich hörte wie Harst hastig ihm zuflüsterte — auf Deutsch:
+Ich hörte, wie Harst hastig ihm zuflüsterte — auf Deutsch:
 
 »Harald Harst. — Bitte unauffällig. Möchte Sie allein
 sprechen.«
@@ -1172,7 +1174,7 @@ wir — Schwätzer. Nichts weiter. Dabei aber eine Seele
 von Mensch.«
 
 »Hat er mit Ihnen nicht recht oft über die Gesellschaft
-der roten Karten gesprochen? Haben Sie ihm nicht jedesmal
+der roten Karten gesprochen? Haben Sie ihm nicht jedes Mal
 mitgeteilt, wenn die Hilfe der hiesigen Kriminalpolizei
 von einem der Geschädigten angerufen worden war?«
 
@@ -1217,7 +1219,7 @@ dort eingekerkert waren. Es mußte besonders der Stall
 verschwinden, den wir doch nach unserer Flucht wiedererkannt
 hätten. Er mußte so gänzlich zerstört werden, daß unser Kerkermeister
 nachher frech behaupten konnte, wir hätten uns
-geirrt: wir wären anderswo eingesperrt gewesen und irrten
+geirrt; wir wären anderswo eingesperrt gewesen und irrten
 uns in der Örtlichkeit, die wir ja nur bei der Dunkelheit
 gesehen hätten. Diese Chinesen verstehen das Lügen wie selten
 ein Volk. Gewiß — wir sind am Tage dort in das Gehöft
@@ -1324,7 +1326,7 @@ Farbe in der Hand.
 
 »Achtung!« flüsterte der größere der beiden chinesischen
 Würfelspieler da. »Wir müssen die Augen gut aufhalten,
-Schraut! Ich bin gespannt wie man diesmal den Streich
+Schraut! Ich bin gespannt, wie man diesmal den Streich
 ausführen wird.«
 
 <@pagebreak/>
@@ -1384,7 +1386,7 @@ Wir drei gingen schnell weiter. Das Auto sollte nach einer
 Viertelstunde folgen und vor dem Hause des Prinzen
 halten.
 
-Am Garteneingang versperrte uns ein maleiischer Diener
+Am Garteneingang versperrte uns ein malaiischer Diener
 den Weg. Es war einer der beiden Leute, die Blönheelm
 mit auf der Plantage Wolpoores gehabt hatte.
 
@@ -1491,7 +1493,7 @@ haben,« fügte Harst nach kurzer Pause hinzu. »Budeng
 Ma wird hier sofort eintreten. Ich kenne nun die Chinesen
 zur Genüge. Budeng Ma wird jetzt, wo er alles verloren
 sieht, schleunigst ein Geständnis ablegen. — Dasselbe rate
-ich *Ihnen*«, sagte er erhabenen Tones zu dem angeblichen
+ich *Ihnen*,« sagte er erhabenen Tones zu dem angeblichen
 Prinzen. »Geben Sie zu, hier den Chinesen Lian Tschio gespielt
 zu haben? Dieser müßte sich jetzt ja in diesem Hause
 befinden! Sein Wagen ist leer davongefahren. — Sie sind
@@ -1515,8 +1517,8 @@ Quittung für unsere brutale Behandlung in dem Gehöft Budeng-Ma’s!«
 
 <@pagebreak/>
 Baron van Zeerten war inzwischen ans Fenster gegangen
-und hatten dem Chauffeur des Polizeiautos etwas zugerufen.
-— Jetzt trat Budeng-Ma in Begleitung eines Beamten ein.
+und hatte dem Chauffeur des Polizeiautos etwas zugerufen.
+— Jetzt trat Budeng Ma in Begleitung eines Beamten ein.
 
 Harst hatte alles richtig vorausgesehen: der Chinese gab
 jetzt sofort sein Geständnis zu Protokoll. Daß hier nur ein
@@ -1524,11 +1526,11 @@ Betrüger den Prinzen Blönheelm spielte, wußte er ganz offenbar
 nicht. Dafür konnte er aber über das Schicksal des wahren
 Lian Tschio genaue Angaben machen, deren Einzelheiten
 hier nicht weiter interessieren. Jedenfalls waren Lian Tschio
-und Budeng-Ma früher in China Flußpiraten gewesen, hatten
+und Budeng Ma früher in China Flußpiraten gewesen, hatten
 flüchten müssen und kamen schließlich nach Batavia, wo
 durch eine Verkettung besonderer Umstände der falsche Blönheelm
 erst Lian Tschio ermorden und berauben und dann in
-Budeng-Ma ein gehorsames Werkzeug gewinnen konnte. Die
+Budeng Ma ein gehorsames Werkzeug gewinnen konnte. Die
 »Gesellschaft der roten Karten« hatte nur aus acht Personen
 insgesamt bestanden. Oberhaupt der Bande war der angebliche
 Prinz, der bei seinen nahen Beziehungen zu den Kaufleuten
