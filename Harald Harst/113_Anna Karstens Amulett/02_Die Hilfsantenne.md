@@ -16,7 +16,7 @@ Damals, als wir Mai 1923 den Professor Simpson
 <@pagebreak 37/>
 uns als Opferlamm erkoren hatten, waren zwar die technischen
 Einzelheiten des Radioverkehrs bereits fast ebenso
-weit vorgeschritten wie heute. Aber ein Voxhaus, das uns
+weit vorgeschritten wie heute. Aber ein Voxhaus<@refnote 1/>, das uns
 jeden Tag laut und deutlich Musik, Vorträge und anderes
 übermittelt, gab es noch nicht. Auch Harald und ich besaßen
 noch keinen »Radio«. Heute, wo ich dies niederschreibe,
@@ -164,7 +164,7 @@ Auch wir verließen den Bahnhof.
 
 Wir suchten eine nahe Kneipe auf, die unserem Kostüm
 <@pagebreak/>
-entsprach. Es trat eine üble Kaschemme, eine ganz üble …
+entsprach. Es war eine üble Kaschemme, eine ganz üble …
 
 Wir setzten uns in eine Ecke, und Harst bestellte zwei
 Kalbsschnitzel und zwei Glas Grog.
@@ -313,7 +313,7 @@ Eine Weile nichts … Dann wieder Simpson, durchaus
 nicht drohend, eher liebenswürdig-eindringlich:
 
 »Herr Harst, so antworten Sie doch! Ich habe damit
-gerechnet, daß Sie mir folgen würden, daß Sie dann hier-herkommen
+gerechnet, daß Sie mir folgen würden, daß Sie dann hierherkommen
 würden.«
 
 Harald schwieg …
@@ -392,7 +392,7 @@ Simpson lachte ärgerlich auf. »Lieber Geheimrat, ich
 muß Ihre und Herrn Hammers Hilfe leider noch weiter in
 Anspruch nehmen. Harst kann nur dort rechts über die
 Treppe in die oberen Räume geflüchtet sein. Hier in der
-Halle gibt es kein Versteck, und an uns konnte er nicht vornüber.
+Halle gibt es kein Versteck, und an uns konnte er nicht vorüber.
 Suchen wir ihn …«
 
 Inzwischen hatte ich nach diesem peinlichen Erlebnis
@@ -668,7 +668,7 @@ ab, blieb vor meinem Sessel stehen …
 »Merkwürdig, wie ein Mensch plötzlich Sehnsucht nach
 dem Tode empfinden kann,« sagte er sehr ernst. »Gnirable
 weiß, daß man ihn in England aufknüpfen wird, denn dem
-Buchstaben des Gesetztes nach ist er ja ein Mörder. Seine
+Buchstaben des Gesetzes nach ist er ja ein Mörder. Seine
 Reue ist fraglos aufrichtig. Er … tut mir leid …« —
 
 Gleich darauf lag ich im Bett und schlief auch sofort
@@ -719,7 +719,7 @@ die Person jenes Fremden …«
 »… Es ist ein Detektiv, Bechert.« Harst nahm eine
 Zeitung aus der Tasche. »Bitte — hier die Berliner Tagespost
 <@pagebreak/>
-von vor zwei Wochen … Hier steht, daß das Bootshaus
+von vor zwei Wochen … Hier steht, daß das Bankhaus
 Golden, Laws u. Comp. in London durch die Falschmünzer
 ebenfalls um 21&nbsp;000 Pfund geschädigt worden ist und daß
 die Bank daher beabsichtigt, auch ihrerseits der gefährlichen
@@ -777,7 +777,7 @@ angewiesen, in mäßigem Tempo durch sämtliche Straßen der
 Villenkolonie zu fahren.
 
 »Ich suche ein Haus, das Antennen auf dem Dache
-hat,« erklärte er mir. »Wir werten dem Chauffeur vielleicht
+hat,« erklärte er mir. »Wir werden dem Chauffeur vielleicht
 eine ganze Menge Fahrgeld zu verdienen geben. Wenn wir
 in Dahlem nichts finden, suchen wir im Kreise weiter. Und
 wenn ich drei Stunden fahren müßte: ich will einen Erfolg
@@ -902,7 +902,7 @@ Jedes Metall fängt die Wellen auf …«
 Doktor Winter erklärte uns dann an seinen Apparaten,
 wie die Wellen ausgesandt, wie sie empfangen wurden.
 Damals hörte ich zum ersten Male die Fachausdrücke Spule,
-Kondensator, Detektor. Damals gab es noch sein Voxhaus.
+Kondensator, Detektor. Damals gab es noch kein Voxhaus.
 Und doch: wir vernahmen im Kopfhörer, im Telephon, deutlich
 die singenden Töne, die beim drahtlosen Telephonieren
 entstehen. Wir waren nun mit einem Schlage auch praktisch
@@ -1066,6 +1066,7 @@ bis sieben Stunden.
 Drittens — an die Danziger Kriminalpolizei:
 
 <@pagebreak/>
+
 > Ob eine Bank dort mit irgend jemand ein größeres
 Geschäft abschließen wolle und ob Zahlung in
 englischen Pfundnoten vereinbart sei.
@@ -1088,7 +1089,7 @@ Hiermit endete das Gespräch.
 Es war jetzt vier Uhr nachmittags.
 
 Und wieder zwei Stunden darauf standen zwei ältere
-Arbeiter aus dem Charlottenburger Fernbahnhof und beobachteten,
+Arbeiter auf dem Charlottenburger Fernbahnhof und beobachteten,
 wie Professor Simpson den D-Zug nach Königsberg
 bestieg, wie der Zug davonrollte …
 
@@ -1224,7 +1225,7 @@ zur Stelle.
 »Danzig …«
 
 »Gut. Einsteigen.« Lenz ist noch wortkarger als
-Moltke …
+Moltke<@refnote 2/> …
 
 <h2>5. Kapitel.</h2>
 
@@ -1377,7 +1378,7 @@ Regenmesser haben — eine ungefährliche Art, falsches Papiergeld
 dem Käufer auszuhändigen …« —
 
 <@pagebreak/>
-Als wir dann das Zimmer der Witwe Krug betraten
+Als wir dann das Zimmer der Witwe Krug betraten,
 kam für uns die Überraschung:
 
 Edward Simpson war entflohen! Frau Krug lag
@@ -1390,7 +1391,7 @@ Morgens brachte Lenz uns nach Berlin.
 Die genaue Durchsuchung des Gartens Simpsons ergab,
 daß von der Hilfsantenne ein Draht an einem Ast
 einer uralten, mächtigen Buche entlanglief, die im Innern
-völlig voll war und unter deren Wurzeln sich ein kleiner,
+völlig hohl war und unter deren Wurzeln sich ein kleiner,
 gemauerter Raum befand, der die Radioapparate enthielt
 und durch einen Gang mit den Kellern des Hauses sehr geschickt
 verbunden war.
@@ -1411,5 +1412,5 @@ Darüber im folgenden Band …
 
 Nächster Band.
 
-__Der Mann mit denn Glasauge.__
+__Der Mann mit dem Glasauge.__
 

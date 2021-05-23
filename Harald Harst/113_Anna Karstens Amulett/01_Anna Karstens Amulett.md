@@ -248,7 +248,7 @@ an einem Pfahle befestigt.
 
 Dann schritt der Professor uns voran der Pforte zu.
 Er hatte es sehr eilig. — Ich wußte nicht recht, was ich von
-alledem halten sollte. Wir kam es sehr unwahrscheinlich
+alledem halten sollte. Mir kam es sehr unwahrscheinlich
 vor, daß Simpson wirklich zufällig nur uns hinter dem
 Strauche ertappt haben sollte.
 
@@ -259,7 +259,7 @@ Wir durchstöberten zunächst den Garten, fanden keinen
 Peter Bratz, der ja nur in Haralds lebhafter, nie verlegener
 Phantasie existierte.
 
-Wir beitragen das Haus, von dem nur oben drei Zimmer
+Wir betraten das Haus, von dem nur oben drei Zimmer
 möbliert waren, — ein feuchtes, nach Moder duftendes
 Gebäude, eine wahre Ruine …
 
@@ -346,7 +346,7 @@ Harald wandte sich an den angeblichen Professor.
 »Ich schlage Ihnen vor,« sagte er kühl, »daß wir uns
 zunächst auf gütlichem Wege zu verständigen streben …«
 
-Wir fiel sofort dieses in dem Satze so etwas ungeschickt
+Mir fiel sofort dieses in dem Satze so etwas ungeschickt
 klingende Verbum »streben« auf.
 
 »Ich bin Harald Harst. Das wissen Sie sehr gut,«
@@ -433,7 +433,7 @@ in Wahrheit sind. Ich habe Sie nur hinhalten wollen …«
 Draußen im Flur hatte sich jemand mit voller Kraft
 gegen die Tür geworfen.
 
-Splitternd und fluchend flog die Tür auf …
+Splitternd und krachend flog die Tür auf …
 
 Drei … vier Beamte der Schutzpolizei stürmten mit
 bereitgehaltenen Dienstpistolen herein …
@@ -567,7 +567,7 @@ seinen größten Fehler!«
 »Bitte, nenne mir diesen gleich,« meinte ich ernst.
 »Wer weiß, wozu es gut ist …«
 
-Harald lachte. »Alterchen, so lockst Du mir den Haupttricks
+Harald lachte. »Alterchen, so lockst Du mir den Haupttrick
 nicht heraus!! Gedulde Dich …«
 
 Und — wahrscheinlich um meine Gedanken abzulenken,
@@ -578,7 +578,7 @@ genau! Es ist interessant — sehr interessant …! Es ist ein
 Amulett, wie man sie in England trägt. Vielmehr ein Teil
 eines Amuletts …«
 
-Das, was ich bisher für ein besondere geformtes Medaillon
+Das, was ich bisher für ein besonders geformtes Medaillon
 gehalten, war nichts als ein Stück einer großen
 Bronzemünze, auf die ein Plättchen aufgelötet war, unter
 dem ein paar Fasern hervorragten …
@@ -610,7 +610,7 @@ Verbrechertalent hinter streng wissenschaftlicher Betätigung
 verbirgt, einen Fälscher, wie ihn die Kriminalgeschichte
 bisher nicht kennt, einen Mann, der weiß, daß wir
 hinter ihm her sind und der heute den Stier bei den Hörnern
-Packe, indem er uns mit in sein Haus nahm und uns klarmachte,
+packte, indem er uns mit in sein Haus nahm und uns klarmachte,
 <@pagebreak/>
 daß er ein harmloser Meteorologe sei. Nun bildet
 dieser selbe Herr sich vielleicht ein, daß wir ihn fortan in
@@ -751,7 +751,7 @@ Karsten gerade vor die Füße …
 
 Karsten bückte sich diensteifrig …
 
-Dann — dann fuhr er hoch, stieß einem gurgelnden
+Dann — dann fuhr er hoch, stieß einen gurgelnden
 <@pagebreak/>
 Schrei aus und taumelte leichenblaß in den nächsten Sessel,
 sank schwer hinein und stierte wie gebannt abwärts auf den
@@ -812,7 +812,7 @@ man Glück haben! Oh — das Netz um den ehrenwerten
 Herrn Professor Simpson zieht sich immer enger zusammen.
 Wir … fahren nach Danzig zu Frau Krug.« —
 
-Abends benutzen zwei ältere elegante Herren den
+Abends benutzten zwei ältere elegante Herren den
 D-Zug nach Königsberg. In Marienburg stiegen wir nach
 Tiegenhof um und entgingen so den lästigen Paßscherereien.
 
@@ -993,7 +993,7 @@ Es wird ja langweilig werden, aber — was hilft’s?!«
 Schweigend schlüpfte ich in den warmen Ulster.
 
 <@pagebreak/>
-und dachte wieder an Knobloch, den Gastwirt …
+Und dachte wieder an Knobloch, den Gastwirt …
 
 Oh — es kam anders …
 
@@ -1068,7 +1068,7 @@ Der erste Mann aber entfloh jetzt, als Harst die Tür
 aufstieß und dabei leider eine Gießkanne umwarf, infolge
 dieses Geräusches die Terrassen aufwärts …
 
-Harald hinter ihm der …
+Harald hinter ihm her …
 
 Noch nie habe ich meinen Harst so windschnell dahin
 jagen gesehen wie damals. Im Laufen riß er sich den ihn
@@ -1257,7 +1257,7 @@ Der Hund bewegte die Füße.
 »Gehen wir,« sagte Harald halblaut. »Ich weiß nun
 genug — übergenug!«
 
-Wir verliefen den Garten. Wir wanderten die stille
+Wir verließen den Garten. Wir wanderten die stille
 Dorfstraße entlang.
 
 Ich — ich sann und sann. Ich wollte einen Zusammenhang
