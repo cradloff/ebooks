@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">6c31b4b8-b7f5-11eb-b9b2-17a8f5d9aeb5</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Das Geheimnis des Bosporus</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">112</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Das Geheimnis des Bosporus.
+
+Vor mir liegen eine Anzahl Postkarten, sämtlich mit Ansichten von Konstantinopel, sämtlich von meinem Freunde Neumann, — oder besser — von unserem Freunde Neumann, denn Harald Harst hat ebenfalls Anteil an dieser Freundschaft, die durch das Geheimnis des Bosporus begründet wurde.
+
+Diese Postkarten stellen sozusagen die einzelnen Etappen unseres Abenteuers in der Türkei vor. Neumann hat mit großem Geschick gerade all die Ansichten gewählt, die in uns allerlei Erinnerungen wecken mußten. Im übrigen: er schreibt noch immer. Er ist dankbar. Wir haben ihm damals das Leben und Hab und Gut gerettet.
+
+Die ganze Geschichte begann ja auch mit einem Neumannschen Brief, der an Harald gerichtet war.
+
+Die Frau im Sack.
+
+Ich will das nun folgende Gespräch zwischen Barring und unserem Maximilian hier ohne jede Zwischenbemerkung wiedergeben.
+
+Barring: »Sie haben bisher gelogen und lügen weiter, Mr. Neumann. Ich behaupte, Sie stehen seit langem mit den Fälschern im Bunde, die aus der Staatsdruckerei in London ausrangierte Banknotendruckplatten und ebenso Banknotenpapier gestohlen haben und auf diese Weise in Berlin Falsifikate herstellen konnten, die von den echten Scheinen kaum zu unterscheiden sind.«
+
+M. Neumann (etwas ironisch): »Ich bin Ihnen für diese Angaben sehr dankbar, Graf. Leider muß ich Ihre Hoffnung, daß etwa ich im Besitz eines ganzen Lagers dieser Fälschungen bin, zerstören. Ich gebe Ihnen mein Wort, Graf, das Wort eines Ehrenmannes, daß ich mit den Fälschern nicht im Bunde stehe.«
+
+B.: »Der Ausdruck Ehrenmann ist lächerlich, Mr. Neumann.  Ein Mann ist so lange Ehrenmann, als er sich nicht ertappen läßt. Sie sind ertappt worden. Ich habe eine Unterhaltung zwischen einem gewissen Wilson, den Sie wohl kennen dürften, und …«
+
+N.: »Ich kenne nur einen Wilson, und zwar den Expräsidenten der Vereinigten Staaten von Nordamerika, dem Namen nach, den Herrn mit den … vierzehn Punkten …«
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (112) Das Geheimnis des Bosporus.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+
