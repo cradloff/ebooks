@@ -18,6 +18,7 @@
 \bis!\b	ist
 \blebten	letzten
 \blett\b	jetzt
+\bLust\b	Luft
 \bMir\b	Wir
 \bMr,	Mr.
 \bMr\s	Mr. 
@@ -27,7 +28,8 @@
 \bSähe\b	Sätze
 \bSaß\b	Satz
 \bSeht\b	Jetzt
+\bTeich!\b	leicht
 \bTer\b	Der
-\bver\b	der
 \bvor!\b	dort
 \bWir\.	Mr.
+\bwirft\b	wirst

@@ -16,7 +16,7 @@
 <tr><td>107. Das Känguruh der Miß Dolling.        </td><td>146. Die drei Finger Ben Bensons.</td></tr>
 <tr><td>108. Die Motoryacht ohne Namen.           </td><td>147. Die Fürstin der Gwala-Berge.</td></tr>
 <tr><td>109. Der Kampf gegen Lionel Barring.      </td><td>148. Der Fakir ohne Arme.</td></tr>
-<tr><td>110. Das Geheimnis der Tokkara-Höhle.     </td><td>149. Jo Billwakers Verbrechen.</td></tr>
+<tr><td>110. Das Geheimnis der Tokkara-Fälle.     </td><td>149. Jo Billwakers Verbrechen.</td></tr>
 <tr><td>111. Die große Null.                      </td><td>150. Das Geheimnis des Perlentauchers.</td></tr>
 <tr><td>112. Das Geheimnis des Bosporus.          </td><td>151. Burg Totenhall.</td></tr>
 <tr><td>113. Anna Karstens Amulett.               </td><td>152. Das Untergrundbahngespenst.</td></tr>

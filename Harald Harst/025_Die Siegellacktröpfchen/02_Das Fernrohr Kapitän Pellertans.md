@@ -15,12 +15,12 @@ verfügen müsse, um es frei in den Händen still zu halten.
 Joe Pellertan war jedoch noch ein Seemann aus der alten
 Schule, der von modernen Trieder-Binokeln und so weiter
 nichts wissen wollte, der noch manchen Aberglauben festhielt
-und der bessere Münchhausieaden erfand als der älteste
+und der bessere Münchhausiaden erfand als der älteste
 Förster. —
 
 Die große Motorjacht »India« Lord Wolpoores schaukelte
 bei völliger Windstille auf einer langen Dünung träge auf
-und und ab. Über dem Meere lag eine erschlaffende Backofenglut.
+und ab. Über dem Meere lag eine erschlaffende Backofenglut.
 Die Sonne brannte vom wolkenlosen Himmel unbarmherzig
 auf das stets feucht gehaltene Deck der India
 herab. Aber was nützte diese stete Bewässerung der Deckplanken
@@ -60,10 +60,10 @@ Jachtingenieur Moore ein, nickte uns zu und wandte sich dann
 an Pellertan:
 
 <@pagebreak/>
-»Käpt’en, haben Sie sich mein Fernglas ausgeliehen?
+»Käp’ten, haben Sie sich mein Fernglas ausgeliehen?
 Es ist aus meiner Kabine verschwunden.«
 
-»Ich — nein! — Aber — verschwunden?! Deubel was
+»Ich — nein! — Aber — verschwunden?! Deubel, was
 ist denn jetzt eigentlich los auf der Jacht? Heute früh fragt
 mich Sinclair (das war der Steuermann) genau dasselbe.
 Auch dessen Glas ist futsch!«
@@ -141,14 +141,14 @@ Blindley sich an Harald.
 »Ich möchte Sie bitten, mir mitzuteilen, weshalb Sie
 heute vor neun Tagen, als wir uns vor dem Schlosse des
 Lords auf der Landstraße trafen, mir zuraunten, daß »etwas
-passiert sei.« — Sie haben mir bisher nichts näheres darüber
+passiert sei«. — Sie haben mir bisher nichts näheres darüber
 gesagt, Blindley.«
 
 »Ganz richtig. Ich habe es nicht vergessen, aber ich
 glaubte, durch diese Seereise, die wir auf Ihre Veranlassung
 nun unternehmen, wäre jede Gefahr vorläufig beseitigt.
 Wenn ich mich damals wirklich so ausgedrückt habe: »Es
-ist etwas passiert,« dann meinte ich damit nur, daß gewisse
+ist etwas passiert«, dann meinte ich damit nur, daß gewisse
 Anzeichen dafür sprachen, es sei wieder etwas im Gange. Sie
 verstehen: gegen Seine Lordschaft!«
 
@@ -160,10 +160,10 @@ verstehen: gegen Seine Lordschaft!«
 
 Dieser Ausruf war berechtigt. Der Leser besinnt sich
 <@pagebreak/>
-noch auf unser vorheriges Abenteuer bei dem ja die vier silbernen
-Siegellacktröpchen eine so große Rolle spielten.
+noch auf unser vorheriges Abenteuer, bei dem ja die vier silbernen
+Siegellacktröpfchen eine so große Rolle spielten.
 
-»Vier Siegellacktröpchen auf der Schreibunterlage des
+»Vier Siegellacktröpfchen auf der Schreibunterlage des
 Herrn Daberton, Eigentümer der Daberton-Werft in Madras,«
 erklärte Blindley weiter. »Ich bemerkte sie, als ich
 Daberton kurz nach unserer letzten Seereise mit der India
@@ -199,14 +199,14 @@ wo Sie kurz darauf auftauchten! Begreifen Sie nicht,
 daß der Mann gewußt haben muß, Sie würden Philipp Daberton
 aufsuchen?! Verstehen Sie nicht, daß dieser Inder
 Ihnen beweisen wollte, wie gut er über jeden Ihrer Schritte
-unterrichtet ist?! — Sehr schade, daß Sie sich aus einen-Sicherheitsgefühl
+unterrichtet ist?! — Sehr schade, daß Sie sich aus einem Sicherheitsgefühl
 heraus, das ich nicht teilen kann, dazu verleiten
 ließen, über dieses Vorkommnis bisher zu schweigen.
 — Ich will Ihnen etwas sagen, lieber Blindley: ich beurteile
 dieses Verschwinden der drei Ferngläser hier an Bord inmitten
 einer durchaus zuverlässigen Besatzung keineswegs harmlos.
 <@pagebreak/>
-Im Gegenteil. ich werde jetzt die Augen sehr gut offenhalten
+Im Gegenteil, ich werde jetzt die Augen sehr gut offenhalten
 und rate Ihnen und Ihren fünf Leuten dasselbe. Natürlich
 darf der Lord vorläufig nichts erfahren. Nur das
 nicht! Er ist jetzt endlich wieder aufgelebt und heiter. Nein
@@ -226,7 +226,7 @@ was passiert sein!« meinte er und öffnete die Tür.
 
 Davor standen der Steuermann Sinclair und zwei Matrosen.
 
-»Käpt’en,« meldete Sinclair erregt, »Käp’ten — der Maschinist
+»Käp’ten,« meldete Sinclair erregt, »Käp’ten — der Maschinist
 Ambermakry hat sich im großen Vorratsraum aufgehängt.
 Soeben hat der Bill hier ihn gefunden.«
 
@@ -241,7 +241,7 @@ trat auf Sinclair zu. »Dieser frische, lebensfrohe Mensch soll,
 das ist ja Unsinn, das ist einfach unmöglich!«
 
 »Es ist so. Er ist tot. Er ist auf eins der Butterfäßchen
-gestiegen, hat die an einem Wandhaken beseitigte Schlinge um
+gestiegen, hat die an einem Wandhaken befestigte Schlinge um
 den Hals gelegt und dann das Fäßchen umgekippt. Das geht<@refnote 3/>
 aus dem Befund an Ort und Stelle klar hervor.«
 
@@ -267,8 +267,8 @@ auf der es ihm bisher stets nur gut gegangen war.
 Blindley ließ Harst den Vortritt bei der Untersuchung
 des Strickes, der zur Hälfte noch an dem Haken hing, und bei
 allem anderen, was man hier in Augenschein nehmen mußte,
-um nachzuprüfen, ab nicht vielleicht nur ein vorgetäuschter
-Selbstmord, also ein Verbrechen vorliege.
+um nachzuprüfen, ob nicht vielleicht nur ein vorgetäuschter
+Selbstmord, also ein Verbrechen, vorliege.
 
 Harst war sehr bald mit dieser Nachprüfung fertig, lehnte
 sich nun an den großen, in der Mitte des Raumes stehenden
@@ -288,7 +288,7 @@ angeschwollenen Hals des Erhängten. Dann wandte er sich
 an den Schiffskoch, einen Franzosen namens Chaprin.
 
 »Ambermakry muß doch durch die Küche gegangen sein.
-Sahen Sie ihn nicht Chaprin?«
+Sahen Sie ihn nicht, Chaprin?«
 
 Der Koch stand in der Tür nach der Kombüse.
 
@@ -315,21 +315,21 @@ nun.
 
 <@pagebreak/>
 In der Kombüse drängten sich jetzt die Leute der Jacht
-und machten lange Hälse um einen Blick auf den Toten werfen
+und machten lange Hälse, um einen Blick auf den Toten werfen
 zu können.
 
 »Der Maschinist hat nicht mal sein Mittag verzehrt,« rief
 einer der Matrosen. »Ich mußte es ihm in seine Kabine
 bringen. Aber es steht noch unberührt da.«
 
-»Seht wichtig!« mischte sich jetzt Chester Blindley ein.
+»Sehr wichtig!« mischte sich jetzt Chester Blindley ein.
 »Dies ungenossene Mittag beweist, daß Ambermakry sich tatsächlich
 hier eingeschlichen und verborgen hatte, ganz wie
 Master Harst soeben vermutete.« Dann drehte er sich nach
 Harald um. »Na — Selbstmord oder etwas anderes?« fragte
 er leiser.
 
-»Selbst\—mord!« erwiderte Harst. Wohl nur mir fiel es
+»Selbst—mord!« erwiderte Harst. Wohl nur mir fiel es
 auf, daß er die beiden Silben mit einer winzigen Pause aussprach,
 daß er sie also trennte.
 
@@ -352,7 +352,7 @@ blieb in der Kombüse, unterhielt sich mit dem Koch und ließ
 die anderen erst alle hinaus, bevor er dann zu dem Franzosen
 sagte:
 
-»Hörten Sie, Chaprin, — ganz im Vertrauen: hier stimmt
+»Hören Sie, Chaprin, — ganz im Vertrauen: hier stimmt
 etwas nicht!«
 
 <h2>2. Kapitel.</h2>
@@ -374,7 +374,7 @@ an.
 Aber — es kann sich eins vorbereiten!«
 
 Dann zu mir gewandt. »Schraut, schließe die Kombüsentür
-nach dem Gange. — So nun möchte ich Sie einiges fragen
+nach dem Gange. — So, nun möchte ich Sie einiges fragen,
 Chaprin. — Haben Sie, seit wir Madras mit der Jacht
 vor drei Tagen verließen, jemals hier in Ihrem Küchenreich
 etwas besonderes bemerkt? — Denken Sie genau nach. Sehr
@@ -422,7 +422,7 @@ nur, wir seien an Deck gegangen.« —
 Wir waren in dem Proviantraum allein. An den Wänden
 <@pagebreak/>
 standen Regale und Kisten und Fässer; in der Mitte erhob
-sich der schwarz lackierte Trinkwassertank, der gut 2 ½ Meter
+sich der schwarz lackierte Trinkwassertank, der gut 2½ Meter
 Durchmesser hatte und fast bis an die Decke reichte, wo sich
 die Umrahmung einer großen Ladeluke abzeichnete.
 
@@ -437,7 +437,7 @@ durchschnittenen Strickes, stieg auf das Fäßchen, betrachtete
 den Strick, nahm ihn vom Haken und steckte ihn in die Tasche.
 
 Nachdem er wieder hinuntergestiegen war, meinte er zu
-mir: »Ich fürchte ich habe soeben eine sehr schwerwiegende
+mir: »Ich fürchte, ich habe soeben eine sehr schwerwiegende
 Entdeckung gemacht.«
 
 Ich wußte nicht recht, was ich erwidern sollte und sagte
@@ -482,7 +482,7 @@ denen Harald Harsts Erfolge in anspruchsloser Form wiedergegeben
 sind, diese meine schriftstellerischen Versuche genau so
 überfliegen wie etwa einen Liebesroman oder eine Abenteuergeschichte.
 Leider —! Denn — *jeder* soll doch schließlich
-aus *jedem* Buche etwas lernen! Und gerade Detektiverzählungen
+aus *jedem* Buche *etwas* lernen! Und gerade Detektiverzählungen
 sind oft recht geeignet dazu, zum Nachdenken
 anzuregen und das zu schärfen, was man als »Kombinationstalent«
 bezeichnet.
@@ -509,7 +509,7 @@ nicht gerade einen solchen schmierigen Anzug.
 
 Ja — die Motoren der India hatten tatsächlich plötzlich
 versagt. Einzelne Teile hatten sich heißgelaufen, sogar die
-Lager der Schraubenwellen, wodurch ein Bruch der Lagen eingetreten
+Lager der Schraubenwellen, wodurch ein Bruch der Lager eingetreten
 war, der erst durch Einfügen von Ersatzteilen ausgeglichen
 werden mußte.
 
@@ -525,7 +525,7 @@ machte aber sofort kehrt und sagte dann zu Harst ganz aufgeregt:
 
 »Denken Sie, Master Harst, soeben habe ich festgestellt,
 daß nur gerade der Ballon Schmieröl, den wir jetzt benutzen,
-verdorben ist: Ich wette: jemand hat in den Ballon irgend
+verdorben ist. Ich wette: jemand hat in den Ballon irgend
 eine Säure hineingegossen. Die anderen drei Ballons sind
 tadellos. — Ich will ja niemand verdächtigen. Aber — merkwürdig
 bleibt es doch, daß sich Ambermakry gerade jetzt erhängt
@@ -592,10 +592,10 @@ Nase etwa über den Kopf ziehen können.«
 
 Es klopfte. Obermaschinist Blonk trat ein und meldete:
 
-»Master Harst, Ambermakry ist 1,52 Zentimeter groß.«
+»Master Harst, Ambermakry ist 152 Zentimeter groß.«
 
 »Danke, Blonk. Bleiben Sie nur hier. Ich brauche Sie
-noch. — Mylord, Sie haben soeben gehört: 1,52 Zentimeter!
+noch. — Mylord, Sie haben soeben gehört: 152 Zentimeter!
 Dann fehlen sogar 13 Zentimeter mindestens! Ambermakry
 hätte nur die Schlinge sich selbst umtun können, wenn er
 geschickt wie ein Akrobat auf dem Fäßchen stehend einen
@@ -629,12 +629,12 @@ der Lord geistesabwesend und mit völlig verstörtem Gesicht.
 faßte in die Tasche, holte das Strickende hervor, das er vorhin
 vom Haken genommen hatte. »Mylord, Blindley, —
 hier um diesen Strick ist ein Seidenfaden gewickelt — in sehr
-langen Windungen, ein Seidenfaden der aus vier einzelnen
+langen Windungen, ein Seidenfaden, der aus vier einzelnen,
 farbigen Fäden besteht. Ich habe nun einmal irgendwo über
 die Thug gelesen, daß sie für ihre zu Ehren der blutigen
-Göttin Chali ausgewählte Opfer zumeist geweihte Seidentücher
+Göttin Kali ausgewählte Opfer zumeist geweihte Seidentücher
 benutzen. Vielleicht ist der Mörder des Maschinisten ein
-Thug? vielleicht hat er den Strick mit Fäden seines geweihten
+Thug; vielleicht hat er den Strick mit Fäden seines geweihten
 Tuches umschlungen, damit wenigstens ein Teil dieses
 dem Opfer den Tod gab.«
 
@@ -660,7 +660,7 @@ zu fesseln. — Blonk, nun sprechen Sie!«
 
 Der Obermaschinist tat’s.
 
-»Das Öl muß genau untersucht werden.« befahl der
+»Das Öl muß genau untersucht werden,« befahl der
 Lord dem Kapitän. »Es muß doch festzustellen sein, was
 der Schurke in das Öl hineintat, damit es so schnell dick
 und körnig wurde.« Dann blickte er wieder auf Harst.
@@ -698,9 +698,9 @@ werden, als wir verhindern müssen, daß der Mensch
 Gelegenheit findet, womöglich aus einem noch nicht durchsuchten
 Raum in einen bereits durchsuchten zu schlüpfen und
 uns so zu entgehen. Es müssen Wachen verteilt werden —
-überall in den Gängen auf Deck, auf den Treppen und so
+überall in den Gängen, auf Deck, auf den Treppen und so
 weiter. Ich selbst will mit Blindley und Schraut das Schiff
-von oben bis unten durchsuchen. Wir drei genügen. Nur
+von oben bis unten durchforschen. Wir drei genügen. Nur
 noch zwei der Detektive sollen uns mit Werkzeugen begleiten,
 damit wir Kisten, Fässer usw. öffnen können.«
 
@@ -724,7 +724,7 @@ Schubfach auf, rief dann: »Verdammt — der Schlüssel ist
 weg.«
 
 »Nun also!« meinte Harst. »Mithin ist Ambermakrys
-Mörder selbst hier bei Ihnen gewesen. Kapitän.«
+Mörder selbst hier bei Ihnen gewesen, Kapitän.«
 
 <h2>3. Kapitel.</h2>
 <h3>Der Ventilator.</h3>
@@ -752,7 +752,7 @@ nachprüfen zu können, ob es nicht irgendwo doppelte
 Zwischenwände gäbe. —
 
 Um fünf Uhr nachmittags hatten wir die Kombüse betreten;
-um ½ 8 abends war die ganze Jacht durchforscht. Zuletzt
+um ½8 abends war die ganze Jacht durchforscht. Zuletzt
 hatten wir den Schornstein, die mit Öltuch überspannten
 Rettungsboote und die Ventilatoren mit derselben
 Genauigkeit in Augenschein genommen wie alles andere.
@@ -848,7 +848,7 @@ rauchten und plauderten. Pellertan erzählte wieder
 Erlebnisse aus seinen Jugendjahren, und wir hörten scheinbar
 aufmerksam zu.
 
-Scheinbar! In Wahrheit lastete aus uns, die wir in die
+Scheinbar! In Wahrheit lastete auf uns, die wir in die
 wahre Sachlage eingeweiht waren, eine Art elektrische Hochspannung.
 Wir waren nervös, zerstreut. Nur Harst hatte
 sich besser in der Gewalt.
@@ -908,12 +908,12 @@ Harst machte eine kurze Pause. Dann fuhr er fort:
 geändert habe. Der Mörder ist doch ein Fremder, gehört
 nicht zur Besatzung und muß — muß sich an Bord befinden!
 Denn Ambermakry schreibt an jener Stelle, wo er sein Zusammentreffen
-mit dem Unbekannten kurz ermahnt: »Ich
+mit dem Unbekannten kurz erwähnt: »Ich
 prallte zurück. Ich war über das braune, bärtige Gesicht
 und das turbanartige Kopftuch des nackten Menschen so erschrocken,
 daß ich kostbare Sekunden verlor, die dem Manne
 <@pagebreak/>
-genügten, spurlos zu verschwinden. wie sollte ich auch ahnen,
+genügten, spurlos zu verschwinden. Wie sollte ich auch ahnen,
 im Maschinenraum um diese Stunde einem Eingeborenen
 zu begegnen?!« — So etwa hat der Maschinist sich ausgedrückt.«
 
@@ -962,12 +962,12 @@ Ich fühlte plötzlich Harsts Finger meinen Arm umkrallen.
 
 Da — meldete sich Blindley anstelle des Lords:
 
-»Was gibt’s?« rief er. Ich hörte daß er aufstand —
+»Was gibt’s?« rief er. Ich hörte, daß er aufstand, —
 hörte dann etwas wie ein qualvolles Ächzen und einen
 dumpfen Schlag.
 
 Harst ließ meinen Arm frei. Er hatte seine Taschenlampe
-eingeschaltet. Der weiße Lichtkegel zerteilte daß
+eingeschaltet. Der weiße Lichtkegel zerteilte das
 <@pagebreak/>
 Dunkel blieb nun auf etwas haften, das mir einen Ruf des
 Entsetzens entlockte.
@@ -985,7 +985,7 @@ stellte sich auf meine Schultern, nahm sein Taschenmesser,
 öffnete es mit den Zähnen und langte an Blindleys Nacken
 vorbei in den Ventilator hinein.
 
-»Fang ihn auf!« rief er wieder.
+»Fang’ ihn auf!« rief er wieder.
 
 Da fiel Blindley auch schon herab. Ich griff zu, ließ ihn
 auf den Teppich gleiten.
@@ -1014,12 +1014,12 @@ sich über ihn, indem er ihm ein nasses Handtuch auf den Hals
 legte. »Dieses raffinierte Attentat galt natürlich dem Lord.
 Der Halunke erwischte jedoch den Falschen mit seiner
 Schlinge. Er muß ebenso geschickt wie kräftig sein. Bedenken
-Sie, jemandem im Dunkeln, sozusagen nur nach Gehör
+Sie, jemandem im Dunkeln, sozusagen nur nach Gehör,
 <@pagebreak/>
 in einem Ventilator hockend eine Schlinge über den Kopf zu
 werfen und das Opfer dann urplötzlich mit solcher Gewalt
 hochzureißen, daß dieses mit dem Schädel hart gegen den
-Ventilatorrand schlägt — das nenn ich eine besondere Art
+Ventilatorrand schlägt — das nenn’ ich eine besondere Art
 von Kraftkunststück!«
 
 Blindleys Augen waren auf das offenbar mit einer
@@ -1049,7 +1049,7 @@ Blindley hatte das alles gleichfalls beobachtet.
 er heiser. »Aber so etwas doch noch nicht! Nein —
 diese Jacht ist eine Mördergrube! Wer sind nur diese beiden
 Verräter unter der Besatzung, wer?! Denn jetzt wird
-Harst, wie auch ich eingesehen haben, daß Ambermakry nur
+Harst wie auch ich eingesehen haben, daß Ambermakry nur
 einen als Inder herausgeputzten Mann damals im Maschinenraum
 erblickte.«
 
@@ -1117,8 +1117,8 @@ und zwar von außen den Lord durch den Zuruf hatte
 wecken wollen?!
 
 <@pagebreak/>
-Blindley richtete sich jetzt halb auf flüsterte ganz kopflos
-und verstört: »Harst — bester Harst — soll etwa gar
+Blindley richtete sich jetzt halb auf, flüsterte ganz kopflos
+und verstört: »Harst — bester Harst, — soll etwa gar
 Narkolly mit zu den —«
 
 Harald hatte schon sehr energisch abgewinkt. »Tun Sie
@@ -1143,7 +1143,7 @@ dieser Mensch steckt, der so vielseitig ist. Ich will doch mal —«
 Auf Deck hatte plötzlich eine Pfeife geschrillt. Wir hörten
 oben mehrere Leute hin und herlaufen. Dann neigte die
 Jacht sich stark nach Backbord über; gleichzeitig drang ein
-fernes dumpfes Brüllen an unser Ohr.
+fernes, dumpfes Brüllen an unser Ohr.
 
 »Der Sturm kommt!« rief Blindley. »Pellertan hat ihn
 richtig vorausgesagt.«
@@ -1181,7 +1181,7 @@ Pellertan war aber argwöhnisch geworden.
 meinte er, uns scharf fixierend.
 
 Da kam der Matrose zurück. »Das Fernrohr ist nicht
-zu finden, Käpt’en,« meldete er.
+zu finden, Käp’ten,« meldete er.
 
 Harst trat sofort vor. »Wo lag es denn, Pellertan?«
 fragte er hastig.
@@ -1262,7 +1262,7 @@ auf der India kein einziges Fernglas mehr, wenigstens kein
 brauchbares.«
 
 Sehr bald wußten wir dann, was inzwischen geschehen
-war. Blindley war zu Narkolly in den Gang hinausgetreten
+war. Blindley war zu Narkolly in den Gang hinausgetreten,
 um ihn nochmals zu fragen, ob er auch wirklich sorgfältig
 <@pagebreak/>
 gewacht hätte und nicht vielleicht für Sekunden eingenickt
@@ -1294,7 +1294,7 @@ stets das Zeichen, daß er einen neuen Weg zur Lösung irgend
 eines dunklen Rätsels gefunden hatte.
 
 Wir schwiegen und warteten. Minutenlang regte sich
-niemand dann —
+niemand. Dann —
 
 <h2>5. Kapitel.</h2>
 <h3>Der linke Arm.</h3>
@@ -1303,7 +1303,7 @@ niemand dann —
 dabei zur Deckenlampe empor, »wir sind unterwegs nach
 Sumatra, wo der Lord eine große Kaffeeplantage besitzt. Er
 hat sich dort angemeldet — telegraphisch, so viel ich weiß.
-wann werden wir in der Hafenstadt Singkel eintreffen?«
+Wann werden wir in der Hafenstadt Singkel eintreffen?«
 
 »Morgen früh — etwa gegen 6 Uhr,« meinte der Kapitän
 widerwillig und fügte achselzuckend hinzu: »Was hat
@@ -1312,7 +1312,7 @@ das aber mit dem Schuft hier an Bord zu tun, der die
 Ferngläser gestohlen oder unbrauchbar gemacht hat, der auch das
 schärfste Glas verschwinden ließ, das wir hatten, nämlich
 mein altes Fernrohr, das besser ist als all das moderne Zeug
-zusammengenommen«
+zusammengenommen?«
 
 »Morgen früh!« sprach Harst ebenso geistesabwesend
 vor sich hin. »Also nach 28 Stunden etwa — etwa!«
@@ -1333,7 +1333,7 @@ Pellertan hatte sich auf eine Sessellehne gestützt.
 verrückt geworden?!« rief er jetzt. »Was heißt das: in die
 Luft fliegen?! Und was —«
 
-»Setzen Sie sich bitte, meine Herren « sagte Harst kalt.
+»Setzen Sie sich bitte, meine Herren,« sagte Harst kalt.
 »Nur eins kann uns retten: unsere ruhige Überlegung und
 zielbewußtes Handeln.« — Blindley und der Kapitän nahmen
 in den Sesseln uns gegenüber Platz.
@@ -1371,11 +1371,11 @@ Pellertan lachte jetzt dröhnend auf, so daß Harst schweigen
 mußte.
 
 »Aber Master Harst!« rief er mit unverkennbarer Ironie,
-»das alles sind doch nur so weit hergeholte Vermutungen
+»das alles sind doch nur so weit hergeholte Vermutungen,
 daß —«
 
 »Noch einen Augenblick!« fiel ihm Harst ins Wort.
-»Wollen Sie mir eine andere einleuchtendere Erklärung für
+»Wollen Sie mir eine andere, einleuchtendere Erklärung für
 dieses Verschwinden der Ferngläser geben? — Dann bitte!
 Dieser Mensch müßte ja ein Irrsinniger sein, wenn er —
 doch fraglos recht gefährliche Wagnisse! — in die Kabinen
@@ -1404,7 +1404,7 @@ hätten dadurch ebensogut in der Nacht in Sicht des Landes
 kommen können! Dann fällt Master Harsts ganze Theorie
 wie ein Kartenhaus zusammen.«
 
-»Lieber Pellertan,« erklärte Harst freundlich »— diese
+»Lieber Pellertan,« erklärte Harst freundlich, »— diese
 Theorie bleibt in jedem Falle anwendbar. Da Sie gerade
 <@pagebreak/>
 den Maschinenschaden erwähnen: daß er auf des Inders Konto
@@ -1424,10 +1424,10 @@ durfte stets nur für Sekunden zum Atemholen auftauchen,
 konnte erst weiter von der Jacht ab, die sich ja von ihm entfernte,
 seine Schwimmertätigkeit voll entfalten. — Das,
 was ich vorhin als meine Theorie entwickelte, war eben
-nur den Umständen angepaßt, — nämlich daß wir morgen
+nur den Umständen angepaßt, — nämlich, daß wir morgen
 früh etwa gegen sechs Uhr den Hafen von Singkel anlaufen
 werden. — Ich betone nochmals: nennen Sie mir eine bessere
-Deutung für diese Fernglasdiebstähle und ich will reumütig
+Deutung für diese Fernglasdiebstähle, und ich will reumütig
 bekennen, daß ich mich geirrt habe!«
 
 Pellertan jedoch ließ nur ein »Hm — hm!« hören, zuckte
@@ -1446,7 +1446,7 @@ alles an Bord in die Sachlage eingeweiht. Es war daher erklärlich,
 daß wir, die Detektive und die Matrosen mit gleichem
 Eifer die India durchstöberten. Es wurde an den unwahrscheinlichsten
 Orten gesucht, sogar durch Taue, die man
-unter dem Schiffsboden außen entlangzog geprüft, ob nicht
+unter dem Schiffsboden außen entlangzog, geprüft, ob nicht
 etwa der gemeinsame Feind irgendwie unter der Wasserlinie
 hing. Man sieht: wir ließen nichts, aber auch gar
 nichts außeracht; wir übertrieben unsere Sorgfalt fast ins
@@ -1494,7 +1494,7 @@ Er mußte ja seine Gattin und seine Kinder vorbereiten,
 damit das Einbooten rasch vonstatten ginge.
 
 Wir wollten schlafen, um frisch zu sein. Aber wir taten
-kein Auge zu. Bereits um ½ 12 nachts waren wir oben auf
+kein Auge zu. Bereits um ½12 nachts waren wir oben auf
 der Brücke. Auf der Jacht verriet nichts, daß etwas Besonderes
 im Gange war. Nur die gewöhnliche Wache war an
 <@pagebreak/>
@@ -1505,7 +1505,7 @@ Pellertan saß im Steuerhäuschen und schwor dem Schuft blutige
 Rache, der ihm sein Fernrohr gestohlen hatte. Harst
 meinte dazu, eine Tracht Prügel mit einem Tauende tue es
 zunächst auch, — »falls wir den Menschen wirklich erwischen.«
-— Auch Ingenieur Moore hatte die Unruhe oben
+— Auch den Ingenieur Moore hatte die Unruhe oben
 auf die Brücke getrieben. Er lehnte neben uns am Geländer.
 
 »Wenn dies der India letzte Fahrt sein sollte,« sagte er
@@ -1526,19 +1526,19 @@ fragte er.
 »Ja — dort war er auch gebaut worden. Der Lord
 wünschte eine besondere Art von Filteranlage für das Trinkwasser.«
 
-»Blindley!« rief Harst da leise. »Blindley — denken Sie
+»Blindley!« rief Harst da leise, »Blindley — denken Sie
 an die vier Siegellacktröpfchen auf dem Löschblatt bei Daberton!«
 
 Der Detektiv meinte darauf: »Was soll das?! — Was
 haben denn —«
 
 Harst ließ ihn nicht ausreden. »Ich weiß jetzt, wo der
-Bursche steckt!« flüsterte er. »Ja dem Trinkwassertank,
+Bursche steckt!« flüsterte er. »In dem Trinkwassertank,
 den die Bande, die dem Lord nach dem Leben trachtet, durch
 Bestechung der beteiligten Arbeiter leicht hat so einrichten
 lassen können, daß darin ein Raum mit einer Tür in der
 Außenwand für einen Menschen als Versteck geschaffen
-wurde. — Blindley, Schraut, wir legen uns im Gange
+wurde. — Blindley, Schraut, — wir legen uns im Gange
 des Mannschaftslogis vor der stets verschlossen gehaltenen
 Tür des Vorratsraums auf die Lauer. Dort wird der
 Bursche hinausschlüpfen. In seinem Versteck dürfen wir ihn
@@ -1548,8 +1548,8 @@ Morgens drei Uhr. Im Gange des Mannschaftslogis
 <@pagebreak/>
 Stille und Dunkelheit. Jetzt ein ganz leises Knarren einer
 sich ein wenig klemmenden Tür. Dann — riß Harst die
-Decke von der großen Schiffslaterne deren Lichtschein uns
-nun einen braunen nackten Menschen zeigte, der entsetzt in
+Decke von der großen Schiffslaterne, deren Lichtschein uns
+nun einen braunen, nackten Menschen zeigte, der entsetzt in
 die blendende Lichtquelle starrte. Wir sprangen zu, packten
 zu. Aber der Inder hatte sich über und über mit Fett eingerieben.
 Ein Fausthieb traf Blindley, dann raste der
@@ -1572,7 +1572,7 @@ Die Jacht stoppte. Während ein Boot ausgesetzt wurde,
 untersuchten wir den Wassertank. Harst hatte das Geheimnis
 sehr bald heraus. Die Eisenplatten des Tanks waren
 zusammengenietet. Zwei senkrechte und eine wagerechte
-Nietnaht waren die Umrisse einer schmalen niedrigen Tür,
+Nietnaht waren die Umrisse einer schmalen, niedrigen Tür,
 von der man selbst bei genauestem Hinsehen nichts bemerkte.
 
 Das Versteck selbst war so eng, daß der Inder darin nur
@@ -1583,7 +1583,7 @@ oder dergleichen war nichts zu bemerken.
 
 Harst hatte es merkwürdig eilig, wieder an Deck zu gelangen.
 Er hatte Pellertans zusammengeschobenes Riesenperspektiv
-in der Hand, eilte damit auf die Brücke rief dem
+in der Hand, eilte damit auf die Brücke, rief dem
 Kapitän zu: »Da — sehen Sie es sich zum letzten Male an,
 Pellertan!« — Dann — warf er es in weitem Bogen in die
 See, fügte hinzu: »Pellertan, es mußte sein! Es war
@@ -1624,8 +1624,7 @@ daß mein braves Fernglas geopfert werden mußte!« —
 Meine Geschichte ist hiermit aus. Vorläufig war jede
 Gefahr für Lord Wolpoore und die Seinen beseitigt. Wir
 verlebten dann acht genußreiche Tage auf seiner Plantage,
-bis uns ein Freund des Lords bat, in Batavia »Die Gesellschaft
-der roten Karten« entlarven zu helfen. — Hierüber im
+bis uns ein Freund des Lords bat, in Batavia **»Die Gesellschaft
+der roten Karten«** entlarven zu helfen. — Hierüber im
 nächsten Bande.
-
 
