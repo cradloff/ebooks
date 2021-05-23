@@ -217,7 +217,7 @@ die Simpsons Zügen so scharf aufgeprägt war. —
 Simpson ließ sich auf einen Stuhl fallen.
 
 Spielte er Komödie? Oder war’s wirklich ein Schwächeanfall?!
-Mit einer hilflosen, bittenden Gelände murmelte
+Mit einer hilflosen, bittenden Gebärde murmelte
 er jetzt: »Haben Sie Mitleid mit mir, Herr Harst …«
 
 »Mitleid?!«
@@ -341,7 +341,7 @@ Wir durchsuchten die Schränke, durchsuchten alles, wo
 man einen Menschen versteckt haben konnte, einen bewußtlosen
 Menschen, oder einen Toten — meinen Harst!
 
-Wir fanden nichts. Wir setzten die Nachsuche um Erdgeschoß
+Wir fanden nichts. Wir setzten die Nachsuche im Erdgeschoß
 fort — wieder nichts! — Nun in den Keller hinab.
 
 Ich öffnete die Geheimtür nach Simpsons Radiostation.
@@ -383,7 +383,7 @@ war.
 Wir standen und regten uns nicht.
 
 Etwas anderes regte sich. Der Tote — der Tote hatte
-die Augenlider gehoben. Er lag und dem Rücken — auf
+die Augenlider gehoben. Er lag auf dem Rücken — auf
 den Dielen, — der Kopf aus der untersten Ofenleiste.
 
 »Er lebt,« flüsterte der eine Beamte.
@@ -464,7 +464,7 @@ Stockes Anzeichen eines Kampfes vorhanden gewesen wären.
 Ein Harald Harst läßt sich nicht so leicht heimtückisch
 niederzwingen.
 
-Gerade weil sein Verschwinden so Überaus geheimnisvoll
+Gerade weil sein Verschwinden so überaus geheimnisvoll
 wirkte und weil noch der Nebenumstand des eine Treppe
 höher begangenen Mordes hinzukam (und dieser Mord
 konnte nur verübt sein, während die beiden Schupobeamten
@@ -512,7 +512,7 @@ Ich lächelte etwas träumerisch.
 Und — da kam Mathilde, Harstschen Hauses bravste
 Köchin.
 
-»Eine Dame is da, Herr Schraut,« meldet sie. »Eine
+»Eine Dame is da, Herr Schraut,« meldete sie. »Eine
 sehr feine Dame, Herr Schraut. So die richtige Feinheit,
 nich aufjedonnert, nur so allens vom Besten und schick das
 Ganze.«
@@ -787,10 +787,10 @@ geflüstert.
 Was sollte das?! Weshalb diese merkwürdigen Worte?!
 
 <@pagebreak/>
-und — plötzlich machte ich halt. Ganz überraschend
+Und — plötzlich machte ich halt. Ganz überraschend
 hatten meine Gedanken eine Brücke gebaut: von diesen
 drei Worten eines Sterbenden zu Charly Grimly, dem
-Schielenden. *Dem Schielenden!* Dem mit den linken
+Schielenden. *Dem Schielenden!* Dem mit dem linken
 Auge Schielenden!!
 
 Wie angewurzelt stand ich still.
@@ -870,7 +870,7 @@ Er brach mitten im Satze ab, senkte den Kopf, murmelte:
 »Entsetzlich — — entsetzlich!!« Und wieder zitterte
 seine Stimme vor Schmerz.
 
-Unbegreiflich — unverständlich war daß alles.
+Unbegreiflich — unverständlich war das alles.
 
 Ich gab alles weitere Forschen auf, machte kehrt, verließ
 <@pagebreak/>
@@ -928,7 +928,7 @@ alten Gebäudes und erklärte noch, daß alle Stunde zwei
 Beamte das Haus mehrmals umrunden würden, stets zur
 vollen Stunde — von elf Uhr an. —
 
-Wir war dieses Entgegenkommen der Kriminalpolizei
+Mir war dieses Entgegenkommen der Kriminalpolizei
 nur lieb. Es würde mir immerhin ein gewisses Sicherheitsgefühl
 gewähren, wenn ich wußte, daß ich alle Stunde
 Hilfe in der Nähe hätte.
@@ -1309,7 +1309,7 @@ Nun hatte ich sie in die Kissen gelegt, die blonde
 Fremde, die Rätselvolle.
 
 Der blonde Scheitel (die Damenperücke lag dort seitwärts
-auf einem Stuhl) war voll und das Haar seidenweich).
+auf einem Stuhl) war voll und das Haar seidenweich.
 
 Ich beugte mich über die Betäubte.
 

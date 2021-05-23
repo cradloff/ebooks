@@ -86,7 +86,7 @@ heraus und las:
 Westend zurücklasse, ist selbstverständlich. Es muß aber
 sein. Deine Pferdenatur wird Simpsons Jagdhieb schon
 <@pagebreak/>
-Überwinden, und bist Du erst gesund, kommst Du mir
+überwinden, und bist Du erst gesund, kommst Du mir
 nachgereist.
 
 > Höre — staune: Ich reise heute am 17. Mai nach
@@ -162,7 +162,7 @@ Jüngling nicht plötzlich wieder gedroht hätte:
 > Und dann rief dieser Mensch dem Professor ein einziges
 Wort zu … ein einziges!
 
-> Leider verstand ich es.
+> Leider verstand ich es nicht<@refnote 1/>.
 
 > Es übte jedoch eine erstaunliche Wirkung auf Simpson
 aus.
@@ -234,9 +234,8 @@ zurück — weinend!! —
 Fähigkeiten für einen Mann gehalten. Das
 Weinen verriet mir: ein Weib!
 
-<@pagebreak/>
-
-> Ich sagte ihr das auf den Kopf zu. Sie — schwieg.
+> <@pagebreak/>
+Ich sagte ihr das auf den Kopf zu. Sie — schwieg.
 Und bevor sie dann selbst das Versteck verließ, erklärte
 sie nur: »Herr Harst, Sie werden fernerhin keine Gelegenheit
 mehr haben, Simpson und mir zu begegnen. Wir
@@ -305,7 +304,7 @@ Alles Gute! — Wiedersehen!
 Der Dampfer »King Manuel« legte am Hafendamm
 der Kanalstadt an, der berühmten Kanalstadt Suez.
 
-Wer denkt da nicht sofort an Lesseps<@refnote 1/>, den genialen Ingenieur,
+Wer denkt da nicht sofort an Lesseps<@refnote 2/>, den genialen Ingenieur,
 wer denkt da nicht sofort an glutheiße Tage, an
 braune Beduinen und ähnliches!
 
@@ -470,7 +469,7 @@ sein.
 Reise nach Südarabien, für die Sie mich so überreich mit
 Geldmitteln versehen hatten.
 
-> Ich traf am 8. April in Aden ein. Wir, dem leidlich
+> Ich traf am 8. April in Aden ein. Mir, dem leidlich
 bekannten Luftpiloten, bot es keine Schwierigkeiten, den
 aus England mitgebrachten Eindecker zerlegt in die Wüste
 bis an die Randhöhen des Dschebel Makarid schaffen zu
@@ -551,7 +550,7 @@ vermeide alles, was Ihnen gefährlich werden kann. Ich
 weiß, daß dieser infame Harst nichts unversucht lassen
 wird, Sie zu fangen. Daher bin ich doppelt vorsichtig.
 
-> Ich bin wie stets Ihr treu ergebener.
+> Ich bin wie stets Ihr treu ergebener
 
 > John Bristol.
 
@@ -617,7 +616,7 @@ Spitze zu landen?! Gewiß: das hatte Bristol ja alles
 schon in seinem Bericht erwähnt. Aber — aber: was gab
 es denn dort zu untersuchen — was?! —
 
-Hierüber lange nachzugrübeln, Verbot mir der Ernst
+Hierüber lange nachzugrübeln, verbot mir der Ernst
 der Lage.
 
 Harst war verschwunden!! Harst war von diesem
@@ -662,7 +661,7 @@ Ich wartete … wartete …
 Ich aß gedankenvoll ein tadelloses Brathuhn und dachte
 an Harald …
 
-Wo flehte er?! Wie war es möglich gewesen, daß er
+Wo steckte er?! Wie war es möglich gewesen, daß er
 dieser Sarah und dem Professor in die Falle gegangen?!
 
 Dann — fiel mein Blick auf ein Paar, das soeben die
@@ -721,7 +720,7 @@ Wir tranken eisgekühlten Punsch, rauchten und unterhielten
 uns.
 
 <@pagebreak/>
-Ich hatte mich mit meinen richtigen Namen Max
+Ich hatte mich mit meinem richtigen Namen Max
 Schraut vorgestellt. Ich wollte Sarah in Sicherheit wiegen.
 
 »Ich habe hier ein allerliebstes Häuschen außerhalb der
@@ -1200,7 +1199,7 @@ von sechs Stunden mit je einem arabischen Führer
 auf Reitkamelen Suez verlassen und angeblich zur Hyänenjagd
 in die Wüste nach Kairo zu hinausgeritten waren. Ob
 diese beiden Simpson und Sarah gewesen, ob also Sarah
-abermals dem Professor aus den Fersen war, ließ sich nicht
+abermals dem Professor auf den Fersen war, ließ sich nicht
 näher ermitteln. — —
 
 Wir benutzten einen Frachtdampfer zur Fahrt nach
@@ -1278,7 +1277,7 @@ zu Edward Simpsons Fährte dem Dschebel Makarid
 entgegen. Simpson, nur begleitet von zwei Arabern, die er
 <@pagebreak/>
 in Aden gemietet hatte, konnte unmöglich ahnen, daß wir
-beide hinter ihn her waren. Dazu hatten wir zu viel Vorsicht
+beide hinter ihm her waren. Dazu hatten wir zu viel Vorsicht
 angewandt, hatten in Aden uns nur abends auf den
 Straßen gezeigt, und Simpsons Beobachtung unserem
 dortigen Bekannten, dem Polizeiinspektor Greeg, überlassen.
@@ -1302,7 +1301,7 @@ in den Tälern der pfadlosen Wüste dahin und begnügten
 uns damit, hin und wieder vorsichtig von einem Hügel mit
 unseren scharfen Gläsern nach ihm Ausschau zu halten.
 
-Nach mittags gegen fünf Uhr war’s. Soeben hatten wir
+Nachmittags gegen fünf Uhr war’s. Soeben hatten wir
 abermals Simpson in etwa zweitausend Meter Entfernung
 erspäht und bogen jetzt in ein steiniges sogenanntes Wadi,
 ein trockenes ehemaliges Flußbett mit felsigen Rändern ein.
