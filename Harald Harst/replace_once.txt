@@ -28,6 +28,7 @@
 \bSähe\b	Sätze
 \bSaß\b	Satz
 \bSeht\b	Jetzt
+\bTeich!\b	leicht
 \bTer\b	Der
 \bvor!\b	dort
 \bwirft\b	wirst
