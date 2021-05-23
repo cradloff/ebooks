@@ -95,7 +95,7 @@ Las vor:
 
 > Gisbert Parnack.
 
-Diesen Brief schreibe ich in dem Schlemmerlokal Nachteule am Kurfürstendamm, wo ich Stammgast bin.
+> Diesen Brief schreibe ich in dem Schlemmerlokal Nachteule am Kurfürstendamm, wo ich Stammgast bin.
 
 Harald schnitt ein merkwürdiges Gesicht, als er den Briefbogen in den Umschlag zurücksteckte.
 
@@ -207,7 +207,7 @@ Aha – also der Mann, der das grüne Tuch zum Fenster hinaushängen sollte!
 
 »Ich habe mir für zwei Stunden Urlaub geben lassen, Herr Harst.« fuhr er fort. »Ich möchte mit Ihnen über die drei amerikanischen Aktien sprechen. Wenn ich auch nicht in schlechten Verhältnissen lebe, so möchte ich doch gerade diese wertvollen Aktien ungern …«
 
-»Sehr begreiflich, Herr Schönborn.« nickte Harst. »Wollen Sie nicht bitte nähertreten?«
+»Sehr begreiflich, Herr Schönborn,« nickte Harst. »Wollen Sie nicht bitte nähertreten?«
 
 »Ich habe wenig Zeit. Ich soll auch noch nach dem Präsidium kommen, Herr Harst. Würden Sie bereit sein, gegen ein dem Werte der Aktien …«
 
@@ -443,7 +443,7 @@ Wir sahen Becherts verstörtes Gesicht wie eine Vision vorbeihuschen.
 
 Dann hatte ich schon die Haustür aufgerissen.
 
-»Gott sei Dank!« keuchte Bechert, »Ihr seid zu Hause! Ich …«
+»Gott sei Dank!« keuchte Bechert. »Ihr seid zu Hause! Ich …«
 
 Er warf sich in den Sessel, den Harst ihm zuschob.
 
@@ -557,7 +557,7 @@ Unter dem schwarzen Spitzenschleier lauerten Augen mit blinkenden Pupillen, mit 
 
 Parnack – Gisbert Parnack!!
 
-»Sie sind nun beide wieder zu sich gekommen,« sagte er, und es war das leise, feine, zitterige Stimmchen einer Matrone, »Ich brauche wohl kaum Erklärungen abzugeben. Sie haben ja bereits festgestellt, daß der Schreibtisch kein Geheimfach enthält, Herr Harst. Ich wollte Sie beide nur hierherlocken. Nicht wahr, Sie sehen nun wohl ein, daß es unvorteilhaft ist, mir in den Weg zu treten. Sie mögen tun, was Sie wollen: jeder Ihrer Schritte wird beobachtet! Sie haben meine Machtmittel unterschätzt. Ich könnte Sie beide für immer verschwinden lassen. Noch verzichte ich darauf. Ich habe Wichtigeres vor. Sie werden hier vielleicht morgen entdeckt werden. Vielleicht auch erst übermorgen. Ich werde Bechert eine Nachricht zukommen lassen, angeblich von Ihnen, daß die Polizei sich um die Wohnung hier bis morgen abend um keinen Fall kümmern soll.«
+»Sie sind nun beide wieder zu sich gekommen,« sagte er, und es war das leise, feine, zitterige Stimmchen einer Matrone. »Ich brauche wohl kaum Erklärungen abzugeben. Sie haben ja bereits festgestellt, daß der Schreibtisch kein Geheimfach enthält, Herr Harst. Ich wollte Sie beide nur hierherlocken. Nicht wahr, Sie sehen nun wohl ein, daß es unvorteilhaft ist, mir in den Weg zu treten. Sie mögen tun, was Sie wollen: jeder Ihrer Schritte wird beobachtet! Sie haben meine Machtmittel unterschätzt. Ich könnte Sie beide für immer verschwinden lassen. Noch verzichte ich darauf. Ich habe Wichtigeres vor. Sie werden hier vielleicht morgen entdeckt werden. Vielleicht auch erst übermorgen. Ich werde Bechert eine Nachricht zukommen lassen, angeblich von Ihnen, daß die Polizei sich um die Wohnung hier bis morgen abend um keinen Fall kümmern soll.«
 
 Parnack erhob sich.
 
@@ -607,7 +607,7 @@ Mein Blick wanderte zurück von der Uhr zu Harsts offenem leeren Koffer – zu H
 
 Was sollte das alles nur?! – Eine schwelende Zündschnur – vielleicht eine Explosion – eine Bombe, eine Höllenmaschine, die Freund Parnack für uns zurückgelassen hatte?! – Aber – – wo?! In dem leeren Koffer?! Und eine Bombe – und Haralds fideles Grinsen?! Nein, das gab keinen Vers! Das war Unsinn!
 
-Und wie ich noch so nach dem Koffer hinstarrte, wie ich den Gedanken auf die Spur zu kommen suchte, die Harst durch seine Augen mir hatte andeuten wollen, da ging mir ganz plötzlich ein Licht auf: Harald selbst hatte vielleicht in dem schmalen Geheimfach seines Koffers eine harmlose Knallkapsel angebracht – Knallkapsel oder dergleichen, die zur Entzündung kam, wenn die durch das Öffnen des Koffers irgendwie in Brand gesetzte Schnur mit ihrem vorwärtsfressenden Funken die Sprengmasse erreichte! Und – das würde offenbar nach Haralds Berechnung gegen sieben Uhr geschehen! Der Knall würde gehört werden. Hausbewohner würden den Portier benachrichtigen. Man würde der Ursache des Knalles nachforschen, würde uns finden! Dann waren mir frei!
+Und wie ich noch so nach dem Koffer hinstarrte, wie ich den Gedanken auf die Spur zu kommen suchte, die Harst durch seine Augen mir hatte andeuten wollen, da ging mir ganz plötzlich ein Licht auf: Harald selbst hatte vielleicht in dem schmalen Geheimfach seines Koffers eine harmlose Knallkapsel angebracht – Knallkapsel oder dergleichen, die zur Entzündung kam, wenn die durch das Öffnen des Koffers irgendwie in Brand gesetzte Schnur mit ihrem vorwärtsfressenden Funken die Sprengmasse erreichte! Und – das würde offenbar nach Haralds Berechnung gegen sieben Uhr geschehen! Der Knall würde gehört werden. Hausbewohner würden den Portier benachrichtigen. Man würde der Ursache des Knalles nachforschen, würde uns finden! Dann waren wir frei!
 
 Ja – nur so konnte es sein, nur so!!
 
@@ -673,13 +673,13 @@ Er qualmte ein paar Züge. Straßenbahnen ratterten vorüber.
 
 Er faßte mich unter. »Komm’ dort drüben an den Vorgarten von Nr. 238. Lache laut, sei vergnügt. Ein Paar, das sich einer durch Alkohol scheinbar leicht angeheizten Fröhlichkeit hingibt, ist hier eine Durchschnittserscheinung.«
 
-Wir gingen Arm in Ann. Dann lehnte Harst am Gitter, dann kramte ich aus der Manteltasche das vielversprechend wirkende Fläschchen, flache Form, heraus. Es konnte Schnaps enthalten. Es enthielt klares Wasser.
+Wir gingen Arm in Arm. Dann lehnte Harst am Gitter, dann kramte ich aus der Manteltasche das vielversprechend wirkende Fläschchen, flache Form, heraus. Es konnte Schnaps enthalten. Es enthielt klares Wasser.
 
 Und immer zwischen einem laut gebrachten Satz im Berliner Jargon kam ein geflüsterter anderer, der den Vorhang weiter lüftete.
 
 »Sieh mal, zuweilen wird aus Bluff bitterer Ernst, mein Alter. – Ich habe nun mal bessere Augen als andere. Der Obstkahn dort ist vielverheißend. – Mittags faulenzten da an Deck in der Sonne drei Kerle, die wie die Fischerknechte aussahen. – Waren keine. Spielten nur zum Schein Karten. – Mischten die Karten kaum. – Hatten die Augen bald hier, bald da. – Hatten Stiefel an, die mit Kalk bestäubt waren, damit sie zum Kostüm paßten. – Waren braune Schnürstiefel, mein Alter. – Die Kerle gehörten zu Parnacks Kaschemmengarde. Nehme Gift darauf. – So, nun sieh’ Dir mal den Obstkahn genau an. – Er hat sich seit Vormittag etwas verändert.«
 
-Nun – leidet hatte ich dem Kahn am Vormittag wenig Beachtung geschenkt. Die drei Kartenspieler hatte ich freilich bemerkt, wie ich mich jetzt entsann. Aber – verändert sollte sich etwas haben?! Und – das sollte ich bei der schlechten Beleuchtung von hier aus feststellen können?!
+Nun – leider hatte ich dem Kahn am Vormittag wenig Beachtung geschenkt. Die drei Kartenspieler hatte ich freilich bemerkt, wie ich mich jetzt entsann. Aber – verändert sollte sich etwas haben?! Und – das sollte ich bei der schlechten Beleuchtung von hier aus feststellen können?!
 
 Ich war ehrlich. »Ich habe mir den Obstkahn nicht genauer angeschaut,« flüsterte ich.
 

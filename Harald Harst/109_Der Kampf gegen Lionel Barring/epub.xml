@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">480ae640-9eb4-11eb-a4d5-bfca75765673</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Kampf gegen Lionel Barring</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">109</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Kampf gegen Lionel Barring.
+
+»Da ist er schon wieder!« sagte Harald Harst zu mir, als wir kaum im Speisesaal des Atlantic-Hotels in Melbourne Platz genommen hatten, um in aller Behaglichkeit bei den Klängen einer erstklassigen ungarischen Kapelle unser Abendessen zu vertilgen.
+
+Der Kellner reichte uns die Speisekarte. Erst nachdem wir ein Menü zusammengestellt hatten, konnte ich meinen Freund daher fragen:
+
+»Wen meinst Du eigentlich mit diesem »Da ist er schon wieder«?«
+
+Harald entfaltete die Abendnummer der Melbourner Times und erwiderte:
+
+»Wir sind vorgestern hier eingetroffen, nachdem wir volle fünf Tage dem Geheimnis der namenlosen Jacht gewidmet hatten, das uns weit hinaus in entlegene Meeresbreiten führte. Vorgestern, als die Australia uns kaum im Hafen an Land gesetzt hatte, bemerkte ich den eleganten Herrn zum ersten Male. Er hat uns seitdem unauffällig weiter beobachtet. Als wir gestern draußen auf der Relly-Farm der Kaninchenjagd beiwohnten, war er ebenfalls als Zuschauer anwesend. Jetzt hat er soeben dort drüben an einem Tische links von dem Pfeilerspiegel sich niedergelassen.«
+
+Die drei Rauchsignale.
+
+Es war inzwischen Mitternacht geworden. Irgendwo im Hause schlug eine alte Standuhr dröhnend zwölfmal.
+
+Ich zählte die Schläge mit, schaute dabei auf Harst, der mit Lorms Zettel in der Linken tief in einem alten Lehnstuhl lag und die Füße dem Kamin zugestreckt hatte, eine Mirakulum rauchte und die Augen halb geschlossen hatte.
+
+Der Märzsturm verschlang mit seinem Toben zuweilen das Dröhnen der lauten Uhrschläge, daß ich ganz scharf hinhorchen mußte, um richtig mitzählen zu können.
+
+Nun der letzte Schlag ...
+
+»Zwölf!« sagte ich unwillkürlich halblaut.
+
+Da geschah etwas Seltsames.
+
+Haralds lässige Gestalt bekam Leben. Sein linker Arm fuhr nach vorn, und Doktor Lorms zu einem kleinen Ball zusammengeknüllter Zettel verschwand in der weit offenen Tür des Ofens — mitten in die flammenden Buchenscheite hinein ...
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (109) Der Kampf gegen Lionel Barring.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

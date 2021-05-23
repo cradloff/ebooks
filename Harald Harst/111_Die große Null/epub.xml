@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">9339f52e-97c6-11eb-9d9d-331f5bfb0ac4</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die große Null</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">111</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Die große Null.
+
+Harald Harst und ich waren vor drei Tagen nach Berlin zurückgekehrt. Unsere Versuche, in der Umgebung von Schloß Gnir in Schottland irgendeine Spur von Lionel Barring, diesem so äußerst gefürchteten und vielseitigen Verbrecher, zu entdecken, hatten keinerlei Erfolg gehabt. Barring, der ja eigentlich ganz anders hieß, war es geglückt, seine und seiner drei Komplicen Fährte so gründlich zu verwischen, daß wir schließlich die Jagd auf ihn aufgaben. Mochte sich die englische Polizei weiter um diese vier Leute kümmern. Wir hatten Sehnsucht nach unserem behaglichen Heim in der Blücherstraße 10 in Berlin-Schmargendorf. — Der Leser und Freund der Harald Harst-Abenteuer wird diese Sehnsucht begreifen. Das, was wir in Schloß Gnir erlebt hatten, war wirklich für unsere trainierten Nerven etwas viel gewesen.  Im vorigen Band, Das Geheimnis der Tokkara-Höhlen, kann sich jeder selbst davon überzeugen.
+
+Nun also wieder daheim — endlich wieder! — Ich atmete auf, als Harald mir in Gegenwart seiner Mutter erklärte, er würde jetzt eine volle Woche faulenzen und keinerlei Aufträge annehmen, mochte selbst der Maharadscha von Haidarabad, oder besser Seine Hoheit der Nizam, ihn mit einer Untersuchung eines »Falles« beehren.
+
+Allerdings — derartigen halben Schwüren Haralds ist nie recht zu trauen. Nie! Kommt dann jemand und trägt ihm eine Geschichte vor, die einige Überraschungen verspricht, so hat er seine selbstgewährten Ferien zumeist schnell gestrichen! —
+
+Der Sultan von Padagoa.
+
+Wenn der Leser diesen Titel hier nun findet, wird er vielleicht verwundert den Kopf schütteln und denken:
+
+»Ein Sultan? Was hat ein Sultan mit alledem zu tun?!« —
+
+Geneigter Leser! Vergiß nicht: Du liest Harald Harst-Abenteuer, nicht altbackene Romane der Marlitt und ihrer Nachbeter! Du liest das, was Dich wie den Monteur Zwicker für Stunden die klägliche Misere des Markschwundes von anno 1923 vergessen machen will! Du liest das, was für Harst und mich das Lebenselixier ist: Außergewöhnliches!
+
+Du mußt also schon mit uns nachher den Sprung von Berlin nach den Küsten der Insel Sumatra mitmachen, nach dem holländischen Kolonialbesitz. Es hilft Dir nichts. Aber Du wirst es gern tun. — —
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (111) Die große Null.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

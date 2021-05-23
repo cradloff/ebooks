@@ -1,5 +1,4 @@
-Anmerkungen:
-------------
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "02_Die leuchtende Fratze.md">In der Vorlage steht: »Vater und Sohn« – Geändert auf »Großvater und Enkel«.</@footnote>
 

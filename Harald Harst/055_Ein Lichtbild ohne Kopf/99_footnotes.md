@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Ein Lichtbild ohne Kopf.md">Hefttitel auf der Umschlagseite: »Ein Lichtbild ohne Kopf«.</@footnote>
 

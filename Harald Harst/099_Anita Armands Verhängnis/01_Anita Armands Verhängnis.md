@@ -25,7 +25,7 @@ Also – spazieren waren wir gestern nachmittag gegangen, und zwar durch<@refnot
 
 Solche Szenen, solche Kleinigkeiten finden kaum je Beachtung. Der Großstädter, heute mehr denn je auf das Zusammenraffen irdischer Güter und auf Genießen, anderseits auch auf die niederdrückende Beschäftigung mit eigenen Sorgen eingestellt, ist der Umgebung gegenüber meist blind. Gedankenlos gleitet der Blick über Mitmenschen und Dinge, Geschehnisse und besonders über die sogenannten »Spiegel der Seelen«, die Gesichter hin. Gedankenlos!! Und doch liegt in alledem ein zweites, geheimes Leben, eine verborgene Welt, – offen nur für den, der mit sehenden Augen und mit arbeitenden Gedanken das Ganze umfaßt.
 
-Nicht umsonst, nicht zwecklos schreibe ich als Einleitung zu diesen unseren Abenteuern diese Sätze längst be[kann]ter<@refnote 3/> Weisheit. Der Leser wird den Zweck herausfühlen, wird in diesem Erlebnis die Bestätigung finden, daß jedoch auch über dieser Weisheit als Einschränkung steht: »Der Schein trügt!« und »Irren ist menschlich!«
+Nicht umsonst, nicht zwecklos schreibe ich als Einleitung zu diesen unseren Abenteuern diese Sätze längst bekannter<@refnote 3/> Weisheit. Der Leser wird den Zweck herausfühlen, wird in diesem Erlebnis die Bestätigung finden, daß jedoch auch über dieser Weisheit als Einschränkung steht: »Der Schein trügt!« und »Irren ist menschlich!«
 
 Spazieren waren wir gegangen. Und jetzt fiel mir ein: wir waren auch durch die Lutherstraße gekommen! Während ich dort eine Buchhändlerauslage betrachtete, hatte Harst vor den Reklameplakaten des Skala-Theaters halt gemacht, war dann mit einem Male so sehr einsilbig gewesen.
 
@@ -33,9 +33,9 @@ Und – nun wollte er ins Skala-Theater! Und nun fragte ich:
 
 »Dir ist vor den Reklamebildern etwas aufgefallen?«
 
-»Ja, mein Alter. – Verabschieden wir uns von meiner Mutter und gehen wir. Ich erzähle Dir’s unterwegs.
+»Ja, mein Alter. – Verabschieden wir uns von meiner Mutter und gehen wir. Ich erzähle Dir’s unterwegs.«
 
-Da hing auch in dem langen Schaukasten die große Photographie einer Kunstpfeiferin,« begann Harald, als wir unser Heim verlassen hatten. »Das Gesicht interessierte mich, erinnerte mich an eine ärmlich gekleidete Frau, die ich schon zweimal in den letzten Tagen hier in unserer Straße vom Fenster aus bemerkt habe. Die noch junge Frau kam stets zur selben Zeit, etwa um zehn Uhr vormittags, und verschwand in der Mietskaserne, die man uns da auf der anderen Straßenseite vor die Nase gesetzt hat.«
+»Da hing auch in dem langen Schaukasten die große Photographie einer Kunstpfeiferin,« begann Harald, als wir unser Heim verlassen hatten. »Das Gesicht interessierte mich, erinnerte mich an eine ärmlich gekleidete Frau, die ich schon zweimal in den letzten Tagen hier in unserer Straße vom Fenster aus bemerkt habe. Die noch junge Frau kam stets zur selben Zeit, etwa um zehn Uhr vormittags, und verschwand in der Mietskaserne, die man uns da auf der anderen Straßenseite vor die Nase gesetzt hat.«
 
 »Du meinst, es war die Kunstpfeiferin?«
 
@@ -202,7 +202,7 @@ Als am 2. Juni eingezogen stand da in steiler schmuckloser Balkenschrift:
 
 > Stuart Corniter, Impresario.
 
-Harald klappte das Buch zu. »Sie wissen also, Frau Ahlhelm, daß dieser Corniter der Impresario der Kunstpfeiferin Anitas Armand ist und daß, falls hier Fräulein Armand am Telephon verlangt wird, Corniter gerufen werden sollte?«
+Harald klappte das Buch zu. »Sie wissen also, Frau Ahlhelm, daß dieser Corniter der Impresario der Kunstpfeiferin Anita Armand ist und daß, falls hier Fräulein Armand am Telephon verlangt wird, Corniter gerufen werden sollte?«
 
 »Ja,« gestand die Walküre zögernd. »Mr. Corniter bat mich, darüber zu schweigen. Nur die beiden Stubenmädchen hat er noch eingeweiht und ihnen ebenfalls viel Geld gegeben.«
 
@@ -659,7 +659,7 @@ Harst schwieg, da Albert Panzer offenbar etwas zu erklären wünschte.
 
 »Also hatte Robert Dramar sich von seiner Bande getrennt?« warf Harald ein.
 
-»Ja. Und Jane hatte ihm deshalb den Tod geschworen. Sie behauptete, Robb habe das Kollier zuletzt gehabt und es Anna übergeben. Dabei blieb sie. – Wir drei entkamen auf einem Frachtdampfer. Stuart und ich taten Heizerdienste. Anna kochte für die Besatzung. Und – dort auf dem Dampfer wurde Annas Talent als Kunstpfeiferin entdeckt. Es war da unter den Heizern auch ein früherer Artist, ein musikalischer Klown namens Herbert Poncy. Der hat Anna während der Fahrt nach Kopenhagen ausgebildet und war ihr dann auch in der dänischen Hauptstadt beim ersten Engagement behilflich. Inzwischen verstarb mein Vater in Cleveland. Er war Witwer gewesen, und ich erbte einige tausend Dollar. Als ich der Erbschaft wegen im Dezember wieder drüben in Amerika war, hatte mich Jane Brack aufgespürt. Abermals geriet ich, diesmal allein, in eine Falle. Abermals entkam ich mit Mühe und Not. Damals war Anna in Stockholm engagiert, und Stuart hatte sie als ihr Impresario begleitet. Ich wagte nicht, mich mit ihnen wieder zu vereinigen, da ich genau merkte, daß Jane Bracks Kreaturen stets um mich blieben. Jane glaube eben noch immer, daß Anna das Kollier irgendwo für ihren Vater verborgen hätte, und sie hoffte, durch mich wieder auf Annas Fährte stoßen.«
+»Ja. Und Jane hatte ihm deshalb den Tod geschworen. Sie behauptete, Robb habe das Kollier zuletzt gehabt und es Anna übergeben. Dabei blieb sie. – Wir drei entkamen auf einem Frachtdampfer. Stuart und ich taten Heizerdienste. Anna kochte für die Besatzung. Und – dort auf dem Dampfer wurde Annas Talent als Kunstpfeiferin entdeckt. Es war da unter den Heizern auch ein früherer Artist, ein musikalischer Klown namens Herbert Poncy. Der hat Anna während der Fahrt nach Kopenhagen ausgebildet und war ihr dann auch in der dänischen Hauptstadt beim ersten Engagement behilflich. Inzwischen verstarb mein Vater in Cleveland. Er war Witwer gewesen, und ich erbte einige tausend Dollar. Als ich der Erbschaft wegen im Dezember wieder drüben in Amerika war, hatte mich Jane Brack aufgespürt. Abermals geriet ich, diesmal allein, in eine Falle. Abermals entkam ich mit Mühe und Not. Damals war Anna in Stockholm engagiert, und Stuart hatte sie als ihr Impresario begleitet. Ich wagte nicht, mich mit ihnen wieder zu vereinigen, da ich genau merkte, daß Jane Bracks Kreaturen stets um mich blieben. Jane glaubte eben noch immer, daß Anna das Kollier irgendwo für ihren Vater verborgen hätte, und sie hoffte, durch mich wieder auf Annas Fährte zu stoßen.«
 
 »Verstehe!« nickte Harald. »Was geschah dann hier in Berlin?«
 
@@ -671,7 +671,7 @@ Harst schwieg, da Albert Panzer offenbar etwas zu erklären wünschte.
 
 »Weshalb schickten Sie ihn gestern abend in die Skala?«
 
-»Weil ich einen von Janes Freunden vor dem Schaumkasten der Skala gesehen hatte …«
+»Weil ich einen von Janes Freunden vor dem Schaukasten der Skala gesehen hatte …«
 
 »Vorgestern nachmittag?«
 

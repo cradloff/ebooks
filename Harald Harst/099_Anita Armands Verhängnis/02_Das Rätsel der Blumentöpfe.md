@@ -224,7 +224,7 @@ Und nach kurzer Pause. »Gib mir einen Kognak! So ist Harst noch nie hineingeleg
 
 Er warf sich in den Schreibsessel, streckte die Beine von sich, starrte zum Fenster hinaus …
 
-Und trank drei Kognaks, hatte aus der Stirn Falten wie Wülste, sagte dann:
+Und trank drei Kognaks, hatte auf der Stirn Falten wie Wülste, sagte dann:
 
 »Geh’ zu Bett, mein Alter … Ich habe keine Zeit, müde zu sein. Albert Panzer ist in Gefahr …«
 
@@ -278,7 +278,7 @@ Und der Kommissar blickte mich so forschend an, als ahnte er schon, daß ich mic
 
 Ich bat ihn, es mir nicht zu verargen, wenn ich über das, was wir ermittelt hatten, vorläufig nicht gern spräche. »Harald hat mich dazu nicht ermächtigt,« meinte ich.
 
-Er machte ein sehr unzufriedenes Gesicht. »Herr Schraut, Sie müssen mir alles mitteilen,« sagte er etwas schroff. »Harst bringt mich in eine sehr unangenehme Lage, wenn [er …«]<@refnote 12/>
+Er machte ein sehr unzufriedenes Gesicht. »Herr Schraut, Sie müssen mir alles mitteilen,« sagte er etwas schroff. »Harst bringt mich in eine sehr unangenehme Lage, wenn er …«<@refnote 12/>
 
 Das Schrillen des Fernsprechers rief mich an den Schreibtisch.
 
@@ -334,7 +334,7 @@ So eifrig hatte ich sie beobachtet, daß ich gar nicht gewahr geworden, daß Har
 
 »Ja, ja, lieber Schraut, die Lenk hat sich seit ein paar Tagen einen Blumengarten da oben zugelegt. Bisher waren’s nur sechs Töpfe Petunien … Nun sind Kakteen, Fuchsien, Begonien, Aurikeln, Nelken, Primeln und noch andere hinzugekommen.«
 
-»Sechsundzwanzig im ganzen,« sagte ich grübelnd. Mir wollte es nicht ans dem Sinn, daß die Lenk mit der leeren Gießkanne ihre Blumen gepflegt hatte.
+»Sechsundzwanzig im ganzen,« sagte ich grübelnd. Mir wollte es nicht aus dem Sinn, daß die Lenk mit der leeren Gießkanne ihre Blumen gepflegt hatte.
 
 Und ich fügte hinzu: »Harald ist drüben, Frau Harst.«
 
@@ -364,8 +364,8 @@ Ich hielt scharf nach allen Seiten Ausschau. Nirgends war etwas Verdächtiges zu
 
 Und zehn Minuten drauf kletterte das alte Fräulein mit dem goldenen Kneifer hastig die Treppen in Nr. 68 empor und läutete an Frau Lenks Mansardenflurtür.
 
-3\.Kapitel.
-Der Kampf um das Brillanthalsband.
+<h2>3. Kapitel.</h2>
+<h3>Der Kampf um das Brillanthalsband.</h3>
 
 Frau Lenks unheimlich spitze Nase wurde in der Spalte der Flurtür sichtbar.
 
@@ -411,7 +411,7 @@ Ich entschied mich blitzschnell für das erstere, nickte der dürren Person zu u
 
 Mein Hirn mußte sich erst beruhigen. Was war da auch alles in den letzten Minuten auf mich eingestürmt!! Die Lenk eine Vertraute Jane Bracks!! Wer hätte das geahnt!!
 
-Ich atmete tief und langsam. Meine Gedanken stellten das wilde Tempo ein. Ich überdachte alles nochmals mit kühler Kritik. Doch – auch jetzt hielt ich für feststehend, daß die Lenk mit der Verbrecherin Jane Brack im Bunde war. Desto seltsamer also, daß Anna Dramar gerade hier wohnte! Wie war die Braut Albert Panzers gerade zu diesem an sich schon so unsympathischen Weibe geraden?!
+Ich atmete tief und langsam. Meine Gedanken stellten das wilde Tempo ein. Ich überdachte alles nochmals mit kühler Kritik. Doch – auch jetzt hielt ich für feststehend, daß die Lenk mit der Verbrecherin Jane Brack im Bunde war. Desto seltsamer also, daß Anna Dramar gerade hier wohnte! Wie war die Braut Albert Panzers gerade zu diesem an sich schon so unsympathischen Weibe geraten?!
 
 Dann draußen Schritte – Stimmen.
 
@@ -742,7 +742,7 @@ Harald hatte sich inzwischen wieder in das alte Männchen zurückverwandelt.
 
 Die Kunstpfeiferin hob etwas den Kopf. Ihre Augen schwammen plötzlich in Tränen …
 
-»Mein … mein Bruder – tot, ermordet! « Und mit einem Aufschluchzen sank sie wieder in die Kissen zurück. – Ihre Gedanken gehörten nur dem Toten. Kaum erwacht, war die Erinnerung an das gewaltsame Ende ihres Bruders wieder in ihr lebendig geworden.
+»Mein … mein Bruder – tot, ermordet!« Und mit einem Aufschluchzen sank sie wieder in die Kissen zurück. – Ihre Gedanken gehörten nur dem Toten. Kaum erwacht, war die Erinnerung an das gewaltsame Ende ihres Bruders wieder in ihr lebendig geworden.
 
 Harald sprach tröstend auf sie ein. Und ganz allmählich teilte er ihr dann auch mit, daß Albert Panzer sich in der Gewalt Jane Bracks befände, erzählte ihr weiter, was hier in Lenks Wohnung vorgefallen und fragte schließlich, weshalb sie gerade hier bei der Lenk sich eingemietet hätte.
 
@@ -833,7 +833,7 @@ Robert Dramar also!! Deshalb hatte Anita ihn befreit – deshalb! Ihr Vater war�
 
 Der berüchtigte Gentleman-Robb, der heute hier wahrscheinlich das Kollier aus dem Rahmenversteck sich hatte holen wollen, verschwand mit einem Male.
 
-Dann iah ich, daß er einen Anlauf nahm, daß er vom Dache in weitem Sprung die Krone der anderen Linde zu erreichen suchte.
+Dann sah ich, daß er einen Anlauf nahm, daß er vom Dache in weitem Sprung die Krone der anderen Linde zu erreichen suchte.
 
 Ich hielt den Atem an …
 

@@ -1,4 +1,4 @@
-<h2>Anmerkungen:</h2>
+<div class="anmerkungen">Anmerkungen:</div>
 
 <@footnote 1 "01_Die Spielhölle in Hongkong.md">Kaulun – Ehemalige britische
 Hafenstadt in China. Siehe auch Wikipedia: Kowloon.</@footnote>
