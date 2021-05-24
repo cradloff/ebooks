@@ -6,401 +6,404 @@
 
 <h3>Lady Cornawoor.</h3>
 
--  Denn I den schönen Lese rinnen und dem geneigten
+Wenn Ich den schönen Leserinnen und dem geneigten
 Leser versprochen hatte, noch einiges Über die heilige Säule
-Muhammeds, den rasch el Muhammed, zu berichten, die ja
-im legten Band eine gewisse Rolle spielt, so muß ich zunächst
+Muhammeds, den Tasch el Muhammed, zu berichten, die ja
+im letzten Band eine gewisse Rolle spielt, so muß ich zunächst
 doch, um die Reihenfolge unserer Abenteuer nicht zu unterbrechen,
-ein anderes Erlebnis hier einfügen, das mir bot
-wichtig und festlag Nennung erscheint, um es hier mit all den
-merhviichigen @Ankerketten zu schildern;
+ein anderes Erlebnis hier einfügen, das mir doch
+wichtig und seltsam genug erscheint, um es hier mit all den
+merkwürdigen Einzelheiten zu schildern.
 
-ir waren also roh unserem Ritt (n die Wisfteneien
-Slidarablens Erde Juli 1929 nach dem englischen Karen
-Aden, am Ostausgang des Noten Meeres gelegen, zurückgekehrt.
+Wir waren also nach unserem Ritt in die Wüsteneien
+Südarabiens Ende Juni 1923 nach dem englischen Hafen
+Aden, am Ostausgang des Roten Meeres gelegen, zurückgekehrt.
 Harald Harsts Laune hatte in jenen Tagen den Gefrierpunkt
-erreicht. Er litt nämlich an jenem bösen Nebel, das
-man im Orient Aleppobceule nennt und das in einem beulen-artigen
+erreicht. Er litt nämlich an jenem bösen Übel, das
+man im Orient Aleppobeule nennt und das in einem beulenartigen
 Geschwür aus der — Nase besteht.
 
-Zur Verschönerung trägt eine solle Aleppobeule keineswegs
-In hervorragendem Maße bei. Zum Gegenteil!
+Zur Verschönerung trägt eine solche Aleppobeule keineswegs
+In hervorragendem Maße bei. Im Gegenteil!
 
-Harst sah denn auch etwas entstellt ans. Da war’s weiter
+Harst sah denn auch etwas entstellt aus. Da war’s weiter
 <@pagebreak/>
-klein Wunder, daß er eine Dame, die sich ii: Toter d’Angleterre
-in Aden will(acht am 22. Juni bei in? melden ließ,
-furzersanb durch den Kellner wieder ausgeht(h1«
+kein Wunder, daß er eine Dame, die sich im Hotel d’Angleterre
+in Aden mittags am 22. Juni bei uns melden ließ,
+kurzerhand durch den Kellner wieder wegschickte.
 
-Der Kellner Versand zögernd.
+Der Kellner verschwand zögernd.
 
-Jcá lehnte am Fester und drehte die Karte der Dame
-mißmiatig zwischen den Fingern hin und der. — Eine Lady
-Maria Cornawoor trotz man Dach nicht so ohne weitere è ab,
+Ich lehnte am Fester und drehte die Karte der Dame
+mißmutig zwischen den Fingern hin und her. — Eine Lady
+Maria Cornawoor weißt man doch nicht so ohne weiteres ab,
 Dachte Ich. Man kann doch nie wissen, ob ihr Anliegen nicht
-wirklich) dringend ist, zumal ans der NIcfsecile der Karte mit
-Visiert;t in englischer Sprache zu lesen war:
+wirklich dringend ist, zumal auf der Rückseite der Karte mit
+Bleistift in englischer Sprache zu lesen war:
 
-Der. Harst, helfen Sie mir! Es eilt!!
+> Mr. Harst, helfen Sie mir! Es eilt!!
 
-Harald hatte mich am Diwan aus wo er seine Klippen
-Beule liebevoll mit beitrat Umschlägen behandelte, offenbar
+Harald hatte mich vom Diwan aus, wo er seine Aleppobeule
+liebevoll mit heißen Umschlägen behandelte, offenbar
 beobachtet.
 
-»Dein Gesicht mißbilligt diese Abweisung der glich verfrühten
-Cornawoor,« meinte er plóulic). »Lieber Alter, 08
+»Dein Gesicht mißbilligt diese Abweisung der alten verrückten
+Cornawoor,« meinte er plötzlich. »Lieber Alter, es
 ist besser, man hat nie etwas mit der Cornawoor zu tun. Bei
-ihr findest Du den englischen Spleen in Reinkuttr.«
+ihr findest Du den englischen Spleen in Reinkultur.«
 
 »So?! Und wie äußert sich der? — Übrigens — woher
 bist Du so genau über diese Dame unterrichtet?«
 
-»Mein Gedächtniëé ist leidlich. Die Cornawoor hat bereits
-sechsmal vor Gericht gestanden, weil sie sechs Leute elf
-schossen hat. Das ging durch alle Zeitungen, Besinne Dich
-ihr! li den fegten weh Jahren - — Und sechs Männer
+»Mein Gedächtnis ist leidlich. Die Cornawoor hat bereits
+sechsmal vor Gericht gestanden, weil sie sechs Leute erschossen
+hat. Das ging durch alle Zeitungen. Besinne Dich
+nur: in den letzten zwei Jahren — — Und sechs Männer!!«
 
-»Ah — Jetzt glaube Ich mich an diese Sirasprozesse zu er
-Innern. Bloße waren’s, die sie niedetknailice, Und jedes
-mal wurde sie freigesprochen.«
+»Ah — jetzt glaube Ich mich an diese Strafprozesse zu erinnern.
+Diebe waren’s, die sie niederknallte. Und jedesmal
+wurde sie freigesprochen.«
 
 »Allerdings. Und dazu kommt, daß …«
 
-Pause … Unterbrechung: die Tür war ausgeflogen
+Pause … Unterbrechung: die Tür war ausgeflogen …
 
-er Kellner trat ein, hinter ihm eine hagere, grau goß
-kleidete Dame mit schlohweißem Haar — so eine Art Mann
-Weib
+Der Kellner trat ein, hinter ihm eine hagere, grau gekleidete
+Dame mit schlohweißem Haar — so eine Art Mannweib
+…
 
-Und — — in der erhobenen Rechten hielt he einen Ne
+Und — — in der erhobenen Rechten hielt sie einen
 Revolver von ansehnlicher Größe …
 
-Bedrohte damit den armen, schlotternder Kellner, der
-nun mit sschblackerndem Unterkiefer meldete:
+Bedrohte damit den armen, schlotternden Kellner, der
+nun mit schlackerndem Unterkiefer meldete:
 
 <@pagebreak/>
 »Mister Harst, Lady Cornawoor wünscht Sie zu sprechen.«
-Die Lady ließ die Waffe sinken.
-»Scher’ Dich hinaus!« fauchte sie den Fernsten an, den
 
-denn auch blipfchnell verduftete.
+Die Lady ließ die Waffe sinken.
+
+»Scher’ Dich hinaus!« fauchte sie den Ärmsten an, der
+denn auch blitzschnell verduftete.
+
 Dann wandte sie sich an Harst, nachdem sie die Tür verriegelt
 hatte …
 
 »Mr. Harst, meine Angelegenheit ist zu dringend, als daß
-ich »unverrichteter Sache meine Jacht wieder aufgesucht
-hüte …«
+ich unverrichteter Sache meine Jacht wieder aufgesucht
+hätte …«
 
-Sie erschlug den grauen Schleier ihres breitrandigen Stroh-huttes
+Sie erschlug den grauen Schleier ihres breitrandigen Strohhutes
 hoch und zeigte uns ein tief gebräuntes, von unzähligen
-Falten durhsurchtes, abicdhredend mageres Vogelgesicht mit
-ein Paar jugendlich-lebhasten Augen.
+Falten durchfurchtes, abschreckend mageres Vogelgesicht mit
+ein Paar jugendlich-lebhaften Augen.
 
 Harst blieb ruhig liegen …
 
-»denn Sie nun schon einmal da sind, Mylady, nehmen
-Sie auch Platt,« sagte er kühl und wechselte den Brel-umschlag.
-»Das dort ist mein Freund Katz Schraut, Mylady,«
+»Wenn Sie nun schon einmal da sind, Mylady, nehmen
+Sie auch Platz,« sagte er kühl und wechselte den Breiumschlag.
+»Das dort ist mein Freund Max Schraut, Mylady,«
 fügte er ebenso kühl hinzu.
 
-Ich verbeugte mich
+Ich verbeugte mich …
 
 Lady Cornawoor nickte mir kurz zu …
 
 »Kenne Sie vom Hörensagen, Mr. Schraut …«
 
 Dann zog sie einen Korbsessel neben den Diwan und
-Elite sich, wobei unter dem fußfreiem Sportrock ein Paar
+setzte sich, wobei unter dem fußfreiem Sportrock ein Paar
+Riesenfüße In gelben hohen Schnürschuhen noch deutlicher
+ihre unglaublichen Abmessungen zur Schau stellten. —
 
-tefenfähe In gelben hohen Schnürschuhen noch deutlicher
-ihre unglaublichen Abmessungen zur Schau stellten, -
-
-Sie sonnte sich also, schob den Revolver In den an Ihrem
-sinken Arm hängenden Zeichendeuter, der schon den Namen
-Nachsah verdiente, und holte aus demselben Beutel eine —
-Zigarrentasche aus Krokodiuleder hervor.
+Sie setzte sich also, schob den Revolver In den an Ihrem
+linken Arm hängenden Seidenbeutel, der schon den Namen
+Rucksack verdiente, und holte aus demselben Beutel eine —
+Zigarrentasche aus Krokodilleder hervor.
 
 »Ich rauche nur Sumatra …« meinte sie gleichmütig.
 
 Nachdem sie der grünbraunen Nikotinnudel die Spitze
-mit den fraglos noch echten Zähnen abgebiffen hatte, reichte
-
+mit den fraglos noch echten Zähnen abgebissen hatte, reichte
 ich ihr Feuer.
-Sie rauchte drei Züge, blies in die Glut der glimmenden
 
+Sie rauchte drei Züge, blies in die Glut der glimmenden
 Zigarre hinein und erklärte:
 
 <@pagebreak/>
 »Denken Sie, Mr. Harst, ich soll den Kopf des Maharadscha
-von Jaipuvar gestohlen haben …°
+von Jaipuvar gestohlen haben …«
 
-Harald wechselte abermals den Breiumfdlag …
+Harald wechselte abermals den Breiumschlag …
 
-»Wenn’s Ihnen geglückt ist, Mylady, — meine Hoch-shtung!«
+»Wenn’s Ihnen geglückt ist, Mylady, — meine Hochachtung!«
 meinte er nur. »Denn soweit ich weiß, wird der
 Leib des Maharadscha im Dschaina-Tempel in Jaipuvar
 sehr streng bewacht.«
 
-Die Lady starrte Harald eine Weile an
+Die Lady starrte Harald eine Weile an …
 
-»Sie trauen mir also einen Diebstahl zu?« fragte Ne
+»Sie trauen mir also einen Diebstahl zu?« fragte sie
 gedehnten Tones.
 
-"…— Sie sammeln Raritäten. Und alle wütenden
+»Ja … — Sie sammeln Raritäten. Und alle wütenden
 Sammler stehlen …«
 
 »Hm — nicht ganz falsch,« nickte sie, und ihr Vogelgesicht
 grinste …
 
-te rauchte dann nachdenklich fünf, sechs Züge und fuhr
+Sie rauchte dann nachdenklich fünf, sechs Züge und fuhr
 fort: »Ich gebe zu, leidenschaftliche Raritätensammlerin zu
-sein. Ich habe im Schloß Cornawoor Schälte aufgehäuft,
-die …
+sein. Ich habe im Schloß Cornawoor Schätze aufgehäuft,
+die …«
 
-»… die jeden Dich reizen,« beendete Harst den Satz.
+»… die jeden Dieb reizen,« beendete Harst den Satz.
 »Sechs Diebe büßten ihre Tollkühnheit, in Ihr Museum
 eindringen zu wollen, mit dem Leben. — Also nun der
-Kopf, Mitfuhr … wie sieht’s Bandit?«
+Kopf, Mylady … wie sieht’s damit?«
 
-»ich habe Ihn nicht! Oh erfuhr erst vor einem Jahr,
-daß der tote Maharadscha von Jaipuvart als heilig verehrt
-tutete und darf man den Kopf der Mumie gestohlen haben
-»Also — Sie erhielten Drohbriefe ?«
+»ich habe Ihn nicht! Ich erfuhr erst vor einem Jahr,
+daß der tote Maharadscha von Jaipuvar als heilig verehrt
+wurde und daß man den Kopf der Mumie gestohlen haben
+soll.«
 
-»Nein, Ich fand nur bei einem der sechs Diebe einen
-eitel …
+»Also — Sie erhielten Drohbriefe?«
+
+»Nein. Ich fand nur bei einem der sechs Diebe einen
+Zettel …«
 
 Harst richtete sich etwas auf. Sein Interesse war geweckt.
 
 »Der Zettel, Mr. Harst, war ein förmlicher Vertrag zwischen
-dem Diebe und einem geflossen: Mr. Norton. Der Dich
+dem Diebe und einem gewissen Mr. Norton. Der Dieb
 sollte in das Museum sich einschleichen, den Kopf stehlen, und
 dafür würde Mr. Norton ihm zehntausend Pfund bezahlen.«
 (200&nbsp;000 Mark.)
 
 <@pagebreak/>
-onnerwetterI« — Und Harst setzte ich vollends auf
-Co Co.
+»Donnerwetter!« — Und Harst setzte sich vollends aufrecht …
 
-»Kurz — Ich behaupte, bat all die sehe Spitzbuben nur
-Erbes Kopfes wegen na!) Schloß Ermannen gekommen sind,«
-erklärte Die Lady wie ¿rößter Bestimmtheit.
+»Kurz — Ich behaupte, daß all die sechs Spitzbuben nur
+des Kopfes wegen nach Schloß Cornawoor gekommen sind,«
+erklärte Die Lady mit größter Bestimmtheit.
 
-Harst legte den VBreiumfchlag beiseite, knallte Ah mit
-einem Tuche die Rat: ab und langte nach einer Mirakulum.
+Harst legte den Breiumschlag beiseite, tupfte sich mit
+einem Tuche die Nase ab und langte nach einer Mirakulum.
 
 »Mylady, wir müssen die Sache übersichtlicher behandeln.«
-Er rieb rein Zündholz an und blies dann den Zigarettenrauch
+Er rieb ein Zündholz an und blies dann den Zigarettenrauch
 mit Behagen gegen die Zimmerdecke. »Ich
-weiß, Daß der Maharadscha ging Fatal Dschinra von Jaipu-var
+weiß, Daß der Maharadscha Sing Batar Dschinra von Jaipuvar
 vor dreihundert Jahren als Mumie im Tempel in seiner
-Hauptstadt In Ahnenden Stellung auf dem berühmten Perlen
-Felsenthron in einem gläsernen Behälter mit goldenen Rändern
-aufgestellt wurde und …, noch heute dort als heilig und
-Wwundertätig verehrt und angebetet wird. Ich habe — das
-sind drei Jahre her — den Tempel selbst besucht. Wie lud
-ich in den Zeitungen, laß der Kopf des Vlaharadfdya gen
-stehlen wurde …«
+Hauptstadt In sitzender Stellung auf dem berühmten Perlenthron
+in einem gläsernen Behälter mit goldenen Rändern
+aufgestellt wurde und … noch heute dort als heilig und
+wundertätig verehrt und angebetet wird. Ich habe — das
+sind drei Jahre her — den Tempel selbst besucht. Nie las
+ich in den Zeitungen, daß der Kopf des Maharadscha gestohlen
+wurde …«
 
 Die Lady beugte ich vor …
 
-»Das ist’s ja gerade, Mr. Harst!! Das ist’s so gerade:
+»Das ist’s ja gerade, Mr. Harst!! Das ist’s ja gerade:
 der Kopf ist vorhanden, und niemand in Jaipuvar weiß
-e(was davon, daß er gestohlen sein soll — niemand! Ich
-famose ja aus Indien, bin aus der Heimreise nach England,
-machte hier in Aden mit meiner Jacht Charybdis Station,
+etwas davon, daß er gestohlen sein soll — niemand! Ich
+komme ja aus Indien, bin auf der Heimreise nach England,
+machte hier in Aden mit meiner Jacht Charybdis<@refnote 1/> Station,
 erfuhr, daß Sie hier im Hotel d’Angleterre wohnen, und —«
 
 »Schon gut, Mylady. — Sie waren also in Jaipuvar,
-im Geiger. Und — der Kopf ist dort f«
+im Tempel. Und — der Kopf ist dort?«
 
-»Gewiß!!! Ich sah ihn mit eigenen Augen — spannt der
-Krone aus Smaragden, samt dem Stirnband mit dem be
-rühmten Jaipuvar-Opal …«
+»Gewiß!! Ich sah ihn mit eigenen Augen — samt der
+Krone aus Smaragden, samt dem Stirnband mit dem berühmten
+Jaipuvar-Opal …«
 
 »Merkwürdig!« sagte Harald sinnend. »Und — Sie
-haben in Jaipuvar bestimme erfahren, Bad der Kopf nie
+haben in Jaipuvar bestimmt erfahren, daß der Kopf nie
 geraubt wurde?«
 
-»Nie! Oberst Dogberty, der in Jaipuvar WMilitärresl-dent
+»Nie! Oberst Dogberty, der in Jaipuvar Militärresident
 ist, bestätigte mir’s ebenfalls. — So — und nun das
 <@pagebreak/>
 Wichtigste, Mr. Harst … Bitte — lesen Sie diese Depesche
-meines Schloßverwalters Husten …«
+meines Schloßverwalters Allison …«
 
-Sie reichte Harald ein Telegraum
+Sie reichte Harald ein Telegramm …
 
 Harst las vor:
 
-> »Gestern, am 19. Juni, nachts en Uhr abermals
-Eiubruchsversuch in Museum. Wächter Claryc hat Dieb
+> »Gestern, am 19. Juni, nachts ein Uhr abermals
+Einbruchsversuch in Museum. Wächter Claryc hat Dieb
 angeschossen. Haben den Mann in Pflege genommen und
 der Polizei nichts gemeldet. Fand bei ihm ähnlichen Vertrag
 mit Norton wie bei jenem Edward Tompkins. Bitte
 Instruktionen. Allison.«
 
-»Und — welche Jusiruktiion gaben Sie telegraphisch, By
-Lady?« fragte Harald gespannt.
+»Und — welche Instruktionen gaben Sie telegraphisch, Mylady?«
+fragte Harald gespannt.
 
 »Die Depesche erreichte mich erst gestern abend hier in
-Aden. Gleichzeitig hörte ich, Sie seien ebenfalls hier, Da
+Aden. Gleichzeitig hörte ich, Sie seien ebenfalls hier. Da
 depeschierte ich an Allison:
 
 »Den Mann festhalten und schweigen. Ich bringe
 Harald Harst mit.«
 
 Harald lächelte … »Und — wußten Sie bestimmt, daß
-ich Sie nach Schloß Cornawoor begleiten würde, Astloch k«
+ich Sie nach Schloß Cornawoor begleiten würde, Mylady?«
 
 »Ja, Mr. Harst! Ein Harald Harst läßt sich doch einen
 solchen Fall nicht entgehen!«
 
 Harald nickte … »Allerdings! Ein Kopf, der gestohlen
 sein soll und doch nicht gestohlen ist, — das dürfte lohnen!
-— Haben Sie noch den Zettel jenes Edward Tompkins Fk«
+— Haben Sie noch den Zettel jenes Edward Tompkins?«
 
 »Nein. Ich verbrannte ihn und erwähnte ihn auch vor
 Gericht nicht.«
 
 »Weshalb nicht?«
 
-»Weil ich den Inhalt des Zettels zuerst für umvichuig hielt.
+»Weil ich den Inhalt des Zettels zuerst für unwichtig hielt.
 Später, als noch drei Diebe ihre Frechheit so teuer bezahlten,
-machte ich nur dann doch so allerlei Gedanken …«
+machte ich mir dann doch so allerlei Gedanken …«
 
-»Mit! Recht! — Vorher war nie jemand Du Bad Autos;
+»Mit Recht! — Vorher war nie jemand in das Schloß
 eingedrungen?«
 
-Drein. — Der erste Dieb erschien am 5. Mai 1921, also
-etwa vor zwei Jahren. Dann solchen die anderen fünf ja
+»Nein. — Der erste Dieb erschien am 5. Mai 1921, also
+etwa vor zwei Jahren. Dann folgten die anderen fünf in
 Abständen von drei, vier Monaten. Jetzt hat Wächter Claryc
-den siebenten auaecschoisen.«
+den siebenten angeschossen.«
 
 <@pagebreak/>
-Und Sie überraschten die sechs Diebe, Mylady? Sechsen
+Und Sie überraschten die sechs Diebe, Mylady? Setzten
 die Leute sich zur Wehr?«
 
-»Das Museum liegt im Bart, Mr. Die Fenster
-des »einstöckigen Gebäudes haben keine Laden der Gitter,
-aber sehr finnreiche Alariaglodten. Die sechs Spltbeben bedrohten
-mich jeder nicht: einer Repetlezpisto Deshalb
-sprach mich das Gericht auch frei.
+»Das Museum liegt im Park, Mr. Harst. Die Fenster
+des einstöckigen Gebäudes haben keine Laden oder Gitter,
+aber sehr sinnreiche Alarmglocken. Die sechs Spitzbuben bedrohten
+mich jeder mit einer Repetierpistole. Deshalb
+sprach mich das Gericht auch frei …«
 
-»Könnten Sie mich den Inhalt jenes Zettels noch an
-geben, Myladys«
+»Könnten Sie mir den Inhalt jenes Zettels noch angeben,
+Mylady?«
 
 »Wörtlich!
-»zu, der Unterzeichniete, verpflichte mich, Mr. Edward
 
-Gemaltes 10000 Pfund zu zahlen, wenn er mir den
-Kopf des Maharadscha von Jaipuvar aus irgendeine
-Weise aus dem Museum der Lady Cornagwoor herangeholt.
+> »Ich, der Unterzeichnete, verpflichte mich, Mr. Edward
+Tompkins 10&nbsp;000 Pfund zu zahlen, wenn er mir den
+Kopf des Maharadscha von Jaipuvar auf irgendeine
+Weise aus dem Museum der Lady Cornawoor herausholt.
 Als Anzahlung hat Mr. Tompkins 300 Pfund erhalten.
-Alexander Archibald Norton.«
-Harald starrte vor sich hin … Drei, vier Pflanzen
-Dann: »Astloch, wir begleiten Sie. « « Abends sind will
 
-an Wort Ihrer Jacht
+> Alexander Archibald Norton.«
+
+Harald starrte vor sich hin … Drei, vier Minuten …
+Dann: »Mylady, wir begleiten Sie. Abends sind wir
+an Bord Ihrer Jacht …«
 
 <h2>2. Kapitel.</h2>
 <h3>Kollege Pfistercrac.</h3>
 
-Lenkt Drang Cornawoor blieb noch zehn Minuten.
+Lady Maria Cornawoor blieb noch zehn Minuten.
 
-Wir sprachen den Tal eingehend durch, soweit es habe
-überhaupt etwas durchzusprechen gab, denn der Tatbesuand
-Mr war. Gehecimnisvol erschien lediglich die Person dieses
-»Pranken Archibald Nattern, der einen Kopf liebten allen
+Wir sprachen den Fall eingehend durch, soweit es dabei
+überhaupt etwas durchzusprechen gab, denn der Tatbestand
+war war. Geheimnisvoll erschien lediglich die Person dieses
+Alexander Archibald Norton, der einen Kopf stehlen lassen
 <@pagebreak/>
-wollte — in England!! —., einen Kaps, der sich in Indien
+wollte — in England!! —, einen Kopf, der sich in Indien
 befand!!
 
 Als die Lady uns dann verlassen hatte, sagte Harald zu
 mir: »Ich werde sofort an Oberst Dogberty nach Jaipuvar
 depeschieren. Ich kenne den Oberst nicht, aber einem Harald
-Harst wird er wohl einen Gefallen tun. Sie Antwort mag
-er mir postlagernd nach dem Städtchen Bramby an der O fügte
-Englands senden. Bramby liegt zwei Feilen (englische)
+Harst wird er wohl einen Gefallen tun. Die Antwort mag
+er mir postlagernd nach dem Städtchen Bramby an der Ostküste
+Englands senden. Bramby liegt zwei Meilen (englische)
 von Schloß Cornawoor entfernt.«
 
-»Und — was wirst Du depeschieren 7«
+»Und — was wirst Du depeschieren?«
 
-»am — das erfährst Du später, mein Alter
+»Hm — das erfährst Du später, mein Alter …«
 
-»Na — ich kann’s mir ja deuten: er soll nachforschen, ob
-der Zopf nie vermißt wurde!«
+»Na — ich kann’s mir ja denken: er soll nachforschen, ob
+der Kopf nie vermißt wurde!«
 
-Da denkst Du sehr verkehrt, lieber Max Schraut! —
-Enilschuldige — ich gehe zum Vorkam …«
+»Da denkst Du sehr verkehrt, lieber Max Schraut! —
+Entschuldige — ich gehe zum Postamt …«
+
 An der Tür blieb er doch noch stehen …
 
-»Übrigens, mein Alter: diese Lady Corniazvoor ist …
+»Übrigens, mein Alter: diese Lady Cornawoor ist …
 ein Mann!« sagte er ganz leise. »Ein als Weib verkleideter
-Mann! Also — ein Verbrecher, ein Betrüger! Und reichst
-dieser Umstand macht den Bau interessant …«
+Mann! Also — ein Verbrecher, ein Betrüger! Und erst
+dieser Umstand macht den Fall interessant …«
 
-Ich starrte Harst sehr — sehr ungläubig zu … Ich war
-so verblüfft, daß ich ein Wort Herausbringen sonnte.
+Ich starrte Harst sehr — sehr ungläubig an … Ich war
+so verblüfft, daß ich kein Wort herausbringen konnte.
 
 Und Harald fügte da noch leiser hinzu: »Es kann nur ein
-sehr gewandter Schindler sein, der hier und in Indien die
-Lacht Cornawoor gespielt hat. Zu welchem Zweck? — Ich
-Reis es nicht. An Bord der Jacht wird sich alles aufklären.«
-Er ging hinaus … Ließ mich In einem Löscher von Gedanken
+sehr gewandter Schwindler sein, der hier und in Indien die
+Lady Cornawoor gespielt hat. Zu welchem Zweck? — Ich
+weiß es nicht. An Bord der Jacht wird sich alles aufklären.«
+
+Er ging hinaus … Ließ mich In einem Wirbel von Gedanken
 zurück …
 
-Und zur Beruhigung stelle Max Schraut sich eine Ha-banna
+Und zur Beruhigung steckte Max Schraut sich eine Havanna
 an …
 
-Wie immer, wenn mein Hirn zu versagen drohte
+Wie immer, wenn mein Hirn zu versagen drohte …
 
-Die Bauzaun half nichts … Gar nichts
+Die Havanna half nichts … Gar nichts …
 
-Die Lady sollte ein verkleideter Mann sein kl Ein Betrüger,
-ein Schindler — —?l
+Die Lady sollte ein verkleideter Mann sein?! Ein Betrüger,
+ein Schindler — —?!
 
-Mir schwirrte der Kopf
+Mir schwirrte der Kopf …
 
-Und vielleicht wäre mir dieses angestrengie Nachdenken
+Und vielleicht wäre mir dieses angestrengte Nachdenken
 <@pagebreak/>
 schlecht bekommen, vielleicht hätte Ich von diesem übermäßigen
 Grübeln eine Aleppobeule im Schädel gekriegt, wenn nicht —
-Jedenfalls: es straffer!! Und — der bibbernde Kellner,
+Jedenfalls: es klopfte!! Und — der bibbernde Kellner,
 besser, der gebibbert habende Kellner überreichte mir eine
 Karte, sagte:
 
 »Der Herr möchte Sie sprechen, Mr. Schraut …«
 
-Der Ausdruck der Karte lautete:
+Der Aufdruck der Karte lautete:
 
 > Thomas Jonas Pfistercrac,
 
-> Inhaber der Weltdetektei Pfistercrac u. Gong.
+> Inhaber der Weltdetektei Pfistercrac u. Comp.
 
 > London, Arlystreet 176.
 
-»Mister Pfistercrac ist mir mitkommen,« erklärte Ich dem
+»Mister Pfistercrac ist mir willkommen,« erklärte Ich dem
 Kellner, denn Thomas Jonas Pfistercrac war eine Berühmtheit
 …
 
 Und — die Berühmtheit erschien …
 
 Ich war ungeheuer gespannt auf diesen Herrn und
-Kollegen … Ungeheuer! — Ich wußte: Pfistercrac in Tonarten,
-das oval so was ähnliches wie Pinkerton in Neuyork!
-Und Pinkectoné kennt doch jeder!
+Kollegen … Ungeheuer! — Ich wußte: Pfistercrac in London,
+das war so was ähnliches wie Pinkerton in Neuyork!
+Und Pinkertons kennt doch jeder!
 
-Ja — erlag …
+Ja — er kam …
 
 Ein Mann in Matrosentracht — ein echter Seebär, so
 um die Fünfzig scheinbar …
 
-»Vorging, Mister Schraut!« grunzte er. »Erfreut, Ihre
-Belanntifchnft zu machen …«
+»Morning, Mister Schraut!« grunzte er. »Erfreut, Ihre
+Bekanntschaft zu machen …«
 
 Sein Händedruck verriet sehr viel überflüssige Kraft …
-
-Er sowie sich …
+Er setzte sich …
 
 »Ich sah Harst weggehen, Mr. Schraut,« begann er.
 »Lady Cornawoor war vorher hier …«
@@ -408,65 +411,65 @@ Er sowie sich …
 Er starrte mich unverwandt an …
 
 »Und — natürlich des Kopfes wegen — natürlich!«
-lächelte er grinsend und zeigte ein wahres Schimpanfengebiß.
+lächelte er grinsend und zeigte ein wahres Schimpansengebiß.
 
-»Sie wissen?« entschlüpfste es mir …
+»Sie wissen?« entschlüpfte es mir …
 
 »Ob ich weiß!!! Der Zettel jenes Edward Simpson!!
-Ob ich weiß! Vertrag mit Norton! Alles Schimmels«
+Ob ich weiß! Vertrag mit Norton! Alles Schwinden!«
 
 Er streckte die Beine weit von sich …
 
 »Alles Schwindel, Mr. Schraut! Tatsache — Schwindel!
 <@pagebreak/>
-Sie würden ganz umsonst nach Erstaunt reisen, Sie und
+Sie würden ganz umsonst nach England reisen, Sie und
 Harst. Die Lady will Sie ja mitnehmen …«
 
 »Ah — woher …«
 
-»Woher ich auch das weiß? Biester wußte ich’s nicht.
+»Woher ich auch das weiß? Bisher wußte ich’s nicht.
 Nun weiß ich’s. Sie haben’s verraten …«
 
 »Mister Pfistercrac, ich finde, daß Ihr Benehmen —«
 
-»Stopp, stopp, verehrtester Mr. Schraut! Nur nicht emp-mia
+»Stopp, stopp, verehrtester Mr. Schraut! Nur nicht empfindlich
 sein! Die Sache ist die: eines der sechs Opfer Lady
-Cornawoors war ein armer Teufel von Handlungsgchilse,
+Cornawoors war ein armer Teufel von Handlungsgehilfe,
 war verlobt. Seine Braut erbte und hatte so die Mittel,
 mich zu beauftragen, Lady Cornawoors sechs … Morde
-für den Strafrichter reif zu machen … Sie verliehen, Dir.
+für den Strafrichter reif zu machen … Sie verstehen, Mr.
 Schraut: das Mädchen glaubt ebensowenig wie ich an den
 Kopf, den Vertrag und so weiter! Es sind — Morde! Und
-ich nun bereits die Sache in den Händen habe, bitten Sie
-Ehren Freund, mir nicht Konkurrenz zu machen. Bieten Sie
-Ihren ganzen Einfluß aus, daß Harst die Lady nicht begleitet,
+da ich nun bereits die Sache in den Händen habe, bitten Sie
+Ihren Freund, mir nicht Konkurrenz zu machen. Bieten Sie
+Ihren ganzen Einfluß auf, daß Harst die Lady nicht begleitet,
 denn — — Sie beide würden unterwegs nach London
-sicherlich aus der Charybdis irgendwie — verunglücken!
-Sie verliehen!! Ich warne Sie! Bei Ihrem Freunde hätte
-eine solle Warnung nichts getrachtet. Aber Sie, Mr.
-Schraut, stürzen sich bei Ihrem reiferen Aller wohl nicht
+sicherlich auf der Charybdis irgendwie — verunglücken!
+Sie verstehen!! Ich warne Sie! Bei Ihrem Freunde hätte
+eine solche Warnung nichts gefruchtet. Aber Sie, Mr.
+Schraut, stürzen sich bei Ihrem reiferen Alter wohl nicht
 gern in ein Abenteuer, das —«
 
-Seh faßte nur an die Sticht
+Ich faßte mir an die Stirn …
 
-Pfistercrac! log sofort, meinte saugt lächelnd;
+Pfistercrac schwieg sofort, meinte sanft lächelnd:
 
-»Begreiflich, kennt he Bot Arme sind, Mr:
-Schlau! Die Sache ist die: Lady Cornawoor hat Angst
+»Begreiflich, daß Sie noch nicht voll im Bilde sind, Mr.
+Schraut! Die Sache ist die: Lady Cornawoor hat Angst
 vor Ihnen beiden, scheußliche Angst — der sechs Morde
 wegen. Sie fürchtet, irgend jemand könnte ihr Harst auf
-die Hacken heben!! Das ift’all«
+die Hacken hetzen!! Das ist’s!!«
 
-Ich begann klarer zu sehen … Ich wollte etwas cer-widern
+Ich begann klarer zu sehen … Ich wollte etwas erwidern
 … Das Zimmertelephon schlug an … Ich zum
 Apparat … Harst meldet sich.
 
 »Hier Harald! — Ich wollte Dir nur folgendes mitteilen,
 mein Alter. Ich fahre nicht mit der Charybdis nach
-England, sondern mit einem schnellsten Schiff, und zwar
+England, sondern mit einem schnelleren Schiff, und zwar
 <@pagebreak/>
 sofort. Du gehst abends wie verabredet an Bord der Jacht
-und sagst der Lady, daß ich voraus gereift sei. Bestelle eine
+und sagst der Lady, daß ich vorausgereist sei. Bestelle eine
 Empfehlung von mir. Wiedersehen!«
 
 »Halt — halt — noch ein Wort, Harald … — Bist
@@ -475,112 +478,109 @@ Du noch da?«
 Niemand mehr … Stille Im Hörer … Nur Knacken
 und Rauschen …
 
-Ich drehe mich um … Das Zimmer ist leer. Pfiflervrac
-hat sich mit vergiften Ahfcdhieb empfohlen … —
+Ich drehe mich um … Das Zimmer ist leer. Pfistercrac
+hat sich mit polnischem Abschied empfohlen … —
 
-Ich lege mich … Grüble — grüble … Senkte …
-
-Und — — gehe hinab in den kühlen Speisesaal und Getränke
-mein Einlamkeitsgesühl und meine geistige Voranging
-In … Eispunsch …
+Ich setze mich … Grüble — grüble … Seufze …
+Und — — gehe hinab in den kühlen Speisesaal und ertränke
+mein Einsamkeitsgefühl und meine geistige Verwirrung
+in … Eispunsch …
 
 Bin abends acht Uhr mit unseren Koffern auf der
 Jacht Charybdis … — Ein ganz modernes Schiff, ein
-schwimmendes Luxusjacht …
+schwimmendes Luxuslogis …
 
 Lady Cornawoor macht ein sehr enttäuschtes Gesicht,
 weil Harst bereits abgedampft ist.
 
-Wir sicher im Salon der Jacht einander gegenüber, diese
+Wir stehen im Salon der Jacht einander gegenüber, diese
 Lady und ich. Eine Überfülle elektrischer Lampen aller
-Art bestrahlt uns. Ich sehe jede Falte, jedes Fälschen
+Art bestrahlt uns. Ich sehe jede Falte, jedes Fältchen
 dieses Matronengesichts …
 
 Das — das soll ein verkleideter Mann sein?!
 
 Ausgeschlossen!! Die Falten sind echt — das weiße
-Haar ist echt
+Haar ist echt … —
 
-Und Lady Cornawoor und seh speisen dann gemeinsam
+Und Lady Cornawoor und ich speisen dann gemeinsam
 zu Abend …
 
 Sechs Gänge, während die Jacht bereits auf den Wogen
 des Roten Meeres schaukelt …
 
-Und abermals jage ich mir: gewiß, die Stimme der
-Lady krümmte auch die eines Mannes sein! Doch alles
-Übrige — da ist von Verkleidung keine Rede! —
+Und abermals sage ich mir: gewiß, die Stimme der
+Lady könnte auch die eines Mannes sein! Doch alles
+übrige — da ist von Verkleidung keine Rede! —
 
-Um elf Uhr gehe ich in meine Luxuskabine hinslber und
-— finde, da ich vor dem Einschlafen nochmals aus -Mißtrauen
+Um elf Uhr gehe ich in meine Luxuskabine hinüber und
+— finde, da ich vor dem Einschlafen nochmals aus Mißtrauen
 die Kabine durchsuche, unter dem Waschschrank eine
-kontra, eine der giftigen keinen indischen Baumschlangen.
-
+Sapara, eine der giftigen kleinen indischen Baumschlangen.
 <@pagebreak/>
-Ein Reptil, kaum von Armeslänge, blatigrün, harmlos
-aussehend, aber für den Kenner doch zur Vorsicht mal, regt
+Ein Reptil, kaum von Armeslänge, blattgrün, harmlos
+aussehend, aber für den Kenner doch zur Vorsicht mahnend
 durch den abgeplatteten Kopf, der den meisten Giftschlangen
 eigentümlich …
 
-Die Sangen fliegt mit zerbrochenen Rückgrat durch das
+Die Sapara fliegt mit zerbrochenem Rückgrat durch das
 runde Fenster in die See …
 
-Und ich suche weiter … Hebe das Zukroch des Bettes
-wo, Die seidene, leichte Decke
+Und ich suche weiter … Hebe das Zudeck des Bettes
+hoch, Die seidene, leichte Decke …
 
-Und — — finde die zweite Sangen
+Und — — finde die zweite Sapara …
 
 Suche nochmals. Schwitzte vor Aufregung — vor
-inneren Grimm Finde nichts mehr … Riegels mich
-ein, lehne Sessel vor die Tür, rücke die Kostet davor, baue
-eine Barrikade
+innerem Grimm … Finde nichts mehr … Riegele mich
+ein, lehne Sessel vor die Tür, rücke die Koffer davor, baue
+eine Barrikade …
 
-Und fahre entzieht herum … Polternd ist da irgend
+Und fahre entsetzt herum … Polternd ist da irgend
 etwas aus den Boden, den Teppich gefallen …
 
 Ah — ein Stück Holz, — und an dem Stück Holz ein
 Zettel angebunden …
 
-Harsts Handschris(!
+Harsts Handschrift!!
 
-»Verbrennen! — Vorsicht!! Stets Augen aus —
+> »Verbrennen! — Vorsicht!! Stets Augen auf —
 überall!!«
 
-Das — gar alles
+Das — war alles …
 
 Aber — — Harald war an Bord!!
 
-Wie — Die atmete ich da aus! Und wie fest habe Ich
+Wie — wie atmete ich da auf! Und wie fest habe Ich
 nachher geschlafen!!
 
-Harald war ja aus der Charybdis! Er hatte Bad Stück
+Harald war ja auf der Charybdis! Er hatte das Stück
 Holz mit dem Zettel durch das Fenster mir zugeworfen,
-hatte sich offenbar an einem Tau von der Reling hecrab-gelassen
+hatte sich offenbar an einem Tau von der Reling herabgelassen
 …!! — —
 
-Nun — Ich muß den Leser enttäuschen
+Nun — Ich muß den Leser enttäuschen …
 
-Harald un unter den vierzehn Matrosen und Heizern der Jacht
-denn
+Weder wurden weitere Attentate versucht, noch fand ich<@refnote 2/>
+Harald unter den vierzehn Matrosen und Heizern der Jacht
+heraus …
 
 Und — weder entdeckte Ich irgend etwas, das meinem
-
-ne wurden weitere E ttentate versucht, noch fand ich
-Argwohn gegen die Lady neue Nahrung gegeben. noch er
+Argwohn gegen die Lady neue Nahrung gegeben, noch erlebte
 <@pagebreak/>
-lebte ich sonst etwas hier an Bord, das mitieilendwert ge
-weich … —
+ich sonst etwas hier an Bord, das mitteilenswert gewesen
+… —
 
-hin siebenten Juli ankerte die Charybdis vor den Lau
-teuer Docks.
+Am siebenten Juli ankerte die Charybdis vor den Londonder
+Docks.
 
-<h2>8. Kapitel.</h2>
-<h3>Die Ahnenburg der Coruamwuurs.</h3>
+<h2>3. Kapitel.</h2>
+<h3>Die Ahnenburg der Cornawoors.</h3>
 
-Lady Cornawoor Hatte Ihr Auto nach London besteht
-Kaum war die elegante Barkasse der Jacht zu Wasser g&
-brach! worden, als vormittags zehn Uhr auch schon das
-Gepäck an Land geschafft wurde. Die Lady und ich der
+Lady Cornawoor Hatte Ihr Auto nach London bestellt.
+Kaum war die elegante Barkasse der Jacht zu Wasser ge-
+bracht worden, als vormittags zehn Uhr auch schon das
+Gepäck an Land geschafft wurde. Die Lady und ich ver-
 ließen London also ohne Aufenthalt.
 
 Es schien, als ob die seltsame Frau (ich war ja fest
@@ -588,57 +588,56 @@ Es schien, als ob die seltsame Frau (ich war ja fest
 geirrt haben müsse!) durch eine innere Unruhe nach ihrem
 Schlosse getrieben wurde.
 
-Sie sagte zu mir, als wir gerade die Vororte Landrat
+Sie sagte zu mir, als wir gerade die Vororte Londons
 passierten:
 
 »Mr. Schraut, ich bin außerordentlich gespannt, ob Ihr
-Freund wirklich bereits in Corcnawoor-Castle sein mag.
+Freund wirklich bereits in Cornawoor-Castle sein mag.
 Mein Chauffeur und mein Diener wissen nichts von einem
 Fremden, der sich dort gezeigt hätte …«
 
 Sie schaute mich fragend an.
 
 Und — da sah ich in der Tiefe ihrer lebhaften Augen
-versteckte Angst flachem — ohne Zweifel —
+versteckte Angst flackern — ohne Zweifel —
+Angst!!
 
-Angst
-
-Also nicht Unruhe …! Nein — Furcht vor Harst totes
-sie so eilends beim! Und Mister Thomas Jonas Vliiiterecrae
+Also nicht Unruhe …! Nein — Furcht vor Harst trieb
+sie so eilends heim! Und Mister Thomas Jonas Pfistercrac
 <@pagebreak/>
-sollte mithin wohl doch recht behalten: Die. Sangen-Schlangen
+sollte mithin wohl doch recht behalten: die Sapara-Schlangen
 waren eine »kleine Überraschung« von seiten der Lady gewesen,
 woran ich bisher nicht so ganz hatte glauben wollen,
 obwohl ich doch niemanden sonst für dieses gemeine Attentat
 hätte verantwortlich machen können. —
 
-London lag hinter und …
+London lag hinter uns …
 
-Auf schnurgeraden Lanpdftraßen kaufte das Wüte an
+Auf schnurgeraden Landstraßen sauste das Auto an
 freundlichen Dörfern und Städten vorüber …
 
-Und — ein Zufall war’s, daß ich da nach) einer Stunde
-auf ein zweites Auto ausmerlksam wurde, das ums beharrlich
-folgte
+Und — ein Zufall war’s, daß ich da nach einer Stunde
+auf ein zweites Auto aufmerksam wurde, das uns beharrlich
+folgte ...
 
-ir hatten, dba die Straße für fünf Minuten durch eine
-Dampswalze gesperrt war, den Kraftwagen verlassen. Das
-andere Auto hielt dreihundert Metier zurück hinter einem
-(lichten Wäldchen.
+Wir hatten, da die Straße für fünf Minuten durch eine
+Dampfwalze gesperrt war, den Kraftwagen verlassen. Das
+andere Auto hielt dreihundert Meter zurück hinter einem
+lichten Wäldchen.
 
 Und als wir nach einer weiteren halben Stunde vor
 einem Landgasthof abermals kurze Zeit Station machten,
 um etwas Erfrischendes zu trinken, bemerkte ich dasselbe
-Auto zum zweiten Male. Wieder hatte es im Schuh einiger
-Bursche dort hinten am Straßenrande Deckung gesucht …
+Auto zum zweiten Male. Wieder hatte es im Schutz einiger
+Büsche dort hinten am Straßenrande Deckung gesucht …
 
-Ich erkannte, daß außer dem Chauffeur In den großen
+Ich erkannte, daß außer dem Chauffeur In dem großen
 Tourenwagen nur ein einzelner Herr saß. Ich hütete mich
 aber, allzu aufdringlich hinüberzustarren, denn es war ja
-seinestwegs gewiß, Daß dieser Herr mein Freund Harald
-sei. Vielleicht war’s Thomas Jonas Pfsistercrac. Vielleicht
+keineswegs gewiß, Daß dieser Herr mein Freund Harald
+sei. Vielleicht war’s Thomas Jonas Pfistercrac. Vielleicht
 war’s auch irgendein Gegenspieler …! Wie sollte ich das
-entscheldeuï! Ich tappte ja noch völlig im Dunkeln, was
+entscheiden! Ich tappte ja noch völlig im Dunkeln, was
 diesen Fall »Kopf des Maharadscha« betraf. Und Pfistercrac
 hatte dieses Dunkel nur noch verstärkt. —
 
@@ -647,153 +646,153 @@ Wieder ging’s weiter …
 Wir näherten uns den Landstrichen an der englischen
 Ostküste. Wir durchfuhren das Städtchen Bramby, wohin
 Harald sich Oberst Dogbertys Antwort bestellt hatte.
-Salzluft d:s Meeres wehte uns an. Durch diese Aus-schaitie
-der hohen Küste braute in der Ferne das Meer
+
+Salzluft des Meeres wehte uns an. Durch diese Ausschnitte
+der hohen Küste blinkte in der Ferne das Meer --
 <@pagebreak/>
-die Nordsee, floß in der Horizontilinie mit dem Karen
-Souunerhimumei in eins zusammen …
+die Nordsee, floß in der Horizontlinie mit dem klaren
+Sommerhimmel in eins zusammen …
 
-Und dann der endlose, mauerumgebene Park von Cornawoor-
-Castle
+Und dann der endlose, mauerumgebene Park von Cornawoor-Castle ...
 
-Ein rachtpatt, uralt, ein Rittergut für sich, mit weiten
-Rasenflächen, mit Obftbaumtulturen, mit wmertwürbigen
-Italien Häuschen …
+Ein Prachtpark, uralt, ein Rittergut für sich, mit weiten
+Rasenflächen, mit Obstbaumkulturen, mit merkwürdigen
+alten Häuschen …
 
-Muschellieswege durchschnitten hell fchinunernd biete
-Einsame von Grün … Bis rechter Hand inmitten einer
+Muschelkieswege durchschnitten hell schimmernd diese
+Sinfonie von Grün … Bis rechter Hand inmitten einer
 Rasenfläche der flache, neue Bau des Museums der Witwe
-Lord Reginald Cornatwwoors auftauchte, der vor sehe Jahren
-bei einer Büchschens das Genick gebrochen hatte
+Lord Reginald Cornawoors auftauchte, der vor sechs Jahren
+bei einer Fuchshetze das Genick gebrochen hatte ...
 
-Das Väauseum — ein langgestrecktes Gebäude mit Sand-fteinpfeilern,
-hohen Fenstern, — im ganzen [Sandloch und
-anscheinend apathisch.
+Das Museum — ein langgestrecktes Gebäude mit Sandsteinpfeilern,
+hohen Fenstern, — im ganzen schmucklos und
+anscheinend praktisch.
 
 Und gleich darauf, durch Tannenkulissen bisher verborgen,
-das Hiefenquadrat von Gomarmoor-Raffke mit hier
-Ecstürnmen
+das Riesenquadrat von Cornawoor-Castle mit vier
+Ecktürmen ...
 
 Ein moderner Bau, erst vor fünfzehn Jahren beendet,
-ein Bau, der den Reichtum und den Geschmack Lord Regli-nalds
+ein Bau, der den Reichtum und den Geschmack Lord Reginalds
 deutlich in dem vornehmen Stil und dem kostbaren
 Material, Sandstein und Marmor, bewies.
 
 Vor der Freitreppe eine Schar von Dienern und der alte
-Schloßveriwwalter Stuart Allison …,
+Schloßverwalter Stuart Allison …
 
 Feierlicher Empfang der Herrin, deren erste Worte zu
 Allison lauteten:
 
 »Wo befindet sich der Gefangene? Wie geht es dem
-Braune? Wir Elite er!
+Manne? Wie heißt er?"
 
 Nur Allison und Ich hatten diese hastigen Fragen vernommen.
 
-Der alte verbeugte sich
+Der Alte verbeugte sich ...
 
 »Er ist im grünen Zimmer des alten Schlosses untergebracht,
-Mylady. Es geht ihm gut. Die Belnmunbe In
-verheilt. Der Mann spricht im Übrigen keine Gilde Wir
-wissen nicht, wer er ist
+Mylady. Es geht ihm gut. Die Beinwunde ist
+verheilt. Der Mann spricht im Übrigen keine Silbe. Wir
+wissen nicht, wer er ist ..."
 
-Lady Cornawoor starrte vor sich hin … Darm: »Ich
+Lady Cornawoor starrte vor sich hin … Dann: »Ich
 <@pagebreak/>
-will ihn sehen, Allison, — sofort! Kommen Sie, Willen
+will ihn sehen, Allison, — sofort! Kommen Sie, Mister
 Schraut!«
 
-Hier war sie Herrin. las unechte man zu allem. Und
-ich — ich mußte lächeln bei dem Gedaufecn, daß Harald das-mals
+Hier war sie Herrin. Das merkte man an allem. Und
+ich — ich mußte lächeln bei dem Gedanken, daß Harald damals
 in Aden diese Frau für einen Schwindler, Verbrecher
-Behalten …!! Wie in aller Welt war er nur darauf verfallen,
-einen so! unsinnigen Verdacht zu hegen?! —
+gehalten …!! Wie in aller Welt war er nur darauf verfallen,
+einen so unsinnigen Verdacht zu hegen?! —
 
-Der alte Schloßverwalter ging voran — durch eine Mar-morhalle,
+Der alte Schloßverwalter ging voran — durch eine Marmorhalle,
 durch eine Ahnengalerie, dann wieder eine Halle
-und eine Freitreppe in den Echloßhef hinab, der von dem
+und eine Freitreppe in den Schloßhof hinab, der von dem
 quadratischen Riesenbau umgeben war.
+
 ich stutzte …
 
-[! Und mit Recht! Lady Cornawoor wetterte sich am meinen
-Erstaunen
+Und mit Recht! Lady Cornawoor weidete sich an meinem
+Erstaunen ...
 
 inmitten dieses von uralten Kastanien, Eichen und
-Buden bestandenen Schloß; loses ragte dunkel, düster und
+Buchen bestandenen Schloßhofes ragte dunkel, düster und
 schmucklos ein uraltes burgähnliches Bauwerk von mäßiger
 Höhe empor, errichtet auf einer vielleicht fünf Meter hohen,
-unregelmäßigen Felsgruppe
+unregelmäßigen Felsgruppe ...
 
 »Die Burg Cornawoor!« sagte die Lady mit einigem
 Stolz. »Dieselbe Burg, die mein Gatte Reginald gleichsam
 verschwinden ließ, nachdem die übrigen Mitglieder der Familie
-sich mit ihm, dem Festesten des Geschlechts, jener
+sich mit ihm, dem Ältesten des Geschlechts, jener
 Heirat wegen entzweit hatten. Die stolzen Cornawoors
 konnten sich damit nicht abfinden, daß Reginald die Tochter
+eines simplen bürgerlichen Gelehrten namens Elliot zum
+Weibe erwählte …"
 
-eines Annalen bürgerlichen Gelehrten Kanons Elliot zum
-Weibe erwählte …,
+Diese Worte, Die blitzartig eine Familientragödie be-
+leuchteten, wurden zum Schluß von Lady Maria in einer so
+scharfen, gereizten Art hervorgestoßen, daß ich den Eindruck
+gewann, sie müßte all diese anderen Cornawoors aus tiefster
+Seele hassen. —
 
-Diese Worte, Die blitzartig eine Familientragödie be
-leuchteten, wurden zum Schluß von Lady Maria in einer Ne
-Starren, geneigten Art hervorgestoßen, daß ich den Eindruck
-gewann, sie nützte all diese anderen Cornawwoors aus tiefster
-Seele Waffen. —
+Und Allison hatte derweil die schweren torartigen Flügeltüren
+der Burg weit geöffnet ...
 
-Und Allison: hatte derweil die schweren derartigen Flügellahm
-der Burg weit geöffnet
-
-By stieg hinter der Lady die Steintreppe empor. Eins
+Ich stieg hinter der Lady die Steintreppe empor. Eine
 <@pagebreak/>
-fühle Halle, verräuchert, dunkel, unfreundlich, empfing
+kühle Halle, verräuchert, dunkel, unfreundlich, empfing uns.
 Kellerluft wehte hier.
 
-Von den Wänden grüßten seltsam schwarze, tief na
-gebündelte Gemälde, aus denen die helleren Menftengefih
+Von den Wänden grüßten seltsam schwarze, tief nach-
+gedunkelte Gemälde, aus denen die helleren Menschengesich-
 ter unheimlich hervorleuchteten.
 
-Eine Treppe lies von hier zu einer Galerie empor.
+Eine Treppe lief von hier zu einer Galerie empor.
 
-Allison schlug ein Paar mottenzerfressene schwere Brokat:
+Allison schlug ein Paar mottenzerfressene schwere Brokat-
 Vorhänge zurück, und jäh strahlte uns nun durch hohe bunte
 Fenster die Sonne entgegen.
 
-»Der Raffenfaal,« sagte Die Lady kurz.
+»Der Waffensaal,« sagte Die Lady kurz.
 
-Und drüben an der anderen Seite des Saales, besser
-Stahlrüftungen, Scwertergruppen, Helme und Turnier;
-Lanzen mit dicken Lagen grauen Staube« belebt waren, —
+Und drüben an der anderen Seite des Saales, dessen
+Stahlrüstungen, Schwertergruppen, Helme und Turnier-
+Lanzen mit dicken Lagen grauen Staubes bedeckt waren, —
 drüben erhob sich aus uraltem Ledersessel ein Riese mit
 feuerrotem Vollbart und finsteren Augen.
 
 »Tag, Claryc,« grüßte Lady Cornawoor den Mann mit
-freundlichem Kopfnicken und strebte ihm die Hand hin.
+freundlichem Kopfnicken und streckte ihm die Hand hin.
 
 Das also war Claryc, der Wächter, der den siebenten
 Dieb angeschossen hatte.
 
-»Mag die Heimkehr Euer Gnaden gesegnet sein,« Tante
-der Riese mit liegen Baß, und in die brutalen Augen trat
+»Mag die Heimkehr Euer Gnaden gesegnet sein,« sagte
+der Riese mit tiefem Baß, und in die brutalen Augen trat
 dabei ein Ausdruck hündischer Unterwürfigkeit.
 
 Dann holte er einen Schlüssel hervor und öffnete die
-Tür, vor der er gesessen hat Ne:
+Tür, vor der er gesessen hatte.
 
 Allison trat hinzu und schlug auch hier einen Vorhang
-beiseite. Besser — genauer: er )rollte es tun! ins
-Stimme streckte Ihn zurück. Er lieb den Vorhang wieder
-allen …
+beiseite. Besser — genauer: er wollte es tun! Eine
+Stimme schreckte Ihn zurück. Er ließ den Vorhang wieder
+fallen …
 
-»Lady Cornawoor, bitte — nur Sie und Schraut,« Hatte
+»Lady Cornawoor, bitte — nur Sie und Schraut,« hatte
 die Stimme hinter dem Vorhang befehlend erklärt.
 
 Und — — diese Stimme war die meines … Harst!! —
 
-Lady Maria zögerte
+Lady Maria zögerte ...
 
-Da flüsterte ich schnell: »Es ist Harst; Anstatt. Schicken
+Da flüsterte ich schnell: »Es ist Harst, Mylady. Schicken
 Sie Allison und Claryc nur weg!«
 
-Sie faßte sich reich. Sie tat, wie ich’s wünschte. Die
+Sie faßte sich rasch. Sie tat, wie ich’s wünschte. Die
 beiden Männer gingen — sollten unten in der Halle bleiben.
 
 <@pagebreak/>
@@ -803,29 +802,29 @@ Herr in der Tracht der anglikanischen Geistlichen …
 
 »Bitte,« sagte er mit einladender Handbewegung.
 
-Lady Cornawoors Augen ruhten seltsam starr aus meinem
+Lady Cornawoors Augen ruhten seltsam starr auf meinem
 Freunde …
 
-Wie — wie sind Sie Hier Hineingelangt?« fragte sie
-Redend …
+"Wie — wie sind Sie Hier Hineingelangt?« fragte sie
+stockend …
 
-»Darüber sprechen wir später, Mylady … — Litte!«
+»Darüber sprechen wir später, Mylady … — Bitte!«
 
-Und taute betraten das grüne Zimmer der Ahnenburg
-der Cornawoors
+Und wir betraten das grüne Zimmer der Ahnenburg
+der Cornawoors ...
 
 <h2>4. Kapitel.</h2>
 <h3>Familienhaß.</h3>
 
-Ein Zimmer, das vielleicht einmal diesen Namen der
-dient hatte, ha die Wände einen grünlichen Anstrich zeigten
-Neid Die Möbel mit grünem Samt bezogen waren.
+Ein Zimmer, das vielleicht einmal diesen Namen ver-
+dient hatte, da die Wände einen grünlichen Anstrich zeigten
+und Die Möbel mit grünem Samt bezogen waren.
 
-Ein zmeifenftriged Zimmer mit Gittern vor den halb erblindeten
+Ein zweifenstriges Zimmer mit Gittern vor den halb erblindeten
 Scheiben. Und an einem der Fenster ein Strolch
 mit blondem Stoppelbart, wirrem Haupthaar, blaß, mager,
-aber der Gefichtdausprud Intelligent wie die hellgrauen
-Jungen …
+aber der Gesichtsausdruck intelligent wie die hellgrauen
+Augen …
 
 Lady Cornawoor gab Harst die Hand …
 
@@ -834,163 +833,161 @@ ihre Blicke glitten immer wieder zu dem Gefangenen hin.
 
 Harald in seiner tadellosen Verkleidung verbeugte sich.
 
-»Oh habe mir erlaubt, hier einzudringen, ohne jemand
-um Erlaubnis in fragen. Ich wollte den Gefangenen zunächst
+»Ich habe mir erlaubt, hier einzudringen, ohne jemand
+um Erlaubnis zu fragen. Ich wollte den Gefangenen zunächst
 <@pagebreak/>
 allein sprechen. — Gestatten Sie, Mylady, daß
 Ihnen Sir Ernest Francis Cornawoor, jüngsten Sohn des
-Bruders Ihres verstorbenen Gatten, vorfiele …«
+Bruders Ihres verstorbenen Gatten, vorstelle …«
 
-Er deutete aus den Strolch, der jäh seine bisher so na
-lässig-scindsclige Haltung verändert hatte.
+Er deutete auf den Strolch, der jäh seine bisher so nach-
+lässig-feindselige Haltung verändert hatte.
 
-Sein erholt verriet Schreck, Bestürzung. Seine Augen,
-waren voller Wut aus Harst gerichtet.
+Sein Gesicht verriet Schreck, Bestürzung. Seine Augen
+waren voller Wut auf Harst gerichtet.
 
 Und der fügte kühl hinzu:
 
-»Sie sind Sir Ernest Cornawoor. HH Habe In London,
-bei »dem Photographen Fairen gestern die Bilder Ihrer:
-Familie durchgesehen. Mein Blick für Kleinigkeiten ist durch:
+»Sie sind Sir Ernest Cornawoor. Ich Habe In London,
+bei dem Photographen Jarrow gestern die Bilder Ihrer
+Familie durchgesehen. Mein Blick für Kleinigkeiten ist durch
 Übung geschärft. Sämtliche Cornawoors tragen das
-Stamm der Familtenzu ugehörigkcit im Gesicht: das Mutter-,
-mal auf der linken jage nach dem Sinn zu! — Bei Ihnen:
-verkroch der Bart dieses Bohnengröße tiesbraune Mal, es.
+Signum der Familienzugehörigkeit im Gesicht: das Mutter-
+mal auf der linken Wange nach dem Kinn zu! — Bei Ihnen
+verdeckt der Bart dieses bohnengroße tiefbraune Mal, Sir
 Ernest, aber — nicht ganz …«
 
-Lady Maria lachte schrill auf
-»Also so tief sind die Cornawooks3 gesunken, seit mein:
+Lady Maria lachte schrill auf ...
 
-Gatte ihnen die Unterstützungen entzogen Falls Ein Dieb]
-— ein Cornawoors!«
+»Also so tief sind die Cornawoors gesunken, seit mein
+Gatte ihnen die Unterstützungen entzogen hat!! Ein Dieb
+— ein Cornawoor!!«
 
-Ihre und Sir Ernests Blicke kreuzten sich wie Degen-flingen.
-Unauslöschlichen Haß kinderlos in zwei Augen-paaren
+Ihre und Sir Ernests Blicke kreuzten sich wie Degenklingen.
+Unauslöschlicher Haß flackerte in zwei Augenpaaren
 …
 
-Aber in denen der Lady erlosch dieses lockern sehr
-rasch. Mir einem leichten Achselzucken Serie sie ich in einen
+Aber in denen der Lady erlosch dieses Flackern sehr
+rasch. Mit einem leichten Achselzucken setzte sie sich in einen
 der verschossenen Sessel.
 
 Harst nahm gleichfalls Platz. Ich lehnte mich an einen
 der hohen geschnitzten Schränke.
 
-»Wir müssen die Situation klären, begann Harald in
-durchaus sachlicher Weise. »Ich sagte Ihnen beruhte, Sir
+»Wir müssen die Situation klären," begann Harald in
+durchaus sachlicher Weise. »Ich sagte Ihnen bereits, Sir
 Ernest, daß ich der deutsche Detektiv Harald Harst bin.
-Dort — mein Freund Max Schraut … ««
+Dort — mein Freund Max Schraut …«
 
 Sir Ernest deutete eine Verbeugung an. Ich desgleichen.
-Er gab zu, Sir Ernest Cornawoor zu sein, — stillsschiveigend.
+Er gab zu, Sir Ernest Cornawoor zu sein, — stillschweigend.
 
 »Wollen Sie jetzt sprechen?« fragte Harald nach kurzer
-
 Pause.
 
 <@pagebreak/>
-Nichts … — Sir Ernest blickte zu Boden
+Nichts … — Sir Ernest blickte zu Boden ...
 
 »gut, dann muß ich reden … — Als Lady Maria mich
-in Aden ausgesucht und mir von den sechs Einbrechern elf
-wählt hatte, die offenbar sämtlich den Kopf des Maharadscha
-ehren wollten, der — — ebenso offenbar noch in Indien
-Ich befindet, da waren mir die Zusammenhänge noch
+in Aden aufgesucht und mir von den sechs Einbrechern erzählt
+hatte, die offenbar sämtlich den Kopf des Maharadscha
+stehlen wollten, der — — ebenso offenbar noch in Indien
+sich befindet, da waren mir die Zusammenhänge noch
 völlig dunkel. Erst als ich mit der Jacht meines Freundes
-Edward Versperre, die ebenindd In Aden geankert hatte,
+Edward Wolpoore<@refnote 3/>, die ebenfalls In Aden geankert hatte,
 der Charybdis hier nach England vorausgeeilt war, stellte
 ich in London rasch fest, daß Lord Reginald Cornawoor mit
 den übrigen Familienmitgliedern gänzlich zerfallen war und
-daß diese anderen Cornaivoord In den denkbar dürftiaften
-Verhältnissen letzten. Weiter erfuhr ich, daß diese Town:
-Cornawoors in besseren Tagen häufig den Photographen Fairen
+daß diese anderen Cornawoors In den denkbar dürftigsten
+Verhältnissen lebten. Weiter erfuhr ich, daß diese
+Cornawoors in besseren Tagen häufig den Photographen Jarrow
 in Anspruch genommen hatten. Und schließlich ermittelte ich,
 daß Lord Reginald gleich nach seiner Heirat mit Maria
-Elliot, Tochter des Professor Elliot, bei der englischen Adels-fammer
-durchgesebt hatte, daß die Erbfolge des Titels und
+Elliot, Tochter des Professor Elliot, bei der englischen Adelskammer
+durchgesetzt hatte, daß die Erbfolge des Titels und
 Vermögens der Lords Cornawoor dahin geändert wurde:
 Nicht sofort nach seinem Tode sollte, wie sonst üblich, Titel
 und Stammvermögen auf den nächsten männlichen Cornawoor
 übergehen, sondern erst nach dem Ableben der Lady
-Maria Cornawoor, seiner Gattin, falls diese, wie es in den
-Beschluß beißt, bis dahin ein der Familientradition ein
+Maria Cornawoor, seiner Gattin, falls diese, wie es in dem
+Beschluß heißt, bis dahin ein der Familientradition ent-
 sprechendes makelloses Verhalten in allen Dingen zeigen
 würde …«
 
-Lady Maria nickte zuflimmendb …
+Lady Maria nickte zustimmend …
 
 Und Harst fuhr fort:
 
-»Die übrigen Cornawoors, sagte ich mir, könnten mir
-vielleicht, versucht haben, den Nachweis zu erbringen, da
-Lady Maria, als sie vor zwei Jahren in Indien war, an
-Raritätensammlereiser den Kopf des Maharadscha von
+»Die übrigen Cornawoors, sagte ich mir, könnten nun
+vielleicht versucht haben, den Nachweis zu erbringen, daß
+Lady Maria, als sie vor zwei Jahren in Indien war, aus
+Raritätensammlereifer den Kopf des Maharadscha von
 Jaipuvar aus dem Dschaina-Tempel gestohlen hätte. Glückte
-dieser Nachweis, so war der Beschluß der Adelslkamme?e hin- -
+dieser Nachweis, so war der Beschluß der Adelskammer hin-
 fällig, denn Lady Maria als Diebin hätte den Bedingungen
-des Beschlusses nicht mehr entsprochen: Mithin, sagte Ab mir
+des Beschlusses nicht mehr entsprochen: Mithin, sagte ich mir
 <@pagebreak/>
-weiter, ist es sehr gut möglich, daß die Cornawoors Roman
-gefunden haben,?Heu den geheinmniêvollen Alexander Ach
-bald Norton, der das Geld vorschob, um die Diebe … aus
+weiter, ist es sehr gut möglich, daß die Cornawoors jemand
+gefunden haben, eben den geheimnisvollen Alexander Archi-
+bald Norton, der das Geld vorschob, um die Diebe … aus-
 senden zu können —«
 
-Lady Piano hatte Ok erhoben …
+Lady Maria hatte sich erhoben …
 
-»Ab — wenn das wahr wäre!« rief sie flieht, und Ich
+»Ah — wenn das wahr wäre!« rief sie schrill, und ihr
+eigentümliches Vogelgesicht färbte sich vor Erregung dunkler.
 
-eigentünmliches Vogelgesicht färbte sich vor Erregung Pupillen
-»Behalten Sie Platz, Mylady,« mahnte Harst sonst. »Ich
-bin noch nicht zu Ende, und auch Sir Ernest scheint Diva
+»Behalten Sie Platz, Mylady,« mahnte Harst sanft. »Ich
+bin noch nicht zu Ende, und auch Sir Ernest scheint etwas
 erklären zu wollen …«
 
-»Allerdings!« sagte der mit heller Stimme. »Ich Mr
-mein Wort, daß die Cornawoors wie ähnulithes Gern
+»Allerdings!« sagte der mit heller Stimme. »Ich gebe
+mein Wort, daß die Cornawoors nie ähnliches geplant
 haben — nie!«
 
-Ich schaute Harald zu
+Ich schaute Harald an ...
 
-Er schien enttäuscht. Er schloß halb die Augen, Bach
-angestrengt nach
+Er schien enttäuscht. Er schloß halb die Augen, dachte
+angestrengt nach ...
 
-»Dann haben Sie aus Not sich diesem Norton zur der
-Fügung gesteht, Sir Ernest …« meinte er Dann bedächtig,
+»Dann haben Sie aus Not sich diesem Norton zur Ver-
+Fügung gesteht, Sir Ernest …« meinte er dann bedächtig,
 
-Der vielleicht achtundzwanzig Jahre alte Geraumen]
+Der vielleicht achtundzwanzig Jahre alte Cornawoor
 entgegnete kurz:
 
 »So ist’s! Norton hatte eine Anzeige in verschieden
-Zeitungen eingerückt. Er suchte einen kühnen, entschlossenei
-Menschen gegen glänzende Bezahlung, Mister Harst.
-meldete mich, traf mit Norton an entlegenen Stelle im gar
+Zeitungen eingerückt. Er suchte einen kühnen, entschlossenen
+Menschen gegen glänzende Bezahlung, Mister Harst. Ich
+meldete mich, traf mit Norton an entlegenen Stelle im Park
 zusammen, erhielt dreihundert Pfund als Anzahlung und
-verließ London ohne Wissen meiner Familie, die noch Heu
-nicht weiß, daß ich meiner schwerkranken Mutter wegen«
+verließ London ohne Wissen meiner Familie, die noch heute
+nicht weiß, daß ich meiner schwerkranken Mutter wegen --
 ein Dieb werden wollte …«
 
 Harst griff in die Tasche. Sein goldenes Zigarettenetui
-
 funkelte matt in der Sonne …
 
 Er rauchte — sechs Züge … Sagte:
 
 »Es ist richtig, Sir Ernest. Ihre Mutter soll in ein
-Frinfbad nach Deutschland, nach Zutrug. Sie ist schwelt
-herzleidend. Die Geldmittel schien. — Sie … sind aus
-Sohneslicbe entgleist …«
+Trinkbad nach Deutschland, nach Kudowa. Sie ist schwer
+herzleidend. Die Geldmittel fehlen. — Sie … sind aus
+Sohnesliebe entgleist …«
 
 <@pagebreak/>
-Bahn Maria stand noch neben dem Sessel. In ihre
-Augen war ein weicher Schimmer gewesen …
+Lady Maria stand noch neben dem Sessel. In ihre
+Augen war ein weicher Schimmer getreten …
 
 »ich werde Ihnen einen Scheck Über 1000 Pfund ausfüllen,
-Sir Ernest,« erklärte sie ebenso weiß. »Nehmen Sie
-das Geld nur an. he wird jemand erfahren, was ich
-hier zugetragen hat
+Sir Ernest,« erklärte sie ebenso weich. »Nehmen Sie
+das Geld nur an ... Nie wird jemand erfahren, was sich
+hier zugetragen hat ..."
 
-Ernest Cornawoor — erbleichte. Kämpfte mit ich …
+Ernest Cornawoor — erbleichte. Kämpfte mit sich …
 
-»Sie sind frei!« fügte Lugt Maria mit Ihrer tiefen
-Stimme noch hinzu. »Zögern Sie nicht, wach London zurückzukehren
+»Sie sind frei!« fügte Lady Maria mit Ihrer tiefen
+Stimme noch hinzu. »Zögern Sie nicht, nach London zurückzukehren
 …« —
 
 Gleich darauf war ich mit Harald im grünen Zimmer
@@ -1003,60 +1000,60 @@ Er streckte mir beide Hände hin.
 Freude leuchtete aus seinem würdevollen Gesicht, das so
 vortrefflich zu der ernsten Tracht des Geistlichen paßte.
 
-»sich habe Dir viel zu berichten,« sagte ich [Duell
+»Ich habe Dir viel zu berichten,« sagte ich schnell.
 
-»Tor! Wohl meine — zu fragen?«
+»So?! Wohl mehr — zu fragen?«
 
 »Auch das.« — Ich erzählte von Thomas Jonas Pfistercrac
 …
 
-Und — er lächelte
+Und — er lächelte ...
 
-»ich weiß, mein Alter! Ich weiß! Also Psistercras
+»ich weiß, mein Alter! Ich weiß! Also Pfistercrac
 wollte der Mensch sein, der da in Aden vor unserem Hotel
-als Matrose umhcerbummelte. Ich — versorgte ihn nachher
-bis zum Hafen, wo er in einer Kneipe den falschen Bart Gut
-entfernte und als Matrose Jonas Schreie zu Bord der Charybdis
+als Matrose umherbummelte. Ich — verfolgte ihn nachher
+bis zum Hafen, wo er in einer Kneipe den falschen Bart
+entfernte und als Matrose Jonas Selveyr zu Bord der Charybdis
 ging …«
 
 »Er gehörte zur Besatzung?«
 
-»Ja. — Und — — er wird Dir die Schlängelein In die.
+»Ja. — Und — — er wird Dir die Schlängelein In die
 Kabine gebracht haben.«
 
-Ich war fpradılod
+Ich war sprachlos ...
 
-»Ich Halle mich gleichfalls an Bord geschlichen,« meinte
-Harald gleichgültig. »Nachdem ich Dich bei dem Scblaugen-fang
-Seebad;tet hatte, verließ ich die Charybdis schwimmend
-und wurde von Wollpoores Jacht, Wie verabredet. auf
+»Ich hatte mich gleichfalls an Bord geschlichen,« meinte
+Harald gleichgültig. »Nachdem ich Dich bei dem Schlangenfang
+beobachtet hatte, verließ ich die Charybdis schwimmend
+und wurde von Wolpoores Jacht, Wie verabredet, auf-
 <@pagebreak/>
 gefischt. Ich hatte Dich ja gewarnt und war auf der Cha- 
-rybdi3 nicht mehr na
+rybdis nicht mehr nötig."
 
-All das mit einer Selbstverfständlichleit, als dunkelte ob
-ich um ein Nil …
+All das mit einer Selbstverständlichkeit, als handelte es
+sich um ein Nichts …
 
 »Und dann? Dann …?« forschte ich begierig.
 
-»Dann war Ich Drei Zuge vor der Charybdis in London.
-»Bar hier in Cornawoor-Castle, nachts, kundshaftete aus,
+»Dann war Ich drei Tage vor der Charybdis in London.
+War hier in Cornawoor-Castle, nachts, kundschaftete aus,
 wo der Gefangene steckte und wie man in diese Burg hinein
 gelangen könnte …«
 
-»Ab — und Du …«
+»Ah — und Du …«
 
 »Ich kletterte am Blitzableiter des Schlosses hoch, dann
 übers Dach — in die Krone einer Buche hinein — weiter
-durch die Seite bis zur alten. Burg hier und … tat dies
-»zweimal, das zweiteuial in der verflossenen Jacht. Seit
-neun Stunden bin ich hier, wartete aus Euch!«
+durch die Äste bis zur alten Burg hier und … tat dies
+zweimal, das zweitemal in der verflossenen Nacht. Seit
+neun Stunden bin ich hier, wartete auf Euch!«
 
 »Und — wie kamst Du in dieses Zimmer hinein?«
 
 Durch die zweite Tür dort … Unser Patentdietrich
-öffnet selbst die komplizierten Kunstschlösser des Mitiel-ters
-…,
+öffnet selbst die komplizierten Kunstschlösser des Mittelalters
+…"
 
 Da fiel mir ein, daß der Insasse des zweiten Autos also
 nicht Harald gewesen sein könnte.
@@ -1067,29 +1064,30 @@ Chauffeur darin …«
 
 »Vielleicht — Alexander Archibald Norton,« nickte Harald
 zerstreut. »Vielleicht! — Ein dunkler, sehr dunkler Fall,
-mein Alter, zumal Oberst Dogberty mir telegraphisch genoß
-spottet hat, daß- der Kopf des Maharadscha im Dschaina-Tempel
-bestimmt kein — Wachskopf als Ersah Tür den
+mein Alter, zumal Oberst Dogberty mir telegraphisch geantwortet
+hat, daß der Kopf des Maharadscha im Dschaina-Tempel
+bestimmt kein — Wachskopf als Ersatz für den
 echten ist, wie ich vermutet hatte.«
 
-»Ah — also da 3 nahmst Du an! — Und Dein Verdacht
+»Ah — also *das* nahmst Du an! — Und Dein Verdacht
 gegen Lady Maria?« fügte ich leise hinzu.
 
-»Still Sie spannt … oder besser: er loumtl»
+»Still! Sie kommt … oder besser: *er* kommt!«
 
-»Beißt«
+»Wer?!«
 
 Da lächelte Harald …
 
-»Kein Verbrecher. und doch ein Betrüger!«« —
+»Kein Verbrecher, und doch ein Betrüger!« —
 
 <@pagebreak/>
-Also — bot ein Mann!
+Also — doch ein Mann!
 
-kleine Augen stapften auf den Türvorhang …
+Meine Augen starrten auf den Türvorhang …
 
 Es war — Allison, der Schloßverwalter.
-»Die Mylady läßt die Herren in das Wäufeum bitten,«
+
+»Die Mylady läßt die Herren in das Museum bitten,«
 sagte er mit einer Verbeugung …
 
 <h2>5. Kapitel.</h2>
@@ -1144,12 +1142,12 @@ alles für — Indische Widert!«
 »Wie meinst Du das?«
 
 »Ich bleibe dabei: der echte Kopf der heiligen Mumie
-doch gestohlen worden, und die schlauen Priester in Jat-puvar
+doch gestohlen worden, und die schlauen Priester in Jaipuvar
 haben dem Rumpf des Maharadscha eben einen anderen
 Mumiensaal ausgesetzt und Boten entsandt, dem Diebe
 die Beute wieder abzunehmen
 
-»Ah — — Norton! !«
+»Ah — — Norton!!«
 
 »Vielleicht …
 
@@ -1184,7 +1182,7 @@ entlangging …
 Leider verloren wir sie dann, als der Nebenweg In den
 breiten Hauptweg einmündete.
 
-Hier nun trafen wir auf den Oberaärtner des Schlosses,
+Hier nun trafen wir auf den Obergärtner des Schlosses,
 der gerade aus einem der Gewächs8häuser kam.
 
 »Haben Sie hier einen Hund, der Polizeidressur hat?«
@@ -1193,7 +1191,7 @@ worden …«
 
 Der Mann prallte entzieht zurück.
 
-»Ja — zwei deutsche Schäferbunde,« stammelte er. »Beide
+»Ja — zwei deutsche Schäferhunde,« stammelte er. »Beide
 gehören dem Schloßwächter Claryc.«
 
 »Dann holen Sie sofort Claryc und die Hunde — [so
@@ -1236,7 +1234,7 @@ Allison war’s einen scheuen Blick auf die Tote.
 sich recht merkwürdig. Das kam ja auch bei den Gerlchtd-verhandlungen
 zur Sprache, Man hatte doch Mylady den
 Vorwurf gemacht, allzu voreilig zur Waffe gegriffen zu
-haben: Ueberschreitung der Notwehr, Mister Harst! Das
+haben: Überschreitung der Notwehr, Mister Harst! Das
 verstehen Sie ja wohl besser als ich, diese juristischen Spitz:
 findiglciten. Mylady wurde freigesprochen — in allen sehr
 Fällen, von denen der erste genau vor zwei Jahren nach
@@ -1293,7 +1291,7 @@ Dann leitete der Hund den Riesen Claryc und uns beide:
 weiter durch diesen Wald in die sogenannte Cornawoor-Schlucht,
 die sich als Hohlweg bis zum Strande hinabzicht,
 wo in einer von steilen Felsen eingeschlossenen kleinen Bucht
-zwei Boote und eine Zwölsmeter-Segeljacht — Eigentum
+zwei Boote und eine Zwölfmeter-Segeljacht — Eigentum
 der Lady — an einem Bootssteg vertäut lagen.
 
 Und hier — hier auf der Spitze dieses Bootssteges sahen
@@ -1324,7 +1322,7 @@ Bramby telephonisch von dem Geschobenen in Kenntnis zu
 eben.
 
 verwehte offenbar mit mir und der Toten allein sein,
-wollte ungestört auf seine Art die schier uuentwirrbaren
+wollte ungestört auf seine Art die schier unentwirrbaren
 Fäden all dieser rätselvollen Ereignisse langsam auscinanders
 gestern und — die passenden Enden schließlich zu einem oho
 geizigen Faden vereinen, der ihn dann in den Mittelpunkt dieser
@@ -1342,7 +1340,7 @@ Und Harst sagte, indem er sich Über die Tote beugte
 î »Auch erstochen! — Da …°
 
 Er schlug die Jade des jungen Weibes zurück. Die
-zweite war blutig, und dicht unter der linken oberen Uhr-tasche
+zweite war blutig, und dicht unter der linken oberen Uhrtasche
 erkannte ich zwei Löcher, zwei schmale Schnitte …
 sich »Herzslößel« Murmelte Harald … Und — richtete «
 langsam auf … Wie ein Hauch nur kam’s an nein Ohr:
@@ -1446,10 +1444,10 @@ ich den aiwellen Teil des Kopfes des Maharadscha dbeginucu.
 … Und vor uns stand — Lady Maria Cornawoor —
 als Mann
 
-Wirklich ein Mann, der jener Lady Maria, wie wir fe-Tennengelernt
+Wirklich ein Mann, der jener Lady Maria, wie wir Ne kennengelernt
 hatten, Zug um Zug glich
 
-Nur daß das shlohweiße Haupthaar kurz verschnitten
+Nur daß das schlohweiße Haupthaar kurz verschnitten
 war — nach Männerart
 
 Im Übrigen: Lady Maria Cornawoor, das Vogelgesicht
@@ -1508,7 +1506,7 @@ Und Mylord verließ die Kajüte. —
 Wir schwirrte der Kopf … Mehr noch: Ich glaubte
 einen Moment lang, nur zu träuıren!
 
-All das war ja so unaussprechlih unlogisch — verrückt —
+All das war ja so unaussprechlich unlogisch — verrückt —
 widersinnig!
 
 Knallend warf Mylord die Tür der kleinen Kajüte
@@ -1637,7 +1635,7 @@ Das Versteck sollen Sie eben ermitteln. —
 Ich mußte mir immer wieder klarmachen, daß Ich eine
 Wahnsinnige vor mir hätte. Es gehörten in der Tat einige
 
-sitze NAlrobatentünfte dazu, sich in diesem Wirrsal von
+sitze Akrobatenkünste dazu, sich in diesem Wirrsal von
 Lady Cornawoor zurechtzufinden!!
 
 »Und wo ist Ihre Gattin zurzeit, Mylords« fragte Harald
@@ -1679,7 +1677,7 @@ dann die Anstalt verlassen?« begann Harald wieder.
 
 »Ja, Mister Harst. Vorgestern nacht nach genau verein-barticm
 Fluchtplan. Den Wärter Gestreut haben wir er
-würgt, haben dann Doktor Tardicux gefesselt und sein Geld
+würgt, haben dann Doktor Tardieux gefesselt und sein Geld
 mitgenommen. Wir flohen nach Dover, und seit gestern
 Sichern wir uns in der Atlanta verborgen, da ich doch den
 Schurken, der In Schob C Cornawoor den Herrn spielte, elf
@@ -1731,7 +1729,7 @@ Gesicht … Kommt, verbeugt sich vor uns:
 »Pfistercrac nein Name …°» Er sprach das Englische
 wie ein Franzose.
 
-»Der berühmte Thomas Jonas Pfistercrac,« nickte Harald-
+»Der berühmte Thomas Jonas Pfistercrac,« nickte Harald
 ehrfurchtsvoll. »Sehr erfreut, Mister! Sehr erfreut!
 Eine Ehre für mich.«
 
@@ -1808,7 +1806,7 @@ Freude, auf ihren Planken die Nordsee zu durchpilügeu
 <h3>Als der Schrei erklang …</h3>
 
 Gegen halb zwölf Uhr nachts fand Steuermann Harst
-he die Einfahrt in die kleine Bucht von Cocnawoor-Castle.
+he die Einfahrt in die kleine Bucht von Cornawoor-Castle.
 
 Wir vertäuten die Jacht am Bootssteg … Die Leiche der
 armen Helena Elliot war längst fortgeschafft worden.
@@ -1855,7 +1853,7 @@ Und — hat man dem Rumpf der Mumie dann
 
 einen anderen Kopf ausgesetzt?«
 Der Londoner Kollege laute mit kräftigem Gebiß einen
-Schissszwieback und brummte:
+Schiffszwieback und brummte:
 
 »Niemand weiß, wie der Diebstahl ausgeführt wurde —
 niemand! Aber — der echte Kopf ist sofort durch einen
@@ -1890,8 +1888,8 @@ Und dann?«
 
 »Dann kamen wir in London an. Ich kniff zu, lederne
 ein Auto und fuhr hinter dem Kraftwagen der Lady
-er, verlieh mein Auto eine halbe Meile südlich von Corna-Avoor-
-Tollste, bummelte In Matrosentracht die Küste entlang
+er, verlieh mein Auto eine halbe Meile südlich von CornAvoor-Tollste,
+bummelte In Matrosentracht die Küste entlang
 und wurde am Hohlweg oben von den fünf Irrsinnigen
 überfallen …«
 
@@ -1927,7 +1925,7 @@ ihn nach England. verbirgt ihn im Schroffe oder im Verrennt,
 erkrankt schwer, läßt ihren Bruder, den sie bis dahin verleugnet
 bat, in irgendeiner Wallte zu sich rufen, vielleicht Asche
 <@pagebreak/>
-Arzt oder Krankenpslegerin, verrät ihm jedoch nichts von
+Arzt oder Krankenpflegerin, verrät ihm jedoch nichts von
 dem Kopf des Maharadscha, wird irrsinnig und wird von
 dem allen Varieteekünstler Elliot heimlich nach Frankreich in
 die Anstalt Toller Tardieurf geschafft. Vincent Elliot spielt
@@ -1968,7 +1966,7 @@ Draußen Blättchens das Waffen an den Bordwänden …
 
 Träge schaukelt die Jacht …
 
-Und vorn in der Segellammer liegen fünf Menschen,
+Und vorn in der Segelkammer liegen fünf Menschen,
 fünf vom Schicksal Gekennzeichnete …
 
 Grauenvoll ist das alles, unsagbar grauenvoll!
@@ -2034,7 +2032,7 @@ schicke die Sicherung zurück … «
 
 Harst rührt sich nicht …
 
-Stille … Brantungsdonner … Ferner Möweuschrei
+Stille … Brandungsdonner … Ferner Möwenschrei
 
 Harst rührt sich nicht
 
@@ -2042,7 +2040,7 @@ nicht
 
 Und damit — — wieder der Schrei …
 
-So fahre zusammen … So gräßlich llingt’s, so werdende
+So fahre zusammen … So gräßlich klingt’s, so werdende
 auspcitihend
 
 Der Schrei ersticht jäh
@@ -2059,7 +2057,7 @@ Die schwarzen Schatten des Hohlweges nehmen uns auf.
 Auswärts — vorwärts
 
 Und dann mildes Sternenlicht wieder … Dann der
-Klirpenrand — Bäumte, Sträucher.
+Klippenrand — Bäumte, Sträucher.
 
 Harst lauscht …
 
@@ -2399,7 +2397,7 @@ innen eingehakt war.
 Harst [Lob das schmale Bewußter empor, wehte Ich Hoch
 und beleuchtete außen Bad Takt…
 
-log den Knast wieder zurück, reichte mir ein halb zer-quetichies
+log den Knast wieder zurück, reichte mir ein halb zerquetschtes
 Vuchenblatri — ein frisches Platt, aus dem genau
 der Absatz eines Schuhes eingeprägt war
 
@@ -2455,7 +2453,7 @@ Claryc scheuchte die Hunde weg. Sie knurrten. Ihre
 Augen funkelten. Keuchend, japsend lagerten sie sich fünf
 Schritt weiter dicht beieinander und beobachteten und
 
-»Der älteste Baum des Parkes,« brummte der maul-faule
+»Der älteste Baum des Parkes,« brummte der maulfaule
 Goliath.
 
 sanft drehte sich nach Dawes um.
@@ -2470,7 +2468,7 @@ Bestimmtheit aus ein Grab aus grauer Vorzeit hin.«
 
 Dann nahm Harald dem Polizeiinspektor die Laterne
 ab, trat ein paar Schritt zurück und leuchtete nach oben« —
-in die Reste des Niesenstammes hinauf …
+in die Reste des Riesenstammes hinauf …
 
 Weiß und grell blinde der Lichtkegel über das Laubdach,
 über Zweige und knorrige Reste hin …
@@ -2701,7 +2699,7 @@ meiner unseligen Tat?!«
 
 »Es If der angebliche Alexander Archibald Norton,« erwiderte
 Harald laut. »In Wahrheit ist’s der Holländer
-van Zeelden, der ein verwersliches, freventliches Doppelspiel
+van Zeelden, der ein verwerfliches, freventliches Doppelspiel
 getrieben hat, einmal als Beauftragter der Dschaina-Priester,
 dann — aus eigene Rechnung als Norton, um den Kopf des
 Maharadscha heimlich an sich zu bringen …«
@@ -2716,7 +2714,7 @@ mit hoheitsvollen Handbewegung Schweigen geboten.
 
 Sie richtete sich höher auf …
 
-- In dem lagerten Greisinnenantliß, in den Augenblick Schatten
+- In dem lagerten Greisinnenantlitz, in den Augenblick Schatten
 Augen, deren Feuer einst wohl leicht einen Mann hatte
 begeistert können, lag ein Ausdruck schmerzlichen Scibfl-erfenninis
 …
@@ -2735,7 +2733,7 @@ Claryc, vor Sinfpeltoe Dawes, Pfistercrac und und — mit
 aller Edbrlichfeit …
 
 »Es ist an der Zeit, daß Ich öffentlich bekenne, den Kopf
-des Maharadscha aus Sammlerleidenschast durch Bestechung
+des Maharadscha aus Sammlerleidenschaft durch Bestechung
 einiger Tempeldiener an mich gebracht zu haben, oder —
 
 »en ganz rücfsihtêôlos gegen mich selbst zu sein: gestohlen zu
