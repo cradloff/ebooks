@@ -14,13 +14,13 @@ des Meerbusens von Bengalen deutete, wie der zwischen den
 Halbinseln Vorder- und Hinterindien liegende Teil des Indischen
 Ozeans genannt wird:
 
-»Bedauerst Du noch, lieber Schraut, bereits um ½ 7 Dein
+»Bedauerst Du noch, lieber Schraut, bereits um ½7 Dein
 Bett verlassen zu haben? Ist dieser Morgen nicht herrlich!
 — Man sollte in den Tropen eigentlich stets mit Sonnenaufgang
 den Tag beginnen.«
 
 Wer Harst so kennt wie ich, der merkt jedoch auch, daß
-in diesen Lobpreisungen ein gewisses zuviel war, genau wie
+in diesen Lobpreisungen ein gewisses Zuviel war, genau wie
 bei den Handbewegungen, die seine Worte begleiteten.
 
 Ich muß noch erwähnen, daß das Hotel de Paris nur
@@ -228,7 +228,7 @@ Ich habe schon angeordnet, daß die Polizeibarkasse dem
 Dampfer nachfährt —«
 
 »Das hätten Sie sich sparen können,« meinte Harst achselzuckend.
-»Ich bitte Sie, bester Dalbott — ein Mann, der hier
+»Ich bitte Sie, bester Dalbott, — ein Mann, der hier
 einen Mord beging, wird doch nicht so dumm sein und den
 Tourdampfer besteigen! Sie werden diesen Menschen kaum
 finden. Wie nannte er sich denn?«
@@ -244,7 +244,7 @@ finden. Wie nannte er sich denn?«
 Wir kehrten dann zu der Leiche zurück. Dalbott zog dem
 kleinen Toten den schmierigen, grüngelben Zeugstreifen ab.
 <@pagebreak/>
-Der Junge trug darunter nur noch eine zerrissene hemdartige
+Der Junge trug darunter nur noch eine zerrissene, hemdartige
 Jacke mit weiten Ärmeln.
 
 »Ein Kind aus den ärmsten Volksschichten,« meinte Dalbott
@@ -258,7 +258,7 @@ kann sein — kann auch nicht sein!«
 
 Daß Harst, wenn er gewollt hätte, dem Kommissar ganz
 anders zu antworten in der Lage gewesen wäre, davon war
-ich fest überzeugt. Sehr bald erhielt ich hierüber auch Gewissheit.
+ich fest überzeugt. Sehr bald erhielt ich hierüber auch Gewißheit.
 
 Dalbott und der Polizeiarzt verabschiedeten sich gleich
 darauf. Dann wurde auch die kleine Leiche abgeholt. Auch
@@ -272,7 +272,7 @@ ist mir verleidet. Wir werden mit dem Nachmittagszuge nach
 Madras weiterreisen.«
 
 Wir setzten uns auf eine leere, schattige Bank und dann
-— dann bekam ich die Siegellacktröpfchen zu sehen, die so
+— dann bekam ich die Siegellacktröpfchen zu sehen, die, so
 harmlos sie zunächst wirkten, uns doch zu dem seltsamsten unserer
 indischen Abenteuer verhelfen sollten.
 
@@ -308,7 +308,7 @@ ein Kopfneigen. Dann schnitt er den Umschlag sauber auf,
 nahm den einmal gefalteten Briefbogen heraus und hielt
 ihn so, daß auch ich das Geschriebene lesen konnte.
 
-Es war dieselbe etwas kindlich\-unbeholfene Schrift wie
+Es war dieselbe etwas kindlich-unbeholfene Schrift wie
 auf dem Umschlag. Die Zeilen lauteten aus dem Englischen
 ins Deutsche übertragen:
 
@@ -367,7 +367,7 @@ Lord Edward Wolpoores, auf Chester Blindley, und auf seine
 Bitte, ihm zu helfen, das bereits durch 17 Attentate bedroht
 gewesene Leben des Lords vor einem achtzehnten zu schützen
 und die geheimnisvolle Bande zu ermitteln, die diese Attentate
-vorbereitet hatte, ahnte daß jemals auch nur ein einziger von
+vorbereitet hatte, ohne daß jemals auch nur ein einziger von
 ihnen dabei abgefaßt wurde. Blindley behauptet, es seien Mitglieder
 der seiner Überzeugung nach noch immer fortbestehenden
 Mördersekte der Thug. Tatsache ist ja, daß seit fünfzig
@@ -379,7 +379,7 @@ sich zugelegt. Und jetzt — jetzt schickt mir jemand
 einen Warnungsbrief zu, der in seinem Inhalt klar beweist,
 daß den Verfolgern Lord Edwards sogar meine damalige Unterhaltung
 mit Chester Blindley bekannt ist! Ist das nicht
-etwas unheimlich lieber Schraut? Deutet das nicht darauf
+etwas unheimlich, lieber Schraut? Deutet das nicht darauf
 hin, daß an Bord der India sich ein Verbündeter dieser Verfolger
 des Lords befinden muß?! — Jedenfalls: wir haben fortan
 alle Ursache, um unser Leben sehr besorgt zu sein — sehr!
@@ -390,7 +390,7 @@ schonen. Gegen Blasrohrpfeile kann man sich kaum schützen.
 Oder doch nur auf eine Art: indem man Indien schleunigst
 wieder den Rücken kehrt. Und — das werden wir tun.«
 
-Er erhob sich »Komm, mein Alter, kaufen wir uns einen
+Er erhob sich »Komm’, mein Alter, kaufen wir uns einen
 Koffer, packen wir und reisen wir mit dem nächsten
 Dampfer nach Kolombo, wo wir leicht ein Schiff nach Europa
 finden.«
@@ -416,7 +416,7 @@ auf —«
 »Welche denn?« fragte ich gespannt.
 
 »Die Tätowierung kann vielleicht ein Götzenbild vorstellen
-— kann! Vielleicht gar die blutige Chali oder Bhowani,
+— kann! Vielleicht gar die blutige Kali oder Bhowani,
 die Schutzpatronin der Thug!«
 
 »Ah — Du meinst daß —«
@@ -435,7 +435,7 @@ Katschar ist ein kleines, jetzt unter englischer Schutzherrschaft
 im Westen von Madras. Es ist nicht größer, als etwa
 Mecklenburg-Strelitz. Und — es ist ein armes Land, das
 heißt, der Radscha hat nur ein Einkommen von 50 000 Pfund
-Sterling — für einen indischen Fürsten ein Nichts! Deshalb
+Sterling, — für einen indischen Fürsten ein Nichts! Deshalb
 hatte auch der jetzige Radscha Chan Bir Singbar Dalmi das
 Schloß seiner Väter an den reichsten Plantagenbesitzer
 <@pagebreak/>
@@ -474,7 +474,7 @@ einen recht phantastischen Anblick gewährt hätte.
 warf seinen Zigarettenrest in die Indigostauden. »Wolpoore
 läßt ja sein Schloß, wie uns bekannt, besser bewachen, als es
 bei uns daheim in Deutschland mit einem Zuchthaus geschieht.
-Ich beneide diesen Milliardär weiß Gott nicht! Was hast er
+Ich beneide diesen Milliardär weiß Gott nicht! Was hat er
 von seinem Gelde?! Nichts — gar nichts! Dauernd schwebt
 er nur in Angst vor diesen Leuten, die ihn schon 17 Mal umzubringen
 versucht haben. Siebzehn Mal! Etwas viel selbst
@@ -501,10 +501,10 @@ Mir war das nur lieb. Ich würde den Ohnmächtigen
 schon ganz naturgetreu spielen.
 
 Harsts Berechnung stimmte. Das Auto hielt zehn Meter
-vor uns. Ein Europäer sprang heraus: klein, mager, o\-beinig,
-— ganz wie ein Jokei aussehend.
+vor uns. Ein Europäer sprang heraus: klein, mager, o-beinig,
+— ganz wie ein Jockey aussehend.
 
-Es war Freund Chester Blindley, der Chef der Privat-Polizei
+Es war Freund Chester Blindley, der Chef der Privatpolizei
 des Lords. Er kam langsam auf uns zu. Der andere
 Europäer, der einem Greise glich und nun im Auto aufrecht
 stand und argwöhnisch nach uns herüberspähte, war der erst
@@ -537,7 +537,7 @@ passiert!«
 »Gut. — Fahren Sie nur nach Madras, bleiben Sie dort
 eine halbe Stunde und kehren Sie dann zurück. Um Mitternacht
 können Sie uns vor dem Schlosse erwarten. Dort rechts
-stehst eine Felsengruppe mit ein paar Palmen. Um 12 Uhr
+steht eine Felsengruppe mit ein paar Palmen. Um 12 Uhr
 <@pagebreak/>
 nachts werden wir an jener Stelle sein. — Ich schleppe jetzt
 den armen Ohnmächtigen beiseite. Wir müssen unsere Rollen
@@ -549,7 +549,7 @@ dann nach rechts ab auf die Felsengruppe zu, machten es uns
 unter den Palmen bequem, packten unsere Lebensmittel aus
 und aßen mit wahrem Heißhunger.
 
-Es wurde dunkler und dunkler. Gegen ½ 10 kam ein
+Es wurde dunkler und dunkler. Gegen ½10 kam ein
 alter Hindu mit einer weißen Ziege am Strick dicht an uns
 vorbei, blieb stehen und fragte im Dialekt der Küstenvölker,
 ob wir nicht lieber im Rasthause der Residenz Katschar nächtigen
@@ -783,7 +783,7 @@ nämlich in Pondicherry eine besondere Art Warnung erhalten
 —«
 
 »Ich weiß, ich weiß,« nickte Wolpoore. »Master Schraut
-hat Blindley davon erzählt; auch von den vier Siegellacktröpchen.
+hat Blindley davon erzählt; auch von den vier Siegellacktröpfchen.
 <@pagebreak/>
 — Nun — ich kann Ihnen mit drei Schreiben
 ähnlicher Art dienen —«
@@ -830,7 +830,7 @@ geschehen war: Meine Frau und meine Söhne waren an demselben
 Tage verschwunden! — Der Brief lautet ja: Du wirst
 die drei nie wiedersehen. Sie sind tot. Wenn der Kummer
 Dein Herz genügend zermürbt hat, wirst auch Du endlich sterben?
-Und wieder die vier Siegellacktröpfchen als Unterschrift
+Und wieder die vier Siegellacktröpfchen als Unterschrift,
 abermals dieselbe Handschrift.«
 
 Harst saß jetzt vornübergebeugt da und hatte den Brief
@@ -864,8 +864,8 @@ Dann hob er etwas den Kopf und schaute mit einem weltentrückten
 Blick zu mir hinüber. Ich sah nun ganz deutlich
 all jene Anzeichen erhöhter geistiger Anspannung in seinen
 Zügen, die mir so gut bekannt waren. Nur der Ausdruck
-seiner Augen paßte nicht ganz dazu. — Noch ein paar Sekunden
-dann sagte er, plötzlich mit recht matter Stimme:
+seiner Augen paßte nicht ganz dazu. — Noch ein paar Sekunden,
+dann sagte er plötzlich mit recht matter Stimme:
 
 »Mylord, wir wollen’s für heute genug sein lassen. Sie
 regt die Erinnerung auf, und ich fühle mich doch noch zu
@@ -1030,7 +1030,7 @@ Dieser senkte verlegen den Blick.
 
 »Ich verstehe Sie nicht, Master Harst,« stammelte er.
 
-»Oh — Sie verstehen mich sehr gut. Sie fürchten nur ein
+»Oh — Sie verstehen mich sehr gut. Sie fürchten nur, ein
 <@pagebreak/>
 offenes Wort könnte Ihnen vielleicht Ihre Stellung kosten.
 — Weshalb sangen Sie vorhin hier ein so stark übertriebenes
@@ -1134,7 +1134,7 @@ ihnen so etwas auf eigene Faust nach. Und jetzt, wo Sie, Master
 Harst, soeben den Verdacht aussprachen, der alte Hindu
 mit der Ziege müßte vom Schlosse aus nach Ihrem Lagerplatz
 hindirigiert worden sein, ist mir eingefallen, daß die Urbington
-vorgestern abend gegen ½ 8 Uhr das Schloß verlassen hat
+vorgestern abend gegen ½8 Uhr das Schloß verlassen hat
 und erst nach einer Stunde zurückgekehrt ist. Sie kauft nun
 vieles für die Küche in einem Hindudorfe ein, das drei Kilometer
 nördlich in den Bergen liegt. Vielleicht wäre der Mann
@@ -1182,7 +1182,7 @@ ziehe, was Doktor Halfing über die drei uns mitteilte und —«
 
 »— wenn man schließlich noch sich fragt, weshalb wohl
 Reginald Barton jede Hilfe bei der Bedienung der Maschinen
-ablehnt!« fügte Harst schnell hinzu, »— dann, meine Herren,
+ablehnt!« fügte Harst schnell hinzu, — »dann, meine Herren,
 dann muß man auf den Gedanken kommen: die Leichen der
 Lady und der Kinder sind in den Kellern des Westflügels irgend
 wo verscharrt!«
@@ -1198,7 +1198,7 @@ Blindley, sind Ihre Leute absolut zuverlässig?«
 
 »Gut. Dann geben Sie Befehl, daß sofort der Gewandteste
 herauszubringen sucht, was die Urbington und die Bartons
-jetzt treiben. Es ist gerade ½ 10. Vielleicht hocken sie
+jetzt treiben. Es ist gerade ½10. Vielleicht hocken sie
 wieder beisammen. Sollte dies der Fall sein, so können wir ja
 sofort in die Keller hinab.«
 
@@ -1222,7 +1222,7 @@ Schraut und mich beziehen oder —« Er schwieg, kniff die
 Augen zusammen, rief etwas lauter: »Wenn — wenn aber
 das andere stimmte?! Wenn —! — Gehen wir — gehen
 wir! — Blindley, Ihre Leute brauchen wir nicht. Nur vielleicht
-ein paar Werkzeuge — Stahlsägen, Feilen eine Brechstange.«
+ein paar Werkzeuge — Stahlsägen, Feilen, eine Brechstange.«
 
 »Die hole ich sofort.« — Blindley lief abermals davon.
 Man merkte ihm an, wie er vor Ungeduld fieberte. —
@@ -1230,7 +1230,7 @@ Man merkte ihm an, wie er vor Ungeduld fieberte. —
 Harst steckte seine Repetierpistole und seine Taschenlampe
 zu sich. Dann kam auch schon Blindley zurück. Er führte uns
 durch die läuferbelegten Gänge über schmale Seitentreppen
-ins Erdgeschoß vor eine starke geschnitzte Tür, die auf eine
+ins Erdgeschoß vor eine starke, geschnitzte Tür, die auf eine
 der überdachten Brücken zwischen Nord- und Westflügel mündete.
 
 Sie war verschlossen. Aber Blindley hatte den Reserveschlüssel
@@ -1247,7 +1247,7 @@ Bodens ab. Im Heizungskeller lag ein hoher Berg Steinkohlen
 in einer Ecke. Als wir gerade davor standen, — ganz
 plötzlich in unserem Rücken eine Stimme:
 
-»Guten Abend meine Herren!«
+»Guten Abend, meine Herren!«
 
 Wir fuhren herum vor Schreck. In dem Tonfall dieser
 Stimme hatte ebensoviel Drohendes wie Ironisches gelegen.
@@ -1300,6 +1300,7 @@ aufstiegen, wie bläuliche Flämmchen hochleckten. Die Kohlen
 brannten! Man mußte eine unter dem Steinkohlenhaufen
 verborgene Höllenmaschine elektrisch zur Explosion gebracht
 haben, die dann die Kohlen im Nu entzündet hatte.
+
 Wir standen wie gelähmt da. — Löschen?! Womit?! —
 Als wir den Hahn der Wasserzuleitung für den Kessel aufdrehten,
 lief nur wenig Wasser ab. Man hatte den Haupthahn
@@ -1350,11 +1351,11 @@ werden! Die Lady ist eine gebrechliche Greisin geworden, die
 jungen Leute Gerippe!«
 
 Ich will das Folgende nur kurz streifen. Im Dunkeln, in
-den nur mit Kisten als Möbelstücken ausgestatteten Kellern,
+den nur mit Kisten als Möbelstücken ausgestatteten Kellern
 hatten die drei Ärmsten diese Jahre verbracht. Es war ein
 Wunder, daß ihr Verstand all den Leiden getrotzt hatte.
 
-Die Freude dieser Bedauernswerten zu schildern ist unmöglich.
+Die Freude dieser Bedauernswerten zu schildern, ist unmöglich.
 Ströme von Tränen entquollen ihren Augen. Sie
 konnten gar nicht fassen, daß sie nun wirklich befreit waren.
 
