@@ -1450,78 +1450,78 @@ ich den zweiten Teil des Kopfes des Maharadscha beginnen.
 <h3>Die Jacht der Irren.</h3>
 
 … Und vor uns stand — Lady Maria Cornawoor —
-als Mann
+als Mann …
 
-Wirklich ein Mann, der jener Lady Maria, wie wir Ne kennengelernt
-hatten, Zug um Zug glich
+Wirklich ein Mann, der jener Lady Maria, wie wir sie kennengelernt
+hatten, Zug um Zug glich …
 
 Nur daß das schlohweiße Haupthaar kurz verschnitten
-war — nach Männerart
+war — nach Männerart …
 
 Im Übrigen: Lady Maria Cornawoor, das Vogelgesicht
-mit den tausend Falten und Fälschen und mit den Augenblick
-lebhaften Augen
+mit den tausend Falten und Fältchen und mit den jugendlich
+lebhaften Augen …
 
-Und neben diesem Wanne, der einen Sportanzug trug
+Und neben diesem Manne, der einen Sportanzug trug
 — mit Kniehosen mit Wickelgamaschen, ein anderer: der
-Kopflose aus Aden, aus dem Hotel d’Angleterre, — also am
-cblih Thomas Jonas Pfistercrac, der berühmte Londoner
-College! —
+Matrose aus Aden, aus dem Hotel d’Angleterre, — also angeblich
+Thomas Jonas Pfistercrac, der berühmte Londoner
+Kollege! —
 
-Ich — Ich lobte die beiden abwechselnd wie Gcspeuster-erfheinungen
+Ich — Ich glotzte die beiden abwechselnd wie Gespenstererscheinungen
 an …
 
 Ich weiß: mir sind damals die Augen aus dem Kopf
-herausgequollen! Und wenn ich heute hier von mir reichst
-behaupte: »Ab glotzte!“, so wird das schon aufreizen! -
+herausgequollen! Und wenn ich heute hier von mir selbst
+behaupte: »ich glotzte!«, so wird das schon zutreffen! —
 
 <@pagebreak/>
 Harst neben mir schwieg ebenfalls …
 
-Bis der Mann, der Lady Maria so aus Haar glich, mit
-schrillen Lachen uns zurief:
+Bis der Mann, der Lady Maria so aufs Haar glich, mit
+schrillem Lachen uns zurief:
 
 »Also das ist Harald Harst — und das ist Max Schraut!!
-Nun — willkommen aus meiner Jacht Atlanta, meine Herren!!
+Nun — willkommen auf meiner Jacht Atlanta, meine Herren!!
 Willkommen!!«
 
 Der angebliche Pfistercrac war bei diesem gellenden
-Eingangs lachen deutlich zusammengezuckt … Er schaute
-mich mit sel:kamen Blicke an … Man konnte vieles in
+Eingangslachen deutlich zusammengezuckt … Er schaute
+mich mit seltsamem Blicke an … Man konnte vieles in
 diesem Blicke lesen — sehr vieles: Angst, Mitleid, stille Wut.
 Der Ausdruck wechselte eben. —
 
 Und dann machte der andere eine kurze Wendung,
 deutete auf Pfistercrac und erklärte mit plötzlich losbrechender
-Wut in Überlautem Tone: »Und dies hier — dies wi
+Wut in Überlautem Tone: »Und dies hier — dies will
 der Detektiv Jonas Pfistercrac sein! Eine Frechheit, eine
-ungeheure Frei Zeit! 1«
+ungeheure Frechheit!!«
 
-»Ah habe mein Unrecht bereits eingestanden,« meinte
-der Matrose kläglich. »Sich werde nie wieder so anmaßend
-sein, mir einen so berühmten Namen zuzulegen, aus den
+»Ich habe mein Unrecht bereits eingestanden,« meinte
+der Matrose kläglich. »Ich werde nie wieder so anmaßend
+sein, mir einen so berühmten Namen zuzulegen, auf den
 einer Ihrer Freunde, Mylord, weit mehr Anspruch hat —
 oder besser: den einzig berechtigten Anspruch!«
 
-»Wut, gut,« nickte Mylord befänftigt. »Ich weiß, Sie
-heißen Thomas Jonas Crac, — S6, nun werden Sie die
-beiden Gefangenen betupften, bis!ich oben an Deck nach beim
-Rechten gesehen habe, Hier — nehmen Sie meinen Revolver.
-Einem Harst gegenüber muß man vorsichtig sehnt«
+»Gut, gut,« nickte Mylord besänftigt. »Ich weiß, Sie
+heißen Thomas Jonas Crac, — So, nun werden Sie die
+beiden Gefangenen bewachen, bis ich oben an Deck nach dem
+Rechten gesehen habe. Hier — nehmen Sie meinen Revolver.
+Einem Harst gegenüber muß man vorsichtig sein!«
 
 Und Mylord verließ die Kajüte. —
 
-Wir schwirrte der Kopf … Mehr noch: Ich glaubte
-einen Moment lang, nur zu träuıren!
+Mir schwirrte der Kopf … Mehr noch: Ich glaubte
+einen Moment lang, nur zu träumen!
 
 All das war ja so unaussprechlich unlogisch — verrückt —
 widersinnig!
 
 Knallend warf Mylord die Tür der kleinen Kajüte
-hinter ich zu …
+hinter sich zu …
 
 Und — wer war nun dieser Mylord, der da die Treppe
-zum Deck empor stampfte?! Wer war Thomas Jonas Crac?
+zum Deck emporstampfte?! Wer war Thomas Jonas Crac?
 
 Die Aufklärung kam wie ein Blitzschlag …
 
@@ -1530,9 +1530,9 @@ Harst sagte — und in dem Ton seiner Stimme klang
 sein ganzes ungläubiges Staunen mit: »Sind Sie wirklich
 Jonas Pfistercrac?«
 
-»Leider, Mister Harst, leider! Der blamlerte Pfistercrac,
+»Leider, Mister Harst, leider! Der blamierte Pfistercrac,
 der sich Ihrem Freunde gegenüber sehr gemein benommen
-hat, denn — die Sangen-Schlangen besaßen zwar keine Giftzähne
+hat, denn — die Sapara-Schlangen besaßen zwar keine Giftzähne
 mehr, waren aber doch geeignet, einen Nervenschock
 herbeizurufen. Zur Strafe haben mich nun diese fünf Herren
 eingefangen und mich zum Steward und Koch der Jacht
@@ -1540,201 +1540,196 @@ Atlanta degradiert …
 
 Sein Gesicht wurde noch jammervoller …
 
-»Hört Herren stimmt nicht ganz, Mister Harst …
+»Fünf Herren stimmt nicht ganz, Mister Harst …
 Denn der Lord Reginald Cornawoor, wie er hier genannt
 sein will, ist in Wahrheit ein Weib, ist eben Lady Maria
-Cornawoor
+Cornawoor …«
 
 Ich — ich faßte mir an die Stirn. Ich schnappte nach
 Luft. Ich hoffte, durch reichlichere Luftzufuhr in die Lungen
-auch meine blödes Hirn anscuern zu können, denn — von
+auch meine blödes Hirn anfeuern zu können, denn — von
 alledem verstand ich nichts — gar nichts!
 
 Aber Harald sagte kühl, wenn auch hastig: »Mithin ist
 Lady Maria irrsinnig, leidet an der fixen Idee, ihr Gatte,
 ein Mann, zu sein …«
 
-»ra Und auch die vier anderen sind fraglos sträflich
-übergeschnappt,« nickte Leisteten e (ich Hemd. »Wir befinden
-bunt hier in der Gewalt von fünf Vertieften, deren erriet
-= fielen Sie sich vor! — ah Jonas Pfistercrac, der …
+»Ja. Und auch die vier anderen sind fraglos kräftig
+übergeschnappt,« nickte Pfistercrac seufzend. »Wir befinden
+uns hier in der Gewalt von fünf Verrückten, deren einer
+— stellen Sie sich vor! — sich Jonas Pfistercrac, der …
 berühmte Detektiv, nennt.«
 
-Harald enpiberte hierauf nichts, sagte nur noch hastiger:
+Harald erwiderte hierauf nichts, sagte nur noch hastiger:
 
 »Mister Pfistercrac, wir müssen uns rasch Darüber einig
-werden, wie wir diese fünf unfhädluh machen, lberwältl
-gen. — Sie helfen uns doch?«
+werden, wie wir diese fünf unschädlich machen, überwältigen.
+— Sie helfen uns doch?«
 
 »Welche Frage!«
 
 »Dann zerschneiden Sie mal zuerst unsere Fesseln bis
-auf ganz dünne Fasern. Schnell — fiel …«
+auf ganz dünne Fasern. Schnell — schnell …«
 
 Pfistercrac beeilte sich. Sein Taschenmesser glitt mir
 einmal ins Handgelenk. Was tat’s?!
 
 <@pagebreak/>
-Ah atmete erleichtert auf, alt Ich malte, daß ich jeden
-Augenblick ganz nach Vüunsch Hände und Füße frei bewegen
-könnte. Ein paar Rucke, und die Steife mußten vollends
+Ich atmete erleichtert auf, als Ich wußte, daß ich jeden
+Augenblick ganz nach Wunsch Hände und Füße frei bewegen
+könnte. Ein paar Rucke, und die Stricke mußten vollends
 reißen.
 
 »So,« meinte Harald, »nun eine Frage, Kollege Pfistercrac.
 Haben Sie Gepäck an Bord? Führen Sie in Ihrem
-Gepäck Betäubungémittiel bei sich?«
+Gepäck Betäubungsmittel bei sich?«
 
-Die Jacht rollte und stampfte jetzt so starr, daß der Kollege
-sich am Tische kostbaren mußte.
+Die Jacht rollte und stampfte jetzt so stark, daß der Kollege
+sich am Tische festhalten mußte.
 
 »Gepäck?!« Er zuckte die Achseln. »Die Kerle haben
-mich ja erst vor drei Stunden aus dem Bootssteg über
-bewältigt. Aber — Morphium, damit kann ich dienen, »Mister
-Harst. Sich leide an Neuralgie, und da muß man —«
+mich ja erst vor drei Stunden auf dem Bootssteg überwältigt.
+Aber — Morphium, damit kann ich dienen, Mister
+Harst. Ich leide an Neuralgie, und da muß man —«
 
-»Sie werden die fünf dann durch Morplbium betäuben,
-Pfistercrac. — 68 kommt jemand die Treppe hinab., des
-rechnen Sie die Portion Morphium, die Sie ins Essen mengen,
+»Sie werden die fünf dann durch Morphium betäuben,
+Pfistercrac. — Es kommt jemand die Treppe hinab … Berechnen
+Sie die Portion Morphium, die Sie ins Essen mengen,
 nicht zu kräftig und tun Sie —«
 
 Da flog die Tür auf … Mylord erschien … Mylord,
-— Lady Maria Cornawoor, die hie Platin …!
+— Lady Maria Cornawoor, die echte Maria …!
 
-Triefte von Wasser, von den Spitzem, die oben aus das
+Triefte von Wasser, von den Spritzern, die oben auf das
 Deck geklatscht waren …
 
-Mir frohlockend: »Ah —!ich bin ein Seemann! einer
+Rief frohlockend: »Ah — ich bin ein Seemann! Keiner
 lenkt so gut und sicher eine Jacht im Sturm wie Lord Reginald
-Ok einander!«
+Cornawoor!«
 
-hin warf sich auf bar andere Sofa, fror die Belog dar
+Und warf sich auf das andere Sofa, streckte die Beine von
 sich, brüllte Pfistercrac an:
 
 »In die Kombüse, Steward! Vorwärts! Wir haben
 Hunger, Durst! Mokka will ich trinken, einen Mokka, der
 Lord Reginald Cornawoors würdig ist!«
 
-Pfistercrac verkroch:e sich und öffnete die andere Tür,
+Pfistercrac verbeugte sich und öffnete die andere Tür,
 die in die winzige Küche führte …
 
-»Halt — den Revolver her!«« kreischte Mylord noch.
+»Halt — den Revolver her!« kreischte Mylord noch.
 
-Und säuerlich lächelnd gab der Kollege die Waffe ad.
+Und säuerlich lächelnd gab der Kollege die Waffe ab.
 
 Wir beide waren mit der Wahnsinnigen allein.
 
-Harst sagte in respektvollcim Tone: »Mylord, gestatten
-
+Harst sagte in respektvollem Tone: »Mylord, gestatten
 Sie eine Frage …«
 
 <@pagebreak/>
-»Bitte es
+»Bitte …«
 
-»Sie drohten doch, uns zu ersäufen, solle wir Ihnen
-
-? nicht den Kopf des Maharadscha von Jaipuvar verschaffen
+»Sie drohten doch, uns zu ersäufen, falls wir Ihnen
+nicht den Kopf des Maharadscha von Jaipuvar verschaffen
 würden. — Wo befindet sich dieser Kopf?«
 
 »Zunächst, Mister Harst, zunächst ließ ich Ihnen beiden
 drohen! Crac mußte das besorgen. Und dann: den Kopf
-bat meine Frau verstellt — Im Schlosse Cornawoor — irgendwo!
+hat meine Frau versteckt — Im Schlosse Cornawoor — irgendwo!
 Das Versteck sollen Sie eben ermitteln. —
 
 Ich mußte mir immer wieder klarmachen, daß Ich eine
 Wahnsinnige vor mir hätte. Es gehörten in der Tat einige
-
-sitze Akrobatenkünste dazu, sich in diesem Wirrsal von
+geistige Akrobatenkünste dazu, sich in diesem Wirrsal von
 Lady Cornawoor zurechtzufinden!!
 
-»Und wo ist Ihre Gattin zurzeit, Mylords« fragte Harald
+»Und wo ist Ihre Gattin zurzeit, Mylord?« fragte Harald
 ebenso respektvoll weiter.
 
 Himmel — im Himmel! — Sie hieß in Wahrheit
-
-»J
 Circe … Sie wissen, Mister Harst, das war die Zauberin,
 die schon Odysseus’ Gefährten in Schweine verwandelte.
 Mich hat dieses selbe Weib …« — In seinen Augen glomm
-wahnwitzige Wut auf — »in einen Weiberheld hineinge-jaubert,
+wahnwitzige Wut auf — »in einen Weiberleib hineingezaubert,
 mich, Lord Reginald Cornawoor, und hat mir ihr
-eigenes Aussehen verliehen, hat mich dann nach Nord-srqnkreih
+eigenes Aussehen verliehen, hat mich dann nach Nordfrankreich
 in eine Nervenheilanstalt geschleppt, wo Doktor
-Tardieux, der Ansialiébesiyer, mir einreden wollte, ich sel —
-Gattin!!! Haben Sie schon jemals derartigen Unfug
+Tardieux, der Anstaltsbesitzer, mir einreden wollte, ich sei —
+meine Gattin!! Haben Sie schon jemals derartigen Unsinn …«
 
 Er schwieg — — horchte …
 
-Oben auf Der heulte hochwand in so schrillen Tönen, daß
-es mir durch Mark und Bein ging
+Oben auf Deck heulte jemand in so schrillen Tönen, daß
+es mir durch Mark und Bein ging …
 
 »Das — das ist der berühmte Sänger Caruso,« lächelte
-Mylord. »Er übt …! Das tat er auch in Doktor Tar-dieux’
+Mylord. »Er übt …! Das tat er auch in Doktor Tardieux’
 Anstalt, wo sie behaupteten, er sei gar nicht Caruso,
-sondern ein französischer Baron namens Gftampele.«
+sondern ein französischer Baron namens Estampelle.«
 
 Das Geheul verstummte jäh …
 
-Wir fiel’s eiskalt über den Rücken. Der Gedanke, hier
+Mir lief’s eiskalt über den Rücken. Der Gedanke, hier
 auf der Jacht mit fünf Irren, die fraglos aus der Anstalt
 <@pagebreak/>
-entflohen waren, zusammen zu sein, kam mir wie ein herrschen
+entflohen waren, zusammen zu sein, kam mir wie ein höllischer
 Spuk vor. —
 
 »Nicht wahr, Mylord, — Sie und Ihre Freunde haben
 dann die Anstalt verlassen?« begann Harald wieder.
 
-»Ja, Mister Harst. Vorgestern nacht nach genau verein-barticm
-Fluchtplan. Den Wärter Gestreut haben wir er
-würgt, haben dann Doktor Tardieux gefesselt und sein Geld
+»Ja, Mister Harst. Vorgestern nacht nach genau vereinbartem
+Fluchtplan. Den Wärter Testpour haben wir erwürgt,
+haben dann Doktor Tardieux gefesselt und sein Geld
 mitgenommen. Wir flohen nach Dover, und seit gestern
-Sichern wir uns in der Atlanta verborgen, da ich doch den
-Schurken, der In Schob C Cornawoor den Herrn spielte, elf
+hielten wir uns in der Atlanta verborgen, da ich doch den
+Schurken, der In Schloß Cornawoor den Herrn spielte, erst
 beseitigen mußte …«
 
 All das entsprach fraglos der Wahrheit, wenn man eben
-der Geistesgestörten size Idee, ein Mann und (he Gatte zu
+der Geistesgestörten fixe Idee, ein Mann und ihr Gatte zu
 sein, nicht berücksichtigte.
 
 »Und Helena Elliot?« meinte Harald vorsichtig, um dem
-Redefluß der V’ahnsinnigen eine neue Schleuse zu Öffnen.
+Redefluß der Wahnsinnigen eine neue Schleuse zu Öffnen.
 
-»Helena Elliot Ist tot,« plapperte- die Kranke plötzlich
-ohne jedes Interesse vor sich bin. Examen hat sie erstochen,
-da sie uns im Wege war …« -
+»Helena Elliot Ist tot,« plapperte die Kranke plötzlich
+ohne jedes Interesse vor sich hin. »Caruso hat sie erstochen,
+da sie uns im Wege war …«
 
-Mir graute
+Mir graute …
 
-Diese fünf Unglüdliten, Unzureddnunggafählaen gingen
+Diese fünf Unglücklichen, Unzurechnungsfähigen gingen
 mit Menschenleben um, als ob sie nur ein Zündholz knickten.
 
 Mir graute. Und immer wieder Schielte Ich nach dem
 Revolver in Mylords rechter Hand hin
 
-V’enn’s Mylord einfiel, uns niederzuknallen, dann —
-dann Hals uns nichts, nichts! Und wie leicht konnte in dem
-[ranken Hirn dieser Mordgedankle aufblicken — wie leicht,
-wie schnell!! -
+Wenn’s Mylord einfiel, uns niederzuknallen, dann —
+dann half uns nichts, nichts! Und wie leicht konnte in dem
+kranken Hirn dieser Mordgedanke aufblitzen — wie leicht,
+wie schnell!!
 
-Wär graute … Sich fühlte, wie sich kalte Schweißperlen
+Mir graute … Ich fühlte, wie sich kalte Schweißperlen
 auf meiner Stirn bildeten …
 
 Und — Harald sagte gelassen: »Mylord, ich werde Ihnen
 den Kopf des Maharadscha verschaffen. Ich verspreche es
-Ihnen. Und ein Versprechen Harald Harsts ist genau es
-gut wie ein Ehrenwort
+Ihnen. Und ein Versprechen Harald Harsts ist genau so
+gut wie ein Ehrenwort …«
 
-»Allerdings,« murmelte Amulett geiftedabiwefend …
-»Allerdings …! Und nur — mir ist zuweilen so, als ob
+»Allerdings,« murmelte Mylord geistesabwesend …
+»Allerdings …! Und mir — mir ist zuweilen so, als ob
 <@pagebreak/>
-ich wisse, wo der Kopf ich befindet. Aber — da ist — In
+ich wisse, wo der Kopf sich befindet. Aber — da ist — ist
 ein Riegel in meinem Hirn, der irgend etwas absperrt —
 irgend etwas —«
 
-Polternde Schritte die Treppe hinab.. Tür fliegt auf.
-Naß, triefend ein Mann mit schwarzer Maste vor dem
+Polternde Schritte die Treppe hinab … Tür fliegt auf.
+Naß, triefend ein Mann mit schwarzer Maske vor dem
 Gesicht … Kommt, verbeugt sich vor uns:
 
-»Pfistercrac nein Name …°» Er sprach das Englische
+»Pfistercrac mein Name …« Er sprach das Englische
 wie ein Franzose.
 
 »Der berühmte Thomas Jonas Pfistercrac,« nickte Harald
@@ -1742,162 +1737,164 @@ ehrfurchtsvoll. »Sehr erfreut, Mister! Sehr erfreut!
 Eine Ehre für mich.«
 
 Da nahm der Mann die Maske ab und zeigte uns ein
-schmales, seines Gesicht von gelblicher Farbe mit ein Paar
-bunkern, Flackernden Augen — den Augen eines — Irren!
+schmales, feines Gesicht von gelblicher Farbe mit ein Paar
+dunkeln, flackernden Augen — den Augen eines — Irren!
 
-»Mister Harst wird den Klaps des Maharadscha suchen,«
-Will Mylord freudig, »Denken Sie, Pfistercracs — ein
-antik««
+»Mister Harst wird den Kopf des Maharadscha suchen,«
+erklärte Mylord freudig. »Denken Sie, Pfistercrac — ein
+Harst!!«
 
-»Ah, bat — Harst!1» Der irrsinnige Baron lächelte ge-ringschä
-yi »Ah würde den Kopf gleichfalls finden, ich,
-Thomas Gong Pfistercrac!«
+»Ah, bah — Harst!!« Der irrsinnige Baron lächelte geringschätzig.
+»Ich würde den Kopf gleichfalls finden, ich,
+Thomas Jonas Pfistercrac!«
 
 »Ohne Frage!« bestätigte Harald, aus den Gedankengang
-des »Franken rasch sich einsiellend. »Und besser als ich, Mister
+des Kranken rasch sich einstellend. »Und besser als ich, Mister
 Pfistercrac …«
 
-Mylord verließ knieten die Kajüte, reichte noch dem
+Mylord verließ wieder die Kajüte, reichte noch dem
 Baron den Revolver und meinte:
 
 »Pfistercrac, bewachen Sie nun die beiden!«
 
-Kaum war er hinaus, als der Baron ihm nuholidte,
+Kaum war er hinaus, als der Baron ihm nachblickte,
 dann mit dem Zeigefinger gegen die Stirn tippte und leise
 flüsterte:
 
-»Mister Harst, es — es ist ein Weib, eine irrsinnige.
-Auch die anderen drei sind krankt. Nur ich bin gesund und
-wurde zu Unrecht in Doktor Tardicux’ Anstalt eigne;Werft.«
+»Mister Harst, es — es ist ein Weib, eine Irrsinnige.
+Auch die anderen drei sind krank. Nur ich bin gesund und
+wurde zu Unrecht in Doktor Tardieux’ Anstalt eingesperrt.«
 
 Auch das war bezeichnend: er hielt sich allein für gesund
 — wie es die meisten Geisteskranken tun! Bei anderen
-violette er die Anzeichen des Irrsinns. bei sich selbst nicht.
+merkte er die Anzeichen des Irrsinns. bei sich selbst nicht.
 
-»Er setzte sich … Spielte mit dem Revolver
+Er setzte sich … Spielte mit dem Revolver …
+
 <@pagebreak/>
-& fAimiste noch Wärter.
+Ich schwitzte noch stärker.
 
-um Glück erschien da Steward Ein: mit einer mach
-artigen Kaffeekanne und sich? Emaideblehbrdern …
+Zum Glück erschien da Steward Crac mit einer mächtigen
+Kaffeekanne und sechs Emailleblechbechern …
 
 Füllte die Becher halb, reichte dem Baron den einen,
 blinzelte uns beide vielsagend an und balancierte an Deck.
 
-Der Baron Schrank in kleinen Schlucken
+Der Baron Schrank in kleinen Schlucken …
 
-»Miserabler Mokka!« schimpfte er. »Viel zu sehr gesüßt
-Hat scheußlichen Beigeschuad1«
+»Miserabler Mokka!« schimpfte er. »Viel zu sehr gesüßt.
+Hat scheußlichen Beigeschmack!«
 
 Aber — er trank.
 
-Und oben — oben an Deck Franken auch die anderen …
+Und oben — oben an Deck tranken auch die anderen …
 
-Hein Minuten später lagen fünf Bewußtlose aus dem
+Zehn Minuten später lagen fünf Bewußtlose auf dem
 Boden der Kajüte nebeneinander.
 
-Harst stand am Steuer der Atlantia. Ich bediente die
+Harst stand am Steuer der Atlanta. Ich bediente die
 Segel, soweit dies nötig war.
 
-Die Jacht so(ob mit westlichem Kurs der englischen
+Die Jacht schoß mit westlichem Kurs der englischen
 Küste wieder zu. —
 
 Es begann dunkel zu werden.
 
 Pfistercrac zündete die Positionslaternen an. Die Jacht
-hielt sich in der starr bewegten See tadellos. Es war eine
-Freude, auf ihren Planken die Nordsee zu durchpilügeu
+hielt sich in der stark bewegten See tadellos. Es war eine
+Freude, auf ihren Planken die Nordsee zu durchpflügen …
 
 <@pagebreak/>
 
-<h2>8. Kapitel.</h2>
+<h2>2. Kapitel.</h2>
 <h3>Als der Schrei erklang …</h3>
 
 Gegen halb zwölf Uhr nachts fand Steuermann Harst
-he die Einfahrt in die kleine Bucht von Cornawoor-Castle.
+endlich die Einfahrt in die kleine Bucht von Cornawoor-Castle.
 
 Wir vertäuten die Jacht am Bootssteg … Die Leiche der
 armen Helena Elliot war längst fortgeschafft worden.
-Erwischen hatte Freund Pfistercrac ein warmes Abendbrot
-zubereitet, und mit Heißhunger manchen wir uns nun
-In der Kajüte darüber der. Die fünf Kranken, die noch
-Immer im diesen Morphiumrausch sich befanden, hatten wir
-vorn in die Segelfkammer gelegt. —
+
+Inzwischen hatte Freund Pfistercrac ein warmes Abendbrot
+zubereitet, und mit Heißhunger machten wir uns nun
+In der Kajüte darüber her. Die fünf Kranken, die noch
+Immer im tiefen Morphiumrausch sich befanden, hatten wir
+vorn in die Segelkammer gelegt. —
 
 Die Karbidlampe in der Kajüte brannte.
 
-Ganz behaglich war’s
+Ganz behaglich war’s …
 
-Grog dampfte in dicken Gläsern, und Kollege Psisitercracs
-Schlüpfte erwiesen sich als erstklassig.
+Grog dampfte in dicken Gläsern, und Kollege Pfistercracs
+Kochkünste erwiesen sich als erstklassig.
 
 »So,« sagte Harald, »nun berichten Sie mal, Kollege,
 was Sie eigentlich mit diesem seltsamen Kriminalfall zu
 tun haben —«
 
-Thomas Jonas Pfistercrac nahm einen langen Schluck’
-Grog
+Thomas Jonas Pfistercrac nahm einen langen Schluck
+Grog …
 
 »Wenn Sie’s hören, werden Sie platt sein,« erwiderte
 er dann. »Ich will mich ganz kurz fassen. Vor anderthalb
 Jahren etwa erschien in meinem Bureau In London ein
 Holländer namens van Zeelden und zeigte mir, nachdem ich
-am Verschwiegenheit zugesichert hatte, einen Ausweis von
+ihm Verschwiegenheit zugesichert hatte, einen Ausweis von
 <@pagebreak/>
-dem Oberpriester des Dschaina-Gemachs In Jaipuvar. Van
-Schreiben war als Beauftragter der Dschaina-Priester Bemächtigt,
+dem Oberpriester des Dschaina-Tempel In Jaipuvar. Van
+Zeelden war als Beauftragter der Dschaina-Priester ermächtigt,
 jedem, der den aus dem Tempel gestohlenen Kopf
 des Maharadscha wieder der Diebin abnehmen würde, eine
-Belohnung bis zu 25&nbsp;000 Grund zuzusichern. Für die Diebin
+Belohnung bis zu 25&nbsp;000 Pfund zuzusichern. Für die Diebin
 hielt man Lady Maria Cornawoor, obwohl man keinerlei
 Beweise gegen sie Hatte, nur vielleicht den einen, daß sie
-während ihres drein Eckigen Aufenthaltes in Jaipuvar täglich
+während ihres dreiwöchigen Aufenthaltes in Jaipuvar täglich
 mehrmals den Tempel besucht hatte.«
 
 Harald machte eine Handbewegung.
 
 »Eine Frage, Pfistercrac … Wie wurde der Kopf gestohlen?
 Und — hat man dem Rumpf der Mumie dann
+einen anderen Kopf aufgesetzt?«
 
-einen anderen Kopf ausgesetzt?«
-Der Londoner Kollege laute mit kräftigem Gebiß einen
+Der Londoner Kollege kaute mit kräftigem Gebiß einen
 Schiffszwieback und brummte:
 
 »Niemand weiß, wie der Diebstahl ausgeführt wurde —
 niemand! Aber — der echte Kopf ist sofort durch einen
 anderen ersetzt worden, das stimmt. Damals wütete in
-Stadien wieder die Pest, und das abergläubische Volk hätte
+Indien wieder die Pest, und das abergläubische Volk hätte
 es als böses Vorzeichen noch schlimmerer Seuchen angesehen,
 wenn das Verschwinden des Kopfes der heiligen Mumie
-bekannt geworden wäre, — Jedenfalls: Ich übernahm das
-mir von dem Hellsten gemachte Angebot, ließ mir als
-vor tausend Pfund zahlen und habe Inzwischen noch
-zwveltäusend Pfund erhalten, bin also seit anderthalb sah«
-den entweder persönlich oder Durch meine Angestellten hieltet
-der Lady hergewcsen, die, als ich den Austrag van Zeeldens
+bekannt geworden wäre. — Jedenfalls: Ich übernahm das
+mir von dem Holländer gemachte Angebot, ließ mir als
+Vorschuß tausend Pfund zahlen und habe Inzwischen noch
+zweitausend Pfund erhalten, bin also seit anderthalb Jahren
+entweder persönlich oder Durch meine Angestellten hinter
+der Lady hergewesen, die, als ich den Auftrag van Zeeldens
 auszuführen versprach, gerade wegen Totschlags vor Gericht
-Ran
+stand …«
 
-»Das lernen wir alles, — rechts Diebe, recht Revolver
-schütte … — Und In Aden, Psisitercrac?«
+»Das kennen wir alles, — sechs Diebe, sechs Revolverschüsse
+… — Und In Aden, Pfistercrac?«
 
 »Ich hatte mich als Matrose für die Charybdis anheuern
-lassen. Als ich Schraut im Hotel aussuchte, wollte ich lediglich
+lassen. Als ich Schraut im Hotel aufsuchte, wollte ich lediglich
 Sie beide als Konkurrenten ausschalten, Ihnen … die
-Sache Verslein. Daher auch die Schlangen — ohne Giftzähne!
+Sache verekeln. Daher auch die Schlangen — ohne Giftzähne!
 Und das war ein sehr unüberlegten Streich von
 <@pagebreak/>
 mir. Aber — ich war nun bereits achtzehn Monate der
-Lady aus den Fersen und wollte mir nicht durch Sie beide
-ins Handwerk pfuschen lallen …!«
+Lady auf den Fersen und wollte mir nicht durch Sie beide
+ins Handwerk pfuschen lassen …!«
 
-»Na — vergeben und vergessen, sicher Pfistercrac … —
+»Na — vergeben und vergessen, lieber Pfistercrac … —
 Und dann?«
 
-»Dann kamen wir in London an. Ich kniff zu, lederne
+»Dann kamen wir in London an. Ich kniff aus, besorgte
 ein Auto und fuhr hinter dem Kraftwagen der Lady
-er, verlieh mein Auto eine halbe Meile südlich von Cornawoor-Tollste,
-bummelte In Matrosentracht die Küste entlang
+her, verließ mein Auto eine halbe Meile südlich von
+Cornawoor-Castle, bummelte In Matrosentracht die Küste entlang
 und wurde am Hohlweg oben von den fünf Irrsinnigen
 überfallen …«
 
@@ -1907,70 +1904,70 @@ irgendeinen Erfolg gehabt?«
 »Nur den einen, daß ich merkte, daß ein sehr geheimnisvoller
 Herr, der als Alexander Archibald Norton …«
 
-»Wissen mehr, sicher Pfistercrac. Und — Über Norton
+»Wissen wir, lieber Pfistercrac. Und — Über Norton
 konnten Sie nichts ermitteln?«
 
 »Nichts — gar nichts. Der Kerl ist zu schlau, zu vorsichtig.
 Aber gerade die Hartnäckigkeit, mit der er stets neue
 Opfer vor Lady Marias Revolver hetzte, bewies mir, daß
-er mit aller Bestimmtheit wissen Umrisse, der ich das des Maharadscha
-besinne sich Im Museum von Cornawoor-Castle —«
+er mit aller Bestimmtheit wissen müßte, der Kopf das des Maharadscha
+befinde sich Im Museum von Cornawoor-Castle —«
 
-»unscharf das, sehr richtig!« meinte Kannst ernst, »Eile:
-Ufer Norton muß große Summen zur Verfügung Haken,
-Er ihr sich den Chefs ersinnt fallen. — Tod ein anderes
+»Richtig ist das, sehr richtig!« meinte Harald ernst. »Dieser
+Norton muß große Summen zur Verfügung haben.
+Er läßt sich den Scherz etwas kosten. — Doch — ein anderes
 Thema, Pfistercrac. Ist Ihnen bekannt, daß Lady Maria
 seit zwei Jahren durch ihren Bruder Charles Vincent Elliot
 dargestellt wurde? Kennen Sie die Zusammenhänge dieses
-Teiles der Gescl’ichte des Maharadscha. Sangen?«
+Teiles der Geschichte des Maharadscha-Kopfes?«
 
 »Ich sehe nicht ganz klar,« erwiderte der Kollege ehrlich.
 
 »Nun — ich will dann kurz diese Zusammenhänge auf
 Grund meiner Kombinationen Ihnen und Schraut entwickeln.
 — Lady Maria stiehlt in Indien den Kopf, bringt
-ihn nach England. verbirgt ihn im Schroffe oder im Verrennt,
+ihn nach England, verbirgt ihn im Schlosse oder im Museum,
 erkrankt schwer, läßt ihren Bruder, den sie bis dahin verleugnet
-bat, in irgendeiner Wallte zu sich rufen, vielleicht Asche
+hat, in irgendeiner Maske zu sich rufen, vielleicht als
 <@pagebreak/>
 Arzt oder Krankenpflegerin, verrät ihm jedoch nichts von
 dem Kopf des Maharadscha, wird irrsinnig und wird von
-dem allen Varieteekünstler Elliot heimlich nach Frankreich in
-die Anstalt Toller Tardieurf geschafft. Vincent Elliot spielt
-mit viel Geschirr infolge seiner verblüffenden Ähnlichkeit
+dem alten Varieteekünstler Elliot heimlich nach Frankreich in
+die Anstalt Doktor Tardieux’ geschafft. Vincent Elliot spielt
+mit viel Geschick infolge seiner verblüffenden Ähnlichkeit
 mit Maria die Lady und … erschießt die sechs Diebe —
-als Kunstichüvße war’s ihm nicht weiter schwer, sich seiner
-Hand zu wehren! — Von dem Kopf des indischen Fürsten
-erfährt er erst etwas durch den bei dem einen Dicke gefundenen
+als Kunstschütze war’s ihm nicht weiter schwer, sich seiner
+Haut zu wehren! — Von dem Kopf des indischen Fürsten
+erfährt er erst etwas durch den bei dem einen Diebe gefundenen
 Zettel …«
 
-»Der Vertrag mit dem rätselhaften Norton’ warf
+»Der Vertrag mit dem rätselhaften Norton,« warf
 Pfistercrac ein.
 
-»Ja, der Vertrag … — Schließlich wir Vincent Elliot
+»Ja, der Vertrag … — Schließlich will Vincent Elliot
 als Lady Maria sich doch einmal selbst davon überzeugen,
 ob der Kopf wirklich im Dschaina-Tempel fehlt, fährt nach
 Indien und sucht mich in Aden auf der Rückreise auf —
-man beginnt der andere Teil der Tragödie. Elliots Tochter,
+Nun beginnt der andere Teil der Tragödie. Elliots Tochter,
 offenbar von Norton als achter Dieb für seine Absichten gewonnen,
 mit ihrem Vater und ihrer Tante verfeindet und
 in Not, — diese Helena Elliot wird im Museum von ihrem
 Vater Überrascht, hält ihn für Lady Maria und — stößt zu!
-Trifft nur zu gut … ersticht den eigenen Vater …?
+Trifft nur zu gut … ersticht den eigenen Vater …«
 
-Harst schwieg … Tiefe Stille in der Kajüte … Lire
-heimliche Bulle, — Uns drei packte die ungeheure Tragik
-dieser dicschehnisse in, und Herz. —
+Harst schwieg … Tiefe Stille in der Kajüte … Unheimliche
+Stille. — Uns drei packte die ungeheure Tragik
+dieser Geschehnisse ans Herz. —
 
-Furchtbar!« murmelte Pfistercrac. dann,
+»Furchtbar!« murmelte Pfistercrac dann,
 
-»Ja — entsetzlich,« meint Harald düster, »denn — biete
-Helena wird von dem Baron getötet, als sie auf ihrer Fluchs
-unglüdlicherweife auf den Vootdfteg gerät …?
+»Ja — entsetzlich,« meint Harald düster, »denn — diese
+Helena wird von dem Baron getötet, als sie auf ihrer Flucht
+unglücklicherweise auf den Bootssteg gerät …«
 
 Wieder Stille …
 
-Draußen Blättchens das Waffen an den Bordwänden …
+Draußen plätschert das Wasser an den Bordwänden …
 
 Träge schaukelt die Jacht …
 
@@ -1981,123 +1978,122 @@ Grauenvoll ist das alles, unsagbar grauenvoll!
 
 <@pagebreak/>
 Und unsere Gesichter, vom weißen Karbidlicht beschienen,
-faden denn auch seltsam farblos aus … —
+sahen denn auch seltsam farblos aus … —
 
-Harst griff nach der Grasbäume, füllte die Gläser …
+Harst griff nach der Grogkanne, füllte die Gläser …
 
-»Schütteln wir die Schauer denk Daliegend ab,« meinte
+»Schütteln wir die Schauer des Entsetzens ab,« meinte
 er mit etwas klangloser Stimme. »Wir sind drei Männer,
-die an derlei »gewöhnt sein sollen. — Ich schlage nun vor,
-daß wir.
+die an derlei gewöhnt sein sollten. — Ich schlage nun vor,
+daß wir …«
 
-Und da. — das lebte Wort dieses jäh unterbrochen
-Anbetet tönte noch in unseren Ohren nach — da von draußen
+Und da — das letzte Wort dieses jäh unterbrochen
+Satzes tönte noch in unseren Ohren nach — da von draußen
 her ein schriller Schrei, der nichts Menschliches an sich hatte.
 
-Ein Schrei, endlos lang gereckt, an- und abıdnvclend —
-ohne jede Ähnlichkeit mit dem Vi öwenrus, den wir zuweilen
+Ein Schrei, endlos lang gereckt, an- und abschwellend —
+ohne jede Ähnlichkeit mit dem Möwenruf, den wir zuweilen
 schon vernommen hatten …
 
-Ein Schrei, der Sense jäh wieder erstarb, nach Sekunden
-abermals erwachte
+Ein Schrei, der ebenso jäh wieder erstarb, nach Sekunden
+abermals erwachte …
 
 Wir sahen uns an …
 
-»Was — was bedeutet das?« sliüsterte Pfistercrac mit
-gerunzelter Stirn. »Verdammt — mir wird’s halt aus dem
-Rücken! Eiskalt … 11«
+»Was — was bedeutet das?« flüsterte Pfistercrac mit
+gerunzelter Stirn. »Verdammt — mir wird’s kalt auf dem
+Rücken! Eiskalt …!!«
 
-Er Teppich rasch — das ganze Glas leer …
+Er trank rasch — das ganze Glas leer …
 
 Stille … Draußen und — hier in der Kajüte,
 
-Harst erhebt sich, nimm die Clement und Der Cáliseb
-Tasche der Beinkleider.
+Harst erhebt sich, nimmt die Clement aus Der Schlüsseltasche
+der Beinkleider.
 
-»Wartet!« faul er kurz,
+»Wartet!« sagt er kurz,
 
-da flechte schnell auf « + Ich komme mit!«
+Ich stehe schnell auf … »Ich komme mit!«
 
-Deinetwegen …
+»Meinetwegen …«
 
-Wir Schrauben die Lampe herab, bis In der Markise
+Wir schrauben die Lampe herab, bis In der Markise
 Halbdunkel herrscht.
 
-Harald tätiger leise die Tür … Leise steigen wir beide
-an Deck
+Harald öffnet leise die Tür … Leise steigen wir beide
+an Deck …
 
-Sternenhimmel über uns. Und dort links tobt die Frau
-Übung. Dort rechts die Steilküste, düster, zackig, diese
-Schatten überall
+Sternenhimmel über uns. Und dort links tobt die Brandung
+… Dort rechts die Steilküste, düster, zackig, tiefe
+Schatten überall …
 
-Wir klettern auf den Bootsêsleg … Harst bleibt stehen,
+Wir klettern auf den Bootssteg … Harst bleibt stehen,
 lauscht, späht umher … Flüstert:
 
 <@pagebreak/>
-»Die Sache gefällt mir nicht! Da stimmt irgend etwa!
-Ich Gatte den Wictallloiben der Clement umklammert
-schicke die Sicherung zurück … «
+»Die Sache gefällt mir nicht! Da stimmt irgend etwas
+nicht …!«
+
+Ich halte den Metallkolben der Clement umklammert,
+schiebe die Sicherung zurück …
 
 Harst rührt sich nicht …
 
 Stille … Brandungsdonner … Ferner Möwenschrei
 
-Harst rührt sich nicht
+Harst rührt sich nicht …
 
-nicht
+Und dann — — wieder der Schrei …
 
-Und damit — — wieder der Schrei …
+Ich fahre zusammen … So gräßlich klingt’s, so
+nervenaufpeitschend …
 
-So fahre zusammen … So gräßlich klingt’s, so werdende
-auspcitihend
+Der Schrei erstirbt jäh …
 
-Der Schrei ersticht jäh
-
-»Dort links oben war’s,« Flüstert Harst. »Links am Rande
-des »Vohlwegces etwa. — Wir wollen vorsichtig sein, kriechen.
+»Dort links oben war’s,« flüstert Harst. »Links am Rande
+des Hohlweges etwa. — Wir wollen vorsichtig sein, kriechen.
 Ich fünf Schritt voran …«
 
-nd — wir Frieden — auf allen vieren, und doch schnell,
-hastig, als Gäste es, jemandem zu Hilfe zu kommen.
+Und — wir kriechen — auf allen vieren, und doch schnell,
+hastig, als gälte es, jemandem zu Hilfe zu kommen.
 
 Die schwarzen Schatten des Hohlweges nehmen uns auf.
-Über roh in den Fels schlauere Stufen geht’s aufwärts.
-Auswärts — vorwärts
+Über roh in den Fels gehauene Stufen geht’s aufwärts.
+Aufwärts — vorwärts …
 
 Und dann mildes Sternenlicht wieder … Dann der
-Klippenrand — Bäumte, Sträucher.
+Klippenrand — Bäume, Sträucher.
 
 Harst lauscht …
 
-Ein Stöhnen irgendwoher … Ein dbumpfes Röcheln.
+Ein Stöhnen irgendwoher … Ein dumpfes Röcheln.
+Wieder so unheimlich — so gar nichts Menschliches in diesen
+Lauten …
 
-Wieder so unheimlich — so gar nichts Venscgliches in diesen
-guten …
-
-»Jemand, der einen Anrief Im Munde hat,« Haut mir
+»Jemand, der einen Knebel Im Munde hat,« haucht mir
 Harald ins Ohr.
 
-Und wieder das Stöhnen, Gurgeln, Röcheln
+Und wieder das Stöhnen, Gurgeln, Röcheln …
 
-Und wir nach links wie die Schlangen. Dieser für Mein -
-Sandloch und dicht an den rauher Boden gebückt
+Und wir nach links wie die Schlangen. Meter für Meter,
+lautlos und dicht an den rauhen Boden geduckt …
 
-Wie Harald den Kopf höher bebt … Eid auch ich dicht
-am Kreisrund der Küste eine dunkle Masse erkenne
+Wie Harald den Kopf höher hebt … Bis auch ich dicht
+am Kreisrund der Küste eine dunkle Masse erkenne …
 
-Ein … Mensch. gefesselt.
+Ein … Mensch … gefesselt.
 
-Ein Mensch, den ein Satan halb über den Abgrund Ne
-schoben hat, — mit den Beinen über der diese hängend
-nur den Oberleib noch als Stütze
+Ein Mensch, den ein Satan halb über den Abgrund geschoben
+hat, — mit den Beinen über der Tiefe hängend
+nur den Oberleib noch als Stütze …
 
 <@pagebreak/>
-Wir Polen zu, ziehen Ihn empor …
+Wir packen zu, ziehen Ihn empor …
 
-Sternenfisein beleuchtet ein verzerrtes, falicurciches
+Sternenschein beleuchtet ein verzerrtes, faltenreiches
 Greisengesicht …
 
-Es ist — e ist das Gesicht
+Es ist — es ist das Gesicht …
 
 <h2>3. Kapitel.</h2>
 <h3>Die Hundemeute.</h3>
