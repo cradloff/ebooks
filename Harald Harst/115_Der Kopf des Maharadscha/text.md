@@ -578,10 +578,10 @@ Docks.
 <h3>Die Ahnenburg der Cornawoors.</h3>
 
 Lady Cornawoor Hatte Ihr Auto nach London bestellt.
-Kaum war die elegante Barkasse der Jacht zu Wasser ge-
-bracht worden, als vormittags zehn Uhr auch schon das
-Gepäck an Land geschafft wurde. Die Lady und ich ver-
-ließen London also ohne Aufenthalt.
+Kaum war die elegante Barkasse der Jacht zu Wasser gebracht
+worden, als vormittags zehn Uhr auch schon das
+Gepäck an Land geschafft wurde. Die Lady und ich verließen
+London also ohne Aufenthalt.
 
 Es schien, als ob die seltsame Frau (ich war ja fest
 überzeugt, daß Harald sich, was die Verkleidung betraf,
@@ -618,7 +618,7 @@ freundlichen Dörfern und Städten vorüber …
 
 Und — ein Zufall war’s, daß ich da nach einer Stunde
 auf ein zweites Auto aufmerksam wurde, das uns beharrlich
-folgte ...
+folgte …
 
 Wir hatten, da die Straße für fünf Minuten durch eine
 Dampfwalze gesperrt war, den Kraftwagen verlassen. Das
@@ -648,12 +648,12 @@ Ostküste. Wir durchfuhren das Städtchen Bramby, wohin
 Harald sich Oberst Dogbertys Antwort bestellt hatte.
 
 Salzluft des Meeres wehte uns an. Durch diese Ausschnitte
-der hohen Küste blinkte in der Ferne das Meer --
+der hohen Küste blinkte in der Ferne das Meer —
 <@pagebreak/>
 die Nordsee, floß in der Horizontlinie mit dem klaren
 Sommerhimmel in eins zusammen …
 
-Und dann der endlose, mauerumgebene Park von Cornawoor-Castle ...
+Und dann der endlose, mauerumgebene Park von Cornawoor-Castle …
 
 Ein Prachtpark, uralt, ein Rittergut für sich, mit weiten
 Rasenflächen, mit Obstbaumkulturen, mit merkwürdigen
@@ -663,7 +663,7 @@ Muschelkieswege durchschnitten hell schimmernd diese
 Sinfonie von Grün … Bis rechter Hand inmitten einer
 Rasenfläche der flache, neue Bau des Museums der Witwe
 Lord Reginald Cornawoors auftauchte, der vor sechs Jahren
-bei einer Fuchshetze das Genick gebrochen hatte ...
+bei einer Fuchshetze das Genick gebrochen hatte …
 
 Das Museum — ein langgestrecktes Gebäude mit Sandsteinpfeilern,
 hohen Fenstern, — im ganzen schmucklos und
@@ -671,7 +671,7 @@ anscheinend praktisch.
 
 Und gleich darauf, durch Tannenkulissen bisher verborgen,
 das Riesenquadrat von Cornawoor-Castle mit vier
-Ecktürmen ...
+Ecktürmen …
 
 Ein moderner Bau, erst vor fünfzehn Jahren beendet,
 ein Bau, der den Reichtum und den Geschmack Lord Reginalds
@@ -685,16 +685,16 @@ Feierlicher Empfang der Herrin, deren erste Worte zu
 Allison lauteten:
 
 »Wo befindet sich der Gefangene? Wie geht es dem
-Manne? Wie heißt er?"
+Manne? Wie heißt er?«
 
 Nur Allison und Ich hatten diese hastigen Fragen vernommen.
 
-Der Alte verbeugte sich ...
+Der Alte verbeugte sich …
 
 »Er ist im grünen Zimmer des alten Schlosses untergebracht,
 Mylady. Es geht ihm gut. Die Beinwunde ist
 verheilt. Der Mann spricht im Übrigen keine Silbe. Wir
-wissen nicht, wer er ist ..."
+wissen nicht, wer er ist …«
 
 Lady Cornawoor starrte vor sich hin … Dann: »Ich
 <@pagebreak/>
@@ -715,13 +715,13 @@ quadratischen Riesenbau umgeben war.
 ich stutzte …
 
 Und mit Recht! Lady Cornawoor weidete sich an meinem
-Erstaunen ...
+Erstaunen …
 
 inmitten dieses von uralten Kastanien, Eichen und
 Buchen bestandenen Schloßhofes ragte dunkel, düster und
 schmucklos ein uraltes burgähnliches Bauwerk von mäßiger
 Höhe empor, errichtet auf einer vielleicht fünf Meter hohen,
-unregelmäßigen Felsgruppe ...
+unregelmäßigen Felsgruppe …
 
 »Die Burg Cornawoor!« sagte die Lady mit einigem
 Stolz. »Dieselbe Burg, die mein Gatte Reginald gleichsam
@@ -730,37 +730,37 @@ sich mit ihm, dem Ältesten des Geschlechts, jener
 Heirat wegen entzweit hatten. Die stolzen Cornawoors
 konnten sich damit nicht abfinden, daß Reginald die Tochter
 eines simplen bürgerlichen Gelehrten namens Elliot zum
-Weibe erwählte …"
+Weibe erwählte …«
 
-Diese Worte, Die blitzartig eine Familientragödie be-
-leuchteten, wurden zum Schluß von Lady Maria in einer so
+Diese Worte, Die blitzartig eine Familientragödie beleuchteten,
+wurden zum Schluß von Lady Maria in einer so
 scharfen, gereizten Art hervorgestoßen, daß ich den Eindruck
 gewann, sie müßte all diese anderen Cornawoors aus tiefster
 Seele hassen. —
 
 Und Allison hatte derweil die schweren torartigen Flügeltüren
-der Burg weit geöffnet ...
+der Burg weit geöffnet …
 
 Ich stieg hinter der Lady die Steintreppe empor. Eine
 <@pagebreak/>
 kühle Halle, verräuchert, dunkel, unfreundlich, empfing uns.
 Kellerluft wehte hier.
 
-Von den Wänden grüßten seltsam schwarze, tief nach-
-gedunkelte Gemälde, aus denen die helleren Menschengesich-
-ter unheimlich hervorleuchteten.
+Von den Wänden grüßten seltsam schwarze, tief nachgedunkelte
+Gemälde, aus denen die helleren Menschengesichter
+unheimlich hervorleuchteten.
 
 Eine Treppe lief von hier zu einer Galerie empor.
 
-Allison schlug ein Paar mottenzerfressene schwere Brokat-
-Vorhänge zurück, und jäh strahlte uns nun durch hohe bunte
+Allison schlug ein Paar mottenzerfressene schwere Brokatvorhänge
+zurück, und jäh strahlte uns nun durch hohe bunte
 Fenster die Sonne entgegen.
 
 »Der Waffensaal,« sagte Die Lady kurz.
 
 Und drüben an der anderen Seite des Saales, dessen
-Stahlrüstungen, Schwertergruppen, Helme und Turnier-
-Lanzen mit dicken Lagen grauen Staubes bedeckt waren, —
+Stahlrüstungen, Schwertergruppen, Helme und Turnierlanzen
+mit dicken Lagen grauen Staubes bedeckt waren, —
 drüben erhob sich aus uraltem Ledersessel ein Riese mit
 feuerrotem Vollbart und finsteren Augen.
 
@@ -787,7 +787,7 @@ die Stimme hinter dem Vorhang befehlend erklärt.
 
 Und — — diese Stimme war die meines … Harst!! —
 
-Lady Maria zögerte ...
+Lady Maria zögerte …
 
 Da flüsterte ich schnell: »Es ist Harst, Mylady. Schicken
 Sie Allison und Claryc nur weg!«
@@ -805,19 +805,19 @@ Herr in der Tracht der anglikanischen Geistlichen …
 Lady Cornawoors Augen ruhten seltsam starr auf meinem
 Freunde …
 
-"Wie — wie sind Sie Hier Hineingelangt?« fragte sie
+»Wie — wie sind Sie Hier Hineingelangt?« fragte sie
 stockend …
 
 »Darüber sprechen wir später, Mylady … — Bitte!«
 
 Und wir betraten das grüne Zimmer der Ahnenburg
-der Cornawoors ...
+der Cornawoors …
 
 <h2>4. Kapitel.</h2>
 <h3>Familienhaß.</h3>
 
-Ein Zimmer, das vielleicht einmal diesen Namen ver-
-dient hatte, da die Wände einen grünlichen Anstrich zeigten
+Ein Zimmer, das vielleicht einmal diesen Namen verdient
+hatte, da die Wände einen grünlichen Anstrich zeigten
 und Die Möbel mit grünem Samt bezogen waren.
 
 Ein zweifenstriges Zimmer mit Gittern vor den halb erblindeten
@@ -840,8 +840,8 @@ allein sprechen. — Gestatten Sie, Mylady, daß
 Ihnen Sir Ernest Francis Cornawoor, jüngsten Sohn des
 Bruders Ihres verstorbenen Gatten, vorstelle …«
 
-Er deutete auf den Strolch, der jäh seine bisher so nach-
-lässig-feindselige Haltung verändert hatte.
+Er deutete auf den Strolch, der jäh seine bisher so nachlässig-feindselige
+Haltung verändert hatte.
 
 Sein Gesicht verriet Schreck, Bestürzung. Seine Augen
 waren voller Wut auf Harst gerichtet.
@@ -852,12 +852,12 @@ Und der fügte kühl hinzu:
 bei dem Photographen Jarrow gestern die Bilder Ihrer
 Familie durchgesehen. Mein Blick für Kleinigkeiten ist durch
 Übung geschärft. Sämtliche Cornawoors tragen das
-Signum der Familienzugehörigkeit im Gesicht: das Mutter-
-mal auf der linken Wange nach dem Kinn zu! — Bei Ihnen
+Signum der Familienzugehörigkeit im Gesicht: das Muttermal
+auf der linken Wange nach dem Kinn zu! — Bei Ihnen
 verdeckt der Bart dieses bohnengroße tiefbraune Mal, Sir
 Ernest, aber — nicht ganz …«
 
-Lady Maria lachte schrill auf ...
+Lady Maria lachte schrill auf …
 
 »Also so tief sind die Cornawoors gesunken, seit mein
 Gatte ihnen die Unterstützungen entzogen hat!! Ein Dieb
@@ -874,7 +874,7 @@ der verschossenen Sessel.
 Harst nahm gleichfalls Platz. Ich lehnte mich an einen
 der hohen geschnitzten Schränke.
 
-»Wir müssen die Situation klären," begann Harald in
+»Wir müssen die Situation klären,« begann Harald in
 durchaus sachlicher Weise. »Ich sagte Ihnen bereits, Sir
 Ernest, daß ich der deutsche Detektiv Harald Harst bin.
 Dort — mein Freund Max Schraut …«
@@ -886,7 +886,7 @@ Er gab zu, Sir Ernest Cornawoor zu sein, — stillschweigend.
 Pause.
 
 <@pagebreak/>
-Nichts … — Sir Ernest blickte zu Boden ...
+Nichts … — Sir Ernest blickte zu Boden …
 
 »gut, dann muß ich reden … — Als Lady Maria mich
 in Aden aufgesucht und mir von den sechs Einbrechern erzählt
@@ -910,8 +910,8 @@ Nicht sofort nach seinem Tode sollte, wie sonst üblich, Titel
 und Stammvermögen auf den nächsten männlichen Cornawoor
 übergehen, sondern erst nach dem Ableben der Lady
 Maria Cornawoor, seiner Gattin, falls diese, wie es in dem
-Beschluß heißt, bis dahin ein der Familientradition ent-
-sprechendes makelloses Verhalten in allen Dingen zeigen
+Beschluß heißt, bis dahin ein der Familientradition entsprechendes
+makelloses Verhalten in allen Dingen zeigen
 würde …«
 
 Lady Maria nickte zustimmend …
@@ -923,14 +923,14 @@ vielleicht versucht haben, den Nachweis zu erbringen, daß
 Lady Maria, als sie vor zwei Jahren in Indien war, aus
 Raritätensammlereifer den Kopf des Maharadscha von
 Jaipuvar aus dem Dschaina-Tempel gestohlen hätte. Glückte
-dieser Nachweis, so war der Beschluß der Adelskammer hin-
-fällig, denn Lady Maria als Diebin hätte den Bedingungen
+dieser Nachweis, so war der Beschluß der Adelskammer hinfällig,
+denn Lady Maria als Diebin hätte den Bedingungen
 des Beschlusses nicht mehr entsprochen: Mithin, sagte ich mir
 <@pagebreak/>
 weiter, ist es sehr gut möglich, daß die Cornawoors jemand
-gefunden haben, eben den geheimnisvollen Alexander Archi-
-bald Norton, der das Geld vorschob, um die Diebe … aus-
-senden zu können —«
+gefunden haben, eben den geheimnisvollen Alexander Archibald
+Norton, der das Geld vorschob, um die Diebe … aussenden
+zu können —«
 
 Lady Maria hatte sich erhoben …
 
@@ -945,13 +945,13 @@ erklären zu wollen …«
 mein Wort, daß die Cornawoors nie ähnliches geplant
 haben — nie!«
 
-Ich schaute Harald an ...
+Ich schaute Harald an …
 
 Er schien enttäuscht. Er schloß halb die Augen, dachte
-angestrengt nach ...
+angestrengt nach …
 
-»Dann haben Sie aus Not sich diesem Norton zur Ver-
-Fügung gesteht, Sir Ernest …« meinte er dann bedächtig,
+»Dann haben Sie aus Not sich diesem Norton zur Verfügung
+gesteht, Sir Ernest …« meinte er dann bedächtig,
 
 Der vielleicht achtundzwanzig Jahre alte Cornawoor
 entgegnete kurz:
@@ -962,7 +962,7 @@ Menschen gegen glänzende Bezahlung, Mister Harst. Ich
 meldete mich, traf mit Norton an entlegenen Stelle im Park
 zusammen, erhielt dreihundert Pfund als Anzahlung und
 verließ London ohne Wissen meiner Familie, die noch heute
-nicht weiß, daß ich meiner schwerkranken Mutter wegen --
+nicht weiß, daß ich meiner schwerkranken Mutter wegen —
 ein Dieb werden wollte …«
 
 Harst griff in die Tasche. Sein goldenes Zigarettenetui
@@ -981,8 +981,8 @@ Augen war ein weicher Schimmer getreten …
 
 »ich werde Ihnen einen Scheck Über 1000 Pfund ausfüllen,
 Sir Ernest,« erklärte sie ebenso weich. »Nehmen Sie
-das Geld nur an ... Nie wird jemand erfahren, was sich
-hier zugetragen hat ..."
+das Geld nur an … Nie wird jemand erfahren, was sich
+hier zugetragen hat …«
 
 Ernest Cornawoor — erbleichte. Kämpfte mit sich …
 
@@ -1007,7 +1007,7 @@ vortrefflich zu der ernsten Tracht des Geistlichen paßte.
 »Auch das.« — Ich erzählte von Thomas Jonas Pfistercrac
 …
 
-Und — er lächelte ...
+Und — er lächelte …
 
 »ich weiß, mein Alter! Ich weiß! Also Pfistercrac
 wollte der Mensch sein, der da in Aden vor unserem Hotel
@@ -1021,15 +1021,15 @@ ging …«
 »Ja. — Und — — er wird Dir die Schlängelein In die
 Kabine gebracht haben.«
 
-Ich war sprachlos ...
+Ich war sprachlos …
 
 »Ich hatte mich gleichfalls an Bord geschlichen,« meinte
 Harald gleichgültig. »Nachdem ich Dich bei dem Schlangenfang
 beobachtet hatte, verließ ich die Charybdis schwimmend
-und wurde von Wolpoores Jacht, Wie verabredet, auf-
+und wurde von Wolpoores Jacht, Wie verabredet, aufgefischt.
 <@pagebreak/>
-gefischt. Ich hatte Dich ja gewarnt und war auf der Cha- 
-rybdis nicht mehr nötig."
+Ich hatte Dich ja gewarnt und war auf der Charybdis
+nicht mehr nötig.«
 
 All das mit einer Selbstverständlichkeit, als handelte es
 sich um ein Nichts …
@@ -1053,7 +1053,7 @@ neun Stunden bin ich hier, wartete auf Euch!«
 
 Durch die zweite Tür dort … Unser Patentdietrich
 öffnet selbst die komplizierten Kunstschlösser des Mittelalters
-…"
+…«
 
 Da fiel mir ein, daß der Insasse des zweiten Autos also
 nicht Harald gewesen sein könnte.
@@ -1096,176 +1096,176 @@ sagte er mit einer Verbeugung …
 Lady Maria Cornawoor war tot …
 
 Der indische Dolch, der ihr das Herz durchbohrt und der
-sie schmerzlos, wenn auch gewaltsame von dieser Welt abgerufen
+sie schmerzlos, wenn auch gewaltsam von dieser Welt abgerufen
 hatte, steckte noch in Der Wunde. — —
 
-Der alte Allison, der uns noch kochen auf dem Wege
+Der alte Allison, der uns noch soeben auf dem Wege
 zum Museum erklärt hatte, Mylady habe lediglich ganz unvermittelt
-Schufud;matt ihren Scharen empfunden und sei
+Sehnsucht nach ihren Schätzen empfunden und sei
 daher ins Museum hinübergegangen, dieser zitternde Greis
-Elefant mir ohnmächtig in die Arme, als wir seine Herrin im
+sank mir ohnmächtig in die Arme, als wir seine Herrin im
 Hauptraum neben einem der Tische mit den Glasplatten
-voller Versteinerungen unvermutet auffanden
+voller Versteinerungen unvermutet auffanden …
 
 Auch mir schoß alles Blut zum Herzen, wie ich so, den
-alten Dann in den Armen haltend, aus die Leiche hinabstarrte,
-deren Gesicht noch nicht cimual die Farbe wesentlich
+alten Mann in den Armen haltend, auf die Leiche hinabstarrte,
+deren Gesicht noch nicht einmal die Farbe wesentlich
 verändert hatte …
 
-sie Augen der rätselhaften Frau waren unheimlich weit
+Die Augen der rätselhaften Frau waren unheimlich weit
 geöffnet …
 
 Und in dem Blick dieser erloschenen Augen las man noch
-deutlich ein namenloses Burschen …
+deutlich ein namenloses Entsetzen …
 
-Ein Grauen, eine Angst, mit Worten nicht auszudrücken
+Ein Grauen, eine Angst, mit Worten nicht auszudrücken.
 <@pagebreak/>
 Gräßlich wirkte dieses Antlitz — so gräßlich, daß ich mich
-weg wandte und Allison rasch nach einem der Rohrsosad
+wegwandte und Allison rasch nach einem der Rohrsofas
 trug, die an den Wänden zwanglos verteilt waren,
 
-Als ich zögernd zu Harald zurückkehrte, der neben bei
+Als ich zögernd zu Harald zurückkehrte, der neben der
 Leiche kniete, hob er den Kopf.
 
 »Vor kaum vier Minuten muß der Mord verübt sein,«
-sagte er Seife. »Der Mörder dürfte das Museum erst den
-lassen haben, alt er unsere Stimmen hörte
+sagte er leise. »Der Mörder dürfte das Museum erst verlassen
+haben, als er unsere Stimmen hörte …«
 
-»Etwa Sir Ernest?« fragte ich unsicher
+»Etwa Sir Ernest?« fragte ich unsicher …
+
 Er verneinte. »Der ist über jeden Verdacht erhaben.
-
 Allison sagte ja, daß die Lady ihn durch das Auto nach
 Bramby bringen ließ, damit er von dort die Bahn benutzen
-[äugte. Er wird längst in Bramby sein. — Nein, hier spricht
-alles für — Indische Widert!«
+könnte. Er wird längst in Bramby sein. — Nein, hier spricht
+alles für — indische Arbeit!«
 
 »Wie meinst Du das?«
 
 »Ich bleibe dabei: der echte Kopf der heiligen Mumie
-doch gestohlen worden, und die schlauen Priester in Jaipuvar
+ist doch gestohlen worden, und die schlauen Priester in Jaipuvar
 haben dem Rumpf des Maharadscha eben einen anderen
-Mumiensaal ausgesetzt und Boten entsandt, dem Diebe
-die Beute wieder abzunehmen
+Mumienkopf aufgesetzt und Boten entsandt, dem Diebe
+die Beute wieder abzunehmen …«
 
 »Ah — — Norton!!«
 
 »Vielleicht …
 
-»Und Wiifiereracd Note bei alledem!«
+»Und Pfistercracs Rolle bei alledem?«
 
-»Nfiftereracht Es ist niemals Pfistercrac gewesen, bei
-Dir die Schlangen in die Kabine (amuagelte: ja lag
-nur Norton gewesen sein. Doch — dehüg davon! Dar
-Mörder ist noch in der Nähe. Beeilen wir uns.
+»Pfistercrac?! Es ist niemals Pfistercrac gewesen, der
+Dir die Schlangen in die Kabine schmuggelte. Es kann
+nur Norton gewesen sein. Doch — genug davon! Der
+Mörder ist noch in der Nähe. Beeilen wir uns …«
 
-Er sprang auf … Er lief grünlich … Ein neuer je
-danke schien ihn vorwärts zu treiben
+Er sprang auf … Er lief plötzlich … Ein neuer Gedanke
+schien ihn vorwärts zu treiben …
 
-Und im zweiten Nebenraum, wo Lady empfing ägyptische
+Und im zweiten Nebenraum, wo Lady Marias ägyptische
 Altertümer untergebracht waren, — hier, wo eine zweite,
 kleinere Tür in den Park führte, hier fanden wir diese Tür
-weit offen, fanden in Schloß noch den Dietrich und außerdem
+weit offen, fanden im Schloß noch den Dietrich und außerdem
 eine Unordnung, die klar darauf hinwies, daß jemand
-in wilder Hast irgend etwas gesucht hatte
+in wilder Hast irgend etwas gesucht hatte …
 
-Harsts trat ins Freie
+Harsts trat ins Freie …
 
 <@pagebreak/>
-Die Wege waren zum Empfang der Lady frisch gehockt
+Die Wege waren zum Empfang der Lady frisch geharkt
 worden, und dieser schmale Nebenweg hatte die Spuren des
-Kettchens daher recht deutlich festgehalten, sowohl die Hinab
-auch die Rückspur.
+Mörders daher recht deutlich festgehalten, sowohl die Hin\-
+als auch die Rückspur.
 
-Harald versorgte die Fährte, indem er auf dem Nasen
+Harald verfolgte die Fährte, indem er auf dem Rasen
 entlangging …
 
 Leider verloren wir sie dann, als der Nebenweg In den
 breiten Hauptweg einmündete.
 
 Hier nun trafen wir auf den Obergärtner des Schlosses,
-der gerade aus einem der Gewächs8häuser kam.
+der gerade aus einem der Gewächshäuser kam.
 
 »Haben Sie hier einen Hund, der Polizeidressur hat?«
-fragte Harst überftiträt. »Lady Maria ist im Museum ermordet
+fragte Harst überstürzt. »Lady Maria ist im Museum ermordet
 worden …«
 
-Der Mann prallte entzieht zurück.
+Der Mann prallte entsetzt zurück.
 
 »Ja — zwei deutsche Schäferhunde,« stammelte er. »Beide
 gehören dem Schloßwächter Claryc.«
 
-»Dann holen Sie sofort Claryc und die Hunde — [so
-fort! Laufen Sie, Mann! Der Mörder ist vielleicht noch
+»Dann holen Sie sofort Claryc und die Hunde — sofort!
+Laufen Sie, Mann! Der Mörder ist vielleicht noch
 zu fassen …«
 
-Der Obergärtner lebte davon …
+Der Obergärtner hetzte davon …
 
 Wir kehrten ins Museum zurück … Zu dem — Toten.
-Dem Toten
+*Dem* Toten …
 
-Denn nun bewies Harald mir, daß — Lady Maria ratsam
-ich ein Mann war — bewies es in aus die cluvdring-fe
+Denn nun bewies Harald mir, daß — Lady Maria tatsächlich
+ein Mann war — bewies es mir auf die eindringlichste
 und einfachste Art …
 
-Als er dann die Stierten der Leiche Leder li Gihmiiig
-brachte, als ich noch ganz verwirrt bestand, regte sich der
+Als er dann die Kleider der Leiche wieder in Ordnung
+brachte, als ich noch ganz verwirrt dastand, regte sich der
 alte Allison, seufzte tief und richtete sich auf.
 
-Harald traf zu ihm
+Harald trat zu ihm …
 
 »Hören Sie mal, Allison … Ein paar Fragen …
 War Lady Maria vor zwei Jahren längere Zeit in Indien?«
 
-Ja, Mister Harst, — vier Monate.«
+»Ja, Mister Harst, — vier Monate.«
 »Und — — hatte sie noch Verwandte von ihrer Familie
-
 her? Sie war doch eine geborene Elliot.«
+
 »Nicht daß ich wüßte, Mister Harst. Ihre Eltern sind
-längst tot. und Geschwister besaß sie nicht.«
+längst tot und Geschwister besaß sie nicht.«
 
 <@pagebreak/>
-»30 — soll Und — noch eins, Allison: hat Lady Maria
-stete so verblüffend sicher mit dem Revolver geschossen, wie
-eile es den sechs Dieben gegenlüber bewiesen hat?«
+»So — so! Und — noch eins, Allison: hat Lady Maria
+stets so verblüffend sicher mit dem Revolver geschossen, wie
+sie es den sechs Dieben gegenüber bewiesen hat?«
 
-Allison war’s einen scheuen Blick auf die Tote.
+Allison warf einen scheuen Blick auf die Tote.
 
-»Ja, Mister Harst,« flüsterte er, »ja — das ist nun Zuruf
-sich recht merkwürdig. Das kam ja auch bei den Gerlchtd-verhandlungen
-zur Sprache, Man hatte doch Mylady den
+»Ja, Mister Harst,« flüsterte er, »ja — das ist nun wirklich
+recht merkwürdig. Das kam ja auch bei den Gerichtsverhandlungen
+zur Sprache. Man hatte doch Mylady den
 Vorwurf gemacht, allzu voreilig zur Waffe gegriffen zu
 haben: Überschreitung der Notwehr, Mister Harst! Das
-verstehen Sie ja wohl besser als ich, diese juristischen Spitz:
-findiglciten. Mylady wurde freigesprochen — in allen sehr
+verstehen Sie ja wohl besser als ich, diese juristischen
+Spitzfindigkeiten. Mylady wurde freigesprochen — in allen sechs
 Fällen, von denen der erste genau vor zwei Jahren nach
 Myladys Rückkehr aus Indien sich ereignete …«
 
 »Halt — sofort nach der Rückkehr?«
 
-»Nein, Mister Harfe. Mylady traf doch schwerkrank
+»Nein, Mister Harst. Mylady traf doch schwerkrank
 damals hier ein. Erst nach ihrer Genesung, vier Wochen
-später, wollte jener erste Dieb, der bereits …°
+später, wollte jener erste Dieb, der bereits …«
 
 »Schon gut, Allison. — Etwas anderes, oder vielmehr
-nochmals Myladys Schießlunft … Schoß Mylady stets
+nochmals Myladys Schießkunst … Schoß Mylady stets
 so vortrefflich?«
 
 »Nein, nein … Sie hat’s erst in Indien gelernt, damals
 — vor zwei Jahren. bis dahin hatte sie nie einen
 Revolver oder Eine Flinte in der Hand gehabt …«
 
-»So — 10
+»So — so!«
 
 Wenn der brave Allison etwas gewitzter gewesen wäre,
-hätte er maskieren »So — soll« mancherlei heraushören
-innen.
+hätte er aus diesem »So — so!« mancherlei heraushören
+können.
 
-Ich jedenfalls wußte nun: der Betrüger, der dort elf!echten
+Ich jedenfalls wußte nun: der Betrüger, der dort erstochen
 auf dem Bastteppich lag, hatte offenbar seine Rolle hier begonnen,
 als Lady Maria nach ihrer Rückkehr aus Indien
 an jener Krankheit verstorben war.
 
-Und Harsts nächste Frage bewies Sir, daß er genau
+Und Harsts nächste Frage bewies mir, daß er genau
 dasselbe vermutete.
 
 Er wandte sich wieder an den Schloßverwalter.
@@ -1282,27 +1282,29 @@ den Hunden, und hinter ihm Claryc … Ein andermal
 also, Mister Harst!« —
 
 Der eine der Hunde nahm tadellos an dem Griff des
-indischen Dolches Musterung und arbeitete die Fährte des
-Mörders dann geradezu glänzend aus, führte uns durch den;
+indischen Dolches Witterung und arbeitete die Fährte des
+Mörders dann geradezu glänzend aus, führte uns durch den
 Park, durch Büsche und Sträucher bis an die östliche Mauer,
-die von der Steilküste nur durch einen Waldstreifen getrennt:
+die von der Steilküste nur durch einen Waldstreifen getrennt
 war.
-Dann leitete der Hund den Riesen Claryc und uns beide:
+
+Dann leitete der Hund den Riesen Claryc und uns beide
 weiter durch diesen Wald in die sogenannte Cornawoor-Schlucht,
-die sich als Hohlweg bis zum Strande hinabzicht,
+die sich als Hohlweg bis zum Strande hinabzieht,
 wo in einer von steilen Felsen eingeschlossenen kleinen Bucht
 zwei Boote und eine Zwölfmeter-Segeljacht — Eigentum
 der Lady — an einem Bootssteg vertäut lagen.
 
 Und hier — hier auf der Spitze dieses Bootssteges sahen
-wir schon von weitem die Person, zu der die zierlichen Schuh-cindrüde,
+wir schon von weitem die Person, zu der die zierlichen Schuheindrücke,
 die wir an drei Stellen im Park deutlich vorgefunden
 und abgezeichnet hatten, genau paßten.
 
-Anden einen jungen, bartlosen Menschen im dunklen,
-[da Omen Anzug hier in als ade Ne 2 lag
-nen Mann von kaum äiunnzig Arabien mit anlinden-jartem
-Sei,
+Fanden einen jungen, bartlosen Menschen im dunklen,
+schäbigen Anzug hier — als Leiche vor …
+
+Einen Mann von kaum zwanzig Jahren mit auffallend
+zartem Gesicht.
 
 Die — zweite Leiche!
 
@@ -1310,96 +1312,98 @@ Und — — ein Weib!! Ein Weib war’s — In Männerkleidern
 …
 
 Denn als Harst dem Toten die tief ins Genick gezogene
-Wie abnahm, quoll eine Flut blonden Haares hervor und
+Mütze abnahm, quoll eine Flut blonden Haares hervor und
 flatterte im scharfen Seewinde um das zarte Antlitz der
-toten Mörderin der — falschen Lady Maria, des — unbe-lannven
-Betrlügers … —
+toten Mörderin der — falschen Lady Maria, des — unbekannten
+Betrügers … —
 
 Harst schickte Claryc mit dem Hunde jetzt nach dem
 Schlosse zurück und trug ihm auf, sofort die Polizei in
 <@pagebreak/>
-Bramby telephonisch von dem Geschobenen in Kenntnis zu
-eben.
+Bramby telephonisch von dem Geschehenen in Kenntnis zu
+setzen.
 
-verwehte offenbar mit mir und der Toten allein sein,
+Er wollte offenbar mit mir und der Toten allein sein,
 wollte ungestört auf seine Art die schier unentwirrbaren
-Fäden all dieser rätselvollen Ereignisse langsam auscinanders
-gestern und — die passenden Enden schließlich zu einem oho
-geizigen Faden vereinen, der ihn dann in den Mittelpunkt dieser
-düsteren Tragödie kühlem mußte.
+Fäden all dieser rätselvollen Ereignisse langsam auseinandernesteln
+und — die passenden Enden schließlich zu einem einzigen
+Faden vereinen, der ihn dann in den Mittelpunkt dieser
+düsteren Tragödie führen mußte.
 
-eigene der lese zog eilends mit dem Hunde ab, ver-schivaund
-in der Cornaiwvoor-Schlucht. -
+Claryc der Riese zog eilends mit dem Hunde ab, verschwand
+in der Cornawoor-Schlucht. —
 
-Scharfer Osisturm umwehte uns
+Scharfer Oststurm umwehte uns …
 
 Draußen vor dem Eingang der kleinen Bucht brandete
-Meer — die Nordsee — das Heimatsiucer …
+Meer — die Nordsee — das Heimatsmeer …
 
-Und Harst sagte, indem er sich Über die Tote beugte
-î »Auch erstochen! — Da …°
+Und Harst sagte, indem er sich Über die Tote beugte:
 
-Er schlug die Jade des jungen Weibes zurück. Die
-zweite war blutig, und dicht unter der linken oberen Uhrtasche
+»Auch erstochen! — Da …«
+
+Er schlug die Jacke des jungen Weibes zurück. Die
+Weste war blutig, und dicht unter der linken oberen Uhrtasche
 erkannte ich zwei Löcher, zwei schmale Schnitte …
-sich »Herzslößel« Murmelte Harald … Und — richtete «
-langsam auf … Wie ein Hauch nur kam’s an nein Ohr:
 
-»Wir — sind ihnen ins Garn gegangen … Hinter aus
+»Herzstöße!« murmelte Harald … Und — richtete sich
+langsam auf … Wie ein Hauch nur kam’s an mein Ohr:
+»Wir — sind ihnen ins Garn gegangen … Hinter uns
 — auf dem Deck der Segeljacht …«
 
-Da — — eine andere Stimme — drohend befehlend!
+Da — — eine andere Stimme — drohend befehlend:
+
 »Rühren Sie sich nicht! Ich warne Sie!!«
 
 Diese Stimme Hatte für mich etwas Beharrliche, etwas,
 das nicht … an Thomas Jonas Pfistercrac erinnerte.
-Und danieder ein Zuruf: »Strecken Sie die Arme nach
-hinten!! Ich drücke ab, Wald Sie auch nur den leisesten
-Versuch wagen, sich,
 
-»Wir gehorchen!« erklärte Harald da ebenso laut. »Acht
+Und wieder ein Zuruf: »Strecken Sie die Arme nach
+hinten!! Ich drücke ab, falls Sie auch nur den leisesten
+Versuch wagen, sich …«
+
+»Wir gehorchen!« erklärte Harald da ebenso laut. »Ich
 habe sehr wohl gesehen, daß Sie Ihrer vier sind, Masken
 tragen und Revolver bereithalten. — Gehorche, mein Alter.
 Es muß sein!«
 
-Ich war ein wenig erstaunt Über Haralds Redseligket
-In solcher. Lagen beobachtet er zumeist nur und erwägt, wie
-die Partie für uns günstiger gestaltet werden könnte
+Ich war ein wenig erstaunt Über Haralds Redseligkeit.
+In solchen Lagen beobachtet er zumeist nur und erwägt, wie
+die Partie für uns günstiger gestaltet werden könnte …
 
 <@pagebreak/>
-kam — begriff Ich ihn …
+Dann — begriff Ich ihn …
 
-Er flüsterte, fasıım als seine Achte Silbe verklungen war:
+Er flüsterte, kaum als seine letzte Silbe verklungen war:
+»Kein Wort von Deiner Seite! Vorsicht! Hier geht’s ums
+Leben. Die Schufte …«
 
-Rein Wort von Deiner Seite! Vorsicht! Hier geht’s und
-Beben. Die Schufte …«
-
-Da — riß mich jemand bereits nach für/warte …
+Da — riß mich jemand bereits nach rückwärts …
 
 Eine Tauschlinge glitt um meine Handgelenke … Ein
 Stück Segel fliegt mir über den Kopf. Kräftige Arme heben
-mich empor. Und mit dieser Segel binde über den Augen
-trägt man mich in die Kajüte der Jacht
+mich empor. Und mit dieser Segelbinde über den Augen
+trägt man mich in die Kajüte der Jacht …
 
 an den Geräuschen merke ich, daß auch Harald hierher
-erbracht wird. Man seit ihn neben mich aus das Wandsofa
+gebracht wird. Man setzt ihn neben mich auf das Wandsofa
 der Kajüte … Man fesselt mir die Füße …
 
-Schritte zu Deck … Kreischen von Zuweilen … Dach
-Knallen eines sich entlastenden Segelt … Staunen bei
-Ah am Siege jheuernden Bordwand … Und dann Star:
-dickeres, gleichmäßiges Schaukeln. Gurgeln und Schäumen
+Schritte zu Deck … Kreischen von Taurollen … Das
+Knallen eines sich entlastenden Segels … Knarren der
+sich am Stege scheuernden Bordwand … Und dann stärkeres,
+gleichmäßiges Schaukeln. Gurgeln und Schäumen
 des außenbords vorbeischießenden Wassers: die Jacht sticht
-in &e … Mit uns — nur zwei Gefangenen. — Und
-stärker reibt und Kannst der Segler …
+in See … Mit uns — mit zwei Gefangenen. — Und
+stärker rollt und stampft der Segler …
 
-Dann eine Stimme dicht vor uns: »So, Mister Harsts,
+Dann eine Stimme dicht vor uns: »So, Mister Harst,
 nun — nur haben wir Sie!! Und Sie werden uns jetzt
-den Kopf des Maharadscha von Jaipuvar beschossen — so
+den Kopf des Maharadscha von Jaipuvar beschaffen — so
 oder so …! Wenn nicht, werden Sie und Ihr Freund
-aus ein Brett gebunden und mit einem Stück Eisen zu den
+auf ein Brett gebunden und mit einem Stück Eisen an den
 Füßen zugleich mit Helena Elliots Leiche in der Nordsee —
-berfenttil«
+versenkt!!«
 
 Helena Elliot — — Elliot?! — Ich glaubte mich verhört
 zu haben …
@@ -1407,31 +1411,35 @@ zu haben …
 War doch Lady Maria eine geborene Elliot …! Und
 hier nun abermals Elliot?!
 
-Tote so fragte Harter schon: »Ist Helena Elliot die blonde
+Da fragte Harst schon: »Ist Helena Elliot die blonde
+Tote?«
 
 »Ja … Und es ist Charles Vincent Elliots einziges
-Kind, des — fest Tibet harren verschwundenciui Barschen
-jüngste:sag Elliot Tochter …
+Kind, des — seit zwei Jahren verschwundenen Varieteekünstlers
+Elliot Tochter …!«
+
+Stille …
 
 <@pagebreak/>
-Dann wieder Harst; »Variecieelüustlecr? In welcher
+Dann wieder Harst: »Varieteekünstler? In welcher
+Art?«
 
-»Kunfihüpe Verwandblungskomiler — noch vieles
-andere,« erwiderte die mir so besänne erscheinende Ersinne.
+»Kunstschütze, Verwandlungskomiker — noch vieles
+andere,« erwiderte die mir so bekannt erscheinende Stimme.
 
-Und wieder Zahlst: »dann — dann hat heute die Tochter
-den Barer ermordet! Denn Lady Maria Cornawoor ist
+Und wieder Harst: »Dann — dann hat heute die Tochter
+den Vater ermordet! Denn Lady Maria Cornawoor ist
 bereits vor zwei Jahren verstorben, und nur ihr Bruder
-kann dann ihre Rolle weitergespielt haben — nur — — 11°
+kann dann ihre Rolle weitergespielt haben — nur — —!!«
 
 Abermals Stille …
 
-Nur von draußen das Plätschern der Wellen, das Eure
-gern und Schäumen, das Pfeifen des Windes im Tauwerk.
+Nur von draußen das Plätschern der Wellen, das Gurgeln
+und Schäumen, das Pfeifen des Windes im Tauwerk.
 
-grünlich riß der Unsichtbare uns die Cegelfiüde von den
-Köpfen. Und — vor uns stand … Tod — — Panik wich
-ich den aiwellen Teil des Kopfes des Maharadscha dbeginucu.
+Plötzlich riß der Unsichtbare uns die Segelstücke von den
+Köpfen. Und — vor uns stand … Doch — — Damit will
+ich den zweiten Teil des Kopfes des Maharadscha beginnen.
 
 <@pagebreak/>
 
@@ -1738,7 +1746,7 @@ schmales, seines Gesicht von gelblicher Farbe mit ein Paar
 bunkern, Flackernden Augen — den Augen eines — Irren!
 
 »Mister Harst wird den Klaps des Maharadscha suchen,«
-Will Mylord freudig, »Denken Sie, Pfiltererace — ein
+Will Mylord freudig, »Denken Sie, Pfistercracs — ein
 antik««
 
 »Ah, bat — Harst!1» Der irrsinnige Baron lächelte ge-ringschä
@@ -1888,7 +1896,7 @@ Und dann?«
 
 »Dann kamen wir in London an. Ich kniff zu, lederne
 ein Auto und fuhr hinter dem Kraftwagen der Lady
-er, verlieh mein Auto eine halbe Meile südlich von CornAvoor-Tollste,
+er, verlieh mein Auto eine halbe Meile südlich von Cornawoor-Tollste,
 bummelte In Matrosentracht die Küste entlang
 und wurde am Hohlweg oben von den fünf Irrsinnigen
 überfallen …«
@@ -2384,7 +2392,7 @@ brütend, daß ich ordentlich nach Luft schnappte.
 Mk Taschenlampe leuchtete uns
 
 Spinngewebe überall …, Staub — Mörtel und
-Schieserstücke …
+Schieferstücke …
 
 Die Luftscheiben mit den eisernen Einzusaugen bildeten
 scharfe Vierecke in dem Dunkel des Daches
@@ -2755,7 +2763,7 @@ Güter der Cornawvoors nicht an die Verwandten meines
 Gatten sicher, hier die Lady Maria an meiner Stelle weitere
 anspielen, was ihm bei seiner großen Ähnlichkeit mit will
 nicht scl’wversallen konnte. Und — er veriprad’d. Ich aber,
-die verblendete, baßerfüllte Frau, wurde vom Schicksal füı
+die verblendete, haßerfüllte Frau, wurde vom Schicksal füı
 diese maßlose Ucbercreibung der Feindseligkeit gegen die
 Cornawoors hart genug bestraft: ich starb — — den geistigen
 Tod! Und wenn ich nun wieder, schier durch ein Wunder,
