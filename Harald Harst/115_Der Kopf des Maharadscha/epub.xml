@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">e56ef8d6-bfb6-11eb-b953-dfa0e94b6e2b</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Der Kopf des Maharadscha</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">115</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Der Kopf des Maharadscha.
+
+Wir waren also nach unserem Ritt in die Wüsteneien Südarabiens Ende Juni 1923 nach dem englischen Hafen Aden, am Ostausgang des Roten Meeres gelegen, zurückgekehrt.  Harald Harsts Laune hatte in jenen Tagen den Gefrierpunkt erreicht. Er litt nämlich an jenem bösen Übel, das man im Orient Aleppobeule nennt und das in einem beulenartigen Geschwür auf der — Nase besteht.
+
+Zur Verschönerung trägt eine solche Aleppobeule keineswegs in hervorragendem Maße bei. Im Gegenteil!
+
+Harst sah denn auch etwas entstellt aus. Da war’s weiter kein Wunder, daß er eine Dame, die sich im Hotel d’Angleterre in Aden mittags am 22. Juni bei uns melden ließ, kurzerhand durch den Kellner wieder wegschickte.
+
+Wenn Tote erwachen.
+
+… Und vor uns stand — Lady Maria Cornawoor — als Mann …
+
+Wirklich ein Mann, der jener Lady Maria, wie wir sie kennengelernt hatten, Zug um Zug glich …
+
+Nur daß das schlohweiße Haupthaar kurz verschnitten war — nach Männerart …
+
+Im übrigen: Lady Maria Cornawoor, das Vogelgesicht mit den tausend Falten und Fältchen und mit den jugendlich lebhaften Augen …
+
+Und neben diesem Manne, der einen Sportanzug trug — mit Kniehosen mit Wickelgamaschen, ein anderer: der Matrose aus Aden, aus dem Hotel d’Angleterre, — also angeblich Thomas Jonas Pfistercrac, der berühmte Londoner Kollege! —
+
+Ich — ich glotzte die beiden abwechselnd wie Gespenstererscheinungen an …
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (115) Der Kopf des Maharadscha.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

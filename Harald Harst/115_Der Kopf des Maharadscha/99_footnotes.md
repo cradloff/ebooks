@@ -6,5 +6,3 @@
 
 <@footnote 3 "01_Der Kopf des Maharadscha.md">Im Original steht »Wollpoore«. In vorhergehenden Bänden heißt der Lord allerdings »Wolpoore«, daher geändert.</@footnote>
 
-<@footnote 2 "01_Der Kopf des Maharadscha.md"></@footnote>
-
