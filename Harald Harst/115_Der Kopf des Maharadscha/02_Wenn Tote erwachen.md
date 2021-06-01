@@ -248,7 +248,7 @@ der Geistesgestörten fixe Idee, ein Mann und ihr Gatte zu
 sein, nicht berücksichtigte.
 
 »Und Helena Elliot?« meinte Harald vorsichtig, um dem
-Redefluß der Wahnsinnigen eine neue Schleuse zu Öffnen.
+Redefluß der Wahnsinnigen eine neue Schleuse zu öffnen.
 
 »Helena Elliot ist tot,« plapperte die Kranke plötzlich
 ohne jedes Interesse vor sich hin. »Caruso hat sie erstochen,
@@ -305,7 +305,7 @@ Harst!!«
 »Ich würde den Kopf gleichfalls finden, ich,
 Thomas Jonas Pfistercrac!«
 
-»Ohne Frage!« bestätigte Harald, aus den Gedankengang
+»Ohne Frage!« bestätigte Harald, auf den Gedankengang
 des Kranken rasch sich einstellend. »Und besser als ich, Mister
 Pfistercrac …«
 
@@ -337,7 +337,7 @@ Kaffeekanne und sechs Emailleblechbechern …
 Füllte die Becher halb, reichte dem Baron den einen,
 blinzelte uns beide vielsagend an und balancierte an Deck.
 
-Der Baron Schrank in kleinen Schlucken …
+Der Baron trank in kleinen Schlucken …
 
 »Miserabler Mokka!« schimpfte er. »Viel zu sehr gesüßt.
 Hat scheußlichen Beigeschmack!«
@@ -461,13 +461,13 @@ irgendeinen Erfolg gehabt?«
 »Nur den einen, daß ich merkte, daß ein sehr geheimnisvoller
 Herr, der als Alexander Archibald Norton …«
 
-»Wissen wir, lieber Pfistercrac. Und — Über Norton
+»Wissen wir, lieber Pfistercrac. Und — über Norton
 konnten Sie nichts ermitteln?«
 
 »Nichts — gar nichts. Der Kerl ist zu schlau, zu vorsichtig.
 Aber gerade die Hartnäckigkeit, mit der er stets neue
 Opfer vor Lady Marias Revolver hetzte, bewies mir, daß
-er mit aller Bestimmtheit wissen müßte, der Kopf das des Maharadscha
+er mit aller Bestimmtheit wissen müßte, der Kopf des Maharadscha
 befinde sich im Museum von Cornawoor-Castle —«
 
 »Richtig ist das, sehr richtig!« meinte Harald ernst. »Dieser
@@ -641,7 +641,7 @@ am Steilrand der Küste eine dunkle Masse erkenne …
 Ein … Mensch … gefesselt.
 
 Ein Mensch, den ein Satan halb über den Abgrund geschoben
-hat, — mit den Beinen über der Tiefe hängend
+hat, — mit den Beinen über der Tiefe hängend,
 nur den Oberleib noch als Stütze …
 
 <@pagebreak/>
@@ -1095,7 +1095,7 @@ da — da bemerkte auch ich … den menschlichen Körper, der
 dort bäuchlings über dem Aste hing, Arme und Beine nach
 unten hängend.
 
-Ein Baum war’s in dunkelgrünen Lodenanzug, mit
+Ein Mann war’s in dunkelgrünem Lodenanzug, mit
 dunkler Sportmütze, schwarzem Vollbart …
 
 <@pagebreak/>
@@ -1220,7 +1220,7 @@ Dawes: wo ist der Dolch, durch den Vincent Elliot starb?«
 Und er drehte sich nach dem Riesen um, der abseits an einem
 der Glasschränke lehnte …
 
-Der begann hastig seine Taschen zu Befühlen, brummte
+Der begann hastig seine Taschen zu befühlen, brummte
 schließlich finster: »Wahrhaftig — ich muß das verdammte
 Ding verloren haben — wahrhaftig! Hier in die Brusttasche
 innen hatte ich’s doch gesteckt — in Papier gewickelt, Mister
@@ -1240,7 +1240,7 @@ die Fesseln des Wahnsinns Ihren Geist nicht mehr in Bann
 hielten … —
 
 Das Erscheinen der Lady und ihres Begleiters in Matrosentracht
-übte eine Wirkung aus den allen Allison, auf
+übte eine Wirkung auf den alten Allison, auf
 Claryc und Dawes aus, als sei plötzlich ein Gespenst in
 unseren Kreis getreten …
 
@@ -1302,7 +1302,7 @@ daß der Wahnsinn als drohendes Gespenst neben meinem
 Krankenlager harrte — wartete, bis er sich meiner ganz bemächtigen
 könne. Da ließ ich meinen Bruder Charles Vincent
 Elliot in der Maske eines Arztes zu mir kommen. Wir,
-die bin dahin Verfeindeten, versöhnten uns. Noch lebte der
+die bis dahin Verfeindeten, versöhnten uns. Noch lebte der
 Groll und Haß gegen die Familie meines Mannes in mir.
 Ich bat meinen Bruder, damit im Falle meines Todes die
 Güter der Cornawoors nicht an die Verwandten meines
@@ -1365,7 +1365,7 @@ Ich habe nur noch hinzuzufügen, daß wir noch eine
 Woche im Städtchen Bramby blieben, da Inspektor Dawes
 uns in seiner Harmlosigkeit etwas erzählt hatte, das uns zu
 einem neuen, geradezu erstaunlichen Abenteuer verhalf, das
-ich demnächst unter dem Titel »Die Treppe doch Todes«
+ich demnächst unter dem Titel »Die Treppe des Todes«
 veröffentlichen will.
 
 Nächster Band:

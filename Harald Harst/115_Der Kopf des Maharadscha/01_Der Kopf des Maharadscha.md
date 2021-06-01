@@ -7,7 +7,7 @@
 <h3>Lady Cornawoor.</h3>
 
 Wenn ich den schönen Leserinnen und dem geneigten
-Leser versprochen hatte, noch einiges Über die heilige Säule
+Leser versprochen hatte, noch einiges über die heilige Säule
 Muhammeds, den Tasch el Muhammed, zu berichten, die ja
 im letzten Band eine gewisse Rolle spielt, so muß ich zunächst
 doch, um die Reihenfolge unserer Abenteuer nicht zu unterbrechen,
@@ -36,7 +36,7 @@ Der Kellner verschwand zögernd.
 
 Ich lehnte am Fenster und drehte die Karte der Dame
 mißmutig zwischen den Fingern hin und her. — Eine Lady
-Maria Cornawoor weißt man doch nicht so ohne weiteres ab,
+Maria Cornawoor weist man doch nicht so ohne weiteres ab,
 dachte ich. Man kann doch nie wissen, ob ihr Anliegen nicht
 wirklich dringend ist, zumal auf der Rückseite der Karte mit
 Bleistift in englischer Sprache zu lesen war:
@@ -66,7 +66,7 @@ wurde sie freigesprochen.«
 
 »Allerdings. Und dazu kommt, daß …«
 
-Pause … Unterbrechung: die Tür war ausgeflogen …
+Pause … Unterbrechung: die Tür war aufgeflogen …
 
 Der Kellner trat ein, hinter ihm eine hagere, grau gekleidete
 Dame mit schlohweißem Haar — so eine Art Mannweib
@@ -93,7 +93,7 @@ hatte …
 ich unverrichteter Sache meine Jacht wieder aufgesucht
 hätte …«
 
-Sie erschlug den grauen Schleier ihres breitrandigen Strohhutes
+Sie schlug den grauen Schleier ihres breitrandigen Strohhutes
 hoch und zeigte uns ein tief gebräuntes, von unzähligen
 Falten durchfurchtes, abschreckend mageres Vogelgesicht mit
 ein Paar jugendlich-lebhaften Augen.
@@ -160,7 +160,7 @@ die …«
 »… die jeden Dieb reizen,« beendete Harst den Satz.
 »Sechs Diebe büßten ihre Tollkühnheit, in Ihr Museum
 eindringen zu wollen, mit dem Leben. — Also nun der
-Kopf, Mylady … wie sieht’s damit?«
+Kopf, Mylady … wie steht’s damit?«
 
 »Ich habe ihn nicht! Ich erfuhr erst vor einem Jahr,
 daß der tote Maharadscha von Jaipuvar als heilig verehrt
@@ -311,7 +311,7 @@ Lady Maria Cornawoor blieb noch zehn Minuten.
 
 Wir sprachen den Fall eingehend durch, soweit es dabei
 überhaupt etwas durchzusprechen gab, denn der Tatbestand
-war war. Geheimnisvoll erschien lediglich die Person dieses
+war klar. Geheimnisvoll erschien lediglich die Person dieses
 Alexander Archibald Norton, der einen Kopf stehlen lassen
 <@pagebreak/>
 wollte — in England!! —, einen Kopf, der sich in Indien
@@ -322,7 +322,7 @@ mir: »Ich werde sofort an Oberst Dogberty nach Jaipuvar
 depeschieren. Ich kenne den Oberst nicht, aber einem Harald
 Harst wird er wohl einen Gefallen tun. Die Antwort mag
 er mir postlagernd nach dem Städtchen Bramby an der Ostküste
-Englands senden. Bramby liegt zwei Meilen (englische)
+Englands senden. Bramby liegt zwei Meilen (englische)<@refnote 2/>
 von Schloß Cornawoor entfernt.«
 
 »Und — was wirst Du depeschieren?«
@@ -361,7 +361,7 @@ Wie immer, wenn mein Hirn zu versagen drohte …
 Die Havanna half nichts … Gar nichts …
 
 Die Lady sollte ein verkleideter Mann sein?! Ein Betrüger,
-ein Schindler — —?!
+ein Schwindler — —?!
 
 Mir schwirrte der Kopf …
 
@@ -415,7 +415,7 @@ lächelte er grinsend und zeigte ein wahres Schimpansengebiß.
 
 »Sie wissen?« entschlüpfte es mir …
 
-»Ob ich weiß!! Der Zettel jenes Edward Simpson!!
+»Ob ich weiß!! Der Zettel jenes Edward Tompkins<@refnote 3/>!!
 Ob ich weiß! Vertrag mit Norton! Alles Schwindel!«
 
 Er streckte die Beine weit von sich …
@@ -537,7 +537,7 @@ ein, lehne Sessel vor die Tür, rücke die Koffer davor, baue
 eine Barrikade …
 
 Und fahre entsetzt herum … Polternd ist da irgend
-etwas aus den Boden, den Teppich gefallen …
+etwas auf den Boden, den Teppich gefallen …
 
 Ah — ein Stück Holz, — und an dem Stück Holz ein
 Zettel angebunden …
@@ -561,7 +561,7 @@ hatte sich offenbar an einem Tau von der Reling herabgelassen
 
 Nun — ich muß den Leser enttäuschen …
 
-Weder wurden weitere Attentate versucht, noch fand ich<@refnote 2/>
+Weder wurden weitere Attentate versucht, noch fand ich<@refnote 4/>
 Harald unter den vierzehn Matrosen und Heizern der Jacht
 heraus …
 
@@ -836,7 +836,7 @@ Harald in seiner tadellosen Verkleidung verbeugte sich.
 »Ich habe mir erlaubt, hier einzudringen, ohne jemand
 um Erlaubnis zu fragen. Ich wollte den Gefangenen zunächst
 <@pagebreak/>
-allein sprechen. — Gestatten Sie, Mylady, daß
+allein sprechen. — Gestatten Sie, Mylady, daß ich
 Ihnen Sir Ernest Francis Cornawoor, jüngsten Sohn des
 Bruders Ihres verstorbenen Gatten, vorstelle …«
 
@@ -894,7 +894,7 @@ hatte, die offenbar sämtlich den Kopf des Maharadscha
 stehlen wollten, der — — ebenso offenbar noch in Indien
 sich befindet, da waren mir die Zusammenhänge noch
 völlig dunkel. Erst als ich mit der Jacht meines Freundes
-Edward Wolpoore<@refnote 3/>, die ebenfalls in Aden geankert hatte,
+Edward Wolpoore<@refnote 5/>, die ebenfalls in Aden geankert hatte,
 der Charybdis hier nach England vorausgeeilt war, stellte
 ich in London rasch fest, daß Lord Reginald Cornawoor mit
 den übrigen Familienmitgliedern gänzlich zerfallen war und
@@ -951,7 +951,7 @@ Er schien enttäuscht. Er schloß halb die Augen, dachte
 angestrengt nach …
 
 »Dann haben Sie aus Not sich diesem Norton zur Verfügung
-gesteht, Sir Ernest …« meinte er dann bedächtig.
+gestellt, Sir Ernest …« meinte er dann bedächtig.
 
 Der vielleicht achtundzwanzig Jahre alte Cornawoor
 entgegnete kurz:
@@ -959,7 +959,7 @@ entgegnete kurz:
 »So ist’s! Norton hatte eine Anzeige in verschieden
 Zeitungen eingerückt. Er suchte einen kühnen, entschlossenen
 Menschen gegen glänzende Bezahlung, Mister Harst. Ich
-meldete mich, traf mit Norton an entlegenen Stelle im Park
+meldete mich, traf mit Norton an entlegener Stelle im Park
 zusammen, erhielt dreihundert Pfund als Anzahlung und
 verließ London ohne Wissen meiner Familie, die noch heute
 nicht weiß, daß ich meiner schwerkranken Mutter wegen —
@@ -979,7 +979,7 @@ Sohnesliebe entgleist …«
 Lady Maria stand noch neben dem Sessel. In ihre
 Augen war ein weicher Schimmer getreten …
 
-»Ich werde Ihnen einen Scheck Über 1000 Pfund ausfüllen,
+»Ich werde Ihnen einen Scheck über 1000 Pfund ausfüllen,
 Sir Ernest,« erklärte sie ebenso weich. »Nehmen Sie
 das Geld nur an … Nie wird jemand erfahren, was sich
 hier zugetragen hat …«
@@ -1168,7 +1168,7 @@ weit offen, fanden im Schloß noch den Dietrich und außerdem
 eine Unordnung, die klar darauf hinwies, daß jemand
 in wilder Hast irgend etwas gesucht hatte …
 
-Harsts trat ins Freie …
+Harst trat ins Freie …
 
 <@pagebreak/>
 Die Wege waren zum Empfang der Lady frisch geharkt
@@ -1217,6 +1217,7 @@ Harald trat zu ihm …
 War Lady Maria vor zwei Jahren längere Zeit in Indien?«
 
 »Ja, Mister Harst, — vier Monate.«
+
 »Und — — hatte sie noch Verwandte von ihrer Familie
 her? Sie war doch eine geborene Elliot.«
 
@@ -1338,7 +1339,7 @@ Scharfer Oststurm umwehte uns …
 Draußen vor dem Eingang der kleinen Bucht brandete
 Meer — die Nordsee — das Heimatsmeer …
 
-Und Harst sagte, indem er sich Über die Tote beugte:
+Und Harst sagte, indem er sich über die Tote beugte:
 
 »Auch erstochen! — Da …«
 
@@ -1356,7 +1357,7 @@ Da — — eine andere Stimme — drohend befehlend:
 »Rühren Sie sich nicht! Ich warne Sie!!«
 
 Diese Stimme hatte für mich etwas Bekanntes, etwas,
-das nicht … an Thomas Jonas Pfistercrac erinnerte.
+das mich … an Thomas Jonas Pfistercrac erinnerte.
 
 Und wieder ein Zuruf: »Strecken Sie die Arme nach
 hinten!! Ich drücke ab, falls Sie auch nur den leisesten
@@ -1367,7 +1368,7 @@ habe sehr wohl gesehen, daß Sie Ihrer vier sind, Masken
 tragen und Revolver bereithalten. — Gehorche, mein Alter.
 Es muß sein!«
 
-Ich war ein wenig erstaunt Über Haralds Redseligkeit.
+Ich war ein wenig erstaunt über Haralds Redseligkeit.
 In solchen Lagen beobachtet er zumeist nur und erwägt, wie
 die Partie für uns günstiger gestaltet werden könnte …
 
@@ -1398,7 +1399,7 @@ in See … Mit uns — mit zwei Gefangenen. — Und
 stärker rollt und stampft der Segler …
 
 Dann eine Stimme dicht vor uns: »So, Mister Harst,
-nun — nur haben wir Sie!! Und Sie werden uns jetzt
+nun — nun haben wir Sie!! Und Sie werden uns jetzt
 den Kopf des Maharadscha von Jaipuvar beschaffen — so
 oder so …! Wenn nicht, werden Sie und Ihr Freund
 auf ein Brett gebunden und mit einem Stück Eisen an den
