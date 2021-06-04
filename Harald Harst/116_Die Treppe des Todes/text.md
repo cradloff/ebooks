@@ -9,8 +9,8 @@
 Auch Ich liebe es, meine Leser und Freunde stets aufs
 neue zu überraschen …
 
-Ich, Max Schraut, Bieter Begleiter und Intimus des
-genialen Harald Harst, will hier gleich aus der ersten Seite
+Ich, Max Schraut, steter Begleiter und Intimus des
+genialen Harald Harst, will hier gleich auf der ersten Seite
 die Treppe des Todes bringen …
 
 Sie sah *so* aus:
@@ -18,27 +18,27 @@ Sie sah *so* aus:
 <#include "treppe.ftl">
 
 — Der Leser ahnt nun bereits, weshalb ich diesem
-unserem Abenteuer den Titel »Die Treppe des Todes« ge
-neben habe: nur deshalb, weil obige Geheimschrift auch im
-Original in gleicher Mexiko abgekauft war, also jede folgende
-Zeile die gorhergehende ein wenig überragte …
+unserem Abenteuer den Titel »Die Treppe des Todes« gegeben
+habe: nur deshalb, weil obige Geheimschrift auch im
+Original in gleicher Weise abgestuft war, also jede folgende
+Zeile die vorhergehende ein wenig überragte …
 
 <@pagebreak/>
 
 Nicht nur deshalb …
 
 In der Geheimschrift selbst liegt dann noch ein weiterer
-ne! verborgen, daß ich den Titel mit Recht gewählt
-Gabe. — —
+Beweis verborgen, daß ich den Titel mit Recht gewählt
+habe. — —
 
 Nun kurz die Vorgeschichte …
 
-Der Leser weiß, daß wir auf dem Schloß ter Lady Cor-nawoor
-an der englischen Ostküste den Kopf des MahbaradsHa
-den Eigentümern wieder zustellen halfen, daß wir dort bin
+Der Leser weiß, daß wir auf dem Schloß der Lady Cornawoor
+an der englischen Ostküste den Kopf des Maharadscha
+den Eigentümern wieder zustellen halfen, daß wir dort den
 Polizeiinspektor Thomas Dawes aus dem nahen Städtchen
-Bramby kennenlernten und daß wir uns entschlossen halt
-noch ein paar Tage Brambys idyllische Umgebung als Gar!e
+Bramby kennenlernten und daß wir uns entschlossen hatten,
+noch ein paar Tage Brambys idyllische Umgebung als Gäste
 Dawes’ zu genießen,
 
 Thomas Dawes ist ein Gemütsmensch …
@@ -47,21 +47,21 @@ Dazu Junggeselle, Briefmarkensammler und fünfzig
 Jahre alt.
 
 Sein Äußeres zu beschreiben erübrigt sich: er ist der
-Typ des qutgenährten, im Ulitanseinerlci versauerten Kleiu-städters,
-dabei ein Mann von Herz und vielseitigem Wies. n,
+Typ des gutgenährten, im Alltagseinerlei versauerten Kleinstädters,
+dabei ein Mann von Herz und vielseitigem Wissen.
 
-Nur — Polizeibcanmter ist er nicht.
+Nur — Polizeibeamter ist er nicht.
 
-Nein, ihm fehl: so ziemlich alles, junge zu einem strengen,
+Nein, ihm fehlt so ziemlich alles, was zu einem strengen,
 findigen, mißtrauischen Beamten gehört. —
 
-So saßen wir denn an einem Julimorgen in der Weigert
-des Häuschens unseres neuen Bekannten beim Brütend
+So saßen wir denn an einem Julimorgen in der Weinlaube
+des Häuschens unseres neuen Bekannten beim Frühstück
 …
 
 Die Laube lag auf einem Hügel des Gartens, und man
 konnte von hier aus bequem die nahe Straße in ihrer sonnigen
-Verschlafsenhcit überblicken …
+Verschlafenheit überblicken …
 
 Mit einem Male sagte Dawes:
 
@@ -69,10 +69,10 @@ Mit einem Male sagte Dawes:
 Halt — das bringt mich auf etwas, wofür Sie sich vielleicht
 interessieren, Mister Harst …«
 
-Harald schaute der buckligen, hinkenden Gestalt bot So
-Motors nach und meinte:
+Harald schaute der buckligen, hinkenden Gestalt des Doktors
+nach und meinte:
 
-»Zunächst, mein verlor Dawes, interessiert es mich, ob
+»Zunächst, mein werter Dawes, interessiert es mich, ob
 Groupy immer so hinkt,«
 
 Dawes blickte überrascht auf.
@@ -90,7 +90,7 @@ Und Harst steckte eine seiner Mirakulum in Brand.
 
 »Gestatten Sie mal!« Dawes rosiges Gesicht wurde
 dunkler. »Gestatten Sie mal — dies Geheimnis ist sicherlich
-nicht für die Katz! Hören Sie nur mal zu. — Also vor
+nicht für die Katz’! Hören Sie nur mal zu. — Also vor
 zwei Wochen kam der Privatgelehrte Doktor John
 Groupy —«
 
@@ -103,53 +103,53 @@ dicht am Walde gegenüber dem sogenannten Henker-Hause
 »Henker-Haus?«
 
 »Ja. Es ist sehr alt und verfallen. Vor hundertachtzig
-Jahren ließ es sich der Londoner Henker Bastimon, der wir
-rühmte Bastimon, erbauen, um hier in Ruhe seine letzten
+Jahren ließ es sich der Londoner Henker Bastimon, der berühmte
+Bastimon, erbauen, um hier in Ruhe seine letzten
 Lebensjahre zu verbringen. Er erreichte bekanntlich ein
-Alter von hundertundsechs Jahren, und genau soviel Überlistet
+Alter von hundertundsechs Jahren, und genau soviel Übeltäter
 hat er — ein seltsamer Zufall — mittels Strick vom
 Leben zum Tode sanft hinübergeleitet. Er verstand sein
 Handwerk. Von ihm gehenkt zu werden, war ein Vergnügen.«
 
-»Haben Sie’s ausprobiert, neuer Dawes?« schmunzelte
+»Haben Sie’s ausprobiert, lieber Dawes?« schmunzelte
 Harald.
 
 Dawes machte eine ärgerliche Handbewegung.
 
-»Unterbrechen Sie mich nicht fortwährend. Bad der
-trage ich nicht. — Also Groupy wohnt dem Henker-Hause,
-das nach Bastimons Tod zumeist kreisrund, gerade gegenüber
-in einer kleinen Villa, Diese beiden Gebäude, inmitten
+»Unterbrechen Sie mich nicht fortwährend. Das vertrage
+ich nicht. — Also Groupy wohnt dem Henker-Hause,
+das nach Bastimons Tod zumeist leerstand, gerade gegenüber
+in einer kleinen Villa. Diese beiden Gebäude, inmitten
 großer Gärten gelegen, sind dort in der Vorstadtstraße nach
 dem Walde zu die beiden einzigen …«
 
-»Wer haust trat in der Henker-Bude?«
+»Wer haust jetzt in der Henker-Bude?«
 
 <@pagebreak/>
-»Ein alles Ehepaar, die das Haus vor zwanzig Jahren
-für ein Knallgelb sausten …«
+»Ein altes Ehepaar, die das Haus vor zwanzig Jahren
+für ein Spottgeld kauften …«
 
-»Hält Groupy sich Bedienung k?«
+»Hält Groupy sich Bedienung?«
 
 »Die alte Frau Honpelly, eben die Gattin des jetzigen
 Besitzers des Henker-Hauses, säubert ihm die Zimmer. Alles
-andere befolgt sich Groupy selbst; Kochen, Näher, Stopfen,
-Waschen, Plätzen …«
+andere besorgt sich Groupy selbst: Kochen, Nähen, Stopfen,
+Waschen, Plätten …«
 
 »Ein Genie …!«
 
-»Fraglos! Der Doktor Ist der beste Briefmarkensachver-ständige,
-den ich Tenne. — Also vor vierzehn Tagen kam er
+»Fraglos! Der Doktor Ist der beste Briefmarkensachverständige,
+den ich kenne. — Also vor vierzehn Tagen kam er
 zu mir …«
 
 Dawes schwieg …
 
-Im Laubencingang war seine Haushälterin erschienen.
+Im Laubeneingang war seine Haushälterin erschienen.
 
 »Mister Dawes,« krähte die hagere Person, »Doktor
 Groupy möchte Sie sprechen — allein sprechen,«
 
-Der Inspektor erhob Ich …
+Der Inspektor erhob sich …
 
 »Entschuldigen Sie, meine Herren … Bin gleich wieder
 da … —
@@ -157,12 +157,12 @@ da … —
 Und Harst und ich waren allein und träumten behaglich
 vor uns hin …
 
-Acker dem Goldlackbeet da vorn summten fleißige Bienen.
-Dar hörte das Summen bis zu uns hin.
+Über dem Goldlackbeet da vorn summten fleißige Bienen.
+Man hörte das Summen bis zu uns hin.
 
-Huf der Straße gackerten Hühner …
+Auf der Straße gackerten Hühner …
 
-In der Ferne hellte ein Hund … —
+In der Ferne bellte ein Hund … —
 
 Harald gähnte …
 
@@ -176,104 +176,104 @@ Da kam Dawes zurück — blaurot im Gesicht — wütend
 »Denken Sie, dieser Lump, der Groupy, hat es gewagt,
 mich, den Polizeiinspektor Dawes, zum Narren zu halten!«
 
-Er fehle sich — leuchte — schnaubte;
+Er setzte sich — keuchte — schnaubte:
 
-»Denken Sie; die ganze Geschichte, die er mir da von
-der Geheimschrift erzählt hat, ist glatt erfunden gerechten!
-Unerhört! Rausgeschmissen Hab’ Ich den Keck! Wir das
-zu bieten — mir!!««
+»Denken Sie: die ganze Geschichte, die er mir da von
+der Geheimschrift erzählt hat, ist glatt erfunden gewesen!
+Unerhört! Rausgeschmissen Hab’ Ich den Kerl! Mir das
+zu bieten — mir!!«
 
 <@pagebreak/>
 »Ein Witzbold!« lächelte Harald. »Beruhigen Sie sich
 doch, bester Dawes, …«
 
-Der Inspektor schenkte sich einen Kornbranntwein ein
+Der Inspektor schenkte sich einen Kornbranntwein ein,
 trank, beleckte sich die Lippen.
 
-Und meinte: »Eigen1ilich haben Ehe recht, Über Harsts
-Der Mensch ist es gar nicht wert, daß ein Polizeiinspekto
+Und meinte: »Eigentlich haben Sie recht, lieber Harst.
+Der Mensch ist es gar nicht wert, daß ein Polizeiinspektor
 sich seinetwegen aufregt!«
 
 Er füllte auch unsere Likörgläser.
 
 »Prosit! Auf daß Sie recht lange meine Gäste bleiben!«
 
-Pest tranken … Es war der dritte Likör zum Frühstück …
+Wir tranken … Es war der dritte Likör zum Frühstück …
 
 Harst rauchte bedächtig, sagte ganz harmlos:
 
-»Immerhin könnten Sie und ja mal erzählen, mein
-lieber Dawes, was Doktor John Groupy ich da für ein
-geheimnisvolles Geschicdtchen ausgedacht bat … E83 wäre
+»Immerhin könnten Sie uns ja mal erzählen, mein
+lieber Dawes, was Doktor John Groupy sich da für ein
+geheimnisvolles Geschichtchen ausgedacht hat … Es wäre
 mir ganz interessant zu prüfen, ob dieser Privatgelehrte
-wenigstens als Lügner Phantasie bellt.«
+wenigstens als Lügner Phantasie besitzt.«
 
 Dabei warf Harald mir einen kurzen Blick zu, den ich sehr
 wohl verstand …
 
-Der Blick besagte: »Nr wahr, es ist doch sehr auffällig,
+Der Blick besagte: »Nicht wahr, es ist doch sehr auffällig,
 daß Groupy sein »Geheimnis« gerade jetzt gleichsam
 widerruft, wo wir beide hier im Städtchen aufgetaucht sind!«
 
 Und — in dieser Beziehung gab ich Harald vollkommen
-recht. Auch mich hatte des Doktor? nunmehrige Behauptung,
+recht. Auch mich hatte des Doktors nunmehrige Behauptung,
 nur eine erfundene Geschichte erzählt zu haben, sehr sonderbar
 berührt, zumal er zu dieser scheinbaren Ehrlichkeit doch in
-seiner Weise gezwungen worden war. —
+keiner Weise gezwungen worden war. —
 
-Inspektor Dawes hatte aus Haralds letzte Worte sich knallend
+Inspektor Dawes hatte auf Haralds letzte Worte sich knallend
 auf den Schenkel geschlagen. Er war schon wieder
 bester Laune und krähte vergnügt:
 
-»Hahn, — — haben Sie eine Ahnung, Harst! Ob der
-Strömt Thantasle besitzt — — ob! Sogar einen Zelte!
-mit der Gehelmnschtist gab er mit bemalt, der alte Schiviinb:
-er …!«
+»Haha, — — haben Sie eine Ahnung, Harst! Ob der
+Groupy Phantasie besitzt — — ob!! Sogar einen Zettel
+mit der Geheimschrift gab er mit damals, der alte Schwindler
+…!«
 
-»Haben Sie den Zettel noch?« fragte Harald gelang
-weilt tuend.
+»Haben Sie den Zettel noch?« fragte Harald gelangweilt
+tuend.
 
 <@pagebreak/>
 
 »Gewiß — hier ist er!« Dawes hatte das Stück Papier
-As seiner Brieftasche hervorgeholt.
+Aus seiner Brieftasche hervorgeholt.
 
-Zu diesem verrückten Wisch tischte er mir folgende Geflickte
-aus!« meinte der Inspektor und entfaltete den Zettel.
+»Zu diesem verrückten Wisch tischte er mir folgende Geschichte
+auf!« meinte der Inspektor und entfaltete den Zettel.
 »Er habe da eines Abends im Mai so gegen elf Uhr
-In der vorderen Hauswand seiner Villa ganz zufällig ein
-helles Etwas bemerkt — eine Art leck, der wie eine
+an der vorderen Hauswand seiner Villa ganz zufällig ein
+helles Etwas bemerkt — eine Art Fleck, der wie eine
 Treppe etwa aussah, einen schrägen Fleck von einem Meter
 Länge. — Die Villa ist nämlich bis zum ersten Stock aus
-dunklem Granit aufgeführt, und auf dem dunklen Stein
+dunklem Granit ausgeführt, und auf dem dunklen Stein
 zeichnete sich die helle Stelle in der Nacht natürlich sehr
-starr ab —«
+scharf ab —«
 
 »Natürlich? Weshalb natürlich?« warf Harald ein.
 
-»un — Begann behauptete Doch, der Fleck habe geradezu
+»Nun — Groupy behauptete Doch, der Fleck habe geradezu
 geleuchtet, als ob dort jemand mit Leuchtfarbe den Granit
 angepinselt hätte …«
 
 »Ah so! — Und weiter?«
 
-»Na — prompt untersuchte den Fleck genauer und
-wurde daraus nicht recht schlau. Er bat dann, log er mir vor,
+»Na — Groupy untersuchte den Fleck genauer und
+wurde daraus nicht recht schlau. Er hat dann, log er mir vor,
 seine Kamera geholt und »Die Treppe« photographiert —
-gleich dreimal, und jede Platte hat er verschieden lange berichtet.
+gleich dreimal, und jede Platte hat er verschieden lange belichtet.
 Als er die Platten nachher entwickelt und Abzüge
-davon hergestellt hatte, als er den stärksten dieser Abzüge
+davon hergestellt hatte, als er den schärfsten dieser Abzüge
 noch vergrößerte, da — so log er weiter — hätte er erkannt,
 daß die helle, leuchtende Treppe aus Reihen von Silben bestanden
 habe. — Er schrieb mir die Silben genau so ab —
-in Treppensorm —, und dies hier ist nun angeblich die Geheimschrift,
+in Treppenform —, und dies hier ist nun angeblich die Geheimschrift,
 die Groupy nur ein einziges Mal am 15. Mai
 dieses Jahres an seiner Hauswand als hellen Fleck gefunden
-haben will …,«
+haben will …«
 
-Irrt nahm den Zettel und besichtigte Ihn …
+Harst nahm den Zettel und besichtigte Ihn …
 
-ich rühre näher heran …
+ich rückte näher heran …
 
 Und so sah Ich denn zum ersten Male … die Todestreppe
 — die Treppe des Todes, wie ich sie zu Anfang dieses
@@ -288,18 +288,18 @@ Und nach drei — vier Minuten Harald:
 »Haben Sie versucht, diese Silben richtig zusammenzustellen,
 lieber Dawes?«
 
-»Ja, gewiß! Groupy bat mich je darum, und ich —
-Milch Schattiert glaubte ihm ja! Er sagte, Ihm sei es nicht
+»Ja, gewiß! Groupy bat mich ja darum, und ich —
+ich Schafskopf glaubte ihm ja! Er sagte, Ihm sei es nicht
 gelungen, einen Sinn in all die Silben zu bringen. — Ich
 hab’s probiert, habe viele Stunden gesessen und viele Bogen
-vollgeschmiert — mit Lösungsversuchen !«
+vollgeschmiert — mit Lösungsversuchen!«
 
 Harst lachte …
 
 »Wirklich ein Witzbold der Groupy! Natürlich haben
-Sie Silben überhaupt keinen Sinn. Der Doktor hat eben
-ganz willkürlich irgendwelche Wortteile aneinandergesülgt —
-um Bilde einer Treppe. — Werfen wohl also auch Groupyèë
+die Silben überhaupt keinen Sinn. Der Doktor hat eben
+ganz willkürlich irgendwelche Wortteile aneinandergefügt —
+zum Bilde einer Treppe. — Werfen wohl also auch Groupys
 Wisch auf den Kehrichthaufen! Sonst ärgern Sie sich stets
 von neuem, lieber Dawes …«
 
@@ -307,18 +307,18 @@ Und er knüllte den Zettel in der Hand zur Kugel zu
 zusammen, verließ die Laube und schritt — lachend dem
 Kehrichthaufen zu.
 
-»Recht so!« rief der ahnungslose Lnspektor. »Recht soll
-Daraus trinken wir noch einen! !» — —
+»Recht so!« rief der ahnungslose Inspektor. »Recht so!!
+Darauf trinken wir noch einen!!« — —
 
 Ich wußte genau, daß der Zettel jetzt in Haralds Tasche
-edle …
+steckte …
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 <h3>Der Name Margitt.</h3>
 
-Und Salzig kam und setzte sich wieder, nahm eine neue
+Und Harald kam und setzte sich wieder, nahm eine neue
 Zigarette und fragte:
 
 »Sagen Sie mal, bester Dawes, wann wurden denn in
@@ -326,17 +326,17 @@ diesem Jahre hier bei Ihnen die Bäume grün?«
 
 Dawes blickte Harst überrascht an.
 
-»Wie kommen Sie denn mit einem Male gerade darauff««
-fragte er nußtranifch.
+»Wie kommen Sie denn mit einem Male gerade darauf?«
+fragte er mißtrauisch.
 
 »Na — weil ich das Gespräch eben in andere Bahnen
-lenken wir. prompt ist abgetan. — Also, wann wurde es
-scheuer grün in Bramby?«
+lenken will. Groupy ist abgetan. — Also, wann wurde es
+heuer grün in Bramby?«
 
-»Mit einem Schlage, Hebel Harst …, Über Nacht sozusagen.
-Uns hatte gegen gesellt. Und der kam dann ganz
-Bläulich und so reichlich, daß Innerhalb zwölf Stunden, zur
-mal am Tage noch die Sonne es sehr gut meinte, die Kastanien
+»Mit einem Schlage, lieber Harst … Über Nacht sozusagen.
+Uns hatte Regen gefehlt. Und der kam dann ganz
+plötzlich und so reichlich, daß Innerhalb zwölf Stunden, zumal
+am Tage noch die Sonne es sehr gut meinte, die Kastanien
 und die Linden in wundervollstem Grün sich zeigten.«
 
 Harald blies drei Rauchringe …
@@ -344,44 +344,44 @@ Harald blies drei Rauchringe …
 »Und — an welchem Tage war das?« fragte er sinnend,
 
 »Hm — das war — das war, — richtig: in der Nacht
-vom 15, zum 16. Mai setzte der gegen ein, und am seh
-zehnten abends war’s grüner Frühling geworden .„…«
+vom 15. zum 16. Mai setzte der Regen ein, und am sechzehnten
+abends war’s grüner Frühling geworden …«
 
-»Am — sechzehnten — abends, …« wiederholte Harald
+»Am — sechzehnten — abends …« wiederholte Harald
 wie geistesabwesend.
 
-Da Bude selbst der harmlose Damen aufmerksam.
+Da wurde selbst der harmlose Dawes aufmerksam.
 
-»Voran denken Sie?« fragte er hastig.
+»Woran denken Sie?« fragte er hastig.
 
-»An meine Spargelbecte in Berlin - Schmargendorf,
-Blüicherittaße 10 … Arm sechzehnten Mai stachen wir die
+»An meine Spargelbeete in Berlin-Schmargendorf,
+Blücherstraße 10 … Am sechzehnten Mai stachen wir die
 <@pagebreak/>
 ersten Spargel. — Es war doch so, mein Alter, oder nicht —
-oder war’s ein früherer Tag kf«
+oder war’s ein früherer Tag?«
 
-Ich zuckte die Achteln …
+Ich zuckte die Achseln …
 
 »Keine Ahnung mehr!«
 
-Und das stimmte auch. Wir waren Spargel nicht so
+Und das stimmte auch. Mir waren Spargel nicht so
 wichtig. Wichtiger war mir’s jetzt, dahinterzukommen, weshalb
 Harald hier nach dem ersten Termin des Blattschmucks
-der Bäume gefragt hatte. Ohne Absicht, ohne Grund fiel
+der Bäume gefragt hatte. Ohne Absicht, ohne Grund stellt
 er derartige Fragen nicht.
 
 Da erklärte er schon:
 
-»Sie müssen nun ja in den Dienst, lieber Dawes, und!
+»Sie müssen nun ja in den Dienst, lieber Dawes, und
 Schraut und ich werden eine Radtour unternehmen. Wo
 kann man Fahrräder leihen?«
 
 »Das haben Sie nicht nötig. Ich besitze ein großes
-Motorrad mit zweitem Sattel, Es ist eine tadellose Maschine.«
+Motorrad mit zweitem Sattel. Es ist eine tadellose Maschine.«
 
 »Mit Dank angenommen! — Vorwärts, Max Schraut,
 packe unsere Rucksäcke! Aus Koffer eins kommt Kasten zwei
-hinein und alles, was dazu gehört — nämlich zur Film-famera,«
+hinein und alles, was dazu gehört — nämlich zur Filmkamera,«
 fügte er für Dawes hinzu.
 
 Ich wußte es besser:
@@ -392,18 +392,18 @@ Kasten zwei bedeutete Bettlerkostüme. —
 Ich ging ins Haus — in unsere beiden Gastzimmer nach
 oben …
 
-Und als ich mit den gefüllten Unklaren die Laube vier
-der betrat, saß Harald dort mit Bleistift und. Papier und
+Und als ich mit den gefüllten Rucksäcken die Laube wieder
+betrat, saß Harald dort mit Bleistift und Papier und
 entzifferte die Geheimschrift.
 
 Ich blickte ihm über die Schulter … Las … las …
 mit immer starrer werdendem Blick!
 
-> »Hielten-Sie mir. Retten Sie mich. Mein eigener
-Gatte hält mich hier gefangen und trachtet wie nach dem
-Leben. Wenden Sie sich an Nager Balling, London,
-Pall Street aha. Haben Sie Erbarmen mit einer Nu
-glücklichen. Margitt Sheffield.«
+> »Helfen Sie mir. Retten Sie mich. Mein eigener
+Gatte hält mich hier gefangen und trachtet mir nach dem
+Leben. Wenden Sie sich an Roger Darbing, London,
+Pall Street acht. Haben Sie Erbarmen mit einer
+Unglücklichen. Margitt Sheffield.«
 
 <@pagebreak/>
 
@@ -415,57 +415,57 @@ Worte schreibend hinzugefügt
 Und er schob den Zettel in die Tasche und verbrannte
 seine Lösung mit einem Zündholz,
 
-Ich war noch immer über den Inhalt der Gceheinfchrift
+Ich war noch immer über den Inhalt der Geheimschrift
 so bestürzt, daß ich erst gleichsam erwachte, als das Zündholz
-knisternd ausslanmmte.
+knisternd aufflammte.
 
-»Was hälst Du davon?« platzte ich heraus.
+»Was hältst Du davon?« platzte ich heraus.
 
 »Sehr viel, mein Alter.«
 
 Und er nahm mir den Rucksack ab.
 
 »Alles weitere erfährst Du an einer verschwiegenen
-Stelle im Wade, wo wir uns als Landstreicher kostümieren,
-das Motorrad verborgen und Paktes Groupy dann zu Fuß
+Stelle im Walde, wo wir uns als Landstreicher kostümieren,
+das Motorrad verbergen und Doktor Groupy dann zu Fuß
 einen Besuch abstatten werden.« —
 
 Eine halbe Stunde später saßen zwei bärtige Stromer
-in einem Walddickicht und legten die leite Hand an ihre
+in einem Walddickicht und legten die letzte Hand an ihre
 Toilette.
 
 In diesem Falle bedeutete das: sie sorgten dafür, daß
 auch ihre Fingernägel und Hände jene schmierige Echtheit
-auswiesen, wie sich zu Lanbdftreichern paßt.
+aufwiesen, wie sich zu Landstreichern paßt.
 
-Harald niuusterte mich nun prüfend, nickte und meinte:
-»Tadellos! Dawes würde uns so im Leben richtet wiedererkennen!
+Harald musterte mich nun prüfend, nickte und meinte:
+»Tadellos! Dawes würde uns so im Leben nicht wiedererkennen!
 Gehen wir!! —
 
-Wir hatten den Motorfnatterer tadellos versteckt. Wir
-Einarbeiten liegt einen Fußweg entlang, kamen sehr bald auf
+Wir hatten den Motorknatterer tadellos versteckt. Wir
+wanderten jetzt einen Fußweg entlang, kamen sehr bald auf
 die Chaussee.
 
-Und nun:abließ begann Harald zu sprechen, nachdem er
+Und nun endlich begann Harald zu sprechen, nachdem er
 meine vielfachen Fragen bisher überhört hatte,
 
-»Daß Groupy magst vor uns hat, daß die Geschichte mit
-dein hellen Fleck an vor Hauch- wand stimmt, — das altes und
-noch mehr Bürste Dir einleuchten, lieber Alter. Und wenn
-ich Dawes nach dem ersten Grün fragte, so sein: ich’s Deshalb,
-weil ich sofort vermutet hatte, der heuchelte Fleck sei
-durch eine Laterna machen oder einen ähnlichen Apparat
+»Daß Groupy Angst vor uns hat, daß die Geschichte mit
+dem hellen Fleck an der Hauswand stimmt, — das alles und
+noch mehr dürfte Dir einleuchten, lieber Alter. Und wenn
+ich Dawes nach dem ersten Grün fragte, so geschah’s Deshalb,
+weil ich sofort vermutet hatte, der leuchtende Fleck sei
+durch eine Laterna magica oder einen ähnlichen Apparat
 <@pagebreak/>
-von dem Henker-Hause ans auf den Burnussen Granit getroffen
-worden, und weil vielleicht! der Blattschmuck der Bäume diese
-Projizierung der Geheim:schritt auf die Wand der Villa
+von dem Henker-Hause aus auf den dunklen Granit geworfen
+worden, und weil vielleicht der Blattschmuck der Bäume diese
+Projizierung der Geheimschrift auf die Wand der Villa
 fernerhin vereitelt hatte — Du verstehst: am fünfzehnten
-Mal! bemerkt Gerankt den Fleck, und am sechzehnten sind die
-Bäume grün geworden, — und nie wieder sich! der Doktor
+Mai bemerkt Groupy den Fleck, und am sechzehnten sind die
+Bäume grün geworden, — und nie wieder sieht der Doktor
 die helle Treppe!«
 
 »Ich verstehe. — Mithin müßte diese Margitt Sheffield
-im Henker-Hause gefangen gehalten werden f«
+im Henker-Hause gefangen gehalten werden?«
 
 »Ja, natürlich! Im Henker-Hause, wo *nur* ein altes
 Ehepaar wohnt!«
@@ -473,38 +473,38 @@ Ehepaar wohnt!«
 Er betonte das »nur« …
 
 Und fuhr fort: »Groupy, Doktor und Privatgelehrter,
-interessiert mich vorderhand am meisten. Enitsinne Dich: ich
-fragte Dawes, ob Groupy immer so hinkte, …«
+interessiert mich vorderhand am meisten. Entsinne Dich: ich
+fragte Dawes, ob Groupy immer so hinkte …«
 
-»Allerdings. Und — —
+»Allerdings. Und — —?«
 
-»Er hinkte nämlich falsch …
+»Er hinkte nämlich falsch …«
 
-»Was Weint das €«
+»Was heißt das?«
 
-Ich könnte Wir nun einen medizinischen Vortrag über
+Ich könnte Dir nun einen medizinischen Vortrag über
 Beinverkürzungen, Hinken und Hüftveränderungen halten.
-Das ist mir zu (anameilig. Jedenfalls: Groupy ist Sinnesart!
+Das ist mir zu langweilig. Jedenfalls: Groupy ist Simulant!
 Er ist gar nicht lahm!«
 
-»Ab — und zu glaubst, Baß er vielleicht der Gatte jener
+»Ah — und zu glaubst, daß er vielleicht der Gatte jener
 Margitt …«
 
-Da fhwicaib … da fiel mir ein, welch ungeheuerlichen
-Unsinn ich soeben hatte Hinfcditvagen wollen! Denn — wie
-hätte Groupy sich wohl mit der Geheimschrift an Dawes gegen
+Da schwieg ich … da fiel mir ein, welch ungeheuerlichen
+Unsinn ich soeben hatte hinschwatzen wollen! Denn — wie
+hätte Groupy sich wohl mit der Geheimschrift an Dawes gewandt,
 wenn er diese Margitt im Henker-Hause eingesperrt
-irrt …!
+hielt …!
 
 Harald lachte leise.
 
 »Ein Glück, daß zu noch zur rechten Zeit mit dem Unsinn
-abstopptest! — Nein, Groupy hat ganz andere Gründe sei
-habt, seine Mitteilungen Über Die leuchtende Treppe zu widert
-rufen, — Gründe, die in seiner Vergangenheit liegen. Diese
-Vergangenheit Dir sie recht dunkle Stellen enthalten. Denn
+abstopptest! — Nein, Groupy hat ganz andere Gründe gehabt,
+seine Mitteilungen Über Die leuchtende Treppe zu widerrufen,
+— Gründe, die in seiner Vergangenheit liegen. Diese
+Vergangenheit dürfte recht dunkle Stellen enthalten. Denn
 <@pagebreak/>
-So a9 möchte fast behaupten, daß auch Groupys Bude! falsch
+— ich möchte fast behaupten, daß auch Groupys Buckel falsch
 ist …«
 
 Wir näherten uns dem Waldrande.
@@ -512,24 +512,24 @@ Wir näherten uns dem Waldrande.
 Bogen nach rechts ab, in die staubige Vorstadtstraße von
 Bramby.
 
-Da lagen denn auch zwei bedaure Grundftide an der
-Straße sich gegenüber — ohne sonstige Nachbarschaft — Ins
-mitten von Gärten: Groupys kleine saubere Villa und das
+Da lagen denn auch zwei bebaute Grundstücke an der
+Straße sich gegenüber — ohne sonstige Nachbarschaft — inmitten
+von Gärten: Groupys kleine saubere Villa und das
 verfallene uralte Henker-Haus. —
 
-Harald schwenkte aus die Zaunpforte des Henker-Hauses
+Harald schwenkte auf die Zaunpforte des Henker-Hauses
 zu, zog am Glockengriff.
 
-Und sofort stürmten aus das ferne Bimmeln einer Klingel
-hin zwei riesige gelbe Doggen herbei — Köter wie die Halber
+Und sofort stürmten auf das ferne Bimmeln einer Klingel
+hin zwei riesige gelbe Doggen herbei — Köter wie die Kälber
 — Wächter wie die Tiger.
 
 Dann bog um die Büsche ein gebücktes Männchen herum
 — schlurfte herbei auf zerrissenen Pantoffeln — ein kläglicher
 Anblick.
 
-Ein Greis war’s mit einem gelblichen Leiden sgesichi, uns
-ruhigen, scheuen Augen …
+Ein Greis war’s mit einem gelblichen Leidensgesicht, unruhigen,
+scheuen Augen …
 
 Harald streckte die schäbige Mühe bittend über den Zaun,
 
@@ -538,42 +538,42 @@ gegessen.«
 
 Das Männlein trat noch näher heran …
 
-»Geld — Geld habe ich nicht,« meinte er will erringen
-Stimme. »Über ein Stück Brot — das ja! Weine Frau
-ist gerade in der Stadt zu Einkäufen. Da kann ich’s Wohl
+»Geld — Geld habe ich nicht,« meinte er mit zittriger
+Stimme. »Aber ein Stück Brot — das ja! Meine Frau
+ist gerade in der Stadt zu Einkäufen. Da kann ich’s wohl
 wagen, Sie beide in die Küche mitzunehmen,«
 
 Er schloß die Pforte auf.
 
 Die Hunde aber verwehrten uns den Eintritt.
 
-So sehr vor Greis sich auch abmühte, sie an den Auf
-Bändern wegzusühren und sie einzusperren: sie tränkten sich
+So sehr der Greis sich auch abmühte, sie an den Halsbändern
+wegzuführen und sie einzusperren: sie sträubten sich
 so kraftvoll und gehorchten ihm so wenig, daß er schließlich
 erklärte:
 
-»Warten Ehe, Ich hole Ihnen zwei Stücke Brot und
-ein Ende Wurst
+»Warten Sie. Ich hole Ihnen zwei Stücke Brot und
+ein Ende Wurst …«
 
 Er schlurfte davon.
 
 <@pagebreak/>
-Die Doggen blichen, belauerten durch den hohen, neuen
-Staketenzaun jede unserer Vervequngen.
+Die Doggen blieben, belauerten durch den hohen, neuen
+Staketenzaun jede unserer Bewegungen.
 
 »Sehr kennzeichnend!« flüsterte Harald. »Dieser alte
-Mann sich! völlig unter dem Pantoffel! Nicht mal die
-Hunde respektieren ihn! Und — er bat traurige, scheue
+Mann steht völlig unter dem Pantoffel! Nicht mal die
+Hunde respektieren ihn! Und — er hat traurige, scheue
 Augen. Vielleicht deshalb, weil er weiß, daß Margitt Sheffield
 hier gefangen gehalten wird. — Jedenfalls kennen wir
-nun immerhin einiges über die bewohnen des Henker—Hauses
+nun immerhin einiges über die Bewohner des Henker—Hauses
 und werden sofort auch die Probe anstellen, ob der Greis
 ein schlechtes Gewissen hat.«
 
 Der alte Mann erschien, reichte uns ein Päckchen.
 
-»Gott vergel1’81» dankte Harald weinerlich. »Wir ist’s
-auch nicht! an der Wiege gesungen worden, daß ich mal betteln
+»Gott vergelt’s!« dankte Harald weinerlich. »Mir ist’s
+auch nicht an der Wiege gesungen worden, daß ich mal betteln
 müßte. Aber seit Margitt tot ist — so hieß meine Frau —,
 ist’s mit mir immer mehr bergab gegangen.«
 
@@ -582,20 +582,20 @@ Also das war die Probe gewesen!
 Und — sie war geglückt.
 
 Der Greis Hatte sich verfärbt, war leicht zusammengezuckt,
-Monats Harald den Namen Margitt nannte.
+als Harald den Namen Margitt nannte.
 
 »Ob man wohl drüben was bekommt?« fragte Harst
-nun ebenso weinerlich und zeigte aus Doktor Groupys
+nun ebenso weinerlich und zeigte auf Doktor Groupys
 Villa.
 
-»Bestimmt — bestimmt!« nickte der Alte, »Dort wohnt
+»Bestimmt — bestimmt!« nickte der Alte. »Dort wohnt
 ein Herr, ein Sonderling, der gerade für Bettler stets eine
 offene Hand hat. Läuten Sie nur kräftig … Der Herr
 hält sich keine Hunde, und falls er nicht öffnen kommt, gehen
-Sie nur ge!Rost in den Garten nd Hopfen Sie kräftig gegen
-das rechte Kellerfenster, das ein dickes Gitter hat. Dort in
-Keller klopft Doktor Groupy Vögel und allerhand anderes
-Getier aus, Er ist Naturforscher.« —
+Sie nur getrost in den Garten und klopfen Sie kräftig gegen
+das rechte Kellerfenster, das ein dickes Gitter hat. Dort im
+Keller stopft Doktor Groupy Vögel und allerhand anderes
+Getier aus. Er ist Naturforscher.« —
 
 Wir dankten nochmals mit einem Vergelt’s Gott! und
 läuteten artig bei Groupy an der Gartenpforte.
@@ -610,7 +610,7 @@ oh Nun konnte ich mir den fragiwÜrdigen Herrn genau angehen
 …
 
 Ein Sonderling — allerdings! — auch in der Kleidung!
-Sein Anzug war n’cht viel besser als unsere Stromcrkostüme.
+Sein Anzug war n’cht viel besser als unsere Stromerkostüme.
 
 Aber unter dem wirren, dichten, schwarzen Kopfhaar lag
 eine hohe, kluge Stirn, und die hinter einer Hornbrille mit
@@ -644,7 +644,7 @@ gelehnt …
 
 <@pagebreak/>
 
-Harst öffnete die Patentverscblüsse der Bierflafchen und
+Harst öffnete die Patentverschlüsse der Bierflaschen und
 füllte die Gläser.
 
 »Wo kommt Ihr dort« begann Groupy die Unterhaltung.
@@ -757,7 +757,7 @@ Chlozalhydrai und nach Doktor Groupys Gewalttat hatte,
 dürften kaum ein Dutzend Menschen auf dem Erdenrund
 kennen!
 
-«Trink’ Kaffee!« meinte Harald ebenfalls etwas wehleidig,
+»Trink’ Kaffee!« meinte Harald ebenfalls etwas wehleidig,
 als ich mich aufrecht gesetzt hatte.
 
 Und Groupy, der am Fenster gestanden und hinausgeschaut
@@ -865,7 +865,7 @@ Harald begann den ahbnungslosen Dawes über das oh:
 paar Prenderlax ausázuborchen, ohne irgend etwas von un.
 unseren Erlebnissen berichtet zu haben.
 
-Dawes als Polizeimenich einer Stadt von 2758 Einwohnern
+Dawes als Polizeimensch einer Stadt von 2758 Einwohnern
 kannte die beiden Prenderlax ganz genau.
 
 Der Mann war Gärtner und Obsizücl:er gewesen, hat!
@@ -1031,7 +1031,7 @@ Richtete sich auf …
 Gesicht, »Wenn — wenn es eine Falle wäre! Die Prenderlax
 hat doch fraglos erfahren, daß Harald Harst als Gast
 bei Dawes weil! Das ganze Städtchen weiß es, Man
-staunt uns wie Wundertiere an, zumal das Lokalblätichen
+staunt uns wie Wundertiere an, zumal das Lokalblättchen
 genau geschildert, was wir mit dem Kopf des Maharadscha
 erlebt beben! Und wenn der »Satan« nun diesen Abschiedsbrief
 Groupys gelesen bat, an! - dann gehört doch wahr
@@ -1172,7 +1172,7 @@ reich mir falten Schweiß auf die Stirn, bis ich Harald
 leises Lächeln gewahrte …
 
 »Ein Papagei!« meinte er und Sich weiter auf den Holz
-heil ein, bis der Gasaustriti gehemmt war …
+heil ein, bis der Gasaustritt gehemmt war …
 
 »Warten wir ein paar Minuten,« sagte Harst dann.
 »Das Gas oben im Treppenhals wird sich rasch verflüchtigen.
@@ -1203,7 +1203,7 @@ Welt …
 <@pagebreak/>
 
 Ich — ich rechnete nun mit einer sehr bewegten Szene,
-Mit Pistolenschüssen, Hundeangriss …
+Mit Pistolenschüssen, Hundeangriff …
 
 Nichts davon …
 
@@ -1329,7 +1329,7 @@ Haustür zugewandt …
 Ich verschloß die Tür hinter uns. Durch den stillen
 nächtlichen Garten, über die menschenleere Straße hinüber
 in den anderen Garten — durch Büsche einen schmalen Weg
-zum Henker-Hause hin — zur uralten Flügeltür des Haupt-eingangs
+zum Henker-Hause hin — zur uralten Flügeltür des Haupteingangs
 des großen, düsteren Gebäudes …
 
 Frau Prenderlax zog einen Schlüssel hervor.
@@ -1398,7 +1398,7 @@ wahrhaft satanisches Grinsen …
 üHerscegenen Hohn und versteckte Drohungen chiffriert, »Wie
 Sie wollen …!! Sie suchten alte älteren Rate frei ins
 unmöbliert finden ……« Ihre Siüimmce nahm wieder einen
-geradezu demütigen Ton an, und Miene und Augenausdrud
+geradezu demütigen Ton an, und Miene und Augenausdruck
 dasitzen sich dem vortrefflich an - so vortrefflich, daß ich
 <@pagebreak/>
 mir sofort sagte, hier drohe uns tatsächlich irgendein Unheil.
@@ -1533,7 +1533,7 @@ Nager Andern Bastimon, als Massenmörder von besonderer
 Unmenschlichlei1 Fortzuführen, wenn der Leser hier sein Tagebuch
 in kurzen Auszügen veröffentlicht sich!, so verdanke ich
 dickes, und mit mir der Leser, einzig und allein meinem
-Freunde Harald Harst, dem es gelang, Bastimons ungchcucr-Ude
+Freunde Harald Harst, dem es gelang, Bastimons ungeheuer-Ade
 Aufzeichnungen In dem gemauerten Schacht unter der
 <@pagebreak/>
 tückischen Treppe nach längerem Suchen zu entdecken — —
@@ -1545,7 +1545,7 @@ Knochenhügel mich an die falte Mauer scheuchte …
 
 Der erste Schreck war rasch überwunden …
 
-Die Pflicht mahnte, die Freundespslicht …!! Und anderes
+Die Pflicht mahnte, die Freundespflicht …!! Und anderes
 noch: wir hatten für unsere Taschenlampen keine rosa Flatterten
 bei uns! Ich mußte uns die eine Lampe in volle
 Brennfiärte erhalten, mußte sie ausschalten! Wir würden
@@ -1602,7 +1602,7 @@ auf ein paar çcingemoidolie seltsame Zeichen …
 
 ach störe mich Noten ihn …
 
-»Da ist eine Jabreszahl — obere Reihe,« sage er nachdenklich.
+»Da ist eine Jahreszahl — obere Reihe,« sage er nachdenklich.
 »Und zwar 1752. Ja — 1752. Sanfter
 eine Art Vogel … Es könnte ein Storch sein, der den
 Schnabel nach unten recht … Und dann in derselben Reihe
@@ -1932,7 +1932,7 @@ Orte, nachdem ein Zufall mich dieses Buch finden Dick.
 
 > Ich schreibe, weil ich besüürchte, daß meine Flucht sehr bald
 Vernunft werden wird und daß das enmnenschie Weib, meine
-Wärierin, mich gewaltsam wieder zurüdichleppen wird in
+Wärterin, mich gewaltsam wieder zurüdichleppen wird in
 meinen armseligen Kerker,
 
 > Ich habe nicht viel Zeit, mein trauriges Geschick diesem
@@ -2031,7 +2031,7 @@ Bis der Taschenlampe grelle Lichtflut die Finsternis Her
 gellte …
 
 Ein Gang — fünf Meter — dann die hölzerne Wendel-trepme.
-in einem engen Kaminschacht hochlausend …
+in einem engen Kaminschacht hochlaufend …
 
 Dann das Ende der Treppe und rechter Hand in he
 Mauer eine quadratische Vertiefung, deren Rüfwand auch
@@ -2210,7 +2210,7 @@ Die Person Shefsields beschrieben die beiden Frauen
 uns so genau, daß wir hassen durften, ihn hiernach wieder:
 zuerkennen, falls — wir ihn überhaupt finden würden! —
 
-Kaum hatte Antritt Da!-eng ihren Bericht beendet, als
+Kaum hatte Antritt Da!eng ihren Bericht beendet, als
 Harald, stets in dem’’elben lästigen Tone, der seine innere
 Unruhe und seinen Wunsch nach rasen Beendigung dieser
 Besprechung deutlich verriet, die blonde Engländerin nun
@@ -2231,7 +2231,7 @@ Der Wirt brachte ihnen die Speisen auf ihr Zimmer, denn
 ei: ten Kellner gab es hier nicht.
 
 Der eine der Gäste, und das war Freund Harst, klagte
-dem Wirt gegenüber, daß er an Ausübten von (Gesichts-ncuralgie
+dem Wirt gegenüber, daß er an Ausübten von (Gesichtsneuralgie
 leide, Er müsse sich unbedingt ein Medikament
 versa’reiben lassen. Ob der Wirt nicht einen Arzt empfehlen
 komme.
@@ -2392,7 +2392,7 @@ Verbrecher sein …«
 
 Groupys intelligentes Gesicht umhüllende ich …
 
-»Vielleicht doch! — V’enn meine Wächierrolle hier ausgespielt
+»Vielleicht doch! — V’enn meine Wächterrolle hier ausgespielt
 ist, sollen Sie noch von mir hören, Mister Harst …
 — Aus Wiedersehen!«
 
@@ -2467,7 +2467,7 @@ Und dann öffnete sich aber mal? die Tür des Spreche
 Zimmers, und Doktor Balling wahrlich mir …
 
 »Der andere Herr wird elektrisch behandelt,« meinte er,
-»Spanischen kaum ich Ihnen eine Morpyiuminjektion machen,
+»Spanischen kaum ich Ihnen eine Morphiuminjektion machen,
 Mr. Sörrensen. Dann sind Sie wenigstens einige Stunden
 ihnen Astes, und Der Gallensteinanfall geht vorüber …«
 
@@ -2519,7 +2519,7 @@ Balling nickte …
 besser »ein, Mister Sörrensen. — Wollen Sie Morphium
 haben 7«
 
-»In Pulversorm — bitte Ich habe eine Abneigung
+»In Pulverform — bitte Ich habe eine Abneigung
 gegen Einspritzungen.«
 
 »Gut — ich schreibe Ihnen ein Rezept.«
@@ -2663,8 +2663,8 @@ Garden Lavrye folgte.
 Ich legitimierte mich …
 
 (Großes Erstaunen: Gunst und Schraut in (Garden Lavrye!
-Harst!! Harst, der doch vor ein paar Tagen erst in Corna-woor-
-Castle geholfen hatte, den Kap des Maharadscha, den
+Harst!! Harst, der doch vor ein paar Tagen erst in Cornawoor-Castle
+geholfen hatte, den Kap des Maharadscha, den
 Kopf des Unheils, wieder den wahren Eigeutiunern aushändigen
 zu lassen ,…!
 
@@ -2683,7 +2683,7 @@ auch nicht hier im Vorort eingetroffen feil. …
 Eine Untersuchung der reich! Waldrand Je lade, des ich
 echt gehabt hatte: er war In seiner Weise verkloeitdet, maskiert!
 <@pagebreak/>
-Er — — konnte nicht Thomas Sheffield, der Mätchen-berführer,
+Er — — konnte nicht Thomas Sheffield, der Mädchenverführer,
 sein!
 
 Wir standen vor einem Hättet. Polizeichef Carlson telephonierte
@@ -2885,7 +2885,7 @@ Gong,« beginnt Harst und schaut den Verbrecher an. »Thomas
 Kartons, weil sich der Name Balling in Personalpapieren
 leicht in Kartons verändern ließ. Sie sind Thomas Balling,
 der jüngere Sohn der Frau Prenderlax, Sie wohnen hier
-als Kunstmaler in der Villa, deren Gartencücksront an die
+als Kunstmaler in der Villa, deren Gartenrückfront an die
 des Grundstücks Ihres Bruders stößt ……«
 
 <@pagebreak/>
