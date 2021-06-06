@@ -605,38 +605,38 @@ läuteten artig bei Groupy an der Gartenpforte.
 <h2>3. Kapitel.</h2>
 <h3>Eine allzu gute Bewirtung …</h3>
 
-Und Groupy kam, … Hinkte langsam herbei,
-oh Nun konnte ich mir den fragiwÜrdigen Herrn genau angehen
+Und Groupy kam … Hinkte langsam herbei.
+
+Nun konnte ich mir den fragwürdigen Herrn genau ansehen
 …
 
 Ein Sonderling — allerdings! — auch in der Kleidung!
-Sein Anzug war n’cht viel besser als unsere Stromerkostüme.
+Sein Anzug war nicht viel besser als unsere Stromerkostüme.
 
 Aber unter dem wirren, dichten, schwarzen Kopfhaar lag
 eine hohe, kluge Stirn, und die hinter einer Hornbrille mit
 grauen Gläsern halb verschatteten Augen verrieten genau dieselbe
-Intelligenz wie die Stirnbildung und der ganze (Je
-sichtäschnitt.
+Intelligenz wie die Stirnbildung und der ganze Gesichtsschnitt.
 
 Ein ebenso wirrer schwarzer Vollbart verdeckte die Kinnpartie
 und einen Mund mit schmalen Lippen. —
 
-Harst brachte sein klägliches Bitifpriichlein nieder an.
+Harst brachte sein klägliches Bittsprüchlein wieder an.
 
 Und Groupy nickte, riegelte wortlos die Pforte auf und
 winkte uns, ihm zu folgen …
 
 Ging um das Haus herum, die Hintertreppe empor und
-führte uns in eine beste, freundliche Küche.
+führte uns in eine helle, freundliche Küche.
 
 »Jetzt Euch!« sagte er kurz. »Ich hole Euch etwas …«
 
-Er zog die Küchentür hinter sich Ins Schloß und fehlte
-nach drei, vier Minuten zuckst — mit einem Teebrett, auf
-dem eine Platte mit Ausschnitt, Brot, Butter und Kugel
+Er zog die Küchentür hinter sich Ins Schloß und kehrte
+nach drei, vier Minuten zurück — mit einem Teebrett, auf
+dem eine Platte mit Aufschnitt, Brot, Butter und zwei
 Flaschen Bier nebst Gläsern standen.
 
-»So, nun laßt’s Euch Abwehren,« meinte er mit gut-míitigem
+»So, nun laßt’s Euch schmecken,« meinte er mit gutmütigem
 Lächeln.
 
 Wir saßen am Küchentisch, und er hatte sich an den Herd
@@ -647,10 +647,10 @@ gelehnt …
 Harst öffnete die Patentverschlüsse der Bierflaschen und
 füllte die Gläser.
 
-»Wo kommt Ihr dort« begann Groupy die Unterhaltung.
+»Wo kommt Ihr her?« begann Groupy die Unterhaltung.
 
-Harald war auf ähnliches vorbereitet, erzählte — er
-zählte — — log tadellos.
+Harald war auf ähnliches vorbereitet, erzählte — erzählte
+— — log tadellos.
 
 Wir aßen — tranken.
 
@@ -673,36 +673,36 @@ sein Brot zerteilt hatte, meinte ganz gelassen:
 
 »Doktor Groupy, Sie scheinen anzunehmen, daß Schraut
 und ich hinter Ihnen her sind. Sie irren sich! Was Sie
-aus dem Kerbholz haben, weiß ich nicht, Hier handelt es
-lediglich um die Bewohner des Henker-Hauses und —
-Aktie leuchtende Treppe …«
+auf dem Kerbholz haben, weiß ich nicht. Hier handelt es
+sich lediglich um die Bewohner des Henker-Hauses und —
+die leuchtende Treppe …«
 
 Groupy zuckte die Achteln.
 
-»Detektive sind Lügner von Berufs wegen — sind So
-möôdiantcn, Mister Harst! Als Ich erfuhr, daß Sie beide bei
-Dawes wohnen, da ahnte ich, daß wir aneinandcigeraten
-würden. Vielleicht rvar’s übereilt von mir, heute früh zu
+»Detektive sind Lügner von Berufs wegen — sind Komödianten,
+Mister Harst! Als Ich erfuhr, daß Sie beide bei
+Dawes wohnen, da ahnte ich, daß wir aneinandergeraten
+würden. Vielleicht war’s übereilt von mir, heute früh zu
 Dawes zu gehen und die Geschichte der Geheimschrift zu
-winerrufen. Es war ein Versuch von mir, Sie beide von
+widerrufen. Es war ein Versuch von mir, Sie beide von
 mir fernzuhalten. Jetzt, da Sie hier sind, werde ich das
-Herd räumen, sobald die Beige (schickst Tanker
+Feld räumen, sobald die beide für vierzehn Stunden
 machtlos sind,«
 
-Er sagte das mit der eisigen Ruhe eines Menschen, he!
-Im Feder Minute auf eine drohende Erfaßt vorbereitet ist.
+Er sagte das mit der eisigen Ruhe eines Menschen, der
+in jeder Minute auf eine drohende Gefahr vorbereitet ist.
 
 <@pagebreak/>
 
-Ad Harst — Harst zog nun den Zettel mit der Geheimschrift
-hervor, gab ihn dem Dortige und entstände:
+Und Harst — Harst zog nun den Zettel mit der Geheimschrift
+hervor, gab ihn dem Doktor und erklärte:
 
 »Bitte — mein Wort darauf, daß wir Sie ungeschoren
 lassen! — Lesen Sie jetzt die Silben und Worte in folgender
-Netenfolge …«
+Reihenfolge …«
 
-Und er gab ihm hastig den Schlüssel zu der Geheime
-Christ an.
+Und er gab ihm hastig den Schlüssel zu der Geheimschrift
+an.
 
 »Sie erhalten dann den Text:
 
@@ -714,15 +714,15 @@ Groupys Gesicht veränderte sich Jäh.
 
 »Wie — dort wird ein Weib gefangen …«
 
-Harald Tief ihn nicht audfpredeit,.
+Harald ließ ihn nicht aussprechen.
 
-»Solide, flehen Sie Ihre Waffe ein! Ich sehe, Sie
-wirren nichts von der Gefangenen. Sie sind unbeteiligt. —
-Noch. malt: mögen Sie sein, wer Sie wollen: mit Ihnen
+»Doktor, stecken Sie Ihre Waffe ein! Ich sehe, Sie
+wissen nichts von der Gefangenen. Sie sind unbeteiligt. —
+Nochmals: mögen Sie sein, wer Sie wollen: mit Ihnen
 haben wir nichts zu schaffen! Sorgen Sie aber dafür, daß
-die Wirkung des Schlafmittel« schnell wieder aufgehoben
-wird, denn Margitt Sheffield braucht Hilfe, Fall sie Üben
-Haupt noch lebt!«
+die Wirkung des Schlafmittels schnell wieder aufgehoben
+wird, denn Margitt Sheffield braucht Hilfe, falls sie überhaupt
+noch lebt!«
 
 Groupy verbeugte sich.
 
@@ -732,28 +732,28 @@ Ihnen beiden ein Brechmittel …«
 Er eilte hinaus.
 
 Und — ich fühlte, daß eine bleierne Müdigkeit mich
-behilflich, Ich wehrte mich dagegen. Weine Gedanken verwinden
+beschlich. Ich wehrte mich dagegen. Meine Gedanken verwirrten
 sich. Die Augenlider klappten herab. Ich sank auf
-dem Hückenftnft kraftlos zusammen, Hörte wie aus endloser
+dem Küchenstuhl kraftlos zusammen. Hörte wie aus endloser
 Ferne Groupys Stimme:
 
-»Mund auf — — schlucken!ich« — Ich wurde gerüttelt,
+»Mund auf — — schlucken!!« — Ich wurde gerüttelt,
 geschüttelt, wurde emporgehoben …
 
-Und — — erwachte eine Stunde später auf dem Lebens
-Sofa in Doktor Groupys Herrenzimmer, sah Harald rechts
-von mir im Klubsessel schwarzen Kaffee trinken, dessen wirre
-ranziger Duft mich angenehm belebte, denn — mir war hunde-enb
+Und — — erwachte eine Stunde später auf dem Ledersofa
+in Doktor Groupys Herrenzimmer, sah Harald rechts
+von mir im Klubsessel schwarzen Kaffee trinken, dessen würziger
+Duft mich angenehm belebte, denn — mir war hundeelend
 zumute.
 
 <@pagebreak/>
 
 Was ein Katzenjammer, ein Kater, ist, wissen selbst
-manche Damen, acht nur wir Vertreter des angeblich stärkeren
+manche Damen, nicht nur wir Vertreter des angeblich stärkeren
 Geschlechts!
 
 Doch einen solchen Kater, wie ich ihn damals nach dem
-Chlozalhydrai und nach Doktor Groupys Gewalttat hatte,
+Chloralhydrat und nach Doktor Groupys Gewaltkur hatte,
 dürften kaum ein Dutzend Menschen auf dem Erdenrund
 kennen!
 
@@ -763,14 +763,14 @@ als ich mich aufrecht gesetzt hatte.
 Und Groupy, der am Fenster gestanden und hinausgeschaut
 hatte, drehte sich rasch um.
 
-»Es tut mir aufrichtig leid, Mister Schraut, Ihnen bei!-
-den dieses körperliche Unbehagen bereitet zu haben,« meinte
+»Es tut mir aufrichtig leid, Mister Schraut, Ihnen beiden
+dieses körperliche Unbehagen bereitet zu haben,« meinte
 er mit weltmännischer Höflichkeit und füllte mir die Kaffeetasse.
 »Die Verkennung der Sachlage meinerseits will ich
 dadurch wettmachen, daß ich Ihnen beiden nach besten Kräften
-helle, Margitt Sheffield zu befreien.«
+helfe, Margitt Sheffield zu befreien.«
 
-Ich trank — trank fchluchweife,
+Ich trank — trank schluckweise,
 
 Gallebitter war der Kaffee, der reinste Extrakt. Aber —
 er wirkte günstig.
@@ -778,43 +778,43 @@ er wirkte günstig.
 Groupy hatte sich In den anderen Klubsessel gesetzt …
 
 »Wir können nun beginnen, Mister Harst,« meinte er.
-»Brauen Sie!«
+»Fragen Sie!«
 
-Harald stünde sich mit den Ellenbogen aus die Sessel
-feinen und suchte sich eine firaffere Haltung zu neben. Sein
-@sticht war blaß und schlaff, die Augen trübe und matt.
+Harald stützte sich mit den Ellenbogen auf die Sessellehnen
+und suchte sich eine straffere Haltung zu geben. Sein
+Gesicht war blaß und schlaff, die Augen trübe und matt.
 
-Wie mußte *ich* da erst aussehen«!
+Wie mußte *ich* da erst aussehen!
 
 Und er fragte den geheimnisvollen Groupy:
 
-»Waren Sie schon einmal im Lenker-Hause?«
+»Waren Sie schon einmal im Henker-Hause?«
 
-»3a — ein einziges Mal, als ich Frau Preunverlax bat,
-he! mir Aufwärterin zu spielen …«
+»Ja — ein einziges Mal, als ich Frau Prenderlax bat,
+bei mir Aufwärterin zu spielen …«
 
 »Also Prenderlax heißt das Ehepaar. — Was Halten
 Sie von der Frau? Den Mann kennen wir.«
 
-»Hm — äußerlich ein grobînochiges herbei Weib von
-etwa fünfzig Jahren. Innerlich ein — Zutun!«
+»Hm — äußerlich ein grobknochiges derbes Weib von
+etwa fünfzig Jahren. Innerlich ein — Satan!«
 
 <@pagebreak/>
-»Ah — Ankauf! Inwiefern? Wie haben Sie das
+»Ah — Satan! Inwiefern? Wie haben Sie das
 beurteilt, Doktor?«
 
 »Aus Kleinigkeiten. Ich bilde mir ein, Menschenkenner
 zu sein.«
 
-»Sie trauen ihr also zu, für Gelb eine Gefangene drüben
+»Sie trauen ihr also zu, für Geld eine Gefangene drüben
 eingesperrt zu halten?«
 
-»Ja — aller traue Ich ihr zu — alles,«
+»Ja — alles traue Ich ihr zu — alles,«
 
 Harald füllte seine Kaffeetasse.
 
 »Wenn die Prenderlax heute zu Ihnen kommt, Doktor,
-werden Sie, … besser sein — sehr heiter …«
+werden Sie … heiser sein — sehr heiser …«
 
 Groupy lächelte.
 
@@ -824,83 +824,85 @@ abends hinüber …«
 »Das will ich. Ich muß ins Haus, ohne Verdacht zu
 erregen. Und — ich muß die Hunde an mich gewöhnen.«
 
-»Das gelingt Ihnen nie! Anusgeschlossen! Die Doggen
-üchorden nur Frau Milly Prenderlax,«
+»Das gelingt Ihnen nie! Ausgeschlossen! Die Doggen
+gehorchen nur Frau Milly Prenderlax,«
 
-»hd — das lassen Sie nur meine Sorge sein. Schraut
+»Oh — das lassen Sie nur meine Sorge sein. Schraut
 und ich finden uns jedenfalls um elf Uhr abends hier wieder
 ein. Dann vereinbaren wir alles weitere. Jetzt müssen wir
-ausbrecl:en.« —
+aufbrechen.« —
 
 Der Rückweg bis zum Versteck des Motorrades wurde
 mir unendlich sauer. Aber als wir dann erst wieder als
-Harst und Sofa in anständiger AuimactËung mit dem
-Motorrad den: nach Den Städtchen ausnutzen, wurde ich von
-Mine zu Benutze frischer und lebendiger.
+Harst und Schraut in anständiger Aufmachung mit dem
+Motorrad dem nächsten Städtchen zusausten, wurde ich von
+Minute zu Minute frischer und lebendiger.
 
-Um die Mittezszeit langten wir in dem Städtchen
-Garnabor an und hielten vor dem Postamt. So blieb
-draußen bei unserem Vereinigt, und Harald wollte sich
-drinnen tc!satanisch mit Mister Roger Balling in London,
-Na! Street d, in Verbindung setzen.
+Um die Mittagszeit langten wir in dem Städtchen
+Garnabor an und hielten vor dem Postamt. Ich blieb
+draußen bei unserem Benzinroß, und Harald wollte sich
+drinnen telephonisch mit Mister Roger Darbing in London,
+Pall Street 8, in Verbindung setzen.
 
-Nach einer Vierteifninde erschien er wieder.
+Nach einer Viertelstunde erschien er wieder.
 
-»Nager Einbruch war Rechtsanwalt,« erklärte er.
+»Roger Darbing war Rechtsanwalt,« erklärte er.
 
 »Und was ist er jetzt? Hast Du ihn gesprochen?«
 
-»Je! ist er seit fünf Monaten tot, und sein Tareamı ist
-ausgelöst. Er war Junggeselle, und die Verwalters ran von
+»Jetzt ist er seit fünf Monaten tot, und sein Bureau ist
+aufgelöst. Er war Junggeselle, und die Verwalterfrau von
 <@pagebreak/>
-Fall Street 8 wußte nichts von einer prallt Sheffield -
-nichts — nur nichts! Also eine Veto — Stehlen wir mag:
+Pall Street 8 wußte nichts von einer Margitt Sheffield —
+nichts — gar nichts! Also eine Niete! — Kehren wir nach
 Bramby zurück.« —
 
-Um vier Uhr nachmitiagsa aßen wir mit Inspektor Das:
-im Restaurant Goldkrone am Darfst in Inamıby gemeinsam:
+Um vier Uhr nachmittags aßen wir mit Inspektor Dawes
+im Restaurant Goldkrone am Markt in Bramby gemeinsam
 zu Mittag.
 
-Harald begann den ahbnungslosen Dawes über das oh:
-paar Prenderlax ausázuborchen, ohne irgend etwas von un.
+Harald begann den ahnungslosen Dawes über das Ehepaar
+Prenderlax auszuhorchen, ohne irgend etwas von
 unseren Erlebnissen berichtet zu haben.
 
 Dawes als Polizeimensch einer Stadt von 2758 Einwohnern
 kannte die beiden Prenderlax ganz genau.
 
-Der Mann war Gärtner und Obsizücl:er gewesen, hat!
-Male Künfziniäbriaer die um zwanzig »Jahre jüngere Ahne
+Der Mann war Gärtner und Obstzüchter gewesen, hatte
+als Fünfzigjähriger die um zwanzig Jahre jüngere Witwe
 eines Schiffskapitäns geheiratet, die ihm einen Sohn mit in
-die Ehe brachte. Eigene Kinder hatte das Pappe nicht. Der
-Sohn der Frau Prenderlaxy war Arzt in einem Londoner
+die Ehe brachte. Eigene Kinder hatte das Paar nicht. Der
+Sohn der Frau Prenderlax war Arzt in einem Londoner
 Vorort. Wo — das wußte Dawes nicht genau. Aber den
-Narren kannte er: Doktor Archibald Balling. —
+Namen kannte er: Doktor Archibald Balling. —
 
 Harst erklärte nach Tisch, daß er mit dem Abendzuge nach
 London fahren und dort einen halben Tag bleiben würde.
 Er wollte einen Bekannten besuchen und mich mitnehmen
 
-Auf diese LL. se konnten wir um acht Uhr Bramby mit
-einem Händigten verlassen und auf der nächsten Station
-wieder eine steigen, ohne daß Freund Dawes irgendwie argwöhnisch
+Auf diese Weise konnten wir um acht Uhr Bramby mit
+einem Handkoffer verlassen und auf der nächsten Station
+wieder aussteigen, ohne daß Freund Dawes irgendwie argwöhnisch
 geworden wäre.
 
-»Ein Mietauto brachte uns von dieser Station in Ei
+Ein Mietauto brachte uns von dieser Station in die
 Nähe von Bramby zurück.
 
-Und Punkt elf Uhr abends betraten wir durch die Pfeil.
-den (Partien der Villa des Doktor Groupy.
+Und Punkt elf Uhr abends betraten wir durch die Pforte
+den Garten der Villa des Doktor Groupy.
 
-Am Herrenzimmer brannte Licht. Auch die Haust!?
+Im Herrenzimmer brannte Licht. Auch die Haustür
 fanden wir offen.
 
-Wen wir n’cht fanden, war Groupy …
+Wen wir nicht fanden, war Groupy …
 
-Auf dem Der hieb lag ein Brief:
+Auf dem Schreibtisch lag ein Brief:
 
-> Mr. H. H,
+> Mr. H. H.
 
-so las elf den Umschlag Am.
+> Hier.
+
+Harald riß den Umschlag auf.
 
 <@pagebreak/>
 
@@ -908,7 +910,7 @@ Der Brief Doktor Groupys lautete:
 
 > Gewisse Rücksichten auf mich selbst zwingen mich,
 Bramby zu verlassen, Mister Harst. Ich gebe mein Heim
-Preis und verschwinde.
+preis und verschwinde.
 
 > Im übrigen bin ich heute sehr heiser gewesen, so daß
 Sie Ihre Absicht ausführen können.
@@ -917,9 +919,9 @@ Sie Ihre Absicht ausführen können.
 unter dem Bett.
 
 > Ich bitte Sie, mir nicht weiter nachzuforschen. Ich
-bin mehr ein Ungnlüdlicher aha ein … —
+bin mehr ein Unglücklicher als ein … —
 
-> Ihr Sie hochschäpender
+> Ihr Sie hochschätzender
 
 > Doktor Groupy — angeblich
 
@@ -928,41 +930,41 @@ bin mehr ein Ungnlüdlicher aha ein … —
 <h2>4. Kapitel.</h2>
 <h3>Der Satan.</h3>
 
-Mir, verehrte Leser und Leserinnen, die wir uns hier
+Wir, verehrte Leser und Leserinnen, die wir uns hier
 zunächst mit der Treppe des Todes und nicht mit Doktor
-(Brennt (eine sehr interessante Persönlichkeit, wie sich später
+Groupy (eine sehr interessante Persönlichkeit, wie sich später
 herausstellen wird!) beschäftigen wollen, müssen diesen
-Groupy also vorläufig noch weiter CGiroupy nennen, wenn
+Groupy also vorläufig noch weiter Groupy nennen, wenn
 ich auch in der Lage wäre, Ihnen den wahren Namen dieses
 Unglücklichen, der zu der seltenen Kategorie der Verbrecher
-aus RechtlichkeitAgesühl gehörte, jetzt bereits anzugeben.
+aus Rechtlichkeitsgefühl gehörte, jetzt bereits anzugeben.
 
-Harst und ich klangen also in Groupys Herrenzimmer bei
-zugezogenen Fenstervorhängen und cingeschallenem erstickten
+Harst und ich standen also in Groupys Herrenzimmer bei
+zugezogenen Fenstervorhängen und eingeschaltetem elektrischen
 <@pagebreak/>
 Licht am Schreibtisch und hatten soeben diese kurze,
-vielssaaecnde Mitteilung gelesen,
+vielsagende Mitteilung gelesen,
 
-Und nun will ich ihnen hier einen neuen Meinen Beweis
-für die in der Tat schienen geistigen Fähigkeiten meines
-Freundes cerbrinçpen, einen Beweis, sprich dem, wie er
-Ihn schon zu Anfang dieses Abenteuers durch seine Beob-ahtına
-des »rafften« Hinkens Groupys und durch seine
-Frage nach dem ersten FrülblingLgrün geliefert hatte. —
+Und nun will ich Ihnen hier einen neuen kleinen Beweis
+für die in der Tat seltenen geistigen Fähigkeiten meines
+Freundes erbringen, einen Beweis, ähnlich dem, wie er
+Ihn schon zu Anfang dieses Abenteuers durch seine Beobachtung
+des »falschen« Hinkens Groupys und durch seine
+Frage nach dem ersten Frühlingsgrün geliefert hatte. —
 
-Zum Berufe des Detektivs gehört Thantasie. Das habe
-hob hier bereits so und sonst betont. Wer nicht in der Lage
-ist, seine J’hantasie spielen zu lassen und a (he Möglichkeiten
+Zum Berufe des Detektivs gehört Phantasie. Das habe
+ich hier bereits so und sooft betont. Wer nicht in der Lage
+ist, seine Phantasie spielen zu lassen und *alle* Möglichkeiten
 der Ausführung eines Verbrechens, der Nebenumstände und
-der Vorbereitungen sich selbst vorziftenen, wer nicht fähig
-ist, sich in den Gedankengang Des Täters hincinzudenken,
-der — bleibt ewig ein Zeitungen.
+der Vorbereitungen sich selbst vorzustellen, wer nicht fähig
+ist, sich in den Gedankengang Des Täters hineinzudenken,
+der — bleibt ewig ein Stümper.
 
-Und solch ein Stümper bin … Ich im Vergleich zu
+Und solch ein Stümper bin … ich im Vergleich zu
 Harald Harst! Leider!
 
-Umso mein fläglicves Sisimpertum kam nun hier abermals
-fraß zum Vorschein, aha Harald mir den Umschlag des
+Und mein klägliches Stümpertum kam nun hier abermals
+kraß zum Vorschein, als Harald mir den Umschlag des
 Briefes hinhielt und sagte:
 
 »ich werde unter diesen Umständen natürlich nicht In
@@ -970,42 +972,42 @@ das Henker-Haus hinübergehen!«
 
 Das war alles …
 
-ich verstand ihn nicht … Seh nahm den Briefumschlag,
+ich verstand ihn nicht … Ich nahm den Briefumschlag,
 machte erstaunte Augen und meinte harmlos: »Weshalb
 denn nicht?«
 
-Er fächelte gutmütig …
+Er lächelte gutmütig …
 
 »Mein lieber Alter, Ich habe festgestellt, daß mit dem
-Anwachsen Deines Väuchleins Dein Hirn zusammengekrampft!
-Willst Du nicht freundlichst den Umschlag prüfe
-sen? Er ist geöffnet worden — fraglos von dem — Satan!«
+Anwachsen Deines Bäuchleins Dein Hirn zusammenschrumpft!
+Willst Du nicht freundlichst den Umschlag prüfen?
+Er ist geöffnet worden — fraglos von dem — Satan!«
 
-Da Küche Ab nicht (dort, Die den Uriftilag ha Nu
-lag Licht der Schreibtischlampe heran und bemerkte nun
+Da bückte ich mich schnell, hielt den Umschlag näher an
+das Licht der Schreibtischlampe heran und bemerkte nun
 gleichfalls, daß die Klebestellen des Umschlags schrumplig
-und Hafens waren. Außerdem sah ich auch die Stempel von
+und faserig waren. Außerdem sah ich auch die Stempel von
 drei schweißigen Fingerspitzen einer offenbar sehr derben
 <@pagebreak/>
-Herd, während Groupy geradezu zierliche Frauenhände
+Hand, während Groupy geradezu zierliche Frauenhände
 besaß
 
-»Und hier,« fügte Harald nun hinzu, »hier aus dem
+»Und hier,« fügte Harald nun hinzu, »hier auf dem
 Briefbogen hat der »Satan« sich ebenfalls verewigt — zwei
-Gefahr los, Es kann nur Frau Prenderlax gewesen
-ein …!«
+Fingerabdrücke! Es kann nur Frau Prenderlax gewesen
+sein …!«
 
 »Allerdings!« nickte ich kleinlaut.
 
-»Mithin wäre es Mr als leichtfertig, wollte ich In der
+»Mithin wäre es mehr als leichtfertig, wollte ich In der
 Maske Doktor Groupys hinübergehen und das Terrain sondieren.
-Dieses Weib da, die Groupy als Satan charakteristische,
+Dieses Weib da, die Groupy als Satan charakterisierte,
 diese Walküre mit dem Hirn einer Verbrecherin würde
 mir …«
 
 Er schwieg — horchte …
 
-»Was war das? Hörtest zu?« flüsterte er.
+»Was war das? Hörtest Du?« flüsterte er.
 
 Auch ich hatte ein dumpfes Stöhnen vernommen —
 dumpf und qualvoll.
@@ -1015,138 +1017,139 @@ Wir — horchten — horchten …
 Ich hatte nur bejahend genickt, flüsterte nun: »Es kam
 aus dem Keller!«
 
-Und — wir horchten …, Horchten so angespannt, daß
+Und — wir horchten … Horchten so angespannt, daß
 bei der hier herrschenden Grabesstille das laute Ticken der
 Standuhr dort in der Ecke doppelt aufdringlich war und wie
 Messerstiche auf die Nerven wirkte …
 
 Dann — wieder das Stöhnen …
 
-Harst beugte die Knie — lag mit einem Male lang aus
+Harst beugte die Knie — lag mit einem Male lang auf
 dem Teppich, das eine Ohr an den Boden gedrückt …
 
 Richtete sich auf …
 
-»In Keller!« Sein fragender Blick ruhte auf meinem
-Gesicht, »Wenn — wenn es eine Falle wäre! Die Prenderlax
+»Im Keller!« Sein fragender Blick ruhte auf meinem
+Gesicht. »Wenn — wenn es eine Falle wäre! Die Prenderlax
 hat doch fraglos erfahren, daß Harald Harst als Gast
-bei Dawes weil! Das ganze Städtchen weiß es, Man
+bei Dawes weilt. Das ganze Städtchen weiß es. Man
 staunt uns wie Wundertiere an, zumal das Lokalblättchen
 genau geschildert, was wir mit dem Kopf des Maharadscha
-erlebt beben! Und wenn der »Satan« nun diesen Abschiedsbrief
-Groupys gelesen bat, an! - dann gehört doch wahr
-(ist nicht viel Kombination Blutend dazu, diese Dinge …«
+erlebt haben! Und wenn der »Satan« nun diesen Abschiedsbrief
+Groupys gelesen hat, dann — dann gehört doch wahrlich
+nicht viel Kombinationstalent dazu, diese Dinge …«
 
 <@pagebreak/>
 Wieder schwieg er.
 
-Aus dem Keller heraus, wo Groupy hinter starr vergitterten
+Aus dem Keller heraus, wo Groupy hinter stark vergitterten
 Fenster Tiere ausgestopft haben sollte, drang jetzt ein
 schrilles, schnell verklingendes Lachen zu uns empor,
 
-Ein — unheimliches Labten —
+Ein — unheimliches Lachen. —
 
 Harst langte in dicke Schlüsseltasche der Beinkleider. Und
-brachte die seine dunkle Lebensversicherung zum Vorschein,
+brachte die kleine dunkle Lebensversicherung zum Vorschein,
 die liebe, neunschüssige Clementpistole — ein Spielzeug fast,
 so winzig in den Abmessungen …
 
 Und — auch ich tat denselben Griff.
 
-Mit leisem Knacken schnellten die Ciccrungahebel zurück.
+Mit leisem Knacken schnellten die Sicherungshebel zurück.
 
-Neun Schuß — jeder neun Schuß …! *Der* Gebdante
+Neun Schuß — jeder neun Schuß …! *Der* Gedanke
 beruhigt.
 
 Und Harald ging voran …
 
 Leise — schleichend — in den Flur — bis zur Kellertür
-unter der Treppe, die in den Obersitoek führte.
+unter der Treppe, die in den Oberstock führte.
 
-Schaltete hier seine Fafdhenlampe ein, nahm die Clement
-wischen die Zähne, nahm den Patentdietrich, stellte ihn ein
-und öffnete die verschlafene Nr …
+Schaltete hier seine Taschenlampe ein, nahm die Clement
+zwischen die Zähne, nahm den Patentdietrich, stellte ihn ein
+und öffnete die verschlossene Tür …
 
-Scharfer Geruch nach stampfen und anderen Drogen
+Scharfer Geruch nach Kampfer und anderen Drogen
 schlug uns entgegen.
 
-Die Treppe hatte achtzehn Stufen. Es ist meine Geier
+Die Treppe hatte achtzehn Stufen. Es ist meine Gewohnheit,
 Stufen zu zählen. Zuweilen lohnt es, ist es vorteilhaft
 
 Aber — der Leser denke ja nicht, daß diese Kellertreppe
-Lager die Treppe des Todes rar! Nein — diese hier war
+hier die Treppe des Todes war! Nein — diese hier war
 harmlos, war gemauert und sicher. —
 
 Ein kurzer Kellergang …
 
 Wir standen — — lauschten …
 
-Nichts …, Totenstille …
+Nichts … Totenstille …
 
 Wir sahen den weißen Lichtfinger der Taschenlampe
-der drei Türen zu drei Kellerräumen Ziitvegiasien …
+der drei Türen zu drei Kellerräumen hinwegglasten …
 
 Sahen, daß die eine Tür linker Hand durch drei Vorlegeschlösser
 und dicke Eisenstangen versperrt war …
 
-Und das mußte die Tür sein, die zu dem großen, starr!
+Und das mußte die Tür sein, die zu dem großen, stark
 vergitterten Kellerfenster gehörte.
 
 <@pagebreak/>
 
-Harald hob den Fuß, wollte aus diese Tür zu …
+Harald hob den Fuß, wollte auf diese Tür zu …
 
-Da — - — sckchschsug oben die Kellertür knallend zu …
+Da — — schlug oben die Kellertür knallend zu …
 
-Und fast als Ehering, kaum daß der Schall dieses lauten
-Geräusches verklungen, ein — ein secltsames Brausen,
-Jucken …
+Und fast gleichzeitig, kaum daß der Schall dieses lauten
+Geräusches verklungen, ein — ein seltsames Brausen,
+Zischen …
 
 Hier im Kellergang — hier — —, und das Brausen kam
-von dort, wo der ($asmesser der Villa aus einem Wandbrett
+von dort, wo der Gasmesser der Villa auf einem Wandbrett
 stand …
 
-Golf wer mit zwei Sprüngen am Gasmesser.
+Harst war mit zwei Sprüngen am Gasmesser.
 
 Leuchtete …
 
-6m Darlehn gab’s, da ein offenes Fahrende, und aus
-diesem drang mit voller dienst das unsichtoare Gas heraus
-— brausend — Zischend …
+Am Gasrohr gab’s, da ein offenes Rohrende, und aus
+diesem drang mit voller Kraft das unsichtbare Gas heraus
+— brausend — zischend …
 
-Harst wich zurück … schaute mich, an …
+Harst wich zurück … schaute mich an …
 
 »Der Satan!« meinte er leise. »Der Satan, der gewußt
-haben muß, daß Doktor Groupy diese Einrichtung sich an-aoe9t
-hatte, um den Keller las mit Gas füllen zu (önnen
-= dies muß eine besondere Einrichtung sein, muß
-Von oben zu bedienen!« Er sprach sehr schnell
-Jetzt zur Kellertür … Komm’!!«
+haben muß, daß Doktor Groupy diese Einrichtung sich angelegt
+hatte, um den Keller rasch mit Gas füllen zu können,
+denn — dies muß eine besondere Einrichtung sein, muß!
+und von oben zu bedienen!« Er sprach sehr schnell …
+
+»Jetzt zur Kellertür … Komm’!!«
 
 Wir hasteten nach oben …
 
 Wir fanden die Tür verschlossen, diese eichene, dicke
-Bohlentür, handdid, deren Schloß durch Eisenplatten geschützt
+Bohlentür, handdick, deren Schloß durch Eisenplatten geschützt
 war … —
 
-Das Gas, leichter als die Luft, machte sich auch Wir Co:
-weite bemerkbar … vderfcheuchte uns, sammelte sich hier
-»her am stärksten …
+Das Gas, leichter als die Luft, machte sich auch hier bereits
+bemerkbar … verscheuchte uns, sammelte sich hier
+oben am stärksten …
 
 Haralds Gesicht verriet, daß er die Lage für nicht
-bedenklich hielt …
+unbedenklich hielt …
 
-Lr eilten wieder hinab …
+Wir eilten wieder hinab …
 
-Die beiden Leinen zu den anderen Kellerraum-"! hatten
-nur Krampen ohne So:lösten …
+Die beiden Türen zu den anderen Kellerräumen hatten
+nur Krampen ohne Schlösser …
 
 Also — hinein in den einen …
 
-Und — hier eine peinlid’e Überraschung: das Fenster
-»Ah … bermanuert, war ein blindes Fenster, hatte dringen
+Und — hier eine peinliche Überraschung: das Fenster
+war … vermauert, war ein blindes Fenster, hatte draußen
 <@pagebreak/>
-zwar Scheiben, aber hinter. Diesen — Mauerwerk, In das
+zwar Scheiben, aber hinter Diesen — Mauerwerk, In das
 Eisenstangen eingelassen waren.
 
 Wir hinüber in den zweiten offenen Keller, … und
@@ -1168,90 +1171,90 @@ Ein Stück Ziegelstein diente als Hammer.
 Und als die ersten Schläge dieses Hammers auf das
 Holz dröhnten, da erklang hinter der so fest versperrten Tür
 abermals dasselbe schrille Lachen — wollte nicht enden …
-reich mir falten Schweiß auf die Stirn, bis ich Harald
+trieb mir kalten Schweiß auf die Stirn, bis ich Haralds
 leises Lächeln gewahrte …
 
-»Ein Papagei!« meinte er und Sich weiter auf den Holz
-heil ein, bis der Gasaustritt gehemmt war …
+»Ein Papagei!« meinte er und hieb weiter auf den Holzkeil
+ein, bis der Gasaustritt gehemmt war …
 
 »Warten wir ein paar Minuten,« sagte Harst dann.
 »Das Gas oben im Treppenhals wird sich rasch verflüchtigen.
 Dann werden wir sehen, ob das Schloß trotz der Eisenplatten
 achtzehn Nickelmantelgeschossen widersteht!« —
 
-Wir stiegen die Augen hinan …
+Wir stiegen die Stufen hinan …
 
 Wir — sahen da, daß die Tür nur noch angelehnt war,
 
-»am!« machte Harst und hob die rechte Hand mit der
-dunklen Waffe. »Dies gefällt mir noch weniger! FJFmmer-bin
+»Hm!« machte Harst und hob die rechte Hand mit der
+dunklen Waffe. »Dies gefällt mir noch weniger! Immerhin
 — — vorwärts!«
 
 Er bog um die Türöffnung …
 
-Ah dicht hinter ihm …
+Ich dicht hinter ihm …
 
 In den Gang, den Flur …
 
 Und im selben Augenblick strahlte die Flurbeleuchtung
 auf …
 
-Sahen wir uns gegeulber ein großes, muffiges Weib,
-Papas mit jeder Hand eine gelbe Niesendogge am Halsband:
-Welt …
+Sahen wir uns gegenüber ein großes, muffiges Weib,
+das mit jeder Hand eine gelbe Riesendogge am Halsband
+hielt …
 
 <@pagebreak/>
 
 Ich — ich rechnete nun mit einer sehr bewegten Szene,
-Mit Pistolenschüssen, Hundeangriff …
+mit Pistolenschüssen, Hundeangriff …
 
 Nichts davon …
 
 Das Weib starrte und an … rief:
 
-»Worin Gott — das sind ja Angelten Dawes’ Gürtel«
+»Mein Gott — das sind ja Inspektor Dawes’ Gäste!«
 
-<h2>5. Kapitel</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Die Treppe,</h3>
 
-Komödie das ,. 7 Spiegelfechterei, Schlauheit?!
+Komödie das …? Spiegelfechterei, Schlauheit?!
 
 Ohne Frage!!
 
-Und Harst sagte denn auch, fortwährend aus das Weib
-Flehend, deren gedunsenes rotes Gesicht und wässerig«- Augen
-he Vorliebe für Spirituosen verrieten:
+Und Harst sagte denn auch, fortwährend auf das Weib
+zielend, deren gedunsenes rotes Gesicht und wässerige Augen
+die Vorliebe für Spirituosen verrieten:
 
-»Sparen @he sich all diese Mädchen, Frau Prendorlagx!
-Sie haben ja des Doktors Brief geôössuei und die Stempel
-ihrer schweißigen innen aus dem Papier zurückgelassen!
+»Sparen Sie sich all diese Mätzchen, Frau Prenderlax!
+Sie haben ja des Doktors Brief geöffnet und die Stempel
+ihrer schweißigen Finger auf dem Papier zurückgelassen!
 Sie wußten, daß nur Harst und Schraut hier in der Villa
 sein konnten! Versuchen Sie nicht, mir einreden zu wollen,
-Sie hätten hier Diebe vermutet. Als Sie hörten, daß mir
-das Gasrohr zukehrten, haben Sie Ihren Blau geändert.
+Sie hätten hier Diebe vermutet. Als Sie hörten, daß wir
+das Gasrohr zukehrten, haben Sie Ihren Plan geändert.
 Mich betrügt man nicht!«
 
-Seine Summe schimpft …
+Seine Stimme schwoll …
 
-»Und nun werden Sie die Hunde dort in Trennung
-Arbeitszimmer einsperren — sofort!!! Glauben Sie nicht,
-das: ich etwa zögern werde, von meiner Waffe Gebrauch zu
-machen! Ah … Siehe höchst selten vorbei! — Gehorchen
-Sie oder Ahne Doggen leben seine Minute mehr!«
+»Und nun werden Sie die Hunde dort in Groupys
+Arbeitszimmer einsperren — sofort!! Glauben Sie nicht,
+daß ich etwa zögern werde, von meiner Waffe Gebrauch zu
+machen! Ich … schieße höchst selten vorbei! — Gehorchen
+Sie — oder Ihre Doggen leben keine Minute mehr!«
 
 <@pagebreak/>
-Das Gesicht des Meines verzog sich dar ohnmächtiger
-Wut hole im Krampf …
+Das Gesicht des Weibes verzog sich vor ohnmächtiger
+Wut wie im Krampf …
 
-Ehre Augen flackerten auf …
+Ihre Augen flackerten auf …
 
 die Hunde knurrten dumpf …
 
 Aber — Frau Prenderlax hatte Angst — Angst vor
-unseren Pistolen, …
+unseren Pistolen …
 
-Und !— gehorchte …
+Und — gehorchte …
 
 Öffnete die Tür …
 
@@ -1261,53 +1264,53 @@ ins Zimmer zu schlüpfen!«
 Vielleicht hatte sie ähnliches beabsichtigt …
 
 Ein heiseres Röcheln einer unsagbaren Wut kam aus
-ihrer Stehle …
+ihrer Kehle …
 
 Sie drängte die Doggen ins Zimmer, zog die Tür wieder
-Du, hob die langen Arme und schüttelte polternd gegen uns
-Ehre Niesensäuste …
+zu, hob die langen Arme und schüttelte polternd gegen uns
+Ihre Riesenfäuste …
 
-»Feiglinge — — Feiglinge!!! Ist das eine Art, eine
+»Feiglinge — — Feiglinge!! Ist das eine Art, eine
 anständige Frau zu behandeln! Das ist Bedrohung —
-Nôötigung!! Anzeigen werde ich Sie beide!«
+Nötigung!! Anzeigen werde ich Sie beide!«
 
-Harsts hellere Stimme übertönte den eklen Worischwasß.
+Harsts hellere Stimme übertönte den eklen Wortschwall.
 
 »Schweigen Sie! Oder ich bringe Sie sofort ins Polizeigefängnis!
 — Jetzt werden Sie uns zu Margitt Sheffield
 führen!«
 
-Ihre Urne faulen herab … Ihr Kopf reckte sich das,
-und ihre groben Gesichtszüge nahmen den Ausdruck vorlag:
-obigen Staunens an …
+Ihre Arme sanken herab … Ihr Kopf reckte sich vor,
+und ihre groben Gesichtszüge nahmen den Ausdruck ungläubigen
+Staunens an …
 
-»Zu wen?« fragte sie langsam. »Zu wem? Wie war
-der Name … Margitt … Steif …, Shesgielß …?«
+»Zu wem?« fragte sie langsam. »Zu wem? Wie war
+der Name … Margitt … Sheff …, Shefgielß …?«
 
 Sie spielte wieder Komödie, aber in der Vollendung.
 
-Sie wußte Bewegungen, Miene und Stirne tadellos
+Sie wußte Bewegungen, Miene und Stimme tadellos
 in Einklang zu bringen!
 
-Gicsäbrlich war sie — gefährlicher, als wir sie anfänglich
-Eingeschätzt hatten! —
+Gefährlich war sie — gefährlicher, als wir sie anfänglich
+eingeschätzt hatten! —
 
 Harst machte Lediglich eine befehlende Handbewegung
-nach der Hauëêtür bin …
+nach der Haustür hin …
 
-er Klang Prenderlax rührte Horcht …
+Aber — Frau Prenderlax rührte sich nicht …
 
 <@pagebreak/>
 Sagte mit demselben schauspielerischen Geschick:
 
-»Ich ferne seine Morast Shesgielß … Was wollen
+»Ich kenne keine Margitt Shefgielß … Was wollen
 Sie eigentlich von mir?«
 
 »Gehen Sie uns voran ins Henker-Haus hinüber! Tun
 Sie genau, das ich wünsche, oder wir werden Ihnen die
 Hände binden und Sie zwingen!«
 
-»Sie — — zwingen — — ui …« Jahre Stimme
+»Sie — — zwingen — — mich …« Ihre Stimme
 schrillte. Eine unendliche Verachtung und Geringschätzung
 lag in diesen Worten.
 
@@ -1315,7 +1318,7 @@ Ebenso schnell änderte sie Ton und Miene. Fügte leiser
 hinzu, fast bescheiden:
 
 »Mister Harst, ich werde gehorchen. Aber ich schwöre
-Ihnen: ich kenne seine Mar…«
+Ihnen: ich kenne keine Mar…«
 
 Sie hatte Margitt sagen wollen …
 
@@ -1334,77 +1337,77 @@ des großen, düsteren Gebäudes …
 
 Frau Prenderlax zog einen Schlüssel hervor.
 
-Sarfıd Augen und der Lichtkegel der Taschenlampe belauerten
+Harsts Augen und der Lichtkegel der Taschenlampe belauerten
 jede ihrer Bewegungen …
 
 Wir traten ein …
 
 Eine Vorhalle, wie sie in England in Landhäusern
-üblich … Ein Niefenfamin, eichene Stühle und Tische, an
+üblich … Ein Riesenkamin, eichene Stühle und Tische, an
 den Wänden Malereien in grellen Farben — elendes
-Stimperwert — yuuliiwan dicke Motive: alles Szenen von
-Einrichtungen, und auf jedem Bilde eine Hauptfigur: der
+Stümperwerk — grauenvoll die Motive: alles Szenen von
+Hinrichtungen, und auf jedem Bilde eine Hauptfigur: der
 Henker!
 
-Dawes hatte ins erzählt, daß der berühmte Bastimon
-biete Fingerchen verbrochen Hallte, daß der Henker auf den
-Bandarmälden er reibst sein sollte.
+Dawes hatte uns erzählt, daß der berühmte Bastimon
+diese Pinseleien verbrochen hatte, daß der Henker auf den
+Wandgemälden er selbst sein sollte.
 
 <@pagebreak/>
 
-Auch ich faltete Am meine Tafchertlanıye ein.
+Auch ich schaltete nun meine Taschenlampe ein.
 
-In diesem weiten hohen Raume, ans dem der Tür gegenüber
-eine sehr breite Treppe mit reichgeschnitzten Geländer
-(auch Bastimons Werk!) in den Flur des ersten Stocke
+In diesem weiten hohen Raume, aus dem der Tür gegenüber
+eine sehr breite Treppe mit reichgeschnitztem Geländer
+(auch Bastimons Werk!) in den Flur des ersten Stocks
 emporlief, — hier verlor sich der Lichtschein der einen Lampe
-wir das armselige Flackern eines Zlindholzes.
+wie das armselige Flackern eines Zündholzes.
 
 Mitten in der Halle standen wir drei …
 
-Frau Prenderlag hatte sich umgedreht …
+Frau Prenderlax hatte sich umgedreht …
 
-»Mister Harst,« sagte sie sehr saugt, »wir wollen nun doch
+»Mister Harst,« sagte sie sehr sanft, »wir wollen nun doch
 als vernünftige Menschen vernünftig miteinander reden. Ich
-wicherhofe: ich ferne seine Margitt Schriller oder wie sie sonst
-heißen soll ……«
+wiederhole: ich kenne keine Margitt Sheffler oder wie sie sonst
+heißen soll …«
 
-Harst hob den Arm — deutete aus die Treppe:
+Harst hob den Arm — deutete auf die Treppe:
 
 »Bitte — —!! Margitt Sheffield wurde oder wird noch
-dort oben irgendwo gefangen gehalten. Sie hat es fer1iu-gebracht,
+dort oben irgendwo gefangen gehalten. Sie hat es fertiggebracht,
 am fünfzehnten Mai dieses Jahres nachts gegen
-elf Uhr mit Hilfe einer Laterna machen oder eines ähnlichen
-Apparates eine Art Geheimschrift aus die Wand der Villa
+elf Uhr mit Hilfe einer Laterna magica oder eines ähnlichen
+Apparates eine Art Geheimschrift auf die Wand der Villa
 Doktor Groupys zu werfen, und das konnte sie nur, wie die
-Lage der beiden Häuser mir beweist, von oben tun, wahr-schecinlih
-aus dem zweiten Staocktverk …«
+Lage der beiden Häuser mir beweist, von oben tun, wahrscheinlich
+aus dem zweiten Stockwerk …«
 
-Die Walküre, der Satan, machte zu alledem ein so der
-Flusses, Braunrotes Gesicht, daß ich tatsächlich geneigt war,
+Die Walküre, der Satan, machte zu alledem ein so verblüfftes,
+staunendes Gesicht, daß ich tatsächlich geneigt war,
 ihr Glauben zu schenken.
 
 Nicht so Harst …
 
-Er, der von uns beiden auch der befreie Menschenkenner
+Er, der von uns beiden auch der bessere Menschenkenner
 ist, ließ sich nicht täuschen.
 
-»Gehen Sie voran — nach oben!« befaßt er kurz …
+»Gehen Sie voran — nach oben!« befahl er kurz …
 
 Im selben Moment lief Über des Weibes grobe Züge ein
 wahrhaft satanisches Grinsen …
 
-»Gut — wehe Sie wollen!« meinte sie mit einem Blick, der
-üHerscegenen Hohn und versteckte Drohungen chiffriert, »Wie
-Sie wollen …!! Sie suchten alte älteren Rate frei ins
-unmöbliert finden ……« Ihre Siüimmce nahm wieder einen
+»Gut — wie Sie wollen!« meinte sie mit einem Blick, der
+überlegenen Hohn und versteckte Drohungen enthielt. »Wie
+Sie wollen …!! Sie werden alle oberen Räume leer und
+unmöbliert finden …« Ihre Stimme nahm wieder einen
 geradezu demütigen Ton an, und Miene und Augenausdruck
-dasitzen sich dem vortrefflich an - so vortrefflich, daß ich
+paßten sich dem vortrefflich an — so vortrefflich, daß ich
 <@pagebreak/>
 mir sofort sagte, hier drohe uns tatsächlich irgendein Unheil.
 
 Auch Harald hatte die jähe Scheinheiligkeit des robusten,
-diebischen Weibes stutzig gemacht …
+tückischen Weibes stutzig gemacht …
 
 Er schien zu überlegen …
 
@@ -1413,11 +1416,11 @@ die seinen Blick kühl und gleichgültig aushielt …
 
 Und sagte zu mir:
 
-»Wir werden sie In die Dürfte nehmen … Ich gehe
-voran …, Halte Die Augen offen!«
+»Wir werden sie In die Mitte nehmen … Ich gehe
+voran … Halte Die Augen offen!«
 
 Die Prenderlax ließ plötzlich den Kopf tief auf die Brust
-fünfen …,
+sinken …
 
 Auch Ihre Schultern sanken. Ihre ganze Haltung deutete
 Mutlosigkeit und Verzweiflung an …
@@ -1427,70 +1430,70 @@ Etwas wie ein Seufzer kam Über ihre Lippen …
 Und dann — — stoßweise — — leise Worte — — das
 Geständnis:
 
-»Ich … Oh will alles zugeben, Mister Harst … Mark
-Margitt Sheffield ist oben im zweiten Stock eingesperrt ……!«
+»Ich … ich will alles zugeben, Mister Harst …
+Margitt Sheffield ist oben im zweiten Stock eingesperrt …!«
 
-»Also doch!« meinte Harald nur. »Gut — darf, dann
+»Also doch!« meinte Harald nur. »Gut — dann, dann
 zeigen Sie uns den Weg!«
 
-Und wir — Dir beide so oft Erprobte, wir beide, die
-wir uns einbildcien, Spreu von Weizen scheiden zu können,
+Und wir — wir beide so oft Erprobte, wir beide, die
+wir uns einbildeten, Spreu von Weizen scheiden zu können,
 wir … schritten ahnungslos hinter der In demütiger, gebrochenen
 Haltung vor uns die Stufen langsam emporsteigenden
 Frau Prenderlax her …
 
-Die Stufen dieser Treppe, die ihr abscheulich Geschmack
-[dies geschnitztes Geländer nun im Lichte der Taschenlampen
-bog enthüllte …
+Die Stufen dieser Treppe, die ihr abscheulich geschmackloses
+geschnitztes Geländer nun im Lichte der Taschenlampen
+voll enthüllte …
 
 Henker Bastimon, der Künstler, hatte auch hier bei dieser
-Schnigarbeit seine Vorliebe für grausige Bilder verraten,
-hatte den Straßen des Geländers die Gestalt von Gehenkten!
-gegeben, die am Galgen baumelten, hatte die Laute oben
+Schnitzarbeit seine Vorliebe für grausige Bilder verraten,
+hatte den Stäben des Geländers die Gestalt von Gehenkten
+gegeben, die am Galgen baumelten, hatte die Knäufe oben
 als Totenschädel hergestellt, hatte sein früheres Handwerk in
-dieser Weise hier aber mal? gepriesen …
+dieser Weise hier abermals gepriesen …
 
 Es mußte ein sehr merkwürdiger Kauz gewesen sein
 dieser Bastimon! —
 
 <@pagebreak/>
 
-kläglich blieb Frau Prenderlax mitten auf der Treppe
-stehen wo zeigte auf einen Pfeiler, der das Gebäude teilte,
+Plötzlich blieb Frau Prenderlax mitten auf der Treppe
+stehen und zeigte auf einen Pfeiler, der das Gebäude teilte,
 
-»Da — das ist Bastimon … Er hat sich hier selbst verneigt
+»Da — das ist Bastimon … Er hat sich hier selbst verewigt
 …«
 
-Und sie legte die Hand auf den Kopf dieser Pseiler-slätue
+Und sie legte die Hand auf den Kopf dieser Pfeilerstatue
 eines Mannes mit langem Vollbart und mächtiger
-Halennasée …
+Hakennase …
 
 Und — das Hatte sie gewollt …
 
 Nur deshalb das Geständnis …: damit wie hinter Ihr
-blieben, damit sie den on) berühren könnte und — sich feil
-abwärts dann auf das Geländer schnellen …
+blieben, damit sie den Kopf berühren könnte und — sich
+seitwärts dann auf das Geländer schnellen …
 
 Kaum hatte ihre schwere Hand das Haupt der Statue
-berührt, kaum hatte der Satan von Weib sich der Gesät
-entzogen, als unter uns eine Reihe von Stufen blißschneu
+berührt, kaum hatte der Satan von Weib sich der Gefahr
+entzogen, als unter uns eine Reihe von Stufen blitzschnell
 nach unten klappte …
 
-Und — wir beide glitten in die diese hinab — — fielen,
-Seelen …
+Und — wir beide glitten in die Tiefe hinab — — fielen,
+fielen …
 
 Schlugen irgendwo auf …
 
-Ich hörte noch ein mündet Krachen und Knien …
+Ich hörte noch ein mürbes Krachen und Knicken …
 
-Und — — wurde ohnmächtig. « «
+Und — — wurde ohnmächtig.
 
-Minuten nur .:.
+Minuten nur …
 
-Erwache …
+Erwachte …
 
-Am Boden brannten zwei Taschenlampen, deren Licht
-Segel den Hügel beleuchteten, in den ich halb eingefunden
+Am Boden brannten zwei Taschenlampen, deren Lichtkegel
+den Hügel beleuchteten, in den ich halb eingesunken
 war …
 
 Ein Hügel — ein Berg von …
@@ -1498,15 +1501,15 @@ Ein Hügel — ein Berg von …
 Und — — ich schnellte Hoch …
 
 Stierte auf den Berg menschlicher Gebeine, die da Hoch
-aufgeschichtet meinen Stute Komischer: hatten …
+aufgeschichtet meinen Sturz gemildert hatten …
 
-Stierte auf Harst, der regungslos quer Über erregt Ob
-tippe kg … —
+Stierte auf Harst, der regungslos quer Über einem Gerippe
+lag … —
 
-*Das* war die Treppe des Todes des Henkers Das
-Bin … — —
+*Das* war die Treppe des Todes des Henkers Bastimon
+… — —
 
-Sein Tagebuch dringe ich ja zarten Teil …
+Sein Tagebuch bringe ich im zweiten Teil …
 
 <@pagebreak/>
 
@@ -1570,7 +1573,7 @@ Treppe des Todes konstruiert und mit Ihrer Hilfe durch den
 Sturz in die diese Unzählige gemordet haben könnte, —
 derselbe Bastimon, der doch offenbar seinen Gemälden und
 Bildhauerarbeiten nach geradezu in den Erinnerungen an
-sein Henferhandivert gefchweigt haben mußte …!
+sein Henkerhandwerk gefchweigt haben mußte …!
 
 Ich legte Harst in eine Ecke des quadratiiten Echednv-der
 eine Seitenlänge von etwa vier Meter haben mochte.
@@ -1749,7 +1752,7 @@ berauanchoben, hatte in die Öffnung dahinter hineingeschnitten
 und — einen dicken, in Schwerreicher gebundenen
 Folianten, ein Buch in Form einer Bibel, hervorgezogen …
 
-»Siehst Du — auch Storchsclnäbcl und ein Rüssel sowie
+»Siehst Du — auch Storchschnäbel und ein Rüssel sowie
 der lange Hals einer Giraffe können wichtig sein, denn —
 genau unter dem Graflentopf liegt dieses Versteck …«
 
@@ -1801,7 +1804,7 @@ Gehenkten faulen …
 
 Der andere kam und verlangte ein Tuch, getränkt mit
 liebem Speichel, der einem Verurteilten unter dem Galgen
-vor Todeáangst aus dem Munde geflossen war …
+vor Todesangst aus dem Munde geflossen war …
 
 Ein dritter wünschte ein Büschel Haare vom Kopf eines
 Gehenkten …
@@ -1821,7 +1824,7 @@ So ersann ich die Treppe des Todes …
 
 Baute sie …
 
-Nun ist sie fertig. Wenn ich auf den Kopf der Säulen-flatue
+Nun ist sie fertig. Wenn ich auf den Kopf der Säulenstatue
 am linken Geländer drücke, auf *meinen* Kopf, dann
 … dann öffnet sich der Schlund … —
 
@@ -2540,7 +2543,7 @@ Ich entschied mich für etwas Besseres …
 »Wenn ich bitten darf!«
 
 Er trat an ein Schränkchen heran, zog ein Fach heraus.
-Entnahm einem Schächtelchen ein Tapiertütchen …
+Entnahm einem Schächtelchen ein Papiertütchen …
 
 »So — nun noch ein Glas Wasser,« sagte er und füllte
 ein Glas unter der Leitung des großen Waschbeckens …
