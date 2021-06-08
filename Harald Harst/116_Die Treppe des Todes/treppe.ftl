@@ -1,4 +1,4 @@
-<div style="white-space: pre-wrap; margin-left: 1em; text-indent: 0em;"/>
+<div style="white-space: pre-wrap; margin-left: 1em; text-indent: 0em;">
 Helfen mein hier *mir*
 trach Sie Lon Haben *einer*
 Wen gitt Sie eige gefan *nach*
