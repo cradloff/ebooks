@@ -4,34 +4,34 @@
 
 <h2>1. Kapitel,</h2>
 
-<h3>Der gceheimmisnnfle Metier,</h3>
+<h3>Der geheimnisvolle Retter.</h3>
 
-Dicker Doktor James Groupy, mit dessen Versen ich nur
-»seine Leser näher bekannt mach on will, spielte bereits bei
-unserem vorigen Abenteuer («Die Treppe des Todes«) eine
+Dieser Doktor James Groupy, mit dessen Person ich nun
+meine Leser näher bekannt machen will, spielte bereits bei
+unserem vorigen Abenteuer (»Die Treppe des Todes«) eine
 gewisse Rolle, wie man sich noch erinnern dürfte.
 
-Er hatte in dem Städten Brandy in England in einer
-einsamen Villa Schaust und war uns dann aus den Augen
+Er hatte in dem Städten Bramby in England in einer
+einsamen Villa gehaust und war uns dann aus den Augen
 gekommen, als wir jenen Thomas Balling suchten, Der als
-Hengst hatte: und Mörder endlich in dem Vordere
-Vorort Garden Lavryc vom Scheich!ja!l ereilt wurde, — und
-dieses Schicksal war mein Forum: Harald Harst!
+Heiratsschwindler und Mörder endlich in dem Londoner
+Vorort Garden Lavryc vom Schicksal ereilt wurde, — und
+dieses Schicksal war mein Freund Harald Harst!
 
-Wir ruhten von James Groupy so gut wie nicht. In
-Brandy hatte er zwei Jahre lang in einer Verkleidung als
-Sonderling, als Amateur- Zoologe, gelebt. Sein wahrer
-Name, seine Herkunft, die Rinde für dieses geheimnisvolle
-Dasein in Brandy blieben 11,5 unbekannt. Er hatte, bevor
+Wir wußten von James Groupy so gut wie nichts. In
+Bramby hatte er zwei Jahre lang in einer Verkleidung als
+Sonderling, als Amateur-Zoologe, gelebt. Sein wahrer
+Name, seine Herkunft, die Gründe für dieses geheimnisvolle
+Dasein in Bramby blieben uns unbekannt. Er hatte, bevor
 er verschwand, uns gegenüber lediglich angedeutet, Daß
 er mehr ein Unglücklicher denn ein Verbrecher sei, und sein
-Verhalten bei unteren Erlebnissen mit der Treppe des Todes
-und sein sympathisches, intelligentes Gesicht sprachen durch
-aus dafür, daß, falls sein Gegossen irgendwie belastet war,
-nur eine Verkettung bcsonbderer Umstände ihn in schwere
+Verhalten bei unseren Erlebnissen mit der Treppe des Todes
+und sein sympathisches, intelligentes Gesicht sprachen durchaus
+dafür, daß, falls sein Gewissen irgendwie belastet war,
+nur eine Verkettung besonderer Umstände ihn in schwere
 Schuld verstrickt haben könnte. — —
 
-Nach dieser kurzen Einiciunga führe ich meine Leser in
+Nach dieser kurzen Einleitung führe ich meine Leser in
 ein Logierzimmer des bescheidenen Gasthofs »Zur hellen
 Sonne« des Vorortes Garden Lavryc,
 
@@ -45,84 +45,83 @@ Balling die Maske vom Gesicht gerissen hat — bildlich gesprochen
 …
 
 Wir sind müde und abgespannt, sitzen noch auf dem
-harten Sofa beieinander und rauchen und tauschen gelegents-lich
+harten Sofa beieinander und rauchen und tauschen gelegentlich
 eine Bemerkung aus.
 
 Unser großes Gastzimmer liegt im Erdgeschoß des alten
 Gebäudes nach dem Obstgarten hinaus.
 
 Die Julinacht ist hell und heiß. Die oberen Scheiben
-der Fenster fielen offen, und der Luftzug weht die Vorhänge
-hin und der … —
+der Fenster stehen offen, und der Luftzug weht die Vorhänge
+hin und her … —
 
-Harst nimmt eine neue Miralulums-Zigarette, gähnt und
-t:
+Harst nimmt eine neue Mirakulum-Zigarette, gähnt und
+sagt:
 
 »Noch diese Zigarette, dann gehe ich schlafen, denn
 morgen …«
 
-Und da — da brach er mitten Im Sah ab …
+Und da — da brach er mitten Im Satz ab …
 
 Da war nämlich durch eines der offenen Fenster, an dem
-Vorhang entlangstreisend, polternd ein Stein aus den Teppich
+Vorhang entlangstreifend, polternd ein Stein auf den Teppich
 geflogen.
 
-An diesem Stein, den ich rasch aushob, war mit Bindfaden
+An diesem Stein, den ich rasch aufhob, war mit Bindfaden
 ein Zettel gebunden …
 
-Es Für lasen den Besuch — eine energisch?, sschmudclose Hände
-ritt
+Wir lasen den Zettel — eine energische, schmucklose Handschrift:
 
 > »Mister Harst, falls Sie versprechen, mich nicht etwa
 der Polizei auszuliefern, will ich Ahnen meine traurige
-Geschichte selbst aus die Gefahr hin, daß Sie mir nicht
+Geschichte selbst auf die Gefahr hin, daß Sie mir nicht
 glauben, erzählen, und Sie dann vielleicht bitten, mir zu
-besten. — Sollten Sie diese Zusicherung geben wollen, so
+helfen. — Sollten Sie diese Zusicherung geben wollen, so
 brauchen Sie nur das Licht in Ihrem Zimmer für zehn
 Sekunden auszuschalten. James Groupy.«
 
 Harald stand auf und — schaltete wortlos das Licht aus,
-zählte laut und langsam bis zehn und schaltete die langes
-Lampe wieder ein, trat an das Mittelsenstcr, zog den Vorhat
+zählte laut und langsam bis zehn und schaltete die Hängelampe
+wieder ein, trat an das Mittelfenster, zog den Vorhang
 <@pagebreak/>
-g auf, öffnete den einen Flügel und — half James
-wann beim Hineinklettern.
+auf, öffnete den einen Flügel und — half James
+Groupy beim Hineinklettern.
 
 Groupy stand vor uns .„…
 
 Er war legt nicht mehr verkleidet …
 
-Bassin schlanker Mann mit darboten, fingen Gesicht und
-fehl alten Augen, etwa fünfundvierzig Jahre alt …
+Ein schlanker Mann mit bartlosem, klugem Gesicht und
+lebhaften Augen, etwa fünfundvierzig Jahre alt …
 
-»Setzen Sie sich,« meinte Harald freundlich. »Bilde —
-Zig ’rette gefällig …«
+»Setzen Sie sich,« meinte Harald freundlich. »Bitte —
+Zigarette gefällig …«
 
 Groupy dankte,
 
-»Sie sind sehr licbenWwürig, Mr. Harst. Aber Ich rauche
-nie. Ich trinke auch keinerlei Alkohol. Ich muß mich getan
-: erhalten — — für meine Rache …«
+»Sie sind sehr liebenswürdig, Mr. Harst. Aber Ich rauche
+nie. Ich trinke auch keinerlei Alkohol. Ich muß mich gesund
+erhalten — — für meine Rache …«
 
-Warst nickte ernst. »Sie müssen Böses erlebt haben. —
+Harst nickte ernst. »Sie müssen Böses erlebt haben. —
 Sprechen Sie …«
 
 Der angebliche Groupy richtete sich in seinem Rohrsessel
 etwas auf …
 
 »Mister Harst, ich bin … der Mörder John Gybourg,«
-sagte er leise und seiten Tones, »Der Mörder seiner Frau,
+sagte er leise und festen Tones. »Der Mörder seiner Frau,
 wie die Londoner Polizei behauptet!«
 
 Harald blickte diesen John Gybourg prüfend an.
 
 »Ich entsinne mich,« meinte er bedächtig. »Sie haben
 Ihre Gattin vor etwa zwei Jahren durch einen Messerstich
-aus Eifersucht getötet — ganz plötzlich, ohne vorauÏSgeganae-nen
+aus Eifersucht getötet — ganz plötzlich, ohne vorausgegangenen
 Streit …«
 
 »Ich — soll Ellen getötet haben — soll! — Aber beim
-Andenken meiner braven Eltern schwöre ih’’d: ich tat es
+Andenken meiner braven Eltern schwöre ich’s: ich tat es
 nicht!! Ich weiß auch nicht, wer Ellen tötete. Ich weiß
 nur, daß, als ich damals am 5. April 1921 in unsere im
 zweiten Stock der Bagaller-Street Nr. 15 gelegene Wohnung
@@ -133,124 +132,124 @@ Lippen …
 
 Ich … stürmte hinein …
 
-Ich … fand mein junges Weib mit einem Doldmieffer
-im Herzen auf dem Teppich Bienen, noch umlegt — noch mich
+Ich … fand mein junges Weib mit einem Dolchmesser
+im Herzen auf dem Teppich liegen, noch atmend — noch mit
 <@pagebreak/>
 einem letzten Blick von mir Abschied nehmen …«
 
-Er treulos immer erregter,
+Er wurde immer erregter,
 
-Sein Körper flatterte wie Im Fieber Frost.
+Sein Körper flatterte wie Im Fieberfrost.
 
-»um — ich ftürmite weiter — ins Netenzimmer, stürmte
-in das Schlafzimmer, in den Flur … Ich mußte den Mole
-der doch noch erwischen!! — Am Flur traf ich das verstörte
-Sautmähnden, die ebenfalls den Schrei gehört hatte …
+»Und — ich stürmte weiter — ins Nebenzimmer, stürmte
+in das Schlafzimmer, in den Flur … Ich mußte den Mörder
+doch noch erwischen!! — Im Flur traf ich das verstörte
+Hausmädchen, die ebenfalls den Schrei gehört hatte …
 
 Sie hatte niemand gesehen … Kein Fremder war in
-der Wohnung gewesen — nur drei Portionen hatten sich dort
+der Wohnung gewesen — nur drei Personen hatten sich dort
 befunden: Ellen, das Hausmädchen Olivia und ich!!«
 
-Er schwieg … stierte zu Bojen — fuhr dumpf fort!
+Er schwieg … stierte zu Boden — fuhr dumpf fort:
 
-»Die Polizei kam … Ein Tercttipinjpeltor … Er
-vernahm Olivia .„… Ein erklärte, das seit einer Woche
+»Die Polizei kam … Ein Detektivinspektor … Er
+vernahm Olivia … Sie erklärte, daß seit einer Woche
 zwischen mir und Ellen, stets durch mich heraufbeschworen,
-lärmende Eiferfuchtsizesen sich hier in Der Wohnung ab«
-gespielt hätten …
+lärmende Eifersuchtsszenen sich hier in Der Wohnung abgespielt
+hätten …
 
-Und der Detektivinspektor bepflanzte von mir dann Auskunft
+Und der Detektivinspektor verlangte von mir dann Auskunft
 Darüber, weshalb ich nach anderthalbjähriger Ehe mit
-einem Male mich mit Ellen Steuert hätte, weshalb diese
-faulen Auftritte stattgefunden stauen …
+einem Male mich mit Ellen entzweit hätte, weshalb diese
+lauten Auftritte stattgefunden hätten …
 
-Ich ahnte, daß er mich verhaften mürbe, denn … denn
-die Mordwaffe, Mister Harst, war ein suilianisches langes
-Dolchmesser nicht geweihten Still, war — mein Eigentum
-und hatte gehe Meinem zelrübhnd Nr Meilenimprnfen an
-der Glaub Chancen, (elf der am …
+Ich ahnte, daß er mich verhaften würde, denn … denn
+die Mordwaffe, Mister Harst, war ein sizilianisches langes
+Dolchmesser mit geschnitztem Griff, war — mein Eigentum
+und hatte neben Meinem Schreibtisch als Reiseandenken an
+der Wand gehangen, fehlte dort nun …
 
-Ich ade: hier zog sich ein wider über mir zusammen!
-Alles — alles sprach gegen mich)! Nein Mensch war in
-unserer Betonung gewesen, der als Täter in Betracht kam:
+Ich ahnte: hier zog sich ein Gewitter über mir zusammen!
+Alles — alles sprach gegen mich! Kein Mensch war in
+unserer Wohnung gewesen, der als Täter in Betracht kam:
 nur ich!!
 
-Und da — da floh Ich, klug den Detektivinspektor Colley
-nieder und rammte aus die Straße, enuvijchte ., ««
+Und da — da floh Ich, schlug den Detektivinspektor Colley
+nieder und rannte auf die Straße, entwischte …«
 
 Er keuchte, zitierte …
 
 Hob nun den Blick …
 
-Schaute Harter durch belagert an …
+Schaute Harst durchdringend an …
 
-Sagte — indem er die Rechte gen Zimmers reckte:
+Sagte — indem er die Rechte gen Himmel reckte:
 
-So wahr über den Sternen eine lacht strömt. Hie 118
+»So wahr über den Sternen eine Macht thront, die uns
 <@pagebreak/>
-armseligen Mensclenkindern die Schicksalükarten mischt: (ich
-habe Ehen nichts getötet"!«
+armseligen Menschenkindern die Schicksalskarten mischt: ich
+habe Ellen nicht getötet!!«
 
-Und dann … dann fuhren pro drei herum …
+Und dann … dann fuhren wir drei herum …
 
 Klirrend war eine Fensterscheibe zertrümmert ins Zimmer
 geflogen …
 
-Zwei Flammen waren im Nu hereingeturnt, standen
-vor und …
+Zwei Männer waren im Nu hereingeturnt, standen
+vor uns …
 
 »ich bin Inspektor Colley,« sagte der eine barschen
-Tones. »Im Namen des Geredet verhafte ich Sie, Doktor
+Tones. »Im Namen des Gesetzes verhafte ich Sie, Doktor
 John Gybourg, wegen Ermordung Ihrer Gattin! — Der
-Bafnbofeneteftin hier ir Garden Lautete bat Sie wiedererkannt.
+Bahnhofsdetektiv hier in Garden Lavryc hat Sie wiedererkannt.
 Ihre scheues Benehmen fiel ihm auf. Sie mieden
 das Licht der Laternen. Nun — habe ich Sie!«
 
-John Gybourg sank aufstöüneund in den Sessel zurück,
+John Gybourg sank aufstöhnend in den Sessel zurück,
 bedeckte das Gesicht mit beiden Händen und … schwieg.
 
-Harald trat aus den Inspektor 1 …
+Harald trat auf den Inspektor zu …
 
-»Ich bin Harald Harst,« meinte er herfiel. »Sie, Mister
-Colley, werden ja nun Gybourg hier ins P’olizeigesängnis
+»Ich bin Harald Harst,« meinte er höflich. »Sie, Mister
+Colley, werden ja nun Gybourg hier ins Polizeigefängnis
 bringen. Bitte — vielleicht kommen Sie nachher wieder hierher
-zurück, damit wir als Fachleute den prall einmal gründlich
+zurück, damit wir als Fachleute den Fall einmal gründlich
 durchsprechen können …«
 
-Colley, ein Bremsen sein mit der Gestalt eines Preis-boxers.
-brummte acselzucdfead:
+Colley, ein kleiner Herr mit der Gestalt eines Preisboxers.
+brummte achselzuckend:
 
-»ins sollte das für Ehen Meer haben?! Der Fall lies!
-war, und wenn Sie, Mr. Harst, sich doch Gybourgs Bruch
-schauspielerisches Getue täuschen Wassern, dann ist Bad Ihre Sache.
+»Was sollte das für einen Zweck haben?! Der Fall liegt
+klar, und wenn Sie, Mr. Harst, sich durch Gybourgs heuchlerisches
+Getue täuschen lassen, dann ist das Ihre Sache.
 Ich Für meine Person …«
 
 Und da — geschah das andere …
 
-Da mischte sich eine frechste Person ein, Ebbe lautlos durch
-das Fenster eingestiegen tauge und nun dem Inspektor zurief:
+Da mischte sich eine sechste Person ein, die lautlos durch
+das Fenster eingestiegen war und nun dem Inspektor zurief:
 
-»Hände hat, Yolizeifpiueli!«
+»Hände hoch, Polizeispitzel!«
 
-las war eine denke brutale Sinne. Das war ein
-Maria in Ton all echt ist Sees Wir Nr
+Das war eine rauhe brutale Stimme. Das war ein
+Mann mit einem Zeugfetzen vor dem Gesicht und einem
 langen Cold-Revolver in der Hand …
 
-»Wer sich rührt, bekfonnnt eine VBletpllle,« rief er weiter.
-»Für Narren habt ja keine hasse! bereit! — Also, Mister
+»Wer sich rührt, bekommt eine Bleipille,« rief er weiter.
+»Ihr Narren habt ja keine Waffen bereit! — Also, Mister
 <@pagebreak/>
-Gybourg oder Sie Sie sonst heißen, — kneifen Sie aus!!
+Gybourg oder wie Sie sonst heißen, — kneifen Sie aus!!
 Schleunigst!! Ich halte die Herrschaften schon in Schach!«
 
-Gybourg war schon am Senkten … Verschwand.,
+Gybourg war schon am Fenster … Verschwand.
 
 Zu spät meldete Harald sich:
 
 »Bleiben Sie! Ich glaube an Ihre Schuldlosigkeit!«
 
-Und der Vaélkierte sagte zu Colley: »So — nun ist unsre
+Und der Maskierte sagte zu Colley: »So — nun ist unsre
 Rechnung quitt! Wir hatten noch miteinander ein Hühnchen
-zu rupfen! Es ist gerupft — nämlich Sie! !«
+zu rupfen! Es ist gerupft — nämlich Sie!!«
 
 Und rückwärtsschreitend erreichte er das Fenster, schwang
 sich hinaus und — war verschwunden wie John Gybourg. —
@@ -272,9 +271,9 @@ Der Inspektor erwiderte ziemlich unfreundlich:
 
 »Da ist nichts zu erklären, Mister Harst. Wenn in einer
 Wohnung nur drei Personen anwesend sind, und die eine
-Person wird ermordet, muß eine der beiden anderen Vers
+Person wird ermordet, muß eine der beiden anderen
 Personen die Tat verübt haben. Und das Hausmädchen Gybourgs,
-die Olivia Diamant, hat am Küchensenster gestanden
+die Olivia Pramart, hat am Küchenfenster gestanden
 und sich mit der Portierfrau unterhalten, bis sie den Todesschrei
 ihrer Herrin hörte, in den Flur lief und hier Gybourg
 begegnete, der so verstört war, daß er zunächst kein Wort
@@ -283,80 +282,80 @@ Schwindel, und seine Flucht damals war doch ebenfalls ein
 Schuldbekenntnis … — Gute Nacht, Mister Harst … War
 mir ein Vergnügen …«
 
-Und Colley und der Geheimpolizist fehlten Durch das
+Und Colley und der Geheimpolizist kehrten Durch das
 Fenster in den Garten zurück, um doch noch zu versuchen,
 die beiden Flüchtlinge Irgendwie erreichen zu können,
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
-<h3>Wir, der Ablöst und Ebbe Auflebte …</h3>
+<h3>Wir, der Mörder und die Kassette …</h3>
 
 »Immerhin ein ganz interessanter Fall,« meinte Harald,
-als wir nach diesen nächtlichen Überraschungen knieten
+als wir nach diesen nächtlichen Überraschungen wieder
 allein waren,
 
 Er hatte seine Mirakulum wieder angezündet und rauchte
 mit dem innigen Behagen des begeisterten Nikotinliebhabers.
 
 »Das heißt,« fügte er hinzu und zerstörte durch eine
-rasche Handbewegung zwei wie Heiligenfcheine Über seinem
-Haupte jänvebende Rauchringe, »das heißt: interessant ist
-der Fall erst jetzt geworden. So raunte die Vorgänge In
+rasche Handbewegung zwei wie Heiligenscheine Über seinem
+Haupte schwebende Rauchringe, »das heißt: interessant ist
+der Fall erst jetzt geworden. Ich kannte die Vorgänge In
 Zahnarzt Doktor John Gybourgs Wohnung bereits aus den
-damaligen Zeitungönotizen, und mein Hirn hat diese Vorgänge
-als sogenannte Erinnerungen llicenlos aufbewahrt,
+damaligen Zeitungsnotizen, und mein Hirn hat diese Vorgänge
+als sogenannte Erinnerungen lückenlos aufbewahrt,
 nachdem es erst einmal hierauf eingestellt worden war …«
 
 Und auf die In der Zugluft wieder sehr lebhaft hin und
 her wehenden Fenstervorhänge blickend:
 
-»Interessant wurde das alles erst, als der Masklierte
-erschien und Gybourg befreite, — Ja, hast Du dabei Gybourgs
+»Interessant wurde das alles erst, als der Maskierte
+erschien und Gybourg befreite. — Ja, hast Du dabei Gybourgs
 verblüfftes Gesicht beobachtet, mein Alter?! Dieses
-Gesicht verriet allerlei. Ich wette, daß der Zahnarzt Leine
+Gesicht verriet allerlei. Ich wette, daß der Zahnarzt keine
 Ahnung hat, wer dieser Retter gewesen ist …«
 
-Und — im selben Moment eine Stimme — Ausgleich
-schob sich ein Kopf hinter dem wehenden Vorhang hervor!
+Und — im selben Moment eine Stimme — zugleich
+schob sich ein Kopf hinter dem wehenden Vorhang hervor:
 
 »Da haben Sie völlig recht, Mister Harst!«
 
 Es war Doktor John Gybourg …
 
-Langsam stieg er vollends ins Zinnen, blieb am Fenster
-flehen und fragte:
+Langsam stieg er vollends ins Zimmer, blieb am Fenster
+stehen und fragte:
 
-»Banden Sie Ihre Ansicht über mich im übrigen irgendwie
-Mörders, oh ein irr Bier Tische
+»Haben Sie Ihre Ansicht über mich im übrigen irgendwie
+geändert, oder bin ich hier sicher?«
 
-»Wie in Aörahams$ Echo!« nickte Harald, »Schar gen
+»Wie in Abrahams Schoß!« nickte Harald, »Schließen
 Sie nur die Fensterläden, damit uns der Inspektor Colley
-manch nochmals überrascht.«
+nicht nochmals überrascht.«
 
 <@pagebreak/>
-Ein dankbarer Blick aus zubringt Augen, offenen
-lugen traf Harald.
+Ein dankbarer Blick aus Gybourgs klugen, offenen
+Augen traf Harald.
 
-ich tatst, die Läden von innen vorzulegen …
+Ich half, die Läden von innen vorzulegen …
 
-Nun waren wir drei Hier vor jedem grünlichen Überfall
+Nun waren wir drei Hier vor jedem plötzlichen Überfall
 durch die Beamten sicher. Nun nahm auch Gybourg wieder
-am Zische Platz.
+am Tische Platz.
 
 »Wir würden jetzt sofort doch nicht einschlafen können,«
 sagte Harald, indem er Gybourg das Zigarettenetui hinhielt.
-»Sie werden natürlich den Rest der Nacht hier Vers
-bringen, und nachher bleiben Sie unter meinem Schutz, bis
+»Sie werden natürlich den Rest der Nacht hier Verbringen,
+und nachher bleiben Sie unter meinem Schutz, bis
 Ihre Sache aufgeklärt ist …«
 
 Gybourg seufzte …
 
-»Das wird auch Ihnen nicht gelingen, Mister Harst, —
+»Das wird auch Ihnen nicht gelingen, Mister Harst. —
 Wenn ich als gebildeter Mensch nicht über abergläubische
 Vorstellungen erhaben wäre, würde ich tatsächlich behaupten:
-hier spielen übernatürliche Dinge mit! — Teuren Sie:
-lehre heim, ich lege im Flur Mantel und Hut ab, nähere
+hier spielen übernatürliche Dinge mit! — Denken Sie: ich
+kehre heim, ich lege im Flur Mantel und Hut ab, nähere
 mich der Tür des Speisezimmers, höre Ellens Schrei, finde
 sie sterbend vor, die Mordwaffe im Herzen — meinen
 Dolch — meinen sizilianischen Dolch!!«
@@ -365,7 +364,7 @@ Dolch — meinen sizilianischen Dolch!!«
 Art dämpfte sofort des Doktors Erregung. »Genug davon!
 Ich möchte Ihnen schon in dieser Stunde sagen, daß ich
 bestimmt hoffe, den Fall in kurzem zu erledigen. Was Sie
-dabei Übernatürliches finden, ist lebhafte … Mörder-schlauheit.
+dabei Übernatürliches finden, ist lediglich … Mörderschlauheit.
 Der, dem Ihre Gattin zum Opfer fiel, dürfte
 sich so gut verborgen gehabt haben, daß er nachher unbemerkt
 entschlüpfen konnte.«
@@ -375,29 +374,29 @@ Gybourg schien etwas einwenden zu wollen.
 Aber Harald fuhr schon fort:
 
 »Wichtiger als all das erscheint mir die Person Ihres
-Retters, Doktor … — Sie lernen den Mann nicht?«
+Retters, Doktor … — Sie kennen den Mann nicht?«
 
 »Nein, bestimmt nicht. Er war zwar maskiert, aber auch
 Gestalt und Stimme waren mir völlig fremd.«
 
-»Und — sahen Sie ihn draußen im Garten nochmald,
+»Und — sahen Sie ihn draußen im Garten nochmals,
 <@pagebreak/>
-Ne er Ihnen die Flucht durch das Fenster ermöglicht
+nachdem er Ihnen die Flucht durch das Fenster ermöglicht
 hatte?«
 
-»Ja — nur von meiden … ich war In ein Gebüsch
-geschöpft … dann erschien der Fremde Im Senfterrabhnen,
+»Ja — nur von weitem … ich war In ein Gebüsch
+geschlüpft … dann erschien der Fremde Im Fensterrahmen,
 sprang heraus, schaute sich um und rief leise: »Sind Sie noch
 da, Mister Gybourg? Wenn ja, so flüchten Sie nach der
 Insel Garlabarg im Kanal … Dort können Sie unbelästigt
-leben,« — Ich meldete mich nicht, und er eilte der Straße
-zu, tue ein Auto auf ihn gewartet haben muß. Es raste mit
-ihm von dannen, — Und dann, als der Inspektor und sein
+leben …« — Ich meldete mich nicht, und er eilte der Straße
+zu, wo ein Auto auf ihn gewartet haben muß. Es raste mit
+ihm von dannen. — Und dann, als der Inspektor und sein
 Begleiter gleichfalls das Zimmer verlassen hatten, dann
 wollte ich zusehen, wie’s nunmehr hier bei Ihnen für mich
 stände …«
 
-Haralds graue Regen ruhten staunend auf Gybourgs
+Haralds graue Augen ruhten staunend auf Gybourgs
 ehrlichem, intelligentem Gesicht.
 
 »Merkwürdig!« murmelte er. »Merkwürdig …! Die
@@ -409,101 +408,101 @@ kleine Kanalinsel Garlabarg …!! — Wissen Sie etwas
 »Nun — Es ist ein winziges Felseneiland in der Bucht
 von Harwich, gehört der Familie der Lords Effingham und
 spielt in der Naturgeschichte eine ähnliche Rolle wie die
-tue! man: auf Garlabarg gibt es ebenfalls Shmwanızlofe
-sagen!«
+Insel Man: auf Garlabarg gibt es ebenfalls schwanzlose
+Katzen!«
 
 Gybourg nickte. »Als Engländer weiß Ich natürlich, daß
-die Katzen der Junger Man keine Schwänze haben.«
+die Katzen der Insel Man keine Schwänze haben.«
 
-»Ja — und dieselben Kannen kommen Hall ist auf Garlabarg
-vor, wo sie in den wodurch(, dringlichen Ehrlichen der
-Insel hausen und sich von Mömeneiern nähren, da aus den
-kippen Seevögel zu Donnernden nisten. So weit mir bekannt,
-wohnt auf Garlabarg nur ein Fischer, der die Hager
+»Ja — und dieselben Katzen kommen halbwild auf Garlabarg
+vor, wo sie in den undurchdringlichen Dickichten der
+Insel hausen und sich von Möweneiern nähren, da auf den
+Klippen Seevögel zu Tausenden nisten. So weit mir bekannt,
+wohnt auf Garlabarg nur ein Fischer, der die Katzen
 im Winter füttern muß.«
 
-Gybourg schüttelte den Kopf. »Und dort sollte ich aus
-Flucht suchensch! aus Ist in der Tat merkwürdig!«
+Gybourg schüttelte den Kopf. »Und dort sollte ich Zuflucht
+suchen?! Das Ist in der Tat merkwürdig!«
 
 »Ja — Ihr Fall wird immer interessanter, Doktor.
 Wenn Sie nun wünschen, daß wir uns damit beschäftigen
 <@pagebreak/>
-sollen, müßten Sie uns jetzt mal berichten, we8halbh es
-wischen »Ihnen und Ihrer Gattin zu Eifersuchtsszenen
+sollen, müßten Sie uns jetzt mal berichten, weshalb es
+zwischen Ihnen und Ihrer Gattin zu Eifersuchtsszenen
 kam …«
 
-»Das mit Ich tun, Mister Harst — Ja — und gerade
-dies wurde ja in den Zeitungen so sein gegen mich aus
-gebauscht, diese Eifersuchtsszenen! - Co lernte Gern und
-ihre Mutter im Sommer 1919 in Monte Carlo kennen,
+»Das will Ich tun, Mister Harst — Ja — und gerade
+dies wurde ja in den Zeitungen so sehr gegen mich aufgebauscht,
+diese Eifersuchtsszenen! — Ich lernte Ellen und
+ihre Mutter im Sommer 1919 in Monte Carlo kennen.
 Sie war die einzige Tochter des verstorbenen Oberst Marmaty.
 Ich verliebte mich in sie, und im kleinsten Kreise
-wurde dann Diner Monate später die Hochzeit gefeiert. Weine
+wurde dann drei Monate später die Hochzeit gefeiert. Meine
 Praxis, mein Privatvermögen sicherten uns ein behagliches
-Dasein. Wir leeren sehr glücklich, Ellen und ich …« Er
-sprach immer leiser. Die Erinnerung übeiwalligtie ihn …
+Dasein. Wir lebten sehr glücklich, Ellen und ich …« Er
+sprach immer leiser. Die Erinnerung überwältigte ihn …
 Seine Stimme bebte …
 
-»Gebe glücklich waren wir, obwohl es Tage gab, an
-denen Ellen seltsam trübe gestimmyst schien und dann zumeist
-allein weite Nadfahrten unternahm. Sie behauptete, das
-sei das beste Mittel gegen diese Gemüiusdepressionen. —
+»Sehr glücklich waren wir, obwohl es Tage gab, an
+denen Ellen seltsam trübe gestimmt schien und dann zumeist
+allein weite Radfahrten unternahm. Sie behauptete, das
+sei das beste Mittel gegen diese Gemütsdepressionen. —
 Aber mit der Zeit regten sich Doch in mir allerlei Zweifel,
 ob Ellen diese Ausflüge wirklich nur aus diesem Grunde —«
 
-»galt — eine Zwischenfrage,« fiel ihm Harst ins Wort,
-»Waren Sie Ihrer Gattin erste Liebe« Wissen Sie etwas
-Aber her Mutmaßte Vergangenoen?«
+»Halt — eine Zwischenfrage,« fiel ihm Harst ins Wort.
+»Waren Sie Ihrer Gattin erste Liebe? Wissen Sie etwas
+über Ellen Marmatys Vergangenheit?«
 
-»Nein, neun, nur das eine! ihre Muster führte ein sehr
-falsches Beben, reiste von einem Bad ins andere, von Dabei
-nach Fixen, von Nizza nach Belang in Ägypten, von Belang
+»Nein, nichts. Nur das eine: ihre Mutter führte ein sehr
+unstetes Leben, reiste von einem Bad ins andere, von Davos
+nach Nizza, von Nizza nach Heluan in Ägypten, von Heluan
 nach Karlsbad — und so fort — seit Jahren …«
 
-»Gut — und Sie folgten dann einst Tages Ihrer Gattin
+»Gut — und Sie folgten dann eines Tages Ihrer Gattin
 heimlich, beobachteten, daß sie mit einem Manne zusammentraf?«
 
-Gybourgs Augen nahmen den Ausdruck underhohlenen
+Gybourgs Augen nahmen den Ausdruck unverhohlenen
 Staunens an …
 
 »Ja — so ist …« Und nach kurzer Pause: »Richtig,
-Harald Harst sind mir gegenüber — Harald Harst! — Sie
-geschahen richtig kombiniert … In der Vorstadt Cottenham
+Harald Harst sitzt mir gegenüber — Harald Harst! — Sie
+haben richtig kombiniert … In der Vorstadt Cottenham
 überraschte ich Ellen mit einem Manne, der wie ein Arbeiter
 <@pagebreak/>
 aussah, Im Cottenham-Park. Sie behauptete, der
-Mann habe sie nur angesprochen und mit Ihr über Jahr
-Räder sich unterhalten. Dabei blieb sie Den Mann feiert
-erwischte ich nicht mehr. Er war auf seinem Wiedersah
-divongejagt, als Ellen mich bemerkt hatte, Wie gesagt —
-es war ein Älterer, Astloch gekleideter Mensch mit grauem
-Vollbart. — Und dieses Zusamuentressen mit diesem Manne
-bildete den Anlaß zu jenen Eifersuchtsszenen, Ich glaubte
-Ellen nicht, daß eile den Menschen nicht näher kenne. Zwar
+Mann habe sie nur angesprochen und mit Ihr über Fahrräder
+sich unterhalten. Dabei blieb sie. Den Mann selbst
+erwischte ich nicht mehr. Er war auf seinem Motorrad
+davongejagt, als Ellen mich bemerkt hatte. Wie gesagt —
+es war ein älterer, einfach gekleideter Mensch mit grauem
+Vollbart. — Und dieses Zusammentreffen mit diesem Manne
+bildete den Anlaß zu jenen Eifersuchtsszenen. Ich glaubte
+Ellen nicht, daß sie den Menschen nicht näher kenne. Zwar
 versöhnten wir uns, doch die steten Zweifel an ihrer Aufrichtigkeit
-beschworen stets aus neue häßliche Auftritte
-herauf. — Sich zertrümmerte Ellens Rad und Verbot ihr, das
-Haus ohne mich zu verlassen … Und dann — dann Vers
-kühn:en wir uns wiederum, bis mein nie zur Ruhe kommen«
-deca Mißtrauen mich verleitete, El’ens Sachen aus ihrer
-Mädchenzeit zu durchsuchen. tun einer Kassette mit doppeltem
-Boden fand ich … bist hier …«
+beschworen stets aufs neue häßliche Auftritte
+herauf. — Ich zertrümmerte Ellens Rad und Verbot ihr, das
+Haus ohne mich zu verlassen … Und dann — dann versöhnten
+wir uns wiederum, bis mein nie zur Ruhe kommendes
+Mißtrauen mich verleitete, Ellens Sachen aus ihrer
+Mädchenzeit zu durchsuchen. In einer Kassette mit doppeltem
+Boden fand ich … dies hier …«
 
-Er faßte in die Innentasche seiner Wette …
+Er faßte in die Innentasche seiner Weste …
 
-Brachte einen beschienenen starken Briefumschlag zum
+Brachte einen bescheuerten starken Briefumschlag zum
 Vorschein und reichte ihn Harald.
 
 Und ich beugte mich zur Seite, sah, daß auf der Vorderseite
-des Unmschlags in zierlicher Schrift stand:
+des Umschlags in zierlicher Schrift stand:
 
 > Der Tote \.\.\.\.
 
 — in englischer Sprache — nichts als die zwei Worte »Der
-Tote \.\.\.\.« — und vier Rupfte dahinter.
+Tote \.\.\.\.« — und vier Punkte dahinter.
 
 Dann zog Harald aus dem Umschlag eine Photographie,
-Stabineitformat, heraus …
+Kabinettformat, heraus …
 
 Eine — Photographie, der … der Kopf abgeschnitten
 war — ein Streifen von vielleicht drei Finger Breite …
@@ -512,22 +511,22 @@ Das, was von dem Bilde noch übrig, zeigte einen in
 einem Klubsessel zwanglos sitzenden Herrn in tadelloser
 Kleidung, Lackschuhen, weißen Gamaschen …
 
-Die eine Hand, sehr schmal und lang, ruhte auf bei
-Sessellehyne …
+Die eine Hand, sehr schmal und lang, ruhte auf der
+Sessellehne …
 
 <@pagebreak/>
 
-Die andere, die Finte, hielt einen Spazierstock mit reich
-Geschnitten Elfenbeinkrücke —
+Die andere, die linke, hielt einen Spazierstock mit
+reichgeschnitzter Elfenbeinkrücke —
 
 Harst drehte das Bild um,
 
-Da war auf der Ruck!Seite sorgfältig der Stempel des
+Da war auf der Rückseite sorgfältig der Stempel des
 Photographen ausradiert und auch von der über dem Stempel
-flehenden, mit Tinte geschriebenen Widmung war nur
-Roh übriggeblieben ein
+stehenden, mit Tinte geschriebenen Widmung war nur
+noch übriggeblieben ein
 
-> ich und ein a
+> \i und ein a
 
 Harald legte Briefumschlag und Bild auf den Tisch …
 fragte:
@@ -535,48 +534,48 @@ fragte:
 »Was erklärte Ihre Gattin zu diesem Bilde?«
 
 »Sie behauptete, sie habe nie gewußt, daß die Kassette,
-die einst ihrer Mutter gehört habe, diesen Doppelboden bei
-Säge. Und meine Schwiegermutter an wartete aus meine
-christliche Anfrage, die Kassette sei Eigentum ihres verstorbenen
+die einst ihrer Mutter gehört habe, diesen Doppelboden besäße.
+Und meine Schwiegermutter antwortete auf meine
+schriftliche Anfrage, die Kassette sei Eigentum ihres verstorbenen
 Mannes gewesen. Von dem Bild ohne Kopf habe sie
-bisher ruhten geahnt. — Trotzdem war meiner Eifersucht
+bisher nichts geahnt. — Trotzdem war meiner Eifersucht
 neue Nahrung gegeben. Wenn mich auch Ellens Zärtlichkeit
 für Tage wieder ablenkte, so erwachte das Mißtrauen dann
 doch stets mit doppelter Wucht … Und dann kam jener
 fünfte April, an dem Ellen ermordet wurde …«
 
-Harald törichtste starr auf die vor ihm Dienende kopflose
-Vdhotgargphie … Sagte etwas arifickahtnefeud:
+Harald blickte starr auf die vor ihm liegende kopflose
+Photographie … Sagte etwas geistesabwesend:
 
-»Kluftartige Ausführung. das Bild … Der Herr muß
-ein Verzierung gewesen sein … Diese Hände verraten
-Raffe …«
+»Erstklassige Ausführung, das Bild … Der Herr muß
+ein Gentleman gewesen sein … Diese Hände verraten
+Rasse …«
 
-Und plôövlich das Thema wechselnd:
+Und plötzlich das Thema wechselnd:
 
-»Nun werden wir schlafen neben. Sie, Doktor, werden
+»Nun werden wir schlafen gehen. Sie, Doktor, werden
 ab morgen in einer Verkleidung unseren Diener spielen.
 Wir verlassen Garden Lavryc und werden in London uns
-he früheres Heim ansehen. vor wohnt jetzt In Sherry
+Ihr früheres Heim ansehen. Wer wohnt jetzt In Ihrer
 Wohnung in der Bagaller-Street Nr. 15?«
 
-»Meine Schwiegermutter, die verwitwete Oberst Listig
-Mutmaßen, mit der ich rief dem Morde nicht mehr zusammengetroffen
-bin. Sie hat vor der Polizei erklärt. ach sie traue
+»Meine Schwiegermutter, die verwitwete Oberst Lizzia
+Marmaty, mit der ich seit dem Morde nicht mehr zusammengetroffen
+bin. Sie hat vor der Polizei erklärt, auch sie traue
 <@pagebreak/>
 mir einen Mord aus Eifersucht wohl zu. Das stand in
 allen Zeitungen.« —
 
 Doktor John Gybourg schlief auf dem Sofa in unserem
-Zimmeec. — Mittags elf Uhr baten wir Gybourg so gleicht«
-gestutzt, daß niemand ihn erkennen konnte. Harald tat so,
-als rollte er einen Diener mieten, verließ den Gasthof und
+Zimmer. — Mittags elf Uhr hatten wir Gybourg so zurechtgestutzt,
+daß niemand ihn erkennen konnte. Harald tat so,
+als wollte er einen Diener mieten, verließ den Gasthof und
 kehrte mit Gybourg zurück, der sich vorher heimlich durch
-den Garten enz1jernt hatte.
+den Garten entfernt hatte.
 
-<h2>3. Spanisch,</h2>
+<h2>3. Kapitel.</h2>
 
-<h3>Die Kapeninfel,</h3>
+<h3>Die Katzeninsel,</h3>
 
 In der Bagaller-Street, einer älteren engen Geschäst3-straße
 in der Nähe des Hute-Park, stiegen am Abend desselben
@@ -784,7 +783,7 @@ erreicht hatten.
 Ein Fischerboot, das Neue Auswurf, kam uns sehr gelegen.
 Wir fragten die Fischer nach der Frech Garlabarg,
 erhielten genaue Auskunft und legten eine Viertelstunde
-später an einen Bootssteg eines schmalen Usereinschnittes
+später an einen Bootssteg eines schmalen Ufereinschnittes
 vor Garlabarg an.
 
 Es begann bereits hell zu werden.
@@ -796,7 +795,7 @@ Wir fetteten den Nachen fett. fesselten auf den Holzsteg
 und schritten einen zwischen Dickicht und Bäumen fleht ansteigenden
 Pfad empor.
 
-bis — wir auf einer Lichtung inmitten dieser Jnsel-wildnis,
+bis — wir auf einer Lichtung inmitten dieser Inselwildnis,
 inmitten von Gestrüpp, Felsmassen, uralten Bäus-men
 und Sträuchern ein Bändchen gewahrten, — hell gestrichen,
 mit rotem Ziegeldach, blanken Fenstern und einem
@@ -816,7 +815,7 @@ dieses Spalierobst, diese weißgekalllen Obstbäume, diese
 Neiden von Beerensträuchern anzuschauen …
 
 Und mitten darin das kleine blitzblanke Hüttchen mit der
-hohen Wetterjahne aus dem Dach …
+hohen Wetterfahne aus dem Dach …
 
 Und jetzt … hinter dem einen Fenster ein rotbraunes
 Gesicht, umrahmsch von einem treiben Schifferbart …
@@ -855,7 +854,7 @@ wurde freundlicher …
 »Hut, Distel Gybourg, gut … Soll ich Sie beide denn
 also verbergen?«
 
-»Ja … Mnlordb wird nichts dagegen haben.«
+»Ja … Mylord wird nichts dagegen haben.«
 
 Und dieser Nachsah, in dem er wieder so allgemein einen
 <@pagebreak/>
@@ -1074,8 +1073,8 @@ Wir fehlen und an das eine Fenster …
 
 Diese Fenster, von außen, von der Bucht her, kaum zu
 bemerken, da Ne seitwärts von Rankengewächsen eingefaßt
-waren, hatten jedes eine Leine Lustscheidbe, die sich öffnen
-ließ, Und an dieser Scheibe mit ihrer blanken Messing-ümrähmung
+waren, hatten jedes eine Leine Luftscheibe, die sich öffnen
+ließ, Und an dieser Scheibe mit ihrer blanken Messingumrahmung
 hingen nun Haralds Blicke starr und scharf.
 
 Er erhob sich.
@@ -1150,7 +1149,7 @@ ausriciticie und mit überseuener Ruhe Tante:
 Ich werde Ihnen Meter Wurm weiß nicht Yıonıbiid zeigen, und
 ich warne Sie cinckringlih, sich ebenfalls in all die faulen
 Gesetzt n mit Fineinameriideln, die Lord Effingham da
-gefeit Jahren beireidbt. Tot er hier In Diner Felsenwohnung
+gefeit Jahren betreibt. Tot er hier In Diner Felsenwohnung
 Miß Ehen Marmartp beherbergt Da!, weiß ich cbenfaNna.«
 <@pagebreak/>
 Diese Achte Behauptung traf den Alten wie ein Keulenhieb
@@ -1293,13 +1292,13 @@ Einsam mitten auf der Lichtung der Baumriese, einsam,
 knorrig und stolz …
 
 Tobby schritt auf die Eiche zu, blieb vor einer in den
-Stamm eingelassenen großen Eisentasel stehen …
+Stamm eingelassenen großen Eisentafel stehen …
 
 Sie reichte bis zu den Erdvurzeln hinab, war viereckig
 und vielleicht zwei Meter hoch und ein Meter breit.
 
 An ihren Rändern quoll die Rinde wulstig über, so daß
-es aus den ersten Blick schien, als sei diese Eisentasel, verrostet
+es aus den ersten Blick schien, als sei diese Eisentafel, verrostet
 <@pagebreak/>
 und mit lahm mehr Lesbaren Buchstaben bedeckt, für
 alle Zeit und Ewigkeit fest mit dem Baume verbunden.
@@ -1351,7 +1350,7 @@ Dunkelheit …
 
 Die Eisenplatte war zugeworfen worden, und — noch
 etwas war geteerten: über den Ausgang des Schachtes,
-Eber die Schachtössnung war ein eiserner Deckel gefallen, ließ
+Eber die Schachtöffnung war ein eiserner Deckel gefallen, ließ
 <@pagebreak/>
 « nicht nicht lüften, fc kräftig Ich auch den Flachen Bartloser
 stemmte … —
@@ -1415,7 +1414,7 @@ Harald brummte: »Das ist sehr merkwürdig!« Und «-
 er wechselte die Batterie Dritter Taschenlampe aus, da sie cm
 schöpft war …
 
-Die Felswände, der rauhe Felöboben, selbst die zackige
+Die Felswände, der rauhe Felsboden, selbst die zackige
 Fell stehe der Höhle, nichts blieb unbeachtet; kein Zentimeter
 Gestein ward nicht behaftet! Und doch: es war alles umisonfl
 — alles!
@@ -1472,11 +1471,11 @@ vornehmste Welt Londons …
 <h3>— Im Palast Effingham.</h3>
 
 Ich liebe solche Titel rohe den obigen für unsere Abe1n-teuer
-durchaus nicht, denn sie erinnern zu sehr an Familien-romane,
+durchaus nicht, denn sie erinnern zu sehr an Familienromane,
 an irgendeine Liebesgeschichte, 1ränenreich und ui?-
 wahrscheinlich.
 
-Wenn ich trotzdem für den zweiten Teil des Verhäng-nisses
+Wenn ich trotzdem für den zweiten Teil des Verhängnisses
 Dr. Groupys diesen Titel wählte, so muß das weh:
 seine Gründe haben.
 
@@ -1577,7 +1576,7 @@ bleibt. noch 1«
 
 Vollstem lächelte 115 hob seinen Arm in den Hai ld@
 
-»Wer ein gutes So Seen bat, braucht ihn Acht zu zur-alten.
+»Wer ein gutes So Seen bat, braucht ihn Acht zu zufallen.
 Wer 08 nicht bat. - liebe!«
 
 Lady Doris hohe ich längst gerast …
@@ -1719,12 +1718,12 @@ Effingham fuhr leicht zusammen …
 Harsts scharfer Ton trieb ihm die helle Röte Eins Gesicht.
 Auf seiner Stirn bildeten sich) tiefe Falten …
 
-»sie … meinen Sie das?» fragte er dann, und sein
+»sie … meinen Sie das?« fragte er dann, und sein
 Blick wurde hoch unnötig und ablehnend.
 
 »Stets so, wie ich es sage, Diniert. Ich bin Harald
 Darf. Ich bewundere Ihre schmalen Hände und den wundervollen
-Sicgelring an Ihrem Wien kleinen Finger, den
+Siegelring an Ihrem Wien kleinen Finger, den
 es legten aus einer Photographie ohne Kopf bereist ums
 Staunen durfte …«
 
@@ -2062,7 +2061,7 @@ Anbrach — ich wir Ahmen besten — gegen ihren Gatten!
 Jeu weiß, daß Sie Lord Roger für den Anstifter eines
 An!Lichtung gegen Paracolea halten. — eine Steige noch:
 Lord Roger war reich, als er im Sie ward. Er hätte es
-nicht! nix geballt, eine Milliardärerochter zu wählen. Es
+nicht! nix geballt, eine Milliardärstochter zu wählen. Es
 war eine — Liebesheirat …«
 
 »E&8 ist eine Liebesheirat »nicht fl Es ist —
@@ -2137,7 +2136,7 @@ und wußten nicht, wohin es fuhr …
 
 Aeninftena ich mußte es nicht …
 
-Ich war nach dem brutalen Sandsackhich als wohl-rfchnärted
+Ich war nach dem brutalen Sandsackhieb als wohl-rfchnärted
 Bündel zu mir gekommen …
 
 Lag irgendwo, wo’s nach Benzin stank …
@@ -2446,7 +2445,7 @@ sich jetzt mit untergeschlagenen Beinen gleichfalls vor dem
 Ofen nieder, legte die Arme aus die Knie und starrte unverwandt
 in das hellbrennende Feuer.
 
-Sein dunkfleë Bronzegcsicht, um spielt von dem zuckenden
+Sein dunkfleë Bronzegesicht, um spielt von dem zuckenden
 en Schein, regte sich nicht, als er nun klar und deutlich
 jagte:
 
@@ -2545,7 +2544,7 @@ Ein dumpfes Stöhnen aus dem Buschwerk neben den!
 VBootsästeg veranlaßte Harst, in die Sträucher einander) en
 Ich bricht hinter ihm. Und — wieder erschien da der Vier?
 Sein Licht genügte gerade … Wir sahen zwei Männer im:
-Große liegen, mit Plumpen Köpfen, aber — um diese $ öpitc
+Große liegen, mit Plumpen Köpfen, aber — um diese $ spitze
 war:  kunstlose Verbände aus Zeugfetzen geschlungen
 
 »Tom und Chartum!« sagte Harald und beugte sich Herz -
@@ -2560,7 +2559,7 @@ sein roher Bösewicht ist …« Und leiser — Jeu! wieder
 Dunkelheit ringsum —; »Das erste Boot legt bereits an«
 Beobachten wir!«
 
-Vorsichtig schoben wir uns bis an den Rand des Busch-ftreisens.
+Vorsichtig schoben wir uns bis an den Rand des Buschstreifens.
 Die Wasseroberfläche warf immerhin so viel spärliches
 Licht zurück, daß wir genau erkannten, wie nun ein
 einzelner Mann von dem WMxtorboot auf den Eins sprang
@@ -2579,7 +2578,7 @@ ne!, als wir beide auch schon, Autorität noch den Lärm
 einer neuen Regenflut, in den Flur eindrangen …
 
 Lord Effingham hatte für nichts anderes Augen als für
-die reglose Gestalt des Seminolen dort auf dem Fellicppich
+die reglose Gestalt des Seminolen dort auf dem Fellteppich
 vor dem Glut und Licht ausstrahlenden Ofen.
 
 Und dieser Lord Effingham hatte wieder den grauen
@@ -2631,7 +2630,7 @@ Japan, das Effingham folge: wieder auszugleichen
 mit und Das ihn veranlaßte, den Sondieren mit jähem
 Nr per der Schulter zu packen …
 
-Warner., 1!« feuchte er, und das Wort gurgelte miß-Änenp
+Warner., 1!« feuchte er, und das Wort gurgelte Miß-Änenp
 vor ungeheurer Erregung über seine Lippen
 M: Orden eines 1chuldlojen Weibes, Zerstörer meines Liebes
 zuckt Du weißt nicht, was Du angerichtet hast!«
@@ -2664,7 +2663,7 @@ in blinder Eifersucht glaubte, dar intime Beziehungen anno
 schier war und jener Tun Lande — ruht,
 ahnen mich, mach Sie mir angetan haben! Nie hätten Sie
 Doris mitteilen dürfen, daß ich mit jener Frau, die mir
-er naheneftanden, heimlich zusammenlkam, und dies Nu
+er nahegestanden, heimlich zusammenlkam, und dies Nu
 <@pagebreak/>
 deshalb, um die letzten Beweise einer wilden Vergangen
 Scheit vernichten zu Dünnen, um von Ellen die Herausgabe
@@ -2686,7 +2685,7 @@ halb Horcherin, halb Dirne … »1«
 Paracoleas dunkle Augen hingen wie gebannt an des
 Lords nunmehr von Bart und Maske befreiten Gesicht …
 
-Als Effingham nun wie eitel öpft schwieg und mit einer
+Als Effingham nun wie eitel spitz schwieg und mit einer
 trostlosen Handbewegung den Kopf sinken ließ, sagte der
 Seminole leise:
 
@@ -2759,7 +2758,7 @@ Sein Gesicht wurde jetzt bleich und schlaff. Seine Lider
 senkt. 1 sich halb …
 
 »kann — dann war es doch Doris, die es tat
-munkelte er, und wie ein Frostschaucr ging’s über seine (See
+munkelte er, und wie ein Frostschauer ging’s über seine (See
 Gestalt bin. »Doch also … Tore! sei, ich habe
 
 es befürchtet! Ich Vunjeliger!! Wenn ich me auf den er
@@ -3020,7 +3019,7 @@ war — —
 ob habe nur noch hinzuzufügen, daß Paracolea jetzt
 Sie verwaltet bei Lord Gfüngban ist und daß Lady
 <@pagebreak/>
-Doris und letztens zur Taufe des Stammhalter3 eingeladen
+Doris und letztens zur Taufe des Stammhalters eingeladen
 hat Wir werden dann fraglos ein paar vergnügte Tage in
 England verleben. —
 
