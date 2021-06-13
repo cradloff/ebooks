@@ -27,7 +27,7 @@ Mein Name ist Fernando Rafalga — Graf Rafalga. Ich
 bin Spanier —«
 
 Ich bat ihn nun in Ihr Arbeitszimmer. Nachdem wir
-Platz genommen hatten begann der Spanier:
+Platz genommen hatten, begann der Spanier:
 
 »Ich komme mit einem sehr seltsamen Anliegen zu
 <@pagebreak 34/>
@@ -117,7 +117,7 @@ Berlin.
 
 > Fernando Graf Rafalga,
 
-> z. Z. Berlin W, Kneßebeckstr. 190,
+> z.&nbsp;Z. Berlin W, Kneßebeckstr. 199,
 
 > Pension Mutius.
 
@@ -178,7 +178,7 @@ handelt.«
 Ich wurde stutzig. — »Also beobachtet jemand das
 Haus mit einem Fernglas?« fragte ich gespannt.
 
-»Es sind zwei, Sie wechseln sich ab. Als Ihr in die
+»Es sind zwei. Sie wechseln sich ab. Als Ihr in die
 Küche gingt, fuhr drüben vor Nr. 21 ein Auto vor. Ihm
 entstiegen zwei Herren. Sie verschwanden im Hause. Nach
 vier Minuten kam der eine wieder heraus und half dem
@@ -194,7 +194,7 @@ sich in Charlottenburg, Krumme Straße 15, bei Herrn C.
 Bassano, dritten Stock links, befinden.«
 
 »Also Bassano heißt der Alte,« sagte ich. »Woher
-wußtest Du denn bereits um ¼ 11 heute vormittag, daß der
+wußtest Du denn bereits um ¼11 heute vormittag, daß der
 Mann, der den Herzog angesprochen hatte, gerade links im
 dritten Stock wohnt?«
 
@@ -240,7 +240,7 @@ des Speckeierkuchens hierher, lieber Balk. Ich bin zu
 faul aufzustehen. — Schraut, hole auch zwei Flaschen
 Rheinwein aus dem Keller.« —
 
-Als ich um ½ 3 mit etwas rotem Gesicht — wir drei
+Als ich um ½3 mit etwas rotem Gesicht — wir drei
 hatten oben im Speisezimmer jeder zwei Flaschen Rheinwein
 uns zu Gemüte geführt — wieder das Arbeitszimmer
 betrat, hatte »Frau Harst« ein Fernglas im Schoße liegen.
@@ -262,7 +262,7 @@ sprachlos. »Was mag das nun wieder bedeuten?!«
 
 »Es bedeutet den Sieg der Sirene über einen minderbegabten
 Odysseus,« lächelte Harald. »Die Sirenen suchten
-den Seefahrer Odysseus durch ihren Gesang auf ihre
+den Irrfahrer Odysseus durch ihren Gesang auf ihre
 Insel zu locken. Bekanntlich verstopfte er seinen Gefährten
 die Ohren und ließ sich selbst unverstopft an den Mast des
 Schiffes binden. So hörte er den Gesang und entging
@@ -286,6 +286,7 @@ etwas offen —«
 <h2>2. Kapitel.</h2>
 
 Ich brauchte im Speisezimmer nicht lange zu warten.
+
 Kurz nach dem Grafen betrat »Frau Harst« hüstelnd
 den Salon. Mit heißerer Stimme entschuldigte sie sich bei
 Rafalga, daß ihr das Sprechen schwer fiele: sie sei sehr erkältet.
@@ -324,7 +325,7 @@ gewaltsam entführt worden?«
 
 *Der Graf:* »Ja. Mein Auto wurde überfallen. Mich
 plünderten die Banditen aus. Und Eugenie raubten sie
-mir. Denken Sie, gnädige Frau: diese Schurken haben Eugenie
+mir. Denken Sie, gnädige Frau, diese Schurken haben Eugenie
 während dieser anderthalb Jahre hier in Berlin gefangen
 gehalten. Wo — das weiß Eugenie nicht. Man
 <@pagebreak/>
@@ -339,7 +340,7 @@ dann — dann hatten wir uns wieder!«
 nach Ihrer sonnigen Heimat zurückkehren —«
 
 *Der Graf:* »Nein, gnädige Frau —« Sehr zögernd
-und unsicher, »Eugenie hat den Wunsch ausgesprochen,
+und unsicher. »Eugenie hat den Wunsch ausgesprochen,
 noch einige Zeit in Berlin zu bleiben. Sie möchte zu gern
 erfahren, wo man sie hier gefangen hielt. Es soll ein kleines,
 einsames Häuschen an einem See gewesen sein. Nur
@@ -430,15 +431,15 @@ sehr — merkwürdig —«
 
 *Harst:* »Weshalb denn?«
 
-*Der Graf lebhaft:* »Weil, wir mir erst jetzt einfällt,
+*Der Graf lebhaft:* »Weil, wie mir erst jetzt einfällt,
 einer der Banditen damals uns zurief, als sie mit
 Revolverschüssen das Auto zum Stehen brachten: »Im
-Namen des Chrysostomos — wagt keinen Widerstand!«
+Namen des Chrysostomos — wagt keinen Widerstand!««
 
 *Harst:* »Darf ich Ihnen noch einen guten Rat geben,
-Herr Graf! — Sprechen Sie auch hierüber nicht mit
+Herr Graf? — Sprechen Sie auch hierüber nicht mit
 Ihrer nervösen Gattin. Die Erinnerung an den Überfall
-könnte vielleicht bei Ihrer Gattin einen Nervenschock und einen
+könnte vielleicht bei Ihrer Gattin einen Nervenchoc und einen
 Rückfall in jenem hypnotischen Zustand hervorrufen —«
 
 *Der Graf:* »Ganz recht. — Tausend Dank, gnädige
@@ -530,7 +531,7 @@ er heute im Auto bis zum Präsidium verfolgte?«
 <@pagebreak/>
 »Vermuten — ja! Er wird aber keine Beweise dafür
 haben. Die beiden, die uns hätten verraten können,
-eben Tosco und Rosarita sind tot.« —
+eben Tosco und Rosarita, sind tot.« —
 
 Es läutete an der Vordertür. Es war Kommissar
 Bechert.
@@ -555,7 +556,7 @@ in dicken Winterjoppen das Präsidium durch einen
 Nebenausgang. Die Männer trugen Lederstiefel mit Gummisohlen,
 ohne Absätze; die Männer waren Harst und ich.
 
-Um halb acht stiegen wir in Nr. 14, Krumme Straße
+Um halb acht stiegen wir in Nr. 14, Krumme Straße,
 die Treppen hinan bis zum Boden. Wir öffneten die
 Vorbodentür mit einem Dietrich, schlossen hinter uns wieder
 ab und befanden uns fünf Minuten drauf auf dem
@@ -600,7 +601,7 @@ wir sprachen zu leise —«
 ja nachher den Herzog in seine Wohnung locken.«
 
 »Ja — und Bassano wird nun die Nacht abwarten
-und dann mit Hilfe der Geheimtreppe in die verriegelte
+und dann mit Hilfe der Geheimtreppe in die versiegelte
 Wohnung eindringen, um dort festzustellen, ob die Briefe
 noch vorhanden sind. Am Tage hat er das nicht gewagt.
 Die Polizei konnte ja jeden Augenblick zurückkehren.« —
@@ -706,8 +707,8 @@ mußte.
 Ich spürte, daß mein Fuß gegen einen elastischen Widerstand
 stieß. Sie hätten den Faden dünner wählen sollen,
 Herr Bassano. Im Adreßbuch sind Sie und Ihre
-Wirtschafterin, eine Frau Tossio, für Nr. 15 dritten Stock links
-angegeben. Diese Frau Tossio dürften Sie selbst stets gespielt
+Wirtschafterin, eine Frau Toffio, für Nr. 15 dritten Stock links
+angegeben. Diese Frau Toffio dürften Sie selbst stets gespielt
 haben.«
 
 Dann holte er aus des Verkleideten Rocktasche ein
@@ -716,7 +717,7 @@ Schlüsselbund hervor.
 Unter dem Weiberrock trug der Mann schwarze Herrenbeinkleider.
 — Harald lachte ihm ins Gesicht.
 
-»Ah — ein Revolver in der Schlüsseltasche und vorn
+»Ah — ein Revolver in der Schlüsseltasche, und vorn
 ein Dolchmesser befestigt!« meinte er. »Herr Bassano, es
 wäre Zeit, auf jedes Leugnen zu verzichten. Ihre Größe
 stimmt mit der des Mannes überein, der uns heute im
@@ -759,10 +760,10 @@ Clement, entsicherte sie, schaltete auch seine Taschenlampe
 ein.
 
 »Sobald wir angegriffen werden, feuere ich, Herr
-Bassano.« sagte er ganz ruhig. »Schraut, zünde die Flurlampe
+Bassano,« sagte er ganz ruhig. »Schraut, zünde die Flurlampe
 an —«
 
-Das Glas puffte auf.
+Das Gas puffte auf.
 
 Harald ging in die Küche, in das Badezimmer. —
 »Nichts!« meinte er. »Nun die Zimmer. — Bitte, gehen
@@ -776,7 +777,7 @@ war niemand versteckt.
 Jetzt nahmen wir Bassano mit ins Schlafzimmer.
 Hier stand an der Außenwand ein ähnlicher Kleiderschrank
 wie oben bei Tosco. Es war ein Schrank aus gebeiztem
-Fichtenholz, sehr breit, ohne jede Verzierung,
+Fichtenholz, sehr breit, ohne jede Verzierung.
 
 »Herr Bassano,« begann Harald nun, »vielleicht sind
 ein paar Ihrer Freunde auf der Geheimtreppe versteckt —«
@@ -821,7 +822,7 @@ Papieren, sagte dann: »Hier ist ein Musiklehrer Alfio
 Ricosta polizeilich seit drei Jahren gemeldet. Also auch
 diesen Ricosta haben Sie gemimt, Bassano. Sie sind ein
 vielseitiger Fuchs in einem richtigen Fuchsbau. Tosco
-war Sprachlehrer: Sie Musiklehrer und Varieteeagent. —
+war Sprachlehrer; Sie Musiklehrer und Varieteeagent. —
 Sehen wir uns hier genauer um.«
 
 Was wir in Schubladen und Schränken fanden: alles
@@ -829,7 +830,7 @@ wertvolle Gegenstände — alles fraglos Diebesgut!
 
 »Herr Ricosta war also Hehler!« meinte Harald. »Die
 Loge des heiligen Chrysostomos dürfte für die Kriminalwissenschaft
-ein sehr lehrreichen Beitrag werden — ohne
+ein sehr lehrreicher Beitrag werden — ohne
 Frage!«
 
 Wir befanden uns jetzt im Wohnungsflur, wo Harst
@@ -866,7 +867,7 @@ Flurtür hier von innen im Schloß steckte. Es war auch die
 Sicherheitskette vorgelegt. Wir hatten also auch von dieser
 Seite keinerlei Überraschungen zu befürchten. —
 
-In Bassanos Wohnung war das größere der Balkonzimmer
+In Bassanos Wohnung war das größere der Vorderzimmer
 als Büro eingerichtet. Hier hatte Bassano als
 Agent seine Tätigkeit ausgeübt.
 
@@ -878,7 +879,7 @@ auf.
 In dem Koffer lagen Umschläge mit allerhand
 Papieren, Schmucketuis, in denen kostbare Perlenschnüre,
 Diamantenkolliers auf weicher Seide ruhten, Flaschen und
-Fläschchen mit allerlei Aufschriften; ein Kasten mit Schminken,
+Fläschchen mit allerlei Aufschriften, ein Kasten mit Schminken,
 falsche Bärte, Perücken, zwei künstliche Gebisse, deren
 Vorderzähne Goldplomben hatten, zwei Dolche, drei
 Repetierpistolen und ein einziger Männeranzug.
@@ -990,7 +991,7 @@ Im anderen Sessel lag Harald mit geschlossenen Augen
 und halb offenem Munde, aus dem die Zungenspitze
 ein Stückchen hervorragte.
 
-Bassano lehnte sich an den Schreibtisch. »Sie sehen
+Bassano lehnte sich an den Schreibtisch. »Sie sehen,
 <@pagebreak/>
 Herr Schraut, viel Leben steckt in *dem* Körper nicht mehr!«
 meinte er mit grausamem Hohn und deutete auf Harst.
@@ -1049,7 +1050,7 @@ nur heißen: »Nicht die Wahrheit sagen!«
 
 Ich überlegte blitzschnell. Dann lallte ich mühsam:
 
-»Im — im Polizeipräsidium —«
+»Im — im Polizei-präsidium —«
 
 Bassano nickte zufrieden. »Das habe ich mir gedacht.
 — Wer hat Rosarita und Tosco ermordet? War es der
@@ -1122,7 +1123,7 @@ taumelte und Sie ihn auffingen, kollerte auch ich vom Stuhl
 herab. Ich war nicht bewußtlos, nicht eine Sekunde. Die
 kleine Komödie hat jetzt ihnen Zweck erfüllt: ich weiß, daß
 Sie und Ihre Verbündeten Harst und Schraut nicht in der
-Blücherstraße Nr. 10 vermuten, daß also untere List geglückt
+Blücherstraße Nr. 10 vermuten, daß also unsere List geglückt
 ist —«
 
 Ich hatte mir inzwischen schon selbst die Fesseln abgestreift
@@ -1154,7 +1155,7 @@ aber hinter mir her.«
 
 Bassano schrieb dann auch die Adresse auf den Umschlag.
 <@pagebreak/>
-Dazwischen hatte Harald den kleinen Koffer wieder
+Inzwischen hatte Harald den kleinen Koffer wieder
 geöffnet und sich verschiedene Briefe angesehen, die an
 Bassano gerichtet waren.
 
@@ -1196,8 +1197,8 @@ setzten uns neben ihn.
 So fuhren wir nach dem Polizeipräsidium. Bassano
 sprach kein Wort.
 
-Gegen ¾ 12 langten wir im Präsidium an. Bechert
-arbeitete noch im seinem Dienstzimmer.
+Gegen ¾12 langten wir im Präsidium an. Bechert
+arbeitete noch in seinem Dienstzimmer.
 
 »Hier bringe ich den ersten der Chrysostomos-Brüder,
 lieber Bechert,« sagte Harald. »Morgen werden wir wohl
@@ -1250,7 +1251,7 @@ war einem Kellner aufgefallen, daß ein Gast in der Waschschüssel
 offenbar ein blutiges Kleidungsstück gereinigt hatte.
 Die Beschreibung paßte auf den Mann, von dem Sie mir
 ein Signalement gegeben hatten. Der Hotelgast hatte sich
-Tissano genannt. Der Hoteldirektor aber vermutete in ihm
+Tiffano genannt. Der Hoteldirektor aber vermutete in ihm
 den Herzog von — Sie sehen, lieber Harst, wir haben den
 Mörder. Aber von einem Haftbefehl wird Abstand genommen
 <@pagebreak/>
@@ -1270,7 +1271,7 @@ soeben aufgestanden. Er teilte uns mit, daß Bassano
 sich in seiner Zelle erhängt hätte. — Harald bat den
 Kommissar, die Verhaftung und den Tod des Italieners unbedingt
 geheim zu halten. Dann meldete Bechert noch, daß
-die Shingra Mao-Truppe in Berlin SW. Belle Alliance-Straße
+die Shingra Mao-Truppe in Berlin SW, Belle Alliance-Straße
 188 in drei möblierten Zimmern bei einem Kunsthändler
 Maggiori wohne, wie seine Beamten bereits festgestellt
 hätten. — Harst schlug vor, die Gauklergesellschaft
@@ -1298,19 +1299,19 @@ folgendes:
 Rafalga hatte heute früh gesehen, daß der Diener Baptiste
 mit der ersten Post einen Brief erhielt. (Also den
 Brief, den wir gestern in den Kasten geworfen hatten —
-den von Bassano geschriebenen Brief). Als er seiner Gattin
+den von Bassano geschriebenen Brief.) Als er seiner Gattin
 dies mitgeteilt hatte, die noch bei der Toilette war,
 hatte er gemerkt, wie sie unruhig wurde. Sie ging dann sofort
 unter einem Vorwand in das Dienerzimmer hinüber
 und kehrte von dort recht verstört zurück. Sie hatte dann
 gesagt, sie wolle vormittags Wäsche einkaufen. Der Graf
 <@pagebreak/>
-solle sie jedoch nicht begleiten. Um ½ 10 war sie davongefahren.
+solle sie jedoch nicht begleiten. Um ½10 war sie davongefahren.
 Gleich darauf hatten auch die beiden Diener um
 Urlaub gebeten. — Rafalga war trotz seiner Harmlosigkeit
 jetzt doch stutzig geworden und hatte »Frau Harst« gefragt,
 ob ihr Sohn von nichts von sich habe hören lassen: er hätte
-ihn zu gern persönlich gesprochen — »Frau Harst« hatte
+ihn zu gern persönlich gesprochen. — »Frau Harst« hatte
 erwidert, von Harald sei keine Nachricht eingetroffen. Der
 Graf möge ihr aber für alle Fälle schon jetzt sagen, wo er
 im Laufe des Tages zu finden sein würde.
@@ -1342,7 +1343,7 @@ eigentlich plant —«
 Der Legationsrat wohnte im Berliner Westen in einer
 gemieteten Villa. Sein Reichtum war bekannt. Er hatte
 eine Amerikanerin zur Frau — genau wie der Herzog
-von — Um ¾ 9 fuhr ein Auto vor dem Portal der Villa
+von — Um ¾9 fuhr ein Auto vor dem Portal der Villa
 vor. Zwei schwarzbärtige Herren, der Gesichtsfarbe nach
 Südländer, stiegen aus und wurden dann oben von dem
 Legationsrat den anderen Gästen als Gebrüder Rabiro,
@@ -1406,7 +1407,7 @@ manches, was andere Ärzte auf dem Gebiete der Suggestion
 als möglich zugegeben hatten. Die Gräfin kam nochmals
 auf den Marseiller Arzt zu sprechen. Sie erzählte
 von einem Experiment der Gedankenübertragung, das er
-häufig mit Ihr vorgenommen hätte. — »Ich glaube, dieses
+häufig mit ihr vorgenommen hätte. — »Ich glaube, dieses
 Experiment würde noch heute glücken, wenn mein Mann es
 mit mir versuchen wollte.«
 
@@ -1426,7 +1427,7 @@ erhielt eine Liste der Päckchen mit den Namen der Besitzerinnen,
 damit er das Experiment kontrollieren könnte.
 
 »Merkst Du was?!« meinte Harald leise, als der Graf
-nun in dem Damensalon der Hausfrau feierlich eingeschlossen
+nun in den Damensalon der Hausfrau feierlich eingeschlossen
 wurde. »Wie leicht die Leute sich doch täuschen
 lassen! Niemand ahnt, daß diese Päckchen heute den Eigentümer
 wechseln sollen.«
@@ -1453,7 +1454,7 @@ Gräfin wieder wollte diese Namen dann laut nennen. —
 Ich gebe zu: hätte ich nicht gewußt, daß wir es hier
 mit einer Betrügerin und einem raffiniert ersonnenen
 Schwindel zu tun hatten, — ich wäre dann mit demselben
-Eifer bei der Sache gewesen, wie alle übrigen Gäste. So
+Eifer bei der Sache gewesen wie alle übrigen Gäste. So
 aber war mein Interesse auf etwas ganz anderes gerichtet:
 ich war gespannt, wie die schöne Eugenie die acht Päckchen
 rauben lassen wollte, ohne daß ein Verdacht auf sie fiele. —

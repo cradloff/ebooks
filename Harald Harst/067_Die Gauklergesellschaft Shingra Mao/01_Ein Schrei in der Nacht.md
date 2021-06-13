@@ -5,7 +5,7 @@
 <h2>1. Kapitel.</h2>
 
 Die ägyptische Tageszeitung »Kairo-Post« brachte am
-1\. Dezember 19.. einen Artikel über die 5 Attentate, die
+1\. Dezember 19… einen Artikel über die 5 Attentate, die
 im Verlauf von vierundzwanzig Stunden auf den deutschen
 Liebhaberdetektiv Harald Harst in Kairo verübt worden
 waren.
@@ -28,7 +28,7 @@ Emanuelo Santa Rocca am Dulek-Abi-See im Nordteil
 der Libyschen Wüste aus den Händen der gefährlichsten
 aller italienischen Erpresser-Geheimbünde, der Loge zum
 heiligen Chrysostomos, befreit hat (welche Frechheit von
-dieser Bande, sich einen solchen Namen zuzulegen!), — dieser
+dieser Bande, sich einen solchen Namen zuzulegen!), — diesen
 Mann hätte in den Mauern unserer Stadt beinahe fünf
 Mal der Tod ereilt!
 
@@ -105,7 +105,7 @@ Harst wollte mit Malwine die Nacht in einem Hotel zubringen.
 Wir kehrten um und betraten jetzt den Gemüsegarten.
 Harald schloß die Pforte ab. In der weißen Schneedecke
 der Gartenwege waren die Fußspuren genau zu erkennen,
-die wir beide aus dem breiten Hauptpfade nach dem Hause
+die wir beide auf dem breiten Hauptpfade nach dem Hause
 hin und dann die Frauen und wir vom Hause weg hervorgerufen
 hatten.
 
@@ -133,10 +133,10 @@ zweier Paare Männerstiefel und — weiß Bescheid!«
 verschwinden. Ich habe meine Mutter und Malwine nur
 abreisen lassen, damit wir ihre Rollen hier spielen können.«
 
-»Ah — das wäre allerdings eine famose Idee!«
+»Ah — das wäre allerdings eine famose Idee!« —
 
 In Haralds Schlafzimmer zogen wir die Vorhänge
-ganz dicht zu. Damit kein Lichtschein hinaus dringe, befestigten
+ganz dicht zu. Damit kein Lichtschein hinausdringe, befestigten
 wir noch zwei große Wolldecken vor den Fenstern
 und dann begann die Maskierung.
 
@@ -257,7 +257,7 @@ mich nun fühlte!
 
 Da — die Flurglocke hatte geschrillt.
 
-Es war die Glocke der Hintertür: die der Vordertür
+Es war die Glocke der Hintertür; die der Vordertür
 klang heller.
 
 »Es wird doch ein echter Todesschrei gewesen sein,«
@@ -294,7 +294,7 @@ Laubengelände. Das Opfer ist eine Frau —«
 »Ja — Aber woher —«
 
 Harald winkte ab. »Erzählen Sie, Balk. Schraut
-wird das Präsidium anrufen.«
+wird das Präsidium anrufen.« —
 
 Balk gehörte zu einer Patrouille, die das Laubengelände
 nachts beobachten sollte, weil dort häufig in letzter
@@ -305,7 +305,7 @@ waren der Richtung nachgegangen, aus der der Schrei erklungen,
 und hatten auf dem Hauptwege dann hinter einem
 Müllhaufen eine gut gekleidete jüngere Frau mit einer
 Stichwunde im Herzen tot aufgefunden. Der Tod konnte
-erst vor wenigen Minuten eingetreten sein. Die Waffe
+erst vor wenigen Minuten eingetreten sein. Eine Waffe
 <@pagebreak/>
 war nicht zu finden gewesen. In der Schneedecke hatten
 sie jedoch die Spur eines Mannes mit recht großen Stiefeln
@@ -390,13 +390,13 @@ gefolgt ist.«
 »Und die merkwürdige Spur?«
 
 »Sehr einfach,« fiel er mir ins Wort. »Die Frau war
-Balleteuse! Ihr war es daher leicht, nur auf Zehenspitzen
+Balletteuse! Ihr war es daher leicht, nur auf Zehenspitzen
 zu gehen —«
 
 »Ah — also deshalb diese Halbkreis-Fährte!«
 
 »Ja — und deshalb sprach ich von tadelloser Figur,
-jung, hübsch und Theater! Nur eine geschulte Balleteuse
+jung, hübsch und Theater! Nur eine geschulte Balletteuse
 kann solche Strecken so auf Zehenspitzen zurücklegen. Sie
 tat es, damit ihre Spur nichts verriete.«
 
@@ -569,7 +569,7 @@ Taschenspiegel hervor und suchte sie zu entziffern.
 
 »Da!« flüsterte Harst. »Sehr wertvoll! Ich habe
 <@pagebreak/>
-recht behalten, Sie hat ihren Gepäckschein vorsichtigerweise
+recht behalten. Sie hat ihren Gepäckschein vorsichtigerweise
 nicht bei sich tragen wollen, sondern ihn postlagernd
 an das Postamt Potsdamer Platz geschickt. Hier ist noch
 zu lesen:
@@ -583,10 +583,10 @@ heißen. Schade, daß der Name oder die Chiffre darüber
 fehlt. — Nun die zweite abgedrückte Stelle. Man erkennt
 noch:
 
-> He
->    Franzesc   Tosc
->                 Kru       Str    5
->                     lotte    g
+<p class="pre indent">He
+    Franzesc   Tosc
+                 Kru       Str    5
+                     lotte    g</p>
 
 Das muß heißen: Herrn Franzesco Tosca, Tosco
 oder so ähnlich, Krumme Straße 5 oder 15 oder so ähnlich,
@@ -674,7 +674,7 @@ Ich kann mich wohl auf Ihre Verschwiegenheit verlassen.
 Treten Sie ein und behalten Sie die Haustür im
 <@pagebreak/>
 Auge. Es ist jemand im Hause. Wir sahen einen Lichtschein
-und hörte einen Schrei. Meine Mutter und die
+und hörten einen Schrei. Meine Mutter und die
 Köchin sind verreist. Wir spielen hier jetzt —«
 
 Da — abermals eine Reihe gellender Töne aus dem
@@ -787,7 +787,7 @@ etwas davon.«
 
 Der Polizeirat fragte darauf, ob Harald etwa die beiden
 Morde mit seiner eigenen Person in Zusammenhang
-brächte — eben mit dem Nachstellungen der Chrysostomos-Brüder.
+brächte — eben mit den Nachstellungen der Chrysostomos-Brüder.
 
 »Das kann ich wirklich noch nicht entscheiden,« erwiderte
 Harst. »Ich möchte nur bitten, daß zwei Kriminalbeamte
@@ -815,8 +815,8 @@ Buche des Nachbargartens benutzt. Er ist vom Nachbargarten
 aus auf die Buche geklettert.«
 
 Nun war das Rätsel gelöst, wie der Mörder hier eingedrungen
-war. Ohne Zweifel hatte der Ermordete den
-selben Weg gewählt.
+war. Ohne Zweifel hatte der Ermordete denselben
+Weg gewählt.
 
 Die Mordkommission hatte zwei Polizeihunde mitgebracht.
 Von der Buche führte eine einzelne Männerspur
@@ -848,7 +848,7 @@ Wie machen wir das am besten?«
 
 Balk überlegte. — Da fuhr Harald schon fort: »Rufen
 Sie das Präsidium an. Zwei Beamte sollen in einem
-Auto sofort hierher fahren. Es müssen zwei sein, die uns
+Auto sofort hierherfahren. Es müssen zwei sein, die uns
 der Größe und Figur nach entsprechen. Sie sollen in der
 Verkleidung von bärtigen älteren Leuten erscheinen.«
 
@@ -1005,7 +1005,7 @@ Ich könnte sonst annehmen, Sie wollten eine Waffe hervorziehen
 Seine linke Hand hing frei herab. Am Ringfinger
 schimmerte ein Ring mit einem länglich viereckigen Amethyst,
 der einen leicht grünlichen Schimmer hatte. Es war
-dies der Brüderring der Chrysostomos Loge, wie ich wußte.
+dies der Brüderring der Chrysostomos-Loge, wie ich wußte.
 
 Harald gehorchte, und legte mir die Hände auf die
 Schultern. Dann erklärte er ganz offen, wie wir Toscos
@@ -1047,7 +1047,7 @@ lateinischen Buchstaben geschrieben.
 beiden Freunde benutzten denselben Zug. Auf dem Bahnhof
 kamen wir im Gedränge leider auseinander. Sie
 werden wohl in einem anderen Hotel als sonst absteigen.
-Ich will für alle Fälle sofort nach den Hotel fahren
+Ich will für alle Fälle sofort nach dem Hotel fahren
 und möchte dort einen Bescheid für die Angehörigen
 zurücklassen, der unserer brieflichen Abmachung über die
 Herbeiführung einer Zusammenkunft im Hotel entspricht.
@@ -1103,7 +1103,7 @@ ein paar Sekunden befahl er Harst:
 — Der barsche Ton gelang nicht recht. Es war überhaupt
 so, als ob der Elegante als Mensch von tadellosen Manieren
 der Rolle eines Verbrechers nicht recht gewachsen wäre.
-Das er nicht Tosco sein konnte, stand bei mir bereits fest.
+Daß er nicht Tosco sein konnte, stand bei mir bereits fest.
 
 Harald ging zum Schreibtisch hin, kniete nieder,
 stützte die Schulter unter den Tisch und rüttelte an dem
@@ -1111,7 +1111,7 @@ betreffenden Fuß. Dann begann er ihn herauszudrehen. Als
 er ihn nun in der Linken hielt und aufstand, rief der
 Elegante:
 
-»Legen Sie ihn auf den Holztisch!«
+»Legen Sie ihn auf den Sofatisch!«
 
 Jetzt kam der Wendepunkt.
 
@@ -1126,7 +1126,7 @@ das Kinn — mit solchem Schwung, daß er etwas zurücktaumelte.
 
 Harald war schon hinterdrein gesprungen.
 
-Ein Faustschlag ließ den Revolver zu Boden fallen,
+Ein Faustschlag ließ den Revolver zu Boden fallen;
 ein zweiter — gegen die Herzgrube — genügte, den Mann
 wie einen Klotz niederzuwerfen.
 
@@ -1155,7 +1155,7 @@ hin. —
 
 Harald trat neben ihn.
 
-»Wer sind Sie?« fragte er. »Sprechen Sie die Wahrheit,
+»Wer sind Sie?« fragte er. »Sprechen Sie die Wahrheit.
 Sie gehören offenbar den ersten Kreisen Italiens
 an. Es wäre besser, Sie würden alles gestehen.«
 
@@ -1207,7 +1207,7 @@ ab, setzte mich auf das Sofa.
 Der Herzog wartete wohl zehn Minuten. Dann hob
 er den Kopf.
 
-»Herr Schraut, ich biete Ihnen 100 000 Mark, wenn
+»Herr Schraut, ich biete Ihnen 100&nbsp;000 Mark, wenn
 Sie —«
 
 Ich hatte schon eine kurze Handbewegung gemacht.
@@ -1416,7 +1416,7 @@ Harald schraubte den Ofen wieder zu.
 
 »Reisen Sie nach Hause, Herr Herzog,« riet er dem noch
 immer halb verstörten Manne. »Schraut und ich werden
-schweigen, Sie verdienen diese Rücksicht. Die Bande, von
+schweigen. Sie verdienen diese Rücksicht. Die Bande, von
 der Sie derart ausgeplündert worden sind und die mit so
 vielseitigen Mitteln arbeitet, soll verschwinden. Es ist bestimmt
 anzunehmen, daß die Leute ihren Rachefeldzug gegen
@@ -1425,7 +1425,7 @@ Nachdruck betreiben werden. Jedenfalls dürfte jetzt eine
 größere Anzahl der Chrysostomos-Brüder nach Berlin kommen.
 Mögen sie! Wir werden auch mit ihnen fertig werden!
 — Noch eins. Sie haben Tosco auch den Ring vom
-Finger gezogen: Sie wollten eben seine Person in ein
+Finger gezogen; Sie wollten eben seine Person in ein
 möglichst tiefes Dunkel hüllen. Geben Sie mir den Ring.
 Ich kann ihn vielleicht irgendwie brauchen.«
 
@@ -1442,7 +1442,7 @@ ab. Das Schloß ist nämlich anders wie sonst bei Schränken,
 nicht verborgen.«
 
 <@pagebreak/>
-»Das wußte ich. Ich hätte Sie dieserhalb auch gefragt,«
+»Das wußte ich. Ich hätte Sie dieserhalb noch gefragt,«
 meinte Harald.
 
 Er streckte dann dem Herzog die Hand hin. »Reisen
