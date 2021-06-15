@@ -51,7 +51,7 @@ einem Morgenanzug ein schlanker Mann mit blondem
 Spitzbart und gescheiteltem Haupthaar, das Gesicht war
 noch feucht von Schweiß. Die Haare klebten ihm zum Teil
 an der Stirn. Seine grauen Augen aber blickten uns mit
-so kühler, ablehnenden Förmlichkeit an, daß ich mir beinahe
+so kühler, ablehnender Förmlichkeit an, daß ich mir beinahe
 die Frage gestellt hätte, ob dies wirklich derselbe Mann
 war, den wir noch vor etwa acht Minuten auf dem Fensterkopf
 hatten stehen sehen.
@@ -125,11 +125,11 @@ und sein verzerrtes Gesicht auf dem Fensterkopf und seine
 Hilferufe waren niemals die Folge von Träumen. Er wird
 uns heute nachmittag natürlich belügen. Er sprach ja davon,
 daß seine Schreckensnächte noch eine andere Ursache
-hätten. Immerhin — auch aus einen Gespinst von
+hätten. Immerhin — auch aus einem Gespinst von
 Lügen läßt sich manches schließen.« —
 
 Wir wohnten im Prinz Edward-Hotel. Harst und ich
-hatten einen Salon und ein gemeinsames Vorzimmer.
+hatten einen Salon und ein gemeinsames Schlafzimmer.
 Wiclaytours Zimmer lag uns gegenüber.
 
 Wir sagten dem Portier Bescheid, daß man uns erst
@@ -152,7 +152,7 @@ Schlüssel vom Salon mitgenommen und offen gelassen. —
 Ich zog mich schnell an, öffnete die Tür zum Salon
 und — fuhr leicht zurück.
 
-Auf dem Bambussofa saß Lord Ralley in einem weisen
+Auf dem Bambussofa saß Lord Ralley in einem weißen
 Flanellanzug, erhob sich jetzt und trat auf mich zu.
 
 »Mr. Schraut,« sagte er und gab mir die Hand. »Ich
@@ -209,7 +209,7 @@ nicht. Er hatte gezögert, bevor er die »vier« aussprach.
 
 »— durchgemacht habe, kann den stärksten Mann halb
 um seine Vernunft bringen. — Sie dürften wissen, daß es
-in den indischen Zentralprovinzen südöstlich der Stadt Rangun
+in den indischen Zentralprovinzen südöstlich der Stadt Nagpur
 nur ungeheure Dschungelflächen gibt, die größtenteils
 noch unerforscht sind. Vor anderthalb Jahren kam ich, der
 letzte Sproß des Geschlechtes der Ralley, nach Indien. Ich
@@ -227,11 +227,11 @@ Nach achttägigem Marsch wurden wir nachts überfallen.
 Von wem, weiß ich nicht. Man hatte mir eine Decke über
 den Kopf geworfen. Man brachte mich dann in ein tiefes
 Felsloch, in dem ich viele Monate schmachten mußte, ohne
-je ein Menschenanlitz zu schauen. Mein Kerker war offenbar
+je ein Menschenantlitz zu schauen. Mein Kerker war offenbar
 der Zugangsschacht zu einem uralten Bergwerk. Er
 war etwa zwölf Meter tief und hatte vielleicht fünf Meter
 Durchmesser. Meine unsichtbaren Wächter ließen mir
-Wasser, Früchte und Brot an einem Lederriemen hinab.
+TrinkWasser, Früchte und Brot an einem Lederriemen hinab.
 Ich sah nie einen der Leute — nie! Flucht erschien
 unmöglich. Doch die Verzweiflung und die Angst, in diesem
 von pestilenzialischen Düften erfüllten Loche umkommen zu
@@ -383,14 +383,14 @@ Und die Antwort war —«
 
 »Gwinnara!« ergänzte ich schnell.
 
-»Ja — »Gwinnara« ertönte dieselbe schrille Stimme.
+»Ja — »Gwinnara« ertönte dieselbe schrille Stimme. —
 Da habe ich in meinem besinnungslosen Entsetzen einfach
 den Revolver genommen und — gefeuert! Ich zielte
 unten auf die Tür — etwa dorthin, wo die Faust gegen
 das Holz hämmerte. — Auf den Schuß hin noch ein qualvolles
 Stöhnen hinter der Tür. Dann nichts mehr —«
 
-Lord Ralleys Gesicht war jetzt aschfahl geworden; jetzt
+Lord Ralleys Gesicht war jetzt aschfahl geworden: jetzt
 log er nicht! In seinen Augen lag ein Ausdruck wildester
 Angst.
 
@@ -446,7 +446,7 @@ die Besinnung. Und rannte dann ans Fenster —
 wahnsinnig vor Grauen —«
 
 Er schwieg. Sein Körper flog wie im Fieberfrost
-hin und her.
+hin und her. —
 
 Auf dem Tische stand eine halbe Flasche Kognak. Sie
 gehörte Harald. Er trank gern ein Gläschen.
@@ -508,17 +508,17 @@ gewesen. Harst hatte ein Betäubungsmittel hineingetan! —
 Ich rüttelte den Lord. Er wäre mir beinahe vom Sessel
 auf den Teppich gesunken; er schlief ganz fest.
 
-Harald kam über den Schrank geklettert, — »Morgen,
+Harald kam über den Schrank geklettert. — »Morgen,
 mein Alter,« begrüßte er mich. »War eine nette Überraschung,
 als Du meine Stimme hörtest, nicht wahr?!«
 Dann deutete er auf Ralley. »Er ist mir fein ins Garn gegangen
 — sehr fein! Das erzähle ich Dir nachher. Jetzt
 wollen wir ihn ins Schlafzimmer tragen und dort einschließen.
 Er wird erst nach 12 Stunden erwachen. Dann
-dürften wir den Fall Ralley aufgeklärt haben —«.
+dürften wir den Fall Ralley aufgeklärt haben —«
 
 Wir legten den Lord auf Harsts Bett und deckten ihn
-zu.
+leicht zu.
 
 »Du kannst jetzt frühstücken,« meinte Harald. »Ich
 werde Dir derweilen alles berichten.«
@@ -552,7 +552,7 @@ der letzte Träger dieses Namens. Er ist jetzt 42 Jahre alt.
 In England stand er schließlich infolge recht dunkler Geldgeschäfte
 in so schlechtem Rufe, daß er nach Indien übersiedelte
 und hier vor anderthalb Jahren persönlich für seine
-Spedition zur Erforschung der sogenannten Mahanadi-Dschungel
+Expedition zur Erforschung der sogenannten Mahanadi-Dschungel
 Geld sammelte, wobei ihm sein Adelstitel sehr
 nützlich war. Er soll große Summen zusammen bekommen
 haben, brach dann auch wirklich von Nagpur mit seiner
@@ -910,8 +910,8 @@ reicht, wissen wir, wie Mawrista die Mumie rufen
 ließ, — eben indem er vom Flur aus —«
 
 <@pagebreak/>
-Da — Ich sah, wie der künstliche Ast aus dem Loche
-der Schrankrückwand heraushing.
+Da — ich sah, wie der künstliche Ast aus dem Loche
+der Schrankrückwand herausflog.
 
 Ich hörte fast gleichzeitig eine schrille, hohe Stimme,
 die aus dem Loche herausdrang:
@@ -1111,7 +1111,7 @@ geworden.
 
 Brabazon-Ralley lag auf seinem Bett und blickte verwundert
 um sich. Der Ausdruck seiner Augen änderte sich
-rasch. Man sah die Auge darin aufflackern.
+rasch. Man sah die Angst darin aufflackern.
 
 »Sie hatten einen bösen Ohnmachtsanfall, Mylord,«
 sagte der Arzt. »Master Harst hat Sie hierher schaffen
@@ -1152,7 +1152,7 @@ Götze gestohlen wurde.«
 
 »Sehr richtig, mein Alter! Ich möchte mich für die
 erste Annahme entscheiden. — Du siehst, die Einzelheiten
-des Falles sind noch recht dunkel. Denn — beachte das! —
+des Falles sind noch recht dunkel. Denn — beachte das! —,
 wenn Mawrista etwa ein Priester des um den Götzen bestohlenen
 Tempels wäre, was doch immerhin leicht möglich
 ist, — weshalb hat er dann die Hälfte der Edelsteine auf
@@ -1235,7 +1235,7 @@ Mr. Harst. Ich gebe zu: ich hatte mir zu dem Koffer einen
 Nachschlüssel besorgt. Ich traute Jobribrax nicht mehr. Er
 hat mich zu oft beschwindelt, wenn er sagte, er verreise wieder.
 Ich bin ihm viermal gefolgt. Er ging nur ins Eingeborenenviertel
-nach den Wangiprana-Platz, wo der
+nach dem Wangiprana-Platz, wo der
 Eingang zu den verfallenen unterirdischen Tempeln ist.
 Dort verschwand er stets.«
 
@@ -1302,7 +1302,7 @@ aber nicht zum Totenkopf machen. — Bitte, stiere nicht so
 scharf hinüber! — Aha — da haben wir’s!« rief er ärgerlich
 und stand schnell auf.
 
-Der Herr hatte den Speisesaal nach den Billardzimmern
+Der Herr hatte den Speisesaal rasch nach den Billardzimmern
 zu verlassen. Sein Tisch befand sich unweit
 einer der Glaspendeltüren.
 
@@ -1357,7 +1357,7 @@ probierte eine ganze Weile, bevor er sie geöffnet bekam.
 Er trat ein, schloß wieder ab.
 
 Ich hatte schon vorher in die weitmaschig gewebte Portiere
-ein feines Loch in Augenhöhe gebohrt. — Ein Lichtstreifen
+ein kleines Loch in Augenhöhe gebohrt. — Ein Lichtstreifen
 irrte durch das Zimmer. Der Eindringling war
 nur als dunkler Schatten hinter der Lichtquelle zu bemerken.
 Er schlich nach der gegenüberliegenden Wand und — kroch
@@ -1499,7 +1499,7 @@ jetzt hierher, Mylord? Sie wollten doch fliehen.«
 »Ich hatte es mir anders überlegt, Mr. Harst. Ich
 rechnete bestimmt damit, daß Broban ebenfalls zu flüchten
 gedachte und hierher kommen würde. Er verstand es besser
-als ich, das Äußere eines Menschen zu verwandeln. Und
+als ich, das Äußere eines Menschen zu verwandeln. Und —
 ich mußte auf eine tadellose Verkleidung bedacht sein,
 da — jetzt auch mir mehrere Leute sich an die Fersen geheftet
 haben — alles Inder, alles offenbar Abgesandte der

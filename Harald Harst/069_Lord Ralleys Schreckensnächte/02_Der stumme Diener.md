@@ -10,6 +10,7 @@ Tapsals hatte gerade geschlagen. Und gerade hatte
 Harald Harst gesagt:
 
 »Der Fall ist für mich erledigt —«,
+
 als die Fensterscheibe der Tür nach der Treppe hin klirrend
 zersplitterte.
 
@@ -31,11 +32,11 @@ tropischen Nachthimmels vereinte ihr Licht mit dem des
 Nachtgestirns.
 
 Harsts Clementpistole schickte Ihr blechernes Peng —
-Peng in den stillen Garten hinaus.
+Peng — in den stillen Garten hinaus.
 
 Er hatte offenbar auf den fliehenden Meuchelmörder
 geschossen. Jetzt riß er das andere Fenster auf und sprang
-hinaus. Ich überlegte nicht lange und folgte ihm.
+hinaus. — Ich überlegte nicht lange und folgte ihm.
 
 Er rannte den schmalen Weg zwischen den Büschen
 entlang, der in den Hauptweg einmündete. Er hatte etwa
@@ -43,7 +44,7 @@ zwanzig Meter Vorsprung. Als ich den Hauptweg erreicht
 hatte, konnte ich bis nach dem Flusse und dem Bootssteg den
 breiten, kiesbestreuten Pfad entlangschauen.
 
-Ich sah Harald in langen Sätzen vorwärtsjagen: ich
+Ich sah Harald in langen Sätzen vorwärtsjagen; ich
 <@pagebreak/>
 sah auch den Mann, den er verfolgte: einen Inder mit
 Turban und hellem Leinenanzug.
@@ -62,10 +63,10 @@ Der Flüchtling hatte unseren Sampan genommen.
 Unser Bootsmann war verschwunden.
 
 Der Sampan wurde von dem Inder mit kräftigen
-Ruderschlägen der Mitte des hier 500 Meter breiten Ganges
+Ruderschlägen der Mitte des hier 800 Meter breiten Ganges
 zugetrieben.
 
-Wir stiegen in das leichte Boot
+Wir stiegen in das leichte Boot.
 
 »Steuere!« rief Harst. »Wir holen ihn ein!«
 
@@ -94,10 +95,10 @@ stampften in der Ferne der Eisenbahnbrücke zu. Das Geräusch
 ihrer Maschinen war deutlich zu hören.
 
 An ankernden großen Frachtkähnen ging die Jagd vorüber
-— an einem langen Holzstoß, an einem Wohnboot.
+— an einem langen Holzfloß, an einem Wohnboot.
 Überall schliefen die Leute.
 
-Dann von links der ein rollendes Rattern — verschwommen
+Dann von links her ein rollendes Rattern — verschwommen
 wie das Arbeiten eines Motors, der im Keller
 eines Hauses arbeitet.
 
@@ -133,8 +134,8 @@ Clement in der Hand, sagte:
 aus. Das Motorboot wendet und hält auf
 uns zu!«
 
-Ich riß den leeren Rahmen heraus schob einen anderen
-hinein spannte den Selbstlader.
+Ich riß den leeren Rahmen heraus, schob einen anderen
+hinein, spannte den Selbstlader.
 
 Das dunkle, lange Boot jagte von links auf uns zu.
 Harald nahm das eine Ruder in die Linke.
@@ -220,7 +221,7 @@ Dicken auf die Schulter.
 
 Wir gingen noch schnell in das Zimmer des angeblichen
 <@pagebreak/>
-Professors Jobribrax. Harst durchsuchte ebenso den
+Professors Jobribrax. Harst durchsuchte es, ebenso den
 Koffer und die Taschen des toten Lords. Wir — Worbler
 und ich — halfen. Wir fanden nichts und verließen das
 Haus, trafen ein leeres Mietauto und fuhren nach dem
@@ -326,7 +327,7 @@ die die Diener herbeilockten,« meinte Worbler.
 »Ja. Brabazon tat’s, als der Mann hier schon tot
 auf der Schwelle lag. Dann floh er, bevor die Diener eindrangen.«
 
-»Hm — aber der tote Broban ist doch um ½ 11 wieder
+»Hm — aber der tote Broban ist doch um ½11 wieder
 fortgegangen, erklärte der eine Diener.«
 
 »Gewiß. Er verließ das Haus. Und Brabazon wird
@@ -341,7 +342,7 @@ nicht an.«
 hier wieder eingedrungen, hätte sich Brabazon kaum
 eine so lange, dünne Nadel hervorsuchen können, um dann
 den Mann zu erstechen. Nein — die Nadel legte er bereit,
-während der Fremde von dem Diener wieder gegen ½ 11
+während der Fremde von dem Diener wieder gegen ½11
 zur Pforte geführt wurde oder bis er — Brabazon — den
 Mann wieder einließ.«
 
@@ -378,7 +379,7 @@ Likörgläser.« — Harst schritt schon bei den letzten Worten
 auf ein Schränkchen zu, das in der einen Ecke stand. Es
 steckte ein Schlüssel darin. Es war ein Likörschrank, der fünf
 Flaschen und ein Gestell mit sechs Gläschen enthielt. —
-Harald brachte eins der Stäbchen und probierte, ob der
+Harald brachte eins der Gläschen und probierte, ob der
 Fuß auf den Ring paßte.
 
 »Sehen Sie, Worbler, die beiden haben Chartreuse-Likör
@@ -426,7 +427,7 @@ worden.
 feinen Riecher, Harst! Der Brabazon wird den Fremden
 wohl tatsächlich erst vergiftet oder betäubt haben.«
 
-»Nicht Gift — ein Betäubungsmittel, Worbler. Gift
+»Nicht Gift, — ein Betäubungsmittel, Worbler. Gift
 hätte man bei der Sektion nachweisen können. Das wollte
 Brabazon sicherlich verhüten. Er ahnte nicht, daß ich sein
 Geheimnis kannte — daß er nicht Ralley war und ein
@@ -614,7 +615,7 @@ Mumie geschafft hatte. Er lief mit der Mumie durch die
 Büsche zum Bootssteg, wo dasselbe Motorboot wartete,
 das Euch, Sahib Harst, rammen wollte. In dem Motorboot
 waren noch vier Männer. Ich bin ihnen nachgerudert.
-Das Motorboot verschwand in einem Seitenarm des Ganges
+Das Motorboot verschwand in einem Seitenarm des Ganges,
 an dessen Ufern nur Wohnschiffe liegen. Mehr weiß
 ich nicht.«
 
@@ -783,7 +784,7 @@ den plumpen Wohnbooten und Flößen das Leben der Eingeborenen
 ab. — Der Flußarm erweiterte sich, wurde zum
 Seebecken. Und hier inmitten dieser schwimmenden Behausungen
 ankerte eine schneeweiße Motorjacht von etwa dreißig
-Meter Länge, — ein wunderhübsches Luftfahrzeug jener
+Meter Länge, — ein wunderhübsches Lustfahrzeug jener
 Art, mit dem die Dollarmillionäre neuerdings den
 Orient zu bereisen pflegen.
 
@@ -813,7 +814,7 @@ der Motorbootkajüte die Scheiben fehlten, rief leise:
 Nacht! Die Fenster sind ja von uns zerschossen worden.
 Man hat auch die Reste der Scheiben entfernt!«
 
-Harald ruderte plötzlich weiter und um die Jacht im
+Harald ruderte plötzlich weiter und um die Jacht in
 großem Kreise herum. So konnten wir denn feststellen,
 daß nur die Oberlichtscheiben auf Backbord fehlten. Und
 gerade diese hatten wir zerschossen.
@@ -870,7 +871,7 @@ mußten wir weiter zurückbleiben. Hier in diese Parkwildnis
 verirrte sich kein Mensch. Wir trennten uns. Harald
 eilte nach rechts auf einem Seitenwege weiter. Freilich —
 die Bezeichnung »Weg« paßte nicht ganz. Alles war hier
-mit Unkraut, Schlingpflanzen und Baumschößlingen bedacht,
+mit Unkraut, Schlingpflanzen und Baumschößlingen bedeckt.
 
 Brabazon (falls er es war!) hatte sich einige Male
 argwöhnisch umgeschaut. Doch er schien dann überzeugt zu
@@ -885,7 +886,7 @@ genau konnte ich diese Spuren wahrnehmen. Es war wie
 ein Strich, der sich über einen grünen Teppich hinzog.
 
 Ich überlegte. Sollte ich mich allein dort hinaufwagen?!
-— Ein Wagnis blieb es. Ich kannte genug indisches
+— Ein Wagnis blieb es. Ich kannte genug indische
 <@pagebreak/>
 Ruinen. Und viele davon hatte ich in sehr unangenehmer
 Erinnerung.
@@ -1026,9 +1027,9 @@ Er fühlte Brabazon, der als Inder eine tadellose
 Maske gewählt hatte, den Puls.
 
 »Eine tiefe Ohnmacht, weiter nichts. Wir werden
-ihn mitnehmen, und bis dicht an die Straße tragen. Dann
+ihn mitnehmen und bis dicht an die Straße tragen. Dann
 hole ich ein Polizeiauto und Freund Worbler. Du bewachst
-Brabazon so lange —«
+Brabazon so lange —« —
 
 Ich mußte fast eine Stunde in dem dichten Gebüsch
 neben dem Ohnmächtigen ausharren, bis das Auto endlich
@@ -1075,7 +1076,7 @@ Karriere verderben.«
 Ihnen höchstens nützen. Ob Lord oder nicht: hält er es
 mit den Verbrechern, die Ralley erschossen haben und mit
 uns Ähnliches vorhatten, dann rettet ihn nichts vor dem
-Scharfrichter. — Vorwärts — hinein ins Motorboot!« —
+Strafrichter. — Vorwärts — hinein ins Motorboot!« —
 
 Die Polizeibarkasse ratterte zwischen den Wohnschiffen
 und Kähnen hindurch. Ihre Flagge am Heck knallte
@@ -1143,7 +1144,7 @@ Serviette auf den Tisch.
 — Nur eine Frage, wenn Sie gestatten —«
 
 Der Lord machte eine unnachahmlich hochmütige Handbewegung
-— so, als ob er einen Lakei zum Sprechen aufforderte.
+— so, als ob er einen Lakai zum Sprechen aufforderte.
 
 <@pagebreak/>
 Harst blieb trotz dieser Ungezogenheit des Lords gelassen,
@@ -1209,7 +1210,7 @@ Mr. Harst, das dürfte sich wohl erübrigen,« rief der Lord
 schneidend. »Ich habe bisher Ihre Aufdringlichkeit mit
 Ihrer Berühmtheit entschuldigt. Jetzt aber —« — er
 richtete sich höher auf — »bitte ich Sie, mein Schiff mit
-Ihren lächerlicher Detektivkünsten zu verschonen!«
+Ihren lächerlichen Detektivkünsten zu verschonen!«
 
 Er setzte sich wieder und füllte sein Weinglas.
 
@@ -1256,7 +1257,7 @@ uns des Alten Freundschaft.
 
 Wir konnten jetzt in aller Ruhe den Star of London
 beobachten. Die Polizeibarkasse lag nicht mehr am Fallreep.
-Nach einer Stunde, gegen ¼ 7 abends, wurden die
+Nach einer Stunde, gegen ¼7 abends, wurden die
 Gäste des Lords mit dem Motorboot an Land gebracht.
 <@pagebreak/>
 Und wieder nach zehn Minuten verlud man von der Jacht
@@ -1444,7 +1445,7 @@ lieber Worbler. — Es war mir ein Vergnügen, Mr.
 Dreebs!«
 
 Dreebs schnitt ein fürchterliches Gesicht, verneigte sich
-steif und ging in den Flur, Worbler nickte uns zu und
+steif und ging in den Flur. Worbler nickte uns zu und
 folgte ihm. — Wir waren allein. Ich schaute Harald erwartungsvoll
 an, flüsterte gespannt: »Du traust Lord Ralbrout
 nicht?«
@@ -1523,7 +1524,7 @@ verschwinden —«
 »Sind — wie — wir — Verbrecher. Morton in —«
 
 Da ging ein Ruck durch seinen Leib. Ein letzter tiefer
-Atemzug; und der Körper sank kraftlos zusammen. Er
+Atemzug, und der Körper sank kraftlos zusammen. Er
 war tot. —
 
 Harst deutete auf Brabazons linken Handrücken, auf
@@ -1554,7 +1555,7 @@ war. Die Jacht verläßt morgen früh Benares, fährt den
 Ganges hinab nach Kalkutta und kehrt nach England
 zurück.«
 
-»So — so —«, meinte Harald. »Vielleicht fährt sie
+»So — so —,« meinte Harald. »Vielleicht fährt sie
 auch nicht ab!«
 
 Mit dieser Bemerkung Harsts begann für uns der
