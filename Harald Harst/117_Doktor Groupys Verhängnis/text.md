@@ -597,7 +597,7 @@ hatte, rief der eine der Holländer den Diener herein.
 »So«,« sagte Harald zu Doktor Gybourg, »so, nun sind
 wir unter uns, Doktor. Und nun zeigen Sie mir mal von
 hier aus die Anordnung der Räume Ihrer früheren Wohnung.
-— Schalte das Licht aus, mein Alter ... Wir wollen
+— Schalte das Licht aus, mein Alter … Wir wollen
 uns ans Fenster stellen.«
 
 Es war draußen dunkel und etwas neblig. Das Licht
@@ -614,17 +614,17 @@ Hotelzimmers,
 
 Und John Gybourg sagte nun:
 
-»Linker Hand die beiden Fenster waren die des Schlaf-
-Zimmers ..."
+»Linker Hand die beiden Fenster waren die des Schlafzimmers
+…«
 
 Seine Stimme vibrierte …
 
 Stunden seligen Glücks mochten in seiner Erinnerung
 wieder wie Traumbilder emporsteigen …
 
-»Und die beiden nächsten Fenster sind die des Speise-
-Zimmers. Das rechte Fenster von hier aus — ja — vor die-
-sein Fenster lag Ellen auf dem Teppich neben dem Büfett.«
+»Und die beiden nächsten Fenster sind die des Speisezimmers.
+Das rechte Fenster von hier aus — ja — vor diesem
+Fenster lag Ellen auf dem Teppich neben dem Büfett.«
 
 Er schwieg … vielleicht … vielleicht waren seine
 Augen voller Tränen …
@@ -640,8 +640,8 @@ Marmaty, eines so rätselhaften Todes gestorben war, lag
 mit ihren sieben Vorderfenstern in völliger Dunkelheit …
 Frau Lizzia Marmarty schien nicht daheim zu sein.
 
-Während wir drei noch, bewegt von den verschieden-
-artigsten Gefühlen, hinüberstarrten, flammte jedoch in Gybourgs
+Während wir drei noch, bewegt von den verschiedenartigsten
+Gefühlen, hinüberstarrten, flammte jedoch in Gybourgs
 Sprechzimmer das Licht auf …
 
 Und auf den gelben geschlossenen Vorhängen erschienen
@@ -664,8 +664,8 @@ aus dem Lichtkreis, so daß die Schattenbilder gleichfalls erloschen
 Der gelbe Vorhang war noch hell, aber leer …
 
 Die Hauptsache aber: in dieser drohenden Handbewegung
-der verwitweten Oberst Marmaty, in ihrer ganzen Körper-
-Haltung und in der Art ihres Eindringens auf den Mann
+der verwitweten Oberst Marmaty, in ihrer ganzen Körperhaltung
+und in der Art ihres Eindringens auf den Mann
 dort hatte so eine zügellose Wut sich ausgedrückt, daß Harst
 nun rasch auch unseren Fenstervorhang zuzog, die elektrische
 Krone einschaltete und zu Gybourg sagte:
@@ -864,7 +864,7 @@ seines klugen Spieles!
 »Nein, nein,« meinte der Greis da lächelnd, »ob Ich einen
 oder zwei hinbringe, wird Mylord wohl gleichgültig sein.
 Die Hauptsache: Sie haben mir Ihren Namen genannt,
-Mister. — »Ich heiße übrigens Tobby Rucks, Mister Gybourg ..."
+Mister. — »Ich heiße übrigens Tobby Rucks, Mister Gybourg …«
 
 »Und das da ist mein Leidensgefährte Slauc,« stellte
 Harald mich vor.
@@ -875,14 +875,14 @@ bedächtig. »Warten Sie, ich komme …«
 <h2>4, Kapitel.</h2>
 <h3>Verse am Fenster.</h3>
 
-Er kam, hatte einen Gestüt über den Schädel gezogen,
+Er kam, hatte einen Ölhut über den Schädel gezogen,
 schloß die Tür des Häuschens ab und schritt uns schweigend
 voran …
 
-Nun — um ehrlich zu sein: mir war bei alledem seine:
-halbwegs behaglich zumute — seinediwegns!
+Nun — um ehrlich zu sein: mir war bei alledem keineswegs
+behaglich zumute — keineswegs!
 
-und als mir nun in einen anderen schmalen Pfad des
+und als wir nun in einen anderen schmalen Pfad des
 Dickichts einbogen, raunte ich Harald zu:
 
 »Wenn das nur gut endet!«
@@ -890,80 +890,80 @@ Dickichts einbogen, raunte ich Harald zu:
 Er lächelte …
 
 »Wir bleiben ja nur so lange hier, bis ich Tobby genügend
-audachordn und festgestellt habe, wo und wie Gybourg hier
-aus der Insel in der Verborgenheit leben sollte.« —
+ausgehorcht und festgestellt habe, wo und wie Gybourg hier
+auf der Insel in der Verborgenheit leben sollte.« —
 
 Der Alte ließ sich Zeit, schlenderte gemächlich vor uns
-der, blieb oft sieben und Leimte uns ebenso den Baumästen
-die Nachkommen, merkwürdigen Naiven, die hier. wie er uns
-pikante in einer Zahl von China dreihundert Sind balbimıld
-außen …
+her, blieb oft stehen und zeigte uns oben in den Baumästen
+die hochbeinigen, merkwürdigen Katzen, die hier, wie er uns
+erklärte, in einer Zahl von etwa dreihundert Stück halbwild
+hausten …
 
 »Im Februar sind die Felle am besten … Dann müssen
 <@pagebreak/>
-der Jahr fünfzig, sechzig Stück ihr Leben lassen …«
+jedes Jahr fünfzig, sechzig Stück ihr Leben lassen …«
 
 Und wieder ging er weiter …
 
 Bis vor uns die Steilufer der Nordseite der Insel aus
-dem Gestrüpp wie ein Versank emporwuchsen — gut dreißig
+dem Gestrüpp wie ein Felswall emporwuchsen — gut dreißig
 Meter hoch …
 
 da holte Tobby aus dem Gebüsch eine Leiter herbei,
-lehnte sie an die schroffe Feläwwand und stieg empor
+lehnte sie an die schroffe Felswand und stieg empor …
 
 Acht Meter über dem Boden bildete die Steinwand
-eine schmale Terrasse, die allmählich, ein gangbaren Pfad,
-sich höchstens bis zu einen durch die Krone einer prächtigen
+eine schmale Terrasse, die allmählich, ein gangbarer Pfad,
+sich höherzog bis zu einem durch die Krone einer prächtigen
 Eiche verdecken Felsloche …
 
 »So,« sagte Tobby, »dies ist nun der Eingang zu der
 Höhlenwohnung, Mister Gybourg … Während des Krieges
-hat der eine …«
+hat hier eine …«
 
 Da schwieg er, schlug sich auf den Mund.
 
-»Unsinn — was schwatzte ich da! Unsinn!!! — Folgen
+»Unsinn — was schwatzte ich da! Unsinn!! — Folgen
 Sie mir nur … Es wird gleich wieder hell …« —
 
 So lernten wir die seltsame, eleganteste Höhlenbehausung
-kennen, die es aus dem Erdenrund geben dürfte
+kennen, die es auf dem Erdenrund geben dürfte …
 
 Der Felsengang machte nach wenigen Metern eine scharfe
 Biegung.
 
-Helles Liegt strahlte uns wieder entgegen, Tageslicht, das
+Helles Licht strahlte uns wieder entgegen, Tageslicht, das
 durch die mit Fenstern versehenen natürlichen Spalten der
 Grotte hereinfiel …
 
-es — hier, hier small »Eier Über dem die Nordküste
+Und — hier, hier zwölf Meter Über dem die Nordküste
 des Eilandes umspülenden Wasser, — hier gab es eingebaut
-in die Höhle drei vollkommen einacrich’cte Zimmer
-— tapeziert, gedreht, mit Teppichen, Karbidkronleuchtern, mit
-allem Luxus — mit Bad, blitzsauberen Küche, mit Büchern
-und — — einer Sende- und Empsangéslation für Funken-tclearaphiel
+in die Höhle drei vollkommen eingerichtete Zimmer
+— tapeziert, gedielt, mit Teppichen, Karbidkronleuchtern, mit
+allem Luxus — mit Bad, blitzsauberer Küche, mit Büchern
+und — — einer Sende- und Empfangsstation für Funkentelegraphie!
 —
 
 wollte ich diese Atelierwohnung im einzelnen beschreiben,
-dann müßte ist dazu drei Seiten Manuskript Vers
-wenden, und das ginge nicht, das würde den Lauf der Handlung
+dann müßte ist dazu drei Seiten Manuskript Verwenden,
+und das ginge nicht, das würde den Lauf der Handlung
 zu sehr hemmen.
 
 Der Leser muß daher schon mit diesen Andeutungen sich
 <@pagebreak/>
 zufrieden geben. Im Übrigen hat die englische Zeitschrift
-Standard in der Augufinummer 1923 fünf Photographien
+Standard in der Augustnummer 1923 fünf Photographien
 dieser Höhlenwohnung veröffentlicht. —
 
-Der alte Tobby führte uns von Wann zu Raum und
+Der alte Tobby führte uns von Raum zu Raum und
 erzählte mit Stolz, daß er und sein Sohn diese Wohnung vor
-ach Jahren eigenhändig auf Wunsch des alten Lord Effingham,
-der ja inzwischen verstorben sei, geschossen hätten.
+acht Jahren eigenhändig auf Wunsch des alten Lord Effingham,
+der ja inzwischen verstorben sei, geschaffen hätten.
 
-»Mylord, der jetzige Lord Roger Edward Effingham bat
+»Mylord, der jetzige Lord Roger Edward Effingham hat
 erst nach dem Tode seines Vaters durch mich erfahren, daß
-hier aus der Insel ein derartiges Heim gibt,« fügte er
-Im …
+es hier auf der Insel ein derartiges Heim gibt,« fügte er
+hinzu …
 
 da nahm Harst die Gelegenheit wahr und fragte:
 
@@ -973,15 +973,15 @@ hier — verkleidet?«
 Tobby war viel zu harmlos, um nicht auf diese Anzapfung
 hineinzufallen.
 
-»Ja, Mylord blieb nur kurze Zeit hier, kaum eine Wallt
-Stunde … Sein Auto hatte er drüben auf den Festland
-in Walde versteht … Ja, das war alles höchst merl-teürdig
+»Ja, Mylord blieb nur kurze Zeit hier, kaum eine halbe
+Stunde … Sein Auto hatte er drüben auf dem Festland
+im Walde versteckt … Ja, das war alles höchst merkwürdig
 …«
 
 Er lachte kichernd …
 
-»Diniert nicht dem falschen grauen Vollbart — wie ’n
-alter Platin sah er aus!«
+»Mylord mit dem falschen grauen Vollbart — wie ’n
+alter Mann sah er aus!«
 
 »Und eine grüne Jagdjoppe trug er!« lächelte Harald
 gleichfalls …
@@ -991,12 +991,12 @@ Tobby nickte. »Eine schäbige Joppe — stimmt!«
 Er deutete auf das eine Fenster …
 
 »Da — eine hübsche Aussicht, Mister Gybourg … Das
-da drüben ist die Stadt Walton — Walton of the Nase
+da drüben ist die Stadt Walton — Walton of the Naze …
 Und da — das ist die Nordsee! Schlechtes Wetter heute.
 Es gibt Sturm. Die Sonne kommt nicht zum Vorschein,
-td die Möwen sind so unruhig. — So ungern Ja
-Ihnen Dampfer, Irınfmialfer ins umkreist Dringen. was hier
-»alt, Wiedersehen, die Herren!«
+und die Möwen sind so unruhig. — So nun werde ich
+Ihnen Eßwaren, Trinkwasser und anderes bringen, was hier
+fehlt … Wiedersehen, die Herren!«
 
 Er entfernte sich …
 
@@ -1007,12 +1007,12 @@ schauten uns an …
 »Also war Lord Roger Edward Effingham der Mann,
 der sich mit Ellen Gybourg heimlich Stelldicheins gab …
 Also war er’s, der Gybourg gestern befreite und der heute —
-von Frau Listig Mainacht mit der Faust bedroht wurde!
+von Frau Lizzia Marmaty mit der Faust bedroht wurde!
 Fürwahr, mein Alter, wenn jemals ein Kriminalfall es wert
-ist ist, von uns beiden bearbeitet zu werden: dieser
+gewesen ist, von uns beiden bearbeitet zu werden: dieser
 ist’s!!«
 
-»Der Lord ist Ellens Mörder!« platte ich heraus …
+»Der Lord ist Ellens Mörder!« platzte ich heraus …
 
 Harald schüttelte den Kopf …
 
@@ -1020,198 +1020,197 @@ Harald schüttelte den Kopf …
 
 Er hielt inne …
 
-Dort rechts der große Tisch, darüber die Schalibretter,
-— der Tisch mit den Rabioapparaten …
+Dort rechts der große Tisch, darüber die Schaltbretter,
+— der Tisch mit den Radioapparaten …
 
-Und — von dort der kam ein fhnarrendes Diven …
+Und — von dort der kam ein schnarrendes Ticken …
 
-Dort Tief ein Papierstreifen von einer Rolle ab — ein
-schmaler Streifen — das Band eines Gernsreibers …
+Dort lief ein Papierstreifen von einer Rolle ab — ein
+schmaler Streifen — das Band eines Fernschreibers …
 
 Harst trat rasch an den Tisch heran …
 
 Orientierte sich …
 
-Er wußte mit den Apparaten Bescheid — Zeit Jahren.
+Er wußte mit den Apparaten Bescheid — seit Jahren.
 Er studierte ja alle Neuerscheinungen der Technik, weil auch
 diese stets sofort von der internationalen Verbrecherwelt
 ausgenutzt werden,
 
 Das Surren und Klappern verstummte …
 
-Harst riß den Papierstreifen ab … Las vor!
+Harst riß den Papierstreifen ab … Las vor:
 
-> »Tobby, der Angemeldete dauernd sich nicht einfinden,
-da er anderêôwwo Schlau gesucht hat. an seiner Stelle
-schicke ich Dir durch Tom und harrt in der kommendven
+> »Tobby, der Angemeldete wird sich nicht einfinden,
+da er anderswo Schutz gesucht hat. an seiner Stelle
+schicke ich Dir durch Tom und Charly in der kommenden
 Nacht einen Mann, der als Gefangener zu behandeln ist.
 Du weißt, was ich damit andeute. Auf keinen Fall darf
 dieser Mensch je wieder die Freiheit wiedererlangen. —
-Tom und harrt werden pünktlich zwölf Uhr nachts am
-Bootéêsteg sein. Der Mann ist gefesselt. Du bringst ihn
-sogleich an Ort und Stelle. Tom und harrt dürfen kein
+Tom und Charly werden pünktlich zwölf Uhr nachts am
+Bootssteg sein. Der Mann ist gefesselt. Du bringst ihn
+sogleich an Ort und Stelle. Tom und Charly dürfen kein
 <@pagebreak/>
 Wort mit Dir wechseln, Gehorche — auf Dich ist Verlaß,
-Du Treuester der Freuen.«
+Du Treuester der Treuen.«
 
-(Faralv nützte den Streifen zusammen, schob Ihn in die
-ä € se …
+Harald knüllte den Streifen zusammen, schob Ihn in die
+Tasche …
 
-»Das heißt Glück haben, mein Alter …!.! Hätte Tobby
-dies gelesen, wären wir wohl hier etwas ins Gedränge gesäten
-! -
+»Das heißt Glück haben, mein Alter …!! Hätte Tobby
+dies gelesen, wären wir wohl hier etwas ins Gedränge geraten!«
 
-»Und — des Gefangene?« fragte ich rasch.
+»Und — der Gefangene?« fragte ich rasch.
 
-Harald zarte die Achseln …
+Harald zuckte die Achseln …
 
-»Wir werden ihn ja Sehen! Ich werde ihn In Empfang
-nehmen, Ich an Stelle des alten Tobby. Laß mich nur
-Mmacheti …« —
+»Wir werden ihn ja sehen! Ich werde ihn In Empfang
+nehmen. Ich an Stelle des alten Tobby. Laß mich nur
+machen …« —
 
-Wir fehlen und an das eine Fenster …
+Wir setzten uns an das eine Fenster …
 
 Diese Fenster, von außen, von der Bucht her, kaum zu
-bemerken, da Ne seitwärts von Rankengewächsen eingefaßt
-waren, hatten jedes eine Leine Luftscheibe, die sich öffnen
-ließ, Und an dieser Scheibe mit ihrer blanken Messingumrahmung
+bemerken, da sie seitwärts von Rankengewächsen eingefaßt
+waren, hatten jedes eine kleine Luftscheibe, die sich öffnen
+ließ. Und an dieser Scheibe mit ihrer blanken Messingumrahmung
 hingen nun Haralds Blicke starr und scharf.
 
 Er erhob sich.
 
-»Hier hat jemand mit einem Diamant etwas eingeriät,
+»Hier hat jemand mit einem Diamant etwas eingeritzt,
 ganz schwach …«
 
 Und — dann …:
 
-»Ah … nicht möglich!!! Also das meinte Tobby, als
-er so plödulich sich aus den Mund klug und schwieg — —
-das!! — Hier ist zu runzligem:
+»Ah … nicht möglich!! Also das meinte Tobby, als
+er so plötzlich sich auf den Mund schlug und schwieg — —
+das!! — Hier ist zu entziffern:
 
-> Vieler Zur dunklen Nächten -
+> Vieler Tage dunklen Nächten
 
-> Flaute ich mein tiefes Leid.
+> Klagte ich mein tiefes Leid.
 
-> Doch — von all den Bimmelämächten
+> Doch — von all den Himmelsmächten
 
-> Gab kein Helfer mir Bescheid, Ellen.«
+> Gab kein Helfer mir Bescheid.     Ellen.«
 
 Englische Worte — von Harst ins Deutsche Übertragen.
 
-Firma in die Schote eitnerigt - — Nr Gang, Nun
-weicht, die gurgelte Echt wo 0000
+So stand’s in die Scheibe eingeritzt — nur ganz, ganz
+leicht, wie winzige Schrammen … —
 
 Da — Schritte draußen … Die Tür ging auf.
 
 »So!« rief Tobby … »Hier habe ich den Herren auch
 <@pagebreak/>
-gleich den Verarmter mitgebracht … Und Hier ist noch) eine
-halbe Flasche Blick in vom allerfeinsten …! Wenn’s den
-Herren recht ist: neue wir ihn!«
+gleich den Morgentee mitgebracht … Und Hier ist noch eine
+halbe Flasche Whisky vom allerfeinsten …! Wenn’s den
+Herren recht ist: prüfen wir ihn!«
 
-Gläser Staubes im Büfett. Tobby schenkte ein,
+Gläser standen im Büfett. Tobby schenkte ein,
 
-»ztifommen auf der Apfel!« meinte er Wieder sckschnnun-zelnd
-und hob das Gläschen ¿zum Munde … Schien zu
-men …
+»Willkommen auf der Insel!« meinte er bieder schmunzelnd
+und hob das Gläschen zum Munde … Schien zu
+trinken …
 
 Wir — tranken — wirklich.
 
 Und er — spie wieder aus, was er im Munde behalten.
-Ließ das (Glas fallen … HB aus der Tasche einen Revolver
+Ließ das Glas fallen … Riß aus der Tasche einen Revolver
 hervor …
 
 »Schuft, Betrüger!!« brüllte er — und eine Stramme
-hatte der Seebär, die mich nach Musik klang … »Bleibt, 1v0
-Ihr seid!! Bleibt sehen, rührt Euch nicht, bis mein Tränkten
-trifft! Ihr dachtet wohl, ich hätte ich meinem Häuschen
-seinen Apparat!!! Na — Ihr irrt Euch!!«
+hatte der Seebär, die nicht nach Musik klang … »Bleibt, wo
+Ihr seid!! Bleibt sehen, rührt Euch nicht, bis mein Tränkchen
+wirkt! Ihr dachtet wohl, ich hätte ich meinem Häuschen
+keinen Apparat!! Na — Ihr irrt Euch!!«
 
-Hast — mein alter Harald Harst war!n dieser kritischen
-Lage wieder na! von geradezu vrrvlüsjsender Veistesgegens-wart
-und — Oeripeicheit!
+Harst — mein alter Harald Harst war in dieser kritischen
+Lage wieder mal von geradezu verblüffender Geistesgegenwart
+und — Gerissenheit!
 
-Tonkin Ruhe war alles andere, nur sein Gegner für einen
-Patzig Kulis. Tolle Villa Hasse einen 2 »nannten Revolver
-in der und und hätte vielleisit an abgebrüht —
+Tobby Rucks war alles andere, nur kein Gegner für einen
+Harald Harst. Tobby Rucks hatte einen gespannten Revolver
+in der Hand und hätte vielleicht auch abgedrückt —
 vielleicht!
 
 Dazu kam’s jedoch nicht …
 
-Kaum Blatte Getan uns in dieser überlauten Weise vor
-roten, das ein zechten Nilostdberat mit felbjtiähssr Eins
-Hinabging in jenen Gärtchen stände, daß er die Depesche
-also ebenfalls abgelesen ade, als Harald sich auch schon hoch
-ausriciticie und mit überseuener Ruhe Tante:
+Kaum hatte Tobby uns in dieser überlauten Weise verraten,
+daß ein zweiter Radioapparat mit selbsttätiger
+Einschaltung in seinem Häuschen stände, daß er die Depesche
+also ebenfalls abgelesen habe, als Harald sich auch schon hoch
+aufrichtete und mit überlegener Ruhe sagte:
 
 »Lieber Mann, ich bin nicht der, für den ich mich ausgab
-… Ah bin Teiefnpinineftor Kohlen und London,
-Ich werde Ihnen Meter Wurm weiß nicht Yıonıbiid zeigen, und
-ich warne Sie cinckringlih, sich ebenfalls in all die faulen
-Gesetzt n mit Fineinameriideln, die Lord Effingham da
-gefeit Jahren betreibt. Tot er hier In Diner Felsenwohnung
-Miß Ehen Marmartp beherbergt Da!, weiß ich cbenfaNna.«
+… Ich bin Detektivinspektor Colley aus London,
+Ich werde Ihnen meinen Ausweis mit Lichtbild zeigen, und
+ich warne Sie eindringlich, sich ebenfalls in all die faulen
+Geschichten mit hineinzuverwickeln, die Lord Effingham da
+seit Jahren betreibt. Daß er hier In dieser Felsenwohnung
+Miß Ellen Marmarty beherbergt hat, weiß ich ebenfalls.«
 <@pagebreak/>
-Diese Achte Behauptung traf den Alten wie ein Keulenhieb
+Diese letzte Behauptung traf den Alten wie ein Keulenhieb
 … Er prallte zurück … Die Hand mit dem Revolver
-sauf herab …
+sank herab …
 
-»Sie — Ehe wissen …?!« stammelte er entgeistert.
+»Sie — Sie wissen …?!« stammelte er entgeistert.
 »Oh — dann, dann …«
 
 Er schwieg, warf nur einen flüchtigen Blick auf den
-Auswuchs, merkte gar nicht, Daß c& der Auawcis einer Deut«
-Ideen Behörde war, und ließ sich ohne weiteres den Necvolver
+Ausweis, merkte gar nicht, Daß es der Ausweis einer deutschen
+Behörde war, und ließ sich ohne weiteres den Revolver
 abnehmen …
 
 Harald winkte mir …
 
 Wir eilten in die Küche, und hier taten wir das, was
-das einfachste Mittel ist, eine gründliche Magenenileerung
+das einfachste Mittel ist, eine gründliche Magenentleerung
 herbeizuführen …
 
-Tranken Blasser, spülten den Magen mehrmals aus und
-fehlten dann zu Tobby zurück.
+Tranken Wasser, spülten den Magen mehrmals aus und
+kehrten dann zu Tobby zurück.
 
 Der saß in sich zusammengesunken da und beachtete uns
 kaum.
 
-»Was hatten Sie dem Whisky beigemengt, Tobbyf«
-fragte Harald strengen Teures.
+»Was hatten Sie dem Whisky beigemengt, Tobby?«
+fragte Harald strengen Tones.
 
 Der Alte schaute traurig auf …
 
 »Nichts — nichts … Der Whisky stammt noch von
-früher her — aus Lord Rogers wildester. Zeit …«
+früher her — aus Lord Rogers wildester Zeit …«
 
-»Also hat der Lord diesen Alkohol. dem ein Betäubungsmittel
+»Also hat der Lord diesen Alkohol, dem ein Betäubungsmittel
 beigemengt ist, stets bereitgehalten?«
 
-»Ja.« Er verleitete sich sehr schnell. »Das heißt: ich
-weiß es nicht, Mr. Colley, So denke mir das nur so …
+»Ja.« Er verbesserte sich sehr schnell. »Das heißt: ich
+weiß es nicht, Mr. Colley. Ich denke mir das nur so …
 Mylord sagte mir mal: »Tobby,« sagte er, »wenn mal
 irgend jemand hierher kommt, der Dir lästig ist, dann
-brauchst Du ihm nur einen Zu hielt aus dieser Flasche anzubieten,
-und nach Fünf Vermuten schläft der Betreffende fest
+brauchst Du ihm nur einen Whisky aus dieser Flasche anzubieten,
+und nach fünf Minuten schläft der Betreffende fest
 wie ein Murmeltier und wird Auch vor zwölf Stunden nicht
-machen.« — Ich Bad« Die Flasche nie zu benutzen brauchen,
-der Billard ließ sie sich zmwveislen geben, wenn — wenn —«
+erwachen.« — Ich hab Die Flasche nie zu benutzen brauchen.
+Aber Mylord ließ sie sich zuweilen geben, wenn — wenn —«
 
-C1 vergl wie und blitzte hilflos zu Jeden
+Er verstummte und blickte hilflos zu Boden …
 
-»Wenn er wirrer einmal ein Jungs Weib Vier werden
-hielt.« vollendete Harald ernst »So brauchen in aß:
+»Wenn er wieder einmal ein junges Weib hier verborgen
+hielt,« vollendete Harald ernst. »Sie brauchen weder
 <@pagebreak/>
-bejahen noch« zu verneinen, Tobby. Lord Roger Eskimo«
-war alt Schürzenjäger berüchtigt! Wenn er nicht Lord
+zu bejahen noch zu verneinen, Tobby. Lord Roger Effingham
+war als Schürzenjäger berüchtigt! Wenn er nicht Lord
 Effingham wäre, säße er längst im Gefängnis!«
 
 Tobby seufzte schwer.
 
-»Mr. Colley — er hat sich nun ja geändert, Zeit er die
-schneidige Miß Randersfield aus Chikago geheiratet hat.
+»Mr. Colley — er hat sich nun ja geändert, seit er die
+schneidige Miß Randerfield aus Chikago geheiratet hat.
 Die junge Mylady Effingham hat ihn kräftig unter der
-Gatter …«
+Fuchtel …«
 
 »Wann heiratete er doch Doris Randerfield? War’s
 nicht vor einem Jahr?«
@@ -1219,73 +1218,73 @@ nicht vor einem Jahr?«
 »So ungefähr — so ungefähr! Am vierten Juni vorigen
 Jahres fand die Hochzeit statt.«
 
-Harald überlegte … sagte dann;
+Harald überlegte … sagte dann:
 
-uT ob by, es ist Ihnen ein Gefangener angemeldet worden
+»Tobby, es ist Ihnen ein Gefangener angemeldet worden
 … Wo sollten Sie ihn unterbringen?«
 
-Wieder der billigte Blick — und noch zögernder die
+Wieder der hilflose Blick — und noch zögernder die
 Antwort:
 
 »Die Insel Garlabarg hat ihre Geheimnisse, Mister
-Colley … alte Geheimnisse. Noch aus den blutigen Zeichen,
-ins die Königin Elisabeth irre Rivalin Maria Satt
-Töpfen Dick und der alte Adel des Landes nicht recht wußte,
-woclehexr Partei er sich anschließen hoffte ,.,«
+Colley … alte Geheimnisse. Noch aus den blutigen Zeiten,
+wo die Königin Elisabeth ihre Rivalin Maria Stuart
+köpfen ließ und der alte Adel des Landes nicht recht wußte,
+welcher Partei er sich anschließen sollte …«
 
-»Ich Wünsche diese Geheimnisse zu rohen!« befahl Harst
-gebieterisch, »ich stehe hier als Vertreter der irdischen See
-recdtigteit vor Ihnen, Tobby Rudel Gehorchen Eier«
+»Ich wünsche diese Geheimnisse zu sehen!« befahl Harst
+gebieterisch. »ich stehe hier als Vertreter der irdischen
+Gerechtigkeit vor Ihnen, Tobby Rucks! Gehorchen Sie!«
 
-Der Witze nickte schwerfällig.
+Der Alte nickte schwerfällig.
 
 »Ja — ja, — wie Sie wollen, Mr. Colley, wie Sie
-wollen. Aber — ich warne Sie! Ich warne Sie, «1
+wollen. Aber — ich warne Sie! Ich warne Sie …!
 Es tut nicht gut, so uralte Dinge — aufzufrischen,«
 
 Er erhob sich langsam.
 
-Harald trat an den Funkapparxat heran, nahm einen
-Schraubenzieher und entfernte ratet einen Der Transsocmge
-Toren des Senders,
+Harald trat an den Funkapparat heran, nahm einen
+Schraubenzieher und entfernte rasch einen Der Transformatoren
+des Senders,
 
 Dann verließen wir die Grotte.
 
-Nach genau daschelbe tat Harald In Tribut Kättächen.
+Nach genau dasselbe tat Harald In Tobbys Häuschen.
 
 <@pagebreak/>
 
-Die Transformatoren nahe er In eine Zeitung und schob
+Die Transformatoren packte er In eine Zeitung und schob
 das Päckchen unter den Arm.
 
 »So, Tobby, nun vorwärts. Nun habe Ich mich dagegen
-gesichert, daß Sie Lord Roger etwa allzu Sohnes eine ruhelose
-aÓvricht senden Tönen.«
+gesichert, daß Sie Lord Roger etwa allzu schnell eine wichtige
+Nachricht senden können.«
 
 <h2>5. Kapitel.</h2>
 
 <h3>Die andere Höhle.</h3>
 
-Tobby Rucks schlug jetzt von seinem Häuêschen aus den
+Tobby Rucks schlug jetzt von seinem Häuschen aus den
 Weg nach Süden ein, wieder einen schmalen Pfad entlang,
 der hier jedoch sehr bald zahllose Abzweigungen hatte — das
 reine Labyrinth!
 
-Und doch fand Tobby sich In diesem Gewirr durchein-anderlagufender
+Und doch fand Tobby sich In diesem Gewirr durcheinanderlaufender
 Pfade tadellos zurecht …
 
-Inzwischen war auch seine Poraussege eingetroffen …
-Ein heftiger Osisturm brauste über die Bucht von Harwich
+Inzwischen war auch seine Voraussage eingetroffen …
+Ein heftiger Oststurm brauste über die Bucht von Harwich
 hinweg. Die alten Bäume des Eilandes wurden derb geschüttelt
-und schleuderten trockene Seite und Zweige hinab
+und schleuderten trockene Äste und Zweige hinab
 
-Über uns rauschte das Blätterdach dieses seltsamen irr
-Waldes, und flinke Raten tauchten immer wieder auf den
-Heiteren Kosten aus, starrten uns an und verschwanden
+Über uns rauschte das Blätterdach dieses seltsamen Urwaldes,
+und flinke Katzen tauchten immer wieder auf den
+tieferen Ästen auf, starrten uns an und verschwanden
 
 Dann — eine kleine, steinige Lichtung …
 
-Um hier eine Eiche — ein Prachtbaum von mindestens
+Und hier eine Eiche — ein Prachtbaum von mindestens
 drei Meter Durchmesser …
 
 Einsam mitten auf der Lichtung der Baumriese, einsam,
@@ -1294,53 +1293,53 @@ knorrig und stolz …
 Tobby schritt auf die Eiche zu, blieb vor einer in den
 Stamm eingelassenen großen Eisentafel stehen …
 
-Sie reichte bis zu den Erdvurzeln hinab, war viereckig
+Sie reichte bis zu den Erdwurzeln hinab, war viereckig
 und vielleicht zwei Meter hoch und ein Meter breit.
 
 An ihren Rändern quoll die Rinde wulstig über, so daß
-es aus den ersten Blick schien, als sei diese Eisentafel, verrostet
+es auf den ersten Blick schien, als sei diese Eisentafel, verrostet
 <@pagebreak/>
-und mit lahm mehr Lesbaren Buchstaben bedeckt, für
+und mit kaum mehr lesbaren Buchstaben bedeckt, für
 alle Zeit und Ewigkeit fest mit dem Baume verbunden.
 
-Wir waren gehen Tobby schreien Und er Taute balb-wart:
+Wir waren neben Tobby getreten. Und er sagte halblaut:
 »Das hier ist eines Der Verstecke, in dem Lord Roger
-Effingham, der Ihn meines jetzigen Herrn, im Jahre 1615
+Effingham, der Ahn meines jetzigen Herrn, im Jahre 1615
 acht Monate gehaust hat …«
 
-Er bückte Ich …
+Er bückte sich …
 
-Da war am rechten Rande der Tafel ein grober verrosteter
+Da war am rechten Rande der Tafel ein großer verrosteter
 Nagelkopf zu sehen …
 
 Und — Tobby zog diesen Nagel ein Stück heraus, drehte
 ihn dann nach rechts und — zog an diesem Griff nun auch
 die Platte wie eine Tür spielend leicht so weit auf, daß
-man in das bohrte Innere der Eiche hineingelangen konnte.
+man in das hohle Innere der Eiche hineingelangen konnte.
 
-Wir sahen, daß ein mit Eid erklettern gutgekleideter
-enger Schacht, in dem Hergerufen und Holzgriffe zum Hinab-iletiern
-angebracht waren, in die Diese ging.
+Wir sahen, daß ein mit Eichenbrettern ausgekleideter
+enger Schacht, in dem Holzstufen und Holzgriffe zum Hinabklettern
+angebracht waren, in die Tiefe ging.
 
-Wir sahen, wie der Sie v: endlos in das Buunnloch Bin.
-einfchlünfte und hinabzusteigen begann …
+Wir sahen, wie der Alte wortlos in das Baumloch hineinschlüpfte
+und hinabzusteigen begann …
 
 Wir folgten …
 
 Folgten langsam, — mißtrauisch …
 
 Zu langsam — und zu wenig mißtrauisch, wie sich sehr
-Cold zeigte …
+bald zeigte …
 
-Tobby war plôötlih verschwunden, als aus dem Ende
-des Schachtes einte Wetter weiter nach unten führte …
+Tobby war plötzlich verschwunden, als aus dem Ende
+des Schachtes eine Leiter weiter nach unten führte …
 
-zerrte Tafehsriorine ruhte ihren grellen Lichtkegel durch
-eine Von drei Meter Breite, langgestreckte Zergrüble hin —
-hierhin, knorrig …
+Harsts Taschenlampe sandte ihren grellen Lichtkegel durch
+eine kaum drei Meter Breite, langgestreckte Felshöhle hin —
+hierhin, dorthin …
 
-Darf! sprang von der Leiter auf den harten Giranitboden,
-sicher vorwärts, kehrte zurück … Ich stand noch auf der Reiter.
+Harst sprang von der Leiter auf den harten Granitboden,
+lief vorwärts, kehrte zurück … Ich stand noch auf der Leiter.
 
 Über mir schimmerte noch Das Tageslicht …
 
@@ -1349,126 +1348,126 @@ Dann aber — ein dumpfer Knall von oben …
 Dunkelheit …
 
 Die Eisenplatte war zugeworfen worden, und — noch
-etwas war geteerten: über den Ausgang des Schachtes,
-Eber die Schachtöffnung war ein eiserner Deckel gefallen, ließ
+etwas war geschehen: über den Ausgang des Schachtes,
+über die Schachtöffnung war ein eiserner Deckel gefallen, ließ
 <@pagebreak/>
-« nicht nicht lüften, fc kräftig Ich auch den Flachen Bartloser
+sich nicht nicht lüften, so kräftig Ich auch den Nacken darunter
 stemmte … —
 
 Harald rief mir zu: »Komm’ nur herab, mein Alter …
-Wir sind teilst schuld an alledem … Wir haben Tobby
-Rucks unterschägut.«
+Wir sind selbst schuld an alledem … Wir haben Tobby
+Rucks unterschätzt.«
 
-Wir Fakten uns die niedere, etwa dreißig Meter lange
-Höhle genauer on …
+Wir sahen uns die niedere, etwa dreißig Meter lange
+Höhle genauer an …
 
-in Geister ade fand eine Menge Gerümpel: Tisch, Sessel,
-halb verarmter Schwanden, Die Reste eines Halskette«,
-Töpfe, Rapiden, — ein ganzer Berg, aus dessen unsauberer
-Vielseitigkeit Harald un zu meinem Erstaunen einen Hinabtrug
-hervorholte und Saale;
+in einer Ecke stand eine Menge Gerümpel: Tisch, Sessel,
+halb vermoderte Gewänder, Die Reste eines Holzbettes,
+Töpfe, Kannen, — ein ganzer Berg, aus dessen unsauberer
+Vielseitigkeit Harald nun zu meinem Erstaunen einen Zinnkrug
+hervorholte und sagte:
 
-»Wie haben ja Zeit … Wir werden den zweiten geheimen
-Ausgang aus dieser Höhle, den Tobby benagt bat,
-schon finden. — sich Wir mal dieses prächtige alte Stück
-von empfing an. Wenn ich« möglich machen kann, nehme
-ich ihn mit heim. Er wird eine Zierde unterst Speisezimmers
-Merken …«
+»Wir haben ja Zeit … Wir werden den zweiten geheimen
+Ausgang aus dieser Höhle, den Tobby benutzt hat,
+schon finden. — Sieh Dir mal dieses prächtige alte Stück
+von Zinnkrug an. Wenn ich’s möglich machen kann, nehme
+ich ihn mit heim. Er wird eine Zierde unseres Speisezimmers
+werden …«
 
 Und er wischte den Staub mit einem Zeugfetzen ab und
 erklärte in seiner sprunghaften Art:
 
-»ich habe jetzt den Ja! Guvonurg In Gedanken erledigt.
-Ich bin auf den Gefangenen sehr gespannt … Du grinst
-gleichfalls einige Arbeiter. gehangen erleben, lieber Alter!«
+»ich habe jetzt den Fall Gybourg In Gedanken erledigt.
+Ich bin auf den Gefangenen sehr gespannt … Du wirst
+gleichfalls einige Überraschungen erleben, lieber Alter!«
 
-»Inwiefern« ist Lord Roger decke der Mörder?«
+»Inwiefern? ist Lord Roger doch der Mörder?«
 
-»Keine Rede! Er beschaut!ich den Mörder und den Mann,
-den die Polizei dafür halt, auf seine Weise … Er steh! ich
-bloß, er unterzich! sich allerlei Gefahren … Er muß Er
+»Keine Rede! Er beschützt den Mörder und den Mann,
+den die Polizei dafür hält, auf seine Weise … Er stellt sich
+bloß, er unterzieht sich allerlei Gefahren … Er muß Ellen
 Marmaty sehr geliebt haben — sehr … Und sie ihn wohl
-auch! Bis eher die Vernunft siegte … Da heiratete se
-eben John Ordnung …«
+auch! Bis eben die Vernunft siegte … Da heiratete sie
+eben John Gybourg …«
 
-»Glaubst zu,« meinte ich etwas gereizt, »daß diese in
-verhangen Ok Blitzen machen 7«
+»Glaubst Du,« meinte ich etwas gereizt, »daß diese Andeutungen
+mich klüger machen?«
 
-»Ich hoffte. — Suchen wir jetzt den zweiten Guégangl
+»Ich hoffte. — Suchen wir jetzt den zweiten Ausgang!«
 
-Und er stellte den empfing aus den wackligen Tisch, an
+Und er stellte den Zinnkrug auf den wackligen Tisch, an
 dem vielleicht einst der flüchtige Lord Effingham hier in
-dieser Höhle seine einsamen Mahlzeiten gehalten bare
+dieser Höhle seine einsamen Mahlzeiten gehalten hatte.
 
 <@pagebreak/>
-Wir suchten … Suchten so, wie wir es tun, wie wir 64
+Wir suchten … Suchten so, wie wir es tun, wie wir es
 verstehen …
 
-suchten mit der Zuverslctllchkeit von Mäntierxa, die noch
+suchten mit der Zuversichtlichkeit von Männern, die noch
 immer entdeckt haben, was sie wollten …
 
 Wurden doch leicht nervös, als zehn Minuten verstrichen
 — ohne Erfolg …
 
-Harald brummte: »Das ist sehr merkwürdig!« Und «-
-er wechselte die Batterie Dritter Taschenlampe aus, da sie cm
-schöpft war …
+Harald brummte: »Das ist sehr merkwürdig!« Und —
+er wechselte die Batterie seiner Taschenlampe aus, da sie
+erschöpft war …
 
 Die Felswände, der rauhe Felsboden, selbst die zackige
-Fell stehe der Höhle, nichts blieb unbeachtet; kein Zentimeter
-Gestein ward nicht behaftet! Und doch: es war alles umisonfl
+Felsdecke der Höhle, nichts blieb unbeachtet; kein Zentimeter
+Gestein ward nicht betastet! Und doch: es war alles umsonst
 — alles!
 
 »Merkwürdig!« meinte Harald abermals. »Hier gibt’s
-also in der Tat eine Nuß alt Fanden! Diese Lords Effingham
-haben ihre Geheimnisse Bug verschleiert … 1«
+also in der Tat eine Nuß zu knacken! Diese Lords Effingham
+haben ihre Geheimnisse klug verschleiert …!«
 
-Er schaute sich um, Behagte hierhin — dorthin …
+Er schaute sich um, schaute hierhin — dorthin …
 
-»Ein kühler Luftzug streicht mir Über die Finger,« der
-er lebhafter. »Hier muß eine Spalte sein.«. sind Hier Blank
-der alte Sessel, den tun nun beifeitegerüct haben …«
+»Ein kühler Luftzug streicht mir Über die Finger,« sagte
+er lebhafter. »Hier muß eine Spalte sein … Und Hier stand
+der alte Sessel, den wir nun beiseite gerückt haben …«
 
-Er beugte Bist zu dem Befiehlst Hinab …
+Er beugte sich zu dem Sesselsitz Hinab …
 
-Und — da traten in der dicken Staubschicht bot peinlich«
-ten Leders deutlich die Abdrücke Finster Stiefel zu erleiden:
+Und — da traten in der dicken Staubschicht des zermürbten
+Leders deutlich die Abdrücke zweier Stiefel zu erkennen!
 
-Harald lachte Keile …
+Harald lachte leise …
 
 »Es wäre ja auch toll gewesen, wenn wir nicht ebenso
-Flug wie …«
+klug wie …«
 
-Er schwieg — war aus den Sessel Festlegen, nachdem er
+Er schwieg — war auf den Sessel gestiegen, nachdem er
 ihn wieder an den früheren Platz geschoben hatte …
 
-Und — hatte die Arme hochgereckt, hatte eine quabratifeit
-Atemloser der Decke rufe eine Antritt? nach unten klappen
-lassen — eine Platte von quabratiiiher Form …
+Und — hatte die Arme hochgereckt, hatte eine quadratische
+Steintafel der Decke wie eine Falltür nach unten klappen
+lassen — eine Platte von quadratischer Form …
 
-Und von oben her fiel tun wieder Tageslicht durch eitle
-platte, gerade Spalte zu uns herein — durch eine Spalte, In
+Und von oben her fiel tun wieder Tageslicht durch eine
+glatte, gerade Spalte zu uns herein — durch eine Spalte, In
 der — eine Leiter hing.
 
-»Tobby hätte es sich schenken können, uns Bier einzusperren,«
+»Tobby hätte es sich schenken können, uns hier einzusperren,«
 <@pagebreak/>
 sagte Harald und — war durch einen Klimmzug
 bereits im Schacht …
 
-Und wir beide waren wenige Minuten später mitten Ui
-der Insel und arbeiteten uns bis zum nächsten Pfade
-ach … — —
+Und wir beide waren wenige Minuten später mitten im
+Dickicht der Insel und arbeiteten uns bis zum nächsten Pfade
+durch … — —
 
-Hiermit ließe ich den ersten Teil unseres Abenteuers.
+Hiermit schließe ich den ersten Teil unseres Abenteuers.
 
 Führe den Leser nun in eine ganz andere Umgebung —
-in die Prachträume eines allen Palastes — mitten in die
+in die Prachträume eines alten Palastes — mitten in die
 vornehmste Welt Londons …
 
 <h1>Um Ehre und Weib</h1>
 
 <h2>1. Kapitel,</h2>
-<h3>— Im Palast Effingham.</h3>
+<h3>Im Palast Effingham.</h3>
 
 Ich liebe solche Titel rohe den obigen für unsere Abe1n-teuer
 durchaus nicht, denn sie erinnern zu sehr an Familienromane,
@@ -2323,7 +2322,7 @@ Ich kann meine Binde nicht lockern. Versuche Du es.
 Ich werde mich etwas drehen. Vielleicht erreichen Deine
 Finger die Knoten meiner Handfesseln.«
 
-Ich antwortete — durch Elleubogenfiöße: »Verstanden.«
+Ich antwortete — durch Ellenbogenstöße: »Verstanden.«
 
 Und dann — dann drehte Harald sich, bis wir Seite an
 Seite standen …
@@ -2414,7 +2413,7 @@ haben mich wie einen Derbe: Eier behandelt …«
 er schritt voran …
 
 Wir betraten Sollte bist:saubere Hütte, zündeten in Eine
-Vorderfiube Die Kapkolonie an und heizen den Kucdesltn,
+Vorderstube Die Kapkolonie an und heizen den Kucdesltn,
 um warne leider zu trocknen.
 
 Paracolea war sl meinem …
@@ -2849,7 +2848,7 @@ treuen Tobby, keinerlei Vorwürfe dieserhalb machen
 würde, taute der Alte aus und meinte bissig:
 
 »Eine Gemeinheit war’s doch, Mister, so zwei junge
-Leite, wie Sie, gegen mich alten llapprigen Seebär! Na —
+Leite, wie Sie, gegen mich alten klapprigen Seebär! Na —
 dreißig Jahre früher, — da wäre die Geschichte Ihnen wohl
 übel bekommen!«
 
@@ -2924,7 +2923,7 @@ Ich, ebensowenig John Gybourg, ahnte auch nicht im
 <@pagebreak/>
 entfernteftien, was sich ereignen mürbe, ol& Dick warnend
 ein Viertel zehn Uhr Harald entfernte und nur erklärte:
-»Zunft elf Uhr seid Ihr drüben bei Frau Marmartn. ich
+»Zunft elf Uhr seid Ihr drüben bei Frau Marmarty. ich
 werde sie vorbereiten. Und Sie, lieber Gybourg, schützt Ihre
 tadellose Verkleidung vollständig vor dem Wiedcrerkannt-werden.
 Im übrieen — er!Stecken Sie nicht, wenn Sie
