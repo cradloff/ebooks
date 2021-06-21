@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Eigenschaften für eBook</comment>
+<!-- eindeutige ID des Buchs (Pflichtangabe) -->
+<entry key="UUID">13fd4fc6-c86e-11eb-952f-fb75c3141c23</entry>
+<!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
+<entry key="secondaryID"></entry>
+<!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
+<entry key="secondaryIDType"></entry>
+<!-- Buch-Titel (Pflichtangabe) -->
+<entry key="title">Die Treppe des Todes</entry>
+<!-- Sub-Titel -->
+<entry key="subtitle"></entry>
+<!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
+<entry key="shorttitle"></entry>
+<!-- Sammlung, z.B. Titel einer Serie -->
+<entry key="collection">Harald Harst - aus meinem Leben</entry>
+<!-- Position innerhalb der Sammlung (Band-Nummer) -->
+<entry key="group-position">116</entry>
+<!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
+<entry key="edition"></entry>
+<!-- Sprache (Pflichtangabe) -->
+<entry key="language">de</entry>
+<!-- Beschreibung -->
+<entry key="description">
+Treppe des Todes
+
+Auch ich liebe es, meine Leser und Freunde stets aufs neue zu überraschen …
+
+Ich, Max Schraut, steter Begleiter und Intimus des genialen Harald Harst, will hier gleich auf der ersten Seite die Treppe des Todes bringen …
+
+Sie sah so aus:
+
+Helfen mein hier mir
+trach Sie Lon Haben einer
+Wen gitt Sie eige gefan nach
+Dar acht sich don Sie Un Shef mir
+men en ner gen dem an Pall Er
+mich mich tet glück field Retten Gatte und
+den bing Leben Roger Street bar lich Sie hält
+                   mit Mar
+
+Das Tagebuch des Henkers
+
+Die grauenvollen Gestalten vertierter Massenmörder, die jahrelang in aller Heimlichkeit unter dem Deckmantel eines ehrbaren Berufes Opfer auf Opfer hinschlachteten, bis endlich ein Zufall ihr unheimliches Treiben an den Tag brachte, — diese scheinbar aus der Hölle zurückgekehrten Gestalten finden sich in der Kriminalgeschichte aller Länder und Zeiten stets von neuem vor.
+
+Ich will hier nur an die deutschen Massenmörder der letzten Jahrzehnte erinnern: an Sternickel und ähnliche Bestien!! —
+
+Wenn ich nun Gelegenheit habe, dem Leser einen fast schon sagenhaft gewordenen berühmten Henker, eben Charles Roger Andrew Bastimon, als Massenmörder von besonderer Unmenschlichkeit vorzuführen, wenn der Leser hier sein Tagebuch in kurzen Auszügen veröffentlicht sieht, so verdanke ich dies, und mit mir der Leser, einzig und allein meinem Freunde Harald Harst, dem es gelang, Bastimons ungeheuerliche Aufzeichnungen in dem gemauerten Schacht unter der tückischen Treppe nach längerem Suchen zu entdecken — —
+</entry>
+<!-- Author (Anzeige, Pflichtangabe) -->
+<entry key="author">Walther Kabel</entry>
+<!-- Author (für Sortierung) -->
+<entry key="authorFileAs">Kabel, Walther</entry>
+<!-- Dateiname (default: Titel - Author.epub) -->
+<entry key="filename">Kabel, Walther - (116) Die Treppe des Todes.epub</entry>
+<!-- Verlag -->
+<entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
+<!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
+<entry key="subject">FICTION / Mystery &amp; Detective / Historical</entry>
+<!-- Rechte/Lizenz (z.B. Public Domain) -->
+<entry key="rights">Public Domain</entry>
+<!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
+<entry key="pubDate">1924</entry>
+<!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
+<entry key="creationDate"></entry>
+<!-- Cover-Bild (default cover.*) -->
+<entry key="cover"></entry>
+<!-- Inhaltsverzeichnis anzeigen? (true/false) -->
+<entry key="toc">true</entry>
+<!-- Verzeichnis-Einträge aus diesen Elementen anzeigen (CSV, default: h1, h2) -->
+<entry key="toc-entries">h1, h3</entry>
+<!-- Liste von weiteren Dateien (CSV, z.B. first.gif, second.gif) -->
+<entry key="additional-media"></entry>
+<!-- Freemarker für Content aktivieren? (true/false) -->
+<entry key="freemarker">true</entry>
+</properties>
+

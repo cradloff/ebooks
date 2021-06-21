@@ -121,6 +121,10 @@ td, th {
 	white-space: pre-wrap;
 }
 
+.indent {
+	margin-left: 1em;
+}
+
 .monospace {
 	font-family: monospace;
 }

@@ -38,8 +38,8 @@ recht.«
 »Du wirst es begreifen —«
 
 Er ließ sein Tier schärfer traben. Ich hatte das Lastkamel
-am Riemen, und das träge Vieh machte wieder ein
-mal Miene, bockbeinig zu werden. So blieb ich denn eine
+am Riemen, und das träge Vieh machte wieder einmal
+Miene, bockbeinig zu werden. So blieb ich denn eine
 ganze Strecke zurück.
 
 Harst ritt wirklich im Kreise um die Oase herum, bis
@@ -260,9 +260,9 @@ werden?«
 »So so. — Wieviel ist Ihnen Ihr und Ihres Freundes
 Schraut Leben wert?«
 
-»10 000 Pfund,« erwiderte Harst gelassen.
+»10&nbsp;000 Pfund,« erwiderte Harst gelassen.
 
-»Hm — sagen wir 15 000, Herr Harst. Einverstanden?«
+»Hm — sagen wir 15&nbsp;000, Herr Harst. Einverstanden?«
 
 »Ja — falls Sie uns beide sofort menschlicher behandeln.«
 
@@ -403,8 +403,8 @@ Ich hatte mir den Ring nun ebenfalls betrachtet.
 Der Schwarzbärtige lag still und starrte uns an. In
 seinen Augen lag ein Ausdruck ängstlicher Spannung.
 
-»Ich besinne mich nicht!« erwiderte ich nach einer Weile,
-»solche Ringe mit einem viereckigen Amethyst sind so sehr
+»Ich besinne mich nicht!« erwiderte ich nach einer Weile.
+»Solche Ringe mit einem viereckigen Amethyst sind so sehr
 häufig.«
 
 »Hm — nur Amethyst?!« meinte Harst. »Na — lassen
@@ -482,7 +482,7 @@ den Augen.
 Harald blieb trotzdem ruhig und zuversichtlich. Um
 seine Lippen spielte sogar ein Lächeln, als ich der Befürchtung
 Ausdruck gab, daß wir vielleicht das Rätsel der Oase
-Tschamra nunmehr ganz fallen lassen müßten. »Die Spur,
+Tschamra nunmehr ganz fallen lassen müßten. »Die Spur
 des Reiters war für uns doch sozusagen der Faden, der
 uns mit dem nächsten Punkte des Geheimnisses verband,«
 erklärte ich. »Jetzt ist dieser Faden zerschnitten. Was nun?«
@@ -519,7 +519,7 @@ Er kniff die Augen halb zu und schien angestrengt nachzudenken.
 Ich sah, wie des Italieners Mundwinkel höhnisch
 zuckten.
 
-»Nilwind — in zwei Worten geschrieben, — Nil...
+»Nilwind — in zwei Worten geschrieben, — Nil …
 Wind, — ob das absichtlich geschehen ist?« wandte er sich
 an mich. »Wie denkst Du darüber? Und dann — »2 Sonnen«,
 zwei mit der Zahl 2 geschrieben — vielleicht auch
@@ -636,7 +636,7 @@ Er hatte also mit dem Messer die Riemen dreiviertel
 durchgeschnitten, als wir uns entfernt hatten. Und dies
 hatte er auch tun sollen. Deshalb hatte Harst die Zigarre
 verlangt, deshalb das Messer aus der Tasche genommen —
-scheinbar der Zigarre wegen! — In der Tat fein ausgeklügelt
+scheinbar der Zigarre wegen! — In der Tat, fein ausgeklügelt
 war das — wie immer! —
 
 Der Italiener behielt uns dauernd im Auge und knotete
@@ -704,11 +704,11 @@ heißt es »Nil-Wind 2 Sonnen«. — Hier ist der längste
 Stengel; hier dieses Steinchen ist die Oase Tschamra. Ich
 lege diesen Stengel von der Oase nach Nordwest. Das sind
 die beiden ersten Tagesritte. — Nun Sperber 1: das heißt,
-ein Tagesritt nach Sperber, nach Süden; der eine
+ein Tagesritt nach S-perber, nach S-üden; der eine
 Tagesritt ist dieser Stengel. Ich lege ihn nach Süden zu
 an das Nordwestende des ersten. — Dieser ganz kurze Stengel
 ist Osiris ein Drittel, also ein Drittel Tagesritt nach
-O\-siris, O\-sten. — Dann folgt Wasser 0, also Wasser
+O-siris, O-sten. — Dann folgt Wasser 0, also Wasser
 Null oder Nichts. Das dürfte heißen: nach dem ein Drittel
 Tagesritt nach Osten kommt man an ein Wasser, und von
 dort geht es mit Null-Tagesritt bis zum letzten Wort der
@@ -784,7 +784,7 @@ hatten.
 »Dich scheint das Weib ja außerordentlich zu interessieren,«
 <@pagebreak/>
 meinte ich, um vielleicht etwas mehr noch aus
-ihm herauszulocken,
+ihm herauszulocken.
 
 »Das Weib?! — Nein, die Tonne interessiert mich!
 Du wirst ja sehr bald selbst feststellen können, daß sie
@@ -1056,8 +1056,8 @@ See beobachteten. Ihn zu fangen wäre in dieser Bergwildnis
 sehr schwer gewesen, zumal er hier doch alle Pfade
 und Schlupfwinkel genau kennt. Nun wird er wohl die
 Frau befreien wollen. Du mußt also auch sie heimlich im
-Auge behalten. Die Palmen haben nur wenig Unterholz.
-Wir werden den Mann schon rechtzeitig wahrnehmen.«
+Auge behalten. Die Palmen haben nur wenig Unterholz,
+wir werden den Mann schon rechtzeitig wahrnehmen.«
 
 Wir hatten die Tonne erreicht. Mit dumpfem Stoß
 schrammte der Bootsrand daran entlang.
@@ -1104,7 +1104,7 @@ hm — ja, es ist ein M, der vierte ein A. Dann folgt eine
 freie Stelle, dann ein kleines e, weiter ein a, wieder etwas
 ganz Unleserliches und dann e und l. Also:
 
-> R M N ea el.
+> R M A ea el.
 
 Die ersten großen Buchstaben, von denen uns der
 zweite fehlt, können nur —«
@@ -1130,7 +1130,7 @@ um Ihren Besuch. Kosten gleichgültig. Bitte verkleidet
 kommen. Große Gefahr. — Generalstaatsanwalt Graf
 Vittoro Santa Rocca, Neapel, Palais Rocca.
 
-»Das Wichtigste aus diesem Telegramm ist jetzt für
+Das Wichtigste aus diesem Telegramm ist jetzt für
 uns einmal der Beruf des Absenders: Generalstaatsanwalt,«
 fuhr Harst fort, »dann aber auch seine Mahnung, in
 Maske bei ihm zu erscheinen, weil »große Gefahr« vorläge.
@@ -1146,7 +1146,7 @@ in Neapel statt, wie ich schon erwähnte.«
 »Ah, Du nimmst an, daß die Jacht aus Rache von
 Mitgliedern des Geheimbundes gekapert und der Graf
 Emanuelo Santa Rocca entführt und — hierher verschleppt
-worden, ist?« unterbrach ich ihn hastig.
+worden ist?« unterbrach ich ihn hastig.
 
 »Ja, das nehme ich an. Du siehst: die Tonne hat
 wirklich die Schleier gelüftet! — Unser kleines, zerlegbares
@@ -1261,7 +1261,7 @@ Steinen sich ein altes Gemäuer befand.
 
 »Es hat hier einst ein Koptenkloster gestanden,« sagte
 das Weib (Kopten sind die christlichen Ureinwohner
-Ägyptens). »Dort links muß man die Felsen erklettern —«
+Ägyptens.) »Dort links muß man die Felsen erklettern —«
 
 Sie eilte nach links uns voraus, erklomm die ersten
 Steine.
@@ -1370,7 +1370,7 @@ meine Herren,« sagte er liebenswürdig. »Wir mußten aber
 wirklich annehmen, in Ihnen beiden zwei Mitglieder einer
 äußerst gefährlichen —«
 
-»Geheimgesellschaft, der Chrysostomos-Brüder vor
+»Geheimgesellschaft, der Chrysostomos-Brüder, vor
 uns zu haben,« nickte Harst. »Wissen wir alles, Herr Graf.
 — Jetzt wollen wir jedoch erst Ihren Bruder Emanuelo
 befreien —«
@@ -1409,7 +1409,7 @@ dumpfer Schrei:
 »Vittoro — Vittoro!«
 
 Dann schob sich durch eine enge Spalte des von den
-Felsen bedecken Gemäuers eine schmutzige Hand hervor.
+Felsen bedeckten Gemäuers eine schmutzige Hand hervor.
 
 »Herr Graf, wo befindet sich der Eingang zu Ihrem
 Kerker?« rief Harst überlaut.

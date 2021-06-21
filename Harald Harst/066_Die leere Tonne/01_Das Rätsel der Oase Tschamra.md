@@ -35,7 +35,7 @@ zu. — Auf Wiedersehen. — Wie stets — Ihr Bewunderer
 V. Saalborg.«
 
 Harst hatte das Blatt Papier sowohl Mocrisam als
-auch mir gezeigt. Es war nur auf der einen Seite beschrieben
+auch mir gezeigt. Es war nur auf der einen Seite beschrieben,
 und zwar stand darauf folgendes, aber in englischer
 Sprache:
 
@@ -81,9 +81,9 @@ Oase Tschamra finde.
 Und diese Oase liegt bekanntlich südwestlich von Alexandria
 in der Wüste und westlich der bekannten Natronseen.«
 
-»Allerdings,« meinte Mocrisam kleinlaut, »Aber —
+»Allerdings,« meinte Mocrisam kleinlaut. »Aber —
 was sollen die Zahlen und Worte, die über der Buchstabenreihe
-stehen. Das ist doch der hellere Unsinn, dieses Zusammenwerfen
+stehen. Das ist doch der hellste Unsinn, dieses Zusammenwerfen
 von Südpol, Nil, Nordpol und Atlas, womit
 natürlich auf das Atlas-Gebirge hingedeutet wird.«
 
@@ -128,8 +128,8 @@ Mocrisam lachte und tippte sich auf die Stirn.
 
 »Ich würde einen feinen Detektiv abgeben!«
 
-»Sie müssen auch das Wort »finde« beachten, fuhr
-Harald fort. »Oase Tschamra finde!« heißt es auf dem
+»Sie müssen auch das Wort »finde« beachten,« fuhr
+Harald fort. »»Oase Tschamra finde!« heißt es auf dem
 Zettel. Das ist da eine Aufforderung, die an einen Dritten
 gerichtet ist. Man könnte also kombinieren: Jemand
 hatte in der Oase etwas Wichtiges entdeckt und wollte aus
@@ -148,7 +148,7 @@ Flügeltür hin, die auf die Terrasse führte. Harald hatte
 sich erhoben. Auch wir standen rasch auf.
 
 In der Tür bemerkten wir eine jüngere Dame, die
-ein graues Reisekostüm und ein graues schmuckloses Filzhütchen
+ein graues Reisekostüm und ein graues, schmuckloses Filzhütchen
 trug. Sie war schlank und etwas über mittelgroß,
 <@pagebreak/>
 hatte blondes, ein wenig ins Rötliche spielendes Haar und
@@ -197,7 +197,7 @@ Treppenstufen lag ein zerlumpter Mann und stöhnte jämmerlich
 In diesem Augenblick sprang Frau Steenhoope mit
 allen Zeichen höchster Erregung auf und rief Lingfu zu:
 
-»Hatte der Mann über dem linkem Auge ein rotes
+»Hatte der Mann über dem linken Auge ein rotes
 Mal?«
 
 »Ja, Mistreß —«
@@ -263,13 +263,14 @@ Straße stand. Ich kann den Inhalt des Briefes jedoch
 ziemlich wörtlich aus dem Gedächtnis wiederholen. Er
 lautete:
 
-> Alexandria, den 15. Okt. 19..
+> Alexandria, den 15. Okt. 19…
+
 > Abends 9 Uhr.
 
 > Mein Liebling! Ich hätte nicht geglaubt, daß ich
 Dich nach so kurzer Ehe wieder verlassen mußte. Ich bin
 gezwungen, mir das Leben zu nehmen. Sorge dafür,
-daß das, was ich diesem Abschiedsgruß beifüge, die
+daß das, was ich diesem Abschiedsgruß beifüge, *die*
 Beachtung findet, die es verdient. Es gibt viele Oasen,
 aber nur eine, die 1357 heißt. Ich küsse Dich zum letzten
 Mal. — Dein Tom.
@@ -323,11 +324,11 @@ wieder?«
 
 »Behalten Sie Platz, Frau Steenhoope.« — Und Harald
 berichtete ihr von Saalborgs Brief, erklärte zum
-Schluß: Ich glaube fast, dieses Blatt ist Ihr Eigentum.
+Schluß: »Ich glaube fast, dieses Blatt ist Ihr Eigentum.
 Denn die Buchstabenreihe unten lautet »Oase Tschamra
 finde!« und der Ihnen gestohlene Brief Ihres Gatten
 sprach von einer Oase 1357, womit er Sie auf die Art der
-Entzifferung der Buchstabenreihe hindeuten wollte!
+Entzifferung der Buchstabenreihe hindeuten wollte!«
 
 <h2>2. Kapitel.</h2>
 
@@ -343,7 +344,7 @@ Harst?« fragte Frau Steenhoope zaghaft. »Ich bin arm.
 Ich könnte Ihnen nicht einmal —«
 
 »Oh — lassen Sie doch!« sagte Harald rasch. »Dafür
-bin ich mehrfacher Millionär.  Ich werde Sie besuchen
+bin ich mehrfacher Millionär. Ich werde Sie besuchen,
 Frau Steenhoope. Wann fahren Sie nach London zurück?«
 
 »Morgen früh. Diese Nacht muß ich noch hier im Hotel
@@ -441,6 +442,7 @@ Städtchens, bewies, daß sie überaus mißtrauisch war.
 Nun schaute sie auf ihre Armbanduhr.
 
 Harst tat dasselbe, raunte mir zu: »Genau halb zehn!«
+
 Frau Steenhoope blickte die gewundene Straße nach
 Shipparl zu hinunter. Sie schien unschlüssig zu sein. Sie
 schritt auf und ab. Dann nahm sie ihre Reisetasche und
@@ -508,7 +510,7 @@ auf Deck. In der Achterkajüte saßen zwei Männer und
 unsere schöne Klientin. Leider sprachen sie sehr leise.«
 
 <@pagebreak/>
-Ich hatte mir eine Zigarre angezündet
+Ich hatte mir eine Zigarre angezündet.
 
 »Was wollte die Steenhoope bei uns?« fragte ich.
 
@@ -708,7 +710,7 @@ Dann wurde es still.
 <h2>3. Kapitel.</h2>
 
 Ich hatte die Taschenlampe in der Linken und in der
-Rechten die entsicherte Clemtentpistole. Ich lag wie im Fieber
+Rechten die entsicherte Clementpistole. Ich lag wie im Fieber
 unter der Steppdecke. Die Erwartung dessen, was sich
 ereignen würde, ließ mein Herz jagen.
 
@@ -743,9 +745,10 @@ Mir lief der Schweiß über das Gesicht.
 
 Die Entscheidung war da. — Was würde der Fremde
 tun?! — Ich blinzelte zwischen den Wimpern hindurch.
+
 Und — es geschah nichts — nichts!
 
-Die Schloßuhr schlug 3. — Ich begann mich in
+Die Schloßuhr schlug ½3. — Ich begann mich in
 Schweiß aufzulösen; ich wäre am liebsten emporgesprungen
 und hätte in das Dunkel alle neun Patronen meiner Clement
 hineingefeuert! Aber — ich mußte still liegen —
@@ -762,7 +765,7 @@ Dann — wie ein Hauch erreichte es mein Ohr:
 
 »Ich bin’s — Harald!«
 
-Er mußte sich am Kopfende meine Bettes befinden.
+Er mußte sich am Kopfende meines Bettes befinden.
 
 »Du mußt ganz leise aufstehn. Ich werde an der Tür
 zum Bibliothekszimmer aufpassen,« fügte er hinzu. »Zieh
@@ -781,7 +784,7 @@ Vor mir ein langer dunkler Strich: Harald!
 
 »Was ist eigentlich los?« flüsterte ich.
 
-»Etwas sehr unangenehmes: wir sind eingesperrt worden!«
+»Etwas sehr Unangenehmes: wir sind eingesperrt worden!«
 erwiderte er leise. »Der Kerl hatte mir völlig lautlos
 die beiden Türschlüssel aus der Jackentasche herausgeholt.
 Nun sitzen wir fest. Die Türen sind aus sehr dickem
@@ -801,7 +804,7 @@ den Mocrisam gezeichnet hat. Er hat auch die Geheimtüren
 vermerkt. In der Bibliothek steht auf der Zeichnung
 ein Fragezeichen, von dem eine punktierte Linie durch
 die Mauern läuft und unten im Keller wieder in einem
-Fragezeichen endet. Das kann nur heißen: es soll einen
+Fragezeichen endet. Das kann nur heißen: es *soll* einen
 geheimen Gang von der Bibliothek in den Keller geben,
 aber Mocrisam hat ihn nicht gefunden.«
 
@@ -835,7 +838,7 @@ anderthalb Meter Höhe hatte. Harald beleuchtete jetzt die
 Bretter des Regals, das mit kleineren Büchern gefüllt war.
 
 »Ah — siehst Du!« meinte er lebhaft. »Hier sind die
-Regalbretter staubfrei; hier hat jemand die Füße aufgelegt
+Regalbretter staubfrei; hier hat jemand die Füße aufgesetzt
 und hat das Regal als Leiter benutzt —«
 
 Er tat dasselbe, trat genau auf dieselben Stellen, untersuchte
@@ -846,9 +849,9 @@ und verfolgte genau, wie Harald mit der großen Klinge
 seines Messers in die Ritzen der Täfelung, die geschnitzte
 Rankenornamente hatte, hineinfuhr.
 
-Dann — zog er plötzlich das Stück der Täfelung auf.
+Dann — zog er plötzlich das Eckstück der Täfelung auf.
 Es war eine quadratische Tür. Dahinter gähnte ein schmales
-Mauerlochs etwa anderthalb Meter hoch.
+Mauerloch etwa anderthalb Meter hoch.
 
 »Vorwärts!« — Harald winkte mir. Ich kletterte ihm
 nach in das Loch hinein. Drei Schritt weiter lief eine
@@ -899,7 +902,7 @@ dankte für die Zigarette. Er aber rauchte und sagte dann
 nach einer Weile, als ich mich neben ihn gesetzt hatte:
 
 »Ich will Dir jetzt erklären, weshalb ich den Mann
-mit dem roten Mal einen Schnellläufer nannte — natürlich
+mit dem roten Mal einen Schnelläufer nannte — natürlich
 ironisch. Als ich an dem Schlüssel der Hintertür auch
 nicht die geringste Spur von Wachs fand, dachte ich mir
 gleich: dann ist der Mann mit dem roten Mal überhaupt
@@ -953,9 +956,9 @@ Lebensmittel hineinstellen. Sie brauchen nicht zu fürchten,
 daß wir Sie etwa vergiften wollen. Nein, das hätten wir
 nicht nötig. Wir könnten Sie ja einfach verhungern lassen.
 Diesen geheimen Gang kennt niemand, und die Granitquadern
-sind so dicht, daß kein Hilferuf hindurchdringt.«
+sind so dick, daß kein Hilferuf hindurchdringt.«
 
-»Gut!« rief Harald zurück. »Ich gebe ihnen auch für
+»Gut!« rief Harald zurück. »Ich gebe Ihnen auch für
 Schraut die gewünschte Zusicherung. Ich möchte aber gleich
 bemerken, daß wir Sie nach Ablauf der fünf Tage verfolgen
 werden.«
@@ -964,7 +967,7 @@ werden.«
 von uns verloren.«
 
 »Noch eine Frage, Frau Steenhoope. Weshalb haben
-Sie diesen Plan verschoben, bis wir abgereist waren?«
+Sie diesen Plan nicht verschoben, bis wir abgereist waren?«
 
 <@pagebreak/>
 »Oh — einmal waren wir mit den Vorbereitungen
@@ -972,7 +975,7 @@ fertig, und dann war es uns nur lieb, daß wir Sie beide
 für mehrere Tage einsperren konnten.«
 
 »Danke. — Wir gehen jetzt nach oben an die erste
-Eisentür.«
+Eisentür.« —
 
 Dort setzten wir uns nieder. Der Treppenschacht war
 wie ein Schalltrichter. Wir hörten von unten das Knirschen
@@ -1021,7 +1024,7 @@ es zwischen diesen Eisentüren in diesem Gange noch einen
 *Ausgang* geben muß, also eine Geheimtür, deren Anlage
 nicht recht geglückt war, so daß —«
 
-»— daß der Schloßherr die Befürchtung hatte, sie
+»— daß der Schloßherr die Befürchtung hegte, sie
 könnte vielleicht entdeckt werden, wenn für ihn die Stunde
 der Gefahr da war,« beendete ich Harsts Ausführungen.
 »Das heißt: der Schloßherr wollte durch die Eisentüren die
@@ -1032,7 +1035,7 @@ sein — das finden sollten, was Du soeben den *Ausgang*
 nanntest.«
 
 »Stimmt, mein Alter! Genau so habe ich mir’s
-überlegt — genau so! Gewiß — unsere Vermutung kann
+überlegt — genau *so*! Gewiß — unsere Vermutung kann
 falsch sein. Aber — irgend einen Zweck müssen die Türen
 doch haben! Also — sehen wir zu, ob wir auf der richtigen
 Fährte sind! Daisy Steenhoope und ihre Verbündeten sind
@@ -1186,10 +1189,10 @@ drückte eine Banknote hinein. Worauf der Alte sagte, sein
 Bruder Jussuf hätte weiter südlich in Menil Schika vorgestern
 abend vier Reit- und zwei Lasttiere auf eine Woche
 gegen Sicherheitsleistung vermietet. Die drei Herren und
-die Dame hatten allein einen Ritt nach den Natronseen
+die Dame hätten allein einen Ritt nach den Natronseen
 unternehmen wollen und seien gestern mittag aufgebrochen.
 
-Harald warf mir einen triumphierendem Blick zu. Wir
+Harald warf mir einen triumphierenden Blick zu. Wir
 hatten es hier ja fraglos mit Daisy Steenhoope und den
 anderen Dieben zu tun. Seine Annahme, die Bande
 würde versuchen, das doch offenbar recht wertvolle Geheimnis
@@ -1225,7 +1228,7 @@ Ziel einen Baum nach Süden zu. — Ich denke, diese Lösung
 wird stimmen.«
 
 Ich war verblüfft über diese einfache Erklärung, sah
-daß sie gerade ihrer Einfachheit wegen stimmen
+aber ein, daß sie gerade ihrer Einfachheit wegen stimmen
 mußte.
 
 Um Haralds mitteilsame Stimmung auszunutzen,
@@ -1270,7 +1273,7 @@ hat man es stets mit einer Persönlichkeit zu tun, die
 weit mehr zu fürchten ist als ein Mann von ähnlichen Charaktermerkmalen.
 Wir müssen deshalb auch, sobald wir
 uns der Oase nähern, mit äußerster Vorsicht zu Werke
-gehen. Wahrscheinlich werden wir sie übermorgen Nacht
+gehen. Wahrscheinlich werden wir sie übermorgen nacht
 erreichen, was durchaus meinen Absichten entspricht. Es
 kommen nur sehr selten Touristen dorthin. Würden wir am
 hellen Tage auf die Oase zureiten, dann könnten wir leicht
@@ -1329,11 +1332,11 @@ Feuchtigkeit spendete. Wir bemerkten nichts Lebendes.
 »Kriechen wir — stets im Schatten der Palmenkronen.«
 
 Der Boden war mit großen schwarzen Flecken betupft.
-Das waren die rundlichen Schatten der Bäume; das war
+Das waren die rundlichen Schatten der Bäume: das war
 der einzige Schutz für uns.
 
 Harald bewegte sich nach links zu. Hier standen noch ein
-paar viele Meter hohe Wände: hier hatten sich Wüstenpflanzen
+paar viele Meter hohe Wände; hier hatten sich Wüstenpflanzen
 angesiedelt.
 
 Dann schlug eine schrille Stimme an unser Ohr.
@@ -1414,7 +1417,7 @@ hatten genug, um behaglich leben zu können. Deine Geldgier
 und Deine verdammte Eitelkeit sind an allem schuld.
 Du wolltest mir beweisen, daß Du den Wisch richtig gedeutet
 hättest, daß es sich um Himmelsrichtungen und Palmenbäume
-handelte! Na wir haben die Bäume ja richtig
+handelte! Na — wir haben die Bäume ja richtig
 abgezählt, haben die einzelne Palme »zum Südpol«
 gefunden, haben dort die Erde aufgewühlt und nichts —
 nichts entdeckt als Sand! Ich war gleich dagegen, hier mit
@@ -1451,7 +1454,7 @@ zu trinken weigern, dann gibt’s ja noch Mittel. Euch —«
 
 »Wir weigern uns nicht!« rief Daisy Steenhoope wieder.
 <@pagebreak/>
-»Mach, daß Du uns aus den Augen kommst! Wir
+»Mach’, daß Du uns aus den Augen kommst! Wir
 werden Dich zu finden wissen! Und — das sage ich Dir
 gleich, Harry: ich hetze auch Harst auf Deine Spur! Vielleicht
 ist das auch gar nicht nötig. Harst wird ohnedies
@@ -1484,7 +1487,7 @@ dem Revolver langte. —
 Harst sprang hinter den Disteln hervor.
 
 »Genug!« rief er und bedrohte die drei mit der Clementpistole.
-»Setzten Sie sich wieder an die Mauer! —
+»Setzen Sie sich wieder an die Mauer! —
 Schraut — binde den Menschen!«
 
 Die beiden Steenhoopes waren einen Moment wie gelähmt.
@@ -1500,7 +1503,7 @@ bluteten und tränten. Harald wusch sie ihm nachher
 aus. Der Mann erblindete trotzdem später im Untersuchungsgefängnis.
 
 Aus dem Verhör, das Harst mit Frau Steenhoope anstellte,
-ergab sich, das Fleckser der Eigentümer der Motoryacht
+ergab sich, das Fleckser der Eigentümer der Motorjacht
 war, die jetzt in einem französischen Nordhafen lag. Die
 <@pagebreak/>
 Bande bestand im ganzen aus sechs Leuten. — Daisy verschwieg
