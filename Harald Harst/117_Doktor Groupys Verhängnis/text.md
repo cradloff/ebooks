@@ -577,140 +577,140 @@ den Garten entfernt hatte.
 
 <h3>Die Katzeninsel,</h3>
 
-In der Bagaller-Street, einer älteren engen Geschäst3-straße
-in der Nähe des Hute-Park, stiegen am Abend desselben
+In der Bagaller-Street, einer älteren engen Geschäftsstraße
+in der Nähe des Hyde-Park, stiegen am Abend desselben
 Tages in dem kleinen Hotel, das dem Hause Nr. 15
-gegenü lag, zwei blondbärtige bouändische Kaufleute mit
+gegenüberlag, zwei blondbärtige holländische Kaufleute mit
 Ihrem Diener ab.
 
 Sie belegten im zweiten Stock nach der Straße hinaus
 drei Zimmer, Nr. 15, 16, 17.
 
 In Nr. 15 wohnte der Diener, Nr. 16 war das gemeinsame
-E:Schlafzimmer der holländischen Fremden und Nr. 17
-Dr Wohnsalon.
+Schlafzimmer der holländischen Fremden und Nr. 17
+ihr Wohnsalon.
 
 Sie speisten auf ihrem Zimmer zu Abend, und dann,
-als der alte, behäbige Kellner das Geschirr wieder ab-geräun’t
+als der alte, behäbige Kellner das Geschirr wieder abgeräumt
 hatte, rief der eine der Holländer den Diener herein.
 
 »So«,« sagte Harald zu Doktor Gybourg, »so, nun sind
 wir unter uns, Doktor. Und nun zeigen Sie mir mal von
-hier ah.8 die Anordnung der Räume Sirene früheren Mole
-Ahnung. — Echte he! Will aus, wer her … Alle Barer
-uns und grenzten stellen.«
+hier aus die Anordnung der Räume Ihrer früheren Wohnung.
+— Schalte das Licht aus, mein Alter ... Wir wollen
+uns ans Fenster stellen.«
 
-Es war draußen bunter und etwas neblig. Das sich
+Es war draußen dunkel und etwas neblig. Das Licht
 der Straßenlaternen reichte nur schwach bis zur zweiten
-Etage des dreistöckigen Hauses teilen empor …
+Etage des dreistöckigen Hauses drüben empor …
 
 <@pagebreak/>
 Dieses Haus hatte sieben Fenster Front und war ein
 älteres Gebäude wie alle hier in der Bagaller-Street. —
 
 Ich hatte die elektrische Krone ausgedreht. Wir standen
-nebeneinander an dem einen Fenster dieses großen unbehaglicher
+nebeneinander an dem einen Fenster dieses großen unbehaglichen
 Hotelzimmers,
 
 Und John Gybourg sagte nun:
 
-»Linker Hand die beiden Fenster waren die des Schlafs
-Zimmers
+»Linker Hand die beiden Fenster waren die des Schlaf-
+Zimmers ..."
 
 Seine Stimme vibrierte …
 
 Stunden seligen Glücks mochten in seiner Erinnerung
-wieder wie Traumibllder emporsteigen …
+wieder wie Traumbilder emporsteigen …
 
-»Und die beiden nächsten Fenster sind die des Greises
-Zimmers. Das rechte Fenster von hier aus — ja— vor die
-sein Fenster lag Ellen aus dem Teppich neben dem Billett.«
+»Und die beiden nächsten Fenster sind die des Speise-
+Zimmers. Das rechte Fenster von hier aus — ja — vor die-
+sein Fenster lag Ellen auf dem Teppich neben dem Büfett.«
 
 Er schwieg … vielleicht … vielleicht waren seine
 Augen voller Tränen …
 
 und dann — mit halb erstickter Stimme:
 
-»Rechts davon da eltfenfirige Wartezimmer, dann mein
-Sprechzimmer … — Und nach dem Hose zu Küche, Nebenräume
+»Rechts davon das einfenstrige Wartezimmer, dann mein
+Sprechzimmer … — Und nach dem Hofe zu Küche, Nebenräume
 und eine Fremdenstube.« —
 
 Die Wohnung drüben, wo Ellen Gybourg, geborene
 Marmaty, eines so rätselhaften Todes gestorben war, lag
-mit ihren sieben Vordversenstern in völliger Dunkelheit …
-Frau Listig Mainacht schien alt daheim zu sein.
+mit ihren sieben Vorderfenstern in völliger Dunkelheit …
+Frau Lizzia Marmarty schien nicht daheim zu sein.
 
-Während wir drei noch, bewegt von den verschiedene
+Während wir drei noch, bewegt von den verschieden-
 artigsten Gefühlen, hinüberstarrten, flammte jedoch in Gybourgs
 Sprechzimmer das Licht auf …
 
-Und aus den gelben geschlossenen Vorhängen erschienen
-die scharf amtlichen Schattenbilder zweier Oberkörper: eines
+Und auf den gelben geschlossenen Vorhängen erschienen
+die scharf umrissenen Schattenbilder zweier Oberkörper: eines
 Mannes — eines Weibes!
 
 »Meine Schwiegermutter!« flüsterte Gybourg …
 
-Zaum hatte er uns so die eine Person benannt, als etwas
-sehr Merkwürdiges geschah: Die Frau dort, das Schatièns-bisd,
+Kaum hatte er uns so die eine Person benannt, als etwas
+sehr Merkwürdiges geschah: Die Frau dort, das Schattenbild,
 hob drohend den Arm gegen den Mann, der unwillkürlich
-äurüchwich und dessen Silhouette deshalb immer unklarer
+zurückwich und dessen Silhouette deshalb immer unklarer
 wurde …
 
 <@pagebreak/>
 Die Frau folgte ihm … Beide Personen entschwanden
-aus dem Lichtkreis, so daß die Schattenbilder gleichfalls erreichen
+aus dem Lichtkreis, so daß die Schattenbilder gleichfalls erloschen
 …
 
 Der gelbe Vorhang war noch hell, aber leer …
 
 Die Hauptsache aber: in dieser drohenden Handbewegung
-der verwitweten Oberst Marmaty, in ihrer ganzen Körpers
+der verwitweten Oberst Marmaty, in ihrer ganzen Körper-
 Haltung und in der Art ihres Eindringens auf den Mann
-dort hatte so eine zügelioje Wut sich ausgedrückt, daß Harst
+dort hatte so eine zügellose Wut sich ausgedrückt, daß Harst
 nun rasch auch unseren Fenstervorhang zuzog, die elektrische
 Krone einschaltete und zu Gybourg sagte:
 
 »Doktor, Schraut und ich werden sofort noch einen längeren
-Spaziergang unternehmen, Sollten wir nicht so bald
-zurückkehren: hier ist Geld! Bleiben Sie im Hotel und er
-(Wären Sie, wir machten geschäftliche Abstecher nach den
+Spaziergang unternehmen. Sollten wir nicht so bald
+zurückkehren: hier ist Geld! Bleiben Sie im Hotel und erklären
+Sie, wir machten geschäftliche Abstecher nach den
 Nachbarstädten.«
 
 Er griff nach Hut und Gummimantel, steckte noch Die
-elektrische Taschenlampe zu ich …
+elektrische Taschenlampe zu sich …
 
 Und auf der Treppe flüsterte er mir zu:
 
-»Mr werden einen Spaziergang unternehmen, der und
-hinter dem Manne dreinsührt, dem Frau Marmaty mit der
+»Wir werden einen Spaziergang unternehmen, der uns
+hinter dem Manne dreinführt, dem Frau Marmaty mit der
 Faust drohte!« —
 
 Auf der nebligen Bagaller-Street drückten wir uns in
 die Toreinfahrt eines Geschäftshauses, von wo aus wir
 Nr. 15 genau beobachten konnten …
 
-Wir hatten hier noch seine Minute gestanden, als Die
-Sanskrit von Nr. 15 von Innen angeschlossen wurde (es war
-Inzwischen elf Uhr abends gelbroten) und ein Mädchen mit
+Wir hatten hier noch keine Minute gestanden, als Die
+Haustür von Nr. 15 von Innen aufgeschlossen wurde (es war
+Inzwischen elf Uhr abends geworden) und ein Mädchen mit
 weißem Häubchen einen Mann hinausließ, der im Lichte der
 Flurbeleuchtung durch sein Profil verriet, daß es derselbe
-war, den wir vorhin aís Silhouëetie gesehen hatten.
+war, den wir vorhin als Silhouette gesehen hatten.
 
-Wir waren also gerade und er reckten Zeit gekommen,
-ein paar Minuten spuke, Palais an in Bleichen riß
-gedungen, wie … nur wir es erleben, tote nur ein Harald Harst
-v8 befiehl … —
+Wir waren also gerade noch zur rechten Zeit gekommen,
+ein paar Minuten später, und uns wäre ein Abenteuer entgangen,
+wie … nur wir es erleben, wie nur ein Harald Harst
+es besteht … —
 
 der Mann da, der hinkend in einem schäbigen Mantel
 <@pagebreak/>
-gestickt die Straße entlann’chlurfte, — dieser graubärtige
-senke) erinnerte mich sofort an Gybourgs Beschreibung
-nee Motorradlers, mit dem Frau Ellen sich In dem vor
-erspart getroffen haben sollte.
+gebückt die Straße entlangschlurfte, — dieser graubärtige
+Mensch erinnerte mich sofort an Gybourgs Beschreibung
+jenes Motorradlers, mit dem Frau Ellen sich In dem Vorortpark
+getroffen haben sollte.
 
-Und — dieser Mann rar mißtrauisch und vorsichtig …
+Und — dieser Mann war mißtrauisch und vorsichtig …
 
-Immer wieder drehte er sich um, blieb flehen, spähte
+Immer wieder drehte er sich um, blieb stehen, spähte
 umher, ging ein paar Schritt zurück, drehte sich wieder um.
 
 Es bedurfte all unserer Übung und Erfahrung in dieser
@@ -718,22 +718,22 @@ Art von Verfolgung, um ihn nicht aus den Augen zu verlieren
 …
 
 So durchwanderten wir viele Seitenstraßen, Harst rechts
-auf dem Bürgersteig, ich links; bis eine hohe Mauer plôöôylich
+auf dem Bürgersteig, ich links; bis eine hohe Mauer plötzlich
 an Harsts Straßenseite begann und endlos lang weiterlief.
 
-Hier nun — hier war’s der schäbige Lahme einen Strick
+Hier nun — hier warf der schäbige Lahme einen Strick
 mit einem Haken blitzschnell über die Mauerkrone und kletterte
 ebenso blitzschnell hinüber, zog den Strick ein und — verschwand,
 sprang jenseits hinab …
 
-Bevor Harald noch aus meine Schultern gestiegen war,
-begann glücklich ein starker Regenguß, der es zwecklos erscheinen
+Bevor Harald noch auf meine Schultern gestiegen war,
+begann plötzlich ein starker Regenguß, der es zwecklos erscheinen
 ließ, dem Manne weiter nachzuschleichen, der in dem
 Parke jenseits der Mauer fraglos schon weitergeeilt war und
-Zaum noch aufgefunden werden konnte.
+kaum noch aufgefunden werden konnte.
 
-So äußerte sich Harald mir gegenüber, zog seine Sport-mile
-dieser ins Gesicht, klappte den Gummimantelkragen hoch
+So äußerte sich Harald mir gegenüber, zog seine Sportmütze
+tiefer ins Gesicht, klappte den Gummimantelkragen hoch
 und schritt davon — bis wir dem nächsten Policeman begegneten.
 
 Der Polizist erklärte auf Harsts Frage — und jeder wird
@@ -744,35 +744,35 @@ Effingham …«
 
 »Danke!« …
 
-Wir gingen weiter, Ich atmete hastig. Ich war erregt.
+Wir gingen weiter. Ich atmete hastig. Ich war erregt.
 
-»Effingham, — das ist ja auch der Eigentümer der Fusel
+»Effingham, — das ist ja auch der Eigentümer der Insel
 Garlabarg,« flüsterte ich.
 
 Keine Antwort …
 
 <@pagebreak/>
-Ad wieder sagte ich: »Du, »Harald, es stimmt doch:
+Und wieder sagte ich: »Du, »Harald, es stimmt doch:
 Effingham — so lautete doch …«
 
 Da blieb er stehen … Gerade unter einer Laterne …
 Gerade als der Regen nachließ … Und legte mir die
-Sand schwer auf Die Schulter:
+Hand schwer auf Die Schulter:
 
 »Wir werden sofort im Auto nach Harwich fahren und
-uns »nach der Insel übersehen lassen! Bis Harwich brauchen
+uns nach der Insel übersetzen lassen! Bis Harwich brauchen
 wir etwa zwei Stunden. — Vorwärts! Ich muß mit dieser
 Sache ins Reine kommen!«
 
 Ein Mietauto war rasch gefunden. Harst bezahlte im
-voraus. Es war ein neuer Kaltmachen und ein noch junger
+voraus. Es war ein neuer Kraftwagen und ein noch junger
 Chauffeur.
 
 Der Mann fuhr wie der Teufel. Um ein Uhr morgens
 waren wir in Harwich …
 
-Um halb zwei hatten wir ein Boot losgekettet, das Abteil
-im Haken lag …
+Um halb zwei hatten wir ein Boot losgekettet, das abseits
+im Hafen lag …
 
 Ein elender Kahn war’s nur mit elenden Rudern …
 
@@ -780,10 +780,10 @@ Harst aber zog die jämmerlichen Riemen so kräftig durch,
 daß wir gegen zwei Uhr die ersten Eilande der großen Bucht
 erreicht hatten.
 
-Ein Fischerboot, das Neue Auswurf, kam uns sehr gelegen.
-Wir fragten die Fischer nach der Frech Garlabarg,
+Ein Fischerboot, das Netze auswarf, kam uns sehr gelegen.
+Wir fragten die Fischer nach der Insel Garlabarg,
 erhielten genaue Auskunft und legten eine Viertelstunde
-später an einen Bootssteg eines schmalen Ufereinschnittes
+später an einem Bootssteg eines schmalen Ufereinschnittes
 vor Garlabarg an.
 
 Es begann bereits hell zu werden.
@@ -791,86 +791,86 @@ Es begann bereits hell zu werden.
 Der neue Tag kam … Ein Tag, der uns bewies, daß
 wir … den Feind unterschätzt hatten. —
 
-Wir fetteten den Nachen fett. fesselten auf den Holzsteg
-und schritten einen zwischen Dickicht und Bäumen fleht ansteigenden
+Wir ketteten den Nachen fest, kletterten auf den Holzsteg
+und schritten einen zwischen Dickicht und Bäumen steil ansteigenden
 Pfad empor.
 
 bis — wir auf einer Lichtung inmitten dieser Inselwildnis,
-inmitten von Gestrüpp, Felsmassen, uralten Bäus-men
-und Sträuchern ein Bändchen gewahrten, — hell gestrichen,
+inmitten von Gestrüpp, Felsmassen, uralten Bäumen
+und Sträuchern ein Häuschen gewahrten, — hell gestrichen,
 mit rotem Ziegeldach, blanken Fenstern und einem
-Mögedchnten Gemüsegarten furchtsam …
+ausgedehnten Gemüsegarten ringsum …
 
 <@pagebreak/>
 
 Wir standen und schauten …
 
-Das bleigraue Tamnieurlicht eines wolligen Morgens
+Das bleigraue Dämmerlicht eines wolkigen Morgens
 konnte uns die peinliche Sauberkeit dieses einsamen Heims
-eines in T’ensten Lord Effinghams hier wohnenden Fischers?
-richtet verschleiern.
+eines in Diensten Lord Effinghams hier wohnenden Fischers
+nicht verschleiern.
 
 Es war eine Freude, diese tadellos gepflegten Beete,
-dieses Spalierobst, diese weißgekalllen Obstbäume, diese
-Neiden von Beerensträuchern anzuschauen …
+dieses Spalierobst, diese weißgekalkten Obstbäume, diese
+Reihen von Beerensträuchern anzuschauen …
 
 Und mitten darin das kleine blitzblanke Hüttchen mit der
-hohen Wetterfahne aus dem Dach …
+hohen Wetterfahne auf dem Dach …
 
 Und jetzt … hinter dem einen Fenster ein rotbraunes
-Gesicht, umrahmsch von einem treiben Schifferbart …
+Gesicht, umrahmt von einem weißen Schifferbart …
 
 Das Fenster flog auf …
 
 Harst schritt vorwärts …
 
-Da riet der Alte und entgegen:
+Da rief der Alte und entgegen:
 
-»Dr — es ist derbe!en, die Insel zu betreten!«
+»He — es ist verboten, die Insel zu betreten!«
 
-Freund Harald bewies, daß er wie immer so auch Acht
+Freund Harald bewies, daß er wie immer so auch jetzt
 Herr der Situation war:
 
 »ist Ihnen ein bevorstehender Besuch gemeldet worden?«
 fragte er den Alten, indem er seine Worte absichtlich recht
 allgemein hielt,
 
-Des alten Fischers nach Immer so junge klare Augen
-ruhten tauge auf Harst Gesicht,
+Des alten Fischers noch Immer so junge klare Augen
+ruhten lange auf Harsts Gesicht,
 
-»Einer sollte kommen,« sagte er darf, »Nur einer!
+»Einer sollte kommen,« sagte er dann. »Nur einer!
 Und — wissen Sie dessen Namen, Mister? Wenn Sie ihn
 wissen, sollen Sie auch beide mir willkommen sein.«
 
-Da flüsterte Harald, klug das ausnugvend, was Doktor
-John Eindrang und über den Zuruf des »Retters« mitgeteilt
+Da flüsterte Harald, klug das ausnutzend, was Doktor
+John Gybourg uns über den Zuruf des »Retters« mitgeteilt
 hatte:
 
-»Sohn Gybourg!«
+»John Gybourg!«
 
-der Alte nickte beftiehtgt, Sein saftlose, braunes Gesicht
+der Alte nickte befriedigt. Sein faltiges, braunes Gesicht
 wurde freundlicher …
 
-»Hut, Distel Gybourg, gut … Soll ich Sie beide denn
+»Gut, Mister Gybourg, gut … Soll ich Sie beide denn
 also verbergen?«
 
 »Ja … Mylord wird nichts dagegen haben.«
 
-Und dieser Nachsah, in dem er wieder so allgemein einen
+Und dieser Nachsatz, in dem er wieder so allgemein einen
 <@pagebreak/>
-Lord erwähnte, — dieser Nachsah war ziwwcisellos das Feinste
+Lord erwähnte, — dieser Nachsatz war zweifellos das Feinste
 seines klugen Spieles!
 
 »Nein, nein,« meinte der Greis da lächelnd, »ob Ich einen
 oder zwei hinbringe, wird Mylord wohl gleichgültig sein.
 Die Hauptsache: Sie haben mir Ihren Namen genannt,
-Mister. - — »39 heiße librigend Tobby Ruhe, Mister Gybourg
+Mister. — »Ich heiße übrigens Tobby Rucks, Mister Gybourg ..."
 
 »Und das da ist mein Leidensgefährte Slauc,« stellte
 Harald mich vor.
 
 »Ja — dann können wir ja nun gehen,« meinte Tobby
-bedächtig, »Warten ie, ich komme …«
+bedächtig. »Warten Sie, ich komme …«
 
 <h2>4, Kapitel.</h2>
 <h3>Verse am Fenster.</h3>
