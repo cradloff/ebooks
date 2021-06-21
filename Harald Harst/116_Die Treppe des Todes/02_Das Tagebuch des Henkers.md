@@ -153,7 +153,7 @@ hinzu. »Denn allein werden wir hier wohl kaum hinausgelangen
 Antwort.
 
 »Vielleicht — Doktor Groupy … Sonst niemand!
-Dawes weiß, nicht, wo wir sind. Niemand weiß es — außer
+Dawes weiß nicht, wo wir sind. Niemand weiß es — außer
 der Prenderlax und — vielleicht Groupy …«
 
 »Du meinst, er hat Bramby gar nicht verlassen?«
@@ -170,7 +170,7 @@ wo wir zu finden sein könnten …«
 
 Eine Hoffnung war’s — eine geringe Hoffnung! —
 
-Harald lehne an der Mauer. Ich hielt noch die Lampe.
+Harald lehnte an der Mauer. Ich hielt noch die Lampe.
 Und sein schmales, energisches Gesicht, in dem jeder Zug,
 jede Falte dem Kenner den Mann von hervorragenden geistigen
 und körperlichen Eigenschaften verriet, lag im strahlenden
@@ -434,7 +434,7 @@ alleinige Erbin eines Vermögens von einer halben Million
 Franken. Im Juli dieses Jahres lernte ich, gerade zwanzig
 geworden, in Paris den englischen Schriftsteller Thomas
 Sheffield kennen, einen Mann von ebenso männlichem
-Äußeren wie bezaubernden Wesen. Ich verliebte mich in
+Äußeren wie bezauberndem Wesen. Ich verliebte mich in
 ihn und war glücklich, daß er meine Neigung erwiderte.
 Seiner Eltern wegen, die es ihm nie verziehen hätten, wenn
 <@pagebreak/>
@@ -617,7 +617,7 @@ scheint. — Leben Sie wohl …!«
 »Halt, Doktor Groupy …! Bleiben Sie. Ich werde
 Ihnen später kein Hindernis in den Weg legen, wenn Sie —
 <@pagebreak/>
-verschwinden Wollen, mögen Sie getan haben, was Sie
+verschwinden wollen, mögen Sie getan haben, was Sie
 wollen …«
 
 Groupy war noch unschlüssig …
@@ -707,7 +707,7 @@ Besprechung deutlich verriet, die blonde Engländerin nun
 fragte, wie sie es möglich gemacht habe, die Geheimschrift
 auf der Wand der Villa erscheinen zu lassen.
 
-»Ja besaß einen Taschenhohlspiegel, Mister Harst,« erklärte
+»Ich besaß einen Taschenhohlspiegel, Mister Harst,« erklärte
 sie nun, »außerdem ein gewölbtes Uhrglas. Vorher
 möchte ich noch bemerken, daß ich Chemie und Physik studiert
 <@pagebreak />
@@ -780,7 +780,7 @@ ist, sollen Sie noch von mir hören, Mister Harst …
 — Auf Wiedersehen!«
 
 Harald gab ihm die Hand. Auch ich tauschte mit Groupy
-einen ersten Händedruck.
+einen festen Händedruck.
 
 Wir verließen das Henker-Haus, haben es später nur noch
 ein einziges Mal betreten, als wir der Londoner Geheimpolizei
@@ -848,7 +848,7 @@ Ich schlenderte, wie verabredet, in einiger Entfernung
 hinter ihm drein.
 
 Die blitzsauberen Arbeiterhäuschen, die häufigen Villengrundstücke,
-weite Spielplatzes, Anlagen und große öffentliche
+weite Spielplätze, Anlagen und große öffentliche
 Parke gaben dem Vorort einen behaglichen, freundlichen
 Anstrich.
 
@@ -890,7 +890,7 @@ Ein schneller Entschluß:
 »Ja … sind Sie Doktor Balling?«
 
 »Der bin ich …« Er lächelte etwas. »Wo fehlt’s denn,
-Mister? Eilt’s sehr? Ich Habe erst von fünf Uhr Sprechstunde
+Mister? Eilt’s sehr? Ich habe erst von fünf Uhr Sprechstunde
 …«
 
 »Das las ich da soeben … Ich werde um fünf wiederkommen
@@ -1227,7 +1227,7 @@ Jeder erwartete von ihm eine Lösung dieser Widersprüche
 
 Er saß da, den Kopf in die Hand gestützt, starrte auf den
 <@pagebreak/>
-Toten herab, dessen Gesichtsumrisse sich unter dem Tuches
+Toten herab, dessen Gesichtsumrisse sich unter dem Tuche
 deutlich abzeichneten …
 
 Dann … sagte er, — ein Achselzucken andeutend:
@@ -1255,8 +1255,8 @@ abholte?«
 Mister Harst. Kaum war Dawes erschienen, als
 Groupy sich heimlich drückte …« —
 
-Das Auto hielt. Wir setzten uns mit bei beiden Damen
-zusammen in eines der Gastzimmer und bestellen ein
+Das Auto hielt. Wir setzten uns mit den beiden Damen
+zusammen in eines der Gastzimmer und bestellten ein
 Abendessen.
 
 Harald entschuldigte sich …
@@ -1452,7 +1452,7 @@ Doktor Groupy noch eine Rolle spielen wird.
 Und wenn der Leser einmal eine Stunde Zeit hat, mag
 er die Geheimschrift auf der ersten Seite sich nochmals ansehen
 und versuchen, den Schlüssel dazu herauszufinden. Es
-ist nicht schwer, denn — der Palast der leuchtenden Treppe
+ist nicht schwer, denn — der Inhalt der leuchtenden Treppe
 ist ja bekannt … —
 
 Nochmals — auf Wiedersehen …!

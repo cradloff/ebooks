@@ -78,7 +78,7 @@ Groupy immer so hinkt.«
 Dawes blickte überrascht auf.
 
 <@pagebreak/>
-»Gewiß — immer ……!«
+»Gewiß — immer …!«
 
 »So — dann erzählen Sie mal …«
 
@@ -227,7 +227,7 @@ bester Laune und krähte vergnügt:
 
 »Haha, — — haben Sie eine Ahnung, Harst! Ob der
 Groupy Phantasie besitzt — — ob!! Sogar einen Zettel
-mit der Geheimschrift gab er mit damals, der alte Schwindler
+mit der Geheimschrift gab er mir damals, der alte Schwindler
 …!«
 
 »Haben Sie den Zettel noch?« fragte Harald gelangweilt
@@ -299,7 +299,7 @@ Harst lachte …
 »Wirklich ein Witzbold der Groupy! Natürlich haben
 die Silben überhaupt keinen Sinn. Der Doktor hat eben
 ganz willkürlich irgendwelche Wortteile aneinandergefügt —
-zum Bilde einer Treppe. — Werfen wohl also auch Groupys
+zum Bilde einer Treppe. — Werfen wir also auch Groupys
 Wisch auf den Kehrichthaufen! Sonst ärgern Sie sich stets
 von neuem, lieber Dawes …«
 
@@ -436,7 +436,7 @@ Toilette.
 
 In diesem Falle bedeutete das: sie sorgten dafür, daß
 auch ihre Fingernägel und Hände jene schmierige Echtheit
-aufwiesen, wie sich zu Landstreichern paßt.
+aufwiesen, wie sie zu Landstreichern paßt.
 
 Harald musterte mich nun prüfend, nickte und meinte:
 »Tadellos! Dawes würde uns so im Leben nicht wiedererkennen!
@@ -498,7 +498,7 @@ hielt …!
 
 Harald lachte leise.
 
-»Ein Glück, daß zu noch zur rechten Zeit mit dem Unsinn
+»Ein Glück, daß Du noch zur rechten Zeit mit dem Unsinn
 abstopptest! — Nein, Groupy hat ganz andere Gründe gehabt,
 seine Mitteilungen über die leuchtende Treppe zu widerrufen,
 — Gründe, die in seiner Vergangenheit liegen. Diese
@@ -531,7 +531,7 @@ Anblick.
 Ein Greis war’s mit einem gelblichen Leidensgesicht, unruhigen,
 scheuen Augen …
 
-Harald streckte die schäbige Mühe bittend über den Zaun.
+Harald streckte die schäbige Mütze bittend über den Zaun.
 
 »Nur eine Kleinigkeit … Wir haben seit gestern nichts
 gegessen.«
@@ -566,7 +566,7 @@ Mann steht völlig unter dem Pantoffel! Nicht mal die
 Hunde respektieren ihn! Und — er hat traurige, scheue
 Augen. Vielleicht deshalb, weil er weiß, daß Margitt Sheffield
 hier gefangen gehalten wird. — Jedenfalls kennen wir
-nun immerhin einiges über die Bewohner des Henker—Hauses
+nun immerhin einiges über die Bewohner des Henker-Hauses
 und werden sofort auch die Probe anstellen, ob der Greis
 ein schlechtes Gewissen hat.«
 
@@ -629,7 +629,7 @@ winkte uns, ihm zu folgen …
 Ging um das Haus herum, die Hintertreppe empor und
 führte uns in eine helle, freundliche Küche.
 
-»Jetzt Euch!« sagte er kurz. »Ich hole Euch etwas …«
+»Setzt Euch!« sagte er kurz. »Ich hole Euch etwas …«
 
 Er zog die Küchentür hinter sich ins Schloß und kehrte
 nach drei, vier Minuten zurück — mit einem Teebrett, auf
@@ -686,7 +686,7 @@ würden. Vielleicht war’s übereilt von mir, heute früh zu
 Dawes zu gehen und die Geschichte der Geheimschrift zu
 widerrufen. Es war ein Versuch von mir, Sie beide von
 mir fernzuhalten. Jetzt, da Sie hier sind, werde ich das
-Feld räumen, sobald die beide für vierzehn Stunden
+Feld räumen, sobald Sie beide für vierzehn Stunden
 machtlos sind.«
 
 Er sagte das mit der eisigen Ruhe eines Menschen, der
@@ -1112,7 +1112,7 @@ Harst war mit zwei Sprüngen am Gasmesser.
 
 Leuchtete …
 
-Am Gasrohr gab’s, da ein offenes Rohrende, und aus
+Am Gasrohr gab’s da ein offenes Rohrende, und aus
 diesem drang mit voller Kraft das unsichtbare Gas heraus
 — brausend — zischend …
 
@@ -1210,7 +1210,7 @@ mit Pistolenschüssen, Hundeangriff …
 
 Nichts davon …
 
-Das Weib starrte und an … rief:
+Das Weib starrte uns an … rief:
 
 »Mein Gott — das sind ja Inspektor Dawes’ Gäste!«
 
@@ -1232,7 +1232,7 @@ ihrer schweißigen Finger auf dem Papier zurückgelassen!
 Sie wußten, daß nur Harst und Schraut hier in der Villa
 sein konnten! Versuchen Sie nicht, mir einreden zu wollen,
 Sie hätten hier Diebe vermutet. Als Sie hörten, daß wir
-das Gasrohr zukehrten, haben Sie Ihren Plan geändert.
+das Gasrohr zukeilten, haben Sie Ihren Plan geändert.
 Mich betrügt man nicht!«
 
 Seine Stimme schwoll …
@@ -1438,7 +1438,7 @@ zeigen Sie uns den Weg!«
 
 Und wir — wir beide so oft Erprobte, wir beide, die
 wir uns einbildeten, Spreu von Weizen scheiden zu können,
-wir … schritten ahnungslos hinter der in demütiger, gebrochenen
+wir … schritten ahnungslos hinter der in demütiger, gebrochener
 Haltung vor uns die Stufen langsam emporsteigenden
 Frau Prenderlax her …
 
@@ -1470,7 +1470,7 @@ Hakennase …
 
 Und — das hatte sie gewollt …
 
-Nur deshalb das Geständnis …: damit wie hinter Ihr
+Nur deshalb das Geständnis …: damit wir hinter Ihr
 blieben, damit sie den Kopf berühren könnte und — sich
 seitwärts dann auf das Geländer schnellen …
 
