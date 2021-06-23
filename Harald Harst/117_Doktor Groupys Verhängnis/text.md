@@ -1469,80 +1469,80 @@ vornehmste Welt Londons …
 <h2>1. Kapitel,</h2>
 <h3>Im Palast Effingham.</h3>
 
-Ich liebe solche Titel rohe den obigen für unsere Abe1n-teuer
+Ich liebe solche Titel wie den obigen für unsere Abenteuer
 durchaus nicht, denn sie erinnern zu sehr an Familienromane,
-an irgendeine Liebesgeschichte, 1ränenreich und ui?-
-wahrscheinlich.
+an irgendeine Liebesgeschichte, tränenreich und
+unwahrscheinlich.
 
 Wenn ich trotzdem für den zweiten Teil des Verhängnisses
-Dr. Groupys diesen Titel wählte, so muß das weh:
+Dr. Groupys diesen Titel wählte, so muß das wohl
 seine Gründe haben.
 
-In der Tat: hier ist dieser schmalzige Titel durchaus an
-Plage, er trifft. den Nagel auf den Kap (Er heute:
-Hinab Hl. was da Glanze, Falten Mehren er
-Und mehr kann man bog einem Tibet gibst verlangen.
+In der Tat: hier ist dieser schmalzige Titel durchaus am
+Platze, er trifft den Nagel auf den Kopf! Er deutet
+auf das hin, was den Inhalt der folgenden Seiten bildet.
+Und mehr kann man von einem Titel nicht verlangen. —
 
-von dem Urwaldeiland in der Bucht von Harwich Fix
+von dem Urwaldeiland in der Bucht von Harwich ein
 <@pagebreak/>
-Bedankensprung gab London — und ein Sprung Über eine
-Bergponys von genau zu als Stunden bınızca …
+Gedankensprung nach London — und ein Sprung Über eine
+Zeitspanne von genau zwölf Stunden hinweg …
 
-im dem Fatale CHfingbam In der Warnten-Street hält
+Vor dem Palais Effingham In der Darnley-Street hält
 eine Reihe von eleganten Kraftwagen …
 
-Soeben biegt ein neuer von Verzierte In die weil offene
-Einfahrt ein und gleitet über den Zemenueg Eid vor die
-Parmoarsreiireppe …
+Soeben biegt ein neuer von der Straße In die weit offene
+Einfahrt ein und gleitet über den Zementweg bis vor die
+Marmorfreitreppe …
 
 Der Diener springt herab, reißt die Tür auf …
 
 Drei Herren steigen aus …
 
-Der eine der Typ des verneinen Engländers, blondbärtig,
-über Schlank …
+Der eine der Typ des vornehmen Engländers, blondbärtig,
+bärtig überschlank …
 
-Der zweite ein As Meiner, straff In Der Haltung, bartlos
-das Gesicht, eine für ne geteerter arge Nase, n ıtwirdia graue
-Augen, die jeu1 lebhaft unterste:ten und:in na Eisen Moment
-hin. er Schleiern sich zu varbaiuen ran …
+Der zweite etwas kleiner, straff In Der Haltung, bartlos
+das Gesicht, eine kühne, messerscharfe Nase, merkwürdig graue
+Augen, die jetzt lebhaft umhergleiten und im nächsten Moment
+hinter Schleiern sich zu verbergen scheinen …
 
-Der dritte einen Kopf seiner, eben korpulent. ein
-freundlicher Gesicht … Und — dar bin ie, war Zitiert.
+Der dritte einen Kopf kleiner, etwas korpulent, ein
+freundliches Gesicht … Und — das bin ich, Max Schraut.
 
-Als drei aber in schwarzen, cintnöpfiach Sasenanzüsen
-nach der Seemeilen Binde, in Fackeln Nr, Um die Schultern
+Alle drei aber in schwarzen, einknöpfigen Jackenanzügen
+nach der neuesten Mode, in Halblaufschuhen, Um die Schultern
 leichte dunkle Mäntel …
 
 so werden wir in der Vorhalle von dem Hausmeister
 Lord Effinghams empfangen …
 
 So geleitet uns ein Diener in die Salons, wo Lady
-Doris Effingham ihre Freunde zum 5 emiängt. —
+Doris Effingham ihre Freunde zum Tee empfängt. —
 
-Lord Walltour, Haralds abriet un: fuhr! und ein,
+Lord Walltour, Haralds alter Freund, führt uns ein.
 
-Wen Lord Wall’our, zurufen ab der 1rz004 von
-Feuchte, irgendwohin mitbuingt, bei ist willkommen. —
+Wen Lord Walltour, zweiter Sohn des Herzogs von
+Rencire, irgendwohin mitbringt, der ist willkommen —
 überall …
 
-Wir verneigen uns vor Der Bejahenden Militärs.ärßgs-tochter,
-vor Luft Doris Csjimghau, geborene Randerfield.
+Wir verneigen uns vor Der hellblonden Milliardärstochter,
+vor Lady Doris Effingham, geborene Randerfield.
 
-Wall Tour stellt uns vor
+Walltour stellt uns vor
 
-Die ganze illustre Gesellschaft ist aus uns beide Murmelte
-Assam geworden.
+Die ganze illustre Gesellschaft ist auf uns beide aufmerksam
+geworden.
 
-Zwei hier völlig fremde Gesicht:er, — das ist eine gewisse
-Sensation in diesem Kreise, wo einer den andern so Oman
-lernt und wo selbst neu Eingeführte zum mindesten des!
+Zwei hier völlig fremde Gesichter, — das ist eine gewisse
+Sensation in diesem Kreise, wo einer den andern so genau
+kennt und wo selbst neu Eingeführte zum mindesten berühmte
 <@pagebreak/>
 Namen oder berühmte Gesichter haben müssen — berühmt
-durch Bilder in Zeitschriften, Monalähesten
+durch Bilder in Zeitschriften, Monatsheften.
 
 Und wir nun — wir werden so schlicht als Mr. Harald
-Harst und Mr. war Schraut vorgestellt
+Harst und Mr. Max Schraut vorgestellt
 
 Unsere Gesichtszüge hatten nichts besagt
 
@@ -1551,60 +1551,60 @@ Der eine Name besagte alles: Harald Harst!!
 Ich trat bescheiden zurück …
 
 Ich sah noch, daß Lady Doris die Farbe wechselte, daß
-ihre Augen den starren Ausdruck bellen Entsetzens annahmen
+ihre Augen den starren Ausdruck hellen Entsetzens annahmen
 
 Die Gäste drängten näher heran …
 
 Harald Harst …!!
 
-Wie ein Rauschen ging’s durch den sich verengerna“«
+Wie ein Rauschen ging’s durch den sich verengernden
 Kreis …
 
 Und Walltour sagt zu Lady Effingham:
 
-»Heute mittag überrascht te mich mein über alter He
-durch seinen Besuch … las war eine 7 trübe Ihr
-nun bringe ich Ihnen diesen prächtigen Menschen und !: 11
-ebenso prächtigen Freund Schraut, L’nlany. 1 »vor
-Künstler — Künstler aus einem besonderen Gebiet«
+»Heute mittag überraschte mich mein lieber alter Harald
+durch seinen Besuch … Das war eine Freude. — Und
+nun bringe ich Ihnen diesen prächtigen Menschen und seinen
+ebenso prächtigen Freund Schraut, Mylady. …! Zwei
+Künstler — Künstler auf einem besonderen Gebiet …«
 
-Und zu den »immer enden gewandt:
+Und zu den Anwesenden gewandt:
 
-»Ein großer Teil:ﬅ unter uns, einer, dem nichts verborgen
-bleibt. noch 1«
+»Ein großer Geist unter uns, einer, dem nichts verborgen
+bleibt … nichts …!«
 
-Vollstem lächelte 115 hob seinen Arm in den Hai ld@
+Walltour lächelte und schob seinen Arm in den Haralds.
 
-»Wer ein gutes So Seen bat, braucht ihn Acht zu zufallen.
-Wer 08 nicht bat. - liebe!«
+»Wer ein gutes Gewissen hat, braucht ihn nicht zu fürchten.
+Wer es nicht hat — fliehe!«
 
-Lady Doris hohe ich längst gerast …
+Lady Doris hatte sich längst gefaßt …
 
-Sie ließ uns beide Mr rınfomimin, in allem die Tanne
-von V:elf, in allem die Miftvfratin
+Sie hieß uns beide nun willkommen, in allem die Dame
+von Welt, in allem die Aristokratin …
 
-Und doch hatte ihr Vater Niete iandersield seine Glücschs-laufbabn
+Und doch hatte ihr Vater Niels Randerfield seine Glückslaufbabn
 als Goldgräber begonnen … —
 
-Zehn Figuren später — inzwischen waren noch einig
-zwanzig neue (Gäste erschienen — standen he, alt und ich im
-Myusifsalon und Dicken eine üÜbermodverne LQ peinouvertüre
-unsere Ohren mali1ätieren …
+Zehn Minuten später — inzwischen waren noch einige
+zwanzig neue Gäste erschienen — standen Harald und ich im
+Musiksalon und ließen eine übermoderne Opernouvertüre
+unsere Ohren malträtieren …
 
-Der Künstler am Flügel war ein Rasse« der Komponist
-elf …
+Der Künstler am Flügel war ein Rasse, der Komponist
+selbst …
 
 <@pagebreak/>
 
-»Wenn er wüßte, daß sich auf Roman*mit* so bequem
-*Mist* rennt,« flüsterte Harst mir zu, der geradezu glänzende:
-Manne war …
+»Wenn er wüßte, daß sich auf Kompo*nist* so bequem
+*Mist* reimt,« flüsterte Harst mir zu, der geradezu glänzender
+Laune war …
 
-Und flüsterte weiter: »Lord Roger Oft noch immer nicht
-da … Schade! nichts: ich bin zur! jeden!«
+Und flüsterte weiter: »Lord Roger ist noch immer nicht
+da … Schadet nichts: ich bin zufrieden!«
 
 »Womit?« — Diese Frage war berechtigt. Harst hatte
-mir nicht im geringsten darüber Ausschluß gegeben, weshalb
+mir nicht im geringsten darüber Aufschluß gegeben, weshalb
 wir Lord Walltour aufgesucht und weshalb dieser uns mit zu
 Lady Doris hatte nehmen müssen.
 
@@ -1614,45 +1614,45 @@ leise …
 »Und — das genügt Dir!« Ich verstand ihn wirklich
 nicht.
 
-»Vollauf genügt es mir .., 1«
+»Vollauf genügt es mir …!«
 
 Nun begann ich zu grübeln …
 
 Harald hatte ja so bestimmt erklärt: Lord Effingham Ist
-nicht der Mörder! - Wenn nun seine Gattin etwa Ellen
+*nicht* der Mörder! — Wenn nun seine Gattin etwa Ellen
 Gybourg … aus Eifersucht ermordet hätte?!
 
-Ich überlegte mir diese neue Viögulichteit bin und her …
+Ich überlegte mir diese neue Möglichkeit hin und her …
 
-Und — scheiterte mit all meinen Nomtlinationen doch an
-der itnverrücfbaren Tatsache, daß ja der Wohnung Sybounrad
-zu der kritischen Zeit nur drei Personen anregend waren:
-das Opfer, Gybourg selbst und das Hansimädchen:
+Und — scheiterte mit all meinen Kombinationen doch an
+der unverrückbaren Tatsache, daß in der Wohnung Gybourgs
+zu der kritischen Zeit nur drei Personen anwesend waren:
+das Opfer, Gybourg selbst und das Hausmädchen!
 
-wie ich so sei Horn die: Geleimni&s dieses Veto
-brechen? wiederum mit geistigen Pfaden nachspürte, während
+wie ich so noch dem dunklen Geheimnis dieses Verbrechens
+wiederum auf geistigen Pfaden nachspürte, während
 neben Harald jetzt ein mir fremder Herr auftauchte, der
-meinem Freunde leicht die Hand aus die Schulter legte, hatte
-ich mit einem zweifelnden Blick das Brillante, temperamentvolle
-Gesicht Lady Doris’ aus neue gestreift …
+meinem Freunde leicht die Hand auf die Schulter legte, hatte
+ich mit einem zweifelnden Blick das pikante, temperamentvolle
+Gesicht Lady Doris’ aufs neue gestreift …
 
 Und — — stutzte — — wurde aufmerksam …
 
-Myladys Antlitz hatte sich mit Lecichenblässe überzogen.
-Ihre Augen stierten an mir vorüber — dient an mir — auf
+Myladys Antlitz hatte sich mit Leichenblässe überzogen.
+Ihre Augen stierten an mir vorüber — dicht an mir — auf
 Harald und den fremden Herrn …
 
-Da — — raunte Bar mit zu:
+Da — — raunte Harst mir zu:
 
 »Folge uns … Lord Effingham ist’s …«
 
-Ab — — Effinaham’’ Klo das war der berslidtigte
+Ah — — Effingham!! Also das war der berüchtigte
 <@pagebreak/>
-Weiberheld, der Don Juan, der Perlten der Märchenliched«
-Grotte auf der Insel In der Ballast-Bucht …!
+Weiberheld, der Don Juan, der Besitzer der Märchenliebesgrotte
+auf der Insel In der Harwich-Bucht …!
 
-Nein Wunder, dachte ich, daß Frauenherzen diesem
-Manne zuflogen! Kein Wunder! Fürwahr die Natur
+Kein Wunder, dachte ich, daß Frauenherzen diesem
+Manne zuflogen! Kein Wunder! Fürwahr — die Natur
 hatte ihn reich begnadet, obwohl ich selbst diese sogenannten
 schönen Gesichter nicht liebe — wirklich nicht liebe …
 
@@ -1664,8 +1664,8 @@ und der Lord mich, blieben stehen …
 
 Harald machte mich mit Effingham’ bekannt …
 
-Nun hörte ich auch die Stimme, eine diese volle, weiche
-Stimme — aber- auch ohne Charakter, auch zu weibisch
+Nun hörte ich auch die Stimme, eine tiefe volle, weiche
+Stimme — aber auch ohne Charakter, auch zu weibisch …
 
 Und — das nun sollte derselbe Mann sein, der in einer
 Verkleidung Doktor Gybourg befreit hatte und der dann
@@ -1673,26 +1673,26 @@ gestern abend über die Parkmauer geklettert war …!!
 
 Es schien unglaublich …!
 
-Dieser Aristokrat, vom So Titel bis zur Solle Kavalier,
-Gentleman, — dieser Bleiben ungezählter Reichtümer sollte
-es gewagt haben, seinen Ruf, seine Ehre aus Spiel zu sehen
-— eines Zabnarztics wegen!!
+Dieser Aristokrat, vom Scheitel bis zur Sohle Kavalier,
+Gentleman, — dieser Besitzer ungezählter Reichtümer sollte
+es gewagt haben, seinen Ruf, seine Ehre aufs Spiel zu setzen
+— eines Zahnarztes wegen!!
 
 Unglaublich — —!!
 
-««Mylord hat ein besonderes Anliegen an uns,« begann
+»Mylord hat ein besonderes Anliegen an uns,« begann
 Harald da.
 
-»Oh — nicht doch!« verbesserte Effingham mit lieben Anrüchigem
-Lächeln, »Kein Anliegen, Mister Harst. Nur
+»Oh — nicht doch!« verbesserte Effingham mit liebenswürdigem
+Lächeln. »Kein Anliegen, Mister Harst. Nur
 ein paar Fragen …«
 
-Er hatte sich an das eine Billard gelehnt nachschaute sich
+Er hatte sich an das eine Billard gelehnt und schaute sich
 nun vorsichtig um …
 
 Wir standen dicht vor ihm …
 
-»Ja — ein paar Kragen,« wiederholte er leiser. »Hm —
+»Ja — ein paar Fragen,« wiederholte er leiser. »Hm —
 haben Sie mal von dem rätselhaften Morde in der Bagaller-Street
 gehört, Mister Harst, — von der Ermordung der
 Frau Ellen Gybourg?«
@@ -1702,120 +1702,120 @@ Mylord …«
 
 <@pagebreak/>
 
-»30 … f0 …— Und stürbe es Sie interessieren,
-Pech: Fall einmal auf meine Bitte im zu untersuchen?« —
-seine Weiteren, lebenehrfiinen Augen war da ein Feiern
-nicht ammmöhnisdem trauern getreten … Ein antik;Lied
-ums, von dem er selbst nicht.6 ahnte.
+»So … so … — Und würde es Sie interessieren,
+diesen Fall einmal auf meine Bitte hin zu untersuchen?« —
+In seine heiteren, lebenslustigen Augen war da ein Schein
+von argwöhnischem Lauern getreten … Ein unsicheres
+Schimmern, von dem er selbst nichts ahnte.
 
 »Ja — er interessiert mich bereits,« erwiderte Harald
-Kimono betonte das »bereits«. »Und — Mylord wissen das
-auch. Wir wollen hier mit offenen Starken spielen.,«
+und betonte das »bereits«. »Und — Mylord wissen das
+auch. Wir wollen hier mit offenen Karten spielen.«
 
 Effingham fuhr leicht zusammen …
 
-Harsts scharfer Ton trieb ihm die helle Röte Eins Gesicht.
-Auf seiner Stirn bildeten sich) tiefe Falten …
+Harsts scharfer Ton trieb ihm die helle Röte ins Gesicht.
+Auf seiner Stirn bildeten sich tiefe Falten …
 
-»sie … meinen Sie das?« fragte er dann, und sein
-Blick wurde hoch unnötig und ablehnend.
+»Wie … meinen Sie das?« fragte er dann, und sein
+Blick wurde hochmütig und ablehnend.
 
-»Stets so, wie ich es sage, Diniert. Ich bin Harald
-Darf. Ich bewundere Ihre schmalen Hände und den wundervollen
-Siegelring an Ihrem Wien kleinen Finger, den
-es legten aus einer Photographie ohne Kopf bereist ums
-Staunen durfte …«
+»Stets so, wie ich es sage, Mylord. Ich bin Harald
+Harst. Ich bewundere Ihre schmalen Hände und den wundervollen
+Siegelring an Ihrem linken kleinen Finger, den
+ich letztens auf einer Photographie ohne Kopf bereits
+anstaunen durfte …«
 
-Effingham wurde unendlich, hüstelte.
+Effingham wurde unruhig, hüstelte.
 
-»So — aus einem Bilde ohne Kopf?! Das ist Werk
-würdig!«
+»So — auf einem Bilde ohne Kopf?! Das ist merkwürdig!«
 
-»Vllerdingcgs, .. Das Bild stellt ohne Zweifel Sie dar,
+»Allerdings … Das Bild stellt ohne Zweifel Sie dar,
 Mylord!«
 
-»of — wo faden Sie es denn?«
+»Hm — wo sahen Sie es denn?«
 
-»sei dem Manne, den Sie in (Garden Lavryc aus den
+»Bei dem Manne, den Sie in Garden Lavryc aus den
 Händen der Polizei befreiten …«
 
-Effingham riet!.c sich kerzengrade hoch.
+Effingham richtete sich kerzengerade hoch.
 
-Ich — ich soll das getan haben — Ich! Wollenen
+»Ich — ich soll das getan haben — Ich! Welchen
 Mann?! Ich verstehe Sie nicht!«
 
-Komödie — recht gut ge’piel’e Komödie …
+Komödie — recht gut gespielte Komödie …
 
 nur — Uns täuschte er nicht!! Nein — uns nicht!
 
 Harald erklärte sehr ruhig:
 
-»Wie Sie wollen, Wirkend! Wir Falten af& Verkiüimndetce
-cm Mörder Alter einstigen (Geliebten Wen Varmartyn
-¿acbsvüren können … Nun — sind wir vielleicht Gegner!«
+»Wie Sie wollen, Mylord! Wir hätten als Verbündete
+dem Mörder Ihrer einstigen Geliebten Ellen Marmarty
+nachspüren können … Nun — sind wir vielleicht Gegner!«
 
 Da verfärbte Effingham sich abermals.
 
 <@pagebreak/>
 Seine Miene aber ward noch eisiger
 
-»ordnen Andeutungen sind mir unbegreiflich,« lag!e er mit
-knapper Yerbenaung. »Da Sie Duft in meinem Hause sind,
-Dritter Holst, habe ich nichts nicht hinzuzufügen … „«
+»Ihre Andeutungen sind mir unbegreiflich,« sagte er mit
+knapper Verbeugung. »Da Sie Gast in meinem Hause sind,
+Mister Harst, habe ich nichts mehr hinzuzufügen …«
 
 »Vielleicht Doch!!«
 
-Und diese Worte kannten den Lord, der sich hatte entfernen
-wollen, an seinem Floße.
+Und diese Worte bannten den Lord, der sich hatte entfernen
+wollen, an seinem Platze.
 
 Seine Augen ruhten drohend und unwillig auf Harald,
-der Jeu: flüsterte:
+der jetzt flüsterte:
 
-»Ab bitte Sie, Mylord, offen zu sein. Ich weiß bereits
+»Ich bitte Sie, Mylord, offen zu sein. Ich weiß bereits
 mehr, als Sie glauben … Ich biete Ihnen die Hand zum
-Bündnis5!«
+Bündnis!«
 
-ja ran etwas in Haralds Stimme, das den Lord utt-schlüssig
-wert en ließ.
+Es lag etwas in Haralds Stimme, das den Lord unschlüssig
+werden ließ.
 
-dieser Stimme hatten V’en‘cl’enfi eundlichkeit, Anteilnahme
-und die Güte eines großen Charaf’’ers Mitteilungen.
+In dieser Stimme hatten Menschenfreundlichkeit, Anteilnahme
+und die Güte eines großen Charakters mitgeklungen.
 
-Million sah es Effingham an, daß er mit ich kämpfte.
+Man sah es Effingham an, daß er mit sich kämpfte.
 
-Pech — er mußte wohl sehr ichwermiegenne Gründe
-haben, weiter allein all das durchzufäinpseu, was ihn be
-drückte …
+Doch — er mußte wohl sehr schwerwiegende Gründe
+haben, weiter allein all das durchzukämpfen, was ihn bedrückte
+…
 
-Er spuke … Sagte lese: »Ein Fundort wäre überflüssig,
-V’ifter Harst Ellen Gybourasa Tod geht mir nasse,
-heute, ner der R8rin1inansfasl als solcher ist für mich nur
-Jene-(irr wie Wir Tonerde andere.«
+Er seufzte … Sagte leise: »Ein Bündnis wäre überflüssig,
+Mister Harst. Ellen Gybourgs Tod geht mir nahe,
+noch heute, aber der Kriminalfall als solcher ist für mich nur
+Sensation wie für Tausende andere.«
 
-manche sich und verließ den Billardsaal.
+Er verbeugte sich und verließ den Billardsaal.
 
-Zeche Für hinter ihm sich geschlossen hatte, sagte ich zu
-Kanales:
+Als die Tür hinter ihm sich geschlossen hatte, sagte ich zu
+Harald:
 
 »Nun weiß ich, wer der Mörder ist: Mylady — Lady
-Darin Effingham …!«
+Doris Effingham …!«
 
 Und er — er blickte an mir vorbei, schüttelte leicht den
 Kopf und meinte:
 
-»Die ist es nicht?! Wir werden …«
+»Die ist es nicht! Wir werden …«
 
-Und da — — © 2 sich) Faltig dieselbe zur »Ok- …
+Und da — — öffnete sich hastig dieselbe Tür …
 
-Lady Doris trat e: ich en …
+Lady Doris trat allein ein …
 
 <@pagebreak/>
+
 <h2>2. Kapitel.</h2>
-<h3>Was nicht im Programm fand …</h3>
+<h3>Was nicht im Programm stand …</h3>
 
 »Endlich!!« sagte sie, vor uns stehen bleibend. »Endlich
-dann ich Sie beide allein sprechen … Haben Sie zehn Minuten
-Zeit für mich, Dörfler Harst?«
+kann ich Sie beide allein sprechen … Haben Sie zehn Minuten
+Zeit für mich, Mister Harst?«
 
 Harald verbeugte sich.
 
@@ -1826,47 +1826,47 @@ Besprechung sein soll?«
 
 »Gewiß, Mylady …«
 
-»Da bin ich neugierig, Mister Harst
+»Da bin ich neugierig, Mister Harst …«
 
 »Ich gebe Trümpfe nur aus der Hand, wenn man mir
-andere dafür bietet. Ich bin ein ehrlicher Makler, Marabu
+andere dafür bietet. Ich bin ein ehrlicher Makler, Mylady
 …«
 
 Sie senkte den Kopf.
 
 Sie war pikant und reizvoll, diese Frau, hatte einen
-schlanken, biegsamen, Polen Körper, hatte Augen, in denen
+schlanken, biegsamen, vollen Körper, hatte Augen, in denen
 Die Leidenschaft aufflammen konnte …
 
 Und stand nun vor uns, ein Bild der Ungewißheit, der
-Unfhliffigfeit …
+Unschlüssigkeit …
 
-Stand und zerrte die Serviette ihres langstieligen
+Stand und zerrte die Goldkette ihres langstieligen
 Lorgnons durch die Finger.
 
 Stand und … quälte mühsam hervor:
 
-»Folgen Sie »mit … Hier dieser große Raum ist mir
+»Folgen Sie mir … Hier dieser große Raum ist mir
 unerträglich …«
 
 Sie schritt weiter …
 
-Wir blieben hinter Ihr …
+Wir blieben hinter ihr …
 
 Vier Zimmer — alle mit Bücherschränken gefüllt, dann
 ein winziger Salon mit sehr alten kostbaren Möbeln …
 
-Lady Doris halte das Licht eingeschaltet, hatte rasch den
-seidenen Fenstervorhangs hinabgelassen.
+Lady Doris hatte das Licht eingeschaltet, hatte rasch den
+seidenen Fenstervorhang hinabgelassen.
 
-Druckste nach zwei Sesseln hin — nahm selbst Platz.
+Winkte nach zwei Sesseln hin — nahm selbst Platz.
 
-Ab ahnte, daß hier Sekt ein Wettstreit beginnen würde:
+Ich ahnte, daß hier jetzt ein Wettstreit beginnen würde:
 <@pagebreak/>
-weibliche List, weibliche SIntrigenfunft uns Diplomatie
+weibliche List, weibliche Intrigenkunst und Diplomatie
 gegen Harald Harst!!
 
-Wir drei sagen nun um ein Tischen mit vergoldeten
+Wir drei saßen nun um ein Tischen mit vergoldeten
 Füßen und Malachitplatte herum …
 
 Harald hatte sich zwanglos zurückgelehnt …
@@ -1877,40 +1877,40 @@ Wartete, daß Mylady beginnen würde …
 
 Ließ Mylady warten, die ihn wiederholt anblickte …
 
-Und — hier nun, hier in dieser Umgebung von geshmacks-vollcm
-Luxus, hier in dieser seinen Wolke von zartem Parfüm,
-das bis zu mir herüberwehte, — hier, lachte Tochter
-des Midiarbärd die kostbaren ginge, Armbänder und die
-Brilanıfpanaen trug, den Kantlieniihmud der Effincharng,
+Und — hier nun, hier in dieser Umgebung von geschmackvollem
+Luxus, hier in dieser feinen Wolke von zartem Parfüm,
+das bis zu mir herüberwehte, — hier, wo die Tochter
+des Milliardärs die kostbaren Ringe, Armbänder und die
+Brillantspangen trug, den Familienschmuck der Effinghams,
 — hier in diesem Zimmer des Effingham-Palastes dachte ich
-zwölf Stunden zurück, dachte Ich an das Eiland in der Harwich«
-Bucht, an den alten Tobby, den wir in der Höhle unter
-der Eiche eingesperrt hauen, dem wir jedes Entkommen ans
-möglich gemacht, indem wir die Ausgänge der Höhle auf
+zwölf Stunden zurück, dachte Ich an das Eiland in der Harwich-Bucht,
+an den alten Tobby, den wir in der Höhle unter
+der Eiche eingesperrt hatten, dem wir jedes Entkommen unmöglich
+gemacht, indem wir die Ausgänge der Höhle auf
 einfachste Weise verrammelt hatten …
 
-Und — gerade hier fiel mir all das ein, weil der Geg2ns
-tat so ımacheuer war: Katzeninsel — — Palast! Tobt,
-nach Slantabaf duftend, und Lady So? — —!!
+Und — gerade hier fiel mir all das ein, weil der Gegensatz
+so ungeheuer war: Katzeninsel — — Palast! Tobby,
+nach Kautabak duftend, und Lady Doris — —!!
 
 Da begann sie zaghaft:
 
 »Wie soll ich Ihre Bemerkung von vorhin verstehen,
 Mister Harst?«
 
-»ob — über die zehn Minuten, nicht wahr? — ich
-meinte damit nur, daß wir sehr bald einig werden für« en,
-Mylady.: « Sie haben. doch fraglos ein Anliegen an mit,«
+»Oh — über die zehn Minuten, nicht wahr? — Ich
+meinte damit nur, daß wir sehr bald einig werden können,
+Mylady … »Sie haben doch fraglos ein Anliegen an mich.«
 
 »Ja …«
 
-»Ich glaube es zu kennen ,..«
+»Ich glaube es zu kennen …«
 
-Sie verirrte sich) vor,
+Sie beugte sich vor,
 
 »Unmöglich!«
 
-»Doch, Mylady … Irrt kenne es … ob ei …
+»Doch, Mylady … Ich kenne es … Ich soll einen …
 Mann suchen, der verschwunden ist —«
 
 Lady Effinghams Mund blieb offen. Ihre Augen
@@ -1918,60 +1918,60 @@ weiteten sich.
 
 <@pagebreak/>
 »Mein Gott, — können Sie denn Gedanken lesen?« stieß
-he hervor.
+sie hervor.
 
-»Mein, Ansatz. Ich kann nur eins, und das ist meine
+»Nein, Mylady. Ich kann nur eins, und das ist meine
 ganze Kunst: ich füge aus Kleinigkeiten Bilder mir im Geiste
-zusammen, und da, wo selbst diese Kleinigkeiten schien, da
+zusammen, und da, wo selbst diese Kleinigkeiten fehlen, da
 — lasse ich meine Phantasie arbeiten …«
 
 »Aber … aber … hier, hier in diesem Falle hatten
 Sie doch nicht die allergeringsten Anhaltspunkte für das,
 was mich veranlaßte, diese Unterredung herbeizuführen.«
 
-»Glauben Sie?! — Ich hatte ein Radisıelegramm und
-— eines Mannes Unsctlüifigteit …«
+»Glauben Sie?! — Ich hatte ein Radiotelegramm und
+— eines Mannes Unschlüssigkeit …«
 
 Sie starrte Harald an.
 
-»Nahte … Telegramm?!!« Ganz fassungslos schüttelte
-he den Kopf. »Ich — — verstehe Sie nicht, Mister Harst!«
+»Radio … telegramm?!« Ganz fassungslos schüttelte
+sie den Kopf. »Ich — — verstehe Sie nicht, Mister Harst!«
 
 »Ist auch nicht nötig. — Ich soll also einen Mann
-suchen, der Verse wunden ist …«
+suchen, der verschwunden ist …«
 
-Sie nickte schwach, trügt:rte …
+Sie nickte schwach, flüsterte …
 
 »Es — es ist — ein — Indianer … Das heißt natürlich:
 ein zivilisierten Indianer, vom Stamme der Seminolen,
-spie einst in Florida wohnten und nun in einer Nejervation
-eben …«
+die einst in Florida wohnten und nun in einer Reservation
+leben …«
 
 Sie schaute auf die mattglänzende Malachitplatte des
-Tisches .…
+Tisches …
 
-»Diese Rathaus, Paracolea ist der Name des Seminolen,
+»Diese Rothaut, Paracolea ist der Name des Seminolen,
 war Reitknecht bei meinem Vater und hat auch mich in die
 Künste der Pferdebeherrschung eingeweiht. Seine Anhänglichkeit
-an mich bewog ihn, nachdem ich Lord Essingbham geheiratet
-hohe, hier in London eine Stellung anzunehmen.«
+an mich bewog ihn, nachdem ich Lord Effingham geheiratet
+hatte, hier in London eine Stellung anzunehmen.«
 
 »Wo, Mylady?«
 
-»Er hatte verciedene Anstellungen, Mister Harst. je
-mageres weiß ich nicht. Er Trollte auch mir zuweilen ihn.
-Yaracolea ist jetzt fünfzig Jahre alt … Als ich noch & lud
-war, schaufelte er mich auf seinen Knien …«
+»Er hatte verschiedene Anstellungen, Mister Harst.
+Genaueres weiß ich nicht. Er wollte mich nur zuweilen sehen.
+Paracolea ist jetzt fünfzig Jahre alt … Als ich noch Kind
+war, schaukelte er mich auf seinen Knien …«
 
-Sie sprach plötzlich Spie verträumt …
+Sie sprach plötzlich wie verträumt …
 
-Sie mochte vielleicht merkwürdige Urban, aus cu
-Bann Vergangenheit Im eilte leben …
+Sie mochte vielleicht merkwürdige Bilder, aus einer
+fernen Vergangenheit Im Geiste sehen …
 
 <@pagebreak/>
-Kürze hinzu — ebenso leise und gedankenverloren:
-»Nun ist Paracolea seit gestern verfehrennten Er warnte
-zuschoß in der Doppelter-Street Nr. 13 in öbliert«
+Fügte hinzu — ebenso leise und gedankenverloren:
+»Nun ist Paracolea seit gestern verschwunden. Er wohnte
+zuletzt in der Bagaller-Street Nr. 13 möbliert«
 
 Ah — Bagaller-Street! Und Nummer dreizehn! In
 Nummer fünfzehn war Ellen ermordet worden!
@@ -1979,33 +1979,34 @@ Nummer fünfzehn war Ellen ermordet worden!
 Harst blieb scheinbar gleichgültig …
 
 »Und Sie wissen genau, daß er — verschwunden ist,
-Myladny?«
+Mylady?«
 
-»Ja …[«
+»Ja …!«
 
 »kann er nicht verreist sein?«
 
-»Nein. Ich hatte ihn zu gestern, abend zu mir bestellt.
-Er kam nicht. Und dies genügt mir: ihm Nuß etwas zugetreten
+»Nein. Ich hatte ihn zu gestern abend zu mir bestellt.
+Er kam nicht. Und dies genügt mir: ihm muß etwas zugestoßen
 sein! Paracolea würde tagelang zu Fuß laufen,
-um rechtzeitig bei mir zu sein. Er … er bat mich ja aus
-seinen Knien geschaukelt … Er siebte mich, war mir Fall
+um rechtzeitig bei mir zu sein. Er … er hat mich ja auf
+seinen Knien geschaukelt … Er liebte mich, war mir fast
 ein zweiter Vater …«
 
-»ihnen Sie, was ihm zugestoßen sein könnte?« fragte
+»Ahnen Sie, was ihm zugestoßen sein könnte?« fragte
 Harald eindringlich.
 
 Lady Doris’ Lippen entschlüpfte ein schwerer Seufzer.
 
-»Ja … ja!« hauchte sie. »Ich — ahne — es! Van
+»Ja … ja!« hauchte sie. »Ich — ahne — es! Man
 hat ihn beseitigt!«
 
-Harst so wies. Und ich dachte an den Gefangenen, der
-nach fünf Stunden auf der Zipfel eintreffen würde.
-Ab »Wer tat dicsfï« fragte Harald wieder. »Wer befestigte
+Harst schwieg. Und ich dachte an den Gefangenen, der
+nach fünf Stunden auf der Insel eintreffen würde.
+
+»Wer tat dies?« fragte Harald wieder. »Wer beseitigte
 ihn?«
 
-Ihr Kopf sank dieser. Ihr Gesicht lag im Schatten.
+Ihr Kopf sank tiefer. Ihr Gesicht lag im Schatten.
 
 »Ich — weiß — es — nicht.«
 
@@ -2014,23 +2015,23 @@ Ihr Kopf sank dieser. Ihr Gesicht lag im Schatten.
 Sie schrak zusammen — und flüsterte:
 
 »Vermutungen, die auf nichts anderes als auf Gefühle
-sich frönen, soll man nie aussprechen. Unser Gefühl betrügt
-und oft …«
+sich stützen, soll man nie aussprechen. Unser Gefühl betrügt
+uns oft …«
 
-»Allerdings! Sie aber, Mylabdy, Haben noch andere
+»Allerdings! Sie aber, Mylady, Haben noch andere
 Stützpunkte, behaupte ich.«
 
 Sie blieb stumm …
 
-Und totenstidl war’s in dem kleinen intimen Gemach …
+Und totenstill war’s in dem kleinen intimen Gemach …
 
 <@pagebreak/>
-Zart und wie ein Hauch von Jugendlust wehte der Wolligen?)
+Zart und wie ein Hauch von Jugendlust wehte der Wohlgeruch
 Lady Doris’ zu mir herüber …
 
 Zart und wie ein Hauch nun ihre Stimme:
 
-»Helfen Sie mir Suchen Sie Paracolea, Mister Harst!
+»Helfen Sie mir! Suchen Sie Paracolea, Mister Harst!
 Retten Sie ihn!«
 
 »Vor wem? vor — Ihrem Gatten?«
@@ -2038,82 +2039,82 @@ Retten Sie ihn!«
 Da — schluchzte sie auf … Drückte die Hände vor das
 Gesicht …
 
-»O mein Bot! — — mein Gott, wozu all das Furchtbare?!
+»O mein Gott — — mein Gott, wozu all das Furchtbare?!
 Helfen Sie mir doch, Mister Harst!«
 
 Sie tat mir leid in diesem Augenblick. Sie war so ganz
-trostlose Verstörtheit, in ganz befehlende Angst …
+kraftlose Verstörtheit, so ganz verzehrende Angst …
 
-Und in ihrem kaum Soldaten Weinen schwangen nun
+Und in ihrem kaum hörbaren Weinen schwangen nun
 wieder Worte mit:
 
 »Er — er war mir ein zweiter Vater … Im Goldgräberlager
-am Roten Fluß hat e: mich auf seinen Knien geschaukelt
+am Roten Fluß hat er mich auf seinen Knien geschaukelt
 …«
 
 Ja — sie tat mir unendlich leid.
 
-Und ich war froh, als Harald trat ihre Ungewißheit in
+Und ich war froh, als Harald jetzt ihre Ungewißheit in
 helle Freude verwandelte …
 
-Anbrach — ich wir Ahmen besten — gegen ihren Gatten!
-Jeu weiß, daß Sie Lord Roger für den Anstifter eines
-An!Lichtung gegen Paracolea halten. — eine Steige noch:
-Lord Roger war reich, als er im Sie ward. Er hätte es
-nicht! nix geballt, eine Milliardärstochter zu wählen. Es
+»Mylady — ich will Ihnen helfen — gegen ihren Gatten!
+Ich weiß, daß Sie Lord Roger für den Anstifter eines
+Anschlags gegen Paracolea halten. — Eine Frage noch:
+Lord Roger war reich, als er um Sie warb … Er hätte es
+nicht nötig gehabt, eine Milliardärstochter zu wählen. Es
 war eine — Liebesheirat …«
 
-»E&8 ist eine Liebesheirat »nicht fl Es ist —
-nicht e& war!! Die Wolken, die turnten. alt trüben, werden
+»Es ist eine Liebesheirat, Mister Harst … Es ist —
+nicht es war!! Die Wolken, die unser Glück trüben, werden
 auch wieder verschwinden!«
 
-»Hosen wir …«
+»Hoffen wir …«
 
-Lady Doris hatte ich erhoben …
+Lady Doris hatte sich erhoben …
 
-Wir fühlen ihr Die Sand …
+Wir küßten ihr Die Hand …
 
 Dann ging sie …
 
 Und wir waren allein …
 
-Harald setzte sich wieder, meinte Felle: »Wir haben noch
-eine Stunde Rest Erst in Park nd ist an Auto sie
+Harald setzte sich wieder, meinte leise: »Wir haben noch
+eine Stunde Zeit — Erst um halb acht ist das Auto bestellt,
 <@pagebreak/>
-stellt, das nun nach Harwich bringen soll — uns, unser.
-Kosten und unseren Diener, den Doktor Gybourg …«
+das uns nach Harwich bringen soll — uns, unsere
+Koffer und unseren Diener, den Doktor Gybourg …«
 
 Er zog sein Zigarettenetui …
 
 »Da — bediene Dich, mein Alter!«
 
-Ich nahm die schlanke Mirakulum hinter dem Gummis:
-Bändchen hervor …
+Ich nahm die schlanke Mirakulum hinter dem Gummibändchen
+hervor …
 
 Sagte: »Paracolea ist Ellen Gybourgs Mörder!«
 
 »Na — das ist nun Nummer drei, auf den Dein Verdacht
-fällt: erst der Lord, dann die Lady, nun eine Rathaus,
+fällt: erst der Lord, dann die Lady, nun eine Rothaut,
 — und eine Stunde später vielleicht wieder ein anderer!«
 
-Er riet ein Zündholz an …
+Er rieb ein Zündholz an …
 
-»Wenn ich mich nachher von Lady Effingham verab-schicdce,
+»Wenn ich mich nachher von Lady Effingham verabschiede,
 werde ich ihr etwas zuflüstern …«
 
 »Was?«
 
-»Daß sie zusehen soll, ob sie noch heute nach vor zwölf
-Uhr in Harwich sein kann … Sich möchte all die Mitspieler
-dieser Tragödie aus der Insel versammeln …«
+»Daß sie zusehen soll, ob sie noch heute nacht vor zwölf
+Uhr in Harwich sein kann … Ich möchte all die Mitspieler
+dieser Tragödie auf der Insel versammeln …«
 
-Und — da geschah das, was wir hier im Palais Essig@
+Und — da geschah das, was wir hier im Palais
 Effingham niemals vermutet hätten:
 
-Die Tür flog auf. Zwei Kerle mit struppigen Bär
-ten … Zwei Hiebe mit nassen Sandsäcken …
+Die Tür flog auf. Zwei Kerle mit struppigen Bärten
+… Zwei Hiebe mit nassen Sandsäcken …
 
-Zwei Benmßllose auf dem Teppich …
+Zwei Bewußtlose auf dem Teppich …
 
 Wir …!!
 
@@ -2711,7 +2712,7 @@ Paracolea, mich als Verbündeten zu betrachten. Reden Stiel
 Haben Sie Ellen Gybourg ermordet, damit Ihres Lieblings
 erst Glück nicht zerstört würde?«
 
-Paracoleas Antlitz zeigte das gelstesabwoesende, ange-ftrengteste
+Paracoleas Antlitz zeigte das gelstesabwoesende, angestrengteste
 Nachdenken.,
 
 Minuten blieb es Stil …
@@ -2726,7 +2727,7 @@ hierher schaffen ließen, Mylord?«
 
 »er war’s … Er und sein Freund … Sie sollten
 verschwinden, Die beiden, damit ich Zeit Hände, alle Spuren,
-die auf Doris’ Mittäterschaft, auf Doris’ Urbeberfchaft hindeuteten,
+die auf Doris’ Mittäterschaft, auf Doris’ Urheberschaft hindeuteten,
 beseitigt wären! Denn — ich glaubte ja bisher
 ganz fest, daß Doris Sie zu dem Verbrechen verleitet hätte!
 Ich kenne Doris! Ich kenne ihre Liebe zu mir, ihre unsinnige
