@@ -2122,39 +2122,39 @@ Wir …!!
 
 <h3>Der Indianer,</h3>
 
-In unserem Programm war dieser Überfall! aus uns,
+In unserem Programm war dieser Überfall auf uns,
 wie gesagt, nicht vorgesehen gewesen,
 
 Durchaus nicht! Wir hatten ja im Auto nach Harwich
 zurückkehren wollen …
 
 Gewiß: wir lagen jetzt auch in einem Auto, und dieses
-Auto fuhr auch, — aber — wir waren gefesselt und gerne hell
+Auto fuhr auch, — aber — wir waren gefesselt und geknebelt
 und wußten nicht, wohin es fuhr …
 
 <@pagebreak/>
 
-Aeninftena ich mußte es nicht …
+Wenigstens *ich* wußte es nicht …
 
-Ich war nach dem brutalen Sandsackhieb als wohl-rfchnärted
+Ich war nach dem brutalen Sandsackhieb als wohlverschnürtes
 Bündel zu mir gekommen …
 
 Lag irgendwo, wo’s nach Benzin stank …
 
-Konnte nichts geben, War Hören, riechen und fühlen …
+Konnte nichts sehen. Nur Hören, riechen und fühlen …
 
-Roch Benzin, hörte einen An1tomotor leer laufen, fühlte
+Roch Benzin, hörte einen Automotor leer laufen, fühlte
 mich emporgehoben, in eine Polsterecke gedrückt …
 
-Hörte, daß man neben mir ein zweites menscllic008
+Hörte, daß man neben mir ein zweites menschliches
 Bündel verstaute …
 
-Es sonnte nur Harald sein!
+Es konnte nur Harald sein!
 
-Dann — lachte das Auto an …
+Dann — ruckte das Auto an …
 
 Fuhr — fuhr durch belebte Straßen … fuhr nun eine
-Kiste Landstraße entlang …
+stille Landstraße entlang …
 
 Und da — wagte ich es …
 
@@ -2162,42 +2162,42 @@ Da stieß ich meinen Nachbar Harald mit dem Ellenbogen
 leise an …
 
 Ich hoffte auf eine Erwiderung des Zeichens. Wäre es
-»ob nicht das erstemal gewesen, daß wir uns auf Die Art
-serjiandigi hätten: Mtoriezeichen-&Denbonendrud …!
+doch nicht das erstemal gewesen, daß wir uns auf Die Art
+verständigt hätten: Morsezeichen-Ellenbogendruck …!
 
-Nichts sehnte. Bein Nachbar für, Gesuch nicht. Nij0o
-war’s zu nicht Hart — niemals) Das war vielleicht —
+Nichts folgte. Mein Nachbar rührte sich nicht. Also
+war’s auch nicht Harst — niemals! Das war vielleicht —
 Paracolea, der Seminole!!
 
 vielleicht …!!
 
-aß il … Ich war müde, Mein Schädel Beinwunde.
+Ich saß still … Ich war müde, Mein Schädel brummte.
 
-lief ein …
+Ich — schlief ein …
 
-sımadie 109 …
+Erwachte jäh …
 
-Hüllte mich emporgehoben … kühlste frische, fühle
+Fühlte mich emporgehoben … fühlte frische, kühle
 Luft. Hörte die See rauschen …
 
-»Die Buch! von Spannst — — die Katzeninsel!« schoß
-mir durch den Kopf.
+»Die Bucht von Harwich — — die Katzeninsel!« schoß
+es mir durch den Kopf.
 
 Und schon lag ich auch In einem offenen, schaukelnden
-Yogi …
+Boot …
 
 Schon hörte ich das Quietschen von Ruderdollen …
 
 Das Boot schwankte stärker …
 
-Spribver Namen über Bord …
+Spritzer kamen über Bord …
 
 Die Nässe drang durch meine Gesichtshülle …
 
 <@pagebreak/>
 Jemand fluchte … —
 
-Also war Mine Vermutung richtig gewesen: man
+Also war meine Vermutung richtig gewesen: man
 brachte mich nach der Katzeninsel!!
 
 Mich allein? War Harald mit im Boot? War auch
@@ -2207,57 +2207,57 @@ Und — wieder fluchte jemand:
 
 »Sauwetter!«
 
-Mir Recht: es begann zu regnen, goß sehr bald in
+Mit Recht: es begann zu regnen, goß sehr bald in
 Strömen! —
 
 Ich überlegte weiter: In der Funkdepesche waren die
-beiden Männer, die machte zwölf Uhr den Gefangenen nach
-Bein Eiland bringen sollten, Tom und harrt genannt
+beiden Männer, die nachts zwölf Uhr den Gefangenen nach
+dem Eiland bringen sollten, Tom und Charly genannt
 worden …
 
 Und soeben hatte ich deutlich gehört, Daß eine Stimme
-stärkerer: »Hafen Maul, Tom! Rudere lieber!«
+flüsterte: »Halt’s Maul, Tom! Rudere lieber!«
 
-Mithin stimmte es: Tom und harrt, die Helfershelfer
+Mithin stimmte es: Tom und Charly, die Helfershelfer
 Lord Effinghams, waren unsere Begleiter! Unsere Wächter!
 Und der Lord hatte uns Überfallen und niederschlagen lassen!
 
-Weshalb — — wcdhalb?
+Weshalb — — weshalb?
 
-Anklopft grübelte ich Über Diese Frage nach … —
+Umsonst grübelte ich Über Diese Frage nach … —
 
-möglich ein Poltern …
+Plötzlich ein Poltern …
 
-Das Boot war gegen einen Holzsteg gestoßen. ..
+Das Boot war gegen einen Holzsteg gestoßen …
 
-dann eine Stimme — fragend — Kniend:
+dann eine Stimme — fragend — rufend:
 
-»Hallo — old Tobby, wo siehst Du denn?««
+»Hallo — old Tobby, wo steckst Du denn?«
 
 Keine Antwort … —
 
-Ich) wußte, wo Tobby steckte: in der Höhle unter der
-Eiche! — Tibet — erstens hatte ich da einen Knebel in
+Ich wußte, wo Tobby steckte: in der Höhle unter der
+Eiche! — Aber — erstens hatte ich ja einen Knebel im
 Munde, und zweitens hätte ich ja keinerlei Veranlassung
-gehabt, Zopf und blutig über das auf;pilgern, wag in der
-vorhergehenden Nacht hier auf der Zwei sich zugetragen
+gehabt, Tom und Charly über das aufzuklären, was in der
+vorhergehenden Nacht hier auf der Insel sich zugetragen
 hatte … —
 
-Atomen kreischten …
+Möwen kreischten …
 
-Der Star heulte las Wasser reite, oc: Alte,
-und das Boot soll Turnte mit so, Rillen Quietsch1önen am Siege.
+Der Sturm heulte … Das Wasser rauschte, brandete,
+und das Boot scheuerte mit schrillen Quietschtönen am Stege.
 
-Wieder die raus Summe:
+Wieder die rauhe Stimme:
 
-»Hallo, old Sollt’!! Melde Die doch!! — — Verdammt
+»Hallo, old Tobby!! Melde Die doch!! — — Verdammt
 <@pagebreak/>
-— der Kerl hat die Zeit verschlafen! harrt, mal!
+— der Kerl hat die Zeit verschlafen! Charly, mach’
 fix, hole ihn!«
 
-Jemand sprang auf den Steg. ..
+Jemand sprang auf den Steg …
 
-Die Breiter dröhnten …
+Die Bretter dröhnten …
 
 Und dann — kurz darauf … dicht neben mir ein Geräusch
 …
@@ -2270,30 +2270,30 @@ Stille … —
 
 Unheimlich war das — unendlich unheimlich …
 
-Wink mochte geschehen sein …?
+Was mochte geschehen sein …?
 
-Da — wieder ein Neues … harrt kehrte zurück …
+Da — wieder ein Neues … Charly kehrte zurück …
 
-»Ulk Gelobt ist nirgends zu finden …!« meldete er.
+»Old Tobby ist nirgends zu finden …!« meldete er.
 
 Ein — — dumpfer Krach … ein gurgelnder Schrei —
 ein polternder Fall ins Boot hinab …
 
-Hüllte … Bulle …
+Stille … Stille …
 
 Unheimlich war das alles — unendlich unheimlich!
 
-Ab zerrte verzweifelt an meinen Stricken .…
+Ich zerrte verzweifelt an meinen Stricken …
 
 Ich hatte schon vorhin versucht, mich zu befreien …
 Es gelang auch jetzt nicht … —
 
 Geräusche im Boot …
 
-Es schaufelte …
+Es schaukelte …
 
 Dann — hob mich jemand empor, warf mich über die
-Schulter wie einen gefchlacdhieten Hammel …
+Schulter wie einen geschlachteten Hammel …
 
 Bäume, Büsche rauschten …
 
@@ -2302,23 +2302,24 @@ Zweige streiften mein verhülltes Gesicht …
 Und der mich getragen, stellte mich an einen Baum,
 schlang eine Leine um meine Brust, um den Baum …
 
-Entfernte ich … — —
+Entfernte sich … — —
 
 Unheimlich war das — unendlich unheimlich …
 
-Diese Sturm und Negennadt, und ich dabei als wehrloses
+Diese Sturm- und Regennacht, und ich dabei als wehrloses
 Bündel … Und — — wo war Harst?
 
-Da kehrte der Unsichtbare mit neuer Last zurück. .,
+Da kehrte der Unsichtbare mit neuer Last zurück …
 
 Fesselte jemand hinter mir an denselben Baum …
 
 Ellenbogen berührten sich, bewegten sich, telegraphierten.
 
-Harsts war’s mein Harald Harst!! Er depeschierte
+Harsts war’s mein Harald Harst!! Er depeschierte:
 
 <@pagebreak/>
-> »Paracolea hat Tom und harrt niedergeschlagen.
+
+> »Paracolea hat Tom und Charly niedergeschlagen.
 Ich kann meine Binde nicht lockern. Versuche Du es.
 Ich werde mich etwas drehen. Vielleicht erreichen Deine
 Finger die Knoten meiner Handfesseln.«
@@ -2335,165 +2336,165 @@ diese Anstrengungen waren.
 
 Harald depeschierte: »Aufhören! Erfolglos!«
 
-Und so standen wir denn unter dem rauschenden, klopfendem
+Und so standen wir denn unter dem rauschenden, tropfendem
 Baume und warteten — warteten, was sich nun wohl
 weiter ereignen würde …
 
 Mindestens eine Stunde verging …
 
-Dann — ganz lautlos war der Seminole herbeigehufschh!
+Dann — ganz lautlos war der Seminole herbeigehuscht
 — dann dicht vor uns eine tiefe Stimme in tadellosem
 Englisch:
 
 »Ich werde Ihnen beiden die Knebel abnehmen. ich
 habe mich davon überzeugt, daß wir drei zurzeit die einzigen
 lebenden Menschen hier auf diesem Inselchen sind. Sollten
-Sie aber um Hilfe rufen, so — Schlage ich auch Sehnen Die
+Sie aber um Hilfe rufen, so — Schlage ich auch Ihnen Die
 Schädel ein.«
 
-Der Indianer sprach das letzte mit so vollfommicner
-Gleichgültigkeit, als ob es sich um irgendein Gewürm, sticht
+Der Indianer sprach das letzte mit so vollkommener
+Gleichgültigkeit, als ob es sich um irgendein Gewürm, nicht
 um Menschen gehandelt hätte.
 
 Dann entfernte er meine Kopfumhüllung …
 
 Dann … sah ich nichts als einen dunklen Schatten in
-dieser stockfinsterer Nacht vor mir …
+dieser stockfinsteren Nacht vor mir …
 
-Und — zu den Irrsinns entsetzte ne Seminole, ich
+Und — auch den Knebel entfernte der Seminole, nun
 dasselbe bei Harst, fragte dann:
 
-»der sind Sie, meine Herren?«
+»Wer sind Sie, meine Herren?«
 
 Harald erwiderte ohne Zögern:
 
 »Deutsche Touristen …«
 
 <@pagebreak/>
-»Wer iüitberficl Sie?«
+»Wer überfiel Sie?«
 
-»las wissen wir nicht .,.«
+»Das wissen wir nicht …«
 
 »Und wo überwältigte man Sie?«
 
-»in einem Palast, den wir besichtigten … &3 war da
+»in einem Palast, den wir besichtigten … Es war der
 Palast eines Lords …«
 
-»Hof! Oman Lord Effinghams Palast …?«
+»So?! Etwa Lord Effinghams Palast …?«
 
 »Ja — Effingham!«
 
-Die knallte Gestalt schwieg eine Weile …
+Die dunkle Gestalt schwieg eine Weile …
 
-»Wir befinden uns in der gleichen Lage,« meinte Papa
-oben dann. »ich werde Ihren auch die Fesseln abncowen.
-Dies ist eine Noch!, wie ich viele erlebt habe, als ich nicht
-etlichen in Amerika, meiner Heimat, als Jäger die Sonnen
-durchstreifte und das Goldgräberlager mit Fleisch verreiste«
+»Wir befinden uns in der gleichen Lage,« meinte Paracolea
+dann. »ich werde Ihren auch die Fesseln abnehmen.
+Dies ist eine Nacht, wie ich viele erlebt habe, als ich noch
+drüben in Amerika, meiner Heimat, als Jäger die Sonora
+durchstreifte und das Goldgräberlager mit Fleisch versorgte.«
 
 Kurze Pause …
 
-Dann stolzer — lauter;
+Dann stolzer — lauter:
 
-»ich bin Yaracolca, ein Nachkomme sonst Seltsamere
-Häuptlinge Oceola, den der E riftitller Cooper in dem
-wo! »Oceola, die untergehende Sonne der Fernhalten«
-verewigt bat …«
+»ich bin Paracolea, ein Nachkomme jenes Seminolenhäuptlings
+Oceola, den der Schriftsteller Cooper in dem
+Roman »Oceola, die untergehende Sonne der Seminolen«
+verewigt hat …«
 
-Er zerfcehnitt unsere Ernte …
+Er zerschnitt unsere Stricke …
 
-»Suchen wir vor dem Siegen Zuflucht in dem kleinen
-paäuéchen dort drüben …«
+»Suchen wir vor dem Regen Zuflucht in dem kleinen
+Häuschen dort drüben …«
 
-»Und Tom und harrt?« fragte Harald.
+»Und Tom und Charly?« fragte Harald.
 
-»Wen Yaracoleca mit einem eichenen Ruder nieder
-schlagt, dessen Kopf pro 61 wie ene Tiefschlafs. Die Seen
-haben mich wie einen Derbe: Eier behandelt …«
+»Wen Paracolea mit einem eichenen Ruder niederschlägt,
+dessen Kopf platzt wie eine Eierschale. Die beiden
+haben mich wie einen Verbrecher behandelt …«
 
 er schritt voran …
 
-Wir betraten Sollte bist:saubere Hütte, zündeten in Eine
-Vorderstube Die Kapkolonie an und heizen den Kucdesltn,
-um warne leider zu trocknen.
+Wir betraten Tobbys blitzsaubere Hütte, zündeten in der
+Vorderstube Die Karbidlampe an und heizten den Kachelofen,
+um unsere Kleider zu trocknen.
 
-Paracolea war sl meinem …
+Paracolea war schweigsam …
 
-Im hellen, reißen Wir! ich der Lampe studierte wo fade:
-tupferroies, foltiac& Gehör mit wächsernen Interesse
+Im hellen, weißen Lichte der Lampe studierte ich sein
+kupferrotes, faltiges Gesicht mit wachsendem Interesse
 
-Ein sympathisches Gesicht … »Ein schwermütiger
+Ein sympathisches Gesicht … Ein schwermütiger Zug
 um Mund und Augen …
 
 <@pagebreak/>
 Und eine Gestalt, tadellos gewachsen, muskulös, leicht
 in den Bewegungen, ohne Hast …
 
-Harald hocke vor dem Ofen und warf So! nach)
-Knisternd, knallend flammten Die Breite auf …
+Harald hockte vor dem Ofen und warf Holz nach …
+Knisternd, knallend flammten Die Scheite auf …
 
 <h2>4. Kapitel</h2>
 <h3>Zwei, die Doris lieben …</h3>
 
-Das trockene Holz erzeugte eine ungeheure Flut, die Durch
-spie offene Wen für in breiter Bahn in die Stube drang.
+Das trockene Holz erzeugte eine ungeheure Glut, die Durch
+die offene Ofentür in breiter Bahn in die Stube drang.
 
 Vor dem Ofen lag ein Fellteppich. Paracolea, der einen
-Sportianzug trug, diesen Sir und Stoff durch das Unwetter
-genau so gelitten hatten wie unsere Gesellsihastäanzüge, lief;
+Sportanzug trug, diesen Sitz und Stoff durch das Unwetter
+genau so gelitten hatten wie unsere Gesellschaftsanzüge, ließ
 sich jetzt mit untergeschlagenen Beinen gleichfalls vor dem
-Ofen nieder, legte die Arme aus die Knie und starrte unverwandt
+Ofen nieder, legte die Arme auf die Knie und starrte unverwandt
 in das hellbrennende Feuer.
 
-Sein dunkfleë Bronzegesicht, um spielt von dem zuckenden
-en Schein, regte sich nicht, als er nun klar und deutlich
-jagte:
+Sein dunkles Bronzegesicht, umspielt von dem zuckenden
+Schein, regte sich nicht, als er nun klar und deutlich
+sagte:
 
-»Ich höre das Geräusch eines näherkommenden Motor-booied
+»Ich höre das Geräusch eines näherkommenden Motorbootes
 …«
 
-Harald, der Socken Die Holzläden vor die Fenster geschoben
-und die Verbürge zugezogen hatte, horchte angespannt.
+Harald, der soeben Die Holzläden vor die Fenster geschoben
+und die Vorhänge zugezogen hatte, horchte angespannt.
 
 »ich höre nichts,« meinte er.
 
-»Laracolcas Ohren hat die Wildnis geschärft,« erklärte
+»Paracoleas Ohren hat die Wildnis geschärft,« erklärte
 der Seminole schlicht.
 
-Und fügte hinzu: »Wissen Sie vielleicht, wer Bettler
+Und fügte hinzu: »Wissen Sie vielleicht, wer Besitzer
 dieser Insel ist?«
 
-»Lord Effingham,« erwiderte Harald vom Fenster der.
+»Lord Effingham,« erwiderte Harald vom Fenster her.
 
-So stand roten dem Ofen, an den Tisch gelehnt. Meine
-nassen Beinkleider dampften … Sich war ein ahnungsloser
-Zuschauer, ein Zeuge all dieser Vorgang«. die ich in ihrem
-ten Zusamnzenhang noch immer nie Paris …
+Ich stand neben dem Ofen, an den Tisch gelehnt. Meine
+nassen Beinkleider dampften … Ich war ein ahnungsloser
+Zuschauer, ein Zeuge all dieser Vorgänge, die ich in ihrem
+wahren Zusammenhang noch immer nicht begriff …
 
-Fragen stellte ich mir, degunzier stet? 7 »[eine $ Hauptfrage:
+Fragen stellte ich mir, darunter stets dieselbe Hauptfrage:
 <@pagebreak/>
-wer war Ellen Gubaurad Mörder, und weshalb hatte dieser
-Mörder den fizibenijden Teich Eindringt zu dem Verbrechen
-legt?! Gab Co eine Verbindung zwischen Grabe!
-las einstiger Siziliencije und diesem Verbrechen? —
+wer war Ellen Gybourgs Mörder, und weshalb hatte dieser
+Mörder den sizilianischen Dolch Gybourgs zu dem Verbrechen
+benutzt?! Gab es eine Verbindung zwischen Gybourgs
+einstiger Sizilienreise und diesem Verbrechen? —
 
 Harald wirkte mir zu …
 
-»Wir werden einmal nachsehen gehen, wen das Motors
-Boot bringt,« sagte er girichmütiag.
+»Wir werden einmal nachsehen gehen, wen das Motorboot
+bringt,« sagte er gleichmütig.
 
 Der Seminole schwieg und starrte in die Glut.
 
-Wir beide verließen Bad Häuschen.
+Wir beide verließen das Häuschen.
 
 Draußen atmete ich erleichtert auf, zumal der Regenguß
-vorüber war und ein frisch;er, onpneuehmer Wind, die Nachtlampe
+vorüber war und ein frischer, angenehmer Wind, die Nachtklänge
 des Sturmes, uns umwehte.
 
-Tupfte Mottenmajfen flogen noch über das nächtliche
+Dunkle Wolkenmassen flogen noch über das nächtliche
 Firmament hin …
 
-Zuweilen trat der Mond hinter den scC;warten jagenden
+Zuweilen trat der Mond hinter den schwarzen jagenden
 Wolken hervor — nur für Sekunden …
 
 »Was nun?« fragte ich, als wir den Pfad zum Bootssteg
@@ -2501,80 +2502,80 @@ hinabeilten …
 
 »Das hängt davon ab, wer dort naht …«
 
-Und er zeigte geradeaus aus die finstere Fläche der Harwich:
-Bucht, wo die Lichter eines kleinen Fahrzeugs blinden
+Und er zeigte geradeaus aus die finstere Fläche der Harwich-Bucht,
+wo die Lichter eines kleinen Fahrzeugs blitzten
 und rasch näherkamen,
 
-aParacolcas Ecdhweininmfeit falls einem auf die Neider,«
-meinte ich, tief Wien Hafens …
+»Paracoleas Schweigsamkeit fällt einem auf die Nerven,«
+meinte ich, tief Atem holend …
 
-»Ja … — Wer hinter dieser hoben, klugen Sitten lesen
+»Ja … — Wer hinter dieser hohen, klugen Stirn lesen
 könnte!«
 
-Ah dachte an Tom und harrt — an die Toten dieser
-Noch! …
+Ich dachte an Tom und Charly — an die Toten dieser
+Nacht …
 
 »Er macht so gar nicht den Eindruck eines brutalen
-Menschen,« warf ich zögernd bin … — Vielleicht hatte ich
-den Seminolen Doch zu günstig beurteilt, Vielleicht beurteilte
-Hapert ihn anders …
+Menschen,« warf ich zögernd hin … — Vielleicht hatte ich
+den Seminolen Doch zu günstig beurteilt. Vielleicht beurteilte
+Harald ihn anders …
 
-ahne ist er auch nicht,« meinte Gunst. »Er ist ein Mensch,
-der …
+»Das ist er auch nicht,« meinte Harst. »Er ist ein Mensch,
+der …«
 
 Soeben war der Mond wieder für den Bruchteil einer
 Sekunde erschienen, hatte sein mildes Licht wie den rasch
 <@pagebreak/>
-wieder erlöihenpen Peuchtfenel eines Scheinwerfers über
-die Oberfläche der Buch! gleiten lassen …
+wieder erlöschenden Leuchtkegel eines Scheinwerfers über
+die Oberfläche der Bucht gleiten lassen …
 
 Harst schwieg … fügte hinzu:
 
 Hinter dem Motorboot ein zweites, kleineres — ohne
-Lichter … 1«
+Lichter …!«
 
 Ich bemühte mich umsonst, dieses zweite Fahrzeug zu
-entgehen … Finsternis lagerte wieder über dem V:alter.
+entdecken … Finsternis lagerte wieder über dem Wasser.
 
-»Vielleicht Lady Doris, die ihrem Gatten heimlich sorgt,«
-aussprach Harald sinnend vor sich hin. »Vielleicht finden sich
+»Vielleicht Lady Doris, die ihrem Gatten heimlich folgt,«
+sprach Harald sinnend vor sich hin. »Vielleicht finden sich
 nun doch die Mitspieler dieser Tragödie hier zusammen!«
 
-Ein dumpfes Stöhnen aus dem Buschwerk neben den!
-VBootsästeg veranlaßte Harst, in die Sträucher einander) en
-Ich bricht hinter ihm. Und — wieder erschien da der Vier?
-Sein Licht genügte gerade … Wir sahen zwei Männer im:
-Große liegen, mit Plumpen Köpfen, aber — um diese $ spitze
-war:  kunstlose Verbände aus Zeugfetzen geschlungen
+Ein dumpfes Stöhnen aus dem Buschwerk neben dem
+Bootssteg veranlaßte Harst, in die Sträucher einzudringen.
+Ich blieb hinter ihm. Und — wieder erschien da der Mond.
+Sein Licht genügte gerade … Wir sahen zwei Männer im
+Grase liegen, mit blutigen Köpfen, aber — um diese Köpfe
+waren kunstlose Verbände aus Zeugfetzen geschlungen …
 
-»Tom und Chartum!« sagte Harald und beugte sich Herz -
-»Sie leben, sind nur bewußtlos … — Ah — es sind »4
-Länder, beide … Da — dieser Schädelbau und dies
+»Tom und Charly!« sagte Harald und beugte sich herab.
+»Sie leben, sind nur bewußtlos … — Ah — es sind Ausländer,
+beide … Da — dieser Schädelbau und dieses
 brandrote Haar sind nur in Irland anzutreffen, und die
-Hirndecke eines Seen konsultiert an Festigkeit mit der eines
-Negers. — Der Scnminole glaubt, die beiden erscolagen zu
+Hirndecke eines Iren konsultiert an Festigkeit mit der eines
+Negers. — Der Seminole glaubt, die beiden erschlagen zu
 haben, hat aber trotzdem, weil noch Leben in ihnen war die
-Verlegungen verbunden So wußte, daß dieser Paracolea
-sein roher Bösewicht ist …« Und leiser — Jeu! wieder
-Dunkelheit ringsum —; »Das erste Boot legt bereits an«
+Verletzungen verbunden. Ich wußte, daß dieser Paracolea
+kein roher Bösewicht ist …« Und leiser — jetzt wieder
+Dunkelheit ringsum —: »Das erste Boot legt bereits an!
 Beobachten wir!«
 
 Vorsichtig schoben wir uns bis an den Rand des Buschstreifens.
 Die Wasseroberfläche warf immerhin so viel spärliches
 Licht zurück, daß wir genau erkannten, wie nun ein
-einzelner Mann von dem WMxtorboot auf den Eins sprang
-und hastig dem Häuschen des Napenmärtere Tobby zuschritt
+einzelner Mann von dem Motorboot auf den Steg sprang
+und hastig dem Häuschen des Katzenwärters Tobby zuschritt
 
 Gestalt, Bewegungen — alles verriet Lord Effingham!
-Es war Roger Edward Effingham …
+Es war Roger Edward Effingham …!
 
 <@pagebreak/>
-Es war nicht schwer, ihm unbemerkt aus den Fersen zu
+Es war nicht schwer, ihm unbemerkt auf den Fersen zu
 bleiben.
 
-Er betrat das Häuêëchen. Und kaum hatte er den kleinen
-Vorsiíur passiert, kaum die Tür der erleuchteten Tube geölte
-ne!, als wir beide auch schon, Autorität noch den Lärm
+Er betrat das Häuschen. Und kaum hatte er den kleinen
+Vorflur passiert, kaum die Tür der erleuchteten Stube geöffnet,
+als wir beide auch schon, unterstützt durch den Lärm
 einer neuen Regenflut, in den Flur eindrangen …
 
 Lord Effingham hatte für nichts anderes Augen als für
@@ -2583,139 +2584,139 @@ vor dem Glut und Licht ausstrahlenden Ofen.
 
 Und dieser Lord Effingham hatte wieder den grauen
 Vollbart und die Maske vorgebunden, spielte wieder den
-vertrauter, der nicht erlangt sein wollte … —
+Abenteurer, der nicht erkannt sein wollte … —
 
-Paracolea hatte, als die Tür ausging, den Kopf gedreht.
+Paracolea hatte, als die Tür aufging, den Kopf gedreht.
 
-ne he Männer verharrten nun wohl eine Minute lang
+Beide Männer verharrten nun wohl eine Minute lang
 in derselben Stellung …
 
-Effingham auf der Schwelle stehend, Kopf uns Obers
-können wie in ungläubigem Schreck zurückgebogen …
+Effingham auf der Schwelle stehend, Kopf und Oberkörper
+wie in ungläubigem Schreck zurückgebogen …
 
-Uns der Seminole dort aus dem Teppich, wie eine
-Buddva-Statue, die Beine untergeschlagen, die Arme auf den
+Uns der Seminole dort auf dem Teppich, wie eine
+Buddha-Statue, die Beine untergeschlagen, die Arme auf den
 Knien …
 
 Wir im dunklen Flur im Hintergrunde — wir als stille
-Rekorder Dieser meriwürdbipen Szene, die sehr bald wechseln
-setzte,
+Beobachter Dieser merkwürdigen Szene, die sehr bald wechseln
+sollte,
 
-Leben kam in Eftsinchams Gestalt …
+Leben kam in Effinghams Gestalt …
 
 »Was bedeutet das?« rief er mit einer Stimme, die Unruhe
 und schnell aufflammende Wut verriet …
 
 Und mit zwei Schritten war er dicht vor dem Manne,
-den er hierher hatte Schaffen haftet, der nun hier frei und
-ngebindert mit Der stoischen Nabe seiner Nasse vor dem Wen
-dauerte,
+den er hierher hatte schaffen lassen, der nun hier frei und
+ungehindert mit Der stoischen Ruhe seiner Rasse vor dem Ofen
+kauerte,
 
 Paracolea erwiderte — und auch seine Stimme schwoll
 mit jedem Worte an:
 
 »Weshalb haben Sie mich einfangen lassen wie ein wildes
-Tier, Mylords! Weshboalb?!«
+Tier, Mylord?! Weshalb?!«
 
 Er hatte sich dabei langsam erhoben …
 
 und in der Art, wie dies geschah, lag so viel Kraft, so
 <@pagebreak/>
-ne: fidele Gewandtheit, gleichzeitig Ader auch in dem Statue
-endlich der Augen so viel Vers!echte?? Drohen, daß Lord
-gruntndfurli etwas zurückwich
+viel sichere Gewandtheit, gleichzeitig aber auch in dem flammenden
+Blick der Augen so viel verstecktes Drohen, daß Lord
+Roger etwas zurückwich
 
-Vieüricn war’s aber gerade Dieses Heiden von angekettet
-Japan, das Effingham folge: wieder auszugleichen
-mit und Das ihn veranlaßte, den Sondieren mit jähem
-Nr per der Schulter zu packen …
+Vielleicht war’s aber gerade Dieses Zeichen von ungewisser
+Furcht, das Effingham sofort wieder auszugleichen
+suchte und Das ihn veranlaßte, den Seminolen mit jähem
+Griff bei der Schulter zu packen …
 
-Warner., 1!« feuchte er, und das Wort gurgelte Miß-Änenp
-vor ungeheurer Erregung über seine Lippen
-M: Orden eines 1chuldlojen Weibes, Zerstörer meines Liebes
-zuckt Du weißt nicht, was Du angerichtet hast!«
+»Mörder …!!« keuchte er, und das Wort gurgelte mißtönend
+vor ungeheurer Erregung über seine Lippen …
+»Mörder eines schuldlosen Weibes, Zerstörer meines Liebeglücks!
+Du weißt nicht, was Du angerichtet hast!«
 
 Paracolea packte zu, schleuderte Des anderen Hand so
-taktvoll von seiner Schulter, daß der Lord zurücktaumelte,
+kraftvoll von seiner Schulter, daß der Lord zurücktaumelte,
 
-Zaun liebste er sich stolz auf …
+Dann richtete er sich stolz auf …
 
-»Bemerke mir, Lord Effingham, daß Ich ein Mörder
-Gräfin.« Beweise es!« Er sprach ganz ruhig. Er gab die
-Beleidigung, von Effingham mit dem nicrtachlenden Du prustete
-Der worden zu sein, in derselben Weise zurück. Seine
-Haltung war stolz, fast gebieterisjh. Aber in seinem Sardinen,
-faltenreichen Aunferauuht lag wieder ein deutlicher
-Huspruf von Schwermut und Trauer.
+»Beweise mir, Lord Effingham, daß Ich ein Mörder
+bin …! Beweise es!« Er sprach ganz ruhig. Er gab die
+Beleidigung, von Effingham mit dem nichtachtenden Du angesprochen
+worden zu sein, in derselben Weise zurück. Seine
+Haltung war stolz, fast gebieterisch. Aber in seinem bartlosen,
+faltenreichen Kupfergesicht lag wieder ein deutlicher
+Ausdruck von Schwermut und Trauer.
 
-Effingham ihnen einzusehen, Das er auf biete Welke nicht
-ein Ziele fäâme. Mit einem ärgerlichen Aufladen, Dach nur
-die sorgen erfahrene den ütigung bemämeln sollte, warf er
-sich in einen erwischt und sagte ironische:
+Effingham schien einzusehen, Das er auf diese Weise nicht
+zum Ziele käme. Mit einem ärgerlichen Auflachen, das nur
+die soeben erfahrene Demütigung bemänteln sollte, warf er
+sich in einen Stuhl und sagte ironisch:
 
-»Beweisen rt! — Alles könnte ich Ihnen vornehm, Parat
-zollen … alles! Eile waren’s, der mir nachschickte« wenn ich
-Miß mit Ellen Gybourg traf. Sie Ioaren’d, der in seiner
-Klemmten Liebe für Doris, meine Gattin« — und da
-änderte sich sein Ton, wurde weich und welhmüiig — »sich
+»Beweisen?! — Alles könnte ich Ihnen beweisen, Paracolea
+… alles! Sie waren’s, der mir nachschlich, wenn ich
+mich mit Ellen Gybourg traf. Sie waren’s, der in seiner
+übergroßen Liebe für Doris, meine Gattin« — und da
+änderte sich sein Ton, wurde weich und wehmütig — »sich
 von ihr verleiten hießen, Ellen … zu ermorden, weil Doris
-in blinder Eifersucht glaubte, dar intime Beziehungen anno
-schier war und jener Tun Lande — ruht,
-ahnen mich, mach Sie mir angetan haben! Nie hätten Sie
+in blinder Eifersucht glaubte, daß intime Beziehungen zwischen
+mir und jener Frau beständen! — Paracolea, Sie
+ahnen nicht, *was* Sie mir angetan haben! Nie hätten Sie
 Doris mitteilen dürfen, daß ich mit jener Frau, die mir
-er nahegestanden, heimlich zusammenlkam, und dies Nu
+einst nahegestanden, heimlich zusammenkam, und dies nur
 <@pagebreak/>
-deshalb, um die letzten Beweise einer wilden Vergangen
-Scheit vernichten zu Dünnen, um von Ellen die Herausgabe
-meine Bildes zu fordern, Bad ich ihr eins! mir einer Ade
-Atmung geschenkt hatte! Nur deshalb wagte ich diese aus
-fammenfünfte, suchte den blinden Haß dieses Weibes, das
+deshalb, um die letzten Beweise einer wilden Vergangenheit
+vernichten zu können, um von Ellen die Herausgabe
+meine Bildes zu fordern, das ich ihr einst mit einer Widmung
+geschenkt hatte! Nur deshalb wagte ich diese Zusammenkünfte,
+suchte den blinden Haß dieses Weibes, das
 sich mir einst geradezu aufgedrängt und das dann nicht hatte
 einsehen können, wie wenig Bestand ein solches Verhältnis
-haben müßte, zu mildern, dahin zu bringen, daß Eile …
-vergessen lernte …! Eine Unselige war sie, bin und der
-schwankend zwischen der starken, wahren Sirzenäncinung zu
+haben müßte, zu mildern, dahin zu bringen, daß sie …
+vergessen lernte …! Eine Unselige war sie, hin und her
+schwankend zwischen der starken, wahren Herzensneigung zu
 ihrem Gatten John Gybourg und den Erinnerungen an
 das, was zwischen ihr und mir einst gewesen …!! Ein
 unausgeglichener Charakter, eine Frau, die allzu gern Lady
-Effingham werden wollte, die völlig umso dem Einfluß ihrer
+Effingham werden wollte, die völlig unter dem Einfluß ihrer
 intriganten Mutter stand, eines Weibes, halb Abenteurerin,
-halb Horcherin, halb Dirne … »1«
+halb Horcherin, halb Dirne …!«
 
 Paracoleas dunkle Augen hingen wie gebannt an des
 Lords nunmehr von Bart und Maske befreiten Gesicht …
 
-Als Effingham nun wie eitel spitz schwieg und mit einer
+Als Effingham nun wie erschöpft schwieg und mit einer
 trostlosen Handbewegung den Kopf sinken ließ, sagte der
 Seminole leise:
 
 »Ich … habe das alles geahnt, Mylord …! Aber —
 Sie irren sich in einem Punkte: von mir hat Doris nie etwas
-erfahren über Ihre Zusammenkünfte mit Ellen Goldring,
+erfahren über Ihre Zusammenkünfte mit Ellen Gybourg,
 nie — —!! Und niemals hat etwa Ihre Gattin mich verleitet,
-jene Frau aus dem Wege zu räumten!«
+jene Frau aus dem Wege zu räumen!«
 
 »Dann … taten Sie’s aus sich selbst heraus, Paracolea
 …!«
 
 Der Seminole blieb stumm …
 
-»Reden Sie!« drängte Effingham hastig. »Schien Ein
-offen! Wiener habe ich ja keine Sorge gehabt, daß dieser
-unselige Mord jemals noch die Öffentlichkeit wieder leid, des
-artigen könnte, Regt, wo der deutsche Detektiv hier zu allem
-Unglück mit Gybourg bekannt gepuderten ist und ich mich bereits
-einmischen 1 … übte. damit (Gybourg nicht als Hemd
-(Ofen aufgeknüpft Müll. - jetzt haften auch Sie artig Grund.
+»Reden Sie!« drängte Effingham hastig. »Seien Sie
+offen! Bisher habe ich ja keine Sorge gehabt, daß dieser
+unselige Mord jemals noch die Öffentlichkeit wieder beschäftigen
+könnte. Jetzt, wo der deutsche Detektiv hier zu allem
+Unglück mit Gybourg bekannt geworden ist und ich mich bereits
+einmischen mußte, damit Gybourg nicht als Schuldloser
+aufgeknüpft würde — jetzt haben auch Sie allen Grund,
 <@pagebreak/>
-Paracolea, mich als Verbündeten zu betrachten. Reden Stiel
+Paracolea, mich als Verbündeten zu betrachten. Reden Sie!
 Haben Sie Ellen Gybourg ermordet, damit Ihres Lieblings
-erst Glück nicht zerstört würde?«
+Doris Glück nicht zerstört würde?«
 
-Paracoleas Antlitz zeigte das gelstesabwoesende, angestrengteste
-Nachdenken.,
+Paracoleas Antlitz zeigte das geistesabwesende, angestrengteste
+Nachdenken.
 
-Minuten blieb es Stil …
+Minuten blieb es still …
 
 Bis er nun fragte — und seine Augen glitten dabei zu
 dem einen Fenster, als wollte er in der finsteren Nacht
@@ -2726,7 +2727,7 @@ irgend etwas erspähen …:
 hierher schaffen ließen, Mylord?«
 
 »er war’s … Er und sein Freund … Sie sollten
-verschwinden, Die beiden, damit ich Zeit Hände, alle Spuren,
+verschwinden, Die beiden, damit ich Zeit fände, alle Spuren,
 die auf Doris’ Mittäterschaft, auf Doris’ Urheberschaft hindeuteten,
 beseitigt wären! Denn — ich glaubte ja bisher
 ganz fest, daß Doris Sie zu dem Verbrechen verleitet hätte!
@@ -2735,168 +2736,167 @@ Eifersucht! Für mich ging’s hier um meine Ehre und
 um mein Weib! Sie, Paracolea, wollte ich auf meiner
 Jacht nach Amerika bringen, und …«
 
-Der Seminole hatte ihm durch eine Geste Schwocigen
-geboten .…
+Der Seminole hatte ihm durch eine Geste Schweigen
+geboten …
 
-»Verband …« — und seine Gestalt schien zu wachsen —,
-»Mylord, ich schlaue zurück auf Väter und Vorväter, die
-sämtlich Häuptlinge waren, die einst ganz Florida als Uhr
-Eigentum betrachteten, die Über zahllose Krieger goß::enl
-Mylord, ein Nachkomme Seegras, der untergehenden Seine
-der Seminolen, lügt nicht! Jy — — habe Ellen Gybourg
+»Mylord …« — und seine Gestalt schien zu wachsen —,
+»Mylord, ich schaue zurück auf Väter und Vorväter, die
+sämtlich Häuptlinge waren, die einst ganz Florida als ihr
+Eigentum betrachteten, die Über zahllose Krieger geboten!
+Mylord, ein Nachkomme Oceolas, der untergehenden Sonne
+der Seminolen, lügt nicht! Ich — — habe Ellen Gybourg
 nicht ermordet!«
 
 <@pagebreak/>
-<h2>5. Kapitel.</h2>
-<h3>Die Movdefipuppe,</h3>
 
-werd Roger Edward Effingham hatte sich vorgebeugt,
-he diese Heimliche Erklärung mit fortan frieren Blick hingegen
-unten.
+<h2>5. Kapitel.</h2>
+<h3>Die Modellpuppe,</h3>
+
+Lord Roger Edward Effingham hatte sich vorgebeugt,
+hatte diese feierliche Erklärung mit seltsam stierem Blick
+hingenommen.
 
 Sein Gesicht wurde jetzt bleich und schlaff. Seine Lider
-senkt. 1 sich halb …
+senkten sich halb …
 
-»kann — dann war es doch Doris, die es tat
-munkelte er, und wie ein Frostschauer ging’s über seine (See
-Gestalt bin. »Doch also … Tore! sei, ich habe
-
-es befürchtet! Ich Vunjeliger!! Wenn ich me auf den er
-Kanten neriommin wäre, von Ellen meine Photographie aus
-rücfzuverlangen!«
+»Dann — dann war es doch Doris, die es tat …«
+murmelte er, und wie ein Frostschauer ging’s über seine
+Gestalt hin. »Doch also … Doris!! Ich … ich habe
+es befürchtet! Ich Unseliger!! Wenn ich nie auf den Gedanken
+gekommen wäre, von Ellen meine Photographie
+zurückzuverlangen!«
 
 Der Seminole schwieg. Nur der Zug von Schwermut
-und Trauer trat in seiner An! noch stärker hervor …
+und Trauer trat in seinem Antlitz noch schärfer hervor …
 
-Effingham hielt dieses Schweigen mit Flocht für eine aus
-Stimmung …
+Effingham hielt dieses Schweigen mit Recht für eine Zustimmung
+…
 
-»Auch Sie also treuen denselben Verdacht, Paracolea,«
-meiner or mehrnlnig. »Mit, Sie. Und — — jede Pille
-Minute kann das Verhängnis über Doris und gleichzeitig über
-Laune, die wir mich ganzem Versen an ich hängen, belehrt
-brechen !) Gift ist frei. Und Dieser nette Gedanke
-trieb ihn von seinem riß in die Höhe. »Wo ist er, Rinde
-roten« Tiefer Mann wird die Wahrheit an den Tag bring
-nee, wird kein Verständnis dafür baten, des In Doris! Chance
-fiel das Halbwilde Knopfloch, groigezoin in dem Bug:en
-»reiben von Gosoaräherli gern, nur u fest Wieder zum
-»saubere kommst, Daß 23 Wugenbfide gibt, wo schob! mich
-»He Angelt sichert er liebt — Mr Dr Fahrt.
+»Auch Sie also hegen denselben Verdacht, Paracolea,«
+meinte er wehmütig. »Auch Sie …! Und — — jede Minute
+kann das Verhängnis über Doris und gleichzeitig über
+uns, die wir mit ganzem Herzen an ihr hängen, hereinbrechen
+…! Harst ist frei!!« Und Dieser neue Gedanke
+trieb ihn von seinem Sitz in die Höhe. »Wo ist er, Paracolea?
+Dieser Mann wird die Wahrheit an den Tag bringen,
+wird kein Verständnis dafür haben, daß In Doris’ Charakter
+das halbwilde Naturkind, großgezogen in dem bunten
+Treiben von Goldgräberlagern, nur zu leicht Wieder zum
+Durchbruch kommt, daß es Augenblicke gibt, wo selbst mich
+ihre Zügellosigkeit erschreckt …! — Wo ist Harst?«
 
-»Brausen, hinkend … tranken Im roten — Irgendwo
-. Wir hörten das Anmelden Rüben … he verließ
-riecht seinem Freunde dieses Zaun,..«
+»Draußen, Mylord … draußen Im Freien — irgendwo
+… Wir hörten das Motorboot nahen … Da verließ
+er mit seinem Freunde dieses Häuschen …«
 
-Harald stand schon aus Der Achtecke …
+Harald stand schon auf Der Schwelle …
 
-lautlos hatte er sich von eine gt, daß die beiden
+So lautlos hatte er sich vorwärtsbewegt, daß die beiden
 <@pagebreak/>
-Männer erschrocken beim Klange seiner Stimme herum
-Ehren …
+Männer erschrocken beim Klange seiner Stimme herumfuhren
+…
 
-»je war gut, daß Ich Sie belauschen konnte,« sagte er
+»Es war gut, daß Ich Sie belauschen konnte,« sagte er
 freundlich. »Es hat uns lange Erörterungen erspart und
-mir ein unversälsc des Bild von Achtziger beiden gegeben, —
-Sie, Mylord, branden sich jedoch Ihrer Gattin wegen ebensowenig
+mir ein unverfälschtes Bild von Ihnen beiden gegeben. —
+Sie, Mylord, brauchen sich jedoch Ihrer Gattin wegen ebensowenig
 zu beunruhigen, wie Sie, Paracolea, es Ihres
-Lieblings und Echt;ütßzlings wegen tun. Doris Lady Effingham
-ist nicht echt Ellen GybouraA Mörderin Und schien wohl
-hat ein Verbrechen einen solchen Irrgarten zuschlichen Argwöhne
+Lieblings und Schützlings wegen tun. Doris Lady Effingham
+ist *nicht* Ellen Gybourgs Mörderin. Und selten wohl
+hat ein Verbrechen einen solchen Irrgarten falschen Argwohns
 hervorgerufen wie dieses. Denn — nicht nur, das
 Sie, Mylord, zunächst den Seminolen und Ihre Gattin im
 Verdacht der Täterschaft hatten, — nein, auch Ihre Frau
 hat offenbar bisher angenommen, daß für diese Tat zwei
-ihr besonders nahestehende Personen in Betracht kamen:
+ihr besonders nahestehende Personen in Betracht kämen:
 Sie, ihr Mann, ihr Gemahl, und zweitens ihr väterlicher
-Freund und alter Betet ’üßer Paracolea! — So hat von
+Freund und alter Beschützer Paracolea! — So hat von
 Ihnen dreien immer einer den anderen beargwöhnt, hat
-alles getan, um den Betircssenden zu sollten, was — nicht
-nötig gewesen wäre, da der wahre Mörder. anderêävo Nu
-Eunuchen ist … — Bitte, Diniert, Fragen Sie jetzt nichts. Verlassen
-Sie sofort mit dein Motorboot die Insel, nehmen Sie
-Paracolcea mit und auch Tom und harrt, die dringend
-grell her Behandlung bestiegen. Stellen Sie beide sich dann
-morgen oder besser jene vormittag elf Uhr am Tatorte ein.
+alles getan, um den Betreffenden zu schützen, was — nicht
+nötig gewesen wäre, da der wahre Mörder anderswo zu
+suchen ist … — Bitte, Mylord, fragen Sie jetzt nichts. Verlassen
+Sie sofort mit dem Motorboot die Insel, nehmen Sie
+Paracolcea mit und auch Tom und Charly, die dringend
+ärztlicher Behandlung bedürfen. Stellen Sie beide sich dann
+morgen oder besser heute vormittag elf Uhr am Tatorte ein.
 Dort will ich Ihnen erklären, wie das Verbrechen verübt
-wurde, das in seiner ganzen Art vielleicht einzig tastend! —
-Geben Sie …! Auf Wiedersehen! Und Seen Sie guten
-Krankes, Mylord! Sie haben als Sann gelämpfst — für Ehre
-und Weib, haben mit großer Selbsilosiakeit John Gybourg
+wurde, das in seiner ganzen Art vielleicht einzig dasteht! —
+Gehen Sie …! Auf Wiedersehen! Und seien Sie guten
+Mutes, Mylord! Sie haben als Mann gekämpft — für Ehre
+und Weib, haben mit großer Selbstlosigkeit John Gybourg
 befreit … Und hier — diese Photographie ohne Kopf, die
-Ellen als das B’ld einst Toten gebeugte einer bat, darf
-wohl dort den Rlamn’en übergeben …«
+Ellen als das Bild eines Toten gekennzeichnet hat, darf ich
+wohl dort den Flammen übergeben …«
 
-Er hatte das Wir ans der Sache gezogen, trat an den
-Ofen heran und war’s es in die Glut.
+Er hatte das Bild aus der Tasche gezogen, trat an den
+Ofen heran und warf es in die Glut.
 
 <@pagebreak/>
 Effingham und der Seminole verließen mit tiefer Verbeugung
-das Häâvschen. —
+das Häuschen. —
 
-Wir hörten das Wintorboot davonfahren …
+Wir hörten das Motorboot davonfahren …
 
 Wir beeilten uns, nahmen eine Laterne und befreiten
-he: alten Tobby, dem wir genügend Lebensmittel und Trink-wier
+den alten Tobby, dem wir genügend Lebensmittel und Trinkwasser
 dagelassen hatten, so daß er uns nun mürrisch, aber
-irr) und kräftig wieder zu seinem Häuschen folgte.
+frisch und kräftig wieder zu seinem Häuschen folgte.
 
 Harald erklärte ihm, was es in diesem Falle zu erklären
-paar. Tobby blieb stumm. Ihn Kraxele e&, daß es uns gelungen
+gab. Tobby blieb stumm. Ihn ärgerte es, daß es uns gelungen
 war, uns zu befreien und ihn dann einzusperren.
-Erst als Harald betonte, daß Lord Effingham Um, dem braven,
+Erst als Harald betonte, daß Lord Effingham ihm, dem braven,
 treuen Tobby, keinerlei Vorwürfe dieserhalb machen
-würde, taute der Alte aus und meinte bissig:
+würde, taute der Alte auf und meinte bissig:
 
 »Eine Gemeinheit war’s doch, Mister, so zwei junge
-Leite, wie Sie, gegen mich alten klapprigen Seebär! Na —
+Leute, wie Sie, gegen mich alten klapprigen Seebär! Na —
 dreißig Jahre früher, — da wäre die Geschichte Ihnen wohl
 übel bekommen!«
 
 Harst stieß lachend die Tür des Häuschens auf …
 
-Und schyunzelnd betrat ich hinter im das lbicu erleuchicete
+Und schmunzelnd betrat ich hinter im das hell erleuchtete
 Stübchen, während old Tobby neben mir brummte: »Da
-gibvi’s nicht« zu lachen! Vor dreißig Jahren ferne ich einen
-Sitten mit der Faust niederschlagen — auch zwei, wenn
+gibt’s nichts zu lachen! Vor dreißig Jahren konnt’ ich einen
+Ochsen mit der Faust niederschlagen — auch zwei, wenn
 nötig!!«
 
 Aber — diesem groben Witz folgte etwas anderes …
-Formte ein brach Zuruf einer Frauenstimme …
+Folgte ein heller Zuruf einer Frauenstimme …
 
-Und hinter den tief hexobreicenden Fenstervorhängen
+Und hinter den tief herabreichenden Fenstervorhängen
 hervor erschienen Lady Doris Effingham und zwei
-Männer in Chauffecurtracht, alle drei aber mit langen
-Gummimänteln, die vor Wälle trieften …
+Männer in Chauffeurtracht, alle drei aber mit langen
+Gummimänteln, die vor Nässe trieften …
 
-Lady Doris wär’, die uns angerufen hatte …
+Lady Doris wär’s, die uns angerufen hatte …
 
-»Zwingen Sie nicht nicht, Mister Harst, Gewalt zu ge
-brauchen!!«
+»Zwingen Sie nicht nicht, Mister Harst, Gewalt zu gebrauchen!!«
 
 Und sie deutete auf ihre beiden Begleiter …
 
-Diese glattrasierten Männer mit den typisch anvertraute
-sehen Gesichtern standen da, hielten derbe Künste vorgereckt,
+Diese glattrasierten Männer mit den typisch amerikanischen
+Gesichtern standen da, hielten derbe Fäuste vorgereckt,
 <@pagebreak/>
-und diese Fäuste umklammerten die dunklen Kolben dunkles
+und diese Fäuste umklammerten die dunklen Kolben dunkler
 Repetierpistolen …
 
-Harald lächelte, verbeugte Ah …
+Harald lächelte, verbeugte sich …
 
-»Anstatt — ein Irrtum! Wenn Sie fürchten, daß Ei
+»Mylady — ein Irrtum! Wenn Sie fürchten, daß ich
 mich an Ihrem Gatten vergriffen haben könnte, wenn Sie
 annehmen, ich hielte ihn hier jetzt gefangen und wollte ihn
 etwa als Mörder Ellen Gybourgs der Polizei übergeben, so
 beurteilen Sie die Lage falsch. Ihr Gatte und Paracolea
 sind im Motorboot unterwegs nach Harwich — als gute
 Freunde. — Ich denke, Sie werden auf der anderen Seite
-der Insel gelandet sein, Mylady. »Museen Sie hier fünf Mr:
+der Insel gelandet sein, Mylady. Wären Sie hier fünf
 Minuten früher erschienen, hätten Sie Ihren Gemahl noch begrüßen
 können. Ich bitte, daß Sie uns beide in Ihrem Boot
-mit hinüber aus Festland nehmen. Vormittags elf Uhr
+mit hinüber aufs Festland nehmen. Vormittags elf Uhr
 erfolgt nämlich am Tatort die endgültige Aufklärung des
-Verbrechens. — Geben wir, Mylady, damit wir wenigstens
+Verbrechens. — Gehen wir, Mylady, damit wir wenigstens
 noch ein paar Stunden der Ruhe pflegen können.« —
 
 So verließen denn auch wir zusammen mit Lady Doris
@@ -2907,61 +2907,61 @@ genommen hatte.
 Ihr Auto wartete unweit Harwich auf einer Seitenstraße.
 Um fünf Uhr früh waren wir in London und in dem Hotel
 der Bagaller-Street — als holländische Kaufleute, nicht mehr
-als Harst und Schraut. — John Gybourg empfing und mit
+als Harst und Schraut. — John Gybourg empfing uns mit
 strahlendem Gesicht. »Ich fürchtete schon, daß Ihnen etwas
 zugestoßen wäre,« meinte er, uns immer wieder die Hände
-Schluckend.
+drückend.
 
 »Ja — wir haben ja auch so manches erlebt, lieber Gybourg,«
 nickte Harald gähnend. »Aber das hören Sie um
-neun Uhr vormittags. Sehnt will Ich schlafen und um neun
-geweckt sein. — Gute Nacht … — —
+neun Uhr vormittags. Jetzt will Ich schlafen und um neun
+geweckt sein. — Gute Nacht …« — —
 
 Und dann — dann kam die Aufklärung des Falles
 Gybourg …
 
 Ich, ebensowenig John Gybourg, ahnte auch nicht im
 <@pagebreak/>
-entfernteftien, was sich ereignen mürbe, ol& Dick warnend
+entferntesten, was sich ereignen würde, als sich morgens
 ein Viertel zehn Uhr Harald entfernte und nur erklärte:
-»Zunft elf Uhr seid Ihr drüben bei Frau Marmarty. ich
+»Punkt elf Uhr seid Ihr drüben bei Frau Marmarty. ich
 werde sie vorbereiten. Und Sie, lieber Gybourg, schützt Ihre
-tadellose Verkleidung vollständig vor dem Wiedcrerkannt-werden.
-Im übrieen — er!Stecken Sie nicht, wenn Sie
+tadellose Verkleidung vollständig vor dem Wiedererkanntwerden.
+Im übrigen — erschrecken Sie nicht, wenn Sie
 drüben auch Detektivinspektor Colley vorfinden. Er soll der
 erste sein, der Sie zu Ihrer endgültigen Lossprechung von
-diesem Verdacht begllickwünfcht.«
+diesem Verdacht beglückwünscht.«
 
-Dann ging er — ging in der Male?he des Holländers Da,
-von, und wir be?Amen ihn erst eine Stunde später zu (es
-sich!, wie er, von einem Dienstmann mit einer großen Modellpuppe
-geschah, das Haus Nr. 15 betrat.
+Dann ging er — ging in der Maske des Holländers Davon,
+und wir bekamen ihn erst eine Stunde später zu Gesicht,
+wie er, von einem Dienstmann mit einer großen Modellpuppe
+gefolgt, das Haus Nr. 15 betrat.
 
-Daß Gybourg und ich mit äußerster Ungeduld der Guts
-scheidenden Stunde entgegensahen, wird Jeder begreifen.
+Daß Gybourg und ich mit äußerster Ungeduld der entscheidenden
+Stunde entgegensahen, wird Jeder begreifen.
 Endlich — endlich dann … fünf Minuten vor elf …
 
-Da fuhr auch schon vor Nr 15 ein elegantes Auto vor,
-dem Lady Doris, ihr Gatte und der Seminole entfstiegcn.
+Da fuhr auch schon vor Nr. 15 ein elegantes Auto vor,
+dem Lady Doris, ihr Gatte und der Seminole entstiegen.
 
 Da kam ein zweites Auto, und dieses brachte Inspektor
 Colley herbei. —
 
-Wir gingen hinüber. Ein älteres Hau8Wmädchen öffnete
-Uns die Flurtülz, John Gybourg atmete schwer, war bleich
-und aufrollend. Der in Diesen Könnten hatte er ja sein Ehe
-Strengsten. Wer fand er noch dieselben Möbel im großen
-echesieunms der, Die Ellen Mainacht als Ausstiegen sich
-angeklopft hatte. da sie über eigenes Vermögen verstünde
+Wir gingen hinüber. Ein älteres Hausmädchen öffnete
+Uns die Flurtür. John Gybourg atmete schwer, war bleich
+und aufgeregt. Hier in diesen Räumen hatte er ja sein Eheglück
+genossen, hier fand er noch dieselben Möbel im großen
+Speisezimmer vor, Die Ellen Marmarty als Aussteuer sich
+angeschafft hatte, da sie über eigenes Vermögen verfügte.
 
 Und hier im Speisezimmer saßen links vom Tische im
 Halbkreis die Zeugen der denkwürdigen Enthüllung des
 rätselhaften Verbrechens,
 
-Da saß auch die hagere, schlanke Frau Mainacht, ein
-Weib von einigem Netz trotz ihrer Jahre …
+Da saß auch die hagere, schlanke Frau Marmarty, ein
+Weib von einigem Reiz trotz ihrer Jahre …
 
-Ein Weib mit dem fcharjumriffenen Charakterkopf einer
+Ein Weib mit dem scharfumrissenen Charakterkopf einer
 ungewöhnlichen Frau,
 
 Das rechte Fenster neben dem Büfett stand weit offen,
@@ -2969,63 +2969,63 @@ und vor diesem Fenster wieder stand die Modellpuppe —
 lebensgroß, oben mit schwarzem Stoff überzogen …
 
 <@pagebreak/>
-Harst lehne am Futter, reichte mir einen Brief …
+Harst lehnte am Fenster, reichte mir einen Brief …
 
-»Sobald j:ich hier enges êrrciaqnet, öffnest zu den Brief
-und liest ihn vor,« sagte er kurz, verbeugte sich und den
-schwand …
+»Sobald sich hier etwas ereignet, öffnest Du den Brief
+und liest ihn vor,« sagte er kurz, verbeugte sich und
+verschwand …
 
 Auch für Gybourg und mich waren Stühle bereit. Wir
 nahmen Platz …
 
 Inspektor Colley rief mir nach einigen Minuten zu:
-»Was soll das alles, Mr. Schrauts?! Für derlei Theater ist
+»Was soll das alles, Mr. Schraut?! Für derlei Theater ist
 ein Beamter wie ich denn doch zu …«
 
-Da — ein Griff von drüben der, vom Toter …
+Da — ein Pfiff von drüben her, vom Hotel …
 
-Und vor: fremd Freund Harald im offenen Fenster
+Und dort stand Freund Harald im offenen Fenster
 unseres Wohnsalons …
 
-Stand und trollte mit dem rechten Arm nach hinten aus.
-he in der recht, ten Hand blitzte entzog rohe ein langes
-leiser …
+Stand und holte mit dem rechten Arm nach hinten aus.
+Und in der rechten Hand blitzte etwas wie ein langes
+Messer …
 
 es war — das sizilianische Dolchmesser — die Mordwaffe,
-und von Haralds sicherer Hand qi schleudert, flog sie
-nun wie ein mit lies: die schmale Straße hinweg …
+und von Haralds sicherer Hand qeschleudert, flog sie
+nun wie ein Blitz über die schmale Straße hinweg …
 
-Hier Im Zimmer ein dunkler Schlag …
+Hier Im Zimmer ein dumpfer Schlag …
 
-In der Brust der Modellpuppe stete der Dolch … —
+In der Brust der Modellpuppe steckte der Dolch … —
 
 Ich begriff jetzt alles, riß den Brief auf, las vor:
 
-»Die Wo. Enkelin Ellen Gybourgs bog:na die Tat so, tote
-I’s soeben an dem Modell voructühr: habe. Die Mörderin
-ist Ellens Siuiesmutier Witzig Viarmar1iyn, dereinst Warteten
-kfünfilerin, Kunstiübin, Messerwerfer:n. Sie wohnte zur
-Zeit des Mordes hier In diesen Hotelzimmern, die ich Ich!
-betont habe. Sie mordete, um zu verheimlicht en, daß sie einen
-großen Teil des Vorn Agent ihrer Tochter vertrieb! hatte
-Breitere Kinzelbeiten mündlich. Harald Harst« —
+»Die Mörderin Ellen Gybourgs beging die Tat so, wie
+ich’s soeben an dem Modell vorgeführt habe. Die Mörderin
+ist Ellens Stiefmutter Lizzia Marmarty, dereinst Varieteekünstlerin,
+Künstlerin, Messerwerferin. Sie wohnte zur
+Zeit des Mordes hier In diesen Hotelzimmern, die ich jetzt
+belegt habe. Sie mordete, um zu verheimlichen, daß sie einen
+großen Teil des Vermögens ihrer Tochter verspielt hatte.
+Weitere Einzelheiten mündlich. Harald Harst.« —
 
-Sprecher sollen fegte nur noch Frau Marmartne
-Leiche besccagnabmen, Sie hatte sich vergiftet, als ich arm
-die Tale Des Geistes versehen Lila ginge Wir 25
+Inspektor Colley konnte nur noch Frau Marmartys
+Leiche beschlagnahmen. Sie hatte sich vergiftet, als ich kaum
+die Hälfte Des Briefes verlesen hatte — mit Zyankali …
 Sie starb, bevor Harald noch wieder hier drüben erschienen
 war — —
 
-ob habe nur noch hinzuzufügen, daß Paracolea jetzt
-Sie verwaltet bei Lord Gfüngban ist und daß Lady
+Ich habe nur noch hinzuzufügen, daß Paracolea jetzt
+Schloßverwalter bei Lord Effingham ist und daß Lady
 <@pagebreak/>
 Doris und letztens zur Taufe des Stammhalters eingeladen
-hat Wir werden dann fraglos ein paar vergnügte Tage in
+hat. Wir werden dann fraglos ein paar vergnügte Tage in
 England verleben. —
 
-Im Anschluß an bietet Abenteuer ereignete sich dann
+Im Anschluß an dieses Abenteuer ereignete sich dann
 jene seltsame Entführungsgeschichte, die ich im nächsten Band
-eingehend schildern will, da. die Personen, die Örtlichkeit und
+eingehend schildern will, da die Personen, die Örtlichkeit und
 die geheimnisvollen Begleitumstände eine so genaue Wiedergabe
 durchaus verdienen.
 
