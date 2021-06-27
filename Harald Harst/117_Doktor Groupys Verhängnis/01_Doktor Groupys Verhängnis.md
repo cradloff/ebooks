@@ -73,7 +73,7 @@ ein Zettel gebunden …
 Wir lasen den Zettel — eine energische, schmucklose Handschrift:
 
 > »Mister Harst, falls Sie versprechen, mich nicht etwa
-der Polizei auszuliefern, will ich Ahnen meine traurige
+der Polizei auszuliefern, will ich Ihnen meine traurige
 Geschichte selbst auf die Gefahr hin, daß Sie mir nicht
 glauben, erzählen, und Sie dann vielleicht bitten, mir zu
 helfen. — Sollten Sie diese Zusicherung geben wollen, so
@@ -89,7 +89,7 @@ Groupy beim Hineinklettern.
 
 Groupy stand vor uns …
 
-Er war legt nicht mehr verkleidet …
+Er war jetzt nicht mehr verkleidet …
 
 Ein schlanker Mann mit bartlosem, klugem Gesicht und
 lebhaften Augen, etwa fünfundvierzig Jahre alt …
@@ -177,7 +177,7 @@ nur ich!!
 Und da — da floh ich, schlug den Detektivinspektor Colley
 nieder und rannte auf die Straße, entwischte …«
 
-Er keuchte, zitierte …
+Er keuchte, zitterte …
 
 Hob nun den Blick …
 
@@ -481,7 +481,7 @@ bildete den Anlaß zu jenen Eifersuchtsszenen. Ich glaubte
 Ellen nicht, daß sie den Menschen nicht näher kenne. Zwar
 versöhnten wir uns, doch die steten Zweifel an ihrer Aufrichtigkeit
 beschworen stets aufs neue häßliche Auftritte
-herauf. — Ich zertrümmerte Ellens Rad und Verbot ihr, das
+herauf. — Ich zertrümmerte Ellens Rad und verbot ihr, das
 Haus ohne mich zu verlassen … Und dann — dann versöhnten
 wir uns wiederum, bis mein nie zur Ruhe kommendes
 Mißtrauen mich verleitete, Ellens Sachen aus ihrer
@@ -526,7 +526,7 @@ Photographen ausradiert und auch von der über dem Stempel
 stehenden, mit Tinte geschriebenen Widmung war nur
 noch übriggeblieben ein
 
-> \i und ein a.
+> i und ein a.
 
 Harald legte Briefumschlag und Bild auf den Tisch …
 fragte:
@@ -594,7 +594,7 @@ Sie speisten auf ihrem Zimmer zu Abend, und dann,
 als der alte, behäbige Kellner das Geschirr wieder abgeräumt
 hatte, rief der eine der Holländer den Diener herein.
 
-»So«,« sagte Harald zu Doktor Gybourg, »so, nun sind
+»So,« sagte Harald zu Doktor Gybourg, »so, nun sind
 wir unter uns, Doktor. Und nun zeigen Sie mir mal von
 hier aus die Anordnung der Räume Ihrer früheren Wohnung.
 — Schalte das Licht aus, mein Alter … Wir wollen
@@ -824,7 +824,7 @@ Das Fenster flog auf …
 
 Harst schritt vorwärts …
 
-Da rief der Alte und entgegen:
+Da rief der Alte uns entgegen:
 
 »He — es ist verboten, die Insel zu betreten!«
 
@@ -872,7 +872,7 @@ Harald mich vor.
 »Ja — dann können wir ja nun gehen,« meinte Tobby
 bedächtig. »Warten Sie, ich komme …«
 
-<h2>4, Kapitel.</h2>
+<h2>4. Kapitel.</h2>
 <h3>Verse am Fenster.</h3>
 
 Er kam, hatte einen Ölhut über den Schädel gezogen,
@@ -915,7 +915,7 @@ lehnte sie an die schroffe Felswand und stieg empor …
 Acht Meter über dem Boden bildete die Steinwand
 eine schmale Terrasse, die allmählich, ein gangbarer Pfad,
 sich höherzog bis zu einem durch die Krone einer prächtigen
-Eiche verdecken Felsloche …
+Eiche verdeckten Felsloche …
 
 »So,« sagte Tobby, »dies ist nun der Eingang zu der
 Höhlenwohnung, Mister Gybourg … Während des Krieges
@@ -945,7 +945,7 @@ und — — einer Sende- und Empfangsstation für Funkentelegraphie!
 —
 
 Wollte ich diese Atelierwohnung im einzelnen beschreiben,
-dann müßte ist dazu drei Seiten Manuskript verwenden,
+dann müßte ich dazu drei Seiten Manuskript verwenden,
 und das ginge nicht, das würde den Lauf der Handlung
 zu sehr hemmen.
 
@@ -1023,7 +1023,7 @@ Er hielt inne …
 Dort rechts der große Tisch, darüber die Schaltbretter,
 — der Tisch mit den Radioapparaten …
 
-Und — von dort der kam ein schnarrendes Ticken …
+Und — von dort her kam ein schnarrendes Ticken …
 
 Dort lief ein Papierstreifen von einer Rolle ab — ein
 schmaler Streifen — das Band eines Fernschreibers …
@@ -1122,8 +1122,8 @@ hervor …
 
 »Schuft, Betrüger!!« brüllte er — und eine Stimme
 hatte der Seebär, die nicht nach Musik klang … »Bleibt, wo
-Ihr seid!! Bleibt sehen, rührt Euch nicht, bis mein Tränkchen
-wirkt! Ihr dachtet wohl, ich hätte ich meinem Häuschen
+Ihr seid!! Bleibt stehen, rührt Euch nicht, bis mein Tränkchen
+wirkt! Ihr dachtet wohl, ich hätte in meinem Häuschen
 keinen Apparat!! Na — Ihr irrt Euch!!«
 
 Harst — mein alter Harald Harst war in dieser kritischen
@@ -1193,7 +1193,7 @@ irgend jemand hierher kommt, der Dir lästig ist, dann
 brauchst Du ihm nur einen Whisky aus dieser Flasche anzubieten,
 und nach fünf Minuten schläft der Betreffende fest
 wie ein Murmeltier und wird auch vor zwölf Stunden nicht
-erwachen.« — Ich hab die Flasche nie zu benutzen brauchen.
+erwachen.« — Ich hab’ die Flasche nie zu benutzen brauchen.
 Aber Mylord ließ sie sich zuweilen geben, wenn — wenn —«
 
 Er verstummte und blickte hilflos zu Boden …
@@ -1250,7 +1250,7 @@ des Senders.
 
 Dann verließen wir die Grotte.
 
-Nach genau dasselbe tat Harald in Tobbys Häuschen.
+Und genau dasselbe tat Harald in Tobbys Häuschen.
 
 <@pagebreak/>
 
@@ -1335,7 +1335,7 @@ Tobby war plötzlich verschwunden, als aus dem Ende
 des Schachtes eine Leiter weiter nach unten führte …
 
 Harsts Taschenlampe sandte ihren grellen Lichtkegel durch
-eine kaum drei Meter Breite, langgestreckte Felshöhle hin —
+eine kaum drei Meter breite, langgestreckte Felshöhle hin —
 hierhin, dorthin …
 
 Harst sprang von der Leiter auf den harten Granitboden,
@@ -1445,7 +1445,7 @@ Und — hatte die Arme hochgereckt, hatte eine quadratische
 Steintafel der Decke wie eine Falltür nach unten klappen
 lassen — eine Platte von quadratischer Form …
 
-Und von oben her fiel tun wieder Tageslicht durch eine
+Und von oben her fiel nun wieder Tageslicht durch eine
 glatte, gerade Spalte zu uns herein — durch eine Spalte, in
 der — eine Leiter hing.
 

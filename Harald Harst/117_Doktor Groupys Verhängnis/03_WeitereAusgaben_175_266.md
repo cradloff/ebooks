@@ -3,7 +3,7 @@
 <div style="font-size: xx-large; text-align: center;">Weitere Ausgaben</div>
 <div style="font-size: large; text-align: center;">unserer Harst-Abenteuer</div>
 
-<table style="table-layout:fixed; font-size: x-small;">
+<table style="table-layout:fixed; font-size: xx-small;">
 <tr><td style="width: 50%">175. Die Taubenzüchter.</td><td style="width: 50%">221. Der große Schwindlerkonzern.</td></tr>
 <tr><td>176. Harsts schwerstes Problem.         </td><td>222. Bedingt begnadigt.</td></tr>
 <tr><td>177. Die Geschichte eines Irrsinnigen.  </td><td>223. Die Göttin der Wyndhiaberge.</td></tr>
@@ -32,9 +32,9 @@
 <tr><td>200. Die Hand Gottes.                   </td><td>246. Der Kalender der Murvays.</td></tr>
 <tr><td>201. Der leere Zettel.                  </td><td>247. Kastell Mondalar.</td></tr>
 <tr><td>202. Die Zigarren des Mister Goulderlay.</td><td>248. Das Gasthaus zur weißen Ratte.</td></tr>
-<tr><td>203.                                    </td><td>249. Die goldene Glocke.</td></tr>
+<tr><td>203. Henny Garlans Zauberschloß.        </td><td>249. Die goldene Glocke.</td></tr>
 <tr><td>204. Der Mann m. den Mäusen.            </td><td>250. Der brennenden Wald.</td></tr>
-<tr><td>205.                                    </td><td>251. Irinas Verhängnis.</td></tr>
+<tr><td>205. Drei Löwen.                        </td><td>251. Irinas Verhängnis.</td></tr>
 <tr><td>206. Das Höllentor von Adagaru.         </td><td>252. Die Hexe von Malvetta.</td></tr>
 <tr><td>207. Dschungelgeheimnisse.              </td><td>253. Chuna Dangi, das weiße Rätsel.</td></tr>
 <tr><td>208. Singh Gabru, der Pirat.            </td><td>254. Der Schädel mit den Goldzähnen.</td></tr>

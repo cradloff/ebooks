@@ -34,7 +34,7 @@ Der Diener springt herab, reißt die Tür auf …
 Drei Herren steigen aus …
 
 Der eine der Typ des vornehmen Engländers, blondbärtig,
-bärtig überschlank …
+überschlank …
 
 Der zweite etwas kleiner, straff in der Haltung, bartlos
 das Gesicht, eine kühne, messerscharfe Nase, merkwürdig graue
@@ -99,7 +99,7 @@ Und Walltour sagt zu Lady Effingham:
 »Heute mittag überraschte mich mein lieber alter Harald
 durch seinen Besuch … Das war eine Freude. — Und
 nun bringe ich Ihnen diesen prächtigen Menschen und seinen
-ebenso prächtigen Freund Schraut, Mylady. …! Zwei
+ebenso prächtigen Freund Schraut, Mylady …! Zwei
 Künstler — Künstler auf einem besonderen Gebiet …«
 
 Und zu den Anwesenden gewandt:
@@ -117,7 +117,7 @@ Lady Doris hatte sich längst gefaßt …
 Sie hieß uns beide nun willkommen, in allem die Dame
 von Welt, in allem die Aristokratin …
 
-Und doch hatte ihr Vater Niels Randerfield seine Glückslaufbabn
+Und doch hatte ihr Vater Niels Randerfield seine Glückslaufbahn
 als Goldgräber begonnen … —
 
 Zehn Minuten später — inzwischen waren noch einige
@@ -125,7 +125,7 @@ zwanzig neue Gäste erschienen — standen Harald und ich im
 Musiksalon und ließen eine übermoderne Opernouvertüre
 unsere Ohren malträtieren …
 
-Der Künstler am Flügel war ein Rasse, der Komponist
+Der Künstler am Flügel war ein Russe, der Komponist
 selbst …
 
 <@pagebreak/>
@@ -675,7 +675,7 @@ Bündel zu mir gekommen …
 
 Lag irgendwo, wo’s nach Benzin stank …
 
-Konnte nichts sehen. Nur Hören, riechen und fühlen …
+Konnte nichts sehen. Nur hören, riechen und fühlen …
 
 Roch Benzin, hörte einen Automotor leer laufen, fühlte
 mich emporgehoben, in eine Polsterecke gedrückt …
@@ -754,7 +754,7 @@ flüsterte: »Halt’s Maul, Tom! Rudere lieber!«
 
 Mithin stimmte es: Tom und Charly, die Helfershelfer
 Lord Effinghams, waren unsere Begleiter! Unsere Wächter!
-Und der Lord hatte uns Überfallen und niederschlagen lassen!
+Und der Lord hatte uns überfallen und niederschlagen lassen!
 
 Weshalb — — weshalb?
 
@@ -883,7 +883,7 @@ Englisch:
 »Ich werde Ihnen beiden die Knebel abnehmen. Ich
 habe mich davon überzeugt, daß wir drei zurzeit die einzigen
 lebenden Menschen hier auf diesem Inselchen sind. Sollten
-Sie aber um Hilfe rufen, so — Schlage ich auch Ihnen die
+Sie aber um Hilfe rufen, so — schlage ich auch Ihnen die
 Schädel ein.«
 
 Der Indianer sprach das letzte mit so vollkommener
@@ -921,7 +921,7 @@ Palast eines Lords …«
 Die dunkle Gestalt schwieg eine Weile …
 
 »Wir befinden uns in der gleichen Lage,« meinte Paracolea
-dann. »Ich werde Ihren auch die Fesseln abnehmen.
+dann. »Ich werde Ihnen auch die Fesseln abnehmen.
 Dies ist eine Nacht, wie ich viele erlebt habe, als ich noch
 drüben in Amerika, meiner Heimat, als Jäger die Sonora
 durchstreifte und das Goldgräberlager mit Fleisch versorgte.«
@@ -932,7 +932,7 @@ Dann stolzer — lauter:
 
 »Ich bin Paracolea, ein Nachkomme jenes Seminolenhäuptlings
 Oceola, den der Schriftsteller Cooper in dem
-Roman »Oceola, die untergehende Sonne der Seminolen«
+Roman »Oceola, die untergehende Sonne der Seminolen<@refnote 2/>«
 verewigt hat …«
 
 Er zerschnitt unsere Stricke …
@@ -974,7 +974,7 @@ Das trockene Holz erzeugte eine ungeheure Glut, die durch
 die offene Ofentür in breiter Bahn in die Stube drang.
 
 Vor dem Ofen lag ein Fellteppich. Paracolea, der einen
-Sportanzug trug, diesen Sitz und Stoff durch das Unwetter
+Sportanzug trug, dessen Sitz und Stoff durch das Unwetter
 genau so gelitten hatten wie unsere Gesellschaftsanzüge, ließ
 sich jetzt mit untergeschlagenen Beinen gleichfalls vor dem
 Ofen nieder, legte die Arme auf die Knie und starrte unverwandt
@@ -1022,7 +1022,7 @@ Der Seminole schwieg und starrte in die Glut.
 Wir beide verließen das Häuschen.
 
 Draußen atmete ich erleichtert auf, zumal der Regenguß
-vorüber war und ein frischer, angenehmer Wind, die Nachtklänge
+vorüber war und ein frischer, angenehmer Wind, die Nachklänge
 des Sturmes, uns umwehte.
 
 Dunkle Wolkenmassen flogen noch über das nächtliche
@@ -1036,7 +1036,7 @@ hinabeilten …
 
 »Das hängt davon ab, wer dort naht …«
 
-Und er zeigte geradeaus aus die finstere Fläche der Harwich-Bucht,
+Und er zeigte geradeaus auf die finstere Fläche der Harwich-Bucht,
 wo die Lichter eines kleinen Fahrzeugs blitzten
 und rasch näherkamen.
 
@@ -1086,7 +1086,7 @@ waren kunstlose Verbände aus Zeugfetzen geschlungen …
 »Sie leben, sind nur bewußtlos … — Ah — es sind Ausländer,
 beide … Da — dieser Schädelbau und dieses
 brandrote Haar sind nur in Irland anzutreffen, und die
-Hirndecke eines Iren konsultiert an Festigkeit mit der eines
+Hirndecke eines Iren konkurriert an Festigkeit mit der eines
 Negers. — Der Seminole glaubt, die beiden erschlagen zu
 haben, hat aber trotzdem, weil noch Leben in ihnen war die
 Verletzungen verbunden. Ich wußte, daß dieser Paracolea
@@ -1193,7 +1193,7 @@ sich in einen Stuhl und sagte ironisch:
 mich mit Ellen Gybourg traf. Sie waren’s, der in seiner
 übergroßen Liebe für Doris, meine Gattin« — und da
 änderte sich sein Ton, wurde weich und wehmütig — »sich
-von ihr verleiten hießen, Ellen … zu ermorden, weil Doris
+von ihr verleiten ließen, Ellen … zu ermorden, weil Doris
 in blinder Eifersucht glaubte, daß intime Beziehungen zwischen
 mir und jener Frau beständen! — Paracolea, Sie
 ahnen nicht, *was* Sie mir angetan haben! Nie hätten Sie
@@ -1202,7 +1202,7 @@ einst nahegestanden, heimlich zusammenkam, und dies nur
 <@pagebreak/>
 deshalb, um die letzten Beweise einer wilden Vergangenheit
 vernichten zu können, um von Ellen die Herausgabe
-meine Bildes zu fordern, das ich ihr einst mit einer Widmung
+meines Bildes zu fordern, das ich ihr einst mit einer Widmung
 geschenkt hatte! Nur deshalb wagte ich diese Zusammenkünfte,
 suchte den blinden Haß dieses Weibes, das
 sich mir einst geradezu aufgedrängt und das dann nicht hatte
@@ -1215,7 +1215,7 @@ das, was zwischen ihr und mir einst gewesen …!! Ein
 unausgeglichener Charakter, eine Frau, die allzu gern Lady
 Effingham werden wollte, die völlig unter dem Einfluß ihrer
 intriganten Mutter stand, eines Weibes, halb Abenteurerin,
-halb Horcherin, halb Dirne …!«
+halb Spielerin, halb Dirne …!«
 
 Paracoleas dunkle Augen hingen wie gebannt an des
 Lords nunmehr von Bart und Maske befreiten Gesicht …
@@ -1390,7 +1390,7 @@ dreißig Jahre früher, — da wäre die Geschichte Ihnen wohl
 
 Harst stieß lachend die Tür des Häuschens auf …
 
-Und schmunzelnd betrat ich hinter im das hell erleuchtete
+Und schmunzelnd betrat ich hinter ihm das hell erleuchtete
 Stübchen, während old Tobby neben mir brummte: »Da
 gibt’s nichts zu lachen! Vor dreißig Jahren konnt’ ich einen
 Ochsen mit der Faust niederschlagen — auch zwei, wenn
@@ -1404,9 +1404,9 @@ hervor erschienen Lady Doris Effingham und zwei
 Männer in Chauffeurtracht, alle drei aber mit langen
 Gummimänteln, die vor Nässe trieften …
 
-Lady Doris wär’s, die uns angerufen hatte …
+Lady Doris war’s, die uns angerufen hatte …
 
-»Zwingen Sie nicht nicht, Mister Harst, Gewalt zu gebrauchen!!«
+»Zwingen Sie mich nicht, Mister Harst, Gewalt zu gebrauchen!!«
 
 Und sie deutete auf ihre beiden Begleiter …
 
@@ -1472,7 +1472,7 @@ wie er, von einem Dienstmann mit einer großen Modellpuppe
 gefolgt, das Haus Nr. 15 betrat.
 
 Daß Gybourg und ich mit äußerster Ungeduld der entscheidenden
-Stunde entgegensahen, wird Jeder begreifen.
+Stunde entgegensahen, wird jeder begreifen.
 Endlich — endlich dann … fünf Minuten vor elf …
 
 Da fuhr auch schon vor Nr. 15 ein elegantes Auto vor,
@@ -1553,7 +1553,7 @@ war — —
 Ich habe nur noch hinzuzufügen, daß Paracolea jetzt
 Schloßverwalter bei Lord Effingham ist und daß Lady
 <@pagebreak/>
-Doris und letztens zur Taufe des Stammhalters eingeladen
+Doris uns letztens zur Taufe des Stammhalters eingeladen
 hat. Wir werden dann fraglos ein paar vergnügte Tage in
 England verleben. —
 
