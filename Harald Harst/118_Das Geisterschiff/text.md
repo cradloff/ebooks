@@ -12,25 +12,25 @@ Dort hatten Harald Harst und ich Quartier genommen —
 als Holländische Kaufleute …
 
 Dort wohnten wir nun, nachdem die Ermordung Ellen
-Gybourgs3 im Hause gegenüber aufgeklärt war, unter unserem
-richtigen Namen: Harald Hälst und Max Schraut!
+Gybourgs im Hause gegenüber aufgeklärt war, unter unserem
+richtigen Namen: Harald Harst und Max Schraut!
 
 Und drüben in Nr. 15 im zweiten Stock wohnte der
-Mann, den das Genie meines Freundes von schimpflichem:
+Mann, den das Genie meines Freundes von schimpflichem
 Verdacht befreit hatte: der Zahnarzt Doktor John Gybourg.
 
-All das, was den Fall Gybourg so überaus interessan
+All das, was den Fall Gybourg so überaus interessant
 machte, habe ich im vorigen Band erzählt, in »Doktor
 Groupys Verhängnis«.
 
-Nun — das neue Üben teuer …
+Nun — das neue Abenteuer …
 
 am 26. Juli 1923 vormittags elf Uhr dreißig Minuten
-es
+war’s …
 
 Wir hatten gerade unsere Koffer gepackt, da wir abends
-nach) Berlin - Schmargendorf, Blücherstraße 10, heimkehren
-wollten — endlich heimkehren und dar! die paradiesische
+nach Berlin-Schmargendorf, Blücherstraße 10, heimkehren
+wollten — endlich heimkehren und dort die paradiesische
 Ruhe und den Frieden unseres großen Gartens genießen —
 nach diesen Wochen einer beständigen Hetzjagd aufregender
 Geschehnisse, die mit dem »Kopf des Maharadscha« begannen
@@ -41,35 +41,35 @@ Elf Uhr dreißig …
 
 Da kam Doktor Gybourgs Empfangsdame Miß Leewenstac
 <@pagebreak/>
-aufgeregt in unseren Wohnsalon, noch die weiße Opec-rationsjchürze
-vorgebunden, und bat und, rasch zu Gybourg
-uns binüberzubemüben, weil dort eine ältere Dame bei
+aufgeregt in unseren Wohnsalon, noch die weiße Operationsschürze
+vorgebunden, und bat uns, rasch zu Gybourg
+uns hinüberzubemühen, weil dort eine ältere Dame bei
 einer Zahnoperation ohnmächtig geworden sei und Weil
 Gybourg, als er ihr die Bluse öffnete, um freieres Atmen zu
-ermöglichen, auf ihrer Brust an einem Kettchen etwas: so
-munolirbiges gefunden habe, das er uns unbedingt zeigen
+ermöglichen, auf ihrer Brust an einem Kettchen etwas so
+Merkwürdiges gefunden habe, das er uns unbedingt zeigen
 müsse …
 
 »Denken Sie, Mister Harst,« fügte Miß Leewenstac hinzu,
 »dieses Merkwürdige ist ein aus Elfenbein zierlich geschnitztes
-und an den Gliedern mit Goldgelenken versehenes Denichen-jlelett
+und an den Gliedern mit Goldgelenken versehenes Menschenskelett
 — ein Kunstwerk in seiner Art …!«
 
 Harst griff schon nach der Sportmütze …
 
-Wir liefen über die Altars — die beiden Treppen empor
+Wir liefen über die Straße — die beiden Treppen empor
 — hinein in Gybourgs Sprechzimmer …
 
 Dort lag auf dem Diwan eine grauhaarige Dame mit
-seltsam fahlgelbem Zeigt …
+seltsam fahlgelbem Teint …
 
-Gybourg rieb ihr Stirn und Herzgegend mit Metier ein.
+Gybourg rieb ihr Stirn und Herzgegend mit Äther ein.
 
 »Sie will gar nicht erwachen,« meinte er verstört …
 »Sie kam mit einer vereiterten Wurzelhaut zu mir. Ich
 habe den Zahn entfernt, und da — fiel die Dame um. Ich
-ne sie nicht. Sie sagte, sie sei nur auf der Durchreise
-Bier …«
+kenne sie nicht. Sie sagte, sie sei nur auf der Durchreise
+hier …«
 
 Harald fühlte der Bewußtlosen den Puls …
 
@@ -86,23 +86,23 @@ Er schaute die Tote an … bückte sich wieder … sagte:
 
 »Übrigens — die Frau ist jung gewesen, sehr jung …
 Sie ist geschminkt, und — — sie hat« — er zog ihr die graue
-Perücke ab — »blondes Haar, wie Sie sehen. — Diese Vernichtung,
+Perücke ab — »blondes Haar, wie Sie sehen. — Diese Verkleidung,
 dazu noch das Goldkettchen mit dem in der Tat
 <@pagebreak/>
-sehr sein ausgeführten Elfenbeinskelett geben uns wohl Bad
+sehr fein ausgeführten Elfenbeinskelett geben uns wohl das
 Recht, das silberne Handtäschchen, den Regenschirm und die
 Kleidung der Toten etwas genauer zu betrachten …«
 
 In dem Handtäschchen befanden sich:
 
-1\. eine fünfschüssige Liliputrepetierpistole,
-2\. eine silberne Morphiumspritze,
-3\. einhundertfünfzig Pfund in Banknoten, in einem einfachen
+1. eine fünfschüssige Liliputrepetierpistole,
+2. eine silberne Morphiumspritze,
+3. einhundertfünfzig Pfund in Banknoten, in einem einfachen
 Briefumschlag,
-4\. eine Eisenbahnfahrkarte von Dover nach Stromeferry
+4. eine Eisenbahnfahrkarte von Dover nach Stromeferry
 in Westschottland,
-5\. ein Spitentafd; ersucht, das beim Auseinanderfallen
-große Tintenflecks in der Mitte zeigte.
+5. ein Spitzentaschentuch, das beim Auseinanderfalten
+große Tintenflecke in der Mitte zeigte.
 
 Diese fünf so verschiedenartigen Dinge habe ich hier absichtlich
 so im einzelnen aufgezählt.
@@ -117,51 +117,51 @@ Schnitzereien, die oben in einen glatten Knopf ausliefen,
 zeigte sich seltsamerweise wieder … ein Skelett!
 
 Harald trat mit dem Schirm ans Fenster, kehrte uns den
-Chancen zu und jagte plötzlich:
+Rücken zu und sagte plötzlich:
 
-»Sie, Doktor, und Miß Leewenstac werden nichts daher
+»Sie, Doktor, und Miß Leewenstac werden nichts dagegen
 haben, daß ich das Kettchen mit dem Skelett vorläufig
-Vorjahre und daß wir diesen Fund der Polizei verschweigen,«
+verwalte und daß wir diesen Fund der Polizei verschweigen,«
 
-Er schien an dem Schirmgriff zu drehen
+Er schien an dem Schirmgriff zu drehen …
 
-Was er eigentlich tat; sahen wir nicht. — in
+Was er eigentlich tat, sahen wir nicht. —
 
 Gybourg und die Leewenstac waren einverstanden, und
-so 2 angab denn Kettchen und Skelett in Haralds Jackentasche.
+so verschwand denn Kettchen und Skelett in Haralds Jackentasche.
 
-»Hm,« meinte er nun, »ich hätte noch eine Bitte
+»Hm,« meinte er nun, »ich hätte noch eine Bitte …
 Auch die Fahrkarte möchte ich unterschlagen. Ich bin nämlich
 schon jetzt überzeugt, daß dieses verkleidete blonde Weib,
 deren Kostüm und Wäsche, deren tadellos gepflegte Hände
 und kostbare Ringe mir zu einem neuen Fall verhelfen werden.
 Die Fahrkarte aber könnte die Polizei veranlassen, mir in
 <@pagebreak/>
-der Hafenstadt Stromeferry, wohin die Tote offenbar reifen
-trollte, ins Handwerk zu pfuschen … Also …!!«
+der Hafenstadt Stromeferry, wohin die Tote offenbar reisen
+wollte, ins Handwerk zu pfuschen … Also …!!«
 
 Und er schob auch die Fahrkarte in die Tasche. —
 
 Abends elf Uhr wurde die Leiche abgeholt, und eine
-Stunde früher fußen wir beide reisefertig in Inspektor Co!
-lcys Dienstzimmer aus der 6. Polizeistation, und Harald
-bedankte sich bei dem etwas bärbeißigecn Beamten für das
-Heute abermals bewiesene liebensmwiürdige Entgegenkommen.
+Stunde früher saßen wir beide reisefertig in Inspektor Colleys
+Dienstzimmer auf der 6. Polizeistation, und Harald
+bedankte sich bei dem etwas bärbeißigen Beamten für das
+Heute abermals bewiesene liebenswürdige Entgegenkommen.
 
-»Keine Ursache,« lehnte Colley kurz ab. »Nur- — viel
-Arbeit haben Sie mir da nicht dieser Toten aufgebürdet, die,
+»Keine Ursache,« lehnte Colley kurz ab. »Nur — viel
+Arbeit haben Sie mir da mit dieser Toten aufgebürdet, die,
 wie bereits im Laufe des Tages festgestellt wurde, heute
 morgen hier auf dem Waterloo-Bahnhof eintraf und im
 Wartesaal frühstückte, den Kellner nach einem Zahnarzt
 fragte und an Gybourg gewiesen wurde. Da sie verkleidet
-trat, Musik unbedingt herausbringen, wer. sie ist. Ich
+war, muß ich unbedingt herausbringen, wer sie ist. Ich
 wittere da dunkle Geschichten, zumal der Inhalt ihres silbernen
-Handtähheus recht merkwürdig ist: Pistole und
-Norpbiumfprigel!«
+Handtäschchens recht merkwürdig ist: Pistole und
+Morphiumspritze!«
 
 »Ja — und dann der Schirm!« nickte Harald,
 
-Der Schirm?«
+»Der Schirm?«
 
 »Allerdings! — Dort liegt er ja …«
 
@@ -169,14 +169,14 @@ Er nahm ihn vom Nebentisch …
 
 »Bitte, Mister Colley, prüfen Sie ihn …«
 
-»Hab’s schon getan! Sehr elegant, funsivollsie Elfenbeinschnitzerei
+»Hab’s schon getan! Sehr elegant, kunstvollste Elfenbeinschnitzerei
 …«
 
-»Ja — echt chinesisch. Der Griff war einst ich Spazier-ftodgrüif
+»Ja — echt chinesisch. Der Griff war einst ein Spazierstockgriff …«
 
 »Möglich …«
 
-»Und — ist bot …«
+»Und — ist hohl …«
 
 »Hohl?« Colley machte große Augen …
 
@@ -192,18 +192,18 @@ dicht am Ohr …
 
 <@pagebreak/>
 
-»Verdammt!« Platzte der Inspektor heraus. »Sie geben
+»Verdammt!« platzte der Inspektor heraus. »Sie geben
 einem das Gift wirklich tropfenweise ein!«
 
-»Der Knopf läßt sich so@Schrauben — aber nicht so, wie
-Sie’s versuchen … Drüben Sie erst mal kräftig auf den
-Kopf des Skelett?, und dann drehen Sie nach linke herum.«
+»Der Knopf läßt sich losschrauben — aber nicht so, wie
+Sie’s versuchen … Drücken Sie erst mal kräftig auf den
+Kopf des Skeletts, und dann drehen Sie nach links herum.«
 
-»Ab — verdammt — — wirklich!!«
+»Ah — verdammt — — wirklich!!«
 
 Nun zeigte der dicke Schirmgriff seine Höhlung, nun
 nahm Colley das lange Stück Watte vorsichtig heraus, faltete
-es ausZßeinander und legte vierzig wundervolle, wasserklare
+es auseinander und legte vierzig wundervolle, wasserklare
 Diamanten von doppelter Erbsengröße frei …
 
 Vierzig Stück …!!
@@ -211,7 +211,7 @@ Vierzig Stück …!!
 Inspektor Colley stierte fassungslos auf die In allen
 Farben sprühende Pracht …
 
-Leckte sich die Lippen murmelte:
+Leckte sich die Lippen, murmelte:
 
 »Sie sind doch ein Teufelskerl, Harst! Nie im Leben
 hätte ich die Steine entdeckt!«
@@ -220,37 +220,37 @@ hätte ich die Steine entdeckt!«
 Spazierstock mit Elfenbeingriff. Auch der hat sein Geheimnis
 …«
 
-»So … f0 …« Colley dachte nach. »Hm — ob Bad
+»So … so …« Colley dachte nach. »Hm — ob das
 Weib eine Schmugglerin war? Vielleicht wollte sie nach
-Aryerijfa hinüber …«
+Amerika hinüber …«
 
-»Schon möglich. — Wir müssen nun jetzt aber verabschieden,
+»Schon möglich. — Wir müssen uns jetzt aber verabschieden,
 wir reisen Punkt zwölf vom Waterloo-Bahnhof
 heim … Gute Nacht, Inspektor … Und sollten Sie über
-die Frau Staate ermitteln, so schreiben Sie mir Doch nach)
-Berlin — oder depeschieren Sie … Auf Wiedersehen gelegentlich
+die Frau etwas ermitteln, so schreiben Sie mir Doch nach
+Berlin — oder depeschieren Sie … Auf Wiedersehen gelegentlich …«
 
-Um 11 Uhr 4 45 Minuten bestiegen wir den Zug nach
+Um 11 Uhr 45 Minuten bestiegen wir den Zug nach
 Norden — nicht nach Süden …
 
 Im Schlafwagen hatten wir eine ruhige Nacht, waren
 vormittags zehn Uhr in Dingwall in Schottland und stiegen
 hier nach Stromeferry um, freilich nicht mehr als Harst und
 Schraut, sondern als zwei blondbärtige, bebrillte Herren,
-die miteinander holländisch sprachen, wenn jemand in des
-Nähe an.
+die miteinander holländisch sprachen, wenn jemand in der
+Nähe war.
 
 <@pagebreak/>
 
-Und um fünf Uhr nachmittags -Tief der Zug In den
+Und um fünf Uhr nachmittags lief der Zug In den
 Bahnhof von Stromeferry an der gleichnamigen tiefen
 Meeresbucht ein.
 
 <h2>2. Kapitel.</h2>
 <h3>Verfolgung zur See.</h3>
 
-Harald Hatte bisher nach seiner üblen Manier jedes je
-sprach über die geheimnisvolle Tote glatt abgelehnt …
+Harald Hatte bisher nach seiner üblen Manier jedes Gespräch
+über die geheimnisvolle Tote glatt abgelehnt …
 
 »Unausgebrütete Eier,« sagte er nur, »unausgebrütete
 Eier lassen nie ahnen, welcher Art das Küken ist, das da
@@ -261,31 +261,31 @@ Frau genau so viel wie ich damals, als wir in Stromeferry
 den Zug verließen.
 
 Wir standen auf dem Bahnsteig, und Harst übergab einem
-Gepäckträger unseren Gepäcschschein.
+Gepäckträger unseren Gepäckschein.
 
 »Können Sie uns ein Hotel empfehlen?« fragte er.
 
-»Des, Visiten … Hotel Zum Clan, gleich am Bahnhof.«
+»Yes, Mister … Hotel Zum Clan, gleich am Bahnhof.«
 
-»Dann bringen Sie also unsere Koffer dorthin. »Werft
-starke Reiseverkehr jetzt?«
+»Dann bringen Sie also unsere Koffer dorthin. »Wohl
+starker Reiseverkehr jetzt?«
 
 »Hier — — Reiseverkehr, Mister?! Hier am Ende der
-Welt!! Nein, Mister! Wenn hier mal Fremde eintreffen
+Welt!! Nein, Mister! Wenn hier mal Fremde eintreffen,
 ist das eine Seltenheit. Die Herrschaften aus der Umgegend
 kennt man ja. Ich bin hier schon zehn Jahre Dienstmann.
-Hm — allerdings … Ein paar Fremde waren legten Doch
+Hm — allerdings … Ein paar Fremde waren letztens Doch
 hier, Mister, fällt mir da ein … Drei Herren an einem
 Tage, und dann zwei Damen und ein Herr — vorgestern.«
 
-»Woher kamen denn die beiden Neiscpartien?«
+»Woher kamen denn die beiden Reisepartien?«
 
-»Aus Dover, Mister, aus Dover … Es waren Planlosen
+»Aus Dover, Mister, aus Dover … Es waren Franzosen …«
 
 »Die sind wohl auch im Hotel Zum Clan abgestiegen?«
 
 »Natürlich, natürlich … Und der eine Herr wohnt noch
-Ort …«
+dort …«
 
 <@pagebreak/>
 
@@ -295,52 +295,52 @@ Dann verließen wir den Bahnhof und wanderten die
 Straße entlang, an alten Häusern vorüber, umweht von
 Fischgeruch.
 
-In Stromeferry werden ja jährlich ungezählte Tonnen.
+In Stromeferry werden ja jährlich ungezählte Tonnen
 Heringe verladen …
 
 Und Heringsduft war’s, der hier die Luft verpestete, der
 selbst in dem kleinen, sauberen Hotel uns scheußlich belästigte.
 
-Wir belegten zwei Zimmer, badeten, saßen gegen sieben.
-Uhr in der großen, nach) dem Hafen hinausgehenden Glas3-veranda
+Wir belegten zwei Zimmer, badeten, saßen gegen sieben
+Uhr in der großen, nach dem Hafen hinausgehenden Glasveranda
 und speisten Fisch — tadellosen Fisch.
 
-Franken dazu schwarzes Verderbter und unterhielten uns
+Tranken dazu schwarzes Porterbier und unterhielten uns
 mit dem Wirt, gaben uns für Holländer aus, die hier Abschlüsse
 in Heringen tätigen wollten …
 
-Harst lenkte die Unterhält::=5 sehr bald auf den Fremdenverkehr
-über — genau wie bei dem Dienstmann
+Harst lenkte die Unterhaltung sehr bald auf den Fremdenverkehr
+über — genau wie bei dem Dienstmann …
 
 Und holte aus dem harmlosen, braven Schotten Mac
-Percyr alles heraus, was er wissen wollte — fidel die beiden
-Neifepartien und über den Herrn, der noch hier im Clan.
+Percyr alles heraus, was er wissen wollte — über die beiden
+Reisepartien und über den Herrn, der noch hier im Clan
 wohnte.
 
-»Seevögel wollten die Herrschaften schieben,« erklärte der
-Wirt, »Zwei von den Herren, dienen hier Tagen eintrafen,
-und die beiden Damen und der alte Herr sind mit dem.
-Tourendampfer nach) Barvas auf der Insel Lewis weitere
-gefahren …«
+»Seevögel wollten die Herrschaften schießen,« erklärte der
+Wirt. »Zwei von den Herren, die vor vier Tagen eintrafen,
+und die beiden Damen und der alte Herr sind mit dem
+Tourendampfer nach Barvas auf der Insel Lewis weitergefahren
+…«
 
 »Die Hauptinsel der Hebriden?«
 
 »Ja, Mister … — Der andere Herr ist noch hier, der
-junge … Er mit einen Motorkutter kaufen und dann die
+junge … Er will einen Motorkutter kaufen und dann die
 andern von Barvas abholen. Außerdem, sagte er, erwartet
 er noch seine Mutter. Herbett heißt er, der Herr …«
 
 Seine Mutter!! — Harald warf mir da einen verstohlenen
-Blick u …
+Blick zu …
 
-Seine Mutter!!! Das war die Blonde!! —Fruchtete die
-Blonde! —. By
+Seine Mutter!! Das war die Blonde!! — Fraglos die
+Blonde! —
 
 Aus Vorsicht gab Harald dem Gespräch nun eine andere
 Wendung …
 
 <@pagebreak/>
-Und als wir dann Schafkäse und tadellose Butter: als
+Und als wir dann Schafkäse und tadellose Butter als
 Nachtisch serviert bekamen, als der Wirt andere Gäste begrüßte,
 trat von der Straße ein schlanker Herr in tadellosem
 Sportanzug ein und nahm am Nebentische Platz …
@@ -351,45 +351,45 @@ Ein bartloses, braunes Gesicht mit schwarzem Bärtchen,
 unruhigen schwarzen Augen und … auffallend vielen
 Brillantringen an den Fingern …
 
-»Na, Mister Herbett, einig mit dem Karrenbesitzer Langsam?!
+»Na, Mister Herbett, einig mit dem Kutterbesitzer Laragan?!
 
-Harald. flüsterte rasch:
+Harald flüsterte rasch:
 
-»Er war auf dem Bahnhof, als wir ankamen:. Ich
+»Er war auf dem Bahnhof, als wir ankamen: Ich
 erkenne ihn wieder …« —
 
-»Meine Mutter. ist leider noch immer nicht eingetroffen,«
-Hörten wir Herbett zum Wirte sagen. »Ich dann: jedoch
+»Meine Mutter ist leider noch immer nicht eingetroffen,«
+Hörten wir Herbett zum Wirte sagen. »Ich kann jedoch
 nicht länger hierbleiben. Meine Freunde, die nach Barvas
-voraus8gereist sind, würden ungeduldig werden. Immerhin
+vorausgereist sind, würden ungeduldig werden. Immerhin
 Hat meine Mutter mir ihren Gepäckschein durch Eilbrief postlagernd
-zugeschicit, so daß ich wenigstens ihren Koffer auf
-dem Mutter mitnehmen kann. Morgen in aller Frühe fahl
-ich ab. Wenn Frau Therese Herbett hier absteigt, »e
-Mac Betrete, so sagen Sie ihr bitte, sie möchte den nächsten
+zugeschickt, so daß ich wenigstens ihren Koffer auf
+dem Kutter mitnehmen kann. Morgen in aller Frühe fahre
+ich ab. Wenn Frau Therese Herbett hier absteigt, Mister
+Mac Percyr, so sagen Sie ihr bitte, sie möchte den nächsten
 Tourendampfer nach Barvas benutzen. Unsere Jagdgesellschaft
-wird ihr in Sandale weitere Nachricht geben.«
+wird ihr in Barvas weitere Nachricht geben.«
 
 »Sehr wohl, Mister … Was haben Sie denn für den
-Kutter bezahlt?« -
+Kutter bezahlt?«
 
 »Vierhundert Pfund …«
 
-»Hm — ne Masse Geck …«
+»Hm — ne Masse Geld …«
 
-Dann bestellte Herbett Abendörot, und der Wirt ließ ihn
-allein
+Dann bestellte Herbett Abendbrot, und der Wirt ließ ihn
+allein.
 
 Auch wir erhoben uns, schlenderten dem Bahnhof zu.
 
 »Das Er wird interessant,« meinte Harald und rauchte
-nicht Behagen seine Mirakulum.
+mit Behagen seine Mirakulum.
 
 <@pagebreak/>
 Ein Dienstmann kam uns mit einem Handwagen entgegen
 …
 
-Fünfen redseliger Dienstmann, dem wir ein so gutes
+Unser redseliger Dienstmann, dem wir ein so gutes
 Trinkgeld gegeben …
 
 Und auf dem Handwagen stand ein großer brauner
@@ -403,29 +403,29 @@ Harst blieb stehen …
 Der Dienstmann grüßte …
 
 »Sehr, sehr, Mister … Ich muß den Koffer bis zum
-Unterhalten fahren, Bis zu Fischer Langsame Grundstück.
+Außenhafen fahren, Bis zu Fischer Laragans Grundstück.
 Soll ihn gleich auf den Kutter bringen, den der Herr gekauft,
-der — Sie willen da! —, der noch im Hotel Clan wohnt.«
+der — Sie wissen doch! —, der noch im Hotel Clan wohnt.«
 
-»Dann beeilen Sie sich war … Guten Abend …«
+»Dann beeilen Sie sich nur … Guten Abend …«
 
 Der Wagen ratterte weiter …
 
 Und hinter dem Wagen in vorsichtiger Entfernung folgten
 die beiden holländischen Heringsaufkäufer …
 
-Bis zum Unterhosen, wo auf dürrem Grasdvoden, auf
+Bis zum Außenhafen, wo auf dürrem Grasboden, auf
 zermürbtem Fels die Häuser der Fischer standen … —
 
 Wir beobachteten, wie der Dienstmann und ein Fischer
 den Schrankkoffer auf einen großen Hochseekutter trugen,
-die sie ihn die Treppe hinab in die Achterkajüte schleppten.
+wie sie ihn die Treppe hinab in die Achterkajüte schleppten.
 
 Da sagte Harald:
 
 »So, nun müssen auch wir uns nach einem Fahrzeug umsehen.
 Gehen wir zur Lotsenstation. Dort hören wir am
-[Gen ob und wo eine kleine Motorjacht aufzutreiben
+schnellsten, ob und wo eine kleine Motorjacht aufzutreiben
 ist …«
 
 Und einer der Lotsen war’s, der uns seine Jacht zu
@@ -436,22 +436,22 @@ Urlaub hier und zweiter Steuermann bei der Handelsmarine.
 
 Das Geschäft kam zustande.
 
-Im Hotel erklärten wir dem Wirt, daß man und geraten
+Im Hotel erklärten wir dem Wirt, daß man uns geraten
 <@pagebreak/>
-habe, nach Portier auf der Insel Skye zu fahren. Wir
+habe, nach Portree auf der Insel Skye zu fahren. Wir
 hätten auch schon eine Motorjacht gemietet und würden sofort
-an Bord Heben.
+an Bord gehen.
 
 Wir bezahlten unsere Rechnung, der Hoteldiener fuhr uns
-die Koffer zum Außenhascu, und um elf Uhr waren mir
-an Bord der Elf - Meter - Jacht Caledonia, eines Benzinstänkers
-älterer Yonstiruftion mit Schonertakelung.
+die Koffer zum Außenhafen, und um elf Uhr waren wir
+an Bord der Elf-Meter-Jacht Caledonia, eines Benzinstänkers
+älterer Konstruktion mit Schonertakelung.
 
 Edward Hamilton, des Lotsen Sohn, hatte uns bereits
-erwartet.«
+erwartet.
 
-Er gefiel uns auf den ersten Blick, war ein stattlich;er
-blonder Mensch mit offenen 1 Gesicht und dabei sein Schwätzer.
+Er gefiel uns auf den ersten Blick, war ein stattlicher
+blonder Mensch mit offenem Gesicht und dabei kein Schwätzer.
 
 Wir hatten Proviant, Trinkwasser und Benzin für acht
 Tage mit, und als wir gegen Mitternacht bei klarem Mondschein
@@ -460,49 +460,49 @@ was alles uns noch bei dieser Kreuzfahrt bevorstand.
 
 Wir saßen achtern am Steuer, und langsam glitt die
 Caledonia zwischen den ankernden Schiffen hindurch in die
-weite Meerespucht hinaus.
+weite Meeresbucht hinaus.
 
-»Erst als wir vom Lande aus nicht mehr bemerkt werden
-konnten, jagte Harald zu Edward Hamilton:
+Erst als wir vom Lande aus nicht mehr bemerkt werden
+konnten, sagte Harald zu Edward Hamilton:
 
-»So, Mister Hamilton, nun Polen Sie die Kanntest
-hören. Ich halte Sie für einen Mann, der Vertrag—«der
-dient. Haben Sie schon mal den Namen Harald Harst gehört
+»So, Mister Hamilton, nun sollen Sie die Wahrheit
+hören. Ich halte Sie für einen Mann, der Vertrauen verdient.
+Haben Sie schon mal den Namen Harald Harst gehört
 oder gelesen?«
 
 »Gelesen, Mister … Erst heute noch … In einer Londoner
-Zeitung. Wir bekommen hier die Londoner Norgz2n-blätter
-erst abends. Und da las ich von dein GBüybourg-Morde
+Zeitung. Wir bekommen hier die Londoner Morgenblätter
+erst abends. Und da las ich von dem Gybourg-Morde
 und von dem deutschen Detektiv, der nach der Modellpuppe
-mit dem Dolche warf
+mit dem Dolche warf …«
 
-»Nun denn — dieser Harst gibt hier neben Ihnen …«
+»Nun denn — dieser Harst sitzt hier neben Ihnen …«
 
 Hamilton lächelte …
 
 »Daß Sie nicht Heringshändler sind, Mister, wußte ich
-sofort … Ich bin trotz meiner erst fügsam zwanzig Jahre
-[log weit in der Welt herumgekommen. As schläfst den
-Blick, Mister Harst. — Also — um was handelt störe?«
+sofort … Ich bin trotz meiner erst fünfundzwanzig Jahre
+schon weit in der Welt herumgekommen. Das schärft den
+Blick, Mister Harst. — Also — um was handelt sich’s?«
 
 <@pagebreak/>
-»Sie gefallen wir immerx- mehr, Hamilton. Ihre kurze
+»Sie gefallen wir immer mehr, Hamilton. Ihre kurze
 Art freut mich. — Hören Sie zu …«
 
 Hamilton, der eine Holzpfeife rauchte, nickte wiederholt,
 als wollte er andeuten, daß auch ihm diese Jagdgesellschaft
-sehr verdächtig Parfüms. Dann meinte er:
+sehr verdächtig vorkäme. Dann meinte er:
 
 »ich verstehe, Mister Harst: wir werden dem Kutter
-dieses Herbett heimlich folgen! — Gut, so! geschehen. Wir
+dieses Herbett heimlich folgen! — Gut, soll geschehen. Wir
 kehren jetzt um und legen uns am Buchtufer südlich des
 Hafens auf die Lauer, bis der Kutter erscheint. Ich habe
 ein Fernglas mit, das erstklassig ist.« — —
 
-Oh möchte hier nun einen Zeitraum von drei Tagen
+Ich möchte hier nun einen Zeitraum von drei Tagen
 überspringen, möchte nur erwähnen, daß wir den Kutter
-nie aus den Augen verloren, daß wir durch den Harrte-Kanal
-die im Weiten von Schottland sich endlos lang hinziehende
+nie aus den Augen verloren, daß wir durch den Harris-Kanal
+die im Westen von Schottland sich endlos lang hinziehende
 Inselgruppe der Hebriden passierten und beobachteten,
 wie der Kutter südlich der Ortschaft Barvas nachts
 fünf Leute an Bord nahm, drei Männer, zwei Frauen …
@@ -513,21 +513,21 @@ Gerade jetzt, wo alles darauf ankam, den Kutter ständig
 im Fernrohr zu haben, — jetzt … versagte unser Motor!
 
 Versagte so vollkommen, daß wir vier Stunden zu tun
-hatten, by wir endlich den Schaden ausgebessert hatten …
+hatten, bis wir endlich den Schaden ausgebessert hatten …
 
 Und da war der Kutter in der windstillen Nacht längst
-nach Westen zu in den offenen Atlantik hinaus entschwanden.
+nach Westen zu in den offenen Atlantik hinaus entschwunden.
 
-Hamilton fluchte selben … Damals fluchte er.
+Hamilton fluchte selten … Damals fluchte er.
 
 Harst fluchte selten. Damals fluchte er wie ein alter
 Seebär …
 
-30 Fluche nie — nur damals tat Ich’s — und nicht zu
+Ich fluche nie — nur damals tat Ich’s — und nicht zu
 knapp!
 
-Nun lagen wir also mit unserem hochbeinigen Benehme
-Zahn täglich von Barvas in einer Schmalen Bucht der Steilküste,
+Nun lagen wir also mit unserem hochbeinigen Benzinkahn
+südlich von Barvas in einer Schmalen Bucht der Steilküste,
 machten lange Gesichter und berieten, ob es wohl lohne,
 den Kutter zu suchen.
 
@@ -538,7 +538,7 @@ auszulachen.
 <@pagebreak/>
 Einen Kutter suchen …!!
 
-Einen Kutter suchen — und hier an den Küsten der He
+Einen Kutter suchen — und hier an den Küsten der
 Hebriden, an diesen wild zerrissenen Gestaden, wo jede Meile
 sich eine neue tief ins Land einschneidende Bucht öffnet …
 
@@ -549,13 +549,13 @@ Harst studierte in der Kajüte bei Lampenlicht eine Seekarte
 der Hebriden …
 
 Hamilton betonte, es sei eine ganz vorzügliche Karte,
-ganz neu, von dickem Jahre …
+ganz neu, von diesem Jahre …
 
 Auch ich hatte den Kopf über die auf dem Klapptisch
-liegende Karte gerecht …
+liegende Karte gereckt …
 
 Und sah da genau westlich von Barvas weit draußen im
-Atlantik eine kleine Jnseclgruppe …
+Atlantik eine kleine Inselgruppe …
 
 Sah an der Spitze der einen Insel ein Zeichen, das ich
 nicht kannte …
@@ -566,19 +566,19 @@ Fragte ganz arglos den allwissenden Steuermann:
 
 »Ein Wrack — ein Wrack, das auf den Klippen hängt.«
 
-Und er es mit dem Finger auf den weißen Rand der
+Und er tippte mit dem Finger auf den weißen Rand der
 Karte, wo die Zeichenerklärungen standen …
 
 Las vor: —
 
-»Wrack des Kreuzers »Connaught« auf den Rissen der
+»Wrack des Kreuzers »Connaught« auf den Riffen der
 Flannan-Insel. Der Kreuzer, im Weltkriege torpediert,
 wurde von Kapitän Archibald Moncy am 17. Mai 1917
-auf die Klippen gefegt und soll Dort als Denkmal britischer
+auf die Klippen gesetzt und soll Dort als Denkmal britischer
 Seemannstüchtigkeit liegen bleiben.«
 
 — Wenn der Leser einiges Kombinationstalent besitzt,
-wird er sich nun bereits sagen, daß dieses Wrack. ﬀ. das
+wird er sich nun bereits sagen, daß dieses Wrack … das
 Geisterschiff ist.
 
 <@pagebreak/>
@@ -2748,7 +2748,7 @@ Bett ist in der Stadt, um auf dem Hafenamt die Abreise der
 Jacht zu melden und …«
 
 »Halt — das Hafenamt befindet sich dann anscheinend
-neuerdings in dem Kloster, aus dem Sie sitzen, Lydia Garn-kam
+neuerdings in dem Kloster, aus dem Sie sitzen, Lydia Garnison
 Oh Vielleicht heben Sie einmal den Deckel empor …
 Bitte!«
 
