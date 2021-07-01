@@ -586,16 +586,16 @@ Geisterschiff ist.
 <h2>3. Kapitel.</h2>
 <h3>Unsere Jacht taucht …</h3>
 
-Seltene, bewährte Freunde der Harald-Harst-Abenteuer
+Ältere, bewährte Freunde der Harald-Harst-Abenteuer
 werden sich vielleicht noch erinnern, daß ich einem unserer
-mehrere Jahre zurückliegenden Erlebnisse den Titel »Da
-Gespensterwrack« gegeben hatte, Daß die mit Diesem je
-fpenjterwrad zusammenhängenden Vorgänge sich im Chef«
-Atlanta-Fjord abspielten und das damalige Problem mit dem
+mehrere Jahre zurückliegenden Erlebnisse den Titel »Das
+Gespensterwrack« gegeben hatte, Daß die mit Diesem
+Gespenterwrack zusammenhängenden Vorgänge sich im
+Christiania-Fjord abspielten und das damalige Problem mit dem
 jetzigen, dem Geisterschiff, in den einleitenden Ereignissen
-auch nicht die allergeringste Uehntichkeit hatte. Der weitere
+auch nicht die allergeringste Ähnlichkeit hatte. Der weitere
 Verlauf der Dinge wird zeigen, daß diese Ungleichheit beider
-Fälle 1« groß ist, daß nur die Titel ähnlich klingen — sonst
+Fälle so groß ist, daß nur die Titel ähnlich klingen — sonst
 nichts! —
 
 Das Sprichwort von dem blinden Huhn, das auch mal
@@ -604,56 +604,56 @@ ein Korn findet, hatte sich wieder mal an mir bewährt.
 Und dieses Korn war eben das Wrack des Kreuzers
 Connaught!
 
-Kaum hatte Steuermann Hamilton die Reickenerflärung
+Kaum hatte Steuermann Hamilton die Zeichenerklärung
 vorgelesen, als Harald, der sonst doch jähe Bewegungen
-Glases nicht liebte, förmlich vom Wandsofa hochschnellte,
-»meine Hand ergriff und jubelte:
+wahrlich nicht liebte, förmlich vom Wandsofa hochschnellte,
+meine Hand ergriff und jubelte:
 
 »Lieber Alter, — da stiere ich nun schon zehn Minuten
-auf die Karte und … Übersehe trotzdem die Hauptsache! —
+auf die Karte und … übersehe trotzdem die Hauptsache! —
 Ich danke Dir! Wir hätten ja lange suchen können, bevor
 wir den Kutter entdeckt haben würden! Nun aber — nun
-will ich Euch beiden auch das letzte anvertrauen … 1«
+will ich Euch beiden auch das letzte anvertrauen …!«
 
 Und er zog das Kettchen mit dem Elfenbeinskelett hervor
-und begann den Oberteil des etwa firfchengroßen Schädel?
+und begann den Oberteil des etwa kirschengroßen Schädels
 abzuschrauben …
 
 Hamilton und ich schauten andächtig zu …
 
 Nur die ungeheure Geduld und Fingerfertigkeit der
-Chinesen vermag so saubere, künstlerische handaeschnißte Arbeiten
-in Elfenbein herzustellen. Nur diesem Volle, das von
-ernsthaften Forschern als Fremdlinge auf Erden, als Nahte
+Chinesen vermag so saubere, künstlerische handgeschnitzte Arbeiten
+in Elfenbein herzustellen. Nur diesem Volke, das von
+ernsthaften Forschern als Fremdlinge auf Erden, als Nachkommen
 <@pagebreak/>
-kommen von Bewohnern eines anderen Planeten angesehen
-fand, ist auch der spielerische Erfindungsgeist eigen, in derartige
-Elfenbeinsächelchen Versteckte einzubauen, wo niemand
-Hefte ahnt …
+von Bewohnern eines anderen Planeten angesehen
+wird, ist auch der spielerische Erfindungsgeist eigen, in derartige
+Elfenbeinsächelchen Verstecke einzubauen, wo niemand
+sie ahnt …
 
 So auch hier …
 
 Der Schädel war hohl, und aus dieser winzigen Höhlung
 brachte Harst ein vielfach zusammengefaltetes Stück Seidenpapier
 zum Vorschein, breitete es vorsichtig auf dem Tische
-nacheinander und zeigte uns so, daß das Papier einen
-großen … Tintenfleck auswies, daneben mehrere Tintenspritzer,
+auseinander und zeigte uns so, daß das Papier einen
+großen … Tintenfleck aufwies, daneben mehrere Tintenspritzer,
 — all das höchst harmlos und nichtssagend — —
 scheinbar!!
 
 Wenn man wie ich nun bereits fast ein Jahrzehnt Harald
-Hungrig ständiger Begleiter ist, dann färbt doch von dem
+Harsts ständiger Begleiter ist, dann färbt doch von dem
 Genie des anderen so ein ganz wenig auf den Durchschnittsmenschen
 ab … Dann ist man doch fähig, mit raschem
-Geiste unklare Dinge ihres Wundere zu entkleiden und auf
+Geiste unklare Dinge ihres Dunkels zu entkleiden und auf
 dem Wege logischer Schlußfolgerungen aus Nichtigkeiten
-Bedeutsames3 zu entwickeln.  …
+Bedeutsames zu entwickeln …
 
 Kaum hatte ich also dieses tintenbekleckste Seidenpapier
 gesehen, als ich schon an das Taschentüchlein der bei Zahnarzt
 Gybourg an Herzschlag verschiedenen Frau dachte …
 
-Und sofort auch erkannte ich zwischen den Winterlichen
+Und sofort auch erkannte ich zwischen den Tintenflecken
 dieses Papiers und denen des Taschentuches in den Umrissen
 eine gewisse Ähnlichkeit.
 
@@ -662,26 +662,26 @@ deutete auf die Seekarte der langgestreckten Inselgruppe …
 »Die Umrisse stimmen genau … Und genau so waren
 auch …«
 
-»… die Tintenflecks auf Dem Spitzentüchlein der Toten!«
+»… die Tintenflecke auf Dem Spitzentüchlein der Toten!«
 vollendete ich den Satz.
 
 Harald nickte. »Ja — und hier, hier außerhalb der langen
 Gruppe ineinanderlaufender Flecke liegt ein einzelner.
 Und — nur dieses Tintenpünktchen hat … einen rötlichen
-Rand … Bitte — schaut nur sorgfältig hin. Es Oft so …«
+Rand … Bitte — schaut nur sorgfältig hin. Es ist so …«
 
-»Es ist die eine der Flannan-Inseln.« erklärte Edward
+»Es ist die eine der Flannan-Inseln,« erklärte Edward
 <@pagebreak/>
-Hamilton in seiner schlichten Art. »Eis ist die, auf deren
+Hamilton in seiner schlichten Art. »Es ist die, auf deren
 Riffen das Wrack des Kreuzers Connaught liegt …«
 
 »Mithin, meine Freunde,« rief Harald strahlend, »mithin
-hängen biete Tintenflecks doch offenbar mit dem Reiseziel
+hängen diese Tintenflecke doch offenbar mit dem Reiseziel
 des Kutters innigst zusammen, das heißt: der Kutter ist nach
 den Flannan-Inseln unterwegs!«
 
-Darauf gehe ich jede Weite ein,« (arbeite Hamilton.
-»Wollen Sie mit mir wetten, Mr. Ertrank …?«
+Darauf gehe ich jede Weite ein,« lächelte Hamilton.
+»Wollen Sie mit mir wetten, Mr. Schraut …?«
 
 Ich wollte gutgelaunt etwas erwidern …
 
@@ -693,21 +693,21 @@ Ein ohrbetäubender Knall …
 
 Ein Krachen — Splittern …
 
-Die Kajütenfenster zerrieben in Atome … Die Kajütentür
-flog aus der Füllung, flog gegen den Gift …
+Die Kajütenfenster zerstoben in Atome … Die Kajütentür
+flog aus der Füllung, flog gegen den Tisch …
 
 Und die Caledonia, durch eine unheimliche Gewalt aus
-ihrem Clement hochgeschleudert, prallte nun wieder auf die
+ihrem Element hochgeschleudert, prallte nun wieder auf die
 Wasseroberfläche, lag ganz schief …
 
 Wir drei waren übereinandergestürzt, rappelten uns auf.
 
 »Die Koffer!!« brüllte Harald …
 
-Die Jacht flott!!« brüllte Hamilton …
+»Die Jacht sinkt!!« brüllte Hamilton …
 
 Und im Nu hatten wir die Koffer in den Händen —
-stürmten an Deck, sahen mit einem. Blick, daß die Jacht nicht
+stürmten an Deck, sahen mit einem Blick, daß die Jacht nicht
 mehr zu retten war …
 
 Das ganze Vorderteil war weggerissen. Aber das kleine
@@ -719,24 +719,24 @@ Wir also hinein in das Boot …
 Hamilton holte noch ein Fäßchen Schiffszwieback, ein
 paar Büchsen Konservenfleisch …
 
-Die Jacht satte ihm unter den Füßen weg. Ein Sprung
+Die Jacht sackte ihm unter den Füßen weg. Ein Sprung
 brachte ihn in Sicherheit — zu uns in das Diggy …
 
 Bis zum Ufer waren’s keine zwanzig Meter. Während
-ich ruderte, während Harst, die Clementpistole in der. Hand,
-bot aufgerichtet dastand und mißtrauisch die felsige Küste
+ich ruderte, während Harst, die Clementpistole in der Hand,
+hoch aufgerichtet dastand und mißtrauisch die felsige Küste
 <@pagebreak/>
 musterte, ging Die Caledonia, noch vor ihrem Anker liegend,
 Für immer in die Tiefe …
 
-Dreißig Meter hinab! Wir hatten’s ja abgekehrt, bevor
-taute hier Anker warfen und den werd … Motor in Behandlung
+Dreißig Meter hinab! Wir hatten’s ja abgelotet, bevor
+wir hier Anker warfen und den verd… Motor in Behandlung
 nahmen.
 
-Edward Hamilton, bleich wie wir, stierte auf die Messerklinge,
+Edward Hamilton, bleich wie wir, stierte auf die Wellenringe,
 die die Stelle bezeichneten, wo die Jacht versunken.
 
-Es 1 muß eine treibende Mine gewesen sein,« sagte er
+»Es muß eine treibende Mine gewesen sein,« sagte er
 tonlos …
 
 »Es war ein Anschlag!« sagte Harald sehr bestimmt.
@@ -746,25 +746,25 @@ sie jetzt bewiesen! Verbrecher, die längst gemerkt haben, daß
 sie verfolgt wurden, die aber schlau genug waren, so zu tun,
 als wähnten sie sich sicher. Eine … Wurfbombe war’s —
 nichts anderes! Und hätte das Ding besser getroffen, wäre
-es anstatt auf dem Bug mittschiststs3 explodiert, dann … dann
+es anstatt auf dem Bug mittschiffs explodiert, dann … dann
 lägen wir jetzt ebenfalls dort auf dem Grunde der Bucht! —
 Stopp, mein Alter! Rudere nicht zu hastig! Drücke das
 Boot mehr herum. Lande dort drüben an der Felszunge.
-Ich habe nicht Luft, mir eine heimtückische Kugel durch das
+Ich habe nicht Lust, mir eine heimtückische Kugel durch das
 Hirn blasen zu lassen!«
 
-Hamilton winkte mir und übernahm. die Ruder …
+Hamilton winkte mir und übernahm die Ruder …
 
 Ich stellte mich neben Harald …
 
-Wir spähten und spähten, suchten die zerklüfteten hoher
+Wir spähten und spähten, suchten die zerklüfteten hohen
 Ufergestade mit mißtrauischen Augen nach irgend etwas Verdächtigem
 ab …
 
-Fanden nichts — nichts …! Bemerkten auch nicht Bad
+Fanden nichts — nichts …! Bemerkten auch nicht das
 allergeringste Anzeichen dafür, daß Menschen in der Nähe …
 
-Die durch den Knall der Explosion aufgescheuchten Sockel
+Die durch den Knall der Explosion aufgescheuchten Seevögel
 schossen in dichten Schwärmen kreischend durch die
 Luft …
 
@@ -772,20 +772,20 @@ Möwen waren’s, Kormorane, Albatrosse, Wildgänse —
 die ganze Vogelkolonie dieses einsamen Gestades … —
 
 Steuermann Hamilton zog die Riemen mit solcher Kraft
-durch, daß unser Diggy schäumend das, Wasser durchschnitt.
+durch, daß unser Diggy schäumend das Wasser durchschnitt.
 
 <@pagebreak/>
 Und Steuermann Hamilton brummte: »Niemals glaube
-ich daran, daß es eine gewachsene Bombe war! Es war eine
+ich daran, daß es eine geworfene Bombe war! Es war eine
 treibende Mine, eine, die noch vom Weltkrieg her die See
 unsicher machte, die sich von ihrer Verankerung losgerissen
-ct! Diese Dinger haben ja schon genug Unheil angerichtet!«
+hat! Diese Dinger haben ja schon genug Unheil angerichtet!«
 
 Und — keine drei Sekunden später, als kaum sein letztes
-Fjord verklungen, erhielt er die eindringliche Bestätigung, daß
+Wort verklungen, erhielt er die eindringliche Bestätigung, daß
 Harald recht Hatte …
 
-ge — drei Kugeln pfiffen singend zwischen uns hin-dur
+Zwei — drei Kugeln pfiffen singend zwischen uns hindurch
 …
 
 Der Knall der Schüsse dröhnte dann hinterher als vielfaches
@@ -794,21 +794,21 @@ Echo in den Felsgestaden wider …
 Harst Hatte mich schnell niedergedrückt …
 
 »Hinlegen!« keuchte er … »Hinlegen! Oh — diese
-Schufte ….!! — Hamilton, den Teufel auch, wollen Sie
-sich mal gefälligst Buden … 1«
+Schufte …!! — Hamilton, den Teufel auch, wollen Sie
+sich mal gefälligst ducken …!«
 
-über: der Steuermann ruderte weiter, ruderte zur Bucht
+Aber: der Steuermann ruderte weiter, ruderte zur Bucht
 hinaus …
 
 Kein Schuß mehr .…
 
-Nichte — nichts …
+Nichts — nichts …
 
 Hier draußen, wo die Wogen des Atlantiks unser Diggy
 auf und ab wiegten, hier zweihundert Meter vom Ufer entfernt,
 sagte Harald:
 
-»Das Abenteuer wird blutig werden, fürchte i!«
+»Das Abenteuer wird blutig werden, fürchte ich!«
 
 Und er fuhr sich mit dem Finger am linken Ohr entlang,
 zog den Finger voller Blut zurück.
@@ -819,15 +819,15 @@ Freunde ein Stückchen Ohrmuschel weggerissen hatte … —
 Harst ließ sich das Ohr verbinden. Ich tat’s, und Das
 war bald erledigt.
 
-Hamilton ruderte bedächtig nach Norden u …
+Hamilton ruderte bedächtig nach Norden zu …
 
 »Nein,« meinte Harald, »nein, Steuermann, mit dieser
-Nußschale von Boot sind wir hier auf See zu leicht zu rannen.
+Nußschale von Boot sind wir hier auf See zu leicht zu rammen.
 Wir müssen an Land, unbedingt. Wenn die Kerle
 auf den Gedanken kommen, uns mit ihrem Kutter hier zu
 <@pagebreak/>
 besuchen, gebe ich keinen Pfifferling für unser Leben. Sie
-schießen uns ab wie die Hafen beim Kesseltreiben, und mit
+schießen uns ab wie die Hasen beim Kesseltreiben, und mit
 unseren Pistolen richten wir da gar nichts aus. An Land
 sind wir sicherer. Dort sehe ich eine zweite Bucht, Steuermann
 … Also hinein mit uns!«
@@ -838,63 +838,63 @@ Hamilton nicke eifrig …
 Ihnen auch nie mehr widersprechen. Sie sind ja doch der
 Erfahrenere …«
 
-Und er ruderte wieder, was seine -Muskeln nur leisten
+Und er ruderte wieder, was seine Muskeln nur leisten
 konnten …
 
-Brachte und glücklich durch die vor der Buchteinfahrt
-lachende Brandung und drückte das Diggy dann so dicht an
-das himmelhohe, überhängende südliche Steilufer, daß wirken
-oben nicht beschossen werden konnten.
+Brachte uns glücklich durch die vor der Buchteinfahrt
+stehende Brandung und drückte das Diggy dann so dicht an
+das himmelhohe, überhängende südliche Steilufer, daß wir
+von oben nicht beschossen werden konnten.
 
 Dann lenkte er in eine Art Kanal ein, der in zahllosen
 Windungen, häufig von natürlichen Felsbrücken überdacht,
-in einen jener Umgerissen führte, die dem eintönigen Heide-landicastêbild
-der Hebriden wenigstens einige Abwechslung
+in einen jener Binnenseen führte, die dem eintönigen
+Heidelandschaftsbild der Hebriden wenigstens einige Abwechslung
 verleihen.
 
 Der See war tief gelegen, eingebettet in den Fels wie
 eine Schüssel, und an den Ufern mit dürftigen Sträuchern
-machen. Mr
+umgeben.
 
 Die größte Länge dieses Gewässers, das durch den Kanal
 mit dem Meere in Verbindung stand, mochte hundertfünfzig
-Meter betragen, während die Breite infolge einiger fahler
-Seläcilande am Witwer sehr ungleich war.
+Meter betragen, während die Breite infolge einiger kahler
+Felseilande am Ostufer sehr ungleich war.
 
-Auch hier liehen wir es an der nötigen Vorsicht nicht
+Auch hier ließen wir es an der nötigen Vorsicht nicht
 fehlen.
 
-Mut Harald Befehl trieb Steuermann Hamilton das
+Auf Haralds Befehl trieb Steuermann Hamilton das
 Boot zwischen zwei der Eilande hinein, wo wir dann, umgeben
 von den zackigen Hügelkuppen dieser Inselchen, landeten
 und Harald rasch eine der Kuppen erstieg, um von oben
-Ausschau zu ballten. Er kehrte sehr bald zu uns zurück, erklärte,
+Ausschau zu halten. Er kehrte sehr bald zu uns zurück, erklärte,
 nichts Verdächtiges bemerkt zu haben, und forderte mich
 <@pagebreak/>
 auf, ihn auf einem Gang nach einem im Norden des Sees
 gelegenen Berge zu begleiten …
 
-Sie, lieber Hamilton, bleiben als Wache Hier im Boot.
+»Sie, lieber Hamilton, bleiben als Wache Hier im Boot.
 Für alle Fälle werde ich die Kette mit dem Elfenbeinskelett
 und die Fahrkarte der blonden Toten hier unter den Steinen
-verbergen. Man kann ja nie wissen, was geschickt.
+verbergen. Man kann ja nie wissen, was geschieht.
 Sollten Sie, Hamilton, den bisher unsichtbar gebliebenen
 Schurken in die Hände fallen, so verraten Sie nichts von
-dem, was Sie über die blonde Tote willen. Bleiben Sie
+dem, was Sie über die blonde Tote wissen. Bleiben Sie
 dabei, daß wir beide holländische Heringshändler sind und
 den Kutter nur deshalb verfolgt haben, weil wir in den
 Leuten dort Konkurrenten vermuteten. Es ist das zwar
-eine sehr fadenjcheinige Ausrede, aber immerhin besser als
-seine. — Sollten Schraut und ich jedoch innerhalb zwölf
+eine sehr fadenscheinige Ausrede, aber immerhin besser als
+keine. — Sollten Schraut und ich jedoch innerhalb zwölf
 Stunden nicht zurück sein, so versuchen Sie den Hafenort
 Barvas zu erreichen und warten dort nochmals einen vollen
 Tag. Hören Sie bis dahin nichts von uns, so melden Sie
 die Sache der englischen Hafenpolizei und dringen Sie darauf,
-daß sofort einer der mit der Überwachung der Hohler- -
-Fischerei. betrauten Dampfer das Wrack der Connaught auf.
-sucht und feststellt, ob sich dort Leute verborgen halten.«
+daß sofort einer der mit der Überwachung der Hochseefischerei
+betrauten Dampfer das Wrack der Connaught aufsucht
+und feststellt, ob sich dort Leute verborgen halten.«
 
-Qamilton nickte ernst. »Soll geschehen, Mister Harst
+Hamilton nickte ernst. »Soll geschehen, Mister Harst …
 Und wenn die Polizei in Barvas mich nun fragt, was die
 Leute dort Ihrer Ansicht nach treiben, Mister Harst? —
 Bisher haben Sie über diesen Punkt nichts geäußert …«
@@ -904,15 +904,15 @@ der Koffer der Toten, den der angebliche Herbett auf
 den Kutter verfrachtete, irgendwelche äußerst kostbare Diebesbeute
 enthält, die von den Schurken zunächst in Sicherheit
 gebracht wird, bis der Eifer der Polizei nachläßt und die
-Veräußerun- der Beute sich gefahrlofer bewerkstelligen läßt.«
+Veräußerung der Beute sich gefahrloser bewerkstelligen läßt.«
 
 »Hm — an so was Ähnliches habe ich auch schon gedacht,«
 meinte der junge Steuermann in seiner bedächtigen
 Art. »Na — wollen hoffen, daß ich nicht in Die Verlegenheit
-fromme, der Polizei in Barvas einen großen Vortrag halten
-zu müssen. Viel reden ist nicht gerade meine Tadel Auf
+komme, der Polizei in Barvas einen großen Vortrag halten
+zu müssen. Viel reden ist nicht gerade meine Sache! Auf
 <@pagebreak/>
-Wiedersehen, die Herren! Und hoffentlich recht bald … 1» —
+Wiedersehen, die Herren! Und hoffentlich recht bald …!» —
 
 Hamilton ahnte ebensowenig wie wir, daß dieses Wiedersehen
 unter Umständen stattfinden sollte, die selbst die Phantasie
@@ -923,35 +923,35 @@ eines Harst niemals vermutet oder ersonnen hätte.
 
 Die Eilande waren zumeist nur durch ganz schmale, flache
 Wasserrinnen voneinander getrennt, so daß wir bequem diese
-Kanäle durhmwaten konnten.
+Kanäle durchwaten konnten.
 
 Als wir das Seeufer erreicht hatten, strebten wir dem
 Berge drüben unter Anwendung aller nur irgend möglichen
-Vorsichtsmaßregeln zu, um weder bemerkt, noch etwa plöß—lich
-übersahen zu werden. Daß diese Gegner da, die selbst
+Vorsichtsmaßregeln zu, um weder bemerkt, noch etwa plötzlich
+überfallen zu werden. Daß diese Gegner da, die selbst
 mit Wurfbomben versehen waren, uns nicht schonen würden,
 wußten wir ja nur zu gut.
 
 Der frische Seewind, der über diese Hebrideninsel hinstrich
 (welche es war, entzog sich unserer Kenntnis, da zu der
 Gruppe ja nicht weniger als 521 Inseln und Eilande gehören),
-tat mir so gut, daß ich ohne Mühe kriechend mehr:7
-Freunde folgte, der mir stete einige Meter voraus war.
+tat mir so gut, daß ich ohne Mühe kriechend meinem
+Freunde folgte, der mir stets einige Meter voraus war.
 
 Durch Heidekraut und dürre Gräser, durch Steingeröll
 und über kahlen, sonndurchglühten Fels hinweg nahmen
 wir unseren Weg, bis der Steinschutt und einzelne Felsblöcke
 am Fuße des Berges uns gestatteten, mit ein paar
-langen Sprüngen in einer steil auswärtssührenden Schlucht
-zu verschwinden.«
+langen Sprüngen in einer steil aufwärtsführenden Schlucht
+zu verschwinden.
 
-Naß zehn Minuten Hatten wir die Bergkuppe erklommen,
+Nach zehn Minuten Hatten wir die Bergkuppe erklommen,
 lagen zwischen Steinen verborgen am Westrande und
 hielten zunächst einmal nach dieser Richtung Ausschau …
 
 Das Inselpanorama eines Teiles der Hebriden und des
 mit weißen Schaumkämmen bedeckten Atlantischen Ozeans
-breitete sich vor uns aus. Hell schimmerten im Sonnenaglafi
+breitete sich vor uns aus. Hell schimmerten im Sonnenglast
 <@pagebreak/>
 die Kanäle zwischen den kahlen Eilanden. Nun stellten wir
 auch fest, daß unsere Insel hier etwa eine Meile lang und
@@ -964,7 +964,7 @@ Da gab es anderes, was sich den erstaunten Blicken nach
 Nordwest zu hart am Steilabhang einer Bucht darbot …
 
 Da stand ein großes gelbes Zelt, und vor diesem Zelte
-saß vor einer Staffelei, die durch einen riesigen Schirm gefrönt
+saß vor einer Staffelei, die durch einen riesigen Schirm gekrönt
 war, eine Frau in weißem Kleide mit breitem Panamahut
 auf dem dunklen Haar.
 
@@ -977,53 +977,53 @@ hatte und daß sie noch jung sein mußte …
 ein Mann erscheint im Zelteingang — ein Matrose …«
 
 Ich richtete mein Glas auf den Matrosen, der nun der
-Staffelei zuschritt und vor der Dame die Mühe vom Kopfe
-riß…
+Staffelei zuschritt und vor der Dame die Mütze vom Kopfe
+riß …
 
 Sie sprachen miteinander. Der Matrose verneigte sich
-»da wrihmwand am Abhang der Bucht. Offenbar lag dort
+und verschwand am Abhang der Bucht. Offenbar lag dort
 das Fahrzeug, mit dem die eifrige Malerin hierher gekommen
 war.
 
-Ob’s die Gegner sind?« fragte ich leise und schaute
+»Ob’s die Gegner sind?« fragte ich leise und schaute
 Harald an.
 
 »Das werden wir sofort sehen … Wir müssen uns unbedingt
-bis zu der Bucht vorschreiben. Ich traue dem pries
-den nicht! Es kann eine Falle sein …«
+bis zu der Bucht vorschleichen. Ich traue dem Frieden
+nicht! Es kann eine Falle sein …«
 
 Und hastig begann er den Abstieg. —
 
 Eine halbe Stunde später steckten wir beide am Buchtufer
-zwischen den Felsnadeln einiger Risse und hatten nun
-das Fahrzeug seine Hundert Meter vor und.
+zwischen den Felsnadeln einiger Riffe und hatten nun
+das Fahrzeug keine hundert Meter vor uns.
 
 Es war — — nicht der Kutter! Nein, es war eine
-Segeljacht mit Achterbedaufbau, mit Jachttakelung und dazu.
+Segeljacht mit Achterdeckaufbau, mit Jachttakelung und dazu
 schneeweiß gestrichen.
 
 <@pagebreak/>
 »Also doch nicht der Kutter!« raunte ich Harald zu.
 
-»am — rieche!«
+»Hm — rieche!«
 
 Der Wind wehte schräg von der Jacht herüber …
 
 Und — nun spürte auch ich den kennzeichnenden Geruch
-von Lud …!!
+von Lack …!!
 
-»Lud!« flüsterte ich nur.
+»Lack!« flüsterte ich nur.
 
-»so — Lack und Leim!! Wir sollten geleimt werden:
-Die Schufte haben den biederen Hochseekutter tadellose heraus.
-staffiert, müssen alles Nötige dazu bei sich geführt haben!
-E83 sind die Gegner!«
+»Ja — Lack und Leim!! Wir sollten geleimt werden:
+Die Schufte haben den biederen Hochseekutter tadellose herausstaffiert,
+müssen alles Nötige dazu bei sich geführt haben!
+Es sind die Gegner!«
 
 Mit solcher Bestimmtheit erklärte er das, als ob die Jachtbesatzung
 nicht auch zufällig den Farbentopf hätte hervorgeholt
 haben können.
 
-Oh — schwieg. Ah — zweifelte …
+Ich — schwieg. Ich — zweifelte …
 
 Und Harald meinte dann ebenso bestimmt:
 
@@ -1033,39 +1033,39 @@ haben uns aus den Augen verloren, wollen uns aber um
 jeden Preis einfangen. Das Zelt — die Malerin, — alles
 Komödie!«
 
-Auf der Kajütentreppe dort drüben. war der Matrose
+Auf der Kajütentreppe dort drüben war der Matrose
 erschienen …
 
-Ein älterer Mann, bärtig, sauber- gekleidet — ganz in
+Ein älterer Mann, bärtig, sauber gekleidet — ganz in
 Weiß …
 
-»Haft Du Augen?« flüsterte Harst- »Ein Matrose mit
+»Hast Du Augen?« flüsterte Harst. »Ein Matrose mit
 solchem Stadtteint ist mir noch nicht vorgekommen!« Er
 lachte leise …
 
 Und ich — ich wurde nun ebenfalls stutzig. Gewiß —
 ich hatte Augen, nur daß die Haralds weit besser waren!
 Und so mußte ich ihm denn vollkommen recht geben: der
-Mann dort war niemals Matrose von, Beruf! Das war
-jemand, der diese Tracht der sonngebräunten Seefahreru
-einem käsigen Gesicht trug, dessen erblaßte Farbe mich so
-fort an die von Zuchthäuslern erinnerte.
+Mann dort war niemals Matrose von Beruf! Das war
+jemand, der diese Tracht der sonngebräunten Seefahrer zu
+einem käsigen Gesicht trug, dessen erblaßte Farbe mich sofort
+an die von Zuchthäuslern erinnerte.
 
 Und nun, durch Harald aufmerksam gemacht, beobachtete
-ich auch sorgfältiger die Haltung und den Gang des Mengten,
+ich auch sorgfältiger die Haltung und den Gang des Menschen,
 <@pagebreak/>
-der jetzt über die Lauf plante und Ufer hinüberging.
+der jetzt über die Laufplanke ans Ufer hinüberging.
 
-Eine wippende LZaufplanfe so vorsichtig und ungeschickt
-zu überschreiten wie der da: nein, das konnte sein Seemann
-sein! Das war Ma2ferapde, nicht? weiter, das war Komödie,
-wie Harald sich ausgnedrüdt Hatte! —
+Eine wippende Laufplanke so vorsichtig und ungeschickt
+zu überschreiten wie der da: nein, das konnte kein Seemann
+sein! Das war Maskerade, nichts weiter, das war Komödie,
+wie Harald sich ausgedrückt Hatte! —
 
 Der Matrose verschwand in einer Art Hohlweg, der sich
-durch das steile hohe Frisuren als schräge Spalte nach oben
+durch das steile hohe Felsufer als schräge Spalte nach oben
 zog …
 
-»Wir wagen’3!« flüsterte Harald da. »Wir magen’ä!
+»Wir wagen’s!« flüsterte Harald da. »Wir wagen’s!
 Ich wette, der Rest der Bande steckt im Zelt! Vorwärts
 denn, der Kutter muß unser werden!«
 
@@ -1074,7 +1074,7 @@ Vorschlag dachte …
 
 »Hast Du Angst, mein Alter?!« lächelte Harst, und in
 seinem Antlitz war jener Zug von Energie und Entschlossenheit,
-der mich Von so oft Pro aller Bedenken mit fortgerissen
+der mich schon so oft trotz aller Bedenken mit fortgerissen
 Hat …
 
 Ich zuckte nur die Achseln …
@@ -1086,9 +1086,9 @@ Erreichten die Planke …
 Hinüber — aber so, daß sie nicht wippte …
 
 Hinüber — und für alles vorbereitet: die Clement in
-der Hand, damit die Mambenmerfer und nicht einfach niederknallten,
-falls da noch ein paar entgegen Harald Annahme
-in der Kajüte stellten …
+der Hand, damit die Bombenwerfer uns nicht einfach niederknallten,
+falls da noch ein paar entgegen Haralds Annahme
+in der Kajüte steckten …
 
 Und nun hinab die kurze Kajütentreppe …
 
@@ -1100,7 +1100,7 @@ Drehte den Kopf zurück …
 
 Sein Gesicht zeigte schwere Enttäuschung, Unsicherheit …
 
-»Es ist Doch nicht der Kutter!« flüsterte er. »Ich erkaufte
+»Es ist Doch nicht der Kutter!« flüsterte er. »Ich erkannte
 es schon, als wir näherkamen. Die Länge stimmt, aber die
 Form ist anders! Dies ist eine Jacht!«
 
@@ -1109,9 +1109,9 @@ Er deutete in die Kajüte hinein …
 »Ein Hochseekutter enthält keine Kajüte wie diese!
 Keine Wandsofas, keine Mahagonitäfelung, nicht diese eingebauten
 <@pagebreak/>
-Schränke und die andere Zurusanzftattung …«
+Schränke und die andere Luxusausstattung …«
 
-Seine Stirn lag in Falten. Seine Wangenmuödleln
+Seine Stirn lag in Falten. Seine Wangenmuskeln
 spielten. Der Ausdruck der Augen wurde versonnen,
 weltentrückt, — — bewies, daß seine Gedanken das wahre
 Wesen dieses Fahrzeugs zu ergründen suchten …
@@ -1119,10 +1119,10 @@ Wesen dieses Fahrzeugs zu ergründen suchten …
 Dann — wie ein heller Schein lief’s über dieses Gesicht
 Hin. Die Stirn glättete sich …
 
-Ein überlegen-ironishes Lächeln umzuckte den Mund …
+Ein überlegen-ironisches Lächeln umzuckte den Mund …
 
-»Anfänger!! Anfänger sind’s auf der Bahn des Ver-brechen83!«
-sagte er leise. »Da— sich den Beweis, daß die
+»Anfänger!! Anfänger sind’s auf der Bahn des Verbrechens!«
+sagte er leise. »Da — sieh den Beweis, daß die
 Bande über zwei Fahrzeuge verfügt, über den Kutter und
 Über diese Jacht!«
 
@@ -1132,17 +1132,17 @@ ich drängte mich neben ihn, halb in die Tür hinein …
 
 Da lag auf einem Wandbrett auf einem tintenbeklecksten
 Taschentuch — Spitzentaschentuch — ein goldenes Kettchen
-mit einem winzigen künstlerisch aus Elfenbein. geschnitten
+mit einem winzigen künstlerisch aus Elfenbein geschnitzten
 menschlichen Skelett …
 
-»Scheinbar das Eriennungszeichen der Bande,« meinte
-Harald. »Es muß eine ganz gefährliche, großzügige Der
-brechergefellfchaft sein! Die Leute arbeiten mit Hilfsmitteln,
+»Scheinbar das Erkennungszeichen der Bande,« meinte
+Harald. »Es muß eine ganz gefährliche, großzügige
+Verbrechergesellschaft sein! Die Leute arbeiten mit Hilfsmitteln,
 die ihre Vielseitigkeit beweisen. Es sind fraglos Seeleute
-Darunter … Wir werden nun doch die Sacht — stehlen …
-203 denn! Ziehe die Laufplanke ein. Ich werde …«
+Darunter … Wir werden nun doch die Jacht — stehlen …
+Los denn! Ziehe die Laufplanke ein. Ich werde …«
 
-Und da — da warnte uns das laute Gegolten aus Dem
+Und da — da warnte uns das laute Gepolter aus Dem
 Hohlweg herabrollender Steine …
 
 »Ducken — hinein in die Kajüte!« raunte Harst, schob
@@ -1153,7 +1153,7 @@ dem Lande zu …
 
 Der Matrose — zwei Männer in Sportanzügen …
 
-Beladen mit den Zeltstangen, dem Feststellt …
+Beladen mit den Zeltstangen, dem Zeltstoff …
 
 Und — — hinter … hinter ihnen Steuermann Edward
 Hamilton, mit auf den Rücken gefesselten Händen, bewacht
@@ -1169,15 +1169,15 @@ Und Harald wieder:
 finden … Jede Jacht hat Reservesegel mit … Hinter den
 Segelballen …«
 
-Und — wir erreichten die niedere Segelkammer, rohen
-hinein in- das stickige Dunkel, zogen die Tür hinter uns zu.
-Das Ecbsnappidloß knackte … Zwängten uns an den
-Segelbaüen vorüber, standen im schmatzten Winkel hinter
-einem Rejervesteucr und ein paar Brettern Raum genug zum
-eigen …
+Und — wir erreichten die niedere Segelkammer, krochen
+hinein in das stickige Dunkel, zogen die Tür hinter uns zu.
+Das Schnappschloß knackte … Zwängten uns an den
+Segelballen vorüber, fanden im schmalsten Winkel hinter
+einem Reservesteuer und ein paar Brettern Raum genug zum
+Sitzen …
 
-Und all das, indem wir scheinbar nur einer Augenblick
-blichen Eingebung Haralds folgten — scheinbar …
+Und all das, indem wir scheinbar nur einer augenblicklichen
+Eingebung Haralds folgten — scheinbar …
 
 Er belehrte mich eines Besseren …
 
@@ -1187,9 +1187,9 @@ als er mir zuraunte:
 »So — und hier, hoffe ich, werden wir nun ein Wiedersehen
 mit Edward Hamilton feiern, den die Schurken also
 doch abgefangen haben! Und dann sind wir unserer drei, —
-drei, die es mit diesem Gesindel [Schon aufnehmen werden! —
+drei, die es mit diesem Gesindel Schon aufnehmen werden! —
 Wenn’s anders käme, wenn meine Rechnung nicht stimmt,
-Fund auch noch Rat werden!«
+wird auch noch Rat werden!«
 
 Das also hatte er in Sekunden sich überlegt! Das war
 seine Eingebung. Das war ein fertiger Plan, der — die
@@ -1207,36 +1207,36 @@ Diese Flüche, diese den Neuyorker Verbrecherkellern entstammenden
 wüsten Schimpfworte verrieten die Herkunft der
 <@pagebreak/>
 Bande: Amerikaner! — Nicht Engländer, nicht Franzosen
-en das! Ihr Dialekt sprach für Amerikaner aus den Ojst-taaten.
+waren das! Ihr Dialekt sprach für Amerikaner aus den Oststaaten.
 
 Die Tür flog zu …
 
-Stützen wurden von außen lärmend verurteilt
+Stützen wurden von außen lärmend vorgekeilt.
 
-Dann — wurde es Stil hier im Vorschiff …
+Dann — wurde es still hier im Vorschiff …
 
-Auf Tod lebhaftes Hin und Her …
+Auf Deck lebhaftes Hin und Her …
 
-Die Aufforderte rasselte … Quietschend scheuerte die
-Laufplanke am Ausruhend … Und der Hilfsmotor der
+Die Ankerkette rasselte … Quietschend scheuerte die
+Laufplanke am Außenbord … Und der Hilfsmotor der
 Jacht sprang an. Regelmäßiges Schaukeln, das gurgelnde
 Arbeiten der Schraube verrieten, daß die Jacht der offenen
 See zustrebte …
 
-»Begrüßen wir Hamilton,« »flüsterte Harald. »Zunächst
+»Begrüßen wir Hamilton,« flüsterte Harald. »Zunächst
 wird uns hier niemand stören … Hamilton wird sich etwas
 wundern, glaube ich …«
 
 Wir krochen der Tür zu …
 
 Da — Hamiltons Stimme — — ruhig, bedächtig wie
-immer. nur leiser:
+immer, nur leiser:
 
 »Ist dort jemand? Sind Sie’s, Mister Harst?«
 
 Dunkelheit ringsum … Nicht die Hand vor Augen zu
 sehen … Kein Fenster hier … Nicht einmal durch die
-Turnten ein Lichtstrahl …
+Türritzen ein Lichtstrahl …
 
 »Wir sind’s, Hamilton …«
 
@@ -1245,8 +1245,8 @@ beide auch hier sind, ist ja alles gut. Den Kerlen habe ich da
 ein nettes Lügengarn vorgesponnen, nachdem sie mich so
 hinterrücks niedergerungen hatten und mit dem Revolver
 mich bedrohten. Zwei waren’s, und ich will nie wieder
-Pfeife rauben, wenn die nicht im. Schatten Neuyorker
-Wolkecnkraver groß geworden sind … — Ja — ein nettes
+Pfeife rauchen, wenn die nicht im Schatten Neuyorker
+Wolkenkratzer groß geworden sind … — Ja — ein nettes
 Lügengarn, Mister Harst … Ich blieb also bei den Heringsaufkäufern,
 sagte, daß Sie beide versuchen wollten, zu Fuß
 eine Fischerhütte zu erreichen. Und dann wollten Sie mich
@@ -1255,7 +1255,7 @@ Schufte, weiß ich nicht. Jedenfalls waren sie vor Wut rein
 wie die Narren, weil Sie beide ihnen entwischt waren …«
 
 <@pagebreak/>
-Dunkelheit — — drüctendsle Hitze … Teergestank nach
+Dunkelheit — — drückendste Hitze … Teergestank nach
 Tauwerk, Benzindunst …
 
 Und Harald fragte: »Glauben Sie, daß die Bande ahnt,
@@ -1274,22 +1274,22 @@ Fahrzeuge zur Verfügung …«
 Banditen mit Ihnen anzufangen?«
 
 »Sie … wollen mich ersäufen … — Eine rabiate
-Gesellschaft! über — den Ton gibt das schwarze Brauch!1:
-Zimmer an, die da die Malerin spielte … Ein verteufelt
-hübsches Weib, Mister Harst … Und fraglos was Vor:
+Gesellschaft! Aber — den Ton gibt das schwarze Frauenzimmer
+an, die da die Malerin spielte … Ein verteufelt
+hübsches Weib, Mister Harst … Und fraglos was
 vornehmes … Wie die Lämmer benehmen sich die Kerle ihr
 gegenüber …«
 
 »Und sonst? Hörten Sie sonst irgend etwas Wichtiges?«
 
-»Hm — nur etwas, Mister Harst. eine Kleinigkeit.
+»Hm — nur etwas, Mister Harst … eine Kleinigkeit.
 Als der Kerl im Matrosenanzug mich anbrüllte, daß sie
-seine Zeugen brauchen könnten und daß ich den Wilantil
+keine Zeugen brauchen könnten und daß ich den Atlantik
 von unten kennenlernen würde, da sagte das schwarze Weib:
-Was geschehen, soll auch zu Ende geführt werden! Nicht
-sichten gibt es nicht! Sie haben sich Ihr Schicksal selbst zuzuschreiben!
-— Gegner, der Mann kommt vorläufig in die
-Segelkammer!«. Der eine heißt also Gegner, und das
+»Was geschehen, soll auch zu Ende geführt werden! Rücksichten
+gibt es nicht! Sie haben sich Ihr Schicksal selbst zuzuschreiben!
+— Groner, der Mann kommt vorläufig in die
+Segelkammer!« … Der eine heißt also Groner, und das
 Weib ist nicht gerade weichherzig, Mister Harst …«
 
 Und all das sprach der brave Steuermann inmitten
@@ -1297,24 +1297,24 @@ mit der Ihm eigenen unnachahmlichen Ruhe hin — etwa so,
 als ob’s ein Wildfremder und nicht er selbst wäre, der da —
 ersäuft werden sollte. —
 
-Eine Weile Stile …
+Eine Weile Stille …
 
 Dann Harald:
 
-»Sie können sich ganz auf und beide verlassen, Hamilton.
+»Sie können sich ganz auf uns beide verlassen, Hamilton.
 Bleiben Sie gefesselt. Wenn Not am Mann, reden unsere
 <@pagebreak/>
 Neunschüssigen. — Wie lange sind wir etwa bis zu den
 Flannan-Inseln unterwegs?«
 
-»Nun — jetzt iftl’3 etwa elf Uhr vormittags … Gegen
-zehn Uhr absuchte dürsten die Inseln in Sicht kommen, falls
-die an ihre zwölz Simplen läuft, und das wird sie wohl,
-ade …«
+»Nun — jetzt ist’s etwa elf Uhr vormittags … Gegen
+zehn Uhr abends dürften die Inseln in Sicht kommen, falls
+die Jacht ihre zwölf Knoten läuft, und das wird sie wohl,
+schätze ich …«
 
 »Gut … Falls bis dahin also nichts geschieht, werden
-wir »erst dicht vor dem Ziel Ihnen die Stricke abnehmen und
-die Banditen dann hier einsperren …« Das schlang so
+wir erst dicht vor dem Ziel Ihnen die Stricke abnehmen und
+die Banditen dann hier einsperren …« Das klang so
 selbstverständlich, als hätte es sich um eine Partie Schach mit
 einem minderwertigen Gegner gehandelt …
 
@@ -1326,15 +1326,15 @@ Reine bringen … — Auf Wiedersehen denn also …«
 
 Oh — unser Steuermann Hamilton war nicht auf den
 Kopf gefallen! Das bewies er jetzt abermals — und nicht
-zum legten Male! — —
+zum letzten Male! — —
 
 Ich möchte die für uns endlos eintönigen, qualvollen
 Stunden dieses Tages auf hoher See, eingepfercht in die
-Enge unseres Verstecke, ohne Licht, ohne Luft, schwitzend.
+Enge unseres Verstecks, ohne Licht, ohne Luft, schwitzend,
 keuchend, oft hindämmernd in halbem Schlaf, nicht näher
 beschreiben. Ich könnte es. Wäre viel Stimmungsmalerei
 dabei, — eine seltsame Stimmung in seltsamer Lage …
-Da vorn, zwei Meter enifercnt, der gefesselte Gefährte …
+Da vorn, zwei Meter entfernt, der gefesselte Gefährte …
 und dort weiter in der Kajüte ein Weib, das schön sein sollte,
 eine schöne Tigerin, erbarmungslos, mit Menschenleben
 spielend …
@@ -1342,33 +1342,33 @@ spielend …
 Wer mochte diese Frau sein? Und — was war’s, das
 ihren Weg über den Ozean leitete bis hin nach dem stählernen
 Wrack des englischen Kreuzers, des einsamen Denkmals zur
-Erinnerung an das Massennmorden des zivedloieiten aber
+Erinnerung an das Massennmorden des zwecklosesten aller
 Kriege, die je die Erde erlebte?!
 
 Was war’s — und wer war’s?! — —
 
 <@pagebreak/>
-Harst neben mir regte sich. sich sah das Leuchtzifferblatt
+Harst neben mir regte sich. Ich sah das Leuchtzifferblatt
 seiner Taschenuhr …
 
-Halb zehn. halb zehn abends …
+Halb zehn … halb zehn abends …
 
-Und nichts war inzwischen geschehen — mit Nicht
-ein einziges Mal hatte sich) einer der Bande um Hamilton
+Und nichts war inzwischen geschehen — nichts! Nicht
+ein einziges Mal hatte sich einer der Bande um Hamilton
 gekümmert. Unablässig hatte der Motor gerattert, hatte sich
 die Jacht auf den langen Wogen des Atlantik gewiegt …
 
-»Halb zehn,« sagte Harald. »E33 wird Zeit … Ich
-denke. wir beginnen …«
+»Halb zehn,« sagte Harald. »Es wird Zeit … Ich
+denke, wir beginnen …«
 
-Die Kleider flehten mir am Leibe …
+Die Kleider klebten mir am Leibe …
 
 Luft — Luft — — nur frische Luft!
 
-»Gut — beginnen wir!« murmelte ich und lebte die
+»Gut — beginnen wir!« murmelte ich und leckte die
 trockenen, spröden Lippen …
 
-Harald froh vorwärts …
+Harald kroch vorwärts …
 
 Hamilton meldete sich …
 
@@ -1376,82 +1376,82 @@ Hamilton meldete sich …
 
 »Da sind Sie zu beneiden, lieber Hamilton …«
 
-Seine Taschenlampe flammnte für Sehenden auf …
+Seine Taschenlampe flammte für Sekunden auf …
 Er knotete die Stricke von den verquollenen Handgelenken
-des Schotten, markierte diese Gelenke …
+des Schotten, massierte diese Gelenke …
 
 Sagte: »Da liegt ein großer Schraubenschlüssel, Hamilton.
 In Ihrer Hand genügt der als Waffe …«
 
-Dann die von außen perrammefte Tür …
+Dann die von außen verrammelte Tür …
 
 »Ich schneide die untere Füllung heraus,« meinte Hamilton
-nur. — Sein derbes Seemannsnmesser, halb Dolch,
+nur. — Sein derbes Seemannsmesser, halb Dolch,
 halb Miniaturbeil, arbeitete rasch und sicher …
 
-Die Füllung wurde beiseitegestelt. Und durch das Loch
-Schach Harald ich in die kleine Kombüse hinein, die Küche
-bot der aus eine Hinreise Tür in die Achterkajüte führt! …
+Die Füllung wurde beiseitegestellt. Und durch das Loch
+schob Harald sich in die kleine Kombüse hinein, die Küche
+von der aus eine zweite Tür in die Achterkajüte führte …
 
 Wir, Hamilton und ich, standen nun dicht Hinter Harald
 an dieser Tür und horchten …
 
 Der Motor war soeben verstummt …
 
-Und in der Kajüte alles i! — totenstill …
+Und in der Kajüte alles still — totenstill …
 
 Nur auf Deck ein paar Geräusche …
 
 »Wir müssen bereits zwischen den Klippen der Hauptinsel
 <@pagebreak/>
-sein,« flüsterte Hamilton. »Die Jacht liegt Will …
+sein,« flüsterte Hamilton. »Die Jacht liegt still …
 Jedes Schwanken hat aufgehört …«
 
 Harst öffnete langsam die Tür — ganz langsam …
 
 Dunkelheit … Die Lampe mußte soeben ausgedreht
 worden sein. Es roch nach Acetylengas — nach faulen
-Eiern
+Eiern …
 
 »Vorwärts — an Deck!« befahl Harald …
 
 Tastend schoben wir uns an dem Klapptisch vorüber …
 
-Vor uns ein helleres großes Viereck: die offene Treppen
+Vor uns ein helleres großes Viereck: die offene Treppentür
 …
 
 Harst schob den Kopf vorsichtig über den Rand des
-Treppenniedergangg …
+Treppenniedergangs …
 
 Bog den Kopf wieder nach unten …
 
 »Kommt …! Die vier stehen ganz vorn … Kommt
 — und seht!«
 
-Er flüsterte das lebte in merkwürdig erhöhtem Tone —
+Er flüsterte das letzte in merkwürdig erhöhtem Tone —
 Fast schrill …
 
-Hamilton und ich traten auf die zweite Stufe, retten
-nun Tod …
+Hamilton und ich traten auf die zweite Stufe, reckten
+uns hoch …
 
 Sternenhimmel … im Norden eine riesige schwarze
-Wolkenbank; fast 613 zum halben Firmament reihend …
+Wolkenbank, fast bis zum halben Firmament reichend …
 
 Und dieses schwarze ungeheure Tuch als Hintergrund für
-das seltsamste, phantaftifchjte, unheimlichste Bild, das ich je’
+das seltsamste, phantastischste, unheimlichste Bild, das ich je
 schauten durfte …
 
-Da lag keine dreißig Meter ab, jetzt bei Ebbe das Wracks
+Da lag keine dreißig Meter ab, jetzt bei Ebbe das Wrack
 des Kreuzers hoch auf den Klippen …
 
 Der zweite Gefechtsmast ragte schief empor. Schief lag
 die Connaught da — mächtige Löcher in den Bordwänden,
-Löcher mit käsigen Rändern …
+Löcher mit zackigen Rändern …
 
 Und eins war da, genau mittschiffs, — ein Loch wie ein
 Scheunentor …
 
-Hinter diesen Schußöffnungen im Innern des Wrack
+Hinter diesen Schußöffnungen im Innern des Wracks
 greller Lichtschein …
 
 Und hinter dem Scheunentor, deutlich erkennbar im leeren
@@ -1463,7 +1463,7 @@ Seeleute alles — Matrosen … Offiziere …
 
 Und — — alle … ohne Kopf …
 
-Ohne Kopf, - — so tanzten sie in dem jetzt plötzlich
+Ohne … Kopf, — so tanzten sie in dem jetzt plötzlich
 wechselnden Lichtschein, im grellen Blau, eine Art Reigen …
 
 Stumm — lautlos …
@@ -1482,10 +1482,10 @@ Sein Atem pfiff an meinem Ohr …
 
 Und wieder wechselte das Licht …
 
-Hellgrün nun — hellgrün dort die Beleuchtung des glaubhaften
+Hellgrün nun — hellgrün dort die Beleuchtung des spukhaften
 Reigens …
 
-Ohne Köpfe …. gegen dreißig Matrosen, Offiziere …
+Ohne Köpfe … gegen dreißig Matrosen, Offiziere …
 
 Flatternde weiße Seemannshosen … sich drehende
 Gestalten …
@@ -1493,7 +1493,7 @@ Gestalten …
 Unheimlich — unwahrscheinlich … wie ein Traum nach
 einem furchtbaren Erlebnis …
 
-Dann — mit einem Schlage das ganze Schrift dunkel …
+Dann — mit einem Schlage das ganze Schiff dunkel …
 
 Nur noch unklar die Umrisse …
 
@@ -1501,10 +1501,10 @@ Und neben uns Haralds Stimme:
 
 »Warten wir noch! Zurück in die Segelkammer!«
 
-Wir fetten die Füllung wieder ein, Herunter sie fest, so
+Wir setzten die Füllung wieder ein, klemmten sie fest, so
 gut es ging …
 
-Der Motor der Yacht ratterte wieder …
+Der Motor der Jacht ratterte wieder …
 
 Die Jacht entfernte sich von dem Wrack — floh in den
 Atlantik hinaus … — —
@@ -1513,7 +1513,7 @@ Und hiermit schließe ich nun den ersten Teil des Geisterschiffes
 und bitte die verehrten Leserinnen und die liebenswürdigen
 Leser, mit mir Hand in Hand einen Zeitraum
 von vier Tagen zu überspringen und mich in den Speisesaal
-eines der vornehmsten Londoner Horchte zu begleiten …
+eines der vornehmsten Londoner Hotels zu begleiten …
 
 <@pagebreak/>
 
@@ -1560,7 +1560,7 @@ später wohl eine sehr schlichte Erklärung finden würde, war
 auf der Jacht plötzlich sehr lebhaft geworden.
 
 Wir hörten hastige Schritte an Deck, hörten, daß man die
-Tür der Segelkammer noch stärker verranrmelte, daß man
+Tür der Segelkammer noch stärker verrammelte, daß man
 Kisten davorfhob und daß der Motor plötzlich wieder verstummte
 …
 
