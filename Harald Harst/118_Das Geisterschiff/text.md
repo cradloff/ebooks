@@ -1521,21 +1521,21 @@ eines der vornehmsten Londoner Hotels zu begleiten …
 
 <h2>1. Kapitel</h2>
 
-<h3>Im weisen Saale des Excelsior …</h3>
+<h3>Im weißen Saale des Excelsior …</h3>
 
 Ein Saal, ganz in Weiß und Gold …
 
-Dazu eine so sein abgetönte diskrete Beleuchtung, eine so
+Dazu eine so fein abgetönte diskrete Beleuchtung, eine so
 diskrete Musik, so gedämpfte Unterhaltung an all den vielen
-Teer, daß hier jedes laute Wort unangenehm aufgefallen
-Ware
+Tischen, daß hier jedes laute Wort unangenehm aufgefallen
+wäre.
 
-Das war der Speisesaal des Excelsior-Horchte, der Treffpunkt
+Das war der Speisesaal des Excelsior-Hotels, der Treffpunkt
 der wahrhaft vornehmen Londoner Welt …
 
-Das war der Ort, wo die Rastlos und Fernsicht von
+Das war der Ort, wo die Raffkes und Neureichs von
 Kellnern, die wie die reinblütigen Lords aussahen, mit soviel
-unverschämten und doch seiner Nachlässigkeit bedient
+unverschämten und doch feiner Nachlässigkeit bedient
 wurden, daß sie nie wieder sich hierher wagten, da sie ja
 doch Stunden warten mußten, bis die bedienenden Lords
 ihnen das Bestellte mit irgendeiner peinlichen Redensart
@@ -1544,24 +1544,24 @@ brachten …
 Und hier war’s, wo wir beide, Harald und Ich unmaskiert
 im Frack, wie üblich, an einem Tischchen mitten im Saal
 unser Menü mit dem Verständnis von Männern vertilgten,
-die zulegt von Möweneiern sich ernährt hatten — nur von
+die zuletzt von Möweneiern sich ernährt hatten — nur von
 Möweneiern — zwei Tage lang …
 
 Wie das gekommen? Weshalb die Möweneier?
 
-Das ist bald berichtet
+Das ist bald berichtet …
 
 Nachdem wir dem Geistertanz dort bei dem Wrack zugeschaut,
-nachdem wir unsere Segelkammer nieder aufgesucht
+nachdem wir unsere Segelkammer wieder aufgesucht
 <@pagebreak/>
 hatten und nachdem der brave Steuermann Hamilton von
 Harald dahin belehrt worden war, daß dieser Geisterreigen
-später wohl eine sehr schlichte Erklärung finden würde, war
+später wohl eine sehr schlichte Erklärung finden würde, war’s
 auf der Jacht plötzlich sehr lebhaft geworden.
 
 Wir hörten hastige Schritte an Deck, hörten, daß man die
 Tür der Segelkammer noch stärker verrammelte, daß man
-Kisten davorfhob und daß der Motor plötzlich wieder verstummte
+Kisten davorschob und daß der Motor plötzlich wieder verstummte
 …
 
 Und — gerade als Harst aus alledem die einzig richtige
@@ -1569,30 +1569,30 @@ Folgerung gezogen, als er uns leicht erregt zuraunte: »Wir
 sind entdeckt!! Vorwärts — hinaus aus diesem Loch!« …
 da — da ertönte achtern ein dumpfer Krach …
 
-Ein Zittern ging zur den Rumpf der Jacht …
+Ein Zittern ging durch den Rumpf der Jacht …
 
 Sie richtete sich steil auf, fiel zurück …
 
 Und im selben Moment hatte Harald auch schon die
 Füllung herausgestoßen — stieß die Kisten beiseite …
 
-Wir, Hamilton und ich, dann hinter ihm drein — hins-durch
+Wir, Hamilton und ich, dann hinter ihm drein — hindurch
 durch die in die Kajüte eindringenden Wassermassen
 
 Und — hinein in die dunkle See, und mit langen
-Schwimmstößen dem nahen Lande u …
+Schwimmstößen dem nahen Lande zu …
 
-Ein Also nach rüdwärs …
+Ein Blick nach rückwärts …
 
-- Die Jacht versank, — versank wie unsere Caledonia,
+Die Jacht versank, — versank wie unsere Caledonia,
 vernichtet durch eine Explosion, durch eine Bombe …
 
 Und wir, die wir hatten in unserem Kerker elend wie die
-Gatten ersäuft werden sollen, — wir stiegen triefend an
+Ratten ersäuft werden sollen, — wir stiegen triefend an
 Land …
 
 Eine der kleineren Flannan-Inseln war’s. Und hier —
-hier spielten wir zwei Tage Religion, bis der Dampfer der
+hier spielten wir zwei Tage Robinson, bis der Dampfer der
 Londoner Filmgesellschaft Britannia auf unsere Notsignale
 hin uns aufnahm, derselbe Dampfer, dessen Insassen im
 Wrack der Connaught damals abends Generalprobe für eine
@@ -1601,38 +1601,38 @@ Filmaufnahme abgehalten hatten …
 Das war der Geisterreigen gewesen: eine Szene aus dem
 Sensationsfilm »Das Schiff der Toten«, der dann auch in
 Berlin über die Leinwand ging, aber wenig Beachtung fand,
-da die Engländer es nicht recht verstehen, ihren Genjationd-filmen
+da die Engländer es nicht recht verstehen, ihren Sensationsfilmen
 <@pagebreak/>
 auch das mitzugeben, was die tüchtigeren Geschäftsleute,
-die Amerikaner, stete tun: Rührseligkeit, knorrige
-Liebescfjekte! —
+die Amerikaner, stets tun: Rührseligkeit, knallige
+Liebeseffekte! —
 
-Jedenfalls — der Dampfer brachte uns nach Sprengt,
+Jedenfalls — der Dampfer brachte uns nach Greenock,
 nachdem wir noch unsere Koffern von der einsamen Hebrideninsel
 hatten abholen können, wo die Verbrecherbande sie nach
 Hamiltons Gefangennahme einfach in dem Diggy hatte
-Kistchen lassen.
+stehen lassen.
 
 Von dieser Verbrecherbande erfuhr niemand etwas. Den
-Filmherrschasten erzählte Harald eine wundervolle Geschichte,
+Filmherrschaften erzählte Harald eine wundervolle Geschichte,
 die sehr spannend war, aber keineswegs den Tatsachen entsprach.
 Niemand wußte auch, daß unsere ehrlichen Namen
 Harst und Schraut waren. Und Hamilton log gleichfalls
-großartig. Kurz: in Sprengt dankten wir den freundlichen
-Dünkenden, verabschiedeten uns von Hamilton, dem Harst
+großartig. Kurz: in Greenock dankten wir den freundlichen
+Filmleuten, verabschiedeten uns von Hamilton, dem Harst
 die Caledonia voll bezahlte, und reisten mit der Bahn nach
 London.
 
 Denn — was sollten wir unter diesen Umständen wohl
 anderes tun? Etwa den Kutter der Verbrecherbande suchen,
 der die Jachtbesatzung doch fraglos an Bord genommen und
-dann anderen Gelitten sich zugewandt hatte?! Sollten wir
-all die Hebridenhäfer abklappern und fragen, ob jemand
+dann anderen Gefilden sich zugewandt hatte?! Sollten wir
+all die Hebridenhäfen abklappern und fragen, ob jemand
 etwa den Kutter gesehen und wo?
 
 Nein — uns blieb nichts anderes übrig als zunächst in
 London abzuwarten, was Hamilton uns melden würde.
--Ihn hatten wir beauftragt, in aller Stille Nachforschungen
+Ihn hatten wir beauftragt, in aller Stille Nachforschungen
 anzustellen und der Polizei in Barvas zu raten, einige Tage
 das Wrack des Kreuzers zu bewachen. —
 
@@ -1640,8 +1640,8 @@ Wir waren im Excelsior-Hotel abgestiegen — wie stets,
 wenn wir London die Ehre gaben.
 
 Wir waren nachmittags bei Detektivinspektor Colley gewesen,
-und dem hatte Harald nun erzählt, was er ihm dann
-vorenthalten: Fahrkarte, Elfenbeinskelett — und artete
+und dem hatte Harald nun erzählt, was er ihm damals
+vorenthalten: Fahrkarte, Elfenbeinskelett — und alles
 übrige.
 
 Colley hatte nach Luft geschnappt und gemeint, wir verdienten
@@ -1652,49 +1652,49 @@ hätten.
 Er beruhigte sich wieder, und wir schieden als gute
 Freunde.
 
-Nun also war es absuchte elf Uhr, und wir genossen
+Nun also war es abends elf Uhr, und wir genossen
 Musik, elegante Frauen und auserlesene Gerichte im diskret
 beleuchteten Prachtsaal des Excelsior …
 
 Harald schaute zuweilen in das Riesenformat des Londoner
-Harald hinein …
+Herald hinein …
 
 Zuweilen …
 
-Schaute weit öfter nach einem Zische Hin (wie mir allmählich
+Schaute weit öfter nach einem Tische Hin (wie mir allmählich
 auffiel), wo zwei Damen mit dem Rücken nach uns
-Ein ebenfalls speisten …
+hin ebenfalls speisten …
 
 Der Kellner brachte als Nachtisch Weintrauben.
 
 Harst streichelte die prächtige goldgelbe Traube und
 meinte:
 
-»Sie hängen jetzt nicht mehr so hoch für uns, die.
+»Sie hängen jetzt nicht mehr so hoch für uns, die
 Trauben …«
 
-»Hm — rings soll das?«
+»Hm — was soll das?«
 
 »Das soll heißen: die schwarze Tigerin ist gefunden …«
 
 »Wer — —?! Schwarze Tigerin?!«
 
-»Dein Gedächtnis ist wie ein Sieht Hamilton nannte
+»Dein Gedächtnis ist wie ein Sieb! Hamilton nannte
 doch die schwarzhaarige Malerin von der Hebrideninsel …
 die schwarze Tigerin …«
 
-Ich starrte ihn an … Ich begriff seht …
+Ich starrte ihn an … Ich begriff jetzt …
 
 »Herr Gott — etwa eine der beiden Damen dort am
 fünften Tische?«
 
-»Ja … Die Schlanke, die mit dem’ tiefen Rückenausschnitt
-… Blendende Haut Hat sie, und einen Naben — —
+»Ja … Die Schlanke, die mit dem tiefen Rückenausschnitt
+… Blendende Haut Hat sie, und einen Nacken — —
 allerhand Achtung!«
 
 »Du hast sie wiedererkannt?«
 
-»Nein. Ich habe ihr Gesicht noch nicht gesehen -
+»Nein. Ich habe ihr Gesicht noch nicht gesehen …«
 
 »So?! Und da willst Du …«
 
@@ -1702,7 +1702,7 @@ allerhand Achtung!«
 um den Hals, und genau dasselbe Kettchen trage ich in der
 Brieftasche — samt dem Elfenbeinskelett! Außerdem aber
 <@pagebreak/>
-tauscht sie mit Monsieur Herbett Zeichen aus. Er litt recht?
+tauscht sie mit Monsieur Herbett Zeichen aus. Er sitzt rechts
 neben dem Musikerpodium ganz allein. Und die beiden telegraphieren
 nun schon eine ganze Weile …« —
 
@@ -1718,7 +1718,7 @@ das Gegenteil!
 
 Und nun gar hier in diesem Falle! — Man bedenke:
 wir hatten anscheinend jede Spur der Bande verloren, die,
-als sie das Wrack anderweit belegt fand, schleunigst umkehrte,
+als sie das Wrack anderweit besetzt fand, schleunigst umkehrte,
 besonders da die Entdeckung zweier Männer in
 der Segelkammer (und das waren ja wir gewesen) die
 Unsicherheit der Verbrecher noch vermehrt hatte.
@@ -1729,166 +1729,166 @@ Ich zweifelte jetzt sehr stark daran. Und brachte diese
 Zweifel Harst gegenüber durch die Worte zum Ausdruck:
 
 »Dann berichte nur gleich alles! Du hast doch gewußt,
-daß Du die … die schwarze Tigerin oder Herbett hier fing
-den würdest!«
+daß Du die … die schwarze Tigerin oder Herbett hier finden
+würdest!«
 
-Er zerpilücdte die Weintraube und erwiderte mit seinem
+Er zerpflückte die Weintraube und erwiderte mit feinem
 Lächeln:
 
 »Ich habe es — herausgefunden, daß Frau Lydia
 Gwindamoor hier abgestiegen ist …«
 
-»er? Lydia Gwindamoor — die amerikanische Films
-fünfzig …« — Ich war noch verblüffter als vorhin. Und
+»Wer? Lydia Gwindamoor — die amerikanische Filmkönigin
+…« — Ich war noch verblüffter als vorhin. Und
 ich vergaß vollständig vor Verblüffung, mich über diese Verblüffung
 zu ärgern …
 
-»Dieselbe!« nickte »Harst gemütlich. »Sie ist die —
+»Dieselbe!« nickte Harst gemütlich. »Sie ist die —
 schwarze Tigerin …«
 
-»Und — die Bombenwerferin? entfuhr es mir recht
+»Und — die Bombenwerferin?« entfuhr es mir recht
 ungläubig.
 
 »Ob sie selbst die Bombe nach der Caledonia geschleudert
 <@pagebreak/>
-bat, weit 15 nicht. Jedenfalls geschah’s mit ihrem Ein-berjiandiis.«
+hat, weiß ich nicht. Jedenfalls geschah’s mit ihrem Einverständnis.«
 
 »Aber — aber, — — diese Frau, Die doch über Millionen
-verfügt, von die alle Filmgesellschaften sich reißen, — — die
+verfügt, um die alle Filmgesellschaften sich reißen, — — die
 soll …«
 
-»Bitte!« urteilen Harald mich, »die sieht mit Verbrechern
+»Bitte!« unterbrach Harald mich, »die steht mit Verbrechern
 im Bunde, das ist doch wohl erwiesen. Es fragt
-ich lediglich, weshalb sie diese Beziehungen zu so fragwürdigen
+sich lediglich, weshalb sie diese Beziehungen zu so fragwürdigen
 Leuten angeknüpft hat. Und ohne Zweifel müssen bei
 ihr sehr starke Beweggründe mitsprechen. Hunger und Liebe
-sind die mächtigsten Anrufe. Hunger scheidet hier aus.
+sind die mächtigsten Impulse. Hunger scheidet hier aus.
 Also — — bleibt Liebe übrig …«
 
 Er hatte dabei behaglich von der Weintraube genascht,
 griff nun nach seinem Zigarettenetui, nahm eine seiner stark
 parfümierten Mirakulum und rieb ein Zündholz an …
 
-Fuhr fort: »Ich will Dir nun alle sagen, was ich weiß,
-mein Alter. viel ist es nicht. Leider … 1 — Zunächst
-eine Frage: Haft Du auf den Namen der Jacht geachtet?«
+Fuhr fort: »Ich will Dir nun alles sagen, was ich weiß,
+mein Alter. viel ist es nicht. Leider …! — Zunächst
+eine Frage: Hast Du auf den Namen der Jacht geachtet?«
 
-»Nein … Nur als mir so schnell an Bord Huschten, bemerkte
+»Nein … Nur als wir so schnell an Bord Huschten, bemerkte
 ich die verschnörkelten goldenen Buchstaben am Bug.
 Hamilton hat sie ja auch nicht entziffern können.«
 
-Ich auch nicht … ganz — nicht ganz …« — Er
+»Ich auch nicht … ganz — nicht ganz …« — Er
 rauchte ein paar Züge. — »Immerhin war der Anfangsbuchstabe
 fraglos ein S, und dann sah ich in der Wortmitte
 ein m und ein i.«
 
 Nun holte er aus der Tasche ein Blatt aus einer Tageszeitung
-hervor. en
+hervor.
 
-»Hier bitte — hier sind einige Jachten bedeutender Vers
-fönfichleiten abgebildet, die an der diesjährigen Regatta in
+»Hier bitte — hier sind einige Jachten bedeutender Persönlichkeiten
+abgebildet, die an der diesjährigen Regatta in
 Dover teilgenommen haben. Ich habe die Zeitschrift auf der
 Bahnfahrt hierher mir gekauft, wie Du weißt. Und — da
 sah ich dieses Bild …«
 
 Ich schaute hin. Da stand unter dem Bilde:
 
-Die beiden Jachten Semiramis 1 und 2 der amerikanischen
+> Die beiden Jachten Semiramis 1 und 2 der amerikanischen
 Filmschauspielerin Lydia Gwindamoor.
 
-Nun begriff ich. »Ein S, ein m und ein I, — das deute!
+Nun begriff ich. »Ein S, ein m und ein i, — das deutet
 <@pagebreak/>
 allerdings auf Semiramis Hin,« meinte ich eifrig. »Und
 hier die kleinere Jacht Semiramis 2 gleicht auch auffallend
 unserem Unglücksfahrzeug.«
 
 »Aufs Haar!« nickte mein Freund. »Als wir also hier
-in London Antrafen, durfte ich vermuten, daß Lydia Gwindamoor
+in London eintrafen, durfte ich vermuten, daß Lydia Gwindamoor
 die schwarze Tigerin gewesen sein könnte. Da ich
-noch nie ein Bild von ihr gegeben hatte, besorgte ich mir
+noch nie ein Bild von ihr gesehen hatte, besorgte ich mir
 heute eine Filmzeitschrift, die eine Photographie der großen
-Lydia enthielt. Du beseelt Dich gerade rasieren. Und — hier
+Lydia enthielt. Du ließest Dich gerade rasieren. Und — hier
 ist nun auch diese Photographie — bitte.«
 
 Ein Blick genügte …
 
-So flüchtig ich) Die Malerin auch damals gesehen Hatte,
+So flüchtig ich Die Malerin auch damals gesehen Hatte,
 ich erkannte sie in diesem Lichtbild sofort wieder.
 
 Gespannt schaute ich Harald an. »Und — weiter?«
 fragte ich …
 
-»3a — Weiter gibt es kaum etwas zu berichten, mein
-Alter. Hier im Hotel fand ich Lydias Namen im Fremden
-Buch. Sie ist vorgestern hier abgestiegen. Das stimmt also
-tadellos der Zeit na. Vorgestern konnte sie hier eintreffen,
+»Ja — weiter gibt es kaum etwas zu berichten, mein
+Alter. Hier im Hotel fand ich Lydias Namen im Fremdenbuch.
+Sie ist vorgestern hier abgestiegen. Das stimmt also
+tadellos der Zeit nach. Vorgestern konnte sie hier eintreffen,
 nachdem der Kutter sie irgendwo an Land gesetzt hatte. Na
-— und dann heute abend: da ist sie in Gesellschaft einer -
-älteren Dame, und da drüben litt jener Herbett, der uns
+— und dann heute abend: da ist sie in Gesellschaft einer
+älteren Dame, und da drüben sitzt jener Herbett, der uns
 schwerlich wiedererkennen wird. Und — Lydia und Herbett
 haben, wie schon erwähnt, telegraphiert …«
 
 »Wie denn?«
 
-»Reinlich einfach wie wir’s vereinbart haben … für
+»Ähnlich einfach wie wir’s vereinbart haben … für
 gewisse Fälle. Also Morsezeichen — lang, kurz, — und die
 üblichen Kombinationen von lang und kurz … — Lydia
-brannte zum Ankernden von »lang« ihr Zifehmeffer und von
-»kurz« das Mefferbäntchen, indem sie Herrn? davon nach Bedarf
+benutzte zum Andeuten von »lang« ihr Tischmesser und von
+»kurz« das Messerbänkchen, indem sie je eins davon nach Bedarf
 in die Finger nahm, was Herbett beobachten konnte,
 der wieder seinerseits mit einer langen Zigarrenspitze und
 einem goldenen Bleistift operierte. — Daß ich den Inhalt
 dieses gegenseitigen Telegraphierens mir unschwer merken
 konnte, wirst Du nicht weiter erstaunlich finden. Jetzt —
-weiß ich infolge dieses Keiclenau3tausches noch mehr …«
+weiß ich infolge dieses Zeichenaustausches noch mehr …«
 
 <@pagebreak/>
 »Und — das wäre?«
 
 »Lydia depeschierte nur folgendes:
 
-»Wann und wo?«
+> »Wann und wo?«
 
 Und Herbett antwortete:
 
-»Ein Uhr morgens, Pawaret-Street 19.«
+> »Ein Uhr morgens, Pawaret-Street 19.«
 
 Was doch für uns sehr wichtig ist, mein Alter.«
 
 »Allerdings …«
 
-»Und was uns für die Naht Arbeit gibt …«
+»Und was uns für die Nacht Arbeit gibt …«
 
-»Ah soll! Pawaret-Street 19!!«
+»Ah so!! Pawaret-Street 19!!«
 
 »Freilich. Auch wir werden uns erlauben, um ein Uhr
-Kürzere dort zu sein.«
+morgens dort zu sein.«
 
-»Sehr auf …! Die schwarze Tigerin wird uns dann
+»Sehr gut …! Die schwarze Tigerin wird uns dann
 Rede und Antwort stehen müssen.«
 
 Harald machte ein sehr ernstes Gesicht. »Du unterschätzt
 das Gefährliche dieser unserer Einmischung. Du kennst bereits
 die brutalen Methoden dieser Banditen, von denen wir
-immer noch viel zu wenig wissen. Viel zu wenig. Es ist:
+immer noch viel zu wenig wissen. Viel zu wenig. Es ist
 doch schließlich nur eine Vermutung von uns, daß die Leute
 dort im Wrack der Connaught Beute verbergen wollten —
 so ein Notbehelf von Vermutung, der mir jetzt, wo ich eine
 Lydia Gwindamoor beteiligt weiß, gar nicht mehr zusagt.
 Nein, um ehrlich zu sein, lieber Alter: diese Vermutung ist
-jetzt — Blech! Es handelt ich trachtet« um ganz andere
-Dinge. Um was — ich ahne es nicht im entfernteftien. Ich
+jetzt — Blech! Es handelt sich fraglos um ganz andere
+Dinge. Um was — ich ahne es nicht im entferntesten. Ich
 tappe im Dunkeln, nehme nur eins mit größter Bestimmtheit
 an: daß es hier um recht geheimnisvolle Machenschaften
-acht, die mit Diebstahl, Raub, dergleichen nichts zu tun
+geht, die mit Diebstahl, Raub, dergleichen nichts zu tun
 haben. — Und dann …«
 
 Eine Kunstpause …
 
-»Dann, mein Alter, möchte ich Dich noch auf etwas aufs
+»Dann, mein Alter, möchte ich Dich noch auf etwas
 aufmerksam machen: auf die Segelregatta in Dover! Sie fand
 genau zwei Tage vor jenem Vormittag statt, als Doktor
-Gybourg nun zu sich) rief und als ich in der Toten mit der
+Gybourg uns zu sich rief und als ich in der Toten mit der
 grauen Perücke ein junges, blondes Weib feststellte, die nun
 als unbekannt beerdigt worden ist, wie Inspektor Colley
 uns erzählte.«
@@ -1896,16 +1896,16 @@ uns erzählte.«
 <@pagebreak/>
 Ich beugte mich vor …
 
-»Harald — die Tote kam aus Dover!! Die Fahrkarte! !*«
+»Harald — die Tote kam aus Dover!! Die Fahrkarte!!«
 
 »Ja — aus Dover, mein Alter, und wollte die Mutter
-»jenes Herbett spielen, der übrigens soeben bezahlt … 2 —
+jenes Herbett spielen, der übrigens soeben bezahlt … —
 Ich werde ihm folgen …« Er sprach hastiger. »Er wohnt
 nicht hier im Hotel. Wir treffen uns dann um halb eins
 an der Ecke der Pawaret- und der Gloucester-Street, —
-übergroße ein ganz übles Viertel dort …! — Wiedersehen!
+übrigens ein ganz übles Viertel dort …! — Wiedersehen!
 Und bringe das Notwendigste zum Verkleiden mit …
-Wiedersehen
+Wiedersehen …«
 
 <h2>2. Kapitel.</h2>
 
