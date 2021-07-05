@@ -590,7 +590,7 @@ Geisterschiff ist.
 werden sich vielleicht noch erinnern, daß ich einem unserer
 mehrere Jahre zurückliegenden Erlebnisse den Titel »Das
 Gespensterwrack« gegeben hatte, Daß die mit Diesem
-Gespenterwrack zusammenhängenden Vorgänge sich im
+Gespensterwrack zusammenhängenden Vorgänge sich im
 Christiania-Fjord abspielten und das damalige Problem mit dem
 jetzigen, dem Geisterschiff, in den einleitenden Ereignissen
 auch nicht die allergeringste Ähnlichkeit hatte. Der weitere
@@ -1909,27 +1909,27 @@ Wiedersehen …«
 
 <h2>2. Kapitel.</h2>
 
-<h3>Der erste Akt</h3>
+<h3>Der erste Akt …</h3>
 
-Ich schaute ihm nach. -
+Ich schaute ihm nach …
 
 Ich merkte mir: Ecke Gloucester-Street! Und — ganz
 übles Viertel …!
 
 Harald war hier in London zu Hause. Er kannte es
 fast so gut wie Berlin. — Nicht so ich. Ich würde mir
-nachher ein Auto nehmen und mich einfach nach der Glaub
+nachher ein Auto nehmen und mich einfach nach der
 Gloucester-Street fahren lassen …
 
-So dachte i ich. Andere dachten anders … —
+So dachte *ich*. Andere dachten anders … —
 
 Ich winkte dem Kellner, zahlte …
 
-Die Musik spielte gerade den neuen Radio-Shimmy.
-Radio war ja hier in England jetzt Trumpf, war »der«
-Massenfimmel. Nase Deutsche packte dieser Fimmel erst
+Die Musik spielte gerade den neuen Radio-Shimmy<@refnote 1/>.
+Radio war ja hier in England jetzt Trumpf, war *der*
+Massenfimmel. Uns Deutsche packte dieser Fimmel erst
 sieben Monate später. Wir hinken überall nach, holen das
-Versäumte aber stets wieder auf — durch unsere Gründlichkeit
+Versäumte aber stets wieder auf — durch unsere Gründlichkeit …
 
 Also Radio-Shimmy …
 
@@ -1941,9 +1941,9 @@ Nun sah ich auch Lydia Gwindamoors Gesicht. Nun gab
 <@pagebreak/>
 ich Steuermann Hamilton recht: ein verteufelt hübsches Weib,
 eine Männerschönheit, so eine von dem Schlage, die den abgelebtesten
-Mcergrei3 noch in den Mai zurückversetzt …
+Meergreis noch in den Mai zurückversetzt …
 
-Gang, Haltung — alles von klassischer Ruhe und Umgebung.
+Gang, Haltung — alles von klassischer Ruhe und Rundung.
 Und doch in allem so ein leiser Timbre zitternder
 Nerven, heißen Blutes …
 
@@ -1953,7 +1953,7 @@ Vor mir stiegen die beiden Damen in den einen Fahrstuhl
 …
 
 Der Liftboy hätte vor der Königin von England keinen
-ehrfurht3volleren Bückling machen können.
+ehrfurchtsvolleren Bückling machen können.
 
 Auch ich fuhr nach oben — dritten Stock, Zimmer
 Nr. 85, 86 …
@@ -1965,17 +1965,17 @@ schaltete das Licht ein …
 
 Und — dort gleich neben der Tür im gepolsterten Korbsessel
 saß … Lydia Gwindamoor, und jenseits des Tisches
-im zweiten Fessel die … alte Dame …
+im zweiten Sessel die … alte Dame …
 
 Und die Dame — zielte auf mich mit einer klobigen
 Pistole — einer Luftpistole, deren geräuschlose Schüsse solche
-Waffen für solche Zwecke nur zu zeichnet Beschämen lassen …
+Waffen für solche Zwecke nur zu geeignet erscheinen lassen …
 
 Frau Lydia Gwindamoor aber sagte sofort mit einer
 melodischen, angenehm tiefen Stimme:
 
 »Nehmen Sie dort Platz, Mr. Schraut, — dort am
-Kamin … 1«
+Kamin …!«
 
 Ich wußte genau: nicht gehorchen war hier so gut wie
 sicherer Tod!
@@ -1989,9 +1989,9 @@ von unten bis oben …
 Sagte kühl:
 
 »Ich habe mir Mister Max Schraut imponierender vorgestellt
-… 1«
+…!«
 
-Das war eine Frechheit — eine Belcidigüung,
+Das war eine Frechheit — eine Beleidigung,
 
 <@pagebreak/>
 »ich imponiere nur meinesgleichen,« erwiderte ich mit
@@ -2002,7 +2002,7 @@ Ein nadelscharfer Blick traf mich …
 »Sie meinen also: anständigen Kavalieren?« fragte sie
 mit demselben Lächeln …
 
-»Allerdings … —
+»Allerdings …« —
 
 Das war die Einleitung unserer Beziehungen, die
 Ouvertüre …
@@ -2012,15 +2012,15 @@ bringt, auf deutsch: Die Entwicklung der Verwicklungen!
 
 Lydia Gwindamoor lächelte nicht mehr …
 
-»Ein Zufall hat mich darüber aufgeklärt, Zwei die beiden
-holländisch en Heringshändler in Wirklichkeit waren,« begann
+»Ein Zufall hat mich darüber aufgeklärt, wer die beiden
+holländischen Heringshändler in Wirklichkeit waren,« begann
 sie mit größtem Freimut, denn in diesen ihren Worten lag
 ja das Zugeständnis ihrer Teilnahme an den Vorgängen
-auf den Hebriden- Inseln …«
+auf den Hebriden-Inseln …«
 
 »… ein Zufall, der dadurch eintrat, daß wir, die Mitglieder
-der Loge »Zum Skelett des Erhabenen«, bei den Nach
-Forschungen nach dem Verbleib einer unserer Logenschwestern
+der Loge »Zum Skelett des Erhabenen«, bei den Nachforschungen
+nach dem Verbleib einer unserer Logenschwestern
 zu Zahnarzt Gybourg geleitet wurden, wo aus der Hausdame
 Gybourgs unschwer alle Einzelheiten herauszulocken
 waren …«
@@ -2029,20 +2029,20 @@ waren …«
 von Harald gelernt, der einen Gegner stets Durch ironische
 Zwischenbemerkungen zu reizen suchte und oft auch Erfolg
 damit hatte: der Gegner verriet mehr, als er ursprünglich
-hatte prei38geben wollen!
+hatte preisgeben wollen!
 
-»Es wird noch interessanter …!« Die. schwarze Tigerin
+»Es wird noch interessanter …!« Die schwarze Tigerin
 verriet sich … Ihre Augen flammten auf. »Es wird
 noch so interessant werden, Mister Schraut, daß Sie und
-Ihr Freund Harst … um Ihr Leben betteln werden 1«.
+Ihr Freund Harst … um Ihr Leben betteln werden …!«
 
-Das war seine leere Drohung! Diese Worte aus dem
-Munde — hervor zischend über Harrende Lippen, dazu »dieser«
+Das war keine leere Drohung! Diese Worte aus *dem*
+Munde — hervorzischend über zuckende Lippen, dazu *dieser*
 Gesichtsausdruck …!!
 
 Ich — richtete mich auf …
 
-Ich wollte beweisen, daß ich seine Furcht kannte …
+Ich wollte beweisen, daß ich keine Furcht kannte …
 
 <@pagebreak/>
 Und doch: die dumpfe Ahnung, daß diese »Logenmitglieder«
@@ -2056,11 +2056,11 @@ Zeichenaustausch zwischen mir und Herbett beobachtet? Hat
 mit Genugtuung festgestellt, daß die Pawaret-Street Nr. 19
 Stelldichein sein sollte …«
 
-Regt lächelte sie wieder …
+Jetzt lächelte sie wieder …
 
 »Pawaret-Street 19 ist — ein alter Lagerschuppen …!
 Nun, wir Haben Ihnen beiden die Mühe erspart, diesen
-Schuppen zwecklos zu beluden. Wir werden Sie beide
+Schuppen zwecklos zu besuchen. Wir werden Sie beide
 anderswohin bringen, und dort werden wir Sie zwingen,
 uns mitzuteilen, wo Sie das Kind verborgen halten, denn
 — noch haben Sie es dem Vater nicht ausgeliefert, das
@@ -2088,13 +2088,13 @@ blöde dreinschaute und gab meinen Zügen rasch den Ausdruck
 sagte ich mit einer Geste, die andeuten sollte, daß Lydia es
 von mir nie erfahren würde. Und — das stimmte ja auch,
 denn ich hatte ja genau so wenig wie Harst von diesem
-Kinde auch nur. die allerleiseste Ahnung. Mithin konnte ich
+Kinde auch nur die allerleiseste Ahnung. Mithin konnte ich
 auch beim besten Willen nichts verraten.
 
 <@pagebreak/>
 »Sie bleiben bei ihrer Weigerung?« (ragte sie scharf.
 
-»Ich pflege meine Entchlüle im Sekunden nicht zu
+»Ich pflege meine Entschlüsse in Sekunden nicht zu
 ändern, Mistreß …«
 
 Sie stand auf …
@@ -2115,27 +2115,27 @@ Stöpsel …
 
 Goß den Inhalt des Fläschchens auf die Watte …
 
-Und da — da fühlte ich plötzlich eisige Kälte im 1 Rücken.
-Da merkte ich: es wurde ernst!!! Bitter ernst …
+Und da — da fühlte ich plötzlich eisige Kälte im Rücken.
+Da merkte ich: es wurde ernst!! Bitter ernst …
 
 Und — ich war wehrlos …
 
-John hatte den Zeigefinger am Brüder der Pistole,
-konnte mir jeden Moment € einen Klumpen Blei ins Hirn
+John hatte den Zeigefinger am Drücker der Pistole,
+konnte mir jeden Moment einen Klumpen Blei ins Hirn
 pusten …
 
 Ich dachte an Harald …
 
 Sollte ich nicht wenigstens den Versuch machen, diesen
-beiden seinen Logenmitgliedern zu beweisen, daß Max
+beiden feinen Logenmitgliedern zu beweisen, daß Max
 Schraut kein Lämmchen sei!!
 
 Aber wie — wie?!
 
-- Schon nahte Lydia Gwindamoor mit dem «loroform-getränlten
+Schon nahte Lydia Gwindamoor mit dem chloroformgetränkten
 Wattebausch …
 
-Und — die Pistole seine fünf Zentimeter vor meiner
+Und — die Pistole keine fünf Zentimeter vor meiner
 Stirn …
 
 Und — —
@@ -2143,7 +2143,7 @@ Und — —
 Da — — da preßte mir die schwarze Tigerin bereits die
 Watte unter die Nase …
 
-Und da — — besann ich mich aus Haralds Trick, nur den
+Und da — — besann ich mich auf Haralds Trick, nur den
 Betäubten zu spielen …
 
 Hielt den Atem an …
@@ -2152,38 +2152,38 @@ Hielt den Atem an …
 Hielt den Atem an und senkte und hob doch die Brust,
 als ob ich atmete …
 
-Täuschte beginnenden Schwindel vor, schwanlkte, schloß
+Täuschte beginnenden Schwindel vor, schwankte, schloß
 die Augen …
 
-Aber — Bad Mylord preßte noch immer die feuchte Watte
+Aber — das Weib preßte noch immer die feuchte Watte
 gegen meine Oberlippe …
 
 Ich … mußte atmen … Funken sprühten mir bereits
 vor den Augen …
 
-Sog Vase Chloroform ein — und sank vom Hocker auf
+Sog das Chloroform ein — und sank vom Hocker auf
 den Teppich — so echt, daß ich Lydia sagen hörte:
 
 »Das genügt, John … Nun rasch — den Schrank von
-der Tür … I« —
+der Tür …!« —
 
-So — — endete der erste Alt …
+So — — endete der erste Akt …
 
 <h2>3. Kapitel.</h2>
 
 <h3>Das Kind …</h3>
 
-… Rast den Schrank von der Tür!
+… Rasch den Schrank von der Tür!
 
 Das konnte nur der Kleiderschrank in unserem gemeinsamen
 Schlafzimmer sein …
 
-Denn der stand vor der Verbindungdtür nach dem Neben
-- immer, i wo ein aller Herr wohnte, wie wir vom Eingeatmet
+Denn der stand vor der Verbindungstür nach dem Nebenzimmer,
+wo ein alter Herr wohnte, wie wir vom Etagenkellner
 wußten … —
 
-Tafel Der alte Herr also auch ein Logenbruder!! Die Bande
-hatte uns wirklich sein eingekreist!
+Der alte Herr also auch ein Logenbruder!! Die Bande
+hatte uns wirklich fein eingekreist!
 
 Man schleppte mich auch wirklich in dieses Zimmer, legte
 mich in einen großen Koffer …
@@ -2196,13 +2196,13 @@ Noch ein zweiter Deckel …
 Und — das machte mich stutzig …
 
 Nur ein moderner Schrankkoffer pflegt zwei Deckel zu
-Gaben .…
+haben …
 
 Und — damals in Stromeferry hatte der redselige Dienstmann
-ebenfalls einen »Schrankkoffer nach dem Kutter gefahren!!
+ebenfalls einen *Schrank*koffer nach dem Kutter gefahren!!
 —
 
-Ich Tag im übrigen hier ganz bequem. Mein Kopf ruhte
+Ich lag im übrigen hier ganz bequem. Mein Kopf ruhte
 auf einem Bündel Kleider.
 
 Ich wartete nun — brauchte nicht lange zu warten …
@@ -2211,15 +2211,15 @@ Gedämpfte Stimmen …
 
 Der Koffer wurde verschlossen, wurde emporgehoben …
 
-Im Hahıftuhl ging’3 abtwärt3 …
+Im Fahrstuhl ging’s abwärts …
 
 in ein Auto … Dann Straßenlärm, — der immer
 mehr verklang …
 
 Ich Hatte Zeit, überlegte …
 
-Ich überlegte sehr sorgfältig. Dar hatte mich nicht. Yes
-fesselt, Hatte mir nicht? aus den Taschen genommen …
+Ich überlegte sehr sorgfältig. Man hatte mich nicht gefesselt,
+Hatte mir nichts aus den Taschen genommen …
 
 Und daher … steckte ich nun die treue kleine Clement
 in — den rechten Strumpf — in den Strumpf über dem
@@ -2234,19 +2234,19 @@ Das Auto hielt.
 
 Der Koffer wurde herausgehoben …
 
-Die Sirene eines Dampfers heulte —  noch eine — n2ch
+Die Sirene eines Dampfers heulte —  noch eine — noch
 eine …
 
-Es mußte der Erregbaren vor London sein, die Themse.
+Es mußte der Innenhafen vor London sein, die Themse.
 
-Über eine wippende Planke trug man den Koffer. auf
-ein [eile schaukelndes Fahrzeug — hinab in eine Kajüte
+Über eine wippende Planke trug man den Koffer auf
+ein leise schaukelndes Fahrzeug — hinab in eine Kajüte
 offenbar.
 
 Ich ahnte: Semiramis 1, die andere Jacht Lydia Gwindamoors,
 die Kreuzerjacht!
 
-Dann wurde der Koffer aufgeschlossers, die Deckel Hochgeklappt
+Dann wurde der Koffer aufgeschlossen, die Deckel hochgeklappt
 …
 
 <@pagebreak/>
@@ -2259,7 +2259,7 @@ Man legte mich auf ein weiches Lager …
 Und — — fesselte mich: die Fußgelenke — die Hände
 über der Brust!
 
-Ich — lag still … Mit geschlossenen Augen … Bauschte
+Ich — lag still … Mit geschlossenen Augen … lauschte
 nur …
 
 Lauschte, ob ich irgend etwas vernähme, das auf Haralds
@@ -2285,9 +2285,9 @@ Stille …
 
 Ich schlug die Lider auf — vorsichtig — langsam …
 
-Eine Kabine — eine enge Kachtfabine. Die Deckenlampe
+Eine Kabine — eine enge Jachtkabine. Die Deckenlampe
 brannte. Ich lag auf dem unteren Bett. Das andere, über
-mir, wie im Schlafwagen, mußte Harald alt Lager dienen.
+mir, wie im Schlafwagen, mußte Harald als Lager dienen.
 
 Ich lauschte …
 
@@ -2295,21 +2295,21 @@ Alles still …
 
 Richtete mich auf …
 
-Ran auf die Füße, trete den Kopf noch höher …
+Kam auf die Füße, reckte den Kopf noch höher …
 
-an. schaute im Harrte lächelndes Gesicht, das aus
+Und … schaute im Harsts lächelndes Gesicht, das aus
 schneeigen Kissen mir entgegenstrahlte …
 
 Er lächelte, flüsterte:
 
-»Wirst Du Dich sofort wieder niederlegen!!! Willst Du
+»Wirst Du Dich sofort wieder niederlegen!! Willst Du
 alles verderben?!«
 
 Ich zauderte … fragte hastig:
 
 »Hat man auch Dir etwas von einem Kinde mitgeteilt,
 <@pagebreak/>
-— Wollte man auch von Dir wissen, wo wir dieses Kind
+— wollte man auch von Dir wissen, wo wir dieses Kind
 verborgen halten?«
 
 Sein Lächeln erstarb …
@@ -2318,18 +2318,18 @@ Seine Stirn wurde faltig …
 
 »Ich Narr!!« stieß er leise hervor …
 
-»Wes3halb — — Narr?«
+»Weshalb — — Narr?«
 
-»Weil ich, den doch sonst die scheinbar entlegensten Dinge
+»Weil ich, der doch sonst die scheinbar entlegensten Dinge
 irgendwie zueinander in Beziehung bringt, diesmal an dem
-— Kern des Ganzen vorbeigetapert bin!! — Vase Kind —
+— Kern des Ganzen vorbeigetapert bin!! — Das Kind —
 das …«
 
 Und dann — warnend:
 
 »Hinlegen — — Schritte!!«
 
-im Nu Tag ich wieder auf dem unteren Bett …
+im Nu lag ich wieder auf dem unteren Bett …
 
 Horchte …
 
@@ -2339,23 +2339,23 @@ Vorsichtig wurde die Tür aufgeschlossen …
 
 Vorsichtig wieder zugedrückt …
 
-Der, der da soeben eingetreten war, regte sich nicht, Rand
+Der, der da soeben eingetreten war, regte sich nicht, stand
 noch an der Tür, atmete keuchend wie in hochgradiger Erregung
 oder wie nach eiligem Lauf …
 
 Gelaufen war der Betreffende nicht. Also — war er
 erregt …
 
-Und wie erregt er war, verriet sein Robweifes SchhR-gespräch
-— eine Art heiteren Flüsterns3 …
+Und wie erregt er war, verriet sein stoßweises Selbstgespräch
+— eine Art heiteren Flüsterns …
 
-»… Verdammte Geschichte! Und — — ich konnte ob
-nicht ablehnen! Ausgerechnet die beiden — und. hierher!
-Die Pest ist das! Wenn sie erst wieder bei
-bin ich so gut wie verloren! Ein Wunder, daß sie noch
-stutzig geworden i John erzählte ja …! — Eine verdammte
-Sache …! Es hilft nichts! Die beiden willen
-dran glauben … »Merken wird’s niemand, und nachweise
+»… Verdammte Geschichte! Und — — ich konnte doch
+nicht ablehnen! Ausgerechnet die beiden — und hierher!
+Die Pest ist das! Wenn sie erst wieder bei Besinnung sind,
+bin ich so gut wie verloren! Ein Wunder, daß sie noch nicht
+stutzig geworden ist! John erzählte ja …! — Eine verdammte
+Sache …! Es hilft nichts! Die beiden müssen
+dran glauben … Merken wird’s niemand, und nachweisen
 kann’s mir auch niemand …«
 
 Kleiderrascheln — schleichende Schritte …
@@ -2367,11 +2367,11 @@ Der Mann beugte sich tief zu mir hinab …
 Und — fiel mir plötzlich über die Brust …
 
 <@pagebreak/>
-Atmete rôöchelnd …
+Atmete röchelnd …
 
 Harsts Stimme — dicht neben mir:
 
-»Lies still! Ich werde schon mit ihm fertig …«
+»Lieg still! Ich werde schon mit ihm fertig …«
 
 Augen auf …
 
@@ -2381,28 +2381,28 @@ Ich sah — Herbett — — Herbett, dem Harst von oben
 in den Rücken gesprungen war, — Harst ohne Fesseln …
 Harst, der den Menschen würgte, bis dieser still dalag …
 
-Harald erhob sich, schaute ich um …
+Harald erhob sich, schaute sich um …
 
-Schnitt die Zugschnur von den Vorhängen des Doppelrolle
+Schnitt die Zugschnur von den Vorhängen des Doppelbettes
 …
 
 Fesselte den Bewußtlosen, stopfte ihm einen Knebel in
-den Mund, band »den Knebel im Genick fest …
+den Mund, band den Knebel im Genick fest …
 
 Trug den Mann bis zu dem großen Schrankkoffer, legte
 ihn hinein, schloß ab …
 
-Die Schlüssel stecken …
+Die Schlüssel steckten …
 
-Kam zum Bett zurück, hob aus den Falten des Unterhielte
+Kam zum Bett zurück, hob aus den Falten des Unterbetts
 eine winzige Nickelspritze mit Glasrohr auf, hielt sie
 gegen das Licht, drückte auf den Spritzenkolben, ließ zwei
-Tropfen aus der haarbünnen Vietallipige hervorquellen,
-roh an den Tropfen …
+Tropfen aus der haardünnen Metallspitze hervorquellen,
+roch an den Tropfen …
 
 Wandte sich mir zu …
 
-»Blausäure, mein Alter … 1«
+»Blausäure, mein Alter …!«
 
 Und schob die Spritze oben unter sein Kopfkissen …
 
@@ -2419,15 +2419,15 @@ unternahm …
 Er setzte sich nicht wieder auf sein Bett. Er hatte sich’s
 wohl anders überlegt …
 
-Oecffnete den Koffer …
+Öffnete den Koffer …
 
 Und — mit einem Ruck richtete sich der bereits wieder
 erwachte Herbett halb auf …
 
 <@pagebreak/>
-»gallig Sie sich nicht still verhalten,« sagte Harald
-drohend, »werde ich »Ihnen« die Blausäure verabfolgen, Sie
-jämmerlicher Wich!!«
+»Falls Sie sich nicht still verhalten,« sagte Harald
+drohend, »werde ich *Ihnen* die Blausäure verabfolgen, Sie
+jämmerlicher Wicht!«
 
 Dann klappte er den Hauptdeckel wieder herab, nickte mir
 zu und schwang sich auf sein Lager empor …
@@ -2436,14 +2436,14 @@ Ich hörte, wie er sich noch eine Weile bewegte …
 
 Dann — Stille — Stille …
 
-Dann deutete nicht mehr darauf hin, was hier soeben
+Dann deutete nichts mehr darauf hin, was hier soeben
 vor sich gegangen …
 
 Und ich — ich fühlte noch immer eisige Frostschauer mir
 über den Rücken laufen …
 
-Dachte noch immer an die Nidcelspriße, an die beiden
-halte Blausäure, die Harald durch den Geruch geprüft
+Dachte noch immer an die Nickelspritze, an die beiden
+Tropfen Blausäure, die Harald durch den Geruch geprüft
 hatte …
 
 in meinem Hirn jagte stets dieselbe Frage wie ein
@@ -2453,15 +2453,15 @@ heimlich ermorden wollen — — weshalb?!
 Wie — wie konnte das wohl mit diesem rätselhaften
 Kinde zusammenhängen …
 
-Und- — weshalb hatte Harald sich selbst einen Narren
-geflossen — — weshalb?!
+Und — weshalb hatte Harald sich selbst einen Narren
+gescholten — — weshalb?!
 
-Weshalb so gräflich erklärt: »Der Fall liegt nun klar;—
-vollstem: Dollar …!«
+Weshalb so plötzlich erklärt: »Der Fall liegt nun klar,
+vollkommen klar …!«
 
-Zahlte er, um »Welches Kind es sich handelte? Besaß
-Aura Lydia Gwindamoor; die nun bereits die dritte Scheidung
-hinter fix hatte, ein Kind?! — Ich hatte nie davon
+Wußte er, um Welches Kind es sich handelte? Besaß
+etwa Lydia Gwindamoor, die nun bereits die dritte Scheidung
+hinter sich hatte, ein Kind?! — Ich hatte nie davon
 gehört … Nur von ihren unglücklichen, abenteuerlichen
 Ehen …
 
@@ -2470,16 +2470,16 @@ weil Lydia die Abwechslung liebte, weil sie nicht treu sein
 konnte …
 
 Schwarze Tigerin — Tigerweibchen in zügellosen
-Lüften …
+Lüsten …
 
 Die Zeitungen waren stets voll von Skandalgeschichten.
 Aber — das Publikum stürmte die Kinos, in denen ein
 Gwindamoor-Film lief — gerade der Skandalgeschichten
 <@pagebreak/>
-wegen. So ist das Publikum. Chebruh als Reklame —
-smart ist das!!!
+wegen. So ist das Publikum. Ehebruch als Reklame —
+smart ist das!!
 
-Ja — das Ungar aber auch alles, was ich von: Lydia wußte.
+Ja — das war aber auch alles, was ich von Lydia wußte.
 
 Ein Kind? Sie — ein Kind?! Nein — das hätte zu
 der Tigerin nicht gepaßt. Kinder sind unmodern geworden.
@@ -2500,8 +2500,8 @@ für das Wiedersehen mit Lydia …
 Wenn … wir angeblich erwacht sein würden — wir,
 Harald und ich … —
 
-lag still, ruhte Kauf … Schaltete alle Gedanken aus
-= Mr … — —
+lag still, ruhte aus … Schaltete alle Gedanken aus
+— alle … — —
 
 Und so endete der zweite Akt.
 
@@ -2514,15 +2514,15 @@ Und so endete der zweite Akt.
 Stunden gingen hin …
 
 Das fahle Licht der Morgendämmerung lugte durch die
-kleinen Kabinensfenster …
+kleinen Kabinenfenster …
 
 Im Hafen wurde es lebendiger …
 
-Immer länglicher schrillten die Sirenen in« allen Tonarten,
-arbeiten die Heuljitenen von Kriegsschiffen, pfiffen die
-Schleppdampfer, mattroten Motorboote.
+Immer häufiger schrillten die Sirenen in allen Tonarten,
+arbeiten die Heulsirenen von Kriegsschiffen, pfiffen die
+Schleppdampfer, knatterten Motorboote.
 
-Der neue Tag brav an … — -
+Der neue Tag brach an … —
 
 Schritte im Kabinengang …
 
@@ -2531,7 +2531,7 @@ Harst flüsterte: »Wir sind wach!«
 Ich verstand. Mit offenen Augen schaute ich den Eintretenden
 entgegen: Lydia Gwindamoor und der Graubart,
 der auf den Hebriden den Matrosen so mangelhaft mit
-käsigen Gesicht gespielt hatte.
+käsigem Gesicht gespielt hatte.
 
 Lydia trat an die Betten heran …
 
@@ -2540,22 +2540,22 @@ sich? Kräftig genug, ein Verhör zu bestehen?«
 
 »Ich glaube ja,« erwiderte Harald über mir.
 
-Ich .— nickte nur …
+Ich — nickte nur …
 
 Und richtete mich auf, ließ die Beine herabhängen …
 
 Harald tat dasselbe …
 
 So saßen wir denn auf den Betträndern übereinander.
-Form und gegenüber nahm Lydia … auf dem Kofferdeckel
+Und uns gegenüber nahm Lydia … auf dem Kofferdeckel
 Platz …
 
 Ahnungslos, daß der Schrankkoffer nicht mehr leer war.
 
 Der Graubart aber lehnte hinter Lydia an der mit
-Brotatstoïf bespannten Kabinenwand und hatte nun eine
+Brokatstoff bespannten Kabinenwand und hatte nun eine
 <@pagebreak/>
-Selige Pistole unter der Jacke hervorgeholt, eine Pistole,
+klobige Pistole unter der Jacke hervorgeholt, eine Pistole,
 die mir sehr bekannt vorkam …
 
 Hm — sollte dieser Graubart etwa John, die alte Dame,
@@ -2578,15 +2578,15 @@ Lydia schien dieser Ton nicht zu behagen.
 »Sie schätzen Ihre Lage unrichtig ein,« sagte sie finster.
 
 »Glauben Sie?!« Er lachte klingend … »Ich schätze
-meine »Lage« vollkommen richtig ein, denn — ich »liege«
-nicht, sondern »sitze« hier … sprungbereit …«
+meine *Lage* vollkommen richtig ein, denn — ich *liege*
+nicht, sondern *sitze* hier … sprungbereit …«
 
 »Ein Sprung brächte Ihnen den Tod,« meinte die
 schwarze Tigerin drohend.
 
 »Glauben Sie?! — Ich könnte Ihnen das Gegenteil
-beweisen. Aber zunächst wollen wir uns über Nord Cecil
-Dorn Gw Töchterchen, über die kleine Evelyn, unterhalten,
+beweisen. Aber zunächst wollen wir uns über Lord Cecil
+Weccerlays Töchterchen, über die kleine Evelyn, unterhalten,
 Lydia Gwindamoor …«
 
 »Ah — Sie geben zu, daß Sie sie entführt, gestohlen
@@ -2594,45 +2594,45 @@ Haben und verborgen Halten?«
 
 »Langsam — langsam, Mistreß! Ich gebe nichts zu.
 Ich bin ein sehr gründlicher Mensch. Mithin möchte ich
-diese Geschichte von Anfang an ausrollen. Beginnen mit
-also mit der Introduktion … «« —
+diese Geschichte von Anfang an aufrollen. Beginnen wir
+also mit der Introduktion …« —
 
 Mit einem Schlage waren jetzt die Rollen vertauscht.
 Harsts, der Gefangene, der hier hatte verhört werden sollen,
 war zum Ankläger geworden.
 
-Nur eine Persönlichkeit wie er brachte einen sollen Umschwung
-fertig. Nur ein Harst besaß diese ungeheure Mach!
-[9 Persönlichkeit, daß selbst die schwarze Tigerin zahm
+Nur eine Persönlichkeit wie er brachte einen solchen Umschwung
+fertig. Nur ein Harst besaß diese ungeheure Macht
+der Persönlichkeit, daß selbst die schwarze Tigerin zahm
 wurde.
 
 <@pagebreak/>
 »Also, Lydia Gwindamoor,« fuhr er in demselben halb
-ironischen, halb selbstbewußt- nachlässigen Tone fort, »also —
+ironischen, halb selbstbewußt-nachlässigen Tone fort, »also —
 die Introduktion … — Sie haben Ihre Jacht Semiramis 1,
 auf der wir uns jetzt befinden, zur Regatta in Dover gemeldet
-gehabt, nachdem Sie im Frühjahr in Eisblase Lord
-Weccerlay kennen getrennt hatten, den schönen Weccerlay,
+gehabt, nachdem Sie im Frühjahr in Chikago Lord
+Weccerlay kennen gelernt hatten, den schönen Weccerlay,
 den melancholischen Witwer, der seine Gattin nicht vergessen
 kann, die ihm nach zweijähriger Ehe die kleine Evelyn
 schenkte und bei der Geburt des Kindes starb. — Die Zeitungen
 berichteten von dem starken Eindruck, den Ihre eigenartigen
-Neige auf den Lord ausübten, der dann jedoch
-Amerika fluchtartig verließ, um Ihnen nicht wirklich
+Reize auf den Lord ausübten, der dann jedoch
+Amerika fluchtartig verließ, um … Ihnen nicht wirklich
 anheimzufallen — milde ausgedrückt …«
 
-Da schnellte Lydia So …
+Da schnellte Lydia hoch …
 
 Ihre Augen flammten …
 
-Harst sagte von: »Behalten Sie Platz. Ich bin noch
+Harst sagte schon: »Behalten Sie Platz. Ich bin noch
 lange nicht fertig …«
 
-Lydia zögerte. Es war wohl Haralds durchdringenden
-Bis, der sie schließlich bezwang.
+Lydia zögerte. Es war wohl Haralds durchdringender
+Blick, der sie schließlich bezwang.
 
-Sie — feste sich wieder, mit einem Achselzucken, da
-mir ihre Niederlage bemänteln sollte.
+Sie — setzte sich wieder, mit einem Achselzucken, das
+nur ihre Niederlage bemänteln sollte.
 
 »Sie kamen also nach Dover, weil Sie wußten, daß auch
 Lord Weccerlay seine Jacht Astarte zur Regatta gemeldet
@@ -2640,7 +2640,7 @@ hatte und daß er sich nie von seinem Kinde, der jetzt sechs
 Jahre alten Evelyn, trennte. Außerdem hofften Sie, in
 Dover Gelegenheit zu einem der gemeinsten Streiche zu
 finden, die je ein Weib ersonnen hat. — Bleiben Sie sitzen,
-Lydia Gwindamoor! Ich bin »noch« nicht fertig. — Sie
+Lydia Gwindamoor! Ich bin *noch* nicht fertig. — Sie
 spekulierten in ihrem maßlosen Ehrgeiz, Lady Weccerlay
 zu werden, folgendermaßen: »Durch Evelyn wird der Lord
 dauernd an seine erste Gattin erinnert, und deshalb muß
@@ -2650,52 +2650,51 @@ Hanna Mourray, deren Bild nebst Unterschrift dort an der
 Wand hängt. Diese Hanna Mourray betäubte das Kind, verbrachte
 es in den Schrankkoffer und gab den Koffer als Eilgut
 <@pagebreak/>
-nach Stromeferry auf … —
+nach Stromeferry auf …« —
 
 Es war für mich sehr interessant, jetzt der schwarzen
 Tigerin Mienenspiel zu beobachten, als Harst ihr so auf
-Grund glänzender Kombinationen ihre Schandtaten nicht
+Grund glänzender Kombinationen ihre Schandtaten mit
 allen Einzelheiten vorhielt.
 
-Lydia Gwindamoors Augen ruhten starr und ängstlich.
+Lydia Gwindamoors Augen ruhten starr und ängstlich
 auf Harald. Ihr Mund zuckte zuweilen in nervöser Spannung.
 —
 
 »Ihre Zofe starb plötzlich — bei meinem Freunde Gybourg,«
 sprach Harst weiter, jetzt sehr ernst und sachlich, ohne
-Pathos, kein Staatsanwalt, sondern — Harald Harst. »Ah
-fand bei ihr das Klfenbeinffelett und die Fahrkarte nach
-Stromeferry, außerdem im Schirm griff vierzig Diamanten.«
+Pathos, kein Staatsanwalt, sondern — Harald Harst. »Ich
+fand bei ihr das Elfenbeinskelett und die Fahrkarte nach
+Stromeferry, außerdem im Schirmgriff vierzig Diamanten.«
 
-Da — — Hochschnellte die Tigerin abermals hoch …
+Da — — schnellte die Tigerin abermals hoch …
 
 Stammelte: »Vierzig … Diamanten?! Dann — dann
 hat also Hanna mein Brillantkollier, das mir vor zwei Monaten
 verschwand, gestohlen! Oh — wie erbärmlich ist
 das! Wie habe ich ihr vertraut, einer — Unwürdigen!«
 
-»So — nun Oft also auch dieser Diamantenfund aufgeklärt!«
+»So — nun ist also auch dieser Diamantenfund aufgeklärt!«
 erklang Haralds Stimme wieder über mir. »Nun
-weiter. was dann in Stromeferry und auf den Hebriden
-und nicht bei dem Geisterschiff geschah, wissen Sie am besten,
-Lydia Gwindamoor. Zuerst wollten Sie uns3 mit der Caledonia
+weiter. Was dann in Stromeferry und auf den Hebriden
+und dicht bei dem Geisterschiff geschah, wissen Sie am besten,
+Lydia Gwindamoor. Zuerst wollten Sie uns mit der Caledonia
 zugleich durch die Wurfbombe in den Tod schicken,
 dann durch Gewehrschüsse …«
 
-»Halt — Sie irren, Mister Harsts Sie irren! Ah das-geschah
-gegen meinen Willen. Ich bin keine Mörderin. —
+»Halt — Sie irren, Mister Harst Sie irren! All das
+geschah gegen meinen Willen. Ich bin keine Mörderin. —
 Hier — John Lavaillac wird Ihnen bestätigen, daß ich mit
 Herbett alle dreimal hart aneinander geriet, als er eigenmächtig
-Sie drei ermorden wollte! Bei Gott — nie habe-ich
-die Absicht gehabt, die Dinge so auf die Spitze zu treiben!
-Ich habe gedroht, — ich hätte diese Drohungen nie aus.
-geführt!«
+Sie drei ermorden wollte! Bei Gott — nie habe
+ich die Absicht gehabt, die Dinge so auf die Spitze zu treiben!
+Ich habe gedroht, — ich hätte diese Drohungen nie ausgeführt!«
 
 »Möglich … Das kann ich nicht nachprüfen. — Weiter
 also … Jetzt hat dieser Herbett Ihnen Evelyn wieder entzogen,
 <@pagebreak/>
 hat Ihnen vorgelogen, Evelyn sei ihm geraubt worden
-— durch uns
+— durch uns …!«
 
 Er hatte diese Sätze lauter gesprochen — so laut, daß
 auch der in dem Schrankkoffer steckende Herbett die Worte
@@ -2704,10 +2703,10 @@ verstehen mußte.
 Lydia war rasch einen Schritt vorgetreten. Ihr Gesicht,
 ihre Körperhaltung drückten ungläubige Überraschung aus.
 
-»Ah — Sie suchen sich heraus3zureden!« meinte sie recht
+»Ah — Sie suchen sich herauszureden!« meinte sie recht
 zögernd … »Wie können Sie, Mister Harst, einen Mann
 derart verdächtigen, der zwar mit Menschenleben brutal umspringt,
-mir aber so treu ergeben Oft, daß ich —«
+mir aber so treu ergeben ist, daß ich —«
 
 »Oh — Sie sind eine mäßige Menschenkennerin, Lydia
 Gwindamoor, wenn auch eine vorzügliche Schauspielerin!
@@ -2721,42 +2720,42 @@ Lösegeldzwecke zu benutzen …«
 
 »Nein — nein, Herbett ist treu!! Sie wollen mich
 täuschen, Sie, der große Menschenbezwinger und Seelen-Jongleur
-… 1«
+…!«
 
 »Sie … täuschen?! Nein, die Augen will ich Ihnen
 öffnen …!«
 
-Und mit einem und Hatte er die über der Brust gefesselten
+Und mit einem Ruck Hatte er die über der Brust gefesselten
 Hände frei und … holte unter dem Kopfkissen die
 kleine Nickelspritze hervor.
 
 John Lavaillac dachte gar nicht daran zu schießen. Nein,
 er hatte die klobige Luftpistole längst gesenkt …
 
-„«So« bewaffnet,« erklärte Harald, »kam Herbett vor drei
+»So bewaffnet,« erklärte Harald, »kam Herbett vor drei
 Stunden hierher. Sein Selbstgespräch war vielsagend genug.
 Die mit Blausäure gefüllte Spritze sollte Schraut und
 mich ins Jenseits befördern, da er fürchtete, ich könnte Ihnen
 Über seinen wahren Charakter und über den wahren Verbleib
 Evelyns Klarheit verschaffen …«
 
-Lydia lächelte jetzt ironisch
+Lydia lächelte jetzt ironisch …
 
-»Lüge all das — — Lüge!!« sagte sie verächtlich. »Der
+»Lüge all das — — Lüge!!« sagte sie verächtlich. »Herbett
 <@pagebreak/>
-Bett ist in der Stadt, um auf dem Hafenamt die Abreise der
+ist in der Stadt, um auf dem Hafenamt die Abreise der
 Jacht zu melden und …«
 
 »Halt — das Hafenamt befindet sich dann anscheinend
-neuerdings in dem Kloster, aus dem Sie sitzen, Lydia Garnison
-Oh Vielleicht heben Sie einmal den Deckel empor …
+neuerdings in dem Koffer, auf dem Sie sitzen, Lydia Gwindamoor!
+Vielleicht heben Sie einmal den Deckel empor …
 Bitte!«
 
 Nicht die schwarze Tigerin, — John riß den Deckel hoch.
 
 Da lag, scheu nach oben schielend, der gefesselte Schurke,
-— ein Bild des verlängerten schlechten Gewissens, — ein
-Bild der nie ausbleibenden Vergeltung alles Böen …
+— ein Bild des verkörperten schlechten Gewissens, — ein
+Bild der nie ausbleibenden Vergeltung alles Bösen …!
 
 Lydia stierte den Elenden sekundenlang regungslos an.
 Und — riß John die Pistole aus der Hand …
@@ -2765,22 +2764,23 @@ Und — riß John die Pistole aus der Hand …
 … treuloser Schuft!«
 
 Auf Herbetts fahlem Gesicht erschien plötzlich ein freches
-Grinsen. Bett erst mochte ihm einfallen, daß er ja in der
+Grinsen. Jetzt erst mochte ihm einfallen, daß er ja in der
 Person Evelyns noch immer eine Waffe besäße, die ihn vor
-Lydia und uns schüren würde.
+Lydia und uns schützen würde.
 
-»Gebt mich frei,« jagte er frech, »dann fort Ihr das
+»Gebt mich frei,« sagte er frech, »dann sollt Ihr das
 Kind haben!«
 
 Er richtete ich auf …
 
--… Frechheit und Hohn leuchteten aus seinen Augen …
+Frechheit und Hohn leuchteten aus seinen Augen …
 
 <@pagebreak/>
+
 <h2>5. Kapitel.</h2>
 <h3>Und doch … Liebe …!</h3>
 
-Da mischte ich Harald ein.
+Da mischte sich Harald ein.
 
 »Sie werden uns sofort mitteilen, wo das Kind sich befindet,«
 sagte er ohne besondere Schärfe.
@@ -2788,23 +2788,23 @@ sagte er ohne besondere Schärfe.
 »Daß ich dumm wäre!« lachte Herbett. »Der Lord hat
 eine halbe Million …«
 
-Harst trat Saft an den Koffer heran …
+Harst trat rasch an den Koffer heran …
 
 »ich hätte Sie laufen lassen, wenn Sie die Unverschämtheit
 nicht wie jetzt auf die Spitze getrieben hätten! Jetzt —
-werde ich Evelyn suchen und E’g der Polizei übergeben!«
+werde ich Evelyn suchen und Sie der Polizei übergeben!«
 
 »Polizei?!«
 
 Lydia rief’s … Lydia war bleich geworden.
 
 »Mister Harst, dann — dann wandere auch ich ins Gefängnis
-…!« Sie hob flehend die-Hände. »Glauben Sie
+…!« Sie hob flehend die Hände. »Glauben Sie
 mir: ich liebe Cecil Weccerlay! Sie täuschen sich: ich lege
-keinerlei Wert darauf, Lady zu werden! Bin ich aha Lydia
+keinerlei Wert darauf, Lady zu werden! Bin ich als Lydia
 Gwindamoor nicht eine der gefeiertsten Frauen der Welt?!
 was nützt mir ein Adelstitel?! Und — auch Weccerlays
-Millionen loben mich nicht. Ich bin reich — reicher als er,
+Millionen locken mich nicht. Ich bin reich — reicher als er,
 den ich liebe …!«
 
 »Eine merkwürdige Liebe!«
@@ -2812,32 +2812,32 @@ den ich liebe …!«
 »Weil ich Evelyn entführen ließ, weil ich sie zunächst im
 Wrack der Connaught verbergen wollte?! — Mister Harst,
 Weccerlay hätte sein Kind wiedergesehen, sobald ich sein
-Weib zweiten! An dieser Tat, die Sie als gemein bezeichnet
+Weib geworden! An dieser Tat, die Sie als gemein bezeichnet
 haben, hätte er die Größe meiner Liebe messen können!«
 
-»Oder — die … Größe Ihres Charaktere, Lydia
+»Oder — die … Größe Ihres Charakters, Lydia
 Gwindamoor!«
 
 <@pagebreak/>
-»Sie kennen mich nicht. Niemand kennt mich, nie
-jemand …! Was Will es besagen, daß ich meiner Jugend
-genossen habe?! Daß ich
+»Sie kennen mich nicht. Niemand kennt mich, niemand
+…! Was Will es besagen, daß ich meine Jugend
+genossen habe?! Daß ich …«
 
 Harald machte eine sehr energische Handbewegung.
 
 »Lassen wir das … Lord Weccerlay mag entscheiden,
-ob Sie ohne Straße ausgehen sollen, nicht ich!«
+ob Sie ohne Strafe ausgehen sollen, nicht ich!«
 
 Er wandte sich wieder Herbett zu …
 
 »Haben Sie sich eines besseren besonnen?«
 
-»Noch nicht. Falls ich meinen gefunden Verstand mal
+»Noch nicht. Falls ich meinen gesunden Verstand mal
 verlieren sollte, werde ich vielleicht …«
 
-»Schweigen Sie! Ich finde Evelyn auch soll!«
+»Schweigen Sie! Ich finde Evelyn auch so!!«
 
-»Na — da bin ich wirklich gekrampft« Höhnte der Verbrecher.
+»Na — da bin ich wirklich gespannt!« höhnte der Verbrecher.
 »Sehr gespannt …! Vielleicht laufen Sie hier
 in London von Haus zu Haus und fragen nach, ob sich vielleicht
 zufällig …«
@@ -2849,7 +2849,7 @@ Längst lagen meine Fesseln am Boden …
 Wir packten Herbett, hoben ihn aus dem Koffer, legten
 ihn auf den Teppich …
 
-»Was soll das? 1» schnauzte er.
+»Was soll das?!« schnauzte er.
 
 »Ich will mir nur mal den Inhalt Ihrer Taschen ansehen,«
 meinte Harald gleichmütig.
@@ -2864,131 +2864,131 @@ Anscheinend nichts …
 Anscheinend …!! — Harald dachte anders. Harald hob
 drei zerknitterte Straßenbahnfahrscheine, die ich achtlos beiseite
 geworfen, langsam auf, glättete sie und meinte, auf die
-Durchlochung der Vollstrecken deutend:
+Durchlochung der Teilstrecken deutend:
 
 »Hm — bis zur Gloucester-Street …! Und — heute
 im Excelsior-Hotel, bevor Sie mich im Auto drei gegen einen
 Überwältigten, als ich Ihnen folgte, da hatten Sie Lydia
-Gwindamoor »Die Pawaret-Street als Treffpunkt telegraphiert
+Gwindamoor Die Pawaret-Street als Treffpunkt telegraphiert
 …«
 
 »Oh — das war ja nur Spiegelfechterei,« sagte Lydia
 <@pagebreak/>
-fahl). »Das sollte Sie nur verführen, Mister Harst, viel
-reiht …«
+rasch. »Das sollte Sie nur verführen, Mister Harst, vielleicht
+…«
 
 »Bitte — wenn Sie soeben Herbetts Gesicht beobachtet
-hätten, wäre Ebnen kaum entgangen, daß er — leicht er
-schrak, als ich die Fahrscheine aushob. — Weshalb erschrak
+hätten, wäre Ihnen kaum entgangen, daß er — leicht erschrak,
+als ich die Fahrscheine aufhob. — Weshalb erschrak
 er? Weil er Ihnen, Lydia Gwindamoor, nicht irgendeinen
 beliebigen Ort depeschierte, sondern die Straße, die für ihn
 jetzt Bedeutung hat: die Pawaret-Street!« Er tat’s, weil
-er nie befürchtet hat, Sie oder ich würden jemals aus den
-Gedanken Pommern, Evelyn könnte gerade dort verborgen
+er nie befürchtet hat, Sie oder ich würden jemals auf den
+Gedanken kommen, Evelyn könnte gerade dort verborgen
 sein.«
 
 Herbett lachte schrill …
 
-»Süd dort nur — acht dort nur!! Viel Vergnügen!«
+»Sucht dort nur — sucht dort nur!! Viel Vergnügen!«
 
-»Oh — wir nehmen Sie mit, Herbei!,« sagte Harald mit
+»Oh — wir nehmen Sie mit, Herbett!,« sagte Harald mit
 unheimlicher Freundlichkeit. »Lassen Sie ein Auto holen,
-Lydia Gwindamoor, ein gejchlojjened Auto … —
+Lydia Gwindamoor, ein geschlossenes Auto … —
 
 Die dünnen Nebelschleier der Themse hingen noch über
 den Kais, als wir Herbett rasch in den Kraftwagen trugen.
 Wir hatten ihm einen langen Mantel umgehängt, und der
-hantiert mußte glauben, es handele sich um einen Franken.
+Chauffeur mußte glauben, es handele sich um einen Kranken.
 
-So stahlen wir denn, Lydia neben Harald, ich neben dem
+So fuhren wir denn, Lydia neben Harald, ich neben dem
 höhnisch grinsenden Herbett, durch die noch stillen Straßen
 dem übel berüchtigten Gloucester-Viertel zu.
 
 Als das Auto in die düstere, alte Pawaret-Gasse einbog,
-legte sich Harald neben Herbett und überließ mir seinen
+setzte sich Harald neben Herbett und überließ mir seinen
 Platz neben der schweigsamen blassen Lydia.
 
 Er nahm die gefesselte Rechte des Verbrechers in die
 seine und meinte:
 
-»Er Puls ist sehr lebhaft — — sehr!«
+»Ihr Puls ist sehr lebhaft — — sehr!«
 
-Dann — hielt das Auto vor mir. 19 … — Es war dies
-sein aller Schuppen,- wie Lydia mir gegenüber auf gut Glück
+Dann — hielt das Auto vor Nr. 19 … — Es war dies
+kein alter Schuppen, wie Lydia mir gegenüber auf gut Glück
 behauptet hatte, sondern ein schmales, schickes Haus, in dem
 sich eine Kellerspelunke befand, einer jener Keller, wie auch
-Berlin sie zahlreich genug ausweist.
+Berlin sie zahlreich genug aufweist.
 
 »Ah — ihr Puls beschleunigt sich, Herbett!« nickte
 Harald befriedigt.
 
 <@pagebreak/>
-Und zu Lydia: »Sie haben ja Sitten Revolver mit. He
-wachen Sie diesen Menschen. Schraut und ich werden das
+Und zu Lydia: »Sie haben ja Ihren Revolver mit. Bewachen
+Sie diesen Menschen. Schraut und ich werden das
 Haus durchsuchen.« —
 
-Die Spelunke war bereits gezogener.
+Die Spelunke war bereits geöffnet.
 
-Der hagere, bullige Wirt, der und franko? für Kontrast
-Geheimpolizisten dicht, fawtbudelte unaufhörlich …
+Der hagere, bullige Wirt, der uns fraglos für Londoner
+Geheimpolizisten hielt, katzbuckelte unaufhörlich …
 
-Harald sich sich die Mietparteien des Hauses nennen
+Harald ließ sich die Mietparteien des Hauses nennen
 und fragte dann unvermittelt:
 
 »Sie kennen doch Herbett?«
 
 Der Bucklige wurde rot, schüttelte aber eifrig den Kopf.
 
-»Bleibe hier! Der Mann rührt sich nicht vom Sie!«
-befahl Harald dann, na! m die Ehen:entpistole und verschwand
+»Bleibe hier! Der Mann rührt sich nicht vom Fleck!«
+befahl Harald dann, nahm die Clementpistole und verschwand
 durch eine Tür im Hintergrunde der Kneipe …
 
 Der Wirt gab das Spiel verloren …
 
-»Mister, ich — ich wir ehrlich sein,« sagte er plötzlich
-zu mir, immer angstvoll noch meiner Waffe schielend …
-»Das Kind ist oben bei der Mine Einstieg … — Ton
+»Mister, ich — ich will ehrlich sein,« sagte er plötzlich
+zu mir, immer angstvoll nach meiner Waffe schielend …
+»Das Kind ist oben bei der Witwe Smitson … — Der
 Teufel hole die ganze Geschichte!! Ich ahnte gleich, daß Ich
 mir dabei die Finger verbrennen würde …« —
 
 Ich eilte hinter Harald drein, nahm den Wirt mit.
 
-So … fanden wir Evelyn Weccerlay
+So … fanden wir Evelyn Weccerlay …
 
-Zum Glück hatte die Meine all die Aufrequneen recht auf
+Zum Glück hatte die Kleine all die Aufregungen recht gut
 überstanden und war nur etwas blaß und verschüchtert. —
 
-Wir fuhren mit ihr sofort nach Weccerlay-Hause, dem
+Wir fuhren mit ihr sofort nach Weccerlay-House, dem
 Landsitz des Lords, hinaus, nachdem wir Herbett auf der
 nächsten Polizeiwache abgeliefert hatten.
 
-Auf ihre Bitten bin erlaubte Harald dann, daß Lydia
+Auf ihre Bitten hin erlaubte Harald dann, daß Lydia
 Gwindamoor das Kind allein dem Vater wieder zuführte.
 Sie wollte gleichzeitig Weccerlay alles beichten und ihn um
-Verzeihung und Schonung unsicher.
+Verzeihung und Schonung anflehen.
 
 Wir beide kehrten, als Lydia Gwindamoor nach einer
 Stunde noch immer nicht wieder am Parktor erschienen war,
 in demselben Auto nach London zurück. —
 
-Ich brauche hier nicht näher auszuführen, weshalb all
-umsonst aus Lydias Rückkehr gewartet hatten.
+Ich brauche hier nicht näher auszuführen, weshalb wir
+umsonst auf Lydias Rückkehr gewartet hatten.
 
-Daß Lydia Gwindamoor Lord W. geheiratet bat. weil
+Daß Lydia Gwindamoor Lord W. geheiratet hat, weiß
 <@pagebreak/>
 jeder aus den Zeitungen, und daß diese Ehe äußerst glücklich
-ist, kann ich meinen Lesern hiermit verraten
+ist, kann ich meinen Lesern hiermit verraten …
 
-Die schwarze Tigerin muß den Lord tatsächlich - über
+Die schwarze Tigerin muß den Lord tatsächlich über
 alles geliebt haben. — —
 
 Hiermit beende ich die Geschichte des Geisterschiffes, deren
-Anhangs für meinen Geschmack Chinas zu sehr an Familienroman
+Ausgang für meinen Geschmack etwas zu sehr an Familienroman
 erinnert. Ich bin unschuldig daran. Liebe ist blind
 und nachsichtig, und Lydia Gwindamoor ist eine Frau, die
 alles erreicht, wenn sie will und — liebt …
 
-Mag sie glücklich bleiben! Ich gönne sie’s! Und das
+Mag sie glücklich bleiben! Ich gönne ihr’s! Und das
 von ganzem Herzen … — —
 
 Unser folgendes Abenteuer führte uns wieder in den
@@ -2997,6 +2997,7 @@ Orient …
 Wohin — das mögen meine Freunde im nächsten
 Band nachlesen …
 
-Nächster Zankt
-Der Tennisschläger der Ran!.
+Nächster Band:
+
+__Der Tennisschläger der Rani.__
 
