@@ -4,655 +4,652 @@
 
 <h2>1. Kapitel.</h2>
 
-<h3>Ein Karamwanenüberfall.</h3>
+<h3>Ein Karawanenüberfall.</h3>
 
-Dort in meiter Ferne, mo ber gelbfahle Wüftenrand am
+Dort in weiter Ferne, wo der zerkratzte Wüstenrand am
 Horizont mit dem im Morgenzwielicht ebenfalls gelbfahlen
-Himmel in eins vershwamm, zog eine Kamelkarawane ge-
-mächlih dahin, ein seltsames Bild, da die Tiere bei dieser
-Beleuchtung famt ihren beturbanten Führern in der Luft zu
+Himmel in eins verschwamm, zog eine Kamelkarawane gemächlich
+dahin, ein seltsames Bild, da die Tiere bei dieser
+Beleuchtung kamt ihren veranlagten Führern in der Luft zu
 schweben schienen.
 
-Wir, Harald Harst und i, hatten soeben unser Frühstüd
-beendet, und Harald ivar es gewesen, der mich auf die Last-
-larawane, die da scheinbar in der Luft ihren Weg gen Süden
-nahm, ausmerksam gemacht hatte.
+Wir, Harald Harst und ich, hatten soeben unser Frühstück
+beendet, und Harald war es gewesen, der mich auf die Last-larawane,
+die da scheinbar in der Luft ihren Weg gen Süden
+nahm, aufmerksam gemacht hatte.
 
 Wir waren vor zwei Tagen hoch zu Kamel von Sirsa
-(an der Bahnlinie Lahore Aar aufgebrochen und nach
-Südwesten in die indische Thar-Wüste, für uns ein längfl
-befanntes Gebiet, hineingeritten, um fo nach« Gagamwar, der
+(an der Bahnlinie Lahore Rar aufgebrochen und nach
+Südwesten in die indische Thar-Wüste, für uns ein längst
+bekanntes Gebiet, hineingeritten, um so nach« Gagawar, der
 Residenz der Fürstin von Gagawar, zu gelangen. Wir hätten
-und diefen Müftenritt freilich auch sparen können, da Gaga-
-war durch eine Kleinbahn mit der die Thar durchschneidenden
-Haupistrecke verbunden is. Harald jedoch hatte genau so
-re uf nah ein paar Tagen freien Nomabenlebeng
+und diesen Wüstenritt freilich auch sparen können, da Gagawar
+durch eine Kleinbahn mit der die Thar durchschneidenden
+Hauptstrecke verbunden ist. Harald jedoch hatte genau so
+traf nach ein paar Tagen freien Nomabenlebeng
 <@pagebreak/>
-verspürt wie ih, und fo fdAriekten wir denn unsere. Koffer al3
-Frachtgut voraus, kauften in Sirsa zwei vorzügliche Neit-
-dromedare und ‘ein ebenso gutes ‘Lastkamel und kamen uns3
+verspürt wie ich, und so fdAriekten wir denn unsere. Koffer als
+Frachtgut voraus, kauften in Sirsa zwei vorzügliche Reitdromedare
+und ein ebenso gutes ‘Lastkamel und kamen uns3
 nach dem langen Aufenthalt in Europa wie die Götter vor,
-al3 wir nun wieder einmal vom Kamelsattel aus auf die:
-ne langweilige curopäische Kultur pfiffen — gründlich
-psissen! —
+als wir nun wieder einmal vom Kamelsattel aus auf die:
+ne langweilige europäische Kultur pfiffen — gründlich
+pfiffen! —
 
 Unser Lagerplatz hier in der Wüste lag am Abhang ein
-jener in der Thar so häufigen vercinzelten Felsenhügel, w«-
-durch cin paar armselige Palmen beschaltet und von Slei:
-blöden im Sreiviertelfrei3 umgeben. Linfere drei Tiere mw:
-ren mit ihrer Morgenmahlzeit längst fertig und käuten m«
-dem ganzen phlegmatifchen Mohlbehagen dieser hochbeinig
-Viccher die kräftige Maiskost nochmals wieder.
+jener in der Thar so häufigen vereinzelten Felsenhügel, w«-
+durch ein paar armselige Palmen beschattet und von Blei:
+blöden im Sreiviertelfrei3 umgeben. hintere drei Tiere mw:
+ren mit ihrer Morgenmahlzeit längst fertig und kauten indem
+ganzen phlegmatischen Wohlbehagen dieser hochbeinig
+Viecher die kräftige Maiskost nochmals wieder.
 
-Harald hatte jeht scin Fernglas auf die Karawane ei:
+Harald hatte jetzt sein Fernglas auf die Karawane ei:
 gestellt, die in der Tat einen seltsamen Anblick darbot, 1.
-sic fo scheinbar schŒwcebend dahinzog.
+sich so scheinbar schŒwcebend dahinzog.
 
-»Du könntest dazfelhe hin,« meinte er nach einer Mei
-»ic Finde, das da drüben is jezt wichtiger al3 De
+»Du könntest dasselbe hin,« meinte er nach einer Mrs
+»ich Finde, das da drüben ist jetzt wichtiger als Dr
 Morgenzigarre …«
 
 Er Hatte das scharfe Glas während dieser Worte nicht
-von den Augen genominen und ricf nun schon nach wenigen
-Minuten, tmwährend id noch die Schnalle meines Fernglas-
-futlernl3 anfzog:
+von den Augen genommen und rief nun schon nach wenigen
+Minuten, tmwährend ich noch die Schnalle meines Fernglas-futlernl3
+aufzog:
 
-»Bahrhaftig — das sieht wie ein Ueberfall aus! !«
+»Wahrhaftig — das sieht wie ein Überfall aus!!«
 
-Jch schaute auf. Sah dort weit im Osten nun zwei
-Neiterfetten, die im Galopp auf die Karatmane zusprengten
+Ich schaute auf. Sah dort weit im Osten nun zwei
+Perlenketten, die im Galopp auf die Karatmane zu sprengten
 und sich zu einem engen Kreise vereinigten, da der: Führer
-der NPamclschfarawane anscheinend den Seinen den Befehl ge-
-geben halte, sich zur Abwehr des Feindes enger zusammen-
-zuschließen.
+der NPamclschfarawane anscheinend den Seinen den Befehl gegeben
+halte, sich zur Abwehr des Feindes enger zusammenzuschließen.
 
-Th möchte hier erklärend bemerken, daß die Thar-
-Wüste noch heute wie chedem die Zufluchtstätte aller jener
+Oh möchte hier erklärend bemerken, daß die Thar-Wüste
+noch heute wie Liebem die Zufluchtsstätte aller jener
 verbrecherischen Elemente ist, die in den Randgebieten diese?
-ntintermeßlichen Landstrihs der scharfen indischen Polizei sid
-entziehen wollen. Eine Verfolgung in die Thar hinein if
+ntintermeßlichen Landstrihs der scharfen indischen Polizei sich
+entziehen wollen. Eine Verfolgung in die Thar hinein ist
 <@pagebreak/>
-so gut wie zwecklo3, da die größtenteils ungewohnten Wüsien-
-streckden mit ihren zerllüfteten, armfeligen Höhenzilgen un-
-zäblige Berftede bieten. —
+so gut wie zwecklos, da die größtenteils ungewohnten Wüsien-streckden
+mit ihren zerklüfteten, armseligen Höhenzügen unzählige
+Verstehe bieten. —
 
-Kaum hatte ich begriffen, wa3. dort weit bor una fic
-abspielte, al3 Ih auch fhon Harald meinerfeit3 zurief, ber
+Kaum hatte ich begriffen, was. dort weit vor nun sich
+abspielte, als Ich auch schon Harald meinerseits zurief, der
 Karawane doch zu Hilfe zu eilen.
 
 »Wir haben unsere Winchesterbüchsen bei uns, und mit
-diesen fehzehn Schuß können wir —«
+diesen sechzehn Schuß können wir —«
 
 Harst unterbrach mich.
 
-»Wie weit [hätt Bu die Entfernung denn?« fragte er.
+»Wie weit [hätt Du die Entfernung denn?« fragte er.
 
-»Eine halbe Deeile.«
+»Eine halbe Beeile.«
 
 Er lachte. »Lieber Alter, die dünne Wüstenluft täuscht!
-Dret Meilen find’3 Keftimmt, wenn niht gar noch mehr!
-Bevor wir unsere Tiere gcsattelt und die drei Meilen zurücl-
-gelegt haben, find die Herren Banditen über alle Berge!«
+Drei Meilen sind’s bestimmt, wenn nicht gar noch mehr!
+Bevor wir unsere Tiere gesattelt und die drei Meilen zurückgelegt
+haben, sind die Herren Banditen über alle Berge!«
 
 Noch immer beobaczicte er diese Wildwestszene durch
-das Glas. Noch immer spiclte sich dort in der Ferne am
-Wüstenrande cin Näuberstückchen ab, wie es hier in der Thar
-immerhin eine Seltenheit ift; denn ein folhes Maffen:
-aufgebot von Karawanenplünderern hatte ich noch nie bisher
-hier gefchen, obwohl mir beide doch por anderthalb Jahren
-in dicser »Sahara Jndiens3» gerade mit »Lakschaias3 bin
-Tohranir», mit SKaramanenräubern, manchen blutigen
-Strauß ausgefochien Hatten.
+das Glas. Noch immer spielte sich dort in der Ferne am
+Wüstenrande ein Räuberstückchen ab, wie es hier in der Thar
+immerhin eine Seltenheit ist; denn ein tolles Waffen:
+Aufgebot von Karawanenplünderern hatte ich noch nie bisher
+hier gesehen, obwohl mir beide doch vor anderthalb Jahren
+in dieser »Sahara Jndiens3» gerade mit »Lakschaias3 bin
+Gekraust«, mit Karawanenräubern, manchen blutigen
+Strauß ausgefochten Hatten.
 
-»Merkwürdig,« sagte Harald dann plöblih, »es machi
-ganz den Eindruck, als ob die Banditen auf keinerlei Wider-
-stand gestoßen sind!«
+»Merkwürdig,« sagte Harald dann plötzlich, »es mach!
+ganz den Eindruck, als ob die Banditen auf keinerlei Widerstand
+gestoßen sind!«
 
-Und gleichzeitig schraubte er sein Gla3 zusammen, fügte
+Und gleichzeitig schraubte er sein Glas zusammen, fügte
 hinzu: »Vorwärts, mein Alter! Wenn wir uns3 beeilen,
-[önnen tvir wenigstens den Banditen auf der Spur bleiben.
-Die Rani von Gagatoar wird uns dankbar sein, falt3 e2
-uns gelingt, den Schlupswinkel der Lakschaia3 bin Tobrani1
-zu entdecken, denn dieses Geblet hier muß schon zu ihrem
+[sagen wir wenigstens den Banditen auf der Spur bleiben.
+Die Rani von Gagawar wird uns dankbar sein, falte e?
+uns gelingt, den Schlupfwinkel der Lakschaias bin Gekraust
+zu entdecken, denn dieses Gebiet hier muß schon zu ihrem
 Fürstentum gehören.«
 
-Jn zehn Minitten hatten wir unser Lasttier wieder be-
-laden, hatten den tadellosen Reitdromedaren die Sättel auf-
+In zehn Minister hatten wir unser Lasttier wieder beladen,
+hatten den tadellosen Reitdromedaren die Sättel aufgelegt
 <@pagebreak/>
-gelegt und jagten im Bogen nah Süden der Stelle des
-Ueberfall3 zu, indem wir uns stets in Tälern hielten und
+und jagten im Bogen nach Süden der Stelle des
+Überfalls zu, indem wir uns stets in Tälern hielten und
 es sorgfältig vermieden, uns auf einer Anhöhe zu zeigen.
 
-Wir mochten so etwa sünszehn Minuten geritten sein,
-als wir in einen schluchtartigen Engpaß mit felsigen Wän-
-den einbogen, dessen vielfache Krümmungen es uns unmög-
-lih machten, auf weitere Entfernung einem Nahenden zu
+Wir mochten so etwa fünfzehn Minuten geritten sein,
+als wir in einen schluchtartigen Engpaß mit felsigen Wänden
+einbogen, dessen vielfache Krümmungen es uns unmöglich
+machten, auf weitere Entfernung einem Nahenden zu
 bemerken.
 
-So kam es denn, daß wir ganz überraschend der Shiks
-einer ¡castfarawane begegneten, deren Führer einen Sd
-mel ritt
+So kam es denn, daß wir ganz überraschend der Stils
+einer ¡castfarawane begegneten, deren Führer einen So
+Kamel ritt
 
-Hellfarbene Pferde find nun in Indien ziemlich se!
-Und so konnte denn Harald mit einigem Necht mir zuflüft
+Hellfarbene Pferde sind nun in Indien ziemlich se!
+Und so konnte denn Harald mit einigem Recht mir aufhält
 
-»Der Yührer Der Überfallenen Karawane ritt gleich!
+»Der Führer Der Überfallenen Karawane ritt gleich!
 einen Schimmel! Wenn’s nun dieselbe Karawane wäre
 
-Dann war ber [hmarzbärtige Ratischpute, ein echter,
-blidender Bermohner der Thar, schon dicht vor uns, muf
+Dann war der [hmarzbärtige Ratischpute, ein echter,
+bittenden Beiwohnen der Thar, schon dicht vor uns, muß
 uns durchdringend und wollte ohne Gruß vorüber.
 
-Harst rief ihm zu, indem er sih des Englischen bedieur.
-Zügele Dein edles Roß für kurze Zeit, Fremder. Wir
+Harst rief ihm zu, indem er sich des Englischen bediene.
+Zögere Dein edles Roß für kurze Zeit, Fremder. Wir
 möchten Dich einiges fragen.«
 
-Der Ratschpute drückte sein Pserd mehr an die Schlucht-
-wand und winkte den vorderen Kameltreibern zu.
+Der Ratschpute drückte sein Pferd mehr an die Schluchtwand
+und winkte den vorderen Kameltreibern zu.
 
 Die Karawane hielt.
 
-Diese Bereitwilligkeit des Führers, uns Rede und Ant-
-wort zu stehen, machte mich ftuzig. Wer jemal3 mit rein-
-blütigen Ratschputen zu tun gehabt hat, weiß, daß sie zu den
-erbittertsten Eurcräcrhaffern gebören.
+Diese Bereitwilligkeit des Führers, uns Rede und Antwort
+zu stehen, machte mich stutzig. Wer jemals mit reinblütigen
+Ratschputen zu tun gehabt hat, weiß, daß sie zu den
+erbittertsten Eurcräcrhaffern gehören.
 
-»Frage, Sahib,« erklärte Der Ratjchpute nun, indem er
+»Frage, Sahib,« erklärte Der Ratschpute nun, indem er
 Uns nochmals seltsam scharf und prüfend anschaute.
 
-»Jhr seid vorhin von Lakschaias bin Tobranir ange-
-halten worden?« begann Harst, während fi immer mehr
+»Ihr seid vorhin von Lakschaias bin Gekraust angehalten
+worden?« begann Harst, während sich immer mehr
 Kameltreiber um uns versammelten.
 
-»Du irrst, Sahib,« entgegnete der Ratschpute. »Wür
-find von niemandem angehalten worden.«
+»Du irrst, Sahib,« entgegnete der Ratschpute. »Wär
+sind von niemandem angehalten worden.«
 
 »Dein Gedächtnis hat Dich verlassen. — Weshalb
 <@pagebreak/>
-trägft Du um da3 linke Handgelenk einen Verband? Wes-
-Halb zeigt Dein Mantel frifhe Blutspuren f«
+trägst Du um das linke Handgelenk einen Verband? weshalb
+zeigt Dein Mantel frische Blutspuren f«
 
-»Jch bin vom Pserde gefallen, Sahib 1»
+»Ich bin vom Pferde gefallen, Sahib 1«
 
-Harald lachie. »Ein Ratschpute, der mit dem Pferde
-ftürzt, ift eine Seltenheit! — Bist Du ein Untertan der Rani
+Harald lachte. »Ein Ratschpute, der mit dem Pferde
+stürzt, ist eine Seltenheit! — Bist Du ein Untertan der Rani
 von Gagawar f«
 
-Da senkte der Mann den Blid, zögerte.
+Da senkte der Mann den Blick, zögerte.
 
-»Nein, Sahib!»
+»Nein, Sahib!«
 
 »Du lügst! — Kennst Du dies hier fk«
 
-Und er entnahm seiner Brieftafhe ein Dreimal gefalte-
-tes Blatt jenes diden, fascigen Papiers, das in Jndien noch
-heute auf Die primitivfie Art für beftimmte Zwedle — für
-befonders wichtige Urkunden — lediglich zu perfönlidem Be-
-darf einiger eingeborener Fürsten hergestellt wird.
+Und er entnahm seiner Brieftasche ein Dreimal gesatteltes
+Blatt jenes dicken, Buschigen Papiers, das in Indien noch
+heute auf Die primitivste Art für bestimmte Zwecke — für
+besonders wichtige Urkunden — lediglich zu persönlichem Bedarf
+einiger eingeborener Fürsten hergestellt wird.
 
-Dieses Blatt hier war mit seinfter leuchtender Jndigo-
-farbe künsilerisch beshrieben und hatte unten neben dem
-Namenzzug der Rami von Gagawar eine Art Siegel au?
+Dieses Blatt hier war mit feinster leuchtender Jndigo-farbe
+künstlerisch beschrieben und hatte unten neben dem
+Namenzzug der Rani von Gagawar eine Art Siegel zu?
 vergoldetem Wachs.
 
 Harald zeigte die entfaltete Urkunde dem Ratschputen
-und sagte strengen Tones: »Dies ift ein Geleitbrief dei
-Fürstin Aranda ben Soharawi von Gagawar. Jeder, we1
-es auch sei, hat mir dem Wortlaut dieser Urkunde nah Ge:
-horsam zu leisten, sobald ih mich innerhalb der Grenzen des
-Fürstentums befinde. Sch besehle Dir also, mir die Wahr-
-heit zu sagen. — Man hat Euch überfallen?«
+und sagte strengen Tones: »Dies ist ein Geleitbrief bei
+Fürstin Franko den Soharawi von Gagawar. Jeder, wer
+es auch sei, hat mir dem Wortlaut dieser Urkunde nach je:
+Gehorsam zu leisten, sobald ich mich innerhalb der Grenzen des
+Fürstentums befinde. Ich befehle Dir also, mir die Wahrheit
+zu sagen. — Man hat Euch überfallen?«
 
 Der Ratschpute senkte den Kopf noch tiefer. Und dann,
-dann kam über seine Lippen ein sschriller Pfiff.
+dann kam über seine Lippen ein schriller Pfiff.
 
-Bligfchnell Hatten fih da drei Kerle von hinten mil
-geradezu afsenartiger Gewandtheit auf mein Dromedar ge-
-shwungen, rissen mich aus dem Sattel …
+Blitzschnell Hatten sich da drei Kerle von hinten mit
+geradezu affenartiger Gewandtheit auf mein Dromedar geschwungen,
+rissen mich aus dem Sattel …
 
 Und genau so erging es Harald. Auch ihm kam dieser
-Angriff so überraschend, daß er genau so wenig wie ih an
-Widerftand denken konnte.
+Angriff so überraschend, daß er genau so wenig wie ich an
+Widerstand denken konnte.
 
 Wir fielen in das Steingeröll, und wie eine Meute
-Hehrüden lagen die shweißstinkenden braunew Kameltreiber
+Schnöden lagen die schweißstinkenden braunem Kameltreiber
 auf unseren Leibern, umkrallten unsere Arme, Beine, preßten
 <@pagebreak/>
-uns übeldustende Decken auf die Gesichter, fesselten uns und
+uns übelduftende Decken auf die Gesichter, fesselten uns und
 schleppten uns fort.«
 
-Der Tragktorb eines Lastkamel3 nahm mich auf. Und
-volle sech3 Stunden wurde ih hier in dem engen Bast-
-behälter derart durchgerüttelt, daß ich faum noch auf den
-Beinen stehen konnte, als man mich nah diesem cndlosen
-Nitt heraushob.
+Der Prachtkerl eines Lastkamele nahm mich auf. Und
+volle sechs Stunden wurde ich hier in dem engen Bastbehälter
+derart durchgerüttelt, daß ich kaum noch auf den
+Beinen stehen konnte, als man mich nach diesem endlosen
+ritt heraushob.
 
-Noch immer mußte ih den Gestank der meinen Kopf
-unıhüllenden Dede atmen. Schwankend stand ich da. Hörte
+Noch immer mußte ich den Gestank der meinen Kopf
+unıhüllenden Decke atmen. Schwankend stand ich da. Hörte
 allerlei Geräusche ringsum, die jedoch allmählich verklangen.
 
-Und sengend und peinvoll brannte die Sonne mir auf
-die über der Brust kreuzweise gefesselten Hände. Jch japste
+Und fragend und peinvoll brannte die Sonne mir auf
+die über der Brust kreuzweise gefesselten Hände. Ich japste
 nach Luft …
 
 Und — vernahm nun dicht neben mir Haralds dumpf
 klingende Stimme:
 
-»Ein lieblicher Anfang, mein Alter! Aber — ein viel-
-sagender Anfang! Die Nani von Gagawar hat uns brieflich
+»Ein lieblicher Anfang, mein Alter! Aber — ein vielsagenden
+Anfang! Die Rani von Gagawar hat uns brieflich
 durch ihren Privatsekretär hierher bestellt, damit wir den
 Dieb des berühmten Gagawar-Smaragdes ermitteln, hat
 dem Briefe auch gleich den Selecitfchein beigefügt und hoffte,
-uns durch dicse Urkunde besonders zu nüßken. Da wir ja
-in ihrer Hauptstadt verkleidet erscheinen sollten. Und jegt —
-jeßt sind wir, behaupte ich, lediglich dieser Urkunde wegen
-überjallen und verfchleppt worden!«
+uns durch diese Urkunde besonders zu nützen. Da wir ja
+in ihrer Hauptstadt verkleidet erscheinen sollten. Und jetzt —
+jetzt sind wir, behaupte ich, lediglich dieser Urkunde wegen
+überfallen und verschleppt worden!«
 
-»Hm — —!« meinte ih nur, denn ih zweifelte schr
+»Hm — —!« meinte ich nur, denn ich zweifelte sehr
 stark an der Richtigkeit dieser Vermutung meines Freundes.
 
-Harald blieb nun eine Weile stil. Dann erklang seine
+Harald blieb nun eine Weile Stil. Dann erklang seine
 Stimme bedeutend heller: »So — die Augeublende bin ich
-sos! Ah — ein Talkessel, und was für ein Talkessel! —
-Warte, meine Zähne werden Dir sehr bald die Siricke ab-
-nehmen.«
+sog! Ah — ein Talkessel, und was für ein Talkessel! —
+Warte, meine Zähne werden Dir sehr bald die Stricke abnehmen.«
 
-Und gleich darauf waren wir bcide tvieder frei.
+Und gleich darauf waren wir beide wieder frei.
 
 Nun sah auch ich, daß wir uns in einer langgestreckten
 Schlucht mit haus3hohen senkrechten Wänden befanden und
-daß dort nah Westen zu in diesem sschrossen Tale ein win-
+daß dort nach Westen zu in diesem schlossen Tale ein winziges
 <@pagebreak/>
-ziges Palmenwäldchen und ein paar grüne Grasflächen
+Palmenwäldchen und ein paar grüne Grasflächen
 freundlich herüberwinkten.
 
 Dort weideten auch unsere drei Tiere.
 
-Und — — Harald sagte jeÿt noch ernster: »All das
+Und — — Harald sagte jetzt noch ernster: »All das
 täuscht, mein. Alter! Wir sind Gefangene. Da oben an
-den Rändern der Schlucht drohen Gewehrläuse hinter Fel3-
-blöden hervor!«
+den Rändern der Schlucht drohen Gewehrläufe hinter Felsblöcken
+hervor!«
 
-Jch war jett wieder Herr meiner Sinne. Auch ich be-
-merkte dort oben die vier Gewehrläufe und vier sschmierige
+Ich war jetzt wieder Herr meiner Sinne. Auch ich bemerkte
+dort oben die vier Gewehrläufe und vier schmierige
 Turbane der hinter den Felsen hockenden Wächter.
 
-»Meine Clemenipistole hat den Besiver gewechselt,«
-sagte Harald da. »Und unjere Büchfen dürften gleihjals
-berihivunden sein. Jmmerhin: die Geschichte ift al3 Ein
-leitung niht zu unterschätzen !«
+»Meine Clementpistole hat den Besitzer gewechselt,«
+sagte Harald da. »Und unsere Büchsen dürften gleichfalls
+verschwunden sein. Immerhin: die Geschichte ist als Ein
+Leitung nicht zu unterschätzen!«
 
-Langsam fchritt er den Palmen zu.
+Langsam schritt er den Palmen zu.
 
-Und als toir hier eine kleine Quelle aus der wesilichen
-FelÎwand hervortreten sahen, meinte Harald wieder:
+Und als wir hier eine kleine Quelle aus der westlichen
+Felswand hervortreten sahen, meinte Harald wieder:
 
-»Ein Gefängnis mit srishem Wasser! Wir sollen offen-
-bar längere Zeit an diesein Orte festgehalten werden, even
+»Ein Gefängnis mit frischem Wasser! Wir sollen offenbar
+längere Zeit an diesem Orte festgehalten werden, eben
 so lange, bis in Gagawar irgendwie der Diebstahl des
 grünen Edelsteins wieder in Vergessenheit geraten ist!«
 
 »Das heißt also,« erläuterte ich Harsts Andeutungen,
 »der Dich oder die Diebe des Gagawar- Smaragdes haben
-uns diese Haft zudiktiert!«
+uns diese Haft zu diktiert!«
 
-»Gewiß! Wer sonst. — Nehmen wir dort im Schaiten
-Play und sorgen wir für unser leiblihe3s Wohl. Ich habe
-Hunger nach den sechs Stunder Kamelritt im Tragkorbe.«
-Daß war fo tet mein alter unverwüstliher Harald,
-der nun zunächst seine Taschenuhr sorgfältig auszog und da-
-bei meinte: »Halb ein Uhr mittags am 29. Juli! Merten
+»Gewiß! Wer sonst. — Nehmen wir dort im Schatten
+Platz und sorgen wir für unser leiblihe3s Wohl. Ich habe
+Hunger nach den sechs Stunden Kamelritt im Tragkorbe.«
+Daß war so tet mein alter unverwüstlicher Harald,
+der nun zunächst seine Taschenuhr sorgfältig auszog und dabei
+meinte: »Halb ein Uhr mittags am 29. Juli! Merken
 wir uns das!«
 
 <@pagebreak/>
 
 <h2>2. Kapitel.</h2>
 
-<h3>Jn Gagawar.</h3>
+<h3>In Gagawar.</h3>
 
-Und um vier Uhr ftellien wir bei einer Besichtigung des
-Tales fest, daß dieses nur einen einzigen schmalen, gewun-
-enen Ausgang in Form eines steil abfallenden Kanons
-atie.
+Und um vier Uhr stellten wir bei einer Besichtigung des
+Tales fest, daß dieses nur einen einzigen schmalen, genaueren
+Ausgang in Form eines steil abfallenden Kanons
+Diplomatie.
 
 Dieser Ausgang aber war durch Steine verrammelt,
-und aus den Lüden zwischen den Steinen drohten uns
-wieder zwei Geroehrläufe entgegen.
+und aus den Läden zwischen den Steinen drohten uns
+wieder zwei Gewehrläufe entgegen.
 
-»Aha!« lächelie Harald und machte kehrt. »Nun wissen
+»Aha!« lächelte Harald und machte kehrt. »Nun wissen
 wir ja endgültig Bescheid: Gefangene!!! — Die Herrschaften
-vergaßen nur bei diesem Bewachungssystem da3 eine: auf
-jeven Tag folgt eine Nacht, und Nächte sind dunkel, und den
-Wächtern dürften kaum Scheinwerfer zur Versügung stehe
-um unser Treiben zu beobachten! Wir werden morg
+vergaßen nur bei diesem Bewachungssystem das eine: auf
+jeden Tag folgt eine Nacht, und Nächte sind dunkel, und den
+Wächtern dürften kaum Scheinwerfer zur Verfügung stehe
+um unser Treiben zu beobachten! Wir werden Karg
 ein un vergnügt davonreiten. Wollen wir wetten, mein
-Alter ?«
+Alter?«
 
 »Danke!«
 
-Gegen Harft zu wetten, ist eine mißlihe Sache. Wenn
+Gegen Harst zu wetten, ist eine mißliche Sache. Wenn
 er so bestimmt behauptet, daß wir um ein Uhr frei sein
 würden, dann stimmt das zumeist, dann hat er eben seinen
-Befreiungsplan schon fir und fertig im Kopfe.
+Befreiungsplan schon Wir und fertig im Kopfe.
 
 Und — so war’s denn auch.
 
-Als gegen zehn Uhr tiessie Dunkelheit das Tal erfüllte,
+Als gegen zehn Uhr tiefste Dunkelheit das Tal erfüllte,
 fertigten wir aus Zweigen, Gras und den stinkenden Decken
-ind Puppen in aller Stille an, bie nachher — uns vertreten
-ollten.
+ins Puppen in aller Stille an, die nachher — uns vertreten
+rollten.
 
-Dann fladerte ein Lagerfeuer auf. Die Puppen lagen
-im Schatten an ber Felöiwanb.
+Dann flackerte ein Lagerfeuer auf. Die Puppen lagen
+im Schatten an der Felöiwanb.
 
 Wir aber krochen in aller Gemütsruhe vor, aßen,
-tranten, rauchten, unterhielten uns, ließen das Feuer immec
-nicdriger brennen, stredien uns zum Schlafe aus, zogen
+tranken, rauchten, unterhielten uns, ließen das Feuer immer
+niedriger brennen, strebten uns zum Schlafe aus, zogen
 <@pagebreak/>
-unsere Sportmüßen über die Gesichter und warteten, bis da3
+unsere Sportmützen über die Gesichter und warteten, bis das
 Feuer vollends erloschen war.
 
 Noch war der Mond nicht über die Randhöhen des
-Tales Hinausgeftiegen.
+Tales Hinausgestiegen.
 
-Und al3 er nun. erschien und die eine Hälfte unsere?
-Gefängnisses mit mildyigen Lichte erfüllte, da — lagen wir
-immer noh vor den Palmen und fchliefen.
+Und als er nun. erschien und die eine Hälfte unsere?
+Gefängnisses mit milchigen Lichte erfüllte, da — lagen wir
+immer noch vor den Palmen und schliefen.
 
 Da — waren’s die Puppen, die von den Wächtern
 beruhigend als dunkle Gestalten bemerkt werden mußten.
 
-Wir beide aber hockten längst diht am Steinverhau
-des Kanons, hörten, daß auf der anderen Seite des Walle
-zwei Männer leise miteinander sprachen, und — triumphier-
-ten, al3 nun auH die beiden anderen hinzukamen. Vier
-waren’s nur, die un3 hier bewachten. Das wußten wir!
-Und diese famose Garde bildete fih nun ein, Harst und
-Schraut schliefen dort bei ven Palmen wie die Murmeltiere!
+Wir beide aber hockten längst dicht am Steinverhau
+des Kanons, hörten, daß auf der anderen Seite des Wallte
+zwei Männer leise miteinander sprachen, und — triumphierten,
+als nun auch die beiden anderen hinzu kamen. Vier
+waren’s nur, die uns hier bewachten. Das wußten wir!
+Und diese famose Garde bildete sich nun ein, Harst und
+Schraut schliefen dort bei den Palmen wie die Murmeltiere!
 
 Ad, die armen Kerle taten mir nachher aufrichtig leid,
-al3 wir ihnen urplöblih von der Höhe der Barrikade aus
-in Strümpfen über den Hal3 kamen. Sie hockten da so ge
-mütlih um ein Feuerchen, hatten ihre Gewehre neben si
+als wir ihnen urplötzlich von der Höhe der Barrikade aus
+in Strümpfen über den Hals kamen. Sie hockten da so ge
+nützlich um ein Feuerchen, hatten ihre Gewehre neben sich
 gelegt und kauten ihr hartes Maisbrot!
 
-Harald - flog mitten unter sie, hatte im Moment drel
+Harald - flog mitten unter sie, hatte im Moment drei
 Flinten aufgerafft.
 
-Die vierte richtete ih auf die braven, zerlumpten Kamel.
-treiber, die ihrer Aufgabe doch nicht ganz gewachsen waren,
+Die vierte richtete ich auf die braven, zerlumpten Kamel.
+Treiber, die ihrer Aufgabe doch nicht ganz gewachsen waren,
 hier einen Harald Harst festzuhalten! —
 
-Während ich die verblüffte Gesellschaft dann in Schack
-hielt, band Harald ihnen die Hände auf dem Rücken zusam-
-men, räumte die Sieine weg und deutete in das Tal hinein.
+Während ich die verblüffte Gesellschaft dann in Schach
+hielt, band Harald ihnen die Hände auf dem Rücken zusammen,
+räumte die Steine weg und deutete in das Tal hinein.
 
 »Vorwärts — bis zu den Palmen!« befahl er auf
 englisch.
 
 Und die Kerle gehorchten.
 
-Hinterher schlenderten wir beide, not immer auf
+Hinterher schlenderten wir beide, Not immer auf
 Strümpfen, die Schuhe über dem Rücken. Sie wären uns
-beim lautlosen Erklimmen der Barrikade hinderlih gewesen.
+beim lautlosen Erklimmen der Barrikade hinderlich gewesen.
 
-Dann mußten die vier fih nieberfegen. Unser Lager-
+Dann mußten die vier sich niederlegen. Unser Lagerfeuer
 <@pagebreak/>
-feuer flammte wieder auf, und — — das Verhör begann.
+flammte wieder auf, und — — das Verhör begann.
 Zuerst wollten die Leutchen Harst anlügen. Sie gaben es
 bald auf. Er bewies ihnen, daß sie shwirdelten, und er
-drohte, sie der Rani von Gagawar auszuziiefern, falls fie
+drohte, sie der Rani von Gagawar auszuziiefern, falls sie
 noch weiter Ausflüchte machten.
 
-So vernahmen mir benn endlich die Wahrheit, und bie
-var vieldeutig genug.
+So vernahmen mir denn endlich die Wahrheit, und die
+war vieldeutig genug.
 
 Die vier stammten aus einem Dorfe bei Gagawar und
-verdienten seit Jahren al3 Kamesltreiber ihr ärmliches Brot.
-Die von uns beobachtete Karawane hatte die Residenz Ga-
-gatvar vorgestern abend verlassen. Die sämtlichen zweiund-
-dreißig Lasikamele samt der Ladung waren Eigentum des
-Kaufmanns Harun Said, eines Persers3, der in Gagawar
-das größte Exporthaus besaß. Der Führer der Karatvane,
-jener Schimmelreiter, hieß Marsa Sibra und war des Per-
-sers vertrauter Freund und Bevollmächtigter. Heute morgen
-dann hatten sechzig Ratshputen die Karawane umzingelt.
-Diecse Leute waren sämtlich maskiert gewesen und hatten
-Tücher mit Augenlöchern vor dem Gesicht getragen. Jhr
-Anführer hatte den Ratschputen Marsa Sibra, der nicht so-
-fort gehorchen wollte, durch einen RNevolvershuß an der
+verdienten seit Jahren als Kamesltreiber ihr ärmliches Brot.
+Die von uns beobachtete Karawane hatte die Residenz Gagawar
+vorgestern abend verlassen. Die sämtlichen zweiundvierzig
+Lastkamele samt der Ladung waren Eigentum des
+Kaufmanns Harum Said, eines Versetze, der in Gagawar
+das größte Exporthaus besaß. Der Führer der Karawane,
+jener Schimmelreiter, hieß Marsa Sibra und war des Persers
+vertrauter Freund und Bevollmächtigter. Heute morgen
+dann hatten sechzig Ratschputen die Karawane umzingelt.
+Flecke Leute waren sämtlich maskiert gewesen und hatten
+Tücher mit Augenlöchern vor dem Gesicht getragen. Ihr
+Anführer hatte den Ratschputen Marsa Sibra, der nicht sofort
+gehorchen wollte, durch einen Revolverschuß an der
 Hand verwundet. Die Maskierten raubten jedoch nichts,
-sondern durchsuchten nur Marsa Sibras3 Kleider und die
-Satteltafchen seines Pferdes. Dann hatte ihr Anführer den
-Freund des Persers3 beiseite genommen und eine Weile mit
+sondern durchsuchten nur Marsa Filiale Kleider und die
+Satteltaschen seines Pferdes. Dann hatte ihr Anführer den
+Freund des Versetze beiseite genommen und eine Weile mit
 ihm geflüstert, hatte Marsa Sibra ein Fernglas gegeben
-und ein Päckchen und war mit den Seinen davongesprengt.
+und ein Päckchen und war mit den Seinen davon gesprengt.
 Die Karawane brach wieder auf, wurde aber von Marsa
-Sibra nunmehr derart geführt, daß sie un3 beideni begegnen
+Sibra nunmehr derart geführt, daß sie uns beiden! begegnen
 mußte. Der Ratschpute hatte den von uns eingeschlagenen
 Weg lediglich dadurch erkannt, daß wir immer wieder ganze
-Schwärme von Onus, don iInpifchen Wüftenftaren, aufge-
-fheucht hatten, und diefe auffchwirrenden Vogelmolten wa-
-ren ung mithin verhbängnispoll. gewefen. Der NRatfchpute
-hatte inzwischen auh seine zwölf Kameltreiber eingeweiht
+Schwärme von Taus, von ironischen Wüftenftaren, aufgescheucht
+hatten, und diese auffchwirrenden Vogelnester waren
+jung mithin verhbängnispoll. gewesen. Der Ratschpute
+hatte inzwischen auch seine zwölf Kameltreiber eingeweiht
 <@pagebreak/>
-und ihnen Geld versprochen, wenn sie ihm hülfen, zwei Euro-
-päer gefangenzunehmen. —
+und ihnen Geld versprochen, wenn sie ihm hüllen, zwei Europäer
+gefangenzunehmen. —
 
-Mcehr konnten die vier tüchtigen Wächter un3 beim
+Merke konnten die vier tüchtigen Wächter uns beim
 besten Willen nicht verraten. Sie wußten eben nur das, was
 sie uns mitgeteilt hatten.
 
-Harald fragte den Jntelligentesten von ihren noch aller:
-lei über die Rani und die Stadt Gagawar. Dann befah!
-er ihnen, mindeftens noch fünf Tage hier in diesem Tale zu
+Harald fragte den Intelligentesten von ihren noch aller:
+Blei über die Rani und die Stadt Gagawar. Dann besah!
+er ihnen, mindestens noch fünf Tage hier in diesem Tale zu
 bleiben. Ahdernfalls würde er Dafür sorgen, daß ihre
-Frauen und. Kinder ins Gefängni3 gesteckt würden. —
+Frauen und. Kinder ins Gefängnis gesteckt würden. —
 
 Es war genau zehn Minuten vor ein Uhr morgens, als
-wir Hoch zu Kamel, jeder mit zwei Vüchsen bewaffnet, das
-Tal verlichen.
+wir Hoch zu Kamel, jeder mit zwei Büchsen bewaffnet, das
+Tal verliehen.
 
-Und al3 dann am Abend dieses Zage3 Harft und
-Schraut dur da3 Westtor von Gagawar in das ärmste
-Viertel der Nefidenz der NRant einritten, saßen in unseren
-Sätteln zwei gefärbte Fnder mit wundervollen sschwarzen
-Volibärten, Die unter dem Turbanrand auf der Sticn ein
-Bildchen in weißer Farbe trugen, — das eincs Fisches als
-Zeichen, daß sie der Über ganz JFndien verbreiteten Sckte der
-Ellawin (eigentlih »ohne Zunge»), der freiwillig Stummen,
-angchörten.
+Und als dann am Abend dieses Zuges Harst und
+Schraut durch das Westtor von Gagawar in das ärmste
+Viertel der Residenz der Nagt einritten, saßen in unseren
+Sätteln zwei gefärbte Fader mit wundervollen schwarzen
+Vollbärten, Die unter dem Turbanrand auf der Stirn ein
+Bildchen in weißer Farbe trugen, — das eines Fisches als
+Zeichen, daß sie der Über ganz Indien verbreiteten Sekte der
+Ellawin (eigentlich »ohne Zunge«), der freiwillig Stummen,
+angehörten.
 
-Und die beiden Ellawin mieteten sich dann bei eincm
-uralten Inder ein, den einer unserer tüchttaen Wächter und
+Und die beiden Ellawin mieteten sich dann bei einem
+uralten Inder ein, den einer unserer tüchtigen Wächter und
 als zuverlässig und verschwiegen empfohlen hatte. Der
 Mann besaß eine Hütte nebst Garten an der Ostmauer des
-fürstlilen Parkes. Und — darauf war es Harald ange-
-kommen, daß wir recht bequem und unbemerkt ung mit ber
-Rani in Verbindung seven könnten.
+fürstlilen Parkes. Und — darauf war es Harald angekommen,
+daß wir recht bequem und unbemerkt uns mit der
+Rani in Verbindung setzen könnten.
 
-Des alten Jnders3 aus getrockneten Lehmziegeln her-
-geslellte Hütte fehien uns jedoch nur allzu reichlich von jenen
+Des alten Anderes aus getrockneten Lehmziegeln hergestellte
+Hütte fehlen uns jedoch nur allzu reichlich von jenen
 hüpfenden und kriechenden Blutsaugern bevölkert zu sein,
 die sich auch daheim in Deutscöland-unter dem Namen Flöhe
-und Wanzen geringer Beliebtheit erfreuen. Jn Jndien
-heiken die Plagegeister natürlich anders, aber ihre Frechhcil
-und Zudringlichkcit ist dieselbe, cher noch größer. Daher
+und Wanzen geringer Beliebtheit erfreuen. In Indien
+heilen die Plagegeister natürlich anders, aber ihre Frechheit
+und Zudringlichkeit ist dieselbe, eher noch größer. Daher
 <@pagebreak/>
-zogen wir es vor, in Moalis3 leerem Stalle zu nächtigen, den
+zogen wir es vor, in Krallte leerem Stalle zu nächtigen, den
 wir in kurzem gründlich gesäubert hatten, und den wir auch
-beshalb al3 Behaufug bevorzugten, weil er fich mit der
-Nückwand an die hohe Parlmauer lehnte.
+Weshalb als Behaufug bevorzugten, weil er sich mit der
+Rückwand an die hohe Parkmauer lehnte.
 
 Immerhin war es elf Uhr geworden, bevor wir daran
-denken konnten, uns auf unserem Spirituskocher ein Abend-
-brot zuzubereiten. Der alte Moali, vor dem wir aus Vor.
-ih weiter die Ellawin spielten, hatte uns soeben verlassen.
+denken konnten, uns auf unserem Spirituskocher ein Abendbrot
+zuzubereiten. Der alte Moali, vor dem wir aus Vor.
+ich weiter die Ellawin spielten, hatte uns soeben verlassen.
 Die Verständigung mit ihm war dank Haralds3 Fertigkeit
-in ausbrud3boller Zeichensprache nicht allzu schwierig ge-
-tvesen, und die Hauptsache blieben dem Alten bie kleinen
+in ausdrucksvollen Zeichensprache nicht allzu schwierig gewesen,
+und die Hauptsache blieben dem Alten die kleinen
 indischen Goldmünzen, mit denen wir unser Quartier für
 eine Woche vorausbezahlt hatten.
 
-Nun waren wir allein. Moali konnte Uun3 nicht bes
-laushen. Wir hatten die Tür des Stalles weit offen ge-
-lassen und mußten jeden sehen, der sih unserer erbärmlichen
+Nun waren wir allein. Moali konnte Ums nicht des
+lauschen. Wir hatten die Tür des Stalles weit offen gelassen
+und mußten jeden sehen, der sich unserer erbärmlichen
 Behausung näherte. Draußen schien der Mond, die Bäume
-de3 verwilderten Gartens raufchten leise, und drüben im
-fürstlihen Park sangen die Bul-Bul, die indishen Nachti-
-gallen, den Mond mit schmetternden und weichen Tönen
+des verwilderten Gartens rauschten leise, und drüben im
+fürstlichen Park sangen die Bus-Bus, die indischen Nachtigallen,
+den Mond mit schmetternden und weichen Tönen
 vielstimmig an.
 
-Harald saß auf einem Holzkloy am Türpfosten, ih
-brübte Tee auf.
+Harald saß auf einem Holzklotz am Türpfosten, ich
+brülle Tee auf.
 
-Alle3 ringsum war fo unendlich friedlich.
+Allee ringsum war so unendlich friedlich.
 
-Harsts Miralulum- Zigarette buftete mit ber an ber
-Stallwand wuchernden Grisgra-Sträuchern um die Wette.
+Harsts Mirakulum- Zigarette duftete mit der an der
+Stallwand wuchernden Griechen-Sträuchern um die Wette.
 
-Und da war’3, daß mein Freunb unvermittelt flüsterte:
+Und da war’s, daß mein Freund unvermittelt flüsterte:
 »Nun sind es vier!«
 
-Jch hatte ihm gerade den mit Tee gefüllten Aluminium-
-becher gereiht. Seine Lippen bewegten sich kaum.
+Ich hatte ihm gerade den mit Tee gefüllten Aluminiumbecher
+gereiht. Seine Lippen bewegten sich kaum.
 
-Und al3 Nachsatz hörte ich ebenso leise, nur eindring-
-licher: »Vorsichi!! Wir werden beobachtet!«
+Und als Nachsatz hörte ich ebenso leise, nur eindringlicher:
+»Vorsicht!! Wir werden beobachtet!«
 
-Er erhob fid.
+Er erhob sich.
 
-Zrat vor die Hilite, redie die Arme empor und begann
+Trat vor die Hütte, rette die Arme empor und begann
 das Nachtgebet der Sekte der Ellawin zu verrichten.
+
 <@pagebreak/>
+Er tat’s mit allen Schikanen, mit der ganzen würdevollen
+Gemessenheit des Orientalen.
 
-Er tat’s mit allen Schikanen, mit der ganzen würde-
-vollen Gemejjenheii bes Orientaien.
+Er tat’s, das wußte ich, um die Spione dort in den
+Büschen zu überzeugen, daß wir tatsächlich nur Haralofı
+fremde Händler seien.
 
-Er tat’s, das wußte ich, um bie Spione vort in ben
-Büschen zu überzeugen, daß wir tatlählih nur Haralofı
-fremde Händler feien.
-
-Aber — ob ‘all Du2 einen Zwed harte?! — Ich be
+Aber — ob all Du? einen Zweck harte?! — Ich be
 zweifelte es.
 
-Und boch erihien nun auch ich neben Haralb und be
-gann wie er die seltsamen Glieberverrenhuigen, die ung
+Und doch erschien nun auch ich neben Harald und begann
+wie er die seltsamen Glieberverrenhuigen, die uns
 alten Sndienfahrern längst bekannt und vertraut waren.
 
-5d Ein höhnisches Auflachen hinier uns beendete die Ko-
-mödie.
+5d Ein höhnisches Auflachen hinter uns beendete die Komödie.
 
-Wir fchauten un um.
+Wir schauten un um.
 
-An der Tür des GStalled, zwei Schritt nur entfernt,
+An der Tür des Stahlst, zwei Schritt nur entfernt,
 lehnte ein Mann mit einem grauen Tuche vor dem Gesicht;
 in das zwei Löcher für die Augen geschnitten waren.
 
-Ein Jnder, groß und schlank, in gelbweißem Leinen-
-anzug, fraglos ein sehr wohlhabender Jnder. Seine Kleis-
-dung verriet das. Merkwürdig war, daß er — weiße Zwirn:
-handschuhe irug.
+Ein Inder, groß und schlank, in Teilweisen Leinenanzug,
+fraglos ein sehr wohlhabender Inder. Seine Steilhang
+verriet das. Merkwürdig war, daß er — weiße Zwirn:
+Handschuhe trug.
 
-Mit offenbar versiellter Stimme sagte er in leidlich
+Mit offenbar verstellter Stimme sagte er in leidlich
 fließendem Englisch:
 
-»Jh mache Sie zunächst darauf aufmerksam, Mister
-Harft, daß die erste vervächtige Vewegung Jhrerseits durch
-ein paar Psfeilschüsse vort aus den Büschen beantwortet iver-
-den würde. Sie wissen ja, daß die raishputischen Hirten dex
+»Ich mache Sie zunächst darauf aufmerksam, Mister
+Harst, daß die erste verdächtige Bewegung Ihrerseits durch
+ein paar Psfeilschüsse dort aus den Büschen beantwortet werden
+würde. Sie wissen ja, daß die raishputischen Hirten der
 Thar noch heute die Wölfe mit Pfeil und Bogen erlegen.
 Also — richten Sie sich danach! — Dann: ich hätte einiges
-mit Jhnen beiden zu besprechen. Wenn Sie mir versichern,
-in keiner Weise gewalttätig gegen mih vorzugehen, könnien
-wir hier im Jnnern des Stalles miteinander verhandeln.«
+mit Ihnen beiden zu besprechen. Wenn Sie mir versichern,
+in keiner Weise gewalttätig gegen mich vorzugehen, könnten
+wir hier im Innern des Stalles miteinander verhandeln.«
 
-Harald nickte nur, und der Juder trat sofort in den
-Sinnenraum binein und jchob einen Holziloÿ als Sig neben
-die Kiste, auf ver unsere kleine Karbidlaterne brannte,
+Harald nickte nur, und der Inder trat sofort in den
+Sinnenraum hinein und schob einen Holzfloß als Zig neben
+die Kiste, auf der unsere kleine Karbidlaterne brannte,
 
-Wir folgten ihm. Harald zog die Tür zu, und win
-nahmen gleichfalls auf Holzklößen Plas.
+Wir folgten ihm. Harald zog die Tür zu, und wir
+nahmen gleichfalls auf Holzklötzen Plus.
+
 <@pagebreak/>
-
 Eigentümliche Situation war das.
 
-Ich fragte mich immer wieder, während der Ver-
-mummte stumm und regungslos dasaß, wer dieser moderne
-Inder wohl sein könnte, der den tadellosen weißen Leinen-
-Tragen und die bunte Krawatte zu einem bastseidenen
-Oberhemd mit dem Schik des Berliner Lebejünglings trug.
+Ich fragte mich immer wieder, während der Vermummte
+stumm und regungslos dasaß, wer dieser moderne
+Inder wohl sein könnte, der den tadellosen weißen Leinen-Tragen
+und die bunte Krawatte zu einem bastseidenen
+Oberhemd mit dem Schick des Berliner Lebejünglings trug.
 
 Das Schweigen hielt an.
 
 Harald rauchte schon die zweite Mirakulum.
 
-Da eudlich begann der Unbekannte: »Die Zigarette hat
-Sie verraten, Mr. Harjit. Kein Ellawin wird je durch Ta-
-baf oder Alkohol seinen geweihten summen Mund verpesten.
-Das haber Sie übersehen. Jm übrigen meine Hochachtung:
-Shre Verfleidung und Jhr Benehmen mußten den alten
-Moali täuschen. Meine Leute waren deun auch im Zweifel,
-ob Sic und Jhr Freund es sein könnten, die da durch das
+Da endlich begann der Unbekannte: »Die Zigarette hat
+Sie verraten, Mr. Harsts. Kein Ellawin wird je durch Tabak
+oder Alkohol seinen geweihten Summen Mund verpesten.
+Das haben Sie übersehen. Im übrigen meine Hochachtung:
+ihre Verkleidung und Ihr Benehmen mußten den alten
+Moali täuschen. Meine Leute waren denn auch im Zweifel,
+ob Sie und Ihr Freund es sein könnten, die da durch das
 Westtor in die Stadt einritten.«
 
-Sarald blieb stumm.
+Harald blieb stumm.
 
-Cs ist das ja eine schr schlichte Taktik, andere unsicher
-zu maceu. Doch zumeist hat fie Erfolg. Besonders bei
-Mensen, die nicht gewohnt find, durch diplomatisches Ver-
-halten aus dem Gegner etwas herauszuslocfen.
+Es ist das ja eine sehr schlichte Taktik, andere unsicher
+zu machen. Doch zumeist hat sie Erfolg. Besonders bei
+Mengen, die nicht gewohnt sind, durch diplomatisches Verhalten
+aus dem Gegner etwas herauszuslocfen.
 
-Der Jnder wurde jeht ofjenfichtlih etwas unruhig.
-Er sette mehrfah zum Sprechen an, räusperte sich und plaßte
-shlicßlih heraus: »Sie müssen Gagawar wieder verlassen !»
+Der Inder wurde jetzt offensichtlich etwas unruhig.
+Er setzte mehrfach zum Sprechen an, räusperte sich und platte
+schließlich heraus: »Sie müssen Gagawar wieder verlassen!«
 
-Und nun meldete fih Harald, sagte sehr bestimmt: »Jch
-denke gar niht daran! — Sch würde Jhnen dringend raten
+Und nun meldete sich Harald, sagte sehr bestimmt: »Ich
+denke gar nicht daran! — Ich würde Ihnen dringend raten
 uns unsere Waffen und den gleichfalls geraubten Geleitbrief
-der Rani, ebenso auh den gestohlenen Gagawar-Smaragd
-ihleuniajt berbeizufchaffen. Jch gebe Fhnen dazu drei Tage
+der Rani, ebenso auch den gestohlenen Gagawar-Smaragd
+schleunigst herbeizuschaffen. Ich gebe Ihnen dazu drei Tage
 Zeit. Entweder sind Sie selbst der Dieb des berühmten
 Edelsteins3, oder Sie stehen mit dem Diebe im Bunde. Sie
 haben irgendwie Kenntnis davon erhalten, daß die Fürstin
 sich auf den Rat ihres Privafelretärd Sir Marringow an
-uns Ivandie, damit wir bier in aller Stille den geheimmnig-
-vollen Dichftahl aufflären möchten. So konnten Sie uns
-Spione entgegenfhiden, fo konnten Sie den Slaramwanene
+uns wandte, damit wir hier in aller Stille den geheimmnig-vollen
+Diebstahl aufklären möchten. So konnten Sie uns
+Spione entgegenfhiden, so konnten Sie den Slaramwanene
 <@pagebreak/>
-führer dazu beftimmen, ung gefangenzunebmen und in jenes
-Tal im Nordosten einzusperren. Und infolge Jhres tadellos
-arbeitenden Spionagesystems müssen Sie auch sehr rash von
+Führer dazu bestimmen, uns gefangenzunehmen und in jenes
+Tal im Nordosten einzusperren. Und infolge Ihres tadellos
+arbeitenden Spionagesystems müssen Sie auch sehr rasch von
 unserem Entweichen aus dem Tale unterrichtet worden sein.
-Die Sachlage ist mithin klar. Sie sind imstaude, den ge-
-siohlenen berühmten Smaragd mir auszuhändigen. Wenn
-Sie die3 binnen drei Tagen tun, werde ich Sie und Jhre
-Helfer3helfcr shonen. Wenn nicht — dann haben Sie die
-Folgen zu tragen. Bitte, entfcheiden Sie fich!«
+Die Sachlage ist mithin klar. Sie sind imstande, den gestohlenen
+berühmten Smaragd mir auszuhändigen. Wenn
+Sie dies binnen drei Tagen tun, werde ich Sie und Ihre
+Helfershelfer schonen. Wenn nicht — dann haben Sie die
+Folgen zu tragen. Bitte, entscheiden Sie sich!«
 
-Des Juders Augen funtelten wie schwarze Diamenten
-in den Löchern der Stossmaske. Diese Augen fprübten
-Wut, Ueberraschung und — Angst.
+Des Anders Augen funkelten wie schwarze Einwenden
+in den Löchern der Stoffmaske. Diese Augen sprühten
+Wut, Überraschung und — Angst.
 
-Kein Wunder war’s! Nur ein Harald Harft konnte
-cinem Menschen, der sein Tun so ganz in undurchdringliche
+Kein Wunder war’s! Nur ein Harald Harst konnte
+einem Menschen, der sein Tun so ganz in undurchdringliche
 Schleier gehüllt zu haben hoffte, derart wuchtig die Wahrheit
-ins Gefichi schleudern.
+ins Gesicht schleudern.
 
-Kein WLunder, daß des Jnders behandschuhte Fäuste
-sich krampfhast öffneten und schlossen.
+Kein Wunder, daß des Inders behandschuhte Fäuste
+sich krampfhaft öffneten und schlossen.
 
 Dann — zischte er Harald an: »Oh — Sie sind ein —
-Narr, Vêr. Harst! Was Sie da über meine Zugehörigkeit
-zu den Dieben des heiligen berühmten Smaragds zusammen-
-phantasieren, isi so lächerlih, daß —«
+Narr, Der. Harst! Was Sie da über meine Zugehörigkeit
+zu den Dieben des heiligen berühmten Smaragds zusammenphantasieren,
+ist so lächerlich, daß —«
 
-Harst unterbrah ihn schroff: »Der Narr wird Sie an
-den Galgen bcingen! — Jhnen veriprah ih Waffenruhe
-hier in dieser Hütte, niht aver Jhren Helfersheliern da
+Harst unterbrach ihn schroff: »Der Narr wird Sie an
+den Galgen bringen! — Ihnen versprach ich Waffenruhe
+hier in dieser Hütte, nicht aber Ihren Helfershelfern da
 draußen.«
 
-und — ein Griff brachte ein3 der Gewehre in seine
+und — ein Griff brachte eine der Gewehre in seine
 Hand.
 
 Donnernd dröhnte der Knall des Schusses in dem
@@ -660,852 +657,848 @@ niederen Raume.
 
 Draußen vor der Tür ein gellender Schrei.
 
-Der Juder fuhr hoch; schien sich auf Harst stürzen zu
+Der Inder fuhr hoch; schien sich auf Harst stürzen zu
 wollen.
 
-»Gehen Siel« befahl Harald kurz. »Jh gestatit
-Jhnen, den Verwundeten mitzunchmen. Morgen früh
-werde ih Sie suchen und finden. Gehen Sie!«
-<@pagebreak/>
+»Gehen Sie!« befahl Harald kurz. »Ich gekrallt
+Ihnen, den Verwundeten mitzunehmen. Morgen früh
+werde ich Sie suchen und finden. Gehen Sie!«
 
-Der Mann eilte auh wirtli Hinaus, 0 eine var
-der Zür mit buschfchoffenem Kule Hegenten anderen ZFuder
-kraftvoll auf und verfhtwandb nad; rechts Hin.
+<@pagebreak/>
+Der Mann eilte auch wirklich Hinaus, 0 eine war
+der Tür mit buschfchoffenem Kurs Hetzendem anderen Fader
+kraftvoll auf und verfhtwandb nach; rechts Hin.
 
 <h2>3. Kapitel</h2>
 
 <h3>Der Polizeichef Mr. Britt.</h3>
 
-Und drei Minuten später kam schon unser alter Quar-
-tierwirt herbeigeftürzt.
+Und drei Minuten später kam schon unser alter Quar-tierwirt
+herbeigestürzt.
 
-Das hagere Männlein hopste wie vèrrückt umher, sog
+Das hagere Männlein hopste wie verrückt umher, sog
 imuppernb den Pulverbampf ein und rief in einemforir
 
 »Man wird Euch einsperren! Die Wache der Fürstin
-wird Euch verhaften! Der SE ift gehört worden! Hier
-liegt Blut — — Blut — — — Blutl«
+wird Euch verhaften! Der So ist gehört worden! Hier
+liegt Blut — — Blut — — — Blut!«
 
-Und dann fügte er zur Abwechslung hinzu: »Zwei be-
-rühmte Sahib3 au3 Germaniftan R bei der Rani, zwei
-von der Polizeil Die werden Euch überführen! Jhr habi
-hier gemordet, und mich wird man mitaufhängen!1»
+Und dann fügte er zur Abwechslung hinzu: »Zwei berühmte
+Sahibs aus Germaniftan R bei der Rani, zwei
+von der Polizei! Die werden Euch überführen! Ihr hab!
+hier gemordet, und mich wird man mitaufhängen!1«
 
-Die Angst des armen vertatterten Noali wirkte rechi
-komifh. Und doch achteten wir beide niht mehr auf ihn,
-daten keinerlei Versiändnis für die nicht geringe Komif ber
-zene.
+Die Angst des armen perforierten Knall wirkte recht
+komisch. Und doch achteten wir beide nicht mehr auf ihn,
+Soldaten keinerlei Verständnis für die nicht geringe Komik der
+Szene.
 
-Nein — wir sahen und nur an. Uns wax Moali3
-Außerung von den beiden berühmten Sahivs3 wie zin Bli
+Nein — wir sahen und nur an. Uns war Moalis
+Außerung von den beiden berühmten Solides wie ein Bir
 In die Knochen gefahren!
 
-Die beiden konnten ja nur Betrüger sein, die unsers
-Namen und den Geleitbrief der Fürftin mißbraucht hatten!
-Das waren jraglo3 zwei europäische Gauner großen SU12,
+Die beiden konnten ja nur Betrüger sein, die unsere
+Namen und den Geleitbrief der Fürstin mißbraucht hatten!
+Das waren fraglos zwei europäische Gauner großen Kurs,
 die hier im Trüben fischen wollten!
 
-Harald nidte mir
+Harald nickte mir
 
-Sch verftand ihn. r ‘vermutete genau badfelhe wie teh.
-Vielleicht vermutete er sogax noch mehr:
+Ich verstand ihn. r vermutete genau Wackelte wie seh.
+Vielleicht vermutete er sogar noch mehr:
+
 <@pagebreak/>
-
-Und — mit zwei fchnellen Stiffen hatie er da Turban,
+Und — mit zwei schnellen Stiften hatte er da Turban,
 Perücke und den falschen Bart entfernt, präsentierte « nun
-dem zur Salzsäule erstarrten Alten als braungesärbten
-Harald Harft.
+dem zur Salzsäule erstarrten Alten als braungefärbten
+Harald Harst.
 
-Hatte schon aus dem einen Tragekorb unseres Lasß-
-tamel3 den Heinen Koffer Jerauggennmmen, hatte bie Tupe
-mit dem Entfärbungsmittel geöifmet.
+Hatte schon aus dem einen Tragekorb unseres Lastkamele
+den Seinen Koffer Jerauggennmmen, hatte die Lupe
+mit dem Entfärbungsmittel geöffnet.
 
-Nie werde ich des alten Moali entfehtes Gesicht ver-
-gessen, al3 das schöne Braun unserer holden Züge immer
-mehr alles Jndische verlor und fehlleblih nur noch die ehr-
-lihe Sonnenbräune hartloser Europäerwangen Übrigblieb.
+Nie werde ich des alten Moali entsetztes Gesicht vergessen,
+als das schöne Braun unserer holden Züge immer
+mehr alles indische verlor und schließlich nur noch die ehrliche
+Sonnenbräune haltloser Europäerwangen Übrig blieb.
 
-Und gerade al3 Harald nun in die Kniebeinkleider set-
-nes Sportanzugs sschlüpfte, gerade ala auch Ich Über mein
-Bäuchlein den Hofenhafen schloß, erschienen tatfächlich zwei
-indifche Polizeibeamte, um nachzuforschen, wer es gewagi
-habe, so in nächster Nähe der Parlkmauer einen Schuß ab-
-zufeuern.
+Und gerade als Harald nun in die Kniebeinkleider seines
+Sportanzugs schlüpfte, gerade aha auch Ich Über mein
+Bäuchlein den Hofenhafen schloß, erschienen tatsächlich zwei
+indische Polizeibeamte, um nachzuforschen, wer es gewagt
+habe, so in nächster Nähe der Parlkmauer einen Schuß abzufeuern.
 
-»Jch tat’s,« erllärte Harald sofort. »Ein Dieb wollte
+»Ich tat’s,« erklärte Harald sofort. »Ein Dieb wollte
 hier eindringen.«
 
-Auch diese beiden hohgewachsenen Hüter der Ordnung
-sahen staunend die Requisiten unserer Verlleidung am Boden
+Auch diese beiden hochgewachsenen Hüter der Ordnung
+sahen staunend die Requisiten unserer Verkleidung am Boden
 liegen.
 
-Und Harft fügte sehr energisch hinzu: »Weckt sofort Sir
+Und Harst fügte sehr energisch hinzu: »Weckt sofort Sir
 Marringow, den Privatsekretär der Rani. Sagt ihm, daß
 zwei Freunde von ihm ihn hier erwarten. Und — schweig!
-im übrigen gegen jedermann. Jch rvarne Euh! Fall3 Jhr
-Euch geschwähig zeigt, wird die Rani Euch beftrafen. —
-Vorwärt3 — beeilt Euch!«
+im übrigen gegen jedermann. Ich enorme Euch! Falle Ihr
+Euch geschwähig zeigt, wird die Rani Euch bestrafen. —
+Vorwärts — beeilt Euch!«
 
-Die Polizeibeamten drüdten ih. Der Einfluß und das
-Anfehen eined Europäer war hier în dem entlegenen
-Fürstentum noch tveit bedeutender als In den zivilisierteren
+Die Polizeibeamten drücken ich. Der Einfluß und das
+Ansehen einst Europäer war hier in dem entlegenen
+Fürstentum noch weit bedeutender als In den zivilisierteren
 indischen Zentralstaaten.
 
-Auch der alte Moali zog sich »fopfschlackternd zurück.
-Wir waren ihm unheimsih geworden.
+Auch der alte Moali zog sich »kopfschlackernd zurück.
+Wir waren ihm unheimlich geworden.
 
-»So,« meinte Harald nun auf deutsch zu mir, »so, jeß!
-kann der Tanz lo38gehen. Und — ein Tanz wird es wwer-
+»So,« meinte Harald nun auf deutsch zu mir, »so, seh!
+kann der Tanz lo38gehen. Und — ein Tanz wird es warnten!
 <@pagebreak/>
-den! Die beiden. Leute, die hier mit dem mir gestohlenen
-Geleitbrief und mit unseren gleichsalls aus meiner Brieftasche
+Die beiden. Leute, die hier mit dem mir gestohlenen
+Geleitbrief und mit unseren gleichfalls aus meiner Brieftasche
 entwendeten Ausweisen Harst und Schraut spielen, dürften
-Kreaturen desselben Jnders sein, den ih vorhin so rasch
-davon überzeugte, daß ih seine Nänfe durhschane. Freli-
-»willig werden die Herren Konkurrentcn kaum das Feld
+Kreaturen desselben Inders sein, den ich vorhin so rasch
+davon überzeugte, daß ich seine Ränke durchschaue. Freli-willig
+werden die Herren Konkurrenten kaum das Feld
 räumen. Wir werden vielleicht einen schweren Stand
 Haben!«
 
 Und eine Viertelstunde später erfolgte dann der —
-Sladderadatich.
+Kladderadatsch.
 
-Sir Marringow fchidte eine ftattliche Polizeiriacht aus,
-die uns festnehmen sollte. Er selbst zeigte sih nicht. Der
-Führer der zivanzig Polizisten war der Polizeciche von Ga-
-gawar in höchsteigener Person, ein früherer Kolonialhaupt-
-mann namens Lionel Britt, ein unleidlich aufsgeblasener
-Herr, der sich auf seinerlet Verhandlungen cinlicß, der Harst
-gar nicht anhörte, sondern einfach befehl, uns vorläufig im
+Sir Marringow schicke eine stattliche Polizeiriacht aus,
+die uns festnehmen sollte. Er selbst zeigte sich nicht. Der
+Führer der zwanzig Polizisten war der Polizeciche von Gagawar
+in höchsteigener Person, ein früherer Kolonialhauptmann
+namens Lionel Britt, ein unleidlich aufsgeblasener
+Herr, der sich auf keinerlei Verhandlungen einließ, der Harst
+gar nicht anhörte, sondern einfach Befehl, uns vorläufig im
 Polizeigebäude einzusperren.
 
-Harald hatte Higher nicht einmal unfere Namen ge
-nannt, hatte nur immer wieder verlangt, daß Sir Mar-
-ringow herbeigeholt würde.
+Harald hatte Bisher nicht einmal unsere Namen genannt,
+hatte nur immer wieder verlangt, daß Sir Marringow
+herbeigeholt würde.
 
-Die Stallhütte war jeht mit Polizisten angesüllt, die
-uUn3 eingekreist hatten. Fünf große Laternen beleuchteten
+Die Stallhütte war jetzt mit Polizisten angefüllt, die
+ums eingekreist hatten. Fünf große Laternen beleuchteten
 die denkwürdige Szene.
 
-bli) von der Straße her Hupensignale und Auto-
-geräit
+bis) von der Straße her Hupensignale und Auto-geräit
 
-Und gleich darauf begrüßte der Polizeichef sehr liebens-
-würdig cinen schlanken Herrn im hellcn Flanellanzug — den
+Und gleich darauf begrüßte der Polizeichef sehr liebenswürdig
+einen schlanken Herrn im hellen Flanellanzug — den
 Privatsekretär Marringow.
 
-Hinter dicsem aber standen zwei weitere Europäer,
-zwei Männer, die fraglo3 unsere Konkurrenten, die falschen
+Hinter diesem aber standen zwei weitere Europäer,
+zwei Männer, die fraglos unsere Konkurrenten, die falschen
 Harst und Schraut waren.
 
-Marringote musterte un3 hochmiltig.
+Marringote musterte uns hochmütig.
 
-»Wer find Sie? Jch kenne Ste nicht,« sagte er kalt.
+»Wer sind Sie? Ich kenne Sie nicht,« sagte er kalt.
 
-Hara!d trat vor.
+Harz!d trat vor.
 
-»Wenn Sie jemal3 in einer illustrierten Zeitschrift ein
+»Wenn Sie jemals in einer illustrierten Zeitschrift ein
 <@pagebreak/>
-Bild Harald Harfts gefehen Haben, Sir Marringomw, fo
-müffen Sie mih — für ben echten Harft halten!« sagte er
-saut und mit unnachahmlicher Ruhe. »Ih bin Harald Harfl
-— nur ih! Und dies hier ist mein Freund Schraut.«
+Bild Harald Harsts gesehen Haben, Sir Marringow, so
+müssen Sie mich — für den echten Harst halten!« sagte er
+sauf und mit unnachahmlicher Ruhe. »Ich bin Harald Harst
+— nur ich! Und dies hier ist mein Freund Schraut.«
 
-Da3 Gelächter, das Mifter Lionel Britt nun anstimmte,
-und Marringow3 ärgerlicher Auaruf: »So eine Frechheit!«
-bewie3 ung, daß vorläufig die Konkurrenz Hier mehr
-Chancen hatte ala mir.
+Das Gelächter, das Mister Lionel Britt nun anstimmte,
+und Marringows ärgerlicher Raums: »So eine Frechheit!«
+bewies uns, daß vorläufig die Konkurrenz Hier mehr
+Chancen hatte aha mir.
 
 Der Privatsekretär wandte sich halb zurück und winkte
 den beiden Schwindlern, die immerhin unsere Größe hatten
 und auch bei einigem guten Willen als uns entfernt ähnlich
-erflärt werden konnten.
+erklärt werden konnten.
 
-»Mr. Harst,« meinte der Sekretär zu dem Pseudo-
-Harald, »was halten Sie von dieser Geschichte ?«
+»Mr. Harst,« meinte der Sekretär zu dem Pseudo-Harald,
+»was halten Sie von dieser Geschichte?«
 
-Und ter freche Kerl ftedte sih nun eine Zigarette an,
-kreuzte dile Arme über der Brust und fniff die Augen zu,
-wollte fo ben echten Harft marficren. Blies ein paar miß-
-glückte Nauchringe und erwiderte im singenden Tonfall eines
-alle Seiftesträfte Anfpannenden:
+Und ter freche Kerl steckte sich nun eine Zigarette an,
+kreuzte Eile Arme über der Brust und kniff die Augen zu,
+wollte so den echten Harst markieren. Blies ein paar mißglückte
+Rauchringe und erwiderte im singenden Tonfall eines
+alle Geisteskräfte Anfpannenden:
 
-»Die Gesichter dieser Schwindler fommen mir befanni
-vor. Vielleicht sind es Verbrecher, die ftedbrieflich verfolgt
-werden. Lassen Sie sie jedenfalls festnehmen, Sir Marrin-
-gow. Morgen vormittag werde ich Ihnen mitteilen können,
-iwer die Leute sind!«
+»Die Gesichter dieser Schwindler kommen mir bekannt
+vor. Vielleicht sind es Verbrecher, die steckbrieflich verfolgt
+werden. Lassen Sie sie jedenfalls festnehmen, Sir Marringow.
+Morgen vormittag werde ich Ihnen mitteilen können,
+Zwei die Leute sind!«
 
-Harald — der echte Harald — lächelte seinen Doppel-
-gänger freundlich an.
+Harald — der echte Harald — lächelte seinen Doppelgänger
+freundlich an.
 
-»Morgen vormittag werde ih den Beweis erbringen,
-wer »Ste« sind!« sagte er gleichmütig. »Und Sie, Sir
-Marringow, werden dann sehr bereuen, daß Sie und ‘beide,
-Schmitt und mid, niit einmal Hier erft einiges zur Auf:
-klärung vorbringen ließen.«
+»Morgen vormittag werde ich den Beweis erbringen,
+wer »Sie« sind!« sagte er gleichmütig. »Und Sie, Sir
+Marringow, werden dann sehr bereuen, daß Sie und beide,
+Schnitt und mich, mit einmal Hier erst einiges zur Auf:
+Klärung vorbringen ließen.«
 
 Der Privatsekretär, dessen Macht innerhalb der Grenzen
-des Fürstentums offenbar ziemlih unbeschränkt war, zuckte
-Tediglich hochmütig die Achseln und sagte zu dem Polizeichef!
+des Fürstentums offenbar ziemlich unbeschränkt war, zuckte
+lediglich hochmütig die Achseln und sagte zu dem Polizeichef!
 
-»Sie sorgen dafür, daß diese Betrüger nicht etwa ent-
-flicken! — Gute Nacht, Mister Britt !«
+»Sie sorgen dafür, daß diese Betrüger nicht etwa entfliehen!
+— Gute Nacht, Mister Britt!«
+
 <@pagebreak/>
-
-Er wollte ben Stall mit seinen beiden Begleitern iwie-
-der verlassen.
+Er wollte den Stall mit seinen beiden Begleitern ruhender
+verlassen.
 
 »Einen Augenblick,« rief Harald da. »Rest verlange
 Ich, daß wir hier sofort —«
 
-Sir Marringow kümmerte fich nicht um ung, und Britt
-shnauzte Harald grob an.
+Sir Marringow kümmerte sich nicht um uns, und Britt
+schnauzte Harald grob an.
 
-If zen Sie nicht bescheidener werden, lasse ich Sie beide
-esseln !i«
+Alten Sie nicht bescheidener werden, lasse ich Sie beide
+Fesseln!ich«
 
-Harft schwieg, blickte den dreien nach und — lächelte.
+Harst schwieg, blickte den dreien nach und — lächelte.
 
-Unter starker Eskforte wurden wir dann durch die stillen
-Gassen in das neuere Viertel der Residenz nach deni Polizei-
-gebäude gebrat, wo Britt un3 ein Zimmer mit vergitter-
-ten Fenstern als Zelle anwies3, denn nach den für Europäer
-geltenden gefetlichen Bestimmungen darf in Jndlien kein
+Unter starker Eiskalte wurden wir dann durch die stillen
+Gassen in das neuere Viertel der Residenz nach dem Polizeigebäude
+gelegt, wo Britt uns ein Zimmer mit vergitterten
+Fenstern als Zelle anwies3, denn nach den für Europäer
+geltenden geschlichen Bestimmungen darf in Jachten kein
 Weißer mit Farbigen zusammen eingekerkert werden, und die
-Zellen des Polizeigesängnisses waren sämtlich befegt.
+Zellen des Polizeigefängnisses waren sämtlich belegt.
 
 Dieses Zimmer, ein Raum zur Aufbewahrung von
-Akten, wurde nun plöblih zum Schauplaÿß höchst eigenarliger
+Akten, wurde nun plötzlich zum Schauplatz höchst eigenartiger
 Vorgänge.
 
-Mister Lionel Britt, dik und aufgeshwemmt, fraglos
-ein Liebhaber starker Getränke, ftand noch In der Tür und.
-befahl gerade, zwei Holzpritfchen für und berbeizufchaffen,.
-als Harald auf ein Fenster zufchritt, wo ein Telephons
-apparat seinen Plat hatte.
+Mister Lionel Britt, dick und aufgeshwemmt, fraglos
+ein Liebhaber starker Getränke, stand noch In der Tür und.
+befahl gerade, zwei Holzpritschen für und herbeizuschaffen,.
+als Harald auf ein Fenster zuschritt, wo ein Telephons
+Apparat seinen Platz hatte.
 
 Er nahm ohne weiteres den Hörer ab und verlangte
 mit der Polizei in Bikanir (größte Stadt der Thar, von:
-Gagawor etwa zwanzig Meilen entfernt) verbunden zu
-werben
+Gagawar etwa zwanzig Meilen entfernt) verbunden zu
+werden
 
 Britt wurde blaurot vor Wut, brüllte dazwischen: »Was
-erfrechen Sie fih! — Weg da vom Apparat!«
+erfrechen Sie sich! — Weg da vom Apparat!«
 
-»Dh — Mister Douglas Railfax, Polizeidirektor in
+»Oh — Mister Douglas Railfax, Polizeidirektor in
 WBkanix, ist ein so guter Bekannter von mir, daß er meine
-Stimme sofort erkennen wird, Mister Britt. Jc rate Jhnen,
-die Tür zu fchließen, Ihre Beamten draußen warten zu
-lassen und nachher Dougla3 Railfax zu fragen, wer hier in
-ber Thar vor anderthalb Jahren die Raramwanenräuder unschädlich
+Stimme sofort erkennen wird, Mister Britt. Ich rate Ihnen,
+die Tür zu schließen, Ihre Beamten draußen warten zu
+lassen und nachher Douglas Railfax zu fragen, wer hier in
+der Thar vor anderthalb Jahren die Karawanenräuber unschädlich
 <@pagebreak/>
-gemacht Hat. Der Mann, der da3 tai, hieß nämlich
-Haralb Satt i H Vielleicht waren Sie damals schon hier in
-Gagawar und vielleicht befinnen: Ste fih noch auf einige
+gemacht Hat. Der Mann, der das tat, hieß nämlich
+Harald Satt ich H Vielleicht waren Sie damals schon hier in
+Gagawar und vielleicht besinnen: Sie sich noch auf einige
 Einzelheiten.«
 
-Und — Hehe da! — jebt wurde der Herr Polizeichef doch
-«in weizlg unsicher, zumal Harald nochmal3 in die Muschel
-des Hörers hineinrief, man solle ihn shleunigsi mit BVilkanir
+Und — Hebe da! — jetzt wurde der Herr Polizeichef doch
+»in wolkig unsicher, zumal Harald nochmals in die Muschel
+des Hörers hineinrief, man solle ihn schleunigst mit Brillante
 Gexrbinbem.
 
-Mehr noh: Mister Britt drückte die Tür zu, zog einen
-Revolver und fagte vevächtig:
+Mehr noch: Mister Britt drückte die Tür zu, zog einen
+Revolver und sagte bedächtig:
 
 »Gut — gut! Wir können ja mal die Probe aufs
-Exempel machen !«
+Exempel machen!«
 
-»Das können wir,« nickte Harst gemächlih. »Aha —
-das in fhnel gegangen. — Hier Harald Harst. Wer dort?
-Wer — wer?! — Ah, Sie find’s, Bani3! Also noch immer
-in Vikanir! — Sagen Sie mal, ‘bester Banis, erinnern Sie
-ah no an meine Stimme? — Ja? — Nun, das freut
-mich! Mau hat Schraut und mich hier in Gagawar als
-Shwinbler verhaftet, weil zwei Kerle gestern hier mil
-Unseren un3 gestohlenen Austmweispapieren auftauchten und
-weil Mister Britt diesen Halunken mehr glaubt als uns!» —
-Er brebte [ih nach Britt um. »So, Mlster Britt, nun können
-Sle ja mal mit Banis sprechen. Bittel« -
+»Das können wir,« nickte Harst gemächlich. »Aha —
+das in ihrer gegangen. — Hier Harald Harst. Wer dort?
+Wer — wer?! — Ah, Sie sind’s, Banis! Also noch immer
+in Bikanir! — Sagen Sie mal, bester Banis, erinnern Sie
+ah noch an meine Stimme? — Ja? — Nun, das freut
+mich! Man hat Schraut und mich hier in Gagawar als
+Schwindler verhaftet, weil zwei Kerle gestern hier mit
+Unseren uns gestohlenen Austmweispapieren auftauchten und
+weil Mister Britt diesen Halunken mehr glaubt als uns!« —
+Er drehte [ich nach Britt um. »So, Mister Britt, nun können
+Sie ja mal mit Banis sprechen. Bitte!« -
 
-Und Lionel Britt fiedte den Revolver ein und
-brummte: »Eine vexdammte Schweinerei! Daraus werde
-ber Teufel Hugl«
+Und Lionel Britt steckte den Revolver ein und
+brummte: »Eine verdammte Schweinerei! Daraus werde
+der Teufel lugt«
 
-Danu nahm er den Hörer.
+Dann nahm er den Hörer.
 
-»Hier Bütt. ’u Abend, Banis. Sie erlennen also
-Harsi3 Stimme mit Sicherheit wieder? — So, fo, bantel
-Und wärden Sie auch die Schrauts erkennen ?«
+»Hier Büßt. ’u Abend, Banis. Sie erkennen also
+Harsts Stimme mit Sicherheit wieder? — So, so, bunter
+Und würden Sie auch die Schrauts erkennen?«
 
-Run cnußte ih Freund Vanis am Telephon begrüßen,
-den fleineu Banis3, der mit uns und Douglas Railfax ein«
-kolle Boche Hinter der Karawanenräubern hergeivefen war.
+Nun raubte ich Freund Banis am Telephon begrüßen,
+den kleinen Bartes, der mit uns und Douglas Railfax ein«
+Protokolle Woche Hinter der Karawanenräubern hergewesen war.
 
-Mein Organ hat seine besonderen Reize Es klingi
-wie die Stimme 13 einem fchledgen Trichierphonographen
-amd ist daher unverkennbar. — Vauis lachte, als ich meldete:
+Mein Organ hat seine besonderen Reize Es klingt
+wie die Stimme 13 einem fchledgen Trichterphonographen
+und ist daher unverkennbar. — Banis lachte, als ich meldete:
 
 <@pagebreak/>
-»Armer Schraut, — — als Schwindler verhaftetl Der Britt
-ist ein Mordsesel! Bestellen Sie ihm das!«
+»Armer Schraut, — — als Schwindler verhaftet! Der Britt
+ist ein Vordester! Bestellen Sie ihm das!«
 
-Und abermals nahm dann Britt ven Hörer.
+Und abermals nahm dann Britt den Hörer.
 
 Was Banis ihm zurief, konnten wir ja nicht verstehen.
 Jedenfalls wurde der Dicke wieder beängstigend blaurot. —
 
-Britt Icgte den Hörer weg … shaute uns an. Machte
-ein Gesicht wie ein Kater, dem man Tabat3jajt ind Maul
-geihmiert Hat.
+Britt Fegte den Hörer weg … schaute uns an. Machte
+ein Gesicht wie ein Kater, dem man Tabat3jajt ins Maul
+geschmiert Hat.
 
-»sa — was nun?!« brummte er verlegen.
+»so — was nun?!« brummte er verlegen.
 
-6b gia un rufen Sie mal Jhre Garde hercin, alle Mann
+6b aha un rufen Sie mal Ihre Garde herein, alle Mann
 hoch!«
 
-Und die baumstarlen Ratschhputen marschierten an der
+Und die baumstarken Ratschputen marschierten an der
 Wand auf.
 
-»Tür zu!« befahl Harald. »So, nun wil ih Shnen,
-Der. Britt, ertlären, was der falsche Harst und der falsche
+»Tür zu!« befahl Harald. »So, nun wir ich Ihnen,
+Der. Britt, erklären, was der falsche Harst und der falsche
 Schraut wahrscheinlich in dieser Nacht unternehmen werden.
-Der berühmte Gagawar-Smaragd verschwand bekannilich
-dor sehs Wochen aus dem sogenannten Schatfaale de
+Der berühmte Gagawar-Smaragd verschwand bekanntlich
+vor sechs Wochen aus dem sogenannten Schatfaale he
 Schlosses der Rani, in dem die gesamten Kleinodien des
-Fürstenhauses aufbewahrt werden. Sir Marringow fchrieb
-mir nach Berlin, daß dieses dreifensirige Zimmer im West-
-turme des Palastes im zweiten Stod liegt und durch ganz
-moderne Einrichtungen geshübt ist. Die Fenster haben
-Panzerläden, und die einzige Tür Ift eine Doppeltür aus
-Stahl mit drei Kunftichlöjfern. Sch vermute nun, daß die
-Schwindler, die hier gestern als Harst und Schraut fich ein-
-fanden, fih da3 Schakzinimer zeigen ließen und dort ges
-raume Zeit sich zu schaffen machten —«
+Fürstenhauses aufbewahrt werden. Sir Marringow schrieb
+mir nach Berlin, daß dieses dreifenstrige Zimmer im Westturme
+des Palastes im zweiten Stock liegt und durch ganz
+moderne Einrichtungen gestützt ist. Die Fenster haben
+Panzerläden, und die einzige Tür Ist eine Doppeltür aus
+Stahl mit drei Kunstschlössern. Ich vermute nun, daß die
+Schwindler, die hier gestern als Harst und Schraut sich einfanden,
+sich das Schlafzimmer zeigen ließen und dort geraume
+Zeit sich zu schaffen machten —«
 
-ritt nidte.
+ritt nickte.
 
-»Und ih vermute weiter, Mister Britt, daß die beider
-jezt, wo ihnen der Boden hier zu heiß sein dürfte, noch
+»Und ich vermute weiter, Mister Britt, daß die beider
+jetzt, wo ihnen der Boden hier zu heiß sein dürfte, noch
 in dieser Nacht versuchen werden, weitere Kleinodien zu
-fteblen und dann für immer zu verduften. Sch würde Jhnen
+stehlen und dann für immer zu verduften. Ich würde Ihnen
 also raten, schleunigst den Palast zu umstellen und jeden zu
 verhaften, der ihn verläßt — jeden, denn die beiden Kerle
 <@pagebreak/>
-werden ja fraglos verlleidet entwischen wollen. — Beeilen
-Sie jih, Mifter Brittl«
+werden ja fraglos verkleidet entwischen wollen. — Beeilen
+Sie sich, Mister Britt!«
 
-Der Dide tupfte fih den Schweiß von dex Stirn.
+Der Dicke tupfte sich den Schweiß von der Stirn.
 
-»Begleiten Sie un? bitte, meine Herren,’ meinte er
-Heinlaut. -
+»Begleiten Sie un? bitte, meine Herren’ meinte er
+Seminar. -
 
 »Gern! Sorgen Sie aber dafür, daß die beiden nicht
 irgendwie gewarnt werden, denn sie haben Verbündete hier
-in Gagawwar !»
+in Gagawwar!«
 
-»Keine Sorge, Mr. Harft! Wir ift jebt ein Licht auf:
-gegangen !»
+»Keine Sorge, Mr. Harst! Wir ist jetzt ein Licht auf:
+gegangen!«
 
-Und er erteilte seinen Beamten rash einige Befehle.
+Und er erteilte seinen Beamten rasch einige Befehle.
 
 <h2>4. Kapitel.</h2>
 
-<h3>Der Miniſter.</h3>
+<h3>Der Minister.</h3>
 
-Der Palast der Ruani von -Ongalvar liegt auf einem
-Felsenhügel, dex inmitten des Lünjtlich angepflanzten uralten.
-Parkes den dürren Sandboden durhbridt. -
+Der Palast der Raum von -Ongalvar liegt auf einem
+Felsenhügel, der inmitten des künstlich angepflanzten uralten.
+Parkes den dürren Sandboden durchbricht. -
 
-Indische Paläste sind mcrfwürdigerweise zumeist von
+Indische Paläste sind merkwürdigerweise zumeist von
 Europäern entworfen und erbaut worden. Die berühmtesten
-und phantaftifchen Baudenkmäler des Märchenlandes stellen
-somit nicht3 anderes al3 den durch orieutalishe Einflüsse
-umgewandelten Gefhmad erfindungsreiher europäischer
+und phantastischen Baudenkmäler des Märchenlandes stellen
+somit nichts anderes als den durch orientalische Einflüsse
+umgewandelten Geschmack erfindungsreicher europäischer
 Architekten dar.
 
 Das Gagawar-Schloß stammt aus den Jahren 1791
 bi3&nbsp;1802. Das Baumaterial, weißer Marmor und roter
 Granit, mußte aus Haidarabad bezogen werden. Kein
 Wunder, daß elf Jahre vergingen, bis diese Nachbildung des
-berühmten Taish Mahal fertig wurde.
+berühmten Tatst Mahal fertig wurde.
 
-Kein Wunder auch, daß Harald und ih staunend stehen.
-blieben, al3 wir am Ende einec Pinienalleœe nun den Palasl
-im Mondlicht auf seinem Unierbau von Granit, umgeben vou:
+Kein Wunder auch, daß Harald und ich staunend stehen.
+blieben, als wir am Ende einer Pinienalleœe nun den Palast
+im Mondlicht auf seinem Unterbau von Granit, umgeben von:
 <@pagebreak/>
-großen Rafenflähen, zweihundert Schritt voc uns erblidten,
+großen Rasenflächen, zweihundert Schritt vor uns erblicken,
 
-Der berühmte Tatsh Mahal wird jtet3 poetiih »Ein
+Der berühmte Tatst Mahal wird stets poetisch »Ein
 Traum in Marmor« genannt.
 
-Diesen Palast von Gagawar hier inmitien der Thar,
-Inmitten öder Sandflächen und Felömassen, — dieses Wun-
-der hier, umrauschti von künsilich betwäflerien und gedbüngten
-Bäumen, die al3 Park wie eine grüne Barrikade die Wüste
-abjperrien von diefem Plate erlesener Schönheit, — dieses
-indische Fürstenschloß verdiente den Namen, der jept u until
-türlich über meine Lippen fchlüpfte:
+Diesen Palast von Gagawar hier inmitten der Thar,
+Inmitten oder Sandflächen und Felsmassen, — dieses Wunder
+hier, umrauscht! von künstlich betwäflerien und gedbüngten
+Bäumen, die als Park wie eine grüne Barrikade die Wüste
+absperrten von diesem Platze erlesener Schönheit, — dieses
+indische Fürstenschloß verdiente den Namen, der legt u antik
+natürlich über meine Lippen schlüpfte:
 
 »Stein gewordener Rausch!«
 
-Und der dide Britt sagte neben mir:
+Und der dicke Britt sagte neben mir:
 
-»Ja — das stimmt, Mr. Schraut. Das stimmt! Jh
-Hin, weiß Gott, kein Künsiler! Aber immer, wenn ich ben
-Valast vor mir sehe, packt es mich doch wie Andacht.«
+»Ja — das stimmt, Mr. Schraut. Das stimmt! Ich
+Hin, weiß Gott, kein Künstler! Aber immer, wenn ich den
+Palast vor mir sehe, packt es mich doch wie Andacht.«
 
-»Die heute sehr überflüssig istl« meinte Harald faft
-ftreng. »Warten Sie bier, Mr. Britt. Schraut und ich wer-
-den nach dem Westturm hinüberschleichen. Dort die Marmor-
-brüstung der Terrasse wird uns deden. Das Kriechen dürste
-Jhnen schwer werden, Mr. Britt.«
+»Die heute sehr überflüssig ist!« meinte Harald fast
+streng. »Warten Sie hier, Mr. Britt. Schraut und ich werden
+nach dem Westturm hinüberschleichen. Dort die Marmorbrüstung
+der Terrasse wird uns decken. Das Kriechen dürfte
+Ihnen schwer werden, Mr. Britt.«
 
 Wir glitten davon — den mit Marmorplatten belegten
 Hauptweg entlang.
 
-Und krochen dann auf allen vierew weiter.
+Und krochen dann auf allen vieren weiter.
 
-Krochen bis zum Turme, trafen auf zwei- Beamie, die
+Krochen bis zum Turme, trafen auf zwei- Beamte, die
 hier hinter der Brüstung kauerten.
 
-Sie erlannten uns.
+Sie erkannten uns.
 
 »Sahib Harst, — nichts Verdächtiges!« meldete der eine.
 
-Bir umrunbdeten den Turm.
+Bir umrundeten den Turm.
 
-Gelangten nun an bie Rüdfront bed Palaftes, an bie
+Gelangten nun an die Rückfront bot Palastes, an die
 im Grünen halb versteckten Nebengebäude.
 
 Harst richtete sich auf.
 
 Da waren neben dem Westturme im Erdgeschoß des
-Palastes zwei Fenfter erleuchtet.
+Palastes zwei Fenster erleuchtet.
 
 Marringow hatte uns in seinem ausführlichen Briefe
-auch angegeben, daß er im Schlosse, und zwar neben bem
+auch angegeben, daß er im Schlosse, und zwar neben dem
 Turme, wohne.
-<@pagebreak/>
 
-Harald flüsterte: »Wenn IH Dir auf bie Schultern feige,
-mein Alter, kann ih in das Zimmer hineinschauen. Unsere
-Konkurrenten, behaupte i, sind längst über alle Berge. Wir
-sind zu spät ‘gekommen und brauchen uns kaum mehr ini
+<@pagebreak/>
+Harald flüsterte: »Wenn Ich Dir auf die Schultern feige,
+mein Alter, kann ich in das Zimmer hineinschauen. Unsere
+Konkurrenten, behaupte ich, sind längst über alle Berge. Wir
+sind zu spät gekommen und brauchen uns kaum mehr im
 Dunkeln zu halten.«
 
-Er kletterte mir denn aitch tatfählih auf den Nacken,
+Er kletterte mir denn Milch tatsächlich auf den Nacken,
 stand dort eine ganze Weile, stieg wieder herab und raunte
 mir zu: »Sir Marringow flickt einen Tennisschläger aus.
-Eine sehr »harmlose Beschästigung!“.
+Eine sehr »harmlose Beschäftigung!“.
 
 Das war alles.
 
-Und so, wie Harst bas sagte, mußte ih annehmen, daß
-en arzingobod nächtliche Arbeit ihm niht weiter aufgefallen
+Und so, wie Harst das sagte, mußte ich annehmen, daß
+en arzingobod nächtliche Arbeit ihm nicht weiter aufgefallen
 
-Wir kehrten zu Britt zurüd.
+Wir kehrten zu Britt zurück.
 
-»Die Kerle sind shon entflohen, glaube ih,« sagte Harf
-zu dem Dicken. »Wo Hat man fie bier untergebracht?«
+»Die Kerle sind schon entflohen, glaube ich,« sagte Hart
+zu dem Dicken. »Wo Hat man sie hier untergebracht?«
 
-»Dort im sogenannten Basietia-Tempel hinter dem Pa:
-last, Mr. Harst. Der Tempel ist lediglich ein Wohngebäude
+»Dort im sogenannten Wässerig-Tempel hinter dem Da:
+las!, Mr. Harst. Der Tempel ist lediglich ein Wohngebäude
 im Tempelstil.«
 
-»Gut, sehen wir zu, ob die Herrschaften noch anmefend
+»Gut, sehen wir zu, ob die Herrschaften noch anwesend
 sind.« —
 
-Ich will mich jeht kürzer fassen, denn die nächsten Ge-
-fit sind für die handelnden Personen zu wenig charak-
-ter
+Ich will mich jetzt kürzer fassen, denn die nächsten Geist
+sind für die handelnden Personen zu wenig Charakter
 
-Die beiden Gauner — — waren nicht In ihren Zim-
-mern. Aus dem einen Fenster hing ein Strick heraus bis
-in ein bichtes Gebüsch an der Hauswand. Und eine Be:
-sichtigung der Panzertür de3- Schabßzimmer3 im Westturme
-zeigte, daß an den Schlössern mit Nachschlüsseln gearbeitei
+Die beiden Gauner — — waren nicht In ihren Zimmern.
+Aus dem einen Fenster hing ein Strick heraus bis
+in ein dichtes Gebüsch an der Hauswand. Und eine he:
+Besichtigung der Panzertür des- Schabßzimmer3 im Westturme
+zeigte, daß an den Schlössern mit Nachschlüsseln gearbeitet
 worden war. Daraufhin wurde der erste Minister bei
-Nani, ein reinblütiger Ratschpute, herbeigeholt — in aller
-Stille. Er war es, der die Schlllssel zum Schabzimmter in
+Rani, ein reinblütiger Ratschpute, herbeigeholt — in aller
+Stille. Er war es, der die Schließer zum Schabzimmter in
 Verwahrung hatte.
 
 Dieser Maru bir Schamsa, ein älterer Mann, wohnte
-im Ostflügel des Palastcs. Al3 Britt ihm nun in unserer
-Gegenwart Harst3 Befürchtung mitteilte, das Schabßzimme1
+im Ostflügel des Palastes. Als Britt ihm nun in unserer
+Gegenwart Harsts Befürchtung mitteilte, das Schatzzimmer
 <@pagebreak/>
-fönnte von den beiden Betrügern beraubt worden sein, schhÜt-
-telte der hohe Würdenträger sehr energisch den Kopf.
+könnte von den beiden Betrügern beraubt worden sein, schüttelte
+der hohe Würdenträger sehr energisch den Kopf.
 
-»Die Edelsteine und Perlen sind jeht in zwei aus Eng-
-(and ‘bezogenen Panzerschränken untergebracht worden, Mr.
-Harst,« wandte er sih an meinen Freund.
+»Die Edelsteine und Perlen sind jetzt in zwei aus Eng
+(und bezogenen Panzerschränken untergebracht worden, Mr.
+Harst,« wandte er sich an meinen Freund.
 
-»Das ist mir allerdings neu,« meinte Harald. »Troh-
-dem — auch Panzerschränke find zu öffnen! Haben die bei-
-den Schwindler sich an den Stahlspinden zu schaffen ges
-macht ?«
+»Das ist mir allerdings neu,« meinte Harald. »Trotzdem
+— auch Panzerschränke sind zu öffnen! Haben die beiden
+Schwindler sich an den Stahlspinden zu schaffen sei
+macht?«
 
-»Sie baten mic, ihnen etwas bon ben Softöarleiten
-zu zeigen. Sich tat eB -
+»Sie baten mich, ihnen etwas von den Softöarleiten
+zu zeigen. Sich tat ob -
 
-»Und die Schlüssel dazu ?« -
+»Und die Schlüssel dazu?« -
 
-»Habe ih bier, Mr. Harijt.«
+»Habe ich hier, Mr. Harsts.«
 
 »Ah — fünf Schlüssel an einem goldenen Ringe! Drei
-zu en Urs ztvei zu den Panzerschräuken, nicht wahr ©»
+zu erwog zwei zu den Panzerschränken, nicht wahr ©«
 
-»So ists!«
+»So ist’s!«
 
-»Dann konnten die beiden, falls Sie ihnen die SHlüssel
-auch nur für Minuten überließen, Wach3abdrücke nehmen!«
+»Dann konnten die beiden, falls Sie ihnen die Schlüssel
+auch nur für Minuten überließen, Wachsabdrücke nehmen!«
 
-Maru bir Schamsas podennarbiges bärtiges Gesicht
+Maru bir Schamsas pockennarbiges bärtiges Gesicht
 wurde bestürzt.
 
-»Allerdings, den Ning mit den Schlüsseln bat sich der —
-der falsche Harst aus. Er wollte schen, ob es sich um schr
-fomplizierte Schlüssel handelie.« —
+»Allerdings, den Ring mit den Schlüsseln bat sich der —
+der falsche Harst aus. Er wollte sehen, ob es sich um sehr
+komplizierte Schlüssel handelte.« —
 
 Und — — wenige Minuten später hatte der Minister
-festgestellt, daß aus dem einen Tresor zwei Diamant-
-geshmcide und drei Perlenketten, alles alte Schmuckstücte
-von unschäßbarem Werte, fehlten.
+festgestellt, daß aus dem einen Tresor zwei Diamantgeschmeide
+und drei Perlenketten, alles alte Schmuckstücke
+von unschätzbarem Werte, fehlten.
 
 Nun bewies dieser indische Würdenträger jedoch, daß
 er ein Mann von überraschender Umsicht und Energie war,
-mit dem wir aern zufammenarbeiteten.
+mit dem wir gern zusammenarbeiteten.
 
 Sofort wurden alle nötigen Maßnahmen getroffen, um
-der Flüchtlinge noh habhaft zu werden, die ja erst einen ge-
-ringen Vorsprung gewonnen haben konnten.
+der Flüchtlinge noch habhaft zu werden, die ja erst einen geringen
+Vorsprung gewonnen haben konnten.
 
-Das 8200 Mann starke Stnmelreiterforpg der Rani wurde
+Das 8200 Mann starke Kamelreiterkorps der Rani wurde
 alarmiert und in Trupps von vier Mann auf die Verfolgung
 <@pagebreak/>
-au3gcschickt, während die beiden Regimenter Snfanterie bie
-Stadt völlig cinkreisen mußten.
+ausgeschickt, während die beiden Regimenter Infanterie die
+Stadt völlig einkreisen mußten.
 
 Auch Sir Marringow, der Privatsekretär der Fürstin,
-war inzwiscen von dem Geschchenen benachrichtigt worden,
-Hatte fi schr bald im Polizcigebäude eingefunden und zeigte
-sich durch die Art, wie er sich bci uns entschuldigte, als tadel:
-fofer Gentleman. Er war ces, der für uns3 die von unseren
+war inzwischen von dem Geschehenen benachrichtigt worden,
+Hatte sich sehr bald im Polizeigebäude eingefunden und zeigte
+sich durch die Art, wie er sich bei uns entschuldigte, als Tadel:
+roter Gentleman. Er war Los, der für uns3 die von unseren
 beiden Konkurrenten bewohnten Räume in Ordnung bringen
-li:ß, damit wir wenigsten3 noch einige Siunden ruhen könn-
-ten, denn ecs var ja vorauszuschen, daß die Rani uns schon
-miltags empfangen wollte.
+li:ß, damit wir wenigstens noch einige Stunden ruhen könnten,
+denn echt war ja vorauszusehen, daß die Rani uns schon
+mittags empfangen wollte.
 
 Gegen vier Uhr morgens waren Wir dann endlich in
-dem angenehmen kühlen Wehngemach unseres neuen luxu-
-riösen Heims wieder allein. Die Schwindler hatten ihr
-ganzes Gepäck im Stiche gelassen, und diese drei Koffer stan-
-den n2ch in unserem gemeinsamen Schlafzimmer und sollten.
-dert auf Haralds Wunsch vorluufig auh bleiben, weil er
-fte später genau durchsuchen wollte.
+dem angenehmen kühlen Wohngemach unseres neuen luxuriösen
+Heims wieder allein. Die Schwindler hatten ihr
+ganzes Gepäck im Stiche gelassen, und diese drei Koffer standen
+n2ch in unserem gemeinsamen Schlafzimmer und sollten.
+dort auf Haralds Wunsch rothaarig auch bleiben, weil er
+Hefte später genau durchsuchen wollte.
 
-Ih fand, daß Harald auffallend shweigsam war, als
+Ich fand, daß Harald auffallend schweigsam war, als
 wir uns nun entkleideten. Schließlich fragte ich Ihn:
 
-»Worüber grübelsi Du eigentlich nach ?«
+»Worüber größerer Du eigentlich nach?«
 
-»Ncber das, tba3 Sir Marringow uns über den Gaga-
-war-Smaragd erzählt hat, mein Alter, — über den Aber:
-glauben, der mit diesem Edelsteine vcrknüpft ist.«
+»Nebel das, tba3 Sir Marringow uns über den Gagawar-Smaragd
+erzählt hat, mein Alter, — über den Aber:
+glauben, der mit diesem Edelsteine verknüpft ist.«
 
-»Ich so!« Jch gähnte herzhaft. »Eine ziemlich albernc
-Geschichte, finde ih. Allerdings, hier in Jndien, wo daë
-Tolt fo fanatifih an alten Bräuchen und Ueberliefeningen
+»Ich so!« Ich gähnte herzhaft. »Eine ziemlich alberne
+Geschichte, finde ich. Allerdings, hier in Indien, wo das
+Toll so fanatifih an alten Bräuchen und Überlieferungen
 festhält, mag derartiges von größerer Bedeutung sein.«
 
-»Ganz getviß!« nickte Harald sehr ernst. »Viellcichi
-hilft un8 diefer Aberglaube, den Mann herau2zusinden, de1
-die beiden Beiritger antvarb, damit sie den ersten Dicbstah!
-berfchleiern halfen!«
+»Ganz gewiß!« nickte Harald sehr ernst. »Vielleicht
+hilft uns dieser Aberglaube, den Mann herauszufinden, der
+die beiden Peiniger anwarb, damit sie den ersten Dicbstah!
+verschleiern halfen!«
 
-Sch war bereit3 ins Bett geichlüpft und auch zu müde,
-um noch über dieses »Verschleiern« weiter nachzudenken. Id
-[lief ein, nachdem ich Harald faum eine »Gute Nacht!«
-gerufen hattc.
+Ich war bereite ins Bett geschlüpft und auch zu müde,
+um noch über dieses »Verschleiern« weiter nachzudenken. Ich
+[lief ein, nachdem ich Harald kaum eine »Gute Nacht!«
+gerufen hatte.
+
 <@pagebreak/>
-
 <h2>5. Kapitel.</h2>
 
-<h3>Die Fürſtin.</h3>
+<h3>Die Fürstin.</h3>
 
 Halb elf Uhr vormittags.
 
 In unserem Wohngemach saßen wir beide am sauber
-und europäisch gedeckten Frühstück3tisch. Zwei JFnder be-
-dienten ung, Männer mit undurchdringlichen Gesicht8zügen,
-mit Augen, ‘die der Stolz des Natfchputenftammes kalt und
+und europäisch gedeckten Frühstückstisch. Zwei Inder bedienten
+jung, Männer mit undurchdringlichen Gesichtszügen,
+mit Augen, die der Stolz des Natfchputenftammes kalt und
 gefühllos erscheinen ließ, jedenfalls seine angenehm. Zugabe
-des im Übrigen idyllishen Quartiers,
+des im Übrigen idyllischen Quartiers,
 
-Harald ftumm und in fich gelehrt, wie beim Aubett-
-gehen. Und »seine« Augen unruhig und wie auf der Lauer.
+Harald stumm und in sich gelehrt, wie beim Zubettgehen.
+Und »seine« Augen unruhig und wie auf der Lauer.
 
-Sch schenlte den Tee ein. Ich ftredte die Hand nah
-dem frifchen Indifchen Gebäck aus.
+Ich schenkte den Tee ein. Ich strebte die Hand nach
+dem frischen Indischen Gebäck aus.
 
 Und — Haralds8 Hand wehrte ab.
 
 »Warte!« —
 
-Mr. Britt Hatte ung vorläufig mit zwei Nepetier-
-pistolen audgeholfen, denn unsere Clements waren uns ja
+Mr. Britt Hatte uns vorläufig mit zwei Repetierpistolen
+nachgeholfen, denn unsere Clements waren uns ja
 von dem Karawanenführer abgenommen worden.
 
-Eine dieser neuen Pistolen kam nun plöblih zum Vor-
-schein. Harst legte sie auf den Tish. Sagte zu mir: »Stelle
+Eine dieser neuen Pistolen kam nun plötzlich zum Vorschein.
+Harst legte sie auf den Tisch. Sagte zu mir: »Stelle
 Dich an die Tür, mein Alter!«
 
 Ich begriff im Moment: hier war ein Anschlag gegen
 und vorbereitet worden — irgendwie!
 
-Und al3 ich nun, die Brittfche Waffe fchußfertig, an ber
+Und als ich nun, die Brittsche Waffe schußfertig, an der
 Tür lehnte, waren die starren Gesichter der beiden Diener
 erdfarben geworden.
 
 »Da — trinkt den Tee!« befahl Harst den Ratschputen
-und deutete auf die gesüllten Täßchen.
+und deutete auf die gefüllten Täßchen.
 
-Ste zögerten, tauschten einen langen Blick aus.
+Sie zögerten, tauschten einen langen Blick aus.
 
 Und — nahmen die Tassen, tranken.
 
-Jhre Hände zittertén dabei, und ein Teil der Flüssigkeit
-tropste auf den kostbaren seidenen Hlmarteppich.
+Ihre Hände zitterten dabei, und ein Teil der Flüssigkeit
+tropfte auf den kostbaren seidenen Hlmarteppich.
 
-Bebende Finger stellten die Tassen auf den Tisch zurild,
+Bebende Finger stellten die Tassen auf den Tisch zueilt,
+
 <@pagebreak/>
-
 Auch mein Herz jagte.
 
-Und Hacsis Icharfe Stimme sragte sirengen Tones:
+Und Harsts scharfe Stimme fragte strengen Tones:
 
 »Wer hat Euch gedungen kf«
 
-Whe die Bildsäulen standen die Diener in Ihren schnee
-weißen Anzügen und welßen Turbanen va.
+Wie die Bildsäulen standen die Diener in Ihren Schnee
+weißen Anzügen und weißen Turbanen da.
 
 Und — blieben stumm. —
 
-Dann im Flur ves langen Gebäudes auf den Macmor
-fliesen hallende fefte Schritte.
+Dann im Flur des langen Gebäudes auf den Marmor
+Fliesen hallende fette Schritte.
 
 Es klopfte. — Sir Marringow trat ein.
 
-Stußie beim Anblid der Wassen. »Was geht hier
-vor?« fragte er fichtlih bestürzt. »Haben diese Leute
+Stuhle beim Anblick der Tassen. »Was geht hier
+vor?« fragte er sichtlich bestürzt. »Haben diese Leute
 irgendwie —«
 
-Und berflummie.
+Und verstummte.
 
-Fast gleichzeitig waren die beiden Diener mit entseglich
-verzerrien Gesichtern umgesunken, suchten sich wieder aufzu-
-richien, fielen in Krämpfe.
+Fast gleichzeitig waren die beiden Diener mit entsetzlich
+verzerrten Gesichtern umgesunken, suchten sich wieder aufzurichten,
+fielen in Krämpfe.
 
-Sir Marringow eilte ins Schloß hinüber. Jn vier
-Minuten war er mit dem englishen Leibarzt der Rani zur
-Sielle. Doktor Burson hatte eine Reiseapotheke mitgebracht.
-Wir flößten ben bereit3 Bemwußtlofen Gegenmittel ein.
-Burson fuhr dann mit den Dienern im Auto ins englische
-Hofpital. Harft warnte ihn noh: »Lassen Sie keinen Jnder
+Sir Marringow eilte ins Schloß hinüber. In vier
+Minuten war er mit dem englischen Leibarzt der Rani zur
+Stelle. Doktor Burgen hatte eine Reiseapotheke mitgebracht.
+Wir flößten den bereite Bewußtlosen Gegenmittel ein.
+Burgen fuhr dann mit den Dienern im Auto ins englische
+Hospital. Harst warnte ihn noch: »Lassen Sie keinen Inder
 an die Betten der Kranken heran!« —
 
-rringoiv saß bleich im Sessel in unserem Wohn-
-gemach.
+rringoiv saß bleich im Sessel in unserem Wohngemach.
 
-»Dieser infame Schurkenfireich muß. restlos aufgeklärt
-werden, Mister Harst! Restlos!« sagte er, sich mühsam zus
-Ruhe ‘zwingend. »Die Fürstin ist schon des zweiten Dieb-
-stahl3 wegen in großer Aufregung. Um zwölf Uhr wünschi
-sie Sie beide zu sprechen, ganz ohne Zeremoniell, meine Her-
-en. Ste werden mich jezt entschuldigen. Jh muß der
-Rani Meldung erstatten. Dieses Gistattentat ist jezt das
+»Dieser infame Schurkenstreich muß. restlos aufgeklärt
+werden, Mister Harst! Restlos!« sagte er, sich mühsam aus
+Ruhe zwingend. »Die Fürstin ist schon des zweiten Diebstahle
+wegen in großer Aufregung. Um zwölf Uhr wünscht
+sie Sie beide zu sprechen, ganz ohne Zeremoniell, meine Herren.
+Sie werden mich jetzt entschuldigen. Ich muß der
+Rani Meldung erstatten. Dieses Giftattentat ist jetzt das
 dritte seit einem halben Jahre!«
 
-Harald horchie auf. »Gegen iven richteten sich die bei-
-den anderen?« fragte er gespannt.
+Harald horchte auf. »Gegen wen richteten sich die beiden
+anderen?« fragte er gespannt.
 
-»Gegen mich,« erkllärte ver Privatsekretär zögernd.
+»Gegen mich,« entstände der Privatsekretär zögernd.
 <@pagebreak/>
-Ish möchte darüber nicht weiter fpredden, Dir. Harft.
-Halte mir jeht einen eigenen englischen Koch, und die Naz
-hat befohlen, daß außerdem meine sämilichen Speisen, bey
-sie mir serviert werden, geprüft werden müssen. — Ey
-[huldigen Sic mich!«
+Ist möchte darüber nicht weiter sprechen, Dir. Harst.
+Halte mir jetzt einen eigenen englischen Koch, und die Naß
+hat befohlen, daß außerdem meine sämtlichen Speisen, bei
+sie mir serviert werden, geprüft werden müssen. — Er
+[huldigen Sie mich!«
 
-Sein schmales, vornchmes Gesicht war noch imnier ve
-stôrt, und das Monokel im rechten Auge zeigte Sireifen de
-von der Stirn herabrinnenden Schweißperlen. — Er ve
-beugte ih und ging.
+Sein schmales, vornehmes Gesicht war noch immer ne
+stört, und das Monokel im rechten Auge zeigte Streifen he
+von der Stirn herabrinnenden Schweißperlen. — Er ne
+beugte ich und ging.
 
-Kaum hatte ji die Tür hinter ihm geschlossen, als
-auch schon Harald zuslüsterte: »Er selbst —1»
+Kaum hatte sich die Tür hinter ihm geschlossen, als
+auch schon Harald zuflüsterte: »Er selbst —1«
 
-«Niecmals!« erklärte Harald da ebenso bestimm
-»Wäre er sonst wohl mit Doktor Burson so schnell hier wi
+»Niecmals!« erklärte Harald da ebenso Westturm
+»Wäre er sonst wohl mit Doktor Burgen so schnell hier wi
 der erschienen?! Ein paar Minuten noch, und des Doktor
-Gegenmiitel hätiten nichi mehr gewirkt. — Nein, mein Alte
-so einsach liegen die Dinge hier doch nicht!«
+Gegenmittel harrten nicht mehr gewirkt. — Nein, mein Alte
+so einfach liegen die Dinge hier doch nicht!«
 
-Jch saun und sann. Der berühmte Gagawar-Smarag
-hatte ein Chaos von Ereignissen heraufbeschworen, dere
-Zusammenhänge immer undurchsichtiger wurden. — Un
-faum fünf Minuten drauf ein Diener der Nani: wir möchte
-ihm folgen, die Fürstin wolle uns fofort fpredhen. —
+Ich sann und sann. Der berühmte Gagawar-Anging
+hatte ein Chaos von Ereignissen heraufbeschworen, bete
+Zusammenhänge immer undurchsichtiger wurden. — an
+kaum fünf Minuten drauf ein Diener der Rani: wir möchte
+ihm folgen, die Fürstin wolle uns sofort sprechen. —
 
-So lernten wir nun den Palast von Gagawar bon
-innen kennen. Staunten aufs neue, staunten noh mehr, all
-wir der jungen Rani gegenüberftanden.
+So lernten wir nun den Palast von Gagawar von
+innen kennen. Staunten aufs neue, staunten noch mehr, all
+wir der jungen Rani gegenüberstanden.
 
-Nur Sir Marringoiv war no in dem hellen Gemach
-auwesend. Nur er war Zeuge, wie die Fürstin, nachdem
-sie uns in herzlichsier Form begrüßt haite, in steigender Er
-regung über die Gistattentate sih äußerte und Harald ge
-radezu flchentlich bat, dicsem unheimlichen Treiben ein End
-zu machen. Jedoch weder die Rani selbst noch Sir Marri
-gow fonuten uns auch nur die geringsien Anhaltis8pun
-geben, wer etwa hier al3 Anstifter in Frage käme. —
+Nur Sir Marringow war noch in dem hellen Gemach
+anwesend. Nur er war Zeuge, wie die Fürstin, nachdem
+sie uns in herzlichsten Form begrüßt hatte, in steigender Er
+Regung über die Giftattentate sich äußerte und Harald gradezu
+flehentlich bat, diesem unheimlichen Treiben ein Tod
+zu machen. Jedoch weder die Rani selbst noch Sir Mann
+Marringow konnten uns auch nur die geringsten Anhaltis8pun
+geben, wer etwa hier als Anstifter in Frage käme. —
 
 Um mich noch kurz über die Fürstin zu äußern: sie ro
-cine schr liebreizende Frau, hatte cine Hautsarbe von matte
-Bronzeton und beherrschte sehs Sprachen. Sile gehörte
-tenen indischen Herrscherinnen, die der europäischen Kultu
+eine sehr liebreizende Frau, hatte eine Hautfarbe von matte
+Bronzeton und beherrschte sechs Sprachen. Eile gehörte
+seltenen indischen Herrscherinnen, die der europäischen Malta
 <@pagebreak/>
-und Fehnit in ihrem Lande gerade fo viel Verbreitung ge«-
-ftatter. al8 e3 mit der Eigenart der Bevölterung in Einklang
-zu biingen ist. —
+und Wohnst in ihrem Lande gerade so viel Verbreitung ge«-
+stattet. als es mit der Eigenart der Bevölkerung in Einklang
+zu bringen ist. —
 
-Nach einer Stunde fand dann Frübftüdstafel stati, an
-der auch der Minister Maru bir Schamfa, sein Sohn, der
-Kommandeur des fürjtlichen Stamelreitertorpg, zwei weitere
-MWindenträger, Sir Marringow und Doktor Burson teil-
-nahmen. Harst saß rechts von der Rani, ih den beiden
-gegenüber. Es ging jeht ziemlich fteif ber, und ba3 Ge-
-spräch drehte sich zumeist um Sport. Die Fürstin war leiden-
-schaftliche Tennisspielerin und fragte ihren Privatsekretär fo
-nebenbei, ob er ihren Tennisschläger repariert habe. Marz
-ringow bejahte. Es sei ja nur eine Kleinigkeit gewesen. —
-Die Unterhaltung wurde immer fchleppender. Doktor Bur-
-son wurde plößlich abgerufen. Den beiden Dienern ginge
+Nach einer Stunde fand dann Frühstückstafel statt, an
+der auch der Minister Maru bir Schamsa, sein Sohn, der
+Kommandeur des fürstlichen Kamelreiterkorps, zwei weitere
+MWindenträger, Sir Marringow und Doktor Burgen teilnahmen.
+Harst saß rechts von der Rani, ich den beiden
+gegenüber. Es ging jetzt ziemlich steif der, und das Gespräch
+drehte sich zumeist um Sport. Die Fürstin war leidenschaftliche
+Tennisspielerin und fragte ihren Privatsekretär so
+nebenbei, ob er ihren Tennisschläger repariert habe. Mark
+Marringow bejahte. Es sei ja nur eine Kleinigkeit gewesen. —
+Die Unterhaltung wurde immer schleppenden. Doktor Burgen
+wurde plötzlich abgerufen. Den beiden Dienern ginge
 es schlechter.
 
 Da verstummte die Rani vollständig. Das Gespenst
-heimtüdisher Giftmorde schwebte unsichtbar über der Tafel.
-— Uber Burton kehrte fchon nach zehn Minuten zurüd und
+heimtückischer Giftmorde schwebte unsichtbar über der Tafel.
+— über Bunten kehrte schon nach zehn Minuten zurück und
 konnte der Fürstin melden, daß die Diener mit dem Leben
 davonkommen würden.
 
 »Und doch werden sie nichts verraten,« sagte die Rani
-leise zu Harald. »Jch kenne meine Ratschputen. Sie wer—
-den niemals in3 Zuchthaus wandern. Sie ziehen den Tod
+leise zu Harald. »Ich kenne meine Ratschputen. Sie werden
+niemals ins Zuchthaus wandern. Sie ziehen den Tod
 der Gefangenschaft vor!«
 
-Endlich war diese unerquidlihe Mahlzeit zu Ende. Die
-Nani zog‘ sich zurück, rief Harald noch zu: »Um sech3 Uhr
+Endlich war diese unerquickliche Mahlzeit zu Ende. Die
+Rani zog sich zurück, rief Harald noch zu: »Um sechs Uhr
 dann also, Mr. Harst, — auf meinem Tennisplapl«
 
-In Marringoivd Wohnung am Ürftturme tranfen wir
-drei dann eine Tajfe Molfa und rauchten eine Verdauungds
-jigarre. Die Räume des -Privatsekretärs waren geradezu
-pruulvoll eingerichtet. Nun erfuhren wir auh, daß Sir
-Marringow der jüngste Sohn Lord Tes3pours, des ehe-
-maligen Vizekönigs von Fndien, war und bis vor neun
+In Marringoivd Wohnung am Ürftturme tranken wir
+drei dann eine Waffe Malta und rauchten eine Verdauungds
+Zigarre. Die Räume des -Privatsekretärs waren geradezu
+prunkvoll eingerichtet. Nun erfuhren wir auch, daß Sir
+Marringow der jüngste Sohn Lord Tes3pours, des ehemaligen
+Vizekönigs von Indien, war und bis vor neun
 Monaten noch als Major im 3. indischen Scüpenregiment
 <@pagebreak/>
-arftanben hatte; min merlte auch ich endbli, Daß fraglo3 die
-Liche ihn bewogen hatte, in die Dienste der Kürftint zu treien,
-der er viclleiczt cbensalls niht ganz gleichgültig wax.
+gestanden hatte; mir merkte auch ich endlich, Daß fraglos die
+Lichte ihn bewogen hatte, in die Dienste der Kürftint zu dreien,
+der er viclleiczt ebenfalls nicht ganz gleichgültig war.
 
-Marringow zeigte uns dann auch den Tennigichläger
-der Rani. »Das Lederplättchen unten am Stiei hatte sich
-celóst,« erflärte er. »Da — ich Habe e3 mit Heinen goldenen
-Stiften wieder befestigt1»
+Marringow zeigte uns dann auch den Tennisschläger
+der Rani. »Das Lederplättchen unten am Stiel hatte sich
+Gelöst,« erklärte er. »Da — ich Habe es mit Seinen goldenen
+Stiften wieder befestigt!«
 
-Harald sührte mit dem Schläger ein paar Lufthiebe aus,
+Harald führte mit dem Schläger ein paar Lufthiebe aus,
 meinte: »Mix wäre er zu leicht.«
 
-»Oh — für Sie habe ih eine Auswaßl shrwoërerer Art,
+»Oh — für Sie habe ich eine Auswahl shrwoërerer Art,
 Mister Harst. Die Rani wird heute nicht selbst spielen, da
-wir heute twieder einen der zahllosen Hindu-Feiertage ha-
-bei. Wenn e3 Ihnen recht ift, spiele ih gegen Sie beide.« —
+wir heute knieten einen der zahllosen Hindu-Feiertage habe!.
+Wenn es Ihnen recht ist, spiele ich gegen Sie beide.« —
 
-Und nachmitiags sehs Uhr fam dann die Entscheidung!
-Sie lam so übecraschend sür mich, daß ih durch Haralds
-Austreten geradezu erjchredt wurde.
+Und nachmittags sechs Uhr kam dann die Entscheidung!
+Sie kam so überraschend für mich, daß ich durch Haralds
+Austreten geradezu erschreckt wurde.
 
-Man stelle fih vor: ein tadelloser Tennisplay, als
-Hintergrund den tempclartigen Bau des Hauses, in dem wir.
-wohnten. Und die Nani im kostbaren Sessel sißend, über-
-schatiet von zwei Schirmen, die von Dienern gehalten
+Man stelle sich vor: ein tadelloser Tennisplatz, als
+Hintergrund den tempelartigen Bau des Hauses, in dem wir.
+wohnten. Und die Rani im kostbaren Sessel sitzend, überschattet
+von zwei Schirmen, die von Dienern gehalten
 wurden.
 
-Und In ciner Spielpause, als wir drei Herren am Net
+Und In einer Spielpause, als wir drei Herren am Ne!
 standen und Sir Marringow, der den Tennisschläger der
-Fürstin benugyte, mit zwei Bällen jonglierte, — — da 308«
-mein Freund Harald plößlich die Pistole aus der Tasche und
-dielt fie dem Privatsekretär dichi vor das Gesicht.
+Fürstin brauchte, mit zwei Bällen jonglierte, — — da 308«
+mein Freund Harald plötzlich die Pistole aus der Tasche und
+hielt sie dem Privatsekretär dicht vor das Gesicht.
 
 Die Rani schrie auf. Marringows3 Monokel rollte auf
 den festen Zementboden und zerklirrte an dem Nebpfoiten.
 
-Und — ganz leise sg te Harald nun:
+Und — ganz leise so te Harald nun:
 
 »Sir Marringow, Sie haben in der verflossenen Nacht
 unten in den Handgriff des Schlägers der Rani ein großes:
-Loch gebohrt. Jch habe Sie durh das Fenster beobachiet:
-Und in dieser nun wieder verschlossenen Höhlung des Grises
-ftedtt der — berühmte Gagawar-Smaragd !»
+Loch gebohrt. Ich habe Sie durch das Fenster beobachtet:
+Und in dieser nun wieder verschlossenen Höhlung des Geißel
+steckt der — berühmte Gagawar-Smaragd!«
 
 Die Fürstin kam schon herbeigeeilt.
 
-Und ganz laut — für die Diener verechnet — rief Ha-
+Und ganz laut — für die Diener verrechnet — rief Harald
 <@pagebreak/>
-rald ihr entgegen: »Es sollte mir leid tun, wenn ih Euere
-Hoheit erfchredt Hätte. Ich wollte Sir Maxrringow nur dieses
-neue System von Mehrlabepiftole zeigen!«
+ihr entgegen: »Es sollte mir leid tun, wenn ich Eurer
+Hoheit erschreckt Hätte. Ich wollte Sir Maxrringow nur dieses
+neue System von Mehrladepistole zeigen!«
 
-Marringow mar fehr bleich geworben.
+Marringow war sehr bleich geworden.
 
-Merfmürdigermeife tauschte er nun aber mit der Fürstin
+Merkwürdigerweise tauschte er nun aber mit der Fürstin
 einen Blick aus, dessen Bedeutung mir völlig unklar blieb.
 
 Harald lächelte. Ein liebenswürdiges, gütiges Lächeln
 war’s. Und sagte: »Hoheit, der Smaragd ist nun gefunden,«
-Er sprach deutsch, damit die Diener ihn niht verstünden.
-»Jh werde jeboch vergessen, vaß ich ihn gefunden habe,
-wenn — Hoheit es wünsczen !«
+Er sprach deutsch, damit die Diener ihn nicht verstünden.
+»Ich werde jedoch vergessen, daß ich ihn gefunden habe,
+wenn — Hoheit es wünschten!«
 
 Meine ungläubig erstaunten Augen wanderten von
-einem Gesicht zum andern. Jh war ja ber einzige don und
-hier Fi Net Berfammelten, der noch immer nicht alles
+einem Gesicht zum andern. Ich war ja der einzige von und
+hier Ei Ne! Versammelten, der noch immer nicht alles
 begriff.
 
 Der Rani wie mit Blut übergossenes Gesicht senkte sich
 in holder Verwirrung.
 
-»Dann — verg?ssen Sie es, Mister Harst,« bat fie leise.
+»Dann — Berg?Seen Sie es, Mister Harst,« bat sie leise.
 
-Und Harald verneigte sic.
+Und Harald verneigte sich.
 
-»Wie Hoheit befehlen! Fmmerhin, wir vier könnten
-die Angelegenheit einmal genau durhsprehen. Denn —
-der Smaragd ist ja niht das einzige, was gestohlen wurde.«
-Seine Stimme Hang ernft und nachdentlih. »Außerdem —
-die Giftattentate müssen doh endlich aufhören! — Echiden
-Hoheit bitte die Diener weg. Hier können wir nicht be-
-lauscht werden.« —«
+»Wie Hoheit befehlen! Immerhin, wir vier könnten
+die Angelegenheit einmal genau durchsprechen. Denn —
+der Smaragd ist ja nicht das einzige, was gestohlen wurde.«
+Seine Stimme Hang ernst und nachdenklich. »Außerdem —
+die Giftattentate müssen doch endlich aufhören! — Echten
+Hoheit bitte die Diener weg. Hier können wir nicht belauscht
+werden.« —«
 
-Und dann erfuhr nun auch ich bie geheimnisvollen und
+Und dann erfuhr nun auch ich die geheimnisvollen und
 zarten Zusammenhänge der seltsamen Geschehnisse. Auch
-Du, lieber Leser, wirst jeßt eingeweiht werden. Und Tu,
-verehrte Leserin, bereite Di innerlich vor auf — eine in-
-difche — Liebesgefchichte!
+Du, lieber Leser, wirst jetzt eingeweiht werden. Und zu,
+verehrte Leserin, bereite Du innerlich vor auf — eine indische
+— Liebesgeschichte!
 
-Schlagt um! Der zweite Alt beginnt; »Dox Mann
+Schlagt um! Der zweite Alt beginnt; »Der Mann
 mit den Handschuen.«
 
 <@pagebreak 36/>
@@ -1519,7 +1512,7 @@ mit den Handschuen.«
 Wir vier saßen nun vor dem Tempel in bequemen
 Rohrsesseln.
 
-Ein sanster, aber heißer Wind ließ die Parkbäume
+Ein sanfter, aber heißer Wind ließ die Parkbäume
 rauschen, und die wispernden Stimmchen von unzähligen
 Blättern waren die diskrete Begleitmusik zu der Fürstin
 offenem Geständnis,
@@ -1530,671 +1523,668 @@ angenehmen weichen Organ.
 
 Harald holte sein Zigarettenetui hervor.
 
-»Hoheit gestatten. Zigarettenrauch hat etwas Versöhns-
-liches, Beruhigendes.«
+»Hoheit gestatten. Zigarettenrauch hat etwas Versöhns-liches,
+Beruhigendes.«
 
 Auch wir bedienten uns, und Sir Marringow sagte
-dabci: »Die erste Mirakulum, die ih rauche. Jhre Spezial-
-marfe ist berühmt geworden, Mister Harst.«
+dabei: »Die erste Mirakulum, die ich rauche. Ihre Spezialmarke
+ist berühmt geworden, Mister Harst.«
 
-Harald nidte. »Der Gagawar-Smaragd tft in Fach-
-kreisen ebenso berühmt, Sir. Als ih in Berlin Jhr Schrei-
-den mit der Aufforderung erhielt, den Smaragd zu suchen,
-babe ich mich an den besten Jundienkenner Berlins, den Ge-
-heimrat Rüdinger, gewandt. Der konnte mir über den
+Harald nickte. »Der Gagawar-Smaragd Oft in Nachreisen
+ebenso berühmt, Sir. Als ich in Berlin Ihr Schreiben
+mit der Aufforderung erhielt, den Smaragd zu suchen,
+habe ich mich an den besten Jundienkenner Berlins, den Geheimrat
+Rüdinger, gewandt. Der konnte mir über den
 Smaragd folgendes angeben: Ein Stein von drei Zentimeter
 <@pagebreak/>
 Länge, zwei Zentimeter Breite und von gleichmäßigem
-Schliff, tadelloser Reinheit, wunderbarem Feuer und nu1
+Schliff, tadelloser Reinheit, wunderbarem Feuer und nur
 mit einem Fehler behaftet, der das Kleinod jedoch eher noch
-wertvoller macht, denn — in der Mitte des Steines ift ein
-winziges Käferchen eingeschlossen und fo gut zu erkennen,
+wertvoller macht, denn — in der Mitte des Steines ist ein
+winziges Käferchen eingeschlossen und so gut zu erkennen,
 daß man sogar festgestellt hat, zu welcher Familie es gehört.
 Einer uralten Sage nach soll nun zugleich mit dem Käferchen
 die Seele der ersten Fürstin von Gagawar in den Smaragd
-mit cingesperrt sein, angeblich zur Strafe dasür, daß jene
-Nani in heißer Liebe zu einem Fremden, einem Holländer
+mit eingesperrt sein, angeblich zur Strafe dafür, daß jene
+Rani in heißer Liebe zu einem Fremden, einem Holländer
 entbrannt war. Und weiter heißt es in derselben Sage, daß
-der Edelstein einmal spurlo3 verschwinden würde, wenn
-abermals eine Fürstin von Gagawar ihr Herz einem Frems-
-den schenken sollte und daß derjenige jedoch al3 Gemahl
-dieser Rani den Thron von Gagatwvar besteigen wlirde, der
+der Edelstein einmal spurlos verschwinden würde, wenn
+abermals eine Fürstin von Gagawar ihr Herz einem Fernsten
+schenken sollte und daß derjenige jedoch als Gemahl
+dieser Rani den Thron von Gagatwvar besteigen würde, der
 den Smaragd wieder herbeischaffen könnte. — Dies also
 war mir über den gestohlenen Stein bekannt, als ich mit
-Freund Schraut bier nach Jndien reiste. Was und dann in
-der Thar zustieß, wissen Hoheit bereits, und wa3 hier im
+Freund Schraut hier nach Indien reiste. Was und dann in
+der Thar zustieß, wissen Hoheit bereits, und was hier im
 Schlosse sich abgespielt bat, haben Hoheit teilweise miterlebt.
-— Jch nehme nun folgendes an: Der Smaragd wurde auf
-bisher unausgeklärte Weise von unbekannten Tätern aus3
-dem Schatzimmer entwendet. Eine dieser Diebe — es
+— Ich nehme nun folgendes an: Der Smaragd wurde auf
+bisher unaufgeklärte Weise von unbekannten Tätern aufs
+dem Schlafzimmer entwendet. Eine dieser Diebe — es
 mag auch nur ein einzelner gewesen sein — Tief je
-doh Sir Marringow in die Arme, und es gelang Sir Mar-
-ringow, dem Manne den Edelstein zu entreißen —«
+doch Sir Marringow in die Arme, und es gelang Sir Marringow,
+dem Manne den Edelstein zu entreißen —«
 
 Der Privatsekretär machte da eine kurze Handbewegung.
 
 »Gestatten Sie, daß ich gleich jetzt einiges erkläre, Mr.
-Harst. — Jch kam in jener stürmischen und regnerischen Nachl
-vor etwa sech3 Wochen verkleidet an der Rückseite des Pa-
-laste3 entlang —
+Harst. — Ich kam in jener stürmischen und regnerischen Nacht
+vor etwa sechs Wochen verkleidet an der Rückseite des Palastes
+entlang —
 
-»Von einer geheimen — Unterredung mit Jhrer Ho-
-beit —« warf Harald ein,
+»Von einer geheimen — Unterredung mit Ihrer Hoheit
+—« warf Harald ein,
 
-»Ja!« erwiderte da an Stelle Marrinqows die Fürstin
+»Ja!« erwiderte da an Stelle Marringows die Fürstin
 mit voller Ehrlichkeit. »Reginald war bei mir gewesen.
-Der Rückweg in seine Wohnuna um das Schloß herum er-
+Der Rückweg in seine Wohnung um das Schloß herum erschien
 <@pagebreak/>
-fchien ihm ficherer al3 der durch die Korridore des Schlosses.«
+ihm sicherer als der durch die Korridore des Schlosses.«
 
-Marringoww nidte.
+Marringoww nickte.
 
-»Sa, deshalb wählte ich den Weg ußen am Palafte
-entlang. Als ih mich dem Turme näherte, erblicte ich eine
-Gestalt, die aus der kleinen, sonsi nie benußten Pforte
-fchlüpfte. Ich dachte sofort an einen Dieb. Da ich die Ver-
-feidung cines alten Jnders trug, scheute ih mich nicht mwei-
-ter, den Unbekannten von der Seite anzuspringen. Jh
-padte ihn, erhielt jedoch einen Fausthieb gegen die Schläfe
-und fonnte nur noch durch einen Gegenhieb einen Messer-
-slih abwehren. Der Mann entfloh. Sch hatte ihn jedoch
-die Tasche seiner sschäbigen Jacke völlig abgerissen, fühlte in
+»Ja, deshalb wählte ich den Weg aßen am Palaste
+entlang. Als ich mich dem Turme näherte, erblicke ich eine
+Gestalt, die aus der kleinen, sonst nie benutzen Pforte
+schlüpfte. Ich dachte sofort an einen Dieb. Da ich die Verkleidung
+eines alten Inders trug, scheute ich mich nicht weiter,
+den Unbekannten von der Seite anzuspringen. Ich
+packte ihn, erhielt jedoch einen Fausthieb gegen die Schläfe
+und konnte nur noch durch einen Gegenhieb einen Messerstich
+abwehren. Der Mann entfloh. Ich hatte ihn jedoch
+die Tasche seiner schäbigen Jacke völlig abgerissen, fühlte in
 dieser Tasche etwas Hartes und — fand so den Smaragd.«
 
 Harald hatte mit größter Spannung zugehört.
 
 »Und der Dieb?« fragte er eifrig. »Haben Sie ihn
-aenguer gesehen? Können Sie ihn mir beschreiben, Sir
-Marringotv ?«
+genauer gesehen? Können Sie ihn mir beschreiben, Sir
+Marringow?«
 
-»Rein. E3 war ein hochgewachsener Mann wie alle
-Natschputen. Aber er trug einen Zeugfeßen mit Augen-
-löchern vor dem Gesicht. Nur eins fiel mir auf, er hatte
+»Rein. Es war ein hochgewachsener Mann wie alle
+Ratschputen. Aber er trug einen Zeugfetzen mit Augenlöchern
+vor dem Gesicht. Nur eins fiel mir auf, er hatte
 weiße Handschuhe an!«
 
-»Ah — genau wie der Mensch, der un3 in Moalis Stall
-cinen Besuch abstattete! — Schr wichtig, diese Handschuhe !
-lind — was taten Sie weiter, Sir Marringow ?«
+»Ah — genau wie der Mensch, der uns in Moalis Stall
+einen Besuch abstattete! — Sehr wichtig, diese Handschuhe!
+Und — was taten Sie weiter, Sir Marringow?«
 
-»Jh verfolgte den Dieb nicht, da ein plöblih nieder-
-gehcnder Regenguß dies unmöglich machte und mir auh
+»Ich verfolgte den Dieb nicht, da ein plötzlich niedergehenden
+Regenguß dies unmöglich machte und mir auch
 Gelegenheit bot, unbemerkt in meine Wohnung zu gelangen,
-mo ich bei geschlossenen Vorhängen und Fensterladen nun
-bie herausgerissene Tasche besichtigte. So entdeckte ih den
-Smaragd. — Am folgenden Vormittag teilte ih der Fürstin
-mein Erlebnis mit. Wir beschlossen vorläufig zu shweigen.
-- Zwei Tage drauf kehrte der Minister Maru bir Shamsa von
-ciner Wallfahrt aus Agra mit seinem Sohne zurück und
-begab sich in das Schatzimmer des Westturmes, um naH
-seiner vierzehntägigen Abwesenheit zu prüfen, ob dort noh
-alles in Ordnung sei. So kam nun Doch das Fehlen des Smas-
+wo ich bei geschlossenen Vorhängen und Fensterladen nun
+die herausgerissene Tasche besichtigte. So entdeckte ich den
+Smaragd. — Am folgenden Vormittag teilte ich der Fürstin
+mein Erlebnis mit. Wir beschlossen vorläufig zu schweigen.
+- Zwei Tage drauf kehrte der Minister Maru bir Schamsa von
+einer Wallfahrt aus Agra mit seinem Sohne zurück und
+begab sich in das Schlafzimmer des Westturmes, um naß
+seiner vierzehntägigen Abwesenheit zu prüfen, ob dort noch
+alles in Ordnung sei. So kam nun Doch das Fehlen des Smas-ragds
 <@pagebreak/>
-ragds az die Oeffentlichkeit. Tm Schlosje uad în der Siad!
-herrschte be2halu große Ecregung. — Die Fürstin hielt es
-für richtig, ven wahren Sachverhalt zu berichweigen und
-Sie, Mr. Harft, berzubitien, da idr jehr viel Daran lag, Die
-Anftifier der Siftattentate gegen mich Kerauszujinden. Dei
-Smaragd war alfo nur der. Vorwand sür Jhre Berufung,
-Mr. Harft.«
+aß die Öffentlichkeit. im Schlosse und in der Sind!
+herrschte be2halu große Erregung. — Die Fürstin hielt es
+für richtig, den wahren Sachverhalt zu verschweigen und
+Sie, Mr. Harst, berzubitien, da ihr sehr viel Daran lag, Die
+Anstifter der Giftattentate gegen mich Herauszufinden. Der
+Smaragd war also nur der. Vorwand für Ihre Berufung,
+Mr. Harst.«
 
-»Eine Brciichenfrage: Haben Sie al dies aud Len —
-faijhen Harfi mitgeteilt?«
+»Eine Brciichenfrage: Haben Sie all dies auch Wen —
+fauchen Harst mitgeteilt?«
 
-»Nein, nein, — natürlich niht!«
+»Nein, nein, — natürlich nicht!«
 
-»Das dachte ih mir wohl. — Und dann wurden bie
-beiden Panzerschräuke angeschafft und die Kleinodien darin
-verschlessen.«
+»Das dachte ich mir wohl. — Und dann wurden die
+beiden Panzerschränke angeschafft und die Kleinodien darin
+verschlossen.«
 
-»sa. Juzwischeu war der Smaragd in meiner Wod:,
-nung noch immer unter einer losen Marmorplatte des Fuß-
-bodens verborgen. UA1s8 der falsche Harst und sein Begleiter
-hier erschienen waren, an deren Echtheit ih ja zunächst nichl
-zweifeln konnte, hielt ih den Edelsiein in jenem Verfteck je-
-doch niht mehr für sicher genug und vereinbarte mic der
-Fürstin, ihn in dem Griff des Tennisschlägers unierzu-
-bringen.«
+»so. Auswischen war der Smaragd in meiner Tod:,
+Ahnung noch immer unter einer losen Marmorplatte des Fußbodens
+verborgen. Tales der falsche Harst und sein Begleiter
+hier erschienen waren, an deren Echtheit ich ja zunächst nicht
+zweifeln konnte, hielt ich den Edelstein in jenem Versteck jedoch
+nicht mehr für sicher genug und vereinbarte mich der
+Fürstin, ihn in dem Griff des Tennisschlägers unterzubringen.«
 
-Harald nidte mit seinem Lächeln.
+Harald nickte mit seinem Lächeln.
 
-»Ganz wie ih vermutet habe! — Und nun will Id
-auch erklären, Hoheit, wie ich hinter das Herzen2geheimnis
-Sir Marringow3 geloninen bin. — Sich muB als Detektiv
-scharfer Beobachter sein. Bei ‘der Fcühftückstafel fing ich
-einige Blide auf, die Sir Marringow mit Eurer Hoheii
+»Ganz wie ich vermutet habe! — Und nun will Ich
+auch erklären, Hoheit, wie ich hinter das Herzensgeheimnis
+Sir Marringows gekommen bin. — Sich muß als Detektiv
+scharfer Beobachter sein. Bei der Frühstückstafel fing ich
+einige Blicke auf, die Sir Marringow mit Eurer Hoheit
 wechselten.«
 
-Die Rani winkte ba freundlih ab. »Sagen Ste Fürftin,
-Mr. Harst. Wir find. hier ja unter uns!«
+Die Rani winkte da freundlich ab. »Sagen Sie Fürstin,
+Mr. Harst. Wir sind. hier ja unter uns!«
 
-»Und Sir Marringow3 Wohnung,« fuhr Harald mit
-ebenso liebenswürdiger Bertraulichleit fort, »war fo prunf-
-voll eingerichtet, wie man einen Privatsekretär sonst wohl
-faum unterbringt. Außerdeur enthielt fie noch ein Aeines
-Geheimni3: das dcehbare Jagdbild in Schlafzimmer, wo
+»Und Sir Marringows Wohnung,« fuhr Harald mit
+ebenso liebenswürdiger Vertraulichkeit fort, »war so prunkvoll
+eingerichtet, wie man einen Privatsekretär sonst wohl
+kaum unterbringt. Außerdem enthielt sie noch ein Keines
+Geheimnis: das drehbare Jagdbild in Schlafzimmer, wo
 <@pagebreak/>
-ich eine Weile allein war! Und die andere Seite dieses fo
-tofibar eingerahmten Gemäldes —
+ich eine Weile allein war! Und die andere Seite dieses so
+kostbar eingerahmten Gemäldes —
 
 »— ist — mein Bild,« vollendete die Rani und errötete
 leicht.
 
-»sa — Jhr Bild, Fürstin! Und das war vielsagend
-genug. Deshalb brauchte IH auch nur noch eine kleine
-Probe aufs Exempel: und bad war — die Pistole auf dem
-Tennizplag! — Jhr Schreck, Fürstin, Jhre Angst und Jhr
-Aufschrei genügten mir. Da wußte ich, daß Sie Sir Mar-
-feb lieben und daß er Sshrem Herzen bereits sehr nahe
+»so — Ihr Bild, Fürstin! Und das war vielsagend
+genug. Deshalb brauchte Ich auch nur noch eine kleine
+Probe aufs Exempel: und Bad war — die Pistole auf dem
+Tennisplatz! — Ihr Schreck, Fürstin, Ihre Angst und Ihr
+Aufschrei genügten mir. Da wußte ich, daß Sie Sir Mantel
+lieben und daß er Sehnen Herzen bereits sehr nahe
 steht.«
 
-Die Nani blickte Reginald Marringow voll unendlicher
-Zärtlichkeit an und flüfterte:
+Die Rani blickte Reginald Marringow voll unendlicher
+Zärtlichkeit an und flüsterte:
 
 »Wir hatten und vor einem Jahr in Kalkutta bei einem
-Feft des Vizekönigs kennengelernt, Mister Harst. Reginald
+Fett des Vizekönigs kennengelernt, Mister Harst. Reginald
 war mir als Ehrenadjutant zugeteilt worden. Drei Tage
 nur, — — und unsere Seelen waren eins!«
 
 Marringows edles Gesicht strahlte.
 
-»Und — werden eins bleiben, Mister Harst1» erklärte
-er feierlich. »Der Smaragd soll uns helsen, das Vorurteil
+»Und — werden eins bleiben, Mister Harst!« erklärte
+er feierlich. »Der Smaragd soll uns helfen, das Vorurteil
 der Bevölkerung von Gagawar gegen eine Heirat der Fürstin
-mit einem Europäer zu zerstreuen. Die Sage vom Gagawar-
-Smaragd begrüßt ja den als Gemahl der Rani, der den
+mit einem Europäer zu zerstreuen. Die Sage vom Gagawar-Smaragd
+begrüßt ja den als Gemahl der Rani, der den
 Edelstein wieder herbeischaffﬀt. Raten Sie uns, Mister Harst,
 wie wir am besten —«
 
-Und da, mitten in diese Erörterung einer hoffnungs-
-frohen Zukunft hinein plaÿte der kleine, hagere Polizeichef
-Briit wie ein finsterer Geist.
+Und da, mitten in diese Erörterung einer hoffnungsfrohen
+Zukunft hinein platte der kleine, hagere Polizeichef
+Britt wie ein finsterer Geist.
 
-Nahie eilends vom Schlosse her, riß den Tropenhelm
+Nahte eilends vom Schlosse her, riß den Tropenhelm
 vom Kopf, keuchte hervor:
 
-»Hoheit, ein neues Verbrechen! Jh mußte es sofort
-melden. — Hoheit, der Perser Harum Said, der reichfte
-Mann Gagamarg, ist soeben in seinem Hause ermordet auf-
-gefunden worden. Er hatte fih Heute noch nicht in seinem
+»Hoheit, ein neues Verbrechen! Ich mußte es sofort
+melden. — Hoheit, der Perser Harum Said, der reichste
+Mann Gagamarg, ist soeben in seinem Hause ermordet aufgefunden
+worden. Er hatte sich Heute noch nicht in seinem
 Geschäst3gebäude sehen lassen, und ein Angestellter ist dann
-durch ein Fensier in das verschlossene Häuschen eingedrungen
+durch ein Fenster in das verschlossene Häuschen eingedrungen
 <@pagebreak/>
-und bat fo den Morb entbedt. Much Salds beide Diener
-find erstochen worden. Es liegt fraglos Raubmord vor, da
-des Persers Stahlschrank mit Hilse eines modernen Sauer
-tel gewaltfam geöffnet und ausgeplünbert wot-
-en ist,«
+und bat so den Mord entdeckt. Auch Solde beide Diener
+sind erstochen worden. Es liegt fraglos Raubmord vor, da
+des Persers Stahlschrank mit Hilfe eines modernen Sauer
+Titel gewaltsam geöffnet und ausgeplündert worden
+ist,«
 
 <h2>2. Kapitel.</h2>
 
-<h3>Bwirnhandfduhe,</h3>
+<h3>Zwirnhandschuhe,</h3>
 
-Harum Said! ! ö -
+Harum Said!! ö -
 
 Dieser Name hatte mich sofort an den Schimmelreiter
-Marsa Sibra erinnert. Marsa Sibra war ja des Perser3
+Marsa Sibra erinnert. Marsa Sibra war ja des Persers
 Vertrauter gewesen! —
 
-ch muß noch einflechten, daß wir weder Britt noch
+ich muß noch einflechten, daß wir weder Britt noch
 sonst jemandem hier bisher mitgeteilt hatten, daß wir den
-Namen des Karawanenführers3 kannten, der fi von dem
-masfkierten Fremden zu dem Ueberfal auf uns Halte be-
-fiimmen Iaffen. Harald wollte abfichtlich diese EinzelHeit
+Namen des Karawanenführers3 kannten, der sich von dem
+maskierten Fremden zu dem Überfall auf uns Halte bestimmen
+lassen. Harald wollte absichtlich diese Einzelheit
 vorläufig verschweigen, da er hoffte, in aller Stille durch
-Beobachtung Harum Saids zu erfahren, wer der Mastierte
-gewesen, der mit seiner gleihfalls maskierten Reiterschax
+Beobachtung Harum Garde zu erfahren, wer der Maskierte
+gewesen, der mit seiner gleichfalls maskierten Reiterschax
 die Karawane umzingelt Hatte.
 
 Und nun — war der Perser tot, ermordet!
 
-Nun war’s vorbei mit der friedlihen Erörterung der
-indischen Liebesgeschichie zweier Menschen, die mir beide so
-recht von Herzen schon jeßt sympathisch geworden! —
+Nun war’s vorbei mit der friedlichen Erörterung der
+indischen Liebesgeschichte zweier Menschen, die mir beide so
+recht von Herzen schon jetzt sympathisch geworden! —
 
-Britt bat Harald, daß wir ihn Doch an: ben Tatort
-begleiten möchten. Die Fürstin fchToß sich dieser Bitte an,
-und fo jagten Harft und ih denn gleih darauf mit Britts
+Britt bat Harald, daß wir ihn Doch an: den Tatort
+begleiten möchten. Die Fürstin schloß sich dieser Bitte an,
+und so jagten Harst und ich denn gleich darauf mit Britts
 Kraftwagen dem Geschästêviertel von Gagawar zu.
 
-Hier in der breiten Basarstraße, die sih in nihts von
-ähnlihen Straßen anderer indisher Städte unterschied,
+Hier in der breiten Basarstraße, die sich in nichts von
+ähnlichen Straßen anderer indischer Städte unterschied,
 <@pagebreak/>
-mußte sich das Gerücht von den Mordtaten Fereitö berbreitet
-haven, denn wir fanden tes Persers recht imposantes Ge-
-chäsishaus non einer dichten Menge umlagert, die nur mii
+mußte sich das Gerücht von den Mordtaten Bereits verbreitet
+Cuxhaven, denn wir fanden des Persers recht imposantes Ge-chäsishaus
+von einer dichten Menge umlagert, die nur mit
 Mühe von ein paar Polizisten zurückgehalten werden konnte.
 
-Harum Saids Grundftüd zog fh bis zur nöchslen
+Harum Garde Grundstück zog Ah bis zur nächsten
 »Paraüetlgasse Hin. Hinter dem Geschäft3Haus lagen zwei
-Speicher, urid hinter diesen wieder eine hohe Mauer, die den
-Garten und das Wohnhäu3chen des Persers von den an-
-deren Gebäuden trennte.
+Speicher, und hinter diesen wieder eine hohe Mauer, die den
+Garten und das Wohnhäu3chen des Persers von den anderen
+Gebäuden trennte.
 
-Diejed Häuschen var ohne Zweifel eines der äliesten
+Bietet Häuschen war ohne Zweifel eines der ältesten
 der Stadt und mochte noch aus jenen Zeiten stammen, wo
-die Thar-MRüfte von räuberifhen Stämmen bewohnt wurde.
-«Es hatte durchaus den Charafter eines Heinen Kajtcl3,
+die Thar-Rüste von räuberischen Stämmen bewohnt wurde.
+»Es hatte durchaus den Charakter eines Seinen Kastells,
 bildete ein Quadrat mit flachem Dache, besaß in den
 »Außenmauern nur vergitterte Schießscharten und lediglich
-Line einzige Tür, die etwa drei Meter über dem Erdboden
-lag und deren eiserne Zugangstreppe oben in Zapfen dreh-
-Gar war und durch Ketten sih hochziehen ließ.
+Lire einzige Tür, die etwa drei Meter über dem Erdboden
+lag und deren eiserne Zugangstreppe oben in Zapfen drei-Gar
+war und durch Ketten sich hochziehen ließ.
 
-Jeht war die Treppe nach unten geflappt, und Britt
-erflärte uns, daß Saids Angestellter dort oben rechts von
+Jetzt war die Treppe nach unten geklappt, und Britt
+erklärte uns, daß Garde Angestellter dort oben rechts von
 der Tür durch eine der größeren Schießscharten eingedrungen
-jet, deren Gitter nur noch lofe in der Mauer gejellen hätte.
+jetzt, deren Gitter nur noch lose in der Mauer gesellen hätte.
 
 Die mit polierten Stahlplatten benagelte Tür Hatte
-Britt durch einen Schlosser bereiiß aufbrechen lassen. Es sei
-dies ein schweres Stück Arbeit gewesen, betonte er jezi noch-
-mals.
+Britt durch einen Schlosser bereits aufbrechen lassen. Es sei
+dies ein schweres Stück Arbeit gewesen, betonte er jetzt nochmals.
 
 Auf der Treppe oben standen zwei Polizisten. Sie
-fließen die Tür auf und ließen ung eintreten.
+fließen die Tür auf und ließen uns eintreten.
 
-Sch möchte mich bier nicht mit Der Beschreibung dieses
-merlwürdigen Hauses aufhalten, will nur erwähnen, daß
-der in der Mitte gelegene vieredige Hof den Jnnenräumen
+Ich möchte mich hier nicht mit Der Beschreibung dieses
+merkwürdigen Hauses aufhalten, will nur erwähnen, daß
+der in der Mitte gelegene viereckige Hof den Innenräumen
 durch hohe breite Fenster genügend Licht spendete und daß
 die Einrichtung der auf zwei Stocschtoerke verteilten sieben
 Gemächer überaus kostbar und vollständig orientalisch war.
 
-Unten im Erdgeschoß fanden wir den ermordeten Per-
-Der mitten in einem Zimmer liegen, das anscheinend sein
+Unten im Erdgeschoß fanden wir den ermordeten Perlten
+mitten in einem Zimmer liegen, das anscheinend sein
 <@pagebreak/>
-Privatkontor sein sollte. Hier- stand auch ber mächtige
-Geldschrank, hier gab es auf einem Elfenbeintifchchen ein
+Privatkontor sein sollte. Hier- stand auch der mächtige
+Geldschrank, hier gab es auf einem Elfenbeintischchen ein
 Telephon und als weiteres Zugeständnis an moderne
 Technik eine elektrische Stehlampe, die durch Akkumulatoren
 den nötigen Strom erhielt.
 
-Ekler Verwefungsgeruch der berecit3 skark aufgedunsenen
-Leiche des kleinen diden Perser3 erfüllte die Luft. Said
-war in der Nacht ermordet worden, mußte shon geschlafen
-haben, als er den Einbrechern zum Opfer fiel, denn er trua
-lediglih ein hemdartiges seidenes Nachtgewand. Ein einziger
-Stich ins Herz haite ihn niedergestreckt.
+Ekler Verwesungsgeruch der befreite stark aufgedunsenen
+Leiche des kleinen dicken Persers erfüllte die Luft. Said
+war in der Nacht ermordet worden, mußte schon geschlafen
+haben, als er den Einbrechern zum Opfer fiel, denn er trug
+lediglich ein hemdartiges seidenes Nachtgewand. Ein einziger
+Stich ins Herz hatte ihn niedergestreckt.
 
 &ch habe Hier nichts anrühren lassen, Mister Harst,«
 erklärte Britt nun, während mir noch an der Tür standen.
 
-»Und die beiden ermorheien Diener?« fragte Haraltı
+»Und die beiden erwarteten Diener?« fragte Zufällt
 kurz
 
 »Liegen drüben im östlichen Flügel in der Küche. Au
-sie haben mur je einen Messerstich erhalten.«
+sie haben nur je einen Messerstich erhalten.«
 
 »Sehr auffallend!« murmelte Harald. »Also keinerlei
 Spuren eines Kampfes?«
 
-»Nein, nirgend3!« erwiderie Britt bestimmt.
+»Nein, nirgends!« erwiderte Britt bestimmt.
 
-»Bleiben Sie und Scraut an ber Tür, bi3 ich meitne
-Untersuchung beendet habe,« meinte Harft und öffnete rafch
-beide Flügel des großen Fenster3, damit der Verwesungs-
-geruch Abzug hätte.
+»Bleiben Sie und Schraut an der Tür, bis ich nehme
+Untersuchung beendet habe,« meinte Harst und öffnete rasch
+beide Flügel des großen Fensters, damit der Verwesungsgeruch
+Abzug hätte.
 
-Wenn man bedenkt, daß die durchfchittlihe Tages-
-wärme jebt zu dieser Jahreszeit für Gagawar 30 Grad be-
-trägt, wird man begreifen, daß der Verwesungsprozeß be:
-teit3 begonnen Hatte —
+Wenn man bedenkt, daß die durchfchittlihe Tageswärme
+jetzt zu dieser Jahreszeit für Gagawar 30 Grad beträgt,
+wird man begreifen, daß der Verwesungsprozeß be:
+teile begonnen Hatte —
 
-Harald ging auh hier in gewohnt gründlicher Weise
+Harald ging auch hier in gewohnt gründlicher Weise
 vor. Eine volle Stunde arbeitete er mit all der Feinheit,
-die er fih im Laufe der Zeit auf Grund vielfacher Er-
-fahrungen angeeignet hatte. Britt mochte so manches, was
+die er sich im Laufe der Zeit auf Grund vielfacher Erfahrungen
+angeeignet hatte. Britt mochte so manches, was
 Harst tat, für überflüssig halten. -
 
 Dann begann die Besichtigung der anderen Räume
-und des ztvoeiten Tatortes, der Küche,
+und des einreihen Tatortes, der Küche,
 
 Auch die Leichen der beiden indischen Diener lagen
 <@pagebreak/>
-mitten in der großen Küche nebeneinander auf dem Stein-
-oden.
+mitten in der großen Küche nebeneinander auf dem Steinboden.
 
-»ZU dumml!!« sagte Harald ironisch. »Harum Said
-Und diese beiden Jnder sind in bewußtlosem Zustand erstochen
+»zu dumm!!!« sagte Harald ironisch. »Harum Said
+Und diese beiden Inder sind in bewußtlosem Zustand erstochen
 und dann so sein säuberlich auf den Rücken gelegt worden.
 Das sehen Sie doch ein, Mr. Britt?«
 
 Britt schwieg.
 
-»Ste zweifeln? — Nun, th behaupte, daß die Eine
-brecher sehr gute Bekannte Saids waren, die er auf ihr
+»Sie zweifeln? — Nun, Oh behaupte, daß die Eine
+Brecher sehr gute Bekannte Garde waren, die er auf ihr
 Klopfen hin in der vergangenen Nacht durch die Tür einließ
-und die er mit Tee bewoirtete. Bitte — dort steht noh ein
+und die er mit Tee bewohntere. Bitte — dort steht noch ein
 Teebrett mit drei Tassen. Die Tassen sind zwar ausgespült
 worden, aber — — nicht die Untertassen.«
 
 Er holte eine der Untertassen. »Hier sind Spuren eines
 weißlichen Pulvers, Britt. Lassen Sie das Pulver durch
-den Chemiker der Polizei prüfen, und der Herr wird fin-
-pen, daß es sich um ein gefchmadlofes Betäubungsmittel
-hanbelt.«
+den Chemiker der Polizei prüfen, und der Herr wird fingen,
+daß es sich um ein geschmackloses Betäubungsmittel
+handelt.«
 
 Britt meinte, es könne auch Zucker sein.
 
-»So?! Feder Zucker shimmert kristallisch. Dies Pulver
-ist wie Mehl. Es ift, vermute ich, ber weiße Blütenstaub
+»So?! Feder Zucker schimmert kristallisch. Dies Pulver
+ist wie Mehr. Es ist, vermute ich, der weiße Blütenstaub
 der Kulkissastaude.«
 
-»Ah — da3 könnte zutrefsen! Diesen Blütenstaub
+»Ah — das könnte zutreffen! Diesen Blütenstaub
 verwenden ja leider Gottes hier die Weiber, um Säuglinge
-rascher in Schlaf zu wiegen. Nehmen fie mal zuviel, fo
+rascher in Schlaf zu wiegen. Nehmen sie mal zuviel, so
 wacht so ein armes Würmchen überhaupt nicht mehr auf.«
 
-Harald stellte die Untertasse auf den Tisch zurüd.
+Harald stellte die Untertasse auf den Tisch zurück.
 
-»Die Diener dürften jene beiden Taffen benutzt haben,«
+»Die Diener dürften jene beiden Waffen benutzt haben,«
 sagte er und deutete auf das Fensterbrett. »Wenn Sie, Britt,
-meine Theorte für richtig halten, dann haben Sie auch gleich
+meine Theorie für richtig halten, dann haben Sie auch gleich
 die Erklärung für die auffallende Tatsache, daß Said und die
-Diener fih fo ohne jede Gegenwehr absHlachten ließen.«
+Diener sich so ohne jede Gegenwehr abschlachten ließen.«
 
-»Allerdings! Ste werden recht haben!«
+»Allerdings! Sie werden recht haben!«
 
 »Was die Mörder betrifft, Britt: es sind zwei gewesen,
-wie ich schon andeutete. Beide Jnder, Ratschputen !«
+wie ich schon andeutete. Beide Inder, Ratschputen!«
 
-»Sol — Hm — Ih vermute weit eher, daß es Euro-
+»So! — Hm — Ich vermute weit eher, daß es Europäer
 <@pagebreak/>
-päer waren, unb zwar bie beiden Schwinbler, bie hier als
+waren, und zwar die beiden Schwindler, die hier als
 Harst und Schraut auftraten.«
 
-»Glauben Sie, daß die beiden gute Bekannte Saids
-ivaren, fo gute Bekannte, daß er ihnen im Nachthemd die
+»Glauben Sie, daß die beiden gute Bekannte Garde
+waren, so gute Bekannte, daß er ihnen im Nachthemd die
 Tür öffnete?«
 
-»Man kann ja niht wissen! Bisher find die Schufte
-leider nicht ergriffen worden, und wir tappen Über ihre Per-
-sönlichkeiten daher noch völlig im Dunkeln umher, Mister
-Harft. Europäer waren’s! Das ist aber auh das einzige,
+»Man kann ja nicht wissen! Bisher sind die Schufte
+leider nicht ergriffen worden, und wir tappen Über ihre Persönlichkeiten
+daher noch völlig im Dunkeln umher, Mister
+Harst. Europäer waren’s! Das ist aber auch das einzige,
 mag —«
 
-»Ste irren, Britt. ch weiß denn boch noch etwas
-mehr »über bie beiden, da ih ja ihre Koffer durchsucht habe,
-— zum Beispiel, daß der eine Koffer fraglos da3 Sauerstoff-
-gebläse enthielt, mit dem Saids Tresor aufgefhhmolzen
+»Sie irren, Britt. ich weiß denn doch noch etwas
+mehr »über die beiden, da ich ja ihre Koffer durchsucht habe,
+— zum Beispiel, daß der eine Koffer fraglos das Sauerstoffgebläse
+enthielt, mit dem Garde Tresor aufgefhhmolzen
 wurde —
 
-Britt Tate. »Mein bester Mister Harst, da haben Sie
-ih ja soeben selbst widersprochen! Sie behaupteten, zwel
-Jnder seien die Täter, und nun geben Sie zu, daß die beiden
-Schwindler das Sauerstossgebläse mitgebracht haben!«
+Britt Tale. »Mein bester Mister Harst, da haben Sie
+ich ja soeben selbst widersprochen! Sie behaupteten, zwei
+Inder seien die Täter, und nun geben Sie zu, daß die beiden
+Schwindler das Sauerstoffgebläse mitgebracht haben!«
 
-Harald blicte den Polizeichef merkwürdig an. Der
-BE machte den einen Herrn denn voch verlegen, und
-er murmelte entjchuldigend: »Ich verstehe Sie wirklich nich!
+Harald blickte den Polizeichef merkwürdig an. Der
+he machte den einen Herrn denn noch verlegen, und
+er murmelte entschuldigend: »Ich verstehe Sie wirklich nicht!
 ganz, Mister Harst!«
 
-»Kommen Sie! Kehren wir in Said3 Kontor zurück.
-Jh werde Jhnen an dem Tresor einige besonders geartete
-Fingerspuren zeigen !«
+»Kommen Sie! Kehren wir in Garde Kontor zurück.
+Ich werde Ihnen an dem Tresor einige besonders geartete
+Fingerspuren zeigen!«
 
 Auch ich schaute mir diese Fingerabdrücke an.
 
 Und Britt erklärte sofort:
 
-»Handschuhe!! Die Schufte haben- mit Handshuhen
-gearbeitet, um keine verräterischen Fingerspißenmuster zu
-hinterlassen !«
+»Handschuhe!! Die Schufte haben- mit Handschuhen
+gearbeitet, um keine verräterischen Fingerspitzenmuster zu
+hinterlassen!«
 
 »Gewiß!« nickte Harald. »Und nun denken Sie mal
-an den Menschen, der uns in Moalis3 Stall besuchte, liebe1
+an den Menschen, der uns in Krallte Stall besuchte, liebe!
 Britt!«
 
-»Ah, — Sie sagten ja, der hätte ebenfall3 Handschuhe
+»Ah, — Sie sagten ja, der hätte ebenfalls Handschuhe
 getragen!«
+
 <@pagebreak/>
-
-»Ja — und zwar auch Zwirnhandschuhe! Diese Ab-
-brücke hier rühren ja auch von sschweißfseuchten Zwirnhand-
-schuhen her! Außerdem aber, Britt, — und dies ganz im
+»Ja — und zwar auch Zwirnhandschuhe! Diese Abdrücke
+hier rühren ja auch von schweißfeuchten Zwirnhandschuhen
+her! Außerdem aber, Britt, — und dies ganz im
 Vertrauen: der Dieb des Gagawar-Smaragds trug gleichfalls
-Zivirnhandschuhe !»
+Zwirnhandschuhe!«
 
-»Woher tvissen Sie das?«
+»Woher wissen Sie das?«
 
-»Nun — ich weiß cs eben!«
+»Nun — ich weiß es eben!«
 
-»om — und doh! — — das Sauerstosfgebläse, Mr.
-Harft!«
+»am — und doch! — — das Sauerstoffgebläse, Mr.
+Harst!«
 
 »Oh — das können die Mörder den beiden Schwindlern
-abgenommen haben, nachdem fie fih Hatten zeige.t lassen,
+abgenommen haben, nachdem sie sich Hatten zeige! lassen,
 wie man damit umgehen muß.«
 
 Der brave Polizeichef machte ein ungläubiges Gesicht.
 »Offen gestanden: das klingt mir zu gekünstelt,« meinte er
-bescheiden. »Trohdem will ih natürlich einer Autorität wie
-Jhnen gegenüber auf jede eigene Ansicht verzichten.«
+bescheiden. »Trotzdem will ich natürlich einer Autorität wie
+Ihnen gegenüber auf jede eigene Ansicht verzichten.«
 
-»Lieber Britt, tn diesem Falle tun Sie nur recht daran,
-denn — ih kenne die Mörder bereits!«
+»Lieber Britt, in diesem Falle tun Sie nur recht daran,
+denn — ich kenne die Mörder bereits!«
 
-Britt3s Kopf flog hoh. »Wie — Sie —«
+Drittes Kopf flog hoch. »Wie — Sie —«
 
 »ra — ich kenne sie! Aber noch nicht genügend. Das
-heißt alfo: ich will noh mehr Beweise sammeln! Und wenn
+heißt also: ich will noch mehr Beweise sammeln! Und wenn
 diese Beweise dann für das Gericht au3reichend sind, werden
-mir bie beiden verhaften. Bis dahin verlange ich von Jhnen
-tiessie Verschwiegenheit und — — den Verzicht auf alle
+mir die beiden verhaften. Bis dahin verlange ich von Ihnen
+tiefste Verschwiegenheit und — — den Verzicht auf alle
 weiteren Fragen.«
 
-Britt seufzte. »Wenn’3 sein muß! Meinctwegen! —
-Soll ih jeht Saids Angestellte vernehmen ?«
+Britt seufzte. »Wenn’s sein muß! Meinetwegen! —
+Soll ich jetzt Garde Angestellte vernehmen?«
 
-»Bittel Wir werden dann wohl erfahren, was der
+»Bitte! Wir werden dann wohl erfahren, was der
 Tresor enthielt.« —
 
-Zwei von Saids3 älteren Verkäufern sagten Überein-
-stimmend aus, daß ihr Herr auch JFuwvelenhändler gewesen
-sei und daß in dem Stahlschrank außer beträchtlichen Bar-
-summen auch zwei Kästen mit Edelsteinen und Perlen ein-
-geschlossen gewesen sein müßten.
+Zwei von Spitze älteren Verkäufern sagten Übereinstimmend
+aus, daß ihr Herr auch JFuwvelenhändler gewesen
+sei und daß in dem Stahlschrank außer beträchtlichen Dachkammer
+auch zwei Kästen mit Edelsteinen und Perlen eingeschlossen
+gewesen sein müßten.
 
-Hiermit waren die Nachforshungen an Ort und Stelle
-beendet. Saids Bruder, der im nahen Bikanir ein gleich
+Hiermit waren die Nachforschungen an Ort und Stelle
+beendet. Garde Bruder, der im nahen Bikanir ein gleich
 <@pagebreak/>
-artiges Geschäft betcieb, wurde telegraphish von dem Ge-
-schehenen benachrichiigt und traf Denn au bereli nachts
-in Gagawar mit der Kleinbahn ein. Seine Person spiel?
-bier weiter keine Rolle. Jmmerhin: ex fehle für Die Ent
-bedung der Mörder und für Die Wieberderbeifchaffung der
-Diz2besbeute die Hälfte des Weries des Gestohlenen als Be-
-sohßnung aus.
+artiges Geschäft betrieb, wurde telegraphisch von dem Geschehenen
+benachrichtigt und traf Denn zu bereit nachts
+in Gagawar mit der Kleinbahn ein. Seine Person spie!?
+hier weiter keine Rolle. Immerhin: er fehle für Die Gut
+Deckung der Mörder und für Die Wiederherbeischaffung der
+Diz2besbeute die Hälfte des Wertes des Gestohlenen als Be-sohßnung
+aus.
 
-Um halb neun abends waren ivir beide wieder im
- PValaſt der Rani. Meine Fragen, wer die Mörder ſeien,
-_ hatte Harald mit dem unklaren Say beantwortet: „Gefſähr-
-liche Schurken von verblüffender Dummheit und Frechheit 1“
+Um halb neun abends waren wir beide wieder im
+ Palast der Rani. Meine Fragen, wer die Mörder Seien,
+_ hatte Harald mit dem unklaren Sah beantwortet: »Gefſähr-liche
+Schurken von verblüffender Dummheit und Frechheit 1«
 
 <h2>3. Kapitel.</h2>
-<h3>Nänfe und Feinde.</h3>
+<h3>Ränke und Feinde.</h3>
 
-Kaum waren wir in unſeren Räumen in dem tempel-
-ariigen Nebengebäude angelangt, al3 ſich au< ſchon Six
-Reginald Marringow cinfand. i |
+Kaum waren wir in unseren Räumen in dem tempelartigen
+Nebengebäude angelangt, als Sich auch Schon Sir
+Reginald Marringow einfand. ich |
 
-„Die Fürſtin biitet Sie beide, ihr ſofort Bericht über
-den Mord zu erſtatten und dann au der Abendtafel teilzu-
-nehmen,“ exflärie er, nachdem er ung herzlich begrüßt hatte.
+»Die Fürstin bittet Sie beide, ihr Sofort Bericht über
+den Mord zu erstatten und dann zu der Abendtafel teilzunehmen,«
+erklärte er, nachdem er uns herzlich begrüßt hatte.
 
-Harald verriegelte die Tür unſeres Wohngemaches und
-wandte ſich mit einem ſo ernſten Geſicht an mich, daß ich:
-auf Erôffnungen ſchlinunſter Art gefaßt war.
+Harald verriegelte die Tür unseres Wohngemaches und
+wandte Sich mit einem So ernsten Gesicht an mich, daß ich:
+auf Eröffnungen schlimmster Art gefaßt war.
 
-„Schraut, durhſuche zunächſt die beiden anderen Räume:
-und verricgele au< dort die Türen. Wir beide, Sir, wollen;
-hier das Oberſie zu unterſt kehren; denn — — wir drei find:
-unſeres Lebens keine Minute mehr ſicher.“
+»Schraut, durchsuche zunächst die beiden anderen Räume:
+und verricgele auch dort die Türen. Wir beide, Sir, wollen;
+hier das Oberste zu unterst kehren; denn — — wir drei sind:
+unseres Lebens keine Minute mehr Sicher.«
 
-Und er ging und zog die Fenſtervochänge zu, ließ den
-cleklriſhen Fronlceuchier aufflammen und fügte hinzu: „Man.
-nate auch von draußen auf ung ſchießen. Möglich iſt hiex
-alles.“
+Und er ging und zog die Fenstervorhänge zu, ließ den
+elektrischen Fronlceuchier aufflammen und fügte hinzu: »Man.
+Monate auch von draußen auf uns Schießen. Möglich ist hier
+alles.«
+
 <@pagebreak/>
-
 Marringow stand wie betäubt da. Nicht aus Angst!
-Nein — sein Gefiht drüdte Iediglih ungeheure Spannung
-und ungläubiges Staunen aus. — !A
-Sal Jch betrat das zweite Zimmer. Es war dies eine Art
+Nein — sein Gesicht drückte lediglich ungeheure Spannung
+und ungläubiges Staunen aus. —!A
+Tal Ich betrat das zweite Zimmer. Es war dies eine Art
 Salon.
 
-Sch schaltete das Licht ein und wollte mich dem rechten
+Ich schaltete das Licht ein und wollte mich dem rechten
 der beiden Fenster nähern, um die Vorhänge zu schließen.
-Diejes Fenster stand weit offen. Gewarnt durch Harald?
-eindringliche Worte warf ich einen Blik auf die Büsche jen-
-seit3 des Parlweges. Es war bereits ziemlich dunkel, und
-fo tonnte ich die Geftalt dort in den Sträuchern nur uns
-beutlih erfennen, Die da aufgerichtet mit einer Masle vor
-dem Gesicht zwischen den Zweigen hindurchlugte.
+Dieses Fenster stand weit offen. Gewarnt durch Harald?
+eindringliche Worte warf ich einen Blick auf die Büsche jenseits
+des Parkweges. Es war bereits ziemlich dunkel, und
+so konnte ich die Gestalt dort in den Sträuchern nur uns
+deutlich erkennen, Die da aufgerichtet mit einer Maske vor
+dem Gesicht zwischen den Zweigen hindurch lugte.
 
 Rasch sprang ich zur Seite.
 
-Und — gerade no rash genug, um dem heimtüdischen
+Und — gerade noch rasch genug, um dem heimtückischen
 Pfeile zu entgehen, der nun lediglich durch den Stoff meines
-linken Aermels drang.
+linken Ärmels drang.
 
-Mein lauter Zuruf lote sofort Harald herbei. Sch
-drängte ihn zurüd.
+Mein lauter Zuruf lose sofort Harald herbei. Ich
+drängte ihn zurück.
 
 »Vorsicht, — sieh hier — — ein langer Pfeil mit
 glatter Stahlfpigel«
 
 Und drei Minuten später wußten wir, daß der Pfeil
-vergiftet war. Die Spite hatte einen bräunlichen glasur-
-artigen Ueberzug: Gift! —
+vergiftet war. Die Spitze hatte einen bräunlichen glasurartigen
+Überzug: Gift! —
 
-Sir Marringow wollte nun sogleih die Schloß wache
+Sir Marringow wollte nun sogleich die Schloß wache
 alarmieren.
 
-»Bleiben Sie!« meinte Harald. mit Naddrud. »Wir
-erledigen das beifer telephonijch.«
+»Bleiben Sie!« meinte Harald. mit Nachdruck. »Wir
+erledigen das bester telephonisch.«
 
-Auf dem Schreibtisch stand das Tclephon.
+Auf dem Schreibtisch stand das Telephon.
 
 Harst ließ sich mit der Rani verbinden.
 
 »Hoheit, gewisse Ereignisse lassen es ratsam erscheinen,
-den Palaft und den Part mit Solbaten zu befeten,« ertlärte
-er der Fürstin. »Geben »Sie außerdem Befehl, daß nur bie
-uns zugeteilten neuen Diener, die ja nah Sir Reginalds
-Ansicht durchaus zuverlässig sind, hier das Logierhaus be-
-treten dürfen und daß hier die Flure durh Posten bewacht
+den Palast und den Park mit Soldaten zu belesen,« erklärte
+er der Fürstin. »Geben »Sie außerdem Befehl, daß nur die
+uns zugeteilten neuen Diener, die ja nach Sir Reginalds
+Ansicht durchaus zuverlässig sind, hier das Logierhaus betreten
+dürfen und daß hier die Flure durch Posten bewacht
 <@pagebreak/>
-werden. Sch werde Jhnen, Hoheit, nachher die Gründe für
+werden. Ich werde Ihnen, Hoheit, nachher die Gründe für
 diese meine Vorschläge zur Sicherung des Palastes und der
-Nebengebäude auseinanderseyen. Sobald das Militär
+Nebengebäude auseinandersetzen. Sobald das Militär
 Schloß und Park schützt, werden wir uns bei Eurer Hoheit
 einfinden.« —
 
-Bereit3 nach einer Viertelstunde wimmelte es draußen
+Bereits nach einer Viertelstunde wimmelte es draußen
 von Soldaten.
 
 Dann erschien: die Rani in Begleitung des Obersten
-Sadi bir Schamsa, des Kommandeurs ihres Kamelreiter-
-korp3, bei un3 und verriet Durch ihr ausgeregtes Wesen nur
-zu deutlich, wie sehr sie sich wohl hauptsächlich um Sir Regi-
-nald gesorgt hatte.
+Sadi bir Schamsa, des Kommandeurs ihres Kamelreiterkorps,
+bei uns und verriet Durch ihr aufgeregtes Wesen nur
+zu deutlich, wie sehr sie sich wohl hauptsächlich um Sir Reginald
+gesorgt hatte.
 
-Etwa3 bleih und nur mit Mühe ihre zärtlihen, dem
-Geliebten geltenden Blicke hinter den langen Wimpern ver-
-schleiernd, saß sie im Sessel, während Harald nun über die
-Ermordung Saids sich äußerte.
+Etwas bleich und nur mit Mühe ihre zärtlicher, dem
+Geliebten geltenden Blicke hinter den langen Wimpern verschleiernd,
+saß sie im Sessel, während Harald nun über die
+Ermordung Garde sich äußerte.
 
 Und — wie entstellte Harst bei diesem Bericht die
-Wahrheit! Wie gut verbarg er seine geheimsten Gedanken !
-Die beiden Schwindler seien wahrscheinlich die Mörder, da-
-für spräche ja shon die Benußung des Sauerstossgebläses!
-Und diese beiden Verbrecher hielten sih fraglos noch in der
-Stadt verborgen und seien auch für den Pfeilshuß durch das3
-Fenster verantwortlih zu machen. —
+Wahrheit! Wie gut verbarg er seine geheimsten Gedanken!
+Die beiden Schwindler seien wahrscheinlich die Mörder, dafür
+spräche ja schon die Benutzung des Sauerstoffgebläses!
+Und diese beiden Verbrecher hielten sich fraglos noch in der
+Stadt verborgen und seien auch für den Pfeilschuß durch Vase
+Fenster verantwortlich zu machen. —
 
-Oberst Sadi bir Schamfa, der Sohn des Ministers, ein
-Ratfhpute von überfchlanter Figur und bartlosen, verschlosse-
-nen Zügen, erlaubte fi die Bemerkung, daß es vielleicht
-praktisch sci, wenn Bolizei und Militär sämtliche Häuser der
+Oberst Sadi bir Schamsa, der Sohn des Ministers, ein
+Ratschpute von überschlanker Figur und bartlosen, verschlossenen
+Zügen, erlaubte sich die Bemerkung, daß es vielleicht
+praktisch sei, wenn Polizei und Militär sämtliche Häuser der
 Stadt, insbesondere die Karawansereien (Gasthäuser) und
 die Hotels und Vergnügungsstätten durchsuchen würde.
 
-Harald nidte. »Vielleicht Hätte dag Erfolg, gewiß. Sch
-gebe jeboch zu bebenlen, daß die beiden Fremden fraglos
-eine Verkleidung tragen, die sie genügend fhüygt. — Wenn
+Harald nickte. »Vielleicht Hätte das Erfolg, gewiß. Ich
+gebe jedoch zu bedenken, daß die beiden Fremden fraglos
+eine Verkleidung tragen, die sie genügend stürzt. — Wenn
 Hoheit aber wünschen, daß —«
 
-»Nein, Mr. Harst,« erklärte die Rani hastig. »Weny
+»Nein, Mr. Harst,« erklärte die Rani hastig. »Wenn
 Sie sich von einer solchen Razzia nichts versprechen, tragen
 wir nur unnötig Unruhe in die Bevölkerung,«
-<@pagebreak/>
 
-»Hoheit verzeihen,« meinte der Oberst, der kau dreißig
-Jahre zählen mochle, »die Unruhe wird noch größer sein,
-wenn man gar nicht3 unternimmt. Die Stadt ist vol vou
-wilden Gerüchten, und wie stet3 benuyen unlautere Elemente
-diese Gelegenheit zur UAusheyung des Volkes gegen die
-Turopder, 3b wage kaum anzudeuten, was alles geredet
+<@pagebreak/>
+»Hoheit verzeihen,« meinte der Oberst, der lau dreißig
+Jahre zählen mochte, »die Unruhe wird noch größer sein,
+wenn man gar nichts unternimmt. Die Stadt ist vor von
+wilden Gerüchten, und wie stets benutzen unlautere Elemente
+diese Gelegenheit zur Musterung des Volkes gegen die
+Tarantel, 3b wage kaum anzudeuten, was alles geredet
 wird.«
 
-Leif Reginald Mhkrringow, dex am Schreibtisch lehnie, lachie
-eise auf.
+reif Reginald Abspringen, der am Schreibtisch lehnte, lachte
+Reise auf.
 
 »Sagen Sie es nur getrost, Herr Oberst! Mein Diener
-James hat mich bereits vorbereitct. »Ich« joll mit den Mör«
-dern im Bunde stehen! »Ich« fol fie Hier nah Gagawar be-
-stellt haben! Ih — —
+James hat mich bereits vorbereitet. »Ich« soll mit den Mördern
+im Bunde stehen! »Ich« soll sie Hier nach Gagawar bestellt
+haben! Ich — —
 
-Sadi bir Shamsa machte eine unenblicd berädhtliche
+Sadi bir Schamsa machte eine unendlich verächtliche
 Handbewegung.
 
-»Dies Geschwäh ift zu töricht, al3 daß es an Sie heran-
-ceichen tönnte, Sir Marringom!«
+»Dies Geschwätz ist zu töricht, als daß es an Sie heranreichen
+könnte, Sir Marringow!«
 
-Die Rani aber war noch bleicher geworden. hr Blid
-Kan unjtät im Zimmer umher, blieb schließlich auf Harald
-hafien.
+Die Rani aber war noch bleicher geworden. he Blick
+Man unstät im Zimmer umher, blieb schließlich auf Harald
+haften.
 
-»Jh möchte Sie und Shren. Freund allein fprecen,
-Mifter Harjt,« erklärte fie gepreßt. »Bitte — die beiden
+»Ich möchte Sie und Ihren. Freund allein sprechen,
+Mister Harst,« erklärte sie gepreßt. »Bitte — die beiden
 anderen Herren warten wohl im Flur.«
 
-Marringow und der Oberst entsernien fi.
+Marringow und der Oberst entfernten sich.
 
 Die Fürstin winkte.
 
-»Bitte, rücken Sie Jhre Sessel näher heran, meine
-Herren. — So — und nun will ih Shnen die ganze Not
-meines Herzens anvertrauen. Jch weiß, welcher Art die
-Gerüchte sind, die in der Stadt umlaufen, ih wußte es be-
-reits vor einer Stunde, als der Oberpriester des heiligen
-Brahmaneutempels vou Gagawar fih bei mir hatte melden
-lassen. Sie kennen den ungeheurew Einfluß der Priester auf
-unsere fanatishe Bevölkerung, Misler Harst Und diese.
-Priester find« —ihre Stimme jant immer mehr zum Flüstern
-hinab — »erbitterte Feinde al der Weißen, die in meinen
-Dienften stehen, besonders Neginalda Feinde, vielleicht des-
+»Bitte, rücken Sie Ihre Sessel näher heran, meine
+Herren. — So — und nun will ich Ihnen die ganze Not
+meines Herzens anvertrauen. Ich weiß, welcher Art die
+Gerüchte sind, die in der Stadt umlaufen, ich wußte es bereits
+vor einer Stunde, als der Oberpriester des heiligen
+Brahmanentempels von Gagawar sich bei mir hatte melden
+lassen. Sie kennen den ungeheurem Einfluß der Priester auf
+unsere fanatische Bevölkerung, Mister Harst Und diese.
+Priester sind« ihre Stimme jagt immer mehr zum Flüstern
+hinab — »erbitterte Feinde all der Weißen, die in meinen
+Diensten stehen, besonders Neginalda Feinde, vielleicht deshalb,
 <@pagebreak/>
-bald, weil er der Sohn jene3 fo überaus energischen Vize-
-fönig3 von Sndien ist, der bier ein strenges Regiment führte
-und der uns einbeimischen Fürsten die geringe Selbständig-
-feit noch mehr befchnitt. Man hält Reginald für einen ge-
-heimen Agenten Englands, der mit meiner Bewachung bes
-traut is. — Der Oberpriester erklärte mir, daß die Volks-
-stimmung in der Stadt fo erregt sei, daß er mir nur raten
-könne, Sie Marringow schHleunigst zu entlassen. Und wenn
-mir dies ein so ränkevoller Grei3 wie der Oberpriester rät,
-ist da3 so gut wie ein Befehl. Meine Beliebtheit hier in
-der Nesidenz ist seit Monaten ganz systematisch untergraben
-worden. Die öffentliche Forderung, ift folle mir einen Gat-
-ten wählen, wird immer gebieterifcher. Sch ahne nicht, wer
-hinter diefen dunklen Intrigen ftedt. Jedenfalls gehen sie
-nicht von dem beuchlerifchen Oberpriester aus. Er ist nur
-Werkzeug, ein sehr wiüfähriges Werkzeug, denn je unpopu-
-färer ich al3 Fürstin werde, desto mächtiger ivird er selbst.«
+weil er der Sohn jenes so überaus energischen Vizekönigs
+von Indien ist, der hier ein strenges Regiment führte
+und der uns einheimischen Fürsten die geringe Selbständigkeit
+noch mehr beschafft. Man hält Reginald für einen geheimen
+Agenten Englands, der mit meiner Bewachung des
+traut ist. — Der Oberpriester erklärte mir, daß die Volksstimmung
+in der Stadt so erregt sei, daß er mir nur raten
+könne, Sie Marringow schleunigst zu entlassen. Und wenn
+mir dies ein so ränkevoller Greis wie der Oberpriester rät,
+ist das so gut wie ein Befehl. Meine Beliebtheit hier in
+der Residenz ist seit Monaten ganz systematisch untergraben
+worden. Die öffentliche Forderung, ist solle mir einen Gatten
+wählen, wird immer gebieterischer. Ich ahne nicht, wer
+hinter diesen dunklen Intrigen steckt. Jedenfalls gehen sie
+nicht von dem heuchlerischen Oberpriester aus. Er ist nur
+Werkzeug, ein sehr wiüfähriges Werkzeug, denn je unpopulärer
+ich als Fürstin werde, desto mächtiger wird er selbst.«
 
-Sie hatte in steigender Erregung gesprochen. Jhre
+Sie hatte in steigender Erregung gesprochen. Ihre
 Hände zuckten im Schoße, und nun legte sie die Rechte leicht
 auf Haralds3 Arm.
 
@@ -2202,47 +2192,47 @@ Harald überlegte.
 
 Dann flog ein leises Lächeln über sein Gesicht.
 
-Er nahm die Hand der Fürstin, die noch immer wie be-
-schwörend auf seinem Arme lag, in bie seine.
+Er nahm die Hand der Fürstin, die noch immer wie beschwörend
+auf seinem Arme lag, in die seine.
 
-»Hoheit — lassen Sie Sir Marringow durch Britt ver-
-haften,« sagte er leise.
+»Hoheit — lassen Sie Sir Marringow durch Britt verhaften,«
+sagte er leise.
 
-Die Rani rak zusammen.
+Die Rani tat zusammen.
 
 »oh — nur zum Schein, Hoheit,« fügte Harald hinzu.
-»Wir müssen Zeit gewinnen. ZTelephonieren Sie von hier
+»Wir müssen Zeit gewinnen. Telephonieren Sie von hier
 aus an Britt. Er hat drei Europäer unter seinen Beamten.
-Die follen mit herkommen und Sir Reginald später bewachen.
-Die Verhaftung mvß draußen im Flur erfolgen, ohne daß
-Sie Sir Marringow noch geschen haben.«
+Die sollen mit herkommen und Sir Reginald später bewachen.
+Die Verhaftung muß draußen im Flur erfolgen, ohne daß
+Sie Sir Marringow noch gesehen haben.«
 
-»Rein — — nein!!« wehrte die Rant verzweifelt ab.
-»Das ist unmöglich! Ganz unmöglih! Das würde Regli-
-nald mir nie verzeihen !«
+»Rein — — nein!!« wehrte die Ran! verzweifelt ab.
+»Das ist unmöglich! Ganz unmöglich! Das würde Regli-nald
+mir nie verzeihen!«
+
 <@pagebreak/>
-
-»Glauben Sie, Hoheit?! Ich Ihäbe Ihn anders ein.
-Er ist Engländer, und die Engländer haben volles Ver-
-ständnis sür den diplomatischen Leitsay »Der Zwe heiligt
-die Mittel». — Jch verfpreche Jhnen außerdem, Fürstin, die
+»Glauben Sie, Hoheit?! Ich Stäbe Ihn anders ein.
+Er ist Engländer, und die Engländer haben volles Verständnis
+für den diplomatischen Leidtun »Der Zweck heiligt
+die Mittel«. — Ich verspreche Ihnen außerdem, Fürstin, die
 Mörder des Persers morgen vormittag zu — überführen.
-Der eine ist, um Jhnen dies schon jeyt anzuvertrauen, der
+Der eine ist, um Ihnen dies schon jetzt anzuvertrauen, der
 — Mann mit den Handschuhen, derselbe Mann, der den
-Smaragd stahl und der uns in Moali3 Hütte — umbringen
+Smaragd stahl und der uns in Moalis Hütte — umbringen
 lassen wollte. Haben Sie Vertrauen zu mir, Hoheit, volles
 Vertrauen! Es handelt sich hier weniger um einen vielleicht
-entstehenden Aufrubr, als um — drei Menschenleben. Sir
-Marringom, Schraut und ich werden den nächsten Morgen
+entstehenden Aufruhr, als um — drei Menschenleben. Sir
+Marringow, Schraut und ich werden den nächsten Morgen
 nicht mehr heraufdämmern sehen, wenn Sie nicht die Gefahr
-abwenden, indem Sie die Mörder täuschen !!«
+abwenden, indem Sie die Mörder täuschen!!«
 
-Die Rani lehnte jeht halb betäubt in ihrem Sessel.
+Die Rani lehnte jetzt halb betäubt in ihrem Sessel.
 
-JFhre Stimme war farblos und ohne Kraft, ala fie
+Ihre Stimme war farblos und ohne Kraft, aha sie
 nun erwiderte:
 
-»Ja — — ich vertraue Jhnen, obwohl ih eigentlich
+»Ja — — ich vertraue Ihnen, obwohl ich eigentlich
 nicht begreife, wie —«
 
 Harald deutete auf das Telephon.
@@ -2252,7 +2242,7 @@ Harald deutete auf das Telephon.
 Und eine Viertelstunde drauf hielt Britts Polizeiauto
 vor dem Logierhause.
 
-Wir Ingten durch die Vorhänge.
+Wir sagten durch die Vorhänge.
 
 Wir sahen, wie Reginald Marringow hoch erhobenen
 Hauptes zwischen zwei Polizeibeamten dem Kraftwagen zu
@@ -2260,266 +2250,264 @@ schritt. —
 
 Und wieder zehn Minuten später ließ die Rani auf
 Harald? Wunsch in den Straßen der Residenz durch Ausrufer
-verkünden, daß die gerichtliche Untersuchung gegen Neginald
-Marringow wegen Verdachts der Mitwisserschast der Er-
-mordung Harum Saids mit aller Siremge durchgesührt mers
-den nürde und daß er aus seiner Stellung al3 Privatsekretär
+verkünden, daß die gerichtliche Untersuchung gegen Reginald
+Marringow wegen Verdachts der Mitwisserschaft der Ermordung
+Harum Garde mit aller Strenge durchgeführt Vers
+den mürbe und daß er aus seiner Stellung als Privatsekretär
 endgültig entlassen sei. Die Fürstin selbst würde sich bis auf
-weiteres nah dem anferhalb der Stadt gelegenen Sommer-
-palast Banarülíi beachen. —
-<@pagebreak/>
+weiteres nach dem unterhalb der Stadt gelegenen Sommerpalast
+Banarülíi beachten. —
 
+<@pagebreak/>
 Tatsächlich erfolgte dann auch um Mitternacht bereits
-die Uebersiedlung der Rani und ihres Hosstaates nach der
-ı berühmten alten Ratfchputenburg Banarillll, bie In den Sa-
-Hra-Bergen auf einer Snfel des gleichnamigen Berafees fich
-erhebt und In ber heißen Sahreszeit häufig von ber Nanl
+die Übersiedlung der Rani und ihres Hofstaates nach der
+ı berühmten alten Ratschputenburg Banarülli, die In den Sahen-Bergen
+auf einer Tafel des gleichnamigen Seeufers sich
+erhebt und In der heißen Jahreszeit häufig von der Rani
 besucht wurde.
 
 <h2>4. Kapitel.</h2>
 
 <h3>Eine wilde Nacht.</h3>
 
-»So,« fogte Harald da zu Mister Britt. »So, mein
-lieber Britt, nun haben wir drei hier freie Hand in Gaga-
-war. Nun sollen Sie einmal mit Harald Harft und Max
+»So,« sagte Harald da zu Mister Britt. »So, mein
+lieber Britt, nun haben wir drei hier freie Hand in Gagawar.
+Nun sollen Sie einmal mit Harald Harst und Max
 Schraut auf Verbrecherjagd gehen.«
 
-Und Harald wars den Rest seiner Zigarette im Bogen
+Und Harald war’s den Rest seiner Zigarette im Bogen
 in den Garten hinab, fügte hinzu:
 
-»IH Habe der Nani versprochen, bis morgen früh die
-Mörder Harum Saids zu überführen. Wir haben also noch
-etwa zehn Stunden Zeit. E3 werben ereignisteihe Stunden
-werden, bester Britt, und wir wollen fie damit beginnen,
-daß wir nah Bilanir an den dortigen Befehlöhaber ber
+»Ich Habe der Rani versprochen, bis morgen früh die
+Mörder Harum Garde zu überführen. Wir haben also noch
+etwa zehn Stunden Zeit. Es werden ereignisreiche Stunden
+werden, bester Britt, und wir wollen sie damit beginnen,
+daß wir nach Bikanir an den dortigen Befehlshaber der
 englischen Truppen telephonieren.«
 
-»Ja — wozu da3?!« meinte Britt kopfshlittelnd.
+»Ja — wozu das?!« meinte Britt kopfschüttelnd.
 
-»Oh — Sie werden ja hören! Gehen wir in Jhr
-Arbeit3zimmer hinab.«
+»Oh — Sie werden ja hören! Gehen wir in Ihr
+Arbeitszimmer hinab.«
 
-Erst um halb ein Uhr morgens Hatte Harft Verbindung
-mit General Pelingham, der ung kein Fremder war.
+Erst um halb ein Uhr morgens Hatte Harst Verbindung
+mit General Pellingham, der uns kein Fremder war.
 
-Al3 Pellingham hörte, wer ihn angerufen hatte, schien
+Als Pellingham hörte, wer ihn angerufen hatte, schien
 er sehr erfreut zu sein, — wenigstens sprach Harald in die
 Muschel hinein:
 
-Oh — auch Ih freue mich aufrichttg, Sie auf diese
-Weise begrüßen zu dürfen, Exzellenz. Leider habe ih
-augenblicklich jedoch tvenig Zeit, Euerer Exzellenz eingehend
+Oh — auch Ich freue mich aufrichtig, Sie auf diese
+Weise begrüßen zu dürfen, Exzellenz. Leider habe ich
+augenblicklich jedoch wenig Zeit, Surren Exzellenz eingehend
 <@pagebreak/>
-ze erflären, weghalh ich hier in Gagawar weile. — Ich
+Je erklären, weshalb ich hier in Gagawar weile. — Ich
 Hätte nun eine große Bitte … Wenn Exzellenz die Garnison
 von Bikanir sofort zu einer Nachtübung alarmieren und
-diese Nachtübung dann in der Gegend von Banarülli ftatt«
-finden lassen wollten, wenn ferner morgens gegen zehn Uhr
-der Banarülli-See von den Truppen umstellt wäre, so wür-
-den Exzellenz mir meine hiesige Aufgabe wesentlich erleich-
-fern und außerdem der Rani von Gagawar einen großen
-Gesallen erweisen. Nur müßten die Bewegungen der
-Truppen möglichst geheim erfolgen und nicmand dürfte er-
-fahren, daß Ich der eigentliche Urheber dDiefer — Nechtübung
+diese Nachtübung dann in der Gegend von Banarülli stattfinden
+lassen wollten, wenn ferner morgens gegen zehn Uhr
+der Banarülli-See von den Truppen umstellt wäre, so würden
+Exzellenz mir meine hiesige Aufgabe wesentlich erleichtern
+und außerdem der Rani von Gagawar einen großen
+Gefallen erweisen. Nur müßten die Bewegungen der
+Truppen möglichst geheim erfolgen und niemand dürfte erfahren,
+daß Ich der eigentliche Urheber Stiefel — Nechtübung
 bin. Exzellenz können überzeugt sein, daß die Erklärung für
-diese meine etwas3 eigentümliche Bitte Euere Exzellenz nicht
+diese meine Staate eigentümliche Bitte Eurer Exzellenz nicht
 nur im Schlosse Banarülli vollauf befricdigen wird, sondern
-Euerer Erzellenz als dem englischen Berater der Fürstin
-bea it geben wird, der Gerechtigkeit zum Siege zu ver-
-elfen !«
+Surren Exzellenz als dem englischen Berater der Fürstin
+den ist geben wird, der Gerechtigkeit zum Siege zu verhelfen
+!«
 
 Was der General hierauf erwiderte, konnten Britt und
 ich natürlich nicht Hören.
 
 Harst horchte angestrengt und sagte dann:
 
-»Meinen Dank tverde ich Euerer Exzellenz also um zehn
-pormitiags in Banarülli abstatten. — Auf Wieder-
-ehen!«
+»Meinen Dank werde ich Surren Exzellenz also um zehn
+vormittags in Banarülli abstatten. — Auf Wiedersehen!«
 
 Und — er legte den Hörer weg, lachte uns vergnügt
 an und meinte:
 
 »So — nun zum zweiten Alt, lieber Britt. Bestellen
-»Ste« jetzt alle verfügbaren Polizeibeamten nach dem Palast.
-Die Leute sollen jedoch nicht Uniform tragen und sih vor
-vem westlichen Parktore, das am cinfamften liegt, versam-
-meln. Zivanzig Mann würden im übrigen genügen.«
+»Sie« jetzt alle verfügbaren Polizeibeamten nach dem Palast.
+Die Leute sollen jedoch nicht Uniform tragen und sich vor
+dem westlichen Parktore, das am einsamsten liegt, versammeln.
+Zwanzig Mann würden im übrigen genügen.«
 
 Britt seufzte. »Soll geschehen! — Aber wozu, wozu,
-Mister Harst ? !"«
+Mister Harst? !"«
 
-»Das werden Sie ja miterleben! Vorwärts, telepho-
-tieren Sie!«
+»Das werden Sie ja miterleben! Vorwärts, telepho-tieren
+Sie!«
 
-Britt tat’3.
+Britt tat’s.
 
-Und nachdem er seine Befehle In da3 Polizeigebäude
+Und nachdem er seine Befehle In das Polizeigebäude
 <@pagebreak/>
 so weitergegeben Hatte, verliehen wir drei sein behagliches
-Haus und wanderten durch die stille Siraße dem Palaste au.
+Haus und wanderten durch die stille Straße dem Palaste zu.
 
-Am Hanpteingang der Parfkmauer befand fi much
-jett die üblihe Wache. Wir konnten ohne weiteres vafs-
-Neren, da Harft jegt einen neuen Seleitbriej der Rani besaß,
+Am Haupteingang der Parkmauer befand sich auch
+jetzt die übliche Wache. Wir konnten ohne weiteres Aufschreien,
+da Harst jetzt einen neuen Geleitbrief der Rani besaß,
 der im Wortlaut dem uns gestohlenen genau entsprach.
 
-Wir umichritten den gewaltigen Bau und betraten das
+Wir umschritten den gewaltigen Bau und betraten das
 Logierhaus.
 
 Hier standen an den Eingängen Posten, und auch im
-Fluc und vor unsecen Fenstern patrouillierten Soldaten dei
-Leibwache auf unò ab.
+Flur und vor unseren Fenstern patrouillierten Soldaten bei
+Leibwache auf und ab.
 
-Jn unserem Wohngemach fanden wir James, den eng-
-lischen Kammerdiener des verhafteten fürftlicden PBrivatfetre:
-tärs unserer wartend vor. — James Orglay war ein älterer
+In unserem Wohngemach fanden wir James, den englischen
+Kammerdiener des verhafteten fürstlichen PBrivatfetre:
+Militärs unserer wartend vor. — James Orglay war ein älterer
 Mann von bescheidenem Wesen, ein früherer Schiffsstewacd,
-den das Schicfsal hierher in die Thar verschlagen hatte. Er
+den das Schicksal hierher in die Thar verschlagen hatte. Er
 hing mit größter Ergebenheit und Treue an seinem Herren,
-und e3 hatte Haralds ganzer Ueberredungsfunst bedurft, den
-Über die Verhaftung Sir Marringotv3 geradezu ergrimnmtien
-James leidlih zu beruhigen.
+und es hatte Haralds ganzer Überredungskunst bedurft, den
+Über die Verhaftung Sir Marringows geradezu ergrimnmtien
+James leidlich zu beruhigen.
 
-Dieser James rourde nun von Harald mit einem be-
-sonderen Auftrag betraut.
+Dieser James wurde nun von Harald mit einem besonderen
+Auftrag betraut.
 
-»Sehen Sie vie zufällig nah dem Ostflügel des Pa-
-lastes, wo der Minisier Schamsa wohnt, und stellen Sie fest,
-was die hier zurüdgelassene Dienerschaft des Minister3
-treibt. Wahrscheinlich werden. die Leute längst schlafen ge-
-gangen sein.«
+»Sehen Sie die zufällig nach dem Ostflügel des Palastes,
+wo der Minister Schamsa wohnt, und stellen Sie fest,
+was die hier zurüdgelassene Dienerschaft des Ministers
+treibt. Wahrscheinlich werden. die Leute längst schlafen gegangen
+sein.«
 
-Fames verdeugte sich stumm und vershwand.
+James verbeugte sich stumm und verschwand.
 
-Kaum tvar er hinaus, als Britt leise rief:
+Kaum war er hinaus, als Britt leise rief:
 
-»Zum Teufel, Mifter Harst, was3 fol nun dies wieder?«
+»Zum Teufel, Mister Harst, wage soll nun dies wieder?«
 
-»Warten Sie ad, Britt, und verfuhen Sie, fi das
-Staunen abzugemöhnen Es wird in diefer Nacht nodı
-vieles geschehen, was Sie zunächst nicht begreifen werben. —
-Bitte, rauchen Sie eine Zigaretle. Schraut sol uns aus
-unseren Koffern Taschenlampen und für jede drei Erfag
-datterien hervorkramen!« Cr lächelte wieder, und — e2
+»Warten Sie ad, Britt, und versuchen Sie, sich das
+Staunen abzugewöhnen Es wird in dieser Nacht noch
+vieles geschehen, was Sie zunächst nicht begreifen werden. —
+Bitte, rauchen Sie eine Zigarette. Schraut so! uns aus
+unseren Koffern Taschenlampen und für jede drei Erlag
+Batterien hervorkramen!« Er lächelte wieder, und — e?
 <@pagebreak/>
 war ein Siegerlächeln, das um seine Lippen spielte.
 
-Aber auch ich durste jezt lächeln.
+Aber auch ich durfte jetzt lächeln.
 
-Denn — mis war plöglich ein Licht aufgegangen! So-
-gar ein sehr helles Licht! Die Schleier waren gefallen: Ich
+Denn — mit war plötzlich ein Licht aufgegangen! Sogar
+ein sehr helles Licht! Die Schleier waren gefallen: Ich
 glaubte zu Willen, wer der Mann mit den Handschuhen
-warii —
+warst —
 
-James kehrte zurück, als ih gerade Harft und Britt die
+James kehrte zurück, als ich gerade Harst und Britt die
 Taschenlampen aushändigte.
 
-Jamcs meldete, daß er ih im Mondlicht recht vor-
-sichtig dem Ostslügel des Schlosses genähert und zu seinem
-Erstaunen beobachtet habe, wie ein paar Diener des Mi-
-nifters Maru bir Schamsa drei Lafikamele beladen hätten.
-Außerdem habe er aber auh bemerkt, daß zehn Kamelreiter
-des Korps de3 Obersien Sadi bir Schamsa dicht daneben
+James meldete, daß er ich im Mondlicht recht vorsichtig
+dem Ostflügel des Schlosses genähert und zu seinem
+Erstaunen beobachtet habe, wie ein paar Diener des Ministers
+Maru bir Schamsa drei Lastkamele beladen hätten.
+Außerdem habe er aber auch bemerkt, daß zehn Kamelreiter
+des Korps des Obersten Sadi bir Schamsa dicht daneben
 mit ihren Tieren gehalten hätten. Wahrscheinlich sollten diese
-zehn bie Lafttiere und ihre Führer nach Schloß Banarülli be-
-gleiten, und die Famellaften würden wohl aus dem Gepäd
+zehn die Lasttiere und ihre Führer nach Schloß Banarülli begleiten,
+und die Famellaften würden wohl aus dem Gepäck
 des Ministers bestehen.
 
-»Dante, James, — bin zufrieden,« meinte Harft fchein«-
+»Danke, James, — bin zufrieden,« meinte Harst Schein«-
 bar gleichmütig.
 
 Dann zog er seine Taschenuhr.
 
-»Halb zwei morgens. — Ob Jhre Leute shon am Wesk-
-tore sein können, Britt?«
+»Halb zwei morgens. — Ob Ihre Leute schon am Westufers
+sein können, Britt?«
 
 »Bestimmt sind sie da!«
 
 »Gut — dann könnten Sie nun, lieber Britt, in aller
-Stille Jhre Garde nah dem Ostflügel bringen. Beeilen Sie
-fih jedod. Und dort, wo die Kamele beladen werden, ver-
-teilen Sie Jhre Leute so, daß sie auf einen Pfiff von mir
+Stille Ihre Garde nach dem Ostflügel bringen. Beeilen Sie
+sich jedoch. Und dort, wo die Kamele beladen werden, verteilen
+Sie Ihre Leute so, daß sie auf einen Pfiff von mir
 zuspringen können!«
 
-Britt murmelte etwas Unverftändliches und verließ das
+Britt murmelte etwas Unverständliches und verließ das
 Zimmer.
 
-Harft wandte sich an James.
+Harst wandte sich an James.
 
-»Ste lieben Jhren Herrn, James. Deshalb sollen Sie
-nun auch mit uns kommen. Besißen Sie eine Whsfe«
+»Sie lieben Ihren Herrn, James. Deshalb sollen Sie
+nun auch mit uns kommen. Besitzen Sie eine Wisse«
 
-»Jawohl, Mister Harst. Jch trage stets eine Remington-
+»Jawohl, Mister Harst. Ich trage stets eine Remington-Repetierpistole
 <@pagebreak/>
-Repetierpisiole bei mir. Dies braune Gesindel hier ift un-
-zuverlässig.«
+bei mir. Dies braune Gesindel hier ist unzuverlässig.«
 
 »Allerdings! — Gehen wir!« —
 
 Klarer Mondschein lag über Schloß und Park.
 
-Auf balbounflen Wegen näherten wir uns dem Ost-
-flügel. Hier war ein Teil des Parkes für den Minister durch
-èine hohe Steinmauer abgetrennt worden. Die Pforte dieser
-Mauer ftand offen. Auch James hatte sie vorhin benugt.
+Auf halbdunklen Wegen näherten wir uns dem Ostflügel.
+Hier war ein Teil des Parkes für den Minister durch
+eine hohe Steinmauer abgetrennt worden. Die Pforte dieser
+Mauer stand offen. Auch James hatte sie vorhin benutzt.
 
-Eine schmale Allee lief auf den Hintereingang des Ost-
-flügel3 zu, und vor dieser Tür lagen rechts und links ein
-paar einftödige Wirtfhaftsgebäude.
+Eine schmale Allee lief auf den Hintereingang des Ostflügels
+zu, und vor dieser Tür lagen rechts und links ein
+paar einstöckige Wirtschaftsgebäude.
 
-Schon von weiten fahen wir, daß eine über dem Ein-
-gang angebrachte elektrishe Lampe brannte und eine Gruppe
+Schon von weiten sahen wir, daß eine über dem Eingang
+angebrachte elektrische Lampe brannte und eine Gruppe
 von Menschen und Tieren bestrahlte …
 
-»Wir überrafhen fie noch!« fagte Harald kühl.
-»Steden wir die Pistolen entsichert in die Jackentaschen 1»
+»Wir überraschen sie noch!« sagte Harald kühl.
+»Steten wir die Pistolen entsichert in die Jackentaschen 1«
 
 James lachte grimmig auf.
 
-»Mifter Harst, ih weiß zwar nicht, worum es sich hier
-handelt, aber wenn’3 zu einer Schießerei kommt, werde ih
-meinen E itt ease
+»Mister Harst, ich weiß zwar nicht, worum es sich hier
+handelt, aber wenn’s zu einer Schießerei kommt, werde ich
+meinen ritt Gase
 
-arald ritt rascher aus.
+Harald ritt rascher aus.
 
 Wir gingen zwischen den Wirtschaftsgebäuden hindurch.
 
-Wurden jezt bemerkt.«
+Wurden jetzt bemerkt.«
 
-Ein Juder kam uns entgegen. Es war eiu Offizier des
+Ein Inder kam uns entgegen. Es war ein Offizier des
 Kamelreiterkorps, der Adjutant des Obersten Sadi bir
 Schamsa …
 
-Al3 er ung erlannte, ftugte er.
+Als er uns erlangte, fragte er.
 
-Harft trat auf ihn zu.
+Harst trat auf ihn zu.
 
-»Was tun Sie bier?« fragte er kurz.
+»Was tun Sie hier?« fragte er kurz.
 
-Der lunge Ratschpute, ein wahrer Hüne, haute uns
-ei aeringshäßzig an.
+Der Lunge Ratschpute, ein wahrer Hüne, hauchte uns
+ei geringschätzig an.
 
-»Rehren Sie um!« befahl er baxshen Tones. »Sie
-haben hier nicht3 zu sucher!« Er sprach ein tadelloses Eng-
-lish, und wir wußten, daß ec mehrere Jahre in England
-gewesen. Er var der Sohn eines ratschputishen Großen,
+»Kehren Sie um!« befahl er barsten Tones. »Sie
+haben hier nichts zu suchen!« Er sprach ein tadelloses Englisch,
+und wir wußten, daß er mehrere Jahre in England
+gewesen. Er war der Sohn eines ratschputishen Großen,
 eines jener Herren über ungezählte Herden, die an den
 <@pagebreak/>
-Rändern der Thar weidelen.
+Rändern der Thar weideten.
 
 Harst zog das Schreiben der Rani hervor.
 
 „«Sie« haben mir zu gehorchen, Saba Dauli!« sagte er
-schehr gelassen. »Hier — der Jnhalt dieses Dokuments gibt
+Schein gelassen. »Hier — der Inhalt dieses Dokuments gibt
 mir unbeschränkte Vollmacht —«
 
-Da geschah etwas, das fo recht bewies, wie wenig die
+Da geschah etwas, das so recht bewies, wie wenig die
 Rani auf die Treue ihrer Truppen rechnen konnte.
 
 Der Offizier riß Harst das Schreiben aus der Hand
-und — fnüllte es zusammen, steckte es nachlässig zwischen die
+und — knüllte es zusammen, steckte es nachlässig zwischen die
 Knöpfe seines gelben Leinenuniformrockes.
 
 Dann rief er seinen Reitern, die neben ihren Tieren
@@ -2527,285 +2515,285 @@ standen, einen Befehl zu.
 
 Harst hatte schnell seine Pistole gezogen.
 
-Die Lage war fraglos sehr tritish für uns.
+Die Lage war fraglos sehr kritisch für uns.
 
-James — Schraut, — — pat ihn!« Und — wir
-beide sprangen zu, während Harst dem Jnder die Pistole
+James — Schraut, — — Rat ihn!« Und — wir
+beide sprangen zu, während Harst dem Inder die Pistole
 vor das Gesicht hielt.
 
-»Zurück!« brüllte er jeßt den zehn Heranftürmenden
-entgegen. »Zurüd! Jm Namen der Fürstin !!«
+»Zurück!« brüllte er jetzt den zehn Heranftürmenden
+entgegen. »Zurück! Im Namen der Fürstin!!«
 
-Und zu Saba Dauli gewandt: »Sch drücke ab, sobald
-Ihre Leute sih rühren! Verlassen Sie ih darauf!«
+Und zu Saba Dauli gewandt: »Ich drücke ab, sobald
+Ihre Leute sich rühren! Verlassen Sie ich darauf!«
 
-Ein Griff — und er hatte das Doklument der Rani
-wieder in der Hand, entfaltete es, ftrih e3 glatt und hielt
+Ein Griff — und er hatte das Postament der Rani
+wieder in der Hand, entfaltete es, strich es glatt und hielt
 es den Soldaten hin.
 
 »Hier — wer von Euch wagt es, diesem ausdrücklichen
 Befehl der Fürstin, die mir unbeschränkte Vollmacht in jeder
-Beziehung erteilt hat, zu troyen?! Mag einer von Euch,
-der lesen kann, den Jnhalt den anderen mitteilen!«
+Beziehung erteilt hat, zu drohen?! Mag einer von Euch,
+der lesen kann, den Inhalt den anderen mitteilen!«
 
-Ein fhrilles Gelächter des Offiziers machte jedoch diese
-mahnenden Worte Harsts völlig wirkungslo3, und ohne
-Zwoeifel hätten die Kamelreiter gegen uns ihre Waffen er-
-hoben, wenn nicht Britt jezt in langen Sägen herbeigeeilt
+Ein schrilles Gelächter des Offiziers machte jedoch diese
+mahnenden Worte Harsts völlig wirkungslos, und ohne
+Zwoeifel hätten die Kamelreiter gegen uns ihre Waffen erhoben,
+wenn nicht Britt jetzt in langen Sägen herbeigeeilt
 wäre, gefolgt von seinen Beamten, die nun zunächst Saba
-Dauli Handschellen aulegten und den Reitern die Karabiner
+Dauli Handschellen anlegten und den Reitern die Karabiner
 twegnahmen.
 
-Harft fchicte einen der Beamten zum Haupteingang bes
+Harst schicke einen der Beamten zum Haupteingang des
 <@pagebreak/>
-Palastes, und im Nu war da3 Schloß von der Leibwäche
+Palastes, und im Nu war das Schloß von der Leibwache
 völlig umzingelt, so daß niemand hinaus und herein konnte.
 
-Und ebenfo schnell spielten sich dann die folgenden
+Und ebenso schnell spielten sich dann die folgenden
 Szenen ab.
 
-Harald ließ die Tragkörbe der Lastkamele troß des
+Harald ließ die Tragkörbe der Lastkamele trotz des
 wütenden Widerspruchs des gefesselten Offiziers öffnen.
 
-- Und — — so brachte er unter Decken und Paketen zwci
-halberstickte, brutal eng zusammengeschnürte und -geknebelte
-Enropäer zum Vorschein, zivei Leute, die sich dann rafdı
-erholten, die ich bereits kannte: es waren unsere — Kon-
-kurrenten, die beiden Schwindler, der falsche Harst und det
-false Schraut! ! -
+- Und — — so brachte er unter Decken und Paketen zwei
+halberstickte, brutal eng zusammengeschnürte und geknebelte
+Europäer zum Vorschein, zwei Leute, die sich dann rasch
+erholten, die ich bereits kannte: es waren unsere — Konkurrenten,
+die beiden Schwindler, der falsche Harst und der
+falte Schraut!! -
 
-Und tveiter ließ, Harald sämtlihe Diener des Ministers
-und seines Gohne3, de3 Obersten, in einem Kellergelaß des
+Und weiter ließ, Harald sämtliche Diener des Ministers
+und seines Sohnes, des Obersten, in einem Kellergelaß des
 Ostflügels einsperren.
 
-All das war wie ein Film, wie ein unerhörter Scenfa:
+All das war wie ein Film, wie ein unerhörter Ecksofa:
 tionsfilm. dessen Bilder fic$ in wilder Hast abrollten.
 
-All das wurde jedoch so au3gesührt, daß keinerlei Kunde
-der nächtlichen Ereignisse nah Schloß Banarülli dringen
-fonnte. —
+All das wurde jedoch so ausgeführt, daß keinerlei Kunde
+der nächtlichen Ereignisse nach Schloß Banarülli dringen
+konnte. —
 
-Jch kam erst etwa3 zu Atem, al3 wir nun mit Britt unt
-fch3 Beamten- sämtliche Räume des Ostflügels zu durch-
-suchen begannen.
+Ich kam erst etwas zu Atem, als wir nun mit Britt und
+sehe Beamten- sämtliche Räume des Ostflügels zu durchsuchen
+begannen.
 
 In dem modern eingerichteten Herrenzimmer des
-Obersten Sadi bir Schamsa im èrsten Stock fanden wir in
-cinem Gewehrschranke allerlei.
+Obersten Sadi bir Schamsa im ersten Stock fanden wir in
+einem Gewehrschranke allerlei.
 
 Noch mehr fanden wir in dem Badezimmer nebenan
 unter den Steinplatten des Fußbodens, die mit ihren leeren
-Fugen cinem Harst kaum entgehen konnten.
+Fugen einem Harst kaum entgehen konnten.
 
-Und Schließlich gab und dann der Jnhalt eines Ge-
-heimfache3 des Schreibtisches des Ministers die Erkläruns
-für afl diese unfaßbaren Schandtaten! — -
+Und Schließlich gab und dann der Inhalt eines Ge-heimfache3
+des Schreibtisches des Ministers die Erklärung
+für all diese unfaßbarer Schandtaten! — -
 
-A113 wir endlich gegen fünf Uhr morgens in unse!
-Seim zurüdtchrien, wo die beiden Schwindler unter Be:
-wachung einiger Polizisten nun ihrer Vernehmung ent-
-acgensahen, qab e3 vielleicht die größte Ueberraschung.
+Alte wir endlich gegen fünf Uhr morgens in umso!
+Sein zurückkehrten, wo die beiden Schwindler unter he:
+Bewachung einiger Polizisten nun ihrer Vernehmung entgegensahen,
+gab es vielleicht die größte Überraschung.
+
 <@pagebreak/>
-
 Denn derjenige, der hier den Harald Harst gespielt
-hatte, erflärte jeßt mit ehrlichftem Gesicht:
+hatte, erklärte jetzt mit ehrlichsten Gesicht:
 
-Mister Harft, wir sind weder Betrüger noch Ver-
-brecher. Wir sind — Betrogene, schändlich Betrogene! Mein
-Name ist Ernest Ellerton, und ih bin von Beruf Detektiv.
-Mein Freund dort heißt Allan Godwin und is mein Teil-
-haber — Teilhaber der Detektivfirma Ellerton in Kalkutta!«
+Mister Harst, wir sind weder Betrüger noch Verbrecher.
+Wir sind — Betrogene, schändlich Betrogene! Mein
+Name ist Ernest Ellerton, und ich bin von Beruf Detektiv.
+Mein Freund dort heißt Allzu Schwur und ist mein Teilhaber
+— Teilhaber der Detektivfirma Ellerton in Kalkutta!«
 
-Der Heine Britt brüllte wütend: »Mensch, wo nehmen
-Sie nur die Frechheit her, sih hier für den hochangesehenen
+Der Seine Britt brüllte wütend: »Mensch, wo nehmen
+Sie nur die Frechheit her, sich hier für den hochangesehenen
 Ernest Ellerton auszugeben!! Das ist ja —«
 
-»— ja, da3 tit die Wahrheit,« fiel Harald ihm ins
-Wort. »Jett erkenne ih Sie, Mister Ellerton. Jch roußte
-längst, daß Sie einige Aehnlichkeit mit mir hatten.«
+»— ja, das ist die Wahrheit,« fiel Harald ihm ins
+Wort. »Jetzt erkenne ich Sie, Mister Ellerton. Ich mußte
+längst, daß Sie einige Ähnlichkeit mit mir hatten.«
 
-<h2>5. Kavitel.</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Die beiden Mörder,</h3>
 
-Eingebettet in die kahlen Sabras-Berge, träumt da im
-Sonnenglanz des Vormittags der grünumrankte Banarülli-
-See …
+Eingebettet in die kahlen Kobras-Berge, träumt da im
+Sonnenglanz des Vormittags der grünumrankte Banarülli-See
+…
 
-Wie ein Wunder erscheint dieses Bild des stillen Ges
-wässers dem Wanderer, der durch eine der Schluchten empor-
-fteigt, der noch fochen da3 öde Gemälde der endlosen Wüste
-ertragen mußte und nun plößlich zu seinen Füßen die wun-
-derbare Schönheit dieses Bergtales, dieses gleißenden Sce-
-spicgel3 wahrnimmt, au3 dessen Tiefen die kleine Felsen-
-Insel emporwächst, die von der stolzen uralten Ratschputen-
-burg gekrönt ift. —
+Wie ein Wunder erscheint dieses Bild des stillen Tee
+Wassers dem Wanderer, der durch eine der Schluchten emporsteigt,
+der noch Wochen das öde Gemälde der endlosen Wüste
+ertragen mußte und nun plötzlich zu seinen Füßen die wunderbare
+Schönheit dieses Bergtales, dieses gleißenden Sce-spicgel3
+wahrnimmt, aus dessen Tiefen die kleine Felseninsel
+emporwächst, die von der stolzen uralten Ratschputenburg
+gekrönt ist. —
 
 In dem großen Nrunksaale dieser Burg empfing die
-Nani von Gagawar vormittags zehn Uhr in feierlicher
-Weise Seine Exzellenz, den General Pellingham, Ober-
-lommandierenden sämtlicher anglo-indishen Streitkräfte von
+Rani von Gagawar vormittags zehn Uhr in feierlicher
+Weise Seine Exzellenz, den General Pellingham, Oberkommandierenden
+sämtlicher anglo-indishen Streitkräfte von
 Ratschputana.
-<@pagebreak/>
 
-Der Elfenbeinthron der Fürstin stand auf hohem Mar-
-morhoftament, und vergoldete Stufen führten hinab in den
+<@pagebreak/>
+Der Elfenbeinthron der Fürstin stand auf hohem Mar-morhoftament,
+und vergoldete Stufen führten hinab in den
 weiten Saal, der mit Beamten, Offizieren und Soldaten
-bis zum lehßten Plat gefüllt war.
+bis zum leisten Platz gefüllt war.
 
 Hinter dem Throne standen die Minister der Rani und
-ein-paar Hofbeamte.
+einträgt Hofbeamte.
 
-Soeben hatte die Fürftin den General begrüßt, soeben
-war für Seine Exzellenz ein Sessel. neben den Thron gerildt
-worden, al3 auch wir, soeben angelangt, den Saal betraten.
+Soeben hatte die Fürstin den General begrüßt, soeben
+war für Seine Exzellenz ein Sessel. neben den Thron gerückt
+worden, als auch wir, soeben angelangt, den Saal betraten.
 
-Wir beide — und unser Gefolge: Sir Reginald Mar-
-tingom, Britt, die beiden Kollegen aus Kalkutta und zehn
+Wir beide — und unser Gefolge: Sir Reginald Marringow,
+Britt, die beiden Kollegen aus Kalkutta und zehn
 reoligeibeamte, die einige in Decken gehüllte Gegenstände
-rugen.
+trugen.
 
 Unser Erscheinen rief allgemeine Erregung hervor.
-Besonder2 Reginald Marringow war der Mittelpunkt der
-Aufmerksamkeit, war da3 Ziel vieler seindseliger Blicke.
+Befanden? Reginald Marringow war der Mittelpunkt der
+Aufmerksamkeit, war das Ziel vieler feindseligen Blicke.
 
-Die Rani hatte fich erhoben. Auch ber General stand
-aufrecht da, leicht auf seinen Säbel geftübt. Er nidte Harald
+Die Rani hatte sich erhoben. Auch der General stand
+aufrecht da, leicht auf seinen Säbel getrübt. Er nickte Harald
 während die Fürstin bereits mit ruhiger Stimme Harst
 fragte:
 
 »Was haben Sie mir zu melden, Mister Harst? Sie
 versprachen mir, an dieser Stelle und zu dieser Stunde die
-Mörder Harum Said3 mir zu nennen und Sir Marringows
+Mörder Harum Garde mir zu nennen und Sir Marringows
 Schuldlosigkleit zu beweisen.«
 
-Harft verneigte fich, fehritt ein paar Stufen empor,
+Harst verneigte sich, schritt ein paar Stufen empor,
 machte eine halbe Wendung zum Saale hin und begann:
 
 »Zunächst melde ich Eurer Hoheit, daß der See von
-den Truppen Seiner Exzellenz eng umstellt ift und daß jeder
+den Truppen Seiner Exzellenz eng umstellt ist und daß jeder
 Versuch verräterischer Offiziere, Eure Hoheit gewaltsam zur
-Schonung der Schuldigen zu zwingen, zwecklos wäre. Eben-
-sowenig wird jemand entfliehen können, Der vielleicht in
+Schonung der Schuldigen zu zwingen, zwecklos wäre. Ebensowenig
+wird jemand entfliehen können, Der vielleicht in
 diesem Moment einsieht, daß das Spiel verloren ist.«
 
-Sch heobachtete den potennarbigen Minister Maru bir
+Ich beobachtete den potennarbigen Minister Maru bir
 Schamsa und seinen Sohn. Beider Gesichter waren erdfahl
-geivorden.
+geworden.
 
-»JH habe Eurer Hoheit außerdem zu melden, daß
+»Ah habe Eurer Hoheit außerdem zu melden, daß
 <@pagebreak/>
 nunmehr genügend Beweise gegen die Mörder des Persers
 und seiner Diener vorliegen. Die beiden Mörder sind
 gleichzeitig die Urheber der Giftmorbverfuche gegen Sir
-Marringow und auch diejenigen, die dur ein Gespinst von
-Lug und Trug zwei Detektive aus Kalkutta hierher Iodten,
+Marringow und auch diejenigen, die durch ein Gespinst von
+Lug und Trug zwei Detektive aus Kalkutta hierher Indien,
 um angeblich zwei europäische Verbrecher — Schraut und
-mich — entlarven zu helfen und um ferner einew angeblich
-nicht mehr zu öffnenden Tresor mit einem Sanerftoffgebläfe
+mich — entlarven zu helfen und um ferner einen angeblich
+nicht mehr zu öffnenden Tresor mit einem Sauerstoffgebläse
 aufzufhmelzen. Wenn diese beiden Detektive überhaupt eine
 Schuld trifft, dann ist es die, daß sie sich durch den älteren
-ber beiden Mörder dazu bestimmen ließen, in Gagumar fi
+der beiden Mörder dazu bestimmen ließen, in Gagawar sich
 für Harst und Schraut auszugeben. Aber auch das muß
-ihnen angesiht3 der teuflischen Niedertracht, mit der sie be-
-logen wurden, nachgesehen werden.«
+ihnen angesichts der teuflischen Niedertracht, mit der sie belogen
+wurden, nachgesehen werden.«
 
 Pause.
 
-Und jest war’s im Saale totenstill.
+Und jetzt war’s im Saale totenstill.
 
 »Der Mann mit den Handschuhen, Hoheit, ist sein
-anderer als Maru bir Schamsa, und der zweite Mörder ift
+anderer als Maru bir Schamsa, und der zweite Mörder ist
 sein Sohn!« —
 
 Britt wußte, was er zu tun hatte. Er und seine Leute
-waren fchon die Stufen emporgeeilt, hatten die beiden Ver:
-brecher gepadt, gefeffelt, zerrten fie in den Saal hinab.
+waren schon die Stufen emporgeeilt, hatten die beiden Der:
+Brecher gepackt, gefesselt, zerrten sie in den Saal hinab.
 
 Die Rani war langsam in den Thronsessel zurück -
-gesunken. Jhre entseßten Augen starrten den Mann mit
-wachsender Verachtung an, dem sie bisher ihr Vertrauen ges
+gesunken. Ihre entsetzten Augen starrten den Mann mit
+wachsender Verachtung an, dem sie bisher ihr Vertrauen sei
 schenkt Hatte.
 
-Harald sprach weiter: »Vielleicht hälîte ich Maru bir
-Schamsa niemal3 entlarven können, wenn er nicht, um seine
-gfeihfald mit Podennarben befäten Hande zu verhüllen, bei
+Harald sprach weiter: »Vielleicht Hälfte ich Maru bir
+Schamsa niemals entlarven können, wenn er nicht, um seine
+gfeihfald mit Pockennarben besäßen Hände zu verhüllen, bei
 seinen Schandtaten Handschuhe getragen haben würde.
-Diese Handschuhe gaben mir zu denfen. Sch sagte mir. daß
-Ler Unbekannte doh ohne Zweifel durch bie Handschuhe ein
-besonderes Kennzeichen seiner Hände verbergen wolle. Sn
-wurde ih auf den Minister anusmerksam, schon bei der Früh—
-stü3tafel. Als leidliher Beobachter mertie ih bamal3
-schon, daß der Oberst Sadi vir Schamsa Sir Marringow
+Diese Handschuhe gaben mir zu denken. Ich sagte mir. daß
+Wer Unbekannte doch ohne Zweifel durch die Handschuhe ein
+besonderes Kennzeichen seiner Hände verbergen wolle. in
+wurde ich auf den Minister anusmerksam, schon bei der Früh—stü3tafel.
+Als leichter Beobachter merkte ich damals
+schon, daß der Oberst Sadi wir Schamsa Sir Marringow
 <@pagebreak/>
-heimlich mit haßersüktten Blicken bedachte, während ex Eure
+heimlich mit haßerfüllten Blicken bedachte, während er Eure
 Hoheit offenbar mit den Augen eines leivensczaftlichen,
-aber ebenso rüdjichtslofen Verehrers zu mustern wagte.
-Dies und einige roeiieze Sefttlefungen ließen mich zu der
-Ueberzeugung gelangen, daß dex Minister und sein Sohn nicht
-nur Schraut uad mic Hatten gefangennehmen laffen, fon-
-dern daß fie es auh gewesen, die den Gagawar-Smaragd
+aber ebenso rücksichtslosen Verehrers zu mustern wagte.
+Dies und einige vorliege Sefttlefungen ließen mich zu der
+Überzeugung gelangen, daß der Minister und sein Sohn nicht
+nur Schraut und mich Hatten gefangennehmen Laffen, sondern
+daß sie es auch gewesen, die den Gagawar-Smaragd
 stahlen, während sie angeblich eine Wallfahrt als fromme
-Hindu unternahmen. Da mir die Sage, bie fih an den
-Smaragd Inüpft, befannt war, glaubte ich auch dag Motiv
-dieses Diebstahls durdschaut zu haben, und die späteren
+Hindu unternahmen. Da mir die Sage, die sich an den
+Smaragd Inüpft, bekannt war, glaubte ich auch das Motiv
+dieses Diebstahls durchschaut zu haben, und die späteren
 Ereignisse bestätigten dies.«
 
-Cr winkte den Polizeibearaten, die die verhüllten
-Gegenstände irugen.
+Er winkte den Polizeibearaten, die die verhüllten
+Gegenstände trugen.
 
-Die Hüllen fielen, und es kam fo folgendes zum Vaor-
-schein: ein Sauerstoffgebläse, eine Sauerftojflajche, die
-Schieblade eines Schrankes, in der graue Stossmasken, falsche
-«Bärte, Perücken und drei Paar weiße Zwirnhandschuhe
+Die Hüllen fielen, und es kam so folgendes zum Warenschein:
+ein Sauerstoffgebläse, eine Sauerftojflajche, die
+Schieblade eines Schrankes, in der graue Stoffmasken, falsche
+»Bärte, Perücken und drei Paar weiße Zwirnhandschuhe
 lagen. Ferner eine zweite Schieblade, die mit Papieren
-angefüllt war, und ein Pappkasten, der die aus dem Schah-
-zimmer gestohlenen Juwelen sowie die aus dem Tresor des
+angefüllt war, und ein Pappkasten, der die aus dem Schatzzimmer
+gestohlenen Juwelen sowie die aus dem Tresor des
 Persers geraubten Kostbarkeiten enthielt.
 
-Harald fuhr fort: »Al dies entdecte ih im Ostflügel
-des Schlosses in den Räumen der beiden Mörder. Jns3-
-besondere haben die Schriftfiücke mir reftlos Ausschluß über
+Harald fuhr fort: »Ah dies entdeckte ich im Ostflügel
+des Schlosses in den Räumen der beiden Mörder. Jns3-besondere
+haben die Schriftstücke mir restlos Ausschluß über
 die Pläne der beiden Verbrecher und Über die Motive ihrer
 Untaten gegeben. — Sowohl der Minister als sein Sohn
-haben al3 moderne Fader sih shon selt Jahren auf Spelu-
-lationen an der Börse in Bombay eingelassen. Sie erlitten
-Verluste, und um diese zu deden, vergriff Maru bir Schamsa
-fih an Staatögeldern. Dann wünschte der Oberst Schamsa
+haben als moderne Fader sich schon seit Jahren auf Spekulationen
+an der Börse in Bombay eingelassen. Sie erlitten
+Verluste, und um diese zu decken, vergriff Maru bir Schamsa
+sich an Staatsgeldern. Dann wünschte der Oberst Schamsa
 aber auch, Gatte der Rani zu werden, da er die Fürstin auf
-seine Art liebte und va er als Prinzgemahl leichter sein
-vershwendecishes Leven hätte fortfegen können. Der Vater
-siahl also den Smaragd, und ber Sohn wollte ihn wieder
-herbeischaffen und dadurch ein Anrecht auf Die Hand dei
+seine Art liebte und da er als Prinzgemahl leichter sein
+vershwendecishes Leben hätte fortfegen können. Der Vater
+stahl also den Smaragd, und der Sohn wollte ihn wieder
+herbeischaffen und dadurch ein Anrecht auf Die Hand bei
 <@pagebreak/>
-Fürstin befommen. Dem Vater wurde der Edelstein jedoch
-sojort nach dem Diebstahl von Sir Marringow entrissen, und
-jo sahen sich die beiden denn um die Frucht ihres fchlauen
+Fürstin bekommen. Dem Vater wurde der Edelstein jedoch
+sofort nach dem Diebstahl von Sir Marringow entrissen, und
+so sahen sich die beiden denn um die Frucht ihres schlauen
 Plans betrogen. Nun begannen sie ins2geheim gegen die
 Fürstin zu wühlen und zettelten eine Verschwörung an, die
 den Zweck hatte, die Fürstin zu zwingen, den Oberst zu ihrem
-Gemahl zu erwählen. Um jedoch ihre Griffe in die Siaats-
-fasse zu verheimlichen und das veruntreute Geld ersetze:
-zu können, beraubien sie nochmal3 das. Schabßzimmer uni
-ermordeten auch den Perser, dem sie bereits hohe Beträg!
-schuldeten. Für den Diebstahl bei Harum Saîd hatten si
-ih durch die Kalltuttaer Detektive das Sauerstoffgebläs:
-verschasft. — Alle weiteren Einzelheiten wird die gericht
-liche Untersuchung aufklären. — Bitte, Sir Marringow, —
+Gemahl zu erwählen. Um jedoch ihre Griffe in die Staatskasse
+zu verheimlichen und das veruntreute Geld ersetze:
+zu können, beraubten sie nochmals das. Schatzzimmer uns
+ermordeten auch den Perser, dem sie bereits hohe Betrag!
+schuldeten. Für den Diebstahl bei Harum Said hatten sich
+ich durch die Kalltuttaer Detektive das Sauerstoffgebläs:
+verschafft. — Alle weiteren Einzelheiten wird die gerichtliche
+Untersuchung aufklären. — Bitte, Sir Marringow, —
 van sprechen Sie!«
 
-Marringetw ersticg die Stufen des Thrones und über
+Marringetw erstieg die Stufen des Thrones und über
 reihte der Rani auf goldenem Teller den Gagawar
-Smaragd, sagte dazu mit einer Stimme, die bis in bi
-fernsien Winkel des Saales zu verstehen war:
+Smaragd, sagte dazu mit einer Stimme, die bis in Ei
+fernsten Winkel des Saales zu verstehen war:
 
-»Jch habe den heiligen Smaragd dem Diebe abge
-nommen! Jh übergebe ihn der Rani und bitte die Fürstin
+»Ich habe den heiligen Smaragd dem Diebe abgenommen!
+Ich übergebe ihn der Rani und bitte die Fürstin
 gleichzeitig um ihre Hand!««
 
 Und die Rani?
 
-Nun — sie tat das, was die klarste Antwort war: fi.
+Nun — sie tat das, was die klarste Antwort war: sich.
 küßte ihren Reginald! ««
 
 … Küßte ihn nochmals unter den lärmenden Bei
@@ -2816,9 +2804,9 @@ fall3rufen der Versammelten.
 Das ist die Geschichte des Gagawar-Smaragds.
 
 Vor zwei Wochen war in Berliner Zeitungen zu lesen
-daß das englishe Königspaar die Rani von Gagawar uni!
+daß das englische Königspaar die Rani von Gagawar uns!
 den Prinzgemahl in London feierlich empfangen habe.
 
 Nächster Band:
 
-Der Mana am Kreuze
+Der Mann am Kreuze
