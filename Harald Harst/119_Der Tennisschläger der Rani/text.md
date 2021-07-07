@@ -6,29 +6,29 @@
 
 <h3>Ein Karawanenüberfall.</h3>
 
-Dort in weiter Ferne, wo der zerkratzte Wüstenrand am
+Dort in weiter Ferne, wo der gelbfahle Wüstenrand am
 Horizont mit dem im Morgenzwielicht ebenfalls gelbfahlen
 Himmel in eins verschwamm, zog eine Kamelkarawane gemächlich
 dahin, ein seltsames Bild, da die Tiere bei dieser
-Beleuchtung kamt ihren veranlagten Führern in der Luft zu
+Beleuchtung samt ihren beturbanten Führern in der Luft zu
 schweben schienen.
 
 Wir, Harald Harst und ich, hatten soeben unser Frühstück
-beendet, und Harald war es gewesen, der mich auf die Last-larawane,
+beendet, und Harald war es gewesen, der mich auf die Lastkarawane,
 die da scheinbar in der Luft ihren Weg gen Süden
 nahm, aufmerksam gemacht hatte.
 
 Wir waren vor zwei Tagen hoch zu Kamel von Sirsa
-(an der Bahnlinie Lahore Rar aufgebrochen und nach
+(an der Bahnlinie Lahore-Alwar aufgebrochen und nach
 Südwesten in die indische Thar-Wüste, für uns ein längst
-bekanntes Gebiet, hineingeritten, um so nach« Gagawar, der
+bekanntes Gebiet, hineingeritten, um so nach Gagawar, der
 Residenz der Fürstin von Gagawar, zu gelangen. Wir hätten
-und diesen Wüstenritt freilich auch sparen können, da Gagawar
+uns diesen Wüstenritt freilich auch sparen können, da Gagawar
 durch eine Kleinbahn mit der die Thar durchschneidenden
 Hauptstrecke verbunden ist. Harald jedoch hatte genau so
-traf nach ein paar Tagen freien Nomabenlebeng
+große Lust nach ein paar Tagen freien Nomadenlebens
 <@pagebreak/>
-verspürt wie ich, und so fdAriekten wir denn unsere. Koffer als
+verspürt wie ich, und so schickten wir denn unsere Koffer als
 Frachtgut voraus, kauften in Sirsa zwei vorzügliche Reitdromedare
 und ein ebenso gutes ‘Lastkamel und kamen uns3
 nach dem langen Aufenthalt in Europa wie die Götter vor,
