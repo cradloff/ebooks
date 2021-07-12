@@ -1006,9 +1006,9 @@ Und er erteilte seinen Beamten rasch einige Befehle.
 
 <h3>Der Minister.</h3>
 
-Der Palast der Raum von -Ongalvar liegt auf einem
-Felsenhügel, der inmitten des künstlich angepflanzten uralten.
-Parkes den dürren Sandboden durchbricht. -
+Der Palast der Rani von Gagawar liegt auf einem
+Felsenhügel, der inmitten des künstlich angepflanzten uralten
+Parkes den dürren Sandboden durchbricht.
 
 Indische Paläste sind merkwürdigerweise zumeist von
 Europäern entworfen und erbaut worden. Die berühmtesten
@@ -1018,34 +1018,34 @@ umgewandelten Geschmack erfindungsreicher europäischer
 Architekten dar.
 
 Das Gagawar-Schloß stammt aus den Jahren 1791
-bi3&nbsp;1802. Das Baumaterial, weißer Marmor und roter
+bis 1802. Das Baumaterial, weißer Marmor und roter
 Granit, mußte aus Haidarabad bezogen werden. Kein
 Wunder, daß elf Jahre vergingen, bis diese Nachbildung des
-berühmten Tatst Mahal fertig wurde.
+berühmten Tatsch Mahal fertig wurde.
 
-Kein Wunder auch, daß Harald und ich staunend stehen.
-blieben, als wir am Ende einer Pinienalleœe nun den Palast
-im Mondlicht auf seinem Unterbau von Granit, umgeben von:
+Kein Wunder auch, daß Harald und ich staunend stehenblieben,
+als wir am Ende einer Pinienallee nun den Palast
+im Mondlicht auf seinem Unterbau von Granit, umgeben von
 <@pagebreak/>
-großen Rasenflächen, zweihundert Schritt vor uns erblicken,
+großen Rasenflächen, zweihundert Schritt vor uns erblickten,
 
-Der berühmte Tatst Mahal wird stets poetisch »Ein
+Der berühmte Tatsch Mahal wird stets poetisch »Ein
 Traum in Marmor« genannt.
 
 Diesen Palast von Gagawar hier inmitten der Thar,
-Inmitten oder Sandflächen und Felsmassen, — dieses Wunder
-hier, umrauscht! von künstlich betwäflerien und gedbüngten
+Inmitten öder Sandflächen und Felsmassen, — dieses Wunder
+hier, umrauscht von künstlich bewässerten und gedüngten
 Bäumen, die als Park wie eine grüne Barrikade die Wüste
 absperrten von diesem Platze erlesener Schönheit, — dieses
-indische Fürstenschloß verdiente den Namen, der legt u antik
-natürlich über meine Lippen schlüpfte:
+indische Fürstenschloß verdiente den Namen, der jetzt unwillkürlich
+über meine Lippen schlüpfte:
 
 »Stein gewordener Rausch!«
 
 Und der dicke Britt sagte neben mir:
 
 »Ja — das stimmt, Mr. Schraut. Das stimmt! Ich
-Hin, weiß Gott, kein Künstler! Aber immer, wenn ich den
+bin, weiß Gott, kein Künstler! Aber immer, wenn ich den
 Palast vor mir sehe, packt es mich doch wie Andacht.«
 
 »Die heute sehr überflüssig ist!« meinte Harald fast
@@ -1059,16 +1059,16 @@ Hauptweg entlang.
 
 Und krochen dann auf allen vieren weiter.
 
-Krochen bis zum Turme, trafen auf zwei- Beamte, die
+Krochen bis zum Turme, trafen auf zwei Beamte, die
 hier hinter der Brüstung kauerten.
 
 Sie erkannten uns.
 
 »Sahib Harst, — nichts Verdächtiges!« meldete der eine.
 
-Bir umrundeten den Turm.
+Wir umrundeten den Turm.
 
-Gelangten nun an die Rückfront bot Palastes, an die
+Gelangten nun an die Rückfront des Palastes, an die
 im Grünen halb versteckten Nebengebäude.
 
 Harst richtete sich auf.
@@ -1081,45 +1081,46 @@ auch angegeben, daß er im Schlosse, und zwar neben dem
 Turme, wohne.
 
 <@pagebreak/>
-Harald flüsterte: »Wenn Ich Dir auf die Schultern feige,
+Harald flüsterte: »Wenn Ich Dir auf die Schultern steige,
 mein Alter, kann ich in das Zimmer hineinschauen. Unsere
 Konkurrenten, behaupte ich, sind längst über alle Berge. Wir
 sind zu spät gekommen und brauchen uns kaum mehr im
 Dunkeln zu halten.«
 
-Er kletterte mir denn Milch tatsächlich auf den Nacken,
+Er kletterte mir denn auch tatsächlich auf den Nacken,
 stand dort eine ganze Weile, stieg wieder herab und raunte
 mir zu: »Sir Marringow flickt einen Tennisschläger aus.
-Eine sehr »harmlose Beschäftigung!“.
+Eine sehr harmlose Beschäftigung!«
 
 Das war alles.
 
 Und so, wie Harst das sagte, mußte ich annehmen, daß
-en arzingobod nächtliche Arbeit ihm nicht weiter aufgefallen
+Marringows nächtliche Arbeit ihm nicht weiter aufgefallen
+sei. —
 
 Wir kehrten zu Britt zurück.
 
-»Die Kerle sind schon entflohen, glaube ich,« sagte Hart
+»Die Kerle sind schon entflohen, glaube ich,« sagte Harst
 zu dem Dicken. »Wo Hat man sie hier untergebracht?«
 
-»Dort im sogenannten Wässerig-Tempel hinter dem Da:
-las!, Mr. Harst. Der Tempel ist lediglich ein Wohngebäude
+»Dort im sogenannten Basteia-Tempel hinter dem Palast,
+Mr. Harst. Der Tempel ist lediglich ein Wohngebäude
 im Tempelstil.«
 
 »Gut, sehen wir zu, ob die Herrschaften noch anwesend
 sind.« —
 
-Ich will mich jetzt kürzer fassen, denn die nächsten Geist
-sind für die handelnden Personen zu wenig Charakter
+Ich will mich jetzt kürzer fassen, denn die nächsten Geschehnisse
+sind für die handelnden Personen zu wenig charakteristisch.
 
 Die beiden Gauner — — waren nicht In ihren Zimmern.
 Aus dem einen Fenster hing ein Strick heraus bis
-in ein dichtes Gebüsch an der Hauswand. Und eine he:
-Besichtigung der Panzertür des- Schabßzimmer3 im Westturme
+in ein dichtes Gebüsch an der Hauswand. Und eine
+Besichtigung der Panzertür des Schatzzimmers im Westturme
 zeigte, daß an den Schlössern mit Nachschlüsseln gearbeitet
-worden war. Daraufhin wurde der erste Minister bei
+worden war. Daraufhin wurde der erste Minister der
 Rani, ein reinblütiger Ratschpute, herbeigeholt — in aller
-Stille. Er war es, der die Schließer zum Schabzimmter in
+Stille. Er war es, der die Schlüssel zum Schatzzimmer in
 Verwahrung hatte.
 
 Dieser Maru bir Schamsa, ein älterer Mann, wohnte
@@ -1129,24 +1130,23 @@ Gegenwart Harsts Befürchtung mitteilte, das Schatzzimmer
 könnte von den beiden Betrügern beraubt worden sein, schüttelte
 der hohe Würdenträger sehr energisch den Kopf.
 
-»Die Edelsteine und Perlen sind jetzt in zwei aus Eng
-(und bezogenen Panzerschränken untergebracht worden, Mr.
+»Die Edelsteine und Perlen sind jetzt in zwei aus England
+bezogenen Panzerschränken untergebracht worden, Mr.
 Harst,« wandte er sich an meinen Freund.
 
 »Das ist mir allerdings neu,« meinte Harald. »Trotzdem
 — auch Panzerschränke sind zu öffnen! Haben die beiden
-Schwindler sich an den Stahlspinden zu schaffen sei
-macht?«
+Schwindler sich an den Stahlspinden zu schaffen gemacht?«
 
-»Sie baten mich, ihnen etwas von den Softöarleiten
-zu zeigen. Sich tat ob -
+»Sie baten mich, ihnen etwas von den Kostbarkeiten
+zu zeigen. Ich tat es.«
 
-»Und die Schlüssel dazu?« -
+»Und die Schlüssel dazu?«
 
-»Habe ich hier, Mr. Harsts.«
+»Habe ich hier, Mr. Harst.«
 
 »Ah — fünf Schlüssel an einem goldenen Ringe! Drei
-zu erwog zwei zu den Panzerschränken, nicht wahr ©«
+zu den Türen, zwei zu den Panzerschränken, nicht wahr?«
 
 »So ist’s!«
 
@@ -1173,7 +1173,7 @@ Sofort wurden alle nötigen Maßnahmen getroffen, um
 der Flüchtlinge noch habhaft zu werden, die ja erst einen geringen
 Vorsprung gewonnen haben konnten.
 
-Das 8200 Mann starke Kamelreiterkorps der Rani wurde
+Das 800 Mann starke Kamelreiterkorps der Rani wurde
 alarmiert und in Trupps von vier Mann auf die Verfolgung
 <@pagebreak/>
 ausgeschickt, während die beiden Regimenter Infanterie die
@@ -1182,43 +1182,43 @@ Stadt völlig einkreisen mußten.
 Auch Sir Marringow, der Privatsekretär der Fürstin,
 war inzwischen von dem Geschehenen benachrichtigt worden,
 Hatte sich sehr bald im Polizeigebäude eingefunden und zeigte
-sich durch die Art, wie er sich bei uns entschuldigte, als Tadel:
-roter Gentleman. Er war Los, der für uns3 die von unseren
+sich durch die Art, wie er sich bei uns entschuldigte, als tadelloser
+Gentleman. Er war es, der für uns die von unseren
 beiden Konkurrenten bewohnten Räume in Ordnung bringen
-li:ß, damit wir wenigstens noch einige Stunden ruhen könnten,
-denn echt war ja vorauszusehen, daß die Rani uns schon
+ließ, damit wir wenigstens noch einige Stunden ruhen könnten,
+denn es war ja vorauszusehen, daß die Rani uns schon
 mittags empfangen wollte.
 
 Gegen vier Uhr morgens waren Wir dann endlich in
 dem angenehmen kühlen Wohngemach unseres neuen luxuriösen
 Heims wieder allein. Die Schwindler hatten ihr
 ganzes Gepäck im Stiche gelassen, und diese drei Koffer standen
-n2ch in unserem gemeinsamen Schlafzimmer und sollten.
-dort auf Haralds Wunsch rothaarig auch bleiben, weil er
-Hefte später genau durchsuchen wollte.
+noch in unserem gemeinsamen Schlafzimmer und sollten
+dort auf Haralds Wunsch vorläufig auch bleiben, weil er
+sie später genau durchsuchen wollte.
 
 Ich fand, daß Harald auffallend schweigsam war, als
 wir uns nun entkleideten. Schließlich fragte ich Ihn:
 
-»Worüber größerer Du eigentlich nach?«
+»Worüber grübelst Du eigentlich nach?«
 
-»Nebel das, tba3 Sir Marringow uns über den Gagawar-Smaragd
-erzählt hat, mein Alter, — über den Aber:
-glauben, der mit diesem Edelsteine verknüpft ist.«
+»Über das, was Sir Marringow uns über den Gagawar-Smaragd
+erzählt hat, mein Alter, — über den Aberglauben,
+der mit diesem Edelsteine verknüpft ist.«
 
-»Ich so!« Ich gähnte herzhaft. »Eine ziemlich alberne
+»Ach so!« Ich gähnte herzhaft. »Eine ziemlich alberne
 Geschichte, finde ich. Allerdings, hier in Indien, wo das
-Toll so fanatifih an alten Bräuchen und Überlieferungen
+Volk so fanatisch an alten Bräuchen und Überlieferungen
 festhält, mag derartiges von größerer Bedeutung sein.«
 
 »Ganz gewiß!« nickte Harald sehr ernst. »Vielleicht
 hilft uns dieser Aberglaube, den Mann herauszufinden, der
-die beiden Peiniger anwarb, damit sie den ersten Dicbstah!
+die beiden Betrüger anwarb, damit sie den ersten Diebstahl
 verschleiern halfen!«
 
 Ich war bereite ins Bett geschlüpft und auch zu müde,
 um noch über dieses »Verschleiern« weiter nachzudenken. Ich
-[lief ein, nachdem ich Harald kaum eine »Gute Nacht!«
+schlief ein, nachdem ich Harald kaum eine »Gute Nacht!«
 gerufen hatte.
 
 <@pagebreak/>
@@ -1230,23 +1230,23 @@ Halb elf Uhr vormittags.
 
 In unserem Wohngemach saßen wir beide am sauber
 und europäisch gedeckten Frühstückstisch. Zwei Inder bedienten
-jung, Männer mit undurchdringlichen Gesichtszügen,
+uns, Männer mit undurchdringlichen Gesichtszügen,
 mit Augen, die der Stolz des Ratschputenstammes kalt und
-gefühllos erscheinen ließ, jedenfalls seine angenehm. Zugabe
+gefühllos erscheinen ließ, jedenfalls keine angenehme Zugabe
 des im Übrigen idyllischen Quartiers,
 
-Harald stumm und in sich gelehrt, wie beim Zubettgehen.
-Und »seine« Augen unruhig und wie auf der Lauer.
+Harald stumm und in sich gekehrt, wie beim Zubettgehen.
+Und *seine* Augen unruhig und wie auf der Lauer.
 
-Ich schenkte den Tee ein. Ich strebte die Hand nach
-dem frischen Indischen Gebäck aus.
+Ich schenkte den Tee ein. Ich streckte die Hand nach
+dem frischen indischen Gebäck aus.
 
-Und — Haralds8 Hand wehrte ab.
+Und — Haralds Hand wehrte ab.
 
 »Warte!« —
 
 Mr. Britt Hatte uns vorläufig mit zwei Repetierpistolen
-nachgeholfen, denn unsere Clements waren uns ja
+ausgeholfen, denn unsere Clements waren uns ja
 von dem Karawanenführer abgenommen worden.
 
 Eine dieser neuen Pistolen kam nun plötzlich zum Vorschein.
@@ -1254,7 +1254,7 @@ Harst legte sie auf den Tisch. Sagte zu mir: »Stelle
 Dich an die Tür, mein Alter!«
 
 Ich begriff im Moment: hier war ein Anschlag gegen
-und vorbereitet worden — irgendwie!
+uns vorbereitet worden — irgendwie!
 
 Und als ich nun, die Brittsche Waffe schußfertig, an der
 Tür lehnte, waren die starren Gesichter der beiden Diener
@@ -1268,28 +1268,28 @@ Sie zögerten, tauschten einen langen Blick aus.
 Und — nahmen die Tassen, tranken.
 
 Ihre Hände zitterten dabei, und ein Teil der Flüssigkeit
-tropfte auf den kostbaren seidenen Hlmarteppich.
+tropfte auf den kostbaren seidenen Alwarteppich.
 
-Bebende Finger stellten die Tassen auf den Tisch zueilt,
+Bebende Finger stellten die Tassen auf den Tisch zurück.
 
 <@pagebreak/>
 Auch mein Herz jagte.
 
 Und Harsts scharfe Stimme fragte strengen Tones:
 
-»Wer hat Euch gedungen kf«
+»Wer hat Euch gedungen?«
 
-Wie die Bildsäulen standen die Diener in Ihren Schnee
-weißen Anzügen und weißen Turbanen da.
+Wie die Bildsäulen standen die Diener in Ihren schneeweißen
+Anzügen und weißen Turbanen da.
 
 Und — blieben stumm. —
 
-Dann im Flur des langen Gebäudes auf den Marmor
-Fliesen hallende fette Schritte.
+Dann im Flur des langen Gebäudes auf den Marmorfliesen
+hallende feste Schritte.
 
 Es klopfte. — Sir Marringow trat ein.
 
-Stuhle beim Anblick der Tassen. »Was geht hier
+Stutzte beim Anblick der Tassen. »Was geht hier
 vor?« fragte er sichtlich bestürzt. »Haben diese Leute
 irgendwie —«
 
@@ -1301,17 +1301,17 @@ fielen in Krämpfe.
 
 Sir Marringow eilte ins Schloß hinüber. In vier
 Minuten war er mit dem englischen Leibarzt der Rani zur
-Stelle. Doktor Burgen hatte eine Reiseapotheke mitgebracht.
+Stelle. Doktor Burson hatte eine Reiseapotheke mitgebracht.
 Wir flößten den bereite Bewußtlosen Gegenmittel ein.
-Burgen fuhr dann mit den Dienern im Auto ins englische
+Burson fuhr dann mit den Dienern im Auto ins englische
 Hospital. Harst warnte ihn noch: »Lassen Sie keinen Inder
 an die Betten der Kranken heran!« —
 
-rringoiv saß bleich im Sessel in unserem Wohngemach.
+Marringow saß bleich im Sessel in unserem Wohngemach.
 
-»Dieser infame Schurkenstreich muß. restlos aufgeklärt
-werden, Mister Harst! Restlos!« sagte er, sich mühsam aus
-Ruhe zwingend. »Die Fürstin ist schon des zweiten Diebstahle
+»Dieser infame Schurkenstreich muß restlos aufgeklärt
+werden, Mister Harst! Restlos!« sagte er, sich mühsam zur
+Ruhe zwingend. »Die Fürstin ist schon des zweiten Diebstahls
 wegen in großer Aufregung. Um zwölf Uhr wünscht
 sie Sie beide zu sprechen, ganz ohne Zeremoniell, meine Herren.
 Sie werden mich jetzt entschuldigen. Ich muß der
@@ -1321,73 +1321,73 @@ dritte seit einem halben Jahre!«
 Harald horchte auf. »Gegen wen richteten sich die beiden
 anderen?« fragte er gespannt.
 
-»Gegen mich,« entstände der Privatsekretär zögernd.
+»Gegen mich,« erklärte der Privatsekretär zögernd.
 <@pagebreak/>
-Ist möchte darüber nicht weiter sprechen, Dir. Harst.
-Halte mir jetzt einen eigenen englischen Koch, und die Naß
-hat befohlen, daß außerdem meine sämtlichen Speisen, bei
-sie mir serviert werden, geprüft werden müssen. — Er
-[huldigen Sie mich!«
+Ich möchte darüber nicht weiter sprechen, Mr. Harst. Ich
+Halte mir jetzt einen eigenen englischen Koch, und die Rani
+hat befohlen, daß außerdem meine sämtlichen Speisen, bevor
+sie mir serviert werden, geprüft werden müssen. — Entschuldigen
+Sie mich!«
 
-Sein schmales, vornehmes Gesicht war noch immer ne
-stört, und das Monokel im rechten Auge zeigte Streifen he
-von der Stirn herabrinnenden Schweißperlen. — Er ne
-beugte ich und ging.
+Sein schmales, vornehmes Gesicht war noch immer verstört,
+und das Monokel im rechten Auge zeigte Streifen der
+von der Stirn herabrinnenden Schweißperlen. — Er verbeugte
+sich und ging.
 
-Kaum hatte sich die Tür hinter ihm geschlossen, als
-auch schon Harald zuflüsterte: »Er selbst —1«
+Kaum hatte sich die Tür hinter ihm geschlossen, als ich
+auch schon Harald zuflüsterte: »Er selbst —!«
 
-»Niecmals!« erklärte Harald da ebenso Westturm
-»Wäre er sonst wohl mit Doktor Burgen so schnell hier wi
-der erschienen?! Ein paar Minuten noch, und des Doktor
-Gegenmittel harrten nicht mehr gewirkt. — Nein, mein Alte
+»Niemals!« erklärte Harald da ebenso bestimmt.
+»Wäre er sonst wohl mit Doktor Burson so schnell hier wieder
+erschienen?! Ein paar Minuten noch, und des Doktors
+Gegenmittel hätten nicht mehr gewirkt. — Nein, mein Alter,
 so einfach liegen die Dinge hier doch nicht!«
 
-Ich sann und sann. Der berühmte Gagawar-Anging
-hatte ein Chaos von Ereignissen heraufbeschworen, bete
-Zusammenhänge immer undurchsichtiger wurden. — an
-kaum fünf Minuten drauf ein Diener der Rani: wir möchte
+Ich sann und sann. Der berühmte Gagawar-Smaragd
+hatte ein Chaos von Ereignissen heraufbeschworen, deren
+Zusammenhänge immer undurchsichtiger wurden. — Und
+kaum fünf Minuten drauf ein Diener der Rani: wir möchten
 ihm folgen, die Fürstin wolle uns sofort sprechen. —
 
 So lernten wir nun den Palast von Gagawar von
-innen kennen. Staunten aufs neue, staunten noch mehr, all
+innen kennen. Staunten aufs neue, staunten noch mehr, als
 wir der jungen Rani gegenüberstanden.
 
 Nur Sir Marringow war noch in dem hellen Gemach
 anwesend. Nur er war Zeuge, wie die Fürstin, nachdem
-sie uns in herzlichsten Form begrüßt hatte, in steigender Er
-Regung über die Giftattentate sich äußerte und Harald gradezu
-flehentlich bat, diesem unheimlichen Treiben ein Tod
-zu machen. Jedoch weder die Rani selbst noch Sir Mann
-Marringow konnten uns auch nur die geringsten Anhaltis8pun
+sie uns in herzlichsten Form begrüßt hatte, in steigender Erregung
+über die Giftattentate sich äußerte und Harald geradezu
+flehentlich bat, diesem unheimlichen Treiben ein Ende
+zu machen. Jedoch weder die Rani selbst noch Sir Marringow
+konnten uns auch nur die geringsten Anhaltspunkte
 geben, wer etwa hier als Anstifter in Frage käme. —
 
-Um mich noch kurz über die Fürstin zu äußern: sie ro
-eine sehr liebreizende Frau, hatte eine Hautfarbe von matte
-Bronzeton und beherrschte sechs Sprachen. Eile gehörte
-seltenen indischen Herrscherinnen, die der europäischen Malta
+Um mich noch kurz über die Fürstin zu äußern: sie war
+eine sehr liebreizende Frau, hatte eine Hautfarbe von mattem
+Bronzeton und beherrschte sechs Sprachen. Sie gehörte zu
+jenen indischen Herrscherinnen, die der europäischen Kultur
 <@pagebreak/>
-und Wohnst in ihrem Lande gerade so viel Verbreitung ge«-
-stattet. als es mit der Eigenart der Bevölkerung in Einklang
+und Technik in ihrem Lande gerade so viel Verbreitung gestattet,
+als es mit der Eigenart der Bevölkerung in Einklang
 zu bringen ist. —
 
 Nach einer Stunde fand dann Frühstückstafel statt, an
 der auch der Minister Maru bir Schamsa, sein Sohn, der
 Kommandeur des fürstlichen Kamelreiterkorps, zwei weitere
-MWindenträger, Sir Marringow und Doktor Burgen teilnahmen.
+Würdenträger, Sir Marringow und Doktor Burson teilnahmen.
 Harst saß rechts von der Rani, ich den beiden
-gegenüber. Es ging jetzt ziemlich steif der, und das Gespräch
+gegenüber. Es ging jetzt ziemlich steif her, und das Gespräch
 drehte sich zumeist um Sport. Die Fürstin war leidenschaftliche
 Tennisspielerin und fragte ihren Privatsekretär so
-nebenbei, ob er ihren Tennisschläger repariert habe. Mark
+nebenbei, ob er ihren Tennisschläger repariert habe.
 Marringow bejahte. Es sei ja nur eine Kleinigkeit gewesen. —
-Die Unterhaltung wurde immer schleppenden. Doktor Burgen
+Die Unterhaltung wurde immer schleppender. Doktor Burson
 wurde plötzlich abgerufen. Den beiden Dienern ginge
 es schlechter.
 
 Da verstummte die Rani vollständig. Das Gespenst
 heimtückischer Giftmorde schwebte unsichtbar über der Tafel.
-— über Bunten kehrte schon nach zehn Minuten zurück und
+— Aber Burson kehrte schon nach zehn Minuten zurück und
 konnte der Fürstin melden, daß die Diener mit dem Leben
 davonkommen würden.
 
@@ -1398,66 +1398,66 @@ der Gefangenschaft vor!«
 
 Endlich war diese unerquickliche Mahlzeit zu Ende. Die
 Rani zog sich zurück, rief Harald noch zu: »Um sechs Uhr
-dann also, Mr. Harst, — auf meinem Tennisplapl«
+dann also, Mr. Harst, — auf meinem Tennisplatz!« —
 
-In Marringoivd Wohnung am Ürftturme tranken wir
-drei dann eine Waffe Malta und rauchten eine Verdauungds
-Zigarre. Die Räume des -Privatsekretärs waren geradezu
+In Marringows Wohnung am Westturme tranken wir
+drei dann eine Tasse Mokka und rauchten eine Verdauungszigarre.
+Die Räume des Privatsekretärs waren geradezu
 prunkvoll eingerichtet. Nun erfuhren wir auch, daß Sir
-Marringow der jüngste Sohn Lord Tes3pours, des ehemaligen
+Marringow der jüngste Sohn Lord Tespours, des ehemaligen
 Vizekönigs von Indien, war und bis vor neun
-Monaten noch als Major im 3. indischen Scüpenregiment
+Monaten noch als Major im 3. indischen Schützenregiment
 <@pagebreak/>
-gestanden hatte; mir merkte auch ich endlich, Daß fraglos die
-Lichte ihn bewogen hatte, in die Dienste der Kürftint zu dreien,
-der er viclleiczt ebenfalls nicht ganz gleichgültig war.
+gestanden hatte; nun merkte auch ich endlich, Daß fraglos die
+Liebe ihn bewogen hatte, in die Dienste der Fürstin zu treten,
+der er vielleicht ebenfalls nicht ganz gleichgültig war.
 
 Marringow zeigte uns dann auch den Tennisschläger
 der Rani. »Das Lederplättchen unten am Stiel hatte sich
-Gelöst,« erklärte er. »Da — ich Habe es mit Seinen goldenen
+Gelöst,« erklärte er. »Da — ich Habe es mit kleinen goldenen
 Stiften wieder befestigt!«
 
 Harald führte mit dem Schläger ein paar Lufthiebe aus,
-meinte: »Mix wäre er zu leicht.«
+meinte: »Mir wäre er zu leicht.«
 
-»Oh — für Sie habe ich eine Auswahl shrwoërerer Art,
+»Oh — für Sie habe ich eine Auswahl schwererer Art,
 Mister Harst. Die Rani wird heute nicht selbst spielen, da
-wir heute knieten einen der zahllosen Hindu-Feiertage habe!.
+wir heute wieder einen der zahllosen Hindu-Feiertage haben.
 Wenn es Ihnen recht ist, spiele ich gegen Sie beide.« —
 
 Und nachmittags sechs Uhr kam dann die Entscheidung!
 Sie kam so überraschend für mich, daß ich durch Haralds
-Austreten geradezu erschreckt wurde.
+Auftreten geradezu erschreckt wurde.
 
 Man stelle sich vor: ein tadelloser Tennisplatz, als
-Hintergrund den tempelartigen Bau des Hauses, in dem wir.
+Hintergrund den tempelartigen Bau des Hauses, in dem wir
 wohnten. Und die Rani im kostbaren Sessel sitzend, überschattet
 von zwei Schirmen, die von Dienern gehalten
 wurden.
 
-Und In einer Spielpause, als wir drei Herren am Ne!
+Und In einer Spielpause, als wir drei Herren am Netz
 standen und Sir Marringow, der den Tennisschläger der
-Fürstin brauchte, mit zwei Bällen jonglierte, — — da 308«
+Fürstin benutzte, mit zwei Bällen jonglierte, — — da zog
 mein Freund Harald plötzlich die Pistole aus der Tasche und
 hielt sie dem Privatsekretär dicht vor das Gesicht.
 
-Die Rani schrie auf. Marringows3 Monokel rollte auf
-den festen Zementboden und zerklirrte an dem Nebpfoiten.
+Die Rani schrie auf. Marringows Monokel rollte auf
+den festen Zementboden und zerklirrte an dem Netzpfosten.
 
-Und — ganz leise so te Harald nun:
+Und — ganz leise sagte Harald nun:
 
 »Sir Marringow, Sie haben in der verflossenen Nacht
-unten in den Handgriff des Schlägers der Rani ein großes:
-Loch gebohrt. Ich habe Sie durch das Fenster beobachtet:
-Und in dieser nun wieder verschlossenen Höhlung des Geißel
+unten in den Handgriff des Schlägers der Rani ein großes
+Loch gebohrt. Ich habe Sie durch das Fenster beobachtet!
+Und in dieser nun wieder verschlossenen Höhlung des Griffes
 steckt der — berühmte Gagawar-Smaragd!«
 
 Die Fürstin kam schon herbeigeeilt.
 
-Und ganz laut — für die Diener verrechnet — rief Harald
+Und ganz laut — für die Diener berechnet — rief Harald
 <@pagebreak/>
 ihr entgegen: »Es sollte mir leid tun, wenn ich Eurer
-Hoheit erschreckt Hätte. Ich wollte Sir Maxrringow nur dieses
+Hoheit erschreckt Hätte. Ich wollte Sir Marringow nur dieses
 neue System von Mehrladepistole zeigen!«
 
 Marringow war sehr bleich geworden.
@@ -1466,43 +1466,43 @@ Merkwürdigerweise tauschte er nun aber mit der Fürstin
 einen Blick aus, dessen Bedeutung mir völlig unklar blieb.
 
 Harald lächelte. Ein liebenswürdiges, gütiges Lächeln
-war’s. Und sagte: »Hoheit, der Smaragd ist nun gefunden,«
+war’s. Und sagte: »Hoheit, der Smaragd ist nun gefunden.«
 Er sprach deutsch, damit die Diener ihn nicht verstünden.
 »Ich werde jedoch vergessen, daß ich ihn gefunden habe,
 wenn — Hoheit es wünschten!«
 
 Meine ungläubig erstaunten Augen wanderten von
-einem Gesicht zum andern. Ich war ja der einzige von und
-hier Ei Ne! Versammelten, der noch immer nicht alles
+einem Gesicht zum andern. Ich war ja der einzige von uns
+hier am Netz Versammelten, der noch immer nicht alles
 begriff.
 
 Der Rani wie mit Blut übergossenes Gesicht senkte sich
 in holder Verwirrung.
 
-»Dann — Berg?Seen Sie es, Mister Harst,« bat sie leise.
+»Dann — vergessen Sie es, Mister Harst,« bat sie leise.
 
 Und Harald verneigte sich.
 
 »Wie Hoheit befehlen! Immerhin, wir vier könnten
 die Angelegenheit einmal genau durchsprechen. Denn —
 der Smaragd ist ja nicht das einzige, was gestohlen wurde.«
-Seine Stimme Hang ernst und nachdenklich. »Außerdem —
-die Giftattentate müssen doch endlich aufhören! — Echten
+Seine Stimme klang ernst und nachdenklich. »Außerdem —
+die Giftattentate müssen doch endlich aufhören! — Schicken
 Hoheit bitte die Diener weg. Hier können wir nicht belauscht
-werden.« —«
+werden.« —
 
 Und dann erfuhr nun auch ich die geheimnisvollen und
 zarten Zusammenhänge der seltsamen Geschehnisse. Auch
-Du, lieber Leser, wirst jetzt eingeweiht werden. Und zu,
-verehrte Leserin, bereite Du innerlich vor auf — eine indische
+Du, lieber Leser, wirst jetzt eingeweiht werden. Und Du,
+verehrte Leserin, bereite Dich innerlich vor auf — eine indische
 — Liebesgeschichte!
 
-Schlagt um! Der zweite Alt beginnt; »Der Mann
-mit den Handschuen.«
+Schlagt um! Der zweite Akt beginnt: *Der Mann
+mit den Handschuhen.*
 
 <@pagebreak 36/>
 
-<h1>DerMannmitdenhandichuhen</h1>
+<h1>Der Mann mit den Handschuhen</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -1705,7 +1705,7 @@ vom Kopf, keuchte hervor:
 
 »Hoheit, ein neues Verbrechen! Ich mußte es sofort
 melden. — Hoheit, der Perser Harun Said, der reichste
-Mann Gagamarg, ist soeben in seinem Hause ermordet aufgefunden
+Mann Gagawars, ist soeben in seinem Hause ermordet aufgefunden
 worden. Er hatte sich Heute noch nicht in seinem
 Geschäftsgebäude sehen lassen, und ein Angestellter ist dann
 durch ein Fenster in das verschlossene Häuschen eingedrungen
@@ -2628,7 +2628,7 @@ wahrnimmt, aus dessen Tiefen die kleine Felseninsel
 emporwächst, die von der stolzen uralten Ratschputenburg
 gekrönt ist. —
 
-In dem großen Nrunksaale dieser Burg empfing die
+In dem großen Prunksaale dieser Burg empfing die
 Rani von Gagawar vormittags zehn Uhr in feierlicher
 Weise Seine Exzellenz, den General Pellingham, Oberkommandierenden
 sämtlicher anglo-indishen Streitkräfte von
