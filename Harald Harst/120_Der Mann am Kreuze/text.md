@@ -1033,7 +1033,7 @@ Lippen des Mannes bewegen sich.
 
 Dann treibt ein über die Tempeldächer streichender
 Windstoß die Wasserstrahlen zur Seite. Und in dieser sekundenlangen
-Stille Nun wir ein deutliches Wort:
+Stille vernehmen wir ein deutliches Wort:
 
 > Harst …!
 
@@ -1046,12 +1046,13 @@ Manga Dari nimmt ihm den Zettel ab.
 Haralds Stimme an meinem Ohr:
 
 »Es ist die Ankündigung der Begnadigung Ismails.«
-Noch immer bin ich nicht ganz im Bilde. Wein Hirn
+
+Noch immer bin ich nicht ganz im Bilde. Mein Hirn
 findet nicht den Weg zum Kern der dunklen Geschehnisse —
 des Mordes auf der Straße nach dem Dorfe Makilanga. —
 
 Seine Erhabenheit flüstert mit dem jungen Brahmanen,
-erhebt sich und geht in eins der steinernen Gebäude, die den -
+erhebt sich und geht in eins der steinernen Gebäude, die den
 Hof einschließen.
 
 Der junge Priester verschwindet im Tunnel. —
@@ -1060,7 +1061,7 @@ Harald raunt mir zu: »Der Stoßzahn — — der
 Stoßzahn!! Er ist zu blank, mein Alter! Er ist wie ein
 Auge, daß man im Hinterkopf hat.«
 
-»Was soll daß?« — Ich merke die leise Unruhe in
+»Was soll das?« — Ich merke die leise Unruhe in
 Harsts Stimme.
 
 Eine Unruhe, die ansteckend Wirkt, die tausend Gefahren
@@ -1075,28 +1076,28 @@ der Springbrunnen plätschert.
 »Gehen wir,« meint Harald zögernd.
 
 Und schiebt sich durch die Büsche, bleibt neben einer
-der kleinen indischen Tannen knien, deren knallgelbe Harz-nusSscheidungen
-diesem Baume den Namen Schwefelsäure
+der kleinen indischen Tannen knien, deren knallgelbe
+Harzausscheidungen diesem Baume den Namen Schwefeltanne
 eingetragen haben. Und er bricht ein paar Stücke des
 gelben Harzes ab und schiebt es in die Tasche.
 
 »Wozu?« frage ich.
 
-»Vielleicht —!« flüstert er. Nur das eine Vielleicht?
+»Vielleicht —!« flüstert er. Nur das eine Vielleicht!
 
 Der Tunnel nimmt uns auf.
 
 Und über diesem Tunnel wölben sich die phantastischen
 Stockwerke der Rückseite des Indra-Tempels empor, in
-denen Seine Erhabenheit die hohen Würdenträger zu eingefangen
+denen Seine Erhabenheit die hohen Würdenträger zu empfangen
 pflegt.
 
 Auf leisen Sohlen huschen wir durch den schmalen
 <@pagebreak/>
-Gang, nähern uns der helleren Stelle, wo der Käfig Besitzers
-eingebaut ist.
+Gang, nähern uns der helleren Stelle, wo der Käfig des
+Tigers eingebaut ist.
 
-Und fraßen hier.
+Und stutzen hier.
 
 Denn — die breite Schiebetür in der Mitte des Gitters
 ist offen — ist hochgezogen.
@@ -1113,8 +1114,8 @@ schnellt vorwärts!
 Über meinen Rücken streicht eine eisige Hand hin. Die
 Nerven zucken.
 
-Und da — als so unsere ganzen Sinne nur auf Diebe
-dort gerichtet sind, da offenbart sich die raffinierte
+Und da — als so unsere ganzen Sinne nur auf die
+Bestie dort gerichtet sind, da offenbart sich die raffinierte
 List …
 
 Der Tiger hebt den Kopf. Seine Muskeln werden
@@ -1151,10 +1152,10 @@ Bald größer, bald kleiner.
 
 »Schießen!« raune ich Harst zu
 
-Und greife in das Nabe Den: wo die treue Clement
+Und greife in das Indergewand, wo die treue Clement
 steckt.
 
-»Laß das! Eis wäre zwecklos!«
+»Laß das! Es wäre zwecklos!«
 
 Und meine Hand hält inne.
 
@@ -1163,13 +1164,13 @@ Ein Zündholz flackert neben mir auf.
 Nun sehe ich den Tiger.
 
 Sehe noch mehr: aus dunklem Schlund schleicht’s aus
-Der Wand herbei — zwei, vier andere Bestien =»- irgendwoher
+Der Wand herbei — zwei, vier andere Bestien — irgendwoher
 aus einem Nebenkäfig.
 
 Da zischt in Haralds Fingern das Schwefelharz an der
 Flamme des Hölzchen.
 
-Fängt Feuer. Laßt auf in seltsam grünem Lichte.
+Fängt Feuer. Loht auf in seltsam grünem Lichte.
 
 Fliegt vor den Tiger hin.
 
@@ -1194,13 +1195,13 @@ Wasser sprudelnd abwärts gleitet.
 Meine Dicke füllt den Schacht aus.
 
 Ich finde mit den Füßen Halt. Eisenstangen, die in
-Dda3 Mauerwerk eingelassen sind.
+das Mauerwerk eingelassen sind.
 
 Über mich hinweg geht das Bächlein. Ich schnappe
 nach Luft, beeile mich, komme tiefer, bis meine Füße im
 Leeren baumeln.
 
-Und Harsts Stimme da?
+Und Harsts Stimme da:
 
 »Springe getrost hinab!«
 
@@ -1212,19 +1213,19 @@ Und der Strahl fällt abwärts.
 
 Unter mir ein Tümpel.
 
-Ich öffne die Linke, Ne hinab, stehe auf den Füßen,
+Ich öffne die Linke, sause hinab, stehe auf den Füßen,
 weiche zur Seite.
 
 Und hervor aus der Öffnung der Decke dieses unterirdischen
 Raumes der spärliche Wasserfall, — dann Harald,
 landet neben mir.
 
-Meiner Lampe seiner weißer Kegel irrt durch das Gewölbe.
+Meiner Lampe feiner weißer Kegel irrt durch das Gewölbe.
 
 Und Harst sagt: »Ein Bad, das nicht gerade nach Rosen
-duftet! — Ich habe das Schachtgitter wieder sein säuberlich
-aufgelegt. Nun mögen ’ die Herrschaften sich die Köpfe zerbrechen,
-wo wir geblieben sind. Wir sind im -+-«
+duftet! — Ich habe das Schachtgitter wieder fein säuberlich
+aufgelegt. Nun mögen die Herrschaften sich die Köpfe zerbrechen,
+wo wir geblieben sind. Wir sind im —«
 
 »— im alten Lahore, in der unterirdischen Stadt —
 wie einst!« —
@@ -1244,20 +1245,20 @@ Finsternis.
 Wir suchten einen Ausgang. Wir sahen, daß die
 Priester des Indra-Tempels hier die Hallen, Gemächer,
 Säle und Gänge, die zum Teil mit Schuttmassen gefüllt
-waren, als Vorratskammern» zum Teil benutzten. Wir
+waren, als Vorratskammern zum Teil benutzten. Wir
 sahen hier Truhen aus Sandelholz, mit Elfenbein und Gold
 ausgelegt, deren Inhalt Millionenwerte an alten Schmuckstücken
 darstellte. —
 
 Der englische Forscher Sir Boddingray hat in seinem
-Buche über Indien die Behauptung aufgestellt, daß in fröhlichen
+Buche über Indien die Behauptung aufgestellt, daß in indischen
 Tempeln Schätze aufgehäuft seien, deren Wert das
 <@pagebreak/>
 Nationalvermögen ganz Europas übertreffe. Wer Indien
 kennt, wird ihm recht geben.
 
 Und hier — hier war in einem Saale, der von all den
-Erdgeschoßräumen dieses einstigen Palastes am besten einem
+Erdgeschoßräumen dieses einstigen Palastes am besten erhalten
 war, eine wahrhaft märchenhafte Schatzkammer angelegt
 
 Hier sahen wir nun Truhe an Truhe, sahen an Marmorwänden
@@ -1271,18 +1272,18 @@ Und doch — Harald hielt sich selbst hier nicht auf.
 Sagte nur in seiner sprunghaften Art, die jeden zwingt,
 erst seinen Gedankengängen nachzuspüren:
 
-»Der Stoßzahn des Springabrunnen-Elefanten wirkte
+»Der Stoßzahn des Springbrunnen-Elefanten wirkte
 wie ein Spiegel. Seine Erhabenheit hatte uns im Gebüsch
 bemerkt, und — ich ahnte irgendeine Teufelei. Ich hätte
 sie verhindern können. Aber ich wollte Manga Dari zwingen,
-zu —4«
+zu —«
 
 Und hier schwieg er.
 
 Bückte sich plötzlich.
 
 Auf dem hellen Marmorfußboden lag ein winziges
-Etwa.
+Etwas.
 
 Ein — Stückchen Gummi.
 
@@ -1298,16 +1299,16 @@ Zog mich mit kräftigem Ruck hinter eine hohe Truhe.
 
 Unsere Lampen erloschen.
 
-Durch die Stille dickere unterirdischen Welt kam von
+Durch die Stille dieser unterirdischen Welt kam von
 fern her ein Ton — ein klagender Ton.
 
 Schwoll an zum Gesang.
 
 Zu einem jener schwermütigen, unendlich schwermütigen,
-scheinbar melodielosen Volkslieder, die man -
+scheinbar melodielosen Volkslieder, die man
 abends an den Flüssen hört, wenn schlanke braune Frauen,
 <@pagebreak/>
-die leider so sehr schnell verbüßen, Wäsche fader oder
+die leider so sehr schnell verblühen, Wäsche säubern oder
 Wasser schöpfen. —
 
 Neben mir flüstert der Freund:
@@ -1319,14 +1320,14 @@ ist oder bestohlen werden soll!«
 »Und der Gesang, Harald?«
 
 »Wir werden den Tönen nachgehen. Es ist ein Kind,
-das da singt. — Ah — —!!
+das da singt. — Ah — —!!«
 
 Und dieser Laut höchster Überraschung war nur zu
 berechtigt.
 
 Das schwermütige Lied brach ab.
 
-Und — ein Choral schwang sich in heben Jubel durch
+Und — ein Choral schwang sich in hellem Jubel durch
 die Finsternis in klaren Schallwellen.
 
 Ein Choral — — hier in dem verschütteten alten Labore,
@@ -1335,14 +1336,14 @@ Hindureligion bewachten!! —
 
 Und wieder da raunte Harald:
 
-»Ast Dir an dem Inhalt der Apfel-Botschaft nichts als
-gefallen?«
+»Ist Dir an dem Inhalt der Apfel-Botschaft nichts
+aufgefallen?«
 
 »Nein!«
 
 »Denke an den letzten Satz: »Gott wird’s lohnen!« —
 Hätte so ein Hindu oder ein Mohammedaner geschrieben?!
-Nein — nein! — Ich sehe jetzt einen seinen Faden, der
+Nein — nein! — Ich sehe jetzt einen feinen Faden, der
 all dies verbindet, einen Faden — des Glaubens! —
 Komm’, suchen wir das Kind —«
 
@@ -1357,18 +1358,18 @@ Lampe auf. Nur zuweilen standen wir und lauschten.
 Und — fanden das arme, kleine Wesen.
 
 Fanden eine Inderin von vielleicht zehn Jahren — in
-Riemen — eisernen Käfig, der einst wohl Tiere beherbergt
+einem — eisernen Käfig, der einst wohl Tiere beherbergt
 hatte.
 
 <@pagebreak/>
 Als der Lichtkegel der Taschenlampe aus dem Dunkel
 hervor das bereits halb zur Jungfrau erblühte Kind traf,
-schrie es entsetzt auf: »Jesus, Gekreuzigter, — hilf — hilft!«
+schrie es entsetzt auf: »Jesus, Gekreuzigter, — hilf — hilf!!«
 
-Und englische Worte waren’s. In
+Und englische Worte waren’s.
 
 Und in englischer Sprache flüsterte der Freund: »Habe
-seine Angst. Tür sind Europäer und nur verkleidet. — Wie -
+keine Angst. Wir sind Europäer und nur verkleidet. — Wie
 heißt Du?«
 
 »Maria!«
@@ -1381,12 +1382,12 @@ Eltern aus Bikanir, der Stadt in der Thar-Wüste. Ich
 kenne die Räuber nicht, weiß nicht, wo ich mich befinde.
 Das Essen schiebt man mir im Dunkeln durch das Gitter!«
 
-Meine Augen glitten im Käfig hin. und her. Mein
+Meine Augen glitten im Käfig hin und her. Mein
 Herz schwoll in namenlosem Mitleid.
 
 Und Harald fragte wieder:
 
-»Nicht wohl, Ismail Darba ist Dein Großvater,
+»Nicht wahr, Ismail Darba ist Dein Großvater,
 Maria?«
 
 »Ja, Herr. — Wer bist Du?«
@@ -1402,7 +1403,7 @@ Eine volle Stunde irrten wir noch umher, bis wir
 endlich einen Weg ins Freie fanden, der außerhalb des
 Indra-Tempels in einer Ruine im Marsarbar-Park mündete.
 
-Tuch der Marsarbar-Palast ist nur noch ein Trümmerberg,
+Auch der Marsarbar-Palast ist nur noch ein Trümmerberg,
 und der Park ist eine romantische Wildnis, in der
 man alle drei Monate eine Schlangenjagd veranstaltet, die
 von der Regierung bezahlt wird. Die Marsarbar-Brillenschlangen
@@ -1411,21 +1412,21 @@ sind berühmt, berüchtigt. Man rottet sie nie aus,
 denn die Ruinen bieten tausend Schlupfwinkel.
 
 Und hier in der Nebenruine des ehemaligen Palastes
-des Khan Marsarbar Moral trockneten wir unsere stinkenden
+des Khan Marsarbar Morzi trockneten wir unsere stinkenden
 Gewänder, denen das Spülwasser des Käfigbächleins einen
 bösen Duft verliehen.
 
 Brachten auch unsere Maskerade in Ordnung und wanderten
 dann einzeln zur Stadt hinaus. Trafen einen Kamelkarren,
-dessen Besitzer uns erlaubte, eine Stiege Wege zu
+dessen Besitzer uns erlaubte, eine Strecke Wegs zu
 fahren. —
 
-So fanden wir uns gegen er Uhr vormittags wieder
-in dem Gebüsch unweit des Gekostet ein, wo unser Ponywagen
+So fanden wir uns gegen elf Uhr vormittags wieder
+in dem Gebüsch unweit des Gehöftes ein, wo unser Ponywagen
 untergestellt war. Wurden wieder zu Harst und
 Schraut und holten unser Wägelchen ab.
 
-Gegen ein Uhr begrüßten wir Godwin Goddlear gut
+Gegen ein Uhr begrüßten wir Godwin Goddlear auf
 der Veranda seines Bungalows.
 
 Der dürre Godwin kam uns entgegengelaufen — bis
@@ -1436,8 +1437,8 @@ wie auf Kohlen! — Sie ahnen ja nicht, was passiert ist.
 Man hat Ismail befreit — gewaltsam befreit, als er auf
 Befehl des Gouverneurs, der die Geschichte der Begnadigung
 recht glaubwürdig gestalten wollte, nach dem Zuchthaus von
-Khan Wir übergeführt wurde, In einem geschlossenen
-Wagen wurde der Transport =«
+Mian Mir übergeführt wurde. In einem geschlossenen
+Wagen wurde der Transport —«
 
 Harald hob die Hand. »Wann war das, Godwin?«
 
@@ -1445,28 +1446,28 @@ Harald hob die Hand. »Wann war das, Godwin?«
 
 »Dann lassen Sie schleunigst Ihr Auto fahrbereit
 machen. Fragen Sie nichts. Einen Chauffeur brauchen wir
-nicht. Sie kommen mit. Aber — nicht viel Zufriedene davon!
-Vergnügungsfahrt =» zum Schein. Sie verstehen,
+nicht. Sie kommen mit. Aber — nicht viel Aufhebens davon!
+Vergnügungsfahrt — zum Schein. Sie verstehen,
 Godwin: es sind Spione um uns her!«
 
 Der brave Goddlear war völlig vertattert.
 
-»Was — was heißt das alles? Hofften Sie ein:
+»Was — was heißt das alles? Hofften Sie etwa
 Ismails Befreier —«
 
 »Nette Befreier!« fiel Harald ihm schon ins Wort.
 <@pagebreak/>
 Schnell, Godwin. Und Proviant mitnehmen — für drei
-Tage!
+Tage!«
 
 Auch ich stand mit wenig geistreichem Gesicht dabei.
 
 Godwin jagte zur Garage — um das Haus herum.
 
 Harald wandte sich mir zu. »Wenn meine Berechnungen
-stimmen, werden wir sehr Seltsames erleben
+stimmen, werden wir sehr Seltsames erleben.«
 
-»Was denn? - Du gestattest, daß ich =»- noch völlig
+»Was denn? — Du gestattest, daß ich — noch völlig
 im Dunklen tappe — völlig!«
 
 Er hörte gar nicht hin. Seine Augen waren starr geradeaus
@@ -1481,22 +1482,22 @@ den Zaun und verschwand.
 
 Harald lief — nein, hetzte die Allee hinab.
 
-Ich vernahm daß Knattern eines Motorrades.
+Ich vernahm das Knattern eines Motorrades.
 
 Sah Harst auf die Straße stürmen — mitten auf dem
 Fahrdamm haltmachen.
 
-Dann kam er zurück — mit einem Brief in der Hand -
+Dann kam er zurück — mit einem Brief in der Hand —
 mit demselben Briefe, den der Zerlumpte über das Gitter
 geschleudert hatte. —
 
-ein sehr elegantes Briefpapier, Büttenpapier mit feiern
-GoldflöFckchen darin. C58 bugsiere zart nach Veilchen -
-113;er!.
+ein sehr elegantes Briefpapier, Büttenpapier mit feinen
+Goldflöckchen darin. Es duftete zart nach Veilchen —
+ganz zart.
 
-»Harst starrst den Umschlag auf, zog den Briefbogen
-tera4ts, Da flatterte etwas zur Erde, was in dem Bogen
-duzen hatte: eine Photographie — ein Lichtbild.
+Harst schnitt den Umschlag auf, zog den Briefbogen
+heraus. Da flatterte etwas zur Erde, was in dem Bogen
+gelegen hatte: eine Photographie — ein Lichtbild.
 
 Und eine zierliche Damenhandschrift hatte in englischer
 Sprache geschrieben:
@@ -1505,7 +1506,7 @@ Sprache geschrieben:
 
 > Sollten Sie noch weiter um Maria, die Enkelin
 Ismails, sich irgendwie bemühen, so wird Maria
-stechen. Wir drohen nie umsonst. Hüten Sie sich!
+sterben. Wir drohen nie umsonst. Hüten Sie sich!
 
 > Claire Clairon.
 
@@ -1527,32 +1528,32 @@ Aufnahme, da auf dieser weit mehr Personen vorhanden
 sind — ein Kreis von etwa zweihundert Menschen, Männern
 und Frauen. Und am Steinkreuz hing ein alter Inder
 *ohne* Turban. Auch der Tiger fehlte, auch wir beide
-hinter den fernen Büschen. -
+hinter den fernen Büschen.
 
 Wie gesagt: die Photographie stellte eine Art Versammlung
 dar, eine Art religiöser Versammlung, so schien es
 mir, —
 
 Merkwürdigerweise warf Harald einen nur ganz flüchtigen
-Blick darauf, sagte sinnend: »Der Fall kompliziert sich. -
+Blick darauf, sagte sinnend: »Der Fall kompliziert sich.
 Zwei Fälle greifen ineinander!«
 
 Da fuhr auch schon das Auto vor. Godwin Goddlear
-fraß am Steuer.
+saß am Steuer.
 
 »Einsteigen!« rief er.
 
-»Zum Indra-Demnach!!« rief Harst.
+»Zum Indra-Tempel!« rief Harst.
 
 »Wie — und dazu das Auto?!« brüllt Godwin.
 
-»Fähren Sie! Die Sachlage hat sich geändert =«
+»Fahren Sie! Die Sachlage hat sich geändert —«
 
 Und Goddlear fuhr. Und Harst sagte zu mir:
 
 »Claire Clairon — eine neue Mitspielerin! Sie gehört
-zu den Gummiabsatz-Leuten!« -“- Pause. — »Und der
-ahne wohl ebenfalls, mein Alter. Denn der Kerl warf
+zu den Gummiabsatz-Leuten!« — Pause. — »Und der
+Lahme wohl ebenfalls, mein Alter. Denn der Kerl warf
 den Brief als indischer Bettler und raste als Motorfahrer,
 hinter sich eine Dame, im Staubmantel und heller Mütze
 davon.«
@@ -1578,7 +1579,7 @@ grinsen — nur eine Sekunde.
 erklärt der Hindupriester feierlich. »Seine Seele wandert
 bereits!« (Der Brahmanismus ist die Lehre von der
 Seelenwanderung. Die menschliche Seele muß erst so und
-Mr Tierkörper passieren, bevor sie in den Himmel eingeht.)
+so viele Tierkörper passieren, bevor sie in den Himmel eingeht.)
 —
 
 Der Brahmane winkte dann.
@@ -1598,12 +1599,12 @@ Daris Nachfolger hervor — auch ein Greis mit düsteren
 fanatischen Augen.
 
 »folgt mir! Nur immer der Oberpriester darf in die
-Nr Hallen hinab. Jedem andern ist der Zutritt verraten!«
+alten Hallen hinab. Jedem andern ist der Zutritt verboten!«
 
 Er ging voraus. Wir hatten unsere Taschenlampen,
 er eine Laterne …
 
-Und — am Käfig Mannes kamen wir vorüber. Der
+Und — am Käfig Marias kamen wir vorüber. Der
 war leer.
 
 Harst blieb stehen. — »Hier war ein Kind eingesperrt!«
@@ -1635,7 +1636,7 @@ Bei — Seiner Exzellenz.
 
 <h3>Am Rande des Dschungels.</h3>
 
-Das Arbeitszimmer Seiner Exzellenz im Gouverneurpalast
+Das Arbeitszimmer Seiner Exzellenz im Gouverneurpalais
 
 Wir drei, Exzellenz und Polizeidirektor Smarly in
 Sesseln um einen Tisch herum.
@@ -1644,21 +1645,21 @@ Harst erzählt, was wir erlebt haben: Goddlears Depesche,
 Apfelbotschaft, Eisenbahnattentat, die geliehene Draisine
 — und so weiter. Alles der Reihe nach. Nur den
 letzten Brief und die Photographie verschweigt er, was mich
-etwas in Erstaunen seit.
+etwas in Erstaunen setzt.
 
 Exzellenz ist empört über die ungeheure Frechheit, daß
 man Harald und mich eingesperrt, überfallen hatte, daß die
-Tue es gewagt haben, das Kind zu rauben und einzukerkern.
+Priester es gewagt haben, das Kind zu rauben und einzukerkern.
 
 Harst erklärt: »Exzellenz werden bei den Brahmanen des
 Indra-Tempels nichts erreichen. Sie alle werden sagen:
 »Wir wissen von nichts. Seine Erhabenheit mag das alles
-<@pagebreak/>
+<@pagebreak 36/>
 getan haben.« — Und Manga Dari ist tot, damit er — nicht
 vernommen werden könnte.«
 
-Der Polizeiarzt tritt ein, meldet: »Der Oberpriester. ist
-an Loktaminvergistung gestorben. Er hat sich offenbar selbst
+Der Polizeiarzt tritt ein, meldet: »Der Oberpriester ist
+an Loktaminvergiftung gestorben. Er hat sich offenbar selbst
 den Tod gegeben.«
 
 Harst nickt nur.
@@ -1671,9 +1672,9 @@ dringen könnte. Ich bitte Exzellenz nur um einen
 Ausweis, nach dessen Wortlaut mir jeder hier im Gouvernementsbezirk
 unbedingt zu gehorchen hat. Ich bemerke
 hierzu, daß die ganze Angelegenheit mit allergrößter Vorsicht
-erledigt werden muß, weil ich sonst! weder für mein, noch
-Schnauzte, noch Goddlears Leben einen Pfifferling gebe.
-Hier sind Kräfte am Vierte, die selbst Eurer Exzellenz
+erledigt werden muß, weil ich sonst weder für mein, noch
+Schrauts, noch Goddlears Leben einen Pfifferling gebe.
+Hier sind Kräfte am Werke, die selbst Eurer Exzellenz
 spotten!«
 
 Der Gouverneur stellte den Ausweis eigenhändig aus.
@@ -1683,7 +1684,7 @@ handelt es sich?«
 
 »Um eine religiöse Sekte!«
 
-»Na Nu?! Sekte —?!« Exzellenz erlaubte sich zweifelnd
+»Na nu?! Sekte —?!« Exzellenz erlaubte sich zweifelnd
 zu lächeln.
 
 Harst blieb völlig sicher. Sehr klar entwickelte er seinen
@@ -1693,20 +1694,20 @@ beide dazu einladen.
 
 »Alles weitere findet sich dann, Exzellenz!«
 
-»im — was denn?«
+»Hm — was denn?«
 
 »Daß Schraut und ich so Gelegenheit *finden* werden,
 uns heimlich von der Jagdgesellschaft zu trennen —«
 
 »Ah so — — verstehe! Gut, soll alles nach Wunsch
-angeordnet werden! —« Und Manga Dari?«
+angeordnet werden! — Und Manga Dari?«
 
 »Ist tot, schweigt und geht uns nichts an.« —
 
 Der Rest des Tages verlief ruhig. Wir holten den
 versäumten Schlaf nach, taten Godwins Küche alle Ehre
 <@pagebreak/>
-an und erhielten abends gegen sieben durch Erzeilenz’ Konstanz
+an und erhielten abends gegen sieben durch Exzellenz Adjutant
 die Einladung zur Tigerjagd. —
 
 Indische Tigerjagden vom Rückenteil eines Elefanten
@@ -1717,7 +1718,7 @@ Ich bin auch nicht Jagdschriftsteller.
 Ich beginne also wie folgt den Faden der Geschichte
 wieder aufzunehmen:
 
-Autos hatten die Jagdgesellschaft bis zum Dorfe Kq-ralli
+Autos hatten die Jagdgesellschaft bis zum Dorfe Karalli
 gebracht. Hier warteten bereits zweihundert bewaffnete
 Treiber. Am Abend wurde ein großes Zeltlager aufgeschlagen,
 dicht am Dschungelrande.
@@ -1728,12 +1729,12 @@ achtzehn Offiziere …
 Gegen zehn Uhr wurde es still im Lager.
 
 Wir beide hatten ein Zelt für uns. Es stand, wo es
-fielen sollte: in der äußeren Zeltreihe, den Büschen am
+stehen sollte: in der äußeren Zeltreihe, den Büschen am
 nächsten.
 
 Exzellenz war eingeweiht: unsere Abwesenheit sollte am
 Morgen nicht beachtet werden! Auch die Goddlears nicht,
-der nebenan mit Leutnant Garn in einem Zelte hauste.
+der nebenan mit Leutnant Garp in einem Zelte hauste.
 
 Also zehn Uhr. Und eine Hitze — zum Schmelzen!
 Eine ungeheure Glutwelle lagerte über dem Dschungel, der
@@ -1744,11 +1745,11 @@ Stechfliegen stürzten sich auf das Lager. Überall qualmten
 Feuer.
 
 Wir beide saßen beim Scheine einer Karbidlaterne,
-ux uns, um uns hingen die Mosquitonetze.
+über uns, um uns hingen die Mosquitonetze.
 
 Wir rauchten und keuchten und schwitzten.
 
-Bis gegen ein Viertel elf etwa der Zeltvorhang Aß
+Bis gegen ein Viertel elf etwa der Zeltvorhang sich
 bewegte.
 
 Harst, ich — wir glaubten: Goddlear!
@@ -1763,12 +1764,12 @@ Und Harald sagte: »’n Abend, lieber Kollege! Also
 doch noch hier?!«
 
 Jack Patarlagon, Privatdetektiv aus Bombay, grunzte:
-»Leider wieder hier! Verdammt Blaue Zeit hier für unsereiner,
+»Leider wieder hier! Verdammt flaue Zeit hier für unsereiner,
 Mr. Harst. Da greift man nach dem Strohhalm, um
 Geld zu machen!«
 
 »Sie werfen da eine Phrase in eine andere hinein.
-»Was gibt’s denn?«
+Was gibt’s denn?«
 
 »Bin seit vier Tagen wieder in Lahore und Umgegend.
 Ich weiß seit vorgestern, daß Sie ebenfalls hier rumgeistern.
@@ -1795,11 +1796,11 @@ dann, Jack!«
 »Nach Makilanga, also nordwärts am Dschungelrande
 hin —«
 
-»Donnerwetter! Makilanga!! Ausgerechnet Matki-langa!!
-Dort stet ja der alte Ismail —«
+»Donnerwetter! Makilanga!! Ausgerechnet Makilanga!!
+Dort steckt ja der alte Ismail —«
 
 »Brüllen Sie nicht so, Verehrtester!« warnte Harald.
-»Hier befinden wir uns in einem Zelte, und —
+»Hier befinden wir uns in einem Zelte, und —«
 
 »Goddlear ist auch schon da,« ertönte die Stimme des
 Inspektors hinter Jack Patarlagon, der in seiner Verkleidung
@@ -1809,23 +1810,23 @@ gerade bis zum Nabel reichte.
 Wir vier schlichen davon.
 
 Wir hatten’s leicht, denn das Lager war eine einzige
-Qitolmwolfe.
+Qualmwolke.
 
 <@pagebreak/>
 Die Zeltinsassen husteten, die Treiber an den Feuern
-husteten, und die Elefanten wiegten sich unruhig lin und her.
+husteten, und die Elefanten wiegten sich unruhig hin und her.
 
 Harst führte. Er hatte sich am Tage den Weg genau
 gemerkt.
 
-In einer halben Stunde hatten wir das letzte -Gehöft
-des Dorfes Zufalls erreicht. Preises Gehöft glich einer Negerfestung
+In einer halben Stunde hatten wir das letzte Gehöft
+des Dorfes Karalli erreicht. Dieses Gehöft glich einer Negerfestung
 aus Zentralafrika: Dornenwälle überall, nur ein
 einziger Eingang, eine starke Holztür, oben mit meterlangen
 nach außen gekrümmten Eisenstacheln.
 
 War auch nötig. Die Bewohner des Dschungels, die
-vierbeinigen, hätten dem braven indischen Bauern sang!
+vierbeinigen, hätten dem braven indischen Bauern sonst
 sämtliche Ziegen und Rinder allmählich aufgefressen. —
 An der Pforte eine Eisenplatte und ein Stein an einem
 Strick: die Hausglocke.
@@ -1833,24 +1834,24 @@ Strick: die Hausglocke.
 Harst »läutete«. Und nicht zu knapp. Niemand kam.
 Hier sollten wir die Kamele in Empfang nehmen.
 
-»im!« meinte Harald. »Gefällt mir nicht! Goddlear,
+»Hm!« meinte Harald. »Gefällt mir nicht! Goddlear,
 Sie haben doch mit dem Manne alles vereinbart?«
 
-»und ob! Hab’ ich! Der Kerl sollte uns hier an dort
+»und ob! Hab’ ich! Der Kerl sollte uns hier an der
 Pforte zwischen halb elf und elf erwarten. Es ist jetzt
 fünf Minuten vor elf!«
 
-Harst turnte plötßzlih an der Holztür empor, schlüpfte
+Harst turnte plötzlich an der Holztür empor, schlüpfte
 oben durch die Eisenstäbe, sprang jenseits hinab und schob
 die Eisenriegel fort.
 
-Wir traten ein: Taschenlampen blitzten. In eine!
-Hürde bewegte sich Vieh. Ziegen mehreren uns an.
+Wir traten ein: Taschenlampen blitzten. In einer
+Hürde bewegte sich Vieh. Ziegen meckerten uns an.
 
-Und — indem Lehmhause fanden wir den Inder nebst
+Und — in dem Lehmhause fanden wir den Inder nebst
 Frau gefesselt, geknebelt. Drei Kinder waren im Keller eingesperrt.
 
-Der Mann schwor Stein und Bein, daß drei Europäez
+Der Mann schwor Stein und Bein, daß drei Europäer
 ihn überfallen hätten.
 
 Und — die Kamele waren — futsch! Das war das
@@ -1858,21 +1859,21 @@ Schlimmste!
 
 Der Inder trabte vor uns her zu seinem Freunde ins
 Dorf — lamentierend, schimpfend, obwohl Goddlear ihm
-versichert hatte, daß die Tiere ihm erlebt werden würden.
+versichert hatte, daß die Tiere ihm ersetzt werden würden.
 
 <@pagebreak/>
 Der Freund besaß fünf Kamele.
 
-je waren auch danach. Immerhin: wir hatten Reittiere
+Sie waren auch danach. Immerhin: wir hatten Reittiere!
 
 Gegen halb ein Uhr morgens ging’s in die Nacht hinaus.
-Diesmal führte der kleine Jack, der wie ein »Veilchen
+Diesmal führte der kleine Jack, der wie ein Äffchen
 auf dem Riesenvieh von Dromedar hockte. —
 
 Bis Makilanga waren’s etwa sieben Meilen. Mit
 guten Tieren hätten wir’s in drei Stunden geschafft. So
-würden’s fünf Stunden. Es war längst hell, als wir, jetzt
-im dichtesten Dschungel, daß Dorf in großem Bogen umritten
+wurden’s fünf Stunden. Es war längst hell, als wir, jetzt
+im dichtesten Dschungel, das Dorf in großem Bogen umritten
 und Jack sich umdrehte und pfiffig lächelnd meinte:
 
 »Ismail wird im Makilanga-Berge gefangengehalten.
@@ -1900,20 +1901,20 @@ Achseln:
 »Ist das alles, was Sie uns mit auf den Weg geben?«
 meinte der Inspektor. »Was sollen wir denn tun?«
 
-»35mail befreien und die Leute festnehmen, die ihn bewachen!«
+»Ismail befreien und die Leute festnehmen, die ihn bewachen!«
 
 »Drei sind’s nur,« erklärte Jack.
 
-»Desto Messer!«
+»Desto besser!«
 
 Ich drückte Harald die Hand. »Wiedersehen!« sagte
 ich etwas verlegen, denn eigentlich hätte ich freiwillig an
-Siebte Harsts die Kamel wache übernehmen müssen.
+Stelle Harsts die Kamelwache übernehmen müssen.
 
 Er lächelte. »Geh’ nur, mein Alter. Ich gönne es
 <@pagebreak/>
-Dir. Du wirst dort schon nach dem Rechten sehen. Vorne
-meidet allzu deutliche Spuren!« —
+Dir. Du wirst dort schon nach dem Rechten sehen. Vermeidet
+allzu deutliche Spuren!« —
 
 Wir zogen ab.
 
@@ -1923,20 +1924,20 @@ Wir zogen ab.
 
 Jack wieder voran.
 
-Einer hinter dem andern — wie die Indianer. Gott«-
-Je ur Und ich hatten Remingtonjagdbüchsen, Jack hatte von
+Einer hinter dem andern — wie die Indianer. Goddlear
+Und ich hatten Remingtonjagdbüchsen, Jack hatte von
 Harst eine zehnschüssige amerikanische Coldbüchse geliehen
-erhalten, die aus dem Waffenschrank Seiner Exzellenz:
+erhalten, die aus dem Waffenschrank Seiner Exzellenz
 stammte.
 
 Wie die Indianer schlichen wir. Kamen an den Rand
 einer jener großen Dschungellichtungen, die kleinen Steinwüsten
 gleichen.
 
-Sahen nun dort nach Osten zu den Berg Makilanga;
+Sahen nun dort nach Osten zu den Berg Makilanga.
 
 Makilanga heißt auf deutsch etwa Backofen. — Nun
-— diese ganze ungeheure Lichtung verdient? den Namen
+— diese ganze ungeheure Lichtung verdiente den Namen
 Backofen. Schon jetzt um sieben Uhr morgens hatte die
 liebe Sonne, die es mit Indien so sehr gut meint, die Luft
 über Sand und Felsen in ein flimmerndes Geriesel verwandelt.
@@ -1944,13 +1945,14 @@ liebe Sonne, die es mit Indien so sehr gut meint, die Luft
 Ich hatte keinen trockenen Faden mehr am Leibe. Und
 — jetzt mußten wir noch kriechen!
 
-Auch Godwin Goddlear flüchte in allen Tonarten. Die
+Auch Godwin Goddlear fluchte in allen Tonarten. Die
 Büchsenläufe waren so heiß, daß man das Metall kaum berühren
-konnte. Der Schweiß troff uns von den glühenden-Gesichtern.
+konnte. Der Schweiß troff uns von den glühenden
+Gesichtern.
 
 Und so — krochen wir etwa sechshundert Meter weit,
-denn ein Bis durch das Fernglas hatte uns auf der Kuppe
-des »Backofens« einen Inder gezeigt, der dort offenbar:
+denn ein Blick durch das Fernglas hatte uns auf der Kuppe
+des »Backofens« einen Inder gezeigt, der dort offenbar
 Wache hielt. —
 
 <@pagebreak/>
@@ -1967,8 +1969,8 @@ Dann sah ich, weshalb diese enorme Steinmasse »Backofen«
 hieß.
 
 Nach Osten zu gähnte in dem flachen Berge eine Öffnung,
-ein enormes Loch, eine tiefe Grotte mit einem so breit
-4en und hoben Eingang, daß in diesem Eingang ein zweistöckiges
+ein enormes Loch, eine tiefe Grotte mit einem so breiten
+und hohen Eingang, daß in diesem Eingang ein zweistöckiges
 Haus mit sechs Fenstern Front Platz gehabt hätte.
 
 Man erkannte deutlich, daß in dieser Tür des Backofens
@@ -1987,41 +1989,41 @@ Moment Schweißtropfen uns blendeten.
 Und krochen nun um die Ecke herum, hinein in das
 Ofenloch. —
 
-Wozu soll ich den Leser künstlich in Spannung verbieten?!
+Wozu soll ich den Leser künstlich in Spannung versetzen?!
 
 Wir — fanden — nichts!
 
-Die Grotte war leer, gänzlich leer. Nur eine Feuer-Stelle,
-deren Asche noch warm, bewies, daß Ismails nur
-noch vor kurzem hier gewesen. waren.
+Die Grotte war leer, gänzlich leer. Nur eine Feuerstelle,
+deren Asche noch warm, bewies, daß Ismails Wächter
+noch vor kurzem hier gewesen waren.
 
-»am — aber der Kerl oben auf dem Berge? !- meinte
+»Hm — aber der Kerl oben auf dem Berge?!« meinte
 Jack nun kopfschüttelnd.
 
-»Den kriegen wir schon,« »lachte Godwin. »Wir kreisen
-aha ein. Den Berg zu ersteigen ist ja kein Vergnügen, aber
+»Den kriegen wir schon,« lachte Godwin. »Wir kreisen
+ihn ein. Den Berg zu ersteigen ist ja kein Vergnügen, aber
 — es muß sein!«
 
 »Höchstens hundertfünfzig Meter,« grunzte Jack. Er
-TL4wibte am wenigsten.
+schwitzte am wenigsten.
 
 <@pagebreak/>
 Also — wir kletterten.
 
 Und hatten den Inder auch bald umzingelt. Der Kerl
-schien zu schlafen. Satz gegen einen Stein gelehnt da. Ein
+schien zu schlafen. Saß gegen einen Stein gelehnt da. Ein
 Gewehr im Schoße, eine uralte Steinschloßflinte.
 
-Und hatte zum Schuß gegen die Sonne einen Zipfel
+Und hatte zum Schutz gegen die Sonne einen Zipfel
 seines Turbane vor das Gesicht gezogen.
 
 Goddlear gab ein Zeichen.
 
 Gleichen Schrittes — lautlos — nahten wir.
 
-Die letzten Meter — ein paar lange Säße.
+Die letzten Meter — ein paar lange Sätze.
 
-Und da — — kam die Bescherung! — -
+Und da — — kam die Bescherung! — —
 
 Lieber Leser, immer wieder findest Du in gelegentlichen
 tiefsinnigen Artikeln betont, daß das Leben weit verworrenere
@@ -2034,14 +2036,14 @@ können. —
 
 Der Kladderadatsch spielte sich so ab:
 
-Wir drei Übereifriger packten zu und rissen — eine
+Wir drei Übereifrigen packten zu und rissen — eine
 Puppe hoch.
 
 Da krachte auch schon unter unseren Füßen der scheinbar
 feste Sand- und Steinboden zusammen.
 
 Krachte, senkte sich rasch, und wir drei segelten samt
-dem aus Zweigen und Resten sein geflochtenen Derlei dieser
+dem aus Zweigen und Ästen fein geflochtenen Deckel dieser
 niederträchtigen Wolfsgrube in die Tiefe — in eine Felsspalte,
 hätten uns fraglos nur noch unten als Leichen gegenseitig
 begrüßen können, wenn nicht der Flechtwerkdeckel an
@@ -2050,17 +2052,17 @@ wäre.
 
 Immerhin — wir bekamen Püffe, die nicht eben
 schmerzlos waren, und Jack und Goddlear fielen so unglücklich,
-daß sie sich die Handgelenke böse vertrackten.
+daß sie sich die Handgelenke böse verknackten.
 
 Wir vier lagen also nun in etwa fünfzehn Meter Tiefe
-in der nicht eben weiten Felsspalte, die nur einen Voraus
+in der nicht eben weiten Felsspalte, die nur einen Vorzug
 vor der Oberwelt hatte: es war hier leidlich kühl!
 
 <@pagebreak/>
-Wir vier! Denn der Inder, der so sein ausgestopft
+Wir vier! Denn der Inder, der so fein ausgestopft
 war, hatte die Reise abwärts mitgemacht.
 
-Jack und Godwin fluchten. Rappelten sich auf, schlenderten
+Jack und Godwin fluchten. Rappelten sich auf, schlenkerten
 die Arme.
 
 Ich mußte ihnen die Handgelenke schleunigst wieder einrenken.
@@ -2068,8 +2070,8 @@ Ich mußte ihnen die Handgelenke schleunigst wieder einrenken.
 Jack brüllte dabei ganze Tonleitern. Armer Kerl! Es
 muß sehr wehgetan haben.
 
-Auch das ging vorüber. Nun hockten wir auf dem zer-brochgnen
-Flechtdeckel, vor sich nach oben zu schräg an die
+Auch das ging vorüber. Nun hockten wir auf dem zerbrochenen
+Flechtdeckel, der sich nach oben zu schräg an die
 Felswände lehnte.
 
 Und Goddlear sagte: »Harst wird uns suchen!«
@@ -2080,14 +2082,14 @@ gäbe.
 
 Jack schwieg, lehnte erschöpft an dem schrägen Flechtwerk.
 
-Goddlear begann wieder: »Wir müßten Schüsse abgrasen,
+Goddlear begann wieder: »Wir müßten Schüsse abfeuern,
 Schraut!«
 
-»Zweites! Der Knall dringt niemals bis zu Harzes!«
+»Zwecklos! Der Knall dringt niemals bis zu Harst!«
 
 »Blödsinn!« knurrte auch Jack.
 
-»Gestalten Sie!« brauste Godwin auf. »Das ist eine
+»Gestatten Sie!« brauste Godwin auf. »Das ist eine
 Beleidigung!«
 
 »Mann, seien Sie nicht kindisch,« sagte der Kleine grob.
@@ -2121,35 +2123,35 @@ Wozu wohl, geehrter Leser?!
 Nun — ich wußte genau, daß Harald dort westwärts
 im Dschungel einen Baum erklettern und mit dem Glase
 nach dem Berge hier Ausschau halten würde. Die Kuppe
-des ’Backofen3 mußte er sehen — mußte! Und so würde er
-glich — den Rauch des Feuers bemerken, stutzig werden, sich
+des Backofens mußte er sehen — mußte! Und so würde er
+auch — den Rauch des Feuers bemerken, stutzig werden, sich
 fragen, wie es möglich sei, daß der »Backofen« plötzlich
-regelrecht qualmte, und — schleunigst der Sackes auf den
+regelrecht qualmte, und — schleunigst der Sache auf den
 Grund gehen, das heißt: samt den Kamelen herbeigeritten
 kommen! —
 
-Das Feuer brannte. Der Nauch4 zog gut ab. Und
+Das Feuer brannte. Der Rauch zog gut ab. Und
 wir drei und der stumme Vierte sahen zu und rauchten auch.
 
 Eine Stunde verging, noch eine.
 
-Dann von oben der Haralds Stimme — ganz plötzlich
+Dann von oben der Haralds Stimme — ganz plötzlich:
 
-»Das habt Ihr ja anferordentlich schlau angefangen!«
+»Das habt Ihr ja außerordentlich schlau angefangen!«
 
 »O bitte!« brüllte Godwin zurück. »Der Deckel war so
-säuberlich, mit Erde und flachen Steinen belegt, daß —«
+säuberlich mit Erde und flachen Steinen belegt, daß —«
 
 »Ich werde ein Tau flechten aus den Satteldecken!«
 rief Harald wieder.
 
 Und an diesem Tau, das noch durch die Zügel und
 Riemen des Sattelzeugs verlängert und verstärkt war,
-kletterte ich als Wetter empor, nachdem Harst die beiden Kollegen
+kletterte ich als letzter empor, nachdem Harst die beiden Kollegen
 ihrer geschwollenen Handgelenke wegen hochgezogen
 hatte, —
 
-Ich merkte sehr bald, daß Harald mir so tat, als ob
+Ich merkte sehr bald, daß Harald nur so tat, als ob
 er dem Verschwinden Ismails und seiner Wächter durchaus
 keinerlei Wichtigkeit beimaß, und als ob er auch keinerlei
 Eile hätte, festzustellen, wo sie geblieben.
@@ -2159,28 +2161,28 @@ des Backofens verborgen, holte sie nun und schlug vor, daß
 <@pagebreak/>
 Godwin und Jack in einem Gehöft im Chenab-Flusse sich
 einquartieren und ihre Handgelenke kühlen sollten, während
-wir beide uns »einiges nach Ismail umtun« würden, wie er
+wir beide uns »etwas nach Ismail umtun« würden, wie er
 sich harmlos ausdrückte.
 
 So geschah’s denn auch. Harald und ich begleiteten
 die beiden vorläufig Kampfunfähigen bis zum Anwesen
 eines indischen Bauern und ritten dann wieder davon —
-Zuruf nach dem Matkilanga, wobei Harald abermals es
+zurück nach dem Makilanga, wobei Harald abermals so
 außerordentlich vorsichtig war, daß ich sehr bald fragte:
 
-36 »Vermutest Du denn Ismails Entführer noch in der
+»Vermutest Du denn Ismails Entführer noch in der
 Nähe?«
 
 Und da — — sprach er endlich.
 
 »Diese Entführer sind Beauftragte des jetzt toten Manga
 Dari, des Oberpriesters, der fraglos ein Bruder Ismails
-war und der diesen mit dem ganzen fanatischen; Haß des
+war und der diesen mit dem ganzen fanatischen Haß des
 Hindupriesters gegen Abtrünnige verfolgte. Die Vermutung,
 daß Ismail den Glauben gewechselt und zu einer christlichen
 Sekte gehören könnte, stieg bereits in Bikanir in mir auf,
 als der Zettel im Apfel uns ins Abteil geworfen wurde,
-denn sein Anhänger Brahmas hätte da zum Schluß geschrieben:
+denn kein Anhänger Brahmas hätte da zum Schluß geschrieben:
 Gott wird’s lohnen! — Von dieser Vermutung
 ausgehend, beurteilte ich auch alles andere. Das Geld und
 die anonymen Schreiben, die Goddlear erhielt, kamen von
@@ -2191,9 +2193,9 @@ Bruders aus, ließ die kleine Maria, die gleichfalls christliche
 Sektiererin ist, rauben und sperrte sie in den Käfig ein, wohl
 in der Hoffnung, dieses halbe Kind durch Zwang wieder
 dem Brahmanismus gewinnen zu können. — Wenn Du die
-Geschichte der großen Glauben30emeinschaften der Erde vereinbart,
+Geschichte der großen Glaubensgemeinschaften der Erde verfolgst,
 mein Alter, so findest Du überall Beweise, daß religiöser
-FanatiSmus8 Menschen zu Bestien macht. Seine Erhabenheit
+Fanatismus Menschen zu Bestien macht. Seine Erhabenheit
 Manga Dari mag felsenfest überzeugt gewesen sein,
 daß er nur so und nicht anders handeln mußte. Sein
 Selbstmord bestätigt dies alles. Er nahm als Oberpriester
@@ -2202,35 +2204,35 @@ alle Folgen allein auf sich und — starb.«
 
 »Hm — und der Mord an dem weißen Händler?«
 
-»Ob — ich habe Goddlear so etwas über diesen Chax—
-1e8 Matasour ausgeforscht. Matasour, behaupte ich, war
+»Oh — ich habe Goddlear so etwas über diesen Charles
+Matasour ausgeforscht. Matasour, behaupte ich, war
 nur zum Schein Händler, in Wahrheit — Missionar oder
-besser: Mitbegründer der christlichen Sekte! deshalb mußte:
-er sterben — auch auf Manga Dorfes Befehl!«
+besser: Mitbegründer der christlichen Sekte! deshalb mußte
+er sterben — auch auf Manga Daris Befehl!«
 
 Kurze Pause. — Dann: »Und das Verschwinden der
 acht alten Inder, von denen Godwin berichtete, hängt ebenfalls
 mit dieser Sekte zusammen. Denke an die Photographie,
-die dem eleganten Briefe der Claire Clairon beis—lag.
+die dem eleganten Briefe der Claire Clairon beilag.
 Du wirst das sehr bald vollständig verstehen!«
 
 Wir hatten den Berg erreicht, bogen um die Ecke —
 sahen den breiten Eingang.
 
-Und dort … -
+Und dort …
 
 <h2>3. Kapitel.</h2>
 
 <h3>Die gestörte Sitzung.</h3>
 
-Dort erblickten wir zwei gesattelte Pferde, erblickten aus
+Dort erblickten wir zwei gesattelte Pferde, erblickten auch
 Die Reiter, die langsam aus der Grotte ins Freie kamen:
 ein Herr im Sportanzug und ein junges blondes Weib,
 gleichfalls im praktischen Reitkostüm.
 
 Ein hübsches Weib. Madonnenscheitel, Unschuldsaugen:
-ii mit einem süßen Lächeln um die etwas finnischen
-Happen.
+und mit einem süßen Lächeln um die etwas sinnlichen
+Lippen.
 
 Vornehme Engländer fraglos, die hierher einen Ausflug
 gemacht hatten. Die Dame trug in der Linken eine
@@ -2240,11 +2242,11 @@ Wir grüßten.
 
 Der Gegengruß fiel sehr hochmütig aus.
 
-Die beiden stiegen zu Pferde und ritten gemächlich nach:
+Die beiden stiegen zu Pferde und ritten gemächlich nach
 Südost davon.
 
 <@pagebreak/>
-»Hm — —!!« meinte Harald. »Satze, daß wir nicht
+»Hm — —!!« meinte Harald. »Schade, daß wir nicht
 Mehr Zeit haben.«
 
 Wir betraten die Grotte.
@@ -2260,7 +2262,7 @@ sollten nie Parfüms benutzen!«
 
 »Ja: es kann der Mann gewesen sein, der den Lahmen
 spielte, den Spion, und es kann das Weib sein, das mit
-ihm davonruderte, nachdem der Drohbrief an uns — abgeworfen
+ihm davonradelte, nachdem der Drohbrief an uns — abgeworfen
 war. Also: Claire Clairon, die natürlich ganz
 anders heißt!«
 
@@ -2270,40 +2272,40 @@ Ich stand da und starrte ihn an.
 wo sie noch Maria =«
 
 Er winkte ab. »Mein Alter, die beiden entgehen uns
-nicht. Daß sie Maria töten werden, falle wir das Kind
+nicht. Daß sie Maria töten werden, falls wir das Kind
 suchen, ist — Bluff! Die Leute haben etwas ganz anderes
-vor: Schatzkammer des Indra-Tempels!1!«
+vor: Schatzkammer des Indra-Tempels!!«
 
 Und — — er bückte sich, hob ein flaches Steinchen.
 
 »Seltsam spielt oft das Schicksal mit Kleinigkeiten. —
 Da, sieh! Hier befindet sich auf dem blauschwarzen Stein
 ein förmlicher Stempel, der noch feucht ist. Hier hat der
-Gentleman mit dem Flatterten Gesicht, der nun dort neben
-der Blonden davontrabt, eine der Wien scheußlichen Riesenraupen
+Gentleman mit dem blasierten Gesicht, der nun dort neben
+der Blonden davontrabt, eine der dicken scheußlichen Riesenraupen
 zertreten — mit dem Absatz. — Bitte — dort ist der
-Veberrest der Raupe. Und dann hat der Gentleman mit
+Überrest der Raupe. Und dann hat der Gentleman mit
 dem nächsten Schritt ausgerechnet denselben Absatz auf den
 Stein gedrückt. So entstand der grüne Stempel. — Ein
-recht klarer Abdruck eines Gummiabsatzes. Nur — — bevor
-ist die Gummiplatte!« Er lächelt sein, greift in die
+recht klarer Abdruck eines Gummiabsatzes. Nur — — beschädigt
+ist die Gummiplatte!« Er lächelt fein, greift in die
 Tasche.
 
 Zum Vorschein kommt — das Stückchen Gummi aus
 dem unterirdischen Lahore.
 
 <@pagebreak/>
-»Na — was sagst Du nun? !» lächelt Harald weiter.
+»Na — was sagst Du nun?!« lächelt Harald weiter.
 
 Ich — — sagte gar nichts.
 
 Ich vergleiche.
 
-An dem grünen feuchten Stempel by eine Ecke.
+An dem grünen feuchten Stempel fehlt eine Ecke.
 
-Und diese Ecke hatte ich in der Kam
+Und diese Ecke hatte ich in der Hand.
 
-»Zweifelst Du noch?« fragte Harst Die geht langsam
+»Zweifelst Du noch?« fragte Harst und geht langsam
 weiter, sucht nach Spuren.
 
 Sucht so, wie nur er suchen kann.
@@ -2314,25 +2316,25 @@ Fährten. Winkt.
 Ich reite hinüber, führe Haralds Dromedar am Zügel.
 
 »Man kann hier lernen,« sagt er und deutet auf den
-kahlen Fels. »Die Kerle haben sich stets auf harten Boden
-See Nur hier ist dem einen ein Mißgeschick widerfahren.
+kahlen Fels. »Die Kerle haben sich stets auf hartem Boden
+fortbewegt. Nur hier ist dem einen ein Mißgeschick widerfahren.«
 
 Ja — ich sehe: auf dem dunklen glatten Gestein liegen
 schwarze Körnchen.
 
-Harald reibt ein Zündholz an. Die Körnchen Puffen
+Harald reibt ein Zündholz an. Die Körnchen puffen
 auf: Pulver ist’s!
 
 »Vorderladerflinten haben sie,« meint er gleichgültig.
 »Nun werden wir die Fortsetzung der Fährte bald haben.
-Das sind konfus gelaufen. Reittiere hatten sie nicht
+Die Kerle sind barfuß gelaufen. Reittiere hatten sie nicht
 bei sich.«
 
 Fünf Minuten später finden wir im Sande die Spuren
 von vier Männern.
 
 »Aha — und nordwärts geht’s! Dorthin, wo das auf
-der ’Apfelbotschaft erwähnte Steinkreuz stehen dürfte. —
+der Apfelbotschaft erwähnte Steinkreuz stehen dürfte. —
 Dieses Kreuz spielt eine große Rolle hier, mein Alter. Es
 ist das Golgatha der Sektierer, ihr heiliger Versammlungsort.«
 
@@ -2356,15 +2358,15 @@ dampfen förmlich vor Schweiß. Unter dem Tropenhelm
 Hervor kommen Wasserfluten — — Schweiß, der die Haut,
 die Augen ätzt.
 
-Harald, der Unermüdliche, immer zehn Meter voran.-
+Harald, der Unermüdliche, immer zehn Meter voran.
 Immer Deckung suchend hinter Felsgruppen, Büschen, immer
 wieder das Glas an den Augen.
 
-il Dann — in einer Sandmulde läßt er sein Tier niederknien.
+Dann — in einer Sandmulde läßt er sein Tier niederknien.
 
-Ich desgleichen. Und im Schatten eines Henkers den
+Ich desgleichen. Und im Schatten eines Haufens von
 Steingeröll binden wir die Dromedare fest, werfen ihnen
-Maiskolben hin, geben ihnen Wasser zu saufen, trinkau
+Maiskolben hin, geben ihnen Wasser zu saufen, trinken
 selbst kalten Tee.
 
 »Drei Wächter,« sagt Harald dann. »Ich werde zusehen,
@@ -2379,14 +2381,14 @@ im Mundwinkel.
 
 »So — die drei werden uns nicht stören. Ich habe sie
 mit ihren Turbanen gefesselt und geknebelt. Waren keine
-Helden, die drei, waren — Priester, Brahmanen, wie
-vermutet hatte. Ich habe auch bereits einen Bis in
+Helden, die drei, waren — Priester, Brahmanen, wie ich
+vermutet hatte. Ich habe auch bereits einen Blick in das
 Tal geworfen — auf daß Golgatha der Sektierer. Wir kommen
 noch zur rechten Zeit!«
 
 Er geht voran.
 
-Durch Täler und dumme Büsche.
+Durch Täler und dünne Büsche.
 
 Beginnt zu kriechen.
 
@@ -2398,7 +2400,7 @@ Art Schlucht erreichen.
 Ich richte mich auf.
 
 <@pagebreak/>
-Sechzig Schritt vor uns hocken zwischen Felsen ach!
+Sechzig Schritt vor uns hocken zwischen Felsen acht
 Inder
 
 Links von ihnen ragt aus dem Gestein daß Felsenkreuz
@@ -2434,10 +2436,10 @@ der Gouverneur ihn nicht hängen ließ, soll der Tiger den
 Henker spielen!« —
 
 Ich sehe — sehe, daß in Ismails Antlitz keine Spur
-den »Furcht ist. Ein verstörtes Lächeln umspielt seinen
-und
+von Furcht ist. Ein verklärtes Lächeln umspielt seinen
+Mund
 
-Das Lächeln jener Fernsten, die einst zu Zeiten der
+Das Lächeln jener Ärmsten, die einst zu Zeiten der
 grauenvollen Inquisition lächelnd den Scheiterhaufen bestiegen
 und ihrer sadistischen Henkersknechte in Mönchstracht
 spotteten.
@@ -2484,13 +2486,13 @@ gemacht.
 Unsere Aufmerksamkeit galt nur dem Steinkreuze.
 
 Und hinter uns schwingen zwei, die wir nicht sehen,
-irre Büchsenkolben.
+ihre Büchsenkolben.
 
 Zwei Hiebe treffen unsere Korkhelme, unsere Schädel.
 
 Wir taumeln, werden niedergerissen.
 
-Blitzschnell hüllen uns Seen ein.
+Blitzschnell hüllen uns Decken ein.
 
 Blind sind wir.
 
@@ -2520,7 +2522,7 @@ Stehen auf.
 <@pagebreak/>
 Die Köpfe brummen. Aber die Augen sind klar.
 
-Golgatha ist leer. Nur - der tote Tiger liegt noch dort
+Golgatha ist leer. Nur der tote Tiger liegt noch dort
 und die Stricke, mit denen Ismail an das Steinkreuz gefesselt
 war.
 
@@ -2535,17 +2537,17 @@ Er klappt sein Jagdmesser auf.
 Ich wandere müde und erschöpft den Weg nach der
 Talmulde zurück.
 
-Ich böse so vor mich hin. So recht ohne Gedanken.
+Ich döse so vor mich hin. So recht ohne Gedanken.
 Mein Schädel brummt noch.
 
 »Gummiabsatz — — Schatzkammer — — Gummiabsatz
-— - Schatzkammer!« — Das ist so das einzige, was mir
+— — Schatzkammer!« — Das ist so das einzige, was mir
 durchs Hirn schwirrt.
 
-böse in das Tal hinab, wo an den Felsen die beiden
+Döse in das Tal hinab, wo an den Felsen die beiden
 Dromedarklepper wiederkäuen.
 
-Und — Stute — stehe still.
+Und — stutze — stehe still.
 
 Spuk — —?! Täuschung?! — — Da sitzt Maria,
 die kleine Inderin, gekleidet in ein neues Gewand.
@@ -2556,11 +2558,11 @@ Lächelt verlegen.
 
 »Ich weiß es nicht, Sahib!«
 
-»Na Nu?! Du weißt es nicht?«
+»Na nu?! Du weißt es nicht?«
 
 »Nein. Mein Gedächtnis ist wie tot!«
 
-Ich merke; sie lügt! Sie will nichts sagen.
+Ich merke: sie lügt! Sie will nichts sagen.
 
 <@pagebreak/>
 
@@ -2594,8 +2596,8 @@ Und wir reiten am Ufer hinab bis zu dem Gehöft, wo
 Jack und Godwin ihre Handgelenke massieren und kühlen.
 
 Es gibt ein großes Hallo bei unserem Eintreffen.
-Goddlear ist rein aus dem Häuschen— Flucht, weil er nicht
-dabei gewesen, alles Harald den Tiger sch9ß.
+Goddlear ist rein aus dem Häuschen — flucht, weil er nicht
+dabei gewesen, alles Harald den Tiger schoß.
 
 Befühlt das Fell.
 
@@ -2624,7 +2626,7 @@ Sagt freundlich:
 
 »Du kannst also schreiben?«
 
-»Ob, gewiß!« Ganz stolz klingt das.
+»Oh, gewiß!« Ganz stolz klingt das.
 
 Da zieht Jack seine Brieftasche hervor. Entnimmt ihr
 einen Brief.
@@ -2644,43 +2646,43 @@ Sie wird sehr verlegen.
 
 »Merkwürdig!« lacht Jack. »Und doch hat Deine
 kleine schweißfeuchte Pfote hier unten Deinen Daumen und
-die Narbe sein säuberlich abgedrückt!«
+die Narbe fein säuberlich abgedrückt!«
 
-Maria errötet. Ihr bräunliches Ersichtlichen erscheint
+Maria errötet. Ihr bräunliches Gesichtchen erscheint
 dunkler. Sie will nicht lügen.
 
-»34 besinne mich nicht!« stammelt sie abermals. —
+»Ich besinne mich nicht!« stammelt sie abermals. —
 
 Harald mahnt zum Aufbruch. »Der Gouverneur hat
 ein Recht darauf, daß wir ihm melden, was geschehen,
 lieber Godwin!«
 
-Der Inspektor murmelt eine Verwünschung. »Aus
-lachen wird er mich, weil ein so alter Polizeiesel wie ich in
+Der Inspektor murmelt eine Verwünschung. »Auslachen
+wird er mich, weil ein so alter Polizeiesel wie ich in
 die Wolfsgrube fiel!«
 
-»Sie schätzen sich richtig ein,« meint der kleine Rad
+»Sie schätzen sich richtig ein,« meint der kleine Jack
 bissig. »Außerdem wird Exzellenz fraglos eine große Treibjagd
 auf die Banditen veranstalten!«
 
-»Welche Banditen?« Harald lächelt sein. »Verstehen
+»Welche Banditen?« Harald lächelt fein. »Verstehen
 Sie darunter Ismail Darba oder die acht frommen Herrschaften
 oder die Unsichtbaren, die Schraut und mich niederschlugen?
 Sie haben die Auswahl, Jack!«
 
 »Donnerwetter — stimmt! Hm — natürlich müssen
-die Unsichtbaren aber zu der Vetternschaft der Erhabenen ge
-hört haben!«
+die Unsichtbaren aber zu der Vetternschaft der Erhabenen gehört
+haben!«
 
 <@pagebreak/>
 Auch Godwin sagt: »Natürlich ist es so — natürlich!
 
-Harald faselt weiter. »Brechen wir auf!«
+Harald lächelt weiter. »Brechen wir auf!«
 
 Er nimmt Maria wieder vor sich in den Sattel. Die
 Kleine liebt Harst. Sie schmiegt sich eng an ihn. Sie ist
 nur noch ein halbes Kind. In ihren Adern meldet sich in
-kindlicher Harmlosigkeit der gewaltige Leben3ovdem. Ihre
+kindlicher Harmlosigkeit der gewaltige Lebensodem. Ihre
 Augen hängen an Haralds sonngebräuntem Gesicht in
 rührender Schwärmerei. —
 
@@ -2694,7 +2696,7 @@ weichen Boden hin.
 Diese Dschungeln der Chenab-Niederung sind berühmt.
 Hier hausen noch wilde Elefanten in starken Rudeln. Hier
 in der größtenteils undurchdringlichen Wildnis mit weiten
-Sumpdpfstrecken lebt der gepanzerte Sumpfbüffel, der sich
+Sumpfstrecken lebt der gepanzerte Sumpfbüffel, der sich
 jeden Morgen aufs neue im Lehmschlamm wälzt und den
 Lehm als dicke Kruste, als Panzer antrocknen läßt.
 
@@ -2705,21 +2707,21 @@ Heulen der Dschungelwölfe wacht auf — nähert sich. Aus
 schwarzem nächtlichen Dickicht blinken grünliche Lichter.
 
 Büffel schnauben. Die Nachtweihe stößt aus der Luft,
-schlägt die Fänge in das Fell des flinken JIchneumon3. Hat
+schlägt die Fänge in das Fell des flinken Ichneumons<@refnote 1/>. Hat
 sich geirrt. Hätte *den* Angriff nie gewagt. Mit durchbissenem
-Halse liegt der Vogel und verblutet«
+Halse liegt der Vogel und verblutet.
 
 Ich reite neben Harald.
 
-Und während Jack und Godwin hinter uns ’ sich
+Und während Jack und Godwin hinter uns sich
 zanken ohne jede Ehrfurcht vor den Schönheiten dieses nächtlichen
-Rittes, sagt Harald leise;
+Rittes, sagt Harald leise:
 
-»Maria schlägt. — Das Abenteuer ist zu Ende!«
+»Maria schläft. — Das Abenteuer ist zu Ende!«
 
 »zu Ende?«
 
-»3a. Der Gummiabsatz war ein Versehen: von mir!«
+»Ja. Der Gummiabsatz war ein Versehen: von mir!«
 
 Ich verstehe den Freund nicht.
 
@@ -2727,7 +2729,7 @@ Ich verstehe den Freund nicht.
 
 <@pagebreak/>
 »Ich glaubte, die Ecke des Gummiabsatzes deute auf
-eine geplante Beraubung des Indra-Tempels hin. Jetzt:
+eine geplante Beraubung des Indra-Tempels hin. Jetzt
 weiß ich, daß der Mann, der dort in den Hallen der toten
 Stadt Lahore das Stückchen Gummi verlor, Maria befreit
 hat.«
@@ -2735,27 +2737,27 @@ hat.«
 Ich begreife noch immer nicht.
 
 Und Harald fährt fort: »Der Gentleman und die
-Blonde, die Claire Clairon, sind, ebenfalls Sektierer!«
+Blonde, die Claire Clairon, sind ebenfalls Sektierer!«
 
 »Ah — das ist’s!«
 
-»3a. — Das ist’s! Und sie haben das allergrößte
+»Ja. — Das ist’s! Und sie haben das allergrößte
 Interesse daran, uns beiden — Sand in die Augen zu
 streuen!«
 
-»Und weshalb?2«
+»Und weshalb?«
 
 »Weil sie Mörder sind — sie und die andern.«
 
-Da schweige ich. Soll ich abermals zugeben, daß auch:
+Da schweige ich. Soll ich abermals zugeben, daß auch
 dies mir zu — zu hoch ist?!
 
-Und schweigend reiten wir in die Nacht hinaus, Unter
+Und schweigend reiten wir in die Nacht hinaus. Unter
 dem immer helleren Sternenhimmel dahin. Bis dort vor
 uns über den Büschen die rote Glut eines Riesenbrandes zu
 leuchten scheint.
 
-Scharf beben sich die Konturen der Baumkronen von
+Scharf heben sich die Konturen der Baumkronen von
 dem feurigen Rot in gekrümmten Strichen ab.
 
 Und hinter uns ruft Jack, der Kleine: »Hallo — das
@@ -2763,26 +2765,26 @@ Jagdlager ist in Sicht! Verdammt — die scheinen ja aus
 Anlaß unserer Rückkehr illuminiert zu haben! Da brennen
 ja Hunderte von Harzfackeln!«
 
-Unsere Kamele wittern das Lager, greifen flotter aus;
+Unsere Kamele wittern das Lager, greifen flotter aus.
 
 Maria erwacht in Harsts Armen.
 
 Gähnt — blinzelt geradeaus.
 
-Und noch drei Minuten. Dann biegen: wir um die
+Und noch drei Minuten. Dann biegen wir um die
 Baumkulisse in die Lichtung ein.
 
 Ja — Hunderte von Fackeln. Jeder Treiber hält zwei
 in den Händen. Und die Treiber stehen im Halbkreis vor
 dem Riesenzelte des Gouverneurs.
 
-Vor dem Zelte auch Sieg auf Feldstühlen Seine Exzellenz,
+Vor dem Zelte auch sitzen auf Feldstühlen Seine Exzellenz,
 <@pagebreak/>
 der Allmächtige des Bezirks Lahore, eines Bezirks,
 halb so groß wie Deutschland.
 
 Und neben ihm lehnt graziös und andächtig schauend
-die blonde Europäerin mit den erhängen.
+die blonde Europäerin mit den Rehaugen.
 
 Auf Teppichen aber inmitten des Halbkreises der Fackeln
 tanzt ein Dutzend indischer Bajaderen.
@@ -2790,7 +2792,7 @@ tanzt ein Dutzend indischer Bajaderen.
 Tanzt zur echt indischen Musik.
 
 Jazzband-Kapelle könnte man sagen. Nur nicht ganz
-so lärmend. Nicht ganz s? wild.
+so lärmend. Nicht ganz so wild.
 
 Unbemerkt lassen wir die Tiere niederknien. Steigen
 ab. Warten — warten.
@@ -2801,7 +2803,7 @@ Und ich flüstere Harald zu
 
 »Auch den — Gummiabsatz sehe ich!«
 
-»Was bedeutet da32?«
+»Was bedeutet das?«
 
 »Vornehme Engländer fraglos — sehr vornehme Engländer!«
 
@@ -2818,21 +2820,21 @@ Harst nimmt Maria bei der Hand.
 
 Wir gehen dem Zelte zu …
 
-Exzellenz erhebt sich, reicht uns zum Grube die schmale
+Exzellenz erhebt sich, reicht uns zum Gruße die schmale
 Rechte.
 
-Stellt uns der Blonden und dem Herrn vor, dem -
+Stellt uns der Blonden und dem Herrn vor, dem —
 Gummiabsatz:
 
-»Der Herzog von Gyfa -+ die Herzogin -+«
+»Der Herzog von Gyfa — die Herzogin —«
 
 Mir bleibt der Atem weg.
 
-Man braucht in der Liste des englischen Schadete
-nicht Bescheid zu wissen: der Herzog von Guten ist weltbekannt!
-Sein Reichtum stellt den eines Dirigent Korsar
-in den Schatten. Sein Rennstall betrifft alle Bahnen des
-Srdenruünds. —
+Man braucht in der Liste des englischen Hochadels
+nicht Bescheid zu wissen: der Herzog von Gyfa ist weltbekannt!
+Sein Reichtum stellt den eines Pierpont Morgan
+in den Schatten. Sein Rennstall beschickt alle Bahnen des
+Erdenrunds. —
 
 <@pagebreak/>
 Der Herzog hat sich nur steif verbeugt. Die Herzogin
@@ -2841,7 +2843,7 @@ lächelt süß, lieblich.
 »Ich habe schon so viel von Ihnen gehört, Mister
 Harst —«
 
-»Vielleicht noch nicht genug,« meint Harald scheinba1t
+»Vielleicht noch nicht genug,« meint Harald scheinbar
 ungeschickt.
 
 Über das zarte Gesicht der Herzogin huscht ein
@@ -2849,7 +2851,7 @@ Schatten.
 
 Da fragt Exzellenz schon, wer das Kind ist.
 
-»Maria, der kleine Käfigvogel.« Und Harald lacht!
+»Maria, der kleine Käfigvogel.« Und Harald lacht
 harmlos.
 
 »Erzählen Sie — erzählen Sie!«
@@ -2859,15 +2861,15 @@ Nebenrolle, bleibe — zweite Garnitur.
 
 Harst berichtet — ganz kurz.
 
-Erwähnt auch unser Zusammentreffen mit dem heranschlichen
-Ehepaar am — Badeofen.
+Erwähnt auch unser Zusammentreffen mit dem herzoglichen
+Ehepaar am — Backofen.
 
-Erklärt Ismails Schlaf: Sektierer, Rache des
+Erklärt Ismails Schicksal: Sektierer, Rache des
 Bruders. —
 
 Exzellenz schüttelt den Kopf.
 
-»Eine neue Sekte, meinen Sie?! Habe Biester nichts
+»Eine neue Sekte, meinen Sie?! Habe bisher nichts
 davon gewußt!«
 
 Dann wendet Exzellenz sich an Maria:
@@ -2888,14 +2890,14 @@ Ein seltsames Nachtbild.
 Mittelpunkt jetzt das Kind. —
 
 Maria hebt den Kopf, spricht zu Goddlear klar und laut:
-»34h lüge nicht! Was zur Ehre des Gekreuzigten aus dem
+»Ich lüge nicht! Was zur Ehre des Gekreuzigten aus dem
 Gedächtnis des Gläubigen ausgelöscht wird, ist keine Lüge!«
 
 Stille ringsum.
 
-Ich beobachte die Herzogin. Ihre erhängen hängen
+Ich beobachte die Herzogin. Ihre Rehaugen hängen
 <@pagebreak/>
-an dem Gesicht des Kindes in tiefer Schwärmerei. Fana-tiömus
+an dem Gesicht des Kindes in tiefer Schwärmerei. Fanatismus
 könnte man sagen. —
 
 Exzellenz winkt.
@@ -2906,7 +2908,7 @@ Die Treiber entfernen sich.
 Gouverneur. »Hier in meinem Bezirk will ich *alles*
 wissen, was vorgeht. — Goddlear, Sie werden vorausfahren.
 Die Brahmanen, die Ismail am Kreuze zerreißen
-lassen wollten durch den Tiger, wie das einst Nerv mit den
+lassen wollten durch den Tiger, wie das einst Nero mit den
 ersten Christen tat, müssen entdeckt werden.«
 
 Er zieht sich mit seinen Gästen zurück.
