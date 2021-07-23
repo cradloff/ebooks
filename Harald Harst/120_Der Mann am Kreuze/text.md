@@ -81,7 +81,7 @@ darf ich Ihnen nicht sagen. — Seien Sie barmherzig.
 Ismail Darba wird übermorgen früh hingerichtet. Gott
 wird’s lohnen!«
 
-Wir hatten gemeinsam diesen Hilferuf gelesen
+Wir hatten gemeinsam diesen Hilferuf gelesen.
 
 <@pagebreak/>
 »Na?« fragte Harald.
@@ -89,7 +89,7 @@ Wir hatten gemeinsam diesen Hilferuf gelesen
 Lehnte sich zurück und nahm eine Zigarette.
 
 »Hm — der Unbekannte glaubt, wir wüßten bereits
-Über Ismail Darba Bescheid,« erklärte ich. »Da irrt er
+über Ismail Darba Bescheid,« erklärte ich. »Da irrt er
 sich aber. Ich jedenfalls habe den Namen soeben zum ersten
 Male gelesen!«
 
@@ -238,7 +238,7 @@ Und so mitten im Gaumengenuß sagte Godwin:
 habe Euch beiden absichtlich Falsches depeschiert, denn es
 <@pagebreak/>
 soll nicht bekannt werden, daß der Alte schon morgen früh
-fünf Uhr baumeln wird.
+fünf Uhr baumeln wird.«
 
 Harald hatte bisher genau wie Goddlear jede Andeutung
 auf die »unglaubliche Geschichte« und den Hauptmacher
@@ -251,7 +251,7 @@ vermieden.
 »Und weshalb? Raub?«
 
 »Weiß keiner. Ismail leugnet natürlich. Doch da der
-Ermordete ein Europäer ist, da außerdem —
+Ermordete ein Europäer ist, da außerdem —«
 
 Harald legte Messer und Gabel weg, rief:
 
@@ -292,7 +292,7 @@ gevierteilter Hof. Und im Nordflügel die Zellen für die
 Delinquenten …
 
 Inspektor Goddlear hatte uns unterwegs den Fall
-Ismail Darba sehr kurz und Übersichtlich geschildert. Nun
+Ismail Darba sehr kurz und übersichtlich geschildert. Nun
 kannte auch ich diese Mordtat, die an sich durchaus nichts
 Besonderes bot.
 
@@ -336,7 +336,7 @@ wir nur Schemen seien.
 möchten Dich sprechen!«
 
 Des Greises Augensterne bedeckten sich langsam mit
-Den Lidern.
+den Lidern.
 
 So verharrte er minutenlang.
 
@@ -344,7 +344,7 @@ Der Inspektor flüsterte uns zu: »Kenne das schon an
 ihm! Theater! Nichts weiter! Ein ganz geriebener alter
 Bursche!«
 
-»So — —?!» meinte Harald sehr gedehnt.
+»So — —?!« meinte Harald sehr gedehnt.
 
 Da hob auch schon Ismail die Lider.
 
@@ -365,14 +365,14 @@ etwas wie das Bewußtsein eigenen wohlbegründeten Wertes.
 Harald wandte sich an Goddlear.
 
 »Wir werden den Wärter durch die Glocke herbeirufen,
-Wenn wir wieder hinauswollen. Sagen Sie ihm doch
+wenn wir wieder hinauswollen. Sagen Sie ihm doch
 Bescheid.«
 
 Der Inspektor zögerte. Er hatte wohl gemerkt, daß
 Harst auf seine Anwesenheit gern verzichtete.
 
 Da fügte Harald ganz leise hinzu: »Bleiben Sie hier
-Im Hause vorn in Ihrem Dienstzimmer, lieber Godwin.
+im Hause vorn in Ihrem Dienstzimmer, lieber Godwin.
 Die Hinrichtung wird *nicht* stattfinden!«
 
 Goddlear markierte ein Achselzucken.
@@ -397,7 +397,7 @@ und plötzlich sagte er ganz unvermittelt:
 
 »Sahib, Du hast ein gutes Gesicht!«
 
-man stelle sich vor: sechs Stunden nur noch vom Tode
+Man stelle sich vor: sechs Stunden nur noch vom Tode
 entfernt, und Ismail studierte Gesichtszüge!!
 
 Harst entgegnete freundlich: »Ich möchte mit Dir über
@@ -486,7 +486,7 @@ spielte:
 erbitterte Feinde, die gemein genug von Gesinnung seien, die
 Schuld auf einen anderen aus Niedertracht abzuschieben.
 Und doch hast Du dich geweigert, diese Feinde zu nennen.
-weshalb?«
+Weshalb?«
 
 Ismail senkte den Kopf und schwieg.
 
@@ -561,7 +561,7 @@ angefleht, Ismails Schuldlosigkeit zu beweisen. Mir wurden
 Ismail zu retten. Man legte jedem der Briefe Geld bei.
 Und außerdem tauchte hier vor einem Monat ein Detektiv
 auf, der gleichfalls anonym aus Bombay hergeschickt worden
-war. Sie kennen ihn: Jack Patagarlon!«
+war. Sie kennen ihn: Jack Patarlagon<@refnote 1/>!«
 
 »Ah — der kleine Jack! — Nun — und?!«
 
@@ -656,7 +656,7 @@ ist gegen einen dünnen, straff gespannten Draht gerannt, als
 er den Berg hinabradelte. Da der Draht sehr dünn und
 doch sehr stark war und quer über die Straße lief, hat Matasour
 sich an dem Drahte die Kehle bis zu den Halswirbeln
-Durchgeschnitten.«
+durchgeschnitten.«
 
 Exzellenz lächelte sehr von oben herab.
 
@@ -757,7 +757,7 @@ machen.«
 Der Gouverneur verneigte sich vor Harald, vor der
 überragenden Intelligenz.
 
-Alles wird geschehen, wie Sie es wünschen, Mister
+»Alles wird geschehen, wie Sie es wünschen, Mister
 Harst!«
 
 Dann gingen wir, bestiegen Goddlears Auto und
@@ -766,7 +766,7 @@ fuhren zu seinem Bungalow.
 Heller Tag war’s bereits.
 
 Diese wundervolle alte indische Stadt, erbaut auf den
-Trümmern der Residenz der alten Mogulkaiser, Überragt
+Trümmern der Residenz der alten Mogulkaiser, überragt
 weit die fruchtbare, von Kanälen durchzogene Ebene.
 
 Alte Prachtbauten schauen aus grünem Laube hervor.
@@ -1004,7 +1004,7 @@ Seiner Exzellenz dem Gouverneur.
 
 Wie alt er ist, weiß niemand. Er selbst mag es nicht
 wissen. Man sagt ihm ein Alter von hundert Jahren nach.
-achtzig werden es in Wahrheit sein.
+Achtzig werden es in Wahrheit sein.
 
 Wir kauern im Gebüsch hinter ihm. Wir sehen sein
 scharfes Profil, den schneeweißen Bart, die hageren, faltigen
@@ -1064,7 +1064,7 @@ Auge, daß man im Hinterkopf hat.«
 »Was soll das?« — Ich merke die leise Unruhe in
 Harsts Stimme.
 
-Eine Unruhe, die ansteckend Wirkt, die tausend Gefahren
+Eine Unruhe, die ansteckend wirkt, die tausend Gefahren
 ahnen läßt.
 
 Und er schweigt, schaut nur auf den blanken goldenen
@@ -1150,7 +1150,7 @@ Immer an derselben Stelle — dicht vor uns — unbeweglich.
 Und doch sich verändernd im gelbgrünen Flimmern.
 Bald größer, bald kleiner.
 
-»Schießen!« raune ich Harst zu
+»Schießen!« raune ich Harst zu.
 
 Und greife in das Indergewand, wo die treue Clement
 steckt.
@@ -1164,7 +1164,7 @@ Ein Zündholz flackert neben mir auf.
 Nun sehe ich den Tiger.
 
 Sehe noch mehr: aus dunklem Schlund schleicht’s aus
-Der Wand herbei — zwei, vier andere Bestien — irgendwoher
+der Wand herbei — zwei, vier andere Bestien — irgendwoher
 aus einem Nebenkäfig.
 
 Da zischt in Haralds Fingern das Schwefelharz an der
@@ -1259,7 +1259,7 @@ kennt, wird ihm recht geben.
 
 Und hier — hier war in einem Saale, der von all den
 Erdgeschoßräumen dieses einstigen Palastes am besten erhalten
-war, eine wahrhaft märchenhafte Schatzkammer angelegt
+war, eine wahrhaft märchenhafte Schatzkammer angelegt.
 
 Hier sahen wir nun Truhe an Truhe, sahen an Marmorwänden
 altindische Goldrüstungen glänzen, Schilde,
@@ -1457,7 +1457,7 @@ Ismails Befreier —«
 
 »Nette Befreier!« fiel Harald ihm schon ins Wort.
 <@pagebreak/>
-Schnell, Godwin. Und Proviant mitnehmen — für drei
+»Schnell, Godwin. Und Proviant mitnehmen — für drei
 Tage!«
 
 Auch ich stand mit wenig geistreichem Gesicht dabei.
@@ -1472,7 +1472,7 @@ im Dunklen tappe — völlig!«
 
 Er hörte gar nicht hin. Seine Augen waren starr geradeaus
 gerichtet — die Allee entlang, die zur Straße
-führte
+führte.
 
 Und dort — dort auf der Straße ging ein zerlumpter
 Bettler vorüber, der auf dem linken Fuße lahm war.
@@ -1491,7 +1491,7 @@ Dann kam er zurück — mit einem Brief in der Hand —
 mit demselben Briefe, den der Zerlumpte über das Gitter
 geschleudert hatte. —
 
-ein sehr elegantes Briefpapier, Büttenpapier mit feinen
+Ein sehr elegantes Briefpapier, Büttenpapier mit feinen
 Goldflöckchen darin. Es duftete zart nach Veilchen —
 ganz zart.
 
@@ -1532,7 +1532,7 @@ hinter den fernen Büschen.
 
 Wie gesagt: die Photographie stellte eine Art Versammlung
 dar, eine Art religiöser Versammlung, so schien es
-mir, —
+mir. —
 
 Merkwürdigerweise warf Harald einen nur ganz flüchtigen
 Blick darauf, sagte sinnend: »Der Fall kompliziert sich.
@@ -1598,7 +1598,7 @@ Aus dem Kreise der stummen Gestalten trat Manga
 Daris Nachfolger hervor — auch ein Greis mit düsteren
 fanatischen Augen.
 
-»folgt mir! Nur immer der Oberpriester darf in die
+»Folgt mir! Nur immer der Oberpriester darf in die
 alten Hallen hinab. Jedem andern ist der Zutritt verboten!«
 
 Er ging voraus. Wir hatten unsere Taschenlampen,
@@ -1636,7 +1636,7 @@ Bei — Seiner Exzellenz.
 
 <h3>Am Rande des Dschungels.</h3>
 
-Das Arbeitszimmer Seiner Exzellenz im Gouverneurpalais
+Das Arbeitszimmer Seiner Exzellenz im Gouverneurpalais.
 
 Wir drei, Exzellenz und Polizeidirektor Smarly in
 Sesseln um einen Tisch herum.
@@ -1778,7 +1778,7 @@ beisteuern, was wichtig ist: Ismails Versteck!«
 
 »Hm — das hätte ich wohl auch gefunden!«
 
-»So?! — Und wissen Sie, daß Ismail =«
+»So?! — Und wissen Sie, daß Ismail —«
 
 »— nicht befreit, sondern entführt wurde und nun gefangengehalten
 wird: auch das weiß ich!«
@@ -1837,7 +1837,7 @@ Hier sollten wir die Kamele in Empfang nehmen.
 »Hm!« meinte Harald. »Gefällt mir nicht! Goddlear,
 Sie haben doch mit dem Manne alles vereinbart?«
 
-»und ob! Hab’ ich! Der Kerl sollte uns hier an der
+»Und ob! Hab’ ich! Der Kerl sollte uns hier an der
 Pforte zwischen halb elf und elf erwarten. Es ist jetzt
 fünf Minuten vor elf!«
 
@@ -1878,7 +1878,7 @@ und Jack sich umdrehte und pfiffig lächelnd meinte:
 
 »Ismail wird im Makilanga-Berge gefangengehalten.
 Wir sind sofort an Ort und Stelle. Dort drüben fließt der
-Chenab, und dort =«
+Chenab, und dort —«
 
 »Absteigen!« befahl Harald kurz.
 
@@ -1920,12 +1920,12 @@ Wir zogen ab.
 
 <h2>2. Kapitel.</h2>
 
-<h3>Die Wolfsgrube</h3>
+<h3>Die Wolfsgrube.</h3>
 
 Jack wieder voran.
 
 Einer hinter dem andern — wie die Indianer. Goddlear
-Und ich hatten Remingtonjagdbüchsen, Jack hatte von
+und ich hatten Remingtonjagdbüchsen, Jack hatte von
 Harst eine zehnschüssige amerikanische Coldbüchse geliehen
 erhalten, die aus dem Waffenschrank Seiner Exzellenz
 stammte.
@@ -2149,7 +2149,7 @@ Und an diesem Tau, das noch durch die Zügel und
 Riemen des Sattelzeugs verlängert und verstärkt war,
 kletterte ich als letzter empor, nachdem Harst die beiden Kollegen
 ihrer geschwollenen Handgelenke wegen hochgezogen
-hatte, —
+hatte. —
 
 Ich merkte sehr bald, daß Harald nur so tat, als ob
 er dem Verschwinden Ismails und seiner Wächter durchaus
@@ -2207,7 +2207,7 @@ alle Folgen allein auf sich und — starb.«
 »Oh — ich habe Goddlear so etwas über diesen Charles
 Matasour ausgeforscht. Matasour, behaupte ich, war
 nur zum Schein Händler, in Wahrheit — Missionar oder
-besser: Mitbegründer der christlichen Sekte! deshalb mußte
+besser: Mitbegründer der christlichen Sekte! Deshalb mußte
 er sterben — auch auf Manga Daris Befehl!«
 
 Kurze Pause. — Dann: »Und das Verschwinden der
@@ -2226,7 +2226,7 @@ Und dort …
 <h3>Die gestörte Sitzung.</h3>
 
 Dort erblickten wir zwei gesattelte Pferde, erblickten auch
-Die Reiter, die langsam aus der Grotte ins Freie kamen:
+die Reiter, die langsam aus der Grotte ins Freie kamen:
 ein Herr im Sportanzug und ein junges blondes Weib,
 gleichfalls im praktischen Reitkostüm.
 
@@ -2247,7 +2247,7 @@ Südost davon.
 
 <@pagebreak/>
 »Hm — —!!« meinte Harald. »Schade, daß wir nicht
-Mehr Zeit haben.«
+mehr Zeit haben.«
 
 Wir betraten die Grotte.
 
@@ -2269,7 +2269,7 @@ anders heißt!«
 Ich stand da und starrte ihn an.
 
 »Und da hast Du die beiden einfach wegreiten lassen,
-wo sie noch Maria =«
+wo sie noch Maria —«
 
 Er winkte ab. »Mein Alter, die beiden entgehen uns
 nicht. Daß sie Maria töten werden, falls wir das Kind
@@ -2355,7 +2355,7 @@ Unheimlich heiß brennt die Mittagssonne herab.
 
 Meine Zunge klebt am Gaumen. Meine Kleider
 dampfen förmlich vor Schweiß. Unter dem Tropenhelm
-Hervor kommen Wasserfluten — — Schweiß, der die Haut,
+hervor kommen Wasserfluten — — Schweiß, der die Haut,
 die Augen ätzt.
 
 Harald, der Unermüdliche, immer zehn Meter voran.
@@ -2401,7 +2401,7 @@ Ich richte mich auf.
 
 <@pagebreak/>
 Sechzig Schritt vor uns hocken zwischen Felsen acht
-Inder
+Inder.
 
 Links von ihnen ragt aus dem Gestein daß Felsenkreuz
 hervor, und an diesem Kreuze hängt ein greisenhafter Inder
@@ -2437,7 +2437,7 @@ Henker spielen!« —
 
 Ich sehe — sehe, daß in Ismails Antlitz keine Spur
 von Furcht ist. Ein verklärtes Lächeln umspielt seinen
-Mund
+Mund.
 
 Das Lächeln jener Ärmsten, die einst zu Zeiten der
 grauenvollen Inquisition lächelnd den Scheiterhaufen bestiegen
@@ -2568,7 +2568,7 @@ Ich merke: sie lügt! Sie will nichts sagen.
 
 <h2>4. Kapitel.</h2>
 
-<h3>Die Herzogin von Gyfa,</h3>
+<h3>Die Herzogin von Gyfa.</h3>
 
 Und als wir dann am Golgatha-Platze eintreffen, erklärt
 die Kleine Harald gegenüber genau dasselbe. Sie besinnt
@@ -2605,7 +2605,7 @@ Fragt Maria dann aus.
 
 Fragt immer wieder. —
 
-»Jack Patarlagon, der kleine Jack, Perle der Bombayer
+Jack Patarlagon, der kleine Jack, Perle der Bombayer
 Detektive, steht dabei mit seinem pfiffigen Jockeigesicht und
 schaut das Kind still an.
 
@@ -2675,7 +2675,7 @@ die Unsichtbaren aber zu der Vetternschaft der Erhabenen gehört
 haben!«
 
 <@pagebreak/>
-Auch Godwin sagt: »Natürlich ist es so — natürlich!
+Auch Godwin sagt: »Natürlich ist es so — natürlich!«
 
 Harald lächelt weiter. »Brechen wir auf!«
 
@@ -2707,7 +2707,7 @@ Heulen der Dschungelwölfe wacht auf — nähert sich. Aus
 schwarzem nächtlichen Dickicht blinken grünliche Lichter.
 
 Büffel schnauben. Die Nachtweihe stößt aus der Luft,
-schlägt die Fänge in das Fell des flinken Ichneumons<@refnote 1/>. Hat
+schlägt die Fänge in das Fell des flinken Ichneumons<@refnote 2/>. Hat
 sich geirrt. Hätte *den* Angriff nie gewagt. Mit durchbissenem
 Halse liegt der Vogel und verblutet.
 
@@ -2719,7 +2719,7 @@ Rittes, sagt Harald leise:
 
 »Maria schläft. — Das Abenteuer ist zu Ende!«
 
-»zu Ende?«
+»Zu Ende?«
 
 »Ja. Der Gummiabsatz war ein Versehen: von mir!«
 
@@ -2797,7 +2797,7 @@ so lärmend. Nicht ganz so wild.
 Unbemerkt lassen wir die Tiere niederknien. Steigen
 ab. Warten — warten.
 
-Und ich flüstere Harald zu
+Und ich flüstere Harald zu.
 
 »Begreifst Du das?! Siehst Du die Blonde?!«
 
@@ -2942,9 +2942,9 @@ haben die beiden nicht wieder zu Gesicht bekommen. Harald
 scheint sich für diese Dinge nicht mehr zu interessieren.
 Er streift mit mir durch die Stadt und treibt Studien.
 
-Goddlear hockt im Rohrsessel und trinkt Whistky.
+Goddlear hockt im Rohrsessel und trinkt Whisky.
 
-Goddlear wirst wütende Blicke auf Harst.
+Goddlear wirft wütende Blicke auf Harst.
 
 <@pagebreak/>
 Platzt heraus: »Mann, Harald Harst, besorgen Sie mir
@@ -2952,9 +2952,9 @@ die schuftigen Brahmanen, Sie könnten es, wenn Sie
 wollten!«
 
 »Nein,« erwidert Harald sehr bestimmt. »Das könnte
-ich nicht, mein lieber Godwin: Sobald es sich um eine -
-Glaubensgenossenschaft handelt, gegen deren Obere Mann
-vorgehen will, sticht man in ein Wespennest. Dose hat die
+ich nicht, mein lieber Godwin: Sobald es sich um eine
+Glaubensgenossenschaft handelt, gegen deren Obere man
+vorgehen will, sticht man in ein Wespennest. Das hat die
 Kriminalgeschichte aller Zeiten und Länder längst bewiesen.
 Sie werden nichts erreichen, Goddlear, denn Sie kämpfen
 hier gegen eine ungeheure geistige Macht: den Brahmanismus!
@@ -2978,7 +2978,7 @@ Wenn Sie in meiner Haut stecken würden, Sie kleine freche
 Wanze, wenn Ihnen Exzellenz täglich mehrmals Unfähigkeit
 unter die Nase reiben würde, dann — dann —«
 
-Jack krümmt sich. »Wanze = Wanze! Großartig!!«
+Jack krümmt sich. »Wanze — Wanze! Großartig!!«
 Und wird urplötzlich ernst.
 
 »Wenn Sie erfahren wollen, wo Ismail steckt, fragen
@@ -2987,7 +2987,7 @@ im Gouverneurpalast.«
 
 Ich bin platt.
 
-Harald nicht. »Allerdings. Ich habe zwei Diener bestochen.
+Harald nickt. »Allerdings. Ich habe zwei Diener bestochen.
 Es spricht für Ihre Schlauheit, Jack, daß Sie das
 herausgebracht haben.«
 
@@ -3000,14 +3000,14 @@ Harald raucht eine Mirakulum.
 <@pagebreak/>
 Herzog nebst Gemahlin heute acht Uhr ohne Begleitung
 einen Spazierritt unternimmt. Es ist jetzt halb acht. Godwin,
-Ihr Auto muß um drei Viertel ach: bereitstehen.« — —
+Ihr Auto muß um drei Viertel acht bereitstehen.« — —
 
 Wir fahren die Straße nach Nordwest entlang — zum
 Dorfe Makilanga.
 
 Wir vier — ohne Chauffeur.
 
-Stellen daß Auto um ein Uhr im Dorfe unter und -
+Stellen das Auto um ein Uhr im Dorfe unter und
 wandern zu Fuß weiter.
 
 Zum Makilanga — zum Backofen.
@@ -3016,14 +3016,14 @@ Harst voran.
 
 Vorsichtig — jede Deckung benutzend.
 
-Hitze blutet über dem Wüstenstrich.
+Hitze brütet über dem Wüstenstrich.
 
-Wir kriechen in die Grotte des Makilanga hinein
+Wir kriechen in die Grotte des Makilanga hinein.
 
 Verbergen uns.
 
 Schichten Felstrümmer in einer Ecke auf — eine ganz
-schlichte Barrikade — wie ein Steinhaufen …
+schlichte Barrikade — wie ein Steinhaufen.
 
 Warten — warten.
 
@@ -3031,7 +3031,7 @@ Vier Uhr ist’s.
 
 Da — erscheint Ismail, der Alte.
 
-Späht umher. Selbst sich nieder.
+Späht umher. Setzt sich nieder.
 
 Andere kommen — alles Inder, Männer, Frauen;
 Arme, Reiche.
@@ -3052,7 +3052,7 @@ Stützen es durch Steinblöcke — mitten im Kreise der
 Sektierer.
 
 Errichten eine Art Kanzel dem Kreuze gegenüber,
-breiten kostbare Seidentücher darüber. —!
+breiten kostbare Seidentücher darüber. —
 
 Soll ich hier im einzelnen die Andacht der Heiligen vom
 Kreuze schildern?!
@@ -3080,7 +3080,7 @@ Die Grotte leerte sich wieder.
 
 Auch das Herzogspaar verschwand.
 
-Wir hockten in unserem Versteck. Wagten uns erst nack&ck
+Wir hockten in unserem Versteck. Wagten uns erst nach
 einer geraumen Weile hervor.
 
 Godwin war wie vor den Kopf geschlagen.
@@ -3092,12 +3092,12 @@ Der blieb stumm.
 »Ich kann doch die Herzogin von Gyfa nicht beim
 Gouverneur anzeigen, weil sie mit daran schuld ist, daß die
 acht sich freiwillig dem Tode auslieferten!« jammerte
-Goddlear:
+Goddlear.
 
 »Tun Sie gar nichts,« erklärte Harst da. »Überlassen
 Sie alles der Zukunft!«
 
-»Was heißt das?
+»Was heißt das?«
 
 »Das heißt, daß mir der Herzog unendlich leid tut, denn
 er macht das alles nur gezwungen mit!«
@@ -3109,15 +3109,15 @@ Und wir fuhren wieder nach Lahore.
 Der Leser besinnt sich vielleicht, daß im September 1923
 eine Notiz durch die Zeitungen ging:
 
-»Die Herzogin Geraldine von Gyfa mußte während
-ihres Aufenthalts in Indien in eine Vrivatirrenanstel:
+> »Die Herzogin Geraldine von Gyfa mußte während
+ihres Aufenthalts in Indien in eine Privatirrenanstalt
 wegen religiösen Wahnsinns gebracht werden …«
 
 <@pagebreak/>
-— Und das — hatte Harst vorauS3agesehen.
+— Und das — hatte Harst vorausgesehen.
 
 Das war jedoch nicht das Ende der Sekte der Heiligen
-vom Kreuze. Nein — sie besteht noch — heimlich natürlich. -
+vom Kreuze. Nein — sie besteht noch — heimlich natürlich.
 
 Und wenn irgendwo ein betagter Mann in Indien
 verschwindet, schauen sich die Wissenden vielsagend an:
@@ -3125,11 +3125,11 @@ verschwindet, schauen sich die Wissenden vielsagend an:
 > Der Mann am Kreuze!!
 
 — Hiermit schließe ich dieses Abenteuer, dem ein anderes
-sich unmittelbar anreihte, ein noch seltsameres -
-Problem: ]
+sich unmittelbar anreihte, ein noch seltsameres
+Problem:
 
-*Tanz Barru, der Verrückte.*
+*Tawa Barru, der Verrückte.*
 
 Nächster Band:
 
-__Tanz Barru, der Verrückte,__
+__Tawa Barru, der Verrückte.__
