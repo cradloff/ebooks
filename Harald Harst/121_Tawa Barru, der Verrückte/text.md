@@ -1,41 +1,6 @@
-<@pagebreak/>
- 
+<h1>Tawa Barru, der Verrückte</h1>
 
-Der Detektiv. Band 121. 6 Preis 20 Pfg.
-<@pagebreak/>
-Der Detektiv
-
-Rriminalerzählungen
-Don
-
-Malter Rabel.
-
-Band 12821:
-
-Tawa Barru GE LEL
-
-E
-
- 
-  
-
-* RBÉRT GER!
-
-| Wissenschafil. Lehr
-
-060060 060000 E060 060 IR
-Derlag moderner Lektüre Fett 4 rh
-Berlin 26, Eliſabeth « Ufet ‘44g
-<@pagebreak/>
-Nachdru> verboten. Alle Rechte einſchließlich Verſfilmungs-
-recht vorbehalten. Copyright by Verlag moderner Lektüre
-' G. m. b. H., Berlin 26. — 1924.
-
-Dru>: Buchdru>erei P. Lehmann G. m. b. H., Berlin.
-<@pagebreak/>
-AAR ECMA AR
-
-1.
+1. Kapitel.
 Hammelblut.
 
 Als das gans eigenauttigr-ſchaurig füingende Jaulen zum
