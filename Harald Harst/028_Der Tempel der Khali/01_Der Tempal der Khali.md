@@ -17,7 +17,7 @@ sehr wenig gesprochen. Gab es doch ringsum genug, übergenug
 zu sehen, denn kaum eine Stadt Indiens ist ja so sehr das
 Ziel und die Sehnsucht ganzer Scharen von Touristen wie gerade
 dieses wunderbare, märchenhaft schöne Dehli am rechten,
-hoch aufgemauerten Ufer des Dschamma-Flusses.
+hoch aufgemauerten Ufer des Dschamna-Flusses.
 
 Auf Harald Harsts Stoßseufzer über »das öde Leben«,
 mit dem ich übrigens sehr zufrieden war, wollte ich gerade
@@ -47,7 +47,7 @@ ihm gegenüber sehr zugeknöpft zeigen.
 wie Sie, Herr Harst, den Kampf gegen das Verbrechertum
 zu einer Kunst erhoben haben,« begann der kleine Herr sofort
 wieder und entnahm seiner Zigarrentasche eine offenbar
-sehr kostbare Importe, deren Staniolpapierumhüllung er
+sehr kostbare Importe, deren Stanniolpapierumhüllung er
 gewandt loslöste. »Ja, sogar ein so begeisterter Bewunderer,
 daß ich Ihre Kunst, Herr Harst, weit über alle anderen Talente
 stelle,« fuhr er fort. »Mit größtem Interesse habe ich
@@ -128,12 +128,12 @@ ich könnte den Goldreifen jetzt noch wieder herbeischaffen,
 müssen Sie wohl Beweise dafür haben, daß von den Spitzbuben
 die Goldkrone nicht etwa eingeschmolzen worden ist. Dieses
 Einschmelzen liegt ja so nahe, da eine solche Rarität als
-ganzes in ursprünglicher Gestalt kaum zu veräußern ist.«
+Ganzes in ursprünglicher Gestalt kaum zu veräußern ist.«
 
 <@pagebreak/>
 Molgedey streckte Harst freudig erregt die Hand hin.
 
-»Verehrtester Herr Harst, ich bin überglücklich! Ich sehe
+»Verehrtester Herr Harst, ich bin überglücklich! Ich sehe,
 mein Fall interessiert Sie bereits etwas. — Ja, es ist so: ich
 wollte versuchen, mich Ihres Beistandes zu versichern. Die
 Diebe haben mir nämlich die Krone zum — Rückkauf angeboten
@@ -182,7 +182,7 @@ zwei Leute, die miteinander rangen.«
 
 <@pagebreak/>
 »Halt,« meinte Harst, indem er sich sichtlich gespannt vorbeugte.
-»Sie sagten die Leute rangen miteinander?«
+»Sie sagten, die Leute rangen miteinander?«
 
 »Ja — es war so. Es waren zwei Kerle mit Stoffmasken
 vor den Gesichtern. Ein dritter Bursche stand mehr nach
@@ -192,10 +192,10 @@ packen — mit der Linken an der Schulter, konnte dann jedoch
 nichts mehr erkennen, da mir das aus der Wunde herausströmende
 Blut die Augen verklebte. Ich fühlte dann auch
 den Messerschnitt über die Finger hin, ließ los und rief um
-Hilfe. Ich hörte noch wie der Tresor zugeschlagen wurde und
+Hilfe. Ich hörte noch, wie der Tresor zugeschlagen wurde und
 verlor dann die Besinnung. — Nachher stellte die Polizei fest,
 daß aus dem Geldschrank die Krone verschwunden war, die in
-dem untersten, offenen Fache gelegen hatte und daß der Tresor
+dem untersten, offenen Fache gelegen hatte, und daß der Tresor
 mit meinem eigenen Schlüssel, der, am Schlüsselring befestigt,
 auf dem Schreibtisch gelegen hatte, geöffnet worden
 war. — Mehr könnte ich nicht über die Art, wie die Inka-Krone
@@ -204,7 +204,7 @@ vom Garten aus — ich besitze in New York ein villenartiges
 Haus — durch das Fenster des Nebenzimmers eingedrungen
 waren.«
 
-»Danke, Herr Molgedey. — vorläufig genügt das,«
+»Danke, Herr Molgedey, — vorläufig genügt das,«
 meinte Harst und blies nachdenklich ein paar wohlgelungene
 Rauchringe, denen er aufmerksam nachschaute. »Nun erzählen
 Sie bitte, was Sie gestern abend taten,« fügte er nach
@@ -258,7 +258,7 @@ Nr. 32, wo meine Frau und Tochter logieren, liegt Zimmer
 Nr. 46, oder besser: die Tür zu einer der sogenannten
 Luxuswohnungen des Hotels, die aus drei besonders eleganten
 Räumen bestehen. Als ich den Flur vom Badezimmer her
-entlangkam, wurde diese Tür geöffnet und eine tief verschleierte
+entlangkam, wurde diese Tür geöffnet und eine tief verschleierte,
 schlanke Dame in hellem Seidenmantel trat bald
 heraus, stutzte, als sie mich bemerkte, kehrte sehr schnell wieder
 ins Zimmer zurück und zog die Tür geräuschlos ins
@@ -388,7 +388,7 @@ nicht genügend mächtig wäre, dankte Harst für die Bereitwilligkeit,
 mit der dieser sich sofort bei ihm eingefunden
 hätte und berichtete dann folgendes.
 
-Er war gestern bereits um ½ 10 zu Bett gegangen, da er
+Er war gestern bereits um ½10 zu Bett gegangen, da er
 am Tage einen Ausflug nach den Ruinen des alten Dehli gemacht
 hatte, der ihn sehr ermüdet hatte. In der Schublade
 des Schreibtisches des Salons hatte er ein Päckchen Banknoten
@@ -426,7 +426,7 @@ Sie, Monsieur Harst, stets an derselben Stelle. Waren
 Sie schon in der Ruinenstadt des alten Dehli oder genauer
 der uralten Stadt Indraprastha, wie Dehli um das Jahr 500
 nach Christi noch hieß? Kennen Sie schon den berühmten
-Kutab Minar, das 76 Meter hohe Minaret einer unvollendeten
+Kutab Minar, das 76 Meter hohe Minarett einer unvollendeten
 Moschee in dieser Ruinenstadt?«
 
 Harst schüttelte den Kopf. »Wir haben zunächst die
@@ -439,7 +439,7 @@ entgehen!« meinte Dardogne begeistert. »Wer auch
 nur etwas Sinn für Romantik hat: dort findet er sie! —
 Doch zurück zu der Verschleierten! Also vor dem Kutab Minar
 traf ich sie — dreimal wie gesagt! Sie hatte stets einen
-Eingeborenen bei sich, der ihre Staffelei und sonstige Malgerät
+Eingeborenen bei sich, der ihre Staffelei und sonstiges Malgerät
 schleppte. Ich besinne mich jetzt sehr genau: das Weib
 trug stets einen hellen, karierten Seidenmantel und ein großes
 Fernglas mit hellgelbem Lederfutteral umgehängt. —
@@ -451,14 +451,14 @@ Harst erzählte Garratt Molgedeys Erlebnis am gestrigen
 Abend und fügte hinzu: »Es unterliegt wohl keinem
 Zweifel, daß die Verschleierte, die sich beim Anblick Molgedeys
 wieder in dieses Zimmer zurückzog, die Diebin gewesen
-ist. Die Zeit stimmt. Sie sind um ½ 10 schlafen gegangen, und
+ist. Die Zeit stimmt. Sie sind um ½10 schlafen gegangen, und
 Molgedey kam nach 10 Uhr vom Badezimmer zurück den
 Flur entlang.«
 
 Dardogne bearbeitete abermals die Sessellehne mit der
 Faust. »Zum Teufel, das ist ja hier eine nette Wirtschaft in
-Ihrem Hotel!« fuhr er den Direktor mehr einen scherzhaft
-groben Ton anschlagend in seiner abgehackten Sprechweise
+Ihrem Hotel!« fuhr er den Direktor, mehr einen scherzhaft
+groben Ton anschlagend, in seiner abgehackten Sprechweise
 an. Er hatte so eine Art, manche Worte wie einen Trompetenton
 hervorzustoßen, daß man daran schon den alten Soldaten
 erkannte. »Wie mag das Weib nur zu dem Tür- und dem
@@ -487,7 +487,7 @@ offenbar die Verschleierte unter den Hotelgästen selbst. Mir
 erschien dies durchaus unwahrscheinlich. Der ganze Verdacht
 gegen diese Frau, die doch den Oberst vor der berühmten
 Moschee in der Ruinenstadt genau so bemerkt haben mußte,
-wie er sie gesehen hatte, erschien mir hinfällig oder genauer
+wie er sie gesehen hatte, erschien mir hinfällig, oder genauer
 ausgedrückt: Ich bezweifelte, daß es sich hier um ein und dieselbe
 Person handelte.
 
@@ -542,7 +542,7 @@ Ich fuhr förmlich herum.
 
 »Teufelei?« fragte ich ungläubig.
 
-»Ja« mein Alter. — Hier, bitte lies mal!« Er holte die
+»Ja, mein Alter. — Hier, bitte lies mal!« Er holte die
 Zeitung aus der Tasche hervor, die er im Bureau des Direktors
 unauffällig zu sich gesteckt hatte, entfaltete sie und
 deutete auf eine gesperrt gedruckte Notiz auf derselben
@@ -649,7 +649,7 @@ Sandmassen so dicht bedeckt, daß auf diesen kahlen Lichtungen
 Dörfer entstanden sind, die meist von Hindus bewohnt werden.
 Das Wahrzeichen dieser Stätte einer einst hochentwickelten
 Kultur (das alte Indraprastha soll über eine Million
-Einwohner gehabt haben) ist der Kutab Minar, das Minaret
+Einwohner gehabt haben) ist der Kutab Minar, das Minarett
 der unvollendet gebliebenen Moschee.
 
 Harst ließ den Wagen weit vor dem schlanken Turme halten,
@@ -777,13 +777,13 @@ Verzicht auf einen Abstieg in den Tempel zu veranlassen, waren
 jedoch erfolglos.
 
 Harst, der Inder und Molgedey schritten voraus. Frau
-Molgedey war in ihrer Lebhaftigkeit bald vorn bei den Herren
+Molgedey war in ihrer Lebhaftigkeit bald vorn bei den Herren,
 bald bei Dasy und mir. Das junge Mädchen blieb meist stumm.
 Sie war keine angenehme Begleiterin. Dann, als wir ein
 Stück zurück waren, sagte sie plötzlich:
 
 »Herr Schraut, Sie kennen Ihren Freund doch sehr genau.
-Ich habe gehört, er soll sehr viel menschliche Empfinden,
+Ich habe gehört, er soll sehr viel menschliches Empfinden,
 also ein gütiges Herz besitzen. Ich — ich weiß nun nicht
 recht, ob ich ihm —«
 
@@ -823,7 +823,7 @@ Nein — ich wurde aus alledem nicht klug. Garratt Molgedeys
 Inka-Krone, die dem Obersten gestohlenen 1800 Pfund
 und schließlich noch unser Freund Edward Wolpoore vollführten
 in meinem Hirn ein wahres Karussell. Schließlich gelang es
-mir aber doch die eine Vermutung mir am besten zu begründen,
+mir aber doch, die eine Vermutung mir am besten zu begründen,
 daß es sich hier lediglich um den Diebstahl der 1800 Pfund
 handeln könnte. Die verschleierte Dame war ja von Oberst
 Dardogne stets vor dem Kutab Minar bemerkt worden. Und
@@ -840,7 +840,7 @@ durch einen engen Hof in eine zur Hälfte von Steintrümmern
 angefüllte Halle, deren Fliesenboden in der Mitte eingestürzt
 war, so daß man über die Trümmer in ein großes,
 leeres Kellergewölbe hinabklettern konnte. Der Inder hatte
-vorher zwei Fackeln angezündet: eine trug er selbst, die andere
+vorher zwei Fackeln angezündet; eine trug er selbst, die andere
 hatte er Harst gegeben.
 
 Auch hier in diesem Gewölbe bestand der Boden aus Steinplatten
@@ -864,7 +864,7 @@ blitzschnell zu, ließ sie dann nach dem Inder hinübergleiten.
 Ich verstand. Ich hielt mich bereit. Harst ließ plötzlich die
 Fackel wie aus Ungeschick fallen. Sie flog mitten auf die
 <@pagebreak/>
-Steintreppe der Inder beugte sich vor, um zu sehen, ob sie
+Steintreppe. Der Inder beugte sich vor, um zu sehen, ob sie
 noch weiter rollte.
 
 Da war ihm Harst schon von hinten an den Hals gesprungen,
@@ -884,7 +884,7 @@ Es war das Zeichen der Thugs, jener Mördersekte, die zu
 Ehren der Göttin Kali mit geweihter Schlinge Menschen erdrosseln,
 denen ein Leben nichts gilt, die einst vor fünfzig Jahren
 alle Landstraßen Indiens unsicher machten, bis dann Lord
-Wolpoore, der damalige Vizekönig mit aller Energie gegen
+Wolpoore, der damalige Vizekönig, mit aller Energie gegen
 sie vorging.
 
 Molgedey hatte sich jetzt gefaßt.
@@ -923,7 +923,7 @@ Stunden wieder bei Ihnen zu sein.«
 
 Molgedey war einverstanden. Wir nahmen dem Inder
 die Fußfesseln ab und zwangen ihn, mit uns zu gehen. Außerhalb
-des Torbogen mit dem Schlingpflanzenvorhang fanden
+des Torbogens mit dem Schlingpflanzenvorhang fanden
 wir in den Resten eines Wohnhauses einen schattigen, kühlen
 Winkel. Auch Dasy Molgedey betonte jetzt, sie würde gleichfalls
 gut auf den Mann achtgeben und — zog dann aus der
@@ -1076,14 +1076,14 @@ Ihrer auf starke Effekte gerichteten geistigen Veranlagung,
 mir beweisen wollen, daß Sie mir überlegen sind, haben
 durch einen Ihrer Leute in der Maske eines Fremdenführers
 mir auflauern lassen. Der Mann traf mich vor dem
-Kutab Minar. Bei dem Streit mit den anderen Fremdenführer
+Kutab Minar. Bei dem Streit mit den anderen Fremdenführern
 merkte ich, daß dieser gewandte Inder den anderen
 ganz unbekannt war. Das machte mich argwöhnisch. Ich
 sah eine Falle voraus und richtete mich danach. Sie sind
 jetzt des Glaubens, Ihr Vertrauter hat uns hier hinabgeführt,
 steht vielleicht oben auf der Pyramidentreppe und kann Ihnen
 jederzeit zu Hilfe kommen, das heißt, uns durch Schüsse
-unschädlich machen. Sehr wahrscheinlich haben Sie diesen
+unschädlich machen. Sehr wahrscheinlich haben Sie diesem
 Inder befohlen, er solle uns beide allein hier hinabsteigen
 lassen, damit Sie als lebendes Götzenbild auf uns desto eindringlicher
 wirkten; wahrscheinlich wollten Sie uns ganz
@@ -1096,7 +1096,7 @@ Freund und ich! — Ich werde jetzt Wolpoore und Chester
 Blindley suchen. Die beiden befinden sich fraglos hier. Wenn
 Sie auch nur die geringste verdächtige Bewegung machen,
 wird Schraut Sie kaltblütig auf meine Verantwortung niederknallen.
-Es geht hier um vier Menschenleben Mistreß
+Es geht hier um vier Menschenleben, Mistreß
 Bellingson! Um vier —! Denn auch mich und Schraut hätten
 Sie hier ohne Zweifel stumm machen lassen. Was gilt
 Ihnen denn das Leben von ein paar Leuten, wenn es sich
@@ -1110,7 +1110,7 @@ die vollendetste Schauspielerin, die es nur geben kann.
 — So — und jetzt nochmals: keinen Laut, keine Bewegung!
 — Schraut, Du schießt sofort, wenn Mistreß Bellingson auch
 nur den kleinen Finger hebt oder wenn wir angegriffen
-wenden sollten.«
+werden sollten.«
 
 Ich hatte die Pistole schon in der Hand. Ich hätte geschossen.
 Ich war fest dazu entschlossen. Ich lehnte mich an
@@ -1183,7 +1183,7 @@ zu verschweigen. Wolpoore und Chester Blindley konnten
 sich gar nicht genugtun mit Dankesworten, bis Harst zu
 unser aller Erstaunen sagte:
 
-Danken Sie mir nicht, Wolpoore! Meinen Sie denn,
+»Danken Sie mir nicht, Wolpoore! Meinen Sie denn,
 ein so gefährliches Weib wie die Bellingson hätte sich auf diesen
 gegenseitigen Vertrag eingelassen, wenn sie eben nicht genau
 wüßte, daß sie sehr bald sich an Schraut und mir völlig
@@ -1220,7 +1220,7 @@ verrieten, was Ihr Herz für den Herrn am zweiten Nebentisch
 empfand.«
 
 Dasy begann zu schluchzen. »Oh — ich — ich bin ja so
-schlecht. — so —« Sie konnte nicht weiter sprechen.
+schlecht, — so —« Sie konnte nicht weiter sprechen.
 
 Harst nahm ihre Hand. »Beruhigen Sie sich. Ihre Eltern
 werden Ihnen alles verzeihen. Auch die Sache mit der
@@ -1313,7 +1313,7 @@ was ja vorauszusehen gewesen war.
 
 Lord Edward Wolpoore fragte mich gerade, ob ich denn
 nicht wüßte, was Harst nun gegen die Bellingson unternehmen
-würde, als Harald plötzlich wieder auftauchte und ohne
+würde, als Harald plötzlich wieder auftauchte, und ohne
 sich zu setzen, sagte: »Dardogne ist heute nachmittag dem
 verschleierten Weibe in der Eingeborenenstadt begegnet, wie
 er mir soeben mitteilte. Er hat sie aber leider nicht erwischen
@@ -1352,7 +1352,7 @@ Zu aller Erstaunen sagte Harst da, ohne sein Glas zu ergreifen:
 »Einen Augenblick bitte. — Ich möchte, bevor wir Ihnen
 Bescheid tun, Herr Oberst, noch eine kleine Geschichte
 <@pagebreak/>
-erzählen, die ich letztens erlebte. Ich lernte da auf recht
+erzählen, die ich letztens erlebte. — Ich lernte da auf recht
 abenteuerliche Weise eine Frau, eine noch sehr rüstige Greisin,
 kennen, die seit dem Tode ihres Mannes nur noch einen Lebenszweck
 hatte: Rache zu nehmen an dem Geschlecht eines
@@ -1403,7 +1403,7 @@ Dann fand ich in der Dehli-Post den Artikel über das Attentat
 angeblicher Straßenräuber auf Wolpoore. Nun brauchte
 ich nicht lange zu überlegen, wer dieses Weib sein könnte;
 nun durchschaute ich auch den Diebstahl der 1800 Pfund, der
-nur — ein Köder für mich war! — Sie selbst Mistreß Bellingson
+nur — ein Köder für mich war! — Sie selbst, Mistreß Bellingson,
 waren die Verschleierte, die Molgedey in der Tür dieses
 Zimmers bemerkte! Sie waren es, die den angeblichen
 Fremdenführer nach dem Kutab Minar beorderten. Jetzt
@@ -1419,7 +1419,7 @@ können! So sollte Ihr Sieg über mich aussehen! —
 Das Spiel ist aus — für immer, Mistreß Bellingson! Vor
 der Tür im Flur steht die Polizei. Auch der Hotelpark ist
 besetzt.« Er nahm ein leeres Weinglas und schleuderte es gegen
-die Tür. Diese wurde sofort ausgerissen. Zehn, zwölf
+die Tür. Diese wurde sofort aufgerissen. Zehn, zwölf
 Beamte stürmten herein.
 
 Maria Bellingson hatte schnell Perücke und falschen Bart
@@ -1433,7 +1433,7 @@ als ich mir den falschen Bart abnahm.« —
 
 Sie starb wirklich, bevor man sie noch in den unten vor
 dem Hotel stehenden Polizeiwagen schaffen konnte. Harst gelang
-es dann noch in derselben Nacht die Vertrauten der
+es dann noch in derselben Nacht, die Vertrauten der
 Bellingson, acht Inder, sämtlich Thugs, im Eingeborenenviertel
 festnehmen zu lassen, wobei er abermals bewies, wie er
 selbst aus den unbedeutendsten Dingen Schlüsse von weitgehendster
@@ -1444,6 +1444,6 @@ der Mördersekte. Von diesen zehn Indern wurden vier
 zum Tode und die übrigen zu lebenslänglichem Zuchthaus
 verurteilt. Damit waren auch die letzten bisher noch in
 Freiheit befindlichen Anhänger der blutigen Kali unschädlich
-gemacht und nun erst konnte Lord Wolpoore wirklich in
+gemacht, und nun erst konnte Lord Wolpoore wirklich in
 Ruhe sich seinen Geschäften und seiner Familie widmen.
 
