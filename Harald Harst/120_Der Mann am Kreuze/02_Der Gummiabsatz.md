@@ -384,7 +384,7 @@ schien zu schlafen. Saß gegen einen Stein gelehnt da. Ein
 Gewehr im Schoße, eine uralte Steinschloßflinte.
 
 Und hatte zum Schutz gegen die Sonne einen Zipfel
-seines Turbane vor das Gesicht gezogen.
+seines Turbans vor das Gesicht gezogen.
 
 Goddlear gab ein Zeichen.
 
@@ -504,7 +504,7 @@ wir drei und der stumme Vierte sahen zu und rauchten auch.
 
 Eine Stunde verging, noch eine.
 
-Dann von oben der Haralds Stimme — ganz plötzlich:
+Dann von oben her Haralds Stimme — ganz plötzlich:
 
 »Das habt Ihr ja außerordentlich schlau angefangen!«
 
@@ -752,7 +752,7 @@ im Mundwinkel.
 mit ihren Turbanen gefesselt und geknebelt. Waren keine
 Helden, die drei, waren — Priester, Brahmanen, wie ich
 vermutet hatte. Ich habe auch bereits einen Blick in das
-Tal geworfen — auf daß Golgatha der Sektierer. Wir kommen
+Tal geworfen — auf das Golgatha der Sektierer. Wir kommen
 noch zur rechten Zeit!«
 
 Er geht voran.
@@ -772,7 +772,7 @@ Ich richte mich auf.
 Sechzig Schritt vor uns hocken zwischen Felsen acht
 Inder.
 
-Links von ihnen ragt aus dem Gestein daß Felsenkreuz
+Links von ihnen ragt aus dem Gestein das Felsenkreuz
 hervor, und an diesem Kreuze hängt ein greisenhafter Inder
 mit intelligenten Zügen: Ismail Darba, den ich zum ersten
 Male im Gefängnis erblickte, wo seine feierliche Ruhe starken
@@ -789,7 +789,7 @@ Katze mit der Maus. —
 
 Harst drückt mir das Fernglas in die Hand.
 
-So erkenne ich denn daß drei der Inder drüben die
+So erkenne ich denn, daß drei der Inder drüben die
 Turbane mit rotem Mittelstück tragen, die heiligen Turbane
 der Behüter des wahren Glaubens, drei Oberpriester, ehrwürdige
 Kollegen Seiner toten Erhabenheit Manga Daris.
@@ -838,7 +838,7 @@ Sehen uns nicht. Der Busch deckt uns.
 
 Harst schießt.
 
-Schließt dem einen der Erhabenen die Flinte aus der
+Schießt dem einen der Erhabenen die Flinte aus der
 Hand. Der Lauf schlägt dem alten Herrn vor die Stirn.
 
 Das hilft.
@@ -1003,7 +1003,7 @@ einen Brief.
 Erklärt uns:
 
 »Dies ist das anonyme Schreiben, dem hundert Pfund
-beilagen, und daß mich aufforderte, Ismails Schuldlosigkeit
+beilagen, und das mich aufforderte, Ismails Schuldlosigkeit
 zu beweisen!«
 
 Und zu Maria dann: »Hast Du das geschrieben,
@@ -1166,7 +1166,7 @@ so lärmend. Nicht ganz so wild.
 Unbemerkt lassen wir die Tiere niederknien. Steigen
 ab. Warten — warten.
 
-Und ich flüstere Harald zu.
+Und ich flüstere Harald zu:
 
 »Begreifst Du das?! Siehst Du die Blonde?!«
 
@@ -1306,7 +1306,7 @@ Harst ist vergnügt.
 Jack der Kleine desgleichen, denn Goddlear in seiner
 ratlosen wütenden Geschäftigkeit wirkt recht komisch. —
 
-Das Herzogspaar logiert im Gouverneurspalast. Wir
+Das Herzogspaar logiert im Gouverneurspalais. Wir
 haben die beiden nicht wieder zu Gesicht bekommen. Harald
 scheint sich für diese Dinge nicht mehr zu interessieren.
 Er streift mit mir durch die Stadt und treibt Studien.

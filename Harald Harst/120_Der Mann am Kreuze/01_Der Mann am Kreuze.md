@@ -284,7 +284,7 @@ lassen. — Vorwärts, zum Polizeigefängnis!«
 
 Das Auto brachte uns hin. Und wie schön es dort
 zwischen den tropischen Bäumen des alten Parkes liegt,
-dieses moderne Gefängnis! Ein Quadrat heller Mauerstücken,
+dieses moderne Gefängnis! Ein Quadrat heller Mauerflächen,
 in der Mitte ein durch Zwischenmauern ebenfalls
 gevierteilter Hof. Und im Nordflügel die Zellen für die
 <@pagebreak/>
@@ -469,7 +469,7 @@ gestoßen!
 
 Makilanga also — zweimal Makilanga!
 
-Das fiel mir auf. Und doch — wir anders hatte Harald
+Das fiel mir auf. Und doch — wie anders hatte Harald
 damals schon dies und noch mehr in den Bereich seiner
 Kombinationen gezogen! Wie armselig träge hatte wieder
 mein Hirn gearbeitet! Nachher wurde mir das klar —
@@ -526,7 +526,7 @@ Goddlear telephonierte gerade.
 
 »Was stimmt, Harst?«
 
-»Was ich schon vermutete, alles ich die Sache in den
+»Was ich schon vermutete, als ich die Sache in den
 Zeitungen las.«
 
 Der Inspektor hatte das Auto bestellt und setzte sich
@@ -588,7 +588,7 @@ genau wie auf der anderen Seite Bäume standen.
 
 <@pagebreak/>
 »Ha — was wollen Sie denn dort, Harst?« rief der
-lange Godwin. »Dort gibt’s erst recht nicht zu sehen!«
+lange Godwin. »Dort gibt’s erst recht nichts zu sehen!«
 
 Harald musterte die Bäume. Winkte.
 
@@ -786,7 +786,7 @@ Elfenbein.
 
 Ich schaute — freute mich.
 
-Und — hinab tauchte daß Auto — greller Gegensatz! —
+Und — hinab tauchte das Auto — greller Gegensatz! —
 in die winkligen Gäßchen des Eingeborenenviertels.
 
 Armut ringsum, Daseinskampf.
@@ -846,7 +846,7 @@ Den Bergen von Hadrimar geht’s zu. Und hinter uns
 im Wägelchen liegen unsere schäbigen indischen Tragsäcke. —
 
 Ein einsames Gehöft am Bergesfuß bewahrt Wagen
-und Ponys auf. Der Besitzer fragt nach nichts, denn daß
+und Ponys auf. Der Besitzer fragt nach nichts, denn das
 reiche Trinkgeld ist mehr als er in Monaten verdient.
 
 Die beiden weißen Sahibs pilgern mit ihren Rucksäcken
@@ -995,7 +995,7 @@ locken. —
 Manga Dari hat seit vielen, vielen Jahren nicht nur
 die Aufsicht über die Priester des Indra-Tempels, sondern
 <@pagebreak/>
-auch daß Amt eines »Bewahrers der reinen Lehre Brahmas«,
+auch das Amt eines »Bewahrers der reinen Lehre Brahmas«,
 wie sein Titel in deutscher Übersetzung lautet. Er
 ist das geistige Oberhaupt der Hindus Nordwestindiens.
 Wenn der Vizekönig von Indien einmal Lahore besucht, hat
@@ -1330,7 +1330,7 @@ Das schwermütige Lied brach ab.
 Und — ein Choral schwang sich in hellem Jubel durch
 die Finsternis in klaren Schallwellen.
 
-Ein Choral — — hier in dem verschütteten alten Labore,
+Ein Choral — — hier in dem verschütteten alten Lahore,
 hier, wo fanatische Brahmanen die reine Lehre der
 Hindureligion bewachten!! —
 
@@ -1452,7 +1452,7 @@ Godwin: es sind Spione um uns her!«
 
 Der brave Goddlear war völlig vertattert.
 
-»Was — was heißt das alles? Hofften Sie etwa
+»Was — was heißt das alles? Hoffen Sie etwa
 Ismails Befreier —«
 
 »Nette Befreier!« fiel Harald ihm schon ins Wort.
