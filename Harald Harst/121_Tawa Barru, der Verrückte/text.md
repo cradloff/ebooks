@@ -3,7 +3,7 @@
 <h2>1.</h2>
 <h3>Hammelblut.</h3>
 
-Als das ganz eigenauttigr-schaurig füingende Jaulen zum
+Als das ganz eigenartig-schaurig klingende Jaulen zum
 zweiten Male durch den dichten Dschungel irgendwoher bis
 zu uns in unsere Baumkrone herüber klang, sagte Harald
 Harst zu mir:
@@ -12,10 +12,10 @@ Harst zu mir:
 Liebeserklärung macht!«
 
 Er sagte es mit gedämpfter Stimme, indem er sich
-etwas zu mir hinbeugte, denn wir saßen auf zwei Ast-stümpsen
+etwas zu mir hinbeugte, denn wir saßen auf zwei Aststümpfen
 eines von Lianen umsponnenen Urwaldriesen
 etwa zehn Meter über dem Erdboden und konnten durch ein
-Loch im - Blätterdach w@Grade auf schon kahlen, sandigen
+Loch im Blätterdach gerade auf den kahlen, sandigen
 Hügel inmitten der steinigen Lichtung hinabsehen, auf dem
 sich eine jener Tempelruinen erhob, die man in der Nähe
 größerer Städte überall in Indien antrifft.
@@ -25,11 +25,11 @@ hin etwas gereizt. »Mir wäre es lieber, Du sagtest mir,
 weshalb wir beide hier bereits seit Sonnenuntergang auf
 dem Baum hocken und uns von den verdammten Stechmücken
 piesacken lassen, denn trotz meiner Handschuhe und
-trotz — Schleiers haben ein paar der Bestien …«
+trotz des Schleiers haben ein paar der Bestien …«
 
 »Still!«
 
-Nur eine gehaucstte Warnung
+Nur eine gehauchte Warnung
 
 <@pagebreak/>
 
@@ -41,17 +41,17 @@ Ruine.
 
 Ich ahnte ja: etwas mußte sich ereignen!
 
-Ein Harald Harst sind nicht zwecklos vier Stunden auf
-einem Urtwoialdriesen.
+Ein Harald Harst sitzt nicht zwecklos vier Stunden auf
+einem Urwaldriesen.
 
 Und — ich sah nun auch etwas.
 
-Aus dem Dunkel drei Dschungelrandes löste sich eine Gestalt
+Aus dem Dunkel des Dschungelrandes löste sich eine Gestalt
 heraus.
 
-Sir Inder — ein Bettler.
+Ein Inder — ein Bettler.
 
-Armselig der Anzug, zerrissen, fast nur leben, dazu
+Armselig der Anzug, zerrissen, fast nur Fetzen, dazu
 ein ebenso zerdrückter Turban und … ein struppiger Vollbart.
 
 Der Mann wir mir fremd.
@@ -63,20 +63,20 @@ das noch immer leidlich ist, haften geblieben.
 
 Also ein Mensch, den ich zum ersten Male sah. —
 
-Der Bettler benahm sich seltsam, gesüikulierte wild mit
+Der Bettler benahm sich seltsam, gestikulierte wild mit
 den Armen, lachte zuweilen heiser, warf sich zu Boden, kroch
-eine Strecke, sprang auf, rannte ein Stück und echte dies
+eine Strecke, sprang auf, rannte ein Stück und setzte dies
 merkwürdige Treiben eine ganze Weile fort, wobei er die
 Ruine zweimal umrundete.
 
-Und hin flüsterte Harald plötzlich, während der verliebte
+Und da flüsterte Harald plötzlich, während der verliebte
 Tiger in der Ferne noch immer jaulte:
 
 »Tawa Barru, der Verrückte.«
 
-Ah — nun entsann ich! mich! Detektivlinspektor Godwin
-Goddlear, dessen Seite wir in Lahore waren, hatte diesen
-Tawa klaren lesbtens ericähnt.
+Ah — nun entsann ich mich! Detektivlinspektor Godwin
+Goddlear, dessen Gäste wir in Lahore waren, hatte diesen
+Tawa Barru letztens erwähnt.
 
 Ich kam nicht mehr dazu, in meinem Gedächtnis herumzustöbern,
 was Godwin über den verrückten Bettler geäußert
@@ -88,26 +88,26 @@ Nein — es geschah jetzt nämlich etwas Neues.
 Und zwar etwas so Furchtbares, daß ich vor Schreck
 beinahe von meinem Ast gefallen wäre.
 
-Aus einem Gebüischstreifen, der bis zur Ruine reichte,
+Aus einem Gebüschstreifen, der bis zur Ruine reichte,
 schnellte ein gelbbrauner Tierkörper durch die Luft.
 
 Ein … Tiger.
 
-Tawa Baron stieß einen gellenden Anagstschrei aus.
+Tawa Barru stieß einen gellenden Angstschrei aus.
 
-Soll]on war die Bestie über ihm, Wrack ihn zu Boden —
+Schon war die Bestie über ihm, warf ihn zu Boden —
 in den Schatten einiger Mauerreste.
 
 Noch ein Schrei.
 
-Flur Röcheln.
+Ein Röcheln.
 
 Dann Stille. —
 
 Ich zitterte vor Aufregung. Eisiger Schweiß rann mir
 über das Gesicht.
 
-»Mein Gott!!« feuchte ich. »Wenn wir Gewehre mithatten!«
+»Mein Gott!!« keuchte ich. »Wenn wir Gewehre mithätten!«
 
 Harsts Stimme:
 
@@ -134,13 +134,13 @@ Heute abend sieben Uhr, als Godwin Goddlear dienstlich
 abwesend war (es waren da im nahen Dorfe Sardpani
 zwei Amerikanerinnen unter geheimnisvollen Umständen aufgetaucht
 und wieder unsichtbar geworden, nachdem sie einer
-armen Witwe ein zioeijähriges Kind abgekauft hatten) —
+armen Witwe ein zweijähriges Kind abgekauft hatten) —
 also um sieben Uhr hatte Harald zwei Pferde satteln lassen
 und hatte zu Godwins Stallburschen gesagt: »Wir wollen
-noch spazieren reiten.« -
+noch spazieren reiten.«
 
 <@pagebreak/>
-Dich Pferde standen nun eine Meile ostwärts in einer
+Die Pferde standen nun eine Meile ostwärts in einer
 Gärtnerei, und wir selbst saßen seit halb zehn Uhr hier auf
 dem Riesenbaume am Rande der Dschungellichtung, die
 Harald so sicher aufgefunden hatte, daß ich sofort wußte: er
@@ -148,8 +148,8 @@ muß schon einmal hier gewesen sein und zwar nachts, denn
 wir hatten bei Godwin jeder ein Schlafzimmer für sich, und
 am Tage war ich stets mit Harald zusammengewesen.
 
-Mithin: er konnte nur insgeheim nachts diesen Platz be4
-sucht haben, wo er mich dann ohne jedes erflärende Wort
+Mithin: er konnte nur insgeheim nachts diesen Platz besucht
+haben, wo er mich dann ohne jedes erklärende Wort
 aufgefordert hatte, den Baum zu erklettern. —
 
 Mehr, lieber Leser, kann ich über den Beginn dieses
@@ -163,7 +163,7 @@ zerrissen worden.
 Und jetzt … flüsterte Harald wieder, indem er mit der
 Hand nach einem Riesenexemplar von Leuchtkäfer griff:
 
-»Die Bestie dürfte noch im Gebüsch stellen. Vor Tages-grauen
+»Die Bestie dürfte noch im Gebüsch stecken. Vor Tagesgrauen
 können wir nicht hinab.«
 
 »angenehme Aussicht!«
@@ -172,9 +172,9 @@ können wir nicht hinab.«
 Tigern Angst hätten trotz unserer tadellosen Clementpistolen,
 als daß wir uns diese Nacht verderben.«
 
-Das war wieder einmal so recht eine Bemerkung arg
+Das war wieder einmal so recht eine Bemerkung a la
 Harst — vieldeutig wie die Antworten des Delphischen
-Seglers.
+Orakels.
 
 Immerhin: eins war mir jetzt klar. irgend was stimmt
 hier nicht!
@@ -213,7 +213,7 @@ Was soll ich davon schwärmen?! Habe ich doch erst im
 vorigen Band genau geschildert wie wir am nächtlichen
 Dschungelrande entlangritten, Harald die kleine Maria im
 Arm, — wir beide auf Reitkamelen, die ja hier in Nordwestindien
-ebenso häufig als Rest- und Zugtiere wie die
+ebenso häufig als Reit- und Zugtiere wie die
 Pferde benutzt werden.
 
 Nacht im Dschungel.
@@ -241,7 +241,7 @@ Baume.
 Harald war schon vorausgeeilt.
 
 Stand an der blutgetränkten Stelle, wo nur ein paar
-sehen Zeug Tawa Barrus Schicksal bekundeten.
+Fetzen Zeug Tawa Barrus Schicksal bekundeten.
 
 <@pagebreak/>
 Und Harst bückte sich, nahm etwas von der blutigen Erde
@@ -259,7 +259,7 @@ in Inspektor Goddlears schönem weißen Bungalow.
 Godwin uns, der bereits auf der Terrasse beim Frühstück saß.
 
 Harald nahm sein Taschentuch aus der Sportjacke,
-breitete es ausßeinander und sagte zu Godwin:
+breitete es auseinander und sagte zu Godwin:
 
 »Hier diese braunen Erdklümpchen sollen Sie mal sofort
 untersuchen.«
@@ -305,8 +305,8 @@ hatten.
 Miß Palamoor sprechen,« begann er, sehr behaglich seine
 Rostbrötchen mit tadelloser Salami belegend. »eigentlich
 könnten Sie uns nochmals berichten, Godwin, was Sie von
-den zweifelhaften Damen wissen. Wozu soll ich mich so anstrengen
-?!«
+den zweifelhaften Damen wissen. Wozu soll ich mich so
+anstrengen?!«
 
 Goddlear rauchte bereits die Morgenzigarre.
 
@@ -316,40 +316,40 @@ mir …«
 
 »Ahmed Schikri heißt er,« warf Harald ein.
 
-Ja … Er kam und meldete mir, daß zwei Europäerinnen
-in Sardpani vor vier Tagen in dem dortigen Unter-«
+»Ja … Er kam und meldete mir, daß zwei Europäerinnen
+in Sardpani vor vier Tagen in dem dortigen
 Unterkunftshause abgestiegen seien. Die beiden Damen hatten
 dann die Witwe des Fremdenführers Hussein Banga aufgesucht
-und ihr eins ihrer Kinder, das jüngste, ein niederschoß
+und ihr eins ihrer Kinder, das jüngste, ein niedliches
 Mädchen, abgekauft. Dieser Handel wurde im Dorfe
 sehr gegen den Willen der Witwe durch die anderen Kinder
 rasch bekannt und kam auch Schikri, dem Ortspolizisten, zu
 Ohren. als er darauf die beiden Damen ins Verhör nehmen
 wollte, traf er sie nicht mehr an. Sie waren bei Nacht und
 Nebel aus dem Unterkunftshause verschwunden. Er hoffte,
-sie noch in Lahore vorzufinden. — Der Kinderhandel androht
-hier mit den schwersten Strafen belegt, da die Kinder
+sie noch in Lahore vorzufinden. — Der Kinderhandel wird
+jetzt hier mit den schwersten Strafen belegt, da die Kinder
 zumeist als Sklaven nach Afghanistan verschachert werden.
 — Schikri meldete mir dann hier den Vorfall, und …«
 
 »… ich bin vorgestern nacht in Sardpani gewesen,«
-nahm nun Harald das Wort. »in passender Verkleidung
+nahm nun Harald das Wort. »In passender Verkleidung
 forschte ich den Vorsteher des Rasthauses aus und erfuhr von
-ihm auch Einzelheiten über die Freigebigkeit der Damen:
+ihm auch Einzelheiten über die Freigebigkeit der Damen
 Tawa Barru gegenüber, der sich … sonst sehr selten in
 Sardpani sehen ließ, lieber Godwin sehr selten! Ausgerechnet
 <@pagebreak/>
-nur seit dem Einkreisen der Palamoors hockte er an
-Wege vor dem Rasthaus und beiseite. jedenfalls habe ich
+nur seit dem Eintreffen der Palamoors hockte er am
+Wege vor dem Rasthaus und bettelte. jedenfalls habe ich
 Dann in derselben Nacht noch im Eingeborenenviertel hier
 nachgefragt, wo Tawa Barru wohnt, und ein anderer Bettler
 konnte mir Bescheid sagen. Tawa Barru ist Besitzer einer
-Lcehmbhütte, die im Parke des früheren Chodla-Bur-Palastes
-steht. Ich pirschte mich dort heran und kam gerade zu! rechten
+Lehmhütte, die im Parke des früheren Chodla-Bur-Palastes
+steht. Ich pirschte mich dort heran und kam gerade zur rechten
 Zeit, denn Tawa Barru machte einen nächtlichen Ausflug
 und betrat nach anderthalbstündigem Marsch die Tempelruine
-im Dschungel westlich der Gärtnerei des Persers Jahr
-Oman.«
+im Dschungel westlich der Gärtnerei des Persers Sadi
+Omar.«
 
 »Kenne ich!« nickte Godwin.
 
@@ -367,13 +367,13 @@ Und Godwin Goddlear sperrte Mund und Ohren auf.
 
 »unglaublich — — unglaublich!!« rief er. »Das ist ja …«
 
-»… eine Komödie, die zunächst beweist, daß an
+»… eine Komödie, die zunächst beweist, daß Tawa
 Barru davon Kenntnis hat, daß ich ihm nachgeschlichen war.
 Er wollte daraufhin um jeden Preis erreichen, daß ich
 meine Nachforschungen einstellte. Er hoffte, wenn ein Tiger
 ihn vor meinen Augen niederwürfe, würde ich den toten
 Tawa Barru in Ruhe lassen. Er hat die Komödie ganz
-Fein inszeniert — fehlt mit Hammelblut und Zeugfetzen!«
+Fein inszeniert — selbst mit Hammelblut und Zeugfetzen!«
 
 Also sprach Harald.
 
@@ -387,42 +387,42 @@ Nieren prüfen.«
 »Wie das?« fragte Godwin.
 
 »Indem Schraut und ich nach alter Methode öffentlich
-Lahore mit dem Zuge verlassen, als wollten wir nach Mal- -
+Lahore mit dem Zuge verlassen, als wollten wir nach
 <@pagebreak/>
 Kalkutta, und heimlich und verkleidet hier wieder auftauchen.«
 
 »Sie vermuten also, daß hinter dem Kinderhandel
 irgend ein größeres … Problem steckt?«
 
-»Fraglos … Und deshalb werden Sie uns heute nacz-mitiag
-feierlich ¿zum Bahnhof begleiten, sich tränenreich verabschieden
+»Fraglos … Und deshalb werden Sie uns heute nachmittag
+feierlich zum Bahnhof begleiten, sich tränenreich verabschieden
 und im übrigen nichts auf eigene Faust unternehmen
 … nichts!«
 
 Am selben Abend gegen elf Uhr …
 
 Wir hatten den Zug trotz unserer bis Amritsar gelösten
-Fahrkarten bereits auf der Station Soldaten danieder verlassen
+Fahrkarten bereits auf der Station Gnidalla wieder verlassen
 und waren mit einem gemieteten Wagen zurück nach
-Mian-Wir gefahren.
+Mian-Mir gefahren.
 
-Hier in dem südöstlich von Lahore gelegenen Garnison-vororte
-fanden wir bei Leutnant Percy Sinclair Unter—uns.
-Sinclair war ein Sonderling trotz seiner erst zwei
-vndzwanzig Jahre. Er wohnte einsam und abgelegen in
+Hier in dem südöstlich von Lahore gelegenen Garnisonvororte
+fanden wir bei Leutnant Percy Sinclair Unterkunft.
+Sinclair war ein Sonderling trotz seiner erst zweiundzwanzig
+Jahre. Er wohnte einsam und abgelegen in
 einem Wellblechhäuschen inmitten eines alten Gartens, dessen
-Sonne kaum einen Sonnenstrahl durchließ;en.
+Sonne kaum einen Sonnenstrahl durchließen.
 
 Percy Sinclair war übrigens eine Bekanntschaft jüngeren
 Datums. Wir hatten ihn bei der großen Tigerjagd
 kennengelernt, die der Gouverneur von Lahore vor fünf
 Tagen veranstaltet hatte. inwiefern diese Jagd mit unserem
 vorigen Abenteuer eng zusammenhing, wird dem Leser noch
-gegenwärtig sein. Ein Problem wie das von dem »Manne
-am Kreuz« vergißt niemand so leicht.
+gegenwärtig sein. Ein Problem wie das von dem *Manne
+am Kreuz* vergißt niemand so leicht.
 
-Der Leutnant hauste nur fast seinem indischen Burschen
-in dem Welbleschäuschen zusammen, und dieser Inder war
+Der Leutnant hauste nur mit seinem indischen Burschen
+in dem Wellblechhäuschen zusammen, und dieser Inder war
 ein genau so stiller versonnener und schweigsamer Mensch
 wie sein Herr.
 
@@ -436,24 +436,24 @@ Wir belegten ein Zimmer. Dem Vorsteher zeigte Harald
 den Ausweis, den Freund Godwin ihm mitgegeben, und
 <@pagebreak/>
 der Mann war nun sofort bereit, uns nach der Lehmhütte
-der Witwe des Fremdensührers Hussein Banga zu geleiten,
+der Witwe des Fremdenführers Hussein Banga zu geleiten,
 versprach auch, unser Inkognito zu wahren.
 
-Als wir das armselige, am Sardpani-dachte gelegene
+Als wir das armselige, am Sardpani-Bache gelegene
 Hüttchen vor uns hatten, schickte Harald den Mann zurück. —
 
 Hinter den erblindeten Fenstern des Häuschens war
-noch) Licht.
+noch Licht.
 
 Wir schlichen näher.
 
-Und Harst zeigte bedeutungsvoll auf einen machen, der
+Und Harst zeigte bedeutungsvoll auf einen Nachen, der
 am Bachufer lag und in dem wir bei dem hellen Mondschein
-die Gestalt eines auf dem Bauche scschlascnden Knaben von
+die Gestalt eines auf dem Bauche schlafenden Knaben von
 vielleicht zwölf Jahren erkannten.
 
 Der Junge hatte einen Arm Maisstroh ins Boot geworfen
-und sich so ein Lager hergestellt. neben ihm: aber —
+und sich so ein Lager hergestellt. neben ihm aber —
 das war das Überraschende — zeichnete sich von dem hellen
 Stroh ein gelbbraunes Bündel ab: ein zusammengerolltes
 Tigerfell!
@@ -464,8 +464,8 @@ Tiger!«
 Unendlicher Spott klang durch diese Worte.
 
 Dann deckte uns das Häuschen gegen Sicht, und durch
-die schmugziaen Scheiben sahen wir in dem einzigen Räume
-der PLehmhütte neben dem Herde auf zwei Schemeln die
+die schmutzigen Scheiben sahen wir in dem einzigen Raume
+der Lehmhütte neben dem Herde auf zwei Schemeln die
 Witwe Husseins und … den Verrückter sitzen.
 
 Tawa Barru freilich hatte sein Äußeres jetzt verwandelt.
@@ -476,14 +476,14 @@ der Dschungellichtung zum ersten Male gesehen.
 
 Und doch raunte Harald mir zu:
 
-»Er ist’s! Er ist’s Gang bestimmt. der Nachen und das
+»Er ist’s! Er ist’s ganz bestimmt. der Nachen und das
 Fell verraten ihn!«
 
 Von dem Gespräch der beiden war nichts zu verstehen.
 
 Nichts.
 
-Die Witwe schien vor Dame Barru jedoch entsetzliche
+Die Witwe schien vor Tawa Barru jedoch entsetzliche
 Angst zu haben.
 
 <@pagebreak/>
@@ -492,7 +492,7 @@ ließ sich dann stets mit allen Zeichen größter Scheu vor dem
 wütenden Besucher wieder auf den Holzschemel nieder.
 
 Kurz — diese von uns beobachtete Szene machte ganz
-den Eindruck, als ob. Tawa Barru die Witwe auch seinerseits
+den Eindruck, als ob Tawa Barru die Witwe auch seinerseits
 vielleicht darüber zur Rede stellte, weil sie das Kind an
 die beiden angeblichen Damen verschachert hatte.
 
@@ -516,7 +516,8 @@ Ein abgerissener bärtiger Kerl, genau so gekleidet, wie
 es damals der Verrückte auf der Lichtung gewesen.
 
 Ein Kerl, der blitzschnell zuschlug.
-As Ebenso blitzschnell den bewußtlos. Umsinkenden Anfang.
+
+Ebenso blitzschnell den bewußtlos. Umsinkenden auffing.
 
 In den Armen davontrug.
 
@@ -527,9 +528,9 @@ Zum Nachen. —
 Auch mein guter Harald war im ersten Moment so verblüfft
 gewesen, daß er staunend und starr dagestanden hatte.
 
-Dann huschte er zur lautete.
+Dann huschte er zur Hausecke.
 
-sich ihm nach.
+ich ihm nach.
 
 Und gerade da stieß der Nachen vom Ufer ab, glitt in
 den Schatten der Bäume hinein,
@@ -559,7 +560,7 @@ bis wir einen anderen finden.«
 
 Und er setzte sich in Trab.
 
-Hinein in die Büsche ging’s … Hinaus aus dem Bauu1-chatten
+Hinein in die Büsche ging’s … Hinaus aus dem Baumschatten
 … hinaus auf freies Feld … Aber auch hier
 Büsche und Sträucher.
 
@@ -570,11 +571,11 @@ mit einem einzigen Ruder, bald auf Backbord, bald
 auf Steuerbord.
 
 So geschickt, daß der Nachen auf dem kaum zwölf Meter
-breiten Bache nur so dahinshoß. —
+breiten Bache nur so dahinschoß. —
 
 Harald trabte neben mir, stieß hervor:
 
-»Der Bach mündet, nachdem er den westlichen Dschungel-gürtel
+»Der Bach mündet, nachdem er den westlichen Dschungelgürtel
 durchquert hat, in den Chenab-Fluß. Die bewußte
 Lichtung liegt keine fünfhundert Schritt südlich des Baches.
 Wir tun besser, querfeldein vorauszueilen. Der Bach macht
@@ -583,8 +584,8 @@ beiden Gefangenen fraglos nach der Tempelruine.«
 
 Er fiel in Schritt.
 
-Und ich war froh, daß diese hohe aufhörte, denn auf
-die Dauer hätte ich »das« Tempo nicht ausgehalten.
+Und ich war froh, daß diese Hetze aufhörte, denn auf
+die Dauer hätte ich *das* Tempo nicht ausgehalten.
 
 So wanderten wir denn nun durch die fruchtbare Lahore-Ebene,
 durch fruchtbare Felder, durch all diese Üppigkeit, die
@@ -606,12 +607,12 @@ Schrittes.
 
 Und dann das unheimliche Dunkel des Dschungels.
 
-Dann bei mir die bange stumme Frage, ob Harald sich:
+Dann bei mir die bange stumme Frage, ob Harald sich
 zurechtfinden würde.
 
 Er — fand sich zurecht.
 
-Die Ruine lag vor uns. Unsere Taschenlampen durchritten
+Die Ruine lag vor uns. Unsere Taschenlampen durchblitzten
 das Innere einer ehemaligen Tempelhalle
 
 Hinten war das Dach eingestürzt.
@@ -626,7 +627,7 @@ Und hier kletterten wir auf einen Mauerrest, der wie ein
 Pfeiler an der einen Seite neben dem scheußlich bemalten
 Holzstandbild des Gottes Brahma emporragte.
 
-Hier hockten darin hinter ein paar Steinplatten, die wir
+Hier hockten wir hinter ein paar Steinplatten, die wir
 rasch als Brustwehr aufgerichtet hatten.
 
 Im Dunkeln.
@@ -638,7 +639,7 @@ Im Dunkeln.
 
 Eine halbe Stunde.
 
-Und dann tauchte dort, wo der Mond in die Haus durch
+Und dann tauchte dort, wo der Mond in die Halle durch
 den Eingang hineinlugte, ein Knabe auf.
 
 Derselbe kleine Bursche aus dem Kahn.
@@ -648,7 +649,7 @@ Trat ein.
 <@pagebreak/>
 Verschwand in der Finsternis, die auch uns deckte. —
 
-Geräusche letzten auf … Scharren — traten … verstummten
+Geräusche lebten auf … Scharren — Kratzen … verstummten
 wieder.
 
 Und — still und dunkel war’s wieder um uns her.
@@ -664,11 +665,11 @@ Der Knabe glitt ins Freie — über die Lichtung — —
 verschwand — mit einem Bündel im Arm.
 
 Der nächtliche Dschungel dort draußen rauschte im
-Morgenwinde … die Nacht mich. Das Zwielicht kam.
+Morgenwinde … die Nacht wich. Das Zwielicht kam.
 Wir beide sahen ein, daß wir hier nichts mehr ausrichten
-Empörten.
+würden.
 
-Gehen wir,« sagte Harald mißgestimmt.
+"Gehen wir,« sagte Harald mißgestimmt.
 
 Eine endlose ermüdende Wanderung drohte. Und ich
 entgegnete:
@@ -683,8 +684,8 @@ Der freundliche Leser wird vielleicht annehmen, daß wir
 sehr lange suchen mußten.
 
 Nein — Harald hatte seine besondere, sehr einfache
-Methode Da Tawa Barru offenbar sehr häufig hierher kam,
-mußte es auf dem Fliesenboden der Halle in dem umher-fiegenden
+Methode. Da Tawa Barru offenbar sehr häufig hierher kam,
+mußte es auf dem Fliesenboden der Halle in dem umherliegenden
 Geröll etwas wie einen Pfad geben.
 
 Und — der war auch deutlich zu erkennen, der lief
@@ -692,7 +693,7 @@ Hinter eine Anzahl Mauertrümmer, wo unter Laub und
 Steinen … eine Falltür aus Holz angebracht war.
 
 Harald hatte die Tür ohne Mühe aufgeklappt. Wir
-stiegen eine Steintreppe hinab. Unsere Taschenlampen verscheuchen
+stiegen eine Steintreppe hinab. Unsere Taschenlampen beleuchten
 leere Gewölbe.
 
 Nur in dem einen Kellerraum ein Lager von Decken
@@ -701,7 +702,7 @@ an der Wand an Bügeln hängend … vier Herrenanzüge,
 <@pagebreak/>
 die Beinkleider sauber in Hosenstrecker eingeklemmt.
 
-Was ist das nun?!« entfuhr es mir unwillkürlich.
+"Was ist das nun?!« entfuhr es mir unwillkürlich.
 
 Harald schwieg.
 
@@ -714,7 +715,7 @@ Und wir schauten uns den Inhalt an.
 Fanden Wäsche, Oberhemden — alles sehr elegant.
 
 Fanden eine Kamera für Filme, fanden allerlei anderes,
-trat einst fraglos einem reichen amerikanischen Touristen gehört
+was einst fraglos einem reichen amerikanischen Touristen gehört
 hatte.
 
 Silberne Toilettensachen, silberne Büchschen, — dazu
@@ -743,8 +744,8 @@ für den gewöhnlichen Sterblichen, für ihn ein Lichtschein!!
 
 Nicht für mich leider!
 
-Denn als er mir As die gestanzte Metallmarke hinhielt,
-da N ich den Kopf.
+Denn als er mir nun die gestanzte Metallmarke hinhielt,
+da schüttelte ich den Kopf.
 
 »Was ist das?!«
 
@@ -758,13 +759,13 @@ ich besah mir die runde Marke genauer.
 
 Darunter:
 
-Amritsar
+> Amritsar
 
 <@pagebreak/>
 
 Darunter:
 
-S. Nr. 54.
+> S. Nr. 54.
 
 Und auf der anderen Seite allerhand indische Buchstaben,
 dazu das Bild eines Tigers und einer Brillenschlange. —
@@ -787,7 +788,7 @@ Sechs Uhr morgens war’s da. — —
 
 Um zwei Uhr nachmittags erwachte ich.
 
-Leutnant Percy Sinclair stand in der kleidsamen Mittäterin
+Leutnant Percy Sinclair stand in der kleidsamen Uniform
 des 2. indischen Kamelreiterkorps vor mir.
 
 »Ausgeschlafen, Mr. Schraut?«
@@ -798,7 +799,7 @@ Ich gähnte eine ganze Tonleiter.
 
 »In Amritsar.«
 
-»Aha — die Karte!«
+»Aha — die Marke!«
 
 Sinclair wunderte sich. »Marke?«
 
@@ -820,7 +821,7 @@ Zigarren angezündet hatten:
 nach der Nachbarstadt fuhr?«
 
 »Nein.« — Und nun erzählte ich ihm unser nächtliches
-Abenteuer, denn er trat ja in die Vorgeschichte eingeweiht.
+Abenteuer, denn er war ja in die Vorgeschichte eingeweiht.
 
 <@pagebreak/>
 »Die Marke ist eine Safe-Marke, Mr. Schraut,« sagte er
@@ -841,7 +842,7 @@ Sinclair war jetzt im Offizierkasino — zum Mittagessen.
 etwas deponiert hat?« fragte ich den Freund mit pfiffigen
 Lächeln.
 
-»Wenn Du es rätst, mein Alter, schenke ich Dir
+»Wenn Du es rätst, mein Alter, schenke ich Dir ein
 Königreich!«
 
 Er strahlte.
@@ -864,7 +865,7 @@ Pardon — die Damen.«
 
 »So?! Sklavenhändlerinnen sind …«
 
-»Stopp — stopp! Die Geschichte ist voÏ etwas anders !«
+»Stopp — stopp! Die Geschichte ist doch etwas anders!«
 
 Er setzte sich neben mich auf die kleine Veranda.
 
@@ -877,14 +878,14 @@ Blies Rauchringe, wundervolle.
 Fügte hinzu:
 
 »Wir werden nun in dieser Nacht der Hütte Tawa
-Barrus einen Besuch abstatten.«
+Barrus einen Besuch abstatten.« --
 
 <@pagebreak/>
 Um halb neun kehrte Sinclair zurück. Wir saßen
 gerade beim Abendbrot.
 
 »Godwin Goddlear läßt grüßen,« sagte er und drückte
-»uns die Hand. »Er kommt sofort her. Er hat mich im
+uns die Hand. »Er kommt sofort her. Er hat mich im
 Kasino angerufen. In der Kinderentführung ist Neues geschehen.«
 
 Godwin traf zehn Minuten später ein. Er war sichtlich
@@ -901,13 +902,13 @@ sie im Rasthause angaben, eine Frau und ein Fräulein.«
 Godwin zog ein langes Gesicht. »Hm — woher wissen
 Sie das, Harst?«
 
-»Oh weiß es durch das Fremdenhaß des Hotels
+»Ich weiß es durch das Fremdenbuch des Hotels
 Imperial in Amritsar. Dort haben die Damen vor vierzehn
-— Längere Zeit, einen Monat fast.«
+Tagen gewohnt — Längere Zeit, einen Monat fast.«
 
-»Ich so! — Und …«
+»Ach so! — Und …«
 
-»… Und nie ins »aus New Lord, sind Mutter und
+»… und sie sind aus New Lord, sind Mutter und
 Tochter.«
 
 »Allerdings.«
@@ -915,16 +916,16 @@ Tochter.«
 »Die ältere ist die Witwe des Senators Palamoor, die
 jüngere die Gattin des Ingenieurs Allan Mac Palamoor.«
 
-Teufel — alles wissen Sie!«
+"Teufel — alles wissen Sie!«
 
 »Oh — noch mehr, teurer Godwin.«
 
 »So?!«
 
 »Ja … Zum Beispiel weiß ich, daß die Witwe Palamoor
-Dr Sie reich ist und nicht nötig hat, Kinder zu kaufen.«
+sehr reich ist und nicht nötig hat, Kinder zu kaufen.«
 
-bestimmt!
+"stimmt!"
 
 Mithin muß die Geschichte wohl ein Häkchen haben.«
 
@@ -935,7 +936,7 @@ Harald mit Neuem überfallen zu können. Nun war’s nichts
 damit. Nun ärgerte er sich.
 
 <@pagebreak/>
-»Lieber Godwin,« erklärte Harald, machen Sie freund-sist
+»Lieber Godwin,« erklärte Harald, machen Sie freundlichst
 ein anderes Gesicht. Morgen vormittag löse ich Ihnen
 das Rätsel des Falles Palamoor.«
 
@@ -943,14 +944,14 @@ das Rätsel des Falles Palamoor.«
 mit dabei haben!«
 
 »Sollen Sie … — Also nun noch ein paar Fragen,
-Herr »Detektivinspektor von Lahore. Erstens: Wie lange ist
+Herr Detektivinspektor von Lahore. Erstens: Wie lange ist
 Tawa Barru hier schon ansässig?«
 
 »Hm — höchstens ein Jahr. Er kam aus dem Norden.
-sich vorschriftsmäßig bei der Polizei angemeldet und
+Er ist vorschriftsmäßig bei der Polizei angemeldet und
 hat …«
 
-»Danke. — Und wie lange wohnt die Witwe des Frem-densührers
+»Danke. — Und wie lange wohnt die Witwe des Fremdenführers
 Hussein schon im Dorfe Sardpani?«
 
 »Auch etwa ein Jahr.«
@@ -966,7 +967,7 @@ Lahore und die Witwe ebenso lange in Sardpani.«
 »Hm — was folgern Sie daraus?«
 
 »Nichts besonderes. Oder besser, das was jeder daraus
-folgern würde: es besteht ein Zusammenhang zwischen den
+folgern würde: es besteht ein Zusammenhang zwischen dem
 Verrückten und der Witwe, und diesen Zusammenhang haben
 Schraut und ich in der verflossenen Nacht … gesehen!«
 
@@ -974,20 +975,20 @@ Nun erfuhr auch Goddlear unsere nächtlichen Erlebnisse.
 
 Nun sperrte er abermals Mund und Ohren auf
 
-»Safe-Karte. Allan Palamoor?! War im Imperial
+»Safe-Marke. Allan Palamoor?! War im Imperial
 abgestiegen — —?«
 
 »Ja — vor einem Jahr … Und hat noch dort ein
 Paket deponiert. Hat gleich damals vor einem Jahr für den
 Safe für ein Jahr vorausbezahlt, weil er eine Reise nach
-Afghanistan Unternehmen wollte.«
+Afghanistan unternehmen wollte.«
 
 »Unglaublich! Dann hat Tawa Barru ihn ermordet!«
 
-Vielleicht«
+"Vielleicht«
 
 <@pagebreak/>
-»Vielleicht?! Ich bitte Sie: die Koffer besagen da
+»Vielleicht?! Ich bitte Sie: die Koffer besagen doch
 allerlei! Dazu die Anzüge!!«
 
 »Ja — die so hübsch sauber aufgehängt sind!!«
@@ -1008,9 +1009,9 @@ Godwin grunzte ärgerlich:
 »Sie veralbern uns, Harst!«
 
 »Durchaus nicht. Ich mache nur meine verehrten
-Freunde auf kleine Eigenümlikeiten dieses Problems aufmerksam.«
+Freunde auf kleine Eigentümlichkeiten dieses Problems aufmerksam.«
 
-Dann ’erhob er sich. »Nun beginnt Schrauts und meine
+Dann erhob er sich. »Nun beginnt Schrauts und meine
 Nachtarbeit … Wiedersehen, die Herren.«
 
 Händedrücke, und wir Inder zogen ab.
@@ -1103,7 +1104,7 @@ Endlich vor uns ein hellerer Schimmer.
 
 Endlich!
 
-Der Teich — der berühmte Teil mit der Marmorein-fassung
+Der Teich — der berühmte Teil mit der Marmoreinfassung
 und dem Turm dicht am Ufer, von dessen weit über
 das Wasser hinausragender Altane<@refnote 1/> die mißliebigen Weiber
 des großen Mogulkaisers gefesselt in den Teich geworfen
@@ -1259,7 +1260,7 @@ Und im Teiche lauerten die gepanzerten Bestien!
 Da — — drehte der Mann sich um, legte Harald auf die
 breite Brüstung.
 
-Und — ermutigt durch diesen Erfolg, rief ich nochmals3:
+Und — ermutigt durch diesen Erfolg, rief ich nochmals:
 
 »Sperre Goddlear weiß alles! Hüte Dich!«
 
@@ -1395,7 +1396,7 @@ kommen. Tawa Barru hat Paíamoor einfacher, indem
 er, ein und dieselbe Person, den anderen vLerschschwinden
 ließ. Palamoor verschwand, und der Verrückte tauchte hier
 auf. Der Herr Ingenieur hat in New Lord nicht Nr
-Untershlagungen, sondern auch Wechselfälshungen begangen
+Unterschlagungen, sondern auch Wechselfälschungen begangen
 und hat zudem noch … — Ah, da sind wir … Godwin,
 hinaus — Klopfen Sie den Wachtmeister munter.« —
 
@@ -1440,7 +1441,7 @@ angelangt.
 Ahmed lief voran die Treppe zum Marmorsockel
 empor.
 
-Und in Tawa Barrus Hütte riß er die zerlegten Bast-teppiche
+Und in Tawa Barrus Hütte riß er die zerlegten Bastteppiche
 bei Seite und enthüllte so eine in den Marmor eingefügte
 runde Eisenplatte mit einem Handgriff.
 
@@ -1485,7 +1486,7 @@ Das rohe Lachen des verkleideten Allan Palamoor über-tôönte
 die wehen Laute.
 
 »Seid froh, daß ich Euch freigebe!« rief er höhnisch.
-»Wenn dieser verdammte deutete Schnüffler nicht dazu-gekommen
+»Wenn dieser verdammte deutete Schnüffler nicht dazugekommen
 wäre, hättet Ihr gehörig bezahlen müssen! Ohne
 Lösegeld wäret Ihr niemals wieder an die Oberwelt gelangt!
 — Verflucht — laßt das Heulen! Das Balg und
@@ -1537,7 +1538,7 @@ Alix Palamoor.
 <h3>Unfaßbare Rätsel.</h3>
 
 Daß die im allgemeinen harmlosen fleißigen Bienen,
-übrigens ein nützliches spielt, welches in fast allen Welt-gegenden
+übrigens ein nützliches spielt, welches in fast allen Weltgegenden
 zu finden ist, jemals schon in einem Kriminalfall
 eine bedeutsame Rolle gespielt haben, ist nicht bekannt geworden.
 
@@ -1570,7 +1571,7 @@ obwohl Freund Goddlear hiergegen sehr Mark
 protestiert hatte. Er verlangte, wir sollten wieder in seinen
 Bungalow zurückkehren.
 
-Der ersten Vernehmung Allan Mac Palamoors3 durch
+Der ersten Vernehmung Allan Mac Palamoors durch
 Goddlear wohnten wir als Zeugen und Sachverständige bei.
 
 Wir sahen den Ingenieur damals zum ersten Male ohne
@@ -1727,7 +1728,7 @@ Dann Harst:
 lieber Sinclair: auch ich könnte an diesem Stamm nicht ohne
 Leiter emporklimmen,- es sei denn, daß ich hier diesen Auswuchs
 <@pagebreak/>
-als Fußstüße und das Bienenloch als Halt für die
+als Fußstütze und das Bienenloch als Halt für die
 Hände bemühte, — und besseres würde mir sehr schlecht bekommen,
 sehr schlecht sogar, weil die kleinen Honigsammler
 meine Hand übel durch Stiche zurichten dürften.«
@@ -1795,7 +1796,7 @@ stark.
 Durch einen Park, der all den Zauber tropischer Pracht
 in sich vereinigte.
 
-Und hinter einer jener rotblühenden Becken des Sostri-Strauches
+Und hinter einer jener rotblühenden Becken des Doktor-Strauches
 lag Frau Alix Palamoor auf dem gelben Kies
 — auf dem Rücken.
 
@@ -1852,7 +1853,7 @@ Da warf Harald ein:
 »Wo ist Frau Ethel Palamoor und die kleine Ethel?«
 
 »Bei der Gattin des amerikanischen Konsuls. Sie gingen
-um halb acht hin. Die Damen wollten eine Wagen-partie
+um halb acht hin. Die Damen wollten eine Wagenpartie
 nach den Schleusen von Tesdougar unternehmen.«
 
 »So hat also Frau Ethel noch keine Ahnung von dem
@@ -1953,7 +1954,7 @@ den die Strömung dann danieder hinter den nächsten
 Schleusendamm entführte.
 
 Kaum geschehen, nahte auch schon der von Goddlear ab-geschikte
-Motorfahrer mit der Unglücksbotschast.
+Motorfahrer mit der Unglücksbotschaft.
 
 So erzählte Frau Ethel, und fügte hinzu:
 
@@ -1961,7 +1962,7 @@ So erzählte Frau Ethel, und fügte hinzu:
 Harst, wenn nicht Frau Dressiert genau dasselbe geschaut
 hätte, ebenso mein Töchterchen. Und jetzt, wo meine Mutter
 tot ist, behaupte ich allen Ernstes: es war ihr Geist, den wir
-sahen! Es war …. ihr Abschied von uns, der Abschied …
+sahen! Es war … ihr Abschied von uns, der Abschied …
 einer Toten!«
 
 Harald schwieg dazu. —
@@ -2064,7 +2065,7 @@ haben können. Diese Worte lauteten:
 — Selbstmord ist ausgeschlossen. Vollständig! — Mithin
 — was sollten die Worte besagen?«
 
-Ich grüble …. grüble …
+Ich grüble … grüble …
 
 Die Sonne meint es heute wieder besonders gut.
 
@@ -2395,7 +2396,7 @@ Erwachte.
 
 Sah nach der Uhr.
 
-Fünf war’s …. fünf Uhr nachmittags! Und am Tischs
+Fünf war’s … fünf Uhr nachmittags! Und am Tischs
 stand als und lächelte diskret.
 
 »Wo ist Harst?« fragte ich gähnend.
@@ -2483,7 +2484,7 @@ Ast bemerken kann.«
 
 Ich wurde kratzbürstig.
 
-»Was soll diese Topfgeschichte? Du … Du veralbersl
+»Was soll diese Topfgeschichte? Du … Du veralberst
 mich!«
 
 »Oh — ich war nie so ernst wie jetzt! Der Topf ist
@@ -2601,7 +2602,7 @@ Kurz: eine feudale Höhle war das hier! —
 
 Aber Freund Harst war mißtrauisch.
 
-Und er rieb ein Zündholz an und setzte die Karbidsteh-lampe
+Und er rieb ein Zündholz an und setzte die Karbidstehlampe
 in Brand. Sie war in Ordnung.
 
 Wir suchen nach Brillenschlangen.
@@ -2619,13 +2620,13 @@ Durch … das tote Lahore.
 Nicht die erste Wanderung dieser Art.
 
 Kamen schließlich durch einen endlosen Gang, der zwei
-Türme der Besestigungen verbunden hatte, bis an eine verschüttete
+Türme der Befestigungen verbunden hatte, bis an eine verschüttete
 Tür.
 
 Entdeckten, daß diese Tür doch noch einen Durchschlupf
 bot.
 
-Und — kannten in denselben Kellern des großen Fndra-Tempels,
+Und — kannten in denselben Kellern des großen Indra-Tempels,
 wo wir vor einer Woche die kleine Maria im
 Käfig aufgefunden hatten.
 
