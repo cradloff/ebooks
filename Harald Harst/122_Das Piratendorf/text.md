@@ -29,7 +29,7 @@ Strahles über die Wand hin.
 
 Wie ein Leuchtkäfer, der etwas suchte.
 
-Und — — fand …: Das Loch des ZentrumSsbohrer38,
+Und — — fand …: Das Loch des Zentrumsbohrers,
 das wir heute mittag hier ins Holz gebohrt hatten, als das
 stallähnliche Gebäude leer war. —
 
@@ -60,7 +60,7 @@ Oststurm war’s.
 
 Wir hörten, als wir zu dem gefährlichen Unternehmen
 vor einer Stunde aufgebrochen waren, das Meer gegen die
-Baren von Orkalla schäumen.
+Klippen von Orkalla schäumen.
 
 Wir — — hörten jetzt, die Muschel an einem Ohr, das
 andere mit dem Finger verstopfend, die Geräusche, die aus
@@ -68,8 +68,8 @@ der Kulibaracke unser Trommelfell in Schwingungen setzen.
 
 Schweres, tiefes Atmen, Schnarchen.
 
-All die Töne, die in einem Maässenquartier nachts
-lebendig, werden. —
+All die Töne, die in einem Massenquartier nachts
+lebendig werden. —
 
 Aber — mehr hörten wir nicht.
 
@@ -77,7 +77,7 @@ Noch nicht! dachte ich und hoffte …
 
 Wir warteten — warteten.
 
-Über die lange Baracke hinweg setzte der Sturm.
+Über die lange Baracke hinweg fegte der Sturm.
 
 Wir lagen unter Wind. Die Musik des Sturmes war
 die Begleitung zu den dumpfen Lauten, die aus der Baracke
@@ -103,11 +103,11 @@ mich jedoch, was den Inhalt ihres leisen Gesprächs betraf,
 so sehr, daß ich unwillkürlich überlegte, ob Harald sich
 nicht doch getäuscht hätte.
 
-Jetzt vernahm ich die Mädchenstimme noch deutliche!
+Jetzt vernahm ich die Mädchenstimme noch deutlicher
 … Und diese Stimme klang so erregt, daß dieses atemlose,
 leidenschaftliche Gestammel in seltsamem Gegensatz zu
-Inhalt der harmloifen — scheinbar harmlosen Worte
-Tand.
+dem Inhalt der harmlosen — scheinbar harmlosen Worte
+stand.
 
 Die Unbekannte dort flüsterte:
 
@@ -115,17 +115,17 @@ Die Unbekannte dort flüsterte:
 Wetter werden — Prachtwetter. Und doch bitte ich Dich,
 verschiebe den Ausflug noch.«
 
-Worauf er, Sindra Mar, Kuli in den Minenseldern der
+Worauf er, Sindra Mar, Kuli in den Minenfeldern der
 Orkalla, erwiderte:
 
 »Darüber, ob der Ausflug lohnt, entscheidet Dein
 Vater, Ozeana …«
 
 »Oh — ich habe auf ihn leider keinen Einfluß, Sindra
-Mar … Das weißt Du.« -
+Mar … Das weißt Du.« —
 
 Inzwischen hatte ich die Stimme des Mädchens erkannt,
-das der Inder mit Ozeana aufstehe.
+das der Inder mit Ozeana anredete.
 
 Es war … Judith Longfellow, die Erzieherin der
 Kinder des Generaldirektors der Orkalla-Minen! —
@@ -133,7 +133,7 @@ Kinder des Generaldirektors der Orkalla-Minen! —
 Und — das Gespräch ging weiter.
 
 »Zum Glück keinen Einfluß,« sagte Sindra Mar hart
-und fast zornig. »Du bist seltsam, anderes geworden in den
+und fast zornig. »Du bist seltsam, anders geworden in den
 letzten Wochen, Ozeana …! Hüte Dich! Du weißt, ich
 lasse nicht mit mir … spielen!«
 
@@ -146,7 +146,7 @@ Da erwiderte Judith Longfellow schon:
 
 »Ich spiele nicht mit Dir, Sindra Mar. Du maßest Dir
 Rechte an, die Du nicht hast! — Laß mich hinaus. — Und —
-— nochmals: sich zu, daß der Ausflug aufgegeben wird!«
+— nochmals: sieh zu, daß der Ausflug aufgegeben wird!«
 
 Dann — ein leiser Schrei.
 
@@ -167,7 +167,7 @@ Und jetzt … das Knarren einer Tür,
 
 Und wieder Stille.
 
-Bisses das leise Kreischen des Bettes bewies, daß der
+Bis das leise Kreischen des Bettes bewies, daß der
 Inder wieder auf sein Lager zurückgekehrt war.
 
 Ich stieß Harald leise an.
@@ -194,14 +194,14 @@ Ein Kopf folgte.
 
 Schultern.
 
-Ein … indischer 2 vorn einen schmierigen
+Ein … indischer Kuli, schwarzbärtig, einen schmierigen
 Turban auf dem Schädel.
 
 Sindra Mar, der Geheimnisvolle!! —
 
 Wir rührten uns nicht.
 
-Wir waren zwar durch die Dornenkulisse von dem Eden
+Wir waren zwar durch die Dornenkulisse von dem Inder
 getrennt, aber wenn’s das Unheil wollte, kroch er vielleicht
 hier nach unserer Seite hin.
 
@@ -212,7 +212,7 @@ Unheimlich durch all das, was Generaldirektor Tompsen
 uns von Sindra Mar schriftlich nach Lahore mitgeteilt und
 <@pagebreak/>
 was uns veranlaßt hatte, in der Verkleidung holländischer
-Diamantenaufskäufer gen Süden nach dem Küstenstädtchen
+Diamantenaufkäufer gen Süden nach dem Küstenstädtchen
 Orkalla zu reisen — vorgestern. —
 
 Dieser Sindra Mar verschonte uns, kroch nach der
@@ -243,7 +243,7 @@ brennenden riesigen Bogenlampen der Minenfelder bis hierher
 reichte.
 
 Ein Schatten, neben dem unter den sturmgepeitschten
-Partner zwei andere hinglitten: Harst und ich, jetzt nicht
+Bäumen zwei andere hinglitten: Harst und ich, jetzt nicht
 mehr blondbärtige Holländer, sondern ebenfalls indische
 armselige Kulis. —
 
@@ -251,14 +251,14 @@ Sindra Mar verließ den Waldrand, bog nach rechts ab.
 
 Kahle Felsen, Gestrüpp, Büsche.
 
-Und dann — das Wiese, die Straße von Bombay,
+Und dann — das Meer, die Straße von Pamban,
 zwischen den Inseln sich hinziehend, die von der Südspitze
-Spe Streng wie Brückenpfeiler nach Ceylon sich hiinnüber-recken
+Vorderindiens wie Brückenpfeiler nach Ceylon sich hinüberrecken.
 
-Eine Bucht, klein, mit steilen Fel3ufern, die den Sturm
+Eine Bucht, klein, mit steilen Felsufern, die den Sturm
 abfingen.
 
-Und gerade «als Sindra Mar hier zur Bucht hinabstieg,
+Und gerade als Sindra Mar hier zur Bucht hinabstieg,
 als der Mond klar aus einem Stück wolkenfreien Himmels
 <@pagebreak/>
 hervorleuchtete, — da drehte er sich um, der unheimliche
@@ -276,13 +276,13 @@ zu erspähen.
 
 Nirgends.
 
-Nein, — leer und still lag die mondbeschienene, von -
-dunklem Gestein eingerahmte Bucht da wie ein friedlicher -
+Nein, — leer und still lag die mondbeschienene, von
+dunklem Gestein eingerahmte Bucht da wie ein friedlicher
 Binnensee. —
 
 Harald flüsterte:
 
-»Unbegreiflich! Wo blieb er?!«!
+»Unbegreiflich! Wo blieb er?!«
 
 Und ich: »Es gibt keinen Weg zur Bucht hinab außer
 diesem. Wir sind ja heute mit Tompsen auf dem Spaziergang
@@ -294,7 +294,7 @@ Harst schwieg jetzt.
 
 Das Mondlicht flimmerte auf dem Wasser.
 
-Die kaum sechzig Meter breite Bucht bot keinerlei Verlief.
+Die kaum sechzig Meter breite Bucht bot keinerlei Versteck.
 Steil fielen die Felsen etwa zehn Meter tief zum
 Wasserspiegel ab. Nur dort, wo Sindra Mar hinabgestiegen
 war, zogen sich flache treppenartige Terrassen bis zum
@@ -305,7 +305,7 @@ Und doch — der Inder war und blieb verschwunden.
 Eine halbe Stunde noch, und Harald meinte leise:
 
 »Es ist zwecklos! Sindra Mar kann nur schwimmend
-irgend ein Perlte in den Uferfelsen erreicht haben.«
+irgend ein Versteck in den Uferfelsen erreicht haben.«
 
 Wir schlichen davon — durch den Garten der weißen
 villenartigen Behausung Tompsens — auf die große lange
@@ -317,7 +317,7 @@ Fenster in unser gemeinsames Wohnzimmer ein.
 <h2>2. Kapitel.</h2>
 <h3>Der tote Schofför.</h3>
 
-Harst schloß das Fenster, schloß die Läden, zog noch dich
+Harst schloß das Fenster, schloß die Läden, zog noch die
 Vorhänge zu und sagte dann laut:
 
 »So, nun schalten Sie nur das Licht ein, Mr. Tompsen.«
@@ -342,21 +342,21 @@ Auch Tompsen und ich nahmen Platz.
 
 Harst langte nach dem Zigarettenetui.
 
-Rauchte ein paar Züge seiner Mirakulum, sagte leise und:
-gedankfenvoll:
+Rauchte ein paar Züge seiner Mirakulum, sagte leise und
+gedankenvoll:
 
 »Bevor ich Ihnen das Resultat dieser Nacht mitteile,
 Mr. Tompsen, will ich nochmals zur Auffrischung unseres
 Gedächtnisses den Brief verlesen, den Sie mir nach Lahore
-schien.«
+schickten.«
 
-Er hob die seidene Tischdecke auf und holte den Briet
-hervor, der hier während unserer Abwesenheit aus unscren-Gastzimmern
-am sichersten verborgen, war.
+Er hob die seidene Tischdecke auf und holte den Brief
+hervor, der hier während unserer Abwesenheit aus unseren
+Gastzimmern am sichersten verborgen war.
 
 Las … las folgendes:
 
-> »Orkalla, Post Roman,
+> »Orkalla, Post Ramna,
 
 > 2\. September 1923.
 
@@ -379,17 +379,17 @@ nicht unscheinbar, sondern geradezu unheimlich ist.
 Zunächst über mich selbst:
 
 Ich bin Generaldirektor der Orkalla-Diamantenminen,
-die Schrein dem Namen nach nicht unbekannt sein dürften.
+die Ihnen dem Namen nach nicht unbekannt sein dürften.
 
 Ich wohne hier in Orkalla in nächster Nähe der Minen.
 — Wir stellen nur Arbeiter ein, die uns als zuverlässig
 empfohlen werden. So kam vor vier Wochen ein Inder
-namens Statuen Mar zu mir und zeigte mir einen Brief
+namens Sindra Mar zu mir und zeigte mir einen Brief
 meines Freundes, des Rechtsanwalts Hockins aus Bombay,
 bei dem Sindra Mar acht Wochen Schofför gewesen und sich
 tadellos geführt hatte. Er gab diese Stellung nur auf, weil
 wir unsere tüchtigen Arbeiter sehr gut bezahlen und weil
-ein Mensch mit Verstänßni8 für technische Dinge es leicht
+ein Mensch mit Verständnis für technische Dinge es leicht
 bei uns weiterbringt.
 
 Ich stellte Sindra Mar als Arbeiter beim zweiten Waschrahmen
@@ -398,7 +398,7 @@ der dritten Mine ein.
 Wie gesagt — das ist heute genau vier Wochen her.
 
 Sindra Mar zeigte sich außerordentlich anstellig. Er war
-Gescheiter, wortkarg und fleißig. Er hielt sich zumeist ganz
+bescheiden, wortkarg und fleißig. Er hielt sich zumeist ganz
 Für sich allein.
 
 Nach einer Woche schrieb ich Hockins, daß ich mit Sindra
@@ -413,27 +413,25 @@ Wieder verging eine Woche.
 Da kam einer der Aufseher der dritten Mine zu mir
 und erklärte, Sindra Mar sei schon verschiedentlich von ihm
 Spät abends beobachtet worden, wie er von dem sogenannten
-
 <@pagebreak/>
-Bombay-Felsen aus mit einer kleinen Laterne nach dem
+Pamban-Felsen aus mit einer kleinen Laterne nach dem
 Meere hin Zeichen gebe.
 
 Dies schien mir verdächtig.
 
 Der Aufseher und ich legten uns in der Nähe des mächtigen
-Felsklotze3 drei Nächte auf die Lauer. In der dritten
-Acht endlich konnte ich nun selbst mit ansehen, wie Sindra
+Felsklotzes drei Nächte auf die Lauer. In der dritten
+Nacht endlich konnte ich nun selbst mit ansehen, wie Sindra
 Mar mit einer kleinen, aber sehr hell brennenden Karbidlaterne
-tatsäctxich signalisierte.
+tatsächlich signalisierte.
 
 Das heißt: er blendete die Laterne ab, ließ sie wieder
-aufbligzten, und zwar in der Art, daß kurze und lange Blitze
+aufblitzen, und zwar in der Art, daß kurze und lange Blitze
 zustande kamen. —
 
 Ich befahl dem Aufseher, vorläufig zu schweigen.
 
-Aber — Sindra Mar begab sich nie wieder zum Bombay-
-Felsen.
+Aber — Sindra Mar begab sich nie wieder zum Pamban-Felsen.
 
 Doch — anderes geschah, und zwar am 27. August.
 
@@ -441,13 +439,13 @@ An diesem Tage erhielt ich von Anwalt Hockins aus
 Bombay einen Brief, in dem er mir mitteilte, daß man in
 den Ruinen eines Tempels unweit Bombays, die bereits stark
 verweste Leiche eines Eingeborenen unter Geröll gefunden
-habe und daß dieser sorglos ermordete Inder von ihm an den
-Schuhen, an dem Hemd, das er selbst ihm geschenkt An
+habe und daß dieser fraglos ermordete Inder von ihm an den
+Schuhen, an dem Hemd, das er selbst ihm geschenkt habe,
 und an einer Narbe am rechten Unterarm als … der
 frühere Schofför Sindra Mar wiedererkannt worden sei.
-Mithin müsse der von mir eingestellte Sindra Mar &n
+Mithin müsse der von mir eingestellte Sindra Mar ein …
 Betrüger sein, der den Empfehlungsbrief dem Toten abgenommen
-habe. LVLielleicht sei der noch lebende Sindra Mar
+habe. Vielleicht sei der noch lebende Sindra Mar
 sogar der Mörder des andern.
 
 Dem Briefe lag eine Photographie des Schofförs bei.
@@ -457,7 +455,7 @@ Sindra Mar Zug um Zug.
 
 Mehr noch: auch der jetzige Diamantenwäscher Sindra
 Mar hat genau dieselbe Narbe am rechten Unterarm, die
-Heims mir eingehend beschrieben hatte.
+Hockins mir eingehend beschrieben hatte.
 
 Kein Wunder, daß mir dieser Doppelgänger des Ermordeten
 etwas unheimlich erschien. Kein Wunder auch, daß
@@ -480,12 +478,12 @@ als unheimlich zu bezeichnen.
 
 Der Aufseher schlich ihm an diesem Abend aus der
 Minenkantine bis zum Seestrande nach. Sindra Mar betrat
-die Klippen rechte vom Bombay-Felsen. Und hier auf der
+die Klippen rechts vom Pamban-Felsen. Und hier auf der
 äußersten Klippenreihe, von denen aus es steil in die Tiefe
 geht, entkleidete er sich und … sprang ins Meer.
 
 Es war eine helle Nacht. Sindra Mar — — kam nicht
-wieder empor. Der Aufseher lag auf dem Bombay-Felsen
+wieder empor. Der Aufseher lag auf dem Pamban-Felsen
 und hatte ein Fernglas bei sich, wartete noch eine Stunde
 und verließ dann seinen Beobachtungsplatz, da er annahm,
 der Inder sei durch einen Haifisch angefallen und so umgekommen.
@@ -499,13 +497,13 @@ Und an diesem 1. September abends las ich dann in der
 Bombay-Post, daß Sie, Mr. Harst, in Lahore weilten.
 
 So schreibe ich Ihnen denn heute am 2. September
-diesen Brief und. bitte Sie, schleunigst nach Orkalla reisen zu
+diesen Brief und bitte Sie, schleunigst nach Orkalla reisen zu
 wollen, da ich als Generaldirektor der Minen die dumpfe
 Vorahnung habe, als ob Sindra Mar irgend etwas gegen die
 Gesellschaft vorbereite.
 
 Im Vertrauen, Mr. Harst: die beiden Tresore im Verwaltungsgebäude
-bergen zutreiben Edelsteine von ungeheurem
+bergen zuweilen Edelsteine von ungeheurem
 <@pagebreak/>
 Wert, und obwohl ich mir sage, daß die Wächter, die das
 Gebäude nachts innen und außen bewachen, zuverlässig sind,
@@ -514,9 +512,9 @@ für meine Gesellschaft zu verhüten. —
 
 Heute ist auch ein Brief von Hockins eingetroffen. Ich
 hatte dem Anwalt eine kleine, von mir heimlich geknipste
-Aufnahme Sindra Mais beigefügt gehabt, und Hockins
+Aufnahme Sindra Mars beigefügt gehabt, und Hockins
 schrieb nun, daß auch er jetzt im Zweifel sei, wer der echte
-Sindra Mar sein könne der Tote oder der Lebende. —
+Sindra Mar sein könne, der Tote oder der Lebende. —
 
 Ich will diese meine Mitteilungen nun schließen, Mr.
 Harst.
@@ -529,7 +527,7 @@ in jedem Falle mindestens 300 Pfund Sterling erhalten.
 
 > Tompsen, Generaldirektor.«
 
-— Dies war daß Schreiben, das uns nach Orkalla geführt
+— Dies war das Schreiben, das uns nach Orkalla geführt
 hatte.
 
 Harald hatte sehr langsam gelesen.
@@ -547,9 +545,9 @@ Stiften.«
 Und fügte hinzu, indem er die verkohlten Reste im Aschbecher
 zerrieb:
 
-»Was wir durch daß Lob erlauscht haben, ist bedeutungslos
+»Was wir durch das Loch erlauscht haben, ist bedeutungslos
 … Es war freilich jemand bei Sindra-Mar in der
-Schlaflose, der Stimme nach ein jüngerer Mensch.«
+Schlafkoje, der Stimme nach ein jüngerer Mensch.«
 
 Aha — er log — — er verschwieg Judith Longfellow!!
 
@@ -562,12 +560,12 @@ ausschlüpfen kann. Wir folgten ihm bis zu der kleinen
 Bucht, die Sie uns heute zeigten, Mr. Tompsen. Dort verschwand
 er. — Der Erfolg dieser Nacht ist also scheinbar
 gering — scheinbar … Vielleicht kann ich doch noch etwas
-gu3s8 dem wenigen machen.«
+aus dem wenigen machen.«
 
 Der Generaldirektor war sichtlich enttäuscht, meinte:
 
-»Hm — hätten Sie nicht vielleicht dem Manne nahe
-schleichen sollen, Mr. Harst, der mit Sindra Mar diese geheime
+»Hm — hätten Sie nicht vielleicht dem Manne nachschleichen
+sollen, Mr. Harst, der mit Sindra Mar diese geheime
 Unterredung hatte?«
 
 »Das ging nicht. Wir merkten zu spät, daß der Mann
@@ -588,13 +586,13 @@ Tompsen schüttelte den Kopf.
 »Das ist wohl ausgeschlossen! Aber — wenn Sie es
 wünschen!«
 
-Alle diese Hausangestellten waren bereite länger als
+Alle diese Hausangestellten waren bereits länger als
 drei Jahre bei dem Generaldirektor in Dienst.
 
 Nur Judith Longfellow (er erwähnte sie zuletzt) weilte
 erst sechs Wochen hier. Sie war auf ein Zeitungsinserat
 Tompsens hin nach Orkalla gekommen und hatte tadellose
-Zeugnisse von ihrer letzten Stelle bei General Krebse in Kalkutta.
+Zeugnisse von ihrer letzten Stelle bei General Roobs in Kalkutta.
 Sie zählte zwanzig Jahre, war (angeblich) Waise und
 seit zwei Jahren Erzieherin.
 
@@ -605,10 +603,10 @@ Tompsen verabschiedete sich dann sehr bald, und gegen
 zwei Uhr morgens waren wir allein in dem gemütlichen
 <@pagebreak/>
 und stilvollen Wohnsalon, der noch heute der Schauplatz
-denkwürdigen Szenen werden sollte.
+denkwürdiger Szenen werden sollte.
 
 Ich habe so und so oft Gelegenheit gehabt, Haralds
-geradezu verblüffende Beobachtungsgabe, seinen scharfen.
+geradezu verblüffende Beobachtungsgabe, seinen scharfen
 Blick für die geringfügigsten Kleinigkeiten hier beweisen zu
 können.
 
@@ -623,11 +621,11 @@ Knien einen Stoß, und das Ruhebett rollte zur Seite.
 
 So … kam ein darunter liegender Mensch zum Vorschein.
 
-Ein schlanker junger Bursche mit bis ins Gen! gezogener
+Ein schlanker junger Bursche mit bis ins Genick gezogener
 Sportmütze und blondem Schnurrbart.
 
 Ein Bursche, der ein Europäer war und uns beide jetzt
-hilflos ausholte.
+hilflos anglotzte.
 
 »Stehen Sie auf, Miß Longfellow,« sagte Harald
 ironisch. »Stehen Sie auf und nehmen Sie dort Platz …
@@ -664,14 +662,14 @@ als Tompsen uns die Hausangestellten aufzählte. Beide
 Mäuse schossen dann sofort wieder wie besessen hervor und
 verschwanden dort unter dem Schranke. Da sagte ich mir,
 daß da fraglos unter dem Diwan sich etwas befinden müsse,
-was die Tierchen verscheucht hätt. Und wie ich mir dies
+was die Tierchen verscheucht hätte. Und wie ich mir dies
 sagte, haben Sie, um besser zu hören, das eine Fell ganz
 langsam etwas verschoben. Nicht langsam genug, Miß!«
 
 Sie saß noch immer zusammengesunken da und wagte
 nicht aufzuschauen.
 
-»Was wollten Sie hier? WedShalb kamen Sie her, als
+»Was wollten Sie hier? Weshalb kamen Sie her, als
 Tompsen noch nicht hier saß und uns erwartete?« fügte
 Harst ebenso gutmütig hinzu. »Reden Sie doch! Sie wissen
 nun ja, daß wir in Wahrheit Harst und Schraut heißen
@@ -679,14 +677,14 @@ Und Detektive sind.«
 
 Da — — hob sie den Kopf.
 
-Flüsterte — und auf alles andere wär, ich vorbereitet,
+Flüsterte — und auf alles andere war ich vorbereitet,
 Nur nicht auf *die* Worte:
 
 »Ich bin ja selbst Detektivin, Mr. Harst. Ich bin hier
 nach Orkalla geschickt worden, weil mein Chef Mr. Sidney
-Lomarlay in Singapore von einem der Aktionäre der Orkalla-
-Aktiengesellschaft den Auftrag erhielt, festzustellen, ob
-»Generaldirektor Tompsen ne etwa die wertvollsten Steine
+Lomarlay in Singapore von einem der Aktionäre der
+Orkalla-Aktiengesellschaft den Auftrag erhielt, festzustellen, ob
+Generaldirektor Tompsen nicht etwa die wertvollsten Steine
 verschwinden lasse … Oh — ich kann dies beweisen,
 Mr. Harst.«
 
@@ -699,8 +697,8 @@ lächelnd.
 
 Und sie zog aus der Innentasche der Sportjacke ihres
 <@pagebreak/>
-Kreuzes eine Brieftasche hervor, in deren Futter sie eine
-AusSweiskarte nebst Photographie verborgen hatte.
+Anzuges eine Brieftasche hervor, in deren Futter sie eine
+Ausweiskarte nebst Photographie verborgen hatte.
 
 Harald prüfte den Ausweis, gab ihn mir.
 
@@ -709,17 +707,17 @@ Das Lichtbild Judiths war aufgeklebt und gestempelt.
 Harst fragte:
 
 »Sie nahmen also wohl an, daß wir beide, wir Holländer,
-As Tompsen vielleicht heimlich Steine kaufen würden?«
+von Tompsen vielleicht heimlich Steine kaufen würden?«
 
-Und deshalb verbarg ich mich hier. Ich erwartete
-»bestimmt, hier irgend etwas zu erfahren, denn bisher
+»Ja … Und deshalb verbarg ich mich hier. Ich erwartete
+bestimmt, hier irgend etwas zu erfahren, denn bisher
 sind meine Ermittlungen ohne Erfolg geblieben.«
 
 »Und werden es auch bleiben, Miß. Tompsen ist kein
 Betrüger.«
 
 »Nein — ich glaube es ebenfalls nicht. Ich habe das
-auch bereite in meinen Berichten an meinen Chef Sidney
+auch bereits in meinen Berichten an meinen Chef Sidney
 Lomarlay betont.«
 
 »Sind Sie allein hier? Ich will sagen: ist noch ein
@@ -733,23 +731,23 @@ Longfellow.«
 
 Er beugte sich zu ihr hinab …
 
-»Noch eins, Miß … Sie wissen jetzt, daß diese
+»Noch eins, Miß … Sie wissen jetzt, daß dieser
 Sindra Mar von uns beargwöhnt wird, daß wir ihn und
 einen anderen heute belauscht haben — wie Sie uns! —
 Haben Sie vielleicht etwas beobachtet, was über Sindra
 Mar’s Absichten und seine wahre Persönlichkeit Aufschluß
-neben könnte? Sie als Kollegin, die schon wochenlang hier
-ist, dürften vielleicht mehr gesehen haben als andere, als he
-Ausfiel zum Beispiel.« —
+geben könnte? Sie als Kollegin, die schon wochenlang hier
+ist, dürften vielleicht mehr gesehen haben als andere, als der
+Aufseher zum Beispiel.« —
 
-Oh — ich durchschaute Haralds seines Spiel! Es kam
+Oh — ich durchschaute Haralds feines Spiel! Es kam
 ihm darauf an, Judith völlig in Sicherheit zu wiegen. Sie
 sollte auf keinen Fall vermuten, daß wir ihr nicht glaubten,
-daß ihr sie als den »anderen Mann« erkannt hatten.
+daß wir sie als den »anderen Mann« erkannt hatten.
 
 Und — das Spiel gelang.
 
-Judith betonte eifrig, sie hätte Sindra Mar’s Namen.
+Judith betonte eifrig, sie hätte Sindra Mar’s Namen
 <@pagebreak/>
 heute zum ersten Male gehört. Sie wüßte also nichts über
 ihn.
@@ -764,7 +762,7 @@ Sie verließ uns, nachdem sie uns freundschaftlichst die
 Hand gedrückt hatte.
 
 Und — kaum war sie hinaus, als Harald auch schon
-Bart und Perücke und Turban wieder anlegte, das Feuere
+Bart und Perücke und Turban wieder anlegte, das Fenster
 öffnete, hinausturnte …
 
 Ich hatte das Licht ausgeschaltet.
@@ -773,8 +771,8 @@ Ich folgte ihm.
 
 Und draußen trennten wir uns.
 
-Judith schlief im zweiten Stock, konnte also nur env
-weder durch die Vorher- oder die Hintertür ins Freie.
+Judith schlief im zweiten Stock, konnte also nur entweder
+durch die Vorher- oder die Hintertür ins Freie.
 
 Ich bewachte die Vordertür.
 
@@ -782,31 +780,31 @@ Ich duckte mich auf der Veranda zusammen.
 
 Und — hatte hier nur wenige Minuten gekauert, als
 eins der schmalen Fenster der Vorhalle neben der Haupttür
-leise kürzere und in den Angeln kreischte. —
+leise klirrte und in den Angeln kreischte. —
 
-Es war noch dunkel … Es war jetzt vielleicht hat
+Es war noch dunkel … Es war jetzt vielleicht halb
 drei Uhr morgens.
 
-Aus dem Fenster schwang sich eine Gestalt — — Fuchs!
+Aus dem Fenster schwang sich eine Gestalt — — Judith!
 
 Und — — lief lautlos in den Garten …
 
-Lief und — — tauchte in der Finsternis der laubüber«-
-dachten Wege unter.
+Lief und — — tauchte in der Finsternis der laubüberdachten
+Wege unter.
 
 Ich rasch ums Haus.
 
 Zu Harald.
 
-Und wir beide dann durch den Garten, am Fernab
-tung8gebäude vorüber — nach den Baracken der Arbeiter.
+Und wir beide dann durch den Garten, am Verwaltungsgebäude
+vorüber — nach den Baracken der Arbeiter.
 
 Vor Baracke 3 drückten wir uns hinter den Rand des
 Badebeckens, dessen Wasser durch steten Zu- und Abfluß
 ständig erneuert wurde.
 
-Kaum hier angelangt, sahen wir auch schon aus Sees
-Barackentür das Mädchen hervor schlüpfen.
+Kaum hier angelangt, sahen wir auch schon aus der
+Barackentür das Mädchen hervorschlüpfen.
 
 <@pagebreak/>
 Sahen, daß sie die Richtung zum Meere einschlug.
@@ -827,11 +825,11 @@ Und als sie dann unten am schmalen Strandstreifen der
 Bucht stand, als sie hier aus der Tasche … eine kleine
 Laterne hervorzog, deren Glasscheibe nachher gelbes Licht,
 grün-gelbes, ins Weite schickte, als sie so fünf Minuten
-Er hatte; da … setzte sie sich auf einen Stein und
+signalisiert hatte, da … setzte sie sich auf einen Stein und
 … schrieb …
 
 Und ihre beiden Kollegen Harst und Schraut lagen zwei
-Schritt hinter dem Stein und Sonne weiter, wie sie
+Schritt hinter dem Stein und beobachteten weiter, wie sie
 einen Zettel in ein Fläschchen tat und …
 
 … und …
@@ -839,7 +837,7 @@ einen Zettel in ein Fläschchen tat und …
 Ja — lieber, verehrter Leser, — nun geschah etwas, das
 noch unerklärlicher schien als alles Vorausgegangene.
 
-Und — — in dieses Fläschchen tat sie rot etwas
+Und — — in dieses Fläschchen tat sie noch etwas
 anderes.
 
 Band Fläschchen und einen kleinen Stein mit dünnem
@@ -859,21 +857,21 @@ Wir blieben …
 
 Warteten … warteten.
 
-Bis Harald flüsterte: »Es war ein Stückchen PhoS8phor,
-das sie in das Fläschchen tat … Ich sah’s leicht leuchten
+Bis Harald flüsterte: »Es war ein Stückchen Phosphor,
+das sie in das Fläschchen tat … Ich sah’s leicht leuchten.«
 
 <@pagebreak/>
 Dann kroch er zu der Stelle hin, wo der Bindfaden verborgen
 war.
 
-Zog »in hoch.
+Zog ihn hoch.
 
 Zog …
 
 Und — — das Ende, wo Stein und Fläschchen festgebunden
 gewesen, war … leer …!!
 
-Ich hatte mich neben »Harald geschoben.
+Ich hatte mich neben Harald geschoben.
 
 Ich war unendlich verblüfft, als er mir das leere Ende
 zeigte.
@@ -883,7 +881,7 @@ leise.
 
 Und — Harald lacht lautlos in sich hinein.
 
-»Abgefallen?!! Lieber Alter, — die hat ein Hai verschluckt!!«
+»Abgefallen?! Lieber Alter, — die hat ein Hai verschluckt!!«
 
 Er warf den Bindfaden wieder ins Wasser.
 
@@ -891,9 +889,9 @@ Sagte: »Gehen wir!«
 
 Und — da hatte er *mich* belogen!
 
-Ich kann jetzt schon verraten, aß der Bindfaden doch
-nicht »ohne Anhang« gewesen! Freilich =. Stein und
-Flaschen waren nicht mehr an der Schnur befestigt, als
+Ich kann jetzt schon verraten, daß der Bindfaden doch
+nicht »ohne Anhang« gewesen! Freilich — Stein und
+Fläschchen waren nicht mehr an der Schnur befestigt, als
 Harst sie einzog.
 
 Aber — etwas anderes fand Harald daran, und *das*
@@ -906,24 +904,24 @@ nachdem die Praxis erledigt war. — —
 Ich möchte mir an dieser Stelle einige Bemerkungen erlauben.
 — Zunächst was den Haupttitel dieses Probleme
 »Piratendorf« betrifft. Ich habe ihn eigentlich gestohlen,
-denn unter dieser Überschrift brachten englische und« amerikanische
+denn unter dieser Überschrift brachten englische und amerikanische
 Zeitungen Ende September 1923 ganz eingehende
 Schilderungen dieser seltsamen Freibeutergeschichte, während
-die deutsche Presse, die ja überhaupt wenig Gefecht hat,
-ihren Lesern sensationellen Stoff in sensationeller Auf-mniachung
+die deutsche Presse, die ja überhaupt wenig Geschick hat,
+ihren Lesern sensationellen Stoff in sensationeller Aufmachung
 zu bieten, sich mit nüchternen Notizen begnügte.
 
 Der Titel klingt sehr nach … Jugenderzählung. Und
 <@pagebreak/>
 doch ist dieses unser Abenteuer ein Kriminalfall von so
-krausen Buntheit, von so merkwürdigen Einzelheiten, daß
+krauser Buntheit, von so merkwürdigen Einzelheiten, daß
 man vielleicht richtiger
 
 > Detektivinstitut Lomarlay
 
 als Titel gewählt hätte.
 
-Da ich nun einmal schon vom Thema etwas abgewaschen
+Da ich nun einmal schon vom Thema etwas abgewichen
 bin, möchte ich hier auch gleich noch etwas anderes
 erledigen.
 
@@ -936,27 +934,27 @@ ihre Schreiben nicht sofort eine Erwiderung finden. Eine
 Antwort kommt bestimmt! Damit mag sich jeder zunächst
 trösten. Und wer gern eine Photographie von Harst und
 Schraut mit eigenhändigen Unterschriften besitzen möchte,
-der sende an den Verlag eine März und sechzig Pfennig durch
+der sende an den Verlag eine Mark und sechzig Pfennig durch
 Postanweisung ein. Das Doppelbild von uns wird jedem
 Freude machen.
 
 — Also — die Theorie begann.
 
 Sie begann damit, daß Harald, trotz der Morgenstunde
-eine Zigarette rauchend, aus den seinen graublauen Wölkchen
+eine Zigarette rauchend, aus den feinen graublauen Wölkchen
 heraus zu mir sagte:
 
 »Nun, mein Alter, was hältst Du von alledem?«
 
-Ich war auf eine solle Anzapfung vorbereitet. Ich
+Ich war auf eine solche Anzapfung vorbereitet. Ich
 erwiderte:
 
 »Judith Longfellow ist die Komplizin einer Verbrecherbande,
-die hier die Tresors der Orkalla ausräumen will
+die hier die Tresore der Orkalla ausräumen will
 und zu der auch Sindra Mar gehört.«
 
 »Gut, einverstanden. Allerdings beginnst Du mit dem
-Selbstverständlichen und daher Nebensächlihen. Wichtiger ist
+Selbstverständlichen und daher Nebensächlichen. Wichtiger ist
 die Frage: wann wird dieser Raub unternommen werden,
 und was hat es mit Sindra Mar’s rätselhaftem Verschwinden
 im Wasser auf sich?!«
@@ -965,8 +963,8 @@ Ich lächelte.
 
 <@pagebreak/>
 »Zuerst erschien mir Judiths Wettervoraussage — nach
-drei »Tagen Prachtwetter! — sehr harmlos. Nun bin ich
-überzeugt, daß dieses »Prachtwetter« bedeutet, daß -Judith
+drei Tagen Prachtwetter! — sehr harmlos. Nun bin ich
+überzeugt, daß dieses »Prachtwetter« bedeutet, daß Judith
 ausspioniert hat, wann in den Tresors wieder größere
 Mengen von Steinen vorhanden sind, und dies ist nach drei
 Tagen der Fall. Also dürfte der Raub dann versucht werden.«
@@ -979,13 +977,13 @@ vorsichtig mit »Ausflug« bezeichnete.«
 »Freilich.«
 
 »Über Sindra Mar vermag ich nichts zu sagen. Ob er
-den Schofför des Anwalts ermordet hat, erscheint mir frag-lich9.
+den Schofför des Anwalts ermordet hat, erscheint mir fraglich.
 Sein seltsames Verschwinden von der Klippe, ebenso
-daß von uns beobachtete spurlose Verschwinden an der
+das von uns beobachtete spurlose Verschwinden an der
 Bucht ist mir genau so unerklärlich wie die Botschaft des
-PhoS3phor-Fläschchens.«
+Phosphor-Fläschchens.«
 
-»Auch hiermit bin ich einverstanden,« milde Harald
+»Auch hiermit bin ich einverstanden,« nickte Harald
 sinnend. »Jedenfalls ein Problem, das den Vorzug hat,
 recht merkwürdige einleitende Vorgänge zu bieten. — Und
 — was tun wir nun?«
@@ -998,29 +996,29 @@ recht merkwürdige einleitende Vorgänge zu bieten. — Und
 Vornamen heißt, und den geheimnisvollen Sindra Mar.«
 
 »So?! Sindra Mar?! Mein lieber Alter, Sindra Mar
-ist durch die Botschaft des Phosyhorfläschhen3 gewarnt
-worden. Er wird sich nicht Sicht sehen lassen.«
+ist durch die Botschaft des Phosphorfläschchens gewarnt
+worden. Er wird sich nicht mehr sehen lassen.«
 
-Ah — Du magst recht haben!« Wir war das so im
+»Ah — Du magst recht haben!« Mir war das so im
 ersten Augenblick entfallen. Im selben Moment schon kam
 die ruhigere Prüfung der Harstschen Worte. Ich fragte:
 
-»Gewarnt?! Wie denkst »Du Dir das?! Gewiß, das
+»Gewarnt?! Wie denkst Du Dir das?! Gewiß, das
 Fläschchen enthielt auch einen Zettel und ist von der Schnur
-*unter Wasser* lahmt dem Steine entfernt worden. Wie -
-soll Sindra Bar das getan haben?! Unter Wasser?! —
-Gx müßte denn gerade im Taucheranzug auf dem Grunde -
-ir Bucht 1mberspaziert seit!«
+*unter Wasser* samt dem Steine entfernt worden. Wie
+soll Sindra Mar das getan haben?! Unter Wasser?! —
+Er müßte denn gerade im Taucheranzug auf dem Grunde
+der Bucht umherspaziert sein!«
 
 <@pagebreak/>
 
-»Und wäre tags nicht möglich? 1«
+»Und wäre tags nicht möglich?!«
 
 Ich wurde aufmerksam.
 
 »Hältst Du das wirklich für … wahrscheinlich?«
 
-»3a. Jedenfalls müssen Menschen oder doch *ein*
+»Ja. Jedenfalls müssen Menschen oder doch *ein*
 Mensch unten auf dem Buchtgrunde gewesen sein.«
 
 Er beugte sich vor.
@@ -1032,11 +1030,11 @@ Und — in dieser geöffneten Hand lag ein … Blechbüchschen
 von etwa fünf Zentimeter Länge, an das am
 einen Ende eine Metallöse angelötet war.
 
-In dieser Orte hing noch ein feuchtes Stückchen Bindfaden!
+In dieser Öse hing noch ein feuchtes Stückchen Bindfaden!
 —
 
 »*Das* habe ich von der Schnur abgerissen,« sagte
-Harald. »Das war anstelle des Fläschchens unter Wasser
+Harald. »*Das* war anstelle des Fläschchens unter Wasser
 festgebunden worden. Mithin … muß ein Mensch *unter
 Wasser* dies getan haben.«
 
@@ -1048,10 +1046,10 @@ zugleich.
 Harst zog den Deckel von dem Unterteil des Büchschens
 ab …
 
-Sagte wieder, stete in demselben gelassenen Tone, der
+Sagte wieder, stets in demselben gelassenen Tone, der
 seine geistige Überlegenheit und Sicherheit deutlich verriet:
 
-»Fett hat das Je ferngehalten, hat diese …
+»Fett hat das Wasser ferngehalten, hat diese …
 Briefhülle abgedichtet …«
 
 Und er zog einen zusammengerollten Zettel hervor,
@@ -1060,7 +1058,7 @@ rollte ihn auf …
 Las — englische Worte:
 
 > Die rechte Hand muß verschwinden. Der kleine
-Finger bleibe. Nichte mehr mit Karbid, sondern nur im
+Finger bleibe. Nichts mehr mit Karbid, sondern nur im
 Notfalle grüne Etekar.
 
 Das war alles.
@@ -1071,23 +1069,22 @@ und verstehen, vielleicht bis auf das … Etekar.
 Ich jedenfalls erklärte sogleich:
 
 <@pagebreak/>
-»Die rechte Hand ist kein anderer als Sindra Mar. Er.
+»Die rechte Hand ist kein anderer als Sindra Mar. Er
 kommt nicht wieder. Du hast recht gehabt, Harald. —
 Und der kleine Finger, der bleiben soll, ist natürlich Ozeana
-— Judith, die seine Kollegin. Sie soll hier bleiben, weiter
-spionieren, aber nicht mehr die Laterne benutzen, die Karbid
-Laterne.«
+— Judith, die feine Kollegin. Sie soll hier bleiben, weiter
+spionieren, aber nicht mehr die Laterne benutzen, die Karbidlaterne.«
 
 »Und … grüne Etekar?«
 
-»Am …«
+»Hm …«
 
-»Sehr einfach, sehr kindlich! es ist die Umkehrung von
+»Sehr einfach, sehr kindlich: es ist die Umkehrung von
 … Rakete!«
 
 »Ah — allerdings sehr einfach!«
 
-»Ja — und nachdem wir nun das Büch23chen nebst Inhalt
+»Ja — und nachdem wir nun das Büchschen nebst Inhalt
 besichtigt haben, werden wir es schleunigst wieder an
 Ort und Stelle bringen.«
 
@@ -1098,7 +1095,7 @@ Stunde wird es hell.«
 
 Wir beeilten uns.
 
-Zehn Minuten und wir standen unten am Buchtstrande.!
+Zehn Minuten und wir standen unten am Buchtstrande.
 
 Hatten uns mit größter Vorsicht genähert, waren die
 letzte Strecke gekrochen, hatten den Sturm gekostet, hatten
@@ -1107,7 +1104,7 @@ die Musik des Orkans genossen.
 Lagen nun unter Wind dicht am Wasser auf hartem
 Fels.
 
-Nichte Verdächtiges ringsum.
+Nichts Verdächtiges ringsum.
 
 Der Mond war verschwunden, die Dunkelheit noch
 drückender.
@@ -1128,7 +1125,7 @@ Zog sie empor.
 Eng nebeneinander lagen wir.
 
 <@pagebreak/>
-Und Harst knotete die Schnur in die Orte des Büchs—hens,
+Und Harst knotete die Schnur in die Öse des Büchschens,
 bewegte die Hände.
 
 »Fertig!« sagte er leise.
@@ -1144,7 +1141,8 @@ Tauchten mich hinein.
 
 Ich hielt den Atem an.
 
-Ich fühlte, daß andere Fäuste mich tiefer und tefer-zogen.
+Ich fühlte, daß andere Fäuste mich tiefer und tiefer
+zogen.
 
 Langsam … stetig.
 
@@ -1154,12 +1152,12 @@ Das Blut brauste mir in den Ohren.
 
 Die Todesangst ließ nach.
 
-Jenes wunderbare Gefühl, das alle Erträikeben kurz
+Jenes wunderbare Gefühl, das alle Ertrinkenden kurz
 vor dem Schwinden des Bewußtseins durchmachen, überkam
 auch mich.
 
-Ich glaubte emporzuschweben anstatt zu sinken … Aß
-war aller Erdenschwere los und ledig. Ich dachte mit lebten
+Ich glaubte emporzuschweben anstatt zu sinken … Ich
+war aller Erdenschwere los und ledig. Ich dachte mit letzten
 klaren Gedanken an Harald.
 
 Und — wurde ohnmächtig … starb …
@@ -1177,10 +1175,10 @@ Nein — ich lebte … erwachte …
 Erwachte in einer engen Schiffskabine auf schmalem
 Bett.
 
-Erwählte allmählich, richtete mich auf.
+Erwachte allmählich, richtete mich auf.
 
 An der Decke brannte eine elektrische Lampe, beschien
-auf dem anderen Bett das liebe alte vertraute Gesicht Armee
+auf dem anderen Bett das liebe alte vertraute Gesicht meines
 Harald.
 
 <@pagebreak/>
@@ -1215,8 +1213,8 @@ So war’s … so!! —
 Und eine Stunde später erhob sich Harald. Tat noch
 sehr erschöpft.
 
-Sprach zu mir — über diesen Überfall, meinte, - wir
-seien »bestimmt auf einer Motorjacht.
+Sprach zu mir — über diesen Überfall, meinte, wir
+seien bestimmt auf einer Motorjacht.
 
 Ja — auch ich roch jetzt so etwas wie Benzinduft.
 
@@ -1225,7 +1223,7 @@ dort aufgestellten kalten Speisen und Getränken.
 
 Und Harald sagte, indem er seine Uhr zog:
 
-»Sie ist nicht stehengeblieben. Es ist … elf Uhr volle
+»Sie ist nicht stehengeblieben. Es ist … elf Uhr vormittags!
 Wir sind also doch viele Stunden bewußtlos gewesen.
 
 Wir spürten Hunger.
@@ -1235,15 +1233,15 @@ Aßen langsam, bedächtig.
 Tranken kalten Tee dazu.
 
 Und ahnten nicht, das wir zugleich mit dem Tee den
-Sthlaftrunk nahmen.
+Schlaftrunk nahmen.
 
 Wurden müde.
 
 Harald schaute mich vielsagend an.
 
 <@pagebreak/>
-»Man wird uns ausbooten, mein Alter. Spuckt Du,
-wie der Tee wirkt?!« -
+»Man wird uns ausbooten, mein Alter. Spürst Du,
+wie der Tee wirkt?!«
 
 »ausbooten?«
 
@@ -1265,17 +1263,17 @@ Schlief ein.
 
 Schlief.
 
-Bis Seevösgelgekreisch als erste Wahrnehmung der
+Bis Seevögelgekreisch als erste Wahrnehmung der
 Außenwelt an mein Ohr drang.
 
-Ne Haralds Stimme sich in die gellenden Vogelschreie
+Bis Haralds Stimme sich in die gellenden Vogelschreie
 mischte.
 
 »Habe ich’s nicht vorausgesagt, lieber Alter? Wir sind
 … ausgebootet worden … Wir sind … Robinsone …
 Robinsone! Ich war bereits auf dem höchsten Punkt des
-Inselchens. Rundum kein Land zu Sirenen … Und die
-Aus sinkt … Es wird Abend … Wir haben viel erlebt.«
+Inselchens. Rundum kein Land zu erblicken … Und die
+Sonne sinkt … Es wird Abend … Wir haben viel erlebt.«
 
 Da schüttelte ich auch den Rest der halben Betäubung
 von mir ab
@@ -1284,10 +1282,10 @@ Da ermannte ich mich … Und Harald half mir.
 
 Ich saß im Sande … Ringsum Gebüsch. Geradeaus
 der Strand, das Meer … Und der rote Feuerball des
-Tageögestirn3 dicht über der Horizontlinie.
+Tagesgestirns dicht über der Horizontlinie.
 
 Auf den langen schäumenden Wogen der wunderbare
-Abglanz der scheidenden Sonne, ein Farbenspiel, so be-zaubernd,
+Abglanz der scheidenden Sonne, ein Farbenspiel, so bezaubernd,
 daß ich hingerissen, verträumt flüsterte:
 
 »Das Meer — — das Meer!«
@@ -1298,7 +1296,7 @@ hat uns ausgesetzt. Man wollte uns nicht direkt ermorden.
 <@pagebreak/>
 Man wird hoffen, daß wir hier verhungern. — Wir haben
 in der verflossenen Nacht einen schweren Fehler begangen.
-Wir hätten das Büchö8chen niemals von der Schnur losreißen
+Wir hätten das Büchschen niemals von der Schnur losreißen
 und nachher wieder befestigen sollen.«
 
 Ich war nun wieder leidlich bei Kräften, sagte halb
@@ -1316,12 +1314,12 @@ als mir plötzlich bewußt wurde, daß ich brennenden
 Durst hatte.
 
 Mein Gesicht verriet mein jähes Erschrecken, und der
-As neben mir fügte in seiner herzlichen Art auch schon
+Freund neben mir fügte in seiner herzlichen Art auch schon
 hinzu:
 
 »Wir werden nochmals suchen. Hier der Weststrand ist
 sandig und ohne viel Vegetation. Die andere Hälfte der
-Er Er besitzt reichen Baumwuchs und undurchdringliche
+Insel dagegen besitzt reichen Baumwuchs und undurchdringliche
 Dickichte.«
 
 Er half mir empor.
@@ -1329,8 +1327,8 @@ Er half mir empor.
 Nach den ersten Schritten schon fühlte ich mich noch freier
 und beweglicher.
 
-Wir erklommen die eine Däne, einen flachen Berg, von
-dessen Spie man das Eiland bequem überschauen konnte.
+Wir erklommen die eine Düne, einen flachen Berg, von
+dessen Spitze man das Eiland bequem überschauen konnte.
 
 Es war fast kreisrund und mochte einen Durchmesser
 von einer halben Meile haben.
@@ -1340,19 +1338,19 @@ beeilen, wenn wir von der Dunkelheit nicht überrascht
 werden wollten.
 
 Unterwegs nach dem waldigen Oststrande öffnete Harald
-ein paar Möweneier. Wir schlürften fader sechs mit einigem
+ein paar Möweneier. Wir schlürften jeder sechs mit einigem
 Widerwillen aus, wollten eben bei Kräften bleiben.
 
 Die Bäume reichten zum Teil bis an den Strand heran.
-Es waren mächtige tropische Stämme darunter, Welch’:
+Es waren mächtige tropische Stämme darunter, deren
 <@pagebreak/>
 Wurzelwerk vielfach unterwaschen war, so daß zwischen den
-schenkeldicken Wurzeläste dunkle Löcher in der rotbraunen
+schenkeldicken Wurzelästen dunkle Löcher in der rotbraunen
 Tonerde gähnten.
 
 Gerade als wir eine kleine Landzunge umschritten hatten,
 stießen wir abermals auf eine solche Gruppe tropischer Urwaldriesen,
-aus deren Wurzelstöken die Hockins das Erdreich
+aus deren Wurzelstöcken die Hochflut das Erdreich
 herausgerissen hatte.
 
 Hier machte Harald plötzlich halt.
@@ -1385,27 +1383,27 @@ vier Leute einen schweren Ast hinter sich herzogen und so
 ihre Spuren verwischten … Da, der Strich geht bis ans
 Wasser, und dort liegt auch der Ast, den man als Harke
 gleichsam benutzt hat. Nach links hin aber« — und er wandte
-sich um — »endet der Strich, wie man bei scharfem Hinabließen
+sich um — »endet der Strich, wie man bei scharfem Hinblicken
 erkennt, vor einem der Wurzelstöcke des Baumriesen.
 — Folge mir.«
 
 Ich tat es.
 
-Bei tat es rascher klopfenden Herzens, denn
-Überzeugt, daß wir vor einer wichtigen Entdeckung
+Ich tat es rascher klopfenden Herzens, denn ich war
+Überzeugt, daß wir vor einer wichtigen Entdeckung standen.<@refnote 2/>
 
 <@pagebreak/>
 Wir hatten nun die unterspülte Wurzelmasse dicht vor
 uns. Seetang und lange, braune Meerespflanzen waren
 auch hier wie Bärte an den Wurzelästen hängen geblieben
-und bildeten Vorhänge, die den Einblick in das Wurzel-gewirr
+und bildeten Vorhänge, die den Einblick in das Wurzelgewirr
 verwehrten.
 
 Und — ausgerechnet hier endete der Harkenstrich!!
 
 Harald lachte plötzlich leise auf.
 
-»Ein Geheimni31!«
+»Ein Geheimnis!!«
 
 Er schob den Seepflanzenvorhang beiseite …
 
@@ -1436,7 +1434,7 @@ Raum, ein Bild, daß wir beide wie gebannt stehen blieben.
 
 Man denke: Hier in dieser Inselwildnis, hier in diesem
 aus roh behauenen Stämmen hergestellten Hause, dessen
-Dach mit Weiblich benagelt war, die Innenwände mit
+Dach mit Wellblech benagelt war, die Innenwände mit
 gelber Seide bespannt, ebenso die Decke.
 
 Der Fußboden mit den kostbarsten Teppichen belegt …
@@ -1445,17 +1443,17 @@ dazu ganz moderne Salonmöbel, mit Goldbrokat bezogen,
 Gemälde, Vasen, Bronzen und anderes.
 
 War’s da ein Wunder, daß wir vor Staunen in diesen
-prachtvollen Salon wie gebannt bineinstarrten?!
+prachtvollen Salon wie gebannt hineinstarrten?!
 
 <@pagebreak/>
-War’s da wunderbar, daß selbst Harald flüsterte! »He«
+War’s da wunderbar, daß selbst Harald flüsterte: »Bei
 Gott, das habe ich nicht zu finden vermutet!!«
 
 Eine flüchtige Erinnerung kam mir da — eine noch ganz
 frische Erinnerung an Lahore, die alte indische Stadt, die
 da im Norden auf den Trümmern der ehemaligen Residenz
 der Mogulkaiser aufgebaut ist — an das Rätsel der Bienen,
-wie ich den zweiten Teil von »Tawa Burru, der Verrückte«
+wie ich den zweiten Teil von »Tawa Barru, der Verrückte«
 benannt habe.
 
 Auch da spielte ein kostbar ausgestattetes Gemach eine
@@ -1477,17 +1475,17 @@ einer Art Marineuniform.
 
 Das Gesicht dieses Mannes wirkte fast abstoßend, da in
 den großen Augen dieses schlanken Menschen ein Ausschnitt
-Den eiserner Strenge gepaart mit hohnvoller Grausamkeit
-Kg.
+von eiserner Strenge gepaart mit hohnvoller Grausamkeit
+lag.
 
 Harald nahm die Bilder aus dem Rahmen. Aber auf
 der Rückseite war der Stempel des Photographen sorgfältig
 wegradiert.
 
-Wir durchsuchten den Raum. Die Gemälde, zumeist Seestücks,
-Barons, die Harald schließlich Aufschluß über die Erbauer
+Wir durchsuchten den Raum. Die Gemälde, zumeist Seestücke,
+warens, die Harald schließlich Aufschluß über die Erbauer
 dieses Schlupfwinkels gaben, denn — an den meisten
-Gemälden klebten hinten Papierschichten mit den Namen
+Gemälden klebten hinten Papierschildchen mit den Namen
 von … Schiffen, und diese Schildchen hatten alle etwa
 folgenden Aufdruck:
 
@@ -1500,10 +1498,10 @@ folgenden Aufdruck:
 > Nr. 128.
 
 <@pagebreak/>
-»Piraten — Seeräuber,« erklärte Harald. »Zusammen-geraubtes
+»Piraten — Seeräuber,« erklärte Harald. »Zusammengeraubtes
 Gut von Dampfern, die im Stillen Ozean verschollen
-sind. -“- Da: Dampfer Osiris, — da: Dreimaster
-King3town — und so weiter! — Nun weiß ich’s, mein
+sind. — Da: Dampfer Osiris, — da: Dreimaster
+Kingstown — und so weiter! — Nun weiß ich’s, mein
 Alter: Sindra Mar und Judith-Ozeana sind Mitglieder
 einer Piratenbande, die die Tresore der Orkalla-Minen ausplündern
 will und auch ausplündern wird. Denn wir
@@ -1514,8 +1512,8 @@ Seine Augen sprühten auf, sprachen eine ernste Drohung
 aus, — —
 
 Zehn Minuten später hatten wir in dem Stalle neben
-der Blockhütte eines jener kleinen, zerlegbaren Aluminium-boote
-gefunden, wie sie von Forschung3expeditionen zumeist
+der Blockhütte eines jener kleinen, zerlegbaren Aluminiumboote
+gefunden, wie sie von Forschungsexpeditionen zumeist
 benutzt werden.
 
 Und neben dem Stalle fanden wir auch einen artesischen
@@ -1529,11 +1527,11 @@ der Küste Vorderindiens zu.
 
 Hiermit schließe ich den ersten Teil.
 
-Hiermit: wir landeten unweit der Hafenstadt aufkam,
+Hiermit: wir landeten unweit der Hafenstadt Quilam,
 erfuhren hier, daß eine Verbrecherbande einen ungeheuren
 Diamantenraub in Orkalla verübt hatte.
 
-Und — reisten mit der Bahn von aufkam nach Orkalla?!
+Und — reisten mit der Bahn von Quilam nach Orkalla!!
 
 So — — begann unser Kampf gegen das Piratendorf.
 
@@ -1609,14 +1607,14 @@ Tompsen faßte sich schnell.
 Erwiderte, ohne den Kopf zu drehen:
 
 »Gott sei Dank, Mr. Harst! — Wissen Sie schon, was.
-hier geschehen? 1«
+hier geschehen?!«
 
 »Ob ich’s weiß! — Nun sollen Sie mir aber noch ein
 paar Fragen beantworten, denn der Wirt unten in Orkalla
 in der Hafenschenke konnte uns armseligen indischen Kulis
 nur mäßigen Aufschluß geben. — Zunächst: Wann traf Mr.
-Lomarlays Depesche ein, in der er als Inhaber des Bete?-
-tivinstituts den Fall übernehmen wollte?«
+Lomarlays Depesche ein, in der er als Inhaber des
+Detektivinstituts den Fall übernehmen wollte?«
 
 »Gestern abend.«
 
@@ -1655,7 +1653,7 @@ müßten! — Festesten Sie das?!«
 
 »Ich könnte es, will es aber erst später I — Angehören
 Sie genau hin, Mr. Tompsen. Ich sagte schon, daß nur
-Zig, Kenntnis von unserer Rettung haben dürfen. Man
+sich, Kenntnis von unserer Rettung haben dürfen. Man
 hatte uns auf ein Inselchen der Malediven-Gruppe verschleppt.
 Sie werden Ihre Motorjacht Orkalla sofort reisefertig
 machen, werden aber zwei neue Matrosen anwerben
@@ -1723,8 +1721,8 @@ ist klar!«
 »Das ist er!« Und des Kapitäns pockennarbige Bull-voggenfrate
 verzog sich wütend.
 
-»Sie werden also sofort Kurs auf die östlichste der Malediven-
-Inseln nehmen. Es ist nur ein kleines Eiland, wahrscheinlich
+»Sie werden also sofort Kurs auf die östlichste der Malediven-Inseln
+nehmen. Es ist nur ein kleines Eiland, wahrscheinlich
 ohne Namen auf den Seekarten …«
 
 »Wenn’s sein muß!« brummte Groonar unfreundlich.
@@ -2113,7 +2111,7 @@ Geisterarme durch die Luft davongetragen.
 
 »Scheinwerfer aus!« ertönte Harsts Befehl.
 
-Der Strahlenkegel schien in die riesige Linse zurükzu-kriechen.
+Der Strahlenkegel schien in die riesige Linse zurückzukriechen.
 
 Nach dem grellen Licht waren die Augen derart geblendet,
 daß es einige Minuten bedurfte, bevor sie wieder
@@ -2241,7 +2239,7 @@ Ihre Stimme klang klar in die stille Nacht:
 Ein Hohnlachen.
 
 <@pagebreak/>
-Und — — ein Feuerstrahl aus Judith Longfellows vor—gestreckter
+Und — — ein Feuerstrahl aus Judith Longfellows vorgestreckter
 Hand.
 
 Sindra Mar taumelte, schlug in den Sand.
@@ -2465,13 +2463,13 @@ Harald blieb hartnäckig.
 
 »Ozeana,« begann er von neuem, »jeder Mensch lebt
 sein eigenes Leben! E53 gibt Verhältnisse, in denen Kindesliebe
-oder doch Kindes3rücdsicht schwinden muß! Wie oft
+oder doch Kindesrücksicht schwinden muß! Wie oft
 haben Väter, Mütter ihre Kinder verflucht, weil diese in
 der Liebe ihren eigenen Zog gingen, weil sie Ehen schlossen,
 die dem elterlichen Ehrgeiz nicht genehm waren. Kindes«-
 liebe, Elternliebe ist ja soundso oft nichts anderes als eine
 althergebrachte Interessengemeinschaft. Schreibtischphilo-sopbei
-erheben diese Liebe in den Himmel, Lebenskennor
+erheben diese Liebe in den Himmel, Lebenskenner
 wissen, daß diese … Interessengemeinschaft oft Kleinigkeiten
 wegen in die Brüche geht … Innerlich haben Sie sich
 doch längst von Ihrem Vater losgesagt.« -
@@ -2567,7 +2565,7 @@ Zog den großen, vielfach gefalteten Bogen heraus.
 
 Sagte nur:
 
-»Es ist Ozeana Lomarlays Lebensgeschichte», und steckte
+»Es ist Ozeana Lomarlays Lebensgeschichte«, und steckte
 den Brief zu sich. —
 
 Singhalesen begruben die beiden Toten.
@@ -2679,7 +2677,7 @@ meine Schöpfung ist!
 
 Dort habe ich meine Siege gefeiert, dort habe ich
 den Auswurf der Menschheit angesiedelt, habe all diese
-»Mörder, Verbrecher, Mörderinnen, Dirnen, Betrüge-rinnen
+»Mörder, Verbrecher, Mörderinnen, Dirnen, Betrügerinnen
 noch mehr … sinken lassen.
 
 Eine Pesthöhle der Verworfenheit ist mein Dorf!
@@ -2732,7 +2730,7 @@ Arme.
 As der folgenden Nacht gegen ein Uhr morgens …
 
 Eine regnerische, bürge Nacht. — Die Orkalla liegt
-dem Klippengüriel der Insel Havaratti, die zu den
+dem Klippengürtel der Insel Havaratti, die zu den
 Lakkediven gehört, vor Anker.
 
 Ist soeben erst mühsam, vorsichtig mit Hilfe eines Bootes
@@ -2851,7 +2849,7 @@ Das Pestnest drüben zeigt sich deutlicher.
 
 <@pagebreak/>
 Und — am Ufer an einer Holzbrücke liegt das Piratenschiff,
-das einstige Krieg3boot, das U-Boot. —
+das einstige Kriegsboot, das U-Boot. —
 
 Lomarlay schläft stete an Bord.
 
