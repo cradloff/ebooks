@@ -54,7 +54,7 @@ Ein Inder — ein Bettler.
 Armselig der Anzug, zerrissen, fast nur Fetzen, dazu
 ein ebenso zerdrückter Turban und … ein struppiger Vollbart.
 
-Der Mann wir mir fremd.
+Der Mann war mir fremd.
 
 Was ich in der letzten Woche in Lahore von Eingeborenen
 im Straßengetriebe beachtet hatte — und es gab
@@ -337,7 +337,7 @@ nahm nun Harald das Wort. »In passender Verkleidung
 forschte ich den Vorsteher des Rasthauses aus und erfuhr von
 ihm auch Einzelheiten über die Freigebigkeit der Damen
 Tawa Barru gegenüber, der sich … sonst sehr selten in
-Sardpani sehen ließ, lieber Godwin sehr selten! Ausgerechnet
+Sardpani sehen ließ, lieber Godwin, sehr selten! Ausgerechnet
 <@pagebreak/>
 nur seit dem Eintreffen der Palamoors hockte er am
 Wege vor dem Rasthaus und bettelte. Jedenfalls habe ich
@@ -411,7 +411,7 @@ fanden wir bei Leutnant Percy Sinclair Unterkunft.
 Sinclair war ein Sonderling trotz seiner erst zweiundzwanzig
 Jahre. Er wohnte einsam und abgelegen in
 einem Wellblechhäuschen inmitten eines alten Gartens, dessen
-Sonne kaum einen Sonnenstrahl durchließen.
+Bäume kaum einen Sonnenstrahl durchließen.
 
 Percy Sinclair war übrigens eine Bekanntschaft jüngeren
 Datums. Wir hatten ihn bei der großen Tigerjagd
@@ -466,7 +466,7 @@ Unendlicher Spott klang durch diese Worte.
 Dann deckte uns das Häuschen gegen Sicht, und durch
 die schmutzigen Scheiben sahen wir in dem einzigen Raume
 der Lehmhütte neben dem Herde auf zwei Schemeln die
-Witwe Husseins und … den Verrückter sitzen.
+Witwe Husseins und … den Verrückten sitzen.
 
 Tawa Barru freilich hatte sein Äußeres jetzt verwandelt.
 
@@ -517,7 +517,7 @@ es damals der Verrückte auf der Lichtung gewesen.
 
 Ein Kerl, der blitzschnell zuschlug.
 
-Ebenso blitzschnell den bewußtlos. Umsinkenden auffing.
+Ebenso blitzschnell den bewußtlos Umsinkenden auffing.
 
 In den Armen davontrug.
 
@@ -908,7 +908,7 @@ Tagen gewohnt — Längere Zeit, einen Monat fast.«
 
 »Ach so! — Und …«
 
-»… und sie sind aus New Lord, sind Mutter und
+»… und sie sind aus New York, sind Mutter und
 Tochter.«
 
 »Allerdings.«
@@ -961,7 +961,7 @@ Hussein schon im Dorfe Sardpani?«
 »Weiß ich nicht, Harst. Wird sich aber leicht feststellen
 lassen.«
 
-»Nicht nötig. — Etwa ein Jahr also Tawa kurzem in
+»Nicht nötig. — Etwa ein Jahr also Tawa Barru in
 Lahore und die Witwe ebenso lange in Sardpani.«
 
 »Hm — was folgern Sie daraus?«
@@ -1470,7 +1470,7 @@ Wir waren jedoch noch keine halbe Minute hier unten,
 als wir irgendwoher Stimmen vernahmen.
 
 Harst zog mich rasch unter die Treppe, deren unteres
-Ende hohl lag:
+Ende hohl lag.
 
 Und dann blitzte an der linken Wand Lichtschimmer auf.
 

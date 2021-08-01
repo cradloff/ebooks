@@ -98,7 +98,7 @@ Veranda.
 Unterhielten uns über Indien, indische Geheimnisse.
 
 Sinclair erzählte eigene Erlebnisse als Beweis für die
-Fähigkeit indischen Fakire, im kataleptischen Schlaf als
+Fähigkeit indischer Fakire, im kataleptischen Schlaf als
 zweite Persönlichkeit an anderen Orten auftauchen zu
 können.
 
@@ -854,7 +854,7 @@ Schweiger.
 Harald lehnte im Sessel und starrte in den Garten
 hinab.
 
-Über uns schwang oder frostige Windfächer hin und her.
+Über uns schwang der riesige Windfächer hin und her.
 
 Ich wurde müde.
 
@@ -944,13 +944,13 @@ Ich setzte mich neben ihn.
 den Baum geklettert, habe die Leiter nach oben gezogen und
 habe die fleißigen Tierchen beobachtet.«
 
-Er trifft das linke Auge vielsagend zu.
+Er kniff das linke Auge vielsagend zu.
 
 »Dja — und da stellte ich einen Topf fest.«
 
 »Was — einen Topf?! Wo denn?«
 
-»In dem hohlen Baum — in dem Woche — aber so
+»In dem hohlen Baum — in dem Loche — aber so
 tief hängt der Topf, daß man ihn nur von einem bestimmten
 Ast bemerken kann.«
 
@@ -960,9 +960,9 @@ Ich wurde kratzbürstig.
 mich!«
 
 »Oh — ich war nie so ernst wie jetzt! Der Topf ist
-dort sitzt damit der in ihm enthaltene Honig die
+dort aufgehängt, damit der in ihm enthaltene Honig die
 Bienen anlockt. Bienen riechen Honig auf Hunderte von
-Metern. Mithin stiegen sie nun in Menge dem Lockmittel
+Metern. Mithin fliegen sie nun in Menge dem Lockmittel
 zu, und es macht den Eindruck, als ob das Baumloch nur
 eine Bienenwohnung enthielte, und niemand wird sich
 leicht hineinwagen.«
@@ -1389,7 +1389,7 @@ Schleier geschützt. Aber seine Hände haben etwas abbekommen.«
 
 »Die Bienenstiche?«
 
-»Ja an den Händen. — Ich hielt sie für Hitzbläschen.
+»Ja, an den Händen. — Ich hielt sie für Hitzbläschen.
 Aber jetzt weiß ich’s besser.«
 
 Ramsay blickte total verwirrt drein.
