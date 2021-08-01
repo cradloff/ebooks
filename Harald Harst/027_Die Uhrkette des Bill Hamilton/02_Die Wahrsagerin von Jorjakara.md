@@ -37,11 +37,11 @@ auf einem breiten, ein Stück in den See hinausgebauten
 Bootssteg.
 
 Der chinesische Pyrotechniker, der Feuerwerkskünstler
-Lian Schen brannte das Feuerwerk selbst ab. Ich war überrascht,
+Lian Schen, brannte das Feuerwerk selbst ab. Ich war überrascht,
 mehr noch, ich war entzückt von dem, was ich sah. Wie
 kläglich nahm sich gegenüber diesen eigenartigen Erfindungen
 Lian Schens doch eine gleiche Vorführung in der Heimat aus!
-Wie glänzend gelang der Aufstieg einer Riesenrakete die in
+Wie glänzend gelang der Aufstieg einer Riesenrakete, die in
 fünfzig Meter Höhe einen leuchtenden Schmetterling ausspie,
 der sich dann graziös auf die Seeoberfläche niederließ und
 hier als Wasserlibelle zischend und farbige Sterne auswerfend
@@ -96,7 +96,7 @@ und nicht befolgt haben. So aber rannte alles der nahen Palmenallee
 zu. Im Nu war das Ufer leer.
 
 Ich stellte mich hinter einen Stamm; ich sah den gelbleuchtenden
-Drachen heransegeln, sah wie er sich senkte — wie er
+Drachen heransegeln, sah, wie er sich senkte — wie er
 gerade auf den Brettersteg fiel.
 
 Ein furchtbarer Krach dann.
@@ -163,9 +163,9 @@ Leute ihre Rollen übernommen: Die Attentäter! — Ich wurde
 argwöhnisch, als der dritte Drache hinter uns in die Sesselreihen
 am Ufer fiel. Das sah mir doch zu sehr nach »Einschießen«
 auf ein bestimmtes Ziel aus. Deshalb auch meine
-Warnung.«
+Warnung.
 
-»Schade — ich kam zu spät.« fuhr Harst fort. »Ich lief
+Schade — ich kam zu spät,« fuhr Harst fort. »Ich lief
 sofort um den See herum nach links, sprang ins Wasser und
 schwamm dem Floße zu. Leider war ja alles in tiefste Finsternis
 gehüllt. Ich konnte nichts sehen — nichts von den Leuten,
@@ -299,7 +299,7 @@ eine Wahrsagerin, die wirklich Erstaunliches leistet.«
 interessiert.
 
 »Gewiß. Sie ist noch recht lebenslustig und macht ein großes
-Haus.« erwiederte van Diemen. »Sie sollten sie mal besuchen,
+Haus,« erwiderte van Diemen. »Sie sollten sie mal besuchen,
 Harst. Lassen Sie sich nur von ihr die Zukunft vorhersagen.
 Die Art, wie sie es tut, ist recht eigenartig.
 <@pagebreak/>
@@ -333,7 +333,8 @@ und mir dann schriftlich mitteilen, was dabei herausgekommen
 ist. Ich bin jetzt doch zu der Überzeugung gelangt,
 daß dieses in seiner Art wohl einzig dastehende Verbrechen
 sich nicht gegen meine und meines Freundes Person richtete,
-sondern vielleicht Ihnen van Diemen, oder Schliepner galt.« —
+sondern vielleicht Ihnen, van Diemen, oder Schliepner galt.« —
+
 Die beiden Chinesen wurden jetzt in einem Wagen nach
 Hause geschafft. Da im Klub keine rechte Stimmung mehr
 aufkam, was nach diesem rätselhaften Vorfall auch nicht weiter
@@ -387,9 +388,9 @@ Kleinigkeiten« sagte, die man »beachten« soll. — Die beiden
 Chinesen sind schuldlos. Das steht außer Zweifel. Man
 hat lediglich Lian Schens hübsche Feuerdrachen dazu benutzt,
 nach ihrem Muster einen Feuerdrachen herzustellen und — auf
-uns, versehen mit einer Sprengladung loszulassen. Uns
+uns, versehen mit einer Sprengladung, loszulassen. *Uns*
 galt das Attentat, uns allein! Daß dabei noch mehrere harmlose
-Leute mit in die Lust fliegen mußten, war den Anstiftern
+Leute mit in die Luft fliegen mußten, war den Anstiftern
 sehr gleichgültig. Mithin muß der Haß und die Rachsucht dieser
 Anstifter das gewöhnliche Maß derartiger verwerflicher
 Gefühle weit übersteigen. — Wer sind nun diese Menschen, die
@@ -433,11 +434,11 @@ erzählte:
 
 > — Sie soll dann die Gattin eines Brahmanen geworden
 sein, der irgend einer *besonderen Sekte* angehörte;
-dieser Inder soll wegen *verschiedener Verbrechen*
-gehängt worden sein — vor etwa *fünfzig*
+dieser Inder soll wegen *verschiedener Verbrechen
+gehängt* worden sein — vor etwa *fünfzig*
 Jahren.
 
-Na — dämmerts Dir nun?!«
+Na — dämmert’s Dir nun?!«
 
 Er hatte die hier gesperrten Wörter stark betont. Nur dadurch
 kam mir jetzt wie ein Blitz die Erleuchtung.
@@ -455,7 +456,7 @@ was Wolpoore heißt, furchtbare Rache geschworen haben. Wir
 wissen — wissen bestimmt, daß es ein Thug war, der die Jacht
 <@pagebreak/>
 India des Lords vor ein paar Wochen in die Luft sprengen
-wollte; wir waren es, die dieses *Attentat verhinderten*.
+wollte; *wir* waren es, die dieses *Attentat verhinderten*.
 Und — deshalb stehen auch wir jetzt auf der schwarzen
 Liste dieser Geheimsekte. — Haben wir also Grund, uns die
 alte Mistreß Bellingson genauer anzusehen oder nicht?«
@@ -494,7 +495,7 @@ Dich bisher nicht im Stiche gelassen und tue es auch jetzt
 nicht.«
 
 Er reichte mir die Hand. »Ich wußte, daß Du so antworten
-würdest. Also — dann zu zweien noch Jorjakara. — Dicht
+würdest. Also — dann zu zweien nach Jorjakara. — Dicht
 vor Surakarta kommt der Tunnel mit den kurzen Kurven,«
 fügte er in anderem Tone hinzu. »Dort wird die Komödie
 beginnen. Mit den Vorbereitungen fangen wir jetzt schon an.
@@ -532,8 +533,8 @@ Eine Stunde drauf waren wir im Eingeborenenviertel
 von Surakarta. Wir schlichen durch dunkle, enge Gassen,
 wichen jedem Menschen aus, bis Harst dann über einen Bambuszaun
 auf einen Hof kletterte. Wir belauschten eine Chinesenfamilie
-(in Surakarta mit seinen 105 000 Einwohnern
-gibt es einige 20 000 Zopfbrüder) beim Abendessen und — gaben
+(in Surakarta mit seinen 105&nbsp;000 Einwohnern
+gibt es einige 20&nbsp;000 Zopfbrüder) beim Abendessen und — gaben
 dann zum ersten Mal eine Gastrolle als Einbrecher, indem
 wir aus dem nach der Straße zu gelegenen Laden desselben
 Chinesen, der mit allem zu handeln schien, ums nur irgend
@@ -660,7 +661,7 @@ Gebäude nicht erleuchtet. Erwähnen will ich noch, daß die
 Parkmauer größtenteils eingestürzt und von Unkraut überwuchert
 war.
 
-Der Pavillion, dessen Schatten wir ausgesucht hatten, war
+Der Pavillon, dessen Schatten wir aufgesucht hatten, war
 von der östlichen Parkmauer etwa hundert Schritt entfernt
 und bestand nur noch aus dem steinernen Unterbau und drei
 Säulen. Das Dach und die vierte Säule waren nach der
@@ -680,7 +681,7 @@ Ich berührte Harsts Arm.
 
 »Still!« hauchte er. »Siehst Du denn nicht, das —«
 
-Des weitere verstand ich nicht. — Nun, wenn es hier etwas
+Das weitere verstand ich nicht. — Nun, wenn es hier etwas
 zu sehen gab, denn würde ich’s ja wohl auch herausfinden.
 Ich schaute mir also den verwitterten Bau sehr sorgfältig an.
 Die eine Hälfte der Vorderfront war vom Monde beschienen,
@@ -688,7 +689,7 @@ die linke; die andere war in Schatten getaucht.
 
 Ah — jetzt sah ich wirklich etwas! — Auf dem flachen
 Dache gerade vor dem Turme hing — ja — es war ein Mensch,
-ein Mann — an der Mauer, zog sich jetzt an dem geschweisten
+ein Mann — an der Mauer, zog sich jetzt an dem geschweiften
 Eisengitter eines der dunklen Turmfenster empor und verschwand,
 weil dort gerade die Schattengrenze begann.
 
@@ -807,7 +808,7 @@ Harst. »Ein dicker Freund van Diemens.«
 
 Der Arzt und Sanatoriumbesitzer schloß jetzt die Gartenpforte
 auf. Harst ging auf ihn zu, flüsterte mit ihm. Ich
-hörte wie ten Brinken leise ausrief: »Wie — Sie sind —«
+hörte, wie ten Brinken leise ausrief: »Wie — Sie sind —«
 
 Da winkte mich Harst schon herbei, stellte mich vor. Der
 Doktor reichte mir stumm die Hand und führte uns dann in
@@ -864,7 +865,7 @@ Sie ist klug, sehr klug, auch wohl das was man geistvoll
 nennt. Kommt jemand zu ihr, den sie noch nicht kennt,
 dann bestellt sie ihn nach ein oder zwei Wochen wieder zu sich.
 Inzwischen hat sie dann Material gesammelt, verblüfft nun
-durch eine besondere Art mit der sie ganz intime Einzelheiten
+durch eine besondere Art, mit der sie ganz intime Einzelheiten
 über des Betreffenden Daseinsführung vorbringt.«
 
 »Das alles habe ich mir gedacht,« sagte Harst gleichgültig.
@@ -913,7 +914,7 @@ Ten Brinken war hochgefahren, stotterte:
 
 »Ja — aber woher in aller Welt haben Sie —«
 
-Harst hatte ihm schon die Hand hingestreckt sagte schnell:
+Harst hatte ihm schon die Hand hingestreckt, sagte schnell:
 
 »Machen Sie sich keine Gewissensbisse, weil Sie mir nun
 doch etwas verraten haben, was mir wertvoll ist, obwohl es
@@ -996,7 +997,7 @@ hierher gekommen.«
 
 Im übrigen mußte ich mich gedulden. Ich hätte so gern
 <@pagebreak/>
-gewußt, was er nun eigentlich beabsichtigte. Mir schien
+gewußt, was er nun eigentlich beabsichtigte. Mir schien,
 als ob das Attentat im Union-Klub für Harald jetzt nur noch
 nebensächliche Bedeutung hätte.
 
@@ -1017,7 +1018,7 @@ in zwei Basare, alles nur, um möglichst jeden Verdacht zu vermeiden,
 wir könnten unecht sein, denn wir mußten ja mit
 dem fein arbeitenden Spionagesystem der Bellingson rechnen.
 
-Gegen ½ 1 Uhr mittags betraten wir den Park des
+Gegen ½1 Uhr mittags betraten wir den Park des
 Schlosses und setzten dann den Türklopfer am Haupteingang in
 Bewegung. Unsere Lage war kritisch. Gerade weil die Bellingson
 lediglich indische Dienerschaft hielt, konnten wir in
@@ -1057,7 +1058,7 @@ oben hingen an einem der dem Hause zugekehrten Äste Papierfetzen
 und ein paar ganz dünne Stäbe, dazu noch ein paar
 lange Bindfadenenden.
 
-Hinter uns knurrte der schwere Türflügel. Wir standen
+Hinter uns knarrte der schwere Türflügel. Wir standen
 schnell auf. Der alte Inder winkte. Wir folgten ihm in eine
 große Vorhalle, deren Rückwand die gekrümmte Mauer des
 durch die Mitte des Gebäudes hindurchgehenden Turmes bildete.
@@ -1070,7 +1071,7 @@ eine solche gerade gegenüber der Treppe vorhanden. Der alte
 Hindu pochte in besonderer Art an das Getäfel, worauf zwei
 große, zusammenhängende Quadrate der Schnitzerei sich nach
 innen auftaten. Er deutete in das sonnenhelle Gemach hinein,
-worauf wir eintraten. Der Raum glich mehr einem orientialischen
+worauf wir eintraten. Der Raum glich mehr einem orientalischen
 Museum als einem Wohngemach. Niemand befand
 sich darin. Die Tür hatte sich hinter uns lautlos geschlossen.
 Auch hier war keinerlei Eingang wahrzunehmen. Durch
@@ -1084,9 +1085,9 @@ Elfenbeinhocker. Ich folgte seinem Beispiel. Gerade
 vor mir an der Wand hingen in breiten Ebenholzrahmen unter
 Glas auf rote Pappe geheftete bunte, offenbar indische Seidentücher,
 in Kranzform geschlungen. Ich zählte: es waren
-vier von diesen merkwürdigen eingerahmten Tüchern vorhanden.
+vier von diesen merkwürdigen, eingerahmten Tüchern vorhanden.
 Aber ich sah noch mehr: unter jedem Tuche war mit
-goldenen Buchstaben, offenbar in indischen Schriftzeichen etwas
+goldenen Buchstaben, offenbar in indischen Schriftzeichen, etwas
 geschrieben.
 
 Ich blickte nach Harst hin, wollte ihn auf diesen seltsamen
@@ -1095,11 +1096,11 @@ gesenkt und hantierte an dem Schloß seines Bastkoffers herum,
 öffnete diesen jetzt, holte zwei der kostbaren Decken hervor und
 <@pagebreak/>
 breitete sie dann über einem Muschelschemel aus, wobei er
-sich ganz so benahm wie ein Händler der seine Ware möglichst
+sich ganz so benahm, wie ein Händler, der seine Ware möglichst
 gefällig zur Schau stellen will.
 
 Dann — ich prallte mit einem Satz bis an das mittelste
-Fenster zurück und Harst tat sofort ein gleiches — dann war
+Fenster zurück und Harst tat sofort ein Gleiches — dann war
 ganz lautlos von hinten neben uns ein glänzend schwarzer
 Panther aufgetaucht, dessen langer Schweif langsam hin und
 her pendelte.
@@ -1110,7 +1111,7 @@ sahen wir noch zwei weitere, ebenso prächtige Panther und —
 Mistreß Maria Bellingson in einem langen, schwarzen Seidengewand.
 
 Heute, wo kein Hut ihr schneeweißes, volles Haar bedeckte,
-wo das Tageslicht die hohe schlanke Gestalt und das vornehme,
+wo das Tageslicht die hohe, schlanke Gestalt und das vornehme,
 feinlinige Greisinnengesicht traf, gewann man sofort
 den Eindruck, hier einer Frau von ganz besonderer Veranlagung
 gegenüberzustehen. Das Hoheitsvolle, Gebieterische ihrer
@@ -1121,7 +1122,7 @@ hätte.
 
 Sie stand ganz regungslos und fixierte uns scharf mit
 ihren großen, dunklen Augen. Einmal war’s mir, als ob um
-ihren Mund etwas wie ein spöttisches überlegene Lächeln
+ihren Mund etwas wie ein spöttisches überlegenes Lächeln
 flog. Aber ich konnte mich auch getäuscht haben.
 
 Harst begann jetzt auch schon, nachdem er sich mit über der
@@ -1132,7 +1133,7 @@ sie in die richtige Beleuchtung und deutete durch Abzählen an
 den Fingern den Preis an.
 
 Maria Bellingson schüttelte den Kopf. — Dann legte
-Harst zwei ungeschliffene Edelsteine an die Hand und wiederholte
+Harst zwei ungeschliffene Edelsteine auf die Hand und wiederholte
 seine stummen Erklärungen, die jetzt auf die Frage hinausliefen,
 ob die Hausherrin Edelsteine kaufe oder zu verkaufen
 hätte.
@@ -1147,7 +1148,7 @@ wir möchten wieder ganz heil ins Freie gelangen.
 
 Nun — meine Angst war überflüssig. Plötzlich tat sich die
 unsichtbare Tür wieder auf. Der alte Inder winkte, und Harst
-packte seine Decken wieder sein. —
+packte seine Decken wieder ein. —
 
 Mistreß Bellingson hatte noch immer dieselbe Stellung
 inne. Ihre Augen ließen nicht von uns ab. Wir verbeugten
@@ -1169,7 +1170,7 @@ verlassen. Nur so hoffe ich — ich hoffe nur! —, werden wir
 diesem Weibe entgehen, die ten Brinken doch sehr — sehr unterschätzt.
 Wir beide richten gegen sie nie etwas aus. Wir müssen
 Hilfe haben: Freund Schliepner mit einem ganzen Polizeiaufgebot.
-Nur so wage ich es, gegen sie vorzugehen. — Mach
+Nur so wage ich es, gegen sie vorzugehen. — Mach’
 dazu kein so zweifelndes Gesicht. Ich meine es völlig ehrlich
 mit alledem. Vergiß nicht, daß das alte Jagdschloß das Hauptquartier
 derjenigen Leute ist, die der Familie Wolpoore ewige
@@ -1182,7 +1183,7 @@ hat, mich — uns beide wie Todfeinde zu hassen! Die Papierfetzen
 und die Stäbchen in der Konifere waren zweifellos Reste
 eines der Versuchsdrachen, die sie hergestellt hatte. Denn das
 Feuerwerk wurde ja bei dem Feste, das sie letztens veranstaltet
-hatte, im den rückwärtigen Teilen des Parkes abgebrannt,
+hatte, in den rückwärtigen Teilen des Parkes abgebrannt,
 wie Lian Schen uns mitteilte. Maria Bellingson dürfte uns
 heute als Europäer erkannt haben — vielleicht als Harst und
 <@pagebreak/>
@@ -1215,7 +1216,7 @@ in der Hand.
 
 Wir rasten davon. Der Pony ging fast durch.
 
-Dann — wie vom Blitz getroffen, überschlug er sich plötzlich,
+Dann — wie vom Blitz getroffen überschlug er sich plötzlich,
 das Wägelchen flog über das Pferd hinweg, und wir sausten
 im Bogen mitten auf die Straße.
 
@@ -1230,8 +1231,8 @@ Augen offen. Jemand reichte mir einen Becher. Ich trank.
 Es war ein süßer, schwerer Wein. Ich konnte nun auch unterscheiden,
 was um mich her vorging, wo ich mich befand.
 
-Ich saß in einem tiefen altertümlichen Armsessel; rechts
-neben mir Harst in einem geschnitzten Lehnstuhl uns gegenüber
+Ich saß in einem tiefen, altertümlichen Armsessel; rechts
+neben mir Harst in einem geschnitzten Lehnstuhl; uns gegenüber
 aber — Mistreß Maria Bellingson in einem kostbaren
 Elfenbeinsessel. Und ihr zu Füßen lagen die drei schwarzen
 Panther.
@@ -1239,7 +1240,7 @@ Panther.
 Es war dasselbe Turmgemach, in dem sie uns vorher empfangen
 hatte. Jetzt aber brannte an der Decke eine große,
 <@pagebreak/>
-blaßgrüne Lampe und vor den drei Fenstern befanden sich hölzerne
+blaßgrüne Lampe, und vor den drei Fenstern befanden sich hölzerne
 Laden.
 
 Der Wein belebte mich schnell. Meine Gedanken klärten
@@ -1276,7 +1277,7 @@ ausdrückte.
 
 Harst unterbrach sie kurz. »Vergessen Sie nicht, Mistreß,
 daß Sie es mit einem Detektiv zu tun haben. Mir genügten
-Kleinigkeiten, die ich erfuhr um auf den Gedanken zu kommen,
+Kleinigkeiten, die ich erfuhr, um auf den Gedanken zu kommen,
 jener Inder, der vor etwa drei Wochen im indischen
 Ozean mit abgehauenem Arm ertrank, müsse Ihnen nahe —
 sehr nahe gestanden haben. Sie tragen seit kurzem Trauer;
@@ -1313,7 +1314,7 @@ die goldene Schrift, die auf jedem der Pappstücke die gleiche ist:
 
 > Einer weniger! — Vergiß die Rache nicht!
 
-So lautet die Unterschrift ins Englische übertragen. —
+So lautet die Unterschrift, ins Englische übertragen. —
 Mistreß Bellingson, Sie drohen mir jetzt mit dem Tode. Sie
 sind ungerecht. In Ihrer blinden Rachgier übersehen Sie, daß
 es meine Pflicht war, Lord Edward Wolpoore, der nichts dafür
@@ -1328,9 +1329,9 @@ Ein schrilles Hohnlachen schnitt ihm das Wort ab.
 »Polizei?! Umstellt?! — Master Harst, versuchen Sie
 nicht bei mir Ihre Tricks!« rief die Greisin laut. »Ich verachte
 die Polizei! Mein Haus hier ist wie ein Fuchsbau, hat unzählige
-Gänge die irgendwo weit draußen münden. Ich habe mich
+Gänge, die irgendwo weit draußen münden. Ich habe mich
 gesichert gegen jede — jede Gefahr! — Doch — genug hiermit!
-Es ist jetzt ½ 12 nachts. Bis 1 Uhr morgens gebe ich Ihnen
+Es ist jetzt ½12 nachts. Bis 1 Uhr morgens gebe ich Ihnen
 noch Frist. Dort liegt Papier und Feder. Sie und Ihr Freund
 werden noch letztwillige Verfügungen zu treffen haben. Dies
 sei Ihnen gestattet. Aber — schreiben Sie nichts davon, wo
@@ -1346,7 +1347,7 @@ Tiere zu.«
 Sie trat an die linke Seitenwand heran, schlug einen Vorhang
 zurück. Dahinter war eine kleine eiserne Tür sichtbar.
 — Sie drehte sich nochmals um, zeigte auf zwei seidene Tücher,
-die auf einer Truhe lagen. — »So werden Sie beide sterben!«
+die auf einer Truhe lagen. — »*So* werden Sie beide sterben!«
 sagte sie wieder mit einer von Haß halb erstickten Stimme.
 »Meine Getreuen streiten sich darum, wer das heilige Amt der
 Würger an Ihnen ausüben darf!«
@@ -1360,12 +1361,12 @@ Ich wandte den Kopf nach Harst hin. Auch er drehte sich
 mir zu, meinte leise:
 
 »Ja, mein Alter, — was nun?! Hast Du Lust, Dich hier
-erdrosseln zu lassen?! — Ich nicht! Mistreß Bellingson hat
+erdrosseln zu lassen?! — *Ich* nicht! Mistreß Bellingson hat
 eins nicht beachtet: daß sie es mit *uns* zu tun hat, mit uns,
 die doch schon ganz andere Dinge erlebt haben als diese Gemeinschaft
 mit drei schwarzen Panthern! Sieh mal, dort auf
 dem Tischchen neben dem Schreibzeug liegt ein Brieföffner in
-Dolchform und wenn man sich jene Tischdecke dort um den
+Dolchform, und wenn man sich jene Tischdecke dort um den
 linken Arm wickelt, dann —«
 
 Ich hatte meine Taschen befühlt.
@@ -1391,7 +1392,7 @@ hatten, der die eiserne Tür verdeckte. —
 
 Wir saßen und lauschten. Bald wurde das feine Knirschen,
 das Harst gehört hatte, etwas lauter. Dann arbeitete ohne
-Zweifel ein Drillbohrer im Holze der Fensterladen die von innen
+Zweifel ein Drillbohrer im Holze der Fensterladen, die von innen
 vorgelegt waren.
 
 <@pagebreak/>
@@ -1407,7 +1408,7 @@ eines schwelenden Petroleumdochtes durchzog das Gemach.
 Wieder ein Geräusch vom Fenster.
 
 Einer der Panther fauchte lauter. Um uns kümmerten
-sie sich nicht, Ihre Aufmerksamkeit galt lediglich dem einen
+sie sich nicht. Ihre Aufmerksamkeit galt lediglich dem einen
 Fenster, in dessen Laden die Gauner von draußen fraglos ein
 Loch bohrten.
 
@@ -1504,7 +1505,7 @@ Die vier eingerahmten Tücher an der Wand waren verschwunden.
 
 »Es stimmt: entflohen!« sagte Harst wieder.
 
-Da — die Eisentür fiel knallend ins Schloss. Wir sprangen
+Da — die Eisentür fiel knallend ins Schloß. Wir sprangen
 zu, rüttelten daran: verschlossen!
 
 »Zum Fenster hinaus!« rief Harst.

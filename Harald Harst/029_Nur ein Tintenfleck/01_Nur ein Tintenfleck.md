@@ -69,7 +69,7 @@ Baldachin, der vor Juwelen in allen Farben schillert.
 
 Alles, was ich bisher in Indien an Anhäufungen von
 Diamanten gesehen hatte, verblaßte gänzlich gegenüber diesen
-Millionenwerten. Harst machte mich auf drei taubenei-große
+Millionenwerten. Harst machte mich auf drei taubeneigroße
 Smaragde aufmerksam, von denen jeder allein auf eine
 Million geschätzt wird.
 
@@ -97,7 +97,7 @@ hatte.
 
 Sie war noch jung, diese Dame, und fraglos eine eifrige
 Photographin. Die Buddha-Statue knipste sie von allen Seiten,
-ganz besonders von rechts, wobei sie, soweit ich zählte
+ganz besonders von rechts, wobei sie, soweit ich zählte,
 sechs Films verbrauchte. Ich hätte mir an ihrer Stelle einen
 anderen Tag für diese Aufnahmen ausgesucht, da sie ja notwendig
 den auf einer Trittleiter stehenden Kunstschlosser
@@ -274,10 +274,10 @@ wage kaum, Ihnen die Belanglosigkeit mitzuteilen, die
 mich so ein wenig beunruhigt. Darf ich ganz offen sprechen?
 — Die Sache ist wie gesagt sehr harmlos. Ich bewohne im
 Nordwesten von Bangkok ein hübsches Häuschen, das ich von
-dem englischen Genersalkonsul gekauft habe. Ich bin Junggeselle
+dem englischen Generalkonsul gekauft habe. Ich bin Junggeselle
 und leidlich wohlhabend. Meine einzige Leidenschaft
 ist das Sammeln von Briefmarken. Ich besitze ein Album,
-dessen Wert etwa 100 000 Mark beträgt. Aus Angst, daß
+dessen Wert etwa 100&nbsp;000 Mark beträgt. Aus Angst, daß
 es mir gestohlen werden könnte, habe ich mir in meinem Arbeitszimmer
 einen kleinen Stahlschrank in die Wand einmauern
 lassen. Davor hängt ein großes Bild. Niemand
@@ -394,7 +394,7 @@ Der Major tat’s. Das Löschblatt hatte genau vor dem
 Onyxschreibzeug und die Marke mitten auf dem Löschblatt
 gelegen.
 
-Das Löschblatt war ein gewöhnliches dickes weißes
+Das Löschblatt war ein gewöhnliches, dickes weißes
 Löschpapier in Quartblattgröße. Harst nahm es jetzt auf und
 besah es sich von beiden Seiten. Es war tadellos sauber und
 hatte nur in der Mitte eine gewölbte Stelle. Hier hatte offenbar
@@ -434,11 +434,11 @@ Das war alles, was ich feststellen konnte. Ich legte
 Marke, Pinzette und Vergrößerungsglas auf das Löschblatt
 und stand auf.
 
-Harst und der Major sprachen jetzt über die Markensammlung
+Harst und der Major sprachen jetzt über die Markensammlung,
 die Trimal aus dem Wandfach herausgenommen
 und auf den Mitteltisch gelegt hatte. Es waren drei dicke
 Bücher, gebunden in bräunliches Leder. Harst blätterte darin
-und bewies durch feine Bemerkungen über einzelne Marken,
+und bewies durch seine Bemerkungen über einzelne Marken,
 daß er von diesen weit mehr verstand als Trimal.
 
 Dann schloß der Major die Bände wieder weg und fragte,
@@ -448,7 +448,7 @@ zu besichtigen wünsche.
 »Danke,« erklärte Harst darauf. »Ich bin bereits zu einer
 ganz bestimmten Ansicht gelangt. Sie können überzeugt
 sein, Monsieur Trimal, daß der lila Tintenfleck aus einem
-Federhalter ohne Wissen des Eigentümers des Halters
+Füllfederhalter ohne Wissen des Eigentümers des Halters
 auf die Marke herabgetropft ist, als der Betreffende
 hier vor Ihrem Schreibtisch aufrecht dastand und sich irgend
 welche Notizen in sein Taschenbuch machte. Es ist also jemand
@@ -475,7 +475,7 @@ der lila Tropfen herabgefallen sein. Aber dessen Besitzer muß
 ein mir fremder Mensch sein.«
 
 <@pagebreak/>
-»Selbst den werden wir finden.« sagte Harst gelassen.
+»Selbst den werden wir finden,« sagte Harst gelassen.
 »Wenn wir in Bangkok in den einschlägigen Geschäften nachfragen,
 wer regelmäßig lila Tinte kauft, dann wird der
 Kreis der in Betracht kommenden Personen sich schon wesentlich
@@ -485,7 +485,7 @@ Ein chinesischer Diener trat mit einem Teebrett ein und
 stellte eisgekühlte Getränke und mehrere Kisten Zigarren
 auf den Tisch. Das ganze Königreich Siam ist ja von Chinesen
 überschwemmt. In Bangkok allein gibt es bei etwa
-400 000 Einwohnern über 150 000 Chinesen.
+400&nbsp;000 Einwohnern über 150&nbsp;000 Chinesen.
 
 Als der Diener wieder draußen war, erklärte Harst weiter:
 »Ich gebe Ihnen den Rat, die nächsten Nächte hier zu
@@ -508,7 +508,7 @@ seien.
 
 Trimal entschuldigte sich und eilte in den Stall. Als
 wir nun allein waren, sprach Harst mit allem Eifer weiter
-über Zuluspeere maleiische Dolche, tibetanische Doppelgriffschwerter
+über Zuluspeere malaiische Dolche, tibetanische Doppelgriffschwerter
 und ähnliche charakteristische Waffen. Ich hatte
 dabei das deutliche Gefühl, daß hinter diesem mit so merkwürdigem
 Eifer behandelten Thema eine bestimmte Absicht
@@ -584,7 +584,7 @@ Mißtrauen nicht vermutet hatte.
 
 Die Rikscha vor mir verschwand plötzlich — war wie
 weggewischt. Nur der Rikschakuli rannte weiter. Und jetzt
-jetzt ward auch ich das Opfer derselben Teufelei. Mein Rikschakuli
+ward auch ich das Opfer derselben Teufelei. Mein Rikschakuli
 ließ plötzlich die Scherendeichsel los, tat einen langen
 Satz nach vorwärts. Die Rikscha aber und ich mit ihr sauste
 durch ein Loch in dem Bretterbelag abwärts. Der Sturz war
@@ -771,7 +771,7 @@ wenn Ihr uns schon frühmorgens freilaßt.«
 »Hundert Pfund mehr!« sagte Harst schnell.
 
 »Nein, gib Dir keine Mühe! Schlaft und seid froh, daß
-wir so milde mit Euch verfahren. Wer seid Ihr eigentlich?«
+wir so milde mit Euch verfahren. — Wer seid Ihr eigentlich?«
 
 »Deutsche Vergnügungsreisende.«
 
@@ -787,7 +787,7 @@ Deutsche, das bleibt sich gleich. Streckt Euch jetzt nur auf
 dem Maisstroh aus. Ich will Euch nur noch darauf hinweisen,
 daß Ihr aus diesem Verschlag gar nicht herauskönnt.
 Er hat nur den einen Zugang von oben. Also denkt ja nicht
-an Flucht. Du hast so auch geschworen. — Gute Nacht.«
+an Flucht. Du hast ja auch geschworen. — Gute Nacht.«
 
 Für einen Banditen war der Kerl wirklich merkwürdig
 höflich und gutmütig.
@@ -917,7 +917,7 @@ Der älteste der Leute, dessen Scheitellocke bereits silbern
 <@pagebreak/>
 schimmerte (die Siamesen der unteren Volksschichten rasieren
 den Kopf und lassen nur in der Mitte einen Haarschopf
-stehen) nickte und sagte:
+stehen), nickte und sagte:
 
 »Tuwan (Herr), ein Detektiv ist ein kluger Mann, der
 Diebe und Mörder fängt.«
@@ -951,7 +951,7 @@ mein Arm gelähmt. Ist es nicht so?«
 »Dasselbe werdet Ihr jetzt mit uns tun. Ihr habt ein
 kleines Boot am Heck befestigt. Vorwärts — zwei von
 Euch werden uns sofort nach Bangkok zurückbringen. Ich
-habe Eile. Vielleicht komme ich schon zu spät, denn die die
+habe Eile. Vielleicht komme ich schon zu spät, denn die, die
 Euch erkauft haben, planen sehr wahrscheinlich auch einen
 Mord!«
 
@@ -972,7 +972,7 @@ jenes Fremden. Ich werde sie nicht weiter zur Rechenschaft
 ziehen. Von dem Alten erfuhr ich auch einen sehr wichtigen
 Namen: Houster!«
 
-<h2>4. Kapitel</h2>
+<h2>4. Kapitel.</h2>
 
 <h3>James Houster.</h3>
 
@@ -1029,7 +1029,7 @@ und über die Schlüsse, die er aus unseren Erlebnissen des
 gestrigen Tages gezogen hatte. —
 
 Gegen 6 Uhr morgens verließen zwei dunkelbraune Inder
-mit würdigen Bärten das Haus des Polizeichef durch
+mit würdigen Bärten das Haus des Polizeichefs durch
 einen Nebenausgang und wanderten wieder jener Straße
 zu, in der die Kunstschlosserei James Housters sich befand.
 
@@ -1082,7 +1082,7 @@ hätte das Löschblatt mitbeschmutzt werden müssen.«
 »Hm — über einer Flamme getrocknet?! — Welche Unvorsichtigkeit!«
 warf ich ein.
 
-»Du zweifelst, daß ich hierin recht habe, mein Alter? Ich
+»Du zweifelst, daß ich hierin recht habe, mein Alter? — Ich
 habe recht! Die Sache ist einfach die: Trimal und seine
 Genossen erfahren erst durch die heutige Abendausgabe des
 Bangkok-Rekorder, daß ich mich hier jetzt aufhalte. Da entwerfen
@@ -1124,7 +1124,7 @@ Kolonialdienst wegen dunkler Geschichten; hier seit einem
 Jahr etwa ansässig; scheinbar menschenscheu; sonst nichts Belastendes.
 — Aber diese Angaben Walkers genügen. Ich behaupte,
 der fragwürdige Major ist nur deshalb nach Bangkok
-gekommen, um den Schätzen des P’hrabat zu Leibe zu gehen:
+gekommen, um den Schätzen des P’hrabat zu Leibe zu gehen;
 nur damit sich niemand mit ihm beschäftigt, hält er sich ganz
 für sich allein. Sein Bungalow grenzt mit dem Garten an
 das Gebiet des P’hrabat-Klosters und ist von diesem kaum
@@ -1267,7 +1267,7 @@ gewesen, hätte ich den Haupteingang überwacht. Komm’,
 verbergen wir uns! Trimal wird Houster durch die Pforte
 hinauslassen, oder ein Diener wird dies vielmehr besorgen.«
 
-<h2>5. Kapitel</h2>
+<h2>5. Kapitel.</h2>
 
 <h3>Die Rauchbombe.</h3>
 
@@ -1369,7 +1369,7 @@ mäßigten wir unsere Eile, um nicht aufzufallen. Harst hatte
 die Augen überall, flüsterte mir zu:
 
 »Ich wette, die Rotblonde ist ebenfalls im P’hrabat.
-Schau unauffällig nach ihr aus. Vielleicht trägt sie auch
+Schau’ unauffällig nach ihr aus. Vielleicht trägt sie auch
 eine Verkleidung.«
 
 Wir durchschritten die ersten Höfe und wunderten uns,
@@ -1387,9 +1387,9 @@ großes Gedränge. Die frommen Buddhisten waren in wildester
 Aufregung.
 
 Plötzlich schwenkte Harst schnell nach rechts ab, wo ein
-Säulengang vor einem Tempel entlanglief. Ich stutzte, ich
+Säulengang vor einem Tempel entlanglief. Ich stutzte, — ich
 traute meinen Augen nicht! Dort kam — Houster unter
-dem Säulendach daher. — Houster, frisch und gesund! Er
+dem Säulendach daher, — Houster, frisch und gesund! Er
 beachtete die beiden Inder nicht eher, bis sie ihm den Weg
 vertraten.
 
@@ -1411,7 +1411,7 @@ Eugenie Malcapier?«
 Walker erschien jetzt neben uns.
 
 »He, Master Harst, was haben Sie mit Houster vor?«
-fragte er. »Sollten Sie etwa annehmen daß —«
+fragte er. »Sollten Sie etwa annehmen, daß —«
 
 Er schwieg. Harst hatte mit schnellem Griff dem Fremden
 den falschen Bart abgerissen.
@@ -1451,7 +1451,7 @@ wieder zu uns.
 
 »Gehen wir zu dem Gefangenen,« meinte er. »Ich bin
 leider auch hier zu spät gekommen. Ich fürchte, er wird
-die Steine Miß Malcapier bereits ausgehändigt haben und
+die Steine Miß Malcapier bereits ausgehändigt haben, und
 diese dürfte nicht mehr im P’hrabat sein.«
 
 Jetzt endlich sollten Walker und ich darüber Aufschluß
@@ -1470,7 +1470,7 @@ rechts, obwohl doch Houster mit auf die Platte kommen
 mußte, sagte ich mir gleich, daß die Aufnahmen nicht den
 Baldachin, sondern den Kunstschlosser festhalten sollten. Weiter
 sagte ich mir: wer diesen Mann so oft photographiert, besonders
-von einer Seite die die beste für eine Aufnahme des
+von einer Seite, die die beste für eine Aufnahme des
 Gesichts war, der kann vielleicht die Absicht haben, hier im
 P’hrabat einen falschen Houster auftauchen zu lassen. Die
 Aufnahmen oder besser deren Vergrößerungen sollten nur
@@ -1511,5 +1511,4 @@ Was wir bei der Verfolgung Eugenie Malcapiers erlebten,
 will ich im folgenden Band unter dem Titel schildern:
 
 __Die Menam-Brüder.__
-
 

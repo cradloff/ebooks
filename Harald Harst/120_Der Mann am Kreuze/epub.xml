@@ -3,13 +3,13 @@
 <properties>
 <comment>Eigenschaften für eBook</comment>
 <!-- eindeutige ID des Buchs (Pflichtangabe) -->
-<entry key="UUID">90ed90f6-f745-11e8-bc8c-a3318d9fed1c</entry>
+<entry key="UUID">8e415228-ebd2-11eb-ba34-e3cec702c603</entry>
 <!-- sekundäre ID (z.B. ISBN urn:isbn:1234567890123) -->
 <entry key="secondaryID"></entry>
 <!-- Typ der sekundären ID (http://www.stison.com/onix/codelists/onix-codelist-5.htm) -->
 <entry key="secondaryIDType"></entry>
 <!-- Buch-Titel (Pflichtangabe) -->
-<entry key="title">Die Uhrkette des Bill Hamilton</entry>
+<entry key="title">Der Mann am Kreuze</entry>
 <!-- Sub-Titel -->
 <entry key="subtitle"></entry>
 <!-- Kurz-Titel (z.B. "Huck Finn" für "Die Abenteuer von Huckleberry Finn") -->
@@ -17,33 +17,43 @@
 <!-- Sammlung, z.B. Titel einer Serie -->
 <entry key="collection">Harald Harst - aus meinem Leben</entry>
 <!-- Position innerhalb der Sammlung (Band-Nummer) -->
-<entry key="group-position">27</entry>
+<entry key="group-position">120</entry>
 <!-- Ausgabe (z.B. "Zweite überarbeitete Ausgabe") -->
 <entry key="edition"></entry>
 <!-- Sprache (Pflichtangabe) -->
 <entry key="language">de</entry>
 <!-- Beschreibung -->
-<entry key="description">Die Uhrkette des Bill Hamilton.
+<entry key="description">
+Der Mann am Kreuze
 
-Der Klubpräsident hatte soeben einem meiner Nachbarn gegenüber seiner Verwunderung über das Fehlen eines der Klubmitglieder namens Melprove Ausdruck gegeben, so daß der Herr zu meiner Linken sich verpflichtet fühlte, mir zu erklären, Armand Melprove sei der reichste Mann der Stadt und der glückliche Vater zweier reizender Töchter, die leider nur allzu stolz auf die Millionen ihres Erzeugers und deshalb wenig zugängliche Damen wären.
+»Wir werden doch wohl hinfahren müssen,« sagte Harald Harst zu mir und hielt mir Inspektor Goddlears Depesche hin.
 
-Mein anderer Nachbar beugte sich vor und meinte jetzt:
+Diese Depesche erreichte uns erst auf dem Bahnhof in Bikanir in Indien kurz vor der Abreise gen Norden.
 
-»Glückliche Vater?! Glücklich?! — Ich möchte das bezweifeln. Melprove läuft seit acht Tagen mit einem Gesicht umher, das recht wenig heiter aussieht. Ihm muß irgend etwas zugestoßen sein. Heute glänzt er hier auch wieder durch Abwesenheit, obwohl er doch mit zum Vorstand gehört und gerade auf seine Veranlassung dieses Festessen zu Ehren Ihres Freundes veranstaltet worden ist.«
+Wir hatten bereits im Zuge gesessen, und ein brauner indischer Postbeamter war auf dem Bahnsteig entlanggelaufen und hatte Harsts Namen in höchsten Fisteltönen unablässig gebrüllt.
 
-Die Wahrsagerin von Jorjakara.
+Ich las Detektivinspektor Godwin Goddlears Telegramm:
 
-Oft genug sind Harald Harst und ich lediglich durch einen Zufall zu einem neuen Abenteuer, einem neuen »Problem« gekommen, meist dann auf sehr merkwürdige Art, sobald es sich um einen solchen Zufall handelte.
+»Soeben finde in Zeitung, daß Sie wieder mal in Indien, alter Harst. Sache mit Tennisschläger haben Sie glänzend befingert. Gratuliere. Wenn Sie irgend Zeit haben, kommen Sie zu mir … Eiligst. Kann Ihnen eine unglaubliche Geschichte erzählen, deren Hauptmacher übermorgen gehängt wird. — Gruß! Goddlear, Lahore.«
 
-Am seltsamsten jedenfalls war in dieser Beziehung die Verkettung von Umständen, die uns nach Jorjakara führte, wo wir vom Union-Klub zu einem Herrendiner eingeladen waren, das um 5 Uhr nachmittags begann und dessen letzter Gang etwa um 9 Uhr abends serviert wurde.
+Der Gummiabsatz
 
-Der Großkaufmann van Diemen, der Klubpräsident, hatte dann eine besondere Überraschung vorbereitet; ein Wasserfeuerwerk auf dem kleinen, malerischen See, der mitten in dem ausgedehnten Parke des Klubhauses lag.</entry>
+Das Arbeitszimmer Seiner Exzellenz im Gouverneurpalais.
+
+Wir drei, Exzellenz und Polizeidirektor Smarly in Sesseln um einen Tisch herum.
+
+Harst erzählt, was wir erlebt haben: Goddlears Depesche, Apfelbotschaft, Eisenbahnattentat, die geliehene Draisine — und so weiter. Alles der Reihe nach. Nur den letzten Brief und die Photographie verschweigt er, was mich etwas in Erstaunen setzt.
+
+Exzellenz ist empört über die ungeheure Frechheit, daß man Harald und mich eingesperrt, überfallen hatte, daß die Priester es gewagt haben, das Kind zu rauben und einzukerkern.
+
+Harst erklärt: »Exzellenz werden bei den Brahmanen des Indra-Tempels nichts erreichen. Sie alle werden sagen: »Wir wissen von nichts. Seine Erhabenheit mag das alles getan haben.« — Und Manga Dari ist tot, damit er — nicht vernommen werden könnte.«
+</entry>
 <!-- Author (Anzeige, Pflichtangabe) -->
 <entry key="author">Walther Kabel</entry>
 <!-- Author (für Sortierung) -->
 <entry key="authorFileAs">Kabel, Walther</entry>
 <!-- Dateiname (default: Titel - Author.epub) -->
-<entry key="filename">Kabel, Walther - (027) Die Uhrkette des Bill Hamilton.epub</entry>
+<entry key="filename">Kabel, Walther - (120) Der Mann am Kreuze.epub</entry>
 <!-- Verlag -->
 <entry key="publisher">Verlag moderner Lektüre G. m. b. H. Berlin</entry>
 <!-- Schlagwörter/Genre (z.B. Humor, Fiction, Romance, ...) http://bisg.org/page/bisacedition -->
@@ -51,7 +61,7 @@ Der Großkaufmann van Diemen, der Klubpräsident, hatte dann eine besondere Übe
 <!-- Rechte/Lizenz (z.B. Public Domain) -->
 <entry key="rights">Public Domain</entry>
 <!-- Datum der Veröffentlichung (yyyy-mm-dd) -->
-<entry key="pubDate">1921</entry>
+<entry key="pubDate">1924</entry>
 <!-- Charakteristischer Zeitpunkt der Erstellung des Buches (yyyy-mm-ddTHH:MM:SSZ, default: aktuelles Datum) -->
 <entry key="creationDate"></entry>
 <!-- Cover-Bild (default cover.*) -->
@@ -65,3 +75,4 @@ Der Großkaufmann van Diemen, der Klubpräsident, hatte dann eine besondere Übe
 <!-- Freemarker für Content aktivieren? (true/false) -->
 <entry key="freemarker">true</entry>
 </properties>
+
