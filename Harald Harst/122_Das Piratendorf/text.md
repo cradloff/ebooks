@@ -1535,7 +1535,7 @@ Und — reisten mit der Bahn von Quilam nach Orkalla!!
 
 So — — begann unser Kampf gegen das Piratendorf.
 
-<@pagebreak/>
+<@pagebreak 33/>
 
 <h1>Der Diamantenraub</h1>
 
@@ -1551,9 +1551,9 @@ Bande maskierter Räuber von fünfzehn Mann, die Tresore
 im Verwaltungsgebäude ausgeräumt und vorher zwei
 Wächter, drei Aufseher und vier Arbeiter niedergeknallt hatte,
 war er so beschäftigt gewesen, daß seine Nerven geradezu
-flach dem beruhigenden Angelsport verlangten.
+nach dem beruhigenden Angelsport verlangten.
 
-Gegen seist Uhr nachmittags begab er ich dabei mit
+Gegen sechs Uhr nachmittags begab er sich dabei mit
 seinem Angelzeug nach jener Bucht, die er so sehr gern als
 Jachthafen benutzt hätte, wenn eben nicht die Einfahrt so
 eng gewesen wäre.
@@ -1567,15 +1567,15 @@ Harst und Schraut waren spurlos verschwunden.
 Verschwunden war auch Sindra Mar, der rätselhafte
 Schuft, und die blonde Judith Longfellow hatten die Banditen
 entführt, die mit einem großen Kutter nachts nach
-Orkatlla gekommen waren.
+Orkalla gekommen waren.
 
-Mister Annalen seufzte.
+Mister Tompsen seufzte.
 
-Der Schaden, den die Orkalla-Gesellschaft erstieg, ging
-in die Millioiuen.
+Der Schaden, den die Orkalla-Gesellschaft erlitten, ging
+in die Millionen.
 
-Was nahte es, daß nun die Geheimpolizisten hier zu
-Tortur umberschvärmten, daß sogar der bekannte Detektiv
+Was nützte es, daß nun die Geheimpolizisten hier zu
+Dutzenden umherschwärmten, daß sogar der bekannte Detektiv
 <@pagebreak/>
 Sidney Lomarlay aus Singapore der Gesellschaft seine
 Dienste angeboten hatte und heute mittag hier eingetroffen
@@ -1588,7 +1588,7 @@ wäre, die Beute den Banditen wieder abzujagen. —
 
 Tompsen zog den ersten Fisch heraus.
 
-Vergelte sich: am Haken hing ein Seeteufel. »Einer jener
+Ärgerte sich: am Haken hing ein Seeteufel. »Einer jener
 unglaublich häßlichen Fische, die leider zu gern anbeißen.
 
 Fluchend warf der Generaldirektor das Ungeheuer
@@ -1606,7 +1606,7 @@ Tompsen faßte sich schnell.
 
 Erwiderte, ohne den Kopf zu drehen:
 
-»Gott sei Dank, Mr. Harst! — Wissen Sie schon, was.
+»Gott sei Dank, Mr. Harst! — Wissen Sie schon, was
 hier geschehen?!«
 
 »Ob ich’s weiß! — Nun sollen Sie mir aber noch ein
@@ -1620,13 +1620,13 @@ Detektivinstituts den Fall übernehmen wollte?«
 
 »Und woher kam sie?«
 
-»Aus Madras. — Er hatte dort zu tun 1 gehabt.«
+»Aus Madras. — Er hatte dort zu tun gehabt.«
 
 »Danke. — Miß Judith Longfellow ist also ebenfalls
 geraubt worden?«
 
-»Leider. Die Banditen hielten mein Wohnhaus und
-stellt »und erzwangen die Herausgabe der Erzieherin.«
+»Leider. Die Banditen hielten mein Wohnhaus umstellt
+und erzwangen die Herausgabe der Erzieherin.«
 
 »Ereignete sich sonst noch bei dem Überfall etwas, das
 <@pagebreak/>
@@ -1642,18 +1642,18 @@ Male zogen die Schufte die Segel ein. Dann schwand das
 Mondlicht für Sekunden hinter einem Wolkenfetzen, und als
 es wieder hell wurde, war der Kutter wie weggezaubert.
 Und ich hätte ihn auch ohne Segel unbedingt bemerken
-müssen, Mr. Harst … Doch — die See war leer! E&
+müssen, Mr. Harst … Doch — die See war leer! Es
 schien, als ob die Schufte den Kutter, den sie übrigens dem
 Fischer Maralar in Orkalla gestohlen hatten, versenkt haben
-müßten! — Festesten Sie das?!«
+müßten! — Begreifen Sie das?!«
 
 »Ja …«
 
 »Wie — Sie könnten mir erklären, ob …«
 
-»Ich könnte es, will es aber erst später I — Angehören
-Sie genau hin, Mr. Tompsen. Ich sagte schon, daß nur
-sich, Kenntnis von unserer Rettung haben dürfen. Man
+»Ich könnte es, will es aber erst später tun. — Nun
+hören Sie genau hin, Mr. Tompsen. Ich sagte schon, daß nur
+Sie Kenntnis von unserer Rettung haben dürfen. Man
 hatte uns auf ein Inselchen der Malediven-Gruppe verschleppt.
 Sie werden Ihre Motorjacht Orkalla sofort reisefertig
 machen, werden aber zwei neue Matrosen anwerben
@@ -1663,23 +1663,23 @@ Und Harald erteilte dem Generaldirektor nun die genauesten
 Anweisungen, damit unser Inkognito unbedingt gewahrt
 bliebe.
 
-Dann zum Schluß: »Der Kapitän der Jacht erhält vom:
+Dann zum Schluß: »Der Kapitän der Jacht erhält von
 Ihnen Befehl, demjenigen zu gehorchen, der ihm einen Ausweis
 von Ihnen zeigt — mir, Harald Harst! Ich werde
 mich dem Kapitän erst auf See zu erkennen geben.« — —
 
-Bereits abends neun Uhr meldeten wir. uns bei Kapitän-Groonar
-an Bord der Orkalla — als indische Matrosen.
+Bereits abends neun Uhr meldeten wir uns bei Kapitän
+Groonar an Bord der Orkalla — als indische Matrosen.
 
 Und genau um elf Uhr stach die Motorjacht bei prächtigem
 Wetter in See. —
 
 <@pagebreak/>
-Sie hatte insgesamt elf Mann Besatzung. Wir- beide
+Sie hatte insgesamt elf Mann Besatzung. Wir beide
 waren in einem besonderen Verschlag im Vorschiff untergebracht
 worden. Die übrigen Matrosen waren hellbraune
 Singhalesen von der Insel Ceylon, der Steuermann ein Irländer
-namens Sodann, und der Maschinist ein Schwede
+namens Coogan, und der Maschinist ein Schwede
 namens Rolfsen …
 
 Kaum hatte die Orkalla das Land aus Sicht verloren,
@@ -1697,7 +1697,7 @@ Vor ihm auf dem Tische lag ein versiegelter Brief.
 »Brüllen Sie nicht so,« sagte Harald leise, aber scharfen
 Tones.
 
-Der Kapitän Stute.
+Der Kapitän stutzte.
 
 »Verdammt — das ist ja …«
 
@@ -1711,14 +1711,14 @@ Las … las …
 
 Fragte: »Sind Sie Mr. Harst?«
 
-»Ja. Und Sie werden nun genau das tun, was ich annehme.«
+»Ja. Und Sie werden nun genau das tun, was ich anordne.«
 
 »Hm …«
 
 »Weigern Sie sich? Ich denke, der Inhalt des Briefes
 ist klar!«
 
-»Das ist er!« Und des Kapitäns pockennarbige Bull-voggenfrate
+»Das ist er!« Und des Kapitäns pockennarbige Bulldoggenfratze
 verzog sich wütend.
 
 »Sie werden also sofort Kurs auf die östlichste der Malediven-Inseln
@@ -1727,10 +1727,10 @@ ohne Namen auf den Seekarten …«
 
 »Wenn’s sein muß!« brummte Groonar unfreundlich.
 
-Da wurde Harst wütet.
+Da wurde Harst wütend.
 
 <@pagebreak/>
-»Kapitän, falle Sie den Ton nicht ändern, werde ich
+»Kapitän, falls Sie den Ton nicht ändern, werde ich
 Sie zwingen, sofort den Hafen von Orkalla wieder anzulaufen,
 und dort — werden Sie nicht mehr Angestellter der
 Minengesellschaft sein! Verstehen Sie mich! Man wird Sie
@@ -1742,7 +1742,7 @@ Ein tückischer Blick traf Harald.
 Höhnisch. »Was wollen Sie denn noch mehr?! Ich
 werde sofort an Deck gehen.«
 
-Indem … klopfte es.
+Indem … klopfte es …
 
 Die Kajütentür ging auf, und ein schlanker bartloser
 Mann trat ein.
@@ -1766,7 +1766,7 @@ zucken, so drücke ich ab!« drohte er. »Ich bin Sidney
 Lomarlay, der Detektiv. Vielleicht habt Ihr Schufte schon
 von mir gehört!«
 
-Weber Groonars Gesicht lief ein Schimmer satanischer
+Über Groonars Gesicht lief ein Schimmer satanischer
 Freude.
 
 Er brüllte kreischend:
@@ -1792,7 +1792,7 @@ stramme imponierende Erscheinung, lächelte ironisch.
 »Gestatten Sie,« sagte er mit überlegenem Hohn, «—
 gestatten Sie zu bemerken, daß ich heute nachmittag unten
 an der Bucht beobachtete, wie Sie beide den Generaldirektor
-so sein eingewickelt haben. Er durfte sich nicht mal nach
+so fein eingewickelt haben. Er durfte sich nicht mal nach
 Ihnen umdrehen! Ihre Stimme wird wohl mit der des
 echten Harst Ähnlichkeit haben, Sie Schurke, und das haben
 Sie tadellos ausgenutzt! — Kapitän,« wandte er sich an den
@@ -1813,9 +1813,9 @@ zu Kopfe getrieben hätte:
 daß ich tatsächlich Harald Harst bin. Ich …«
 
 »Halten Sie das Maul!« polterte da der grobe Kapitän
-los. »Je! mit einem Male schlagen Sie Schuft ein ganz
-anderes Törichten an! Vorhin mir gegenüber waren Sie
-großschnäuzig, als ob ich’n Londoner Stiefelputer wäre! —
+los. »Jetzt mit einem Male schlagen Sie Schuft ein ganz
+anderes Tönchen an! Vorhin mir gegenüber waren Sie
+großschnäuzig, als ob ich’n Londoner Stiefelputzer wäre! —
 Mr. Lomarlay, ich hole nun ein paar von meinen braunen
 Jungs!«
 
@@ -1833,7 +1833,7 @@ können.
 
 Harald erwiderte:
 
-»Mr. Lomarlay, woraus schließen Sie Hoffst; daß die
+»Mr. Lomarlay, woraus schließen Sie denn, daß die
 beiden indischen Kulis, die hinter Mr. Tompsen an der
 Bucht im Geröll lagen, nicht Harst und Schraut in einer Verkleidung
 gewesen sein können?«
@@ -1861,7 +1861,6 @@ Schweden hastig zu:
 »Ich bin Harald Harst! Kommen Sie nachher heimlich
 zu uns. Es soll Ihr Schade nicht sein! Sie hören
 meinem Deutsch ja an, daß ich kein Ausländer bin. Und
-
 — schweigen Sie!«
 
 Rolfsen, der blonde stramme Bursche, warf die Tür zu
@@ -1889,7 +1888,7 @@ Und sagte dann flüsternd — auf Deutsch:
 »Es hat mich in der Tat überrascht, daß Sie des Deutschen
 mächtig sind. Immerhin ist das noch kein Beweis, daß
 Sie beide Harst und Schraut sein können, denn vorläufig
-zu ich dem Detektiv Lomarlay mehr glauben als Ihnen
+muß ich dem Detektiv Lomarlay mehr glauben als Ihnen
 beiden.
 
 »Gewiß, Herr Rolfsen … Das müssen Sie. Ich werde
@@ -1897,20 +1896,20 @@ Ihnen nun aber den Beweis erbringen, daß Lomarlay sich
 irrt. — Zunächst, wo ist der Detektiv, was tut er?«
 
 »Er schläft. Er hat mit dem Kapitän bis vor einer
-halben Stunde wart gezecht. Nun schlafen sie.«
+halben Stunde wacker gezecht. Nun schlafen sie.«
 
 »Danke. — Setzen Sie sich bitte uns gegenüber dort
 auf Schrauts Bett. — Hören Sie mich an.«
 
 Rolfsen nahm Platz.
 
-»Herr Rostigen, ich trage stets meinen von der Berliner
-Polizei abgestempelten Ausweis bei mir, ebenso. Schraut,
-selbst wenn wir verkleidet sind. - Wollen Sie bitte
-aus dem rechten Ärmelaufschlag »unserer Zubrachten diese?
+»Herr Rolfsen, ich trage stets meinen von der Berliner
+Polizei abgestempelten Ausweis bei mir, ebenso Schraut,
+selbst wenn wir verkleidet sind … — Wollen Sie bitte
+aus dem rechten Ärmelaufschlag unserer Kulijacken diese
 Ausweise herausnehmen. Als besondere Kennzeichen
 <@pagebreak/>
-werden Sie dort bei mir zwei Schuhmacher, eine am linken
+werden Sie dort bei mir zwei Schußnarben, eine am linken
 Oberarm, die andere an der rechten Schulter, sowie einen
 Leberfleck über dem Herzen vermerkt finden, während bei
 Freund Schraut ähnliche Merkmale angegeben sind. Sie
@@ -1928,9 +1927,9 @@ sagte staunend:
 »Ja — um alles in der Welt, Herr Harst, — weshalb
 haben Sie denn nicht Lomarlay gegenüber diesen Beweis
 geführt?! Sie sind doch Harald Harst, und das da ist ebenso
-zweifelsfrei Herr Schraut.« d«
+zweifelsfrei Herr Schraut.«
 
-»Allerdings — wir sind’s! Ich h meine ganz besonderen
+»Allerdings — wir sind’s! Ich habe meine ganz besonderen
 Gründe, Lomarlay die Ausweise *nicht* unter die
 Nase zu halten.«
 
@@ -1938,29 +1937,29 @@ Harald war in bester Laune.
 
 »Und diese Gründe sind so schwerwiegender Art, daß
 ich Sie bitte, uns weiter als … Verbrecher zu behandeln
-— Oh der Steuermann Sodann wohl zu uns halten würde,
+— Ob der Steuermann Coogan wohl zu uns halten würde,
 Herr Rolfsen?«
 
-»Zu. Er haßt den Kapitän. Und auch die Matrosen-Hassen
-den Säufer Groonar, der es nur so Tadel!ins vper-steht,
-vor Herrn Tompsen den Biedermann zu spielen.« Und
+»Ja. Er haßt den Kapitän. Und auch die Matrosen
+hassen den Säufer Groonar, der es nur so tadellos versteht,
+vor Herrn Tompsen den Biedermann zu spielen. Und
 gerade ich habe auf die Leute den größten Einfluß. Sie
 können überzeugt sein, Herr Harst, daß die ganze Besatzung
 außer Groonar im Notfalle zu Ihnen hält, zumal ich jetzt
 ja weiß, daß Herrn Tompsens Brief, der Sie gleichsam zum
 ersten Kapitän macht, mit vollem Recht geschrieben wurde.«
 
-Gleich darauf entfernte sich Rolfsen ebenso lautlos wie.
+Gleich darauf entfernte sich Rolfsen ebenso lautlos wie
 er gekommen war.
 
 Als wir wieder allein in der dunklen Kammer waren,
 fragte ich Harald:
 
-»Wie denkst Du eigentlich über Lomarlay?“«
+»Wie denkst Du eigentlich über Lomarlay?«
 
 <@pagebreak/>
 »Hm — das ist doch wohl klar, mein Alter,« war die
-Zweideutige Antwort.
+zweideutige Antwort.
 
 Und — ich schwieg. Ich war auch müde und matt.
 
@@ -1974,13 +1973,13 @@ Zwei Tage, die uns wie Monate erschienen.
 
 Und ein einziges Mal in diesen achtundvierzig Stunden
 gaben der Kapitän und der Detektiv Lomarlay uns die
-»Ehre und fragten, ob wir nun endlich ein Geständnis ablegen
+Ehre und fragten, ob wir nun endlich ein Geständnis ablegen
 wollten.
 
 Harald blieb stumm. —
 
-Desto eifriger gestaltete sich insgeheim der: Verkehr
-Zwischen uns und Rolfsen und dem Steuermann Sodann.
+Desto eifriger gestaltete sich insgeheim der Verkehr
+Zwischen uns und Rolfsen und dem Steuermann Coogan.
 Sie verschafften uns jede nur irgend mögliche Erleichterung,
 mußten andererseits jedoch sehr vorsichtig sein, damit der
 Kapitän nicht argwöhnisch würde.
@@ -2001,7 +2000,7 @@ Hartnäckigkeit sich überhaupt nicht über ihn äußerte. —
 
 Dann aber kam jene dritte Nacht an Bord der Motorjacht
 Orkalla, jene Nacht, deren Ereignisse unauslöschlich in
-Kneipen Erinnerung haften geblieben sind.
+meiner Erinnerung haften geblieben sind.
 
 Elf Uhr war’s.
 
@@ -2016,12 +2015,12 @@ Dunkelheit werden Lomarlay und der Kapitän uns nicht erkennen.
 Und wenn — dann ist’s auch kein Unglück.«
 
 So schlichen wir mit nach oben, hielten uns ganz vorn
-am. Bugspriet auf und waren in unserer Kuli-Verkleidung
+am Bugspriet auf und waren in unserer Kuli-Verkleidung
 von Singhalesen gar nicht zu unterscheiden.
 
 Es war eine halbdunkle, gewitterschwüle Nacht.
 
-Im Osten stammte der Horizont alle fünf Sekunden in -
+Im Osten flammte der Horizont alle fünf Sekunden in
 prächtigem Wetterleuchten auf.
 
 Die Insel war als dunkle Masse auf den leicht schillernden
@@ -2029,7 +2028,7 @@ Fluten geradeaus zu erkennen.
 
 Lomarlay und Groonar standen auf der Kommandobrücke.
 Die Positionslaternen gaben genügend Licht. Ich
-sah zu meinem Erstaunen. daß Lomarlay am Steuerrade
+sah zu meinem Erstaunen, daß Lomarlay am Steuerrade
 lehnte und die Hände an den Radspeichen hatte.
 
 »Der Kollege steuert,« flüsterte ich Harald zu.
@@ -2046,7 +2045,7 @@ in das Dickicht beginnt.«
 Und diese Worte wirkten in meinem Hirn wie ein greller
 Blitzschlag.
 
-Urplößblich tauchte in mir ein Verdacht auf, der bisher
+Urplötzlich tauchte in mir ein Verdacht auf, der bisher
 als zu widersinnig von mir immer verworfen war.
 
 Doch — ich kam nicht dazu, diesen Verdacht Harald
@@ -2055,7 +2054,7 @@ gegenüber zu äußern.
 Auf der Brücke der Jacht flammte mit einem Male ein
 grünes Licht auf — ein bengalisches Zündholz.
 
-Und im selben Moment brüllte der Kapitän auch schon!
+Und im selben Moment brüllte der Kapitän auch schon:
 
 »Schuft — nun weiß ich Bescheid!«
 
@@ -2117,7 +2116,7 @@ Nach dem grellen Licht waren die Augen derart geblendet,
 daß es einige Minuten bedurfte, bevor sie wieder
 fähig waren, in dem Halbdunkel der Nacht etwas zu unterscheiden.
 
-Harst rief mich auf die Brücke. -
+Harst rief mich auf die Brücke.
 
 Und hier … stolperte ich fast über einen menschlichen
 Körper.
@@ -2134,7 +2133,7 @@ Harald steuerte die Jacht jetzt parallel zur Küste der
 Insel nach Süden.
 
 Die Orkalla lief nur mit halber Fahrt. Vorn am Bugspriet
-paßte Sodann auf, ob nicht Untiefen sich bemerkbar
+paßte Coogan auf, ob nicht Untiefen sich bemerkbar
 machten. —
 
 Ich kam kaum richtig zu klaren Gedanken. Harald hatte
@@ -2188,7 +2187,7 @@ Wir alle schwitzen in dieser siedend heißen Nacht wie
 in einem Backofen.
 
 Wir alle hatten nur den einen Wunsch: Wenn etwas
-maskieren mußte, wenn ein Kampf bevorstand, dann — recht
+passieren mußte, wenn ein Kampf bevorstand, dann — recht
 bald!
 
 Selbst Rolfsen, der sonst ein sehr ruhiger Mensch war,
@@ -2204,8 +2203,7 @@ Und meine Augen schweiften zur Landzunge hinüber.
 
 Wo war Lomarlay geblieben?! Hatte er die Insel erreicht?!
 Hatte einer der Haifische, deren Rückenflossen hin
-und neee neben der Jacht auftauchten, ihn in die Tiefe gezogen
-?
+und wieder neben der Jacht auftauchten, ihn in die Tiefe gezogen?!
 
 Auch Rolfsen begann nun diese Frage zu erörtern.
 
@@ -2226,7 +2224,7 @@ Die Frau.
 
 Hinter der … ein Mann dreinhetzte.
 
-Nochmals schrie ’sie da in heller Angst schrill auf.
+Nochmals schrie sie da in heller Angst schrill auf.
 
 Sprang ins Wasser.
 
@@ -2234,7 +2232,7 @@ Drehte sich um.
 
 Ihre Stimme klang klar in die stille Nacht:
 
-»Zurück, Sindra Max — — zurück!«
+»Zurück, Sindra Mar — — zurück!«
 
 Ein Hohnlachen.
 
@@ -2244,8 +2242,8 @@ Hand.
 
 Sindra Mar taumelte, schlug in den Sand.
 
-Und — fast gleichzeitig vom Meere her — hinter un&
-ein Knall — — ein Schuß eines Geschüße3.
+Und — fast gleichzeitig vom Meere her — hinter uns
+ein Knall — — ein Schuß eines Geschützes.
 
 Heulend fuhr ein Geschoß dicht über unser Deck hin.
 
@@ -2253,21 +2251,21 @@ Ganz von selbst stellte ich da den Scheinwerfer ab.
 
 Blickte gen Westen.
 
-on dort war der eherne Gruß gekommen.
+Von dort war der eherne Gruß gekommen.
 
-der — dort war nichts zu sehen — — nichts! Kein:
-Schiff Es kein Licht.
+Aber — dort war nichts zu sehen — — nichts! Kein
+Schiff — kein Licht.
 
 Harsts Stimme:
 
-»Ein Boot ausschwingen — — rasch!
+»Ein Boot ausschwingen — — rasch!«
 
 Inzwischen war Judith Longfellow verschwunden.
 
-Das Boot trug Harst, mich und vier Singhalesen ax.
-und.
+Das Boot trug Harst, mich und vier Singhalesen an
+Land.
 
-Steuermann Sodann sollte inzwischen die Jacht vom
+Steuermann Coogan sollte inzwischen die Jacht vor
 Anker legen.
 
 <@pagebreak/>
@@ -2275,14 +2273,14 @@ Anker legen.
 <h2>3. Kapitel.</h2>
 <h3>Ozeanas Geschichte.</h3>
 
-Wir näherten uns vorsichtig dem Ufer. A[h3 der Kiel
+Wir näherten uns vorsichtig dem Ufer. Als der Kiel
 des Bootes über den Sand schrammte, sprang Harald mit
 langem Satz als Erster auf trockenen Boden.
 
 Die vier Singhalesen mußten im Boote bleiben.
 
 »Ihr schießt auf jeden, der sich nähert und auf Anruf
-Nicht »stehen bleibt,« befahl Harald.
+Nicht stehen bleibt,« befahl Harald.
 
 Dann eilten wir den Bäumen zu, vorüber an Sindra
 Mar’s reglosem Körper.
@@ -2298,12 +2296,12 @@ Schaltete sie ein.
 Wir hatten noch unsere kleinen treuen Repetierpistolen.
 
 Wir hatten sie, und es war so gut, als ob wir zu einem
-Dirigent gegen die Lichtung und das Blockhaus verrückten.
+Dutzend gegen die Lichtung und das Blockhaus vorrückten.
 
 In der Blockhütte war es hell,
 
 Die Fenster schimmerten durch das Dunkel. Die Tür,
-fand halb offen.
+stand halb offen.
 
 Wir schlichen näher.
 
@@ -2311,7 +2309,7 @@ Lautlos — — langsam.
 
 Mißtrauisch.
 
-Wußten wir, wer uns hier außer Ozeana noch gegen-üÜbertreten
+Wußten wir, wer uns hier außer Ozeana noch gegenübertreten
 würde?!
 
 <@pagebreak/>
@@ -2322,13 +2320,13 @@ Erblickten durch die breite Türspalte Ozeana, die vor
 dem eleganten Schreibtisch saß und den Kopf in die Arme gestützt
 hatte.
 
-Ganz Resemmengeluern saß sie da.
+Ganz zusammengekauert saß sie da.
 
 Weinte … weinte.
 
 Und — im übrigen war der Salon, dieser vornehme,
 stilvolle Salon hier inmitten der Inselwildnis, leer …
-Heer.
+leer.
 
 Niemand war bei dem Mädchen, das mit zur Bande der
 Diamantenräuber gehörte, zu den Piraten.
@@ -2369,9 +2367,9 @@ aus eigenem Willen die Schwelle des Todes zu überschreiten.«
 
 Er nahm ihr den Revolver ab.
 
-Aufschluchzend sank sie wieder in den Schreibsessel, bog
+Aufschluchzend sank sie wieder in den Schreibsessel,
 <@pagebreak/>
-deckte das Gesicht mit den Händen … weinte. —
+bedeckte das Gesicht mit den Händen … weinte. —
 
 Ich war leise eingetreten.
 
@@ -2380,7 +2378,7 @@ Hob das Bild auf, das Ozeana geküßt hatte.
 Es war eine Photographie des Ingenieurs Hektor
 Laronge von den Orkalla-Minen.
 
-Es war Oxzeanas stille Liebe … Es war das Bild des
+Es war Ozeanas stille Liebe … Es war das Bild des
 Mannes, auf den Sindra Mar eifersüchtig gewesen — schon
 damals, als wir an der Wand der Kulibaracke lauschten.
 
@@ -2397,7 +2395,7 @@ Harst beugte sich über die Weinende.
 
 »Ozeana, nun ist die Stunde da, wo Sie beichten
 müssen,« sagte er eindringlichen Tones. »Erleichtern Sie Ihr
-Herz. Brechen Sie vollständig mit der Vergangenheit -
+Herz. Brechen Sie vollständig mit der Vergangenheit —
 um Hektor Laronges willen!«
 
 Da fuhr sie empor.
@@ -2408,7 +2406,7 @@ Flammende Röte schlug ihr in die Wangen.
 
 Und langsam setzte sie sich wieder.
 
-Totenblässe überflog ihr Benares Karbid.
+Totenblässe überflog ihr schmales Antlitz.
 
 Sie zitterte … kämpfte mit sich.
 
@@ -2426,15 +2424,15 @@ weiter.
 
 Und ich … ich starrte ihn entgeistert an.
 
-Ozeana Lomarlay?k?! — Ja — sollte …
+Ozeana Lomarlay?! — Ja — sollte …
 
 Und wieder sagte Harald da schon:
 
 <@pagebreak/>
 »Ich weiß alles, Ozeana … alles! Ihr Vater ist einer
 der gefährlichsten modernen Verbrecher, ist … Detektiv
-und … Seeräuber in einer Person! Na nie hat die
-Kriminalgeschichte des Erdenrundes Derartiges zu vertriebenen
+und … Seeräuber in einer Person! Noch nie hat die
+Kriminalgeschichte des Erdenrundes Derartiges zu verzeichnen
 gehabt: Detektiv und Pirat! — Ich weiß, daß Ihr
 Vater in Singapore gegen zwanzig männliche Angestellte beschäftigt,
 und diese Leute sind … die Besatzung seines
@@ -2452,27 +2450,27 @@ Ozeana Lomarlay hatte wieder die Hände vor das Gesicht
 gedrückt.
 
 »Reden Sie!« bat Harald energischer. »Sie lieben
-Hektor. Laronge! Ihr Leben kann in eine andere, glücklichere
+Hektor Laronge! Ihr Leben kann in eine andere, glücklichere
 Kurve einbiegen, wenn Sie es wollen. Sie haben Ihr
-Co selbst in der Hand, Ozeana. Ehrlich müssen Sie
-ein!«
+Schicksal selbst in der Hand, Ozeana. Ehrlich müssen Sie
+sein!«
 
 Sie … weinte stärker und … schwieg.
 
 Harald blieb hartnäckig.
 
 »Ozeana,« begann er von neuem, »jeder Mensch lebt
-sein eigenes Leben! E53 gibt Verhältnisse, in denen Kindesliebe
+sein eigenes Leben! Es gibt Verhältnisse, in denen Kindesliebe
 oder doch Kindesrücksicht schwinden muß! Wie oft
 haben Väter, Mütter ihre Kinder verflucht, weil diese in
-der Liebe ihren eigenen Zog gingen, weil sie Ehen schlossen,
-die dem elterlichen Ehrgeiz nicht genehm waren. Kindes«-
-liebe, Elternliebe ist ja soundso oft nichts anderes als eine
-althergebrachte Interessengemeinschaft. Schreibtischphilo-sopbei
+der Liebe ihren eigenen Weg gingen, weil sie Ehen schlossen,
+die dem elterlichen Ehrgeiz nicht genehm waren. Kindesliebe,
+Elternliebe ist ja soundso oft nichts anderes als eine
+althergebrachte Interessengemeinschaft. Schreibtischphilosophen
 erheben diese Liebe in den Himmel, Lebenskenner
 wissen, daß diese … Interessengemeinschaft oft Kleinigkeiten
 wegen in die Brüche geht … Innerlich haben Sie sich
-doch längst von Ihrem Vater losgesagt.« -
+doch längst von Ihrem Vater losgesagt.«
 
 Ozeana schwieg.
 
@@ -2490,7 +2488,7 @@ Gesenkten Hauptes schritt sie uns voran. Ich hatte ihr
 Hektor Laronges Bild gereicht. Sie schob es vorn in ihre
 Bluse, dankte mir mit warmem Blick. —
 
-Als wir an Sindra Mais Leiche vorüberkamen,
+Als wir an Sindra Mars Leiche vorüberkamen,
 schwankte Ozeana plötzlich vor Schwäche.
 
 Harst stütze sie.
@@ -2498,7 +2496,7 @@ Harst stütze sie.
 Harst sagte:
 
 »Er wollte sich an Ihnen vergreifen. Sie trifft keine
-Geduld
+Schuld.«
 
 Wir bestiegen das Boot.
 
@@ -2509,18 +2507,18 @@ Und bevor wir Ozeana nun allein ließen, erklärte
 Harald nochmals:
 
 »Glauben Sie mir, Ozeana, auch für Sie wird die
-Stunde kommen, wo die Vergangenheit hinter Ihnen verstockt.
+Stunde kommen, wo die Vergangenheit hinter Ihnen versinkt.
 
 Er reichte ihr die Hand.
 
-»Gute Nacht, Ozeana. Ich bin Ihr Freund, und verbargst
-Harst zum Freunde hat, geht nicht unter.« —
+»Gute Nacht, Ozeana. Ich bin Ihr Freund, und wer
+Harald Harst zum Freunde hat, geht nicht unter.« —
 
 Wir fuhren dann abermals an Land.
 
 Der Morgen graute bereits.
 
-Jetzt begleiteten Rolfsen und Sodann uns, da Harald
+Jetzt begleiteten Rolfsen und Coogan uns, da Harald
 meinte, daß die Piraten keinen Angriff mehr wagen würden.
 
 Jeder kann sich leicht selbst vorstellen, welchen Eindruck
@@ -2531,7 +2529,7 @@ Meere zum Schauplatz seiner Untaten gemacht hatte: das
 war mehr, als sie je vermutet hatten!
 
 <@pagebreak/>
-»Und sein Schiff?« fragte Sodann nun, als wir bei
+»Und sein Schiff?« fragte Sodann nun, als wir der
 Leiche Sindra Mar’s zuschritten.
 
 »Kein Schiff werden Sie sehen,« erwiderte Harst kurz. —
@@ -2579,8 +2577,8 @@ Erklärte ernst — zum Schluß:
 war … Und daß er es erkannte, daß er in heller Wut sich
 auf den Verbrecher stürzte, kostete ihm das Leben.«
 
-So fand der Kapitän eine ekelte malerische Ruhestätte in
-Sanddünen der kleinen Insel angesichts des endlosen
+So fand der Kapitän eine letzte malerische Ruhestätte in
+den Sanddünen der kleinen Insel angesichts des endlosen
 Meeres.
 
 <@pagebreak/>
@@ -2591,10 +2589,10 @@ Meeres.
 Wir haben dann das Eiland mit Hilfe der Besatzung
 der Jacht aufs genaueste durchforscht.
 
-war jedoch außer uns niemand mehr auf der Insel.
+Es war jedoch außer uns niemand mehr auf der Insel.
 
 Und daher lichtete die Jacht mittags die Anker und
-steuerte ostwärts auf die Park-Straße zwischen der Spitze
+steuerte ostwärts auf die Palk-Straße zwischen der Spitze
 Nordindiens und Ceylon zu.
 
 Ich hatte bisher keine Gelegenheit gehabt, Harald
@@ -2614,7 +2612,7 @@ Und seine Stimme klang ebenso seltsam rauh, als er erwiderte:
 »Inwiefern?«
 
 »Zunächst — er hat die Besatzungen all der von ihm
-gekaperten Dampfer niedergemetßzelt. Die Dampfer gelten ja
+gekaperten Dampfer niedergemetzelt. Die Dampfer gelten ja
 als mit Mann und Maus verschollen.«
 
 Pause.
@@ -2622,14 +2620,14 @@ Pause.
 »Was er sonst noch getan, sollst Du nachher in Ozeanas
 Gegenwart hören. Wenn sie aufwacht, wenn sie dann gespeist
 hat, werde ich erfahren, wo das … Piratendorf liegt,
-in dem Lomarlay mit Weibern und seinen Gesellen herumstritt.«
+in dem Lomarlay mit Weibern und seinen Gesellen herumtollt.«
 
 »Piratendorf?«
 
-»Zu — er erwähnt es in seiner Beichte. — Laß das
+»Ja — er erwähnt es in seiner Beichte. — Laß das
 jetzt … Nachher!«
 
-»Cm — und … und sein Gift? darf ich danach
+»Hm — und … und sein Schiff? darf ich danach
 fragen?«
 
 »Ah — — das Schiff! Auch das erwähnte er. Und
@@ -2640,15 +2638,15 @@ weiter. — —
 Vier Uhr nachmittags war’s.
 
 Da saßen wir beide und Ozeana an dem Tischchen in der
-Kapttänkajüte.
+Kapitänskajüte.
 
 Da begann Harald, indem er Ozeana freundlich zunickte:
 
 »Seien Sie jetzt tapfer! Ich will Ihnen die Beichte
-Ab größten Schurken vorlesen, den je die Erde getragen
-hat.
+des größten Schurken vorlesen, den je die Erde getragen
+hat.«
 
-»Ah — meines Bar Und sie Lp l9se:
+»Ah — meines Vaters!« Und sie erblaßte.
 
 »Nein, Ozeana … Lomarlay ist … *nicht* Ihr
 Vater! — Hören Sie.
@@ -2659,7 +2657,7 @@ Ich, Sidney Lomarlay, bekenne folgendes:
 
 Ozeana ist nicht mein Kind, sondern das meiner
 Jugendliebe, die den Major Barton geheiratet hat. Aus
-Bache, weil sie mich verschmähte, habe ich ihr Ozeana,
+Rache, weil sie mich verschmähte, habe ich ihr Ozeana,
 die eigentlich Judith Barton heißt, geraubt und … zur
 <@pagebreak/>
 Verbrecherin, zu meiner Gehilfin erzogen.
@@ -2667,7 +2665,7 @@ Verbrecherin, zu meiner Gehilfin erzogen.
 Wenn es mir auch nie gelang, Judith zur Teilnahme
 an einem meiner Beutezüge zur See zu bewegen,
 so benutzte ich sie doch als Spionin. Der Gedanke, daß
-Amelia Glatteis Kind durch mich moralisch gemordet
+Amelia Glosters Kind durch mich moralisch gemordet
 worden war, hat meinen Haß befriedigt. —
 
 Ihr aber, Ihr weisen Herren, die Ihr die Staaten
@@ -2677,28 +2675,28 @@ meine Schöpfung ist!
 
 Dort habe ich meine Siege gefeiert, dort habe ich
 den Auswurf der Menschheit angesiedelt, habe all diese
-»Mörder, Verbrecher, Mörderinnen, Dirnen, Betrügerinnen
+Mörder, Verbrecher, Mörderinnen, Dirnen, Betrügerinnen
 noch mehr … sinken lassen.
 
 Eine Pesthöhle der Verworfenheit ist mein Dorf!
 Und von dort werden mir geeignete Nachfolger erstehen,
 die den Seeraub fortsetzen.
 
-Freilich — *meine* Schiff, mein Unterseeboot, das
+Freilich — *mein* Schiff, mein Unterseeboot, das
 ich mühsam vom Grunde des Ozeans für meine Zwecke
 hob und wieder instand setzte, — dieses prachtvolle
 Schifflein wird dann vielleicht nicht mehr die Meere
 heimlich durchkreuzen, wird mit mir in die Tiefe gegangen
 sein! —
 
-Wie ich meine Jugendliebe Amelia Glatter gehaßt
+Wie ich meine Jugendliebe Amelia Gloster gehaßt
 habe, so hasse ich die ganze Menschheit! Mein Leben
-war nichts als eine Reihe farbloser Taten! Mein -
+war nichts als eine Reihe ruchloser Taten! Mein
 Leben war ein einziges Hohngelächter über die Dummheit
 der Menschen, die nicht ahnten, daß der Detektiv
 Sidney Lomarlay selbst der größte Verbrecher war!
 
-Es lebe die Niedertracht, die Gemeinheit, »die: Verderbtheit!
+Es lebe die Niedertracht, die Gemeinheit, die Verderbtheit!
 
 > Sidney Lomarlay
 
@@ -2708,16 +2706,16 @@ Es lebe die Niedertracht, die Gemeinheit, »die: Verderbtheit!
 
 <@pagebreak/>
 
-Nie werde ich den Anblick des verzerrten Gesichte Judith
+Nie werde ich den Anblick des verzerrten Gesichts Judith
 Bartons vergessen.
 
 Nie den heiseren Ruf, mit dem sie hochschnellte, als
 Harald das Schriftstück jetzt wieder zusammenfaltete.
 
 »Mr. Harst — ich kenne das Dorf! Mr. Harst, ich werde
-die Jacht dorthin führen!
+die Jacht dorthin führen!«
 
-Die Augen des blonden Weibes Anfühlten Haß … maßlosen
+Die Augen des blonden Weibes sprühten Haß … maßlosen
 Haß.
 
 Und dann — kam der Rückschlag der ungeheuren Aufregung.
@@ -2727,26 +2725,26 @@ Arme.
 
 * * *
 
-As der folgenden Nacht gegen ein Uhr morgens …
+In der folgenden Nacht gegen ein Uhr morgens …
 
-Eine regnerische, bürge Nacht. — Die Orkalla liegt
+Eine regnerische, böige Nacht. — Die Orkalla liegt
 dem Klippengürtel der Insel Havaratti, die zu den
 Lakkediven gehört, vor Anker.
 
 Ist soeben erst mühsam, vorsichtig mit Hilfe eines Bootes
-hier in diese »Hafteten hineingelotst worden.
+hier in diese Untiefen hineingelotst worden.
 
 Und neben ihr liegt das englische kleine Kanonenboot
 Vanhattan. —
 
 Judith Barton hat uns genau beschrieben wie man die
 Bucht auf der anderen Seite der Insel ansteuern könne, in
-der das Piratendorf hart am Ufer seine lustigen New
+der das Piratendorf hart am Ufer seine luftigen Hütten
 emporreckt — unter freundlichen Palmen.
 
-Hat uns beschrieben, wo die ständigen Wachtposten an
-Eingang der Bucht auch nachts für die Sicherheit des Verbrecherkreise
-sorgen. —
+Hat uns beschrieben, wo die ständigen Wachtposten am
+Eingang der Bucht auch nachts für die Sicherheit des
+Verbrecherdorfes sorgen. —
 
 <@pagebreak/>
 Nun kletterten wir beide ins Boot, dazu der Kapitän
@@ -2776,7 +2774,7 @@ Sie schleicht voran.
 
 Nur Harst und ich folgen ihr.
 
-Und nähern uns dem hohen Baume, in »dessen Krone die
+Und nähern uns dem hohen Baume, in dessen Krone die
 beiden Wachtposten in einem Hüttchen sitzen.
 
 Einem nach der See hin offenen Hüttchen, zu dem Bambusleitern
@@ -2792,7 +2790,7 @@ Oben … brennt eine halb abgeblendete Laterne am
 Boden des Baumhäuschens.
 
 Zwei Chinesen, Galgenvogelgesichter, hocken da und
-Tauchen.
+rauchen.
 
 Schwatzen.
 
@@ -2831,14 +2829,14 @@ Eine halbe Stunde später werden die Jacht und das
 Kanonenboot in die Buchtmündung gelotst.
 
 Wieder mit äußerster Vorsicht, denn am Dorfe stehen
-wehe Posten, und deshalb ist auch ein Einkreisung unmöglich.
+weitere Posten, und deshalb ist auch eine Einkreisung unmöglich.
 —
 
-Kapitän Knopfloch von dem Vanhattan hat die Geschützte
+Kapitän Kappsing von dem Vanhattan hat die Geschützte
 feuerbereit machen lassen.
 
 Unser Revolvergeschütz ist gleichfalls auf das Dorf gerichtet,
-von dem wir nur zwei erleuchtete Fenster in diese!
+von dem wir nur zwei erleuchtete Fenster in dieser
 Dunkelheit sehen. —
 
 Die Nacht schwindet langsam.
@@ -2851,13 +2849,13 @@ Das Pestnest drüben zeigt sich deutlicher.
 Und — am Ufer an einer Holzbrücke liegt das Piratenschiff,
 das einstige Kriegsboot, das U-Boot. —
 
-Lomarlay schläft stete an Bord.
+Lomarlay schläft stets an Bord.
 
 Judith weiß es.
 
-Er ist überaus mißtrauisch. -
+Er ist überaus mißtrauisch. —
 
-Kapitän Knopfloch gibt uns ein Zeichen.
+Kapitän Kappsing gibt uns ein Zeichen.
 
 Und dann … dann … ein Granathagel.
 
@@ -2885,7 +2883,7 @@ Und Judith steht neben uns auf dem Vorschiff der Jacht.
 
 Unser Revolvergeschütz kracht.
 
-Kutter, Boote — alles, was am Ufer liegt, was zur.
+Kutter, Boote — alles, was am Ufer liegt, was zur
 Flucht dienen könnte, wird zerfetzt, zerlöchert.
 
 Dann — plötzlich Stille.
@@ -2905,18 +2903,17 @@ Finden … Lomarlays Leiche neben der eines
 Weibes.
 
 So war er doch nicht an Bord des U-Bootes gewesen!
-… hatte ihn der Tod in den Armen irgend einer Dirne ereilt.
--
+So hatte ihn der Tod in den Armen irgend einer Dirne ereilt.
 
 Wir wenden uns ab.
 
 <@pagebreak/>
-Judith ist bleich Mem — Wir steigen die Hügel
+Judith ist bleich geworden. — Wir steigen die Hügel
 der Insel empor.
 
 Schauen gen Osten.
 
-he dort lichten sich die Wolken … die Sonne bricht
+Und dort lichten sich die Wolken … die Sonne bricht
 durch.
 
 Die Sonne umspielt uns.
@@ -2934,8 +2931,10 @@ Die Sonne verscheucht das letzte Gewölk.
 
 Es ist, als ob die Liebe Judith zulächelt. — —
 
+* * *
+
 <@pagebreak/>
-Frau Ingenieur Laronge hat uns vorgestern die Geburt.
+Frau Ingenieur Laronge hat uns vorgestern die Geburt
 ihres ersten Kindes angezeigt.
 
 Hat geschrieben: … Der Junge wird Harald heißen,
@@ -2952,7 +2951,7 @@ Nun ist die Geschichte des Piratendorfes beendet.
 Die nächste fängt an — von Hexen und Kesseln, Dämpfen
 und anderen Dingen.
 
-Das alles kommt nun an die Reihe - im folgenden
+Das alles kommt nun an die Reihe — im folgenden
 Band.
 
 > Ende!
