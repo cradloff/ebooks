@@ -3,7 +3,7 @@
 <h1>Das Piratendorf</h1>
 
 <h2>1. Kapitel.</h2>
-<h3>Die Klappe in der Wand,</h3>
+<h3>Die Klappe in der Wand.</h3>
 
 »Leiser — zum Teufel!!«
 
@@ -44,7 +44,7 @@ an eine kleine Batterie angeschlossen war.
 
 Reichte mir die eine Hörmuschel. —
 
-Nacht war’s
+Nacht war’s.
 
 Etwa zwölf Uhr.
 
@@ -163,7 +163,7 @@ Wut den Atem benimmt.
 
 Dann … Stille … Stille …
 
-Und jetzt … das Knarren einer Tür,
+Und jetzt … das Knarren einer Tür.
 
 Und wieder Stille.
 
@@ -399,7 +399,7 @@ Wie gesagt — das ist heute genau vier Wochen her.
 
 Sindra Mar zeigte sich außerordentlich anstellig. Er war
 bescheiden, wortkarg und fleißig. Er hielt sich zumeist ganz
-Für sich allein.
+für sich allein.
 
 Nach einer Woche schrieb ich Hockins, daß ich mit Sindra
 Mar bisher zufrieden sei.
@@ -412,7 +412,7 @@ Wieder verging eine Woche.
 
 Da kam einer der Aufseher der dritten Mine zu mir
 und erklärte, Sindra Mar sei schon verschiedentlich von ihm
-Spät abends beobachtet worden, wie er von dem sogenannten
+spät abends beobachtet worden, wie er von dem sogenannten
 <@pagebreak/>
 Pamban-Felsen aus mit einer kleinen Laterne nach dem
 Meere hin Zeichen gebe.
@@ -552,7 +552,7 @@ Schlafkoje, der Stimme nach ein jüngerer Mensch.«
 Aha — er log — — er verschwieg Judith Longfellow!!
 
 »Und die beiden sprachen nur über das Wetter und
-Über einen Ausflug. — Wichtiger ist, daß Sindra Mar sich
+über einen Ausflug. — Wichtiger ist, daß Sindra Mar sich
 <@pagebreak/>
 einen Durchschlupf in der Hauswand unter seinem Bett angelegt
 hat, eine Klappe, durch die er unbemerkt ein- und
@@ -673,12 +673,12 @@ nicht aufzuschauen.
 Tompsen noch nicht hier saß und uns erwartete?« fügte
 Harst ebenso gutmütig hinzu. »Reden Sie doch! Sie wissen
 nun ja, daß wir in Wahrheit Harst und Schraut heißen
-Und Detektive sind.«
+und Detektive sind.«
 
 Da — — hob sie den Kopf.
 
 Flüsterte — und auf alles andere war ich vorbereitet,
-Nur nicht auf *die* Worte:
+nur nicht auf *die* Worte:
 
 »Ich bin ja selbst Detektivin, Mr. Harst. Ich bin hier
 nach Orkalla geschickt worden, weil mein Chef Mr. Sidney
@@ -772,7 +772,7 @@ Ich folgte ihm.
 Und draußen trennten wir uns.
 
 Judith schlief im zweiten Stock, konnte also nur entweder
-durch die Vorher- oder die Hintertür ins Freie.
+durch die Vorder- oder die Hintertür ins Freie.
 
 Ich bewachte die Vordertür.
 
@@ -845,7 +845,7 @@ Bindfaden zusammen, warf beides ins Wasser und — — befestigte
 das andere Ende der langen Schnur so an den Felsen
 des Ufers, daß der Bindfaden niemandem auffallen konnte.
 
-Darauf eilte sie wieder davon
+Darauf eilte sie wieder davon.
 
 Wir aber blieben.
 
@@ -1040,7 +1040,7 @@ Wasser* dies getan haben.«
 
 Ich war geradezu sprachlos.
 
-*Die* Beweisführung war verblüffend und Überzeugend
+*Die* Beweisführung war verblüffend und überzeugend
 zugleich.
 
 Harst zog den Deckel von dem Unterteil des Büchschens
@@ -1224,7 +1224,7 @@ dort aufgestellten kalten Speisen und Getränken.
 Und Harald sagte, indem er seine Uhr zog:
 
 »Sie ist nicht stehengeblieben. Es ist … elf Uhr vormittags!
-Wir sind also doch viele Stunden bewußtlos gewesen.
+Wir sind also doch viele Stunden bewußtlos gewesen.«
 
 Wir spürten Hunger.
 
@@ -1243,7 +1243,7 @@ Harald schaute mich vielsagend an.
 »Man wird uns ausbooten, mein Alter. Spürst Du,
 wie der Tee wirkt?!«
 
-»ausbooten?«
+»Ausbooten?«
 
 Er antwortete nicht, zuckte nur die Achseln, ging und
 legte sich auf sein Bett, in den noch nassen Kleidern.
@@ -1276,7 +1276,7 @@ Inselchens. Rundum kein Land zu erblicken … Und die
 Sonne sinkt … Es wird Abend … Wir haben viel erlebt.«
 
 Da schüttelte ich auch den Rest der halben Betäubung
-von mir ab
+von mir ab.
 
 Da ermannte ich mich … Und Harald half mir.
 
@@ -1390,7 +1390,7 @@ erkennt, vor einem der Wurzelstöcke des Baumriesen.
 Ich tat es.
 
 Ich tat es rascher klopfenden Herzens, denn ich war
-Überzeugt, daß wir vor einer wichtigen Entdeckung standen.<@refnote 2/>
+überzeugt, daß wir vor einer wichtigen Entdeckung standen.<@refnote 2/>
 
 <@pagebreak/>
 Wir hatten nun die unterspülte Wurzelmasse dicht vor
@@ -1589,7 +1589,7 @@ wäre, die Beute den Banditen wieder abzujagen. —
 Tompsen zog den ersten Fisch heraus.
 
 Ärgerte sich: am Haken hing ein Seeteufel. »Einer jener
-unglaublich häßlichen Fische, die leider zu gern anbeißen.
+unglaublich häßlichen Fische, die leider zu gern anbeißen.«
 
 Fluchend warf der Generaldirektor das Ungeheuer
 wieder ins Wasser zurück.
@@ -1702,7 +1702,7 @@ Der Kapitän stutzte.
 »Verdammt — das ist ja …«
 
 »Öffnen Sie jetzt den Brief Tompsens,« unterbrach
-Harst ihn. Sie wissen, daß jemand Sie dazu auffordern
+Harst ihn. »Sie wissen, daß jemand Sie dazu auffordern
 wird. Der Jemand bin ich!«
 
 »Verdammt!« knurrte Groonar und gehorchte.
@@ -1739,7 +1739,7 @@ augenblicklich entlassen!«
 Ein tückischer Blick traf Harald.
 
 »Ich … gehorche ja schon!« lachte der widerliche Patron
-Höhnisch. »Was wollen Sie denn noch mehr?! Ich
+höhnisch. »Was wollen Sie denn noch mehr?! Ich
 werde sofort an Deck gehen.«
 
 Indem … klopfte es …
@@ -1786,10 +1786,10 @@ Sagte ganz bescheiden:
 »Mr. Lomarlay, Sie befinden sich da wirklich in einem
 schweren Irrtum. Ich bin Harald Harst.«
 
-Der Herr Kollege aus Singapore, Übrigens eine
+Der Herr Kollege aus Singapore, übrigens eine
 stramme imponierende Erscheinung, lächelte ironisch.
 
-»Gestatten Sie,« sagte er mit überlegenem Hohn, «—
+»Gestatten Sie,« sagte er mit überlegenem Hohn, »—
 gestatten Sie zu bemerken, daß ich heute nachmittag unten
 an der Bucht beobachtete, wie Sie beide den Generaldirektor
 so fein eingewickelt haben. Er durfte sich nicht mal nach
@@ -1889,7 +1889,7 @@ Und sagte dann flüsternd — auf Deutsch:
 mächtig sind. Immerhin ist das noch kein Beweis, daß
 Sie beide Harst und Schraut sein können, denn vorläufig
 muß ich dem Detektiv Lomarlay mehr glauben als Ihnen
-beiden.
+beiden.«
 
 »Gewiß, Herr Rolfsen … Das müssen Sie. Ich werde
 Ihnen nun aber den Beweis erbringen, daß Lomarlay sich
@@ -1915,7 +1915,7 @@ Leberfleck über dem Herzen vermerkt finden, während bei
 Freund Schraut ähnliche Merkmale angegeben sind. Sie
 werden diese Merkmale in Augenschein nehmen und dann
 kaum mehr zweifeln, daß Herr Kollege Lomarlay stark auf
-dem Holzwege ist«
+dem Holzwege ist.«
 
 Rolfsen prüfte die Ausweise.
 
@@ -1964,7 +1964,7 @@ zweideutige Antwort.
 Und — ich schwieg. Ich war auch müde und matt.
 
 Fünf Minuten später war ich trotz meiner Fesseln auf
-Meinem Bett eingeschlafen. — —«
+meinem Bett eingeschlafen. — —
 
 Zwei endlose Tage und Nächte brachten wir in dem
 engen stickigen Verschlage zu.
@@ -1979,7 +1979,7 @@ wollten.
 Harald blieb stumm. —
 
 Desto eifriger gestaltete sich insgeheim der Verkehr
-Zwischen uns und Rolfsen und dem Steuermann Coogan.
+zwischen uns und Rolfsen und dem Steuermann Coogan.
 Sie verschafften uns jede nur irgend mögliche Erleichterung,
 mußten andererseits jedoch sehr vorsichtig sein, damit der
 Kapitän nicht argwöhnisch würde.
@@ -2005,7 +2005,7 @@ meiner Erinnerung haften geblieben sind.
 Elf Uhr war’s.
 
 Da erschien sehr eilig Rolfsen in unserer Kammer und
-Meldete, daß die Insel in Sicht sei.
+meldete, daß die Insel in Sicht sei.
 
 Harst überlegte kurz.
 
@@ -2280,7 +2280,7 @@ langem Satz als Erster auf trockenen Boden.
 Die vier Singhalesen mußten im Boote bleiben.
 
 »Ihr schießt auf jeden, der sich nähert und auf Anruf
-Nicht stehen bleibt,« befahl Harald.
+nicht stehen bleibt,« befahl Harald.
 
 Dann eilten wir den Bäumen zu, vorüber an Sindra
 Mar’s reglosem Körper.
@@ -2298,7 +2298,7 @@ Wir hatten noch unsere kleinen treuen Repetierpistolen.
 Wir hatten sie, und es war so gut, als ob wir zu einem
 Dutzend gegen die Lichtung und das Blockhaus vorrückten.
 
-In der Blockhütte war es hell,
+In der Blockhütte war es hell.
 
 Die Fenster schimmerten durch das Dunkel. Die Tür,
 stand halb offen.
@@ -2333,7 +2333,7 @@ Diamantenräuber gehörte, zu den Piraten.
 
 Wir warteten.
 
-Lagen im Schatten eines Busches
+Lagen im Schatten eines Busches.
 
 Hatten das Bild des verzweifelten blonden Mädchens
 dicht vor uns. —
@@ -2351,7 +2351,7 @@ Nach dem dort liegenden Revolver.
 
 Richtete die Waffe gegen die eigene Stirn.
 
-Stand mit dem Rücken nach uns hin
+Stand mit dem Rücken nach uns hin.
 
 Ein Schatten glitt hinter sie. Harst war’s. Harst packte
 ihren Arm … Mit einem Schrei fuhr sie herum … Die
@@ -2507,7 +2507,7 @@ Und bevor wir Ozeana nun allein ließen, erklärte
 Harald nochmals:
 
 »Glauben Sie mir, Ozeana, auch für Sie wird die
-Stunde kommen, wo die Vergangenheit hinter Ihnen versinkt.
+Stunde kommen, wo die Vergangenheit hinter Ihnen versinkt.«
 
 Er reichte ihr die Hand.
 
@@ -2529,7 +2529,7 @@ Meere zum Schauplatz seiner Untaten gemacht hatte: das
 war mehr, als sie je vermutet hatten!
 
 <@pagebreak/>
-»Und sein Schiff?« fragte Sodann nun, als wir der
+»Und sein Schiff?« fragte Coogan nun, als wir der
 Leiche Sindra Mar’s zuschritten.
 
 »Kein Schiff werden Sie sehen,« erwiderte Harst kurz. —
@@ -2633,7 +2633,7 @@ fragen?«
 »Ah — — das Schiff! Auch das erwähnte er. Und
 wenn Du auch das hörst, wird Dir alles klar werden — die
 geheimnisvollen Vorgänge in Orkalla an der Bucht — und
-weiter. — —
+weiter. — —«
 
 Vier Uhr nachmittags war’s.
 
@@ -2798,13 +2798,13 @@ In der Ecke liegt ein Weißer … ein hagerer Kerl.
 
 Erhebt sich jetzt … Sagt zu den beiden Eigelbvisagen:
 
-»Es wird Zeit! »Die Edelsteine haben wir … Ein
+»Es wird Zeit! Die Edelsteine haben wir … Ein
 Boot stehlen wir noch … dann mag der Kapitän uns
 nachpfeifen.«
 
 Und er blendet die Laterne vollends ab. —
 
-Wir beeilen uns, klettern die Leitern wieder hinunter
+Wir beeilen uns, klettern die Leitern wieder hinunter.
 
 Stehen unten auf der Lauer.
 
@@ -2832,7 +2832,7 @@ Wieder mit äußerster Vorsicht, denn am Dorfe stehen
 weitere Posten, und deshalb ist auch eine Einkreisung unmöglich.
 —
 
-Kapitän Kappsing von dem Vanhattan hat die Geschützte
+Kapitän Kappsing von dem Vanhattan hat die Geschütze
 feuerbereit machen lassen.
 
 Unser Revolvergeschütz ist gleichfalls auf das Dorf gerichtet,
@@ -2871,7 +2871,7 @@ Wie eine Seifenblase.
 
 Das Dorf brennt.
 
-Menschen flüchten
+Menschen flüchten.
 
 Granathagel überschüttet das Domizil der Verbrecher.
 
@@ -2937,7 +2937,7 @@ Es ist, als ob die Liebe Judith zulächelt. — —
 Frau Ingenieur Laronge hat uns vorgestern die Geburt
 ihres ersten Kindes angezeigt.
 
-Hat geschrieben: … Der Junge wird Harald heißen,
+Hat geschrieben: »… Der Junge wird Harald heißen,
 und Sie beide sollen Taufpate sein.«
 
 Wir werden die Reise bis Orkalla nicht scheuen. Wir
