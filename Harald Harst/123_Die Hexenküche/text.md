@@ -65,7 +65,7 @@ Klippen vor dem riesigen Felsgebilde erklettert hat.«
 »Ah — Sie meinen, daß dieses Weib von hier schwimmend
 entkommen ist?«
 
-»Oder in einem kleinen Boot, Nein … — Schwimmend
+»Oder in einem kleinen Boot. Nein … — Schwimmend
 wohl kaum. Haifische sind nicht wählerisch.«
 
 »Ganz recht! — Dann müßte man eine Barkasse hinüberschicken
@@ -184,7 +184,7 @@ wird’s allerdings schwerhalten.«
 Lippen kam, ist wahr gewesen, — — Unsinn: *nicht* wahr
 gewesen,« verbesserte er sich schnell.
 
-Und wir beide lachten schallend, denn Gospard war als
+Und wir beide lachten schallend, denn Gaspard war als
 »Garnspinner« berüchtigt! —
 
 Wir gingen nun hinab ins Vorschiff des großen gedeckten
@@ -193,7 +193,7 @@ segelte.
 
 In einer kleinen Kammer lag John Johnston mit
 verbundenem linken Bein auf ein paar Decken und alten
-Segeln
+Segeln.
 
 Neben ihm stand eine Karbidlaterne, die seinen Kopf
 hell beleuchtete.
@@ -231,7 +231,7 @@ John Johnstons verzog sich ironisch.
 »Nachprüfen, ob ich … lüge, Mr. Harst?! — Oh,
 dann kehren Sie nur lieber sofort um und lassen Sie mich
 in Eisen legen, denn — — Sie werden mich für verrückt
-Halten, wenn ich Ihnen meine Bobachtungen mitteile.«
+halten, wenn ich Ihnen meine Bobachtungen mitteile.«
 
 »Verrückt?! Das wohl kaum! — Ich habe im Leben
 so unendlich viel Seltsames durchgemacht, daß ich alles für
@@ -270,7 +270,7 @@ hervorstieß, als ob er dabei eine grauenvolle Vision schaute,
 machte einen seltsamen Eindruck. —
 
 Harst beugte sich tiefer zum Lager des Verwundeten
-hinab
+hinab.
 
 <@pagebreak/>
 »Ist das alles?« fragte er eindringlich.
@@ -291,7 +291,7 @@ derben Leinenanzugs …
 
 Und … er legte eine lange blonde Haarsträhne und
 einen malaiischen Kris auf die leichte Decke, die seinen Leib
-verhüllte
+verhüllte.
 
 <h2>2. Kapitel.</h2>
 <h3>Karbol mit Öl.</h3>
@@ -301,7 +301,7 @@ Ozeans gegen die Bordwände des Kutters.
 
 Draußen auf Deck hörten wir Gaspard hin und her
 stampfen, hörten, wie er Seridan zurief, dem er das Ruder
-Überlassen haben mußte:
+überlassen haben mußte:
 
 »Bist ein Rindvieh, Bob Seridan!! Laß den Kutter
 zwei Strich abfallen, oder wir segeln an dem Felsding da
@@ -359,11 +359,11 @@ flog.«
 Er lachte schneidend auf.
 
 »England hat mich Sarg England hat mich bloßgestellt!!
-Hüte Dich, England!!
+Hüte Dich, England!!«
 
 <@pagebreak/>
 Diese schrille Drohung, hervorgestoßen in jäh erwachtem
-Paroxysmus von Wut, machte einen tiefen Eindruck auf mich,
+Paroxysmus von Wut, machte einen tiefen Eindruck auf mich.
 
 Harst blieb kalt.
 
@@ -395,7 +395,7 @@ Malcolm ist bewohnt!«
 von dem Rauche?«
 
 »Vulkanische Erscheinungen, meinten sie insgesamt.
-aber — das ist Unsinn! Der Qualm steigt ganz unregelmäßig
+Aber — das ist Unsinn! Der Qualm steigt ganz unregelmäßig
 auf. Und — — wechselt die Farbe! Ich als Chemiker
 verstehe etwas davon. Der Fels muß hohl sein, und
 Menschen hausen darin, die dort Steinkohlen verbrennen.«
@@ -406,7 +406,7 @@ Harald nickte sinnend.
 die alle Ursache haben, sich verborgen zu halten.«
 
 »Wie ich!!« hohnlachte Josua Jolling. »Wie ich, der ich
-doch wahrlich der Welt viel Gutes erwiesen habe! ich
+doch wahrlich der Welt viel Gutes erwiesen habe! Ich
 war’s, der …«
 
 »Ihre Erfindungen kenne ich. — Sie sind erschöpft, Mr.
@@ -517,7 +517,7 @@ entferntesten ahnst.«
 »Und — Du ahnst es?«
 
 <@pagebreak/>
-»Ja … Und ich — werde es nicht verhindern. ich
+»Ja … Und ich — werde es nicht verhindern. Ich
 werde nur Vorsorge treffen, daß wir die Sieger bleiben.«
 
 Ich schüttelte den Kopf.
@@ -538,7 +538,7 @@ die Aufgabe, des alten Edward Gaspard kritische Fragen,
 wozu in aller Welt gerade jetzt die Deckplanken geölt werden
 sollten, zu beantworten.
 
-ich erklärte achselzuckend:
+Ich erklärte achselzuckend:
 
 »Lieber Gaspard, — weshalb, wozu, warum?! — das
 weiß ich genau so wenig wie Sie!«
@@ -549,7 +549,7 @@ Und — sofort verbreitete sich auf Deck ein scharfer Geruch
 nach Karbol.
 
 »Verdammt,« knurrte Gaspard Freund Harald an.
-Haben Sie etwa Karbol in das Öl getan, Mr.
+»Haben Sie etwa Karbol in das Öl getan, Mr.
 Harst?!«
 
 »Ja!! Das gibt frisch gescheuerten Planken einen schönen
@@ -565,7 +565,7 @@ Trotz Gaspards Protest mußte Bob Seridan das Deck
 Und ich — ich sah zu, roch — roch den infernalischen
 Duft und … ahnte nicht, was Harst vorhatte.
 
-dann sagte er neben mir:
+Dann sagte er neben mir:
 
 »Aha — die leichte Nebelbank hat sich gelichtet! Da ist
 der Rocher de Malcolm!«
@@ -610,7 +610,7 @@ Ganze Schwärme kreisten über den Klippenzacken.
 
 Wie weiße Wolken.
 
-Lärmend — in steter Bewegung
+Lärmend — in steter Bewegung.
 
 <@pagebreak/>
 Ein Vogelstaat von Tausenden von leichtbeschwingten
@@ -637,7 +637,7 @@ Schoner hindurch könnte!«
 
 Ohne besondere Gefahr glitt der Kutter in das völlig
 ruhige Wasser zwischen dem Hutfelsen und den Klippen
-Hinein.
+hinein.
 
 Und — imselben Moment tauchte in der Vorderluke Bob
 Seridan wieder auf, der den Professor in den Armen trug.
@@ -657,7 +657,7 @@ Jolling lehnte mit halb geschlossenen Augen in der
 Ecke der vertieften Halbrundbank, lächelte schwach.
 
 Sagte leise: »Ich möchte mir den Rocher de Malcolm
-Doch auch einmal aus nächster Nähe betrachten.«
+doch auch einmal aus nächster Nähe betrachten.«
 
 »Was zu verstehen ist,« nickte Harald. »Denn durch das
 Fernrohr können Sie von der Pirateninsel aus kaum sehr
@@ -673,7 +673,7 @@ hatte zugegeben, daß er kurzsichtig sei, und hatte
 daher auch nie die »schwebende blonde Frau« als blond feststellen
 können!! —
 
-Der Kutter wurde nun von Edward Gospard in einer
+Der Kutter wurde nun von Edward Gaspard in einer
 buchtähnlichen Felsspalte vertäut.
 
 Dann meinte Harald, wir könnten nun einmal … nach
@@ -695,7 +695,7 @@ So stierte er Harald an.
 Und … stammelte dann:
 
 »Sie … Sie wollen ein Weib hier bemerkt haben?!
-ein Weib?! — Mister Harst, das muß eine Sehtäuschung
+Ein Weib?! — Mister Harst, das muß eine Sehtäuschung
 gewesen sein!«
 
 »Vielleicht ein Seegespenst, keine Sehtäuschung!«
@@ -714,7 +714,7 @@ sogar die Sonnenstrahlen ab. —
 »Bob,« befahl Harald dem wortkarger Seridan,
 <@pagebreak/>
 »während wir drei nun über die Felsen turnen, werden Sie
-hier Krankenpfleger spielen und unser Mittagessen vorbereiten.
+hier Krankenpfleger spielen und unser Mittagessen vorbereiten.«
 
 »Sehr wohl, Mister Harst.«
 
@@ -733,7 +733,7 @@ vermutlich wissen, wie es mit dem Felsen und seinen Ausgängen
 bestellt war, hoffte aber, daß wir diesen Zugang nach
 oben *nicht* finden würden! —
 
-Wir drei, Harst, Gospard und ich, verließen den Kutter
+Wir drei, Harst, Gaspard und ich, verließen den Kutter
 und kletterten am Rande der »Stirn« dicht am Wasser über
 Geröll und Steine dahin — kletterten langsam und bedächtig,
 hatten zur Rechten stets die Steinwand mit ihren Rissen
@@ -774,18 +774,18 @@ machte Harald halt.
 »Ruhen wir uns aus,« sagte er, setzte sich und rauchte
 sich eine Mirakulum an.
 
-»Nun will ich Sie einweihen, lieber Gospard,« begann
+»Nun will ich Sie einweihen, lieber Gaspard,« begann
 er dann.
 
 Und erzählte, was sich in Josua Jollings Krankenkammer
-abgespielt hatte und was Edward Gospard bisher
+abgespielt hatte und was Edward Gaspard bisher
 nicht wußte.
 
 »Verdammt — ein Professor!!« entfuhr es dem biederen
 Maat. »Ist’s möglich — ein Professor!! Und ein Weib
 soll oben in dem Rauch geschwebt haben!! Na — solch ein
 Blödsinn! Gelogen hat der Kerl — gelogen! So wahr ich
-Edward Gospard heiße!«
+Edward Gaspard heiße!«
 
 »Das hat er!« meinte Harald ernst. »Gelogen, weil er
 mir doch ein … Geheimnis versprochen hatte! Und da
@@ -848,7 +848,7 @@ Spiegel, der zusammen mit einem zweiten an einer
 Stange befestigt war.
 
 Nach Art jener Fensterspione befestigt, die es am
-Fenster sitzenden alten Damen gestatten, die Stieße entlang
+Fenster sitzenden alten Damen gestatten, die Straße entlang
 alles zu beobachten.
 
 Hier aber hatte dieser »Spion« aus zwei Spiegeln
@@ -871,7 +871,7 @@ Lachte kurz auf.
 
 »Nur ein Weib kann so töricht sein, sich derart zu einem
 Angriff hinreißen zu lassen und … sich zu verraten! — Na,
-Gospard, — ob der Rocher de Malcolm bewohnt ist?!«
+Gaspard, — ob der Rocher de Malcolm bewohnt ist?!«
 
 »Ob er’s ist — — verdammt!!« knurrte der alte Seebär
 zog seinen Seemannsknief aus der Hosentasche und fügte
@@ -887,7 +887,7 @@ lange Vieh mit unglaublicher Kraft aufs Trockene.
 
 Harst warnte:
 
-»Es kann noch eine Granate kommen, lieber Gospard!«
+»Es kann noch eine Granate kommen, lieber Gaspard!«
 
 »Ne, — denn Nu ist ja der Spiegelknüppel unschädlich
 gemacht!« lachte der Alte behaglich. »Ne — ich glaube nicht
@@ -901,7 +901,7 @@ Untier den Leib aufgeschlitzt.
 
 Und — — hatte auch den Magen aufgetrennt.
 
-rief jetzt …
+Rief jetzt …
 
 <@pagebreak/>
 
@@ -923,8 +923,8 @@ Vorsichtig das unappetitliche nasse, schmierige Ding nur
 mit zwei Fingern haltend, kam er auf uns zu.
 
 »Ins Wasser — — abspülen!!« meinte Harald und
-winkte eifrigst. »Den Gestank erträgt kein Mensch, Gospard!
-ins Wasser, abspülen!!«
+winkte eifrigst. »Den Gestank erträgt kein Mensch, Gaspard!
+Ins Wasser, abspülen!!«
 
 Der Seebär grinste.
 
@@ -953,7 +953,7 @@ eingenäht mit einem noch gut lesbaren Firmenaufdruck:
 Und dann sagte er sinnend:
 
 »Die Perücke hat der Hai höchstens vor fünf Stunden
-verschluckt und noch nicht verdaut. — Gospard, untersuchen
+verschluckt und noch nicht verdaut. — Gaspard, untersuchen
 Sie den Haifischmagen weiter.«
 
 Und der Alte nahm einen angeschwemmten Ast und
@@ -973,7 +973,7 @@ Ein Ohr mit einem großen Hautlappen.
 
 Und — — mit etwas Blankem im Ohrläppchen. — —
 
-So — — fand Edward Gospard den Ohrring, die kleine,
+So — — fand Edward Gaspard den Ohrring, die kleine,
 Gemme mit der kunstvollen Goldeinfassung. Die Gemme,
 die einen Hermeskopf mit Flügelhelm darstellte. —
 
@@ -990,7 +990,7 @@ zusammen. Eine Frau wurde von einem Haifisch zerrissen,
 der ihre Perücke und ein Ohr verschlang. Alles andere geht
 uns nichts an.«
 
-»Was denn?« fragte Gospard. »Was geht uns nichts
+»Was denn?« fragte Gaspard. »Was geht uns nichts
 an?«
 
 »Nun, zum Beispiel die Frage, weshalb der Hai in
@@ -1006,7 +1006,7 @@ Erklärte fast feierlich:
 keines durchgemacht habe! Ein Begräbnis, bei dem …«
 
 <@pagebreak/>
-Und — — hier trat eine neue Unterbrechung ein,
+Und — — hier trat eine neue Unterbrechung ein.
 
 Keine … Handgranate!
 
@@ -1038,7 +1038,7 @@ auf — gefesselt.«
 
 Er holte tief Atem.
 
-Der Lump hat aber nicht mit Bob Seridans Kräften
+»Der Lump hat aber nicht mit Bob Seridans Kräften
 gerechnet! Hab’ die Stricke abgestreift, hab’ den Gefangenen
 wie ne Stecknadel gesucht … Der ist nämlich weg, Mister
 Harst, verduftet. Und wenn der Höllenhund nicht die Beinwunde
@@ -1056,7 +1056,7 @@ Harst — mein alter Harst lief jetzt auch.
 Lief nach Süden zu über Geröll und Steine — dorthin,
 woher Bob Seridan gekommen.
 
-Edward Gospard aber brüllte Seridan an:
+Edward Gaspard aber brüllte Seridan an:
 
 »Rindvieh, den Kutter hättest Du nicht verlassen dürfen!
 <@pagebreak/>
@@ -1069,7 +1069,7 @@ Noch nie habe ich so geschwitzt wie damals bei dieser
 Parforcekletterei.
 
 Noch nie habe ich so viel Seemannsflüche gehört wie
-damals aus Gospards stoppelbärtigem Munde.
+damals aus Gaspards stoppelbärtigem Munde.
 
 Denn — — als wir freien Ausblick nach Süden gewannen,
 da sahen wir den Kutter davonsegeln.
@@ -1096,7 +1096,7 @@ und murmelte:
 
 »Ich Rindvieh — ich Rindvieh!«
 
-»Doppeltes Rindvieh!« nickte Edward Gospard erbost.
+»Doppeltes Rindvieh!« nickte Edward Gaspard erbost.
 »Was nun, Mister Harst?! Nun können wir vier hier Robinson
 spielen!!«
 
@@ -1107,7 +1107,7 @@ nicht finden,« ergänzte Harald gerade, als der Kutter
 am Horizont in einer Dunstschicht untertauchte.
 
 Und — seltsam genug: Harst schmunzelte dazu, wandte
-sich an den alten Gospard:
+sich an den alten Gaspard:
 
 »Wir haben doch unser Deck so tadellos duftend gemacht!
 Das Öl ist noch lange nicht eingezogen! Und wer sich die
@@ -1117,11 +1117,11 @@ Geruch weisen, den — — wir einschlagen müssen!«
 
 <@pagebreak/>
 
-Gospard strahlte plötzlich.
+Gaspard strahlte plötzlich.
 
 »Verstehe — — verstehe alles!!«
 
-Oh — er war nicht dumm der brave Gospard! Alles
+Oh — er war nicht dumm der brave Gaspard! Alles
 andere als das! Er fuhr fort:
 
 »Ich kalkuliere, daß das Weib den Bob erledigt hat,
@@ -1143,7 +1143,7 @@ des Kutters sah ich den fettigen Abdruck zierlicher Frauenschuhe.«
 
 »Aha!!« rief der Alte. »Also habe ich recht!«
 
-»Vollkommen, lieber Gospard. — Nachdem sie also Bob
+»Vollkommen, lieber Gaspard. — Nachdem sie also Bob
 »erledigt« und unseren Gefangenen davongetragen hatte,
 schleuderte sie von oben die Handgranate. Inzwischen muß
 aber der Professor …«
@@ -1157,7 +1157,7 @@ der Mann. — Also Jolling beobachtete, daß Sie, Bob, sich
 befreit hatten. Da hat er mit dem blonden Weibe vereinbart,
 uns den Kutter zu entführen.«
 
-»Hm?!« grunzte Gospard zweifelnd.
+»Hm?!« grunzte Gaspard zweifelnd.
 
 Harst ließ sich nicht stören.
 
@@ -1170,11 +1170,11 @@ und Durst kapitulieren, falls sie uns nicht schon früher umgebracht
 haben.«
 
 <@pagebreak/>
-»Na — davon wird nichts!« lachte Gospard grimmig
+»Na — davon wird nichts!« lachte Gaspard grimmig
 und reckte die Fäuste hoch.
 
 »Nein — davon wird nichts,« bestätigte auch Harald.
-»Ihr beide, Gospard und Seridan, bleibt hier in der Spalte.
+»Ihr beide, Gaspard und Seridan, bleibt hier in der Spalte.
 Ihr habt ja Eure Revolver zur Verteidigung. Schraut und
 ich … stürmen den Rocher de Malcolm! Sollte uns
 etwas zustoßen, so könnt Ihr beide auf eigene Faust Euch
@@ -1182,14 +1182,14 @@ zu retten suchen. Ich werde hinter Schraut und mir kleine
 weiße Muschelstückchen ausstreuen, damit Ihr wißt, wo wir
 geblieben sind.«
 
-»Nehmen Sie uns mit,« bat Gospard.
+»Nehmen Sie uns mit,« bat Gaspard.
 
 »Nein … Denn wenn Schraut und ich hier irgendwie
 in eine Patsche geraten, müßt Ihr uns heraushauen! Alle
 vier in einem Hinterhalt — dann sind wir eben alle gleichzeitig
 geliefert!«
 
-Gospard sah das ein. —
+Gaspard sah das ein. —
 
 Und wenige Minuten später brachen Harald und ich
 auf.
@@ -1261,7 +1261,7 @@ Flüsterte mir zu:
 
 »Am Ziel, mein Alter!!«
 
-Ich war überrascht,
+Ich war überrascht.
 
 Ich sah nichts von irgend einer Fortsetzung der Spalte.
 
@@ -1269,7 +1269,7 @@ Nichts!
 
 Und Harald ließ sich wieder auf die Knie nieder.
 
-kroch … rückwärts.
+Kroch … rückwärts.
 
 Und gerade da, wo die Spalte eine sehr enge Stelle
 hatte, wo er soeben eine geraume Weile regungslos lang
@@ -1308,7 +1308,7 @@ Und ich klappte den Stein nun wieder herab, aber —
 ich klemmte auf Haralds Geheiß ein großes Stück Muschel
 mit ein.
 
-Dies sollte Bob und Gospard nötigenfalls auf unsere
+Dies sollte Bob und Gaspard nötigenfalls auf unsere
 Spur bringen.
 
 Die Spalte hier unten zog sich nach Nordwest in das
@@ -1334,7 +1334,7 @@ Gar nichts.
 
 Stiegen höher und höher.
 
-Bis … die Höhle ein Ende hatte,
+Bis … die Höhle ein Ende hatte.
 
 Wie die die Felsspalte draußen.
 
@@ -1357,7 +1357,7 @@ Und — wir standen und horchten.
 
 Horchten.
 
-bis — — Harald flüsterte:
+Bis — — Harald flüsterte:
 
 <@pagebreak/>
 »Riechst Du’s auch?«
@@ -1425,7 +1425,7 @@ Jemand, der dazu sagte:
 
 »Noch einen Augenblick, Miß.«
 
-Mit schrillem Schrei fuhr sie hoch,
+Mit schrillem Schrei fuhr sie hoch.
 
 Ihr Gesicht war farblos.
 
@@ -1500,7 +1500,7 @@ stramme brave Bob klopfte jetzt seine Holzpiep aus und sagte:
 
 (Gaspard hat mir all das nachher genau erzählt.)
 
-"Wohin?" fragt der Alte verwundert.
+»Wohin?« fragt der Alte verwundert.
 
 <@pagebreak/>
 
@@ -1526,7 +1526,7 @@ weit früher sich um uns besorgt zeigten, als wir dies vermuten
 konnten.
 
 Hatte Harald ihnen doch erklärt, wir würden vor drei
-Stunden kaum zurücksein. —
+Stunden kaum zurück sein. —
 
 Gaspard und Seridan folgten den weißen Muschelstückchen,
 die ich ausgestreut hatte.
@@ -1623,12 +1623,12 @@ Dann fragte er unvermittelt:
 Ihre Augen bekamen plötzlich etwas Überirdisches, Visionäres.
 
 »Sie wissen es nicht?!« meinte Harald zweifelnd.
-"Drücken Sie sich genauer aus: Sie wollen es nicht wissen!«
+»Drücken Sie sich genauer aus: Sie wollen es nicht wissen!«
 
 »Nein — ich spreche die Wahrheit: ich weiß es nicht!«
 Und ein unsagbar trauriges Lächeln umspielte ihre Lippen.
 »Ich weiß so vieles nicht … so sehr vieles! Ich …
-könnte Ihnen nicht einmal meinen Namen nennen. ich
+könnte Ihnen nicht einmal meinen Namen nennen. Ich
 habe ihn vergessen, und täglich, stündlich grüble ich darüber
 nach, wie ich … heiße.«
 
@@ -1636,14 +1636,14 @@ In ihren langen dunklen Wimpern zeigten sich ein paar
 Tränen.
 
 Und die klaren Perlen rollten langsam über das liebliche
-Gesicht
+Gesicht.
 
 »Sie kennen doch aber des Professors Namen,« meinte
 Harald nun weit weniger eindringlich und scharf. »Sie
 nannten ihn Josua Jolling … So heißt er auch. — Hat er
 Sie hierher gebracht?«
 
-"Ich weiß es nicht.«
+»Ich weiß es nicht.«
 
 »Wohnen Sie hier allein in dem Rocher de Malcolm?«
 
@@ -1819,7 +1819,7 @@ Brust befestigt war.
 
 Einer jener Haken, an denen noch eine dünne Schnur
 angebracht ist, die den eigentlichen Haken durch einen Ruck
-öffnet
+öffnet.
 
 Und dies geschah, als Bob Seridan nun auf den Füßen
 stand.
@@ -1927,17 +1927,17 @@ jetzt die Antwort — die sanfte Stimme der Blonden:
 die Freiheit kann ich Ihnen und Ihren Gefährten nicht
 wiedergeben — vorläufig nicht! Wenn Sie versprechen,
 nicht fliehen zu wollen, sollen Sie zu eine bessere Zelle
-angewiesen erhalten. Überlegen Sie sich's bis morgen früh,
+angewiesen erhalten. Überlegen Sie sich’s bis morgen früh,
 Mister Harst.«
 
 Dann Stille.
 
-bis Gaspard in jäh losbrechender Wut brüllte:
+Bis Gaspard in jäh losbrechender Wut brüllte:
 
 »Das Genick drehe ich Dir um, Kanaille!! Das Genick!«
 
 »Nicht doch!« meinte Harald etwas ärgerlich. »Benehmen
-Sie sich gesittet, Gospard! — Und jetzt wünsche ich, nicht gestört
+Sie sich gesittet, Gaspard! — Und jetzt wünsche ich, nicht gestört
 zu werden. Es gibt allerlei gegeneinander abzuwägen.«
 
 Leider aber sollte diese Ruhe Harald nicht beschert
@@ -1976,9 +1976,9 @@ Sehfelde.
 Und meine schöne alte Tabakpfeife schenke ich dem, der mir
 sagen kann, was das alles für’n Reim gibt! Ich jedenfalls
 mache mir keinen Vers daraus! — Sie, Mister Harst — Sie
-haben wohl schon einen Vers bereit?"
+haben wohl schon einen Vers bereit?«
 
-»Vielleicht, Gospard."
+»Vielleicht, Gaspard.«
 
 »Oho — — schießen Sie los, Mister!«
 
@@ -2007,7 +2007,7 @@ wie Gaspard und Bob.
 
 Leider aber erklärte Harst nach beliebter Methode:
 
-»Fragt jetzt nichts. Gönnt mir Ruhe! ich muß mit
+»Fragt jetzt nichts. Gönnt mir Ruhe! Ich muß mit
 mir ins Reine kommen, was ich tun soll.«
 
 Und so wurde es denn still in der kühlen Felsspalte.
@@ -2015,7 +2015,7 @@ Und so wurde es denn still in der kühlen Felsspalte.
 Kühl und dunkel.
 
 So dunkel, daß wir sehr bald nichts mehr voneinander
-sahen
+sahen.
 
 Draußen rauschte die Brandung an den Klippen.
 
@@ -2087,7 +2087,7 @@ Wir schauten empor — schauten in das grelle Licht
 einer großen Karbidlaterne.
 
 Und hörten zugleich: Professor Josua Jollings überlaute
-Stimme ...
+Stimme …
 
 <@pagebreak/>
 
@@ -2138,7 +2138,7 @@ Gaspard war sofort einverstanden. Er legte keinerlei
 Wert darauf, hier im Inneren des Rocher de Malcolm zu
 bleiben. Und Bob erst recht.
 
-Wir begleiteten sie bis zu der Steinluke, und Gospard
+Wir begleiteten sie bis zu der Steinluke, und Gaspard
 rief Harald noch zu: »Nachher erzählen Sie uns dann alles,
 Mr. Harst.«
 
@@ -2151,14 +2151,14 @@ elektrischen Drahtleitungen.
 
 Und hier — hier saß neben dem Ofen in einem einfachen
 Lehnstuhl ganz in sich zusammengesunken Klaire Weller, die
-Blonde
+Blonde.
 
 Schaute uns aus leeren Augen an.
 
 So, als ob sie durch uns hindurchsah, als ob wir gar
 nicht vorhanden wären.
 
-Und ließ doch keinen Blick von uns
+Und ließ doch keinen Blick von uns.
 
 Keinen Blick. —
 
@@ -2169,7 +2169,7 @@ Strich ihr über das reiche Blondhaar.
 »Geh’ nun schlafen, Kind,« sagte er gütig. »Und bitte
 diese Herren um Verzeihung.«
 
-in ihren langen dunklen Wimpern erschienen wieder
+In ihren langen dunklen Wimpern erschienen wieder
 Tränen.
 
 »Ich … ich glaubte nur richtig zu handeln, als ich
@@ -2193,7 +2193,7 @@ meine Herren.«
 die: Sie und Klaire Weller sind die Bewohner des Rocher
 de Malcolm.«
 
-Jolling nickte. »ich besuchte den Hutfelsen vor fünf
+Jolling nickte. »Ich besuchte den Hutfelsen vor fünf
 Jahren aus Anlaß einer indischen Reise, und da entdeckte
 ich, daß er hohl war.«
 
@@ -2263,7 +2263,7 @@ meiner Jacht. Ich habe sie völlig abgewrackt.«
 »Und was treiben Sie hier, Mr. Jolling?«
 
 »Ich experimentiere … Meine Hexenküche, mein Laboratorium,
-hat schon viel Wunderbares gesehen. ich bin …
+hat schon viel Wunderbares gesehen. Ich bin …
 Spiritist.«
 
 »Ah — Spiritist?! — Deshalb kamen Sie auch auf den
@@ -2352,7 +2352,7 @@ Weller wecken, denn mit ihr experimentiere ich.«
 »Ob die damit verbundenen seelischen Erschütterungen
 ihr nicht schaden?«
 
-»Nein … Sie ahnt ja gar nicht, was eigentlich vorgeht."
+»Nein … Sie ahnt ja gar nicht, was eigentlich vorgeht.«
 
 »Und sie ist mit dabei?«
 
@@ -2542,7 +2542,7 @@ nahte die Entscheidung!
 Harald schlug ein Bein über das andere, hob die rechte
 Hand …
 
-»Bitte — Über dem Kessel befand sich die zweite Luftklappe,
+»Bitte — über dem Kessel befand sich die zweite Luftklappe,
 Mr. Jolling.«
 
 »Und das heißt?!«
@@ -2708,7 +2708,7 @@ Jolling sank schwer in den Lehnstuhl zurück.
 »Aber Ellen versteht diese so leicht zu verbrecherischen
 Zwecken auszunutzende Kunst?«
 
-»Ja." Sehr zögernd.
+»Ja.« Sehr zögernd.
 
 »Und Ellen hat Klaire schon häufiger hypnotisiert?«
 
@@ -2772,7 +2772,7 @@ Jolling?«
 
 Da schrie Jolling leise auf.
 
-»Entflohen!« wiederholte Ellen kalt. "In dem zweiten
+»Entflohen!« wiederholte Ellen kalt. »In dem zweiten
 <@pagebreak/>
 Zinkboot. Als ich von der Pirateninsel zurückkehrte, teilte
 Klaire mir ihre Flucht mit.«
@@ -2795,7 +2795,7 @@ Aus Jollings Lehnstuhl ein tiefes Stöhnen.
 »Tot — — tot?! Das … das ist ja nicht möglich!«
 flüsterte der Professor wieder.
 
-"Es ist leider Tatsache.« Harald sprach weicher. »Sie
+»Es ist leider Tatsache.« Harald sprach weicher. »Sie
 ist auch nicht etwa verunglückt, sondern ermordet worden.«
 
 Jolling wurde fahl. Sein entsetzter Blick forschte in
