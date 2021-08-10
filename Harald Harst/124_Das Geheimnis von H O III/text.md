@@ -41,7 +41,7 @@ Perlmuschelbänken!
 Wir kamen von Quilam, wo wir den Professor Josua
 Jolling und seine Nichte Klaire Weller abgesetzt hatten.
 Ellen Weller aber war Jollings andere Nichte, eine Abenteuerin
-gefährlichster Art, die uns inmitten der Maleviden-Gruppe
+gefährlichster Art, die uns inmitten der Malediven-Gruppe
 in dem hohen Malcolmfelsen, einem Eiland von
 recht phantastischer Gestalt, entschlüpft war.
 
@@ -49,7 +49,7 @@ Der Leser besinnt sich fraglos noch auf diese Vorgänge,
 die ich im vorigen Band »Die Hexenküche« geschildert habe.
 
 Wir waren nur zu dreien an Bord des großen gedeckten
-Kutters: Harald Harst, der Matrose Edward Gasgpard
+Kutters: Harald Harst, der Matrose Edward Gaspard
 und meine Wenigkeit: Max Schraut!
 
 Wir hatten uns selbst Urlaub gegeben. Wollten einmal
@@ -66,7 +66,7 @@ nicht zu sehr …«
 
 Gaspard schmunzelte.
 
-»Ich lüg’ immer nur gerade so viel, als unbeding nötig
+»Ich lüg’ immer nur gerade so viel, als unbedingt nötig
 ist, damit die Zuhörer nicht einschlafen, Mr. Harst … —
 Gewiß, ich hab’ viel durchgemacht … Wer vierzig Jahre
 auf Segelschiffen als Matrose gefahren ist, der muß was
@@ -93,12 +93,12 @@ Harald ließ den Kutter herumschwenken.
 Aber es war doch nicht ganz leicht, die Stelle wiederzufinden,
 wo Gaspard im Wasser etwas bemerkt haben wollte.
 
-Immerhin: Es war eine Übwechslung!
+Immerhin: Es war eine Abwechslung!
 
-Außerdem war 8 auch gar nicht es unmöglich, daß hier
+Außerdem war’s auch gar nicht es unmöglich, daß hier
 ein Gegenstand halb unter Wasser an einer Ankerkette festlag,
-Denn wir standen uns über einer Untiefe, die nach den See-
-Karten nur 6 bis 8 Meter Wasserstand hatte.
+Denn wir befanden uns über einer Untiefe, die nach den Seekarten
+nur 6 bis 8 Meter Wasserstand hatte.
 
 Auch ich hatte mich erhoben, und der alte Seebär und ich
 starrten nun so angestrengt rundum in die leicht bewegte See,
@@ -107,14 +107,14 @@ Mittagszeit, und vom klaren Tropenhimmel funkelte die
 liebe Sonne prall herab und verwandelte das Meer in
 flüssiges Silber …
 
-Endlich nach mehrmaligem breiten Tote Ga23pard den
+Endlich nach mehrmaligem Kreuzen packte Gaspard den
 langen Bootshaken und stieß ihn seitwärts ins Wasser.
 
 »Hallo — ich habe die Kette erwischt! Beidrehen, beidrehen,
 Mr. Harst!«
 
 Harald ließ das Großsegel flattern, und unser Kutter
-auflag nun neben dem undeutlich zu erkennenden länglichen
+lag nun neben dem undeutlich zu erkennenden länglichen
 Kasten, der vielleicht ein halbes Meter unter der Oberfläche
 schwamm.
 
@@ -124,7 +124,7 @@ brüllte Gaspard.
 Harst lag jetzt lang auf dem Bauche.
 
 »Es ist ein Zinksarg!« erklärte er, den Kopf über die
-Reling hinousschiebend. »Ein Zinksarg, der luftdicht verlötet
+Reling hinausschiebend. »Ein Zinksarg, der luftdicht verlötet
 sein muß, sonst würde er nicht schwimmen und so viel Antrieb
 haben, daß er die Ankerkette spannt …«
 
@@ -147,15 +147,15 @@ Nun schwang er sich wieder an Deck.
 
 »Wir werden den Sarg näher untersuchen,« entschied
 Harald. »Rasch — ein paar Taue herbei! Ich werde sie
-Herumschlingen und dann den Sperrhaken der Art!e an der
+Herumschlingen und dann den Sperrhaken der Kette an der
 Unterseite des Sarges lösen. Auch an die Kette binden wir
 eine Leine, damit sie uns nicht wegsackt …«
 
-»Hm!« brummte Gaspard abermals sehr sprang:
+»Hm!« brummte Gaspard abermals sehr bedenklich.
 
 Aber Harald achtete nicht darauf. —
 
-Zehn Minuten später stand der Zinksarg »wirklich auf
+Zehn Minuten später stand der Zinksarg wirklich auf
 dem Achterdeck des Kutters.
 
 Ein ganz schmuckloser Zinksarg.
@@ -174,15 +174,15 @@ Und Gaspard knurrte zum dritten Male:
 Harald erwiderte kurz:
 
 »Bedecken wir schnell den Sarg! Dort kommt ein
-Motorboot herangeknat:er!. Es dürfte eins der Frachtboote
-die den PerlenfisGgern der Bai von Travankore gehören
+Motorboot herangeknattert. Es dürfte eins der Frachtboote
+sein, die den Perlenfischern der Bai von Travankore gehören
 …«
 
 Der alte Jan Maat spähte nach dem großen Boote aus.
 
 »Sogar ’n Fetzen von ’ner Flagge hat der Benzinstänker!«
 Und lebhafter: »Verdammt will ich sein, wenn der
-Herz nicht im Hafen von Quilam unweit von uns
+Benzinkahn nicht im Hafen von Quilam unweit von uns
 ankerte!«
 
 <@pagebreak/>
@@ -208,7 +208,7 @@ Das Benzinboot kam sehr schnell heran.
 Harald hatte rasch die Beinkleider übergezogen und
 holte seine Clement hervor, entsicherte sie und sagte zu mir:
 
-»Gaspard »mag recht haben! Merkwürdig ist’s, daß
+»Gaspard mag recht haben! Merkwürdig ist’s, daß
 das Boot …«
 
 Da wurden wir von drüben schon angerufen.
@@ -217,11 +217,11 @@ Da wurden wir von drüben schon angerufen.
 Ihr uns Verbandzeug abgeben? Einer von uns hat den
 Unterschenkel gebrochen …«
 
-»Kette Privatjacht!« murrte Gaspard. »Ein alter
-Stoßzahn ist’s! Und die fünf braunen Galgenvogelgesichter
+»Nette Privatjacht!« murrte Gaspard. »Ein alter
+Dreckkahn ist’s! Und die fünf braunen Galgenvogelgesichter
 gefallen mir auch nicht!« —
 
-E53 war der Europäer gewesen, der uns angerufen hatte.
+Es war der Europäer gewesen, der uns angerufen hatte.
 
 Ein Mann im weißen Leinenanzug, mit schwarzem
 Spitzbart und heller Seglermütze. —
@@ -236,7 +236,7 @@ geschoben.
 
 Aber der Spitzbärtige drüben hatte anderes vor.
 
-»Wir werden längsseit anlegen!« brüllte er. »Vielleicht!
+»Wir werden längsseit anlegen!« brüllte er. »Vielleicht
 versteht Ihr mehr von der Krankenpflege als ich, Mister …«
 
 Der Mann hatte ein sehr schrilles Organ, das wenig
@@ -247,25 +247,25 @@ Und ohne abzuwarten, ob wir einverstanden, schoß der
 Kutter herbei und wurde von dem braunen Steuermann
 sehr gewandt Bord an Bord mit uns gebracht.
 
-Kaum rieben sich die Planken Aufrichtend aneinander,
+Kaum rieben sich die Planken knirschend aneinander,
 als vier der braunen Gesellen auch schon blitzartig neben
 dem Sarge waren und das Segel herabrissen.
 
 Der Spitzbärtige lachte schallend.
 
 »Ah, — also das habt Ihr aus dem Wasser geholt!«
-meinte er. »Wir haben Euch nämlich durch) das Fernrohr
+meinte er. »Wir haben Euch nämlich durch das Fernrohr
 beobachtet. Und die Geschichte mit dem gebrochenen Bein
 ist natürlich Schwindel!«
 
 Er sprang jetzt ebenfalls zu uns hinüber.
 
-Lüftete die Mulde.
+Lüftete die Mütze.
 
-»Doktor John Faraday,« stellte er sich vor. »IJ: bin
+»Doktor John Faraday,« stellte er sich vor. »Ich bin
 Naturforscher, meine Herren.«
 
-Danach sah er auch aus. Der Mensch war noch sonncit-gebräunter
+Danach sah er auch aus. Der Mensch war noch sonnengebräunter
 als wir.
 
 Und in einem Atem fügte er hinzu:
@@ -277,7 +277,7 @@ Harst erwiderte kühl:
 
 »Was wir tun werden, bleibt uns überlassen, Mr. Faraday!
 Ich habe keinerlei Verständnis für diese Art von …
-Überfall! Sie würden mich zu Dank verpflichten, Wein
+Überfall! Sie würden mich zu Dank verpflichten, wenn
 Sie unser Deck räumen wollten.«
 
 Faraday lächelte.
@@ -287,10 +287,10 @@ Ein infames Lächeln war’s.
 »Räumen, Mr. Harst?! — Sie sind doch der … berühmte
 Harst, nicht wahr?! — gestatten Sie eine Bemerkung
 … Ihre Pistole dort in der Hosentasche stört Sie
-fraglos … Bitte — bändigen Sie sie mir aus …«
+fraglos … Bitte — händigen Sie sie mir aus …«
 
 Und … sein Arm deutete nach rechts — auf den
-niederen Heckaufbau des Knochen Motorbootes …
+niederen Heckaufbau des großen Motorbootes …
 
 Und — — dort in den beiden kleinen Fenstern sah ich
 die Köpfe von vier weiteren braunen Matrosen, dazu …
@@ -302,27 +302,27 @@ vier Flintenläufe, die auf uns gerichtet waren.
 
 Die Situation war klar.
 
-Es war in der Tat ein Überfall, eine Art Pixrateit-pireich.
+Es war in der Tat ein Überfall, eine Art Piratenstreich.
 
-»Ihre Pistole — — bitte!« drehte Faraday jetzt. »die
-sind hier an Leute geraten, Mr. Harst, die wenig Feder-lesens
+»Ihre Pistole — — bitte!« drohte Faraday jetzt. »Sie
+sind hier an Leute geraten, Mr. Harst, die wenig Federlesens
 machen.«
 
-Das ganze Auftreten des schlanken Menschen, der fest.
-des Spitzbartes noch recht jung sein mußte, hatte etwas je
+Das ganze Auftreten des schlanken Menschen, der trotz
+des Spitzbartes noch recht jung sein mußte, hatte etwas so
 ungemein Bestimmtes an sich, daß … Harald gehorchte.
 
-So wurden dann auch mir und Gaspard die Wasser
+So wurden dann auch mir und Gaspard die Waffen
 abgenommen.
 
 Und der Alte fluchte dabei:
 
-»Wußt’ ich 8 doch — — der Sarg!
+»Wußt’ ich’s doch — — der Sarg!«
 
-»Wollen Sie sich nun in Ihre Kajüte hinabbemühen,“«
-meinte Faraday mit derselben immensen Höflichkeit …
+»Wollen Sie sich nun in Ihre Kajüte hinabbemühen,«
+meinte Faraday mit derselben ironischen Höflichkeit …
 »Bitte — zögern Sie nicht! Meine Leute sind im Abdrücken
-zuteilen etwas voreilig — sehr voreilig …!«
+zuweilen etwas voreilig — sehr voreilig …!«
 
 Und — wir gehorchten abermals, notgedrungen.
 
@@ -344,7 +344,7 @@ Wir waren allein.
 
 Und — — da geschah’s, daß Harald blitzschnell das
 kleine Fenster aufriß und — — sich hinaus und hinüber an
-Deck des Motorbootes schwirren wollte.
+Deck des Motorbootes schwingen wollte.
 
 Da — stand Faraday plötzlich in der Tür.
 
@@ -354,45 +354,45 @@ Und — ehe wir’s uns versahen, hatten die Kerle uns
 gefesselt.
 
 Faraday, einen Revolver in der Rechten, sorgte dafür,
-Daß wir uns nicht-wehrien.
+Daß wir uns nicht wehrten.
 
 Gefesselt und an den schmalen Kajütentisch sitzend gebunden,
 — so ließ man uns wieder allein.
 
 Oben an Deck erstarben die Tritte, die Geräusche.
 
-Biß dann der Motor der angeblich oben Jacht Seraphia
-knallend aufsprang.
+Bis dann der Motor der angeblich oben Jacht Seraphia
+knallend ansprang.
 
 Die Seraphia — — entfernte sich.
 
 Harst arbeitete bereits mit den Zähnen an den Knoten
 meiner Handfesseln.
 
-Zu drei Minuten hatte ich die Hände frei.
+In drei Minuten hatte ich die Hände frei.
 
 Hatte mein Taschenmesser geöffnet …
 
-»Steuerten!« mahnte Harald.
+»Schneller!« mahnte Harald.
 
 Und ich zerschnitt seine Stricke.
 
 Er rief, rasch nach dem Fernrohr des Kutters greifend:
 
-»Feiner von uns zeigt sich an Deck! Ich werde die
-Seraphia vorsichtig beobachten …« — -
+»Keiner von uns zeigt sich an Deck! Ich werde die
+Seraphia vorsichtig beobachten …« — —
 
 Nach dieser gewiß nicht ganz alltäglichen Einleitung,
 ändere ich den Schauplatz der Handlung und führe den
 Leser in die Hafenstadt Alleppi am gleichnamigen Flusse.
 
-Führe Schnur eine Hafenkneipe, die ebensogut in einer
-»deutschen Hafenstadt hätte stehen können. —
+Führe ihn in eine Hafenkneipe, die ebensogut in einer
+deutschen Hafenstadt hätte stehen können. —
 
 <@pagebreak/>
 Zeit: elf Uhr abends am selben Tage! Also etwa elf
 Stunden nach jenem Überfall auf uns, der uns den Zinksarg
-öfters.
+kostete.
 
 In dieser Kneipe war Hochbetrieb.
 
@@ -408,10 +408,10 @@ zwei armselige, blondbärtige Matrosen.
 Saßen und tranken sogenannten Eispunsch.
 
 Und — das waren wir beide, Harst und Schraut —
-wir auf der Spur des edlen Naturforscher3 Doktor John
+wir auf der Spur des edlen Naturforschers Doktor John
 Faraday. —
 
-Harald hatte nämlich mit Hilfe des Berglehne zweifelsfrei
+Harald hatte nämlich mit Hilfe des Fernrohrs zweifelsfrei
 festgestellt, daß die Seraphia nach anfänglich nördlichem
 Kurs nach Osten abgeschwenkt und offenbar nach Alleppi gefahren
 war.
@@ -420,7 +420,7 @@ abends gegen zehn hatte sich dann auch unser Kutter
 in den Hafen geschlichen, hatte draußen Anker geworfen und
 war von niemandem beachtet worden.
 
-Eine Vorrichtung für uns lag schon bereit. Gaspard
+Eine Verkleidung für uns lag schon bereit. Gaspard
 ruderte uns im Beiboot an Land, und zehn Minuten später
 hatten wir die Seraphia im Innenhafen entdeckt.
 
@@ -428,19 +428,19 @@ Abermals eine Viertelstunde darauf verließ ein brauner
 Matrose die elende Jacht, auf der sich nun scheinbar keine
 lebende Seele mehr befand.
 
-Wir schlichen an je nachdem wir den braunen Burschen
-bis Daniel anlangte Kneipe verfolgt hatten.
+Wir schlichen an Deck, nachdem wir den braunen Burschen
+bis Daniel Girlaugs Kneipe verfolgt hatten.
 
 Durchsuchten die Jacht.
 
-Und — stellten fest, daß es hier machte festzustellen gab.
+Und — stellten fest, daß es hier nichts festzustellen gab.
 
 Das Motorboot war leer.
 
 Im Innern sah’s ganz so aus, als ob kein Mensch die
 Kajüte und die Verschläge im Vorschiff mehr bewohnte. —
 
-Merkwürdig war das … sehr mexkwirdig!
+Merkwürdig war das … sehr merkwürdig!
 
 <@pagebreak/>
 Auch von dem Zinksarg keine Spur! Und wir hätten
@@ -448,7 +448,7 @@ doch so gern gewußt, was er enthalten hatte! —
 
 Jetzt saßen wir in der Kneipe, und neben uns saß der
 braune Matrose der Seraphia, fraglos ein Singhalese, ein
-Mensch mit fast edlem Gesicht, dazu jung und sauber ’ in
+Mensch mit fast edlem Gesicht, dazu jung und sauber in
 weißes Leinen gekleidet.
 
 Kein übler Bursche.
@@ -462,22 +462,22 @@ mit ihm.
 
 Der Mann sprach leidlich englisch.
 
-Und schon nach zehn Kinn:en hätte Harald aus ihm
+Und schon nach zehn Minuten hatte Harald aus ihm
 folgendes herausgelockt.
 
-Der Singhalese hieß zumal, hatte bis heute früh als
-malariakrank hier im Seemannslazareit gelegen und dann
-zufällig nachmittags den wollen eines Wächters auf der
+Der Singhalese hieß Tuwar, hatte bis heute früh als
+malariakrank hier im Seemannslazarett gelegen und dann
+zufällig nachmittags den Posten eines Wächters auf der
 Seraphia erhalten, deren Besitzer für längere Zeit ins
 Binnenland reisen wollte und daher auch die Besatzung
-avbgelohmi hatte. —
+abgelohnt hatte. —
 
 Und gegen halb zwölf standen wir beide dann vor dem
 einzigen halbwegs anständigen Hotel der Stadt, wo Doktor
-Faraday nach Angabe Zuwarf wohnen sollte.
+Faraday nach Angabe Tuwars wohnen sollte.
 
 Mit dem Hotel war eine Bar verbunden, und in dieser
-Bar fielen wir in unserer schäbigen Mairosenkluft nicht
+Bar fielen wir in unserer schäbigen Matrosenkluft nicht
 gerade angenehm auf.
 
 Was uns jedoch nicht weiter störte, da wir Geld genug
@@ -485,13 +485,13 @@ in der Tasche hatten und da außerdem der Herr Doktor
 John Faraday im zweiten Raume allein an einem Tischchen
 saß und sich eine Flasche Sekt spendiert hatte.
 
-im Nebentische saßen drei Herren, ebenfalls Europäer.
+Am Nebentische saßen drei Herren, ebenfalls Europäer.
 Und als wir beide nun am dritten Tische an derselben Wand
 Platz genommen hatten, hörten wir, daß die drei sehr eifrig
 nach Art der begeisterten Amateure über eine Ballonfahrt
 <@pagebreak/>
 sich unterhielten, die sie am Morgen mit dem Freiballon
-H. O. 3, der dem Aeroklub in ÄAlleppi gehörte, antreten
+H. O. 3, der dem Aeroklub in Alleppi gehörte, antreten
 Wollten.
 
 Was auch mir sehr bald auffiel, war das heimliche
@@ -503,22 +503,22 @@ die Bar.
 
 Wir folgten ihm.
 
-In den stillen Straßen des Hafenstädichen3 war dies
+In den stillen Straßen des Hafenstädtchens war dies
 nicht gerade einfach. Wir wollten Faraday ja um keinen
 Preis mißtrauisch machen.
 
 Wer jedoch so viel Fertigkeit in dieser Art von Beobachtung
-Besitz wie wir, dem gelingt es stets, unbemerkt zt
+besitzt wie wir, dem gelingt es stets, unbemerkt zu
 bleiben.
 
 Und nach abermals zehn Minuten verschwand Doktor
-Faraday am Außenhafen in einer chinesischen Teestube, 503
-beißt: in einer Opiumhöhle! Teestube ist nur die harmlose
+Faraday am Außenhafen in einer chinesischen Teestube, das
+heißt: in einer Opiumhöhle! Teestube ist nur die harmlose
 Bezeichnung.
 
 Jetzt waren wir übel daran. Wenn wir ebenfalls die
 Baracke betraten, aus dem das Geklimper eines mechanischen
-Arabiens hervordrang, konnte Faraday uns ja als die Sackgasse
+Klaviers hervordrang, konnte Faraday uns ja als die Bargäste
 wieder erkennen.
 
 Harald löste auch diese Schwierigkeit, indem er seinen
@@ -544,7 +544,7 @@ Nebenausgänge.«
 <@pagebreak/>
 »Hm — schlimm!«
 
-»Ja Wenn wir Pech haben, entwischt uns Faraday.
+»Ja. Wenn wir Pech haben, entwischt uns Faraday.
 und dabei bin ich fest überzeugt, daß die Gesellschaft da
 drinnen irgendetwas plant — nichts Harmloses! O nein!
 Ich erinnere Dich an Faradays Interesse für die drei
@@ -560,12 +560,12 @@ Ballonhelden!«
 
 Wir traten rasch in den Schatten eines Hafenschuppens.
 
-Faraday tote soeben die Teestube verlassen.
+Faraday hatte soeben die Teestube verlassen.
 
 nicht allein! Hinter ihm her schlenderten zwei seiner
 Getreuen.
 
-Und fehlt — jetzt, als wir den dreien nachschlichen, hielt
+Und jetzt — jetzt, als wir den dreien nachschlichen, hielt
 Harald es für angebracht, ganz unvermittelt zu erklären:
 
 »Übrigens ist Faraday uns kein Fremder …«
@@ -574,22 +574,22 @@ Harald es für angebracht, ganz unvermittelt zu erklären:
 
 »Stopp — das stimmt nicht! Besinne dich mal auf
 Ellen Weller, den bösen Geist des Malcolm-Felsens, des
-Fälschernestes, wo ungezählte Millionen an falschen Dunkelroten
+Fälschernestes, wo ungezählte Millionen an falschen Banknoten
 aufgestapelt waren, die wir … verbrannt hatten!«
 
-Und — kaum hatte Harst den Namen genannt, als ich
-11h schon an Faradays überschlanke Gestalt und an die
+Und — kaum hatte Harst *den* Namen genannt, als ich
+auch schon an Faradays überschlanke Gestalt und an die
 schrille, helle Stimme dachte!
 
-Osten Weller!!
+Ellen Weller!!
 
-Ellen, die blonde Ellen, die uns dort im Malcolmfelsen
+Ellen, die blonde Ellen, die uns dort im Malcolm-Felsen
 entwischt war …! Oh — ihr konnte man zutrauen,
 daß sie … uns auf den Fersen geblieben war, daß sie die
-Kampf in Quilam gekauft und hinter uns dreinschlichen
+Seraphia in Quilam gekauft und hinter uns dreingeblieben
 war!
 
-Harald bog jetzt plökblich rasch in eine enge Seitengasse
+Harald bog jetzt plötzlich rasch in eine enge Seitengasse
 ab
 
 Wir befanden uns hier im Europäerviertel, mitten
@@ -600,9 +600,9 @@ Fabriken.
 Die Gasse mündete auf einen freien Platz.
 
 Und hier, wo sonst die Europäerkolonie sich sportlich bestätigte,
-hier … schwebte dicht über dem Erdboden nahe am.
+hier … schwebte dicht über dem Erdboden nahe am
 Zaune der kleinen Gasanstalt von Alleppi die Riesenkugel
-von H. O. 3, klar sich abhebend vom ausgestirnten Firna—ment.
+von H. O. 3, klar sich abhebend vom ausgestirnten Firmament.
 
 Schwebte an vier Haltetauen, die an Pfählen auf der
 Spitze eines Hügels befestigt waren.
@@ -623,7 +623,7 @@ Ahnten, daß etwas sich ereignen müßte.
 
 <@pagebreak/>
 <h2>3. Kapitel.</h2>
-<h3>Die Mumie ohne Korn.</h3>
+<h3>Die Mumie ohne Kopf.</h3>
 
 Es ereignete sich etwas.
 
@@ -661,7 +661,7 @@ Harst hatte Faraday am Genick gepackt.
 Ich bekam den Rand des Ballonkorbes zu fassen.
 
 Und — zwei — drei kraftvolle Bewegungen — —
-Mühe …
+Stöße …
 
 Faraday flog in den Korb, ich hinter ihm drein.
 
@@ -690,17 +690,17 @@ Freund ist!
 
 Mitten aus ihren Gesellen hatten wir Ellen Weller
 entführt — bei Nacht und Nebel! Und nun würde sie uns
-sagen müssen, was der Zinksarg enthalten hatte —« müssen!!
+sagen müssen, was der Zinksarg enthalten hatte — müssen!!
 Das war mein erster Gedanke!
 
 Harald rief mich an:
 
-»LoS3lassen, mein Alter! — Miß Weller, stehen Sie auf!«
+»Loslassen, mein Alter! — Miß Weller, stehen Sie auf!«
 
 Angesichts der Sterne des Tropenhimmels schauten wir
 nun der Gegnerin in das verzerrte, maskierte Gesicht.
 
-»Miß weiter, Sie sind uns einige Erklärungen schuldig!«
+»Miß Weller, Sie sind uns einige Erklärungen schuldig!«
 meinte Harald sehr höflich.
 
 Welch eine Situation …!!
@@ -708,7 +708,7 @@ Welch eine Situation …!!
 Achthundert Meter über dem Indischen Ozean ein Verhör!
 Im Ballonkorb! —
 
-Ellen Weller dritte Harst haßerfüllt an.
+Ellen Weller blitzte Harst haßerfüllt an.
 
 »Sie sind … zu viel auf der Welt!« stieß sie hervor.
 »Sie … Sie hätten längst …«
@@ -719,8 +719,8 @@ Er unterbrach sie.
 
 Sie lachte schrill:
 
-»Sehen Sie doch nach! Der Zinksarg liegt auf dem.
-Meeceres8grunde — irgendwo!«
+»Sehen Sie doch nach! Der Zinksarg liegt auf dem
+Meeresgrunde — irgendwo!«
 
 <@pagebreak/>
 »Sie werden andere Antworten geben, Miß Weller …!
@@ -736,7 +736,7 @@ Dann saß sie wehrlos auf dem Boden der Gondel.
 
 Saß hier drei Stunden.
 
-Sie zum Morgengrauen.
+Bis zum Morgengrauen.
 
 Und als das Zwielicht den Ozean unter uns entschleierte,
 da sahen wir gen Osten Insel an Insel.
@@ -754,23 +754,23 @@ Und trieb ganz dicht über die Wogen dahin.
 
 Bis wir landeten — nicht dort, wo wir’s gewollt hatten.
 
-Nein! auf einem Inijc’chen nördlich des Malcolm-Felsens.
-Harst am Gestade dort: te Harst den Ballon nur dadurch
+Nein! auf einem Inselchen nördlich des Malcolm-Felsens.
+Hart am Gestade konnte Harst den Ballon nur dadurch
 zum Landen bringen, daß wir den Korb abschnitten,
 daß wir in den Stricken hingen.
 
 Auch Ellen Weller.
 
 Nicht viel hätte gefehlt, und der Ozean wäre unser nasses
-Trab geworden. Wir waren keine geprüften Ballonführer.
-Wir hatten »Fehler gemacht, zu früh daß Gas zur Hälfte ausströmen
+Grab geworden. Wir waren keine geprüften Ballonführer.
+Wir hatten Fehler gemacht, zu früh das Gas zur Hälfte ausströmen
 lassen …
 
 Nun sicherten wir zunächst unsere gefährliche Gefangene,
 
 Banden sie an einen Baum.
 
-Und kehrten zum Ballon zurück, dessen stärkeres Tau
+Und kehrten zum Ballon zurück, dessen stärkstes Tau
 Harald um ein Felsstück geschlungen hatte. —
 
 Die Sonne durchbrach die leichten Morgennebel …
@@ -792,8 +792,8 @@ Kugel, auf die untere Hälfte, die auf dem Felsblock aufliegt,
 
 »Nein …«
 
-»Nun — ’wir sind noch zu vieren und nicht zu dreien
-gefahren …
+»Nun — wir sind noch zu vieren und nicht zu dreien
+gefahren …«
 
 »So?!«
 
@@ -814,13 +814,13 @@ Ohne Kopf …
 Und auch keine gewöhnliche Leiche! Nein, eine Mumie
 war es, eine Mumie in zerschlissenen Kleidern …
 
-Die Hände, die Arme waten zu braunen harten Gebilden
+Die Hände, die Arme waren zu braunen harten Gebilden
 eingeschrumpft … Und dort, wo der Kopf einst gesessen,
 verriet der glatte Halsschnitt, daß der Mann entweder
 lebend oder tot mit einem Schwerte oder Beil geköpft
 worden war.
 
-Wir Leuten die Mumie in den Schatten der Felsen.
+Wir legten die Mumie in den Schatten der Felsen.
 
 Wir besichtigten sie genauer. Es gab nicht viel zu sehen
 daran.
@@ -837,9 +837,9 @@ Fragte:
 das blonde Weib, dessen verführerische Reize den Professor
 Josua Jolling ins Unglück getrieben hatten.
 
-Harald blickte Säulen Weller still an.
+Harald blickte Ellen Weller still an.
 
-»Sie sollten Vernunift annehmen«, meinte er ernst.
+»Sie sollten Vernunft annehmen,« meinte er ernst.
 »Ich werde dieses Geheimnis von H. O. 3 ergründen, ich
 werde es!«
 
@@ -849,25 +849,25 @@ Wir gingen zum Seestrande hinab.
 
 Diese kleine Insel der Malediven-Gruppe hatte genau
 so wie der Malcolm-Felsen einen Riffgürtel, gegen den Tag
-und Nacht eine kräftige Brandung schäumite.
+und Nacht eine kräftige Brandung schäumte.
 
 Nach dem unerhörten Nervenkitzel der letzten Stunden
 trat nun auch bei uns beiden eine gewisse Abspannung ein.
 
 Hinzu gesellte sich bei mir die Sorge, wie wir von diesem
-weltabgeschiedenen Eilande wieder in beiwohnte Gegenden
+weltabgeschiedenen Eilande wieder in bewohnte Gegenden
 zurückgelangen könnten und wie wir hier unser Leben fristen
-sollten, bis vielleick&t ein zufällig vorüberkommendes Schiff
+sollten, bis vielleicht ein zufällig vorüberkommendes Schiff
 uns aufnehmen würde.
 
 Merkwürdig war, daß Harald nichts von solchen Gedanken
-hinsichtlich »unserer Lage zu fühlen schien.
+hinsichtlich unserer Lage zu fühlen schien.
 
 Er setzte sich auf einen Stein, der mit einem natürlichen
 Polster von Seetang versehen war, und nahm sein Zigarettenetui
 aus der Tasche.
 
-Rauchte mit dem innigen Behagen des Zigarettenlieb-habers8
+Rauchte mit dem innigen Behagen des Zigarettenliebhabers
 seine Mirakulum und … sagte ganz unvermittelt:
 
 »Du besinnst Dich, daß Josua Jolling auf diesem Eiland
@@ -875,7 +875,7 @@ sich so eine Art Zufluchtsstätte hergerichtet und hier auch eine
 Radiostation angelegt hatte. Oder genauer: hat — hat!!
 Denn beides muß noch vorhanden sein. — Ich hoffe nun,
 daß der Professor diesen seinen Schlupfwinkel für den Fall
-der Tat auch mit Lebensö8mittieln versehen haben wird. Ein
+der Tat auch mit Lebensmitteln versehen haben wird. Ein
 so umsichtiger Mann wie er hat fraglos an alles gedacht.«
 
 Mit einem Schlage war so ein Teil meiner Sorgen von
@@ -887,9 +887,9 @@ seiner Zinkboote hier verborgen haben. Wir werden es
 schon finden.«
 
 Da war denn auch der Rest meiner sorgenden Gedanken
-gerflattert. Und ich sagte mir etwas beschämt, daß ich doch
+zerflattert. Und ich sagte mir etwas beschämt, daß ich doch
 eigentlich auch selbst mich an diese Einzelheiten, die mit dem
-vorher de Malcolm (Malcolm-Felsen) zusammenhingen,
+Rocher de Malcolm (Malcolm-Felsen) zusammenhingen,
 hätte erinnern können.
 
 »Ja — nun die seltsame Mumie …!« fuhr Harst fort.
@@ -906,23 +906,23 @@ Jollings Schlupfwinkel suchen«, meinte er und reckte sich.
 »Mein Alter, ich bin müde … Und auch geistig nicht ganz
 auf der Höhe …« — Kleine Pause. »Wie schön es hier ist.
 Wie unendlich friedlich. Und drüben — erkennst du die
-Spie des vorher de Malcolm? Einst, noch vor wenigen
+Spitze des Rocher de Malcolm? Einst, noch vor wenigen
 Tagen sogar, entquoll der Rauch aus Josua Jollings Laboratorium
 der Bergspitze … Jetzt ist dort alles tot …«
 
-Und meine Gedanken; wanderten nun ebenfalls zurück
+Und meine Gedanken wanderten nun ebenfalls zurück
 zu jenen Stunden, die wir in dem phantastischen Heim des
 berühmten Chemikers und Englandhassers verlebt hatten.
 Jetzt stand der hohle Malcolm-Felsen leer, jetzt hatte Jolling
-seinen wahnwitzigen Plan, sein Vaterland durch eine Ueber-schwemmuna
+seinen wahnwitzigen Plan, sein Vaterland durch eine Überschwemmung
 mit falschen Banknoten zu Grunde zu richten,
-aufgegeben und sich den Gerichten gestellt — all das in de!
+aufgegeben und sich den Gerichten gestellt — all das in der
 Hauptsache Ellen Wellers wegen!
 
 Harald begann die Steilwand der Küste wieder zu erklettern
 …
 
-Und — — Stute plötzlich.
+Und — — stutzte plötzlich.
 
 Wandte den Kopf zurück,
 
@@ -935,7 +935,7 @@ Wir begannen zu laufen.
 
 Wir erreichten den nächsten Hügel, hielten Umschau.
 
-Rechte von uns schnitt eine felsige kleine Bucht tief in
+Rechts von uns schnitt eine felsige kleine Bucht tief in
 die Insel ein … Sie lag nach Süden zu, also dem fernen
 Malcolm-Felsen zugekehrt …
 
@@ -949,13 +949,13 @@ Höhnisch winkend.
 Und vom Bachufer schwarze Rauchwolken, hochquirlend
 in die klare Morgenluft. —
 
-Harst holte von dannen.
+Harst hetzte von dannen.
 
 Ich hinter ihm drein … Blieb zurück, kam Minuten
-später an die Brandstätte, an die brennende Holzhütte, die -
+später an die Brandstätte, an die brennende Holzhütte, die
 hinter Steinen und Dickicht auf einer Buchtterrasse gut verborgen
-gewesen, überschattet von zu und drei mächtigen
-Ganges-Bäumen, in deren Kronen … die Doppelantenne
+gewesen, überschattet von Palmen und drei mächtigen
+Gawas-Bäumen, in deren Kronen … die Doppelantenne
 der Radiostation hing …
 
 Harst hatte den Brand schon gelöscht. Das von Ellen
@@ -970,24 +970,25 @@ Feindin ausspähten, befand das Boot sich bereits weit außerhalb
 des Riffgürtels auf offener See.
 
 »Also vorläufig … Robinsons!« sagte Harald achselzuckend.
-»Vorläufig! Bis wir eng aus den Balken der
+»Vorläufig! Bis wir eben aus den Balken der
 Hütte ein Floß gezimmert oder … mit Hilfe der Radiostation
 Hilfe herbeigerufen haben …«
 
 »Letzteres ist unmöglich, Harald!« Und ich deutete in
 die eine Ecke des Balkenhäuschens, wo die Axt, mit der
-Ellen die Apparate zerstört hatte, noch auf dem Scalttische
+Ellen die Apparate zerstört hatte, noch auf dem Schalttische
+lag.
 
 <@pagebreak/>
 »Dann ein Floß!« meinte Harald. »Und recht bald! —
-gelassen wir ein paar Stunden. Der Bau des Floßes wird
+Schlafen wir ein paar Stunden. Der Bau des Floßes wird
 uns dann einen Tag kosten …«
 
 »Und dann — —? Willst Du etwa mit dem Floß
 zum Festlande hinüber?«
 
-»O nein, mein Alter. Das Risiko wäre zu groß. Nu!
-bis zum vorher de Malcolm wollen wir … Dort werden
+»O nein, mein Alter. Das Risiko wäre zu groß. Nur
+bis zum Rocher de Malcolm wollen wir … Dort werden
 wir in Jollings sogenannter Hexenküche, in seinem Laboratorium,
 allerlei finden, was unser Floß seetüchtig macht.«
 
@@ -998,8 +999,8 @@ Ich träumte …
 
 Träumte die wüstesten Träume … Von einer kopflosen
 Männermumie, die vor mir auf und ab spazierte und
-als Bauchredner mir einen gelehrten Vortrag über die Ges-steinSart
-des vorher de Malcolm hielt …
+als Bauchredner mir einen gelehrten Vortrag über die Gesteinsart
+des Rocher de Malcolm hielt …
 
 <@pagebreak/>
 
@@ -1012,7 +1013,7 @@ Wirklichkeit hinüberglitten …
 Die Mumie hatte mich bei der Schulter gepackt und
 rüttelte mich …
 
-Rüttelte mich, daß ich mit leisem Schrei erhielt Schluß:
+Rüttelte mich, daß ich mit leisem Schrei entsetzt hochfuhr
 und Harald … ins Gesicht starrte …
 
 »was gibt’s?!« stammelte ich …
@@ -1033,7 +1034,7 @@ Ich war nun völlig munter …
 Ich erkannte, daß Haralds Erregung berechtigt war.
 
 Die Mumie war weg, mithin befanden sich außer uns
-vor andere Leute auf dem Inselchen!
+noch andere Leute auf dem Inselchen!
 
 Und als ich diese Vermutung nun Harald gegenüber
 aussprach, nickte er sehr ernst …
@@ -1050,24 +1051,24 @@ nur eine Wahrscheinlichkeit: Ellen!! Denn wer anders würde
 wohl eine kopflose vertrocknete, uralte Leiche eines indischen
 Fürsten davonschleppen?!«
 
-»Fürsten … 2!«
+»Fürsten …?!«
 
 »Ja …! Ich habe darüber noch nicht gesprochen. Die
 Leiche ist tatsächlich die eines Maharadscha, eines Fürsten,
 und zwar muß dieser Fürst einst in einem der südlichen
 Staaten Vorderindiens regiert haben, da nur im Süden
-die Hindu, die Bekenner Brahmas, die Leichen hervorragen
-der Persönlichkeiten nicht verbrannten, sondern einbalsa-mierten
-— mit vergoldeten Fingernägeln und mit jenen:
+die Hindu, die Bekenner Brahmas, die Leichen hervorragender
+Persönlichkeiten nicht verbrannten, sondern einbalsamierten
+— mit vergoldeten Fingernägeln und mit jenem
 Fenster aus Glas mitten in der Brust, das ja poetisch
-»Baron Verbinden«, Auge der Seele, genannt wird …«
+»Warga Dschindra«, Auge der Seele, genannt wird …«
 
-»Hm — und woher — — ein Fürst?! Es kann daß
+»Hm — und woher — — ein Fürst?! Es kann doch
 auch ein Staatsmann oder dergleichen gewesen sein!«
 
 »Nein, ein Fürst …! Die halb vermoderten Gewänder
 verrieten das, besser: der eingewebte Rand, der
-noch Goldfäden erkennen ließ…«
+noch Goldfäden erkennen ließ …«
 
 Ich war nun ebenfalls überzeugt, daß Harald recht
 hatte. Ich war über indische Sitten und Gebräuche genügend
@@ -1082,11 +1083,11 @@ Harald entdeckte in der Rinde des Baumes, an den wir
 unsere gefährliche Gegnerin gebunden hatten, drei tiefe
 frische Einschnitte gerade da, wo die Stricke gesessen hatten.
 
-»Ein Beweis, daß jemand offene Fesseln zerschnitten
+»Ein Beweis, daß jemand Ellens Fesseln zerschnitten
 hat, mein Alter …«
 
 »Aber — das Weib floh doch allein! Sie befand sich
-doch »allein im Boot!«
+doch allein im Boot!«
 
 <@pagebreak/>
 »Gestatte — wenn jemand lang auf dem Boden des
@@ -1131,30 +1132,30 @@ mein Alter: wir vermuten nur, daß die Mumie aus
 dem Zinksarge stammt, vermuten auch nur, daß Ellen Weller
 die Mumie in der Ballonhülle verborgen hatte …!«
 
-»Gewiß …! — Und da wir nun dieses Thema aufgeschnitten
+»Gewiß …! — Und da wir nun dieses Thema angeschnitten
 <@pagebreak/>
 haben, gestatte eine Frage: Glaubst Du, daß Ellen
 Weller mit H. O. 3 aufsteigen wollte?«
 
 »Es machte nicht den Eindruck … Eher könnte man annehmen,
 sie wollte vielleicht die Mumie beseitigen, indem sie
-plumpes Ballon samt der Mumie der Willkür der Winde preisgab
+den Ballon samt der Mumie der Willkür der Winde preisgab
 …«
 
 »Hm — — beseitigen?! Etwas umständlich!«
 
-»Doch nicht, lieber Alter …! Denke an Felsens braune
+»Doch nicht, lieber Alter …! Denke an Ellens braune
 Leibgarde! Selbst der schlimmste indische Bandit bleibt
-immer der größte Fanatiker Die Leute mögen sich geweigert
+immer der größte Fanatiker. Die Leute mögen sich geweigert
 haben, die Mumie zu vergraben oder im Wasser zu versenken.
-In den Gedankengang eines fanatischen Brahma-anbevers
+In den Gedankengang eines fanatischen Brahmaanbeters
 findet man sich schwer hinein …« —
 
 Hiermit war die Erörterung dieser Fragen vorläufig
 beendet.
 
 Wir durchsuchten nun das Inselchen. Und — wir
-fanden an der Korbsesseln einer kleinen Bucht Anzeichen
+fanden an der Nordseite einer kleinen Bucht Anzeichen
 dafür, daß hier ein großes Segelboot noch vor kurzem gelegen
 haben mußte.
 
@@ -1180,12 +1181,12 @@ kaum entführt.«
 klären möchte, werden wir sofort ein Floß bauen. Als
 Segel benutzen wir die Ballonhülle, ohne sie zu beschädigen.
 <@pagebreak/>
-Sie ist wertvoll, und der gern-Klub in Alleppi wird uns
+Sie ist wertvoll, und der Aero-Klub in Alleppi wird uns
 dankbar sein, wenn wir sie wieder mit zurückbringen …«
 
 Nachts halb zwölf war das Floß fertig. Wir passierten
-glülich den Riffgürtel und trieben langsam gen Süden auf
-den vorher de Malcolm zu.
+glücklich den Riffgürtel und trieben langsam gen Süden auf
+den Rocher de Malcolm zu.
 
 Der helle Mondschein im Verein mit dem Sternenlicht
 der Tropennacht zeigte uns bald ganz deutlich das enorme,
@@ -1195,7 +1196,7 @@ Zeigte uns aber auch etwas anderes, noch angenehmeres:
 die Rauchfahne eines Dampfers, dessen Rumpf dann aus
 dem Zwielicht der Nacht immer klarer auftauchte.
 
-Ein Dampfer — — mit Kurs auf den vorher de Malcolm!
+Ein Dampfer — — mit Kurs auf den Rocher de Malcolm!
 —
 
 Eine Stunde später befanden wir uns an Bord des
@@ -1203,7 +1204,7 @@ Polizeidampfers Raunabour aus Quilam, den der dortige
 Polizeichef zur nochmaligen Durchsuchung der Fälscherwerkstatt
 Josua Jollings nach den Malediven beordert hatte.
 
-Wir trafen hier an Bord mit dem Polizeiinspektor Einging
+Wir trafen hier an Bord mit dem Polizeiinspektor Graging
 wieder zusammen, den wir schon in Quilam kennengelernt
 hatten …
 
@@ -1214,11 +1215,11 @@ weg.
 Er mochte seine Gründe dafür haben. —
 
 so verlebten wir denn nochmals ein paar Stunden
-in Josua Jollings Felsenbehausung. Inspektor Einging
+in Josua Jollings Felsenbehausung. Inspektor Graging
 kam aus dem Staunen gar nicht heraus, was weiter kein
 Wunder war, denn der liebe Leser wird ja selbst überrascht
 gewesen sein, als er im vorigen Band uns in Gedanken
-durch die Geheimnisse des vorher de Malcolm begleitete. —
+durch die Geheimnisse des Rocher de Malcolm begleitete. —
 
 Morgens verließ der Dampfer den Hutfelsen und nachts
 ein Uhr stiegen wir beide in aller Stille unweit Alleppi an
@@ -1230,11 +1231,11 @@ Land und wanderten der Hafenstadt zu.
 <h3>Das Wrack …</h3>
 
 Edward Gaspard, unser braver Bootsmann, fiel aus
-uuen Wolken, als wir so unvermutet wieder an Bord des
+allen Wolken, als wir so unvermutet wieder an Bord des
 Kutters erschienen. Er betonte wiederholt, daß er unser
 Verschwinden am liebsten der Polizei gemeldet hätte, daß
 ihm dann aber doch stets wieder Bedenken aufgestiegen seien.
-in noch bis heute abend mit der Anzeige warten
+Er habe noch bis heute abend mit der Anzeige warten
 wollen. —
 
 Harald blieb nur kurze Zeit auf dem Kutter. Er wollte
@@ -1250,15 +1251,15 @@ S. I. Sarragan war auch bereits zu sprechen. Der Inhaber
 ließ sich ohne Mühe ausfragen. Er klagte über schlechte
 Geschäfte mit Kautabak. Seine wenigen hiesigen Kunden
 kennt er ganz genau, und einer davon ist Besitzer eines
-Perlenkuiter3 und ein Untertan des Maharadscha von Travankore.
-Der Mann heißt Sima Garten und wohnt nördlich
+Perlenkutters und ein Untertan des Maharadscha von Travankore.
+Der Mann heißt Sima Galow und wohnt nördlich
 <@pagebreak/>
 in dem Hafennest Palliport, das nur deshalb einige Bedeutung
 hat, weil der Sommerpalast Seiner Hoheit des
 Maharadscha in den nahen Bergen liegt. — Wir werden
 sofort nach Palliport segeln …«
 
-Das war kurz und bündig Das war wieder einmal
+Das war kurz und bündig. Das war wieder einmal
 ganz Harald Harst!
 
 Der alte Gaspard freute sich wie ein Kind, daß wir nun
@@ -1270,14 +1271,14 @@ würden. —
 Sieben Uhr morgens stachen wir in See.
 
 Es wehte eine recht frische Ostbrise, und unser Kutter
-flo« nur so mit nördlichem Kurs angesichts der buchten-reichen
+flog nur so mit nördlichem Kurs angesichts der buchtenreichen
 Küste dahin.
 
 Fischerboote, ein paar kleine Frachtdampfer und schwerfällige
 indische Frachtsegler belebten das Bild …
 
 Wir beide, Harald und ich, saßen wieder auf der vertieften
-&teuerbank, und Edward Gaspard lag vor uns auf
+Steuerbank, und Edward Gaspard lag vor uns auf
 den Deckplanken und rauchte.
 
 Auch das Sonnensegel war wieder ausgespannt …
@@ -1289,13 +1290,13 @@ Alles — genau so …
 
 Auch diesmal fehlte die Überraschung nicht. Und
 wieder war’s unser biederer Jan Maat, der im Wasser
-etwas bemerkte: ein treibendes Wrack, ’das Wrack eines
+etwas bemerkte: ein treibendes Wrack, das Wrack eines
 Kutters indischer Bauart, über dessen Deck und Maststümpfe
-die Wogen hinwegschhäumten …
+die Wogen hinwegschäumten …
 
 »Ein Wrack!« brüllte er.
 
-Er brüllte eigentlich immer. trat seiner sechzig Jahre
+Er brüllte eigentlich immer. Trotz seiner sechzig Jahre
 besaß er noch so viel überschüssige Kraft, daß er seine Stimme
 stets über Gebühr anstrengte.
 
@@ -1310,9 +1311,9 @@ Starrte geradeaus … Wiederholte:
 
 »Bootshaken — festhalten!« befahl Harst …
 
-Gaspards Hörensagen schwangen die lange Stange …
+Gaspards Bärentatzen schwangen die lange Stange …
 
-Klatschend Thug sie ins Wasser, und die Hakenspite
+Klatschend schlug sie ins Wasser, und die Hakenspitze
 bohrte sich in das Deck des verankerten Kutters ein.
 
 Harald ließ das Segel flattern, und wir lagen Bord an
@@ -1332,7 +1333,7 @@ Und ohne Scheu durchsuchte er nun die Taschen des
 schmierigen Leinenanzugs …
 
 Fand nichts — — nichts als ein aufgeweichtes Stückchen
-Papier, das sich bei näherer Besichtigung als … Kautabak-hülle
+Papier, das sich bei näherer Besichtigung als … Kautabakhülle
 mit Firmenaufdruck entpuppte …
 
 Firmenaufdruck:
@@ -1344,7 +1345,7 @@ Firmenaufdruck:
 > Tabakimport.
 
 Als Harst dies vorlas, schauten wir beide uns an …
-Sachen genau dasselbe und … sprachen halb fragend
+Dachten genau dasselbe und … sprachen halb fragend
 denselben Namen aus:
 
 > Sima Galow?!
@@ -1355,7 +1356,7 @@ er’s … Vielleicht …! —
 und Harald fügte hinzu:
 
 <@pagebreak/>
-»Gaspard, wir nehmen daß Wrack ins Schlepptau! Den
+»Gaspard, wir nehmen das Wrack ins Schlepptau! Den
 Toten bringen wir vorn in eine Kammer. Dann steuern
 wir eine einsame Bucht an und werden das Wrack in Ruhe
 … prüfen …«
@@ -1366,7 +1367,7 @@ wir eine einsame Bucht an und werden das Wrack in Ruhe
 ist …«
 
 »Ich meine, lieber Gaspard, daß der Tote der Perlenfischer
-Sima Galow sein kann und daß dieser Wracks Kutter
+Sima Galow sein kann und daß dieser wracke Kutter
 vielleicht derselbe ist, der auf dem Malediven-Eiland gelandet
 war …«
 
@@ -1381,28 +1382,28 @@ war …«
 
 Anderthalb Stunden drauf lag unser Kutter in einer
 sandigen, von dichtem Gestrüpp umgebenen Bucht der Küste,
-und wir drei mußten uns redlich ab, das. Wrack auf dem
+und wir drei mühten uns redlich ab, das Wrack auf dem
 Grunde der Bucht umzukippen. Es gelang uns schließlich nur
 mit Hilfe der Ankerwinde unseres Kutters …
 
 Dann aber saßen wir auch in den Bodenplanken des
-fremden Fahrzeuges drei große, offenbar mit Perlen ge-shlagene
+fremden Fahrzeuges drei große, offenbar mit Äxten geschlagene
 Löcher …
 
 Sahen noch mehr: zwei Leichen, die im Kielraum
 schwammen …! —
 
-Aufrollend war Stich, daß am Bug des fremden Kutters
-Der braune oder doch die Nummer und der Heimathafen
-Schlafs durch Axthiebe völlig unkenntlich gemacht worden
+Auffallend war auch, daß am Bug des fremden Kutters
+Der Name oder doch die Nummer und der Heimathafen
+gleichfalls durch Axthiebe völlig unkenntlich gemacht worden
 waren. —
 
 Wir zogen das Wrack nun näher an Land, und Harald
-wweweenöbm es, im Adams8kostüm in die Kajüte hinabzu-taitien,
+unternahm es, im Adamskostüm in die Kajüte hinabzutauchen,
 wobei er seine Taschenlampe benutzte, die auch unter
-Master brannte.
+Wasser brannte.
 
-Nach dreimaligem Garten brachte er ein zusammengerolltes
+Nach dreimaligem Tauchen brachte er ein zusammengerolltes
 <@pagebreak/>
 Segel mit, das in einer Ecke mit Teer aufgemalt
 die folgende Bezeichnung trug:
@@ -1410,21 +1411,21 @@ die folgende Bezeichnung trug:
 > S. G. 2, Palliport.
 
 »Sima Galow!« sagte Harald mit Nachdruck, »S. G. …
-Traurig Galow! Es ist der Perlenkutter, der die Mumie
+Sima Galow! Es ist der Perlenkutter, der die Mumie
 mitnahm …!«
 
-Freund Gaspard Niete …
+Freund Gaspard nickte …
 
 »Dann können wir ja wohl den Toten begraben, Mister
-Harst … Eine’ Leiche oder ein Sarg an Bord — das bringt
+Harst … Eine Leiche oder ein Sarg an Bord — das bringt
 Unheil!«
 
 »Gut — begraben wir ihn! Das Wrack aber schleppen
 wir wieder in tieferes Wasser, damit es nicht so leicht von
-Unberufenen gefunden wird. Die Frage: dürfte sich mit
+Unberufenen gefunden wird. Die Polizei dürfte sich mit
 dem Wrack noch zu beschäftigen haben …!« —
 
-Mittags verließen wir die einsame »Sich und segelten
+Mittags verließen wir die einsame Bucht und segelten
 nordwärts — nach Palliport!
 
 Ich ahnte, daß Ellen Weller hier wieder ihre anrüchigen
@@ -1432,13 +1433,13 @@ Händchen mit im Spiel gehabt hatte …!
 
 Harst sprach sich darüber nicht aus. —
 
-Und als wir dann gegen Abend Palliport ächzten, als
+Und als wir dann gegen Abend Palliport sichteten, als
 die Dunkelheit nach kurzer Dämmerung sich über das Meer
-hinabsenkte, abbog Firmament seine Millionen von
+hinabsenkte, als das Firmament seine Millionen von
 Lichtlein noch nicht angezündet hatte, da … ereignete
 sich … der neue Piratenstreich … —
 
-Und hiermit will ich Teil 2 des Geheimnisses des Frei-ballons
+Und hiermit will ich Teil 2 des Geheimnisses des Freiballons
 beginnen …
 
 <@pagebreak 34/>
@@ -1451,7 +1452,7 @@ beginnen …
 Der Wind war jetzt abends wie zumeist völlig abgeflaut.
 Unser Kutter schaukelte träge auf den langen Wogen. Rundum
 nichts als Dunkelheit, jene zähe blaugraue Finsternis, die
-der Nachtbeleuchtung in den Tropen, dem Siernenschimmer,
+der Nachtbeleuchtung in den Tropen, dem Sternenschimmer,
 voranzugehen pflegt.
 
 Auch nicht ein einziges Licht eines anderen Fahrzeugs
@@ -1516,7 +1517,7 @@ soll ich den verdammten Kahn weiterschwinmen lassen?!«
 Harst kam zu uns nach vorn.
 
 »Das Frachtboot,« sagte er leise, »ist verdächtig! Die
-Kaßbenmusik hat aufgehört … Sie kann nur von dem Wrack
+Katzenmusik hat aufgehört … Sie kann nur von dem Wrack
 zu uns herüberge
 
 Und da — — setzte das jammervolle Konzert abermals
@@ -1552,7 +1553,7 @@ Hinzu kam noch, daß die greuliche Katzenmusik nach
 kurzer Pause abermals begann …
 
 Meine Nerven waren in jenem Zustand von leichter Erregung,
-der uns gleichsam fähig macht, unsere Sinne zu ver-Doppeln
+der uns gleichsam fähig macht, unsere Sinne zu verdoppeln
 …
 
 So war’s auch mir, als ob ich zehn Meter vom Kutter
@@ -1737,7 +1738,7 @@ Schirm. Auch das konnte man an dem Schattenbild erkennen.
 Plötzlich — — verschwand es … Und zwar so, als ob
 der Mann in eine, Dachluke hinabstieg, Zuletzt war nur noch
 der Kopf sichtbar … Jetzt im Profil und schärfer im
-Schaitenriß als vorhin: Der Mann trug einen Spitzbart!
+Schattenriß als vorhin: Der Mann trug einen Spitzbart!
 
 Nicht weiter wunderbar, daß ich an Ellen Weller Inder
 Verkleidung als Doktor John Faraday dachte …
@@ -1768,7 +1769,7 @@ durch Morsezeichen, daß er nach Dunkeliwwerden zu uns
 kommen würde …«
 
 »Glänzend!1« Gute Gaspard. »So ein Schwindler!
-Wenn er gefangen gehalten wird, kann er doch nicht frei um-berspazieren!!«
+Wenn er gefangen gehalten wird, kann er doch nicht frei umherspazieren!!«
 
 »Kein, das wohl nicht … Wir müssen eben abwarten,
 was geschieht. C5 ist jetzt fünf Uhr nachmittags. Setzen
@@ -1879,8 +1880,8 @@ der Bewohner von Travankore …!«
 Jetzt staunte ich »Gaspard, woher wissen Sie das?!«
 
 »Oh — jedes Kind weiß das hier im Südziypfel Vorderindiens.
-Ich bin seit acht Jahren Angestellter der Diamani-minen-
-Gesellschaft. In acht Jahren lernt man Land und
+Ich bin seit acht Jahren Angestellter der Diamantminen-Gesellschaft.
+In acht Jahren lernt man Land und
 Leute kennen.«
 
 Gaspard hatte nach seiner beliebten Kraftmeter-methode
@@ -1916,7 +1917,7 @@ Und Harst erwiderte an Stelle des Alten:
 mit Alkohol versehen gehabt haben …:«
 
 »Oh — nur zwei Flaschen Gin … Aber das Zeug
-stank einem aus der Kehle wie ’n Geschüttelt nach Pulver-dampf
+stank einem aus der Kehle wie ’n Geschüttelt nach Pulverdampf
 …«
 
 Wir hätten am liebsten laut lo8gelacht. Doch Harald
@@ -2010,7 +2011,7 @@ Kehrte zurück, kniete auf dem Maisstroh an der Mauer,
 aus deren Fugen zwischen den einzelnen Steinen stellenweise
 der Mörtel herausgefallen war …
 
-Und pfiff ganz leise … Ganz leise. — Pfiff die An-fangstakte
+Und pfiff ganz leise … Ganz leise. — Pfiff die Anfangstakte
 des Liebes: »Heimat, süße Heimat …«
 
 Sie Allan Kraag sich meldete und wir mir merkten,
@@ -2096,7 +2097,7 @@ Patsche geraten?«
 
 »Durch eigene Schuld …« Kraag rauchte mit Andacht.
 »Ich wollte für meine Zeitung eine Artikelserie über indische
-Religion38gebeimnisse schreiben. Und - eins der dunkelsten
+Religionsgeheimnisse schreiben. Und - eins der dunkelsten
 dieser Rätsel ist die Legende vom Maharadscha Biwar Khan,
 der im Jahre 1492 während einer furchtbaren Choleraepidemie
 sich freiwillig für sein Volk enthaupten ließ, um
@@ -2132,8 +2133,8 @@ Post: »Die Legende von dem Maharadscha, der sich freiwillig
 tönten ließ, hat im Volksmunde unzählige Variationen …
 Das betont auch Oberst Marling in seinem bekannten Buch.
 Wir selbst glückte es nur dadurch den Tatsachen auf die Spur
-zu kommen, daß ich mich an einen der Priester des Daropharim-
-Tempels heranmachte, von dessen stark weltlichen
+zu kommen, daß ich mich an einen der Priester des Daropharim-Tempels
+heranmachte, von dessen stark weltlichen
 Kinn ich bereits Beweise erhalten hatte — sehr schöne
 Lebende Beweise, nämlich durch ein blondes Weib, das
 
@@ -2325,7 +2326,7 @@ hinan … Und da sah ich einen seinen Lichtstrahl linker Hand
 durch die, Quadern dringen … Da machte ich halt … Da
 konnte ich durch das Löchlein gerade einen Teil der erleuchteten
 <@pagebreak/>
-Zelle überschauen … Und. sah Ellen Weller,.die blonde
+Zelle überschauen … Und sah Ellen Weller, die blonde
 Bestie, und ihr gegenüber den ersten Minister des Maharadscha,
 Exzellenz Tamari, dem der Vicekönig von Indien
 letztens wegen hervorragender Verdienste einen hohen Orden
@@ -2364,7 +2365,7 @@ das blonde Weib beobachtet hatte, sahen wir sie am einem
 <@pagebreak/>
 kleinen rohen Holztische sitzen — auf einem vierbeinigen
 Schemel. Auf dem Tische brannte eine jener altindischen
-Öllampen aus getriebenem kurzer, deren Leuchtkraft er-staunlich
+Öllampen aus getriebenem kurzer, deren Leuchtkraft erstaunlich
 groß ist.
 
 Ellen zeigte uns ihr Profil. Sie saß da, die Unterarme
@@ -2632,8 +2633,8 @@ Aststücke, wie man sie hier nur in Museen findet, der Anlaß
 zu einer beschleunigten Erledigung dunkler Punkte sein
 könnte, hatten wir auch nicht gedacht …
 
-Genau so wenig, daß das neugierige, sensation3lüsterne
-Ungsück8wurm Allan Kraag diese Vase von dem Ständer
+Genau so wenig, daß das neugierige, sensationslüsterne
+Unglückswurm Allan Kraag diese Vase von dem Ständer
 stoßen würde, als er uns nun, entgegen Haralds Befehl,
 nachschlich.
 
@@ -2704,7 +2705,7 @@ entwickeln, meine Herren. — Sie, Minister Tamari,
 dürften tief in Schulden stecken. Sie sind ein moderner
 Inder, haben von der Kultur Europas auch abendländische
 Neigungen übernommen. Vielleicht spielen Sie oder Spezialisten.
-Sie haben jedenfalls größere Zahlungs8verpflich-tungen
+Sie haben jedenfalls größere Zahlungsverpflichtungen
 gehabt. Vielleicht hat Mr. Simpson Ihnen Geld
 vorgeschossen. Da. Sie nicht anders diese Schulden tilgen
 konnten, ließen Sie … die Unwahre des Maßoräadscha durch
