@@ -1457,11 +1457,11 @@ voranzugehen pflegt.
 
 Auch nicht ein einziges Licht eines anderen Fahrzeugs
 war sichtbar. Nur unsere Positionslaternen schickten ihre
-es Mr Tränen Strahlen matiglänzend in die Nacht
+roten und grünen Strahlen mattglänzend in die Nacht
 hinaus …
 
 Plötzlich aber kam aus der Finsternis vor uns, aus dem
-dunklen nichts, eine Reihe von Tönen, deren Eigenart uns
+dunklen Nichts, eine Reihe von Tönen, deren Eigenart uns
 ebenso sehr überraschte wie verwirrte …
 
 Töne waren’s, die an das Wimmern eines Kindes, das
@@ -1485,7 +1485,7 @@ Bis Edward Gaspard brüllte:
 
 »Verdammt — — wieder ein Wrack!«
 
-Dicht vor uns tauchte da wirklich ein Fahrzeug mit geknickten
+Dicht vor uns tauchte da wirklich ein Fahrzeug mit geknicktem
 Mast auf, mit im Wasser schleifenden Segeln, mit
 starker Schlagseite …
 
@@ -1496,7 +1496,7 @@ spärlichen Beleuchtung riesige Deckaufbauten vortäuschen …
 Steuerlos trieb das große Boot bald hierhin, bald
 dorthin …
 
-Längst hatte der flinke Gaspard wieder seinen Bo9t8-haken
+Längst hatte der flinke Gaspard wieder seinen Bootshaken
 zur Hand genommen, hatte den Haken in das Tauwerk
 des geknickten Mastes gestoßen, hielt das Wrack auf
 diese Weise neben uns …
@@ -1510,7 +1510,7 @@ so arge Havarie erlitten haben sollte …!«
 
 »Stimmt!« brüllte der Alte. »Auch ich bin der Ansicht,
 Mr. Harst, wir halten uns den Burschen vom Leibe! oder
-soll ich den verdammten Kahn weiterschwinmen lassen?!«
+soll ich den verdammten Kahn weiterschwimmen lassen?!«
 
 »Noch nicht …!«
 
@@ -1518,13 +1518,14 @@ Harst kam zu uns nach vorn.
 
 »Das Frachtboot,« sagte er leise, »ist verdächtig! Die
 Katzenmusik hat aufgehört … Sie kann nur von dem Wrack
-zu uns herüberge
+zu uns herüberge …«
 
 Und da — — setzte das jammervolle Konzert abermals
 ein …
 
-Da wurde es so üÜberlaut, daß Gaspard murmelte:
-Manne guten Geister! Das geht nicht mit rechten Dingen
+Da wurde es so überlaut, daß Gaspard murmelte:
+
+»Alle guten Geister! Das geht nicht mit rechten Dingen
 zu …!«
 
 <@pagebreak/>
@@ -1532,7 +1533,7 @@ Harald hatte einen zweiten Bootshaken ergriffen, hatte
 im Nu seine elektrische Taschenlampe mit einer Schnur an
 dem eisernen Haken oben befestigt, hatte die Lampe eingeschaltet
 und streckte die Stange nun vor, so daß Teile des
-Des des fremden Wracks hell beleuchtet wurden …
+Deck des fremden Wracks hell beleuchtet wurden …
 
 Rief mir gleichzeitig leise zu:
 
@@ -1557,10 +1558,10 @@ der uns gleichsam fähig macht, unsere Sinne zu verdoppeln
 …
 
 So war’s auch mir, als ob ich zehn Meter vom Kutter
-entfernt etwas Dunkles auf dem ganz man schillernden
+entfernt etwas Dunkles auf dem ganz matt schillernden
 Wasser treiben sah — etwas wie eine Kugel.
 
-Und — war’s na! — ich glaubte Nr Kopf
+Und — war’s Einbildung?! — ich glaubte den Kopf
 eines Menschen zu erkennen …
 
 Glaubte …
@@ -1577,19 +1578,19 @@ Das Großsegel kreischte, knallte …
 
 Der Kutter schwenkte herum, kam in Fahrt …
 
-Und hinter uns her, rasch verhallend, erscholl das Gewimmel
-und Gewinsel von dem zurüdbleibenden Wrack wie
+Und hinter uns her, rasch verhallend, erscholl das Gewimmer
+und Gewinsel von dem zurückbleibenden Wrack wie
 das höhnische Kichern einer Schar heimtückischer Teufel.
 
 <@pagebreak/>
-Ich atmete auf, sagte zu unserem alten. Jan Maat, der
-Mr dreimal ins Master tauchte — auch) so ein überstanden:
+Ich atmete auf, sagte zu unserem alten Jan Maat, der
+befriedigt dreimal ins Wasser spuckte — auch so ein Aberglauben:
 
-»Mix war’s, als ob ich einen Kerl, einen Schwimmer,
+»Mir war’s, als ob ich einen Kerl, einen Schwimmer,
 bemerkte …«
 
 »Mag schon sein, Mr. Schraut … Jedenfalls: geheuer
-war die Sache nicht. Mister Harst flüsterte nur zu, es sei die
+war die Sache nicht. Mister Harst flüsterte mir zu, es sei die
 durch Maisstrohballen und einen Mast und Segel leidlich
 als Kutter herausstaffierte Seraphia gewesen …«
 
@@ -1598,10 +1599,10 @@ als Kutter herausstaffierte Seraphia gewesen …«
 Haralds Stimme fuhr dazwischen:
 
 »He — Gaspard, Schraut, durchsucht mal für alle Fälle
-unser Schiff! Jetzt zu, wo. Ihr an Deck nasse Flecke er
-— ob jemand. ’aus dem Wasser an Bord gepfeffert ist …
+unser Schiff! Seht zu, wo Ihr an Deck nasse Flecke findet,
+— ob jemand aus dem Wasser an Bord geklettert ist …«
 
-Dies hätte nur auf der Backbordseite geschehen ’jein
+Dies hätte nur auf der Backbordseite geschehen sein
 können, der wir vorhin den Rücken zugekehrt hatten.
 
 Ich ging zu Harst an Steuer.
@@ -1615,8 +1616,8 @@ hatte noch etwas von »Laterne holen« gemurmelt
 …
 
 »Und als ich nun die Taschenlampe einschaltete und drei
-Schritt von Harald entfernt die De&ckplanken abzuleuchten herein
-plötzlich aus dem Vorschiff ein kurzer Schrei
+Schritt von Harald entfernt die Deckplanken abzuleuchten begann,
+schrillte plötzlich aus dem Vorschiff ein kurzer Schrei
 herauf …
 
 Ich richtete mich auf …
@@ -1632,7 +1633,7 @@ Da auch schon Haralds ebenso schrille Warnung:
 Oh — er kam nicht mehr dazu abzudrücken, obwohl er
 die Waffe bereitgehalten hatte …
 
-Die kurze Kajüttentrepyve empor schnellten drei — vier
+Die kurze Kajütentreppe empor schnellten drei — vier
 braune Gesellen …
 
 <@pagebreak/>
@@ -1642,19 +1643,19 @@ Und — ein Hieb traf meinen erhobenen Arm …
 
 Polternd fiel die Clement auf die Planken, entlud sich.
 
-Ein zweiter Hieb … Und —»- Max Schraut schlug
-hinzenäüber … Max Schraut war vorläufig erledigt … -
+Ein zweiter Hieb … Und — Max Schraut schlug
+hintenüber … Max Schraut war vorläufig erledigt … —
 
 * * *
 
 Da war ein Fenster, ein kleines, vergittertes Fenster
-erst trüben Scheiben, halb mit verstaubten Spinngeweben
+mit trüben Scheiben, halb mit verstaubten Spinngeweben
 überzogen …
 
 Und diese Fenster verdunkelte sich jetzt …
 
 Ein Profil zeichnete sich ab — das Profil meines
-Freiunves Harald Harst — — mit etwas unsfsörmigem
+Freundes Harald Harst — — mit etwas unförmigem
 Schädel …
 
 Unverkennbar Harald Harst …!
@@ -1668,12 +1669,12 @@ Geschaute …
 Ja — Harald stand an dem vergitterten Fensterchen
 — — mit einem Verband um den Kopf.
 
-Und ich selbst lag auf einem Haufen Maisstroh- neben
-einer fühlen feuchten Matter.
+Und ich selbst lag auf einem Haufen Maisstroh neben
+einer kühlen feuchten Mauer.
 
 Auch mit einem Verband um den Kopf.
 
-Neben mir hatte jemand, brummte:
+Neben mir hockte jemand, brummte:
 
 »Endlich, Mr. Schraut …! Endlich! Wir beide sind
 schon seit einer Stunde wieder bei Besinnung …«
@@ -1692,7 +1693,7 @@ die blinden Scheiben mit seinem Taschentuch.
 
 Wandte dann den Kopf …
 
-»Gruß Gott, mein Alter …! Also hast Du nun auch
+»Grüß Gott, mein Alter …! Also hast Du nun auch
 deine fünf Sinne wieder beieinander! — Gaspard, helfen
 Sie ihm …! Kommt mal her!«
 
@@ -1701,29 +1702,29 @@ Das Aufstehen hatte seine Schwierigkeiten …
 Ich taumelte wie ein Trunkener. Doch die Willenskraft
 vermag viel.
 
-Gaspard Küste mich. Nun lehnte ich neben dem Fensterchen
+Gaspard stützte mich. Nun lehnte ich neben dem Fensterchen
 an der Mauer …
 
 »Bitte — nette Aussicht!« meinte Harald, und es klang
 gutgelaunt, als sollte ich einen Rundblick von der Höhe des
-erkälten braven Berliner Kreuzberges genießen … —
+alten braven Berliner Kreuzberges genießen … —
 
 Wie durch grünliche Schleier erkannte ich draußen einen
 quadratischen Hof, eingefaßt von einer sehr hohen dunklen
 Mauer. Ein Teil des Hofes lag im Sonnenlicht. Und dort,
-wo offenbar daß Dach des Gebäudes, in dem wir uns befanden,
+wo offenbar das Dach des Gebäudes, in dem wir uns befanden,
 die Sonne absperrte und die scharfe Grenze zwischen
 Licht und Schatten hinlief, dort sah ich — seltsam genug
 war das! — ein verzerrtes Schattenbild …
 
 Einen Menschen — einen Mann, der oben auf dem
-Dache hohen mußte und der dauernd die Arme bewegte …
+Dache hocken mußte und der dauernd die Arme bewegte …
 
 Er streckte sie bald zur Seite, bald nach oben, dann
 wieder fuchtelte er nur mit dem einen Arme umher …
 
 Seltsam war das! Und es war das einzige, was den
-wackeren Hof belebte … -
+leeren Hof belebte … —
 
 Nachdem ich mich an die Freiübungen des Unsichtbaren
 gewöhnt hatte, richtete ich mein Augenmerk mehr auf seine
@@ -1736,23 +1737,23 @@ Auf dem Kopfe hatte er eine Sportmütze mit sehr langem
 Schirm. Auch das konnte man an dem Schattenbild erkennen.
 
 Plötzlich — — verschwand es … Und zwar so, als ob
-der Mann in eine, Dachluke hinabstieg, Zuletzt war nur noch
+der Mann in eine Dachluke hinabstieg. Zuletzt war nur noch
 der Kopf sichtbar … Jetzt im Profil und schärfer im
 Schattenriß als vorhin: Der Mann trug einen Spitzbart!
 
-Nicht weiter wunderbar, daß ich an Ellen Weller Inder
+Nicht weiter wunderbar, daß ich an Ellen Weller in der
 Verkleidung als Doktor John Faraday dachte …
 
 Ich sprach den Namen fragend aus:
 
 »Faraday …?!
 
-»Nein, lieber Alles — viel interessanter, bedeutend
-wichtiger!« erwiderte Harald. »Der, Mann, dessen Schatten
+»Nein, lieber Alter — viel interessanter, bedeutend
+wichtiger!« erwiderte Harald. »Der Mann, dessen Schatten
 wir sahen, heißt Allan Kraag …!«
 
 »Gott steh’ mir bei!« meinte Gaspard. »Woher
-wissen Sie das?! 2,98 er Ihnen seine Visitenkarte überreicht,
+wissen Sie das?! Hat er Ihnen seine Visitenkarte überreicht,
 Mr. Harst?«
 
 »Allerdings — — telegraphisch!«
@@ -1765,15 +1766,15 @@ auch ich die Freiübungen des Schattens richtig ein …
 »Ja. Dieser Allan Kraag ist kein Dummkopf.
 
 Er ist Gefangener wie wir es sind. Er telegraphierte
-durch Morsezeichen, daß er nach Dunkeliwwerden zu uns
+durch Morsezeichen, daß er nach Dunkelwerden zu uns
 kommen würde …«
 
-»Glänzend!1« Gute Gaspard. »So ein Schwindler!
+»Glänzend!!« brummte Gaspard. »So ein Schwindler!
 Wenn er gefangen gehalten wird, kann er doch nicht frei umherspazieren!!«
 
-»Kein, das wohl nicht … Wir müssen eben abwarten,
-was geschieht. C5 ist jetzt fünf Uhr nachmittags. Setzen
-wir uns Warten wir …« — Er flüsterte nur, und er
+»Nein, das wohl nicht … Wir müssen eben abwarten,
+was geschieht. Es ist jetzt fünf Uhr nachmittags. Setzen
+wir uns. Warten wir …« — Er flüsterte nur, und er
 flüsterte noch leiser, als wir nun auf dem Maisstroh saßen.
 
 <@pagebreak/>
@@ -1782,46 +1783,46 @@ flüsterte noch leiser, als wir nun auf dem Maisstroh saßen.
 <h3>Der Mann von oben …</h3>
 
 »Ich weiß nicht, wo wir sind«, begann Harald zu mir
-gewandt. »Ich erhielt an Bord unseres Kutters wie Dir.
-einen Säbelhieb und erwache wie »Zu hier in dieser schien,
-Kerkerzelle. — GC3 ist eine Zeile. Dort die Witzig Je 29flig?
-Eisentür führt in einen winzigen Hofraum. dieser Vorraum
-hat eine noch seltene eiserne Tür mit einem Guckloch:
+gewandt. »Ich erhielt an Bord unseres Kutters wie Du
+einen Schädelhieb und erwache wie Du hier in dieser echten
+Kerkerzelle. — Es ist eine Zeile. Dort die winzige rostige
+Eisentür führt in einen winzigen Vorraum. dieser Vorraum
+hat eine noch festere eiserne Tür mit einem Guckloch
 mit Schieber …«
 
 Er wollte noch mehr hinzufügen …
 
 Die Innentür kreischte … öffnete sich handbreit. Eine
-Stimme sagte in ielechteit Englisch:
+Stimme sagte in schlechtem Englisch:
 
-»Euer Osten sieht bereit … Holt es Euch …«
+»Euer Essen steht bereit … Holt es Euch …«
 
 Dann klappte die andere Tür … —
 
 Stille …
 
-Gasvpard räusperte sich.
+Gaspard räusperte sich.
 
 »Soll ich mal nachsehen, Mr. Harst?«
 
 »Ja …«
 
-»Der Alte stand auf, stieß die Tür mit einem Fahrrinne«
-noch weiter auf und starrte mißtrauisch in den dunklen Vor-,.
-Raum hinein …
+»Der Alte stand auf, stieß die Tür mit einem Fußtritt
+noch weiter auf und starrte mißtrauisch in den dunklen Vorraum
+hinein …
 
-»Hm — ein Brett, drei Brote, ein Krug Zu an
-eine »Flusses Reis …", meinte er enttäuscht.
+»Hm — ein Brett, drei Brote, ein Krug Wasser und
+eine Schüssel Reis …«, meinte er enttäuscht.
 
 <@pagebreak/>
 »Erwarteten Sie Fisch, Braten und Kompott, lieber
-anbrach?!« Sache Harald.
+Gaspard?!« lachte Harald …
 
 Der Alte bückte sich und kam mit den Herrlichkeiten
 herbei.
 
 »Oh — ich habe Hunger«, erklärte Harst ehrlich …
-»Bord drei 4 Löffel — Unerhörter Luxus!«
+»Sogar drei Löffel — Unerhörter Luxus!«
 
 Auch unser Seebär aß …
 
@@ -1829,117 +1830,117 @@ Auch unser Seebär aß …
 wird uns mästen, bevor sie uns schlachtet.« — Er versuchte
 auf Harsts scherzendem Ton einzugehen.
 
-»Einen besser?!« meinte Harald sehr gedehnt. »Ich
-Dir ie bezweifeln, daß sie uns hier festhält. Es ist dies
-nasses ein alles indisches Gefängnis. Wie sollte unsere
-blonde Feindin uns in einem Gefängnis unterbritigen
-Zusagen?!«
+»Ellen Weller?!« meinte Harald sehr gedehnt. »Ich
+möchte bezweifeln, daß sie uns hier festhält. Es ist dies
+fraglos ein altes indisches Gefängnis. Wie sollte unsere
+blonde Feindin uns in einem Gefängnis unterbringen
+können?!«
 
 »Wer denn sonst?!« mischte ich mich ein. »Du glaubst
-doch in vom Wrack mit den Maisstrohballen die Seraphia
-Wiedererkannt zu haben … 1!«
+doch in dem Wrack mit den Maisstrohballen die Seraphia
+wiedererkannt zu haben …!«
 
 »Es war die Seraphia …«
 
 »Na also!«
 
-»Womit noch nicht gesagt ist. daß auch Ellen wollen uns
-»dann so rücksichtsvoll betonte!t hat. Man hat uns drei
-sorgfältig verbunden. Ellen hätte das nie getan. Druck?
-daran, mein Alter, daß sie mir im wollen zurief, ich sei
+»Womit noch nicht gesagt ist, daß auch Ellen Weller uns
+dann so rücksichtsvoll handelt hat. Man hat uns drei
+sorgfältig verbunden. Ellen hätte das nie getan. Denke
+daran, mein Alter, daß sie mir im Ballon zurief, ich sei
 längst zuviel auf der Welt!«
 
-»Hm — da? stimmt!«
+»Hm — das stimmt!«
 
 Und auch Gaspard meinte kauend: »Sie hätte uns
-einfach ersäuft, »die … verdammte Sargdiebin, die … blonde
-Bestie, die … 1!« —
+einfach ersäuft, die … verdammte Sargdiebin, die … blonde
+Bestie, die …!!« —
 
-Wie doch ich ein einziges Wort halb Vergessenes j8h
-»wieder an die Oberfläche unserer Gedanken bringt! — In
+Wie doch ich ein einziges Wort halb Vergessenes jäh
+wieder an die Oberfläche unserer Gedanken bringt! — In
 der Tat, ich hatte über all den Ereignissen des letzten Tages
-den geheimnisvollen Zinksarg Satz vergessen gehabt. Nun
+den geheimnisvollen Zinksarg fast vergessen gehabt. Nun
 waren sie sämtlich wieder aufgelebt, all jene Einzelheiten:
-der verankerte Sarg, der erste Überfall, der Ballon, die
-»Insel, die Mumie …!
+Der verankerte Sarg, der erste Überfall, der Ballon, die
+Insel, die Mumie …!
 
 <@pagebreak/>
-Und standen vor mir, viele Einzelheiten, wie eine Reihe
-düsterer Gestalten mit veriäüliion Gesichtern, aber verschlungenen
-Händen. Ei? gehörten zusammen und waren
-als Glanz doch ein Einsturz Rätsel. —
+Und standen vor mir, diese Einzelheiten, wie eine Reihe
+düsterer Gestalten mit verhüllten Gesichtern, aber verschlungenen
+Händen. Sie gehörten zusammen und waren
+als Ganzes doch ein einziges Rätsel. —
 
-»Ich wette, es ist die Mumie des enthaupteten Maha-rad’/
-ein Biwar Khan«, sagte Harald ganz leise und mehr
+»Ich wette, es ist die Mumie des enthaupteten Maharadscha
+Biwar Khan«, sagte Harald ganz leise und mehr
 zu sich selbst …
 
-GaS8vpard wiederholte staunend: »Biwar Khan — —
+Gaspard wiederholte staunend: »Biwar Khan — —
 Biwar Khan?! — Das ist ja sozusagen der Nationalheilige
 der Bewohner von Travankore …!«
 
-Jetzt staunte ich »Gaspard, woher wissen Sie das?!«
+Jetzt staunte ich. »Gaspard, woher wissen Sie das?!«
 
-»Oh — jedes Kind weiß das hier im Südziypfel Vorderindiens.
+»Oh — jedes Kind weiß das hier im Südzipfel Vorderindiens.
 Ich bin seit acht Jahren Angestellter der Diamantminen-Gesellschaft.
 In acht Jahren lernt man Land und
 Leute kennen.«
 
-Gaspard hatte nach seiner beliebten Kraftmeter-methode
+Gaspard hatte nach seiner beliebten Kraftmeiermethode
 seine Stimme bei dieser Erklärung durchaus nicht
 geschont, was ihm nun von Seiten Haralds ein warnendes,
-ärgerliches »Bitte — pienissimo!« eintrug.
+ärgerliches »Bitte — pianissimo!« eintrug.
 
 »Verzeihung!« knurrte er, denn das, was andere Menschen
 flüstern nennen, klingt bei ihm wie die drohenden Töne
-eines bissigen tötete, dem man daß Maul zuhält … —
-Verzeihung, Mr. Harst … Ich werde mich nicht nochmal
+eines bissigen Köters, dem man daß Maul zuhält … —
+»Verzeihung, Mr. Harst … Ich werde mich nicht nochmal
 so vergessen! Die Wände haben vielleicht Ohren … — Was
 aber Biwar Khan angeht, so muß ich noch hinzufügen, daß
 ich selbst mal auf dem Heiligen Berge Daropharim war und
 das gleichnamige Heiligtum der Hindus besucht habe, was
 mir beinahe verdammt schlecht bekommen wäre, da ja kein
-Europäer den Daropharim-Tempel betreten darf …
+Europäer den Daropharim-Tempel betreten darf …«
 
 Harald rückte näher heran …
 
 »Sie waren also verkleidet, Gaspard?«
 
-»Was man so verkleidet nennt — als indischer wollte:
-3! Aber mein Odem verriet mich der andächtigen
-enge.
+»Was man so verkleidet nennt — als indischer Wallfahrer
+…! Aber mein Odem verriet mich der andächtigen
+Menge.
 
-»Odem? fragte ich lächelnd.
+»Odem?« fragte ich lächelnd.
 
 Und Harst erwiderte an Stelle des Alten:
 
 <@pagebreak/>
-»GaS3spard dürfte für diese Tour damals sich zu reichlich
-mit Alkohol versehen gehabt haben …:«
+»Gaspard dürfte für diese Tour damals sich zu reichlich
+mit Alkohol versehen gehabt haben …«
 
 »Oh — nur zwei Flaschen Gin … Aber das Zeug
-stank einem aus der Kehle wie ’n Geschüttelt nach Pulverdampf
+stank einem aus der Kehle wie ’n Geschützrohr nach Pulverdampf
 …«
 
-Wir hätten am liebsten laut lo8gelacht. Doch Harald
+Wir hätten am liebsten laut losgelacht. Doch Harald
 drohte mir:
 
 »Vorsicht!! — Außerdem ist dieses Thema alles andere
-als scherzhaft … — Haben Sie denn  damals- den toten
+als scherzhaft … — Haben Sie denn  damals den toten
 Heiligen gesehen, Gaspard?«
 
 »Das sind nun vier Jahre her, Mr. Harst, doch ich besinne
 mich — auch trotz dem Gin-Teufelszeug! — noch ganz
 genau, daß der heilige Maharadscha Biwar Khan in einem
-Marxrmorschrein ’ steckte und durch Marmor kann man nur
+Marmorschrein steckte und durch Marmor kann man nur
 mittels eines Loches hindurchschaun …«
 
 Jetzt wandte Harald sich mir zu und sagte stets in demselben
 gedämpften Tone:
 
-»Wir sind zu selten in Südindien gewesen, mein Ritzte,
-als daß wir die Geschichte des Biwar Khan hätten im Motors
-haben müssen. Wir ist der heilige Maharadscha auch erst
-wen Sees« halb durch eine Eingebung von oben …«
+»Wir sind zu selten in Südindien gewesen, mein Alter,
+als daß wir die Geschichte des Biwar Khan hätten im Kopfe
+haben müssen. Mir ist der heilige Maharadscha auch erst
+vorhin eingefallen, halb durch eine Eingebung von oben …«
 
 »Wie das?«
 
@@ -1950,11 +1951,11 @@ Inhalt des merkwürdigen Telegramms unseres Leidensgefährten
 uns mitgeteilt hatte — natürlich nicht! Das Beste
 behält er ja stets für sich!
 
-»Kraag depeschierte nämlich! »Sitze hier wegen Biwar
-Khan gefangen!« — Und da öffnete sich denn prompt- die
-Zelle meines Hirns, in der das Kapitel aus Oberst Vorhang
-Werk über indische Heiligtümer als Erinnerung eingekatfelt
-wär …! Da fiel mir eben ein, daß Biwar Khan als Mumie
+»Kraag depeschierte nämlich: »Sitze hier wegen Biwar
+Khan gefangen!« — Und da öffnete sich denn prompt die
+Zelle meines Hirns, in der das Kapitel aus Oberst Marlings
+Werk über indische Heiligtümer als Erinnerung eingekapselt
+war …! Da fiel mir eben ein, daß Biwar Khan als Mumie
 auf dem Daropharim östlich von Palliport in einem Tempel
 als Heiliger verehrt wird …«
 
@@ -1964,11 +1965,11 @@ als Heiliger verehrt wird …«
 <@pagebreak/>
 betont in seinem Buch, daß die Sage von »Biwar Khans
 Verwandlungen« so widerspruchsvoll sei, daß er den Kern all
-der Legenden nicht habe heraus Osten können. — Immerhin:
+der Legenden nicht habe herausschälen können. — Immerhin:
 ich vermute jetzt, daß unsere Zinksarg-Mumie vielleicht der
 heilige Maharadscha von Travankore ist.«
 
-Gaspard schlenderte den Kopf. »Glaube ich nicht!! Wie
+Gaspard schlenkerte den Kopf. »Glaube ich nicht!! Wie
 soll solch ein toter Heiligen in einen verlöteten Zinksarg und
 an eine Ankerkette und unter Wasser kommen?!«
 
@@ -1982,18 +1983,18 @@ Und ich gab nun auch noch meine Weisheit zum Besten.
 »Halt!« brüllte Gaspard.
 
 Erschrak über seine eigene Lungenkraft und flüsterte
-»Verzeihung, — — über stehlen — — stehlen, das ist bei *der*
+»Verzeihung, — — aber stehlen — — stehlen, das ist bei *der*
 Bewachung ausgeschlossen! Sie müßten mal oben auf dem
-Heiligen Berge gewesen sein, Mr. je Da gibt es
+Heiligen Berge gewesen sein, Mr. Schraut! Da gibt es …«
 
-»Stück!1« warnte Harald jäh … »Still! Ich höre in der
+»Still!!« warnte Harald jäh … »Still! Ich höre in der
 Mauer Geräusche …!
 
 Ja — Harst hatte recht …
 
-letzte neben uns vorn wir in der aus Granitquadern
+Gerade neben uns vernahmen wir in der aus Granitquadern
 bestehenden Mauer ein deutliches Scharren und
-traten …
+Kratzen …
 
 Und dann … eine Stimme — — wie aus dem
 Nichts:
@@ -2004,7 +2005,7 @@ Englische Worte!!
 
 Fraglos Allan Kraag …
 
-… Harald sprang auf … Ging wie drückte die eiserne
+… Harald sprang auf … Ging und drückte die eiserne
 Tür vorsichtig zu …
 
 Kehrte zurück, kniete auf dem Maisstroh an der Mauer,
@@ -2012,9 +2013,9 @@ aus deren Fugen zwischen den einzelnen Steinen stellenweise
 der Mörtel herausgefallen war …
 
 Und pfiff ganz leise … Ganz leise. — Pfiff die Anfangstakte
-des Liebes: »Heimat, süße Heimat …«
+des Liedes: »Heimat, süße Heimat …«
 
-Sie Allan Kraag sich meldete und wir mir merkten,
+Bis Allan Kraag sich meldete und wir nun merkten,
 <@pagebreak/>
 daß seine Stimme aus einer der Fugen hervordrang …
 
@@ -2024,29 +2025,29 @@ er …
 »Ja«, erwiderte Harald, den Mund dicht an der Fuge.
 
 »Dann ist es gut, dann sind wir sicher. Ich kenne die
-sehen In der Wächter. Dann … komme ich zu
+Gepflogenheiten der Wächter. Dann … komme ich zu
 Ihnen …« —
 
 Er kam … Er kam so, wie er nur kommen konnte, durch
 die Mauer!! Durch die Öffnung, die eine aus Granitquadern
 bestehende Tür nun freigab, indem Mister Allan Kraag sie
-nach außen aufijchob — nach uns hin …
+nach außen aufschob — nach uns hin …
 
 Kam und nickte uns etwas gönnerhaft zu, sagte:
 
-»Gruß Gott, die Herren … Allan Kraag mein Name,
-Berichterstatter der Londoner »Vorging Post«
+»Grüß Gott, die Herren … Allan Kraag mein Name,
+Berichterstatter der Londoner »Morning Post« …«
 
-drückte die dicke Steintür wieder Taucher zu »und setzte
-ließ zu uns.
+drückte die dicke Steintür wieder sauber zu und setzte
+sich zu uns …
 
 »Mit wem habe ich das Vergnügen?« meinte er zwanglos
 …
 
 Er war tadellos gekleidet, Haar und Bart waren gepflegt,
 und der ganze vielleicht dreißigjährige Mann mit
-den vergnügten Augen und dem unerschütterlicher Gleichmut
-des kritischen Reporters wirkte recht sympathisch.
+den vergnügten Augen und dem unerschütterlichen Gleichmut
+des britischen Reporters wirkte recht sympathisch.
 
 Harald nannte unsere Namen — recht undeutlich tat
 er’s, zwinkerte dabei Gaspard heimlich zu.
@@ -2057,7 +2058,7 @@ Schraut sind!
 Kraag aber meinte jetzt, indem er Harald scharf fixierte:
 
 »Mister, Sie spielen hier von Anfang an mit falschen
-Warten! Weshalb gaben Sie dem Old Boy dort heimlich mit
+Karten! Weshalb gaben Sie dem old Boy dort heimlich mit
 den Augenlidern Zeichen?! Ich bin nicht blind. Im Gegenteil,
 man behauptet, Allan Kraag habe doppelte Augen …«
 
@@ -2066,28 +2067,29 @@ Er lächelte Harald an.
 »Mr. Harst, ich wäre ja ein Idiot, wenn ich Sie nicht
 erkennen würde, zumal Ihr Freund Schraut mit seiner
 unvermeidlichen Hornbrille neben Ihnen hockt! — Also:
-dieser herunter, Mr. Harst!«
+Visier herunter, Mr. Harst!«
 
 <@pagebreak/>
 Harald gab ihm die Hand … »War ja nicht schlimm
-Je Mr. Kraag … Auch Ihr Name ist mir nicht
+gemeint, Mr. Kraag … Auch Ihr Name ist mir nicht
 fremd …«
 
 »Möglich — schon möglich …! Allan Kraag hat schon
 allerlei berissen. — Haben Sie eine Zigarette. Seit vierzehn
-Tagen tänzelte ich nach dem Genuß …«
+Tagen schmachte ich nach dem Genuß …«
 
 »Bitte. Man hat mir das Zigarettenetui belassen, die
 Pistole und das Taschenmesser aber leider abgenommen.«
 
 »Wie mir!« nickte Kraag. »Danke … Rauche also
 hier im Gefängnisflügel des alten Sommerpalastes seiner
-Sir des Maharadscha von Travankore die erste Mirakulum
+Hoheit des Maharadscha von Travankore die erste Mirakulum
+…«
 
 »Ah — also im Sommerpalast …«
 
 »Ja — östlich von Palliport … — Was haben Sie drei
-denn, bejagt, Mr. Harst? Weshalb sperrte man Sie hier
+denn bejagt, Mr. Harst? Weshalb sperrte man Sie hier
 ein?«
 
 »Wenn ich Ihnen das erzählen wollte, würde ich eine
@@ -2097,13 +2099,13 @@ Patsche geraten?«
 
 »Durch eigene Schuld …« Kraag rauchte mit Andacht.
 »Ich wollte für meine Zeitung eine Artikelserie über indische
-Religionsgeheimnisse schreiben. Und - eins der dunkelsten
+Religionsgeheimnisse schreiben. Und eins der dunkelsten
 dieser Rätsel ist die Legende vom Maharadscha Biwar Khan,
 der im Jahre 1492 während einer furchtbaren Choleraepidemie
 sich freiwillig für sein Volk enthaupten ließ, um
 die Götter zu versöhnen und der Seuche ein Ende zu machen.
 Sein Kopf wurde damals verbrannt, und der Rumpf wird
-FL als wunderbringende Mumie wie ein Heiligtum
+noch heute als wunderbringende Mumie wie ein Heiligtum
 verehrt …
 
 <@pagebreak/>
@@ -2113,72 +2115,72 @@ verehrt …
 <h3>Alles wird noch dunkler …</h3>
 
 Der Leser kann sich unschwer vorstellen, welche Wirkung
-Diese Säße auf uns drei ausübten …
+Diese Sätze auf uns drei ausübten …
 
 Edward Gaspard knurrte keuchend:
 
 »Verdammt — unsere Mumie ist’s!«
 
-Und ich fragte atemlos; »Woher kennen Sie diese Einzelheiten,
+Und ich fragte atemlos: »Woher kennen Sie diese Einzelheiten,
 Mr. Kraag?«
 
 Und Harald meinte als letzter: »Nun wird Licht in die
 Geschichte kommen!«
 
-Aber — er irrte sich leider? Mit dem »Licht« war es
+Aber — er irrte sich leider! Mit dem »Licht« war es
 vorläufig noch recht schwach bestellt …
 
-Denn nun erwiderte der Ueberreporter der Vorging
+Denn nun erwiderte der Überreporter der Morning
 Post: »Die Legende von dem Maharadscha, der sich freiwillig
-tönten ließ, hat im Volksmunde unzählige Variationen …
+töten ließ, hat im Volksmunde unzählige Variationen …
 Das betont auch Oberst Marling in seinem bekannten Buch.
-Wir selbst glückte es nur dadurch den Tatsachen auf die Spur
+Mir selbst glückte es nur dadurch den Tatsachen auf die Spur
 zu kommen, daß ich mich an einen der Priester des Daropharim-Tempels
 heranmachte, von dessen stark weltlichen
-Kinn ich bereits Beweise erhalten hatte — sehr schöne
-Lebende Beweise, nämlich durch ein blondes Weib, das
+Neigungen ich bereits Beweise erhalten hatte — sehr schöne
+lebende Beweise, nämlich durch ein blondes Weib, das …«
 
-»Ab — verdammt — — Ellen Weller, die blonde Bestie!
-Platte Gaspard heraus.
+»Ah — verdammt — — Ellen Weller, die blonde Bestie!
+platzte Gaspard heraus …
 
 <@pagebreak/>
-Unbv nun war’s Kraag, der ein äußerst verblüfftes
+Und nun war’s Kraag, der ein äußerst verblüfftes
 Gesicht machte …
 
 »Wie — Sie kennen diese Blonde, meine Herren? Woher
 denn? Ich weiß nur, daß sie zu jenem Brahmanen, dem
-Priester Mira Tawi, intime Beziehungen unterhält, mir
+Priester Mira Tawi, intime Beziehungen unterhält, nur
 alle vierzehn Tage etwa erscheint und dann wieder spurlos
 verschwindet …«
 
-Und nun sagte Harald mit seinem Lächeln:
+Und nun sagte Harald mit feinem Lächeln:
 
-»Ja — sie verschwand und kehrte nach dem vorher de
+»Ja — sie verschwand und kehrte nach dem Rocher de
 Malcolm zurück …! — doch ehe ich Sie, Mr. Kraag, nun
 einweihe, nur noch eine Frage: Wer nahm Sie gefangen?
 Auf wessen Befehl sind Sie hier eingesperrt worden?«
 
-»Weiß ich nicht! Ich kam von einer abermaligen ZuU-sämmenkunst
+»Weiß ich nicht! Ich kam von einer abermaligen Zusammenkunft
 mit jenem Mira Tawi mit meinem Rad nach
 Palliport zurück, und da hat man mich spät abends überfallen.
 Von meinen Angreifern sah ich nichts — nicht das
 geringste. Man hatte ein Tau über den Weg gespannt, ich
 stürzte und dann flog mir auch schon eine Decke über den
 Kopf. Ein leichter Hieb betäubte mich, und ich erwachte hier
-im ältesten Flügel v23 Sommerpalastes des jetzigen Maharadscha
+im ältesten Flügel des Sommerpalastes des jetzigen Maharadscha
 von Travankore — oben im dritten Stock in einer
 geräumigen Zelle. Dort hause ich nun bereits drei Wochen.«
 
 »Aber Sie waren heute doch auf dem Dache! Sie
-konnten doch fliehen?!« meinte ich verwundert, und schloß
+konnten doch fliehen?!« meinte ich verwundert, und ich sah
 es Harald an, daß er genau dasselbe gefragt hätte.
 
-Allan Kraag nickte … »Ja — 4ch konnte fliehen, aber
+Allan Kraag nickte … »Ja — ich konnte fliehen, aber
 — ich wollte nicht!«
 
 »So?! weshalb nicht?!«
 
-»Weil … weil ich hier allerlei beobachte …“«
+»Weil … weil ich hier allerlei beobachte …«
 
 »Und deshalb bleiben Sie hier?!« Jetzt war es Harald,
 der dies zweifelnden Tones aussprach.
@@ -2186,49 +2188,49 @@ der dies zweifelnden Tones aussprach.
 »Lassen Sie mich erst mal zu Ende berichten, Mr. Harst!
 Meine Erlebnisse hier sind ein Roman für sich, sind eine
 Reihe von Abenteuern, die … mich zum reichen Manne
-Unheil werden. Ich werde ein Buch schreiben, und dieses -
-Art wird selbst Duma8’ Grafen von Monte Christo in
+machen werden. Ich werde ein Buch schreiben, und dieses
+Buch wird selbst Dumas’ Grafen von Monte Christo in
 <@pagebreak/>
 Schatten stellen! — Hören Sie zu … — Ich lebte fünf
-Tage ganz behaglich in meiner Zelle, ’nur verdammt he!
+Tage ganz behaglich in meiner Zelle, nur verdammt heiß
 ist es dort oben. Meine Wächter bekam ich nie zu Gesicht.
-Die Zelle hat einen Vorraum wie diese hier. Am sechsten -
+Die Zelle hat einen Vorraum wie diese hier. Am sechsten
 Tage trieb mich die Langeweile dazu, die Wände meiner
-Zelle mit Kratzmalereien zu versehen. Gefangene van das
-ja häufiger. Und bei dieser künstlerischen Tätigkeit!sehe mich -
+Zelle mit Kratzmalereien zu versehen. Gefangene tun das
+ja häufiger. Und bei dieser künstlerischen Tätigkeit störte mich
 eine Maus, die stets durch dasselbe Loch in den Granitquadern
-überein- und hinaushuschte und Brotkrümel vom
+herein- und hinaushuschte und Brotkrümel vom
 Boden auflas. Kurz: Diese Maus ließ mich die Geheimtür
 entdecken, von der selbst die Wächter keine Ahnung haben.
-Es führt ein Schacht und eine Treppe in den Bauern entlang,
+Es führt ein Schacht und eine Treppe in den Mauern entlang,
 und diese Treppe hat fünf geheime Verbindungen
 mit Teilen des alten Palastflügels. — Um noch kürzer zu
 berichten: ich beobachtete auch heute Nacht, wie Sie drei eingebracht
-wurden. Ich bin dann nachmittags auf das Daß
+wurden. Ich bin dann nachmittags auf das Dach
 geklettert und habe mein Schattenbild in Morsezeichen reden
-lassen. Ich hoffte, einer von Ihnen würde nicht bemerken.
-Zwölfte Ihnen Mut zusprechen. Meine Kusfiücge auf da?
+lassen. Ich hoffte, einer von Ihnen würde mich bemerken.
+Ich wollte Ihnen Mut zusprechen. Meine Ausflüge auf das
 Dach sind ganz ungefährlich, da hier im alten Flügel nur die
-drei Wächter wohnen und weil vom neuen Teil des Palastes -
-nicht ein einziges Ernster nach hierher bin ausgeht. Auffordern
+drei Wächter wohnen und weil vom neuen Teil des Palastes
+nicht ein einziges Fenster nach hierher hinausgeht. Außerdem
 ist der alte Flügel von einer wahren Wildnis umgeben.
-Altes sehr romantisch.«
+Alles sehr romantisch.«
 
 »Und Ihre sonstigen Beobachtungen?«
 
 »Tja — die beziehen sich auf Seine Hoheit den jetzigen
-Maharadscha und … die blonde Bestie, wie Dir. Gaspard sie
+Maharadscha und … die blonde Bestie, wie Mr. Gaspard sie
 so treffend nannte. Ellen Weller gibt auch hier im Palast
 Gastrollen, spielt das Mädchen aus der Fremde, ist … des
 Maharadschas … Geliebte …!«
 
-Er lachte leise auf. »Das Weib bat in der Tat ein
-Dutzend Eisen gleichzeitig im Feuer, Will den Maharadscha
+Er lachte leise auf. »Das Weib hat in der Tat ein
+Dutzend Eisen gleichzeitig im Feuer. Will den Maharadscha
 fraglos im großen begaunern …!«
 
-Harst säckfitelte den Kopf. »Tür mich ist Ihre Schilderung
-eine Enttäuschung, Mr. Kraag. — Wissen Sie, das
-die heilige wandte gestohlen ist?«
+Harst schüttelte den Kopf. »Für mich ist Ihre Schilderung
+eine Enttäuschung, Mr. Kraag. — Wissen Sie, daß
+die heilige Mumie gestohlen ist?«
 
 <@pagebreak/>
 »Wie — — gestohlen?! — Keine Ahnung habe ich!«
@@ -2242,8 +2244,8 @@ des Zinksarges so vollkommen sprachlos, daß er nachher nur
 meinte: »Ah — das ist ja weit toller als meine Abenteuer!
 
 Harald wollte nun Ordnung in dies bunte Allerlei von
-teilweise so widerspr’hsvopen Teich Chinesen bringen und
-sollte mit Kraag ein förmliches weil Öl an. Aber — er erreichte
+teilweise so widerspruchsvollen Geschehnissen bringen und
+stellte mit Kraag ein förmliches Verhör an. Aber — er erreichte
 nichts!
 
 Kraag wußte zum Beispiel nur, daß Ellen Weller seit
@@ -2253,7 +2255,7 @@ mit ihm zusammen gewesen war.
 
 Er vermutete lediglich, was den Überfall auf ihn
 betraf, daß die Priester des Heiligen Berges ihn unschädlich
-machen wollten weil er jenem Bootswagen zu viel von den
+machen wollten weil er jenem Brahmanen zu viel von den
 Geheimnissen des Tempels entlockt hatte. —
 
 Jedenfalls: Kraags ganzen Erlebnissen fehlte völlig der
@@ -2262,43 +2264,43 @@ Luft, hatten keinerlei festen Boden.
 
 Und für Harald und mich wieder bedeutete Kraags
 Person lediglich eine noch schwerere Verwirrung all der
-Einzelheiten! Es war ein Thar, in dem klar los als Hauptpersonen
+Einzelheiten! Es war ein Chaos, in dem fraglos als Hauptpersonen
 Ellen Weller, der Brahmane Mira Tawi und …
 die kopflose Mumie hervorragten wie Spitzen von Wegweisern
-aus dichtestem Nebel — von Wegweisern, die zurechtfand
-nutzlos waren! —
+aus dichtestem Nebel — von Wegweisern, die zweck\-
+und nutzlos waren! —
 
-Harald bat uns jetzt, eine Weile nicht zu sprechen, Fahrt
+Harald bat uns jetzt, eine Weile nicht zu sprechen, nahm
 eine Mirakulum und begann … nachzudenken.
 
-Die Schatten der näherten Jacht verhüllten unsere
-Zelle mit gekeimnivokiem Halbdunkel.
+Die Schatten der nahenden Nacht verhüllten unsere
+Zelle mit geheimnisvollem Halbdunkel.
 
-Nur unsere Gesichter morgen noch als hellere Flecke zu
+Nur unsere Gesichter waren noch als hellere Flecke zu
 erkennen …
 
-ins mit mttomatenhaft gleichmäßigen Beweaunae
+Und mit automatenhaft gleichmäßigen Bewegungen
 <@pagebreak/>
-führte 8 Harald die Zigarette zum Munde … tote; he
-rutscht
+führte Harald die Zigarette zum Munde … rauchte …
+rauchte …
 
 Bis er dann endlich sagte:
 
 »Mr. Kraag, Sie werden Schraut und mich nachts nach
-jenem Pavillon. geleiten. Es. ist nicht ausgeschlossen, daß
+jenem Pavillon geleiten. Es ist nicht ausgeschlossen, daß
 Ellen Weller heute sich abermals mit dem Maharadscha ein
 Stelldichein gibt, denn — sie muß in Palliport sein! Ihre
-Leute waren ’8, die uns überfielen, womit nicht gejagt. ist,
+Leute waren’s, die uns überfielen, womit nicht gesagt ist,
 daß auch sie uns hier einkerkern ließ.«
 
-»Gut — soll geschehen, Ankunft … Gegen elf Uhr
-finde »ich mich hier. wieder ein. Es ist vielleicht doch besser,
-ich sei«? jetzt noch in meine Zelle zurück. Man kann nie
+»Gut — soll geschehen, Mr. Harst … Gegen elf Uhr
+finde ich mich hier wieder ein. Es ist vielleicht doch besser,
+ich kehre jetzt noch in meine Zelle zurück. Man kann nie
 wissen, ob nicht gerade heute zum erstenmal es einem der
 Wächter einfällt, nach mir zu sehen. — Leben Sie also wohl,
 meine Herren … Als geschlagener Mann verlasse ich Sie!
-Ich hatte geglaubt, meine Erlebnisse seien das von. plus
-Villa des Seltsamen! Jetzt weiß ich, daß Sie weit Tolleres
+Ich hatte geglaubt, meine Erlebnisse seien das Non plus
+ultra des Seltsamen! Jetzt weiß ich, daß Sie weit Tolleres
 durchgemacht haben …! — Wiedersehen!«
 
 Er faßte in die Mauerfuge hinein, zog die Tür auf und
@@ -2309,21 +2311,21 @@ Doch — nicht für lange …
 Wir drei saßen noch schweigend da, als — — die Tür
 wieder leise kreischte …
 
-Es war bereits zu dunkel, um auch nur die Umrisse, einer
+Es war bereits zu dunkel, um auch nur die Umrisse einer
 Gestalt zu erkennen.
 
-»Hier Kraag", flüsterte der Engländer und ins seltsame
-Erregung durch zitterte seine Stimme. »Meine Herren —
+»Hier Kraag«, flüsterte der Engländer und eine seltsame
+Erregung durchzitterte seine Stimme. »Meine Herren —
 etwas Neues — etwas ganz Unbegreifliches: die Zelle über
 der Ihrigen ist … frisch belegt, hat eine … Insassin erhalten:
-Ellen weiter!«
+Ellen Weller!«
 
 Wir konnten nichts äußern, denn — diese Überraschung
 überstieg ja alles nur irgend Erdenkliche!
 
 Und Kraag fuhr fort: »Ich stieg leise die Steintreppe
-hinan … Und da sah ich einen seinen Lichtstrahl linker Hand
-durch die, Quadern dringen … Da machte ich halt … Da
+hinan … Und da sah ich einen feinen Lichtstrahl linker Hand
+durch die Quadern dringen … Da machte ich halt … Da
 konnte ich durch das Löchlein gerade einen Teil der erleuchteten
 <@pagebreak/>
 Zelle überschauen … Und sah Ellen Weller, die blonde
@@ -2331,8 +2333,8 @@ Bestie, und ihr gegenüber den ersten Minister des Maharadscha,
 Exzellenz Tamari, dem der Vicekönig von Indien
 letztens wegen hervorragender Verdienste einen hohen Orden
 verliehen hat … Ellen und der Minister schienen hart aneinander
-geraten zu sein. E35 machte den Eindruck, als ob
-das blonde Weib Seiner, Exzellenz mit irgendetwas drohte,
+geraten zu sein. Es machte den Eindruck, als ob
+das blonde Weib Seiner Exzellenz mit irgendetwas drohte,
 und sein Gesichtsausdruck bewies, daß er … Ellen fürchtete.
 — Jetzt ist Ellen wieder allein … — was halten Sie von
 alledem, Mr. Harst?«
@@ -2342,7 +2344,7 @@ Gibt es auch dort eine Geheimtür, Mr. Kraag?«
 
 »Ja — genau wie hier …«
 
-Dann überlassen Sie; nur mir alles weitere. Finden
+Dann überlassen Sie nur mir alles weitere. Finden
 Sie sich um elf Uhr hier wieder ein.«
 
 <h2>4. Kapitel.</h2>
@@ -2350,28 +2352,28 @@ Sie sich um elf Uhr hier wieder ein.«
 
 Eine Stunde später …
 
-Harald und ich standen in ’vem Schacht zwischen den
+Harald und ich standen in dem Schacht zwischen den
 dicken Mauern auf der schmalen Steintreppe.
 
 Links von uns in der Wand befand sich die Tür zu Ellen
-Bettlers Zelle.
+Wellers Zelle.
 
 Die Tür aus vier Granitquadern, eingefaßt durch die
-Eisenschienen, drehbar in ebenso dicken, ebenso verrosteter
+Eisenschienen, drehbar in ebenso dicken, ebenso verrosteten
 Angeln.
 
-Durch die offene Fuge, durch die schon Allan Kra6g
-das blonde Weib beobachtet hatte, sahen wir sie am einem
+Durch die offene Fuge, durch die schon Allan Kraag
+das blonde Weib beobachtet hatte, sahen wir sie an einem
 <@pagebreak/>
 kleinen rohen Holztische sitzen — auf einem vierbeinigen
 Schemel. Auf dem Tische brannte eine jener altindischen
-Öllampen aus getriebenem kurzer, deren Leuchtkraft erstaunlich
+Öllampen aus getriebenem Kupfer, deren Leuchtkraft erstaunlich
 groß ist.
 
 Ellen zeigte uns ihr Profil. Sie saß da, die Unterarme
 leicht auf den Tisch gelegt.
 
-Satz aufrecht, den Kopf halb erhoben, als ob sie in die
+Saß aufrecht, den Kopf halb erhoben, als ob sie in die
 Ferne lauschte. Ihre Augen waren starr auf einen Punkt
 der Zellenwand gerichtet.
 
@@ -2379,13 +2381,13 @@ So starr, daß nur allerschärfstes Nachdenken diese vollkommene
 Reglosigkeit hervorrufen konnte. —
 
 Neben der Lampe wieder stand ein Teebrett mit
-Gesten und Tellern.
+Schüsseln und Tellern.
 
-Sie wird besser behandelt als wir,« flüsterte Harald.
+"Sie wird besser behandelt als wir,« flüsterte Harald.
 
 Dann zuckte die blonde, schöne Bestie leicht zusammen.
 
-legte sich, senkte den Kopf.
+Regte sich, senkte den Kopf.
 
 Ein Inder erschien im Lichtkreis der Lampe, nahm das
 Teebrett …
@@ -2409,68 +2411,68 @@ Starr, wie leblos saß sie wieder.
 noch leiser.
 
 Und dann zog er sein Feuerzeug hervor, benutzte das
-Benzin zum aufsuchen der rostigen Angeln, benutzte auch
+Benzin zum Anfeuchten der rostigen Angeln, benutzte auch
 Speichel dazu und … packte den nach dieser Seite hin angebrachten
 Türgriff.
 
-Mit einem Ruck schob er die Tür auf. Ellen Leser
+Mit einem Ruck schob er die Tür auf. Ellen Weller
 schoß hoch …
 
 Erkannte uns nicht sofort, wich bis zur Wand zurück,
 <@pagebreak/>
 Hatte die schwere Lampe als Waffe ergriffen, glaubte wohl,
-das gedungene Meuchelmörder bei Mr eindrängen.
+das gedungene Meuchelmörder bei ihr eindrängen.
 
 Hob den Arm mit der Lampe …
 
 »Harst … Harst!!« flüsterte sie.
 
 Und es war schwer zu sagen, welche Gefühle sie dabei
-beherrschen. — Jedenfalls: sie erschrak kaum mehr, als ob
+beherrschten. — Jedenfalls: sie erschrak kaum mehr, als ob
 ein Fremder ihr gegenübergetreten wäre!
 
-Harald unsere die Tür wieder zu.
+Harald drückte die Tür wieder zu.
 
-Miß Messer,« sagte er flüsterind, »wir sind wohl beide
+"Miß Weller,« sagte er flüsternd, »wir sind wohl beide
 gleich erstaunt, uns gerade hier wiederzusehen …«
 
-»Sie sind Sie hier eingedrungen?« fragte ’sie rasch,
-ohne »Harst? Worte zu beachten.
+»Wie sind Sie hier eingedrungen?« fragte sie rasch,
+ohne Harsts Worte zu beachten.
 
-»Au! eine Art, die für Sie als Fluchtweg nicht in Betracht
-Format,« erwiderte er kühl. »Wollen Sie mir freiwillig
-einst? Fragen beantworten, oder sind Sie noch immer
-Weibes Glaubens, mir gegenüber mit Rätseln spielen zu
+»Auf eine Art, die für Sie als Fluchtweg nicht in Betracht
+kommt,« erwiderte er kühl. »Wollen Sie mir freiwillig
+einige Fragen beantworten, oder sind Sie noch immer
+des Glaubens, mir gegenüber mit Rätseln spielen zu
 können?!«
 
-Sie suchte die Achseln, stellte die Lampe auf den Tisch
-zurü& und setzte sich.
+Sie zuckte die Achseln, stellte die Lampe auf den Tisch
+zurück und setzte sich.
 
-»Geben Sie! Wir haben nichts miteinander zu tun!«
+»Gehen Sie! Wir haben nichts miteinander zu tun!«
 meinte sie feindselig.
 
-»denn ich gehe, Miß Weller, so führt mich mein Weg
-zur Polizei naß Palliport, der ich Anzeige erstatten würde,
+»Wenn ich gehe, Miß Weller, so führt mich mein Weg
+zur Polizei nach Palliport, der ich Anzeige erstatten würde,
 daß der Perlenfischer Sima Galow ermordet worden ist
 und daß sein Kutter versenkt werden sollte — derselbe Sima
 Galow, der Sie auf dem Malediven-Eiland befreite, Ellen
 Weller, und der dann die Mumie mitnahm, weil er ahnte,
 was sie … wert war. Der Mord an Sima Galow und
 seinen Leuten, die im Kielraum als Leichen schwimmen,
-gut mit *Ihr* Konto, Ellen Weller!!
+kommt auf *Ihr* Konto, Ellen Weller!!
 
 Sie duckte sich zusammen unter diesen Anklagen …
 
 Blieb … stumm.
 
-»Wollen Sie jetzt antworten 2?« fragte Harald nach einer
+»Wollen Sie jetzt antworten?« fragte Harald nach einer
 Weile.
 
 »Ja …« — Es klang widerwillig, wie erstickt vor
 wildem Haß.
 
 <@pagebreak/>
-»Was fanden Sie in dem Zinksarge, den Sie uns Mitnahmen?«
+»Was fanden Sie in dem Zinksarge, den Sie uns abnahmen?«
 begann Harald in aller Ruhe.
 
 »Die Mumie …«
@@ -2478,16 +2480,16 @@ begann Harald in aller Ruhe.
 »Ah — daher auch das Gebrüll Ihrer Leute, nachdem
 der Zinksarg aufgeschlagen worden war …
 
-Haben Sie die Mumie dann in die Ballonhülle ge,
+Haben Sie die Mumie dann in die Ballonhülle ge-
 schafft? — Einer Ihrer Leute schleppte damals nachts einen
 Sack nach dem Sportplatz in Alleppi …«
 
-»Rein.«
+»Nein.«
 
 »Ah — — nein?!  Was enthielt denn der Sack?«
 
-»Vier Pakete falscher englischer Pfundnoten aus der -
-Fälscherwerkstatt meines Onkels — aus dem vorher ck?
+»Vier Pakete falscher englischer Pfundnoten aus der
+Fälscherwerkstatt meines Onkels — aus dem Rocher de
 Malcolm …«
 
 »und diese Pakete?«
@@ -2495,28 +2497,27 @@ Malcolm …«
 »Befanden sich ebenfalls in der Ballonhülle … Sie
 entgingen Ihnen auf dem Eiland …«
 
-Harst stützte sich leicht auf den Tisch.!
+Harst stützte sich leicht auf den Tisch.
 
 »Wer hat denn die Mumie in die Hülle geschafft?«
 fragte er gespannt.
 
-»Das weiß ich nicht.«!
+»Das weiß ich nicht.«
 
 »Wurde die Mumie Ihnen denn geraubt — abgenommen?«
 
 »Ja … Meine Leute ahnten, daß es die Mumie des
-Mahcdavscha sei!. Wir fuhren mit der Seraphia, nie
+Maharadscha sei. Wir fuhren mit der Seraphia, die
 Mumie und den Zinksarg an Bord, nach Alleppi, müssen
 aber beobachtet worden sein, denn vor dem Hafen hielt uns
-eine größere Jacht an und zwang uns, Sarg und Minute
+eine größere Jacht an und zwang uns, Sarg und Mumie
 herauszugeben. Die Leute auf der Jacht waren sämtlich
-ntaskiert. Es waren jedoch Europäer darunter.«
+maskiert. Es waren jedoch Europäer darunter.«
 
-»Und — es war ein Zufall, daß Sie dann den hatten
-dazu benutzen Doktor, die falschen Banknoten sicher fortzuschaffen
-?«
+»Und — es war ein Zufall, daß Sie dann den Ballon
+dazu benutzen wollten, die falschen Banknoten sicher fortzuschaffen?«
 
-»Ja. Ich war von Spionen umgeben … - Ich konnte
+»Ja. Ich war von Spionen umgeben … Ich konnte
 nur auf diese Weise entfliehen …«
 
 »Spione?! Irren Sie sich nicht?! Lügen Sie etwa?!«
@@ -2527,14 +2528,14 @@ nur auf diese Weise entfliehen …«
 Sie das!«
 
 »So kommen wir nicht weiter, Ellen Weller …! Ich
-warne Sie! »Ich werde Sie nicht schonen! Ich durchschaue
+warne Sie! Ich werde Sie nicht schonen! Ich durchschaue
 jetzt einen Teil all der rätselhaften Vorgänge, den größeren
 Teil! Entweder Sie sagen die Wahrheit oder Sie werden
 noch in dieser Nacht von der englischen Polizei in Palliport
 verhaftet!«
 
 Sie lachte schneidend … »Eine Ellen Weller läßt sich
-nicht. verhaften! Niemals!«
+nicht verhaften! Niemals!«
 
 »Sie weigern sich also?«
 
@@ -2565,21 +2566,21 @@ wohnt?« meinte Harald hastig.
 Es sind drei saalartige Räume, deren Fenster als Türen auf
 die große Terrasse hinausgehen …«
 
-»Führen Sie uns hin, klang …- Schnell!« —
+»Führen Sie uns hin, Kraag … Schnell!« —
 
 Durch Keller und Gänge gelangten wir ins Freie,
-schlichen in den Park des Sommerpalastes, kamen auch glitT-lich
+schlichen in den Park des Sommerpalastes, kamen auch glücklich
 bis auf die Terrasse.
 
-Hinter drei der Fenster wär Licht. Die Vorhänge
+Hinter drei der Fenster war Licht. Die Vorhänge
 schlossen nicht völlig …
 
-Und in 1 ein saßen da Seine Exzellenz der Minister
+Und in Sesseln saßen da Seine Exzellenz der Minister
 und drei … Europäer.
 
 <@pagebreak/>
-G8 waren … dieselben drei Herren aus Alleppi, die
-mit He. O. 3 hatten aussteigen wollen … —
+Es waren … dieselben drei Herren aus Alleppi, die
+mit H. O. 3 hatten aufsteigen wollen … —
 
 Harald huschte weiter …
 
@@ -2587,7 +2588,7 @@ Huschte zu einem der dunklen Türfenster, zog sein
 Schlüsselbund, nahm den kleinen Patentdietrich — probierte
 — auch die Tür ging auf …
 
-»Warten Sie hier, Kraag,« ei er leise. »An derartige
+»Warten Sie hier, Kraag,« befahl er leise. »An derartige
 Dinge sind Sie nicht gewöhnt … Sie könnten alles
 verderben.«
 
@@ -2605,22 +2606,22 @@ Ministers verfolgen.
 
 »Mr. Simpson, ich bleibe dabei: das Weib hat den
 Perlenfischer beseitigt«, sagte Tamari in tadellosem Englisch.
-»kaum hat sie dem Harstschen Kutter aufgelauert. Als
+»Dann hat sie dem Harstschen Kutter aufgelauert. Als
 ich die maskierte Seraphia entern ließ, waren sowohl Harst
 und Schraut als auch die Mumie an Bord …«
 
 »Tadellos!!« meinte dieser Simpson nun lachend.
 »Mister Harst wird seine Nase nicht mehr in fremder Leute
-Angelegenheiten stehen und …«
+Angelegenheiten stecken und …«
 
 »Gestatten Sie, Mr. Simpson,« unterbrach der Inder
 ihn. »Ich kann doch Harst und Schraut nicht umbringen!«
 
 »Aber — wegbringen lassen, — weit weg! Die beiden
 ahnen doch ebensowenig wie der Zeitungsschreiber, wo sie
-8ch befinden. Also — fort mit den dreien, vielleicht auf
+sich befinden. Also — fort mit den dreien, vielleicht auf
 eine der Malediven! Damit wir freie Hand für das große
-Geschäft haben! Die Mumie ik nun sicher verborgen, noch
+Geschäft haben! Die Mumie ist nun sicher verborgen, noch
 sicherer als das erstemal, und …«
 
 <@pagebreak/>
@@ -2629,7 +2630,7 @@ sicherer als das erstemal, und …«
 <h3>Als die Vase zerschellte …</h3>
 
 Daß eine große indische Tonvase, eines jener uralten
-Aststücke, wie man sie hier nur in Museen findet, der Anlaß
+Zierstücke, wie man sie hier nur in Museen findet, der Anlaß
 zu einer beschleunigten Erledigung dunkler Punkte sein
 könnte, hatten wir auch nicht gedacht …
 
@@ -2638,23 +2639,23 @@ Unglückswurm Allan Kraag diese Vase von dem Ständer
 stoßen würde, als er uns nun, entgegen Haralds Befehl,
 nachschlich.
 
-Jedenfalls: hinter uns im dunklen Raume ein donner-ariiger
+Jedenfalls: hinter uns im dunklen Raume ein donnerartiger
 Krach …
 
-Ein Halblauter Fluch Allan Kraags …
+Ein halblauter Fluch Allan Kraags …
 
 Und schon kamen der Minister und die drei Herren herbeigestürmt,
 rissen die Vorhänge zur Seite, prallten fast mit
 uns zusammen …
 
 Seine Exzellenz bewies hier eine Geistesgegenwart, die
-mich in gern setzte …
+mich in Erstaunen setzte …
 
-Im Nu hatte er im gelegt Mal das elektrische Licht eingeschaltet
-(der neuere Teil des Sommervpalaste3 war ganz
+Im Nu hatte er im Nebensaal das elektrische Licht eingeschaltet
+(der neuere Teil des Sommerpalastes war ganz
 modern eingerichtet), hatte auch schon einen Revolver aus
 seinem weißen Flanellbeinkleid zum Vorschein gebracht und
-zu uns, die wir neben dem Pechvogel Allan Kraag
+sagte zu uns, die wir neben dem Pechvogel Allan Kraag
 standen:
 
 »Ich erschieße Sie, so wahr ich Chestrup Tamari bin,
@@ -2665,22 +2666,22 @@ Hier geht’s um mehr als um unsere Sicherheit!«
 
 Harald rührte sich nicht.
 
-Neben uns auf den wundervollen hatten Marmorfliesen
+Neben uns auf den wundervollen bunten Marmorfliesen
 lag die zertrümmerte Vase.
 
 <@pagebreak/>
 Harald sagte nur — sehr laut:
 
-»Ihr Gefängnis ist nicht sehr zuverlässig, Sterling
+»Ihr Gefängnis ist nicht sehr zuverlässig, Chestrup
 Tamari, wie Sie sehen! Wir sind hier, und die Wächter
 glauben uns in unseren Zellen. Auch Miß Ellen Weller ist
-nicht mehr dort, wo Sie sie eingesperrt haben. Sie erwartet -
-uns im Polizeigebäude in: Palliport. - Wenn wir dort nicht
+nicht mehr dort, wo Sie sie eingesperrt haben. Sie erwartet
+uns im Polizeigebäude in Palliport. Wenn wir dort nicht
 bis vier Uhr morgens eintreffen, wird die englische Polizei
 hier den englischen Untertan Allan Kraag suchen! — Also
 Chestrup Tamari, verkehren wir besser in anderem Ton miteinander.
-Stecken Sie Ihre Waffen weg. E53 hat wirklich -
-seinen Zweck, mir zu drohen. Ich pflege mir stets den
+Stecken Sie Ihre Waffen weg. Es hat wirklich
+keinen Zweck, mir zu drohen. Ich pflege mir stets den
 Rücken zu decken.«
 
 Das war wieder einmal so ganz mein alter Harald!
@@ -2693,8 +2694,8 @@ Desgleichen wollte der hagere Mr. Simpson
 seine Waffe wieder in die Tasche gleiten lassen.
 
 »Geben Sie sie mir!« meinte Harst höflich. »Meine
-Clementpistole fehlt mir sehr. — Bitte …! — So, das ist-verständig.
-Nun wollen wir nebenan Platz nehmen …« —
+Clementpistole fehlt mir sehr. — Bitte …! — So, das ist
+verständig. Nun wollen wir nebenan Platz nehmen …« —
 
 Wir saßen jetzt zu sieben um den Tisch.
 
@@ -2704,16 +2705,16 @@ Und Harst begann:
 entwickeln, meine Herren. — Sie, Minister Tamari,
 dürften tief in Schulden stecken. Sie sind ein moderner
 Inder, haben von der Kultur Europas auch abendländische
-Neigungen übernommen. Vielleicht spielen Sie oder Spezialisten.
+Neigungen übernommen. Vielleicht spielen Sie oder spekulieren.
 Sie haben jedenfalls größere Zahlungsverpflichtungen
 gehabt. Vielleicht hat Mr. Simpson Ihnen Geld
-vorgeschossen. Da. Sie nicht anders diese Schulden tilgen
-konnten, ließen Sie … die Unwahre des Maßoräadscha durch
+vorgeschossen. Da Sie nicht anders diese Schulden tilgen
+konnten, ließen Sie … die Mumie des Maharadscha durch
 denselben Brahmanen stehlen, den auch Ellen Weller für ihre
-Pläne gewonnen hatte oder gewinnen frechste, vielleicht, um
-durch diesen Priester größere Mengen Falschgeld Unterzu-brittgen.
+Pläne gewonnen hatte oder gewinnen wollte, vielleicht, um
+durch diesen Priester größere Mengen Falschgeld unterzubringen.
 <@pagebreak/>
-das ist hier genau so nebensächlich wie des blonden
+Das ist hier genau so nebensächlich wie des blonden
 Weibes raffinierter Flirt mit dem jetzigen Maharadscha.
 Uns interessiert nur der Ballon und die Mumie …«
 
@@ -2731,17 +2732,17 @@ Um die heilige Reliquie gut zu verbergen, haben Sie den
 Zinksarg mit der Mumie dort auf der Untiefe verankert.
 Natürlich suchten die Priester des heiligen Tempels den
 wundertätigen Leib, verschwiegen jedoch den Diebstahl,
-setzten trotzdem Himmel und Hölle in. Bewegung, um die
+setzten trotzdem Himmel und Hölle in Bewegung, um die
 Mumie zurückzuerhalten und hätten fraglos dafür eine phantastische
-Summe gezahlt —4 ein glänzendes Geschäft also! —
-Der ungeheure Einfluß der Brahmanen reichte hie Alleppi.
+Summe gezahlt — ein glänzendes Geschäft also! —
+Der ungeheure Einfluß der Brahmanen reichte bis Alleppi.
 Auch dort waren Vertraute der Priester dauernd auf dem
-er kommenden, horchen. Und da — da fanden wir den
+Posten, spionierten, horchten. Und da — da fanden wir den
 Sarg, den Ellen Weller uns abnahm und den Sie, Mister
 Simpson, wieder dem blonden Weibe mit Ihrer Jacht
-sträubten …«
+raubten …«
 
-»Bitte — die Jacht gehört dort Zaunes Erbin …«
+»Bitte — die Jacht gehört dort James Orbin …«
 
 »Wem von Ihnen dreien sie gehört, hat hier nichts zu
 bedeuten … — Jedenfalls: die Mumie kam nach Alleppi,
@@ -2754,7 +2755,7 @@ Simpson nickte stolz. »Der Gedanke stammte von mir!«
 Banknoten wegen einige Sorge, da sie annahm, die Spionage
 der Tempelpriester richte sich gegen sie. Und so kam’s
 denn, daß wir mit der Mumie, Ellen und drei Paketen Banknoten
-davonflogen …“. — Was weiter geschah, brauche ich
+davonflogen … — Was weiter geschah, brauche ich
 nicht mehr zu erwähnen. Die Mumie ist nun wieder in
 Ihrem Besitz und wird jetzt auf irgendeine Weise dem
 <@pagebreak/>
@@ -2767,11 +2768,11 @@ Pause.
 
 Allgemeines Schweigen.
 
-Ein Schweigen, das erst durch das hastige Erscheinen -
-desselben ob achtete unterbrochen wurde, der Ellen bediente.
+Ein Schweigen, das erst durch das hastige Erscheinen
+desselben Wächters unterbrochen wurde, der Ellen bediente.
 
-Der Mann kam bhereingestürmt … Völlig verstört,
-was »bei einem Inder schon etwas heißen will …
+Der Mann kam hereingestürmt … Völlig verstört,
+was bei einem Inder schon etwas heißen will …
 
 Und ohne uns zu beachten, meldete er seinem Herrn mit
 flatterndem Unterkiefer …
@@ -2784,24 +2785,24 @@ in die Zelle …«
 wilden Blick zu.
 
 »Ja,« nickte Harst kalt und spielte mit dem Revolver.
-»das Polizeigebäude in Palliport hat Ellen nur … att-gebli
-ich betreten. Ein bescheidener Trick von mir, Exzellenz.
+»Das Polizeigebäude in Palliport hat Ellen nur … angeblich
+betreten. Ein bescheidener Trick von mir, Exzellenz.
 Im übrigen sind wir jetzt hier überflüssig …«
 
 Und — wir gingen, gingen unangefochten, holten rasch
 unseren braven Edward Gaspard ab und wanderten nach
-Vatlliport. — —
+Palliport. — —
 
 Es ist mir nicht angenehm, dieses Abenteuer mit der
 blutigen Bemerkung schließen zu müssen, daß sowohl Minister
 Tamari als auch die drei Herren aus Alleppi ein paar Tage
-später durch Unfälle ums Leben kamen. Tamari stürzte mit -
-dem Pferde und brach das Genick. Die drei anderen. Mitwisser
+später durch Unfälle ums Leben kamen. Tamari stürzte mit
+dem Pferde und brach das Genick. Die drei anderen Mitwisser
 des frechen Diebstahls der heiligen Mumie ertranken
 bei einer Segelpartie.
 
 Da auch der Priester Mira Tawi zur selben Zeit in den
-beiden in eine Felsspalte fiel und tot herausgezogen wurde,
+Bergen in eine Felsspalte fiel und tot herausgezogen wurde,
 konnte man vermuten, daß die Brahmanen des Heiligen
 Berges bei diesen Todesfällen etwas nachgeholfen haben.
 
@@ -2810,17 +2811,17 @@ Möglich ist das schon. Die Beweise fehlen aber. —
 <@pagebreak/>
 
 Wir drei und Allan Kraag haben dann unseren Kutter
-in einem Fischerdorfe unweit Halbponys wiedergefunden und
+in einem Fischerdorfe unweit Palliports wiedergefunden und
 sind gemütlich bis Bombay gesegelt.
 
-In Bombay schritten wir uns nach Europa ein. Wir
+In Bombay schifften wir uns nach Europa ein. Wir
 hatten für eine Weile wieder genug von Indien. Die fünf
 Todesfälle lagen uns etwas im Magen …
 
-Und daheim in Berlin bekamen wir es dann mit Seenot
-zu tun. Das kann man im nächsten Abenteuer nächsten.
+Und daheim in Berlin bekamen wir es dann mit Seevögeln
+zu tun. Das kann man im nächsten Abenteuer nachlesen.
 
 Nächster Band:
 
-__Die Gräfin mit den Kormoranen,__
+__Die Gräfin mit den Kormoranen.__
 
