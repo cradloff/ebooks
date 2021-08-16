@@ -161,7 +161,7 @@ unser Schiff! Seht zu, wo Ihr an Deck nasse Flecke findet,
 Dies hätte nur auf der Backbordseite geschehen sein
 können, der wir vorhin den Rücken zugekehrt hatten.
 
-Ich ging zu Harst an Steuer.
+Ich ging zu Harst ans Steuer.
 
 »Gib mir mal Deine Taschenlampe …«
 
@@ -208,7 +208,7 @@ Da war ein Fenster, ein kleines, vergittertes Fenster
 mit trüben Scheiben, halb mit verstaubten Spinngeweben
 überzogen …
 
-Und diese Fenster verdunkelte sich jetzt …
+Und dieses Fenster verdunkelte sich jetzt …
 
 Ein Profil zeichnete sich ab — das Profil meines
 Freundes Harald Harst — — mit etwas unförmigem
@@ -338,10 +338,10 @@ flüsterte noch leiser, als wir nun auf dem Maisstroh saßen.
 <h2>2. Kapitel.</h2>
 <h3>Der Mann von oben …</h3>
 
-»Ich weiß nicht, wo wir sind«, begann Harald zu mir
+»Ich weiß nicht, wo wir sind,« begann Harald zu mir
 gewandt. »Ich erhielt an Bord unseres Kutters wie Du
 einen Schädelhieb und erwache wie Du hier in dieser echten
-Kerkerzelle. — Es ist eine Zeile. Dort die winzige rostige
+Kerkerzelle. — Es ist eine Zelle. Dort die winzige rostige
 Eisentür führt in einen winzigen Vorraum. Dieser Vorraum
 hat eine noch festere eiserne Tür mit einem Guckloch
 mit Schieber …«
@@ -368,7 +368,7 @@ noch weiter auf und starrte mißtrauisch in den dunklen Vorraum
 hinein …
 
 »Hm — ein Brett, drei Brote, ein Krug Wasser und
-eine Schüssel Reis …«, meinte er enttäuscht.
+eine Schüssel Reis …,« meinte er enttäuscht.
 
 <@pagebreak/>
 »Erwarteten Sie Fisch, Braten und Kompott, lieber
@@ -377,14 +377,14 @@ Gaspard?!« lachte Harald …
 Der Alte bückte sich und kam mit den Herrlichkeiten
 herbei.
 
-»Oh — ich habe Hunger«, erklärte Harst ehrlich …
+»Oh — ich habe Hunger,« erklärte Harst ehrlich …
 »Sogar drei Löffel — unerhörter Luxus!«
 
 Auch unser Seebär aß …
 
-»Der Reis ist nicht schlecht«, lobte er. »Miß Ellen Weller
+»Der Reis ist nicht schlecht,« lobte er. »Miß Ellen Weller
 wird uns mästen, bevor sie uns schlachtet.« — Er versuchte
-auf Harsts scherzendem Ton einzugehen.
+auf Harsts scherzenden Ton einzugehen.
 
 »Ellen Weller?!« meinte Harald sehr gedehnt. »Ich
 möchte bezweifeln, daß sie uns hier festhält. Es ist dies
@@ -401,7 +401,7 @@ wiedererkannt zu haben …!«
 »Na also!«
 
 »Womit noch nicht gesagt ist, daß auch Ellen Weller uns
-dann so rücksichtsvoll handelt hat. Man hat uns drei
+dann so rücksichtsvoll behandelt hat. Man hat uns drei
 sorgfältig verbunden. Ellen hätte das nie getan. Denke
 daran, mein Alter, daß sie mir im Ballon zurief, ich sei
 längst zuviel auf der Welt!«
@@ -427,7 +427,7 @@ Händen. Sie gehörten zusammen und waren
 als Ganzes doch ein einziges Rätsel. —
 
 »Ich wette, es ist die Mumie des enthaupteten Maharadscha
-Biwar Khan«, sagte Harald ganz leise und mehr
+Biwar Khan,« sagte Harald ganz leise und mehr
 zu sich selbst …
 
 Gaspard wiederholte staunend: »Biwar Khan — —
@@ -448,7 +448,7 @@ geschont, was ihm nun von Seiten Haralds ein warnendes,
 
 »Verzeihung!« knurrte er, denn das, was andere Menschen
 flüstern nennen, klingt bei ihm wie die drohenden Töne
-eines bissigen Köters, dem man daß Maul zuhält … —
+eines bissigen Köters, dem man das Maul zuhält … —
 »Verzeihung, Mr. Harst … Ich werde mich nicht nochmal
 so vergessen! Die Wände haben vielleicht Ohren … — Was
 aber Biwar Khan angeht, so muß ich noch hinzufügen, daß
@@ -526,7 +526,7 @@ ich vermute jetzt, daß unsere Zinksarg-Mumie vielleicht der
 heilige Maharadscha von Travankore ist.«
 
 Gaspard schlenkerte den Kopf. »Glaube ich nicht!! Wie
-soll solch ein toter Heiligen in einen verlöteten Zinksarg und
+soll solch ein toter Heiliger in einen verlöteten Zinksarg und
 an eine Ankerkette und unter Wasser kommen?!«
 
 »Das kann doch geschehen, lieber Gaspard … Sehr
@@ -578,7 +578,7 @@ daß seine Stimme aus einer der Fugen hervordrang …
 »Haben Sie schon Ihre Tagesration erhalten?« fragte
 er …
 
-»Ja«, erwiderte Harald, den Mund dicht an der Fuge.
+»Ja,« erwiderte Harald, den Mund dicht an der Fuge.
 
 »Dann ist es gut, dann sind wir sicher. Ich kenne die
 Gepflogenheiten der Wächter. Dann … komme ich zu
@@ -870,7 +870,7 @@ wieder leise kreischte …
 Es war bereits zu dunkel, um auch nur die Umrisse einer
 Gestalt zu erkennen.
 
-»Hier Kraag«, flüsterte der Engländer und eine seltsame
+»Hier Kraag,« flüsterte der Engländer und eine seltsame
 Erregung durchzitterte seine Stimme. »Meine Herren —
 etwas Neues — etwas ganz Unbegreifliches: die Zelle über
 der Ihrigen ist … frisch belegt, hat eine … Insassin erhalten:
@@ -976,7 +976,7 @@ schoß hoch …
 
 Erkannte uns nicht sofort, wich bis zur Wand zurück,
 <@pagebreak/>
-Hatte die schwere Lampe als Waffe ergriffen, glaubte wohl,
+hatte die schwere Lampe als Waffe ergriffen, glaubte wohl,
 das gedungene Meuchelmörder bei ihr eindrängen.
 
 Hob den Arm mit der Lampe …
@@ -1105,7 +1105,7 @@ Und still wie wir gekommen, verließen wir die Zelle.
 Drückten die Geheimtür zu, legten außen den schweren
 eisernen Haken vor …
 
-Ellen, Weller war eingesperrt. —
+Ellen Weller war eingesperrt. —
 
 Und wir stiegen höher — hinauf zu Allan Kraag.
 
@@ -1161,7 +1161,7 @@ konnten deutlich das Gespräch der drei Herren und des
 Ministers verfolgen.
 
 »Mr. Simpson, ich bleibe dabei: das Weib hat den
-Perlenfischer beseitigt«, sagte Tamari in tadellosem Englisch.
+Perlenfischer beseitigt,« sagte Tamari in tadellosem Englisch.
 »Dann hat sie dem Harstschen Kutter aufgelauert. Als
 ich die maskierte Seraphia entern ließ, waren sowohl Harst
 und Schraut als auch die Mumie an Bord …«

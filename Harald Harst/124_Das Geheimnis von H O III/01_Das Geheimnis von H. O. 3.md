@@ -1,6 +1,6 @@
 <@pagebreak 3/>
 
-<h1>Das Geheimnis von H. O. 3.</h1>
+<h1>Das Geheimnis von H.&nbsp;O.&nbsp;3.</h1>
 
 <h2>1. Kapitel.</h2>
 
@@ -17,7 +17,7 @@ Und Gaspard lag dabei lang auf dem Deck unseres
 Kutters und rauchte aus seiner geliebten kurzen Seemannspiep.
 
 »Wenn ich Sie wäre, lieber Gaspard, würde ich ganz
-umsonst nach dem Malcolm-Felsen segeln«, erwiderte Harald
+umsonst nach dem Malcolm-Felsen segeln,« erwiderte Harald
 lachend. »Denn Ellen Weller ist bestimmt nicht mehr
 dort.«
 
@@ -95,7 +95,7 @@ wo Gaspard im Wasser etwas bemerkt haben wollte.
 
 Immerhin: Es war eine Abwechslung!
 
-Außerdem war’s auch gar nicht es unmöglich, daß hier
+Außerdem war’s auch gar nicht so unmöglich, daß hier
 ein Gegenstand halb unter Wasser an einer Ankerkette festlag,
 denn wir befanden uns über einer Untiefe, die nach den Seekarten
 nur 6 bis 8 Meter Wasserstand hatte.
@@ -362,7 +362,7 @@ Gefesselt und an den schmalen Kajütentisch sitzend gebunden,
 
 Oben an Deck erstarben die Tritte, die Geräusche.
 
-Bis dann der Motor der angeblich oben Jacht Seraphia
+Bis dann der Motor der angeblichen Jacht Seraphia
 knallend ansprang.
 
 Die Seraphia — — entfernte sich.
@@ -492,7 +492,7 @@ Platz genommen hatten, hörten wir, daß die drei sehr eifrig
 nach Art der begeisterten Amateure über eine Ballonfahrt
 <@pagebreak/>
 sich unterhielten, die sie am Morgen mit dem Freiballon
-H. O. 3, der dem Aeroklub in Alleppi gehörte, antreten
+H.&nbsp;O.&nbsp;3, der dem Aeroklub in Alleppi gehörte, antreten
 wollten.
 
 Was auch mir sehr bald auffiel, war das heimliche
@@ -539,7 +539,7 @@ einen Tisch herum und berät anscheinend.«
 »Warten wir,« meinte ich.
 
 »Gewiß, mein Alter, das werden wir tun. Nur gebe
-ich eine zu bedenken: Diese Teestuben haben sämtlich noch verschiedene
+ich eins zu bedenken: Diese Teestuben haben sämtlich noch verschiedene
 Nebenausgänge.«
 
 <@pagebreak/>
@@ -603,7 +603,7 @@ Die Gasse mündete auf einen freien Platz.
 Und hier, wo sonst die Europäerkolonie sich sportlich bestätigte,
 hier … schwebte dicht über dem Erdboden nahe am
 Zaune der kleinen Gasanstalt von Alleppi die Riesenkugel
-von H. O. 3, klar sich abhebend vom ausgestirnten Firmament.
+von H.&nbsp;O.&nbsp;3, klar sich abhebend vom ausgestirnten Firmament.
 
 Schwebte an vier Haltetauen, die an Pfählen auf der
 Spitze eines Hügels befestigt waren.
@@ -679,7 +679,7 @@ des Ballonkorbes.
 Ihn?! Oder soll ich sagen … sie, sie, denn es war
 ja Ellen Weller, die ich derart brutal behandelte.
 
-Und — höher noch schoß H. O. 3, hinein in eine kühlere
+Und — höher noch schoß H.&nbsp;O.&nbsp;3, hinein in eine kühlere
 Luftschicht, trieb nun gen Westen davon … —
 
 Harst war längst in den Korb geturnt.
@@ -750,7 +750,7 @@ Den Malcolm-Felsen!!
 
 Da — — zog Harst die Reißleine.
 
-Langsam senkte sich H. O. 3.
+Langsam senkte sich H.&nbsp;O.&nbsp;3.
 
 Und trieb ganz dicht über die Wogen dahin.
 
@@ -781,7 +781,7 @@ uns …
 
 »Fandest Du nicht auch, mein Alter, daß der Ballon
 <@pagebreak/>
-Überraschend schnell sank?!« sagte Harald nachdenklich. »Er
+überraschend schnell sank?!« sagte Harald nachdenklich. »Er
 war doch für das Gewicht von drei Personen berechnet,
 und …«
 
@@ -834,7 +834,7 @@ Fragte:
 
 »Lag die Mumie in dem Zinksarge?«
 
-»Vielleicht gibt sie selbst Ihnen Auskunft«, hohnlachte
+»Vielleicht gibt sie selbst Ihnen Auskunft,« hohnlachte
 <@pagebreak/>
 das blonde Weib, dessen verführerische Reize den Professor
 Josua Jolling ins Unglück getrieben hatten.
@@ -842,7 +842,7 @@ Josua Jolling ins Unglück getrieben hatten.
 Harald blickte Ellen Weller still an.
 
 »Sie sollten Vernunft annehmen,« meinte er ernst.
-»Ich werde dieses Geheimnis von H. O. 3 ergründen, ich
+»Ich werde dieses Geheimnis von H.&nbsp;O.&nbsp;3 ergründen, ich
 werde es!«
 
 Er winkte mir.
@@ -904,7 +904,7 @@ kommt doch auf keine vernünftige Erklärung …«
 Er warf seinen Zigarettenrest ins Wasser.
 
 »So, jetzt wirst Du Ellen Weller bewachen, und ich werde
-Jollings Schlupfwinkel suchen«, meinte er und reckte sich.
+Jollings Schlupfwinkel suchen,« meinte er und reckte sich.
 »Mein Alter, ich bin müde … Und auch geistig nicht ganz
 auf der Höhe …« — Kleine Pause. »Wie schön es hier ist.
 Wie unendlich friedlich. Und drüben — erkennst du die
@@ -1063,7 +1063,7 @@ die Hindu, die Bekenner Brahmas, die Leichen hervorragender
 Persönlichkeiten nicht verbrannten, sondern einbalsamierten
 — mit vergoldeten Fingernägeln und mit jenem
 Fenster aus Glas mitten in der Brust, das ja poetisch
-»Warga Dschindra«, Auge der Seele, genannt wird …«
+»Warga Dschindra,« Auge der Seele, genannt wird …«
 
 »Hm — und woher — — ein Fürst?! Es kann doch
 auch ein Staatsmann oder dergleichen gewesen sein!«
@@ -1128,7 +1128,7 @@ Fürstentums Travankore sich bis dicht an Alleppi heranzieht.
 Die Fürsten von Travankore sind Hindus, sind Anbeter
 Brahmas … Hm — ob etwa hier ein merkwürdiger
 Zufall uns den Weg weist, wie man dem Rätsel des Zinksarges
-und dem Geheimnis von H. O. 3 auf die Spur
+und dem Geheimnis von H.&nbsp;O.&nbsp;3 auf die Spur
 kommen könnte?! Denn — wir wollen das eine nicht vergessen,
 mein Alter: wir vermuten nur, daß die Mumie aus
 dem Zinksarge stammt, vermuten auch nur, daß Ellen Weller
@@ -1137,7 +1137,7 @@ die Mumie in der Ballonhülle verborgen hatte …!«
 »Gewiß …! — Und da wir nun dieses Thema angeschnitten
 <@pagebreak/>
 haben, gestatte eine Frage: Glaubst Du, daß Ellen
-Weller mit H. O. 3 aufsteigen wollte?«
+Weller mit H.&nbsp;O.&nbsp;3 aufsteigen wollte?«
 
 »Es machte nicht den Eindruck … Eher könnte man annehmen,
 sie wollte vielleicht die Mumie beseitigen, indem sie
@@ -1248,7 +1248,7 @@ Er kehrte dann nach einer Stunde zurück, gerade als
 Gaspard den Morgenkaffee fertig hatte.
 
 »Die sogenannte Jacht hat gestern abend sieben Uhr
-den Hafen verlassen«, meinte er gutgelaunt. »Und die Firma
+den Hafen verlassen,« meinte er gutgelaunt. »Und die Firma
 S. I. Sarragan war auch bereits zu sprechen. Der Inhaber
 ließ sich ohne Mühe ausfragen. Er klagte über schlechte
 Geschäfte mit Kautabak. Seine wenigen hiesigen Kunden
