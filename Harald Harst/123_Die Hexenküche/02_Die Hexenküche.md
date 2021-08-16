@@ -251,7 +251,7 @@ Inzwischen hatte ich auch die Stelle entdeckt, von der
 die Töne der Aeolsharfe erklangen.
 
 <@pagebreak/>
-In die Holzwand eingelassen war ein schwarzen Trichter.
+In die Holzwand eingelassen war ein schwarzer Trichter.
 
 Ich deutete mit der Hand dorthin.
 
@@ -396,7 +396,7 @@ alten braunfaltigen Haut springen.«
 
 »Sie sollen nicht springen, sondern sich setzen! — So,
 das ist verständig. Nun sind wir doch wenigstens wieder
-beieinander, lieber Gaspard.
+beieinander, lieber Gaspard.«
 
 »Erzählen Sie!« bat ich, denn ich wollte endlich Aufschluß
 darüber haben, ob die Blonde uns tatsächlich hinters
@@ -426,7 +426,7 @@ hinabzusteigen und bis an die Spalte zu gehen, in der wir
 bereits eingekerkert waren.
 
 »Ich sage Ihnen, Mister Harst, dieses Weib hat ein
-Auftreten daß man wirklich Angst vor ihr kriegt!« betonte
+Auftreten, daß man wirklich Angst vor ihr kriegt!« betonte
 <@pagebreak/>
 der Alte nun zum zweiten Male. »Zuerst tat sie so, als ob
 die so ’nen kleinen Vogel hätte und in ihrem Hirn ’n paar
@@ -454,7 +454,7 @@ jetzt die Antwort — die sanfte Stimme der Blonden:
 »Mister Harst, es wird Ihnen an nichts fehlen. Lediglich
 die Freiheit kann ich Ihnen und Ihren Gefährten nicht
 wiedergeben — vorläufig nicht! Wenn Sie versprechen,
-nicht fliehen zu wollen, sollen Sie zu eine bessere Zelle
+nicht fliehen zu wollen, sollen Sie auch eine bessere Zelle
 angewiesen erhalten. Überlegen Sie sich’s bis morgen früh,
 Mister Harst.«
 
@@ -513,7 +513,7 @@ haben wohl schon einen Vers bereit?«
 »Vielleicht hatte ich den Vers schon gedichtet, bevor wir
 die Pirateninsel verließen … vielleicht!!«
 
-»Na, das ist doch wohl nicht gut möglich«, lachte Gaspard
+»Na, das ist doch wohl nicht gut möglich,« lachte Gaspard
 kopfschüttelnd.
 
 »O doch! In dem hinter Professor Josua Jolling erlassenen
@@ -598,7 +598,7 @@ Er ist ja davon unterrichtet, daß Kapitän Groonar
 das Ziel unserer Segelpartie kannte. Wenn wir also nicht
 wieder auftauchen, würde Hoogreeve den Hutfelsen fraglos
 aufs genaueste untersuchen lassen. Und das wird Jolling
-vermeiden wollen, das fürchtete er. Mithin wird er zu neuen
+vermeiden wollen, das fürchtet er. Mithin wird er zu neuen
 Lügen seine Zuflucht nehmen. Wird uns Theater vorspielen
 — vielleicht sehr wirkungsvolle Szenen. Und wird
 uns höflichst bitten, ihn nicht zu verraten.«
@@ -748,7 +748,7 @@ Jolling nickte wieder.
 »Sie belogen uns,« fuhr Harald fort, »um uns hierher
 zu locken, damit Sie fliehen, verschwinden könnten.«
 
-»Ja«, bestätigte der Professor festen Tones. »Es
+»Ja,« bestätigte der Professor festen Tones. »Es
 ist so … Ich wollte verschwinden! Spurlos! Aber
 Klaires widersinniges Tun, der Wurf der Handgranate,
 machte alles zwecklos, stieß all meine Berechnungen um.
@@ -809,7 +809,7 @@ zu trennen — bei Lebenden.«
 »Verzeihen Sie … Das verstehe ich nicht,« meinte
 Harald kühl.
 
-»Schon möglich«, lächelte Jolling. »Es ist auch schwer zu
+»Schon möglich,« lächelte Jolling. »Es ist auch schwer zu
 begreifen. Und doch ist’s eine alte indische Geheimkunst, Mr.
 <@pagebreak/>
 Harst. Mahatma nennt man diese Trennung von Leib und
@@ -930,7 +930,7 @@ meiner.
 Eine Erregung, die rasch zunahm, als Jolling nun
 einen Tisch vor den Lehnstuhl rückte.
 
-Auf den Tisch stellte der eine große Spiritusheizlampe.
+Auf den Tisch stellte er eine große Spiritusheizlampe.
 Und darüber auf einen Dreifuß einen mächtigen Kupferkessel.
 
 <@pagebreak/>
@@ -1174,7 +1174,7 @@ sein trotz Ihrer ehelichen Untreue, die Sie durch reiche Geschenke
 und manches andere wieder gutzumachen suchten. Ihr
 Charakterbild wird nach den Aussagen Ihrer Bekannten
 vervollständigt, die als Ihren bösen Geist Ihre Nichte Ellen
-bezeichnen, von der man wissen will, daß die es darauf abgesehen
+bezeichnen, von der man wissen will, daß sie es darauf abgesehen
 hatte, Frau Jolling zu werden.«
 
 Des Professors Kopf war nach vorn gesunken.
@@ -1245,7 +1245,7 @@ Zwecken auszunutzende Kunst?«
 »So auch heute wie ich merkte,« erklärte Harald sehr
 bestimmt. »Klaires Gedächtnis war künstlich getötet. — Und
 als wir sie hier überraschten, wollte sie gerade eine Perücke
-verbrennen, — Trug Ihre Gattin Perücken?«
+verbrennen. — Trug Ihre Gattin Perücken?«
 
 <@pagebreak/>
 »Ja. Sie hatte nach einer Typhuserkrankung fast alles
@@ -1376,7 +1376,7 @@ etwas, das Ellen Weller hätte warnen sollen.
 
 Und doch drang sie weiter in ihn …
 
-»Ich verlange eine Antwort!« rief sie erregt. Du wirst
+»Ich verlange eine Antwort!« rief sie erregt. »Du wirst
 doch …«
 
 Er war mit einem Ruck aufgestanden.
@@ -1451,5 +1451,5 @@ Für heute schließe ich:
 
 > Ende!
 
-> Nächster Band: Das Geheimnis von H.O.3.
+> Nächster Band: Das Geheimnis von H.&nbsp;O.&nbsp;3.
 

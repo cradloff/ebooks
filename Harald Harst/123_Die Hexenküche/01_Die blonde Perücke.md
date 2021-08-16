@@ -10,7 +10,7 @@ Das Piratendorf war in Flammen aufgegangen.
 Was von den Bewohnern dem verheerenden Geschützfeuer
 des englischen Kreuzers entronnen war, wurde auf
 der Insel unschwer eingekreist und gefangen genommen. —
-Dies habe sich bereits im vorigen Band erwähnt.
+Dies habe ich bereits im vorigen Band erwähnt.
 
 Der Kapitän des Kreuzers Sir Hoogreeve und wir beide
 hatten am Vormittag nach der ereignisreichen Nacht den
@@ -82,7 +82,7 @@ Ich war genau so erstaunt wie Sir Hoogreeve. Bisher
 hatte Harald von dieser Absicht auch nicht eine Silbe geäußert.
 
 <@pagebreak/>
-»dann wollen Sie also sehr bald uns verlassen,« meinte
+»Dann wollen Sie also sehr bald uns verlassen,« meinte
 der Kapitän bedauernden Tones.
 
 »Ja. Gaspard und Seridan bringen den Kutter schon
@@ -122,7 +122,7 @@ Aber — ich kam gar nicht dazu.
 Harst erklärte gleichmütig:
 
 »Die Geschichte ist die, mein lieber Alter: in der verflossenen
-Nacht, als ich mit Euch in dem brennenden Piratendorfe
+Nacht, als ich mit euch in dem brennenden Piratendorfe
 war, habe ich einen der Freibeuter, der mit Beinschuß
 in ein Dickicht gekrochen war, heimlich durch Gaspard und
 Seridan in den Kutter bringen lassen, weil der Mann mir
@@ -358,12 +358,12 @@ flog.«
 
 Er lachte schneidend auf.
 
-»England hat mich Sarg England hat mich bloßgestellt!!
+»England hat mich verstoßen! England hat mich bloßgestellt!!
 Hüte Dich, England!!«
 
 <@pagebreak/>
 Diese schrille Drohung, hervorgestoßen in jäh erwachtem
-Paroxysmus von Wut, machte einen tiefen Eindruck auf mich.
+Paroxysmus<@refnote 2/> von Wut, machte einen tiefen Eindruck auf mich.
 
 Harst blieb kalt.
 
@@ -466,7 +466,7 @@ Ich verstand ihn nicht.
 Gläser dieser Brille sind kein Fensterglas. Mithin kann er
 mit *seinen* Augen niemals von der Pirateninsel durch ein
 Fernrohr erkannt haben, welche Farbe die Haare des in den
-Rauchmassen schwelenden Weibes hatten. Das ist ausgeschlossen.
+Rauchmassen schwebenden Weibes hatten. Das ist ausgeschlossen.
 <@pagebreak/>
 Das könnte nur ich! Und — ich ich behaupte, mein
 Alter: die Frau die die Klippe erkletterte, hatte prachtvolles
@@ -711,7 +711,7 @@ Das tat sie!
 Wie ein ungeheurer Schirm hielt das vorspringende Gestein
 sogar die Sonnenstrahlen ab. —
 
-»Bob,« befahl Harald dem wortkarger Seridan,
+»Bob,« befahl Harald dem wortkargen Seridan,
 <@pagebreak/>
 »während wir drei nun über die Felsen turnen, werden Sie
 hier Krankenpfleger spielen und unser Mittagessen vorbereiten.«
@@ -911,7 +911,7 @@ Rief jetzt …
 Rief jetzt …
 
 Und — was er rief, war so unglaublich, daß ich zunächst
-einen faulen Witz glaubte.
+an einen faulen Witz glaubte.
 
 Rief:
 
@@ -973,7 +973,7 @@ Ein Ohr mit einem großen Hautlappen.
 
 Und — — mit etwas Blankem im Ohrläppchen. — —
 
-So — — fand Edward Gaspard den Ohrring, die kleine,
+So — — fand Edward Gaspard den Ohrring, die kleine
 Gemme mit der kunstvollen Goldeinfassung. Die Gemme,
 die einen Hermeskopf mit Flügelhelm darstellte. —
 
@@ -997,7 +997,7 @@ an?«
 seinem Magen nicht noch mehr unverdaute menschliche
 Leichenteile hat.«
 
-Er nahm das Ohr mit zwei Seiten vom Steine auf
+Er nahm das Ohr mit zwei Ästen vom Steine auf
 und legte es in eine kleine Felsspalte, füllte diese mit Geröll.
 
 Erklärte fast feierlich:
