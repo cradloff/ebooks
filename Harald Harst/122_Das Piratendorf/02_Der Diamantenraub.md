@@ -51,8 +51,8 @@ wäre, die Beute den Banditen wieder abzujagen. —
 
 Tompsen zog den ersten Fisch heraus.
 
-Ärgerte sich: am Haken hing ein Seeteufel. »Einer jener
-unglaublich häßlichen Fische, die leider zu gern anbeißen.«
+Ärgerte sich: am Haken hing ein Seeteufel. Einer jener
+unglaublich häßlichen Fische, die leider zu gern anbeißen.
 
 Fluchend warf der Generaldirektor das Ungeheuer
 wieder ins Wasser zurück.

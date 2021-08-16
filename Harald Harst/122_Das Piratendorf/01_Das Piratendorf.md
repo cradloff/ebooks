@@ -219,7 +219,7 @@ Dieser Sindra Mar verschonte uns, kroch nach der
 anderen Seite davon, nachdem er die Klappe in der Wand
 wieder geschlossen hatte.
 
-»Ihm nach!« raunte Harald mir zu und hatte ihm Moment
+»Ihm nach!« raunte Harald mir zu und hatte im Moment
 den Pfropfen wieder in das Loch gesteckt und den
 kleinen Apparat in die Tasche geschoben.
 
@@ -540,7 +540,7 @@ Und nun … nun zündete er den Brief mit einem
 Zündholz an und sagte:
 
 »Wir brauchen ihn nicht mehr. Er könnte nur Unheil
-Stiften.«
+stiften.«
 
 Und fügte hinzu, indem er die verkohlten Reste im Aschbecher
 zerrieb:
@@ -902,7 +902,7 @@ uns wieder an den Sofatisch, und — jetzt begann die Theorie,
 nachdem die Praxis erledigt war. — —
 
 Ich möchte mir an dieser Stelle einige Bemerkungen erlauben.
-— Zunächst was den Haupttitel dieses Probleme
+— Zunächst was den Haupttitel dieses Problems
 »Piratendorf« betrifft. Ich habe ihn eigentlich gestohlen,
 denn unter dieser Überschrift brachten englische und amerikanische
 Zeitungen Ende September 1923 ganz eingehende
@@ -1012,7 +1012,7 @@ der Bucht umherspaziert sein!«
 
 <@pagebreak/>
 
-»Und wäre tags nicht möglich?!«
+»Und wäre das nicht möglich?!«
 
 Ich wurde aufmerksam.
 
@@ -1509,7 +1509,7 @@ beide, die wir allein dies verhindern könnten, sind hier gefangen
 gesetzt worden!«
 
 Seine Augen sprühten auf, sprachen eine ernste Drohung
-aus, — —
+aus. — —
 
 Zehn Minuten später hatten wir in dem Stalle neben
 der Blockhütte eines jener kleinen, zerlegbaren Aluminiumboote
