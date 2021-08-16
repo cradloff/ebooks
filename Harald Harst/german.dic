@@ -55,13 +55,14 @@ abendlichen	1
 Abendlicht	1
 Abendluft	5
 Abendluftgenießer	1
+abendländische	1
 Abendmahlzeit	8
 Abendmahlzeiten	1
 Abendnummer	3
 Abendpost	3
 Abendrot	9
 Abendröte	11
-abends	479
+abends	480
 Abendschatten	1
 Abendsonnenrot	2
 Abendsonnenschein	1
@@ -75,12 +76,12 @@ Abendzeitungen	8
 Abendzug	7
 Abendzuge	3
 Abendzuges	1
-Abenteuer	417
+Abenteuer	418
 Abenteuerer	1
 Abenteuererin	1
 Abenteuerfilm	1
 Abenteuergeschichte	2
-Abenteuerin	5
+Abenteuerin	6
 Abenteuerlebens	1
 abenteuerlich	5
 abenteuerliche	14
@@ -102,18 +103,19 @@ Abenteurerfamilie	1
 Abenteurerin	8
 Abenteurernatur	5
 Abenteurers	3
-aber	2898
+aber	2900
 Aberglaube	4
-Aberglauben	7
+Aberglauben	8
 abergläubisch	19
 abergläubische	9
 abergläubischen	2
+abergläubischer	1
 abergläubischeres	1
 abergläubisches	1
 abermalige	4
 abermaligem	1
 abermaligen	4
-abermals	594
+abermals	596
 abertausende	2
 Abertausende	2
 aberwitzig	1
@@ -262,7 +264,7 @@ abgelesen	4
 abgeleuchtet	5
 abgeleugnet	1
 abgeliefert	3
-abgelohnt	3
+abgelohnt	4
 abgelöst	5
 abgelösten	1
 abgemacht	7
@@ -276,7 +278,7 @@ abgemüht	2
 abgenagt	1
 abgenagten	1
 abgeneigt	5
-abgenommen	82
+abgenommen	83
 abgenommenen	2
 abgenutzte	1
 abgenutzten	1
@@ -328,6 +330,7 @@ abgeschreckt	1
 abgeschrieben	11
 abgeschritten	1
 abgeschrägt	1
+abgeschwenkt	1
 abgeschwindelt	3
 abgeschworen	1
 abgeschwächt	3
@@ -431,6 +434,7 @@ Abhang	41
 Abhanges	1
 Abhangs	14
 abheben	3
+abhebend	1
 abhebendes	1
 Abhebung	2
 Abhebungen	1
@@ -519,7 +523,7 @@ abmühte	2
 abmühten	1
 abnahm	27
 Abnahme	1
-abnahmen	3
+abnahmen	4
 abnehme	3
 abnehmen	40
 abnehmende	1
@@ -758,7 +762,7 @@ abwechselnd	29
 abwechselnden	1
 Abwechselung	7
 abwechselungsreich	1
-Abwechslung	6
+Abwechslung	7
 abwechslungsreich	1
 Abwege	5
 Abwehr	2
@@ -809,7 +813,7 @@ abzubringen	2
 abzudampfen	1
 abzudichten	2
 abzudrängen	1
-abzudrücken	8
+abzudrücken	9
 abzufangen	2
 abzufassen	9
 abzufeuern	1
@@ -833,6 +837,7 @@ abzulegenden	1
 abzulehnen	1
 abzulenken	12
 abzulesen	3
+abzuleuchten	1
 abzuleugnen	4
 abzuliefern	1
 abzulösen	2
@@ -870,9 +875,10 @@ abzustürzen	1
 abzustützen	1
 abzusuchen	7
 abzutun	2
-abzuwarten	12
+abzuwarten	13
 abzuweisen	3
 abzuwenden	5
+abzuwerfen	1
 abzuwägen	1
 abzuwälzen	2
 abzuzählen	1
@@ -894,9 +900,9 @@ Achse	4
 Achsel	1
 Achselhöhle	4
 Achselhöhlen	1
-Achseln	163
+Achseln	164
 Achselzucken	13
-achselzuckend	100
+achselzuckend	102
 acht	630
 achte	10
 Achteck	2
@@ -906,7 +912,7 @@ achteckigen	6
 achteckiger	1
 achten	29
 Achteraufbau	1
-Achterdeck	57
+Achterdeck	58
 Achterdecks	2
 Achterkajüte	7
 achtern	6
@@ -920,6 +926,7 @@ achteten	2
 achtgab	2
 achtgeben	11
 achtgegeben	11
+Achthundert	1
 achtjähriges	1
 achtlos	15
 achtmal	1
@@ -946,6 +953,7 @@ Ackerland	1
 Ackerwagen	1
 acta	3
 ad	3
+Adamskostüm	1
 ade	3
 Adel	3
 Adels	2
@@ -1021,7 +1029,7 @@ Agentur	1
 Agenturen	3
 Agenturgeschäfte	1
 agitierte	1
-Agra	130
+Agra	131
 ah	6
 aha	3
 ahmen	1
@@ -1156,8 +1164,8 @@ alleinstehende	3
 alleinstehenden	1
 allem	174
 allemal	2
-allen	355
-aller	505
+allen	356
+aller	506
 allerbedenklichsten	1
 allerbeste	4
 allerbesten	5
@@ -1200,6 +1208,7 @@ Allernötigste	1
 allerschärfste	1
 allerschärfstem	1
 allerschärfsten	1
+allerschärfstes	1
 allerseits	3
 allersorgfältigste	1
 allerstrengste	2
@@ -1207,7 +1216,7 @@ allertiefster	1
 allerunscheinbarsten	1
 Allerweltsnase	1
 allerwenigsten	1
-alles	2097
+alles	2098
 allgemach	3
 allgemein	36
 Allgemeinbefinden	1
@@ -1257,9 +1266,9 @@ Alpdruck	1
 Alpdrücken	3
 Alphabet	6
 Alphabets	6
-als	8328
+als	8351
 alsbald	5
-also	2390
+also	2391
 Alster	1
 Alsterpavillon	1
 alt	155
@@ -1278,10 +1287,10 @@ altehrwürdiges	1
 Alteingesessenem	1
 alteingesessenen	1
 altem	7
-alten	650
+alten	651
 Alten	77
 alter	184
-Alter	1336
+Alter	1338
 Alterchen	16
 alterprobt	1
 alterprobte	1
@@ -1304,7 +1313,7 @@ altertümlichem	2
 altertümlichen	31
 altertümlicher	3
 altertümliches	3
-altes	57
+altes	58
 altgediente	1
 altgewohnten	2
 altgriechische	1
@@ -1337,9 +1346,10 @@ Aluminiumdreibein	1
 Aluminiumfläschchen	1
 Aluminiumkessel	2
 Aluminiumtopf	1
-am	2927
+am	2926
 Amateur	3
 Amateurdetektiv	4
+Amateure	1
 Amateurphotograph	4
 Amateurverbrecher	1
 Ameisen	7
@@ -1352,7 +1362,7 @@ Amerikaners	5
 amerikanische	26
 amerikanischen	35
 amerikanischer	7
-amerikanisches	34
+amerikanisches	35
 Amerikas	4
 Amethyst	6
 Ammenmärchen	2
@@ -1403,7 +1413,7 @@ anbei	3
 anbeißen	2
 anberaumt	1
 anbeten	1
-Anbeter	5
+Anbeter	6
 anbetet	3
 Anbetracht	1
 anbetraf	10
@@ -1446,7 +1456,7 @@ anderem	69
 anderen	1068
 anderer	261
 andererseits	3
-anderes	386
+anderes	387
 andermal	6
 andern	56
 Andernfalls	8
@@ -1485,7 +1495,7 @@ andächtiger	2
 aneignen	13
 aneigneten	1
 Aneignung	1
-aneinander	30
+aneinander	31
 aneinanderbackten	1
 aneinandergebunden	2
 aneinandergefügt	2
@@ -1519,11 +1529,13 @@ Anfangsbuchstabens	1
 Anfangsgründen	1
 Anfangssilben	1
 Anfangsstadium	4
+Anfangstakte	1
 anfassen	3
 Anfechtungen	1
 anfertigen	10
 anfertigt	1
 anfertigte	1
+Anfeuchten	1
 anfeuern	1
 anfeuerte	1
 anfing	6
@@ -1572,10 +1584,10 @@ angebettelt	2
 angebiedert	3
 angebissen	1
 angebissenen	1
-angeblich	157
+angeblich	158
 angebliche	92
 angeblichem	1
-angeblichen	82
+angeblichen	83
 angeblicher	10
 angeblickt	3
 angebohrt	1
@@ -1587,7 +1599,7 @@ angebotenen	1
 Angebots	2
 angebracht	53
 angebrachte	3
-angebrachten	5
+angebrachten	6
 angebrachtes	1
 angebrauchte	1
 angebrochen	5
@@ -1722,6 +1734,7 @@ angenehmen	19
 angenehmer	19
 angenehmere	3
 angenehmeren	1
+angenehmeres	1
 angenehmes	3
 angenehmste	1
 angenehmster	1
@@ -1771,6 +1784,7 @@ angeschlurft	1
 angeschmiert	4
 angeschmutzt	1
 angeschnallten	1
+angeschnitten	1
 angeschossen	4
 angeschossene	1
 angeschrammte	1
@@ -1793,7 +1807,7 @@ angeseilt	3
 angesengt	1
 angesetzt	1
 Angesicht	14
-angesichts	20
+angesichts	21
 angesiedelt	11
 angespannt	4
 angespannten	3
@@ -1813,7 +1827,7 @@ angestellt	24
 angestellte	1
 Angestellte	14
 Angestellten	29
-Angestellter	17
+Angestellter	18
 angestiftet	5
 angestoßen	3
 angestrengt	38
@@ -1949,7 +1963,7 @@ Ankauf	2
 Ankaufs	2
 ankauft	1
 Anker	84
-Ankerkette	3
+Ankerkette	5
 Ankerketten	2
 Ankermanöver	1
 ankern	4
@@ -1958,7 +1972,7 @@ ankernden	14
 Ankerplatz	9
 Ankers	2
 Ankerstelle	1
-ankert	8
+ankert	7
 Ankertau	2
 ankerte	15
 ankerten	3
@@ -2058,7 +2072,7 @@ annahmen	10
 Annalen	1
 annehmbare	2
 annehme	16
-annehmen	129
+annehmen	130
 Annehmlichkeiten	2
 annimmst	1
 annimmt	9
@@ -2134,7 +2148,7 @@ anrüchiger	1
 anrüchiges	1
 anrückte	1
 anrühren	6
-ans	144
+ans	145
 ansah	32
 ansahen	6
 Ansammlung	2
@@ -2217,6 +2231,7 @@ anspornen	3
 ansprach	9
 Ansprache	5
 ansprachen	4
+ansprang	3
 ansprangen	2
 ansprechen	8
 anspringen	2
@@ -2331,8 +2346,8 @@ antrat	3
 antraten	2
 antreffe	2
 antreffen	8
-antreten	15
-Antrieb	3
+antreten	16
+Antrieb	4
 Antriebe	2
 antrifft	13
 antritt	1
@@ -2345,7 +2360,7 @@ Antwort	326
 Antwortdepesche	10
 Antwortdepeschen	1
 antworte	4
-antworten	49
+antworten	50
 Antworten	42
 Antwortenden	2
 antwortet	4
@@ -2676,6 +2691,7 @@ artig	7
 Artikel	135
 Artikeln	3
 Artikels	9
+Artikelserie	1
 Artist	17
 Artisten	19
 Artistenkreisen	1
@@ -2749,7 +2765,7 @@ atembeklemmend	1
 atembeklemmende	2
 atemberaubender	2
 Atemholen	5
-atemlos	54
+atemlos	55
 atemlose	2
 atemloser	13
 Atemnot	2
@@ -2791,8 +2807,8 @@ Attentäter	31
 Attentätern	3
 Attentäters	1
 Attrappe	5
-Au	3
-auch	7391
+Au	2
+auch	7399
 Audienz	4
 auf	16934
 aufatmen	1
@@ -2833,7 +2849,7 @@ aufbrach	3
 aufbrachen	6
 aufbrausen	1
 aufbrausender	1
-aufbrechen	51
+aufbrechen	52
 aufbringen	4
 Aufbruch	17
 aufbrühen	3
@@ -2882,6 +2898,7 @@ auffand	3
 auffanden	2
 auffandest	1
 auffangen	2
+auffassen	1
 Auffassung	1
 Auffassungsgabe	3
 auffaßte	1
@@ -3039,7 +3056,7 @@ aufgelötet	2
 aufgelöteten	2
 aufgelötetes	1
 aufgemacht	4
-aufgemalt	1
+aufgemalt	2
 aufgemauerten	2
 aufgenagelt	1
 aufgenommen	40
@@ -3115,7 +3132,7 @@ aufgesprungen	40
 aufgespürt	5
 aufgestampft	1
 aufgestanden	59
-aufgestapelt	6
+aufgestapelt	7
 aufgesteckt	3
 aufgestellt	33
 aufgestellte	1
@@ -3232,7 +3249,7 @@ auflachend	7
 auflachte	3
 auflag	1
 Auflage	3
-auflas	1
+auflas	2
 auflauern	5
 auflauert	1
 auflauerte	1
@@ -3250,6 +3267,7 @@ aufleuchtender	1
 aufleuchtet	1
 aufleuchtete	3
 aufliegenden	1
+aufliegt	1
 auflohten	1
 auflösen	1
 auflöste	2
@@ -3352,14 +3370,14 @@ aufschließen	17
 aufschloß	10
 Aufschluchzen	7
 aufschluchzend	3
-aufschlug	7
+aufschlug	8
 Aufschluß	76
 Aufschlägen	2
 Aufschlüsse	2
 aufschnappen	2
 aufschneiden	3
 aufschnitt	1
-aufschob	1
+aufschob	2
 aufschreckte	1
 Aufschrei	38
 aufschreiben	3
@@ -3405,7 +3423,7 @@ aufstehe	1
 aufstehen	15
 Aufstehen	5
 aufstehn	1
-aufsteigen	9
+aufsteigen	11
 aufsteigend	4
 aufsteigende	3
 aufsteigenden	6
@@ -3606,7 +3624,7 @@ Augenlicht	3
 Augenlichts	1
 Augenlid	2
 Augenlider	21
-Augenlidern	1
+Augenlidern	2
 Augenmaß	2
 Augenmerk	3
 Augenpaar	2
@@ -3627,7 +3645,7 @@ Auguste	53
 Augäpfel	3
 Auktion	7
 Auktionator	1
-aus	6526
+aus	6530
 ausarbeiten	1
 ausbaldowern	2
 ausbaldowerte	1
@@ -3732,7 +3750,7 @@ ausfahren	1
 Ausfahren	2
 Ausfahrt	5
 Ausfall	1
-ausfallen	6
+ausfallen	7
 ausfertigen	1
 ausficht	1
 ausfiel	1
@@ -3742,7 +3760,7 @@ ausflickt	1
 Ausflug	35
 Ausfluge	2
 Ausflüchte	15
-Ausflüge	22
+Ausflüge	23
 Ausflügen	4
 Ausflügler	5
 Ausflüglern	1
@@ -3902,6 +3920,7 @@ ausgemergelten	1
 ausgenommen	3
 ausgenutzt	20
 ausgepackt	2
+ausgepichter	1
 ausgeplaudert	5
 ausgeplündert	44
 ausgeplünderte	1
@@ -3937,7 +3956,7 @@ ausgeschlafen	3
 ausgeschlagen	4
 ausgeschlagenen	2
 ausgeschlagener	1
-ausgeschlossen	122
+ausgeschlossen	123
 ausgeschnitten	2
 ausgeschnittene	1
 ausgeschnittenen	2
@@ -3993,7 +4012,7 @@ ausgesuchtester	1
 ausgetauscht	14
 ausgetilgt	1
 ausgetobt	3
-ausgetreten	1
+ausgetreten	2
 ausgetretene	1
 ausgetretenen	1
 ausgetretener	1
@@ -4282,7 +4301,7 @@ Ausstattung	5
 ausstehen	1
 ausstehende	1
 ausstehenden	1
-aussteigen	22
+aussteigen	20
 ausstellen	10
 Aussteuer	6
 ausstieg	1
@@ -4296,7 +4315,7 @@ ausstreckte	9
 ausstreckten	1
 ausstreuen	2
 ausstreute	1
-ausströmen	5
+ausströmen	6
 ausströmenden	1
 ausströmte	1
 ausströmten	1
@@ -4368,7 +4387,7 @@ Auszeichnung	4
 Auszeichnungen	1
 ausziehbaren	1
 ausziehbarer	1
-ausziehen	3
+ausziehen	4
 auszubaldowern	1
 auszubessern	1
 auszubeuten	1
@@ -4458,6 +4477,7 @@ Autolaterne	1
 Autolaternen	3
 Automat	21
 Automaten	10
+automatenhaft	1
 automatenhaften	1
 Automobil	1
 Automobilisten	1
@@ -4488,6 +4508,7 @@ Außengebäude	1
 Außengitter	1
 Außengittern	1
 Außengittertür	1
+Außenhafen	1
 Außenhandgriffe	1
 Außenkäfig	1
 Außenkäfige	1
@@ -4512,7 +4533,7 @@ außergewöhnlich	6
 außergewöhnliche	3
 außergewöhnlichen	4
 außergewöhnliches	2
-außerhalb	83
+außerhalb	84
 außerordentlich	61
 außerordentliche	5
 außerordentlichen	2
@@ -4527,7 +4548,7 @@ Babelsberg	12
 Bach	10
 Bache	8
 Baches	6
-Bachufer	2
+Bachufer	3
 bachähnlichen	1
 Backbord	13
 Backbordfenster	1
@@ -4659,6 +4680,7 @@ Balkendach	1
 Balkendache	1
 Balkendecke	9
 Balkenenden	1
+Balkenhäuschens	1
 Balkenkahn	1
 Balkenlagen	1
 Balkens	2
@@ -4684,7 +4706,14 @@ Ballen	22
 ballerte	2
 Ballkleide	1
 Ballkleidern	1
-Ballon	16
+Ballon	18
+Ballonfahrt	1
+Ballonführer	1
+Ballonhelden	1
+Ballonhülle	6
+Ballonkorb	1
+Ballonkorbes	2
+Ballonkugel	1
 Ballonmütze	1
 Ballons	2
 Ballsaal	1
@@ -4728,7 +4757,7 @@ banalen	1
 Bananen	2
 Bananenschalen	2
 band	85
-Band	461
+Band	462
 bandagiert	1
 Bande	356
 banden	40
@@ -4737,6 +4766,7 @@ Bandes	11
 Bandit	13
 Banditen	104
 Banditenbande	2
+Banditenhöhle	3
 Banditentrupp	1
 Bangalore	69
 bange	6
@@ -4756,7 +4786,7 @@ Bankgeschäft	3
 Bankgeschäfts	1
 Bankmenschen	1
 Banknote	21
-Banknoten	74
+Banknoten	76
 Banknotenfälscher	5
 Banknotenfälschers	1
 Banknotenfälschungen	1
@@ -4790,6 +4820,7 @@ barfuß	1
 barg	10
 Bargeld	8
 bargen	4
+Bargäste	1
 barhäuptig	1
 Bark	9
 Barkasse	15
@@ -4855,7 +4886,7 @@ Baststricken	1
 Bastteppich	27
 Bastteppiche	2
 Bastzigarrentasche	1
-bat	361
+bat	360
 Bataillon	1
 Batavia	57
 Batavias	1
@@ -4883,7 +4914,7 @@ Baudenkmälern	2
 baue	1
 bauen	25
 Bauer	15
-Bauern	19
+Bauern	18
 Bauernfrau	1
 Bauernfänger	2
 Bauernfängern	1
@@ -4975,7 +5006,7 @@ beabsichtigt	25
 beabsichtigte	34
 beabsichtigten	14
 beachte	9
-beachten	34
+beachten	35
 beachtenswert	7
 beachtenswerte	1
 beachtet	38
@@ -4996,7 +5027,7 @@ beansprucht	2
 beanspruchte	3
 beantrage	2
 beantworte	1
-beantworten	58
+beantworten	59
 beantwortende	1
 beantwortet	15
 beantwortete	15
@@ -5076,7 +5107,7 @@ bedecktest	1
 bedenke	7
 bedenken	12
 Bedenken	45
-bedenklich	19
+bedenklich	20
 bedenkliches	3
 bedenklichstem	1
 bedenkst	1
@@ -5091,11 +5122,11 @@ bedeutenderen	1
 bedeutendes	2
 bedeutendste	1
 bedeutendsten	1
-bedeutet	141
+bedeutet	142
 bedeutete	58
 bedeuteten	3
 bedeutsame	3
-Bedeutung	107
+Bedeutung	109
 bedeutungslos	4
 bedeutungsloser	1
 bedeutungsschwer	1
@@ -5202,12 +5233,12 @@ Beet	3
 Beete	8
 Beetes	1
 Beethoven	1
-befahl	289
+befahl	290
 befahlen	3
 befahren	3
 befallen	8
 befand	272
-befanden	209
+befanden	211
 befangen	5
 befassen	14
 befaßt	2
@@ -5260,7 +5291,7 @@ Befragung	2
 befreie	2
 befreien	103
 befreiendes	1
-Befreier	6
+Befreier	7
 befreit	83
 befreite	24
 befreiten	22
@@ -5276,7 +5307,7 @@ befreundet	23
 befreundeten	4
 befriedigend	1
 befriedigenden	3
-befriedigt	26
+befriedigt	27
 befriedigte	1
 befriedigten	2
 befriedigtes	1
@@ -5296,7 +5327,7 @@ befördert	9
 beförderte	4
 beförderten	3
 Beförderung	2
-befühlen	3
+befühlen	4
 befühlt	7
 befühlte	36
 befühlten	3
@@ -5319,9 +5350,10 @@ begangen	53
 begangene	1
 begangenen	6
 begangenes	1
-begann	905
+begann	906
 begannen	103
 begann’s	2
+begaunern	1
 begeben	52
 Begebenheit	1
 Begebenheiten	1
@@ -5497,7 +5529,7 @@ behalten	110
 behaltend	2
 behandeln	32
 behandelst	1
-behandelt	50
+behandelt	51
 behandelte	28
 behandelten	3
 Behandlung	20
@@ -5538,7 +5570,7 @@ beherrsche	6
 beherrschen	13
 beherrscht	14
 beherrschte	23
-beherrschten	1
+beherrschten	2
 beherzigen	2
 beherzigt	3
 Beherzigung	1
@@ -5576,7 +5608,7 @@ behüten	2
 Behüter	1
 behütete	1
 behüteten	1
-bei	3588
+bei	3589
 beibehalten	9
 beibehielt	2
 Beiblatts	1
@@ -5595,7 +5627,7 @@ Beiden	2
 beider	20
 beiderseits	8
 beides	39
-beidrehen	3
+beidrehen	4
 beieinander	23
 Beifall	9
 beifolgende	3
@@ -5625,6 +5657,7 @@ beilagen	2
 Beile	2
 beilegen	1
 Beileid	3
+Beilen	1
 Beiles	1
 Beilhieb	1
 Beilschneide	2
@@ -5680,7 +5713,7 @@ beitreten	1
 Beiträge	1
 Beiwerk	1
 beiwohnen	8
-beiwohnte	3
+beiwohnte	2
 beiwohnten	3
 Beize	1
 beizeiten	1
@@ -5695,7 +5728,7 @@ beißendem	1
 beißenden	1
 beißender	1
 Beißkiefern	3
-beißt	9
+beißt	8
 Beißzange	1
 bejahen	1
 Bejahen	1
@@ -5711,7 +5744,7 @@ Bejahung	1
 bejammernswert	1
 bejammernswerten	2
 bejammerten	1
-bekam	157
+bekam	158
 bekamen	69
 bekamst	2
 bekannt	278
@@ -5786,7 +5819,7 @@ bekömmlich	1
 bekümmern	2
 bekümmertem	1
 bekümmerten	1
-beladen	10
+beladen	11
 beladene	1
 beladenen	8
 beladener	1
@@ -5940,7 +5973,7 @@ bemerkbaren	1
 bemerkbarer	1
 bemerkbares	1
 bemerke	15
-bemerken	144
+bemerken	145
 Bemerken	7
 bemerkend	1
 bemerkenden	1
@@ -5950,13 +5983,13 @@ bemerkenswerten	1
 Bemerkenswertes	2
 bemerkst	6
 Bemerkst	4
-bemerkt	333
-bemerkte	217
+bemerkt	334
+bemerkte	218
 bemerkten	61
 Bemerkten	3
 bemerktest	3
 Bemerktwerden	1
-Bemerkung	115
+Bemerkung	116
 Bemerkungen	36
 bemitleide	1
 bemitleidenswert	1
@@ -6019,10 +6052,10 @@ benommen	23
 benommenem	2
 benutzbar	1
 benutze	14
-benutzen	178
+benutzen	179
 benutzend	6
 benutzt	237
-benutzte	83
+benutzte	84
 benutzten	54
 benutztest	1
 Benutzung	4
@@ -6035,12 +6068,13 @@ Benzinfeuerzeug	1
 Benzinfeuerzeugs	2
 Benzingaul	1
 Benzingestank	1
+Benzinkahn	2
 Benzinkanne	3
 Benzinkutsche	1
 Benzinkutter	1
 Benzinmotor	2
 Benzinroß	1
-Benzinstänker	1
+Benzinstänker	2
 Benzinvogel	1
 benützte	1
 beobachte	8
@@ -6048,10 +6082,10 @@ beobachten	209
 Beobachter	9
 Beobachtern	1
 beobachtet	321
-beobachtete	210
+beobachtete	211
 Beobachtete	5
 beobachteten	67
-Beobachtung	38
+Beobachtung	39
 Beobachtungen	20
 Beobachtungsgabe	4
 Beobachtungsplatz	3
@@ -6141,7 +6175,7 @@ bereithält	1
 bereitlag	2
 bereitlagen	1
 bereitliegen	1
-bereits	1716
+bereits	1719
 Bereitschaft	7
 bereitstanden	1
 bereitstehen	6
@@ -6165,7 +6199,7 @@ bergauf	1
 Berge	108
 Bergeinsamkeit	3
 bergen	12
-Bergen	74
+Bergen	75
 Berges	18
 Bergfex	1
 Bergfexerei	1
@@ -6188,7 +6222,7 @@ Bergriesen	2
 Bergrutsch	1
 Bergschaf	3
 Bergschafe	4
-Bergspitze	2
+Bergspitze	3
 Bergstaat	1
 Bergstraße	21
 Bergterrasse	6
@@ -6206,7 +6240,7 @@ berichte	10
 Berichte	15
 berichten	93
 Berichten	9
-Berichterstatter	1
+Berichterstatter	2
 Berichtes	1
 berichtet	42
 berichtete	121
@@ -6216,10 +6250,11 @@ Berichts	2
 berief	2
 beriet	4
 berieten	16
+berissen	5
 berittene	1
 berittenen	3
 berittener	2
-Berlin	957
+Berlin	959
 Berliner	174
 Berlinerinnen	1
 Berlinern	1
@@ -6277,6 +6312,7 @@ Beruhigungspulver	1
 Beruhigungstrank	1
 beruht	2
 beruhte	3
+berät	1
 berüchtigt	16
 berüchtigte	14
 berüchtigten	31
@@ -6289,7 +6325,7 @@ berücksichtigt	7
 berücksichtigte	2
 Berücksichtigung	3
 berühmt	52
-berühmte	94
+berühmte	95
 berühmten	119
 berühmter	25
 berühmtere	1
@@ -6495,8 +6531,8 @@ besetztes	2
 besichtigen	40
 besichtigt	24
 besichtigte	106
-besichtigten	24
-Besichtigung	27
+besichtigten	25
+Besichtigung	28
 besiedelt	1
 Besiedelung	1
 Besiedlung	1
@@ -6507,7 +6543,7 @@ Besiegte	6
 Besiegten	1
 Besiegter	1
 besieh	2
-besinne	57
+besinne	58
 besinnen	45
 Besinnen	19
 besinnst	16
@@ -6516,17 +6552,17 @@ Besinnung	68
 besinnungslos	6
 besinnungslosen	5
 Besinnungslosigkeit	1
-Besitz	109
+Besitz	110
 besitze	42
 besitzen	65
 Besitzen	5
-Besitzer	124
+Besitzer	126
 Besitzerin	15
 Besitzerinnen	1
 Besitzern	3
 Besitzers	10
 Besitzes	1
-besitzt	108
+besitzt	109
 Besitztum	2
 Besitztümer	1
 Besitzung	22
@@ -6709,7 +6745,7 @@ bestärkt	3
 bestärkte	3
 bestätigen	26
 bestätigt	35
-bestätigte	57
+bestätigte	58
 bestätigten	7
 Bestätigung	12
 bestäubte	1
@@ -6780,7 +6816,7 @@ betont	32
 betonte	108
 betonten	2
 Betonung	47
-Betracht	64
+Betracht	65
 betrachte	11
 betrachten	42
 Betrachten	3
@@ -6812,7 +6848,7 @@ betreiben	7
 betreibt	6
 betretbar	1
 betrete	1
-betreten	155
+betreten	156
 Betreten	5
 betretene	1
 betretenes	2
@@ -6976,7 +7012,7 @@ bevölkern	1
 bevölkert	4
 bevölkerten	4
 Bevölkerung	17
-bewachen	79
+bewachen	80
 Bewachen	4
 bewachsen	4
 bewachsene	1
@@ -7022,7 +7058,7 @@ bewegte	120
 bewegten	39
 bewegter	2
 Bewegung	185
-Bewegungen	84
+Bewegungen	85
 Bewegungsfreiheit	17
 bewegungsfähig	1
 Bewegungsfähigkeit	2
@@ -7086,7 +7122,7 @@ Bewohner	76
 Bewohnerin	1
 Bewohnern	12
 bewohnt	51
-bewohnte	33
+bewohnte	34
 bewohnten	23
 bewohntere	1
 bewohntest	1
@@ -7162,7 +7198,7 @@ bezeichnende	2
 bezeichnet	49
 bezeichnete	18
 bezeichneten	6
-Bezeichnung	41
+Bezeichnung	43
 Bezeichnungen	2
 bezeigt	1
 bezeigte	3
@@ -7189,7 +7225,7 @@ bezwang	4
 bezwecken	2
 bezweckt	15
 bezweckte	7
-bezweifeln	9
+bezweifeln	10
 bezweifelst	1
 bezweifelt	1
 bezweifelte	10
@@ -7251,8 +7287,8 @@ Bikanir	11
 Bild	268
 Bildchen	2
 bilde	7
-Bilde	45
-bilden	32
+Bilde	46
+bilden	31
 bildend	3
 Bilder	77
 Bilderhaken	2
@@ -7325,6 +7361,7 @@ Bindfaden	44
 Bindfäden	4
 binnen	9
 Binnengewässer	1
+Binnenland	1
 Binnensee	6
 Binnensees	2
 Binnenwasser	1
@@ -7345,7 +7382,7 @@ Birmingham	5
 Birnbacher	6
 Birne	25
 Birnen	23
-bis	2337
+bis	2339
 bisher	487
 bisherige	11
 Bisherige	2
@@ -7364,7 +7401,7 @@ Bisswunden	1
 bist	268
 bist’s	1
 bitte	517
-Bitte	758
+Bitte	759
 bitten	186
 Bitten	18
 bittend	9
@@ -7540,7 +7577,7 @@ blendete	7
 blendeten	2
 Blendlaterne	2
 Blendwerk	2
-Blick	587
+Blick	588
 Blicke	117
 blicken	14
 Blicken	56
@@ -7567,7 +7604,7 @@ blinder	16
 Blinder	8
 blindes	6
 Blindheit	5
-blindlings	31
+blindlings	32
 blinken	9
 Blinken	2
 blinkende	2
@@ -7584,7 +7621,7 @@ blinzelten	1
 Blitz	52
 Blitzableiter	6
 Blitzableiters	2
-blitzartig	32
+blitzartig	33
 blitzartige	2
 blitzartiger	1
 blitzartiges	1
@@ -7604,14 +7641,14 @@ blitzsauberen	8
 blitzsauberer	1
 Blitzschlag	11
 blitzschnell	156
-Blitzschnell	12
+Blitzschnell	13
 blitzschnelle	5
 blitzschnellem	2
 blitzschnellen	7
 blitzschneller	1
 Blitzstrahl	4
 blitzt	1
-blitzte	55
+blitzte	56
 blitzten	17
 Block	20
 Blockes	1
@@ -7629,7 +7666,7 @@ blondbärtigem	1
 blondbärtigen	10
 blondbärtiger	16
 blondbärtiges	2
-blonde	177
+blonde	179
 Blonde	67
 blondem	40
 blonden	90
@@ -7898,7 +7935,7 @@ Bootsfahrer	1
 Bootsfahrt	1
 Bootsführer	1
 Bootshafen	5
-Bootshaken	27
+Bootshaken	30
 Bootshakens	2
 Bootshaus	16
 Bootshause	6
@@ -7907,7 +7944,7 @@ Bootsinsassen	4
 Bootsknecht	5
 Bootsleute	2
 Bootsleuten	1
-Bootsmann	20
+Bootsmann	21
 Bootsmotor	3
 Bootsmotoren	1
 Bootsmotors	4
@@ -7925,7 +7962,7 @@ Bootswänden	1
 bootsähnlichen	1
 Bootverkehr	2
 Bootverleiher	1
-Bord	533
+Bord	534
 Bordbekanntschaften	1
 Bordeaux	1
 Bordplanken	1
@@ -7935,7 +7972,7 @@ Bordwache	2
 Bordwand	22
 Bordwände	4
 Bordwänden	4
-borgen	7
+borgen	6
 Borneo	8
 Borneos	1
 borniert	1
@@ -7975,13 +8012,14 @@ brachte	532
 brachten	99
 brachtest	2
 Brahma	48
+Brahmaanbeters	1
 Brahmaismus	1
 Brahmane	62
-Brahmanen	87
+Brahmanen	89
 Brahmanenkaste	2
 Brahmanenschnur	8
 Brahmanismus	14
-Brahmas	17
+Brahmas	18
 Brahmastatue	4
 Brahmatempel	10
 Brahmatempels	2
@@ -8009,11 +8047,11 @@ Brandungslärm	1
 Brandungswelle	1
 Brandwunden	1
 Brandy	7
-brannte	178
+brannte	179
 brannten	43
 Brasil	5
 Brasilianer	1
-Brasilianers	30
+Brasilianers	31
 brasilianische	4
 brasilianischen	4
 Brasilien	6
@@ -8269,7 +8307,7 @@ bringe	59
 bringen	424
 bringen’s	1
 bringst	6
-bringt	76
+bringt	77
 bring’	3
 bring’s	1
 Brise	4
@@ -8278,7 +8316,7 @@ Brite	3
 Briten	4
 Britin	1
 britisch-indischen	1
-britischen	2
+britischen	3
 Brocken	5
 Brokatsessel	2
 Brokatstoff	2
@@ -8308,6 +8346,7 @@ Broten	1
 Brotherr	15
 Brotherrn	11
 Brotkasten	1
+Brotkrümel	1
 Brotschneidemaschine	2
 Brotschnitte	1
 Brotschnitten	1
@@ -8331,11 +8370,12 @@ brummelte	4
 brummen	2
 Brummen	4
 brummend	2
+brummenden	1
 Brummens	1
 brummig	8
 brummige	1
 brummt	2
-brummte	109
+brummte	110
 Brunnen	28
 Brunnenrand	5
 Brunnenschacht	1
@@ -8401,7 +8441,7 @@ brüllend	6
 brüllende	1
 brüllst	1
 brüllt	3
-brüllte	225
+brüllte	227
 brüllten	12
 brüsten	1
 Brüstung	18
@@ -8411,7 +8451,7 @@ brütend	2
 brütenden	1
 brütet	1
 Bubenstück	7
-Buch	92
+Buch	93
 Buchdeckel	1
 Buchdruckerei	4
 Buche	75
@@ -8434,11 +8474,12 @@ Buchstabenreihe	6
 Buchstabens	3
 buchstabierte	1
 buchstäblich	3
-Bucht	235
+Bucht	236
 Buchteinfahrt	1
 Buchteingang	2
 Buchten	7
 buchtenreich	1
+buchtenreichen	1
 Buchtseite	1
 Buchtstrande	1
 buchtähnlichen	1
@@ -8510,7 +8551,7 @@ buntbemalter	1
 buntbemaltes	1
 bunte	23
 buntem	10
-bunten	39
+bunten	40
 bunter	4
 buntes	1
 buntgeränderte	1
@@ -8535,7 +8576,7 @@ burgähnlicher	1
 burgähnliches	2
 Burnus	4
 Burnussen	2
-Bursche	98
+Bursche	99
 Burschen	98
 Busch	28
 Busche	4
@@ -8566,7 +8607,7 @@ Busennadel	2
 Butter	10
 Butterbrot	1
 Butzenscheiben	1
-by	109
+by	110
 Bäche	2
 Bächlein	5
 Bächleins	2
@@ -8596,6 +8637,7 @@ Bärenkräfte	1
 Bärenkräften	1
 Bärennatur	2
 bärenstarke	1
+Bärentatzen	1
 Bärtchen	3
 Bärte	57
 Bärten	10
@@ -8704,6 +8746,7 @@ Bürgersteiges	3
 bürgt	5
 Büro	24
 Bürodiener	3
+Bürohäusern	1
 Bürojacke	1
 Büromöbel	1
 Büropersonal	1
@@ -8737,7 +8780,7 @@ Champagne	2
 Champagner	1
 Chance	1
 Chancen	2
-Chaos	3
+Chaos	4
 Charakter	76
 Charakterbeurteiler	1
 Charakterbild	3
@@ -8787,6 +8830,7 @@ Chefs	6
 Chemie	9
 Chemikalien	13
 Chemiker	20
+Chemikers	3
 chemisch	2
 chemische	5
 chemischen	9
@@ -8836,7 +8880,7 @@ Chloroformmaske	2
 Chloroformnarkose	1
 Cholera	10
 Cholerabazillen	2
-Choleraepidemie	2
+Choleraepidemie	3
 Choleraerkrankung	1
 Choleraherd	1
 choleraähnliche	1
@@ -8872,14 +8916,14 @@ Commis	1
 Confiserie	4
 Conquest	2
 Conte	2
-Copyright	109
+Copyright	110
 Coup	6
 Cousine	2
 Cowboy	1
 Cuxhaven	1
-da	3300
-dabei	726
-Dach	112
+da	3299
+dabei	728
+Dach	113
 dachartig	1
 Dache	45
 Daches	12
@@ -8907,7 +8951,7 @@ dachtet	2
 dacht’	5
 Dachziegel	1
 dadrauf	1
-dadurch	137
+dadurch	138
 dafür	290
 Dafürhalten	2
 dagegen	93
@@ -9006,7 +9050,7 @@ damalige	7
 damaligen	24
 damaliger	1
 damaliges	5
-damals	584
+damals	585
 Damaskus	1
 Dame	572
 Damen	194
@@ -9052,7 +9096,7 @@ Dampferankunft	1
 Dampferbesatzung	1
 Dampferkabine	2
 Dampfern	4
-Dampfers	40
+Dampfers	41
 Dampferschlot	2
 Dampferwinde	1
 Dampfes	2
@@ -9087,11 +9131,11 @@ Dankesworte	5
 Dankesworten	8
 dankte	43
 dankten	7
-dann	6484
+dann	6485
 dannen	23
 Danzig	39
 dar	50
-daran	380
+daran	381
 daransetzen	2
 daransetzt	1
 daranwenden	1
@@ -9134,7 +9178,7 @@ darzustellen	5
 darzutun	2
 darüber	311
 Darüberschreiten	1
-das	17526
+das	17549
 dasaß	8
 dasaßen	2
 Dasein	20
@@ -9198,6 +9242,7 @@ davoneilen	1
 davoneilenden	2
 davoneilte	1
 davonfahren	8
+davonflogen	1
 davonfuhr	9
 davonfuhren	4
 davonführt	1
@@ -9250,6 +9295,7 @@ davonrollte	3
 davonruderte	2
 davonsausen	1
 davonsauste	6
+davonschleppen	1
 davonschleppten	2
 davonschreitend	1
 davonsegeln	1
@@ -9265,7 +9311,7 @@ davonzulaufen	1
 davonzuscheren	1
 davor	35
 davorstanden	1
-dazu	581
+dazu	583
 dazugehörigen	1
 dazugekommen	1
 dazulernen	2
@@ -9274,16 +9320,17 @@ dazustehen	1
 dazuverdiente	1
 dazwischen	46
 dazwischenkommt	1
-daß	12374
+daß	12380
 Debatte	1
 Debüt	2
 dechiffrieren	3
 dechiffriert	1
 Dechiffrierung	5
-Deck	345
+Deck	347
 Deckadresse	3
 Deckaufbau	1
 Deckaufbaus	2
+Deckaufbauten	1
 Deckblatt	1
 decke	4
 Decke	298
@@ -9307,7 +9354,7 @@ Deckenöffnung	9
 Deckhäuschen	1
 Decklampen	1
 Deckmantel	2
-Deckplanken	17
+Deckplanken	19
 Decks	3
 Deckschicht	1
 deckt	10
@@ -9356,12 +9403,12 @@ Delirium	2
 Delphi	1
 Delta	3
 Deltaarm	3
-dem	15710
+dem	15722
 dementsprechend	1
 demjenigen	2
 demnächst	13
 demoliert	5
-demselben	298
+demselben	299
 Demut	2
 demütig	2
 demütigem	1
@@ -9370,7 +9417,7 @@ demütiger	2
 demütigster	1
 Demütigung	1
 Demütigungen	2
-den	25070
+den	25078
 denen	495
 denjenigen	6
 denkbar	4
@@ -9400,7 +9447,7 @@ denkwürdigen	2
 denkwürdiger	1
 Denkzettel	7
 denk’	4
-denn	2043
+denn	2046
 dennoch	15
 denselben	128
 Denunziationen	1
@@ -9430,10 +9477,10 @@ deponierte	1
 Deportation	2
 deportiert	1
 Deportierten	3
-der	42950
+der	42963
 derart	123
 derartig	5
-derartige	52
+derartige	53
 derartigem	1
 derartigen	10
 derartiger	9
@@ -9453,17 +9500,17 @@ derjenige	23
 derjenigen	3
 derlei	20
 derselbe	119
-derselben	214
+derselben	215
 derweil	17
 derweilen	6
 Derwisch	11
 Derwisches	2
 derzeitige	1
-des	9022
+des	9038
 desertiert	9
 desertierte	2
 desgleichen	15
-deshalb	352
+deshalb	353
 desinfiziert	1
 desinfizierten	1
 desjenigen	2
@@ -9480,8 +9527,8 @@ desto	51
 deswegen	32
 Detail	1
 Detektei	14
-Detektiv	489
-Detektivabenteuer	20
+Detektiv	491
+Detektivabenteuer	21
 Detektivabenteuers	1
 Detektivarbeit	9
 Detektivaugen	4
@@ -9494,7 +9541,7 @@ Detektive	107
 Detektiveifer	1
 Detektiven	14
 Detektiverlebnissen	1
-Detektiverzählungen	1
+Detektiverzählungen	2
 Detektivfilm	1
 Detektivgenie	5
 Detektivgeschichte	1
@@ -9526,7 +9573,7 @@ deuteln	1
 deuten	36
 deutend	1
 deutest	1
-deutet	31
+deutet	30
 deutete	336
 deuteten	14
 deutlich	225
@@ -9592,6 +9639,7 @@ diamantenverzierten	1
 Diamantgruben	2
 Diamantkoffer	1
 Diamantmine	4
+Diamantminen	1
 dich	22
 Dich	817
 dicht	877
@@ -9605,6 +9653,7 @@ dichteren	2
 dichterischem	1
 dichtes	8
 dichteste	2
+dichtestem	1
 dichtesten	2
 dichtestes	1
 dichtet	1
@@ -9635,7 +9684,7 @@ dickköpfig	1
 dickste	1
 dicksten	5
 dickwandigen	1
-die	43269
+die	43285
 Dieb	199
 Diebe	132
 Dieben	33
@@ -9652,7 +9701,7 @@ diebessicher	1
 Diebin	20
 diebische	1
 diebischen	2
-Diebstahl	192
+Diebstahl	193
 Diebstahlproblems	1
 Diebstahls	15
 Diebstahlssache	1
@@ -9730,15 +9779,15 @@ Dienstzimmers	2
 dient	8
 diente	21
 dienten	6
-dies	1275
-diese	3502
+dies	1276
+diese	3505
 dieselbe	200
 dieselben	88
 diesem	1353
-diesen	1651
-dieser	3069
+diesen	1653
+dieser	3071
 dieserhalb	25
-dieses	1705
+dieses	1708
 diesig	2
 diesigem	1
 diesigen	1
@@ -9811,7 +9860,7 @@ Division	1
 Diwan	110
 Diwans	6
 Dobermann	2
-doch	3728
+doch	3738
 Docht	6
 Dock	10
 Dockanlagen	1
@@ -9820,7 +9869,7 @@ Dockwächter	1
 Dogge	31
 Doggen	30
 Dohle	19
-Doktor	1139
+Doktor	1140
 Doktors	44
 Dokument	8
 Dokumente	6
@@ -9847,6 +9896,7 @@ Domizil	2
 Dompteurs	1
 Domänenverwaltung	1
 Donner	29
+donnerartiger	1
 donnern	2
 donnernde	1
 donnernden	1
@@ -9862,6 +9912,7 @@ donnerte	12
 donnerten	2
 Donnerwetter	47
 doof	1
+Doppelantenne	2
 Doppelbild	3
 Doppelboden	1
 Doppelbüchse	4
@@ -9934,7 +9985,7 @@ Dornenwälle	1
 Dornenzweige	1
 Dornsträucher	1
 Dornverhau	1
-dort	2382
+dort	2384
 dorther	6
 dorthin	257
 dortige	14
@@ -9987,7 +10038,7 @@ drang	94
 Drang	3
 drangen	36
 drapiert	1
-drauf	171
+drauf	172
 Draufgabe	1
 Draufgeld	1
 draufgeschrieben	1
@@ -10000,10 +10051,11 @@ dreckigen	4
 dreckiger	3
 Drecknest	2
 Drehabsätze	1
+drehbar	1
 drehbare	1
 drehbaren	1
 drehe	6
-drehen	30
+drehen	29
 Drehorgel	31
 Drehorgelspieler	9
 Drehscheibe	1
@@ -10015,7 +10067,7 @@ Drehtisch	1
 Drehtür	3
 Drehung	4
 dreh’	5
-drei	2621
+drei	2623
 dreiarmige	3
 Dreibein	2
 Dreieck	13
@@ -10047,12 +10099,14 @@ dreijähriger	1
 dreiköpfigen	2
 dreimal	87
 dreimalige	2
+dreimaligem	1
 Dreimaster	6
 Dreimastschoner	1
 dreimonatiger	1
 drein	88
 dreinblickenden	2
 dreinführt	1
+dreingeblieben	1
 dreingelaufen	1
 dreinhetzte	1
 dreinlachte	1
@@ -10077,6 +10131,7 @@ dreizehnjährigen	2
 dreizehnte	1
 dreizehnten	7
 dreißig	115
+dreißigjährige	1
 dreißigjährigen	3
 dreißigjähriger	3
 dreißigtausend	2
@@ -10104,7 +10159,7 @@ dringt	9
 drinnen	65
 dritte	164
 Drittel	9
-dritten	180
+dritten	181
 Dritten	15
 drittens	15
 Drittens	15
@@ -10126,7 +10181,7 @@ drohender	8
 drohendes	5
 drohst	1
 droht	18
-drohte	91
+drohte	92
 drohten	15
 drohtest	1
 Drohung	79
@@ -10139,7 +10194,7 @@ Dromedars	1
 Droschke	19
 Droschkengaul	1
 Droschkenkutscher	2
-Druck	166
+Druck	167
 Druckerei	4
 Druckknopf	7
 Druckplatten	2
@@ -10179,7 +10234,7 @@ Drücker	35
 Drückerschloß	2
 drückst	1
 drückt	14
-drückte	400
+drückte	401
 drückten	41
 Drüse	1
 Drüsen	3
@@ -10198,12 +10253,12 @@ Dschungels	4
 Dschungelviper	4
 Dschungelvipern	1
 Dschungelwölfe	2
-du	35
-Du	3679
+du	34
+Du	3680
 ducken	2
 duckt	2
-duckte	21
-duckten	15
+duckte	22
+duckten	16
 dudelte	3
 Duell	38
 Duellbestimmung	1
@@ -10285,7 +10340,7 @@ dunkelroter	2
 dunkelste	2
 dunkelsten	5
 dunkelte	5
-Dunkelwerden	28
+Dunkelwerden	29
 dunkle	143
 dunklem	18
 dunklen	229
@@ -10304,7 +10359,7 @@ Dunstwolke	1
 Dunstwolken	1
 Duplikat	2
 Duplikatschlüssel	2
-durch	4212
+durch	4216
 durchaus	209
 durchbekommen	1
 durchbissenem	1
@@ -10317,7 +10372,7 @@ durchbohrt	8
 durchbohrte	1
 durchbohrtem	1
 durchbohrten	1
-durchbrach	1
+durchbrach	2
 durchbrechen	1
 durchbringt	1
 durchbrochen	2
@@ -10563,6 +10618,7 @@ durchwühlte	7
 durchwühlten	3
 durchziehenden	1
 durchzieht	1
+durchzitterte	3
 durchzog	3
 durchzogen	5
 durchzogene	1
@@ -10593,7 +10649,7 @@ Dusche	5
 Duschen	1
 duschte	1
 Dusel	4
-Dutzend	71
+Dutzend	72
 Dutzenden	5
 dutzendmal	1
 Dutzends	3
@@ -10691,7 +10747,7 @@ düsterer	6
 düsteres	3
 Ebbe	6
 ebbte	1
-eben	855
+eben	856
 Ebenbild	6
 ebenbürtig	4
 ebenbürtige	1
@@ -10704,7 +10760,7 @@ Ebene	27
 ebenen	5
 Ebenen	1
 ebener	5
-ebenfalls	800
+ebenfalls	803
 Ebenholz	2
 Ebenholzbank	1
 Ebenholzrahmen	1
@@ -10714,19 +10770,19 @@ ebensogut	3
 ebensolche	3
 ebensolcher	1
 ebensoviel	3
-ebensowenig	51
+ebensowenig	52
 Eber	2
 ebnen	1
 Echo	9
 echt	135
 echte	137
 echtem	4
-echten	63
+echten	64
 echter	16
 echtes	6
 Echtheit	10
 Eckchen	1
-Ecke	287
+Ecke	289
 Ecken	15
 eckige	3
 eckigen	4
@@ -10758,11 +10814,12 @@ edelster	1
 Edeltieres	1
 Eden	23
 edle	12
+edlem	1
 edlen	11
 edlere	2
 edleren	1
 edles	1
-Edward	329
+Edward	330
 Efeu	2
 Efeukästen	2
 Efeuranken	1
@@ -10774,7 +10831,7 @@ Effekthascherei	9
 Effendi	20
 egal	1
 Egoist	3
-ehe	58
+ehe	59
 Ehe	99
 Ehedrama	1
 Ehefrau	1
@@ -10962,7 +11019,7 @@ eignen	2
 eignet	11
 eignete	7
 eigneten	4
-Eiland	55
+Eiland	56
 Eilande	18
 Eilanden	5
 Eilandes	8
@@ -10991,8 +11048,8 @@ eiltest	1
 Eilzug	2
 Eimer	6
 Eimern	6
-ein	17541
-einander	32
+ein	17542
+einander	30
 einarbeiten	1
 einarmige	2
 einarmigen	1
@@ -11003,6 +11060,7 @@ einatmen	2
 einatmete	1
 einatmeten	1
 einbalsamiert	1
+einbalsamierten	1
 einbeiniger	1
 Einbeulung	1
 einbiegen	2
@@ -11011,6 +11069,7 @@ einbilden	1
 einbildest	1
 einbildete	1
 einbildeten	1
+Einbildung	1
 Einblick	9
 einbog	9
 einbogen	11
@@ -11066,20 +11125,21 @@ Eindruck	241
 eindrucksvoll	2
 eindrucksvoller	3
 eindrucksvollerer	1
+eindrängen	1
 Eindrücke	39
 eindrücken	7
 Eindrücken	8
 eindrückend	1
 eindrückt	1
 eindämmen	2
-eine	11242
-einem	5198
+eine	11244
+einem	5200
 einen	7433
 einer	4861
 einerlei	2
-eines	1725
+eines	1726
 einesteils	1
-einfach	219
+einfach	220
 einfache	37
 einfachem	1
 einfachen	39
@@ -11126,7 +11186,7 @@ einfuhren	1
 Einfuhrzoll	2
 Einfälle	4
 Einfällen	1
-einfällt	4
+einfällt	5
 einfältigen	1
 einförmiges	2
 einfüge	1
@@ -11177,7 +11237,7 @@ Eingeborenenviertels	9
 eingeborener	16
 Eingeborener	16
 Eingeborenstadt	1
-eingebracht	7
+eingebracht	8
 eingebrannt	1
 eingebrannten	2
 eingebrochen	10
@@ -11196,7 +11256,7 @@ eingedrückte	4
 eingedrückten	3
 eingeengt	1
 eingefahren	1
-eingefallen	31
+eingefallen	32
 eingefallenen	2
 eingefangen	3
 eingefassten	1
@@ -11242,7 +11302,7 @@ eingehändigt	1
 eingehüllt	16
 eingehüllte	1
 eingejagt	3
-eingekapselt	1
+eingekapselt	2
 eingekauft	8
 eingekehrt	3
 eingekeilt	1
@@ -11343,7 +11403,7 @@ eingerückt	11
 eingerührt	2
 eingesammelt	1
 eingesargt	2
-eingeschaltet	82
+eingeschaltet	84
 eingeschaltete	13
 eingeschaltetem	1
 eingeschalteten	4
@@ -11376,6 +11436,7 @@ eingeschraubt	3
 eingeschrieben	3
 eingeschriebene	1
 eingeschriebenen	5
+eingeschrumpft	1
 eingeschwenkt	1
 eingeschärft	1
 eingeschätzt	10
@@ -11431,6 +11492,7 @@ eingetroffene	6
 eingetroffenen	8
 eingewachsen	2
 eingewandert	2
+eingewebte	1
 eingewechselt	1
 Eingeweide	1
 eingeweiht	89
@@ -11495,7 +11557,7 @@ einhüllende	1
 einhüllte	2
 einhüllten	1
 einig	24
-einige	391
+einige	392
 einigem	18
 einigen	101
 einiger	67
@@ -11511,7 +11573,7 @@ Einkauf	2
 einkaufe	1
 einkaufen	9
 einkehrte	1
-einkerkern	1
+einkerkern	2
 einkerkert	1
 Einkerkerung	5
 Einklang	3
@@ -11547,7 +11609,7 @@ einleitende	3
 Einleitende	1
 einleitenden	3
 einleitete	6
-Einleitung	32
+Einleitung	33
 Einleitungsszene	1
 einlenkend	1
 einlenkten	1
@@ -11615,7 +11677,7 @@ Einrichtungsgegenständen	2
 einritzte	1
 einräumen	6
 einrückte	1
-eins	356
+eins	357
 einsah	3
 einsam	32
 einsame	22
@@ -11701,7 +11763,7 @@ einsetzte	1
 Einsicht	7
 Einsichtnahme	1
 Einsiedelei	1
-Einsiedler	54
+Einsiedler	55
 Einsiedlerleben	1
 Einsiedlern	2
 Einsiedlers	3
@@ -11801,11 +11863,13 @@ einwandfreiem	1
 einwandfreien	8
 einwandfreier	1
 einwandfreies	1
+einweihe	1
 einweihen	11
 einwenden	3
 Einwendung	2
 Einwendungen	3
 einwickeln	7
+Einwickelpapier	1
 einwickelte	3
 einwilligte	3
 einwilligten	1
@@ -11821,7 +11885,7 @@ einzahlen	3
 Einzahlung	1
 Einzelhaft	2
 Einzelheit	28
-Einzelheiten	206
+Einzelheiten	208
 einzeln	64
 Einzeln	2
 einzelne	79
@@ -11841,7 +11905,7 @@ einzigen	109
 Einzigen	5
 einziger	53
 Einziger	2
-einziges	116
+einziges	117
 einzog	5
 einzubiegen	1
 einzubrechen	2
@@ -12008,7 +12072,7 @@ Eisenwarengeschäft	2
 Eisenwarenladen	1
 Eisenzaun	2
 Eisenzaunes	2
-eiserne	77
+eiserne	78
 eisernem	7
 eisernen	76
 eiserner	17
@@ -12023,7 +12087,7 @@ eisgekühlter	1
 eisgekühltes	2
 eisgraues	1
 Eishauch	1
-Eishöhle	23
+Eishöhle	24
 eisig	36
 eisige	19
 eisigem	3
@@ -12086,7 +12150,7 @@ eleganteste	3
 elegantesten	4
 Eleganz	5
 elektrisch	11
-elektrische	190
+elektrische	191
 elektrischem	4
 elektrischen	87
 elektrischer	14
@@ -12108,7 +12172,7 @@ elende	11
 elenden	20
 elender	9
 elendes	8
-elf	318
+elf	319
 Elfenbein	6
 Elfenbeineinlagen	1
 elfenbeinfarbenen	1
@@ -12126,7 +12190,7 @@ Elite	3
 Ellbogen	10
 Ellbogengelenk	3
 Ellbogengelenks	3
-Ellen	194
+Ellen	201
 Ellenbogen	15
 Ellenbogendruck	1
 Ellenbogengelenk	3
@@ -12314,7 +12378,7 @@ engagierte	4
 enganschließenden	1
 engbegrenzte	1
 engbrüstige	1
-enge	43
+enge	42
 Enge	5
 Engel	9
 engelhaft	2
@@ -12387,6 +12451,7 @@ entehrt	3
 enterben	2
 enterbt	4
 Enterbten	7
+entern	1
 entfacht	2
 entfallen	9
 entfalten	4
@@ -12398,7 +12463,7 @@ entfernend	1
 entfernende	1
 entfernenden	6
 entfernt	277
-entfernte	112
+entfernte	113
 entfernten	59
 entfernter	3
 entferntere	2
@@ -12508,6 +12573,7 @@ entglitten	6
 enthalten	82
 enthaltene	1
 enthaltenen	1
+enthaupten	1
 enthaupteten	3
 enthielt	188
 enthielte	6
@@ -12535,7 +12601,7 @@ entladen	4
 entladend	1
 Entladung	5
 Entladungen	2
-entlang	338
+entlang	339
 entlangblicken	1
 entlangfahren	2
 entlangfahrender	1
@@ -12642,7 +12708,7 @@ entlockten	1
 entlohnte	1
 entlohnten	1
 Entlohnung	1
-entlud	8
+entlud	9
 entmenschte	1
 entmenschten	1
 entmündigten	1
@@ -12698,6 +12764,7 @@ Entscheidung	34
 entschied	17
 entschieden	16
 entschlafenem	1
+entschleierte	1
 entschließen	2
 Entschließungen	1
 entschlossen	23
@@ -12748,14 +12815,14 @@ entsetzlichen	6
 entsetzlicher	5
 entsetzliches	3
 entsetzlichster	1
-entsetzt	75
+entsetzt	77
 entsetzte	2
 entsetzten	8
 entsetzter	2
 entsetztes	6
 entsichern	1
 entsichert	37
-entsicherte	36
+entsicherte	37
 entsicherten	18
 entsicherter	1
 entsinne	2
@@ -12823,7 +12890,7 @@ entwaffnen	2
 Entwaffnung	1
 entwarf	5
 entwarfen	3
-entweder	57
+entweder	58
 Entweder	23
 entweichen	22
 Entweichen	16
@@ -12843,7 +12910,7 @@ entwich	7
 entwichen	28
 entwichenen	3
 entwichener	1
-entwickeln	20
+entwickeln	21
 entwickelst	1
 entwickelt	13
 entwickelte	35
@@ -12896,7 +12963,7 @@ entäußern	1
 epidemieartig	1
 Episode	6
 epochemachende	1
-er	17046
+er	17045
 erachte	3
 erachten	1
 Erachtens	35
@@ -13004,6 +13071,7 @@ erdbeschmutzter	1
 Erdboden	19
 Erde	156
 Erden	6
+Erdenkliche	2
 erdenklichen	3
 erdenklichste	2
 Erdenqualen	1
@@ -13015,7 +13083,7 @@ erdfahl	9
 Erdgeruch	4
 Erdgeschoss	1
 Erdgeschosses	7
-Erdgeschoß	106
+Erdgeschoß	107
 Erdgeschoßfenster	4
 Erdgeschoßräume	1
 Erdgeschoßräumen	1
@@ -13064,7 +13132,7 @@ ereignisreich	1
 ereignisreiche	1
 ereignisreichen	3
 Ereignisse	111
-Ereignissen	26
+Ereignissen	27
 Ereignisses	1
 ereilen	1
 ereilt	9
@@ -13221,7 +13289,7 @@ erhabenen	9
 erhabener	1
 Erhabenheit	14
 erhalte	5
-erhalten	335
+erhalten	336
 erhaltend	1
 erhaltene	4
 erhaltenen	16
@@ -13245,7 +13313,7 @@ erhellten	4
 erhelltes	1
 erheuchelt	5
 erheuchelte	1
-erhielt	193
+erhielt	194
 erhielte	9
 erhielten	55
 erhieltet	1
@@ -13288,7 +13356,7 @@ erhöhten	8
 erhöhter	6
 Erhöhungen	1
 erhört	3
-erinnere	20
+erinnere	21
 erinnerlich	2
 erinnern	32
 erinnert	25
@@ -13315,9 +13383,10 @@ erkennbare	4
 erkennbaren	3
 erkennbares	1
 erkenne	20
-erkennen	274
+erkennen	275
 Erkennen	5
 erkennend	1
+erkennenden	1
 erkennst	12
 erkennt	17
 erkenntlich	2
@@ -13332,7 +13401,7 @@ Erkern	1
 Erkerzimmer	2
 erklang	46
 erklangen	9
-erklettern	19
+erklettern	20
 Erklettern	6
 erklettert	11
 erkletterte	8
@@ -13354,7 +13423,7 @@ Erklärers	1
 erklärlich	2
 erklärst	1
 erklärt	182
-erklärte	1445
+erklärte	1446
 erklärten	16
 erklärter	1
 erklärtest	7
@@ -13436,14 +13505,14 @@ erlesenen	2
 erleuchten	1
 erleuchtet	57
 erleuchtete	26
-erleuchteten	38
+erleuchteten	39
 erleuchteter	1
 erleuchtetes	3
 Erleuchtung	43
 erliegen	1
 erlischt	1
 erlitt	2
-erlitten	13
+erlitten	14
 erlogen	5
 erlogenen	1
 erlosch	78
@@ -13590,7 +13659,7 @@ erregtem	5
 erregten	14
 erregter	4
 erregtes	2
-Erregung	129
+Erregung	130
 Erregungen	2
 Erregungszustände	1
 erreichbar	1
@@ -13599,7 +13668,7 @@ erreiche	2
 erreichen	126
 erreichenden	1
 erreicht	218
-erreichte	58
+erreichte	59
 erreichten	77
 Erreichung	3
 Errettung	5
@@ -13641,9 +13710,10 @@ Erscheinung	55
 Erscheinungen	11
 erschien	614
 erschiene	4
-erschienen	239
+erschienen	240
 erschienene	3
 erschienenen	4
+erschieße	1
 erschießen	37
 Erschießen	2
 erschießt	1
@@ -13661,7 +13731,7 @@ erschossene	2
 erschossenen	12
 Erschossenen	6
 erschoß	18
-erschrak	7
+erschrak	8
 erschrecken	11
 Erschrecken	8
 erschreckend	2
@@ -13731,7 +13801,8 @@ Erstarrung	3
 erstatten	16
 erstattet	5
 erstattete	13
-Erstaunen	81
+Erstaunen	82
+erstaunlich	4
 erstaunliche	1
 erstaunlichen	1
 erstaunlicher	2
@@ -13741,7 +13812,7 @@ erstauntem	3
 erstaunten	12
 erstaunter	2
 erstauntes	10
-erste	342
+erste	343
 erstechen	3
 Erstechen	1
 erstehen	6
@@ -13749,6 +13820,7 @@ ersteigen	4
 erstem	1
 erstemal	3
 ersten	768
+erstenmal	1
 erstens	26
 erster	96
 ersterben	1
@@ -13765,7 +13837,7 @@ ersticken	11
 erstickende	1
 erstickenden	3
 erstickender	1
-erstickt	15
+erstickt	16
 erstickte	14
 erstickten	1
 erstickter	9
@@ -13886,7 +13958,7 @@ Erwerbsgenie	1
 erwidere	2
 erwidern	26
 erwidert	25
-erwiderte	523
+erwiderte	524
 erwiderten	2
 erwidertest	1
 Erwiderung	12
@@ -13919,7 +13991,7 @@ erwähnen	66
 Erwähnen	7
 erwähnenswerte	2
 erwähnt	172
-erwähnte	132
+erwähnte	133
 erwähntem	1
 erwähnten	26
 Erwähnung	12
@@ -13987,8 +14059,8 @@ Erörterung	15
 Erörterungen	15
 erübrigen	2
 erübrigten	1
-er’s	37
-es	8225
+er’s	39
+es	8238
 Esel	19
 Eskimo	1
 Eskorte	1
@@ -13998,7 +14070,7 @@ Espenlaub	1
 Esplanade	14
 esse	3
 essen	43
-Essen	54
+Essen	55
 Essens	1
 Essig	5
 Esswaren	2
@@ -14015,7 +14087,7 @@ Etui	67
 Etuis	9
 etwa	1654
 etwaige	2
-etwas	3723
+etwas	3730
 euch	11
 Euch	369
 Euer	17
@@ -14036,8 +14108,8 @@ Eures	2
 Europa	73
 europamüde	2
 Europareise	1
-Europas	4
-Europäer	253
+Europas	5
+Europäer	255
 Europäeraugen	1
 Europäerfriedhof	1
 Europäerhaß	1
@@ -14048,7 +14120,7 @@ Europäern	21
 Europäernase	1
 Europäers	11
 Europäerstadt	5
-Europäerviertel	38
+Europäerviertel	39
 Europäerviertels	11
 Europäervorstadt	3
 Europäerwohnhaus	1
@@ -14157,7 +14229,7 @@ Fabrikat	7
 Fabrikate	1
 Fabrikbesitzer	6
 Fabrikbesitzers	2
-Fabriken	14
+Fabriken	15
 Fabrikesse	1
 Fabrikgebäude	1
 Fabrikmarke	1
@@ -14185,7 +14257,7 @@ Fadens	1
 fadenscheinig	3
 fadenscheiniger	1
 fader	2
-fahl	16
+fahl	15
 fahlbraunen	1
 fahlbraunes	1
 fahle	14
@@ -14210,7 +14282,7 @@ Fahrdamm	12
 Fahrdamms	1
 Fahrdammseite	1
 fahre	19
-fahren	213
+fahren	212
 Fahren	45
 fahrende	1
 fahrenden	4
@@ -14256,6 +14328,7 @@ Fahrweges	1
 Fahrzeug	91
 Fahrzeuge	15
 Fahrzeugen	8
+Fahrzeuges	3
 Fahrzeugs	11
 Fakir	117
 Fakire	5
@@ -14265,7 +14338,7 @@ Faktotum	4
 Fall	475
 falle	2
 Falle	219
-fallen	195
+fallen	193
 Fallen	5
 fallend	1
 fallende	4
@@ -14354,7 +14427,7 @@ fanatischem	1
 fanatischen	9
 fanatischer	5
 fand	764
-fanden	524
+fanden	523
 fandest	2
 fang	1
 Fang	15
@@ -14423,7 +14496,7 @@ fassungslos	17
 fassungslose	2
 fassungslosem	1
 fassungsloses	1
-fast	511
+fast	512
 fasten	1
 faszinierend	1
 fatal	2
@@ -14484,6 +14557,7 @@ Federhalter	5
 Federhalters	1
 Federhut	1
 federleicht	2
+Federlesens	1
 Federmesser	13
 Federn	8
 federnd	1
@@ -14566,18 +14640,18 @@ Feind	82
 Feinde	59
 Feinden	14
 Feindes	6
-Feindin	42
+Feindin	43
 feindlich	2
 feindlichen	2
 Feindschaft	4
-feindselig	2
+feindselig	3
 feindselige	4
 feindseligen	2
 feindseliges	1
 Feindseligkeit	4
 feine	68
-feinem	17
-feinen	71
+feinem	18
+feinen	72
 feiner	52
 feinere	2
 feineren	2
@@ -14645,8 +14719,9 @@ Felsbrocken	7
 Felsdecke	2
 Felseinöde	4
 Felseinöden	1
-Felsen	152
+Felsen	153
 Felsenanhöhe	1
+Felsenbehausung	1
 Felsenberge	1
 Felsenbergen	1
 Felsendecke	2
@@ -14677,7 +14752,7 @@ Felsennadel	13
 Felsennest	2
 Felsenrande	1
 Felsenrückens	1
-Felsens	18
+Felsens	19
 Felsenspalte	1
 Felsentale	2
 Felsentales	1
@@ -14691,7 +14766,7 @@ Felsenwildnis	4
 Felsenwohnung	1
 Felsenzunge	1
 Felsenöffnung	1
-Felsgebilde	3
+Felsgebilde	5
 Felsgebildes	1
 Felsgestaden	1
 Felsgrat	3
@@ -14739,7 +14814,7 @@ Felsschichten	1
 Felsschlucht	3
 Felsschlund	1
 Felsspalt	1
-Felsspalte	61
+Felsspalte	62
 Felsspalten	1
 Felsstück	16
 Felsstückchen	1
@@ -14766,12 +14841,12 @@ Femmäntel	1
 Femrichter	4
 Femtische	1
 Femzimmer	1
-Fenster	1244
+Fenster	1245
 Fensterbeschädigungen	1
 Fensterblech	5
 Fensterbrett	26
 Fensterbrüstung	4
-Fensterchen	6
+Fensterchen	7
 Fensterchens	2
 Fensterecke	10
 Fensterecken	1
@@ -14845,6 +14920,7 @@ fernhält	1
 fernliegenden	1
 Fernrohr	38
 Fernrohren	2
+Fernrohrs	1
 Fernschreibers	1
 Fernsicht	5
 Fernsprecher	18
@@ -14887,6 +14963,7 @@ Feste	9
 festem	4
 festen	28
 fester	29
+festere	1
 festeren	1
 festeres	1
 festes	5
@@ -14943,7 +15020,7 @@ festkeilen	2
 festklammern	2
 festklemmen	1
 festklemmte	1
-festlag	2
+festlag	3
 Festland	9
 Festlande	9
 Festlandsküste	1
@@ -14981,7 +15058,7 @@ feststellten	9
 Feststellung	12
 Feststellungen	9
 Festtafel	2
-Festung	46
+Festung	47
 Festungen	1
 festungsartig	1
 Festungsbesatzung	1
@@ -15036,7 +15113,7 @@ feudalem	1
 feudalen	5
 feudales	2
 Feudalgeschlechts	1
-Feuer	154
+Feuer	155
 Feueranbeter	7
 Feuerbecken	2
 feuerbereit	1
@@ -15160,11 +15237,11 @@ finanzielle	1
 finanziellen	1
 finde	81
 Finde	5
-finden	655
+finden	654
 Finder	4
 Finders	1
 findest	18
-findet	142
+findet	143
 findige	1
 findigen	1
 findiger	3
@@ -15197,6 +15274,7 @@ Fingern	75
 Fingernagel	11
 Fingernagels	1
 Fingernägel	18
+Fingernägeln	1
 Fingerringen	1
 Fingers	2
 Fingerspiel	1
@@ -15215,12 +15293,12 @@ finsteren	9
 finsterer	6
 finsteres	4
 Finstern	9
-Finsternis	152
+Finsternis	153
 finsterste	1
 Finte	2
 firm	3
 Firma	84
-Firmament	16
+Firmament	17
 Firmaments	3
 Firmen	3
 Firmenaufdruck	15
@@ -15321,19 +15399,21 @@ Flammentode	2
 Flammenzungen	1
 flammte	60
 flammten	24
-Flandern	49
+Flandern	50
 Flanell	1
 Flanellanzug	10
+Flanellbeinkleid	1
 Flanellhemd	1
 flankierenden	1
 flankiert	4
-Flasche	129
+Flasche	130
 Flaschen	42
 Flaschenpost	4
 Flaschenregal	1
 Flaschenwand	1
 flattern	7
 flatternde	2
+flatterndem	1
 flatternden	6
 flatterte	12
 flatterten	11
@@ -15444,6 +15524,7 @@ flinker	7
 flinkere	1
 Flinte	5
 Flinten	8
+Flintenläufe	1
 Flirt	5
 flirte	1
 flitzten	1
@@ -15452,7 +15533,7 @@ flochten	1
 Flocken	3
 Flockenfall	1
 flockigem	1
-flog	226
+flog	227
 flogen	54
 floh	44
 flohen	20
@@ -15488,6 +15569,7 @@ Fluchtplan	4
 Fluchtversuch	24
 Fluchtversuche	1
 Fluchtversuchs	1
+Fluchtweg	1
 Flug	3
 Flugbahn	2
 Fluge	5
@@ -15590,13 +15672,13 @@ flüssig	6
 flüssiges	6
 Flüssigkeit	22
 flüstere	4
-flüstern	29
+flüstern	30
 Flüstern	30
-flüsternd	50
+flüsternd	51
 flüsternde	4
 flüsterst	2
 flüstert	13
-flüsterte	1078
+flüsterte	1079
 flüsterten	37
 flüstertest	2
 Flüsterton	9
@@ -15682,7 +15764,7 @@ Forschungsreisender	1
 Forschungszwecken	2
 Forst	4
 Forstbeamten	1
-fort	484
+fort	485
 Fort	14
 fortan	30
 fortbestehen	1
@@ -15750,12 +15832,13 @@ fortzufahren	2
 fortzuführen	2
 fortzukommen	3
 fortzulassen	1
-fortzuschaffen	1
+fortzuschaffen	2
 fortzusetzen	11
 fortzuwerfen	2
 Foxterrier	8
 Fracht	11
-Frachtboot	13
+Frachtboot	14
+Frachtboote	1
 Frachtbooten	1
 Frachtbootes	3
 Frachtbriefen	1
@@ -15768,6 +15851,7 @@ Frachtkahnes	2
 Frachtkähne	2
 Frachtkähnen	1
 Frachtschiffe	1
+Frachtsegler	1
 Frachtstücken	1
 Frachtverkehr	1
 Frack	17
@@ -15791,11 +15875,11 @@ Fragern	1
 Fragezeichen	12
 fraglich	9
 fragliche	2
-fraglos	692
+fraglos	695
 Fragmente	3
 fragst	10
 fragt	23
-fragte	1892
+fragte	1894
 fragten	34
 fragtest	6
 fragwürdig	8
@@ -15883,9 +15967,10 @@ Frechheit	85
 Frechheiten	1
 frechste	1
 frechster	2
-frei	384
+frei	383
 Freibad	2
 Freiballon	3
+Freiballons	1
 Freibeuter	12
 Freibeuterfahrten	1
 Freibeutergeschichte	1
@@ -15898,7 +15983,7 @@ Freie	87
 freiem	9
 freien	32
 Freien	18
-freier	21
+freier	20
 Freier	2
 freiere	1
 freies	8
@@ -15948,7 +16033,7 @@ freistehen	1
 freistehenden	3
 Freitag	5
 Freitreppe	33
-freiwillig	66
+freiwillig	67
 freiwillige	3
 freiwilligen	6
 freiwilliger	3
@@ -15956,13 +16041,13 @@ freizubekommen	1
 freizugeben	2
 freizukommen	7
 freizumachen	2
-Freiübungen	4
-fremd	76
+Freiübungen	5
+fremd	77
 fremdartige	1
 fremde	32
 Fremde	112
 fremdem	7
-fremden	44
+fremden	45
 Fremden	79
 Fremdenführer	20
 Fremdenführers	6
@@ -16017,7 +16102,7 @@ Freund	746
 Freundchen	16
 Freunde	269
 Freunden	42
-Freundes	73
+Freundes	74
 Freundespaar	3
 Freundespaares	2
 Freundespflicht	1
@@ -16097,6 +16182,7 @@ frisiert	2
 frisierten	2
 Frisiertisch	10
 Frist	38
+fristen	1
 fristete	2
 Frisur	4
 Frisuren	1
@@ -16317,7 +16403,7 @@ Fußspur	4
 Fußspuren	18
 Fußstricke	1
 Fußstütze	1
-Fußtritt	12
+Fußtritt	13
 Fußtritte	2
 Fußverletzung	1
 Fußwanderung	1
@@ -16352,7 +16438,7 @@ Fährtensucher	3
 Fälle	150
 fällen	4
 Fällen	22
-fällige	2
+fällige	1
 fälligen	1
 fällst	2
 fällt	85
@@ -16361,7 +16447,7 @@ fälschen	3
 Fälscher	16
 Fälscherbande	11
 Fälschern	6
-Fälscherwerkstatt	6
+Fälscherwerkstatt	7
 fälschlich	4
 fälscht	2
 fälschte	3
@@ -16413,7 +16499,7 @@ Fügung	2
 fühlbar	1
 fühlbarer	1
 fühle	49
-fühlen	60
+fühlen	59
 Fühler	9
 fühlst	4
 fühlt	17
@@ -16430,7 +16516,7 @@ Führern	4
 Führers	2
 Führersitz	5
 führt	110
-führte	488
+führte	489
 führten	79
 Führung	12
 Fülle	26
@@ -16535,7 +16621,7 @@ fütterten	2
 Füßchen	2
 Füße	153
 Füßen	125
-gab	1012
+gab	1011
 Gabe	7
 Gabel	17
 Gabeln	1
@@ -16545,7 +16631,7 @@ gabst	1
 gab’s	6
 gackerten	1
 galant	1
-galante	2
+galante	3
 galanter	1
 Galanterie	1
 Galauniform	1
@@ -16604,11 +16690,11 @@ ganz	3384
 ganze	498
 Ganze	60
 ganzem	3
-ganzen	317
+ganzen	318
 Ganzen	11
 ganzer	26
 ganzes	48
-Ganzes	13
+Ganzes	14
 gar	658
 Garage	24
 Garagentür	2
@@ -16812,7 +16898,7 @@ gebeizten	3
 Gebell	3
 gebellt	2
 geben	587
-Geben	87
+Geben	86
 Geberlaune	1
 gebessert	5
 Gebet	7
@@ -16837,7 +16923,7 @@ Gebieters	3
 Gebietes	1
 gebietet	3
 Gebilde	5
-Gebilden	1
+Gebilden	2
 Gebildes	1
 gebildet	28
 gebildete	15
@@ -16894,7 +16980,7 @@ gebot	7
 Gebote	2
 geboten	23
 gebotener	1
-gebracht	311
+gebracht	310
 gebrannt	9
 gebrannte	3
 gebranntem	6
@@ -16933,16 +17019,16 @@ gebräunt	7
 gebräunte	2
 gebräuntem	4
 gebräunten	4
-gebräunter	2
+gebräunter	1
 gebräuntes	12
 Gebrüder	8
 Gebrüdern	1
-Gebrüll	11
+Gebrüll	12
 gebrüllt	3
 gebrüllte	1
 gebrüllten	1
 gebt	4
-gebunden	93
+gebunden	94
 gebundene	2
 gebundenen	6
 Geburt	15
@@ -16993,7 +17079,7 @@ gedachte	11
 gedachten	7
 gedampft	1
 Gedanke	172
-Gedanken	439
+Gedanken	441
 Gedankenarbeit	8
 Gedankenfaden	6
 Gedankenfaulheit	2
@@ -17016,7 +17102,7 @@ gedauert	7
 Gedecke	2
 gedeckt	35
 gedeckte	5
-gedeckten	10
+gedeckten	11
 gedeckter	4
 gedecktes	1
 gedehnt	41
@@ -17082,6 +17168,7 @@ Geduldsfaden	4
 Geduldsprobe	3
 Geduldtau	1
 gedungen	5
+gedungene	1
 gedunsenes	1
 Gedächtnis	77
 Gedächtnisschwäche	2
@@ -17114,7 +17201,7 @@ geerbt	16
 gefahndet	1
 Gefahr	153
 gefahrdrohend	1
-gefahren	79
+gefahren	80
 Gefahren	28
 gefahrlos	6
 Gefahrlosigkeit	1
@@ -17134,17 +17221,17 @@ gefalteter	3
 gefangen	130
 Gefangenaufseher	3
 gefangene	2
-Gefangene	85
+Gefangene	86
 gefangenen	3
 Gefangenen	141
 Gefangenenbefreiung	3
 Gefangenenlager	1
 Gefangenenwärter	1
 gefangener	1
-Gefangener	36
+Gefangener	37
 gefangengehalten	6
 gefangenhält	1
-Gefangennahme	15
+Gefangennahme	16
 Gefangenschaft	32
 gefangensetzen	1
 Gefangenwärter	1
@@ -17234,7 +17321,7 @@ gefruchtet	1
 Gefräßigkeit	1
 gefrönt	2
 gefrühstückt	10
-gefunden	576
+gefunden	577
 gefundene	4
 gefundenen	9
 gefundener	1
@@ -17245,7 +17332,7 @@ gefährlich	77
 gefährliche	63
 gefährlichem	2
 gefährlichen	54
-gefährlicher	67
+gefährlicher	68
 gefährlichere	5
 gefährliches	11
 Gefährlichkeit	4
@@ -17270,7 +17357,7 @@ gefälscht	27
 gefälschte	9
 gefälschten	10
 gefälschter	1
-Gefängnis	106
+Gefängnis	108
 Gefängnisarzt	1
 Gefängnisaufseher	4
 Gefängnisbeamten	2
@@ -17372,7 +17459,7 @@ Gegenstände	32
 Gegenständen	4
 Gegenstück	1
 Gegensätze	1
-Gegenteil	76
+Gegenteil	77
 Gegenwart	67
 Gegenwehr	9
 gegenwärtig	7
@@ -17418,7 +17505,7 @@ geglückte	1
 geglückten	3
 geglückter	1
 Gegner	128
-Gegnerin	16
+Gegnerin	17
 Gegnern	17
 Gegners	6
 gegolten	11
@@ -17435,7 +17522,7 @@ gegrüßt	5
 gegähnt	1
 gegönnt	3
 Gehabe	2
-gehabt	664
+gehabt	665
 gehaftet	1
 Gehalt	10
 gehalten	214
@@ -17475,7 +17562,7 @@ Geheimbundes	9
 Geheimbünde	4
 Geheimbünden	3
 Geheimbündler	1
-geheime	53
+geheime	54
 geheimen	87
 geheimer	9
 Geheimer	3
@@ -17496,17 +17583,17 @@ Geheimkeller	2
 Geheimkunst	1
 Geheimkünsten	1
 Geheimlehre	1
-Geheimnis	824
+Geheimnis	826
 Geheimniskrämerei	18
 Geheimnisse	102
 Geheimnissen	18
 Geheimnisses	38
-geheimnisvoll	34
+geheimnisvoll	35
 geheimnisvolle	117
 Geheimnisvolle	7
-geheimnisvollem	1
+geheimnisvollem	2
 Geheimnisvollem	1
-geheimnisvollen	71
+geheimnisvollen	72
 geheimnisvoller	10
 geheimnisvolles	10
 Geheimnisvolles	11
@@ -17528,7 +17615,7 @@ Geheimskizze	1
 Geheimstatuten	3
 geheimsten	5
 Geheimtreppe	6
-Geheimtür	94
+Geheimtür	95
 Geheimtüren	15
 Geheimverfügung	2
 Geheimverschluß	1
@@ -17545,7 +17632,7 @@ Geheiß	8
 geheißen	4
 gehemmt	1
 gehen	452
-Gehen	233
+Gehen	234
 gehende	3
 gehenden	6
 gehenkt	9
@@ -17618,9 +17705,9 @@ Gehölz	6
 Gehör	9
 Gehörapparats	1
 gehöre	26
-gehören	86
+gehören	87
 gehörenden	2
-gehörig	48
+gehörig	49
 gehörige	17
 gehörigen	31
 gehöriger	2
@@ -17629,9 +17716,9 @@ gehörnten	1
 Gehörs	3
 gehörst	2
 Gehörstörung	1
-gehört	544
+gehört	545
 gehörte	161
-gehörten	47
+gehörten	48
 Gehörtäuschung	3
 gehört’s	1
 gehüllt	63
@@ -17694,7 +17781,7 @@ Geistesbestrebungen	1
 Geistesblitz	3
 Geistesblitze	1
 Geistesgaben	4
-Geistesgegenwart	11
+Geistesgegenwart	12
 geistesgegenwärtig	8
 geistesgegewärtig	1
 geistesgestört	2
@@ -17745,7 +17832,7 @@ Geizhals	1
 geizig	7
 Geißel	1
 Geißelübungen	2
-gejagt	21
+gejagt	20
 gekalkte	2
 gekannt	39
 gekannten	1
@@ -17784,7 +17871,8 @@ Gekleidete	1
 gekleideten	21
 gekleideter	25
 geklemmt	9
-geklettert	41
+geklettert	43
+Geklimper	1
 geklingelt	1
 geklirrt	1
 geklopft	17
@@ -17801,7 +17889,8 @@ gekneipt	1
 gekneteten	2
 geknickt	6
 geknickte	1
-geknickten	2
+geknicktem	1
+geknickten	3
 gekniet	4
 gekniffen	1
 gekniffenen	2
@@ -17849,7 +17938,7 @@ gekämmte	1
 gekämmter	1
 gekämpft	6
 geködert	3
-geköpft	1
+geköpft	2
 geköpfte	1
 geköpften	2
 gekühlt	1
@@ -17866,12 +17955,12 @@ geladene	6
 geladenen	9
 Gelage	4
 gelagert	17
-gelandet	18
+gelandet	19
 gelang	132
 gelange	1
 gelangen	88
 gelangst	2
-gelangt	120
+gelangt	121
 gelangte	52
 gelangten	109
 gelangweilt	4
@@ -17930,7 +18019,7 @@ gelbschwarzen	1
 gelbseidene	2
 gelbseidener	1
 Gelbsucht	1
-Geld	422
+Geld	423
 Geldausgabe	2
 Geldausgaben	3
 Geldbedürfnisse	1
@@ -17992,7 +18081,7 @@ gelebt	38
 geleert	7
 geleerte	3
 geleertes	2
-gelegen	143
+gelegen	144
 gelegene	12
 gelegenen	38
 gelegenes	3
@@ -18037,7 +18126,7 @@ gelenkig	6
 Gelenkigkeit	3
 gelenkt	23
 gelenkter	1
-gelernt	77
+gelernt	76
 gelesen	165
 gelesene	1
 geleuchtet	5
@@ -18165,7 +18254,7 @@ gemeinschaftlich	1
 gemeinschaftliches	1
 gemeinste	2
 gemeinster	2
-gemeint	48
+gemeint	49
 gemeinte	3
 gemeinten	1
 gemeistert	1
@@ -18197,7 +18286,7 @@ gemordet	12
 gemordeten	1
 gemunkelt	1
 Gemurmel	6
-gemurmelt	2
+gemurmelt	3
 gemurmelte	1
 gemurmelten	1
 gemurmeltes	1
@@ -18374,7 +18463,7 @@ genötigt	7
 genüge	2
 Genüge	22
 genügen	76
-genügend	130
+genügend	131
 genügende	4
 genügendem	1
 genügender	2
@@ -18394,7 +18483,7 @@ geordneten	2
 geordneter	2
 gepaart	1
 gepachtet	2
-gepackt	88
+gepackt	89
 gepackte	1
 gepackter	1
 gepanzerte	2
@@ -18412,12 +18501,12 @@ gepfiffen	2
 gepflanzt	3
 gepflasterte	3
 gepflasterten	2
-gepflegt	14
+gepflegt	15
 gepflegte	7
 gepflegten	16
 Gepflegtheit	1
 Gepflogenheit	1
-Gepflogenheiten	2
+Gepflogenheiten	3
 gepflügten	1
 gepinseltes	1
 geplagt	1
@@ -18449,6 +18538,7 @@ geprotzt	1
 Gepräge	2
 Gepränge	1
 geprüft	33
+geprüften	1
 gepudert	6
 gepuderte	3
 gepudertem	1
@@ -18483,7 +18573,7 @@ gequält	7
 gequältem	2
 gequältes	2
 gerade	1434
-Gerade	126
+Gerade	127
 geradeaus	55
 geradelt	1
 geradem	1
@@ -18671,7 +18761,7 @@ Gerümpel	20
 Gerüst	1
 gerüstet	6
 gerüttelt	7
-gesagt	291
+gesagt	292
 Gesagte	1
 Gesagten	1
 gesammelt	14
@@ -18709,7 +18799,7 @@ geschadet	8
 geschaffen	16
 geschaffene	1
 geschaffenen	2
-geschafft	104
+geschafft	106
 geschah	244
 geschahen	1
 geschah’s	9
@@ -18725,7 +18815,7 @@ Geschehenen	3
 geschehener	1
 Geschehnis	3
 Geschehnisse	45
-Geschehnissen	16
+Geschehnissen	17
 gescheit	3
 gescheitelt	5
 gescheitelte	4
@@ -18779,7 +18869,9 @@ geschlachtete	1
 geschlachteten	2
 geschlafen	36
 geschlagen	59
+geschlagene	1
 geschlagenen	5
+geschlagener	1
 Geschlecht	12
 Geschlechter	3
 Geschlechtern	1
@@ -18857,7 +18949,7 @@ Geschnatter	1
 geschneit	1
 geschnellt	4
 geschniegelten	1
-geschnitten	21
+geschnitten	20
 geschnittene	4
 geschnittenen	6
 geschnittenes	2
@@ -18871,7 +18963,7 @@ geschnürten	1
 geschoben	69
 geschobene	1
 geschobenen	1
-geschont	16
+geschont	17
 geschonte	1
 geschoren	2
 geschorene	1
@@ -19005,6 +19097,7 @@ Geschütze	2
 Geschützen	1
 Geschützes	1
 Geschützfeuer	1
+Geschützrohr	1
 geschützt	27
 geschützte	1
 geschützten	3
@@ -19013,10 +19106,10 @@ gesegelt	3
 gesegnet	2
 gesegnete	1
 gesehen	469
-Gesellen	23
+Gesellen	24
 geselligem	1
 Geselligkeit	3
-Gesellschaft	185
+Gesellschaft	186
 Gesellschaften	5
 Gesellschafter	6
 Gesellschafterin	29
@@ -19034,12 +19127,12 @@ Gesellschaftsroben	1
 Gesellschaftssaal	1
 Gesellschaftstoilette	3
 gesellt	1
-gesellte	10
+gesellte	11
 gesellten	2
 gesenkt	42
 gesenktem	20
 gesenkten	7
-gesessen	74
+gesessen	75
 Gesetz	4
 Gesetze	9
 Gesetzen	3
@@ -19061,12 +19154,12 @@ gesicherten	3
 Gesicht	1618
 Gesichtchen	2
 Gesichte	2
-Gesichter	97
+Gesichter	98
 Gesichtern	51
 Gesichtes	2
 gesichtet	3
 Gesichts	26
-Gesichtsausdruck	46
+Gesichtsausdruck	47
 Gesichtsausschlag	1
 Gesichtsbinde	1
 Gesichtsfarbe	14
@@ -19149,7 +19242,7 @@ gesprenkelten	1
 gespritzt	4
 gesprochen	182
 gesprungen	29
-Gespräch	177
+Gespräch	179
 Gespräche	2
 Gesprächen	3
 gesprächig	7
@@ -19198,6 +19291,7 @@ gesteigertes	1
 Gestein	53
 Gesteinbodens	1
 Gesteins	8
+Gesteinsart	1
 Gestell	12
 Gestelle	4
 Gestellen	3
@@ -19209,7 +19303,7 @@ gestempelt	2
 gestempelte	3
 gestempelten	3
 gestempeltes	1
-Gesten	10
+Gesten	9
 gesteppten	1
 gestern	506
 Gestern	77
@@ -19364,15 +19458,16 @@ Getreidemagnat	1
 getrennt	62
 getrennte	2
 getrennten	2
-getreten	50
+getreten	49
 getreu	3
 getreue	1
-Getreuen	16
+Getreuen	17
 getreuer	2
 getreues	2
 getreulich	4
 Getriebe	5
 getrieben	49
+getriebenem	1
 getriebenen	3
 getrocknet	10
 getrocknete	1
@@ -19400,6 +19495,7 @@ geträumt	23
 getrübt	2
 Getue	3
 getupft	1
+geturnt	1
 Getuschel	1
 getuschten	2
 Getäfel	3
@@ -19525,6 +19621,7 @@ gewiegter	1
 gewiesen	5
 gewillt	6
 Gewimmel	1
+Gewimmer	1
 Gewinde	2
 gewinkt	4
 Gewinn	7
@@ -19619,7 +19716,7 @@ gewährt	14
 gewährte	2
 gewährten	1
 gewälzt	1
-Gewänder	12
+Gewänder	13
 Gewändern	6
 gewänne	1
 Gewäsch	2
@@ -19672,6 +19769,7 @@ gezielten	1
 geziemt	2
 geziert	2
 gezierten	1
+gezimmert	1
 gezimmerte	1
 gezogen	102
 gezogene	5
@@ -19700,7 +19798,7 @@ geärgert	1
 Geäst	3
 geäußert	44
 geäußerten	1
-geöffnet	226
+geöffnet	227
 geöffnete	7
 geöffnetem	1
 geöffneten	24
@@ -19718,7 +19816,7 @@ gib	21
 Gibraltar	9
 gibst	6
 gibt	540
-gibt’s	89
+gibt’s	90
 Gicht	2
 Gichtmittel	1
 Giebel	12
@@ -19770,7 +19868,7 @@ gigantische	1
 Gilde	7
 gilt	29
 gilt’s	9
-ging	1260
+ging	1259
 ginge	26
 gingen	546
 gingest	1
@@ -19894,7 +19992,7 @@ glaubhaft	4
 glaubhaften	1
 glaubhafter	2
 glaublich	1
-glaubst	33
+glaubst	34
 glaubt	53
 glaubte	294
 glaubten	44
@@ -19913,7 +20011,7 @@ gleichen	54
 gleichende	1
 gleicher	24
 gleiches	7
-gleichfalls	395
+gleichfalls	397
 gleichfarbene	1
 gleichfarbenen	1
 gleichfarbige	1
@@ -19938,10 +20036,10 @@ Gleichklang	2
 gleichkommt	3
 gleichlautend	1
 gleichlautende	3
-Gleichmut	2
+Gleichmut	3
 gleichmäßig	23
 gleichmäßige	5
-gleichmäßigen	2
+gleichmäßigen	3
 gleichmäßiges	2
 gleichmütig	61
 gleichmütigem	3
@@ -19978,7 +20076,7 @@ gleißte	2
 gleißten	2
 Gletscher	16
 Gletscherspalte	10
-glich	59
+glich	58
 gliche	1
 glichen	14
 Glied	21
@@ -20060,7 +20158,7 @@ Glück	306
 glückbringend	1
 glücken	16
 Glückes	1
-glücklich	121
+glücklich	123
 glückliche	15
 glücklichen	8
 glücklicher	11
@@ -20129,7 +20227,7 @@ golddurchwirkte	1
 golddurchwirkten	7
 Golde	11
 Goldeinfassung	1
-goldene	163
+goldene	164
 goldenem	7
 goldenen	134
 goldener	22
@@ -20231,7 +20329,7 @@ Gouverneurpalais	1
 Gouverneurpalast	7
 Gouverneurs	17
 goß	41
-Grab	26
+Grab	27
 grabe	1
 Grabe	9
 graben	6
@@ -20267,7 +20365,7 @@ Granitblock	1
 Granitboden	1
 Granithügeln	1
 Granitkeils	1
-Granitquadern	14
+Granitquadern	17
 Granitstück	1
 Graphit	2
 Gras	42
@@ -20369,6 +20467,7 @@ greifbaren	2
 greifbarer	1
 greife	3
 greifen	28
+greifend	3
 greifenden	2
 Greifer	4
 greift	11
@@ -20417,6 +20516,7 @@ grenzt	5
 grenzte	11
 grenzten	1
 greulich	1
+greuliche	2
 greulichen	2
 Griechen	3
 Griechenzeit	1
@@ -20490,7 +20590,7 @@ großartigste	2
 Großbauern	1
 große	708
 großem	36
-großen	775
+großen	776
 Großen	16
 großer	211
 großes	140
@@ -20607,12 +20707,12 @@ Größen	10
 Größenverhältnisse	1
 Größenwahn	3
 größer	38
-größere	105
+größere	106
 größerem	2
 größeren	84
 größerer	19
 größeres	28
-größte	90
+größte	91
 größtem	7
 größten	74
 größtenteils	20
@@ -20648,7 +20748,7 @@ gründlichst	3
 Gründung	5
 grüne	107
 grünem	9
-grünen	61
+grünen	62
 grünenden	1
 grüner	14
 grünes	21
@@ -20663,6 +20763,7 @@ grünlich	5
 grünliche	7
 grünlichen	3
 grünlichgelbe	1
+grüß	1
 grüße	3
 Grüße	11
 grüßen	15
@@ -20671,7 +20772,7 @@ grüßende	1
 grüßt	3
 grüßte	20
 grüßten	5
-Guckloch	16
+Guckloch	17
 Guckloches	2
 Gucklöchern	1
 Guirlanden	1
@@ -20725,7 +20826,7 @@ gurgelte	4
 Gurt	1
 Gurte	3
 Gurten	2
-gut	1197
+gut	1198
 Gut	379
 Gutachten	1
 gutbewaffnete	1
@@ -20902,8 +21003,8 @@ Haarwust	1
 Haarzotteln	3
 hab	9
 Hab	2
-habe	3118
-haben	5704
+habe	3120
+haben	5707
 habenden	1
 haben’s	22
 Habgier	21
@@ -20960,9 +21061,11 @@ Hafenpolizist	2
 Hafenpolizisten	2
 Hafens	16
 Hafenschenke	2
+Hafenschuppens	1
 Hafenspelunke	1
 Hafenstadt	52
 Hafenstraße	5
+Hafenstädtchens	1
 Hafenstädte	3
 Hafenstädten	4
 Hafenviertel	9
@@ -21003,11 +21106,12 @@ Haken	95
 hakenförmig	1
 Hakennase	12
 hakennasige	2
+Hakenspitze	1
 hakte	11
 hakten	1
-halb	1206
+halb	1205
 halbdunkel	1
-Halbdunkel	26
+Halbdunkel	27
 halbdunkle	3
 halbdunklen	7
 halbdunkler	2
@@ -21020,7 +21124,7 @@ halber	50
 halberblühte	1
 halberstickte	1
 halbersticktes	1
-halbes	47
+halbes	48
 halbfertig	1
 halbfertige	1
 halbfertiges	1
@@ -21040,10 +21144,10 @@ halbkreisförmig	2
 halbkreisförmige	2
 Halblackschuhe	1
 halblangen	3
-halblaut	65
+halblaut	66
 halblaute	5
 halblauten	5
-halblauter	2
+halblauter	3
 halblautes	1
 halblinks	4
 halbmannshoch	2
@@ -21101,6 +21205,7 @@ Halskette	3
 Halsketten	3
 Halskrause	1
 Halsschlagader	6
+Halsschnitt	1
 Halsseite	5
 halsstarrig	1
 Halsstarrigkeit	1
@@ -21109,7 +21214,7 @@ Halstuch	3
 Halswirbeln	1
 Halswunde	4
 halt	163
-Halt	186
+Halt	187
 haltbar	2
 haltbare	1
 halte	133
@@ -21124,6 +21229,7 @@ Haltes	1
 Haltesignal	1
 Haltestelle	11
 haltet	9
+Haltetauen	1
 haltgemacht	7
 haltlos	10
 haltloser	1
@@ -21145,14 +21251,14 @@ Hammels	1
 Hammer	16
 Hammerhai	2
 Hammerschläge	2
-Hand	1822
+Hand	1823
 Handarbeiten	1
 Handballen	1
 Handbeil	4
 Handbeils	1
 Handbewegung	127
 Handbewegungen	4
-handbreit	3
+handbreit	4
 Handbreit	26
 handbreite	1
 Handel	31
@@ -21180,7 +21286,7 @@ Handelstreiben	1
 Handelsvertrages	1
 Handelszwecken	1
 handelt	178
-handelte	91
+handelte	92
 handelten	7
 Handfessel	2
 Handfesseln	24
@@ -21269,8 +21375,8 @@ hantierte	12
 hapern	1
 hapert	2
 Happen	8
-Harald	9186
-Haralds	729
+Harald	9194
+Haralds	731
 Harem	12
 Harems	4
 Haremsbewohnerin	1
@@ -21305,15 +21411,15 @@ harrende	1
 harrt	1
 harrte	1
 harrten	4
-Harst	14909
+Harst	14916
 Harstband	2
 Harstbandes	7
 Harstbändchen	1
 Harstfreund	1
-Harsts	1106
+Harsts	1108
 Harstsche	16
 Harstschem	2
-Harstschen	46
+Harstschen	47
 Harstscher	4
 hart	62
 harte	24
@@ -21343,7 +21449,7 @@ haspelte	1
 hasse	8
 hassen	10
 Hasses	12
-hast	418
+hast	419
 Hast	129
 hastende	1
 hastete	12
@@ -21354,10 +21460,10 @@ hastigem	1
 hastigen	6
 hastiger	16
 hastiges	5
-hat	5245
+hat	5247
 Hatschi	3
-hatte	12084
-hatten	3158
+hatte	12097
+hatten	3163
 hatten’s	3
 hattest	25
 hattet	2
@@ -21438,7 +21544,7 @@ Hauptmündungsarm	1
 Hauptobjekt	1
 Hauptopfer	2
 Hauptort	2
-Hauptpersonen	9
+Hauptpersonen	10
 Hauptpforte	8
 Hauptportal	1
 Hauptpost	2
@@ -21593,6 +21699,7 @@ Hautstelle	1
 Hautstück	4
 Hautstückes	2
 Hautwunde	1
+Havarie	1
 Havel	7
 Havelseen	32
 Hazienda	4
@@ -21681,10 +21788,10 @@ heilig	11
 heilige	33
 Heilige	6
 heiligen	57
-Heiligen	19
+Heiligen	20
 Heiligenscheine	1
 heiliger	4
-Heiliger	6
+Heiliger	7
 heiliges	1
 heiligste	2
 heiligsten	1
@@ -21801,7 +21908,7 @@ heizt	1
 heizten	2
 Heizungskeller	2
 Heizungsraum	1
-heiß	47
+heiß	48
 heißblütige	2
 heißblütigen	1
 heiße	71
@@ -21816,7 +21923,7 @@ heißgelaufen	1
 heißgeliebte	1
 heißgeliebten	1
 Heißhunger	4
-heißt	556
+heißt	557
 heißt’s	2
 heißumworbene	1
 Hektar	1
@@ -21913,7 +22020,7 @@ Henkerhandwerk	1
 Henkern	1
 Henkers	9
 Henkersknechte	1
-her	1100
+her	1099
 herab	305
 herabbaumeln	1
 herabbeugte	1
@@ -21992,6 +22099,7 @@ herabließ	1
 herabprasselnde	2
 herabrannen	1
 herabreichenden	1
+herabrissen	1
 herabrutschen	1
 herabrutschte	1
 herabsandte	1
@@ -22031,6 +22139,7 @@ herangedrängt	7
 herangegangen	1
 herangehen	5
 herangeholt	1
+herangeknattert	1
 herangekommen	4
 herangelangen	2
 herangelassen	1
@@ -22054,6 +22163,7 @@ herankamen	2
 herankommen	3
 herankonnte	3
 herankonnten	1
+herankrochen	1
 herankämen	1
 herankönnte	1
 heranlassen	1
@@ -22089,7 +22199,7 @@ heranwaren	1
 heranwinken	1
 heranwinkte	2
 heranziehend	1
-heranzieht	1
+heranzieht	2
 heranzog	2
 heranzubringen	1
 heranzugehen	1
@@ -22101,7 +22211,7 @@ heranzuschieben	1
 heranzutreten	1
 heranzuwagen	2
 heranzuziehen	2
-herauf	33
+herauf	34
 heraufbemüht	1
 heraufbeschwor	1
 heraufbeschworen	3
@@ -22118,7 +22228,7 @@ heraufziehenden	3
 heraufziehendes	1
 heraufzog	3
 heraufzukommen	1
-heraus	608
+heraus	609
 herausbefohlen	1
 herausbekam	2
 herausbekamen	2
@@ -22154,7 +22264,7 @@ herausgebrannten	2
 herausgebrochen	5
 herausgedreht	1
 herausgefahren	1
-herausgefallen	1
+herausgefallen	2
 herausgefischt	6
 herausgeflossen	1
 herausgefordert	2
@@ -22207,7 +22317,7 @@ herausgetrennt	2
 herausgetreten	1
 herausgetrommelt	2
 herausgeworfen	1
-herausgezogen	17
+herausgezogen	18
 herausgibt	1
 heraushaben	2
 heraushauen	1
@@ -22272,7 +22382,7 @@ herausschnellen	3
 herausschrauben	3
 herausschraubte	1
 herausschwingen	1
-herausschälen	3
+herausschälen	4
 herausschälte	1
 heraussprang	2
 herausstaffieren	3
@@ -22315,7 +22425,7 @@ herauszubringen	16
 herauszudrehen	3
 herauszufinden	34
 herauszufischen	1
-herauszugeben	5
+herauszugeben	6
 herauszuhelfen	2
 herauszuholen	12
 herauszuhören	5
@@ -22337,7 +22447,7 @@ herauszusuchen	6
 herauszuwagen	1
 herauszuwinden	1
 herbe	2
-herbei	160
+herbei	161
 herbeidämmern	1
 herbeiführen	7
 herbeiführt	1
@@ -22361,7 +22471,7 @@ herbeigeschafft	7
 herbeigeschleppt	1
 herbeigeschlichen	3
 herbeigeschossen	2
-herbeigestürmt	2
+herbeigestürmt	3
 herbeigestürzt	3
 herbeigewatschelt	1
 herbeigewinkt	3
@@ -22412,7 +22522,7 @@ Herden	3
 herdenweise	1
 Herdes	2
 Herdfeuer	4
-herein	82
+herein	83
 Herein	18
 hereinbrechen	1
 hereindrang	3
@@ -22435,7 +22545,7 @@ hereingeschlüpft	1
 hereingeschoben	1
 hereingesegelt	1
 hereingestelzt	1
-hereingestürmt	1
+hereingestürmt	2
 hereingeturnt	1
 hereingewinkt	1
 hereinnehme	1
@@ -22506,7 +22616,7 @@ herniederfährt	1
 herniederging	1
 Herr	3591
 Herreise	1
-Herren	784
+Herren	785
 Herrenanzug	4
 Herrenanzüge	1
 Herrendiner	2
@@ -22649,6 +22759,7 @@ herumschlich	1
 herumschnellen	2
 herumschoß	1
 herumschritten	1
+herumschwenken	1
 herumschwenkenden	1
 herumspioniert	3
 herumsprechen	1
@@ -22699,7 +22810,7 @@ herunterlesen	3
 herunterschießen	1
 herunterzudrücken	1
 herunterzulesen	3
-hervor	544
+hervor	545
 hervorbrach	1
 hervorbrachen	1
 hervorbrachte	2
@@ -22762,14 +22873,16 @@ hervorquellen	1
 hervorquellend	1
 hervorquoll	2
 hervorquälen	2
+hervorragen	2
 hervorragend	2
 hervorragende	2
 hervorragendem	1
 hervorragenden	3
+hervorragender	3
 hervorragendste	1
 hervorragendster	1
 hervorragte	2
-hervorragten	2
+hervorragten	3
 hervorrief	13
 hervorriefen	3
 hervorrufen	13
@@ -22905,7 +23018,7 @@ Hetze	7
 hetzen	6
 hetzendem	1
 Hetzjagd	8
-hetzte	9
+hetzte	10
 hetzten	2
 Heu	14
 Heuboden	2
@@ -22930,7 +23043,7 @@ heulender	4
 heult	2
 heulte	33
 heulten	9
-heute	1086
+heute	1087
 heutige	20
 heutigem	1
 heutigen	40
@@ -22953,7 +23066,7 @@ hielte	32
 hielten	172
 hieltest	1
 hieltet	1
-hier	7078
+hier	7082
 hieran	6
 hierauf	26
 hieraus	2
@@ -23047,6 +23160,7 @@ hinabbefördern	1
 hinabbefördert	3
 hinabbegeben	1
 hinabbegleitetest	1
+hinabbemühen	1
 hinabblicken	3
 hinabblickte	1
 hinabdeutete	1
@@ -23073,7 +23187,7 @@ hinabgegangen	2
 hinabgegossen	2
 hinabgehastet	1
 hinabgeht	1
-hinabgeklettert	8
+hinabgeklettert	9
 hinabgekommen	1
 hinabgelangen	3
 hinabgelangt	1
@@ -23160,6 +23274,7 @@ hinabzuklimmen	1
 hinabzurutschen	1
 hinabzusteigen	16
 hinabzustoßen	1
+hinabzutauchen	1
 hinabzuturnen	1
 hinabzöge	1
 hinan	44
@@ -23196,7 +23311,7 @@ hinaufwagten	1
 hinaufzog	1
 hinaufzugelangen	1
 hinaufzuklettern	1
-hinaus	580
+hinaus	581
 hinausbefördert	1
 hinausbegeben	2
 hinausbegleiten	1
@@ -23222,9 +23337,10 @@ hinausgefahren	4
 hinausgeführt	2
 hinausgegangen	11
 hinausgegossen	1
-hinausgehen	2
+hinausgehen	3
 hinausgehende	4
 hinausgehenden	6
+hinausgeht	1
 hinausgeklettert	3
 hinausgekommen	1
 hinausgelangen	2
@@ -23257,6 +23373,7 @@ hinausgeworfen	2
 hinausging	4
 hinausgingen	8
 hinausglitt	1
+hinaushuschte	1
 hinaushuschten	1
 hinausjagt	1
 hinauskann	2
@@ -23288,6 +23405,7 @@ hinausschaute	2
 hinausschicken	2
 hinausschickt	1
 hinausschickte	1
+hinausschiebend	1
 hinausschiebt	1
 hinausschlüpfen	2
 hinausschlüpften	1
@@ -23382,6 +23500,7 @@ hindurchlangen	1
 hindurchlief	3
 hindurchreichte	2
 hindurchsah	1
+hindurchschaun	1
 hindurchschimmern	1
 hindurchschimmerte	1
 hindurchschlüpfen	1
@@ -23413,7 +23532,7 @@ Hindutempel	11
 Hindutempelchens	1
 Hindutempeln	2
 Hindutempels	6
-hinein	643
+hinein	645
 hineinarbeiten	1
 hineinbeißen	1
 hineinbiß	3
@@ -23719,9 +23838,9 @@ hinstürzen	1
 hinten	283
 hintenherum	2
 hintenrum	1
-hintenüber	6
+hintenüber	7
 hintenübersank	1
-hinter	1711
+hinter	1712
 Hinterachse	1
 Hinterausgang	4
 Hinterausgänge	1
@@ -23844,6 +23963,7 @@ hinwegreckend	1
 hinwegsausen	1
 hinwegschaute	1
 hinwegschritt	1
+hinwegschäumten	1
 hinwegsehen	2
 hinwegsetzend	1
 hinwegsetzte	1
@@ -23871,7 +23991,7 @@ hinzogen	7
 hinzu	646
 hinzudeuten	4
 hinzufüge	1
-hinzufügen	31
+hinzufügen	32
 hinzufügte	13
 hinzuführen	1
 hinzugedichtet	1
@@ -23982,7 +24102,7 @@ hißten	2
 hm	51
 hob	440
 hoben	33
-hoch	584
+hoch	585
 hochachtbare	1
 Hochachtung	20
 Hochachtungsvoll	2
@@ -24018,7 +24138,7 @@ hochfliegenden	1
 hochflog	1
 hochfrisierten	1
 hochfrisiertes	1
-hochfuhr	3
+hochfuhr	4
 hochfuhren	1
 hochfährt	1
 hochgeachteten	2
@@ -24114,6 +24234,7 @@ Hochparterrefenster	1
 Hochparterres	4
 Hochparterrezimmer	1
 hochquellen	1
+hochquirlend	1
 hochragende	1
 hochrecken	2
 hochreckten	3
@@ -24193,13 +24314,13 @@ hochzurecken	1
 hochzuschlagen	1
 hochzuwinden	1
 hocke	1
-hocken	16
+hocken	17
 hockend	2
 hockenden	1
 Hocker	7
 Hockers	1
 hockt	9
-hockte	52
+hockte	53
 hockten	37
 Hof	169
 Hofbeamte	4
@@ -24249,7 +24370,7 @@ Hoftore	3
 Hoftür	5
 Hofwächter	2
 hohe	136
-Hoheit	130
+Hoheit	132
 hoheitsvollen	1
 hoheitsvoller	1
 Hohelied	1
@@ -24318,6 +24439,7 @@ Holzbau	6
 Holzbett	3
 Holzbetten	1
 Holzbettes	1
+Holzboden	2
 Holzbohrer	2
 Holzbrücke	12
 Holzbuden	1
@@ -24346,6 +24468,7 @@ Holzhaus	1
 Holzhause	2
 Holzhändler	1
 Holzhändlers	2
+Holzhütte	1
 Holzkasten	14
 Holzkeil	1
 Holzkistchen	2
@@ -24394,6 +24517,7 @@ Holzsäule	1
 Holzteile	1
 Holztisch	18
 Holztischchen	1
+Holztische	1
 Holztor	2
 Holztreppe	19
 Holztäfelung	2
@@ -24423,13 +24547,13 @@ honorierte	1
 Honorierung	1
 Hopfenstange	2
 horche	3
-horchen	12
+horchen	11
 horchend	3
 Horcher	5
 Horcherin	1
 horcht	2
 horchte	74
-horchten	27
+horchten	28
 Horde	2
 Horizont	33
 horizontal	4
@@ -24566,6 +24690,7 @@ Hundezucht	1
 Hundezwinger	3
 Hunger	63
 hungern	10
+hungernden	1
 Hungers	2
 hungerst	1
 hungerten	1
@@ -24594,6 +24719,7 @@ Hutband	1
 Hute	1
 Hutes	1
 Hutform	1
+hutförmige	1
 Hutkrempe	6
 Hutleder	1
 Hutschachtel	1
@@ -24644,7 +24770,7 @@ händeringend	2
 Händeschütteln	1
 Händewaschen	1
 händige	2
-händigen	3
+händigen	4
 händigt	2
 händigte	11
 händigten	2
@@ -24671,7 +24797,7 @@ Härchen	5
 härter	1
 Häscher	1
 hätt	1
-hätte	2227
+hätte	2228
 hätten	751
 hättest	94
 hättet	5
@@ -24798,7 +24924,7 @@ hör	1
 hörbar	7
 hörbare	1
 hörbaren	1
-höre	30
+höre	31
 Höre	15
 hören	229
 Hören	60
@@ -24876,8 +25002,8 @@ Hüttchen	5
 Hütte	159
 Hütten	13
 Hüttentür	1
-ich	20283
-ich’s	145
+ich	20288
+ich’s	146
 idealen	1
 Idee	48
 Ideen	2
@@ -24893,13 +25019,13 @@ idyllisch	2
 idyllische	2
 idyllischen	3
 ihm	3729
-ihn	4046
+ihn	4047
 ihnen	527
-Ihnen	2604
-ihr	1677
-Ihr	1560
+Ihnen	2605
+ihr	1678
+Ihr	1563
 ihre	896
-Ihre	1297
+Ihre	1298
 ihrem	450
 Ihrem	309
 ihren	591
@@ -24983,7 +25109,7 @@ indische	146
 indischem	2
 indischen	217
 indischer	50
-indisches	6
+indisches	7
 indiskret	3
 Indiskretion	2
 Indizien	1
@@ -25045,6 +25171,7 @@ innen	183
 Inneneinrichtung	3
 Innenfläche	2
 Innenfächer	2
+Innenhafen	3
 Innenhand	1
 Innenhof	1
 Innenkante	1
@@ -25078,9 +25205,10 @@ innigen	3
 inniges	1
 innigster	1
 Inquisition	2
-ins	1424
+ins	1427
 Insasse	5
 Insassen	37
+Insassin	1
 insbesondere	18
 Inschrift	42
 Inschriften	5
@@ -25088,9 +25216,9 @@ Insekt	1
 Insekten	2
 Insektenpulver	2
 Insekts	1
-Insel	527
+Insel	529
 Inselbewohnern	2
-Inselchen	55
+Inselchen	56
 Inselchens	9
 Inselgebilde	1
 Inselgehöften	1
@@ -25106,7 +25234,7 @@ insichgekehrt	3
 insichgekehrte	1
 insofern	86
 insoweit	3
-Inspektor	548
+Inspektor	549
 Inspektors	17
 inspizierte	1
 instand	1
@@ -25156,13 +25284,13 @@ interessanten	11
 interessanter	27
 Interessanter	1
 interessanteren	1
-interessantes	3
+interessantes	4
 Interessantes	18
 interessanteste	3
 Interessanteste	2
 interessantesten	7
 interessantester	1
-Interesse	286
+Interesse	287
 interesselos	1
 interesselosen	1
 Interessen	6
@@ -25216,7 +25344,8 @@ irgendeinem	5
 irgendeinen	8
 irgendeiner	5
 irgendeines	5
-irgendetwas	5
+irgendetwas	6
+irgendjemand	1
 irgendwann	1
 irgendwas	1
 irgendwelche	24
@@ -25235,7 +25364,7 @@ Ironie	38
 ironisch	107
 ironische	11
 ironischem	4
-ironischen	16
+ironischen	17
 ironischer	17
 ironisches	14
 irr	1
@@ -25286,8 +25415,8 @@ Isolator	1
 Isolatoren	2
 isoliert	2
 Israel	1
-ist	10366
-ist’s	239
+ist	10375
+ist’s	240
 Italien	9
 Italiener	33
 Italienerin	4
@@ -25403,6 +25532,7 @@ jammerschade	1
 jammert	1
 jammerte	9
 jammervoll	1
+jammervolle	1
 jammervollen	1
 jammervoller	4
 jammervolles	2
@@ -25440,7 +25570,7 @@ je	221
 jede	382
 jedem	157
 jeden	385
-jedenfalls	130
+jedenfalls	131
 jeder	435
 jederlei	1
 jedermann	12
@@ -25450,7 +25580,7 @@ Jedes	26
 jedesmal	7
 jedesmaligen	2
 jedesmaliger	1
-jedoch	1022
+jedoch	1023
 jegliche	2
 jeher	3
 jemals	28
@@ -25459,8 +25589,8 @@ jemandem	40
 jemanden	3
 jemandes	2
 jene	196
-jenem	203
-jenen	121
+jenem	204
+jenen	120
 jener	449
 jenes	166
 jenseitige	2
@@ -25468,10 +25598,10 @@ jenseitigen	4
 jenseits	65
 Jenseits	21
 jetzige	34
-jetzigen	35
+jetzigen	37
 jetziger	3
 jetziges	1
-jetzt	5390
+jetzt	5411
 Jeu	5
 Jeuratte	2
 jeweiligen	1
@@ -25578,7 +25708,7 @@ Jägerhütchen	7
 Jägerin	3
 Jägern	3
 Jägers	1
-jäh	86
+jäh	87
 jähe	15
 jähem	4
 jähen	10
@@ -25607,7 +25737,7 @@ jüngste	6
 jüngsten	4
 jüngster	1
 Kabarett	2
-Kabel	110
+Kabel	111
 Kabeldepesche	9
 Kabeldepeschen	4
 kabeln	1
@@ -25674,13 +25804,14 @@ Kaisers	1
 Kaisertinte	1
 Kajütaufbau	8
 Kajütaufbaus	4
-Kajüte	239
+Kajüte	240
 Kajüten	4
 Kajütenaufbau	2
 Kajütendach	5
 Kajütendeck	4
 Kajütenfenster	5
-Kajütentreppe	6
+Kajütentisch	1
+Kajütentreppe	7
 Kajütentür	8
 Kajütfenster	3
 Kajütniedergang	1
@@ -25732,7 +25863,7 @@ kaltstellen	5
 kaltstellte	1
 Kaltwasserbäder	1
 kaltzustellen	2
-kam	1997
+kam	1999
 Kambodscha	2
 Kamel	33
 Kamelbesitzer	2
@@ -25830,13 +25961,13 @@ Kanalmündung	1
 Kanals	11
 Kanalschleusen	2
 Kanalstadt	11
-Kanarienvogel	61
+Kanarienvogel	62
 Kanarienvogels	3
 Kandelaber	1
 kandierte	3
 Kaninchen	20
 Kaninchenjagd	2
-kann	1783
+kann	1784
 Kanne	15
 Kannen	6
 kannst	111
@@ -25942,7 +26073,7 @@ Karrens	3
 Karrenschieber	8
 Karriere	2
 Karte	193
-Karten	92
+Karten	93
 Kartenhaus	2
 Kartenkunststücke	4
 Kartenskizze	3
@@ -26015,11 +26146,12 @@ Katzenaugen	3
 katzengleiche	1
 Katzenjammer	1
 Katzenleib	1
+Katzenmusik	2
 katzenähnliche	1
 Katz’	3
 kauderwelschte	3
 kauen	3
-kauend	3
+kauend	4
 kauere	1
 kauern	2
 kauernd	1
@@ -26051,7 +26183,8 @@ kaufte	65
 kauften	21
 kaukasischem	1
 kaum	936
-Kautabak	9
+Kautabak	10
+Kautabaks	1
 Kautabaksaft	1
 kaute	12
 kauten	3
@@ -26081,14 +26214,14 @@ Kegelspitze	1
 Kehle	104
 Kehlen	3
 Kehlkopfes	1
-kehre	9
+kehre	10
 Kehre	7
 kehren	36
 Kehren	28
 Kehrichthaufen	4
 kehrt	90
 kehrte	270
-kehrten	134
+kehrten	135
 kehrtgemacht	1
 kehrtmachen	4
 keifend	1
@@ -26100,7 +26233,7 @@ keilten	1
 kein	874
 keine	986
 keinem	55
-keinen	440
+keinen	441
 keiner	131
 keinerlei	159
 keines	10
@@ -26154,7 +26287,7 @@ Kellnern	4
 Kellners	4
 kenne	296
 kennen	490
-kennengelernt	33
+kennengelernt	34
 kennenlernen	16
 kennenlernt	1
 kennenlernte	2
@@ -26178,12 +26311,13 @@ kenterte	2
 Kerbe	1
 Kerbholz	16
 Kerker	42
+Kerkerfenster	2
 Kerkerhaft	6
 Kerkerluft	2
 Kerkermauern	2
 Kerkermeister	2
 Kerkers	4
-Kerkerzelle	3
+Kerkerzelle	4
 Kerl	455
 Kerlchen	4
 Kerle	244
@@ -26208,7 +26342,7 @@ Kesselwand	2
 Kesselwandung	3
 Kettchen	6
 Kettchens	1
-Kette	108
+Kette	110
 Ketten	23
 kettete	12
 ketteten	12
@@ -26231,6 +26365,7 @@ Khakianzügen	1
 Khakistoff	1
 Khali	17
 Khan	18
+Kichern	1
 kichernd	2
 kichert	1
 kicherte	10
@@ -26441,6 +26576,7 @@ Klavierdraht	3
 Klaviergeklimper	1
 Klavierkiste	1
 Klavierlampe	1
+Klaviers	3
 Klavierspiel	5
 Klavierspielen	2
 Klavierspieler	6
@@ -26491,10 +26627,10 @@ Kleinbahnlokomotive	2
 Kleinbahnschuppen	1
 Kleinbahnstrecke	2
 Kleinbahnzug	1
-kleine	829
+kleine	830
 Kleine	47
 kleinem	5
-kleinen	874
+kleinen	875
 Kleinen	28
 kleiner	198
 kleinere	45
@@ -26604,7 +26740,7 @@ Klosters	17
 Klotz	5
 Klown	5
 Kloß	1
-Klub	225
+Klub	226
 Klubabend	1
 Klubdiener	12
 Klubdieners	3
@@ -26645,7 +26781,7 @@ Kläffen	2
 kläffend	3
 kläfften	3
 kläglich	37
-klägliche	6
+klägliche	7
 kläglichen	8
 kläglicher	7
 klägliches	11
@@ -26776,6 +26912,7 @@ knipste	10
 knipsten	3
 Knirps	9
 Knirschen	8
+knirschend	2
 knirschte	7
 knirschten	1
 Knistern	10
@@ -26808,7 +26945,7 @@ knorrige	2
 knorrigen	2
 knote	1
 knoten	2
-Knoten	72
+Knoten	73
 knotete	22
 knoteten	2
 knurren	1
@@ -26977,7 +27114,7 @@ Kommando	3
 Kommandobrücke	17
 Kommandorufe	1
 komme	91
-kommen	653
+kommen	654
 Kommen	101
 kommend	13
 kommende	5
@@ -26993,7 +27130,7 @@ Kommissars	7
 Kommission	4
 Kommode	6
 kommst	24
-kommt	351
+kommt	354
 kommt’s	5
 komm’	10
 Kompagnie	9
@@ -27027,6 +27164,7 @@ Komponiert	1
 Komponist	1
 Komposition	1
 Komposthaufen	9
+Kompott	1
 Kompresse	3
 Kompressen	1
 kompromittiert	2
@@ -27063,7 +27201,7 @@ Konkurrenzgeschäft	1
 Konkurrenzkampf	1
 Konkurs	2
 Konnexionen	1
-konnte	1756
+konnte	1759
 konnten	532
 konntest	8
 konntet	1
@@ -27127,14 +27265,14 @@ Konzertflügel	7
 Konzertflügels	1
 konzertierte	2
 Kopenhagen	96
-Kopf	1605
+Kopf	1607
 Kopfbedeckung	5
 Kopfbedeckungen	2
 Kopfbewegung	7
 Kopfbewegungen	5
 Kopfdrehung	1
 Kopfdurchmesser	1
-Kopfe	56
+Kopfe	57
 Kopfende	11
 Kopfes	25
 Kopfform	1
@@ -27151,7 +27289,7 @@ Kopfjäger	1
 Kopfkissen	30
 kopflos	9
 kopflose	6
-kopflosen	5
+kopflosen	6
 kopfloser	1
 kopfloses	2
 Kopflosigkeit	2
@@ -27257,7 +27395,7 @@ Kosten	26
 kostenlos	2
 Kostenvorschuß	1
 kostet	21
-kostete	23
+kostete	24
 kosteten	1
 kostspielig	1
 kostspielige	2
@@ -27276,7 +27414,7 @@ Kostüms	2
 Kot	2
 krabbelte	2
 krabbelten	1
-Krach	50
+Krach	51
 Krachen	14
 krachend	9
 krachenden	1
@@ -27292,7 +27430,7 @@ kraftlose	1
 Kraftprobe	1
 kraftverratend	1
 kraftvoll	6
-kraftvolle	1
+kraftvolle	2
 kraftvollen	1
 kraftvolles	1
 Kraftwagen	132
@@ -27343,6 +27481,7 @@ Krankenkammer	1
 Krankenkomödie	1
 Krankenlager	10
 Krankenlagers	1
+Krankenpflege	1
 Krankenpfleger	3
 Krankenpflegerin	1
 Krankenschwester	2
@@ -27380,7 +27519,7 @@ Kraterspitze	1
 Kraterwand	1
 kraterähnlichen	5
 kratzbürstig	2
-Kratzen	12
+Kratzen	13
 kratzendes	2
 Kratzer	12
 Kratzern	1
@@ -27447,7 +27586,7 @@ kreuz	8
 Kreuz	70
 kreuze	1
 kreuzen	14
-Kreuzen	6
+Kreuzen	7
 kreuzende	1
 kreuzenden	1
 Kreuzer	16
@@ -27511,7 +27650,7 @@ Kriminalbücher	23
 Kriminalchronik	1
 Kriminaldirektor	3
 Kriminaldirektors	1
-Kriminalerzählungen	105
+Kriminalerzählungen	106
 Kriminalfall	20
 Kriminalfalles	1
 Kriminalfälle	7
@@ -27737,7 +27876,7 @@ kunstvoller	1
 Kunstwerk	8
 Kunstwerke	1
 Kupeekoffer	3
-Kupfer	4
+Kupfer	5
 Kupferader	1
 Kupferbecken	1
 Kupferdraht	6
@@ -27799,7 +27938,7 @@ kurzbeinigen	1
 kurze	232
 kurzem	165
 kurzen	177
-kurzer	130
+kurzer	131
 kurzerhand	1
 kurzes	27
 kurzfingerige	1
@@ -27823,13 +27962,13 @@ kutschierte	2
 kutschierten	1
 Kutte	1
 Kutten	1
-Kutter	229
+Kutter	230
 Kutterbesatzung	1
 Kutterdeck	1
 Kutterkajüte	4
 Kuttermitbewohner	1
 Kuttern	1
-Kutters	37
+Kutters	43
 Kuttertakelung	1
 Kuvert	2
 Kuß	3
@@ -27897,7 +28036,7 @@ Königspalastes	1
 Königsstuhls	1
 Königstiger	2
 könne	89
-können	1689
+können	1690
 Können	44
 können’s	1
 könnt	19
@@ -27949,6 +28088,7 @@ köstlicher	3
 köstliches	4
 Köter	9
 Kötern	1
+Köters	1
 Kübeln	2
 Küche	136
 Küchenanbau	1
@@ -27970,10 +28110,10 @@ Küchenwagens	1
 Kügelchen	11
 Kühe	7
 Kühen	1
-kühl	106
+kühl	107
 kühle	36
 kühlem	2
-kühlen	27
+kühlen	28
 kühler	15
 kühlere	5
 kühleren	3
@@ -28057,6 +28197,7 @@ Küstengebirges	1
 Küstengewässer	3
 Küstenkapitäne	1
 Küstenorte	2
+Küstenorten	1
 Küstenortes	2
 Küstenplätze	1
 Küstenschiffahrt	1
@@ -28077,7 +28218,7 @@ küßte	15
 küßten	7
 laben	1
 labende	1
-Laboratorium	37
+Laboratorium	39
 Laboratoriums	5
 Labore	2
 labten	2
@@ -28093,7 +28234,7 @@ lachenden	1
 Lachkrampf	1
 lachst	1
 lacht	4
-lachte	447
+lachte	448
 lachten	12
 Lack	3
 Lackhut	15
@@ -28119,7 +28260,7 @@ Ladedeck	1
 Ladeluke	7
 Ladeluken	1
 Ladelukendeckel	1
-laden	7
+laden	6
 Laden	78
 Ladenhüter	1
 Ladenraum	1
@@ -28133,7 +28274,7 @@ Ladung	21
 Lady	950
 Ladygaunerin	3
 Laffen	1
-lag	1486
+lag	1488
 Lag	9
 Lage	183
 lagen	417
@@ -28195,7 +28336,7 @@ Lampenglocke	3
 Lampenhaken	4
 Lampenlicht	7
 Lampenstrahlen	1
-Land	168
+Land	169
 Landbesitz	1
 Landbesitzes	2
 Landbevölkerung	1
@@ -28210,7 +28351,7 @@ Landessitte	1
 Landessprache	4
 Landesverrat	1
 landesüblichen	3
-landet	4
+landet	3
 landete	25
 landeten	27
 Landgasthof	1
@@ -28263,7 +28404,7 @@ landwirtschaftlichen	1
 Landwirtschaftsschule	1
 Landzunge	31
 Landzungen	1
-lang	314
+lang	312
 langanhaltender	1
 langatmig	1
 langatmige	1
@@ -28311,7 +28452,7 @@ langst	1
 langstielige	1
 langstieligen	1
 langstreckten	1
-langt	2
+langt	1
 langte	80
 langten	53
 langweilen	10
@@ -28487,7 +28628,7 @@ Lebemänner	2
 leben	104
 Leben	577
 lebend	44
-lebende	36
+lebende	37
 lebenden	19
 Lebenden	16
 lebender	5
@@ -28542,7 +28683,7 @@ lebenslänglichem	8
 lebenslänglicher	2
 Lebensmittel	37
 Lebensmittelimport	1
-Lebensmitteln	8
+Lebensmitteln	9
 Lebensodem	1
 Lebenstragödie	1
 Lebensverrichtungen	1
@@ -28645,11 +28786,11 @@ ledig	2
 ledige	1
 ledigen	1
 lediges	1
-lediglich	382
+lediglich	383
 leer	325
 leere	209
 Leere	17
-leeren	119
+leeren	120
 leerenden	1
 leerer	12
 leeres	27
@@ -28661,8 +28802,10 @@ Legationsrat	8
 Legationsrats	1
 lege	38
 Legehennen	1
-legen	91
+legen	90
 Legen	22
+Legende	2
+Legenden	1
 Legendenkranz	1
 Legierung	1
 Legion	2
@@ -28679,10 +28822,10 @@ legitimiren	1
 legst	2
 legt	15
 legte	614
-legten	102
+legten	103
 leg’	2
 Lehm	8
-Lehmann	160
+Lehmann	161
 Lehmboden	4
 Lehmbude	1
 lehmgestampften	1
@@ -28753,7 +28896,7 @@ leibliches	1
 Leibwache	11
 Leibwäsche	2
 Leiche	489
-Leichen	87
+Leichen	88
 Leichenbestattungsart	1
 leichenblasse	2
 leichenblaß	28
@@ -28833,7 +28976,7 @@ leidenschaftlicher	33
 leidenschaftslos	2
 leidenschaftslosen	1
 Leidensgefährte	2
-Leidensgefährten	3
+Leidensgefährten	4
 Leidensgefährtin	1
 Leidensgeschichte	6
 Leidensgesicht	3
@@ -28841,7 +28984,7 @@ Leidenszug	1
 leider	269
 Leides	1
 leidet	12
-leidlich	97
+leidlich	98
 leidlichem	10
 leidliches	1
 leidtun	6
@@ -28896,7 +29039,7 @@ Leinwandkoffer	1
 Leinwandpfropfen	1
 Leinwandsack	2
 Leinwandstück	1
-leise	1183
+leise	1184
 leisem	23
 leisen	34
 leiser	100
@@ -28937,7 +29080,7 @@ Leitung	15
 Leitungsdrähte	2
 Leitungsmast	2
 Lektion	1
-Lektüre	189
+Lektüre	191
 Lenden	4
 Lendenschurz	3
 Lendentuch	2
@@ -28983,7 +29126,7 @@ Lesesaale	1
 Lesesaals	1
 Lesezeichen	7
 Lesezimmer	11
-letzte	265
+letzte	266
 letztem	3
 letzten	478
 letztens	63
@@ -29043,7 +29186,7 @@ leugnete	12
 leugneten	2
 leugnetest	1
 Leutchen	8
-Leute	1075
+Leute	1076
 Leuten	244
 leuteten	1
 Leutnant	31
@@ -29090,6 +29233,7 @@ Lichtfülle	4
 Lichtkegel	136
 Lichtkegels	3
 Lichtkreis	12
+Lichtlein	1
 Lichtpünktchen	5
 Lichtquelle	14
 Lichts	2
@@ -29216,6 +29360,7 @@ Lieder	5
 liederlich	1
 Liedern	1
 Liederzyklus	1
+Liedes	1
 lief	337
 liefe	1
 liefen	102
@@ -29239,7 +29384,7 @@ liegender	2
 liegendes	2
 Liegeplatz	11
 Liegeplatze	2
-Liegestelle	4
+Liegestelle	5
 Liegestuhl	35
 Liegestuhles	2
 Liegestuhls	2
@@ -29441,7 +29586,7 @@ Lordtitel	3
 Lordwürde	1
 Lorgnon	4
 Lorgnons	2
-los	283
+los	282
 Los	68
 losband	1
 losbinden	7
@@ -29452,7 +29597,7 @@ losbrüllen	1
 lose	52
 Lose	1
 losem	1
-losen	14
+losen	13
 loser	4
 loses	7
 losgebunden	9
@@ -29460,6 +29605,7 @@ losgehakt	4
 losgehen	5
 losgekauft	1
 losgekettet	8
+losgelacht	1
 losgelassen	7
 losgelöst	1
 losgemacht	6
@@ -29538,6 +29684,7 @@ Luftbewohnern	1
 Luftblase	2
 Luftbüchse	12
 Luftbüchsen	2
+luftdicht	1
 Luftdruck	3
 Lufterschütterung	1
 Luftfahrzeug	1
@@ -29734,7 +29881,7 @@ läutet	3
 läutete	63
 läuteten	34
 läßt	305
-Löcher	78
+Löcher	79
 löcheriger	1
 löcheriges	1
 Löchern	16
@@ -29808,7 +29955,7 @@ Maat	17
 Macbeth	1
 mach	1
 mache	55
-machen	760
+machen	761
 machenden	1
 Machenschaften	5
 Macher	2
@@ -29868,7 +30015,7 @@ magst	10
 mag’s	4
 Mahagoniholz	6
 Mahagonitür	2
-Maharadscha	163
+Maharadscha	169
 Maharadschas	23
 Mahl	1
 Mahlzeit	58
@@ -29896,7 +30043,7 @@ Maiskolben	1
 Maiskörner	2
 Maisonne	7
 Maisonnenschein	1
-Maisstroh	19
+Maisstroh	21
 Maisstrohbündel	1
 Maisstrohlager	1
 Maitag	3
@@ -29924,8 +30071,9 @@ malaiischer	3
 malaische	1
 Malaria	4
 Malariaanfall	4
+malariakrank	1
 Male	409
-Malediven	16
+Malediven	17
 malen	7
 Maler	57
 Malerei	13
@@ -29947,7 +30095,7 @@ malten	1
 malträtieren	1
 Malwine	30
 Mama	10
-man	2476
+man	2477
 manch	4
 manche	22
 manchem	3
@@ -30076,6 +30224,7 @@ Marmorpostament	2
 Marmorprunksaal	1
 Marmorpyramide	1
 Marmorquadrat	2
+Marmorschrein	1
 Marmorsees	1
 Marmorsockel	2
 Marmorspringbrunnen	2
@@ -30135,7 +30284,7 @@ Maskenball	28
 Maskenfest	3
 Maskerade	10
 maskieren	7
-maskiert	15
+maskiert	16
 maskierte	11
 Maskierte	27
 maskierten	14
@@ -30166,8 +30315,10 @@ Mastbaum	3
 Maste	2
 Masten	27
 Master	1056
+Mastes	1
 Mastspitzen	1
 Maststumpf	1
+Maststümpfe	1
 Material	22
 Materials	1
 materielle	2
@@ -30183,10 +30334,11 @@ Matrosenanzug	2
 Matrosenanzüge	2
 Matrosenarbeit	1
 Matrosenbluse	4
+Matrosenkluft	1
 Matrosenkneipe	1
 Matrosenschenke	1
 Matrosentracht	5
-matt	105
+matt	106
 matte	15
 Matte	5
 mattem	1
@@ -30200,6 +30352,7 @@ matter	12
 mattes	3
 mattgelbe	3
 mattgelben	1
+mattglänzend	1
 mattglänzende	2
 mattierten	2
 Mattigkeit	7
@@ -30207,7 +30360,7 @@ mattrosa	2
 mattroten	1
 Mattscheiben	1
 mattschwarze	1
-Mauer	342
+Mauer	343
 Mauerabsatz	4
 Mauerblöcke	2
 Mauerdurchbruchs	1
@@ -30217,7 +30370,7 @@ Mauerfugen	1
 Mauerkante	1
 Mauerkrone	22
 Mauerloch	11
-Mauern	46
+Mauern	47
 Mauernische	1
 Mauerpfeilern	1
 Mauerpforte	17
@@ -30321,7 +30474,7 @@ Meeresbreiten	1
 Meeresbucht	5
 Meereseinschnitt	1
 Meeresgrund	1
-Meeresgrunde	3
+Meeresgrunde	4
 Meeresgrundes	1
 Meereshyänen	1
 Meeresküste	3
@@ -30339,7 +30492,7 @@ Meerwasser	2
 Mehlschicht	1
 Mehlspeise	1
 Mehlspeisen	1
-mehr	2343
+mehr	2345
 mehren	2
 mehrere	140
 mehreren	31
@@ -30356,6 +30509,7 @@ Mehrladepistolen	2
 Mehrlader	20
 Mehrladers	2
 Mehrladewaffe	1
+mehrmaligem	1
 mehrmals	39
 mehrstimmiges	1
 mehrte	1
@@ -30374,7 +30528,7 @@ meilenweit	4
 meilenweite	3
 meilenweiten	1
 mein	2420
-meine	2057
+meine	2058
 Meine	563
 meinem	703
 meinen	952
@@ -30382,13 +30536,13 @@ Meinen	40
 meiner	793
 Meiner	25
 meinerseits	25
-meines	292
+meines	294
 meinetwegen	24
 meinige	5
 meinigen	4
 meinst	81
 meint	44
-meinte	3467
+meinte	3469
 meinten	5
 meintest	4
 Meinung	46
@@ -30438,13 +30592,13 @@ Mem	18
 Memphis	2
 Memsahib	9
 Menagerie	19
-Menge	131
+Menge	132
 mengen	2
 Mengen	8
 mengte	1
 mengten	1
 Mensch	773
-Menschen	634
+Menschen	636
 Menschenaffen	5
 Menschenansammlung	1
 Menschenantlitz	2
@@ -30499,7 +30653,7 @@ Menschlein	2
 menschlich	2
 menschliche	42
 menschlichen	41
-menschlicher	14
+menschlicher	15
 menschliches	8
 Menü	6
 Menüs	3
@@ -30518,7 +30672,7 @@ merkt	26
 merkte	405
 merkten	63
 merktest	3
-merkwürdig	164
+merkwürdig	165
 merkwürdige	97
 Merkwürdige	12
 merkwürdigem	4
@@ -30541,7 +30695,7 @@ Messer	131
 Messerchen	1
 Messerklinge	9
 Messern	4
-Messers	36
+Messers	37
 messerscharf	1
 messerscharfe	3
 messerscharfen	5
@@ -30618,7 +30772,7 @@ Meuterer	1
 Mexikaner	4
 mexikanische	1
 Mexiko	3
-mich	6673
+mich	6676
 Michaelkirchstraße	48
 mied	2
 mieden	4
@@ -30745,16 +30899,16 @@ Minenunternehmen	1
 mineralogische	1
 Miniatur	1
 Miniaturzettel	1
-Minister	40
+Minister	41
 Ministerhause	1
 Ministerhauses	3
-Ministers	13
+Ministers	14
 Minute	67
-Minuten	1092
+Minuten	1094
 minutenlang	23
 minutenlanger	1
-mir	9699
-Mirakulum	224
+mir	9701
+Mirakulum	225
 mir’s	14
 mische	6
 mischen	7
@@ -30787,10 +30941,10 @@ Missionsgesellschaften	1
 Missionstätigkeit	1
 Mississippi	1
 Mist	2
-Mister	169
+Mister	170
 Mistreß	180
 Mistvieh	3
-mit	16189
+mit	16190
 mitangehört	8
 mitangesehen	4
 mitanhören	1
@@ -30813,7 +30967,7 @@ mitbrachte	2
 mitbringen	18
 mitbringt	1
 mitbrächte	1
-miteinander	115
+miteinander	116
 miteinbegriffen	1
 miteingeflochten	1
 miteingerechnet	2
@@ -30890,7 +31044,7 @@ mitmachen	10
 mitmacht	3
 mitmachten	1
 Mitmenschen	4
-mitnahm	13
+mitnahm	14
 Mitnahme	3
 mitnahmen	3
 mitnehmen	48
@@ -30984,7 +31138,7 @@ Mittelpromenade	2
 Mittelpunkt	20
 Mittelpunkte	1
 Mittelraum	1
-mittels	7
+mittels	8
 Mittelschiff	5
 Mittelsmann	2
 Mittelstand	1
@@ -31021,7 +31175,7 @@ Mitwirkenden	1
 mitwirkt	1
 mitwirkten	1
 Mitwirkung	2
-Mitwisser	23
+Mitwisser	24
 Mitwisserin	4
 Mitwissern	1
 Mitwisserschaft	1
@@ -31036,10 +31190,10 @@ mitzuschleppen	1
 mitzuteilen	56
 mitzählen	1
 mit’n	5
-Mix	2
+Mix	1
 Mixer	1
 Mixturen	1
-Miß	747
+Miß	748
 mißachten	1
 mißbilligend	2
 mißbilligenden	1
@@ -31118,7 +31272,7 @@ moderne	25
 Moderne	4
 modernem	1
 modernen	48
-moderner	197
+moderner	198
 modernes	13
 modernisiert	2
 modernste	3
@@ -31283,12 +31437,13 @@ Morgenkaffee	8
 Morgenkleid	3
 Morgenkleide	2
 Morgenluft	3
+Morgennebel	1
 Morgennummer	4
 Morgennummern	1
 Morgenpost	1
 Morgenrock	8
 Morgenrocks	1
-morgens	431
+morgens	432
 Morgens	65
 Morgenschlafe	1
 Morgenschuhe	5
@@ -31391,7 +31546,7 @@ Mottenpulver	2
 Mottenpulvergeruch	1
 mottenzerfressene	1
 Mount	3
-Mr	1734
+Mr	1735
 Mrs	4
 muckst	1
 muffig	3
@@ -31409,7 +31564,7 @@ Multimillionär	1
 Multimillionäre	1
 Multimillionären	1
 Multimillionärs	2
-Mumie	119
+Mumie	125
 Mumien	28
 Mumiendarsteller	2
 Mumiengesichter	2
@@ -31457,11 +31612,12 @@ munterte	12
 murmeln	2
 murmelnd	1
 murmelnden	2
-murmelt	2
+murmelt	1
 murmelte	189
 murmelten	4
 Murmeltier	2
 Murren	1
+murrte	2
 Muschel	6
 Muschelbank	1
 Muschelgrand	3
@@ -31620,7 +31776,7 @@ männertollen	1
 Männlein	5
 männliche	11
 männlichem	1
-männlichen	16
+männlichen	17
 männlicher	1
 Männlichkeit	2
 Mäntel	17
@@ -31665,7 +31821,7 @@ möbliertem	1
 möblierten	12
 möblierter	2
 möbliertes	9
-möchte	685
+möchte	686
 möchten	70
 möchtest	9
 möge	19
@@ -31736,7 +31892,7 @@ mühselig	4
 mühselige	4
 mühseliges	4
 mühte	6
-mühten	3
+mühten	4
 Müll	1
 Müllbergen	1
 Müllhaufen	3
@@ -31777,7 +31933,7 @@ mütterliche	2
 mütterlichen	1
 mütterlicher	1
 mütterlicherseits	3
-Mütze	96
+Mütze	97
 Mützen	7
 Mützenfutter	1
 Mützenfutters	1
@@ -31791,7 +31947,7 @@ müßten	90
 müßtest	3
 na	44
 Nabel	1
-nach	9068
+nach	9071
 nachahmen	2
 nachahmte	2
 Nachahmung	4
@@ -31831,7 +31987,7 @@ Nachbeter	1
 Nachbildung	4
 nachblickte	1
 nachdachte	1
-nachdem	600
+nachdem	601
 nachdenken	8
 Nachdenken	30
 Nachdenkens	1
@@ -31842,7 +31998,7 @@ nachdenklichen	4
 nachdenklicher	4
 nachdenkliches	1
 nachdenkt	1
-Nachdruck	128
+Nachdruck	129
 nachdrücklich	9
 nachdrücklicher	1
 nachdrücklicherer	1
@@ -31949,7 +32105,7 @@ Nachlasses	1
 Nachlaßgericht	1
 Nachlaßverwalter	1
 Nachlese	1
-nachlesen	1
+nachlesen	2
 nachließ	5
 nachließen	2
 nachlässig	15
@@ -31963,7 +32119,7 @@ nachmachen	2
 Nachmessen	1
 nachmittag	88
 Nachmittag	54
-nachmittags	267
+nachmittags	268
 Nachmittagsausflugsort	1
 Nachmittagshitze	1
 Nachmittagsschläfchens	1
@@ -32043,7 +32199,7 @@ nachstürmte	1
 Nachsuche	1
 nachsuchte	1
 nacht	97
-Nacht	1170
+Nacht	1171
 Nachtarbeit	2
 Nachtbeleuchtung	6
 Nachtbild	2
@@ -32087,7 +32243,7 @@ nachtrauern	1
 Nachtruhe	9
 nachträglich	10
 nachträgliche	1
-nachts	327
+nachts	331
 Nachtschalter	1
 Nachtschlaf	5
 Nachtschränkchen	3
@@ -32124,7 +32280,7 @@ nachwinkte	1
 Nachwirkungen	2
 Nachzeichnung	1
 nachzuahmen	1
-nachzudenken	16
+nachzudenken	17
 nachzufahren	1
 nachzuforschen	4
 nachzufragen	3
@@ -32189,7 +32345,7 @@ naheliegenden	1
 naheliegender	1
 nahen	110
 nahende	3
-nahenden	4
+nahenden	5
 naher	4
 nahes	5
 nahestand	2
@@ -32198,8 +32354,8 @@ nahesteht	2
 nahetreten	1
 nahezu	2
 nahezulegen	1
-nahm	1148
-nahmen	287
+nahm	1149
+nahmen	286
 nahmst	3
 Nahrung	6
 Nahrungsmitteln	1
@@ -32210,7 +32366,7 @@ nahte	39
 nahten	12
 naiven	1
 Naivität	1
-Name	293
+Name	294
 Namen	748
 Namengedächtnis	1
 namenlose	10
@@ -32275,6 +32431,7 @@ Naturen	4
 Naturerscheinung	1
 Naturforscher	8
 Naturforschern	1
+Naturforschers	1
 naturfreudigen	2
 Naturfreund	1
 Naturgeschichte	1
@@ -32304,7 +32461,7 @@ natürlicher	4
 natürliches	2
 natürlichste	1
 nautische	1
-naß	20
+naß	19
 Naß	5
 ne	23
 Neapel	13
@@ -32331,6 +32488,7 @@ Nebenabteils	1
 Nebenabteilung	1
 nebenan	74
 Nebenausgang	5
+Nebenausgänge	1
 Nebenbalkon	3
 Nebenbaulichkeiten	1
 Nebenbedeutung	2
@@ -32389,7 +32547,7 @@ Nebenrolle	9
 Nebenruine	1
 Nebenräume	2
 Nebenräumen	1
-Nebensaal	2
+Nebensaal	3
 Nebensache	4
 Nebensalon	1
 Nebenstelle	2
@@ -32400,7 +32558,7 @@ nebensächliche	7
 Nebental	1
 Nebentisch	6
 Nebentischchen	4
-Nebentische	4
+Nebentische	5
 Nebentischen	2
 Nebentreppe	1
 Nebenumstand	4
@@ -32438,7 +32596,7 @@ Negerweib	3
 Negerweiber	1
 Negligee	1
 nehme	157
-nehmen	478
+nehmen	477
 Nehmen	91
 nehmend	3
 nehmende	1
@@ -32460,13 +32618,13 @@ neigt	3
 neigte	15
 neigten	2
 Neigung	27
-Neigungen	11
-nein	233
+Neigungen	12
+nein	232
 Nelke	50
 Nelken	6
 Nelkendüften	1
 nenne	13
-nennen	105
+nennen	106
 nennst	3
 nennt	77
 Nennung	1
@@ -32612,7 +32770,7 @@ Neuzeit	4
 neuzeitlicher	1
 New	37
 Newyork	1
-nicht	14098
+nicht	14105
 nichtachtenden	1
 Nichtachtung	1
 nichtadligen	1
@@ -32624,7 +32782,7 @@ Nichthindu	1
 nichtige	1
 Nichtigkeit	1
 Nichtraucher	7
-nichts	2653
+nichts	2662
 nichtsahnenden	2
 Nichtsein	3
 Nichtsnutz	1
@@ -32653,7 +32811,7 @@ Nicken	3
 Nickerchen	1
 nickst	2
 nickt	2
-nickte	878
+nickte	880
 nickten	4
 nie	947
 nieder	166
@@ -32810,11 +32968,11 @@ nistete	1
 nix	9
 Nizza	18
 Noblen	1
-noch	7629
+noch	7645
 nochmal	8
 nochmalige	3
 nochmaligen	9
-nochmals	483
+nochmals	484
 Nomaden	2
 Nomadenlager	1
 nomadisierend	1
@@ -32937,10 +33095,10 @@ numerierte	1
 Numerierung	1
 Nummer	165
 Nummern	25
-nun	4910
+nun	4911
 nunmehr	58
 nunmehrige	2
-nur	6754
+nur	6756
 nutzbringend	1
 nutzbringender	1
 nutzen	1
@@ -33014,6 +33172,7 @@ näselte	2
 Nässe	12
 nördlich	49
 nördliche	9
+nördlichem	2
 nördlichen	24
 nördlicher	1
 nördlicheren	1
@@ -33076,7 +33235,7 @@ oberes	1
 oberfaul	7
 oberfaule	3
 Oberfenster	4
-Oberfläche	32
+Oberfläche	33
 oberflächlich	23
 oberflächliche	2
 oberflächlichen	1
@@ -33099,6 +33258,7 @@ Oberinspektor	20
 oberirdischen	1
 Oberkellner	20
 Oberkiefer	2
+Oberkleider	2
 Oberkörper	45
 Oberkörpern	1
 Oberkörpers	4
@@ -33171,7 +33331,8 @@ ob’s	7
 Ochse	2
 Ochsen	4
 Ochsenkarren	4
-oder	1326
+Odem	2
+oder	1328
 Ofen	57
 Ofenecke	2
 Ofenglut	1
@@ -33214,7 +33375,7 @@ Offizierhause	1
 oft	267
 oh	4
 Oheim	6
-ohne	1501
+ohne	1502
 ohnedies	36
 ohnehin	5
 Ohnmacht	35
@@ -33410,6 +33571,7 @@ Ostasiaten	1
 Ostasien	5
 Ostausgang	4
 ostaustralischen	1
+Ostbrise	2
 Ostecke	3
 Osten	157
 Ostende	3
@@ -33463,7 +33625,7 @@ Packpferdes	2
 packst	1
 packt	5
 Packtaschen	1
-packte	209
+packte	211
 packten	51
 packtest	1
 Paddelboot	2
@@ -33471,7 +33633,7 @@ paffte	4
 Pagode	62
 Pagoden	1
 Paket	103
-Pakete	13
+Pakete	14
 Paketen	6
 Pakets	1
 Paketwagen	1
@@ -33482,8 +33644,10 @@ palastartigem	1
 palastartigen	3
 palastartiges	1
 Palaste	13
-Palastes	47
+Palastes	48
+Palastflügels	1
 Palastgarten	1
+Palastparkes	1
 Palastpersonal	1
 Palastrevolution	2
 Palastverwalter	2
@@ -33496,7 +33660,7 @@ Palermos	4
 Paletot	1
 Palmbäume	1
 Palme	54
-Palmen	71
+Palmen	72
 Palmenallee	11
 Palmenbaum	3
 Palmenblättern	1
@@ -33762,7 +33926,7 @@ patzig	3
 Pausbacken	3
 pausbäckige	1
 pausbäckiger	1
-Pause	200
+Pause	201
 Pausen	15
 pausieren	1
 Pavillon	116
@@ -33880,8 +34044,10 @@ Perlen	101
 Perlenbank	1
 Perlendiebes	1
 Perlendiebstahl	3
-Perlenfischer	19
+Perlenfischer	21
+Perlenfischern	2
 Perlengründe	2
+Perlengründen	1
 Perlenhalsband	4
 Perlenhalsbandes	1
 Perlenhandtäschchen	1
@@ -33889,12 +34055,15 @@ Perlenhändler	2
 Perlenkette	48
 Perlenketten	3
 Perlenkollier	2
+Perlenkutter	1
+Perlenkutters	1
 Perlenmuschelbank	1
 Perlenmuscheln	4
 Perlenraub	6
 Perlenschnur	8
 Perlentaucher	1
 perlgrauen	1
+Perlmuschelbänken	1
 Perlmuttergriff	1
 Perlstickerei	1
 perlte	2
@@ -33936,7 +34105,7 @@ persönlichen	4
 persönlicher	1
 persönlicheres	1
 persönliches	1
-Persönlichkeit	61
+Persönlichkeit	62
 Persönlichkeiten	6
 Peru	1
 peruanische	1
@@ -34046,7 +34215,7 @@ Pferdeverleiher	2
 Pferdezucht	1
 Pfg	17
 pfiff	59
-Pfiff	33
+Pfiff	34
 Pfiffe	2
 pfiffen	3
 Pfiffen	1
@@ -34077,7 +34246,7 @@ Pflegeeltern	1
 pflegen	21
 Pfleger	4
 Pflegerin	5
-pflegt	26
+pflegt	25
 pflegte	17
 pflegten	6
 Pflicht	36
@@ -34141,10 +34310,10 @@ Phantast	1
 Phantastereien	3
 Phantastik	1
 phantastisch	15
-phantastische	10
+phantastische	11
 phantastischem	1
 phantastischen	17
-phantastischer	4
+phantastischer	5
 phantastisches	4
 phantastischsten	1
 Phantom	5
@@ -34185,6 +34354,7 @@ phänomenalen	1
 Phönix	5
 Pianino	4
 Pianinos	1
+pianissimo	1
 Piano	3
 pickten	1
 piepsende	1
@@ -34239,8 +34409,8 @@ Piratenjacht	4
 Piratenkostüm	1
 Piratenprau	4
 Piratenschiff	5
-Piratenschoner	32
-Piratenstreich	8
+Piratenschoner	33
+Piratenstreich	9
 Piratenstreiche	6
 Piratenstreichen	2
 Piratentätigkeit	1
@@ -34250,7 +34420,7 @@ pirschte	2
 pirschten	2
 Pistazie	1
 Pistazien	1
-Pistole	172
+Pistole	173
 Pistolen	92
 Pistolenknalle	1
 Pistolenkolben	7
@@ -34320,7 +34490,7 @@ Platten	34
 Plattform	29
 plattgedrückt	1
 plattgedrückter	1
-Platz	540
+Platz	541
 Platze	22
 platzen	4
 Platzes	5
@@ -34328,7 +34498,7 @@ Platznehmen	5
 Platzregen	11
 Platzregens	2
 platzt	1
-platzte	45
+platzte	46
 platzten	1
 plaudere	1
 plaudern	15
@@ -34351,9 +34521,9 @@ plumper	11
 plumpes	3
 plumpste	5
 plumpsten	1
-plus	2
+plus	3
 Plänchen	10
-Pläne	48
+Pläne	49
 Plänen	10
 plätschern	1
 Plätschern	10
@@ -34364,7 +34534,7 @@ Plätteisen	1
 Plätzchen	8
 Plätze	20
 Plätzen	7
-plötzlich	1180
+plötzlich	1183
 plötzliche	24
 plötzlichem	5
 plötzlichen	15
@@ -34420,7 +34590,7 @@ politische	11
 politischen	13
 politischer	5
 politisches	4
-Polizei	769
+Polizei	770
 Polizeiagenten	1
 Polizeiamt	3
 Polizeiapparat	3
@@ -34447,6 +34617,7 @@ Polizeiboothafens	1
 Polizeichef	60
 Polizeichefs	5
 Polizeidampfer	4
+Polizeidampfers	1
 Polizeidetektiv	2
 Polizeidirektion	73
 Polizeidirektionen	2
@@ -34472,7 +34643,7 @@ Polizeihund	23
 Polizeihunde	7
 Polizeihunden	1
 Polizeihundes	1
-Polizeiinspektor	31
+Polizeiinspektor	32
 Polizeiinspektors	3
 Polizeikommissar	2
 Polizeikraftwagen	1
@@ -34622,7 +34793,7 @@ Postbote	17
 Postboten	8
 Postdienst	1
 Postdirektor	1
-Posten	52
+Posten	54
 Postgebäude	4
 posthypnotische	1
 posthypnotischen	1
@@ -34693,7 +34864,7 @@ pralle	3
 prallen	8
 praller	1
 prallte	54
-prallten	12
+prallten	13
 prangen	1
 prangenden	1
 Pranger	1
@@ -34706,12 +34877,12 @@ prassen	1
 Prau	89
 Praxis	20
 Predigten	1
-Preis	90
+Preis	91
 Preisausschreiben	1
 Preise	10
 preisen	2
 Preises	1
-preisgab	1
+preisgab	2
 Preisgabe	6
 preisgeben	7
 preisgegeben	7
@@ -34973,6 +35144,7 @@ Pulsschlag	5
 Pulstätigkeit	1
 Pult	3
 Pulver	35
+Pulverdampf	1
 Pulverfaß	1
 Pulverform	1
 Pulvergeruch	1
@@ -35061,6 +35233,7 @@ Qualmentwicklung	1
 Qualmes	1
 Qualmfaden	1
 Qualmfäden	2
+qualmgefüllten	1
 Qualmschwaden	3
 qualmt	1
 qualmte	10
@@ -35175,7 +35348,7 @@ Radio	2
 Radioapparat	2
 Radioapparaten	1
 Radiodepesche	1
-Radiostation	17
+Radiostation	18
 Radiotelegramm	1
 radiotelephonisch	1
 Radius	1
@@ -35376,7 +35549,7 @@ Raubmörders	2
 Raubritter	1
 raubt	2
 raubte	21
-raubten	9
+raubten	10
 Raubtier	8
 Raubtieraugen	3
 Raubtierausdünstung	2
@@ -35415,7 +35588,7 @@ Raucherabteil	5
 Raucherin	5
 Rauchers	1
 Rauchfaden	4
-Rauchfahne	5
+Rauchfahne	6
 Rauchfang	1
 rauchfrei	1
 Rauchkegel	1
@@ -35434,7 +35607,7 @@ Rauchstreifen	2
 Rauchsäule	1
 Rauchsäulen	8
 raucht	12
-rauchte	268
+rauchte	270
 rauchten	50
 Rauchtisch	9
 Rauchtischchen	17
@@ -35511,10 +35684,10 @@ Rechnungsführer	5
 Rechnungsrat	7
 Rechnungsrats	2
 Rechnungsrätin	6
-recht	1930
+recht	1931
 Recht	122
 rechte	177
-Rechte	153
+Rechte	154
 rechteckig	1
 rechteckige	1
 rechteckiges	1
@@ -35682,6 +35855,7 @@ reglose	2
 reglosem	1
 reglosen	2
 regloser	1
+Reglosigkeit	1
 regnen	14
 regnerisch	2
 regnerische	5
@@ -35713,7 +35887,7 @@ Rehaugen	2
 Rehbock	1
 Rehfuß	1
 reibe	1
-Reibe	3
+Reibe	2
 Reibeisen	1
 Reibeisenkehle	1
 reiben	2
@@ -35727,7 +35901,7 @@ reichbewegten	3
 reiche	48
 Reiche	10
 reichem	3
-reichen	71
+reichen	70
 Reichen	7
 reichend	1
 reichende	1
@@ -35766,8 +35940,8 @@ Reichstag	1
 reichste	12
 reichsten	12
 Reichswappen	1
-reicht	21
-reichte	426
+reicht	20
+reichte	425
 reichten	12
 Reichtum	21
 Reichtums	7
@@ -35786,7 +35960,7 @@ reifes	2
 reifgewordene	1
 reiflich	1
 reift	1
-Reihe	155
+Reihe	156
 Reihen	22
 Reihenfolge	22
 Reihenhäuser	1
@@ -35831,7 +36005,7 @@ reinmachen	1
 reinste	9
 reinweg	1
 reinzuwaschen	1
-Reis	23
+Reis	25
 reise	21
 Reise	137
 Reiseandenken	5
@@ -35966,6 +36140,7 @@ Reißen	10
 reißend	1
 reißende	2
 reißenden	4
+Reißleine	1
 reißt	7
 rekelte	1
 Reklame	12
@@ -35986,6 +36161,7 @@ Religion	8
 Religionen	1
 Religionsbuch	1
 Religionsfanatiker	1
+Religionsgeheimnisse	1
 Religionsgemeinschaft	1
 Religionslehre	1
 Religionssekte	1
@@ -36054,7 +36230,7 @@ Repetierwaffen	1
 Reporter	37
 Reporterkönig	9
 Reportern	2
-Reporters	1
+Reporters	2
 Repräsentant	1
 Reptil	41
 Reptile	5
@@ -36274,6 +36450,7 @@ Riesenkoffern	1
 Riesenkraft	2
 Riesenkräfte	6
 Riesenkröten	1
+Riesenkugel	1
 Riesenkäfern	1
 Riesenkörbe	1
 Riesenleuchtkäfer	1
@@ -36329,6 +36506,8 @@ Riffe	13
 Riffelsen	1
 Riffelung	4
 Riffen	16
+Riffgürtel	2
+Riffgürtels	1
 riffumgürteten	1
 Rikscha	85
 Rikschafahrt	1
@@ -36498,6 +36677,7 @@ rosigen	5
 rosiger	1
 rosiges	2
 Rost	1
+rostige	1
 rostigen	7
 Rostock	4
 Rostocker	3
@@ -36524,7 +36704,7 @@ rotbärtiger	5
 rote	122
 Rote	5
 rotem	13
-roten	132
+roten	133
 Roten	15
 roter	18
 rotes	13
@@ -36580,7 +36760,7 @@ Ruckser	9
 Rucksers	1
 Rucksäcke	21
 Rucksäcken	5
-ruckte	33
+ruckte	34
 ruckweise	10
 ruckweises	1
 Rudeln	1
@@ -36677,7 +36857,7 @@ Rumpfe	4
 Rumpfes	1
 Rumvorräten	1
 rund	39
-Rundblick	2
+Rundblick	3
 Runddepesche	5
 runde	41
 Runde	10
@@ -36746,7 +36926,7 @@ Ränkespiel	4
 ränkevolle	1
 rät	3
 Rätsel	284
-Rätselbrücke	35
+Rätselbrücke	36
 rätselhaft	21
 rätselhafte	55
 rätselhaftem	1
@@ -36757,7 +36937,7 @@ rätselhafteren	1
 rätselhaftes	2
 Rätselhaftes	5
 rätselhaftesten	2
-Rätseln	4
+Rätseln	5
 Rätselraten	2
 Rätselrater	1
 Rätsels	13
@@ -36794,12 +36974,12 @@ räudigen	1
 räume	4
 Räume	128
 räumen	26
-Räumen	49
+Räumen	50
 Räumlichkeiten	3
 räumte	16
 räumten	4
 Räuspern	3
-räusperte	11
+räusperte	12
 röche	2
 Röcheln	17
 röchelnd	4
@@ -36834,7 +37014,7 @@ Rüben	1
 Rückantwort	3
 rücke	2
 rücken	20
-Rücken	385
+Rücken	387
 Rückenflossen	3
 Rückenhaar	1
 Rückenhaare	1
@@ -36864,7 +37044,7 @@ Rückreise	7
 Rückschlag	4
 Rückschluß	1
 Rückseite	94
-Rücksicht	38
+Rücksicht	39
 Rücksichten	4
 Rücksichtnahme	3
 rücksichtslos	22
@@ -36874,7 +37054,7 @@ rücksichtsloser	5
 rücksichtslosesten	2
 rücksichtslosester	2
 Rücksichtslosigkeit	9
-rücksichtsvoll	3
+rücksichtsvoll	4
 rücksichtsvolle	1
 rücksichtsvollster	1
 Rücksitz	12
@@ -36909,7 +37089,7 @@ rühmliche	1
 rühmlichst	1
 rühmst	1
 rühmt	4
-rühmte	3
+rühmte	2
 rühmten	1
 rühre	3
 Rührei	3
@@ -36944,9 +37124,10 @@ Rüstung	5
 Rüstzeug	2
 rütteln	4
 rüttelt	2
-rüttelte	56
+rüttelte	57
 rüttelten	2
 Saal	66
+saalartige	1
 saalartigen	2
 saalartiger	1
 Saale	21
@@ -36995,13 +37176,13 @@ sagenhaften	5
 sagenhafter	1
 sagst	29
 sagt	85
-sagte	4388
+sagte	4393
 sagten	97
 Sagten	1
 sagtest	10
 sagt’s	1
 sag’	6
-sah	1498
+sah	1499
 Sahara	2
 sahen	477
 sahen’s	1
@@ -37136,7 +37317,7 @@ Sansibar	3
 Sanskrit	1
 Saphir	1
 Sardinen	1
-Sarg	77
+Sarg	78
 Sargdeckel	8
 Sargdekel	1
 Sarge	56
@@ -37167,11 +37348,11 @@ Sattelzeug	1
 Sattelzeugs	1
 satter	1
 Sattler	1
-Satz	278
+Satz	275
 Satze	10
 Satzes	10
 Satzungen	3
-sauber	76
+sauber	77
 saubere	9
 sauberen	20
 sauberer	7
@@ -37197,8 +37378,8 @@ sauste	44
 sausten	31
 Sauwetter	3
 Savanne	2
-saß	821
-saßen	574
+saß	822
+saßen	575
 Saßnitz	74
 schabendes	1
 Schabernack	2
@@ -37208,7 +37389,7 @@ Schach	25
 Schachbrett	1
 Schachpartie	5
 Schachspielern	1
-Schacht	66
+Schacht	67
 Schachte	3
 Schachtel	49
 Schachtelboden	1
@@ -37242,7 +37423,7 @@ Schaffner	60
 Schaffnern	3
 Schaffners	1
 Schaffneruniform	1
-schafft	10
+schafft	9
 schaffte	22
 schafften	10
 Schaffung	1
@@ -37267,7 +37448,7 @@ Schal	5
 Schale	16
 Schall	10
 Schalldämpfer	3
-schallend	13
+schallend	14
 schallendes	4
 Schallfänger	1
 Schallrichtung	2
@@ -37292,6 +37473,7 @@ schaltest	1
 schaltete	124
 schalteten	6
 Schalthebel	1
+Schalttische	1
 Schamanen	4
 schamlos	1
 schamloser	2
@@ -37332,20 +37514,22 @@ Scharlatan	1
 Scharnier	1
 Scharniere	9
 Scharnieren	4
-Scharren	14
+Scharren	15
 scharrendes	1
 scharrte	5
 scharte	1
 Scharte	5
 scharten	1
 scharwenzelte	1
-Schatten	308
-Schattenbild	12
-Schattenbilder	37
+Schatten	310
+Schattenbild	13
+Schattenbilder	38
 Schattenbildern	4
 Schattenfiguren	1
 schattenhafte	1
 Schattenlänge	1
+Schattenriß	1
+Schattens	1
 Schattenseite	4
 Schattenseiten	3
 schattenspendendes	1
@@ -37481,7 +37665,7 @@ Scheitel	30
 Scheitellocke	5
 Scheitelperücke	13
 Scheiterhaufen	17
-Scheiterhaufens	27
+Scheiterhaufens	28
 scheitern	2
 scheiterte	3
 scheiterten	1
@@ -37519,7 +37703,7 @@ scherzen	7
 Scherzen	6
 scherzend	20
 scherzendem	1
-scherzenden	1
+scherzenden	2
 scherzest	1
 scherzhafte	3
 scherzhaften	4
@@ -37690,6 +37874,7 @@ Schiffswand	4
 Schiffszahlmeister	2
 Schiffszwieback	3
 schiffte	1
+schifften	1
 Schild	26
 schildartige	1
 Schildchen	12
@@ -37700,7 +37885,7 @@ schildern	100
 schildert	3
 schilderte	33
 schilderten	5
-Schilderung	72
+Schilderung	73
 Schilderungen	10
 Schildes	1
 Schildkröte	31
@@ -37746,7 +37931,7 @@ Schimpfworten	1
 Schimpfwörtern	1
 Schinder	4
 Schinken	6
-Schirm	21
+Schirm	22
 Schirmdach	1
 Schirme	4
 Schirmen	2
@@ -37756,6 +37941,7 @@ Schirmmütze	4
 Schirmstock	1
 Schiwamatu	21
 Schlacht	1
+schlachtet	2
 Schlachtfelder	1
 Schlachtplan	11
 Schlachtschiffes	1
@@ -37771,7 +37957,7 @@ Schlafdecken	2
 Schlafdiwan	1
 schlafe	14
 schlafen	199
-Schlafen	22
+Schlafen	23
 schlafend	12
 schlafende	6
 Schlafende	1
@@ -37843,6 +38029,7 @@ Schlagflusses	1
 Schlagfluß	5
 Schlaggewicht	2
 Schlagschatten	1
+Schlagseite	1
 Schlagwaffe	3
 Schlagwaffen	1
 Schlagwerk	3
@@ -37914,7 +38101,7 @@ Schlauheit	36
 schlecht	178
 schlechte	26
 Schlechte	4
-schlechtem	12
+schlechtem	13
 schlechten	36
 schlechter	41
 schlechterer	1
@@ -37960,11 +38147,11 @@ schlendert	2
 schlenderte	43
 schlenderten	42
 schlenkernden	3
-schlenkerte	4
+schlenkerte	5
 schlenkerten	2
 Schleppangel	1
 schleppe	6
-schleppen	21
+schleppen	22
 schleppende	2
 schleppendem	1
 schleppenden	2
@@ -37996,6 +38183,7 @@ Schlichen	2
 schlicht	13
 schlichte	6
 schlichten	10
+schlichter	1
 schlichtes	4
 Schlick	2
 schlief	160
@@ -38126,7 +38314,7 @@ Schlucker	2
 schluckte	7
 schluckten	1
 schluckweise	1
-schlug	383
+schlug	384
 schlugen	47
 Schlummer	6
 Schlummerlied	1
@@ -38140,7 +38328,7 @@ Schlund	13
 Schlunde	2
 Schlundes	6
 Schlupfloch	6
-Schlupfwinkel	58
+Schlupfwinkel	59
 Schlupfwinkeln	1
 Schlupfwinkels	5
 schlurfenden	2
@@ -38211,6 +38399,7 @@ Schlüsselzange	4
 Schlüssen	2
 schlüssig	1
 Schmach	2
+schmachte	1
 schmachten	2
 schmachtende	1
 schmachtet	2
@@ -38333,7 +38522,7 @@ Schmuckkästchen	1
 schmucklos	11
 schmucklose	6
 schmucklosen	6
-schmuckloser	2
+schmuckloser	3
 schmuckloses	1
 Schmucks	1
 Schmucksachen	18
@@ -38456,7 +38645,7 @@ schneeweißem	3
 schneeweißen	7
 schneeweißes	1
 schneide	4
-Schneide	35
+Schneide	36
 Schneidemühlen	3
 schneiden	9
 schneidend	17
@@ -38473,7 +38662,7 @@ schneidet	4
 schneidige	2
 Schneise	2
 schneite	2
-schnell	957
+schnell	958
 schnelle	21
 Schnelle	2
 schnellem	3
@@ -38561,14 +38750,14 @@ Schofförs	1
 Schokolade	4
 scholl	2
 Scholle	1
-schon	3480
+schon	3483
 schone	8
 schonen	59
 schonend	5
 Schoner	92
 schonerartigen	1
 Schonerbark	6
-Schonerjacht	23
+Schonerjacht	24
 Schonerkapitäns	1
 Schoners	24
 schont	3
@@ -38590,7 +38779,7 @@ schottischen	6
 Schottischer	1
 Schottland	15
 Schottlands	2
-schoß	212
+schoß	213
 Schoß	59
 Schoße	27
 schraffierten	1
@@ -38621,7 +38810,7 @@ Schraubstock	1
 Schraubstöcke	1
 schraubte	24
 schraubten	5
-Schraut	1722
+Schraut	1724
 Schrauts	25
 Schreck	150
 schrecken	8
@@ -38742,17 +38931,17 @@ Schriftzeichen	13
 Schriftzüge	7
 Schriftzügen	2
 schrill	37
-schrille	15
+schrille	16
 schrillem	2
 schrillen	9
 Schrillen	5
 schriller	15
-schrilles	3
+schrilles	4
 schrillt	1
-schrillte	27
+schrillte	28
 schrillten	1
-schritt	310
-Schritt	357
+schritt	309
+Schritt	358
 Schritte	184
 schritten	155
 Schritten	30
@@ -38832,8 +39021,9 @@ schuldbewußtes	1
 Schuldbewußtsein	2
 schulde	3
 schulden	1
-Schulden	18
+Schulden	19
 schuldenfrei	2
+schuldet	1
 schuldete	1
 schuldeten	2
 schuldig	32
@@ -38948,7 +39138,7 @@ Schwalbe	2
 Schwalben	1
 Schwall	3
 schwamm	32
-schwammen	16
+schwammen	17
 schwammige	1
 schwammigem	3
 schwammigen	2
@@ -39038,7 +39228,7 @@ schweige	11
 Schweigegeld	3
 schweigen	149
 Schweigen	149
-schweigend	73
+schweigend	74
 schweigende	2
 schweigenden	1
 Schweigens	13
@@ -39053,9 +39243,10 @@ schweigst	5
 schweigt	9
 Schwein	3
 Schweine	2
+Schweinerei	1
 Schweinestall	1
 Schweinsleder	1
-Schweinsäuglein	8
+Schweinsäuglein	9
 Schweiz	7
 Schweizer	5
 Schweiß	108
@@ -39095,11 +39286,11 @@ schweren	92
 Schwerenöter	1
 Schwerenötern	1
 schwerer	37
-schwerere	2
+schwerere	3
 schweres	14
 schwerfallen	6
 schwerfällig	24
-schwerfällige	3
+schwerfällige	4
 schwerfälligen	4
 schwerfälliger	2
 schwerhalten	1
@@ -39174,7 +39365,7 @@ schwimmende	16
 schwimmendem	1
 schwimmenden	22
 schwimmendes	3
-Schwimmer	8
+Schwimmer	9
 Schwimmerchens	1
 Schwimmern	1
 schwimmfähiger	1
@@ -39196,7 +39387,7 @@ schwindelst	2
 schwindelt	2
 schwindelte	1
 schwindeltest	1
-schwinden	9
+schwinden	8
 schwindenden	3
 schwindendes	2
 schwindet	1
@@ -39205,7 +39396,7 @@ Schwindlers	1
 schwindlig	1
 schwindsüchtige	1
 Schwindsüchtigen	1
-schwingen	9
+schwingen	10
 Schwingen	3
 schwingt	2
 Schwingungen	2
@@ -39279,7 +39470,7 @@ Schädelbau	1
 Schädelbruch	1
 Schädeldecke	3
 Schädelhaut	1
-Schädelhieb	1
+Schädelhieb	2
 Schädelhiebe	1
 Schädeln	2
 Schädels	1
@@ -39337,7 +39528,7 @@ schäumen	3
 schäumend	5
 schäumende	2
 schäumenden	5
-schäumte	7
+schäumte	8
 schäumten	3
 Schöffengerichtssitzung	1
 schön	84
@@ -39381,16 +39572,16 @@ Schürze	7
 Schürzenjäger	5
 schürzte	1
 Schüsse	165
-Schüssel	24
+Schüssel	25
 schüsselartigen	2
-Schüsseln	6
+Schüsseln	7
 Schüssen	10
 schütte	1
 Schüttelfrost	3
 schütteln	18
 schüttelnd	1
 schüttelt	3
-schüttelte	238
+schüttelte	239
 schüttelten	6
 schütten	2
 schüttete	28
@@ -39463,7 +39654,7 @@ Seegrunde	2
 Seegrundes	1
 Seehelden	1
 Seekarte	13
-Seekarten	4
+Seekarten	5
 Seeklima	1
 seekrank	3
 Seekrankheit	9
@@ -39560,12 +39751,12 @@ Seeverbrechen	3
 Seevogel	1
 Seevogels	1
 Seevögel	7
-Seevögeln	4
+Seevögeln	5
 Seewasser	6
 Seeweg	1
 Seewind	2
 Seezunge	1
-Segel	48
+Segel	49
 Segelboot	16
 Segelbootes	1
 Segelfahrten	1
@@ -39593,7 +39784,7 @@ Segen	3
 segensreich	1
 segensreiche	1
 Segler	51
-Seglermütze	2
+Seglermütze	3
 Seglern	3
 Seglers	11
 segne	1
@@ -39623,7 +39814,7 @@ sehnsüchtiges	1
 sehnt	2
 sehnte	3
 sehnten	1
-sehr	5010
+sehr	5013
 Sehschlitz	3
 Sehschlitze	2
 Sehschärfe	1
@@ -39631,7 +39822,7 @@ seht	7
 Sehträgheit	1
 Sehtäuschung	4
 seh’	1
-sei	1162
+sei	1164
 seid	93
 Seide	65
 Seidenballen	1
@@ -39695,11 +39886,11 @@ Seile	4
 Seiles	1
 Seiltänzer	3
 Seiltänzerin	4
-sein	4960
+sein	4962
 seine	2452
-seinem	961
-seinen	1161
-seiner	1568
+seinem	960
+seinen	1160
+seiner	1569
 seinerseits	29
 seinerzeit	9
 seines	274
@@ -39710,7 +39901,7 @@ seit	645
 seitdem	22
 Seite	599
 seiten	10
-Seiten	133
+Seiten	134
 Seitenanbau	8
 Seitenarm	8
 Seitenarme	2
@@ -39723,7 +39914,7 @@ Seitenflügels	8
 Seitenfront	1
 Seitengang	2
 Seitengange	1
-Seitengasse	8
+Seitengasse	9
 Seitengassen	1
 Seitengebäude	1
 Seitengrotten	2
@@ -39785,9 +39976,9 @@ Sekunden	190
 sekundenlang	16
 sekundenlangen	1
 selbe	12
-selben	141
+selben	140
 selber	12
-selbst	1542
+selbst	1543
 Selbstbeherrschung	2
 selbstbewußt	5
 selbstbewußte	2
@@ -39922,6 +40113,7 @@ Sensationsartikels	1
 Sensationsfälle	1
 Sensationshunger	8
 Sensationslust	6
+sensationslüsterne	1
 Sensationsnachricht	1
 Sensationsroman	2
 Sensationsstück	1
@@ -39951,7 +40143,7 @@ sesselartige	2
 Sesselfüße	3
 Sessellehne	10
 Sessellehnen	4
-Sesseln	23
+Sesseln	24
 Sesselreihe	2
 Sesselreihen	1
 Sessels	9
@@ -39962,7 +40154,7 @@ setzen	149
 Setzen	88
 Setzenden	1
 setzt	28
-setzte	603
+setzte	606
 setzten	209
 setz’	9
 Seuche	4
@@ -39992,7 +40184,7 @@ Siamesen	15
 siamesische	2
 siamesischen	5
 siamesischer	1
-sich	16011
+sich	16018
 sichelartig	2
 sichelförmiges	1
 Sichelklinge	1
@@ -40028,18 +40220,18 @@ Sicherungsflügel	4
 Sicherungshebel	1
 Sichgeben	1
 Sicht	43
-sichtbar	85
+sichtbar	86
 sichtbare	6
 sichtbaren	6
 sichtbarer	1
-sichteten	3
+sichteten	4
 sichtlich	23
 sichtlicher	2
 Sichtweite	2
 sich’s	21
 sickernde	1
-sie	8346
-Sie	19232
+sie	8352
+Sie	19237
 siebartig	1
 Siebe	1
 sieben	258
@@ -40066,7 +40258,7 @@ Sieg	17
 Siege	3
 Siegel	29
 Siegellack	7
-Siegellacktröpfchen	42
+Siegellacktröpfchen	43
 Siegelmarke	2
 Siegeln	4
 Siegelring	1
@@ -40089,7 +40281,7 @@ siegten	1
 sieh	28
 siehe	5
 siehst	72
-sieht	134
+sieht	133
 sieht’s	3
 sieh’	4
 sie’s	16
@@ -40153,7 +40345,7 @@ Simulant	1
 simuliert	4
 simulierten	1
 Sinai	70
-sind	3863
+sind	3865
 sinds	1
 sind’s	35
 Sinfonie	2
@@ -40225,7 +40417,7 @@ Situationen	3
 Sitz	38
 Sitzbrett	11
 sitze	12
-sitzen	156
+sitzen	157
 Sitzen	20
 sitzend	23
 sitzende	6
@@ -40284,7 +40476,7 @@ Sklavenhändlern	1
 Sklavinnen	3
 Skorpionen	1
 Skulpturen	2
-small	113
+small	114
 Smaragd	23
 Smaragde	5
 Smaragden	9
@@ -40294,7 +40486,7 @@ smarten	1
 Smoking	7
 Smokinganzug	1
 Smokinganzüge	2
-so	7972
+so	7976
 sobald	108
 Sockel	23
 Sockels	1
@@ -40339,7 +40531,7 @@ Sohn	187
 Sohne	9
 Sohnes	18
 solange	3
-solch	17
+solch	18
 solche	201
 solchem	10
 solchen	167
@@ -40354,7 +40546,7 @@ soliden	2
 solider	2
 solidere	1
 solides	1
-soll	887
+soll	888
 Soll	71
 solle	180
 sollen	525
@@ -40363,8 +40555,8 @@ sollenden	1
 sollen’s	3
 sollst	28
 sollt	25
-sollte	1212
-sollten	462
+sollte	1213
+sollten	463
 solltest	19
 solltet	4
 sollt’	2
@@ -40384,6 +40576,8 @@ Sommerlaube	2
 Sommermantel	1
 Sommernacht	9
 Sommernächte	1
+Sommerpalast	3
+Sommerpalastes	4
 Sommerquartier	1
 Sommerreise	2
 Sommerresidenz	2
@@ -40427,6 +40621,7 @@ Sonnenbrille	1
 Sonnendach	3
 sonnendurchstrahlten	1
 sonnengebräunt	1
+sonnengebräunter	1
 Sonnenglanz	1
 Sonnenglast	4
 Sonnenglut	4
@@ -40472,7 +40667,7 @@ sonnverbrannter	2
 sonorer	1
 sonst	377
 sonstige	16
-sonstigen	20
+sonstigen	21
 sonstiges	3
 sonstwem	1
 sonstwen	1
@@ -40485,6 +40680,7 @@ sorgen	48
 Sorgen	45
 sorgenbelasteten	1
 sorgende	1
+sorgenden	1
 Sorgenlast	1
 sorgenlos	1
 sorgenlosen	1
@@ -40590,6 +40786,7 @@ Spazierstock	20
 Spazierstockes	2
 Spazierstocks	3
 Spazierstöcke	2
+spazierte	1
 Spaß	36
 spaßen	21
 spaßig	1
@@ -40646,6 +40843,7 @@ Spekulant	1
 Spekulanten	1
 Spekulation	10
 Spekulationen	2
+spekulieren	1
 spekuliert	7
 spekulierte	3
 spekulierten	1
@@ -40658,6 +40856,7 @@ spendete	16
 spendeten	4
 spendiere	1
 spendieren	1
+spendiert	1
 spendierte	3
 Sperling	6
 Sperlinge	2
@@ -40667,6 +40866,7 @@ Sperre	19
 sperren	6
 Sperren	2
 sperrenden	1
+Sperrhaken	1
 Sperriegel	3
 Sperrkette	3
 sperrt	4
@@ -40761,7 +40961,7 @@ Spinngeweben	2
 spinnt	1
 Spinnwebfaden	8
 Spion	116
-Spionage	3
+Spionage	4
 Spionagesystem	1
 Spione	81
 Spionen	19
@@ -40769,6 +40969,7 @@ spionieren	24
 spionierende	1
 spioniert	5
 spionierte	2
+spionierten	1
 Spionin	19
 Spiralen	6
 Spiritismus	15
@@ -40785,7 +40986,8 @@ Spirituskocher	10
 Spirituslampe	1
 Spirituslämpchen	5
 spitz	15
-Spitzbart	81
+Spitzbart	83
+Spitzbartes	1
 Spitzbarts	1
 Spitzbube	13
 Spitzbuben	29
@@ -40794,10 +40996,10 @@ Spitzbärte	2
 Spitzbärten	1
 spitzbärtig	1
 spitzbärtige	1
-Spitzbärtige	3
+Spitzbärtige	4
 Spitzbärtigen	3
 spitze	9
-Spitze	138
+Spitze	139
 Spitzel	3
 spitzem	1
 spitzen	15
@@ -40846,13 +41048,15 @@ Sportjackett	1
 Sportjacketts	2
 Sportjoppe	1
 Sportkostüm	13
+sportlich	1
 sportliche	1
 Sportmantel	2
 Sportmäntel	1
-Sportmütze	27
+Sportmütze	28
 Sportmützen	5
 Sportpaletot	3
 Sportpelz	3
+Sportplatz	1
 Sportrock	2
 Sportrockes	2
 Sportsaison	1
@@ -40884,7 +41088,7 @@ Sprachkenntnisse	10
 sprachkundigen	2
 Sprachlehrer	4
 sprachliches	1
-sprachlos	76
+sprachlos	77
 sprachlose	1
 sprachlosem	1
 Sprachrohr	8
@@ -40983,7 +41187,7 @@ Sprüngen	23
 Spucke	1
 spucken	1
 spuckt	1
-spuckte	7
+spuckte	8
 Spuk	58
 Spukbild	2
 spuke	1
@@ -41013,7 +41217,7 @@ Späne	1
 spärlich	4
 spärliche	6
 spärlichem	1
-spärlichen	7
+spärlichen	8
 spärlicher	1
 spärliches	6
 spät	185
@@ -41081,6 +41285,7 @@ Staatsgeschäfte	1
 Staatskabinen	2
 Staatskajüte	1
 Staatskommisare	1
+Staatsmann	1
 Staatsoberhauptes	1
 Staatspension	1
 Staatspolizei	2
@@ -41139,7 +41344,7 @@ Stadtwald	1
 Staffelei	14
 Staffeleien	1
 staffierte	1
-stahl	63
+stahl	64
 Stahl	5
 Stahlarmbänder	2
 Stahlbrille	3
@@ -41213,7 +41418,7 @@ Stammhalters	1
 Stammkneipe	1
 Stammschloß	2
 Stammsitz	1
-stammt	40
+stammt	41
 stammte	33
 stammten	3
 Stammtisch	7
@@ -41230,7 +41435,7 @@ Standard	23
 Standbild	1
 Standbildern	1
 Stande	9
-standen	770
+standen	772
 Standesbewußtsein	1
 standest	2
 Standesunterschiede	1
@@ -41302,7 +41507,7 @@ Stationsvorsteher	1
 Statisten	2
 statistischen	1
 Stativ	1
-statt	56
+statt	55
 statten	5
 stattet	1
 stattete	1
@@ -41380,7 +41585,7 @@ steckbrieflich	15
 Steckbriefs	1
 Steckdose	1
 stecke	18
-stecken	101
+stecken	102
 Stecken	18
 steckend	2
 steckende	5
@@ -41422,9 +41627,9 @@ stehlen	112
 Stehlen	4
 Stehspiegel	4
 stehst	1
-steht	496
+steht	497
 steht’s	35
-steh’	2
+steh’	3
 steif	17
 steife	4
 steifen	8
@@ -41455,7 +41660,7 @@ steiles	1
 Steilhang	1
 Steilküste	19
 Steilufer	8
-Steilwand	24
+Steilwand	25
 Steilwände	3
 Stein	224
 steinalte	1
@@ -41557,7 +41762,7 @@ Steinzacken	1
 Stellchen	2
 Stelldichein	23
 Stelldicheins	11
-stelle	44
+stelle	43
 Stelle	546
 stellen	134
 Stellen	100
@@ -41565,7 +41770,7 @@ stellend	1
 stellenweise	41
 stellst	6
 stellt	40
-stellte	451
+stellte	453
 stellten	95
 stelltest	1
 Stellung	107
@@ -41633,6 +41838,7 @@ sternenklarer	1
 Sternenlicht	7
 Sternenpracht	2
 Sternenschein	4
+Sternenschimmer	1
 Sternenzelt	1
 sternförmig	1
 Sternhimmel	8
@@ -41648,13 +41854,13 @@ stetes	3
 stetig	6
 stetigen	1
 stetiger	1
-stets	999
+stets	1003
 Stettin	37
 Stettiner	23
 Steuer	100
 Steueramt	1
 Steueraufseher	1
-Steuerbank	3
+Steuerbank	4
 Steuerbord	3
 Steuerbordreling	3
 Steuerbordseite	9
@@ -41745,7 +41951,7 @@ Stiftung	1
 Stiftzähne	1
 Stil	4
 stilechte	1
-still	255
+still	256
 stille	31
 Stille	251
 Stilleben	1
@@ -41767,7 +41973,7 @@ stilvoll	1
 stilvolle	1
 stilvollen	3
 Stimmchen	3
-Stimme	992
+Stimme	993
 stimmen	51
 Stimmen	99
 Stimmengewirr	5
@@ -42047,7 +42253,7 @@ strecken	7
 Strecken	15
 streckenweise	2
 streckt	1
-streckte	126
+streckte	127
 streckten	18
 Street	39
 Streich	114
@@ -42204,7 +42410,7 @@ Sträucher	25
 Sträuchern	24
 Sträußchen	2
 Ströme	4
-strömen	3
+strömen	2
 Strömen	25
 strömende	1
 strömendem	7
@@ -42255,7 +42461,7 @@ Stuhlkante	1
 Stuhllehne	4
 Stulle	1
 Stullen	6
-stumm	165
+stumm	166
 stumme	15
 Stummel	20
 Stummeln	1
@@ -42274,8 +42480,8 @@ stumpfer	4
 Stumpfsinn	3
 stumpfsinnig	6
 Stunde	832
-Stunden	612
-stundenlang	14
+Stunden	613
+stundenlang	15
 stundenlangen	3
 stundenlanges	1
 Stupsnase	3
@@ -42302,7 +42508,7 @@ Stutzer	1
 stutzerhaft	2
 Stutzflügel	4
 stutzig	66
-stutzte	76
+stutzte	77
 stutzten	3
 Stutzuhr	4
 Stäbchen	3
@@ -42344,6 +42550,7 @@ stärkerer	3
 stärkeres	5
 stärkste	2
 stärksten	4
+stärkstes	1
 stärkte	1
 stärkten	6
 Stätte	10
@@ -42372,17 +42579,17 @@ Störenfriede	3
 Störenfrieden	1
 störrisch	1
 stört	9
-störte	23
+störte	24
 störten	3
 Störung	13
 Störungen	2
-Stöße	11
+Stöße	12
 Stößen	7
 stößt	16
 Stübchen	10
 Stübchens	3
 Stück	369
-Stückchen	93
+Stückchen	94
 Stücke	61
 Stücken	11
 Stückes	4
@@ -42415,7 +42622,7 @@ stürzen	14
 stürzende	2
 stürzenden	4
 stürzender	2
-stürzte	52
+stürzte	53
 stürzten	28
 stütze	4
 Stütze	11
@@ -42426,13 +42633,13 @@ stützende	1
 Stützpunkt	1
 Stützpunkte	2
 stützt	4
-stützte	57
+stützte	59
 stützten	5
 Subjekt	7
 Subjekten	1
 suche	33
 Suche	49
-suchen	513
+suchen	514
 Suchen	92
 suchend	18
 suchende	1
@@ -42546,7 +42753,7 @@ Sättel	9
 Sätteln	3
 sättigen	3
 Sättigung	1
-Sätze	146
+Sätze	147
 Sätzen	71
 säuberlich	3
 säubern	5
@@ -42605,6 +42812,7 @@ Südfrankreich	1
 südfranzösischen	1
 Südhange	1
 Südindien	2
+Südindiens	1
 Südküste	12
 südlich	45
 südliche	5
@@ -42640,6 +42848,7 @@ südwestliche	2
 südwestlichem	1
 südwestlichen	3
 südwärts	15
+Südzipfel	1
 südöstlich	13
 südöstlichem	1
 südöstlichen	5
@@ -42664,6 +42873,7 @@ süßlich	6
 süßliche	6
 süßlichen	11
 Tabak	26
+Tabakimport	2
 Tabakpfeife	3
 Tabakpfeifen	2
 Tabakrauch	1
@@ -42725,6 +42935,7 @@ Tageslichtschimmer	2
 Tagesniederschriften	1
 Tagesordnung	1
 Tagespost	5
+Tagesration	1
 Tagesreisen	1
 Tagesritt	8
 Tagesritte	1
@@ -42738,6 +42949,7 @@ tagsüber	9
 tagte	3
 tagweise	1
 Taifun	1
+Taille	3
 Takelung	1
 Takt	3
 Takte	14
@@ -42826,11 +43038,11 @@ Taschenhohlspiegel	1
 Tascheninhalt	4
 Tascheninhalts	1
 Taschenkompaß	2
-Taschenlampe	372
+Taschenlampe	373
 Taschenlampen	96
 Taschenlaterne	6
 Taschenlaternen	2
-Taschenmesser	43
+Taschenmesser	44
 Taschenmesserklinge	1
 Taschenmessern	1
 Taschenmessers	5
@@ -42955,7 +43167,7 @@ Tausendmarkscheine	5
 Tausendmarkscheinen	1
 taute	13
 Tautropfen	3
-Tauwerk	5
+Tauwerk	6
 Taxameter	4
 Taxameterauto	16
 Taxameterautos	2
@@ -42983,14 +43195,14 @@ Teemaschine	4
 Teer	11
 Teeranhäufung	1
 teerbeschmierten	1
-Teestube	9
+Teestube	10
 Teestuben	3
 Teetasse	2
 Teetassen	5
 Teich	19
 Teiche	6
 Teiches	1
-teil	5
+teil	4
 Teil	396
 Teilchen	1
 teile	11
@@ -43022,7 +43234,7 @@ teilte	109
 teilten	8
 teiltest	1
 Teilung	1
-teilweise	32
+teilweise	33
 teilweisen	1
 teilweises	2
 teilzunehmen	2
@@ -43111,7 +43323,7 @@ Tempelraumes	3
 Tempelruine	28
 Tempelruinen	6
 Tempelräume	2
-Tempels	72
+Tempels	73
 Tempelstadt	8
 Tempelteiles	1
 Tempeltänzerinnen	1
@@ -43180,7 +43392,7 @@ Teufels	7
 Teufelskerl	2
 Teufelsweib	1
 Teufelswerkzeugs	1
-Teufelszeug	5
+Teufelszeug	6
 teuflisch	2
 teuflische	4
 teuflischem	6
@@ -43248,7 +43460,7 @@ Tiefen	20
 tiefer	145
 tiefere	9
 tieferen	7
-tieferes	1
+tieferes	2
 tiefernste	1
 Tiefersinken	1
 tiefes	23
@@ -43316,6 +43528,7 @@ Tigerkäfig	4
 Tigern	6
 Tigers	14
 Tigerwagen	4
+tilgen	1
 Tinte	60
 Tintenabdruck	1
 tintenbeklecksten	1
@@ -43326,7 +43539,7 @@ Tintenfleck	39
 Tintenflecks	4
 Tintenklecks	2
 Tintenkuli	1
-Tintenlöscher	33
+Tintenlöscher	34
 Tintenschrift	2
 Tintenspuren	5
 Tintenstift	11
@@ -43406,7 +43619,7 @@ Todesfall	9
 Todesfalles	1
 Todesfolge	1
 Todesfälle	3
-Todesfällen	2
+Todesfällen	3
 Todesgedanken	2
 Todesgrauen	2
 Todeskampf	4
@@ -43492,6 +43705,7 @@ Tonnen	10
 Tonnenwagen	1
 Tonschale	1
 Tonscherben	2
+Tonvase	1
 Tonverstärkers	1
 Topf	20
 Topfe	1
@@ -43698,7 +43912,7 @@ Trauung	3
 Treff	9
 treffe	5
 treffen	105
-treffend	1
+treffend	2
 treffende	1
 treffender	1
 treffendste	1
@@ -43778,10 +43992,10 @@ Trichter	6
 trichterförmig	2
 trichterförmiger	1
 Trichters	1
-Trick	105
+Trick	106
 Trickchen	1
 Tricks	12
-trieb	127
+trieb	126
 Trieb	8
 Triebe	2
 trieben	21
@@ -43876,6 +44090,8 @@ Tropen	6
 Tropendysenterie	1
 Tropenflora	1
 Tropenhelm	20
+Tropenhimmel	3
+Tropenhimmels	1
 Tropenkoller	1
 Tropennacht	10
 Tropensonne	6
@@ -43900,14 +44116,14 @@ Trostloses	1
 trostlosester	2
 trottete	9
 trotteten	1
-trotz	246
-Trotz	33
-trotzdem	137
+trotz	247
+Trotz	34
+trotzdem	138
 trotzig	3
 trotziger	1
 trotzte	1
 Trubel	1
-trug	542
+trug	543
 Trug	9
 Trugbild	2
 trugen	157
@@ -43922,6 +44138,7 @@ Trunke	1
 trunken	4
 Trunkenbold	4
 Trunkenbolde	1
+trunkene	2
 Trunkene	1
 trunkenen	2
 trunkener	4
@@ -44033,7 +44250,7 @@ Tugenhaftigkeit	1
 Tulpen	1
 tummelten	1
 Tumult	4
-tun	701
+tun	702
 Tun	44
 Tunke	1
 tunkte	1
@@ -44127,7 +44344,7 @@ Täterschaft	3
 tätig	36
 tätigen	2
 tätiger	2
-Tätigkeit	48
+Tätigkeit	49
 Tätigkeitsdranges	1
 tätowiert	2
 tätowierte	1
@@ -44169,7 +44386,7 @@ törichter	1
 törichtste	1
 Törin	1
 töte	2
-töten	47
+töten	48
 tötet	8
 tötete	13
 töteten	6
@@ -44195,7 +44412,7 @@ tückischen	8
 tückischer	3
 Tümpel	8
 Tümpels	1
-Tür	1866
+Tür	1867
 Türangel	1
 Türangeln	8
 Türdrücker	12
@@ -44207,6 +44424,7 @@ Türfüllung	20
 Türgelenke	3
 Türgerüst	1
 Türglocke	2
+Türgriff	1
 Türhebel	1
 Türhüter	5
 Türke	2
@@ -44243,7 +44461,7 @@ Türspalte	5
 Türvorhang	13
 Türvorhänge	2
 Türöffner	1
-Türöffnung	28
+Türöffnung	29
 Türöffnungen	6
 Tütchen	6
 Tüte	2
@@ -44286,7 +44504,7 @@ Ulster	26
 Ulsterkragen	3
 Ulsters	3
 Ulstertasche	1
-um	4126
+um	4124
 umarbeitete	1
 umarmt	1
 umarmte	7
@@ -44456,6 +44674,7 @@ umherschlenderte	1
 umherschweifen	5
 umherschwirrten	1
 umherschwärmten	1
+umherspazieren	1
 umherspaziert	1
 umherspritzten	1
 umherspuken	1
@@ -44615,6 +44834,7 @@ umsehe	1
 umsehen	24
 Umsicht	2
 umsichtig	2
+umsichtiger	1
 umsichtigster	1
 umsinken	4
 Umsinken	9
@@ -44715,6 +44935,7 @@ umzugehen	8
 umzugestalten	1
 umzuhängen	3
 umzukehren	5
+umzukippen	1
 umzukleiden	2
 umzukommen	1
 umzukostümieren	1
@@ -44805,7 +45026,7 @@ unbedeutenden	1
 unbedeutender	1
 unbedeutendes	1
 unbedeutendsten	1
-unbedingt	115
+unbedingt	117
 unbedingte	2
 unbedingtem	1
 unbedingtes	1
@@ -44825,6 +45046,7 @@ unbegabter	1
 unbegreiflich	18
 unbegreiflichen	5
 unbegreiflicher	3
+Unbegreifliches	1
 unbegrenztes	1
 unbegründet	5
 Unbehagen	9
@@ -44858,7 +45080,7 @@ unbeleuchteten	1
 unbeliebt	2
 unbeliebten	1
 unbelästigt	17
-unbemerkt	96
+unbemerkt	97
 unbemerkten	1
 unbemittelte	1
 unbenagelte	1
@@ -44926,7 +45148,7 @@ unbotmäßigsten	1
 unbrauchbar	13
 unbrauchbare	1
 unbrauchbarer	1
-und	37180
+und	37184
 Undank	1
 undankbar	5
 Undankbarkeit	2
@@ -44992,7 +45214,7 @@ unergründlich	2
 unerhört	12
 unerhörte	7
 unerhörten	6
-unerhörter	7
+unerhörter	8
 Unerhörtes	2
 unerkannt	17
 unerklärlich	14
@@ -45016,6 +45238,7 @@ unerreichbar	3
 unerreichbaren	1
 unerschöpflichen	2
 unerschütterliche	1
+unerschütterlichen	1
 unerschütterlicher	2
 unerschüttertlicher	1
 unersetzlich	1
@@ -45065,6 +45288,7 @@ Unfähigkeit	2
 Unfälle	3
 unförmig	4
 unförmige	1
+unförmigem	1
 unförmigen	1
 ungangbar	1
 Ungar	14
@@ -45093,7 +45317,7 @@ ungefesselte	1
 ungefähr	48
 ungefährdet	1
 ungefähres	2
-ungefährlich	22
+ungefährlich	23
 ungefährliche	2
 ungefährlichen	2
 ungefährlicher	1
@@ -45221,7 +45445,7 @@ ungezogen	1
 ungezogene	1
 Ungezogenheit	1
 ungezwungen	3
-ungezählte	1
+ungezählte	2
 ungezählten	1
 ungezählter	1
 ungezügeltes	2
@@ -45249,7 +45473,7 @@ Ungläubige	3
 ungläubigem	2
 ungläubigen	6
 ungläubiges	6
-Unglück	56
+Unglück	57
 unglücklich	13
 unglückliche	5
 Unglückliche	4
@@ -45266,6 +45490,7 @@ Unglücksgefährten	1
 Unglücksleuchter	2
 Unglücksnachricht	3
 Unglückstag	1
+Unglückswurm	1
 Ungnade	2
 Ungnaden	2
 ungnädig	1
@@ -45448,7 +45673,7 @@ unruhige	11
 unruhigen	10
 unruhiger	12
 unruhiges	2
-uns	12135
+uns	12152
 unsagbar	2
 unsagbare	1
 unsagbaren	1
@@ -45472,7 +45697,7 @@ Unschuldsaugen	1
 Unschuldsengel	1
 Unschuldslamm	2
 unschwer	48
-unschädlich	96
+unschädlich	97
 unschädliche	1
 unschädlichen	2
 unschädliches	2
@@ -45487,13 +45712,13 @@ unselige	7
 unseligen	5
 unseliger	2
 unseliges	1
-unser	833
+unser	834
 unsere	1315
 unsereiner	7
-unserem	569
+unserem	570
 unseren	574
 unserer	627
-unseres	185
+unseres	186
 unseretwegen	9
 unserm	7
 unsern	17
@@ -45555,7 +45780,7 @@ untadeliger	3
 Untat	5
 Untaten	8
 unten	511
-unter	1595
+unter	1597
 Unteranführer	1
 Unterarm	28
 Unterarme	2
@@ -45579,7 +45804,7 @@ Unterbrechungen	5
 unterbreite	1
 unterbreiten	5
 unterbreitete	2
-unterbringen	14
+unterbringen	15
 Unterbringung	3
 unterbrochen	31
 unterbrochenen	3
@@ -45662,7 +45887,7 @@ unterjochen	1
 Unterkaste	3
 Unterkasten	1
 unterkellert	3
-Unterkiefer	13
+Unterkiefer	14
 Unterkleidern	3
 unterkommen	2
 Unterkommen	8
@@ -45690,7 +45915,7 @@ unterm	7
 untermauert	1
 Untermieter	1
 untermischt	1
-unternahm	18
+unternahm	19
 unternahmen	5
 unternehme	2
 unternehmen	92
@@ -45823,7 +46048,7 @@ Unterzeug	1
 unterzieht	1
 unterzog	2
 unterzogen	1
-unterzubringen	9
+unterzubringen	10
 Untiefe	3
 Untiefen	3
 Untier	7
@@ -45877,6 +46102,7 @@ Unverletzlichkeit	1
 unverletzt	8
 unvermeidlich	4
 unvermeidliche	1
+unvermeidlichen	1
 unvermittelt	83
 unvermittelten	1
 unvermutet	8
@@ -45944,7 +46170,7 @@ unwahrscheinlichsten	1
 unwandelbaren	1
 unwegsamen	1
 unwegsamsten	1
-unweit	137
+unweit	138
 Unwesen	7
 unwesentlich	1
 unwesentliche	1
@@ -46080,7 +46306,7 @@ Urwälder	2
 Urwäldern	3
 usw	3
 Vagabunden	2
-van	110
+van	109
 Vandalismus	2
 Variationen	2
 Varietee	17
@@ -46092,7 +46318,7 @@ Vasallenfürsten	2
 Vasallenstaat	1
 Vasallenstaate	1
 Vasallenstaates	6
-Vase	28
+Vase	29
 Vasen	8
 Vater	472
 Vaterhaus	1
@@ -46164,7 +46390,7 @@ Verandatreppe	8
 Verandatür	4
 Verandatüren	1
 verandaähnlichen	1
-verankert	18
+verankert	19
 verankerte	4
 verankertem	1
 verankerten	6
@@ -46279,14 +46505,14 @@ Verblüffendes	1
 verblüfft	46
 verblüffte	2
 verblüfften	2
-verblüfftes	7
+verblüfftes	8
 Verblüffung	2
 verblühen	1
 verblühten	2
 verbog	1
 verbogen	3
 verbogenen	1
-verborgen	266
+verborgen	267
 verborgene	31
 verborgenen	37
 Verborgenen	3
@@ -46296,7 +46522,7 @@ Verborgenheit	17
 verborgensten	1
 Verbot	4
 Verbote	2
-verboten	135
+verboten	136
 verbotenen	3
 verbotenes	2
 verbrachte	3
@@ -46399,7 +46625,7 @@ Verdachtsgründen	1
 Verdachtsmoment	3
 Verdachtsmomente	7
 verdammt	43
-verdammte	31
+verdammte	32
 verdammten	20
 Verdammten	1
 verdammter	4
@@ -46451,6 +46677,7 @@ verdienten	2
 verdientes	2
 verdingen	1
 verdirbst	2
+verdoppeln	1
 verdoppelt	1
 verdoppelter	1
 Verdoppelung	1
@@ -46708,7 +46935,7 @@ Vergeltungsfeldzug	1
 Vergeltungsgedanken	1
 vergelt’s	2
 vergesse	14
-vergessen	185
+vergessen	187
 Vergessen	12
 vergessene	1
 Vergessenheit	27
@@ -46741,7 +46968,7 @@ vergittert	19
 vergitterte	9
 vergitterten	12
 vergitterter	1
-vergittertes	2
+vergittertes	3
 vergiß	2
 vergißt	22
 vergl	10
@@ -46920,7 +47147,7 @@ verhärtetes	1
 verhöhnen	6
 verhöhnte	3
 Verhöhnung	2
-Verhör	53
+Verhör	55
 Verhöre	3
 verhören	7
 verhört	7
@@ -46932,7 +47159,7 @@ verhüllen	3
 verhüllt	22
 verhüllte	24
 verhülltem	6
-verhüllten	10
+verhüllten	11
 verhüllter	2
 verhülltes	1
 verhüten	23
@@ -46948,6 +47175,7 @@ verjagen	3
 verjagt	5
 verjeut	2
 verjubelt	3
+verjubelten	1
 verjüngt	3
 verkannt	1
 verkanntes	1
@@ -46993,7 +47221,7 @@ verkleidete	53
 verkleideten	29
 verkleideter	16
 verkleidetes	4
-Verkleidung	181
+Verkleidung	183
 Verkleidungen	6
 Verkleidungskunst	3
 Verkleidungskünste	1
@@ -47053,7 +47281,7 @@ verlache	2
 verlachen	1
 verladen	9
 Verladung	1
-Verlag	189
+Verlag	191
 Verlage	7
 Verlagsbuchhändler	2
 Verlagswerbung	4
@@ -47189,6 +47417,7 @@ Verlöbnis	3
 verlöre	2
 verlötet	4
 verlötetem	3
+verlöteten	1
 vermache	2
 vermachen	1
 vermacht	2
@@ -47246,6 +47475,7 @@ vermochten	5
 vermochtest	1
 vermodern	2
 vermoderte	1
+vermoderten	1
 vermummte	2
 vermummten	2
 Vermummten	3
@@ -47283,7 +47513,7 @@ vernachlässigten	2
 vernagelt	5
 vernagelte	1
 vernahm	88
-vernahmen	41
+vernahmen	42
 vernarbte	1
 Vernarbung	1
 vernarrt	2
@@ -47323,11 +47553,11 @@ vernickelten	1
 vernickelter	1
 vernimmt	3
 vernommen	37
-Vernunft	15
+Vernunft	16
 vernäht	1
 vernähte	1
 vernünftig	21
-vernünftige	3
+vernünftige	4
 vernünftigen	2
 vernünftiger	6
 verordne	1
@@ -47411,6 +47641,7 @@ verrohter	1
 verrostet	4
 verrostete	6
 verrostetem	1
+verrosteten	6
 verrosteter	3
 verrostetes	1
 verruchte	2
@@ -47498,7 +47729,7 @@ verschied	4
 verschieden	36
 verschiedenartig	1
 verschiedenartigsten	3
-verschiedene	80
+verschiedene	81
 verschiedenem	3
 verschiedenen	44
 verschiedener	18
@@ -47566,7 +47797,7 @@ verschluckte	17
 verschluckten	1
 verschlungen	5
 verschlungene	1
-verschlungenen	4
+verschlungenen	5
 Verschlusses	1
 Verschluß	19
 Verschlußschrauben	1
@@ -47642,7 +47873,7 @@ verschwiegener	5
 Verschwiegenheit	55
 verschwiegst	1
 verschwinde	8
-verschwinden	240
+verschwinden	241
 Verschwinden	157
 verschwindend	1
 verschwindende	2
@@ -47658,7 +47889,7 @@ verschwommener	2
 verschwommenes	2
 Verschworenen	3
 verschwunden	501
-verschwundene	34
+verschwundene	35
 verschwundenen	20
 verschwände	2
 verschwänden	2
@@ -47690,7 +47921,7 @@ versenkbar	1
 versenkbare	1
 versenkbaren	1
 versenke	1
-versenken	18
+versenken	19
 Versenken	2
 versenkt	33
 versenkte	5
@@ -47782,6 +48013,7 @@ verstandest	2
 Verstandskasten	1
 verstarb	4
 verstarben	1
+verstaubten	2
 verstaucht	1
 verstauen	4
 verstaut	8
@@ -47957,7 +48189,7 @@ verteufelten	3
 verteufelter	1
 vertieft	2
 vertiefte	7
-vertieften	5
+vertieften	6
 Vertiefung	15
 Vertiefungen	7
 vertierten	1
@@ -48093,6 +48325,7 @@ verwandelt	49
 verwandelte	24
 verwandelten	18
 Verwandlung	6
+Verwandlungen	1
 Verwandlungsfähigkeit	2
 Verwandlungskünstler	20
 Verwandlungskünstlerin	2
@@ -48298,7 +48531,7 @@ verzücktem	1
 verzückten	1
 Verzückter	1
 Verzückung	2
-verächtlich	26
+verächtlich	27
 verächtliche	1
 verächtlichen	4
 verächtliches	2
@@ -48401,7 +48634,7 @@ Vielgestaltigkeit	4
 vielgestaltigste	1
 vielgesuchte	4
 vielgesuchter	3
-vielleicht	1327
+vielleicht	1328
 vielmals	12
 vielmehr	47
 vielsagend	44
@@ -48416,6 +48649,7 @@ vielseitiger	4
 vielseitiges	2
 Vielseitigkeit	12
 vielseitigsten	1
+vielstimmigen	1
 vielstimmiger	1
 vielverheißend	2
 vielverheißenden	2
@@ -48501,7 +48735,7 @@ Vipern	1
 Virtuosen	26
 Virtuosität	2
 Visage	4
-Visier	1
+Visier	2
 visiert	1
 Vision	5
 Visionen	2
@@ -48540,6 +48774,7 @@ Volkskreise	1
 Volkslied	2
 Volkslieder	2
 Volksmund	2
+Volksmunde	1
 Volksschichten	9
 Volksstamm	3
 Volksstimme	1
@@ -48589,7 +48824,7 @@ vollgestopft	2
 vollgültige	1
 volljährig	1
 vollkommen	55
-vollkommene	2
+vollkommene	3
 vollkommenen	4
 vollkommener	3
 vollkommenes	1
@@ -48616,8 +48851,8 @@ vollziehen	3
 vollziehenden	1
 vollzogen	5
 vollzählig	4
-vom	1144
-von	12444
+vom	1143
+von	12448
 voneinander	14
 vonseiten	2
 vonstatten	2
@@ -48636,6 +48871,7 @@ voranging	1
 vorangingen	1
 vorankletterte	1
 voranschob	1
+voranzugehen	1
 Vorarbeiter	2
 voraus	138
 vorausahnen	1
@@ -48689,7 +48925,7 @@ Vorbedacht	2
 Vorbedeutung	2
 Vorbedingungen	1
 Vorbehalt	3
-vorbehalten	114
+vorbehalten	115
 vorbei	97
 vorbeidrängen	2
 vorbeidrängte	1
@@ -48779,7 +49015,7 @@ Vorderhaus	3
 Vorderhause	3
 Vorderhauses	1
 Vorderindien	10
-Vorderindiens	21
+Vorderindiens	23
 Vorderladeflinte	1
 Vorderladepistole	1
 Vorderladerflinten	2
@@ -48919,6 +49155,7 @@ Vorgeschmack	3
 vorgeschnellt	3
 vorgeschoben	14
 vorgeschobenen	1
+vorgeschossen	1
 vorgeschrieben	7
 vorgeschriebenen	2
 vorgeschritten	4
@@ -48988,7 +49225,7 @@ vorheriges	1
 Vorhersage	2
 vorhersagen	2
 vorhielt	3
-vorhin	478
+vorhin	479
 Vorhof	1
 vorhält	2
 Vorhänge	107
@@ -49019,7 +49256,7 @@ vorlag	6
 Vorlage	109
 Vorland	1
 Vorlande	1
-vorlas	9
+vorlas	10
 vorlaut	1
 vorlauten	1
 Vorleben	2
@@ -49104,7 +49341,7 @@ Vorratskasten	1
 Vorratsraum	7
 Vorratsraums	1
 Vorratsräume	1
-Vorraum	29
+Vorraum	32
 Vorraumes	2
 Vorrecht	3
 Vorrechte	2
@@ -49123,7 +49360,7 @@ vorschaut	1
 Vorschein	86
 Vorschieben	1
 vorschiebt	2
-Vorschiff	49
+Vorschiff	50
 Vorschiffes	2
 Vorschiffkammer	3
 Vorschiffs	1
@@ -49219,7 +49456,7 @@ vortrugen	1
 Vorträge	2
 Vorträgen	1
 vortäusche	1
-vortäuschen	18
+vortäuschen	19
 vortäuschend	1
 vortäuschte	7
 Vortäuschung	3
@@ -49245,7 +49482,7 @@ vorwurfsvoll	5
 vorwurfsvolles	2
 Vorwände	1
 Vorwänden	1
-vorwärts	173
+vorwärts	174
 vorwärtsbewegenden	1
 vorwärtsbewegt	2
 vorwärtsbewegte	1
@@ -49439,7 +49676,7 @@ Waden	4
 Wadenkrämpfe	4
 Wadi	19
 Waffe	216
-Waffen	87
+Waffen	88
 Waffenhändler	3
 Waffenhändlern	1
 Waffenhändlers	1
@@ -49510,7 +49747,7 @@ Wahnwitz	6
 wahnwitzig	2
 wahnwitzige	12
 wahnwitzigem	2
-wahnwitzigen	12
+wahnwitzigen	13
 wahnwitziger	3
 wahnwitziges	4
 wahr	363
@@ -49546,7 +49783,7 @@ Wahrsager	1
 Wahrsagerei	1
 Wahrsagerin	7
 wahrsagte	1
-wahrscheinlich	264
+wahrscheinlich	265
 wahrscheinliche	2
 Wahrscheinliche	1
 wahrscheinlicher	7
@@ -49592,7 +49829,7 @@ Walkürengestalt	1
 Wall	5
 wallende	1
 wallenden	3
-Wallfahrer	1
+Wallfahrer	2
 wallfahrten	2
 Wallfahrtsorte	3
 Wallfahrtstätte	1
@@ -49603,7 +49840,7 @@ Walnußbaum	3
 Walnüsse	2
 Walnüssen	1
 walroßähnliche	1
-Walther	107
+Walther	108
 Walzer	19
 Walzermusik	3
 Walzertakte	2
@@ -49676,15 +49913,15 @@ wann	89
 Wanne	10
 Wannsee	64
 Wannseer	1
-Wannsees	29
+Wannsees	30
 Wanze	3
 Wappen	9
 wappnen	1
-war	16448
+war	16450
 warb	3
 ward	55
 Ware	10
-waren	4165
+waren	4167
 Waren	80
 Warenballen	2
 Warenhaus	4
@@ -49697,9 +49934,10 @@ Warenproben	3
 Warenschein	2
 Warenschmuggel	2
 Warenspeicher	3
+Warenspeichern	1
 Warenstapeln	1
 Warentische	1
-waren’s	36
+waren’s	37
 warf	597
 warfen	61
 warm	33
@@ -49743,7 +49981,7 @@ wart	5
 warte	22
 Wartehalle	4
 warten	221
-Warten	109
+Warten	108
 wartend	1
 wartende	8
 wartenden	5
@@ -49761,11 +49999,12 @@ Wartezimmer	8
 Wartung	1
 warum	22
 Warze	3
-war’s	383
-was	3159
+war’s	385
+was	3163
 waschbar	1
 Waschbecken	2
 Waschbeckens	1
+wasche	1
 waschechten	3
 waschechter	6
 waschen	4
@@ -49782,7 +50021,7 @@ Waschtisch	27
 Waschtisches	2
 Waschungen	2
 Waschwasser	1
-Wasser	527
+Wasser	530
 wasserarmer	1
 Wasserbassins	1
 Wasserbecken	6
@@ -49840,6 +50079,7 @@ wasserspeienden	1
 Wasserspeier	2
 Wasserspiegel	10
 Wasserspritzern	1
+Wasserstand	1
 Wasserstandsgläser	1
 Wasserstrahl	4
 Wasserstrahlen	10
@@ -49899,7 +50139,7 @@ weckte	63
 weckten	10
 Weckuhr	3
 Wedeln	1
-weder	123
+weder	122
 weg	334
 Weg	422
 wegbleiben	2
@@ -49992,6 +50232,7 @@ wegrücken	1
 wegrühren	1
 Wegs	2
 wegsacken	4
+wegsackt	1
 wegsackte	2
 wegschaffe	1
 wegschaffen	10
@@ -50016,6 +50257,7 @@ wegwarf	6
 wegwaschen	1
 wegwehend	1
 Wegweiser	8
+Wegweisern	2
 wegwerfen	8
 wegwerfend	6
 wegwerfende	1
@@ -50056,8 +50298,9 @@ Wehrlosigkeit	1
 Wehrlosmachung	1
 wehrt	3
 wehrte	52
-wehrten	4
+wehrten	5
 weht	3
+wehtaten	2
 wehte	26
 wehten	4
 Weib	580
@@ -50080,7 +50323,7 @@ Weiberröcke	4
 Weiberröcken	2
 Weiberseufzer	1
 Weibertracht	1
-Weibes	85
+Weibes	86
 Weibesnatur	1
 weibisch	1
 Weiblein	14
@@ -50091,7 +50334,7 @@ weiblichem	2
 weiblichen	20
 weiblicher	9
 weibliches	5
-Weiblichkeit	4
+Weiblichkeit	5
 weich	27
 weiche	44
 weichem	1
@@ -50145,7 +50388,7 @@ weihten	2
 weil	723
 weiland	1
 weile	7
-Weile	493
+Weile	494
 weilen	17
 weilende	1
 weilt	34
@@ -50210,7 +50453,7 @@ weite	51
 Weite	26
 weitem	56
 weiten	73
-weiter	2042
+weiter	2043
 weiterbauen	1
 weiterbringen	1
 weiterbringt	1
@@ -50276,6 +50519,7 @@ weitersagen	1
 weiterschob	2
 weiterschritt	1
 weiterschritten	1
+weiterschwimmen	1
 weitersetzte	1
 weiterspielen	3
 weitersprach	2
@@ -50379,9 +50623,9 @@ wellige	2
 welligem	1
 welligen	1
 welliges	1
-Welt	255
+Welt	256
 weltabgeschieden	1
-weltabgeschiedenen	1
+weltabgeschiedenen	2
 Weltabgeschiedenheit	1
 Weltalls	2
 weltbekannt	2
@@ -50452,19 +50696,19 @@ weniges	2
 Wenigkeit	5
 wenigsten	5
 wenigstens	168
-wenn	1811
+wenn	1812
 wenn’s	22
 wer	567
 Werbung	2
 werde	1238
-werden	3663
+werden	3666
 Werden	25
 werdend	9
 werdende	2
 werdendem	2
 werdenden	4
 werdender	2
-werden’s	10
+werden’s	11
 werdet	57
 werd’	7
 werfe	7
@@ -50673,8 +50917,8 @@ Widersprechen	1
 widerspricht	3
 widersprochen	2
 Widerspruch	17
-widerspruchsvoll	7
-widerspruchsvollen	5
+widerspruchsvoll	8
+widerspruchsvollen	6
 widerspruchsvoller	1
 widerspruchsvollsten	1
 Widersprüche	20
@@ -50718,7 +50962,7 @@ Wiederbelebungsversuche	3
 Wiederbeschaffung	2
 wiedereinfinden	2
 wiedererhalten	1
-wiedererkannt	31
+wiedererkannt	32
 wiedererkannte	4
 wiedererkannten	2
 wiedererkenne	2
@@ -50741,7 +50985,7 @@ wiedergebe	1
 wiedergeben	35
 wiedergebend	1
 wiedergebenden	1
-wiedergefunden	9
+wiedergefunden	10
 wiedergefundenen	1
 wiedergegeben	16
 wiedergeliebt	1
@@ -50783,11 +51027,11 @@ Wiedervereinigung	2
 wiederverschaffen	2
 wiederzuerkennen	8
 wiederzuerlangen	5
-wiederzufinden	12
+wiederzufinden	13
 wiederzugeben	4
 wiederzugebende	1
 wiederzukehren	1
-wiederzusehen	22
+wiederzusehen	23
 wiege	5
 Wiege	3
 wiegen	12
@@ -50861,7 +51105,7 @@ Willens	3
 Willensanstrengung	1
 Willensbeeinflussung	2
 Willenskonzentration	1
-Willenskraft	8
+Willenskraft	9
 willensschwach	1
 willensschwache	1
 willensschwacher	1
@@ -50871,6 +51115,7 @@ willigen	1
 willkommen	33
 willkommene	2
 willkommener	1
+Willkür	2
 willkürlich	8
 willkürliche	2
 willst	74
@@ -50921,6 +51166,7 @@ Winkel	67
 winkeligen	1
 Winkeln	1
 winken	1
+winkend	1
 winklige	2
 winkligen	2
 Winksignale	1
@@ -50944,7 +51190,7 @@ Winterluft	1
 Winterstürme	1
 Winzerstuben	1
 winzig	5
-winzige	68
+winzige	69
 winzigen	58
 winziger	11
 winziges	34
@@ -50954,7 +51200,7 @@ Wipfel	2
 Wipfeln	3
 wippende	1
 wippte	8
-wir	12685
+wir	12686
 Wirbel	7
 Wirbelknochen	1
 wirbelte	3
@@ -50977,7 +51223,7 @@ wirksam	2
 wirksame	2
 wirksamer	2
 wirkt	31
-wirkte	151
+wirkte	152
 wirkten	27
 Wirkung	60
 Wirkungen	10
@@ -51021,7 +51267,7 @@ wischten	1
 wisperte	1
 wisse	20
 wissen	861
-Wissen	115
+Wissen	116
 Wissens	3
 Wissenschaft	13
 Wissenschaften	1
@@ -51059,7 +51305,7 @@ witziger	2
 witzigsten	1
 Wißbegierde	1
 wißt	9
-wo	2088
+wo	2089
 woanders	1
 wobei	115
 Woche	104
@@ -51149,7 +51395,7 @@ Wohnbaracke	2
 Wohnboot	6
 Wohnbooten	1
 wohne	60
-wohnen	111
+wohnen	112
 wohnende	5
 wohnenden	11
 wohnendes	1
@@ -51236,8 +51482,8 @@ Wollmütze	1
 Wollstoff	2
 Wollstoffaser	1
 wollt	18
-wollte	2048
-wollten	580
+wollte	2050
+wollten	583
 wolltest	32
 wolltet	8
 wollt’	2
@@ -51281,7 +51527,8 @@ wovon	7
 wovor	2
 wozu	60
 wo’s	1
-Wrack	70
+Wrack	73
+wracke	5
 wracken	5
 Wracks	17
 Wucherer	10
@@ -51316,6 +51563,7 @@ wunderbarem	1
 wunderbaren	7
 wunderbarer	3
 wunderbarste	1
+wunderbringende	1
 Wunderderwisches	1
 wundere	13
 Wunderelefant	4
@@ -51351,6 +51599,7 @@ Wundertieres	3
 Wundertäter	1
 wundertätig	2
 wundertätige	1
+wundertätigen	1
 wundertätiges	2
 Wunderviehs	1
 wundervoll	13
@@ -51373,7 +51622,7 @@ Wundstarrkrampfbazillen	1
 Wunsch	139
 Wunsche	8
 wurde	2654
-wurden	670
+wurden	671
 wurden’s	1
 wurdest	5
 wurdet	3
@@ -51422,11 +51671,11 @@ wußtet	1
 wächserne	1
 wächsernen	5
 wächst	7
-Wächter	123
+Wächter	124
 Wächterin	3
 Wächtern	3
 Wächterrolle	1
-Wächters	6
+Wächters	7
 Wägelchen	21
 wähle	1
 wählen	20
@@ -51437,7 +51686,7 @@ wählte	22
 wählten	7
 wähnen	3
 wähnt	2
-wähnte	7
+wähnte	6
 wähnten	3
 währen	1
 während	455
@@ -51455,7 +51704,7 @@ wälzt	1
 wälzte	9
 Wände	84
 Wänden	58
-wär	4
+wär	2
 wäre	1079
 wären	245
 wärest	14
@@ -51550,7 +51799,7 @@ würzigen	1
 würziger	1
 wüst	4
 wüste	2
-Wüste	147
+Wüste	148
 Wüsten	6
 Wüstenei	1
 Wüsteneien	2
@@ -51567,6 +51816,7 @@ Wüstensträucher	1
 Wüstenwindes	1
 wüster	4
 wüstes	4
+wüstesten	1
 Wüstling	1
 wüte	1
 wütend	72
@@ -51620,6 +51870,7 @@ zahlten	12
 Zahlung	6
 zahlungsfähig	1
 zahlungsfähigen	1
+Zahlungsverpflichtungen	1
 zahm	13
 zahme	15
 zahmen	16
@@ -51730,7 +51981,7 @@ Zehntausendmarkscheinen	1
 zehnte	4
 Zehntel	1
 zehnten	5
-Zeichen	140
+Zeichen	139
 Zeichenapparat	1
 Zeichendeuter	3
 Zeichenpapier	1
@@ -51765,7 +52016,7 @@ zeigt	75
 zeigte	515
 zeigten	93
 zeig’	1
-Zeile	29
+Zeile	28
 Zeilen	73
 Zeilenanzahl	1
 Zeilenhöhe	1
@@ -51829,7 +52080,7 @@ zeitweiliger	1
 zeitweise	20
 zeitweisen	1
 zeitweiser	1
-Zelle	149
+Zelle	150
 Zellen	13
 Zellengenossen	1
 Zellentür	10
@@ -51919,6 +52170,7 @@ zerfetzten	7
 zerfetztes	2
 zerflatternde	1
 zerflatternden	1
+zerflattert	1
 zerflatterte	2
 zerflatterten	3
 zerfleischen	1
@@ -52007,7 +52259,7 @@ zerrütteten	1
 Zerrüttung	1
 zerschellen	1
 zerschellt	3
-zerschellte	5
+zerschellte	6
 zerschellten	1
 zerschießt	1
 zerschlagen	11
@@ -52027,7 +52279,7 @@ zerschneide	1
 zerschneiden	7
 zerschneidet	1
 zerschnitt	18
-zerschnitten	21
+zerschnitten	22
 zerschnittene	2
 zerschnittenen	3
 zerschossen	6
@@ -52143,7 +52395,7 @@ ziehende	1
 ziehenden	1
 ziehender	2
 Ziehharmonika	6
-zieht	52
+zieht	51
 zieh’	6
 Ziel	118
 zielbewußt	2
@@ -52178,6 +52430,7 @@ zierlicher	8
 zierliches	3
 Zierlichkeit	3
 Zierstück	1
+Zierstücke	1
 ziert	1
 zierte	4
 zierten	3
@@ -52194,12 +52447,13 @@ Zigarettenbehälter	1
 Zigarettendieb	1
 Zigarettendose	8
 Zigarettenduft	2
-Zigarettenetui	82
+Zigarettenetui	84
 Zigarettenetuis	2
 Zigarettenfabrik	1
 Zigarettenhunger	1
 Zigarettenkasten	4
 Zigarettenkistchen	1
+Zigarettenliebhabers	1
 Zigarettenmundstücke	1
 Zigarettenpapier	9
 Zigarettenpäckchen	5
@@ -52276,12 +52530,14 @@ Zinkblech	9
 Zinkblecheinsatz	1
 Zinkblechrinne	1
 Zinkboot	3
+Zinkboote	1
 Zinkdraht	1
 Zinkeinsatz	3
 Zinkeinsatzes	1
 Zinkrinne	3
-Zinksarg	20
+Zinksarg	21
 Zinksarge	6
+Zinksarges	2
 Zinkwanne	1
 Zinn	2
 Zinnbecher	1
@@ -52376,7 +52632,7 @@ zotteliger	3
 Zotteln	1
 zottigen	2
 zottiger	1
-zu	18970
+zu	18972
 zuarbeitete	1
 Zubehör	3
 Zubehörteil	1
@@ -52397,7 +52653,7 @@ Zuchthäusern	3
 Zuchthäusler	39
 zucken	12
 Zucken	7
-zuckend	4
+zuckend	3
 zuckenden	8
 Zucker	1
 Zuckerbrot	1
@@ -52407,7 +52663,7 @@ Zuckerrohr	2
 Zuckerstückchen	2
 zuckst	1
 zuckt	2
-zuckte	213
+zuckte	214
 zuckten	21
 Zuckungen	6
 Zudeck	5
@@ -52440,7 +52696,7 @@ zuflohen	1
 zufloß	1
 Zuflucht	10
 Zufluchtsort	3
-Zufluchtsstätte	2
+Zufluchtsstätte	3
 zuflutenden	1
 zuflutete	1
 zuflüstern	7
@@ -52632,6 +52888,7 @@ zuhielt	5
 zuhielten	1
 Zuhilfenahme	1
 zuhuschte	2
+zuhält	1
 Zuhörer	7
 Zuhörerin	2
 Zuhörern	2
@@ -52698,7 +52955,7 @@ zunähen	1
 zupacken	3
 zupackt	1
 zupfte	10
-zur	1724
+zur	1725
 zurannte	1
 zuraste	1
 zuraunen	2
@@ -52741,7 +52998,7 @@ Zuruf	16
 Zurufe	6
 zurufen	9
 zurzeit	8
-zurück	1658
+zurück	1661
 zurückbegeben	3
 zurückbegleiten	1
 zurückbehalten	3
@@ -52749,6 +53006,7 @@ zurückbekommen	2
 zurückbiegen	1
 zurückbiegend	1
 zurückbleiben	12
+zurückbleibenden	1
 zurückbleibt	1
 zurückblickte	2
 zurückblieb	3
@@ -52801,10 +53059,11 @@ zurückgehaltenen	1
 zurückgehen	1
 zurückgeholt	4
 zurückgekauft	1
-zurückgekehrt	103
+zurückgekehrt	104
 zurückgekehrten	1
 zurückgeklappt	1
 zurückgekämmtes	1
+zurückgelangen	1
 zurückgelangten	1
 zurückgelassen	63
 zurückgelaufen	1
@@ -53082,7 +53341,7 @@ zusammengerollt	2
 zusammengerollte	2
 zusammengerollten	5
 zusammengerollter	5
-zusammengerolltes	3
+zusammengerolltes	4
 zusammengescharrt	1
 zusammengeschlagene	1
 zusammengeschlagenen	2
@@ -53119,7 +53378,7 @@ Zusammenhangs	1
 zusammenhielt	1
 zusammenhielten	1
 zusammenhing	21
-zusammenhingen	8
+zusammenhingen	9
 Zusammenhänge	27
 zusammenhängen	13
 Zusammenhängen	3
@@ -53138,7 +53397,7 @@ zusammenknoten	1
 zusammenknüllte	1
 zusammenkommen	1
 zusammenkrümmen	1
-Zusammenkunft	10
+Zusammenkunft	11
 Zusammenkünfte	4
 Zusammenleben	1
 zusammenlegbare	2
@@ -53236,7 +53495,7 @@ zuschreien	1
 zuschreiten	1
 zuschrieb	2
 Zuschriften	2
-zuschritt	18
+zuschritt	19
 zuschritten	19
 zuschulden	1
 zuschwimmen	1
@@ -53340,7 +53599,7 @@ zuwanderten	4
 zuwandte	6
 zuwarf	6
 zuwehte	1
-zuweilen	117
+zuweilen	118
 zuwenden	2
 zuwerfen	7
 zuwider	6
@@ -53385,7 +53644,7 @@ zwang	58
 Zwang	15
 Zwange	6
 zwangen	18
-zwanglos	52
+zwanglos	53
 zwanglose	8
 zwanglosem	1
 zwanglosen	8
@@ -53411,7 +53670,7 @@ Zwanzigpfundnote	4
 Zwanzigstel	1
 zwanzigsten	1
 zwar	339
-Zweck	241
+Zweck	242
 zweckdienlich	5
 Zwecke	46
 Zwecken	16
@@ -53453,7 +53712,7 @@ zweifelndem	1
 zweifelnden	3
 zweifelndes	7
 Zweifels	1
-zweifelsfrei	4
+zweifelsfrei	5
 zweifelst	1
 zweifelt	1
 zweifelte	27
@@ -53559,7 +53818,7 @@ Zwirn	2
 Zwirnfaden	5
 Zwirnhandschuh	2
 Zwirnhandschuhe	2
-zwischen	779
+zwischen	780
 Zwischenbemerkung	4
 Zwischenbemerkungen	1
 Zwischenbrett	1
@@ -53605,6 +53864,7 @@ Zypressen	4
 Zypressenallee	1
 Zypressenhain	1
 zäh	7
+zähe	1
 zähen	2
 zäher	1
 Zähigkeit	1
@@ -53718,6 +53978,7 @@ zürnen	2
 Ältesten	3
 ältester	4
 ältlichen	2
+ändere	1
 ändern	27
 änderst	1
 ändert	11
@@ -53744,6 +54005,7 @@ zürnen	2
 ärgerliche	9
 ärgerlichen	3
 ärgerlicher	2
+ärgerliches	2
 ärgern	7
 Ärgernis	1
 Ärgers	2
@@ -53803,7 +54065,7 @@ zürnen	2
 äußertest	1
 Äußerung	40
 Äußerungen	16
-Äxten	2
+Äxten	3
 öde	5
 öden	10
 ödesten	3
@@ -53821,7 +54083,7 @@ zürnen	2
 öffnet	17
 öffnete	474
 öffneten	38
-Öffnung	89
+Öffnung	91
 Öffnungen	12
 öfter	2
 öfteren	42
@@ -53843,7 +54105,7 @@ zürnen	2
 Ölkanne	3
 Ölkannen	1
 Öllampe	6
-Öllampen	6
+Öllampen	7
 Öllaterne	2
 Ölmänteln	1
 Ölpapier	2
@@ -53944,8 +54206,8 @@ zürnen	2
 überelegant	1
 überfahren	9
 Überfahrt	19
-Überfall	114
-überfallen	92
+Überfall	120
+überfallen	93
 überfallenen	1
 Überfalles	7
 Überfalls	3
@@ -54072,7 +54334,7 @@ zürnen	2
 überlasse	9
 überlassen	61
 überlaufen	1
-überlaut	16
+überlaut	17
 überlaute	4
 überlautem	1
 überlauten	5
@@ -54176,7 +54438,7 @@ zürnen	2
 überrannt	4
 überrannte	4
 überraschen	22
-überraschend	44
+überraschend	45
 überraschende	9
 Überraschende	2
 überraschendem	1
@@ -54188,7 +54450,7 @@ zürnen	2
 Überraschten	9
 überraschter	2
 überraschtes	5
-Überraschung	172
+Überraschung	174
 Überraschungen	45
 überreden	3
 überredendem	4
@@ -54201,7 +54463,7 @@ zürnen	2
 überreichen	8
 überreiches	1
 überreichlich	1
-überreicht	2
+überreicht	3
 überreichte	12
 überreichten	2
 überreizt	2
@@ -54217,11 +54479,12 @@ zürnen	2
 Überröcke	1
 übers	6
 übersahen	3
+überschattet	1
 überschaue	2
 überschauen	21
 überschaute	8
 überschlank	2
-überschlanke	1
+überschlanke	2
 überschlanker	1
 überschlau	1
 überschlaue	1
@@ -54236,10 +54499,12 @@ zürnen	2
 überschuldetes	1
 überschwemmt	4
 überschwemmte	1
+Überschwemmung	1
 überschwenglichen	2
 überschätzen	2
 überschätzt	3
 überschäumende	1
+überschüssige	1
 überschüttet	3
 überseeischen	3
 übersehe	1
