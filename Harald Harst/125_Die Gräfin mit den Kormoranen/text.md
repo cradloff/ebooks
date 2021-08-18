@@ -64,7 +64,7 @@ Erdgeschoß rechts, — Uhren en groß, wie auf dem Holzschild
 über dem winzigen Schaufenster zu lesen war.
 
 Als ich Rubensteins Laden betrat, bot sich mir ein
-Überraschendes Bild dar …
+überraschendes Bild dar …
 
 Moses Rubenstein lag hinter dem Ladentisch leichenblaß,
 die große Nase mit feinen Schweißperlen besät, im
@@ -74,9 +74,9 @@ Seine weißen Haupthaare hingen ihm wirr in die
 Stirn. Der Mund stand inmitten des ebenfalls schlohweißen
 Bartwaldes weit offen …
 
-Die Augen starrten zur Decke empor, und Über den
+Die Augen starrten zur Decke empor, und über den
 buschigen weißen Augenbrauen saß die goldene Brille auf
-der ebenfalls schweißfeuchten Stirn, —
+der ebenfalls schweißfeuchten Stirn. —
 
 Ich rief den Alten an …
 
@@ -205,7 +205,7 @@ ihr Aussehen, betonte, daß sie rötlich-braune Haare habe
 und am linken kleinen Finger einen echt ägyptischen
 Skarabäuskäfer in Platin gefaßt als Amulett trage …«
 
-bisher hatte mich der Diebstahl nicht sonderlich interessiert.
+Bisher hatte mich der Diebstahl nicht sonderlich interessiert.
 Kriminalfälle, die eine so einfache Vorgeschichte
 haben, hat Harald stets als »Notbehelf« bezeichnet, das
 heißt, wir nahmen solche Mandate zwar an, aber nur, weil
@@ -366,11 +366,11 @@ einen Ring verkaufen … Wir sind … pleite …«
 »Das sind jetzt die meisten …«
 
 Und er ging zum Tresor, holte aus einem Geheimfach
-Drei Päckchen Dollarscheine und gab sie mir …
+drei Päckchen Dollarscheine und gab sie mir …
 
 »Danke, Freund Rubenstein … — Jetzt beginnt die
 Jagd. Zuerst fahre ich nach der Blücherstraße 10 zu uns
-Hinaus, spreche mit Harald über den Fall und dann — an
+hinaus, spreche mit Harald über den Fall und dann — an
 die Arbeit! — Leben Sie wohl …«
 
 Er blickte mich traurig an …
@@ -544,14 +544,14 @@ Seidenpapier lagen …!
 Aber: Irrtum!! Großer Irrtum: *Sie waren
 darin!!*
 
-kaum hatte ich’s festgestellt, als ich auch schon davonschoß
+Kaum hatte ich’s festgestellt, als ich auch schon davonschoß
 …
 
 Zur Bahnhofswache …
 
 In die Stube hinein …
 
-»Schraut mein Name!« rief ich
+»Schraut mein Name!« rief ich.
 
 Da stand der Italiener, wurde gerade durchsucht …
 
@@ -611,7 +611,7 @@ dem Italiener beobachtet hatte, *nicht* die Holländerin sein!
 Wir drei, Krüger, Harst und ich, schauten uns verdutzt
 an.
 
-Wir waren mit unserem Latein so ziemlich fertig,
+Wir waren mit unserem Latein so ziemlich fertig.
 Denn: die Graue war doch hier aus dem Haus Nr. 16 herausgekommen
 und — war doch nicht Frau Jiesport! —
 
@@ -938,7 +938,7 @@ Waren so ein Mittelding zwischen Pennbruder und
 Zuhälter — mit tadellosen Masken, in denen wir uns selbst
 kaum wieder erkannten.
 
-wollten nur feststellen, ob unser Haus beobachtet
+Wollten nur feststellen, ob unser Haus beobachtet
 würde, denn Harald behauptete, daß der Mord und alles
 andere das Werk einer ganzen internationalen Verbrecherbande
 sei. —
@@ -1048,7 +1048,7 @@ Und ich flüsterte:
 Ich dachte nach …
 
 Und — da fiel mir das ein, was der arme Moses mir
-Über den Vogelgeruch berichtet hatte …
+über den Vogelgeruch berichtet hatte …
 
 Kein Wunder daß ich noch näher an Harald heranrückte
 …
@@ -1211,7 +1211,7 @@ Sie uns zusammen mit dem weißhaarigen Bettler.«
 
 Wir wurden wieder in das Lastauto gebracht, das
 unseretwegen Halt gemacht hatte. Wir standen wieder
-Neben dem Alten, der uns mit heiserer Stimme zuflüsterte:
+neben dem Alten, der uns mit heiserer Stimme zuflüsterte:
 
 »Dumm war das von Euch! Verdammt dumm!«
 
@@ -1219,7 +1219,7 @@ Hm — das Deutsch klang reichlich merkwürdig …!
 
 Und — das, was der Alte hinzufügte, noch merkwürdiger:
 
-»Habt Ihr denn so was Schlimmes begangen? jetzt
+»Habt Ihr denn so was Schlimmes begangen? Jetzt
 werden die Beamten Euch noch schärfer auf’s Korn
 nehmen! Dumm war das! Aber fixe Kerle scheint Ihr
 doch zu sein. Falls Ihr freikommt, erkundigt Euch mal in
@@ -1312,7 +1312,7 @@ Dreien zu einer Acht …«
 
 »Und — das ist von Wichtigkeit?«
 
-»Es kann von Wichtigkeit sein … bisher Weiß ich
+»Es kann von Wichtigkeit sein … bisher weiß ich
 es nicht … — Ich möchte Ihnen nun kurz mitteilen, Herr
 Müller, wie wir in den Fidelen August zu Herrn Emil
 Krawuschke, so heißt ja wohl der Inhaber, geraten sind.
@@ -1349,11 +1349,11 @@ Gegenwart, daß Sie uns dieses Mal noch laufen lassen
 wollen … Schnauzen Sie uns tüchtig an und jagen uns
 getrost weg …«
 
-»verstehe … Sie wollen dem Alten folgen?«
+»Verstehe … Sie wollen dem Alten folgen?«
 
 »Ja …« —
 
-Und dies geschah denn auch keine fünf Minuten später
+Und dies geschah denn auch keine fünf Minuten später.
 
 Halb ein Uhr morgens war es geworden. Wir sahen
 Giovanni Lamesto gebückt aus der Tür des Präsidiums
@@ -1441,7 +1441,7 @@ verschwand …
 
 Stiegen sechs Häuser weiter aus … Und eilten nach
 Nr. 16 … Haralds Patentdietrich öffnete das Schloß
-Und hinauf die Treppen bis zur Pension Sutter — bis zur
+und hinauf die Treppen bis zur Pension Sutter — bis zur
 <@pagebreak/>
 Flurtür des einen Zimmers mit direktem Zugang, in dem
 die englische Malerin Miß Pemyford seit drei Tagen
@@ -1565,7 +1565,7 @@ Er stieß mich an … Und hätte es gar nicht nötig
 gehabt. Ich ließ mir nichts entgehen — — gar nichts!
 
 Ich sah, daß die Pemyford ihr leichtes, fließendes
-Kleid hinten öffnete. es fiel herab. Und sie stand …
+Kleid hinten öffnete. Es fiel herab. Und sie stand …
 im Männeranzug da, mit hoch aufgekrempelten Beinkleidern
 … Nahm die Perücke ab … Darunter kam
 lichtblondes Frauenhaar zum Vorschein.
@@ -1797,7 +1797,7 @@ kehrte ich in Haralds Arbeitszimmer zurück. Aber — es
 war leer, und nebenan aus dem Schlafzimmer rief Harst
 mir zu:
 
-»komm’ bitte einmal her … Du findest Arbeit.«
+»Komm’ bitte einmal her … Du findest Arbeit.«
 
 Die Tür war nur angelehnt gewesen. Da Harsts
 Stimme merkwürdig keuchend geklungen hatte, eilte ich
@@ -1942,7 +1942,7 @@ wollte will erschießen. In den Anlagen des Kasinos aber
 trat mir — es war halb ein Uhr nachts — Frau Antje
 Jiesport entgegen und nahm mir die Pistole aus der Hand.
 
-»das hat noch Zeit, Graf,« sagte sie ruhig. »Sie haben
+»Das hat noch Zeit, Graf,« sagte sie ruhig. »Sie haben
 <@pagebreak/>
 zu wählen. Wollen Sie der Drei gehorchen — blindlings,
 dann werde ich Ihnen sofort zehntausend Francs aushändigen.«
@@ -1950,13 +1950,13 @@ dann werde ich Ihnen sofort zehntausend Francs aushändigen.«
 »Sie können sich leicht vorstellen, Herr Harst, wie diese
 Worte auf mich wirkten. Ich hatte Frau Antje Jiesport
 flüchtig im Hotel kennengelernt. Das, was sie mir anbot,
-War so geheimnisvoll, wie es sonst nur in Romanen vorkommt.
+war so geheimnisvoll, wie es sonst nur in Romanen vorkommt.
 Wir Italiener neigen nun sehr zu allem, was
 einen Anstrich von Geheimnisvollem hat. Außerdem: ich
 bin erst fünfunddreißig Jahre alt, und da … schießt
 keiner sich sehr gern eine Kugel vor den Kopf. — Kurz:
 ich sagte der Dame, daß ich einverstanden sei, falls sie mir
-nähere Angaben Über die »Drei« machen wollte.
+nähere Angaben über die »Drei« machen wollte.
 
 »Das ist unmöglich. Man wird von Ihnen im übrigen
 keinen Mord oder dergleichen verlangen, nur kleine Dienste
@@ -1965,9 +1965,9 @@ bei gelegentlichem unfreiwilligen Eigentumswechsel.«
 »Ich verstand nun, Herr Harst …: es handelte sich um
 eine Diebesbande! Um eine jener internationalen Banden
 fraglos, deren Mitglieder in der Maske von Zugehörigen
-Der guten Gesellschaft die Luxusorte besuchen und dort ihre
+der guten Gesellschaft die Luxusorte besuchen und dort ihre
 Fischzüge ausführen. — Und — ich … sagte ja! Erhielt
-Sofort von Frau Jiesport die zehntausend Francs und dazu
+sofort von Frau Jiesport die zehntausend Francs und dazu
 einen Brief, den ich erst im Hotel las …«
 
 »Dem Briefe lag ein Zettelchen von dieser Art bei?«
@@ -2096,7 +2096,7 @@ glatt erfunden.«
 Harald meinte vorsichtig: »Vielleicht — vielleicht auch
 nicht! Heute abend werden wir Gewißheit haben …«
 
-»Und ich?!« fragte Guttjahn sinnend. »was tue ich?
+»Und ich?!« fragte Guttjahn sinnend. »Was tue ich?
 Ich kann doch nicht die Hände in den Schoß legen!«
 
 »Beobachten Sie Frau Jiesport …!« — Von dem
@@ -2163,7 +2163,7 @@ durch den Gemüsegarten die Straße und fuhren
 — — zur Linkstraße …
 
 Das Pensionat Sutter war ja der Mittelpunkt unserer
-Aufgabe
+Aufgabe.
 
 <h2>3. Kapitel.</h2>
 <h3>Die tauchenden Kormorane.</h3>
@@ -2249,21 +2249,21 @@ Ich verstand ihn nicht.
 
 »Drücke Dich doch deutlicher aus, Harald …,« bat
 ich. »Wenn Du mich immer so im Dunkeln umhertappen
-Läßt, dann …«
+läßt, dann …«
 
 »Lieber Max Schraut,« unterbrach er mich, »eigentlich
 liegt das, was ich vermute, der ganzen Vorgeschichte nach so
 nahe, daß ein Blinder es mit dem Stock fühlen müßte.
 Anderseits erscheint meine Theorie aber selbst mir so phantastisch,
 daß ich gelinde Zweifel hinsichtlich der Richtigkeit
-Hegte, bis Frau Sutter mir bestätigte, daß die Gräfin alias
+hegte, bis Frau Sutter mir bestätigte, daß die Gräfin alias
 die Engländerin mehr freiwillig ausgezogen ist.«
 
 Da — — ging mir ein Licht auf …
 
 »Die Gräfin hat ein neues Quartier bezogen, das ihr
 für ihre Absichten geeigneter erscheint …!« erklärte ich
-Schnell.
+schnell.
 
 »Bravo …! So ist’s!«
 
@@ -2341,7 +2341,7 @@ hatten.
 
 Nach Norden hin hatten wir uns gewandt …
 
-Und nach Norden hinaus lag Miß Pemyfords Balkon,
+Und nach Norden hinaus lag Miß Pemyfords Balkon.
 
 Harst schob die Ranken ein wenig bei Seite …
 
@@ -2418,7 +2418,7 @@ Er lächelte fein …
 
 So ein Lächeln, das besagt: »Meine Theorie stimmte!«
 
-»komm’ nun,« fügte er hinzu. »Die Gräfin wird sehr
+»Komm’ nun,« fügte er hinzu. »Die Gräfin wird sehr
 bald wieder … ausziehen, behaupte ich …« —
 
 Eine halbe Stunde drauf standen wir am Ausgang
@@ -2477,7 +2477,7 @@ und wenn Stunden darüber hingehen. Wir bleiben in der
 Nähe. Eine Dame will verreisen. Auf die haben wir es
 abgesehen …«
 
-»sehr wohl, Herr Harst …« —
+»Sehr wohl, Herr Harst …« —
 
 An der Ecke Erlenstraße …
 
@@ -2792,7 +2792,7 @@ Diamanten im Kehlsack?«
 Polizei die Mongborg als Mörderin Rubensteins zu bezeichnen
 …«
 
-Harst Überlegte …
+Harst überlegte …
 
 Sagte dann:
 
@@ -2875,7 +2875,7 @@ Intelligenz in den Augen …
 
 Ich war gespannt auf Anita Mongborg … Ich war
 überrascht, als sie uns dann in einem vornehmen Salon
-empfing, Überrascht und verwirrt von so viel blendenden
+empfing, überrascht und verwirrt von so viel blendenden
 Reizen eines vollerblühten Weibes …
 
 Ja — Ähnlichkeit mit Antje Jiesport war wohl
@@ -2883,7 +2883,7 @@ vorhanden. Aber nur eine Ähnlichkeit, die lediglich durch
 Kunstmittel zur Täuschung Rubensteins und anderer hingereicht
 hatte.
 
-Harald als Wortführer tat ganz dienstlich
+Harald als Wortführer tat ganz dienstlich.
 
 Die Mongborg lächelte von oben herab …
 
@@ -2920,7 +2920,7 @@ Da ahnte ich dunkel, was kommen würde …
 Und — es kam …
 
 »Ah — ein großer Springbrunnen, gnädige Frau
-Und eine sehr geschmackvolle Marmorgruppe darin …«
+und eine sehr geschmackvolle Marmorgruppe darin …«
 
 Wir standen am Rande des Beckens …
 
@@ -3020,7 +3020,7 @@ Ein Satz — ein Satz gegen Nymegaard, der zurücktaumelte
 Da hatte ich sie schon am linken Arm gepackt, riß sie
 zurück …
 
-Da jagten schon die Hunde herbei,
+Da jagten schon die Hunde herbei.
 
 Geifernd …
 
@@ -3032,7 +3032,7 @@ Peng — peng — peng …
 
 Blecherner Knall der Clement …
 
-Dreimaliges Aufheulen … Drei tödliche Schüsse
+Dreimaliges Aufheulen … Drei tödliche Schüsse.
 
 Und von der Villa her in weiten Sprüngen drei
 Männer:
@@ -3084,7 +3084,7 @@ ohne Jedes Anzeichen eines Verstecks!
 
 In dem Astloch nur ein Leinenbeutel …
 
-aber — — gewichtig, schwer …! —
+Aber — — gewichtig, schwer …! —
 
 Dann plötzlich zwei Schupo-Beamte, herbeigelockt durch
 die Schüsse …
@@ -3152,7 +3152,7 @@ Tasche.
 Schnitt den Umschlag sorgfältig auf und las dann die
 flüchtigen und doch so bedeutungsvollen Zeilen …
 
-Daß diese enge Besonderes enthielten, sah ich an Haralds
+Daß diese etwas Besonderes enthielten, sah ich an Haralds
 Gesichtsausdruck …
 
 Er reichte den Brief dem Kollegen …
