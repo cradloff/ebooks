@@ -6,7 +6,7 @@
 <h3>Die 102 Steine.</h3>
 
 Bevor ich die Geschichte der Gräfin mit den Kormoranen
-hier erzähle, muß ich notwendig für die Mehzahl
+hier erzähle, muß ich notwendig für die Mehrzahl
 der Leser, die mit den Eigentümlichkeiten der Kormorane
 kaum vertraut sein dürften, einige aufklärende Bemerkungen
 vorausschicken.
@@ -277,7 +277,7 @@ Ich winkte ab.
 »Noch etwas?« fragte ich …
 
 »Nein …« Er dachte nach, brummte dann …
-»Hm« — vielleicht interessiert es Sie, Herr Schraut …
+»Hm — vielleicht interessiert es Sie, Herr Schraut …
 Mir fällt dies Nebensächliche soeben ein … Die Schwindlerin
 hatte auf ihrem Rock in Kniehöhe einen Fleck —
 nein, Vogelschmutz war es, ein gehöriger Klecks, und den
@@ -808,7 +808,7 @@ Harst …?«
 Wir drei schnellten hoch …
 
 <@pagebreak/>
-Tote?!« Und der Kommissar flüsterte vor Schreck:
+»Tote?!« Und der Kommissar flüsterte vor Schreck:
 »Fürchten Sie, daß Rubenstein ermordet worden ist?«
 
 »Bitte — telephonieren Sie …«
@@ -1310,7 +1310,7 @@ gegen das Licht …
 ich soeben, gegen das Licht hält, verschmelzen die beiden
 Dreien zu einer Acht …«
 
-»Und — das ist von Wichtigkeit?
+»Und — das ist von Wichtigkeit?«
 
 »Es kann von Wichtigkeit sein … bisher Weiß ich
 es nicht … — Ich möchte Ihnen nun kurz mitteilen, Herr
@@ -1490,32 +1490,32 @@ zogen sie wieder zurück. —
 
 <@pagebreak/>
 Die Kormorane krächzten mitunter. Dunkelheit …
-Nur die Fenstiervorhänge wurden durch die Straßenlaternen
+Nur die Fenstervorhänge wurden durch die Straßenlaternen
 in helle Vierecke verwandelt. Nur das Geräusch
 vorbeiratternder Autos und Wagen …
 
-Und bald — sehr bald anbetet: die Türen wurden geöffnet
+Und bald — sehr bald anderes: die Türen wurden geöffnet
 …
 
 Das elektrische Licht flammte auf, eine Krone mit fünf
 Lampen …
 
-Da die Koffer die Schurkereien hatten, war zwischen
-ihnen ein zwei fingerbreiter Spalt.
+Da die Koffer dicke Schutzleisten hatten, war zwischen
+ihnen ein zweifingerbreiter Spalt.
 
 Ich sah … Ich kniete neben, Harald …
 
-Sah jetzt eine grauhaarige Frau im langen Gunmmi-mantel
+Sah jetzt eine grauhaarige Frau im langen Gummimantel
 mit Filzhut …
 
-Sie legte Hut und Mantel ab. …
+Sie legte Hut und Mantel ab …
 
 War schlank, hager … Trat vor den Käfig …
 
-Die Korwmorane krächzten …
+Die Kormorane krächzten …
 
 »Guten Abend, Ihr beiden,« sagte Miß Pemyford in
-tadellosem Nüeverländisch zu den großen Vögeln. »Euer
+tadellosem Niederländisch zu den großen Vögeln. »Euer
 Frauchen blieb lange aus … — Wie wär’s noch mit einer
 kleinen Lektion?«
 
@@ -1523,18 +1523,18 @@ Was dann geschah, war so unglaublich für diese nächtliche
 Stunde, daß ich meinen Augen nicht recht traute …
 
 Die angebliche Miß (sie war der Sprache nach fraglos
-Holländerin!) holde eine zusammenlegbare Gummibadewanne
+Holländerin!) holte eine zusammenlegbare Gummibadewanne
 aus einem Schranke hervor, füllte sie aus drei bereitstehenden
 Eimern mit Wasser, schloß den anderen
 Schrank auf und entnahm einer Blechbüchse vier etwa handlange
-Fische … Plätze waren es … die warf sie in die
+Fische … Plötze waren es … die warf sie in die
 Wanne …
 
 Und ließ nun zunächst einem Kormoran, dem sie einen
-gern unter den Kehlsack gelegt hatte, nach den Fischen
+Kehlring unter den Kehlsack gelegt hatte, nach den Fischen
 tauchen.
 
-Er tat’s … Hatte die vier große im Nu. verschluckt
+Er tat’s … Hatte die vier Plötze im Nu verschluckt
 …
 
 Gab sie nachher wieder von sich, ganz wie abgerichtete
@@ -1544,18 +1544,18 @@ der Beute eben unmöglich macht.
 
 Auch das zweite Tier bewies, daß es ebenso trefflich
 diesen Fangsport beherrschte. Nachher bekam jeder der Kormorane
-zwei Plätze als Belohnung — als Abendmahlzeit.
+zwei Plötze als Belohnung — als Abendmahlzeit.
 
 Man stelle sich vor: in einem Berliner Pensionat ein
 Weib, das noch vor zwei Stunden den Giovanni Lamesto
-um hatte, mit der Dressur von Kormoranen sich abgelegt!
+gemimt hatte, mit der Dressur von Kormoranen sich abgebend!
 
 Ein Weib — — eine Mörderin! —
 
 Vogelschmutz auf dem Rock des grauen Kostüms und
 Vogelgeruch waren nun ja genügend erklärt!
 
-Aber — aufs würde Harald tun?!
+Aber — was würde Harald tun?!
 
 Was würde weiter geschehen?! —
 
@@ -1566,24 +1566,24 @@ gehabt. Ich ließ mir nichts entgehen — — gar nichts!
 
 Ich sah, daß die Pemyford ihr leichtes, fließendes
 Kleid hinten öffnete. es fiel herab. Und sie stand …
-im Männeranzug da, mit hoch aufgekrempelten Bein-kfleidern
+im Männeranzug da, mit hoch aufgekrempelten Beinkleidern
 … Nahm die Perücke ab … Darunter kam
-lictblondes Frauenhaar zum Vorschein.
+lichtblondes Frauenhaar zum Vorschein.
 
 So trat sie vor den Spiegel …
 
-konnte ihr Spiegelbild an …
+Schaute ihr Spiegelbild an …
 
 Lachte schrill auf … —
 
 Dann verschwand sie hinter dem hohen Wandschirm,
-der vor dem Bei! stand. Die elektrische Krone hatte sie ausgedreht.
+der vor dem Bett stand. Die elektrische Krone hatte sie ausgedreht.
 Hinter dem Wandschirm leuchtete matt ein rotes
 Nachtlämpchen … —
 
-Beneidenswerte Miß Pemyford! trat ihres schlechten
+Beneidenswerte Miß Pemyford! Trotz ihres schlechten
 Gewissens war sie im Nu eingeschlafen. Ihre tiefen regelmäßigen
-Atemzüge verrieten, daß wir um … aufbrechen
+Atemzüge verrieten, daß wir nun … aufbrechen
 konnten.
 
 Aber — wie daß Zimmer verlassen?! Wie den
@@ -1615,7 +1615,7 @@ Und so will ich hiermit den ersten Teil dieses Abenteuers
 schließen …
 
 Der zweite war im Gegensatz zum ersten, den man als
-»Piano« bezeichnen kann, geradezu »fortissimo« …
+»piano« bezeichnen kann, geradezu »fortissimo« …
 <@pagebreak 35/>
 
 <h1>Die beiden Dreien</h1>
@@ -1628,12 +1628,12 @@ können nur unter Amsterdamer Kollege van Nymegaard
 sein …«
 
 »Stimmt, Hendrik van Nymegaard, Herr Harst. Ich
-freue mich außerordentliche, Sie und Herrn Schraut endlich
+freue mich außerordentlich, Sie und Herrn Schraut endlich
 persönlich kennen zu lernen. Ich dachte mir gleich, als ich
 Sie beide hier beobachtete, daß es sich nur um Sie handeln
-könne …
+könne …«
 
-»Ich denke, wir sehen die Unterredung besser anderswo
+»Ich denke, wir setzen die Unterredung besser anderswo
 fort,« meinte Harald. »Wir werden die Diamanten
 hier kaum finden. Eine Durchsuchung des Zimmers wäre
 zwecklos. Also — verlassen wir es. Wir schließen die
@@ -1650,7 +1650,7 @@ Narkotikum! —
 Als wir drei die Linkstraße betraten, war es halb drei
 Uhr morgens.
 
-»Jahren wir zu mir nach Hause, Kollege,« sagte Harald
+»Fahren wir zu mir nach Hause, Kollege,« sagte Harald
 zu dem Holländer. »Sie können bei mir logieren,
 wenn Sie wollen.«
 
@@ -1669,8 +1669,8 @@ sobald diese Steine ins Ausland bringen sollen.
 Diese Diebstähle und Beraubungen sind so tadellos vorbereitet
 gewesen, daß ohne Zweifel eine wohlorganisierte
 Bande dabei die Hand im Spiele hat. Ich habe nun das
-Glück »gehabt, auf eine Holländerin aufmerksam zu werden,
-die einer völlig verarmten sie angehört, eine
+Glück gehabt, auf eine Holländerin aufmerksam zu werden,
+die einer völlig verarmten Adelsfamilie angehört, eine
 Gräfin Wilhelmine van den Haag …«
 
 »Die Pemyford …?«
@@ -1679,9 +1679,9 @@ Gräfin Wilhelmine van den Haag …«
 unsicher. Sie war noch vor fünf Monaten bettelarm. Jetzt
 besitzt sie in Buitenzoorg eine Villa, zwei Autos. Und ein
 Schofför, den sie entlassen hatte, schwärzte sie bei mir an,
-kam »zu mir, und meinte, ich solle der Gräfin doch mal auf
+kam zu mir, und meinte, ich solle der Gräfin doch mal auf
 die Finger sehen, in der Villa verkehrten ganz merkwürdige
-Gäste.« So wurde ich auf diese Spur gelenkt. Die Gräfin
+Gäste. So wurde ich auf diese Spur gelenkt. Die Gräfin
 verreiste vor vier Tagen, angeblich nach London. Ich
 mußte mir alle Mühe geben, sie hier in Berlin aufzustöbern.
 Und als ich nun in dieser Nacht ihr Zimmer durchsuchen
@@ -1698,41 +1698,41 @@ Herr Harst?«
 
 »Verzeihen Sie. Das kann nicht sein …«
 
-»Ohr — weshalb denn nicht?!«
+»Oho — weshalb denn nicht?!«
 
 »Der Mord ist doch in der Zeit zwischen zwölf und
 zwei mittags verübt worden. Zu derselben Zeit habe ich
 <@pagebreak/>
-die Gräfin jedoch nicht eine Sekunde aus den Augen (gelassen.
+die Gräfin jedoch nicht eine Sekunde aus den Augen gelassen.
 Um halb zwölf hatte ich herausgefunden, wo sie
 wohnte. Zehn Minuten nach halb zwölf ging sie von der
 Linkstraße nach der Spitalgasse Nr. 113 …«
 
-»Ah — in den sicheren August …!«
+»Ah — in den Fidelen August …!«
 
-»So ist’s, Herr Harst. Sie saß 470 in der Kneipe und
+»So ist’s, Herr Harst. Sie saß dort in der Kneipe und
 zeichnete ein paar Charakterköpfe von anwesenden Verbrechern.
 Sie blieb dort bis fünf Minuten vor zwei, aß
 dort auch Mittag. Um ein Viertel drei war sie wieder in
 der Linkstraße — in ihrem Zimmer. Das alles ist Tatsache.
 Sie kann die Mörderin nicht sein.«
 
-Im Innern des Autos brannte die Lampe. Haratkd
+Im Innern des Autos brannte die Lampe. Harald
 schaute mich an.
 
 »Reinfall!!« meinte er nur …
 
-Nymegaard nickte ernst. »Diese Frau wilde auch
-niemals töten, Herr Harst. Sie ist aus Not Diebin gae-worden,
+Nymegaard nickte ernst. »Diese Frau würde auch
+niemals töten, Herr Harst. Sie ist aus Not Diebin geworden,
 falls — — sie es wirklich ist, was noch nicht einmal
-feststeht. Meine Verdachtsgründe gegen sie sind lieber
+feststeht. Meine Verdachtsgründe gegen sie sind bisher
 ein sehr, sehr luftiges Haus … Leider …! Und
 auch ihre Fertigkeit im Verkleiden ist kein eigentlicher Beweis
 gegen sie … Sie war — auch aus Not — Artistin,
 Verwandlungstänzerin. Ihr Gatte, der vor vier
 Wochen starb, litt an Rückenmarkschwindsucht. Diesen
 Grafen hat sie bis zuletzt mit rührender Geduld gepflegt,
-Du sein Leiden ihn zum mürrischen Tyrann gemacht
+obwohl sein Leiden ihn zum mürrischen Tyrann gemacht
 hatte …«
 
 Auch mein Gesicht wurde länger und länger …
@@ -1740,10 +1740,10 @@ Auch mein Gesicht wurde länger und länger …
 Wer in aller Welt war nun die Mörderin Rubensteins,
 wenn’s die Gräfin nicht gewesen sein konnte?!
 
-»Immerhin,« schloß der holländische Kollege seine an
-gaben, — »immerhin bleibt das eine bestehen, daß die
+»Immerhin,« schloß der holländische Kollege seine Angaben,
+— »immerhin bleibt das eine bestehen, daß die
 Gräfin fraglos mit vielen dunklen Existenzen Beziehungen
-angeknüpft und. unbekannt woher ein Vermögen erworben
+angeknüpft und unbekannt woher ein Vermögen erworben
 hat, sehr häufig verreist und auch sonst merkwürdige Dinge
 treibt — zum Beispiel den Kormoran-Sport …!« —
 
@@ -1753,9 +1753,9 @@ Das Auto hielt. Wir waren vor Blücherstraße 10 angelangt.
 In Haralds Arbeitszimmer wurde die Unterredung
 fortgesetzt.
 
-Hendrik van Nymegaards kahlköpfige Behäbigkeit fühlte
+Hendrik van Nymegaards kahlköpfige Behäbigkeit füllte
 den einen Klubsessel aus, während im zweiten Freund
-Dorne die müden Glieder dehnte. Ich saß in der Sofaecke.
+Harald die müden Glieder dehnte. Ich saß in der Sofaecke.
 
 Wir rauchten, tranken Burgunder.
 
@@ -1764,7 +1764,7 @@ also nicht?« fragte Harst.
 
 »Nein,« erklärte der Kollege. »Ich habe diese unsichere
 Spur lediglich deshalb verfolgt, weil ich eben keine andere
-fand, die vielleicht zu der Gaunerbande hin führte.«
+fand, die vielleicht zu der Gaunerbande hinführte.«
 
 Harst zeigte Nymegaard jetzt das Zettelchen mit den
 beiden Dreien, die gegen Licht gehalten einer Acht glichen.
@@ -1781,7 +1781,7 @@ diese Zettelchen hielt ich für ein geheimes Zeichen der
 Diebesbande.«
 
 »Zu der auch die Gräfin Ihrer Ansicht nach gehört
-, ..?!» Harald lächelte plötzlich. »Mein verehrter
+…?!« Harald lächelte plötzlich. »Mein verehrter
 Herr Nymegaard, ich kann Ihnen jetzt schon sagen, daß die
 Dinge doch nicht so einfach liegen wie Sie glauben und wie
 auch ich bisher glaubte. Geben Sie mir bis heute abend
@@ -1794,13 +1794,13 @@ Um halb zehn frühstücken wir …«
 Nachdem ich Nymegaard oben untergebracht hatte,
 kehrte ich in Haralds Arbeitszimmer zurück. Aber — es
 <@pagebreak/>
-war leer, und neben aus dem Schlafzimmer rief Harst
+war leer, und nebenan aus dem Schlafzimmer rief Harst
 mir zu:
 
 »komm’ bitte einmal her … Du findest Arbeit.«
 
-Die Tür war ’nur angelehnt gewesen. Da Harsts
-So merkwürdig keuchend geklungen hatte, eilte ick
+Die Tür war nur angelehnt gewesen. Da Harsts
+Stimme merkwürdig keuchend geklungen hatte, eilte ich
 hinein …
 
 Und — fand meinen Freund über dem Bett liegend —
@@ -1808,12 +1808,12 @@ auf einem Menschen, der sich verzweifelt wehrte …
 
 Ich war gerade noch zur rechten Zeit erschienen …
 
-Gerade noch …! Denn Harst8s geschmückter Körper
+Gerade noch …! Denn Harsts geschwächter Körper
 hätte den bärenstarken Kerl, dem beim Kampfe mit Harald
 der blonde falsche Bart halb abgerissen worden war,
 kaum völlig überwältigt.
 
-fehlt wurde die Situation etwas anders. Auch ich
+Jetzt wurde die Situation etwas anders. Auch ich
 packte zu, hielt mein Taschentuch bereit, und im Nu hatten
 wir dem Mann die Hände auf dem Rücken zusammengebunden,
 brachten ihn nun in das Arbeitszimmer und
@@ -1828,10 +1828,10 @@ Und rasch erholte er sich wieder, sagte nun drohend und
 in seltener Erregung zu unserem Gefangenen:
 
 »Graf Viamilio, dieser heimtückische Angriff soll
-Ihnen teuer zu stehen kommen! Sie haben sich durch daß
+Ihnen teuer zu stehen kommen! Sie haben sich durch das
 Schlafzimmerfenster eingeschlichen gehabt, haben unter dem
 Bett gelegen, haben wohl auch gehorcht. Und dann überfielen
-Sie mich … Ihr langer korsischer Dolch R unter
+Sie mich … Ihr langer korsischer Dolch ist unter
 das Nachttischchen gerutscht …«
 
 Mein Gesicht muß zum Malen gewesen sein!
@@ -1841,7 +1841,7 @@ Der Graf also …!!
 Und daß er’s war, bewies Harald jetzt, indem er ihm
 Perücke und Bart abnahm …
 
-Sagte dazu: »Graf Treppe Viamilio, weshalb dieser
+Sagte dazu: »Graf Cesare Viamilio, weshalb dieser
 Mordversuch?! Etwa — weil Sie fürchten, ich könnte den
 Mörder Rubensteins doch entdecken?!«
 <@pagebreak/>
@@ -1852,7 +1852,7 @@ Schwieg …
 Und Harald fügte hinzu:
 
 »Sie selbst sind der Mörder nicht. Aber Sie kennen
-ihn. Und deshalb sollen Sie in aller Stille sofort n-4
+ihn. Und deshalb sollen Sie in aller Stille sofort nach
 dem Polizeipräsidium geschafft werden. Ihre Verhaftung
 wird Geheimnis bleiben. Ihre Komplicen aber werde ich
 zu finden wissen.«
@@ -1869,9 +1869,9 @@ insbesondere den italienischen Adel.
 
 Harald ging zum Schreibtisch, nahm den Hörer vom
 Telephon, bat das Präsidium, ein geschlossenes Auto nach
-der Rückseite unseres Gemüsegartiens zu schicken. —
+der Rückseite unseres Gemüsegartens zu schicken. —
 
-Munition saß so, daß er das Zettelchen mit den beiden
+Viamilio saß so, daß er das Zettelchen mit den beiden
 Dreien, das unter der brennenden Stehlampe lag, sehen
 mußte. Harald hatte es nicht wieder zu sich gesteckt, eine
 Vergeßlichkeit, die jetzt besondere Folgen haben sollte.
@@ -1879,7 +1879,7 @@ Vergeßlichkeit, die jetzt besondere Folgen haben sollte.
 Kaum hatte Harst das Telephongespräch beendet, als
 der Graf den Kopf hob …
 
-Er wollte fraglos irgend etwas Gen Und da geschah’s,
+Er wollte fraglos irgend etwas äußern. Und da geschah’s,
 daß er den Zettel bemerkte …
 
 Sich mit einem Ruck vorbeugte …
@@ -1893,7 +1893,7 @@ Er kannte die Dreien …!! Ohne Zweifel kannte er
 sie! Er hatte sich verraten. Und daß dieses Zettelchen eine
 <@pagebreak/>
 Bedeutung haben müßte, die ihn selbst nahe anging, hätte
-jeder sich gesagt, der den Frieden Ausdruck seines Gesichts so
+jeder sich gesagt, der den stieren Ausdruck seines Gesichts so
 wie wir aus nächster Nähe prüfen konnte.
 
 Dann besann er sich … Ahnte, daß er soeben eine
@@ -1908,11 +1908,11 @@ Theater, — Komödie …! Schlechte Komödie! —
 Und Harst griff nach dem Zettel …
 
 »Graf Viamilio, wäre es nicht besser, wenn Sie ein
-Geständnis ablegten,« meinte er. höflich. »Sie würden
-dadurch sich selbst nicht unerheblich Füßen. Ich würde für
+Geständnis ablegten,« meinte er höflich. »Sie würden
+dadurch sich selbst nicht unerheblich nützen. Ich würde für
 Sie ein gutes Wort einlegen, vielleicht ganz verschweigen,
 daß nur meine Geistesgegenwart mich vor einem tödlichen
-Dolchstoß gestützt hat. Das Attentat würde also ein Geheimnis
+Dolchstoß geschützt hat. Das Attentat würde also ein Geheimnis
 zwischen uns dreien bleiben …«
 
 Der Italiener hob den Kopf wieder, öffnete die Augen.
@@ -1926,8 +1926,8 @@ Sie …«
 »Nur, wenn mein Geständnis ebenfalls unter uns
 bleibt …«
 
-»Bedauere … daß ist unmöglich … — Überlegen
-Sie sich alles recht gründlich. Sie haben nur eine Chance«
+»Bedauere … das ist unmöglich … — Überlegen
+Sie sich alles recht gründlich. Sie haben nur eine Chance:
 Offenheit! Dann wird der Mordversuch vertuscht werden.«
 
 Viamilio kämpfte mit sich.
@@ -1939,7 +1939,7 @@ wenigstens dieses eine Verbrechen ausmerzte.
 mich kurz fassen, Herr Harst. Vor sechs Monaten verspielte
 ich in Monte Carlo den Rest meines Vermögens. Ich
 wollte will erschießen. In den Anlagen des Kasinos aber
-trat mir ich es war halb ein Uhr nachts — Frau Antje
+trat mir — es war halb ein Uhr nachts — Frau Antje
 Jiesport entgegen und nahm mir die Pistole aus der Hand.
 
 »das hat noch Zeit, Graf,« sagte sie ruhig. »Sie haben
@@ -1949,18 +1949,18 @@ dann werde ich Ihnen sofort zehntausend Francs aushändigen.«
 
 »Sie können sich leicht vorstellen, Herr Harst, wie diese
 Worte auf mich wirkten. Ich hatte Frau Antje Jiesport
-tüchtig im Hotel kennengelernt. Das, was sie mir anbot,
-War so geheimnisvoll, wie es sonst nur in Romanen vorn
-?ommt. Wir Italiener neigen nun sehr zu allem, was
-einen Anstrich von Geheimnisvollem. hat. Außerdem: ich
-bin erst fünfsunddreißig Jahre alt, und da … schießt
-Feiner sich sehr gern eine Kugel vor den Kopf. — Kurz:
+flüchtig im Hotel kennengelernt. Das, was sie mir anbot,
+War so geheimnisvoll, wie es sonst nur in Romanen vorkommt.
+Wir Italiener neigen nun sehr zu allem, was
+einen Anstrich von Geheimnisvollem hat. Außerdem: ich
+bin erst fünfunddreißig Jahre alt, und da … schießt
+keiner sich sehr gern eine Kugel vor den Kopf. — Kurz:
 ich sagte der Dame, daß ich einverstanden sei, falls sie mir
 nähere Angaben Über die »Drei« machen wollte.
 
 »Das ist unmöglich. Man wird von Ihnen im übrigen
 keinen Mord oder dergleichen verlangen, nur kleine Dienste
-Hat gelegentlichem unfreiwilligen Eigentumswechsel.«
+bei gelegentlichem unfreiwilligen Eigentumswechsel.«
 
 »Ich verstand nun, Herr Harst …: es handelte sich um
 eine Diebesbande! Um eine jener internationalen Banden
@@ -1968,29 +1968,29 @@ fraglos, deren Mitglieder in der Maske von Zugehörigen
 Der guten Gesellschaft die Luxusorte besuchen und dort ihre
 Fischzüge ausführen. — Und — ich … sagte ja! Erhielt
 Sofort von Frau Jiesport die zehntausend Francs und dazu
-einen Brief, den ich erst im Hotel las …
+einen Brief, den ich erst im Hotel las …«
 
-»Dem Briefe lag ein Zettelchen von dieser Nr! bei?«
+»Dem Briefe lag ein Zettelchen von dieser Art bei?«
 
-»Ja … Und der Tun war ein Befehl, nach
+»Ja … Und der Inhalt war ein Befehl, nach
 Amsterdam zu reisen und dort … einen Diebstahl zu begehen
 …«
 
-»Akt — bei Wein? Etwa … bei dem Grafen van
+»Ah — bei wem? Etwa … bei dem Grafen van
 den Haag?«
 
 Viamilio schreckte hoch. »Wie — auch das wissen Sie,
 Herr Harst?!«
 
 »Sie hören es … Sie stahlen dort … einen Familienschmuck
-… E53 stand in allen Zeitungen. Der
-Ei den war das letzte Wertvolle, was van den Haag
+… Es stand in allen Zeitungen. Der
+Schmuck war das letzte Wertvolle, was van den Haag
 besaß …«
 
 Viamilio errötete vor Scham …
 
 <@pagebreak/>
-Leider … leider beging ich tatsächlich den Diebstahl
+»Leider … leider beging ich tatsächlich den Diebstahl
 … leider!! — Die Beute lieferte ich in Amsterdam
 an Frau Jiesport ab und erhielt dafür abermals zehntausend
 Francs. — Seitdem habe ich nur noch zweimal
@@ -1999,38 +1999,38 @@ Das eine Mal mußte ich mit einem Diamantenhändler im
 selben Schlafwagenabteil nach Paris reisen, den Mann
 durch Chloroform betäuben und Frau Jiesport die Abteiltür
 öffnen. Der reiche Händler hatte im Innern des dicken
-Griffes seines Regenschirms sechs prachivolile Diamanten
+Griffes seines Regenschirms sechs prachtvolle Diamanten
 über die Grenze geschmuggelt. Die wurden ihm nun abgenommen.
-Zum Sein betäubte Antje Jiesport auch
+Zum Schein betäubte Antje Jiesport auch
 mich und händigte mir vorher fünftausend Francs aus.
 Niemand schöpfte gegen mich Verdacht …«
 
 »Und gestern dann im Wartesaal des Potsdamer
 Bahnhofs — auch ein Befehl der Drei?«
 
-»Ja … Ein Brief hatte mich dorthin bestellt
-Bei meinem Verhör »auf dem Präsidium habe ich nur
-verschwiegen, daß ich die Frau, die mir das Pärchen gab …«
+»Ja … Ein Brief hatte mich dorthin bestellt …
+Bei meinem Verhör auf dem Präsidium habe ich nur
+verschwiegen, daß ich die Frau, die mir das Päckchen gab …«
 
 »Danke, Graf Viamilio … — Sie kennen von der
 Bande also nur Antje Jiesport?«
 
 »Nur … Das ist die Wahrheit, Herr Harst.«
 
-»Ich glaube Ihnen. —« Jetzt aber eine Frage: weshalb
+»Ich glaube Ihnen. — Jetzt aber eine Frage: weshalb
 der Mordversuch gegen mich?«
 
 »Auch das stand in dem letzten Briefe, Herr Harst …
-Ich sollte Sie nicht ermorden, nur an der Schulter verlegen,
+Ich sollte Sie nicht ermorden, nur an der Schulter verletzen,
 damit Sie uns nicht schaden könnten. Leider habe
 ich den Brief, der übrigens wie alle in Chiffren geschrieben
 war, verbrannt, sonst …«
 
-»Danke … — Und er löste die Knoten des Taschentuches,
+»Danke …« — Und er löste die Knoten des Taschentuches,
 das des Italieners Hände zusammenhielt.
 
-»Bitte — Sie können, sich entfernen. Sie werden jedoch
-»Antje Jiesport nichts von diesem Erlebnis mitteilen.«
+»Bitte — Sie können sich entfernen. Sie werden jedoch
+Antje Jiesport nichts von diesem Erlebnis mitteilen.«
 
 »Nein, bestimmt nicht. Ich werde sie auch kaum
 sprechen, denn sie verkehrt nur schriftlich mit mir. Sie ist
@@ -2041,22 +2041,22 @@ wohl selbst … die Drei.«
 Und verschwinden Sie am besten nach Amerika hinüber —
 für immer!«
 
-Ich ließ Viamnilio durch die Vordertür hinaus …
+Ich ließ Viamilio durch die Vordertür hinaus …
 
 Stand noch ein paar Sekunden vor der Tür und atmete
-die fühle Nachtluft ein …
+die kühle Nachtluft ein …
 
 Hörte plötzlich ein Motorrad knatternd die Blücherstraße
-entlongrafen …
+entlangrasen …
 
-Sah es … Tau den 62duckt auf dem Rade sitzenden
-Fahrer .., Sah, wie der Radler plötzlich auf den Bür-sieig
+Sah es … Sah den geduckt auf dem Rade sitzenden
+Fahrer … Sah, wie der Radler plötzlich auf den Bürgersteig
 lenkte …
 
 Hörte Viamilios gellenden Schrei …
 
-Der Retter hatte ihn überfahren, hatte ihn gegen den
-Holzzaun des Auge Schüssel uns schräg gegenüber geschleudert
+Der Radler hatte ihn überfahren, hatte ihn gegen den
+Holzzaun des Baugeschäftes uns schräg gegenüber geschleudert
 …
 
 Entfloh …
@@ -2071,10 +2071,10 @@ wiedererlangt zu haben.
 
 Inzwischen war auch die Kriminalpolizei eingetroffen,
 Kommissar Guttjahn und zwei Beamte. Die Leiche wurde
-Eure) den Gemüsegarten in das Auto geschafft. Wir drei
+durch den Gemüsegarten in das Auto geschafft. Wir drei
 aber, Guttjahn als dritter, untersuchten nun die Stelle, wo
-Viamilio das Opfer des raffinierten Attentats gewandert,
-schnitt Laternen genauer und … fanden an dem Holzzaun
+Viamilio das Opfer des raffinierten Attentats geworden,
+mit Laternen genauer und … fanden an dem Holzzaun
 ein Quartblatt Papier mit einer dreizinkigen Gabel festgenagelt
 …
 
@@ -2082,13 +2082,13 @@ Auf dem Blatt stand in lateinischer Schrift:
 
 > *Hütet Euch!*
 
-> Die Dreien
+> Die Dreien.
 
 Nachdem wir dann Guttjahn alles mitgeteilt hatten,
 sagte er kopfschüttelnd:
 
-Was halten Sie von alledem, Herr Harst? Antike
-IJiesöport soll die Leiterin einer Diebesbande sein?! Ganz
+»Was halten Sie von alledem, Herr Harst? Antje
+Jiesport soll die Leiterin einer Diebesbande sein?! Ganz
 <@pagebreak/>
 offen, Herr Harst: Der Graf hat Sie belogen! Hat alles
 glatt erfunden.«
@@ -2111,12 +2111,12 @@ Ich lag da und grübelte … grübelte …
 
 Witterte geradezu noch Geheimnisse dunkelster Art …
 
-Und schlief doch schließlich ein. Träumtite, daß ich ein
+Und schlief doch schließlich ein. Träumte, daß ich ein
 Fisch sei und in einem Bassin ängstlich hin und her schoß,
 weil auf dem Rande des Bassins ein Kormoran saß und
 auf mich herabstoßen wollte … —
 
-Der holländische Kollege, dem wir um zehn Uhr Bein
+Der holländische Kollege, dem wir um zehn Uhr beim
 Frühstück die Vorfälle der Nacht berichteten, lächelte überlegen
 und erklärte:
 
@@ -2131,14 +2131,14 @@ Antje ist die Drei …! Und uns liegt es nun ob, diese
 Frau zu finden. Die Gräfin kommt hier nicht in Frage,
 wenn sie auch derselben Bande angehört, was die Zigaretten
 mit der Zettel-Drei beweisen. Auch der hinkende
-See aus dem sicheren August ist Mitglied der
+Stromer aus dem Fidelen August ist Mitglied der
 Drei …«
 
 Er rauchte seine geliebte Mirakulum, und sein Blick
 war beim Sprechen wie in endlose Fernen gerichtet …
 
-»Die Drei wird uns noch viel zu schossen machen …
-Die Leute sind gefährlich, und — sind noch keine Gaunergenossenschaft,
+»Die Drei wird uns noch viel zu schaffen machen …
+Die Leute sind gefährlich, und — sind doch keine Gaunergenossenschaft,
 <@pagebreak/>
 nein, sie kennen sich untereinander gar nicht,
 behaupte ich. Eine einzelne Person leitet das Ganze, gibt
@@ -2149,7 +2149,7 @@ Hendrik van Nymegaard nahm eine Zigarre, sagte:
 »Gut — mag sein! — Und — was nun?! Eigentlich
 sind wir doch auf dem toten Punkt angelangt …«
 
-»So?! Glauben Sie, Kollege …?! — Jch4 denke
+»So?! Glauben Sie, Kollege …?! — Ich denke
 anders darüber … Wenn Sie meiner Mutter hier bis
 zum Abend Gesellschaft leisten wollen, kann ich Ihnen hoffentlich
 alles erklären — alles! Schraut und ich werden
@@ -2162,18 +2162,18 @@ Maske von Telephonarbeitern mit Werkzeugtaschen auf, gewannen
 durch den Gemüsegarten die Straße und fuhren
 — — zur Linkstraße …
 
-Das nun Tun Sutter war ja der Mittelpunkt unserer
-Ausgabe
+Das Pensionat Sutter war ja der Mittelpunkt unserer
+Aufgabe
 
 <h2>3. Kapitel.</h2>
 <h3>Die tauchenden Kormorane.</h3>
 
-Frau Sutter ahnte nicht im entferntesten, daß sie e?
-nicht unechten Telephonarbeitern zu tun hätte.
+Frau Sutter ahnte nicht im entferntesten, daß sie es
+mit unechten Telephonarbeitern zu tun hätte.
 
 »Wenn Sie die Leitungen nachsehen wollen, dann
 fangen Sie nur in dem leeren Flurzimmer an,« meinte sie
-ganz freundlich. »Die Dame ist vorhin ais8gezogen, die es
+ganz freundlich. »Die Dame ist vorhin ausgezogen, die es
 bisher bewohnte.«
 
 Sie schloß uns die Doppeltür auf, die wir uns etwa
@@ -2184,7 +2184,7 @@ Harald lachend.
 
 »Ja, die Engländerin besaß zwei zahme Kormorane.
 <@pagebreak/>
-Auch mir war der Geruch zuwider. Deshalb bat ich sich
+Auch mir war der Geruch zuwider. Deshalb bat ich sie
 anderswohin überzusiedeln …«
 
 »Kormorane?! Wat sind denn det for Viecher?«
@@ -2192,7 +2192,7 @@ meinte Harald kopfschlackernd.
 
 »Oh — ausländische Tauchvögel …«
 
-so — die mecht’ man 1 sich doch mal ansehn.
+»So … so … — die mecht’ man sich doch mal ansehn.
 Wo is denn die Dame geblieben?«
 
 »In der Erlenstraße hat sie ein möbliertes Zimmer gefunden
@@ -2206,55 +2206,55 @@ Wir waren nun allein im Zimmer. Harald bastelte
 zum Schein an dem Tischtelephon herum und flüsterte:
 
 »Wir werden unter einem Vorwand sehr bald wieder
-abziehen … Die Erlenstraße Lot mich …«
+abziehen … Die Erlenstraße lockt mich …«
 
 Und noch leiser:
 
 »Wenn Frau Sutter mir jetzt eine bestimmte Frage
-beantwortet, dann Tier ich, die volle Sicherheit, daß meine
+beantwortet, dann habe ich die volle Sicherheit, daß meine
 Theorie stimmt …«
 
 »Welche?«
 
-»Warte ab, mein Alter … Der Fall der Gräfin mit.
+»Warte ab, mein Alter … Der Fall der Gräfin mit
 den Kormoranen dürfte sich seinem Ende nähern …«
 
 Und drei Minuten darauf sagte er zu Frau Sutter:
 
-»Wir müssen erst noch ein paar Meter Leitungsdraht-holen
-… — Entschuldigen Sie nur … Ich wollte nur:
+»Wir müssen erst noch ein paar Meter Leitungsdraht
+holen … — Entschuldigen Sie nur … Ich wollte nur
 wissen, ob Sie mit der Dame mit den Kormoranen vielleicht
-Zank gehabt haben, weil Sie dieselbe so halb und halt
+Zank gehabt haben, weil Sie dieselbe so halb und halb
 an die Luft setzten …«
 
-»Keineswegs … — Sie wollen wohl hingehen und:
+»Keineswegs … — Sie wollen wohl hingehen und
 sich die Vögel ansehen?«
 
-»Ja — ich bin schon bißchen Kanarienzüchter …
+»Ja — ick bin son bißchen Kanarienzüchter …«
 
-»Oh — die Engländerin wäre abgeben nicht 07 geblieben.
-Sie 908 in im Grünen wohnen …
+»Oh — die Engländerin wäre ohnedem nicht mehr geblieben.
+Sie wollte gern im Grünen wohnen …«
 
 »So … so … — Schönen Dank auch und Wiedersehen
-… —
+…« —
 
 <@pagebreak/>
 Als wir die Linkstraße hinabschlenderten, meinte Harald
 schmunzelnd:
 
-»3m Grünen wohnen …! Schau’ an …! Die
+»Im Grünen wohnen …! Schau’ an …! Die
 Gräfin schwärmt für Natur …«
 
-Is verstand ihn nicht.
+Ich verstand ihn nicht.
 
-Drücke Dich doch deutlicher aus, Harald …„,« bat
-ich. »Wenn Du mich immer is im Dunkeln umhertappen
+»Drücke Dich doch deutlicher aus, Harald …,« bat
+ich. »Wenn Du mich immer so im Dunkeln umhertappen
 Läßt, dann …«
 
 »Lieber Max Schraut,« unterbrach er mich, »eigentlich
-trat das, was ich vermute, der ganzen Vorgeschichte nach so
-nahe, daß ein Blinder es mit dem Siegel führen müßte.
-Anderseits erscheint meine Thronte aber selbst mir so phantastisch,
+liegt das, was ich vermute, der ganzen Vorgeschichte nach so
+nahe, daß ein Blinder es mit dem Stock fühlen müßte.
+Anderseits erscheint meine Theorie aber selbst mir so phantastisch,
 daß ich gelinde Zweifel hinsichtlich der Richtigkeit
 Hegte, bis Frau Sutter mir bestätigte, daß die Gräfin alias
 die Engländerin mehr freiwillig ausgezogen ist.«
@@ -2262,7 +2262,7 @@ die Engländerin mehr freiwillig ausgezogen ist.«
 Da — — ging mir ein Licht auf …
 
 »Die Gräfin hat ein neues Quartier bezogen, das ihr
-für »hie Absichten geeigneter - erscheint …!« erklärte ich
+für ihre Absichten geeigneter erscheint …!« erklärte ich
 Schnell.
 
 »Bravo …! So ist’s!«
@@ -2271,7 +2271,7 @@ Schnell.
 
 »Diebstahl — auf besondere Art …«
 
-»Donnerwetter, daran hätte ich nie Mr Diebstahl
+»Donnerwetter, daran hätte ich nie gedacht! Diebstahl
 also?«
 
 »Ja — stehlen und doch nicht stehlen!« nickte Harald.
@@ -2296,9 +2296,9 @@ und große Wohlhabenheit des Besitzers.
 Wir läuteten an der Gartenpforte von Nr. 2.
 
 Ein älteres Stubenmädchen mit Häubchen öffnete und
-führte uns ins Haus. Im Flur trafen wir die HauSeigen-tümerin,
+führte uns ins Haus. Im Flur trafen wir die Hauseigentümerin,
 eine verwitwete Geheimrätin, eine jener alten
-seinen Damen mit würdigen, gütigen Greisinnengesichtern,
+feinen Damen mit würdigen, gütigen Greisinnengesichtern,
 vor denen selbst der rüdeste Patron bescheiden wird. 
 
 »Bitte — tun Sie nur Ihre Pflicht … Anna wird
@@ -2308,11 +2308,11 @@ Balkonzimmer, das ich jetzt vermietet habe …«
 
 Und zehn Minuten später gingen wir ohne Anna die
 Treppe empor. Auch hier die Läufer … Und lautlos
-Prangten wir vor der Tür der neuen Mieterin an. Das
+langten wir vor der Tür der neuen Mieterin an. Das
 Stubenmädchen hatte uns beschrieben, wo wir Miß Pemyford
 und den zweiten Apparat finden würden.
 
-Harst bückte sich, nie Nr das Schlüsselloch …
+Harst bückte sich, schaute durch das Schlüsselloch …
 
 Und — fuhr zurück …
 
@@ -2327,14 +2327,14 @@ Und zog mich mit sich fort …
 Zur Treppe, die in die Mansarde emporlief …
 
 Und hier zu einer Leiter, die neben der Dachluke an
-Kolomboer Wand hing …
+der Wand hing …
 
 Hastig stellte er die Leiter zurecht, kletterte hoch, hob den
 Lukendeckel — ganz leise … ganz leise …
 
 Und winkte …
 
-Wir krochen auf allen Vieren z um Dachrand. Da?
+Wir krochen auf allen Vieren zum Dachrand. Das
 Dach war flach und hatte ein Gitter, an dem Blumenkästen
 standen, deren Rankengewächse die Eisenstäbe völlig umsponnen
 hatten.
@@ -2355,19 +2355,19 @@ Sah, wie gerade ein Kormoran vom Balkon her über
 die Mauer des Nachbargrundstücks schwebte …
 
 Sah, daß dort drüben unweit der Mauer ein tiefes
-je es In mit einer Marmorgruppe in der Mitte
-ich erhob …
+Springbrunnenbassin mit einer Marmorgruppe in der Mitte
+sich erhob …
 
 Und daß weiterhin drei mächtige Wolfshunde in der
 Sonne im Grase lagen …
 
 Tiere wie die echten Wölfe … Fraglos Wächter des
-Grundstücks, die niemanden. einließen …
+Grundstücks, die niemanden einließen …
 
 Niemanden …!
 
 Und — — beobachtete mit ungeheurer Verblüffung,
-wie der Kormoran sich auf den Rand des leere niedersetze,
+wie der Kormoran sich auf den Rand des Beckens niedersetze,
 den Hals reckte … und plötzlich hinabschoß ins
 Wasser … wieder auftauchte — zum Balkon zurückflog,
 den wir jedoch nicht sehen konnten.
@@ -2379,13 +2379,13 @@ Ring trug …
 
 Und — das Spiel wiederholte sich …
 
-Der Vogel kein im Wasser …
+Der Vogel verschwand im Wasser …
 
 Kam empor …
 
 Und nun erkannte ich, daß er im krummen langen
 Schnabel einen smaragdgrünen handlangen Fisch hielt, ihn
-geschickt verschlang und — zum (in flatterte.
+geschickt verschlang und — zum Balkon flatterte.
 
 Der andere erschien abermals …
 
@@ -2396,7 +2396,7 @@ faul die Köpfe, beachteten die Kormorane nicht …
 
 In keiner Weise … —
 
-Sie der eine Vogel dann minutenlang auf dem Bassinrand
+Bis der eine Vogel dann minutenlang auf dem Bassinrand
 hockte und den Kopf in sehr komischer Weise hin und
 her drehte, ins Wasser hinabschielte und so wohl feststellte,
 daß das Becken jetzt ausgeplündert war …
@@ -2414,7 +2414,7 @@ Ich schaute den Freund fragend an …
 
 »Lieber Alter, — — das ist eben der Diebstahl!«
 
-Er lächelte sein …
+Er lächelte fein …
 
 So ein Lächeln, das besagt: »Meine Theorie stimmte!«
 
@@ -2442,17 +2442,17 @@ lasen den Spiegelabdruck ohne Mühe:
 
 > Berlin-Tiergarten
 
-> Erwarte Dich umgehend Hamburg Baron-Hotel
+> Erwarte Dich umgehend Hamburg Savoy-Hotel
 
 > Van den Haag.
 
 Harst zwinkerte mir zu …
 
-»An sich selbst … Damit he ausziehen kann — wie
-ich voraussagte! — Nach Hause …!
+»An sich selbst … Damit sie ausziehen kann — wie
+ich voraussagte! — Nach Hause …!«
 
 Und ein Auto brachte uns heim nach der Blücherstraße
-10. Mußte hinten am Gemüsegarten warten.
+10\. Mußte hinten am Gemüsegarten warten.
 
 Kein Wort hatte Harald während der Fahrt gesprochen.
 
@@ -2465,7 +2465,7 @@ Keine meiner Fragen beantwortet, nur mich vertröstet.
 <h2>4. Kapitel.</h2>
 <h3>Ein seltsames Versteck.</h3>
 
-Wir Leuten die Verkleidung ab. Wir wurden wieder
+Wir legten die Verkleidung ab. Wir wurden wieder
 Harst und Schraut …
 
 Und bestiegen dasselbe Auto. Inzwischen hatte der
@@ -2474,7 +2474,7 @@ Schofför das Verdeck hochgeklappt.
 »Sie wissen, wen Sie fahren,« sagte Harald zu dem
 Schofför. »Sie werden an der Ecke der Erlenstraße halten,
 und wenn Stunden darüber hingehen. Wir bleiben in der
-Nähe Eine Dame will verreisen. Auf die haben wir es
+Nähe. Eine Dame will verreisen. Auf die haben wir es
 abgesehen …«
 
 »sehr wohl, Herr Harst …« —
@@ -2489,10 +2489,10 @@ stets im Auge behalten konnte …
 
 Zwei Uhr wurde es.
 
-Da holte das alte Subenmädchen mit dem weißen
+Da holte das alte Stubenmädchen mit dem weißen
 Häubchen ein Auto …
 
-Da hielt dieses offene Auto wartend vor Nummern 2.
+Da hielt dieses offene Auto wartend vor Nummer 2.
 
 Nicht lange …
 
@@ -2511,7 +2511,7 @@ Die Bülowstraße hinab … Und gerade an der
 Kreuzung dieser mit der Potsdamer Straße hatten wir die
 Gräfin mit unserem Kraftwagen überholt …
 
-Eine Verkehrsstokung brachte auch ihr Auto zum
+Eine Verkehrsstockung brachte auch ihr Auto zum
 Halten …
 
 Wir stiegen aus …
@@ -2535,44 +2535,44 @@ ihren Leib hinlief …!
 
 »Mein Name ist … Harald Harst,« fügte mein
 Freund mit Nachdruck hinzu. »Gehorchen Sie — oder —
-— die Polizei wird sich mit Ihnen beschäftigen … 1«
+— die Polizei wird sich mit Ihnen beschäftigen …!«
 
 Sie nickte verstört …
 
 Nickte ganz geistesabwesend …
 
-»Schofför — Blücherstraße Nr. 92 — Schmargendorf«
+»Schofför — Blücherstraße Nr. 92 — Schmargendorf,«
 rief Harald dem Wagenführer zu.
 
 Und die Gräfin sagte tonlos:
 
 »Ja — Blücherstraße … Nicht Görlitzer Bahnhof.«
 
-Wir saßen ihr gecenüber …
+Wir saßen ihr gegenüber …
 
 Ihre Wangen bekamen wieder Farbe …
 
-Wir sahen, daß der Kormoran auch jetzt den Kehlfak-ring
+Wir sahen, daß der Kormoran auch jetzt den Kehlsackring
 trug …
 
 Schweigend fuhren wir dahin. Und ich — ich zermarterte
 mir mein armes Hirn …
 
-Dachte an die smaragdgrünen »Fische, die mir gänzlich
+Dachte an die smaragdgrünen Fische, die mir gänzlich
 unbekannt waren …
 
-An die Szene im Gartenevon Erlenstraße Nr. 3 …
+An die Szene im Garten von Erlenstraße Nr. 3 …
 
 An die drei Hunde … Daran, daß die Kormorane
-daß Becken geplündert taten …
+daß Becken geplündert hatten …
 
-Was in aller Welt bedeutete daß?! -
+Was in aller Welt bedeutete daß?! —
 
 Da waren wir schon in der Blücherstraße — vor dem
 fernen Hause, nicht vor Nummer zehn …
 
-»Schofför,« rief Harald, »biegen ’Sie »dort in den
-es 53 dem Laubengelände ein …«
+»Schofför,« rief Harald, »biegen Sie dort in den
+Seitenweg nach dem Laubengelände ein …«
 
 Er tat’s …
 
@@ -2591,15 +2591,15 @@ Der Schofför grinste …
 Wer kannte wohl nicht Blücherstraße 10 und den Gemüsegarten
 …?!
 
-in — jeder Berliner …! Harald Harsts Wohnung!
-wenig oder?
+Jeder — jeder Berliner …! Harald Harsts Wohnung!
+— Jeder …!!
 
-Und dürfen Harst reichte der Gräfin als vollendeter
+Und dieser Harst reichte der Gräfin als vollendeter
 Gentleman den Arm und führte sie in sein Arbeitszimmer.
 
 Ich trug … den Kormoran …
 
-Und hinter uns betrat Kollege Hendrik van Yymo-gnard
+Und hinter uns betrat Kollege Hendrik van Nymegaard
 das Zimmer …
 
 Mit einem Gesicht — — einem Gesicht!!
@@ -2619,13 +2619,13 @@ Der Kormoran aber hockte auf einer Stuhllehne, ordnete
 mit dem Schnabel seine Schwungfedern und zeigte sich
 wenig stubenrein, was dem Perserteppich schlecht bekam …
 
-Sie verstehen: Kammern aus wildem Nest, zuweilen
+Sie verstehen: Kormoran aus wildem Nest, zuweilen
 mal was fallen läßt …! —
 
-Die Gräfin Da sich an Harald, eröffnete die denkwürdige
+Die Gräfin wandte sich an Harald, eröffnete die denkwürdige
 Unterhaltung.
 
-»Herr Harst, falls Sir mich, die Gräfin van den Haag,
+»Herr Harst, falls Sie mich, die Gräfin van den Haag,
 lediglich deswegen hierher mitzukommen gezwungen haben,
 weil ich in Berlin als Miß Pemyford und verkleidet …«
 
@@ -2633,9 +2633,9 @@ Haralds kurze Handbewegung ließ sie verstummen.
 
 »Wir wollen die Situation schnell klären, Frau Gräfin.
 <@pagebreak/>
-— Gestern noch! wurden Sie in der Maske des Giovanni
+— Gestern nacht wurden Sie in der Maske des Giovanni
 Lamesto verhaftet, weil — ich es so wollte. Ich habe Sie
-nämlich im sicheren August beobachtet …«
+nämlich im Fidelen August beobachtet …«
 
 Ah — wieder erbleichte sie …
 
@@ -2643,7 +2643,7 @@ Rief leise — mehr klagend als ärgerlich:
 
 »Sie also waren … der … der Strolch.«
 
-»Ja — zwei Strolche —« Schraut und im Und
+»Ja — zwei Strolche — Schraut und ich. Und
 als wir vom Lastkraftwagen sprangen, wollten wir nur Ihre
 drei Zigaretten bergen …«
 
@@ -2657,7 +2657,7 @@ Pause …
 Die Gräfin, jetzt Bildsäule, schwieg …
 
 »Und Herr Detektiv van Nymegaard aus Amsterdam
-berichtete uns, daß Ihr entlassener je bei Ihnen
+berichtete uns, daß Ihr entlassener Schofför bei Ihnen
 mehrere dieser Zettelchen gefunden hätte …«
 
 Da — hob sie den Kopf …
@@ -2667,14 +2667,14 @@ nichts, Herr Harst!«
 
 Aha — sie begann zu kämpfen …!
 
-»Ob, die Zettel besagen doch, daß Sie Mitglied einer
-uns Waage sind, Frau Gräfin. Auch der Graf Viamilio
+»Oh, die Zettel besagen doch, daß Sie Mitglied einer
+Diebesbande sind, Frau Gräfin. Auch der Graf Viamilio
 …«
 
-»JI höre den Namen hier zum ersten Male …!«
+»Ich höre den Namen hier zum ersten Male …!«
 
 »Ja — weil diese Bande nur von einer Stelle aus geleitet
-wird, weil nur diese Persönlichkeit die Mitglieder umrankt,
+wird, weil nur diese Persönlichkeit die Mitglieder anwirbt,
 Befehle erteilt und … die Dreien beifügt. — Leugnen
 hat hier wirklich keinen Zweck mehr, Frau Gräfin …
 Gar keinen …«
@@ -2686,11 +2686,11 @@ dort … eingetreten, Frau Gräfin …«
 
 Und — sie nickte eifrig …
 
-»Vielleicht deshalb, um zurüzugewinnen, was einst
+»Vielleicht deshalb, um zurückzugewinnen, was einst
 Ihrem verstorbenen Gatten gehörte …«
 
 <@pagebreak/>
-Wieder das eifrige vier und — ein maßlos erstaunten
+Wieder das eifrige Nicken und — ein maßlos erstaunter
 Blick auf Harst …
 
 Der fuhr fort:
@@ -2698,7 +2698,7 @@ Der fuhr fort:
 »Der Familienschmuck der van den Haag wurde Ihnen
 gestohlen …«
 
-»34, Herr Harst …«
+»Ja, Herr Harst …«
 
 Sie atmete schwer, rang mit sich …
 
@@ -2710,64 +2710,64 @@ Schmuck wieder — zu stehlen …«
 
 »So ist’s …«
 
-»Wir können ’nun offener verhandeln, Frau Gräfin …
+»Wir können nun offener verhandeln, Frau Gräfin …
 — Sie brachten mühsam heraus, daß der unsichtbare Leiter
-der je … - ein Weib war, das … hier in Berlin
+der Bande … ein Weib war, das … hier in Berlin
 wohnte …«
 
 »Ja …«
 
 »Und brachten weiter heraus, daß dieses Weib die Diamanten
 des Familienschmuckes der van den Haag jenen
-seltsamen Tonne-Fischen in den Schlund und den Magen
+seltsamen Pomyr-Fischen in den Schlund und den Magen
 gepreßt hatte, die bekanntlich nur von Muscheln leben und
 daher zum Zermalmen der Muscheln im Magen stets Steine
-wir sich herumtragen, genau wie dies bei vielen Vögeln der
+mit sich herumtragen, genau wie dies bei vielen Vögeln der
 Fall ist, die harte Kost lieben — so auch Hühner, Enten,
 Gänse zuweilen …«
 
 Die Gräfin schaute wiederum mit einem Blick ungläubigen
 Staunens auf den Mann, der da im Klubsessel
-saß und aus den Tiefen seines unerschöpflichen Birne die
-selten Fäden hervorholte, die das Rätselhafte mit dem Natürlichen
+saß und aus den Tiefen seines unerschöpflichen Hirns die
+festen Fäden hervorholte, die das Rätselhafte mit dem Natürlichen
 zur logischen Kette verbanden.
 
-»Und dieses Weib, Frau Gräfin, muß wohl den Foa-milienschmuck
+»Und dieses Weib, Frau Gräfin, muß wohl den Familienschmuck
 mehr aus Rache haben stehlen lassen, da sie
 ja die Diamanten nicht veräußerte, sondern im Leibe von
 Fischen schlau verbarg, die in ihrem Bassin wieder von
 drei Hunden bewacht wurden …«
 
-»Sie … sie liebte meinen Gatten, als er mich noch)
+»Sie … sie liebte meinen Gatten, als er mich noch
 <@pagebreak/>
 nicht erwählt hatte … aus Rache, aus Eifersucht — ja,
 so ist es, Herr Harst …«
 
 »Und diese Frau, die dort Erlenstraße Nr. 3 wohnt,
 ahnte ihrerseits nicht, daß Miß Pemyford und die Gräfin
-Es ein und dieselbe Tee waren …«
+Wilhelminje ein und dieselbe Person waren …«
 
 »Nein …«
 
-»Diese Frau u überraschende Ähnlichkeit mit Frage-Antje
-Jiesport …«
+»Diese Frau hat überraschende Ähnlichkeit mit Frau
+Antje Jiesport …«
 
-»Es ist deren -Zwillingsschwester, von deren Existenz,
+»Es ist deren Zwillingsschwester, von deren Existenz
 Frau Antje nichts weiß …«
 
-»Und — es ist die Mörderin Ritbenstoins, die Mörderin
+»Und — es ist die Mörderin Rubensteins, die Mörderin
 Viamilios …«
 
 »Auch … der Hinkende von gestern nacht, Herr Harst.«
 
 »Sie heißt — oder nennt sich hier in Berlin wie?«
 
-»Prau Anita Mongborg,. Witwe des mexikanischen:
+»Frau Anita Mongborg, Witwe des mexikanischen
 Obersten Mongborg … mit Recht!«
 
-»Danke, Frau Gräfin … — WedShalb nahmen Sie
+»Danke, Frau Gräfin … — Weshalb nahmen Sie
 nicht die Hilfe der Polizei in Anspruch, als Sie wußten,
-wer nun den SEIDIETNONEN im Besitz hatte?«
+wer nun den Familienschmuck im Besitz hatte?«
 
 »Weil ich …«
 
@@ -2775,13 +2775,13 @@ Da stockte sie …
 
 »Nein, darüber spreche ich nicht …«
 
-»Hm — verzeihen Sie, Frau Gräfin, »sollten Sie sich
+»Hm — verzeihen Sie, Frau Gräfin, sollten Sie sich
 etwa gescheut haben einzugestehen, daß Ihr Gatte einst
 zärtliche Beziehungen zu diesem Weibe unterhalten?«
 
 »Ja …« Ganz leise klang’s …
 
-»Und nun — nun hat wohl der »Kormoran dort die
+»Und nun — nun hat wohl der Kormoran dort die
 Diamanten im Kehlsack?«
 
 »Sämtlich, Herr Harst … Alle zweiunddreißig …«
@@ -2789,8 +2789,8 @@ Diamanten im Kehlsack?«
 »Und was gedachten Sie jetzt zu tun?«
 
 »Nach Amsterdam zurückzukehren und der Berliner
-Polizei die Mongborg als Mörderin Rubensteins zu be
-zeichnen …«
+Polizei die Mongborg als Mörderin Rubensteins zu bezeichnen
+…«
 
 Harst Überlegte …
 
@@ -2799,12 +2799,12 @@ Sagte dann:
 »Frau Gräfin, Herr Kollege Nymegaard wird nichts dagegen
 <@pagebreak/>
 haben, wenn ich Ihnen gestatte, sich wieder zu entfernen
-… Sie sind meines Erachtens is. schon genug
-boshafter, um Sie der Polizei auszuliefern …«
+… Sie sind meines Erachtens nicht schwer genug
+belastet, um Sie der Polizei auszuliefern …«
 
 Und — sofort stand sie auf …
 
-»3ch4 danke den Herren … u »Sie war gerührt …
+»Ich danke den Herren …« Sie war gerührt …
 Ihre Stimme schwankte leicht. »Ich werde Ihnen noch
 rasch ein paar Zeilen überreichen — in geschlossenem Umschlag,
 Herr Harst … Den öffnen Sie bitte erst, wenn
@@ -2812,14 +2812,14 @@ die Mongborg verhaftet ist.«
 
 »Wie Sie wünschen …«
 
-er mich an ren Schreibtisch sehen? — So,
+»Darf ich mich an Ihren Schreibtisch setzen? — So,
 danke …«
 
 Gleich darauf schob Harald den Brief in die Tasche,
-und ein anderes Auto »Fritz die Gräfin samt Koffern und
+und ein anderes Auto trug die Gräfin samt Koffern und
 Kormoran davon …
 
-Wir sagte diese Milde Harsts wenig zu. Ich hatte das.
+Mir sagte diese Milde Harsts wenig zu. Ich hatte das
 Gefühl, daß die Gräfin uns … grob belogen habe. Als
 ich aber meine Zweifel Harald gegenüber äußerte, erklärte
 er:
@@ -2827,7 +2827,7 @@ er:
 »Du irrst! Sie log nicht. Denn was Du über diese
 Dinge hörtest, kam ja in der Hauptsache als Kombination
 aus meinem Munde … Und — diese Kombinationen
-Ftimanien!«
+stimmten!«
 
 <h2>5. Kapitel.</h2>
 <h3>Ein einfacher Trick.</h3>
@@ -2839,16 +2839,16 @@ verhaften lassen.
 Harst schüttelte den Kopf.
 
 »Kollege, eine Frau, die für die Diamanten der van
-den Haag ein so tadelloses wollte ersonnen, die jeden Tag
-Ring zu dem Bassin zu pilgern brauchte, um sich an dem Anblick
+den Haag ein so tadelloses Versteck ersonnen, die jeden Tag
+nur zu dem Bassin zu pilgern brauchte, um sich an dem Anblick
 <@pagebreak/>
 der Fische erfreuen zu können, die die Diamanten in
 sich trugen, — diese Frau, die aus Eifersucht den Grafen in
-Armut und Elend trug:!e, wird auch die Edelsteine Jiesport?
+Armut und Elend jagte, wird auch die Edelsteine Jiesports
 so glänzend verborgen haben, daß wir sie auf dem gewöhnlichen
-Wege des Gartens nie finden können … — Nein,
+Wege des Suchens nie finden können … — Nein,
 ich schlage etwas anderes vor … Wir drei erscheinen als
-Beamte des Sie bei der Mongborg, melden
+Beamte des Wohnungsamtes bei der Mongborg, melden
 uns vorher telephonisch an …«
 
 »Hm — und dann?«
@@ -2859,36 +2859,36 @@ mit … Ich telephoniere …« —
 
 Die Frau Oberst Mongborg war daheim. War selbst
 am Apparat. War überzeugt, daß eine Kommission ihre
-Villa daraufhin besichticen wolle, ob das Haus sich noch
+Villa daraufhin besichtigen wolle, ob das Haus sich noch
 für Familien umbauen lasse. —
 
-Drei Uhr nochmititags …
+Drei Uhr nachmittags …
 
-Die Komposition läutete an der Gartenpforte.
+Die Kommission läutete an der Gartenpforte.
 
-Ein Diener kam und öjfsnete …
+Ein Diener kam und öffnete …
 
-Ein Krummer Bursche … ein hübscher Kerl — mit
+Ein strammer Bursche … ein hübscher Kerl — mit
 Intelligenz in den Augen …
 
 »Vielleicht … der Liebhaber,« flüsterte Harald …
 
 Ich war gespannt auf Anita Mongborg … Ich war
 überrascht, als sie uns dann in einem vornehmen Salon
-empfing, Überra’cht und verwirrt von so viel blendenden
+empfing, Überrascht und verwirrt von so viel blendenden
 Reizen eines vollerblühten Weibes …
 
-Ja — Ähnlichkeit mit Antje Jiesport war wohl vor.
+Ja — Ähnlichkeit mit Antje Jiesport war wohl
 vorhanden. Aber nur eine Ähnlichkeit, die lediglich durch
-Kunfstmittel zur Täuschung Rubensteins und anderer hingereicht
+Kunstmittel zur Täuschung Rubensteins und anderer hingereicht
 hatte.
 
 Harald als Wortführer tat ganz dienstlich
 
-Die Monoborga lächelte von oben herab …
+Die Mongborg lächelte von oben herab …
 
 »Meine Villa ist kein Hotel und wird es nie werden …
-H3 ist ein Kunstwerk, dieses Haus …«
+Es ist ein Kunstwerk, dieses Haus …«
 
 »Wir werden es uns ansehen …« Sehr kühl und
 sachlich wieder … —
@@ -2920,7 +2920,7 @@ Da ahnte ich dunkel, was kommen würde …
 Und — es kam …
 
 »Ah — ein großer Springbrunnen, gnädige Frau
-Und eine sehr gejaämadvolle Marmorgruppe darin …«
+Und eine sehr geschmackvolle Marmorgruppe darin …«
 
 Wir standen am Rande des Beckens …
 
@@ -2932,29 +2932,29 @@ Sah, daß die smaragdgrünen Fische — verschwunden.
 
 Erbleichte …
 
-Nun sich nicht beherrschen …
+Konnte sich nicht beherrschen …
 
 Rief:
 
 »Oh — — bestohlen — bestohlen! Hier waren ausländische
 Fische in dem Becken. Zweiunddreißig Stück …«
 
-»Sehr bedauerlich« murmelte Harald. »Hoffentlich ist
+»Sehr bedauerlich,« murmelte Harald. »Hoffentlich ist
 nicht noch mehr gestohlen worden … Diebe, die trotz
 der Hunde das Bassin geplündert haben, dürften auch frech
-genug zu noch besseren Streichen sein …«
+genug zu noch keckeren Streichen sein …«
 
 Das Weib starrte den Herrn Beamten geistesabwesend
 an …
 
-rief plötzlich davon — nur zehn Schritt — zu einer
+Lief plötzlich davon — nur zehn Schritt — zu einer
 dicken Kiefer am Wege, machte kehrt …
 
 Lächelte …
 
 »Oh — ich bin so … so verwirrt … Ich weiß selbst
 <@pagebreak/>
-nicht, was ich tue … Wir war’s, als ob dort hinter der
+nicht, was ich tue … Mir war’s, als ob dort hinter der
 Kiefer noch … der Dieb stände …«
 
 Auch der Herr Beamte lächelte …
@@ -2967,7 +2967,7 @@ Wurde ärgerlich …
 
 »Lassen Sie die Scherze …!«
 
-»Oh — bitte - Ton Frau M0109978 5.475 ZI0
+»Oh — bitte — tatsächlich Frau Mongborg … Ich
 sehe dort etwas … Kommen Sie nur …«
 
 Sie zögerte …
@@ -2992,11 +2992,11 @@ Dann — wir vier vor der Kiefer …
 
 Und — Harald bückte sich …
 
-Tat, als Höhe er aus dem Grase am Fuße des Baumes
+Tat, als höbe er aus dem Grase am Fuße des Baumes
 ein Stückchen Papier auf …
 
-Ein Zettelchen — Briefmarkengröße =« zwei Dreien,
-die zu einer Acht gegen Licht verschmolzen
+Ein Zettelchen — Briefmarkengröße — zwei Dreien,
+die zu einer Acht gegen Licht verschmolzen …
 
 »Eine merkwürdige Sache, dieser Zettel, Frau Mongborg
 …«
@@ -3017,7 +3017,7 @@ Ein Satz — ein Satz gegen Nymegaard, der zurücktaumelte
 …
 
 <@pagebreak/>
-Sitz hatte ich sie schon am linken Arm gepackt, riß sie
+Da hatte ich sie schon am linken Arm gepackt, riß sie
 zurück …
 
 Da jagten schon die Hunde herbei,
@@ -3043,13 +3043,13 @@ Anitas Garde …!
 
 Mit Revolvern …
 
-Kerle wie die Türen… Kerle, Venen ein Menschenleben
-ein nichts …
+Kerle wie die Hünen … Kerle, denen ein Menschenleben
+ein Nichts …
 
 Kerle, die jetzt stutzten …
 
 Denen das grelle Peng, Peng der Pistole doch den
-Mal benahm …
+Mut benahm …
 
 »Stehen bleiben!« befahl Harst … »Revolver wegwerfen
 …«
@@ -3077,19 +3077,19 @@ Harst dann den Baum betastend …
 
 Die rissige dicke Borke …
 
-»Sie er das fand, was hier vorhanden sein nahe: das
+Bis er das fand, was hier vorhanden sein mußte: das
 Versteck — ein großes Astloch, schlau mit Borke verhüllt —
 <@pagebreak/>
-ohne Jedes Anzeichen eines Verstecke!
+ohne Jedes Anzeichen eines Verstecks!
 
-In dem Astloch nur ein Seinenveittel …
+In dem Astloch nur ein Leinenbeutel …
 
 aber — — gewichtig, schwer …! —
 
-Dann peng zwei Ton L herbeigelockt durch
+Dann plötzlich zwei Schupo-Beamte, herbeigelockt durch
 die Schüsse …
 
-Dann — — eine kraftvolle blihbschhnelle Bewegung der
+Dann — — eine kraftvolle blitzschnelle Bewegung der
 Mörderin …
 
 Und die rechte Hand fuhr empor …
@@ -3101,15 +3101,15 @@ Ein Lachen schrillte …
 Aus dem einen Finger der Rechten ein dicker Blutstropfen
 …
 
-»Falls ’Sie mich noch etwas fragen weiter: Herr Harst.
+»Falls Sie mich noch etwas fragen wollen, Herr Harst.
 Beeilen Sie sich!« sagte sie eisig. »Nach zwei Minuten bin
 ich tot …«
 
-Sie stand he aufgerichtet da …
+Sie stand hoch aufgerichtet da …
 
 Oh — wie schön sie war …! Und doch — sterben —
-fü sterben …! Dem Tode so ins Antlitz schauen
-— so!
+freiwillig sterben …! Dem Tode so ins Antlitz schauen
+— so!!
 
 Mir graute …
 
@@ -3132,28 +3132,28 @@ hassen lehrten!«
 Sie taumelte plötzlich zur Seite. Harald fing sie auf.
 
 Und — in seinen Armen starb sie … Seinen Hals
-wenn haltend …
+umschlungen haltend …
 
 Als ob sie … ihm verzieh, daß er sie in den Tod
-geheilt hatte. —
+gehetzt hatte. —
 
 Die drei Leute, die der Herrin zu Hilfe gekommen,
 <@pagebreak/>
-entpuppten sich nachher als längst gesuchte invernationale
+entpuppten sich nachher als längst gesuchte internationale
 Verbrecher.
 
 Der Leinenbeutel aber enthielt die ganze Beute des
-Rubenstein sehen Mordes und noch anderes —
+Rubensteinschen Mordes und noch anderes —
 
-alle wir drei, Nymegaard als dritter, gegen fünf Uhr
-Mr 399 ’Harald den Brief der Gräfin aus der
+Als wir drei, Nymegaard als dritter, gegen fünf Uhr
+heimfuhren, zog Harald den Brief der Gräfin aus der
 Tasche.
 
 Schnitt den Umschlag sorgfältig auf und las dann die
 flüchtigen und doch so bedeutungsvollen Zeilen …
 
 Daß diese enge Besonderes enthielten, sah ich an Haralds
-Gesicht3zausdruck …
+Gesichtsausdruck …
 
 Er reichte den Brief dem Kollegen …
 
@@ -3184,7 +3184,7 @@ in die Tasche.
 Und — er behielt recht …
 
 Das zeigt der nächste Band: »Der Bouillonkeller
-Nr. 113«, den wir bereits hier Tenne gelernt haben.
+Nr. 113«, den wir bereits hier kennen gelernt haben.
 
 Nächster Band:
 
