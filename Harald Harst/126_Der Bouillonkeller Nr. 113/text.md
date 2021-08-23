@@ -9,20 +9,20 @@ An einem jener wenigen warmen Septembertage des
 Jahres 1923 fand sich abends gegen halb sieben in unserem
 gemeinsamen Heim in der Blücherstraße 10 in Schmargendorf
 ein ärmlich gekleideter, aber recht sympathisch aussehender
-junger Mensch ein, der uns folgendes in unversalschym
+junger Mensch ein, der uns folgendes in unverfälschtem
 Berliner Dialekt erzählte.
 
 Er hatte, um Pilze zu suchen, die Wälder westlich von
-Potsdam durch streift und sich dabei verirrt. Während er eine
-längliche ältere Schonung durch. d;ritt, sah er an einem Baume
+Potsdam durchstreift und sich dabei verirrt. Während er eine
+hügelige ältere Schonung durchschritt, sah er an einem Baume
 inmitten einer kleinen Lichtung ein Fahrrad stehen, ohne den
 Besitzer in der Nähe zu bemerken. Während er sich noch das
-tadellos neue Rad anschaute. wurde er durch das Knacken
+tadellos neue Rad anschaute, wurde er durch das Knacken
 eines brechenden trockenen Astes gewarnt und duckte sich
 hinter ein paar Brombeerstauden, die hier am Rande der
 Lichtung besonders üppig wucherten.
 
-Er gewahrte [so einen zerlumpten Menschen und eine
+Er gewahrte so einen zerlumpten Menschen und eine
 junge Dame in elegantem Radlerkostüm, die jetzt die Lichtung
 betraten und neben dem Rade stehen blieben.
 
@@ -41,13 +41,13 @@ Der Strolch, der ihr eine Weile nachschaute, machte
 kehrt und verschwand in der Tiefe der dichten Schonung.
 
 Unser Klient, Übrigens ein stellenloser Schuhmachergeselle
-namens darf Wieprecht, war durch die soeben beobachtete
+namens Karl Wieprecht, war durch die soeben beobachtete
 Szene neugierig geworden und schlich vorsichtig hinter
-dem bärtigen Stromer. her, bis dieser inmitten einer Gruppe
+dem bärtigen Stromer her, bis dieser inmitten einer Gruppe
 uralter Eichen, wie man sie in den Potsdamer Wäldern so
 häufig antrifft, im Nu sich geradezu unsichtbar machte.
 
-Wieprecht, hierdurch noch stutßziger und Überzeugt, daß
+Wieprecht, hierdurch noch stutziger und Überzeugt, daß
 er irgendwelchen recht dunklen Geschichten zufällig auf die
 Spur gekommen sei, kroch näher an die von hohen Brombeersträuchern
 umgebenen acht Eichen heran und bemerkte so
@@ -57,20 +57,20 @@ eisernen Gitters eingeschlossen war.
 Der Strolch jedoch war und blieb verschwunden.
 
 Der Pilzsucher wollte schon wieder unverrichteter Sache
-davonschleichen, als ein Bis in die mächtigen Kronen der
+davonschleichen, als ein Blick in die mächtigen Kronen der
 uralten Bäume ihm einen dünnen Rauchfaden zeigte, der
 graugelb scheinbar aus dem einen Eichenstamm etwa sieben
 Meter über dem Boden hervorquoll, schnell dichter wurde
 und sich doch im Blattgewirr bald wieder auflöste.
 
 Als er nun so im hohen Grase dalag und verwundert
-zt dem graugelben Qualm emporstarrte, hörte er irgend
-woher seltsam schrille, gedämpfte Schreie, die jedoch plötzlich
+zu dem graugelben Qualm emporstarrte, hörte er irgendwoher
+seltsam schrille, gedämpfte Schreie, die jedoch plötzlich
 wieder verstummten.
 
 Da bekam er es mit der Angst und rannte davon.
 
-Unterwegs nach Berlin fand er kann in dem Vorortzuge
+Unterwegs nach Berlin fand er dann in dem Vorortzuge
 eine Morgenzeitung, blätterte aus Langerweile darin
 und entdeckte so den Bericht über die am Tage vorher erfolgte
 Verhaftung des Dienstpersonals der Frau Mongborg,
@@ -85,7 +85,7 @@ hatte.
 
 Als Wieprecht so Harsts Namen las, überlegte er, ob
 er dem berühmten Detektiv sein heutiges Abenteuer vielleicht
-mitteilen solle. =«
+mitteilen solle. —
 
 Nachdem er uns sein Erlebnis mit allen Einzelheiten
 geschildert hatte, erklärte Harald lächelnd, die Sache sei doch
@@ -97,23 +97,23 @@ Abenteuer niemandem sonst zu erzählen, was Wieprecht auch
 freudig und mit ehrlichen Augen versprach.
 
 Um sieben Uhr verließ er das Harstsche Familienhaus
-recht vergnügt - und ahnte nicht, daß der große Harald
+recht vergnügt — und ahnte nicht, daß der große Harald
 Harst ihn — grob angeschwindelt hatte.
 
 Denn kaum war die Vorgartenpforte hinter ihm zugefallen,
 als Harald zu mir sagte:
 
-»Lieber Ihre, ich denke, die Geschichte lohnt. Wieprecht
+»Lieber Alter, ich denke, die Geschichte lohnt. Wieprecht
 hat uns die acht Eichen so genau beschrieben, daß wir auch
-im Dunkeln hinfinden werden. — Kostüm Strolch natürlich?
+im Dunkeln hinfinden werden. — Kostüm Strolch natürlich!
 Also an die Arbeit!«
 
-In zehn Minuten waren wir fertig. Inzwischen hatten
+In zehn Minuten waren wir fertig. Inzwischen hatte
 die Köchin Mathilde auch für uns eine Menge Brote herrichten
 müssen, und als zwei waschechte Pennbrüder betraten
 wir durch den Gemüsegarten den Feldweg, gelangten bald
 in die Blücherstraße und bestiegen ein Auto, dessen Chauffeur
-Zunächst mit geringschätziger Blicken die beiden Strolchs
+Zunächst mit geringschätzigen Blicken die beiden Strolche
 musterte, bis der größere ihm ins Ohr flüsterte:
 
 »Harald Harst, mein Lieber!«
@@ -127,25 +127,25 @@ Saßen ganz behaglich im geschlossenen Kraftwagen und
 unterhielten uns über den — neuen Fall.
 
 »Es ist wohl selbstverständlich, daß das alte eiserne
-Gitter dort zusichern den Ticken in der Waldeinsaakeit ein
-Grab Ausschließt,« sagte Harald und stopfte sich die kurze
+Gitter dort zwischen den Eichen in der Waldeinsamkeit ein
+Grab umschließt,« sagte Harald und stopfte sich die kurze
 Stummelpfeife, die zu seiner Maske genau so gehörte wie
-die Scimbpatina auf den Händen und im Gesicht. »Es
-a!b mehrere solchen Gräber dort in den Kälbern, zumeist
-nein historischen Bedeutung. Es kann sich hier nur um das
-pro in dem Fremdenführer von Potsdam und Umgegend
-cerwähnte Grab des Forstmeisters Joachim von Rocholz handeln,
+die Schmutzpatina auf den Händen und im Gesicht. »Es
+gibt mehrere solchen Gräber dort in den Wäldern, zumeist
+von historischer Bedeutung. Es kann sich hier nur um das
+auch in dem Fremdenführer von Potsdam und Umgegend
+erwähnte Grab des Forstmeisters Joachim von Rocholz handeln,
 der unter der Regierung Friedrichs des Großen von
 Wilddieben tödlich verwundet wurde und den Wunsch geäußert
 hatte, an derselben Stelle beerdigt zu werden, wo
-ihn das verderbliche Blei niedeustreck1e.«
+ihn das verderbliche Blei niederstreckte.«
 
 Er rauchte …
 
 Und ich nahm die Zigarre aus dem Munde und meinte:
 
 »Es scheint, als ob in dem Grabe oder dicht dabei dieser
-Barissa als Höhlenbewohner haust. Der lau ist doch
+Barissa als Höhlenbewohner haust. Der Rauch ist doch
 in dem hohlen Stamm der Eiche hochgestiegen.«
 
 »Natürlich — Höhlenbewohner! Denn das Grab
@@ -171,10 +171,10 @@ Diese Angaben genügten, mein Gedächtnis aufzufrischen.
 »Stimmt — jetzt besinne ich mich. Im internationalen
 Fahndungsblatt war Jack Barissas Bild zu finden.«
 
-»Die Polizei schickt ihm den Mord an dem Geheimrat
+»Die Polizei schiebt ihm den Mord an dem Geheimrat
 Horwiz in der Villenkolonie Dahlem in die Schuhe.«
 
-»Ja — Horwiz überraschte Einbrecher, und einer [Schoß
+»Ja — Horwiz überraschte Einbrecher, und einer Schoß
 ihn nieder.«
 
 »Barissa tat’s sicherlich nicht. Die Pinkertons aus Neuyork
@@ -194,20 +194,20 @@ wir anderes zu tun hatten.«
 »Nach Wieprechts Beschreibung muß er es sein. Barissa
 eignet sich wenig zum Verbrecher, da seine unförmig
 dicke Knollennase ein böses Kennzeichen ist. Der Nase
-wegen lebt er nun wohl auch vorläufig als Waldmensch,
-he unser Klient Wieprecht hob dieses Riechorgan besonders
+wegen lebt er nun wohl auch vorläufig als Waldmensch.
+Und unser Klient Wieprecht hob dieses Riechorgan besonders
 hervor —«
 
 Weiter fuhren wir … Durch die stille Herbstnacht …
-Vorbei an den Vororten … Durch Neu-Babelsberg, genaues
+Vorbei an den Vororten … Durch Neu-Babelsberg, Nowawes
 …
 
-hing Uhr war’s, als das Auto dann am Waldesrande
+Acht Uhr war’s, als das Auto dann am Waldesrande
 hielt.
 
 »Warten Sie hier,« befahl Harst dem Chauffeur. »Sollte
 jemand Sie fragen, weshalb Sie hier auf der Chaussee mit
-Ihrem Kraftwagen sicher, so geben Sie am besten eine
+Ihrem Kraftwagen stehen, so geben Sie am besten eine
 Panne als Grund an!«
 
 »Sehr wohl, Herr Harst —«
@@ -220,26 +220,26 @@ Panne als Grund an!«
 Wir beide gingen zu Fuß weiter. Bogen zehn Minuten
 drauf rechts in den Wald ein, wanderten einen Fahrweg
 entlang, genossen die ganze traumhafte Poesie eines abendlichen
-Spaziergänge durch den stillen Forst, belauschten ein
-paar jede, sahen Meister Reineke auf Raub ausziehen, hörten
+Spaziergangs durch den stillen Forst, belauschten ein
+paar Rehe, sahen Meister Reineke auf Raub ausziehen, hörten
 den dumpfen Jagdruf des Waldkauzes und fühlten in
-Wohnung die diese Andacht vor der Unberührtheit dieser Naturbilder.
+uns die tiefe Andacht vor der Unberührtheit dieser Naturbilder.
 
-*So* schritt begann dieses Abenteuer.
+*So* schlicht begann dieses Abenteuer.
 
 So harmlos begann es.
 
 Und doch: in unseren Taschen, in den zerfetzten Beinkleidern
-der beiden Strolche steckten die neunschüssigen Ellen
-nrentpistolen, steckten Taschenlampen, Ersatzbatterien, aufklappbare
+der beiden Strolche steckten die neunschüssigen Clementpistolen,
+steckten Taschenlampen, Ersatzbatterien, aufklappbare
 Dolchmesser — unser Rüstzeug!
 
 Und hier inmitten sonst rauschender Kiefern und säuselnder
-Buchen, Fenster Eichen aßen wir Abendbrot.
+Buchen, ernster Eichen aßen wir Abendbrot.
 
 Aßen in der Gewißheit, daß wir vielleicht sehr bald
-keine Zeit mehr haben würden, an derlei körperliche Not-wendiakeiten
-zu denken.
+keine Zeit mehr haben würden, an derlei körperliche
+Notwendigkeiten zu denken.
 
 Und tranken dazu aus echten Stromerpullen süßen Tee
 mit Rum. —
@@ -264,7 +264,7 @@ meiner Seele auf — wie ich einst Lederstrumpfs Erzählungen
 mit Gier verschlungen hatte, besonders den Kundschafter am
 Binnensee, — — und so wie einst Wildtöter durch die Wälder
 <@pagebreak/>
-schlich, so jetzt auch wir beide, Kinder einer w’deren Zelt,
+schlich, so jetzt auch wir beide, Kinder einer anderen Zeit,
 Kinder des Jahrhunderts weltumstürzender Erfindungen.
 
 Poesie — Mondlicht — Schweigen der Wälder …
@@ -293,9 +293,9 @@ Nein — doch nicht ganz …
 
 Wildtöter — — Lederstrumpf!! — Nun galt’s, lautlos
 heranzukommen an den Mann, der da neben dem Grabe des
-orstmeister3 Rocholz saß und seine Abendzigarre genoß.
+Forstmeisters Rocholz saß und seine Abendzigarre genoß.
 
-Nun schoben wir uns vorwärts aus allen vieren …
+Nun schoben wir uns vorwärts auf allen vieren …
 Hätten jeden Trapper beschämt, hatten das Anschleichen oft
 genug geübt in fernen Zonen, wo wir beide hoch zu Roß
 oder Dromedar Verbrecher durch Sandwüsten und Steppen
@@ -332,7 +332,7 @@ Das Weib wandte den Kopf …
 
 Zeigte uns ein reines Profil, ein junges Profil …
 
-Und wir beide — drei wieder hinter ihr — hielten den
+Und wir beide — drei Meter hinter ihr — hielten den
 Atem an.
 
 Aus der Tiefe der Gruft kam eine rauhe Stimme, die
@@ -346,7 +346,7 @@ Und das Weib:
 »Sofort, lieber Jack! Nur noch drei Züge, dann ist
 die Zigarette aufgeraucht …«
 
-»Aber nicht den Er Kamel draußen lassen, Mylady!!«
+»Aber nicht den Stummel draußen lassen, Mylady!!«
 
 »Keine Sorge, lieber Jack!« —
 
@@ -362,58 +362,58 @@ War kaum verschwunden, als Barissa emporstieg …
 
 Das Mondlicht traf ein Ungeheuer von Nase …
 
-Traf ein Paar helle, träumerische Augen im wild um
-hafteten Gesicht …
+Traf ein Paar helle, träumerische Augen im wild umbarteten
+Gesicht …
 
 Jack packte den schweren Stein …
 
-Mußte der Mensch Kräfte Badeort!
+Mußte der Mensch Kräfte haben!!
 
-Wollte ihn über die Gruft Boden …
+Wollte ihn über die Gruft decken …
 
 <@pagebreak/>
 Wollte …
 
-Ließ den Stein zurückgleiten, stierte wie gebannt aus
-ein kleines schob; Parkes Loch — auf die Pistolenmündung, die
-sich ihm da mit einem Male aus den Gläsern drohend entgegenschob
+Ließ den Stein zurückgleiten, stierte wie gebannt auf
+ein kleines schwarzes Loch — auf die Pistolenmündung, die
+sich ihm da mit einem Male aus den Gräsern drohend entgegenschob
 …
 
 »Keinen Laut!« flüsterte Harald auf englisch.
 
-Und weine Wenigkeit, Max Schraut, kannte schon die
+Und meine Wenigkeit, Max Schraut, kannte schon die
 einfache Pflicht …
 
-Male stehen die dünne geteerte unzerreißbare Hanfschlinge
-dem wie erstarrt auf der obersten Leiterstufe sterben
-den um die Handgelenke geschlungen, zugezogen und verknotet
+Hatte schon die dünne geteerte unzerreißbare Hanfschlinge
+dem wie erstarrt auf der obersten Leiterstufe Stehenden
+um die Handgelenke geschlungen, zugezogen und verknotet
 … —
 
 Jack Barissa gab das Spiel verloren, stand wie ein
 Lamm da.
 
-»Sommer Sie vollends nach oben,« befahl Harald.
+»Kommen Sie vollends nach oben,« befahl Harald.
 
-»Gern “« sagte der Geldschrankknacker ebenso leise. »Mit
+»Gern« sagte der Geldschrankknacker ebenso leise. »Mit
 Vergnügen sogar … Ich habe der Polizei nie Schwierigkeiten
-bereitet. Ich bin keine Genial:Natur, bin ein Herkules
+bereitet. Ich bin keine Gewaltnatur, bin ein Herkules
 mit dem Gemüt eines Kindes —«
 
 Der schnurrige Kauz ließ es sich ebenso geduldig gefallen,
-daß wir ihn an das Grabgitter sestbanden.
+daß wir ihn an das Grabgitter festbanden.
 
 Kaum waren wir damit fertig, als Mylady von unten
 rief:
 
-»Jack, wo bleiben Sie denn? Die gesehen werden
+»Jack, wo bleiben Sie denn? Die Setzeier werden
 kalt!«
 
 Da stieg denn Harald als erster hinab. Ich dicht hinterdrein
 …
 
 Wir waren jedoch kaum bis zur Hälfte der Leiter gelangt,
-die auffallend groß war, als droben von Jacke Lippen
-ein schriller Trillerpfifsf ertönte …
+die auffallend groß war, als droben von Jacks Lippen
+ein schriller Trillerpfiff ertönte …
 
 Harst beeilte sich jetzt …
 
@@ -421,7 +421,7 @@ Rutschte hinab …
 
 Seine Taschenlampe blitzte auf …
 
-Und wir standen nun auf dem Grunde des au8gd6-mauerten
+Und wir standen nun auf dem Grunde des ausgemauerten
 tiefen Grabes — neben den Resten eines Sarges
 <@pagebreak/>
 — vor einer grauen Wolldecke, die als Vorhang ein Loch im
@@ -436,7 +436,7 @@ neben einem offenen Steinherd … —
 
 Leer war die Höhle …
 
-Verlädt verschwunden …
+Mylady verschwunden …
 
 Harst suchte nicht lange … Fand die Tür aus Aststücken
 an der einen Wand, fand so das Schlupfloch — die
@@ -446,7 +446,7 @@ Und gebückt ging’s hindurch — zwölf Meter … Bis
 zu einem Brombeergestrüpp … Hier — — mündete der
 Gang ins Freie …
 
-wir Jack nicht mehr antreffen würden, ahnten wir
+Daß wir Jack nicht mehr antreffen würden, ahnten wir
 schon …
 
 Mylady hatte ihn befreit, und beide hatten sich schleunigst
@@ -456,13 +456,13 @@ gedrückt.
 wiedersehen — beide — beide! Jetzt aber ist erst einmal
 die Höhle an der Reihe!«
 
-Und wir kletterten die Leiter abermals hinab, Mit
+Und wir kletterten die Leiter abermals hinab. Mit
 größerer Ruhe als vorhin. Haben damals bewiesen, daß
 auch wir nur Menschen und unzulänglich sind …
 
-Als Harst jetzt den Vorhang hob, als wir Jetzt Dinge
-treten waren und den primitiven Tisch musterten, der ganz
-Pferdegetrappel gedeckt war, da — wurde plötzlich der Spieß angelehnt
+Als Harst jetzt den Vorhang hob, als wir Jetzt eingetreten
+waren und den primitiven Tisch musterten, der ganz
+appetitlich gedeckt war, da — wurde plötzlich der Spieß umgekehrt
 …
 
 Da war links in der Ecke aus zwei großen bunten
@@ -479,23 +479,23 @@ Nichts weiter …
 Zwei englische Worte … Nichts weiter …
 
 Und doch lag in dem Ton der Stimme etwas, das
-jeden gewarnt hätte … Und — unsere Pistolen steten in
+jeden gewarnt hätte … Und — unsere Pistolen steckten in
 den Taschen!!
 
 Harst hob die Arme …
 
 »Na — schön blamiert haben wir uns!« sagte er nur,
-und das in den rauhen Kehllauten eines an schlechten Ab
+und das in den rauhen Kehllauten eines an schlechten
 Alkohol Gewöhnten.
 
 Ich tat dasselbe — stand ebenfalls wehrlos da …
 
-Und nun erschien Jack, hinter dem Vorhang bervor-schhlüpfend,
+Und nun erschien Jack, hinter dem Vorhang hervorschlüpfend,
 gewandt wie ein Wiesel …
 
-Auch Mylapy erschien …
+Auch Mylady erschien …
 
-Hatte in zarten Fingern einen anzapfen Revolver,
+Hatte in zarten Fingern einen unzarten Revolver,
 
 »Binden!« sagte sie nur …
 
@@ -511,23 +511,23 @@ Die beiden aßen …
 
 Und drei Meter vor ihnen hockten wir auf der Bank
 und spielten die stillen Beobachter. Angenehm war das
-nicht Gerade das Schweigen der beiden wirkte recht bedrohlich.
+nicht. Gerade das Schweigen der beiden wirkte recht bedrohlich.
 
 Mylady hatte mit Grazie zwei Spiegeleier und zwei
 Brotschnitten verzehrt, ließ sich von Jack nun Käse reichen,
-der die blonde Unbekannte mit fast unterwürfigen Sorgsan-fett
+der die blonde Unbekannte mit fast unterwürfiger Sorgsamkeit
 bediente.
 
 Und Mylady begann:
 
-»Wer sind ließ — Aber bitte — keine Lügen!«
+»Wer sind Sie? — Aber bitte — keine Lügen!«
 
 Harst lachte.
 
 »Was gibt’s da zu lügen?! Die Tatsachen reden für
 sich selbst … Wir sind — Gescheiterte, Mylady …«
 
-Nr sprach deutsch. Und ebenso erklärte die Blonde nun:
+Er sprach deutsch. Und ebenso erklärte die Blonde nun:
 
 »Beamte sind keine Gescheiterten! — Lügen Sie nicht!«
 
@@ -535,9 +535,9 @@ Nr sprach deutsch. Und ebenso erklärte die Blonde nun:
 »Wir sind tatsächlich keine Polizisten,« beharrte mein
 Harald bei seiner ersten Behauptung. »Wir haben abends
 hier im Walde einen Pilzsucher getroffen, der uns erzählte,
-er habe eine Nadlcerin und Grafen Strolch beobachtet, und der
-S:rasch sei dann im Brombeergestrüpp zwischen acht Eichen
-Mensch)wunden. — Das reizte uns. Wir lassen hier zu finden,
+er habe eine Radlerin und einen Strolch beobachtet, und der
+Strolch sei dann im Brombeergestrüpp zwischen acht Eichen
+verschwunden. — Das reizte uns. Wir hofften hier zu finden,
 was wir suchten: Quartier für ein paar Tage, weil
 man hinter uns her ist!«
 
@@ -546,20 +546,20 @@ man hinter uns her ist!«
 »Ja. Wegen ein paar ganz harmloser Geschichten —
 zwei Einbrüche — deswegen — lächerlich!«
 
-Man muß Harald kennen, wenn man voll begleiten
-will, weshalb es ihm stets gelingt, selbst die größten zweite
-irr von der erholt seiner Maske zu überzeugen.
+Man muß Harald kennen, wenn man voll begreifen
+will, weshalb es ihm stets gelingt, selbst die größten Zweifler
+von der Echtheit seiner Maske zu überzeugen.
 
-Man muß aushält und gesehen haben, wie er sie:3 Ton
+Man muß gehört und gesehen haben, wie er stets Ton
 und Gebärde, Ausdruck und Miene der Rolle anpaßt, die
 ihn sein Beruf zu spielen zwingt. Man würde über die
-schauspielerischen Fähigkeiten staunen, nicht minder üer
+schauspielerischen Fähigkeiten staunen, nicht minder über
 seine genaue Kenntnis der seelischen Eigenschaften derer, die
 er zu täuschen wünscht
 
 Hier in dieser Erdbehausung, in diesem geradezu mit
 Raffinement angelegten Schlupfwinkel gab er sich vollkommen
-als Mensch von Erziehung und Bildung, der im Leben aec-strauchelt
+als Mensch von Erziehung und Bildung, der im Leben gestrauchelt
 ist und dem nur noch stellenweise der Kulturlack
 in ganz dünner Schicht anhaftet.
 
@@ -567,7 +567,7 @@ Besonders dieses letzte »Lächerlich!« stieß er mit so viel
 Zynismus und Verachtung hervor, daß über das zarte und
 doch so energische Gesicht der Lady ein leises Lächeln glitt.
 
-»N0 — wir Koffern hier eben auf Beute,« fügte er achselzuckend
+»Na — wir hofften hier eben auf Beute,« fügte er achselzuckend
 hinzu. »Der Winter steht vor der Tür … Wir
 brauchen neue Kleidung und Reisegeld nach Italien … Im
 Winter betteln wir stets an der Riviera …«
@@ -579,20 +579,20 @@ Jetzt lachte die Lady …
 »Sind wir! Und auch darin modern, Mylady, daß
 <@pagebreak/>
 wir Gewalt verabscheuen … Wenigstens Gewalt, die bis
-zum Blutvergießen geht …“«
+zum Blutvergießen geht …«
 
 Da wurde die Blonde ernst. »Das freut mich,« sagte
-sie, leicht mit dem Kopf rufend. »Ihr gefällt mir, Ihr
+sie, leicht mit dem Kopf nickend. »Ihr gefällt mir, Ihr
 beide …«
 
 Sie wandte sich an Jack Barissa:
 
 »Lieber Jack, gib jedem zehn Pfund Sterling aus
 meiner Kasse. Dann lassen wir sie laufen, wenn sie uns
-versprechen, uns nicht zu verraten und Überhaupt dieses?
+versprechen, uns nicht zu verraten und Überhaupt dieses
 Abenteuer zu vergessen …«
 
-Jack stand sofort auf. »Matjoor, Sie haben eigentlich
+Jack stand sofort auf. »Mylady, Sie haben eigentlich
 recht … Dann sind wir sie los!«
 
 Und zu uns:
@@ -606,12 +606,12 @@ und wich so jeder direkten Zusage aus.
 Jack verschwand in dem Alkoven, kam mit zwei Zehnpfundnoten
 zurück …
 
-»Du — Zusatz ’schentt Euch dies! Und wenn Ihr
+»Da — Mylady schenkt Euch dies! Und wenn Ihr
 nicht gerade elende Wichte seid, so werdet Ihr das Maul
 halten!«
 
 Er hatte uns losgebunden. Wir waren frei. Standen
-jeder mit einer englijcgen Banknote in der Hand da und
+jeder mit einer englischen Banknote in der Hand da und
 machten der Lady eine tadellose Verbeugung.
 
 Und Harald meinte dann zögernd:
@@ -625,36 +625,36 @@ Der kennt uns …«
 Ich war überrascht …
 
 Ich ahnte, daß Harald nicht ohne Absicht diese Kaschemme
-erwähnt hatte, die ja in verrieten vorigen Atenteuer
-eine bedeutungsvolle Rolle gespielt … denn dort im:
-sicheren August war es gewesen, wo wir die — Gräfin mit
+erwähnt hatte, die ja in unserem vorigen Abenteuer
+eine bedeutungsvolle Rolle gespielt … denn dort im
+Fidelen August war es gewesen, wo wir die — Gräfin mit
 <@pagebreak/>
 den Kormoranen beobachtet hatten, dort waren wir zusammen
-mit ihr bei der Monaten Rolizeistreifse verhaftet worden
+mit ihr bei der großen Polizeistreife verhaftet worden
 und hatten auf dem Lastauto die Szene mit den drei Zigaretten
 erlebt.
 
-las lag erst zwei Tage hinter uns. All das hatte ausführlich
+Das lag erst zwei Tage hinter uns. All das hatte ausführlich
 in den Zeitungen gestanden. Und — nun nannte
-Harst hier sehr geschickt diesen Wirt und diesen Bouillonkeller
-!! Marschall wohl — weshalb?!
+Harst hier sehr geschickt diesen Wirt und diesen Bouillonkeller!!
+Weshalb wohl — weshalb?!
 
-Ich war überrascht … Noch überraschter aber über bis
+Ich war überrascht … Noch überraschter aber über die
 Gesichter der Lady und Jack Barissas …
 
 Der Name Emil Krawuschki hatte auf beide eine höchst
-merkwürdige Wirkung ausgeübt. Ihre Köpfe waren herumgetragen
+merkwürdige Wirkung ausgeübt. Ihre Köpfe waren herumgeflogen
 …
 
 Sie starrten sich an — unsicher, fragend …
 
-Biß Jack dann brummte:
+Bis Jack dann brummte:
 
-»am — wohl nur ein Zufall, Mylady!«
+»Hm — wohl nur ein Zufall, Mylady!«
 
 Und da wandte die Blonde sich wieder an Harst.
 
-»Woher kennen Sie Krawuschkis«
+»Woher kennen Sie Krawuschki?«
 
 Harst kicherte so recht Überlegen …
 
@@ -669,12 +669,12 @@ Sie winkte Jack näher heran. Beide flüsterten miteinander
 
 Und Jack meinte nun freundlich:
 
-»Ihr sollt Osten haben. Rückt die Bank näher an den
+»Ihr sollt Essen haben. Rückt die Bank näher an den
 Tisch heran!«
 
 »Tun wir gern,« lächelte Harald und verneigte sich.
 »Wäre es aber nicht besser, wir würden erst mal wieder den
-Stein über die Gruft Sehen? Man kann nie wissen, ob
+Stein über die Gruft decken? Man kann nie wissen, ob
 nicht ein Förster doch mal zufällig hier vorüber kommt —«
 
 »Stimmt,« nickte Jack Barissa. »Stimmt! Und ich
@@ -685,15 +685,15 @@ uns.
 
 <@pagebreak/>
 »Mylady, Vorsicht! Man kann nie den Menschen ins
-Gott schauen!«
+Herz schauen!«
 
 Und Harst grob auffahrend: »Halten Sie uns für
-Schufte, Jack?! Teufel nochmal: wir haben die ohne bei
+Schufte, Jack?! Teufel nochmal: wir haben die Ehre der
 Landstraße im Leibe!«
 
-Da ging Jack beruhigt in die breite gematerte Gruft,
-stieg die Leiter empor und deckte den Stein über dicke
-Hoffnung.
+Da ging Jack beruhigt in die breite gemauerte Gruft,
+stieg die Leiter empor und deckte den Stein über die
+Öffnung.
 
 <h2>3. Kapitel.</h2>
 <h3>Lady Amely.</h3>
@@ -708,10 +708,10 @@ anbetrifft.
 Diese — Situation war eine — Sensation!
 
 Man denke: wir beide verkleidet, wir beide als Pennbrüder
-in einer Erdhöhle unweit eines hi’ gesehen Grabes
+in einer Erdhöhle unweit eines historischen Grabes
 an einem Tisch mit einer blonden jungen Frau, die sich Mylady
 anreden ließ und auch in allem Lady war — große
-Dame — ehe Vornehmheit!
+Dame — echte Vornehmheit!
 
 Das war unmöglich eine Hochstaplerin, eine Verbrecherin!
 Das mußte eine Zugehörige erster Gesellschaftskreise
@@ -719,7 +719,7 @@ sein, die durch wer weiß welches Spiel des Schicksals hierher
 verschlagen worden war.
 
 »Bitte — langen Sie zu!« sagte die Lady und schob uns
-Teller und Messer und Gabel hin. »Auswählt ist ja vorhanden!«
+Teller und Messer und Gabel hin. »Auswahl ist ja vorhanden!«
 
 Harst beugte sich etwas Über den primitiven Tisch …
 
@@ -727,14 +727,14 @@ Harst beugte sich etwas Über den primitiven Tisch …
 <@pagebreak/>
 ganzem Herzen danken. Mit wem haben wir die Ehre?«
 
-setzt war er ganz der Mann, der sich noch etwas Kulturlack
+Jetzt war er ganz der Mann, der sich noch etwas Kulturlack
 bewahrt hat.
 
 Die Blonde senkte den Kopf.
 
-Dunkle Schatten schmerzvoller Erinnerungen verdüistet-ten
-das seine Amtlich. Die langbewimperten Augen schlossen
-sich einen Moment. Und eine einzelne Träne leuchtete den
+Dunkle Schatten schmerzvoller Erinnerungen verdüsterten
+das feine Antlitz. Die langbewimperten Augen schlossen
+sich einen Moment. Und eine einzelne Träne feuchtete den
 Lidrand, wurde von zarter Hand schnell weggetupft …
 
 Dann blickte die rätselvolle Frau meinen Freund voll
@@ -743,35 +743,35 @@ an …
 »Ich habe Sie nicht nach Ihren Namen gefragt,«
 meinte sie schmerzlich-ernst. »Und — was nützte Ihnen
 der meine, der einer Unglücklichen, die mit aller Macht das
-Gewesene zu vergessen steckt, damit sie — vor Gram nicht
+Gewesene zu vergessen strebt, damit sie — vor Gram nicht
 den Verstand verliert!«
 
 »Können wir Ihnen irgendwie helfen, Mylady!?«
-sonst und streichelnd war Harsts Stimme.
+Sanft und streichelnd war Harsts Stimme.
 
-Und überrascht musterte ihn die Lady, sagte leise
+Und überrascht musterte ihn die Lady, sagte leise:
 
 »Oh — Sie scheinen Gemüt zu haben …«
 
-»Können wir Ihnen Person, Mylady?« wiederholte
-Harald. »Wir sind aus unseren Wanderfahrten weit hervor
-gekommen … Bis Indien, Mylady Bis Zeylon, die
-Zauberinsel, wo die Palmen süßer rauschen als die Herden
-Tag holde. nd«
+»Können wir Ihnen helfen, Mylady?« wiederholte
+Harald. »Wir sind auf unseren Wanderfahrten weit herumgekommen
+… Bis Indien, Mylady. Bis Zeylon, die
+Zauberinsel, wo die Palmen süßer rauschen als die herben
+Heimatwälder …«
 
 Seltsam: sie war leicht zusammengezuckt, war rot geworden,
 senkte wieder den Kopf …
 
 Weshalb — — weshalb?!! —
 
-Und — da kehrte auch!oben Jack Barissa zurück, meinte
+Und — da kehrte auch schon Jack Barissa zurück, meinte
 in seiner polterigen Art:
 
 »Nun ist das Logis verschlossen. — So eßt doch, Ihr
 beide! Auch Trinkbares sollt Ihr haben.« —
 
-Mylady lehnte sich an das Moospolster der Rücken
-eine ihres aus Seiten zusammengenagelten Sessels.
+Mylady lehnte sich an das Moospolster der Rückenlehne
+ihres aus Ästen zusammengenagelten Sessels.
 
 Mit halb geschlossenen Augen …
 
@@ -782,24 +782,24 @@ Und wir aßen — tranken …
 <@pagebreak/>
 Schweigend …
 
-So neigend bediente Jack uns, deutete aus diesen und
+Schweigend bediente Jack uns, deutete auf diesen und
 jenen Leckerbissen.
 
-Still war & um dem großen Brot:«by, in dem es nach
-Feunchtinkfeit und einem Baron Parfüm duftete — nach eine
-elenanuen Frau …
+Still war’s im dem großen Erdloch, in dem es nach
+Feuchtigkeit und einem zarten Parfüm duftete — nach einer
+eleganten Frau …
 
-Situation — Scnsation’! Wert, daß ein Dichter in sein
-gejeitlten wollen sie schildere.
+Situation — Sensation!! Wert, daß ein Dichter in fein
+gefeilten Versen sie schilderte.
 
 Bis Mylady sich ganz unvermittelt an Harald wandte.
 
 Sagte leise, zögernd: »Wirklich — auch auf Zeylon
 waren Sie?!«
 
-»Ja — als Heizer eines dreckigen Viebdampfers. Im
-Hafen von Kolombo zweiten wir aus und bummelten landeinwärts.
-Waren so Siam halbes fuhr dort faulenzten
+»Ja — als Heizer eines dreckigen Viehdampfers. Im
+Hafen von Kolombo kniffen wir aus und bummelten landeinwärts.
+Waren so ein halbes Jahr dort. Faulenzten
 noch mehr als sonst. Oh — schön war das, Mylady —
 wunderschön …«
 
@@ -810,27 +810,27 @@ wunderschön …«
 Und das war ja die Wahrheit!
 
 »Ob wir ihn kennen! Er ist noch heute berühmt, obwohl
-die Religion Buddba& den Brahmanismus aus Zeylon
+die Religion Buddhas den Brahmanismus aus Zeylon
 immer mehr verdrängt hat …«
 
 Myladys Augen schwammen in Tränen …
 
-Ganz plötblich …
+Ganz plötzlich …
 
-Und Jacks lautete S’ ins polterte dazwischen:
+Und Jacks rauhe Stimme polterte dazwischen:
 
-»Kasten Sie auf m’t dem verdammten Zeylon!? Sie
-sehen doch, es anreist Mylady an —«
+»Hören Sie auf mit dem verdammten Zeylon!? Sie
+sehen doch, es greift Mylady an —«
 
-»Ob, endlos ulkigen Sie!« murmelte Harald. »Entschuldigen
+»Oh, entschuldigen Sie!« murmelte Harald. »Entschuldigen
 Sie. Ich wußte ja nicht, daß sich für Mylady an den
 Namen so traurige Erinnerungen knüpfen —«
 
-Und da — da erhob die blonde Prau sich jäh, eilte
+Und da — da erhob die blonde Frau sich jäh, eilte
 hinter die beiden Tücher — in ihren Schlafraum. —
 
-Auch Jack benahm sich merkwüdig, hob:e eine Schlange
-riesigen Format&8 aus einem Kasten hervor, packte Wurst,
+Auch Jack benahm sich merkwürdig, holte eine Zeitung
+riesigen Formats aus einem Kasten hervor, packte Wurst,
 Schinken, vieles andere noch hinein und flüsterte:
 
 <@pagebreak/>
@@ -844,20 +844,20 @@ Hinter den Tüchern kam wimmerndes Schluchzen hervor.
 Es war die traurige Musik, die unseren Abzug begleitete.
 —
 
-Jack hatte den Stein emporgekippt, war nach vorsichtigen
+Jack hatte den Stein emporgekippt, war nach vorsichtigem
 Lauschen vollends von der Leiter ins Freie getreten
 und stand nun neben uns im Mondenlicht — im Rauschen
 der deutschen Eichen …
 
 In der Ferne schrie ein Waldkauz.
 
-Ein jagender Fuchs lockerte — so nennt ja der Jäger
+Ein jagender Fuchs kokkerte — so nennt ja der Jäger
 diese merkwürdigen Laute Meister Reinekes.
 
-sind in diese Poesie der Herbstnacht hinein erfaßt Jack
+Und in diese Poesie der Herbstnacht hinein sprach Jack
 Barissa:
 
-»Wenn Ihr wirklich den Emil Krawuschki aufsucht, [o
+»Wenn Ihr wirklich den Emil Krawuschki aufsucht, so
 sagt ihm, daß ich morgen in aller Frühe bei ihm bin …
 Er soll alles bereithalten!«
 
@@ -875,26 +875,26 @@ Er reichte ihm die Hand …
 Und auch ich drückte die schwielige Pfote des berüchtigten
 Einbrechers …
 
-»Ob — nur von Zeylon hättet Ihr nicht sprechen sollen,«
+»Oh — nur von Zeylon hättet Ihr nicht sprechen sollen,«
 brummte Barissa. »Im übrigen seid Ihr nette Kerle! —
 Gute Nacht denn! — Vielleicht sehen wir uns in Berlin
 wieder. Vielleicht kann ich Euch brauchen. Bleibt noch bis
 morgen abend im Fidelen August. Dort seid Ihr ja sicher!«
 
-Wo schieden wir …
+So schieden wir …
 
-Wanderten wieder durch das Schweigen der Master
+Wanderten wieder durch das Schweigen der Wälder
 dahin …
 
-See anders als vor anderthalb Stunden …
+Aber anders als vor anderthalb Stunden …
 
 <@pagebreak/>
-Jetzt nur erfüllt von all den Geheimnissen, die jene Einholte
+Jetzt nur erfüllt von all den Geheimnissen, die jene Erdhöhle
 barg …
 
 Und auf dem mondhellen Waldweg sagte ich zu Harald:
 
-»vor das nicht das Wunderbarste, was wir je erlebt
+»War das nicht das Wunderbarste, was wir je erlebt
 haben?«
 
 Und er, der Mann mit dem fabelhaften Gedächtnis:
@@ -903,7 +903,7 @@ Und er, der Mann mit dem fabelhaften Gedächtnis:
 
 Kleine Pause — Kunstpause …
 
-"— das war Lady Amely Goßweac!«
+»— das war Lady Amely Goßweac!«
 
 Ich stand, als hätte ich einen Hieb vor die Stirn erhalten
 …
@@ -918,8 +918,8 @@ Und — mich unterfassend:
 
 »Komm nur. — Wir beide haben da in der Gruft des
 Forstmeisters Joachim von Rocholz eine Frau kennen gelernt,
-der man vorwirft, ihren um vierzig Jahre älteren Gut.
-ten beseitigt zu haben, die verhaftet wurde, als sie in Dover
+der man vorwirft, ihren um vierzig Jahre älteren Gatten
+beseitigt zu haben, die verhaftet wurde, als sie in Dover
 landete, die befreit wurde — natürlich durch Jack und seine
 Freunde. — So liegen die Dinge, mein Alter!«
 
@@ -942,32 +942,32 @@ diesen Namen verdienen, Lumpen, die für Geld alles taten,
 durchwühlten Amelys Vergangenheit, und mit einem Male
 war in allen englischen Zeitungen zu lesen, daß die junge
 <@pagebreak/>
-Lady Goßweac im Londoner Verbrecherviertel nassen alten
-sei, daß ihr Vater — im Zuchthaus gestorben nur ihre
+Lady Goßweac im Londoner Verbrecherviertel aufgewachsen
+sei, daß ihr Vater — im Zuchthaus gestorben und ihre
 Mutter verschollen sei … — Da verließ das Ehepaar Goßweac
 England und trat auf des Lords großer Jacht Triton
 eine Weltreise an, um diesem jämmerlichen Skandal zu entgehen
 … Dann — verschwand der Lord bei einer Besichtigung
 des Hindu-Tempels. Und wie die Lady englischen
-Boden wieder be:Rat, wurde sie verhaftet. Ihre Flucht aus
+Boden wieder betrat, wurde sie verhaftet. Ihre Flucht aus
 dem Gefängnis ist ein Roman für sich …«
 
-»ob —. Dein Gedächtnis, Harald!«
+»Oh — Dein Gedächtnis, Harald!«
 
 »Lieber Alter, für derartiges habe ich allerdings ein
-tadellozyes Gedächtnis! — Da ist schon unser Auto … —
+tadelloses Gedächtnis! — Da ist schon unser Auto … —
 Chauffeur — nach Berlin zurück! Zum früheren Zirkus
 Schumann. Dort am Schiffbauerdamm halten Sie!«
 
 Wir stiegen ein …
 
-Jahren durch die Herbstnacht denselben Weg zurück …
+Fuhren durch die Herbstnacht denselben Weg zurück …
 
 Rauchten …
 
 Und ich fragte sehr bald:
 
-»Weshalb erwühniest Du den Bouillonkeller? Das
+»Weshalb erwähntest Du den Bouillonkeller? Das
 muß doch einen Zweck gehabt haben?«
 
 »Hatte es auch! Wenn Du, Max Schraut, ein wenig
@@ -975,12 +975,12 @@ den Verstand und nicht nur die Ohren zu Hilfe genommen
 hättest, als der Wieprecht uns die Radlerin beschrieb, die
 mit Jack auf der Lichtung sprach und ihm ihre Wohnung
 nannte, dann würdest Du unschwer herausgemerkt haben,
-daß diese Radlerin durchaus der Gräfin Wilhelmin’e van
+daß diese Radlerin durchaus der Gräfin Wilhelminje van
 den Haag geglichen haben muß, der Gräfin mit den Kormoranen
-… derselben Gräfin, die am Abenteurerlceben Gefallen
+… derselben Gräfin, die am Abenteurerleben Gefallen
 gefunden hat, die uns schrieb, wir würden noch von ihr
 hören …« (Vergleiche hierzu den vorigen Band: »Die
-Gräfin mit den Kormoranen.“)
+Gräfin mit den Kormoranen.«)
 
 Meine Zigarre wäre mir jetzt beinahe aus den Lippen
 gerutscht …
@@ -992,17 +992,17 @@ anfangen — sehr!
 <@pagebreak/>
 »Donnerwetter — also deshalb!« sagte ich nochmals.
 
-»Zu — und so stellte ich die Verbindung her zwischen
-Kolomboer Gräfin, dem Bouillonkeller, Jack und der Lady … —
-Noch etwas, lieber Alter? J« bin gerade in Nedelaune!«
+»Ja — und so stellte ich die Verbindung her zwischen
+der Gräfin, dem Bouillonkeller, Jack und der Lady … —
+Noch etwas, lieber Alter? Ich bin gerade in Redelaune!«
 
 »Was selten der Fall ist! — Und wie denkst Du Dir die
-Entdeckung dieses Abenteuers?«
+Fortsetzung dieses Abenteuers?«
 
-»Darüber reden wir später Nur eins weiß ich bestimmt:
+»Darüber reden wir später. Nur eins weiß ich bestimmt:
 wir werden nach Zeylon fahren! Amely hat niemals
 ihren Gatten ermorden und verscharren lassen, und der
-seinen Verwandtenklique und den Lumpen von Kollegen
+feinen Verwandtenklique und den Lumpen von Kollegen
 werden wir eins auswischen, daß ihnen die Augen tränen
 sollen!«
 
@@ -1201,7 +1201,7 @@ Stirn getroffen, der gerade genügte …
 <@pagebreak/>
 Drei Minuten war ich wie halb betäubt.
 
-Merkte, daß man mich sortschleppte.
+Merkte, daß man mich fortschleppte.
 
 In einen gepolsterten Wagen warf …
 
@@ -1511,7 +1511,7 @@ Verrat!! Das sind … Harst und Schraut!«
 
 Der Revolver des Menschen drohte …
 
-Von den übrigen Betten schwangen sich blitbschnell G6o&-stalten
+Von den übrigen Betten schwangen sich blitzschnell G6o&-stalten
 herab …
 
 Der Wirt des Kellers war emporgefahren … Seine
@@ -1718,7 +1718,7 @@ halb zerstörte Hindutempel von Drigalkor liegt.
 
 Nacht war’s … Und im Baumschatten der Ostseite
 der Bucht trieb ein kleiner Motorkutter dahin, nur von der
-leichten Strömung mitgesührt.
+leichten Strömung mitgeführt.
 
 Ein unscheinbarer, dunkel gestrichener Kutter, der sich
 kaum von dunklen Uferpartien abhob.
@@ -1749,7 +1749,7 @@ einen Niederländer namens Jan Baargen, — jetzt schwammen
 wir mit diesem Kutter gegen Mitternacht auf den stillen
 Mauern der Bucht, genossen den Zauber der Tropen, die
 wunderbaren Düfte der unzähligen Pflanzen und die mild
-baljamische Luft, deren schwüle Schwere hier so angenehm
+balsamische Luft, deren schwüle Schwere hier so angenehm
 durch den Salzhauch des nahen Indischen Ozeans gemildert
 wurde.
 
@@ -1946,7 +1946,7 @@ Erde endgültig Lebewohl gesagt …
 
 Harst richtete sich wieder auf.
 
-Teuticete nach links auf die Geige …
+Deutete nach links auf die Geige …
 
 Sie war — gestorben … Gestorben wie ihr Besitzer.
 Herzogin schwerer Fuß hatte sie zertrümmert. Ihr Leib war
@@ -1973,7 +1973,7 @@ des Gottes photoaraplhynert hatte.
 
 Die Erregung der Priester schwand. Sie lauschten dem,
 was Harald zu erklären hatte. Eiche standen da und ihre
-faltigen Gezierten mit den weltfremden Fanatiferaugen
+faltigen Gezierten mit den weltfremden Fanatikeraugen
 drückten nur noch diese Trauer aus.
 
 Der Oberpriester gab dann bereitwillig Auskunft …
@@ -2071,7 +2071,7 @@ vor, von dem wir beide, Harald und ich, noch nichts ahnten.
 Als ich den Kutter erreicht hatte, fand ich Jan Baargen
 auf der Steuerbank fest schlafend vor. Um nicht von den
 S:schmücken, die hier eine wenig angenehme (Grotte erreichen,
-zu arg agepeiniat zu werden, hatte er sich in sein Mosfkitonceß
+zu arg agepeiniat zu werden, hatte er sich in sein Moskitonetz
 eitaecwickelt, sich mußte ihn erst tüchtig rütteln, bevor er
 mit ein paar Grunztönen erwachte.
 
@@ -2217,7 +2217,7 @@ des Tempels nach Spuren absuchten.
 Harst, Matjoor, der Oberpriester und ich trugen den
 ermordeten Lord in die Krone Tempelhalle, wo die Brahmanen
 bereits eine Art Katasalkf vor der edelsteinübersäten
-Stative des Hanptgottes Geflickter hatten.
+Stative des Hauptgottes Geflickter hatten.
 
 Hier war es auch, wo der Oberpriester nun dem De-ektivuinjpelior
 ein Schrifstük Lord (Goßweacs vorzeigte, in
@@ -2241,7 +2241,7 @@ schon in einem Nachsatz zu meinem Testament bestimmt
 habe … — Ich wünsche entsprechend den Vorschriften
 der Hindu-Religion verbrannt zu werden. Mein
 Ucebertritt zum Brahmanisämus erfolgte aus tiefster Verachtung
-all jener christlichen Verleumder und Ehrabschnei-der,
+all jener christlichen Verleumder und Ehrabschneider,
 die mir mein ehemaliges Vaterland verleidet und
 meine trotz des großen Altersunterschiedes glückliche Ehe
 zerstört haben …«
@@ -2252,7 +2252,7 @@ Bedeutung gewesen und daß er seiner jungen Gattin in
 seiner Weise nachtrug, weil letzten Endes durch sie und ihre
 <@pagebreak/>
 dunkle Herkunft der Name Goßweac zum Gegenstand widerwärtigen
-Skandalgeschhichten gemacht worden war. —
+Skandalgeschichten gemacht worden war. —
 
 Wenn ich jemals mit aller Deutlichkeit empfunden hatte,
 wie sehr gerade unser Beruf uns Einblick in die feinsten
@@ -2279,7 +2279,7 @@ noch die Beweise fehlten.
 
 In der Nacht langten wir wieder mit unserem Kutter
 Kolombo an und erkundigten uns sofort nach dem nächsten
-Eurovadampfern. Im Neiscebureau erfuhren wir, daß vormittags
+Europadampfern. Im Reisebureau erfuhren wir, daß vormittags
 elf Uhr die Arkadia, ein englisches Schiff, in See
 ginge. Wir versenken dort eine Kabine, und Harst bezahlte
 auch für Jan Baargen die Überflutet bis London, da der
@@ -2528,7 +2528,7 @@ an den Lord, verlangte die Geige zurück und — wurde abgewiesen,
 soll dem Lord Rache geschworen haben, soll Franzose
 gegen ihn angestrengt haben, die er sämtlich verlor.
 So sehr Lord Charly auch sonst Edelmann war: er liebte
-die Cremonenser Geige genau so sanatisch wie Ansalmo dies
+die Cremonenser Geige genau so fanatisch wie Ansalmo dies
 tat. — Auch dies alles stand in jenen Artikeln zu lesen, die
 von der Verwandtschaft des Lords in die englischen Blätter
 lanciert worden waren. Als wir daher in Kolombo wie zufällig
@@ -2607,7 +2607,7 @@ Baargen zusammen.
 ein,« sagte Harald zu dem verkappten Holländer. »Wir
 haben es eilig, Baargen … Auf Wiedersehen!«
 
-Da wir Reiscetaichen und Mäntel in den Händen hatten,
+Da wir Reisetaschen und Mäntel in den Händen hatten,
 konnte es Baargen-Ansalmo nicht weiter auffallen, daß wir
 uns von ihm ohne Händedruck verabschiedeten.
 
@@ -2754,7 +2754,7 @@ eine Kunst! —
 
 Wir warteten …
 
-Und zwischen uns der Kellerceingang, die Treppe, die
+Und zwischen uns der Kellereingang, die Treppe, die
 trübe Laterne …
 
 Bis die Glastür unten leise klirrte …
@@ -2950,7 +2950,7 @@ Hiermit schließe ich den »Bouillonkeller Nr. 113« …
 
 Und führe den Leser im nächsten Band an die Gestade
 der Ostsee — in den Bauch eines Tümmiilers, eines Ehwein-fisches
-von dreiundeinvicertel Meter Länge …
+von dreiundeinviertel Meter Länge …
 
 Also — — aus Wiedersehen in anderer Umgebung …
 
