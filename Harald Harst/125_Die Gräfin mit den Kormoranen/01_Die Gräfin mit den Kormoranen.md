@@ -257,7 +257,7 @@ Und …«
 »… und vier Minuten später trat sie wieder ein …
 Natürlich die echte, meine ich …! Allerdings sahen sich die
 beiden zum Verwechseln ähnlich … Nur die Gesichter —
-hm — hin waren doch so kleine Unterschiede … — Sie
+hm — da waren doch so kleine Unterschiede … — Sie
 können sich mein Entsetzen vorstellen, als die echte Frau
 Jiesport mir dann ebenfalls einen Brief übergab … Als
 sie mir weiterhin auch den Skarabäus zeigte und …«
@@ -323,7 +323,7 @@ Sie, die Steine der Schwindlerin wieder …«
 »Das kann ich doch jetzt noch nicht wissen, lieber
 Rubenstein …«
 
-»Da haben Sie eigentlich recht? — Wollen Sie Vorschuß,
+»Da haben Sie eigentlich recht. — Wollen Sie Vorschuß,
 Herr Schraut?«
 
 »Ja …«
@@ -667,7 +667,7 @@ zur Praxis der Kriminalpolizei abgeschwenkt war.
 Einer, der was konnte, der den abgefeimtesten Gauner einwickelte.
 
 Wir saßen in seinem Dienstzimmer. Harst war schachmatt.
-Ich merkte es und hatte die ernstester Sorgen.
+Ich merkte es und hatte die ernstesten Sorgen.
 
 »Gegen Grippe hilft nur eins!« meinte Krüger.
 »Schnaps — Alkohol — Grog!«
@@ -908,7 +908,7 @@ sind ja auch erst vier Tage hier …« —
 
 Harald gab hier die Sache auf.
 
-Wir verabschiedeten uns, fuhren beim. Harst ging sofort
+Wir verabschiedeten uns, fuhren heim. Harst ging sofort
 zu Bett, schlief bis neun Uhr abends, aß Abendbrot,
 als ob er nie krank gewesen, hatte kein Fieber mehr und
 sagte am Abendbrottisch lachend zu seiner Mutter:
@@ -1503,7 +1503,7 @@ Lampen …
 Da die Koffer dicke Schutzleisten hatten, war zwischen
 ihnen ein zweifingerbreiter Spalt.
 
-Ich sah … Ich kniete neben, Harald …
+Ich sah … Ich kniete neben Harald …
 
 Sah jetzt eine grauhaarige Frau im langen Gummimantel
 mit Filzhut …
@@ -1530,7 +1530,7 @@ Schrank auf und entnahm einer Blechbüchse vier etwa handlange
 Fische … Plötze waren es … die warf sie in die
 Wanne …
 
-Und ließ nun zunächst einem Kormoran, dem sie einen
+Und ließ nun zunächst einen Kormoran, dem sie einen
 Kehlring unter den Kehlsack gelegt hatte, nach den Fischen
 tauchen.
 
@@ -1586,7 +1586,7 @@ Gewissens war sie im Nu eingeschlafen. Ihre tiefen regelmäßigen
 Atemzüge verrieten, daß wir nun … aufbrechen
 konnten.
 
-Aber — wie daß Zimmer verlassen?! Wie den
+Aber — wie das Zimmer verlassen?! Wie den
 <@pagebreak/>
 Schlüssel der Innentür wieder ins Schloß bringen, wenn
 wir draußen waren?!

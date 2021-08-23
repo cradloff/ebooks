@@ -6,7 +6,7 @@
 <h3>Die Gräfin — nicht die Mörderin.</h3>
 
 »Harald Harst,« flüsterte mein Freund. »Und Sie
-können nur unter Amsterdamer Kollege van Nymegaard
+können nur unser Amsterdamer Kollege van Nymegaard
 sein …«
 
 »Stimmt, Hendrik van Nymegaard, Herr Harst. Ich
@@ -320,7 +320,7 @@ wenigstens dieses eine Verbrechen ausmerzte.
 »Gut — es sei,« erklärte er festen Tones. »Ich will
 mich kurz fassen, Herr Harst. Vor sechs Monaten verspielte
 ich in Monte Carlo den Rest meines Vermögens. Ich
-wollte will erschießen. In den Anlagen des Kasinos aber
+wollte mich erschießen. In den Anlagen des Kasinos aber
 trat mir — es war halb ein Uhr nachts — Frau Antje
 Jiesport entgegen und nahm mir die Pistole aus der Hand.
 
@@ -629,7 +629,7 @@ Gräfin schwärmt für Natur …«
 
 Ich verstand ihn nicht.
 
-»Drücke Dich doch deutlicher aus, Harald …,« bat
+»Drücke Dich doch deutlicher aus, Harald …« bat
 ich. »Wenn Du mich immer so im Dunkeln umhertappen
 läßt, dann …«
 
@@ -946,9 +946,9 @@ unbekannt waren …
 An die Szene im Garten von Erlenstraße Nr. 3 …
 
 An die drei Hunde … Daran, daß die Kormorane
-daß Becken geplündert hatten …
+das Becken geplündert hatten …
 
-Was in aller Welt bedeutete daß?! —
+Was in aller Welt bedeutete das?! —
 
 Da waren wir schon in der Blücherstraße — vor dem
 fernen Hause, nicht vor Nummer zehn …
@@ -1462,7 +1462,7 @@ Die rissige dicke Borke …
 Bis er das fand, was hier vorhanden sein mußte: das
 Versteck — ein großes Astloch, schlau mit Borke verhüllt —
 <@pagebreak/>
-ohne Jedes Anzeichen eines Verstecks!
+ohne jedes Anzeichen eines Verstecks!
 
 In dem Astloch nur ein Leinenbeutel …
 
