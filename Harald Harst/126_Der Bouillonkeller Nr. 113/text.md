@@ -1009,7 +1009,7 @@ sollen!«
 <h2>4. Kapitel.</h2>
 <h3>Enttäuschung.</h3>
 
-Wenn ein Harald Harst derartige Au&drücke gebraucht,
+Wenn ein Harald Harst derartige Ausdrücke gebraucht,
 dann muß er schon bis oben mit stiller Wut angefüllt sein.
 
 Und diesmal mit Recht! — Auch ich empfand inniges
@@ -1017,16 +1017,16 @@ Mitleid mit Lady Amely. Mehr noch: in meinem Junggesellenhirn
 regte sich etwas wie Zärtlichkeit!
 
 Das heißt: so mehr die Zärtlichkeit des alten guten
-Onkels! Denn Über — hm, ja —« über derlei liebliche Torheiten
+Onkels! Denn Über — hm, ja — über derlei liebliche Torheiten
 wie Verlieben sind wir doch längst hinaus! —
 
-Wir fuhren — fuhren und hingen nun unseren goldenen
+Wir fuhren — fuhren und hingen nun unseren Gedanken
 nach, die wohl noch hastiger stürmten als unser Kraftwagen
 …
 
 Bis ich mitten aus dieser Geistesarbeit herausplatzte:
 
-»denn die Verwandten den Lord haben verschwinden
+»Wenn die Verwandten den Lord haben verschwinden
 lassen —?!"
 
 Harald blieb stumm.
@@ -1037,7 +1037,7 @@ Und da merkte ich, daß er meinen Verdacht nicht teilte,
 Und ebenso unvermittelt wie ich sagte er dann:
 
 »Wichtiger ist zunächst, weshalb die Gräfin van den
-Haag den Rad, Barissa zu sich bestellt hat — nach Hauptstraße
+Haag den Jack Barissa zu sich bestellt hat — nach Hauptstraße
 231 …«
 
 »Hm — allerdings …«
@@ -1045,7 +1045,7 @@ Haag den Rad, Barissa zu sich bestellt hat — nach Hauptstraße
 »und noch wichtiger, daß wir wissen, wo die Gräfin
 ihr neues Quartier aufgeschlagen hat …«
 
-»am — inwiefern?«
+»Hm — inwiefern?«
 
 »Weil ich annehme, daß sie durch Emil Krawuschki, den
 entgegen aller Gewohnheit hageren, dürren Besitzer des Fidelen
@@ -1056,15 +1056,15 @@ Aderlaß nichts schadet.«
 
 »Ganz recht — das glaube auch ich!«
 
-»Wobei nur merkwürdig ist, daß die Lady, die noch Jack
-sehr zu schätzen scheint, ihren Mötbewohner der Grufrhöble
-nicht von derlei Unternehmungen abzuhalten sucht! schleicht
+»Wobei nur merkwürdig ist, daß die Lady, die doch Jack
+sehr zu schätzen scheint, ihren Mitbewohner der Grufthöhle
+nicht von derlei Unternehmungen abzuhalten sucht! Vielleicht
 weiß sie gar nicht, daß Jack Geldschrankknacher ist.
 Vielleicht hat sie ihn von Jugend an gekannt und ihn aus
 Neuyork zu Hilfe gerufen, nachdem das Unheil auf Zeylon
 geschehen —«
 
-Ich nickte. »Wird schon so sein! Die Sache lichtet sich!
+Ich nickte. »Wird schon so sein! Die Sache lichtet sich!«
 
 »Meinst Du, mein Alter?! Sei nicht voreilig! Die
 Dunkelheit kann wieder hereinbrechen!«
@@ -1082,9 +1082,9 @@ Berlins Boulevard: der Kurfürstendamm!
 
 Und dann wieder Stille: der Tiergarten …
 
-Eine Brücke … Gligerndes Wasser — die Spree …
+Eine Brücke … Glitzerndes Wasser — die Spree …
 
-Andere Straßen — andere Menschen. —« Armut, hatten,
+Andere Straßen — andere Menschen. — Armut, Laster,
 Arbeit. — An jeder Ecke Bettler, Händler.
 
 <@pagebreak/>
@@ -1093,8 +1093,8 @@ bezahlte.
 
 »Schweigen Sie!« mahnte er nochmals.
 
-»Wie ’n Grab, Herr Harst! War mir ’ne Ehre, Her!
-darfst!«
+»Wie ’n Grab, Herr Harst! War mir ’ne Ehre, Herr
+Harst!«
 
 Wir bogen nach dem ehemaligen Zirkus Schumann ein.
 Kamen in enge Gassen. Vor uns eine Laterne, die den
@@ -1114,14 +1114,14 @@ Harst verlangte zwei Kümmel, flüsterte:
 
 Krawuschkis Mäuseaugen stachen in unsere Gesichter.
 
-»Sack?! Kenne ich nicht!« knurrte er.
+»Jack?! Kenne ich nicht!« knurrte er.
 
 »Jack Barissa. Wir waren bei ihm in der Rocholz-Villa,
 Kelleretage …«
 
 Krawuschkis Mäuseaugen stachen noch durchdringender.
 
-»Rad läßt bestellen, daß er heute in aller Frühe sich hier
+»Jack läßt bestellen, daß er heute in aller Frühe sich hier
 einfinden wird und daß Du alles bereithalten sollst, Emil!«
 
 »Wer seid Ihr?«
@@ -1134,7 +1134,7 @@ Geschwätz!«
 Das klang schon freundlicher. Noch blieb Emil mißtrauisch.
 
 »Die Lady hat uns jedem zehn Pfund geschenkt,«
-fütterte Harald noch leiser. »Lady Amely — Emil!«
+flüsterte Harald noch leiser. »Lady Amely — Emil!«
 
 Da gab Emil die übertriebene Vorsicht auf.
 
@@ -1145,13 +1145,12 @@ mein Messingschild über der Klingel am Türrahmen hängt.
 <@pagebreak/>
 Klopft erst dreimal, dann zweimal, dann einmal. Nur leise.
 Es genügt. Ich mache hier gleich Schluß. Dann reden
-wir Aufeinander!«
+wir miteinander!«
 
 Er goß uns noch einen Kümmel ein, trank selbst mit.
 
 Der Name Amely hatte hier also geradezu Wunder gewirkt!
 Seltsam war das! Eine Lady und Emil Krawuschki!!
-«
 
 Um uns her das Lärmen dunkler Existenzen, Galgenvogelgesichter,
 Dirnen jeder Schattierung!
@@ -1165,7 +1164,7 @@ Gingen auf den düsteren Hof hinaus, ins Hintergebäude,
 in die Kaserne des Elends.
 
 Nach Armut und Sünde duftete der Treppenflur, nach
-schlechtem Broatenfett, nach billigem Tabak — — nach süßlichen
+schlechtem Bratenfett, nach billigem Tabak — — nach süßlichem
 Patschuli.
 
 Wir klommen in schwarzer Finsternis die knarrenden
@@ -1182,7 +1181,7 @@ nichts!
 Nur — fühlten!
 
 Und die ebenso plötzliche Dunkelheit war die Folge der
-Decken, die man un32 von oben über die Köpfe warf …
+Decken, die man uns von oben über die Köpfe warf …
 
 Das fühlten wir.
 
@@ -1190,7 +1189,7 @@ Und auch die eisenharten Hände, die uns packten …
 
 Blitzschnell …
 
-Da halfen weder Haralds noch meine Vorliebe …
+Da halfen weder Haralds noch meine Boxhiebe …
 
 Da hatten wir Kerle als Gegner, die nicht viel Federlesens
 machten.
@@ -1211,8 +1210,8 @@ Es jagte davon … Und meine Hände und Füße
 starben ab unter dem brutalen Druck fest angezogener
 Stricke. —
 
-Mein erster klarer Gedanke war: Krawauschkfi hat uns
-im diese Falle geschickt! Der Bouillonkeller Nr. 113 ist unser
+Mein erster klarer Gedanke war: Krawuschki hat uns
+in diese Falle geschickt! Der Bouillonkeller Nr. 113 ist unser
 Verhängnis geworden!
 
 Und ich horchte …
@@ -1226,7 +1225,7 @@ Oh — ich hütete mich …
 
 Ich horchte …
 
-Das Auto glitt sanft dahin. Es mußte ein neuer tade1-ßoser
+Das Auto glitt sanft dahin. Es mußte ein neuer tadelloser
 Wagen sein.
 
 Selten nur vernahm ich Straßenlärm. Selten ein
@@ -1259,7 +1258,7 @@ Ein eleganter Salon — ganz modern … Perserteppiche
 
 Sehe vor mir zwei Leute in langen Radmänteln,
 Reisemützen, blonden Vollbärten, die fraglos falsch sind, und
-blauen Herabrissen …
+blauen Hornbrillen …
 
 <@pagebreak/>
 Neben mir Harst … Auch in einem Sessel von Brokatstoff
@@ -1290,12 +1289,12 @@ Und einer geht dann eilends hinaus …
 
 Hinter uns Geräusche …
 
-Die Decken stiegen uns wieder über die Augen …
+Die Decken fliegen uns wieder über die Augen …
 
 Man hebt mich empor …
 
 Und — das Auto rollt mit uns davon — die Stimme
-droht: »Wenn Sie um Hilfe Augen, stoße ich zu …!«
+droht: »Wenn Sie um Hilfe rufen, stoße ich zu …!«
 
 Ich hüte mich!
 
@@ -1303,18 +1302,18 @@ Aber neben mir meldet sich Harald …
 
 Sagt laut und klar:
 
-»ohne kleine Enttäuschung!«
+»Eine kleine Enttäuschung!«
 
 Mehr nicht …
 
-Ich grübele … Ah ahne: die Kerle hatten es aus
+Ich grübele … Ich ahne: die Kerle hatten es auf
 andere abgesehen!
 
-Und — so ist8 …
+Und — so ist’s …
 
 Denn das Auto hält. Man schleppt uns hinaus.
 
-Die Teer stiegen weg. Das Auto Rast davon.
+Die Decken fliegen weg. Das Auto rast davon.
 
 Und im letzten Moment hat einer der Schufte mir noch
 die Handfesseln durchschnitten.
@@ -1328,15 +1327,15 @@ Zehn Meter ab brennt eine Laterne …
 mir die Stricke ab …«
 
 Und wir wandern durch die dunklen Wege, streifen die
-Perücken und Brüder wieder auf, die man in unsere Taschen
+Perücken und Mützen wieder auf, die man in unsere Taschen
 gepfropft hatte …
 
 »Sie waren an die Falschen geraten,« meine ich lachend.
-»Erst hatte ich Frawuschfi im Verdacht … Zu Unrecht!«
+»Erst hatte ich Krawuschki im Verdacht … Zu Unrecht!«
 
 »Allerdings …«
 
-»und — wem »galt’s?« frage ich gespannt.
+»und — wem galt’s?« frage ich gespannt.
 
 »Du fragst noch, mein Alter?! Denen galt’s, die da
 draußen in der Gruft hausen … — Vorwärts — zu Emil
@@ -1366,39 +1365,39 @@ Die Flurtür geht auf …
 
 »Spazieren gefahren …«
 
-»»Na Nu?!«
+»Na Nu?!«
 
 »Laß uns ein …«
 
 Er zögert noch …
 
 <@pagebreak/>
-»Wir wurden hier auf der Treppe überfallen und weß-geschleppt,«
+»Wir wurden hier auf der Treppe überfallen und weggeschleppt,«
 erklärt Harald … »Es ist so!« Er flüstert …
-»man hat uns sofort nieder sreigeceben. Man hatte Amely
-und Jack hier zu erwischen Vorhast!«
+»man hat uns sofort wieder freigegeben. Man hatte Amely
+und Jack hier zu erwischen gehofft!«
 
-»Verflucht!« — Und Emil öÖössnet vollends, löst die
+»Verflucht!« — Und Emil öffnet vollends, löst die
 Sperrkette …
 
 Führt uns in die Küche der kleinen Wohnung, löscht
-die Gaslampe, rieselt das Fenster auf — wortlos, wie
+die Gaslampe, riegelt das Fenster auf — wortlos, wie
 selbstverständlich …
 
-Und Sirenen selbstverständlich sagt er leise:
+Und ebenso selbstverständlich sagt er leise:
 
 »die Strickleiter hinab …«
 
-Ja, da war am Jensterkreunz tatsächlich eine Ernstester
-beseitigt, Und Harst zauderte nicht, schwang sich hinaus …
+Ja, da war am Fensterkreuz tatsächlich eine Strickleiter
+befestigt, Und Harst zauderte nicht, schwang sich hinaus …
 
 Dieses Küchenfenster befand sich in einem Seitenflügel,
-und unten in der diese erkannte ich undeutlich einen großen
+und unten in der Tiefe erkannte ich undeutlich einen großen
 Garten, Baracken, Gebäude …
 
 Nun war die Reihe an mir …
 
-Ich Sache zu: ganz behaglich war mir nicht zu Mute!
+Ich gebe zu: ganz behaglich war mir nicht zu Mute!
 Eine Strickleiter ist keine Treppe, kann reißen …
 
 Und — wohin führte sie uns?!
@@ -1407,10 +1406,10 @@ Ich kletterte — vorsichtig … Ich kam so an einem
 anderen Küchenfenster, dem des dritten Stockes vorüber.
 
 Merkte, daß die Strickleiter stramm angezogen wurde, damit
-erste nicht hin und her schwinge. Und war nun in einer
+sie nicht hin und her schwinge. Und war nun in einer
 Höhe des Fensters des zweiten Stocks …
 
-ohne Stimme hier aus dem offenen Fenster …
+Eine Stimme hier aus dem offenen Fenster …
 
 »Schluß, mein Alter! Hand her! So — hoppla, da
 bist auch Du!«
@@ -1424,15 +1423,15 @@ uralter Straßenhändler, einer der Unsrigen!«
 
 Und er zog uns mit sich fort in den Flur.
 
-»Trete! leise auf!« warnte er.
+»Tretet leise auf!« warnte er.
 
-dann eine Zimmertür … Dann Wüste eine Gaslampe
+dann eine Zimmertür … Dann puffte eine Gaslampe
 auf …
 
 <@pagebreak/>
 Ein ärmlich möblierter Raum … Und fünf Betten
-darin, drei in Etagen übereinander … Und alle fünf be
-trat … Aus allen Männer in Kleidern, die sich sofort ausgerichtet
+darin, drei in Etagen übereinander … Und alle fünf belegt
+… Auf allen Männer in Kleidern, die sich sofort aufgerichtet
 hatten …
 
 »Schlaft nur!« meinte Emil … Und er deutete in eine
@@ -1444,12 +1443,12 @@ Wir setzten uns.
 »Erzähle!« forderte Krawuschki Harald auf. »Wie geht
 es der Lady?«
 
-»am — sich weinte … Meter Zeylon …«
+»Hm — sie weinte … wegen Zeylon …«
 
-»Ja — traurig!« Das klang so mitfühlend, wie ließ
+»Ja — traurig!« Das klang so mitfühlend, wie ich
 es diesem Kaschemmenwirt nie zugetraut hätte.
 
-Die Lady war ihm die Hauptsack. Erst als Harald
+Die Lady war ihm die Hauptsache. Erst als Harald
 nochmals betont hatte, daß Amely im übrigen frisch und
 gesund sei, wollte Emil Näheres über den Angriff auf der
 Treppe hören.
@@ -1466,37 +1465,37 @@ vorbeugte:
 
 »Tippler von der Gilde, die bessere Tage gesehen haben.
 Unsere Namen — die sind tot wie wir — gewesen! —
-Wirst Du Ja und Amely nun warnen?«
+Wirst Du Jack und Amely nun warnen?«
 
 »Ihr müßt es tun … Jack darf sich hier nicht
 zeigen!«
 
-»am — und die Frau, die ihn herbestellt hat?«
+»Hm — und die Frau, die ihn herbestellt hat?«
 
 »Ach so …! — Wer ist das eigentlich? Zweifellos
-Eine, der man trauen kann … Sie kommt immer vernichtet
+Eine, der man trauen kann … Sie kommt immer verkleidet
 zu mir … als Greis, sehr geschickt …«
 
-Der gute Krawuschki bemühte sich krampfhaft, den Herr
-Narr Dialekt zu unterdrücken. Ob er glaubte, daß wir beide
-Gestrauchelte darauf Wert legten, nicht im Verbrecherfänger
+Der gute Krawuschki bemühte sich krampfhaft, den Berliner
+Dialekt zu unterdrücken. Ob er glaubte, daß wir beide
+Gestrauchelte darauf Wert legten, nicht im Verbrecherjargon
 mit ihm zu verkehren?!
 
 <@pagebreak/>
-»So kenne sie nicht genauer,« erklärte Harald nun.
-»Soll Rad ihr denn bei irgend etwas Felsen?k«
+»Ich kenne sie nicht genauer,« erklärte Harald nun.
+»Soll Jack ihr denn bei irgend etwas helfen?«
 
 Emil hob die Schultern …
 
-»Feine Ahnung! So was verrät doch keiner …!« -
+»Keine Ahnung! So was verrät doch keiner …!« —
 
 Die Gaslampe war nach den Betten zu durch einen
-Pappschirm abgeblendet. Die Fürst Gäste Emils hatten sich
-bisher völlig Stil verhalten. Den Atemzügen nach waren
-sich wieder eingeschlafen …
+Pappschirm abgeblendet. Die fünf Gäste Emils hatten sich
+bisher völlig still verhalten. Den Atemzügen nach waren
+sie wieder eingeschlafen …
 
-Und doch — ein schwerer herum!! — Einer hatte nicht
-Negligee Atem, einer, der auf dem Bett dicht neben dem Sofa
+Und doch — ein schwerer Irrtum!! — Einer hatte nicht
+geschlafen, einer, der auf dem Bett dicht neben dem Sofa
 ruhte …
 
 Der war plötzlich auf den Füßen …
@@ -1506,12 +1505,12 @@ Der stand plötzlich neben uns …
 Und — in der schmalen Hand des bärtigen Burschen
 funkelte es matt …
 
-»Verrat!« sagte der Mensch heiser … »Krawuschki -
+»Verrat!« sagte der Mensch heiser … »Krawuschki —
 Verrat!! Das sind … Harst und Schraut!«
 
 Der Revolver des Menschen drohte …
 
-Von den übrigen Betten schwangen sich blitzschnell G6o&-stalten
+Von den übrigen Betten schwangen sich blitzschnell Gestalten
 herab …
 
 Der Wirt des Kellers war emporgefahren … Seine
@@ -1519,10 +1518,10 @@ Hand glitt in die Tasche …
 
 »All das ist sehr überflüssig,« sagte Harald da mit
 einer Ruhe, die stärker wirkte als tausend Schwüre. »Ich
-bin längst … Aber ich bin nicht als Euer Gegner hergekommen.
+bin Harst … Aber ich bin nicht als Euer Gegner hergekommen.
 Ich will Euch berichten, weshalb wir, Schraut und
-ich, diese Verkleidung tragen und wie wir Jacke Bekannte
-Gesellschaft machten …«
+ich, diese Verkleidung tragen und wie wir Jacke Bekanntschaft
+machten …«
 
 Das, was er erzählte, enthielt auch nicht eine einzige
 Entstellung, war die volle Wahrheit …
@@ -1530,7 +1529,7 @@ Entstellung, war die volle Wahrheit …
 »Ich will lediglich Lady Amely genauer kennen lernen
 und prüfen, ob es lohnt, nach Zeylon zu reisen,« schloß er
 seine Angaben. »Ihr alle habt von mir genug gehört. Ich
-werde nichts von dem verraten, was ich hier sah. Das ward
+werde nichts von dem verraten, was ich hier sah. Das wird
 Euch genügen. — Und Sie,« — er wandte sich an den
 <@pagebreak/>
 Menschen mit dem Revolver — »Sie möchte ich eine Minute
@@ -1539,10 +1538,10 @@ allein sprechen …«
 Er stand auf, winkte den Burschen in die Türecke.
 
 Und dort flüsterte er ihm etwas ins Ohr … Nur zwei
-Worte konnten Los sein … Und doch prallte der Mensch
-leicht zurück, sagte darauf hastig zu Frawuschki und den
+Worte konnten es sein … Und doch prallte der Mensch
+leicht zurück, sagte darauf hastig zu Krawuschki und den
 übrigen: »Es ist gut. Herr Harst lügt nie …!!« Und
-er ging und war’s sich wieder auf sein Bett … — —
+er ging und warf sich wieder auf sein Bett … — —
 
 So kam’s, daß wir in vollem Frieden mit Emil
 Krawuschki nachher die Angelegenheit Lord Goßweac besprachen
@@ -1559,23 +1558,23 @@ Krawuschki nachher die Angelegenheit Lord Goßweac besprachen
 <h2>1. Kapitel.</h2>
 <h3>Als die Geige klang …</h3>
 
-des drei sicher wieder am Tisch — Emil und wird
-e
+Wir drei sicher wieder am Tisch — Emil und wir
+beide.
 
 »Hab ich’s doch gleich gemerkt, daß Sie was Besonderes
 sind,« sagt Krawuschki grinsend. »So, und nun fragen Sie,
 Herr Harst!«
 
-»Woher kennen Sie Jack Barissa?
+»Woher kennen Sie Jack Barissa?«
 
 »Von früher her — von vor zehn Jahren … — Eins
 möchte ich gleich richtigstellen, Herr Harst: der Jack hat hier
 in Berlin nichts berissen, gar nichts. Da täuscht sich die
 Polizei. Er kam lediglich auf eine Depesche Amelys von
-Feuriges nach England, denn Amelys Vater und er waren
+Neuyork nach England, denn Amelys Vater und er waren
 die dicksten Freunde. — Als er die Lady in London glücklich
 befreit hatte, flüchteten die beiden hierher, und ich wies ihnen
-die Erdhöhle als wollte an. Dort hat schon mancher gs&-haust,
+die Erdhöhle als Versteck an. Dort hat schon mancher gehaust,
 der für ein paar Wochen völlig unsichtbar werden
 wollte …«
 
@@ -1583,7 +1582,7 @@ wollte …«
 des Lords?«
 
 »Sind nach der Darstellung Amelys völlig unerklärlich.
-Man könnte ja auf den Gedanken kommen, daß die Vere-wandten
+Man könnte ja auf den Gedanken kommen, daß die Verwandten
 des Lords dabei die Hand im Spiele gehabt
 haben. Aber — das trifft nicht zu, denn die Jacht des
 Lords besitzt eine so hohe Geschwindigkeit, daß kein Schiff
@@ -1591,7 +1590,7 @@ ihr folgen könnte, und niemand ahnte, daß Seine Lordschaft
 <@pagebreak/>
 Zeylon besuchen würde. Jedenfalls verschwand er
 bereits am Tage nach der Ankunft in Kolombo. Das Ehepaar
-hatte sich) einen eingeborenen Führer mitgenommen,
+hatte sich einen eingeborenen Führer mitgenommen,
 einen Singhalesen, und als dieser der Lady in der großen
 Tempelhalle die Wandskulpturen erklärte, ging der Lord
 in den Tempelhof hinaus. Seitdem hat niemand ihn mehr
@@ -1605,20 +1604,20 @@ Emil Krawuschki blickte Harald fragend an …
 
 »Werden Sie der Lady helfen, Herr Harst? Sie verdient
 es … Sie ist eine Dame, wie es nicht viele gibt …
-Und - — sie gehört durch ihre Herkunft … zu uns, z)’
-mir, zu denen da -«—«
+Und — — sie gehört durch ihre Herkunft … zu uns, zu
+mir, zu denen da —«
 
 Er wies auf die Betten,
 
 »Sie soll den englischen Detektiven nicht in die Hände
-sollen. Man würde sie zum Tode verurteilen. Die Sippe
+fallen. Man würde sie zum Tode verurteilen. Die Sippe
 der Verwandten des Lords hat Einfluß — überall, und in
-England fallen die Gerichte oft Urteile, die hier bei uns unmöglich
+England fällen die Gerichte oft Urteile, die hier bei uns unmöglich
 wären …«
 
 Harst lächelte ein wenig …
 
-»Was waren Sie ursprünglich mal, Krawuschki …!
+»Was waren Sie ursprünglich mal, Krawuschki …?
 Ihre Ausdrucksweise läßt auf Kaufmann, Schreiber — dergleichen
 schließen.«
 
@@ -1626,26 +1625,26 @@ schließen.«
 
 »Aha — also doch! — — Zurück zu der Lady … —
 Es ist besser, wenn Sie selbst die beiden warnen. Seien
-Sie aber vorsichtig. Schraut und« ich möchten ohne Säumen
+Sie aber vorsichtig. Schraut und ich möchten ohne Säumen
 abreisen.«
 
 »Soll geschehen, Herr Harst!«
 
-»Gehen wir also. — Müssen wir wieder die Strileitex
+»Gehen wir also. — Müssen wir wieder die Strickleiter
 benutzen?«
 
-»am — besser ist es … Ich habe hier im Hause
+»Hm — besser ist es … Ich habe hier im Hause
 <@pagebreak/>
 Feinde — Spione. Aber ausnahmsweise kann ich Sie
-beide auch durchs die Flurtür hinauslassen …«
+beide auch durch die Flurtür hinauslassen …«
 
 »uns drei … Denn der da kommt mit!« Und er
 zeigte auf das Bett des Burschen, dessen Revolver uns vorhin
 bedroht hatte. —
 
 zehn Minuten später schritten wir drei schweigend die
-üble Gäste hinab. Den Burschen, der zunächst nicht hatte
-willkommen wollen, hatten wir in der Mitte zwischen uns,
+üble Gasse hinab. Den Burschen, der zunächst nicht hatte
+mitkommen wollen, hatten wir in der Mitte zwischen uns,
 damit er uns nicht entschlüpfte.
 
 Nachdem wir durch mehrfache kleine Kunstgriffe festgestellt,
@@ -1654,20 +1653,20 @@ Invalidenstraße ein. Und erst hier sagte Harald zu unserem
 stummen Begleiter:
 
 »Frau Gräfin, ich möchte Ihnen raten, mir offen einzugestehen,
-weshalb Ihre sich mit Jack Barissa ins Einvernehmen
-gesetzt haben. Was — — haben Eiche vor?«
+weshalb Sie sich mit Jack Barissa ins Einvernehmen
+gesetzt haben. Was — — haben Sie vor?«
 
 Ich war nicht weiter erstaunt, daß die Gräfin mit den
 Kormoranen auf diese Weise wieder einmal auftauchte —
-in einer ihrer genialen Walther, die sie als frühere Varieteekünstlerin
+in einer ihrer genialen Masken, die sie als frühere Varieteekünstlerin
 unschwer bis zur Vollendung ausgestalten konnte.
 
 Wilhelminje van den Haag lachte leise und klingend.
 
-»las ich vorhabe? — Namen Sie mit in meine Wohnung,
+»Was ich vorhabe? — Kommen Sie mit in meine Wohnung,
 und ich will Ihnen die große Stahlkassette zeigen,
 die mein Eigentum ist und deren Schlüssel ich verloren habe.
-Jack sollte sie mir ausbrechen. Das ist alles. Und — es
+Jack sollte sie mir aufbrechen. Das ist alles. Und — es
 ist die Wahrheit …«
 
 »Mag sein. — Ich möchte Sie bei dieser Gelegenheit
@@ -1679,16 +1678,16 @@ suchen wollen, so werden Sie — Detektivin!«
 
 Sie war jetzt plötzlich stehengeblieben …
 
-Und ebenso plötzlich war sie nicht mehr die als Kaschemmenbrüder
+Und ebenso plötzlich war sie nicht mehr die als Kaschemmenbruder
 verkleidete Frau mit der reichbewegten Vergangenheit,
 sondern — die Gräfin mit den Kormoranen, die
 <@pagebreak/>
-hochintelligente Dame, die durch seltsame ShiÄsalsfügungen
+hochintelligente Dame, die durch seltsame Schicksalsfügungen
 auf den Weg der dunklen Tat gedrängt worden war.
 
 »Herr Harst, ich danke Ihnen für diesen Rat,« erklärte
 sie mit ihrer angenehmen tiefen Stimme. »Das war ein
-Rat — noch) zur rechten Zeit! Ich danke Ihnen!«
+Rat — noch zur rechten Zeit! Ich danke Ihnen!«
 
 Und sie streckte Harald die Hand hin …
 
@@ -1711,7 +1710,7 @@ können. — —
 
 Ein Sprung — vierzehn Tage …
 
-Ein Sprung bis zu der beraumaebenen tiefen Bucht der
+Ein Sprung bis zu der bergumgebenen tiefen Bucht der
 Nordwestküste Zeylons, an der palmenumrauscht der wundervolle,
 uralte, aber leider durch ein Erdbeben im Jahre 1843
 halb zerstörte Hindutempel von Drigalkor liegt.
@@ -1723,11 +1722,11 @@ leichten Strömung mitgeführt.
 Ein unscheinbarer, dunkel gestrichener Kutter, der sich
 kaum von dunklen Uferpartien abhob.
 
-Drüben aber aus breiter Felsterrasse des Galkorberges,
-die mächtige Front nach Norden gerichtet, erhob sich das be-rühm«
-e Heiligtum, in dessen teilweise in den Berg eingebauten
+Drüben aber auf breiter Felsterrasse des Galkorberges,
+die mächtige Front nach Norden gerichtet, erhob sich das berühmte
+Heiligtum, in dessen teilweise in den Berg eingebauten
 Wohnräumen einst Hunderte von frommen Brahmanen
-gekauft hatten.
+gehaust hatten.
 
 <@pagebreak/>
 Jetzt waren diese Grotten eingestürzt. Jetzt bewachten
@@ -1739,7 +1738,7 @@ Wir hatten es vor acht Jahren bei unserem ersten Besuch
 des Tempels photographiert. Wir wußten hier gut Bescheid,
 denn hier ganz in der Nähe hatten wir ja damals
 dem Geheimnis des Elefantenjägers nachgespürt und
-draußen aus See bei den Rissen und Klippenreihen Dinge
+draußen auf See bei den Riffen und Klippenreihen Dinge
 erlebt, die wahrlich eines geradezu unheimlichen Reizes
 nicht entbehrt hatten.
 
@@ -1756,47 +1755,47 @@ wurde.
 Wir drei saßen nebeneinander auf der halbkreisförmigen
 vertieften Steuerbank.
 
-Der maulfaule Baargen, den uns ein Zufall in so-Combo
+Der maulfaule Baargen, den uns ein Zufall in Kolombo
 in den Weg geführt hatte, döste vor sich hin, die unvermeidliche
 Seemannspiep im zahnlosen Munde, — der
-Motiv des alten verwitterten Seebären, den kein Kapitän
+Urtyp des alten verwitterten Seebären, den kein Kapitän
 mehr an Bord nimmt, weil genug junges Volk vorhanden,
 und der nun, halb Bettler, halb Gelegenheitsarbeiter, an
-den Hafenkuli seine Tage und die Nächte in Kneipen und in
+den Hafenkais seine Tage und die Nächte in Kneipen und in
 einem Leichter als Schlafstelle verbringt. —
 
 Harst hatte in Kolombo festgestellt, daß der Singhalese
 Rovanna, den Lord Goßweac als Fremdenführer gemietet
-gehabt, noch immer verschwunden war. In Kolombo betraten
+gehabt, noch immer verschwunden war. In Kolombo besaßen
 wir ja einen alten lieben Bekannten, den Detektivinspektor
 Matjoor, und Allan Matjoor hatte uns feierlich
 erklärt, daß er Lady Amely nach wie vor für schuldig hielte.
 
 <@pagebreak/>
 Jedenfalls: Neues hatten wir in Kolombo nicht erfahren,
-undd ohne jeden Anhaltspunkt eigentlich waren wir
+und ohne jeden Anhaltspunkt eigentlich waren wir
 dann mit dem Kutter in See gegangen und hatten in vierzehnstündiger
-Fahrt die Bucht von Drigalkor noch Dunkelwerden
+Fahrt die Bucht von Drigalkor nach Dunkelwerden
 erreicht.
 
 Ich war überzeugt, daß Harald über das Verschwinden
 des Lords sich längst eine ganz bestimmte Ansicht gebildet
 habe, mit der er jedoch vorsichtig mir gegenüber zurückhielt.
 Zweierlei war ja bereits so gut wie erwiesen: weder Lady
-Amely vor die Verwandten des Lords konnten als schuldig
+Amely noch die Verwandten des Lords konnten als schuldig
 in Betracht kommen. Es mußte also eine dritte Möglichkeit
-geben, andere Personen für Lord Charlys Beseitigung ver-aniwvortlih
+geben, andere Personen für Lord Charlys Beseitigung verantwortlich
 machen zu können. doch: wo war ein Motiv
 für diese Tat zu finden?! Hatte man den Lord berauben
 wollen? Hatten irgendwelche Leute es schon in Kolombo
-auf den millionenschweren englischen Fall abgesehen gehabt,
+auf den millionenschweren englischen Pair abgesehen gehabt,
 der ja fraglos stets eine größere Geldsumme bei sich trug
 und dessen Ringe, Uhr, Uhrkette und Krawattennadel ebenfalls
 ein kleines Vermögen wert sein mochten?! Waren
-ihm diese Banditen bis zum Tempel nachgeschlichen? 1 Hatten
+ihm diese Banditen bis zum Tempel nachgeschlichen?! Hatten
 sie ihn in dem weiten Tempelhofe blitzschnell niedergeschlagen
-und die Leiche etwa in eine der diesen Klüfte der
-halb verschütteilen Grotten geworfen?! —
+und die Leiche etwa in eine der tiefen Klüfte der
+halb verschütteten Grotten geworfen?! —
 
 So sann ich auch jetzt wieder über dieses Geheimnis
 nach …
@@ -1804,22 +1803,22 @@ nach …
 Und beobachtete Harald, der mit einem Fernglas fast
 unausgesetzt nach dem Tempel hinüberstarrte …
 
-Biß durch die feierliche Stille der Nacht, deren zauberhafte
-Schönheit noch- durch das Harsts Säuseln riesiger
+Bis durch die feierliche Stille der Nacht, deren zauberhafte
+Schönheit noch durch das sanfte Säuseln riesiger
 Fächerpalmen und schlanker Kokospalmen sowie durch das
-eiserne grollende Brandungsgeräusch der See traumhaft verstärkt
+ferne grollende Brandungsgeräusch der See traumhaft verstärkt
 wurde, seltsam zarte Töne über die Wasseroberfläche
 der Bucht schwebten und mein Ohr mit der vertrauten Melodie
-des weichen Langes von Händel umschmeichelten …
+des weichen Largos von Händel umschmeichelten …
 
 »Eine — Geige …« flüsterte ich. »Geigenspiel! —
-Harst Du es, Harald?!«
+Hörst Du es, Harald?!«
 
 <@pagebreak/>
 Und der Freund ließ das Fernglas sinken …
 
 »Ich höre — Und nun will ich Dir mitteilen, was
-Du noch nicht weißt, mein Alter! Lord Charly Goßwxeac
+Du noch nicht weißt, mein Alter! Lord Charly Goßweac
 ist ein Virtuose, ein Meister der Violine!«
 
 Ich beugte mich vor.
@@ -1832,22 +1831,22 @@ Ich beugte mich vor.
 nicht verschwunden, er — verbirgt sich!«
 
 »Das habe ich sofort vermutet … Denke an den Ungeheuren
-Skandal in der englischen Adel8gescllichaft, als die
+Skandal in der englischen Adelsgesellschaft, als die
 Zeitungen die Artikel über die Herkunft der jungen Lady
 brachten. Denke an des Lords fluchtartige Abreise aus
 London. Er, ein Sonderling, behaftet mit dem ganzen
-Stolz des bis dahin hochanacschenen Fahrt von Großbritannien,
+Stolz des bis dahin hochangesehenen Pairs von Großbritannien,
 sieht den alten Namen seines Geschlechts durch den
-Schraut gezogen, erkennt, was er getan, als er mit sechzig
-Spuren die jucendfrische Amely heiratete … Und — sagte
-der Welt dabei für immer Lebewohl, ließ sich durch die
-Priester im Tempel verbergen, die fraglos verstehe kennen,
-über die mir wir nicht staunen würden. All diese indischen
+Schmutz gezogen, erkennt, was er getan, als er mit sechzig
+Jahren die jugendfrische Amely heiratete … Und — sagte
+der Welt daher für immer Lebewohl, ließ sich durch die
+Priester im Tempel verbergen, die fraglos Verstecke kennen,
+über die nur wir nicht staunen würden. All diese indischen
 Tempel enthalten ja Geheimkammern — alle …«
 
 Ich nickte nur …
 
-Und über den Prasseln der Bucht schwebten die sanften
+Und über den Wassern der Bucht schwebten die sanften
 Töne des Geigenspiels …
 
 »Etwas, das die Polizei in Kolombo gar nicht beachtet
@@ -1866,7 +1865,7 @@ Kutter dort hinter die Halbinsel!«
 
 <@pagebreak/>
 Wir fanden eine vom Sturm umgestürzte Kokospalme,
-die von einem Tigerfellen halb über das Wasser gefallen
+die von einem Uferfelsen halb über das Wasser gefallen
 war. An diesem Palmenstamm vertäuten wir den Kutter.
 
 »Sie bleiben als Wache an Bord!« befahl Harst dem
@@ -1874,15 +1873,15 @@ brummigen Holländer. »Wir werden in zwei Stunden
 wieder zurück sein — spätestens …«
 
 Und wir balancierten über den dicken Stamm an Land,
-eilten um die Hanptibucht herum dem Tempel zu …
+eilten um die Hauptbucht herum dem Tempel zu …
 
 Der Weg durch Gestrüpp und über zerklüftete Felsmassen
-war recht bosckmwerlich. Den hellen Uferstreifen
+war recht beschwerlich. Den hellen Uferstreifen
 mußten wir meiden, um nicht vorzeitig bemerkt zu werden.
 
 Wenn wir eine Lichtung passierten, vernahmen wir stets
-die sausten Klänge der Violine … Und konnten dabei
-erschossen, den Lord zu überraschen, der fraglos vor dem Tempel
+die sanften Klänge der Violine … Und konnten daher
+hoffen, den Lord zu überraschen, der fraglos vor dem Tempel
 saß.
 
 So vergingen denn gut zwanzig Minuten, bevor wir
@@ -1892,11 +1891,11 @@ Terrassenwand des Galkorberges eingehauen war …
 Dicht an der Felswand schlüpften wir dahin …
 
 Und gerade als Harald mir zuraunte, daß Lord Charlys
-Verschwinden nun sofort endgültig aufgehört werden würde,
-brach das Geigenspiel mit einem schrillen mitten ab …
+Verschwinden nun sofort endgültig aufgeklärt werden würde,
+brach das Geigenspiel mit einem schrillen Mißton ab …
 
 Und diesem jähen Verstummen des kostbaren Instruments
-folgte ein kurzer leisesten Mutloser …
+folgte ein kurzer heiserer Aufschrei …
 
 Ein einzelner Schrei …
 
@@ -1910,7 +1909,7 @@ Und fast gleichzeitig langten wir an der Marmorfreitreppe
 des Haupteingangs an …
 
 Sahen im Lichte des südlichen Sternenhimmels mit
-seinen Millionen von Flämmchen eine Gestalt aus der
+seinen Millionen von Flämmchen eine Gestalt auf der
 untersten Stufe liegen …
 
 Einen Brahmanen …
@@ -1921,19 +1920,19 @@ Der Turban war dem Greise vom Kopfe gerutscht …
 Schlohweiß das Haupthaar wie der breite Vollbart …
 Dunkelbraun das Gesicht …
 
-Und — da kein Singhalese, kein Tamile — kein Eingeborener!
-Diese Züge Vorgarten einem Europäer …
+Und — doch kein Singhalese, kein Tamile — kein Eingeborener!
+Diese Züge gehörten einem Europäer …
 
-»Der Bord!« sagte Harald leise …
+»Der Lord!« sagte Harald leise …
 
-Strecke sich, zog die Falten des weiten mantelartigen
+Bückte sich, zog die Falten des weiten mantelartigen
 Gewandes an der Brust zur Seite …
 
 Und — im Herzen Lord Charly Goßweacs saß ein
 indischer Dolch, bis ans Heft hineingetrieben …
 
-Und — gerade da schlug der Fall von England zum
-diesen Male die Augen auf …
+Und — gerade da schlug der Pair von England zum
+letzten Male die Augen auf …
 
 Ein Blick, der durch die Unendlichkeit des Firmaments
 unbekannte Welten zu schauen schien — ein überirdischer
@@ -1949,8 +1948,8 @@ Harst richtete sich wieder auf.
 Deutete nach links auf die Geige …
 
 Sie war — gestorben … Gestorben wie ihr Besitzer.
-Herzogin schwerer Fuß hatte sie zertrümmert. Ihr Leib war
-eingedrüc!!. Edqhlaff hingen die Saiten, die noch soeben
+Ein schwerer Fuß hatte sie zertrümmert. Ihr Leib war
+eingedrückt. Schlaff hingen die Saiten, die noch soeben
 in wunderbarem Klingen die Tropennacht mit milden Tönen
 erfüllt hatten.
 
@@ -1967,39 +1966,39 @@ blitzten dunkle drohende Augen …
 <@pagebreak/>
 Harald begann zu sprechen …
 
-Da Waren drei der Brahmanen, die ein noch auf den
+Da waren drei der Brahmanen, die sich noch auf den
 berühmten weißen Sahib besannen, der die schillernde Statue
-des Gottes photoaraplhynert hatte.
+des Gottes photographiert hatte.
 
 Die Erregung der Priester schwand. Sie lauschten dem,
-was Harald zu erklären hatte. Eiche standen da und ihre
-faltigen Gezierten mit den weltfremden Fanatikeraugen
+was Harald zu erklären hatte. Sie standen da und ihre
+faltigen Gesichter mit den weltfremden Fanatikeraugen
 drückten nur noch diese Trauer aus.
 
 Der Oberpriester gab dann bereitwillig Auskunft …
 
 Daß der Lord durch den Singhalesen Rovanna sie habe
-bitten lassen, ihn auszunehmen, ihn zu verbergen, da er fortan
-hier in der Einsamkeit als Anhänger Brahmas, des schaltete,
+bitten lassen, ihn aufzunehmen, ihn zu verbergen, da er fortan
+hier in der Einsamkeit als Anhänger Brahmas, des Erhalters,
 zu leben gedenke …
 
-»ZSähbib Harst, wir hatten keinen Grund, ihm diese Bitte
+»Sahib Harst, wir hatten keinen Grund, ihm diese Bitte
 abzuschlagen. Er wurde einer der eifrigsten Schüler der
 großen Lehre unserer Religion …«
 
 Harald hörte kaum mehr hin.
 
 »Habt Ihr einen Boten, den Ihr nach Kolombo zur
-Polizei schien könnt?« fragte er geistesabwesend. »Hier
+Polizei schicken könnt?« fragte er geistesabwesend. »Hier
 ist ein Mord verübt worden, und unsere Pflicht ist es, die
 Behörden schleunigst zu benachrichtigen.«
 
 »Sahib, einer der beiden Tempeldiener war früher
-Nickschafuli. Er läuft schneller als das trabende Pferd und
-kann in einer Stunde in Dalagst sein. Dort gibt es eine
+Rickschakuli. Er läuft schneller als das trabende Pferd und
+kann in einer Stunde in Pataoli sein. Dort gibt es eine
 Telegraphenstation.«
 
-Harst schrieb eine Depesche an Detektivinspektor Massiger.
+Harst schrieb eine Depesche an Detektivinspektor Matjoor.
 
 Als der Tempeldiener dann aufgebrochen war, fragte
 Harald den Oberbrahmanen nach dem Verbleib des Singhalesen
@@ -2007,8 +2006,8 @@ Rovanna.
 
 »Der Lord gab ihm Geld, und Rovanna hat sich einen
 Kutter zum Perlenfischen gekauft,« erwiderte der Greis
-ohne Zögern. »Rovanna ist nun der Westküste Vorderindiens
-gesegelt. Wir haben nichts mehr von ihm wver-nommen,
+ohne Zögern. »Rovanna ist nach der Westküste Vorderindiens
+gesegelt. Wir haben nichts mehr von ihm vernommen,
 Sahib.«
 
 Wir umstanden noch immer den Toten. Der Morgen
@@ -2018,44 +2017,44 @@ den Spuren des Mörders suchen.
 
 »Du könntest Baargen Bescheid sagen gehen, daß er den
 Kutter hier unterhalb der Tempelterrasse vertäut,« wandte
-er ein; nun mir zu. »Vorläufig können wir doch nicht:Es
+er sich nun mir zu. »Vorläufig können wir doch nichts
 unternehmen.«
 
-Die Brahmanen flüsterten miteinander. Wenn sich auch
-keinerlei Mißtrauen gegen uns hegten. so mochten sie sich doch
+Die Brahmanen flüsterten miteinander. Wenn sie auch
+keinerlei Mißtrauen gegen uns hegten, so mochten sie sich doch
 durch Harsts wortkarge Art verletzt fühlen.
 
-Der Oberpriester trat wieder aus uns zu.
+Der Oberpriester trat wieder auf uns zu.
 
 »Sahib,« meinte er höflich, »Du wirst begreifen, daß
 wir gern wissen möchten, wer unseren Bruder dort ermordet
-hat. zu bist berühmt, Sahib, und Dein Beruf ist es, die
+hat. Du bist berühmt, Sahib, und Dein Beruf ist es, die
 Übeltäter zu entdecken.«
 
 Harald hatte den Blick gen Osten gerichtet, wo soeben
-die ersten hellen Farben des herausziehenden neuen Tages
+die ersten hellen Farben des heraufziehenden neuen Tages
 am Horizont sich ausbreiteten.
 
 »Der Mörder,« entgegnete er leise, als ob er im Geiste
-ein besonderes Bild schaute, »der Mörder wird seiner Straße
+ein besonderes Bild schaute, »der Mörder wird seiner Strafe
 nicht entgehen …«
 
-Dann winkte er mir, und ich machte mich »uf den Rückweg
+Dann winkte er mir, und ich machte mich auf den Rückweg
 zu unserem Kutter.
 
-Kein Wunder, daß diese einsame Wanderung dich die
+Kein Wunder, daß diese einsame Wanderung durch die
 tropische Wildnis mir überreich Gelegenheit bot, über dieses
 Verbrechen nachzugrübeln, das mit all seinen Begleitumständen
 die vielfachsten Schlüsse zuließ. Daß ein Eingeborener
 der Täter sein könnte, war wohl ausgeschlossen.
 Die Brahmanen sind gerade auf Zeylon genau wie die
 buddhistischen Priester so allgemein geachtet, daß selbst der
-verkommenste Mokka (die Lebtag sind die Ureinwohner
+verkommenste Wedda (die Weddas sind die Ureinwohner
 Zeylons und leben noch in primitivster Weise in den endlosen
 Dschungeln der paradiesischen Insel) sich niemals an
-einem Brahmanen vergessen hätte.
+einem Brahmanen vergriffen hätte.
 
-Mithin blieb, zumal die Gegend um den Drigalkotr-tempel
+Mithin blieb, zumal die Gegend um den Drigalkortempel
 fast unbewohnt ist, nur eine einzige Wahrscheinlichkeit
 übrig: daß die Verwandten des Lords einen Mörder
 <@pagebreak/>
@@ -2064,32 +2063,32 @@ verborgen hielt …!
 
 Doch auch diese Annahme gefiel mir nicht ganz. Bei
 genauer Prüfung konnte man dagegen so vielerlei einwenden,
-das, ich der Frage in nichts näherkam, im jenen!elf mir
+daß ich der Frage in nichts näherkam, im Gegenteil mir
 sagen mußte, hier läge vielleicht noch irgendein Geheimnis
 vor, von dem wir beide, Harald und ich, noch nichts ahnten.
 
 Als ich den Kutter erreicht hatte, fand ich Jan Baargen
 auf der Steuerbank fest schlafend vor. Um nicht von den
-S:schmücken, die hier eine wenig angenehme (Grotte erreichen,
-zu arg agepeiniat zu werden, hatte er sich in sein Moskitonetz
-eitaecwickelt, sich mußte ihn erst tüchtig rütteln, bevor er
+Stechmücken, die hier eine wenig angenehme Größe erreichen,
+zu arg gepeinigt zu werden, hatte er sich in sein Moskitonetz
+eingewickelt. Ich mußte ihn erst tüchtig rütteln, bevor er
 mit ein paar Grunztönen erwachte.
 
 Der Mord machte auf ihn weiter keinen tieferen Eindruck.
 Er mochte in seinem Steuermannsdasein allzu viel
 Trauriges und Blutiges erlebt haben, als daß eine Untat
 wie diese sein Gemüt erregen konnte. Immerhin murmelte
-er ein paar bedauernde Worte, die in per billigen Feststeht
-pirschten: »Jeder muß ja sterben, Herr Wortlaut … Und
+er ein paar bedauernde Worte, die in der billigen Weisheit
+gipfelten: »Jeder muß ja sterben, Herr Schraut … Und
 der Lord hat einen leichten Tod gehabt.« — Er sprach das
 Deutsche ziemlich fließend, beherrschte überhaupt so ziemlich
-alle Yeundarten, worauf er nicht wenig stolz war.
+alle Mundarten, worauf er nicht wenig stolz war.
 
 Inzwischen hatte die Morgendämmerung mit der in
 den Tropen regelmäßigen Kürze der Tageshelle bereits
 weichen müssen.
 
-Ich war’s den Motor an, und kaum fünf Minuten später
+Ich warf den Motor an, und kaum fünf Minuten später
 vertäuten wir den Kutter an einer jäh ins Wasser abfallenden
 Felsplatte unterhalb der Terrasse.
 
@@ -2101,8 +2100,8 @@ Zigarette, eine seiner geliebten Mirakulum.
 
 Die Priester hatten sich in den Tempel zurückgezogen.
 
-»Nun, mein Aber, da bist Du ja …« begrüßte Harald
-mich und blickte mir zerstreut ins Gesicht. »Du scheinst gestatten
+»Nun, mein Alter, da bist Du ja …« begrüßte Harald
+mich und blickte mir zerstreut ins Gesicht. »Du scheinst gefallen
 zu sein … Deine eine Wange zeigt blutige Kratzer!«
 
 <@pagebreak/>
@@ -2114,11 +2113,11 @@ Ich setzte mich neben ihn …
 »du hättest Dir ja den üblen Weg durch das Dickicht
 sparen können,« sagte er nach einer Weile. »Du hast nicht
 daran gedacht, daß Du jetzt am Buchtstrand weit schneller
-vorwärt8gekfommen wärest, wo Du Dich nicht mehr zu verbergen
+vorwärtsgekommen wärest, wo Du Dich nicht mehr zu verbergen
 brauchtest.«
 
 »Allerdings! Daran habe ich nicht gedacht!« Und ich
-war etwas beschämt über meine Gedankenlosiakeit, fügte
+war etwas beschämt über meine Gedankenlosigkeit, fügte
 ablenkend hinzu: »Was hältst Du von diesem Morde? Wir
 sind nun ja allein, und …«
 
@@ -2127,26 +2126,26 @@ wenn er sein Dienstauto benutzt,« unterbrach er mich — so
 recht wieder einmal Harald Harst, der gern den großen
 Schweiger spielt.
 
-»Im üÜbrigen, mein Alter …« — und er nahm eine
+»Im übrigen, mein Alter …« — und er nahm eine
 neue Mirakulum — »im übrigen ist es kein indischer
 Dolch …«
 
 Er wies auf den Toten, dessen friedliches Greisengesicht
 jetzt von den ersten Sonnenstrahlen gestreichelt wurde.
 
-»Es ist ein italienischer Dolch. — alte Arbeit, der Griff
+»Es ist ein italienischer Dolch — alte Arbeit, der Griff
 mit Halbedelsteinen verziert …«
 
-»Merkwürdig — eine italienische Waffe hier aus Zeylon …«
+»Merkwürdig — eine italienische Waffe hier auf Zeylon …«
 
-»Allerdings — sehr merkwürdig …
+»Allerdings — sehr merkwürdig …«
 
 Das klang so, als ob er noch etwas hatte hinzufügen
 wollen …
 
 Ich grübelte wieder — grübelte über all die Fragen
 nach, die hier angesichts des Toten noch aufdringlicher mich
-bestürmten als aus dem Wege zum Kutter.
+bestürmten als auf dem Wege zum Kutter.
 
 Ich sah dort drei Schritt weiter die zertretene Geige
 liegen … Selbst der Geigenbogen war zersplittert und halb
@@ -2176,15 +2175,15 @@ daß ich nicht Harald Harst bin!«
 und den Verstand gleichzeitig gebrauchen … — Wollen
 sehen, ob Allan Matjoor hier mehr ausrichtet als Du …«
 
-Ich erhob mich. Steuerten ist es schwer, mit Harald
-intim Frieden auszukommen. Verärgert kletterte ich zum
-Kutter hinab, ging in die kleine Kajüte und machte mir aus
+Ich erhob mich. Bisweilen ist es schwer, mit Harald
+im Frieden auszukommen. Verärgert kletterte ich zum
+Kutter hinab, ging in die kleine Kajüte und machte mir auf
 dem einen Wandsofa mein Bett zurecht.
 
 Baargen schlief im Vorschiff, Und auch mich Übermannte
-die Müdigkeit. II schlummerte ein … — —
+die Müdigkeit. Ich schlummerte ein … — —
 
-Halb acht war’s, als Harald nicht weckte …
+Halb acht war’s, als Harald mich weckte …
 
 »Matjoor ist eingetroffen, mein Alter … Beeile Dich!«
 
@@ -2196,10 +2195,10 @@ Und oben vor dem Tempel begrüßte ich dann unseren
 endlos langen hageren Freund Matjoor …
 
 »Na, Schraut, wie denken Sie über den Fall?« sagte
-er forschend. »Harst behauptet ja, daß die Sache ihm Arena
-lich schleierhaft sei — ziemlich …! Und Sie …?!«
+er forschend. »Harst behauptet ja, daß die Sache ihm ziemlich
+schleierhaft sei — ziemlich …! Und Sie …?!«
 
-»letztere — noch schleierhafter …!«
+»Bedauere — noch schleierhafter …!«
 
 Matjoor hatte zwei Geheimpolizisten mitgebracht, zwei
 Europäer, Mischlinge von Europäern und Singhalesen, —
@@ -2207,40 +2206,40 @@ zwei prächtige schlanke Gestalten, die kaum noch erkennen
 ließen, daß sie farbiges Blut in den Adern hatten. Gerade
 diese Kinder aus den wilden Ehen zwischen Weißen und
 den hübschen glutäugigen Singhalesinnen zeichnen sich durch
-hohe Intelligenz aus und werden von den Engländern
+hohe Intelligenz aus und werden von den Engländern als
 Beamte sehr bevorzugt.
 
 <@pagebreak/>
-Matjoor schickte sie nun aus, damit sie die ganze Um-Fortgang
+Matjoor schickte sie nun aus, damit sie die ganze Umgebung
 des Tempels nach Spuren absuchten.
 
 Harst, Matjoor, der Oberpriester und ich trugen den
-ermordeten Lord in die Krone Tempelhalle, wo die Brahmanen
-bereits eine Art Katasalkf vor der edelsteinübersäten
-Stative des Hauptgottes Geflickter hatten.
+ermordeten Lord in die große Tempelhalle, wo die Brahmanen
+bereits eine Art Katafalk<@refnote 1/> vor der edelsteinübersäten
+Statue des Hauptgottes errichtet hatten.
 
-Hier war es auch, wo der Oberpriester nun dem De-ektivuinjpelior
-ein Schrifstük Lord (Goßweacs vorzeigte, in
+Hier war es auch, wo der Oberpriester nun dem Detektivinspektor
+ein Schriftstück Lord Goßweacs vorzeigte, in
 dem dieser nochmals Bestimmungen für den Fall seines
 Todes traf.
 
-Bemerkenö8wert waren darin folgende Säße:
+Bemerkenswert waren darin folgende Sätze:
 
 > »… Meine Gattin Amely, der ich durch mein Verschwinden
 so viel Herzeleid bereitet habe, soll entsprechend
 dem bei meinem Notar in London lagernden Testament
 Gesamterbin meines Vermögens sein. Meine Verwandten
-sehen völlig leer aufsuchen. — Ich bin entschlossen,
+sollen völlig leer ausgehen. — Ich bin entschlossen,
 das Geheimnis meines neuen Daseins als
 Priester Brahmas der Öffentlichkeit preiszugeben, falls
 Amely von den Behörden der Prozeß gemacht wird. —
-Meine Cremonenser Geige soll dem in Genua, Aha Garibaldi
+Meine Cremonenser Geige soll dem in Genua, Via Garibaldi
 18, wohnenden Kapitän Vittorio Ansalmo nebst
-3000 Pfund Stierling zugestellt werden, wie ich dies ebenfalls
+3000 Pfund Sterling zugestellt werden, wie ich dies ebenfalls
 schon in einem Nachsatz zu meinem Testament bestimmt
 habe … — Ich wünsche entsprechend den Vorschriften
 der Hindu-Religion verbrannt zu werden. Mein
-Ucebertritt zum Brahmanisämus erfolgte aus tiefster Verachtung
+Übertritt zum Brahmanismus erfolgte aus tiefster Verachtung
 all jener christlichen Verleumder und Ehrabschneider,
 die mir mein ehemaliges Vaterland verleidet und
 meine trotz des großen Altersunterschiedes glückliche Ehe
@@ -2249,7 +2248,7 @@ zerstört haben …«
 Jedenfalls war dieses Dokument der beste Beweis dafür,
 daß Lord Goßweac ein Edelmann in des Wortes bester
 Bedeutung gewesen und daß er seiner jungen Gattin in
-seiner Weise nachtrug, weil letzten Endes durch sie und ihre
+keiner Weise nachtrug, weil letzten Endes durch sie und ihre
 <@pagebreak/>
 dunkle Herkunft der Name Goßweac zum Gegenstand widerwärtigen
 Skandalgeschichten gemacht worden war. —
@@ -2257,32 +2256,32 @@ Skandalgeschichten gemacht worden war. —
 Wenn ich jemals mit aller Deutlichkeit empfunden hatte,
 wie sehr gerade unser Beruf uns Einblick in die feinsten
 Regungen menschlichen Seelenlebens gewährte, — hier in
-diesem Falle fühlte ich es gleichsam als Offenbarina, daß
+diesem Falle fühlte ich es gleichsam als Offenbarung, daß
 der Detektiv, der jeden alltäglichen Weg verschmäht, zum
 guten Menschenkenner und zum warmherzigen Verteidiger
 von Charakterschwächen werden muß. —
 
 Ich will hier nur noch ganz kurz die wichtigsten Einzelheiten
-während des nettes unseres Aufenthaltes im Inselparadies
+während des Restes unseres Aufenthaltes im Inselparadies
 Zeylon erwähnen.
 
-ich Matjoors Gehilfen fanden nichts von Spuren — gar
+Matjoors Gehilfen fanden nichts von Spuren — gar
 nichts …
 
 Schon am Abend wurde dann des Lords Leiche auf
-einem Edzeiterhaufen verbrannt, nachdem der inzwischen
+einem Scheiterhaufen verbrannt, nachdem der inzwischen
 ebenfalls aus Kolombo eingetroffene englische Gouverneur
 hierzu die Erlaubnis gegeben hatte. — Harald blieb dabei,
-daß er über den Mörder lediglich Vermu:Augen anstellen
+daß er über den Mörder lediglich Vermutungen anstellen
 könnte, die er doch lieber verschweigen möchte, solange ihm
 noch die Beweise fehlten.
 
 In der Nacht langten wir wieder mit unserem Kutter
-Kolombo an und erkundigten uns sofort nach dem nächsten
-Europadampfern. Im Reisebureau erfuhren wir, daß vormittags
+in Kolombo an und erkundigten uns sofort nach dem nächsten
+Europadampfer. Im Reisebureau erfuhren wir, daß vormittags
 elf Uhr die Arkadia, ein englisches Schiff, in See
-ginge. Wir versenken dort eine Kabine, und Harst bezahlte
-auch für Jan Baargen die Überflutet bis London, da der
+ginge. Wir belegten dort eine Kabine, und Harst bezahlte
+auch für Jan Baargen die Überfahrt bis London, da der
 alte Maat plötzlich Sehnsucht nach der Heimat fühlte und
 Harald gebeten hatte, ihm doch die Rückkehr nach Holland
 zu ermöglichen …
@@ -2296,15 +2295,15 @@ Und — wieder nun ein Sprung von zwölf Tagen …
 
 zwölf Tage auf See, die nichts als beschauliche Ruhe
 gewesen waren … Harst ruhte aus. Sprach kein Wort
-mehr über den Fall Goßweac. Und doch merkte ich seinem!
+mehr über den Fall Goßweac. Und doch merkte ich seinem
 oft so versonnenen Gesichtsausdruck an, daß seine Gedanken
 … durchaus nicht in beschaulicher Trägheit dahindämmerten.
 Was er aber in seinem Hirn wälzte — ich ahnte es
 nicht!
 
-Also — ein Sprung bis Hamburg, wo wir weigerte
+Also — ein Sprung bis Hamburg, wo wir morgens
 eingetroffen waren … Und mit uns Jan Baargen, der
-von schon um Dover Überlegt hatte, daß er doch besser täte,
+sich schon in Dover Überlegt hatte, daß er doch besser täte,
 Haralds Anerbieten anzunehmen, der ihm in Berlin eine
 leichte Anstellung besorgen wollte.
 
@@ -2312,7 +2311,7 @@ So führte uns denn der D-Zug gen Berlin. Wir in
 der ersten, Jan in der dritten Klasse …
 
 Der Zug war wenig besetzt. Wir saßen allein im Abteil.
-Nachmittags vier Uhr würden wir auf dem seiner
+Nachmittags vier Uhr würden wir auf dem Lehrter
 Bahnhof eintreffen, und um fünf Uhr würden wir Haralds
 Mutter im alten Harstschen Familienhause begrüßen können.
 
@@ -2323,32 +2322,32 @@ Kleinigkeit schuld.
 
 Ein Nichts, könnte man fast sagen … —
 
-Harald hatte in Hamburg ein paar 5 Sitzungen gekauft.
-Ich langweilte mich, wollte mir etwas Deckung machen
+Harald hatte in Hamburg ein paar Zeitungen gekauft.
+Ich langweilte mich, wollte mir etwas Bewegung machen
 und schlenderte durch den Zug …
 
 Im Gange eines der letzten Wagen dritter Klasse lehnte
-am Gangfenster ein junger Mensch mit blondem Schnupfer«
-Bärtchen, eine ganz unauffällige Erscheinung alles in allem.
+am Gangfenster ein junger Mensch mit blondem Schnurrbärtchen,
+eine ganz unauffällige Erscheinung alles in allem.
 
 Und doch stutzte ich …
 
 Der Mann drehte mir halb den Rücken zu, sah mich nicht.
 
 <@pagebreak/>
-Seite schärfer konnte ich ihn beobachten, sein Profil
-vergleichen mit den Gesichtszügen strich Europäers, der im
+Desto schärfer konnte ich ihn beobachten, sein Profil
+vergleichen mit den Gesichtszügen eines Europäers, der im
 Reisebureau in Kolombo neben uns gestanden hatte.
 
-Unsereiner wir! leicht mißurauisch.
+Unsereiner wird leicht mißtrauisch.
 
 Sollte der Zufall diesen jungen Menschen hier wieder
-mit uns zusamongeführt haben?! — Zufall?! — Das wäre
+mit uns zusammengeführt haben?! — Zufall?! — Das wäre
 doch zu merkwürdig gewesen …!
 
-Und wie ich so noch hinter dem Fremden stand, begann
+Und wie ich so noch hinter dem Fremden stand, besann
 ich mich ganz genau, daß der Europäer dort in Kolombo,
-was mir ausgefallen war, zart nach einem seltsamen Parfüm
+was mir aufgefallen war, zart nach einem seltsamen Parfüm
 geduftet hatte …
 
 Nach einem Wohlgeruch, der durchaus nicht alltäglich
@@ -2386,13 +2385,13 @@ aufgeregt eilte ich nach unserem Abteil zurück und berichtete
 Harald, was mir soeben begegnet war.
 
 Ich sah ihm an, daß er von diesem blondbärtigen
-Fremden nichts wußte, ihn auch in Kolombo kaum beachte!
+Fremden nichts wußte, ihn auch in Kolombo kaum beachtet
 <@pagebreak/>
 hatte. Freilich hatte er dort am Schalter gestanden und
 ich weiter zurück.
 
 Er erhob sich jetzt. »Wir müssen den Menschen finden —
-Auktion!« meinte er kurz.
+müssen!« meinte er kurz.
 
 Und dann — fügte er hinzu, rätselvoll wie ein Orakel:
 
@@ -2403,7 +2402,7 @@ Ich starrte ihn an …
 
 Und jäh wie bin Blitz ein Gedanke, eine Erkenntnis:
 Baargen war der Mörder! Baargen, der uns damals an
-der Flucht von Drigalkor so leicht vorauseilen konnte, wenn
+der Bucht von Drigalkor so leicht vorauseilen konnte, wenn
 er den sandigen Uferstreifen benutzte …!
 
 »Baargen — — der Mörder?« flüsterte ich trotzdem
@@ -2423,7 +2422,7 @@ gleichfalls:
 
 Ein … anderer!
 
-Zu — dieser andere saß in unserem Abteil Erster auf
+Ja — dieser andere saß in unserem Abteil Erster auf
 Harsts Fensterplatz …
 
 Ein würdiger älterer Herr mit Brille …
@@ -2450,32 +2449,32 @@ den Haag!!
 »Meine Hochachtung! Sie verstehen etwas von
 unserer Kunst!«
 
-Sie reichte ihm die Hand … Begrüßte auch mich) durch
+Sie reichte ihm die Hand … Begrüßte auch mich durch
 kräftigen Händedruck …
 
 Wir setzten uns ihr gegenüber.
 
-»Waren Sie denn pro) mit an der Wicht von Drigalkor?«
+»Waren Sie denn auch mit an der Bucht von Drigalkor?«
 fragte Harald sofort …
 
-»Leider nein … Aden bis Kolombo waren wir Reisegefährten
-… Und auch Jan Baargen mit an! dem
+»Leider nein … Aber bis Kolombo waren wir Reisegefährten
+… Und auch Jan Baargen mit auf dem
 Dampfer …«
 
-»Ah — das posaunt!« rief Harald. »Ich habe es geahnt
-… Ein zweifaches Todesspicl!«
+»Ah — das genügt!« rief Harald. »Ich habe es geahnt
+… Ein zweifaches Todesspiel!«
 
 »Wie meinen Sie das?«
 
 »Später … — Haben Sie noch irgend etwas von
-Wichtigkeit in Kolombo beobachte!?«
+Wichtigkeit in Kolombo beobachtet?«
 
 »Ja, Herr Harst … Baargen gab eine Depesche nach
-Berlin aus, als Sie beide im Reisebureau waren. diese
-Depesche habe ich — und darauf bin ich stolz — müigesch1tie-den,
+Berlin auf, als Sie beide im Reisebureau waren. diese
+Depesche habe ich — und darauf bin ich stolz — mitgeschrieben,
 vom Nebenpult aus …«
 
-Die Gräfin zog ihre Beriestasche hervor …
+Die Gräfin zog ihre Brieftasche hervor …
 
 »Bitte …«
 
@@ -2487,12 +2486,12 @@ postlagernd Postamt Dahlem.
 > Lieferung erledigt. Keinerlei Weiterungen. Bin am
 6\. Oktober dort.
 
-> A. N. S. Arme.
+> A. N. S. Almo.
 
 Als Harald diese Zeilen überflogen hatte, sagte er mit
 einem zufriedenen Kopfnicken:
 
-»Auch das stimmt! Auch das! — A. N. S. Arme —
+»Auch das stimmt! Auch das! — A. N. S. Almo —
 Ansalmo, Kapitän Vittorio Ansalmo, der ehemalige Besitzer
 der kostbaren Cremonenser Geige …«
 
@@ -2501,7 +2500,7 @@ Ich blickte ihn etwas verwirrt an …
 Zu vieles stürmte jäh auf mich ein …
 
 <@pagebreak/>
-»Jan Baargen ist »Italiener, niemals Holländer …
+»Jan Baargen ist Italiener, niemals Holländer …
 Jan Baargen ist Kapitän Vittorio Ansalmo …«
 
 Und diese Worte Harsts waren die zweite große Offenbarung
@@ -2516,34 +2515,34 @@ mir einen besonderen Blick zuwarf:
 »Kapitän Vittorio Ansalmo, der Nachkomme des großen
 italienischen Geigenkünstlers Ansalmo, selbst auch leidenschaftlicher
 Musiker, erbte eine überaus wertvolle Violine von
-seinem Uhr, geriet durch Krankheit in Erklang:e Verhältnisse,
+seinem Ahn, geriet durch Krankheit in bedrängte Verhältnisse,
 lag tagelang ohne Bewußtsein da und konnte es so
 nicht verhindern, daß Lord Charly Goßweac der verzweifelten
 Gattin des Kapitäns für eine riesige Summe die seltene
 Geige abkaufte, ein Geschäft, auf das der Kapitän niemals
 eingegangen wäre. Als dieser wieder genesen war und dann
-Kenntnis von dem Verlust des Instruments erhalten hat!)
-soll er sich wie ein Verzweifselter benommen haben, schrieb
+Kenntnis von dem Verlust des Instruments erhalten hatte,
+soll er sich wie ein Verzweifelter benommen haben, schrieb
 an den Lord, verlangte die Geige zurück und — wurde abgewiesen,
-soll dem Lord Rache geschworen haben, soll Franzose
+soll dem Lord Rache geschworen haben, soll Prozesse
 gegen ihn angestrengt haben, die er sämtlich verlor.
 So sehr Lord Charly auch sonst Edelmann war: er liebte
 die Cremonenser Geige genau so fanatisch wie Ansalmo dies
 tat. — Auch dies alles stand in jenen Artikeln zu lesen, die
 von der Verwandtschaft des Lords in die englischen Blätter
 lanciert worden waren. Als wir daher in Kolombo wie zufällig
-dem alten Baargen begegneten, als dieser uns anderseits
+dem alten Baargen begegneten, als dieser uns anbettelte
 und sich zu allen möglichen Dienstleistungen anbot
-und uns dann als bog:empor begleitete, hatte ich sehr bald
+und uns dann als Bootsmann begleitete, hatte ich sehr bald
 heraus, daß Baargen kein Holländer sein konnte … Wenn
-ich freilich geahnt hätte, daß sein racfsüchtiges JItalienerbluk
+ich freilich geahnt hätte, daß sein rachsüchtiges Italienerblut
 ihn so weit treiben würde, mit dem alten italienischen Dolche
 den Lord zu ermorden, dann würde ich in der Bucht von
 Drigalkor vorsichtiger gewesen sein … Dann wäre das
 Unheil nicht geschehen …«
 
 <@pagebreak/>
-Und Haralds Gesicht war ernst und Saft schmerzlich bewegt.
+Und Haralds Gesicht war ernst und fast schmerzlich bewegt.
 Ich konnte verstehen, wie nahe es ihm gehen mußte,
 weil er … sich einmal verrechnet hatte! —
 
@@ -2552,21 +2551,21 @@ Die Gräfin fragte jetzt atemlos:
 »Aber — die Geige — — die Geige?! Der Mörder hat
 sie doch zerstört!«
 
-»Das mußte er … Er Kiste es tun, wenn er sich nicht
+»Das mußte er … Er mußte es tun, wenn er sich nicht
 verraten wollte. Hätte er die Geige mitgenommen, so wäre
 man zu leicht auf Vittorio Ansalmo als Täter gekommen.
 doch — die Zerstörung des Instruments ist nicht so arg,
-als es zunächst den Anschein hatte. Ein geehrter Geigen-Hause
-erst die Schäden wieder aus. Und weil ich nun die
+als es zunächst den Anschein hatte. Ein geschickter Geigenbauer
+flickt die Schäden wieder aus. Und weil ich nun die
 Geige mit nach Europa genommen habe, um sie von Berlin
 aus gemäß dem Willen des Lords dem ehemaligen Besitzer
-wieder zuzustellen, weil in meinem Koffer daß kostbare Instrument
+wieder zuzustellen, weil in meinem Koffer das kostbare Instrument
 ruht, nur deshalb hat Ansalmo-Baargen uns begleitet
 … Deshalb — und noch des … Sündenlohnes
 wegen …!«
 
-»Ab — man hat ijhn als Mörder gedungen!« meinte
-die Gräfin entsetzt. »Glauben Ihre das wirklich, Herr
+»Ab — man hat ihn als Mörder gedungen!« meinte
+die Gräfin entsetzt. »Glauben Sie das wirklich, Herr
 Harst?«
 
 »Wie wollen Sie die Depesche Ansalmos anders verstehen?«
@@ -2591,16 +2590,16 @@ den Arm — wie beschwörend, daß er ihr nichts verschweigen
 sollte …
 
 <@pagebreak/>
-»Ah weiß es nicht … noch nicht, Frau Gräfin …
+»Ich weiß es nicht … noch nicht, Frau Gräfin …
 Aber auch den Mann werden wir entdecken, und er soll
-seiner Straße ebensowenig entgehen wie Vittorio Ansalmo!«
+seiner Strafe ebensowenig entgehen wie Vittorio Ansalmo!«
 
 <h2>4. Kapitel.</h2>
 <h3>Der Mann mit dem Kartoffelsack.</h3>
 
-Berlin — — gebeten Bahnhof
+Berlin — — Lehrter Bahnhof …
 
-Wir beide stiegen aus, traten auf ’dem Bahnsteig mit
+Wir beide stiegen aus, trafen auf dem Bahnsteig mit
 Baargen zusammen.
 
 »Sie finden sich dann also morgen vormittag bei uns
@@ -2611,39 +2610,39 @@ Da wir Reisetaschen und Mäntel in den Händen hatten,
 konnte es Baargen-Ansalmo nicht weiter auffallen, daß wir
 uns von ihm ohne Händedruck verabschiedeten.
 
-Wir übergaben einem Gepäckträger unseren Gepätk-schein,
+Wir übergaben einem Gepäckträger unseren Gepäckschein,
 nahmen ein Auto und — fuhren nicht nach Hause …
 
 Nein — eine Kleinigkeit war’s gewesen, die uns noch
-von unserem behaglich Co Heim gerutscht — ein Nichts, nichts
-Greis bares: Parfümgeruch, — und durch ihn die Gräfin, die
-Versuche nach Postamt Dahlem …!
+von unserem behaglichen Heim fernhielt — ein Nichts, nichts
+Greifbares: Parfümgeruch, — und durch ihn die Gräfin, die
+Depesche nach Postamt Dahlem …!
 
 Wir fuhren bis zum Kriminalgericht in Moabit, ließen
-den Chauffeur wenden, fuhren in dem geschlossenen aufs
+den Chauffeur wenden, fuhren in dem geschlossenen Auto
 zum Lehrter Bahnhof zurück …
 
 Warteten hier — auf die Kollegin, auf die Gräfin, die
-wir kehrten Ansalmo hbergeschikt hatten …
+wir hinter Ansalmo hergeschickt hatten …
 
 Sie erschien überraschend schnell, kletterte hastig zu uns
 in den Kraftwagen …
 
-»Denken Sie, Herr Harst, -“- Ansalmo ist … nach dem
+»Denken Sie, Herr Harst, — Ansalmo ist … nach dem
 Bouillonkeller gegangen — nach Krawuschkis Kaschemme, hat
-ein bis dorthin durchgefragt …
+sich bis dorthin durchgefragt …
 
 <@pagebreak/>
 Auch Harald war erstaunt.
 
 »Allerdings, das ist merkwürdig … In der Depesche
-steht: »Bin am 6. Oktober dort …« — Berufe ist der sechste.
+steht: »Bin am 6. Oktober dort …« — Heute ist der sechste.
 Und — ob »dort« etwa die Kaschemme bedeute?!«
 
-»Vielleicht? 1«? Und die Gräfin hob die Schultern …
+»Vielleicht?!« Und die Gräfin hob die Schultern …
 
-»aussteigen!« befahl Harald nach kurzem Uceberleaen.
-»Ah werde den Chauffeur ablohnen. Wir nehmen unser
+»aussteigen!« befahl Harald nach kurzem Überlegen.
+»Ich werde den Chauffeur ablohnen. Wir nehmen unser
 Handgepäck und gehen einzeln nach Krawuschkis Privatwohnung
 im Gartenhause …«
 
@@ -2654,10 +2653,10 @@ emporklomm, als ich oben anlangte, stand die Flurtür schon
 halb offen …
 
 Ein Mann empfing mich, den ich noch nie gesehen …
-Aber kaum hatte er die Tür hinter mir Liebst ins Schloß
+Aber kaum hatte er die Tür hinter mir wieder ins Schloß
 gedrückt, als er mir auch schon zuraunte:«
 
-»Grüß’ Gott, Herr Schraut … Ja bin ich, Jack Barissa
+»Grüß’ Gott, Herr Schraut … Jack bin ich, Jack Barissa
 … Und Mylady sitzt dort drinnen im Zimmer …
 Wir wohnen hier im ersten Stock möbliert — als harmlose
 Artisten … Krawuschki hat das alles tadellos befingert …
@@ -2691,10 +2690,10 @@ Ansalmo tat … —
 Die Berichte kamen. Halb sechs Uhr der erste:
 
 > »Der Mann hat das Logierzimmer hinter der Billardstube
-grün zwei Tage gemietet und sofort bezahlt, hat Osten
+für zwei Tage gemietet und sofort bezahlt, hat Essen
 bestellt und mir soeben erklärt, daß jemand nach A. N. S.
-Arme fragen würde, gegen neun Uhr abends. Den soll ich
-dann zu ihm führen.« -
+Almo fragen würde, gegen neun Uhr abends. Den soll ich
+dann zu ihm führen.« —
 
 Halb sieben der zweite:
 
@@ -2703,7 +2702,7 @@ Halb sieben der zweite:
 Halb neun der letzte:
 
 > »Ein Mann, der einen großen prall gefüllten Sack auf
-dem Rücken mitbrachte, hat soeben nach A. N. S. Arme
+dem Rücken mitbrachte, hat soeben nach A. N. S. Almo
 gefragt. Ich führte ihn zu ihm. — Was soll ich tun?«
 
 Harst rief in die Muschel des Haustelephons hinein:
@@ -2713,8 +2712,8 @@ Harst rief in die Muschel des Haustelephons hinein:
 Und wir beide eilten jetzt die Treppen hinab — auf die
 Straße …
 
-»Bleib’ hier stehen, mein Alter … „« flüsterte Harald.
--Ich werde mich in den Nebengassen umschauen. Vorläufig
+»Bleib’ hier stehen, mein Alter …« flüsterte Harald.
+»Ich werde mich in den Nebengassen umschauen. Vorläufig
 wird Ansalmos Freund nicht wieder herauskommen.«
 
 Und er ging davon …
@@ -2724,11 +2723,11 @@ Wollte sich — umschauen? Weshalb? Wonach?
 … War in fünf Minuten wieder bei mir …
 
 »Dacht’ ich’s mir doch! Ein elegantes Privatauto hält
-dort gleich um die Folge. Neben dem Chauffeur sitzt ein Herr
+dort gleich um die Ecke. Neben dem Chauffeur sitzt ein Herr
 mit falschen blonden Bart … einer von den beiden aus
 dem eleganten Salon — — Du weißt …!«
 
-Ja — nun wußte ich, — — sah  vernäht ein, daß Harald
+Ja — nun wußte ich, — — sah abermals ein, daß Harald
 doch zumeist das Richtige traf …
 
 Ein Auto …! Natürlich wartete es auf Ansalmos —
@@ -2759,7 +2758,7 @@ trübe Laterne …
 
 Bis die Glastür unten leise klirrte …
 
-Bis ein Mann mit einem Dach auf dem Rücken die Stufen
+Bis ein Mann mit einem Sack auf dem Rücken die Stufen
 emporkam, keuchend — langsam …
 
 Ein Wink Haralds …
@@ -2769,7 +2768,7 @@ Wir verschwanden …
 Und der Kerl mit der Last auf dem Rücken starrte
 schwerfällig die Gasse hinab …
 
-Ein Kerl mit ausgefransten Hosen, mit derben Shnür-stiefein
+Ein Kerl mit ausgefransten Hosen, mit derben Schnürstiefeln
 …
 
 Ein Kerl, der ungeheure Kräfte haben mußte, denn —
@@ -2779,7 +2778,7 @@ umsprang und wie sehr er sich verstellt hatte, als er so mühsam
 dahinschritt, als ob er drei Zentner Kartoffeln schleppe.
 
 Kaum hatte sich dann der Kraftwagen in Bewegung
-geteilt, als ein anderer an mir vorüber glitt …
+gesetzt, als ein anderer an mir vorüber glitt …
 
 Ich schwang mich hinein …
 
@@ -2811,22 +2810,22 @@ Guttjahr, zwei Kriminalassistenten und wir beide.
 meinte Harald, als wir gen Dahlem wanderten.
 »Durch die Nummer können wir den Wagenbesitzer also
 kaum ermitteln. Da hilft nur eins: das Äußere des Wagens!
-Er ist braun lackiert, hat ganz neue Reisen und an
-jeder Seite zwei Reservercisen, dazu gelbbraune Fenstervorhänge
+Er ist braun lackiert, hat ganz neue Reifen und an
+jeder Seite zwei Reservereifen, dazu gelbbraune Fenstervorhänge
 und innen eine bläuliche Glühlampe …«
 
-»am — nicht viel!« meinte Guttjahr achselzuckend.
+»Hm — nicht viel!« meinte Guttjahr achselzuckend.
 »Wenn auch die Depesche Ansalmos nach Postamt Dahlem
 gerichtet war, so ist damit doch noch nicht gesagt, daß der
 Empfänger hier auch wohnt.«
 
 Harst blieb zuversichtlich. »Er wohnt hier! Er kann
 die Depesche durch eine Mittelsperson haben abholen lassen.
-Als Schraut und ich damals entführt wurden, kamen Wind
+Als Schraut und ich damals entführt wurden, kamen wir
 Über eine große und eine kleinere Brücke. Die erstere ist
 die Halenseer gewesen, und die zweite dürfte hier in Dahlem
 zu suchen sein — wahrscheinlich nur eine Überführung über
-einen diesen Straßengraben. Am besten ist, wir trennen
+einen tiefen Straßengraben. Am besten ist, wir trennen
 uns und suchen einzeln.«
 
 Guttjahr lachte. »Damit Sie und Schraut wieder die
@@ -2837,11 +2836,11 @@ bleiben wir besser beieinander …« —
 Wir waren nun in der Villenkolonie …
 
 Und — hatten jetzt Glück, trafen einen Beamten der
-einer Bad; Gesellschaft, und der wußte hier genau Bescheid
+Berliner Wachgesellschaft, und der wußte hier genau Bescheid
 
-Holzbrücke? — Ja, die kenne er … In der Windors-straße
+Holzbrücke? — Ja, die kenne er … In der Windorfstraße
 … Vor der Villa des reichen Engländers …
-Wie der heiße? — Thomas Montfort … — andern Auto?
+Wie der heiße? — Thomas Montfort … — Und ein Auto?
 — Allerdings — ein dunkelbraunes … Und heute finde in
 der Villa großer Ball statt … Die Musik sei bis auf die
 Straße zu hören, wo ein Auto nach dem anderen daherkomme
@@ -2849,7 +2848,7 @@ Straße zu hören, wo ein Auto nach dem anderen daherkomme
 
 Wir gingen weiter …
 
-Harst blieb getrost, obgleich Guttjahr stark bezweifelte.
+Harst blieb getrost, obgleich Guttjahr stark bezweifelte,
 ob dies die richtige Fährte sei … —
 
 Dann die Villa …
@@ -2875,22 +2874,22 @@ Harsts Dietrich arbeitet …
 
 Und er:
 
-»Glaubst Du denn, daß Ansalmo noch lebt?! sich
+»Glaubst Du denn, daß Ansalmo noch lebt?! Ich
 nicht!«
 
 So selbstverständlich klang das wieder … Und der
 Nachsatz ebenso:
 
-»Man läßt keinen Mitwisser wie Ansalmo am Leber!
-Man schleppt keinen mit leichten Streifen vollgepfropften Sack
-öweklo8 mit zu einem solchen Besuch …«
+»Man läßt keinen Mitwisser wie Ansalmo am Leben!
+Man schleppt keinen mit leichten Stoffen vollgepfropften Sack
+zwecklos mit zu einem solchen Besuch …«
 
-»Ab — nachher war Ansalmos Leiche darin …?!«
+»Ah — nachher war Ansalmos Leiche darin …?!«
 Und Guttjahr pfeift leise durch die Zähne …
 
 <@pagebreak/>
 Die Garagentür geht auf … Wir fünf hinein … —
-Das braune Auto … Taschenlampen Blitzen …
+Das braune Auto … Taschenlampen blitzen …
 
 Leer — leer …
 
@@ -2904,7 +2903,7 @@ Mir weht’s kalt über den Rücken …
 
 Und wir schleichen wieder davon …
 
-Holen Unterstüßhung. Die Villa wird umstellt …
+Holen Unterstützung. Die Villa wird umstellt …
 
 Wieder klettern wir über die Mauer, Guttjahr, wir
 beide … Gehen um die Villa herum, finden einen offenen
@@ -2941,7 +2940,7 @@ des weißen toten Brahmanen, sich während des
 Transportes zum Polizeipräsidium vergifteten …
 
 Nicht in den Zeitungen stand, daß Lady Amely uns
-Heiden einen Riesenschef überreichte und daß der Schloß-verwalttr
+beiden einen Riesenscheck überreichte und daß der Schloßverwalter
 <@pagebreak/>
 der jungen Witwe ein gewisser Geldschrankknacker
 namens Jack Barissa ist … —
@@ -2949,10 +2948,10 @@ namens Jack Barissa ist … —
 Hiermit schließe ich den »Bouillonkeller Nr. 113« …
 
 Und führe den Leser im nächsten Band an die Gestade
-der Ostsee — in den Bauch eines Tümmiilers, eines Ehwein-fisches
+der Ostsee — in den Bauch eines Tümmlers, eines Schweinfisches
 von dreiundeinviertel Meter Länge …
 
-Also — — aus Wiedersehen in anderer Umgebung …
+Also — — auf Wiedersehen in anderer Umgebung …
 
 Nächster Band:
 
